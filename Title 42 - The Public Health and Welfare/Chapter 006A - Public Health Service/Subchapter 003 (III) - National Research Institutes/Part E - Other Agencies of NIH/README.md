@@ -10,3 +10,4 @@ Part E—Other Agencies of NIH
 - [Subpart 003 - National Center for Human Genome Research](Subpart%20003%20-%20National%20Center%20for%20Human%20Genome%20Research/README.md)
 - [Subpart 004 - Office of Dietary Supplements](Subpart%20004%20-%20Office%20of%20Dietary%20Supplements/README.md)
 - [Subpart 005 - National Center for Complementary and Alternative Medicine](Subpart%20005%20-%20National%20Center%20for%20Complementary%20and%20Alternative%20Medicine/README.md)
+- [Subpart 006 - National Center on Minority Health and Health Disparities](Subpart%20006%20-%20National%20Center%20on%20Minority%20Health%20and%20Health%20Disparities/README.md)

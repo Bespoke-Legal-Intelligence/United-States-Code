@@ -38,7 +38,7 @@ Pub. L. 101–120, §1, Oct. 23, 1989, 103 Stat. 700, provided that: “This Act
 
 #### Short Title of 1988 Amendment
 
-Pub. L. 100–297, title II, §2501, Apr. 28, 1988, 102 Stat. 325, provided that part E (§§2501–2504) of title II of Pub.L. 100–297, which enacted subchapter V of this chapter, amended section 9833 of this title, and enacted provisions set out as notes under this section and section 9881 of this title, could be cited as the “Comprehensive Child Development Centers Act of 1988”, prior to repeal by Pub. L. 103–252, title I, §112(b)(1), (2)(A), May 18, 1994, 108 Stat. 640, 641.
+Pub. L. 100–297, title II, §2501, Apr. 28, 1988, 102 Stat. 325, provided that part E (§§2501–2504) of title II of Pub. L. 100–297, which enacted subchapter V of this chapter, amended section 9833 of this title, and enacted provisions set out as notes under this section and section 9881 of this title, could be cited as the “Comprehensive Child Development Centers Act of 1988”, prior to repeal by Pub. L. 103–252, title I, §112(b)(1), (2)(A), May 18, 1994, 108 Stat. 640, 641.
 
 #### Short Title of 1986 Amendment
 

@@ -685,6 +685,64 @@ Government agency or official not relieved of responsibility to assure nondiscri
 
 |  |  |
 | :--- | ---: |
+| 2000e–16a. | Short title; purpose; definition. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Short title.
+
+(b)
+
+Purpose.
+
+(c)
+
+“Violation” defined.
+
+|  |  |
+| :--- | ---: |
+| 2000e–16b. | Discriminatory practices prohibited. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Practices.
+
+(b)
+
+Remedies.
+
+|  |  |
+| :--- | ---: |
+| 2000e–16c. | Coverage of previously exempt State employees. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Application.
+
+(b)
+
+Enforcement by administrative action.
+
+(c)
+
+Judicial review.
+
+(d)
+
+Standard of review.
+
+(e)
+
+Attorney's fees.
+
+|  |  |
+| :--- | ---: |
 | 2000e–17. | Procedure for denial, withholding, termination, or suspension of Government contract subsequent to acceptance by Government of affirmative action plan of employer; time of acceptance of plan. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

@@ -6,7 +6,7 @@ In addition to the authority provided under section 726 of this title, the Assoc
 
 #### (b) Accounts receivable
 
-(1) In any further purchase under this section or section 726 of this title the Association shall purchase accounts receivable of the Corporation attributable to the dispute over the right-of-way related costs described in section 1111 <sup>1</sup> of this title until the Commission resolves such dispute under such section, and accounts receivable of the Corporation attributable to delays in reimbursement from commuter authorities.
+(1) In any further purchase under this section or section 726 of this title the Association shallpurchase accounts receivable of the Corporation attributable to the dispute over the right-of-way related costs described in section 1111 <sup>1</sup> of this title until the Commission resolves such dispute under such section, and accounts receivable of the Corporation attributable to delays in reimbursement from commuter authorities.
 
 (2) From funds provided under this section or section 726 of this title, the Association shall purchase Series A preferred stock of the Corporation, to the extent of losses on commuter service, in an amount not to exceed $15,000,000.
 
@@ -64,7 +64,7 @@ Section effective Aug. 13, 1981, see section 1169 of Pub. L. 97–35, set out as
 
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
 
-Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwiseprovided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
 
 #### Abolition of United States Railway Association and Transfer of Functions and Securities
 

@@ -6,7 +6,7 @@ The Commission shall be composed of the Librarian of Congress, the Director of t
 
 #### (b) Compensation; travel expenses
 
-Members of the Commission who are not in the regular full-time employ of the United States shall, while attending meetings or conferences of the Commission or otherwise engaged in the business of the Commission, be entitled to receive compensation at a rate fixed by the Chairman, but not exceeding the daily equivalent of the maximum rate authorized for a position above grade GS–15 of the General Schedule under section 5108 of title 5, for each day (including traveltime) during which the members are engaged in the business of the Commission. While so serving on the business ofthe Commission away from their homes or regular places of business, they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons employed intermittently in the Government service.
+Members of the Commission who are not in the regular full-time employ of the United States shall, while attending meetings or conferences of the Commission or otherwise engaged in the business of the Commission, be entitled to receive compensation at a rate fixed by the Chairman, but not exceeding the daily equivalent of the maximum rate authorized for a position above grade GS–15 of the General Schedule under section 5108 of title 5, for each day (including traveltime) during which the members are engaged in the business of the Commission. While so serving on the business of the Commission away from their homes or regular places of business, they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons employed intermittently in the Government service.
 
 #### (c) Professional and technical personnel
 
@@ -26,7 +26,7 @@ The classification laws, referred to in subsec. (c)(2), are set forth in chapter
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–208, §101(e) \[title VII, §703(b)(1)(A), (B)(ii), (C)\], in first sentence, substituted “Librarian of Congress, the Director of the Institute of Museum and Library Services (who shall serve as an ex officio, nonvoting member),” for “Librarian of Congress”, in second sentence, inserted “and at least one other of whom shall be knowledgeable with respect to the library and information service and science needs of the elderly” before period at end, and in third sentence, inserted “appointive” before “members of the Commission”.
+1996—Subsec. (a). Pub. L. 104–208, §101(e) \[title VII, §703(b)(1)(A), (B)(ii), (C)\], in first sentence, substituted“Librarian of Congress, the Director of the Institute of Museum and Library Services (who shall serve as an ex officio, nonvoting member),” for “Librarian of Congress”, in second sentence, inserted “and at least one other of whom shall be knowledgeable with respect to the library and information service and science needs of the elderly” before period at end, and in third sentence, inserted “appointive” before “members of the Commission”.
 
 Pub. L. 104–208, §101(e) \[title VII, §703(b)(1)(B)(i)\], substituted “special competence in or knowledge of” for “special competence or interest in”. The substitution was made to reflect the probable intent of Congress, in the absence of closing quotations designating the provisions to be inserted.
 

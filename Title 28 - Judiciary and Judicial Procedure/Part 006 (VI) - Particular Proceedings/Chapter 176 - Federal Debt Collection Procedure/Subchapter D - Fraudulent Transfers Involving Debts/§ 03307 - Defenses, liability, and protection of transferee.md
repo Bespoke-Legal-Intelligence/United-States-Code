@@ -1,0 +1,52 @@
+### §3307. Defenses, liability, and protection of transferee
+
+(a)
+
+Good Faith Transfer.—A transfer or obligation is not voidable under section 3304(b) with respect to a person who took in good faith and for a reasonably equivalent value or against any transferee or obligee subsequent to such person.
+
+(b)
+
+Limitation.—Except as provided in subsection (d), to the extent a transfer is voidablein an action or proceeding by the United States under section 3306(a)(1), the United States may recover judgment for the value of the asset transferred, but not to exceed the judgment on a debt. The judgment may be entered against—
+
+&emsp;(1) the first transferee of the asset or the person for whose benefit the transfer was made; or
+
+&emsp;(2) any subsequent transferee, other than a good faith transferee who took for value or any subsequent transferee of such good-faith transferee.
+
+(c)
+
+Value of Asset.—For purposes of subsection (b), the value of the asset is the value of the asset at the time of the transfer, subject to adjustment as the equities may require.
+
+(d)
+
+Rights of Good Faith Transferees and Obligees.—Notwithstanding voidability of a transfer or an obligation under this subchapter, a good-faith transferee or obligee is entitled, to the extent of the value given the debtor for the transfer or obligation, to—
+
+&emsp;(1) a lien on or a right to retain any interest in the asset transferred;
+
+&emsp;(2) enforcement of any obligation incurred; or
+
+&emsp;(3) a reduction in the amount of the liability on the judgment.
+
+(e)
+
+Exceptions.—A transfer is not voidable under section 3304(a) or section 3304(b)(2) if the transfer results from—
+
+&emsp;(1) termination of a lease upon default by the debtor when the termination is pursuant to the lease and applicable law; or
+
+&emsp;(2) enforcement of a security interest in compliance with article 9 of the Uniform Commercial Code or its equivalent in effect in the State where the property is located.
+
+(f)
+
+Limitation of Voidability.—A transfer is not voidable under section 3304(a)(2)—
+
+&emsp;(1) to the extent the insider gives new value to or for the benefit of the debtor after the transfer is made unless the new value is secured by a valid lien;
+
+&emsp;(2) if made in the ordinary course of business or financial affairs of the debtor and the insider; or
+
+&emsp;(3) if made pursuant to a good-faith effort to rehabilitate the debtor and the transfer secured both present value given for that purpose and an antecedent debt of the debtor.
+
+(Added Pub. L. 101–647, title XXXVI, §3611, Nov. 29, 1990, 104 Stat. 4963.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 3303, 3304, 3306 of this title.
+

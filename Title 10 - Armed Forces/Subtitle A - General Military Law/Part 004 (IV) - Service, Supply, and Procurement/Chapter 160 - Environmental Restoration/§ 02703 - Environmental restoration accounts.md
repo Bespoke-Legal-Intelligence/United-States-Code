@@ -12,9 +12,35 @@ Establishment of Accounts.—There are hereby established in the Department of D
 
 &emsp;(4) An account to be known as the “Environmental Restoration Account, Air Force”.
 
+&emsp;(5) An account to be known as the “Environmental Restoration Account, Formerly Used Defense Sites”.
+
 (b)
 
-Obligation of Authorized Amounts.—Funds authorized for deposit in an account under subsection (a) may be obligated or expended from the account only in order to carry out the environmental restoration functions of the Secretary of Defense and the Secretaries of the military departments under this chapter and under any other provision of law. Funds so authorized shall remain available until expended.
+Obligation of Authorized Amounts.—(1) Funds authorized for deposit in an account under subsection (a) may be obligated or expended from the account only—
+
+&emsp;(A) to carry out the environmental restoration functions of the Secretary of Defense and the Secretaries of the military departments under this chapter and under any other provision of law; and
+
+&emsp;(B) to pay for the costs of permanently relocating a facility because of a release or threatened release of hazardous substances, pollutants, or contaminants from—
+
+&emsp;&emsp;(i) real property on which the facility is located and that is currently under the jurisdiction of the Secretary of Defense or the Secretary of a military department; or
+
+&emsp;&emsp;(ii) real property on which the facility is located and that was under the jurisdiction of the Secretary of Defense or the Secretary of a military department at the time of the actions leading to the release or threatened release.
+
+(2) The authority provided by paragraph (1)(B) expires September 30, 2003. The Secretary of Defense or the Secretary of a military department may not pay the costs of permanently relocating a facility under such paragraph unless the Secretary—
+
+&emsp;(A) determines that permanent relocation—
+
+&emsp;&emsp;(i) is the most cost effective method of responding to the release or threatened release of hazardous substances, pollutants, or contaminants from the real property on which the facility is located;
+
+&emsp;&emsp;(ii) has the approval of relevant regulatory agencies; and
+
+&emsp;&emsp;(iii) is supported by the affected community; and
+
+&emsp;(B) submits to Congress written notice of the determination before undertaking the permanent relocation of the facility, including a description of the response action taken or to be taken in connection with the permanent relocation and a statement of the costs incurred or to be incurred in connection with the permanent relocation.
+
+(3) If relocation costs are to be paid under paragraph (1)(B) with respect to a facility located on real property described in clause (ii) of such paragraph, the Secretary of Defense or the Secretary of the military department concerned may use only fund transfer mechanisms otherwise available to the Secretary.
+
+(4) Funds authorized for deposit in an account under subsection (a) shall remain available until expended. Not more than 5 percent of the funds deposited in an account under subsection (a) for a fiscal year may be used to pay relocation costs under paragraph (1)(B).
 
 (c)
 
@@ -32,13 +58,25 @@ Credit of Amounts Recovered.—The following amounts shall be credited to the ap
 
 Payments of Fines and Penalties.—None of the funds appropriated to the Environmental Restoration Account, Defense, for fiscal years 1995 through 2010, or to any environmental restoration account of a military department for fiscal years 1997 through 2010, may be used for the payment of a fine or penalty (including any supplemental environmental project carried out as part of such penalty) imposed against the Department of Defense or a military department unless the act or omission for which the fine or penalty is imposed arises out of an activity funded by the environmental restoration account concerned and the payment of the fine or penalty has been specifically authorized by law.
 
-(Added Pub. L. 99–499, title II, §211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1722; amended Pub. L. 103–337, div. A, title III, §321, Oct. 5, 1994, 108 Stat. 2710; Pub. L. 104–106, div. A, title III, §322, Feb. 10, 1996, 110 Stat. 252; Pub. L. 104–201, div. A, title III, §322(a)(1), Sept. 23, 1996, 110 Stat. 2477; Pub. L. 106–65, div. A, title III, §321, title X, §1066(a)(27), Oct. 5, 1999, 113 Stat. 560, 772.)
+(f)
+
+Sole Source of Funds for Operation and Monitoring of Environmental Remedies.—(1) The sole source of funds for all phases of an environmental remedy at a site under the jurisdiction of the Department of Defense or a formerly used defense site shall be the applicable environmental restoration account established under subsection (a).
+
+(2) In this subsection, the term “environmental remedy” has the meaning given the term “remedy” in section 101 of CERCLA (42 U.S.C. 9601).
+
+(Added Pub. L. 99–499, title II, §211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1722; amended Pub. L. 103–337, div. A, title III, §321, Oct. 5, 1994, 108 Stat. 2710; Pub. L. 104–106, div. A, title III, §322, Feb. 10, 1996, 110 Stat. 252; Pub. L. 104–201, div. A, title III, §322(a)(1), Sept. 23, 1996, 110 Stat. 2477; Pub. L. 106–65, div. A, title III, §321, title X, §1066(a)(27), Oct. 5, 1999, 113 Stat. 560, 772; Pub. L. 106–398, §1 \[\[div. A\], title III, §§311, 312\], Oct. 30, 2000, 114 Stat. 1654, 1654A–53, 1654A–54.)
 
 #### References in Text
 
-CERCLA, referred to in subsec. (d)(1), means the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, Pub. L. 96–510, Dec. 11,1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of Title 42 and Tables.
+CERCLA, referred to in subsec. (d)(1), means the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of Title 42 and Tables.
 
 #### Amendments
+
+2000—Subsec. (a)(5). Pub. L. 106–398, §1 \[\[div. A\], title III, §311(a)\], added par. (5).
+
+Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title III, §312\], amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “Funds authorized for deposit in an account under subsection (a) may be obligated or expended from the account only in order to carry out the environmental restorationfunctions of the Secretary of Defense and the Secretaries of the military departments under this chapter and under any other provision of law. Funds so authorized shall remain available until expended.”
+
+Subsec. (f). Pub. L. 106–398, §1 \[\[div. A\], title III, §311(b)\], added subsec. (f).
 
 1999—Subsec. (c). Pub. L. 106–65, §1066(a)(27), struck out “United States Code,” after “title 31,”.
 

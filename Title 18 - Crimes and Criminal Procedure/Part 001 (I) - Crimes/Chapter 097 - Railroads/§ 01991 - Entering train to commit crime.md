@@ -24,20 +24,6 @@ Minor changes also were made in phraseology.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000” in first par.
 
-#### Canal Zone
-
-Applicability of section to Canal Zone, see section 14 of this title.
-
-#### Cross References
-
-Destruction of property moving in commerce, see section 80501 of Title 49, Transportation.
-
-Larceny, etc., of goods from railroad car or station, see section 659 of this title.
-
-Railroad car entered or seal broken, see section 2117 of this title.
-
-Wire or oral communications, authorization for interception, to provide evidence of murder or robbery, see section 2516 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 14 of this title.

@@ -2,7 +2,7 @@
 
 #### (a) Congressional committee regulations for expenditure of appropriations for official mail
 
-Except as otherwise provided in this section, funds appropriated by this Act or any other Act for expenses of official mail of any person entitled to use the congressional frank may be expended only in accordance with regulations prescribed by the Committee on Rules and Administration of the Senate or the Committee on House Oversight of the House of Representatives, as applicable. Such regulations shall require—
+Except as otherwise provided in this section, funds appropriated by this Act or any other Actfor expenses of official mail of any person entitled to use the congressional frank may be expended only in accordance with regulations prescribed by the Committee on Rules and Administration of the Senate or the Committee on House Oversight of the House of Representatives, as applicable. Such regulations shall require—
 
 &emsp;(1) individual accountability for use of official mail by each person entitled to use the congressional frank;
 
@@ -135,10 +135,6 @@ Committee on House Oversight of House of Representatives changed to Committee on
 Amendment by section 103(a)(1)–(3), (4)(B) of Pub. L. 106–57 applicable with respect to the first session of the One Hundred Sixth Congress and each succeeding session of Congress, see section 103(c) of Pub. L. 106–57, set out as a note under section 57 of this title.
 
 Pub. L. 106–19, §1(b), Apr. 8, 1999, 113 Stat. 29, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to January 1999 and each succeeding month.”
-
-#### Cross References
-
-For establishment of Members’ Representational Allowance, see section 57b of this title.
 
 #### Section Referred to in Other Sections
 

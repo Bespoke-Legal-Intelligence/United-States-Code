@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 1339, 2133, 2171, 3106, 3571 of this title.
+This subchapter is referred to in sections 1339, 2133, 2171, 3106, 3571 of this title; title 22 section 6943.
 
 
 ---

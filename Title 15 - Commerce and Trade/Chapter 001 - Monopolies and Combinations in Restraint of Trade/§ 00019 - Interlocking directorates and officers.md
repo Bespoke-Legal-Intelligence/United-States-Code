@@ -24,7 +24,7 @@
 
 (5) For each fiscal year commencing after September 30, 1990, the $10,000,000 and $1,000,000 thresholds in this subsection shall be increased (or decreased) as of October 1 each year by an amount equal to the percentage increase (or decrease) in the gross national product, as determined by the Department of Commerce or its successor, for the year then ended over the level so established for the year ending September 30, 1989. As soon as practicable, but not later than January 31 of each year, the Federal Trade Commission shall publish the adjusted amounts required by this paragraph.
 
-(b) When any person elected or chosen as a director or officer of any corporation subject to the provisions hereof is eligible at the time of his election or selection to act for such corporation in such capacity, his eligibility to act in such capacity shall not be affected by any of the provisions hereof by reason of any change in thecapital, surplus and undivided profits, or affairs of such corporation from whatever cause, until the expiration of one year from the date on which the event causing ineligibility occurred.
+(b) When any person elected or chosen as a director or officer of any corporation subject to the provisions hereof is eligible at the time of his election or selection to act for such corporation in such capacity, his eligibility to act in such capacity shall not be affected by any of the provisions hereof by reason of any change in the capital, surplus and undivided profits, or affairs of such corporation from whatever cause, until the expiration of one year from the date on which the event causing ineligibility occurred.
 
 (Oct. 15, 1914, ch. 323, §8, 38 Stat. 732; May 15, 1916, ch. 120, 39 Stat. 121; May 26, 1920, ch. 206, 41 Stat. 626; Mar. 9, 1928, ch. 165, 45 Stat. 253; Mar. 2, 1929, ch. 581, 45 Stat. 1536; Aug. 23, 1935, ch. 614, §329, 49 Stat. 717; Pub. L. 101–588, §2, Nov. 16, 1990, 104 Stat. 2879; Pub. L. 103–203, §1, Dec. 17, 1993, 107 Stat. 2368.)
 
@@ -44,15 +44,7 @@ The antitrust laws, referred to in subsec. (a)(1)(B), are defined in section 12 
 
 1928—Act Mar. 9, 1928, amended second par.
 
-#### Cross References
-
-Administrative authority to enforce compliance with this section, see section 21 of this title.
-
-Atomic energy licenses, antitrust provisions governing, see section 2135 of Title 42, The Public Health and Welfare.
-
-Injunctive relief for private parties, see section 26 of this title.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 21, 26 of this title; title 12 section 3205.
+This section is referred to in sections 18a, 21, 26 of this title; title 12 section 3205.
 

@@ -6,7 +6,7 @@ There shall be implemented by each United States district court, in accordance w
 
 #### Amendments
 
-1991—Pub. L. 102–198 substituted “this chapter” for “this title”.
+<b>1991</b>—Pub. L. 102–198 substituted “this chapter” for “this title”.
 
 #### Congressional Statement of Findings
 
@@ -30,17 +30,17 @@ Section 102 of Pub. L. 101–650 provided that: “The Congress makes the follow
 
 &emsp;&emsp;“(D) utilization of alternative dispute resolution programs in appropriate cases.
 
-&emsp;“(6) Because the increasing volume and complexity of civil and criminal cases imposes increasingly heavy workload burdens on judicial officers, clerks of court, and other court personnel, it is necessary to create an effective administrative structure to ensure ongoing consultation and communication regarding effective litigation management and cost and delay reduction principles and techniques.”
+&emsp;“(6) Because the increasing volume and complexity of civil and criminal cases imposes increasinglyheavy workload burdens on judicial officers, clerks of court, and other court personnel, it is necessary to create an effective administrative structure to ensure ongoing consultation and communication regarding effective litigation management and cost and delay reduction principles and techniques.”
 
 #### Implementation of Plans
 
-Section 103(b), (c) of Pub. L. 101–650, as amended by Pub. L. 102–572, title V, §505, Oct. 29, 1992, 106 Stat. 4513; Pub. L. 105–53, §2, Oct. 6, 1997, 111 Stat. 1173, provided that:
+Section 103(b), (c) of Pub. L. 101–650, as amended by Pub. L. 102–572, title V, §505, Oct. 29, 1992, 106 Stat. 4513; Pub. L. 105–53, §2, Oct. 6, 1997, 111 Stat. 1173; Pub. L. 106–518, title II, §206, Nov. 13, 2000, 114 Stat. 2414, provided that:
 
 “(b)
 
 Implementation.—(1) Except as provided in section 105 of this Act \[set out below\], each United States district court shall, within three years after the date of the enactment of this title \[Dec. 1, 1990\], implement a civil justice expense and delay reduction plan under section 471 of title 28, United States Code, as added by subsection (a).
 
-“(2)(A) The requirements set forth in sections 472, 473, 474, 475, 477, and 478 of title 28, United States Code, as added by subsection (a), shall remain in effect for seven years after the date of the enactment of this title.
+“(2)(A) The requirements set forth in sections 471, 472, 473, 474, 475, 477, and 478 of title 28, United States Code, as added by subsection (a), shall remain in effect for seven years after the date of the enactment of this title.
 
 “(B) The requirements set forth in section 476 of title 28, United States Code, as added by subsection (a), shall remain in effect permanently.
 
@@ -108,7 +108,7 @@ Program Requirements.—(1) Ten district courts (in this section referred to as 
 
 Program Study Report.—(1) Not later than June 30, 1997, the Judicial Conference shall submit to the Committees on the Judiciary of the Senate and House of Representatives a report on the results of the pilot program under this section that includes an assessment of the extent to which costs and delays were reduced as a result of the program. The report shall compare those results to the impact on costs and delays in ten comparable judicial districts for which the application of section 473(a) of title 28, United States Code, had been discretionary. That comparison shall be based on a study conducted by an independent organization with expertise in the area of Federal court management.
 
-“(2)(A) The Judicial Conference shall include in its report a recommendation as to whether some or all district courts should be required to include, in their expense and delay reduction plans, the 6 principles and guidelines of litigation management and cost and delay reduction identified in section 473(a) of title 28, United States Code.
+“(2)(A) The Judicial Conference shall include in its report a recommendation as to whether some or all district courts should be required to include, in their expense and delay reduction plans, the 6 principles andguidelines of litigation management and cost and delay reduction identified in section 473(a) of title 28, United States Code.
 
 “(B) If the Judicial Conference recommends in its report that some or all district courts be required to include such principles and guidelines in their expense and delay reduction plans, the Judicial Conference shall initiate proceedings for the prescription of rules implementing its recommendation, pursuant to chapter 131 of title 28, United States Code.
 

@@ -42,7 +42,7 @@ This section not applicable with respect to either the amendments made by sectio
 
 #### Recommendations by Secretary of State to President
 
-For authority for the Secretary of State to make recommendations to the President through the Director ofthe Office of Management and Budget whenever action is appropriate under this section to maintain existing conformity between the Civil Service Retirement and Disability System and the Foreign Service Retirement and Disability System, see section 3 of Ex. Ord. No. 12293, Feb. 23, 1981, 46 F.R. 13969, set out as a note under section 3901 of this title.
+For authority for the Secretary of State to make recommendations to the President through the Director of the Office of Management and Budget whenever action is appropriate under this section to maintain existing conformity between the Civil Service Retirement and Disability System and the Foreign Service Retirement and Disability System, see section 3 of Ex. Ord. No. 12293, Feb. 23, 1981, 46 F.R. 13969, set out as a note under section 3901 of this title.
 
 #### Ex. Ord. No. 12289. Conforming the Foreign Service and Civil Service Retirement and Disability Systems
 
@@ -110,7 +110,7 @@ Sec. 4. <i>Credit For Military Service</i>. (a) Section 805 of the Act (22 U.S.C
 
 (i) by striking out subsection (e) and substituting the following subsection in lieu thereof:
 
-“(e)(1) Each participant who has performed military or naval service before the date of separation on which the entitlement to any annuity under this chapter is based may pay to the Secretary a special contribution equal to 7 percent of the amount of the basic pay paid under section 204 of title 37 of the United States Code, to the participant for each period of military or naval service after December 1956. The amount of such payments shall be based on such evidence of basic pay for military service as the participant may provide or ifthe Secretary determines sufficient evidence has not been so provided to adequately determine basic pay for military or naval service, such payment shall be based upon estimates of such basic pay provided to the Department under paragraph (4).
+“(e)(1) Each participant who has performed military or naval service before the date of separation on which the entitlement to any annuity under this chapter is based may pay to the Secretary a special contribution equal to 7 percent of the amount of the basic pay paid under section 204 of title 37 of the United States Code, to the participant for each period of military or naval service after December 1956. The amount of such payments shall be based on such evidence of basic pay for military service as the participant may provide or if the Secretary determines sufficient evidence has not been so provided to adequately determine basic pay for military or naval service, such payment shall be based upon estimates of such basic pay provided to the Department under paragraph (4).
 
 “(2) Any deposit made under paragraph (1) of this subsection more than two years after the later of—
 
@@ -156,7 +156,7 @@ Sec. 4. <i>Credit For Military Service</i>. (a) Section 805 of the Act (22 U.S.C
 
 (e) The amendments deemed to be made by Section 4 of this Order shall be effective on the date of this Order \[Oct. 17, 1983\].
 
-Sec. 5. <i>Recomputation at Age 62 of Credit for Military Service of Current Annuitants</i>. (a) Section 816(a) of the Act (22 U.S.C. 4056(a)) is deemed to be further amended so that the provisions of section 8332(j) of Title 5 of the United States Code, relating to credit for military service, shall not apply with respect to any individual who is entitled to an annuity under such Act \[this chapter\] on or before the date of approval of this order \[Oct. 17, 1983\], or who is entitled to an annuity based on a separation from service occurring on or before such date.
+Sec. 5. <i>Recomputation at Age 62 of Credit for Military Service of Current Annuitants</i>. (a) Section 816(a) of the Act (22 U.S.C. 4056(a)) is deemed to be further amended so that the provisions of section 8332(j) of Title 5 of the United States Code, relating to credit for military service, shall not apply with respect to any individual who is entitled to an annuity under such Act \[this chapter\] on or before the date of approval of this order \[Oct. 17,1983\], or who is entitled to an annuity based on a separation from service occurring on or before such date.
 
 (b) Subject to subsection (c), in any case in which an individual described in subsection (a) is also entitled to old-age or survivors insurance benefits under section 202 of the Social Security Act \[42 U.S.C. 402\] (or would be entitled to such benefits upon filing application therefor), the amount of the annuity to which such individual is entitled under chapter 8 of the Act \[this subchapter\] (after taking into account subsection (a)) which is payable for any month shall be reduced by an amount determined by multiplying the amount of such old-age or survivors insurance benefit for the determination month by a fraction—
 

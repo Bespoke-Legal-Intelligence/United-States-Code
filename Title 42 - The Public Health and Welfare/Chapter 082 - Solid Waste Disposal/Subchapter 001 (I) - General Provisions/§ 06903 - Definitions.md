@@ -140,5 +140,5 @@ Enforcement functions of Administrator or other official of Environmental Protec
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5919, 6921, 6939e, 6991, 9601, 9614 of this title; title 10 section 2708; title 25section 3902; title 26 section 4662; title 33 section 2601; title 46 App. section 883; title 49 sections 5702, 60128.
+This section is referred to in sections 5919, 6921, 6939e, 6991, 9601, 9614 of this title; title 10 section 2708; title 25 section 3902; title 26 section 4662; title 33 section 2601; title 46 App. section 883; title 49 sections 5702, 60128.
 

@@ -84,7 +84,7 @@
 | [1418\.](Subchapter%20001%20%28I%29%20-%20Regulation/%C2%A7%2001418%20-%20Regulations.md) | Regulations. |
 | [1419\.](Subchapter%20001%20%28I%29%20-%20Regulation/%C2%A7%2001419%20-%20International%20cooperation.md) | International cooperation. |
 | [1420\.](Subchapter%20001%20%28I%29%20-%20Regulation/%C2%A7%2001420%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-| [1421\.](Subchapter%20001%20%28I%29%20-%20Regulation/%C2%A7%2001421%20-%20Annual%20report%20to%20Congress.md) | Annual report to Congress. |
+| [1421\.](Subchapter%20001%20%28I%29%20-%20Regulation/%C2%A7%2001421%20-%20Omitted.md) | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

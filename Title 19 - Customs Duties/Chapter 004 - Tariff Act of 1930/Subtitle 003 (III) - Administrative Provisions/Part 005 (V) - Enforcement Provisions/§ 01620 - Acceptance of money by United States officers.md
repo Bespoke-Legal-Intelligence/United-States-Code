@@ -10,9 +10,3 @@ Provisions similar to those in this section were contained in act Sept. 21, 1922
 
 Provisions somewhat similar to those in this section but excepting cases of smuggling were contained in act June 22, 1874, ch. 391, §7, 18 Stat. 187, prior to repeal by act Sept. 21, 1922, ch. 356, title IV, §643, 42 Stat. 989.
 
-#### Cross References
-
-Extortion by officers or employees of the United States, see section 872 of Title 18, Crimes and Criminal Procedure.
-
-Penalty for customs officers receiving any other or greater fee, compensation, or reward than is allowed by law, see section 60 of this title.
-

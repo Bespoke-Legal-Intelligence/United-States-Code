@@ -38,7 +38,7 @@ Notwithstanding any provision of the articles of incorporation and bylaws of a N
 
 #### (c) Shareholder petitions
 
-(1)(A) With respect to an amendment authorized by section 1606(g)(1)(B) of this title or section 1629c(b) of this title or an amendment authorizing the issuance of stock subject to the restrictions provided by section 1606(g)(2)(B)(iii) of this title, the holders of shares representing at least 25 per centum of the total voting power of a Native Corporation may petition the board of directors to submit such amendment to a vote of the shareholders in accordance with the provisions of this section.
+(1)(A) With respect to an amendment authorized by section 1606(g)(1)(B) of this title orsection 1629c(b) of this title or an amendment authorizing the issuance of stock subject to the restrictions provided by section 1606(g)(2)(B)(iii) of this title, the holders of shares representing at least 25 per centum of the total voting power of a Native Corporation may petition the board of directors to submit such amendment to a vote of the shareholders in accordance with the provisions of this section.
 
 (B) The requirements of the laws of the State relating to the solicitation of proxies shall govern solicitation of signatures for a petition described in subparagraph (A) except that the requirements of Federal law shall govern the solicitation of signatures for a petition that is to be submitted to a Native Corporation which at the time of such submission has issued a class of equity securities registered pursuant to the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\]. If a petition meets the applicable solicitation requirements and—
 
@@ -46,7 +46,7 @@ Notwithstanding any provision of the articles of incorporation and bylaws of a N
 
 &emsp;(ii) the board disagrees with the petition for any reason, the board shall submit the amendment and the proponents’ statement to the shareholders for a vote and may, at its discretion, submit an opposing statement or an alternative amendment.
 
-(2) Paragraph (1) shall not apply to a Native Corporation that on or before the date one year after February 3, 1988, elects application of section 1629c(d) of this title in lieu of section 1629c(b) of this title. Until December 18, 1991, paragraph (1) shall not apply to a Native Corporation that elects application of section1629c(c) of this title in lieu of section 1629c(b) of this title. Insofar as they are not inconsistent with this section, the laws of the State shall govern any shareholder right of petition for Native Corporations.
+(2) Paragraph (1) shall not apply to a Native Corporation that on or before the date one year after February 3, 1988, elects application of section 1629c(d) of this title in lieu of section 1629c(b) of this title. Until December 18, 1991, paragraph (1) shall not apply to a Native Corporation that elects application of section 1629c(c) of this title in lieu of section 1629c(b) of this title. Insofar as they are not inconsistent with this section, the laws of the State shall govern any shareholder right of petition for Native Corporations.
 
 #### (d) Voting standards
 

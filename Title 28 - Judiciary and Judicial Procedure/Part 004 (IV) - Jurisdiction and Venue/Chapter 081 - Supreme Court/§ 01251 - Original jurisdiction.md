@@ -40,7 +40,7 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1978—Subsec. (a). Pub. L. 95–393, §8(b)(1), designated introductory provision of subsec. (a) and (a)(1) as (a), and struck out “(2) All actions or proceedings against ambassadors or other public ministers of foreign states or their domestics or domestic servants, not inconsistent with the law of nations”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–393, §8(b)(1), designated introductory provision of subsec. (a) and (a)(1) as (a), and struck out “(2) All actions or proceedings against ambassadors or other public ministers of foreign states or their domestics or domestic servants, not inconsistent with the law of nations”.
 
 Subsec. (b)(1). Pub. L. 95–393, §8(b)(2), substituted “to which ambassadors, other public ministers, consuls, or” for “brought by ambassadors or other public ministers of foreign states or to which consuls or”.
 
@@ -51,22 +51,4 @@ Amendment by Pub. L. 95–393 effective at the end of the ninety-day period begi
 #### Statutes Governing Writs of Error To Apply to Appeals
 
 Act Jan. 31, 1928, ch. 14, §2, 45 Stat. 54, amended Apr. 26, 1928, ch. 440, 45 Stat. 466; June 25, 1948, ch. 646, §23, 62 Stat. 990, provided that “All Acts of Congress referring to writs of error shall be construed as amended to the extent necessary to substitute appeal for writ of error.” See also, notes preceding section 1 of this title.
-
-#### Rules of the Supreme Court
-
-Procedure in original actions, see rule 17, Appendix to this title.
-
-#### Cross References
-
-Controversies involving pollution of waters, jurisdiction of actions by States, see section 466g–1 of Title 33, Navigation and Navigable Waters.
-
-Jury trial in original actions at law in Supreme Court against citizens of the United States, see section 1872 of this title.
-
-Original jurisdiction—
-
-&emsp;&emsp;District Court of all suits against consuls and vice-consuls, see section 1351 of this title.
-
-&emsp;&emsp;Supreme Court, see, also, Const. Art. 3, §2, Cl. 2.
-
-Writs, see section 1651 of this title.
 

@@ -26,5 +26,5 @@ The amounts authorized to be appropriated to carry out the purposes of this subc
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 7942 of this title.
+This section is referred to in sections 7912, 7942 of this title.
 

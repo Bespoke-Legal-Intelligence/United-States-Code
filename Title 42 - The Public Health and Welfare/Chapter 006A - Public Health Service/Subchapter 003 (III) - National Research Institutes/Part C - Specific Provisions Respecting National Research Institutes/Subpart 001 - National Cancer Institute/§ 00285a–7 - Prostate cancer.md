@@ -34,7 +34,7 @@ The Director of the Institute shall coordinate the activities of the Director un
 
 &emsp;(A) The Director of the Institute shall ensure that the research programs described in paragraph (1) are implemented in accordance with a plan for the programs. Such plan shall include comments and recommendations that the Director of the Institute considers appropriate, with due consideration provided to the professional judgment needs of the Institute as expressed in the annual budget estimate prepared in accordance with section 285a–2(9) <sup>2</sup> of this title. The Director of the Institute, in consultation with the National Cancer Advisory Board, shall periodically review and revise such plan.
 
-&emsp;(B) Not later than October 1, 1993, the Director of the Institute shall submit a copy of theplan to the President's Cancer Panel, the Secretary, and the Director of NIH.
+&emsp;(B) Not later than October 1, 1993, the Director of the Institute shall submit a copy of the plan to the President's Cancer Panel, the Secretary, and the Director of NIH.
 
 &emsp;(C) The Director of the Institute shall submit any revisions of the plan to the President's Cancer Panel, the Secretary, and the Director of NIH.
 
@@ -44,13 +44,13 @@ The Director of the Institute shall coordinate the activities of the Director un
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in section 285a–8 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should not be capitalized</i>
+<i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be section “285a–2(b)(9)”.</i>
 

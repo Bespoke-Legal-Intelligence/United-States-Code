@@ -35,8 +35,7 @@
 | (c) | Dissemination of fire data. |
 | [2209\.](%C2%A7%2002209%20-%20Master%20plans.md) | Master plans. |
 | (a) | Encouragement by Administrator. |
-| (b) | Report to Congress. |
-| (c) | “Master plan” defined. |
+| (b) | “Master plan” defined. |
 | [2210\.](%C2%A7%2002210%20-%20Reimbursement%20for%20costs%20of%20firefighting%20on%20Federal%20property.md) | Reimbursement for costs of firefighting on Federal property. |
 | (a) | Filing of claims. |
 | (b) | Determination. |
@@ -64,8 +63,6 @@
 | (e) | Coordination. |
 | [2219\.](%C2%A7%2002219%20-%20Assistance%20to%20Consumer%20Product%20Safety%20Commission.md) | Assistance to Consumer Product Safety Commission. |
 | [2220\.](%C2%A7%2002220%20-%20Arson%20prevention%2C%20detection%2C%20and%20control.md) | Arson prevention, detection, and control. |
-| (a) | Duties of Administrator. |
-| (b) | Report to Congress on manner of assistance to States and local jurisdictions. |
 | [2221\.](%C2%A7%2002221%20-%20Arson%20prevention%20grants.md) | Arson prevention grants. |
 | (a) | Definitions. |
 | (b) | Grants. |
@@ -79,14 +76,7 @@
 | (j) | Regulations. |
 | (k) | Administration. |
 | (<i>l</i>) | Purchase of American made equipment and products. |
-| [2222\.](%C2%A7%2002222%20-%20Effectiveness%20study%20concerning%20smoke%20detectors%2C%20heat%20detectors%2C%20and%20sprinkler%20suppression%20systems.md) | Effectiveness study concerning smoke detectors, heat detectors, and sprinkler suppression systems. |
-| (a) | Authorization; considerations. |
-| (b) | Recommendations by Administrator. |
-| (c) | Legislative proposals. |
-| (d) | Availability of information, data, estimates, etc., from Federal departments. |
-| [2223\.](%C2%A7%2002223%20-%20Firefighter%20safety%20study.md) | Firefighter safety study. |
-| (a) | Contents. |
-| (b) | Submission to Congress. |
+| 2222, 2223. Repealed. |  |
 | [2223a.](%C2%A7%2002223a%20-%20Review.md) | Review. |
 | [2223b.](%C2%A7%2002223b%20-%20Working%20group.md) | Working group. |
 | [2223c.](%C2%A7%2002223c%20-%20Report%20and%20recommendations.md) | Report and recommendations. |
@@ -116,6 +106,21 @@
 | (g) | Reports to Congress. |
 | (h) | Relation to other requirements. |
 | [2228\.](%C2%A7%2002228%20-%20CPR%20training.md) | CPR training. |
+| [2229\.](%C2%A7%2002229%20-%20Firefighter%20assistance.md) | Firefighter assistance. |
+| (a) | Definition of firefighting personnel. |
+| (b) | Assistance program. |
+| (c) | Audits. |
+| (d) | State defined. |
+| (e) | Authorization of appropriations. |
+| [2230\.](%C2%A7%2002230%20-%20Surplus%20and%20excess%20Federal%20equipment.md) | Surplus and excess Federal equipment. |
+| [2231\.](%C2%A7%2002231%20-%20Cooperative%20agreements%20with%20Federal%20facilities.md) | Cooperative agreements with Federal facilities. |
+| [2232\.](%C2%A7%2002232%20-%20Burn%20research.md) | Burn research. |
+| (a) | Office. |
+| (b) | Safety organization grants. |
+| (c) | Hospital grants. |
+| (d) | Other grants. |
+| (e) | Report. |
+| (f) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -149,8 +154,7 @@ This chapter is referred to in title 16 section 2106.
 - [&sect; 02219 - Assistance to Consumer Product Safety Commission](%C2%A7%2002219%20-%20Assistance%20to%20Consumer%20Product%20Safety%20Commission.md)
 - [&sect; 02220 - Arson prevention, detection, and control](%C2%A7%2002220%20-%20Arson%20prevention%2C%20detection%2C%20and%20control.md)
 - [&sect; 02221 - Arson prevention grants](%C2%A7%2002221%20-%20Arson%20prevention%20grants.md)
-- [&sect; 02222 - Effectiveness study concerning smoke detectors, heat detectors, and sprinkler suppression systems](%C2%A7%2002222%20-%20Effectiveness%20study%20concerning%20smoke%20detectors%2C%20heat%20detectors%2C%20and%20sprinkler%20suppression%20systems.md)
-- [&sect; 02223 - Firefighter safety study](%C2%A7%2002223%20-%20Firefighter%20safety%20study.md)
+- [&sect; 02222, 2223 - Repealed. Pub. L. 106&#8211;503, title I, &sect;110(a)(1)(B), Nov. 13, 2000, 114 Stat. 2302](%C2%A7%2002222%2C%202223%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93503%2C%20title%20I%2C%20%C2%A7110%28a%29%281%29%28B%29%2C%20Nov.%2013%2C%202000%2C%20114%20Stat.%202302.md)
 - [&sect; 02223a - Review](%C2%A7%2002223a%20-%20Review.md)
 - [&sect; 02223b - Working group](%C2%A7%2002223b%20-%20Working%20group.md)
 - [&sect; 02223c - Report and recommendations](%C2%A7%2002223c%20-%20Report%20and%20recommendations.md)
@@ -162,3 +166,7 @@ This chapter is referred to in title 16 section 2106.
 - [&sect; 02226 - Dissemination of fire prevention and control information](%C2%A7%2002226%20-%20Dissemination%20of%20fire%20prevention%20and%20control%20information.md)
 - [&sect; 02227 - Fire safety systems in federally assisted buildings](%C2%A7%2002227%20-%20Fire%20safety%20systems%20in%20federally%20assisted%20buildings.md)
 - [&sect; 02228 - CPR training](%C2%A7%2002228%20-%20CPR%20training.md)
+- [&sect; 02229 - Firefighter assistance](%C2%A7%2002229%20-%20Firefighter%20assistance.md)
+- [&sect; 02230 - Surplus and excess Federal equipment](%C2%A7%2002230%20-%20Surplus%20and%20excess%20Federal%20equipment.md)
+- [&sect; 02231 - Cooperative agreements with Federal facilities](%C2%A7%2002231%20-%20Cooperative%20agreements%20with%20Federal%20facilities.md)
+- [&sect; 02232 - Burn research](%C2%A7%2002232%20-%20Burn%20research.md)

@@ -64,7 +64,7 @@
 
 &emsp;(5) percentage of assets which may be invested in real estate loans.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1203, §1802; Pub. L. 86–73, §1, June 30, 1959, 73 Stat. 156; Pub. L. 87–84, §1(b), July 6, 1961, 75 Stat. 201; Pub. L. 90–19, §25(1), May 25, 1967, 81 Stat. 28; Pub. L. 90–77, title IV, §403(a), Aug. 31, 1967, 81 Stat. 190; Pub. L. 91–506, §2(a), Oct. 23, 1970, 84 Stat. 1108; Pub. L. 91–584, §5(b), Dec. 24, 1970, 84 Stat. 1576; Pub. L. 93–569, §2(a), (b), Dec. 31, 1974, 88 Stat. 1863; Pub. L. 94–324, §7(3)–(5), June 30, 1976, 90 Stat. 721; Pub. L. 95–476, title I, §102, Oct. 18, 1978, 92 Stat. 1497; Pub. L. 97–72, title III, §303(b), Nov. 3, 1981, 95 Stat. 1060; Pub. L. 97–295, §4(61), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 98–223, title II, §204, Mar. 2, 1984, 98 Stat. 42; Pub. L. 100–322, title IV, §415(a)(1), (2), May 20, 1988, 102 Stat. 549, 550; Pub. L. 101–237, title III, §§310, 313(b)(1), Dec. 18, 1989, 103 Stat. 2075, 2077; Pub. L. 102–25, title III, §341, Apr. 6, 1991, 105 Stat. 92; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §3702 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–547, §2(a)(2), Oct. 28, 1992, 106 Stat. 3633; Pub. L. 103–446, title IX, §902, title XII, §1201(f)(4), Nov. 2, 1994, 108 Stat. 4676, 4687; Pub. L. 105–368, title VI, §603(a), Nov. 11, 1998, 112 Stat. 3348; Pub. L. 106–117, title VII, §711, Nov. 30, 1999, 113 Stat. 1584.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1203, §1802; Pub. L. 86–73, §1, June 30, 1959, 73 Stat. 156; Pub. L. 87–84, §1(b), July 6, 1961, 75 Stat. 201; Pub. L. 90–19, §25(1), May 25, 1967, 81 Stat. 28; Pub. L. 90–77, title IV, §403(a), Aug. 31, 1967, 81 Stat. 190; Pub. L. 91–506, §2(a), Oct. 23, 1970, 84 Stat. 1108;Pub. L. 91–584, §5(b), Dec. 24, 1970, 84 Stat. 1576; Pub. L. 93–569, §2(a), (b), Dec. 31, 1974, 88 Stat. 1863; Pub. L. 94–324, §7(3)–(5), June 30, 1976, 90 Stat. 721; Pub. L. 95–476, title I, §102, Oct. 18, 1978, 92 Stat. 1497; Pub. L. 97–72, title III, §303(b), Nov. 3, 1981, 95 Stat. 1060; Pub. L. 97–295, §4(61), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 98–223, title II, §204, Mar. 2, 1984, 98 Stat. 42; Pub. L. 100–322, title IV, §415(a)(1), (2), May 20, 1988, 102 Stat. 549, 550; Pub. L. 101–237, title III, §§310, 313(b)(1), Dec. 18, 1989, 103 Stat. 2075, 2077; Pub. L. 102–25, title III, §341, Apr. 6, 1991, 105 Stat. 92; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §3702 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–547, §2(a)(2), Oct. 28, 1992, 106 Stat. 3633; Pub. L. 103–446, title IX, §902, title XII, §1201(f)(4), Nov. 2, 1994, 108 Stat. 4676, 4687; Pub. L. 105–368, title VI, §603(a), Nov. 11, 1998, 112 Stat. 3348; Pub. L. 106–117, title VII, §711, Nov. 30, 1999, 113 Stat. 1584.)
 
 #### Amendments
 
@@ -138,7 +138,7 @@ Subsec. (g). Pub. L. 94–324, §7(5), substituted “the veteran's spouse” fo
 
 1974—Subsec. (b). Pub. L. 93–569, §2(a), expanded provisions so as to permit restoration of a veteran's entitlement to a guaranteed, insured, or direct loan provided any prior loan has been paid in full, and the property has been disposed of by the veteran, or any immediate veteran-transferee has agreed to the use of his veteran's entitlement.
 
-Subsec. (d)(3). Pub. L. 93–569, §2(b), substituted provisions relating to any lender approved by Administrator pursuant to standards established by him, for provisions relating to approval of mortgagees by Secretaryof Housing and Urban Development and designated by him as certified agent.
+Subsec. (d)(3). Pub. L. 93–569, §2(b), substituted provisions relating to any lender approved by Administrator pursuant to standards established by him, for provisions relating to approval of mortgagees by Secretary of Housing and Urban Development and designated by him as certified agent.
 
 1970—Subsec. (b). Pub. L. 91–506 struck out loan eligibility expiration dates for World War II and Korean conflict veterans.
 
@@ -194,5 +194,5 @@ Section 415(f) of Pub. L. 100–322 provided that: “The status of any veteran 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3703, 3710, 3712, 3714, 3731, 3744, 5102 of this title; title 12 section 1715z–13a.
+This section is referred to in sections 3703, 3710, 3712, 3714, 3731, 3744, 5102 of this title; title 12 sections 1715z–13a, 1715z–13b.
 

@@ -2,7 +2,7 @@
 
 #### (a) Definitions
 
-The word “person” as used in subsections (b) and (c) of this section shall include any individual, trustee, firm, association, company, or corporation. The word “ship” shall include any boat, vessel, submarine, or any form of aircraft, and the parts thereof. The words “war material” shall include arms, armament, ammunition, stores, supplies, and equipment for ships and airplanes, and everything required for or in connection with the production thereof. The word “factory” shall include any factory, workshop, engine works, building used for manufacture, assembling, construction, or any process, and any shipyard or dockyard. The words “United States” shall include the Canal Zone and all territory and waters, continental and insular, subject to the jurisdiction of the United States.
+The word “person” as used in subsections (b) and (c) of this section shall include any individual, trustee, firm, association, company, or corporation. The word “ship” shall include any boat, vessel, submarine, or any form of aircraft, and the parts thereof. The words “war material”shall include arms, armament, ammunition, stores, supplies, and equipment for ships and airplanes, and everything required for or in connection with the production thereof. The word “factory” shall include any factory, workshop, engine works, building used for manufacture, assembling, construction, or any process, and any shipyard or dockyard. The words “United States” shall include the Canal Zone and all territory and waters, continental and insular, subject to the jurisdiction of the United States.
 
 #### (b) Presidential powers
 
@@ -44,7 +44,7 @@ Ex. Ord. No. 12742, Jan. 8, 1991, 56 F.R. 1079, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including 50 U.S.C. App. 468, 10 U.S.C. 4501 and 9501 \[former sections 4501 and 9501 of Title 10, Armed Forces\], and 50 U.S.C. 82, it is hereby ordered as follows:
 
-Section 101. <i>Policy</i>. The United States must have the capability to rapidly mobilize its resources in the interest of national security. Therefore, to achieve prompt delivery of articles, products, and materials to meet national security requirements, the Government may place orders and require priority performance of these orders.
+Section 101. <i>Policy</i>. The United States must have the capability to rapidly mobilize its resources in the interest of national security. Therefore, to achieve prompt delivery of articles, products, and materials to meet national security requirements, the Governmentmay place orders and require priority performance of these orders.
 
 Sec. 102. <i>Delegation of Authority under.</i>
 

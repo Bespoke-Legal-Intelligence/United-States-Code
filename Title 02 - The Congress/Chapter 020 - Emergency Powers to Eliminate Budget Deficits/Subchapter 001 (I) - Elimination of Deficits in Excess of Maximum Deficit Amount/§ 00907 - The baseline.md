@@ -34,7 +34,7 @@ For the budget year and each outyear, the baseline shall be calculated using the
 
 #### (1) Inflation of current-year appropriations
 
-&emsp;Budgetary resources other than unobligated balances shall be at the level provided for the budget year in full-year appropriation Acts. If for any account a full-year appropriation has not yet been enacted, budgetary resources other than unobligated balances shall be atthe level available in the current year, adjusted sequentially and cumulatively for expiring housing contracts as specified in paragraph (2), for social insurance administrative expenses as specified in paragraph (3), to offset pay absorption and for pay annualization as specified in paragraph (4), for inflation as specified in paragraph (5), and to account for changes required by law in the level of agency payments for personnel benefits other than pay.
+&emsp;Budgetary resources other than unobligated balances shall be at the level provided for the budget year in full-year appropriation Acts. If for any account a full-year appropriation has not yet been enacted, budgetary resources other than unobligated balances shall be at the level available in the current year, adjusted sequentially and cumulatively for expiring housing contracts as specified in paragraph (2), for social insurance administrative expenses as specified in paragraph (3), to offset pay absorption and for pay annualization as specified in paragraph (4), for inflation as specified in paragraph (5), and to account for changes required by law in the level of agency payments for personnel benefits other than pay.
 
 #### (2) Expiring housing contracts
 

@@ -92,7 +92,7 @@ There shall be established in each local area of a State, and certified by the G
 
 #### (A) Fraud, abuse, failure to carry out functions
 
-&emsp;&emsp;Notwithstanding paragraph (2), the Governor may decertify a local board, at anytime after providing notice and an opportunity for comment, for—
+&emsp;&emsp;Notwithstanding paragraph (2), the Governor may decertify a local board, at any time after providing notice and an opportunity for comment, for—
 
 &emsp;&emsp;&emsp;(i) fraud or abuse; or
 
@@ -258,7 +258,7 @@ A member of a local board may not—
 
 &emsp;&emsp;(A) shall include—
 
-&emsp;&emsp;&emsp;(i) members of the local board described in subparagraph (A) or (B) of subsection\(b)(2) of this section with special interest or expertise in youth policy;
+&emsp;&emsp;&emsp;(i) members of the local board described in subparagraph (A) or (B) of subsection (b)(2) of this section with special interest or expertise in youth policy;
 
 &emsp;&emsp;&emsp;(ii) representatives of youth service agencies, including juvenile justice and local law enforcement agencies;
 
@@ -324,6 +324,8 @@ A member of a local board may not—
 
 This Act, referred to in subsecs. (c)(1)(C), (d)(3)(B)(i)(III), (iii), (f)(3), and (i)(2), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended, known as the Workforce Investment Act of 1998. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
+Section 1512 of this title, referred to in subsec. (i)(1)(C)(i), was repealed by Pub. L. 105–220, title I, §199(b)(2), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000.
+
 #### Amendments
 
 1998—Subsec. (f)(1)(D). Pub. L. 105–277, §101(f) \[title VIII, §401(4)(A)\], substituted “if the Governor” for “if the State”.
@@ -332,5 +334,5 @@ Subsec. (i)(1)(D)(ii)(II). Pub. L. 105–277, §101(f) \[title VIII, §401(4)(B)
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 49a, 705, 2801, 2821, 2822, 2833, 2871 of this title; title 42 section 4953.
+This section is referred to in sections 49a, 705, 2801, 2821, 2822, 2833, 2871, 2916a of this title; title 42 section 4953.
 

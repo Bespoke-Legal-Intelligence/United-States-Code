@@ -52,10 +52,6 @@ If a foreign mission has ceased conducting diplomatic, consular, and other gover
 
 (Aug. 1, 1956, ch. 841, title II, §205, as added Pub. L. 97–241, title II, §202(b), Aug. 24, 1982, 96 Stat. 285; amended Pub. L. 99–93, title I, §127(d), (e), Aug. 16, 1985, 99 Stat. 418; Pub. L. 100–204, title I, §161, Dec. 22, 1987, 101 Stat. 1356; Pub. L. 103–236, title I, §162(<i>o</i>)(5), Apr. 30, 1994, 108 Stat. 410.)
 
-#### Codification
-
-Section is also set out in D.C. Code, §5–1205.
-
 #### Amendments
 
 1994—Subsec. (a). Pub. L. 103–236, §162(<i>o</i>)(5)(A), substituted “Secretary prior to” for “Director prior to” in introductory provisions.

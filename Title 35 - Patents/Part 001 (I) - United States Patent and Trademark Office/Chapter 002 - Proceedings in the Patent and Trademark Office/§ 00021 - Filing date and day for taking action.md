@@ -4,7 +4,7 @@
 
 (b) When the day, or the last day, for taking any action or paying any fee in the United States Patent and Trademark Office falls on Saturday, Sunday, or a Federal holiday within the District of Columbia, the action may be taken, or the fee paid, on the next succeeding secular or business day.
 
-(July 19, 1952, ch. 950, 66 Stat. 794; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 97–247, §12, Aug. 27, 1982, 96 Stat. 321; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582.)
+(July 19, 1952, ch. 950, 66 Stat. 794; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 97–247, §12, Aug. 27, 1982, 96 Stat. 321; Pub. L. 106–113, div. B,§1000(a)(9) \[title IV, §4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582.)
 
 #### Historical and Revision Notes
 
@@ -35,8 +35,4 @@ Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 9
 #### Emergency Relief From Postal Situation Affecting Patent Cases
 
 Relief as to filing date of patent application or patent and excusal of delayed fees or actions affected by postal situation beginning on Mar. 18, 1970, and ending on or about Mar. 30, 1970, see note set out under section 111 of this title.
-
-#### Cross References
-
-Federal holidays, see section 6103 of Title 5, Government Organization and Employees.
 

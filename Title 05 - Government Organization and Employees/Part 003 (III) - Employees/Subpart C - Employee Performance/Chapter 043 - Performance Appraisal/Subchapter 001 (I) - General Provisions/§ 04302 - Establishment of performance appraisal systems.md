@@ -22,7 +22,9 @@
 
 &emsp;(6) reassigning, reducing in grade, or removing employees who continue to have unacceptable performance but only after an opportunity to demonstrate acceptable performance.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 440; Pub. L. 95–454, title II, §203(a), Oct. 13, 1978, 92 Stat. 1132; Pub. L. 102–378, §2(18), Oct. 2, 1992, 106 Stat. 1347.)
+(c) In accordance with regulations which the Office shall prescribe, the head of an agency may administer and maintain a performance appraisal system electronically.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 440; Pub. L. 95–454, title II, §203(a), Oct. 13, 1978, 92 Stat. 1132; Pub. L. 102–378, §2(18), Oct. 2, 1992, 106 Stat. 1347; Pub. L. 106–398, §1 \[\[div. A\], title XI, §1104\], Oct. 30, 2000, 114 Stat. 1654, 1654A–311.)
 
 Historical and Revision Notes
 
@@ -41,6 +43,8 @@ Sept. 30, 1950, ch. 1123, §3, 64 Stat. 1098.
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
 #### Amendments
+
+2000—Subsec. (c). Pub. L. 106–398 added subsec. (c).
 
 1992—Subsec. (a)(3). Pub. L. 102–378 substituted a period for semicolon at end.
 

@@ -10,7 +10,3 @@ R.S. §5198 (less last sentence) derived from act June 3, 1864, ch. 106, §30, 1
 
 Section is based on R.S. §5198, less last sentence as added by act Feb. 18, 1875, ch. 80, §1, 18 Stat. 320, which is classified to section 94 of this title.
 
-#### Federal Rules of Civil Procedure
-
-One form of action, see rule 2, Title 28, Appendix, Judiciary and Judicial Procedure.
-

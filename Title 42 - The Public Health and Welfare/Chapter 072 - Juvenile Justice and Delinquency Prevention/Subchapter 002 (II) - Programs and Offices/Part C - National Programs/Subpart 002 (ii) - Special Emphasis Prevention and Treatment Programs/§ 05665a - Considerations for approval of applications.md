@@ -42,7 +42,7 @@ In determining whether or not to approve applications for grants and for contrac
 
 #### (d) Competitive selection process; review of proposed programs; expedited consideration of proposed programs
 
-(1)(A) Programs selected for assistance through grants or contracts under this part\(other than section 5651(f) of this title) shall be selected through a competitive process to be established by rule by the Administrator. As part of such a process, the Administrator shall announce in the Federal Register—
+(1)(A) Programs selected for assistance through grants or contracts under this part (other than section 5651(f) of this title) shall be selected through a competitive process to be established by rule by the Administrator. As part of such a process, the Administrator shall announce in the Federal Register—
 
 &emsp;(i) the availability of funds for such assistance;
 
@@ -68,7 +68,7 @@ A city shall not be denied assistance under this part solely on the basis of its
 
 #### (f) Transmission of notification to Committee chairmen
 
-Notification of grants and contracts made under this part (and the applications submitted for such grants and contracts) shall, upon being made, be transmitted by the Administrator,<sup>1</sup> to the chairman of the Committee on Education and Labor of the House of Representatives and the chairman of the Committee on the Judiciary of the Senate.
+Notification of grants and contracts made under this part (and the applications submittedfor such grants and contracts) shall, upon being made, be transmitted by the Administrator,<sup>1</sup> to the chairman of the Committee on Education and Labor of the House of Representatives and the chairman of the Committee on the Judiciary of the Senate.
 
 (Pub. L. 93–415, title II, §262, as added Pub. L. 100–690, title VII, §7263(a)(2)(F), Nov. 18, 1988, 102 Stat. 4445; amended Pub. L. 102–586, §2(h), Nov. 4, 1992, 106 Stat. 5001.)
 

@@ -28,5 +28,5 @@ The Federal share for assistance provided under this subchapter shall be equal t
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5172, 5191 of this title.
+This section is referred to in section 5191 of this title.
 

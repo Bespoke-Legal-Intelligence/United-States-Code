@@ -72,7 +72,7 @@
 
 (2) No educational assistance allowance may be paid under this chapter to an individual for any month during which such individual is pursuing a program of education consisting exclusively of flight training until the Secretary has received from that individual and the institution providing such training a certification of the flight training received by the individual during that month and the tuition and other fees charged for that training.
 
-(3) The period of entitlement of an individual pursuing a program of education described in paragraph (1) shall be charged with one month for each amount equal to the amount of the monthly rate payable under subsection (b)(1)(A) for the fiscal year concerned which is paid to that individual as an educational assistance allowance for such program.
+(3) The period of entitlement of an individual pursuing a program of education described inparagraph (1) shall be charged with one month for each amount equal to the amount of the monthly rate payable under subsection (b)(1)(A) for the fiscal year concerned which is paid to that individual as an educational assistance allowance for such program.
 
 (4) The number of solo flying hours for which an individual may be paid an educational assistance allowance under this subsection may not exceed the minimum number of solo flying hours required by the Federal Aviation Administration for the flight rating or certification which is the goal of the individual's flight training.
 
@@ -90,7 +90,7 @@
 
 &emsp;(i) the individualized tutorial assistance is essential to correct a deficiency of the person in a subject required as a part of, or which is prerequisite to, or which is indispensable to the satisfactory pursuit of, an approved program of education;
 
-&emsp;(ii) the tutor chosen to perform such assistance is qualified to provide such assistanceand is not the person's parent, spouse, child (whether or not married or over eighteen years of age), brother, or sister; and
+&emsp;(ii) the tutor chosen to perform such assistance is qualified to provide such assistance and is not the person's parent, spouse, child (whether or not married or over eighteen years of age), brother, or sister; and
 
 &emsp;(iii) the charges for such assistance do not exceed the customary charges for such tutorial assistance.
 
@@ -142,7 +142,7 @@ Subsec. (c)(3)(B)(i). Pub. L. 103–337, §1663(b)(3)(A), substituted “12301(a
 
 Subsec. (g)(1). Pub. L. 103–337, §1663(b)(3)(B), substituted “16136(c)” for “2136(c)”.
 
-1993—Subsec. (b)(2). Pub. L. 103–66 struck out subpar. (A), struck out subpar. (B) designation before “With respect to”, redesignated former cls. (i) and (ii) as subpars. (A) and (B), respectively, and in subpar. (B) substituted “subparagraph (A)” for “clause (i)”. Prior to amendment, subpar. (A) read as follows: “With respect to the fiscal year beginning on October 1, 1993, the Secretary shall provide a percentage increase in themonthly rates payable under subparagraphs (A), (B), and (C) of paragraph (1) equal to the percentage by which the Consumer Price Index (all items, United States city average, published by the Bureau of Labor Statistics) for the 12-month period ending June 30, 1993, exceeds such Consumer Price Index for the 12-month period ending June 30, 1992.”
+1993—Subsec. (b)(2). Pub. L. 103–66 struck out subpar. (A), struck out subpar. (B) designation before “With respect to”, redesignated former cls. (i) and (ii) as subpars. (A) and (B), respectively, and in subpar. (B) substituted “subparagraph (A)” for “clause (i)”. Prior to amendment, subpar. (A) read as follows: “With respect to the fiscal year beginning on October 1, 1993, the Secretary shall provide a percentage increase in the monthly rates payable under subparagraphs (A), (B), and (C) of paragraph (1) equal to the percentage by which the Consumer Price Index (all items, United States city average, published by the Bureau of Labor Statistics) for the 12-month period ending June 30, 1993, exceeds such Consumer Price Index for the 12-month period ending June 30, 1992.”
 
 Subsec. (c)(1). Pub. L. 103–160, §518(1), struck out “other than a program of education in a course of instruction beyond the baccalaureate degree level” after “title 38”.
 

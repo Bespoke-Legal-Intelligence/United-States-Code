@@ -38,7 +38,7 @@ In clause (3), the word “matches” is omitted as included in “competitions�
 
 In clause (4), the words “to secure and account for” are substituted for “The provision of security and accountability for” for clarity and to eliminate unnecessary words. The words “for which the corporation is responsible” are substituted for “under the custody and control of the Corporation” for clarity and for consistency with section 40731(b) of this title related to firearms that are not under the direct custody and control of the corporation because they have been issued or loaned.
 
-In clause (5), the words “ammunition, repair parts, and other supplies” are substituted for “ammunition,supplies, and appliances” for consistency in the revised title.
+In clause (5), the words “ammunition, repair parts, and other supplies” are substituted for “ammunition, supplies, and appliances” for consistency in the revised title.
 
 In clause (6), the words “supplies and services” are substituted for “supplies, appliances, clerical services, other related services, and labor” to eliminate unnecessary words.
 

@@ -1,6 +1,6 @@
 ### §4103. Establishment of training programs
 
-(a) In order to assist in achieving an agency's mission and performance goals by improving employee and organizational performance, the head of each agency, in conformity with this chapter, shall establish, operate, maintain, and evaluate a program or programs, and a plan or plans thereunder, for the training of employees in or under the agency by, in, and through Government facilities and non-Government facilities. Each program, and plan thereunder, shall—
+(a) In order to assist in achieving an agency's mission and performance goals by improvingemployee and organizational performance, the head of each agency, in conformity with this chapter, shall establish, operate, maintain, and evaluate a program or programs, and a plan or plans thereunder, for the training of employees in or under the agency by, in, and through Government facilities and non-Government facilities. Each program, and plan thereunder, shall—
 
 &emsp;(1) conform to the principles, standards, and related requirements contained in the regulations prescribed under section 4118 of this title;
 
@@ -88,7 +88,7 @@ Exception of Central Intelligence Agency from provisions of cl. (1) of this sect
 
 Ex. Ord. No. 11348, Apr. 20, 1967, 32 F.R. 6335, as amended by Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, provided:
 
-By virtue of the authority vested in me by section 301 of Title 3 of the United States Code and by section 2 of the Act of July 7, 1958 (72 Stat. 327), it is ordered as follows:
+By virtue of the authority vested in me by section 301 of Title 3 of the United States Code and by section 2 ofthe Act of July 7, 1958 (72 Stat. 327), it is ordered as follows:
 
 #### Part I—General
 
@@ -134,7 +134,7 @@ Sec. 302. The head of each agency shall:
 
 (c) Establish and make full use of agency facilities for training employees;
 
-(d) Extend agency training programs to employees of other agencies (including agencies and portions of agencies excepted by section 4102(a) of Title 5, United States Code) and assign his employees to interagencytraining whenever this will result in better training, improved service, or savings to the Government;
+(d) Extend agency training programs to employees of other agencies (including agencies and portions of agencies excepted by section 4102(a) of Title 5, United States Code) and assign his employees to interagency training whenever this will result in better training, improved service, or savings to the Government;
 
 (e) Establish interagency training facilities in areas of substantive competence as arranged by the Office of Personnel Management; and
 
@@ -178,7 +178,7 @@ Sec. 501. Executive Order No. 10800 of January 15, 1959, is hereby revoked.
 
 #### Executive Order No. 11451
 
-Ex. Ord. No. 11451, Jan. 19, 1969, 34 F.R. 921, as amended by Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, which established the President's Commission on Personnel Interchange, was superseded by Ex. Ord. No. 12136, May 15, 1979, 44 F.R. 28771, formerly set out below.
+Ex. Ord. No. 11451, Jan. 19, 1969, 34 F.R. 921, as amended by Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055,which established the President's Commission on Personnel Interchange, was superseded by Ex. Ord. No. 12136, May 15, 1979, 44 F.R. 28771, formerly set out below.
 
 #### Executive Order No. 12136
 
@@ -216,9 +216,9 @@ George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Ex. Ord. No. 13111. Using Technology To Improve Training Opportunities for Federal Government Employees
 
-Ex. Ord. No. 13111, Jan. 12, 1999, 64 F.R. 2793, provided:
+Ex. Ord. No. 13111, Jan. 12, 1999, 64 F.R. 2793, as amended by Ex. Ord. No. 13188, Jan. 12, 2001, 66 F.R. 5419, provided:
 
-Advances in technology and increased skills needs are changing the workplace at an ever increasing rate. These advances can make Federal employees more productive and provide improved service to our customers,the American taxpayers. We need to ensure that we continue to train Federal employees to take full advantage of these technological advances and to acquire the skills and learning needed to succeed in a changing workplace. A coordinated Federal effort is needed to provide flexible training opportunities to employees and to explore how Federal training programs, initiatives, and policies can better support lifelong learning through the use of learning technology.
+Advances in technology and increased skills needs are changing the workplace at an ever increasing rate. These advances can make Federal employees more productive and provide improved service to our customers, the American taxpayers. We need to ensure that we continue to train Federal employees to take full advantage of these technological advances and to acquire the skills and learning needed to succeed in a changing workplace. A coordinated Federal effort is needed to provide flexible training opportunities to employees and to explore how Federal training programs, initiatives, and policies can better support lifelong learning through the use of learning technology.
 
 To help us meet these goals, I am creating a task force on Federal training technology, directing Federal agencies to take certain steps to enhance employees’ training opportunities through the use of training technology, and an advisory committee on the use of training technology, which also will explore options for financing the training and post-secondary education needed to upgrade skills and gain new knowledge.
 
@@ -234,7 +234,7 @@ Section 1. <i>Establishment of the President's Task Force on Federal Training Te
 
 (e) The Task Force member agencies shall provide any required staffing and funding, as appropriate.
 
-Sec. 2. <i>Duties of the Task Force</i>. (a) Within 18 months of the date of this order, the Task Force shall develop and recommend to the President, through the Assistant to the President for Economic Policy and the Assistant to the President for Science and Technology, a policy to make effective use of technology to improve training opportunities for Federal Government employees. The policy should promote and integrate the effective use of training technologies to create affordable and convenient training opportunities to improve Federal employee performance. The Task Force shall seek the views of experts from industry, academia, and State and local governments as the Task Force proceeds, as appropriate. Specifically, the Task Force shall:
+Sec. 2. <i>Duties of the Task Force</i>. (a) Within 18 months of the date of this order, the Task Force shall develop and recommend to the President, through the Assistant to the President for Economic Policy and the Assistant to the President for Science and Technology, a policy to make effective use of technology to improve training opportunities for Federal Government employees. The policy should promote and integrate the effective use of training technologies to create affordable and convenient training opportunities to improve Federal employee performance. The Task Force shall seek the views of experts from industry, academia, and Stateand local governments as the Task Force proceeds, as appropriate. Specifically, the Task Force shall:
 
 &emsp;(1) develop strategies to improve the efficiency and availability of training opportunities for Federal Government employees;
 
@@ -316,7 +316,7 @@ Sec. 7. <i>Administration of the Advisory Committee</i>. (a) To the extent permi
 
 (e) Notwithstanding any other Executive order, the functions of the President under the Federal Advisory Committee Act, as amended, that are applicable to the Committee, except that of reporting to the Congress, shall be performed by the Office of Personnel Management in accordance with guidelines that have been issued by the Administrator of General Services.
 
-(f) The Committee shall terminate 2 years from the date of this order unless extended by the President prior to such date.
+(f) The Committee shall terminate on January 11, 2003\[,\] unless extended by the President prior to such date.
 
 Sec. 8. <i>Definitions</i>. (a) As used in this order, the terms “agency,” “employee,” “Government,” and “training” have the meaning given to those terms, respectively, by section 4101 of title 5, United States Code.
 

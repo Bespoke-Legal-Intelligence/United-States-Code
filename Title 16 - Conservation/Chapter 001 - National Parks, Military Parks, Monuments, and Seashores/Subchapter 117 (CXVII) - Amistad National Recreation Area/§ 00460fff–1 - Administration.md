@@ -6,7 +6,7 @@ The Secretary shall administer the recreation area in accordance with applicable
 
 #### (b) Compliance with treaties and other commitments or agreements
 
-The administration of the recreation area by the Secretary shall be subject to and in accordance with all applicable treaties, including the treaty between the United States and Mexico relating to the utilization of waters of the Colorado and Tijuana Rivers and the Rio Grande, entered into force November 8, 1945 (59 Stat. 1219,<sup>1</sup>and in accordance with sections 277d–13 to 277d–16 of title 22, and any commitment or agreement entered into pursuant to such treaty or sections, including (but not limited to) commitments or agreements relating to—
+The administration of the recreation area by the Secretary shall be subject to and in accordance with all applicable treaties, including the treaty between the United States and Mexico relating to the utilization of waters of the Colorado and Tijuana Rivers and the Rio Grande, entered into force November 8, 1945 (59 Stat. 1219,<sup>1</sup> and in accordance with sections 277d–13 to 277d–16 of title 22, and any commitment or agreement entered into pursuant to such treaty or sections, including (but not limited to) commitments or agreements relating to—
 
 &emsp;(1) the demarcation and maintenance of boundaries;
 
@@ -36,7 +36,7 @@ For purposes of administering the recreation area, the Secretary may enter into 
 
 #### References in Text
 
-This Act, referred to in subsec. (a), is Pub. L. 101–628, Nov. 28, 1990, 104 Stat. 4469, which enacted this subchapter, subchapters CXV (§460ddd) and CXVI (§460eee et seq.) of this chapter, chapter 65 (§4601 et seq.) of this title, and sections 1a–9 to 1a–13 of this title, amended sections 410ee, 463, 1274, and 1276 of this title, enacted provisions set out as notes under sections 1a–5, 1132, and 1271 of this title and section 1522 of Title 43, Public Lands, and enacted provisions listed in a table of Wilderness Areas set out under section 1132 of this title. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsec. (a), is Pub. L. 101–628, Nov. 28, 1990, 104 Stat. 4469, which enacted this subchapter, subchapters CXV (§460ddd) and CXVI (§460eee et seq.) of this chapter, chapter 65 (§4601 et seq.) of this title, and sections 1a–9 to 1a–13 of this title, amended sections 410ee, 463, 1274, and 1276 of this title, enactedprovisions set out as notes under sections 1a–5, 1132, and 1271 of this title and section 1522 of Title 43, Public Lands, and enacted provisions listed in a table of Wilderness Areas set out under section 1132 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Change of Name
 

@@ -34,7 +34,7 @@ Jurisdiction.—Conduct prohibited by subsection (a) is within the jurisdiction 
 
 &emsp;(3) is committed against a national of the United States while the national is outside the United States; or
 
-&emsp;(4) is committed against any property that is owned, leased, or used by the United States orby any department or agency of the United States, whether the property is within or outside the United States.
+&emsp;(4) is committed against any property that is owned, leased, or used by the United States or by any department or agency of the United States, whether the property is within or outside the United States.
 
 (Added Pub. L. 105–277, div. I, title II, §201(a), Oct. 21, 1998, 112 Stat. 2681–866.)
 

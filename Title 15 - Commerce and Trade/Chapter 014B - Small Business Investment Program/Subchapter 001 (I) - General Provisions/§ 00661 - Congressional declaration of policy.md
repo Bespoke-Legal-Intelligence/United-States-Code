@@ -1,6 +1,6 @@
 ### §661. Congressional declaration of policy
 
-It is declared to be the policy of the Congress and the purpose of this chapter to improve and stimulate the national economy in general and the small-business segment thereof in particular by establishing a program to stimulate and supplement the flow of private equity capital and long-term loan funds which small-business concerns need for the sound financing of their business operations and for their growth, expansion, and modernization, and which are not availablein adequate supply: <i>Provided, however</i>, That this policy shall be carried out in such manner as to insure the maximum participation of private financing sources.
+It is declared to be the policy of the Congress and the purpose of this chapter to improve and stimulate the national economy in general and the small-business segment thereof in particular by establishing a program to stimulate and supplement the flow of private equity capital and long-term loan funds which small-business concerns need for the sound financing of their business operations and for their growth, expansion, and modernization, and which are not available in adequate supply: <i>Provided, however</i>, That this policy shall be carried out in such manner as to insure the maximum participation of private financing sources.
 
 It is the intention of the Congress that the provisions of this chapter shall be so administered that any financial assistance provided hereunder shall not result in a substantial increase of unemployment in any area of the country. It is the intention of the Congress that in the award of financial assistance under this chapter, when practicable, priority be accorded to small business concerns which lease or purchase equipment and supplies which are produced in the United States and that small business concerns receiving such assistance be encouraged to continue to lease or purchase such equipment and supplies.
 
@@ -13,6 +13,14 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 #### Amendments
 
 1992—Pub. L. 102–366 inserted at end “It is the intention of the Congress that in the award of financial assistance under this chapter, when practicable, priority be accorded to small business concerns which lease or purchase equipment and supplies which are produced in the United States and that small business concerns receiving such assistance be encouraged to continue to lease or purchase such equipment and supplies.”
+
+#### Short Title of 2000 Amendment
+
+Pub. L. 106–554, §1(a)(8) \[§1(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–653, provided that: “This section \[enacting part B of subchapter III of this chapter, amending section 683 of this title, section 109 of Title 11, Bankruptcy, and section 1464 of Title 12, Banks and Banking, and amending provisions set out as a note under section 631 of this title\] may be cited as the ‘New Markets Venture Capital Program Act of 2000’.”
+
+Pub. L. 106–554, §1(a)(9) \[title III, §301\], Dec. 21, 2000, 114 Stat. 2763, 2763A–684, provided that: “This title \[enacting section 697g of this title, amending sections 695 to 697 and 697e of this title, enacting provisions set out as a note under section 697g of this title, and repealing provisions set out as a note under section 697e of this title\] may be cited as the ‘Certified Development Company Program Improvements Act of 2000’.”
+
+Pub. L. 106–554, §1(a)(9) \[title IV, §401\], Dec. 21, 2000, 114 Stat. 2763, 2763A–690, provided that: “This title \[amending sections 662, 682, 683, and 687b of this title\] may be cited as the ‘Small Business Investment Corrections Act of 2000’.”
 
 #### Short Title of 1999 Amendment
 

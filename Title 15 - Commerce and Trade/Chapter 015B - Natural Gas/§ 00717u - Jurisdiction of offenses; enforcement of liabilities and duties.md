@@ -16,21 +16,3 @@ Federal Power Commission terminated and functions, personnel, property, funds, e
 
 For transfer of functions of Federal Power Commission, with certain reservations, to Chairman of such Commission, see Reorg. Plan No. 9 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out in the Appendix to Title 5, Government Organization and Employees.
 
-#### Federal Rules of Civil Procedure
-
-Injunctions, see rule 65, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-One form of action, see rule 2.
-
-Process, see rule 4.
-
-Rules as governing the procedure in all suits of a civil nature whether cognizable as cases at law or in equity, see rule 1.
-
-#### Federal Rules of Criminal Procedure
-
-Special venue provisions of section as unaffected by rule 18, see Notes of Advisory Committee on Rules under rule 18, Title 18, Appendix, Crimes and Criminal Procedure.
-
-#### Cross References
-
-Venue of district courts, see section 1391 et seq. of Title 28, Judiciary and Judicial Procedure.
-

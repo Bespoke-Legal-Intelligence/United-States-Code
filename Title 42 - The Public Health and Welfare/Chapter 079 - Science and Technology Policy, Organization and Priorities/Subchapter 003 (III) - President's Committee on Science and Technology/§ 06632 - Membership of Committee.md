@@ -30,7 +30,7 @@ Each member of the Committee who is not an officer of the Federal Government sha
 
 #### References in Text
 
-Section 5703 of title 5, referred to in subsec. (d), was amended generally by Pub. L. 94–22, §4, May 19, 1975, 89Stat. 95, and, as so amended, does not contain a subsec. (b).
+Section 5703 of title 5, referred to in subsec. (d), was amended generally by Pub. L. 94–22, §4, May 19, 1975, 89 Stat. 95, and, as so amended, does not contain a subsec. (b).
 
 #### Abolition of President's Committee on Science and Technology; Transfer of Functions
 

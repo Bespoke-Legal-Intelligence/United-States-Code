@@ -48,14 +48,6 @@ Oct. 12, 1949, ch. 681, §303(e), 63 Stat. 815.
 
 1991—Subsec. (b). Pub. L. 102–25 struck out “of this section” after “subsection (a)”.
 
-#### Cross References
-
-Assimilation of pay and allowances, see section 1003 of this title.
-
-Cadets, midshipmen, and naval officer candidates, travel and transportation allowances, see section 422 of this title.
-
-Regulations for administration of section, see section 411 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 411, 420, 422, 1003 of this title.

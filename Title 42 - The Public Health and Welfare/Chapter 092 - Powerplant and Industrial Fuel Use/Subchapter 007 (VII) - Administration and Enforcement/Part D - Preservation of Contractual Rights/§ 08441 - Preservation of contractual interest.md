@@ -44,7 +44,7 @@ For purposes of this section—
 
 &emsp;(B) the price of natural gas under such contract during such period.
 
-> For purposes of subparagraph (A), the reasonable costs associated with the use of a fuel, other than natural gas, as a primary energysource shall include an allowance for the amortization, over the remaining useful life, of the undepreciated value of depreciable assets located on the premises containing such electric powerplant, which assets were directly associated with the use of natural gas and are not usable in connection with the use of such other fuel.
+> For purposes of subparagraph (A), the reasonable costs associated with the use of a fuel, other than natural gas, as a primary energy source shall include an allowance for the amortization, over the remaining useful life, of the undepreciated value of depreciable assets located on the premises containing such electric powerplant, which assets were directly associated with the use of natural gas and are not usable in connection with the use of such other fuel.
 
 (2) The term “just compensation”, when used with respect to subsection (a)(2) of this section, means an amount equal to any loss of revenue, during the remaining period of the contract with respect to which contractual interests are transferred pursuant to subsection (a)(1) of this section, to the extent such loss (A) is directly incurred by reason of the discontinuation of the transportation or distribution of natural gas resulting from the transfer of contractual interests pursuant to subsection (a)(1) of this section, and (B) is not offset by revenues derived from other transportation or distribution which would not have occurred if such contractual interests had not been transferred.
 

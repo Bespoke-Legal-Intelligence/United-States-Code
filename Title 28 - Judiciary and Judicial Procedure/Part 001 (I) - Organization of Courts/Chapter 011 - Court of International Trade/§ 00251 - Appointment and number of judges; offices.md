@@ -24,15 +24,15 @@ Changes in phraseology were made.
 
 #### Amendments
 
-1996—Subsecs. (b), (c). Pub. L. 104–317 redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “The President shall designate one of the judges of the Court of International Trade who is less than seventy years of age to serve as chief judge. The chief judge shall continue to serve as chief judge until he reaches the age of seventy years and another judge is designated as chief judge by the President. After the designation of another judge to serve as chief judge, the former chief judge may continue to serve as a judge of the court.”
+<b>1996</b>—Subsecs. (b), (c). Pub. L. 104–317 redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “The President shall designate one of the judges of the Court of International Trade who is less than seventy years of age to serve as chief judge. The chief judge shall continue to serve as chief judge until he reaches the age of seventy years and another judge is designated as chief judge by the President. After the designation of another judge to serve as chief judge, the former chief judge may continue to serve as a judge of the court.”
 
-1980—Subsec. (a). Pub. L. 96–417 incorporated first par. in provisions designated subsec. (a), redesignated the United States Customs Court as the United States Court of International Trade, and deleted “appointed” before “shall be”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–417 incorporated first par. in provisions designated subsec. (a), redesignated the United States Customs Court as the United States Court of International Trade, and deleted “appointed” before “shall be”.
 
 Subsec. (b). Pub. L. 96–417 added subsec. (b) and struck out a second paragraph requiring the President to designate from time to time one of the judges to act as chief judge.
 
 Subsec. (c). Pub. L. 96–417 designated third par. as subsec. (c) and substituted “Court of International Trade” for “court” and “located in New York, New York” for “located at the port of New York”.
 
-1956—Act July 14, 1956, declared the Customs Court to be a court established under article III of the Constitution of the United States.
+<b>1956</b>—Act July 14, 1956, declared the Customs Court to be a court established under article III of the Constitution of the United States.
 
 #### Effective Date of 1980 Amendment
 
@@ -66,7 +66,7 @@ Section 701 of Pub. L. 96–417, as amended by Pub. L. 96–542, §1, Dec. 17, 1
 
 “(2) Section 592(e) of the Tariff Act of 1930 \[19 U.S.C. 1592(e)\], as amended by section 609 of this Act, shall apply with respect to civil actions commenced on or after 90th day after the effective date of this Act.”
 
-\[Amendment of section 701 of Pub. L. 96–417, set out above, by Pub. L. 96–542 effective as of Nov. 1, 1980, seesection 3 of Pub. L. 96–542, set out as a note under section 1516a of Title 19, Customs Duties.\]
+\[Amendment of section 701 of Pub. L. 96–417, set out above, by Pub. L. 96–542 effective as of Nov. 1, 1980, see section 3 of Pub. L. 96–542, set out as a note under section 1516a of Title 19, Customs Duties.\]
 
 #### References to Certain Courts Deemed References to the United States Court of International Trade
 
@@ -95,10 +95,4 @@ Section 4 of act July 14, 1956, provided that: “Nothing contained in this Act 
 #### Continuation of Organization of Court
 
 Section 2(b) of act June 25, 1948, provided in part that the provisions of this title as set out in section 1 of act June 25, 1948, with respect to the organization of the court, shall be construed as continuations of existing law, and the tenure of the judges, officers, and employees, in office on Sept. 1, 1948, shall not be affected by its enactment, but each of them shall continue to serve in the same capacity under the appropriate provisions of this title, pursuant to his prior appointment.
-
-#### Cross References
-
-Oath of judge, see sections 453 of this title.
-
-Official station of Court of International Trade judges, see section 456 of this title.
 

@@ -34,14 +34,6 @@ The words “branch of the Army corresponding” are substituted for the words �
 
 1988—Pub. L. 100–456, which directed the substitution of “Territory or Puerto Rico” for “Territory, Puerto Rico, or the Canal Zone,” in subsec. (a), was executed to the introductory provisions of this section as the probable intent of Congress.
 
-#### Cross References
-
-Credit for service as member of Army National Guard or Air National Guard of members of Army National Guard of United States or Air National Guard of United States, see section 12602 of Title 10, Armed Forces.
-
-Inactive duty training, duty (other than full-time duty) under this section as, see section 101 of Title 38, Veterans’ Benefits.
-
-Pay grades of National Guard personnel on active duty, see section 204 of Title 37, Pay and Allowances of the Uniformed Services.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 101, 715 of this title; title 5 section 6323; title 10 sections 101, 701, 1054, 1089, 1208, 12732, 12733; title 28 section 2671; title 38 sections 101, 1965.

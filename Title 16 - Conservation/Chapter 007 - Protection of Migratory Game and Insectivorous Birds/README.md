@@ -33,7 +33,7 @@
 | :--- | ---: |
 | [715\.](Subchapter%20003%20%28III%29%20-%20Migratory%20Bird%20Conservation/%C2%A7%2000715%20-%20Short%20title.md) | Short title. |
 | [715a.](Subchapter%20003%20%28III%29%20-%20Migratory%20Bird%20Conservation/%C2%A7%2000715a%20-%20Migratory%20Bird%20Conservation%20Commission%3B%20creation%3B%20composition%3B%20duties%3B%20approval%20of%20areas%20of%20land%20and%20water%20recommended%20for%20purchase%20or%E2%80%A6.md) | Migratory Bird Conservation Commission; creation; composition; duties; approval of areas of land and water recommended for purchase or rental. |
-| [715b.](Subchapter%20003%20%28III%29%20-%20Migratory%20Bird%20Conservation/%C2%A7%2000715b%20-%20Annual%20report.md) | Annual report. |
+| [715b.](Subchapter%20003%20%28III%29%20-%20Migratory%20Bird%20Conservation/%C2%A7%2000715b%20-%20Omitted.md) | Omitted. |
 | [715c.](Subchapter%20003%20%28III%29%20-%20Migratory%20Bird%20Conservation/%C2%A7%2000715c%20-%20Areas%20recommended%20for%20approval%3B%20character.md) | Areas recommended for approval; character. |
 | [715d.](Subchapter%20003%20%28III%29%20-%20Migratory%20Bird%20Conservation/%C2%A7%2000715d%20-%20Purchase%20or%20rental%20of%20approved%20areas%20or%20interests%20therein%3B%20gifts%20and%20devises%3B%20United%20States%20lands.md) | Purchase or rental of approved areas or interests therein; gifts and devises; United States lands. |
 | 715–1 to 715d–3. Repealed or Omitted. |  |
@@ -111,6 +111,7 @@
 | (b) | Licensing and marketing of design of Junior Duck Stamps. |
 | (c) | Use of proceeds from licensing and marketing of Junior Duck Stamps and Junior Duck Stamp designs. |
 | [719b.](Subchapter%20005%20%28V%29%20-%20Junior%20Duck%20Stamp%20Conservation%20and%20Design%20Program/%C2%A7%2000719b%20-%20Acceptance%20of%20gifts%2C%20devises%2C%20and%20bequests.md) | Acceptance of gifts, devises, and bequests. |
+| 719b–1. | Definition of State. |
 | [719c.](Subchapter%20005%20%28V%29%20-%20Junior%20Duck%20Stamp%20Conservation%20and%20Design%20Program/%C2%A7%2000719c%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

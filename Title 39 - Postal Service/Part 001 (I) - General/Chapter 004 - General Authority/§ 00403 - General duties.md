@@ -20,7 +20,7 @@
 
 #### Effective Date of 1979 Amendment
 
-Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L. 96–70, set out as an EffectiveDate note under section 3601 of Title 22, Foreign Relations and Intercourse.
+Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L. 96–70, set out as an Effective Date note under section 3601 of Title 22, Foreign Relations and Intercourse.
 
 #### Effective Date
 
@@ -29,6 +29,8 @@ Section effective Jan. 20, 1971, pursuant to Resolution No. 71–10 of the Board
 #### Continuation of Mail Delivery Services
 
 Provisions requiring continuation of six-day delivery and rural delivery of mail at not less than the 1983 level were contained in the following appropriations acts:
+
+Pub. L. 106–554, §1(a)(3) \[title II\], Dec. 21, 2000, 114 Stat. 2763, 2763A–135.
 
 Pub. L. 106–58, title II, Sept. 29, 1999, 113 Stat. 444.
 

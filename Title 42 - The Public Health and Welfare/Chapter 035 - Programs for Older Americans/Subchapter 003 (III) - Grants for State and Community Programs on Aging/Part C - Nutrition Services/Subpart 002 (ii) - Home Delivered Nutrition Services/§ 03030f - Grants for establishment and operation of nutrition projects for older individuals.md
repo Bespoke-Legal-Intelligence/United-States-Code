@@ -16,5 +16,5 @@ Subpart effective at close of Sept. 30, 1978, see section 504 of Pub. L. 95–47
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3017, 3027, 3030g of this title; title 31 section 3803.
+This section is referred to in section 3030g of this title; title 31 section 3803.
 

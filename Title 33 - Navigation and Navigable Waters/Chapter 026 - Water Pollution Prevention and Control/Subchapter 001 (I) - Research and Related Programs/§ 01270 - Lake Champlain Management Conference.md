@@ -78,7 +78,7 @@ Nothing in this section shall be construed so as to affect the jurisdiction or p
 
 #### (i) Authorization
 
-There are authorized to be appropriated to the Environmental Protection Agency to carry outthis section $2,000,000 for each of fiscal years 1991, 1992, 1993, 1994, and 1995.
+There are authorized to be appropriated to the Environmental Protection Agency to carry out this section $2,000,000 for each of fiscal years 1991, 1992, 1993, 1994, and 1995.
 
 (June 30, 1948, ch. 758, title I, §120, as added Pub. L. 101–596, title III, §303, Nov. 16, 1990, 104 Stat. 3006.)
 
@@ -122,7 +122,7 @@ Cooperation of the United States Fish and Wildlife Service of the Department of 
 
 &emsp;“(1)
 
-Resource conservation program.—The Secretary of the Interior, acting through the United States Fish and Wildlife Service, in cooperation with the Lake Champlain Fish and Wildlife Management Cooperative and the Management Conference established pursuant to this subsection shall—
+Resource conservation program.—The Secretary of the Interior, acting through the UnitedStates Fish and Wildlife Service, in cooperation with the Lake Champlain Fish and Wildlife Management Cooperative and the Management Conference established pursuant to this subsection shall—
 
 &emsp;&emsp;“(A) establish and implement a fisheries resources restoration, development and conservation program, including dedicating a level of hatchery production within the Lake Champlain basin at or above the level that existed immediately preceding the date of enactment of this Act \[Nov. 16, 1990\]; and
 

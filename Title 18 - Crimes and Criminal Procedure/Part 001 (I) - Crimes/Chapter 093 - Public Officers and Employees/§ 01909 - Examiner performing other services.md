@@ -6,7 +6,7 @@ Whoever, being a national-bank examiner, Federal Deposit Insurance Corporation e
 
 #### Historical and Revision Notes
 
-Based on sections 594, 656a, 952, 981, 1093, 1124, 1243, and 1314 of title 12, U.S.C., 1940 ed., Banks and Banking (Dec. 23, 1913, ch. 6, §22, fourth sentence of first paragraph, and third sentence of second paragraph, 38 Stat. 272; July 17, 1916, ch. 245, §§28, 31 \[third sentence of first paragraph\], 39 Stat. 381, 383; July 17, 1916, ch. 245, §§208(c), 211(d), second sentence, as added Mar. 4, 1923, ch. 252, §2, 42 Stat. 1459, 1460; Sept. 26, 1918, ch. 177, §5 \[“22(b)”\] 40 Stat. 970; Mar. 4, 1923, ch. 252, title II, §§209(c), 216(d) \[second sentence\], 42 Stat. 1468, 1472; Ex. Ord. No. 6084, Mar. 27, 1933; June 16, 1933, ch. 98, §80(a), 48 Stat. 273; Aug. 23, 1935, ch. 614, §326(b), 49 Stat. 716; Aug. 19, 1937, ch. 704, §20, 50 Stat. 710).
+Based on sections 594, 656a, 952, 981, 1093, 1124, 1243, and 1314 of title 12, U.S.C., 1940 ed., Banks and Banking (Dec. 23, 1913, ch. 6, §22, fourth sentence of first paragraph, and third sentence of second paragraph, 38 Stat. 272; July 17, 1916, ch. 245, §§28, 31 \[third sentence of first paragraph\], 39 Stat. 381, 383; July 17, 1916, ch. 245,§§208(c), 211(d), second sentence, as added Mar. 4, 1923, ch. 252, §2, 42 Stat. 1459, 1460; Sept. 26, 1918, ch. 177, §5 \[“22(b)”\] 40 Stat. 970; Mar. 4, 1923, ch. 252, title II, §§209(c), 216(d) \[second sentence\], 42 Stat. 1468, 1472; Ex. Ord. No. 6084, Mar. 27, 1933; June 16, 1933, ch. 98, §80(a), 48 Stat. 273; Aug. 23, 1935, ch. 614, §326(b), 49 Stat. 716; Aug. 19, 1937, ch. 704, §20, 50 Stat. 710).
 
 Section 594 of title 12, U.S.C., 1940 ed., Banks and Banking, first paragraph, related to national-bank examiners and Federal Deposit Insurance Corporation examiners, and provided punishment for several offenses including the offense of performing services, for compensation, other than their regular duties. Section 656a of said title 12 is authority for the designation “farm credit examiner” included in this section, and section 1093 of said title authorizes farm credit examiners to conduct examinations in connection with contemplated transactions of Federal intermediate credit banks, to which section 1124 of said title relates.
 
@@ -21,12 +21,6 @@ Minor changes were made in phraseology.
 1994—Pub. L. 103–322, §330016(1)(K), substituted “fined under this title” for “fined not more than $5,000”.
 
 Pub. L. 103–322, §330004(12), inserted “or” before “farm credit examiner” and struck out “or an examiner of National Agricultural Credit Corporations,” before “performs any other service”.
-
-#### Cross References
-
-Civil liability of officers or directors of member banks of the Federal Reserve System, for violating or permitting violation of this section, see section 503 of Title 12, Banks and Banking.
-
-Secret Service, detection, arrest and delivery into custody of any person violating this section in so far as the Federal Deposit Insurance Corporation, Federal land banks, joint-stock land banks and national farm loan associations are concerned, see section 3056 of this title.
 
 #### Section Referred to in Other Sections
 

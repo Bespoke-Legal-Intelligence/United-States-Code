@@ -110,7 +110,7 @@
 - [&sect; 00268 - Repealed. Pub. L. 86&#8211;249, &sect;17(7), Sept. 9, 1959, 73 Stat. 484](%C2%A7%2000268%20-%20Repealed.%20Pub.%20L.%2086%E2%80%93249%2C%20%C2%A717%287%29%2C%20Sept.%209%2C%201959%2C%2073%20Stat.%20484.md)
 - [&sect; 00269 - Repealed. Oct. 31, 1951, ch. 654, &sect;1(91), 65 Stat. 705](%C2%A7%2000269%20-%20Repealed.%20Oct.%2031%2C%201951%2C%20ch.%20654%2C%20%C2%A71%2891%29%2C%2065%20Stat.%20705.md)
 - [&sect; 00269a - Omitted](%C2%A7%2000269a%20-%20Omitted.md)
-- [&sect; 00270 - Repealed. Aug. 24, 1935, ch. 642, &sect;5, 49 Stat. 794](%C2%A7%2000270%20-%20Repealed.%20Aug.%2024%2C%201935%2C%20ch.%20642%2C%20%C2%A75%2C%2049%20Stat.%20794.md)
+- [&sect; 00270 - Repealed. Aug. 24, 1935, ch. 642, &sect;7, formerly &sect;5, 49 Stat. 794, renumbered Pub. L. 104&#8211;106, div. D, title XLIII, &sect;4321(i)(8), Feb&#8230;](%C2%A7%2000270%20-%20Repealed.%20Aug.%2024%2C%201935%2C%20ch.%20642%2C%20%C2%A77%2C%20formerly%20%C2%A75%2C%2049%20Stat.%20794%2C%20renumbered%20Pub.%20L.%20104%E2%80%93106%2C%20div.%20D%2C%20title%20XLIII%2C%20%C2%A74321%28i%29%288%29%2C%20Feb%E2%80%A6.md)
 - [&sect; 00270a - Bonds of contractors of public buildings or works](%C2%A7%2000270a%20-%20Bonds%20of%20contractors%20of%20public%20buildings%20or%20works.md)
 - [&sect; 00270b - Rights of persons furnishing labor or material](%C2%A7%2000270b%20-%20Rights%20of%20persons%20furnishing%20labor%20or%20material.md)
 - [&sect; 00270c - Right of person furnishing labor or material to copy of bond](%C2%A7%2000270c%20-%20Right%20of%20person%20furnishing%20labor%20or%20material%20to%20copy%20of%20bond.md)

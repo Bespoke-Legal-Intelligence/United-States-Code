@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—TRAINING SERVICES FOR THE DISADVANTAGED
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 1514, 1516, 1531, 1533, 1551, 1574, 1575, 1694, 1696, 1735 of this title; title 31 section 6703.
-
 
 ---
 

@@ -2,7 +2,7 @@
 
 #### (a) Limitations for filing claims; publication of notice in Federal Register; contents of notice; disclosure of descriptive information; inspection of specific property
 
-(1) Within twelve months following October 15, 1982, the Comptroller shall publish formal notice in the Federal Register that all claims to rights of any claimant to obtain title to, or custody or possession of, any unclaimed property in the possession, custody, or control of the Comptroller must be filed within twelve months following the last date of publication of such formal notice in the Federal Register or shall thereafter be barred.
+(1) Within twelve months following October 15, 1982, the Comptroller shall publish formal notice in the Federal Register that all claims to rights of any claimant to obtain title to, or custody orpossession of, any unclaimed property in the possession, custody, or control of the Comptroller must be filed within twelve months following the last date of publication of such formal notice in the Federal Register or shall thereafter be barred.
 
 (2) Such notice shall contain the names of last known owners, if any, names and locations of affected closed banks, and a general description of the types of unclaimed property held by the Comptroller. The Comptroller may provide additional notice in local communities as it deems appropriate.
 

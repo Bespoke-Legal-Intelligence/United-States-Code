@@ -130,7 +130,7 @@ The Secretary may make a grant under this section to—
 
 #### References in Text
 
-The Alternative Agricultural Research and Commercialization Act of 1990, referred to in subsec. (c)(1)(B), issubtitle G (§§1657–1664) of title XVI of Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3756, which is classified generally to subchapter VI (§5901 et seq.) of chapter 88 of this title. For complete classification of this Act to the Code, see section 5901(a) of this title and Tables.
+The Alternative Agricultural Research and Commercialization Act of 1990, referred to in subsec. (c)(1)(B), is subtitle G (§§1657–1664) of title XVI of Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3756, which is classified generally to subchapter VI (§5901 et seq.) of chapter 88 of this title. For complete classification of this Act to the Code, see section 5901(a) of this title and Tables.
 
 #### Amendments
 

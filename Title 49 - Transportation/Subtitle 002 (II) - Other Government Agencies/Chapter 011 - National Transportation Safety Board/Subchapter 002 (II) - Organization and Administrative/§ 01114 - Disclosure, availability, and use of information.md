@@ -2,7 +2,9 @@
 
 (a)
 
-General.—Except as provided in subsections (b), (c), and (e) of this section, a copy of a record, information, or investigation submitted or received by the National Transportation Safety Board, or a member or employee of the Board, shall be made available to the public on identifiable request and at reasonable cost. This subsection does not require the release of information described by section 552(b) of title 5 or protected from disclosure by another law of the United States.
+General.—(1) Except as provided in subsections (b), (c), (d), and (f) of this section, acopy of a record, information, or investigation submitted or received by the National Transportation Safety Board, or a member or employee of the Board, shall be made available to the public on identifiable request and at reasonable cost. This subsection does not require the release of information described by section 552(b) of title 5 or protected from disclosure by another law of the United States.
+
+(2) The Board shall deposit in the Treasury amounts received under paragraph (1) to be credited to the appropriation of the Board as offsetting collections.
 
 (b)
 
@@ -24,15 +26,31 @@ Protection of Voluntary Submission of Information.—Notwithstanding any other p
 
 (c)
 
-Cockpit Voice Recordings and Transcripts.—(1) The Board may not disclose publicly any part of a cockpit voice recorder recording or transcript of oral communications by and between flight crew members and ground stations related to an accident or incident investigated by the Board. However, the Board shall make public any part of a transcript the Board decides is relevant to the accident or incident—
+Cockpit Recordings and Transcripts.—(1) The Board may not disclose publicly any part of a cockpit voice or video recorder recording or transcript of oral communications by and between flight crew members and ground stations related to an accident or incident investigated by the Board. However, the Board shall make public any part of a transcript or any written depiction of visual information the Board decides is relevant to the accident or incident—
 
 &emsp;(A) if the Board holds a public hearing on the accident or incident, at the time of the hearing; or
 
 &emsp;(B) if the Board does not hold a public hearing, at the time a majority of the other factual reports on the accident or incident are placed in the public docket.
 
-(2) This subsection does not prevent the Board from referring at any time to cockpit voice recorder information in making safety recommendations.
+(2) This subsection does not prevent the Board from referring at any time to cockpit voice or video recorder information in making safety recommendations.
 
 (d)
+
+Surface Vehicle Recordings and Transcripts.—
+
+&emsp;(1)
+
+Confidentiality of recordings.—The Board may not disclose publicly any part of a surface vehicle voice or video recorder recording or transcript of oral communications by or among drivers, train employees, or other operating employees responsible for the movement and direction of the vehicle or vessel, or between such operating employees and company communication centers, related to an accident investigated by the Board. However, the Board shall make public any part of a transcript or any written depiction of visual information that the Board decides is relevant to the accident—
+
+&emsp;&emsp;(A) if the Board holds a public hearing on the accident, at the time of the hearing; or
+
+&emsp;&emsp;(B) if the Board does not hold a public hearing, at the time a majority of the other factual reports on the accident are placed in the public docket.
+
+&emsp;(2)
+
+References to information in making safety recommendations.—This subsection does not prevent the Board from referring at any time to voice or video recorder information in making safety recommendations.
+
+(e)
 
 Drug Tests.—(1) Notwithstanding section 503(e) of the Supplemental Appropriations Act, 1987 (Public Law 100–71, 101 Stat. 471), the Secretary of Transportation shall provide the following information to the Board when requested in writing by the Board:
 
@@ -52,13 +70,13 @@ Drug Tests.—(1) Notwithstanding section 503(e) of the Supplemental Appropriati
 
 &emsp;(B) the use of that record is necessary to develop the evidentiary record.
 
-(e)
+(f)
 
 Foreign Investigations.—
 
 &emsp;(1)
 
-In general.—Notwithstanding any other provision of law, neither the Board, nor any agency receiving information from the Board, shall disclose records or information relating to its participation in foreign aircraft accident investigations; except that—
+In general.—Notwithstanding any other provision of law, neither the Board, nor any agency receiving information from the Board,shall disclose records or information relating to its participation in foreign aircraft accident investigations; except that—
 
 &emsp;&emsp;(A) the Board shall release records pertaining to such an investigation when the country conducting the investigation issues its final report or 2 years following the date of the accident, whichever occurs first; and
 
@@ -68,7 +86,7 @@ In general.—Notwithstanding any other provision of law, neither the Board, nor
 
 Safety recommendations.—Nothing in this subsection shall restrict the Board at any time from referring to foreign accident investigation information in making safety recommendations.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 749; Pub. L. 104–291, title I, §§102, 103, Oct. 11, 1996, 110 Stat. 3452.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 749; Pub. L. 104–291, title I, §§102, 103, Oct. 11, 1996, 110 Stat. 3452; Pub. L. 106–424, §§3(b)(2), 5(a), (b), Nov. 1, 2000, 114 Stat. 1884, 1885.)
 
 Historical and Revision Notes
 
@@ -122,9 +140,21 @@ In subsection (d)(3), the words “laboratory record made available under paragr
 
 #### References in Text
 
-Section 503(e) of the Supplemental Appropriations Act, 1987, referred to in subsec. (d)(1), is section 503(e) of Pub. L. 100–71, which is set out as a note under section 7301 of Title 5, Government Organization and Employees.
+Section 503(e) of the Supplemental Appropriations Act, 1987, referred to in subsec. (e)(1), is section 503(e) of Pub. L. 100–71, which is set out as a note under section 7301 of Title 5, Government Organization and Employees.
 
 #### Amendments
+
+2000—Subsec. (a). Pub. L. 106–424, §§3(b)(2), 5(b)(2), designated existing provisions as par. (1), substituted “(d), and (f)” for “and (e)” in first sentence, and added par. (2).
+
+Subsec. (c). Pub. L. 106–424, §5(a)(1), struck out “Voice” after “Cockpit” in heading.
+
+Subsec. (c)(1). Pub. L. 106–424, §5(a)(2), (3), substituted “cockpit voice or video recorder” for “cockpit voice recorder” in first sentence and inserted “or any written depiction of visual information” after “transcript” in second sentence.
+
+Subsec. (c)(2). Pub. L. 106–424, §5(a)(2), substituted “cockpit voice or video recorder” for “cockpit voice recorder”.
+
+Subsec. (d). Pub. L. 106–424, §5(b)(1)(B), which directed the addition of subsec. (d) after subsec. (e), was executed by adding subsec. (d) before subsec. (e) to reflect the probable intent of Congress. Former subsec. (d) redesignated (e).
+
+Subsecs. (e), (f). Pub. L. 106–424, §5(b)(1)(A), redesignated subsecs. (d) and (e) as (e) and (f), respectively.
 
 1996—Subsec. (a). Pub. L. 104–291, §102(1), substituted “(b), (c), and (e)” for “(b) and (c)”.
 

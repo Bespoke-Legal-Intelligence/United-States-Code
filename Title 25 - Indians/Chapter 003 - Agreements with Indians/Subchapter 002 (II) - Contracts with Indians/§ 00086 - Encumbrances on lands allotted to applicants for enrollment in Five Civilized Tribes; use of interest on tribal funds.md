@@ -10,7 +10,7 @@ Act of March third, nineteen hundred and eleven, referred to in text, is act Mar
 
 #### Amendments
 
-1948—Act June 25, 1948, struck out provisions relating to prohibiting contracts for compensation for services in relation to enrollment in the Five Civilized Tribes which is now covered by section 439 of Title 18, Crimes and Criminal Procedure.
+1948—Act June 25, 1948, struck out provisions relating to prohibiting contracts for compensation for services in relation to enrollment in the Five Civilized Tribes.
 
 #### Effective Date of 1948 Amendment
 

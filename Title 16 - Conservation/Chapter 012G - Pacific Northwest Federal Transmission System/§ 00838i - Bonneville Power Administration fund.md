@@ -26,7 +26,7 @@ The Administrator may make expenditures from the fund, which shall have been inc
 
 &emsp;(9) making such payments to the credit of the reclamation fund or other funds as are required by or pursuant to law to be made into such funds in connection with reclamation projects in the Pacific Northwest: <i>Provided</i>, That this clause shall not be construed as permitting the use of revenues for repayment of costs allocated to irrigation at any project except as otherwise expressly authorized by law;
 
-&emsp;(10) making payments to the credit of miscellaneous receipts of the Treasury for all unpaid costs required by or pursuant to law to be charged to and returned to the general fund of the Treasury for the repayment of the Federalinvestment in the Federal Columbia River Power System from electric power marketed by the Administrator;
+&emsp;(10) making payments to the credit of miscellaneous receipts of the Treasury for all unpaid costs required by or pursuant to law to be charged to and returned to the general fund of the Treasury for the repayment of the Federal investment in the Federal Columbia River Power System from electric power marketed by the Administrator;
 
 &emsp;(11) acquiring such goods and services, and paying dues and membership fees in such professional, utility, industry, and other societies, associations, and institutes, together with expenses related to such memberships, including but not limited to the acquisitions and payments set forth in the general provisions of the annual appropriations Act for the Department of Energy, as the Administrator determines to be necessary or appropriate in carrying out the purposes of this chapter; and
 
@@ -74,7 +74,7 @@ Functions of Secretary of the Interior with respect to Bonneville Power Administ
 
 #### Authority To Incur Obligations in Excess of Borrowing Authority and Cash in Fund
 
-Pub. L. 100–371, title III, July 19, 1988, 102 Stat. 869, provided that: “Without fiscal year limitation, the Bonneville Power Administration continues to be authorized to incur obligations for authorized purposes and may do so in excess of borrowing authority and cash in the Bonneville Power Administration Fund.”
+Pub. L. 100–371, title III, July 19, 1988, 102 Stat. 869, provided that: “Without fiscal year limitation, the Bonneville Power Administration continues to be authorized to incur obligations for authorized purposesand may do so in excess of borrowing authority and cash in the Bonneville Power Administration Fund.”
 
 #### Section Referred to in Other Sections
 

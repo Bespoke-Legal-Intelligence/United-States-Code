@@ -2,7 +2,7 @@
 
 (a)
 
-Authority To Exempt.—(1) As provided under procedures prescribed by regulation, theSecretary of Transportation may issue an exemption from this chapter or a regulation prescribed under section 5103(b), 5104, 5110, or 5112 of this title to a person transporting, or causing to be transported, hazardous material in a way that achieves a safety level—
+Authority To Exempt.—(1) As provided under procedures prescribed by regulation, the Secretary of Transportation may issue an exemption from this chapter or a regulation prescribed under section 5103(b), 5104, 5110, or 5112 of this title to a person transporting, or causing to be transported, hazardous material in a way that achieves a safety level—
 
 &emsp;(A) at least equal to the safety level required under this chapter; or
 
@@ -78,7 +78,7 @@ In subsection (a)(2), the words “issued or renewed” are omitted as surplus.
 
 In subsection (b), the words “upon application” and “grant of such” are omitted as surplus. The words “give the public an opportunity to inspect” are substituted for “afford access to . . . public” for clarity. The words “described by subsection (b) of section 552 of title 5, or which is otherwise” are omitted as surplus.
 
-In subsection (c)(1), clauses (A) and (B) are substituted for “any vessel which is excepted from the application of section 201 of the Ports and Waterways Safety Act of 1972 by paragraph (2) of such section”. Section 201 of that Act amended section 4417a of the Revised Statutes (classified at 46:391a prior to its repeal and reenactment as part of the codification of subtitle II of title 46 in 1983). Clauses (A) and (B) restate the exceptions provided by section 201 of that Act and by section 4417a of the Revised Statutes as subsequently amended. Clause (C) is substituted for “any other vessel regulated under such Act, to the extent of such regulation” because of the restatement.
+In subsection (c)(1), clauses (A) and (B) are substituted for “any vessel which is excepted from the application of section 201 of the Ports and Waterways Safety Act of 1972 by paragraph (2) of such section”.Section 201 of that Act amended section 4417a of the Revised Statutes (classified at 46:391a prior to its repeal and reenactment as part of the codification of subtitle II of title 46 in 1983). Clauses (A) and (B) restate the exceptions provided by section 201 of that Act and by section 4417a of the Revised Statutes as subsequently amended. Clause (C) is substituted for “any other vessel regulated under such Act, to the extent of such regulation” because of the restatement.
 
 In subsection (c)(2), before clause (A), the word “prescribed” is substituted for “issued” for consistency in the revised title and with other titles of the United States Code.
 

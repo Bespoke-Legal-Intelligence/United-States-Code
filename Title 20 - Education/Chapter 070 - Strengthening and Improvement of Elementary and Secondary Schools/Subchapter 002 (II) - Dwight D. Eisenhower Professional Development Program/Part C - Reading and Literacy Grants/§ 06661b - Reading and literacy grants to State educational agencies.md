@@ -78,7 +78,7 @@
 
 &emsp;&emsp;&emsp;(ii) will promote reading and library programs that provide access to engaging reading material;
 
-&emsp;&emsp;&emsp;(iii) will make local educational agencies described in sections 6661d(a)(1) and6661e(a)(1) of this title aware of the availability of subgrants under sections 6661d and 6661e of this title; and
+&emsp;&emsp;&emsp;(iii) will make local educational agencies described in sections 6661d(a)(1) and 6661e(a)(1) of this title aware of the availability of subgrants under sections 6661d and 6661e of this title; and
 
 &emsp;&emsp;&emsp;(iv) will assess and evaluate, on a regular basis, local educational agency activities assisted under this part, with respect to whether they have been effective in achieving the purposes of this part.
 
@@ -100,7 +100,7 @@
 
 &emsp;&emsp;The Secretary, in consultation with the National Institute for Literacy, shall convene a panel to evaluate applications under this section. At a minimum, the panel shall include—
 
-&emsp;&emsp;&emsp;(i) representatives of the National Institute for Literacy, the National Research Council of the National Academy of Sciences, and the National Institute of Child Health and Human Development;
+&emsp;&emsp;&emsp;(i) representatives of the National Institute for Literacy, the National ResearchCouncil of the National Academy of Sciences, and the National Institute of Child Health and Human Development;
 
 &emsp;&emsp;&emsp;(ii) 3 individuals selected by the Secretary;
 

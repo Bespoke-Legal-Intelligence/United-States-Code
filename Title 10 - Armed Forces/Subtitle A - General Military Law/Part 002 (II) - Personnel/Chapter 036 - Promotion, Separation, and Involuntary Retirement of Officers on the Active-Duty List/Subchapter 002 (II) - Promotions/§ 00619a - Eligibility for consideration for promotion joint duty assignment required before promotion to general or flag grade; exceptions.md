@@ -64,7 +64,7 @@ Subsec. (h). Pub. L. 106–65, §508(b), substituted “An officer of the Navy�
 
 #### Report on Plans for Compliance
 
-Section 931(d) of Pub. L. 103–160 provided that: “Not later than February 1, 1994, the Secretary of Defense shall certify to Congress that the Army, Navy, Air Force, and Marine Corps have each developed and implemented a plan for their officer personnel assignment and promotion policies so as to ensure compliance with the requirements of section 619a of title 10, United States Code, as added by subsection (a). Each such plan should particularly ensure that by January 1, 1999, the service covered by the plan shall have enough officers who have completed a full tour of duty in a joint dutyassignment so as to permit the orderly promotion of officers to brigadier general or, in the case of the Navy, rear admiral (lower half) pursuant to the requirements of chapter 38 of title 10, United States Code.”
+Section 931(d) of Pub. L. 103–160 provided that: “Not later than February 1, 1994, the Secretary of Defense shall certify to Congress that the Army, Navy, Air Force, and Marine Corps have each developed and implemented a plan for their officer personnel assignment and promotion policies so as to ensure compliance with the requirements of section 619a of title 10, United States Code, as added by subsection (a). Each such plan should particularly ensure that by January 1, 1999, the service covered by the plan shall have enough officers who have completed a full tour of duty in a joint duty assignment so as to permit the orderly promotion of officers to brigadier general or, in the case of the Navy, rear admiral (lower half) pursuant to the requirements of chapter 38 of title 10, United States Code.”
 
 #### Revision of Transition Plan
 

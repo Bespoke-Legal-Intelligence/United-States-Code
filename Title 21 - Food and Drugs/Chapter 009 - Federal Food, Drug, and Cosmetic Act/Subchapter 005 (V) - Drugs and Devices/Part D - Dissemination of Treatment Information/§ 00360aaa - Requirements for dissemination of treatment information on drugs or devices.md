@@ -58,7 +58,7 @@ A manufacturer may disseminate information under subsection (a) of this section 
 
 If the Secretary determines, after providing notice of such determination and an opportunity for a meeting with respect to such determination, that the information submitted by a manufacturer under subsection (b)(3)(B) of this section, with respect to the use of a drug or device for which the manufacturer intends to disseminate information, fails to provide data, analyses, or other written matter that is objective and balanced, the Secretary may require the manufacturer to disseminate—
 
-&emsp;(1) additional objective and scientifically sound information that pertains to the safety or effectiveness of the use and is necessary to provide objectivity and balance, including any information that the manufacturer has submitted to the Secretary or, where appropriate, a summary of such information or any other information that the Secretary has authority to make available to the public; and
+&emsp;(1) additional objective and scientifically sound information that pertains to the safetyor effectiveness of the use and is necessary to provide objectivity and balance, including any information that the manufacturer has submitted to the Secretary or, where appropriate, a summary of such information or any other information that the Secretary has authority to make available to the public; and
 
 &emsp;(2) an objective statement of the Secretary, based on data or other scientifically sound information available to the Secretary, that bears on the safety or effectiveness of the new use of the drug or device.
 
@@ -92,7 +92,7 @@ In general.—The Comptroller General of the United States shall conduct a study
 
 &emsp;“(B)
 
-Report.—Not later than January 1, 2002, the Comptroller General of the United States shall prepare and submit to the Committee on Labor and Human Resources of the Senate and the Committee on Commerce of the House of Representatives a report of the results of the study.
+Report.—Not later than January 1, 2002, the Comptroller General of the United States shall prepare and submit to the Committee on Labor and Human Resources of the Senate and the Committee on Commerce \[now Committee on Energy and Commerce\] of the House of Representatives a report of the results of the study.
 
 “(2)
 
@@ -120,7 +120,7 @@ In general.—The Secretary shall request the Institute of Medicine of the Natio
 
 &emsp;“(B)
 
-Report.—Not later than September 30, 2005, the Institute of Medicine or the Comptroller General of the United States, as appropriate, shall prepare and submit to the Committee on Labor and Human Resources of the Senate, the Committee on Commerce of the House of Representatives, and the Secretary a report of the results of the study required by paragraph (2). The Secretary, after the receipt of the report, shall make the report available to the public.”
+Report.—Not later than September 30, 2005, the Institute of Medicine or the Comptroller General of the United States, as appropriate, shall prepare and submit to the Committee on Labor and Human Resources of the Senate, the Committee on Commerce \[now Committee on Energy and Commerce\] of the House of Representatives, and the Secretary a report of the results of the study required by paragraph (2). The Secretary, after the receipt of the report, shall make the report available to the public.”
 
 #### Section Referred to in Other Sections
 

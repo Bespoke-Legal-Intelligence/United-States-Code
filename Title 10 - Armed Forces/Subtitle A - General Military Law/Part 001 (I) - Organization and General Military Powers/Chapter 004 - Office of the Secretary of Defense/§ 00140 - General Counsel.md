@@ -52,7 +52,3 @@ For effective date of amendment by Pub. L. 88–426, see section 501 of Pub. L. 
 
 For order of succession in event of death, disability, or resignation of Secretary, see Ex. Ord. No. 13000, Apr. 24, 1996, 61 F.R. 18483, set out as a note under section 3345 of Title 5, Government Organization and Employees.
 
-#### Cross References
-
-Compensation of General Counsel, see section 5315 of Title 5, Government Organization and Employees.
-

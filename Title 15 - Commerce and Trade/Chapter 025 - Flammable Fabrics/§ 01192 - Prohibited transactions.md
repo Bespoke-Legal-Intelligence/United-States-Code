@@ -6,7 +6,7 @@ The manufacture for sale, the sale, or the offering for sale, in commerce, or th
 
 #### (b) Nonconforming components
 
-The manufacture for sale, the sale, or the offering for sale, of any product made of fabric or related material which fails to conform to an applicable standard or regulation issued or amended under section 1193 of this title, and which has been shipped or received in commerce shall be unlawful and shall be an unfair method of competition and an unfair and deceptive act or practice in commerce under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\].
+The manufacture for sale, the sale, or the offering for sale, of any product made of fabric or related material which fails to conform to an applicable standard or regulation issued oramended under section 1193 of this title, and which has been shipped or received in commerce shall be unlawful and shall be an unfair method of competition and an unfair and deceptive act or practice in commerce under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\].
 
 (June 30, 1953, ch. 164, §3, 67 Stat. 111; Pub. L. 90–189, §2, Dec. 14, 1967, 81 Stat. 568.)
 
@@ -23,16 +23,6 @@ Subsecs. (b), (c). Pub. L. 90–189 struck out former subsec. (b) which made the
 #### Transfer of Functions
 
 Functions of Secretary of Health, Education, and Welfare, Secretary of Commerce, and Federal Trade Commission under this chapter transferred to Consumer Product Safety Commission, along with functions of Federal Trade Commission under Federal Trade Commission Act, to extent such functions relate to administration and enforcement of this chapter, see section 2079 of this title.
-
-#### Cross References
-
-Enforcement by Commission, see section 1194 of this title.
-
-Guaranty, immunity from prosecution upon establishing, see section 1197 of this title.
-
-Injunction and condemnation proceedings, see section 1195 of this title.
-
-Misdemeanors, violations as, see section 1196 of this title.
 
 #### Section Referred to in Other Sections
 

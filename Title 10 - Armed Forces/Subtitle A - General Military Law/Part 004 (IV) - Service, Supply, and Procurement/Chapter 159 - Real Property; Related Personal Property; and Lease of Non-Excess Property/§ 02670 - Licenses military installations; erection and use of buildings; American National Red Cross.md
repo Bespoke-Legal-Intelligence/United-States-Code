@@ -26,7 +26,3 @@ June 3, 1916, ch. 134, §127a (5th par.); added June 4, 1920, ch. 227, subch. I,
 
 The word “issue” is substituted for the words “grant permission”. The word “use” is substituted for the words “occupy for that purpose”.
 
-#### Cross References
-
-Cooperation and assistance to armed forces, see section 2602 of this title.
-

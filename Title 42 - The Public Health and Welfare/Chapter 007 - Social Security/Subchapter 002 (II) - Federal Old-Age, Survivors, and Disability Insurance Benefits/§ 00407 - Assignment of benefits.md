@@ -38,18 +38,6 @@ Section 335(c) of Pub. L. 98–21 provided that: “The amendments made by subse
 
 Section 201 of act Aug. 10, 1939, provided that the amendment made by that section is effective Jan. 1, 1940.
 
-#### Federal Rules of Civil Procedure
-
-One form of action, see rule 2, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-Seizure of person or property, see rule 64.
-
-#### Cross References
-
-Assignment of claims void, see section 3727 of Title 31, Money and Finance.
-
-Enforcement of legal obligations to provide child support and make alimony payments, see section 659 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 401, 659, 1320a–8, 1320b–17, 1383 of this title; title 18 section 3613; title 26 sections 86, 871, 6334; title 30 section 923; title 31 section 3716.

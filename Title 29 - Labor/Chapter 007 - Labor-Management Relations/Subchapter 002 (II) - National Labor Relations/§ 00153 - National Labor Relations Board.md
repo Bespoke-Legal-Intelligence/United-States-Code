@@ -42,6 +42,10 @@ Subsec. (d). Pub. L. 86–257, §703, authorized the President to designate the 
 
 Section 707 of title VII of Pub. L. 86–257 provided that: “The amendments made by this title \[amending this section and sections 158, 159, and 160 of this title\] shall take effect sixty days after the date of the enactment of this Act \[Sept. 14, 1959\] and no provision of this title shall be deemed to make an unfair labor practice, any act which is performed prior to such effective date which did not constitute an unfair labor practice prior thereto.”
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (c) of this section relating to making a report in writing to Congress at the close of each fiscal year, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 184 of House Document No. 103–7.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 152 of this title.

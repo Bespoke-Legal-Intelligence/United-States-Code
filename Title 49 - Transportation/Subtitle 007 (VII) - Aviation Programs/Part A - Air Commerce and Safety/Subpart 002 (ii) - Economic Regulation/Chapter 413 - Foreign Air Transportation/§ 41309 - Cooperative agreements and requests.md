@@ -6,7 +6,7 @@ Filing.—An air carrier or foreign air carrier may file with the Secretary of T
 
 (b)
 
-Approval.—The Secretary of Transportation shall approve an agreement, request, modification, or cancellation referred to in subsection (a) of this section when the Secretaryfinds it is not adverse to the public interest and is not in violation of this part. However, the Secretary shall disapprove—
+Approval.—The Secretary of Transportation shall approve an agreement, request, modification, or cancellation referred to in subsection (a) of this section when the Secretary finds it is not adverse to the public interest and is not in violation of this part. However, the Secretary shall disapprove—
 
 &emsp;(1) or, after periodic review, end approval of, an agreement, request, modification, or cancellation, that substantially reduces or eliminates competition unless the Secretary finds that—
 
@@ -92,7 +92,7 @@ In this section, the word “contract” is omitted as being included in “agre
 
 In subsection (a), the words “(whether enforceable by provisions for liquidated damages, penalties, bonds, or otherwise)” are omitted as surplus. The words “(except an agreement related to interstate air transportation)” and “(except arrangements related to interstate air transportation)” are added because of 49 App.:1551(a)(6) (related to 49 App.:1382). The word “working” is omitted as surplus. The words “in force on October 24, 1978, or thereafter entered into” are omitted as executed. The words “and any modification or cancellation of an agreement” are substituted for “or any modification or cancellation thereof” for clarity and consistency.
 
-In subsection (b), before clause (1), the words “The Board shall by order disapprove any contract, agreement, or request . . . that it finds to be adverse to the public interest or in violation of this chapter” are omitted as surplus because of the language restated in this subsection that sets out the requirements for approval by the Secretary of Transportation before the antitrust exemption is effective. The words “whether or not previously approved by it” are omitted as surplus because of the language in clause (1) requiring periodic review and continuing approval. The words “by order” are omitted as unnecessary because of 5:ch. 5, subch. II. The text of 49 App.:1382(a)(2)(A)(iii) is omitted as obsolete because of 49 App.:1551(a)(6) (related to 49 App.:1382).
+In subsection (b), before clause (1), the words “The Board shall by order disapprove any contract, agreement, or request . . . that it finds to be adverse to the public interest or in violation of this chapter” are omitted as surplus because of the language restated in this subsection that sets out the requirements for approval by the Secretary of Transportation before the antitrust exemption is effective. The words “whether or not previously approved by it” are omitted as surplus because of the language in clause (1) requiring periodic review and continuing approval. The words “by order” are omitted as unnecessary because of 5:ch.5, subch. II. The text of 49 App.:1382(a)(2)(A)(iii) is omitted as obsolete because of 49 App.:1551(a)(6) (related to 49 App.:1382).
 
 In subsection (c)(1), the words “in accordance with regulations which it prescribes” are omitted as surplus. The words “in accordance with regulations prescribed by the Board” are omitted as surplus.
 

@@ -204,6 +204,10 @@ Amendment by title V of Pub. L. 105–276 effective and applicable beginning upo
 
 Section 4(b) of Pub. L. 93–151 provided that: “The amendments made by subsection (a) of this section \[enacting this section\] become effective upon the expiration of ninety days following the date of enactment of this Act \[Nov. 9, 1973\].”
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (f) of this section relating to annual submittal to Congress of estimate of funds, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and item 22 on page 97 of House Document No. 103–7.
+
 #### Lead-Based Paint Abatement Training and Certification Requirements and Training Grants
 
 Pub. L. 102–139, title III, Oct. 28, 1991, 105 Stat. 765, 766, which provided for regulations governing lead-based paint abatement activities to ensure that individuals engaged in such activities are properly trained, that training programs are accredited, that contractors are certified, and that laboratories engaged in testing for substances are certified, and which also provided for grants for training and education of workers who are or may be directly engaged in lead-based paint abatement activities, was omitted as superseded by section 2682(a)(1) of Title 15, Commerce and Trade, which provided in part that on Oct. 28, 1992, the provisions of law formerly set out in this note would cease to have any force and effect.
@@ -238,5 +242,5 @@ Required consultations.—Before issuing proposed regulations and in preparing r
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1437aaa–1, 1437aaa–2, 4851b, 12872, 12873, 12892, 12893 of this title; title 15 section 2681.
+This section is referred to in sections 1437aaa–1, 1437aaa–2, 4851b, 12872, 12873, 12892, 12893 of this title; title 12 section 1715z–22; title 15 section 2681.
 

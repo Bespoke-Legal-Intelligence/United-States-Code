@@ -6,7 +6,7 @@ The Congress finds that demands for funds through Federal and federally assisted
 
 #### Effective Date
 
-Section 20 of Pub. L. 93–224 provided that: “This Act \[enacting this chapter and amending section 24 of this title\] becomes effective upon the date of its enactment \[Dec. 29, 1973\], except that section 7 \[section 2286 of thistitle\] becomes effective upon the expiration of thirty days after such date \[Dec. 29, 1973\].”
+Section 20 of Pub. L. 93–224 provided that: “This Act \[enacting this chapter and amending section 24 of this title\] becomes effective upon the date of its enactment \[Dec. 29, 1973\], except that section 7 \[section 2286 of this title\] becomes effective upon the expiration of thirty days after such date \[Dec. 29, 1973\].”
 
 #### Short Title
 

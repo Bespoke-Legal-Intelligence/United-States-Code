@@ -108,11 +108,11 @@ An agreement between the Secretary and a guaranty agency under this section—
 
 #### (5) Modification notice
 
-&emsp;The Secretary shall notify the Chairperson and the Ranking Minority Members of the Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives 30 days prior to any modifications to an agreement under this section.
+&emsp;The Secretary shall notify the Chairperson and the Ranking Minority Members of theCommittee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives 30 days prior to any modifications to an agreement under this section.
 
 #### (d) Termination
 
-At the expiration or early termination of an agreement under this section, the Secretary shall reinstate the guaranty agency's prior agreements under subsections (b) and (c) of section 1078 of this title, subject only to such additional requirements as the Secretary determines to be necessary in order to ensure the efficient transfer of responsibilities between the agreement under this section and the agreements under subsections (b) and (c) of section 1078 ofthis title, and including the guaranty agency's compliance with reserve requirements under sections 1072 and 1078 of this title.
+At the expiration or early termination of an agreement under this section, the Secretary shall reinstate the guaranty agency's prior agreements under subsections (b) and (c) of section 1078 of this title, subject only to such additional requirements as the Secretary determines to be necessary in order to ensure the efficient transfer of responsibilities between the agreement under this section and the agreements under subsections (b) and (c) of section 1078 of this title, and including the guaranty agency's compliance with reserve requirements under sections 1072 and 1078 of this title.
 
 (Pub. L. 89–329, title IV, §428A, as added Pub. L. 105–244, title IV, §418, Oct. 7, 1998, 112 Stat. 1691.)
 

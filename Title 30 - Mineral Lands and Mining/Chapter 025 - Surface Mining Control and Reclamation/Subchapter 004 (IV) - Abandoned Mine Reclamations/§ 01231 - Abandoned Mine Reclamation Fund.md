@@ -82,7 +82,7 @@ Subsec. (c)(10) to (12). Pub. L. 101–508, §6002(b)(5), added pars. (10) and (
 
 Subsec. (e). Pub. L. 101–508, §6002(c), added subsec. (e).
 
-1984—Subsec. (c)(1). Pub. L. 98–473 inserted at end “and establishment of self-sustaining, individual State administered programs to insure private propertyagainst damages caused by land subsidence resulting from underground coal mining in those States which have reclamation plans approved in accordance with section 1253 of this title: <i>Provided</i>, That funds used for this purpose shall not exceed $3,000,000 of the funds made available to any State under section 1232(g)(2) of this title;”.
+1984—Subsec. (c)(1). Pub. L. 98–473 inserted at end “and establishment of self-sustaining, individual State administered programs to insure private property against damages caused by land subsidence resulting from underground coal mining in those States which have reclamation plans approved in accordance with section 1253 of this title: <i>Provided</i>, That funds used for this purpose shall not exceed $3,000,000 of the funds made available to any State under section 1232(g)(2) of this title;”.
 
 #### Effective Date of 1990 Amendment
 

@@ -14,7 +14,7 @@ A determination under this subsection is a reasonable determination by the Attor
 
 &emsp;(1) an emergency requires the installation and use of a pen register or trap and trace device to obtain foreign intelligence information or information concerning international terrorism before an order authorizing the installation and use of the pen register or trap and trace device, as the case may be, can with due diligence be obtained under section 1842 of this title; and
 
-&emsp;(2) the factual basis for issuance of an order under such section 1842 of this title to approve the installation and use of the pen register ortrap and trace device, as the case may be, exists.
+&emsp;(2) the factual basis for issuance of an order under such section 1842 of this title to approve the installation and use of the pen register or trap and trace device, as the case may be, exists.
 
 #### (c) Effect of absence of order
 

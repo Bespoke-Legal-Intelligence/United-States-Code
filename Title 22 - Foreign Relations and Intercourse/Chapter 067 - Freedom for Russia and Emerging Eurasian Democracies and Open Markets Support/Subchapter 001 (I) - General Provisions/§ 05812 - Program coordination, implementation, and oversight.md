@@ -174,7 +174,7 @@ Currency Stabilization.—In furtherance of the purposes and consistent with the
 
 “(c)
 
-Study of the Need for and Feasibility of a Currency Stabilization Fund for Ukraine.—The Secretary of the Treasury shall instruct the United States Executive Director of the International Monetary Fund to use the voice and vote of the United States to urgethe Fund to conduct a study of the need for and feasibility of a currency stabilization fund for Ukraine, and, if it is found that such a fund is needed and is feasible, which considers and makes recommendations with respect to the economic and policy conditions required for the success of such a fund.”
+Study of the Need for and Feasibility of a Currency Stabilization Fund for Ukraine.—The Secretary of the Treasury shall instruct the United States Executive Director of the International Monetary Fund to use the voice and vote of the United States to urge the Fund to conduct a study of the need for and feasibility of a currency stabilization fund for Ukraine, and, if it is found that such a fund is needed and is feasible, which considers and makes recommendations with respect to the economic and policy conditions required for the success of such a fund.”
 
 #### Report on Debt of Former Soviet Union Held by Commercial Financial Institutions
 

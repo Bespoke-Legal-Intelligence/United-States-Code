@@ -8,7 +8,7 @@ In order to preserve for the benefit and inspiration of the people of the United
 
 The historical park shall be comprised of the following:
 
-&emsp;(1) All property administered by the National Park Service in the Adams National Historic Site as of November 2, 1998, as well as all property previously authorized to be acquired by the Secretary for inclusion in the Adams National Historic Site, as generally depicted on the map entitled “Adams National Historical Park”, numbered NERO 386/80,000, and dated April 1998.
+&emsp;(1) All property administered by the National Park Service in the Adams NationalHistoric Site as of November 2, 1998, as well as all property previously authorized to be acquired by the Secretary for inclusion in the Adams National Historic Site, as generally depicted on the map entitled “Adams National Historical Park”, numbered NERO 386/80,000, and dated April 1998.
 
 &emsp;(2) All property authorized to be acquired for inclusion in the historical park by this subchapter or other law enacted after November 2, 1998.
 

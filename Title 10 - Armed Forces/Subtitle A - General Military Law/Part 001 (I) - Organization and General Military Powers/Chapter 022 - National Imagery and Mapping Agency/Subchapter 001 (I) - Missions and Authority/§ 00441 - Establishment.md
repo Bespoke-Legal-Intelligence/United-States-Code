@@ -106,7 +106,7 @@ Section 1113 of Pub. L. 104–201 provided that:
 
 “(a)
 
-Personnel and Assets.—Subject to subsections (b) and (c), the personnel, assets, unobligated balances of appropriations and authorizations of appropriations, and, to the extent jointly determined appropriate by the Secretary of Defense and Director of Central Intelligence, obligated balances of appropriations and authorizations of appropriations employed, used, held, arising from, or available in connection with the missions and functions transferred under section 1111(b) orsection 1111(c) \[set out above\] are transferred to the National Imagery and Mapping Agency. Transfers of appropriations from the Central Intelligence Agency under this subsection shall be made in accordance with section 1531 of title 31, United States Code.
+Personnel and Assets.—Subject to subsections (b) and (c), the personnel, assets, unobligated balances of appropriations and authorizations of appropriations, and, to the extent jointly determined appropriate by the Secretary of Defense and Director of Central Intelligence, obligated balances of appropriations and authorizations of appropriations employed, used, held, arising from, or available in connection with the missions and functions transferred under section 1111(b) or section 1111(c) \[set out above\] are transferred to the National Imagery and Mapping Agency. Transfers of appropriations from the Central Intelligence Agency under this subsection shall be made in accordance with section 1531 of title 31, United States Code.
 
 “(b)
 

@@ -16,7 +16,7 @@ The following shall apply with respect to the standard of the American Society f
 
 &emsp;(4) Upon the request of the Commission, a producer or repackager of art materials shall submit to the Commission product formulations and the criteria used to determine whether the art material or its ingredients have the potential for producing chronic adverse health effects.
 
-&emsp;(5) All art materials that require chronic hazard labeling pursuant to this section must include on the label the name and address of the producer or repackager of the art materials and an appropriate telephone number and a statement signifying that such art materials are inappropriate for use by children.
+&emsp;(5) All art materials that require chronic hazard labeling pursuant to this section mustinclude on the label the name and address of the producer or repackager of the art materials and an appropriate telephone number and a statement signifying that such art materials are inappropriate for use by children.
 
 &emsp;(6) If an art material producer or repackager becomes newly aware of any significant information regarding the hazards of an art material or ways to protect against the hazard, this new information must be incorporated into the labels of such art materials that are manufactured after 12 months from the date of discovery. If a producer or repackager reformulates an art material, the new formulation must be evaluated and labeled in accordance with the standard referred to in subsection (a) of this section as modified by this subsection.
 
@@ -58,7 +58,7 @@ The Commission may bring an action under section 1267 of this title to enjoin th
 
 #### References in Text
 
-The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (b)(1), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables.
+The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (b)(1), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21,1972, 86 Stat. 973, which is classified generally to subchapter II (§136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables.
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b)(1), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 

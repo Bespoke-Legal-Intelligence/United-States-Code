@@ -1,6 +1,6 @@
 ### §2107. National Memorial Cemetery of the Pacific
 
-With the consent of the Secretary of Veterans Affairs, the American Battle Monuments Commission may build works of architecture and artin the National Memorial Cemetery of the Pacific.
+With the consent of the Secretary of Veterans Affairs, the American Battle Monuments Commission may build works of architecture and art in the National Memorial Cemetery of the Pacific.
 
 (Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1274.)
 

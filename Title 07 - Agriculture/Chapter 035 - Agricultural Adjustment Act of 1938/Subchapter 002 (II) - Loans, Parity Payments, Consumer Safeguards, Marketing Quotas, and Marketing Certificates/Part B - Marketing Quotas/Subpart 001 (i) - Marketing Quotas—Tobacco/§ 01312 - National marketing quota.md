@@ -10,7 +10,7 @@ The Secretary shall, not later than December 1 of any marketing year with respec
 
 &emsp;(3) that amendments have been made in provisions for establishing farm acreage allotments which will cause material revision of such allotments before the end of the period for which quotas are in effect; or
 
-&emsp;(4) that a marketing quota previously proclaimed for such marketing year is not in effect because of disapproval by producers in a referendum held pursuant to subsection (c) of this section: <i>Provided</i>, That if such producers have disapproved national marketing quotas in referenda held in three successive years subsequent to 1952, thereafter a national marketing quota shall not be proclaimed hereunder which would be in effect for any marketing year within the three-year period for which national marketing quotas previously proclaimed were disapproved by producers in a referendum, unless prior to November 10 of the marketing year one-fourth or more of the farmers engaged in the production of the crop of tobacco harvested in the calendar year in which such marketing year begins petition the Secretary, in accordance with such regulations as he may prescribe, to proclaim a national marketing quota for each of the next three succeeding marketing years.
+&emsp;(4) that a marketing quota previously proclaimed for such marketing year is not in effect because of disapproval by producers in a referendum held pursuant to subsection (c) of this section: <i>Provided</i>, That if such producers have disapproved national marketing quotas in referenda held in three successive years subsequent to 1952, thereafter a national marketing quota shall not be proclaimed hereunder which would be in effect for any marketing year within the three-year period for which national marketing quotas previously proclaimed were disapproved by producers in a referendum, unless prior to November 10 of the marketing year one-fourth or more of the farmers engaged in the production of the crop of tobacco harvested in the calendar year inwhich such marketing year begins petition the Secretary, in accordance with such regulations as he may prescribe, to proclaim a national marketing quota for each of the next three succeeding marketing years.
 
 #### (b) Announcement of amount of quota
 
@@ -66,7 +66,7 @@ Pub. L. 92–10, §4, Apr. 14, 1971, 85 Stat. 27, provided that any action taken
 
 #### Deferment of Proclamation of Marketing Quotas for Burley Tobacco
 
-Pub. L. 92–1, Mar. 1, 1971, 85 Stat. 3, provided that, notwithstanding any other provision of law, the Secretary of Agriculture could defer any proclamation under section 312 of the Agricultural Adjustment Act of 1938, as amended \[this section\], with respect to national marketing quotas for burley tobacco for the three marketing years beginning October 1, 1971, until the date he determined was necessary to permit growers to be notified of their farm marketing quotas and the referendum to be held prior to normal planting time.
+Pub. L. 92–1, Mar. 1, 1971, 85 Stat. 3, provided that, notwithstanding any other provision of law, the Secretary of Agriculture could defer any proclamation under section 312 of the Agricultural Adjustment Act of 1938, as amended \[this section\], with respect to national marketing quotas for burley tobacco for the three marketing years beginning October 1, 1971, until the date he determined was necessary to permit growers to benotified of their farm marketing quotas and the referendum to be held prior to normal planting time.
 
 #### Extension of Time for Proclamation of Marketing Quotas for Three Marketing Years Beginning Oct. 1, 1971
 
@@ -96,17 +96,11 @@ Section 1 of act Mar. 31, 1955, ch. 21, 69 Stat. 23, provided for redeterminatio
 
 #### Quotas for Burley and Flue-Cured Tobacco for Marketing Years 1944–45 Through 1947–48
 
-Joint Res. July 7, 1943, ch. 195, 57 Stat. 387, as amended by Joint Res. Mar. 31, 1944, ch. 149, 58 Stat. 136; actFeb. 19, 1946, ch. 31, §1, 60 Stat. 21, provided for quotas for burley and flue-cured tobacco for marketing years 1944–45 through 1947–48. The second par. of section 1 of said act Feb. 19, 1946, provided that amendment made by such section to Joint Res. July 7, 1943, should not apply to flue-cured tobacco for 1946–47 marketing year.
+Joint Res. July 7, 1943, ch. 195, 57 Stat. 387, as amended by Joint Res. Mar. 31, 1944, ch. 149, 58 Stat. 136; act Feb. 19, 1946, ch. 31, §1, 60 Stat. 21, provided for quotas for burley and flue-cured tobacco for marketing years 1944–45 through 1947–48. The second par. of section 1 of said act Feb. 19, 1946, provided that amendment made by such section to Joint Res. July 7, 1943, should not apply to flue-cured tobacco for 1946–47 marketing year.
 
 #### Proclamations Affirmed
 
 Act Apr. 7, 1938, ch. 107, §19, 52 Stat. 205, provided that proclamations issued by Secretary of Agriculture under sections 1312(a), 1327, 1328, and 1345 of this title should be effective as provided in those sections, and no provision of any amendment made by that act should be construed as requiring any further action under section 1312(c) or 1347 of this title with respect to marketing years beginning in 1938.
-
-#### Cross References
-
-Delegation of regulatory functions of Secretary of Agriculture, see section 450c et seq. of this title.
-
-Referendum on orders regulating handling of commodities, see section 608c of this title.
 
 #### Section Referred to in Other Sections
 

@@ -30,7 +30,3 @@ The term “Administrator” as meaning the Administrator of the Wage and Hour D
 
 The term “Secretary” as meaning the Secretary of Labor, see section 6 of act Aug. 12, 1955, set out as a note under section 204 of this title.
 
-#### Cross References
-
-Employees performing services within foreign country or certain territory under jurisdiction of United States as not subject to provisions of this section, see section 213 of this title.
-

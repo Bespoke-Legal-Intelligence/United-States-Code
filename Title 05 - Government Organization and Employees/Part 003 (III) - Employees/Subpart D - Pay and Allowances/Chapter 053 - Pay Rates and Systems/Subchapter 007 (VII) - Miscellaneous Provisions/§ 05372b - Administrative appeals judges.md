@@ -1,0 +1,34 @@
+### §5372b. Administrative appeals judges
+
+(a) For the purpose of this section—
+
+&emsp;(1) the term “administrative appeals judge position” means a position the duties of which primarily involve reviewing decisions of administrative law judges appointed under section 3105; and
+
+&emsp;(2) the term “agency” means an Executive agency, as defined by section 105, but does not include the General Accounting Office.
+
+(b) Subject to such regulations as the Office of Personnel Management may prescribe, the head of the agency concerned shall fix the rate of basic pay for each administrative appeals judge position within such agency which is not classified above GS–15 pursuant to section 5108.
+
+(c) A rate of basic pay fixed under this section shall be—
+
+&emsp;(1) not less than the minimum rate of basic pay for level AL–3 under section 5372; and
+
+&emsp;(2) not greater than the maximum rate of basic pay for level AL–3 under section 5372.
+
+(Added Pub. L. 106–554, §1(a)(3) \[title VI, §645(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–169.)
+
+#### References in Text
+
+GS–15, referred to in subsec. (b), is contained in the General Schedule which is set out under section 5332 of this title.
+
+#### Effective Date
+
+Pub. L. 106–554, §1(a)(3) \[title VI, §645(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–170, provided that: “The amendment made by subsection (a)(1) \[enacting this section\] shall apply with respect to pay for service performed on or after the first day of the first applicable pay period beginning on or after—
+
+&emsp;“(1) the 120th day after the date of the enactment of this Act \[Dec. 21, 2000\]; or
+
+&emsp;“(2) if earlier, the effective date of regulations prescribed by the Office of Personnel Management to carry out such amendment.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 7323 of this title.
+

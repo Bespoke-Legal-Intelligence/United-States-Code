@@ -20,9 +20,13 @@ Under such regulations as the Secretary of State may prescribe, special agents o
 
 &emsp;&emsp;(B) the Secretary of State, Deputy Secretary of State, and official representatives of the United States Government, in the United States or abroad;
 
-&emsp;&emsp;(C) members of the immediate family of persons described in subparagraph (A) or (B); and
+&emsp;&emsp;(C) members of the immediate family of persons described in subparagraph (A) or (B);
 
 &emsp;&emsp;(D) foreign missions (as defined in section 4302(a)(4) <sup>1</sup> of this title) and international organizations (as defined in section 4309(b) of this title), within the United States;
+
+&emsp;&emsp;(E) a departing Secretary of State for a period of up to 180 days after the date of termination of that individual's incumbency as Secretary of State, on the basis of a threat assessment; and
+
+&emsp;&emsp;(F) an individual who has been designated by the President to serve as Secretary of State, prior to that individual's appointment.<sup>2</sup>
 
 &emsp;(4) if designated by the Secretary and qualified, under regulations approved by the Attorney General, for the use of firearms, carry firearms for the purpose of performing the duties authorized by this section; and
 
@@ -50,7 +54,7 @@ Under such regulations as the Secretary of State may prescribe, special agents o
 
 Nothing in subsection (a)(3) of this section shall be construed to preclude or limit in any way the authority of the United States Secret Service to provide protective services pursuant to section 202 of title 3 or section 3056 of title 18 at a level commensurate with protective requirements as determined by the United States Secret Service. The Secretary of State, the Attorney General, and the Secretary of the Treasury shall enter into an interagency agreement with respect to their law enforcement functions.
 
-(Aug. 1, 1956, ch. 841, title I, §37, as added Pub. L. 99–93, title I, §125(a), Aug. 16, 1985, 99 Stat. 415; amended Pub. L. 101–246, title I, §113, Feb. 16, 1990, 104 Stat. 22; Pub. L. 103–236, title I, §139(1), Apr. 30, 1994, 108 Stat. 397.)
+(Aug. 1, 1956, ch. 841, title I, §37, as added Pub. L. 99–93, title I, §125(a), Aug. 16, 1985, 99 Stat. 415; amended Pub. L. 101–246, title I, §113, Feb. 16, 1990, 104 Stat. 22; Pub. L. 103–236, title I, §139(1), Apr. 30, 1994, 108 Stat. 397; Pub. L. 106–553, §1(a)(2) \[title IV, §406, formerly §407\], Dec. 21, 2000, 114 Stat. 2762, 2762A–97, renumbered Pub. L. 106–554, §1(a)(4) \[div. A, §213(a)(5)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–180.)
 
 #### References in Text
 
@@ -58,9 +62,11 @@ Section 4302 of this title, referred to in subsec. (a)(3)(D), was subsequently a
 
 #### Prior Provisions
 
-A prior section 37 of act Aug. 1, 1956, was renumbered section 38 by section 125(a) of Pub. L. 99–93, and subsequently renumbered, and was set out as a Short Titleof 1956 Amendment note under section 2651 of this title, prior to repeal by Pub. L. 102–138, title I, §111(1), Oct. 28, 1991, 105 Stat. 654.
+A prior section 37 of act Aug. 1, 1956, was renumbered section 38 by section 125(a) of Pub. L. 99–93, and subsequently renumbered, and was set out as a Short Title of 1956 Amendment note under section 2651 of this title, prior to repeal by Pub. L. 102–138, title I, §111(1), Oct. 28, 1991, 105 Stat. 654.
 
 #### Amendments
+
+2000—Subsec. (a)(3)(E), (F). Pub. L. 106–553, as renumbered by Pub. L. 106–554, added subpars. (E) and (F).
 
 1994—Subsec. (d). Pub. L. 103–236 struck out subsec. (d) which read as follows: “The Secretary of State shall transmit the regulations prescribed under this section to the Committee on Foreign Affairs and the Committee on the Judiciary of the House of Representatives and the Committee on Foreign Relations of the Senate not less than 20 days before the date on which such regulations take effect.”
 
@@ -73,4 +79,6 @@ Subsec. (a)(5). Pub. L. 101–246, §113(2), amended introductory provisions gen
 This section is referred to in section 4044 of this title; title 5 section 5542.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

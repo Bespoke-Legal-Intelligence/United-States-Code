@@ -30,11 +30,11 @@ The Secretary shall annually develop and publish in the Federal Register a repor
 
 #### Effective Date
 
-Section effective 90 days after Nov. 21, 1997, except as otherwise provided, see section 501 of Pub. L. 105–115,set out as an Effective Date of 1997 Amendment note under section 321 of this title.
+Section effective 90 days after Nov. 21, 1997, except as otherwise provided, see section 501 of Pub. L. 105–115, set out as an Effective Date of 1997 Amendment note under section 321 of this title.
 
 #### Report to Congressional Committees
 
-Section 130(b) of Pub. L. 105–115 provided that: “Not later than October 1, 2001, the Secretary shall prepare and submit to the Committee on Labor and Human Resources of the Senate and the Committee on Commerce of the House of Representatives a report containing—
+Section 130(b) of Pub. L. 105–115 provided that: “Not later than October 1, 2001, the Secretary shall prepare and submit to the Committee on Labor and Human Resources of the Senate and the Committee on Commerce \[now Committee on Energy and Commerce\] of the House of Representatives a report containing—
 
 &emsp;“(1) a summary of the reports submitted under section 506B of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 356b\];
 

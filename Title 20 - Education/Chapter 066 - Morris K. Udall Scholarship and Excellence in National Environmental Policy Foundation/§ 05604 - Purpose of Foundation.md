@@ -4,7 +4,7 @@ It is the purpose of the Foundation to—
 
 &emsp;(1) increase awareness of the importance of and promote the benefit and enjoyment of the Nation's natural resources;
 
-&emsp;(2) foster among the American population greater recognition and understanding of therole of the environment, public lands and resources in the development of the United States;
+&emsp;(2) foster among the American population greater recognition and understanding of the role of the environment, public lands and resources in the development of the United States;
 
 &emsp;(3) identify critical environmental issues;
 
@@ -14,13 +14,13 @@ It is the purpose of the Foundation to—
 
 &emsp;(6) provide educational outreach regarding environmental policy;
 
-&emsp;(7) develop resources to properly train Native American and Alaska Native professionals in health care and public policy;
+&emsp;(7) develop resources to properly train Native American and Alaska Native professionals in health care and public policy, by conducting management and leadership training of Native Americans, Alaska Natives, and others involved in tribal leadership, providing assistance and resources for policy analysis, and carrying out other appropriate activities.; <sup>1</sup>
 
-&emsp;(8) establish as part of the Foundation the United States Institute for Environmental Conflict Resolution to assist the Federal Government in implementing section 4331 of title 42 by providing assessment, mediation, and other related services to resolve environmental disputes involving agencies and instrumentalities of the United States; and
+&emsp;(8) establish as part of the Foundation the United States Institute for Environmental Conflict Resolution to assist the Federal Government in implementing section 4331 of title 42 by providing assessment, mediation, andother related services to resolve environmental disputes involving agencies and instrumentalities of the United States; and
 
 &emsp;(9) complement the direction established by the President in Executive Order No. 12988 (61 Fed. Reg. 4729; relating to civil justice reform).
 
-(Pub. L. 102–259, §6, Mar. 19, 1992, 106 Stat. 80; Pub. L. 105–156, §4, Feb. 11, 1998, 112 Stat. 9.)
+(Pub. L. 102–259, §6, Mar. 19, 1992, 106 Stat. 80; Pub. L. 105–156, §4, Feb. 11, 1998, 112 Stat. 9; Pub. L. 106–568, title VIII, §817(a), Dec. 27, 2000, 114 Stat. 2918.)
 
 #### References in Text
 
@@ -28,11 +28,15 @@ Executive Order No. 12988, referred to in par. (9), is set out as a note under s
 
 #### Amendments
 
+2000—Par. (7). Pub. L. 106–568 inserted before semicolon at end “, by conducting management and leadership training of Native Americans, Alaska Natives, and others involved in tribal leadership, providing assistance and resources for policy analysis, and carrying out other appropriate activities.”
+
 1998—Par. (4). Pub. L. 105–156, §4(1), substituted “Environmental Conflict Resolution and Training” for “an Environmental Conflict Resolution”.
 
 Pars. (8), (9). Pub. L. 105–156, §4(2)–(4), added pars. (8) and (9).
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 5605 of this title.
+This section is referred to in sections 5605, 5608, 5609 of this title.
+
+<i><sup>1</sup></i><i> So in original. The period probably should not appear.</i>
 

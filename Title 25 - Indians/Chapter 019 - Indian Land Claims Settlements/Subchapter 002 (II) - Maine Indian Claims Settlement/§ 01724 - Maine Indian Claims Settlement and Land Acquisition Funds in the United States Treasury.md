@@ -2,7 +2,7 @@
 
 #### (a) Establishment of Maine Indian Claims Settlement Fund; amount
 
-There is hereby established in the United States Treasury a fund to be known as the Maine Indian Claims Settlement Fund in which $27,000,000 shall be deposited following the appropriation of sums authorized by section 1733 of this title.
+There is hereby established in the United States Treasury a fund to be known as theMaine Indian Claims Settlement Fund in which $27,000,000 shall be deposited following the appropriation of sums authorized by section 1733 of this title.
 
 #### (b) Apportionment of settlement fund; administration; investments; limitation on distributions; quarterly investment income payments; expenditures for aged members; cessation of trust responsibility following Federal payments
 
@@ -56,7 +56,7 @@ The Secretary may not expend on behalf of the Passamaquoddy Tribe, the Penobscot
 
 #### (g) Transfer limitations of section 177 of this title inapplicable to Indians in State of Maine; restraints on alienation as provided in section; transfers invalid ab initio except for: State and Federal condemnations, assignments, leases, sales, rights-of-way, and exchanges
 
-(1) The provisions of section 177 of this title shall not be applicable to (A) the Passamaquoddy Tribe, the Penobscot Nation, or the Houlton Band of Maliseet Indians or any other Indian, Indian nation, or tribe or band of Indians in the State of Maine, or (B) any land or natural resources owned by or held in trust for the Passamaquoddy Tribe, the Penobscot Nation, orthe Houlton Band of Maliseet Indians or any other Indian, Indian nation or tribe or band of Indians in the State of Maine. Except as provided in subsections (d)(4) and (g)(2) of this section, such land or natural resources shall not otherwise be subject to any restraint on alienation by virtue of being held in trust by the United States or the Secretary.
+(1) The provisions of section 177 of this title shall not be applicable to (A) the Passamaquoddy Tribe, the Penobscot Nation, or the Houlton Band of Maliseet Indians or any other Indian, Indian nation, or tribe or band of Indians in the State of Maine, or (B) any land or natural resources owned by or held in trust for the Passamaquoddy Tribe, the Penobscot Nation, or the Houlton Band of Maliseet Indians or any other Indian, Indian nation or tribe or band of Indians in the State of Maine. Except as provided in subsections (d)(4) and (g)(2) of this section, such land or natural resources shall not otherwise be subject to any restraint on alienation by virtue of being held in trust by the United States or the Secretary.
 
 (2) Except as provided in paragraph (3) of this subsection, any transfer of land or natural resources within Passamaquoddy Indian Territory or Penobscot Indian Territory, except (A) takings for public uses consistent with the Maine Implementing Act, (B) takings for public uses pursuant to the laws of the United States, or (C) transfers of individual Indian use assignments from one member of the Passamaquoddy Tribe or Penobscot Nation to another member of the same tribe or nation, shall be void ab initio and without any validity in law or equity.
 
@@ -122,7 +122,7 @@ Sec. 2. For purposes of this Act—
 
 Sec. 3. (a) There is hereby established in the United States Treasury a fund to be known as the Houlton Band Tax Fund in which shall be deposited $200,000 in accordance with the provisions of this Act.
 
-“(b)(1) Income accrued on the land acquisition fund established for the Houlton Band of Maliseet Indians pursuant to subsections (c) and (d)(1) of section 5 of the Maine Indian Claims Settlement Act of 1980 (25 U.S.C. 1724; 94 Stat. 1789) shall be transferred to the Houlton Band Tax Fund. No transfer shall be made under this subsection if such transfer would diminish such land acquisition fund to a balance of less than $900,000.
+“(b)(1) Income accrued on the land acquisition fund established for the Houlton Band of Maliseet Indians pursuant to subsections (c) and (d)(1) of section 5 of theMaine Indian Claims Settlement Act of 1980 (25 U.S.C. 1724; 94 Stat. 1789) shall be transferred to the Houlton Band Tax Fund. No transfer shall be made under this subsection if such transfer would diminish such land acquisition fund to a balance of less than $900,000.
 
 “(2) Whenever funds are transferred to the Houlton Band Tax Fund pursuant to paragraph (1), the Secretary shall publish notice of such transfer in the Federal Register. Such notice shall specify when the full amount of $200,000 has been transferred to the Houlton Band Tax Fund.
 

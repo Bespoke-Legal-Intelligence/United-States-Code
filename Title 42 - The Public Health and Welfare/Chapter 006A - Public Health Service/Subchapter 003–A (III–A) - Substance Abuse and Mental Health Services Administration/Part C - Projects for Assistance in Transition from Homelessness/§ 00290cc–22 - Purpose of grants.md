@@ -98,7 +98,11 @@ The Secretary may not make payments under section 290cc–21 of this title unles
 
 &emsp;&emsp;(C) to make cash payments to intended recipients of mental health or substance abuse services.
 
-(July 1, 1944, ch. 373, title V, §522, as added Pub. L. 100–77, title VI, §611(3), July 22, 1987, 101 Stat. 516; amended Pub. L. 101–645, title V, §511, Nov. 29, 1990, 104 Stat. 4726.)
+#### (i) Waiver for territories
+
+With respect to the United States Virgin Islands, Guam, American Samoa, Palau, the Marshall Islands, and the Commonwealth of the Northern Mariana Islands, the Secretary may waive the provisions of this part that the Secretary determines to be appropriate.
+
+(July 1, 1944, ch. 373, title V, §522, as added Pub. L. 100–77, title VI, §611(3), July 22, 1987, 101 Stat. 516; amended Pub. L. 101–645, title V, §511, Nov. 29, 1990, 104 Stat. 4726; Pub. L. 106–310, div. B, title XXXII, §3203(a), Oct. 17, 2000, 114 Stat. 1191.)
 
 #### References in Text
 
@@ -109,6 +113,8 @@ The Social Security Act, referred to in subsec. (b)(7)(E), is act Aug. 14, 1935,
 A prior section 522 of act July 1, 1944, was renumbered section 543 by section 611(2) of Pub. L. 100–77 and is classified to section 290dd–2 of this title.
 
 #### Amendments
+
+2000—Subsec. (i). Pub. L. 106–310 added subsec. (i).
 
 1990—Pub. L. 101–645 amended section generally, substituting provisions relating to purpose of grants for provisions relating to requirement of submission of application containing certain agreements.
 

@@ -8,7 +8,7 @@ The Secretary of Education is authorized to pay over semiannually, to the truste
 
 &emsp;(B) The portion of the appropriation received by each chief State school officer, in such books and other materials under subparagraph (A) of this paragraph which represents the number of blind pupils in private nonprofit institutions in such State in which blind pupils are educated shall be distributed among such institutions on the basis of the number of blind pupils in each such institution as compared to the total number of such pupils in all of the private nonprofit institutions in which blind pupils are educated in such State.
 
-&emsp;(C) All books and other materials furnished pursuant to sections 101, 102, and 104 of this title, and control and administration of their use, shall vest only in a public agency. Such books and materials made available pursuant to sections 101, 102 and 104 of this title for use of teachers and blind pupils in any State, Territory, or possession of the United States, the Commonwealth of Puerto Rico, and the District of Columbia in any school shall be limited to those books and materials which have been approved by an appropriate educational authority or agency of such State, Territory, possession, Commonwealth, or District, or any local educational authority thereof, for use, or are used, in a public elementary or secondary school therein.
+&emsp;(C) All books and other materials furnished pursuant to sections 101, 102, and 104 of this title, and control and administration of their use, shall vest only in a public agency. Such books and materials made available pursuant to sections 101, 102 and 104 of this title for use of teachers and blind pupils in any State, Territory, or possession of the United States, the Commonwealth of Puerto Rico, and the District of Columbia in any school shall be limited to those books and materials which have been approved by an appropriate educationalauthority or agency of such State, Territory, possession, Commonwealth, or District, or any local educational authority thereof, for use, or are used, in a public elementary or secondary school therein.
 
 #### (2) Buildings
 
@@ -30,7 +30,7 @@ The Secretary of Education is authorized to pay over semiannually, to the truste
 
 &emsp;Sixth. The superintendent of each public institution for the education of the blind (or his designee) and the chief State school officer (or his designee), of each State and possession of the United States, the Commonwealth of Puerto Rico, and the District of Columbia, shall each, ex officio, be a member of the Board of Trustees of the American Printing House for the Blind only for purposes of administering sections 101, 102 and 104 of this title.
 
-(Mar. 3, 1879, ch. 186, §3, 20 Stat. 468; June 25, 1906, ch. 3536, 34 Stat. 460; Aug. 2, 1956, ch. 882, §1,70 Stat. 938; Pub. L. 87–294, §§1–3, Sept. 22, 1961, 75 Stat. 627; Pub. L. 91–230, title VIII, §811(a), (b), Apr. 13, 1970, 84 Stat. 194, 195; Pub. L. 96–88, title III, §301(a)(2)(M), title V, §507, Oct. 17, 1979, 93 Stat. 678, 692.)
+(Mar. 3, 1879, ch. 186, §3, 20 Stat. 468; June 25, 1906, ch. 3536, 34 Stat. 460; Aug. 2, 1956, ch. 882, §1, 70 Stat. 938; Pub. L. 87–294, §§1–3, Sept. 22, 1961, 75 Stat. 627; Pub. L. 91–230, title VIII, §811(a), (b), Apr. 13, 1970, 84 Stat. 194, 195; Pub. L. 96–88, title III, §301(a)(2)(M), title V, §507, Oct. 17, 1979, 93 Stat. 678, 692.)
 
 #### Codification
 

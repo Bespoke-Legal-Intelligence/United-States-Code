@@ -24,3 +24,7 @@ The State approving agency, upon determining that an educational institution has
 
 1989—Pub. L. 101–237 substituted “Secretary” for “Administrator”.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in section 3689 of this title.
+

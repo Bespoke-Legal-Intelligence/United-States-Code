@@ -22,7 +22,7 @@ The Secretary may request the Attorney General of the United States to bring an 
 
 #### (d) Fees and expenses
 
-Witnesses subpoenaed under this section shall be paid the same fees and mileage that are paid witnesses in the district courts of the United States. Any court having jurisdiction of any proceeding instituted under this section by an enterprise may allow to any such party such reasonable expenses and attorneys fees as the court deems just and proper. Such expenses and fees shall be paid by the enterprise or from its assets.
+Witnesses subpoenaed under this section shall be paid the same fees and mileage that are paidwitnesses in the district courts of the United States. Any court having jurisdiction of any proceeding instituted under this section by an enterprise may allow to any such party such reasonable expenses and attorneys fees as the court deems just and proper. Such expenses and fees shall be paid by the enterprise or from its assets.
 
 (Pub. L. 102–550, title XIII, §1348, Oct. 28, 1992, 106 Stat. 3968.)
 

@@ -18,7 +18,7 @@ No person shall become ineligible under this section for production adjustment p
 
 #### References in Text
 
-The Immigration and Nationality Act, referred to in subsecs. (a) and (b), is act June 27, 1952, ch. 477, 66 Stat.163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
+The Immigration and Nationality Act, referred to in subsecs. (a) and (b), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 
 The Agricultural Market Transition Act, referred to in subsec. (a), is title I of Pub. L. 104–127, Apr. 4, 1996, 110 Stat. 896, which is classified principally to chapter 100 (§7201 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 7201 of this title and Tables.
 

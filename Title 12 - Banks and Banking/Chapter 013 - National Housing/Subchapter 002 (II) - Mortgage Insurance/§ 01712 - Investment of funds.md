@@ -14,10 +14,6 @@ Moneys in the Fund not needed for the current operations of the Department of Ho
 
 1938—Act Feb. 3, 1938, among other changes, inserted “or in bonds or other obligations guaranteed as to principal and interest by” in first sentence, and inserted third sentence.
 
-#### Cross References
-
-Mutual Mortgage Insurance Fund, see section 1708 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in title 26 section 895.

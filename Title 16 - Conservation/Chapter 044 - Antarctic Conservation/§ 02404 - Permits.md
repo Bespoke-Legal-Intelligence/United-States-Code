@@ -6,7 +6,7 @@ The Director may issue permits which authorize acts otherwise prohibited by sect
 
 #### (b) Applications for permits
 
-(1) Applications for permits under this section shall be made in such manner and form, andshall contain such information, as the Director shall by regulation prescribe.
+(1) Applications for permits under this section shall be made in such manner and form, and shall contain such information, as the Director shall by regulation prescribe.
 
 (2) The Director shall publish notice in the Federal Register of each application which is made for a permit under this section. The notice shall invite the submission by interested parties, within 30 days after the date of publication of the notice, of written data, comments, or views with respect to the application. Information received by the Director as a part of any application shall be available to the public as a matter of public record.
 
@@ -24,7 +24,7 @@ The Director may issue permits which authorize acts otherwise prohibited by sect
 
 (2) After receiving a copy of any application from the Director under paragraph (1) the appropriate Secretary shall promptly determine, and notify the Director, whether or not any action proposed in the application also requires a permit or other authorization under any law administered by the appropriate Secretary.
 
-(3) If the appropriate Secretary notifies the Director that any action proposed in the application requires a permit or other authorization under any law administered by the appropriate Secretary, the Director may not issue a permit under this section with respect to such action unless such other required permit or authorization is issued by the appropriate Secretary and a copy thereof is submitted to the Director. The issuance of any permit or other authorization by the appropriate Secretary for the carrying out of any action with respect to any native mammal, native bird, or native plant shall not be deemed to entitle the applicant concerned to the issuance by the Director of a permit under this section.
+(3) If the appropriate Secretary notifies the Director that any action proposed in the application requires a permit or other authorization under any law administered by the appropriate Secretary, the Director may not issue a permit under this section with respect to such action unless such other required permit or authorization is issued by the appropriate Secretary and a copy thereof is submitted to the Director. The issuance of any permit or other authorization by the appropriate Secretary for the carrying out of any action with respect to any native mammal, native bird, or native plant shall not be deemed to entitle the applicant concerned to theissuance by the Director of a permit under this section.
 
 #### (d) Issuance of permits
 

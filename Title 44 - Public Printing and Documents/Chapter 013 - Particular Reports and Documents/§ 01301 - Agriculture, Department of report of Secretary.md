@@ -18,11 +18,3 @@ Based on 44 U.S. Code, 1964 ed., §241 (Jan. 12, 1895, ch. 23, §73, 28 Stat. 61
 
 Funds available to Department of Agriculture not to be used to produce part 2 of annual report of Secretary (known as the Yearbook of Agriculture), see title I of Pub. L. 103–111, 107 Stat. 1048, set out as a note under section 2207 of Title 7, Agriculture.
 
-#### Cross References
-
-Annual and special reports of Secretary of Agriculture, see section 2207 of Title 7, Agriculture.
-
-Annual report on work of agricultural experiment stations and of college extension work; publication and distribution, see section 418 of Title 7.
-
-Soil area surveys: reports, congressional allotments, see section 1342 of this title.
-

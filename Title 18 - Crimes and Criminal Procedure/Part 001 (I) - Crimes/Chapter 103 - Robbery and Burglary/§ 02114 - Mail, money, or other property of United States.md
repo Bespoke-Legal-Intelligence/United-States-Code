@@ -38,12 +38,6 @@ Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of P
 
 Amendment by Pub. L. 98–473 effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such amendment, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of this title.
 
-#### Cross References
-
-Temporarily employed messengers as employees of the postal service or carriers with custody, see section 1008 of Title 39, Postal Service.
-
-Theft of mail matter, see section 1708 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1956 of this title; title 39 section 1008.

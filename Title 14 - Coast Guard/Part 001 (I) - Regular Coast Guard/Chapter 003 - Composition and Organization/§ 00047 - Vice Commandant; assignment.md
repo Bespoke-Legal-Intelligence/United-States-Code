@@ -18,7 +18,7 @@ The provisions regarding appointment of the Assistant Commandant and Engineer in
 
 “(b) A Vice Commandant, while so serving, who is retired for physical disability shall be placed on the retired list with the grade of vice admiral.
 
-“(c) An officer who is retired while serving as Vice Commandant, or who, after serving at least two and one-half years as Vice Commandant, is retired aftercompletion of that service while serving in a lower rank or grade, may, in the discretion of the President, be retired with the grade of vice admiral.
+“(c) An officer who is retired while serving as Vice Commandant, or who, after serving at least two and one-half years as Vice Commandant, is retired after completion of that service while serving in a lower rank or grade, may, in the discretion of the President, be retired with the grade of vice admiral.
 
 “(d) An officer who, after serving less than two and one-half years as Vice Commandant, is retired after completion of that service while serving in a lower rank or grade, shall be retired in his permanent grade.”
 
@@ -50,7 +50,7 @@ Amendment by Pub. L. 92–451 effective Oct. 2, 1972, except that continuation b
 
 #### Effective Date of Higher Grade and Increased Pay and Allowances
 
-The increased grade of vice admiral for the Vice Commandant, including the pay and allowances applicable to such grade, effective on the first day of the month following May 14, 1960, see section 2 of Pub. L. 86–474, set out as a note under section 44 of this title.
+The increased grade of vice admiral for the Vice Commandant, including the pay and allowances applicableto such grade, effective on the first day of the month following May 14, 1960, see section 2 of Pub. L. 86–474, set out as a note under section 44 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 

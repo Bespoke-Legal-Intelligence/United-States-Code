@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-It is the sense of the Congress that no State agency and no private person should engage in any standards-related activity that creates unnecessary obstacles to the foreign commerce of the United States.
+It is the sense of the Congress that no State agency and no private person should engage inany standards-related activity that creates unnecessary obstacles to the foreign commerce of the United States.
 
 #### (b) Presidential action
 

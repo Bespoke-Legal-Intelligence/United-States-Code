@@ -56,7 +56,7 @@ Subsec. (c). Pub. L. 104–53 substituted “Chief Administrative Officer, and t
 
 #### Transfer of Functions
 
-Certain functions of Officers of House of Representatives transferred to Director of Non-legislative and Financial Services by section 7 of House Resolution No. 423, One Hundred Second Congress, Apr. 9, 1992. Director of Non-legislative and Financial Services replaced by Chief Administrative Officer of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Certain functions of Recording Studio and Officers of House of Representatives transferred to Director of Non-legislative and Financial Services by section 7 of House Resolution No. 423, One Hundred Second Congress, Apr. 9, 1992. Director of Non-legislative and Financial Services replaced by Chief Administrative Officer of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
 
 #### Section Referred to in Other Sections
 

@@ -4,7 +4,7 @@
 
 (b) Proceedings in a congressional reference case shall be under rules and regulations prescribed for the purpose by the chief judge who is hereby authorized and directed to require the application of the pertinent rules of practice of the Court of Federal Claims insofar as feasible. Each hearing officer and each review panel shall have authority to do and perform any acts which may be necessary or proper for the efficient performance of their duties, including the power of subpoena and the power to administer oaths and affirmations. None of the rules, rulings, findings, or conclusions authorized by this section shall be subject to judicial review.
 
-(c) The hearing officer to whom a congressional reference case is assigned by the chief judge shall proceed in accordance with the applicable rules to determine the facts, including facts relating to delay or laches, facts bearing upon the question whether the bar of any statute of limitation should be removed, or facts claimed to excuse the claimant for not having resorted to any established legal remedy. He shall append to his findings of fact conclusionssufficient to inform Congress whether the demand is a legal or equitable claim or a gratuity, and the amount, if any, legally or equitable due from the United States to the claimant.
+(c) The hearing officer to whom a congressional reference case is assigned by the chief judge shall proceed in accordance with the applicable rules to determine the facts, including facts relating to delay or laches, facts bearing upon the question whether the bar of any statute of limitation should be removed, or facts claimed to excuse the claimant for not having resorted to any established legal remedy. He shall append to his findings of fact conclusions sufficient to inform Congress whether the demand is a legal or equitable claim or a gratuity, and the amount, if any, legally or equitable due from the United States to the claimant.
 
 (d) The findings and conclusions of the hearing officer shall be submitted by him, together with the record in the case, to the review panel for review by it pursuant to such rules as may be provided for the purpose, which shall include provision for submitted the report of the hearing officer to the parties for consideration, exception, and argument before the panel. The panel, by majority vote, shall adopt or modify the findings or the conclusions of the hearing officer.
 
@@ -14,7 +14,7 @@
 
 (g) The Court of Federal Claims is hereby authorized and directed, under such regulations as it may prescribe, to provide the facilities and services of the office of the clerk of the court for the filing, processing, hearing, and dispatch of congressional reference cases and to include within its annual appropriations the costs thereof and other costs of administration, including (but without limitation to the items herein listed) the salaries and traveling expenses of the judges serving as hearing officers and panel members, mailing and service of process, necessary physical facilities, equipment, and supplies, and personnel (including secretaries and law clerks).
 
-(June 25, 1948, ch. 646, 62 Stat. 977; Pub. L. 89–681, §2, Oct. 15, 1966, 80 Stat. 958; Pub. L. 97–164, title I, §139(h), Apr. 2, 1982, 96 Stat. 42; Pub. L. 102–572, title IX, §902(a), Oct. 29, 1992, 106 Stat. 4516.)
+(June 25, 1948, ch. 646, 62 Stat. 977; Pub. L. 89–681, §2, Oct. 15, 1966, 80 Stat. 958; Pub. L. 97–164, titleI, §139(h), Apr. 2, 1982, 96 Stat. 42; Pub. L. 102–572, title IX, §902(a), Oct. 29, 1992, 106 Stat. 4516.)
 
 #### Historical and Revision Notes
 
@@ -28,11 +28,11 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–572, §902(a)(1), substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–572, §902(a)(1), substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
 Subsecs. (b), (f), (g). Pub. L. 102–572, §902(a)(2), substituted “Court of Federal Claims” for “Claims Court”.
 
-1982—Subsec. (a). Pub. L. 97–164, §139(h)(1), substituted “chief judge” for “chief commissioner” wherever appearing, “United States Claims Court” for “Court of Claims”, “judge as hearing officer” for “trial commissioner”, “judges” for “commissioners”, and “presiding officer” for “presiding commissioner”.
+<b>1982</b>—Subsec. (a). Pub. L. 97–164, §139(h)(1), substituted “chief judge” for “chief commissioner” wherever appearing, “United States Claims Court” for “Court of Claims”, “judge as hearing officer” for “trial commissioner”, “judges” for “commissioners”, and “presiding officer” for “presiding commissioner”.
 
 Subsec. (b). Pub. L. 97–164, §139(h)(2)(A)–(C), substituted “chief judge” for “chief commissioner”, “Claims Court” for “Court of Claims”, and “hearing officer” for “trial commissioner”.
 
@@ -46,7 +46,7 @@ Subsec. (f). Pub. L. 97–164, §139(h)(2)(A), (C), substituted “Claims Court�
 
 Subsec. (g). Pub. L. 97–164, §139(h)(2)(C), (E), substituted “Claims Court” for “Court of Claims” and “judges serving as hearing officers” for “commissioners serving as trial commissioners”.
 
-1966—Pub. L. 89–681 substituted provisions for reference of bills to the chief commissioner of the Court of Claims pursuant to section 1492 of this title for provisions calling simply for reference to the Court of Claims, substituted provisions naming the trial commissioner to whom a reference case is assigned by the chief commissioner for provisions simply naming the Court of Claims as the agency by which findings and conclusions are made, and inserted provisions for the designation of a trial commissioner and reviewing body consisting of three other commissioners, the promulgation of rules and regulations for Congressional reference cases by the chief commissioner, the procedure to be followed, and the supplying of facilities and personnel for the dispatch of Congressional reference cases.
+<b>1966</b>—Pub. L. 89–681 substituted provisions for reference of bills to the chief commissioner of the Court of Claims pursuant to section 1492 of this title for provisions calling simply for reference to the Court of Claims, substituted provisions naming the trial commissioner to whom a reference case is assigned by the chief commissioner for provisions simply naming the Court of Claims as the agency by which findings and conclusions are made, and inserted provisions for the designation of a trial commissioner and reviewing body consisting of three other commissioners, the promulgation of rules and regulations for Congressional reference cases by the chief commissioner, the procedure to be followed, and the supplying of facilities and personnel for the dispatch of Congressional reference cases.
 
 #### Effective Date of 1992 Amendment
 

@@ -42,7 +42,3 @@ Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk”
 
 Subsec. (b). Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk”.
 
-#### Cross References
-
-Claims for overpayment of pay or allowances to employees of agencies generally, see section 5584 of Title 5, Government Organization and Employees.
-

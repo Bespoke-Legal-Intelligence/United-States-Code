@@ -10,15 +10,3 @@ Based on title 28, U.S.C., 1940 ed., §338 (Mar. 3, 1911, ch. 231, §230, 36 Sta
 
 Minor changes in phraseology were made.
 
-#### Rules of the Supreme Court
-
-Term, see rule 3, Appendix to this title.
-
-#### Cross References
-
-Courts always open, see section 452 of this title.
-
-Official station of Supreme Court Justices, see section 456 of this title.
-
-Seat of the Government, see chapter 3 of Title 4, Flag and Seal, Seat of Government, and the States.
-

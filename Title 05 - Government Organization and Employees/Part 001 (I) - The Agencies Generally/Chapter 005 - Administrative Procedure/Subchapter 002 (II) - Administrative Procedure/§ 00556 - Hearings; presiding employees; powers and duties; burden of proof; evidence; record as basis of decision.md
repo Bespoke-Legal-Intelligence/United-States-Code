@@ -88,7 +88,7 @@ Functions vested by this subchapter in hearing examiners employed by Department 
 
 #### Hearing Examiners Employed by Department of Justice
 
-Functions vested by this subchapter in hearing examiners employed by Department of Justice not included in functions of officers, agencies, and employees of that Department transferred to Attorney General by 1950 Reorg. Plan No. 2, §1, eff. May 24, 1950, 15 F.R. 3173, 64 Stat. 1261, set out in the Appendix to this title.
+Functions vested by this subchapter in hearing examiners employed by Department of Justice not included in functions of officers, agencies, and employees of thatDepartment transferred to Attorney General by 1950 Reorg. Plan No. 2, §1, eff. May 24, 1950, 15 F.R. 3173, 64 Stat. 1261, set out in the Appendix to this title.
 
 #### Hearing Examiners Employed by Department of Labor
 
@@ -98,15 +98,7 @@ Functions vested by this subchapter in hearing examiners employed by Department 
 
 Functions vested by this subchapter in hearing examiners employed by Department of the Treasury not included in functions of officers, agencies, and employees of that Department transferred to Secretary of the Treasury by 1950 Reorg. Plan. No. 26, §1, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to this title.
 
-#### Cross References
-
-Secretary of Health and Human Services, advisory committee's report, regulations covering pesticides and color additives, see sections 346a and 379e of Title 21, Food and Drugs.
-
-Secretary of Health and Human Services or his delegate, action in licensing manufacture of narcotic drugs, see section 822 et seq. of Title 21.
-
-Securities and Exchange Commission, delegation of functions by, see section 78d–1 of Title 15, Commerce and Trade.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 553, 554, 557, 558, 706, 3105 of this title; title 2 sections 501, 502, 1220, 1405; title 7 sections 86, 87e, 87f–1, 1359ii, 2023, 2707, 3804, 3805, 4604, 4906, 6802, 6804; title 8 sections 1182, 1375; title 15 sections 57a, 2605, 3412; title 16 sections 796, 839f, 1536, 2602, 3636; title 20 section 1234; title 21 sections 321, 342, 379e, 1041; title 22 sections 1037a, 4136; title 30 sections 185, 811, 1415; title 33 sections 907, 1319, 1321; title 39 sections 404, 3624, 3661; title 41 section 422; title 42 sections 300h–2, 1320a–7c, 2241, 7171, 7407, 7413, 7502, 7511a, 7524, 7607, 9612, 11504; title 46 sections 7702, 9303; title 47 section 155; title 49 sections 31136, 31317; title 50 App. sections 16, 2159, 2410, 2412.
+This section is referred to in sections 553, 554, 557, 558, 706, 3105 of this title; title 2 sections 501, 502, 1405; title 7 sections 86, 87e, 87f–1, 1359ii, 2023, 2707, 3804, 3805, 4604, 4906, 6802, 6804, 7804; title 8 sections 1182, 1375; title 15 sections 57a, 2605, 3412; title 16 sections 796, 839f, 1536, 2602, 3636; title 20 section 1234; title 21 sections 321, 342, 379e, 1041; title 22 sections 1037a, 4136; title 30 sections 185, 811, 1415; title 33 sections 907, 1319, 1321; title 39 sections 404, 3624, 3661; title 41 section 422; title 42 sections 300h–2, 1320a–7c, 2000e–16c, 2241, 7171, 7407, 7413, 7502, 7511a, 7524, 7607, 9612, 11504; title 46 sections 7702, 9303; title 47 section 155; title 49 sections 31136, 31317; title 50 App. sections 16, 2159, 2410, 2412.
 

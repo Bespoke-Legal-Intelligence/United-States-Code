@@ -18,17 +18,3 @@ No suit for the purpose of restraining the assessment or collection of any tax i
 
 “Puerto Rico” substituted in text for “Porto Rico” pursuant to act May 17, 1932, which is classified to section 731a of this title.
 
-#### Federal Rules of Civil Procedure
-
-Abolishment of writ of mandamus, see rule 81, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-Power of Supreme Court to prescribe rules of procedure and evidence for district courts, see section 2072 of Title 28, Judiciary and Judicial Procedure.
-
-#### Cross References
-
-Habeas corpus, see section 2241 et seq. of Title 28, Judiciary and Judicial Procedure.
-
-Suspension of privilege of writ of habeas corpus by Legislative Assembly, see Art. II, §13, of Commonwealth Constitution, set out under section 731d of this title.
-
-Writs, issuance of, see section 1651 of Title 28, Judiciary and Judicial Procedure.
-

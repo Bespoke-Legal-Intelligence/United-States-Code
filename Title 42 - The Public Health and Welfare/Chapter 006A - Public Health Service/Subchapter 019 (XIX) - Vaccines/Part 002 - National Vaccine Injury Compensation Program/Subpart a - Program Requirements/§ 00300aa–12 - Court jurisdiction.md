@@ -16,7 +16,7 @@ The United States Court of Federal Claims and the United States Court of Federal
 
 #### (c) United States Court of Federal Claims special masters
 
-(1) There is established within the United States Court of Federal Claims an office of special masters which shall consist of not more than 8 special masters. The judges of the United States Court of Federal Claims shall appoint the special masters, 1 of whom, by designation ofthe judges of the United States Court of Federal Claims, shall serve as chief special master. The appointment and reappointment of the special masters shall be by the concurrence of a majority of the judges of the court.
+(1) There is established within the United States Court of Federal Claims an office of special masters which shall consist of not more than 8 special masters. The judges of the United States Court of Federal Claims shall appoint the special masters, 1 of whom, by designation of the judges of the United States Court of Federal Claims, shall serve as chief special master. The appointment and reappointment of the special masters shall be by the concurrence of a majority of the judges of the court.
 
 (2) The chief special master and other special masters shall be subject to removal by the judges of the United States Court of Federal Claims for incompetency, misconduct, or neglect of duty or for physical or mental disability or for other good cause shown.
 
@@ -32,7 +32,7 @@ The United States Court of Federal Claims and the United States Court of Federal
 
 &emsp;(B) Appointing and fixing the salary and duties of such administrative staff as are necessary. Such staff shall be subject to removal for good cause by the chief special master.
 
-&emsp;(C) Managing and executing all aspects of budgetary and administrative affairs affecting the special masters and their staff, subject to the rules and regulations of the Judicial Conference of the United States. The Conference rules and regulations pertaining to United States magistrates shall be applied to the special masters.
+&emsp;(C) Managing and executing all aspects of budgetary and administrative affairs affecting the special masters and their staff, subject to the rules and regulations of the Judicial Conference of the United States. The Conference rules and regulations pertaining to United States magistrate judges shall be applied to the special masters.
 
 &emsp;(D) Coordinating with the United States Court of Federal Claims the use of services, equipment, personnel, information, and facilities of the United States Court of Federal Claims without reimbursement.
 
@@ -96,7 +96,7 @@ The United States Court of Federal Claims and the United States Court of Federal
 
 #### (e) Action by United States Court of Federal Claims
 
-(1) Upon issuance of the special master's decision, the parties shall have 30 days to file with the clerk of the United States Court of Federal Claims a motion to have the court review the decision. If such a motion is filed, the other party shall file a response with the clerk of the United States Court of Federal Claims no later than 30 days after the filing of such motion.
+(1) Upon issuance of the special master's decision, the parties shall have 30 days to file withthe clerk of the United States Court of Federal Claims a motion to have the court review the decision. If such a motion is filed, the other party shall file a response with the clerk of the United States Court of Federal Claims no later than 30 days after the filing of such motion.
 
 (2) Upon the filing of a motion under paragraph (1) with respect to a petition, the United States Court of Federal Claims shall have jurisdiction to undertake a review of the record of the proceedings and may thereafter—
 
@@ -124,7 +124,7 @@ If—
 
 > the special master or court shall notify the petitioner under such petition that the petitioner may withdraw the petition under section 300aa–21(b) of this title or the petitioner may choose under section 300aa–21(b) of this title to have the petition remain before the special master or court, as the case may be.
 
-(July 1, 1944, ch. 373, title XXI, §2112, as added Pub. L. 99–660, title III, §311(a), Nov. 14, 1986, 100 Stat. 3761; amended Pub. L. 100–203, title IV, §§4303(d)(2)(A), 4307(3), 4308(a), (b), Dec. 22, 1987,101 Stat. 1330–222, 1330–224; Pub. L. 100–360, title IV, §411(<i>o</i>)(2), (3)(A), July 1, 1988, 102 Stat. 808; Pub. L. 101–239, title VI, §6601(d)–(i), Dec. 19, 1989, 103 Stat. 2286–2290; Pub. L. 101–502, §5(b), Nov. 3, 1990, 104 Stat. 1286; Pub. L. 102–168, title II, §201(c), (d)(1), (h)(2), (3), Nov. 26, 1991, 105 Stat. 1103, 1104; Pub. L. 102–572, title IX, §902(b), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–66, title XIII, §13632(c), Aug. 10, 1993, 107 Stat. 646.)
+(July 1, 1944, ch. 373, title XXI, §2112, as added Pub. L. 99–660, title III, §311(a), Nov. 14, 1986, 100 Stat. 3761; amended Pub. L. 100–203, title IV, §§4303(d)(2)(A), 4307(3), 4308(a), (b), Dec. 22, 1987, 101 Stat. 1330–222, 1330–224; Pub. L. 100–360, title IV, §411(<i>o</i>)(2), (3)(A), July 1, 1988, 102 Stat. 808; Pub. L. 101–239, title VI, §6601(d)–(i), Dec. 19, 1989, 103 Stat. 2286–2290; Pub. L. 101–502, §5(b), Nov. 3, 1990, 104 Stat. 1286; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 102–168, title II, §201(c), (d)(1), (h)(2), (3), Nov. 26, 1991, 105 Stat. 1103, 1104; Pub. L. 102–572, title IX, §902(b), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–66, title XIII, §13632(c), Aug. 10, 1993, 107 Stat. 646.)
 
 #### Codification
 
@@ -156,7 +156,7 @@ Subsec. (g). Pub. L. 101–502, §5(b)(2), added subsec. (g).
 
 1989—Subsec. (a). Pub. L. 101–239, §6601(d), substituted “and the United States Claims Court special masters shall, in accordance with this section, have jurisdiction” for “shall have jurisdiction (1)”, “. The United States Claims Court may issue” for “, and (2) to issue”, and “deems” for “deem”.
 
-Subsec. (b)(1). Pub. L. 101–239, §6601(f), substituted “In all proceedings brought by the filing of a petition under section 300aa–11(b) of this title, the Secretary shall be named as the respondent, shall participate, and shall be represented in accordance with section 518(a) of title 28.” for “The Secretary shall be named as the respondent in all proceedings brought by the filing of a petition under section 300aa–11(b) of this title. Except as provided in paragraph (2), no other person may intervene in any such proceeding.”
+Subsec. (b)(1). Pub. L. 101–239, §6601(f), substituted “In all proceedings brought by the filing of a petition under section 300aa–11(b) of this title, the Secretary shall be named as the respondent, shall participate, and shall berepresented in accordance with section 518(a) of title 28.” for “The Secretary shall be named as the respondent in all proceedings brought by the filing of a petition under section 300aa–11(b) of this title. Except as provided in paragraph (2), no other person may intervene in any such proceeding.”
 
 Subsec. (c). Pub. L. 101–239, §6601(e)(2), added subsec. (c). Former subsec. (c) redesignated (d).
 
@@ -202,6 +202,10 @@ Subsec. (f). Pub. L. 100–203, §4303(d)(2)(A), struck out subsec. (f) which re
 
 Subsec. (g). Pub. L. 100–203, §4303(d)(2)(A), redesignated subsec. (g) as (e).
 
+#### Change of Name
+
+“United States magistrate judges” substituted for “United States magistrates” in subsec. (c)(6)(C) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+
 #### Effective Date of 1992 Amendment
 
 Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
@@ -221,6 +225,10 @@ For applicability of amendments by Pub. L. 101–239 to petitions filed after De
 #### Effective Date of 1988 Amendment
 
 Except as specifically provided in section 411 of Pub. L. 100–360, amendment by Pub. L. 100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (c)(6)(E) of this section relating to reporting annually to the Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 13 of House Document No. 103–7.
 
 #### Review by 3-Judge Panel
 

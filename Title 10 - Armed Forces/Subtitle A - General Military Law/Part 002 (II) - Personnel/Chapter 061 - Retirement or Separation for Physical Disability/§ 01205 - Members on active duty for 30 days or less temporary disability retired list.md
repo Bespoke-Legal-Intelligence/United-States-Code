@@ -30,12 +30,6 @@ The first 52 words are inserted for clarity and are based on the rule stated in 
 
 Amendment by Pub. L. 99–661 applicable with respect to persons who, after Nov. 14, 1986, incur or aggravate an injury, illness, or disease or die, see section 604(g) of Pub. L. 99–661, set out as a note under section 1074a of this title.
 
-#### Cross References
-
-Grade on being placed on temporary disability retired list, see section 1372 of this title.
-
-Temporary disability retired lists, see section 1376 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1372, 1376, 1401, 1402, 1402a, 1406, 1407 of this title.

@@ -14,13 +14,3 @@ The correct meaning and narrow application of title 28, U.S.C., 1940 ed., §390,
 
 Words “corporation or association” were inserted after “person”, thus embodying applicable definition of section 390a of title 28, U.S.C., 1940 ed. (See reviser's note under section 402 of this title.)
 
-#### Federal Rules of Criminal Procedure
-
-Criminal contempt procedure, see rule 42, Appendix to this title.
-
-#### Cross References
-
-Criminal contempts constituting criminal offenses, see section 402 of this title.
-
-Insurance business, application of section to, see sections 1011 to 1015 of Title 15, Commerce and Trade.
-

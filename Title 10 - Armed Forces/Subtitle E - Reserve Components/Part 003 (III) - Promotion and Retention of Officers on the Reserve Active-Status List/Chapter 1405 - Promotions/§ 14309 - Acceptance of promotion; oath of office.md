@@ -14,7 +14,3 @@ Oath.—An officer who has served continuously since taking the oath of office p
 
 Provisions similar to those in this section were contained in sections 3394 and 8394 of this title, prior to repeal by Pub. L. 103–337, §1629(a)(1), (c)(1).
 
-#### Cross References
-
-Regular Army officers, see section 626 of this title.
-

@@ -7,10 +7,7 @@
 | [74\.](%C2%A7%2000074%20-%20Congressional%20findings%20and%20declaration%20of%20policy.md) | Congressional findings and declaration of policy. |
 | [75\.](%C2%A7%2000075%20-%20Definitions.md) | Definitions. |
 | [75a.](%C2%A7%2000075a%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93354%2C%20title%20II%2C%20%C2%A7293%28a%29%282%29%2C%20Oct.%2013%2C%201994%2C%20108%20Stat.%203237.md) | Repealed. |
-| [75b.](%C2%A7%2000075b%20-%20Committee%20on%20Grain%20Quality%20and%20Grain%20Quality%20Coordinator.md) | Committee on Grain Quality and Grain Quality Coordinator. |
-| (a) | Establishment of Committee and Coordinator. |
-| (b) | Duties. |
-| (c) | Termination. |
+| [75b.](%C2%A7%2000075b%20-%20Omitted.md) | Omitted. |
 | [76\.](%C2%A7%2000076%20-%20Standards%20and%20procedures%3B%20establishment%2C%20amendment%2C%20and%20revocation.md) | Standards and procedures; establishment, amendment, and revocation. |
 | (a) | Authority of Secretary. |
 | (b) | Notice and opportunity for comment; standards regarding cleanliness of grain. |
@@ -91,7 +88,7 @@
 | (i) | Additional for fee services. |
 | (j) | Deposit of fees. |
 | (k) | Official courtesies. |
-| 87e–1. | Purchase or lease of inspection equipment. |
+| 87e–1. | Repealed. |
 | [87f.](%C2%A7%2000087f%20-%20Enforcement%20provisions.md) | Enforcement provisions. |
 | (a) | Subpena power. |
 | (b) | Disobedience of subpena. |
@@ -141,7 +138,7 @@ This chapter is referred to in section 420 of this title.
 - [&sect; 00074 - Congressional findings and declaration of policy](%C2%A7%2000074%20-%20Congressional%20findings%20and%20declaration%20of%20policy.md)
 - [&sect; 00075 - Definitions](%C2%A7%2000075%20-%20Definitions.md)
 - [&sect; 00075a - Repealed. Pub. L. 103&#8211;354, title II, &sect;293(a)(2), Oct. 13, 1994, 108 Stat. 3237](%C2%A7%2000075a%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93354%2C%20title%20II%2C%20%C2%A7293%28a%29%282%29%2C%20Oct.%2013%2C%201994%2C%20108%20Stat.%203237.md)
-- [&sect; 00075b - Committee on Grain Quality and Grain Quality Coordinator](%C2%A7%2000075b%20-%20Committee%20on%20Grain%20Quality%20and%20Grain%20Quality%20Coordinator.md)
+- [&sect; 00075b - Omitted](%C2%A7%2000075b%20-%20Omitted.md)
 - [&sect; 00076 - Standards and procedures; establishment, amendment, and revocation](%C2%A7%2000076%20-%20Standards%20and%20procedures%3B%20establishment%2C%20amendment%2C%20and%20revocation.md)
 - [&sect; 00077 - Official inspection and weighing requirements; waiver; supervision by representatives of Secretary](%C2%A7%2000077%20-%20Official%20inspection%20and%20weighing%20requirements%3B%20waiver%3B%20supervision%20by%20representatives%20of%20Secretary.md)
 - [&sect; 00078 - Use of official grade designations required; false or misleading grade designations for grain shipped out of the United States](%C2%A7%2000078%20-%20Use%20of%20official%20grade%20designations%20required%3B%20false%20or%20misleading%20grade%20designations%20for%20grain%20shipped%20out%20of%20the%20United%20States.md)
@@ -160,7 +157,7 @@ This chapter is referred to in section 420 of this title.
 - [&sect; 00087c - Criminal penalties](%C2%A7%2000087c%20-%20Criminal%20penalties.md)
 - [&sect; 00087d - Responsibility for acts of others](%C2%A7%2000087d%20-%20Responsibility%20for%20acts%20of%20others.md)
 - [&sect; 00087e - General authorities](%C2%A7%2000087e%20-%20General%20authorities.md)
-- [&sect; 00087e&#8211;1 - Purchase or lease of inspection equipment](%C2%A7%2000087e%E2%80%931%20-%20Purchase%20or%20lease%20of%20inspection%20equipment.md)
+- [&sect; 00087e&#8211;1 - Repealed. Pub. L. 106&#8211;472, title I, &sect;110(b), Nov. 9, 2000, 114 Stat. 2061](%C2%A7%2000087e%E2%80%931%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93472%2C%20title%20I%2C%20%C2%A7110%28b%29%2C%20Nov.%209%2C%202000%2C%20114%20Stat.%202061.md)
 - [&sect; 00087f - Enforcement provisions](%C2%A7%2000087f%20-%20Enforcement%20provisions.md)
 - [&sect; 00087f&#8211;1 - Registration requirements](%C2%A7%2000087f%E2%80%931%20-%20Registration%20requirements.md)
 - [&sect; 00087f&#8211;2 - Reporting requirements](%C2%A7%2000087f%E2%80%932%20-%20Reporting%20requirements.md)

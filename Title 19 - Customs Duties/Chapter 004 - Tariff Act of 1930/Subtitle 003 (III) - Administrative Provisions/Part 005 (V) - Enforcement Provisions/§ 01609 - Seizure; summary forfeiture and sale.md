@@ -46,10 +46,6 @@ For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 
 
 Amendment by act June 25, 1938, effective on thirtieth day following June 25, 1938, except as otherwise specifically provided, see section 37 of act June 25, 1938, set out as a note under section 1401 of this title.
 
-#### Cross References
-
-Destruction of forfeited vessels, see section 1705 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1600 of this title.

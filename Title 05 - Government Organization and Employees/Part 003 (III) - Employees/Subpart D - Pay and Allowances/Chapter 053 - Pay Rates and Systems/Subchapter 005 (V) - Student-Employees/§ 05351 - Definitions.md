@@ -40,14 +40,6 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 
-#### Cross References
-
-Premium pay employee, exclusion of student-employee, see section 5541 of this title.
-
-Retirement, creditable service of student-employees as defined by this section, see section 8332 of this title.
-
-Student employees covered by program of compensation for work injuries suffered by government employees, see section 8144 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 5541, 8144, 8331, 8332, 8501 of this title; title 26 section 3121; title 42 section 410.

@@ -12,7 +12,3 @@ The Surplus Property Act of 1944 and “that Act”, referred to in text, are ac
 
 Section is from act July 1, 1946, popularly known as the Legislative Branch Appropriation Act, 1947.
 
-#### Cross References
-
-Federal Property and Administrative Services Act of 1949, exemption of Architect of Capitol from provisions of, see section 474 of this title.
-

@@ -1,5 +1,9 @@
 subpart i—block grants for community mental health services
 
+#### Subpart Referred to in Other Sections
+
+This subpart is referred to in section 300x–59 of this title.
+
 
 ---
 

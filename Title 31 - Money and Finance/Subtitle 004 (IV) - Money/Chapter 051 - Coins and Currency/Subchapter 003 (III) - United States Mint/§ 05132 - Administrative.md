@@ -1,12 +1,12 @@
 ### §5132. Administrative
 
-(a)(1) Except as provided in this chapter, the Secretary of the Treasury shall deposit in the Treasury as miscellaneous receipts amounts the Secretary receives from the operations of the United States Mint. Expenditures made from appropriated funds which are subsequently determined to be properly chargeable to the Numismatic Public Enterprise Fund established by section 5134 shall be reimbursed by such Fund to the appropriation. The Secretary shall annuallysell to the public, directly and by mail, sets of uncirculated and proof coins minted under paragraphs (1) through (6) of section 5112(a) of this title, and shall solicit such sales through the use of the customer list of the United States Mint. Except with respect to amounts deposited in the Numismatic Public Enterprise Fund in accordance with section 5134, the Secretary may not use amounts the Secretary receives from profits on minting coins or from charges on gold or silver bullion under section 5122 to pay officers and employees.
+(a)(1) Except as provided in this chapter, the Secretary of the Treasury shall deposit in the Treasury as miscellaneous receipts amounts the Secretary receives from the operations of the United States Mint. Expenditures made from appropriated funds which are subsequently determined to be properly chargeable to the Numismatic Public Enterprise Fund established by section 5134 shall be reimbursed by such Fund to the appropriation. The Secretary shall annually sell to the public, directly and by mail, sets of uncirculated and proof coins minted under paragraphs (1) through (6) of section 5112(a) of this title, and shall solicit such sales through the use of the customer list of the United States Mint. Except with respect to amounts deposited in the Numismatic Public Enterprise Fund in accordance with section 5134, the Secretary may not use amounts the Secretary receives from profits on minting coins or from charges on gold or silver bullion under section 5122 to pay officers and employees.
 
 (2)(A) In addition to the coins described in paragraph (1), the Secretary shall sell annually to the public directly and by mail, sets of proof coins minted under paragraphs (1) through (6) of section 5112(a).
 
 (B) Notwithstanding any other provision of law, for purposes of this paragraph—
 
-&emsp;(i) the coins described in paragraphs (1) through (4) of section 5112(a) shall be made of an alloy of 90 percent silver and 10 percent copper; and
+&emsp;(i) the coins described in paragraphs (2) through (4) of section 5112(a) shall be made of an alloy of 90 percent silver and 10 percent copper; and
 
 &emsp;(ii) all coins minted under this paragraph shall have a mint mark indicating the place of manufacture.
 
@@ -24,7 +24,7 @@
 
 (c) The Secretary shall make an annual report at the end of each fiscal year on the operation of the United States Mint.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 988; Pub. L. 97–452, §1(21), Jan. 12, 1983, 96 Stat. 2477; Pub. L. 98–151, §123, Nov. 14, 1983, 97 Stat. 979; Pub. L. 98–216, §1(7), Feb. 14, 1984, 98 Stat. 4; Pub. L. 99–61, title II, §204, July 9, 1985, 99 Stat. 116; Pub. L. 99–185, §2(e), Dec. 17, 1985, 99 Stat. 1178; Pub. L. 100–274, §§1, 2(c)(3), Mar. 31, 1988, 102 Stat. 48; Pub. L. 101–585, §2, Nov. 15, 1990, 104 Stat. 2874; Pub. L. 102–390, title II, §§211, 221(c)(1), 225(b)(3), (4), Oct. 6, 1992, 106 Stat. 1624, 1628, 1629.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 988; Pub. L. 97–452, §1(21), Jan. 12, 1983, 96 Stat. 2477; Pub. L. 98–151, §123, Nov. 14, 1983, 97 Stat. 979; Pub. L. 98–216, §1(7), Feb. 14, 1984, 98 Stat. 4; Pub. L.99–61, title II, §204, July 9, 1985, 99 Stat. 116; Pub. L. 99–185, §2(e), Dec. 17, 1985, 99 Stat. 1178; Pub. L. 100–274, §§1, 2(c)(3), Mar. 31, 1988, 102 Stat. 48; Pub. L. 101–585, §2, Nov. 15, 1990, 104 Stat. 2874; Pub. L. 102–390, title II, §§211, 221(c)(1), 225(b)(3), (4), Oct. 6, 1992, 106 Stat. 1624, 1628, 1629; Pub. L. 106–445, §2(a), Nov. 6, 2000, 114 Stat. 1931.)
 
 Historical and Revision Notes<br>1982
 
@@ -97,6 +97,8 @@ This is necessary because the language was restated by section 382(h)(1) of the 
 The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (a)(2)(D), is act June 7, 1939, ch. 190, as revised generally by Pub. L. 96–41, §2, July 30, 1979, 93 Stat. 319, which is classified generally to subchapter III (§98 et seq.) of chapter 5 of Title 50, War and National Defense. For complete classification of this Act to the Code, see section 98 of Title 50 and Tables.
 
 #### Amendments
+
+2000—Subsec. (a)(2)(B)(i). Pub. L. 106–445 substituted “paragraphs (2)” for “paragraphs (1)”.
 
 1992—Subsec. (a)(1). Pub. L. 102–390, §225(b)(3), substituted “United States Mint” for “Bureau of the Mint” in two places.
 

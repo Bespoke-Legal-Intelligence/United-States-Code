@@ -6,7 +6,7 @@ Except as otherwise provided by law, any party may appeal to the Supreme Court f
 
 #### Historical and Revision Notes
 
-Based on title 28, U.S.C., 1940 ed., §§47, 47a, 380 and 380a (Mar. 3, 1911, ch. 231, §§210, 266, 36 Stat. 1150, 1162; Mar. 4, 1913, ch. 160, 37 Stat. 1013; Oct. 22, 1913, ch. 32, 38, Stat. 220; Feb. 13, 1925, ch. 229, §1, 43 Stat. 938; Aug. 24, 1937, ch. 754, §3, 50 Stat. 752).
+Based on title 28, U.S.C., 1940 ed., §§47, 47a, 380 and 380a (Mar. 3, 1911, ch. 231, §§210, 266, 36 Stat. 1150, 1162;Mar. 4, 1913, ch. 160, 37 Stat. 1013; Oct. 22, 1913, ch. 32, 38, Stat. 220; Feb. 13, 1925, ch. 229, §1, 43 Stat. 938; Aug. 24, 1937, ch. 754, §3, 50 Stat. 752).
 
 This section consolidates the provisions of sections 47, 47a, 380, and 380a of title 28, U.S.C., 1940 ed., relating to direct appeals from decisions of three-judge courts involving orders of the Interstate Commerce Commission or holding State or Federal laws repugnant to the Constitution of the United States.
 
@@ -23,32 +23,6 @@ The final proviso of section 502 of title 33, U.S.C., 1940 ed., Navigation and N
 Section 28 of title 15, U.S.C., 1940 ed., Commerce and Trade, and section 44 of title 49, U.S.C., 1940 ed., Transportation, are identical and provide for convening of a three-judge court to hear and determine civil cases arising under the Sherman anti-trust law and the Interstate Commerce Act, respectively, wherein the United States is plaintiff and when the Attorney General deems such cases of general public importance.
 
 Section 401(d) of title 47, U.S.C., 1940 ed., Telegraphs, Telephones, and Radiotelegraphs, made the provisions of sections 28 and 29 of title 15, U.S.C., 1940 ed., Commerce and Trade, sections 44 and 45 of title 49, U.S.C., 1940 ed., Transportation, and section 345(1) of title 28, U.S.C., 1940 ed., relating to three-judge courts and direct appeals, applicable to orders of the Federal Communications Commission enforcing the Communications Act of 1934.
-
-#### Rules of the Supreme Court
-
-Procedure on appeal, see Appendix to this title.
-
-Stays, see rule 23.
-
-#### Federal Rules of Civil Procedure
-
-Stay of proceedings to enforce judgment, see rule 62, Appendix to this title.
-
-#### Cross References
-
-Direct appeals from three-judge courts—
-
-&emsp;&emsp;Antitrust laws, see section 29 of Title 15, Commerce and Trade.
-
-&emsp;&emsp;Communications Act of 1934, see section 402 of Title 47, Telegraphs, Telephones, and Radiographs.
-
-&emsp;&emsp;Packers and Stockyards Act, see section 217 of Title 7, Agriculture.
-
-Quorum of Supreme Court justices absent, see section 2109 of this title.
-
-Time for appeal or certiorari, see section 2101 of this title.
-
-Writs, see section 1651 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -46,7 +46,7 @@ Whenever the Secretary determines that any amount of a payment made to a State u
 
 #### (2) Use of grant funds
 
-&emsp;Each local educational agency receiving a grant under paragraph (1) shall use such grant funds to carry out the activities described in section 7547 of this title.
+&emsp;Each local educational agency receiving a grant under paragraph (1) shall use such grantfunds to carry out the activities described in section 7547 of this title.
 
 #### (3) Information
 

@@ -27,10 +27,15 @@
 | [2222\.](%C2%A7%2002222%20-%20Biennial%20financial%20management%20improvement%20plan.md) | Biennial financial management improvement plan. |
 | [2223\.](%C2%A7%2002223%20-%20Information%20technology%20additional%20responsibilities%20of%20Chief%20Information%20Officers.md) | Information technology: additional responsibilities of Chief Information Officers. |
 | [2224\.](%C2%A7%2002224%20-%20Defense%20Information%20Assurance%20Program.md) | Defense Information Assurance Program. |
+| [2225\.](%C2%A7%2002225%20-%20Information%20technology%20purchases%20tracking%20and%20management.md) | Information technology purchases: tracking and management. |
+| [2226\.](%C2%A7%2002226%20-%20Contracted%20property%20and%20services%20prompt%20payment%20of%20vouchers.md) | Contracted property and services: prompt payment of vouchers. |
+| [2227\.](%C2%A7%2002227%20-%20Electronic%20submission%20and%20processing%20of%20claims%20for%20contract%20payments.md) | Electronic submission and processing of claims for contract payments. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2000—Pub. L. 106–398, §1 \[\[div. A\], title VIII, §812(a)(2), title X, §§1006(a)(2), 1008(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–214, 1654A–247, 1654A–250, added items 2225, 2226, and 2227.
 
 1999—Pub. L. 106–65, div. A, title X, §1043(b), Oct. 5, 1999, 113 Stat. 761, added item 2224.
 
@@ -98,3 +103,6 @@ Pub. L. 97–214, §10(a)(1), July 12, 1982, 96 Stat. 174, struck out item 2212 
 - [&sect; 02222 - Biennial financial management improvement plan](%C2%A7%2002222%20-%20Biennial%20financial%20management%20improvement%20plan.md)
 - [&sect; 02223 - Information technology additional responsibilities of Chief Information Officers](%C2%A7%2002223%20-%20Information%20technology%20additional%20responsibilities%20of%20Chief%20Information%20Officers.md)
 - [&sect; 02224 - Defense Information Assurance Program](%C2%A7%2002224%20-%20Defense%20Information%20Assurance%20Program.md)
+- [&sect; 02225 - Information technology purchases tracking and management](%C2%A7%2002225%20-%20Information%20technology%20purchases%20tracking%20and%20management.md)
+- [&sect; 02226 - Contracted property and services prompt payment of vouchers](%C2%A7%2002226%20-%20Contracted%20property%20and%20services%20prompt%20payment%20of%20vouchers.md)
+- [&sect; 02227 - Electronic submission and processing of claims for contract payments](%C2%A7%2002227%20-%20Electronic%20submission%20and%20processing%20of%20claims%20for%20contract%20payments.md)

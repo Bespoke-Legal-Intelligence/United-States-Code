@@ -18,3 +18,4 @@ This subchapter is referred to in sections 633, 636 of this title.
 - [&sect; 00697d - Accredited Lenders Program](%C2%A7%2000697d%20-%20Accredited%20Lenders%20Program.md)
 - [&sect; 00697e - Premier Certified Lenders Program](%C2%A7%2000697e%20-%20Premier%20Certified%20Lenders%20Program.md)
 - [&sect; 00697f - Prepayment of development company debentures](%C2%A7%2000697f%20-%20Prepayment%20of%20development%20company%20debentures.md)
+- [&sect; 00697g - Foreclosure and liquidation of loans](%C2%A7%2000697g%20-%20Foreclosure%20and%20liquidation%20of%20loans.md)

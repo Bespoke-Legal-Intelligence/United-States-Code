@@ -2,7 +2,7 @@
 
 #### (a) Merger into Capital Fund
 
-Except as otherwise provided in the Quality Housing and Work Responsibility Act of 1998, any assistance made available for public housing under section 1437<i>l</i> of this title before October 1, 1999, shall be merged into the Capital Fund established under subsection (d) of this section.
+Except as otherwise provided in the Quality Housing and Work Responsibility Act of 1998,any assistance made available for public housing under section 1437<i>l</i> of this title before October 1, 1999, shall be merged into the Capital Fund established under subsection (d) of this section.
 
 #### (b) Merger into Operating Fund
 
@@ -44,7 +44,7 @@ Except as otherwise provided in the Quality Housing and Work Responsibility Act 
 
 &emsp;&emsp;(D) planned code compliance;
 
-&emsp;&emsp;(E) management improvements;
+&emsp;&emsp;(E) management improvements, including the establishment and initial operation of computer centers in and around public housing through a Neighborhood Networks initiative, for the purpose of enhancing the self-sufficiency, employability, and economic self-reliance of public housing residents by providing them with onsite computer access and training resources;
 
 &emsp;&emsp;(F) demolition and replacement;
 
@@ -108,9 +108,11 @@ Except as otherwise provided in the Quality Housing and Work Responsibility Act 
 
 &emsp;&emsp;(H) the costs of administering a public housing work program under section 1437j of this title, including the costs of any related insurance needs;
 
-&emsp;&emsp;(I) the costs of repaying, together with rent contributions, debt incurred to finance the rehabilitation and development of public housing units, which shall be subject to suchreasonable requirements as the Secretary may establish; and
+&emsp;&emsp;(I) the costs of repaying, together with rent contributions, debt incurred to finance the rehabilitation and development of public housing units, which shall be subject to such reasonable requirements as the Secretary may establish;
 
-&emsp;&emsp;(J) the costs associated with the operation and management of mixed finance projects, to the extent appropriate.
+&emsp;&emsp;(J) the costs associated with the operation and management of mixed finance projects, to the extent appropriate; and
+
+&emsp;&emsp;(K) the costs of operating computer centers in public housing through a Neighborhood Networks initiative described in subsection (d)(1)(E) of this section, and of activities related to that initiative.
 
 #### (2) Formula
 
@@ -138,7 +140,7 @@ Except as otherwise provided in the Quality Housing and Work Responsibility Act 
 
 #### (C) Treatment of savings
 
-&emsp;&emsp;The treatment of utility and waste management costs under the formula shall provide that a public housing agency shall receive the full financial benefit from any reduction in the cost of utilities or waste management resulting from any contract with a third party to undertake energy conservation improvements in one or more of its public housing projects.
+&emsp;&emsp;The treatment of utility and waste management costs under the formula shall provide that a public housing agency shall receive the full financial benefit from any reduction in the cost of utilities or waste management resulting from any contract with athird party to undertake energy conservation improvements in one or more of its public housing projects.
 
 #### (3) Condition on use
 
@@ -194,11 +196,13 @@ To the extent amounts are provided in advance in appropriations Acts, the Secret
 
 &emsp;(5) contract expertise;
 
-&emsp;(6) training and technical assistance to assist in the oversight and management of public housing or tenant-based assistance; and
+&emsp;(6) training and technical assistance to assist in the oversight and management of public housing or tenant-based assistance;
 
-&emsp;(7) clearinghouse services in furtherance of the goals and activities of this subsection.
+&emsp;(7) clearinghouse services in furtherance of the goals and activities of this subsection; and
 
-> As used in this subsection, the terms “training” and “technical assistance” shall include training or technical assistance and the cost of necessary travel for participants in such training or technical assistance, by or to officials and employees of the Department and of public housing agencies, and to residents and to other eligible grantees.
+&emsp;(8) assistance in connection with the establishment and operation of computer centers in public housing through a Neighborhood Networks initiative described in subsection (d)(1)(E) of this section.
+
+> As used in this subsection, the terms “training” and “technical assistance” shall include training or technical assistance and the cost of necessary travel for participants in such training or technical assistance, by or to officials and employees of the Department and of public housingagencies, and to residents and to other eligible grantees.
 
 #### (i) Eligibility of units acquired from proceeds of sales under demolition or disposition plan
 
@@ -248,7 +252,7 @@ If a public housing agency uses proceeds from the sale of units under a homeowne
 
 #### (A) Prohibition of new assistance
 
-&emsp;&emsp;A public housing agency shall not be awarded assistance under this section for any month during any fiscal year in whichthe public housing agency has funds unobligated in violation of paragraph (1) or (2).
+&emsp;&emsp;A public housing agency shall not be awarded assistance under this section for any month during any fiscal year in which the public housing agency has funds unobligated in violation of paragraph (1) or (2).
 
 #### (B) Withholding of assistance
 
@@ -286,7 +290,7 @@ If a public housing agency uses proceeds from the sale of units under a homeowne
 
 #### (1) Set-asides
 
-&emsp;In each fiscal year after fiscal year 1999, the Secretary shall set aside, for use in accordance with this subsection, not more than 2 percent of the total amount made available to carry out this section for such fiscal year. In addition to amounts set aside under the preceding sentence, in each fiscal year the Secretary may set from the total amount made available to carry out this section for such fiscal year not more than $20,000,000 for the Operation Safe Home program administered by the Office of the Inspector General of the Department of Housing and Urban Development, for law enforcement efforts to combat violent crime on or near the premises of public and federally assisted housing.
+&emsp;In each fiscal year after fiscal year 1999, the Secretary shall set aside, for use in accordancewith this subsection, not more than 2 percent of the total amount made available to carry out this section for such fiscal year. In addition to amounts set aside under the preceding sentence, in each fiscal year the Secretary may set from the total amount made available to carry out this section for such fiscal year not more than $20,000,000 for the Operation Safe Home program administered by the Office of the Inspector General of the Department of Housing and Urban Development, for law enforcement efforts to combat violent crime on or near the premises of public and federally assisted housing.
 
 #### (2) Use of funds
 
@@ -324,7 +328,7 @@ A public housing agency that receives income from nonrental sources (as determin
 
 #### (2) Exemptions
 
-&emsp;In the case of any public housing unit assisted pursuant to the authority under paragraph (1), the Secretary may, by regulation, reduce the period under subsection (d)(3) or (e)(3) of this section, as applicable, duringwhich such units must be operated under requirements applicable to public housing. In cases in which there is commitment of operating assistance but no commitment of capital assistance, the Secretary may make section 8 \[42 U.S.C. 1437f\] requirements applicable, as appropriate, by regulation.
+&emsp;In the case of any public housing unit assisted pursuant to the authority under paragraph (1), the Secretary may, by regulation, reduce the period under subsection (d)(3) or (e)(3) of this section, as applicable, during which such units must be operated under requirements applicable to public housing. In cases in which there is commitment of operating assistance but no commitment of capital assistance, the Secretary may make section 8 \[42 U.S.C. 1437f\] requirements applicable, as appropriate, by regulation.
 
 #### (n) Treatment of public housing
 
@@ -358,7 +362,7 @@ A public housing agency that receives income from nonrental sources (as determin
 
 &emsp;This subsection shall apply to fiscal year 1999 and each fiscal year thereafter.
 
-(Sept. 1, 1937, ch. 896, title I, §9, as added Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 666; amended Pub. L. 94–375, §2(c), Aug. 3, 1976, 90 Stat. 1068; Pub. L. 95–24, title I, §101(b), Apr. 30, 1977, 91 Stat. 55; Pub. L. 95–128, title II, §201(f), Oct. 12, 1977, 91 Stat. 1129; Pub. L. 95–557, title II, §206(g), Oct. 31, 1978, 92 Stat. 2093; Pub. L. 96–153, title II, §§201(c), 207, 211(a), Dec. 21, 1979, 93 Stat. 1106, 1109, 1110; Pub. L. 96–399, title II, §201(b), (d), Oct. 8, 1980, 94 Stat. 1625; Pub. L. 97–35, title III, §§321(d), 322(c), Aug. 13, 1981, 95 Stat. 399, 402; Pub. L. 98–181, title II, §212, Nov. 30, 1983, 97 Stat. 1184; Pub. L. 99–272, title III, §3003, Apr. 7, 1986, 100 Stat. 102; Pub. L. 100–242, title I, §§112(b)(4), 118, Feb. 5, 1988, 101 Stat. 1824, 1828; renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681; Pub. L. 101–625, title V, §§507, 572(2), title VIII, §802(p), Nov. 28, 1990, 104 Stat. 4186, 4236, 4317; Pub. L. 102–550, title I, §114, title VI, §673, Oct. 28, 1992, 106 Stat. 3691, 3827; Pub. L. 103–233, title III, §304, Apr. 11, 1994, 108 Stat. 370; Pub. L. 104–134, title I, §101(e) \[title II, §218\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–290; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–330, title V, §501(b)(5), Oct. 26, 1996, 110 Stat. 4042; Pub. L. 105–276, title II, §210, title V, §519(a), Oct. 21, 1998, 112 Stat. 2485, 2551.)
+(Sept. 1, 1937, ch. 896, title I, §9, as added Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 666; amended Pub. L. 94–375, §2(c), Aug. 3, 1976, 90 Stat. 1068; Pub. L. 95–24, title I, §101(b), Apr. 30, 1977, 91 Stat. 55; Pub. L. 95–128, title II, §201(f), Oct. 12, 1977, 91 Stat. 1129; Pub. L. 95–557, title II, §206(g), Oct. 31, 1978, 92 Stat. 2093; Pub. L. 96–153, title II, §§201(c), 207, 211(a), Dec. 21, 1979, 93 Stat. 1106, 1109, 1110; Pub. L. 96–399, title II, §201(b), (d), Oct. 8, 1980, 94 Stat. 1625; Pub. L. 97–35, title III, §§321(d), 322(c), Aug. 13, 1981, 95 Stat. 399, 402; Pub. L. 98–181, title II, §212, Nov. 30, 1983, 97 Stat. 1184; Pub. L. 99–272, title III, §3003, Apr. 7, 1986, 100 Stat. 102; Pub. L. 100–242, title I, §§112(b)(4), 118, Feb. 5, 1988, 101 Stat. 1824, 1828; renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681; Pub. L. 101–625, title V, §§507, 572(2), title VIII, §802(p), Nov. 28, 1990, 104 Stat. 4186, 4236, 4317; Pub. L. 102–550, title I, §114, title VI, §673, Oct. 28, 1992, 106 Stat. 3691, 3827; Pub. L. 103–233, title III, §304, Apr. 11, 1994, 108 Stat. 370; Pub. L. 104–134, title I, §101(e) \[title II, §218\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–290; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–330, title V, §501(b)(5), Oct. 26, 1996, 110 Stat. 4042; Pub. L. 105–276, title II, §210, title V, §519(a), Oct. 21, 1998, 112 Stat. 2485, 2551; Pub. L. 106–377, §1(a)(1) \[title II, §214(a)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–27.)
 
 #### References in Text
 
@@ -372,9 +376,15 @@ October 21, 1998, referred to in subsec. (n)(1)(A)(i), was in the original “th
 
 #### Prior Provisions
 
-A prior section 9 of act Sept. 1, 1937, ch. 896, 50 Stat. 891, as amended, authorized loans for low-rent housingand slum clearance projects and was classified to section 1409 of this title, prior to the general revision of this chapter by Pub. L. 93–383. Similar provisions are contained in section 1437b of this title.
+A prior section 9 of act Sept. 1, 1937, ch. 896, 50 Stat. 891, as amended, authorized loans for low-rent housing and slum clearance projects and was classified to section 1409 of this title, prior to the general revision of this chapter by Pub. L. 93–383. Similar provisions are contained in section 1437b of this title.
 
 #### Amendments
+
+2000—Subsec. (d)(1)(E). Pub. L. 106–377, §1(a)(1) \[title II, §214(a)(1)\], inserted before semicolon “, including the establishment and initial operation of computer centers in and around public housing through a Neighborhood Networks initiative, for the purpose of enhancing the self-sufficiency, employability, and economic self-reliance of public housing residents by providing them with onsite computer access and training resources”.
+
+Subsec. (e)(1)(K). Pub. L. 106–377, §1(a)(1) \[title II, §214(a)(2)\], added subpar. (K).
+
+Subsec. (h)(8). Pub. L. 106–377, §1(a)(1) \[title II, §214(a)(3)\], added par. (8).
 
 1998—Pub. L. 105–276, §519(a), amended section generally, substituting present provisions for provisions which had: in subsec. (a), authorized annual contributions for operation of low-income housing, and provided for determination of the amounts and use of those contributions, contract authorization, standards for payments, necessity of contribution contracts, performance funding system, and audits; in subsec. (b), set forth limitation on amount of aggregate rentals paid by families residing in dwelling units receiving annual contributions; in subsec. (c), authorized appropriations for fiscal years 1993 and 1994; in subsec. (d), required distribution of remaining appropriated funds to projects incurring excessive costs; and in subsec. (e), set forth time of payment of assistance to public housing agency.
 
@@ -388,7 +398,7 @@ Subsec. (a)(3)(B)(i). Pub. L. 104–134 struck out “for a period not to exceed
 
 1992—Subsec. (a)(1)(B). Pub. L. 102–550, §673, designated existing provisions as cl. (i), redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, substituted “this clause” for “this subparagraph”, inserted reference to section 8011 of this title and a period after “section 8013 of this title”, and added cl. (ii).
 
-Subsec. (a)(3)(A). Pub. L. 102–550, §114(b), inserted at end “Notwithstanding sections 583(a) and 585(a) of title 5 (as added by section 3(a) of the Negotiated Rulemaking Act of 1990), any proposed regulation providing for amendment, alteration, adjustment, or other change to the performance funding system relating to vacant public housing units shall be issued pursuant to a negotiated rulemaking procedure under subchapter IV of chapter 5 of such title (as added by section 3(a) of the Negotiated Rulemaking Act of 1990), and the Secretary shall establish a negotiated rulemaking committee for development of any such proposed regulations.”
+Subsec. (a)(3)(A). Pub. L. 102–550, §114(b), inserted at end “Notwithstanding sections 583(a) and 585(a) of title5 (as added by section 3(a) of the Negotiated Rulemaking Act of 1990), any proposed regulation providing for amendment, alteration, adjustment, or other change to the performance funding system relating to vacant public housing units shall be issued pursuant to a negotiated rulemaking procedure under subchapter IV of chapter 5 of such title (as added by section 3(a) of the Negotiated Rulemaking Act of 1990), and the Secretary shall establish a negotiated rulemaking committee for development of any such proposed regulations.”
 
 Subsec. (a)(3)(B)(i). Pub. L. 102–550, §114(c), inserted before semicolon at end “, and in subsequent years, if the energy savings are cost-effective, the Secretary may continue the sharing arrangement with the public housing agency for a period not to exceed 6 years”.
 

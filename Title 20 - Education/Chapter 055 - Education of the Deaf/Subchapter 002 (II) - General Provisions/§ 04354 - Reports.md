@@ -32,10 +32,6 @@ The Board of Trustees of Gallaudet University and the Board of Trustees or other
 
 (Pub. L. 99–371, title II, §204, formerly title IV, §404, Aug. 4, 1986, 100 Stat. 790; renumbered title II, §204, and amended Pub. L. 102–421, title I, §§101(b)(5), (6), 134, Oct. 16, 1992, 106 Stat. 2151, 2157; Pub. L. 103–73, title II, §204(c), Aug. 11, 1993, 107 Stat. 735; Pub. L. 105–244, title IX, §917, Oct. 7, 1998, 112 Stat. 1831.)
 
-#### Codification
-
-Section is also set out in D.C. Code, §31–1842.4.
-
 #### Prior Provisions
 
 Provisions similar to this section were contained in section 691f of this title prior to repeal by Pub. L. 99–371.

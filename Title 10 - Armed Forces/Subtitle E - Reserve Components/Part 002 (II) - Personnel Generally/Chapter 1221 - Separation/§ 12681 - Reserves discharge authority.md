@@ -40,7 +40,7 @@ Definitions.—In this section:
 
 #### Guard and Reserve Transition Initiatives
 
-Pub. L. 104–208, div. A, title I, §101(b) \[title VIII, §8050\], Sept. 30, 1996, 110 Stat. 3009–71, 3009–99, provided that: “During the current fiscal year and hereafter, annual payments granted under the provisions of section 4416 of the National Defense Authorization Act for Fiscal Year 1993 (Public Law 102–484; 106 Stat. 2714) \[set out below\] shall be made from appropriations in this Act \[Pub. L. 104–208\] which are available for the pay of reserve component personnel.”
+Pub. L. 104–208, div. A, title I, §101(b) \[title VIII, §8050\], Sept. 30, 1996, 110 Stat. 3009–71, 3009–99, providedthat: “During the current fiscal year and hereafter, annual payments granted under the provisions of section 4416 of the National Defense Authorization Act for Fiscal Year 1993 (Public Law 102–484; 106 Stat. 2714) \[set out below\] shall be made from appropriations in this Act \[Pub. L. 104–208\] which are available for the pay of reserve component personnel.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
@@ -50,11 +50,11 @@ Pub. L. 103–335, title VIII, §8073, Sept. 30, 1994, 108 Stat. 2635.
 
 Pub. L. 103–139, title VIII, §8087, Nov. 11, 1993, 107 Stat. 1459.
 
-Pub. L. 102–484, div. D, title XLIV, subtitle B, Oct. 23, 1992, 106 Stat. 2712, as amended by Pub. L. 103–35, title II, §202(a)(17), May 31, 1993, 107 Stat. 102; Pub. L. 103–160, div. A, title V, §561(f)(1)–(3), Nov. 30, 1993, 107 Stat. 1667, 1668; Pub. L. 103–337, div. A, title V, §518(a), (b), Oct. 5, 1994, 108 Stat. 2754; Pub. L. 104–106, div. A, title XV, §1501(d)(3), Feb. 10, 1996, 110 Stat. 500; Pub. L. 105–261, div. A, title V, §561(<i>l</i>), (m), Oct. 17, 1998, 112 Stat. 2026, provided that:
+Pub. L. 102–484, div. D, title XLIV, subtitle B, Oct. 23, 1992, 106 Stat. 2712, as amended by Pub. L. 103–35, title II, §202(a)(17), May 31, 1993, 107 Stat. 102; Pub. L. 103–160, div. A, title V, §561(f)(1)–(3), Nov. 30, 1993, 107 Stat. 1667, 1668; Pub. L. 103–337, div. A, title V, §518(a), (b), Oct. 5, 1994, 108 Stat. 2754; Pub. L. 104–106, div. A, title XV, §1501(d)(3), Feb. 10, 1996, 110 Stat. 500; Pub. L. 105–261, div. A, title V, §561(<i>l</i>), (m), Oct. 17, 1998, 112 Stat. 2026; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(<i>l</i>), (m)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–135, provided that:
 
 #### “SEC. 4411. FORCE REDUCTION TRANSITION PERIOD DEFINED.
 
-“In this subtitle \[subtitle B (§§4411–4422) of title XLIV of div. D of Pub. L. 102–484\], the term ‘force reduction transition period’ means the period beginning on October 1, 1991, and ending on September 30, 2001.
+“In this subtitle \[subtitle B (§§4411–4422) of title XLIV of div. D of Pub. L. 102–484\], the term ‘force reduction transition period’ means the period beginning on October 1, 1991, and ending on December 31, 2001.
 
 #### “SEC. 4412. MEMBER OF SELECTED RESERVE DEFINED.
 
@@ -122,7 +122,7 @@ Uniform Applicability.—The regulations shall apply uniformly to the Army, Navy
 
 &emsp;&emsp;“(A) is immediately eligible for retired pay based on military service under any provision of law;
 
-&emsp;&emsp;“(B) is serving as a military technician, as defined in section 8401(30) of title 5, United StatesCode, and would be immediately eligible for an unreduced annuity under the provisions of subchapter III of chapter 83 of such title, relating to the Civil Service Retirement and Disability System, or the provisions of chapter 84 of such title, relating to the Federal Employees’ Retirement System; or
+&emsp;&emsp;“(B) is serving as a military technician, as defined in section 8401(30) of title 5, United States Code, and would be immediately eligible for an unreduced annuity under the provisions of subchapter III of chapter 83 of such title, relating to the Civil Service Retirement and Disability System, or the provisions of chapter 84 of such title, relating to the Federal Employees’ Retirement System; or
 
 &emsp;&emsp;“(C) is eligible for separation pay under section 1174 of title 10, United States Code.
 
@@ -140,7 +140,7 @@ Temporary Special Authority for Elimination of Officers From Active Status.—(1
 
 Temporary Special Authority.—During the force reduction transition period, the Secretary concerned may grant a member of the Selected Reserve under the age of 60 years the annual payments provided for under this section if—
 
-&emsp;“(1) as of October 1, 1991, that member has completed at least 20 years of service computed under section 1332 of title 10, United States Code, or after that date and before October 1, 2001, such member completes 20 years of service computed under that section or section 12732;
+&emsp;“(1) as of October 1, 1991, that member has completed at least 20 years of service computed under section 1332 of title 10, United States Code, or after that date and before the end of the force reduction period, such member completes 20 years of service computed under that section or section 12732;
 
 &emsp;“(2) the member satisfies the requirements of paragraphs (3) and (4) of section 1331(a) or 12731(a) of title 10, United States Code; and
 
@@ -232,7 +232,7 @@ Chapter 30.—\[Amended section 3012(b)(1)(B) of Title 38, Veterans’ Benefits.
 
 “(a)
 
-Applicability Subject to Needs of the Service.—(1) Subject to regulations prescribed by the Secretary of Defense, the Secretary of the military department concerned may limit the applicability of a benefit provided under sections 4418 through 4420 to any category of personnel defined by the Secretary concerned in order to meet a need of the armed force under the jurisdiction of the Secretary concerned to reduce the number of members in certain grades, the number of members who have completed a certain number of years of service, or the number of members who possess certain military skills or are serving in designated competitive categories.
+Applicability Subject to Needs of the Service.—(1) Subject to regulations prescribed by the Secretary of Defense, the Secretary of the military department concerned may limit the applicability of a benefitprovided under sections 4418 through 4420 to any category of personnel defined by the Secretary concerned in order to meet a need of the armed force under the jurisdiction of the Secretary concerned to reduce the number of members in certain grades, the number of members who have completed a certain number of years of service, or the number of members who possess certain military skills or are serving in designated competitive categories.
 
 “(2) A limitation under paragraph (1) shall be consistent with the purpose set forth in section 4414(a).
 
@@ -255,8 +255,4 @@ Special Separation Benefits.—\[Amended section 1174a of this title.\]
 Voluntary Separation Incentive.—\[Amended section 1175 of this title.\]”
 
 \[Section 518(c) of Pub. L. 103–337 provided that: “The amendments made by this section \[amending section 4416 of Pub. L. 102–484, set out above\] shall apply only to payments to a member of the Armed Forces under subsection (b) of section 4416 of the Defense Conversion, Reinvestment, and Transition Assistance Act of 1992 (division D of Public Law 102–484) that are granted by the Secretary of Defense to that member after the date of the enactment of this Act \[Oct. 5, 1994\].”\]
-
-#### Cross References
-
-Discharge of members not physically qualified, see section 12644 of this title.
 

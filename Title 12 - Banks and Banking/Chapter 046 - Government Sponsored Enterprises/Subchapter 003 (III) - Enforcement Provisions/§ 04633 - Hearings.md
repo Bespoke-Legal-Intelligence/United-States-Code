@@ -8,7 +8,7 @@
 
 #### (2) Timing
 
-&emsp;Any such hearing shall be fixed for a date not earlier than 30 days nor later than 60 days after service of the notice of charges under section 4631 of this title or determination to impose a penalty under section 4636 of this title, unless an earlier or a later date is set by the hearing officer at the request of the party served.
+&emsp;Any such hearing shall be fixed for a date not earlier than 30 days nor later than 60 days after service of the notice of charges under section 4631 of this title or determination to impose a penalty under section 4636 of thistitle, unless an earlier or a later date is set by the hearing officer at the request of the party served.
 
 #### (3) Procedure
 

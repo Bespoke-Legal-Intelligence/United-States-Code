@@ -43,7 +43,7 @@
 | (c) | Injunctive relief. |
 | [8515\.](Subchapter%20001%20%28I%29%20-%20Emergency%20Energy%20Conservation%20Program/%C2%A7%2008515%20-%20Reports.md) | Reports. |
 | (a) | Monitoring. |
-| (b) | Annual report. |
+| (b) | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -82,7 +82,7 @@ Except as otherwise provided in this subchapter, an unlawful employment practice
 
 #### (n) Resolution of challenges to employment practices implementing litigated or consent judgments or orders
 
-(1)(A) Notwithstanding any other provision of law, and except as provided in paragraph (2), an employment practice that implements and is within the scope of a litigated or consent judgment or order that resolves a claim of employment discrimination under the Constitution or Federal civil rights laws may not be challenged under the circumstances described in subparagraph (B).
+(1)(A) Notwithstanding any other provision of law, and except as provided in paragraph (2), anemployment practice that implements and is within the scope of a litigated or consent judgment or order that resolves a claim of employment discrimination under the Constitution or Federal civil rights laws may not be challenged under the circumstances described in subparagraph (B).
 
 (B) A practice described in subparagraph (A) may not be challenged in a claim under the Constitution or Federal civil rights laws—
 
@@ -142,5 +142,5 @@ Subversive Activities Control Board established by act Sept. 23, 1950, ch. 1024,
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1981a, 2000e, 2000e–1, 2000e–5 of this title; title 2 section 1311; title 3 section 411; title 8 section 1324b; title 23 section 140.
+This section is referred to in sections 300x–65, 1981a, 2000e, 2000e–1, 2000e–5 of this title; title 2 section 1311; title 3 section 411; title 8 section 1324b; title 23 section 140.
 

@@ -50,10 +50,6 @@ Section 6(b) of Pub. L. 95–570 provided that: “In the case of an individual�
 
 > such employee may be allowed to continue to hold such position and receive basic pay at the rate in effect on the effective date of this Act \[see Effective Date of 1978 Amendment note set out under section 102 of this title\] during the period which begins on such date and ends 2 years after such date so long as such employee continues as an employee of the Office of Administration.”
 
-#### Former President's Office Staff
-
-See note set out under section 102 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 115 of this title; title 26 section 3121; title 42 section 410.

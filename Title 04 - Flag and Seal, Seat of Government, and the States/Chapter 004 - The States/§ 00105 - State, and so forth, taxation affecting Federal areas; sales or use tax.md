@@ -24,10 +24,6 @@ Pub. L. 100–202, §101(i) \[title III, §307\], Dec. 22, 1987, 101 Stat. 1329�
 
 “(c) This section shall apply to any sale, receipt, purchase, storage, possession, use, or valuation taking place after December 31, 1986.”
 
-#### Cross References
-
-Imposition of net income taxes by State on income derived from interstate commerce, see chapter 10B (§381 et seq.) of Title 15, Commerce and Trade.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 107, 108, 109, 110 of this title; title 36 section 220307.

@@ -14,7 +14,7 @@ For purposes of this part—
 
 &emsp;(4) The term “baseline concentration” means, with respect to a pollutant, the ambient concentration levels which exist at the time of the first application for a permit in an area subject to this part, based on air quality data available in the Environmental Protection Agency or a State air pollution control agency and on such monitoring data as the permit applicant is required to submit. Such ambient concentration levels shall take into account all projected emissions in, or which may affect, such area from any major emitting facility on which construction commenced prior to January 6, 1975, but which has not begun operation by the date of the baseline air quality concentration determination. Emissions of sulfur oxides and particulate matter from any major emitting facility on which construction commenced after January 6, 1975, shall not be included in the baseline and shall be counted against the maximum allowable increases in pollutant concentrations established under this part.
 
-(July 14, 1955, ch. 360, title I, §169, as added Pub. L. 95–95, title I, §127(a), Aug. 7, 1977, 91 Stat. 740; amended Pub. L. 95–190, §14(a)(54), Nov. 16, 1977, 91 Stat. 1402; Pub. L. 101–549, title III, §305(b), title IV, §403(d), Nov. 15, 1990, 104 Stat. 2583, 2631.)
+(July 14, 1955, ch. 360, title I, §169, as added Pub. L. 95–95, title I, §127(a), Aug. 7, 1977, 91 Stat. 740; amended Pub. L. 95–190, §14(a)(54), Nov. 16, 1977, 91 Stat. 1402; Pub. L. 101–549, title III, §305(b),title IV, §403(d), Nov. 15, 1990, 104 Stat. 2583, 2631.)
 
 #### Amendments
 

@@ -66,7 +66,7 @@ The Secretary shall require the disclosure of information with respect to any ap
 
 #### (c) Updating of disclosure
 
-During the period when an application is pending or assistance is being provided, the applicant shall update the disclosure required under the previous subsection within 30 days of any substantial change.
+During the period when an application is pending or assistance is being provided, the applicantshall update the disclosure required under the previous subsection within 30 days of any substantial change.
 
 #### (d) Limitation of assistance
 
@@ -204,7 +204,7 @@ Revocation by Secretary.—If the Secretary determines that a housing credit age
 
 &emsp;“(1) may inform the housing credit agency that the agency may no longer submit certification of subsidy layering compliance under this section; and
 
-&emsp;“(2) shall carry out section 102(d) of the Department of Housing and Urban Development Reform Act of 1989 \[42 U.S.C. 3545(d)\] relating to affected projects allocated a low-income housing tax credit pursuantto section 42 of the Internal Revenue Code of 1986 \[26 U.S.C. 42\].
+&emsp;“(2) shall carry out section 102(d) of the Department of Housing and Urban Development Reform Act of 1989 \[42 U.S.C. 3545(d)\] relating to affected projects allocated a low-income housing tax credit pursuant to section 42 of the Internal Revenue Code of 1986 \[26 U.S.C. 42\].
 
 “(d)
 
@@ -212,5 +212,5 @@ Applicability.—Section 102(d) of the Department of Housing and Urban Developme
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1439, 1485, 4852d, 12742, 12774 of this title; title 25 section 4136.
+This section is referred to in sections 1439, 1485, 4852d, 12742, 12774 of this title; title 12 section 1715z–22.
 

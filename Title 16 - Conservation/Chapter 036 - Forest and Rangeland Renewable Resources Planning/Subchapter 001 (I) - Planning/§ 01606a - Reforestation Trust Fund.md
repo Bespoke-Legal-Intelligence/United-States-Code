@@ -20,7 +20,7 @@ There is established in the Treasury of the United States a trust fund, to be kn
 
 (B) Any obligation acquired by the Trust Fund (except special obligations issued exclusively to the Trust Fund) may be sold by the Secretary of the Treasury at the market price, and such special obligations may be redeemed at par plus accrued interest.
 
-(C) The interest on, and the proceeds from the sale or redemption of, any obligations held in Trust Fund shall be credited to and form a part of the Trust Fund.
+(C) The interest on, and the proceeds from the sale or redemption of, any obligations held inTrust Fund shall be credited to and form a part of the Trust Fund.
 
 #### (d) Obligations from Trust Fund
 
@@ -61,4 +61,8 @@ Subsec. (e). Pub. L. 97–424, §422(a), substituted provision that it is the in
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respect to articles entered on or after such date, see section 1217(b)(1) of Pub. L. 100–418, set out as an Effective Date note under section 3001 of Title 19, Customs Duties.
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (c)(1) of this section relating to reporting to Congress each year, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 143 of House Document No. 103–7.
 

@@ -52,7 +52,7 @@ Information collected by the Energy Information Administration shall be cataloge
 
 &emsp;(E) such other analyses or evaluations as the Administrator finds is necessary to achieve the purposes of this chapter.
 
-(3) The Administrator shall consult with the Chairman of the Securities and Exchange Commission with respect to the development of accounting practices required by the Energy Policy and Conservation Act \[42 U.S.C. 6201 et seq.\] to be followed by persons engaged in whole or in part in the production of crude oil and natural gas and shall endeavor to assure that the energy-producing company financial report described in paragraph (2) of this subsection, to the extent practicable and consistent with the purposes and provisions of this chapter, is consistent with such accounting practices where applicable.
+(3) The Administrator shall consult with the Chairman of the Securities and Exchange Commission with respect to the development of accounting practices required by the Energy Policy and Conservation Act \[42 U.S.C. 6201 et seq.\]to be followed by persons engaged in whole or in part in the production of crude oil and natural gas and shall endeavor to assure that the energy-producing company financial report described in paragraph (2) of this subsection, to the extent practicable and consistent with the purposes and provisions of this chapter, is consistent with such accounting practices where applicable.
 
 (4) The Administrator shall require each major energy-producing company to file with the Administrator an energy-producing company financial report on at least an annual basis and may request energy information described in such report on a quarterly basis if he determines that such quarterly report of information will substantially assist in achieving the purposes of this chapter.
 
@@ -122,7 +122,7 @@ Pursuant to section 52(a) of the Federal Energy Administration Act of 1974 (15 U
 
 #### (<i>l</i>) Data collection
 
-In order to improve the ability to evaluate the effectiveness of the Nation's energy efficiencypolicies and programs, the Administrator shall, in carrying out the data collection provisions of subsections (i) and (k) of this section, consider—
+In order to improve the ability to evaluate the effectiveness of the Nation's energy efficiency policies and programs, the Administrator shall, in carrying out the data collection provisions of subsections (i) and (k) of this section, consider—
 
 &emsp;(1) expanding the survey instruments to include questions regarding participation in Government and utility conservation programs;
 

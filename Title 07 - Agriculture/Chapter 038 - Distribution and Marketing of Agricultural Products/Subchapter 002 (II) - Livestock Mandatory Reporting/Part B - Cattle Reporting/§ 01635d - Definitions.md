@@ -44,7 +44,7 @@ In this part:
 
 &emsp;&emsp;(B) for any calendar year, the term includes only a cattle processing plant that slaughtered an average of at least 125,000 head of cattle per year during the immediately preceding 5 calendar years; and
 
-&emsp;&emsp;(C) in the case of a cattle processing plant that did not slaughter cattle during the immediately preceding 5 calendar years, theSecretary shall consider the plant capacity of the processing plant in determining whether the processing plant should be considered a packer under this part.
+&emsp;&emsp;(C) in the case of a cattle processing plant that did not slaughter cattle during the immediately preceding 5 calendar years, the Secretary shall consider the plant capacity of the processing plant in determining whether the processing plant should be considered a packer under this part.
 
 #### (6) Packer-owned cattle
 

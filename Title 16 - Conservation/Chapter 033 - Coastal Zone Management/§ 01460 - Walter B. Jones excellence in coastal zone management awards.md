@@ -12,7 +12,7 @@ The Secretary shall elect annually—
 
 &emsp;(2) 5 local governments which have made the most progress in developing and implementing the coastal zone management principles embodied in this chapter; and
 
-&emsp;(3) up to 10 graduate students whose academic study promises to contribute materiallyto development of new or improved approaches to coastal zone management.
+&emsp;(3) up to 10 graduate students whose academic study promises to contribute materially to development of new or improved approaches to coastal zone management.
 
 #### (c) Solicitation of nominations for local government recipients
 

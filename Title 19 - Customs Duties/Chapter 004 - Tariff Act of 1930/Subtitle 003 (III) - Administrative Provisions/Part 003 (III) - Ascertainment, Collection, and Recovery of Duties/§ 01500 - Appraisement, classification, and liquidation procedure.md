@@ -70,14 +70,6 @@ Section 203 of Pub. L. 91–271 provided that: “Titles II and III of this Act 
 
 Functions of all officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees.
 
-#### Cross References
-
-Conversion of foreign currency into currency of the United States for the purpose of the assessment and collection of duties, see section 5151 of Title 31, Money and Finance.
-
-Estimating duties upon the value at the date of shipment, see section 240 of this title.
-
-“Merchandise” defined, see section 1401 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1501, 1503, 1504 of this title.

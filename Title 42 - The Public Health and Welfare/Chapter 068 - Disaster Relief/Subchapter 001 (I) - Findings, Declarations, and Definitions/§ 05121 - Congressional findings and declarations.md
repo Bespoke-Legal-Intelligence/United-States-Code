@@ -36,6 +36,10 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 
 Section 605 of Pub. L. 93–288 provided that Pub. L. 93–288 was effective Apr. 1, 1974, with the exception of section 5178 of this title, prior to repeal by Pub. L. 100–707, title I, §108(b), Nov. 23, 1988, 102 Stat. 4708.
 
+#### Short Title of 2000 Amendment
+
+Pub. L. 106–390, §1(a), Oct. 30, 2000, 114 Stat. 1552, provided that: “This Act \[enacting sections 5133, 5134, 5165 to 5165c, 5205, and 5206 of this title, amending sections 3796b, 5122, 5154, 5170c, 5172, 5174, 5184, 5187, and 5192 of this title, repealing sections 5176 and 5178 of this title, and enacting provisions set out as notes under this section and sections 3796b, 5133, 5165b, 5172, 5174, and 5187of this title\] may be cited as the ‘Disaster Mitigation Act of 2000’.”
+
 #### Short Title of 1993 Amendment
 
 Pub. L. 103–181, §1, Dec. 3, 1993, 107 Stat. 2054, provided that: “This Act \[amending section 5170c of this title and enacting provisions set out as notes under sections 4601 and 5170c of this title\] may be cited as the ‘Hazard Mitigation and Relocation Assistance Act of 1993’.”
@@ -50,7 +54,7 @@ Pub. L. 96–568, §1, Dec. 23, 1980, 94 Stat. 3334, provided: “That this Act 
 
 #### Short Title
 
-Section 1 of Pub. L. 93–288, as amended by Pub. L. 100–707, title I, §102(a), Nov. 23, 1988, 102 Stat. 4689, provided: “That this Act \[enacting this section, sections 3231 to 3236, 5122, 5131, 5132, 5141 to 5158, 5171 to 5189, 5201, and 5202 of this title, and section 1264 of former Title 31, Money and Finance, amending sections 1706c, 1709, 1715<i>l</i> of Title 12, Banks and Banking, sections 241–1, 646, 758 of Title 20, Education, sections 165, 5064, 5708 of Title 26, Internal Revenue Code, section 1820 \[now 3720\] of Title 38, Veterans’ Benefits, section 461 of Title 40, Public Buildings, Property, and Works, repealing sections 4401, 4402, 4411 to 4413, 4414 to 4420, 4431 to 4436, 4457 to 4462, 4481 to 4485 of this title, enacting provisions set out as notes under this section, sections 4401 and 5178 of this title, and section 1264 of former Title 31, and amending provisions set out as a note under section 1681 of Title 48, Territories and Insular Possessions\] may be cited as ‘The Robert T. Stafford Disaster Relief and Emergency Assistance Act’.”
+Section 1 of Pub. L. 93–288, as amended by Pub. L. 100–707, title I, §102(a), Nov. 23, 1988, 102 Stat. 4689; Pub. L. 106–390, title III, §301, Oct. 30, 2000, 114 Stat. 1572, provided: “That this Act \[enacting this section, sections 3231 to 3236, 5122, 5131, 5132, 5141 to 5158, 5171 to 5189, 5201, and 5202 of this title, and section 1264 of former Title 31, Money and Finance, amending sections 1706c, 1709, 1715<i>l</i> of Title 12, Banks and Banking, sections 241–1, 646, 758 of Title 20, Education, sections 165, 5064, 5708 of Title 26, Internal Revenue Code, section 1820 \[now 3720\] of Title 38, Veterans’ Benefits, section 461 of Title 40, Public Buildings, Property, and Works, repealing sections 4401, 4402, 4411 to 4413, 4414 to 4420, 4431 to 4436, 4457 to 4462, 4481 to 4485 of this title, enacting provisions set out as notes under this section, sections 4401 and 5178 of this title, and section 1264 of former Title 31, and amending provisions set out as a note under section 1681 of Title 48, Territories and Insular Possessions\] may be cited as the “Robert T. Stafford Disaster Relief and Emergency Assistance Act’.”
 
 #### Delegation of Functions
 
@@ -62,7 +66,59 @@ Section 102(b) of title I of Pub. L. 100–707 provided that: “Whenever any re
 
 #### References to Disaster Relief Act of 1970
 
-Section 702(m), formerly section 602(m), of Pub. L. 93–288, as renumbered by Pub. L. 103–337, div. C, title XXXIV, §3411(a)(1), (2), Oct. 5, 1994, 108 Stat. 3100, provided that: “Whenever reference is made in any provision of law (other than this Act \[see Short Title note set out above\]), regulation, rule, record, or documentsof the United States to provisions of the Disaster Relief Act of 1970 (84 Stat. 1744), repealed by this Act such reference shall be deemed to be a reference to the appropriate provision of this Act.”
+Section 702(m), formerly section 602(m), of Pub. L. 93–288, as renumbered by Pub. L. 103–337, div. C, title XXXIV, §3411(a)(1), (2), Oct. 5, 1994, 108 Stat. 3100, provided that: “Whenever reference is made in any provision of law (other than this Act \[see Short Title note set out above\]), regulation, rule, record, or documents of the United States to provisions of the Disaster Relief Act of 1970 (84 Stat. 1744), repealed by this Act such reference shall be deemed to be a reference to the appropriate provision of this Act.”
+
+#### Report on State Management of Small Disasters Initiative
+
+Pub. L. 106–390, title II, §208, Oct. 30, 2000, 114 Stat. 1571, provided that: “Not later than 3 years after the date of the enactment of this Act \[Oct. 30, 2000\], the President shall submit to Congress a report describing the results of the State Management of Small Disasters Initiative, including—
+
+&emsp;“(1) identification of any administrative or financial benefits of the initiative; and
+
+&emsp;“(2) recommendations concerning the conditions, if any, under which States should be allowed the option to administer parts of the assistance program under section 406 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5172).”
+
+#### Study Regarding Cost Reduction
+
+Pub. L. 106–390, title II, §209, Oct. 30, 2000, 114 Stat. 1571, provided that: “Not later than 3 years after the date of the enactment of this Act \[Oct. 30, 2000\], the Director of the Congressional Budget Office shall complete a study estimating the reduction in Federal disaster assistance that has resulted and is likely to result from the enactment of this Act \[see Short Title of 2000 Amendment note above\].”
+
+#### Study of Participation by Indian Tribes in Emergency Management
+
+Pub. L. 106–390, title III, §308, Oct. 30, 2000, 114 Stat. 1575, provided that:
+
+“(a)
+
+Definition of Indian Tribe.—In this section, the term ‘Indian tribe’ has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b).
+
+“(b)
+
+Study.—
+
+&emsp;“(1)
+
+In general.—The Director of the Federal Emergency Management Agency shall conduct a study of participation by Indian tribes in emergency management.
+
+&emsp;“(2)
+
+Required elements.—The study shall—
+
+&emsp;&emsp;“(A) survey participation by Indian tribes in training, predisaster and postdisaster mitigation, disaster preparedness, and disaster recovery programs at the Federal and State levels; and
+
+&emsp;&emsp;“(B) review and assess the capacity of Indian tribes to participate in cost-shared emergency management programs and to participate in the management of the programs.
+
+&emsp;“(3)
+
+Consultation.—In conducting the study, the Director shall consult with Indian tribes.
+
+“(c)
+
+Report.—Not later than 1 year after the date of the enactment of this Act \[Oct. 30, 2000\], the Director shall submit a report on the study under subsection (b) to—
+
+&emsp;“(1) the Committee on Environment and Public Works of the Senate;
+
+&emsp;“(2) the Committee on Transportation and Infrastructure of the House of Representatives;
+
+&emsp;“(3) the Committee on Appropriations of the Senate; and
+
+&emsp;“(4) the Committee on Appropriations of the House of Representatives.”
 
 #### National Drought Policy
 

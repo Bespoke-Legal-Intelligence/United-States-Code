@@ -62,21 +62,3 @@ Amendment by Pub. L. 97–116 effective Dec. 29, 1981, see section 21(a) of Pub.
 
 Section 16(c) of Pub. L. 99–396 provided that: “The Secretary of State may not impose a fee exceeding $35 for the processing of an application for a certificate of non-citizen national status under section 341(b) of the Immigration and Nationality Act \[8 U.S.C. 1452(b)\] filed before the end of fiscal year 1987.”
 
-#### Cross References
-
-Definition of the term—
-
-&emsp;&emsp;Attorney General, see section 1101(a)(5) of this title.
-
-&emsp;&emsp;Husband, see section 1101(a)(35) of this title.
-
-&emsp;&emsp;Naturalization, see section 1101(a)(23) of this title.
-
-&emsp;&emsp;Parent, as used in subchapters I and II of this chapter, see section 1101(b)(2) of this title.
-
-&emsp;&emsp;Parent, as used in this subchapter, see section 1101(c)(2) of this title.
-
-&emsp;&emsp;Service, see section 1101(a)(34) of this title.
-
-&emsp;&emsp;United States, see section 1101(a)(38) of this title.
-

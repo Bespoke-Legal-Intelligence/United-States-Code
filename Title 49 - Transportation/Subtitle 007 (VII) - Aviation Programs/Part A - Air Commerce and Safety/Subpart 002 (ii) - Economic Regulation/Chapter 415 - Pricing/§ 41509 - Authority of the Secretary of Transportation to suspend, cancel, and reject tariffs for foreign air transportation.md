@@ -46,7 +46,7 @@ Effective Tariffs and Prices When Tariff Is Suspended, Canceled, or Rejected.—
 
 (B) If the suspended, canceled, or rejected tariff is the first tariff of the carrier for the covered transportation, the carrier, for the purpose of operations during the period of suspension or pending effectiveness of a new tariff, may file another tariff containing a price or another classification, rule, or practice affecting the price, or the value of the transportation provided under the price, that is in effect (and not subject to a suspension order) for any air carrier providing the same transportation.
 
-(3) If an existing tariff is suspended or canceled, the affected air carrier or foreign air carrier, for the purpose of operations during the period of suspension or pending effectiveness of a new tariff, may file another tariff containing a price or another classification, rule, or practice affecting the price, or the value of the transportation provided under the price, that is in effect (and not subject to a suspension order) for any air carrier providing the same transportation.
+(3) If an existing tariff is suspended or canceled, the affected air carrier or foreign air carrier, for the purpose of operations during the period of suspension or pending effectiveness of a new tariff, may file another tariff containing a price or another classification, rule, or practiceaffecting the price, or the value of the transportation provided under the price, that is in effect (and not subject to a suspension order) for any air carrier providing the same transportation.
 
 (d)
 

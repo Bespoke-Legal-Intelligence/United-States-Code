@@ -14,11 +14,11 @@ The last paragraph is added to exclude jurors incompetent to serve as jurors in 
 
 #### Amendments
 
-1968—Pub. L. 90–274 substituted provisions declaring the policy of the United States with respect to trial by jury and the opportunity to serve on such juries for provisions setting out the required qualifications of Federal jurors, including age, citizenship, residence, freedom from conviction of certain crimes, ability to read, write, speak, and understand the English language, and capability of rendering efficient jury service.
+<b>1968</b>—Pub. L. 90–274 substituted provisions declaring the policy of the United States with respect to trial by jury and the opportunity to serve on such juries for provisions setting out the required qualifications of Federal jurors, including age, citizenship, residence, freedom from conviction of certain crimes, ability to read, write, speak, and understand the English language, and capability of rendering efficient jury service.
 
-1957—Pub. L. 85–315 substituted “Qualifications of Federal jurors” for “Qualifications” in section catchline.
+<b>1957</b>—Pub. L. 85–315 substituted “Qualifications of Federal jurors” for “Qualifications” in section catchline.
 
-Pub. L. 85–315 substituted “and who has resided for a period of one year within the judicial district” for “andresides within the judicial district”, and struck out provisions which prohibited service as a grand or petit juror if a person was incompetent to serve as a grand or petit juror by the law of the State in which the district court is held.
+Pub. L. 85–315 substituted “and who has resided for a period of one year within the judicial district” for “and resides within the judicial district”, and struck out provisions which prohibited service as a grand or petit juror if a person was incompetent to serve as a grandor petit juror by the law of the State in which the district court is held.
 
 #### Effective Date of 1968 Amendment
 
@@ -31,18 +31,6 @@ Pub. L. 95–572, §1, Nov. 2, 1978, 92 Stat. 2453, provided that: “This Act \
 #### Short Title
 
 Section 1 of Pub. L. 90–274 provided: “That this Act \[amending this section and sections 1821, 1862 to 1869, and 1871 of this title, repealing section 867 of Title 48, Territories and Insular Possessions, and enacting provisions set out as notes under this section\] may be cited as the ‘Jury Selection and Service Act of 1968’.”
-
-#### Federal Rules of Civil Procedure
-
-Jurors and juries, see Rules 38, 39, and 48, Appendix to this title.
-
-#### Federal Rules of Criminal Procedure
-
-Jurors and juries, see Rules 23 and 24, Title 18, Appendix, Crimes and Criminal Procedure.
-
-#### Cross References
-
-Constitutional provisions relating to trial by jury, see Const. Amends. 6 and 7.
 
 #### Section Referred to in Other Sections
 

@@ -76,6 +76,10 @@ Special Rule.—The first calendar year in which comparability payments under se
 
 Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of Title 22, Foreign Relations and Intercourse.
 
+#### Short Title of 2000 Amendment
+
+Pub. L. 106–554, §1(a)(4) \[div. B, title IX, §901\], Dec. 21, 2000, 114 Stat. 2763, 2763A–303, provided that: “This title \[enacting provisions set out as notes under sections 5304 and 5305 of this title and section 204 of Title 3, The President, and amending provisions set out as a note under section 5305 of this title\] may be cited as the ‘Law Enforcement Pay Equity Act of 2000’.”
+
 #### Short Title of 1993 Amendment
 
 Pub. L. 103–89, §1, Sept. 30, 1993, 107 Stat. 981, provided that: “This Act \[amending sections 3372, 4501, 4502, 5302, 5332, 5334 to 5336, 5361 to 5363, 5410, 5948, and 8473 of this title, sections 1602, 1732, and 1733 of Title 10, Armed Forces, and section 731 of Title 31, Money and Finance, repealing sections 4302a and 5401 to 5410 of this title, enacting provisions set out as notes under sections 3372, 5335, 5401, and 5410 of this title, and amending provisions set out as a note under section 5304 of this title\] may be cited as the ‘Performance Management and Recognition System Termination Act’.”
@@ -92,7 +96,7 @@ Short Title.—This section, and the sections immediately following this section
 
 Rules of Construction.—(1) Except as otherwise expressly provided, any reference (actual or implicit) in FEPCA (outside of this section) to ‘this Act’ (or to any title, section, or other designated provision of ‘this Act’) shall be construed to be a reference to FEPCA (or the corresponding provision within FEPCA).
 
-“(2) Except as otherwise expressly provided, any reference (actual or implicit) in any provision of this Actoutside of FEPCA to ‘this Act’ (or to any title, section, or other designated provision of ‘this Act’), and any reference made in any provision of law outside of this Act to the ‘Treasury, Postal Service and General Government Appropriations Act, 1991’ \[Pub. L. 101–509\] (or to any title, section, or other designated provision of such Act), shall be construed disregarding the provisions of FEPCA.”
+“(2) Except as otherwise expressly provided, any reference (actual or implicit) in any provision of this Act outside of FEPCA to ‘this Act’ (or to any title, section, or other designated provision of ‘this Act’), and any reference made in any provision of law outside of this Act to the ‘Treasury, Postal Service and General Government Appropriations Act, 1991’ \[Pub. L. 101–509\] (or to any title, section, or other designated provision of such Act), shall be construed disregarding the provisions of FEPCA.”
 
 Section 529 \[title III, §306\] of Pub. L. 101–509 provided that: “Notwithstanding section 1(b) \[section 529 \[§1(b)\] of Pub. L. 101–509, set out above\], a reference in any of the preceding provisions of this title \[section 529 \[title III, §§301–305\] of Pub. L. 101–509, enacting section 237 of Title 42, The Public Health and Welfare, amending section 212 of Title 42, and enacting provisions set out as notes under this section, section 5304 of this title, and section 212 of Title 42\] to ‘this Act’ \[section 529 of Pub. L. 101–509\] (other than a reference in section 301) \[section 529 \[title III, §301\] of Pub. L. 101–509, set out below\] shall not be considered to include any provision of title IV \[section 529 \[title IV, §§401–412\] of Pub. L. 101–509, enacting sections 4521 to 4523 of this title, amending sections 5541, 5542, 5547, 8335, and 8425 of this title, enacting provisions set out as notes under sections 4521, 5305, 5541, and 8335 of this title, and amending provisions set out as a note under section 5541 of this title\].”
 
@@ -132,7 +136,7 @@ Membership.—The members of the Committee shall be—
 
 &emsp;“(4) 3 individuals, each of whom shall be an employee designated by the head of each of 3 other departments or agencies selected by the Director of the Office of Personnel Management from among departments and agencies having substantial numbers of General Schedule employees; and
 
-&emsp;“(5) 6 individuals appointed by the Director of the Office of Personnel Management to serve as representatives of employee organizations which represent substantial numbers of General Schedule employees, and who shall be selected with due consideration to such factors as the relative numbers of General Schedule employees represented by the various organizations, except that not more than 3 members of the Committee at any one time shall be from a single employee organization, council, federation, alliance, association, or affiliation of employee organizations.
+&emsp;“(5) 6 individuals appointed by the Director of the Office of Personnel Management to serve as representatives of employee organizations which represent substantial numbers of General Schedule employees, and who shall be selected with due consideration to such factors as the relative numbers of General Schedule employees represented by the variousorganizations, except that not more than 3 members of the Committee at any one time shall be from a single employee organization, council, federation, alliance, association, or affiliation of employee organizations.
 
 “(d)
 

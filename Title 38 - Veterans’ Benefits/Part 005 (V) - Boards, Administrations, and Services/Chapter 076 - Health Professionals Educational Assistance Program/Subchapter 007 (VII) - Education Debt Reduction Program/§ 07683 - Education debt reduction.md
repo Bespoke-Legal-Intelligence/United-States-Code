@@ -12,7 +12,7 @@ Frequency of Payment.—(1) The Secretary may make education debt reduction paym
 
 (c)
 
-Performance Requirement.—The Secretary may make education debt reduction payments to a participant in the Education DebtReduction Program for a period only if the Secretary determines that the individual maintained an acceptable level of performance in the position or positions served by the participant during the period.
+Performance Requirement.—The Secretary may make education debt reduction payments to a participant in the Education Debt Reduction Program for a period only if the Secretary determines that the individual maintained an acceptable level of performance in the position or positions served by the participant during the period.
 
 (d)
 

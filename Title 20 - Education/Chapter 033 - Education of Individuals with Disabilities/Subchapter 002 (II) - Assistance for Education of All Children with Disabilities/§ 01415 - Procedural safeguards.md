@@ -204,7 +204,7 @@ Any party to a hearing conducted pursuant to subsection (f) or (k) of this secti
 
 #### (A) In general
 
-&emsp;&emsp;The district courts of the United States shall have jurisdiction of actions broughtunder this section without regard to the amount in controversy.
+&emsp;&emsp;The district courts of the United States shall have jurisdiction of actions brought under this section without regard to the amount in controversy.
 
 #### (B) Award of attorneys’ fees
 
@@ -246,7 +246,7 @@ Any party to a hearing conducted pursuant to subsection (f) or (k) of this secti
 
 #### (G) Exception to reduction in amount of attorneys’ fees
 
-&emsp;&emsp;The provisions of subparagraph (F) shall not apply in any action or proceeding if the court finds that the State or local educational agency unreasonably protracted the final resolution of the action or proceeding or there was a violation of this section.
+&emsp;&emsp;The provisions of subparagraph (F) shall not apply in any action or proceeding if thecourt finds that the State or local educational agency unreasonably protracted the final resolution of the action or proceeding or there was a violation of this section.
 
 #### (j) Maintenance of current educational placement
 
@@ -402,7 +402,7 @@ Except as provided in subsection (k)(7) of this section, during the pendency of 
 
 #### (9) Referral to and action by law enforcement and judicial authorities
 
-&emsp;(A) Nothing in this subchapter shall be construed to prohibit an agency from reporting a crime committed by a child with a disability to appropriate authorities or to prevent State law enforcement and judicial authorities fromexercising their responsibilities with regard to the application of Federal and State law to crimes committed by a child with a disability.
+&emsp;(A) Nothing in this subchapter shall be construed to prohibit an agency from reporting a crime committed by a child with a disability to appropriate authorities or to prevent State law enforcement and judicial authorities from exercising their responsibilities with regard to the application of Federal and State law to crimes committed by a child with a disability.
 
 &emsp;(B) An agency reporting a crime committed by a child with a disability shall ensure that copies of the special education and disciplinary records of the child are transmitted for consideration by the appropriate authorities to whom it reports the crime.
 
@@ -450,7 +450,7 @@ Nothing in this chapter shall be construed to restrict or limit the rights, proc
 
 #### (2) Special rule
 
-&emsp;If, under State law, a child with a disability who has reached the age of majority under State law, who has not been determined to be incompetent, but who is determined not to have the ability to provide informed consent with respect to the educational program of the child, the State shall establish procedures for appointing the parent of the child, or if the parent is not available, another appropriate individual, to represent the educational interests of the child throughout the period of eligibility of the child under this subchapter.
+&emsp;If, under State law, a child with a disability who has reached the age of majority under State law, who has not been determined to be incompetent, but who is determined not to have the ability to provide informed consent with respect to the educational program of the child, the State shall establish procedures forappointing the parent of the child, or if the parent is not available, another appropriate individual, to represent the educational interests of the child throughout the period of eligibility of the child under this subchapter.
 
 (Pub. L. 91–230, title VI, §615, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 88; amended Pub. L. 106–25, §6(a), Apr. 29, 1999, 113 Stat. 49.)
 

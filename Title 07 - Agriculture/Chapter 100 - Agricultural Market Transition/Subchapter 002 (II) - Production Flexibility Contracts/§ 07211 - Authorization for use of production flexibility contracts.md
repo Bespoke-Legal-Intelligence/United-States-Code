@@ -54,7 +54,7 @@ Subject to subsection (b)(4) of this section, an owner or producer who enters in
 
 #### References in Text
 
-The Food Security Act of 1985, referred to in subsec. (a)(1), (2), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354,as amended. Subtitles B and C of title XII of the Act are classified generally to subchapters II (§3811 et seq.) and III (§3821 et seq.), respectively, of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
+The Food Security Act of 1985, referred to in subsec. (a)(1), (2), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, as amended. Subtitles B and C of title XII of the Act are classified generally to subchapters II (§3811 et seq.) and III (§3821 et seq.), respectively, of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
 
 This subchapter, referred to in subsec. (c), was in the original “this subtitle”, meaning subtitle B (§§111–118) of title I of Pub. L. 104–127, Apr. 4, 1996, 110 Stat. 898, which enacted this subchapter and amended sections 1308, 1308–1, and 1308–3 of this title. For complete classification of subtitle B to the Code, see Tables.
 
@@ -62,7 +62,7 @@ Sections 101B, 103B, 105B, and 107B of the Agricultural Act of 1949, referred to
 
 #### Violation of Contract; Denial of Funds for Salaries
 
-Pub. L. 104–180, title VII, §726, Aug. 6, 1996, 110 Stat. 1600, provided that: “None of the funds made available in this Act \[see Tables for classification\] may be used to pay the salaries of employees of the Department of Agriculture who make payments pursuant to a production flexibility contract entered into under section 111 of the Federal Agriculture Improvement and Reform Act of 1996 (Public Law 104–127; 7 U.S.C. 7211) when it is made known to the Federal official having authority to obligate or expend such funds that the land covered by that production flexibility contract is not being used for the production of an agricultural commodity or is not devoted to a conserving use, unless it is also made known to that Federal official that the lack of agricultural production or the lack of a conserving use is a consequence of drought, flood, or other natural disaster.”
+Pub. L. 104–180, title VII, §726, Aug. 6, 1996, 110 Stat. 1600, provided that: “None of the funds made availablein this Act \[see Tables for classification\] may be used to pay the salaries of employees of the Department of Agriculture who make payments pursuant to a production flexibility contract entered into under section 111 of the Federal Agriculture Improvement and Reform Act of 1996 (Public Law 104–127; 7 U.S.C. 7211) when it is made known to the Federal official having authority to obligate or expend such funds that the land covered by that production flexibility contract is not being used for the production of an agricultural commodity or is not devoted to a conserving use, unless it is also made known to that Federal official that the lack of agricultural production or the lack of a conserving use is a consequence of drought, flood, or other natural disaster.”
 
 #### Section Referred to in Other Sections
 

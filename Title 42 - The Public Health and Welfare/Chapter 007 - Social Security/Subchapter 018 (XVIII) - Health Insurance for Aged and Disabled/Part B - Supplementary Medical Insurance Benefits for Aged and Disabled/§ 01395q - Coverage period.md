@@ -10,7 +10,7 @@ The period during which an individual is entitled to benefits under the insuranc
 
 &emsp;(B) in the case of an individual who enrolls pursuant to such subsection (d) in the month in which he first satisfies such paragraph, the first day of the month following the month in which he so enrolls, or
 
-&emsp;(C) in the case of an individual who enrolls pursuant to such subsection (d) in the monthfollowing the month in which he first satisfies such paragraph, the first day of the second month following the month in which he so enrolls, or
+&emsp;(C) in the case of an individual who enrolls pursuant to such subsection (d) in the month following the month in which he first satisfies such paragraph, the first day of the second month following the month in which he so enrolls, or
 
 &emsp;(D) in the case of an individual who enrolls pursuant to such subsection (d) more than one month following the month in which he satisfies such paragraph, the first day of the third month following the month in which he so enrolls, or
 
@@ -48,7 +48,7 @@ Notwithstanding subsection (a) of this section, in the case of an individual who
 
 &emsp;(2) in any other month of the special enrollment period, the coverage period shall begin on the first day of the month following the month in which the individual so enrolls.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1838, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 305; amended Pub. L. 90–248, title I, §145(c), Jan. 2, 1968, 81 Stat. 859; Pub. L. 92–603, title II, §§201(c)(3), 206(b), (c), 257(a), Oct. 30, 1972, 86 Stat. 1373, 1378, 1447; Pub. L. 96–499, title IX, §§945(c)(1), 947(b), Dec. 5, 1980, 94 Stat. 2642, 2643; Pub. L. 97–35, title XXI, §§2106(b)(2), 2151(a)(3), Aug. 13, 1981, 95 Stat. 792, 802; Pub. L. 98–369, div. B, title III, §2338(c), July 18, 1984, 98 Stat. 1092; Pub. L. 99–272, title IX, §9201(c)(2), Apr. 7, 1986, 100 Stat. 171; Pub. L. 99–509, title IX, §9344(b)(1), Oct. 21, 1986, 100 Stat. 2042; Pub. L. 103–432, title I, §147(f)(1)(B), Oct. 31, 1994, 108 Stat. 4430; Pub. L. 105–33, title IV, §4581(b)(2), Aug. 5, 1997, 111 Stat. 465.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1838, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 305; amended Pub. L. 90–248, title I, §145(c), Jan. 2, 1968, 81 Stat. 859; Pub. L. 92–603, title II, §§201(c)(3), 206(b), (c), 257(a), Oct. 30, 1972, 86 Stat. 1373, 1378, 1447; Pub. L. 96–499, title IX, §§945(c)(1), 947(b), Dec. 5, 1980, 94 Stat. 2642, 2643; Pub. L. 97–35, title XXI, §§2106(b)(2), 2151(a)(3), Aug. 13, 1981, 95 Stat. 792, 802; Pub. L. 98–369, div. B, title III, §2338(c), July 18, 1984, 98 Stat. 1092;Pub. L. 99–272, title IX, §9201(c)(2), Apr. 7, 1986, 100 Stat. 171; Pub. L. 99–509, title IX, §9344(b)(1), Oct. 21, 1986, 100 Stat. 2042; Pub. L. 103–432, title I, §147(f)(1)(B), Oct. 31, 1994, 108 Stat. 4430; Pub. L. 105–33, title IV, §4581(b)(2), Aug. 5, 1997, 111 Stat. 465.)
 
 #### References in Text
 
@@ -148,7 +148,7 @@ Pub. L. 90–97, §3(a), Sept. 30, 1967, 81 Stat. 249, provided that: “In the 
 
 &emsp;“(2) shall terminate at the close of March 31, 1968, if he filed his notice of termination after December 31, 1967, and before April 1, 1968.
 
-> An individual whose coverage period terminated pursuant to paragraph (1) at the close of December 31, 1967, may, notwithstanding section 1837(b)(2) of such Act \[section 1395p(b)(2) of this title\], enroll in such program before April 1, 1968, and for purposes of sections 1838(a)(2)(E) \[subsec. (a)(2)(E) of this section\] and 1837(b)(2) of such Act \[section 1395p(b)(2) of this title\] such enrollment shall be deemed an enrollment undersection 1837(e) of such Act \[section 1395p(e) of this title\] and a second enrollment under such part.”
+> An individual whose coverage period terminated pursuant to paragraph (1) at the close of December 31, 1967, may, notwithstanding section 1837(b)(2) of such Act \[section 1395p(b)(2) of this title\], enroll in such program before April 1, 1968, and for purposes of sections 1838(a)(2)(E) \[subsec. (a)(2)(E) of this section\] and 1837(b)(2) of such Act \[section 1395p(b)(2) of this title\] such enrollment shall be deemed an enrollment under section 1837(e) of such Act \[section 1395p(e) of this title\] and a second enrollment under such part.”
 
 #### Extension of 1967 General Enrollment Period Through March 31, 1968
 

@@ -12,7 +12,7 @@ Only such funds held by the Secretary under the terms of the Indian Judgment Fun
 
 In approving such plans, the Secretary shall ensure—
 
-&emsp;(1) that the purpose and use of the judgment funds identified in the previously approved judgment fund plan will continue to be followed by the Indian tribe in the management of the judgment funds; and
+&emsp;(1) that the purpose and use of the judgment funds identified in the previously approvedjudgment fund plan will continue to be followed by the Indian tribe in the management of the judgment funds; and
 
 &emsp;(2) that only funds held for Indian tribes may be withdrawn and that any funds held for individual tribal members are not to be included in the plan.
 
@@ -24,5 +24,5 @@ The Indian Judgment Funds Use or Distribution Act, referred to in subsec. (b), p
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1300d–24 of this title.
+This section is referred to in sections 1300d–24, 1777c of this title.
 

@@ -18,9 +18,9 @@ Exception for Inflatable Boats.—An inflatable boat or a rigid inflatable boat,
 
 #### Prior Provisions
 
-A prior section 7309, added Pub. L. 97–252, title XI, §1127(a), Sept. 8, 1982, 96 Stat. 758; amended Pub. L. 98–473, title I, §101(h) \[title VIII, §8095\], Oct. 12, 1984, 98 Stat. 1904, 1941; Pub. L. 99–145, title XIII, §1303(a)(24)(A), Nov. 8, 1985, 99 Stat. 740; Pub. L. 100–180, div. A, title XI, §1103, Dec. 4, 1987, 101 Stat. 1146; Pub. L. 100–456, div. A, title XII, §1224(a), (b)(1), Sept. 29, 1988, 102 Stat. 2054;Pub. L. 101–189, div. A, title XVI, §1622(c)(8), Nov. 29, 1989, 103 Stat. 1604; Pub. L. 102–190, div. A, title X, §1017, Dec. 5, 1991, 105 Stat. 1459; Pub. L. 102–484, div. A, title X, §1012, Oct. 23, 1992, 106 Stat. 2483, related to restrictions on construction and repair of vessels in foreign shipyards, prior to repeal by Pub. L. 103–160, §824(b).
+A prior section 7309, added Pub. L. 97–252, title XI, §1127(a), Sept. 8, 1982, 96 Stat. 758; amended Pub. L. 98–473, title I, §101(h) \[title VIII, §8095\], Oct. 12, 1984, 98 Stat. 1904, 1941; Pub. L. 99–145, title XIII, §1303(a)(24)(A), Nov. 8, 1985, 99 Stat. 740; Pub. L. 100–180, div. A, title XI, §1103, Dec. 4, 1987, 101 Stat. 1146; Pub. L. 100–456, div. A, title XII, §1224(a), (b)(1), Sept. 29, 1988, 102 Stat. 2054; Pub. L. 101–189, div. A, title XVI, §1622(c)(8), Nov. 29, 1989, 103 Stat. 1604; Pub. L. 102–190, div. A, title X, §1017, Dec. 5, 1991, 105 Stat. 1459; Pub. L. 102–484, div. A, title X, §1012, Oct. 23, 1992, 106 Stat. 2483, related to restrictions on construction and repair of vessels in foreign shipyards, prior to repeal by Pub. L. 103–160, §824(b).
 
 #### Delegation of Authority
 
-For delegation of authority of President under subsec. (b) of this section, see section 3 of Ex. Ord. No. 12765, June 11, 1991, 56 F.R. 27401, set out as a note under section 113 of this title.
+For delegation of authority of President under subsec. (b) of this section, see section 3 of Ex. Ord. No.12765, June 11, 1991, 56 F.R. 27401, set out as a note under section 113 of this title.
 

@@ -66,9 +66,3 @@ In subsection (c), the words “and commissioned” are omitted as covered by th
 
 Section 42 of act Aug. 10, 1956, provided that: “The President is authorized to form the Philippine Scouts into such branches and tactical units as he may deem expedient, within the limit of strength prescribed by law, organized similarly to those of the Regular Army.”
 
-#### Cross References
-
-Chiefs of branches: appointment; duties, see section 3036 of this title.
-
-Engineer tactical units, see section 3074 of this title.
-

@@ -54,17 +54,15 @@ The provisions of this section shall not take effect until appropriations are sp
 
 (Pub. L. 102–242, title II, §232, Dec. 19, 1991, 105 Stat. 2308; Pub. L. 102–550, title XVI, §§1604(b)(1), 1605(a)(3), Oct. 28, 1992, 106 Stat. 4083, 4085; Pub. L. 102–558, title III, §§303(b)(1), (4), 305, Oct. 28, 1992, 106 Stat. 4224–4226; Pub. L. 104–208, div. A, title II, §2704(d)(16), Sept. 30, 1996, 110 Stat. 3009–495.)
 
-#### Amendment of Subsection (a)(1)
-
-<i>Pub. L. 104–208, div. A, title II, §2704(c), (d)(16), Sept. 30, 1996, 110 Stat. 3009–487, 3009–495, provided that, effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, subsection (a)(1) of this section is amended by striking “section 1817(b)(2)(H) of this title” and inserting “section 1817(b)(2)(G) of this title”.</i>
-
 #### Codification
 
-Section was enacted as part of the Bank Enterprise Act of 1991, and also as part of the Foreign Bank Supervision Enhancement Act of 1991 and as part of the Federal Deposit Insurance Corporation Improvement Act of 1991, and not as part of the Federal Deposit Insurance Act which comprises this chapter.
+Section was enacted as part of the Bank Enterprise Act of 1991, and also as part of the Foreign Bank Supervision Enhancement Act of 1991 and as part of the Federal Deposit Insurance Corporation Improvement Actof 1991, and not as part of the Federal Deposit Insurance Act which comprises this chapter.
 
 Section is comprised of section 232 of Pub. L. 102–242. Subsec. (b) of section 232 of Pub. L. 102–242 amended section 1817 of this title.
 
 #### Amendments
+
+1996—Subsec. (a)(1). Pub. L. 104–208, which directed substitution of “section 1817(b)(2)(G) of this title” for “section 1817(b)(2)(H) of this title”, was not executed. See Effective Date of 1996 Amendment note below.
 
 1992—Subsec. (a)(1). Pub. L. 102–558, §303(b)(4), substituted “section 1817(b)(2)(H)” for “section 1817(b)(10)”. Pub. L. 102–550, §1605(a)(3), which made an identical amendment, was repealed, effective Oct. 28, 1992, by Pub. L. 102–558, §305, set out as a Repeal of Duplicative Provisions note under section 1815 of this title.
 

@@ -30,3 +30,7 @@ In clause (1), the word “issued” is substituted for “granted” for consis
 
 Clause (3) is substituted for 49 App.:1358 (words after 3d comma) for consistency in the revised title.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in section 106 of this title.
+

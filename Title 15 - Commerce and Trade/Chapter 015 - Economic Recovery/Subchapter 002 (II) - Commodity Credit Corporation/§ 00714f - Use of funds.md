@@ -8,12 +8,6 @@ The Corporation is authorized to use in the conduct of its business all its fund
 
 For exception of functions of corporations of Department of Agriculture from transfer of functions to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, see Exceptions From Transfer of Functions note set out under section 712a of this title.
 
-#### Cross References
-
-Reimbursement of appropriations available for classing or grading agricultural commodities without charge from nonadministrative funds of the Corporation, see section 440 of Title 7, Agriculture.
-
-Transfer of nonadministrative funds of Commodity Credit Corporation for classing and grading purposes, see section 414a of Title 7.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in title 31 section 3902.

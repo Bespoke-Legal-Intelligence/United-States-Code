@@ -8,7 +8,7 @@ Each Hispanic-serving institution desiring to receive assistance under this subc
 
 #### (1) Applications required
 
-&emsp;Any institution which is eligible for assistance under this subchapter shall submit to the Secretary an application for assistance at such time, in such form, and containing such information, as may be necessary to enable the Secretary to evaluate the institution's need for assistance. Subject to the availability of appropriations to carry out this subchapter, the Secretary may approve an application for a grant under this subchapter only if the Secretary determines that—
+&emsp;Any institution which is eligible for assistance under this subchapter shall submit to the Secretary an application for assistance at such time, in such form, and containing such information, as may be necessary to enable the Secretary to evaluate the institution's need for assistance. Subject to the availabilityof appropriations to carry out this subchapter, the Secretary may approve an application for a grant under this subchapter only if the Secretary determines that—
 
 &emsp;&emsp;(A) the application meets the requirements of subsection (b) of this section; and
 

@@ -24,7 +24,7 @@ Except as otherwise provided, Secretary of State to have and exercise any author
 
 #### Expansion of Model Foreign Language Competence Posts
 
-Pub. L. 101–246, title I, §161, Feb. 16, 1990, 104 Stat. 46, as amended by Pub. L. 101–302, title III, §320(b)(3), May 25, 1990, 104 Stat. 247; Pub. L. 105–277, div. G, subdiv. A, title XXII, §2219(a)(1), Oct. 21, 1998, 112 Stat. 2681–817, provided that:
+Pub. L. 101–246, title I, §161, Feb. 16, 1990, 104 Stat. 46, as amended by Pub. L. 101–302, title III, §320(b)(3), May25, 1990, 104 Stat. 247; Pub. L. 105–277, div. G, subdiv. A, title XXII, §2219(a)(1), Oct. 21, 1998, 112 Stat. 2681–817, provided that:
 
 “(a)
 

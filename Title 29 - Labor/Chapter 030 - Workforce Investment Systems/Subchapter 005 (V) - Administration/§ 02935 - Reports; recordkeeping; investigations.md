@@ -124,3 +124,7 @@ In requiring entities to maintain records of costs by category under this chapte
 
 The Inspector General Act of 1978, referred to in subsec. (b)(3)(D), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
+#### Prior Provisions
+
+Provisions similar to this section were contained in section 1575 of this title prior to repeal by Pub. L. 105–220.
+

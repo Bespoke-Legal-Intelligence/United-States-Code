@@ -2,7 +2,7 @@
 
 Within 24 months after November 1, 1988, the Administrator of the Agency for Toxic Substances and Disease Registry shall prepare for Congress a report on the health effects of medical waste, including each of the following—
 
-&emsp;(1) A description of the potential for infection or injury from the segregation, handling, storage, treatment, or disposal of medical wastes.
+&emsp;(1) A description of the potential for infection or injury from the segregation, handling,storage, treatment, or disposal of medical wastes.
 
 &emsp;(2) An estimate of the number of people injured or infected annually by sharps, and the nature and seriousness of those injuries or infections.
 

@@ -30,7 +30,7 @@
 
 1988—Pub. L. 100–456, §633(a)(3)(A), substituted “Practical military training” for “Field training; practice cruises” in section catchline.
 
-Subsec. (a). Pub. L. 100–456, §633(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) readas follows: “For the further practical instruction of members of the program, the Secretary of the military department concerned may prescribe and conduct field training and practice cruises (other than field training and practice cruises prescribed under section 2104(b)(6)(B) of this title) which members must complete before they are commissioned.”
+Subsec. (a). Pub. L. 100–456, §633(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “For the further practical instruction of members of the program, the Secretary of the military department concerned may prescribe and conduct field training and practice cruises (other than field training and practice cruises prescribed under section 2104(b)(6)(B) of this title) which members must complete before they are commissioned.”
 
 Subsec. (b). Pub. L. 100–456, §633(a)(2), inserted “, with respect to practical military training prescribed under this section and field training and practice cruises prescribed under section 2104(b)(6) of this title,” before “may” in introductory provisions, and substituted “such training” for “field training” in pars. (1) to (3).
 

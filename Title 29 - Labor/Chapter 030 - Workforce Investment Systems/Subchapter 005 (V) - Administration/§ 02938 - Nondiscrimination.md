@@ -32,7 +32,7 @@ Whenever the Secretary finds that a State or other recipient of funds under this
 
 #### (c) Action of Attorney General
 
-When a matter is referred to the Attorney General pursuant to subsection (b)(1) of this section, or whenever the Attorney General has reason to believe that a State or other recipient of funds under this chapter is engaged in a pattern or practice of discrimination in violation of a provision of law referred to in subsection (a)(1) of this section or in violation of paragraph (2), (3), (4), or (5) of subsection (a) of this section, the Attorney General may bring a civil action in any appropriate district court of the UnitedStates for such relief as may be appropriate, including injunctive relief.
+When a matter is referred to the Attorney General pursuant to subsection (b)(1) of this section, or whenever the Attorney General has reason to believe that a State or other recipient of funds under this chapter is engaged in a pattern or practice of discrimination in violation of a provision of law referred to in subsection (a)(1) of this section or in violation of paragraph (2), (3), (4), or (5) of subsection (a) of this section, the Attorney General may bring a civil action in any appropriate district court of the United States for such relief as may be appropriate, including injunctive relief.
 
 #### (d) Job Corps
 
@@ -53,6 +53,10 @@ The Education Amendments of 1972, referred to in subsec. (a)(1), (2), is Pub. L.
 The Civil Rights Act of 1964, referred to in subsec. (a)(1), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
 This Act, referred to in subsec. (a)(1), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended, known as the Workforce Investment Act of 1998. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+
+#### Prior Provisions
+
+Provisions similar to this section were contained in section 1577 of this title prior to repeal by Pub. L. 105–220.
 
 #### Section Referred to in Other Sections
 

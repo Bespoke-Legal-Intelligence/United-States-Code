@@ -92,7 +92,7 @@ Annual Report.—(1) The task force shall submit to the Secretary an annual repo
 
 “(f)
 
-Membership.—(1) The task force shall consist of not more than 24 members, to be appointed by the Secretary of Defense. Members shall be appointed from each of the Army, Navy, Air Force, and Marine Corps and shall include an equal number of Department of Defense personnel (military or civilian) and persons from outside the Department of Defense. Members appointed from outside the Department of Defense may be appointed from other Federal departments and agencies, from State and local agencies, or from the private sector.
+Membership.—(1) The task force shall consist of not more than 24 members, to be appointed by the Secretary of Defense. Members shall be appointed from each of the Army, Navy, Air Force, and Marine Corpsand shall include an equal number of Department of Defense personnel (military or civilian) and persons from outside the Department of Defense. Members appointed from outside the Department of Defense may be appointed from other Federal departments and agencies, from State and local agencies, or from the private sector.
 
 “(2) The Secretary shall ensure that the membership of the task force includes a judge advocate representative from each of the Army, Navy, Air Force, and Marine Corps.
 
@@ -150,7 +150,7 @@ Purpose.—The purpose of this section is to provide a program for the establish
 
 Program.—The Secretary of Defense shall establish a program to provide funds and other incentives to commanders of military installations for the following purposes:
 
-&emsp;“(1) To improve coordination between military and civilian law enforcement authorities in policies,training, and responses to, and tracking of, cases involving military domestic violence.
+&emsp;“(1) To improve coordination between military and civilian law enforcement authorities in policies, training, and responses to, and tracking of, cases involving military domestic violence.
 
 &emsp;“(2) To develop, implement, and coordinate with appropriate civilian authorities tracking systems (A) for protective orders issued to or on behalf of members of the Armed Forces by civilian courts, and (B) for orders issued by military commanders to members of the Armed Forces ordering them not to have contact with a dependent.
 

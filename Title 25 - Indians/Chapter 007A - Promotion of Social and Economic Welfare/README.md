@@ -15,6 +15,7 @@
 | (c) | Persons who may initiate civil actions. |
 | (d) | Definitions. |
 | (e) | Severability. |
+| (f) | Regulations. |
 | [305f.](%C2%A7%2000305f%20-%20Indian%20Arts%20and%20Crafts%20Board%20art%20collection.md) | Indian Arts and Crafts Board art collection. |
 | (a) | Transfer of art collection and costs. |
 | (b) | Retention of permanent license to use of images. |
@@ -27,12 +28,6 @@
 | [310\.](%C2%A7%2000310%20-%20Institute%20of%20American%20Indian%20and%20Alaska%20Native%20Culture%20and%20Arts%20Development.md) | Institute of American Indian and Alaska Native Culture and Arts Development. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Cross References
-
-Navajo and Hopi Indian Tribes, rehabilitation program, see section 631 et seq. of this title.
-
-Promotion of welfare of Indians in Oklahoma, see section 501 et seq. of this title.
 
 
 ---

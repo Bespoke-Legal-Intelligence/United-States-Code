@@ -4,7 +4,7 @@
 
 (b)(1) Subject to paragraph (2) and for purposes of subsection (a) of this section, that which may or shall be imposed through judicial or administrative action under the law of a State, territory, possession, or district, for a conviction for operating a motor vehicle under the influence of a drug or alcohol, shall be considered to be a punishment provided by that law. Any limitation on the right or privilege to operate a motor vehicle imposed under this subsection shall apply only to the special maritime and territorial jurisdiction of the United States.
 
-(2)(A) In addition to any term of imprisonment provided for operating a motor vehicle under the influence of a drug or alcohol imposed under the law of a State, territory, possession, or district, the punishment for such an offense under this section shall include an additional term of imprisonment of not more than 1 year, or if seriousbodily injury of a minor is caused, not more than 5 years, or if death of a minor is caused, not more than 10 years, and an additional fine under this title, or both, if—
+(2)(A) In addition to any term of imprisonment provided for operating a motor vehicle under the influence of a drug or alcohol imposed under the law of a State, territory, possession, or district, the punishment for such an offense under this section shall include an additional term of imprisonment of not more than 1 year, or if serious bodily injury of a minor is caused, not more than 5 years, or if death of a minor is caused, not more than 10 years, and an additional fine under this title, or both, if—
 
 &emsp;(i) a minor (other than the offender) was present in the motor vehicle when the offense was committed; and
 
@@ -18,7 +18,7 @@
 
 #### Historical and Revision Notes
 
-Based on title 18, U.S.C., 1940 ed., §468 (Mar. 4, 1909, ch. 321, §289, 35 Stat. 1145; June 15, 1933, ch. 85, 48 Stat. 152; June 20, 1935, ch. 284, 49 Stat. 394; June 6, 1940, ch. 241, 54 Stat. 234).
+Based on title 18, U.S.C., 1940 ed., §468 (Mar. 4, 1909, ch. 321, §289, 35 Stat. 1145; June 15, 1933, ch. 85, 48 Stat.152; June 20, 1935, ch. 284, 49 Stat. 394; June 6, 1940, ch. 241, 54 Stat. 234).
 
 Act March 4, 1909, §289 used the words “now in force” when referring to the laws of any State, organized Territory or district, to be considered in force.
 
@@ -47,6 +47,10 @@ Subsec. (c). Pub. L. 104–132, §901(b)(2), added subsec. (c).
 #### Effective Date of 1996 Amendment
 
 Section 604(d) of Pub. L. 104–294 provided that: “The amendments made by this section \[amending this section, sections 36, 112, 113, 241, 242, 245, 351, 511, 542, 544, 545, 668, 704, 709, 794, 1014, 1030, 1112, 1169, 1512, 1515, 1516, 1751, 1956, 1961, 2114, 2311, 2339A, 2423, 2511, 2512, 2721, 3059A, 3561, 3582, 3592, and 5037 of this title, section 802 of Title 21, Food and Drugs, sections 540A and 991 of Title 28, Judiciary and Judicial Procedure, and sections 3631, 5633, 10604, and 14011 of Title 42, The Public Health and Welfare, and amending provisions set out as notes under sections 1001, 1169, and 2325 of this title and section 994 of Title 28\] shall take effect on the date of enactment of Public Law 103–322 \[Sept. 13, 1994\].”
+
+#### Territorial Sea of United States
+
+For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
 
 #### Section Referred to in Other Sections
 

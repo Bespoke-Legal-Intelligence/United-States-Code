@@ -11,6 +11,7 @@
 | [70107\.](%C2%A7%2070107%20-%20Effective%20periods%2C%20and%20modifications%2C%20suspensions%2C%20and%20revocations%2C%20of%20licenses.md) | Effective periods, and modifications, suspensions, and revocations, of licenses. |
 | [70108\.](%C2%A7%2070108%20-%20Prohibition%2C%20suspension%2C%20and%20end%20of%20launches%2C%20operation%20of%20launch%20sites%20and%20reentry%20sites%2C%20and%20reentries.md) | Prohibition, suspension, and end of launches, operation of launch sites and reentry sites, and reentries. |
 | [70109\.](%C2%A7%2070109%20-%20Preemption%20of%20scheduled%20launches%20or%20reentries.md) | Preemption of scheduled launches or reentries. |
+| [70109a.](%C2%A7%2070109a%20-%20Space%20advertising.md) | Space advertising. |
 | [70110\.](%C2%A7%2070110%20-%20Administrative%20hearings%20and%20judicial%20review.md) | Administrative hearings and judicial review. |
 | [70111\.](%C2%A7%2070111%20-%20Acquiring%20United%20States%20Government%20property%20and%20services.md) | Acquiring United States Government property and services. |
 | [70112\.](%C2%A7%2070112%20-%20Liability%20insurance%20and%20financial%20responsibility%20requirements.md) | Liability insurance and financial responsibility requirements. |
@@ -20,13 +21,17 @@
 | [70116\.](%C2%A7%2070116%20-%20Consultation.md) | Consultation. |
 | [70117\.](%C2%A7%2070117%20-%20Relationship%20to%20other%20executive%20agencies%2C%20laws%2C%20and%20international%20obligations.md) | Relationship to other executive agencies, laws, and international obligations. |
 | [70118\.](%C2%A7%2070118%20-%20User%20fees.md) | User fees. |
-| [70119\.](%C2%A7%2070119%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [70119\.](%C2%A7%2070119%20-%20Office%20of%20Commercial%20Space%20Transportation.md) | Office of Commercial Space Transportation. |
 | [70120\.](%C2%A7%2070120%20-%20Regulations.md) | Regulations. |
 | [70121\.](%C2%A7%2070121%20-%20Report%20to%20Congress.md) | Report to Congress. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2000—Pub. L. 106–405, §3(b), Nov. 1, 2000, 114 Stat. 1752, substituted “Office of Commercial Space Transportation” for “Authorization of appropriations” in item 70119.
+
+Pub. L. 106–391, title III, §322(d), Oct. 30, 2000, 114 Stat. 1598, added item 70109a.
 
 1998—Pub. L. 105–303, title I, §102(a)(1), Oct. 28, 1998, 112 Stat. 2846, substituted “launches, operations, and reentries” for “launches and operations” in item 70104, “launches, operation of launch sites and reentry sites, and reentries” for “launches and operation of launch sites” in item 70108, inserted “or reentries” after “scheduled launches” in item 70109, and added items 70120 and 70121.
 
@@ -50,6 +55,7 @@ This chapter is referred to in title 15 section 5801; title 42 section 2458c.
 - [&sect; 70107 - Effective periods, and modifications, suspensions, and revocations, of licenses](%C2%A7%2070107%20-%20Effective%20periods%2C%20and%20modifications%2C%20suspensions%2C%20and%20revocations%2C%20of%20licenses.md)
 - [&sect; 70108 - Prohibition, suspension, and end of launches, operation of launch sites and reentry sites, and reentries](%C2%A7%2070108%20-%20Prohibition%2C%20suspension%2C%20and%20end%20of%20launches%2C%20operation%20of%20launch%20sites%20and%20reentry%20sites%2C%20and%20reentries.md)
 - [&sect; 70109 - Preemption of scheduled launches or reentries](%C2%A7%2070109%20-%20Preemption%20of%20scheduled%20launches%20or%20reentries.md)
+- [&sect; 70109a - Space advertising](%C2%A7%2070109a%20-%20Space%20advertising.md)
 - [&sect; 70110 - Administrative hearings and judicial review](%C2%A7%2070110%20-%20Administrative%20hearings%20and%20judicial%20review.md)
 - [&sect; 70111 - Acquiring United States Government property and services](%C2%A7%2070111%20-%20Acquiring%20United%20States%20Government%20property%20and%20services.md)
 - [&sect; 70112 - Liability insurance and financial responsibility requirements](%C2%A7%2070112%20-%20Liability%20insurance%20and%20financial%20responsibility%20requirements.md)
@@ -59,6 +65,6 @@ This chapter is referred to in title 15 section 5801; title 42 section 2458c.
 - [&sect; 70116 - Consultation](%C2%A7%2070116%20-%20Consultation.md)
 - [&sect; 70117 - Relationship to other executive agencies, laws, and international obligations](%C2%A7%2070117%20-%20Relationship%20to%20other%20executive%20agencies%2C%20laws%2C%20and%20international%20obligations.md)
 - [&sect; 70118 - User fees](%C2%A7%2070118%20-%20User%20fees.md)
-- [&sect; 70119 - Authorization of appropriations](%C2%A7%2070119%20-%20Authorization%20of%20appropriations.md)
+- [&sect; 70119 - Office of Commercial Space Transportation](%C2%A7%2070119%20-%20Office%20of%20Commercial%20Space%20Transportation.md)
 - [&sect; 70120 - Regulations](%C2%A7%2070120%20-%20Regulations.md)
 - [&sect; 70121 - Report to Congress](%C2%A7%2070121%20-%20Report%20to%20Congress.md)

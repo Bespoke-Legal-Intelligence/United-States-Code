@@ -56,7 +56,7 @@ Section 408(c) of Pub. L. 95–598, as amended, which provided for the repeal of
 
 #### Amendments
 
-1986—Subsec. (a). Pub. L. 99–554, §111(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Attorney General shall appoint one United States trustee for each of the following districts or groups of districts:
+<b>1986</b>—Subsec. (a). Pub. L. 99–554, §111(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Attorney General shall appoint one United States trustee for each of the following districts or groups of districts:
 
 &emsp;“(1) District of Maine, District of New Hampshire, District of Massachusetts, and District of Rhode Island.
 
@@ -84,13 +84,13 @@ Subsec. (c). Pub. L. 99–554, §111(c), struck out “for cause” after “rem
 
 #### Effective Date of 1986 Amendment; Transition and Administrative Provisions
 
-Title III of Pub. L. 99–554, as amended by Pub. L. 101–650, title III, §317(a), (c), Dec. 1, 1990, 104 Stat. 5115, 5116; Pub. L. 103–65, §1, Aug. 6, 1993, 107 Stat. 311, provided that:
+Title III of Pub. L. 99–554, as amended by Pub. L. 101–650, title III, §317(a), (c), Dec. 1, 1990, 104 Stat. 5115, 5116; Pub. L. 103–65, §1, Aug. 6, 1993, 107 Stat. 311; Pub. L. 106–518, title V, §501, Nov. 13, 2000, 114 Stat. 2421, provided that:
 
 #### “SEC. 301. INCUMBENT UNITED STATES TRUSTEES.
 
 “(a)
 
-Area for Which Appointed.—Notwithstanding any paragraph of section 581(a) of title 28, United States Code, as in effect before the effective date of this Act, a United States trustee serving in such office on the effective date of this Act shall serve the remaining term of such office as United States trustee for the region specified in a paragraph of such section, as amended by this Act, that includes the site at which the primary official station of the United States trustee is located immediately before the effective date of this Act.
+Area for Which Appointed.—Notwithstanding any paragraph of section 581(a) of title 28, UnitedStates Code, as in effect before the effective date of this Act, a United States trustee serving in such office on the effective date of this Act shall serve the remaining term of such office as United States trustee for the region specified in a paragraph of such section, as amended by this Act, that includes the site at which the primary official station of the United States trustee is located immediately before the effective date of this Act.
 
 “(b)
 
@@ -196,7 +196,7 @@ Certain remaining judicial districts not currently served by united states trust
 
 &emsp;&emsp;“(ii) apply to cases while pending in such district before,
 
-> &emsp;the expiration of the 2-year period beginning on the effective date of this Act or of the 30-day period beginning on the date the Attorney General certifiesunder section 303 of this Act the region specified in a paragraph of section 581(a) of title 28, United States Code, as amended by section 111(a) of this Act, that includes such district, whichever occurs first.
+> &emsp;the expiration of the 2-year period beginning on the effective date of this Act or of the 30-day period beginning on the date the Attorney General certifies under section 303 of this Act the region specified in a paragraph of section 581(a) of title 28, United States Code, as amended by section 111(a) of this Act, that includes such district, whichever occurs first.
 
 &emsp;“(B) Subparagraph (A) applies to the following:
 
@@ -254,7 +254,7 @@ Judicial districts for the states of alabama and north carolina.—(A) Notwithst
 
 &emsp;&emsp;“(ii) apply to cases while pending in such district before,
 
-> &emsp;such district elects to be included in a bankruptcy region established in section 581(a) of title 28, United States Code, as amended by section 111(a) of this Act, or October 1, 2002, whichever occurs first, except that the amendment to section 105(a) of title 11, United States Code, shall become effective as of the date of the enactment of the Federal Courts Study Committee Implementation Act of 1990 \[Dec. 1, 1990\].
+> &emsp;such district elects to be included in a bankruptcy region established in section 581(a) of title 28, United States Code, as amended by section 111(a) of this Act, except that the amendment to section 105(a) of title 11, United States Code, shall become effective as of the date of the enactment of the Federal Courts Study Committee Implementation Act of 1990 \[Dec. 1, 1990\].
 
 &emsp;“(B) Any election under subparagraph (A) shall be made upon a majority vote of the chief judge of such district and each bankruptcy judge in such judicial district in favor of such election.
 
@@ -272,9 +272,9 @@ Judicial districts for the states of alabama and north carolina.—(A) Notwithst
 
 &emsp;&emsp;“(I) commenced before the effective date of this Act, and
 
-&emsp;&emsp;“(II) pending in a judicial district in the State of Alabama or the State of North Carolina before any election made under subparagraph (A) by such district becomes effective or October 1, 2002, whichever occurs first,
+&emsp;&emsp;“(II) pending in a judicial district in the State of Alabama or the State of North Carolina before any election made under subparagraph (A) by such district becomes effective,
 
-> &emsp;the amendments made by section 113 \[amending section 586 of this title\] and subtitle A of title II of this Act, and section 1930(a)(6) of title 28 of the United States Code (as added by section 117(4) of this Act), shall not apply until October 1, 2003, or the expiration of the 1-year period beginning on the date such election becomes effective, whichever occurs first.
+> &emsp;the amendments made by section 113 \[amending section 586 of this title\] and subtitle A of title II of this Act, and section 1930(a)(6) of title 28 of the United States Code (as added by section 117(4) of this Act), shall not apply until the expiration of the 1-year period beginning on the date such election becomes effective.
 
 &emsp;“(ii) For purposes of clause (i), the amendments made by section 113 and subtitle A of title II of this Act, and section 1930(a)(6) of title 28 of the United States Code (as added by section 117(4) of this Act), shall not apply with respect to a case under chapter 7, 11, 12, or 13 of title 11, United States Code, if—
 
@@ -282,7 +282,7 @@ Judicial districts for the states of alabama and north carolina.—(A) Notwithst
 
 &emsp;&emsp;“(II) a plan is confirmed under section 1129, 1225, or 1325 of such title,
 
-> &emsp;before October 1, 2003, or the expiration of the 1-year period beginning on the date such election becomes effective, whichever occurs first.
+> &emsp;before the expiration of the 1-year period beginning on the date such election becomes effective.
 
 &emsp;“(G) Notwithstanding section 589a of title 28, United States Code, as added by section 115 of this Act, funds collected as a result of the amendments made by section 117 of this Act \[amending section 1930 of this title\] in a judicial district in the State of Alabama or the State of North Carolina under section 1930(a) of title 28, United States Code, before the date the amendments made by subtitle A of title II of this Act take effect in such district shall be deposited in the general receipts of the Treasury.
 
@@ -312,7 +312,7 @@ In general.—Subject to paragraph (2), with respect to cases under chapters 7, 
 
 &emsp;“(2)
 
-Amendments inapplicable.—For purposes of paragraph (1), the amendments made by section 113 and subtitle A of title II of this Act, and section 1930(a)(6) of title 28 of the United States Code (as added by section 117(4) of this Act), shall not apply with respect to a case under chapter 7, 11, 12, or 13 of title 11, United States Code, if—
+Amendments inapplicable.—For purposes of paragraph (1), the amendments made by section 113 and subtitle A of title II of this Act, and section 1930(a)(6) of title 28 of the United States Code (asadded by section 117(4) of this Act), shall not apply with respect to a case under chapter 7, 11, 12, or 13 of title 11, United States Code, if—
 
 &emsp;&emsp;“(A) the trustee in the case files the final report and account of administration of the estate, required under section 704 of such title, or
 
@@ -502,7 +502,7 @@ Security.—Access provided under subsection (f) to an entity or an individual s
 
 #### “SEC. 311. CASES PENDING UNDER THE BANKRUPTCY ACT.
 
-“At the end of one calendar year following the date the amendments made by subtitle A of title II of this Act \[§§201 to 231 of Pub. L. 99–554, see Tables for classification\] take effect in a district in which any case is still pending under the Bankruptcy Act \[see 11 U.S.C. notes prec. 101\], the district court shall withdraw the reference of any such case and, after notice and a hearing, determine the status of the case. Such case shall be remanded to the bankruptcy judge with such instructions as are necessary for the prompt closing of the case and with a requirement that a progress report on the case be provided by the bankruptcy judge after such interval as the district court deems appropriate.”
+“At the end of one calendar year following the date the amendments made by subtitle A of title II of this Act \[§§201 to 231 of Pub. L. 99–554, see Tables for classification\] take effect in a district in which any case is still pending under the Bankruptcy Act \[see 11 U.S.C. notes prec. 101\], the district court shall withdraw the reference of any such case and, after notice and a hearing, determine the status of the case. Such case shallbe remanded to the bankruptcy judge with such instructions as are necessary for the prompt closing of the case and with a requirement that a progress report on the case be provided by the bankruptcy judge after such interval as the district court deems appropriate.”
 
 #### Effective Date
 
@@ -514,5 +514,5 @@ Section 1 of Pub. L. 99–554 provided: “That this Act \[enacting section 589a
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 585 of this title.
+This section is referred to in sections 585, 1930 of this title.
 

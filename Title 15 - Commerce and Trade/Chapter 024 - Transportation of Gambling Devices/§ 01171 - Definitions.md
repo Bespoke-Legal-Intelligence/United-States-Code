@@ -14,7 +14,7 @@ As used in this chapter—
 
 (c) The term “possession of the United States” means any possession of the United States which is not named in subsection (b) of this section.
 
-(d) The term “interstate or foreign commerce” means commerce (1) between any State or possession of the United States and any place outside of such State or possession, or (2) between points in the same State or possession of the United States but through any place outside thereof.
+(d) The term “interstate or foreign commerce” means commerce (1) between any State or possession of the United States and any place outside of such State or possession, or (2) between points in the same State or possession of theUnited States but through any place outside thereof.
 
 (e) The term “intrastate commerce” means commerce wholly within one State or possession of the United States.
 
@@ -47,10 +47,6 @@ Act Jan. 2, 1951, which enacted this chapter, is popularly known as the “Gambl
 #### Separability
 
 Section 8 of act Jan. 2, 1951, provided that: “If any provision of this Act \[this chapter\] or the application thereof to any person or circumstance is held invalid, such invalidity shall not affect other provisions or applications of the Act \[this chapter\] which can be given effect without the invalid provision or application, and to this end the provisions of this Act \[this chapter\] are declared to be severable.”
-
-#### Cross References
-
-Numbering of gambling devices, see section 1173 of this title.
 
 #### Section Referred to in Other Sections
 

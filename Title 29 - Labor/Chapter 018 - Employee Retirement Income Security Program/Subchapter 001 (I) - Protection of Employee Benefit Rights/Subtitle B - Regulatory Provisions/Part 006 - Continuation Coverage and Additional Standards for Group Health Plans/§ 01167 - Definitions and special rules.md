@@ -8,7 +8,7 @@ For purposes of this part—
 
 #### (2) Covered employee
 
-&emsp;The term “covered employee” means an individual who is (or was) provided coverage under a group health plan by virtue of the performance of services by the individual for 1 or more persons maintaining the plan (including as an employee defined in section 401(c)(1) of title 26).
+&emsp;The term “covered employee” means an individual who is (or was) provided coverage under a group health plan by virtue of the performance of services by the individual for 1 ormore persons maintaining the plan (including as an employee defined in section 401(c)(1) of title 26).
 
 #### (3) Qualified beneficiary
 

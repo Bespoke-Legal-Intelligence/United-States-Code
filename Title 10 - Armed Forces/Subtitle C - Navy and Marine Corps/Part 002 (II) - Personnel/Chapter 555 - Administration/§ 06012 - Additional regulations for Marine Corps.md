@@ -20,7 +20,3 @@ R.S. 1620.
 
 The words “such” and “as he may deem expedient” are omitted as surplusage.
 
-#### Cross References
-
-Uniform Code of Military Justice, see section 801 et seq. of this title.
-

@@ -44,7 +44,7 @@ An application submitted under section 12582 of this title shall also include an
 
 &emsp;&emsp;(A) arrange for an independent evaluation of any national service program carried out using assistance provided to the applicant under section 12571 of this title or, with the approval of the Corporation, conduct an internal evaluation of the program;
 
-&emsp;&emsp;(B) apply measurable performance goals and evaluation methods (such as the use ofsurveys of participants and persons served), which are to be used as part of such evaluation to determine the impact of the program—
+&emsp;&emsp;(B) apply measurable performance goals and evaluation methods (such as the use of surveys of participants and persons served), which are to be used as part of such evaluation to determine the impact of the program—
 
 &emsp;&emsp;&emsp;(i) on communities and persons served by the projects performed by the program;
 

@@ -1,6 +1,6 @@
 ### §512. Approval of paper contracts; time for performance; bonds
 
-A contract for furnishing paper is not valid until approved by the Joint Committee on Printing. The award of a contract for furnishing paper shall designate a reasonable time for itsperformance. The contractor shall give bond in an amount fixed and approved by the Committee.
+A contract for furnishing paper is not valid until approved by the Joint Committee on Printing. The award of a contract for furnishing paper shall designate a reasonable time for its performance. The contractor shall give bond in an amount fixed and approved by the Committee.
 
 (Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1244.)
 

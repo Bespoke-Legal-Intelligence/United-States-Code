@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(C) the enactment of such bill or resolution in the form recommended in such conference report,
 
-> &emsp;would cause the amount of the deficit for such fiscal year to exceed the maximum deficit amount for such fiscal year, unless the low-growth report submitted under section 904 of this title projects negative real economic growth for such fiscal year, or for each of anytwo consecutive quarters during such fiscal year.
+> &emsp;would cause the amount of the deficit for such fiscal year to exceed the maximum deficit amount for such fiscal year, unless the low-growth report submitted under section 904 of this title projects negative real economic growth for such fiscal year, or for each of any two consecutive quarters during such fiscal year.
 
 #### (6) Treatment of certain amendments
 

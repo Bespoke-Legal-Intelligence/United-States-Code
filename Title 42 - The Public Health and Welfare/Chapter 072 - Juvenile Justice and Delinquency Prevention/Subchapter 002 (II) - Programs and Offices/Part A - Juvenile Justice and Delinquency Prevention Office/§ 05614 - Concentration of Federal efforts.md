@@ -56,7 +56,7 @@ All functions of the Administrator under this subchapter shall be coordinated as
 
 #### (i) Annual juvenile delinquency development statements of other agencies; procedure; contents; review by Administrator
 
-(1) The Administrator shall require through appropriate authority each Federal agency which administers a Federal juvenile delinquency program to submit annually to the Council a juvenile delinquency development statement. Such statement shall be in addition to any information, report, study, or surveywhich the Administrator may require under subsection (c) of this section.
+(1) The Administrator shall require through appropriate authority each Federal agency which administers a Federal juvenile delinquency program to submit annually to the Council a juvenile delinquency development statement. Such statement shall be in addition to any information, report, study, or survey which the Administrator may require under subsection (c) of this section.
 
 (2) Each juvenile delinquency development statement submitted to the Administrator under paragraph (1) shall contain such information, data, and analyses as the Administrator may require. Such analyses shall include an analysis of the extent to which the juvenile delinquency program of the Federal agency submitting such development statement conforms with and furthers Federal juvenile delinquency prevention and treatment goals and policies.
 
@@ -80,7 +80,7 @@ Subsec. (b)(5). Pub. L. 100–690, §7253(b)(1), amended par. (5) generally. Pri
 
 Subsec. (b)(6), (7). Pub. L. 100–690, §7253(b)(2), (3), redesignated par. (7) as (6) and struck out former par. (6) which read as follows: “provide technical assistance and training assistance to Federal, State, and local governments, courts, public and private agencies, institutions, and individuals, in the planning, establishment, funding, operation, or evaluation of juvenile delinquency programs; and”.
 
-Subsec. (c). Pub. L. 100–690, §7253(c)(1), (3), redesignated subsec. (f) as (c) and struck out former subsec. (c) which read as follows: “The President shall, no later than ninety days after receiving each annual report under subsection (b)(5) of this section, submit a report to the Congress and to the Council containing a detailed statement of any action taken or anticipated with respect to recommendations made by each annual report.”
+Subsec. (c). Pub. L. 100–690, §7253(c)(1), (3), redesignated subsec. (f) as (c) and struck out former subsec. (c) which read as follows: “The President shall, no later than ninety days after receiving each annual reportunder subsection (b)(5) of this section, submit a report to the Congress and to the Council containing a detailed statement of any action taken or anticipated with respect to recommendations made by each annual report.”
 
 Subsec. (d). Pub. L. 100–690, §7253(c)(1), (3), redesignated subsec. (g) as (d) and struck out former subsec. (d) which read as follows:
 
@@ -96,7 +96,7 @@ Subsec. (i). Pub. L. 100–690, §7253(c)(2), (3), redesignated subsec. (<i>l</i
 
 Subsecs. (j) to (<i>l</i>). Pub. L. 100–690, §7253(c)(3), redesignated subsecs. (j) to (<i>l</i>) as (g) to (i), respectively.
 
-Subsec. (m). Pub. L. 100–690, §7253(c)(4), struck out subsec. (m) which read as follows: “To carry out thepurposes of this section, there is authorized to be appropriated for each fiscal year an amount which does not exceed 7.5 percent of the total amount appropriated to carry out this subchapter.”
+Subsec. (m). Pub. L. 100–690, §7253(c)(4), struck out subsec. (m) which read as follows: “To carry out the purposes of this section, there is authorized to be appropriated for each fiscal year an amount which does not exceed 7.5 percent of the total amount appropriated to carry out this subchapter.”
 
 1984—Subsec. (a). Pub. L. 98–473, §622(a), substituted “the functions of the Administrator” for “his functions”.
 
@@ -168,7 +168,7 @@ Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub.
 
 #### Effective Date
 
-Section effective Sept. 7, 1974, except that subsec. (b)(5), (6) effective at close of thirty-first day of twelfth calendar month of 1974, and subsec. (<i>l</i>) effective at close of thirtieth day of eleventh calendar month of 1976, see section 263(a), (b) of Pub. L. 93–415, set out as a note under section 5601 of this title.
+Section effective Sept. 7, 1974, except that subsec. (b)(5), (6) effective at close of thirty-first day of twelfthcalendar month of 1974, and subsec. (<i>l</i>) effective at close of thirtieth day of eleventh calendar month of 1976, see section 263(a), (b) of Pub. L. 93–415, set out as a note under section 5601 of this title.
 
 #### Termination of Advisory Committees
 

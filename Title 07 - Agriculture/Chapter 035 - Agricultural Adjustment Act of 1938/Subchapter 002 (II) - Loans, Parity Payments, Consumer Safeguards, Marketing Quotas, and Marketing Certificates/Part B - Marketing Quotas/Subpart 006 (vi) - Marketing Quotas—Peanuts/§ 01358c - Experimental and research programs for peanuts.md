@@ -6,7 +6,7 @@ Notwithstanding any other provision of this chapter, the Secretary may permit a 
 
 #### (b) Quantity
 
-The quantity of the quota allocated to an institution under this section shall not exceed thequantity of the quota held by each such institution during the 1985 crop year, except that the total quantity allocated to all institutions in a State shall not exceed 1/10 of 1 percent of the State's basic quota.
+The quantity of the quota allocated to an institution under this section shall not exceed the quantity of the quota held by each such institution during the 1985 crop year, except that the total quantity allocated to all institutions in a State shall not exceed 1/10 of 1 percent of the State's basic quota.
 
 #### (c) Limitation
 
@@ -22,7 +22,7 @@ Notwithstanding any other provision of law, this section shall be effective only
 
 Act of May 8, 1914 (38 Stat. 372, chapter 79; 7 U.S.C. 341 et seq.), referred to in subsec. (a), is known as the “Smith-Lever Act”, and also known as the “Agricultural Work Extension Act”, which is classified generally to subchapter IV (§341 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 341 of this title and Tables.
 
-Act of August 30, 1890 (26 Stat. 419, chapter 841; 7 U.S.C. 321 et seq.), referred to in subsec. (a), is popularly known as the “Agricultural College Act of 1890” and also as the “Second Morrill Act”, which is classified generally to subchapter II (§321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
+Act of August 30, 1890 (26 Stat. 419, chapter 841; 7 U.S.C. 321 et seq.), referred to in subsec. (a), is popularly known as the “Agricultural College Act of 1890” and also as the “Second Morrill Act”, which is classified generally to subchapter II (§321 et seq.) of chapter13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
 
 #### Amendments
 

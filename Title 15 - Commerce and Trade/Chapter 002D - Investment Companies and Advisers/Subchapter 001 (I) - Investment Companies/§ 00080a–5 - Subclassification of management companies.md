@@ -28,17 +28,7 @@ A registered diversified company which at the time of its qualification as such 
 
 #### Transfer of Functions
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman ofsuch Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
-#### Cross References
-
-Acquisition of securities by registered investment company deemed investment in an investment company, see section 80a–12 of this title.
-
-Registration statement, subclassification to be included, see section 80a–8 of this title.
-
-Value as to assets of registered investment companies, definition of, see section 80a–2 of this title.
-
-Vote required for change in subclassification, see section 80a–13 of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
 #### Section Referred to in Other Sections
 

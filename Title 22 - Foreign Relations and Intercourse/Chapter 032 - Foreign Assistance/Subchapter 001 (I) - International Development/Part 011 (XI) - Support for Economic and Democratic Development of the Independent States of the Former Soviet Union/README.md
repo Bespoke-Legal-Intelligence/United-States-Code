@@ -2,7 +2,7 @@ Part XI—Support for Economic and Democratic Development of the Independent Sta
 
 #### Part Referred to in Other Sections
 
-This part is referred to in sections 2296e, 5813, 5821, 5823, 5828, 5841, 6591 of this title.
+This part is referred to in sections 2296e, 2349bb–4, 5813, 5821, 5823, 5828, 5841, 6591 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 

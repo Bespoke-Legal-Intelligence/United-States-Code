@@ -61,6 +61,7 @@
 | (g) | Restriction on petitions based on marriages entered while in exclusion or deportation proceedings. |
 | (h) | Survival of rights to petition. |
 | (i) | Professional athletes. |
+| (j) | Job flexibility for long delayed applicants for adjustment of status to permanent residence. |
 | [1155\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20001%20%28I%29%20-%20Selection%20System/%C2%A7%2001155%20-%20Revocation%20of%20approval%20of%20petitions%3B%20notice%20of%20revocation%3B%20effective%20date.md) | Revocation of approval of petitions; notice of revocation; effective date. |
 | [1156\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20001%20%28I%29%20-%20Selection%20System/%C2%A7%2001156%20-%20Unused%20immigrant%20visas.md) | Unused immigrant visas. |
 | [1157\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20001%20%28I%29%20-%20Selection%20System/%C2%A7%2001157%20-%20Annual%20admission%20of%20refugees%20and%20admission%20of%20emergency%20situation%20refugees.md) | Annual admission of refugees and admission of emergency situation refugees. |
@@ -119,6 +120,7 @@
 | (p) | Computation of prevailing wage level. |
 | (q) | Academic honoraria. |
 | (r) | Exception for certain alien nurses. |
+| (p) | Consideration of benefits received as battered alien in determination of inadmissibility as likely to become public charge. |
 | 1182a to 1182c. Repealed. |  |
 | [1182d.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20002%20%28II%29%20-%20Admission%20Qualifications%20for%20Aliens%3B%20Travel%20Control%20of%20Citizens%20and%20Aliens/%C2%A7%2001182d%20-%20Denial%20of%20visas%20to%20confiscators%20of%20American%20property.md) | Denial of visas to confiscators of American property. |
 | (a) | Denial of visas. |
@@ -142,7 +144,7 @@
 | (a) | Regulations. |
 | (b) | Presumption of status; written waiver. |
 | (c) | Petition of importing employer; involvement of Departments of Labor and Agriculture. |
-| (d) | Issuance of visa to fiancee or fiance of citizen. |
+| (d) | Issuance of visa to fianc�AE1ee or fianc�AE1e of citizen. |
 | (e) | Nonimmigrant professionals and annual numerical limit. |
 | (f) | Denial of crewmember status in case of certain labor disputes. |
 | (g) | Temporary workers and trainees; limitation on numbers. |
@@ -151,7 +153,12 @@
 | (j) | Labor disputes. |
 | (k) | Numerical limitations; period of admission; conditions for admission and stay; annual report. |
 | (<i>l</i>) | Restrictions on waiver. |
-| (<i>l</i>) | Nonimmigrant elementary and secondary school students. |
+| (m) | Nonimmigrant elementary and secondary school students. |
+| (m) | Increased portability of H–1B status. |
+| (n) | Nonimmigrants guilty of trafficking in persons. |
+| (<i>o</i>) | Requirements applicable to section 1101(a)(15)(U) visas. |
+| (<i>o</i>) | Employment of nonimmigrants described in section 1101(a)(15)(V). |
+| (p) | Visas of nonimmigrants described in section 1101(a)(15)(K)(ii). |
 | [1184a.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20002%20%28II%29%20-%20Admission%20Qualifications%20for%20Aliens%3B%20Travel%20Control%20of%20Citizens%20and%20Aliens/%C2%A7%2001184a%20-%20Philippine%20Traders%20as%20nonimmigrants.md) | Philippine Traders as nonimmigrants. |
 | [1185\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20002%20%28II%29%20-%20Admission%20Qualifications%20for%20Aliens%3B%20Travel%20Control%20of%20Citizens%20and%20Aliens/%C2%A7%2001185%20-%20Travel%20control%20of%20citizens%20and%20aliens.md) | Travel control of citizens and aliens. |
 | (a) | Restrictions and prohibitions. |
@@ -176,14 +183,15 @@
 | (d) | Details of petition and interview. |
 | (e) | Treatment of period for purposes of naturalization. |
 | (f) | Definitions. |
-| [1187\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20002%20%28II%29%20-%20Admission%20Qualifications%20for%20Aliens%3B%20Travel%20Control%20of%20Citizens%20and%20Aliens/%C2%A7%2001187%20-%20Visa%20waiver%20pilot%20program%20for%20certain%20visitors.md) | Visa waiver pilot program for certain visitors. |
-| (a) | Establishment of pilot program. |
+| [1187\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20002%20%28II%29%20-%20Admission%20Qualifications%20for%20Aliens%3B%20Travel%20Control%20of%20Citizens%20and%20Aliens/%C2%A7%2001187%20-%20Visa%20waiver%20program%20for%20certain%20visitors.md) | Visa waiver program for certain visitors. |
+| (a) | Establishment of program. |
 | (b) | Waiver of rights. |
-| (c) | Designation of pilot program countries. |
+| (c) | Designation of program countries. |
 | (d) | Authority. |
 | (e) | Carrier agreements. |
-| (f) | “Pilot program period” defined. |
-| (g) | Duration and termination of designation. |
+| (f) | Duration and termination of designation. |
+| (g) | Visa application sole method to dispute denial of waiver based on a ground of inadmissibility. |
+| (h) | Use of information technology systems. |
 | [1188\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20002%20%28II%29%20-%20Admission%20Qualifications%20for%20Aliens%3B%20Travel%20Control%20of%20Citizens%20and%20Aliens/%C2%A7%2001188%20-%20Admission%20of%20temporary%20H%E2%80%932A%20workers.md) | Admission of temporary H–2A workers. |
 | (a) | Conditions for approval of H–2A petitions. |
 | (b) | Conditions for denial of labor certification. |
@@ -354,7 +362,7 @@
 | (a) | Status as person admitted for permanent residence on application and eligibility for immigrant visa. |
 | (b) | Record of lawful admission for permanent residence; reduction of preference visas. |
 | (c) | Alien crewmen, aliens continuing or accepting unauthorized employment, and aliens admitted in transit without visa. |
-| (d) | Alien admitted for permanent residence on conditional basis; fiancee or fiance of citizen. |
+| (d) | Alien admitted for permanent residence on conditional basis; fianc�AE1ee or fianc�AE1e of citizen. |
 | (e) | Restriction on adjustment of status based on marriages entered while in admissibility or deportation proceedings; bona fide marriage exception. |
 | (f) | Limitation on adjustment of status. |
 | (g) | Special immigrants. |
@@ -362,6 +370,8 @@
 | (i) | Adjustment in status of certain aliens physically present in United States. |
 | (j) | Adjustment to permanent resident status. |
 | (k) | Inapplicability of certain provisions for certain employment-based immigrants. |
+| (<i>l</i>) | Adjustment of status for victims of trafficking. |
+| (<i>l</i>) | Adjustment of status for victims of crimes against women. |
 | [1255a.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20005%20%28V%29%20-%20Adjustment%20and%20Change%20of%20Status/%C2%A7%2001255a%20-%20Adjustment%20of%20status%20of%20certain%20entrants%20before%20January%201%2C%201982%2C%20to%20that%20of%20person%20admitted%20for%20lawful%20residence.md) | Adjustment of status of certain entrants before January 1, 1982, to that of person admitted for lawful residence. |
 | (a) | Temporary resident status. |
 | (b) | Subsequent adjustment to permanent residence and nature of temporary resident status. |
@@ -459,7 +469,7 @@
 | (e) | Reduction, refund, or waiver. |
 | [1324\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20008%20%28VIII%29%20-%20General%20Penalty%20Provisions/%C2%A7%2001324%20-%20Bringing%20in%20and%20harboring%20certain%20aliens.md) | Bringing in and harboring certain aliens. |
 | (a) | Criminal penalties. |
-| (b) | Seizure and forfeiture of conveyances; exceptions; officers and authorized persons; disposition of forfeited conveyances; suits and actions. |
+| (b) | Seizure and forfeiture. |
 | (c) | Authority to arrest. |
 | (d) | Admissibility of videotaped witness testimony. |
 | [1324a.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20008%20%28VIII%29%20-%20General%20Penalty%20Provisions/%C2%A7%2001324a%20-%20Unlawful%20employment%20of%20aliens.md) | Unlawful employment of aliens. |
@@ -544,6 +554,8 @@
 | (q) | Land Border Inspection Fee Account. |
 | (r) | Breached Bond/Detention Fund. |
 | (s) | H–1B Nonimmigrant Petitioner Account. |
+| (t) | Genealogy Fee. |
+| (u) | Premium fee for employment-based petitions and applications. |
 | [1357\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2001357%20-%20Powers%20of%20immigration%20officers%20and%20employees.md) | Powers of immigration officers and employees. |
 | (a) | Powers without warrant. |
 | (b) | Administration of oath; taking of evidence. |
@@ -579,6 +591,15 @@
 | (c) | Marielito Cubans convicted of a felony. |
 | (d) | Authorization of appropriations. |
 | (e) | “State” defined. |
+| [1365a.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2001365a%20-%20Integrated%20entry%20and%20exit%20data%20system.md) | Integrated entry and exit data system. |
+| (a) | Requirement. |
+| (b) | Integrated entry and exit data system defined. |
+| (c) | Construction. |
+| (d) | Deadlines. |
+| (e) | Reports. |
+| (f) | Authority to provide access to system. |
+| (g) | Use of task force recommendations. |
+| (h) | Authorization of appropriations. |
 | [1366\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2001366%20-%20Annual%20report%20on%20criminal%20aliens.md) | Annual report on criminal aliens. |
 | [1367\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2001367%20-%20Penalties%20for%20disclosure%20of%20information.md) | Penalties for disclosure of information. |
 | (a) | In general. |
@@ -681,10 +702,10 @@
 | [1428\.](Subchapter%20003%20%28III%29%20-%20Nationality%20and%20Naturalization/Part%20002%20%28II%29%20-%20Nationality%20Through%20Naturalization/%C2%A7%2001428%20-%20Temporary%20absence%20of%20persons%20performing%20religious%20duties.md) | Temporary absence of persons performing religious duties. |
 | [1429\.](Subchapter%20003%20%28III%29%20-%20Nationality%20and%20Naturalization/Part%20002%20%28II%29%20-%20Nationality%20Through%20Naturalization/%C2%A7%2001429%20-%20Prerequisite%20to%20naturalization%3B%20burden%20of%20proof.md) | Prerequisite to naturalization; burden of proof. |
 | [1430\.](Subchapter%20003%20%28III%29%20-%20Nationality%20and%20Naturalization/Part%20002%20%28II%29%20-%20Nationality%20Through%20Naturalization/%C2%A7%2001430%20-%20Married%20persons%20and%20employees%20of%20certain%20nonprofit%20organizations.md) | Married persons and employees of certain nonprofit organizations. |
-| [1431\.](Subchapter%20003%20%28III%29%20-%20Nationality%20and%20Naturalization/Part%20002%20%28II%29%20-%20Nationality%20Through%20Naturalization/%C2%A7%2001431%20-%20Children%20born%20outside%20United%20States%20of%20one%20alien%20and%20one%20citizen%20parent%3B%20conditions%20for%20automatic%20citizenship.md) | Children born outside United States of one alien and one citizen parent; conditions for automatic citizenship. |
-| [1432\.](Subchapter%20003%20%28III%29%20-%20Nationality%20and%20Naturalization/Part%20002%20%28II%29%20-%20Nationality%20Through%20Naturalization/%C2%A7%2001432%20-%20Children%20born%20outside%20United%20States%20of%20alien%20parents%3B%20conditions%20for%20automatic%20citizenship.md) | Children born outside United States of alien parents; conditions for automatic citizenship. |
-| [1433\.](Subchapter%20003%20%28III%29%20-%20Nationality%20and%20Naturalization/Part%20002%20%28II%29%20-%20Nationality%20Through%20Naturalization/%C2%A7%2001433%20-%20Child%20born%20outside%20United%20States%3B%20application%20for%20certificate%20of%20citizenship%20requirements.md) | Children born outside United States; application for certificate of citizenship requirements. |
-| (a) | Application of citizen parents; requirements. |
+| [1431\.](Subchapter%20003%20%28III%29%20-%20Nationality%20and%20Naturalization/Part%20002%20%28II%29%20-%20Nationality%20Through%20Naturalization/%C2%A7%2001431%20-%20Children%20born%20outside%20the%20United%20States%20and%20residing%20permanently%20in%20the%20United%20States%3B%20conditions%20under%20which%20citizenship%20automatically%E2%80%A6.md) | Children born outside the United States and residing permanently in the United States; conditions under which citizenship automatically acquired. |
+| [1432\.](Subchapter%20003%20%28III%29%20-%20Nationality%20and%20Naturalization/Part%20002%20%28II%29%20-%20Nationality%20Through%20Naturalization/%C2%A7%2001432%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93395%2C%20title%20I%2C%20%C2%A7103%28a%29%2C%20Oct.%2030%2C%202000%2C%20114%20Stat.%201632.md) | Repealed. |
+| [1433\.](Subchapter%20003%20%28III%29%20-%20Nationality%20and%20Naturalization/Part%20002%20%28II%29%20-%20Nationality%20Through%20Naturalization/%C2%A7%2001433%20-%20Children%20born%20and%20residing%20outside%20the%20United%20States%3B%20conditions%20for%20acquiring%20certificate%20of%20citizenship.md) | Children born and residing outside the United States; conditions for acquiring certificate of citizenship. |
+| (a) | Application by citizen parents; requirements. |
 | (b) | Attainment of citizenship status; receipt of certificate. |
 | (c) | Adopted children. |
 | [1434\.](Subchapter%20003%20%28III%29%20-%20Nationality%20and%20Naturalization/Part%20002%20%28II%29%20-%20Nationality%20Through%20Naturalization/%C2%A7%2001434%20-%20Repealed.%20Pub.%20L.%2095%E2%80%93417%2C%20%C2%A77%2C%20Oct.%205%2C%201978%2C%2092%20Stat.%20918.md) | Repealed. |
@@ -879,7 +900,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1184a, 1255b, 1367, 1611, 1612, 1621, 1622, 1641, 1642, 1643 of this title; title 7 sections 1308–3, 1996, 2020, 3508; title 10 sections 1060a, 3253, 8253, 12102, 12201; title 15 section 278g; title 18 sections 1203, 1961; title 19 section 3401; title 22 sections 2454, 2778, 3303, 5711; title 25 section 1300b–13; title 42 sections 1437a, 6705; title 46 section 8103; title 50 sections 47c, 47f.
+This chapter is referred to in sections 1184a, 1255b, 1367, 1572, 1611, 1612, 1621, 1622, 1641, 1642, 1643 of this title; title 7 sections 1308–3, 1996, 2020, 3508; title 10 sections 1060a, 3253, 8253, 12102, 12201; title 15 section 278g; title 18 sections 1203, 1961; title 19 section 3401; title 22 sections 2454, 2778, 3303, 5711; title 25 section 1300b–13; title 42 sections 1437a, 6705; title 46 section 8103; title 50 sections 47c, 47f.
 
 
 ---

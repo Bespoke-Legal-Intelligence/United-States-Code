@@ -16,7 +16,7 @@ There is hereby established the Interim Compliance Panel, which shall be compose
 
 #### (b) Compensation; travel and subsistence expenses
 
-Members of the Panel shall serve without compensation in addition to that received intheir regular employment, but shall be entitled to reimbursement for travel, subsistence, and other necessary expenses incurred by them in the performance of duties vested in the Panel.
+Members of the Panel shall serve without compensation in addition to that received in their regular employment, but shall be entitled to reimbursement for travel, subsistence, and other necessary expenses incurred by them in the performance of duties vested in the Panel.
 
 #### (c) Cooperation of Federal agencies
 
@@ -55,6 +55,10 @@ The Panel is authorized to appoint as many administrative law judges as are nece
 #### Effective Date of 1977 Amendment
 
 Amendment by Pub. L. 95–164 effective 120 days after Nov. 9, 1977, except as otherwise provided, see section 307 of Pub. L. 95–164, set out as a note under section 801 of this title.
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (f)(2) of this section relating to transmitting annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 114 of House Document No. 103–7.
 
 #### Section Referred to in Other Sections
 

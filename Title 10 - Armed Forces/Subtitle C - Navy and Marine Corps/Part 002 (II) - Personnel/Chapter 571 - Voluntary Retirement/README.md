@@ -35,13 +35,9 @@ Pub. L. 104–106, div. A, title V, §561(d)(3)(B), Feb. 10, 1996, 110 Stat. 323
 
 1967—Pub. L. 90–130, §1(23)(B), Nov. 8, 1967, 81 Stat. 380, struck out “Nurse Corps” before “Officers” in item 6324.
 
-#### Cross References
-
-General military law provisions, see section 1201 et seq. of this title.
-
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in section 6371 of this title.
+This chapter is referred to in sections 6371, 12741 of this title.
 
 
 ---

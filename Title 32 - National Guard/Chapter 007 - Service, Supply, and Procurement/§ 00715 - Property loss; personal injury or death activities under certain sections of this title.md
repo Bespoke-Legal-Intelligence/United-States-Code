@@ -50,7 +50,7 @@ Subsec. (f). Pub. L. 98–564, §4(3), amended subsec. (f) generally. Prior to a
 
 Subsec. (f). Pub. L. 93–336, §3(3), substituted “$5,000” for “$2,500”.
 
-1972—Subsec. (b)(4). Pub. L. 92–445 inserted provision that claim may be allowed to extent that law of place where act or omission complained of occurred would permit recovery from a private individual under similar circumstances, when damage to or loss of property,or personal injury or death was caused wholly or partly by a negligent or wrongful act of claimant, his agent, or his employee.
+1972—Subsec. (b)(4). Pub. L. 92–445 inserted provision that claim may be allowed to extent that law of place where act or omission complained of occurred would permit recovery from a private individual under similar circumstances, when damage to or loss of property, or personal injury or death was caused wholly or partly by a negligent or wrongful act of claimant, his agent, or his employee.
 
 1970—Subsecs. (a), (d). Pub. L. 91–312 substituted “$15,000” for “$5,000”.
 

@@ -12,10 +12,6 @@
 
 See section 1610 of this title.
 
-#### Cross References
-
-Delegation of regulatory functions of Secretary of Agriculture, see section 450c et seq. of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1561, 1571, 1573, 1581, 1582, 1593 of this title.

@@ -2,7 +2,7 @@
 
 #### (a) Comprehensive plan
 
-The Secretaries, with the advice of the Board, shall prepare and implement a comprehensive plan for the coordinated program which shall be designed to—
+The Secretaries, with the advice of the Board, shall prepare and implement a comprehensiveplan for the coordinated program which shall be designed to—
 
 &emsp;(1) assess, collate data with respect to, analyze, and report, on a continuous basis, the dietary and nutritional status of the people of the United States, and the trends with respect to such status (dealing with such status and trends separately in the case of preschool and school-age children, pregnant and lactating women, elderly individuals, low-income populations, blacks, Hispanics, and other groups, at the discretion of the Secretaries), the state of the art with respect to nutrition monitoring and related research, future monitoring and related research priorities, and relevant policy implications of findings with respect to such status, trends, and research;
 
@@ -60,7 +60,7 @@ The comprehensive plan shall—
 
 &emsp;(1) allocate all of the projected functions and activities under the coordinated program among the various Federal agencies and offices that will be involved;
 
-&emsp;(2) contain an affirmative statement and description of the functions to be performed andactivities to be undertaken by each of such agencies and offices in carrying out the coordinated program; and
+&emsp;(2) contain an affirmative statement and description of the functions to be performed and activities to be undertaken by each of such agencies and offices in carrying out the coordinated program; and
 
 &emsp;(3) constitute the basis on which each agency participating in the coordinated program requests authorizations and appropriations for nutrition monitoring and related research during the ten-year period of the program.
 

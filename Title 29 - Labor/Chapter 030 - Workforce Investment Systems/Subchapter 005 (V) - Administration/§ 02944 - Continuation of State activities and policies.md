@@ -28,11 +28,11 @@ In this section:
 
 #### (2) Prior consistent State laws
 
-&emsp;The term “prior consistent State laws” means State laws, not inconsistent with the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\] or any other applicable Federal law, that took effect on September 1, 1993, September 1, 1995, and September 1, 1997.
+&emsp;The term “prior consistent State laws” means State laws, not inconsistent with the Job Training Partnership Act or any other applicable Federal law, that took effect on September 1, 1993, September 1, 1995, and September 1, 1997.
 
 (Pub. L. 105–220, title I, §194, Aug. 7, 1998, 112 Stat. 1056.)
 
 #### References in Text
 
-The Job Training Partnership Act, referred to in subsec. (b)(2), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of this title and Tables.
+The Job Training Partnership Act, referred to in subsec. (b)(2), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which was classified generally to chapter 19 (§1501 et seq.) of this title, prior to repeal by Pub. L. 105–220, title I, §199(b)(2), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000.
 

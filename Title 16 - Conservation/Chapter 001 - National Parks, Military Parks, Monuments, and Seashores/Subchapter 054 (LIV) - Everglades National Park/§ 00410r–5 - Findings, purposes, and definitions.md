@@ -30,7 +30,7 @@ As used in sections 410r–5 to 410r–8 of this title:
 
 &emsp;(1) The term “Secretary” means the Secretary of the Interior.
 
-&emsp;(2) The term “addition” means the approximately 107,600 acre area of the East Everglades area authorized to be added to Everglades National Park by sections 410r–5 to 410r–8 of this title.
+&emsp;(2) The term “addition” means the approximately 107,600 acre area of the East Evergladesarea authorized to be added to Everglades National Park by sections 410r–5 to 410r–8 of this title.
 
 &emsp;(3) The term “park” means the area encompassing the existing boundary of Everglades National Park and the addition area described in paragraph (2).
 

@@ -68,7 +68,7 @@ Assistance available to borrower to extend low income use.—To the extent of am
 
 &emsp;(iii) Additional rental assistance, or an increase in assistance provided under existing contracts, under section 1490a(a)(2) or 1490a(a)(5) of this title or under section 1437f of this title.
 
-&emsp;(iv) An equity loan to the borrower under paragraphs (1) and (2) of section 1485(c) of this title or under paragraphs (1) and (2) of section 1484(j) <sup>1</sup> of this title, except that an equity loan referred to in this clause may not be made available after August 6, 1996, unless the Secretary determines that the other incentives available under this subparagraph are not adequate to provide a fair return on the investment of the borrower, to prevent prepayment of the loan insured under section 1484 or 1485 of this title, or to prevent the displacement of tenants of the housing for which the loan was made.
+&emsp;(iv) An equity loan to the borrower under paragraphs (1) and (2) of section 1485(c) of this title or under paragraphs (1) and (2) of section 1484(j) <sup>1</sup> of this title, except that an equity loanreferred to in this clause may not be made available after August 6, 1996, unless the Secretary determines that the other incentives available under this subparagraph are not adequate to provide a fair return on the investment of the borrower, to prevent prepayment of the loan insured under section 1484 or 1485 of this title, or to prevent the displacement of tenants of the housing for which the loan was made.
 
 &emsp;(v) Incremental rental assistance in connection with loans under clauses (ii) and (iv) to the extent necessary to avoid increases in the rental payments of current tenants not receiving rental assistance under section 1490a(a)(2) of this title or under section 1437f of this title, or current tenants of projects not assisted under section 1490a(a)(5) of this title.
 
@@ -102,7 +102,7 @@ Qualified nonprofit organizations and public agencies.—
 
 Local nonprofit organization or public agency.—A local nonprofit organization or public agency may purchase housing and related facilities under this paragraph only if—
 
-&emsp;&emsp;(I) the organization or agency is determined by the Secretary to be capable of managing the housing and related facilities (either directly or through a contract) forthe remaining useful life of the housing and related facilities; and
+&emsp;&emsp;(I) the organization or agency is determined by the Secretary to be capable of managing the housing and related facilities (either directly or through a contract) for the remaining useful life of the housing and related facilities; and
 
 &emsp;&emsp;(II) the organization or agency has entered into an agreement that obligates it (and successors in interest thereof) to maintain the housing and related facilities as affordable for very low-income families or persons and low income families or persons for the remaining useful life of the housing and related facilities.
 
@@ -300,7 +300,7 @@ On and after November 30, 1983—
 
 #### (9) Nonassumption
 
-&emsp;Notwithstanding the transfer of property for which a guaranteed loan under this subsectionwas made, the borrower of a guaranteed loan under this subsection may not be relieved of liability with respect to the loan.
+&emsp;Notwithstanding the transfer of property for which a guaranteed loan under this subsection was made, the borrower of a guaranteed loan under this subsection may not be relieved of liability with respect to the loan.
 
 #### (10) Geographical targeting
 
@@ -336,17 +336,47 @@ On and after November 30, 1983—
 
 &emsp;&emsp;&emsp;(II) is pregnant.
 
-&emsp;&emsp;(D) The term “State” means the States of the United States, the Commonwealth of Puerto Rico, the District of Columbia, the Commonwealth of the Northern Mariana Islands, Guam, the Virgin Islands, American Samoa, the Trust Territories of the Pacific, and any other possession of the United States.
+&emsp;&emsp;(D) The term “State” means the States of the United States, the Commonwealth ofPuerto Rico, the District of Columbia, the Commonwealth of the Northern Mariana Islands, Guam, the Virgin Islands, American Samoa, the Trust Territories of the Pacific, and any other possession of the United States.
 
-(July 15, 1949, ch. 338, title V, §502, 63 Stat. 433; Pub. L. 87–70, title VIII, §801(b), June 30, 1961, 75 Stat. 186; Pub. L. 87–723, §4(a)(2), Sept. 28, 1962, 76 Stat. 671; Pub. L. 89–117, title X, §1002, Aug. 10, 1965, 79 Stat. 497; Pub. L. 89–754, title VIII, §802, Nov. 3, 1966, 80 Stat. 1282; Pub. L. 93–383, title V, §505(b), Aug. 22, 1974, 88 Stat. 693; Pub. L. 95–128, title V, §502(a), Oct. 12, 1977, 91 Stat. 1139; Pub. L. 96–153, title V, §503, Dec. 21, 1979, 93 Stat. 1134; Pub. L. 96–399, title V, §514(a), Oct. 8, 1980, 94 Stat. 1671; Pub. L. 98–181, title V, §503(a), (d), Nov. 30, 1983, 97 Stat. 1240, 1241; Pub. L. 98–479, title I, §105(b)(1), Oct. 17, 1984, 98 Stat. 2226; Pub. L. 100–242, title II, §241, title III, §314, Feb. 5, 1988, 101 Stat. 1886, 1897; Pub. L. 100–628, title X, §1028, Nov. 7, 1988, 102 Stat. 3271; Pub. L. 101–235, title II, §206, Dec. 15, 1989, 103 Stat. 2041; Pub. L. 101–625, title VII, §§704(a), 705(a), 706(b), 719(b), Nov. 28, 1990, 104 Stat. 4283, 4284, 4297; Pub. L. 102–142, title VII, §743(b), Oct. 28, 1991, 105 Stat. 915; Pub. L. 102–550, title VII, §§701(g), 702(a), 703, 704, 712(a), (b), Oct. 28, 1992, 106 Stat. 3834, 3835, 3841; Pub. L. 104–180, title VII, §734(c)(3)(A), (B), Aug. 6, 1996, 110 Stat. 1602; Pub. L. 105–276, title V, §599C(e)(2)(A), (f), Oct. 21, 1998, 112 Stat. 2662, 2663.)
+#### (13) Guarantees for refinancing loans
+
+#### (A) In general
+
+&emsp;&emsp;Upon the request of the borrower, the Secretary shall, to the extent provided in appropriation Acts and subject to subparagraph (F), guarantee a loan that is made to refinance an existing loan that is made under this section or guaranteed under this subsection, and that the Secretary determines complies with the requirements of this paragraph.
+
+#### (B) Interest rate
+
+&emsp;&emsp;To be eligible for a guarantee under this paragraph, the refinancing loan shall have a rate of interest that is fixed over the term of the loan and does not exceed the interest rate of the loan being refinanced.
+
+#### (C) Security
+
+&emsp;&emsp;To be eligible for a guarantee under this paragraph, the refinancing loan shall be secured by the same single-family residence as was the loan being refinanced, which shall be owned by the borrower and occupied by the borrower as the principal residence of the borrower.
+
+#### (D) Amount
+
+&emsp;&emsp;To be eligible for a guarantee under this paragraph, the principal obligation under the refinancing loan shall not exceed an amount equal to the sum of the balance of the loan being refinanced and such closing costs as may be authorized by the Secretary, which shall include a discount not exceeding 200 basis points and an origination fee not exceeding such amount as the Secretary shall prescribe.
+
+#### (E) Other requirements
+
+&emsp;&emsp;The provisions of the last sentence of paragraph (1) and paragraphs (2), (5), (6)(A), (7), and (9) shall apply to loans guaranteed under this paragraph, and no other provisions of paragraphs (1) through (12) shall apply to such loans.
+
+#### (F) Authority to establish limitation
+
+&emsp;&emsp;The Secretary may establish limitations on the number of loans guaranteed under this paragraph, which shall be based on market conditions and other factors as the Secretary considers appropriate.
+
+(July 15, 1949, ch. 338, title V, §502, 63 Stat. 433; Pub. L. 87–70, title VIII, §801(b), June 30, 1961, 75 Stat. 186; Pub. L. 87–723, §4(a)(2), Sept. 28, 1962, 76 Stat. 671; Pub. L. 89–117, title X, §1002, Aug. 10, 1965, 79 Stat. 497; Pub. L. 89–754, title VIII, §802, Nov. 3, 1966, 80 Stat. 1282; Pub. L. 93–383, title V, §505(b), Aug. 22, 1974, 88 Stat. 693; Pub. L. 95–128, title V, §502(a), Oct. 12, 1977, 91 Stat. 1139; Pub. L. 96–153, title V, §503, Dec. 21, 1979, 93 Stat. 1134; Pub. L. 96–399, title V, §514(a), Oct. 8, 1980, 94 Stat. 1671; Pub. L. 98–181, title V, §503(a), (d), Nov. 30, 1983, 97 Stat. 1240, 1241; Pub. L. 98–479, title I, §105(b)(1), Oct. 17, 1984, 98 Stat. 2226; Pub. L. 100–242, title II, §241, title III, §314, Feb. 5, 1988, 101 Stat. 1886, 1897; Pub. L. 100–628, title X, §1028, Nov. 7, 1988, 102 Stat. 3271; Pub. L. 101–235, title II, §206, Dec. 15, 1989, 103 Stat. 2041; Pub. L. 101–625, title VII, §§704(a), 705(a), 706(b), 719(b), Nov. 28, 1990, 104 Stat. 4283, 4284, 4297; Pub. L. 102–142, title VII, §743(b), Oct. 28, 1991, 105 Stat. 915; Pub. L. 102–550, title VII, §§701(g), 702(a), 703, 704, 712(a), (b), Oct. 28, 1992, 106 Stat. 3834, 3835, 3841; Pub. L. 104–180, title VII, §734(c)(3)(A), (B), Aug. 6, 1996, 110 Stat. 1602; Pub. L. 105–276, title V, §599C(e)(2)(A), (f), Oct. 21, 1998, 112 Stat. 2662, 2663; Pub. L. 106–569, title VII, §701, Dec. 27, 2000, 114 Stat. 3013.)
 
 #### References in Text
+
+Section 1484(j) of this title, referred to in subsec. (c)(4)(B)(iv), was repealed by Pub. L. 106–569, title VII, §708(b), Dec. 27, 2000, 114 Stat. 3018.
 
 The Housing and Community Development Act of 1974, referred to in subsec. (e)(1)(A), (2)(B), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, as amended. Title VI of the Housing and Community Development Act of 1974 is known as the National Manufactured Housing Construction and Safety Standards Act of 1974 and is classified generally to chapter 70 (§5401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 The National Housing Act, referred to in subsec. (e)(1)(B), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended. Title II of the National Housing Act is classified principally to subchapter II (§1707 et seq.) of chapter 13 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
 
 #### Amendments
+
+2000—Subsec. (h)(13). Pub. L. 106–569 added par. (13).
 
 1998—Subsec. (c)(1)(A)(i). Pub. L. 105–276, §599C(e)(2)(A)(i), substituted “, (a)(2), or (5)” for “or (a)(2)”.
 
@@ -360,7 +390,7 @@ Subsec. (c)(5)(C)(iii). Pub. L. 105–276, §599C(e)(2)(A)(v), struck out comma 
 
 Subsec. (c)(5)(D). Pub. L. 105–276, §599C(e)(2)(A)(vi), inserted before period at end “or, in the case of housing assisted under section 1490a(a)(5) of this title, does not exceed the rents established for the project under such section”.
 
-Subsec. (h)(6)(C). Pub. L. 105–276, §599C(f), which directed the striking out of “, subject to the maximumdollar amount limitation of section 203(b)(2) of the National Housing Act” each place it appeared, was executed by striking out “, subject to the maximum dollar limitation of section 203(b)(2) of the National Housing Act” after “whichever is less” in cl. (i) and after “Secretary shall determine” in cl. (ii), to reflect the probable intent of Congress.
+Subsec. (h)(6)(C). Pub. L. 105–276, §599C(f), which directed the striking out of “, subject to the maximum dollar amount limitation of section 203(b)(2) of the National Housing Act” each place it appeared, was executed by striking out “, subject to the maximum dollar limitation of section 203(b)(2) of the National Housing Act” after “whichever is less” in cl. (i) and after “Secretary shall determine” in cl. (ii), to reflect the probable intent of Congress.
 
 1996—Subsec. (c)(4)(B)(iv). Pub. L. 104–180, §734(c)(3)(A), inserted before period at end “or under paragraphs (1) and (2) of section 1484(j) of this title, except that an equity loan referred to in this clause may not be made available after August 6, 1996, unless the Secretary determines that the other incentives available under this subparagraph are not adequate to provide a fair return on the investment of the borrower, to prevent prepayment of the loan insured under section 1484 or 1485 of this title, or to prevent the displacement of tenants of the housing for which the loan was made”.
 
@@ -478,6 +508,14 @@ Consultation.—In developing and promulgating the regulations under paragraphs 
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
+#### Fee for Guaranteed Loans
+
+Pub. L. 106–387, §1(a) \[title VII, §739\], Oct. 28, 2000, 114 Stat. 1549, 1549A–34, provided that: “Hereafter, notwithstanding section 502(h)(7) of the Housing Act of 1949 (42 U.S.C. 1472(h)(7)), the fee collected by the Secretary of Agriculture with respect to a guaranteed loan under such section 502(h) at the time of the issuance of such guarantee may be in an amount equal to not more than 2 percent of the principal obligation of the loan.”
+
+#### Income Limit for Borrowers
+
+Pub. L. 106–387, §1(a) \[title VII, §751\], Oct. 28, 2000, 114 Stat. 1549, 1549A–41, provided that: “Hereafter, the Secretary of Agriculture shall consider any borrower whose income does not exceed 115 percent of the median family income of the United States as meeting the eligibility requirements for a borrower contained in section 502(h)(2) of the Housing Act of 1949 (42 U.S.C. 1472(h)(2)).”
+
 #### Rural Housing Loan Guarantees; Findings and Purpose
 
 Section 706(a) of Pub. L. 101–625 provided that:
@@ -500,7 +538,7 @@ Section 304 of Pub. L. 100–242, as amended by Pub. L. 100–628, title X, §10
 
 #### Prohibition on Acceptance of Prepayment of Certain Loans
 
-Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 428, as amended by Pub. L. 100–122, §2(d), Sept. 30, 1987, 101 Stat. 793; Pub. L. 100–154, Nov. 5, 1987, 101 Stat. 890; Pub. L. 100–170, Nov. 17, 1987, 101 Stat. 914; Pub. L. 100–179, Dec. 3, 1987, 101 Stat. 1018; Pub. L. 100–200, Dec. 21, 1987, 101 Stat. 1327, provided that: “The limitations on loan prepayments contained in section 634 of the Agriculture, Rural Development, and Related Agencies Appropriations Act, 1987 \[section 101(a) \[title VI, §634\] of Pub. L. 99–500 and 99–591, set out below\] shall remain in effect through March 15, 1988.”
+Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 428, as amended by Pub. L. 100–122, §2(d), Sept. 30, 1987, 101 Stat. 793; Pub. L. 100–154, Nov. 5, 1987, 101 Stat. 890; Pub. L. 100–170, Nov. 17, 1987, 101 Stat. 914; Pub. L. 100–179, Dec. 3, 1987, 101 Stat. 1018; Pub. L. 100–200, Dec. 21, 1987, 101 Stat. 1327, provided that: “The limitations on loan prepayments contained in section 634 of the Agriculture, Rural Development, and Related Agencies Appropriations Act, 1987 \[section 101(a) \[title VI, §634\] ofPub. L. 99–500 and 99–591, set out below\] shall remain in effect through March 15, 1988.”
 
 Pub. L. 99–500, §101(a) \[title VI, §634\], Oct. 18, 1986, 100 Stat. 1783, 1783–34, and Pub. L. 99–591, §101(a) \[title VI, §634\], Oct. 30, 1986, 100 Stat. 3341, 3341–34, provided that: “Notwithstanding any other provision of law, including section 502(c)(2) of the Housing Act of 1949 (42 U.S.C. 1471 et seq.) \[subsec. (c)(2) of this section\], none of the funds appropriated under this or any other Act shall be used prior to June 30, 1987 to accept prepayment of any loan made under section 515 of the Housing Act of 1949 \[section 1485 of this title\], unless such loan was made at least twenty years prior to the date of prepayment or, for loans made before December 21, 1979, the Secretary makes a determination that a supply of adequate, comparable housing is available in the community, or that prepayment of such loans will not result in a substantial increase in rents to tenants in residence upon date of prepayment or displacement of such tenants.”
 
@@ -516,7 +554,7 @@ Section 514(b) of Pub. L. 96–399 required Secretary of Agriculture to conduct 
 
 This section is referred to in sections 1436a, 1473, 1477, 1479, 1480, 1483, 1484, 1485, 1487, 1490a, 1490c, 1490f, 1490m, 1490p–1, 4851b, 8011 of this title; title 7 sections 1933, 1991, 2204f; title 12 section 1701x; title 26 section 42.
 
-<i><sup>1</sup></i><i> So in original. Section 1484(j) of this title does not contain paragraphs.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be paragraph “(12)(B)).”</i>
 

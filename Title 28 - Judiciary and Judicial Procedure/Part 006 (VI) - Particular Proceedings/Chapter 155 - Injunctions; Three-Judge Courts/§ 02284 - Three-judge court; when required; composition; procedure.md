@@ -42,11 +42,11 @@ The rules of civil procedure, referred to in subsec. (b)(3), are set out in the 
 
 #### Amendments
 
-1984—Subsec. (b)(2). Pub. L. 98–620 struck out provision that the hearing had to be given precedence and held at the earliest practicable day.
+<b>1984</b>—Subsec. (b)(2). Pub. L. 98–620 struck out provision that the hearing had to be given precedence and held at the earliest practicable day.
 
-1976—Pub. L. 94–381 substituted “Three-judge court; when required” for “Three-judge district court” in section catchline, and generally revised section to alter the method by which three-judge courts are composed, the procedure used by such courts, and to conform its requirements to the repeal of sections 2281 and 2282 of this title.
+<b>1976</b>—Pub. L. 94–381 substituted “Three-judge court; when required” for “Three-judge district court” in section catchline, and generally revised section to alter the method by which three-judge courts are composed, the procedure used by such courts, and to conform its requirements to the repeal of sections 2281 and 2282 of this title.
 
-1960—Pub. L. 86–507 substituted “by registered mail or by certified mail by the clerk and” for “by registered mail by the clerk, and”.
+<b>1960</b>—Pub. L. 86–507 substituted “by registered mail or by certified mail by the clerk and” for “by registered mail by the clerk, and”.
 
 #### Effective Date of 1984 Amendment
 

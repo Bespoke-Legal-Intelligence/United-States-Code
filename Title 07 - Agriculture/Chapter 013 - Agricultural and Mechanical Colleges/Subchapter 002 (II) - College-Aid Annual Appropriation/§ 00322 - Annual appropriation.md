@@ -26,10 +26,6 @@ For transfer of functions under this section to Secretary of Agriculture, see no
 
 Pub. L. 103–330, title VII, §724, Sept. 30, 1994, 108 Stat. 2469, provided that: “No funds shall be available in fiscal year 1995 and thereafter for payments under the Act of August 30, 1890 and the tenth and eleventh paragraphs under the heading ‘Emergency Appropriations’ of the Act of March 4, 1907 (7 U.S.C. 321 et seq.).”
 
-#### Cross References
-
-Additional appropriation for agricultural colleges, see section 329 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 326a of this title; title 16 section 4741.

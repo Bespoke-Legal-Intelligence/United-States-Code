@@ -8,7 +8,7 @@ Whoever kills or attempts to kill any officer or employee of the United States o
 
 &emsp;(3) in the case of attempted murder or manslaughter, as provided in section 1113.
 
-(June 25, 1948, ch. 645, 62 Stat. 756; May 24, 1949, ch. 139, §24, 63 Stat. 93; Oct. 31, 1951, ch. 655, §28, 65 Stat. 721; June 27, 1952, ch. 477, title IV, §402(c), 66 Stat. 276; Pub. L. 85–568, title III, §304(d), July 29, 1958, 72 Stat. 434; Pub. L. 87–518, §10, July 2, 1962, 76 Stat. 132; Pub. L. 88–493, §3, Aug. 27, 1964, 78 Stat. 610; Pub. L. 89–74, §8(b), July 15, 1965, 79 Stat. 234; Pub. L. 90–449, §2, Aug. 2, 1968, 82 Stat. 611; Pub. L. 91–375, §6(j)(9), Aug. 12, 1970, 84 Stat. 777; Pub. L. 91–513, title II, §701(i)(1), Oct. 27, 1970, 84 Stat. 1282; Pub. L. 91–596, §17(h)(1), Dec. 29, 1970, 84 Stat. 1607; Pub. L. 93–481, §5, Oct. 26, 1974, 88 Stat. 1456; Pub. L. 94–284, §18, May 11, 1976, 90 Stat. 514; Pub. L. 94–582, §16, Oct. 21, 1976, 90 Stat. 2883; Pub. L. 95–87, title VII, §704, Aug. 3, 1977, 91 Stat. 520; Pub. L. 95–616, §3(j)(2), Nov. 8, 1978, 92 Stat. 3112; Pub. L. 95–630, title III, §307, Nov. 10, 1978, 92 Stat. 3677; Pub. L. 96–296, §26(c), July 1, 1980, 94 Stat. 819; Pub. L. 96–466, title VII, §704, Oct. 17, 1980, 94 Stat. 2216; Pub. L. 97–143, §1(b), Dec. 29, 1981, 95 Stat. 1724; Pub. L. 97–259, title I, §128, Sept. 13, 1982, 96 Stat. 1099; Pub. L. 97–365, §6, Oct. 25, 1982, 96 Stat. 1752; Pub. L. 97–452, §2(b), Jan. 12, 1983, 96 Stat. 2478; Pub. L. 98–63, title I, §101, July 30, 1983, 97 Stat. 313; Pub. L. 98–473, title II, §1012, Oct. 12, 1984, 98 Stat. 2142; Pub. L. 98–557, §17(c), Oct. 30, 1984, 98 Stat. 2868; Pub. L. 100–690, title VII, §7026, Nov. 18, 1988, 102 Stat. 4397; Pub. L. 101–73, title IX, §962(a)(6), Aug. 9, 1989, 103 Stat. 502; Pub. L. 101–647, title XII, §1205(h), title XVI, §1606, title XXXV, §3535, Nov. 29, 1990, 104 Stat. 4831, 4843, 4925; Pub. L. 102–54, §13(f)(2), June 13, 1991, 105 Stat. 275; Pub. L. 102–365, §6, Sept. 3, 1992, 106 Stat. 975; Pub. L. 103–322, title VI, §60007, title XXXIII, §§330009(c), 330011(g), Sept. 13, 1994, 108 Stat. 1971, 2143, 2145; Pub. L. 104–132, title VII, §727(a), Apr. 24, 1996, 110 Stat. 1302; Pub. L. 104–294, title VI, §601(f)(2), Oct. 11, 1996, 110 Stat. 3499.)
+(June 25, 1948, ch. 645, 62 Stat. 756; May 24, 1949, ch. 139, §24, 63 Stat. 93; Oct. 31, 1951, ch. 655, §28, 65 Stat. 721; June 27, 1952, ch. 477, title IV, §402(c), 66 Stat. 276; Pub. L. 85–568, title III, §304(d), July 29, 1958, 72 Stat. 434; Pub. L. 87–518, §10, July 2, 1962, 76 Stat. 132; Pub. L. 88–493, §3, Aug. 27, 1964, 78 Stat. 610; Pub. L. 89–74, §8(b), July 15, 1965, 79 Stat. 234; Pub. L. 90–449, §2, Aug. 2, 1968, 82 Stat. 611; Pub. L. 91–375, §6(j)(9), Aug. 12, 1970, 84 Stat. 777; Pub. L. 91–513, title II, §701(i)(1), Oct. 27, 1970, 84 Stat. 1282; Pub. L. 91–596, §17(h)(1), Dec. 29, 1970, 84 Stat. 1607; Pub. L. 93–481, §5, Oct. 26, 1974, 88 Stat. 1456; Pub. L. 94–284, §18, May 11, 1976, 90 Stat. 514; Pub. L. 94–582, §16, Oct. 21, 1976, 90 Stat. 2883; Pub. L. 95–87, title VII, §704, Aug. 3, 1977, 91 Stat. 520; Pub. L. 95–616, §3(j)(2), Nov. 8, 1978, 92 Stat. 3112; Pub. L. 95–630, title III, §307, Nov. 10, 1978, 92 Stat. 3677; Pub. L. 96–296, §26(c), July 1, 1980, 94 Stat. 819; Pub. L. 96–466, title VII, §704, Oct. 17, 1980, 94 Stat. 2216; Pub. L. 97–143, §1(b), Dec. 29, 1981, 95 Stat. 1724; Pub. L. 97–259, title I, §128, Sept. 13, 1982, 96 Stat. 1099; Pub. L. 97–365, §6, Oct. 25, 1982, 96 Stat. 1752; Pub. L. 97–452, §2(b), Jan. 12, 1983, 96 Stat. 2478; Pub. L. 98–63, title I, §101, July 30, 1983, 97 Stat. 313; Pub. L. 98–473, title II, §1012, Oct. 12, 1984, 98 Stat. 2142; Pub. L. 98–557, §17(c), Oct. 30, 1984, 98 Stat. 2868; Pub. L. 100–690, title VII, §7026, Nov. 18, 1988, 102 Stat. 4397; Pub. L. 101–73, title IX, §962(a)(6), Aug. 9, 1989, 103 Stat. 502; Pub. L. 101–647, title XII, §1205(h), title XVI, §1606, title XXXV, §3535, Nov. 29, 1990, 104 Stat. 4831, 4843, 4925; Pub. L. 102–54, §13(f)(2), June 13, 1991, 105 Stat. 275; Pub. L. 102–365, §6, Sept. 3, 1992, 106 Stat. 975; Pub. L.103–322, title VI, §60007, title XXXIII, §§330009(c), 330011(g), Sept. 13, 1994, 108 Stat. 1971, 2143, 2145; Pub. L. 104–132, title VII, §727(a), Apr. 24, 1996, 110 Stat. 1302; Pub. L. 104–294, title VI, §601(f)(2), Oct. 11, 1996, 110 Stat. 3499.)
 
 #### Historical and Revision Notes
 
@@ -114,10 +114,6 @@ Pub. L. 91–375 substituted “officer or employee of the Postal Service”, fo
 
 Section 330011(g) of Pub. L. 103–322 provided that the amendment made by that section is effective as of Nov. 29, 1990.
 
-#### Effective Date of 1994 Amendment
-
-Section 330011(g) of Pub. L. 103–322 provided that the amendment made by that section is effective as of Nov. 29, 1990.
-
 #### Effective Date of 1980 Amendment
 
 Section 802(g)(3) of Pub. L. 96–466 provided in part that the amendment made by section 704 of Pub. L. 96–466 is effective Oct. 17, 1980.
@@ -125,6 +121,10 @@ Section 802(g)(3) of Pub. L. 96–466 provided in part that the amendment made b
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–630 effective on expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as an Effective Date note under section 375b of Title 12, Banks and Banking.
+
+#### Effective Date of 1976 Amendment
+
+Amendment by Pub. L. 94–582 effective 30 days after Oct. 21, 1976, see section 27 of Pub. L. 94–582, as amended, set out as a note under section 74 of Title 7, Agriculture.
 
 #### Effective Date of 1970 Amendments
 
@@ -147,10 +147,6 @@ Section 17(h)(2) of Pub. L. 91–596 provided that: “Notwithstanding the provi
 #### Immunity From Criminal Prosecution
 
 Section 5 of Pub. L. 88–493 which provided that nothing in Pub. L. 88–493, which amended this section and section 112 of this title, and enacted former section 170e-1 of Title 5, Government Organization and Employees, shall create immunity from criminal prosecution under the laws of any State, territory, possession, Puerto Rico, or the District of Columbia, is set out as a note under section 112 of this title.
-
-#### Cross References
-
-Assaulting, resisting, or impeding officers or employees designated in this section, see section 111 of this title.
 
 #### Section Referred to in Other Sections
 

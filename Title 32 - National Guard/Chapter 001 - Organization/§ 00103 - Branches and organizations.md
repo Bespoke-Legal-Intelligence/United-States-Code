@@ -24,9 +24,3 @@ The word “members” is substituted for the words “officers and enlisted men
 
 1988—Pub. L. 100–456 struck out “the Canal Zone,” after “Puerto Rico,”.
 
-#### Cross References
-
-Appointment of National Guard officers as Reserve officers upon Federal recognition, see sections 12211 and 12212 of Title 10, Armed Forces.
-
-Army Staff, see section 3031 et seq. of Title 10.
-

@@ -4,6 +4,10 @@ The Congress finds that the use of flexible and compressed work schedules has th
 
 (Added Pub. L. 97–221, §2(a)(2), July 23, 1982, 96 Stat. 227.)
 
+#### Telecommuting in Executive Agencies
+
+Pub. L. 106–346, §101(a) \[title III, §359\], Oct. 23, 2000, 114 Stat. 1356, 1356A–36, provided that: “Each executive agency shall establish a policy under which eligible employees of the agency may participate in telecommuting to the maximum extent possible without diminished employee performance. Not later than 6 months after the date of the enactment of this Act \[Oct. 23, 2000\], the Director of the Office of Personnel Management shall provide that the requirements of this section are applied to 25 percent of the Federal workforce, and to an additional 25 percent of such workforce each year thereafter.”
+
 #### Expanding Family-Friendly Work Arrangements in Executive Branch
 
 Memorandum of President of the United States, July 11, 1994, 59 F.R. 36017, provided:
@@ -12,7 +16,7 @@ Memorandum for the Heads of Executive Departments and Agencies
 
 In order to recruit and retain a Federal work force that will provide the highest quality of service to the American people, the executive branch must implement flexible work arrangements to create a “family-friendly” workplace. Broad use of flexible work arrangements to enable Federal employees to better balance their work and family responsibilities can increase employee effectiveness and job satisfaction, while decreasing turnover rates and absenteeism. I therefore adopt the National Performance Review's recommendation that a more family-friendly workplace be created by expanding opportunities for Federal workers to participate in flexible work arrangements, consistent with the mission of the executive branch to serve the public.
 
-The head of each executive department or agency (hereafter collectively “agency” or “agencies”) is hereby directed to establish a program to encourage and support the expansion of flexible family-friendly workarrangements, including: job sharing; career part-time employment; alternative work schedules; telecommuting and satellite work locations. Such a program shall include:
+The head of each executive department or agency (hereafter collectively “agency” or “agencies”) is hereby directed to establish a program to encourage and support the expansion of flexible family-friendly work arrangements, including: job sharing; career part-time employment; alternative work schedules; telecommuting and satellite work locations. Such a program shall include:
 
 &emsp;(1) identifying agency positions that are suitable for flexible work arrangements;
 

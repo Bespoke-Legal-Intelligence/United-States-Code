@@ -12,7 +12,7 @@
 
 #### Amendments
 
-1964—Pub. L. 88–619, §§8(b), 9(b), 10(b), 12(b), Oct. 3, 1964, 78 Stat. 997, 998, substituted “Transmittal of letter rogatory or request” for “Foreign witnesses” in item 1781, “Assistance to foreign and international tribunals and to litigants before such tribunals” for “Testimony for use in foreign countries” in item 1782, “person” for “witness” in item 1783, and struck out item 1785 “Privilege against incrimination”.
+<b>1964</b>—Pub. L. 88–619, §§8(b), 9(b), 10(b), 12(b), Oct. 3, 1964, 78 Stat. 997, 998, substituted “Transmittal of letter rogatory or request” for “Foreign witnesses” in item1781, “Assistance to foreign and international tribunals and to litigants before such tribunals” for “Testimony for use in foreign countries” in item 1782, “person” for “witness” in item 1783, and struck out item 1785 “Privilege against incrimination”.
 
 #### Depositions in Admiralty Cases
 
@@ -32,23 +32,7 @@ Sec. 864. Every person deposing as provided in the preceding section \[R.S. §86
 
 Sec. 865. Every deposition taken under the two preceding sections \[R.S. §§863, 864\] shall be retained by the magistrate taking it, until he delivers it with his own hand into the court for which it is taken; or it shall, together with a certificate of the reasons as aforesaid of taking it and of the notice, if any, given to the adverse party, be by him sealed up and directed to such court, and remain under his seal until opened in court. But unless it appears to the satisfaction of the court that the witness is then dead, or gone out of the United States, or to a greater distance than one hundred miles from the place where the court is sitting, or that, by reason of age, sickness, bodily infirmity, or imprisonment, he is unable to travel and appear at court, such deposition shall not be used in the cause.”
 
-R.S. §§863 to 865, as amended, quoted above, were applicable to admiralty proceedings only. Proceedings in bankruptcy and copyright are governed by rule 26 et seq. of Federal Rules of Civil Procedure. See also Rulesof Bankruptcy Procedure set out in the Appendix to Title 11, Bankruptcy.
-
-#### Federal Rules of Civil Procedure
-
-Depositions and discovery, see rules 26 to 37, Appendix to this title.
-
-Persons before whom depositions may be taken in foreign countries, see rule 28.
-
-Subpoena for taking depositions, see rule 45.
-
-#### Federal Rules of Criminal Procedure
-
-Subpoena for taking depositions in criminal cases, see rule 17, Title 18, Appendix, Crimes and Criminal Procedure.
-
-#### Rules of the United States Court of Federal Claims
-
-Subpoena to witness in foreign country, see rule 45, Appendix to this title.
+R.S. §§863 to 865, as amended, quoted above, were applicable to admiralty proceedings only. Proceedings in bankruptcy and copyright are governed by rule 26 et seq. of Federal Rules of Civil Procedure. See also Rules of Bankruptcy Procedure set out in the Appendix to Title 11, Bankruptcy.
 
 
 ---

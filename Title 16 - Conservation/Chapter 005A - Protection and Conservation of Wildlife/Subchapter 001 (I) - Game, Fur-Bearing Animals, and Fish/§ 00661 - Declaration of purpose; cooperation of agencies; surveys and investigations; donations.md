@@ -36,7 +36,7 @@ Act May 26, 1948, ch. 348, 62 Stat. 274, directed the Fish and Wildlife Service 
 
 #### Act Referred to in Other Sections
 
-The Fish and Wildlife Coordination Act \[16 U.S.C. 661 to 666c\] is referred to in 666e, 666g, 803, 823a, 1534, 2705, 4411 of this title; title 30 section 1292; title 33 sections 1416, 2283; title 43 sections 421h, 422h, 2223.
+The Fish and Wildlife Coordination Act \[16 U.S.C. 661 to 666c\] is referred to in 666e, 666g, 803, 823a, 823c, 1534, 2705, 4411 of this title; title 30 section 1292; title 33 sections 1416, 2283; title 43 sections 421h, 422h, 2223.
 
 #### Section Referred to in Other Sections
 

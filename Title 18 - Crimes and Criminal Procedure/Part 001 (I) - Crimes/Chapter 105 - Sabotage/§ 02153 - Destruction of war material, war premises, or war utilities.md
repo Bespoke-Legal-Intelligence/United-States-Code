@@ -30,14 +30,6 @@ Minor changes were made in phraseology.
 
 Section 7 of act June 30, 1953, ch. 175, 67 Stat. 134, repealed Joint Res. July 3, 1952, ch. 570, §1(a)(29), 66 Stat. 333; Joint Res. Mar. 31, 1953, ch. 13, §1, 67 Stat. 18, formerly cited as credits to this section and also formerly set out as a note under this section.
 
-#### Canal Zone
-
-Applicability of section to Canal Zone, see section 14 of this title.
-
-#### Cross References
-
-Repeal of Prior Extensions of War-time Provisions, see note under section 794 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 14 of this title; title 8 section 1101.

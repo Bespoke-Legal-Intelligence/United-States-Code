@@ -16,13 +16,9 @@ Section 79 of this title, referred to in text, was in the original a reference t
 
 Section is a combination of sections 2 and 3 of act Aug. 1, 1916, all but the last sentence being derived from section 2.
 
-#### Haleakala National Park
+#### Haleakala�AE8 National Park
 
-Establishment of detached portion of Hawaii National Park lying on island of Maui as Haleakala National Park, effective July 1, 1961, see section 396b of this title.
-
-#### Cross References
-
-Issuance of licenses to citizens or associations or corporations for purpose of constructing, operating, and maintaining dams, water conduits, reservoirs, powerhouses, transmission lines, etc., upon any part of the public lands or reservations of United States, see section 797 of this title.
+Establishment of detached portion of Hawaii National Park lying on island of Maui as Haleakala�AE8 National Park, effective July 1, 1961, see section 396b of this title.
 
 #### Section Referred to in Other Sections
 

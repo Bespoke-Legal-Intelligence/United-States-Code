@@ -12,10 +12,6 @@ Section was not enacted as part of the Foreign Service Act of 1980 which compris
 
 Section was formerly classified to section 1184 of this title, and prior thereto to section 87 of this title.
 
-#### Cross References
-
-Restriction on consular certificates, see section 339 of Title 19, Customs Duties.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 4191 of this title.

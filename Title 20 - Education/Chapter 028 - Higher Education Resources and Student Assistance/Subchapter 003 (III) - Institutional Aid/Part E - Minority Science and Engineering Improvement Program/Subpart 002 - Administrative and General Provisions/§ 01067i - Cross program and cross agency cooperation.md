@@ -2,7 +2,7 @@
 
 The Minority Science and Engineering Improvement Programs shall cooperate and consult with other programs within the Department and within Federal, State, and private agencies which carry out programs to improve the quality of science, mathematics, and engineering education.
 
-(Pub. L. 89–329, title III, §363, formerly title X, §1043, as added Pub. L. 99–498, title X, §1002, Oct. 17, 1986, 100 Stat. 1564; amended Pub. L. 102–325, title X, §1002(d), July 23, 1992, 106 Stat. 780; renumbered title III, §363, Pub. L. 105–244, title III, §301(a)(5), (7), Oct. 7, 1998, 112 Stat. 1636.)
+(Pub. L. 89–329, title III, §363, formerly title X, §1043, as added Pub. L. 99–498, title X, §1002, Oct.17, 1986, 100 Stat. 1564; amended Pub. L. 102–325, title X, §1002(d), July 23, 1992, 106 Stat. 780; renumbered title III, §363, Pub. L. 105–244, title III, §301(a)(5), (7), Oct. 7, 1998, 112 Stat. 1636.)
 
 #### Codification
 

@@ -1,6 +1,6 @@
 ### §8151. Statement of congressional purpose
 
-It is the purpose of this subchapter to strengthen the medical programs at Department facilities and improve the quality of health care provided veterans under this title by authorizing the Secretary to enter into agreements with health-care providers in order to share health-care resources with, and receive health-care resources from, such providers while ensuring no diminution of services to veterans.
+It is the purpose of this subchapter to strengthen the medical programs at Departmentfacilities and improve the quality of health care provided veterans under this title by authorizing the Secretary to enter into agreements with health-care providers in order to share health-care resources with, and receive health-care resources from, such providers while ensuring no diminution of services to veterans.
 
 (Added Pub. L. 89–785, title II, §203, Nov. 7, 1966, 80 Stat. 1373, §5051; amended Pub. L. 101–366, title II, §202(a), Aug. 15, 1990, 104 Stat. 438; renumbered §8151, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, §4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 103–210, §3(a), Dec. 20, 1993, 107 Stat. 2497; Pub. L. 104–262, title III, §301(a), Oct. 9, 1996, 110 Stat. 3191.)
 

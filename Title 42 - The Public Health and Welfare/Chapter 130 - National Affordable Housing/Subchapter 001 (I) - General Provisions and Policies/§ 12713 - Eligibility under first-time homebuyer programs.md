@@ -46,5 +46,5 @@ This section shall apply to any Federal program to assist first-time homebuyers,
 
 #### Codification
 
-Section was enacted as part of title IX of the Cranston-Gonzalez National Affordable Housing Act, and not as part of title I of such Act which comprises this subchapter.
+Section was enacted as part of title IX of the Cranston-Gonzalez National Affordable Housing Act, andnot as part of title I of such Act which comprises this subchapter.
 

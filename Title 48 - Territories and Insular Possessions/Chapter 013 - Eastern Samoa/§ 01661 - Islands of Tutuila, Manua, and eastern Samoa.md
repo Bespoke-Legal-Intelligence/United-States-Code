@@ -6,7 +6,7 @@ The cessions by certain chiefs of the islands of Tutuila and Manua and certain o
 
 #### (b) Public land laws; revenue
 
-The existing laws of the United States relative to public lands shall not apply to such lands in the said islands of eastern Samoa; but the Congress of the United States shall enact special laws for their management and disposition: <i>Pro</i><i>vided</i>, That all revenue from or proceeds of the same, except as regards such part thereof as may be used or occupied for the civil, military, or naval purposes of the United States or may be assigned for the use of the local government, shall be used solely for the benefit of the inhabitants of the said islands of eastern Samoa for educational and other public purposes.
+The existing laws of the United States relative to public lands shall not apply to such lands in the said islands of eastern Samoa; but the Congress of the United States shall enact special laws for their management and disposition: <i>Provided</i>, That all revenue from or proceeds of the same, except as regards such part thereof as may be used or occupied for the civil, military, or naval purposes of the United States or may be assigned for the use of the local government, shall be used solely for the benefit of the inhabitants of the said islands of eastern Samoa for educational and other public purposes.
 
 #### (c) Government
 
@@ -35,20 +35,6 @@ See section 1271 of Pub. L. 99–514, set out as a note under section 931 of Tit
 #### Submerged Lands, Conveyance to Territory
 
 Conveyance of submerged lands to the government of American Samoa, see section 1701 et seq. of this title.
-
-#### Cross References
-
-Articles, goods, wares or merchandise going into Samoa as exempt from payment of any tax imposed by the internal revenue laws of the United States, see section 7653 of Title 26, Internal Revenue Code.
-
-Entry of goods by means of false statements as excluding Samoa, see section 542 of Title 18, Crimes and Criminal Procedure.
-
-Fair Labor Standards Act, application to Samoa, see section 213 of Title 29, Labor.
-
-Preference of American products and manufactures, inclusion of Samoa in statute, see section 10c of Title 41, Public Contracts.
-
-Relanding goods as excluding Samoa, see section 544 of Title 18, Crimes and Criminal Procedure.
-
-Smuggling as excluding Samoa, see section 545 of Title 18.
 
 #### Section Referred to in Other Sections
 

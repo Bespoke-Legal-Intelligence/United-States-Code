@@ -4,7 +4,3 @@ The surplus lands of any tribe may be leased for farming purposes by the council
 
 (Aug. 15, 1894, ch. 290, §1, 28 Stat. 305.)
 
-#### Cross References
-
-Lease on unallotted irrigable lands for farming purposes, see section 402a of this title.
-

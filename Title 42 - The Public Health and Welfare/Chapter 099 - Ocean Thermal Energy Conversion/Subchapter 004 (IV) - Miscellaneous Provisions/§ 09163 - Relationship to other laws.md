@@ -2,7 +2,7 @@
 
 #### (a) Facilities and plantships as comparable to areas of exclusive Federal jurisdiction located within a State
 
-(1) The Constitution, laws, and treaties of the United States shall apply to an ocean thermal energy conversion facility or plantship licensed under this chapter and all of which is located seaward of the highwater mark, and to activities connected, associated, or potentially interfering with the use or operation of any such facility or plantship, in the same manner as if such facility or plantship were an area of exclusive Federal jurisdiction located within a State. Nothing in this chapter shall be construed to relieve, exempt, or immunize any person from anyother requirement imposed by Federal law, regulation, or treaty.
+(1) The Constitution, laws, and treaties of the United States shall apply to an ocean thermal energy conversion facility or plantship licensed under this chapter and all of which is located seaward of the highwater mark, and to activities connected, associated, or potentially interfering with the use or operation of any such facility or plantship, in the same manner as if such facility or plantship were an area of exclusive Federal jurisdiction located within a State. Nothing in this chapter shall be construed to relieve, exempt, or immunize any person from any other requirement imposed by Federal law, regulation, or treaty.
 
 (2) Ocean thermal energy conversion facilities and plantships licensed under this chapter do not possess the status of islands and have no territorial seas of their own.
 
@@ -16,7 +16,7 @@
 
 (1) For the purposes of the customs laws administered by the Secretary of the Treasury, ocean thermal energy conversion facilities and plantships documented under the laws of the United States and licensed under this chapter shall be deemed to be vessels.
 
-(2) Except insofar as they apply to vessels documented under the laws of the United States, the customs laws administered by the Secretary of the Treasury, including the provisions of the Tariff Act of 1930, as amended (19 U.S.C. 1202), and other laws codified in title 19, shall not apply to any ocean thermal energy conversion facility or plantship documented under the laws of the United States and licensed under the provisions of this chapter, but all foreign articles to be used in the construction of any such facility or plantship, including any component thereof, shall first be made subject to all applicable duties and taxes which would be imposed upon or by reason of their importation if they were imported for consumption in the United States. Duties and taxes shall be paid thereon in accordance with laws applicable to merchandise imported into the customs territory of the United States.
+(2) Except insofar as they apply to vessels documented under the laws of the United States, the customs laws administered by the Secretary of the Treasury, including the provisions of the Tariff Act of 1930, as amended (19 U.S.C. 1202), and other laws codified in title 19, shall notapply to any ocean thermal energy conversion facility or plantship documented under the laws of the United States and licensed under the provisions of this chapter, but all foreign articles to be used in the construction of any such facility or plantship, including any component thereof, shall first be made subject to all applicable duties and taxes which would be imposed upon or by reason of their importation if they were imported for consumption in the United States. Duties and taxes shall be paid thereon in accordance with laws applicable to merchandise imported into the customs territory of the United States.
 
 (Pub. L. 96–320, title IV, §403, Aug. 3, 1980, 94 Stat. 998; Pub. L. 98–623, title VI, §602(a)(11), (12), (e)(6), Nov. 8, 1984, 98 Stat. 3411, 3412.)
 
@@ -37,8 +37,4 @@ Pub. L. 98–623, §602(e)(6), substituted “Secretary of the Treasury, includi
 #### Territorial Sea of United States
 
 For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
-
-#### Contiguous Zone of United States
-
-For extension of contiguous zone of United States, see Proc. No. 7219, Sept. 2, 1999, 64 F.R. 48701, set out as a note under section 1331 of Title 43, Public Lands.
 

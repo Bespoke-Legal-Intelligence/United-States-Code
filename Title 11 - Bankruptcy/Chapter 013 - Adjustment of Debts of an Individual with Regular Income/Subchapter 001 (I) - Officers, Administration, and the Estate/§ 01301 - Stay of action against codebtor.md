@@ -10,7 +10,7 @@
 
 (c) On request of a party in interest and after notice and a hearing, the court shall grant relief from the stay provided by subsection (a) of this section with respect to a creditor, to the extent that—
 
-&emsp;(1) as between the debtor and the individual protected under subsection (a) of this section, such individual received the consideration for the claim held by such creditor;
+&emsp;(1) as between the debtor and the individual protected under subsection (a) of this section,such individual received the consideration for the claim held by such creditor;
 
 &emsp;(2) the plan filed by the debtor proposes not to pay such claim; or
 
@@ -40,7 +40,7 @@ Under subsection (c), if the codebtor has property out of which the creditor's c
 
 #### house report no. 95–595
 
-This section is new. It is designed to protect a debtor operating under a chapter 13 individual repayment plan case by insulating him from indirect pressures from his creditors exerted through friends or relatives that may have cosigned an obligation of the debtor. The protection is limited, however, to ensure that the creditor involved does not lose the benefit of the bargain he made for a cosigner. He is entitled to full compensation, including any interest, fees, and costs provided for by the agreement under which the debtor obtained his loan. The creditor is simply required to share with other creditors to the extent that the debtor will repay himunder the chapter 13 plan. The creditor is delayed, but his substantive rights are not affected.
+This section is new. It is designed to protect a debtor operating under a chapter 13 individual repayment plan case by insulating him from indirect pressures from his creditors exerted through friends or relatives that may have cosigned an obligation of the debtor. The protection is limited, however, to ensure that the creditor involved does not lose the benefit of the bargain he made for a cosigner. He is entitled to full compensation, including any interest, fees, and costs provided for by the agreement under which the debtor obtained his loan. The creditor is simply required to share with other creditors to the extent that the debtor will repay him under the chapter 13 plan. The creditor is delayed, but his substantive rights are not affected.
 
 Subsection (a) is the operative subsection. It stays action by a creditor after an order for relief under chapter 13. The creditor may not act, or commence or continue any civil action, to collect all or any part of a consumer debt of the debtor from any individual that is liable on such debt with the debtor, or that has secured the debt, unless the individual became liable or secured the debt in the ordinary course of his business, or the case is closed, dismissed, or converted to chapter 7 or 11.
 

@@ -10,7 +10,7 @@ When acting as a receiver, the following provisions shall apply with respect to 
 
 &emsp;(1) The Corporation including its franchise, its capital, reserves, and surplus, and its income, shall be exempt from all taxation imposed by any State, county, municipality, or local taxing authority, except that any real property of the Corporation shall be subject to State, territorial, county, municipal, or local taxation to the same extent according to its value as other real property is taxed, except that, notwithstanding the failure of any person to challenge an assessment under State law of such property's value, such value, and the tax thereon, shall be determined as of the period for which such tax is imposed.
 
-&emsp;(2) No property of the Corporation shall be subject to levy, attachment, garnishment, foreclosure, or sale without the consent of the Corporation, nor shall any involuntary lien attach to the property of the Corporation.
+&emsp;(2) No property of the Corporation shall be subject to levy, attachment, garnishment,foreclosure, or sale without the consent of the Corporation, nor shall any involuntary lien attach to the property of the Corporation.
 
 &emsp;(3) The Corporation shall not be liable for any amounts in the nature of penalties or fines, including those arising from the failure of any person to pay any real property, personal property, probate, or recording tax or any recording or filing fees when due.
 
@@ -38,7 +38,7 @@ When acting as a receiver, the following provisions shall apply with respect to 
 
 &emsp;The Corporation shall—
 
-&emsp;&emsp;(A) estimate the market value of assets held by it as a result of case resolution activities, with a reduction for expenses expected to be incurred by the Corporation inconnection with the management and sale of such assets;
+&emsp;&emsp;(A) estimate the market value of assets held by it as a result of case resolution activities, with a reduction for expenses expected to be incurred by the Corporation in connection with the management and sale of such assets;
 
 &emsp;&emsp;(B) reflect the amounts so estimated in its financial statements; and
 
@@ -80,14 +80,6 @@ The full faith and credit of the United States is pledged to the payment of any 
 
 (Sept. 21, 1950, ch. 967, §2\[15\], 64 Stat. 890; Pub. L. 101–73, title II, §219, Aug. 9, 1989, 103 Stat. 261; Pub. L. 102–242, title I, §102(a), (c), Dec. 19, 1991, 105 Stat. 2236, 2237; Pub. L. 103–325, title VI, §602(a)(43), Sept. 23, 1994, 108 Stat. 2290; Pub. L. 104–208, div. A, title II, §2704(d)(14)(R), Sept. 30, 1996, 110 Stat. 3009–493.)
 
-#### Amendment of Subsection (c)(5)
-
-<i>Pub. L. 104–208, div. A, title II, §2704(c), (d)(14)(R), Sept. 30, 1996, 110 Stat. 3009–487, 3009–493, provided that, effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, subsection (c)(5) of this section is amended as follows:</i>
-
-<i>(1) By striking “the Bank Insurance Fund or Savings Association Insurance Fund, respectively” each place such term appears and inserting “the Deposit Insurance Fund”; and</i>
-
-<i>(2) In subparagraph (B), by striking “the Bank Insurance Fund or the Savings Association Insurance Fund, respectively” and inserting “the Deposit Insurance Fund”.</i>
-
 #### References in Text
 
 The Internal Revenue Code, referred to in subsecs. (a) and (b), is classified to Title 26, Internal Revenue Code.
@@ -98,6 +90,8 @@ Section is derived from subsec. (p) of former section 264 of this title. See Cod
 
 #### Amendments
 
+1996—Subsec. (c)(5). Pub. L. 104–208, which directed substitution of “the Deposit Insurance Fund” for “the Bank Insurance Fund or Savings Association Insurance Fund, respectively” in introductory provisions and in subpar. (A) and “the Deposit Insurance Fund” for “the Bank Insurance Fund or the Savings Association Insurance Fund, respectively” in subpar. (B), was not executed. See Effective Date of 1996 Amendment note below.
+
 1994—Subsec. (c)(1). Pub. L. 103–325 substituted “
 
 obligations, guarantees, and liabilities” for “
@@ -106,7 +100,7 @@ obligations liabilities” in heading.
 
 1991—Subsec. (c)(5), (6). Pub. L. 102–242, §102(a), added pars. (5) and (6) and struck out former par. (5) which provided for a 10-percent-minimum net worth requirement for Bank Insurance Fund or Savings Association Insurance Fund and former par. (6) which provided exception for up to $5,000,000,000 in additional liabilities beyond limitations of par. (5).
 
-Subsec. (c)(7). Pub. L. 102–242, §102(c), struck out par. (7) which provided for calculation of net worth and asset valuation of Bank Insurance Fund and the Savings Association Insurance Fund for purposes of par. (5).
+Subsec. (c)(7). Pub. L. 102–242, §102(c), struck out par. (7) which provided for calculation of net worth andasset valuation of Bank Insurance Fund and the Savings Association Insurance Fund for purposes of par. (5).
 
 1989—Subsec. (a). Pub. L. 101–73 designated existing provision as subsec. (a), inserted heading, and added subsecs. (b) to (d).
 

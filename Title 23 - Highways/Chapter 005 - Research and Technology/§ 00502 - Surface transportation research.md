@@ -52,7 +52,7 @@ Collaborative Research and Development.—
 
 In general.—To encourage innovative solutions to surface transportation problems and stimulate the deployment of new technology, the Secretary may carry out, on a cost-shared basis, collaborative research and development with—
 
-&emsp;&emsp;(A) non-Federal entities, including State and local governments, foreign governments,colleges and universities, corporations, institutions, partnerships, sole proprietorships, and trade associations that are incorporated or established under the laws of any State; and
+&emsp;&emsp;(A) non-Federal entities, including State and local governments, foreign governments, colleges and universities, corporations, institutions, partnerships, sole proprietorships, and trade associations that are incorporated or established under the laws of any State; and
 
 &emsp;&emsp;(B) Federal laboratories.
 
@@ -358,7 +358,7 @@ Fundamental properties of asphalts and modified asphalts.—
 
 &emsp;&emsp;“(A)
 
-In general.—The Secretary shall continue to carry out section 6016 of the Intermodal SurfaceTransportation Efficiency Act of 1991 \[Pub. L. 102–240, set out as a note below\]. Additional areas of the program under such section shall be asphalt-water interaction studies and asphalt-aggregate thin film behavior studies.
+In general.—The Secretary shall continue to carry out section 6016 of the Intermodal Surface Transportation Efficiency Act of 1991 \[Pub. L. 102–240, set out as a note below\]. Additional areas of the program under such section shall be asphalt-water interaction studies and asphalt-aggregate thin film behavior studies.
 
 &emsp;&emsp;“(B)
 
@@ -712,7 +712,7 @@ Spectrum.—The Federal Communications Commission shall consider, in consultatio
 
 “(a)
 
-In General.—The Secretary shall carry out a comprehensive program of intelligent transportationsystem research, development and operational tests of intelligent vehicles and intelligent infrastructure systems, and other similar activities that are necessary to carry out this subtitle.
+In General.—The Secretary shall carry out a comprehensive program of intelligent transportation system research, development and operational tests of intelligent vehicles and intelligent infrastructure systems, and other similar activities that are necessary to carry out this subtitle.
 
 “(b)
 
@@ -1100,15 +1100,17 @@ Report to congress.—Not later than November 30, 1995, the Administrator shall 
 
 “(e)
 
-Annual Report to Congress.—Not later than 180 days after the date of the enactment of this Act\[Dec. 18, 1991\], and on or before November 30th of each year beginning thereafter, the Administrator shall transmit to Congress a report of the progress made in implementing this section.
+Annual Report to Congress.—Not later than 180 days after the date of the enactment of this Act \[Dec. 18, 1991\], and on or before November 30th of each year beginning thereafter, the Administrator shall transmit to Congress a report of the progress made in implementing this section.
 
 “(f)
 
 Authorization of Appropriations.—The Secretary shall expend from administrative and research funds deducted under section 104(a) of this title at least $3,000,000 for each of fiscal years 1992, 1993, 1994, 1995, and 1996 to carry out subsection (b).”
 
+\[For termination, effective May 15, 2000, of annual reporting provisions in section 6016(e) of Pub. L. 102–240, set out above, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 139 of House Document No. 103–7.\]
+
 #### Study of Factors Affecting Safe and Efficient Operation of Bridges, Tunnels and Roads Within United States
 
-Pub. L. 95–599, title I, §166, Nov. 6, 1978, 92 Stat. 2722, provided that: “The Secretary of Transportation shall make a full and complete investigation and study of all those factors affecting the safe and efficient operation of bridges, tunnels, and roads within the United States, including, but not limited to, structural, operational, environmental, and civil disturbance factors.”
+Pub. L. 95–599, title I, §166, Nov. 6, 1978, 92 Stat. 2722, provided that: “The Secretary of Transportation shallmake a full and complete investigation and study of all those factors affecting the safe and efficient operation of bridges, tunnels, and roads within the United States, including, but not limited to, structural, operational, environmental, and civil disturbance factors.”
 
 #### Section Referred to in Other Sections
 

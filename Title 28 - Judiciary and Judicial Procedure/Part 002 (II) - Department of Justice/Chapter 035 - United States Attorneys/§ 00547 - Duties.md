@@ -34,7 +34,7 @@ The word “shall” is substituted for “it shall be the duty of”.
 
 #### 1948 Act
 
-<i>Prior section 507.—</i>Based on sections 312, 317, 323, 324, 327, 329, 330, 331 of title 5, U.S.C., 1940 ed., Executive Departments and Government Officers and Employees; second paragraph of section 305e of title 25, U.S.C., 1940 ed., Indians; and title 28, U.S.C., 1940 ed., §§485, 486, 487,488, 489 (R.S. §§362, 363, 373, 374, 377, 379–381, 771–775, 838; Feb. 27, 1877, ch. 69, §1, 19 Stat. 241; Apr. 9, 1910, ch. 152, 36 Stat. 294; Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167; May 10, 1934, ch. 277, §512, 48 Stat. 758; Aug. 27, 1935, ch. 748, §6, 49 Stat. 893).
+<i>Prior section 507.—</i>Based on sections 312, 317, 323, 324, 327, 329, 330, 331 of title 5, U.S.C., 1940 ed., Executive Departments and Government Officers and Employees; second paragraph of section 305e of title 25, U.S.C., 1940 ed., Indians; and title 28, U.S.C., 1940 ed., §§485, 486, 487, 488, 489 (R.S. §§362, 363, 373, 374, 377, 379–381, 771–775, 838; Feb. 27, 1877, ch. 69, §1, 19 Stat. 241; Apr. 9, 1910, ch. 152, 36 Stat. 294; Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167; May 10, 1934, ch. 277, §512, 48 Stat. 758; Aug. 27, 1935, ch. 748, §6, 49 Stat. 893).
 
 This section consolidates provisions of the sections enumerated above.
 
@@ -69,10 +69,6 @@ Changes in arrangement and phraseology were made.
 #### Prior Provisions
 
 A prior section 547, acts June 25, 1948, ch. 646, 62 Stat. 912; Oct. 18, 1962, Pub. L. 87–845, §8, 76A Stat. 699, related to powers and duties of marshals, prior to repeal by Pub. L. 89–554, §8(a), and reenactment in section 569 of this title by section 4(c) of Pub. L. 89–554.
-
-#### Cross References
-
-Bankruptcy offenses, duties of United States attorneys, see section 3057 of Title 18, Crimes and Criminal Procedure.
 
 #### Section Referred to in Other Sections
 

@@ -20,7 +20,7 @@ As used in this subpart:
 
 &emsp;&emsp;(D) respite care of children to provide temporary relief for parents and other caregivers (including foster parents); and
 
-&emsp;&emsp;(E) services designed to improve parenting skills (by reinforcing parents’ confidence in their strengths, and helping them to identify where improvement is needed and to obtain assistance in improving those skills) with respect to matters such as child development, family budgeting, coping with stress, health, and nutrition.
+&emsp;&emsp;(E) services designed to improve parenting skills (by reinforcing parents’ confidence in their strengths, and helping them to identify where improvement is needed and to obtainassistance in improving those skills) with respect to matters such as child development, family budgeting, coping with stress, health, and nutrition.
 
 #### (2) Family support services
 

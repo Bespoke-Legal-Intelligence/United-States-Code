@@ -14,7 +14,7 @@ A registration pursuant to section 823 of this title to manufacture, distribute,
 
 &emsp;(5) has been excluded (or directed to be excluded) from participation in a program pursuant to section 1320a–7(a) of title 42.
 
-> A registration pursuant to section 823(g) of this title to dispense a narcotic drug for maintenance treatment or detoxification treatment may be suspended or revoked by the Attorney General upon a finding that the registrant has failed to comply with any standard referred to in section 823(g) of this title.
+> A registration pursuant to section 823(g)(1) of this title to dispense a narcotic drug for maintenance treatment or detoxification treatment may be suspended or revoked by the Attorney General upon a finding that the registrant has failed to comply with any standard referred to in section 823(g)(1) of this title.
 
 #### (b) Limits of revocation or suspension
 
@@ -26,7 +26,7 @@ Before taking action pursuant to this section, or pursuant to a denial of regist
 
 #### (d) Suspension of registration in cases of imminent danger
 
-The Attorney General may, in his discretion, suspend any registration simultaneously withthe institution of proceedings under this section, in cases where he finds that there is an imminent danger to the public health or safety. A failure to comply with a standard referred to in section 823(g) of this title may be treated under this subsection as grounds for immediate suspension of a registration granted under such section. A suspension under this subsection shall continue in effect until the conclusion of such proceedings, including judicial review thereof, unless sooner withdrawn by the Attorney General or dissolved by a court of competent jurisdiction.
+The Attorney General may, in his discretion, suspend any registration simultaneously with the institution of proceedings under this section, in cases where he finds that there is an imminent danger to the public health or safety. A failure to comply with a standard referred to in section 823(g)(1) of this title may be treatedunder this subsection as grounds for immediate suspension of a registration granted under such section. A suspension under this subsection shall continue in effect until the conclusion of such proceedings, including judicial review thereof, unless sooner withdrawn by the Attorney General or dissolved by a court of competent jurisdiction.
 
 #### (e) Suspension and revocation of quotas
 
@@ -40,7 +40,7 @@ In the event the Attorney General suspends or revokes a registration granted und
 
 The Attorney General may, in his discretion, seize or place under seal any controlled substances or list I chemicals owned or possessed by a registrant whose registration has expired or who has ceased to practice or do business in the manner contemplated by his registration. Such controlled substances or list I chemicals shall be held for the benefit of the registrant, or his successor in interest. The Attorney General shall notify a registrant, or his successor in interest, who has any controlled substance or list I chemical seized or placed under seal of the procedures to be followed to secure the return of the controlled substance or list I chemical and the conditions under which it will be returned. The Attorney General may not dispose of any controlled substance or list I chemical seized or placed under seal under this subsection until the expiration of one hundred and eighty days from the date such substance or chemical was seized or placed under seal.
 
-(Pub. L. 91–513, title II, §304, Oct. 27, 1970, 84 Stat. 1255; Pub. L. 93–281, §4, May 14, 1974, 88 Stat. 125; Pub. L. 98–473, title II, §§304, 512, 513, Oct. 12, 1984, 98 Stat. 2050, 2073; Pub. L. 100–93, §8(j), Aug. 18, 1987, 101 Stat. 695; Pub. L. 103–200, §3(d), Dec. 17, 1993, 107 Stat. 2337; Pub. L. 103–322, title XXXIII, §330024(e), Sept. 13, 1994, 108 Stat. 2151.)
+(Pub. L. 91–513, title II, §304, Oct. 27, 1970, 84 Stat. 1255; Pub. L. 93–281, §4, May 14, 1974, 88 Stat. 125; Pub. L. 98–473, title II, §§304, 512, 513, Oct. 12, 1984, 98 Stat. 2050, 2073; Pub. L. 100–93, §8(j), Aug. 18, 1987, 101 Stat. 695; Pub. L. 103–200, §3(d), Dec. 17, 1993, 107 Stat. 2337; Pub. L. 103–322, title XXXIII, §330024(e), Sept. 13, 1994, 108 Stat. 2151; Pub. L. 106–310, div. B, title XXXV, §3502(b), Oct. 17, 2000, 114 Stat. 1227.)
 
 #### References in Text
 
@@ -49,6 +49,10 @@ This subchapter, referred to in subsec. (a)(1), (2), was in the original “this
 Subchapter II of this chapter, referred to in subsec. (a)(1), (2), was in the original “title III”, meaning title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285. Part A of title III comprises subchapter II of this chapter. For classification of Part B, consisting of sections 1101 to 1105 of title III, see Tables.
 
 #### Amendments
+
+2000—Subsec. (a). Pub. L. 106–310, §3502(b)(1), substituted “section 823(g)(1) of this title” for “section 823(g) of this title” in two places in concluding provisions.
+
+Subsec. (d). Pub. L. 106–310, §3502(b)(2), substituted “section 823(g)(1) of this title” for “section 823(g) of this title”.
 
 1994—Subsec. (g). Pub. L. 103–322 inserted “or chemical” after “such substance” in last sentence.
 
@@ -84,7 +88,7 @@ Amendment by Pub. L. 103–200 effective on date that is 120 days after Dec. 17,
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–93 effective at end of fourteen-day period beginning Aug. 18, 1987, and inapplicable to administrative proceedings commenced before end of such period, see section 15(a) of Pub. L. 100–93, set out as a note under section 1320a–7 of Title 42, The Public Health and Welfare.
+Amendment by Pub. L. 100–93 effective at end of fourteen-day period beginning Aug. 18, 1987, and inapplicable to administrative proceedings commenced before end of such period, see section 15(a) of Pub. L. 100–93,set out as a note under section 1320a–7 of Title 42, The Public Health and Welfare.
 
 #### Provisional Registration
 

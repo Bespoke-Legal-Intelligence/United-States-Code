@@ -22,7 +22,7 @@ Any vessel or class of vessels, the keel of which is laid or which is at a corre
 
 &emsp;&emsp;(2) on vessels of 150 meters or more in length, until 9 years after the effective date of these Rules.
 
-&emsp;(v) the restructuring or repositioning of all lights to meet the prescriptions of Annex I to these Rules, until 9 years after the effective date of these Rules;
+&emsp;(v) the restructuring or repositioning of all lights to meet the prescriptions of Annex I tothese Rules, until 9 years after the effective date of these Rules;
 
 &emsp;(vi) power-driven vessels of 12 meters or more but less than 20 meters in length are permanently exempt from the provisions of Rule 23(a)(i) and 23(a)(iv) provided that, in place of these lights, the vessel exhibits a white light aft visible all round the horizon; and
 

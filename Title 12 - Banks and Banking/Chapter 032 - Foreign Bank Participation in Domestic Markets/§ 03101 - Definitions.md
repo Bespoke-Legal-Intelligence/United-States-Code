@@ -14,7 +14,7 @@ For the purposes of this chapter—
 
 &emsp;(6) “Federal branch” means a branch of a foreign bank established and operating under section 3102 of this title;
 
-&emsp;(7) “foreign bank” means any company organized under the laws of a foreign country, a territory of the United States, Puerto Rico, Guam, American Samoa, or the Virgin Islands, which engages in the business of banking, or any subsidiary or affiliate, organized under such laws, of any such company. For the purposes of this chapter the term “foreign bank”includes, without limitation, foreign commercial banks, foreign merchant banks and other foreign institutions that engage in banking activities usual in connection with the business of banking in the countries where such foreign institutions are organized or operating;
+&emsp;(7) “foreign bank” means any company organized under the laws of a foreign country, a territory of the United States, Puerto Rico, Guam, American Samoa, or the Virgin Islands, which engages in the business of banking, or any subsidiary or affiliate, organized under such laws, of any such company. For the purposes of this chapter the term “foreign bank” includes, without limitation, foreign commercial banks, foreign merchant banks and other foreign institutions that engage in banking activities usual in connection with the business of banking in the countries where such foreign institutions are organized or operating;
 
 &emsp;(8) “foreign country” means any country other than the United States, and includes any colony, dependency, or possession of any such country;
 
@@ -96,7 +96,7 @@ Sec. 902. The Board of Governors of the Federal Reserve System, the Comptroller 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 347d, 1813, 1817, 1828, 1843, 2804, 4009, 4402 of this title; title 15 sections 57a, 78c, 78q, 80a–2, 1607, 1681s, 1691c, 1692<i>l</i>, 1693<i>o</i>, 6805; title 18 sections 20, 212, 213, 648, 655, 1004, 1014, 1030, 1906, 1956, 2113; title 31 section 5313.
+This section is referred to in sections 347d, 1813, 1817, 1828, 1843, 2804, 4009, 4402 of this title; title 7 sections 1a, 27; title 15 sections 57a, 78c, 78q, 80a–2, 1607, 1681s, 1691c, 1692<i>l</i>, 1693<i>o</i>, 6805; title 18 sections 20, 212, 213, 648, 655, 1004, 1014, 1030, 1906, 1956, 2113; title 31 section 5313.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should follow the quotation marks.</i>
 

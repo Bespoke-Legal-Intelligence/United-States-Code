@@ -4,6 +4,8 @@
 
 (2) The Secretary of the Army, upon approval by the Secretary of Defense, shall determine the countries from which persons may be selected for appointment under this section and the number of persons that may be selected from each country. The Secretary of the Army may establish entrance qualifications and methods of competition for selection among individual applicants under this section and shall select those persons who will be permitted to receive instruction at the Academy under this section.
 
+(3) In selecting persons to receive instruction under this section from among applicants from the countries approved under paragraph (2), the Secretary of the Army shall give a priority to persons who have a national service obligation to their countries upon graduation from the Academy.
+
 (b)(1) A person receiving instruction under this section is entitled to the pay, allowances, and emoluments of a cadet appointed from the United States, and from the same appropriations.
 
 (2) Each foreign country from which a cadet is permitted to receive instruction at the Academy under this section shall reimburse the United States for the cost of providing such instruction, including the cost of pay, allowances, and emoluments provided under paragraph (1) unless a written waiver of reimbursement is granted by the Secretary of Defense. The Secretary of the Army shall prescribe the rates for reimbursement under this paragraph, except that the reimbursement rates may not be less than the cost to the United States of providing such instruction, including pay, allowances, and emoluments, to a cadet appointed from the United States.
@@ -16,7 +18,7 @@
 
 (d) A person receiving instruction under this section is not subject to section 4346(d) of this title.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 242; Pub. L. 98–94, title X, §1004(a)(1), Sept. 24, 1983, 97 Stat. 657; Pub. L. 105–85, div. A, title V, §543(a), Nov. 18, 1997, 111 Stat. 1743; Pub. L. 106–65, div. A, title V, §534(a), Oct. 5, 1999, 113 Stat. 605.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 242; Pub. L. 98–94, title X, §1004(a)(1), Sept. 24, 1983, 97 Stat. 657; Pub. L. 105–85, div. A, title V, §543(a), Nov. 18, 1997, 111 Stat. 1743; Pub. L. 106–65, div. A, title V, §534(a), Oct. 5, 1999, 113 Stat. 605; Pub. L. 106–398, §1 \[\[div. A\], title V, §532(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–110.)
 
 Historical and Revision Notes
 
@@ -52,9 +54,11 @@ In subsection (b), the words “is entitled to” are substituted for the words 
 
 In subsection (c), the words “to any office or position” are omitted as surplusage.
 
-In subsection (d), the words “and 1101” are omitted, since section 1321 of the Revised Statutes, previously codified in 10:1101, was repealed by section 6(b) of the Act of June 30, 1950, ch. 421, 64 Stat. 305.
+In subsection (d), the words “and 1101” are omitted, since section 1321 of the Revised Statutes, previouslycodified in 10:1101, was repealed by section 6(b) of the Act of June 30, 1950, ch. 421, 64 Stat. 305.
 
 #### Amendments
+
+2000—Subsec. (a)(3). Pub. L. 106–398 added par. (3).
 
 1999—Subsec. (b)(3). Pub. L. 106–65 substituted “50 percent” for “35 percent” and “20 persons” for “five persons”.
 
@@ -77,6 +81,10 @@ Subsec. (c)(1). Pub. L. 98–94 redesignated first sentence of existing subsec. 
 Subsec. (c)(2). Pub. L. 98–94 redesignated second sentence of existing subsec. (c) as par. (2) and substituted “appointment in an armed force of the United States” for “appointment in the United States Army”.
 
 Subsec. (d). Pub. L. 98–94 reenacted subsec. (d) without change.
+
+#### Effective Date of 2000 Amendment
+
+Pub. L. 106–398, §1 \[\[div. A\], title V, §532(d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–110, provided that: “The amendments made by this section \[amending this section and sections 6957 and 9344 of this title\] shall apply with respect to academic years that begin after October 1, 2000.”
 
 #### Effective Date of 1999 Amendment
 

@@ -24,10 +24,6 @@
 
 1952—Act July 16, 1952, ch. 879, §18(b), 66 Stat. 722, added item 1343.
 
-#### Cross References
-
-Offenses affecting Postal Service, see section 1691 et seq. of this title.
-
 #### Chapter Referred to in Other Sections
 
 This chapter is referred to in title 29 section 1111.

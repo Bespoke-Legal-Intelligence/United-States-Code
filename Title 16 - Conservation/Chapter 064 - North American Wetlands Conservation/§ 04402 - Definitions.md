@@ -2,7 +2,7 @@
 
 For the purposes of this chapter:
 
-&emsp;(1) The term “Agreement” means the Tripartite Agreement signed in March 1988, by the Director General for Ecological Conservation of Natural Resources of Mexico, the Director of the Canadian Wildlife Service, andthe Director of the United States Fish and Wildlife Service.
+&emsp;(1) The term “Agreement” means the Tripartite Agreement signed in March 1988, by the Director General for Ecological Conservation of Natural Resources of Mexico, the Director of the Canadian Wildlife Service, and the Director of the United States Fish and Wildlife Service.
 
 &emsp;(2) The term “appropriate Committees” means the Committee on Environment and Public Works of the United States Senate and the Committee on Merchant Marine and Fisheries of the United States House of Representatives.
 

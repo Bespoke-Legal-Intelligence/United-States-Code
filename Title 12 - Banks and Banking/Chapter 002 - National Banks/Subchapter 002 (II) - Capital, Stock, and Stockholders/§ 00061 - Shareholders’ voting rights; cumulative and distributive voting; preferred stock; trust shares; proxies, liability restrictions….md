@@ -16,7 +16,7 @@ R.S. §5144 derived from act June 3, 1864, ch. 106, §11, 13 Stat. 102, which wa
 
 1954—Subsec. (d). Act Sept. 3, 1954, substituted “section 1005 of Title 18” for “section 592 of this title”.
 
-1935—Act Aug. 23, 1935, amended first par., first sentence of third par., and inserted “and the provisions of this subsection, instead of subsection (b), shall apply to all holding company affiliates with respect to any shares of bank stock owned or controlled by them as to which there is no statutory liability imposed upon the holders of such bank stock” at end of subsec. (c).
+1935—Act Aug. 23, 1935, amended first par., first sentence of third par., and inserted “and the provisions of this subsection, instead of subsection (b), shall apply toall holding company affiliates with respect to any shares of bank stock owned or controlled by them as to which there is no statutory liability imposed upon the holders of such bank stock” at end of subsec. (c).
 
 1933—Act June 16, 1933, inserted provisions for cumulative voting of shares or distribution of votes on a cumulative voting principle, prohibited national banks holding their own shares as sole trustee from voting such shares but permitted such shares to be voted when held by another person or persons as trustees with the bank, denied voting rights to shares controlled by a holding company affiliate of a national bank unless a voting permit was first obtained, provided for application for a voting permit to the Federal Reserve Board, specified conditions for granting the voting permit and procedure for its revocation, and authorized the forfeiture of a National Bank's rights, privileges, and franchises upon such revocation.
 

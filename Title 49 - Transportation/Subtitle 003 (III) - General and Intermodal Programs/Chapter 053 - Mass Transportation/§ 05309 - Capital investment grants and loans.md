@@ -168,7 +168,7 @@ Letters of Intent, Full Funding Grant Agreements, and Early Systems Work Agreeme
 
 &emsp;(iv) make timely and efficient management of the project easier according to the law of the United States.
 
-(B) An agreement under this paragraph obligates an amount of available budget authority specified in law and may include a commitment, contingent on amounts to be specified in law in advance for commitments under this paragraph, to obligate an additional amount from future available budget authority specified in law. The agreement shall state that the contingent commitment is not an obligation of the Government. Interest and other financing costs of efficiently carrying out a part of the project within a reasonable time are a cost of carrying out the project under a full funding grant agreement, except that eligible costs may not be more than the cost of the most favorable financing terms reasonably available for the project at the time of borrowing. The applicant shall certify, in a way satisfactory to the Secretary of Transportation, that the applicant has shown reasonable diligence in seeking the most favorable financing terms. The amount stipulated in an agreement under this paragraph for a fixed guideway project shall be sufficient to complete at least an operable segment.
+(B) An agreement under this paragraph obligates an amount of available budget authority specified in law and may include a commitment, contingent on amounts to be specified in law in advance for commitments under this paragraph,to obligate an additional amount from future available budget authority specified in law. The agreement shall state that the contingent commitment is not an obligation of the Government. Interest and other financing costs of efficiently carrying out a part of the project within a reasonable time are a cost of carrying out the project under a full funding grant agreement, except that eligible costs may not be more than the cost of the most favorable financing terms reasonably available for the project at the time of borrowing. The applicant shall certify, in a way satisfactory to the Secretary of Transportation, that the applicant has shown reasonable diligence in seeking the most favorable financing terms. The amount stipulated in an agreement under this paragraph for a fixed guideway project shall be sufficient to complete at least an operable segment.
 
 (3)(A) The Secretary of Transportation may make an early systems work agreement with an applicant if a record of decision under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) has been issued on the project and the Secretary finds there is reason to believe—
 
@@ -178,7 +178,29 @@ Letters of Intent, Full Funding Grant Agreements, and Early Systems Work Agreeme
 
 (B) A work agreement under this paragraph obligates an amount of available budget authority specified in law and shall provide for reimbursement of preliminary costs of carrying out the project, including land acquisition, timely procurement of system elements for which specifications are decided, and other activities the Secretary of Transportation decides are appropriate to make efficient, long-term project management easier. A work agreement shall cover the period of time the Secretary considers appropriate. The period may extend beyond the period of current authorization. Interest and other financing costs of efficiently carrying out the work agreement within a reasonable time are a cost of carrying out the agreement, except that eligible costs may not be more than the cost of the most favorable financing terms reasonably available for the project at the time of borrowing. The applicant shall certify, in a way satisfactory to the Secretary, that the applicant has shown reasonable diligence in seeking the most favorable financing terms. If an applicant does not carry out the project for reasons within the control of the applicant, the applicant shall repay all Government payments made under the work agreement plus reasonable interest and penalty charges the Secretary establishes in the agreement.
 
-(4) The total estimated amount of future obligations of the Government and contingent commitments to incur obligations covered by all outstanding letters of intent, full funding grant agreements, and early systems work agreements may be not more than the greater of the amount authorized under section 5338(b) of this title for new fixed guideway systems and extensions to existing fixed guideway systems and the amount appropriated under section 5338(h)(5) or anamount equivalent to the last 2 fiscal years of funding authorized under section 5338(b) for new fixed guideway systems and extensions to existing fixed guideway systems, less an amount the Secretary of Transportation reasonably estimates is necessary for grants under this section not covered by a letter. The total amount covered by new letters and contingent commitments included in full funding grant agreements and early systems work agreements may be not more than a limitation specified in law.
+(4)(A) The total estimated amount of future obligations of the Government and contingent commitments to incur obligations covered by all outstanding letters of intent, full funding grant agreements, and early systems work agreements may be not more than the greater of the amount authorized under section 5338(b) of this title for new fixed guideway systems and extensions to existing fixed guideway systems and the amount appropriated under section 5338(h)(5) or an amount equivalent to the last 2 fiscal years of funding authorized under section 5338(b) for new fixed guideway systems and extensions to existing fixed guideway systems, less an amount the Secretary of Transportation reasonably estimates is necessary for grants under this section not covered by a letter. The total amount covered by new letters and contingent commitments included in full funding grant agreements and early systems work agreements may be not more than a limitation specified in law.
+
+(B) For fiscal year 2001 and thereafter, the amount equivalent to the last 2 fiscal years of funding authorized under section 5338(b) for new fixed guideway systems and extensions to existing fixed guideway systems referred to in subparagraph (A) shall be the amount equivalent to the last 3 fiscal years of such authorized funding.
+
+(C) Any increase in the total estimated amount of future obligations of the Government and contingent commitments to incur obligations covered by all outstanding letters of intent, full funding grant agreements, and early systems work agreements as a result of application of subparagraph (B) instead of subparagraph (A) shall be available as follows:
+
+&emsp;(1) $269,100,000 for the Chicago, Illinois Metra commuter rail project, that consists of the following elements: the Kane County extension; the North Central double-tracking project; and the Southwest corridor extension.
+
+&emsp;(2) $565,600,000 for the Chicago Transit Authority project that consists of the following elements: Ravenswood Branch station and line improvements and the Douglas Branch reconstruction project.
+
+&emsp;(3) For new fixed guideways and extensions to existing fixed guideway systems other than for projects referred to in paragraphs (1) and (2); except that for fiscal year 2001, such increase under this paragraph shall not be available for allocation by the department or for making future obligations of the Government and contingent commitments until April 1, 2001.
+
+(D) Of the amount that would be available under subparagraph (A) if subparagraph (B) were not in effect and would have otherwise been allocated by the Federal Transit Administration to those projects referred to in subparagraphs (C)(1) and (C)(2) shall be available as follows:
+
+&emsp;(1) $60,000,000 for the Minneapolis Hiawatha corridor light rail project, which shall be in addition to amounts otherwise allocated under subparagraph (A), for a total of $334,300,000.
+
+&emsp;(2) $217,800,000 for the Dulles corridor bus rapid transit project, that consists of a rail extension from the West Falls Church metrorail station to Tysons Corner, Virginia and bus rapid transit from Tysons Corner to the Dulles International Airport.
+
+(E) Any amount that would be available under subparagraph (A) if subparagraph (B) were not in effect and would have otherwise been allocated by the Federal Transit Administration to those projects referred to in subparagraphs (C)(1) and (C)(2), shall not be available for allocation by the department or for making future obligations of the Government and contingent commitments until April 1, 2001, except for thoseprojects referred to in subparagraph (D)(1) and (D)(2).
+
+(F) Future obligations of the Government and contingent commitments made against the contingent commitment authority under section 3032(g)(2) of the Intermodal Surface Transportation Efficiency Act of 1991 for the San Francisco BART to the Airport project for fiscal years 2002, 2003, 2004, 2005 and 2006 shall be charged against section 3032(g)(2) of the Intermodal Surface Transportation Efficiency Act of 1991.
+
+(G) Any amount that would be available under subparagraph (A) if subparagraph (F) were not in effect and would otherwise have been allocated by the Federal Transit Administration to the project in subparagraph (F) shall not be available for allocation by the department or for making future obligations of the Government and contingent commitments until April 1, 2001.
 
 (h)
 
@@ -316,7 +338,7 @@ Annual gao review.—The General Accounting Office shall—
 
 Project Defined.—In this section, the term “project” means, with respect to a new fixed guideway system or extension to an existing fixed guideway system, a minimum operable segment of the project.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 800; Pub. L. 104–287, §5(9), (12), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 102–240, title III, §3049(a), as added Pub. L. 105–130, §8, Dec. 1, 1997, 111 Stat. 2559; Pub. L. 105–178, title III, §3009(a), (c)–(h)(1), (3)(D), (i)–(k), June 9, 1998, 112 Stat. 352–357; Pub. L. 105–206, title IX, §9009(g), (h)(3), July 22, 1998, 112 Stat. 855, 856; Pub. L. 106–69, title III, §347, Oct. 9, 1999, 113 Stat. 1024.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 800; Pub. L. 104–287, §5(9), (12), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 102–240, title III, §3049(a), as added Pub. L. 105–130, §8, Dec. 1, 1997, 111 Stat. 2559; Pub. L. 105–178, title III, §3009(a), (c)–(h)(1), (3)(D), (i)–(k), June 9, 1998, 112 Stat. 352–357; Pub. L. 105–206, title IX, §9009(g), (h)(3), July 22, 1998, 112 Stat. 855, 856; Pub. L. 106–69, title III, §347, Oct. 9, 1999, 113 Stat. 1024; Pub. L. 106–346, §101(a) \[title III, §380\], Oct. 23, 2000, 114 Stat. 1356, 1356A–42; Pub. L. 106–554, §1(a)(4) \[div. A, §1101\], Dec. 21, 2000, 114 Stat. 2763, 2763A–201.)
 
 Historical and Revision Notes
 
@@ -544,15 +566,21 @@ The Clean Air Act, referred to in subsec. (e)(8)(B)(ii), is act July 14, 1955, c
 
 The National Environmental Policy Act of 1969, referred to in subsec. (g)(3)(A), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
+Section 3032(g)(2) of the Intermodal Surface Transportation Efficiency Act of 1991, referred to in subsec. (g)(4)(F), is section 3032(g)(2) of Pub. L. 102–240, title III, Dec. 18, 1991, 105 Stat. 2125, which is not classified to the Code.
+
 Section 103 of title 23, referred to in subsec. (n)(1), was amended generally by Pub. L. 105–178, title I, §1106(b), June 9, 1998, 112 Stat. 131, and, as so amended, no longer contains a subsec. (e)(4).
 
 #### Amendments
 
-1999—Subsec. (g)(1)(B). Pub. L. 106–69 inserted “and the House and Senate Committees on Appropriations” after “Committee on Banking, Housing, and Urban Affairs of the Senate”.
+2000—Subsec. (g)(4). Pub. L. 106–346 designated existing provisions as subpar. (A) and added subpars. (B) to (G).
+
+Subsec. (g)(4)(D)(2). Pub. L. 106–554 struck out “light” before “rail extension”.
+
+1999—Subsec. (g)(1)(B). Pub. L. 106–69 inserted “and the House and Senate Committees on Appropriations”after “Committee on Banking, Housing, and Urban Affairs of the Senate”.
 
 1998—Pub. L. 105–178, §3009(a), substituted “Capital investment” for “Discretionary” in section catchline.
 
-Subsec. (a)(1)(E) to (H). Pub. L. 105–178, §3009(c), added subpars. (E) and (F), redesignated former subpars. (F) and (G) as (G) and (H), respectively, and struck out former subpar. (E) which read as follows: “transportation projects that enhance urban economicdevelopment or incorporate private investment, including commercial and residential development, because the projects—
+Subsec. (a)(1)(E) to (H). Pub. L. 105–178, §3009(c), added subpars. (E) and (F), redesignated former subpars. (F) and (G) as (G) and (H), respectively, and struck out former subpar. (E) which read as follows: “transportation projects that enhance urban economic development or incorporate private investment, including commercial and residential development, because the projects—
 
 &emsp;“(i) enhance the effectiveness of a mass transportation project and are related physically or functionally to that mass transportation project; or
 
@@ -626,7 +654,7 @@ Amendment by section 5(12) of Pub. L. 104–287 effective July 5, 1994, see sect
 
 #### Report to Congress on Use of Funds Under Pub. L. 105–178
 
-Pub. L. 105–200, title IV, §403(b), July 16, 1998, 112 Stat. 670, provided that: “Not later than 2 years after the date of the enactment of this Act \[July 16, 1998\], the Secretary of Transportation, in consultation with theSecretary of Health and Human Services, shall submit to the Committees on Ways and Means and on Transportation and Infrastructure of the House of Representatives and the Committees on Finance and on Environment and Public Works of the Senate a report that—
+Pub. L. 105–200, title IV, §403(b), July 16, 1998, 112 Stat. 670, provided that: “Not later than 2 years after the date of the enactment of this Act \[July 16, 1998\], the Secretary of Transportation, in consultation with the Secretary of Health and Human Services, shall submit to the Committees on Ways and Means and on Transportation and Infrastructure of the House of Representatives and the Committees on Finance and on Environment and Public Works of the Senate a report that—
 
 &emsp;“(1) describes the manner in which funds made available under section 3037 of the Transportation Equity Act for the 21st Century \[Pub. L. 105–178, set out as a note below\] have been used;
 
@@ -728,7 +756,7 @@ Qualified entity.—The term ‘qualified entity’ means—
 
 &emsp;&emsp;“(A) with respect to any proposed eligible project in an urbanized area with a population of at least 200,000, the applicant or applicants selected by the appropriate metropolitan planning organization that meets the requirements of this section, including the planning and coordination requirements in subsection (i), from among designated recipients under section 5307(a)(2) of title 49, United States Code, local governmental authorities and agencies, and nonprofit organizations; and
 
-&emsp;&emsp;“(B) with respect to any proposed eligible project in an urbanized area with a population of less than 200,000, or an area other than an urbanized area, the applicant or applicants selected by the chief executive officer of the State in which the area is located that meets the requirements of this section, including the planning and coordination requirements in subsection (i), from among designated recipients under section 5307(a)(2) of title 49, United States Code, local governmental authorities and agencies, and nonprofit organizations.
+&emsp;&emsp;“(B) with respect to any proposed eligible project in an urbanized area with a population of less than 200,000, or an area other than an urbanized area, the applicant or applicants selected by the chief executive officer of the State in which the area is locatedthat meets the requirements of this section, including the planning and coordination requirements in subsection (i), from among designated recipients under section 5307(a)(2) of title 49, United States Code, local governmental authorities and agencies, and nonprofit organizations.
 
 &emsp;“(5)
 

@@ -8,7 +8,7 @@ All power sales under this chapter shall be subject at all times to the preferen
 
 (1) Whenever requested, the Administrator shall offer to sell to each requesting public body and cooperative entitled to preference and priority under the Bonneville Project Act of 1937 \[16 U.S.C. 832 et seq.\] and to each requesting investor-owned utility electric power to meet the firm power load of such public body, cooperative or investor-owned utility in the Region to the extent that such firm power load exceeds—
 
-&emsp;(A) the capability of such entity's firm peaking and energy resources used in the year prior to December 5, 1980, to serve its firm load in the region, and
+&emsp;(A) the capability of such entity's firm peaking and energy resources used in the year priorto December 5, 1980, to serve its firm load in the region, and
 
 &emsp;(B) such other resources as such entity determines, pursuant to contracts under this chapter, will be used to serve its firm load in the region.
 
@@ -31,6 +31,22 @@ All power sales under this chapter shall be subject at all times to the preferen
 &emsp;(C) contain a formula for determining annually, on a uniform basis, each such customer's contractual entitlement to firm power during such a period of restriction, which formula shall not consider customer resources other than those the customer has determined, as of December 5, 1980, to be used to serve its own firm loads.
 
 > The formula referred to in subparagraph (C) shall obligate the Administrator to provide on an annual basis only firm power needed to serve the portion of such customer's firm load in excess of the capability of such customer's own firm resources determined by such customer under paragraph (1) of this subsection to be used to serve its firm load.
+
+(7)
+
+Required sale.—
+
+&emsp;(A)
+
+Definition of a joint operating entity.—In this section, the term “joint operating entity” means an entity that is lawfully organized under State law as a public body or cooperative prior to September 22, 2000, and is formed by and whose members or participants are two or more public bodies or cooperatives, each of which was a customer of the Bonneville Power Administration on or before January 1, 1999.
+
+&emsp;(B)
+
+Sale.—Pursuant to paragraph (1), the Administrator shall sell, at wholesale to a joint operating entity, electric power solely for the purpose of meeting the regional firm power consumer loads of regional public bodies and cooperatives that are members of or participants in the joint operating entity.
+
+&emsp;(C)
+
+No resale.—A public body or cooperative to which a joint operating entity sells electric power under subparagraph (B) shall not resell that power except to retail customers of the public body or cooperative or to another regional member or participant of the same joint operating entity, or except as otherwise permitted by law.
 
 #### (c) Purchase and exchange sales
 
@@ -86,7 +102,7 @@ All power sales under this chapter shall be subject at all times to the preferen
 
 #### (e) Contractual entitlements to firm power
 
-(1) The contractual entitlement to firm power of any customer from whom, or on whose behalf, the Administrator has acquired electric power pursuant to section 839d of this title may not be restricted below the amount of electric power so acquired from, or on behalf of, such customer. If in any year such customer's requirements are less than such entitlement, any excess of such entitlement shall be first made available to increase the entitlement of other customers of the same class before being available for the entitlement of other customers. For purposes of this paragraph, the following entities shall each constitute a class:
+(1) The contractual entitlement to firm power of any customer from whom, or on whose behalf, the Administrator has acquired electric powerpursuant to section 839d of this title may not be restricted below the amount of electric power so acquired from, or on behalf of, such customer. If in any year such customer's requirements are less than such entitlement, any excess of such entitlement shall be first made available to increase the entitlement of other customers of the same class before being available for the entitlement of other customers. For purposes of this paragraph, the following entities shall each constitute a class:
 
 &emsp;(A) public bodies and cooperatives;
 
@@ -118,7 +134,7 @@ The Administrator is authorized to sell, or otherwise dispose of, electric power
 
 (2) Each customer offered a contract pursuant to this subsection shall have one year from the date of such offer to accept such contract. Such contract shall be effective as provided in this subsection.
 
-(3) An initial contract with a public body, cooperative or investor-owned electric utility customer or a Federal agency customer pursuant to subsection (b) of this section shall be effectiveon the date executed by such customer, unless another effective date is otherwise agreed to by the Administrator and the customer.
+(3) An initial contract with a public body, cooperative or investor-owned electric utility customer or a Federal agency customer pursuant to subsection (b) of this section shall be effective on the date executed by such customer, unless another effective date is otherwise agreed to by the Administrator and the customer.
 
 (4) An initial contract with an electric utility customer pursuant to subsection (c) of this section shall be effective on the date executed by such customer, but no earlier than the first day of the tenth month after December 5, 1980.
 
@@ -128,7 +144,7 @@ The Administrator is authorized to sell, or otherwise dispose of, electric power
 
 (7) The Administrator shall be deemed to have sufficient resources for the purpose of entering into the initial contracts specified in paragraph (1)(A) through (D).
 
-(Pub. L. 96–501, §5, Dec. 5, 1980, 94 Stat. 2712.)
+(Pub. L. 96–501, §5, Dec. 5, 1980, 94 Stat. 2712; Pub. L. 106–273, §1, Sept. 22, 2000, 114 Stat. 802.)
 
 #### References in Text
 
@@ -137,6 +153,10 @@ The Bonneville Project Act of 1937, referred to in subsecs. (a), (b)(1), and (f)
 The Federal Columbia River Transmission System Act, referred to in subsec. (f), is Pub. L. 93–454, Oct. 18, 1974, 88 Stat. 1376, as amended, which is classified generally to chapter 12G (§838 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 838 of this title and Tables.
 
 Act of August 31, 1964, referred to in subsec. (f), is Pub. L. 88–552, Aug. 31, 1964, 78 Stat. 756, as amended, which is classified generally to chapter 12F (§837 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
+
+#### Amendments
+
+2000—Subsec. (b)(7). Pub. L. 106–273 added par. (7).
 
 #### Section Referred to in Other Sections
 

@@ -38,15 +38,3 @@ Section 1314(e)(1) of Pub. L. 100–180 provided that: “The amendments made by
 
 Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under section 101 of this title.
 
-#### Cross References
-
-Chief of Naval Operations, see section 5033 of this title.
-
-Chief of Staff of the Air Force, see section 8033 of this title.
-
-Chief of Staff of the Army, see section 3033 of this title.
-
-Commandant of the Marine Corps, see section 5043 of this title.
-
-Rank of Chairman of Joint Chiefs of Staff, see section 152 of this title.
-

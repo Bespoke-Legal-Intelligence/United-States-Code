@@ -94,7 +94,7 @@ The Congress declares that the National Education Goals are the following:
 
 &emsp;&emsp;(i) every school will implement a firm and fair policy on use, possession, and distribution of drugs and alcohol;
 
-&emsp;&emsp;(ii) parents, businesses, governmental and community organizations will work together to ensure the rights of students to study in a safe and secure environment that is free of drugs and crime, and that schools provide a healthy environment and are a safe haven for all children;
+&emsp;&emsp;(ii) parents, businesses, governmental and community organizations will work togetherto ensure the rights of students to study in a safe and secure environment that is free of drugs and crime, and that schools provide a healthy environment and are a safe haven for all children;
 
 &emsp;&emsp;(iii) every local educational agency will develop and implement a policy to ensure that all schools are free of violence and the unauthorized presence of weapons;
 

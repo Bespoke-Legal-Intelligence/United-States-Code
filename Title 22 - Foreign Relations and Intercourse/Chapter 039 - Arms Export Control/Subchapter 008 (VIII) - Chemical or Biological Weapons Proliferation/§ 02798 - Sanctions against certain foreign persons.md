@@ -46,7 +46,7 @@
 
 #### (1) Consultations
 
-&emsp;If the President makes the determinations described in subsection (a)(1) of this sectionwith respect to a foreign person, the Congress urges the President to initiate consultations immediately with the government with primary jurisdiction over that foreign person with respect to the imposition of sanctions pursuant to this section.
+&emsp;If the President makes the determinations described in subsection (a)(1) of this section with respect to a foreign person, the Congress urges the President to initiate consultations immediately with the government with primary jurisdiction over that foreign person with respect to the imposition of sanctions pursuant to this section.
 
 #### (2) Actions by government of jurisdiction
 
@@ -134,5 +134,5 @@ A prior subchapter VIII, consisting of former section 2798, as added by Pub. L. 
 
 #### Delegation of Functions
 
-For delegation of certain functions of the President under this section, see Ex. Ord. No. 12851, §1(a), June 11, 1993, 58 F.R. 33181, set out as a note under section 2797 of this title.
+For delegation of certain functions of the President under this section, see Ex. Ord. No. 12851, §1(a), June 11,1993, 58 F.R. 33181, set out as a note under section 2797 of this title.
 

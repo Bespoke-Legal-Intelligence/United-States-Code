@@ -18,16 +18,6 @@ Words â€œor in the part of the State where such suit or prosecution is pendingâ€
 
 Changes were made in phraseology.
 
-#### Federal Rules of Civil Procedure
-
-Application of rules, see rule 81, Appendix to this title.
-
-Continuation of section under rule 81, see note by Advisory Committee under rule 81.
-
-#### Cross References
-
-Stay of State court proceedings, see section 2283 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1447 of this title.

@@ -6,9 +6,3 @@ Plea or disposal of case in district other than that in which defendant was arre
 
 (June 25, 1948, ch. 645, 62 Stat. 826.)
 
-#### Federal Rules of Criminal Procedure
-
-Time of motion to transfer, see rule 22, Appendix to this title.
-
-Transfer from the district or division for trial, see rule 21.
-

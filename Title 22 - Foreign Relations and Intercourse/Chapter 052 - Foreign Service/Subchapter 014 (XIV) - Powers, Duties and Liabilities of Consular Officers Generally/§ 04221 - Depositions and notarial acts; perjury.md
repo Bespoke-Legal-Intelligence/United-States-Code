@@ -6,7 +6,7 @@ Every secretary of embassy or legation and consular officer is authorized, whene
 
 #### References in Text
 
-This Act, referred to in text, probably means the act of Aug. 18, 1856, ch. 127, 11 Stat. 52, as amended. That act was incorporated into the Revised Statutes as R.S. 208, 211, 1674 to 1676, 1680, 1685 to 1687, 1689, 1690, 1692, 1695, 1697, 1699, 1700, 1701, 1703, 1706, 1708, 1711, 1713, 1715, 1718, 1719, 1730, 1731, 1735, 1738 to 1741, 1743 to 1748, 1750 to 1752, 4207, 4213, 4580, 4581, 4583, and 4584. For complete classification of those sections of the Revised Statutes to the Code, see Tables.
+This Act, referred to in text, probably means the act of Aug. 18, 1856, ch. 127, 11 Stat. 52, as amended. That act was incorporated into the Revised Statutes as R.S. §§208, 211, 1674 to 1676, 1680, 1685 to 1687, 1689, 1690, 1692, 1695, 1697, 1699, 1700, 1701, 1703, 1706, 1708, 1711, 1713, 1715, 1718, 1719, 1730, 1731, 1735, 1738 to 1741, 1743 to 1748, 1750 to 1752, 4207, 4213, 4580, 4581, 4583, and 4584. For complete classification of those sections of the Revised Statutes to the Code, see Tables.
 
 #### Codification
 
@@ -23,16 +23,6 @@ Section was formerly classified to section 1203 of this title, and prior thereto
 1998—Pub. L. 105–277 inserted after first sentence “At any post, port, or place where there is no consular officer, the Secretary of State may authorize any other officer or employee of the United States Government who is a United States citizen serving overseas, including any contract employee of the United States Government, to perform such acts, and any such contractor so authorized shall not be considered to be a consular officer.”
 
 1994—Pub. L. 103–415, which directed amendment of section 24 of the Act of August 18, 1856 (11 Stat. 61, 22 U.S.C. 4221) by inserting at end “Pursuant to such regulations as the Secretary of State may prescribe, the Secretary may designate any other employee of the Department of State who is a citizen of the United States to perform any notarial function authorized to be performed by a consular officer of the United States under this Act.”, was executed to this section, which is section 1750 of the Revised Statutes, to reflect the probable intent of Congress. Section 24 of the Act of Aug. 18, 1856, was restated in section 1750 of the Revised Statutes and repealed by section 5596 of the Revised Statutes.
-
-#### Cross References
-
-Certificate of acknowledgment of assignments, grants, or conveyances of patents as prima facie evidence of execution, see section 261 of Title 35, Patents.
-
-Counterfeiting and forgery, see section 471 et seq. of Title 18, Crimes and Criminal Procedure.
-
-Performance of notarial acts, see section 4215 of this title.
-
-Perjury, see sections 1621, 1622, and 3185 of Title 18.
 
 #### Section Referred to in Other Sections
 

@@ -16,7 +16,7 @@ For purposes of this section:
 
 &emsp;The term “qualified former spouse” means a former spouse of an employee or retired employee who—
 
-&emsp;&emsp;(A) in the case of a former spouse whose divorce from such employee became final on or before December 4, 1991, was married to such employee for not less than 10 years during periods of the employee's service which are creditable under section 8411 of title 5, at least 5 years of which were spent outside the United States by both the employee and theformer spouse during the employee's service with the Agency; and
+&emsp;&emsp;(A) in the case of a former spouse whose divorce from such employee became final on or before December 4, 1991, was married to such employee for not less than 10 years during periods of the employee's service which are creditable under section 8411 of title 5, at least 5 years of which were spent outside the United States by both the employee and the former spouse during the employee's service with the Agency; and
 
 &emsp;&emsp;(B) in the case of a former spouse whose divorce from such employee becomes final after December 4, 1991, was married to such employee for not less than 10 years during periods of the employee's service which are creditable under section 8411 of title 5, at least 5 years of which were spent by the employee outside the United States during the employee's service with the Agency or otherwise in a position the duties of which qualified the employee for designation by the Director under the criteria prescribed in section 2013 of this title.
 
@@ -70,7 +70,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(i) the day on which the employee upon whose service the benefits are based becomes entitled to the benefits; or
 
-&emsp;&emsp;&emsp;(ii) the first day of the second month beginning after the date on which the Director receives written notice of the court order or spousal agreement, together with such additional information or documentation as the Director may prescribe.
+&emsp;&emsp;&emsp;(ii) the first day of the second month beginning after the date on which the Director receives written notice of the courtorder or spousal agreement, together with such additional information or documentation as the Director may prescribe.
 
 #### (B) Termination
 
@@ -154,7 +154,7 @@ For purposes of this section:
 
 #### (6) Effect of termination of qualified former spouse's entitlement
 
-&emsp;After a qualified former spouse of a retired employee remarries before becoming age 55 ordies, the reduction in the retired employee's annuity for the purpose of providing a survivor annuity for such former spouse shall be terminated. The annuitant may elect, in a signed writing received by the Director within 2 years after the qualified former spouse's remarriage or death, to continue the reduction in order to provide or increase the survivor annuity for such annuitant's spouse. The annuitant making such election shall pay a deposit in accordance with the provisions of section 8418 of title 5.
+&emsp;After a qualified former spouse of a retired employee remarries before becoming age 55 or dies, the reduction in the retired employee's annuity for the purpose of providing a survivor annuity for such former spouse shall be terminated. The annuitant may elect, in a signed writing received by the Director within 2 years after the qualified former spouse's remarriage or death, to continue the reduction in order to provide or increase the survivor annuity for such annuitant's spouse. The annuitant making such election shall pay a deposit in accordance with the provisions of section 8418 of title 5.
 
 #### (7) Pro rata share in case of employees transferred to FERS
 
@@ -194,7 +194,7 @@ For purposes of this section:
 
 #### (C) Limitation
 
-&emsp;&emsp;A spousal agreement or court order may not provide for payment to a qualified former spouse under this subsection of an amount that exceeds the employee's account balance in the Thrift Savings Fund.
+&emsp;&emsp;A spousal agreement or court order may not provide for payment to a qualifiedformer spouse under this subsection of an amount that exceeds the employee's account balance in the Thrift Savings Fund.
 
 #### (D) Death of qualified former spouse
 
@@ -218,7 +218,7 @@ Whenever an employee or former employee becomes entitled to receive the lump-sum
 
 #### (h) Payment to qualified former spouses under court order or spousal agreement
 
-In the case of any employee or retired employee who has a qualified former spouse who iscovered by a court order or who is a party to a spousal agreement—
+In the case of any employee or retired employee who has a qualified former spouse who is covered by a court order or who is a party to a spousal agreement—
 
 &emsp;(1) any right of the qualified former spouse to any retirement benefits under subsection (c) of this section and to any survivor benefits under subsection (d) of this section, and the amount of any such benefits;
 

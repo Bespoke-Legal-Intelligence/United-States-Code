@@ -62,7 +62,7 @@ For the purposes of this subchapter—
 
 &emsp;“(ii) which is regulated under the Hazardous Liquid Pipeline Safety Act of 1979 (49 U.S.C. App. 2001 et seq.), or
 
-&emsp;“(iii) which is an intrastate pipeline facility regulated under State laws as provided in the provisions of law referred to in clause (i) or (ii) of this subparagraph,
+&emsp;“(iii) which is an intrastate pipeline facility regulated under State laws as provided in the provisionsof law referred to in clause (i) or (ii) of this subparagraph,
 
 > and which is determined by the Secretary to be connected to a pipeline or to be operated or intended to be capable of operating at pipeline pressure or as an integral part of a pipeline,”.
 
@@ -77,6 +77,122 @@ For the purposes of this subchapter—
 1986—Par. (2)(B). Pub. L. 99–499 struck out “, including crude oil or any fraction thereof which is liquid at standard conditions of temperature and pressure (60 degrees Fahrenheit and 14.7 pounds per square inch absolute)”. See par. (8).
 
 Par. (8). Pub. L. 99–499 added par. (8).
+
+#### Aboveground Storage Tank Grant Program
+
+Pub. L. 106–554, §1(a)(4) \[div. B, title XII, §1201\], Dec. 21, 2000, 114 Stat. 2763, 2763A–313, provided that:
+
+“(a)
+
+Definitions.—In this provision:
+
+&emsp;“(1)
+
+Aboveground storage tank.—The term ‘aboveground storage tank’ means any tank or combination of tanks (including any connected pipe)—
+
+&emsp;&emsp;“(A) that is used to contain an accumulation of regulated substances; and
+
+&emsp;&emsp;“(B) the volume of which (including the volume of any connected pipe) is located wholly above the surface of the ground.
+
+&emsp;“(2)
+
+Administrator.—The term ‘Administrator’ means the Administrator of the Environmental Protection Agency.
+
+&emsp;“(3)
+
+Denali Commission.—The term ‘Denali Commission’ means the commission established by section 303(a) of the Denali Commission Act of 1998 \[Pub. L. 105–277, div. C, title III\] (42 U.S.C. 3121 note).
+
+&emsp;“(4)
+
+Federal environmental law.—The term ‘Federal environmental law’ means—
+
+&emsp;&emsp;“(A) the Oil Pollution Control Act of 1990 (33 U.S.C. 2701 et seq.);
+
+&emsp;&emsp;“(B) the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601 et seq.);
+
+&emsp;&emsp;“(C) the Solid Waste Disposal Act (42 U.S.C. 6901 et seq.);
+
+&emsp;&emsp;“(D) the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.); or
+
+&emsp;&emsp;“(E) any other Federal law that is applicable to the release into the environment of a regulated substance, as determined by the Administrator.
+
+&emsp;“(5)
+
+Native village.—The term ‘Native village’ has the meaning given the term in section 11(b) in Public Law 92–203 (85 Stat. 688) \[43 U.S.C. 1610(b)\].
+
+&emsp;“(6)
+
+Program.—The term ‘program’ means the Aboveground Storage Tank Grant Program established by subsection (b)(1).
+
+&emsp;“(7)
+
+Regulated substance.—The term ‘regulated substance’ has the meaning given the term in section 9001 of the Solid Waste Disposal Act (42 U.S.C. 6991).
+
+&emsp;“(8)
+
+State.—The term ‘State’ means the State of Alaska.
+
+“(b)
+
+Establishment.—
+
+&emsp;“(1)
+
+In general.—There is established a grant program to be known as the ‘Aboveground Storage Tank Grant Program’
+
+&emsp;“(2)
+
+Grants.—Under the program, the Administrator shall award a grant to—
+
+&emsp;&emsp;“(A) the State, on behalf of a Native village; or
+
+&emsp;&emsp;“(B) the Denali Commission.
+
+“(c)
+
+Use of Grants.—The State or the Denali Commission shall use the funds of a grant under subsection (b) to repair, upgrade, or replace one or more aboveground storage tanks that—
+
+&emsp;“(1) leaks or poses an imminent threat of leaking, as certified by the Administrator, the Commandant of the Coast Guard, or any other appropriate Federal or State agency (as determined by the Administrator); and
+
+&emsp;“(2) is located in a Native village—
+
+&emsp;&emsp;“(A) the median household income of which is less than 80 percent of the median household income in the State;
+
+&emsp;&emsp;“(B) that is located—
+
+&emsp;&emsp;&emsp;“(i) within the boundaries of—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) a unit of the National Park System;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) a unit of the National Wildlife Refuge System; or
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) a National Forest; or
+
+&emsp;&emsp;&emsp;“(ii) on public land under the administrative jurisdiction of the Bureau of Land Management; or
+
+&emsp;&emsp;“(C) that receives payments from the Federal Government under chapter 69 of title 31, United States Code (commonly known as ‘payments in lieu of taxes’).
+
+“(d)
+
+Reports.—Not later than 1 year after the date on which the State or the Denali Commission receives a grant under subsection (c), and annually thereafter, the State or the Denali Commission, as the case may be, shall submit a report describing each project completed with grant funds and any projects planned for the following year, to—
+
+&emsp;“(1) the Administrator;
+
+&emsp;“(2) the Committee on Resources of the House of Representatives;
+
+&emsp;“(3) the Committee on Environment and Public Works of the Senate;
+
+&emsp;“(4) the Committee on Appropriations of the House of Representatives; and
+
+&emsp;“(5) the Committee on Appropriations of the Senate.
+
+“(e)
+
+Authorization of Appropriations.—There are authorized to be appropriated to carry out this Act \[probably means this section\], to remain available until expended—
+
+&emsp;“(1) $20,000,000 for fiscal year 2001; and
+
+&emsp;“(2) such sums as are necessary for each fiscal year thereafter.”
 
 #### Section Referred to in Other Sections
 

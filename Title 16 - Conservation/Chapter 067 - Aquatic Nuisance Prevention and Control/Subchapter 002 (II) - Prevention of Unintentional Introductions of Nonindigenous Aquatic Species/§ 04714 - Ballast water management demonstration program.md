@@ -28,7 +28,7 @@ For purposes of this section, the term “technologies and practices” means th
 
 #### (1) In general
 
-&emsp;During the 18-month period beginning on the date that funds are made available by appropriations pursuant to section 4741(e) of this title, the Secretary of the Interior and the Secretary of Commerce, with the concurrence of and in cooperation with the Secretary, shallconduct a ballast water management demonstration program to demonstrate technologies and practices to prevent aquatic nonindigenous species from being introduced into and spread through ballast water in the Great Lakes and other waters of the United States.
+&emsp;During the 18-month period beginning on the date that funds are made available by appropriations pursuant to section 4741(e) of this title, the Secretary of the Interior and the Secretary of Commerce, with the concurrence of and in cooperation with the Secretary, shall conduct a ballast water management demonstration program to demonstrate technologies and practices to prevent aquatic nonindigenous species from being introduced into and spread through ballast water in the Great Lakes and other waters of the United States.
 
 #### (2) Location
 

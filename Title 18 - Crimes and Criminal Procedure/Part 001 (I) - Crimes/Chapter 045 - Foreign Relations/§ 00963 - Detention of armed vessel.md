@@ -30,14 +30,6 @@ Changes in phraseology were also made.
 
 For delegation to Secretary of the Treasury of authority vested in President by this section, see section 1(<i>l</i>) of Ex. Ord. No. 10637, Sept. 16, 1955, 20 F.R. 7025, set out as a note under section 301 of Title 3, The President.
 
-#### Canal Zone
-
-Applicability of section to Canal Zone, see section 14 of this title.
-
-#### Cross References
-
-Jurisdiction of offenses, see section 3241 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 14 of this title; title 22 section 465.

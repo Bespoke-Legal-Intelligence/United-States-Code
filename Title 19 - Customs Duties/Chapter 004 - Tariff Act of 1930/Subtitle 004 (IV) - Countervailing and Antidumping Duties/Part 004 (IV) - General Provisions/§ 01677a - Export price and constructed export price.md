@@ -66,7 +66,7 @@ Where the subject merchandise is imported by a person affiliated with the export
 
 #### (A) Applicable percentage
 
-&emsp;&emsp;The term “applicable percentage” means the percentage determined by dividing the total United States expenses by the total expenses.
+&emsp;&emsp;The term “applicable percentage” means the percentage determined by dividing thetotal United States expenses by the total expenses.
 
 #### (B) Total United States expenses
 

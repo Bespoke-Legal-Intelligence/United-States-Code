@@ -1,12 +1,12 @@
 ### §835c–4. General powers of Secretary of the Interior; delegation to authorized representatives
 
-The Secretary is authorized to perform such acts, to make such rules and regulations, and to include in contracts relating to the Columbia Basin project such provisions as he deems proper for carrying out the provisions of sections 835 and 835a to 835c–5 <sup>1</sup> of this title; and in connection with sales or exchanges under such sections, he is authorized to effect conveyances without regard to the law governing the patenting of public lands. Wherever in said sections functions, powers, or duties are conferred upon the Secretary, said functions, powers, or duties may be performed, exercised, or discharged by his duly authorized representatives.
+The Secretary is authorized to perform such acts, to make such rules and regulations, and to include in contracts relating to the Columbia Basin project such provisions as he deems proper for carrying out the provisions of this Act; and in connection with sales or exchanges under the Act, he is authorized to effect conveyances without regard to the law governing the patenting of public lands. Wherever in this Act functions, powers, or duties are conferred upon the Secretary, said functions, powers, or duties may be performed, exercised, or discharged by his duly authorized representatives.
 
 (May 27, 1937, ch. 269, §8, as added Mar. 10, 1943, ch. 14, 57 Stat. 20; amended Pub. L. 87–728, §6(c), Oct. 1, 1962, 76 Stat. 679.)
 
 #### References in Text
 
-Sections 835a, 835b, 835c–3 and 835c–5, included within the reference to sections 835a to 835c–5 of this title, were repealed by Pub. L. 87–728, §3, Oct. 1, 1962, 76 Stat. 678.
+This Act and the Act, referred to in text, are references to act May 27, 1937, ch. 269, as amended generally by act Mar. 10, 1943, ch. 14, 57 Stat. 14, known as The Columbia Basin Project Act, which enacted this section, sections 835, 835a to 835c–3, and 835c–5 of this title, and provisions set out as a note under section 835 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 835 of this title and Tables.
 
 #### Amendments
 
@@ -20,7 +20,5 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 835, 835c, 835c–1, 835c–2, 835d of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+This section is referred to in section 835c–1 of this title.
 

@@ -14,7 +14,7 @@ The Consumer Product Safety Commission may obtain from any person by regulation 
 
 #### (d) Applicability of section 553 of title 5; oral presentation
 
-Standards, regulations, and amendments to standards and regulations under this section shall be made in accordance with section 553 of title 5, except that interested persons shall be given an opportunity for the oral presentation of data, views, or arguments in addition to an opportunity to make written submissions. A transcript shall be kept of any oral presentation.
+Standards, regulations, and amendments to standards and regulations under this section shall be made in accordance with section 553 of title 5, except that interested persons shall begiven an opportunity for the oral presentation of data, views, or arguments in addition to an opportunity to make written submissions. A transcript shall be kept of any oral presentation.
 
 #### (e) Judicial review; additional information before Commission; applicability of sections 701 to 706 of title 5; finality of judgment; survival of action
 
@@ -22,7 +22,7 @@ Standards, regulations, and amendments to standards and regulations under this s
 
 (2) If the petitioner applies to the court for leave to adduce additional evidence, and shows to the satisfaction of the court that such additional evidence is material and that there were reasonable grounds for the failure to adduce such evidence in the proceeding before the Commission, the court may order such additional evidence (and evidence in rebuttal thereof) to be taken before the Commission, and to be adduced upon the hearing, in such manner and upon such terms and conditions as to the court may seem proper. The Commission may modify its findings, or make new findings, by reason of the additional evidence so taken, and it shall file such modified or new findings, and its recommendations, if any, for the modification or setting aside of its original standard or regulation or amendment thereto, with the return of such additional evidence.
 
-(3) Upon the filing of the petition referred to in paragraph (1) of this subsection, the courtshall have jurisdiction to review the standard or regulation in accordance with chapter 7 of title 5 and to grant appropriate relief as provided in such chapter. The standard or regulation shall not be affirmed unless the findings required by the first sentence of subsection (b) of this section are supported by substantial evidence on the record taken as a whole. For purposes of this paragraph, the term “record” means the standard or regulation, any notice published with respect to the promulgation of such standard or regulation, the transcript required by subsection (d) of this section of any oral presentation, any written submission of interested parties, and any other information which the Commission considers relevant to such standard or regulation.
+(3) Upon the filing of the petition referred to in paragraph (1) of this subsection, the court shall have jurisdiction to review the standard or regulation in accordance with chapter 7 of title 5 and to grant appropriate relief as provided in such chapter. The standard or regulation shall not be affirmed unless the findings required by the first sentence of subsection (b) of this section are supported by substantial evidence on the record taken as a whole. For purposes of this paragraph, the term “record” means the standard or regulation, any notice published with respect to the promulgation of such standard or regulation, the transcript required by subsection (d) of this section of any oral presentation, any written submission of interested parties, and any other information which the Commission considers relevant to such standard or regulation.
 
 (4) The judgment of the court affirming or setting aside, in whole or in part, any such standard or regulation of the Commission shall be final, subject to review by the Supreme Court of the United States upon certiorari or certification as provided in section 1254 of title 28.
 
@@ -116,7 +116,7 @@ No regulation may be proposed by the Commission under this section unless, not l
 
 #### (k) Petition to initiate rulemaking
 
-The Commission shall grant, in whole or in part, or deny any petition under section 553(e) of title 5 requesting the Commission to initiate a rulemaking, within a reasonable time after the date on which such petition is filed. The Commission shall state the reasons for granting or denying such petition. The Commission may not deny any such petition on the basis of a voluntary standard unless the voluntary standard is in existence at the time of the denial of the petition, the Commission has determined that the voluntary standard is likely to result in theelimination or adequate reduction of the risk of injury identified in the petition, and it is likely that there will be substantial compliance with the standard.
+The Commission shall grant, in whole or in part, or deny any petition under section 553(e) of title 5 requesting the Commission to initiate a rulemaking, within a reasonable time after the date on which such petition is filed. The Commission shall state the reasons for granting or denying such petition. The Commission may not deny any such petition on the basis of a voluntary standard unless the voluntary standard is in existence at the time of the denial of the petition, the Commission has determined that the voluntary standard is likely to result in the elimination or adequate reduction of the risk of injury identified in the petition, and it is likely that there will be substantial compliance with the standard.
 
 (June 30, 1953, ch. 164, §4, 67 Stat. 112; Aug. 23, 1954, ch. 833, 68 Stat. 770; Pub. L. 90–189, §3, Dec. 14, 1967, 81 Stat. 569; Pub. L. 92–573, §30(b), Oct. 27, 1972, 86 Stat. 1231; Pub. L. 94–284, §20(a), May 11, 1976, 90 Stat. 515; Pub. L. 97–35, title XII, §1203(b)(2), Aug. 13, 1981, 95 Stat. 711; Pub. L. 101–608, title I, §§107(c), 108(c), 110(c), Nov. 16, 1990, 104 Stat. 3112–3114.)
 
@@ -140,7 +140,7 @@ Subsec. (e)(3). Pub. L. 94–284, §20(a)(2), provided that the court not affirm
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Effective Date of 1981 Amendment
 
@@ -153,14 +153,6 @@ Section 20(b) of Pub. L. 94–284 provided that: “The amendments made by subse
 #### Transfer of Functions
 
 “Consumer Product Safety Commission” substituted for “Secretary of Commerce”, “Commission” substituted for “Secretary”, “it” substituted for “he”, and “its” substituted for “his” wherever appearing in subsecs. (a) to (f) except in subsec. (e)(5), where “persons occupying the office of Commissioner” was substituted for “person occupying the office of Secretary”, pursuant to section 30(b) of Pub. L. 92–573, which is classified to section 2079(b) of this title and which transferred functions of Secretary of Health, Education, and Welfare, Secretary of Commerce, and Federal Trade Commission under this chapter to Consumer Product Safety Commission.
-
-#### Cross References
-
-Foreign shipment of flammable product, fabric or related material, effect of, see section 1198 of this title.
-
-Guaranty that product, fabric or related material conforms with applicable flammability standards, section 1197 of this title.
-
-Persons excluded from operation of chapter, see section 1200 of this title.
 
 #### Section Referred to in Other Sections
 

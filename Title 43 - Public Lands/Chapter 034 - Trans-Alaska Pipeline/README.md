@@ -12,7 +12,6 @@
 | [1653\.](%C2%A7%2001653%20-%20Liability%20for%20damages.md) | Liability for damages. |
 | (a) | Activities along or in vicinity of pipeline right-of-way; strict liability; limitation on liability; subrogation; emergency subsistence and other aid; exemption for State of Alaska. |
 | (b) | Control and removal of pollutants at expense of right-of-way holder. |
-| (c) | Discharges of oil from vessels loaded at terminal facilities of pipeline; strict liability; limitation on liability; apportionment of liability; establishment and operation of Trans-Alaska Pipeline Liability Fund. |
 | [1654\.](%C2%A7%2001654%20-%20Antitrust%20laws.md) | Antitrust laws. |
 | [1655\.](%C2%A7%2001655%20-%20Roads%20and%20airports.md) | Roads and airports. |
 | [1656\.](%C2%A7%2001656%20-%20Civil%20penalties.md) | Civil penalties. |

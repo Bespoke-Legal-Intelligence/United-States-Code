@@ -6,13 +6,13 @@ No Native covered by the provisions of this chapter, and no descendant of his, m
 
 #### (b) Charging allotment against statutory grant
 
-Any allotments approved pursuant to this section during the four years following December18, 1971, shall be charged against the two million acre grant provided for in section 1613(h) of this title.
+Any allotments approved pursuant to this section during the four years following December 18, 1971, shall be charged against the two million acre grant provided for in section 1613(h) of this title.
 
 #### (c) Relocation of allotment
 
 (1)(A) Notwithstanding any other provision of law, an allotment applicant, who had a valid application pending before the Department of the Interior on December 18, 1971, and whose application remains pending as of October 14, 1992, may amend the land description in the application of the applicant (with the advice and approval of the responsible officer of the Bureau of Indian Affairs) to describe land other than the land that the applicant originally intended to claim if—
 
-&emsp;(i) the application pending before the Department, either describes land selected by, tentatively approved to, or patented to the State of Alaska or otherwise conflicts with an interest in land granted to the State of Alaska by the United States prior to the filing of the allotment application;
+&emsp;(i) the application pending before the Department, either describes land selected by,tentatively approved to, or patented to the State of Alaska or otherwise conflicts with an interest in land granted to the State of Alaska by the United States prior to the filing of the allotment application;
 
 &emsp;(ii) the amended land description describes land selected by, tentatively approved to, or patented to the State of Alaska of approximately equal acreage in substitution for the land described in the original application; and
 

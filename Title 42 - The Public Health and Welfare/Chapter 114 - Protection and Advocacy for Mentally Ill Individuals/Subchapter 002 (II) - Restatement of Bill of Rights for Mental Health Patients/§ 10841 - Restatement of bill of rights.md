@@ -78,7 +78,7 @@ It is the sense of the Congress that, as previously stated in title V of the Men
 
 &emsp;&emsp;(i) obligate an individual mental health or health professional to administer treatment contrary to such professional's clinical judgment;
 
-&emsp;&emsp;(ii) prevent any program or facility from discharging any person for whom the provision of appropriate treatment, consistent with the clinical judgment of the mental health professional primarily responsible for such person's treatment, is or has become impossible as a result of such person's refusal to consent to such treatment;
+&emsp;&emsp;(ii) prevent any program or facility from discharging any person for whom the provision of appropriate treatment, consistent with the clinical judgment of the mental health professional primarily responsible forsuch person's treatment, is or has become impossible as a result of such person's refusal to consent to such treatment;
 
 &emsp;&emsp;(iii) require a program or facility to admit any person who, while admitted on prior occasions to such program or facility, has repeatedly frustrated the purposes of such admissions by withholding consent to proposed treatment; or
 

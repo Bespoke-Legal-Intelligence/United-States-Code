@@ -26,11 +26,11 @@
 
 (d) The times and places of the sessions of the Court of Appeals for the Federal Circuit shall be prescribed with a view to securing reasonable opportunity to citizens to appear before the court with as little inconvenience and expense to citizens as is practicable.
 
-(June 25, 1948, ch. 646, 62 Stat. 872; Oct. 31, 1951, ch. 655, §36, 65 Stat. 723; Pub. L. 96–452, §4, Oct. 14, 1980, 94 Stat. 1994; Pub. L. 97–164, title I, §104, Apr. 2, 1982, 96 Stat. 26; Pub. L. 102–572, title V, §501, Oct. 29, 1992, 106 Stat. 4512.)
+(June 25, 1948, ch. 646, 62 Stat. 872; Oct. 31, 1951, ch. 655, §36, 65 Stat. 723; Pub. L. 96–452, §4, Oct.14, 1980, 94 Stat. 1994; Pub. L. 97–164, title I, §104, Apr. 2, 1982, 96 Stat. 26; Pub. L. 102–572, title V, §501, Oct. 29, 1992, 106 Stat. 4512.)
 
 #### Historical and Revision Notes
 
-Based on title 28, U.S.C., 1940 ed., §223 and §11–205 District of Columbia Code, 1940 ed. (Feb. 9, 1893, ch. 74, §6,27 Stat. 435; July 30, 1894, ch. 172, §2, 28 Stat. 161; Mar. 3, 1901, ch. 854, §225, 31 Stat. 1225; Mar. 3, 1911, ch. 231, §126, 36 Stat. 1132; July 17, 1916, ch. 246, 39 Stat. 385; Jan. 8, 1925, ch. 57, 43 Stat. 729; July 3, 1926, ch. 735, 44 Stat. 809; Feb. 28, 1929, ch. 363, §3, 45 Stat. 1347; May 17, 1932, ch. 190, 47 Stat. 158).
+Based on title 28, U.S.C., 1940 ed., §223 and §11–205 District of Columbia Code, 1940 ed. (Feb. 9, 1893, ch. 74, §6, 27 Stat. 435; July 30, 1894, ch. 172, §2, 28 Stat. 161; Mar. 3, 1901, ch. 854, §225, 31 Stat. 1225; Mar. 3, 1911, ch. 231, §126, 36 Stat. 1132; July 17, 1916, ch. 246, 39 Stat. 385; Jan. 8, 1925, ch. 57, 43 Stat. 729; July 3, 1926, ch. 735, 44 Stat. 809; Feb. 28, 1929, ch. 363, §3, 45 Stat. 1347; May 17, 1932, ch. 190, 47 Stat. 158).
 
 This section consolidates section 223 of title 28, U.S.C., 1940 ed., with part of section 11–205 of the District of Columbia Code.
 
@@ -50,9 +50,9 @@ By Senate amendment, Jacksonville (Fla.) was added as a place for holding a regu
 
 #### Amendments
 
-1992—Subsec. (c). Pub. L. 102–572 struck out “, with the consent of the Judicial Conference of the United States,” after “pretermit”.
+<b>1992</b>—Subsec. (c). Pub. L. 102–572 struck out “, with the consent of the Judicial Conference of the United States,” after “pretermit”.
 
-1982—Subsec. (a). Pub. L. 97–164, §104(a), (b), designated introductory provisions and table of circuits as subsec. (a) and substituted provisions directing the courts of appeals to hold regular sessions at the places listed in the table and at such other places within the circuits as each court might designate by rule, for provisions which directed that terms or sessions of courts of appeals be held annually at the places listed in the table and at such other places as the courts might designate by rule and authorized each court of appeals to hold special terms at any place within its circuit, and added to the table an item for the Federal circuit, with sessions to be held in the District of Columbia and in any other place listed elsewhere in the table as the Federal circuit court might by rule direct.
+<b>1982</b>—Subsec. (a). Pub. L. 97–164, §104(a), (b), designated introductory provisions and table of circuits as subsec. (a) and substituted provisions directing the courts of appeals to hold regular sessions at the places listed in the table and at such other places within the circuits as each court might designate by rule, for provisions which directed that terms or sessions of courts of appeals be held annually at the places listed in the table and at such other places as the courts might designate by rule and authorized each court of appeals to hold special terms at any place within its circuit, and added to the table an item for the Federal circuit, with sessions to be held in the District of Columbia and in any other place listed elsewhere in the table as the Federal circuit court might by rule direct.
 
 Subsec. (b). Pub. L. 97–164, §104(c), added subsec. (b).
 
@@ -60,9 +60,9 @@ Subsec. (c). Pub. L. 97–164, §104(c), designated existing provisions followin
 
 Subsec. (d). Pub. L. 97–164, §104(c), added subsec. (d).
 
-1980—Pub. L. 96–452 substituted “New Orleans, Fort Worth, Jackson” for “New Orleans, Atlanta, Fort Worth, Jacksonville, Montgomery” in item relating to fifth circuit, and added item relating to eleventh circuit.
+<b>1980</b>—Pub. L. 96–452 substituted “New Orleans, Fort Worth, Jackson” for “New Orleans, Atlanta, Fort Worth, Jacksonville, Montgomery” in item relating to fifth circuit, and added item relating to eleventh circuit.
 
-1951—Act Oct. 31, 1951, inserted last par.
+<b>1951</b>—Act Oct. 31, 1951, inserted last par.
 
 #### Effective Date of 1992 Amendment
 
@@ -79,8 +79,4 @@ Amendment by Pub. L. 96–452 effective Oct. 1, 1981, see section 12 of Pub. L. 
 #### Survey of Judicial Business in Alaska
 
 Section 23(a) of Pub. L. 86–70, June 25, 1959, 73 Stat. 147, provided that: “The Judicial Conference of the United States, with the assistance of the Administrative Office of the United States Courts, shall conduct a study, including a field survey, of the Federal judicial business arising in the State of Alaska with a view toward directing the United States Court of Appeals for the Ninth Circuit to hold such terms of court in Anchorage or such other Alaskan cities as may be necessary for the prompt and efficient administration of justice.”
-
-#### Cross References
-
-Courts always open, see section 452 of this title.
 

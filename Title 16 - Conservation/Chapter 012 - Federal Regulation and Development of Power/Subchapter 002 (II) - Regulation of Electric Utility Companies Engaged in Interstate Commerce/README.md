@@ -4,8 +4,6 @@
 
 This subchapter is referred to in sections 803, 824a–3 of this title; title 42 section 7172; title 43 section 1761.
 
-<i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
-
 
 ---
 
@@ -29,3 +27,4 @@ This subchapter is referred to in sections 803, 824a–3 of this title; title 42
 - [&sect; 00824k - Orders requiring interconnection or wheeling](%C2%A7%2000824k%20-%20Orders%20requiring%20interconnection%20or%20wheeling.md)
 - [&sect; 00824l - Information requirements](%C2%A7%2000824l%20-%20Information%20requirements.md)
 - [&sect; 00824m - Sales by exempt wholesale generators](%C2%A7%2000824m%20-%20Sales%20by%20exempt%20wholesale%20generators.md)
+- [&sect; 00824n - Authority relating to formation and operation of regional transmission organizations](%C2%A7%2000824n%20-%20Authority%20relating%20to%20formation%20and%20operation%20of%20regional%20transmission%20organizations.md)

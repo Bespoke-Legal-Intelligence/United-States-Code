@@ -10,5 +10,5 @@ Section 524, act June 30, 1949, ch. 288, title VII, §704, as added Aug. 12, 195
 
 #### Effective Date of Repeal
 
-Section 2 of Pub. L. 91–466 provided that title VII of the Federal Property and Administrative Services Act of 1949 \[sections 521 to 524 of this title\] is repealed as of Jan. 1, 1971.
+Section 2 of Pub. L. 91–466 provided that title VII of the Federal Property and Administrative Services Actof 1949 \[sections 521 to 524 of this title\] is repealed as of Jan. 1, 1971.
 

@@ -36,23 +36,19 @@ The studies under subsection (a) of this section may include an examination of t
 
 The Administrative Office of the United States Courts shall act as a clearinghouse to disseminate any reports and materials issued by the gender bias task forces under subsection (a) of this section and to respond to requests for such reports and materials. The gender bias task forces shall provide the Administrative Office of the Courts of the United States <sup>1</sup> with their reports and related material.
 
-#### (d) Model programs
+#### (d) Continuing education and training programs
 
-The Federal Judicial Center, in carrying out section 620(b)(3) of title 28, may—
+The Federal Judicial Center, in carrying out section 620(b)(3) of title 28, shall include in the educational programs it prepares, including the training programs for newly appointed judges, information on the aspects of the topics listed in section 13992 of this title that pertain to issues within the jurisdiction of the Federal courts, and shall prepare materials necessary to implement this subsection.
 
-&emsp;(1) include in the educational programs it presents and prepares, including the training programs for newly appointed judges, information on issues related to gender bias in the courts including such areas as are listed in subsection (a) <sup>2</sup> of this section along with such other topics as the Federal Judicial Center deems appropriate;
+(Pub. L. 103–322, title IV, §40421, Sept. 13, 1994, 108 Stat. 1944; Pub. L. 106–386, div. B, title IV, §1406(b)(1), Oct. 28, 2000, 114 Stat. 1516.)
 
-&emsp;(2) prepare materials necessary to implement this subsection; and
+#### Amendments
 
-&emsp;(3) take into consideration the findings and recommendations of the studies conducted pursuant to subsection (a) of this section, and to consult with individuals and groups with relevant expertise in gender bias issues as it prepares or revises such materials.
-
-(Pub. L. 103–322, title IV, §40421, Sept. 13, 1994, 108 Stat. 1944.)
+2000—Subsec. (d). Pub. L. 106–386 amended heading and text of subsec. (d) generally, substituting provisions relating to continuing education and training programs for provisions relating to model programs.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 14002, 14214 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Administrative Office of the United States Courts”.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be subsection “(b)”.</i>
 

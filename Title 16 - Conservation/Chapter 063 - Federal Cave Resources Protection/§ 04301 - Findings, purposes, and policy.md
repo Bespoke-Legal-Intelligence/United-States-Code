@@ -68,7 +68,7 @@ Authority To Cancel Existing Mineral or Geothermal Leases.—Upon the effective 
 
 &emsp;“(1) cancel any Federal mineral or geothermal lease in the cave protection area referred to in section 3(a); or
 
-&emsp;“(2) enter into negotiations with the holder of a Federal mineral or geothermal lease in the cave protection area referred to in section 3(a) to determineappropriate compensation, if any, for the complete or partial termination of such lease.
+&emsp;“(2) enter into negotiations with the holder of a Federal mineral or geothermal lease in the cave protection area referred to in section 3(a) to determine appropriate compensation, if any, for the complete or partial termination of such lease.
 
 #### “SEC. 5. ADDITIONAL PROTECTION AND RELATION TO OTHER LAWS.
 

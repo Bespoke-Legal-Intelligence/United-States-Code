@@ -14,3 +14,23 @@ The Attorney General shall ensure that no later than 1 year after September 13, 
 
 (Pub. L. 103–322, title IV, §40291, Sept. 13, 1994, 108 Stat. 1939.)
 
+#### Development of Research Agenda Identified by the Violence Against Women Act of 1994
+
+Pub. L. 106–386, div. B, title IV, §1404, Oct. 28, 2000, 114 Stat. 1514, provided that:
+
+“(a)
+
+In General.—The Attorney General shall—
+
+&emsp;“(1) direct the National Institute of Justice, in consultation and coordination with the Bureau of Justice Statistics and the National Academy of Sciences, through its National Research Council, to develop a research agenda based on the recommendations contained in the report entitled ‘Understanding Violence Against Women’ of the National Academy of Sciences; and
+
+&emsp;“(2) not later than 1 year after the date of the enactment of this Act \[Oct. 28, 2000\], in consultation with the Secretary of the Department of Health and Human Services, submit to Congress a report which shall include—
+
+&emsp;&emsp;“(A) a description of the research agenda developed under paragraph (1) and a plan to implement that agenda; and
+
+&emsp;&emsp;“(B) recommendations for priorities in carrying out that agenda to most effectively advance knowledge about and means by which to prevent or reduce violence against women.
+
+“(b)
+
+Authorization of Appropriations.—There are authorized to be appropriated such sums as may be necessary to carry out this section.”
+

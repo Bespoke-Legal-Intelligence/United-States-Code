@@ -36,10 +36,6 @@ Pub. L. 103–322, §330016(1)(H), substituted “fined under this title” for 
 
 Amendment by Pub. L. 91–405 effective Sept. 22, 1970, see section 206(b) of Pub. L. 91–405, set out as an Effective Date note under section 25a of Title 2, The Congress.
 
-#### Canal Zone
-
-Applicability of section to Canal Zone, see section 14 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 14 of this title.

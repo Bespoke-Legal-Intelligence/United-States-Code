@@ -16,7 +16,7 @@ The Commission may revoke any station license or construction permit—
 
 &emsp;(6) for violation of section 1304, 1343, or 1464 of title 18; or
 
-&emsp;(7) for willful or repeated failure to allow reasonable access to or to permit purchase of reasonable amounts of time for the use of a broadcasting station by a legally qualified candidate for Federal elective office on behalf of his candidacy.
+&emsp;(7) for willful or repeated failure to allow reasonable access to or to permit purchase of reasonable amounts of time for the use of a broadcasting station, other than a non-commercial educational broadcast station, by a legally qualified candidate for Federal elective office on behalf of his candidacy.
 
 #### (b) Cease and desist orders
 
@@ -46,13 +46,15 @@ For purposes of this section:
 
 If a broadcasting station fails to transmit broadcast signals for any consecutive 12-month period, then the station license granted for the operation of that broadcast station expires at the end of that period, notwithstanding any provision, term, or condition of the license to the contrary.
 
-(June 19, 1934, ch. 652, title III, §312, 48 Stat. 1086; July 16, 1952, ch. 879, §10, 66 Stat. 716; Pub. L. 86–752, §6, Sept. 13, 1960, 74 Stat. 893; Pub. L. 92–225, title I, §103(a)(2)(A), Feb. 7, 1972, 86 Stat. 4; Pub. L. 97–259, title I, §117, Sept. 13, 1982, 96 Stat. 1095; Pub. L. 104–104, title IV, §403(<i>l</i>), Feb. 8, 1996, 110 Stat. 132.)
+(June 19, 1934, ch. 652, title III, §312, 48 Stat. 1086; July 16, 1952, ch. 879, §10, 66 Stat. 716; Pub. L. 86–752, §6, Sept. 13, 1960, 74 Stat. 893; Pub. L. 92–225, title I, §103(a)(2)(A), Feb. 7, 1972, 86 Stat. 4; Pub. L. 97–259, title I, §117, Sept. 13, 1982, 96 Stat. 1095; Pub. L. 104–104, title IV, §403(<i>l</i>), Feb. 8, 1996, 110 Stat. 132; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §148(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–251.)
 
 #### Codification
 
 In subsec. (e), “section 558(c) of title 5” substituted for “section 1008(b) of title 5” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 #### Amendments
+
+2000—Subsec. (a)(7). Pub. L. 106–554 inserted “, other than a non-commercial educational broadcast station,” after “use of a broadcasting station”.
 
 1996—Subsec. (g). Pub. L. 104–104 added subsec. (g).
 
@@ -66,7 +68,11 @@ In subsec. (e), “section 558(c) of title 5” substituted for “section 1008(
 
 #### Repeals
 
-Repeal of title I of Pub. L. 92–225, cited as a credit to this section, by Pub. L. 93–443, title II, §205(b), Oct. 15, 1974, 88 Stat. 1278, has been construed as not repealing the amendment to this section made by section 103(a)(2)(A) of such title I.
+Repeal of title I of Pub. L. 92–225, cited as a credit to this section, by Pub. L. 93–443, title II, §205(b), Oct. 15,1974, 88 Stat. 1278, has been construed as not repealing the amendment to this section made by section 103(a)(2)(A) of such title I.
+
+#### Declination of Political Advertising by Educational Broadcast Stations
+
+Pub. L. 106–554, §1(a)(4) \[div. B, title I, §148(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–251, provided that: “The Federal Communications Commission shall take no action against any non-commercial educational broadcast station which declines to carry a political advertisement.”
 
 #### Section Referred to in Other Sections
 

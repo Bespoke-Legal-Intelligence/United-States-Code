@@ -38,7 +38,7 @@ The proceeds from the payments referred to in subsection (a) of this section may
 
 #### (5) Trade promotion
 
-&emsp;To promote agricultural trade development, under procedures established by the Secretary,by making loans or through other activities (including trade fairs) that the Secretary determines to be appropriate.
+&emsp;To promote agricultural trade development, under procedures established by the Secretary, by making loans or through other activities (including trade fairs) that the Secretary determines to be appropriate.
 
 #### (6) Private sector agricultural trade development
 
@@ -132,7 +132,7 @@ Subsecs. (<i>o</i>), (p). Pub. L. 89–808 struck out subsec. (<i>o</i>) which p
 
 Subsec. (q). Pub. L. 89–808 redesignated subsec. (q) as (d).
 
-Subsec. (r). Pub. L. 89–808 struck out subsec. (r) which provided for financing ($2,500,000 fiscal year limitation) preparation, distribution, and exhibition of audio-visual informational and educational materials abroad without limiting or affecting use of foreign currencies for such materials in connection with trade fairs and other market development activities under subsec. (a) of this section.
+Subsec. (r). Pub. L. 89–808 struck out subsec. (r) which provided for financing ($2,500,000 fiscal year limitation) preparation, distribution, and exhibition of audio-visual informational and educational materials abroad without limiting or affecting use of foreign currencies for such materials in connection with trade fairs andother market development activities under subsec. (a) of this section.
 
 Subsecs. (s), (t). Pub. L. 89–808 incorporated subsecs. (s) and (t) in subsec. (j), and struck out from former subsec. (s) “under such terms and conditions as the President may prescribe”.
 
@@ -176,7 +176,7 @@ Pub. L. 87–128, §201(3)(b), substituted in final proviso “pursuant to” fo
 
 1959—Subsec. (a). Pub. L. 86–341, §4, provided that from sale proceeds and loan repayments under this subchapter not less than the equivalent of 5 per centum of the total sales made under this subchapter after September 21, 1959, shall be made available in advance for use as provided by this subsection over such period of years as the Secretary of Agriculture determines will most effectively carry out the purposes of this subsection, prohibited the allocation of such funds after June 30, 1960, except as may be specified in appropriation acts, required particular regard to be given for provisions in sale and loan agreements for the convertibility of such amount of the proceeds thereof as may be needed to carry out the purpose of this subsection in those countries which are or offer reasonable potential of becoming dollar markets for United States agricultural commodities, and permitted the entering into agreements for the sale of surplus agricultural commodities in such amounts as the Secretary of Agriculture determines to be adequate and for the use of the proceeds to carry out the purpose of this subsection in cases where sufficient foreign currencies for carrying out the purpose of this subsection in such countries are not otherwise available.
 
-Subsec. (b). Pub. L. 86–341, §5, among other changes, substituted “strategic or other materials” for “strategic and critical materials” in two places, limited purchases or contracts to purchase to such amounts as may be specified from time to time in appropriation acts, and eliminated provisions which authorized contracts, including advance payment contracts, for supply extending over periods up to ten years, and which permitted the strategic and critical materials acquired under authority of this subchapter to be additional to the amounts acquired under authority of the Strategic and Critical Materials Stockpile Act.
+Subsec. (b). Pub. L. 86–341, §5, among other changes, substituted “strategic or other materials” for “strategic and critical materials” in two places, limited purchases or contracts to purchase to such amounts as may be specified from time to time in appropriation acts, and eliminated provisions which authorized contracts, including advance payment contracts, for supply extending over periods up to ten years, and whichpermitted the strategic and critical materials acquired under authority of this subchapter to be additional to the amounts acquired under authority of the Strategic and Critical Materials Stockpile Act.
 
 Subsec. (k). Pub. L. 86–341, §6, authorized the use of foreign currencies to promote and support programs of medical and scientific research, cultural and educational development, health, nutrition, and sanitation.
 

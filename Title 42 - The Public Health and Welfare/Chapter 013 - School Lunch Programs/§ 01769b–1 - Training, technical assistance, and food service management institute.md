@@ -132,7 +132,7 @@ Subsec. (e). Pub. L. 103–448, §120(c)(2), added subsec. (e) and struck out fo
 
 &emsp;“(2) $1,000,000 for the fiscal year 1990 and $4,000,000 for each of the fiscal years 1991, 1992, 1993, and 1994 for purposes of carrying out subsection (a)(2) of this section.”
 
-1992—Subsec. (a)(2). Pub. L. 102–337 inserted “to provide financial and other assistance to the University of Mississippi, in cooperation with the University of Southern Mississippi,” after “is authorized”.
+1992—Subsec. (a)(2). Pub. L. 102–337 inserted “to provide financial and other assistance to the University ofMississippi, in cooperation with the University of Southern Mississippi,” after “is authorized”.
 
 #### Effective Date of 1998 Amendment
 

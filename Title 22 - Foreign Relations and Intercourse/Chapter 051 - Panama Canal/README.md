@@ -101,7 +101,7 @@ I74subpart i—panama canal commission personnel
 | (b) | Individual appointed as Administrator, Deputy Administrator, or Chief Engineer. |
 | (c) | Reimbursement to uniformed service. |
 | [3645\.](Subchapter%20001%20%28I%29%20-%20Administration%20and%20Regulations/Part%20002%20-%20Employees/Subpart%20001%20%28i%29%20-%20Panama%20Canal%20Commission%20Personnel/%C2%A7%2003645%20-%20Deduction%20from%20basic%20pay%20of%20amounts%20due%20for%20supplies%20or%20services.md) | Deduction from basic pay of amounts due for supplies or services. |
-| 3646, 3647. | Repealed. |
+| 3646, 3647. Repealed. |  |
 | [3648\.](Subchapter%20001%20%28I%29%20-%20Administration%20and%20Regulations/Part%20002%20-%20Employees/Subpart%20001%20%28i%29%20-%20Panama%20Canal%20Commission%20Personnel/%C2%A7%2003648%20-%20Privileges%20and%20immunities%20of%20certain%20employees.md) | Privileges and immunities of certain employees. |
 | [3649\.](Subchapter%20001%20%28I%29%20-%20Administration%20and%20Regulations/Part%20002%20-%20Employees/Subpart%20001%20%28i%29%20-%20Panama%20Canal%20Commission%20Personnel/%C2%A7%2003649%20-%20Applicability%20of%20certain%20benefits.md) | Applicability of certain benefits. |
 | [3650\.](Subchapter%20001%20%28I%29%20-%20Administration%20and%20Regulations/Part%20002%20-%20Employees/Subpart%20001%20%28i%29%20-%20Panama%20Canal%20Commission%20Personnel/%C2%A7%2003650%20-%20Air%20transportation.md) | Air transportation. |
@@ -118,7 +118,7 @@ I74subpart i—panama canal commission personnel
 | (b) | Applicability to any Executive agency and Smithsonian Institution. |
 | (c) | Exclusion of employees or positions from coverage. |
 | [3653\.](Subchapter%20001%20%28I%29%20-%20Administration%20and%20Regulations/Part%20002%20-%20Employees/Subpart%20002%20%28ii%29%20-%20Wage%20and%20Employment%20Practices/%C2%A7%2003653%20-%20Employment%20standards.md) | Employment standards. |
-| 3654, 3655. | Repealed. |
+| 3654, 3655. Repealed. |  |
 | [3656\.](Subchapter%20001%20%28I%29%20-%20Administration%20and%20Regulations/Part%20002%20-%20Employees/Subpart%20002%20%28ii%29%20-%20Wage%20and%20Employment%20Practices/%C2%A7%2003656%20-%20Uniform%20application%20of%20standards%20and%20rates.md) | Uniform application of standards and rates. |
 | [3657\.](Subchapter%20001%20%28I%29%20-%20Administration%20and%20Regulations/Part%20002%20-%20Employees/Subpart%20002%20%28ii%29%20-%20Wage%20and%20Employment%20Practices/%C2%A7%2003657%20-%20Recruitment%20and%20retention%20remuneration.md) | Recruitment and retention remuneration. |
 | (a) | Repealed. |
@@ -250,7 +250,7 @@ I74subpart i—funds
 | [3722\.](Subchapter%20001%20%28I%29%20-%20Administration%20and%20Regulations/Part%20003%20-%20Funds%20and%20Accounts/Subpart%20002%20%28ii%29%20-%20Accounting%20Policies%20and%20Audits/%C2%A7%2003722%20-%20Repealed.%20Pub.%20L.%20104%E2%80%9366%2C%20title%20II%2C%20%C2%A72201%28a%29%2C%20Dec.%2021%2C%201995%2C%20109%20Stat.%20732.md) | Repealed. |
 | [3723\.](Subchapter%20001%20%28I%29%20-%20Administration%20and%20Regulations/Part%20003%20-%20Funds%20and%20Accounts/Subpart%20002%20%28ii%29%20-%20Accounting%20Policies%20and%20Audits/%C2%A7%2003723%20-%20Audits.md) | Audits. |
 | (a) | Financial transactions of Commission; access to books, accounts, etc. |
-| (b) | Annual report to Congress; contents. |
+| (b) | Omitted. |
 | (c) | Independent auditors. |
 | (d) | Examination and report on Commission's financial forecast. |
 
@@ -379,9 +379,9 @@ I74subpart i—general provisions
 
 #### Part 7—General Regulations
 
-|  |  |
-| :--- | ---: |
-| 3801, 3802. | Repealed. |
+|  |
+| :--- |
+| 3801, 3802. Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -4,7 +4,7 @@ The Secretary, the Director of the Federal Emergency Management Agency, and the 
 
 (Pub. L. 99–662, title IX, §944, Nov. 17, 1986, 100 Stat. 4200.)
 
-#### Definitions
+#### “Secretary” Defined
 
 Secretary means the Secretary of the Army, see section 2201 of this title.
 

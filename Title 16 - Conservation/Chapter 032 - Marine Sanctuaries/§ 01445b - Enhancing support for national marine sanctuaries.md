@@ -4,13 +4,13 @@
 
 The Secretary may establish a program consisting of—
 
-&emsp;(1) the creation, adoption, and publication in the Federal Register by the Secretary of a symbol for the national marine sanctuary program, or for individual national marine sanctuaries;
+&emsp;(1) the creation, adoption, and publication in the Federal Register by the Secretary of a symbol for the national marine sanctuary program, or for individual national marine sanctuaries or the System;
 
 &emsp;(2) the solicitation of persons to be designated as official sponsors of the national marine sanctuary program or of individual national marine sanctuaries;
 
 &emsp;(3) the designation of persons by the Secretary as official sponsors of the national marine sanctuary program or of individual sanctuaries;
 
-&emsp;(4) the authorization by the Secretary of the use of any symbol published under paragraph (1) by official sponsors of the national marine sanctuary program or of individual national marine sanctuaries;
+&emsp;(4) the authorization by the Secretary of the manufacture, reproduction, or other use of any symbol published under paragraph (1), including the sale of items bearing such a symbol, by official sponsors of the national marine sanctuary program or of individual national marine sanctuaries;
 
 &emsp;(5) the creation, marketing, and selling of products to promote the national marine sanctuary program, and entering into exclusive or nonexclusive agreements authorizing entities to create, market or sell on the Secretary's behalf;
 
@@ -42,11 +42,33 @@ It is unlawful for any person—
 
 &emsp;(2) to represent himself or herself to be an official sponsor absent a designation by the Secretary;
 
-&emsp;(3) to manufacture, reproduce, or use any symbol adopted by the Secretary absent designation as an official sponsor and without payment of a monetary or in-kind contribution to the Secretary; and
+&emsp;(3) to manufacture, reproduce, or otherwise use any symbol adopted by the Secretary under subsection (a)(1) of this section, including to sell any item bearing such a symbol, unless authorized by the Secretary under subsection (a)(4) of this section or subsection (f) of this section; or
 
 &emsp;(4) to violate any regulation promulgated by the Secretary under this section.
 
-(Pub. L. 92–532, title III, §316, formerly Pub. L. 102–587, title II, §2204, Nov. 4, 1992, 106 Stat. 5049; renumbered §316 of Pub. L. 92–532 and amended Pub. L. 104–283, §6, Oct. 11, 1996, 110 Stat. 3364.)
+#### (f) Collaborations
+
+The Secretary may authorize the use of a symbol adopted by the Secretary under subsection (a)(1) of this section by any person engaged in a collaborative effort with the Secretary to carry out the purposes and policies of this chapter and to benefit a national marine sanctuary or the System.
+
+#### (g) Authorization for non-profit partner organization to solicit sponsors
+
+#### (1) In general
+
+&emsp;The Secretary may enter into an agreement with a non-profit partner organization authorizing it to assist in the administration of the sponsorship program established under this section. Under an agreement entered into under this paragraph, the Secretary may authorize the non-profit partner organization to solicit persons to be official sponsors of the national marine sanctuary system or of individual national marine sanctuaries, upon such terms as the Secretary deems reasonable and will contribute to the successful administration of the sanctuary system. The Secretary may also authorize the non-profit partner organization to collect the statutory contribution from the sponsor, and, subject to paragraph (2), transfer the contribution to the Secretary.
+
+#### (2) Reimbursement for administrative costs
+
+&emsp;Under the agreement entered into under paragraph (1), the Secretary may authorize the non-profit partner organization to retain not more than 5 percent of the amount of monetary contributions it receives from official sponsors under the agreement to offset the administrative costs of the organization in soliciting sponsors.
+
+#### (3) Partner organization defined
+
+&emsp;In this subsection, the term “partner organization” means an organization that—
+
+&emsp;&emsp;(A) draws its membership from individuals, private organizations, corporations, academic institutions, or State and local governments; and
+
+&emsp;&emsp;(B) is established to promote the understanding of, education relating to, and the conservation of the resources of a particular sanctuary or 2 or more related sanctuaries.
+
+(Pub. L. 92–532, title III, §316, formerly Pub. L. 102–587, title II, §2204, Nov. 4, 1992, 106 Stat. 5049; renumbered §316 of Pub. L. 92–532 and amended Pub. L. 104–283, §6, Oct. 11, 1996, 110 Stat. 3364; Pub. L. 106–513, §17, Nov. 13, 2000, 114 Stat. 2391.)
 
 #### Codification
 
@@ -54,11 +76,19 @@ Section was set out as a note under section 1442 of this title prior to renumber
 
 #### Amendments
 
+2000—Subsec. (a)(1). Pub. L. 106–513, §17(1), inserted “or the System” after “sanctuaries”.
+
+Subsec. (a)(4). Pub. L. 106–513, §17(2), substituted “manufacture, reproduction, or other use of any symbol published under paragraph (1), including the sale of items bearing such a symbol,” for “use of any symbol published under paragraph (1)”.
+
+Subsec. (e)(3). Pub. L. 106–513, §17(3), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “to manufacture, reproduce, or use any symbol adopted by the Secretary absent designation as an official sponsor and without payment of a monetary or in-kind contribution to the Secretary; and”.
+
+Subsecs. (f), (g). Pub. L. 106–513, §17(4), added subsecs. (f) and (g).
+
 1996—Subsec. (a). Pub. L. 104–283, §6(b)(7), inserted at end “Monetary and in-kind contributions raised through the sale, marketing, or use of symbols and products related to an individual national marine sanctuary shall be used to support that sanctuary.”
 
 Pub. L. 104–283, §6(b)(2), substituted “Authority” for “Project” as heading and “The Secretary may establish a program consisting of” for “The project shall consist of” in introductory provisions.
 
-Pub. L. 104–283, §6(b)(1), redesignated subsec. (b) as (a) and struck out former subsec. (a) which read as follows: “Beginning on November 4, 1992, the Secretary shall conduct a 2-year pilot project to enhance funding for designation and management of national marine sanctuaries.”
+Pub. L. 104–283, §6(b)(1), redesignated subsec. (b) as (a) and struck out former subsec. (a) which read as follows:“Beginning on November 4, 1992, the Secretary shall conduct a 2-year pilot project to enhance funding for designation and management of national marine sanctuaries.”
 
 Subsec. (a)(5). Pub. L. 104–283, §6(b)(6), added par. (5). Former par. (5) redesignated (6).
 

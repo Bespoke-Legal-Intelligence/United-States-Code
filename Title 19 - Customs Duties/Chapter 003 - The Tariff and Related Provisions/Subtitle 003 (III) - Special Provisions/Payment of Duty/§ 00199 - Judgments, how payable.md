@@ -8,9 +8,3 @@ In all proceedings brought by the United States in any court for due recovery as
 
 R.S. §3014 derived from act Mar. 3, 1865, ch. 80, §12, 13 Stat. 494.
 
-#### Federal Rules of Civil Procedure
-
-Effect of rule 69 on this section, see note by Advisory Committee under rule 69 of Title 28, Appendix, Judiciary and Judicial Procedure.
-
-Execution, see rule 69.
-

@@ -18,7 +18,7 @@
 | [3113\.](%C2%A7%2003113%20-%20Liquor%20violations%20in%20Indian%20country.md) | Liquor violations in Indian country. |
 | [3114\.](%C2%A7%2003114%20-%20Return%20of%20seized%20property%20and%20suppression%20of%20evidence%3B%20motion%E2%80%94%28Rule%29.md) | Return of seized property and suppression of evidence; motion—Rule. |
 | [3115\.](%C2%A7%2003115%20-%20Inventory%20upon%20execution%20and%20return%20of%20search%20warrant%E2%80%94%28Rule%29.md) | Inventory upon execution and return of search warrant—Rule. |
-| [3116\.](%C2%A7%2003116%20-%20Records%20of%20examining%20magistrate%3B%20return%20to%20clerk%20of%20court%E2%80%94%28Rule%29.md) | Records of examining magistrate; return to clerk of court—Rule. |
+| [3116\.](%C2%A7%2003116%20-%20Records%20of%20examining%20magistrate%20judge%3B%20return%20to%20clerk%20of%20court%E2%80%94%28Rule%29.md) | Records of examining magistrate judge; return to clerk of court—Rule. |
 | [3117\.](%C2%A7%2003117%20-%20Mobile%20tracking%20devices.md) | Mobile tracking devices. |
 | [3118\.](%C2%A7%2003118%20-%20Implied%20consent%20for%20certain%20tests.md) | Implied consent for certain tests. |
 
@@ -37,6 +37,10 @@ Pub. L. 90–351 enacted section 3103a of this title as part of chapter 204, and
 1986—Pub. L. 99–508, title I, §108(b), Oct. 21, 1986, 100 Stat. 1858, added item 3117 “Mobile tracking devices”.
 
 1968—Pub. L. 90–351, title IX, §1401(b), June 19, 1968, 82 Stat. 238, added item 3103a.
+
+#### Change of Name
+
+Words “magistrate judge” substituted for “magistrate” in item 3116 pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
 #### Chapter Referred to in Other Sections
 
@@ -63,6 +67,6 @@ This chapter is referred to in title 26 section 7302.
 - [&sect; 03113 - Liquor violations in Indian country](%C2%A7%2003113%20-%20Liquor%20violations%20in%20Indian%20country.md)
 - [&sect; 03114 - Return of seized property and suppression of evidence; motion&#8212;(Rule)](%C2%A7%2003114%20-%20Return%20of%20seized%20property%20and%20suppression%20of%20evidence%3B%20motion%E2%80%94%28Rule%29.md)
 - [&sect; 03115 - Inventory upon execution and return of search warrant&#8212;(Rule)](%C2%A7%2003115%20-%20Inventory%20upon%20execution%20and%20return%20of%20search%20warrant%E2%80%94%28Rule%29.md)
-- [&sect; 03116 - Records of examining magistrate; return to clerk of court&#8212;(Rule)](%C2%A7%2003116%20-%20Records%20of%20examining%20magistrate%3B%20return%20to%20clerk%20of%20court%E2%80%94%28Rule%29.md)
+- [&sect; 03116 - Records of examining magistrate judge; return to clerk of court&#8212;(Rule)](%C2%A7%2003116%20-%20Records%20of%20examining%20magistrate%20judge%3B%20return%20to%20clerk%20of%20court%E2%80%94%28Rule%29.md)
 - [&sect; 03117 - Mobile tracking devices](%C2%A7%2003117%20-%20Mobile%20tracking%20devices.md)
 - [&sect; 03118 - Implied consent for certain tests](%C2%A7%2003118%20-%20Implied%20consent%20for%20certain%20tests.md)

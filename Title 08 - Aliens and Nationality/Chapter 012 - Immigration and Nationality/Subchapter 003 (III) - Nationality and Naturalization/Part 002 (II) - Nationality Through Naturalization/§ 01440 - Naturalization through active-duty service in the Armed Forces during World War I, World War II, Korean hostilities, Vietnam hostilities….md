@@ -12,7 +12,7 @@ A person filing an application under subsection (a) of this section shall comply
 
 &emsp;(2) no period of residence or specified period of physical presence within the United States or any State or district of the Service in the United States shall be required; and
 
-&emsp;(3) service in the military, air or naval forces of the United States shall be proved by a duly authenticated certification from the executive department under which the applicant served or is serving, which shall state whether the applicant served honorably in an active-duty status during either World War I or during a period beginning September 1, 1939, and ending December 31, 1946, or during a period beginning June 25, 1950, and ending July 1, 1955, or during a period beginning February 28, 1961, and ending on a date designated by the President by Executive order as the date of termination of the Vietnam hostilities, or thereafter during any other period which the President by Executive order shall designate as a period in which Armed Forces of the United States are or were engaged in military operations involving armed conflict with a hostile foreign force, and was separated from such service under honorable conditions.
+&emsp;(3) service in the military, air or naval forces of the United States shall be proved by a duly authenticated certification from the executive department under which the applicant served or is serving, which shall state whether the applicant served honorably in an active-duty status during either World War I or during a period beginning September 1, 1939, and ending December 31, 1946, or during a period beginning June 25, 1950, and ending July 1, 1955, or during a period beginning February 28, 1961, and ending on a date designated by the President by Executive order as the date of termination of the Vietnam hostilities, orthereafter during any other period which the President by Executive order shall designate as a period in which Armed Forces of the United States are or were engaged in military operations involving armed conflict with a hostile foreign force, and was separated from such service under honorable conditions.
 
 #### (c) Revocation
 
@@ -26,7 +26,7 @@ For definition of Canal Zone, referred to in subsec. (a), see section 3602(b) of
 
 #### Amendments
 
-1997—Subsec. (a)(1). Pub. L. 105–85 inserted “, reenlistment, extension of enlistment,” after “at thetime of enlistment” and “or on board a public vessel owned or operated by the United States for noncommercial service,” after “Swains Island,”.
+1997—Subsec. (a)(1). Pub. L. 105–85 inserted “, reenlistment, extension of enlistment,” after “at the time of enlistment” and “or on board a public vessel owned or operated by the United States for noncommercial service,” after “Swains Island,”.
 
 1991—Subsecs. (a), (b). Pub. L. 102–232 made technical correction to directory language of Pub. L. 101–649, §407(c)(11). See 1990 Amendment note below.
 
@@ -148,27 +148,9 @@ Ex. Ord. No. 12939, Nov. 22, 1994, 59 F.R. 61231, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 1440 of title 8, United States Code, and in order to provide expedited naturalization for aliens and noncitizen nationals who served in an active-duty status in the Armed Forces of the United States during the period of the Persian Gulf Conflict, it is hereby ordered as follows:
 
-For the purpose of determining qualification for the exception from the usual requirements for naturalization, the period of Persian Gulf Conflict military operations in which the Armed Forces of the United States were engaged in armed conflict with a hostile force commenced on August 2, 1990, and terminated on April 11, 1991. Those persons serving honorably in active-duty status in the Armed Forces of the United States during this period are eligible for naturalization in accordance with the statutory exception to the naturalization requirements, as provided in section 1440(b) of title 8, United States Code.
+For the purpose of determining qualification for the exception from the usual requirements for naturalization, the period of Persian Gulf Conflict military operations in which the Armed Forces of the United States were engaged in armed conflict with a hostile forcecommenced on August 2, 1990, and terminated on April 11, 1991. Those persons serving honorably in active-duty status in the Armed Forces of the United States during this period are eligible for naturalization in accordance with the statutory exception to the naturalization requirements, as provided in section 1440(b) of title 8, United States Code.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Cross References
-
-Definition of the term—
-
-&emsp;&emsp;Alien, see section 1101(a)(3) of this title.
-
-&emsp;&emsp;Lawfully admitted for permanent residence, see section 1101(a)(20) of this title.
-
-&emsp;&emsp;National of the United States, see section 1101(a)(22) of this title.
-
-&emsp;&emsp;Naturalization, see section 1101(a)(23) of this title.
-
-&emsp;&emsp;Residence, see section 1101(a)(33) of this title.
-
-&emsp;&emsp;Service, see section 1101(a)(34) of this title.
-
-&emsp;&emsp;United States, see section 1101(a)(38) of this title.
 
 #### Section Referred to in Other Sections
 

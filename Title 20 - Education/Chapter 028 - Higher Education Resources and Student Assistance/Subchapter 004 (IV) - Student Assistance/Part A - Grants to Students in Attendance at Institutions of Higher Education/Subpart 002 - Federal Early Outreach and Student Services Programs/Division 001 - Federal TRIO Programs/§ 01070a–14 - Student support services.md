@@ -34,7 +34,41 @@ A student support services project assisted under this division may provide serv
 
 &emsp;(10) programs and activities as described in paragraphs (1) through (9) which are specially designed for students of limited English proficiency.
 
-#### (c) Requirements for approval of applications
+#### (c) Special rule
+
+#### (1) Use for student aid
+
+&emsp;A recipient of a grant that undertakes any of the permissible services identified in subsection (b) of this section may, in addition, use such funds to provide grant aid to students. A grant provided under this paragraph shall not exceed the maximum appropriated Pell Grant or, be less than the minimum appropriated Pell Grant, for the current academic year. In making grants to students under this subsection, an institution shall ensure that adequate consultation takes place between the student support service program office and the institution's financial aid office.
+
+#### (2) Eligible students
+
+&emsp;For purposes of receiving grant aid under this subsection, eligible students shall be current participants in the student support services program offered by the institution and be—
+
+&emsp;&emsp;(A) students who are in their first 2 years of postsecondary education and who are receiving Federal Pell Grants under subpart 1 of part A of this subchapter; or
+
+&emsp;&emsp;(B) students who have completed their first 2 years of postsecondary education and who are receiving Federal Pell Grants under subpart 1 of part A of this subchapter if the institution demonstrates to the satisfaction of the Secretary that—
+
+&emsp;&emsp;&emsp;(i) these students are at high risk of dropping out; and
+
+&emsp;&emsp;&emsp;(ii) it will first meet the needs of all its eligible first- and second-year students for services under this paragraph.
+
+#### (3) Determination of need
+
+&emsp;A grant provided to a student under paragraph (1) shall not be considered in determining that student's need for grant or work assistance under this subchapter, except that in no case shall the total amount of student financial assistance awarded to a student under this subchapter exceed that student's cost of attendance, as defined in section 1087<i>ll</i> of this title.
+
+#### (4) Matching required
+
+&emsp;A recipient of a grant who uses such funds for the purpose described in paragraph (1) shall match the funds used for such purpose, in cash, from non-Federal funds, in an amount that is not less than 33 percent of the total amount of funds used for that purpose. This paragraph shall not apply to any grant recipient that is an institution of higher education eligible to receive funds under part A or B of subchapter III or subchapter V of this chapter.
+
+#### (5) Reservation
+
+&emsp;In no event may a recipient use more than 20 percent of the funds received under this section for grant aid.
+
+#### (6) Supplement, not supplant
+
+&emsp;Funds received by a grant recipient that are used under this subsection shall be used tosupplement, and not supplant, non-Federal funds expended for student support services programs.
+
+#### (d) Requirements for approval of applications
 
 In approving applications for student support services projects under this division for any fiscal year, the Secretary shall—
 
@@ -58,13 +92,19 @@ In approving applications for student support services projects under this divis
 
 &emsp;&emsp;(B) maintaining the loan burden of each such student at a manageable level.
 
-(Pub. L. 89–329, title IV, §402D, as added Pub. L. 102–325, title IV, §402(a)(4), July 23, 1992, 106 Stat. 488; amended Pub. L. 103–208, §2(b)(11), Dec. 20, 1993, 107 Stat. 2459; Pub. L. 105–244, title IV, §402(d), Oct. 7, 1998, 112 Stat. 1655.)
+(Pub. L. 89–329, title IV, §402D, as added Pub. L. 102–325, title IV, §402(a)(4), July 23, 1992, 106 Stat. 488; amended Pub. L. 103–208, §2(b)(11), Dec. 20, 1993, 107 Stat. 2459; Pub. L. 105–244, title IV, §402(d), Oct. 7, 1998, 112 Stat. 1655; Pub. L. 106–554, §1(a)(1) \[title III, §317(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–48.)
 
 #### Amendments
+
+2000—Subsecs. (c), (d). Pub. L. 106–554 added subsec. (c) and redesignated former subsec. (c) as (d).
 
 1998—Subsec. (c)(6). Pub. L. 105–244 amended par. (6) generally. Prior to amendment, par. (6) read as follows: “require an assurance from the institution which is the recipient of the grant or contract that each student enrolled in the project will be offered sufficient financial assistance to meet that student's full financial need.”
 
 1993—Subsec. (c)(2). Pub. L. 103–208 struck out “either” after “application”.
+
+#### Effective Date of 2000 Amendment
+
+Pub. L. 106–554, §1(a)(1) \[title III, §317(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–49, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to student support services grants awarded on or after the date of enactment of this Act \[Dec. 21, 2000\].”
 
 #### Effective Date of 1998 Amendment
 

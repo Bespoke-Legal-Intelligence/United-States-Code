@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) establish general policies for the program established by this subpart and oversee the program's operation;
 
-&emsp;&emsp;(B) establish general criteria for the award of fellowships in academic fields identified by the Board, or, in the event that the Secretary enters into a contract with a nongovernmental entity to administer the program assisted under this subpart, by such nongovernmental entity;
+&emsp;&emsp;(B) establish general criteria for the award of fellowships in academic fields identifiedby the Board, or, in the event that the Secretary enters into a contract with a nongovernmental entity to administer the program assisted under this subpart, by such nongovernmental entity;
 
 &emsp;&emsp;(C) appoint panels of academic scholars with distinguished backgrounds in the arts, humanities, and social sciences for the purpose of selecting fellows, except that, in the event that the Secretary enters into a contract with a nongovernmental entity to administer the program, such panels may be appointed by such nongovernmental entity; and
 

@@ -12,7 +12,7 @@
 
 #### (2) Liability in rem
 
-&emsp;Any vessel used to destroy, cause the loss of, or injure any sanctuary resource shall be liable in rem to the United States for response costs and damages resulting from such destruction, loss, or injury. The amount of that liability shall constitute a maritime lien on the vessel and may be recovered in an action in rem in any district court of the United States that has jurisdiction over the vessel.
+&emsp;Any vessel used to destroy, cause the loss of, or injure any sanctuary resource shall be liable in rem to the United States for response costs and damages resulting from such destruction, loss, or injury. The amount of that liability shall constitute a maritime lien on the vessel and may be recovered in an actionin rem in any district court of the United States that has jurisdiction over the vessel.
 
 #### (3) Defenses
 
@@ -40,37 +40,75 @@
 
 #### (c) Civil actions for response costs and damages
 
-The Attorney General, upon request of the Secretary, may commence a civil action in the United States district court for the appropriate district against any person or vessel who may be liable under subsection (a) of this section for response costs and damages. The Secretary, acting as trustee for sanctuary resources for the United States, shall submit a request for such an action to the Attorney General whenever a person may be liable for such costs or damages.
+(1) The Attorney General, upon request of the Secretary, may commence a civil action against any person or vessel who may be liable under subsection (a) of this section for response costs and damages. The Secretary, acting as trustee for sanctuary resources for the United States, shall submit a request for such an action to the Attorney General whenever a person may be liable for such costs or damages.
+
+(2) An action under this subsection may be brought in the United States district court for any district in which—
+
+&emsp;(A) the defendant is located, resides, or is doing business, in the case of an action against a person;
+
+&emsp;(B) the vessel is located, in the case of an action against a vessel; or
+
+&emsp;(C) the destruction of, loss of, or injury to a sanctuary resource occurred.
 
 #### (d) Use of recovered amounts
 
 Response costs and damages recovered by the Secretary under this section shall be retained by the Secretary in the manner provided for in section 9607(f)(1) of title 42, and used as follows:
 
-#### (1) Response costs and damage assessments
+#### (1) Response costs
 
-&emsp;Twenty percent of amounts recovered under this section, up to a maximum balance of $750,000, shall be used to finance response actions and damage assessments by the Secretary.
+&emsp;Amounts recovered by the United States for costs of response actions and damage assessments under this section shall be used, as the Secretary considers appropriate—
 
-#### (2) Restoration, replacement, management, and improvement
+&emsp;&emsp;(A) to reimburse the Secretary or any other Federal or State agency that conducted those activities; and
 
-&emsp;Amounts remaining after the operation of paragraph (1) shall be used, in order of priority—
+&emsp;&emsp;(B) after reimbursement of such costs, to restore, replace, or acquire the equivalent of any sanctuary resource.
 
-&emsp;&emsp;(A) to restore, replace, or acquire the equivalent of the sanctuary resources which were the subject of the action;
+#### (2) Other amounts
 
-&emsp;&emsp;(B) to manage and improve the national marine sanctuary within which are located the sanctuary resources which were the subject of the action; and
+&emsp;All other amounts recovered shall be used, in order of priority—
 
-&emsp;&emsp;(C) to manage and improve any other national marine sanctuary.
+&emsp;&emsp;(A) to restore, replace, or acquire the equivalent of the sanctuary resources that were the subject of the action, including for costs of monitoring and the costs of curation and conservation of archeological, historical, and cultural sanctuary resources;
+
+&emsp;&emsp;(B) to restore degraded sanctuary resources of the national marine sanctuary that was the subject of the action, giving priority to sanctuary resources and habitats that are comparable to the sanctuary resources that were the subject of the action; and
+
+&emsp;&emsp;(C) to restore degraded sanctuary resources of other national marine sanctuaries.
 
 #### (3) Federal-State coordination
 
 &emsp;Amounts recovered under this section with respect to sanctuary resources lying within the jurisdiction of a State shall be used under paragraphs (2)(A) and (B) in accordance with the court decree or settlement agreement and an agreement entered into by the Secretary and the Governor of that State.
 
-(Pub. L. 92–532, title III, §312, as added Pub. L. 100–627, title II, §204(a), Nov. 7, 1988, 102 Stat. 3215; amended Pub. L. 102–587, title II, §§2107(d), 2110, Nov. 4, 1992, 106 Stat. 5044, 5045; Pub. L. 104–283, §9(e), Oct. 11, 1996, 110 Stat. 3367.)
+#### (e) Statute of limitations
+
+An action for response costs or damages under subsection (c) of this section shall be barred unless the complaint is filed within 3 years after the date on which the Secretary completes a damage assessment and restoration plan for the sanctuary resources to which the action relates.
+
+(Pub. L. 92–532, title III, §312, as added Pub. L. 100–627, title II, §204(a), Nov. 7, 1988, 102 Stat. 3215; amended Pub. L. 102–587, title II, §§2107(d), 2110, Nov. 4, 1992, 106 Stat. 5044, 5045; Pub. L. 104–283, §9(e), Oct. 11, 1996, 110 Stat. 3367; Pub. L. 106–513, §§13, 19(c), Nov. 13, 2000, 114 Stat. 2389, 2393.)
 
 #### References in Text
 
 Sections 181 to 188 of title 46, Appendix, referred to in subsec. (a)(4), was in the original a reference to sections 4281 to 4289 of the Revised Statutes of the United States. Section 4288 of the Revised Statutes was classified to section 175 of former Title 46, Shipping, and was repealed by act Oct. 9, 1940, ch. 777, §7, 54 Stat. 1028.
 
 #### Amendments
+
+2000—Subsec. (a)(1). Pub. L. 106–513, §19(c), amended par. (1) heading.
+
+Subsec. (c). Pub. L. 106–513, §13(a), designated existing provisions as par. (1), struck out “in the United States district court for the appropriate district” after “civil action”, and added par. (2).
+
+Subsec. (d)(1), (2). Pub. L. 106–513, §13(b), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
+
+“(1)
+
+Response costs and damage assessments.—Twenty percent of amounts recovered under this section, up to a maximum balance of $750,000, shall be used to finance response actions and damage assessments by the Secretary.
+
+“(2)
+
+Restoration, replacement, management, and improvement.—Amounts remaining after the operation of paragraph (1) shall be used, in order of priority—
+
+&emsp;“(A) to restore, replace, or acquire the equivalent of the sanctuary resources which were the subject of the action;
+
+&emsp;“(B) to manage and improve the national marine sanctuary within which are located the sanctuary resources which were the subject of the action; and
+
+&emsp;“(C) to manage and improve any other national marine sanctuary.”
+
+Subsec. (e). Pub. L. 106–513, §13(c), added subsec. (e).
 
 1996—Subsec. (b)(1). Pub. L. 104–283 made technical amendment to directory language of Pub. L. 102–587, §2110(d). See 1992 Amendment note below.
 
@@ -86,7 +124,7 @@ Subsec. (b)(1). Pub. L. 102–587, §2110(d), as amended by Pub. L. 104–283, i
 
 Subsec. (d). Pub. L. 102–587, §2107(d)(1), struck out “and civil penalties under section 1437 of this title” after “Secretary under this section”.
 
-Subsec. (d)(3), (4). Pub. L. 102–587, §§2107(d)(2), 2110(e), redesignated par. (4) as (3), inserted “the court decreeor settlement agreement and” after “in accordance with”, and struck out former par. (3) which read as follows: “Amounts recovered under section 1437 of this title in the form of civil penalties shall be used by the Secretary in accordance with section 1437(e) of this title and paragraphs (2)(B) and (C) of this subsection.”
+Subsec. (d)(3), (4). Pub. L. 102–587, §§2107(d)(2), 2110(e), redesignated par. (4) as (3), inserted “the court decree or settlement agreement and” after “in accordance with”, and struck out former par. (3) which read as follows: “Amounts recovered under section 1437 of this title in the form of civil penalties shall be used by the Secretary in accordance with section 1437(e) of this title and paragraphs (2)(B) and (C) of this subsection.”
 
 #### Effective Date
 

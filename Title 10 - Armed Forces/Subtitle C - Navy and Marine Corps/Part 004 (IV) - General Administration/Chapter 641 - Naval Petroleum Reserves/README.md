@@ -8,7 +8,7 @@
 | [7423\.](%C2%A7%2007423%20-%20Periodic%20re-examination%20of%20production%20requirements.md) | Periodic re-examination of production requirements. |
 | [7424\.](%C2%A7%2007424%20-%20Protection%20of%20oil%20reserves%3B%20contracts%20for%20conservation.md) | Protection of oil reserves; contracts for conservation. |
 | [7425\.](%C2%A7%2007425%20-%20Acquisition%20by%20condemnation%20and%20purchase.md) | Acquisition by condemnation and purchase. |
-| [7426\.](%C2%A7%2007426%20-%20Cooperative%20or%20unit%20plans%20affecting%20Naval%20Petroleum%20Reserve%20Numbered%201.md) | Cooperative or unit plans affecting Naval Petroleum Reserve Numbered 1. |
+| \[7426. | Repealed.\] |
 | [7427\.](%C2%A7%2007427%20-%20Cooperative%20or%20unit%20plans%20in%20the%20naval%20petroleum%20reserves.md) | Cooperative or unit plans in the naval petroleum reserves. |
 | [7428\.](%C2%A7%2007428%20-%20Agreements%20and%20leases%20provision%20for%20change.md) | Agreements and leases: provision for change. |
 | [7429\.](%C2%A7%2007429%20-%20Re-lease%20of%20certain%20lands%20lessee%27s%20preferential%20right.md) | Re-lease of certain lands: lessee's preferential right. |
@@ -27,6 +27,8 @@
 
 #### Amendments
 
+2000—Pub. L. 106–398, §1 \[div. C, title XXXIV, §3402(b)(3)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–484, struck out item 7426 “Cooperative or unit plans affecting Naval Petroleum Reserve Numbered 1”.
+
 1997—Pub. L. 105–85, div. C, title XXXIV, §3404(b), Nov. 18, 1997, 111 Stat. 2061, added item 7439.
 
 1996—Pub. L. 104–201, div. A, title X, §1074(a)(19), Sept. 23, 1996, 110 Stat. 2660, struck out item 7434 “Annual report to congressional committees”.
@@ -43,10 +45,6 @@ Pub. L. 104–106, div. A, title XV, §§1502(a)(28)(B), 1503(b)(4), Feb. 10, 19
 
 1962—Pub. L. 87–796, §1(13), Oct. 11, 1962, 76 Stat. 906, substituted “Rifle, Colorado, plant; possession, use, and transfer of” for “Exclusion of naval oil shale reserves” in item 7438.
 
-#### Cross References
-
-Property records, basis, reports, see section 2721 of this title.
-
 #### Chapter Referred to in Other Sections
 
 This chapter is referred to in title 30 section 353; title 42 sections 6214, 7156, 7235.
@@ -62,7 +60,7 @@ This chapter is referred to in title 30 section 353; title 42 sections 6214, 715
 - [&sect; 07423 - Periodic re-examination of production requirements](%C2%A7%2007423%20-%20Periodic%20re-examination%20of%20production%20requirements.md)
 - [&sect; 07424 - Protection of oil reserves; contracts for conservation](%C2%A7%2007424%20-%20Protection%20of%20oil%20reserves%3B%20contracts%20for%20conservation.md)
 - [&sect; 07425 - Acquisition by condemnation and purchase](%C2%A7%2007425%20-%20Acquisition%20by%20condemnation%20and%20purchase.md)
-- [&sect; 07426 - Cooperative or unit plans affecting Naval Petroleum Reserve Numbered 1](%C2%A7%2007426%20-%20Cooperative%20or%20unit%20plans%20affecting%20Naval%20Petroleum%20Reserve%20Numbered%201.md)
+- [&sect; 07426 - Repealed. Pub. L. 106&#8211;398, &sect;1 \[div. C, title XXXIV, &sect;3402(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A&#8211;484](%C2%A7%2007426%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93398%2C%20%C2%A71%20%5Bdiv.%20C%2C%20title%20XXXIV%2C%20%C2%A73402%28a%29%5D%2C%20Oct.%2030%2C%202000%2C%20114%20Stat.%201654%2C%201654A%E2%80%93484.md)
 - [&sect; 07427 - Cooperative or unit plans in the naval petroleum reserves](%C2%A7%2007427%20-%20Cooperative%20or%20unit%20plans%20in%20the%20naval%20petroleum%20reserves.md)
 - [&sect; 07428 - Agreements and leases provision for change](%C2%A7%2007428%20-%20Agreements%20and%20leases%20provision%20for%20change.md)
 - [&sect; 07429 - Re-lease of certain lands lessee's preferential right](%C2%A7%2007429%20-%20Re-lease%20of%20certain%20lands%20lessee%27s%20preferential%20right.md)

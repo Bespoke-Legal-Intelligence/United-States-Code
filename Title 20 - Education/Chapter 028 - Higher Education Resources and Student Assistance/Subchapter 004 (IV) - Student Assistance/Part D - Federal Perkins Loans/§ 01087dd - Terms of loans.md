@@ -40,7 +40,7 @@
 
 &emsp;(ii) may provide that the total payments by a borrower for a monthly or similar payment period with respect to the aggregate of all loans held by the institution may, when the amount of a monthly or other similar payment is not a multiple of $5, be rounded to the next highest whole dollar amount that is a multiple of $5;
 
-&emsp;(D) shall provide that the loan shall bear interest, on the unpaid balance of the loan, at the rate of 5 percent per year in the case of any loan made on or after October 1, 1981, except that no interest shall accrue (I) prior to the beginning date of repayment determined under paragraph (2)(A)(i), or (II) during any period in which repayment is suspended by reason of paragraph (2);
+&emsp;(D) shall provide that the loan shall bear interest, on the unpaid balance of the loan, at the rate of 5 percent per year in the case of any loan made on or after October 1, 1981, except that no interest shall accrue (I) prior tothe beginning date of repayment determined under paragraph (2)(A)(i), or (II) during any period in which repayment is suspended by reason of paragraph (2);
 
 &emsp;(E) shall provide that the loan shall be made without security and without endorsement;
 
@@ -92,7 +92,7 @@
 
 #### (d) Availability of loan fund to all eligible students
 
-An agreement under this part for payment of Federal capital contributions shall include provisions designed to make loans from the student loan fund established pursuant to such agreement reasonably available (to the extent of the available funds in such fund) to all eligible students in such institutions in need thereof.
+An agreement under this part for payment of Federal capital contributions shall include provisions designed to make loans from the studentloan fund established pursuant to such agreement reasonably available (to the extent of the available funds in such fund) to all eligible students in such institutions in need thereof.
 
 #### (e) Forbearance
 
@@ -160,7 +160,7 @@ The Secretary shall ensure that, upon written request, an institution of higher 
 
 #### (2) Restoration of eligibility
 
-&emsp;If the borrower of a loan made under this part who has defaulted on that loan makes 6 ontime, consecutive, monthly payments of amounts owed on such loan, the borrower's eligibility for grant, loan, or work assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 shall be restored tothe extent that the borrower is otherwise eligible. A borrower only once may obtain the benefit of this paragraph with respect to restored eligibility.
+&emsp;If the borrower of a loan made under this part who has defaulted on that loan makes 6 ontime, consecutive, monthly payments of amounts owed on such loan, the borrower's eligibility for grant, loan, or work assistanceunder this subchapter and part C of subchapter I of chapter 34 of title 42 shall be restored to the extent that the borrower is otherwise eligible. A borrower only once may obtain the benefit of this paragraph with respect to restored eligibility.
 
 #### (i) Incentive repayment program
 
@@ -228,7 +228,7 @@ Subsec. (b)(2). Pub. L. 102–325, §464(c)(2), amended par. (2) generally. Prio
 
 Subsec. (c)(1)(C)(i). Pub. L. 102–325, §464(d), substituted “$40” for “$30” in two places.
 
-Subsec. (c)(1)(E). Pub. L. 102–325, §464(e), struck out “unless the borrower is a minor and the note or other evidence of obligation executed by him would not,under applicable law, create a binding obligation,” before “shall provide”.
+Subsec. (c)(1)(E). Pub. L. 102–325, §464(e), struck out “unless the borrower is a minor and the note or otherevidence of obligation executed by him would not, under applicable law, create a binding obligation,” before “shall provide”.
 
 Subsec. (c)(2)(A). Pub. L. 102–325, §464(f), amended subpar. (A) generally, revising and restating as cls. (i) to (iv) provisions formerly contained in cls. (i) to (ix).
 

@@ -16,7 +16,3 @@ Act June 5, 1936, changed “Colonial National Monument” to “Colonial Nation
 
 Boundaries were established by Presidential Proc. No. 1929, Dec. 30, 1930, 46 Stat. 3041, and Proc. No. 2055, Aug. 22, 1933, 48 Stat. 1706.
 
-#### Cross References
-
-Yorktown battlefield extended not to exceed 4,500 acres, see section 81f of this title.
-

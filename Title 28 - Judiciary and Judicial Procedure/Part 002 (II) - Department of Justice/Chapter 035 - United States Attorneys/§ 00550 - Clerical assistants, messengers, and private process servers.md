@@ -34,7 +34,7 @@ Provision of said section 593 for office expenses of United States attorneys is 
 
 Said section 593 also required that payment of salaries of such clerks and messengers be made by the disbursing clerk of the Department of Justice. Under section 550 \[see Prior Provisions note below\] of this title the marshals will make such payments including the office expenses of United States attorneys.
 
-The restriction that section 484 of title 28, U.S.C., 1940 ed., did not apply to Alaska is omitted as unnecessary since section 109 of title 48, U.S.C., 1940 ed., Territories and Insular Possessions, authorizes employment of clerical assistants to United States attorneys in Alaska by the Attorney General.
+The restriction that section 484 of title 28, U.S.C., 1940 ed., did not apply to Alaska is omitted as unnecessary since section 109 of title 48, U.S.C., 1940 ed., Territories and Insular Possessions, authorizes employment ofclerical assistants to United States attorneys in Alaska by the Attorney General.
 
 The provision in such section 484 of title 28, U.S.C., 1940 ed., that the need for clerical assistants be certified by the district judge, was omitted as unnecessary. The need may be determined by the Attorney General.
 
@@ -58,7 +58,7 @@ A prior section 556, act June 25, 1948, ch. 646, 62 Stat. 913, related to the pr
 
 #### Amendments
 
-1990—Pub. L. 101–647 substituted “, messengers, and private process servers” for “and messengers” in section catchline and text.
+<b>1990</b>—Pub. L. 101–647 substituted “, messengers, and private process servers” for “and messengers” in section catchline and text.
 
 #### Effective Date of 1990 Amendment
 

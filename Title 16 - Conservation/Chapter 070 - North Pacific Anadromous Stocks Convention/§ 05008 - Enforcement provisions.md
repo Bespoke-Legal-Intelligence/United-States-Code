@@ -14,7 +14,7 @@ Authorized officers may, shoreward of the outer boundary of the exclusive econom
 
 &emsp;(1) with or without a warrant or other process—
 
-&emsp;&emsp;(A) arrest any person, if he or she has reasonable cause to believe that such person has committed an act prohibited by section 5009 of this title;
+&emsp;&emsp;(A) arrest any person, if the officer has reasonable cause to believe that such person has committed an act prohibited by section 5009 of this title;
 
 &emsp;&emsp;(B) board, and search or inspect, any fishing vessel subject to the provisions of the Convention and this chapter;
 
@@ -34,19 +34,21 @@ Authorized officers may, shoreward of the outer boundary of the exclusive econom
 
 &emsp;(A) board a vessel of any Party that reasonably can be believed to be engaged in directed fishing for, incidental taking of, or processing of anadromous fish, and, without warrant or process, inspect equipment, logs, documents, catch, and other articles, and question persons, on board the vessel, for the purpose of carrying out the provisions of the Convention, this chapter, or any regulation issued under this chapter; and
 
-&emsp;(B) if any such vessel or person on board is actually engaged in operations in violation ofany such provision, or there is reasonable ground to believe any person or vessel was obviously so engaged before the boarding of such vessel by the authorized officer, arrest or seize such person or vessel and further investigate the circumstance if necessary.
+&emsp;(B) If <sup>1</sup> any such vessel or person on board is actually engaged in operations in violation of any such provision, or there is reasonable ground to believe any person or vessel was obviously so engaged before the boarding of such vessel by the authorized officer, arrest or seize such person or vessel and further investigate the circumstance if necessary.
 
 > If an authorized officer, after boarding and investigation, has reasonable cause to believe that any such fishing vessel or person engaged in operations in violation of any provision referred to in subparagraph (A), the officer shall deliver the vessel or person as promptly as practicable to the enforcement officers of the appropriate Party, in accordance with the provisions of the Convention.
 
 (2) When requested by the appropriate authorities of a Party, an authorized officer may be directed to attend as a witness, and to produce such available records and files or duly certified copies thereof as may be necessary, for the prosecution by that Party of any violation of the provisions of the Convention or any law of that Party relating to the enforcement thereof.
 
-(Pub. L. 102–567, title VIII, §809, Oct. 29, 1992, 106 Stat. 4312; Pub. L. 102–587, title VIII, §8009, Nov. 4, 1992, 106 Stat. 5101.)
+(Pub. L. 102–567, title VIII, §809, Oct. 29, 1992, 106 Stat. 4312; Pub. L. 102–587, title VIII, §8009, Nov. 4, 1992, 106 Stat. 5101; Pub. L. 106–562, title III, §304(a), Dec. 23, 2000, 114 Stat. 2806.)
 
 #### Codification
 
-Pub. L. 102–567 and Pub. L. 102–587 enacted substantially identical sections. This section is based on text of Pub. L. 102–587.
+Title VIII of Pub. L. 102–567 and Pub. L. 102–587 enacted substantially identical sections. Title VIII of Pub. L. 102–587 was repealed by Pub. L. 106–562.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 5002, 5010 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

@@ -92,7 +92,7 @@
 
 &emsp;&emsp;(B) any modifications of the National Drug Control Strategy or the performance measurement system described in subsection (c) of this section;
 
-&emsp;&emsp;(C) an assessment of the manner in which the budget proposal submitted under section 1703(c) of this title is intended to implement the National Drug Control Strategy and whether the funding levels contained in such proposal are sufficient to implement such Strategy;
+&emsp;&emsp;(C) an assessment of the manner in which the budget proposal submitted under section 1703(c) of this title is intended to implementthe National Drug Control Strategy and whether the funding levels contained in such proposal are sufficient to implement such Strategy;
 
 &emsp;&emsp;(D) measurable data evaluating the success or failure in achieving the annual measurable objectives described in subsection (a)(2)(A)(ii) of this section;
 

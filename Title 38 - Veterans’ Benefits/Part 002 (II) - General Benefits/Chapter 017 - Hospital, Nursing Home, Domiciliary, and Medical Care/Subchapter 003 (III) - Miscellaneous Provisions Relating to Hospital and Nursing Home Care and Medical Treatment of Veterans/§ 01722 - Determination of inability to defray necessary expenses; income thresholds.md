@@ -20,7 +20,7 @@
 
 (d)(1) Notwithstanding the attributable income of a veteran, the Secretary may refuse to make a determination described in paragraph (2) of this subsection if the corpus of the estate of the veteran is such that under all the circumstances it is reasonable that some part of the corpus of the estate of the veteran be consumed for the veteran's maintenance.
 
-(2) A determination described in this paragraph is a determination that for purposes of subsection (a)(3) of this section a veteran's attributable income is not greater than the amount determined under subsection (b) of this section.
+(2) A determination described in this paragraph is a determination that for purposes of subsection (a)(3) of this section a veteran's attributable income is not greater than theamount determined under subsection (b) of this section.
 
 (3) For the purposes of paragraph (1) of this subsection, the corpus of the estate of a veteran shall be determined in the same manner as the manner in which determinations are made of the corpus of the estates of persons under section 1522 of this title.
 
@@ -110,7 +110,7 @@ Subsec. (b). Pub. L. 101–508, §8013(c)(2), amended subsec. (b) generally. Pri
 
 Subsec. (c). Pub. L. 101–508, §8013(c)(3), struck out “paragraphs (1) and (2) of” before “subsection (b) of this section”.
 
-Subsec. (d)(2). Pub. L. 101–508, §8013(c)(4), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “A determination described in this paragraph is a determination—
+Subsec. (d)(2). Pub. L. 101–508, §8013(c)(4), amended par. (2) generally. Prior to amendment, par. (2) read asfollows: “A determination described in this paragraph is a determination—
 
 &emsp;“(A) that for the purposes of subsection (a)(1)(C) of this section a veteran's attributable income is not greater than the Category A threshold; or
 

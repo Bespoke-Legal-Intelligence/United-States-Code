@@ -6,7 +6,7 @@ Definitions.—In this section—
 
 &emsp;(1) “bus” means a motor vehicle with motive power (except a trailer) designed to carry more than 10 individuals.
 
-&emsp;(2) “multipurpose passenger vehicle” means a motor vehicle with motive power (except atrailer), designed to carry not more than 10 individuals, that is constructed either on a truck chassis or with special features for occasional off-road operation.
+&emsp;(2) “multipurpose passenger vehicle” means a motor vehicle with motive power (except a trailer), designed to carry not more than 10 individuals, that is constructed either on a truck chassis or with special features for occasional off-road operation.
 
 &emsp;(3) “passenger car” means a motor vehicle with motive power (except a multipurpose passenger vehicle, motorcycle, or trailer) designed to carry not more than 10 individuals.
 
@@ -181,6 +181,72 @@ The National Traffic and Motor Vehicle Safety Act of 1966, referred to in subsec
 #### Amendments
 
 1998—Subsec. (g)(1). Pub. L. 105–178 substituted “annually” for “every 6 months” in introductory provisions.
+
+#### Improving the Safety of Child Restraints
+
+Pub. L. 106–414, §14, Nov. 1, 2000, 114 Stat. 1806, provided that:
+
+“(a)
+
+In General.—Not later than 12 months after the date of the enactment of this Act \[Nov. 1, 2000\], the Secretary of Transportation shall initiate a rulemaking for the purpose of improving the safety of child restraints, including minimizing head injuries from side impact collisions.
+
+“(b)
+
+Elements for Consideration.—In the rulemaking required by subsection (a), the Secretary shall consider—
+
+&emsp;“(1) whether to require more comprehensive tests for child restraints than the current Federal motor vehicle safety standards requires, including the use of dynamic tests that—
+
+&emsp;&emsp;“(A) replicate an array of crash conditions, such as side-impact crashes and rear-impact crashes; and
+
+&emsp;&emsp;“(B) reflect the designs of passenger motor vehicles as of the date of the enactment of this Act \[Nov. 1, 2000\];
+
+&emsp;“(2) whether to require the use of anthropomorphic test devices that—
+
+&emsp;&emsp;“(A) represent a greater range of sizes of children including the need to require the use of an anthropomorphic test device that is representative of a ten-year-old child; and
+
+&emsp;&emsp;“(B) are Hybrid III anthropomorphic test devices;
+
+&emsp;“(3) whether to require improved protection from head injuries in side-impact and rear-impact crashes;
+
+&emsp;“(4) how to provide consumer information on the physical compatibility of child restraints and vehicle seats on a model-by-model basis;
+
+&emsp;“(5) whether to prescribe clearer and simpler labels and instructions required to be placed on child restraints;
+
+&emsp;“(6) whether to amend Federal Motor Vehicle Safety Standard No. 213 (49 CFR 571.213) to cover restraints for children weighing up to 80 pounds;
+
+&emsp;“(7) whether to establish booster seat performance and structural integrity requirements to be dynamically tested in 3-point lap and shoulder belts;
+
+&emsp;“(8) whether to apply scaled injury criteria performance levels, including neck injury, developed for Federal Motor Vehicle Safety Standard No. 208 to child restraints and booster seats covered by in Federal Motor Vehicle Safety Standard No. 213; and
+
+&emsp;“(9) whether to include child restraint in each vehicle crash tested under the New Car Assessment Program.
+
+“(c)
+
+Report to Congress.—If the Secretary does not incorporate any element described in subsection (b) in the final rule, the Secretary shall explain, in a report to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Commerce \[now Committee on Energy and Commerce\] submitted within 30 days after issuing the final rule, specifically why the Secretary did not incorporate any such element in the final rule.
+
+“(d)
+
+Completion.—Notwithstanding any other provision of law, the Secretary shall complete the rulemaking required by subsection (a) not later than 24 months after the date of the enactment of this Act \[Nov. 1, 2000\].
+
+“(e)
+
+Child Restraint Defined.—In this section, the term ‘child restraint’ has the meaning given the term ‘Child restraint system’ in section 571.213 of title 49, Code of Federal Regulations (as in effect on the date of the enactment of this Act \[Nov. 1, 2000\]).
+
+“(f)
+
+Funding.—For each fiscal year, of the funds made available to the Secretary for activities relating to safety, not less than $750,000 shall be made available to carry out crash testing of child restraints.
+
+“(g)
+
+Child Restraint Safety Ratings Program.—No later than 12 months after the date of the enactment of this Act \[Nov. 1, 2000\], the Secretary of Transportation shall issue a notice of proposed rulemaking to establish a child restraint safety rating consumer information program to provide practicable, readily understandable, and timely information to consumers for use in making informed decisions in the purchase of child restraints. No later than 24 months after the date of the enactment of this Act the Secretary shall issue a final rule establishing a child restraint safety rating program and providing other consumer information whichthe Secretary determines would be useful \[to\] consumers who purchase child restraint systems.
+
+“(h)
+
+Booster Seat Study.—In addition to consideration of booster seat performance and structural integrity contained in subsection (b)(7), not later than 12 months after the date of the enactment of this Act \[Nov. 1, 2000\], the Secretary of Transportation shall initiate and complete a study, taking into account the views of the public, on the use and effectiveness of automobile booster seats for children, compiling information on the advantages and disadvantages of using booster seats and determining the benefits, if any, to children from use of booster with lap and shoulder belts compared to children using lap and shoulder belts alone, and submit a report on the results of that study to the Congress.
+
+“(i)
+
+Booster Seat Education Program.—The Secretary of Transportation within 1 year after the date of the enactment of this Act \[Nov. 1, 2000\] shall develop \[a\] 5 year strategic plan to reduce deaths and injuries caused by failure to use the appropriate booster seat in the 4 to 8 year old age group by 25 percent.”
 
 #### Improving Air Bag Safety
 

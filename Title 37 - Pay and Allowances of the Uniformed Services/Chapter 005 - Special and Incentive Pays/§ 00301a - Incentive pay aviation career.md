@@ -97,7 +97,7 @@ Pub. L. 105–85, §615(a), which directed amendment by inserting at the end of 
 
 | “Years of service as an officer: | “Monthly rate |
 | :--- | ---: |
-| “Over 22 | 585  |
+| “Over 22 | 585&nbsp; |
 | “Over 23 | 495&nbsp; |
 | “Over 24 | 385&nbsp; |
 | “Over 25 | 250”, |

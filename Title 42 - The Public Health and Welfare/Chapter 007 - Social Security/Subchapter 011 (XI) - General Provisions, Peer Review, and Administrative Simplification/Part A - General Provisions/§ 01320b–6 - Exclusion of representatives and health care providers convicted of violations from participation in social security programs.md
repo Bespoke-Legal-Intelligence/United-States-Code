@@ -12,7 +12,7 @@ The Commissioner of Social Security shall exclude from participation in the soci
 
 #### (b) Notice, effective date, and period of exclusion
 
-(1) An exclusion under this section shall be effective at such time, for such period, and uponsuch reasonable notice to the public and to the individual excluded as may be specified in regulations consistent with paragraph (2).
+(1) An exclusion under this section shall be effective at such time, for such period, and upon such reasonable notice to the public and to the individual excluded as may be specified in regulations consistent with paragraph (2).
 
 (2) Such an exclusion shall be effective with respect to services furnished to any individual on or after the effective date of the exclusion. Nothing in this section may be construed to preclude, in determining disability under subchapter II of this chapter or subchapter XVI of this chapter, consideration of any medical evidence derived from services provided by a health care provider before the effective date of the exclusion of the health care provider under this section.
 

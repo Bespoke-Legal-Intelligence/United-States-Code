@@ -2,7 +2,7 @@ Part B—Leadership in Educational Technology
 
 #### Prior Provisions
 
-A prior part B, consisting of sections 5841 to 5851 of this title, was repealed by Pub. L. 104–134, title I, §101(d) \[title VII, §701(1)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–251; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.
+A prior part B, consisting of sections 5841 to 5851 of this title, was repealed by Pub. L. 104–134, title I, §101(d) \[title VII, §701(1)\], Apr. 26, 1996, 110 Stat.1321–211, 1321–251; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.
 
 Section 5841, Pub. L. 103–227, title II, §211, Mar. 31, 1994, 108 Stat. 139, stated purpose.
 
@@ -16,7 +16,7 @@ Section 5845, Pub. L. 103–227, title II, §215, Mar. 31, 1994, 108 Stat. 147; 
 
 Section 5846, Pub. L. 103–227, title II, §216, Mar. 31, 1994, 108 Stat. 148, related to publication in Federal Register for public comment of certain proposed procedures, standards, and criteria.
 
-Section 5847, Pub. L. 103–227, title II, §217, Mar. 31, 1994, 108 Stat. 148, contained administrative provisionsrelating to Council, including provisions relating to meetings, quorum, voting, and public access.
+Section 5847, Pub. L. 103–227, title II, §217, Mar. 31, 1994, 108 Stat. 148, contained administrative provisions relating to Council, including provisions relating to meetings, quorum, voting, and public access.
 
 Section 5848, Pub. L. 103–227, title II, §218, Mar. 31, 1994, 108 Stat. 149, related to Council Director and staff, and use of experts and consultants and staffs of Federal agencies.
 

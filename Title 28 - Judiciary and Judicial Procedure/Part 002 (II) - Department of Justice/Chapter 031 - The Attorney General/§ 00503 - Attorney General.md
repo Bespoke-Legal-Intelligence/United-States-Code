@@ -34,9 +34,3 @@ Pub. L. 93–178, §2, Dec. 10, 1973, 87 Stat. 697, provided that:
 
 “(c) Any judge designated to hear any action brought under this section shall cause such action to be in every way expedited.”
 
-#### Cross References
-
-Compensation of Attorney General, see section 5312 of Title 5, Government Organization and Employees.
-
-Office of Justice Programs, see section 3711 of Title 42, The Public Health and Welfare.
-

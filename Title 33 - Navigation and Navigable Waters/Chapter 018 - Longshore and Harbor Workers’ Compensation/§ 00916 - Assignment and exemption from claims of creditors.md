@@ -4,13 +4,3 @@ No assignment, release, or commutation of compensation or benefits due or payabl
 
 (Mar. 4, 1927, ch. 509, §16, 44 Stat. 1434.)
 
-#### Federal Rules of Civil Procedure
-
-Execution, see rule 69, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-Continuation of section, see also note by Advisory Committee under that rule.
-
-#### Cross References
-
-Settlement of claim, where deputy commissioner determines it is for best interest of injured employee, notwithstanding provisions of this section, see section 908 of this title.
-

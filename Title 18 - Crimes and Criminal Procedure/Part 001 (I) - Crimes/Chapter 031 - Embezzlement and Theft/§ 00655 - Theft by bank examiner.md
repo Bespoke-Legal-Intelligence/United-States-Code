@@ -34,10 +34,6 @@ Section 25 of the Federal Reserve Act, referred to in text, is classified to sub
 
 1990—Pub. L. 101–647, in first par., substituted “System, which is insured” for “System or which is insured”, inserted “which is a branch or agency of a foreign bank (as such terms are defined in paragraphs (1) and (3) of section 1(b) of the International Banking Act of 1978), or which is an organization operating under section 25 or section 25(a) of the Federal Reserve Act,” after “Federal Deposit Insurance Corporation,” and “branch, agency, or organization,” after “premises of such bank,” and in second par. substituted “System, banks the deposits of which” for “System or banks the deposits of which”, and inserted “branches or agencies of foreign banks (as such terms are defined in paragraphs (1) and (3) of section 1(b) of the International Banking Act of 1978), or organizations operating under section 25 or section 25(a) of the Federal Reserve Act,” after “Federal Deposit Insurance Corporation,”.
 
-#### Cross References
-
-Civil liability of officers or directors of member banks of the Federal Reserve System, for violating or permitting violation of this section, see section 503 of Title 12, Banks and Banking.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in title 12 section 503.

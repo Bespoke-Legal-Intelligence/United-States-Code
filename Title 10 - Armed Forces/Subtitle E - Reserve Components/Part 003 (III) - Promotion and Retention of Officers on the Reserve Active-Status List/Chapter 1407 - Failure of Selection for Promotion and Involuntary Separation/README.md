@@ -29,10 +29,6 @@
 
 1996—Pub. L. 104–106, div. A, title XV, §1501(b)(27), Feb. 10, 1996, 110 Stat. 497, inserted “reserve” after “Marine Corps and” in item 14506, “reserve” after “Removal from the” in item 14507, and “in grades” after “reserve officers” in item 14509.
 
-#### Cross References
-
-Reserves, discharge, see sections 12681 and 12682 of this title.
-
 #### Chapter Referred to in Other Sections
 
 This chapter is referred to in sections 12645, 12646, 12647, 14001, 14006, 14703, 14706 of this title; title 32 section 323.

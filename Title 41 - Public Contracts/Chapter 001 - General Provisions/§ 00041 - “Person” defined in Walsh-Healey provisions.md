@@ -1,6 +1,6 @@
 ### §41. “Person” defined in Walsh-Healey provisions
 
-Whenever used in sections 35 to 45 of this title, the word “person” includes one or more individuals, partnerships, associations, corporations, legal representatives, trustees, trustees in cases under title 11, or receivers.
+Whenever used in sections 35 to 45 of this title, the word “person” includes one or more individuals, partnerships, associations, corporations,legal representatives, trustees, trustees in cases under title 11, or receivers.
 
 (June 30, 1936, ch. 881, §7, 49 Stat. 2039; Pub. L. 95–598, title III, §326, Nov. 6, 1978, 92 Stat. 2679.)
 

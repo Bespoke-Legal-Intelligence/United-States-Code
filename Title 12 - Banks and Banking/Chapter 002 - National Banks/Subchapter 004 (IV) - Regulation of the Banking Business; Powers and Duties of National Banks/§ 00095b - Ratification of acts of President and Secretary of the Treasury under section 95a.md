@@ -8,10 +8,6 @@ The actions, regulations, rules, licenses, orders and proclamations heretofore o
 
 This section is also set out as a note under section 5 of Title 50, Appendix, War and National Defense.
 
-#### Cross References
-
-Right to amend, separability of provisions, see section 212 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 212 of this title.

@@ -6,7 +6,7 @@ Not less than 15 days before transferring any defense articles pursuant to secti
 
 #### (b) Annual reports
 
-Not later than February 1 each year, the President shall submit to the Committee on Foreign Affairs and the Committee on Armed Services of the House of Representatives and the Committee on Foreign Relations and the Committee on Armed Services of the Senate a report that—
+Not later than February 1 each year, the President shall submit to the Committee onForeign Affairs and the Committee on Armed Services of the House of Representatives and the Committee on Foreign Relations and the Committee on Armed Services of the Senate a report that—
 
 &emsp;(1) lists all transfers made to each recipient NATO/CFE country by the United States under section 2799b(a) of this title during the preceding calendar year;
 

@@ -28,10 +28,6 @@
 
 A prior section 561, added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 619; amended Pub. L. 95–530, §2, Oct. 27, 1978, 92 Stat. 2028, related to appointment, term, and residence of United States marshals, prior to repeal by Pub. L. 100–690, §7608(a)(1).
 
-#### Cross References
-
-Guam, Virgin Islands, and Northern Mariana Islands, appointment of marshal, see sections 1424b, 1614, and 1821 of Title 48, Territories and Insular Possessions.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 562 of this title.

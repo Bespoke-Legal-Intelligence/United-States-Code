@@ -18,7 +18,7 @@
 
 &emsp;(G) For site loans under section 1490d of this title, $850,000 for fiscal year 1993 and $885,700 for fiscal year 1994.
 
-(2) Notwithstanding any other provision of law, insured and guaranteed loan authority authorized in this subchapter for any fiscal year beginning after September 30, 1984, shall not betransferred or used for any purpose not specified in this subchapter.
+(2) Notwithstanding any other provision of law, insured and guaranteed loan authority authorized in this subchapter for any fiscal year beginning after September 30, 1984, shall not be transferred or used for any purpose not specified in this subchapter.
 
 #### (b) Authorization of appropriations
 

@@ -42,7 +42,7 @@ A loan by an eligible lender shall be insurable by the Secretary under the provi
 
 &emsp;&emsp;&emsp;&emsp;(III) the borrower, if not a participant in a program described in subclause (I) or (II), ceases to carry, at an eligible institution, the normal full-time academic workload as determined by the institution; or
 
-&emsp;&emsp;&emsp;(ii) the date on which a borrower who is a graduate of an eligible institution ceasesto be a participant in a fellowship training program not in excess of two years or a participant in a full-time educational activity not in excess of two years, which—
+&emsp;&emsp;&emsp;(ii) the date on which a borrower who is a graduate of an eligible institution ceases to be a participant in a fellowship training program not in excess of two years or a participant in a full-time educational activity not in excess of two years, which—
 
 &emsp;&emsp;&emsp;&emsp;(I) is directly related to the health profession for which the borrower prepared at an eligible institution, as determined by the Secretary; and
 

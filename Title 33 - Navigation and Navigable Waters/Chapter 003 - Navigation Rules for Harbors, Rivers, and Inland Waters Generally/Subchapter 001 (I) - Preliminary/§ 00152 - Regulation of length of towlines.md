@@ -24,7 +24,7 @@ Director of the Bureau of Navigation and Steamboat Inspection was designation gi
 
 Bureau of Marine Inspection and Navigation was designation given to Bureau of Navigation and Steamboat Inspection by act May 27, 1936.
 
-Functions of Secretary of Commerce and Director of Bureau of Marine Inspection and Navigation under this section transferred to Commandant of the Coast Guard by Reorg. Plan No. 3, of 1946, §§101 to 104, set out in the Appendix to Title 5.
+Functions of Secretary of Commerce and Director of Bureau of Marine Inspection and Navigation under thissection transferred to Commandant of the Coast Guard by Reorg. Plan No. 3, of 1946, §§101 to 104, set out in the Appendix to Title 5.
 
 Coast Guard transferred to Department of Transportation, and functions, powers, and duties relating to Coast Guard of Secretary of the Treasury and of other officers and offices of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, §6(b)(1), Oct. 15, 1966, 80 Stat. 938. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in section 3 of Title 14, Coast Guard. See section 108 of Title 49, Transportation.
 

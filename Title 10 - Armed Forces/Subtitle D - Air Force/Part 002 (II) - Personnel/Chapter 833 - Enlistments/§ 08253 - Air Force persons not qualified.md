@@ -38,7 +38,7 @@ R.S. 1998; restated Aug. 22, 1912, ch. 336, §1, 37 Stat. 356; Oct. 14, 1940, ch
 
 Aug. 1, 1894, ch. 179, §2, 28 Stat. 216; June 14, 1920, ch. 286, 41 Stat. 1077.
 
-In subsection (a), the words “an armed force” are substituted for the words “the military service of the United States”. The words “and no person” are omitted as surplusage. The last sentence is substituted for 10:622 (proviso). The words “by regulations or otherwise” areomitted, since the Secretary has inherent authority to issue regulations appropriate to exercising his statutory functions. Since the authority to enlist deserters “in meritorious cases”, granted to the Secretary by 10:622 is equivalent to or broader than his authority to do so under 10:624, the applicability of 10:624 to 10:622 is omitted as surplusage.
+In subsection (a), the words “an armed force” are substituted for the words “the military service of the United States”. The words “and no person” are omitted as surplusage. The last sentence is substituted for 10:622 (proviso). The words “by regulations or otherwise” are omitted, since the Secretary has inherent authority to issue regulations appropriate to exercising his statutory functions. Since the authority to enlist deserters “in meritorious cases”, granted to the Secretary by 10:622 is equivalent to or broader than his authority to do so under 10:624, the applicability of 10:624 to 10:622 is omitted as surplusage.
 
 In subsection (b), the word “soldier”, in 10:623, is omitted as covered by the word “person”. The last sentence is substituted for 10:624.
 
@@ -65,12 +65,4 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 #### Enlistment of Citizens of Northern Mariana Islands in Armed Forces of United States; Termination of Period Within Which To Enlist
 
 For authorization, notwithstanding sections 3253 and 8253 of this title, of a citizen of the Northern Mariana Islands to enlist in the Armed Forces of the United States upon meeting certain requirements and for termination of the enlistment period, see Pub. L. 96–351, Sept. 15, 1980, 94 Stat. 1161, set out as a note under section 3253 of this title.
-
-#### Cross References
-
-Nationality and naturalization, see section 1401 et seq. of Title 8, Aliens and Nationality.
-
-Naturalization through service in armed forces, see sections 1439 and 1440 of Title 8.
-
-Persons effecting unlawful enlistment, punishment, see section 884 of this title.
 

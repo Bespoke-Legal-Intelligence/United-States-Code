@@ -1,6 +1,6 @@
 ### §143. Banks in Alaska and insular possessions; lawful money reserves
 
-Every national banking association located in Alaska or in a dependency or insular possession or any part of the United States outside of the continental United States, and not a member of the Federal reserve system, shall at all timeshave on hand in lawful money of the United States an amount equal to at least 15 percent of the aggregate amount of its deposits in all respects. Whenever the lawful money of any such association shall fall below 15 percent of its deposits such association shall not increase its liabilities by making any new loans or discounts other than by discounting or purchasing bills of exchange payable at sight nor make any dividends of its profits until the required proportion between the aggregate amount of its deposits and its lawful money of the United States has been restored. And the Comptroller of the Currency shall notify any such association whose lawful money reserve shall be below the amount required to be kept on hand to make good such reserve, and if such association shall fail for thirty days thereafter so to make good its lawful money the Comptroller may, with the concurrence of the Secretary of the Treasury, appoint a receiver to wind up the business of the association as provided in section 192 of this title.
+Every national banking association located in Alaska or in a dependency or insular possession or any part of the United States outside of the continental United States, and not a member of the Federal reserve system, shall at all times have on hand in lawful money of the United States an amount equal to at least 15 percent of the aggregate amount of its deposits in all respects. Whenever the lawful money of any such association shall fall below 15 percent of its deposits such association shall not increase its liabilities by making any new loans or discounts other than by discounting or purchasing bills of exchange payable at sight nor make any dividends of its profits until the required proportion between the aggregate amount of its deposits and its lawful money of the United States has been restored. And the Comptroller of the Currency shall notify any such association whose lawful money reserve shall be below the amount required to be kept on hand to make good such reserve, and if such association shall fail for thirty days thereafter so to make good its lawful money the Comptroller may, with the concurrence of the Secretary of the Treasury, appoint a receiver to wind up the business of the association as provided in section 192 of this title.
 
 (R.S. §5191.)
 
@@ -11,8 +11,4 @@ R.S. §5191 derived from act June 3, 1864, ch. 106, §31, 13 Stat. 108, which wa
 #### Exception as to Transfer of Functions
 
 Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
-
-#### Cross References
-
-Banks in dependencies or insular possessions as members of the Federal Reserve System, see section 466 of this title.
 

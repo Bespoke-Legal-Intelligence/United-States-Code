@@ -6,7 +6,7 @@ This chapter may be cited as the “Securities Exchange Act of 1934.”
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “This Act”. The act was divided into two titles as follows: “Title I—Regulation of Securities Exchanges” and “Title II—Amendments to Securities Act of 1933.” This section was section 1 of title I, which title is set out as sections 78a to 78h, 78i to 78<i>l</i>, 78m to 78<i>o</i>, 78<i>o</i>–3 to 78dd–1, and 78ee to 78mm of this title. Title II of the act amended or repealed sections 77b to 77e, 77j, 77k, 77m, 77<i>o</i>, and 77s, and added former sections 78ii and 78jj of this title. Although these latter provisions were set out as a separate title, they were part of the act; hence, they are technically a part of the “Securities Exchange Act of 1934”.
+This chapter, referred to in text, was in the original “This Act”. The act was divided into two titles as follows: “Title I—Regulation of Securities Exchanges” and “Title II—Amendments to Securities Act of 1933.” This section was section 1 of title I, which title is set out as sections 78a to 78<i>l</i>, 78m to 78<i>o</i>, 78<i>o</i>–3 to 78dd–1, and 78ee to 78hh, and 78kk to 78mm of this title. Title II of the act amended or repealed sections 77b to 77e, 77j, 77k, 77m, 77<i>o</i>, and 77s, and added former sections 78ii and 78jj of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Short Title of 1998 Amendments
 
@@ -88,7 +88,7 @@ Section 1 of Pub. L. 94–29, June 4, 1975, 89 Stat. 97, provided: “That this 
 
 #### Short Title of 1964 Amendment
 
-Section 1 of Pub. L. 88–467, Aug. 20, 1964, 78 Stat. 565, provided: “That this Act \[amending sections 77d, 78c,78<i>l</i> to 78<i>o</i>, 78<i>o</i>–3, 78p, 78t, 78w, and 78ff of this title and enacting provisions set out as a note under section 78c of this title\] may be cited as the ‘Securities Acts Amendments of 1964’.”
+Section 1 of Pub. L. 88–467, Aug. 20, 1964, 78 Stat. 565, provided: “That this Act \[amending sections 77d, 78c, 78<i>l</i> to 78<i>o</i>, 78<i>o</i>–3, 78p, 78t, 78w, and 78ff of this title and enacting provisions set out as a note under section 78c of this title\] may be cited as the ‘Securities Acts Amendments of 1964’.”
 
 #### Short Title of 1936 Amendment
 
@@ -127,24 +127,4 @@ Pub. L. 104–290, §2, Oct. 11, 1996, 110 Stat. 3417, provided: “For purposes
 &emsp;“(1) the term ‘Commission’ means the Securities and Exchange Commission; and
 
 &emsp;“(2) the term ‘State’ has the same meaning as in section 3 of the Securities Exchange Act of 1934 \[15 U.S.C. 78c\].”
-
-#### Cross References
-
-Corporation of Foreign Bondholders Act, 1933, see section 77mm of this title.
-
-Investment Advisers Act of 1940, see section 80b–20 of this title.
-
-Investment Company Act of 1940, see section 80a–51 of this title.
-
-Public Utility Holding Company Act of 1935, see section 79 of this title.
-
-Securities Act of 1933, see section 77a of this title.
-
-Securities Investor Protection Act of 1970, see section 78aaa et seq. of this title.
-
-Trust Indenture Act of 1939, see section 77aaa of this title.
-
-#### Act Referred to in Other Sections
-
-The Foreign Corrupt Practices Act of 1977 \[see Short Title of 1977 Amendment note above\] is referred to in title 7 section 12a, title 22 section 2197.
 

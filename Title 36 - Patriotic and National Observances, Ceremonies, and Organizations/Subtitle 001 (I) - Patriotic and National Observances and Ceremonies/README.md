@@ -17,7 +17,7 @@
 |  |  |  |
 | :--- | :---: | ---: |
 | [<b>21.</b>](Part%20B%20-%20United%20States%20Government%20Organizations%20Involved%20with%20Observances%20and%20Ceremonies/Chapter%20021%20-%20American%20Battle%20Monuments%20Commission/README.md) | <b>American Battle Monuments Commission</b> | <b>2101</b> |
-| [<b>23.</b>](Part%20B%20-%20United%20States%20Government%20Organizations%20Involved%20with%20Observances%20and%20Ceremonies/Chapter%20023%20-%20United%20States%20Holocaust%20Memorial%20Council/README.md) | <b>United States Holocaust Memorial Council</b> | <b>2301</b> |
+| [<b>23.</b>](Part%20B%20-%20United%20States%20Government%20Organizations%20Involved%20with%20Observances%20and%20Ceremonies/Chapter%20023%20-%20United%20States%20Holocaust%20Memorial%20Museum/README.md) | <b>United States Holocaust Memorial Council</b> | <b>2301</b> |
 | [<b>25.</b>](Part%20B%20-%20United%20States%20Government%20Organizations%20Involved%20with%20Observances%20and%20Ceremonies/Chapter%20025%20-%20President%27s%20Committee%20on%20Employment%20of%20People%20with%20Disabilities/README.md) | <b>President's Committee on Employment of People With Disabilities</b> | <b>2501</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

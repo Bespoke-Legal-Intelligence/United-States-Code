@@ -6,7 +6,7 @@ In furtherance of the purposes of this chapter, the Director of the Agency may a
 
 #### (b) Criteria
 
-The Director of the Agency shall establish by regulation criteria for determining whether to accept bequests, gifts, or donations of services, money, or property. Such criteria shall take into consideration whether the acceptance of the bequest, gift, or donation would reflect unfavorably on the Director's ability to carry out his responsibilities in a fair and objective manner, or would compromise the integrity of, or the appearance of the integrity of, the Program or any official involved in administering the Program.
+The Director of the Agency shall establish by regulation criteria for determining whether toaccept bequests, gifts, or donations of services, money, or property. Such criteria shall take into consideration whether the acceptance of the bequest, gift, or donation would reflect unfavorably on the Director's ability to carry out his responsibilities in a fair and objective manner, or would compromise the integrity of, or the appearance of the integrity of, the Program or any official involved in administering the Program.
 
 (Pub. L. 95–124, §9, as added Pub. L. 101–614, §9, Nov. 16, 1990, 104 Stat. 3238.)
 

@@ -20,7 +20,7 @@ Congress declares that—
 
 #### References in Text
 
-This chapter, referred to in par. (g), was in the original “this Act”, meaning Pub. L. 91–173, Dec. 30, 1969, 83Stat. 742, as amended, known as the Federal Coal Mine Health and Safety Act of 1969 which was redesignated the Federal Mine Safety and Health Act of 1977 by Pub. L. 95–164, title I, §101, Nov. 9, 1977, 91 Stat. 1290. The Federal Mine Safety and Health Act of 1977 enacted this chapter, amended sections 633 and 636 of Title 15, Commerce and Trade, repealed sections 451 to 460 and 471 to 483 of this title, and enacted provisions set out as notes under this section and section 636 of Title 15. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in par. (g), was in the original “this Act”, meaning Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, as amended, known as the Federal Coal Mine Health and Safety Act of 1969 which was redesignated the Federal Mine Safety and Health Act of 1977 by Pub. L. 95–164, title I, §101, Nov. 9, 1977, 91 Stat. 1290. The Federal Mine Safety and Health Act of 1977 enacted this chapter, amended sections 633 and 636 of Title 15,Commerce and Trade, repealed sections 451 to 460 and 471 to 483 of this title, and enacted provisions set out as notes under this section and section 636 of Title 15. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### Amendments
 

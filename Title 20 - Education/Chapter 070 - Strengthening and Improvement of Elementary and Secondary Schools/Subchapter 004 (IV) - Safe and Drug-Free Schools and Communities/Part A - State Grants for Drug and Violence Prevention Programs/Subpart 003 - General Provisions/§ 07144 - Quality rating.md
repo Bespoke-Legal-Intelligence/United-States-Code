@@ -28,7 +28,7 @@ A school that wishes to receive a quality program school designation shall submi
 
 #### (d) Public notification
 
-Not less than once a year, the chief executive officer of each State or the individual, entity, oragency described in subsection (a) of this section, as the case may be, shall make available to the public a list of the names of each public school in the State that has received a quality program school designation in accordance with this section.
+Not less than once a year, the chief executive officer of each State or the individual, entity, or agency described in subsection (a) of this section, as the case may be, shall make available to the public a list of the names of each public school in the State that has received a quality program school designation in accordance with this section.
 
 (Pub. L. 89–10, title IV, §4134, as added Pub. L. 105–277, div. D, title I, §122, Oct. 21, 1998, 112 Stat. 2681–756.)
 

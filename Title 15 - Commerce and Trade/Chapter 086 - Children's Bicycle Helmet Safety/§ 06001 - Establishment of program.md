@@ -6,7 +6,7 @@ The Administrator of the National Highway Traffic Safety Administration may, in 
 
 #### (b) Federal share
 
-The amount provided by a grant under this section shall not exceed 80 percent of the cost of the program for which the grant is made. In crediting the recipient State, political subdivision, or nonprofit organization for the non-Federal share of the cost of such a program (other than planning and administration), the aggregate of all expenditures made by such State, political subdivision, or nonprofit organization (exclusive of Federal funds) for the purposes described in section 6002 of this title (other than expenditures for planning and administration) shall be available for such crediting, without regard to whether such expenditures were actually made in connection with such program.
+The amount provided by a grant under this section shall not exceed 80 percent of the cost of the program for which the grant is made. In crediting the recipient State, political subdivision, or nonprofit organization for the non-Federal share of the cost of such a program (otherthan planning and administration), the aggregate of all expenditures made by such State, political subdivision, or nonprofit organization (exclusive of Federal funds) for the purposes described in section 6002 of this title (other than expenditures for planning and administration) shall be available for such crediting, without regard to whether such expenditures were actually made in connection with such program.
 
 (Pub. L. 103–267, title II, §202, June 16, 1994, 108 Stat. 726.)
 

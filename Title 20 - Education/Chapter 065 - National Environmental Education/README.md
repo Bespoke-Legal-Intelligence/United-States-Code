@@ -51,7 +51,7 @@
 | (c) | Rights and obligations of Foundation. |
 | (d) | Conditions on donations. |
 | (e) | Administrative services and support. |
-| (f) | Report. |
+| (f) | Omitted. |
 | (g) | Volunteer status. |
 | (h) | Audits and petition of Attorney General for equitable relief. |
 | (i) | United States release from liability. |

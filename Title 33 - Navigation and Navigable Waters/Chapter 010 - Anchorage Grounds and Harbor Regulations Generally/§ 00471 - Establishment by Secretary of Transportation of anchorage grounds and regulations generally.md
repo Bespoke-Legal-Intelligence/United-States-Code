@@ -24,15 +24,3 @@ Section probably supersedes acts May 16, 1888, ch. 257, §§1, 2, 25 Stat. 151, 
 
 Section 6(g)(1)(A) of Pub. L. 89–670, transferred functions, powers, and duties of Secretary of the Army \[formerly War\] and other officers and offices of Department of the Army \[formerly War\] relating generally to water vessel anchorages under this section to Secretary of Transportation. Pub. L. 97–449 amended this section to reflect the transfer made by section 6(g)(1)(A) of Pub. L. 89–670, and repealed section 6(g)(1)(A).
 
-#### Federal Rules of Civil Procedure
-
-Admiralty and maritime rules of practice (which included libel procedures) were superseded, and civil and admiralty procedures in United States district courts were unified, effective July 1, 1966, see rule 1 and Supplemental Rules for Certain Admiralty and Maritime Claims, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-#### Cross References
-
-Control by Coast Guard of anchorage and movement of vessels in territorial waters for safety of naval vessels, see section 91 of Title 14, Coast Guard.
-
-Regulations for Saint Marys River by Secretary of Commerce, see section 474 of this title.
-
-Special anchorage areas under navigation rules, inland waters generally, see section 2030 of this title.
-

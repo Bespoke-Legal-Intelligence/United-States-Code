@@ -48,10 +48,6 @@ In subsection (b), the words “section 1501 of title 31, District of Columbia C
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
-#### References in Text
-
-Section 1501 of title 31, District of Columbia Code, referred to in subsec. (b)(2), was transferred to section 31–1101 of Title 31, Education and Cultural Institutions, of the District of Columbia Code.
-
 #### Amendments
 
 1978—Subsec. (a). Pub. L. 95–454, §906(a)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.

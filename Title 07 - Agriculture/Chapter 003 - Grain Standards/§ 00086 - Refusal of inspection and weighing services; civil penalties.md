@@ -14,7 +14,7 @@ In addition to, or in lieu of, penalties provided under section 87c of this titl
 
 #### (d) Opportunity for hearing; temporary refusal without hearing pending final determination
 
-Before official inspection or services related to weighing is refused to any person or a civil penalty is assessed against any person under this section, such person shall be afforded opportunity for a hearing in accordance with sections 554, 556, and 557 of title 5: <i>Provided</i>, That the Secretary may, without first affording the person a hearing, refuse official inspection or services related to weighing temporarily pending final determination whenever the Secretary has reason to believe there is cause for refusal of inspection or services related to weighing and considered such action to be in the best interest of the official inspection system under this chapter. The Secretary shall afford such person an opportunity for a hearing within seven days after temporarily refusing official inspection or services related to weighing; and such hearing andancillary procedures related thereto shall be conducted in an expedited manner.
+Before official inspection or services related to weighing is refused to any person or a civil penalty is assessed against any person under this section, such person shall be afforded opportunity for a hearing in accordance with sections 554, 556, and 557 of title 5: <i>Provided</i>, That the Secretary may, without first affording the person a hearing, refuse official inspection or services related to weighing temporarily pending final determination whenever the Secretary has reason to believe there is cause for refusal of inspection or services related to weighing and considered such action to be in the best interest of the official inspection system under this chapter. The Secretary shall afford such person an opportunity for a hearing within seven days after temporarily refusing official inspection or services related to weighing; and such hearing and ancillary procedures related thereto shall be conducted in an expedited manner.
 
 #### (e) Collection and disposition of civil penalties
 
@@ -44,7 +44,7 @@ Subsec. (e). Pub. L. 94–582 added subsec. (e).
 
 #### Effective Date of 1976 Amendment
 
-For effective date of amendment by Pub. L. 94–582, see section 27 of Pub. L. 94–582, set out as a note under section 74 of this title.
+Amendment by Pub. L. 94–582 effective 30 days after Oct. 21, 1976, see section 27 of Pub. L. 94–582, as amended, set out as a note under section 74 of this title.
 
 #### Effective Date of 1968 Amendment
 

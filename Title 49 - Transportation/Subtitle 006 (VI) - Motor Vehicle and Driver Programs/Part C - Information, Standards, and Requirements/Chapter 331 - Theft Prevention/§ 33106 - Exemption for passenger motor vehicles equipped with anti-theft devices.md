@@ -16,7 +16,7 @@ Definitions.—In this section—
 
 (b)
 
-Granting Exemptions and Limitations.—(1) A manufacturer may petition the Secretary of Transportation for an exemption from a requirement of a standard prescribed under section 33102 or 33103 of this title for a line of passenger motor vehicles equipped as standardequipment with an anti-theft device that the Secretary decides is likely to be as effective in reducing and deterring motor vehicle theft as compliance with the standard.
+Granting Exemptions and Limitations.—(1) A manufacturer may petition the Secretary of Transportation for an exemption from a requirement of a standard prescribed under section 33102 or 33103 of this title for a line of passenger motor vehicles equipped as standard equipment with an anti-theft device that the Secretary decides is likely to be as effective in reducing and deterring motor vehicle theft as compliance with the standard.
 
 (2) The Secretary may grant an exemption—
 

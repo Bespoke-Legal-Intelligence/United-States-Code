@@ -42,7 +42,7 @@ The Secretary is authorized to make grants to the States to assist them in admin
 
 #### (h) Report to President and Congress
 
-Prior to June 30, 1973, the Secretary shall, after consultation with the Secretary of Healthand Human Services, transmit a report to the President and to the Congress, describing the experience under the grant programs authorized by this section and making any recommendations he may deem appropriate.
+Prior to June 30, 1973, the Secretary shall, after consultation with the Secretary of Health and Human Services, transmit a report to the President and to the Congress, describing the experience under the grant programs authorized by this section and making any recommendations he may deem appropriate.
 
 (Pub. L. 91–596, §23, Dec. 29, 1970, 84 Stat. 1613; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
 

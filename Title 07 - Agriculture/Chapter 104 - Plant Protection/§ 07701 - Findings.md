@@ -1,0 +1,32 @@
+### §7701. Findings
+
+Congress finds that—
+
+&emsp;(1) the detection, control, eradication, suppression, prevention, or retardation of the spread of plant pests or noxious weeds is necessary for the protection of the agriculture, environment, and economy of the United States;
+
+&emsp;(2) biological control is often a desirable, low-risk means of ridding crops and other plants of plant pests and noxious weeds, and its use should be facilitated by the Department of Agriculture, other Federal agencies, and States whenever feasible;
+
+&emsp;(3) it is the responsibility of the Secretary to facilitate exports, imports, and interstate commerce in agricultural products and other commodities that pose a risk of harboring plant pests or noxious weeds in ways that will reduce, to the extent practicable, as determined by the Secretary, the risk of dissemination of plant pests or noxious weeds;
+
+&emsp;(4) decisions affecting imports, exports, and interstate movement of products regulated under this chapter shall be based on sound science;
+
+&emsp;(5) the smooth movement of enterable plants, plant products, biological control organisms, or other articles into, out of, or within the United States is vital to the United State's economy and should be facilitated to the extent possible;
+
+&emsp;(6) export markets could be severely impacted by the introduction or spread of plant pests or noxious weeds into or within the United States;
+
+&emsp;(7) the unregulated movement of plant pests, noxious weeds, plants, certain biological control organisms, plant products, and articles capable of harboring plant pests or noxious weeds could present an unacceptable risk of introducing or spreading plant pests or noxious weeds;
+
+&emsp;(8) the existence on any premises in the United States of a plant pest or noxious weed new to or not known to be widely prevalent in or distributed within and throughout the United States could constitute a threat to crops and other plants or plant products of the United States and burden interstate commerce or foreign commerce; and
+
+&emsp;(9) all plant pests, noxious weeds, plants, plant products, articles capable of harboring plant pests or noxious weeds regulated under this chapter are in or affect interstate commerce or foreign commerce.
+
+(Pub. L. 106–224, title IV, §402, June 20, 2000, 114 Stat. 438.)
+
+#### References in Text
+
+This chapter, referred to in pars. (4) and (9), was in the original “this title”, meaning title IV of Pub. L. 106–224, June 20, 2000, 114 Stat. 438, which is classified principally to this chapter. For complete classification of title IV to the Code, see Short Title note set out below and Tables.
+
+#### Short Title
+
+Pub. L. 106–224, title IV, §401, June 20, 2000, 114 Stat. 438, provided that: “This title \[enacting this chapter, amending section 7759 of this title and section 129a of Title 21, Food and Drugs, and repealing sections 148, 148a, 148c to 148f, 149, 150, 150a to 150g, 150aa to 150jj, 151 to 154, 156 to 164, 164a, 167, 1651 to 1656, and 2801 to 2813 of this title, and provisions set out as notes under sections 147a, 150, 150aa, 151, and 1651 of this title\] may be cited as the ‘Plant Protection Act’.”
+

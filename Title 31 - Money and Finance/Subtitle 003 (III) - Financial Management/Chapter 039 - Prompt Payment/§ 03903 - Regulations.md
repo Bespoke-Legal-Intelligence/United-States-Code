@@ -32,7 +32,7 @@
 
 &emsp;&emsp;&emsp;(ii) a longer period, specified in the solicitation, if required to afford the Government a practicable opportunity to adequately inspect the work and to determine the adequacy of the contractor's performance under the contract; and
 
-&emsp;&emsp;(B) any amounts which the agency has retained pursuant to a prime contract clause providing for retaining a percentage of progress payments otherwise due to a contractor and that are approved for release tothe contractor, if such retained amounts are not paid to the contractor by a date specified in the contract or, in the absence of such a specified date, by the 30th day after final acceptance;
+&emsp;&emsp;(B) any amounts which the agency has retained pursuant to a prime contract clause providing for retaining a percentage of progress payments otherwise due to a contractor and that are approved for release to the contractor, if such retained amounts are not paid to the contractor by a date specified in the contract or, in the absence of such a specified date, by the 30th day after final acceptance;
 
 &emsp;(7) require that—
 
@@ -126,7 +126,7 @@ Amendment by Pub. L. 100–496 applicable to payments under contracts awarded, c
 
 Section 11 of Pub. L. 100–496 provided that:
 
-“(a) The Federal Acquisition Regulation shall be modified to provide appropriate solicitation provisions and contract clauses that implement chapter 39 of title 31, United States Code, as amended by this Act \[see Short Title of 1988 Amendment note set out under section 3901 of this title\], and the regulations prescribed under section 3903 of such title (as amended).
+“(a) The Federal Acquisition Regulation shall be modified to provide appropriate solicitation provisions and contract clauses that implement chapter 39 of title31, United States Code, as amended by this Act \[see Short Title of 1988 Amendment note set out under section 3901 of this title\], and the regulations prescribed under section 3903 of such title (as amended).
 
 “(b) The solicitation provisions and contract clauses required by subsection (a) of this section shall include (but not be limited to) the following matters:
 

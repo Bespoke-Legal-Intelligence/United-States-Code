@@ -2,7 +2,7 @@ Part B—Supportive Services
 
 #### Part Referred to in Other Sections
 
-This part is referred to in sections 3023, 3024, 3026, 3028, 3030g–22, 3035<i>l</i> of this title.
+This part is referred to in sections 3023, 3024, 3026, 3027, 3028, 3030c–3, 3030g–22 of this title.
 
 
 ---

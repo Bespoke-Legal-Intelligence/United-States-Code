@@ -4,10 +4,6 @@ Whenever the Secretary of the Interior shall deem it to be consistent with the p
 
 (May 21, 1930, ch. 307, §1, 46 Stat. 373.)
 
-#### Cross References
-
-Submerged lands, mineral rights generally, see section 1301 et seq. of Title 43, Public Lands.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 303 of this title.

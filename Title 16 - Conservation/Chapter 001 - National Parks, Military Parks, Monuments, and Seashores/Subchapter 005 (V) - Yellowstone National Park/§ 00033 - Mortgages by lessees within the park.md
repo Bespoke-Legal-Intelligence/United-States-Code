@@ -4,7 +4,3 @@ Any person, corporation, or company holding a lease within Yellowstone Park for 
 
 (June 4, 1906, ch. 2570, 34 Stat. 207.)
 
-#### Cross References
-
-Leases of land in national parks generally, see section 3 of this title.
-

@@ -48,7 +48,7 @@ For the purposes of this subchapter:
 
 #### (11) Lead-contaminated dust
 
-&emsp;The term “lead-contaminated dust” means surface dust in residential dwellings that contains an area or mass concentration of lead inexcess of levels determined by the Administrator under this subchapter to pose a threat of adverse health effects in pregnant women or young children.
+&emsp;The term “lead-contaminated dust” means surface dust in residential dwellings that contains an area or mass concentration of lead in excess of levels determined by the Administrator under this subchapter to pose a threat of adverse health effects in pregnant women or young children.
 
 #### (12) Lead-contaminated soil
 

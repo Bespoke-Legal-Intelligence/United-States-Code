@@ -214,7 +214,7 @@ The Americans with Disabilities Act of 1990, referred to in subsec. (a)(3), is P
 
 The Social Security Act, referred to in subsec. (a)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles II and XVI of the Act are classified generally to subchapters II (§401 et seq.) and XVI (§1381 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Workforce Investment Act of 1998, referred to in subsecs. (a)(4), (5) and (g)(3)(A)(iv), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified generally to chapter 30 (§2801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+The Workforce Investment Act of 1998, referred to in subsecs. (a)(4), (5) and (g)(3)(A)(iv), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
 The Rehabilitation Act Amendments of 1998, referred to in subsec. (g)(3)(A)(iv), is title IV of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 1092. For complete classification of this Act to the Code, see Short Title of 1998 Amendment note set out under section 701 of this title and Tables.
 

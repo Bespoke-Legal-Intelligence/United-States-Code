@@ -98,3 +98,15 @@ Section 128 of Pub. L. 98–457 provided that:
 
 Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of its establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the end of such period, or in the case of a board established by the Congress, its duration is otherwise provided by law, see sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
+#### Limitations on Use of Appropriated Funds
+
+Pub. L. 105–277, div. A, §101(f) \[title II, §206\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–359, provided that: “None of the funds appropriated in this Act or subsequent Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Acts, may be obligated or expended for the Federal Council on Aging under the Older Americans Act \[of 1965, 42 U.S.C. 3001 et seq.\] or the Advisory Board on Child Abuse and Neglect under the Child Abuse Prevention and Treatment Act \[42 U.S.C. 5101 et seq.\].”
+
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 105–78, title II, §206, Nov. 13, 1997, 111 Stat. 1489.
+
+Pub. L. 104–208, div. A, §101(e) \[title II, §208\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–254.
+
+Pub. L. 104–134, title I, §101(d) \[title II, §209\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–228; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.
+

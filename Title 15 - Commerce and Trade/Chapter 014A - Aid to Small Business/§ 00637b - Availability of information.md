@@ -24,7 +24,3 @@ Subsection (a) of this section shall not apply to any contract or subcontract un
 
 Section was not enacted as part of the Small Business Act which comprises this chapter.
 
-#### Cross References
-
-Purchases and contracts for property, small business concerns, see section 252 of Title 41, Public Contracts.
-

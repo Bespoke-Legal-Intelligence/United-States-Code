@@ -48,7 +48,7 @@ Subsec. (d). Pub. L. 104–320, §6(1), substituted “The contractor shall cert
 
 Pub. L. 104–106, §4322(b)(6), inserted “(as in effect on September 30, 1995)” after “title 5” in two places.
 
-Subsec. (e). Pub. L. 104–320, §6(2), struck out first sentence which read as follows: “The authority of agenciesto engage in alternative means of dispute resolution proceedings under subsection (d) of this section shall cease to be effective on October 1, 1999, except that such authority shall continue in effect with respect to then pending dispute resolution proceedings which, in the judgment of the agencies that are parties to such proceedings, require such continuation, until such proceedings terminate.”
+Subsec. (e). Pub. L. 104–320, §6(2), struck out first sentence which read as follows: “The authority of agencies to engage in alternative means of dispute resolution proceedings under subsection (d) of this section shall cease to be effective on October 1, 1999, except that such authority shall continue in effect with respect to then pending dispute resolution proceedings which, in the judgment of the agencies that are parties to such proceedings, require such continuation, until such proceedings terminate.”
 
 Pub. L. 104–106, §4322(b)(6), inserted “(as in effect on September 30, 1995)” after “title 5”.
 

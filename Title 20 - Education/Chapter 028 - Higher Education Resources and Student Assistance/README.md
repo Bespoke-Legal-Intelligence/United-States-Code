@@ -224,7 +224,6 @@
 | (b) | Definitions. |
 | (c) | Authorized activities. |
 | (d) | Application process. |
-| (e) | Special rule. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -437,7 +436,8 @@ I74subpart 1—minority science and engineering improvement program
 | 1070a–14. | Student support services. |
 | (a) | Program authority. |
 | (b) | Permissible services. |
-| (c) | Requirements for approval of applications. |
+| (c) | Special rule. |
+| (d) | Requirements for approval of applications. |
 | 1070a–15. | Postbaccalaureate achievement program authority. |
 | (a) | Program authority. |
 | (b) | Services. |
@@ -616,6 +616,8 @@ I74subpart 1—minority science and engineering improvement program
 | (c) | Authorized activities. |
 | (d) | Maintenance of effort requirement. |
 | (e) | Federal share. |
+| (f) | Special rule. |
+| (g) | Use of funds for administrative costs prohibited. |
 | 1070c–4. | “Community service” defined. |
 | 1070d to 1070d–1d. Repealed. |  |
 
@@ -966,181 +968,45 @@ I74subpart 1—minority science and engineering improvement program
 | :--- | ---: |
 | [1087a.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20C%20-%20William%20D.%20Ford%20Federal%20Direct%20Loan%20Program/%C2%A7%2001087a%20-%20Program%20authority.md) | Program authority. |
 | (a) | In general. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(b)
-
-Designation.
-
-|  |  |
-| :--- | ---: |
+| (b) | Designation. |
 | [1087b.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20C%20-%20William%20D.%20Ford%20Federal%20Direct%20Loan%20Program/%C2%A7%2001087b%20-%20Funds%20for%20origination%20of%20direct%20student%20loans.md) | Funds for origination of direct student loans. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-In general.
-
-(b)
-
-No entitlement to participate or originate.
-
-(c)
-
-Delivery of loan funds.
-
-|  |  |
-| :--- | ---: |
+| (a) | In general. |
+| (b) | No entitlement to participate or originate. |
+| (c) | Delivery of loan funds. |
 | [1087c.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20C%20-%20William%20D.%20Ford%20Federal%20Direct%20Loan%20Program/%C2%A7%2001087c%20-%20Selection%20of%20institutions%20for%20participation%20and%20origination.md) | Selection of institutions for participation and origination. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-General authority.
-
-(b)
-
-Selection criteria.
-
-(c)
-
-Selection criteria for origination.
-
-(d)
-
-Eligible institutions.
-
-(e)
-
-Consortia.
-
-|  |  |
-| :--- | ---: |
+| (a) | General authority. |
+| (b) | Selection criteria. |
+| (c) | Selection criteria for origination. |
+| (d) | Eligible institutions. |
+| (e) | Consortia. |
 | [1087d.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20C%20-%20William%20D.%20Ford%20Federal%20Direct%20Loan%20Program/%C2%A7%2001087d%20-%20Agreements%20with%20institutions.md) | Agreements with institutions. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Participation agreements.
-
-(b)
-
-Origination.
-
-(c)
-
-Withdrawal and termination procedures.
-
-|  |  |
-| :--- | ---: |
+| (a) | Participation agreements. |
+| (b) | Origination. |
+| (c) | Withdrawal and termination procedures. |
 | [1087e.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20C%20-%20William%20D.%20Ford%20Federal%20Direct%20Loan%20Program/%C2%A7%2001087e%20-%20Terms%20and%20conditions%20of%20loans.md) | Terms and conditions of loans. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-In general.
-
-(b)
-
-Interest rate.
-
-(c)
-
-Loan fee.
-
-(d)
-
-Repayment plans.
-
-(e)
-
-Income contingent repayment.
-
-(f)
-
-Deferment.
-
-(g)
-
-Federal Direct Consolidation Loans.
-
-(h)
-
-Borrower defenses.
-
-(i)
-
-Loan application and promissory note.
-
-(j)
-
-Loan disbursement.
-
-(k)
-
-Fiscal control and fund accountability.
-
-|  |  |
-| :--- | ---: |
+| (a) | In general. |
+| (b) | Interest rate. |
+| (c) | Loan fee. |
+| (d) | Repayment plans. |
+| (e) | Income contingent repayment. |
+| (f) | Deferment. |
+| (g) | Federal Direct Consolidation Loans. |
+| (h) | Borrower defenses. |
+| (i) | Loan application and promissory note. |
+| (j) | Loan disbursement. |
+| (k) | Fiscal control and fund accountability. |
 | [1087f.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20C%20-%20William%20D.%20Ford%20Federal%20Direct%20Loan%20Program/%C2%A7%2001087f%20-%20Contracts.md) | Contracts. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Contracts for supplies and services.
-
-(b)
-
-Contracts for origination, servicing, and data systems.
-
-|  |  |
-| :--- | ---: |
+| (a) | Contracts for supplies and services. |
+| (b) | Contracts for origination, servicing, and data systems. |
 | [1087g.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20C%20-%20William%20D.%20Ford%20Federal%20Direct%20Loan%20Program/%C2%A7%2001087g%20-%20Regulatory%20activities.md) | Regulatory activities. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Notice in lieu of regulations for first year of program.
-
-(b)
-
-Closing date for applications from institutions.
-
-(c)
-
-Publication of list of participating institutions.
-
-|  |  |
-| :--- | ---: |
+| (a) | Notice in lieu of regulations for first year of program. |
+| (b) | Closing date for applications from institutions. |
+| (c) | Publication of list of participating institutions. |
 | [1087h.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20C%20-%20William%20D.%20Ford%20Federal%20Direct%20Loan%20Program/%C2%A7%2001087h%20-%20Funds%20for%20administrative%20expenses.md) | Funds for administrative expenses. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Administrative expenses.
-
-(b)
-
-Calculation basis.
-
-(c)
-
-Special rules.
-
-(d)
-
-Budget justification.
-
-|  |  |
-| :--- | ---: |
+| (a) | Administrative expenses. |
+| (b) | Calculation basis. |
+| (c) | Special rules. |
+| (d) | Budget justification. |
 | [1087i.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20C%20-%20William%20D.%20Ford%20Federal%20Direct%20Loan%20Program/%C2%A7%2001087i%20-%20Authority%20to%20sell%20loans.md) | Authority to sell loans. |
 | [1087j.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20C%20-%20William%20D.%20Ford%20Federal%20Direct%20Loan%20Program/%C2%A7%2001087j%20-%20Loan%20cancellation%20for%20teachers.md) | Loan cancellation for teachers. |
 | (a) | Statement of purpose. |
@@ -1350,13 +1216,16 @@ Budget justification.
 | (a) | Development of System. |
 | (b) | Additional information. |
 | (c) | Verification. |
-| (d) | Report to Congress. |
+| (d) | Omitted. |
 | (e) | Standardization of data reporting. |
 | (f) | Common identifiers. |
 | (g) | Integration of databases. |
 | [1092c.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001092c%20-%20Simplification%20of%20lending%20process%20for%20borrowers.md) | Simplification of lending process for borrowers. |
 | (a) | All like loans treated as one. |
 | (b) | One lender, one guaranty agency. |
+| [1092d.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001092d%20-%20Scholarship%20fraud%20assessment%20and%20awareness%20activities.md) | Scholarship fraud assessment and awareness activities. |
+| (a) | Annual report on scholarship fraud. |
+| (b) | National awareness activities. |
 | [1093\.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001093%20-%20Distance%20education%20demonstration%20programs.md) | Distance education demonstration programs. |
 | (a) | Purpose. |
 | (b) | Demonstration programs authorized. |
@@ -1845,7 +1714,7 @@ I74subpart 1—jacob k. javits fellowship program
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1232g, 1234i, 2327, 3441, 6143 of this title; title 11 sections 362, 541; title 25 sections 13, 13d–2, 309b, 640c–2, 1809; title 26 sections 144, 150; title 42 sections 292a, 12651d, 14117.
+This chapter is referred to in sections 1232g, 1234i, 2327, 3441, 6143 of this title; title 11 sections 362, 541;title 25 sections 13, 13d–2, 309b, 640c–2, 1809; title 26 sections 144, 150; title 42 sections 292a, 12651d, 14117.
 
 
 ---

@@ -4,10 +4,6 @@ The Congress hereby declares that, because the District which is the seat of the
 
 (Pub. L. 86–527, §2, June 27, 1960, 74 Stat. 223.)
 
-#### Codification
-
-Section is also set out in D.C. Code, §1–2101.
-
 #### Short Title
 
 Section 1 of Pub. L. 86–527 provided that: “This Act \[enacting this section and sections 132 to 135 of this title\] may be cited as the ‘Washington Metropolitan Region Development Act’.”

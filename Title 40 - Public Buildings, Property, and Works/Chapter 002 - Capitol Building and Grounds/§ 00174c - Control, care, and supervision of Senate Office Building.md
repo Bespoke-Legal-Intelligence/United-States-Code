@@ -12,10 +12,6 @@ On and after June 8, 1942 the Senate Office Building, and the employment of all 
 
 Section 142 of act Aug. 2, 1946, provided that section 102 of that act shall take effect on Jan. 2, 1947, and section 245 of that act provided that section 224 thereof shall “take effect on the day on which the Eightieth Congress convenes”. The Eightieth Congress convened on Jan. 3, 1947.
 
-#### Cross References
-
-Additional Senate Office Building, see section 174b–1 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 174b–1 of this title.

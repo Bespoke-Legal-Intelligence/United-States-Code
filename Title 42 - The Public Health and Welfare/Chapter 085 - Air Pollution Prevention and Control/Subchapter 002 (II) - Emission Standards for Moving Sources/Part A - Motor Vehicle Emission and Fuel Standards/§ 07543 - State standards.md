@@ -72,7 +72,7 @@ Another prior section 209 of act July 14, 1955, ch. 360, title II, as added Oct.
 
 1990—Subsec. (e). Pub. L. 101–549 added subsec. (e).
 
-1977—Subsec. (b). Pub. L. 95–95, §207, designated existing provisions as par. (1), substituted “March 30, 1966, if the State determines that the State standards will be, in the aggregate, at least as protective of public health and welfare as applicable Federal standards” for “March 30, 1966, unless he finds that such State doesnot require standards more stringent than applicable Federal standards to meet compelling the extraordinary conditions or that such State standards and accompanying enforcement procedures are not consistent with section 7521(a) of this title”, added subpars. (A), (B), and (C), and added pars. (2) and (3).
+1977—Subsec. (b). Pub. L. 95–95, §207, designated existing provisions as par. (1), substituted “March 30, 1966, if the State determines that the State standards will be, in the aggregate, at least as protective of public health and welfare as applicable Federal standards” for “March 30, 1966, unless he finds that such State does not require standards more stringent than applicable Federal standards to meet compelling the extraordinary conditions or that such State standards and accompanying enforcement procedures are not consistent with section 7521(a) of this title”, added subpars. (A), (B), and (C), and added pars. (2) and (3).
 
 Subsecs. (c), (d). Pub. L. 95–95, §221, added subsec. (c) and redesignated former subsec. (c) as (d).
 

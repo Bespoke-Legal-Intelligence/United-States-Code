@@ -18,10 +18,6 @@ Whenever the Commission makes an affirmative finding under section 2252(b) of th
 
 (Pub. L. 93–618, title II, §264, Jan. 3, 1975, 88 Stat. 2035; Pub. L. 100–418, title I, §1401(b)(1)(B), Aug. 23, 1988, 102 Stat. 1239.)
 
-#### Termination of Section
-
-<i>For termination of section by section 285 of Pub. L. 93–618, see Termination Date note set out preceding section 2271 of this title.</i>
-
 #### Amendments
 
 1988—Subsec. (a). Pub. L. 100–418 substituted “section 2252” for “section 2251”.
@@ -33,6 +29,10 @@ Subsec. (c). Pub. L. 100–418 substituted “section 2252(b)” for “section 
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–418 effective Aug. 23, 1988, and applicable with respect to investigations initiated under part 1 (§2251 et seq.) of this subchapter on or after that date, see section 1401(c) of Pub. L. 100–418, set out as a note under section 2251 of this title.
+
+#### Termination Date
+
+No technical assistance to be provided under this part after Sept. 30, 2001, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
 
 #### Section Referred to in Other Sections
 

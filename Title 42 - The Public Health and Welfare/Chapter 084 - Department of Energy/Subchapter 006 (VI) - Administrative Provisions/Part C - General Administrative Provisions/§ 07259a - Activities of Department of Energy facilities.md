@@ -22,7 +22,7 @@
 
 (2)(A) Subject to subparagraph (B), the Secretary shall also impose on the department, agency, or person or entity concerned a Federal administrative charge (which includes any depreciation and imputed interest charges) in an amount not to exceed 3 percent of the full cost incurred in carrying out the research and activities concerned.
 
-(B) The Secretary may waive the imposition of the Federal administrative charge required by subparagraph (A) in the case of research and other activities conducted on behalf of small business concerns, institutions of higher education, non-profit entities, and State and local governments.
+(B) The Secretary may waive the imposition of the Federal administrative charge required by subparagraph (A) in the case of research andother activities conducted on behalf of small business concerns, institutions of higher education, non-profit entities, and State and local governments.
 
 (3) Not later than 2 years after October 17, 1998, the Secretary shall terminate any waiver of charges under section 33 of the Atomic Energy Act of 1954 (42 U.S.C. 2053) that were made before such date, unless the Secretary determines that such waiver should be continued.
 

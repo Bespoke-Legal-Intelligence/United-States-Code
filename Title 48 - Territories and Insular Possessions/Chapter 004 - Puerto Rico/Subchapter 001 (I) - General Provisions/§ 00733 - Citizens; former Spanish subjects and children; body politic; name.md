@@ -12,7 +12,3 @@ Section was not enacted as part of the Puerto Rican Federal Relations Act which 
 
 “Puerto Rico” substituted in text for “Porto Rico” pursuant to act May 17, 1932, which is classified to section 731a of this title.
 
-#### Cross References
-
-Persons born in Puerto Rico declared citizens of United States, see section 1402 of Title 8, Aliens and Nationality.
-

@@ -82,5 +82,5 @@ In subsection (c), the words “institutions of higher education” are substitu
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 48102 of this title.
+This section is referred to in sections 106, 48102 of this title.
 

@@ -12,7 +12,7 @@
 
 #### (b) Regulations to insure compliance with noise emission standards
 
-The Secretary of Transportation, after consultation with the Administrator, shall promulgate regulations to insure compliance with all standards promulgated by the Administrator under this section. The Secretary of Transportation shall carry out such regulations through the use of his powers and duties of enforcement and inspection authorized by the Safety Appliance Acts \[45 U.S.C. 1 et seq.\], subtitle IV of title 49, and the Department of Transportation Act. Regulations promulgated under this section shall be subject to the provisions of sections 4909, 4910, 4911, and 4915 of this title.
+The Secretary of Transportation, after consultation with the Administrator, shall promulgate regulations to insure compliance with all standards promulgated by the Administrator under this section. The Secretary of Transportation shall carry out such regulations through the use of his powers and duties of enforcementand inspection authorized by the Safety Appliance Acts \[45 U.S.C. 1 et seq.\], subtitle IV of title 49, and the Department of Transportation Act. Regulations promulgated under this section shall be subject to the provisions of sections 4909, 4910, 4911, and 4915 of this title.
 
 #### (c) State and local standards and controls
 

@@ -30,7 +30,7 @@ Prior to the issuance of the comprehensive plan required by subsection (d) of th
 
 #### (d) Comprehensive plan
 
-The Director, after gathering appropriate information and after considering comments on the proposed Program guidelines published in the Federal Register pursuant to subsection (c) of this section, shall develop a comprehensive plan for the Program that—
+The Director, after gathering appropriate information and after considering comments onthe proposed Program guidelines published in the Federal Register pursuant to subsection (c) of this section, shall develop a comprehensive plan for the Program that—
 
 &emsp;(1) defines the appropriate roles and responsibilities of the Federal Government, institutions of higher education, State governments, private foundations, and other appropriate organizations;
 

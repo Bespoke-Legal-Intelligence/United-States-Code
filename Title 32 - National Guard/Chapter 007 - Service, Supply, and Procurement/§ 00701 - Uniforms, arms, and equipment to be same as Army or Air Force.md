@@ -20,7 +20,3 @@ June 3, 1916, ch. 134, §82; restated June 15, 1933, ch. 87, §17, 48 Stat. 160.
 
 The words “shall be issued” are substituted for the words “shall \* \* \* be uniformed, armed, and equipped with”. The words “as are issued” are substituted for the words “as are or shall be provided”. The word “Army” is substituted for the words “Regular Army”, since the Army is the category to which uniforms, arms, and equipment are issued, and the Regular Army is a personnel category only. Similarly, the words “Air Force” are used instead of the words “Regular Air Force”.
 
-#### Cross References
-
-Clothing for members of Army and Air Force, see sections 4562 and 9562 of Title 10, Armed Forces.
-

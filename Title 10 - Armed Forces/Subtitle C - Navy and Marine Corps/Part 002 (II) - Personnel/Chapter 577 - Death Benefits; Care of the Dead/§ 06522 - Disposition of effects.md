@@ -26,10 +26,6 @@ In subsection (a) the word “shall” is substituted for the words “authorize
 
 In subsection (b) the word “covered” is substituted for the word “deposited”.
 
-#### Cross References
-
-Disposition of unclaimed property, see section 2575 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 2575 of this title; title 5 section 5564; title 37 section 554.

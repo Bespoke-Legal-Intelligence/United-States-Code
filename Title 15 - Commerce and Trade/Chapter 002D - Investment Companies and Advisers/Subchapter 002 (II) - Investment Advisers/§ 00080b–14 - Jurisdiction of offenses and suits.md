@@ -18,38 +18,6 @@ Amendment by Pub. L. 101–429 effective Oct. 15, 1990, with provisions relating
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
-#### Federal Rules of Civil Procedure
-
-Costs, see rule 54, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-Injunctions, see rule 65.
-
-One form of action, see rule 2.
-
-Process, see rule 4.
-
-#### Federal Rules of Criminal Procedure
-
-Special venue provisions of section as unaffected by rule 18, see Notes of Advisory Committee on Rules set out under rule 18, Title 18, Appendix, Crimes and Criminal Procedure.
-
-Venue, see rules 18 to 22.
-
-#### Cross References
-
-Jurisdiction of offenses and suits under—
-
-&emsp;&emsp;Investment Company Act of 1940, see section 80a–43 of this title.
-
-&emsp;&emsp;Public Utility Holding Company Act of 1935, see section 79y of this title.
-
-&emsp;&emsp;Securities Act of 1933, see section 77v of this title.
-
-&emsp;&emsp;Securities Exchange Act of 1934, see section 78aa of this title.
-
-&emsp;&emsp;Trust Indenture Act of 1939, see section 77vvv of this title.
-
-Venue, see section 1391 et seq. of Title 28, Judiciary and Judicial Procedure.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 80b–9 of this title.

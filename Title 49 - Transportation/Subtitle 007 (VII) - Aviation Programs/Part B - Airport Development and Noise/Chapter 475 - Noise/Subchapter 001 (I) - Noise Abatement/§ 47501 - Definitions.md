@@ -52,3 +52,55 @@ In clause (1), the text of 49 App.:2101(3) is omitted as surplus because the com
 
 In clause (2), the word “valid” is omitted as surplus.
 
+#### Airport Noise Study
+
+Pub. L. 106–181, title VII, §745, Apr. 5, 2000, 114 Stat. 178, as amended by Pub. L. 106–528, §7(a), Nov. 22, 2000, 114 Stat. 2521, provided that:
+
+“(a)
+
+In General.—The Secretary \[of Transportation\] shall enter into an agreement with the National Academy of Sciences to conduct a study on airport noise in the United States.
+
+“(b)
+
+Contents of Study.—In conducting the study, the National Academy of Sciences shall examine—
+
+&emsp;“(1) the threshold of noise at which health begins to be affected;
+
+&emsp;“(2) the effectiveness of noise abatement programs at airports located in the United States;
+
+&emsp;“(3) the impacts of aircraft noise on communities, including schools; and
+
+&emsp;“(4) the noise assessment practices of the Federal Aviation Administration and whether such practices fairly and accurately reflect the burden of noise on communities.
+
+“(c)
+
+Report.—Not later than 18 months after the date of the agreement entered into under subsection (a), the National Academy of Sciences shall transmit to the Secretary a report on the results of the study. Upon receipt of the report, the Secretary shall transmit a copy of the report to the appropriate committees of Congress.
+
+“(d)
+
+Authorization of Appropriations.—There is authorized to be appropriated such sums as may be necessary to carry out this section.”
+
+#### Nonmilitary Helicopter Noise
+
+Pub. L. 106–181, title VII, §747, Apr. 5, 2000, 114 Stat. 179, provided that:
+
+“(a)
+
+In General.—The Secretary \[of Transportation\] shall conduct a study—
+
+&emsp;“(1) on the effects of nonmilitary helicopter noise on individuals in densely populated areas in the continental United States; and
+
+&emsp;“(2) to develop recommendations for the reduction of the effects of nonmilitary helicopter noise.
+
+“(b)
+
+Focus.—In conducting the study, the Secretary shall focus on air traffic control procedures to address helicopter noise problems and shall take into account the needs of law enforcement.
+
+“(c)
+
+Consideration of Views.—In conducting the study, the Secretary shall consider the views of representatives of the helicopter industry and organizations with an interest in reducing nonmilitary helicopter noise.
+
+“(d)
+
+Report.—Not later than 1 year after the date of the enactment of this Act \[Apr. 5, 2000\], the Secretary shall transmit to Congress a report on the results of the study conducted under this section.”
+

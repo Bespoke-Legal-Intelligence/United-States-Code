@@ -1,6 +1,6 @@
 ### §415. Uniform allowance: officers; initial allowance
 
-(a) Subject to subsection (b), an officer of an armed force is entitled to an initial allowance of not more than $200 as reimbursement for the purchase of required uniforms and equipment—
+(a) Subject to subsection (b), an officer of an armed force is entitled to an initial allowance of not more than $400 as reimbursement for the purchase of required uniforms and equipment—
 
 &emsp;(1) upon first reporting for active duty (other than for training) for a period of more than 90 days;
 
@@ -20,7 +20,7 @@
 
 > An officer is not entitled to more than one allowance under this subsection.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 477; Pub. L. 88–647, title II, §202(3), Oct. 13, 1964, 78 Stat. 1070; Pub. L. 89–444, §2(1), June 9, 1966, 80 Stat. 198; Pub. L. 89–718, §63, Nov. 2, 1966, 80 Stat. 1123; Pub. L. 90–83, §5(1), Sept. 11, 1967, 81 Stat. 221; Pub. L. 91–278, §3(3), June 12, 1970, 84 Stat. 306; Pub. L. 96–76, title III, §313(c), Sept. 29, 1979, 93 Stat. 586; Pub. L. 96–513, title IV, §412, Dec. 12, 1980, 94 Stat. 2905; Pub. L. 97–22, §10(c), July 10, 1981, 95 Stat. 137; Pub. L. 97–60, title I, §131(a), Oct. 14, 1981, 95 Stat. 1005; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 477; Pub. L. 88–647, title II, §202(3), Oct. 13, 1964, 78 Stat. 1070; Pub. L. 89–444, §2(1), June 9, 1966, 80 Stat. 198; Pub. L. 89–718, §63, Nov. 2, 1966, 80 Stat. 1123; Pub. L. 90–83, §5(1), Sept. 11, 1967, 81 Stat. 221; Pub. L. 91–278, §3(3), June 12, 1970, 84 Stat. 306; Pub. L. 96–76, title III, §313(c), Sept. 29, 1979, 93 Stat. 586; Pub. L. 96–513, title IV, §412, Dec. 12, 1980, 94 Stat. 2905; Pub. L. 97–22, §10(c), July 10, 1981, 95 Stat. 137; Pub. L. 97–60, title I, §131(a), Oct. 14, 1981, 95 Stat. 1005; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 106–398, §1 \[\[div. A\], title VI, §610(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–150.)
 
 Historical and Revision Notes
 
@@ -68,11 +68,13 @@ In subsection (b), the words “heretofore or hereafter” are omitted as surplu
 
 In subsection (c), the words “An officer” are substituted for the words “any individual”, since the revised section applies only to officers.
 
-In subsection (d), the words “who is in pay grade O–1, O–2, or O–3” are substituted for the words “is receiving the pay of the junior assistant, assistant, or senior assistant grade” to reflect current terminology. (See chapter 3 of this revised title.) The last sentence is substituted for section 214 (words following semicolon) of title 14.
+In subsection (d), the words “who is in pay grade O–1, O–2, or O–3” are substituted for the words “is receiving the pay of the junior assistant, assistant, or senior assistant grade” to reflect current terminology. (Seechapter 3 of this revised title.) The last sentence is substituted for section 214 (words following semicolon) of title 14.
 
 In subsection (e), the words “as a temporary officer” are inserted for clarity. The words “5596 or” are substituted for section 302(f) of the Act of August 7, 1947, cited above.
 
 #### Amendments
+
+2000—Subsec. (a). Pub. L. 106–398 substituted “$400” for “$200” in introductory provisions.
 
 1991—Subsecs. (a), (b). Pub. L. 102–25 struck out “of this section”.
 
@@ -98,6 +100,10 @@ Subsec. (e). Pub. L. 89–444 substituted “section 214 of title 14” for “s
 
 1964—Subsec. (a). Pub. L. 88–647 included a regular officer of an armed force appointed under section 2106 or 2107 of title 10.
 
+#### Effective Date of 2000 Amendment
+
+Pub. L. 106–398, §1 \[\[div. A\], title VI, §610(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–150, provided that: “The amendments made by this section \[amending this section and section 416 of this title\] shall take effect on October 1, 2000.”
+
 #### Effective Date of 1981 Amendment
 
 Section 10(c) of Pub. L. 97–22 provided that the amendment made by that section is effective Sept. 15, 1981.
@@ -113,14 +119,6 @@ Amendment by Pub. L. 96–76 effective Oct. 1, 1979, see section 314 of Pub. L. 
 #### Transfer of Functions
 
 Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and all functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out in the Appendix to Title 5, Government Organization and Employees. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 3508(b) of Title 20, Education.
-
-#### Cross References
-
-Duty for which officer is required to wear uniform as only duty counted for purposes of this section, see section 417 of this title.
-
-Regulations to carry out section, see section 417 of this title.
-
-Uniform and equipment reimbursement upon transfer to, or appointment in, another reserve component, see section 417 of this title.
 
 #### Section Referred to in Other Sections
 

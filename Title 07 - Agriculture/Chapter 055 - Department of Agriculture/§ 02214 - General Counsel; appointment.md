@@ -12,7 +12,3 @@ Section is based on that part of section 301 of act July 31, 1956, relating to t
 
 Section was formerly classified to section 518a of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 
-#### Cross References
-
-Compensation of General Counsel, see section 5315 of Title 5, Government Organization and Employees.
-

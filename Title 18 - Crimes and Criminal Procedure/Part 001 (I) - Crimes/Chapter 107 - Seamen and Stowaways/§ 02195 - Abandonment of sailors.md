@@ -12,13 +12,3 @@ Based on title 18, U.S.C., 1940 ed., §486 (Mar. 4, 1909, ch. 321, §295, 35 Sta
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $500”.
 
-#### Cross References
-
-Penalty for neglect of consular officer to collect wages, see section 10318 of Title 46, Shipping.
-
-Wages on—
-
-&emsp;&emsp;Discharge by consular officer, see section 10318 of Title 46.
-
-&emsp;&emsp;Justifiable complaint of seaman, see section 11106 of Title 46.
-

@@ -60,7 +60,7 @@ In furtherance of the findings and policy stated in section 5951 of this title, 
 
 &emsp;(B) The Secretary may also consider such secondary factors as the Secretary deems appropriate.
 
-&emsp;(C) In developing regulations to implement this subchapter, the Secretary shall considerthe extent to which plans for employment of Indians (including Native Alaskans) and involvement of businesses owned by Indians, Indian tribes, or Native Alaskans in the operation of a concession, contracts should be identified as a factor in the selection of a best proposal under this section.
+&emsp;(C) In developing regulations to implement this subchapter, the Secretary shall consider the extent to which plans for employment of Indians (including Native Alaskans) and involvement of businesses owned by Indians, Indian tribes, or Native Alaskans in the operation of a concession, contracts should be identified as a factor in the selection of a best proposal under this section.
 
 #### (6) Congressional notification
 
@@ -110,7 +110,7 @@ In furtherance of the findings and policy stated in section 5951 of this title, 
 
 &emsp;Notwithstanding the provisions of this section, the Secretary may award, without public solicitation, the following:
 
-&emsp;&emsp;(A) A temporary concessions contract or an extension of an existing concessions contract for a term not to exceed 3 years in order to avoid interruption of services to the public at a unit of the National Park System, except that prior to making such anaward, the Secretary shall take all reasonable and appropriate steps to consider alternatives to avoid such interruption.
+&emsp;&emsp;(A) A temporary concessions contract or an extension of an existing concessions contract for a term not to exceed 3 years in order to avoid interruption of services to the public at a unit of the National Park System, except that prior to making such an award, the Secretary shall take all reasonable and appropriate steps to consider alternatives to avoid such interruption.
 
 &emsp;&emsp;(B) A concessions contract in extraordinary circumstances where compelling and equitable considerations require the award of a concessions contract to a particular party in the public interest. Such award of a concessions contract shall not be made by the Secretary until at least 30 days after publication in the Federal Register of notice of the Secretary's intention to do so and the reasons for such action, and submission of notice to the Committee on Energy and Natural Resources of the Senate and the Committee on Resources of the House of Representatives.
 

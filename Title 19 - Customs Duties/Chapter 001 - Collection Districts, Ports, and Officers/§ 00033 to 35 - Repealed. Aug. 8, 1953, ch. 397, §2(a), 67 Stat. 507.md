@@ -1,6 +1,6 @@
 ### §§33 to 35. Repealed. Aug. 8, 1953, ch. 397, §2(a), 67 Stat. 507
 
-Sections, R.S. §§2621 to 2623, prescribed various duties of the collectors of customs at each of the ports (1) where collectors, comptrollers and surveyors were appointed: (2) where only collectors and surveyors were appointed; and (3) where only collectors were appointed. The provisions of such sections, in so far as they related to accounting duties, are covered generally in chapters 33 and 35 of Title 31, Money and Finance.
+Sections, R.S. §§2621 to 2623, prescribed various duties of the collectors of customs at each of the ports (1)where collectors, comptrollers and surveyors were appointed: (2) where only collectors and surveyors were appointed; and (3) where only collectors were appointed. The provisions of such sections, in so far as they related to accounting duties, are covered generally in chapters 33 and 35 of Title 31, Money and Finance.
 
 #### Effective Date of Repeal; Savings Provision
 

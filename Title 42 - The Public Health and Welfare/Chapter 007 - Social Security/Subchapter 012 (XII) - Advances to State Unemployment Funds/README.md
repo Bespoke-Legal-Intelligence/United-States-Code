@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 503, 1103 of this title; title 2 section 906; title 26 sections 3302, 3304; title 29 section 1732.
+This subchapter is referred to in sections 503, 1103 of this title; title 2 section 906; title 26 sections 3302, 3304.
 
 
 ---

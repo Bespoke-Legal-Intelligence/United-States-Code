@@ -2,7 +2,7 @@
 
 #### (a) Authorization
 
-There is hereby authorized to be created a private corporation for profit (hereinafter in this chapter referred to as the “corporation”). The corporation will not be an agency or establishment of the United States Government. The corporation shall be subject to the provisions of this chapter and, to the extent consistent with this chapter, to the District of Columbia Business Corporation Act \[D.C. Code, §29–301 et seq.\].
+There is hereby authorized to be created a private corporation for profit (hereinafter in this chapter referred to as the “corporation”). The corporation will not be an agency or establishment of the United States Government. The corporation shall be subject to the provisions of this chapter and, to the extent consistent with this chapter, to the District of Columbia Business Corporation Act.
 
 #### (b) Creation of additional corporations
 
@@ -16,5 +16,5 @@ Nothing in this chapter shall be construed to preclude private persons from crea
 
 #### References in Text
 
-The District of Columbia Business Corporation Act, referred to in subsec. (a), is act June 8, 1954, ch. 269, 68 Stat. 179, as amended, which appears in chapter 3 (§29–301 et seq.) of Title 29, Corporations, of the District of Columbia Code.
+The District of Columbia Business Corporation Act, referred to in subsec. (a), is act June 8, 1954, ch. 269, 68 Stat. 179, as amended, which is not classified to the Code.
 

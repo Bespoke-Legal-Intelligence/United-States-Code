@@ -38,13 +38,17 @@
 
 &emsp;(1) a statement of the activities and accomplishments of the Interagency Committee since its last report; and
 
-&emsp;(2) a statement detailing with particularity the recommendations of the Commission with respect to Federal interagency activities inArctic research and the disposition and responses to those recommendations.
+&emsp;(2) a statement detailing with particularity the recommendations of the Commission with respect to Federal interagency activities in Arctic research and the disposition and responses to those recommendations.
 
 (Pub. L. 98–373, title I, §108, July 31, 1984, 98 Stat. 1246; Pub. L. 101–609, §6, Nov. 16, 1990, 104 Stat. 3126.)
 
 #### Amendments
 
 1990—Subsec. (b)(2). Pub. L. 101–609 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “a description of the activities of the Commission, detailing with particularity the recommendations of the Commission with respect to Federal activities in Arctic research.”
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (b) of this section relating to submitting biennial report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 174 of House Document No. 103–7.
 
 #### Section Referred to in Other Sections
 

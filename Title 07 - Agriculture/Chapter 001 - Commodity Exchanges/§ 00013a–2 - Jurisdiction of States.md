@@ -1,8 +1,8 @@
 ### §13a–2. Jurisdiction of States
 
-(1) Whenever it shall appear to the attorney general of any State, the administrator of the securities laws of any State, or such other official as a State may designate, that the interests of the residents of that State have been, are being, or may be threatened or adversely affected because any person (other than a contract market, clearinghouse, floor broker, or floor trader) has engaged in, is engaging or is about to engage in, any act or practice constituting a violation of any provision of this chapter or any rule, regulation, or order of the Commission thereunder, the State may bring a suit in equity or an action at law on behalf of its residents to enjoin such act or practice, to enforce compliance with this chapter, or any rule, regulation, or order of the Commission thereunder, to obtain damages on behalf of their residents, or to obtain such further and other relief as the court may deem appropriate.
+(1) Whenever it shall appear to the attorney general of any State, the administrator of the securities laws of any State, or such other official as a State may designate, that the interests of the residents of that State have been, are being, or may be threatened or adversely affected because any person (other than a contract market, derivatives transaction execution facility, clearinghouse, floor broker, or floor trader) has engaged in, is engaging or is about to engage in, any act or practice constituting a violation of any provision of this chapter or any rule, regulation, or order of the Commission thereunder, the State may bring a suit in equity or an action at law on behalf of its residents to enjoin such act or practice, to enforce compliance with this chapter, or any rule, regulation, or order of the Commission thereunder, to obtain damages on behalf of their residents, or to obtain such further and other relief as the court may deem appropriate.
 
-(2) The district courts of the United States, the United States courts of any territory, and the District Court of the United States for the District of Columbia, shall have jurisdiction ofall suits in equity and actions at law brought under this section to enforce any liability or duty created by this chapter or any rule, regulation, or order of the Commission thereunder, or to obtain damages or other relief with respect thereto. Upon proper application, such courts shall also have jurisdiction to issue writs of mandamus, or orders affording like relief, commanding the defendant to comply with the provisions of this chapter or any rule, regulation, or order of the Commission thereunder, including the requirement that the defendant take such action as is necessary to remove the danger of violation of this chapter or of any such rule, regulation, or order. Upon a proper showing, a permanent or temporary injunction or restraining order shall be granted without bond.
+(2) The district courts of the United States, the United States courts of any territory, and the District Court of the United States for the District of Columbia, shall have jurisdiction of all suits in equity and actions at law brought under this section to enforce any liability or duty created by this chapter or any rule, regulation, or order of the Commission thereunder, or to obtain damages or other relief with respect thereto. Upon proper application, such courts shall also have jurisdiction to issue writs of mandamus, or orders affording like relief, commanding the defendant to comply with the provisions of this chapter or any rule, regulation, or order of the Commission thereunder, including the requirement that the defendant take such action as is necessary to remove the danger of violation of this chapter or of any such rule, regulation, or order. Upon a proper showing, a permanent or temporary injunction or restraining order shall be granted without bond.
 
 (3) Immediately upon instituting any such suit or action, the State shall serve written notice thereof upon the Commission and provide the Commission with a copy of its complaint, and the Commission shall have the right to (A) intervene in the suit or action and, upon doing so, shall be heard on all matters arising therein, and (B) file petitions for appeal.
 
@@ -18,9 +18,11 @@
 
 (B) The State shall give the Commission prior written notice of its intent to proceed before instituting a proceeding in State court as described in this subsection and shall furnish the Commission with a copy of its complaint immediately upon instituting any such proceeding. The Commission shall have the right to (i) intervene in the proceeding and, upon doing so, shall be heard on all matters arising therein, and (ii) file a petition for appeal. The Commission or the defendant may remove such proceeding to the district court of the United States for the proper district by following the procedure for removal otherwise provided by law, except that the petition for removal shall be filed within sixty days after service of the summons and complaint upon the defendant. The Commission shall have the right to appear as amicus curiae in any such proceeding.
 
-(Sept. 21, 1922, ch. 369, §6d, as added Pub. L. 95–405, §15, Sept. 30, 1978, 92 Stat. 872; amended Pub. L. 97–444, title II, §221, Jan. 11, 1983, 96 Stat. 2308; Pub. L. 102–546, title II, §207(b)(1), (2), Oct. 28, 1992, 106 Stat. 3604.)
+(Sept. 21, 1922, ch. 369, §6d, as added Pub. L. 95–405, §15, Sept. 30, 1978, 92 Stat. 872; amended Pub. L. 97–444, title II, §221, Jan. 11, 1983, 96 Stat. 2308; Pub. L. 102–546, title II, §207(b)(1), (2), Oct. 28, 1992, 106 Stat. 3604; Pub. L. 106–554, §1(a)(5) \[title I, §123(a)(16)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–409.)
 
 #### Amendments
+
+2000—Par. (1). Pub. L. 106–554 inserted “derivatives transaction execution facility,” after “contract market,”.
 
 1992—Pars. (1), (8)(A). Pub. L. 102–546 inserted reference to floor trader.
 
@@ -38,13 +40,7 @@ Amendment by Pub. L. 97–444 effective Jan. 11, 1983, see section 239 of Pub. L
 
 Section effective Oct. 1, 1978, see section 28 of Pub. L. 95–405, set out as an Effective Date of 1978 Amendment note under section 2 of this title.
 
-#### Federal Rules of Civil Procedure
+#### Section Referred to in Other Sections
 
-Injunctions, see rule 65, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-One form of action, see rule 2.
-
-Rules as governing the procedure in all suits of a civil nature whether cognizable as cases at common law or in equity, see rule 1.
-
-Writ of mandamus abolished in United States district courts, but relief available by appropriate action or motion, see rule 81.
+This section is referred to in sections 2, 6f, 6k of this title.
 

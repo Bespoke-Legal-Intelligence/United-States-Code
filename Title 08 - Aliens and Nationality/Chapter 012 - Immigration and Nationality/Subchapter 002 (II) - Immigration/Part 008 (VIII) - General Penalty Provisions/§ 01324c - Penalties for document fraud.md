@@ -10,7 +10,7 @@ It is unlawful for any person or entity knowingly—
 
 &emsp;(3) to use or attempt to use or to provide or attempt to provide any document lawfully issued to or with respect to a person other than the possessor (including a deceased individual) for the purpose of satisfying a requirement of this chapter or obtaining a benefit under this chapter,
 
-&emsp;(4) to accept or receive or to provide any document lawfully issued to or with respect to a person other than the possessor (including a deceased individual) for the purpose of complying with section 1324a(b) of this title or obtaining a benefit under this chapter, or
+&emsp;(4) to accept or receive or to provide any document lawfully issued to or with respect toa person other than the possessor (including a deceased individual) for the purpose of complying with section 1324a(b) of this title or obtaining a benefit under this chapter, or
 
 &emsp;(5) to prepare, file, or assist another in preparing or filing, any application for benefits under this chapter, or any document required under this chapter, or any document submitted in connection with such application or document, with knowledge or in reckless disregard of the fact that such application or document was falsely made or, in whole or in part, does not relate to the person on whose behalf it was or is being submitted, or
 
@@ -54,7 +54,7 @@ Nothing in this section shall be construed to diminish or qualify any of the pen
 
 #### (3) Cease and desist order with civil money penalty
 
-&emsp;With respect to a violation of subsection (a) of this section, the order under this subsectionshall require the person or entity to cease and desist from such violations and to pay a civil penalty in an amount of—
+&emsp;With respect to a violation of subsection (a) of this section, the order under this subsection shall require the person or entity to cease and desist from such violations and to pay a civil penalty in an amount of—
 
 &emsp;&emsp;(A) not less than $250 and not more than $2,000 for each document that is the subject of a violation under subsection (a) of this section, or
 
@@ -108,7 +108,7 @@ Subsec. (d)(3)(A), (B). Pub. L. 104–208, §212(c), substituted “each documen
 
 Subsec. (d)(4). Pub. L. 104–208, §379(a)(2), substituted “the final agency decision and order under this subsection” for “a final order under this subsection”.
 
-Pub. L. 104–208, §379(a)(1), substituted “unless either (A) within 30 days, an official delegated by regulation to exercise review authority over the decision and order modifies or vacates the decision and order, or (B)within 30 days of the date of such a modification or vacation (or within 60 days of the date of decision and order of an administrative law judge if not so modified or vacated) the decision and order is referred to the Attorney General pursuant to regulations” for “unless, within 30 days, the Attorney General modifies or vacates the decision and order”.
+Pub. L. 104–208, §379(a)(1), substituted “unless either (A) within 30 days, an official delegated by regulation to exercise review authority over the decision and order modifies or vacates the decision and order, or (B) within 30 days of the date of such a modification or vacation (or within 60 days of the date of decision and order of an administrative law judge if not so modified or vacated) the decision and order is referred to the Attorney General pursuant to regulations” for “unless, within 30 days, the Attorney General modifies or vacates the decision and order”.
 
 Subsec. (d)(7). Pub. L. 104–208, §308(g)(10)(D), substituted “withholding of removal under section 241(b)(3) of this title” for “withholding of deportation under section 1253(h) of this title”.
 
@@ -136,7 +136,7 @@ Amendment by Pub. L. 103–416 effective as if included in the enactment of the 
 
 #### Effective Date of 1991 Amendment
 
-Amendment by Pub. L. 102–232 effective as if included in the enactment of the Immigration Act of 1990, Pub. L. 101–649, see section 310(1) of Pub. L. 102–232, set out as a note under section 1101 of this title.
+Amendment by Pub. L. 102–232 effective as if included in the enactment of the Immigration Act of 1990, Pub.L. 101–649, see section 310(1) of Pub. L. 102–232, set out as a note under section 1101 of this title.
 
 #### Effective Date
 

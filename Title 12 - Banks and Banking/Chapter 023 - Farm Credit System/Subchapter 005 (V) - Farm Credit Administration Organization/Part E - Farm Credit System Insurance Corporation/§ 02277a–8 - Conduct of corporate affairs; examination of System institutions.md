@@ -58,7 +58,7 @@ The examiners appointed by the Board of Directors shall cooperate to the maximum
 
 #### Amendments
 
-1996—Subsec. (b)(1)(A). Pub. L. 104–105 inserted at end “Notwithstanding any other provision of this chapter, on cancellation of the charter of a System institution, the Corporation shall have authority to examine the system institution in receivership. An examination shall be performed at such intervals as the Corporation shall determine.”
+1996—Subsec. (b)(1)(A). Pub. L. 104–105 inserted at end “Notwithstanding any other provision of this chapter, on cancellation of the charter of a System institution, the Corporation shall have authority to examine thesystem institution in receivership. An examination shall be performed at such intervals as the Corporation shall determine.”
 
 1992—Pub. L. 102–552, §513(a)(1), substituted “System institutions” for “insured System banks” in section catchline.
 

@@ -20,7 +20,3 @@ June 30, 1948, ch. 771, title II, §202, 62 Stat. 1175.
 
 July 24, 1946, ch. 596, §2, 60 Stat. 641.
 
-#### Cross References
-
-Discontinuance of preliminary examination reports, see section 701b–8a of this title.
-

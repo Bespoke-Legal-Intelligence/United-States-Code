@@ -24,10 +24,6 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 Act June 5, 1920, ch. 252, §6, 41 Stat. 1014, as amended by act Mar. 3, 1925, ch. 467, §4, 43 Stat. 1190, provided for compilation and printing of laws relating to improvement of rivers and harbors, passed between Mar. 4, 1913, until and including laws of second session of Sixty-eighth Congress.
 
-#### Cross References
-
-Time of furnishing manuscript and proofs of annual reports and accompanying documents to Public Printer, see section 1111 of Title 44, Public Printing and Documents.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 2295 of this title.

@@ -30,7 +30,7 @@
 
 &emsp;&emsp;&emsp;(II) in the case of an annuitant, to the Office; and
 
-&emsp;&emsp;(ii) if the notice referred to in clause (i) is received within 60 days after the date as ofwhich the child involved first ceases to meet the requirements involved, the employing agency or the Office (as the case may be) must, within 14 days after receiving such notice, notify the child of such child's rights under this section.
+&emsp;&emsp;(ii) if the notice referred to in clause (i) is received within 60 days after the date as of which the child involved first ceases to meet the requirements involved, the employing agency or the Office (as the case may be) must, within 14 days after receiving such notice, notify the child of such child's rights under this section.
 
 (2) In order to obtain continued coverage under this section, an appropriate written election (submitted in such manner as the Office by regulation prescribes) must be made—
 
@@ -70,7 +70,7 @@
 
 (B) For the purpose of this paragraph, members of an individual's family shall be determined in the same way as would apply under this chapter in the case of an enrolled employee.
 
-(C) Nothing in this paragraph shall be considered to limit an individual making an election under subsection (c)(2)(A) to coverage for self alone.
+(C) Nothing in this paragraph shall be considered to limit an individual making an electionunder subsection (c)(2)(A) to coverage for self alone.
 
 (4)(A) If the basis for continued coverage under this section is an involuntary separation from a position, or a voluntary separation from a surplus position, in or under the Department of Defense due to a reduction in force, or the Department of Energy due to a reduction in force resulting from the establishment of the National Nuclear Security Administration—
 
@@ -86,7 +86,7 @@
 
 (C) For the purpose of this paragraph, “surplus position” means a position which is identified in pre-reduction-in-force planning as no longer required, and which is expected to be eliminated under formal reduction-in-force procedures.
 
-(5)(A) If the basis for continued coverage under this section is an involuntary separation from a position in or under the Department of Veterans Affairs due to a reduction in force or a title 38 staffing readjustment—
+(5)(A) If the basis for continued coverage under this section is an involuntary separation from a position in or under the Department of Veterans Affairs due to a reduction in force or a title 38 staffing readjustment, or a voluntary or involuntary separation from a Department of Energy position at a Department of Energy facility at which the Secretary is carrying out a closure project selected under section 3143 of the National Defense Authorization Act for Fiscal Year 1997 (42 U.S.C. 7274n)—
 
 &emsp;(i) the individual shall be liable for not more than the employee contributions referred to in paragraph (1)(A)(i); and
 
@@ -98,7 +98,7 @@
 
 &emsp;(A) in the case of an individual whose continued coverage is based on separation from service, the date which is 18 months after the effective date of the separation; or
 
-&emsp;(B) in the case of an individual whose continued coverage is based on ceasing to meetthe requirements for being considered an unmarried dependent child, the date which is 36 months after the date on which the individual first ceases to meet those requirements, subject to paragraph (2).
+&emsp;(B) in the case of an individual whose continued coverage is based on ceasing to meet the requirements for being considered an unmarried dependent child, the date which is 36 months after the date on which the individual first ceases to meet those requirements, subject to paragraph (2).
 
 (2) In the case of an individual who—
 
@@ -134,11 +134,11 @@
 
 &emsp;(A) who becomes eligible for continued coverage under this subsection based on a divorce, annulment, or legal separation from a person who, as of the day before the date of the divorce, annulment, or legal separation (as the case may be) was receiving continued coverage under this section for self and family based on such person's separation from service; and
 
-&emsp;(B) whose divorce, annulment, or legal separation (as the case may be) occurs before the end of the 18-month period beginning on the date of the separation from service referred to in subparagraph (A),
+&emsp;(B) whose divorce, annulment, or legal separation (as the case may be) occurs before the end of the 18-month period beginning on thedate of the separation from service referred to in subparagraph (A),
 
 > extended coverage under this section may not extend beyond the date which is 36 months after the date of the separation from service, as referred to in subparagraph (A).
 
-(Added Pub. L. 100–654, title II, §201(a)(1), Nov. 14, 1988, 102 Stat. 3841; amended Pub. L. 102–484, div. D, title XLIV, §4438(a), Oct. 23, 1992, 106 Stat. 2725; Pub. L. 103–337, div. A, title III, §341(d), Oct. 5, 1994, 108 Stat. 2720; Pub. L. 104–106, div. A, title X, §1036, Feb. 10, 1996, 110 Stat. 431; Pub. L. 106–65, div. A, title XI, §1104(c), div. C, title XXXII, §3244, Oct. 5, 1999, 113 Stat. 777, 965; Pub. L. 106–117, title XI, §1106, Nov. 30, 1999, 113 Stat. 1598.)
+(Added Pub. L. 100–654, title II, §201(a)(1), Nov. 14, 1988, 102 Stat. 3841; amended Pub. L. 102–484, div. D, title XLIV, §4438(a), Oct. 23, 1992, 106 Stat. 2725; Pub. L. 103–337, div. A, title III, §341(d), Oct. 5, 1994, 108 Stat. 2720; Pub. L. 104–106, div. A, title X, §1036, Feb. 10, 1996, 110 Stat. 431; Pub. L. 106–65, div. A, title XI, §1104(c), div. C, title XXXII, §3244, Oct. 5, 1999, 113 Stat. 777, 965; Pub. L. 106–117, title XI, §1106, Nov. 30, 1999, 113 Stat. 1598; Pub. L. 106–398, §1 \[div. C, title XXXI, §3136(h)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–459.)
 
 #### References in Text
 
@@ -147,6 +147,8 @@ The date of enactment of this paragraph, referred to in subsec. (d)(4)(B), is th
 The date of the enactment of this paragraph, referred to in subsec. (d)(5)(B), is the date of enactment of Pub. L. 106–117, which was approved Nov. 30, 1999.
 
 #### Amendments
+
+2000—Subsec. (d)(5)(A). Pub. L. 106–398, in introductory provisions, inserted “, or a voluntary or involuntary separation from a Department of Energy position at a Department of Energy facility at which the Secretary is carrying out a closure project selected under section 3143 of the National Defense Authorization Act for Fiscal Year 1997 (42 U.S.C. 7274n)” after “readjustment”.
 
 1999—Subsec. (d)(1)(A). Pub. L. 106–117, §1106(1), substituted “paragraphs (4) and (5)” for “paragraph (4)” in introductory provisions.
 
@@ -176,7 +178,7 @@ Subsec. (d)(4). Pub. L. 102–484, §4438(a)(3), added par. (4).
 
 #### Effective Date of 1999 Amendment
 
-Amendment by section 3244 of Pub. L. 106–65 effective Mar. 1, 2000, see section 3299 of Pub. L. 106–65, set outas an Effective Date note under section 2401 of Title 50, War and National Defense.
+Amendment by section 3244 of Pub. L. 106–65 effective Mar. 1, 2000, see section 3299 of Pub. L. 106–65, set out as an Effective Date note under section 2401 of Title 50, War and National Defense.
 
 #### Effective Date
 

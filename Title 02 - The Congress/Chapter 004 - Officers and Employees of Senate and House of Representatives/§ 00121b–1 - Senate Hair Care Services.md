@@ -14,11 +14,15 @@ There is established in the Treasury of the United States within the contingent 
 
 (2) Moneys in the revolving fund shall be available without fiscal year limitation for disbursement by the Secretary of the Senate—
 
-&emsp;(A) for the payment of salaries and agency contributions of employees of Senate Hair Care Services; and
+&emsp;(A) for the payment of salaries of employees of Senate Hair Care Services; and
 
 &emsp;(B) for necessary supplies, equipment, and other expenses of Senate Hair Care Services.
 
 (3) The provisions of section 193d of title 40, except for the provisions relating to solicitation, shall not apply to any activity carried out pursuant to this section, subject to approval of such activities by the Committee on Rules and Administration.
+
+(3) <sup>1</sup> Agency contributions for employees of Senate Hair Care Services shall be paid from the appropriations account for “
+
+Salaries, Officers and Employees”.
 
 #### (d) Disbursements upon vouchers
 
@@ -42,7 +46,7 @@ There is transferred to the revolving fund established by this section any unobl
 
 This section shall be effective on and after October 1, 1998, or 30 days after the date of enactment of this Act \[October 21, 1998\], whichever is later.
 
-(Pub. L. 105–275, title I, §6, Oct. 21, 1998, 112 Stat. 2434; Pub. L. 106–57, title I, §4, Sept. 29, 1999, 113 Stat. 412.)
+(Pub. L. 105–275, title I, §6, Oct. 21, 1998, 112 Stat. 2434; Pub. L. 106–57, title I, §4, Sept. 29, 1999, 113 Stat. 412; Pub. L. 106–554, §1(a)(2) \[title I, §3(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–96.)
 
 #### References in Text
 
@@ -56,5 +60,15 @@ Section is from the Congressional Operations Appropriations Act, 1999, which is 
 
 #### Amendments
 
+2000—Subsec. (c)(2)(A). Pub. L. 106–554, §1(a)(2) \[title I, §3(a)(1)\], struck out “and agency contributions” after “salaries”.
+
+Subsec. (c)(3). Pub. L. 106–554, §1(a)(2) \[title I, §3(a)(2)\], added par. (3) relating to agency contributions.
+
 1999—Subsec. (c)(3). Pub. L. 106–57 added par. (3).
+
+#### Effective Date of 2000 Amendment
+
+Pub. L. 106–554, §1(a)(2) \[title I, §3(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–96, provided that: “This section \[amending this section\] shall apply to pay periods beginning on or after October 1, 2000.”
+
+<i><sup>1</sup></i><i> So in original. Probably should be “(4)”.</i>
 

@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(G) person employed in the mental health profession, or
 
-&emsp;&emsp;(H) law enforcement officer, probation officer, worker in a juvenile rehabilitation or detention facility, or person employed in a public agency who is responsible for enforcing statutes and judicial orders;
+&emsp;&emsp;(H) law enforcement officer, probation officer, worker in a juvenile rehabilitation or detention facility, or person employed in apublic agency who is responsible for enforcing statutes and judicial orders;
 
 &emsp;(2) knows, or has reasonable suspicion, that—
 

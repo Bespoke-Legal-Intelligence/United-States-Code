@@ -36,7 +36,7 @@ The Administrator shall, within 90 days after December 31, 1970, after consultat
 
 &emsp;&emsp;(i) Upon promulgation or revision of a national ambient air quality standard, the Administrator shall promulgate the designations of all areas (or portions thereof) submitted under subparagraph (A) as expeditiously as practicable, but in no case later than 2 years from the date of promulgation of the new or revised national ambient air quality standard. Such period may be extended for up to one year in the event the Administrator has insufficient information to promulgate the designations.
 
-&emsp;&emsp;(ii) In making the promulgations required under clause (i), the Administrator may make such modifications as the Administrator deems necessary to the designations of the areas (or portions thereof) submitted under subparagraph (A) (including to the boundaries of such areas or portions thereof). Whenever the Administrator intends to make a modification, the Administrator shall notify the State and provide such State with an opportunity to demonstrate why any proposed modification is inappropriate. The Administrator shall give such notification no later than 120 days before the date the Administrator promulgates the designation, including any modification thereto. If the Governor fails to submit the list in whole or in part, as required under subparagraph (A), the Administrator shall promulgate the designation that the Administrator deems appropriate for any area (or portion thereof) not designated by the State.
+&emsp;&emsp;(ii) In making the promulgations required under clause (i), the Administrator may make such modifications as the Administrator deems necessary to the designations of the areas (or portions thereof) submitted under subparagraph (A) (including to the boundaries of such areas or portions thereof). Whenever the Administrator intends tomake a modification, the Administrator shall notify the State and provide such State with an opportunity to demonstrate why any proposed modification is inappropriate. The Administrator shall give such notification no later than 120 days before the date the Administrator promulgates the designation, including any modification thereto. If the Governor fails to submit the list in whole or in part, as required under subparagraph (A), the Administrator shall promulgate the designation that the Administrator deems appropriate for any area (or portion thereof) not designated by the State.
 
 &emsp;&emsp;(iii) If the Governor of any State, on the Governor's own motion, under subparagraph (A), submits a list of areas (or portions thereof) in the State designated as nonattainment, attainment, or unclassifiable, the Administrator shall act on such designations in accordance with the procedures under paragraph (3) (relating to redesignation).
 
@@ -84,7 +84,7 @@ The Administrator shall, within 90 days after December 31, 1970, after consultat
 
 #### (A) Ozone and carbon monoxide
 
-&emsp;&emsp;(i) Within 120 days after November 15, 1990, each Governor of each State shall submit to the Administrator a list that designates, affirms or reaffirms the designation of, or redesignates (as the case may be), all areas (orportions thereof) of the Governor's State as attainment, nonattainment, or unclassifiable with respect to the national ambient air quality standards for ozone and carbon monoxide.
+&emsp;&emsp;(i) Within 120 days after November 15, 1990, each Governor of each State shall submit to the Administrator a list that designates, affirms or reaffirms the designation of, or redesignates (as the case may be), all areas (or portions thereof) of the Governor's State as attainment, nonattainment, or unclassifiable with respect to the national ambient air quality standards for ozone and carbon monoxide.
 
 &emsp;&emsp;(ii) No later than 120 days after the date the Governor is required to submit the list of areas (or portions thereof) required under clause (i) of this subparagraph, the Administrator shall promulgate such designations, making such modifications as the Administrator may deem necessary, in the same manner, and under the same procedure, as is applicable under clause (ii) of paragraph (1)(B), except that the phrase “60 days” shall be substituted for the phrase “120 days” in that clause. If the Governor does not submit, in accordance with clause (i) of this subparagraph, a designation for an area (or portion thereof), the Administrator shall promulgate the designation that the Administrator deems appropriate.
 
@@ -108,7 +108,7 @@ The Administrator shall, within 90 days after December 31, 1970, after consultat
 
 #### (5) Designations for lead
 
-&emsp;The Administrator may, in the Administrator's discretion at any time the Administrator deems appropriate, require a State to designate areas (or portions thereof) with respect to the national ambient air quality standard for lead in effect as of November 15, 1990, in accordance with the procedures under subparagraphs (A) and (B) of paragraph (1), except that in applying subparagraph (B)(i) of paragraph (1) the phrase “2 years from the date of promulgation of the new or revised national ambient air quality standard” shall be replaced by the phrase “1 year from the date the Administrator notifies the State of the requirement to designate areas with respect to the standard for lead”.
+&emsp;The Administrator may, in the Administrator's discretion at any time the Administrator deems appropriate, require a State to designate areas (or portions thereof) with respect to the national ambient air quality standard for lead in effect as of November 15, 1990, in accordance with the procedures under subparagraphs (A) and (B) of paragraph (1), except that in applying subparagraph (B)(i) of paragraph (1) the phrase “2 years from the date of promulgation of the new or revised nationalambient air quality standard” shall be replaced by the phrase “1 year from the date the Administrator notifies the State of the requirement to designate areas with respect to the standard for lead”.
 
 #### (e) Redesignation of air quality control regions
 
@@ -174,7 +174,7 @@ Pub. L. 105–178, title VI, June 9, 1998, 112 Stat. 463, provided that:
 
 “(a) Through grants under section 103 of the Clean Air Act \[42 U.S.C. 7403\] the Administrator of the Environmental Protection Agency shall use appropriated funds no later than fiscal year 2000 to fund 100 percent of the cost of the establishment, purchase, operation and maintenance of a PM<sub>2.5</sub> monitoring network necessary to implement the national ambient air quality standards for PM<sub>2.5</sub> under section 109 of the Clean Air Act \[42 U.S.C. 7409\]. This implementation shall not result in a diversion or reprogramming of funds from other Federal, State or local Clean Air Act activities. Any funds previously diverted or reprogrammed from section 105 Clean Air Act \[42 U.S.C. 7405\] grants for PM<sub>2.5</sub> monitors must be restored to State or local air programs in fiscal year 1999.
 
-“(b) EPA and the States, consistent with their respective authorities under the Clean Air Act \[42 U.S.C. 7401 et seq.\], shall ensure that the national network (designated in subsection (a)) which consists of the PM<sub>2.5</sub> monitors necessary to implement the national ambient air quality standards is established by December 31, 1999.
+“(b) EPA and the States, consistent with their respective authorities under the Clean Air Act \[42 U.S.C.7401 et seq.\], shall ensure that the national network (designated in subsection (a)) which consists of the PM<sub>2.5</sub> monitors necessary to implement the national ambient air quality standards is established by December 31, 1999.
 
 “(c)(1) The Governors shall be required to submit designations referred to in section 107(d)(1) of the Clean Air Act \[42 U.S.C. 7407(d)(1)\] for each area following promulgation of the July 1997 PM<sub>2.5</sub> national ambient air quality standard within 1 year after receipt of 3 years of air quality monitoring data performed in accordance with any applicable Federal reference methods for the relevant areas. Only data from the monitoring network designated in subsection (a) and other Federal reference method PM<sub>2.5</sub> monitors shall be considered for such designations. Nothing in the previous sentence shall be construed as affecting the Governor's authority to designate an area initially as nonattainment, and the Administrator's authority to promulgate the designation of an area as nonattainment, under section 107(d)(1) of the Clean Air Act, based on its contribution to ambient air quality in a nearby nonattainment area.
 
@@ -182,7 +182,7 @@ Pub. L. 105–178, title VI, June 9, 1998, 112 Stat. 463, provided that:
 
 “(d) The Administrator shall promulgate the designations referred to in section 107(d)(1) of the Clean Air Act \[42 U.S.C. 7407(d)(1)\] for each area following promulgation of the July 1997 PM<sub>2.5</sub> national ambient air quality standard by the earlier of 1 year after the initial designations required under subsection (c)(1) are required to be submitted or December 31, 2005.
 
-“(e) The Administrator shall conduct a field study of the ability of the PM<sub>2.5</sub> Federal Reference Method to differentiate those particles that are larger than 2.5 micrograms in diameter. This study shall be completed and provided to the Committee on Commerce of the House of Representatives and the Committee on Environment and Public Works of the United States Senate no later than 2 years from the date of enactment of this Act \[June 9, 1998\].
+“(e) The Administrator shall conduct a field study of the ability of the PM<sub>2.5</sub> Federal Reference Method to differentiate those particles that are larger than 2.5 micrograms in diameter. This study shall be completed and provided to the Committee on Commerce \[now Committee on Energy and Commerce\] of the House of Representatives and the Committee on Environment and Public Works of the United States Senate no later than 2 years from the date of enactment of this Act \[June 9, 1998\].
 
 #### “SEC. 6103. OZONE DESIGNATION REQUIREMENTS.
 
@@ -204,7 +204,7 @@ All rules, regulations, orders, determinations, contracts, certifications, autho
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 7406, 7429, 7471, 7472, 7477, 7501, 7502, 7505a, 7509, 7511, 7511e, 7512, 7513, 7513a, 7514, 7545, 7607, 7651d of this title; title 23 sections 101, 109, 149.
+This section is referred to in sections 7406, 7429, 7471, 7472, 7477, 7501, 7502, 7505a, 7506, 7509, 7511, 7511e, 7512, 7513, 7513a, 7514, 7545, 7607, 7651d of this title; title 23 sections 101, 109, 149.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

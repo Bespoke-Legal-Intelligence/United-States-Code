@@ -18,6 +18,16 @@ Unless otherwise provided, for purposes of this part—
 
 A prior section 13701, Pub. L. 103–322, title II, §20101, Sept. 13, 1994, 108 Stat. 1815, related to grants for correctional facilities prior to the general amendment of this part by Pub. L. 104–134.
 
+#### Short Title of 2000 Amendments
+
+Pub. L. 106–560, §1, Dec. 21, 2000, 114 Stat. 2784, provided that: “This Act \[enacting sections 13726 to 13726c of this title\] may be cited as the ‘Interstate Transportation of Dangerous Criminals Act of 2000’ or ‘Jeanna's Act’.”
+
+Pub. L. 106–546, §1, Dec. 19, 2000, 114 Stat. 2726, provided that: “This Act \[enacting sections 14135 to 14135e of this title and section 1565 of Title 10, Armed Forces, amending sections 3753, 3796kk–2, 14132, and 14133 of this title and sections 3563, 3583, and 4209 of Title 18, Crimes and Criminal Procedure, enacting provisions set out as notes under section 14135 of this title and section 1565 of Title 10, and amending provisions set out as a note under section 531 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘DNA Analysis Backlog Elimination Act of 2000’.”
+
+Pub. L. 106–386, div. B, §1001, Oct. 28, 2000, 114 Stat. 1491, provided that: “This division \[see Tables for classification\] may be cited as the ‘Violence Against Women Act of 2000’.”
+
+Pub. L. 106–297, §1, Oct. 13, 2000, 114 Stat. 1045, provided that: “This Act \[amending section 13704 of this title\] may be cited as the ‘Death in Custody Reporting Act of 2000’.”
+
 #### Short Title of 1996 Amendments
 
 Pub. L. 104–236, §1, Oct. 3, 1996, 110 Stat. 3093, provided that: “This Act \[enacting sections 14072 and 14073 of this title, amending section 14071 of this title, and enacting provisions set out as notes under section 14071 of this title\] may be cited as the ‘Pam Lychner Sexual Offender Tracking and Identification Act of 1996’.”

@@ -12,7 +12,39 @@ The Trade Representative shall monitor the implementation of each measure undert
 
 #### (2) WTO dispute settlement recommendations
 
-&emsp;If the measure or agreement referred to in subsection (a) of this section concerns the implementation of a recommendation made pursuant to dispute settlement proceedings under the World Trade Organization, and the Trade Representative considers that the foreign country has failed to implement it, the Trade Representative shall make the determination in paragraph (1) no later than 30 days after the expiration of the reasonable period of time provided for such implementation under paragraph 21 of the Understanding on Rules and Procedures Governing the Settlement of Disputes that is referred to in section 3511(d)(16) of this title.
+#### (A) Failure to implement recommendation
+
+&emsp;&emsp;If the measure or agreement referred to in subsection (a) of this section concerns the implementation of a recommendation made pursuant to dispute settlement proceedings under the World Trade Organization, and the Trade Representative considers that the foreign country has failed to implement it, the Trade Representative shall make the determination in paragraph (1) no later than 30 days after the expiration of the reasonable period of time provided for such implementation under paragraph 21 of the Understanding on Rules and Procedures Governing the Settlement of Disputes that is referred to in section 3511(d)(16) of this title.
+
+#### (B) Revision of retaliation list and action
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Except as provided in clause (ii), in the event that the United States initiates a retaliation list or takes any other action described in section 2411(c)(1)(A) or (B) of this title against the goods of a foreign country or countries because of the failure of such country or countries to implement the recommendation made pursuant to a dispute settlement proceeding under the World Trade Organization, the Trade Representative shall periodically revise the list or action to affect other goods of the country or countries that have failed to implement the recommendation.
+
+#### (ii) Exception
+
+&emsp;&emsp;&emsp;The Trade Representative is not required to revise the retaliation list or the action described in clause (i) with respect to a country, if—
+
+&emsp;&emsp;&emsp;&emsp;(I) the Trade Representative determines that implementation of a recommendation made pursuant to a dispute settlement proceeding described in clause (i) by the country is imminent; or
+
+&emsp;&emsp;&emsp;&emsp;(II) the Trade Representative together with the petitioner involved in the initial investigation under this subchapter (or if no petition was filed, the affected United States industry) agree that it is unnecessary to revise the retaliation list.
+
+#### (C) Schedule for revising list or action
+
+&emsp;&emsp;The Trade Representative shall, 120 days after the date the retaliation list or othersection 2411(a) action is first taken, and every 180 days thereafter, review the list or action taken and revise, in whole or in part, the list or action to affect other goods of the subject country or countries.
+
+#### (D) Standards for revising list or action
+
+&emsp;&emsp;In revising any list or action against a country or countries under this subsection, the Trade Representative shall act in a manner that is most likely to result in the country or countries implementing the recommendations adopted in the dispute settlement proceeding or in achieving a mutually satisfactory solution to the issue that gave rise to the dispute settlement proceeding. The Trade Representative shall consult with the petitioner, if any, involved in the initial investigation under this subchapter.
+
+#### (E) Retaliation list
+
+&emsp;&emsp;The term “retaliation list” means the list of products of a foreign country or countries that have failed to comply with the report of the panel or Appellate Body of the WTO and with respect to which the Trade Representative is imposing duties above the level that would otherwise be imposed under the Harmonized Tariff Schedule of the United States.
+
+#### (F) Requirement to include reciprocal goods on retaliation list
+
+&emsp;&emsp;The Trade Representative shall include on the retaliation list, and on any revised lists, reciprocal goods of the industries affected by the failure of the foreign country or countries to implement the recommendation made pursuant to a dispute settlement proceeding under the World Trade Organization, except in cases where existing retaliation and its corresponding preliminary retaliation list do not already meet this requirement.
 
 #### (c) Consultations
 
@@ -22,9 +54,15 @@ Before making any determination under subsection (b) of this section, the Trade 
 
 &emsp;(2) provide an opportunity for the presentation of views by interested persons.
 
-(Pub. L. 93–618, title III, §306, as added Pub. L. 96–39, title IX, §901, July 26, 1979, 93 Stat. 299;amended Pub. L. 100–418, title I, §1301(a), Aug. 23, 1988, 102 Stat. 1173; Pub. L. 103–465, title III, §314(e), Dec. 8, 1994, 108 Stat. 4941; Pub. L. 104–295, §20(c)(1), Oct. 11, 1996, 110 Stat. 3528.)
+(Pub. L. 93–618, title III, §306, as added Pub. L. 96–39, title IX, §901, July 26, 1979, 93 Stat. 299; amended Pub. L. 100–418, title I, §1301(a), Aug. 23, 1988, 102 Stat. 1173; Pub. L. 103–465, title III, §314(e), Dec. 8, 1994, 108 Stat. 4941; Pub. L. 104–295, §20(c)(1), Oct. 11, 1996, 110 Stat. 3528; Pub. L. 106–200, title IV, §407, May 18, 2000, 114 Stat. 293.)
+
+#### References in Text
+
+The Harmonized Tariff Schedule of the United States, referred to in subsec. (b)(2)(E), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
 
 #### Amendments
+
+2000—Subsec. (b)(2). Pub. L. 106–200 designated existing provisions as subpar. (A), inserted heading, and added subpars. (B) to (F).
 
 1996—Subsec. (b)(1). Pub. L. 104–295 made technical amendment to Pub. L. 103–465. See 1994 Amendment note below.
 

@@ -36,10 +36,6 @@ The Board of Trustees is authorized to—
 
 (Pub. L. 99–371, title I, §103, Aug. 4, 1986, 100 Stat. 782; Pub. L. 102–421, title I, §§101(c), 111, Oct. 16, 1992, 106 Stat. 2152; Pub. L. 103–73, title II, §203(c), Aug. 11, 1993, 107 Stat. 733.)
 
-#### Codification
-
-Section is also set out in D.C. Code, §31–1841.3.
-
 #### Prior Provisions
 
 Provisions similar to this section were contained in sections 691d and 691e of this title prior to repeal by Pub. L. 99–371.

@@ -4,7 +4,7 @@
 
 #### (1) Regulations required
 
-&emsp;Before the end of the 9-month period beginning on December 19, 1991, the Board, afterconsultation with each agency referred to in section 4309(a) of this title and public notice and opportunity for comment, shall prescribe regulations to carry out the purpose and provisions of this chapter.
+&emsp;Before the end of the 9-month period beginning on December 19, 1991, the Board, after consultation with each agency referred to in section 4309(a) of this title and public notice and opportunity for comment, shall prescribe regulations to carry out the purpose and provisions of this chapter.
 
 #### (2) Effective date of regulations
 
@@ -12,7 +12,7 @@
 
 #### (3) Contents of regulations
 
-&emsp;The regulations prescribed under paragraph (1) may contain such classifications, differentiations, or other provisions, and may provide for such adjustments and exceptions for any class of accounts as, in the judgment of the Board, are necessary or proper to carry out the purposes of this chapter, to prevent circumvention or evasion of the requirements of this chapter, or to facilitate compliance with the requirements of this chapter.
+&emsp;The regulations prescribed under paragraph (1) may contain such classifications, differentiations, or other provisions, and may provide for such adjustments and exceptions for any class of accounts as, in the judgment of the Board, are necessary or proper to carry outthe purposes of this chapter, to prevent circumvention or evasion of the requirements of this chapter, or to facilitate compliance with the requirements of this chapter.
 
 #### (4) Date of applicability
 

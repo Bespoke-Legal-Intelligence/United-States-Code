@@ -30,9 +30,9 @@
 
 (j)(1) The Secretary of a military department may authorize a working capital funded industrial facility of that department to manufacture or remanufacture articles and sell these articles, as well as manufacturing, remanufacturing, and engineering services provided by such facilities, to persons outside the Department of Defense if—
 
-&emsp;(A) the person purchasing the article or service is fulfilling a Department of Defensecontract or a subcontract under a Department of Defense contract; and
+&emsp;(A) the person purchasing the article or service is fulfilling a Department of Defense contract or a subcontract under a Department of Defense contract, and the solicitation for the contract or subcontract is open to competition between Department of Defense activities and private firms; or
 
-&emsp;(B) the solicitation for the contract or subcontract is open to competition between Department of Defense activities and private firms.
+&emsp;(B) the Secretary would advance the objectives set forth in section 2474(b)(2) of this title by authorizing the facility to do so.
 
 (2) The Secretary of Defense may waive the conditions in paragraph (1) in the case of a particular sale if the Secretary determines that the waiver is necessary for reasons of national security and notifies Congress regarding the reasons for the waiver.
 
@@ -120,7 +120,7 @@ Annual Reports and Budget.—The Secretary of Defense, with respect to each work
 
 &emsp;&emsp;(E) A statement of how much of the estimated balance at the end of the fiscal year in which the report is submitted will be needed to pay outlays in the immediately following fiscal year that are in excess of the amount to be credited to the subaccount in the immediately following fiscal year.
 
-(Added Pub. L. 87–651, title II, §207(a), Sept. 7, 1962, 76 Stat. 521; amended Pub. L. 97–295, §1(22), Oct. 12, 1982, 96 Stat. 1290; Pub. L. 98–94, title XII, §1204(a), Sept. 24, 1983, 97 Stat. 683; Pub. L. 98–525, title III, §305, Oct. 19, 1984, 98 Stat. 2513; Pub. L. 100–26, §7(d)(2), Apr. 21, 1987, 101 Stat. 280; Pub. L. 101–510, div. A, title VIII, §801, title XIII, §1301(6), Nov. 5, 1990, 104 Stat. 1588, 1668; Pub. L. 102–172, title VIII, §8137, Nov. 26, 1991, 105 Stat. 1212; Pub. L. 102–484, div. A, title III, §374, Oct. 23, 1992, 106 Stat. 2385; Pub. L. 103–160, div. A, title I, §158(b), Nov. 30, 1993, 107 Stat. 1582; Pub. L. 105–85, div. A, title X, §1011(a), (b), Nov. 18, 1997, 111 Stat. 1873; Pub. L. 105–261, div. A, title X, §§1007(e)(1), 1008(a), Oct. 17, 1998, 112 Stat. 2115; Pub. L. 105–262, title VIII, §8146(d)(1), Oct. 17, 1998, 112 Stat. 2340; Pub. L. 106–65, div. A, title III, §§331(a)(1), 332, title X, §1066(a)(16), Oct. 5, 1999, 113 Stat. 566, 567, 771.)
+(Added Pub. L. 87–651, title II, §207(a), Sept. 7, 1962, 76 Stat. 521; amended Pub. L. 97–295, §1(22), Oct. 12, 1982, 96 Stat. 1290; Pub. L. 98–94, title XII, §1204(a), Sept. 24, 1983, 97 Stat. 683; Pub. L. 98–525, title III, §305, Oct. 19, 1984, 98 Stat. 2513; Pub. L. 100–26, §7(d)(2), Apr. 21, 1987, 101 Stat. 280; Pub. L. 101–510, div. A, title VIII, §801, title XIII, §1301(6), Nov. 5, 1990, 104 Stat. 1588, 1668; Pub. L. 102–172, title VIII, §8137, Nov. 26, 1991, 105 Stat. 1212; Pub. L. 102–484, div. A, title III, §374, Oct. 23, 1992, 106 Stat. 2385; Pub. L. 103–160, div. A, title I, §158(b), Nov. 30, 1993, 107 Stat. 1582; Pub. L. 105–85, div. A, title X, §1011(a), (b), Nov. 18, 1997, 111 Stat. 1873; Pub. L. 105–261, div. A, title X, §§1007(e)(1), 1008(a), Oct. 17, 1998, 112 Stat. 2115; Pub. L. 105–262, title VIII, §8146(d)(1), Oct. 17, 1998, 112 Stat. 2340; Pub. L. 106–65, div. A, title III, §§331(a)(1), 332, title X, §1066(a)(16), Oct. 5, 1999, 113 Stat. 566, 567, 771; Pub. L. 106–398, §1 \[\[div. A\], title III, §341(f)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–64.)
 
 Historical and Revision Notes<br>1956
 
@@ -204,6 +204,8 @@ Provisions similar to those in subsecs. (m) to (q) of this section were containe
 
 #### Amendments
 
+2000—Subsec. (j)(1). Pub. L. 106–398 substituted “contract, and the solicitation” for “contract; and” at end of subpar. (A) and all that follows through “(B) the solicitation”, substituted “; or” for period after “private firms”, and added a new subpar. (B).
+
 1999—Subsec. (j). Pub. L. 106–65, §§331(a)(1), 332, designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, substituted “, remanufacturing, and engineering” for “or remanufacturing” in introductory provisions, inserted “or a subcontract under a Department of Defense contract” before the semicolon in subpar. (A), substituted “solicitation for the contract or subcontract” for “Department of Defense solicitation for such contract” in subpar. (B), and added par. (2).
 
 Subsec. (<i>l</i>)(2)(A). Pub. L. 106–65, §1066(a)(16), inserted “of” after “during a period”.
@@ -232,7 +234,7 @@ Subsec. (<i>l</i>). Pub. L. 105–85, §1011(b), added subsec. (<i>l</i>).
 
 &emsp;“(C) the article is not readily available from a commercial source in the United States; and
 
-&emsp;“(D) the sale is to be made on a basis that does not interfere with performance of work by the arsenal forthe Department of Defense or for a contractor of the Department of Defense.
+&emsp;“(D) the sale is to be made on a basis that does not interfere with performance of work by the arsenal for the Department of Defense or for a contractor of the Department of Defense.
 
 “(2) Services related to an article sold under this subsection may also be sold to the purchaser if the services are to be performed in the United States for the purchaser.”
 
@@ -270,7 +272,7 @@ Section 342 of Pub. L. 102–484, as amended by Pub. L. 103–160, div. A, title
 
 #### Limitations on Use of Defense Business Operations Fund
 
-Pub. L. 102–190, div. A, title III, §316, Dec. 5, 1991, 105 Stat. 1338, as amended by Pub. L. 102–484, div. A, title III, §341, Oct. 23, 1992, 106 Stat. 2374; Pub. L. 103–160, div. A, title III, §§331, 332, Nov. 30, 1993, 107 Stat. 1620; Pub. L. 103–337, div. A, title III, §311(a), Oct. 5, 1994, 108 Stat. 2708, which authorized Secretary of Defense to manage performance of certain working-capital funds established under this section, the Defense Finance and Accounting Service, the Defense Industrial Plan Equipment Center, the Defense Commissary Agency, the Defense Technical Information Service, the Defense Reutilization and Marketing Service, and certain activities funded through use of working-capital fund established under this section, directed Secretary to maintain separate accounting, reporting, and auditing of such funds and activities, required Secretary to submit to congressional defense committees, by not later than 30 days after Nov. 30, 1993, a comprehensive management plan and, by not later than Feb. 1, 1994, a progress report on plan's implementation, and directed Comptroller General to monitor and evaluate the plan and submit to congressional defense committees, not later than Mar. 1, 1994, a report, was repealed and restated in section 2216a(a)–(c) of this title by Pub. L. 104–106, div. A, title III, §371(a)(1), (b)(4), Feb. 10, 1996, 110 Stat. 277, 279.
+Pub. L. 102–190, div. A, title III, §316, Dec. 5, 1991, 105 Stat. 1338, as amended by Pub. L. 102–484, div. A, title III, §341, Oct. 23, 1992, 106 Stat. 2374; Pub. L. 103–160, div.A, title III, §§331, 332, Nov. 30, 1993, 107 Stat. 1620; Pub. L. 103–337, div. A, title III, §311(a), Oct. 5, 1994, 108 Stat. 2708, which authorized Secretary of Defense to manage performance of certain working-capital funds established under this section, the Defense Finance and Accounting Service, the Defense Industrial Plan Equipment Center, the Defense Commissary Agency, the Defense Technical Information Service, the Defense Reutilization and Marketing Service, and certain activities funded through use of working-capital fund established under this section, directed Secretary to maintain separate accounting, reporting, and auditing of such funds and activities, required Secretary to submit to congressional defense committees, by not later than 30 days after Nov. 30, 1993, a comprehensive management plan and, by not later than Feb. 1, 1994, a progress report on plan's implementation, and directed Comptroller General to monitor and evaluate the plan and submit to congressional defense committees, not later than Mar. 1, 1994, a report, was repealed and restated in section 2216a(a)–(c) of this title by Pub. L. 104–106, div. A, title III, §371(a)(1), (b)(4), Feb. 10, 1996, 110 Stat. 277, 279.
 
 #### Defense Business Operations Fund
 
@@ -279,10 +281,6 @@ Section 8121 of Pub. L. 102–172, which established on the books of the Treasur
 #### Sale of Inventories for Performance of Contracts With Defense Department
 
 Pub. L. 96–154, title VII, §767, Dec. 21, 1979, 93 Stat. 1163, which had provided that supplies available in inventories financed by working capital funds established pursuant to this section could, on and after Dec. 21, 1979, be sold to contractors for use in performing contracts with the Department of Defense, was repealed and restated in subsec. (h) of this section by Pub. L. 97–295, §§1(22), 6(b), Oct. 12, 1982, 96 Stat. 1290, 1315.
-
-#### Cross References
-
-Sale of articles acquired with working capital funds, see sections 4621 and 9621 of this title.
 
 #### Section Referred to in Other Sections
 

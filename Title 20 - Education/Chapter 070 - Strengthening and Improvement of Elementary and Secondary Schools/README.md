@@ -156,41 +156,43 @@ I74subpart 1—basic program requirements
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part B—Even Start Family Literacy Programs
+#### Part B—William F. Goodling Even Start Family Literacy Programs
 
 |  |  |
 | :--- | ---: |
-| [6361\.](Subchapter%20001%20%28I%29%20-%20Helping%20Disadvantaged%20Children%20Meet%20High%20Standards/Part%20B%20-%20Even%20Start%20Family%20Literacy%20Programs/%C2%A7%2006361%20-%20Statement%20of%20purpose.md) | Statement of purpose. |
-| [6362\.](Subchapter%20001%20%28I%29%20-%20Helping%20Disadvantaged%20Children%20Meet%20High%20Standards/Part%20B%20-%20Even%20Start%20Family%20Literacy%20Programs/%C2%A7%2006362%20-%20Program%20authorized.md) | Program authorized. |
+| [6361\.](Subchapter%20001%20%28I%29%20-%20Helping%20Disadvantaged%20Children%20Meet%20High%20Standards/Part%20B%20-%20William%20F.%20Goodling%20Even%20Start%20Family%20Literacy%20Programs/%C2%A7%2006361%20-%20Statement%20of%20purpose.md) | Statement of purpose. |
+| [6362\.](Subchapter%20001%20%28I%29%20-%20Helping%20Disadvantaged%20Children%20Meet%20High%20Standards/Part%20B%20-%20William%20F.%20Goodling%20Even%20Start%20Family%20Literacy%20Programs/%C2%A7%2006362%20-%20Program%20authorized.md) | Program authorized. |
 | (a) | Reservation for migrant programs, outlying areas, and Indian tribes. |
 | (b) | Reservation for Federal activities. |
 | (c) | Reservation for grants. |
 | (d) | State allocation. |
 | (e) | Definitions. |
-| [6363\.](Subchapter%20001%20%28I%29%20-%20Helping%20Disadvantaged%20Children%20Meet%20High%20Standards/Part%20B%20-%20Even%20Start%20Family%20Literacy%20Programs/%C2%A7%2006363%20-%20State%20programs.md) | State programs. |
+| [6363\.](Subchapter%20001%20%28I%29%20-%20Helping%20Disadvantaged%20Children%20Meet%20High%20Standards/Part%20B%20-%20William%20F.%20Goodling%20Even%20Start%20Family%20Literacy%20Programs/%C2%A7%2006363%20-%20State%20programs.md) | State programs. |
 | (a) | State level activities. |
 | (b) | Subgrants for local programs. |
-| [6364\.](Subchapter%20001%20%28I%29%20-%20Helping%20Disadvantaged%20Children%20Meet%20High%20Standards/Part%20B%20-%20Even%20Start%20Family%20Literacy%20Programs/%C2%A7%2006364%20-%20Uses%20of%20funds.md) | Uses of funds. |
+| [6364\.](Subchapter%20001%20%28I%29%20-%20Helping%20Disadvantaged%20Children%20Meet%20High%20Standards/Part%20B%20-%20William%20F.%20Goodling%20Even%20Start%20Family%20Literacy%20Programs/%C2%A7%2006364%20-%20Uses%20of%20funds.md) | Uses of funds. |
 | (a) | In general. |
 | (b) | Federal share limitation. |
-| [6365\.](Subchapter%20001%20%28I%29%20-%20Helping%20Disadvantaged%20Children%20Meet%20High%20Standards/Part%20B%20-%20Even%20Start%20Family%20Literacy%20Programs/%C2%A7%2006365%20-%20Program%20elements.md) | Program elements. |
-| [6366\.](Subchapter%20001%20%28I%29%20-%20Helping%20Disadvantaged%20Children%20Meet%20High%20Standards/Part%20B%20-%20Even%20Start%20Family%20Literacy%20Programs/%C2%A7%2006366%20-%20Eligible%20participants.md) | Eligible participants. |
+| (c) | Use of funds for family literacy services. |
+| [6365\.](Subchapter%20001%20%28I%29%20-%20Helping%20Disadvantaged%20Children%20Meet%20High%20Standards/Part%20B%20-%20William%20F.%20Goodling%20Even%20Start%20Family%20Literacy%20Programs/%C2%A7%2006365%20-%20Program%20elements.md) | Program elements. |
+| [6366\.](Subchapter%20001%20%28I%29%20-%20Helping%20Disadvantaged%20Children%20Meet%20High%20Standards/Part%20B%20-%20William%20F.%20Goodling%20Even%20Start%20Family%20Literacy%20Programs/%C2%A7%2006366%20-%20Eligible%20participants.md) | Eligible participants. |
 | (a) | In general. |
 | (b) | Eligibility for certain other participants. |
-| [6367\.](Subchapter%20001%20%28I%29%20-%20Helping%20Disadvantaged%20Children%20Meet%20High%20Standards/Part%20B%20-%20Even%20Start%20Family%20Literacy%20Programs/%C2%A7%2006367%20-%20Applications.md) | Applications. |
+| [6367\.](Subchapter%20001%20%28I%29%20-%20Helping%20Disadvantaged%20Children%20Meet%20High%20Standards/Part%20B%20-%20William%20F.%20Goodling%20Even%20Start%20Family%20Literacy%20Programs/%C2%A7%2006367%20-%20Applications.md) | Applications. |
 | (a) | Submission. |
 | (b) | Required documentation. |
 | (c) | Plan. |
 | (d) | Consolidated application. |
-| [6368\.](Subchapter%20001%20%28I%29%20-%20Helping%20Disadvantaged%20Children%20Meet%20High%20Standards/Part%20B%20-%20Even%20Start%20Family%20Literacy%20Programs/%C2%A7%2006368%20-%20Award%20of%20subgrants.md) | Award of subgrants. |
+| [6368\.](Subchapter%20001%20%28I%29%20-%20Helping%20Disadvantaged%20Children%20Meet%20High%20Standards/Part%20B%20-%20William%20F.%20Goodling%20Even%20Start%20Family%20Literacy%20Programs/%C2%A7%2006368%20-%20Award%20of%20subgrants.md) | Award of subgrants. |
 | (a) | Selection process. |
 | (b) | Duration. |
-| [6369\.](Subchapter%20001%20%28I%29%20-%20Helping%20Disadvantaged%20Children%20Meet%20High%20Standards/Part%20B%20-%20Even%20Start%20Family%20Literacy%20Programs/%C2%A7%2006369%20-%20Evaluation.md) | Evaluation. |
-| [6369a.](Subchapter%20001%20%28I%29%20-%20Helping%20Disadvantaged%20Children%20Meet%20High%20Standards/Part%20B%20-%20Even%20Start%20Family%20Literacy%20Programs/%C2%A7%2006369a%20-%20Indicators%20of%20program%20quality.md) | Indicators of program quality. |
-| [6369b.](Subchapter%20001%20%28I%29%20-%20Helping%20Disadvantaged%20Children%20Meet%20High%20Standards/Part%20B%20-%20Even%20Start%20Family%20Literacy%20Programs/%C2%A7%2006369b%20-%20Research.md) | Research. |
+| [6369\.](Subchapter%20001%20%28I%29%20-%20Helping%20Disadvantaged%20Children%20Meet%20High%20Standards/Part%20B%20-%20William%20F.%20Goodling%20Even%20Start%20Family%20Literacy%20Programs/%C2%A7%2006369%20-%20Evaluation.md) | Evaluation. |
+| [6369a.](Subchapter%20001%20%28I%29%20-%20Helping%20Disadvantaged%20Children%20Meet%20High%20Standards/Part%20B%20-%20William%20F.%20Goodling%20Even%20Start%20Family%20Literacy%20Programs/%C2%A7%2006369a%20-%20Indicators%20of%20program%20quality.md) | Indicators of program quality. |
+| [6369b.](Subchapter%20001%20%28I%29%20-%20Helping%20Disadvantaged%20Children%20Meet%20High%20Standards/Part%20B%20-%20William%20F.%20Goodling%20Even%20Start%20Family%20Literacy%20Programs/%C2%A7%2006369b%20-%20Research.md) | Research. |
 | (a) | In general. |
-| (b) | Dissemination. |
-| [6370\.](Subchapter%20001%20%28I%29%20-%20Helping%20Disadvantaged%20Children%20Meet%20High%20Standards/Part%20B%20-%20Even%20Start%20Family%20Literacy%20Programs/%C2%A7%2006370%20-%20Construction.md) | Construction. |
+| (b) | Scientifically based research on family literacy. |
+| (c) | Dissemination. |
+| [6370\.](Subchapter%20001%20%28I%29%20-%20Helping%20Disadvantaged%20Children%20Meet%20High%20Standards/Part%20B%20-%20William%20F.%20Goodling%20Even%20Start%20Family%20Literacy%20Programs/%C2%A7%2006370%20-%20Construction.md) | Construction. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -673,11 +675,14 @@ I74subpart 1—basic program requirements
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part F—Elementary and Secondary School Library Media Resources Program
+#### Part F—Limitation on Availability of Certain Funds for Schools
 
-|  |
-| :--- |
-| 7001 to 7005. Repealed. |
+|  |  |
+| :--- | ---: |
+| [7001\.](Subchapter%20003%20%28III%29%20-%20Technology%20for%20Education/Part%20F%20-%20Limitation%20on%20Availability%20of%20Certain%20Funds%20for%20Schools/%C2%A7%2007001%20-%20Limitation%20on%20availability%20of%20certain%20funds%20for%20schools.md) | Limitation on availability of certain funds for schools. |
+| (a) | Internet safety. |
+| (b) | Effective date. |
+| (c) | Separability. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1196,20 +1201,28 @@ I74subpart 1—state grants for drug and violence prevention programs
 | (e) | Local educational agency containing Forest Service land and serving certain counties. |
 | (f) | Special rule. |
 | (g) | Former districts. |
-| (h) | Hold-harmless amounts. |
-| (i) | Priority payments. |
+| (h) | Payments with respect to fiscal years in which insufficient funds are appropriated. |
+| (i) | Special payments. |
 | (j) | Additional assistance for certain local educational agencies impacted by Federal property acquisition. |
 | (k) | Special rule. |
+| (<i>l</i>) | Prior year data. |
+| (m) | Eligibility. |
 | [7703\.](Subchapter%20008%20%28VIII%29%20-%20Impact%20Aid/%C2%A7%2007703%20-%20Payments%20for%20eligible%20federally%20connected%20children.md) | Payments for eligible federally connected children. |
 | (a) | Computation of payment. |
 | (b) | Basic support payments; insufficient appropriations; State with only one local educational agency. |
 | (c) | Prior year data. |
 | (d) | Children with disabilities. |
-| (e) | Hold-harmless amounts. |
-| (f) | Additional assistance for heavily impacted local educational agencies. |
-| (g) | Additional payments for local educational agencies with high concentrations of children with severe disabilities. |
-| (h) | Other funds. |
-| (i) | Maintenance of effort. |
+| (e) | Hold-harmless. |
+| (f) | Other funds. |
+| (g) | Maintenance of effort. |
+| [7703a.](Subchapter%20008%20%28VIII%29%20-%20Impact%20Aid/%C2%A7%2007703a%20-%20Impact%20aid%20for%20children%20with%20severe%20disabilities.md) | Impact aid for children with severe disabilities. |
+| (a) | Payments. |
+| (b) | Payment amount. |
+| (c) | Exclusions. |
+| (d) | Ratable reduction. |
+| (e) | Report. |
+| (f) | Payments subject to appropriation. |
+| (g) | Local educational agency defined. |
 | [7704\.](Subchapter%20008%20%28VIII%29%20-%20Impact%20Aid/%C2%A7%2007704%20-%20Policies%20and%20procedures%20relating%20to%20children%20residing%20on%20Indian%20lands.md) | Policies and procedures relating to children residing on Indian lands. |
 | (a) | In general. |
 | (b) | Records. |
@@ -1222,16 +1235,10 @@ I74subpart 1—state grants for drug and violence prevention programs
 | (b) | Contents. |
 | (c) | Deadline for submission. |
 | (d) | Approval. |
-| [7706\.](Subchapter%20008%20%28VIII%29%20-%20Impact%20Aid/%C2%A7%2007706%20-%20Payments%20for%20sudden%20and%20substantial%20increases%20in%20attendance%20of%20military%20dependents.md) | Payments for sudden and substantial increases in attendance of military dependents. |
-| (a) | Eligibility. |
-| (b) | Application. |
-| (c) | Children to be counted. |
-| (d) | Payments. |
-| (e) | Notification process. |
+| [7706\.](Subchapter%20008%20%28VIII%29%20-%20Impact%20Aid/%C2%A7%2007706%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93398%2C%20%C2%A71%20%5B%5Bdiv.%20A%5D%2C%20title%20XVIII%2C%20%C2%A71810%5D%2C%20Oct.%2030%2C%202000%2C%20114%20Stat.%201654%2C%201654A%E2%80%93383.md) | Repealed. |
 | [7707\.](Subchapter%20008%20%28VIII%29%20-%20Impact%20Aid/%C2%A7%2007707%20-%20Construction.md) | Construction. |
-| (a) | Payments authorized. |
-| (b) | Amount of payments. |
-| (c) | Use of funds. |
+| (a) | Construction payments authorized. |
+| (b) | School facility modernization grants authorized. |
 | [7708\.](Subchapter%20008%20%28VIII%29%20-%20Impact%20Aid/%C2%A7%2007708%20-%20Facilities.md) | Facilities. |
 | (a) | Current facilities. |
 | (b) | Transfer of facilities. |
@@ -1255,10 +1262,10 @@ I74subpart 1—state grants for drug and violence prevention programs
 | (a) | Payments for Federal acquisition of real property. |
 | (b) | Basic payments; payments for heavily impacted local educational agencies. |
 | (c) | Payments for children with disabilities. |
-| (d) | Payments for increases in military children. |
+| (d) | Repealed. |
 | (e) | Construction. |
 | (f) | Facilities maintenance. |
-| (g) | Additional assistance for certain Federal property local educational agencies. |
+| (g) | Additional assistance for certain local educational agencies impacted by Federal property acquisition. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1557,24 +1564,26 @@ I74subpart 1—state grants for drug and violence prevention programs
 
 #### Part C—Public Charter Schools
 
+I74subpart 1—basic charter school grant program
+
 |  |  |
 | :--- | ---: |
-| [8061\.](Subchapter%20010%20%28X%29%20-%20Programs%20of%20National%20Significance/Part%20C%20-%20Public%20Charter%20Schools/%C2%A7%2008061%20-%20Findings%20and%20purpose.md) | Findings and purpose. |
+| [8061\.](Subchapter%20010%20%28X%29%20-%20Programs%20of%20National%20Significance/Part%20C%20-%20Public%20Charter%20Schools/Subpart%20001%20-%20Basic%20Charter%20School%20Grant%20Program/%C2%A7%2008061%20-%20Findings%20and%20purpose.md) | Findings and purpose. |
 | (a) | Findings. |
 | (b) | Purpose. |
-| [8062\.](Subchapter%20010%20%28X%29%20-%20Programs%20of%20National%20Significance/Part%20C%20-%20Public%20Charter%20Schools/%C2%A7%2008062%20-%20Program%20authorized.md) | Program authorized. |
+| [8062\.](Subchapter%20010%20%28X%29%20-%20Programs%20of%20National%20Significance/Part%20C%20-%20Public%20Charter%20Schools/Subpart%20001%20-%20Basic%20Charter%20School%20Grant%20Program/%C2%A7%2008062%20-%20Program%20authorized.md) | Program authorized. |
 | (a) | In general. |
 | (b) | Special rule. |
 | (c) | Program periods. |
 | (d) | Limitation. |
 | (e) | Priority treatment. |
 | (f) | Amount criteria. |
-| [8063\.](Subchapter%20010%20%28X%29%20-%20Programs%20of%20National%20Significance/Part%20C%20-%20Public%20Charter%20Schools/%C2%A7%2008063%20-%20Applications.md) | Applications. |
+| [8063\.](Subchapter%20010%20%28X%29%20-%20Programs%20of%20National%20Significance/Part%20C%20-%20Public%20Charter%20Schools/Subpart%20001%20-%20Basic%20Charter%20School%20Grant%20Program/%C2%A7%2008063%20-%20Applications.md) | Applications. |
 | (a) | Applications from State agencies. |
 | (b) | Contents of State educational agency application. |
 | (c) | Contents of eligible applicant application. |
 | (d) | Contents of application. |
-| [8064\.](Subchapter%20010%20%28X%29%20-%20Programs%20of%20National%20Significance/Part%20C%20-%20Public%20Charter%20Schools/%C2%A7%2008064%20-%20Administration.md) | Administration. |
+| [8064\.](Subchapter%20010%20%28X%29%20-%20Programs%20of%20National%20Significance/Part%20C%20-%20Public%20Charter%20Schools/Subpart%20001%20-%20Basic%20Charter%20School%20Grant%20Program/%C2%A7%2008064%20-%20Administration.md) | Administration. |
 | (a) | Selection criteria for State educational agencies. |
 | (b) | Selection criteria for eligible applicants. |
 | (c) | Peer review. |
@@ -1582,17 +1591,50 @@ I74subpart 1—state grants for drug and violence prevention programs
 | (e) | Waivers. |
 | (f) | Use of funds. |
 | (g) | Tribally controlled schools. |
-| [8065\.](Subchapter%20010%20%28X%29%20-%20Programs%20of%20National%20Significance/Part%20C%20-%20Public%20Charter%20Schools/%C2%A7%2008065%20-%20National%20activities.md) | National activities. |
+| [8065\.](Subchapter%20010%20%28X%29%20-%20Programs%20of%20National%20Significance/Part%20C%20-%20Public%20Charter%20Schools/Subpart%20001%20-%20Basic%20Charter%20School%20Grant%20Program/%C2%A7%2008065%20-%20National%20activities.md) | National activities. |
 | (a) | In general. |
 | (b) | Construction. |
-| [8065a.](Subchapter%20010%20%28X%29%20-%20Programs%20of%20National%20Significance/Part%20C%20-%20Public%20Charter%20Schools/%C2%A7%2008065a%20-%20Federal%20formula%20allocation%20during%20first%20year%20and%20for%20successive%20enrollment%20expansions.md) | Federal formula allocation during first year and for successive enrollment expansions. |
+| [8065a.](Subchapter%20010%20%28X%29%20-%20Programs%20of%20National%20Significance/Part%20C%20-%20Public%20Charter%20Schools/Subpart%20001%20-%20Basic%20Charter%20School%20Grant%20Program/%C2%A7%2008065a%20-%20Federal%20formula%20allocation%20during%20first%20year%20and%20for%20successive%20enrollment%20expansions.md) | Federal formula allocation during first year and for successive enrollment expansions. |
 | (a) | In general. |
 | (b) | Adjustment and late openings. |
-| [8065b.](Subchapter%20010%20%28X%29%20-%20Programs%20of%20National%20Significance/Part%20C%20-%20Public%20Charter%20Schools/%C2%A7%2008065b%20-%20Solicitation%20of%20input%20from%20charter%20school%20operators.md) | Solicitation of input from charter school operators. |
-| [8065c.](Subchapter%20010%20%28X%29%20-%20Programs%20of%20National%20Significance/Part%20C%20-%20Public%20Charter%20Schools/%C2%A7%2008065c%20-%20Records%20transfer.md) | Records transfer. |
-| [8065d.](Subchapter%20010%20%28X%29%20-%20Programs%20of%20National%20Significance/Part%20C%20-%20Public%20Charter%20Schools/%C2%A7%2008065d%20-%20Paperwork%20reduction.md) | Paperwork reduction. |
-| [8066\.](Subchapter%20010%20%28X%29%20-%20Programs%20of%20National%20Significance/Part%20C%20-%20Public%20Charter%20Schools/%C2%A7%2008066%20-%20Definitions.md) | Definitions. |
-| [8067\.](Subchapter%20010%20%28X%29%20-%20Programs%20of%20National%20Significance/Part%20C%20-%20Public%20Charter%20Schools/%C2%A7%2008067%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [8065b.](Subchapter%20010%20%28X%29%20-%20Programs%20of%20National%20Significance/Part%20C%20-%20Public%20Charter%20Schools/Subpart%20001%20-%20Basic%20Charter%20School%20Grant%20Program/%C2%A7%2008065b%20-%20Solicitation%20of%20input%20from%20charter%20school%20operators.md) | Solicitation of input from charter school operators. |
+| [8065c.](Subchapter%20010%20%28X%29%20-%20Programs%20of%20National%20Significance/Part%20C%20-%20Public%20Charter%20Schools/Subpart%20001%20-%20Basic%20Charter%20School%20Grant%20Program/%C2%A7%2008065c%20-%20Records%20transfer.md) | Records transfer. |
+| [8065d.](Subchapter%20010%20%28X%29%20-%20Programs%20of%20National%20Significance/Part%20C%20-%20Public%20Charter%20Schools/Subpart%20001%20-%20Basic%20Charter%20School%20Grant%20Program/%C2%A7%2008065d%20-%20Paperwork%20reduction.md) | Paperwork reduction. |
+| [8066\.](Subchapter%20010%20%28X%29%20-%20Programs%20of%20National%20Significance/Part%20C%20-%20Public%20Charter%20Schools/Subpart%20001%20-%20Basic%20Charter%20School%20Grant%20Program/%C2%A7%2008066%20-%20Definitions.md) | Definitions. |
+| [8067\.](Subchapter%20010%20%28X%29%20-%20Programs%20of%20National%20Significance/Part%20C%20-%20Public%20Charter%20Schools/Subpart%20001%20-%20Basic%20Charter%20School%20Grant%20Program/%C2%A7%2008067%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### subpart 2—credit enhancement initiatives to assist charter school facility acquisition, construction, and renovation
+
+|  |  |
+| :--- | ---: |
+| [8071\.](Subchapter%20010%20%28X%29%20-%20Programs%20of%20National%20Significance/Part%20C%20-%20Public%20Charter%20Schools/Subpart%20002%20-%20Credit%20Enhancement%20Initiatives%20to%20Assist%20Charter%20School%20Facility%20Acquisition%2C%20Construction%2C%20and%20Renovation/%C2%A7%2008071%20-%20Purpose.md) | Purpose. |
+| [8071a.](Subchapter%20010%20%28X%29%20-%20Programs%20of%20National%20Significance/Part%20C%20-%20Public%20Charter%20Schools/Subpart%20002%20-%20Credit%20Enhancement%20Initiatives%20to%20Assist%20Charter%20School%20Facility%20Acquisition%2C%20Construction%2C%20and%20Renovation/%C2%A7%2008071a%20-%20Grants%20to%20eligible%20entities.md) | Grants to eligible entities. |
+| (a) | In general. |
+| (b) | Grantee selection. |
+| (c) | Grant characteristics. |
+| (d) | Special rule. |
+| [8071b.](Subchapter%20010%20%28X%29%20-%20Programs%20of%20National%20Significance/Part%20C%20-%20Public%20Charter%20Schools/Subpart%20002%20-%20Credit%20Enhancement%20Initiatives%20to%20Assist%20Charter%20School%20Facility%20Acquisition%2C%20Construction%2C%20and%20Renovation/%C2%A7%2008071b%20-%20Applications.md) | Applications. |
+| (a) | In general. |
+| (b) | Contents. |
+| [8071c.](Subchapter%20010%20%28X%29%20-%20Programs%20of%20National%20Significance/Part%20C%20-%20Public%20Charter%20Schools/Subpart%20002%20-%20Credit%20Enhancement%20Initiatives%20to%20Assist%20Charter%20School%20Facility%20Acquisition%2C%20Construction%2C%20and%20Renovation/%C2%A7%2008071c%20-%20Charter%20school%20objectives.md) | Charter school objectives. |
+| [8071d.](Subchapter%20010%20%28X%29%20-%20Programs%20of%20National%20Significance/Part%20C%20-%20Public%20Charter%20Schools/Subpart%20002%20-%20Credit%20Enhancement%20Initiatives%20to%20Assist%20Charter%20School%20Facility%20Acquisition%2C%20Construction%2C%20and%20Renovation/%C2%A7%2008071d%20-%20Reserve%20account.md) | Reserve account. |
+| (a) | Use of funds. |
+| (b) | Investment. |
+| (c) | Reinvestment of earnings. |
+| [8071e.](Subchapter%20010%20%28X%29%20-%20Programs%20of%20National%20Significance/Part%20C%20-%20Public%20Charter%20Schools/Subpart%20002%20-%20Credit%20Enhancement%20Initiatives%20to%20Assist%20Charter%20School%20Facility%20Acquisition%2C%20Construction%2C%20and%20Renovation/%C2%A7%2008071e%20-%20Limitation%20on%20administrative%20costs.md) | Limitation on administrative costs. |
+| [8071f.](Subchapter%20010%20%28X%29%20-%20Programs%20of%20National%20Significance/Part%20C%20-%20Public%20Charter%20Schools/Subpart%20002%20-%20Credit%20Enhancement%20Initiatives%20to%20Assist%20Charter%20School%20Facility%20Acquisition%2C%20Construction%2C%20and%20Renovation/%C2%A7%2008071f%20-%20Audits%20and%20reports.md) | Audits and reports. |
+| (a) | Financial record maintenance and audit. |
+| (b) | Reports. |
+| [8071g.](Subchapter%20010%20%28X%29%20-%20Programs%20of%20National%20Significance/Part%20C%20-%20Public%20Charter%20Schools/Subpart%20002%20-%20Credit%20Enhancement%20Initiatives%20to%20Assist%20Charter%20School%20Facility%20Acquisition%2C%20Construction%2C%20and%20Renovation/%C2%A7%2008071g%20-%20No%20full%20faith%20and%20credit%20for%20grantee%20obligations.md) | No full faith and credit for grantee obligations. |
+| [8071h.](Subchapter%20010%20%28X%29%20-%20Programs%20of%20National%20Significance/Part%20C%20-%20Public%20Charter%20Schools/Subpart%20002%20-%20Credit%20Enhancement%20Initiatives%20to%20Assist%20Charter%20School%20Facility%20Acquisition%2C%20Construction%2C%20and%20Renovation/%C2%A7%2008071h%20-%20Recovery%20of%20funds.md) | Recovery of funds. |
+| (a) | In general. |
+| (b) | Exercise of authority. |
+| (c) | Procedures. |
+| (d) | Construction. |
+| [8071i.](Subchapter%20010%20%28X%29%20-%20Programs%20of%20National%20Significance/Part%20C%20-%20Public%20Charter%20Schools/Subpart%20002%20-%20Credit%20Enhancement%20Initiatives%20to%20Assist%20Charter%20School%20Facility%20Acquisition%2C%20Construction%2C%20and%20Renovation/%C2%A7%2008071i%20-%20Definitions.md) | Definitions. |
+| [8071j.](Subchapter%20010%20%28X%29%20-%20Programs%20of%20National%20Significance/Part%20C%20-%20Public%20Charter%20Schools/Subpart%20002%20-%20Credit%20Enhancement%20Initiatives%20to%20Assist%20Charter%20School%20Facility%20Acquisition%2C%20Construction%2C%20and%20Renovation/%C2%A7%2008071j%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1786,24 +1828,33 @@ I74subpart 1—arts education
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### subpart 2—rural education demonstration grants
+#### subpart 2—rural education initiative
 
 |  |  |
 | :--- | ---: |
-| [8291\.](Subchapter%20010%20%28X%29%20-%20Programs%20of%20National%20Significance/Part%20J%20-%20Urban%20and%20Rural%20Education%20Assistance/Subpart%20002%20-%20Rural%20Education%20Demonstration%20Grants/%C2%A7%2008291%20-%20Findings.md) | Findings. |
-| [8292\.](Subchapter%20010%20%28X%29%20-%20Programs%20of%20National%20Significance/Part%20J%20-%20Urban%20and%20Rural%20Education%20Assistance/Subpart%20002%20-%20Rural%20Education%20Demonstration%20Grants/%C2%A7%2008292%20-%20Purpose.md) | Purpose. |
-| [8293\.](Subchapter%20010%20%28X%29%20-%20Programs%20of%20National%20Significance/Part%20J%20-%20Urban%20and%20Rural%20Education%20Assistance/Subpart%20002%20-%20Rural%20Education%20Demonstration%20Grants/%C2%A7%2008293%20-%20Rural%20school%20grants.md) | Rural school grants. |
-| (a) | Authority. |
-| (b) | Award rules. |
-| (c) | Administrative costs. |
-| (d) | Duration. |
-| [8294\.](Subchapter%20010%20%28X%29%20-%20Programs%20of%20National%20Significance/Part%20J%20-%20Urban%20and%20Rural%20Education%20Assistance/Subpart%20002%20-%20Rural%20Education%20Demonstration%20Grants/%C2%A7%2008294%20-%20Uses%20of%20funds.md) | Uses of funds. |
+| [8291\.](Subchapter%20010%20%28X%29%20-%20Programs%20of%20National%20Significance/Part%20J%20-%20Urban%20and%20Rural%20Education%20Assistance/Subpart%20002%20-%20Rural%20Education%20Initiative/%C2%A7%2008291%20-%20Purpose.md) | Purpose. |
+| [8292\.](Subchapter%20010%20%28X%29%20-%20Programs%20of%20National%20Significance/Part%20J%20-%20Urban%20and%20Rural%20Education%20Assistance/Subpart%20002%20-%20Rural%20Education%20Initiative/%C2%A7%2008292%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [8293\.](Subchapter%20010%20%28X%29%20-%20Programs%20of%20National%20Significance/Part%20J%20-%20Urban%20and%20Rural%20Education%20Assistance/Subpart%20002%20-%20Rural%20Education%20Initiative/%C2%A7%2008293%20-%20Formula%20grant%20program%20authorized.md) | Formula grant program authorized. |
+| (a) | Alternative uses. |
+| (b) | Eligibility. |
+| (c) | Applicable funding. |
+| (d) | Disbursal. |
+| (e) | Supplement not supplant. |
+| (f) | Special rule. |
+| (g) | Construction. |
+| [8294\.](Subchapter%20010%20%28X%29%20-%20Programs%20of%20National%20Significance/Part%20J%20-%20Urban%20and%20Rural%20Education%20Assistance/Subpart%20002%20-%20Rural%20Education%20Initiative/%C2%A7%2008294%20-%20Competitive%20grant%20program%20authorized.md) | Competitive grant program authorized. |
 | (a) | In general. |
-| (b) | Applications. |
-| [8295\.](Subchapter%20010%20%28X%29%20-%20Programs%20of%20National%20Significance/Part%20J%20-%20Urban%20and%20Rural%20Education%20Assistance/Subpart%20002%20-%20Rural%20Education%20Demonstration%20Grants/%C2%A7%2008295%20-%20Higher%20education%20grants.md) | Higher education grants. |
-| (a) | Grants. |
-| (b) | Authorized activities. |
-| (c) | Applications. |
+| (b) | Eligibility. |
+| (c) | Amount. |
+| (d) | Disbursal. |
+| (e) | Supplement not supplant. |
+| [8295\.](Subchapter%20010%20%28X%29%20-%20Programs%20of%20National%20Significance/Part%20J%20-%20Urban%20and%20Rural%20Education%20Assistance/Subpart%20002%20-%20Rural%20Education%20Initiative/%C2%A7%2008295%20-%20Accountability.md) | Accountability. |
+| (a) | Academic achievement. |
+| (b) | State educational agency determination regarding continuing participation. |
+| [8296\.](Subchapter%20010%20%28X%29%20-%20Programs%20of%20National%20Significance/Part%20J%20-%20Urban%20and%20Rural%20Education%20Assistance/Subpart%20002%20-%20Rural%20Education%20Initiative/%C2%A7%2008296%20-%20Ratable%20reductions%20in%20case%20of%20insufficient%20appropriations.md) | Ratable reductions in case of insufficient appropriations. |
+| (a) | In general. |
+| (b) | Additional amounts. |
+| [8297\.](Subchapter%20010%20%28X%29%20-%20Programs%20of%20National%20Significance/Part%20J%20-%20Urban%20and%20Rural%20Education%20Assistance/Subpart%20002%20-%20Rural%20Education%20Initiative/%C2%A7%2008297%20-%20Applicability.md) | Applicability. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1840,11 +1891,26 @@ I74subpart 1—arts education
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part L—Extended Time for Learning and Longer School Year
+#### Part L—Physical Education for Progress
 
 |  |  |
 | :--- | ---: |
-| [8351\.](Subchapter%20010%20%28X%29%20-%20Programs%20of%20National%20Significance/Part%20L%20-%20Extended%20Time%20for%20Learning%20and%20Longer%20School%20Year/%C2%A7%2008351%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93277%2C%20div.%20A%2C%20%C2%A7101%28f%29%20%5Btitle%20VIII%2C%20%C2%A7301%28c%29%283%29%5D%2C%20Oct.%2021%2C%201998%2C%20112%20Stat.%202681%E2%80%93337%2C%202681%E2%80%93410.md) | Repealed. |
+| [8351\.](Subchapter%20010%20%28X%29%20-%20Programs%20of%20National%20Significance/Part%20L%20-%20Physical%20Education%20for%20Progress/%C2%A7%2008351%20-%20Purpose.md) | Purpose. |
+| [8352\.](Subchapter%20010%20%28X%29%20-%20Programs%20of%20National%20Significance/Part%20L%20-%20Physical%20Education%20for%20Progress/%C2%A7%2008352%20-%20Findings.md) | Findings. |
+| [8353\.](Subchapter%20010%20%28X%29%20-%20Programs%20of%20National%20Significance/Part%20L%20-%20Physical%20Education%20for%20Progress/%C2%A7%2008353%20-%20Program%20authorized.md) | Program authorized. |
+| [8354\.](Subchapter%20010%20%28X%29%20-%20Programs%20of%20National%20Significance/Part%20L%20-%20Physical%20Education%20for%20Progress/%C2%A7%2008354%20-%20Applications%3B%20program%20elements.md) | Applications; program elements. |
+| (a) | Applications. |
+| (b) | Program elements. |
+| (c) | Special rule. |
+| [8355\.](Subchapter%20010%20%28X%29%20-%20Programs%20of%20National%20Significance/Part%20L%20-%20Physical%20Education%20for%20Progress/%C2%A7%2008355%20-%20Proportionality.md) | Proportionality. |
+| [8356\.](Subchapter%20010%20%28X%29%20-%20Programs%20of%20National%20Significance/Part%20L%20-%20Physical%20Education%20for%20Progress/%C2%A7%2008356%20-%20Private%20school%20students%20and%20home-schooled%20students.md) | Private school students and home-schooled students. |
+| [8357\.](Subchapter%20010%20%28X%29%20-%20Programs%20of%20National%20Significance/Part%20L%20-%20Physical%20Education%20for%20Progress/%C2%A7%2008357%20-%20Report%20required%20for%20continued%20funding.md) | Report required for continued funding. |
+| [8358\.](Subchapter%20010%20%28X%29%20-%20Programs%20of%20National%20Significance/Part%20L%20-%20Physical%20Education%20for%20Progress/%C2%A7%2008358%20-%20Report%20to%20Congress.md) | Report to Congress. |
+| [8359\.](Subchapter%20010%20%28X%29%20-%20Programs%20of%20National%20Significance/Part%20L%20-%20Physical%20Education%20for%20Progress/%C2%A7%2008359%20-%20Administrative%20costs.md) | Administrative costs. |
+| [8360\.](Subchapter%20010%20%28X%29%20-%20Programs%20of%20National%20Significance/Part%20L%20-%20Physical%20Education%20for%20Progress/%C2%A7%2008360%20-%20Federal%20share%3B%20supplement%20not%20supplant.md) | Federal share; supplement not supplant. |
+| (a) | Federal share. |
+| (b) | Supplement not supplant. |
+| [8361\.](Subchapter%20010%20%28X%29%20-%20Programs%20of%20National%20Significance/Part%20L%20-%20Physical%20Education%20for%20Progress/%C2%A7%2008361%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -2165,11 +2231,11 @@ I74subpart 1—arts education
 
 #### Codification
 
-The Elementary and Secondary Education Act of 1965, comprising this chapter, was originally enacted as Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, and amended by Pub. L. 89–750, Nov. 3, 1966, 80 Stat. 1191; Pub. L. 90–247, Jan. 2, 1968, 81 Stat. 783; Pub. L. 90–576, title III, §307, Oct. 16, 1968, 82 Stat. 1097; Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 121; Pub. L. 92–318, June 23, 1972, 86 Stat. 235; Pub. L. 93–380, Aug. 21, 1974, 88 Stat. 484; Pub. L. 94–193, §1(c), Dec. 31, 1975, 89 Stat. 1102; Pub. L. 94–273, §§2(12), 3(8), 49(a)–(c), Apr. 21, 1976, 90 Stat. 375, 376, 382; Pub. L. 94–482, Oct. 12, 1976, 90 Stat. 2081; Pub. L. 95–112, Aug. 24, 1977, 91 Stat. 911, and was classified to sections 241a et seq., 242 et seq., 331 et seq., 821 et seq., and 1801 et seq. of this title. The Act was subsequently extensively revised and restated by Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143, and amended by Pub. L. 96–46, Aug. 6, 1979, 93 Stat. 338; Pub. L. 96–88, Oct. 17, 1979, 93 Stat. 668; Pub. L. 96–374, Oct. 3, 1980, 94 Stat. 1367; Pub. L. 96–470, Oct. 19, 1980, 94 Stat. 2237; Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 357; Pub. L. 98–211, Dec. 8, 1983, 97 Stat. 1412; Pub. L. 98–511, Oct. 19, 1984, 98 Stat. 2366; Pub. L. 98–524, Oct. 19, 1984, 98 Stat. 2435; Pub. L. 99–159, Nov. 22, 1985, 99 Stat. 887, and was classified to section 2701 et seq. of this title. The Act was subsequently extensively revised and restated by Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 130, and amended by Pub. L. 100–569, Oct. 31, 1988, 102 Stat. 2862; Pub. L. 100–570, Oct. 31, 1988, 102 Stat. 2865; Pub. L. 100–690, Nov. 18, 1988, 102 Stat. 4181; Pub. L. 101–226, Dec. 12, 1989, 103 Stat. 1928; Pub. L. 101–250, Mar. 6, 1990, 104 Stat. 96; Pub. L. 101–476, Oct. 30, 1990, 104 Stat. 1103; Pub. L. 101–589, Nov. 16, 1990, 104 Stat. 2881; Pub. L. 101–600, Nov. 16, 1990, 104 Stat. 3042; Pub. L. 101–647, Nov. 29, 1990, 104 Stat. 4789; Pub. L. 102–62, June 27, 1991, 105 Stat. 305; Pub. L. 102–73, July 25, 1991, 105 Stat. 333; Pub. L. 102–103, Aug. 17, 1991, 105 Stat. 497; Pub. L. 102–325, July 23, 1992, 106 Stat. 448; Pub. L. 102–359, Aug. 26, 1992, 106 Stat. 962; Pub. L. 102–545, Oct. 27, 1992, 106 Stat. 3586; Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125; Pub. L. 103–252, May 18, 1994, 108 Stat. 623, and was classified to section 2701 et seq. of this title. The Act is shown, herein, however, as having been added by Pub. L. 103–382 without reference to such intervening amendments because of the extensive amendments, renumbering, reorganization of subject matter, and expansion of the basic 1965 Act's provisions by Pub. L. 103–382.
+The Elementary and Secondary Education Act of 1965, comprising this chapter, was originally enacted asPub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, and amended by Pub. L. 89–750, Nov. 3, 1966, 80 Stat. 1191; Pub. L. 90–247, Jan. 2, 1968, 81 Stat. 783; Pub. L. 90–576, title III, §307, Oct. 16, 1968, 82 Stat. 1097; Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 121; Pub. L. 92–318, June 23, 1972, 86 Stat. 235; Pub. L. 93–380, Aug. 21, 1974, 88 Stat. 484; Pub. L. 94–193, §1(c), Dec. 31, 1975, 89 Stat. 1102; Pub. L. 94–273, §§2(12), 3(8), 49(a)–(c), Apr. 21, 1976, 90 Stat. 375, 376, 382; Pub. L. 94–482, Oct. 12, 1976, 90 Stat. 2081; Pub. L. 95–112, Aug. 24, 1977, 91 Stat. 911, and was classified to sections 241a et seq., 242 et seq., 331 et seq., 821 et seq., and 1801 et seq. of this title. The Act was subsequently extensively revised and restated by Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143, and amended by Pub. L. 96–46, Aug. 6, 1979, 93 Stat. 338; Pub. L. 96–88, Oct. 17, 1979, 93 Stat. 668; Pub. L. 96–374, Oct. 3, 1980, 94 Stat. 1367; Pub. L. 96–470, Oct. 19, 1980, 94 Stat. 2237; Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 357; Pub. L. 98–211, Dec. 8, 1983, 97 Stat. 1412; Pub. L. 98–511, Oct. 19, 1984, 98 Stat. 2366; Pub. L. 98–524, Oct. 19, 1984, 98 Stat. 2435; Pub. L. 99–159, Nov. 22, 1985, 99 Stat. 887, and was classified to section 2701 et seq. of this title. The Act was subsequently extensively revised and restated by Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 130, and amended by Pub. L. 100–569, Oct. 31, 1988, 102 Stat. 2862; Pub. L. 100–570, Oct. 31, 1988, 102 Stat. 2865; Pub. L. 100–690, Nov. 18, 1988, 102 Stat. 4181; Pub. L. 101–226, Dec. 12, 1989, 103 Stat. 1928; Pub. L. 101–250, Mar. 6, 1990, 104 Stat. 96; Pub. L. 101–476, Oct. 30, 1990, 104 Stat. 1103; Pub. L. 101–589, Nov. 16, 1990, 104 Stat. 2881; Pub. L. 101–600, Nov. 16, 1990, 104 Stat. 3042; Pub. L. 101–647, Nov. 29, 1990, 104 Stat. 4789; Pub. L. 102–62, June 27, 1991, 105 Stat. 305; Pub. L. 102–73, July 25, 1991, 105 Stat. 333; Pub. L. 102–103, Aug. 17, 1991, 105 Stat. 497; Pub. L. 102–325, July 23, 1992, 106 Stat. 448; Pub. L. 102–359, Aug. 26, 1992, 106 Stat. 962; Pub. L. 102–545, Oct. 27, 1992, 106 Stat. 3586; Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125; Pub. L. 103–252, May 18, 1994, 108 Stat. 623, and was classified to section 2701 et seq. of this title. The Act is shown, herein, however, as having been added by Pub. L. 103–382 without reference to such intervening amendments because of the extensive amendments, renumbering, reorganization of subject matter, and expansion of the basic 1965 Act's provisions by Pub. L. 103–382.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1228c, 1453, 5893, 6143 of this title; title 8 section 1613; title 29 section 1533; title 42 sections 2000d–5, 2753, 5667e–5, 9832.
+This chapter is referred to in sections 1228c, 1453, 5893, 6143 of this title; title 8 section 1613; title 42 sections 2000d–5, 2753, 5667e–5, 9832.
 
 
 ---

@@ -30,7 +30,7 @@ In clause (2), the words “fined under title 18, imprisoned under section 9 of 
 
 #### References in Text
 
-Section 9 of the Act of July 29, 1892, referred to in par. (2), is section 9 of act July 29, 1892, ch. 320, 27 Stat. 324, as amended, which appears in section 22–1112 of Title 22, Criminal Offenses, of the District of Columbia Code.
+Section 9 of the Act of July 29, 1892, referred to in par. (2), is section 9 of act July 29, 1892, ch. 320, 27 Stat. 324, as amended, which is not classified to the Code.
 
 #### Section Referred to in Other Sections
 

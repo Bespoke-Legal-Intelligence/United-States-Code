@@ -32,7 +32,7 @@
 | (e) | “Regular rate” defined. |
 | (f) | Employment necessitating irregular hours of work. |
 | (g) | Employment at piece rates. |
-| (h) | Extra compensation creditable toward overtime compensation. |
+| (h) | Credit toward minimum wage or overtime compensation of amounts excluded from regular rate. |
 | (i) | Employment by retail or service establishment. |
 | (j) | Employment in hospital or establishment engaged in care of sick, aged, or mentally ill. |
 | (k) | Employment by public agency engaged in fire protection or law enforcement activities. |
@@ -94,7 +94,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 251 to 262, 721, 1802 of this title; title 2 sections 60k, 1302, 1313, 1371, 1434; title 3 sections 402, 413; title 5 section 2105; title 7 sections 2015, 2026, 2029; title 15 sections 1014, 3152; title 38 section 1718; title 41 section 355; title 42 sections 3056, 5044, 8009, 8011, 12655<i>l.</i>
+This chapter is referred to in sections 251 to 262, 721, 1802 of this title; title 2 sections 60k, 1302, 1313, 1371, 1434; title 3 sections 402, 413; title 5 section 2105; title 7 sections 2015, 2026, 2029; title 15 sections 1014, 3152; title 18 section 1593; title 22 section 7109; title 38 section 1718; title 41 section 355; title 42 sections 3056, 5044, 8009, 8011, 12655<i>l.</i>
 
 
 ---

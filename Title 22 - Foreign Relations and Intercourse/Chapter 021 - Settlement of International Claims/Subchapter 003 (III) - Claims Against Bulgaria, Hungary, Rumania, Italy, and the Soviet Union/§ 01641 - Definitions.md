@@ -16,7 +16,7 @@ As used in this subchapter the term—
 
 &emsp;(7) “Russian national” includes any corporation or business association organized under the laws, decrees, ordinances, or acts of the former Empire of Russia or of any government successor thereto, and subsequently nationalized or dissolved or whose assets were taken over by the Soviet Government or which was merged with any other corporation or organization by the Soviet Government.
 
-&emsp;(8) “Commission” means the Foreign Claims Settlement Commission of the United States, established pursuant to Reorganization Plan Numbered 1 of 1954 (68 Stat. 1279).
+&emsp;(8) “Commission” means the Foreign Claims Settlement Commission of the United States,established pursuant to Reorganization Plan Numbered 1 of 1954 (68 Stat. 1279).
 
 &emsp;(9) “Property” means any property, right, or interest.
 

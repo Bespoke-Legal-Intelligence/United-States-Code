@@ -40,19 +40,3 @@ Amendment by act June 25, 1948, effective Sept. 1, 1948, see section 38 of that 
 
 Section 39 of act June 25, 1948, repealed section 1 of act Feb. 13, 1925, ch. 229, 43 Stat. 936, formerly cited as a credit to this section, which authorized review in the Circuit Court of Appeals in the First Circuit.
 
-#### Federal Rules of Civil Procedure
-
-Application of rules, see rule 1, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-#### Federal Rules of Criminal Procedure
-
-Application of rules, see note by Advisory Committee under rule 54, Title 18, Appendix, Crimes and Criminal Procedure.
-
-#### Cross References
-
-Removal of cases from State courts, see section 1441 et seq. of Title 28, Judiciary and Judicial Procedure.
-
-Review generally, see section 2101 et seq. of Title 28.
-
-Supreme Court, jurisdiction and venue generally, see section 1251 et seq. of Title 28.
-

@@ -1,6 +1,6 @@
 ### §13105. Computation decisions about State amounts expended
 
-(a) Consistent with regulations prescribed by the Secretary, the computation by a State of amounts expended for the State recreational boating safety program shall include—
+(a) Consistent with regulations prescribed by the Secretary, the computation by a State ofamounts expended for the State recreational boating safety program shall include—
 
 &emsp;(1) the acquisition, maintenance, and operating costs of land, facilities, equipment, and supplies;
 

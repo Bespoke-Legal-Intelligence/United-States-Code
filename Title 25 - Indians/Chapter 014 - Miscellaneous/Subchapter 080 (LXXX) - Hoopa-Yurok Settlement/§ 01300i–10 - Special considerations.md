@@ -2,7 +2,7 @@
 
 #### (a) Estate for Smokers family
 
-The 20 acre land assignment on the Hoopa Valley Reservation made by the Hoopa Area Field Office of the Bureau of Indian Affairs on August 25, 1947, to the Smokers family shall continue in effect and may pass by descent or devise to any blood relative or relatives of one-fourth or moreIndian blood of those family members domiciled on the assignment on October 31, 1988.
+The 20 acre land assignment on the Hoopa Valley Reservation made by the Hoopa Area Field Office of the Bureau of Indian Affairs on August 25, 1947, to the Smokers family shall continue in effect and may pass by descent or devise to any blood relative or relatives of one-fourth or more Indian blood of those family members domiciled on the assignment on October 31, 1988.
 
 #### (b) Rancheria merger with Yurok Tribe
 

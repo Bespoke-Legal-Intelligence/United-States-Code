@@ -24,11 +24,11 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1992—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1992</b>—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-1982—Pub. L. 97–164 substituted “The judgment of the United States Claims Court in such suit shall be conclusive” for “The judgment of the Court of Claims in such suit, or of the Supreme Court upon review, shall be conclusive”.
+<b>1982</b>—Pub. L. 97–164 substituted “The judgment of the United States Claims Court in such suit shall be conclusive” for “The judgment of the Court of Claims in such suit, or of the Supreme Court upon review, shall be conclusive”.
 
-1953—Act July 28, 1953, inserted “to the Comptroller General,” in first par., struck out third par. which provided for accrual to the United States of a right of action upon the judgment, with a limitation period extending to three years after judgment, and inserted provisions for filing and recording the transcript of such judgment in the clerk's office of any district court and for enforcement thereof.
+<b>1953</b>—Act July 28, 1953, inserted “to the Comptroller General,” in first par., struck out third par. which provided for accrual to the United States of a right of action upon the judgment, with a limitation period extending to three years after judgment, and inserted provisions for filing and recording the transcript of such judgment in the clerk's office of any district court and for enforcement thereof.
 
 #### Effective Date of 1992 Amendment
 

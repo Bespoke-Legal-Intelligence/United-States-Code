@@ -56,7 +56,7 @@
 
 (4) The provisions of this section relating to an officer or employee of the United States or a member of the Armed Forces do not apply to a member of a reserve component of the Armed Forces unless that member is in an active status.
 
-(e)(1) The Federal Advisory Committee Act (5 U.S.C. App. 1 et seq.) applies to the Committee, except that the Committee terminates on September 30, 2000.
+(e)(1) The Federal Advisory Committee Act (5 U.S.C. App. 1 et seq.) applies to the Committee,except that the Committee terminates on September 30, 2000.
 
 (2) Two years prior to the termination date referred to in paragraph (1) of this subsection, the Committee shall submit to Congress its recommendation regarding whether the Committee should be renewed and continued beyond the termination date.
 

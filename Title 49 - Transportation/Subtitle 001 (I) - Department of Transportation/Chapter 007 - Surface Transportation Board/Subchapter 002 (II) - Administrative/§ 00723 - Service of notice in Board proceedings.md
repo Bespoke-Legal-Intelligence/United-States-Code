@@ -2,7 +2,7 @@
 
 (a)
 
-Designation of Agent.—A carrier providing transportation subject to the jurisdiction ofthe Board under subtitle IV shall designate an agent in the District of Columbia, on whom service of notices in a proceeding before, and of actions of, the Board may be made.
+Designation of Agent.—A carrier providing transportation subject to the jurisdiction of the Board under subtitle IV shall designate an agent in the District of Columbia, on whom service of notices in a proceeding before, and of actions of, the Board may be made.
 
 (b)
 

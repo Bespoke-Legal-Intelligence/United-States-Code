@@ -2,7 +2,7 @@
 
 #### Codification
 
-Section, act July 1, 1946, ch. 530, §106, 60 Stat. 408, which authorized the Capitol Police Board to detail police for duty on the Capitol grounds, was omitted as not repeated in subsequent appropriation acts. See section 212a of this title. Similar provisions were contained in the following prior appropriation acts:
+Section, act July 1, 1946, ch. 530, §106, 60 Stat. 408, which authorized the Capitol Police Board to detail police for duty on the Capitol grounds, was omitted as not repeated in subsequent appropriation acts. See section 212a–1 of this title. Similar provisions were contained in the following prior appropriation acts:
 
 June 13, 1945, ch. 189, §106, 59 Stat. 259.
 

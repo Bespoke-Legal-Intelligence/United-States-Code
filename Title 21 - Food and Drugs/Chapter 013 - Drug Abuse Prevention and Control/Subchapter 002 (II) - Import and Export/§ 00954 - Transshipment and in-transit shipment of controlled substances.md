@@ -20,5 +20,5 @@ Schedules I, II, III, and IV, referred to in text, are set out in section 812(c)
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 956, 961 of this title.
+This section is referred to in sections 830, 956, 961 of this title.
 

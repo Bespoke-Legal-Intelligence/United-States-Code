@@ -21,10 +21,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Cross References
-
-Definition of “Foreign government”, see section 11 of Title 18, Crimes and Criminal Procedure.
-
 
 ---
 

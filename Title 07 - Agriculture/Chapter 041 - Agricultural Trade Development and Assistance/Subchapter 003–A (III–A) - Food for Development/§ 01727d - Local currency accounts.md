@@ -6,7 +6,7 @@ To the extent determined to be appropriate by the Administrator, revenues genera
 
 &emsp;(1) local currencies are to be programmed for specific economic development purposes listed in section 1727e(a) of this title; and
 
-&emsp;(2) the recipient country programs an equivalent amount of money for such purposes as specified in an agreement entered into by the Administrator and the recipient country.
+&emsp;(2) the recipient country programs an equivalent amount of money for such purposes asspecified in an agreement entered into by the Administrator and the recipient country.
 
 #### (b) Ownership and programming of accounts
 

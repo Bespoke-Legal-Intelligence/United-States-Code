@@ -18,7 +18,7 @@ An agreement entered into under subsection (a) of this section shall provide tha
 
 #### (c) Information which may be disclosed
 
-Information authorized to be provided by the Secretary under subsection (a), (b), (e), or (f) of this section shall be subject to the same conditions with respect to disclosure as information authorized to be provided under section 653 of this title, and a request for information by the Secretary under this section shall be considered to be a request for information under section 653 of this title which is authorized to be provided under such section. Only information as to the most recent address and place of employment of any parent or child shall be provided under this section.
+Information authorized to be provided by the Secretary under subsection (a), (b), (e), or (f) of this section shall be subject to the same conditions with respect to disclosure as information authorized to be provided under section 653 of this title, and a request for information by the Secretary under this section shall be considered to be a request for information under section 653 of this title which is authorized to be providedunder such section. Only information as to the most recent address and place of employment of any parent or child shall be provided under this section.
 
 #### (d) “Custody or visitation determination” and “authorized person” defined
 
@@ -48,7 +48,7 @@ The Secretary shall enter into an agreement with the Attorney General of the Uni
 
 > The Federal Parent Locator Service shall charge no fees for services requested pursuant to this subsection.
 
-(Aug. 14, 1935, ch. 531, title IV, §463, as added Pub. L. 96–611, §9(b), Dec. 28, 1980, 94 Stat. 3572; amended Pub. L. 100–300, §11, Apr. 29, 1988, 102 Stat. 441; Pub. L. 103–432, title II, §214(a), (b),Oct. 31, 1994, 108 Stat. 4461; Pub. L. 104–193, title III, §§316(e)(1), 395(d)(1)(G), Aug. 22, 1996, 110 Stat. 2215, 2259; Pub. L. 105–33, title V, §5534(b), Aug. 5, 1997, 111 Stat. 629.)
+(Aug. 14, 1935, ch. 531, title IV, §463, as added Pub. L. 96–611, §9(b), Dec. 28, 1980, 94 Stat. 3572; amended Pub. L. 100–300, §11, Apr. 29, 1988, 102 Stat. 441; Pub. L. 103–432, title II, §214(a), (b), Oct. 31, 1994, 108 Stat. 4461; Pub. L. 104–193, title III, §§316(e)(1), 395(d)(1)(G), Aug. 22, 1996, 110 Stat. 2215, 2259; Pub. L. 105–33, title V, §5534(b), Aug. 5, 1997, 111 Stat. 629.)
 
 #### Amendments
 

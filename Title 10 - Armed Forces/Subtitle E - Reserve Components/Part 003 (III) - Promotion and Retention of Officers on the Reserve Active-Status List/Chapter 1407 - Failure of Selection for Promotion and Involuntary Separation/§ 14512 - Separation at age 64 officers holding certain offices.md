@@ -14,10 +14,6 @@ Navy and Marine Corps.—The Secretary of the Navy may defer the retirement unde
 
 Provisions similar to those in this section were contained in sections 3845, 6391(b), and 8845 of this title, prior to repeal by Pub. L. 103–337, §1629(a)(3), (b)(3), (c)(3).
 
-#### Cross References
-
-Adjutants general and assistant adjutants general, reference as applicable to other officers of National Guard, see section 10214 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 10214, 14510, 14511, 14515 of this title.

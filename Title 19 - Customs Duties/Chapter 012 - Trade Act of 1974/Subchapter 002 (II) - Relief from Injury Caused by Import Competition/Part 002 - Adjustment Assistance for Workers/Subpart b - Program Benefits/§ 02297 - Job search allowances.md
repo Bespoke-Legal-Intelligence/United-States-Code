@@ -32,10 +32,6 @@ The Secretary shall reimburse any adversely affected worker for necessary expens
 
 (Pub. L. 93–618, title II, §237, Jan. 3, 1975, 88 Stat. 2023; Pub. L. 97–35, title XXV, §2507, Aug. 13, 1981, 95 Stat. 886; Pub. L. 98–369, div. B, title VI, §2672(a), July 18, 1984, 98 Stat. 1172; Pub. L. 99–272, title XIII, §13005(a), Apr. 7, 1986, 100 Stat. 303.)
 
-#### Termination of Section
-
-<i>For termination of section by section 285 of Pub. L. 93–618, see Termination Date note set out preceding section 2271 of this title.</i>
-
 #### Amendments
 
 1986—Subsec. (c). Pub. L. 99–272 added subsec. (c).
@@ -51,6 +47,10 @@ Subsec. (b)(3). Pub. L. 97–35, §2507(2)(B), amended par. (3) generally, subst
 #### Effective Date of 1981 Amendment and Transition Provisions
 
 Amendment by Pub. L. 97–35 effective for determinations made or filed after Sept. 30, 1981, with transition provisions applicable, see section 2514 of Pub. L. 97–35, set out as a note under section 2291 of this title.
+
+#### Termination Date
+
+No assistance, vouchers, allowances, or other payments may be provided under subparts A to C of this part after Sept. 30, 2001, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Placement Program.—The Secretary of Defense, and the Secretary of Transportation with respect to the Coast Guard, may establish a program to assist eligible members of the armed forces to obtain employment with health care providers upon their discharge or release from active duty.
+Placement Program.—The Secretary of Defense, and the Secretary of Transportation with respect to the Coast Guard, may establish a program to assist eligible members of thearmed forces to obtain employment with health care providers upon their discharge or release from active duty.
 
 (b)
 
@@ -32,7 +32,7 @@ Selection of Participants.—(1) The Secretary of Defense, and the Secretary of 
 
 Grants to Facilitate Employment.—(1) The Secretary of Defense and the Secretary of Transportation may enter into an agreement with a health care provider to assist eligible members selected under subsection (c) to obtain suitable employment with the health care provider. Under such an agreement, a health care provider shall agree to employ a participant in the program on a full-time basis for at least five years.
 
-(2) Under an agreement referred to in paragraph (1), the Secretary concerned shall agree topay to the health care provider involved an amount based upon the basic salary paid by the health care provider to the participant. The rate of payment by the Secretary concerned shall be as follows:
+(2) Under an agreement referred to in paragraph (1), the Secretary concerned shall agree to pay to the health care provider involved an amount based upon the basic salary paid by the health care provider to the participant. The rate of payment by the Secretary concerned shall be as follows:
 
 &emsp;(A) For the first year of employment, 50 percent of the basic salary, except that the payment may not exceed $25,000.
 

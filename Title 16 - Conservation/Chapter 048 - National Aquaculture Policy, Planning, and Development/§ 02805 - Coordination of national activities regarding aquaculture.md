@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established within the Office of Science and Technology Policy an interagency aquaculture coordinating group that shall, subject to subsection (f) of this section, operate as a Joint Subcommittee on Aquaculture of the Federal Coordinating Council on Science, Engineering, and Technology (hereinafter in this section referred to as the “Federal Council”) established by Executive Order 12039, dated February 24, 1978. The coordinating group shall be composed of the following members or their designees:
+There is established within the Office of Science and Technology Policy an interagencyaquaculture coordinating group that shall, subject to subsection (f) of this section, operate as a Joint Subcommittee on Aquaculture of the Federal Coordinating Council on Science, Engineering, and Technology (hereinafter in this section referred to as the “Federal Council”) established by Executive Order 12039, dated February 24, 1978. The coordinating group shall be composed of the following members or their designees:
 
 &emsp;(1) The Secretary of Agriculture, who shall be the permanent chairman of the coordinating group.
 
@@ -52,7 +52,7 @@ The coordinating group shall regularly report to the Chairman of the Federal Cou
 
 #### (d) Federal consistency
 
-Each Federal department and agency that has functions or responsibilities with respect to aquaculture or has jurisdiction over any activity that affects, or that may affect, the achievement of the purpose and policy of this chapter, shall, in consultation with the coordinating group and to the maximum extent practicable,perform such function, responsibility, or activity in a manner that is consistent with the purpose and policy of this chapter.
+Each Federal department and agency that has functions or responsibilities with respect to aquaculture or has jurisdiction over any activity that affects, or that may affect, the achievement of the purpose and policy of this chapter, shall, in consultation with the coordinating group and to the maximum extent practicable, perform such function, responsibility, or activity in a manner that is consistent with the purpose and policy of this chapter.
 
 #### (e) Functions if Federal Council terminated
 

@@ -8,7 +8,3 @@ Whenever a development of power is necessary for the irrigation of lands, under 
 
 The said reclamation Act, referred to in text, means act June 17, 1902, ch. 1093, 32 Stat. 388, as amended, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 371 of this title and Tables.
 
-#### Cross References
-
-Sale of electric power and lease of power privileges, see section 485h of this title.
-

@@ -6,7 +6,7 @@ Permits issued under this subchapter shall designate and include (1) the type of
 
 #### (b) Permit processing fees; reporting requirements
 
-The Administrator or the Secretary, as the case may be, may prescribe such processing feesfor permits and such reporting requirements for actions taken pursuant to permits issued by him under this subchapter as he deems appropriate.
+The Administrator or the Secretary, as the case may be, may prescribe such processing fees for permits and such reporting requirements for actions taken pursuant to permits issued by him under this subchapter as he deems appropriate.
 
 #### (c) General permits
 
@@ -108,7 +108,7 @@ Subsec. (d). Pub. L. 102–580, §507(c), inserted “, based upon monitoring d
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 
-Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. For treatment of references to Committee on Merchant Marine and Fisheries, see section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdictiontransferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. For treatment of references to Committee on Merchant Marine and Fisheries, see section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

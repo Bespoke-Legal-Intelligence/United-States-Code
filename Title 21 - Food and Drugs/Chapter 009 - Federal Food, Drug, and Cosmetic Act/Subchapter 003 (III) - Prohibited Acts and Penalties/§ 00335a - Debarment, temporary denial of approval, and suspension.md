@@ -4,7 +4,7 @@
 
 #### (1) Corporations, partnerships, and associations
 
-&emsp;If the Secretary finds that a person other than an individual has been convicted, after May 13, 1992, of a felony under Federal law for conduct relating to the development or approval, including the process for development or approval, of any abbreviated drug application, the Secretary shall debar such personfrom submitting, or assisting in the submission of, any such application.
+&emsp;If the Secretary finds that a person other than an individual has been convicted, after May 13, 1992, of a felony under Federal law for conduct relating to the development or approval, including the process for development or approval, of any abbreviated drug application, the Secretary shall debar such person from submitting, or assisting in the submission of, any such application.
 
 #### (2) Individuals
 
@@ -88,7 +88,7 @@
 
 &emsp;&emsp;(A) shall not accept or review (other than in connection with an audit under this section) any abbreviated drug application submitted by or with the assistance of a person debarred under subsection (a)(1) or (b)(2)(A) of this section during the period such person is debarred,
 
-&emsp;&emsp;(B) shall, during the period of a debarment under subsection (a)(2) or (b)(2)(B) of this section, debar an individual from providing services in any capacity to a person that has an approved or pending drug product application and shall not accept or review (other than in connection with an audit under this section) an abbreviated drug application from such individual, and
+&emsp;&emsp;(B) shall, during the period of a debarment under subsection (a)(2) or (b)(2)(B) of thissection, debar an individual from providing services in any capacity to a person that has an approved or pending drug product application and shall not accept or review (other than in connection with an audit under this section) an abbreviated drug application from such individual, and
 
 &emsp;&emsp;(C) shall, if the Secretary makes the finding described in paragraph (6) or (7) of section 335b(a) of this title, assess a civil penalty in accordance with section 335b of this title.
 
@@ -150,9 +150,9 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) changes in ownership, management, or operations have fully corrected the causes of the offense involved and provide reasonable assurances that the offense will not occur in the future, and
 
-&emsp;&emsp;&emsp;&emsp;(II) sufficient audits, conducted by the Food and Drug Administration or byindependent experts acceptable to the Food and Drug Administration, demonstrate that pending applications and the development of drugs being tested before the submission of an application are free of fraud or material false statements.
+&emsp;&emsp;&emsp;&emsp;(II) sufficient audits, conducted by the Food and Drug Administration or by independent experts acceptable to the Food and Drug Administration, demonstrate that pending applications and the development of drugs being tested before the submission of an application are free of fraud or material false statements.
 
-&emsp;&emsp;&nbsp;In the case of persons debarred under subsection (a)(1) of this section, such termination shall take effect no earlier than the expiration of one year from the date of the debarment.
+&emsp;&emsp;&nbsp;In the case of persons debarred under subsection (a)(1) of this section, such termination shall take effect no earlier than theexpiration of one year from the date of the debarment.
 
 #### (B) Individuals
 
@@ -214,7 +214,7 @@ The Secretary shall publish in the Federal Register the name of any person debar
 
 &emsp;&emsp;(B) if the Secretary finds that such person—
 
-&emsp;&emsp;&emsp;(i) has bribed or attempted to bribe, has paid or attempted to pay an illegal gratuity, or has induced or attempted to induce another person to bribe or pay an illegalgratuity to any officer, employee, or agent of the Department of Health and Human Services or to any other Federal, State, or local official in connection with any abbreviated drug application, or has conspired to commit, or aided or abetted, such actions, or
+&emsp;&emsp;&emsp;(i) has bribed or attempted to bribe, has paid or attempted to pay an illegal gratuity, or has induced or attempted to induce another person to bribe or pay an illegal gratuity to any officer, employee, or agent of the Department of Health and Human Services or to any other Federal, State, or local official in connection with any abbreviated drug application, or has conspired to commit, or aided or abetted, such actions, or
 
 &emsp;&emsp;&emsp;(ii) has knowingly made or caused to be made a pattern or practice of false statements or misrepresentations with respect to material facts relating to any abbreviated drug application, or the production of any drug subject to an abbreviated drug application, to any officer, employee, or agent of the Department of Health and Human Services, or has conspired to commit, or aided or abetted, such actions, and
 

@@ -86,7 +86,7 @@ Any agreement to maintain the low-income affordability restrictions for the rema
 
 &emsp;&emsp;&emsp;(i) Subject to availability of amounts provided in appropriations Acts, provide assistance under sections 1437f(b) and 1437f(<i>o</i>) of title 42 (other than project-based assistance attached to the housing) for any tenant eligible for such assistance who desires to terminate occupancy in the housing. For each unit in the housing vacated pursuant to the provision of assistance under this clause, the Secretary may, notwithstanding any other law or contract for assistance, cancel the provision of project-based assistance attached to the housing for 1 dwelling unit, if the housing is receiving such assistance.
 
-&emsp;&emsp;&emsp;(ii) In the case of housing for which an equity take-out loan has been made under section 1715z–6(f) <sup>4</sup> of this title, declaresuch loan to be in default and accelerate the maturity date of the loan.
+&emsp;&emsp;&emsp;(ii) In the case of housing for which an equity take-out loan has been made under section 1715z–6(f) <sup>4</sup> of this title, declare such loan to be in default and accelerate the maturity date of the loan.
 
 &emsp;&emsp;&emsp;(iii) Declare any rehabilitation loan insured or provided by the Secretary (with respect to the housing) to be in default and accelerate the maturity date of the loan.
 
@@ -98,7 +98,7 @@ Any agreement to maintain the low-income affordability restrictions for the rema
 
 #### References in Text
 
-This title, referred to in subsecs. (a)(1) and (c)(1), means title II of Pub. L. 100–242, as amended by Pub. L. 101–625, title VI, §601(a), Nov. 28, 1990, 104 Stat. 4249, known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
+This title, referred to in subsecs. (a)(1) and (c)(1), means title II of Pub. L. 100–242, as amended by Pub. L. 101–625, title VI, §601(a), Nov. 28, 1990, 104 Stat. 4249,known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
 
 Section 1715z–6(f) of this title, referred to in subsec. (d)(2)(A)(i), (C)(ii), was repealed by Pub. L. 104–204, title II, Sept. 26, 1996, 110 Stat. 2885.
 
@@ -144,7 +144,7 @@ Subsec. (d)(2)(C)(ii). Pub. L. 102–550, §317(a)(4)(D), substituted “in defa
 
 Subsec. (e). Pub. L. 102–550, §308(a), struck out subsec. (e) which read as follows: “(e)
 
-Windfall Profits.—The Secretary shall submit a report to the Congress not later than 90 days after November 28, 1990, evaluating the availability, quality, and reliability of data to measure the accessibility of decent, affordable housing in all areas where properties are eligible to submit a notice of intent to prepay under section 4102 of this title. To prevent payment of windfall profits, the Secretary may make available incentive payments under section 4109 or 4110 of this title only to owners in those rental markets where there is an inadequate supply ofdecent, affordable housing, if the Secretary determines that adequate data can be obtained to permit objective and fair implementation or where necessary to accomplish the other public policy objectives under this chapter. The Secretary shall implement this subsection in a manner consistent with the process established by this chapter.”
+Windfall Profits.—The Secretary shall submit a report to the Congress not later than 90 days after November 28, 1990, evaluating the availability, quality, and reliability of data to measure the accessibility of decent, affordable housing in all areas where properties are eligible to submit a notice of intent to prepay under section 4102 of this title. To prevent payment of windfall profits, the Secretary may make available incentive payments under section 4109 or 4110 of this title only to owners in those rental markets where there is an inadequate supply of decent, affordable housing, if the Secretary determines that adequate data can be obtained to permit objective and fair implementation or where necessary to accomplish the other public policy objectives under this chapter. The Secretary shall implement this subsection in a manner consistent with the process established by this chapter.”
 
 #### Effective and Termination Dates of 1994 Amendment
 
@@ -154,7 +154,7 @@ Section 601(f) of title VI of S. 2281, One-Hundred Third Congress, as reported J
 
 “(1)
 
-In general.—Except as provided in paragraph (2), this section \[amending this section and section 4119 of this title\] shall take effect on the date of enactment of this Act \[Sept. 28, 1994\].
+In general.—Except as provided in paragraph (2), this section \[amending this section and section 4119 ofthis title\] shall take effect on the date of enactment of this Act \[Sept. 28, 1994\].
 
 “(2)
 

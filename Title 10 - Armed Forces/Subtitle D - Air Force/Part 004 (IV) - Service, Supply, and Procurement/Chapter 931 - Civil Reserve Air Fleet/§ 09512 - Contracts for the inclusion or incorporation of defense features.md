@@ -44,11 +44,11 @@ Authority To Contract and Pay Directly.—(1) A contract under subsection (a) fo
 
 Exclusivity of Commitment to Civil Reserve Air Fleet.—Notwithstanding section 101 of the Defense Production Act of 1950 (50 U.S.C. App. 2071), each aircraft covered by a contract entered into under this section shall be committed exclusively to the Civil Reserve Air Fleet for use by the Department of Defense as needed during any activation of the Civil Reserve Air Fleet unless the aircraft is released from that use by the Secretary of Defense.
 
-(Added Pub. L. 97–86, title IX, §915(2), Dec. 1, 1981, 95 Stat. 1126; amended Pub. L. 98–525, title XIV, §1405(57), Oct. 19, 1984, 98 Stat. 2626; Pub. L. 101–189, div. A, title XVI, §1636(b), Nov. 29, 1989,103 Stat. 1609; Pub. L. 103–272, §5(b)(3), July 5, 1994, 108 Stat. 1373; Pub. L. 103–355, title III, §3032(1)–(8), Oct. 13, 1994, 108 Stat. 3334, 3335; Pub. L. 104–106, div. A, title X, §1087, Feb. 10, 1996, 110 Stat. 458.)
+(Added Pub. L. 97–86, title IX, §915(2), Dec. 1, 1981, 95 Stat. 1126; amended Pub. L. 98–525, title XIV, §1405(57), Oct. 19, 1984, 98 Stat. 2626; Pub. L. 101–189, div. A, title XVI, §1636(b), Nov. 29, 1989, 103 Stat. 1609; Pub. L. 103–272, §5(b)(3), July 5, 1994, 108 Stat. 1373; Pub. L. 103–355, title III, §3032(1)–(8), Oct. 13, 1994, 108 Stat. 3334, 3335; Pub. L. 104–106, div. A, title X, §1087, Feb. 10, 1996, 110 Stat. 458.)
 
 #### Codification
 
-The text of subsecs. (a) and (b) of section 9513 of this title, which were redesignated as subsecs. (b) and (e) of this section by Pub. L. 103–355, §3032(4), (5), was based on Pub. L. 97–86, title IX, §915(2), Dec. 1, 1981, 95 Stat. 1128; amended Pub. L. 101–189, div. A, title XVI, §1636(c)(1), Nov. 29, 1989, 103 Stat. 1610.
+The text of subsecs. (a) and (b) of section 9513 of this title, which were redesignated as subsecs. (b) and (e) ofthis section by Pub. L. 103–355, §3032(4), (5), was based on Pub. L. 97–86, title IX, §915(2), Dec. 1, 1981, 95 Stat. 1128; amended Pub. L. 101–189, div. A, title XVI, §1636(c)(1), Nov. 29, 1989, 103 Stat. 1610.
 
 #### Amendments
 

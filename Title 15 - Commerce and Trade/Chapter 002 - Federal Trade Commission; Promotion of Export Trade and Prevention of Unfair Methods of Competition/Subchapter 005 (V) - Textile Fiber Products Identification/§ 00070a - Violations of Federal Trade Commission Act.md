@@ -2,7 +2,7 @@
 
 #### (a) Introduction or manufacture for introduction into commerce, sale, advertising or offering for sale in commerce
 
-The introduction, delivery for introduction, manufacture for introduction, sale, advertising, or offering for sale, in commerce, or the transportation or causing to be transported in commerce, or the importation into the United States, of any textile fiber product which is misbranded or falsely or deceptively advertised within the meaning of this subchapter or the rules and regulations promulgated thereunder, is unlawful, and shall be an unfair method ofcompetition and an unfair and deceptive act or practice in commerce under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\].
+The introduction, delivery for introduction, manufacture for introduction, sale, advertising, or offering for sale, in commerce, or the transportation or causing to be transported in commerce, or the importation into the United States, of any textile fiber product which is misbranded or falsely or deceptively advertised within the meaning of this subchapter or the rules and regulations promulgated thereunder, is unlawful, and shall be an unfair method of competition and an unfair and deceptive act or practice in commerce under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\].
 
 #### (b) Sale, offering for sale, advertising, delivery, transportation of products advertised for sale in commerce
 
@@ -22,7 +22,7 @@ This section shall not apply—
 
 &emsp;(3) with respect to the manufacture, delivery for transportation, transportation, sale, or offering for sale of a textile fiber product for exportation from the United States to any foreign country;
 
-&emsp;(4) to any publisher or other advertising agency or medium for the dissemination of advertising or promotional material, except the manufacturer, distributor, or seller of the textile fiber product to which the false or deceptive advertisement relates, if such publisher or other advertising agency or medium furnishes to the Commission, upon request, the name and post office address of the manufacturer, distributor, seller, or other person residing in the United States, who caused the dissemination of the advertising material; or
+&emsp;(4) to any publisher or other advertising agency or medium for the dissemination of advertising or promotional material, except the manufacturer, distributor, or seller of the textile fiber product to which the false or deceptive advertisement relates, if such publisher or other advertising agency or medium furnishes to the Commission, upon request, the name and post office address of the manufacturer,distributor, seller, or other person residing in the United States, who caused the dissemination of the advertising material; or
 
 &emsp;(5) to any textile fiber product until such product has been produced by the manufacturer or processor in the form intended for sale or delivery to, or for use by, the ultimate consumer: <i>Provided</i>, That this exemption shall apply only if such textile fiber product is covered by an invoice or other paper relating to the marketing or handling of the textile fiber product and such invoice or paper correctly discloses the information with respect to the textile fiber product which would otherwise be required under section 70b of this title to be on the stamp, tag, label, or other identification and the name and address of the person issuing the invoice or paper.
 

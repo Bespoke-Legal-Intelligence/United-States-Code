@@ -1,6 +1,6 @@
 ### §7603. Sales: veterans under treatment
 
-A person who has been separated honorably or under honorable conditions from the Army, the Navy, the Air Force, or the Marine Corps and who is receiving care and medical treatment from the Public Health Service or the Department of Veterans Affairs may buy subsistence supplies and other supplies, except articles of uniform, from the Navy and the Marine Corps at prices charged members of the naval service.
+A person who has been separated honorably or under honorable conditions from the Army, theNavy, the Air Force, or the Marine Corps and who is receiving care and medical treatment from the Public Health Service or the Department of Veterans Affairs may buy subsistence supplies and other supplies, except articles of uniform, from the Navy and the Marine Corps at prices charged members of the naval service.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 471; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602.)
 

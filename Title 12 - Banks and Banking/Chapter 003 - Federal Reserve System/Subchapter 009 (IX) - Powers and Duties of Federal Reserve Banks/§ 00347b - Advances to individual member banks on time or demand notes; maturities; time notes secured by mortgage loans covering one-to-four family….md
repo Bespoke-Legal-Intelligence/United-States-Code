@@ -48,7 +48,7 @@ Notwithstanding the foregoing, any Federal Reserve bank, under rules and regulat
 
 &emsp;&emsp;&emsp;(i) in the case of any critically undercapitalized depository institution—
 
-&emsp;&emsp;&emsp;&emsp;(I) any advance under this section to such institution is outstanding without payment having been demanded as of the end of the 5-day period beginning on the date the institution becomes a critically undercapitalized depository institution; or
+&emsp;&emsp;&emsp;&emsp;(I) any advance under this section to such institution is outstanding withoutpayment having been demanded as of the end of the 5-day period beginning on the date the institution becomes a critically undercapitalized depository institution; or
 
 &emsp;&emsp;&emsp;&emsp;(II) any new advance is made to such institution under this section after the end of such period; and
 
@@ -110,11 +110,9 @@ Notwithstanding the foregoing, any Federal Reserve bank, under rules and regulat
 
 (Dec. 23, 1913, ch. 6, §10B, formerly §10(b), as added Feb. 27, 1932, ch. 58, §2, 47 Stat. 56; amended Feb. 3, 1933, ch. 34, 47 Stat. 794; Mar. 9, 1933, ch. 1, title IV, §402, 48 Stat. 7; Aug. 23, 1935, ch. 614, title II, §204, 49 Stat. 705; Pub. L. 93–449, §5, Oct. 18, 1974, 88 Stat. 1368; Pub. L. 96–221, title I, §106, Mar. 31, 1980, 94 Stat. 140; renumbered §10B and amended Pub. L. 102–242, title I, §142(a)(2), (b), Dec. 19, 1991, 105 Stat. 2279; Pub. L. 104–208, div. A, title II, §2704(d)(9), Sept. 30, 1996, 110 Stat. 3009–489.)
 
-#### Amendment of Subsection (b)(3)(A)(ii)
-
-<i>Pub. L. 104–208, div. A, title II, §2704(c), (d)(9), Sept. 30, 1996, 110 Stat. 3009–487, 3009–489, provided that, effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, subsection (b)(3)(A)(ii) of this section is amended by substituting “the Deposit Insurance Fund of” for “any deposit insurance fund in”.</i>
-
 #### Amendments
+
+1996—Subsec. (b)(3)(A)(ii). Pub. L. 104—208, which directed the amendment of cl. (ii) by substituting “the Deposit Insurance Fund of” for “any deposit insurance fund in”, was not executed. See Effective Date of 1996 Amendment note below.
 
 1991—Pub. L. 102–242, §142(b), designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
@@ -143,10 +141,6 @@ Amendment by Pub. L. 96–221 effective on first day of sixth month which begins
 #### Expiration
 
 Proclamation No. 2076, Feb. 16, 1934, 48 Stat. 1734, extended section to Mar. 3, 1935. See 1935 amendment note above.
-
-#### Cross References
-
-Right to amend, separability of provisions, of act Mar. 9, 1933, see section 212 of this title.
 
 #### Section Referred to in Other Sections
 

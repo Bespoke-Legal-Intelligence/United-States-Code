@@ -10,7 +10,7 @@ The purposes of the Corporation shall be—
 
 &emsp;(1) to expand the provision of and improve access to technical assistance regarding entrepreneurship for the Nation's veterans; and
 
-&emsp;(2) to assist veterans, including service-disabled veterans, with the formation and expansion of small business concerns by working with and organizing public and private resources, including those of the Small BusinessAdministration, the Department of Veterans Affairs, the Department of Labor, the Department of Commerce, the Department of Defense, the Service Corps of Retired Executives (described in section 637(b)(1)(B) of this title), the Small Business Development Centers (described in section 648 of this title), and the business development staffs of each department and agency of the United States.
+&emsp;(2) to assist veterans, including service-disabled veterans, with the formation and expansion of small business concerns by working with and organizing public and private resources, including those of the Small Business Administration, the Department of Veterans Affairs, the Department of Labor, the Department of Commerce, the Department of Defense, the Service Corps of Retired Executives (described in section 637(b)(1)(B) of this title), the Small Business Development Centers (described in section 648 of this title), and the business development staffs of each department and agency of the United States.
 
 #### (c) Board of Directors
 
@@ -100,7 +100,7 @@ On October 1, 1999, the Corporation shall become a body corporate and as such sh
 
 #### (1) Deposit of funds
 
-&emsp;The Board of Directors shall deposit all funds of the Corporation in federally charteredand insured depository institutions until such funds are disbursed under paragraph (2).
+&emsp;The Board of Directors shall deposit all funds of the Corporation in federally chartered and insured depository institutions until such funds are disbursed under paragraph (2).
 
 #### (2) Disbursement of funds
 
@@ -156,29 +156,29 @@ The Corporation may use the United States mails in the same manner and under the
 
 &emsp;Subject to paragraph (2), there are authorized to be appropriated to the Corporation to carry out this section—
 
-&emsp;&emsp;(A) $2,000,000 for fiscal year 2000;
+&emsp;&emsp;(A) $4,000,000 for fiscal year 2001;
 
-&emsp;&emsp;(B) $4,000,000 for fiscal year 2001;
+&emsp;&emsp;(B) $4,000,000 for fiscal year 2002;
 
-&emsp;&emsp;(C) $4,000,000 for fiscal year 2002; and
+&emsp;&emsp;(C) $2,000,000 for fiscal year 2003; and
 
-&emsp;&emsp;(D) $2,000,000 for fiscal year 2003.
+&emsp;&emsp;(D) $2,000,000 for fiscal year 2004.
 
 #### (2) Matching requirement
 
-#### (A) Fiscal year 2001
+#### (A) Fiscal year 2002
 
-&emsp;&emsp;The amount made available to the Corporation for fiscal year 2001 may not exceed twice the amount that the Corporation certifies that it will provide for that fiscal year from sources other than the Federal Government.
+&emsp;&emsp;The amount made available to the Corporation for fiscal year 2002 may not exceed twice the amount that the Corporation certifies that it will provide for that fiscal year from sources other than the Federal Government.
 
 #### (B) Subsequent fiscal years
 
-&emsp;&emsp;The amount made available to the Corporation for fiscal year 2002 or 2003 may not exceed the amount that the Corporation certifies that it will provide for that fiscal year from sources other than the Federal Government.
+&emsp;&emsp;The amount made available to the Corporation for fiscal year 2003 or 2004 may not exceed the amount that the Corporation certifies that it will provide for that fiscal year from sources other than the Federal Government.
 
 #### (3) Privatization
 
 &emsp;The Corporation shall institute and implement a plan to raise private funds and become a self-sustaining corporation.
 
-(Pub. L. 85–536, §2\[33\], as added Pub. L. 106–50, title II, §202(a), Aug. 17, 1999, 113 Stat. 236.)
+(Pub. L. 85–536, §2\[33\], as added Pub. L. 106–50, title II, §202(a), Aug. 17, 1999, 113 Stat. 236; amended Pub. L. 106–554, §1(a)(9) \[title VIII, §808\], Dec. 21, 2000, 114 Stat. 2763, 2763A–706.)
 
 #### References in Text
 
@@ -188,7 +188,25 @@ Section 203 of this Act, referred to in subsec. (h), probably means section 203 
 
 August 17, 1999, referred to in subsec. (c)(4), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 106–50, which enacted this section, to reflect the probable intent of Congress.
 
+#### Amendments
+
+2000—Subsec. (k)(1). Pub. L. 106–554, §1(a)(9) \[title VIII, §808(1)\], added par. (1) and struck out heading and text of former par. (1). Text read as follows: “Subject to paragraph (2), there are authorized to be appropriated to the Corporation to carry out this section—
+
+&emsp;“(A) $2,000,000 for fiscal year 2000;
+
+&emsp;“(B) $4,000,000 for fiscal year 2001;
+
+&emsp;“(C) $4,000,000 for fiscal year 2002; and
+
+&emsp;“(D) $2,000,000 for fiscal year 2003.”
+
+Subsec. (k)(2)(A). Pub. L. 106–554, §1(a)(9) \[title VIII, §808(2)\], substituted “2002” for “2001” in heading and text.
+
+Subsec. (k)(2)(B). Pub. L. 106–554, §1(a)(9) \[title VIII, §808(3)\], substituted “2003 or 2004” for “2002 or 2003”.
+
 #### General Accounting Office Report
 
-Pub. L. 106–50, title II, §202(b), Aug. 17, 1999, 113 Stat. 239, provided that: “Not later than 180 days after the last day of the second fiscal year beginning after the date on which the initial members of the Board of Directors of the National Veterans Business Development Corporation are appointed under section 33(c) of the Small Business Act \[15 U.S.C. 657c(c)\] (as added by thissection), the Comptroller General of the United States shall evaluate the effectiveness of the National Veterans Business Development Corporation in carrying out the purposes under section 33(b) of the Small Business Act (as added by this section), and submit to Congress a report on the results of that evaluation.”
+Pub. L. 106–50, title II, §202(b), Aug. 17, 1999, 113 Stat. 239, provided that: “Not later than 180 days after the last day of the second fiscal year beginning after the date on which the initial members of the Board of Directors of the National Veterans Business Development Corporation are appointed under section 33(c) of the Small Business Act \[15 U.S.C. 657c(c)\] (as added by this section), the Comptroller General of the United States shall evaluate the effectiveness of the National Veterans Business Development Corporation in carrying out the purposes under section 33(b) of the Small Business Act (as added by this section), and submit to Congress a report on the results of that evaluation.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

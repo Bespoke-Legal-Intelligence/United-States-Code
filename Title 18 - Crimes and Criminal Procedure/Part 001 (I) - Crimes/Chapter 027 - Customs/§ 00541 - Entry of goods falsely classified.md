@@ -16,7 +16,3 @@ Changes were made in phraseology.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
 
-#### Cross References
-
-Libel of vessels and vehicles, see section 1594 of Title 19, Customs Duties.
-

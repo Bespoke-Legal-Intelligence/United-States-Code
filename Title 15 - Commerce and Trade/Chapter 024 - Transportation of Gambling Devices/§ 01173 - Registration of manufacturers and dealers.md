@@ -14,7 +14,7 @@
 
 (1) Every manufacturer of a gambling device defined in paragraph (a)(1) or (a)(2) of section 1171 of this title shall number seriatim each such gambling device manufactured by him and permanently affix on each such device, so as to be clearly visible, such number, his name, and, if different, any trade name under which he does business, and the date of manufacture of such device.
 
-(2) Every manufacturer of a gambling device defined in paragraph (a)(3) of section 1171 of this title shall, if the size of such device permits it,number seriatim each such gambling device manufactured by him and permanently affix on each such device, so as to be clearly visible, such number, his name, and, if different, any trade name under which he does business, and the date of manufacture of such device.
+(2) Every manufacturer of a gambling device defined in paragraph (a)(3) of section 1171 of this title shall, if the size of such device permits it, number seriatim each such gambling device manufactured by him and permanently affix on each such device, so as to be clearly visible, such number, his name, and, if different, any trade name under which he does business, and the date of manufacture of such device.
 
 #### (c) Records; required information
 
@@ -61,10 +61,6 @@ The effective date of the Gambling Devices Act of 1962, referred to in subsec. (
 #### Effective Date of 1962 Amendment
 
 Amendment effective on sixtieth day after Oct. 18, 1962, see section 7 of Pub. L. 87–840, set out as a note under section 1171 of this title.
-
-#### Cross References
-
-Penalty for violations, see section 1176 of this title.
 
 #### Section Referred to in Other Sections
 

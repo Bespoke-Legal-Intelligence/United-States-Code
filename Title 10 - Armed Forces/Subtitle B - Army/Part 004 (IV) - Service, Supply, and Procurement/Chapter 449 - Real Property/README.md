@@ -24,12 +24,6 @@ Pub. L. 97–214, §10(a)(9)(A), July 12, 1982, 96 Stat. 175, struck out item 47
 
 1958—Pub. L. 85–861, §1(105)(B), Sept. 2, 1958, 72 Stat. 1490, added item 4780.
 
-#### Cross References
-
-General military law provisions, see section 2662 et seq. of this title.
-
-Property records, see section 2721 of this title.
-
 
 ---
 

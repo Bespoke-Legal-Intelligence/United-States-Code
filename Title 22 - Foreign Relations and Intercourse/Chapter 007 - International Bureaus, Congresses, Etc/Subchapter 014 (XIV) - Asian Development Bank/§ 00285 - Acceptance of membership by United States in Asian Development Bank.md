@@ -12,7 +12,3 @@ Section 1 of Pub. L. 89–369 provided: “That this Act \[enacting this subchap
 
 For Congressional direction that the Secretary of the Treasury maintain the value in terms of gold of the Asian Development Bank's holdings of United States dollars following the establishment of a par value of the dollar at $38 for a fine troy ounce of gold pursuant to the Par Value Modification Act and for the authorization of the appropriations necessary to provide such maintenance of value, see section 5152 of Title 31, Money and Finance.
 
-#### Cross References
-
-Advancement of human rights through United States assistance policies with international financial institutions, see section 262d of this title.
-

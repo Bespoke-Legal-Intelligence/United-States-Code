@@ -36,6 +36,8 @@ Capabilities.—The readiness reporting system shall measure such factors relati
 
 &emsp;(6) Measure, on a monthly basis, the level of current risk based upon the readiness reporting system relative to the capability of forces to carry out their wartime missions.
 
+&emsp;(7) Measure, on a quarterly basis, the extent to which units of the armed forces remove serviceable parts, supplies, or equipment from one vehicle, vessel, or aircraft in order to render a different vehicle, vessel, or aircraft operational.
+
 (d)
 
 Quarterly and Monthly Joint Readiness Reviews.—(1) The Chairman of the Joint Chiefs of Staff shall—
@@ -48,19 +50,21 @@ Quarterly and Monthly Joint Readiness Reviews.—(1) The Chairman of the Joint C
 
 (e)
 
-Submission to Congressional Committees.—The Secretary shall each month submit to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives a report in writing containing the results of the most recent joint readiness review or monthly review conducted under subsection (d), including the current information derived from the readiness reporting system. Each such report shall be submitted in unclassified form and may, as the Secretary determines necessary, also be submitted in classified form.
+Submission to Congressional Committees.—The Secretary shall each month submit to the Committee on Armed Services and the Committee on Appropriations of the Senate andthe Committee on Armed Services and the Committee on Appropriations of the House of Representatives a report in writing containing the results of the most recent joint readiness review or monthly review conducted under subsection (d), including the current information derived from the readiness reporting system. Each such report shall be submitted in unclassified form and may, as the Secretary determines necessary, also be submitted in classified form.
 
 (f)
 
 Regulations.—The Secretary shall prescribe regulations to carry out this section. In those regulations, the Secretary shall prescribe the units that are subject to reporting in the readiness reporting system, what type of equipment is subject to such reporting, and the elements of the training establishment and of defense infrastructure that are subject to such reporting.
 
-(Added Pub. L. 105–261, div. A, title III, §373(a)(1), Oct. 17, 1998, 112 Stat. 1990; amended Pub. L. 106–65, div. A, title III, §361(d)(1), title X, §1067(1), Oct. 5, 1999, 113 Stat. 575, 774.)
+(Added Pub. L. 105–261, div. A, title III, §373(a)(1), Oct. 17, 1998, 112 Stat. 1990; amended Pub. L. 106–65, div. A, title III, §361(d)(1), title X, §1067(1), Oct. 5, 1999, 113 Stat. 575, 774; Pub. L. 106–398, §1 \[\[div. A\], title III, §371\], Oct. 30, 2000, 114 Stat. 1654, 1654A–80.)
 
 #### Prior Provisions
 
 A prior section 117, added Pub. L. 97–295, §1(2)(A), Oct. 12, 1982, 96 Stat. 1287, §133a; renumbered §117 and amended Pub. L. 99–433, title I, §§101(a)(2), 110(d)(3), Oct. 1, 1986, 100 Stat. 994, 1002, required annual report on North Atlantic Treaty Organization readiness, prior to repeal by Pub. L. 101–510, div. A, title XIII, §1301(1), Nov. 5, 1990, 104 Stat. 1668.
 
 #### Amendments
+
+2000—Subsec. (c)(7). Pub. L. 106–398 added par. (7).
 
 1999—Subsec. (b)(2). Pub. L. 106–65, §361(d)(1)(A), substituted “with (A) any change in the overall readiness status of a unit that is required to be reported as part of the readiness reporting system being reported within 24 hours of the event necessitating the change in readiness status, and (B) any change in the overall readiness status of an element of the training establishment or an element of defense infrastructure that is required to be reported as part of the readiness reporting system being reported within 72 hours” for “with any change in the overall readiness status of a unit, an element of the training establishment, or an element of defense infrastructure, that is required to be reported as part of the readiness reporting system, being reported within 24 hours”.
 
@@ -79,4 +83,8 @@ Implementation.—The Secretary of Defense shall establish and implement the rea
 “(c)
 
 Implementation Plan.—Not later than March 1, 1999, the Secretary of Defense shall submit to Congress a report setting forth the Secretary's plan for implementation of section 117 of title 10, United States Code, as added by subsection (a).”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 153 of this title.
 

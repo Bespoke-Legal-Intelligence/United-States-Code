@@ -14,7 +14,7 @@
 
 &emsp;(6) means of automatic starting and stopping of power units with attendant alarms at all steering stations.
 
-(b) An existing tanker of at least 10,000 gross tons as measured under section 14502 of thistitle, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title shall be equipped with—
+(b) An existing tanker of at least 10,000 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title shall be equipped with—
 
 &emsp;(1) 2 remote steering gear control systems operable separately from the navigating bridge;
 

@@ -8,7 +8,3 @@ For convenience of reference, this chapter may be designated and cited as “The
 
 Section 10 of act Mar. 3, 1923, provided: “That this Act \[enacting this chapter\] shall become effective at the expiration of ninety days next after the date of its approval \[Mar. 23, 1923\].”
 
-#### Cross References
-
-Orders regulating handling of naval stores, see section 608c of this title.
-

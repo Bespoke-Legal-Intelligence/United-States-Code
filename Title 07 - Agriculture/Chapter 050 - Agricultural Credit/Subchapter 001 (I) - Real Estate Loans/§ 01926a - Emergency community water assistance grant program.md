@@ -36,7 +36,7 @@ To be eligible to obtain a grant under this section, an applicant shall—
 
 #### (2) Joint proposals
 
-&emsp;Nothing in this section shall preclude rural communities from submitting joint proposalsfor emergency water assistance, subject to the restrictions contained in subsection (e) of this section. Such restrictions should be considered in the aggregate, depending on the number of communities involved.
+&emsp;Nothing in this section shall preclude rural communities from submitting joint proposals for emergency water assistance, subject to the restrictions contained in subsection (e) of this section. Such restrictions should be considered in the aggregate, depending on the number of communities involved.
 
 #### (e) Restrictions
 

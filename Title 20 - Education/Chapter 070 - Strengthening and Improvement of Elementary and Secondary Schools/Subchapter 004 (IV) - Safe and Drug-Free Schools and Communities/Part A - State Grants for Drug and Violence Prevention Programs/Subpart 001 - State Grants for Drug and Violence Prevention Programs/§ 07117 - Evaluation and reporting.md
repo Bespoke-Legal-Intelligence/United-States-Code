@@ -10,7 +10,7 @@
 
 &emsp;(A) The National Center for Education Statistics shall collect data to determine the frequency, seriousness, and incidence of violence in elementary and secondary schools in the States. The Secretary shall collect the data using, wherever appropriate, data submitted by the States pursuant to subsection (b)(2)(B) of this section.
 
-&emsp;(B) Not later than January 1, 1998, the Secretary shall submit to the Congress a report on the data collected under this subsection, together with such recommendations as the Secretary determines appropriate, including estimated costs for implementing any recommendation.
+&emsp;(B) Not later than January 1, 1998, the Secretary shall submit to the Congress a report on the data collected under this subsection, together with such recommendations as theSecretary determines appropriate, including estimated costs for implementing any recommendation.
 
 #### (b) State report
 

@@ -62,16 +62,6 @@ Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub.
 
 Amendment by section 314 of Pub. L. 95–598 not to affect the application of chapter 9 (§151 et seq.), chapter 96 (§1961 et seq.), or section 2516, 3057, or 3284 of this title to any act of any person (1) committed before Oct. 1, 1979, or (2) committed after Oct. 1, 1979, in connection with a case commenced before such date, see section 403(d) of Pub. L. 95–598, set out as a note preceding section 101 of Title 11, Bankruptcy.
 
-#### Cross References
-
-Bankruptcy investigations; duties of United States attorney, see section 3057 of this title.
-
-Discharges, refusal to grant when offense committed, see section 727 of Title 11, Bankruptcy.
-
-Limitation of prosecutions, see sections 3282, 3284 of this title.
-
-Wire or oral communications, authorization for interception, to provide evidence of bankruptcy fraud offenses, see section 2516 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1956 of this title; title 7 section 12a; title 15 sections 78<i>o</i>, 80b–3.

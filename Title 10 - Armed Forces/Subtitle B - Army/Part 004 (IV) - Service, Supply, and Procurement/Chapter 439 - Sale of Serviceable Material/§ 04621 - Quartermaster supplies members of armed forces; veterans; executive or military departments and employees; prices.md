@@ -26,7 +26,7 @@
 
 > However, sales to officers and employees inside the United States may be made only to those residing within military installations.
 
-(h) Appropriations for subsistence of the Army may be applied to the purchase of subsistencesupplies for sale to members of the Army on active duty for the use of themselves and their families.
+(h) Appropriations for subsistence of the Army may be applied to the purchase of subsistence supplies for sale to members of the Army on active duty for the use of themselves and their families.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 257; Pub. L. 87–651, title I, §118, Sept. 7, 1962, 76 Stat. 513; Pub. L. 96–513, title V, §512(17), Dec. 12, 1980, 94 Stat. 2930; Pub. L. 100–180, div. A, title III, §313(c), Dec. 4, 1987, 101 Stat. 1074; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 104–106, div. A, title III, §375(b)(1), Feb. 10, 1996, 110 Stat. 283.)
 
@@ -136,7 +136,7 @@ Aug. 8, 1953, ch. 390, §1, 67 Stat. 499.
 
 Mar. 3, 1875, ch. 131 (proviso of 1st sentence of 1st par. under “War Department”), 18 Stat. 410.
 
-In subsection (a), the word “members” is substituted for the words “officers and enlisted men” in 10:1237. Clause (2) is substituted for 10:904. 32:156 is omitted as covered by 10:904, since the words “officers of the Army” necessarily cover all persons named in 32:156. The words “the Secretary of the Army or a person designated by him” are substituted for the words “by whatever branch, office, or officers of the Army the Secretary of the Army may from time to time designate”, inserted by the Editors of the United States Code. R.S. 1114 which provided that this function should be invested in the Inspector General was not amended in this respect by section 402(a) of the Army Organization Act of 1950 (64 Stat. 272). However, these functions have now been transferred to the Secretary of the Army or a person designated by him. (See memorandum of the Secretary of Defense, dated October 29, 1954, subject “Transfer of Authority from the Inspector General to the Secretary of the Army to Designate Subsistence Articles for Sale,” and opinion of the Judge Advocate General of the Army (JAGA 1954/9712, 2 December 1954).) The words “Except for articles and items acquired through the use of working capital funds under sections 172–172j of title 5” are inserted to reflect Title IV of the National Security Act of 1947, as amended (63 Stat. 585), which authorized the Secretary of Defense to prescribe regulations governing the use and sale of certain inventories at cost, including applicable administrative expenses. (See opinion of the Assistant General Counsel (Fiscal Matters) of the Office of the Secretary of Defense, January 4, 1955.)
+In subsection (a), the word “members” is substituted for the words “officers and enlisted men” in 10:1237. Clause (2) is substituted for 10:904. 32:156 is omitted as covered by 10:904, since the words “officers of the Army” necessarily cover all persons named in 32:156. The words “the Secretary of the Army or a person designated by him” are substituted for the words “by whatever branch, office, or officers of the Army the Secretary of the Army may from time to time designate”, inserted by the Editors of the United States Code. R.S. 1114 which provided that this function should be invested in the Inspector General was not amended in this respect by section 402(a) of the Army Organization Act of 1950 (64 Stat. 272). However, these functions have now been transferred to the Secretary of the Army or a person designated by him. (See memorandum of the Secretary of Defense, dated October 29,1954, subject “Transfer of Authority from the Inspector General to the Secretary of the Army to Designate Subsistence Articles for Sale,” and opinion of the Judge Advocate General of the Army (JAGA 1954/9712, 2 December 1954).) The words “Except for articles and items acquired through the use of working capital funds under sections 172–172j of title 5” are inserted to reflect Title IV of the National Security Act of 1947, as amended (63 Stat. 585), which authorized the Secretary of Defense to prescribe regulations governing the use and sale of certain inventories at cost, including applicable administrative expenses. (See opinion of the Assistant General Counsel (Fiscal Matters) of the Office of the Secretary of Defense, January 4, 1955.)
 
 In subsection (b), the first sentence states expressly the rule which is implicit in 10:1238. The word “members” is substituted for the words “officers and enlisted men”. The words “shall be understood, in all cases of such sales” are omitted as surplusage. The last sentence is inserted to reflect Title IV of the National Security Act of 1947, as amended (63 Stat. 585), which authorized the Secretary of Defense to prescribe regulations governing the use and sale of certain inventories at cost, including applicable administrative expenses. (See opinion of the Deputy General Counsel of the Office of the Secretary of Defense, March 28, 1956.)
 
@@ -152,7 +152,7 @@ In subsection (f), the words “person who has been discharged” are substitute
 
 In subsection (g), the words “regulations to be prescribed by the Secretary” are substituted for the words “Army Regulations”. The words “of the Government” are omitted as surplusage. 10:1253 (last 22 words of 1st sentence) is omitted as surplusage. The words “or to another executive department of the Government” are omitted as superseded by section 7 of the Act of May 21, 1920, ch. 194, as amended (31 U.S.C. 686). The provisions of 10:1253 relating to computation of costs are omitted to reflect Title IV of the National Security Act of 1947, as amended (63 Stat. 585), which authorized the Secretary of Defense to prescribe regulations governing the use and sale of certain inventories at cost, including applicable administrative expenses. (See opinion of the Assistant General Counsel (Fiscal Matters) of the Office of the Secretary of Defense, January 4, 1955.)
 
-In subsection (h), the word “outside” is substituted for the words “beyond the continental limitations”.The words “or in Alaska” are omitted, since, under section 101(1) of this title, the words “United States” are defined to include only the States and the District of Columbia. The word “continental”, after the words “within the”, is omitted for the same reason. The last sentence is substituted for 10:1241 (proviso).
+In subsection (h), the word “outside” is substituted for the words “beyond the continental limitations”. The words “or in Alaska” are omitted, since, under section 101(1) of this title, the words “United States” are defined to include only the States and the District of Columbia. The word “continental”, after the words “within the”, is omitted for the same reason. The last sentence is substituted for 10:1241 (proviso).
 
 In subsection (i), 10:1196 (last 30 words) is omitted as superseded by the Act of April 27, 1914, ch. 72 (last proviso under “Subsistence of the Army”), 38 Stat. 361. The words “So much of the” and “as may be necessary” are omitted as surplusage. The words “members \* \* \* on active duty, for the use of themselves and their families” are substituted for the words “officers for the use of themselves and their families, and to commanders of companies or other organizations, for the use of the enlisted men of their companies or organizations”, to conform to 10:1237 and 1238. Those sections provide the basic authority for procurement and sale of subsistence supplies to all members. This interpretation conforms to established administrative practice under those sections. The word “supplies” is substituted for the word “stores”.
 
@@ -187,22 +187,6 @@ For transfer of functions of Public Health Service, see note set out under secti
 #### Prices Charged Personnel of Civilian Agencies in Germany
 
 Act June 20, 1956, ch. 414, title I, §101, 70 Stat. 300, provided in part: “When the Department of the Army, under the authority of the Act of March 3, 1911, as amended, furnishes subsistence supplies to personnel of civilian agencies of the United States Government serving in Germany, payment therefor by such personnel shall be made at the same rate as is paid by civilian personnel of the Department of the Army serving in Germany.” Similar provisions were contained in acts Oct. 6, 1949, ch. 621, title I, §101, 63 Stat. 713; Sept. 6, 1950, ch. 896, ch. XI, title III, §301, 64 Stat. 763; Nov. 1, 1951, ch. 664, ch. IX, §901, 65 Stat. 750; July 15, 1952, ch. 758, ch. XI, title II, 66 Stat. 652; Aug. 7, 1953, ch. 340, ch. X, 67 Stat. 433; Aug. 26, 1954, ch. 935, ch. XI, 68 Stat. 823; July 7, 1955, ch. 279, title I, §101, 69 Stat. 269.
-
-#### Cross References
-
-Cadets, clothing and equipment, see section 4350 of this title.
-
-Disposal of surplus property, generally, see section 484 of Title 40, Public Buildings, Property, and Works.
-
-Property utilization, generally, see section 483 of Title 40.
-
-Provision permitting officers and enlisted men of Coast Guard to purchase from Army at same price as is charged members of the Army, see section 144 of Title 14, Coast Guard.
-
-Provision permitting officers of Public Health Service to purchase from Army at same price as is charged members of the Army, see section 210 of Title 42, The Public Health and Welfare.
-
-Purchase of uniforms and equipment by officers of National Guard from Army, see section 705 of Title 32, National Guard.
-
-Settlement of accounts, deductions from pay, see section 4837 of this title.
 
 #### Section Referred to in Other Sections
 

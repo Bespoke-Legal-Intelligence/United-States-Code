@@ -36,7 +36,7 @@ The Committee also adheres to its earlier conclusion, that “a specific exempti
 
 In 1967 the Committee also sought to approach this problem by including, in its report, a very thorough discussion of “the considerations lying behind the four criteria listed in the amended section 107, in the context of typical classroom situations arising today.” This discussion appeared on pp. 32–35 of the 1967 report, and with some changes has been retained in the Senate report on S. 22 (S. Rep. No. 94–473, pp. 63–65). The Committee has reviewed this discussion, and considers that it still has value as an analysis of various aspects of the problem.
 
-At the Judiciary Subcommittee hearings in June 1975, Chairman Kastenmeier and other members urged the parties to meet together independently in an effort to achieve a meeting of the minds as to permissible educational uses of copyrighted material. The response to these suggestions was positive, and a number of meetings of three groups, dealing respectively with classroom reproduction of printed material, music, and audio-visual material, were held beginning in September 1975.
+At the Judiciary Subcommittee hearings in June 1975, Chairman Kastenmeier and other members urged the parties to meet together independently in an effort to achieve a meeting of the minds as to permissible educational uses of copyrighted material. The response to these suggestions was positive, and a number of meetings of three groups, dealing respectively withclassroom reproduction of printed material, music, and audio-visual material, were held beginning in September 1975.
 
 In a joint letter to Chairman Kastenmeier, dated March 19, 1976, the representatives of the Ad Hoc Committee of Educational Institutions and Organizations on Copyright Law Revision, and of the Authors League of America, Inc., and the Association of American Publishers, Inc., stated:
 
@@ -52,7 +52,7 @@ The full text of the agreement is as follows:
 
 I74with respect to books and periodicals
 
-&emsp;The purpose of the following guidelines is to state the minimum and not the maximum standards of educational fair use under Section 107 of H.R. 2223 \[this section\]. The parties agree that the conditions determining the extent of permissible copying for educational purposes may change in the future; that certain types of copying permitted under these guidelines may not be permissible in the future; and conversely that in the future other types of copying notpermitted under these guidelines may be permissible under revised guidelines.
+&emsp;The purpose of the following guidelines is to state the minimum and not the maximum standards of educational fair use under Section 107 of H.R. 2223 \[this section\]. The parties agree that the conditions determining the extent of permissible copying for educational purposes may change in the future; that certain types of copying permitted under these guidelines may not be permissible in the future; and conversely that in the future other types of copying not permitted under these guidelines may be permissible under revised guidelines.
 
 &emsp;Moreover, the following statement of guidelines is not intended to limit the types of copying permitted under the standards of fair use under judicial decision and which are stated in Section 107 of the Copyright Revision Bill \[this section\]. There may be instances in which copying which does not fall within the guidelines stated below may nonetheless be permitted under the criteria of fair use.
 
@@ -225,18 +225,6 @@ The criteria of fair use are necessarily set forth in general terms. In the appl
 #### Effective Date of 1990 Amendment
 
 Amendment by Pub. L. 101–650 effective 6 months after Dec. 1, 1990, see section 610 of Pub. L. 101–650, set out as an Effective Date note under section 106A of this title.
-
-#### Cross References
-
-Action for infringement of copyright, see section 501 of this title.
-
-Exclusive rights in copyrighted works, see section 106 of this title.
-
-Remittance of statutory damages, see section 504 of this title.
-
-Use of certain works in connection with noncommercial broadcasting, see section 118 of this title.
-
-Use of material in conjunction with computers and similar information systems, see section 117 of this title.
 
 #### Section Referred to in Other Sections
 

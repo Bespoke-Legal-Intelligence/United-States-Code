@@ -40,7 +40,7 @@ Section 108(b) of Pub. L. 96–38 provided that: “The amendment made by subsec
 
 #### Effective Date of 1971 Amendment
 
-Section 9(b) of Pub. L. 92–136 provided that: “Sections 4 and 6 of this Act \[enacting section 60c–2 of this title and amending this section\] shall become effective as of July 1, 1971.”
+Section 9(b) of Pub. L. 92–136 provided that: “Sections 4 and 6 of this Act \[enacting section 60c–2 of this titleand amending this section\] shall become effective as of July 1, 1971.”
 
 #### Effective Date
 

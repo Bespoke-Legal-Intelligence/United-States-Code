@@ -10,11 +10,7 @@ Section was formerly classified to section 521 of Title 5 prior to the general r
 
 #### Department of the Interior Personnel
 
-Provisions of this section were made applicable to such officers, agents, or employees of Department of the Interior performing functions of former Bureau of Biological Survey as are designated by Secretary of the Interior for purposes named herein by 1939 Reorg. Plan No. II, §4(g), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433, set out in the Appendix to Title 5, Government Organization and Employees. See also sections 401 to 404 of said plan for provisions relating to transfer of functions, records, property, personnel, and funds. Bureau of Biological Survey was subsequently consolidated with Bureau of Fisheries into Fish and Wildlife Service in Department of the Interior by 1940 Reorg. Plan No. III, §3, eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1232, also set out in the Appendix to Title 5.
-
-#### Cross References
-
-Power to administer oaths, examine witnesses, or require production of books, etc., in performance of duties required of Bureau of Agricultural Economics, see section 420 of this title.
+Provisions of this section were made applicable to such officers, agents, or employees of Department ofthe Interior performing functions of former Bureau of Biological Survey as are designated by Secretary of the Interior for purposes named herein by 1939 Reorg. Plan No. II, §4(g), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433, set out in the Appendix to Title 5, Government Organization and Employees. See also sections 401 to 404 of said plan for provisions relating to transfer of functions, records, property, personnel, and funds. Bureau of Biological Survey was subsequently consolidated with Bureau of Fisheries into Fish and Wildlife Service in Department of the Interior by 1940 Reorg. Plan No. III, §3, eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1232, also set out in the Appendix to Title 5.
 
 #### Section Referred to in Other Sections
 

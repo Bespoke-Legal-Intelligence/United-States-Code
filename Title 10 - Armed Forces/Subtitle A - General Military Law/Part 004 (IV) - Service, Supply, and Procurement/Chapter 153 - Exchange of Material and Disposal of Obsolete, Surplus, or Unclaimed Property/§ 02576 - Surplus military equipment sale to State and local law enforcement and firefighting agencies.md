@@ -18,9 +18,91 @@ The Federal Property and Administrative Services Act of 1949, referred to in sub
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
 
+#### Authority To Sell Aircraft and Aircraft Parts for Use in Responding to Oil Spills
+
+Pub. L. 106–181, title VII, §740, Apr. 5, 2000, 114 Stat. 173, provided that:
+
+“(a)
+
+Authority.—
+
+&emsp;“(1)
+
+Sale of aircraft and aircraft parts.—Notwithstanding section 202 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 483) and subject to subsections (b) and (c), the Secretary of Defense may sell, during the period beginning on the date of the enactment of this Act \[Apr. 5, 2000\] and ending September 30, 2002, aircraft and aircraft parts referred to in paragraph (2) to a person or entity that provides oil spill response services (including the application of oil dispersants by air) pursuant to an oil spill response plan that has been approved by the Secretary of the Department in which the Coast Guard is operating.
+
+&emsp;“(2)
+
+Aircraft and aircraft parts that may be sold.—The aircraft and aircraft parts that may be sold under paragraph (1) are aircraft and aircraft parts of the Department of Defense that are determined by the Secretary of Defense to be—
+
+&emsp;&emsp;“(A) excess to the needs of the Department; and
+
+&emsp;&emsp;“(B) acceptable for commercial sale.
+
+“(b)
+
+Conditions of Sale.—Aircraft and aircraft parts sold under subsection (a)—
+
+&emsp;“(1) shall have as their primary purpose usage for oil spill spotting, observation, and dispersant delivery and may not have any secondary purpose that would interfere with oil spill response efforts under an oil spill response plan; and
+
+&emsp;“(2) may not be flown outside of or removed from the United States except for the purpose of fulfilling an international agreement to assist in oil spill dispersing efforts, for immediate response efforts for an oil spill outside United States waters that has the potential to threaten United States waters, or for other purposes that are jointly approved by the Secretary of Defense and the Secretary of Transportation.
+
+“(c)
+
+Certification of Persons and Entities.—The Secretary of Defense may sell aircraft and aircraft parts to a person or entity under subsection (a) only if the Secretary of Transportation certifies to the Secretary of Defense, in writing, before the sale, that the person or entity is capable of meeting the terms and conditions of a contract to deliver oil spill dispersants by air, and that the overall system to be employed by that person or entity for the delivery and application of oil spill dispersants has been sufficiently tested to ensure that the person or entity is capable of being included in an oil spill response plan that has been approved by the Secretary of the Department in which the Coast Guard is operating.
+
+“(d)
+
+Regulations.—
+
+&emsp;“(1)
+
+Issuance.—As soon as practicable after the date of the enactment of this Act \[Apr. 5, 2000\], the Secretary of Defense, in consultation with the Secretary of Transportation and the Administrator of General Services, shall prescribe regulations relating to the sale of aircraft and aircraft parts under this section.
+
+&emsp;“(2)
+
+Contents.—The regulations shall—
+
+&emsp;&emsp;“(A) ensure that the sale of the aircraft and aircraft parts is made at a fair market value, as determined by the Secretary of Defense, and, to the extent practicable, on a competitive basis;
+
+&emsp;&emsp;“(B) require a certification by the purchaser that the aircraft and aircraft parts will be used only in accordance with the conditions set forth in subsection (b);
+
+&emsp;&emsp;“(C) establish appropriate means of verifying and enforcing the use of the aircraft and aircraft parts by the purchaser and other operators in accordance with the conditions set forth in subsection (b) or pursuant to subsection (e); and
+
+&emsp;&emsp;“(D) ensure, to the maximum extent practicable, that the Secretary of Defense consults with the Administrator of General Services and with the heads of appropriate departments and agencies of the Federal Government regarding alternative requirements for such aircraft and aircraft parts before the sale of such aircraft and aircraft parts under this section.
+
+“(e)
+
+Additional Terms and Conditions.—The Secretary of Defense may require such other terms and conditions in connection with each sale of aircraft and aircraft parts under this section as the Secretary considers appropriate for such sale. Such terms and conditions shall meet the requirements of regulations prescribed under subsection (d).
+
+“(f)
+
+Report.—Not later than March 31, 2002, the Secretary of Defense shall transmit to the Committees on Armed Services and Commerce, Science, and Transportation of the Senate and the Committees on National Security and Transportation and Infrastructure of the House of Representatives a report on the Secretary's exercise of authority under this section. The report shall set forth—
+
+&emsp;“(1) the number and types of aircraft sold under the authority, and the terms and conditions under which the aircraft were sold;
+
+&emsp;“(2) the persons or entities to which the aircraft were sold; and
+
+&emsp;“(3) an accounting of the current use of the aircraft sold.
+
+“(g)
+
+Statutory Construction.—
+
+&emsp;“(1)
+
+Authority of administrator.—Nothing in this section may be construed as affecting the authority of the Administrator under any other provision of law.
+
+&emsp;“(2)
+
+Certification requirements.—Nothing in this section may be construed to waive, with respect to an aircraft sold under the authority of this section, any requirement to obtain a certificate from the Administrator to operate the aircraft for any purpose (other than oil spill spotting, observation, and dispersant delivery) for which such a certificate is required.
+
+“(h)
+
+Proceeds From Sale.—The net proceeds of any amounts received by the Secretary of Defense from the sale of aircraft and aircraft parts under this section shall be covered into the general fund of the Treasury as miscellaneous receipts.”
+
 #### Sale of Aircraft for Wildfire Suppression Purposes
 
-Pub. L. 104–307, Oct. 14, 1996, 110 Stat. 3811, as amended by Pub. L. 106–65, div. A, title X, §1067(23), Oct. 5, 1999, 113 Stat. 775, provided that:
+Pub. L. 104–307, Oct. 14, 1996, 110 Stat. 3811, as amended by Pub. L. 106–65, div. A, title X, §1067(23), Oct. 5, 1999, 113 Stat. 775; Pub. L. 106–398, §1 \[\[div. A\], title III, §388\], Oct. 30, 2000, 114 Stat. 1654, 1654A–89, provided that:
 
 #### “SECTION 1. SHORT TITLE.
 
@@ -30,7 +112,7 @@ Pub. L. 104–307, Oct. 14, 1996, 110 Stat. 3811, as amended by Pub. L. 106–65
 
 “(a)
 
-Authority.—(1) Notwithstanding section 202 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 483) and subject to subsections (b) and (c), the Secretary of Defense may, during the period beginning on October 1, 1996, and ending on September 30, 2000, sell the aircraft and aircraft parts referred to in paragraph (2) to persons or entities that contract with the Federal Government for the delivery of fire retardant by air in order to suppress wildfire.
+Authority.—(1) Notwithstanding section 202 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 483) and subject to subsections (b) and (c), the Secretary of Defense may, during the period beginning on October 1, 1996, and ending on September 30, 2005, sell the aircraft and aircraft parts referred to in paragraph (2) to persons or entities that contract with the Federal Government for the delivery of fire retardant by air in order to suppress wildfire.
 
 “(2) Paragraph (1) applies to aircraft and aircraft parts of the Department of Defense that are determined by the Secretary to be—
 
@@ -52,7 +134,7 @@ Certification of Persons and Entities.—The Secretary of Defense may sell aircr
 
 “(d)
 
-Regulations.—(1) As soon as practicable after the date of the enactment of this Act \[Oct. 14, 1996\], the Secretary of Defense shall, in consultation with the Secretary of Agriculture and the Administrator of General Services, prescribe regulations relating to the sale of aircraft and aircraft parts under this section.
+Regulations.—(1) As soon as practicable after October 14, 1996, the Secretary of Defense shall, in consultation with the Secretary of Agriculture and the Administrator of General Services, prescribe regulations relating to the sale of aircraft and aircraft parts under this section. The regulations prescribed under this paragraph shall be effective until the end of the period specified in subsection (a)(1).
 
 “(2) The regulations shall—
 
@@ -70,7 +152,7 @@ Additional Terms and Conditions.—The Secretary of Defense may require such oth
 
 “(f)
 
-Report.—Not later than March 31, 2000, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the Secretary's exercise of authority under this section. The report shall set forth—
+Report.—Not later than March 31, 2005, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the Secretary's exercise of authority under this section. The report shall set forth—
 
 &emsp;“(1) the number and type of aircraft sold under the authority, and the terms and conditions under which the aircraft were sold;
 

@@ -1,10 +1,16 @@
 ### §3510. Authorization of appropriations
 
-There are authorized to be appropriated to the Secretary for carrying out this chapter $2,000,000 for each of fiscal years 1995 to 1998.
+There is authorized to be appropriated to the Secretary to carry out this chapter $2,000,000 for each of fiscal years 2001, 2002, 2003, 2004, and 2005.
 
-(Pub. L. 97–348, §12, Oct. 18, 1982, 96 Stat. 1659; Pub. L. 101–591, §13(a), Nov. 16, 1990, 104 Stat. 2941; Pub. L. 103–461, §1(c), Nov. 2, 1994, 108 Stat. 4804.)
+(Pub. L. 97–348, §10, formerly §12, Oct. 18, 1982, 96 Stat. 1659; Pub. L. 101–591, §13(a), Nov. 16, 1990, 104 Stat. 2941; Pub. L. 103–461, §1(c), Nov. 2, 1994, 108 Stat. 4804; renumbered §10 and amended Pub. L. 106–514, §5, Nov. 13, 2000, 114 Stat. 2396.)
+
+#### Prior Provisions
+
+A prior section 10 of Pub. L. 97–348 was classified to section 3509 of this title prior to repeal by Pub. L. 106–514.
 
 #### Amendments
+
+2000—Pub. L. 106–514 amended section generally. Prior to amendment, section read as follows: “There are authorized to be appropriated to the Secretary for carrying out this chapter $2,000,000 for each of fiscal years 1995 to 1998.”
 
 1994—Pub. L. 103–461 amended section generally. Prior to amendment, section read as follows: “There is authorized to be appropriated to the Secretary for carrying out this chapter not more than $1,000,000 for each of the fiscal years 1990, 1991, 1992, and 1993.”
 

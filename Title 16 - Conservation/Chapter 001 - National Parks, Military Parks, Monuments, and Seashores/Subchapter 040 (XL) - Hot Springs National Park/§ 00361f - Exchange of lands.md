@@ -4,7 +4,3 @@ For the purpose of consolidating Federal holdings of land within Hot Springs Nat
 
 (Pub. L. 85–679, Aug. 18, 1958, 72 Stat. 630.)
 
-#### Cross References
-
-Arlington Hotel site, see section 370a of this title.
-

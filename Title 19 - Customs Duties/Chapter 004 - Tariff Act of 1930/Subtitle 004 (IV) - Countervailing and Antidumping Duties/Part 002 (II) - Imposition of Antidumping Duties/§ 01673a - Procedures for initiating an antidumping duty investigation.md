@@ -34,7 +34,7 @@
 
 #### (1) Petition requirements
 
-&emsp;An antidumping proceeding shall be initiated whenever an interested party described in subparagraph (C), (D), (E), (F), or (G) of section 1677(9) of this title files a petition with the administering authority, on behalf of an industry, which alleges the elements necessary for the imposition of the duty imposed by section 1673 of this title, and which is accompanied by information reasonably available to the petitioner supporting those allegations. The petition may be amended at suchtime, and upon such conditions, as the administering authority and the Commission may permit.
+&emsp;An antidumping proceeding shall be initiated whenever an interested party described in subparagraph (C), (D), (E), (F), or (G) of section 1677(9) of this title files a petition with the administering authority, on behalf of an industry, which alleges the elements necessary for the imposition of the duty imposed by section 1673 of this title, and which is accompanied by information reasonably available to the petitioner supporting those allegations. The petition may be amended at such time, and upon such conditions, as the administering authority and the Commission may permit.
 
 #### (2) Simultaneous filing with Commission
 
@@ -110,7 +110,7 @@
 
 #### (C) Special rule for regional industries
 
-&emsp;&emsp;If the petition alleges the industry is a regional industry, the administering authority shall determine whether the petition has been filed by or on behalf of the industry byapplying subparagraph (A) on the basis of production in the region.
+&emsp;&emsp;If the petition alleges the industry is a regional industry, the administering authority shall determine whether the petition has been filed by or on behalf of the industry by applying subparagraph (A) on the basis of production in the region.
 
 #### (D) Polling the industry
 
@@ -170,7 +170,7 @@ Subsec. (c). Pub. L. 103–465, §212(a)(2), amended heading and text of subsec.
 
 &emsp;“(1) determine whether the petition alleges the elements necessary for the imposition of a duty under section 1673 of this title and contains information reasonably available to the petitioner supporting the allegations,
 
-&emsp;“(2) if the determination is affirmative, commence an investigation to determine whether the class or kind of merchandise described in the petition is being, or is likely to be, sold in the United States at less than its fair value, and provide for the publication of notice of the determination in the Federal Register, and
+&emsp;“(2) if the determination is affirmative, commence an investigation to determine whether the class or kind of merchandise described in the petition is being, or is likely to be, sold in the United States atless than its fair value, and provide for the publication of notice of the determination in the Federal Register, and
 
 &emsp;“(3) if the determination is negative, dismiss the petition, terminate the proceeding, notify the petitioner in writing of the reasons for the determination, and provide for the publication of notice of the determination in the Federal Register.”
 

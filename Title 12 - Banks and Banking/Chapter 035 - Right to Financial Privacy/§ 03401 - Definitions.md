@@ -10,7 +10,7 @@ For the purpose of this chapter, the term—
 
 &emsp;(4) “person” means an individual or a partnership of five or fewer individuals;
 
-&emsp;(5) “customer” means any person or authorized representative of that person who utilized or is utilizing any service of a financial institution, or for whom a financial institution isacting or has acted as a fiduciary, in relation to an account maintained in the person's name;
+&emsp;(5) “customer” means any person or authorized representative of that person who utilized or is utilizing any service of a financial institution, or for whom a financial institution is acting or has acted as a fiduciary, in relation to an account maintained in the person's name;
 
 &emsp;(6) “holding company” means—
 
@@ -80,7 +80,7 @@ Section 1100 of title XI of Pub. L. 95–630 provided that: “This title \[enac
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 3412 of this title; title 7 section 6f; title 15 sections 78<i>o</i>–5, 78q, 1681u; title 18 section 1030; title 42 sections 669a, 1320d–8; title 50 section 438.
+This section is referred to in section 3412 of this title; title 7 section 6f; title 15 sections 78<i>o</i>–5, 78q, 1681u; title 42 sections 669a, 1320d–8, 1383; title 50 section 438.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “the Director,”.</i>
 

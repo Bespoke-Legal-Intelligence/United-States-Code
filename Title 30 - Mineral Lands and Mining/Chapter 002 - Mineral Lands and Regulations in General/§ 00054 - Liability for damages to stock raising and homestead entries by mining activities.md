@@ -8,10 +8,6 @@ Notwithstanding the provisions of any Act of Congress to the contrary, any perso
 
 Provisions similar to this section were contained in act June 17, 1949, ch. 221, §2, 63 Stat. 201.
 
-#### Cross References
-
-Damage to natural and historical landmarks within National Park System, procedures for determination and enforcement of abatement of activities, see section 1908 of Title 16, Conservation.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in title 16 section 460mm–1.

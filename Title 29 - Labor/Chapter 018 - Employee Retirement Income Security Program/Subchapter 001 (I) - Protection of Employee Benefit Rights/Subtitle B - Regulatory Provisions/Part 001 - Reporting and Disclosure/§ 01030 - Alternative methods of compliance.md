@@ -22,5 +22,5 @@ Secretary authorized, effective Sept. 2, 1974, to promulgate regulations whereve
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1143, 1343 of this title.
+This section is referred to in section 1343 of this title.
 

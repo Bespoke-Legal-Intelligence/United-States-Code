@@ -84,7 +84,7 @@ As used in this section:
 
 #### (2) Provisional certificate
 
-&emsp;The Secretary may issue a provisional certificate for an entity to enable the entity to qualify as a facility. The applicant for a provisional certificate shall meet the requirements of subsection (d)(1) of this section, except providing information required by clauses (iii) and (iv) of subsection (d)(1)(A) of this section. A provisional certificate may be in effect no longer than 6 months from the date it is issued, except that it may be extended once for a period of not more than 90 days if the owner, lessor, or agent of the facility demonstrates to the Secretary that without such extension access to mammography in the geographic area served by the facility would be significantly reduced and if the owner, lessor, or agent of the facility will describe in a report to the Secretary steps that will be taken to qualify the facility for certification under subsection (b)(1) of this section.
+&emsp;The Secretary may issue a provisional certificate for an entity to enable the entity to qualify as a facility. The applicant for a provisional certificate shall meet the requirements of subsection (d)(1) of this section, except providing information required by clauses (iii) and (iv) of subsection (d)(1)(A) of this section. A provisional certificate may be in effect no longer than 6 months from the date it is issued, except that it may be extended once for a period of not more than 90 days if the owner, lessor, or agent of the facility demonstrates to the Secretary that without such extension access to mammography in the geographic areaserved by the facility would be significantly reduced and if the owner, lessor, or agent of the facility will describe in a report to the Secretary steps that will be taken to qualify the facility for certification under subsection (b)(1) of this section.
 
 #### (d) Application for certificate
 
@@ -332,7 +332,7 @@ As used in this section:
 
 #### (F) Records and annual reports
 
-&emsp;&emsp;The Secretary or a State or local agency acting on behalf of the Secretary which is responsible for inspecting mammography facilities shall maintain records of annual inspections required under this paragraph for a period as prescribed by the Secretary. Such a State or local agency shall annually prepare and submit to the Secretary a report concerning the inspections carried out under this paragraph. Such reports shall include a description of the facilities inspected and the results of such inspections.
+&emsp;&emsp;The Secretary or a State or local agency acting on behalf of the Secretary which is responsible for inspecting mammography facilities shall maintain records of annual inspections required under this paragraph for a period as prescribed by the Secretary. Sucha State or local agency shall annually prepare and submit to the Secretary a report concerning the inspections carried out under this paragraph. Such reports shall include a description of the facilities inspected and the results of such inspections.
 
 #### (2) Inspection of accredited facilities
 
@@ -402,7 +402,7 @@ As used in this section:
 
 #### (1) In general
 
-&emsp;The certificate of a facility issued under subsection (c) of this section may be suspended or revoked if the Secretary finds, after providing, except as provided in paragraph (2), reasonable notice and an opportunity for a hearing to the owner or operator of the facility, that the owner, operator, or any employee of the facility—
+&emsp;The certificate of a facility issued under subsection (c) of this section may be suspended or revoked if the Secretary finds, after providing,except as provided in paragraph (2), reasonable notice and an opportunity for a hearing to the owner or operator of the facility, that the owner, operator, or any employee of the facility—
 
 &emsp;&emsp;(A) has been guilty of misrepresentation in obtaining the certificate;
 
@@ -410,7 +410,7 @@ As used in this section:
 
 &emsp;&emsp;(C) has failed to comply with reasonable requests of the Secretary (or of an accreditation body approved pursuant to subsection (e) of this section) for any record, information, report, or material that the Secretary (or such accreditation body or State carrying out certification program requirements pursuant to subsection (q) of this section) concludes is necessary to determine the continued eligibility of the facility for a certificate or continued compliance with the standards established under subsection (f) of this section;
 
-&emsp;&emsp;(D) has refused a reasonable request of the Secretary, any Federal officer or employee duly designated by the Secretary, or anyState or local officer or employee duly designated by the State or local agency, for permission to inspect the facility or the operations and pertinent records of the facility in accordance with subsection (g) of this section;
+&emsp;&emsp;(D) has refused a reasonable request of the Secretary, any Federal officer or employee duly designated by the Secretary, or any State or local officer or employee duly designated by the State or local agency, for permission to inspect the facility or the operations and pertinent records of the facility in accordance with subsection (g) of this section;
 
 &emsp;&emsp;(E) has violated or aided and abetted in the violation of any provision of, or regulation promulgated under, this section; or
 
@@ -456,7 +456,7 @@ If the Secretary determines that—
 
 #### (3) Judgment of court
 
-&emsp;Upon the filing of the petition referred to in paragraph (1), the court shall have jurisdiction to affirm the action, or to set the action aside in whole or in part, temporarily or permanently. The findings of the Secretary as to the facts, if supported by substantial evidence, shall be conclusive.
+&emsp;Upon the filing of the petition referred to in paragraph (1), the court shall have jurisdiction to affirm the action, or to set the action asidein whole or in part, temporarily or permanently. The findings of the Secretary as to the facts, if supported by substantial evidence, shall be conclusive.
 
 #### (4) Finality of judgment
 
@@ -548,7 +548,7 @@ Nothing in this section shall be construed to limit the authority of any State t
 
 #### (<i>o</i>) Consultations
 
-In carrying out this section, the Secretary shall consult with appropriate Federal agencies within the Department of Health and Human Services for the purposes of developing standards, regulations, evaluations, and procedures for compliance and oversight.
+In carrying out this section, the Secretary shall consult with appropriate Federal agencieswithin the Department of Health and Human Services for the purposes of developing standards, regulations, evaluations, and procedures for compliance and oversight.
 
 #### (p) Breast cancer screening surveillance research grants
 
@@ -556,7 +556,7 @@ In carrying out this section, the Secretary shall consult with appropriate Feder
 
 #### (A) Grants
 
-&emsp;&emsp;The Secretary shall award grants to such entities as the Secretary may determine to be appropriate to establish surveillance systems in selected geographic areas to provide data to evaluate the functioning and effectiveness of breast cancer screening programs in the United States, including assessments of participation rates in screening mammography, diagnostic procedures, incidence of breast cancer, mode of detection (mammography screening or other methods), outcome and follow up information, and such related epidemiologic analyses that may improve early cancer detection and contribute to reduction in breast cancer mortality. Grantsmay be awarded for further research on breast cancer surveillance systems upon the Secretary's review of the evaluation of the program.
+&emsp;&emsp;The Secretary shall award grants to such entities as the Secretary may determine to be appropriate to establish surveillance systems in selected geographic areas to provide data to evaluate the functioning and effectiveness of breast cancer screening programs in the United States, including assessments of participation rates in screening mammography, diagnostic procedures, incidence of breast cancer, mode of detection (mammography screening or other methods), outcome and follow up information, and such related epidemiologic analyses that may improve early cancer detection and contribute to reduction in breast cancer mortality. Grants may be awarded for further research on breast cancer surveillance systems upon the Secretary's review of the evaluation of the program.
 
 #### (B) Use of funds
 
@@ -644,7 +644,7 @@ In carrying out this section, the Secretary shall consult with appropriate Feder
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall, in accordance with this paragraph assess and collect fees from persons described in subsection (d)(1)(A) ofthis section (other than persons who are governmental entities, as determined by the Secretary) to cover the costs of inspections conducted under subsection (g)(1) of this section by the Secretary or a State acting under a delegation under subparagraph (A) of such subsection. Fees may be assessed and collected under this paragraph only in such manner as would result in an aggregate amount of fees collected during any fiscal year which equals the aggregate amount of costs for such fiscal year for inspections of facilities of such persons under subsection (g)(1) of this section. A person's liability for fees shall be reasonably based on the proportion of the inspection costs which relate to such person.
+&emsp;&emsp;The Secretary shall, in accordance with this paragraph assess and collect fees from persons described in subsection (d)(1)(A) of this section (other than persons who are governmental entities, as determined by the Secretary) to cover the costs of inspections conducted under subsection (g)(1) of this section by the Secretary or a State acting under a delegation under subparagraph (A) of such subsection. Fees may be assessed and collected under this paragraph only in such manner as would result in an aggregate amount of fees collected during any fiscal year which equals the aggregate amount of costs for such fiscal year for inspections of facilities of such persons under subsection (g)(1) of this section. A person's liability for fees shall be reasonably based on the proportion of the inspection costs which relate to such person.
 
 #### (B) Deposit and appropriations
 
@@ -730,7 +730,7 @@ Subsec. (r)(2)(B). Pub. L. 105–248, §2, substituted “fiscal years” for �
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Termination of Advisory Committees
 

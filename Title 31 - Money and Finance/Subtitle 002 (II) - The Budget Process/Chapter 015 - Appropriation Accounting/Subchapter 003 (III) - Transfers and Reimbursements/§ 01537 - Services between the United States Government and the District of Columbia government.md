@@ -22,7 +22,7 @@
 
 (c) In providing services under an agreement made under subsection (b) of this section—
 
-&emsp;(1) costs incurred by the United States Government may be paid from appropriationsavailable to the District of Columbia government officer or employee to whom the services were provided; and
+&emsp;(1) costs incurred by the United States Government may be paid from appropriations available to the District of Columbia government officer or employee to whom the services were provided; and
 
 &emsp;(2) costs incurred by the District of Columbia government may be paid from amounts available to the United States Government officer or employee to whom the services were provided.
 
@@ -71,10 +71,6 @@ In subsection (c)(2), the words “District of Columbia government” are substi
 #### References in Text
 
 Section 302 of title 3, referred to in subsec. (d), probably should be a reference to section 202 of Title 3, The President, which contains provisions relating to powers and duties of the United States Secret Service Uniformed Division, formerly known as the Executive Protective Service. Section 302 of Title 3 relates to scope of delegation of functions by the President.
-
-#### Codification
-
-Section is also set out in D.C. Code, §1–1131.1.
 
 #### Change of Name
 

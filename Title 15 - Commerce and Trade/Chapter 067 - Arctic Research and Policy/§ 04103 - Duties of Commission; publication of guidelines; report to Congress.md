@@ -38,3 +38,7 @@ Subsec. (b). Pub. L. 101–609, §4(b), amended subsec. (b) generally. Prior to 
 
 &emsp;“(2) submit to the President and to the Congress a report describing the activities and accomplishments of the Commission during the immediately preceding fiscal year.”
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (b) of this section relating to submitting annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 155 of House Document No. 103–7.
+

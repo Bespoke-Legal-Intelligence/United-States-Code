@@ -12,21 +12,15 @@ It is further the sense of the Congress (1) that where problems or opportunities
 
 It is the sense of the Congress that the President should increase, to the extent practicable, the funds provided by the United States to multilateral lending institutions and multilateral organizations in which the United States participates for use by such institutions and organizations in making loans to foreign countries.
 
-#### (d) Transfer of funds; use of international or multilateral lending organizations
-
-In furtherance of the provisions of subsection (a) of this section, any funds appropriated under subchapter I of this chapter may be transferred by the President to the International Development Association, the International Bank for Reconstruction and Development, the International Finance Corporation, the Asian Development Bank or other multilateral lending institutions and multilateral organizations in which the United States participates for the purpose of providing funds to enable any such institution or organization to make loans to foreign countries.
-
-(Pub. L. 87–195, pt. I, §209, as added Pub. L. 90–137, pt. I, §102(e), Nov. 14, 1967, 81 Stat. 449; amended Pub. L. 92–226, pt. I, §101(c), Feb. 7, 1972, 86 Stat. 21; Pub. L. 94–161, title III, §311(1), Dec. 20, 1975, 89 Stat. 860.)
+(Pub. L. 87–195, pt. I, §209, as added Pub. L. 90–137, pt. I, §102(e), Nov. 14, 1967, 81 Stat. 449; amended Pub. L. 92–226, pt. I, §101(c), Feb. 7, 1972, 86 Stat. 21; Pub. L. 94–161, title III, §311(1), Dec. 20, 1975, 89 Stat. 860; Pub. L. 106–429, §101(a) \[title VIII, §804\], Nov. 6, 2000, 114 Stat. 1900, 1900A–67.)
 
 #### References in Text
 
 This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
-#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
-
-References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
-
 #### Amendments
+
+2000—Subsec. (d). Pub. L. 106–429 struck out subsec. (d) which read as follows: “In furtherance of the provisions of subsection (a) of this section, any funds appropriated under subchapter I of this chapter may be transferred by the President to the International Development Association, the International Bank for Reconstruction and Development, the International Finance Corporation, the Asian Development Bank or other multilateral lending institutions and multilateral organizations in which the United States participates for the purpose of providing funds to enable any such institution or organization to make loans to foreign countries.”
 
 1975—Subsec. (c). Pub. L. 94–161 substituted provision for increase of Federal funds to multilateral lending institutions and multilateral organizations for making loans to foreign countries for prior provision for reduction of loans under the bilateral lending programs to attain a total amount not to exceed $100,000,000 not later than June 30, 1975.
 
@@ -40,7 +34,7 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 #### Establishment of Standard Governing Allocation of Development Assistance for Production and Export of Commodities in Surplus in World Market; Presidential Initiation of International Consultations; Report by President to Congress
 
-Pub. L. 95–481, title VI, §610, Oct. 18, 1978, 92 Stat. 1602, provided that: “The President shall initiate wide international consultations beginning with the member nations of the Organization of Economic Cooperation and Development (OECD), designed to develop a viable standard governing the allocation of development assistance for the production and export of commodities. Such consultations shall relate to commodities which are in surplus in the world market and if produced forexport would cause substantial harm to producers of the same, similar or competing products. Not later than one year after the enactment of this Act \[Oct. 18, 1978\] the President shall report to the President of the Senate, the Speaker of the House of Representatives, and the Chairmen of the House and Senate Appropriations Committees on the progress made in carrying out this section.”
+Pub. L. 95–481, title VI, §610, Oct. 18, 1978, 92 Stat. 1602, provided that: “The President shall initiate wide international consultations beginning with the member nations of the Organization of Economic Cooperation and Development (OECD), designed to develop a viable standard governing the allocation of development assistance for the production and export of commodities. Such consultations shall relate to commodities which are in surplus in the world market and if produced for export would cause substantial harm to producers of the same, similar or competing products. Not later than one year after the enactment of this Act \[Oct. 18, 1978\] the President shall report to the President of the Senate, the Speaker of the House of Representatives, and the Chairmen of the House and Senate Appropriations Committees on the progress made in carrying out this section.”
 
 #### Policy With Respect to Countries Most Seriously Affected by Food Shortages; Presidential Reports to Congress
 

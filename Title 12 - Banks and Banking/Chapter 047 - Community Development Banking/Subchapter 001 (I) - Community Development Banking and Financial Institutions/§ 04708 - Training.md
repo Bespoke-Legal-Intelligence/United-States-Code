@@ -6,7 +6,7 @@ The Fund may operate a training program to increase the capacity and expertise o
 
 #### (b) Program activities
 
-The training program shall provide educational programs to assist community development financial institutions and other membersof the financial services industry in developing lending and investment products, underwriting and servicing loans, managing equity investments, and providing development services targeted to areas of economic distress, low-income persons, and persons who lack adequate access to loans and equity investments.
+The training program shall provide educational programs to assist community development financial institutions and other members of the financial services industry in developing lending and investment products, underwriting and servicing loans, managing equity investments, and providing development services targeted to areas of economic distress, low-income persons, and persons who lack adequate access to loans and equity investments.
 
 #### (c) Participation
 

@@ -24,20 +24,6 @@ Commenting on this section and sections 72 to 76 of this title the Department of
 
 “While there may be some Indian lands still subject to coal entry by virtue of the provisions of law opening such lands to entry, the coal land laws generally were superseded by the leasing Act of Feb. 25, 1920, 41 Stat. 437 \[section 181 et seq. of this title\], and it is at least questionable whether the coal land laws should be carried into the Code.”
 
-#### Cross References
-
-Agricultural entries on lands withdrawn or classified as coal lands or valuable for coal, see sections 83 to 85 of this title.
-
-Disposition of coal deposits, form and manner, see section 193 of this title.
-
-Leases and prospecting permits, see section 201 et seq. of this title.
-
-State selections of lands withdrawn or classified as coal lands or valuable for coal under grants by Congress, see section 90 of this title.
-
-Submerged lands, mineral rights generally, see section 1301 et seq. of Title 43, Public Lands.
-
-Surface rights of entrymen, protection of, when entry under nonmineral land laws of lands subsequently classified, claimed, or reported as coal lands, see section 81 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 24, 29, 33, 37, 38, 39, 40, 42, 46, 47, 72, 74, 75, 76, 102 of this title.

@@ -8,7 +8,7 @@
 
 &emsp;(3) shall be funded by annual appropriations, subject to annual authorizations which shall be made for each fiscal year of the program (as provided in section 8905 of this title) after the submission of the Task Force progress report which under section 8903(e) of this title is required to be submitted by January 15 of the calendar year in which such fiscal year begins.
 
-(b) Nothing in this subchapter shall be deemed to grant any new regulatory authority or tolimit, expand, or otherwise modify any regulatory authority under existing law, or to establish new criteria, standards, or requirements for regulation under existing law.
+(b) Nothing in this subchapter shall be deemed to grant any new regulatory authority or to limit, expand, or otherwise modify any regulatory authority under existing law, or to establish new criteria, standards, or requirements for regulation under existing law.
 
 (Pub. L. 96–294, title VII, §705, June 30, 1980, 94 Stat. 773.)
 

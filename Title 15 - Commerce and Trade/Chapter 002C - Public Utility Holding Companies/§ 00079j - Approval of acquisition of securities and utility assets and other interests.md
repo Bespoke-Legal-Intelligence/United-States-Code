@@ -58,17 +58,13 @@ The Commission, in any order approving the acquisition of securities or utility 
 
 #### (f) Compliance with State laws as condition of approval
 
-The Commission shall not approve any acquisition as to which an application is made under this section unless it appears to the satisfaction of the Commission that such State laws as may apply in respect of such acquisition have been complied with, except where the Commissionfinds that compliance with such State laws would be detrimental to the carrying out of the provisions of section 79k of this title.
+The Commission shall not approve any acquisition as to which an application is made under this section unless it appears to the satisfaction of the Commission that such State laws as may apply in respect of such acquisition have been complied with, except where the Commission finds that compliance with such State laws would be detrimental to the carrying out of the provisions of section 79k of this title.
 
 (Aug. 26, 1935, ch. 687, title I, §10, 49 Stat. 818.)
 
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
-#### Cross References
-
-Unlawful acquisition of securities and utility assets, see section 79i of this title.
 
 #### Section Referred to in Other Sections
 

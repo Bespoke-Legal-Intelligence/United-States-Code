@@ -16,7 +16,7 @@ Amount.—The amount to be paid to an eligible disabled uniformed services retir
 
 (c)
 
-Eligible Members.—An eligible disabled uniformed services retiree referred to in subsection (a) is a member of the uniformed services in a retired status (other than a member who is retired under chapter 61 of this title) who—
+Eligible Members.—An eligible disabled uniformed services retiree referred to in subsection (a) is a member of the uniformed services in a retired status who—
 
 &emsp;(1) completed at least 20 years of service in the uniformed services that are creditable for purposes of computing the amount of retired pay to which the member is entitled; and
 
@@ -56,7 +56,15 @@ Other Definitions.—In this section:
 
 &emsp;(3) The term “retired pay” includes retainer pay, emergency officers’ retirement pay, and naval pension.
 
-(Added Pub. L. 106–65, div. A, title VI, §658(a)(1), Oct. 5, 1999, 113 Stat. 668.)
+(Added Pub. L. 106–65, div. A, title VI, §658(a)(1), Oct. 5, 1999, 113 Stat. 668; amended Pub. L. 106–398, §1 \[\[div. A\], title VI, §657(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–166.)
+
+#### Amendments
+
+2000—Subsec. (c). Pub. L. 106–398 struck out “(other than a member who is retired under chapter 61 of this title)” after “retired status” in introductory provisions.
+
+#### Effective Date of 2000 Amendment
+
+Pub. L. 106–398, §1 \[\[div. A\], title VI, §657(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–166, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 2001, and shall apply to months that begin on or after that date. No benefit may be paid under section 1413 of title 10, United States Code, to any person by reason of the amendment made by subsection (a) for any period before that date.”
 
 #### Effective Date
 

@@ -108,7 +108,7 @@ The Secretary and the Administrator shall provide technical assistance to coasta
 
 #### (1) Review
 
-&emsp;The Secretary, in consultation with the Administrator of the Environmental Protection Agency, shall, within 18 months after November 5, 1990, review the inland coastal zone boundary of each coastal State program which has been approved or is proposed for approval under section 306 of the Coastal Zone Management Act of 1972 \[16 U.S.C. 1455\], and evaluate whether the State's coastal zone boundary extends inland to the extent necessary to control the land and water uses that have a significant impact on coastal waters of the State.
+&emsp;The Secretary, in consultation with the Administrator of the Environmental ProtectionAgency, shall, within 18 months after November 5, 1990, review the inland coastal zone boundary of each coastal State program which has been approved or is proposed for approval under section 306 of the Coastal Zone Management Act of 1972 \[16 U.S.C. 1455\], and evaluate whether the State's coastal zone boundary extends inland to the extent necessary to control the land and water uses that have a significant impact on coastal waters of the State.
 
 #### (2) Recommendation
 
@@ -126,7 +126,7 @@ The Secretary and the Administrator shall provide technical assistance to coasta
 
 #### (3) State share
 
-&emsp;The State share of the cost of an activity carried out with a grant under this subsectionshall be paid from amounts from non-Federal sources.
+&emsp;The State share of the cost of an activity carried out with a grant under this subsection shall be paid from amounts from non-Federal sources.
 
 #### (4) Allocation
 
@@ -212,7 +212,7 @@ In this section—
 
 The Coastal Zone Management Act of 1972, referred to in subsecs. (a)(2) and (i)(3), is title III of Pub. L. 89–454 as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, as amended, which is classified generally to this chapter (§1451 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1451 of this title and Tables.
 
-This Act, referred to in subsecs. (a)(2) and (c)(2)(B), is Pub. L. 101–508, Nov. 5, 1990, 104 Stat. 1388, known as theOmnibus Budget Reconciliation Act of 1990. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsecs. (a)(2) and (c)(2)(B), is Pub. L. 101–508, Nov. 5, 1990, 104 Stat. 1388, known as the Omnibus Budget Reconciliation Act of 1990. For complete classification of this Act to the Code, see Tables.
 
 Section 318(a) of the Coastal Zone Management Act of 1972, referred to in subsec. (h)(2)(A), which is classified to section 1464(a) of this title, was amended by Pub. L. 104–150, §4(1), June 3, 1996, 110 Stat. 1381, and, as so amended, does not contain a par. (4).
 

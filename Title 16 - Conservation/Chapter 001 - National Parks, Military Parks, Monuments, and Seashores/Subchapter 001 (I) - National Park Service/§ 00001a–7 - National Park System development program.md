@@ -1,8 +1,6 @@
 ### §1a–7. National Park System development program
 
-#### (a) Transmittal to Congressional committees
-
-Not later than January 15 of each calendar year, the Secretary of the Interior shall transmit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives a detailed program for the development of facilities, structures, or buildings for each unit of the National Park System consistent with the general management plans required in subsection (b) of this section.
+#### (a) Omitted
 
 #### (b) General management plans; preparation and revision by Director of National Park Service; list to Congress; contents
 
@@ -18,6 +16,10 @@ General management plans for the preservation and use of each unit of the Nation
 
 (Pub. L. 91–383, §12, as added Pub. L. 94–458, §2, Oct. 7, 1976, 90 Stat. 1942; amended Pub. L. 95–625, title VI, §604(3), (4), Nov. 10, 1978, 92 Stat. 3518, 3519; Pub. L. 103–437, §6(c), Nov. 2, 1994, 108 Stat. 4583; Pub. L. 105–391, title IV, §415(b)(2), Nov. 13, 1998, 112 Stat. 3515.)
 
+#### Codification
+
+Subsection (a), which required the Secretary of the Interior to transmit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives a detailed program for the development of facilities, structures, or buildings for each unit of the National Park System consistent with the general management plans required in subsection (b) of this section, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 110 of House Document No. 103–7.
+
 #### Amendments
 
 1998—Subsec. (c). Pub. L. 105–391 struck out subsec. (c) which read as follows: “The Secretary of the Interior shall hereafter transmit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives all proposed awards of concession leases and contracts involving a gross annual business of $100,000 or more, or of five years or more in duration (including renewals thereof), and all proposed rules and regulations relating thereto, sixty days before such awards are made or such rules and regulations are promulgated.”
@@ -28,11 +30,11 @@ General management plans for the preservation and use of each unit of the Nation
 
 Subsec. (c). Pub. L. 95–625, §604(4), substituted “or of five years or more” for “or exceeding five years”.
 
-#### Change of Name
+#### Termination of Reporting Requirements
 
-Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+For termination, effective May 15, 2000, of provisions in subsec. (b) of this section relating to submitting to Congress, on January 1 each year, a list indicating the current status of general management plans, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 110 of House Document No. 103–7.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 284h, 410ff–3, 410gg–4, 410ii–5, 410<i>oo</i>–3, 410qq–2, 410ww–2, 410yy–5, 410ddd of this title.
+This section is referred to in sections 284h, 410ff–3, 410gg–4, 410ii–5, 410<i>oo</i>–3, 410qq–2, 410ww–2, 410yy–5, 410ddd, 410ggg–1 of this title.
 

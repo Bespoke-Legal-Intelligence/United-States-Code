@@ -32,9 +32,7 @@
 | (b) | Submission of reports with agency appropriations requests. |
 | (c) | Consideration in President's budget. |
 | [2936\.](Subchapter%20001%20%28I%29%20-%20United%20States%20Global%20Change%20Research%20Program/%C2%A7%2002936%20-%20Scientific%20assessment.md) | Scientific assessment. |
-| [2937\.](Subchapter%20001%20%28I%29%20-%20United%20States%20Global%20Change%20Research%20Program/%C2%A7%2002937%20-%20Annual%20report.md) | Annual report. |
-| (a) | General. |
-| (b) | Recommendations. |
+| [2937\.](Subchapter%20001%20%28I%29%20-%20United%20States%20Global%20Change%20Research%20Program/%C2%A7%2002937%20-%20Omitted.md) | Omitted. |
 | [2938\.](Subchapter%20001%20%28I%29%20-%20United%20States%20Global%20Change%20Research%20Program/%C2%A7%2002938%20-%20Relation%20to%20other%20authorities.md) | Relation to other authorities. |
 | (a) | National Climate Program research activities. |
 | (b) | Availability of research findings. |

@@ -81,3 +81,4 @@ This subchapter is referred to in sections 286q, 290k–5, 290<i>l</i>–2, 290<
 - [&sect; 00286ll - Fund policy changes](%C2%A7%2000286ll%20-%20Fund%20policy%20changes.md)
 - [&sect; 00286mm - Measures to reduce military spending by developing nations](%C2%A7%2000286mm%20-%20Measures%20to%20reduce%20military%20spending%20by%20developing%20nations.md)
 - [&sect; 00286nn - Approval of contributions for debt reductions for the poorest countries](%C2%A7%2000286nn%20-%20Approval%20of%20contributions%20for%20debt%20reductions%20for%20the%20poorest%20countries.md)
+- [&sect; 00286oo - Principles for International Monetary Fund lending](%C2%A7%2000286oo%20-%20Principles%20for%20International%20Monetary%20Fund%20lending.md)

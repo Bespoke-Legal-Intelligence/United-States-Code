@@ -2,7 +2,7 @@
 
 For the purpose of enabling each State to furnish financial assistance, as far as practicable under the conditions in such State, to needy individuals who are blind, there is hereby authorized to be appropriated for each fiscal year a sum sufficient to carry out the purposes of this subchapter. The sums made available under this section shall be used for making payments to States which have submitted, and had approved by the Secretary of Health and Human Services, State plans for aid to the blind.
 
-(Aug. 14, 1935, ch. 531, title X, §1001, 49 Stat. 645; Aug. 28, 1950, ch. 809, title III, pt. 6, §361(b), 64 Stat. 558; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr.11, 1953, 18 F.R. 2053, 67 Stat. 631; Aug. 1, 1956, ch. 836, title III, §313(a), 70 Stat. 849; Pub. L. 87–543, title I, §104(c)(3), July 25, 1962, 76 Stat. 186; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 97–35, title XXI, §2184(c)(1), Aug. 13, 1981, 95 Stat. 817.)
+(Aug. 14, 1935, ch. 531, title X, §1001, 49 Stat. 645; Aug. 28, 1950, ch. 809, title III, pt. 6, §361(b), 64 Stat. 558; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Aug. 1, 1956, ch. 836, title III, §313(a), 70 Stat. 849; Pub. L. 87–543, title I, §104(c)(3), July 25, 1962, 76 Stat. 186; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 97–35, title XXI, §2184(c)(1), Aug. 13, 1981, 95 Stat. 817.)
 
 #### Repeal of Section
 

@@ -16,7 +16,7 @@
 
 (b) With his consent, any member of the naval service or of the Coast Guard whose name is on the temporary disability retired list, and who is found to be physically fit to perform the duties of his office, grade, rank, or rating under section 1210(f) of this title, shall—
 
-&emsp;(1) if he held an appointment in a commissioned grade in a regular component when his name was placed on the temporary disability retired list, be recalled to active duty and, as soon as practicable, may be reappointed by the President, by and with the advice and consent of the Senate, to his regular component in the grade permanently held by him when his name was placed on the temporary disability retired list, or in the next higher grade;
+&emsp;(1) if he held an appointment in a commissioned grade in a regular component when his name was placed on the temporary disability retired list, be recalled to active duty and, as soon as practicable, may be reappointed by the President, by and with the advice and consentof the Senate, to his regular component in the grade permanently held by him when his name was placed on the temporary disability retired list, or in the next higher grade;
 
 &emsp;(2) if he held an appointment in the grade of warrant officer, W–1, in a regular component when his name was placed on the temporary disability retired list, be recalled to active duty and, as soon as practicable, be reappointed by the Secretary concerned in his regular component in the grade permanently held by him when his name was placed on the temporary disability retired list, or may be appointed by the President, by and with the advice and consent of the Senate, to the grade of chief warrant officer, W–2;
 
@@ -156,7 +156,7 @@ Oct. 12, 1949, ch. 681, §§405, 406, 407, 63 Stat. 821.
 
 In subsections (a) and (b), the words “under section 1210(f) of this title” are substituted for the words “If, as a result of a periodic physical examination”, in 37:275(a) and (b), and 276(a), and the words “and who are subsequently found to be physically fit”, in 37:277(a). The words “subject to the provisions of section 277 of this title”, in 37:275(a), are omitted as surplusage.
 
-In subsections (a)(2)–(6) and (b)(2)–(6), the appointment or enlistment is restricted to those already in an enlisted, warrant, or commissioned status, as the case may be, held by the member before placement of his name on the temporary disability retired list, since 37:277 (last sentence) indicates that appointment in the next higher grade for regular warrant officer is restricted to those warrant grades to which the President alone may appoint him. Similarly 37:275 (last 10 words) indicates that an enlisted member may only be reenlisted.
+In subsections (a)(2)–(6) and (b)(2)–(6), the appointment or enlistment is restricted to those already in an enlisted, warrant, or commissioned status, as the case may be, held by the member before placement of his name on the temporary disability retired list, since 37:277 (last sentence) indicates that appointment in thenext higher grade for regular warrant officer is restricted to those warrant grades to which the President alone may appoint him. Similarly 37:275 (last 10 words) indicates that an enlisted member may only be reenlisted.
 
 In subsection (a)(2) reference to the President, in 37:277(a), is omitted as inapplicable to the appointment of warrant officers of the Army and the Air Force.
 
@@ -164,7 +164,7 @@ Subsection (a)(5) is substituted for 37:275(b) (proviso) (as applicable to Army 
 
 Subsection (a)(6) is inserted, since the words “reserve component” are defined by section 102(k) of the source statute to include members of the Army and the Air Force who have no component status.
 
-In subsection (b)(2), the words “by and with the advice and consent of the Senate” are added to make itclear that all appointments to the grade of commissioned warrant officer in the Navy, Marine Corps, and Coast Guard require Senate confirmation. Although these words do not appear in section 405 of the Career Compensation Act of 1949, there is no indication that an exception to the basic law relating to appointments in commissioned grades was intended.
+In subsection (b)(2), the words “by and with the advice and consent of the Senate” are added to make it clear that all appointments to the grade of commissioned warrant officer in the Navy, Marine Corps, and Coast Guard require Senate confirmation. Although these words do not appear in section 405 of the Career Compensation Act of 1949, there is no indication that an exception to the basic law relating to appointments in commissioned grades was intended.
 
 Subsection (d)(3) is made applicable to members without component status, since the words “reserve component” are defined in section 102(k) of the source statute to include members of the Army and the Air Force who have no component status.
 

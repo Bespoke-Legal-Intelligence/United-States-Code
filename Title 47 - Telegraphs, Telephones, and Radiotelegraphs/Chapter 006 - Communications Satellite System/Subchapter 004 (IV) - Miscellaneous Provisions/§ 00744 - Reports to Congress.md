@@ -4,6 +4,10 @@ The corporation shall transmit to the President and the Congress, annually and a
 
 (Pub. L. 87–624, title IV, §404, Aug. 31, 1962, 76 Stat. 426; Pub. L. 103–414, title III, §304(b)(4), Oct. 25, 1994, 108 Stat. 4297; Pub. L. 104–66, title II, §2051(a), Dec. 21, 1995, 109 Stat. 729.)
 
+#### Termination of Section
+
+<i>Section to cease to be effective on the effective date of a Commission order determining under section 761(b)(2) of this title that INTELSAT privatization is consistent with criteria in sections 763 and 763a of this title, see section 765d(4) of this title.</i>
+
 #### Amendments
 
 1995—Subsec. (c). Pub. L. 104–66, which directed that this section be amended by striking out subsec. (c), could not be executed, because of a prior amendment by Pub. L. 103–414. See 1994 Amendment note below.
@@ -16,5 +20,5 @@ The corporation shall transmit to the President and the Congress, annually and a
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 904 of this title.
+This section is referred to in sections 765d, 904 of this title.
 

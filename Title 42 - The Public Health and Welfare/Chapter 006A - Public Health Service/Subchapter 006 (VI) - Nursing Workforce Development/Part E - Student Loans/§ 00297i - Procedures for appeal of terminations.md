@@ -1,12 +1,12 @@
 ### §297i. Procedures for appeal of terminations
 
-In any case in which the Secretary intends to terminate an agreement with a school of nursing under this subpart,<sup>1</sup> the Secretary shall provide the school with a written notice specifying such intention and stating that the school may request a formal hearing with respect to such termination. If the school requests such a hearing within 30 days after the receipt of such notice, the Secretary shall provide such school with a hearing conducted by an administrative law judge.
+In any case in which the Secretary intends to terminate an agreement with a school of nursing under this part,<sup>1</sup> the Secretary shall provide the school with a written notice specifying such intention and stating that the school may request a formal hearing with respect to such termination. If the school requests such a hearing within 30 days after the receipt of such notice, the Secretary shall provide such school with a hearing conducted by an administrative law judge.
 
 (July 1, 1944, ch. 373, title VIII, §842, as added Pub. L. 99–92, §8(g), Aug. 16, 1985, 99 Stat. 399.)
 
 #### References in Text
 
-This subpart, referred to in text, probably should be “this part”, to reflect the redesignation of subpart II of part B of this subchapter as part E of this subchapter by Pub. L. 105–392, title I, §123(2), Nov. 13, 1998, 112 Stat. 3562.
+This part, referred to in text, was in the original “this subpart” and was translated to reflect the probable intent of Congress and the redesignation of subpart II of part B of this subchapter as part E of this subchapter by Pub. L. 105–392, title I, §123(2), Nov. 13, 1998, 112 Stat. 3562.
 
 #### Prior Provisions
 

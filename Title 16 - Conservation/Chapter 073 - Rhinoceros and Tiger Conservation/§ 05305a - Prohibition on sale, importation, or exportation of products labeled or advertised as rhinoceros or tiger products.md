@@ -18,7 +18,7 @@ A person shall not sell, import, or export, or attempt to sell, import, or expor
 
 #### (B) Manner of assessment and collection
 
-&emsp;&emsp;A civil penalty under this paragraph shall be assessed, and may be collected, in themanner in which a civil penalty under the Endangered Species Act of 1973 \[16 U.S.C. 1531 et seq.\] may be assessed and collected under section 11(a) of that Act (16 U.S.C. 1540(a)).
+&emsp;&emsp;A civil penalty under this paragraph shall be assessed, and may be collected, in the manner in which a civil penalty under the Endangered Species Act of 1973 \[16 U.S.C. 1531 et seq.\] may be assessed and collected under section 11(a) of that Act (16 U.S.C. 1540(a)).
 
 #### (c) Products, items, and substances
 
@@ -26,7 +26,7 @@ Any product, item, or substance sold, imported, or exported, or attempted to be 
 
 #### (d) Regulations
 
-After consultation with the Secretary of the Treasury, the Secretary of Health and Human Services, and the United States Trade Representative, the Secretary shall issue such regulations as are appropriate to carry out this section.
+After consultation with the Secretary of the Treasury, the Secretary of Health and HumanServices, and the United States Trade Representative, the Secretary shall issue such regulations as are appropriate to carry out this section.
 
 #### (e) Enforcement
 

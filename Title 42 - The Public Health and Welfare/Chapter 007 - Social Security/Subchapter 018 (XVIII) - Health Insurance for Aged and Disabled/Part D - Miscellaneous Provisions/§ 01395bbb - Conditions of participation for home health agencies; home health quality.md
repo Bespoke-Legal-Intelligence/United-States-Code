@@ -90,7 +90,7 @@ It is the duty and responsibility of the Secretary to assure that the conditions
 
 (1) Any agreement entered into or renewed by the Secretary pursuant to section 1395aa of this title relating to home health agencies shall provide that the appropriate State or local agency shall conduct, without any prior notice, a standard survey of each home health agency. Any individual who notifies (or causes to be notified) a home health agency of the time or date on which such a survey is scheduled to be conducted is subject to a civil money penalty of not to exceed $2,000. The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to a civil money penalty under this paragraph in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a of this title. The Secretary shall review each State's or local agency's procedures for scheduling and conduct of standard surveys to assure that the State or agency has taken all reasonable steps to avoid giving notice of such a survey through the scheduling procedures and the conduct of the surveys themselves.
 
-(2)(A) Except as provided in subparagraph (B), each home health agency shall be subject to a standard survey not later than 36 months after the date of the previous standard survey conducted under this paragraph. The Secretary shall establish a frequency for surveys of home health agencies within this 36-month intervalcommensurate with the need to assure the delivery of quality home health services.
+(2)(A) Except as provided in subparagraph (B), each home health agency shall be subject to a standard survey not later than 36 months after the date of the previous standard survey conducted under this paragraph. The Secretary shall establish a frequency for surveys of home health agencies within this 36-month interval commensurate with the need to assure the delivery of quality home health services.
 
 (B) If not otherwise conducted under subparagraph (A), a standard survey (or an abbreviated standard survey) of an agency—
 
@@ -140,7 +140,7 @@ It is the duty and responsibility of the Secretary to assure that the conditions
 
 (1) If the Secretary determines on the basis of a standard, extended, or partial extended survey or otherwise, that a home health agency that is certified for participation under this subchapter is no longer in compliance with the requirements specified in or pursuant to section 1395x(<i>o</i>) of this title or subsection (a) of this section and determines that the deficiencies involved immediately jeopardize the health and safety of the individuals to whom the agency furnishes items and services, the Secretary shall take immediate action to remove the jeopardy and correct the deficiencies through the remedy specified in subsection (f)(2)(A)(iii) of this section or terminate the certification of the agency, and may provide, in addition, for 1 or more of the other remedies described in subsection (f)(2)(A) of this section.
 
-(2) If the Secretary determines on the basis of a standard, extended, or partial extended survey or otherwise, that a home health agency that is certified for participation under this subchapter is no longer in compliance with the requirements specified in or pursuant to section 1395x(<i>o</i>) of this title or subsection (a) of this section and determines that the deficiencies involved do not immediately jeopardize the healthand safety of the individuals to whom the agency furnishes items and services, the Secretary may (for a period not to exceed 6 months) impose intermediate sanctions developed pursuant to subsection (f) of this section, in lieu of terminating the certification of the agency. If, after such a period of intermediate sanctions, the agency is still no longer in compliance with the requirements specified in or pursuant to section 1395x(<i>o</i>) of this title or subsection (a) of this section, the Secretary shall terminate the certification of the agency.
+(2) If the Secretary determines on the basis of a standard, extended, or partial extended survey or otherwise, that a home health agency that is certified for participation under this subchapter is no longer in compliance with the requirements specified in or pursuant to section 1395x(<i>o</i>) of this title or subsection (a) of this section and determines that the deficiencies involved do not immediately jeopardize the health and safety of the individuals to whom the agency furnishes items and services, the Secretary may (for a period not to exceed 6 months) impose intermediate sanctions developed pursuant to subsection (f) of this section, in lieu of terminating the certification of the agency. If, after such a period of intermediate sanctions, the agency is still no longer in compliance with the requirements specified in or pursuant to section 1395x(<i>o</i>) of this title or subsection (a) of this section, the Secretary shall terminate the certification of the agency.
 
 (3) If the Secretary determines that a home health agency that is certified for participation under this subchapter is in compliance with the requirements specified in or pursuant to section 1395x(<i>o</i>) of this title or subsection (a) of this section but, as of a previous period, did not meet such requirements, the Secretary may provide for a civil money penalty under subsection (f)(2)(A)(i) of this section for the days in which it finds that the agency was not in compliance with such requirements.
 
@@ -176,7 +176,7 @@ It is the duty and responsibility of the Secretary to assure that the conditions
 
 (C) A finding to suspend payment under subparagraph (A)(ii) shall terminate when the Secretary finds that the home health agency is in substantial compliance with all the requirements specified in or pursuant to section 1395x(<i>o</i>) of this title and subsection (a) of this section.
 
-(3) The Secretary shall develop and implement, by not later than April 1, 1989, specific procedures with respect to the conditions under which each of the intermediate sanctions developed under paragraph (1) is to be applied, including the amount of any fines and the severity of each of these sanctions. Such procedures shall be designed so as to minimize the time between identification of deficiencies and imposition of these sanctions and shall provide for the imposition of incrementally more severe fines for repeated or uncorrected deficiencies.
+(3) The Secretary shall develop and implement, by not later than April 1, 1989, specific procedures with respect to the conditions under which each of the intermediate sanctions developed under paragraph (1) is to be applied, including the amount of any fines and the severity of each of these sanctions. Such procedures shall be designed so as to minimize the time betweenidentification of deficiencies and imposition of these sanctions and shall provide for the imposition of incrementally more severe fines for repeated or uncorrected deficiencies.
 
 #### (g) Payment on basis of location of service
 
@@ -188,7 +188,7 @@ A home health agency shall submit claims for payment for home health services un
 
 1997—Subsec. (g). Pub. L. 105–33 added subsec. (g).
 
-1996—Subsec. (c)(2)(A). Pub. L. 104–134 substituted “36 months” for “15 months” in first sentence and amendedlast sentence generally. Prior to amendment, last sentence read as follows: “The statewide average interval between standard surveys of any home health agency shall not exceed 12 months.”
+1996—Subsec. (c)(2)(A). Pub. L. 104–134 substituted “36 months” for “15 months” in first sentence and amended last sentence generally. Prior to amendment, last sentence read as follows: “The statewide average interval between standard surveys of any home health agency shall not exceed 12 months.”
 
 1990—Subsec. (a)(3)(D)(iii). Pub. L. 101–508, §4207(i)(1), formerly §4027(i)(1), as renumbered by Pub. L. 103–432, substituted “which, within the previous 2 years—” and subcls. (I) to (IV) for “which has been determined to be out of compliance with the requirements specified in or pursuant to section 1395x(<i>o</i>) of this title or subsection (a) of this section within the previous 2 years.”
 
@@ -246,13 +246,41 @@ Except as specifically provided in section 411 of Pub. L. 100–360, amendment b
 
 #### Effective Date of 1987 Amendment
 
-Section 4022(b) of Pub. L. 100–203 provided that: “Except as otherwise specifically provided in section 1891(d) of the Social Security Act \[subsec. (d) of this section\] (as added by subsection (a)), the amendment made by subsection (a) \[amending this section\] shall become effective on the first day of the 18th calendar month to begin after the date of the enactment of this Act \[Dec. 22, 1987\].”
+Section 4022(b) of Pub. L. 100–203 provided that: “Except as otherwise specifically provided in section1891(d) of the Social Security Act \[subsec. (d) of this section\] (as added by subsection (a)), the amendment made by subsection (a) \[amending this section\] shall become effective on the first day of the 18th calendar month to begin after the date of the enactment of this Act \[Dec. 22, 1987\].”
 
 Section 4023(b) of Pub. L. 100–203, as amended by Pub. L. 100–360, title IV, §411(d)(3)(C), July 1, 1988, 102 Stat. 774, provided that: “Except as otherwise specifically provided in subsections (e) and (f) of section 1891 of the Social Security Act \[subsecs. (e) and (f) of this section\] (as added by subsection (a)), the amendment made by subsection (a) \[amending this section\] shall become effective on the first day of the 18th calendar month to begin after the date of the enactment of this Act \[Dec. 22, 1987\], and no intermediate sanction described in section 1891(f)(2)(A) of such Act \[subsec. (f)(2)(A) of this section\] shall be imposed for violations occurring before such effective date.”
 
 #### Effective Date
 
 Section applicable to home health agencies as of the first day of the 18th calendar month that begins after Dec. 22, 1987, except as otherwise provided, see section 4021(c) of Pub. L. 100–203, set out as an Effective Date of 1987 Amendment note under section 1395x of this title.
+
+#### Treatment of Branch Offices; GAO Study on Supervision of Home Health Care Provided in Isolated Rural Areas
+
+Pub. L. 106–554, §1(a)(6) \[title V, §506\], Dec. 21, 2000, 114 Stat. 2763, 2763A–531, provided that:
+
+“(a)
+
+Treatment of Branch Offices.—
+
+&emsp;“(1)
+
+In general.—Notwithstanding any other provision of law, in determining for purposes of title XVIII of the Social Security Act \[this subchapter\] whether an office of a home health agency constitutes a branch office or a separate home health agency, neither the time nor distance between a parent office of the home health agency and a branch office shall be the sole determinant of a home health agency's branch office status.
+
+&emsp;“(2)
+
+Consideration of forms of technology in definition of supervision.—The Secretary of Health and Human Services may include forms of technology in determining what constitutes ‘supervision’ for purposes of determining a home heath \[sic\] agency's branch office status under paragraph (1).
+
+“(b)
+
+GAO Study.—
+
+&emsp;“(1)
+
+Study.—The Comptroller General of the United States shall conduct a study of the provision of adequate supervision to maintain quality of home health services delivered under the medicare program under title XVIII of the Social Security Act \[this subchapter\] in isolated rural areas. The study shall evaluate the methods that home health agency branches and subunits use to maintain adequate supervision in the delivery of services to clients residing in those areas, how these methods of supervision compare to requirements that subunits independently meet medicare conditions of participation, and the resources utilized by subunits to meet such conditions.
+
+&emsp;“(2)
+
+Report.—Not later than January 1, 2002, the Comptroller General shall submit to Congress a report on the study conducted under paragraph (1). The report shall include recommendations on whether exceptions are needed for subunits and branches of home health agencies under the medicare program to maintain access to the home health benefit or whether alternative policies should be developed to assure adequate supervision and access and recommendations on whether a national standard for supervision is appropriate.”
 
 #### Section Referred to in Other Sections
 

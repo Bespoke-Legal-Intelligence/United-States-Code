@@ -46,25 +46,25 @@
 
 #### Amendments
 
-1999—Pub. L. 106–113, div. B, §1000(a)(9) \[title III, §3009(2)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–552, substituted “trademarks” for “trade-marks” in item 1338.
+<b>1999</b>—Pub. L. 106–113, div. B, §1000(a)(9) \[title III, §3009(2)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–552, substituted “trademarks” for “trade-marks” in item 1338.
 
-1998—Pub. L. 105–304, title V, §503(b)(2)(B), Oct. 28, 1998, 112 Stat. 2917, inserted “designs,” after “mask works,” in item 1338.
+<b>1998</b>—Pub. L. 105–304, title V, §503(b)(2)(B), Oct. 28, 1998, 112 Stat. 2917, inserted “designs,” after “mask works,” in item 1338.
 
-1995—Pub. L. 104–88, title III, §305(a)(4), Dec. 29, 1995, 109 Stat. 944, substituted “Surface Transportation Board's” for “Interstate Commerce Commission's” in item 1336.
+<b>1995</b>—Pub. L. 104–88, title III, §305(a)(4), Dec. 29, 1995, 109 Stat. 944, substituted “Surface Transportation Board's” for “Interstate Commerce Commission's” in item 1336.
 
-1994—Pub. L. 103–465, title III, §321(b)(3)(B), Dec. 8, 1994, 108 Stat. 4947, added item 1368.
+<b>1994</b>—Pub. L. 103–465, title III, §321(b)(3)(B), Dec. 8, 1994, 108 Stat. 4947, added item 1368.
 
-1990—Pub. L. 101–650, title III, §310(b), Dec. 1, 1990, 104 Stat. 5114, added item 1367.
+<b>1990</b>—Pub. L. 101–650, title III, §310(b), Dec. 1, 1990, 104 Stat. 5114, added item 1367.
 
-1988—Pub. L. 100–702, title X, §1020(a)(7), Nov. 19, 1988, 102 Stat. 4672, substituted “Actions” for “Action” in item 1330, inserted a period after “question” in item 1331, substituted “plant variety protection, copyrights, mask works, trade-marks,” for “copyrights, and trade-marks” in item 1338, and inserted “and elective franchise” in item 1343.
+<b>1988</b>—Pub. L. 100–702, title X, §1020(a)(7), Nov. 19, 1988, 102 Stat. 4672, substituted “Actions” for “Action” in item 1330, inserted a period after “question” in item 1331, substituted “plant variety protection, copyrights, mask works, trade-marks,” for “copyrights, and trade-marks” in item 1338, and inserted “and elective franchise” in item 1343.
 
-1986—Pub. L. 99–336, §6(a)(1)(A), June 19, 1986, 100 Stat. 638, renumbered item 1364 “Senate actions” and item 1364 “Construction of references to laws of the United States or Acts of Congress” as items 1365 and 1366, respectively.
+<b>1986</b>—Pub. L. 99–336, §6(a)(1)(A), June 19, 1986, 100 Stat. 638, renumbered item 1364 “Senate actions” and item 1364 “Construction of references to laws of the United States or Acts of Congress” as items 1365 and 1366, respectively.
 
-1984—Pub. L. 98–353, title I, §101(b), July 10, 1984, 98 Stat. 333, substituted “cases” for “matters” in item 1334.
+<b>1984</b>—Pub. L. 98–353, title I, §101(b), July 10, 1984, 98 Stat. 333, substituted “cases” for “matters” in item 1334.
 
-1980—Pub. L. 96–486, §2(b), Dec. 1, 1980, 94 Stat. 2369, struck out “; amount in controversy; costs.” after “question” in item 1331.
+<b>1980</b>—Pub. L. 96–486, §2(b), Dec. 1, 1980, 94 Stat. 2369, struck out “; amount in controversy; costs.” after “question” in item 1331.
 
-1978—Pub. L. 95–598, title II, §238(b), Nov. 6, 1978, 92 Stat. 2668, directed the substitution of “Bankruptcy appeals” for “Bankruptcy matters and proceedings” in item 1334, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+<b>1978</b>—Pub. L. 95–598, title II, §238(b), Nov. 6, 1978, 92 Stat. 2668, directed the substitution of “Bankruptcy appeals” for “Bankruptcy matters and proceedings” in item 1334, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
 Pub. L. 95–572, §6(b)(2), Nov. 2, 1978, 92 Stat. 2457, added item 1363 and redesignated former item 1363 “Construction of references to laws of the United States or Acts of Congress”, as 1364.
 
@@ -74,61 +74,17 @@ Pub. L. 95–486, §9(c), Oct. 20, 1978, 92 Stat. 1634, substituted “Commerce 
 
 Pub. L. 95–393, §§7(b), 8(a)(2), Sept. 30, 1978, 92 Stat. 810, substituted “Consuls, vice consuls, and members of a diplomatic mission as defendant” for “Consuls and vice consuls as defendants” in item 1351 and added item 1364 “Direct actions against insurers of members of diplomatic missions and their families”.
 
-1976—Pub. L. 94–583, §2(b), Oct. 21, 1976, 90 Stat. 2891, added item 1330.
+<b>1976</b>—Pub. L. 94–583, §2(b), Oct. 21, 1976, 90 Stat. 2891, added item 1330.
 
-1970—Pub. L. 91–358, title I, §172(c)(2), July 29, 1970, 84 Stat. 591, added item 1363.
+<b>1970</b>—Pub. L. 91–358, title I, §172(c)(2), July 29, 1970, 84 Stat. 591, added item 1363.
 
-1966—Pub. L. 89–635, §2, Oct. 10, 1966, 80 Stat. 880, added item 1362.
+<b>1966</b>—Pub. L. 89–635, §2, Oct. 10, 1966, 80 Stat. 880, added item 1362.
 
-1962—Pub. L. 87–748, §1(b), Oct. 5, 1962, 76 Stat. 744, added item 1361.
+<b>1962</b>—Pub. L. 87–748, §1(b), Oct. 5, 1962, 76 Stat. 744, added item 1361.
 
-1958—Pub. L. 85–554, §4, July 25, 1958, 72 Stat. 415, inserted “costs” in items 1331 and 1332.
+<b>1958</b>—Pub. L. 85–554, §4, July 25, 1958, 72 Stat. 415, inserted “costs” in items 1331 and 1332.
 
-1953—Act Aug. 15, 1953, ch. 505, §3, 67 Stat. 589, added item 1360.
-
-#### Federal Rules of Civil Procedure
-
-Procedure, generally, in district courts, see Appendix to this title.
-
-Jurisdictional grounds, statement required in claim for relief, see rule 8.
-
-Parties, see rules 17 to 25.
-
-Process and service, see rules 4 and 5.
-
-#### Federal Rules of Criminal Procedure
-
-Procedure, generally, in district courts, see Title 18, Appendix, Crimes and Criminal Procedure.
-
-#### Cross References
-
-Admiralty and maritime jurisdiction, see section 740 of Title 46, Appendix, Shipping.
-
-Amendment of pleadings to show jurisdiction, see section 1653 of this title.
-
-Costs on dismissal for lack of jurisdiction, see section 1919 of this title.
-
-Criminal jurisdiction of district courts, see section 3231 et seq. of Title 18, Crimes and Criminal Procedure.
-
-Criminal procedure, see section 3001 et seq. of Title 18.
-
-District of Columbia district court, additional jurisdiction, see D.C. Code §11–501.
-
-Guam, jurisdiction of district court, see section 1424 of Title 48, Territories and Insular Possessions.
-
-Immigration, jurisdiction of district courts, see section 1329 of Title 8, Aliens and Nationality.
-
-Jurisdiction in suits to recover share of expenses against handlers of agricultural commodities regardless of amount in controversy, see section 610 of Title 7, Agriculture.
-
-Jurisdiction of district courts in particular matters, see table in reviser's note for section 1332 of this title.
-
-Naturalization, judicial review by district courts of denial of application, see section 1421 of Title 8, Aliens and Nationality.
-
-Process, see section 1691 et seq. of this title.
-
-Removal of cases from state courts, see sections 1441 et seq. of this title.
-
-Virgin Islands, jurisdiction of district court, see sections 1612 and 1613 of Title 48, Territories and Insular Possessions.
+<b>1953</b>—Act Aug. 15, 1953, ch. 505, §3, 67 Stat. 589, added item 1360.
 
 
 ---

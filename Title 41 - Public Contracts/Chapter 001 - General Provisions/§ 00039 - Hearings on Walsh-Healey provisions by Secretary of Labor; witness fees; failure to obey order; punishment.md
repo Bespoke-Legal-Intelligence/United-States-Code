@@ -8,26 +8,6 @@ Upon his own motion or on application of any person affected by any ruling of an
 
 As originally enacted, the words “, or the district court of the United States for the District of Columbia,” were set out following “Territory or possession”. Act June 25, 1948, as amended by act May 24, 1949, substituted “United States District Court for the District of Columbia” for “district court of the United States for the District of Columbia”. The words “United States District Court for the District of Columbia” have been deleted entirely as superfluous in view of section 132(a) of Title 28, Judiciary and Judicial Procedure, which states that “There shall be in each judicial district a district court which shall be a court of record known as the United States District Court for the district”, and section 88 of title 28 which states that “the District of Columbia constitutes one judicial district”.
 
-#### Federal Rules of Civil Procedure
-
-Findings by the Court, see rule 52, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-Subpoena, see rule 45.
-
-#### Federal Rules of Criminal Procedure
-
-Contempt, see rule 42, Title 18, Appendix, Crimes and Criminal Procedure.
-
-Subpoena, see rule 17.
-
-#### Cross References
-
-Criminal contempt, see sections 401, 402, 3285, 3691 of Title 18, Crimes and Criminal Procedure.
-
-Exemptions and exceptions to section 35 of this title, see note set out under that section.
-
-Per diem and mileage of witnesses, see section 1821 of Title 28, Judiciary and Judicial Procedure.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 43a, 353 of this title; title 25 section 450j; title 33 section 941; title 40 section 333.

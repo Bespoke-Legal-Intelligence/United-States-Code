@@ -1,16 +1,10 @@
 ### SUBCHAPTER III—EMPLOYMENT AND TRAINING ASSISTANCE FOR DISLOCATED WORKERS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 1502, 1516, 1518, 1531, 1533, 1551, 1574, 1735, 1784a, 2831 of this title; title 19 section 2311.
-
 
 ---
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 01651 - Definitions](%C2%A7%2001651%20-%20Definitions.md)
-- [&sect; 01652 - Allotment](%C2%A7%2001652%20-%20Allotment.md)
-- [&sect; 01653 - Recapture and reallotment of unexpended funds](%C2%A7%2001653%20-%20Recapture%20and%20reallotment%20of%20unexpended%20funds.md)
+- [&sect; 01651 to 1653 - Repealed. Pub. L. 105&#8211;220, title I, &sect;199(b)(2), Aug. 7, 1998, 112 Stat. 1059](%C2%A7%2001651%20to%201653%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93220%2C%20title%20I%2C%20%C2%A7199%28b%29%282%29%2C%20Aug.%207%2C%201998%2C%20112%20Stat.%201059.md)
 - [Part A - State Delivery of Services](Part%20A%20-%20State%20Delivery%20of%20Services/README.md)
 - [Part B - Federal Responsibilities](Part%20B%20-%20Federal%20Responsibilities/README.md)

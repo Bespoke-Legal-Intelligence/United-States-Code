@@ -40,7 +40,7 @@ The district court shall have jurisdiction in actions brought under subsection (
 
 #### (2) Diligent prosecution
 
-&emsp;No action may be commenced under paragraph (1) of subsection (a) of this section if the President has commenced and is diligently prosecuting an action under this chapter, or under the Solid Waste Disposal Act \[42 U.S.C. 6901 et seq.\] to require compliance with the standard, regulation, condition, requirement,or order concerned (including any provision of an agreement under section 9620 of this title).
+&emsp;No action may be commenced under paragraph (1) of subsection (a) of this section if the President has commenced and is diligently prosecuting an action under this chapter, or under the Solid Waste Disposal Act \[42 U.S.C. 6901 et seq.\] to require compliance with the standard, regulation, condition, requirement, or order concerned (including any provision of an agreement under section 9620 of this title).
 
 #### (e) Rules applicable to subsection (a)(2) actions
 
@@ -66,7 +66,7 @@ The terms used in this section shall have the same meanings as when used in subc
 
 #### References in Text
 
-The Solid Waste Disposal Act, referred to in subsec. (d)(2), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
+The Solid Waste Disposal Act, referred to in subsec. (d)(2), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat.997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
 
 The Federal Rules of Civil Procedure, referred to in subsec. (f), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 

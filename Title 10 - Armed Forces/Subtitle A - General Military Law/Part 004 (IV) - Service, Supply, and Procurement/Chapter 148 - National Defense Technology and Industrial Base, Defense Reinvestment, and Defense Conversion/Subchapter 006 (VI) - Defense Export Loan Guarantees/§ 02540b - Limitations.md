@@ -14,3 +14,7 @@ No Right of Acceleration.—The Secretary of Defense may not accelerate any guar
 
 (Added Pub. L. 104–106, div. A, title XIII, §1321(a)(1), Feb. 10, 1996, 110 Stat. 476.)
 
+#### Section Referred to in Other Sections
+
+This section is referred to in section 2541c of this title.
+

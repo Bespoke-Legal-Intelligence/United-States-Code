@@ -106,47 +106,7 @@ Amendment by Pub. L. 89–670 effective Apr. 1, 1967, as prescribed by the Presi
 
 Section 10(c) of Pub. L. 89–670, which provided that the amendment made to this section by section 10(b) of Pub. L. 89–670 was not to be construed to make applicable to the Department any provision of law inconsistent with Pub. L. 89–670, was repealed by Pub. L. 104–287, §7(5), Oct. 11, 1996, 110 Stat. 3400.
 
-#### Cross References
-
-Attorney General to advise heads of executive departments, see section 512 of Title 28, Judiciary and Judicial Procedure.
-
-Definition of department—
-
-&emsp;&emsp;Administrative Expenses Act of 1946, see section 5a of Title 41, Public Contracts.
-
-&emsp;&emsp;Crimes and Criminal Procedure, see section 6 of Title 18, Crimes and Criminal Procedure.
-
-Departmental provisions—
-
-&emsp;&emsp;Agriculture, see section 2201 et seq. of Title 7, Agriculture.
-
-&emsp;&emsp;Commerce, see section 1501 et seq. of Title 15, Commerce and Trade.
-
-&emsp;&emsp;Defense, see section 111 et seq. of Title 10, Armed Forces.
-
-&emsp;&emsp;Education, see section 3401 et seq. of Title 20, Education.
-
-&emsp;&emsp;Energy, see section 7101 et seq. of Title 42, The Public Health and Welfare.
-
-&emsp;&emsp;Health and Human Services, see section 3501 et seq. of Title 42, The Public Health and Welfare.
-
-&emsp;&emsp;Housing and Urban Development, see section 3531 et seq. of Title 42.
-
-&emsp;&emsp;Interior, see section 1451 et seq. of Title 43, Public Lands.
-
-&emsp;&emsp;Justice, see section 501 et seq. of Title 28, Judiciary and Judicial Procedure.
-
-&emsp;&emsp;Labor, see section 551 et seq. of Title 29, Labor.
-
-&emsp;&emsp;State, see section 2651 et seq. of Title 22, Foreign Relations and Intercourse.
-
-&emsp;&emsp;Transportation, see section 101 et seq. of Title 49, Transportation.
-
-&emsp;&emsp;Treasury, see section 301 et seq. of Title 31, Money and Finance. Internal revenue authority, see section 7801 of Title 26, Internal Revenue Code.
-
-&emsp;&emsp;Veterans Affairs, see section 301 et seq. of Title 38, Veterans’ Benefits.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in title 4 section 7; title 18 sections 115, 351, 1030, 6001; title 28 section 451; title 31sections 1343, 1344; title 41 sections 403, 601; title 42 sections 8262c, 10156, 10222.
+This section is referred to in title 4 section 7; title 18 sections 115, 351, 1030, 6001; title 28 section 451; title 31 sections 1343, 1344; title 41 sections 403, 601; title 42 sections 8262c, 10156, 10222.
 

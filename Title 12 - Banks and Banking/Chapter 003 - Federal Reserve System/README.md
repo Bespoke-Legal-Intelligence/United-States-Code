@@ -10,7 +10,10 @@
 | [223\.](Subchapter%20001%20%28I%29%20-%20Definitions%2C%20Organization%2C%20and%20General%20Provisions%20Affecting%20System/%C2%A7%2000223%20-%20Number%20of%20Federal%20reserve%20cities%20in%20district.md) | Number of Federal reserve cities in district. |
 | [224\.](Subchapter%20001%20%28I%29%20-%20Definitions%2C%20Organization%2C%20and%20General%20Provisions%20Affecting%20System/%C2%A7%2000224%20-%20Status%20of%20reserve%20cities%20under%20former%20statutes.md) | Status of reserve cities under former statutes. |
 | [225\.](Subchapter%20001%20%28I%29%20-%20Definitions%2C%20Organization%2C%20and%20General%20Provisions%20Affecting%20System/%C2%A7%2000225%20-%20Federal%20reserve%20banks%3B%20title.md) | Federal reserve banks; title. |
-| [225a.](Subchapter%20001%20%28I%29%20-%20Definitions%2C%20Organization%2C%20and%20General%20Provisions%20Affecting%20System/%C2%A7%2000225a%20-%20Maintenance%20of%20long%20run%20growth%20of%20monetary%20and%20credit%20aggregates%3B%20annual%20reports%20to%20Congress%3B%20transmittal%20to%20Congressional%20Committees%E2%80%A6.md) | Maintenance of long run growth of monetary and credit aggregates; annual reports to Congress; transmittal to Congressional Committees; consultations with Committees; report of Committee; changing conditions affecting achievement of objectives and plans; explanation for deviations from objectives and plans. |
+| [225a.](Subchapter%20001%20%28I%29%20-%20Definitions%2C%20Organization%2C%20and%20General%20Provisions%20Affecting%20System/%C2%A7%2000225a%20-%20Maintenance%20of%20long%20run%20growth%20of%20monetary%20and%20credit%20aggregates.md) | Maintenance of long run growth of monetary and credit aggregates. |
+| [225b.](Subchapter%20001%20%28I%29%20-%20Definitions%2C%20Organization%2C%20and%20General%20Provisions%20Affecting%20System/%C2%A7%2000225b%20-%20Appearances%20before%20and%20reports%20to%20the%20Congress.md) | Appearances before and reports to the Congress. |
+| (a) | Appearances before the Congress. |
+| (b) | Congressional report. |
 | [226\.](Subchapter%20001%20%28I%29%20-%20Definitions%2C%20Organization%2C%20and%20General%20Provisions%20Affecting%20System/%C2%A7%2000226%20-%20%E2%80%9CFederal%20Reserve%20Act%E2%80%9D.md) | “Federal Reserve Act.” |
 | [227\.](Subchapter%20001%20%28I%29%20-%20Definitions%2C%20Organization%2C%20and%20General%20Provisions%20Affecting%20System/%C2%A7%2000227%20-%20%E2%80%9CBanking%20Act%20of%201933%E2%80%9D.md) | “Banking Act of 1933.” |
 | [228\.](Subchapter%20001%20%28I%29%20-%20Definitions%2C%20Organization%2C%20and%20General%20Provisions%20Affecting%20System/%C2%A7%2000228%20-%20%E2%80%9CBanking%20Act%20of%201935%E2%80%9D.md) | “Banking Act of 1935.” |
@@ -154,6 +157,10 @@
 | (c) | Definitions. |
 | (d) | Lawful banking services connected with operation of lottery. |
 | (e) | Regulations; enforcement. |
+| [339a.](Subchapter%20008%20%28VIII%29%20-%20State%20Banks%20as%20Members%20of%20System/%C2%A7%2000339a%20-%20Resolution%20of%20clearing%20banks.md) | Resolution of clearing banks. |
+| (a) | Conservatorship or receivership. |
+| (b) | Board authority. |
+| (c) | Bankruptcy proceedings. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -382,7 +389,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 35, 1440, 1465, 1468, 1468b, 1813, 1817, 1828a, 1831k, 1831r, 2254, 3108 of this title.
+This chapter is referred to in sections 35, 1440, 1468, 1468b, 1813, 1817, 1828a, 1831k, 1831r, 2254, 3108 of this title.
 
 
 ---

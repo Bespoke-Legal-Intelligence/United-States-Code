@@ -88,7 +88,7 @@
 
 &emsp;&emsp;(C) Eliminate gaps and duplication in statistical undertakings, with the systemization of wage surveys as an early priority.
 
-&emsp;&emsp;(D) In collaboration with the Bureau of Labor Statistics and States, develop andmaintain the elements of the employment statistics system described in subsection (a) of this section, including the development of consistent procedures and definitions for use by the States in collecting the data and information described in subparagraphs (A) and (B) of subsection (a)(1) of this section.
+&emsp;&emsp;(D) In collaboration with the Bureau of Labor Statistics and States, develop and maintain the elements of the employment statistics system described in subsection (a) of this section, including the development of consistent procedures and definitions for use by the States in collecting the data and information described in subparagraphs (A) and (B) of subsection (a)(1) of this section.
 
 &emsp;&emsp;(E) Establish procedures for the system to ensure that—
 

@@ -8,7 +8,3 @@ The Chief Administrative Officer of the House of Representatives is on and after
 
 1996—Pub. L. 104–186 substituted “Chief Administrative Officer of the House of Representatives” for “Clerk of the House” and “applicable accounts of the House of Representatives” for “contingent fund of the House”.
 
-#### Cross References
-
-Gratuities for survivors of deceased employees under the jurisdiction of the Architect of the Capitol, see section 166b–4 of Title 40, Public Buildings, Property, and Works.
-

@@ -30,7 +30,7 @@
 
 &emsp;(B) the date on which his participation would commence under the plan as in effect on January 1, 1974.
 
-(2) No pension plan to which section 1053 of this title applies may make effective any planamendment with respect to breaks in service (which amendment is made or becomes effective after January 1, 1974, and before the date on which section 1053 of this title first becomes effective with respect to such plan) if such amendment provides that the nonforfeitable benefit derived from employer contributions to which any employee would be entitled is less than the lesser of the nonforfeitable benefit derived from employer contributions to which he would be entitled under—
+(2) No pension plan to which section 1053 of this title applies may make effective any plan amendment with respect to breaks in service (which amendment is made or becomes effective after January 1, 1974, and before the date on which section 1053 of this title first becomes effective with respect to such plan) if such amendment provides that the nonforfeitable benefit derived from employer contributions to whichany employee would be entitled is less than the lesser of the nonforfeitable benefit derived from employer contributions to which he would be entitled under—
 
 &emsp;(A) the break in service rules of section 1052(b)(3) of this title, or
 

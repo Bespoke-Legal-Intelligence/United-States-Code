@@ -1,5 +1,5 @@
 
-50 U.S.C.<br>United States Code, 1999 Edition<br>Title 50 - WAR AND NATIONAL DEFENSE<br>From the U.S. Government Publishing Office, www.gpo.gov
+50 U.S.C.<br>United States Code, 2000 Edition<br>Title 50 - WAR AND NATIONAL DEFENSE<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 50—WAR AND NATIONAL DEFENSE
 
@@ -57,13 +57,9 @@
 
 The Treaty of Peace with Japan, signed at San Francisco on Sept. 8, 1951, was ratified by the United States Senate on Mar. 20, 1952. For Resolution of Ratification, see Congressional Record, Vol. 98, No. 46, Thursday, Mar. 20, 1952, p. 2634. According to Proc. No. 2974, eff. Apr. 29, 1952, 17 F.R. 3813, 66 Stat. c31, terminating the national emergencies proclaimed on September 8, 1939, and May 27, 1941, and set out as a note preceding section 1 of the Appendix to this title, such treaty came into force on Apr. 28, 1952.
 
-#### Cross References
+#### Title Referred to in Other Sections
 
-Establishment of the National Security Council and the Central Intelligence Agency, see section 401 et seq. of this title.
-
-Lease of buildings in time of war, see sections 4780 and 9780 of Title 10, Armed Forces.
-
-Proclamations, etc., respecting war and neutrality, see notes preceding section 1 of Appendix to this title.
+This title is referred to in title 49 section 40125.
 
 
 ---

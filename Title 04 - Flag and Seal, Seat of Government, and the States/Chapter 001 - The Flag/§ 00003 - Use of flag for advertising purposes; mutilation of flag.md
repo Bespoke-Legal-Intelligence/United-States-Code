@@ -8,9 +8,3 @@ Any person who, within the District of Columbia, in any manner, for exhibition o
 
 1968—Pub. L. 90–381 struck out “; or who, within the District of Columbia, shall publicly mutilate, deface, defile or defy, trample upon, or cast contempt, either by word or act, upon any such flag, standard, colors, or ensign,” after “substance on which so placed”.
 
-#### Cross References
-
-Penalty for desecration of the flag, see section 700 of Title 18, Crimes and Criminal Procedure.
-
-Police uniforms to display U.S. flag emblem or colors, see section 210a of Title 40, Public Buildings, Property, and Works.
-

@@ -48,15 +48,15 @@ The Secretary shall provide this assistance only through contract—
 
 &emsp;(1) with a nonprofit intermediary organization that, in the determination of the Secretary—
 
-&emsp;&emsp;(A) customarily provides, in more than one community, services related to the provisionof decent housing that is affordable to low-income and moderate-income persons or the revitalization of deteriorating neighborhoods;
+&emsp;&emsp;(A) customarily provides, in more than one community, services related to the provision of decent housing that is affordable to low-income and moderate-income persons or the revitalization of deteriorating neighborhoods;
 
 &emsp;&emsp;(B) has demonstrated experience in providing a range of assistance (such as financing, technical assistance, construction and property management assistance, capacity building and training) to community housing development organizations or similar organizations that engage in community revitalization;
 
-&emsp;&emsp;(C) has demonstrated the ability to provide technical assistance and training for community-based developers of affordable housing;
+&emsp;&emsp;(C) has demonstrated the ability to provide technical assistance and training forcommunity-based developers of affordable housing;
 
 &emsp;&emsp;(D) has described the uses to which such assistance will be put and the intended beneficiaries of the assistance; and
 
-&emsp;&emsp;(E) in the case of activities under subsection (b)(7) of this section, is a community-based organization (as such term is defined in section 1503 of title 29) or public housing agency, which has demonstrated experience in preparing women for apprenticeship training in construction or administering programs for training women for construction or other nontraditional occupations (and such organizations may use assistance for activities under such subsection to employ women in housing construction and rehabilitation activities to the extent that the organization has the capacity to conduct such activities); or
+&emsp;&emsp;(E) in the case of activities under subsection (b)(7) of this section, is a community-based organization (as such term is defined in section 4 of the Job Training Partnership Act) or public housing agency, which has demonstrated experience in preparing women for apprenticeship training in construction or administering programs for training women for construction or other nontraditional occupations (and such organizations may use assistance for activities under such subsection to employ women in housing construction and rehabilitation activities to the extent that the organization has the capacity to conduct such activities); or
 
 &emsp;(2) with another organization, if a participating jurisdiction demonstrates that the organization is qualified to carry out eligible activities and that the jurisdiction would not be served in a timely manner by intermediaries specified under paragraph (1).
 
@@ -104,6 +104,8 @@ For purposes of this section, the term “community land trust” means a commun
 
 The National Housing Act, referred to in subsec. (b)(7), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended. Title II of the Act is classified principally to subchapter II (§1707 et seq.) of chapter 13 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
 
+Section 4 of the Job Training Partnership Act, referred to in subsec. (c)(1)(E), which was classified to section 1503 of Title 29, Labor, was repealed by Pub. L. 105–220, title I, §199(b)(2), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Pursuant to section 2940(b) of Title 29, references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, are deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and effective July 1, 2000, are deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. For complete classification of the Workforce Investment Act of 1998 to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+
 #### Amendments
 
 1992—Subsec. (a)(2). Pub. L. 102–550, §213(a)(1), inserted “, including community land trusts,” after “organizations”.
@@ -122,7 +124,7 @@ Subsec. (f). Pub. L. 102–550, §213(a)(3), added subsec. (f).
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–550 applicable to unexpended funds allocated under subchapter II of thischapter in fiscal year 1992, except as otherwise specifically provided, see section 223 of Pub. L. 102–550, set out as a note under section 12704 of this title.
+Amendment by Pub. L. 102–550 applicable to unexpended funds allocated under subchapter II of this chapter in fiscal year 1992, except as otherwise specifically provided, see section 223 of Pub. L. 102–550, set out as a note under section 12704 of this title.
 
 #### Section Referred to in Other Sections
 

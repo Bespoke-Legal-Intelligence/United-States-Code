@@ -32,3 +32,7 @@ In implementing this section, the President shall take all necessary steps to en
 
 (Pub. L. 104–114, title I, §109, Mar. 12, 1996, 110 Stat. 799.)
 
+#### Section Referred to in Other Sections
+
+This section is referred to in section 7207 of this title.
+

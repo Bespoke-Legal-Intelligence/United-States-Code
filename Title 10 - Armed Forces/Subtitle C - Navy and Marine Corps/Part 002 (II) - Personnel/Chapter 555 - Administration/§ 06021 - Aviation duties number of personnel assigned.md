@@ -26,7 +26,3 @@ July 22, 1935, ch. 402, §8, 49 Stat. 490.
 
 The provisions cited as source are consolidated in this section. The second sentence of §8 of the Act of July 22, 1935, is omitted as executed.
 
-#### Cross References
-
-Incentive pay for hazardous duty, see section 301 of Title 37, Pay and Allowances of the Uniformed Services.
-

@@ -14,7 +14,7 @@ No vessel, subject to the provisions of chapter 37 of title 46, shall operate in
 
 &emsp;(5) is manned by one or more officers who are licensed by a certificating state which the Secretary has determined, pursuant to section 9101 of title 46, does not have standards for licensing and certification of seafarers which are comparable to or more stringent than United States standards or international standards which are accepted by the United States; or
 
-&emsp;(6) is not manned in compliance with manning levels as determined by the Secretary to be necessary to insure the safe navigation of the vessel; or
+&emsp;(6) is not manned in compliance with manning levels as determined by the Secretary tobe necessary to insure the safe navigation of the vessel; or
 
 &emsp;(7) while underway, does not have at least one licensed deck officer on the navigation bridge who is capable of clearly understanding English.
 

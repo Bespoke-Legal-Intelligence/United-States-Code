@@ -14,7 +14,7 @@ Sections 462 and 465 of this title, and sections 756, 960, 963 to 967, and 3058 
 
 Section was formerly classified to section 38 of title 18 prior to the general revision and enactment of Title 18, by act June 25, 1948, ch. 645, §1, 62 Stat. 683.
 
-#### Cross References
+#### Definitions
 
 Definition of United States as used in this section, see section 408a of this title.
 

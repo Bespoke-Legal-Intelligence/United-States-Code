@@ -28,11 +28,11 @@ Applicability.—This section does not apply to a vessel the disposal of which i
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, as amended, referred to in subsec. (d), is actJune 30, 1949, ch. 288, 63 Stat. 377, as amended. Provisions of the act relating to management and disposal of Government property are classified to chapter 10 (§471 et seq.) of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
+The Federal Property and Administrative Services Act of 1949, as amended, referred to in subsec. (d), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Provisions of the act relating to management and disposal of Government property are classified to chapter 10 (§471 et seq.) of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
 
 #### Prior Provisions
 
-A prior section 7305, acts Aug. 10, 1956, ch. 1041, 70A Stat. 451; Dec. 12, 1980, Pub. L. 96–513, title V, §513(27), 94 Stat. 2933, related to sale of vessels stricken from Naval Vessel Register, prior to repeal by Pub. L. 103–160, §824(b).
+A prior section 7305, acts Aug. 10, 1956, ch. 1041, 70A Stat. 451; Dec. 12, 1980, Pub. L. 96–513, title V, §513(27),94 Stat. 2933, related to sale of vessels stricken from Naval Vessel Register, prior to repeal by Pub. L. 103–160, §824(b).
 
 #### Amendments
 

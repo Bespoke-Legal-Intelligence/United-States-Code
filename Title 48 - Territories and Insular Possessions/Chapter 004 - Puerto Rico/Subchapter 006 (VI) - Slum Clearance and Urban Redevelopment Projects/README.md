@@ -1,9 +1,5 @@
 ### SUBCHAPTER VI—SLUM CLEARANCE AND URBAN REDEVELOPMENT PROJECTS
 
-#### Cross References
-
-Low rent housing projects and elimination of substandard housing, see section 911 et seq. of this title.
-
 
 ---
 

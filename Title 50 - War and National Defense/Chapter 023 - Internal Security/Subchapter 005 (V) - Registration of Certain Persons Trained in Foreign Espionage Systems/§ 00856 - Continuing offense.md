@@ -8,7 +8,3 @@ Failure to file a registration statement as required by this subchapter is a con
 
 Section was not enacted as part of the Internal Security Act of 1950 which comprises subchapters I to III of this chapter.
 
-#### Cross References
-
-Period of limitations upon non-capital offenses, see section 3282 of Title 18, Crimes and Criminal Procedure.
-

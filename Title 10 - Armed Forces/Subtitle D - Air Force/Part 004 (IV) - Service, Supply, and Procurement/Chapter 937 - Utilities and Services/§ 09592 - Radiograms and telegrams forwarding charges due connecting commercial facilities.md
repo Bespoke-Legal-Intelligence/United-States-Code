@@ -26,7 +26,3 @@ The words “members of the Air Force” are substituted for the words “Signal
 
 1982—Pub. L. 97–258 substituted “official” for “officer”.
 
-#### Cross References
-
-Certain powers and duties vested in Comptroller General; conclusiveness of balances certified by Comptroller General, see section 9842 of this title, and section 3526 of Title 31, Money and Finance.
-

@@ -216,7 +216,7 @@ Section 403 of Pub. L. 94–433 directed Administrator to conduct a scientific s
 
 #### Study of Claims for Dependency and Indemnity Compensation
 
-Pub. L. 93–295, title II, §207, May 31, 1974, 88 Stat. 183, directed Administrator of Veterans’ Affairs to make adetailed study of claims for dependency and indemnity compensation relating to veterans, as defined in section 101(2) of this title, who at time of death within six months prior to May 31, 1974, were receiving disability compensation from Veterans’ Administration based upon a rating total and permanent in nature, and submit a report together with such comments and recommendations as Administrator deemed appropriate to Speaker of the House and President of the Senate not more than thirty days after Jan. 14, 1975.
+Pub. L. 93–295, title II, §207, May 31, 1974, 88 Stat. 183, directed Administrator of Veterans’ Affairs to make a detailed study of claims for dependency and indemnity compensation relating to veterans, as defined in section 101(2) of this title, who at time of death within six months prior to May 31, 1974, were receiving disability compensation from Veterans’ Administration based upon a rating total and permanent in nature, and submit a report together with such comments and recommendations as Administrator deemed appropriate to Speaker of the House and President of the Senate not more than thirty days after Jan. 14, 1975.
 
 #### Section Referred to in Other Sections
 

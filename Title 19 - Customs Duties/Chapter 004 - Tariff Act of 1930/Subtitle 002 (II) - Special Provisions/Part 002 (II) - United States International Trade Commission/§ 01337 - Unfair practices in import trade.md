@@ -22,7 +22,7 @@
 
 &emsp;(D) The importation into the United States, the sale for importation, or the sale within the United States after importation by the owner, importer, or consignee, of a semiconductor chip product in a manner that constitutes infringement of a mask work registered under chapter 9 of title 17.
 
-&emsp;(E) The importation into the United States, the sale for importation, or the sale within the United States after importation by the owner, importer, or consigner, of an article that constitutes infringement of the exclusive rights in a design protected under chapter 13 of title 17.
+&emsp;(E) The importation into the United States, the sale for importation, or the sale within the United States after importation by the owner, importer, or consigner, of an article that constitutes infringement of the exclusive rightsin a design protected under chapter 13 of title 17.
 
 (2) Subparagraphs (B), (C), and (D) of paragraph (1) apply only if an industry in the United States, relating to the articles protected by the patent, copyright, trademark, mask work, or design concerned, exists or is in the process of being established.
 
@@ -90,7 +90,7 @@ The Commission shall determine, with respect to each investigation conducted by 
 
 > the Commission shall presume the facts alleged in the complaint to be true and shall, upon request, issue an exclusion from entry or a cease and desist order, or both, limited to that person unless, after considering the effect of such exclusion or order upon the public health and welfare, competitive conditions in the United States economy, the production of like or directly competitive articles in the United States, and United States consumers, the Commission finds that such exclusion or order should not be issued.
 
-(2) In addition to the authority of the Commission to issue a general exclusion from entry ofarticles when a respondent appears to contest an investigation concerning a violation of the provisions of this section, a general exclusion from entry of articles, regardless of the source or importer of the articles, may be issued if—
+(2) In addition to the authority of the Commission to issue a general exclusion from entry of articles when a respondent appears to contest an investigation concerning a violation of the provisions of this section, a general exclusion from entry of articles, regardless of the source or importer of the articles, may be issued if—
 
 &emsp;(A) no person appears to contest an investigation concerning a violation of the provisions of this section,
 
@@ -138,7 +138,7 @@ The Commission may by rule prescribe sanctions for abuse of discovery and abuse 
 
 (3) Subject to the provisions of paragraph (2), such determination shall, except for purposes of subsection (c) of this section, be effective upon publication thereof in the Federal Register, and the action taken under subsection (d), (e), (f), (g), or (i) of this section, with respect thereto shall be effective as provided in such subsections, except that articles directed to be excluded from entry under subsection (d) of this section or subject to a cease and desist order under subsection (f) of this section shall, until such determination becomes final, be entitled to entry under bond prescribed by the Secretary in an amount determined by the Commission to be sufficient to protect the complainant from any injury. If the determination becomes final, the bond may be forfeited to the complainant. The Commission shall prescribe the terms and conditions under which bonds may be forfeited under this paragraph.
 
-(4) If the President does not disapprove such determination within such 60-day period, or if he notifies the Commission before the close of such period that he approves such determination, then, for purposes of paragraph (3) and subsection (c) of this section such determination shall become final on the day after the close of such period or the day on which the President notifies the Commission of his approval, as the case may be.
+(4) If the President does not disapprove such determination within such 60-day period, or if he notifies the Commission before the close of such period that he approves such determination, then, for purposes of paragraph (3) and subsection (c) of this section such determination shall become final on the day after the close of such period or the day on which the Presidentnotifies the Commission of his approval, as the case may be.
 
 #### (k) Period of effectiveness; termination of violation or modification or rescission of exclusion or order
 
@@ -250,7 +250,7 @@ Subsec. (j)(3). Pub. L. 103–465, §321(a)(6), substituted “shall, until such
 
 Subsec. (<i>l</i>). Pub. L. 103–465, §321(a)(8), substituted “Court of Federal Claims” for “Claims Court”.
 
-Subsec. (n)(2)(A). Pub. L. 103–465, §321(a)(7)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “an officer or employee of the Commission who is directly concerned with carrying out the investigation in connection with which the information is submitted,”.
+Subsec. (n)(2)(A). Pub. L. 103–465, §321(a)(7)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “an officer or employee ofthe Commission who is directly concerned with carrying out the investigation in connection with which the information is submitted,”.
 
 Subsec. (n)(2)(C). Pub. L. 103–465, §321(a)(7)(B), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “an officer or employee of the United States Customs Service who is directly involved in administering an exclusion from entry under this section resulting from the investigation in connection with which the information is submitted.”
 
@@ -348,7 +348,7 @@ Section 322 of title III of Pub. L. 103–465 provided that: “The amendments m
 
 #### Effective Date of 1988 Amendments
 
-Amendment by Pub. L. 100–647 applicable as if such amendment took effect on Aug. 23, 1988, see section9001(b) of Pub. L. 100–647, set out as an Effective and Termination Dates of 1988 Amendments note under section 58c of this title.
+Amendment by Pub. L. 100–647 applicable as if such amendment took effect on Aug. 23, 1988, see section 9001(b) of Pub. L. 100–647, set out as an Effective and Termination Dates of 1988 Amendments note under section 58c of this title.
 
 Amendment by section 1214(h)(3) of Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respect to articles entered on or after such date, see section 1217(b)(1) of Pub. L. 100–418, set out as an Effective Date note under section 3001 of this title.
 

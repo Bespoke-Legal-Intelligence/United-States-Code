@@ -44,7 +44,7 @@ If an application is made under this chapter for a license to construct a deepwa
 
 &emsp;(3) applies to the Secretary for a determination under this section within 30 days of the date of the license application;
 
-> the Secretary shall not issue a license under this chapter until he has examined and compared the economic, social, and environmental effects of the construction and operation of the deepwater port with the economic, social and environmental effects of the construction, expansion, deepening, and operation of such State port, and has determined which project best serves the national interest or that both developments are warranted. The Secretary's determination shall be discretionary and nonreviewable.
+> the Secretary shall not issue a license under this chapter until he has examined and compared the economic, social, and environmental effects of the construction and operation of the deepwater port with the economic, social and environmental effects of the construction, expansion, deepening, and operation of such Stateport, and has determined which project best serves the national interest or that both developments are warranted. The Secretary's determination shall be discretionary and nonreviewable.
 
 #### (e) Additional conditions; removal requirements, waiver; Outer Continental Shelf Lands Act applicable to utilization of components upon waiver of removal requirements
 
@@ -74,7 +74,7 @@ The Clean Air Act, referred to in subsec. (c)(6), is act July 14, 1955, ch. 360,
 
 The Federal Water Pollution Control Act, as amended, referred to in subsec. (c)(6), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
 
-The Marine Protection, Research and Sanctuaries Act, referred to subsec. (c)(6), probably means Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052, as amended, known asthe Marine Protection, Research, and Sanctuaries Act of 1972, which is classified generally to chapters 27 (§1401 et seq.) and 41 (§2801 et seq.) of this title and chapters 32 (§1431 et seq.) and 32A (§1447 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1401 of this title and Tables.
+The Marine Protection, Research and Sanctuaries Act, referred to subsec. (c)(6), probably means Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052, as amended, known as the Marine Protection, Research, and Sanctuaries Act of 1972, which is classified generally to chapters 27 (§1401 et seq.) and 41 (§2801 et seq.) of this title and chapters 32 (§1431 et seq.) and 32A (§1447 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1401 of this title and Tables.
 
 The Coastal Zone Management Act of 1972, referred to in subsec. (c)(9), is title III of Pub. L. 89–454, as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, as amended, which is classified generally to chapter 33 (§1451 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1451 of Title 16 and Tables.
 

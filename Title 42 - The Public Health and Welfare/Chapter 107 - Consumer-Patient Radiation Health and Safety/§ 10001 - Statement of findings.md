@@ -6,7 +6,7 @@ The Congress finds that—
 
 &emsp;(2) it is in the interest of public health and safety to have a continuing supply of adequately educated persons and appropriate accreditation and certification programs administered by State governments;
 
-&emsp;(3) the protection of the public health and safety from unnecessary exposure to potentially hazardous radiation due to medical anddental radiologic procedures and the assurance of efficacious procedures are the responsibility of State and Federal governments;
+&emsp;(3) the protection of the public health and safety from unnecessary exposure to potentially hazardous radiation due to medical and dental radiologic procedures and the assurance of efficacious procedures are the responsibility of State and Federal governments;
 
 &emsp;(4) persons who administer radiologic procedures, including procedures at Federal facilities, should be required to demonstrate competence by reason of education, training, and experience; and
 

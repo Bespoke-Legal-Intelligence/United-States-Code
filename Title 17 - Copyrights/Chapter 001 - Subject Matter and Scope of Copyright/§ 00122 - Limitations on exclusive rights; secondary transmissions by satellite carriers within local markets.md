@@ -2,7 +2,7 @@
 
 (a)
 
-Secondary Transmissions of Television Broadcast Stations by Satellite Carriers.—A secondary transmission of a performance or display of a work embodied in a primary transmission of a television broadcast station intothe station's local market shall be subject to statutory licensing under this section if—
+Secondary Transmissions of Television Broadcast Stations by Satellite Carriers.—A secondary transmission of a performance or display of a work embodied in a primary transmission of a television broadcast station into the station's local market shall be subject to statutory licensing under this section if—
 
 &emsp;(1) the secondary transmission is made by a satellite carrier to the public;
 
@@ -32,7 +32,7 @@ Use of subscriber information.—Subscriber information submitted by a satellite
 
 &emsp;(4)
 
-Requirements of networks.—The submission requirements of this subsection shall apply to a satellite carrier only if the network to which the submissions are to be made places on file with the Register of Copyrights a document identifying the name and address of the person to whom such submissions are to be made. The Register of Copyrights shall maintain for public inspection a file of all such documents.
+Requirements of networks.—The submission requirements of this subsection shallapply to a satellite carrier only if the network to which the submissions are to be made places on file with the Register of Copyrights a document identifying the name and address of the person to whom such submissions are to be made. The Register of Copyrights shall maintain for public inspection a file of all such documents.
 
 (c)
 
@@ -138,5 +138,5 @@ Section effective July 1, 1999, see section 1000(a)(9) \[title I, §1012\] of Pu
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 119, 501 of this title.
+This section is referred to in sections 119, 501 of this title; title 47 sections 325, 338, 339.
 

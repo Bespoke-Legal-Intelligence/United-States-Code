@@ -2,7 +2,7 @@
 
 #### (a) Maximum amount per individual per year; preference to first year students
 
-The total of the loans for any academic year (or its equivalent, as determined under regulations of the Secretary) made by schools of nursing from loan funds established pursuant to agreements under this subpart <sup>1</sup> may not exceed $2,500 in the case of any student, except that for the final two academic years of the program involved, such total may not exceed $4,000. The aggregate of the loans for all years from such funds may not exceed $13,000 in the case of any student. In the granting of such loans, a school shall give preference to licensed practical nurses, to persons with exceptional financial need, and to persons who enter as first-year students after enactment of this subchapter.
+The total of the loans for any academic year (or its equivalent, as determined under regulations of the Secretary) made by schools of nursing from loan funds established pursuant to agreements under this part <sup>1</sup> may not exceed $2,500 in the case of any student, except that for the final two academic years of the program involved, such total may not exceed $4,000. The aggregate of the loans for all years from such funds may not exceed $13,000 in the case of any student. In the granting of such loans, a school shall give preference to licensed practical nurses, to persons with exceptional financial need, and to persons who enter as first-year students after enactment of this subchapter.
 
 #### (b) Terms and conditions
 
@@ -18,9 +18,9 @@ Loans from any such student loan fund by any school shall be made on such terms 
 
 &emsp;(5) such a loan shall bear interest on the unpaid balance of the loan, computed only for periods during which the loan is repayable, at the rate of 5 percent per annum;
 
-&emsp;(6) such a loan shall be made without security or endorsement, except that if the borrower is a minor and the note or other evidence of obligation executed by him wouldnot, under the applicable law, create a binding obligation, either security or endorsement may be required;
+&emsp;(6) such a loan shall be made without security or endorsement, except that if the borrower is a minor and the note or other evidence of obligation executed by him would not, under the applicable law, create a binding obligation, either security or endorsement may be required;
 
-&emsp;(7) no note or other evidence of any such loan may be transferred or assigned by the school making the loan except that, if the borrower transfers to another school participating in the program under this subpart <sup>1</sup> such note or other evidence of a loan may be transferred to such other school; and
+&emsp;(7) no note or other evidence of any such loan may be transferred or assigned by the school making the loan except that, if the borrower transfers to another school participating in the program under this part <sup>1</sup> such note or other evidence of a loan may be transferred to such other school; and
 
 &emsp;(8) pursuant to uniform criteria established by the Secretary, the repayment period established under paragraph (2) for any student borrower who during the repayment period failed to make consecutive payments and who, during the last 12 months of the repayment period, has made at least 12 consecutive payments may be extended for a period not to exceed 10 years.
 
@@ -30,33 +30,33 @@ Where all or any part of a loan, or interest, is canceled under this section, th
 
 #### (d) Installments
 
-Any loan for any year by a school from a student loan fund established pursuant to an agreement under this subpart <sup>1</sup> shall be made in such installments as may be provided in regulations of the Secretary or such agreement and, upon notice to the Secretary by the school that any recipient of a loan is failing to maintain satisfactory standing, any or all further installments of his loan shall be withheld, as may be appropriate.
+Any loan for any year by a school from a student loan fund established pursuant to an agreement under this part <sup>1</sup> shall be made in such installments as may be provided in regulations of the Secretary or such agreement and, upon notice to the Secretary by the school that any recipient of a loan is failing to maintain satisfactory standing, any or all further installments of his loan shall be withheld, as may be appropriate.
 
 #### (e) Availability to eligible students in need
 
-An agreement under this subpart <sup>1</sup> with any school shall include provisions designed to make loans from the student loan fund established thereunder reasonably available (to the extent of the available funds in such fund) to all eligible students in the school in need thereof.
+An agreement under this part <sup>1</sup> with any school shall include provisions designed to make loans from the student loan fund established thereunder reasonably available (to the extent of the available funds in such fund) to all eligible students in the school in need thereof.
 
 #### (f) Penalty for late payment
 
-Subject to regulations of the Secretary and in accordance with this section, a school shall assess a charge with respect to a loan from the loan fund established pursuant to an agreement under this subpart <sup>1</sup> for failure of the borrower to pay all or any part of an installment when it is due and, in the case of a borrower who is entitled to deferment of the loan under subsection (b)(2) of this section or cancellation of part or all of the loan under subsection (b)(3) of this section, for any failure to file timely and satisfactory evidence for such entitlement. No such charge may be made if the payment of such installment or the filing of such evidence is made within 60 days after the date on which such installment or filing is due. The amount of any such charge may not exceed an amount equal to 6 percent of the amount of such installment. The school may elect to add the amount of any such charge to the principal amount of the loan as of the first day after the day on which such installment or evidence was due, or to make the amount of the charge payable to the school not later than the due date of the next installment after receipt by the borrower of notice of the assessment of the charge.
+Subject to regulations of the Secretary and in accordance with this section, a school shall assess a charge with respect to a loan from the loan fund established pursuant to an agreement under this part <sup>1</sup> for failure of the borrower to pay all or any part of an installment when it is due and, in the case of a borrower who is entitled to deferment of the loan under subsection (b)(2) of this section or cancellation of part or all of the loan under subsection (b)(3) of this section, for any failure to file timely and satisfactory evidence for such entitlement. No such charge may be made if the payment of such installment or the filing of such evidence is made within 60 days after the date on which such installment or filing is due. The amount of any such charge may not exceed an amount equal to 6 percent of the amount of such installment. The school may elect to add the amount of any such charge to the principal amount of the loan as of the first day after the day on which such installment or evidence was due, or to make the amount of the charge payable to the school not later than the due date of the next installment after receipt by the borrower of notice of the assessment of the charge.
 
 #### (g) Minimum monthly repayment
 
-A school may provide in accordance with regulations of the Secretary, that during the repayment period of a loan from a loan fund established pursuant to an agreement under this subpart <sup>1</sup> payments of principal and interest by the borrower with respect to all the outstanding loans made to him from loan funds so established shall be at a rate equal to not less than $40 per month.
+A school may provide in accordance with regulations of the Secretary, that during the repayment period of a loan from a loan fund established pursuant to an agreement under this part <sup>1</sup> payments of principal and interest by the borrower with respect to all the outstanding loans made to him from loan funds so established shall be at a rate equal to not less than $40 per month.
 
 #### (h) Loan cancellation
 
 Notwithstanding the amendment made by section 6(b) of the Nurse Training Act of 1971 to this section—
 
-&emsp;(A) any person who obtained one or more loans from a loan fund established under this subpart, <sup>1</sup> who before November 18, 1971, became eligible for cancellation of all or part of such loans (including accrued interest) under this section (as in effect on the day before such date), and who on such date was not engaged in a service for which loan cancellation was authorized under this section (as so in effect), may at any time elect to receive such cancellation in accordance with this subsection (as so in effect); and
+&emsp;(A) any person who obtained one or more loans from a loan fund established under this part, <sup>1</sup> who before November 18, 1971, became eligible for cancellation of all or part of such loans (including accrued interest) under this section (as in effect on the day before such date), and who on such date was not engaged in a service for which loan cancellation was authorized under this section (as so in effect), may at any time elect to receive such cancellation in accordance with this subsection (as so in effect); and
 
-&emsp;(B) in the case of any person who obtained one or more loans from a loan fund established under this subpart <sup>1</sup> and who on such date was engaged in a service for which cancellation of all or part of such loans (including accrued interest) was authorized under this section (as so in effect), this section (as so in effect) shall continue to apply to such person for purposes of providing such loan cancellation until he terminates such service.
+&emsp;(B) in the case of any person who obtained one or more loans from a loan fund established under this part <sup>1</sup> and who on such date was engaged in a service for which cancellation of all or part of such loans (including accrued interest) was authorized under this section (as so in effect), this section (as so in effect) shall continue to apply to such person for purposes of providing such loan cancellation until he terminates such service.
 
 > Nothing in this subsection shall be construed to prevent any person from entering into an agreement for loan cancellation under subsection (h) <sup>1</sup> of this section (as amended by section 6(b)(2) of the Nurse Training Act of 1971).
 
 #### (i) Loan repayment
 
-Upon application by a person who received, and is under an obligation to repay, any loan made to such person as a nursing student, the Secretary may undertake to repay (without liability to the applicant) all or any part of such loan, and any interest or portion thereof outstanding thereon, upon his determination, pursuant to regulations establishing criteria therefor, that the applicant—
+Upon application by a person who received, and is under an obligation to repay, any loan made to such person as a nursing student, theSecretary may undertake to repay (without liability to the applicant) all or any part of such loan, and any interest or portion thereof outstanding thereon, upon his determination, pursuant to regulations establishing criteria therefor, that the applicant—
 
 &emsp;(1) failed to complete the nursing studies with respect to which such loan was made;
 
@@ -66,7 +66,7 @@ Upon application by a person who received, and is under an obligation to repay, 
 
 #### (j) Collection by Secretary of loan in default; preconditions and procedures applicable
 
-The Secretary is authorized to attempt to collect any loan which was made under this subpart,<sup>1</sup> which is in default, and which was referred to the Secretary by a school of nursingwith which the Secretary has an agreement under this subpart,<sup>1</sup> on behalf of that school under such terms and conditions as the Secretary may prescribe (including reimbursement from the school's student loan fund for expenses the Secretary may reasonably incur in attempting collection), but only if the school has complied with such requirements as the Secretary may specify by regulation with respect to the collection of loans under this subpart.<sup>1</sup> A loan so referred shall be treated as a debt subject to section 5514 of title 5. Amounts collected shall be deposited in the school's student loan fund. Whenever the Secretary desires the institution of a civil action regarding any such loan, the Secretary shall refer the matter to the Attorney General for appropriate action.
+The Secretary is authorized to attempt to collect any loan which was made under this part,<sup>1</sup> which is in default, and which was referred to the Secretary by a school of nursing with which the Secretary has an agreement under this part,<sup>1</sup> on behalf of that school under such terms and conditions as the Secretary may prescribe (including reimbursement from the school's student loan fund for expenses the Secretary may reasonably incur in attempting collection), but only if the school has complied with such requirements as the Secretary may specify by regulation with respect to the collection of loans under this part.<sup>1</sup> A loan so referred shall be treated as a debt subject to section 5514 of title 5. Amounts collected shall be deposited in the school's student loan fund. Whenever the Secretary desires the institution of a civil action regarding any such loan, the Secretary shall refer the matter to the Attorney General for appropriate action.
 
 #### (k) Redesignated (j)
 
@@ -78,13 +78,13 @@ The Secretary is authorized to attempt to collect any loan which was made under 
 
 #### (2) Prohibition
 
-&emsp;Notwithstanding any other provision of Federal or State law, no limitation shall terminate the period within which suit may be filed, a judgment may be enforced, or an offset, garnishment, or other action may be initiated or taken by a school of nursing that has an agreement with the Secretary pursuant to section 297a of this title that is seeking the repayment of the amount due from a borrower on a loan made under this subpart <sup>1</sup> after the default of the borrower on such loan.
+&emsp;Notwithstanding any other provision of Federal or State law, no limitation shall terminate the period within which suit may be filed, a judgment may be enforced, or an offset, garnishment, or other action may be initiated or taken by a school of nursing that has an agreement with the Secretary pursuant to section 297a of this title that is seeking the repayment of the amount due from a borrower on a loan made under this part <sup>1</sup> after the default of the borrower on such loan.
 
 (July 1, 1944, ch. 373, title VIII, §836, formerly §823, as added Pub. L. 88–581, §2, Sept. 4, 1964, 78 Stat. 914; amended Pub. L. 89–290, §4(g)(2), Oct. 22, 1965, 79 Stat. 1058; Pub. L. 90–490, title II, §222(b), (c)(1), Aug. 16, 1968, 82 Stat. 783, 784; Pub. L. 92–158, §6(a), (b)(1), (e), Nov. 18, 1971, 85 Stat. 475, 476, 478; renumbered §836 and amended Pub. L. 94–63, title IX, §§936(b), 941(h)(1), (2), (5), (i)(1), July 29, 1975, 89 Stat. 363, 365; Pub. L. 96–76, title I, §112, Sept. 29, 1979, 93 Stat. 580; Pub. L. 97–35, title XXVII, §2757(b), Aug. 13, 1981, 95 Stat. 931; Pub. L. 99–92, §8(b)–(d), Aug. 16, 1985, 99 Stat. 398; Pub. L. 100–607, title VII, §§713(b)–(g), 714(a)–(c), Nov. 4, 1988, 102 Stat. 3160, 3161; Pub. L. 101–93, §5(r), Aug. 16, 1989, 103 Stat. 614; Pub. L. 102–408, title II, §211(a)(1), Oct. 13, 1992, 106 Stat. 2078; Pub. L. 105–392, title I, §133(a)–(c)(1), Nov. 13, 1998, 112 Stat. 3575.)
 
 #### References in Text
 
-This subpart, referred to in subsecs. (a), (b)(7), (d) to (h), (j), and (<i>l</i>), probably should be “this part”, to reflect the redesignation of subpart II of part B of this subchapter as part E of this subchapter by Pub. L. 105–392, title I, §123(2), Nov. 13, 1998, 112 Stat. 3562.
+This part, referred to in subsecs. (a), (b)(7), (d) to (h), (j), and (<i>l</i>)(2), was in the original “this subpart” and was translated to reflect the probable intent of Congress and the redesignation of subpart II of part B of this subchapter as part E of this subchapter by Pub. L. 105–392, title I, §123(2), Nov. 13, 1998, 112 Stat. 3562.
 
 The Peace Corps Act, referred to in subsec. (b)(2), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, which is classified principally to chapter 34 (§2501 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of Title 22 and Tables.
 
@@ -114,7 +114,7 @@ Subsec. (<i>l</i>). Pub. L. 105–392, §133(c)(1), added subsec. (<i>l</i>).
 
 1988—Subsec. (a). Pub. L. 100–607, §713(b), (c), inserted in first sentence “, except that for the final two academic years of the program involved, such total may not exceed $4,000”, substituted “$13,000” for “$10,000” in second sentence, and inserted “, to persons with exceptional financial need,” after “nurses” in third sentence.
 
-Subsec. (b)(1)(C). Pub. L. 100–607, §713(d), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “if a student who will enroll in the school after June 30, 1986, is of exceptional financial need (as defined by regulations of the Secretary)”.
+Subsec. (b)(1)(C). Pub. L. 100–607, §713(d), amended subpar. (C) generally. Prior to amendment, subpar. (C)read as follows: “if a student who will enroll in the school after June 30, 1986, is of exceptional financial need (as defined by regulations of the Secretary)”.
 
 Subsec. (b)(2)(B). Pub. L. 100–607, §713(e), substituted “ten” for “five” and inserted “or half-time” after “a full-time”.
 
@@ -196,7 +196,7 @@ Section 222(i) of Pub. L. 90–490 provided that: “The amendments made by subs
 
 #### Construction of 1992 Amendment
 
-Section 211(b) of Pub. L. 102–408 provided that: “With respect to section 836(h) of the Public Health ServiceAct \[former subsec. (h) of this section\], as in effect prior to the date of the enactment of this Act \[Oct. 13, 1992\], any agreement entered into under such section that is in effect on the day before such date remains in effect in accordance with the terms of the agreement, notwithstanding the amendment made by subsection (a) of this section \[enacting section 297n of this title, amending this section, and repealing section 297c–1 of this title\].”
+Section 211(b) of Pub. L. 102–408 provided that: “With respect to section 836(h) of the Public Health Service Act \[former subsec. (h) of this section\], as in effect prior to the date of the enactment of this Act \[Oct. 13, 1992\], any agreement entered into under such section that is in effect on the day before such date remains in effect in accordance with the terms of the agreement, notwithstanding the amendment made by subsection (a) of this section \[enacting section 297n of this title, amending this section, and repealing section 297c–1 of this title\].”
 
 #### Section Referred to in Other Sections
 

@@ -4,11 +4,11 @@
 
 1968—Pub. L. 90–248, title II, §240(a), Jan. 2, 1968, 81 Stat. 911, provided for grants for child-welfare services in subchapter heading.
 
-1962—Pub. L. 87–543, title I, §104(a)(1), July 25, 1962, 76 Stat. 185, substituted “AID AND SERVICES TONEEDY FAMILIES WITH CHILDREN” for “AID TO DEPENDENT CHILDREN” in subchapter heading.
+1962—Pub. L. 87–543, title I, §104(a)(1), July 25, 1962, 76 Stat. 185, substituted “AID AND SERVICES TO NEEDY FAMILIES WITH CHILDREN” for “AID TO DEPENDENT CHILDREN” in subchapter heading.
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 280c–6, 1301, 1306a, 1320b–2, 1396b, 3020d, 6862, 9432, 9433, 9452 of this title; title 7 sections 2014, 2015, 2017, 2026, 2029; title 8 section 1611; title 26 sections 42, 6334; title 29 sections 1531, 1532, 1605.
+This subchapter is referred to in sections 280c–6, 1301, 1306a, 1320b–2, 1396b, 3020d, 6862, 9432, 9433, 9452 of this title; title 7 sections 2014, 2015, 2017, 2026, 2029; title 8 section 1611; title 26 sections 42, 6334.
 
 
 ---

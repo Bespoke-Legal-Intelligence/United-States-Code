@@ -8,8 +8,6 @@ On and after June 29, 1956, the Council of the District of Columbia is authorize
 
 Section is from the District of Columbia Appropriation Act, 1957.
 
-Section is also set out in D.C. Code, §40–710.
-
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in the following prior appropriation acts:
@@ -50,7 +48,7 @@ July 15, 1939, ch. 281, 53 Stat. 1033.
 
 #### Transfer of Functions
 
-“Council of the District of Columbia” substituted in text for “District of Columbia Council” pursuant to section 401 of Pub. L. 93–198. District of Columbia Council, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by Pub. L. 93–198, title VII, §711, Dec. 24, 1973, 87 Stat. 818, classified to section 1–211 of the District of Columbia Code, and replaced by Council of District of Columbia, as provided by section 401 of Pub. L. 93–198, classified to section 1–221 of the District of Columbia Code.
+“Council of the District of Columbia” substituted in text for “District of Columbia Council” pursuant to section 401 of Pub. L. 93–198. District of Columbia Council, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by Pub. L. 93–198, title VII, §711, Dec. 24, 1973, 87 Stat. 818, and replaced by Council of District of Columbia, as provided by section 401 of Pub. L. 93–198.
 
 Previously, reference to the Board of Commissioners of the District of Columbia had been changed to the District of Columbia Council pursuant to section 402(300) of Reorganization Plan No. 3 of 1967, 32 F.R. 11669, set out in the Appendix to Title 5, Government Organization and Employees, which transferred the regulatory and other functions of the Board of Commissioners relating to designating and reserving parking spaces for the use of members of the Congress under this section to the District of Columbia Council, subject to the right of the Commissioner as provided by section 406 of the Plan. For provisions establishing the District of Columbia Council, see section 201 of Reorg. Plan No. 3 of 1967.
 

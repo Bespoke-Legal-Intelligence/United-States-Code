@@ -2,23 +2,9 @@
 
 #### (a) Financial transactions of Commission; access to books, accounts, etc.
 
-Notwithstanding any other provision of law, and subject to subsection (c) of this section, financial transactions of the Commission shall be audited by the Comptroller General of the United States (hereinafter in this chapter referred to as the “Comptroller General”). In conducting any such audit, the appropriate representatives of the Comptroller General shall have access to all books, accounts, financial records, reports, files, and other papers, items, or property in use by the Commission and necessary to facilitate such audit, and such representatives shall be afforded full facilities for verifying transactions with the balances or securities held by depositories, fiscal agents, and custodians. Any such audit shall first be conducted with respect to the fiscal year in which this chapter becomes effective. An audit performed under this section is subject to the requirements of paragraphs (2), (3), and (5) of section 9105(a) of title 31.
+Notwithstanding any other provision of law, and subject to subsection (c) of this section, financial transactions of the Commission shall be audited by the Comptroller General of the United States (hereinafter in this chapter referred to as the “Comptroller General”). In conducting any such audit, the appropriate representatives of the Comptroller General shall have access to all books, accounts, financial records, reports, files, and other papers, items, or property in use by the Commission and necessary to facilitate such audit, and such representatives shall be afforded full facilities for verifying transactions with the balances or securities held by depositories, fiscal agents, andcustodians. Any such audit shall first be conducted with respect to the fiscal year in which this chapter becomes effective. An audit performed under this section is subject to the requirements of paragraphs (2), (3), and (5) of section 9105(a) of title 31.
 
-#### (b) Annual report to Congress; contents
-
-Subject to subsection (c) of this section, the Comptroller General shall, not later than six months after the end of each fiscal year, submit to the Congress a report of the audit conducted pursuant to subsection (a) of this section with respect to such fiscal year. Such report shall set forth the scope of the audit and shall include—
-
-&emsp;(1) a statement of assets and liabilities, capital, and surplus or deficit, based on the accounts of the Commission established pursuant to this part,
-
-&emsp;(2) a statement of income and expenses,
-
-&emsp;(3) a statement of sources and application of funds,
-
-&emsp;(4) a statement listing all direct and indirect costs incurred by the United States in implementing the Panama Canal Treaty of 1977, including the cost of property transferred to the Republic of Panama during each fiscal year, and
-
-&emsp;(5) such comments and information as the Comptroller General considers necessary to keep the Congress informed of the operations and financial transactions of the Commission, together with such recommendations with respect to such operations and transactions as the Comptroller General considers advisable.
-
-> The report shall identify specifically any program, expenditure, or other financial transaction or undertaking observed in the course of the audit which, in the opinion of the Comptroller General, has been carried out or made and has not been authorized by law. The Comptroller General shall submit a copy of each such report to the President, the Secretary of the Treasury, and the Commission.
+#### (b) Omitted
 
 #### (c) Independent auditors
 
@@ -33,6 +19,10 @@ In addition to auditing the financial statements of the Commission, the Comptrol
 #### References in Text
 
 This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 96–70, Sept. 27, 1979, 93 Stat. 452, known as the Panama Canal Act of 1979, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
+
+#### Codification
+
+Subsec. (b) of this section, which required the Comptroller General, not later than six months after the end of each fiscal year, to submit to Congress a report of the audit conducted pursuant to subsec. (a) of this section, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 4 of House Document No. 103–7.
 
 #### Amendments
 

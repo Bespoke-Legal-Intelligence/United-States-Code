@@ -8,7 +8,7 @@
 
 (d) In this section, the term “defense contractor”, for any year, means a person awarded a contract with the Department of Defense in that year for an amount in excess of $500,000.
 
-(Added Pub. L. 99–500, §101(c) \[title X, §957(a)(1)(B)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–174, and Pub. L. 99–591, §101(c) \[title X, §957(a)(1)(B)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–174; Pub. L. 99–661, div. A, title IX, formerly title IV, §957(a)(1)(B), Nov. 14, 1986, 100 Stat. 3954, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273.)
+(Added Pub. L. 99–500, §101(c) \[title X, §957(a)(1)(B)\], Oct. 18, 1986, 100 Stat. 1783–82,1783–174, and Pub. L. 99–591, §101(c) \[title X, §957(a)(1)(B)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–174; Pub. L. 99–661, div. A, title IX, formerly title IV, §957(a)(1)(B), Nov. 14, 1986, 100 Stat. 3954, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273.)
 
 #### Codification
 

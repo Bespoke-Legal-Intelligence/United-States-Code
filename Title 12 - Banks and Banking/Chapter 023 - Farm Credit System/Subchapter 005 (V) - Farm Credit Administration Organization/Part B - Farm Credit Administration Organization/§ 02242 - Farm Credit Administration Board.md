@@ -10,7 +10,7 @@ The term of office of each member of the Board shall be six years, except that t
 
 #### (c) Organization
 
-Each member of the Board, within fifteen days after notice of appointment, shall subscribe tothe oath of office. The Board may transact business if a vacancy exists, provided a quorum is present. A quorum shall consist of two members of the Board. The Board shall hold at least one meeting each month and such additional meetings at such times and places as it may fix and determine. Such meetings shall be held on the call of the Chairman or any two Board members. The Board shall adopt such rules as it deems appropriate for the transaction of business by the Board, and shall keep permanent and accurate records and minutes of the actions and proceedings of the Board.
+Each member of the Board, within fifteen days after notice of appointment, shall subscribe to the oath of office. The Board may transact business if a vacancy exists, provided a quorum is present. A quorum shall consist of two members of the Board. The Board shall hold at least one meeting each month and such additional meetings at such times and places as it may fix and determine. Such meetings shall be held on the call of the Chairman or any two Board members. The Board shall adopt such rules as it deems appropriate for the transaction of business by the Board, and shall keep permanent and accurate records and minutes of the actions and proceedings of the Board.
 
 #### (d) Compensation
 
@@ -26,7 +26,7 @@ The President shall appoint members of the Board who—
 
 &emsp;(3) have a strong financial, legal, or regulatory background.
 
-(Pub. L. 92–181, title V, §5.8, Dec. 10, 1971, 85 Stat. 617; Pub. L. 96–592, title V, §503, Dec. 24, 1980, 94 Stat. 3449; Pub. L. 99–205, title II, §201(1), Dec. 23, 1985, 99 Stat. 1688; Pub. L. 100–233, title IV, §431(a), Jan. 6, 1988, 101 Stat. 1658; Pub. L. 102–552, title I, §102, Oct. 28, 1992, 106 Stat. 4103.)
+(Pub. L. 92–181, title V, §5.8, Dec. 10, 1971, 85 Stat. 617; Pub. L. 96–592, title V, §503, Dec. 24,1980, 94 Stat. 3449; Pub. L. 99–205, title II, §201(1), Dec. 23, 1985, 99 Stat. 1688; Pub. L. 100–233, title IV, §431(a), Jan. 6, 1988, 101 Stat. 1658; Pub. L. 102–552, title I, §102, Oct. 28, 1992, 106 Stat. 4103.)
 
 #### Amendments
 

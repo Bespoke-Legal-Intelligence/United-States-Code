@@ -56,7 +56,7 @@ The non-Federal share of the cost assigned to other project purposes shall be as
 
 #### (1) Construction
 
-&emsp;Costs of constructing projects or measures for beach erosion control and water quality enhancement shall be assigned to appropriate project purposes listed in subsections (a), (b), and (c) of this section and shall be shared in the same percentage as the purposes to which the costs are assigned, except that all costs assigned to benefits to privately owned shores (where use of such shores is limited to privateinterests) or to prevention of losses of private lands shall be borne by non-Federal interests and all costs assigned to the protection of federally owned shores shall be borne by the United States.
+&emsp;Costs of constructing projects or measures for beach erosion control and water quality enhancement shall be assigned to appropriate project purposes listed in subsections (a), (b), and (c) of this section and shall be shared in the same percentage as the purposes to which the costs are assigned, except that all costs assigned to benefits to privately owned shores (where use of such shores is limited to private interests) or to prevention of losses of private lands shall be borne by non-Federal interests and all costs assigned to the protection of federally owned shores shall be borne by the United States.
 
 #### (2) Periodic nourishment
 
@@ -130,11 +130,11 @@ Except as provided under section 2283(c) of this title, the non-Federal interest
 
 #### (2) Elements of agreement
 
-&emsp;The agreement required pursuant to paragraph (1) shall be in accordance with the requirements of section 1962d–5b of title 42 and shall provide for the rights and duties of the United States and the non-Federal interest with respect to the construction, operation, and maintenance of the project, including, but not limited to, provisions specifying that, in the event the non-Federal interest fails to provide the required non-Federal share of costs for such work, the Secretary—
+&emsp;The agreement required pursuant to paragraph (1) shall be in accordance with the requirements of section 1962d–5b of title 42 andshall provide for the rights and duties of the United States and the non-Federal interest with respect to the construction, operation, and maintenance of the project, including, but not limited to, provisions specifying that, in the event the non-Federal interest fails to provide the required non-Federal share of costs for such work, the Secretary—
 
 &emsp;&emsp;(A) shall terminate or suspend work on the project unless the Secretary determines that continuation of the work is in the interest of the United States or is necessary in order to satisfy agreements with other non-Federal interests in connection with the project; and
 
-&emsp;&emsp;(B) may terminate or adjust the rights and privileges of the non-Federal interest toproject outputs under the terms of the agreement.
+&emsp;&emsp;(B) may terminate or adjust the rights and privileges of the non-Federal interest to project outputs under the terms of the agreement.
 
 #### (k) Payment options
 
@@ -148,11 +148,11 @@ At the request of any non-Federal interest the Secretary may permit such non-Fed
 
 #### (1) In general
 
-&emsp;Any cost-sharing agreement under this section for flood control or agricultural water supply shall be subject to the ability of a non-Federal interest to pay.
+&emsp;Any cost-sharing agreement under this section for a feasibility study, or for construction of an environmental protection and restoration project, a flood control project, a project for navigation, storm damage protection, shoreline erosion, hurricane protection, or recreation, or an agricultural water supply project, shall be subject to the ability of the non-Federal interest to pay.
 
 #### (2) Criteria and procedures
 
-&emsp;The ability of a non-Federal interest to pay shall be determined by the Secretary in accordance with criteria and procedures in effect on the day before October 12, 1996; except that such criteria and procedures shall be revised within 1 year after October 12, 1996, to reflect the requirements of paragraph (3).
+&emsp;The ability of a non-Federal interest to pay shall be determined by the Secretary in accordance with criteria and procedures in effect under paragraph (3) on the day before December 11, 2000; except that such criteria and procedures shall be revised, and new criteria and procedures shall be developed, not later than 180 days after December 11, 2000, to reflect the requirements of such paragraph (3).
 
 #### (3) Revision of criteria and procedures
 
@@ -162,17 +162,15 @@ At the request of any non-Federal interest the Secretary may permit such non-Fed
 
 &emsp;&emsp;&emsp;(i) per capita income data for the county or counties in which the project is to be located; and
 
-&emsp;&emsp;&emsp;(ii) the per capita non-Federal cost of construction of the project for the county or counties in which the project is to be located;
+&emsp;&emsp;&emsp;(ii) the per capita non-Federal cost of construction of the project for the county or counties in which the project is to be located; and
 
-&emsp;&emsp;(B) shall not consider criteria (other than criteria described in subparagraph (A)) in effect on the day before October 12, 1996; and
-
-&emsp;&emsp;(C) may consider additional criteria relating to the non-Federal interest's financial ability to carry out its cost-sharing responsibilities, to the extent that the application of such criteria does not eliminate areas from eligibility for a reduction in the non-Federal share as determined under subparagraph (A).
+&emsp;&emsp;(B) may consider additional criteria relating to the non-Federal interest's financial ability to carry out its cost-sharing responsibilities, to the extent that the application of such criteria does not eliminate areas from eligibility for a reduction in the non-Federal share as determined under subparagraph (A).
 
 #### (4) Non-Federal share
 
 &emsp;Notwithstanding subsection (a) of this section, the Secretary may reduce the requirement that a non-Federal interest make a cash contribution for any project that is determined to be eligible for a reduction in the non-Federal share under criteria and procedures in effect under paragraphs (1), (2), and (3).
 
-(Pub. L. 99–662, title I, §103, Nov. 17, 1986, 100 Stat. 4084; Pub. L. 101–640, title III, §305(a), Nov. 28, 1990, 104 Stat. 4635; Pub. L. 102–580, title II, §201(a), title III, §333(b)(2), Oct. 31, 1992, 106 Stat. 4825, 4852; Pub. L. 104–303, title II, §§202(a)(1)(A), (2), (b)(1), 210(a), Oct. 12, 1996, 110 Stat. 3673, 3681; Pub. L. 106–53, title II, §§215(a), 219(c), Aug. 17, 1999, 113 Stat. 292, 295; Pub. L. 106–109, §5, Nov. 24, 1999, 113 Stat. 1495.)
+(Pub. L. 99–662, title I, §103, Nov. 17, 1986, 100 Stat. 4084; Pub. L. 101–640, title III, §305(a), Nov. 28, 1990, 104 Stat. 4635; Pub. L. 102–580, title II, §201(a), title III, §333(b)(2), Oct. 31, 1992, 106 Stat. 4825, 4852; Pub. L. 104–303, title II, §§202(a)(1)(A), (2), (b)(1), 210(a), Oct. 12, 1996, 110 Stat. 3673, 3681; Pub. L. 106–53, title II, §§215(a), 219(c), Aug. 17, 1999, 113 Stat. 292, 295; Pub. L. 106–109, §5, Nov. 24, 1999, 113 Stat. 1495; Pub. L. 106–541, title II, §204, Dec. 11, 2000, 114 Stat. 2589.)
 
 #### References in Text
 
@@ -190,7 +188,11 @@ The Flood Control Act approved August 18, 1941, referred to in subsec. (g)(2)(C)
 
 #### Amendments
 
-1999—Subsec. (b). Pub. L. 106–53, §219(c)(1), which directed insertion of the par. (1) designation and heading before “The non-Federal”, was executed by making the insertion before that phrase the first place it appeared to reflect the probable intent of Congress.
+2000—Subsec. (m)(1), (2). Pub. L. 106–541, §204(1), added pars. (1) and (2) and struck out former pars. (1) and (2) which required any cost-sharing agreement to be subject to the ability of a non-Federal interest to pay and required the Secretary to determine ability to pay using certain criteria and procedures.
+
+Subsec. (m)(3)(B), (C). Pub. L. 106–541, §204(2), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “shall not consider criteria (other than criteria described in subparagraph (A)) in effect on the day before October 12, 1996; and”.
+
+1999—Subsec. (b). Pub. L. 106–53, §219(c)(1), which directed insertion of the par. (1) designation and headingbefore “The non-Federal”, was executed by making the insertion before that phrase the first place it appeared to reflect the probable intent of Congress.
 
 Subsec. (b)(2). Pub. L. 106–53, §219(c)(2), added par. (2).
 

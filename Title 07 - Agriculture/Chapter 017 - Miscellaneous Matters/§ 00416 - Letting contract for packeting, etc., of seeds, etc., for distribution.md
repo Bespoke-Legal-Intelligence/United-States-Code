@@ -8,7 +8,3 @@ The Secretary of Agriculture, after due advertisement and on competitive bids, i
 
 Section is from the Agriculture Department Appropriation Act, 1923.
 
-#### Cross References
-
-Purchase of seeds and plants for distribution, see section 415 of this title.
-

@@ -12,10 +12,6 @@ The sum of $5,000,000 is authorized to be appropriated as an emergency fund to b
 
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
-#### Cross References
-
-Rescue work and repair and maintenance of projects threatened by flood, generally, see section 701n of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 701c–1, 701e, 702a, 702a–11/2, 702a–13/4, 702a–11, 702c, 702e, 702h, 702i, 702j, 702<i>l</i>, 702m, 702n of this title.

@@ -44,9 +44,3 @@ Pub. L. 99–607, §3(c), Nov. 6, 1986, 100 Stat. 3471.
 
 Pub. L. 96–517, §9, Dec. 12, 1980, 94 Stat. 3028, directed the Commissioner of Patents and Trademarks to report to Congress, within two years after Dec. 12, 1980, a plan to identify, and if necessary develop or have developed, computerized data and retrieval systems equivalent to the latest state of the art which could be applied to all aspects of the operation of the Patent and Trademark Office, and particularly to the patent search file, the patent classification system, and the trademark search file. The report was to specify the cost of implementing the plan, and how rapidly the plan could be implemented by the Patent and Trademark Office, without regard to the availability of future funding.
 
-#### Cross References
-
-Printing and distribution of the report of the Commissioner, see section 1337 of Title 44, Public Printing and Documents.
-
-Provisions applicable to all the Departments, relating to the time of making annual reports, see section 2952 of Title 5, Government Organization and Employees.
-

@@ -18,7 +18,7 @@ Based on title 18, U.S.C., 1940 ed., §§469–474 (June 11, 1940, ch. 326, §§
 
 Sections consolidated and rewritten with changes of phraseology and substance.
 
-In section 469 of title 18, U.S.C., 1940 ed., the element of intent not to pay for transportation was omitted asunnecessary since the payment of transportation will invariably remove the stowaway from the operation of the section by purchasing the master's “consent”.
+In section 469 of title 18, U.S.C., 1940 ed., the element of intent not to pay for transportation was omitted as unnecessary since the payment of transportation will invariably remove the stowaway from the operation of the section by purchasing the master's “consent”.
 
 In section 472 of title 18, U.S.C., 1940 ed., the enumerations of State, Territory, Possession, District of Columbia, and The Canal Zone, was omitted as adequately covered by “place within the jurisdiction of the United States.”
 
@@ -31,16 +31,6 @@ Sections 471 and 474 of title 18, U.S.C., 1940 ed., were omitted as obviously un
 #### Amendments
 
 1996—Pub. L. 104–294 substituted “fined under this title” for “fined not more than $1,000” in fourth par.
-
-#### Canal Zone
-
-Applicability of section to Canal Zone, see section 14 of this title.
-
-#### Cross References
-
-Exclusion of stowaways under immigration laws, see section 1182 of Title 8, Aliens and Nationality.
-
-Unlawful bringing of aliens into United States, alien stowaways, see section 1323 of Title 8.
 
 #### Section Referred to in Other Sections
 

@@ -24,13 +24,13 @@ The revised section substitutes the words “Except as otherwise provided by law
 
 #### Amendments
 
-1992—Subsec. (b). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1992</b>—Subsec. (b). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-1982—Subsec. (b). Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims”.
+<b>1982</b>—Subsec. (b). Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims”.
 
-1975—Subsec. (a). Pub. L. 93–584 substituted provisions that civil actions under section 1336(a) of this title shall be brought only in a judicial district in which any of the parties bringing the action resides or has its principal office, for provisions that civil actions to enforce, suspend, or set aside in whole or in part orders of the Interstate Commerce Commission shall be brought in such judicial district.
+<b>1975</b>—Subsec. (a). Pub. L. 93–584 substituted provisions that civil actions under section 1336(a) of this title shall be brought only in a judicial district in which any of the parties bringing the action resides or has its principal office, for provisions that civil actions to enforce, suspend, or set aside in whole or in part orders of the Interstate Commerce Commission shall be brought in such judicial district.
 
-1964—Pub. L. 88–513 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1964</b>—Pub. L. 88–513 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date of 1992 Amendment
 
@@ -47,10 +47,4 @@ Amendment by Pub. L. 93–584 not applicable to actions commenced on or before l
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
 
 Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
-
-#### Cross References
-
-Enforcement and review of Surface Transportation Board's orders, see section 2321 et seq. of this title.
-
-Jurisdiction of district courts in actions involving Surface Transportation Board's orders, see section 1336 of this title.
 

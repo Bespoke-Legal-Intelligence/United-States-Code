@@ -38,10 +38,6 @@ In subsection (b), the words “Subject to subsection (a)” are inserted for cl
 
 1988—Subsec. (b). Pub. L. 100–456 struck out “, the Canal Zone,” after “Puerto Rico”.
 
-#### Cross References
-
-Army National Guard of United States and Air National Guard of United States, discharge of officers, see section 14907 of Title 10, Armed Forces.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in title 10 section 1370.

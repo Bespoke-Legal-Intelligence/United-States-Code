@@ -98,7 +98,7 @@ Judicial review of determinations made under this section shall be carried out i
 
 #### (B) Fees and expenses
 
-&emsp;&emsp;Any monetary judgment awarded in an action brought under this paragraph may, inthe discretion of the court, include the attorney's fees and other expenses incurred by the United States in connection with the action.
+&emsp;&emsp;Any monetary judgment awarded in an action brought under this paragraph may, in the discretion of the court, include the attorney's fees and other expenses incurred by the United States in connection with the action.
 
 #### (2) Nonreviewability of determination or order
 

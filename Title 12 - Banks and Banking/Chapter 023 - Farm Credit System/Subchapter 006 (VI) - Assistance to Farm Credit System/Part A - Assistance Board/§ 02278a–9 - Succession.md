@@ -94,7 +94,7 @@ To the extent that, on the extinguishing of liabilities assumed by the Assistanc
 
 #### (4) Funds not considered financial assistance
 
-&emsp;The funds made available to each bank, whether through the issuance of stock or otherwise, by the Financial Assistance Corporation to meet obligations under any agreement referred to in paragraph (1) or to meet any obligations of the contributing banks under any such agreement, as required by this subsection, shall not be considered financial assistance under this chapter.
+&emsp;The funds made available to each bank, whether through the issuance of stock orotherwise, by the Financial Assistance Corporation to meet obligations under any agreement referred to in paragraph (1) or to meet any obligations of the contributing banks under any such agreement, as required by this subsection, shall not be considered financial assistance under this chapter.
 
 #### (5) Suspension of preservation agreements
 

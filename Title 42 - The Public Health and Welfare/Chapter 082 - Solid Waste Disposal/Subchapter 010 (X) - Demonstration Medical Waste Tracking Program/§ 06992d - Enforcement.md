@@ -16,7 +16,7 @@
 
 #### (4) Violation of compliance orders
 
-&emsp;In the case of an order under this subsection requiring compliance with any requirement ofor regulation under this subchapter, if a violator fails to take corrective action within the time specified in an order, the Administrator may assess a civil penalty of not more than $25,000 for each day of continued noncompliance with the order.
+&emsp;In the case of an order under this subsection requiring compliance with any requirement of or regulation under this subchapter, if a violator fails to take corrective action within the time specified in an order, the Administrator may assess a civil penalty of not more than $25,000 for each day of continued noncompliance with the order.
 
 #### (b) Criminal penalties
 
@@ -40,7 +40,7 @@ Any person who violates any requirement of or regulation under this subchapter s
 
 #### (e) Civil penalty policy
 
-Civil penalties assessed by the United States or by the States under this subchapter shall be assessed in accordance with the Administrator's “RCRA Civil Penalty Policy”, as such policy may be amended from time to time.
+Civil penalties assessed by the United States or by the States under this subchapter shall beassessed in accordance with the Administrator's “RCRA Civil Penalty Policy”, as such policy may be amended from time to time.
 
 (Pub. L. 89–272, title II, §11005, as added Pub. L. 100–582, §2(a), Nov. 1, 1988, 102 Stat. 2953.)
 

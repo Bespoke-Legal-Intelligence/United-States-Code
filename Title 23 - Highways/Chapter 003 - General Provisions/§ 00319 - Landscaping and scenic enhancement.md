@@ -2,7 +2,7 @@
 
 (a)
 
-Landscape and Roadside Development.—The Secretary may approve as a part of the construction of Federal-aid highways the costs of landscape and roadside development, including acquisition and development of publicly owned and controlled rest and recreation areas and sanitary and other facilities reasonably necessary to accommodate the traveling public, and for acquisition of interests in and improvement of strips of land necessary for the restoration, preservation, and enhancement of scenic beauty adjacent to such highways.
+Landscape and Roadside Development.—The Secretary may approve as a part of the construction of Federal-aid highways the costs of landscape and roadside development, including acquisition and development of publicly owned and controlled rest and recreation areas and sanitary and other facilities reasonably necessary to accommodate the traveling public, and for acquisition of interests in and improvement of strips of land necessary for the restoration,preservation, and enhancement of scenic beauty adjacent to such highways.
 
 (b)
 
@@ -32,7 +32,7 @@ Gifts.—Nothing in this subsection shall be construed to prohibit the acceptanc
 
 1966—Subsec. (b). Pub. L. 89–574 substituted provisions making applicable to the funds authorized to be appropriated to carry out this subsection after June 30, 1967, the provisions of chapter 1 of this title relating to the obligations, period of availability, and expenditure of Federal-aid primary highway funds for provisions prohibiting the use of any part of the Highway Trust Fund in carrying out this subsection.
 
-1965—Pub. L. 89–285 rearranged section structurally, made provision for apportionment of an amount, in addition to the state's annual apportionment, equivalent to 3 per centum of the fund annually apportioned to the state for federal-aid highways to acquire interests and improvements for restoration, preservation, and enhancement of scenic beauty adjacent to Federal-aid highways, authorized appropriations of $120,000,000 for fiscal year ending June 30, 1966, and $120,000,000 for fiscal year ending June 30, 1967, and prohibited use ofHighway Trust Fund moneys in carrying out the scenic enhancement provisions.
+1965—Pub. L. 89–285 rearranged section structurally, made provision for apportionment of an amount, in addition to the state's annual apportionment, equivalent to 3 per centum of the fund annually apportioned to the state for federal-aid highways to acquire interests and improvements for restoration, preservation, and enhancement of scenic beauty adjacent to Federal-aid highways, authorized appropriations of $120,000,000 for fiscal year ending June 30, 1966, and $120,000,000 for fiscal year ending June 30, 1967, and prohibited use of Highway Trust Fund moneys in carrying out the scenic enhancement provisions.
 
 #### Effective Date of 1968 Amendment
 

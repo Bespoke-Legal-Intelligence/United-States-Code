@@ -26,3 +26,7 @@ The Secretary shall evaluate and report to the Congress on the activities of pro
 
 1998—Subsec. (e). Pub. L. 105–362 substituted “every 5 years” for “every two years”.
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (e) of this section relating to reporting to Congress on the activities of programs funded under this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 97 of House Document No. 103–7.
+

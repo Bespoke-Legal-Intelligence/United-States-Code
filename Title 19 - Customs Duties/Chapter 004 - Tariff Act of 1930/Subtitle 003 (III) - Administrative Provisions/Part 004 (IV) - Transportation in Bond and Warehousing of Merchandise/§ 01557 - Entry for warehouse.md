@@ -20,7 +20,7 @@ Merchandise entered under bond, under any provision of law, may, upon payment of
 
 #### (d) Withdrawal before payment
 
-Merchandise may be withdrawn for consumption without the payment of the duty thereon if the importer of record or transferee is permitted to pay duty at a later time pursuant to regulations prescribed by the Secretary under section 1505 of this title.
+Merchandise may be withdrawn for consumption without the payment of the duty thereon if the importer of record or transferee is permittedto pay duty at a later time pursuant to regulations prescribed by the Secretary under section 1505 of this title.
 
 (June 17, 1930, ch. 497, title IV, §557, 46 Stat. 744; June 25, 1938, ch. 679, §§2, 22(a), 23(a), 52 Stat. 1077, 1087, 1088; Aug. 8, 1953, ch. 397, §21(a), 67 Stat. 519; June 30, 1955, ch. 258, §2(a) (4), 69 Stat. 242; Pub. L. 91–271, title III, §301(t), June 2, 1970, 84 Stat. 290; Pub. L. 91–685, §1, Jan. 12, 1971, 84 Stat. 2069; Pub. L. 95–410, title I, §108(a), (b)(1), Oct. 3, 1978, 92 Stat. 892; Pub. L. 97–446, title II, §201(f), Jan. 12, 1983, 96 Stat. 2350; Pub. L. 103–182, title VI, §665, Dec. 8, 1993, 107 Stat. 2215; Pub. L. 106–36, title II, §2409, June 25, 1999, 113 Stat. 171.)
 

@@ -14,7 +14,3 @@ Minor changes were made in phraseology.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $250”.
 
-#### Cross References
-
-Survey of public lands, see section 751 et seq. of Title 43, Public Lands.
-

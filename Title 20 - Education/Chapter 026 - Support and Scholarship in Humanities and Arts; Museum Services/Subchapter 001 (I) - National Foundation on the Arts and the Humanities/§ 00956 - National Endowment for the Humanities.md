@@ -100,7 +100,7 @@ The total amount of any grant under subsection (c)(3) of this section to any gro
 
 &emsp;(G) establishes procedures to assure public access to information relating to such activities;
 
-&emsp;(H) provides that such grant recipient will make reports to the Chairperson, in such form,at such times, and containing such information, as the Chairperson may require, including a description of the progress made toward achieving the goals of the plan;
+&emsp;(H) provides that such grant recipient will make reports to the Chairperson, in such form, at such times, and containing such information, as the Chairperson may require, including a description of the progress made toward achieving the goals of the plan;
 
 &emsp;(I) provides—
 
@@ -254,7 +254,7 @@ Subsecs. (<i>l</i>), (m). Pub. L. 101–512, §318 \[title I, §107(h)\], added 
 
 1985—Subsec. (b). Pub. L. 99–194, §107(1), (5), substituted “chairperson” for “chairman” in par. (1), and in par. (2), substituted “Chairperson” for “Chairman” and “the Chairperson's” for “his” wherever appearing.
 
-Subsec. (c). Pub. L. 99–194, §107(2), (5), substituted “Chairperson” for “Chairman” wherever appearing, substituted “workshops” for “workships” in cl. (3), added cls. (4) and (5) and redesignated existing cls. (4) to (7) as (6) to (9), respectively, substituted “clause (8)” for “clause (6)” in second sentence, and inserted at end “In selecting individuals and groups of exceptional talent as recipients of financial assistance to be providedunder this subsection, the Chairperson shall give particular regard to scholars, and educational and cultural institutions, that have traditionally been underrepresented.”
+Subsec. (c). Pub. L. 99–194, §107(2), (5), substituted “Chairperson” for “Chairman” wherever appearing, substituted “workshops” for “workships” in cl. (3), added cls. (4) and (5) and redesignated existing cls. (4) to (7) as (6) to (9), respectively, substituted “clause (8)” for “clause (6)” in second sentence, and inserted at end “In selecting individuals and groups of exceptional talent as recipients of financial assistance to be provided under this subsection, the Chairperson shall give particular regard to scholars, and educational and cultural institutions, that have traditionally been underrepresented.”
 
 Subsec. (d). Pub. L. 99–194, §107(5), substituted “Chairperson” for “Chairman”.
 
@@ -274,7 +274,7 @@ Subsec. (f)(3). Pub. L. 96–496, §104(a)(2), substituted provisions requiring 
 
 Subsec. (f)(4). Pub. L. 96–496, §104(a)(3), in provisions preceding subpar. (A), substituted “each State and each grant recipient” for “each grant recipient” and “such States and grant recipients” for “such grant recipients”, in subpar. (A), substituted “34 per centum of the amount of such excess for such” for “the amount of such excess which is no greater than 25 per centum of the sums available to carry out this subsection for any” and inserted “States and regional groups and”, in subpar. (B), substituted “44 per centum of the amount of such excess for such fiscal year” for “the amount of such excess, if any, which remains after reserving in full for the Chairman the amount required under subparagraph (A)” and “States and grant recipients” for “grant recipients” and struck out “but in no event shall any grant recipient be allotted less than $200,000” after “Chairman” and added subpar. (C).
 
-Subsec. (f)(5)(A). Pub. L. 96–496, §104(a)(4)(A), substituted “The amount of each allotment to a State for any fiscal year under this subsection shall be available to each State or grant recipient, which has a plan or application approved by the Chairman in effect on the first day of such fiscal year, to pay not more than 50 per centum of the total cost of any project or production described in paragraph (1). The amount of any” for “Whenever the provisions of paragraph (3)(B) of this subsection apply in any State, that part of any”.
+Subsec. (f)(5)(A). Pub. L. 96–496, §104(a)(4)(A), substituted “The amount of each allotment to a State for any fiscal year under this subsection shall be available to each State or grant recipient, which has a plan orapplication approved by the Chairman in effect on the first day of such fiscal year, to pay not more than 50 per centum of the total cost of any project or production described in paragraph (1). The amount of any” for “Whenever the provisions of paragraph (3)(B) of this subsection apply in any State, that part of any”.
 
 Subsec. (f)(5)(B). Pub. L. 96–496, §104(a)(4)(B), inserted “State agency or”.
 
@@ -324,9 +324,9 @@ Section 104(b) of Pub. L. 94–462 provided that: “The amendment made by subse
 
 Amendment by section 2(a)(6) of Pub. L. 93–133 effective on and after July 1, 1973, see section 2(b) of Pub. L. 93–133, set out as a note under section 951 of this title.
 
-#### Cross References
+#### Termination of Reporting Requirements
 
-Compensation of Chairman of the National Endowment for the Humanities, see section 5314 of Title 5, Government Organization and Employees.
+For termination, effective May 15, 2000, of provisions in subsec. (k) of this section relating to quadrennially submitting the state of the humanities report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 183 of House Document No. 103–7.
 
 #### Section Referred to in Other Sections
 

@@ -30,11 +30,7 @@ The words “That the provisions of existing law relating to the award of medals
 
 1963—Pub. L. 88–77 enlarged the authority to award the medal of honor, which was limited to those cases in which persons distinguished themselves in action involving actual conflict with an enemy, to permit its award for distinguished service while engaged in an action against an enemy of the United States, while engaged in military operations involving conflict with an opposing foreign force, or while serving with friendly foreign forces engaged in an armed conflict against an opposing armed force in which the United States is not a belligerent party.
 
-#### Cross References
-
-Award of Medal of Honor to members of Army and Navy, see sections 3741 and 6241 of this title.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in section 8748 of this title; title 18 section 704.
+This section is referred to in sections 1074h, 8748 of this title; title 18 section 704.
 

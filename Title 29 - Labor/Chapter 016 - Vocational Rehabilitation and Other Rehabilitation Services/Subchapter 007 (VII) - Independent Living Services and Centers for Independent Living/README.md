@@ -6,7 +6,7 @@ Title VII of the Rehabilitation Act of 1973, comprising this subchapter, was ori
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 705, 718, 728, 764 of this title.
+This subchapter is referred to in sections 705, 718, 728, 764 of this title; title 42 section 1320b–20.
 
 
 ---

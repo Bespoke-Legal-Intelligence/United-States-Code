@@ -26,13 +26,5 @@ Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub.
 
 #### Savings Provision
 
-Amendment by section 314 of Pub. L. 95–598 not to affect the application of chapter 9 (§151 et seq.), chapter 96 (§1961 et seq.), or section 2516, 3057, or 3284 of this title to any act of any person (1) committed before Oct. 1, 1979, or (2) committed after Oct. 1, 1979, in connection with a case commenced before such date, see section 403(d) of Pub. L. 95–598, set out as a note preceding section 101 of Title 11, Bankruptcy.
-
-#### Cross References
-
-Bankruptcy investigations, see section 3057 of this title.
-
-Five year limitation on offenses relating to bankruptcy, see section 3282 of this title.
-
-Offenses relating to bankruptcy, see section 151 et seq. of this title.
+Amendment by section 314 of Pub. L. 95–598 not to affect the application of chapter 9 (§151 et seq.), chapter96 (§1961 et seq.), or section 2516, 3057, or 3284 of this title to any act of any person (1) committed before Oct. 1, 1979, or (2) committed after Oct. 1, 1979, in connection with a case commenced before such date, see section 403(d) of Pub. L. 95–598, set out as a note preceding section 101 of Title 11, Bankruptcy.
 

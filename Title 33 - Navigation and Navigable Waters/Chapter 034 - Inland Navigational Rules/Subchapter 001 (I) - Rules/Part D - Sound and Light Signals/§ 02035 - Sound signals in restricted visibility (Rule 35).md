@@ -16,7 +16,7 @@ A vessel not under command; a vessel restricted in her ability to maneuver, whet
 
 #### (d) Vessels towed
 
-A vessel towed or if more than one vessel is towed the last vessel of the tow, if manned, shall at intervals of not more than 2 minutes sound four blasts in succession; namely, one prolonged followed by three short blasts. When practicable, this signal shall be made immediately after the signal made by the towing vessel.
+A vessel towed or if more than one vessel is towed the last vessel of the tow, if manned, shall at intervals of not more than 2 minutes sound four blasts in succession; namely, one prolongedfollowed by three short blasts. When practicable, this signal shall be made immediately after the signal made by the towing vessel.
 
 #### (e) Pushing and pushed vessels connected in composite unit
 

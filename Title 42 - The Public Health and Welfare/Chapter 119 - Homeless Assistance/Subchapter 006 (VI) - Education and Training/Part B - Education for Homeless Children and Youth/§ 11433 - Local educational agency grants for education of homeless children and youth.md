@@ -88,7 +88,7 @@ A local educational agency may use funds awarded under this section for activiti
 
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(2), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
-This chapter, referred to in subsec. (d)(3), was in the original “this Act”, meaning Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended, known as the Stewart B. McKinney Homeless Assistance Act. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of this title and Tables.
+This chapter, referred to in subsec. (d)(3), was in the original “this Act”, meaning Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended, known as the McKinney-Vento Homeless Assistance Act. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of this title and Tables.
 
 The Runaway and Homeless Youth Act, referred to in subsec. (d)(10), is title III of Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1129, which is classified generally to subchapter III (§5701 et seq.) of chapter 72 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5601 of this title and Tables.
 

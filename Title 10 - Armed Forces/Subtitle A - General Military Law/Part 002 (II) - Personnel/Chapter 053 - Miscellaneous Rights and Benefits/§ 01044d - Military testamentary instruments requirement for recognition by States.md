@@ -1,0 +1,76 @@
+### §1044d. Military testamentary instruments: requirement for recognition by States
+
+(a)
+
+Testamentary Instruments To Be Given Legal Effect.—A military testamentary instrument—
+
+&emsp;(1) is exempt from any requirement of form, formality, or recording before probate that is provided for testamentary instruments under the laws of a State; and
+
+&emsp;(2) has the same legal effect as a testamentary instrument prepared and executed in accordance with the laws of the State in which it is presented for probate.
+
+(b)
+
+Military Testamentary Instruments.—For purposes of this section, a military testamentary instrument is an instrument that is prepared with testamentary intent in accordance with regulations prescribed under this section and that—
+
+&emsp;(1) is executed in accordance with subsection (c) by (or on behalf of) a person, as a testator, who is eligible for military legal assistance;
+
+&emsp;(2) makes a disposition of property of the testator; and
+
+&emsp;(3) takes effect upon the death of the testator.
+
+(c)
+
+Requirements for Execution of Military Testamentary Instruments.—An instrument is valid as a military testamentary instrument only if—
+
+&emsp;(1) the instrument is executed by the testator (or, if the testator is unable to execute the instrument personally, the instrument is executed in the presence of, by the direction of, and on behalf of the testator);
+
+&emsp;(2) the instrument is executed in the presence of a military legal assistance counsel acting as presiding attorney;
+
+&emsp;(3) the instrument is executed in the presence of at least two disinterested witnesses (in addition to the presiding attorney), each of whom attests to witnessing the testator's execution of the instrument by signing it; and
+
+&emsp;(4) the instrument is executed in accordance with such additional requirements as may be provided in regulations prescribed under this section.
+
+(d)
+
+Self-Proving Military Testamentary Instruments.—(1) If the document setting forth a military testamentary instrument meets the requirements of paragraph (2), then the signature of a person on the document as the testator, an attesting witness, a notary, or the presiding attorney, together with a written representation of the person's status as such and the person's military grade (if any) or other title, is prima facie evidence of the following:
+
+&emsp;(A) That the signature is genuine.
+
+&emsp;(B) That the signatory had the represented status and title at the time of the execution of the will.
+
+&emsp;(C) That the signature was executed in compliance with the procedures required under the regulations prescribed under subsection (f).
+
+(2) A document setting forth a military testamentary instrument meets the requirements of this paragraph if it includes (or has attached to it), in a form and content required under the regulations prescribed under subsection (f), each of the following:
+
+&emsp;(A) A certificate, executed by the testator, that includes the testator's acknowledgment of the testamentary instrument.
+
+&emsp;(B) An affidavit, executed by each witness signing the testamentary instrument, that attests to the circumstances under which the testamentary instrument was executed.
+
+&emsp;(C) A notarization, including a certificate of any administration of an oath required under the regulations, that is signed by the notary or other official administering the oath.
+
+(e)
+
+Statement To Be Included.—(1) Under regulations prescribed under this section, each military testamentary instrument shall contain a statement that sets forth the provisions of subsection (a).
+
+(2) Paragraph (1) shall not be construed to make inapplicable the provisions of subsection (a) to a testamentary instrument that does not include a statement described in that paragraph.
+
+(f)
+
+Regulations.—Regulations for the purposes of this section shall be prescribed jointly by the Secretary of Defense and by the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Department of the Navy.
+
+(g)
+
+Definitions.—In this section:
+
+&emsp;(1) The term “person eligible for military legal assistance” means a person who is eligible for legal assistance under section 1044 of this title.
+
+&emsp;(2) The term “military legal assistance counsel” means—
+
+&emsp;&emsp;(A) a judge advocate (as defined in section 801(13) of this title); or
+
+&emsp;&emsp;(B) a civilian attorney serving as a legal assistance officer under the provisions of section 1044 of this title.
+
+&emsp;(3) The term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, and each possession of the United States.
+
+(Added Pub. L. 106–398, §1 \[\[div. A\], title V, §551(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–123.)
+

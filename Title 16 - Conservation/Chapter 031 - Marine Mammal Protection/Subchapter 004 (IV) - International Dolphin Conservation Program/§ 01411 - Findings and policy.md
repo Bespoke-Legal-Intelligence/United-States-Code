@@ -16,7 +16,7 @@ The Congress finds the following:
 
 It is the policy of the United States to—
 
-&emsp;(1) eliminate the marine mammal mortality resulting from the intentional encirclement ofdolphins and other marine mammals in tuna purse seine fisheries;
+&emsp;(1) eliminate the marine mammal mortality resulting from the intentional encirclement of dolphins and other marine mammals in tuna purse seine fisheries;
 
 &emsp;(2) support the International Dolphin Conservation Program and efforts within the Program to reduce, with the goal of eliminating, the mortality referred to in paragraph (1);
 

@@ -44,9 +44,9 @@ This amendment clarifies section 2071 of title 28, U.S.C., by giving express rec
 
 #### Amendments
 
-1988—Pub. L. 100–702 designated existing provisions as subsec. (a), substituted “under section 2072 of this title” for “by the Supreme Court”, and added subsecs. (b) to (f).
+<b>1988</b>—Pub. L. 100–702 designated existing provisions as subsec. (a), substituted “under section 2072 of this title” for “by the Supreme Court”, and added subsecs. (b) to (f).
 
-1949—Act May 24, 1949, expressed recognition to the Supreme Court's power to prescribe its own rules and give a better description of its procedural rules.
+<b>1949</b>—Act May 24, 1949, expressed recognition to the Supreme Court's power to prescribe its own rules and give a better description of its procedural rules.
 
 #### Effective Date of 1988 Amendment
 
@@ -71,46 +71,6 @@ Section 405 of title IV of Pub. L. 100–702 provided that: “The amendments ma
 #### Admiralty Rules
 
 The Rules of Practice in Admiralty and Maritime Cases, promulgated by the Supreme Court on Dec. 20, 1920, effective Mar. 7, 1921, as revised, amended, and supplemented, were rescinded, effective July 1, 1966, in accordance with the general unification of civil and admiralty procedure which became effective July 1, 1966. Provision for certain distinctly maritime remedies were preserved however in the Supplemental Rules for Certain Admiralty and Maritime Claims, rules A to F, Federal Rules of Civil Procedure, Appendix to this title.
-
-#### Federal Rules of Civil Procedure
-
-Rules by district courts, authority to make, see rule 83, Appendix to this title.
-
-#### Federal Rules of Criminal Procedure
-
-Court of Appeals, rules, see rule 57, Title 18, Appendix, Crimes and Criminal Procedure.
-
-District court rules, see rule 57.
-
-#### Cross References
-
-Court of Appeals—
-
-&emsp;&emsp;Designation and assignment of District Court judge to sit on, see section 292 of this title.
-
-&emsp;&emsp;Designation of places for terms or sessions of, see section 48 of this title.
-
-&emsp;&emsp;Participation by members of bar at judicial conference of circuit, see section 333 of this title.
-
-Court of International Trade—
-
-&emsp;&emsp;Assignment or reassignment of cases, see section 253 of this title.
-
-&emsp;&emsp;Notice of time and place of hearing before judge or division, see section 2632 of this title.
-
-District Court—
-
-&emsp;&emsp;Advance payment of fees, see section 1914 of this title.
-
-&emsp;&emsp;Division of business, see section 137 of this title.
-
-&emsp;&emsp;Exercise of judicial powers, see section 132 of this title.
-
-&emsp;&emsp;Regular terms, see section 138 of this title.
-
-&emsp;&emsp;Special terms, see section 141 of this title.
-
-Tax Court rules, see section 7453 of Title 26, Internal Revenue Code.
 
 #### Section Referred to in Other Sections
 

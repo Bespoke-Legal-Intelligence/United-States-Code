@@ -38,7 +38,7 @@ Designation of Intelligence Officer.—At the request of the Secretary, the Dire
 
 (e)
 
-Written Working Agreements.—The heads of units in the intelligence community, the Secretary, and the Administrator shall review and, as appropriate, revise written working agreements between the intelligence community and the Administrator.
+Written Working Agreements.—The heads of units in the intelligence community, the Secretary, and the Administrator shall review and, as appropriate, revise written workingagreements between the intelligence community and the Administrator.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1212.)
 
@@ -91,4 +91,8 @@ In subsection (b), the words “the heads of other units in the intelligence com
 In subsections (c) and (e), the words “heads of units in the intelligence community” are substituted for “intelligence community” for clarity and consistency in the revised title and with other titles of the Code.
 
 In subsection (e), the words “memorandums of understanding” are omitted as being included in “written working agreements”.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 106 of this title.
 

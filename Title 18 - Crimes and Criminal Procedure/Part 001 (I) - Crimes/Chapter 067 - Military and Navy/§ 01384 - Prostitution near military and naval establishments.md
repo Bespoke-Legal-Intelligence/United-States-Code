@@ -14,7 +14,7 @@ This section shall not be construed as conferring on the personnel of the Depart
 
 Based on title 18, U.S.C., 1940 ed., §518a (July 11, 1941, ch. 287, 55 Stat. 583; May 15, 1945, ch. 126, 59 Stat. 168; May 15, 1946, ch. 258, 60 Stat. 182).
 
-The word “whoever” was substituted for the words “person, corporation, partnership, or association” in conformity with section 1 of title 1, U.S.C., 1940 ed., General Provisions, as amended and without change of substance.
+The word “whoever” was substituted for the words “person, corporation, partnership, or association” inconformity with section 1 of title 1, U.S.C., 1940 ed., General Provisions, as amended and without change of substance.
 
 The provisions with reference to punishment of persons subject to military or naval law as provided in the Articles of War and the Articles for the Government of the Navy were omitted, as was the exception of such persons from the punishment provisions of this section. The Articles of War and Articles for the Government of the Navy are sufficiently complete in themselves to authorize the adequate punishment of military or naval personnel for violations of general criminal statutes as well as for disobedience of orders. See Articles of War, Article 96, section 1568 of title 10, U.S.C., 1940 ed., Army, and Articles for the Government of the Navy, Articles 1, 4, 22, 23, section 1200, of title 34, U.S.C., 1940 ed., Navy.
 

@@ -18,11 +18,9 @@
 
 &emsp;&emsp;(F) such sums as may be necessary shall be available for grants under paragraphs (2), (4), and (6) of subsection (b) of this section;
 
-&emsp;&emsp;(G) $2,000,000 shall be available in fiscal year 1993 for a grant to the City of Bridgeport, Connecticut, subject to the approval of sufficient amounts in an appropriation Act and to binding commitments made by the City of Bridgeport and the State of Connecticut that the city and State, respectively, will supplement such amount with $2,000,000 of additional funds;
+&emsp;&emsp;(G) $2,000,000 shall be available in fiscal year 1993 for a grant to the City of Bridgeport, Connecticut, subject to the approval of sufficient amounts in an appropriation Act and to binding commitments made by the City of Bridgeport and the State of Connecticut that the city and State, respectively, will supplement such amount with $2,000,000 of additional funds; and
 
-&emsp;&emsp;(H) $15,000,000 shall be available for grants under the Removal of Regulatory Barriers to Affordable Housing Act of 1992; and
-
-&emsp;&emsp;(I) $7,500,000 shall be available to carry out the Community Outreach Partnership Act of 1992.
+&emsp;&emsp;(H) $7,500,000 shall be available to carry out the Community Outreach Partnership Act of 1992.
 
 #### (2) Treatment of grants
 
@@ -74,13 +72,11 @@ Amounts set aside for use under subsection (b) of this section in any fiscal yea
 
 Any grant made under this section shall be made pursuant to criteria for selection of recipients of such grants that the Secretary shall by regulation establish and which the Secretary shall publish together with any notification of availability of amounts under this section.
 
-(Pub. L. 93–383, title I, §107, Aug. 22, 1974, 88 Stat. 647; Pub. L. 94–375, §15(c), Aug. 3, 1976, 90 Stat. 1076; Pub. L. 95–128, title I, §107, Oct. 12, 1977, 91 Stat. 1123; Pub. L. 95–557, title I, §103(f), Oct. 31, 1978, 92 Stat. 2084; Pub. L. 96–399, title I, §§107, 117(b), Oct. 8, 1980, 94 Stat. 1618, 1624; Pub. L. 97–35, title III, §305, Aug. 13, 1981, 95 Stat. 391; Pub. L. 98–181, title I, §107, title III, §302(b), Nov. 30, 1983, 97 Stat. 1167, 1206; Pub. L. 100–242, title V, §§501(b), 517(b)(2), 522(b), Feb. 5, 1988, 101 Stat. 1922, 1936, 1939; Pub. L. 101–235, title I, §105(a)–(c), (e), Dec. 15, 1989, 103 Stat. 1998, 1999; Pub. L. 101–625, title IX, §§901(c), 913(c), Nov. 28, 1990, 104 Stat. 4385, 4393; Pub. L. 102–550, title VIII, §§801(c)(1), (2), (4), 808, Oct. 28, 1992, 106 Stat. 3843–3845, 3850.)
+(Pub. L. 93–383, title I, §107, Aug. 22, 1974, 88 Stat. 647; Pub. L. 94–375, §15(c), Aug. 3, 1976, 90 Stat. 1076; Pub. L. 95–128, title I, §107, Oct. 12, 1977, 91 Stat. 1123; Pub. L. 95–557, title I, §103(f), Oct. 31, 1978, 92 Stat. 2084; Pub. L. 96–399, title I, §§107, 117(b), Oct. 8, 1980, 94 Stat. 1618, 1624; Pub. L. 97–35, title III, §305, Aug. 13, 1981, 95 Stat. 391; Pub. L. 98–181, title I, §107, title III, §302(b), Nov. 30, 1983, 97 Stat. 1167, 1206; Pub. L. 100–242, title V, §§501(b), 517(b)(2), 522(b), Feb. 5, 1988, 101 Stat. 1922, 1936, 1939; Pub. L. 101–235, title I, §105(a)–(c), (e), Dec. 15, 1989, 103 Stat. 1998, 1999; Pub. L. 101–625, title IX, §§901(c), 913(c), Nov. 28, 1990, 104 Stat. 4385, 4393; Pub. L. 102–550, title VIII, §§801(c)(1), (2), (4), 808, Oct. 28, 1992, 106 Stat. 3843–3845, 3850; Pub. L. 106–569, title I, §102(f), Dec. 27, 2000, 114 Stat. 2947.)
 
 #### References in Text
 
-The Removal of Regulatory Barriers to Affordable Housing Act of 1992, referred to in subsec. (a)(1)(H), is title XII of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3938, which enacted sections 12705a to 12705d of this title, amended sections 5306 and 12705 of this title, and enacted provisions set out as notes under section 12705a of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12705a of this title and Tables.
-
-The Community Outreach Partnership Act of 1992, referred to in subsec. (a)(1)(I), is section 851 of Pub. L. 102–550, which is set out below.
+The Community Outreach Partnership Act of 1992, referred to in subsec. (a)(1)(H), is section 851 of Pub. L. 102–550, which is set out below.
 
 Section 1706e of title 12, referred to in subsec. (b)(4), was repealed by Pub. L. 101–625, title II, §289(b), Nov. 28, 1990, 104 Stat. 4128.
 
@@ -93,6 +89,10 @@ The Fair Housing Act, referred to in subsec. (e)(1), is title VIII of Pub. L. 90
 Public Law 90–284, referred to in subsec. (e)(2), is Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 73, as amended, known as the Civil Rights Act of 1968. Title II of Pub. L. 90–284 is classified generally to subchapter I (§1301 et seq.) of chapter 15 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
 
 #### Amendments
+
+2000—Subsec. (a)(1)(G). Pub. L. 106–569, §102(f)(1), inserted “and” after semicolon at end.
+
+Subsec. (a)(1)(H), (I). Pub. L. 106–569, §102(f)(2), (3), redesignated subpar. (I) as (H) and struck out former subpar. (H) which read as follows: “$15,000,000 shall be available for grants under the Removal of Regulatory Barriers to Affordable Housing Act of 1992; and”.
 
 1992—Subsec. (a). Pub. L. 102–550, §801(c)(1), added heading and subsec. (a) and struck out former subsec. (a) which read as follows: “Of the total amount provided in appropriation Acts under section 5303 of this title for fiscal years 1988 and 1989, $60,000,000 may be set aside in each year for grants under subsection (b) of this section. Grants under this section are in addition to any other grants which may be made under this chapter to the same entities for the same purposes.”
 
@@ -212,7 +212,7 @@ Section 851 of Pub. L. 102–550 directed Secretary to carry out a 5-year demons
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5306, 5308, 12705c of this title; title 26 section 42.
+This section is referred to in sections 5306, 5308 of this title; title 26 section 42.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

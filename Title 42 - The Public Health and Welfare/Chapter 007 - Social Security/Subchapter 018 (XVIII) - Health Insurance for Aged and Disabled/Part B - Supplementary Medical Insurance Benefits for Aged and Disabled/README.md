@@ -2,7 +2,7 @@ Part B—Supplementary Medical Insurance Benefits for Aged and Disabled
 
 #### Part Referred to in Other Sections
 
-This part is referred to in sections 254n, 254t, 300k, 300gg, 300gg–41, 426–1, 1320a–3, 1320a–3a, 1320a–7a, 1320a–7b, 1320d, 1395a, 1395b–1, 1395b–2, 1395b–6, 1395d, 1395i–2, 1395w–21, 1395w–22, 1395w–23, 1395w–24, 1395w–27, 1395w–28, 1395x, 1395y, 1395cc, 1395ff, 1395<i>ll</i>, 1395mm, 1395nn, 1395pp, 1395rr, 1395ss, 1395uu, 1395xx, 1395yy, 1395eee, 1395ggg, 1396a, 1396b, 1396d, 1396n, 1396u–4 of this title; title 2 section 906; title 5 sections 8904, 8910; title 10 section 1086; title 25 sections 1616m, 1621k; title 26 sections 213, 6103, 9801; title 29 section 1181; title 31 section 3806.
+This part is referred to in sections 254n, 254t, 300k, 300gg, 300gg–41, 426–1, 1320a–3, 1320a–3a, 1320a–7a, 1320a–7b, 1320d, 1395a, 1395b–1, 1395b–2, 1395b–6, 1395d, 1395i–2, 1395w–21, 1395w–22, 1395w–23, 1395w–24, 1395w–27, 1395w–28, 1395x, 1395y, 1395cc, 1395cc–1, 1395cc–2, 1395ff, 1395<i>ll</i>, 1395mm, 1395nn, 1395pp, 1395qq, 1395rr, 1395ss, 1395uu, 1395xx, 1395yy, 1395eee, 1395ggg, 1396a, 1396b, 1396d, 1396n, 1396u–4 of this title; title 2 section 906; title 5 sections 8904, 8910; title 10 section 1086; title 25 sections 1616m, 1621k; title 26 sections 213, 6103, 9801; title 29 section 1181; title 31 section 3806.
 
 
 ---
@@ -10,7 +10,7 @@ This part is referred to in sections 254n, 254t, 300k, 300gg, 300gg–41, 426–
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 01395j - Establishment of supplementary medical insurance program for aged and disabled](%C2%A7%2001395j%20-%20Establishment%20of%20supplementary%20medical%20insurance%20program%20for%20aged%20and%20disabled.md)
-- [&sect; 01395k - Scope of benefits; extension of coverage of immunosuppressive drugs; definitions](%C2%A7%2001395k%20-%20Scope%20of%20benefits%3B%20extension%20of%20coverage%20of%20immunosuppressive%20drugs%3B%20definitions.md)
+- [&sect; 01395k - Scope of benefits; definitions](%C2%A7%2001395k%20-%20Scope%20of%20benefits%3B%20definitions.md)
 - [&sect; 01395l - Payment of benefits](%C2%A7%2001395l%20-%20Payment%20of%20benefits.md)
 - [&sect; 01395m - Special payment rules for particular items and services](%C2%A7%2001395m%20-%20Special%20payment%20rules%20for%20particular%20items%20and%20services.md)
 - [&sect; 01395n - Procedure for payment of claims of providers of services](%C2%A7%2001395n%20-%20Procedure%20for%20payment%20of%20claims%20of%20providers%20of%20services.md)

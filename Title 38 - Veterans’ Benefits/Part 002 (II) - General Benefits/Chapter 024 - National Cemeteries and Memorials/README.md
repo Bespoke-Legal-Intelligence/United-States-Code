@@ -31,9 +31,9 @@
 
 1978—Pub. L. 95–476, title II, §202(b)(2), Oct. 18, 1978, 92 Stat. 1505, added item 1008.
 
-#### Section Referred to in Other Sections
+#### Chapter Referred to in Other Sections
 
-This section is referred to in title 36 section 2105; title 46 section 11201.
+This chapter is referred to in section 107 of this title; title 36 section 2105; title 46 section 11201.
 
 
 ---

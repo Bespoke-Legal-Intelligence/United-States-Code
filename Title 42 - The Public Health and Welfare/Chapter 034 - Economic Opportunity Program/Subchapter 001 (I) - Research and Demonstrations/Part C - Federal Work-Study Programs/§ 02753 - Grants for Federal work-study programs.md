@@ -20,13 +20,13 @@ An agreement entered into pursuant to this section shall—
 
 &emsp;(2) provide that funds granted an institution of higher education, pursuant to this section, may be used only to make payments to students participating in work-study programs, except that—
 
-&emsp;&emsp;(A) for fiscal year 1999, an institution shall use at least 5 percent of the total amount of funds granted to such institution under this section in any fiscal year to compensate students employed in community service (including a reasonable amount of time spent in travel or training directly related to such community service), except that the Secretary may waive this subparagraph if the Secretary determines that enforcing it would cause hardship for students at an institution;
+&emsp;&emsp;(A) for fiscal year 1999, an institution shall use at least 5 percent of the total amount of funds granted to such institution under thissection in any fiscal year to compensate students employed in community service (including a reasonable amount of time spent in travel or training directly related to such community service), except that the Secretary may waive this subparagraph if the Secretary determines that enforcing it would cause hardship for students at an institution;
 
 &emsp;&emsp;(B) for fiscal year 2000 and succeeding fiscal years, an institution shall use at least 7 percent of the total amount of funds granted to such institution under this section for such fiscal year to compensate students employed in community service, and shall ensure that not less than 1 tutoring or family literacy project (as described in subsection (d) of this section) is included in meeting the requirement of this subparagraph, except that the Secretary may waive this subparagraph if the Secretary determines that enforcing this subparagraph would cause hardship for students at the institution; and
 
 &emsp;&emsp;(C) an institution may use a portion of the sums granted to it to meet administrative expenses in accordance with section 1096 of title 20, may use a portion of the sums granted to it to meet the cost of a job location and development program in accordance with section 2756 of this title, and may transfer funds in accordance with the provisions of section 1095 of title 20;
 
-&emsp;(3) provide that in the selection of students for employment under such work-study program, only students who demonstrate financial need in accordance with part F \[20 U.S.C. 1087kk et seq.\] and meet the requirements ofsection 1091 of title 20 will be assisted, except that if the institution's grant under this part is directly or indirectly based in part on the financial need demonstrated by students who are (A) attending the institution on less than a full-time basis, or (B) independent students, a reasonable portion of the grant shall be made available to such students;
+&emsp;(3) provide that in the selection of students for employment under such work-study program, only students who demonstrate financial need in accordance with part F \[20 U.S.C. 1087kk et seq.\] and meet the requirements of section 1091 of title 20 will be assisted, except that if the institution's grant under this part is directly or indirectly based in part on the financial need demonstrated by students who are (A) attending the institution on less than a full-time basis, or (B) independent students, a reasonable portion of the grant shall be made available to such students;
 
 &emsp;(4) provide that for a student employed in a work-study program under this part, at the time income derived from any need-based employment is in excess of the determination of the amount of such student's need by more than $300, continued employment shall not be subsidized with funds appropriated under this part;
 
@@ -70,7 +70,7 @@ An agreement entered into pursuant to this section shall—
 
 As part of its agreement agreement <sup>2</sup> described in subsection (b) of this section, an institution of higher education may, at its option, enter into an additional agreement with the Secretary which shall—
 
-&emsp;(1) provide for the operation by the institution of a program of part-time employment of its students in work for a private for-profit organization under an arrangement between the institution and such organization that complies with the requirements of subparagraphs (A) through (D) of subsection (b)(1) of this section and subsection (b)(3) of this section;
+&emsp;(1) provide for the operation by the institution of a program of part-time employment ofits students in work for a private for-profit organization under an arrangement between the institution and such organization that complies with the requirements of subparagraphs (A) through (D) of subsection (b)(1) of this section and subsection (b)(3) of this section;
 
 &emsp;(2) provide that the institution will use not more than 25 percent of the funds made available to such institution under this part for any fiscal year for the operation of the program described in paragraph (1);
 
@@ -134,7 +134,7 @@ Subsec. (b)(3). Pub. L. 105–244, §443(d), amended par. (3) generally. Prior t
 
 > then at least 5 percent of the grant shall be made available to such less than full-time and independent students;”.
 
-Subsec. (b)(5). Pub. L. 105–244, §443(e), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “provide that the Federal share of the compensation of students employed in the work-study program in accordance with the agreement shall not exceed 75 percent for academic year 1993–1994 and succeeding academic years, except that the Federal share may exceed such amounts of compensation if the Secretary determines, pursuant to regulations promulgated by the Secretary establishing objective criteria for such determinations, that a Federal share in excess of such amounts is required in furtherance of the purpose of this part;”.
+Subsec. (b)(5). Pub. L. 105–244, §443(e), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “provide that the Federal share of the compensation of students employed in the work-study program in accordance with the agreement shall not exceed 75 percent for academic year 1993–1994 and succeeding academic years, except that the Federal share may exceedsuch amounts of compensation if the Secretary determines, pursuant to regulations promulgated by the Secretary establishing objective criteria for such determinations, that a Federal share in excess of such amounts is required in furtherance of the purpose of this part;”.
 
 Subsec. (b)(6). Pub. L. 105–244, §443(f), struck out “, and to make equivalent employment offered or arranged by the institution reasonably available (to the extent of available funds) to all students in the institution who desire such employment” after “in need thereof”.
 
@@ -206,7 +206,7 @@ Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Educ
 
 #### Effective Date of 1986 Amendment
 
-Section 403(b)(2), formerly section 403(b), of Pub. L. 99–498, as redesignated by Pub. L. 100–50, §22(c), June 3, 1987, 101 Stat. 361, provided that: “Sections 443(c), 446, and 447 of the Act \[sections 2753(c), 2756, and 2756a of this title\] as amended by this section shall apply to periods of enrollment beginning on or after July 1, 1987.”
+Section 403(b)(2), formerly section 403(b), of Pub. L. 99–498, as redesignated by Pub. L. 100–50, §22(c), June 3, 1987, 101 Stat. 361, provided that: “Sections 443(c), 446, and 447 of the Act \[sections 2753(c), 2756, and 2756a ofthis title\] as amended by this section shall apply to periods of enrollment beginning on or after July 1, 1987.”
 
 #### Effective Date
 

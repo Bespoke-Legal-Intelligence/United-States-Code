@@ -150,7 +150,7 @@ Jan. 3, 1975, Pub. L. 93–633, §103, 88 Stat. 2156; restated Nov. 16, 1990, Pu
 
 In this chapter, the words “or shipped” are omitted as being included in “transported”.
 
-In clause (1), before subclause (A), the text of 49 App.:1802(1), (3), and (13) is omitted because the complete names of the Administrator of the Environmental Protection Agency, Director of the Federal Emergency Management Agency, and Secretary of Transportation are used the first time the terms appear in a section. The words “traffic, commerce” are omitted as surplus.In subclause (B), the words “between a place in a State and a place outside of the State” are substituted for “described in clause (A)” for clarity.
+In clause (1), before subclause (A), the text of 49 App.:1802(1), (3), and (13) is omitted because the complete names of the Administrator of the Environmental Protection Agency, Director of the Federal Emergency Management Agency, and Secretary of Transportation are used the first time the terms appear in a section. The words “traffic, commerce” are omitted as surplus. In subclause (B), the words “between a place in a State and a place outside of the State” are substituted for “described in clause (A)” for clarity.
 
 In clauses (3)(C) and (10)(B), the words “at a minimum” are omitted as surplus.
 

@@ -194,7 +194,7 @@ Each Farm Credit Bank, on request of any production credit association, may assi
 
 #### Amendments
 
-1996—Subsec. (a)(5). Pub. L. 104–105 designated existing provisions as subpar. (A), inserted subpar. heading,substituted “Subject to subparagraph (B), the term” for “The term”, and added subpar. (B).
+1996—Subsec. (a)(5). Pub. L. 104–105 designated existing provisions as subpar. (A), inserted subpar. heading, substituted “Subject to subparagraph (B), the term” for “The term”, and added subpar. (B).
 
 1988—Subsec. (a). Pub. L. 100–399, §102(a), struck out “(other than in sections 2205 and 2206 of this title)” after “in this part”.
 

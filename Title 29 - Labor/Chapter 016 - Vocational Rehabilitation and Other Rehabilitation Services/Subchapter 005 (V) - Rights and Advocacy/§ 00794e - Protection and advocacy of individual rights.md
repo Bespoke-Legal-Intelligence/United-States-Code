@@ -4,13 +4,13 @@
 
 #### (1) Purpose
 
-&emsp;The purpose of this section is to support a system in each State to protect the legal and human rights of individuals with disabilities who—
+&emsp;The purpose of this section is to support a system in each State to protect the legal andhuman rights of individuals with disabilities who—
 
 &emsp;&emsp;(A) need services that are beyond the scope of services authorized to be provided by the client assistance program under section 732 of this title; and
 
-&emsp;&emsp;(B)(i) are ineligible for protection and advocacy programs under part C of the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6041 et seq.) because the individuals do not have a developmental disability, as defined in section 102 of such Act \[42 U.S.C. 6001\]; and
+&emsp;&emsp;(B)(i) are ineligible for protection and advocacy programs under subtitle C of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 \[42 U.S.C. 15041 et seq.\] because the individuals do not have a developmental disability, as defined in section 102 of such Act \[42 U.S.C. 15002\]; and
 
-&emsp;&emsp;(ii) are ineligible for services under the Protection and Advocacy for Mentally Ill Individuals Act of 1986 (42 U.S.C. 10801 et seq.) because the individuals are not individuals with mental illness, as defined in section 102 of such Act (42 U.S.C. 10802).
+&emsp;&emsp;(ii) are ineligible for services under the Protection and Advocacy for Mentally Ill Individuals Act of 1986 <sup>1</sup> (42 U.S.C. 10801 et seq.) because the individuals are not individuals with mental illness, as defined in section 102 of such Act (42 U.S.C. 10802).
 
 #### (2) Construction
 
@@ -18,7 +18,7 @@
 
 #### (b) Appropriations less than $5,500,000
 
-For any fiscal year in which the amount appropriated to carry out this section is less than$5,500,000, the Commissioner may make grants from such amount to eligible systems within States to plan for, develop outreach strategies for, and carry out protection and advocacy programs authorized under this section for individuals with disabilities who meet the requirements of subparagraphs (A) and (B) of subsection (a)(1) of this section.
+For any fiscal year in which the amount appropriated to carry out this section is less than $5,500,000, the Commissioner may make grants from such amount to eligible systems within States to plan for, develop outreach strategies for, and carry out protection and advocacy programs authorized under this section for individuals with disabilities who meet the requirements of subparagraphs (A) and (B) of subsection (a)(1) of this section.
 
 #### (c) Appropriations of $5,500,000 or more
 
@@ -62,7 +62,7 @@ For any fiscal year in which the amount appropriated to carry out this section i
 
 #### (d) Proportional reduction
 
-To provide minimum allotments to systems within States (as increased under subsection (c)(5) of this section) under subsection (c)(3)(B) of this section, or to provide minimum allotments to systems within States (as increased under subsection (c)(5) of this section) under subsection (c)(4)(B) of this section, the Commissioner shall proportionately reduce the allotments of the remaining systems within States under subsection (c)(3) of this section, with such adjustments as may be necessary to prevent the allotment of any such remaining system within a State from being reduced to less than the minimum allotment for a system within a State (as increased under subsection (c)(5) of this section) under subsection (c)(3)(B) of this section, or the minimum allotment for a State (as increased under subsection (c)(5) of this section) under subsection (c)(4)(B) of this section, as appropriate.
+To provide minimum allotments to systems within States (as increased under subsection (c)(5) of this section) under subsection (c)(3)(B) of this section, or to provide minimum allotments to systems within States (as increased under subsection (c)(5) of this section) under subsection (c)(4)(B) of this section, the Commissioner shall proportionately reduce the allotments of the remaining systems within States under subsection (c)(3) of this section, with such adjustments as may be necessary to prevent the allotment of any such remaining system within a State from being reduced to less than the minimum allotment for a system within a State (as increased under subsection (c)(5) of this section)under subsection (c)(3)(B) of this section, or the minimum allotment for a State (as increased under subsection (c)(5) of this section) under subsection (c)(4)(B) of this section, as appropriate.
 
 #### (e) Reallotment
 
@@ -74,7 +74,7 @@ In order to receive assistance under this section, an eligible system shall subm
 
 &emsp;(1) have in effect a system to protect and advocate the rights of individuals with disabilities;
 
-&emsp;(2) have the same general authorities, including access to records and program income, as are set forth in part C of the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6041 et seq.);
+&emsp;(2) have the same general authorities, including access to records and program income, as are set forth in subtitle C of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 \[42 U.S.C. 15041 et seq.\];
 
 &emsp;(3) have the authority to pursue legal, administrative, and other appropriate remedies or approaches to ensure the protection of, and advocacy for, the rights of such individuals within the State or the American Indian consortium who are individuals described in subsection (a)(1) of this section;
 
@@ -84,7 +84,7 @@ In order to receive assistance under this section, an eligible system shall subm
 
 &emsp;&emsp;(A) the objectives and priorities for the activities of the system for each year and the rationale for the establishment of such objectives and priorities; and
 
-&emsp;&emsp;(B) the coordination of programs provided through the system under this section with the advocacy programs of the client assistance program under section 732 of this title, the State long-term care ombudsman program established under the Older Americans Act of 1965 (42 U.S.C. 3001 et seq.), the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6000 et seq.), and the Protection and Advocacy for Mentally Ill Individuals Act of 1986 (42 U.S.C. 10801 et seq.);
+&emsp;&emsp;(B) the coordination of programs provided through the system under this section with the advocacy programs of the client assistance program under section 732 of this title, the State long-term care ombudsman program established under the Older Americans Act of 1965 (42 U.S.C. 3001 et seq.), the Developmental Disabilities Assistance and Bill of Rights Act of 2000 \[42 U.S.C. 15001 et seq.\], and the Protection and Advocacy for Mentally Ill Individuals Act of 1986 <sup>2</sup> (42 U.S.C. 10801 et seq.);
 
 &emsp;(6) establish a grievance procedure for clients or prospective clients of the system to ensure that individuals with disabilities are afforded equal opportunity to access the services of the system; and
 
@@ -126,25 +126,33 @@ As used in this section:
 
 #### (1) Eligible system
 
-&emsp;The term “eligible system” means a protection and advocacy system that is established under part C of the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6041 et seq.) and that meets the requirements of subsection (f) of this section.
+&emsp;The term “eligible system” means a protection and advocacy system that is established under subtitle C of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 \[42 U.S.C. 15041 et seq.\] and that meets the requirements of subsection (f) of this section.
 
 #### (2) American Indian consortium
 
-&emsp;The term “American Indian consortium” means a consortium established as described in section 142 of the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6042).
+&emsp;The term “American Indian consortium” means a consortium established as described in section 142 <sup>2</sup> of the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6042).
 
-(Pub. L. 93–112, title V, §509, as added Pub. L. 102–569, title V, §510(a), Oct. 29, 1992, 106 Stat. 4430; amended Pub. L. 103–73, title I, §112(c), Aug. 11, 1993, 107 Stat. 727; Pub. L. 105–12, §9(n), Apr. 30, 1997, 111 Stat. 28; Pub. L. 105–220, title IV, §408(c), Aug. 7, 1998, 112 Stat. 1206; Pub. L. 105–394, title IV, §402(c), Nov. 13, 1998, 112 Stat. 3662.)
+(Pub. L. 93–112, title V, §509, as added Pub. L. 102–569, title V, §510(a), Oct. 29, 1992, 106 Stat. 4430; amended Pub. L. 103–73, title I, §112(c), Aug. 11, 1993, 107 Stat. 727; Pub. L. 105–12, §9(n), Apr. 30, 1997, 111 Stat. 28; Pub. L. 105–220, title IV, §408(c), Aug. 7, 1998, 112 Stat. 1206; Pub. L. 105–394, title IV, §402(c), Nov. 13, 1998, 112 Stat. 3662; Pub. L. 106–402, title IV, §401(b)(3)(C), (D), Oct. 30, 2000, 114 Stat. 1738.)
 
 #### References in Text
 
-The Developmental Disabilities Assistance and Bill of Rights Act, referred to in subsecs. (a)(1)(B)(i), (f)(2),\(5)(B), and (m)(1), is title I of Pub. L. 88–164, as added by Pub. L. 98–527, §2, Oct. 19, 1984, 98 Stat. 2662, and amended, which is classified generally to chapter 75 (§6000 et seq.) of Title 42, The Public Health and Welfare. Part C of the Act is classified generally to subchapter III (§6041 et seq.) of chapter 75 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 6000 of Title 42 and Tables.
+The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsecs. (a)(1)(B)(i), (f)(2), (5)(B), and (m)(1), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677, which is classified principally to chapter 144 (§15001 et seq.) of Title 42, The Public Health and Welfare. Subtitle C of the Act probably means subtitle C of title I of the Act which is classified generally to part C (§15041 et seq.) of subchapter I of chapter 144 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of Title 42 and Tables.
 
-The Protection and Advocacy for Mentally Ill Individuals Act of 1986, referred to in subsecs. (a)(1)(B)(ii) and (f)(5)(B), is Pub. L. 99–319, May 23, 1986, 100 Stat. 478, as amended, which is classified generally to chapter 114 (§10801 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 10801 of Title 42 and Tables.
+The Protection and Advocacy for Mentally Ill Individuals Act of 1986, referred to in subsecs. (a)(1)(B)(ii) and (f)(5)(B), was Pub. L. 99–319, May 23, 1986, 100 Stat. 478, as amended. Pub. L. 99–319 was renamed the Protection and Advocacy for Individuals with Mental Illness Act by Pub. L. 106–310, div. B, title XXXII, §3206(a), Oct. 17, 2000, 114 Stat. 1193, and is classified generally to chapter 114 (§10801 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 10801 of Title 42 and Tables.
 
 The Assistive Technology Act of 1998, referred to in subsec. (a)(2), is Pub. L. 105–394, Nov. 13, 1998, 112 Stat. 3627, which is classified principally to chapter 31 (§3001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
 
 The Older Americans Act of 1965, referred to in subsec. (f)(5)(B), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, as amended, which is classified generally to chapter 35 (§3001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of Title 42 and Tables.
 
+Section 142 of the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6042), referred to in subsec. (m)(2), was repealed by Pub. L. 106–402, title IV, §401(a), Oct. 30, 2000, 114 Stat. 1737.
+
 #### Amendments
+
+2000—Subsecs. (a)(1)(B)(i), (f)(2). Pub. L. 106–402, §401(b)(3)(C), substituted “subtitle C of the Developmental Disabilities Assistance and Bill of Rights Act of 2000” for “part C of the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6041 et seq.)”.
+
+Subsec. (f)(5)(B). Pub. L. 106–402, §401(b)(3)(D), substituted “Developmental Disabilities Assistance and Bill of Rights Act of 2000” for “Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6000 et seq.)”.
+
+Subsec. (m)(1). Pub. L. 106–402, §401(b)(3)(C), substituted “subtitle C of the Developmental Disabilities Assistance and Bill of Rights Act of 2000” for “part C of the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6041 et seq.)”.
 
 1998—Pub. L. 105–220 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) to (n) relating to protection and advocacy of individual rights.
 
@@ -178,7 +186,7 @@ States.—For purposes of determining the minimum amount of an allotment under p
 
 Certain territories.—For purposes of determining the minimum amount of an allotment under paragraph (4)(B), the amount $50,000 shall, in the case of such allotments for fiscal year 1994 and subsequent fiscal years, be increased to the extent necessary to offset the effects of inflation occurring since October 1992, as measured by the percentage increase in the Consumer Price Index For All Urban Consumers (U.S. city average) during the period ending on April 1 of the fiscal year preceding the fiscal year for which the allotment is to be made.”
 
-Subsec. (d). Pub. L. 103–73, §112(c)(4), added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: “Amounts necessary to provide allotments to systems within States in accordance with subsection (c)(3)(B) of this section as increased under subsection (c)(5) of this section, or to provide allotments in accordance with subsection (c)(4)(B) of this section as increased in accordance with subsection (c)(5) of this section, shall be derived by proportionately reducing the allotments of the remaining systems within States under subsection (c)(3) of this section, but with such adjustments as may be necessary to prevent the allotment of any such remaining systems within States from being thereby reduced to less than the greater of $100,000 or one-third of one percent of the sums made available for purposes of this section for the fiscal year for which the allotment is made, as increased in accordance with subsection (c)(5) of this section.”
+Subsec. (d). Pub. L. 103–73, §112(c)(4), added subsec. (d) and struck out heading and text of former subsec. (d).Text read as follows: “Amounts necessary to provide allotments to systems within States in accordance with subsection (c)(3)(B) of this section as increased under subsection (c)(5) of this section, or to provide allotments in accordance with subsection (c)(4)(B) of this section as increased in accordance with subsection (c)(5) of this section, shall be derived by proportionately reducing the allotments of the remaining systems within States under subsection (c)(3) of this section, but with such adjustments as may be necessary to prevent the allotment of any such remaining systems within States from being thereby reduced to less than the greater of $100,000 or one-third of one percent of the sums made available for purposes of this section for the fiscal year for which the allotment is made, as increased in accordance with subsection (c)(5) of this section.”
 
 Subsec. (i). Pub. L. 103–73, §112(c)(6), which directed the amendment of this section “in subsection (i), to read as follows: “, was executed by adding subsec. (i). Former subsec. (i) redesignated (n).
 

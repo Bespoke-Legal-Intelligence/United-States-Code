@@ -324,5 +324,5 @@ Pub. L. 88–132, §1, Oct. 2, 1963, 77 Stat. 210, provided: “That this Act \[
 
 Section Referred to in Other Sections
 
-This section is referred to in title 2 section 906; title 5 sections 3326, 3501, 5531, 6323; title 10 sections 1032, 2774; title 20 sections 7703, 7706; title 22 section 4833; title 26 section 6013; title 31 section 3702; title 32 section 716; title 33 section 857–1; title 38 section 5301; title 42 sections 292d, 659, 665.
+This section is referred to in title 2 section 906; title 5 sections 3326, 3501, 5531, 6323; title 10 sections 1032, 2774; title 20 section 7703; title 22 section 4833; title 26 section 6013; title 31 section 3702; title 32 section 716; title 33 section 857–1; title 38 section 5301; title 42 sections 292d, 659, 665.
 

@@ -160,7 +160,7 @@ If the Administrator has not initiated any action under this section or section 
 
 #### (h) Exemptions
 
-(1) The Administrator may, upon application, exempt any person from any requirement of subsection (a) or (b) of this section to permit suchperson to manufacture or process a chemical substance for test marketing purposes—
+(1) The Administrator may, upon application, exempt any person from any requirement of subsection (a) or (b) of this section to permit such person to manufacture or process a chemical substance for test marketing purposes—
 
 &emsp;(A) upon a showing by such person satisfactory to the Administrator that the manufacture, processing, distribution in commerce, use, and disposal of such substance, and that any combination of such activities, for such purposes will not present any unreasonable risk of injury to health or the environment, and
 
@@ -174,7 +174,7 @@ If the Administrator has not initiated any action under this section or section 
 
 > the Administrator shall exempt the applicant from the requirement to submit such data on such substance. No exemption which is granted under this subparagraph with respect to the submission of data for a chemical substance may take effect before the beginning of the reimbursement period applicable to such data.
 
-(B) If the Administrator exempts any person, under subparagraph (A), from submitting data required under subsection (b)(2) of this section for a chemical substance because of the existence of previously submitted data and if such exemption is granted during the reimbursement period for such data, then (unless such person and the persons referred to in clauses (i) and (ii) agree on the amount and method of reimbursement) the Administrator shall order the person granted the exemption to provide fair and equitable reimbursement (in an amount determined under rules of the Administrator)—
+(B) If the Administrator exempts any person, under subparagraph (A), from submitting datarequired under subsection (b)(2) of this section for a chemical substance because of the existence of previously submitted data and if such exemption is granted during the reimbursement period for such data, then (unless such person and the persons referred to in clauses (i) and (ii) agree on the amount and method of reimbursement) the Administrator shall order the person granted the exemption to provide fair and equitable reimbursement (in an amount determined under rules of the Administrator)—
 
 &emsp;(i) to the person who previously submitted the data on which the exemption was based, for a portion of the costs incurred by such person in complying with the requirement under subsection (b)(2) of this section to submit such data, and
 

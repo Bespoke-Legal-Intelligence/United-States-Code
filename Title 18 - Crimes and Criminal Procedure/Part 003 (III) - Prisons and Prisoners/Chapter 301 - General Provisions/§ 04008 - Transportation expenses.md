@@ -26,7 +26,3 @@ This section \[section 61\] corrects the third paragraph of section 4008 of titl
 
 1949—Act May 24, 1949, substituted “the Army, Navy, or Air Force” for “War, or the Navy”.
 
-#### Cross References
-
-Expense of transferring prisoners to prison camps, see section 4125 of this title.
-

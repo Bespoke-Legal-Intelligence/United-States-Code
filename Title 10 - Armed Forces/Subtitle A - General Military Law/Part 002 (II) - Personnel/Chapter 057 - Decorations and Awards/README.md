@@ -14,10 +14,13 @@
 | [1130\.](%C2%A7%2001130%20-%20Consideration%20of%20proposals%20for%20decorations%20not%20previously%20submitted%20in%20timely%20fashion%20procedures%20for%20review%20and%20recommendation.md) | Consideration of proposals for decorations not previously submitted in timely fashion: procedures for review and recommendation. |
 | [1131\.](%C2%A7%2001131%20-%20Purple%20Heart%20limitation%20to%20members%20of%20the%20armed%20forces.md) | Purple Heart: limitation to members of the armed forces. |
 | [1132\.](%C2%A7%2001132%20-%20Presentation%20of%20decorations%20prohibition%20on%20entering%20correctional%20facilities%20for%20presentation%20to%20prisoners%20convicted%20of%20serious%20violent%E2%80%A6.md) | Presentation of decorations: prohibition on entering correctional facilities for presentation to prisoners convicted of serious violent felonies. |
+| [1133\.](%C2%A7%2001133%20-%20Bronze%20Star%20limitation%20to%20members%20receiving%20imminent%20danger%20pay.md) | Bronze star: limitation to members receiving imminent danger pay. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2000—Pub. L. 106–398, §1 \[\[div. A\], title V, §541(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–114, added item 1133.
 
 1998—Pub. L. 105–261, div. A, title V, §537(b), Oct. 17, 1998, 112 Stat. 2019, added item 1132.
 
@@ -53,7 +56,7 @@ Findings.—The Congress finds the following:
 
 &emsp;“(3) Military and civilian personnel of the Department of Defense, personnel in the intelligence community, members of the foreign service, and other officers and employees of the United States faithfully performed their duties during the Cold War.
 
-&emsp;“(4) Many such personnel performed their duties while isolated from family and friends and served overseas under frequently arduous conditions in orderto protect the United States and achieve a lasting peace.
+&emsp;“(4) Many such personnel performed their duties while isolated from family and friends and served overseas under frequently arduous conditions in order to protect the United States and achieve a lasting peace.
 
 &emsp;“(5) The discipline and dedication of those personnel were fundamental to the prevention of a superpower military conflict.
 
@@ -181,7 +184,7 @@ Section 1. There is hereby established a Military Outstanding Volunteer Service 
 
 Sec. 2. The Military Outstanding Volunteer Service Medal and ribbons and appurtenances thereto shall be of appropriate design approved by the Secretary of Defense. The Secretary of Defense shall prescribe regulations to govern the award and wear of the Military Outstanding Volunteer Service Medal. The regulations shall place the Military Outstanding Volunteer Service Medal in order of precedence immediately after the Humanitarian Service Medal.
 
-Sec. 3. No more than one award of the Military Outstanding Volunteer Service Medal may be made to anyone person, but for each subsequent act justifying such an award, a suitable device may be awarded to be worn with that medal as prescribed by appropriate regulations issued by the Secretary of Defense.
+Sec. 3. No more than one award of the Military Outstanding Volunteer Service Medal may be made to any one person, but for each subsequent act justifying such an award, a suitable device may be awarded to be worn with that medal as prescribed by appropriate regulations issued by the Secretary of Defense.
 
 Sec. 4. The Military Outstanding Volunteer Service Medal may be awarded posthumously, and when so awarded, may be presented to such representatives of the deceased as may be deemed appropriate by the Secretary of Defense or, in the case of a member of the Coast Guard when it is not operating as a service in the Navy, the Secretary of Transportation.
 
@@ -205,18 +208,6 @@ Sec. 4. <i>Posthumous Provision</i>. The medal may be awarded posthumously and, 
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Cross References
-
-Particular provisions relating to—
-
-&emsp;&emsp;Air Force, see section 8741 et seq. of this title.
-
-&emsp;&emsp;Army, see section 3741 et seq. of this title.
-
-&emsp;&emsp;Navy and Marine Corps, see section 6241 et seq. of this title.
-
-<i><sup>1</sup></i><i> So in original. The par. (1) designation probably should not appear here.</i>
-
 
 ---
 
@@ -234,3 +225,4 @@ Particular provisions relating to—
 - [&sect; 01130 - Consideration of proposals for decorations not previously submitted in timely fashion procedures for review and recommendation](%C2%A7%2001130%20-%20Consideration%20of%20proposals%20for%20decorations%20not%20previously%20submitted%20in%20timely%20fashion%20procedures%20for%20review%20and%20recommendation.md)
 - [&sect; 01131 - Purple Heart limitation to members of the armed forces](%C2%A7%2001131%20-%20Purple%20Heart%20limitation%20to%20members%20of%20the%20armed%20forces.md)
 - [&sect; 01132 - Presentation of decorations prohibition on entering correctional facilities for presentation to prisoners convicted of serious violent&#8230;](%C2%A7%2001132%20-%20Presentation%20of%20decorations%20prohibition%20on%20entering%20correctional%20facilities%20for%20presentation%20to%20prisoners%20convicted%20of%20serious%20violent%E2%80%A6.md)
+- [&sect; 01133 - Bronze Star limitation to members receiving imminent danger pay](%C2%A7%2001133%20-%20Bronze%20Star%20limitation%20to%20members%20receiving%20imminent%20danger%20pay.md)

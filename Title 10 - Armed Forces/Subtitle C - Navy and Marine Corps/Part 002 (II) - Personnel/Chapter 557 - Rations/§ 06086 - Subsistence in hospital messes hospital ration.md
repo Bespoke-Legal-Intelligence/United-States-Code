@@ -30,7 +30,3 @@ In subsection (a) the words “active duty” before the words “enlisted perso
 
 In subsection (b) the words “that nothing contained in this section shall deprive such nurses of allowances for subsistence now or after August 2, 1946, provided by law” are omitted as surplusage. Section 301 of the Career Compensation Act of 1949 (37 U.S.C. 251) authorizes a basic allowance for subsistence for all officers entitled to basic pay.
 
-#### Cross References
-
-Ration allowance for hospitalized members of the naval service, see section 6201 of this title.
-

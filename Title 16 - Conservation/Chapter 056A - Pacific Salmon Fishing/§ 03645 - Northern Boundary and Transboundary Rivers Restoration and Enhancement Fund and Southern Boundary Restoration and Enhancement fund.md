@@ -2,13 +2,13 @@
 
 #### (a) Northern Fund and Southern Fund
 
-(1) As provided in the June 30, 1999, Agreement of the United States and Canada on the Treaty Between the Government of the United States and the Government of Canada Concerning Pacific Salmon, 1985 (hereafter referred to as the “1999 Pacific Salmon Treaty Agreement”) there are hereby established a Northern Boundary and Transboundary Rivers Restoration and Enhancement Fund (hereafter referred to as the “Northern Fund”) and a Southern Boundary Restoration and Enhancement Fund (hereafter referred to as the “Southern Fund”) to be held by the Pacific Salmon Commission. The Northern Fund and Southern Fund shall be invested in interest bearing accounts, bonds, securities, or other investments in order to achieve the highest annual yield consistent with protecting the principal of each Fund. The Northern Fund and Southern Fund shall each receive $10,000,000, of the amounts authorized by this section. Income from investments made pursuant to this paragraph shall be available until expended, without appropriation or fiscal year limitation, for programs and activities relating to salmon restoration and enhancement, salmon research, the conservation of salmon habitat, and implementation of the Pacific Salmon Treaty and related agreements. Amounts provided by grants under this subsection may be held in interest bearing accounts prior to the disbursement of such funds for program purposes, and any interest earned may be retained for program purposes without further appropriation. The Northern Fund and Southern Fund are subject to the laws governing Federal appropriations and funds and to unrestricted circulars of the Office of Management and Budget. Recipients of amounts from either Fund shall keep separate accounts and such records as are reasonably necessary to disclose the use of the funds as well as to facilitate effective audits.
+(1) As provided in the June 30, 1999, Agreement of the United States and Canada on the Treaty Between the Government of the United States and the Government of Canada Concerning Pacific Salmon, 1985 (hereafter referred to as the “1999 Pacific Salmon Treaty Agreement”) there are hereby established a Northern Boundary and Transboundary Rivers Restoration and Enhancement Fund (hereafter referred to as the “Northern Fund”) and a Southern Boundary Restoration and Enhancement Fund (hereafter referred to as the “Southern Fund”) to be held by the Pacific Salmon Commission. The Northern Fund and Southern Fund shall be invested in interest bearing accounts, bonds, securities, or other investments in order to achieve the highest annual yield consistent with protecting the principal of each Fund. Income from investments made pursuant to this paragraph shall be available until expended, without appropriation or fiscal year limitation, for programs and activities relating to salmon restoration and enhancement, salmon research, the conservation of salmon habitat, and implementation of the Pacific Salmon Treaty and related agreements. Amounts provided by grants under this subsection may be held in interest bearing accounts prior to the disbursement of such funds for program purposes, and any interest earned may be retained for program purposes without further appropriation. The Northern Fund and Southern Fund are subject to the laws governing Federal appropriations and funds and to unrestricted circulars of the Office of Management and Budget. Recipients of amounts from either Fund shall keep separate accounts and such records as are reasonably necessary to disclose the use of the funds as well as to facilitate effective audits.
 
 (2)
 
 Fund Management.—
 
-&emsp;(A) As provided in the 1999 Pacific Salmon Treaty Agreement, amounts made availablefrom the Northern Fund pursuant to paragraph (1) shall be administered by a Northern Fund Committee, which shall be comprised of three representatives of the Government of Canada, and three representatives of the United States. The three United States representatives shall be the United States Commissioner and Alternate Commissioner appointed (or designated) from a list submitted by the Governor of Alaska for appointment to the Pacific Salmon Commission and the Regional Administrator of the National Marine Fisheries Service for the Alaska Region. Only programs and activities consistent with the purposes in paragraph (1) which affect the geographic area from Cape Caution, Canada to Cape Suckling, Alaska may be approved for funding by the Northern Fund Committee.
+&emsp;(A) As provided in the 1999 Pacific Salmon Treaty Agreement, amounts made available from the Northern Fund pursuant to paragraph (1) shall be administered by a Northern Fund Committee, which shall be comprised of three representatives of the Government of Canada, and three representatives of the United States. The three United States representatives shall be the United States Commissioner and Alternate Commissioner appointed (or designated) from a list submitted by the Governor of Alaska for appointment to the Pacific Salmon Commission and the Regional Administrator of the National Marine Fisheries Service for the Alaska Region. Only programs and activities consistent with the purposes in paragraph (1) which affect the geographic area from Cape Caution, Canada to Cape Suckling, Alaska may be approved for funding by the Northern Fund Committee.
 
 &emsp;(B) As provided in the 1999 Pacific Salmon Treaty Agreement, amounts made available from the Southern Fund pursuant to paragraph (1) shall be administered by a Southern Fund Committee, which shall be comprised of three representatives of Canada and three representatives of the United States. The United States representatives shall be appointed by the Secretary of Commerce: one shall be selected from a list of three qualified individuals submitted by the Governors of the States of Washington and Oregon; one shall be selected from a list of three qualified individuals submitted by the treaty Indian tribes (as defined by the Secretary of Commerce); and one shall be the Regional Administrator of the National Marine Fisheries Service for the Northwest Region. Only programs and activities consistent with the purposes in paragraph (1) which affect the geographic area south of Cape Caution, Canada may be approved for funding by the Southern Fund Committee.
 
@@ -24,7 +24,7 @@ Fund Management.—
 
 &emsp;&emsp;(ii) the conduct of the Alaskan fisheries pursuant to the 1999 Pacific Salmon Treaty Agreement, without further clarification or modification of the management regimes contained therein; and
 
-&emsp;&emsp;(iii) the decision by the North Pacific Fisheries Management Council to continue to defer its management authority over salmon to the State of Alaska are not likely to cause jeopardy to, or adversely modify designated critical habitat of, any salmonid species listed under Public Law 93–205, as amended \[16 U.S.C. 1531 et seq.\], in any fishery subject to the Pacific Salmon Treaty.
+&emsp;&emsp;(iii) the decision by the North Pacific Fisheries Management Council to continue to defer its management authority over salmon to the State of Alaska are not likely to cause jeopardy to, or adversely modify designated critical habitat of, any salmonidspecies listed under Public Law 93–205, as amended \[16 U.S.C. 1531 et seq.\], in any fishery subject to the Pacific Salmon Treaty.
 
 (2) If the requests for orders in subparagraph (1)(A) are withdrawn after December 31, 1999, or if such orders are not entered by March 1, 2000, amounts in the Northern Fund and the Southern Fund shall be transferred to the general fund of the United States Treasury.
 
@@ -46,15 +46,21 @@ Fund Management.—
 
 #### (d) Authorization of appropriations
 
-&emsp;(1) For capitalizing the Northern Fund and the Southern Fund, there is authorized to be appropriated in fiscal year 2000, $20,000,000.
+#### (1) Pacific Salmon Treaty
 
-&emsp;(2) For salmon habitat restoration, salmon stock enhancement, salmon research, and implementation of the 1999 Pacific Salmon Treaty Agreement and related agreements, there is authorized to be appropriated in fiscal year 2000, $50,000,000 to the States of California, Oregon, Washington, and Alaska. The State of Alaska may allocate a portion of any funds it receives under this subsection to eligible activities outside Alaska.
+&emsp;(A) For capitalizing the Northern Fund there is authorized to be appropriated in fiscal years 2000, 2001, 2002, and 2003 a total of $75,000,000.
 
-&emsp;(3) For salmon habitat restoration, salmon stock enhancement, salmon research, and implementation of the 1999 Pacific Salmon Treaty Agreement and related agreements, there is authorized to be appropriated $6,000,000 in fiscal year 2000 to the Pacific Coastal tribes (as defined by the Secretary of Commerce) and $2,000,000 in fiscal year 2000 to the Columbia River tribes (as defined by the Secretary of Commerce).
+&emsp;(B) For capitalizing the Southern Fund there is authorized to be appropriated in fiscal years 2000, 2001, 2002, and 2003 a total of $65,000,000.
 
-> Funds appropriated to the States under the authority of this section shall be subject to a 25 percent non-Federal match requirement. In addition, not more than 3 percent of such funds shall be available for administrative expenses, with the exception of funds used in the Washington State for the Forest and Fish Agreement.
+&emsp;(C) To provide economic adjustment assistance to fishermen pursuant to the 1999 Pacific Salmon Treaty Agreement, there is authorized to be appropriated in fiscal years 2000, 2001, and 2002 a total of $30,000,000.
 
-(Pub. L. 106–113, div. B, §1000(a)(1) \[title VI, §623\], Nov. 29, 1999, 113 Stat. 1535, 1501A–56.)
+#### (2) Pacific coastal salmon recovery
+
+&emsp;(A) For salmon habitat restoration, salmon stock enhancement, and salmon research, including the construction of salmon research and related facilities, there is authorized to be appropriated for each of fiscal years 2000, 2001, 2002, and 2003, $90,000,000 to the States of Alaska, Washington, Oregon, and California. Amounts appropriated pursuant to this subparagraph shall be made available as direct payments. The State of Alaska may allocate a portion of any funds it receives under this subsection to eligible activities outside Alaska.
+
+&emsp;(B) For salmon habitat restoration, salmon stock enhancement, salmon research, and supplementation activities, there is authorized to be appropriated in each of fiscal years 2000, 2001, 2002, and 2003, $10,000,000 to be divided between the Pacific Coastal tribes (as defined by the Secretary of Commerce) and the Columbia River tribes (as defined by the Secretary of Commerce).
+
+(Pub. L. 106–113, div. B, §1000(a)(1) \[title VI, §623\], Nov. 29, 1999, 113 Stat. 1535, 1501A–56; Pub. L. 106–553, §1(a)(2) \[title VI, §628\], Dec. 21, 2000, 114 Stat. 2762, 2762A–108.)
 
 #### References in Text
 
@@ -65,4 +71,18 @@ Public Law 93–205, referred to in subsec. (b)(1)(B)(iii), (3), is Pub. L. 93�
 Section was enacted as part of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 2000, and not as part of the Pacific Salmon Treaty Act of 1985 which comprises this chapter.
 
 Section is comprised of section 1000(a)(1) \[title VI, §623\] of div. B of Pub. L. 106–113. Subsec. (c) of section 1000(a)(1) \[title VI, §623\] of div. B of Pub. L. 106–113 amended section 3632 of this title.
+
+#### Amendments
+
+2000—Subsec. (a)(1). Pub. L. 106–553, §1(a)(2) \[title VI, §628(a)\], which directed the amendment of par. (1) by striking out “The Northern Fund and Southern Fund shall each receive $10,000,000 of the amounts authorized by this section.”, was executed by striking out “The Northern Fund and Southern Fund shall each receive $10,000,000, of the amounts authorized by this section.” after the second sentence, to reflect the probable intent of Congress.
+
+Subsec. (d). Pub. L. 106–553, §1(a)(2) \[title VI, §628(b)\], added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows:
+
+&emsp;“(1) For capitalizing the Northern Fund and the Southern Fund, there is authorized to be appropriated in fiscal year 2000, $20,000,000.
+
+&emsp;“(2) For salmon habitat restoration, salmon stock enhancement, salmon research, and implementation of the 1999 Pacific Salmon Treaty Agreement and related agreements, there is authorized to be appropriated in fiscal year 2000, $50,000,000 to the States of California, Oregon, Washington, and Alaska. The State of Alaska may allocate a portion of any funds it receives under this subsection to eligible activities outside Alaska.
+
+&emsp;“(3) For salmon habitat restoration, salmon stock enhancement, salmon research, and implementation of the 1999 Pacific Salmon Treaty Agreement and related agreements, there is authorized to be appropriated $6,000,000 in fiscal year 2000 to the Pacific Coastal tribes (as defined by the Secretary of Commerce) and $2,000,000 in fiscal year 2000 to the Columbia River tribes (as defined by the Secretary of Commerce).
+
+> Funds appropriated to the States under the authority of this section shall be subject to a 25 percent non-Federal match requirement. In addition, not more than 3 percent of such funds shall be available for administrative expenses, with the exception of funds used in the Washington State for the Forest and Fish Agreement.”
 

@@ -36,10 +36,6 @@ Amendment by Pub. L. 99–653 applicable to applications for immigrant visas mad
 
 Section effective 180 days after June 27, 1952, see section 407 of act June 27, 1952, set out as a note under section 1101 of this title.
 
-#### Cross References
-
-Definition of alien, parent, and United States, see section 1101 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1303, 1304 of this title.

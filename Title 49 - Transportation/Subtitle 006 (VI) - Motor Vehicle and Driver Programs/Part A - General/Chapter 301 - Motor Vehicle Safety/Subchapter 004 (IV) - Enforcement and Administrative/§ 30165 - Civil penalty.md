@@ -2,7 +2,15 @@
 
 (a)
 
-Penalty.—A person that violates any of sections 30112, 30115, 30117–30122, 30123(d),<sup>1</sup> 30125(c), 30127, 30141–30147, or 30166 of this title or a regulation prescribed under any of those sections is liable to the United States Government for a civil penalty of not more than $1,000 for each violation. A separate violation occurs for each motor vehicle or item of motor vehicle equipment and for each failure or refusal to allow or perform an act required by any of those sections. The maximum penalty under this subsection for a related series of violations is $800,000.
+Civil Penalties.—
+
+&emsp;(1)
+
+In general.—A person that violates any of section 30112, 30115, 30117 through 30122, 30123(d),<sup>1</sup> 30125(c), 30127, or 30141 through 30147, or a regulation prescribed thereunder, is liable to the United States Government for a civil penalty of not more than $5,000 for each violation. A separate violation occurs for each motor vehicle or item of motor vehicle equipment and for each failure or refusal to allow or perform an act required by any of those sections. The maximum penalty under this subsection for a related series of violations is $15,000,000.
+
+&emsp;(2)
+
+Section 30166.—A person who violates section 30166 or a regulation prescribed under that section is liable to the United States Government for a civil penalty for failing or refusing to allow or perform an act required under that section or regulation. The maximum penalty under this paragraph is $5,000 per violation per day. The maximum penalty under this paragraph for a related series of daily violations is $15,000,000.
 
 (b)
 
@@ -12,13 +20,13 @@ Compromise and Setoff.—(1) The Secretary of Transportation may compromise the 
 
 (c)
 
-Considerations.—In determining the amount of a civil penalty or compromise, the appropriateness of the penalty or compromise to the size of the business of the person charged and the gravity of the violation shall be considered.
+Considerations.—In determining the amount of a civil penalty or compromise, the appropriateness of the penalty or compromise to the size of the business of the person chargedand the gravity of the violation shall be considered.
 
 (d)
 
 Subpenas for Witnesses.—In a civil action brought under this section, a subpena for a witness may be served in any judicial district.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 968; Pub. L. 103–429, §6(23), Oct. 31, 1994, 108 Stat. 4380.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 968; Pub. L. 103–429, §6(23), Oct. 31, 1994, 108 Stat. 4380; Pub. L. 106–414, §5(a), Nov. 1, 2000, 114 Stat. 1803.)
 
 Historical and Revision Notes
 
@@ -68,9 +76,11 @@ This amends 49:30141(c)(4)(A) and 30165(a) to correct erroneous cross-references
 
 #### References in Text
 
-Section 30123(d) of this title, referred to in subsec. (a), was redesignated section 30123(a) of this title by Pub. L. 105–178, title VII, §7106(b), June 9, 1998, 112 Stat. 467.
+Section 30123(d) of this title, referred to in subsec. (a)(1), was redesignated section 30123(a) of this title by Pub. L. 105–178, title VII, §7106(b), June 9, 1998, 112 Stat. 467.
 
 #### Amendments
+
+2000—Subsec. (a). Pub. L. 106–414 amended heading and text generally. Prior to amendment, text read as follows: “A person that violates any of sections 30112, 30115, 30117–30122, 30123(d), 30125(c), 30127, 30141–30147, or 30166 of this title or a regulation prescribed under any of those sections is liable to the United States Government for a civil penalty of not more than $1,000 for each violation. A separate violation occurs for each motor vehicle or item of motor vehicle equipment and for each failure or refusal to allow or perform an act required by any of those sections. The maximum penalty under this subsection for a related series of violations is $800,000.”
 
 1994—Subsec. (a). Pub. L. 103–429 substituted “any of sections 30112” for “section 30112” and inserted “any of” before “those sections” in two places.
 
@@ -80,7 +90,7 @@ Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 30163 of this title.
+This section is referred to in sections 30115, 30163 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

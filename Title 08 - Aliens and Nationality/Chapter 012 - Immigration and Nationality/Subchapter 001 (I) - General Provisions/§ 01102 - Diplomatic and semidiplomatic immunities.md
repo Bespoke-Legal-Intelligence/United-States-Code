@@ -14,9 +14,9 @@ Except as otherwise provided in this chapter, for so long as they continue in th
 
 1996—Pub. L. 104–208 substituted “removal” for “exclusion or deportation” in introductory provisions.
 
-1991—Pars. (1) to (3). Pub. L. 102–232 substituted “subparagraphs (A) through (C) of section 1182(a)(3) of this title” for “paragraph (3) (other than subparagraph (E)) of section 1182(a) of this title”.
+1991—Pars. (1) to (3). Pub. L. 102–232 substituted “subparagraphs (A) through (C) of section 1182(a)(3) of thistitle” for “paragraph (3) (other than subparagraph (E)) of section 1182(a) of this title”.
 
-1990—Pars. (1) to (3). Pub. L. 101–649 substituted “(3) (other than subparagraph (E))” for “(27)” in pars. (1)and (2), and “paragraph (3) (other than subparagraph (E))” for “paragraphs (27) and (29)” in par. (3).
+1990—Pars. (1) to (3). Pub. L. 101–649 substituted “(3) (other than subparagraph (E))” for “(27)” in pars. (1) and (2), and “paragraph (3) (other than subparagraph (E))” for “paragraphs (27) and (29)” in par. (3).
 
 1988—Par. (2). Pub. L. 100–525 substituted “documentation” for “documentaion”.
 
@@ -43,20 +43,4 @@ In General.—The President shall use his authority, including the authorities c
 “(b)
 
 Waiver.—The President may waive the provisions of subsection (a) if the President determines, and so notifies the Congress, that such a waiver is in the national security interests of the United States.”
-
-#### Cross References
-
-All cases affecting ambassadors, other public ministers and consuls—
-
-&emsp;&emsp;Judicial power as extending to, see Const. Art. III, §2, cl. 1.
-
-&emsp;&emsp;Supreme Court as having original jurisdiction in, see Const. Art. III, §2, cl. 2.
-
-Definition of alien, immigrant visa, nonimmigrant alien, nonimmigrant visa, and passport, see section 1101 of this title.
-
-International organizations, privileges, exemptions, and immunities of officers, employees, and their families, see section 288d of Title 22, Foreign Relations and Intercourse.
-
-Original and exclusive jurisdiction of district courts of all actions and proceedings against consuls or vice consuls of foreign states, see section 1351 of Title 28, Judiciary and Judicial Procedure.
-
-Original but not exclusive jurisdiction of Supreme Court of all actions or proceedings brought by ambassadors or other public ministers of foreign states or to which consuls or vice consuls of foreign states are parties, see section 1251 of Title 28.
 

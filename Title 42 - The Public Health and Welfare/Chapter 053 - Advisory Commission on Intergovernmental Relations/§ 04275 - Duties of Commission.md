@@ -2,7 +2,7 @@
 
 It shall be the duty of the Commission—
 
-&emsp;(1) to engage in such activities and to make such studies and investigations as are necessary or desirable in the accomplishment of the purposes set forth in section 4272 of this title;
+&emsp;(1) to engage in such activities and to make such studies and investigations as are necessary or desirable in the accomplishment ofthe purposes set forth in section 4272 of this title;
 
 &emsp;(2) to consider, on its own initiative, ways and means for fostering better relations between the levels of government;
 
@@ -13,6 +13,10 @@ It shall be the duty of the Commission—
 #### Codification
 
 Section was formerly classified to section 2375 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in cl. (3) of this section relating to submittal of an annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and item 12 on page 153 of House Document No. 103–7.
 
 #### Study and Report to Congress of Effect on Funds Available for Housing and State and Local Bond Markets of Full Deposit Insurance for Public Funds; Submission Date; Authorization of Appropriations
 

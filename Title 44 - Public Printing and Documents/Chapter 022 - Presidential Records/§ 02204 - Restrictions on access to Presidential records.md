@@ -12,7 +12,7 @@
 
 &emsp;(5) confidential communications requesting or submitting advice, between the President and his advisers, or between such advisers; or
 
-&emsp;(6) personnel and medical files and similar files the disclosure of which would constitute a clearly unwarranted invasion of personal privacy.
+&emsp;(6) personnel and medical files and similar files the disclosure of which would constitutea clearly unwarranted invasion of personal privacy.
 
 (b)(1) Any Presidential record or reasonably segregable portion thereof containing information within a category restricted by the President under subsection (a) shall be so designated by the Archivist and access thereto shall be restricted until the earlier of—
 
@@ -78,7 +78,7 @@ Section 1. <i>Definitions</i>. For purposes of this Order:
 
 Sec. 2. <i>Notice of Intent to Disclose Presidential Records.</i>
 
-(a) When the Archivist provides notice to the incumbent and former Presidents of his intent to disclose Presidential records pursuant to section 1270.46 of the NARA regulations, the Archivist, utilizing any guidelines provided by the incumbent and former Presidents,shall identify any specific materials, the disclosure of which he believes may raise a substantial question of Executive privilege. However, nothing in this Order is intended to affect the right of the incumbent or former Presidents to invoke Executive privilege with respect to materials not identified by the Archivist. Copies of the notice for the incumbent President shall be delivered to the President (through the Counsel to the President) and the Attorney General (through the Assistant Attorney General for the Office of Legal Counsel). The copy of the notice for the former President shall be delivered to the former President or his designated representative.
+(a) When the Archivist provides notice to the incumbent and former Presidents of his intent to disclosePresidential records pursuant to section 1270.46 of the NARA regulations, the Archivist, utilizing any guidelines provided by the incumbent and former Presidents, shall identify any specific materials, the disclosure of which he believes may raise a substantial question of Executive privilege. However, nothing in this Order is intended to affect the right of the incumbent or former Presidents to invoke Executive privilege with respect to materials not identified by the Archivist. Copies of the notice for the incumbent President shall be delivered to the President (through the Counsel to the President) and the Attorney General (through the Assistant Attorney General for the Office of Legal Counsel). The copy of the notice for the former President shall be delivered to the former President or his designated representative.
 
 (b) Upon the passage of 30 days after receipt by the incumbent and former Presidents of a notice of intent to disclose Presidential records, the Archivist may disclose the records covered by the notice, unless during that time period the Archivist has received a claim of Executive privilege by the incumbent or former President or the Archivist has been instructed by the incumbent President or his designee to extend the time period. If a shorter time period is required under the circumstances set forth in section 1270.44 of the NARA regulations, the Archivist shall so indicate in the notice.
 

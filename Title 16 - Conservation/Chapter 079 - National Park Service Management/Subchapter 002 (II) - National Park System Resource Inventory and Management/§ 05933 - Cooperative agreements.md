@@ -2,7 +2,7 @@
 
 #### (a) Cooperative study units
 
-The Secretary is authorized and directed to enter into cooperative agreements with colleges and universities, including but not limited to land grant schools, in partnership with other Federal and State agencies, to establish cooperative study units to conduct multi-disciplinary research and develop integrated information products on the resources of the National Park System, or the larger region of which parks are a part.
+The Secretary is authorized and directed to enter into cooperative agreements with collegesand universities, including but not limited to land grant schools, in partnership with other Federal and State agencies, to establish cooperative study units to conduct multi-disciplinary research and develop integrated information products on the resources of the National Park System, or the larger region of which parks are a part.
 
 #### (b) Report
 

@@ -24,11 +24,11 @@ It shall be unlawful for any plan official to whom subsection (a) of this sectio
 
 #### (c) Conflict of interest prohibited in procuring bonds
 
-It shall be unlawful for any person to procure any bond required by subsection (a) of this section from any surety or other company or through any agent or broker in whose business operations such plan or any party in interest insuch plan has any control or significant financial interest, direct or indirect.
+It shall be unlawful for any person to procure any bond required by subsection (a) of this section from any surety or other company or through any agent or broker in whose business operations such plan or any party in interest in such plan has any control or significant financial interest, direct or indirect.
 
 #### (d) Exclusiveness of statutory basis for bonding requirement for persons handling funds or other property of employee benefit plans
 
-Nothing in any other provision of law shall require any person, required to be bonded as provided in subsection (a) of this section because he handles funds or other property of an employee benefit plan, to be bonded insofar as the handling by such person of the funds or other property of such plan is concerned.
+Nothing in any other provision of law shall require any person, required to be bonded as provided in subsection (a) of this section because hehandles funds or other property of an employee benefit plan, to be bonded insofar as the handling by such person of the funds or other property of such plan is concerned.
 
 #### (e) Regulations
 

@@ -8,5 +8,9 @@ The Secretary is authorized, when the Secretary determines it to be in the publi
 
 (Pub. L. 97–465, §2, Jan. 12, 1983, 96 Stat. 2535.)
 
+#### Section Referred to in Other Sections
+
+This section is referred to in section 698v–7 of this title.
+
 <i><sup>1</sup></i><i> So in original. Probably should be “covenants,”.</i>
 

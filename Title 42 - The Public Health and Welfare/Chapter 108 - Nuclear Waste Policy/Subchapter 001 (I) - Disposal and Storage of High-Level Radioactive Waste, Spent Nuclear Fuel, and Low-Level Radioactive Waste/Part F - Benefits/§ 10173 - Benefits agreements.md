@@ -16,7 +16,7 @@ A benefits agreement entered into under subsection (a) of this section may be am
 
 #### (c) Agreement with Nevada
 
-The Secretary shall offer to enter into a benefits agreement with the Governor of Nevada. Any benefits agreement with a State under this subsection shall be negotiated in consultation with any affected units of local government in such State.
+The Secretary shall offer to enter into a benefits agreement with the Governor of Nevada.Any benefits agreement with a State under this subsection shall be negotiated in consultation with any affected units of local government in such State.
 
 #### (d) Monitored retrievable storage
 

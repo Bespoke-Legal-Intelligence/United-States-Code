@@ -20,6 +20,10 @@ Subsecs. (c) to (e). Pub. L. 105–362, §501(d)(1)(A), struck out subsecs. (c) 
 
 1974—Subsec. (b). Pub. L. 93–243 designated existing paragraph as par. (1) and cls. (1) to (4) as (A) to (D), and added par. (2).
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in this section relating to the requirement that the Administrator submit detailed estimates and comprehensive studies to Congress no later than February 10 of each odd-numbered year, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and pages 163 and 165 of House Document No. 103–7.
+
 #### Studies and Reports
 
 Pub. L. 100–4, title III, §308(g), Feb. 4, 1987, 101 Stat. 40, directed Administrator to conduct a water quality improvement study and report results of such study to specified Congressional committees not later than 2 years after Feb. 4, 1987.
@@ -60,5 +64,5 @@ Advisory boards in existence on Jan. 5, 1973, to terminate not later than the ex
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1266, 1285 of this title.
+This section is referred to in sections 1266, 1285, 1301 of this title.
 

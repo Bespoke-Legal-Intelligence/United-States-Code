@@ -1,16 +1,6 @@
 ### §971i. Research on Atlantic highly migratory species
 
-#### (a) Biennial report on bluefin tuna
-
-The Secretary of Commerce shall prepare, for each biennial period commencing with the period covering calendar years 1981 and 1982, and submit to the Congress a report setting forth, with respect to such biennial period—
-
-&emsp;(1) the level of taking of bluefin tuna by United States fishermen in the Convention area as defined in Article I of the International Convention for the Conservation of Atlantic Tunas;
-
-&emsp;(2) the status of bluefin tuna stocks within such Convention area and the trends in their population level; and
-
-&emsp;(3) related information resulting from the implementation of the observer program under section 1827 of this title.
-
-> The report required under this section shall be submitted to the Congress within sixty days after the close of the biennial period covered by the report.
+#### (a) Omitted
 
 #### (b) Highly migratory species research and monitoring
 
@@ -55,6 +45,8 @@ The Secretary of Commerce shall prepare, for each biennial period commencing wit
 The Atlantic Tunas Convention Act of 1975, referred to in subsec. (b)(3)(B), is Pub. L. 94–70, Aug. 5, 1975, 89 Stat. 385, as amended, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 971 of this title and Tables.
 
 #### Codification
+
+Subsection (a), which required the Secretary of Commerce to prepare and submit to Congress a biennial report on the level of taking of bluefin tuna by United States fishermen in the Convention area as defined in Article I of the International Convention for the Conservation of Atlantic Tunas, the status of bluefin tuna stocks within the Convention area and the trends in their population level, and related information resulting from implementation of the observer program under section 1827 of this title, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 50 of House Document No. 103–7.
 
 Section was not enacted as part of the Atlantic Tunas Convention Act of 1975 which comprises this chapter.
 

@@ -12,13 +12,13 @@ Except as provided in subsections (b), (c), and (d) of this section, there are a
 
 #### (b) Exemptions
 
-There are authorized to be appropriated to the Secretary to assist him and the Endangered Species Committee in carrying out their functions under sections <sup>1</sup> 1536(e), (g), and (h) of this title not to exceed $600,000 for each of fiscal years 1988, 1989, 1990, 1991, and 1992.
+There are authorized to be appropriated to the Secretary to assist him and the Endangered Species Committee in carrying out their functions under sections <sup>1</sup> 1536(e), (g), and (h) of this titlenot to exceed $600,000 for each of fiscal years 1988, 1989, 1990, 1991, and 1992.
 
 #### (c) Convention implementation
 
 There are authorized to be appropriated to the Department of the Interior for purposes of carrying out section 1537a(e) of this title not to exceed $400,000 for each of fiscal years 1988, 1989, and 1990, and $500,000 for each of fiscal years 1991 and 1992, and such sums shall remain available until expended.
 
-(Pub. L. 93–205, §15, Dec. 28, 1973, 87 Stat. 903; Pub. L. 94–325, June 30, 1976, 90 Stat. 724; Pub. L. 95–632, §9, Nov. 10, 1978, 92 Stat. 3762; Pub. L.96–159, §8, Dec. 28, 1979, 93 Stat. 1230; Pub. L. 97–304, §8\[(a)\], Oct. 13, 1982, 96 Stat. 1425; Pub. L. 100–478, title I, §1009, Oct. 7, 1988, 102 Stat. 2312.)
+(Pub. L. 93–205, §15, Dec. 28, 1973, 87 Stat. 903; Pub. L. 94–325, June 30, 1976, 90 Stat. 724; Pub. L. 95–632, §9, Nov. 10, 1978, 92 Stat. 3762; Pub. L. 96–159, §8, Dec. 28, 1979, 93 Stat. 1230; Pub. L. 97–304, §8\[(a)\], Oct. 13, 1982, 96 Stat. 1425; Pub. L. 100–478, title I, §1009, Oct. 7, 1988, 102 Stat. 2312.)
 
 #### Amendments
 

@@ -9,8 +9,13 @@
 | [435\.](%C2%A7%2000435%20-%20Contracts%20in%20excess%20of%20specific%20appropriation.md) | Contracts in excess of specific appropriation. |
 | [436\.](%C2%A7%2000436%20-%20Convict%20labor%20contracts.md) | Convict labor contracts. |
 | \[437. | Repealed.\] |
-| [438\.](%C2%A7%2000438%20-%20Indian%20contracts%20for%20services%20generally.md) | Indian contracts for services generally. |
-| [439\.](%C2%A7%2000439%20-%20Indian%20enrollment%20contracts.md) | Indian enrollment contracts. |
+| 438\. | Indian contracts for services generally.<sup>1</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
+| 439\. | Indian enrollment contracts.<sup>1</sup> |
 | [440\.](%C2%A7%2000440%20-%20Mail%20contracts.md) | Mail contracts. |
 | [441\.](%C2%A7%2000441%20-%20Postal%20supply%20contracts.md) | Postal supply contracts. |
 | [442\.](%C2%A7%2000442%20-%20Printing%20contracts.md) | Printing contracts. |
@@ -28,6 +33,8 @@
 
 1951—Act Oct. 31, 1951, ch. 655, §18, 65 Stat. 717, struck out “; exceptions” from item 431.
 
+<i><sup>1</sup></i><i> Section repealed by Pub. L. 106–568 without corresponding amendment of chapter analysis.</i>
+
 
 ---
 
@@ -40,8 +47,7 @@
 - [&sect; 00435 - Contracts in excess of specific appropriation](%C2%A7%2000435%20-%20Contracts%20in%20excess%20of%20specific%20appropriation.md)
 - [&sect; 00436 - Convict labor contracts](%C2%A7%2000436%20-%20Convict%20labor%20contracts.md)
 - [&sect; 00437 - Repealed. Pub. L. 104&#8211;178, &sect;1(a), Aug. 6, 1996, 110 Stat. 1565](%C2%A7%2000437%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93178%2C%20%C2%A71%28a%29%2C%20Aug.%206%2C%201996%2C%20110%20Stat.%201565.md)
-- [&sect; 00438 - Indian contracts for services generally](%C2%A7%2000438%20-%20Indian%20contracts%20for%20services%20generally.md)
-- [&sect; 00439 - Indian enrollment contracts](%C2%A7%2000439%20-%20Indian%20enrollment%20contracts.md)
+- [&sect; 00438, 439 - Repealed. Pub. L. 106&#8211;568, title VIII, &sect;812(c)(2), Dec. 27, 2000, 114 Stat. 2917](%C2%A7%2000438%2C%20439%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93568%2C%20title%20VIII%2C%20%C2%A7812%28c%29%282%29%2C%20Dec.%2027%2C%202000%2C%20114%20Stat.%202917.md)
 - [&sect; 00440 - Mail contracts](%C2%A7%2000440%20-%20Mail%20contracts.md)
 - [&sect; 00441 - Postal supply contracts](%C2%A7%2000441%20-%20Postal%20supply%20contracts.md)
 - [&sect; 00442 - Printing contracts](%C2%A7%2000442%20-%20Printing%20contracts.md)

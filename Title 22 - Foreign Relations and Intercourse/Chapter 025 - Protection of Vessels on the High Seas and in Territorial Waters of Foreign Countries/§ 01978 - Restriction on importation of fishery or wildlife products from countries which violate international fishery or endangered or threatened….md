@@ -66,7 +66,7 @@ As used in this section—
 
 &emsp;(3) The term “international fishery conservation program” means any ban, restriction, regulation, or other measure in effect pursuant to a bilateral or multilateral agreement which is in force with respect to the United States, the purpose of which is to conserve or protect the living resources of the sea, including marine mammals.
 
-&emsp;(4) The term “international program for endangered or threatened species” means any ban, restriction, regulation, or other measure in effect pursuant to a multilateral agreementwhich is in force with respect to the United States, the purpose of which is to protect endangered or threatened species of animals.
+&emsp;(4) The term “international program for endangered or threatened species” means any ban, restriction, regulation, or other measure in effect pursuant to a multilateral agreement which is in force with respect to the United States, the purpose of which is to protect endangered or threatened species of animals.
 
 &emsp;(5) The term “taking”, as used with respect to animals to which an international program for endangered or threatened species applies, means to—
 

@@ -86,7 +86,7 @@ Section 1 of Pub. L. 93–133 provided: “That this Act \[amending this section
 
 #### Short Title of 1970 Amendment
 
-Section 1 of Pub. L. 91–346 provided: “That this Act \[amending this section and sections 952, 954, 955, 956,957, and 958 to 960 of this title, repealing sections 781 to 788 and 790 of this title, and enacting provisions set out as notes under section 955 of this title and section 781 of this title\] may be cited as ‘The National Foundation on the Arts and the Humanities Amendments of 1970’.”
+Section 1 of Pub. L. 91–346 provided: “That this Act \[amending this section and sections 952, 954, 955, 956, 957, and 958 to 960 of this title, repealing sections 781 to 788 and 790 of this title, and enacting provisions set out as notes under section 955 of this title and section 781 of this title\] may be cited as ‘The National Foundation on the Arts and the Humanities Amendments of 1970’.”
 
 #### Short Title
 

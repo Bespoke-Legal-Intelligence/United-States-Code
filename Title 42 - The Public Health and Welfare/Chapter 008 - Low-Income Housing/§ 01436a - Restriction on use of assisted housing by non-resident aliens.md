@@ -12,9 +12,11 @@ Notwithstanding any other provision of law, the applicable Secretary may not mak
 
 &emsp;(4) an alien who is lawfully present in the United States as a result of an exercise of discretion by the Attorney General for emergent reasons or reasons deemed strictly in the public interest pursuant to section 1182(d)(5) of title 8;
 
-&emsp;(5) an alien who is lawfully present in the United States as a result of the Attorney General's withholding deportation pursuant to section 1231(b)(3) of title 8; or
+&emsp;(5) an alien who is lawfully present in the United States as a result of the Attorney General's withholding deportation pursuant to section 1231(b)(3) of title 8;
 
-&emsp;(6) an alien lawfully admitted for temporary or permanent residence under section 1255a of title 8.
+&emsp;(6) an alien lawfully admitted for temporary or permanent residence under section 1255a of title 8; or
+
+&emsp;(7) an alien who is lawfully resident in the United States and its territories and possessions under section 141 of the Compacts of Free Association between the Government of the United States and the Governments of the Marshall Islands, the Federated States of Micronesia (48 U.S.C. 1901 note) and Palau (48 U.S.C. 1931 note) while the applicable section is in effect: <i>Provided</i>, That, within Guam any such alien shall not be entitled to a preference in receiving assistance under this Act over any United States citizen or national resident therein who is otherwise eligible for such assistance.
 
 #### (b) “Financial assistance” defined
 
@@ -74,7 +76,7 @@ The following conditions apply with respect to financial assistance being or to 
 
 &emsp;&emsp;&emsp;(i) shall provide a reasonable opportunity, not to exceed 30 days, to submit to the applicable Secretary evidence indicating a satisfactory immigration status, or to appeal to the Immigration and Naturalization Service the verification determination of the Immigration and Naturalization Service under paragraph (3),
 
-&emsp;&emsp;&emsp;(ii) in the case of any individual receiving assistance on September 30, 1996, may not delay, deny, reduce, or terminate the eligibility of that individual for financial assistance on the basis of the immigration status of that individual until the expiration of that 30-day period; and
+&emsp;&emsp;&emsp;(ii) in the case of any individual receiving assistance on September 30, 1996, may not delay, deny, reduce, or terminate the eligibility of that individual for financial assistance on the basis of the immigrationstatus of that individual until the expiration of that 30-day period; and
 
 &emsp;&emsp;&emsp;(iii) in the case of any individual applying for financial assistance on or after September 30, 1996, may not deny the application for such assistance on the basis of the immigration status of that individual until the expiration of that 30-day period; and
 
@@ -120,7 +122,7 @@ The applicable Secretary shall not take any compliance, disallowance, penalty, o
 
 #### (g) Reimbursement for costs of implementation
 
-The applicable Secretary is authorized to pay to each public housing agency or other entity anamount equal to 100 percent of the costs incurred by the public housing agency or other entity in implementing and operating an immigration status verification system under subsection (d) of this section (or under any alternative system for verifying immigration status with the Immigration and Naturalization Service authorized in the Immigration Reform and Control Act of 1986 (Public Law 99–603)).
+The applicable Secretary is authorized to pay to each public housing agency or other entity an amount equal to 100 percent of the costs incurred by the public housing agency or other entity in implementing and operating an immigration status verification system under subsection (d) of this section (or under any alternative system for verifying immigration status with the Immigration and Naturalization Service authorized in the Immigration Reform and Control Act of 1986 (Public Law 99–603)).
 
 #### (h) “Applicable Secretary” defined
 
@@ -154,9 +156,11 @@ For purposes of this section, the term “applicable Secretary” means—
 
 &emsp;For purposes of this subsection, with respect to a family, the term “eligibility” means the eligibility of each family member.
 
-(Pub. L. 96–399, title II, §214, Oct. 8, 1980, 94 Stat. 1637; Pub. L. 97–35, title III, §329(a), Aug. 13, 1981, 95 Stat. 408; Pub. L. 99–603, title I, §121(a)(2), Nov. 6, 1986, 100 Stat. 3386; Pub. L. 100–242, title I, §164(a)–(f)(1), Feb. 5, 1988, 101 Stat. 1860–1863; Pub. L. 104–193, title IV, §441(a), Aug. 22, 1996, 110 Stat. 2276; Pub. L. 104–208, div. C, title III, §308(g)(7)(D)(ii), title V, §§572–576, Sept. 30, 1996, 110 Stat. 3009–624, 3009–684, 3009–685, 3009–687; Pub. L. 105–276, title V, §592(a), Oct. 21, 1998, 112 Stat. 2653.)
+(Pub. L. 96–399, title II, §214, Oct. 8, 1980, 94 Stat. 1637; Pub. L. 97–35, title III, §329(a), Aug. 13, 1981, 95 Stat. 408; Pub. L. 99–603, title I, §121(a)(2), Nov. 6, 1986, 100 Stat. 3386; Pub. L. 100–242, title I, §164(a)–(f)(1), Feb. 5, 1988, 101 Stat. 1860–1863; Pub. L. 104–193, title IV, §441(a), Aug. 22, 1996, 110 Stat. 2276; Pub. L. 104–208, div. C, title III, §308(g)(7)(D)(ii), title V, §§572–576, Sept. 30, 1996, 110 Stat. 3009–624, 3009–684, 3009–685, 3009–687; Pub. L. 105–276, title V, §592(a), Oct. 21, 1998, 112 Stat. 2653; Pub. L. 106–504, §3(b), Nov. 13, 2000, 114 Stat. 2312.)
 
 #### References in Text
+
+This Act, referred to in subsec. (a)(7), is Pub. L. 96–399, Oct. 8, 1980, 94 Stat. 1614, as amended, known as the Housing and Community Development Act of 1980. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under section 5301 of this title and Tables.
 
 The United States Housing Act of 1937, referred to in subsec. (b), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, and amended, which is classified generally to this chapter (§1437 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1437 of this title and Tables.
 
@@ -171,6 +175,8 @@ The Immigration Reform and Control Act of 1986, referred to in subsecs. (e)(2), 
 Section was enacted as part of the Housing and Community Development Act of 1980, and not as part of the United States Housing Act of 1937 which comprises this chapter.
 
 #### Amendments
+
+2000—Subsec. (a)(7). Pub. L. 106–504 added par. (7).
 
 1998—Subsec. (b)(2). Pub. L. 105–276, §592(a)(1), substituted “applicable Secretary” for “Secretary of Housing and Urban Development”.
 
@@ -270,7 +276,7 @@ Subsec. (d)(4). Pub. L. 100–242, §164(c)(2), in introductory provisions, inse
 
 Subsec. (d)(4)(A)(i). Pub. L. 100–242, §164(c)(3), inserted after comma “or to appeal to the Immigration and Naturalization Service the verification determination of the Immigration and Naturalization Service under paragraph (3),”.
 
-Subsec. (d)(4)(B). Pub. L. 100–242, §164(c)(4), amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “if there are submitted documents which the Secretary determines constitutes reasonable evidence indicating such status—”.
+Subsec. (d)(4)(B). Pub. L. 100–242, §164(c)(4), amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “if thereare submitted documents which the Secretary determines constitutes reasonable evidence indicating such status—”.
 
 Subsec. (d)(4)(B)(i), (ii). Pub. L. 100–242, §164(c)(5), (6), inserted “or additional information” after “documents” in cl. (i), and “or appeal” after “verification” in cl. (ii).
 

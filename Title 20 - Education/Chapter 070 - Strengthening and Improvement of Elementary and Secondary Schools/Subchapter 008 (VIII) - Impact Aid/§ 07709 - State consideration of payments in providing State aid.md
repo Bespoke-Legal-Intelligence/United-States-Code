@@ -4,7 +4,7 @@
 
 Except as provided in subsection (b) of this section, a State may not—
 
-&emsp;(1) consider payments under this subchapter or under the Act of September 30, 1950 (Public Law 874, 81st Congress) (as such Act was in effect on the day preceding October 20, 1994) in determining for any fiscal year—
+&emsp;(1) consider payments under this subchapter in determining for any fiscal year—
 
 &emsp;&emsp;(A) the eligibility of a local educational agency for State aid for free public education; or
 
@@ -16,7 +16,7 @@ Except as provided in subsection (b) of this section, a State may not—
 
 #### (1) In general
 
-&emsp;A State may reduce State aid to a local educational agency that receives a payment under section 7702 or 7703(b) of this title (except the amount calculated in excess of 1.0 under subparagraph (B) of section 7703(a)(2) of this title) or under the Act of September 30, 1950 (Public Law 874, 81st Congress) as such Act was in effect on the day preceding October 20, 1994 (other than an increase in payments described in paragraphs (2)(B), (2)(C), (2)(D), or (3)(B)(ii) of section 3(d) of such Act of September 30, 1950) for any fiscal year if the Secretary determines, and certifies under subsection (c)(3)(A) of this section, that such State has in effect a program of State aid that equalizes expenditures for free public education among local educational agencies in such State.
+&emsp;A State may reduce State aid to a local educational agency that receives a payment under section 7702 or 7703(b) of this title (except the amount calculated in excess of 1.0 under section 7703(a)(2)(B) of this title) for any fiscal year if the Secretary determines, and certifies under subsection (c)(3)(A) of this section, that the State has in effect a program of State aid that equalizes expenditures for free public education among local educational agencies in the State.
 
 #### (2) Computation
 
@@ -76,15 +76,15 @@ Except as provided in subsection (b) of this section, a State may not—
 
 #### (1) In general
 
-&emsp;If a State has in effect a program of State aid for free public education for any fiscal year, which is designed to equalize expenditures for free public education among the local educational agencies of that State, payments under this subchapter or under the Act of September 30, 1950 (Public Law 874, 81st Congress) (as such Act was in effect on the day preceding October 20, 1994) for any fiscal year may be taken into consideration by such State in determining the relative—
+&emsp;If a State has in effect a program of State aid for free public education for any fiscal year, which is designed to equalize expenditures for free public education among the local educational agencies of that State, payments under this subchapter for any fiscal year may be taken into consideration by such State in determining the relative—
 
 &emsp;&emsp;(A) financial resources available to local educational agencies in that State; and
 
-&emsp;&emsp;(B) financial need of such agencies for the provision of free public education for children served by such agency, except that a State may consider as local resources funds received under this subchapter or under the Act of September 30, 1950 (Public Law 874, 81st Congress) (as such Act was in effect on the day preceding October 20, 1994) only in proportion to the share that local tax revenues covered under a State equalization program are of total local tax revenues.
+&emsp;&emsp;(B) financial need of such agencies for the provision of free public education for children served by such agency, except that a State may consider as local resources funds received under this subchapter only in proportion to the share that local tax revenues covered under a State equalization program are of total local tax revenues.
 
 #### (2) Prohibition
 
-&emsp;A State may not take into consideration payments under this subchapter or under the Act of September 30, 1950 (Public Law 874, 81st Congress) (as such Act was in effect on the day preceding October 20, 1994) before such State's program of State aid has been certified by the Secretary under subsection (c)(3) of this section.
+&emsp;A State may not take into consideration payments under this subchapter before such State's program of State aid has been certified by the Secretary under subsection (c)(3) of this section.
 
 #### (e) Remedies for State violations
 
@@ -100,13 +100,15 @@ Except as provided in subsection (b) of this section, a State may not—
 
 &emsp;The court shall grant such relief as the court determines is appropriate.
 
-(Pub. L. 89–10, title VIII, §8009, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3764; amended Pub. L. 104–195, §10, Sept. 16, 1996, 110 Stat. 2384.)
-
-#### References in Text
-
-Act of September 30, 1950 (Public Law 874, 81st Congress) (as such Act was in effect on the day preceding October 20, 1994), referred to in subsecs. (a)(1), (b)(1), and (d), is act Sept. 30, 1950, ch. 1124, 64 Stat. 1100, as amended, which was classified generally to chapter 13 (§236 et seq.) of this title prior to repeal by Pub. L. 103–382, title III, §331(b), Oct. 20, 1994, 108 Stat. 3965. Section 3 of the Act was classified to section 238 of this title. For complete classification of this Act to the Code, see Tables.
+(Pub. L. 89–10, title VIII, §8009, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3764; amended Pub. L. 104–195, §10, Sept. 16, 1996, 110 Stat. 2384; Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1812\], Oct. 30, 2000, 114 Stat. 1654, 1654A–386.)
 
 #### Amendments
+
+2000—Subsec. (a)(1). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1812(1)\], struck out “or under the Act of September 30, 1950 (Public Law 874, 81st Congress) (as such Act was in effect on the day preceding October 20, 1994)” after “under this subchapter” in introductory provisions.
+
+Subsec. (b)(1). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1812(2)\], amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “A State may reduce State aid to a local educational agency that receives a payment under section 7702 or 7703(b) of this title (except the amount calculated in excess of 1.0 under subparagraph (B) of section 7703(a)(2) of this title) or under the Act of September 30, 1950 (Public Law 874, 81st Congress) as such Act was in effect on the day preceding October 20, 1994 (other than an increase in payments described in paragraphs (2)(B), (2)(C), (2)(D), or (3)(B)(ii) of section 3(d) of such Act of September 30, 1950) for any fiscal year if the Secretary determines, and certifies under subsection (c)(3)(A) of this section, that such State has in effect a program of State aid that equalizes expenditures for free public education among local educational agencies in such State.”
+
+Subsec. (d). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1812(3)\], struck out “or under the Act of September 30, 1950 (Public Law 874, 81st Congress) (as such Act was in effect on the day preceding October 20, 1994)” after “under this subchapter” wherever appearing.
 
 1996—Subsec. (b)(2)(A). Pub. L. 104–195 substituted “more than 25 percent” for “more than—
 

@@ -10,7 +10,7 @@ A prior section 228a, act Sept. 21, 1944, ch. 412, title I, §101(c), 58 Stat. 7
 
 #### Prior Provisions
 
-A prior section 408 of act Aug. 15, 1921, was renumbered section 415 and is classified to section 229 of this title.
+A prior section 408 of act Aug. 15, 1921, was renumbered section 416 and is classified to section 229 of this title.
 
 #### Amendments
 

@@ -4,7 +4,7 @@
 
 #### (1) Requirement
 
-&emsp;Notwithstanding any other provision of this subchapter, each State plan approved under this subchapter must provide that each family which was receiving aid pursuant to a plan of the State approved under part A of subchapterIV of this chapter in at least 3 of the 6 months immediately preceding the month in which such family becomes ineligible for such aid, because of hours of, or income from, employment of the caretaker relative (as defined in subsection (e) of this section) or because of section 602(a)(8)(B)(ii)(II) <sup>1</sup> of this title (providing for a time-limited earned income disregard), shall, subject to paragraph (3) and without any reapplication for benefits under the plan, remain eligible for assistance under the plan approved under this subchapter during the immediately succeeding 6-month period in accordance with this subsection.
+&emsp;Notwithstanding any other provision of this subchapter, each State plan approved under this subchapter must provide that each family which was receiving aid pursuant to a plan of the State approved under part A of subchapter IV of this chapter in at least 3 of the 6 months immediately preceding the month in which such family becomes ineligible for such aid, because of hours of, or income from, employment of the caretaker relative (as defined in subsection (e) of this section) or because of section 602(a)(8)(B)(ii)(II) <sup>1</sup> of this title (providing for a time-limited earned income disregard), shall, subject to paragraph (3) and without any reapplication for benefits under the plan, remain eligible for assistance under the plan approved under this subchapter during the immediately succeeding 6-month period in accordance with this subsection.
 
 #### (2) Notice of benefits
 
@@ -60,7 +60,7 @@
 
 #### (i) Notice during initial extension period of option and requirements
 
-&emsp;&emsp;&emsp;Each State, during the 3rd and 6th month of any extended assistance furnished to a family under subsection (a) of this section, shall notify the family of the family's option for additional extended assistance under this subsection. Each such notice shall include (I) in the 3rd month notice, a statement of the reporting requirement under subparagraph (B)(i), and,in the 6th month notice, a statement of the reporting requirement under subparagraph (B)(ii), (II) a statement as to whether any premiums are required for such additional extended assistance, and (III) a description of other out-of-pocket expenses, benefits, reporting and payment procedures, and any pre-existing condition limitations, waiting periods, or other coverage limitations imposed under any alternative coverage options offered under paragraph (4)(D). The 6th month notice under this subparagraph shall describe the amount of any premium required of a particular family for each of the first 3 months of additional extended assistance under this subsection.
+&emsp;&emsp;&emsp;Each State, during the 3rd and 6th month of any extended assistance furnished to a family under subsection (a) of this section, shall notify the family of the family's option for additional extended assistance under this subsection. Each such notice shall include (I) in the 3rd month notice, a statement of the reporting requirement under subparagraph (B)(i), and, in the 6th month notice, a statement of the reporting requirement under subparagraph (B)(ii), (II) a statement as to whether any premiums are required for such additional extended assistance, and (III) a description of other out-of-pocket expenses, benefits, reporting and payment procedures, and any pre-existing condition limitations, waiting periods, or other coverage limitations imposed under any alternative coverage options offered under paragraph (4)(D). The 6th month notice under this subparagraph shall describe the amount of any premium required of a particular family for each of the first 3 months of additional extended assistance under this subsection.
 
 #### (ii) Notice during additional extension period of reporting requirements and premiums
 
@@ -104,7 +104,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(III) the State determines that the family's average gross monthly earnings (less such costs for such child care as is necessary for the employment of the caretaker relative) during the immediately preceding 3-month period exceed 185 percent of the official poverty line (as defined by the Office of Management and Budget, and revised annually in accordance with section 9902(2) of this title) applicable to a family of the size involved.
 
-> &emsp;&emsp;Information described in clause (iii)(I) shall be subject to the restrictions on use and disclosure of information provided under section 602(a)(9) <sup>2</sup> of this title. Instead of terminating a family's extension under clause (iii)(I), a State, at its option, may provide for suspension of the extension until the month after the month in which the family reports information required under paragraph (2)(B)(ii), but only if the family's extension has not otherwise been terminated under subclause (II) or (III) of clause (iii). The State shall make determinations underclause (iii)(III) for a family each time a report under paragraph (2)(B)(ii) for the family is received.
+> &emsp;&emsp;Information described in clause (iii)(I) shall be subject to the restrictions on use and disclosure of information provided under section 602(a)(9) <sup>2</sup> of this title. Instead of terminating a family's extension under clause (iii)(I), a State, at its option, may provide for suspension of the extension until the month after the month in which the family reports information required under paragraph (2)(B)(ii), but only if the family's extension has not otherwise been terminated under subclause (II) or (III) of clause (iii). The State shall make determinations under clause (iii)(III) for a family each time a report under paragraph (2)(B)(ii) for the family is received.
 
 #### (B) Notice before termination
 
@@ -164,7 +164,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If a State offers any alternative option under subparagraph (D) for families, undereach such option the State must assure that care described in clause (ii) is available without charge to the families through—
+&emsp;&emsp;&emsp;If a State offers any alternative option under subparagraph (D) for families, under each such option the State must assure that care described in clause (ii) is available without charge to the families through—
 
 &emsp;&emsp;&emsp;&emsp;(I) payment of any deductibles, coinsurance, and other cost-sharing respecting such care, or
 
@@ -228,9 +228,9 @@ In this section, the term “caretaker relative” has the meaning of such term 
 
 #### (f) Sunset
 
-This section shall not apply with respect to families that cease to be eligible for aid under part A of subchapter IV of this chapter after September 30, 2001.
+This section shall not apply with respect to families that cease to be eligible for aid under part A of subchapter IV of this chapter after September 30, 2002.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1925, as added Pub. L. 100–485, title III, §303(a)(1), Oct. 13, 1988, 102 Stat. 2385; amended Pub. L. 100–647, title VIII, §8436(a), Nov. 10, 1988, 102 Stat. 3805; Pub. L. 101–239, title VI, §6411(i)(1), (3), Dec. 19, 1989, 103 Stat. 2273; Pub. L. 101–508, title IV, §§4601(a)(3)(B), 4716(a), Nov. 5, 1990, 104 Stat. 1388–167, 1388–192; Pub. L. 104–193, title I, §114(c), Aug. 22, 1996, 110 Stat. 2180; Pub. L. 105–33, title IV, §§4701(b)(2)(A)(ix), (D), 4703(b)(2), Aug. 5, 1997, 111 Stat. 493, 495; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(t)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–398.)
+(Aug. 14, 1935, ch. 531, title XIX, §1925, as added Pub. L. 100–485, title III, §303(a)(1), Oct. 13, 1988, 102 Stat. 2385; amended Pub. L. 100–647, title VIII, §8436(a), Nov. 10, 1988, 102 Stat. 3805; Pub. L. 101–239, title VI, §6411(i)(1), (3), Dec. 19, 1989, 103 Stat. 2273; Pub. L. 101–508, title IV, §§4601(a)(3)(B), 4716(a), Nov. 5, 1990, 104 Stat. 1388–167, 1388–192; Pub. L. 104–193, title I, §114(c), Aug. 22, 1996, 110 Stat. 2180; Pub. L. 105–33, title IV, §§4701(b)(2)(A)(ix), (D), 4703(b)(2), Aug. 5, 1997, 111 Stat. 493, 495; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(t)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–398; Pub. L. 106–554, §1(a)(6) \[title VII, §707(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–577.)
 
 #### References in Text
 
@@ -245,6 +245,8 @@ Paragraph (21) of section 1396d(a) of this title, referred to in subsec. (b)(4)(
 A prior section 1925 of act Aug. 14, 1935, was renumbered section 1928 and is classified to section 1396s of this title.
 
 #### Amendments
+
+2000—Subsec. (f). Pub. L. 106–554 substituted “2002” for “2001”.
 
 1999—Subsec. (a)(3)(C). Pub. L. 106–113, §1000(a)(6) \[title VI, §608(t)(1)\], substituted “(i)(VI), (i)(VII),” for “(i)(VI)(i)(VII),,”.
 
@@ -308,7 +310,7 @@ Section applicable to payments under this subchapter for calendar quarters begin
 
 #### References to Provisions of Part A of Subchapter IV Considered References to Such Provisions as in Effect July 16, 1996
 
-For provisions that certain references to provisions of part A (§601 et seq.) of subchapter IV of this chapterbe considered references to such provisions of part A as in effect July 16, 1996, see section 1396u–1(a) of this title.
+For provisions that certain references to provisions of part A (§601 et seq.) of subchapter IV of this chapter be considered references to such provisions of part A as in effect July 16, 1996, see section 1396u–1(a) of this title.
 
 #### Study and Report to Congress on Impact of Medicaid Extension Provisions
 

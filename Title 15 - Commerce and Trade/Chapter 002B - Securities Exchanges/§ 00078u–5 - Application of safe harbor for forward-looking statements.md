@@ -10,7 +10,7 @@ This section shall apply only to a forward-looking statement made by—
 
 &emsp;(3) an outside reviewer retained by such issuer making a statement on behalf of such issuer; or
 
-&emsp;(4) an underwriter, with respect to information provided by such issuer or informationderived from information provided by such issuer.
+&emsp;(4) an underwriter, with respect to information provided by such issuer or information derived from information provided by such issuer.
 
 #### (b) Exclusions
 
@@ -88,7 +88,7 @@ Except to the extent otherwise specifically provided by rule, regulation, or ord
 
 &emsp;&emsp;&emsp;(i) the oral forward-looking statement is accompanied by an oral statement that additional information concerning factors that could cause actual results to materially differ from those in the forward-looking statement is contained in a readily available written document, or portion thereof;
 
-&emsp;&emsp;&emsp;(ii) the accompanying oral statement referred to in clause (i) identifies the document, or portion thereof, that contains the additional information about those factors relating to the forward-looking statement; and
+&emsp;&emsp;&emsp;(ii) the accompanying oral statement referred to in clause (i) identifies the document, or portion thereof, that contains the additional information about those factorsrelating to the forward-looking statement; and
 
 &emsp;&emsp;&emsp;(iii) the information contained in that written document is a cautionary statement that satisfies the standard established in paragraph (1)(A).
 
@@ -172,7 +172,7 @@ This section not to affect or apply to any private action arising under this cha
 
 #### Construction
 
-Nothing in section to be deemed to create or ratify any implied right of action, or to prevent Commission, by rule or regulation, from restricting or otherwise regulating private actions under this chapter, see section 203 of Pub. L. 104–67, set out as a note under section 78j–1 of this title.
+Nothing in section to be deemed to create or ratify any implied right of action, or to prevent Commission, by rule or regulation, from restricting or otherwise regulating private actions under this chapter, see section203 of Pub. L. 104–67, set out as a note under section 78j–1 of this title.
 
 <i><sup>1</sup></i><i> So in original. The semicolon probably should be a comma.</i>
 

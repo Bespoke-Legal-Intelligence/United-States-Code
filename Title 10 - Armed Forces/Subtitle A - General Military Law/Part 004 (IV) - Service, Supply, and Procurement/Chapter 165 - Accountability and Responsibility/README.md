@@ -57,14 +57,6 @@ Pub. L. 96–418, title V, §506(b), Oct. 10, 1980, 94 Stat. 1766, added item 27
 
 1962—Pub. L. 87–480, §1(1)(B), June 8, 1962, 76 Stat. 94, added item 2773.
 
-#### Cross References
-
-Particular provisions relating to—
-
-&emsp;&emsp;Air Force, see section 9831 et seq. of this title.
-
-&emsp;&emsp;Army, see section 4831 et seq. of this title.
-
 
 ---
 

@@ -18,23 +18,23 @@ The Secretary shall, in accordance with subsection (b) of this section, arrange 
 
 (1) The Secretary shall request the National Academy of Sciences to conduct the study required by subsection (a) of this section under an arrangement under which the actual expenses incurred by such Academy in conducting such study will be paid by the Secretary. If the National Academy of Sciences is willing to do so, the Secretary shall enter into such an arrangement with such Academy for the conduct of such study.
 
-(2) If the National Academy of Sciences is unwilling to conduct such study under such an arrangement, then the Secretary shall enter into a similar arrangement with other appropriate nonprofit private groups or associations under which such groups or associations will conduct such study and prepare and submit the reports thereon as provided in subsection (c) of this section.
+(2) If the National Academy of Sciences is unwilling to conduct such study under such an arrangement, then the Secretary shall enter into a similar arrangement with other appropriate nonprofit private groups or associations under which such groups or associations will conduct such study and prepare and submit the reports thereon as provided in subsection (c) of this section.<sup>1</sup>
 
 (3) The National Academy of Sciences or other group or association conducting the study required by subsection (a) of this section shall conduct such study in consultation with the Director of NIH.
 
-#### (c) Report to Congressional committees
-
-A report on the results of the study required under subsection (a) of this section shall be submitted by the Secretary to the Committee on Energy and Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate at least once every four years.
-
 (July 1, 1944, ch. 373, title IV, §489, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 872; amended Pub. L. 102–321, title I, §163(b)(5), July 10, 1992, 106 Stat. 376.)
+
+#### References in Text
+
+Subsection (c), referred to in subsec. (b)(2), was omitted from the Code. See Codification note below.
+
+#### Codification
+
+Subsec. (c) of this section, which required the Secretary to submit a report on results of the study required under subsec. (a) of this section to certain committees of Congress at least once every four years, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 96 of House Document No. 103–7.
 
 #### Amendments
 
 1992—Subsec. (a)(2). Pub. L. 102–321 struck out “and institutes under the Alcohol, Drug Abuse, and Mental Health Administration” after “National Institutes of Health”.
-
-#### Change of Name
-
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1992 Amendment
 

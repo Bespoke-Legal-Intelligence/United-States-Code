@@ -1,4 +1,0 @@
-### \[§3689. Repealed. Pub. L. 104–275, title I, §103(a)(1)(A), Oct. 9, 1996, 110 Stat. 3326\]
-
-Section, added Pub. L. 92–540, title III, §316(2), Oct. 24, 1972, 86 Stat. 1087, §1789; amended Pub. L. 94–502, title V, §509(b), Oct. 15, 1976, 90 Stat. 2401; Pub. L. 95–202, title III, §305(a)(1), Nov. 23, 1977, 91 Stat. 1442; Pub. L. 96–466, title VI, §601(g), Oct. 17, 1980, 94 Stat. 2208; Pub. L. 101–237, title IV, §§418, 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2087, 2092; renumbered §3689, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406, related to approval of enrollment in courses in operation for less than two years.
-

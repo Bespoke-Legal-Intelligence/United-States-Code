@@ -22,7 +22,7 @@ The purposes of this chapter are as follows:
 
 &emsp;(2) To authorize the Architect to acquire by lease space primarily for use by the judicial branch of the Government by entering into contracts for the design and construction of a building adjacent to Union Station.
 
-&emsp;(3) To ensure that the design and construction of such building will insofar as practicable result in a building which is efficient and economical and which provides visual testimony to the dignity, enterprise, vigor, and stability of the Federal Government.
+&emsp;(3) To ensure that the design and construction of such building will insofar as practicable result in a building which is efficientand economical and which provides visual testimony to the dignity, enterprise, vigor, and stability of the Federal Government.
 
 (Pub. L. 100–480, §2, Oct. 7, 1988, 102 Stat. 2328.)
 
@@ -46,5 +46,5 @@ Pub. L. 103–4, Feb. 8, 1993, 107 Stat. 30, provided that:
 
 #### “SEC. 2. LEGAL REFERENCES.
 
-“Any reference in any law, map, regulation, document, paper, or other record of the United States to theFederal Judiciary Building referred to in section 1 shall be deemed to be a reference to the ‘Thurgood Marshall Federal Judiciary Building’.”
+“Any reference in any law, map, regulation, document, paper, or other record of the United States to the Federal Judiciary Building referred to in section 1 shall be deemed to be a reference to the ‘Thurgood Marshall Federal Judiciary Building’.”
 

@@ -8,10 +8,6 @@ Each reserve officer of the Army, Navy, Air Force, or Marine Corps who is in an 
 
 (Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2953.)
 
-#### Cross References
-
-Reserve components, limitations on separation inapplicable to discharges under this section, see section 12683 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 12646, 12683, 14507, 14508, 14516, 14517, 14701, 14704, 14705 of this title.

@@ -20,7 +20,3 @@ In view of Rule 4(f) of the Federal Rules of Civil Procedure permitting service 
 
 Changes were made in phraseology.
 
-#### Federal Rules of Civil Procedure
-
-Process and relief from judgment or order, see rules 4 and 60, Appendix to this title.
-

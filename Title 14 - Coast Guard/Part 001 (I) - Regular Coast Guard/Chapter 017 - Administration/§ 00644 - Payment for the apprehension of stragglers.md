@@ -14,7 +14,3 @@ The limitation as to amount that could be offered is removed.
 
 The provision concerning money due the deserter is eliminated. 81st Congress, House Report No. 557.
 
-#### Cross References
-
-Deserters, payment of expenses incident to apprehension and delivery, see section 508 of this title.
-

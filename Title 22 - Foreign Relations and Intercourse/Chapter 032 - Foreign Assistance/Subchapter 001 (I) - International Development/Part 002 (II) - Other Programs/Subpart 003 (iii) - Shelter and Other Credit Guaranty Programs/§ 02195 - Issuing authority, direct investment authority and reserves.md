@@ -70,7 +70,7 @@ Subsec. (a)(2). Pub. L. 103–392, §102, amended heading and text of par. (2). 
 
 Subsec. (a)(3). Pub. L. 103–392, §103, substituted “1996” for “1994”.
 
-Subsec. (g). Pub. L. 103–392, §104, struck out heading and text of subsec. (g). Text read as follows: “Subjectto spending authority provided in appropriations Acts, the Corporation is authorized to draw from its noncredit account revolving fund for the administrative costs of its direct loan and loan guarantee programs—
+Subsec. (g). Pub. L. 103–392, §104, struck out heading and text of subsec. (g). Text read as follows: “Subject to spending authority provided in appropriations Acts, the Corporation is authorized to draw from its noncredit account revolving fund for the administrative costs of its direct loan and loan guarantee programs—
 
 &emsp;“(1) $8,128,000 for fiscal year 1993; and
 

@@ -14,7 +14,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;For the purposes of this subsection, Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of theNorthern Mariana Islands shall not be considered to be States.
+&emsp;&emsp;For the purposes of this subsection, Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands shall not be considered to be States.
 
 #### (B) Allotment
 

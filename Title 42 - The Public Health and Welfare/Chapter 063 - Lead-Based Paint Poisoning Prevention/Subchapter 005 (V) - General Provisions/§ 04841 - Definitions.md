@@ -24,7 +24,7 @@ Such date of enactment, referred to in par. (3)(B)(ii), probably means the date 
 
 1992—Par. (3)(B)(i). Pub. L. 102–531 substituted “Centers for Disease Control and Prevention” for “Center for Disease Control”.
 
-1976—Par. (3). Pub. L. 94–317 substituted provisions redefining standards for lead in paint and procedures usedto determine such standards, for provisions defining standards of lead-based paint to be paint containing more than five-tenths of 1 per centum of lead by weight prior to Dec. 31, 1974, and after such date, paint containing more than six one-hundredths of 1 per centum of lead by weight, except where the Chairman of the Consumer Product Safety Commission determined that the pre-1974 level was safe, then such level to become effective.
+1976—Par. (3). Pub. L. 94–317 substituted provisions redefining standards for lead in paint and procedures used to determine such standards, for provisions defining standards of lead-based paint to be paint containing more than five-tenths of 1 per centum of lead by weight prior to Dec. 31, 1974, and after such date, paint containing more than six one-hundredths of 1 per centum of lead by weight, except where the Chairman of the Consumer Product Safety Commission determined that the pre-1974 level was safe, then such level to become effective.
 
 1973—Par. (3). Pub. L. 93–151 amended par. (3). Prior to amendment, par. (3) defined “lead-based paint” to mean any paint containing more than 1 per centum lead by weight (calculated as lead metal) in the total non-volatile content of liquid paints or in the dried film of paint already applied.
 

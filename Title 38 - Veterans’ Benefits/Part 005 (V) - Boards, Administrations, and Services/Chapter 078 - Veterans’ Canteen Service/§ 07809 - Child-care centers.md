@@ -8,7 +8,7 @@
 
 (c) In connection with the establishment and operation of any child-care center under this section, the Secretary—
 
-&emsp;(1) shall furnish, at no cost to the center, space in existing Department facilities and utilities, custodial services, and other services and amenities necessary (as determined by the Secretary) for the health and safety of the children provided care at the center;
+&emsp;(1) shall furnish, at no cost to the center, space in existing Department facilities and utilities, custodial services, and other services and amenities necessary (as determined by theSecretary) for the health and safety of the children provided care at the center;
 
 &emsp;(2) may, on a reimbursable basis, convert space furnished under clause (1) of this subsection for use as the child-care center and provide other items necessary for the operation of the center, including furniture, office machines and equipment, and telephone service, except that the Secretary may furnish basic telephone service and surplus furniture and equipment without reimbursement;
 

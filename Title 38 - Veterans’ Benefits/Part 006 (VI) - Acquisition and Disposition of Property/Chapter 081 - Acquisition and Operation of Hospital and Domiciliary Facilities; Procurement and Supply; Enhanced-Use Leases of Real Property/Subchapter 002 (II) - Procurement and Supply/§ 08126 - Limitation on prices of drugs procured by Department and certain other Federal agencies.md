@@ -66,7 +66,7 @@
 
 &emsp;&emsp;(A) the non-Federal average manufacturer price of the drug during the 3-month period that ends with the month preceding the month during which a contract goes into effect (or, in the case of a covered drug for which sufficient data for determining the non-Federal average manufacturer price during such period is not available, during such period as the Secretary considers appropriate); minus
 
-&emsp;&emsp;(B) the non-Federal average manufacturer price of the drug during the 3-month period that ends one year before the end of the period described in subparagraph (A) (or, in the case of a covered drug for which sufficientdata for determining the non-Federal average manufacturer price during such period is not available, during such period preceding the period described in subparagraph (A) as the Secretary considers appropriate).
+&emsp;&emsp;(B) the non-Federal average manufacturer price of the drug during the 3-month period that ends one year before the end of the period described in subparagraph (A) (or, in the case of a covered drug for which sufficient data for determining the non-Federal average manufacturer price during such period is not available, during such period preceding the period described in subparagraph (A) as the Secretary considers appropriate).
 
 &emsp;(2) The term “covered drug” means—
 

@@ -12,13 +12,15 @@ As used in this chapter, unless the context otherwise requires:
 
 &emsp;(5) The term “United States” means, when used in a geographical sense, all of the States as defined in paragraph (4) of this section.
 
-&emsp;(6) The term “lifelines” means public works and utilities, including transportation facilities and infrastructure, oil and gas pipelines, electrical power and communication facilities, and water supply and sewage treatment facilities.
+&emsp;(6) The term “lifelines” means public works and utilities, including transportation facilities and infrastructure, oil and gas pipelines, electrical power and communication facilities and infrastructure, and water supply and sewage treatment facilities.
 
 &emsp;(7) The term “Program agencies” means the Federal Emergency Management Agency, the United States Geological Survey, the National Science Foundation, and the National Institute of Standards and Technology.
 
-(Pub. L. 95–124, §4, Oct. 7, 1977, 91 Stat. 1099; Pub. L. 101–614, §4, Nov. 16, 1990, 104 Stat. 3232.)
+(Pub. L. 95–124, §4, Oct. 7, 1977, 91 Stat. 1099; Pub. L. 101–614, §4, Nov. 16, 1990, 104 Stat. 3232; Pub. L. 106–503, title II, §209, Nov. 13, 2000, 114 Stat. 2308.)
 
 #### Amendments
+
+2000—Par. (6). Pub. L. 106–503 inserted “and infrastructure” after “communication facilities”.
 
 1990—Par. (2). Pub. L. 101–614, §4(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘program’ means the earthquake hazards reduction program established under section 7704 of this title.”
 

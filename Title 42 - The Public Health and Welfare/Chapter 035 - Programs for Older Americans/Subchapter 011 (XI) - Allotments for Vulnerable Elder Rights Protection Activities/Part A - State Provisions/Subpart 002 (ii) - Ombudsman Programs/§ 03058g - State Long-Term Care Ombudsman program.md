@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;In order to be eligible to receive an allotment under section 3058b of this title from funds appropriated under section 3058a(a) of this title, a State agency shall, in accordance with this section—
+&emsp;In order to be eligible to receive an allotment under section 3058b of this title from funds appropriated under section 3058a of this title and made available to carry out this subpart, a State agency shall, in accordance with this section—
 
 &emsp;&emsp;(A) establish and operate an Office of the State Long-Term Care Ombudsman; and
 
@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(C) inform the residents about means of obtaining services provided by providers or agencies described in subparagraph (A)(ii) or services described in subparagraph (B);
 
-&emsp;&emsp;(D) ensure that the residents have regular and timely access to the services provided through the Office and that the residents and complainants receive timely responses from representatives of the Office to complaints;
+&emsp;&emsp;(D) ensure that the residents have regular and timely access to the services provided through the Office and that the residentsand complainants receive timely responses from representatives of the Office to complaints;
 
 &emsp;&emsp;(E) represent the interests of the residents before governmental agencies and seek administrative, legal, and other remedies to protect the health, safety, welfare, and rights of the residents;
 
@@ -100,7 +100,7 @@
 
 &emsp;&emsp;&emsp;(i) have demonstrated capability to carry out the responsibilities of the Office;
 
-&emsp;&emsp;&emsp;(ii) be free of conflicts of interest;
+&emsp;&emsp;&emsp;(ii) be free of conflicts of interest and not stand to gain financially through an action or potential action brought on behalf of individuals the Ombudsman serves;
 
 &emsp;&emsp;&emsp;(iii) in the case of the entities, be public or nonprofit private entities; and
 
@@ -118,7 +118,7 @@
 
 #### (iii) Confidentiality and disclosure
 
-&emsp;&emsp;&emsp;The State agency shall develop the policies and procedures in accordance with all provisions of this part regarding confidentiality and conflict of interest.
+&emsp;&emsp;&emsp;The State agency shall develop the policies and procedures in accordance with allprovisions of this part regarding confidentiality and conflict of interest.
 
 #### (b) Procedures for access
 
@@ -164,7 +164,7 @@ The State agency shall establish a statewide uniform reporting system to—
 
 &emsp;&emsp;(C) the Assistant Secretary; and
 
-&emsp;&emsp;(D) the National Ombudsman Resource Center established in section 3012(a)(21) of this title.
+&emsp;&emsp;(D) the National Ombudsman Resource Center established in section 3012(a)(21) <sup>2</sup> of this title.
 
 #### (d) Disclosure
 
@@ -264,21 +264,19 @@ The State agency shall require the Office to—
 
 &emsp;(B) make available to the public, and submit to the Assistant Secretary, the chief executive officer of the State, the State legislature, the State agency responsible for licensing or certifying long-term care facilities, and other appropriate governmental entities, each report prepared under paragraph (1);
 
-&emsp;(4)(A) not later than 1 year after September 30, 1992, establish procedures for the training of the representatives of the Office, including unpaid volunteers, based on model standards established by the Director of the Office of Long-Term Care Ombudsman Programs, in consultation with representatives of citizen groups, long-term care providers, and the Office, that—
+&emsp;(4) strengthen and update procedures for the training of the representatives of the Office, including unpaid volunteers, based on model standards established by the Director of the Office of Long-Term Care Ombudsman Programs, in consultation with representatives of citizen groups, long-term care providers, and the Office, that—
 
-&emsp;&emsp;(i) specify a minimum number of hours of initial training;
+&emsp;&emsp;(A) specify a minimum number of hours of initial training;
 
-&emsp;&emsp;(ii) specify the content of the training, including training relating to—
+&emsp;&emsp;(B) specify the content of the training, including training relating to—
 
-&emsp;&emsp;&emsp;(I) Federal, State, and local laws, regulations, and policies, with respect to long-term care facilities in the State;
+&emsp;&emsp;&emsp;(i) Federal, State, and local laws, regulations, and policies, with respect to long-term care facilities in the State;
 
-&emsp;&emsp;&emsp;(II) investigative techniques; and
+&emsp;&emsp;&emsp;(ii) investigative techniques; and
 
-&emsp;&emsp;&emsp;(III) such other matters as the State determines to be appropriate; and
+&emsp;&emsp;&emsp;(iii) such other matters as the State determines to be appropriate; and
 
-&emsp;&emsp;(iii) specify an annual number of hours of in-service training for all designated representatives; and
-
-&emsp;(B) require implementation of the procedures not later than 21 months after September 30, 1992;
+&emsp;&emsp;(C) specify an annual number of hours of in-service training for all designated representatives;
 
 &emsp;(5) prohibit any representative of the Office (other than the Ombudsman) from carrying out any activity described in subparagraphs (A) through (G) of subsection (a)(3) of this section unless the representative—
 
@@ -288,13 +286,15 @@ The State agency shall require the Office to—
 
 &emsp;(6) coordinate ombudsman services with the protection and advocacy systems for individuals with developmental disabilities and mental illnesses established under—
 
-&emsp;&emsp;(A) part A of the Developmental Disabilities Assistance and Bill of Rights Act \[42 U.S.C. 6000 et seq.\]; and
+&emsp;&emsp;(A) subtitle C of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 \[42 U.S.C. 15041 et seq.\]; and
 
-&emsp;&emsp;(B) the Protection and Advocacy for Mentally Ill Individuals Act of 1986 (42 U.S.C. 10801 et seq.);
+&emsp;&emsp;(B) the Protection and Advocacy for Mentally Ill Individuals Act of 1986 <sup>3</sup> (42 U.S.C. 10801 et seq.);
 
-&emsp;(7) coordinate, to the greatest extent possible, ombudsman services with legal assistance provided under section 3026(a)(2)(C) of this title, through adoption of memoranda of understanding and other means; and
+&emsp;(7) coordinate, to the greatest extent possible, ombudsman services with legal assistance provided under section 3026(a)(2)(C) of this title, through adoption of memoranda of understanding and other means;
 
-&emsp;(8) permit any local Ombudsman entity to carry out the responsibilities described in paragraph (1), (2), (3), (6), or (7).
+&emsp;(8) coordinate services with State and local law enforcement agencies and courts of competent jurisdiction; and
+
+&emsp;(9) permit any local Ombudsman entity to carry out the responsibilities described in paragraph (1), (2), (3), (6), or (7).
 
 #### (i) Liability
 
@@ -310,15 +310,27 @@ The State shall—
 
 &emsp;(3) provide for appropriate sanctions with respect to the interference, retaliation, and reprisals.
 
-(Pub. L. 89–73, title VII, §712, as added Pub. L. 102–375, title VII, §702, Sept. 30, 1992, 106 Stat. 1276; amended Pub. L. 103–171, §3(a)(9), Dec. 2, 1993, 107 Stat. 1990.)
+(Pub. L. 89–73, title VII, §712, as added Pub. L. 102–375, title VII, §702, Sept. 30, 1992, 106 Stat. 1276; amended Pub. L. 103–171, §3(a)(9), Dec. 2, 1993, 107 Stat. 1990; Pub. L. 106–402, title IV, §401(b)(9)(D), Oct. 30, 2000, 114 Stat. 1739; Pub. L. 106–501, title VII, §704, title VIII, §801(e)(2), Nov. 13, 2000, 114 Stat. 2289, 2293.)
 
 #### References in Text
 
-The Developmental Disabilities Assistance and Bill of Rights Act, referred to in subsec. (h)(6)(A), is title I of Pub. L. 88–164, as added by Pub. L. 98–527, §2, Oct. 19, 1984, 98 Stat. 2662, and amended. Part A of the Act is classified generally to subchapter I (§6000 et seq.) of chapter 75 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6000 of this title and Tables.
+Section 3012(a)(21) of this title, referred to in subsec. (c)(2)(D), was redesignated section 3012(a)(18) of this title by Pub. L. 106–501, title II, §201(1)(B), Nov. 13, 2000, 114 Stat. 2229.
 
-The Protection and Advocacy for Mentally Ill Individuals Act of 1986, referred to in subsec. (h)(6)(B), is Pub. L. 99–319, May 23, 1986, 100 Stat. 478, as amended, which is classified generally to chapter 114 (§10801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 10801 of this title and Tables.
+The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsec. (h)(6)(A), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677. Subtitle C of the Act probably means subtitle C of title I of the Act, which is classified generally to part C (§15041 et seq.) of subchapter I of chapter 144 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of this title and Tables.
+
+The Protection and Advocacy for Mentally Ill Individuals Act of 1986, referred to in subsec. (h)(6)(B), was Pub. L. 99–319, May 23, 1986, 100 Stat. 478, as amended. Pub. L. 99–319 was renamed the Protection and Advocacy for Individuals with Mental Illness Act by Pub. L. 106–310, div. B, title XXXII, §3206(a), Oct. 17, 2000, 114 Stat. 1193, and is classified generally to chapter 114 (§10801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 10801 of this title and Tables.
 
 #### Amendments
+
+2000—Subsec. (a)(1). Pub. L. 106–501, §801(e)(2), substituted “section 3058a of this title and made available to carry out this subpart” for “section 3058a(a) of this title” in introductory provisions.
+
+Subsec. (a)(5)(C)(ii). Pub. L. 106–501, §704(1), inserted “and not stand to gain financially through an action or potential action brought on behalf of individuals the Ombudsman serves” after “interest”.
+
+Subsec. (h)(4). Pub. L. 106–501, §704(2)(A), substituted “strengthen and update” for “(A) not later than 1 year after September 30, 1992, establish” in introductory provisions, redesignated cls. (i) and (ii) of former subpar. (A) as subpars. (A) and (B), respectively, redesignated subcls. (I) to (III) of former subpar. (A)(ii) as cls. (i) to (iii), respectively, of subpar. (B), redesignated cl. (iii) of former subpar. (A) as subpar. (C) and struck out “and” at end, and struck out former subpar. (B) which read as follows: “require implementation of the procedures not later than 21 months after September 30, 1992;”.
+
+Subsec. (h)(6)(A). Pub. L. 106–402 substituted “subtitle C of the Developmental Disabilities Assistance and Bill of Rights Act of 2000” for “part A of the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6001 et seq.)”.
+
+Subsec. (h)(8), (9). Pub. L. 106–501, §704(2)(B)–(D), added par. (8) and redesignated former par. (8) as (9).
 
 1993—Subsecs. (a)(3)(I), (c)(2)(C), (h)(3)(B). Pub. L. 103–171, §3(a)(9)(B), substituted “Assistant Secretary” for “Commissioner”.
 
@@ -328,7 +340,11 @@ Subsec. (j)(1). Pub. L. 103–171, §3(a)(9)(B), substituted “Assistant Secret
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1395i–3, 1396r, 3002, 3011, 3018, 3021, 3027, 3030<i>l</i>, 3035<i>o</i>, 3058d, 3058f, 3058h of this title.
+This section is referred to in sections 1395i–3, 1396r, 3002, 3011, 3018, 3021, 3027, 3058d, 3058f, 3058h of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
+
+<i><sup>3</sup></i><i> See References in Text note below.</i>
 

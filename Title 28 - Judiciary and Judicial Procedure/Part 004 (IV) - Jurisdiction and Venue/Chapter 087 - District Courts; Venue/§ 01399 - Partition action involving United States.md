@@ -16,7 +16,3 @@ Provision with respect to property in different districts was added to conform w
 
 Changes were made in phraseology.
 
-#### Cross References
-
-Jurisdiction of district court in partition action where United States is tenant in common or joint tenant, see section 1347 of this title.
-

@@ -58,9 +58,3 @@ The words “appointed as . . . under section 4 of this title” are omitted a
 
 1958—Subsec. (a). Pub. L. 85–861 included female citizens of the United States who are commissioned officers of the National Guard.
 
-#### Cross References
-
-Congressional power to provide for organization, equipment, discipline, and government of Militia, see Const. Art. I, §8, cl. 16.
-
-Declaration of intention to become a citizen of the United States, see section 1445 of Title 8, Aliens and Nationality.
-

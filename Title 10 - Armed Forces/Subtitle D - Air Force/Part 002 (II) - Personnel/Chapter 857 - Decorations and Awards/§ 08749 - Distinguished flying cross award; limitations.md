@@ -34,7 +34,3 @@ July 2, 1926, ch. 721, §12 (less 1st 49 words of last sentence), 44 Stat. 789; 
 
 In subsection (a), the words “under such rules and regulations as he may prescribe” are omitted, since the President has inherent authority to issue regulations appropriate to exercising his functions. The words “but not in the name of Congress” are omitted as surplusage, since a medal is presented in the name of Congress only if the law so directs. The word “award” is substituted for the word “present” to cover the determination of the recipients as well as the actual presentation of the medal. The words “since the 6th day of April, 1917, has distinguished, or who, after July 2, 1926” and 10:1429 (proviso of 1st sentence) are omitted as executed.
 
-#### Cross References
-
-Award of distinguished flying cross to members of Army and Navy, see sections 3749 and 6245 of this title.
-

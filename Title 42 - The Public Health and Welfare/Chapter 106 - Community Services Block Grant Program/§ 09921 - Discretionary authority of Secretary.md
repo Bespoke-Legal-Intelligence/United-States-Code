@@ -56,7 +56,11 @@ A prior section 680 of Pub. L. 97–35 was classified to section 9909 of this ti
 
 #### Procedures To Permit Grant Funds or Intangible Property Acquired by Grant Funds To Become Sole Property of Grantees
 
-Pub. L. 106–113, div. B, §1000(a)(4) \[title II\], Nov. 29, 1999, 113 Stat. 1535, 1501A–235, provided in part: “That the Secretary shall establish procedures regarding the disposition of intangible property which permits grant funds, or intangible assets acquired with funds authorized under section 680 of the Community Services Block Grant Act, as amended \[42 U.S.C. 9921\], to become the sole property of such grantees after a period of not more than 12 years after the end of the grant for purposes and uses consistent with the original grant”.
+Pub. L. 106–554, §1(a)(1) \[title II\], Dec. 21, 2000, 114 Stat. 2763, 2763A–23, provided in part: “That the Secretary shall establish procedures regarding the disposition of intangible property which permits grant funds, or intangible assets acquired with funds authorized under section 680 of the Community Services Block Grant Act, as amended \[42 U.S.C. 9921\], to become the sole property of such grantees after a period of not more than 12 years after the end of the grant for purposes and uses consistent with the original grant.”
+
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 106–113, div. B, §1000(a)(4) \[title II\], Nov. 29, 1999, 113 Stat. 1535, 1501A–235.
 
 #### Section Referred to in Other Sections
 

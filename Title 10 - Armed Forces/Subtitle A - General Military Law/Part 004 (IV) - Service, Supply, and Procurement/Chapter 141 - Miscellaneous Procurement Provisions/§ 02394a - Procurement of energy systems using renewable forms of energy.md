@@ -2,13 +2,13 @@
 
 (a) In procuring energy systems the Secretary of a military department shall procure systems that use solar energy or other renewable forms of energy whenever the Secretary determines that such procurement is possible and will be cost effective, reliable, and otherwise suited to supplying the energy needs of the military department under his jurisdiction.
 
-(b) The Secretary of Defense shall from time to time study uses for solar energy and other renewable forms of energy to determine what usesof such forms of energy may be cost effective and reliable in supplying the energy needs of the Department of Defense. The Secretary of Defense, based upon the results of such studies, shall from time to time issue policy guidelines to be followed by the Secretaries of the military departments in carrying out subsection (a) and section 2857 of this title.
+(b) The Secretary of Defense shall from time to time study uses for solar energy and other renewable forms of energy to determine what uses of such forms of energy may be cost effective and reliable in supplying the energy needs of the Department of Defense. The Secretary of Defense, based upon the results of such studies, shall from time to time issue policy guidelines to be followed by the Secretaries of the military departments in carrying out subsection (a) and section 2857 of this title.
 
 (c)(1) For the purposes of this section, an energy system using solar energy or other renewable forms of energy shall be considered to be cost effective if the difference between (A) the original investment cost of the energy system using such a form of energy, and (B) the original investment cost of the energy system not using such a form of energy can be recovered over the expected life of the system.
 
 (2) A determination under paragraph (1) concerning whether a cost-differential can be recovered over the expected life of a system shall be made using the life-cycle cost methods and procedures established pursuant to section 544(a) of the National Energy Conservation Policy Act (42 U.S.C. 8254(a)).
 
-(Added Pub. L. 97–321, title VIII, §801(a)(1), Oct. 15, 1982, 96 Stat. 1569; amended Pub. L. 98–525, title XIV, §1405(36), Oct. 19, 1984, 98 Stat. 2624; Pub. L. 101–510, div. A, title XIII, §1322(a)(7), div. B, title XXVIII, §2852(a), Nov. 5, 1990, 104 Stat. 1671, 1804; Pub. L. 102–25, title VII, §701(g)(2), Apr. 6, 1991, 105 Stat. 115.)
+(Added Pub. L. 97–321, title VIII, §801(a)(1), Oct. 15, 1982, 96 Stat. 1569; amended Pub. L. 98–525,title XIV, §1405(36), Oct. 19, 1984, 98 Stat. 2624; Pub. L. 101–510, div. A, title XIII, §1322(a)(7), div. B, title XXVIII, §2852(a), Nov. 5, 1990, 104 Stat. 1671, 1804; Pub. L. 102–25, title VII, §701(g)(2), Apr. 6, 1991, 105 Stat. 115.)
 
 #### Amendments
 

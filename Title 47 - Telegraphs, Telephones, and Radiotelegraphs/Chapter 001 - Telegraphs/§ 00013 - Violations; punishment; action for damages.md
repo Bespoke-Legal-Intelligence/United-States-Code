@@ -12,12 +12,6 @@ Words “circuit or” which preceded “district court” were omitted in view 
 
 Duties, powers, and functions under this section relating to operation of telegraph lines by railroad and telegraph lines granted Government aid in construction of their lines imposed on and vested in Federal Communications Commission by act June 19, 1934. See section 601 of this title.
 
-#### Federal Rules of Civil Procedure
-
-Continuation of section under rule 4, see note by Advisory Committee under rule 4, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-Process, see rule 4, Title 28, Appendix.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 12, 15, 601 of this title.

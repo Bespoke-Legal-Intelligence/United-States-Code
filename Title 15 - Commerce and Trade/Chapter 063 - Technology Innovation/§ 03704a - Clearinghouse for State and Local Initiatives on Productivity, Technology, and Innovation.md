@@ -16,7 +16,7 @@ The Clearinghouse may—
 
 &emsp;(4) provide technical assistance and advice to such governments with respect to such initiatives, including assistance in determining sources of assistance from Federal agencies which may be available to support such initiatives;
 
-&emsp;(5) study ways in which Federal agencies, including Federal laboratories, are able to use their existing policies and programs to assist State and local governments, and regional and multistate organizations of such governments, to enhance the competitiveness of American business;
+&emsp;(5) study ways in which Federal agencies, including Federal laboratories, are able to use their existing policies and programs to assist State and local governments, and regional and multistate organizations of such governments,to enhance the competitiveness of American business;
 
 &emsp;(6) make periodic recommendations to the Secretary, and to other Federal agencies upon their request, concerning modifications in Federal policies and programs which would improve Federal assistance to State and local technology and business assistance programs;
 
@@ -28,11 +28,11 @@ The Clearinghouse may—
 
 In carrying out subsection (b) of this section, the Secretary may enter into contracts for the purpose of collecting information on the nature, extent, and effects of initiatives.
 
-#### (d) Triennial report
-
-The Secretary shall prepare and transmit to the Congress once each 3 years a report on initiatives by State and local governments to enhance the competitiveness of American businesses through the stimulation of productivity, technology, and innovation. The report shall include recommendations to the President, the Congress, and to Federal agencies on the appropriate Federal role in stimulating State and local efforts in this area. The first of these reports shall be transmitted to the Congress before January 1, 1989.
-
 (Pub. L. 96–480, §6, as added Pub. L. 100–418, title V, §5122(a)(2), Aug. 23, 1988, 102 Stat. 1438.)
+
+#### Codification
+
+Subsec. (d) of this section, which required the Secretary to prepare and transmit a triennial report to Congress, including recommendations to the President, Congress, and Federal agencies, on initiatives by State and local governments to enhance the competitiveness of American businesses through the stimulation of productivity, technology, and innovation, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 50 of House Document No. 103–7.
 
 #### Section Referred to in Other Sections
 

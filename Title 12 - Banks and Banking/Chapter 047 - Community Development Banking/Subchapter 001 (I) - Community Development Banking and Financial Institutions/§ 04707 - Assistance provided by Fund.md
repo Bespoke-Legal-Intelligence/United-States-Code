@@ -72,7 +72,7 @@
 
 #### (1) Types of activities
 
-&emsp;Technical assistance may be used for activities that enhance the capacity of a community development financial institution, such as training of management and other personnel and development of programs and investment or loan products.
+&emsp;Technical assistance may be used for activities that enhance the capacity of a communitydevelopment financial institution, such as training of management and other personnel and development of programs and investment or loan products.
 
 #### (2) Availability of technical assistance
 

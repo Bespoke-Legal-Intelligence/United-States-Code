@@ -20,13 +20,13 @@ Changes in arrangement and phraseology were made.
 
 #### Amendments
 
-1984—Pub. L. 98–620 provided for holding court at Boulder.
+<b>1984</b>—Pub. L. 98–620 provided for holding court at Boulder.
 
 #### Effective Date of 1984 Amendment
 
 Section 411 of Pub. L. 98–620 provided that:
 
-“(a) The amendments made by this subtitle \[subtitle B (§§404–411) of title IV of Pub. L. 98–620, amending this section and sections 90, 93, 112, 124, and 126 of this titleand enacting provisions set out as notes under sections 1, 90, 93, and 124 of this title\] shall take effect on January 1, 1985.
+“(a) The amendments made by this subtitle \[subtitle B (§§404–411) of title IV of Pub. L. 98–620, amending this section and sections 90, 93, 112, 124, and 126 of this title and enacting provisions set out as notes under sections 1, 90, 93, and 124 of this title\] shall take effect on January 1, 1985.
 
 “(b) The amendments made by this subtitle shall not affect the composition, or preclude the service, of any grand or petit jury summoned, impaneled, or actually serving on the effective date of this subtitle \[Jan. 1, 1985\].”
 

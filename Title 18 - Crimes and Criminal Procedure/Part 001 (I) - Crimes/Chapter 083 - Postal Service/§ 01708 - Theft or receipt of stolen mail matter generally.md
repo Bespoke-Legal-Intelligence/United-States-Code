@@ -40,12 +40,6 @@ This section \[section 39\] corrects a typographical error in section 1708 of ti
 
 1949—Act May 24, 1949, substituted “buys” for “buy” in third par.
 
-#### Cross References
-
-Larceny from mail, see section 2114 of this title.
-
-Temporary employees of the postal service or carriers with custody, see section 1008 of Title 39, Postal Service.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1956 of this title; title 39 section 1008.

@@ -48,7 +48,7 @@ Scholarships awarded under this subsection <sup>1</sup> shall only be used to a
 
 (B) An agreement under subparagraph (A) shall contain assurances that the participant shall—
 
-&emsp;(i) after successful completion of a baccalaureate program and training as prescribed insection 14097 of this title, work for 4 years in a State or local police force without there having arisen sufficient cause for the participant's dismissal under the rules applicable to members of the police force of which the participant is a member;
+&emsp;(i) after successful completion of a baccalaureate program and training as prescribed in section 14097 of this title, work for 4 years in a State or local police force without there having arisen sufficient cause for the participant's dismissal under the rules applicable to members of the police force of which the participant is a member;
 
 &emsp;(ii) complete satisfactorily—
 

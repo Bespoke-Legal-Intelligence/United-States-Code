@@ -2,7 +2,7 @@
 
 #### (a) Authorization; requirements; scope
 
-If the report of the Secretary submitted pursuant to section 1521 of this title affirmatively recommends the establishment of the program and the Congress by law (after review of such recommendation) specifically authorizes the establishment of the program, the Secretary shall establish and implement within six months after thedate of the enactment of such authorization a program, in cooperation with the insurance and reinsurance industry, to provide reservoir insurance to qualified eligible applicants in accordance with this section.
+If the report of the Secretary submitted pursuant to section 1521 of this title affirmatively recommends the establishment of the program and the Congress by law (after review of such recommendation) specifically authorizes the establishment of the program, the Secretary shall establish and implement within six months after the date of the enactment of such authorization a program, in cooperation with the insurance and reinsurance industry, to provide reservoir insurance to qualified eligible applicants in accordance with this section.
 
 #### (b) Definitions
 
@@ -28,7 +28,7 @@ Any person with a total direct investment of not less than $1,000,000 in the dev
 
 #### (d) Application for investment insurance; contents, etc.
 
-Any eligible person seeking investment insurance under this section shall file an application with the Secretary setting forth (1) the total amount of the contemplated investment in a geothermal resource and associated reservoir; (2) the views of the applicant concerning the nature and extent of the risk, including a geologic, engineering, and financial assessment based on site specific results of exploration and testing of the geothermal resource and the reservoir, stated with as much specificity as is possible; (3) the status of all required Federal, State, and local approvals, permits, and leases for the proposed development and utilization operations at the site; (4) the extent to which the applicant has been able to obtain other insurance against the risk; and (5) such other information as the Secretary may require.
+Any eligible person seeking investment insurance under this section shall file an application with the Secretary setting forth (1) the total amount of the contemplated investment in ageothermal resource and associated reservoir; (2) the views of the applicant concerning the nature and extent of the risk, including a geologic, engineering, and financial assessment based on site specific results of exploration and testing of the geothermal resource and the reservoir, stated with as much specificity as is possible; (3) the status of all required Federal, State, and local approvals, permits, and leases for the proposed development and utilization operations at the site; (4) the extent to which the applicant has been able to obtain other insurance against the risk; and (5) such other information as the Secretary may require.
 
 #### (e) Determinations respecting application for insurance
 

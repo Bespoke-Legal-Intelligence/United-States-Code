@@ -1,6 +1,6 @@
 ### §178. Congressional findings and declaration of policy
 
-(a)(1) Congress recognizes that natural latex rubber is a commodity of vital importance to the economy, the defense, and the general well-being of the Nation. The United States is totally dependent upon foreign sources for its supplies of natural (Hevea) latex, which total about one million tons per year. Synthetic rubber, manufactured from petroleum feedstocks, cannot be substituted for natural rubber.
+(a)(1) Congress recognizes that natural latex rubber is a commodity of vital importance to the economy, the defense, and the general well-being of the Nation. The United States is totally dependent upon foreign sources for its suppliesof natural (Hevea) latex, which total about one million tons per year. Synthetic rubber, manufactured from petroleum feedstocks, cannot be substituted for natural rubber.
 
 (2) Congress further recognizes that certain plant species of the genus Parthenium (Guayule), native to Texas and the Republic of Mexico, as well as other plants, are known to contain commercial quantities of extractable rubber. During World War II, through research carried out by the Secretary of Agriculture in the Emergency Rubber Project, the United States demonstrated that Parthenium latex is a promising and realistic substitute for Hevea latex.
 

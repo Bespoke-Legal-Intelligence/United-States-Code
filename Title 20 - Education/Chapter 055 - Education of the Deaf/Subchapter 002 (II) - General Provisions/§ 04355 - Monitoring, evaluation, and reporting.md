@@ -14,10 +14,6 @@ There are authorized to be appropriated such sums as may be necessary for each o
 
 (Pub. L. 99–371, title II, §205, formerly title IV, §405, Aug. 4, 1986, 100 Stat. 790; renumbered title II, §205, and amended Pub. L. 102–421, title I, §§101(b)(5), (6), 135(a), Oct. 16, 1992, 106 Stat. 2151, 2158; Pub. L. 103–73, title II, §204(d), Aug. 11, 1993, 107 Stat. 735; Pub. L. 105–244, title IX, §918, Oct. 7, 1998, 112 Stat. 1831.)
 
-#### Codification
-
-Section is also set out in D.C. Code, §31–1842.5.
-
 #### Amendments
 
 1998—Subsec. (c). Pub. L. 105–244 substituted “1998 through 2003” for “1993, 1994, 1995, 1996, and 1997”.

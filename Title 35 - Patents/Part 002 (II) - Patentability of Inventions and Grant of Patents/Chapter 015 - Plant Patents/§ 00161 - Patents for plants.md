@@ -16,9 +16,3 @@ The provision relating to plants in the corresponding section of existing statut
 
 1954—Act Sept. 3, 1954, provided that plant seedlings, discovered, propagated asexually, and proved to have new characteristics distinct from other known plants are patentable.
 
-#### Cross References
-
-Patentability of inventions generally, see section 100 et seq. of this title.
-
-Plant Variety Protection, see section 2321 et seq. of Title 7, Agriculture.
-

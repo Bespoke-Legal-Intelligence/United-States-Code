@@ -36,21 +36,3 @@ Amendment by section 308(d)(4)(M) of Pub. L. 104–208 effective, with certain t
 
 Section 414(b) of div. C of Pub. L. 104–208 provided that: “The Commissioner of Social Security shall transmit to the Attorney General, by not later than 1 year after the date of the enactment of this Act \[Sept. 30, 1996\], a report on the extent to which social security account numbers and cards are used by aliens for fraudulent purposes.”
 
-#### Cross References
-
-Definition of the term—
-
-&emsp;&emsp;Alien, see section 1101(a)(3) of this title.
-
-&emsp;&emsp;Attorney General, see section 1101(a)(5) of this title.
-
-&emsp;&emsp;Commissioner, see section 1101(a)(8) of this title.
-
-&emsp;&emsp;Entry, see section 1101(a)(13) of this title.
-
-&emsp;&emsp;Immigration laws, see section 1101(a)(17) of this title.
-
-&emsp;&emsp;Service, see section 1101(a)(34) of this title.
-
-&emsp;&emsp;United States, see section 1101(a)(38) of this title.
-

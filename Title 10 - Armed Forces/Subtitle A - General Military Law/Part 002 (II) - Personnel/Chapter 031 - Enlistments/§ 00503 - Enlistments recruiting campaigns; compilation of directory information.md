@@ -1,8 +1,14 @@
 ### §503. Enlistments: recruiting campaigns; compilation of directory information
 
-(a) The Secretary concerned shall conduct intensive recruiting campaigns to obtain enlistments in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, and Regular Coast Guard.
+(a)
 
-(b)(1) The Secretary of Defense may collect and compile directory information pertaining to each student who is 17 years of age or older or in the eleventh grade (or its equivalent) or higher and who is enrolled in a secondary school in the United States or its territories, possessions, or the Commonwealth of Puerto Rico.
+Recruiting Campaigns.—(1) The Secretary concerned shall conduct intensive recruiting campaigns to obtain enlistments in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, and Regular Coast Guard.
+
+(2) The Secretary of Defense shall act on a continuing basis to enhance the effectiveness ofrecruitment programs of the Department of Defense (including programs conducted jointly and programs conducted by the separate armed forces) through an aggressive program of advertising and market research targeted at prospective recruits for the armed forces and those who may influence prospective recruits. Subchapter I of chapter 35 of title 44 shall not apply to actions taken as part of that program.
+
+(b)
+
+Compilation of Directory Information.—(1) The Secretary of Defense may collect and compile directory information pertaining to each student who is 17 years of age or older or in the eleventh grade (or its equivalent) or higher and who is enrolled in a secondary school in the United States or its territories, possessions, or the Commonwealth of Puerto Rico.
 
 (2) The Secretary may make directory information collected and compiled under this subsection available to the armed forces for military recruiting purposes. Such information may not be disclosed for any other purpose.
 
@@ -14,13 +20,73 @@
 
 (6) Nothing in this subsection shall be construed as requiring, or authorizing the Secretary of Defense to require, that any educational institution furnish directory information to the Secretary.
 
-(7) In this subsection, “directory information” means, with respect to a student, the student's name, address, telephone listing, date and place of birth, level of education, degrees received, and the most recent previous educational agency or institution attended by the student.
-
 (c) Each local educational agency is requested to provide to the Department of Defense, upon a request made for military recruiting purposes, the same access to secondary school students, and to directory information concerning such students, as is provided generally to post-secondary educational institutions or to prospective employers of those students.
 
-(Added Pub. L. 90–235, §2(a)(1)(B), Jan. 2, 1968, 81 Stat. 754; amended Pub. L. 97–252, title XI, §1114(b)(1), (2), Sept. 8, 1982, 96 Stat. 749; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title V, §571, title X, §1067(1), Oct. 5, 1999, 113 Stat. 622, 774.)
+(d)
+
+Directory Information Defined.—In this section, the term “directory information” has the meaning given that term in subsection (a)(5)(A) of section 444 of the General Education Provisions Act (20 U.S.C. 1232g).
+
+(Added Pub. L. 90–235, §2(a)(1)(B), Jan. 2, 1968, 81 Stat. 754; amended Pub. L. 97–252, title XI, §1114(b)(1), (2), Sept. 8, 1982, 96 Stat. 749; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title V, §571, title X, §1067(1), Oct. 5, 1999, 113 Stat. 622, 774; Pub. L. 106–398, §1 \[\[div. A\], title V, §§562, 563(a)–(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–131 to 1654A–133.)
+
+#### Amendment of Subsection (c)
+
+<i>Pub. L. 106–398, §1 \[\[div. A\], title V, §563(a), (d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–131, 1654A–133, provided that, effective July 1, 2002, subsection (c) of this section is amended to read as follows:</i>
+
+<i>(c) ACCESS TO SECONDARY SCHOOLS</i>.—<i>(1) Each local educational agency shall (except as provided under paragraph (5)) provide to the Department of Defense, upon a request made for military recruiting purposes, the same access to secondary school students, and to directory information concerning such students, as is provided generally to post-secondary educational institutions or to prospective employers of those students.</i>
+
+<i>(2) If a local educational agency denies a request by the Department of Defense for recruiting access, the Secretary of Defense, in cooperation with the Secretary of the military department concerned, shall designate an officer in a grade not below the grade of colonel or, in the case of the Navy, captain, or a senior executive of that military department to meet with representatives of that local educational agency in person, at the offices of that agency, for the purpose of arranging for recruiting access. The designated officer or senior executive shall seek to have that meeting within 120 days of the date of the denial of the request for recruiting access.</i>
+
+<i>(3) If, after a meeting under paragraph (2) with representatives of a local educational agency that has denied a request for recruiting access or (if the educational agency declines a request for the meeting) after the end of such 120-day period, the Secretary of Defense determines that the agency continues to deny recruiting access, the Secretary shall transmit to the chief executive of the State in which the agency is located a notification of the denial of recruiting access and a request for assistance in obtaining that access. The notification shall be transmitted within 60 days after the date of the determination. The Secretary shall provide to the Secretary of Education a copy of such notification and any other communication between the Secretary and that chief executive with respect to such access.</i>
+
+<i>(4) If a local educational agency continues to deny recruiting access one year after the date of the transmittal of a notification regarding that agency under paragraph (3), the Secretary—</i>
+
+&emsp;<i>(A) shall determine whether the agency denies recruiting access to at least two of the armed forces (other than the Coast Guard when it is not operating as a service in the Navy); and</i>
+
+&emsp;<i>(B) upon making an affirmative determination under subparagraph (A), shall transmit a notification of the denial of recruiting access to—</i>
+
+&emsp;&emsp;<i>(i) the specified congressional committees;</i>
+
+&emsp;&emsp;<i>(ii) the Senators of the State in which the local educational agency is located; and</i>
+
+&emsp;&emsp;<i>(iii) the member of the House of Representatives who represents the district in which the local educational agency is located.</i>
+
+<i>(5) The requirements of this subsection do not apply to—</i>
+
+&emsp;<i>(A) a local educational agency with respect to access to secondary school students or access to directory information concerning such students for any period during which there is in effect a policy of that agency, established by majority vote of the governing body of the agency, to deny recruiting access to those students or to that directory information, respectively; or</i>
+
+&emsp;<i>(B) a private secondary school which maintains a religious objection to service in the armed forces</i><i>and which objection is verifiable through the corporate or other organizational documents or materials of that school.</i>
+
+<i>(6) In this subsection:</i>
+
+&emsp;<i>(A) The term “local educational agency” means—</i>
+
+&emsp;&emsp;<i>(i) a local educational agency, within the meaning of that term in section 14101(18) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 8801(18)); and</i>
+
+&emsp;&emsp;<i>(ii) a private secondary school.</i>
+
+&emsp;<i>(B) The term “recruiting access” means access requested as described in paragraph (1).</i>
+
+&emsp;<i>(C) The term “senior executive” has the meaning given that term in section 3132(a)(3) of title 5.</i>
+
+&emsp;<i>(D) The term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, the Virgin Islands, American Samoa, the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau.</i>
+
+&emsp;<i>(E) The term “specified congressional committees” means the following:</i>
+
+&emsp;&emsp;<i>(i) The Committee on Armed Services and the Committee on Health, Education, Labor, and Pensions of the Senate.</i>
+
+&emsp;&emsp;<i>(ii) The Committee on Armed Services and the Committee on Education and the Workforce of the House of Representatives.</i>
+
+&emsp;<i>(F) The term “member of the House of Representatives” includes a Delegate or Resident Commissioner to Congress.</i>
 
 #### Amendments
+
+2000—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title V, §§562, 563(c)(1)\], inserted heading, designated existing provisions as par. (1), and added par. (2).
+
+Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title V, §563(c)(2)\], inserted heading.
+
+Subsec. (b)(7). Pub. L. 106–398, §1 \[\[div. A\], title V, §563(b)(1)\], struck out par. (7) which read as follows: “In this subsection, ‘directory information’ means, with respect to a student, the student's name, address, telephone listing, date and place of birth, level of education, degrees received, and the most recent previous educational agency or institution attended by the student.”
+
+Subsec. (d). Pub. L. 106–398, §1 \[\[div. A\], title V, §563(b)(2)\], added subsec. (d).
 
 1999—Subsec. (b)(5). Pub. L. 106–65, §1067(1), substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 
@@ -33,6 +99,140 @@ Subsec. (c). Pub. L. 106–65, §571, added subsec. (c).
 Subsec. (a). Pub. L. 97–252, §1114(b)(1)(A), designated existing provisions as subsec. (a).
 
 Subsec. (b). Pub. L. 97–252, §1114(b)(1)(B), added subsec. (b).
+
+#### Effective Date of 2000 Amendment
+
+Pub. L. 106–398, §1 \[\[div. A\], title V, §563(d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–133, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on July 1, 2002.”
+
+#### Army Recruiting Pilot Programs
+
+Pub. L. 106–398, §1 \[\[div. A\], title V, §561\], Oct. 30, 2000, 114 Stat. 1654, 1654A–129, provided that:
+
+“(a)
+
+Requirement for Programs.—The Secretary of the Army shall carry out pilot programs to test various recruiting approaches under this section for the following purposes:
+
+&emsp;“(1) To assess the effectiveness of the recruiting approaches for creating enhanced opportunities for recruiters to make direct, personal contact with potential recruits.
+
+&emsp;“(2) To improve the overall effectiveness and efficiency of Army recruiting activities.
+
+“(b)
+
+Outreach Through Motor Sports.—(1) One of the pilot programs shall be a pilot program of public outreach that associates the Army with motor sports competitions to achieve the objectives set forth in paragraph (2).
+
+“(2) The events and activities undertaken under the pilot program shall be designed to provide opportunities for Army recruiters to make direct, personal contact with high school students to achieve the following objectives:
+
+&emsp;“(A) To increase enlistments by students graduating from high school.
+
+&emsp;“(B) To reduce attrition in the Delayed Entry Program of the Army by sustaining the personal commitment of students who have elected delayed entry into the Army under the program.
+
+“(3) Under the pilot program, the Secretary of the Army shall provide for the following:
+
+&emsp;“(A) For Army recruiters or other Army personnel—
+
+&emsp;&emsp;“(i) to organize Army sponsored career day events in association with national motor sports competitions; and
+
+&emsp;&emsp;“(ii) to arrange for or encourage attendance at the competitions by high school students, teachers, guidance counselors, and administrators of high schools located near the competitions.
+
+&emsp;“(B) For Army recruiters and other soldiers to attend national motor sports competitions—
+
+&emsp;&emsp;“(i) to display exhibits depicting the contemporary Army and career opportunities in the Army; and
+
+&emsp;&emsp;“(ii) to discuss those opportunities with potential recruits.
+
+&emsp;“(C) For the Army to sponsor a motor sports racing team as part of an integrated program of recruitment and publicity for the Army.
+
+&emsp;“(D) For the Army to sponsor motor sports competitions for high school students at which recruiters meet with potential recruits.
+
+&emsp;“(E) For Army recruiters or other Army personnel to compile in an Internet accessible database the names, addresses, telephone numbers, and electronic mail addresses of persons who are identified as potential recruits through activities under the pilot program.
+
+&emsp;“(F) Any other activities associated with motor sports competition that the Secretary determines appropriate for Army recruitment purposes.
+
+“(c)
+
+Outreach at Vocational Schools and Community Colleges.—(1) One of the pilot programs shall be a pilot program under which Army recruiters are assigned, as their primary responsibility, at postsecondary vocational institutions and community colleges for the purpose of recruiting students graduating from those institutions and colleges, recent graduates of those institutions and colleges, and students withdrawing from enrollments in those institutions and colleges.
+
+“(2) The Secretary of the Army shall select the institutions and colleges to be invited to participate in the pilot program.
+
+“(3) The conduct of the pilot program at an institution or college shall be subject to an agreement which the Secretary shall enter into with the governing body or authorized official of the institution or college, as the case may be.
+
+“(4) Under the pilot program, the Secretary shall provide for the following:
+
+&emsp;“(A) For Army recruiters to be placed in postsecondary vocational institutions and communitycolleges to serve as a resource for guidance counselors and to recruit for the Army.
+
+&emsp;“(B) For Army recruiters to recruit from among students and graduates described in paragraph (1).
+
+&emsp;“(C) For the use of telemarketing, direct mail, interactive voice response systems, and Internet website capabilities to assist the recruiters in the postsecondary vocational institutions and community colleges.
+
+&emsp;“(D) For any other activities that the Secretary determines appropriate for recruitment activities in postsecondary vocational institutions and community colleges.
+
+“(5) In this subsection, the term ‘postsecondary vocational institution’ has the meaning given the term in section 102(c) of the Higher Education Act of 1965 (20 U.S.C. 1002(c)).
+
+“(d)
+
+Contract Recruiting Initiatives.—(1) One of the pilot programs shall be a program that expands in accordance with this subsection the scope of the Army's contract recruiting initiatives that are ongoing as of the date of the enactment of this Act \[Oct. 30, 2000\]. Under the pilot program, the Secretary of the Army shall select at least 10 recruiting companies to apply the initiatives in efforts to recruit personnel for the Army.
+
+“(2) Under the pilot program, the Secretary shall provide for the following:
+
+&emsp;“(A) For replacement of the Regular Army recruiters by contract recruiters in the 10 recruiting companies selected under paragraph (1).
+
+&emsp;“(B) For operation of the 10 companies under the same rules and chain of command as the other Army recruiting companies.
+
+&emsp;“(C) For use of the offices, facilities, and equipment of the 10 companies by the contract recruiters.
+
+&emsp;“(D) For reversion to performance of the recruiting activities by Regular Army soldiers in the 10 companies upon termination of the pilot program.
+
+&emsp;“(E) For any other uses of contractor personnel for Army recruiting activities that the Secretary determines appropriate.
+
+“(e)
+
+Duration of Pilot Programs.—The pilot programs required by this section shall be carried out during the period beginning on October 1, 2000, and, subject to subsection (f), ending on December 31, 2005.
+
+“(f)
+
+Authority To Expand or Extend Pilot Programs.—The Secretary may expand the scope of any of the pilot programs (under subsection (b)(3)(F), (c)(4)(D), (d)(2)(E), or otherwise) or extend the period for any of the pilot programs. Before doing so in the case of a pilot program, the Secretary of the Army shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a written notification of the expansion of the pilot program (together with the scope of the expansion) or the continuation of the pilot program (together with the period of the extension), as the case may be.
+
+“(g)
+
+Reports.—Not later than February 1, 2006, the Secretary of the Army shall submit to the Committees on Armed Services of the Senate and the House of Representatives a separate report on each of the pilot programs carried out under this section. The report on a pilot program shall include the following:
+
+&emsp;“(1) The Secretary's assessment of the value of the actions taken in the administration of the pilot program for increasing the effectiveness and efficiency of Army recruiting.
+
+&emsp;“(2) Any recommendations for legislation or other action that the Secretary considers appropriate to increase the effectiveness and efficiency of Army recruiting.”
+
+#### Pilot Program To Enhance Military Recruiting by Improving Military Awareness of School Counselors and Educators
+
+Pub. L. 106–398, §1 \[\[div. A\], title V, §564\], Oct. 30, 2000, 114 Stat. 1654, 1654A–133, provided that:
+
+“(a)
+
+In General.—The Secretary of Defense shall conduct a pilot program to determine if cooperation with military recruiters by local educational agencies and by institutions of higher education could be enhanced by improving the understanding of school counselors and educators about military recruiting and military career opportunities. The pilot program shall be conducted during a three-year period beginning not later than 180 days after the date of the enactment of this Act \[Oct. 30, 2000\].
+
+“(b)
+
+Conduct of Pilot Program Through Participation in Interactive Internet Site.—(1) The pilot program shall be conducted by means of participation by the Department of Defense in a qualifying interactive Internet site.
+
+“(2) For purposes of this section, a qualifying interactive Internet site is an Internet site in existence as of the date of the enactment of this Act \[Oct. 30, 2000\] that is designed to provide to employees of local educational agencies and institutions of higher education participating in the Internet site—
+
+&emsp;“(A) systems for communicating;
+
+&emsp;“(B) resources for individual professional development;
+
+&emsp;“(C) resources to enhance individual on-the-job effectiveness; and
+
+&emsp;“(D) resources to improve organizational effectiveness.
+
+“(3) Participation in an Internet site by the Department of Defense for purposes of this section shall include—
+
+&emsp;“(A) funding;
+
+&emsp;“(B) assistance; and
+
+&emsp;“(C) access by other Internet site participants to Department of Defense aptitude testing programs, career development information, and other resources, in addition to information on military recruiting and career opportunities.
+
+“(c)
+
+Report.—The Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report providing the Secretary's findings and conclusions on the pilot program not later than 180 days after the end of the three-year program period.”
 
 #### Measures To Improve Recruit Quality and Reduce Recruit Attrition
 
@@ -74,7 +274,7 @@ In General.—The Secretary of Defense shall improve the medical prescreening of
 
 Specific Steps.—As part of those improvements, the Secretary shall take the following steps:
 
-&emsp;“(1) Require that each applicant for service in the Army, Navy, Air Force, or Marine Corps (A) provideto the Secretary the name of the applicant's medical insurer and the names of past medical providers, and (B) sign a release allowing the Secretary to request and obtain medical records of the applicant.
+&emsp;“(1) Require that each applicant for service in the Army, Navy, Air Force, or Marine Corps (A) provide to the Secretary the name of the applicant's medical insurer and the names of past medical providers, and (B) sign a release allowing the Secretary to request and obtain medical records of the applicant.
 
 &emsp;“(2) Require that the forms and procedures for medical prescreening of applicants that are used by recruiters and by Military Entrance Processing Commands be revised so as to ensure that medical questions are specific, unambiguous, and tied directly to the types of medical separations most common for recruits during basic training and follow-on training.
 

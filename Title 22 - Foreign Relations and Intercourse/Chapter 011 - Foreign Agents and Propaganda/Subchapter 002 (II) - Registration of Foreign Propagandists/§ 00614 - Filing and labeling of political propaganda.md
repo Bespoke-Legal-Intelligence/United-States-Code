@@ -6,7 +6,7 @@ Every person within the United States who is an agent of a foreign principal and
 
 #### (b) Identification statement
 
-It shall be unlawful for any person within the United States who is an agent of a foreign principal and required to register under the provisions of this subchapter to transmit or cause tobe transmitted in the United States mails or by any means or instrumentality of interstate or foreign commerce any informational materials for or in the interests of such foreign principal without placing in such informational materials a conspicuous statement that the materials are distributed by the agent on behalf of the foreign principal, and that additional information is on file with the Department of Justice, Washington, District of Columbia. The Attorney General may by rule define what constitutes a conspicuous statement for the purposes of this subsection.
+It shall be unlawful for any person within the United States who is an agent of a foreign principal and required to register under the provisions of this subchapter to transmit or cause to be transmitted in the United States mails or by any means or instrumentality of interstate or foreign commerce any informational materials for or in the interests of such foreign principal without placing in such informational materials a conspicuous statement that the materials are distributed by the agent on behalf of the foreign principal, and that additional information is on file with the Department of Justice, Washington, District of Columbia. The Attorney General may by rule define what constitutes a conspicuous statement for the purposes of this subsection.
 
 #### (c) Public inspection
 
@@ -66,13 +66,13 @@ Amendment by Pub. L. 104–65 effective Jan. 1, 1996, except as otherwise provid
 
 Amendment by Pub. L. 89–486 effective ninety days after July 4, 1966, see section 9 of Pub. L. 89–486, set out as a note under section 611 of this title.
 
+#### Effective Date of 1942 Amendment
+
+Amendment by act Apr. 29, 1942, effective on the sixtieth day after Apr. 29, 1942, except that prior to such sixtieth day the Attorney General may make, prescribe, amend, and rescind such rules, regulations, and forms as may be necessary to carry out act Apr. 29, 1942, see section 3 of act Apr. 29, 1942, set out as a note under section 611 of this title.
+
 #### Transfer of Functions
 
 In subsec. (d), “United States Postal Service” substituted for “Postmaster General” in two places pursuant to Pub. L. 91–375, §4(a), Aug. 12, 1970, 84 Stat. 773, set out as a note under section 201 of Title 39, Postal Service, which abolished office of Postmaster General of Post Office Department and transferred its functions to United States Postal Service.
-
-#### Cross References
-
-Registration functions of the Secretary of State transferred to the Attorney General, see Ex. Ord. No. 9176, set out preceding section 611 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -12,7 +12,7 @@ The Director of the Bureau of Justice Assistance (hereafter in this subchapter r
 
 &emsp;(2) multijurisdictional task force programs that integrate Federal, State, and local drug law enforcement agencies and prosecutors for the purpose of enhancing interagency coordination, intelligence, and facilitating multijurisdictional investigations;
 
-&emsp;(3) programs designed to target the domestic sources of controlled and illegal substances, such as precursor chemicals, diverted pharmaceuticals, clandestine laboratories, and cannabis cultivations;
+&emsp;(3) programs designed to target the domestic sources of controlled and illegal substances, such as precursor chemicals, diverted pharmaceuticals, clandestine laboratories, and cannabis cultivations and to remove any hazardous substance or pollutant or contaminant associated with the illegal manufacture of amphetamine or methamphetamine;
 
 &emsp;(4) providing community and neighborhood programs that assist citizens in preventing and controlling crime, including special programs that address the problems of crimes committed against the elderly and special programs for rural jurisdictions;
 
@@ -74,9 +74,15 @@ The Director of the Bureau of Justice Assistance (hereafter in this subchapter r
 
 &emsp;(24) law enforcement and prevention programs relating to gangs, or to youth who are involved or at risk of involvement in gangs;
 
-&emsp;(25) developing or improving in a forensic laboratory a capability to analyze deoxyribonucleic acid (hereinafter in this chapter referred to as “DNA”) for identification purposes; and
+&emsp;(25) developing or improving in a forensic laboratory a capability to analyze deoxyribonucleic acid (hereinafter in this chapter referred to as “DNA”) for identification purposes;
 
-&emsp;(26) to develop and implement antiterrorism training programs and to procure equipment for use by local law enforcement authorities.
+&emsp;(26) to develop and implement antiterrorism training programs and to procure equipment for use by local law enforcement authorities;
+
+&emsp;(27) <sup>1</sup> enforcing child abuse and neglect laws, including laws protecting against child sexual abuse, and promoting programs designed to prevent child abuse and neglect; and
+
+&emsp;(28) establishing or supporting cooperative programs between law enforcement and media organizations, to collect, record, retain, and disseminate information useful in the identification and apprehension of suspected criminal offenders.
+
+&emsp;(27) <sup>1</sup> improving the quality, timeliness, and credibility of forensic science services for criminal justice purposes.
 
 #### (c) Program evaluation component; waiver
 
@@ -86,7 +92,7 @@ Each program funded under this section shall contain an evaluation component, de
 
 &emsp;(2) the program is designed primarily to provide material resources and supplies, such as laboratory equipment, that would not justify a full evaluation report.
 
-(Pub. L. 90–351, title I, §501, as added and amended Pub. L. 100–690, title V, §5104, title VI, §6091(a), Nov. 18, 1988, 102 Stat. 4301, 4329; Pub. L. 101–647, title VI, §601(b), Nov. 29, 1990, 104 Stat. 4823; Pub. L. 103–322, title X, §100003, title XIV, §140004, title XV, §150003, title XXI, §210302(a), Sept. 13, 1994, 108 Stat. 1996, 2032, 2035, 2065; Pub. L. 104–132, title VIII, §822(a), Apr. 24, 1996, 110 Stat. 1317.)
+(Pub. L. 90–351, title I, §501, as added and amended Pub. L. 100–690, title V, §5104, title VI, §6091(a), Nov. 18, 1988, 102 Stat. 4301, 4329; Pub. L. 101–647, title VI, §601(b), Nov. 29, 1990, 104 Stat. 4823; Pub. L. 103–322, title X, §100003, title XIV, §140004, title XV, §150003, title XXI, §210302(a), Sept. 13, 1994, 108 Stat. 1996, 2032, 2035, 2065; Pub. L. 104–132, title VIII, §822(a), Apr. 24, 1996, 110 Stat. 1317; Pub. L. 106–177, title I, §103, Mar. 10, 2000, 114 Stat. 35; Pub. L. 106–310, div. B, title XXXVI, §3621(b), Oct. 17, 2000, 114 Stat. 1231; Pub. L. 106–561, §2(a), Dec. 21, 2000, 114 Stat. 2787.)
 
 #### References in Text
 
@@ -97,6 +103,20 @@ The Controlled Substances Act, referred to in subsec. (b), is title II of Pub. L
 For prior sections 501 of Pub. L. 90–351 and prior sections 3751 of this title, see note set out preceding section 3750 of this title.
 
 #### Amendments
+
+2000—Subsec. (b)(3). Pub. L. 106–310 inserted “and to remove any hazardous substance or pollutant or contaminant associated with the illegal manufacture of amphetamine or methamphetamine” before semicolon at end.
+
+Subsec. (b)(25). Pub. L. 106–177, §103(1), and Pub. L. 106–561, §2(a)(1), amended par. (25) identically, striking out “and” at end.
+
+Subsec. (b)(26). Pub. L. 106–561, §2(a)(2), which directed the substitution of “; and” for period at end, could not be executed because of the amendment by Pub. L. 106–177, §103(2), which substituted semicolon for period at end. See below.
+
+Pub. L. 106–177, §103(2), substituted semicolon for period at end.
+
+Subsec. (b)(27). Pub. L. 106–561, §2(a)(3), added par. (27) relating to improvement of the quality, timeliness, and credibility of forensic science services.
+
+Pub. L. 106–177, §103(3), added par. (27) relating to enforcement of child abuse and neglect laws.
+
+Subsec. (b)(28). Pub. L. 106–177, §103(3), added par. (28).
 
 1996—Subsec. (b)(26). Pub. L. 104–132 added par. (26).
 
@@ -119,6 +139,10 @@ Section 210302(c)(4) of Pub. L. 103–322 provided that: “The amendments made 
 #### Transfer of Functions
 
 Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 3742(3) to (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) \[title I, §108(b)\] of Pub. L. 106–113, set out as a note under section 3741 of this title.
+
+#### Drug Control and System Improvement Grant Program
+
+Pub. L. 106–310, div. B, title XXXVI, §3621(c)(2), Oct. 17, 2000, 114 Stat. 1231, provided that: “Any amounts made available in a fiscal year under the grant program under section 501(b)(3) of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3751(b)(3)) for the removal of hazardous substances or pollutants or contaminants associated with the illegal manufacture of amphetamine or methamphetamine by reason of the amendment made by subsection (b) \[amending this section\] shall supplement, and not supplant, any other amounts made available in such fiscal year from other sources for such removal.”
 
 #### Drug-Free Prisons and Jails
 
@@ -267,4 +291,6 @@ Reservation.—The Director may reserve each fiscal year not more than 20 percen
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 3754, 3756, 3760, 3766, 3782 of this title.
+
+<i><sup>1</sup></i><i> So in original. Two pars. (27) have been enacted.</i>
 

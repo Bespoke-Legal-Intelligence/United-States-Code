@@ -28,7 +28,7 @@ The Board shall have the following authorities:
 
 &emsp;(12) To obligate and expend, for official reception and representation expenses, such amount as may be made available through appropriations (which for each of the fiscal years 1998 and 1999 may not exceed the amount made available to the Board and the International Broadcasting Bureau for such purposes for fiscal year 1997).
 
-&emsp;(13) To make available in the annual report required by paragraph (9) information on fundsexpended on administrative and managerial services by the Bureau and by grantees and the steps the Board has taken to reduce unnecessary overhead costs for each of the broadcasting services.
+&emsp;(13) To make available in the annual report required by paragraph (9) information on funds expended on administrative and managerial services by the Bureau and by grantees and the steps the Board has taken to reduce unnecessary overhead costs for each of the broadcasting services.
 
 &emsp;(14) The Board may provide for the use of United States Government transmitter capacity for relay of Radio Free Asia.
 
@@ -92,7 +92,7 @@ Subsec. (c). Pub. L. 105–277, §1323(g), (h), struck out “(1)” before “T
 
 Pub. L. 105–277, §1323(f)(1), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 105–277, §1323(i), amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “The Director of the United States Information Agency and the Board, in carrying out their functions, shall respect the professional independence and integrity of the International Broadcasting Bureau, its broadcasting services, and grantees.”
+Subsec. (d). Pub. L. 105–277, §1323(i), amended heading and text of subsec. (d) generally. Prior to amendment,text read as follows: “The Director of the United States Information Agency and the Board, in carrying out their functions, shall respect the professional independence and integrity of the International Broadcasting Bureau, its broadcasting services, and grantees.”
 
 Pub. L. 105–277, §1323(f)(1), redesignated subsec. (c) as (d).
 

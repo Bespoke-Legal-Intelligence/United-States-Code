@@ -14,11 +14,27 @@ Any person who is authorized to enforce this chapter may—
 
 &emsp;(3) seize any evidence of a violation of this chapter or of any regulation or permit issued under this chapter;
 
-&emsp;(4) execute any warrant or other process issued by any court of competent jurisdiction; and
+&emsp;(4) execute any warrant or other process issued by any court of competent jurisdiction;
 
-&emsp;(5) exercise any other lawful authority.
+&emsp;(5) exercise any other lawful authority; and
 
-#### (c) Civil penalties
+&emsp;(6) arrest any person, if there is reasonable cause to believe that such person has committed an act prohibited by section 1436(3) of this title.
+
+#### (c) Criminal offenses
+
+#### (1) Offenses
+
+&emsp;A person is guilty of an offense under this subsection if the person commits any act prohibited by section 1436(3) of this title.
+
+#### (2) Punishment
+
+&emsp;Any person that is guilty of an offense under this subsection—
+
+&emsp;&emsp;(A) except as provided in subparagraph (B), shall be fined under title 18, imprisoned for not more than 6 months, or both; or
+
+&emsp;&emsp;(B) in the case of a person who in the commission of such an offense uses a dangerous weapon, engages in conduct that causes bodily injury to any person authorized to enforce this chapter or any person authorized to implement the provisions of this chapter, or places any such person in fear of imminent bodily injury, shall be fined under title 18, imprisoned for not more than 10 years, or both.
+
+#### (d) Civil penalties
 
 #### (1) Civil penalty
 
@@ -44,11 +60,11 @@ Any person who is authorized to enforce this chapter may—
 
 &emsp;The Secretary may compromise, modify, or remit, with or without conditions, any civil penalty which is or may be imposed under this section.
 
-#### (d) Forfeiture
+#### (e) Forfeiture
 
 #### (1) In general
 
-&emsp;Any vessel (including the vessel's equipment, stores, and cargo) and other item used, and any sanctuary resource taken or retained,in any manner, in connection with or as a result of any violation of this chapter or of any regulation or permit issued under this chapter shall be subject to forfeiture to the United States pursuant to a civil proceeding under this subsection. The proceeds from forfeiture actions under this subsection shall constitute a separate recovery in addition to any amounts recovered as civil penalties under this section or as civil damages under section 1443 of this title. None of those proceeds shall be subject to set-off.
+&emsp;Any vessel (including the vessel's equipment, stores, and cargo) and other item used, and any sanctuary resource taken or retained, in any manner, in connection with or as a result of any violation of this chapter or of any regulation or permit issued under this chapter shall be subject to forfeiture to the United States pursuant to a civil proceeding under this subsection. The proceeds from forfeiture actions under this subsection shall constitute a separate recovery in addition to any amounts recovered as civil penalties under this section or as civil damages under section 1443 of this title. None of those proceeds shall be subject to set-off.
 
 #### (2) Application of the customs laws
 
@@ -56,13 +72,13 @@ Any person who is authorized to enforce this chapter may—
 
 #### (3) Disposal of sanctuary resources
 
-&emsp;Any sanctuary resource seized pursuant to this chapter may be disposed of pursuant to an order of the appropriate court, or, if perishable, in a manner prescribed by regulations promulgated by the Secretary. Any proceeds from the sale of such sanctuary resource shall for all purposes represent the sanctuary resource so disposed of in any subsequent legal proceedings.
+&emsp;Any sanctuary resource seized pursuant to this chapter may be disposed of pursuant to anorder of the appropriate court, or, if perishable, in a manner prescribed by regulations promulgated by the Secretary. Any proceeds from the sale of such sanctuary resource shall for all purposes represent the sanctuary resource so disposed of in any subsequent legal proceedings.
 
 #### (4) Presumption
 
 &emsp;For the purposes of this section there is a rebuttable presumption that all sanctuary resources found on board a vessel that is used or seized in connection with a violation of this chapter or of any regulation or permit issued under this chapter were taken or retained in violation of this chapter or of a regulation or permit issued under this chapter.
 
-#### (e) Payment of storage, care, and other costs
+#### (f) Payment of storage, care, and other costs
 
 #### (1) Expenditures
 
@@ -82,33 +98,47 @@ Any person who is authorized to enforce this chapter may—
 
 &emsp;Any person assessed a civil penalty for a violation of this chapter or of any regulation or permit issued under this chapter, and any claimant in a forfeiture action brought for such a violation, shall be liable for the reasonable costs incurred by the Secretary in storage, care, and maintenance of any sanctuary resource or other property seized in connection with the violation.
 
-#### (f) Subpoenas
+#### (g) Subpoenas
 
-In the case of any hearing under this section which is determined on the record in accordance with the procedures provided for under section 554 of title 5, the Secretary may issue subpoenas for the attendance and testimony of witnesses and the production of relevant papers, books, and documents, and may administer oaths.
+In the case of any hearing under this section which is determined on the record in accordance with the procedures provided for under section 554 of title 5, the Secretary may issue subpoenas for the attendance and testimony of witnesses and the production of relevant papers, books, electronic files, and documents, and may administer oaths.
 
-#### (g) Use of resources of State and other Federal agencies
+#### (h) Use of resources of State and other Federal agencies
 
 The Secretary shall, whenever appropriate, use by agreement the personnel, services, and facilities of State and other Federal departments, agencies, and instrumentalities, on a reimbursable or nonreimbursable basis, to carry out the Secretary's responsibilities under this section.
 
-#### (h) Coast Guard authority not limited
+#### (i) Coast Guard authority not limited
 
 Nothing in this section shall be considered to limit the authority of the Coast Guard to enforce this or any other Federal law under section 89 of title 14.
 
-#### (i) Injunctive relief
+#### (j) Injunctive relief
 
 If the Secretary determines that there is an imminent risk of destruction or loss of or injury to a sanctuary resource, or that there has been actual destruction or loss of, or injury to, a sanctuary resource which may give rise to liability under section 1443 of this title, the Attorney General, upon request of the Secretary, shall seek to obtain such relief as may be necessary to abate such risk or actual destruction, loss, or injury, or to restore or replace the sanctuary resource, or both. The district courts of the United States shall have jurisdiction in such a case to order such relief as the public interest and the equities of the case may require.
 
-#### (j) Area of application and enforceability
+#### (k) Area of application and enforceability
 
 The area of application and enforceability of this chapter includes the territorial sea of the United States, as described in Presidential Proclamation 5928 of December 27, 1988, which is subject to the sovereignty of the United States, and the United States exclusive economic zone, consistent with international law.
 
-(Pub. L. 92–532, title III, §307, as added Pub. L. 98–498, title I, §102, Oct. 19, 1984, 98 Stat. 2302; amended Pub. L. 100–627, title II, §207, Nov. 7, 1988, 102 Stat. 3219; Pub. L. 102–587, title II, §2107(a)–(c), (e), Nov. 4, 1992, 106 Stat. 5043, 5044; Pub. L. 104–283, §9(c), Oct. 11, 1996, 110 Stat. 3367.)
+#### (<i>l</i>) Nationwide service of process
+
+In any action by the United States under this chapter, process may be served in any district where the defendant is found, resides, transacts business, or has appointed an agent for the service of process.
+
+(Pub. L. 92–532, title III, §307, as added Pub. L. 98–498, title I, §102, Oct. 19, 1984, 98 Stat. 2302; amended Pub. L. 100–627, title II, §207, Nov. 7, 1988, 102 Stat. 3219; Pub. L. 102–587, title II, §2107(a)–(c), (e), Nov. 4, 1992, 106 Stat. 5043, 5044; Pub. L. 104–283, §9(c), Oct. 11, 1996, 110 Stat. 3367; Pub. L. 106–513, §8, Nov. 13, 2000, 114 Stat. 2387.)
 
 #### References in Text
 
-Presidential Proclamation 5928 of December 27, 1988, referred to in subsec. (j), is set out as a note under section 1331 of Title 43, Public Lands.
+Presidential Proclamation 5928 of December 27, 1988, referred to in subsec. (k), is set out as a note under section 1331 of Title 43, Public Lands.
 
 #### Amendments
+
+2000—Subsec. (b)(6). Pub. L. 106–513, §8(a), added par. (6).
+
+Subsecs. (c) to (f). Pub. L. 106–513, §8(b), added subsec. (c) and redesignated former subsecs. (c) to (e) as (d) to (f), respectively. Former subsec. (f) redesignated (g).
+
+Subsec. (g). Pub. L. 106–513, §8(b), (c), redesignated subsec. (f) as (g) and inserted “electronic files,” after “books,”. Former subsec. (g) redesignated (h).
+
+Subsecs. (h) to (k). Pub. L. 106–513, §8(b), redesignated subsecs. (g) to (j) as (h) to (k), respectively.
+
+Subsec. (<i>l</i>). Pub. L. 106–513, §8(c), added subsec. (<i>l</i>).
 
 1996—Subsec. (e)(1)(A). Pub. L. 104–283 made technical amendment to reference in original act which appears in text as reference to section 9607(f)(1) of title 42.
 

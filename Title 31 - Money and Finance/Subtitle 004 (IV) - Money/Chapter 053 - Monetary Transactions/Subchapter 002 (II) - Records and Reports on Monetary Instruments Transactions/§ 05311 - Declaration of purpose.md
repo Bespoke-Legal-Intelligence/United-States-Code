@@ -106,7 +106,7 @@ Study Required.—The Secretary of the Treasury shall conduct a study of—
 
 “(d)
 
-Report Required.—Not later than the end of the 3-year period beginning on the date of enactment of this Act \[Sept. 23, 1994\] and not later than the end of each of the first two 1-year periods beginning after the end of such 3-year period, the Secretary of the Treasury shall submit a report to the Congress containing the findings and recommendations of the Secretary in connection with the study under subsection (c), together with such recommendations for legislative and administrative action as the Secretary may determine to be appropriate.
+Report Required.—Not later than the end of the 3-year period beginning on the date of enactment of this Act \[Sept. 23, 1994\] and not later than the end of each of the first two 1-year periods beginning after the end of such 3-year period, the Secretary of the Treasury shall submit a report to the Congress containing the findings and recommendations of the Secretary in connection with the study under subsection (c), togetherwith such recommendations for legislative and administrative action as the Secretary may determine to be appropriate.
 
 “(e)
 

@@ -1,8 +1,8 @@
 ### §1228. Discharge
 
-(a) As soon as practicable after completion by the debtor of all payments under the plan, other than payments to holders of allowed claims provided for under section 1222(b)(5) or 1222(b)(10) of this title, unless the court approves a written waiver of discharge executed by the debtor after the order for relief under this chapter, the court shall grant the debtor a discharge of all debts provided for by the plan allowed under section 503 of this title or disallowed under section 502 of this title, except any debt—
+(a) As soon as practicable after completion by the debtor of all payments under the plan, other than payments to holders of allowed claims provided for under section 1222(b)(5) or 1222(b)(9) of this title, unless the court approves a written waiver of discharge executed by the debtor after the order for relief under this chapter, the court shall grant the debtor a discharge of all debts provided for by the plan allowed under section 503 of this title or disallowed under section 502 of this title, except any debt—
 
-&emsp;(1) provided for under section 1222(b)(5) or 1222(b)(10) of this title; or
+&emsp;(1) provided for under section 1222(b)(5) or 1222(b)(9) of this title; or
 
 &emsp;(2) of the kind specified in section 523(a) of this title.
 
@@ -16,7 +16,7 @@
 
 (c) A discharge granted under subsection (b) of this section discharges the debtor from all unsecured debts provided for by the plan or disallowed under section 502 of this title, except any debt—
 
-&emsp;(1) provided for under section 1222(b)(5) or 1222(b)(10) of this title; or
+&emsp;(1) provided for under section 1222(b)(5) or 1222(b)(9) of this title; or
 
 &emsp;(2) of a kind specified in section 523(a) of this title.
 
@@ -28,7 +28,7 @@
 
 (e) After the debtor is granted a discharge, the court shall terminate the services of any trustee serving in the case.
 
-(Added and amended Pub. L. 99–554, title II, §255, title III, §302(f), Oct. 27, 1986, 100 Stat. 3112, 3124; Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, §1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, §1, Oct. 9, 1999, 113 Stat. 1031.)
+(Added and amended Pub. L. 99–554, title II, §255, title III, §302(f), Oct. 27, 1986, 100 Stat. 3112, 3124; Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, §1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, §1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 106–518, title II, §208, Nov. 13, 2000, 114 Stat. 2415.)
 
 #### Termination of Section
 
@@ -36,7 +36,11 @@
 
 #### Codification
 
-Section repealed effective Oct. 1, 1998, by Pub. L. 99–554, title III, §302(f), Oct. 27, 1986, 100 Stat. 3124, as amended by Pub. L. 103–65, §1, Aug. 6, 1993, 107 Stat. 311. Section, as in effect on Sept. 30, 1998, reenacted by Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610, for the period beginning on Oct. 1, 1998, and ending on Apr. 1, 1999. Pub. L. 105–277, §149(a), as subsequently amended by Pub. L. 106–5 and Pub. L. 106–70, provided that this section, as in effect on Sept. 30, 1999, is reenacted for the period beginning on Oct. 1, 1999, and ending on July 1, 2000. See Repeal, Reenactment, and Termination of Chapter note set out under section 1201 of this title.
+For repeal of section effective Oct. 1, 1998, and subsequent reenactment of section for specific periods, see note set out preceding section 1201 of this title.
+
+#### Amendments
+
+2000—Subsecs. (a), (c)(1). Pub. L. 106–518 substituted “1222(b)(9)” for “1222(b)(10)” wherever appearing.
 
 #### Section Referred to in Other Sections
 

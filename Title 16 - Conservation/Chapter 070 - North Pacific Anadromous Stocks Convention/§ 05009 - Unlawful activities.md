@@ -10,7 +10,7 @@ It is unlawful for any person or fishing vessel subject to the jurisdiction of t
 
 &emsp;(4) to ship, transport, offer for sale, sell, purchase, import, export, or have custody, control, or possession of, any anadromous fish taken or retained in violation of the Convention, this chapter, or any regulation issued under this chapter;
 
-&emsp;(5) to refuse to permit any enforcement officer to board a fishing vessel subject to such person's control for purchases <sup>1</sup> of conducting any search or inspection in connection with the enforcement of the Convention, this chapter, or any regulation issued under this chapter;
+&emsp;(5) to refuse to permit any enforcement officer to board a fishing vessel subject to such person's control for purposes of conducting any search or inspection in connection with the enforcement of the Convention, this chapter, or any regulation issued under this chapter;
 
 &emsp;(6) to forcibly assault, resist, oppose, impede, intimidate, or interfere with any enforcement officer in the conduct of any search or inspection described in paragraph (5);
 
@@ -20,15 +20,13 @@ It is unlawful for any person or fishing vessel subject to the jurisdiction of t
 
 &emsp;(9) to violate any provision of the Convention, this chapter, or any regulation issued under this chapter.
 
-(Pub. L. 102–567, title VIII, §810, Oct. 29, 1992, 106 Stat. 4313; Pub. L. 102–587, title VIII, §8010, Nov. 4, 1992, 106 Stat. 5103.)
+(Pub. L. 102–567, title VIII, §810, Oct. 29, 1992, 106 Stat. 4313; Pub. L. 102–587, title VIII, §8010, Nov. 4, 1992, 106 Stat. 5103; Pub. L. 106–562, title III, §304(a), Dec. 23, 2000, 114 Stat. 2806.)
 
 #### Codification
 
-Pub. L. 102–567 and Pub. L. 102–587 enacted substantially identical sections. This section is based on text of Pub. L. 102–587.
+Title VIII of Pub. L. 102–567 and Pub. L. 102–587 enacted substantially identical sections. Title VIII of Pub. L. 102–587 was repealed by Pub. L. 106–562.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 5008, 5010 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “purposes”.</i>
 

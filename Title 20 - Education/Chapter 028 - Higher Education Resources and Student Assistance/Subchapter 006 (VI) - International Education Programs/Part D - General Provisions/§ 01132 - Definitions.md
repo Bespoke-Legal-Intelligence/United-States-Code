@@ -10,7 +10,7 @@ As used in this subchapter—
 
 &emsp;(3) the term “export education” means educating, teaching and training to provide general knowledge and specific skills pertinent to the selling of goods and services to other countries, including knowledge of market conditions, financial arrangements, laws and procedures;
 
-&emsp;(4) the term “internationalization of curricula” means the incorporation of internationalor comparative perspectives in existing courses of study or the addition of new components to the curricula to provide an international context for American business education;
+&emsp;(4) the term “internationalization of curricula” means the incorporation of international or comparative perspectives in existing courses of study or the addition of new components to the curricula to provide an international context for American business education;
 
 &emsp;(5) the term “comprehensive language and area center” means an administrative unit of a university that contributes significantly to the national interest in advanced research and scholarship, employs a critical mass of scholars in diverse disciplines related to a geographic concentration, offers intensive language training in languages of its area specialization, maintains important library collections related to the area, and makes training available in language and area studies to a graduate, postgraduate, and undergraduate clientele; and
 

@@ -70,13 +70,13 @@ The Secretary, acting through the Administrator, shall—
 
 &emsp;(17) in collaboration with the National Institute on Aging, and in consultation with the National Institute on Drug Abuse, the National Institute on Alcohol Abuse and Alcoholism and the National Institute of Mental Health, as appropriate, promote and evaluate substance abuse services for older Americans in need of such services, and mental health services for older Americans who are seriously mentally ill; and
 
-&emsp;(18) promote the coordination of service programs conducted by other departments, agencies, organizations and individuals that are or may be related to the problems of individuals suffering from mental illness or substance abuse, including liaisons with the Social Security Administration, Health Care Financing Administration, and other programs of the Department, as well as liaisons with the Department of Education, Department of Justice, and other Federal Departments and offices, as appropriate.
+&emsp;(18) promote the coordination of service programs conducted by other departments, agencies, organizations and individuals that are or may be related to the problems of individuals suffering from mental illness or substance abuse, including liaisons with the Social Security Administration, Health Care FinancingAdministration, and other programs of the Department, as well as liaisons with the Department of Education, Department of Justice, and other Federal Departments and offices, as appropriate.
 
 #### (e) Associate Administrator for Alcohol Prevention and Treatment Policy
 
 #### (1) In general
 
-&emsp;There shall be in the Administration an Associate Administrator for Alcohol Prevention and Treatment Policy to whom the Administrator shall delegate the functions of promoting, monitoring, and evaluating service programs for the prevention and treatment of alcoholism and alcohol abuse within the Center for Substance Abuse Prevention, the Center for Substance Abuse Treatment, and the Center for Mental Health Services, and coordinating such programs among the Centers, and among the Centers and other public and private entities. The Associate Administrator also shall ensure that alcohol prevention, education, and policy strategies are integrated into all programs of the Centers that address substance abuse prevention, education, and policy, and that the Center for Substance Abuse Prevention addresses the Healthy People 2000 goals and the National Dietary Guidelines of the Department of Health and Human Services and the Department of Agriculture related to alcohol consumption.
+&emsp;There may be in the Administration an Associate Administrator for Alcohol Prevention and Treatment Policy to whom the Administrator may delegate the functions of promoting, monitoring, and evaluating service programs for the prevention and treatment of alcoholism and alcohol abuse within the Center for Substance Abuse Prevention, the Center for Substance Abuse Treatment and the Center for Mental Health Services, and coordinating such programs among the Centers, and among the Centers and other public and private entities. The Associate Administrator also may ensure that alcohol prevention, education, and policy strategies are integrated into all programs of the Centers that address substance abuse prevention, education, and policy, and that the Center for Substance Abuse Prevention addresses the Healthy People 2010 goals and the National Dietary Guidelines of the Department of Health and Human Services and the Department of Agriculture related to alcohol consumption.
 
 #### (2) Plan
 
@@ -122,7 +122,7 @@ The Secretary, acting through the Administrator, shall—
 
 &emsp;&emsp;&emsp;(iii) prepare, for inclusion in the biennial report required pursuant to subsection (k) of this section, a description of activities of the Committee, including findings made by the Committee regarding—
 
-&emsp;&emsp;&emsp;&emsp;(I) the extent of expenditures made for women's substance abuse and mental health services by the agencies of the Administration; and
+&emsp;&emsp;&emsp;&emsp;(I) the extent of expenditures made for women's substance abuse and mentalhealth services by the agencies of the Administration; and
 
 &emsp;&emsp;&emsp;&emsp;(II) the estimated level of funding needed for substance abuse and mental health services to meet the needs of women;
 
@@ -156,7 +156,7 @@ The Secretary, acting through the Administrator, shall—
 
 #### (1) In general
 
-&emsp;The Administrator may obtain (in accordance with section 3109 of title 5, but withoutregard to the limitation in such section on the number of days or the period of service) the services of not more than 20 experts or consultants who have professional qualifications. Such experts and consultants shall be obtained for the Administration and for each of its agencies.
+&emsp;The Administrator may obtain (in accordance with section 3109 of title 5, but without regard to the limitation in such section on the number of days or the period of service) the services of not more than 20 experts or consultants who have professional qualifications. Such experts and consultants shall be obtained for the Administration and for each of its agencies.
 
 #### (2) Compensation and expenses
 
@@ -198,11 +198,29 @@ With respect to awards of grants, cooperative agreements, and contracts under th
 
 &emsp;(3) the application is otherwise in such form, is made in such manner, and contains such agreements, assurances, and information as the official determines to be necessary to carry out the purpose for which the award is to be provided.
 
-#### (m) Authorization of appropriations
+#### (m) Emergency response
 
-For the purpose of providing grants, cooperative agreements, and contracts under this section, there are authorized to be appropriated $25,000,000 for fiscal year 1993, and such sums as may be necessary for fiscal year 1994.
+#### (1) In general
 
-(July 1, 1944, ch. 373, title V, §501, formerly Pub. L. 93–282, title II, §201, May 14, 1974, 88 Stat. 134, as amended Pub. L. 94–371, §8, July 26, 1976, 90 Stat. 1040; renumbered §501 of act July 1, 1944, and amended Pub. L. 98–24, §2(b)(2), Apr. 26, 1983, 97 Stat. 176; Pub. L. 98–509, title II, §201, title III, §301(c)(1), Oct. 19, 1984, 98 Stat. 2359, 2364; Pub. L. 99–570, title IV, §4003, Oct. 27, 1986, 100 Stat. 3207–106; Pub. L. 100–690, title II, §2058(a)(2), Nov. 18, 1988, 102 Stat. 4213; Pub. L. 101–93, §3(f), Aug. 16, 1989, 103 Stat. 611; Pub. L. 102–321, title I, §101(a), July 10, 1992, 106 Stat. 324; Pub. L. 104–201, div. A, title XVII, §1723(a)(3)(A), Sept. 23, 1996, 110 Stat. 2759; Pub. L. 106–129, §2(b)(2), Dec. 6, 1999, 113 Stat. 1670.)
+&emsp;Notwithstanding section 290aa–3 of this title and except as provided in paragraph (2), the Secretary may use not to exceed 2.5 percent of all amounts appropriated under this subchapter for a fiscal year to make noncompetitive grants, contracts or cooperative agreements to public entities to enable such entities to address emergency substance abuse or mental health needs in local communities.
+
+#### (2) Exceptions
+
+&emsp;Amounts appropriated under part C of this subchapter shall not be subject to paragraph (1).
+
+#### (3) Emergencies
+
+&emsp;The Secretary shall establish criteria for determining that a substance abuse or mental health emergency exists and publish such criteria in the Federal Register prior to providing funds under this subsection.
+
+#### (n) Limitation on the use of certain information
+
+No information, if an establishment or person supplying the information or described in it is identifiable, obtained in the course of activities undertaken or supported under section 290aa–4 of this title may be used for any purpose other than the purpose for which it was supplied unless such establishment or person has consented (as determined under regulations of the Secretary) to its use for such other purpose. Such information may not be published or released in other form if the person who supplied the information or who is described in it is identifiable unless such person has consented (as determined under regulations of the Secretary) to its publication or release in other form.
+
+#### (<i>o</i>) Authorization of appropriations
+
+For the purpose of providing grants, cooperative agreements, and contracts under this section, there are authorized to be appropriated $25,000,000 for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 and 2003.
+
+(July 1, 1944, ch. 373, title V, §501, formerly Pub. L. 93–282, title II, §201, May 14, 1974, 88 Stat. 134, as amended Pub. L. 94–371, §8, July 26, 1976, 90 Stat. 1040; renumbered §501 of act July 1, 1944, and amended Pub. L. 98–24, §2(b)(2), Apr. 26, 1983, 97 Stat. 176; Pub. L. 98–509, title II, §201, title III, §301(c)(1), Oct. 19, 1984, 98 Stat. 2359, 2364; Pub. L. 99–570, title IV, §4003, Oct. 27, 1986, 100 Stat. 3207–106; Pub. L. 100–690, title II, §2058(a)(2), Nov. 18, 1988, 102 Stat. 4213; Pub. L. 101–93, §3(f), Aug. 16, 1989, 103 Stat. 611; Pub. L. 102–321, title I, §101(a), July 10, 1992, 106 Stat. 324; Pub. L. 104–201, div. A, title XVII, §1723(a)(3)(A), Sept. 23, 1996, 110 Stat. 2759; Pub. L. 106–129, §2(b)(2), Dec. 6, 1999, 113 Stat. 1670; Pub. L. 106–310, div. B, title XXXI, §3102, title XXXIV, §3401(a), Oct. 17, 2000, 114 Stat. 1170, 1218.)
 
 #### References in Text
 
@@ -219,6 +237,10 @@ Section was formerly classified to section 3511 of this title prior to renumberi
 A prior section 501 of act July 1, 1944, which was classified to section 219 of this title, was successively renumbered by subsequent acts and transferred, see section 238 of this title.
 
 #### Amendments
+
+2000—Subsec. (e)(1). Pub. L. 106–310, §3401(a), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “There shall be in the Administration an Associate Administrator for Alcohol Prevention and Treatment Policy to whom the Administrator shall delegate the functions of promoting, monitoring, and evaluating service programs for the prevention and treatment of alcoholism and alcohol abuse within the Center for Substance Abuse Prevention, the Center for Substance Abuse Treatment, and the Center for Mental Health Services, and coordinating such programs among the Centers, and among the Centers and other public and private entities. The Associate Administrator also shall ensure that alcohol prevention, education, and policy strategies are integrated into all programs of the Centers that address substance abuse prevention, education, and policy, and that the Center for Substance Abuse Prevention addresses the Healthy People 2000 goals and the National Dietary Guidelines of the Department of Health and Human Services and the Department of Agriculture related to alcohol consumption.”
+
+Subsecs. (m) to (<i>o</i>). Pub. L. 106–310, §3102, added subsecs. (m) and (n), redesignated former subsec. (m) as (<i>o</i>), and substituted “2001, and such sums as may be necessary for each of the fiscal years 2002 and 2003” for “1993, and such sums as may be necessary for fiscal year 1994” before period at end.
 
 1999—Subsec. (d)(8), (9). Pub. L. 106–129, which directed the substitution of “Agency for Healthcare Research and Quality” for “Agency for Health Care Policy and Research”, was executed by making the substitution for “Agency for Health Care Policy Research”, to reflect the probable intent of Congress.
 
@@ -264,7 +286,7 @@ Centers for Disease Control changed to Centers for Disease Control and Preventio
 
 Section 161 of Pub. L. 102–321 provided that: “Reference in any other Federal law, Executive order, rule, regulation, or delegation of authority, or any document of or pertaining to the Alcohol, Drug Abuse and Mental Health Administration or to the Administrator of the Alcohol, Drug Abuse and Mental Health Administration shall be deemed to refer to the Substance Abuse and Mental Health Services Administration or to the Administrator of the Substance Abuse and Mental Health Services Administration.”
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Effective Date of 1996 Amendment
 
@@ -296,7 +318,7 @@ Adequate Personnel and Resources.—The transfers required under this subtitle s
 
 “(a)
 
-Substance Abuse and Mental Health Services Administration.—Except as otherwise provided in thePublic Health Service Act \[this chapter\], all personnel employed in connection with, and all assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds employed, used, held, arising from, available to, or to be made available in connection with the functions transferred to the Administrator of the Substance Abuse and Mental Health Services Administration by this subtitle, subject to section 1531 of title 31, United States Code, shall be transferred to the Substance Abuse and Mental Health Services Administration. Unexpended funds transferred pursuant to this subsection shall be used only for the purposes for which the funds were originally authorized and appropriated.
+Substance Abuse and Mental Health Services Administration.—Except as otherwise provided in the Public Health Service Act \[this chapter\], all personnel employed in connection with, and all assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, andother funds employed, used, held, arising from, available to, or to be made available in connection with the functions transferred to the Administrator of the Substance Abuse and Mental Health Services Administration by this subtitle, subject to section 1531 of title 31, United States Code, shall be transferred to the Substance Abuse and Mental Health Services Administration. Unexpended funds transferred pursuant to this subsection shall be used only for the purposes for which the funds were originally authorized and appropriated.
 
 “(b)
 
@@ -354,11 +376,11 @@ Effect on Legal Actions.—Except as provided in subsection (e)—
 
 “(d)
 
-No Abatement of Actions or Proceedings.—No action or other proceeding commenced by or against any officer in his official capacity as an officer of the Department of Health and Human Services with respect to functions transferred by this subtitle shall abate by reason of the enactment of this Act \[see Tables for classification\]. No cause of action by or against the Department of Health and Human Services with respect to functions transferred by this subtitle, or by or against any officer thereof in his official capacity, shall abate by reason of the enactment of this Act. Causes of action and actions with respect to a function transferred by this subtitle, or other proceedings may be asserted by or against the United States or the Administrator of the Alcohol, Drug Abuse and Mental Health Administration or the Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse, and the National Institute of Mental Health, as may be appropriate, and, in an action pending when this Act takes effect \[see Effective Date of 1992 Amendment note set out under section 236 of this title\], the court may at any time, on its own motion orthat of any party, enter an order which will give effect to the provisions of this subsection.
+No Abatement of Actions or Proceedings.—No action or other proceeding commenced by or against any officer in his official capacity as an officer of the Department of Health and Human Services with respect to functions transferred by this subtitle shall abate by reason of the enactment of this Act \[see Tables for classification\]. No cause of action by or against the Department of Health and Human Services with respect to functions transferred by this subtitle, or by or against any officer thereof in his official capacity, shall abate by reason of the enactment of this Act. Causes of action and actions with respect to a function transferred by this subtitle, or other proceedings may be asserted by or against the United States or the Administrator of the Alcohol, Drug Abuse and Mental Health Administration or the Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse, and the National Institute of Mental Health, as may be appropriate, and, in an action pending when this Act takes effect \[see Effective Date of 1992 Amendment note set out under section 236 of this title\], the court may at any time, on its own motion or that of any party, enter an order which will give effect to the provisions of this subsection.
 
 “(e)
 
-Substitution.—If, before the date of enactment of this Act \[July 10, 1992\], the Department of Health and Human Services, or any officer thereof in the official capacity of such officer, is a party to an action, and under this subtitle any function of such Department, Office, or officer is transferred to the Administrator of the Substance Abuse and Mental Health Services Administration or the Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse and the National Institute of Mental Health, then such action shall be continued with the Administrator of the Substance Abuse and Mental Health Services Administration or the Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse and the National Institute of Mental Health, as the case may be, substituted or added as a party.
+Substitution.—If, before the date of enactment of this Act \[July 10, 1992\], the Department of Healthand Human Services, or any officer thereof in the official capacity of such officer, is a party to an action, and under this subtitle any function of such Department, Office, or officer is transferred to the Administrator of the Substance Abuse and Mental Health Services Administration or the Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse and the National Institute of Mental Health, then such action shall be continued with the Administrator of the Substance Abuse and Mental Health Services Administration or the Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse and the National Institute of Mental Health, as the case may be, substituted or added as a party.
 
 “(f)
 
@@ -406,7 +428,7 @@ Section 2073 of Pub. L. 100–690 directed Secretary of Health and Human Service
 
 #### Congressional Statement of Policy for Alcohol and Drug Abuse Amendments of 1983
 
-Section 1(b) of Pub. L. 98–24 provided that: “It is the policy of the United States and the purpose of this Act \[see Short Title of 1983 Amendment note set out under section 201 of this title\] to provide leadership in the national effort to reduce the incidence of alcoholism and alcohol-related problems and drug abuse through—
+Section 1(b) of Pub. L. 98–24 provided that: “It is the policy of the United States and the purpose of this Act\[see Short Title of 1983 Amendment note set out under section 201 of this title\] to provide leadership in the national effort to reduce the incidence of alcoholism and alcohol-related problems and drug abuse through—
 
 &emsp;“(1) a continued Federal commitment to research into the behavioral and biomedical etiology, the treatment, and the mental and physical health and social and economic consequences of alcohol abuse and alcoholism and drug abuse;
 
@@ -427,6 +449,12 @@ Section 1(b) of Pub. L. 98–24 provided that: “It is the policy of the United
 #### Alcohol and Drug Abuse and Mental Health Reports by the Secretary
 
 Section 3 of Pub. L. 98–24 directed Secretary of Health and Human Services to submit to Congress, on or before Jan. 15, 1984, a report describing the extent to which Federal and State programs, departments, and agencies are concerned and are dealing effectively with problems of alcohol abuse and alcoholism, problems of drug abuse, and mental illness.
+
+#### Transfer of Balances in Working Capital Fund, Narcotic Hospitals, to Surplus Fund
+
+Act July 8, 1947, ch. 210, title II, §201, 61 Stat. 269, provided: “That as of June 30, 1947, and the end of each fiscal year thereafter any balances in the ‘Working capital fund, narcotic hospitals,’ in excess of $150,000 shall be transferred to the surplus fund of the Treasury.”
+
+\[Section 201 of act July 8, 1947, set out above, was formerly classified to section 258a of this title.\]
 
 #### Section Referred to in Other Sections
 

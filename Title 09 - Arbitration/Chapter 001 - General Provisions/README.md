@@ -31,7 +31,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 205, 208, 307 of this title; title 25 section 416a.
+This chapter is referred to in sections 205, 208, 307 of this title; title 7 section 255; title 25 section 416a.
 
 
 ---

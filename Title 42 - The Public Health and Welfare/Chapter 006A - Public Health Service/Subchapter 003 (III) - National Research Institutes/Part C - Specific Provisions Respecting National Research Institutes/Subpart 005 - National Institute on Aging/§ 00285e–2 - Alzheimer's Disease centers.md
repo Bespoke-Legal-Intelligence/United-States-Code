@@ -4,7 +4,7 @@
 
 (1) The Director of the Institute may enter into cooperative agreements with and make grants to public or private nonprofit entities (including university medical centers) to pay all or part of the cost of planning, establishing, or strengthening, and providing basic operating support (including staffing) for centers for basic and clinical research (including multidisciplinary research) into, training in, and demonstration of advanced diagnostic, prevention, and treatment methods for Alzheimer's disease.
 
-(2) A cooperative agreement or grant under paragraph (1) shall be entered into in accordance with policies established by the Director of NIH and after consultation with the Institute's advisory council.
+(2) A cooperative agreement or grant under paragraph (1) shall be entered into in accordancewith policies established by the Director of NIH and after consultation with the Institute's advisory council.
 
 #### (b) Use of Federal payments under cooperative agreement or grant
 
@@ -64,7 +64,7 @@ Rule of Construction.—Nothing in this title shall be construed to affect adver
 
 #### Alzheimer's Disease Registry
 
-Section 12 of Pub. L. 99–158, which was formerly set out as a note under this section, was renumbered section 445G of the Public Health Service Act by Pub. L. 103–43, title VIII, §801(a), 107 Stat. 163, and is classified to section 285e–9 of this title.
+Section 12 of Pub. L. 99–158, which was formerly set out as a note under this section, was renumbered section 445G of the Public Health Service Act by Pub. L. 103–43, title VIII, §801(a), June 10, 1993, 107 Stat. 163, and is classified to section 285e–9 of this title.
 
 #### Section Referred to in Other Sections
 

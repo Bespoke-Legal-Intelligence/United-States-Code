@@ -34,7 +34,7 @@ Subject to subsections (b) and (c) of this section, this subchapter and the amen
 
 #### (d) Rescission of suspension
 
-The President may rescind any suspension made under subsection (b) or (c) of this section upon reporting to the appropriate congressional committees that doing so will expedite a transition to democracy in Cuba.
+The President may rescind any suspension made under subsection (b) or (c) of this sectionupon reporting to the appropriate congressional committees that doing so will expedite a transition to democracy in Cuba.
 
 (Pub. L. 104–114, title III, §306, Mar. 12, 1996, 110 Stat. 821.)
 

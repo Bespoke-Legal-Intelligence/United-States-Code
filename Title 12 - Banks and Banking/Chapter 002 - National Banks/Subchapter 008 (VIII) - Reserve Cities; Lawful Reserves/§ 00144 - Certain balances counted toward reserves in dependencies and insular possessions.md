@@ -24,7 +24,3 @@ Amendment by Pub. L. 86–114 effective three years after July 28, 1959, see sec
 
 Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
 
-#### Cross References
-
-Banks in dependencies or insular possessions as members of Federal Reserve System, see section 466 of this title.
-

@@ -182,14 +182,6 @@ Section 37 of act June 25, 1938, provided that: “Sections 31 and 34 of this Ac
 
 Functions of all officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of those officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees.
 
-#### Territorial Sea of United States
-
-For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
-
-#### Contiguous Zone of United States
-
-For extension of contiguous zone of United States, see Proc. No. 7219, Sept. 2, 1999, 64 F.R. 48701, set out as a note under section 1331 of Title 43, Public Lands.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1677 of this title; title 10 section 374; title 18 section 553; title 22 section 6005; title 46 App. section 1155.

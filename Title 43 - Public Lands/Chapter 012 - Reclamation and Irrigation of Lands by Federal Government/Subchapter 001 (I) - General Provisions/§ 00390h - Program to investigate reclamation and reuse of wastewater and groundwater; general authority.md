@@ -6,23 +6,31 @@ The Secretary of the Interior (hereafter “Secretary”), acting pursuant to th
 
 #### (b) States included
 
-Such program shall be limited to the States and areas referred to in section 1 of the Reclamation Act of 1902 (Act of June 17, 1902, 32 Stat. 388) \[43 U.S.C. 391\] as amended.
+Such program shall be limited to the States and areas referred to in section 1 of the Reclamation Act of 1902 (Act of June 17, 1902, 32 Stat. 388) \[43 U.S.C. 391\] as amended, and the State of Hawaii.
 
 #### (c) Agreements and regulations
 
-The Secretary is authorized to enter into such agreements and promulgate such regulations as may be necessary to carry out the purposes and provisions of sections 390h to 390h–15 of this title.
+The Secretary is authorized to enter into such agreements and promulgate such regulations as may be necessary to carry out the purposes and provisions of sections 390h to 390h–16 of this title.
 
 #### (d) San Luis Unit of Central Valley Project, California
 
-The Secretary shall not investigate, promote or implement, pursuant to sections 390h to 390h–15 of this title, any project intended to reclaim and reuse agricultural wastewater generated in the service area of the San Luis Unit of the Central Valley Project, California, except those measures recommended for action by the San Joaquin Valley Drainage Program in the report entitled A Management Plan for Agricultural Subsurface Drainage and Related Problems on the Westside San Joaquin Valley (September 1990).
+The Secretary shall not investigate, promote or implement, pursuant to sections 390h to 390h–16 of this title, any project intended to reclaim and reuse agricultural wastewater generated in the service area of the San Luis Unit of the Central Valley Project, California, except those measures recommended for action by the San Joaquin Valley Drainage Program in the report entitled A Management Plan for Agricultural Subsurface Drainage and Related Problems on the Westside San Joaquin Valley (September 1990).
 
-(Pub. L. 102–575, title XVI, §1602, Oct. 30, 1992, 106 Stat. 4664.)
+(Pub. L. 102–575, title XVI, §1602, Oct. 30, 1992, 106 Stat. 4664; Pub. L. 106–566, title I, §104(a), Dec. 23, 2000, 114 Stat. 2819.)
 
 #### References in Text
 
 The Reclamation Act of 1902 (Act of June 17, 1902, 32 Stat. 388), referred to in subsec. (a), is act June 17, 1902, ch. 1093, 32 Stat. 388, as amended which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 371 of this title and Tables.
 
-Hereafter, referred to in subsec. (a), means hereafter in title XVI of Pub. L. 102–575, Oct. 30, 1992, 106 Stat. 4663, which enacted sections 390h to 390h–15 of this title.
+Hereafter, referred to in subsec. (a), means hereafter in title XVI of Pub. L. 102–575, Oct. 30, 1992, 106 Stat. 4663, which enacted sections 390h to 390h–16 of this title.
+
+#### Amendments
+
+2000—Subsec. (b). Pub. L. 106–566 inserted “, and the State of Hawaii” before period at end.
+
+#### Short Title of 2000 Amendment
+
+Pub. L. 106–566, title I, §101, Dec. 23, 2000, 114 Stat. 2818, provided that: “This title \[amending this section\] may be cited as the ‘Hawaii Water Resources Act of 2000’.”
 
 #### Short Title of 1998 Amendment
 
@@ -34,7 +42,7 @@ Pub. L. 104–266, §1, Oct. 9, 1996, 110 Stat. 3290, provided that: “This Act
 
 #### Short Title
 
-Section 1601 of title XVI of Pub. L. 102–575 provided that: “This title \[enacting sections 390h to 390h–15 ofthis title\] may be referred to as the ‘Reclamation Wastewater and Groundwater Study and Facilities Act’.”
+Section 1601 of title XVI of Pub. L. 102–575 provided that: “This title \[enacting sections 390h to 390h–15 of this title\] may be referred to as the ‘Reclamation Wastewater and Groundwater Study and Facilities Act’.”
 
 #### Section Referred to in Other Sections
 

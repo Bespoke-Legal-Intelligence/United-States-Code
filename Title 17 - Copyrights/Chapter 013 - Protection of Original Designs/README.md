@@ -39,7 +39,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in title 28 sections 1338, 1498.
+This chapter is referred to in title 19 section 1337; title 28 sections 1338, 1498.
 
 
 ---

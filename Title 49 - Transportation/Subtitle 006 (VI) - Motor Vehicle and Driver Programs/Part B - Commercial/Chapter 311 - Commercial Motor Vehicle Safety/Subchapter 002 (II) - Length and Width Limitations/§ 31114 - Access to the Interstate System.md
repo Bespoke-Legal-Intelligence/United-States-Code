@@ -10,7 +10,7 @@ Prohibition on Denying Access.—A State may not enact or enforce a law denying 
 
 (b)
 
-Exception.—This section does not prevent a State or local government from imposing reasonable restrictions, based on safety considerations, on a truck tractor-semitrailer combination in which the semitrailer has a length of not more than 28.5 feet and that generally operates as part of a vehicle combination described in section 31111(c) of this title.
+Exception.—This section does not prevent a State or local government from imposing reasonable restrictions, based on safety considerations, on a truck tractor-semitrailer combination in which the semitrailer has a length of notmore than 28.5 feet and that generally operates as part of a vehicle combination described in section 31111(c) of this title.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 999.)
 

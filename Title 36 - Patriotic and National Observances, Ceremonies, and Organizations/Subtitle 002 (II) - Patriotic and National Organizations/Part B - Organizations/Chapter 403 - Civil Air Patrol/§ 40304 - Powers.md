@@ -40,3 +40,7 @@ Clause (4) is substituted for “acquire, hold, mortgage, and dispose of such re
 
 In clause (6), the words “any other act” are substituted for “any and all acts and things” to eliminate unnecessary words. The word “objects” is omitted as unnecessary.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in title 10 section 9447.
+

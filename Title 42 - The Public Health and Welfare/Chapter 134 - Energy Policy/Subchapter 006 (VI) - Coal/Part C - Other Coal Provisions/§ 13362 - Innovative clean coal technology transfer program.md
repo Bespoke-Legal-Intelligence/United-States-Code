@@ -88,7 +88,7 @@ Pursuant to the agreements under subsection (a) of this section, the Secretary, 
 
 #### (h) Selection of projects
 
-(1) Pursuant to the agreements under subsection (a) of this section, the Secretary, through the Agency for International Development, shall, not later than 120 days after receipt of proposals in response to a solicitation under subsection (e) of this section, select one or more proposals under this section.
+(1) Pursuant to the agreements under subsection (a) of this section, the Secretary,through the Agency for International Development, shall, not later than 120 days after receipt of proposals in response to a solicitation under subsection (e) of this section, select one or more proposals under this section.
 
 (2) In selecting a proposal under this section, the Secretary, through the Agency for International Development, shall consider—
 
@@ -96,7 +96,7 @@ Pursuant to the agreements under subsection (a) of this section, the Secretary, 
 
 &emsp;(B) the degree to which the equipment to be included in the project is designed and manufactured in the United States;
 
-&emsp;(C) the long-term technical and competitive viability of the United States technology, and services related thereto, and the ability of theUnited States firm to compete in the development of additional energy projects using such technology in the host country and in other foreign countries;
+&emsp;(C) the long-term technical and competitive viability of the United States technology, and services related thereto, and the ability of the United States firm to compete in the development of additional energy projects using such technology in the host country and in other foreign countries;
 
 &emsp;(D) the extent of technical and financial involvement of the host country in the project;
 

@@ -12,7 +12,7 @@ Section is comprised of the second and third pars. of section 13 of act Dec. 23,
 
 #### Amendments
 
-1991—Pub. L. 102–242 struck out “of the kinds and maturities made eligible for discount for member banks under other provisions of this chapter” after first reference to “bills of exchange” in second par.
+1991—Pub. L. 102–242 struck out “of the kinds and maturities made eligible for discount for member banksunder other provisions of this chapter” after first reference to “bills of exchange” in second par.
 
 1935—Act Aug. 23, 1935, §322, substituted words immediately preceding proviso for “indorsed and otherwise secured to the satisfaction of the Federal reserve bank.”
 
@@ -21,10 +21,6 @@ Section is comprised of the second and third pars. of section 13 of act Dec. 23,
 #### Change of Name
 
 Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
-
-#### Cross References
-
-Notes on loans for construction of residential or farm buildings eligible for discount under this section, see section 371 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -14,30 +14,27 @@
 | [12738\.](%C2%A7%2012738%20-%20Limitations%20on%20revocation%20of%20retired%20pay.md) | Limitations on revocation of retired pay. |
 | [12739\.](%C2%A7%2012739%20-%20Computation%20of%20retired%20pay.md) | Computation of retired pay. |
 | [12740\.](%C2%A7%2012740%20-%20Eligibility%20denial%20upon%20certain%20punitive%20discharges%20or%20dismissals.md) | Eligibility: denial upon certain punitive discharges or dismissals. |
+| [12741\.](%C2%A7%2012741%20-%20Retirement%20from%20active%20reserve%20service%20performed%20after%20regular%20retirement.md) | Retirement from active reserve service performed after regular retirement. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
+2000—Pub. L. 106–398, §1 \[\[div. A\], title VI, §653(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–165, added item 12741.
+
 1999—Pub. L. 106–65, div. A, title VI, §653(b)(2), Oct. 5, 1999, 113 Stat. 667, added item 12731b.
 
 1996—Pub. L. 104–106, div. A, title VI, §632(a)(2), Feb. 10, 1996, 110 Stat. 365, added item 12740.
 
-1994—Pub. L. 103–337, div. A, title XVI, §1662(j)(1), Oct. 5, 1994, 108 Stat. 2998, renumbered chapter 67 of this title as this chapter and amended analysis generally, renumbering items 1331 to 1338 as items 12731 to 12738, respectively, substituting “Entitlement to retired pay: computation of years of service” for “Computation of years of service in determining entitlement to retired pay” in item 12732 and “Computation of retired pay:computation of years of service” for “Computation of years of service in computing retired pay” in item 12733, and adding item 12739.
+1994—Pub. L. 103–337, div. A, title XVI, §1662(j)(1), Oct. 5, 1994, 108 Stat. 2998, renumbered chapter 67 of this title as this chapter and amended analysis generally, renumbering items 1331 to 1338 as items 12731 to 12738, respectively, substituting “Entitlement to retired pay: computation of years of service” for “Computation of years of service in determining entitlement to retired pay” in item 12732 and “Computation of retired pay: computation of years of service” for “Computation of years of service in computing retired pay” in item 12733, and adding item 12739.
 
 1992—Pub. L. 102–484, div. D, title XLIV, §4417(b), Oct. 23, 1992, 106 Stat. 2717, added item 1331a.
 
 1986—Pub. L. 99–348, title III, §304(b)(1), July 1, 1986, 100 Stat. 703, added item 1338.
 
-#### Cross References
-
-Creditable service for civil service retirement, see sections 8332, 8411 of Title 5, Government Organization and Employees.
-
-Retention after qualifications for retired pay, see section 12308 of this title.
-
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1053, 1064, 1065, 1076, 1076c, 1331, 1370, 1407, 1409, 1447, 1452, 1463, 3961, 8961, 10153, 12307, 12308, 12319, 12605, 14901, 14905 of this title; title 5 sections 8332, 8411; title 38 sections 1965, 2301, 2306; title 50 section 2082.
+This chapter is referred to in sections 1053, 1064, 1065, 1076, 1076c, 1331, 1370, 1407, 1409, 1447, 1452, 1463, 4342, 6954, 9342, 10153, 12307, 12308, 12319, 12605, 14901, 14905 of this title; title 5 sections 8332, 8411, 9001; title 38 sections 1965, 2301, 2306; title 50 section 2082.
 
 
 ---
@@ -56,3 +53,4 @@ This chapter is referred to in sections 1053, 1064, 1065, 1076, 1076c, 1331, 137
 - [&sect; 12738 - Limitations on revocation of retired pay](%C2%A7%2012738%20-%20Limitations%20on%20revocation%20of%20retired%20pay.md)
 - [&sect; 12739 - Computation of retired pay](%C2%A7%2012739%20-%20Computation%20of%20retired%20pay.md)
 - [&sect; 12740 - Eligibility denial upon certain punitive discharges or dismissals](%C2%A7%2012740%20-%20Eligibility%20denial%20upon%20certain%20punitive%20discharges%20or%20dismissals.md)
+- [&sect; 12741 - Retirement from active reserve service performed after regular retirement](%C2%A7%2012741%20-%20Retirement%20from%20active%20reserve%20service%20performed%20after%20regular%20retirement.md)

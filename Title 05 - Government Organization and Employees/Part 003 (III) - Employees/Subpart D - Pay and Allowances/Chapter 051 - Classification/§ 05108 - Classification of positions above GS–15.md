@@ -146,7 +146,7 @@ Subsec. (c)(13) to (16). Pub. L. 95–454, §414(a)(1)(A)(i), repealed par. (13)
 
 Subsec. (c)(17). Pub. L. 95–563 added par. (17).
 
-Subsec. (d). Pub. L. 95–454, §414(a)(1)(A)(ii), repealed subsec. (d) which provided the order for reducing the positions authorized to be placed in grades GS–16, 17, and 18 under this section when a general authorization statute authorized additional positions in these grades.
+Subsec. (d). Pub. L. 95–454, §414(a)(1)(A)(ii), repealed subsec. (d) which provided the order for reducing the positions authorized to be placed in grades GS–16, 17,and 18 under this section when a general authorization statute authorized additional positions in these grades.
 
 Subsec. (e). Pub. L. 95–454, §414(a)(1)(A)(ii), repealed subsec. (e) which authorized Commissioner of Internal Revenue to place 20 additional positions in grades GS–16 and 17.
 
@@ -170,7 +170,7 @@ Subsec. (c)(13) to (16). Pub. L. 94–183, §2(15), redesignated par. (12) relat
 
 1974—Subsec. (c)(11). Pub. L. 93–415 increased from twenty-two to twenty-five the number of positions which the Law Enforcement Assistance Administration may place in GS–16, 17, and 18. Amendment has been executed to subsec. (c)(11) as the probable intent of Congress notwithstanding direction in section 210 (g) of Pub. L. 93–415 that the amendment be executed to subsec. (c) (10).
 
-Subsec. (c)(11) to (14). Pub. L. 93–282 redesignated par. (10) relating to Law Enforcement Assistance Administration, par. (10) relating to Chief Judge of the United States Tax Court, par. (11) relating to Chairman of the Equal Employment Opportunity Commission, as pars. (11) to (13), respectively, and added par. (14) relating toGS–16, 17, and 18 positions in the National Institute on Alcohol Abuse and Alcoholism.
+Subsec. (c)(11) to (14). Pub. L. 93–282 redesignated par. (10) relating to Law Enforcement Assistance Administration, par. (10) relating to Chief Judge of the United States Tax Court, par. (11) relating to Chairman of the Equal Employment Opportunity Commission, as pars. (11) to (13), respectively, and added par. (14) relating to GS–16, 17, and 18 positions in the National Institute on Alcohol Abuse and Alcoholism.
 
 Subsec. (c)(12). Pub. L. 93–651 and Pub. L. 93–516 amended section identically, adding par. (12) relating to Secretary of Health, Education, and Welfare and the Office for the Blind and Visually Handicapped of the Rehabilitation Services Administration.
 
@@ -240,7 +240,7 @@ Amendment by Pub. L. 95–454 effective 180 days after Oct. 13, 1978, see sectio
 
 #### Effective Date of 1976 Amendment
 
-Amendment by Pub. L. 94–233 effective on sixtieth day following Mar. 15, 1976, see section 16(b) of Pub. L. 94–233, set out as an Effective Date note under section 4201 of Title 18, Crimes and Criminal Procedure.
+Amendment by Pub. L. 94–233 effective on sixtieth day following Mar. 15, 1976, see section 16(b) of Pub. L.94–233, set out as an Effective Date note under section 4201 of Title 18, Crimes and Criminal Procedure.
 
 #### Effective Date of 1974 Amendments
 
@@ -296,11 +296,7 @@ Pub. L. 95–26, title I, May 4, 1977, 91 Stat. 94, authorizing the Director of 
 
 Preference to be given to blind individuals in selection of additional personnel under subsec. (c)(12) of this section, see section 208(c) of Pub. L. 93–516, set out as a note under section 702 of Title 29, Labor.
 
-#### Cross References
-
-Chairman of Consumer Product Safety Commission authorized to place twelve positions in GS–16, GS–17, and GS–18, see section 2053 of Title 15, Commerce and Trade.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3132, 3304, 3324, 3594, 5376, 5723 of this title; title 2 section 166; title 15 section 2053; title 20 sections 1505, 3461, 9175; title 22 sections 2193, 2385, 2454, 6204; title 25 section 640d–11; title 29 sections 661, 1137; title 30 section 1211; title 42 section 7231; title 45 section 231f.
+This section is referred to in sections 3132, 3304, 3324, 3594, 5372b, 5376, 5723 of this title; title 2 section 166; title 15 section 2053; title 20 sections 1505, 3461, 9175; title 22 sections 2193, 2385, 2454, 6204; title 25 section 640d–11; title 29 sections 661, 1137; title 30 section 1211; title 42 section 7231; title 45 section 231f.
 

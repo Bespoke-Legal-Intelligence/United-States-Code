@@ -8,7 +8,7 @@
 
 #### (b) Sale of passports and stamps
 
-(1) National park passports and stamps shall be sold through the National Park Service and may be sold by private vendors on consignment in accordance with guidelines established by the Secretary.
+(1) National park passports and stamps shall be sold through the National Park Service andmay be sold by private vendors on consignment in accordance with guidelines established by the Secretary.
 
 (2) A private vendor may be allowed to collect a commission on each national park passport (including stamp) sold, as determined by the Secretary.
 
@@ -28,9 +28,11 @@ The Secretary may enter into cooperative agreements with the National Park Found
 
 The fee for a national park passport and stamp shall be $50.
 
-(Pub. L. 105–391, title VI, §603, Nov. 13, 1998, 112 Stat. 3519; Pub. L. 106–113, div. B, §1000(a)(3) \[title I, §145\], Nov. 29, 1999, 113 Stat. 1535, 1501A–171.)
+(Pub. L. 105–391, title VI, §603, Nov. 13, 1998, 112 Stat. 3519; Pub. L. 106–113, div. B, §1000(a)(3) \[title I, §145\], Nov. 29, 1999, 113 Stat. 1535, 1501A–171; Pub. L. 106–176, title III, §306, Mar. 10, 2000, 114 Stat. 33.)
 
 #### Amendments
+
+2000—Subsec. (c)(1). Pub. L. 106–176 directed amendment identical to amendment by Pub. L. 106–113. See 1999 Amendment note below.
 
 1999—Subsec. (c)(1). Pub. L. 106–113 substituted “15 percent” for “10 percent”.
 

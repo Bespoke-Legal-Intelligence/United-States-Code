@@ -1,0 +1,24 @@
+### §9006. Studies, reports, and audits
+
+(a)
+
+Provisions Relating to Carriers.—Each master contract under this chapter shall contain provisions requiring the carrier—
+
+&emsp;(1) to furnish such reasonable reports as the Office of Personnel Management determines to be necessary to enable it to carry out its functions under this chapter; and
+
+&emsp;(2) to permit the Office and representatives of the General Accounting Office to examine such records of the carrier as may be necessary to carry out the purposes of this chapter.
+
+(b)
+
+Provisions Relating to Federal Agencies.—Each Federal agency shall keep such records, make such certifications, and furnish the Office, the carrier, or both, with such information and reports as the Office may require.
+
+(c)
+
+Reports by the General Accounting Office.—The General Accounting Office shall prepare and submit to the President, the Office of Personnel Management, and each House of Congress, before the end of the third and fifth years during which the program under this chapter is in effect, a written report evaluating such program. Each such report shall include an analysis of the competitiveness of the program, as compared to both group and individual coverage generally available to individuals in the private insurance market. The Office shall cooperate with the General Accounting Office to provide periodic evaluations of the program.
+
+(Added Pub. L. 106–265, title I, §1002(a), Sept. 19, 2000, 114 Stat. 768.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 9003 of this title.
+

@@ -18,9 +18,11 @@ It is therefore declared to be the purpose and policy of the Congress in this se
 
 &emsp;(1) to take immediate action to protect the limited quantity of water available from the Great Lakes system for use by the Great Lakes States and in accordance with the Boundary Waters Treaty of 1909;
 
-&emsp;(2) to prohibit any diversion of Great Lakes water by any State, Federal agency, or private entity for use outside the Great Lakes basin unless such diversion is approved by the Governor of each of the Great Lakes States; and
+&emsp;(2) to encourage the Great Lakes States, in consultation with the Provinces of Ontario and Quebec, to develop and implement a mechanism that provides a common conservation standard embodying the principles of water conservation and resource improvement for making decisions concerning the withdrawal and use of water from the Great Lakes Basin;
 
-&emsp;(3) to prohibit any Federal agency from undertaking any studies that would involve the transfer of Great Lakes water for any purpose for use outside the Great Lakes basin.
+&emsp;(3) to prohibit any diversion of Great Lakes water by any State, Federal agency, or privateentity for use outside the Great Lakes basin unless such diversion is approved by the Governor of each of the Great Lakes States; and
+
+&emsp;(4) to prohibit any Federal agency from undertaking any studies that would involve the transfer of Great Lakes water for any purpose for use outside the Great Lakes basin.
 
 #### (c) “Great Lakes State” defined
 
@@ -28,7 +30,7 @@ As used in this section, the term “Great Lakes State” means each of the Stat
 
 #### (d) Approval by Governors for diversion of water
 
-No water shall be diverted from any portion of the Great Lakes within the United States, or from any tributary within the United States of any of the Great Lakes, for use outside the Great Lakes basin unless such diversion is approved by the Governor of each of the Great Lake <sup>1</sup> States.
+No water shall be diverted or exported from any portion of the Great Lakes within the United States, or from any tributary within the United States of any of the Great Lakes, for use outside the Great Lakes basin unless such diversion or export is approved by the Governor of each of the Great Lake <sup>1</sup> States.
 
 #### (e) Approval of Governors for diversion studies
 
@@ -38,11 +40,17 @@ No Federal agency may undertake any study, or expend any Federal funds to contra
 
 This section shall not apply to any diversion of water from any of the Great Lakes which is authorized on November 17, 1986.
 
-(Pub. L. 99–662, title XI, §1109, Nov. 17, 1986, 100 Stat. 4230.)
+(Pub. L. 99–662, title XI, §1109, Nov. 17, 1986, 100 Stat. 4230; Pub. L. 106–541, title V, §504(a), (b), Dec. 11, 2000, 114 Stat. 2644.)
 
 #### Codification
 
 Section was enacted as part of the Water Resources Development Act of 1986, and not as part of the Water Resources Planning Act which comprises this chapter.
+
+#### Amendments
+
+2000—Subsec. (b)(2) to (4). Pub. L. 106–541, §504(a), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
+
+Subsec. (d). Pub. L. 106–541, §504(b), inserted “or exported” after “diverted” and “or export” after “diversion”.
 
 #### Great Lakes Consumptive Use Study
 
@@ -52,11 +60,11 @@ Similar provisions were contained in Pub. L. 99–662, title XI, §1147, Nov. 17
 
 #### Measurements of Lake Michigan Diversions
 
-Section 1142 of Pub. L. 99–662, as amended by Pub. L. 106–53, title V, §508, Aug. 17, 1999, 113 Stat. 339, provided that:
+Section 1142 of Pub. L. 99–662, as amended by Pub. L. 106–53, title V, §508, Aug. 17, 1999, 113 Stat. 339; Pub. L. 106–541, title V, §518, Dec. 11, 2000, 114 Stat. 2653, provided that:
 
 “(a) Beginning October 1, 1987, the Secretary, in cooperation with the State of Illinois, shall carry out measurements and make necessary computations required by the decree of the United States Supreme Court (388 U.S. 426) relating to the diversion of water from Lake Michigan and shall coordinate the results with downstate interests. The measurements and computations shall consist of all flow measurements, gauge records, hydraulic and hydrologic computations, including periodic field investigations and measuring device calibrations, necessary to compute the amount of water diverted from Lake Michigan by the State of Illinois and its municipalities, political subdivisions, agencies, and instrumentalities, not including water diverted or used by Federal installations.
 
-“(b) There are authorized to be appropriated $1,250,000 for each of fiscal years 1999 through 2003 to carry out this section, including those funds necessary to maintain the measurements and computations, as well as necessary capital construction costs associated with the installation of new flow measurement devices or structures declared necessary and appropriate by the Secretary.”
+“(b) There are authorized to be appropriated $1,250,000 for each of fiscal years 1999 through 2003 and $800,000 for each fiscal year beginning after September 30, 2003, to carry out this section, including those funds necessary to maintain the measurements and computations, as well as necessary capital construction costs associated with the installation of new flow measurement devices or structures declared necessary and appropriate by the Secretary.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Lakes”.</i>
 

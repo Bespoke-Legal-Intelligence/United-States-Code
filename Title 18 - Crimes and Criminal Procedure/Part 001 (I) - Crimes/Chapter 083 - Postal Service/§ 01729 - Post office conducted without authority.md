@@ -20,7 +20,3 @@ Minor verbal changes were made.
 
 Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by Board of Governors of United States Postal Service and published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
 
-#### Cross References
-
-Establishing post offices, see section 401 et seq. of Title 39, Postal Service.
-

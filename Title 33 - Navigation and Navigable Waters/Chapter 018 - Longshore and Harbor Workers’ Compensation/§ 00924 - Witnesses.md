@@ -8,7 +8,3 @@ No person shall be required to attend as a witness in any proceeding before a de
 
 As originally enacted, this section contained a reference to the Supreme Court of the District of Columbia. Act June 25, 1936, substituted “the district court of the United States for the District of Columbia” for “the Supreme Court of the District of Columbia”, and act June 25, 1948, as amended by act May 24, 1949, substituted “United States District Court for the District of Columbia” for “district court of the United States for the District of Columbia”.
 
-#### Federal Rules of Civil Procedure
-
-Depositions and discovery, see rule 26 et seq. of Title 28, Appendix, Judiciary and Judicial Procedure.
-

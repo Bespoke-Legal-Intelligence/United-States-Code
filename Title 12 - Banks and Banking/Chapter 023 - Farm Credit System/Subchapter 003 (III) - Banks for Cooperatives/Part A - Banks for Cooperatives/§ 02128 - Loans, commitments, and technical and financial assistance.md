@@ -42,7 +42,7 @@ The banks for cooperatives may, for the purpose of installing, maintaining, expa
 
 &emsp;(1) cooperatives formed specifically for the purpose of establishing or operating such facilities; and
 
-&emsp;(2) public and quasi-public agencies and bodies, and other public and private entities that, under authority of State or local law, establish or operate such facilities.
+&emsp;(2) public and quasi-public agencies and bodies, and other public and private entities that,under authority of State or local law, establish or operate such facilities.
 
 > For purposes of this subsection, the term “rural area” means all territory of a State that is not within the outer boundary of any city or town having a population of more than 20,000 based on the latest decennial census of the United States.
 

@@ -8,7 +8,7 @@ The President shall review annually the WTO panel roster and shall include the p
 
 The Trade Representative shall—
 
-&emsp;(1) seek to ensure that persons appointed to the WTO panel roster are well-qualified, and that the roster includes persons with expertise in the subject areas covered by the Uruguay Round Agreements; and
+&emsp;(1) seek to ensure that persons appointed to the WTO panel roster are well-qualified, andthat the roster includes persons with expertise in the subject areas covered by the Uruguay Round Agreements; and
 
 &emsp;(2) inform the President of persons nominated to the roster by other WTO member countries.
 

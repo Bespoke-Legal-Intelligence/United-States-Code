@@ -34,7 +34,7 @@ In the event an environmental assessment or environmental impact statement is re
 
 #### (d) Exception
 
-A Federal agency is not required under this section to carry out programs on Federal lands unless similar programs are being implemented generally on State or private lands in the same area.
+A Federal agency is not required under this section to carry out programs on Federal landsunless similar programs are being implemented generally on State or private lands in the same area.
 
 #### (e) Definitions
 

@@ -160,7 +160,7 @@ I74subpart i—marketing quotas—tobacco
 | (d) | Five-year restriction on new farm allotments or quotas. |
 | (e) | Allotment adjustment. |
 | (f) | Lease term. |
-| (g) | Acreage transfer maximums. |
+| (g) | Transfer of allotments. |
 | (h) | Future allotments; referendum voting eligibility. |
 | (i) | Land utilization agreements; payment adjustments. |
 | (j) | Rules and regulations. |
@@ -176,7 +176,9 @@ I74subpart i—marketing quotas—tobacco
 | (i) | Marketing penalties. |
 | (j) | Regulations. |
 | (k) | Lease and transfer of burley tobacco quota assigned. |
-| (<i>l</i>) | Lease and transfer of burley tobacco quotas in Tennessee, Ohio, Indiana, Kentucky, and Virginia. |
+| (<i>l</i>) | Lease and transfer of Burley tobacco quota. |
+| (m) | Computerized recordkeeping system for Burley tobacco quota and acreage. |
+| (n) | Sale of Burley tobacco quota. |
 | [1314f.](Subchapter%20002%20%28II%29%20-%20Loans%2C%20Parity%20Payments%2C%20Consumer%20Safeguards%2C%20Marketing%20Quotas%2C%20and%20Marketing%20Certificates/Part%20B%20-%20Marketing%20Quotas/Subpart%20001%20%28i%29%20-%20Marketing%20Quotas%E2%80%94Tobacco/%C2%A7%2001314f%20-%20Nonquota%20tobacco%20subject%20to%20quota.md) | Nonquota tobacco subject to quota. |
 | [1314g.](Subchapter%20002%20%28II%29%20-%20Loans%2C%20Parity%20Payments%2C%20Consumer%20Safeguards%2C%20Marketing%20Quotas%2C%20and%20Marketing%20Certificates/Part%20B%20-%20Marketing%20Quotas/Subpart%20001%20%28i%29%20-%20Marketing%20Quotas%E2%80%94Tobacco/%C2%A7%2001314g%20-%20Submission%20of%20purchase%20intentions%20by%20cigarette%20manufacturers.md) | Submission of purchase intentions by cigarette manufacturers. |
 | (a) | Quantity of intended purchases; aggregation not to allow identification. |
@@ -565,7 +567,7 @@ I74subpart i—miscellaneous
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 511r, 1428, 1442, 1444a, 1446c, 1745, 2279, 7301, 7502 of this title.
+This chapter is referred to in sections 511r, 1428, 1442, 1444a, 1446c, 1515, 1745, 2279, 7301, 7502 of this title.
 
 
 ---

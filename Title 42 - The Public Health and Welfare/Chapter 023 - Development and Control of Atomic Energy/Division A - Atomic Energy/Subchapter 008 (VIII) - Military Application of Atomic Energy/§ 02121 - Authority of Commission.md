@@ -22,7 +22,7 @@ The President from time to time may direct the Commission (1) to deliver such qu
 
 The President may authorize the Commission or the Department of Defense, with the assistance of the other, to cooperate with another nation and, notwithstanding the provisions of section 2077, 2092, or 2111 of this title, to transfer by sale, lease, or loan to that nation, in accordance with terms and conditions of a program approved by the President—
 
-&emsp;(1) nonnuclear parts of atomic weapons provided that such nation has made substantial progress in the development of atomic weapons, and other nonnuclear parts of atomic weapons systems involving Restricted Data provided that such transfer will not contribute significantly to that nation's atomic weapon design, development, or fabrication capability;for the purpose of improving that nation's state of training and operational readiness;
+&emsp;(1) nonnuclear parts of atomic weapons provided that such nation has made substantial progress in the development of atomic weapons, and other nonnuclear parts of atomic weapons systems involving Restricted Data provided that such transfer will not contribute significantly to that nation's atomic weapon design, development, or fabrication capability; for the purpose of improving that nation's state of training and operational readiness;
 
 &emsp;(2) utilization facilities for military applications; and
 
@@ -51,6 +51,26 @@ Atomic Energy Commission abolished and functions transferred by sections 5814 an
 #### Delegation of Functions
 
 Authority vested in President by subsec. (c) of this section delegated to Secretary of Defense and Secretary of Energy, see section 2(a)(1) of Ex. Ord. No. 10841, as amended, set out as a note under section 2153 of this title.
+
+#### Form of Certifications Regarding Safety or Reliability of Nuclear Weapons Stockpile
+
+Pub. L. 106–398, §1 \[div. C, title XXXI, §3194\], Oct. 30, 2000, 114 Stat. 1654, 1654A–481, provided that: “Any certification submitted to the President by the Secretary of Defense or the Secretary of Energy regarding confidence in the safety or reliability of a nuclear weapon type in the United States nuclear weapons stockpile shall be submitted in classified form only.”
+
+#### Authority To Provide Certificate of Commendation to Department of Energy and Contractor Employees for Exemplary Service in Stockpile Stewardship and Security
+
+Pub. L. 106–398, §1 \[div. C, title XXXI, §3195\], Oct. 30, 2000, 114 Stat. 1654, 1654A–481, provided that:
+
+“(a)
+
+Authority To Present Certificate of Commendation.—The Secretary of Energy may present a certificate of commendation to any current or former employee of the Department of Energy, and any current or former employee of a Department contractor, whose service to the Department in matters relating to stockpile stewardship and security assisted the Department in furthering the national security interests of the United States.
+
+“(b)
+
+Certificate.—The certificate of commendation presented to a current or former employee under subsection (a) shall include an appropriate citation of the service of the current or former employee described in that subsection, including a citation for dedication, intellect, and sacrifice in furthering the national security interests of the United States by maintaining a strong, safe, and viable United States nuclear deterrent during the Cold War or thereafter.
+
+“(c)
+
+Department of Energy Defined.—For purposes of this section, the term ‘Department of Energy’ includes any predecessor agency of the Department of Energy.”
 
 #### Nuclear Weapons Stockpile Life Extension Program
 
@@ -282,7 +302,7 @@ Report.—Not later than 45 days after the date of the enactment of this Act \[F
 
 &emsp;“(2) the amount of funds required to be expended by the Department, and the program milestones (including feasibility demonstrations) required to be met, during fiscal years 1997 through 2001 to ensure tritium production beginning not later than 2005 that is adequate to meet the tritium requirements of the United States for nuclear weapons; and
 
-&emsp;“(3) the amount of such funds to be expended and such program milestones to be met during such fiscal years to ensure such tritium production beginning not later than 2011.
+&emsp;“(3) the amount of such funds to be expended and such program milestones to be met during such fiscalyears to ensure such tritium production beginning not later than 2011.
 
 “(f)
 
@@ -290,7 +310,7 @@ Tritium Targets.—Of the funds made available pursuant to subsection (b), not m
 
 #### Manufacturing Infrastructure for Refabrication and Certification of Nuclear Weapons Stockpile
 
-Pub. L. 104–106, div. C, title XXXI, §3137, Feb. 10, 1996, 110 Stat. 620, as amended by Pub. L. 104–201, div. C, titleXXXI, §3132(a), (b), Sept. 23, 1996, 110 Stat. 2829, provided that:
+Pub. L. 104–106, div. C, title XXXI, §3137, Feb. 10, 1996, 110 Stat. 620, as amended by Pub. L. 104–201, div. C, title XXXI, §3132(a), (b), Sept. 23, 1996, 110 Stat. 2829, provided that:
 
 “(a)
 
@@ -387,6 +407,34 @@ Allocation of Funds.—The Secretary shall, in consultation with the Assistant S
 Agreement.—(1) The Secretary may allow an individual to participate in the program only if the individual signs an agreement described in paragraph (2).
 
 “(2) An agreement referred to in paragraph (1) shall be in writing, shall be signed by the participant, and shall include the participant's agreement to serve, after completion of the course of study for which the assistance was provided, as a full-time employee in a position in the Department of Energy for a period of time to be established by the Secretary of Energy of not less than one year, if such a position is offered to the participant.”
+
+#### Study on Nuclear Test Readiness Postures
+
+Pub. L. 104–106, div. C, title XXXI, §3152, Feb. 10, 1996, 110 Stat. 623, as amended by Pub. L. 106–398, §1 \[div. C, title XXXI, §3192\], Oct. 30, 2000, 114 Stat. 1654, 1654A–480, provided that:
+
+“(a)
+
+Report.—Not later than February 15, 1996, the Secretary of Energy shall submit to Congress a report on the costs, programmatic issues, and other issues associated with sustaining the capability of the Department of Energy—
+
+&emsp;“(1) to conduct an underground nuclear test 6 months after the date on which the President determines that such a test is necessary to ensure the national security of the United States;
+
+&emsp;“(2) to conduct such a test 18 months after such date; and
+
+&emsp;“(3) to conduct such a test 36 months after such date.
+
+“(b)
+
+Biennial Update Report.—(1) Not later than February 15 of each odd-numbered year, the Secretaryshall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report containing an update of the report required under subsection (a), as updated by any report previously submitted under this paragraph.
+
+“(2) Each report under paragraph (1) shall include, as of the date of such report, the following:
+
+&emsp;“(A) A list and description of the workforce skills and capabilities that are essential to carry out underground nuclear tests at the Nevada Test Site.
+
+&emsp;“(B) A list and description of the infrastructure and physical plant that are essential to carry out underground nuclear tests at the Nevada Test Site.
+
+&emsp;“(C) A description of the readiness status of the skills and capabilities described in subparagraph (A) and of the infrastructure and physical plant described in subparagraph (B).
+
+“(3) Each report under paragraph (1) shall be submitted in unclassified form, but may include a classified annex.”
 
 #### Plan for Stewardship, Management, and Certification of Warheads in the Nuclear Weapons Stockpile
 
@@ -566,7 +614,7 @@ Pub. L. 102–377, title V, §507, Oct. 2, 1992, 106 Stat. 1343, provided that:
 
 &emsp;“(ii) within the 60-day period beginning on the date that Congress receives the certification, Congress does not agree to a joint resolution described in subparagraph (B).
 
-“(B) For the purposes of subparagraph (A), ‘joint resolution’ means only a joint resolution introduced after the date on which the Congress receives the certification referred to in that subparagraph the matter after the resolving clause of which is as follows: ‘The Congress disapproves the testing of a nuclear weapon covered by the certification of the President dated          .’ (the blank space being appropriately filled in).
+“(B) For the purposes of subparagraph (A), ‘joint resolution’ means only a joint resolution introduced after the date on which the Congress receives the certification referred to in that subparagraph the matter after the resolving clause of which is as follows: ‘The Congress disapproves the testing of a nuclear weaponcovered by the certification of the President dated          .’ (the blank space being appropriately filled in).
 
 “(3) The President may authorize the United Kingdom to conduct in the United States, within a period covered by an annual report, one test of a nuclear weapon if the President determines that it is in the national interests of the United States to do so. Such a test shall be considered as one of the tests within the maximum number of tests that the United States is permitted to conduct during that period under paragraph (1)(B).
 
@@ -596,7 +644,7 @@ Findings.—The Congress makes the following findings:
 
 &emsp;“(3) To achieve the agreement on verification measures, the United States and the Soviet Union have agreed to design and conduct a Joint Verification Experiment at the test sites of each country during the summer of 1988.
 
-&emsp;“(4) At the Moscow summit in May 1988, President Reagan and General Secretary Gorbachev reaffirmed their commitment to negotiations on ‘effective verification measures which will make it possible to ratify the Threshold Test Ban Treaty of 1974 and Peaceful Nuclear Explosions Treaty of 1976, and proceed tonegotiating further intermediate limitations on nuclear testing leading to the ultimate objective of the complete cessation of nuclear testing as part of an effective disarmament process’.
+&emsp;“(4) At the Moscow summit in May 1988, President Reagan and General Secretary Gorbachev reaffirmed their commitment to negotiations on ‘effective verification measures which will make it possible to ratify the Threshold Test Ban Treaty of 1974 and Peaceful Nuclear Explosions Treaty of 1976, and proceed to negotiating further intermediate limitations on nuclear testing leading to the ultimate objective of the complete cessation of nuclear testing as part of an effective disarmament process’.
 
 “(b)
 

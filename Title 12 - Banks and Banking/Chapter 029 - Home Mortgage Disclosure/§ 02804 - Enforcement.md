@@ -38,7 +38,7 @@ The Federal Credit Union Act, referred to in subsec. (b)(3), is act June 26, 193
 
 #### Amendments
 
-1991—Subsec. (b). Pub. L. 102–242, §212(a)(2)(B), inserted at end “The terms used in paragraph (1) that arenot defined in this chapter or otherwise defined in section 1813(s) of this title shall have the meaning given to them in section 3101 of this title.”
+1991—Subsec. (b). Pub. L. 102–242, §212(a)(2)(B), inserted at end “The terms used in paragraph (1) that are not defined in this chapter or otherwise defined in section 1813(s) of this title shall have the meaning given to them in section 3101 of this title.”
 
 Subsec. (b)(1). Pub. L. 102–242, §212(a)(2)(A), added par. (1) and struck out former par. (1) which read as follows: “section 1818 of this title, in the case of—
 

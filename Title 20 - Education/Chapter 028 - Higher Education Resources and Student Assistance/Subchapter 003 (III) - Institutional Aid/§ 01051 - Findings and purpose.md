@@ -24,7 +24,7 @@ The Congress finds that—
 
 It is the purpose of this subchapter to assist such institutions in equalizing educational opportunity through a program of Federal assistance.
 
-(Pub. L. 89–329, title III, §301, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1290; amended Pub. L. 102–325, title III, §301, July 23, 1992, 106 Stat. 472; Pub. L. 103–208, §2(a)(4), Dec. 20, 1993, 107 Stat. 2457; Pub. L. 105–244, title III, §302, Oct. 7, 1998, 112 Stat. 1637.)
+(Pub. L. 89–329, title III, §301, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat.1290; amended Pub. L. 102–325, title III, §301, July 23, 1992, 106 Stat. 472; Pub. L. 103–208, §2(a)(4), Dec. 20, 1993, 107 Stat. 2457; Pub. L. 105–244, title III, §302, Oct. 7, 1998, 112 Stat. 1637.)
 
 #### Prior Provisions
 
@@ -78,7 +78,7 @@ Effective on October 1, 1993.—The amendments made by the following subsections
 
 &emsp;“(2)
 
-Effective on date of enactment.—The amendments made by the following subsections ofsection 2 of this Act shall be effective on and after the date of enactment of this Act \[Dec. 20, 1993\]: (b)(2), (b)(7), (b)(28), (c)(3), (c)(5), (c)(13)(B), (c)(13)(C), (c)(18), (c)(30), (c)(62) \[amending sections 1070a, 1070a–11, 1070d–33, 1075, 1077a, 1078, 1078–1, and 1085 of this title\].
+Effective on date of enactment.—The amendments made by the following subsections of section 2 of this Act shall be effective on and after the date of enactment of this Act \[Dec. 20, 1993\]: (b)(2), (b)(7), (b)(28), (c)(3), (c)(5), (c)(13)(B), (c)(13)(C), (c)(18), (c)(30), (c)(62) \[amending sections 1070a, 1070a–11, 1070d–33, 1075, 1077a, 1078, 1078–1, and 1085 of this title\].
 
 &emsp;“(3)
 

@@ -14,7 +14,7 @@ The offense shall be deemed to have been committed not only in the district wher
 
 The carrying or transporting of any such money, freight, express, baggage, goods, or chattels in interstate or foreign commerce, knowing the same to have been stolen, shall constitute a separate offense and subject the offender to the penalties under this section for unlawful taking, and the offense shall be deemed to have been committed in any district into which such money, freight, express, baggage, goods, or chattels shall have been removed or into which the same shall have been brought by such offender.
 
-To establish the interstate or foreign commerce character of any shipment in any prosecution under this section the waybill or other shipping document of such shipment shall be prima facie evidence of the place from which and to which such shipment was made. The removal of property from a pipeline system whichextends interstate shall be prima facie evidence of the interstate character of the shipment of the property.
+To establish the interstate or foreign commerce character of any shipment in any prosecution under this section the waybill or other shipping document of such shipment shall be prima facie evidence of the place from which and to which such shipment was made. The removal of property from a pipeline system which extends interstate shall be prima facie evidence of the interstate character of the shipment of the property.
 
 A judgment of conviction or acquittal on the merits under the laws of any State shall be a bar to any prosecution under this section for the same act or acts. Nothing contained in this section shall be construed as indicating an intent on the part of Congress to occupy the field in which provisions of this section operate to the exclusion of State laws on the same subject matter, nor shall any provision of this section be construed as invalidating any provision of State law unless such provision is inconsistent with any of the purposes of this section or any provision thereof.
 
@@ -53,18 +53,6 @@ The “corrective legislation”, referred to in this paragraph, became Act Apri
 1966—Pub. L. 89–654 substituted “shipments by carrier” for “baggage, express, or freight” in section catchline, inserted “pipeline system” and “tank or storage facility” and substituted “freight, express, or other property” for “freight or express” in par. 1, provided in par. 8 that the removal of property from a pipeline system which extends interstate shall be prima facie evidence of the interstate character of the shipment of the property, and, in par. 9, prohibited any construction which indicated an intent on the part of Congress to occupy the field to the exclusion of State laws or to invalidate inconsistent State provisions.
 
 1949—Act May 24, 1949, inserted “embezzled or” before “stolen” in second par., and substituted “whoever” for “who” before “buys” in fourth par.
-
-#### Federal Rules of Criminal Procedure
-
-Venue, see rules 18 to 22, Appendix to this title.
-
-#### Cross References
-
-Destruction of property moving in commerce, see section 80501 of Title 49, Transportation.
-
-Railroad car entered or seal broken, see section 2117 of this title.
-
-Wire or oral communications, authorization for interception, to provide evidence of offenses under this section, see section 2516 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -34,7 +34,7 @@ The Secretary, in approving projects pursuant to this section, may authorize fun
 
 &emsp;(F) The Indian tribe or tribal organization has the administrative and financial capability to administer the project.
 
-&emsp;(G) The project is integrated with providers of related health and social services and is coordinated with, and avoids duplication of, existing services.
+&emsp;(G) The project is integrated with providers of related health and social services and iscoordinated with, and avoids duplication of, existing services.
 
 (2) The Secretary may provide for the establishment of peer review panels, as necessary, to review and evaluate applications and to advise the Secretary regarding such applications using the criteria developed pursuant to paragraph (1).
 
@@ -70,7 +70,7 @@ The authority to provide services to persons otherwise ineligible for the health
 
 #### (f) Equitable treatment
 
-For purposes of subsection (c)(1)(A) of this section, the Secretary shall, in evaluating facilitiesoperated under any contract entered into with the Service under the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\], use the same criteria that the Secretary uses in evaluating facilities operated directly by the Service.
+For purposes of subsection (c)(1)(A) of this section, the Secretary shall, in evaluating facilities operated under any contract entered into with the Service under the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\], use the same criteria that the Secretary uses in evaluating facilities operated directly by the Service.
 
 #### (g) Equitable integration of facilities
 

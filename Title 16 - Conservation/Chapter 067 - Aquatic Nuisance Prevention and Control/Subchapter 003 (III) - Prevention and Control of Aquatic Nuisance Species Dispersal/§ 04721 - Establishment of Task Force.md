@@ -36,7 +36,7 @@ Within six months of November 29, 1990, the Director and the Under Secretary sha
 
 #### (f) Coordination
 
-Each Task Force member shall coordinate any action to carry out this subchapter with any such action by other members of the Task Force, and regional, State and local entities.
+Each Task Force member shall coordinate any action to carry out this subchapter with anysuch action by other members of the Task Force, and regional, State and local entities.
 
 (Pub. L. 101–646, title I, §1201, Nov. 29, 1990, 104 Stat. 4765; Pub. L. 104–182, title III, §308(b), Aug. 6, 1996, 110 Stat. 1689; Pub. L. 104–332, §2(e)(2), (h)(1), Oct. 26, 1996, 110 Stat. 4085, 4091.)
 

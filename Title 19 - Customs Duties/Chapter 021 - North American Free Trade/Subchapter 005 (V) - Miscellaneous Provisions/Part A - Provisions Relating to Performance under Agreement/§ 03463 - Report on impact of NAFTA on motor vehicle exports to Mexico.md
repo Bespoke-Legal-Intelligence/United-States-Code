@@ -24,7 +24,7 @@ No later than July 1, 1995, and annually thereafter through 1999, the Trade Repr
 
 &emsp;(4) Whether any such increase in United States exports meets the levels of new export opportunities anticipated under the Agreement.
 
-&emsp;(5) If the anticipated levels of new United States export opportunities are not reached, what actions the Trade Representative is prepared to take to realize the benefits anticipated under the Agreement, including possibleinitiation of additional negotiations with Mexico for the purpose of seeking modifications of the Agreement.
+&emsp;(5) If the anticipated levels of new United States export opportunities are not reached, what actions the Trade Representative is prepared to take to realize the benefits anticipated under the Agreement, including possible initiation of additional negotiations with Mexico for the purpose of seeking modifications of the Agreement.
 
 (Pub. L. 103–182, title V, §514, Dec. 8, 1993, 107 Stat. 2157.)
 

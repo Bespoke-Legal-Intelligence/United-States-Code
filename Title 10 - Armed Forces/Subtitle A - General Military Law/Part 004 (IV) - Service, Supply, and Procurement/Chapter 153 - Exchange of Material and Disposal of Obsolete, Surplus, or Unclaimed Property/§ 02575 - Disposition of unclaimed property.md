@@ -106,10 +106,6 @@ Section 322(c) of Pub. L. 101–189 provided that: “The amendments made by sub
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
 
-#### Cross References
-
-Armed Forces Retirement Home, see section 401 et seq. of Title 24, Hospitals and Asylums.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in title 5 section 5564; title 24 section 420; title 37 section 554.

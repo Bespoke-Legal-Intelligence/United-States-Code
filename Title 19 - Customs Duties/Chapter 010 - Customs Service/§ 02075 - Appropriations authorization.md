@@ -76,7 +76,7 @@ If savings in salaries and expenses result from the consolidation of administrat
 
 #### References in Text
 
-The Federal Pay Comparability Act of 1970, referred to in subsec. (e), is Pub. L. 91–656, Jan. 8, 1971, 84 Stat.1946, as amended, which enacted sections 5305 to 5308 and 5947 of Title 5, Government Organization and Employees, amended sections 5108, 5301, and 5942 of Title 5 and section 410 of Title 39, Postal Service, repealed section 5302 of Title 5, and enacted provisions set out as notes under sections 5303 and 5942 of Title 5, section 60a of Title 2, The Congress, and section 410 of Title 39. For complete classification of the Act to the Code see Short Title note set out under section 5301 of Title 5 and Tables.
+The Federal Pay Comparability Act of 1970, referred to in subsec. (e), is Pub. L. 91–656, Jan. 8, 1971, 84 Stat. 1946, as amended, which enacted sections 5305 to 5308 and 5947 of Title 5, Government Organization and Employees, amended sections 5108, 5301, and 5942 of Title 5 and section 410 of Title 39, Postal Service, repealed section 5302 of Title 5, and enacted provisions set out as notes under sections 5303 and 5942 of Title 5, section 60a of Title 2, The Congress, and section 410 of Title 39. For complete classification of the Act to the Code see Short Title note set out under section 5301 of Title 5 and Tables.
 
 #### Amendments
 
@@ -138,7 +138,7 @@ Pub. L. 99–509, §8102(2), amended subsec. (b) generally. Prior to amendment, 
 
 “(7) As soon as possible after April 7, 1986, but not later than 12 months after April 7, 1986, the General Accounting Office shall complete, and submit to the Committee on Ways and Means and the Committee on Finance, a study that evaluates the air detection and interdiction capability of the Customs Service, including assets, geographic dispersal, costs of operation, procurement practices, and the services and equipment provided by other Federal agencies. Within 6 months after commencing the study, the General Accounting Office shall consult with the Committees on the progress of the study.”
 
-Pub. L. 99–272, §13022(a)(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:“There are authorized to be appropriated to the Department of the Treasury not to exceed $686,399,000 for the salaries and expenses of the United States Customs Service for fiscal year 1985; of which (A) $28,070,000 is for the operation and maintenance of the air interdiction program of the Service, and (B) not to exceed $15,000,000 is for the implementation of the ‘Operation EXODUS’ program and any related program designed to enforce or monitor export controls under the Export Administration Act of 1979 \[50 App. U.S.C. 2401 et seq.\].”
+Pub. L. 99–272, §13022(a)(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “There are authorized to be appropriated to the Department of the Treasury not to exceed $686,399,000 for the salaries and expenses of the United States Customs Service for fiscal year 1985; of which (A) $28,070,000 is for the operation and maintenance of the air interdiction program of the Service, and (B) not to exceed $15,000,000 is for the implementation of the ‘Operation EXODUS’ program and any related program designed to enforce or monitor export controls under the Export Administration Act of 1979 \[50 App. U.S.C. 2401 et seq.\].”
 
 Subsecs. (f), (g). Pub. L. 99–272, §13022(a)(2), added subsecs. (f) and (g).
 

@@ -1,5 +1,5 @@
 
-17 U.S.C.<br>United States Code, 1999 Edition<br>Title 17 - COPYRIGHTS<br>From the U.S. Government Publishing Office, www.gpo.gov
+17 U.S.C.<br>United States Code, 2000 Edition<br>Title 17 - COPYRIGHTS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 17—COPYRIGHTS
 
@@ -589,15 +589,9 @@ Section 114 of Pub. L. 94–553, Oct. 19, 1976, 90 Stat. 2602, provided that: �
 
 Section 103 of Pub. L. 94–553, Oct. 19, 1976, 90 Stat. 2599, provided that: “This Act \[enacting this title\] does not provide copyright protection for any work that goes into the public domain before January 1, 1978. The exclusive rights, as provided by section 106 of title 17 as amended by the first section of this Act, to reproduce a work in phonorecords and to distribute phonorecords of the work, do not extend to any nondramatic musical work copyrighted before July 1, 1909.”
 
-#### Cross References
-
-Exclusive jurisdiction of Federal courts over actions and proceedings under copyright laws, see section 1338 of Title 28, Judiciary and Judicial Procedure.
-
-Power of the Congress to regulate copyrights, see Const., Art. I, §8, cl. 8.
-
 #### Title Referred to in Other Sections
 
-This title is referred to in title 2 section 179p; title 11 section 101; title 15 section 1129; title 18 sections 2319, 2319A; title 19 section 1337; title 20 sections 6622, 8673; title 26 section 543; title 47 sections 542, 544, 605.
+This title is referred to in title 2 sections 179p, 1704, 1711; title 11 section 101; title 15 section 1129; title 18 sections 2319, 2319A; title 19 section 1337; title 20 sections 6622, 8673; title 26 section 543; title 47 sections 542, 544, 605.
 
 
 ---

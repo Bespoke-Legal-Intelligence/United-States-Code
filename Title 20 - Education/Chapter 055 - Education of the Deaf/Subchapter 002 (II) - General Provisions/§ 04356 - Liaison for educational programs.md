@@ -18,17 +18,13 @@ The individual serving as liaison for educational programs for individuals who a
 
 Nothing in this section may be construed to affect the authority of the Secretary under this chapter or any other Act with respect to Gallaudet University or the National Technical Institute for the Deaf.
 
-(Pub. L. 99–371, title II, §206, formerly title IV, §406, Aug. 4, 1986, 100 Stat. 790; Pub. L. 101–476, title IX, §901(a)(2), Oct. 30, 1990, 104 Stat. 1142; renumbered title II, §206, and amended Pub. L.102–421, title I, §§101(b)(5), (6), 136, 151(a)(4), (5), Oct. 16, 1992, 106 Stat. 2151, 2159, 2164; Pub. L. 103–73, title II, §204(e), Aug. 11, 1993, 107 Stat. 735.)
+(Pub. L. 99–371, title II, §206, formerly title IV, §406, Aug. 4, 1986, 100 Stat. 790; Pub. L. 101–476, title IX, §901(a)(2), Oct. 30, 1990, 104 Stat. 1142; renumbered title II, §206, and amended Pub. L. 102–421, title I, §§101(b)(5), (6), 136, 151(a)(4), (5), Oct. 16, 1992, 106 Stat. 2151, 2159, 2164; Pub. L. 103–73, title II, §204(e), Aug. 11, 1993, 107 Stat. 735.)
 
 #### References in Text
 
 The Individuals with Disabilities Education Act, referred to in subsec. (a), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
 The Rehabilitation Act of 1973, referred to in subsec. (a), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
-
-#### Codification
-
-Section is also set out in D.C. Code, §31–1842.6.
 
 #### Amendments
 

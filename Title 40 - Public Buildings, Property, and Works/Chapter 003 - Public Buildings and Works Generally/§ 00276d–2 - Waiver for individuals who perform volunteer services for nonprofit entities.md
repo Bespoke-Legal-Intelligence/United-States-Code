@@ -18,7 +18,7 @@ The requirement that certain laborers and mechanics be paid in accordance with t
 
 #### References in Text
 
-Act of March 3, 1931, referred to in text, is act Mar. 3, 1931, ch. 411, 46 Stat. 1494, as amended, known as the Davis-Bacon Act, which is classified generally to section 276a to 276a–5 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 276a of this title and Tables.
+Act of March 3, 1931, referred to in text, is act Mar. 3, 1931, ch. 411, 46 Stat. 1494, as amended, known as the Davis-Bacon Act, which is classified generally to sections 276a to 276a–5 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 276a of this title and Tables.
 
 #### Effective Date
 

@@ -22,7 +22,17 @@ Establishment of program.—The Secretary shall purchase precision approach inst
 
 &emsp;(B)
 
-Authorization.—No less than $30,000,000 of the amounts appropriated under section48101(a) for each of fiscal years 1995 and 1996 shall be used for the purpose of carrying out this paragraph, including acquisition, site preparation work, installation, and related expenditures.
+Authorization.—No less than $30,000,000 of the amounts appropriated under section 48101(a) for each of fiscal years 2000 through 2002 shall be used for the purpose of carrying out this paragraph, including acquisition under new or existing contracts, site preparation work, installation, and related expenditures.
+
+(5)
+
+Improvements on leased properties.—The Administrator may make improvements to real property leased for no or nominal consideration for an air navigation facility, regardless of whether the cost of making the improvements exceeds the cost of leasing the real property, if—
+
+&emsp;(A) the improvements primarily benefit the Government;
+
+&emsp;(B) the improvements are essential for accomplishment of the mission of the Federal Aviation Administration; and
+
+&emsp;(C) the interest of the United States Government in the improvements is protected.
 
 (b)
 
@@ -44,7 +54,7 @@ Public Use and Emergency Assistance.—(1) The head of a department, agency, or 
 
 Transfers of Instrument Landing Systems.—An airport may transfer, without consideration, to the Administrator of the Federal Aviation Administration an instrument landing system (and associated approach lighting equipment and runway visual range equipment) that conforms to performance specifications of the Administrator if a Government airport aid program, airport development aid program, or airport improvement project grant was used to assist in purchasing the system. The Administrator shall accept the system and operate and maintain it under criteria of the Administrator.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1175; Pub. L. 103–305, title I, §120(a), Aug. 23, 1994, 108 Stat. 1581; Pub. L. 103–429, §6(54), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 104–287, §5(75), Oct. 11, 1996, 110 Stat. 3396.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1175; Pub. L. 103–305, title I, §120(a), Aug. 23, 1994, 108 Stat. 1581; Pub. L. 103–429, §6(54), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 104–287, §5(75), Oct. 11, 1996, 110 Stat. 3396; Pub. L. 106–181, title I, §153, title VII, §712, Apr. 5, 2000, 114 Stat. 87, 160.)
 
 Historical and Revision Notes
 
@@ -138,7 +148,7 @@ In this section, the words “department, agency, or instrumentality of the Unit
 
 In subsections (a)(1), (b), and (c), the word “Administrator” in sections 303(c) (1st sentence), 307(b), 308(a) (1st and 2d sentences) and (b), and 309 of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 750, 751) is retained on authority of 49:106(g).
 
-In subsection (a)(1), before clause (A), the words “within the limits of available appropriations made bythe Congress” are omitted as surplus. In clause (A), the words “wherever necessary” are omitted as surplus. In clause (B), the word “necessary” is omitted as surplus.
+In subsection (a)(1), before clause (A), the words “within the limits of available appropriations made by the Congress” are omitted as surplus. In clause (A), the words “wherever necessary” are omitted as surplus. In clause (B), the word “necessary” is omitted as surplus.
 
 In subsection (a)(2), the words “by the Secretary” and “to the Secretary” are omitted as surplus. The last sentence is substituted for 49 App.:2205(a)(3) (last sentence) to eliminate unnecessary words.
 
@@ -172,6 +182,10 @@ This strikes 49:44502(e) and redesignates 49:44502(f) as 49:44502(e) because of 
 
 #### Amendments
 
+2000—Subsec. (a)(4)(B). Pub. L. 106–181, §153, substituted “each of fiscal years 2000 through 2002” for “each of fiscal years 1995 and 1996” and inserted “under new or existing contracts” after “including acquisition”.
+
+Subsec. (a)(5). Pub. L. 106–181, §712, added par. (5).
+
 1996—Subsec. (c)(1). Pub. L. 104–287, §5(75)(A), substituted “To ensure” for “To ensure that”.
 
 Subsecs. (e), (f). Pub. L. 104–287, §5(75)(B), redesignated subsec. (f) as (e) and struck out former subsec. (e) which read as follows:
@@ -184,15 +198,37 @@ Consent of Congress.—Congress consents to a State making an agreement, not in 
 
 Subsec. (b). Pub. L. 103–429 inserted “Government” before “money may be expended”.
 
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
+
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under section 321 of this title.
 
+#### Enhanced Vision Technologies
+
+Pub. L. 106–181, title I, §124, Apr. 5, 2000, 114 Stat. 75, provided that:
+
+“(a)
+
+Study.—The Administrator \[of the Federal Aviation Administration\] shall enter into a cooperative research and development agreement to study the benefits of utilizing enhanced vision technologies to replace, enhance, or add to conventional airport approach and runway lighting systems.
+
+“(b)
+
+Report.—Not later than 180 days after the date of the enactment of this Act \[Apr. 5, 2000\], the Administrator shall transmit to Congress a progress report on the work accomplished under the cooperative agreements detailing the evaluations performed to determine the potential of enhanced vision technology to meet the operational requirements of the intended application.
+
+“(c)
+
+Certification.—Not later than 180 days after the conclusion of work under the research agreements, the Administrator shall transmit to Congress a report on the potential of enhanced vision technology to satisfy the operational requirements of the Federal Aviation Administration and a schedule for the development of performance standards for certification appropriate to the application of the enhanced vision technologies. If the Administrator certifies an enhanced vision technology as meeting such performance standards, the technology shall be treated as a navigation aid or other aid for purposes of section 47102(3)(B)(i) of title 49, United States Code.”
+
 #### Transfer by Airports of Instrument Landing Systems and Associated Equipment to Federal Aviation Administration
 
-Pub. L. 106–69, title III, §314, Oct. 9, 1999, 113 Stat. 1018, provided that: “Notwithstanding any other provision of law, airports may transfer, without consideration, to the Federal Aviation Administration (FAA) instrument landing systems (along with associated approach lighting equipment and runway visual range equipment) which conform to FAA design and performance specifications, the purchase of which was assisted by a Federal airport-aid program, airport development aid program or airport improvement program grant. The Federal Aviation Administration shall accept such equipment, which shall thereafter be operated and maintained by FAA in accordance with agency criteria.”
+Pub. L. 106–346, §101(a) \[title III, §314\], Oct. 23, 2000, 114 Stat. 1356, 1356A–27, provided that: “Notwithstanding any other provision of law, airports may transfer, without consideration, to the Federal Aviation Administration (FAA) instrument landing systems (along with associated approach lighting equipment and runway visual range equipment) which conform to FAA design and performance specifications, the purchase of which was assisted by a Federal airport-aid program, airport development aid program or airport improvement program grant. The Federal Aviation Administration shall accept such equipment, which shall thereafter be operated and maintained by FAA in accordance with agency criteria.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 106–69, title III, §314, Oct. 9, 1999, 113 Stat. 1018.
 
 Pub. L. 105–277, div. A, §101(g) \[title III, §314\], Oct. 21, 1998, 112 Stat. 2681–439, 2681–468.
 

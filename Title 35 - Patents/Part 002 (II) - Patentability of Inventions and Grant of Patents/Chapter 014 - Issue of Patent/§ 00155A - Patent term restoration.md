@@ -28,7 +28,7 @@ The date of enactment of this section, referred to in subsec. (c), is the date o
 
 #### Amendments
 
-1999—Pub. L. 106–113 substituted “notify the Director” for “notify the Commissioner of Patents and Trademarks” and “Director shall confirm” for “Commissioner shall confirm”.
+1999—Pub. L. 106–113 substituted “notify the Director” for “notify the Commissioner of Patents andTrademarks” and “Director shall confirm” for “Commissioner shall confirm”.
 
 #### Effective Date of 1999 Amendment
 

@@ -82,7 +82,7 @@ Subsec. (d). Pub. L. 101–508, §12002(b)(1), added subsec. (d).
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996, see section 1421(e) ofPub. L. 104–188, set out as a note under section 72 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996, see section 1421(e) of Pub. L. 104–188, set out as a note under section 72 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1990 Amendment
 

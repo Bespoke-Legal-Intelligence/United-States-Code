@@ -12,7 +12,7 @@
 | (a) | Merit principles; “personnel action” defined. |
 | (b) | Rules and regulations; discrimination; reprisals for disclosure of information; submission of reports, evaluations, or recommendations; freedom from prohibited personnel practices. |
 | (c) | Withholding or disclosure of information to Congress. |
-| (d) | Minority recruitment program; report to Congress. |
+| (d) | Minority recruitment program. |
 | (e) | Applicability to other judicial or statutory rights or remedies. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -864,7 +864,7 @@ For authority of Secretary of Commerce to establish a Foreign Commercial Service
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 285a, 290g–l, 290i–2, 1474, 1928, 2021, 2024, 2385, 2391, 2396, 2504, 2506, 2514, 2605, 2664a, 2684, 3503, 4823 of this title; title 5 sections 5102, 5721, 5724; title 15 section 4721; title 38 section 707; title 42 section 5055.
+This chapter is referred to in sections 285a, 290g–l, 290i–2, 1474, 1928, 2021, 2024, 2385, 2391, 2396, 2504, 2506, 2514, 2605, 2664a, 2684, 3503, 4823, 6982 of this title; title 5 sections 5102, 5721, 5724; title 15 section 4721; title 38 section 707; title 42 section 5055.
 
 
 ---

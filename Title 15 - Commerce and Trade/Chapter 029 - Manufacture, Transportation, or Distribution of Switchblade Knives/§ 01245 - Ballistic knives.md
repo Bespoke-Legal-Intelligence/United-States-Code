@@ -26,5 +26,5 @@ Subsec. (b). Pub. L. 100–690, §6472(2), struck out “or State” after “Fe
 
 #### Effective Date
 
-Section 10004 of Pub. L. 99–570 provided that: “The amendments made by this title \[enacting this section, amending section 1716 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as a note under section 1241 of this title\] shall take effect 30 days after the date of enactment of this title \[Oct. 27, 1986\].”
+Section 10004 of Pub. L. 99–570 provided that: “The amendments made by this title \[enacting this section,amending section 1716 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as a note under section 1241 of this title\] shall take effect 30 days after the date of enactment of this title \[Oct. 27, 1986\].”
 

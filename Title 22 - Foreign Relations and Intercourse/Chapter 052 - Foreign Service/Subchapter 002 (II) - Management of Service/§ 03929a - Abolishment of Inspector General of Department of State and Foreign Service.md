@@ -14,7 +14,3 @@ Another subsec. (c) of section 413 of Pub. L. 99–399 is classified to section 
 
 1986—Pub. L. 99–399 substituted provision abolishing the Inspector General of the Department of State and the Foreign Service for provision limiting the authority of the Inspector General to such functions as necessary to carry out section 3929(g) of this title.
 
-#### Cross References
-
-Inspector General Act, see Title 5, Appendix, Government Organization and Employees.
-

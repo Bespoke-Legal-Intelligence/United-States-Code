@@ -10,11 +10,11 @@ The joint resolution approved September 27, 1961, referred to in text, is Pub. L
 
 #### Joseph M. McDade Recreational Trail
 
-Pub. L. 105–277, div. A, §101(e) \[title I, §118\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–257, provided that: “The 37mile River Valley Trail from the town of Delaware Gap to the edge of the town of Milford, Pennsylvania located within the Delaware Water Gap National Recreation Area shall hereafter be referred to in any law, regulation, document, or record of the United States as the Joseph M. McDade Recreational Trail.”
+Pub. L. 105–277, div. A, §101(e) \[title I, §118\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–257, provided that: “The 37 mile River Valley Trail from the town of Delaware Gap to the edge of the town of Milford, Pennsylvania located within the Delaware Water Gap National Recreation Area shall hereafter be referred to in any law, regulation, document, or record of the United States as the Joseph M. McDade Recreational Trail.”
 
 #### Delaware Water Gap National Recreation Area Citizen Advisory Commission
 
-Pub. L. 100–573, Oct. 31, 1988, 102 Stat. 2890, as amended by Pub. L. 104–333, div. I, title VIII, §814(d)(1)(K), Nov. 12, 1996, 110 Stat. 4196; Pub. L. 105–355, title V, §507, Nov. 6, 1998, 112 Stat. 3264, provided that:
+Pub. L. 100–573, Oct. 31, 1988, 102 Stat. 2890, as amended by Pub. L. 104–333, div. I, title VIII, §814(d)(1)(K), Nov. 12, 1996, 110 Stat. 4196; Pub. L. 105–355, title V, §507, Nov. 6, 1998, 112 Stat. 3264; Pub. L. 106–176, title III, §301, Mar. 10, 2000, 114 Stat. 31, provided that:
 
 #### “SECTION 1. ESTABLISHMENT OF COMMISSION.
 
@@ -95,4 +95,6 @@ Mails.—The Commission may use the United States mails in the same manner and u
 #### “SEC. 6. AUTHORIZATION OF APPROPRIATIONS.
 
 “There are authorized to be appropriated such sums as may be necessary to carry out this Act.”
+
+\[Pub. L. 106–176, title III, §301, Mar. 10, 2000, 114 Stat. 31, provided that the amendment made by that section to section 507 of Pub. L. 105–355, cited as a credit above, is effective Nov. 6, 1998.\]
 

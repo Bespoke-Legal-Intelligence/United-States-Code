@@ -2,7 +2,7 @@
 
 #### (a) Participation of private school children and teachers
 
-In making grants and entering into contracts under this part, the Secretary shall ensure,where appropriate, that provision is made for the equitable participation of students and teachers in private nonprofit elementary and secondary schools, including the participation of teachers and other personnel in professional development programs serving such children.
+In making grants and entering into contracts under this part, the Secretary shall ensure, where appropriate, that provision is made for the equitable participation of students and teachers in private nonprofit elementary and secondary schools, including the participation of teachers and other personnel in professional development programs serving such children.
 
 #### (b) Review, dissemination, and evaluation
 
@@ -12,7 +12,7 @@ The Secretary shall—
 
 &emsp;(2) ensure that information on the activities and results of programs and projects funded under this part is disseminated to appropriate State and local agencies and other appropriate organizations, including nonprofit private organizations; and
 
-&emsp;(3) evaluate the effectiveness of programs under this part in accordance with section 8941 of this title, both in terms of the impact on students traditionally served in separate gifted and talented programs and on other students, and submit the results of such evaluation to Congress not later than January 1, 1998.
+&emsp;(3) evaluate the effectiveness of programs under this part in accordance with section 8941of this title, both in terms of the impact on students traditionally served in separate gifted and talented programs and on other students, and submit the results of such evaluation to Congress not later than January 1, 1998.
 
 #### (c) Program operations
 

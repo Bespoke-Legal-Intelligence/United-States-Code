@@ -14,7 +14,7 @@ For purposes of this part—
 
 &emsp;&emsp;(B) the status of each youth is reviewed periodically but not less frequently than once every 3 months, by a court or by administrative review, in order to determine the continuing necessity for and appropriateness of the placement;
 
-&emsp;&emsp;(C) with respect to each youth, procedural safeguards will be applied to ensure that a dispositional hearing is held to consider the future status of each youth under State supervision, in a juvenile or family court or another court (including a tribal court) of competent jurisdiction, or by an administrative body appointed or approved by the court, not later than 12 months after the original placement of the youth and periodically thereafter during the continuation of out-of-home placement; and
+&emsp;&emsp;(C) with respect to each youth, procedural safeguards will be applied to ensure that a dispositional hearing is held to consider the future status of each youth under State supervision, in a juvenile or family court or another court (including a tribal court) of competent jurisdiction, or by an administrative body appointed or approved by the court, not later than 12 months after theoriginal placement of the youth and periodically thereafter during the continuation of out-of-home placement; and
 
 &emsp;&emsp;(D) a youth's health, mental health, and education record is reviewed and updated periodically; and
 

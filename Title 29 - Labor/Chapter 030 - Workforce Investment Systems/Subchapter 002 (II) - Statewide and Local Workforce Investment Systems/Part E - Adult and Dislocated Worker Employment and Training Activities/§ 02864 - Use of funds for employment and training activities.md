@@ -64,13 +64,13 @@
 
 &emsp;&emsp;&emsp;(II) implementation of programs to increase the number of individuals training for and placed in nontraditional employment; and
 
-&emsp;&emsp;&emsp;(vii) carrying out other activities authorized in this section that the State determines to be necessary to assist local areas in carrying out activities described in subsection (d) or (e) of this section through the statewide workforce investment system.
+&emsp;&emsp;&emsp;(vii) carrying out other activities authorized in this section that the State determines to be necessary to assist local areas in carrying out activities describedin subsection (d) or (e) of this section through the statewide workforce investment system.
 
 #### (B) Limitation
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Of the funds allotted to a State under sections 2852(b) and 2862(b) of this title and reserved as described in sections 2853(a)and 2863(a)(1) of this title for a fiscal year—
+&emsp;&emsp;&emsp;Of the funds allotted to a State under sections 2852(b) and 2862(b) of this title and reserved as described in sections 2853(a) and 2863(a)(1) of this title for a fiscal year—
 
 &emsp;&emsp;&emsp;&emsp;(I) not more than 5 percent of the amount allotted under section 2852(b)(1) of this title;
 
@@ -146,7 +146,7 @@ Funds allocated to a local area for adults under paragraph (2)(A) or (3), as app
 
 #### (B) Other funds
 
-&emsp;&emsp;A portion of the funds made available under Federal law authorizing the programs and activities described in section 2841(b)(1)(B) of this title, including the Wagner-Peyser Act (29 U.S.C. 49 et seq.), shall beused as described in clauses (i) and (ii) of subparagraph (A), to the extent not inconsistent with the Federal law involved.
+&emsp;&emsp;A portion of the funds made available under Federal law authorizing the programs and activities described in section 2841(b)(1)(B) of this title, including the Wagner-Peyser Act (29 U.S.C. 49 et seq.), shall be used as described in clauses (i) and (ii) of subparagraph (A), to the extent not inconsistent with the Federal law involved.
 
 #### (2) Core services
 
@@ -296,7 +296,7 @@ Funds allocated to a local area for adults under paragraph (2)(A) or (3), as app
 
 &emsp;&emsp;&emsp;&emsp;(I) the State list of eligible providers of training services required under section 2842(e) of this title, with a description of the programs through which the providers may offer the training services, and the information identifying eligible providers of on-the-job training and customized training required under section 2842(h) of this title; and
 
-&emsp;&emsp;&emsp;&emsp;(II) the performance information and performance cost information relating to eligible providers of training services described in subsections (e) and (h) of section 2842 of this title.
+&emsp;&emsp;&emsp;&emsp;(II) the performance information and performance cost information relating toeligible providers of training services described in subsections (e) and (h) of section 2842 of this title.
 
 #### (iii) Individual training accounts
 

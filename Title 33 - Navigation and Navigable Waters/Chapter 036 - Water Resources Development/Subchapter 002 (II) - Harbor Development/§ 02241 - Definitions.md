@@ -16,7 +16,7 @@ For purposes of this subchapter—
 
 #### (3) General cargo harbor
 
-&emsp;The term “general cargo harbor” means a harbor for which a project is authorized by section 202 of this title and any other harbor which is authorized to be constructed to adepth of more than 20 feet but not more than 45 feet;
+&emsp;The term “general cargo harbor” means a harbor for which a project is authorized by section 202 of this title and any other harbor which is authorized to be constructed to a depth of more than 20 feet but not more than 45 feet;
 
 #### (4) Harbor
 

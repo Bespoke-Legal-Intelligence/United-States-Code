@@ -46,7 +46,7 @@ Subsec. (a)(2). Pub. L. 104–208, §371(b)(2), substituted “an immigration ju
 
 1990—Subsec. (b). Pub. L. 101–649, §104(a)(1), substituted “10,000” for “five thousand”.
 
-Subsec. (c). Pub. L. 101–649, §603(a)(4), substituted “(4), (5), and (7)(A)” for “(14), (15), (20), (21), (25), and (32)” and “(other than paragraph (2)(C) or subparagraphs (A), (B), (C), or (E) of paragraph (3))” for “(other than paragraph (27), (29), or (33) and other than so much of paragraph (23) as relates to trafficking in narcotics)”.
+Subsec. (c). Pub. L. 101–649, §603(a)(4), substituted “(4), (5), and (7)(A)” for “(14), (15), (20), (21), (25), and\(32)” and “(other than paragraph (2)(C) or subparagraphs (A), (B), (C), or (E) of paragraph (3))” for “(other than paragraph (27), (29), or (33) and other than so much of paragraph (23) as relates to trafficking in narcotics)”.
 
 #### Effective Date of 1996 Amendment
 

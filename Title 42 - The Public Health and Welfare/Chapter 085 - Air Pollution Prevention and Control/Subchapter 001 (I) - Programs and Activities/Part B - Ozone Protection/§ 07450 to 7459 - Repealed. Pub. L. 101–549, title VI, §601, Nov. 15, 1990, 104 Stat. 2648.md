@@ -6,7 +6,7 @@ Section 7451, act July 14, 1955, ch. 360, title I, §151, as added Aug. 7, 1977,
 
 Section 7452, act July 14, 1955, ch. 360, title I, §152, as added Aug. 7, 1977, Pub. L. 95–95, title I, §126, 91 Stat. 726, set forth definitions applicable to this part.
 
-Section 7453, act July 14, 1955, ch. 360, title I, §153, as added Aug. 7, 1977, Pub. L. 95–95, title I, §126, 91 Stat. 726, related to studies by Environmental Protection Agency.
+Section 7453, act July 14, 1955, ch. 360, title I, §153, as added Aug. 7, 1977, Pub. L. 95–95, title I, §126, 91 Stat.726, related to studies by Environmental Protection Agency.
 
 Section 7454, act July 14, 1955, ch. 360, title I, §154, as added Aug. 7, 1977, Pub. L. 95–95, title I, §126, 91 Stat. 728; amended Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, related to research and monitoring activities by Federal agencies.
 

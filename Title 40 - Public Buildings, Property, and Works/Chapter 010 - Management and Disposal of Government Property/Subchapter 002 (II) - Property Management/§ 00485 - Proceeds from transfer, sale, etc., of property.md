@@ -6,7 +6,7 @@ All proceeds under this subchapter from any transfer of excess property to a Fed
 
 #### (b) Deposit of proceeds from sales; use; report
 
-Except as provided in subsection (h) of this section, all the proceeds of such dispositions of surplus real and related personal property made by the Administrator of General Services shall be set aside in a separate fund in the Treasury. Not more than an amount to be determined quarterly by the Director of the Office of Management and Budget may be obligated from such fund by the Administrator to pay the direct expenses incurred for the utilization of excess property and the disposal of surplus property under this Act for fees of appraisers, auctioneers, and realty brokers, for costs of environmental and historic preservation services,and for advertising and surveying. Such payments from this fund may be used either to pay such expenses directly or to reimburse the fund or appropriation initially bearing such expenses. Fees paid to appraisers, auctioneers, and brokers shall be in accordance with the scale of fees customarily paid for such services in similar commercial transactions, and in no event shall more than 12 per centum of the proceeds of all dispositions within each fiscal year of surplus real and related personal property be paid out of such proceeds under this authorization to meet direct expenses incurred in connection with such dispositions. Periodically, but not less often than once each year, any excess funds beyond current operating needs shall be transferred from the fund to miscellaneous receipts: <i>Provided</i>, That a report of receipts, disbursements, and transfers to miscellaneous receipts under this authorization shall be made annually in connection with the budget estimates to the Director of Office of Management and Budget and to the Congress.
+Except as provided in subsection (h) of this section, all the proceeds of such dispositions of surplus real and related personal property made by the Administrator of General Services shall be set aside in a separate fund in the Treasury. Not more than an amount to be determined quarterly by the Director of the Office of Management and Budget may be obligated from such fund by the Administrator to pay the direct expenses incurred for the utilization of excess property and the disposal of surplus property under this Act for fees of appraisers, auctioneers, and realty brokers, for costs of environmental and historic preservation services, and for advertising and surveying. Such payments from this fund may be used either to pay such expenses directly or to reimburse the fund or appropriation initially bearing such expenses. Fees paid to appraisers, auctioneers, and brokers shall be in accordance with the scale of fees customarily paid for such services in similar commercial transactions, and in no event shall more than 12 per centum of the proceeds of all dispositions within each fiscal year of surplus real and related personal property be paid out of such proceeds under this authorization to meet direct expenses incurred in connection with such dispositions. Periodically, but not less often than once each year, any excess funds beyond current operating needs shall be transferred from the fund to miscellaneous receipts: <i>Provided</i>, That a report of receipts, disbursements, and transfers to miscellaneous receipts under this authorization shall be made annually in connection with the budget estimates to the Director of Office of Management and Budget and to the Congress.
 
 #### (c) Credit to reimbursable fund or appropriation on certain transactions
 
@@ -18,7 +18,7 @@ Any Federal agency disposing of surplus property under this subchapter (1) may d
 
 #### (e) Sale proceeds offset against price or cost of contractor's work
 
-Where any contract entered into by an executive agency or any subcontract under such contract authorizes the proceeds of any sale of property in the custody of the contractor or subcontractor to be credited to the price or cost of the work covered by such contract or subcontract, the proceeds of any such sale shall be credited in accordance with the contract or subcontract.
+Where any contract entered into by an executive agency or any subcontract under such contract authorizes the proceeds of any sale of property in the custody of the contractor or subcontractor to be credited to the price or cost ofthe work covered by such contract or subcontract, the proceeds of any such sale shall be credited in accordance with the contract or subcontract.
 
 #### (f) Acceptance of property in lieu of cash
 
@@ -95,10 +95,6 @@ War Assets Administration abolished June 30, 1949, and its functions transferred
 #### Delegation of Functions
 
 Functions of President under subsec. (f) of this section delegated to Secretary of Defense, see section 3 of Ex. Ord. No. 12626, Feb. 25, 1988, 53 F.R. 6114, set out as a note under section 98 of Title 50, War and National Defense.
-
-#### Cross References
-
-Crediting of proceeds from sales of surplus property to miscellaneous receipts of the Treasury, see section 460<i>l</i>–5 of Title 16, Conservation.
 
 #### Section Referred to in Other Sections
 

@@ -26,7 +26,7 @@ The Congress finds the following:
 
 #### (b) Purposes
 
-The purposes of this section and section 469<i>l</i>–1 of this title are the following:
+The purposes of sections 469<i>l</i> to 469<i>l</i>–2 of this title are the following:
 
 &emsp;(1) To recognize the importance of the Underground Railroad, the sacrifices made by those who used the Underground Railroad in search of freedom from tyranny and oppression, and the sacrifices made by the people who helped them.
 
@@ -36,5 +36,5 @@ The purposes of this section and section 469<i>l</i>–1 of this title are the f
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 469<i>l</i>–1 of this title.
+This section is referred to in sections 469<i>l</i>–1, 469<i>l</i>–2 of this title.
 

@@ -6,13 +6,9 @@
 
 (June 20, 1938, ch. 530, §3, 52 Stat. 784.)
 
-#### Hawaii Volcanoes National Park
+#### Hawai‘i Volcanoes National Park
 
-Designation of portion of Hawaii National Park situated on island of Hawaii as Hawaii Volcanoes National Park, effective Sept. 22, 1961, see section 391d of this title.
-
-#### Cross References
-
-Laws applicable to lands added to park, see section 391b–1 of this title.
+Designation of portion of Hawaii National Park situated on island of Hawaii as Hawai‘i Volcanoes National Park, effective Sept. 22, 1961, see section 391d of this title.
 
 #### Section Referred to in Other Sections
 

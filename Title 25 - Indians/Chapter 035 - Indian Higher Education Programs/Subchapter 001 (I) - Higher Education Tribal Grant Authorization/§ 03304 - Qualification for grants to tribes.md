@@ -12,7 +12,7 @@ Any Indian tribe that is not eligible to qualify for a grant under this subchapt
 
 &emsp;(2) if the application is disapproved, the Secretary shall provide technical assistance to the tribe for purposes of correcting deficiencies in the application;
 
-&emsp;(3) the Secretary shall designate an office or official to receive such applications, and shalltoll the 180-day period described in paragraph (1) from the date of receipt by such office or official; and
+&emsp;(3) the Secretary shall designate an office or official to receive such applications, and shall toll the 180-day period described in paragraph (1) from the date of receipt by such office or official; and
 
 &emsp;(4) applications shall be approved for the fiscal year following the fiscal year in which submitted, unless the Secretary waives the limitation of this paragraph.
 

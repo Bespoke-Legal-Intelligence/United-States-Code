@@ -56,27 +56,9 @@ Functions vested by section 551 et seq. of this title in hearing examiners emplo
 
 #### Hearing Examiners Appointed for Indian Probate Work
 
-Hearing examiners appointed for Indian probate work pursuant to former section 372–1 of Title 25, Indians,having met qualifications required for appointment pursuant to this section, deemed to have been appointed pursuant to this section, see section 12(b) of Pub. L. 101–301, set out as a Savings Provision note under former section 372–1 of Title 25.
-
-#### Cross References
-
-Additional requirements imposed by statute or otherwise recognized by law not limited or repealed by this section, see section 559 of this title.
-
-Communications Act, joint boards as having the same jurisdiction and powers as is conferred upon examiner by this section, see section 410 of Title 47, Telegraphs, Telephones, and Radiotelegraphs.
-
-Compensation, see section 5372 of this title.
-
-Matters involving selection or tenure of employees exempt from application of adjudicatory provisions of section 554 of this title except as they involve administrative law judges appointed under this section, see section 554 of this title.
-
-Office of Personnel Management, investigations, reports, and regulations for purposes of this section as relating to administrative law judges, see section 1305 of this title.
-
-Removal, see section 7521 of this title.
-
-Subsequent statutes to be held to supersede or modify this section only to the extent that they do so expressly, see section 559 of this title.
-
-Use of administrative law judges from other agencies in case of temporary or occasional insufficiency in an agency, see section 3344 of this title.
+Hearing examiners appointed for Indian probate work pursuant to former section 372–1 of Title 25, Indians, having met qualifications required for appointment pursuant to this section, deemed to have been appointed pursuant to this section, see section 12(b) of Pub. L. 101–301, set out as a Savings Provision note under former section 372–1 of Title 25.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 554, 556, 559, 1104, 1204, 1215, 1305, 3132, 3323, 3344, 4301, 5102, 5304, 5372, 7105, 7132, 7521, 7701 of this title; title 7 section 2023; title 15 sections 327, 1715; title 16 section 823b; title 19 section 1641; title 20 section 1234; title 29 sections 214, 661, 792; title 30 sections 804, 823, 932a; title 31 sections 3801, 6712, 6713, 6720; title 33 sections 873, 919; title 41 section 607; title 42 sections 2000e–4, 2282a, 3608, 3612, 6303, 8433; title 47 section 410; title 49 section 46104; title 50 App. section 2412.
+This section is referred to in sections 554, 556, 559, 1104, 1204, 1215, 1305, 3132, 3323, 3344, 4301, 5102, 5304, 5372, 5372b, 7105, 7132, 7521, 7701 of this title; title 7 section 2023; title 15 sections 327, 1715; title 16 section 823b; title 19 section 1641; title 20 section 1234; title 29 sections 214, 661, 792; title 30 sections 804, 823, 932a; title 31 sections 3801, 6712, 6713, 6720; title 33 sections 873, 919; title 41 section 607; title 42 sections 2000e–4, 2282a, 3608, 3612, 6303, 8433; title 47 section 410; title 49 section 46104; title 50 App. section 2412.
 

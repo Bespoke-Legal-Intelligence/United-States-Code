@@ -22,18 +22,6 @@ The customs revenue laws, referred to in text, are classified generally to Title
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000” in first par.
 
-#### Canal Zone
-
-Applicability of section to Canal Zone, see section 14 of this title.
-
-#### Cross References
-
-Drunkenness of master or seamen, see section 2196 of this title.
-
-Firing or tampering with vessels, see section 2275 of this title.
-
-Jurisdiction of offenses, see section 3241 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 14 of this title.

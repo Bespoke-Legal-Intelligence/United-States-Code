@@ -36,7 +36,3 @@ A prior section 922, Pub. L. 93–203, title IV, §412, Dec. 28, 1973, 87 Stat. 
 
 Provisions similar to those comprising this section were contained in former section 895f of this title prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
-#### Effective Date of Repeal
-
-Section 184(a) of Pub. L. 97–300 provided that the repeal of these sections is effective Oct. 13, 1982.
-

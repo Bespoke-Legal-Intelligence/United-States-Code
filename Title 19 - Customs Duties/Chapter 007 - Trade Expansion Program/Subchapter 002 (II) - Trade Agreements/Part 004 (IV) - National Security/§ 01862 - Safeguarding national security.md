@@ -28,7 +28,7 @@ No action shall be taken pursuant to section 1821(a) of this title or pursuant t
 
 #### (c) Adjustment of imports; determination by President; report to Congress; additional actions; publication in Federal Register
 
-(1)(A) Within 90 days after receiving a report submitted under subsection (b)(3)(A) of this section in which the Secretary finds that an article is being imported into the United States in suchquantities or under such circumstances as to threaten to impair the national security, the President shall—
+(1)(A) Within 90 days after receiving a report submitted under subsection (b)(3)(A) of this section in which the Secretary finds that an article is being imported into the United States in such quantities or under such circumstances as to threaten to impair the national security, the President shall—
 
 &emsp;(i) determine whether the President concurs with the finding of the Secretary, and
 
@@ -62,11 +62,11 @@ No action shall be taken pursuant to section 1821(a) of this title or pursuant t
 
 For the purposes of this section, the Secretary and the President shall, in the light of the requirements of national security and without excluding other relevant factors, give consideration to domestic production needed for projected national defense requirements, the capacity of domestic industries to meet such requirements, existing and anticipated availabilities of the human resources, products, raw materials, and other supplies and services essential to the national defense, the requirements of growth of such industries and such supplies and services including the investment, exploration, and development necessary to assure such growth, and the importation of goods in terms of their quantities, availabilities, character, and use as those affect such industries and the capacity of the United States to meet national security requirements. In the administration of this section, the Secretary and the President shall further recognize the close relation of the economic welfare of the Nation to our national security, and shall take into consideration the impact of foreign competition on the economic welfare of individual domestic industries; and any substantial unemployment, decrease in revenues of government, loss of skills or investment, or other serious effects resulting from the displacement of any domestic products by excessive imports shall be considered, without excluding other factors, in determining whether such weakening of our internal economy may impair the national security.
 
-#### (d) <sup>1</sup> Reports by Secretary of Commerce and President
+#### (d) <sup>1</sup> Report by Secretary of Commerce
 
 (1) Upon the disposition of each request, application, or motion under subsection (b) of this section, the Secretary shall submit to the Congress, and publish in the Federal Register, a report on such disposition.
 
-(2) The President shall submit to the Congress an annual report on the operation of the provisions of this section.
+(2) Omitted.
 
 #### (f) Congressional disapproval of Presidential adjustment of imports of petroleum or petroleum products; disapproval resolution
 
@@ -89,6 +89,10 @@ For the purposes of this section, the Secretary and the President shall, in the 
 #### References in Text
 
 Section 232 of the Trade Expansion Act of 1962, referred to in subsec. (f)(2)(B), is classified to this section.
+
+#### Codification
+
+Subsection (d)(2), which required the President to submit an annual report to Congress on the operation of this section, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 28 of House Document No. 103–7.
 
 #### Amendments
 
@@ -134,7 +138,7 @@ Pub. L. 96–264, §2, June 6, 1980, 94 Stat. 439, provided that: “Notwithstan
 
 #### Proclamation No. 3279
 
-Proc. No. 3279, Mar. 10, 1959, 24 F.R. 1781, as amended by Proc. No. 3290, Apr. 30, 1959, 24 F.R. 3527; Proc. No. 3328, Dec. 10, 1959, 24 F.R. 10133; Proc. No. 3386, Dec. 24, 1960, 25 F.R. 13945; Proc. No. 3389, Jan. 17, 1961, 26 F.R. 507; Ex. Ord. No. 11051, Sept. 27, 1962, 27 F.R. 9683; Proc. No. 3509, Nov. 30, 1962, 27 F.R. 11985; Proc. No. 3531, Apr. 19, 1963, 28 F.R. 4077; Proc. No. 3541, June 12, 1963, 28 F.R. 5931; Proc. No. 3693, Dec. 10, 1965, 30 F.R. 15459; Proc. No. 3779, Apr. 10, 1967, 32 F.R. 5919; Proc. No. 3794, July 17, 1967, 32 F.R. 10547; Proc. No. 3820, Nov. 9, 1967, 32 F.R. 15701; Proc. No. 3823, Jan. 29, 1968, 33 F.R. 1171; Proc. No. 3969, Mar. 10, 1970, 35 F.R. 4321; Proc. No. 3990, June 17, 1970, 35 F.R. 10091; Proc. No. 4018, Oct. 16, 1970, 35 F.R. 16357; Proc. No. 4025, Dec. 22, 1970, 35 F.R. 19391; Proc. No. 4092, Nov. 5, 1971, 36 F.R. 21397; Proc. No. 4099, Dec. 20, 1971, 36 F.R. 24203; Proc. No. 4133, May 11, 1972, 37 F.R. 9543; Proc. No. 4156, Sept. 18, 1972, 37 F.R. 19115; Proc. No. 4175, Dec. 16, 1972, 37 F.R. 28043; Proc. No. 4178, Jan. 17, 1973, 38 F.R. 1719; Ex. Ord. No. 11703, Feb. 7, 1973, 38 F.R. 3579; Proc. No. 4202, Mar. 23, 1973, 38 F.R. 7977; Proc. No. 4210, Apr. 18, 1973, 38 F.R. 9645; Proc. No. 4227, June 19, 1973, 38 F.R. 16195; Ex. Ord. No. 11743, Oct. 23, 1973, 38 F.R. 29459; Ex. Ord. No. 11775, Mar. 26, 1974, 39 F.R. 11415; Ex. Ord. No. 11790, June 25, 1974, 39 F.R.23185; Proc. No. 4317, Sept. 27, 1974, 39 F.R. 35103; Proc. No. 4341, Jan. 23, 1975, 40 F.R. 3965; Proc. No. 4355, Mar. 4, 1975, 40 F.R. 10437; Proc. No. 4370, Apr. 30, 1975, 40 F.R. 19421; Proc. No. 4377, May 27, 1975, 40 F.R. 23429; Proc. No. 4412, Jan. 3, 1976, 41 F.R. 1037; Proc. No. 4543, Dec. 27, 1977, 42 F.R. 64849; Ex. Ord. No. 12038, Feb. 3, 1978, 43 F.R. 4947; Proc. No. 4629, Dec. 8, 1978, 43 F.R. 58077; Proc. No. 4655, Apr. 6, 1979, 44 F.R. 21243; Proc. No. 4702, Nov. 12, 1979, 44 F.R. 65581; Proc. No. 4744, Apr. 2, 1980, 45 F.R. 22864; Proc. No. 4766, June 19, 1980, 45 F.R. 41899; Proc. No. 4907, Mar. 10, 1982, 47 F.R. 10507, which set forth regulations governing the licensing of imports of petroleum and petroleum products, was revoked by Proc. No. 5141, Dec. 22, 1983, 48 F.R. 56929, set out below.
+Proc. No. 3279, Mar. 10, 1959, 24 F.R. 1781, as amended by Proc. No. 3290, Apr. 30, 1959, 24 F.R. 3527; Proc. No. 3328, Dec. 10, 1959, 24 F.R. 10133; Proc. No. 3386, Dec. 24, 1960, 25 F.R. 13945; Proc. No. 3389, Jan. 17, 1961, 26 F.R. 507; Ex. Ord. No. 11051, Sept. 27, 1962, 27 F.R. 9683; Proc. No. 3509, Nov. 30, 1962, 27 F.R. 11985; Proc. No. 3531, Apr. 19, 1963, 28 F.R. 4077; Proc. No. 3541, June 12, 1963, 28 F.R. 5931; Proc. No. 3693, Dec. 10, 1965, 30 F.R. 15459; Proc. No. 3779, Apr. 10, 1967, 32 F.R. 5919; Proc. No. 3794, July 17, 1967, 32 F.R. 10547; Proc. No. 3820, Nov. 9, 1967, 32 F.R. 15701; Proc. No. 3823, Jan. 29, 1968, 33 F.R. 1171; Proc. No. 3969, Mar. 10, 1970, 35 F.R. 4321; Proc. No. 3990, June 17, 1970, 35 F.R. 10091; Proc. No. 4018, Oct. 16, 1970, 35 F.R. 16357; Proc. No. 4025, Dec. 22, 1970, 35 F.R. 19391; Proc. No. 4092, Nov. 5, 1971, 36 F.R. 21397; Proc. No. 4099, Dec. 20, 1971, 36 F.R. 24203; Proc. No. 4133, May 11, 1972, 37 F.R. 9543; Proc. No. 4156, Sept. 18, 1972, 37 F.R. 19115; Proc. No. 4175, Dec. 16, 1972, 37 F.R. 28043; Proc. No. 4178, Jan. 17, 1973, 38 F.R. 1719; Ex. Ord. No. 11703, Feb. 7, 1973, 38 F.R. 3579; Proc. No. 4202, Mar. 23, 1973, 38 F.R. 7977; Proc. No. 4210, Apr. 18, 1973, 38 F.R. 9645; Proc. No. 4227, June 19, 1973, 38 F.R. 16195; Ex. Ord. No. 11743, Oct. 23, 1973, 38 F.R. 29459; Ex. Ord. No. 11775, Mar. 26, 1974, 39 F.R. 11415; Ex. Ord. No. 11790, June 25, 1974, 39 F.R. 23185; Proc. No. 4317, Sept. 27, 1974, 39 F.R. 35103; Proc. No. 4341, Jan. 23, 1975, 40 F.R. 3965; Proc. No. 4355, Mar. 4, 1975, 40 F.R. 10437; Proc. No. 4370, Apr. 30, 1975, 40 F.R. 19421; Proc. No. 4377, May 27, 1975, 40 F.R. 23429; Proc. No. 4412, Jan. 3, 1976, 41 F.R. 1037; Proc. No. 4543, Dec. 27, 1977, 42 F.R. 64849; Ex. Ord. No. 12038, Feb. 3, 1978, 43 F.R. 4947; Proc. No. 4629, Dec. 8, 1978, 43 F.R. 58077; Proc. No. 4655, Apr. 6, 1979, 44 F.R. 21243; Proc. No. 4702, Nov. 12, 1979, 44 F.R. 65581; Proc. No. 4744, Apr. 2, 1980, 45 F.R. 22864; Proc. No. 4766, June 19, 1980, 45 F.R. 41899; Proc. No. 4907, Mar. 10, 1982, 47 F.R. 10507, which set forth regulations governing the licensing of imports of petroleum and petroleum products, was revoked by Proc. No. 5141, Dec. 22, 1983, 48 F.R. 56929, set out below.
 
 #### Proclamation No. 4744
 
@@ -208,7 +212,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 Section 1. (a) No petroleum product refined in Libya (except petroleum product loaded aboard maritime vessels at any time prior to two days after the effective date of this Executive Order) may be imported into the United States, its territories or possessions.
 
-(b) For the purposes of this Executive Order, the prohibition on importation of petroleum products refined in Libya shall apply to petroleum products which are currently classifiable under Item Numbers: 475.05; 475.10; 475.15; 475.25; 475.30; 475.35; 475.45; 475.65; 475.70 of the Tariff Schedules of the United States (19 U.S.C. 1202).
+(b) For the purposes of this Executive Order, the prohibition on importation of petroleum products refined in Libya shall apply to petroleum products which are currently classifiable under Item Numbers: 475.05; 475.10; 475.15; 475.25; 475.30; 475.35; 475.45; 475.65; 475.70 ofthe Tariff Schedules of the United States (19 U.S.C. 1202).
 
 Sec. 2. The Secretary of the Treasury may issue such rulings and instructions, or, following consultation with the Secretaries of State and Energy, such regulations as he deems necessary to implement this Order.
 

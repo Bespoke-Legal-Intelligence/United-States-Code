@@ -10,9 +10,9 @@ As used in this part:
 
 &emsp;(4) The term “Governor” means the chief executive officer of a State (including the Mayor of the District of Columbia).
 
-&emsp;(5) The term “handicapped person” means any individual (A) who is an individual with a disability, as defined in section 705 of title 29, (B) who is under a disability as defined in section 1614(a)(3)(A) or 233(d)(1) of the Social Security Act \[42 U.S.C. 1382c(a)(3)(A), 423(d)(1)\] or in section 102(7) <sup>1</sup> of the Developmental Disabilities Services and Facilities Construction Act \[42 U.S.C. 6001(7)\], or (C) who is receiving benefits under chapter 11 or 15 of title 38.
+&emsp;(5) The term “handicapped person” means any individual (A) who is an individual with adisability, as defined in section 705 of title 29, (B) who is under a disability as defined in section 1614(a)(3)(A) or 233(d)(1) of the Social Security Act \[42 U.S.C. 1382c(a)(3)(A), 423(d)(1)\] or in section 102(7) <sup>1</sup> of the Developmental Disabilities Services and Facilities Construction Act \[42 U.S.C. 6001(7)\], or (C) who is receiving benefits under chapter 11 or 15 of title 38.
 
-&emsp;(6) The terms “Indian”, “Indian tribe”, and “tribal organization” have the meanings prescribed for such terms by paragraphs (4), (5), and (6), respectively, of section 102 of the Older Americans Act of 1965 \[42 U.S.C. 3002\].
+&emsp;(6) The terms “Indian”, “Indian tribe”, and “tribal organization” have the meanings prescribed for such terms by paragraphs (4), (5), and (6), respectively, of section 102 <sup>1</sup> of the Older Americans Act of 1965 \[42 U.S.C. 3002\].
 
 &emsp;(7) The term “low-income” means that income in relation to family size which (A) is at or below 125 percent of the poverty level determined in accordance with criteria established by the Director of the Office of Management and Budget, except that the Secretary may establish a higher level if the Secretary, after consulting with the Secretary of Agriculture and the Director of the Community Services Administration, determines that such a higher level is necessary to carry out the purposes of this part and is consistent with the eligibility criteria established for the weatherization program under section 2809(a)(12) of this title, (B) is the basis on which cash assistance payments have been paid during the preceding 12-month period under titles IV and XVI of the Social Security Act \[42 U.S.C. 601 et seq., 1381 et seq.\] or applicable State or local law, or (C) if a State elects, is the basis for eligibility for assistance under the Low-Income Home Energy Assistance Act of 1981 (42 U.S.C. 8621), provided that such basis is at least 125 percent of the poverty level determined in accordance with criteria established by the Director of the Office of Management and Budget.
 
@@ -50,7 +50,9 @@ As used in this part:
 
 #### References in Text
 
-The Developmental Disabilities Services and Facilities Construction Act, referred to in par. (5), is title I of Pub. L. 88–164, as added by Pub. L. 94–103, Oct. 4, 1975, 89 Stat. 496, and amended. Title I of Pub. L. 88–164, as amended generally by Pub. L. 98–527, §2, Oct. 19, 1984, 98 Stat. 2662, is known as the Developmental Disabilities Assistance and Bill of Rights Act. Section 102(7) of that Act \[42 U.S.C. 6001(7)\] was subsequently amended and no longer defines the term “developmental disability”. However, such term is defined elsewhere in that section.
+Section 102(7) of the Developmental Disabilities Services and Facilities Construction Act \[42 U.S.C. 6001(7)\], referred to in par. (5), was repealed by Pub. L. 106–402, title IV, §401(a), Oct. 30, 2000, 114 Stat. 1737.
+
+Paragraphs (4), (5), and (6) of section 102 of the Older Americans Act of 1965, referred to in par. (6), were redesignated pars. (5), (6), and (7), respectively, of section 102 of the Act by Pub. L. 95–478, title V, §503(a)(2), Oct. 18, 1978, 92 Stat. 1559, and are classified to pars. (5), (6), and (7), respectively, of section 3002 of this title.
 
 Section 2809(a)(12) of this title, referred to in par. (7), which was redesignated as section 2809(a)(5) by Pub. L. 95–568, §5(a)(2)(E), Nov. 2, 1978, 92 Stat. 2426, was subsequently repealed by Pub. L. 97–35, title VI, §683(a), Aug. 13, 1981, 95 Stat. 519.
 
@@ -60,7 +62,7 @@ The Low-Income Home Energy Assistance Act of 1981, referred to in par. (7), is t
 
 #### Amendments
 
-1998—Par. (5)(A). Pub. L. 105–220 substituted “an individual with a disability, as defined in section 705 oftitle 29” for “a handicapped individual as defined in section 7(7) of the Rehabilitation Act of 1973”.
+1998—Par. (5)(A). Pub. L. 105–220 substituted “an individual with a disability, as defined in section 705 of title 29” for “a handicapped individual as defined in section 7(7) of the Rehabilitation Act of 1973”.
 
 1992—Par. (9)(G) to (J). Pub. L. 102–486 realigned margin of subpar. (G), added subpars. (H) and (I), and redesignated former subpar. (H) as (J).
 

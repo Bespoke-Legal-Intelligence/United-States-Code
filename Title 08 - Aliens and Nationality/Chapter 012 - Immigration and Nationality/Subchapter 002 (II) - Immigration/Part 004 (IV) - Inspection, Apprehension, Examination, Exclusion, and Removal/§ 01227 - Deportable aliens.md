@@ -18,7 +18,7 @@ Any alien (including an alien crewman) in and admitted to the United States shal
 
 #### (i) Nonimmigrant status violators
 
-&emsp;&emsp;&emsp;Any alien who was admitted as a nonimmigrant and who has failed to maintain the nonimmigrant status in which the alien was admitted or to which it was changed under section 1258 of this title, or to comply with the conditions of any such status, is deportable.
+&emsp;&emsp;&emsp;Any alien who was admitted as a nonimmigrant and who has failed to maintain the nonimmigrant status in which the alien was admitted or to which it was changed under section 1258 of this title, orto comply with the conditions of any such status, is deportable.
 
 #### (ii) Violators of conditions of entry
 
@@ -38,7 +38,7 @@ Any alien (including an alien crewman) in and admitted to the United States shal
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Any alien who (prior to the date of entry, at the time of any entry, or within5 years of the date of any entry) knowingly has encouraged, induced, assisted, abetted, or aided any other alien to enter or to try to enter the United States in violation of law is deportable.
+&emsp;&emsp;&emsp;Any alien who (prior to the date of entry, at the time of any entry, or within 5 years of the date of any entry) knowingly has encouraged, induced, assisted, abetted, or aided any other alien to enter or to try to enter the United States in violation of law is deportable.
 
 #### (ii) Special rule in the case of family reunification
 
@@ -62,9 +62,11 @@ Any alien (including an alien crewman) in and admitted to the United States shal
 
 &emsp;&emsp;The provisions of this paragraph relating to the removal of aliens within the United States on the ground that they were inadmissible at the time of admission as aliens described in section 1182(a)(6)(C)(i) of this title, whether willful or innocent, may, in the discretion of the Attorney General, be waived for any alien (other than an alien described in paragraph (4)(D)) who—
 
-&emsp;&emsp;&emsp;(i) is the spouse, parent, son, or daughter of a citizen of the United States or of an alien lawfully admitted to the United States for permanent residence; and
+&emsp;&emsp;&emsp;(i)(I) is the spouse, parent, son, or daughter of a citizen of the United States or of an alien lawfully admitted to the United States for permanent residence; and
 
-&emsp;&emsp;&emsp;(ii) was in possession of an immigrant visa or equivalent document and was otherwise admissible to the United States at the time of such admission except for those grounds of inadmissibility specified under paragraphs (5)(A) and (7)(A) of section 1182(a) of this title which were a direct result of that fraud or misrepresentation.
+&emsp;&emsp;&emsp;(II) was in possession of an immigrant visa or equivalent document and was otherwise admissible to the United States at the time of such admission except for those grounds of inadmissibility specified under paragraphs (5)(A) and (7)(A) of section 1182(a) of this title which were a direct result of that fraud or misrepresentation.
+
+&emsp;&emsp;&emsp;(ii) is an alien who qualifies for classification under clause (iii) or (iv) of section 1154(a)(1)(A) of this title or clause (ii) or (iii) of section 1154(a)(1)(B) of this title.
 
 > &emsp;&emsp;A waiver of removal for fraud or misrepresentation granted under this subparagraph shall also operate to waive removal based on the grounds of inadmissibility directly resulting from such fraud or misrepresentation.
 
@@ -96,7 +98,7 @@ Any alien (including an alien crewman) in and admitted to the United States shal
 
 #### (v) Waiver authorized
 
-&emsp;&emsp;&emsp;Clauses (i), (ii), (iii), and (iv) shall not apply in the case of an alien with respect to a criminal conviction if the alien subsequent to the criminal conviction has beengranted a full and unconditional pardon by the President of the United States or by the Governor of any of the several States.
+&emsp;&emsp;&emsp;Clauses (i), (ii), (iii), and (iv) shall not apply in the case of an alien with respect to a criminal conviction if the alien subsequent to the criminal conviction has been granted a full and unconditional pardon by the President of the United States or by the Governor of any of the several States.
 
 #### (B) Controlled substances
 
@@ -166,7 +168,13 @@ Any alien (including an alien crewman) in and admitted to the United States shal
 
 #### (D) Falsely claiming citizenship
 
-&emsp;&emsp;Any alien who falsely represents, or has falsely represented, himself to be a citizen of the United States for any purpose or benefit under this chapter (including section 1324a of this title) or any Federal or State law is deportable.
+#### (i) In general
+
+&emsp;&emsp;&emsp;Any alien who falsely represents, or has falsely represented, himself to be a citizen of the United States for any purpose or benefit under this chapter (including section 1324a of this title) or any Federal or State law is deportable.
+
+#### (ii) Exception
+
+&emsp;&emsp;&emsp;In the case of an alien making a representation described in clause (i), if each natural parent of the alien (or, in the case of an adopted alien, each adoptive parent of the alien) is or was a citizen (whether by birth or naturalization), the alien permanently resided in the United States prior to attaining the age of 16, and the alien reasonably believed at the time of making such representation that he or she was a citizen, the alien shall not be considered to be deportable under any provision of this subsection based on such representation.
 
 #### (4) Security and related grounds
 
@@ -206,7 +214,35 @@ Any alien (including an alien crewman) in and admitted to the United States shal
 
 #### (6) Unlawful voters
 
-&emsp;Any alien who has voted in violation of any Federal, State, or local constitutional provision, statute, ordinance, or regulation is deportable.
+#### (A) In general
+
+&emsp;&emsp;Any alien who has voted in violation of any Federal, State, or local constitutional provision, statute, ordinance, or regulation is deportable.
+
+#### (B) Exception
+
+&emsp;&emsp;In the case of an alien who voted in a Federal, State, or local election (including an initiative, recall, or referendum) in violation of a lawful restriction of voting to citizens, if each natural parent of the alien (or, in the case of an adopted alien, each adoptive parent of the alien) is or was a citizen (whether by birth or naturalization), the alien permanently resided in the United States prior to attaining the age of 16, and the alien reasonably believed at the time of such violation that he or she was a citizen, the alien shall not be considered to be deportable under any provision of this subsection based on such violation.
+
+#### (7) Waiver for victims of domestic violence
+
+#### (A) In general
+
+&emsp;&emsp;The Attorney General is not limited by the criminal court record and may waive the application of paragraph (2)(E)(i) (with respect to crimes of domestic violence and crimes of stalking) and (ii) in the case of an alien who has been battered or subjected to extreme cruelty and who is not and was not the primary perpetrator of violence in the relationship—
+
+&emsp;&emsp;&emsp;(i) upon a determination that—
+
+&emsp;&emsp;&emsp;&emsp;(I) the alien was acting is <sup>1</sup> self-defense;
+
+&emsp;&emsp;&emsp;&emsp;(II) the alien was found to have violated a protection order intended to protect the alien; or
+
+&emsp;&emsp;&emsp;&emsp;(III) the alien committed, was arrested for, was convicted of, or pled guilty to committing a crime—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) that did not result in serious bodily injury; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) where there was a connection between the crime and the alien's having been battered or subjected to extreme cruelty.
+
+#### (B) Credible evidence considered
+
+&emsp;&emsp;In acting on applications under this paragraph, the Attorney General shall consider any credible evidence relevant to the application. The determination of what evidence is credible and the weight to be given that evidence shall be within the sole discretion of the Attorney General.
 
 #### (b) Deportation of certain nonimmigrants
 
@@ -216,7 +252,7 @@ An alien, admitted as a nonimmigrant under the provision of either section 1101(
 
 Paragraphs (1)(A), (1)(B), (1)(C), (1)(D), and (3)(A) of subsection (a) of this section (other than so much of paragraph (1) as relates to a ground of inadmissibility described in paragraph (2) or (3) of section 1182(a) of this title) shall not apply to a special immigrant described in section 1101(a)(27)(J) of this title based upon circumstances that existed before the date the alien was provided such special immigrant status.
 
-(June 27, 1952, ch. 477, title II, ch. 4, §237, formerly ch. 5, §241, 66 Stat. 204; July 18, 1956, ch. 629, title III, §301(b), (c), 70 Stat. 575; Pub. L. 86–648, §9, July 14, 1960, 74 Stat. 505; Pub. L. 87–301, §16, Sept. 26, 1961, 75 Stat. 655; Pub. L. 89–236, §11(e), Oct. 3, 1965, 79 Stat. 918; Pub. L. 94–571, §7(e), Oct. 20, 1976, 90 Stat. 2706; Pub. L. 95–549, title I, §103, Oct. 30, 1978, 92 Stat. 2065; Pub. L. 97–116, §8, Dec. 29, 1981, 95 Stat. 1616; Pub. L. 99–570, title I, §1751(b), Oct. 27, 1986, 100 Stat. 3207–47; Pub. L. 99–603, title III, §303(b), Nov. 6, 1986, 100 Stat. 3431; Pub. L. 99–639, §2(b), Nov. 10, 1986, 100 Stat. 3541; Pub. L. 99–653, §7(c), Nov. 14, 1986, 100 Stat. 3657; Pub. L. 100–525, §§2(n)(2), 9(m), Oct. 24, 1988, 102 Stat. 2613, 2620; Pub. L. 100–690, title VII, §§7344(a), 7348(a), Nov. 18, 1988, 102 Stat. 4470, 4473; Pub. L. 101–649, title I, §153(b), title V, §§505(a), 508(a), 544(b), title VI, §602(a), (b), Nov. 29, 1990, 104 Stat. 5006, 5050, 5051, 5061, 5077, 5081; Pub. L. 102–232, title III, §§302(d)(3), 307(h), (k), Dec. 12, 1991, 105 Stat. 1745, 1755, 1756; Pub. L. 103–322, title XIII, §130003(d), Sept. 13, 1994, 108 Stat. 2026; Pub. L. 103–416, title II, §§203(b), 219(g), Oct. 25, 1994, 108 Stat. 4311, 4317; Pub. L. 104–132, title IV, §§414(a), 435(a), Apr. 24, 1996, 110 Stat. 1270, 1274; renumbered ch. 4, §237, and amended Pub. L. 104–208, div. C, title I, §108(c), title III, §§301(d), 305(a)(2), 308(d)(2), (3)(A), (e)(1)(E), (2)(C), (f)(1)(L)–(N), (5), 344(b), 345(b), 347(b), 350(a), 351(b), title VI, §671(a)(4)(B), (d)(1)(C), Sept. 30, 1996, 110 Stat. 3009–558, 3009–579, 3009–598, 3009–617, 3009–619 to 3009–622, 3009–637 to 3009–640, 3009–721, 3009–723.)
+(June 27, 1952, ch. 477, title II, ch. 4, §237, formerly ch. 5, §241, 66 Stat. 204; July 18, 1956, ch. 629, title III, §301(b), (c), 70 Stat. 575; Pub. L. 86–648, §9, July 14, 1960, 74 Stat. 505; Pub. L. 87–301, §16, Sept. 26, 1961, 75 Stat. 655; Pub. L. 89–236, §11(e), Oct. 3, 1965, 79 Stat. 918; Pub. L. 94–571, §7(e), Oct. 20, 1976, 90 Stat. 2706; Pub. L. 95–549, title I, §103, Oct. 30, 1978, 92 Stat. 2065; Pub. L. 97–116, §8, Dec. 29, 1981, 95 Stat. 1616; Pub. L. 99–570, title I, §1751(b), Oct. 27, 1986, 100 Stat. 3207–47; Pub. L. 99–603, title III, §303(b), Nov. 6, 1986, 100 Stat. 3431; Pub. L. 99–639, §2(b), Nov. 10, 1986, 100 Stat. 3541; Pub. L. 99–653, §7(c), Nov. 14, 1986, 100 Stat. 3657; Pub. L. 100–525, §§2(n)(2), 9(m), Oct. 24, 1988, 102 Stat. 2613, 2620; Pub. L. 100–690, title VII, §§7344(a), 7348(a), Nov. 18, 1988, 102 Stat. 4470, 4473; Pub. L. 101–649, title I, §153(b), title V, §§505(a), 508(a), 544(b), title VI, §602(a), (b), Nov. 29, 1990, 104 Stat. 5006, 5050, 5051, 5061, 5077, 5081; Pub. L. 102–232, title III, §§302(d)(3), 307(h), (k), Dec. 12, 1991, 105 Stat. 1745, 1755, 1756; Pub. L. 103–322, title XIII, §130003(d), Sept. 13, 1994, 108 Stat. 2026; Pub. L. 103–416, title II, §§203(b), 219(g), Oct. 25, 1994, 108 Stat. 4311, 4317; Pub. L. 104–132, title IV, §§414(a), 435(a), Apr. 24, 1996, 110 Stat. 1270, 1274; renumbered ch. 4, §237, and amended Pub. L. 104–208, div. C, title I, §108(c), title III, §§301(d), 305(a)(2), 308(d)(2), (3)(A), (e)(1)(E), (2)(C), (f)(1)(L)–(N), (5), 344(b), 345(b), 347(b), 350(a), 351(b), title VI, §671(a)(4)(B), (d)(1)(C), Sept. 30, 1996, 110 Stat. 3009–558, 3009–579, 3009–598, 3009–617, 3009–619 to 3009–622, 3009–637 to 3009–640, 3009–721, 3009–723; Pub. L. 106–386, div. B, title V, §1505(b)(1), (c)(2), Oct. 28, 2000, 114 Stat. 1525, 1526; Pub. L. 106–395, title II, §201(c)(1), (2), Oct. 30, 2000, 114 Stat. 1634, 1635.)
 
 #### References in Text
 
@@ -238,9 +274,17 @@ Section was formerly classified to section 1251 of this title prior to renumberi
 
 #### Prior Provisions
 
-A prior section 1227, acts June 27, 1952, ch. 477, title II, ch. 4, §237, 66 Stat. 201; Dec. 29, 1981, Pub. L. 97–116, §7, 95 Stat. 1615; Oct. 18, 1986, Pub. L. 99–500, §101(b) \[title II, §206(b)(2)\], as added Oct. 24, 1988, Pub. L. 100–525, §4(b)(4), 102 Stat. 2615; Oct. 24, 1988, Pub. L. 100–525, §9(<i>l</i>), 102 Stat. 2620; Nov. 29, 1990, Pub. L. 101–649, title V, §543(a)(2), 104 Stat. 5057; Dec. 12, 1991, Pub. L. 102–232, title III, §306(c)(4)(B), 105 Stat. 1752; Apr. 24, 1996, Pub. L. 104–132, title IV, §422(b), 110 Stat. 1272; Sept. 30, 1996, Pub. L. 104–208, div. C, title III, §308(d)(5), 110 Stat. 3009–619, related to immediate deportation of aliens excluded from admission or entering in violation of law, prior to repeal by Pub. L. 104–208, div. C, title III, §§305(a)(1), 309, Sept. 30, 1996, 110 Stat. 3009–597, 3009–625, effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996. See section 1231 of this title.
+A prior section 1227, acts June 27, 1952, ch. 477, title II, ch. 4, §237, 66 Stat. 201; Dec. 29, 1981, Pub. L. 97–116, §7, 95 Stat. 1615; Oct. 18, 1986, Pub. L. 99–500, §101(b) \[title II, §206(b)(2)\], as added Oct. 24, 1988, Pub. L. 100–525, §4(b)(4), 102 Stat. 2615; Oct. 24, 1988, Pub. L. 100–525, §9(<i>l</i>), 102 Stat. 2620; Nov. 29, 1990, Pub. L. 101–649, title V, §543(a)(2), 104 Stat. 5057; Dec. 12, 1991, Pub. L. 102–232, title III, §306(c)(4)(B), 105 Stat. 1752; Apr. 24, 1996, Pub. L. 104–132, title IV, §422(b), 110 Stat. 1272; Sept. 30, 1996, Pub. L. 104–208, div. C, title III, §308(d)(5), 110 Stat. 3009–619, related to immediate deportation of aliens excluded from admission or enteringin violation of law, prior to repeal by Pub. L. 104–208, div. C, title III, §§305(a)(1), 309, Sept. 30, 1996, 110 Stat. 3009–597, 3009–625, effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996. See section 1231 of this title.
 
 #### Amendments
+
+2000—Subsec. (a)(1)(H). Pub. L. 106–386, §1505(c)(2), redesignated cls. (i) and (ii) as subcls. (I) and (II), respectively, of cl. (i), and added cl. (ii).
+
+Subsec. (a)(3)(D). Pub. L. 106–395, §201(c)(2), amended heading and text of subpar. (D) generally. Prior to amendment, text read as follows: “Any alien who falsely represents, or has falsely represented, himself to be a citizen of the United States for any purpose or benefit under this chapter (including section 1324a of this title) or any Federal or State law is deportable.”
+
+Subsec. (a)(6). Pub. L. 106–395, §201(c)(1), amended heading and text of par. (6) generally. Prior to amendment, text read as follows: “Any alien who has voted in violation of any Federal, State, or local constitutional provision, statute, ordinance, or regulation is deportable.”
+
+Subsec. (a)(7). Pub. L. 106–386, §1505(b)(1), added par. (7).
 
 1996—Subsec. (a). Pub. L. 104–208, §308(e)(2)(C), substituted “removed” for “deported” in introductory provisions.
 
@@ -396,6 +440,10 @@ Subsec. (g). Pub. L. 99–639, §2(b)(2), added subsec. (g).
 
 Subsec. (b). Act July 18, 1956, §301(c), inserted at end “The provisions of this subsection shall not apply in the case of any alien who is charged with being deportable from the United States under subsection (a)(11) of this section.”
 
+#### Effective Date of 2000 Amendment
+
+Pub. L. 106–395, title II, §201(c)(3), Oct. 30, 2000, 114 Stat. 1635, provided that: “The amendment made by paragraph (1) \[amending this section\] shall be effective as if included in the enactment of section 347 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (Public Law 104–208; 110 Stat. 3009–638) and shall apply to voting occurring before, on, or after September 30, 1996. The amendment made by paragraph (2) \[amending this section\] shall be effective as if included in the enactment of section 344 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (Public Law 104–208; 110 Stat. 3009–637) and shallapply to representations made on or after September 30, 1996. Such amendments shall apply to individuals in proceedings under the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\] on or after September 30, 1996.”
+
 #### Effective Date of 1996 Amendments
 
 Amendment by sections 301(d), 305(a)(2), and 308(d)(2)(A)–(C), (3)(A), (e)(1)(E), (2)(C), (f)(1)(L)–(N), (5) of Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
@@ -482,5 +530,7 @@ Section 510 of Pub. L. 101–649, as amended by Pub. L. 102–232, title III, §
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1158, 1226, 1228, 1229a, 1229b, 1229c, 1231, 1252, 1253, 1255, 1259, 1364, 1367, 1531 of this title; title 42 section 402.
+This section is referred to in sections 1154, 1158, 1226, 1228, 1229a, 1229b, 1229c, 1231, 1252, 1253, 1255, 1259, 1364, 1367, 1371, 1531 of this title; title 42 sections 402, 1004.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “in”.</i>
 

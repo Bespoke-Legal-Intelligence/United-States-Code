@@ -98,7 +98,7 @@
 | (c) | Programs directed to special populations. |
 | (d) | Dissemination of results. |
 | (e) | Replication of programs. |
-| (f) | Report to Congress. |
+| (f) | Omitted. |
 | (g) | Definitions. |
 | (h) | Authorization of appropriations. |
 | [9926\.](%C2%A7%2009926%20-%20Projects%20to%20expand%20the%20number%20of%20job%20opportunities%20available%20to%20certain%20low-income%20individuals.md) | Projects to expand the number of job opportunities available to certain low-income individuals. |

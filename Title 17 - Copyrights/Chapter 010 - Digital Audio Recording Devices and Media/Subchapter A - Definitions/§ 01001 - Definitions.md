@@ -82,11 +82,7 @@ Section 482 of the Internal Revenue Code of 1986, referred to in par. (12)(B), i
 
 #### Effective Date
 
-Section 4 of Pub. L. 102–563 provided that: “This Act \[see Short Title note below\] and the amendments made by this Act shall take effect on the date of the enactment of this Act \[Oct. 28, 1992\].”
-
-#### Short Title
-
-Section 1 of Pub. L. 102–563 provided that: “This Act \[enacting this chapter, amending sections 101, 801, 804, and 912 of this title, and section 1337 of Title 19, Customs Duties, and enacting provisions set out as a note above\] may be cited as the ‘Audio Home Recording Act of 1992’.”
+Pub. L. 102–563, §4, Oct. 28, 1992, 106 Stat. 4248, provided that: “This Act \[see Short Title of 1992 Amendments note set out under section 101 of this title\] and the amendments made by this Act shall take effect on the date of the enactment of this Act \[Oct. 28, 1992\].”
 
 #### Section Referred to in Other Sections
 

@@ -126,7 +126,7 @@ Pub. L. 93–112, title VI, §601, as added by Pub. L. 105–220, title IV, §40
 
 Pub. L. 93–112, §1, Sept. 26, 1973, 87 Stat. 355, provided in part that Pub. L. 93–112, which enacted this chapter and repealed sections 31 to 41c and 42–1 to 42b of this title, could be cited as the “Rehabilitation Act of 1973”, prior to repeal by Pub. L. 105–220, title IV, §403, Aug. 7, 1998, 112 Stat. 1093.
 
-Pub. L. 93–112, title VI, §601, as added by Pub. L. 95–602, title II, §201, Nov. 6, 1978, 92 Stat. 2989, and amended by Pub. L. 102–569, title I, §102(p)(34), Oct. 29, 1992, 106 Stat. 4360, provided that title VI of Pub. L. 93–112, enacting former subchapter VI of this chapter, could be cited as the “Employment Opportunities for Handicapped Individuals Act”, prior to the general amendment of title VI of Pub. L. 93–112 by Pub. L. 105–220, title IV, §409, Aug. 7, 1998, 112 Stat. 1210.
+Pub. L. 93–112, title VI, §601, as added by Pub. L. 95–602, title II, §201, Nov. 6, 1978, 92 Stat. 2989, andamended by Pub. L. 102–569, title I, §102(p)(34), Oct. 29, 1992, 106 Stat. 4360, provided that title VI of Pub. L. 93–112, enacting former subchapter VI of this chapter, could be cited as the “Employment Opportunities for Handicapped Individuals Act”, prior to the general amendment of title VI of Pub. L. 93–112 by Pub. L. 105–220, title IV, §409, Aug. 7, 1998, 112 Stat. 1210.
 
 #### Ex. Ord. No. 11758. Delegation of Authority of the President
 
@@ -144,15 +144,15 @@ Sec. 4. The Federal Acquisition Regulations and, to the extent necessary, any su
 
 #### Ex. Ord. No. 13078. Increasing Employment of Adults With Disabilities
 
-Ex. Ord. No. 13078, Mar. 13, 1998, 63 F.R. 13111, provided:
+Ex. Ord. No. 13078, Mar. 13, 1998, 63 F.R. 13111, as amended by Ex. Ord. No. 13172, Oct. 25, 2000, 65 F.R. 64577; Ex. Ord. No. 13187, §4(b), Jan. 10, 2001, 66 F.R. 3858, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to increase the employment of adults with disabilities to a rate that is as close as possible to the employment rate of the general adult population and to support the goals articulated in the findings and purpose section of the Americans with Disabilities Act of 1990 \[42 U.S.C. 12101 et seq.\], it is hereby ordered as follows:
 
 Section 1. Establishment of National Task Force on Employment of Adults with Disabilities.
 
-(a) There is established the “National Task Force on Employment of Adults with Disabilities” (“Task Force”). The Task Force shall comprise the Secretary of Labor, Secretary of Education, Secretary of Veterans Affairs, Secretary of Health and Human Services, Commissioner of Social Security, Secretary of the Treasury, Secretary of Commerce, Secretary of Transportation, Director of the Office of Personnel Management, Administrator of the Small Business Administration, the Chair of the Equal Employment Opportunity Commission, the Chairperson of the National Council on Disability, the Chair of the President's Committee on Employment of People with Disabilities, and such other senior executive branch officials as may be determined by the Chair of the Task Force.
+(a) There is established the “National Task Force on Employment of Adults with Disabilities” (“Task Force”). The Task Force shall comprise the Secretary of Labor, Secretary of Education, Secretary of Veterans Affairs, Secretary of Health and Human Services, Commissioner of Social Security, Secretary of the Treasury, Secretary of Commerce, Secretary of Transportation, Director of the Office of Personnel Management, Administrator of the Small Business Administration, the Chair of the Equal Employment Opportunity Commission, the Chairperson of the National Council on Disability, the Chairperson of the President's Disability Employment Partnership Board., \[sic\] and such other senior executive branch officials as may be determined by the Chair of the Task Force.
 
-(b) The Secretary of Labor shall be the Chair of the Task Force; the Chair of the President's Committee on Employment of People with Disabilities shall be the Vice Chair of the Task Force.
+(b) The Secretary of Labor shall be the Chair of the Task Force; the Chairperson of the President's Disability Employment Partnership Board. \[sic\] shall be the Vice Chair of the Task Force.
 
 (c) The purpose of the Task Force is to create a coordinated and aggressive national policy to bring adults with disabilities into gainful employment at a rate that is as close as possible to that of the general adult population. The Task Force shall develop and recommend to the President, through the Chair of the Task Force, a coordinated Federal policy to reduce employment barriers for persons with disabilities. Policy recommendations may cover such areas as discrimination, reasonable accommodations, inadequate access to health care, lack of consumer-driven, long-term supports and services, transportation, accessible and integrated housing, telecommunications, assistive technology, community services, child care, education, vocational rehabilitation, training services, job retention, on-the-job supports, and economic incentives to work. Specifically, the Task Force shall:
 
@@ -198,9 +198,55 @@ Sec. 2. Specific activities by Task Force members and other agencies.
 
 (g) All executive agencies that are not members of the Task Force shall: (1) coordinate and cooperate with the Task Force; and (2) review their programs and policies to ensure that they are being conducted and delivered in a manner that facilitates and promotes the employment of adults with disabilities. Each agency shall file a report with the Task Force on the results of its review on November 15, 1998.
 
+(h) To improve employment outcomes for persons with disabilities by addressing, among other things, the education, transition, employment, health and rehabilitation, and independent living issues affecting young people with disabilities, executive departments and agencies shall coordinate and cooperate with the Task Force to: (1) strengthen interagency research, demonstration, and training activities relating to young people with disabilities; (2) create a public awareness campaign focused on access to equal opportunity for young people with disabilities; (3) promote the views of young people with disabilities through collaboration with the Youth Councils authorized under the Workforce Investment Act of 1998 \[Pub. L. 105–220, see Short Title note set out under section 9201 of Title 20, Education\]; (4) increase access to and utilization of health insurance and health care for young people with disabilities through the formalization of the Federal Healthy and Ready to Work Interagency Council; (5) increase participation by young people with disabilities in postsecondary education and training programs; and (6) create a nationally representative Youth Advisory Council, to be funded and chaired by the Department of Labor, to advise the Task Force in conducting these and other appropriate activities.
+
 Sec. 3. Cooperation. All efforts taken by executive departments and agencies under sections 1 and 2 of this order shall, as appropriate, further partnerships and cooperation with public and private sector employers, organizations that represent people with disabilities, organized labor, veteran service organizations, and State and local governments whenever such partnerships and cooperation are possible and would promote the employment and gainful economic activities of individuals with disabilities.
 
 Sec. 4. Judicial Review. This order does not create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or any person.
+
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13187. The President's Disability Employment Partnership Board
+
+Ex. Ord. No. 13187, Jan. 10, 2001, 66 F.R. 3857, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Advisory Committee Act, as amended (5 U.S.C. App.), and in order to promote the employment of people with disabilities, it is hereby ordered as follows:
+
+Section 1. <i>Establishment and Composition of the Board</i>. (a) There is hereby established the President's Disability Employment Partnership Board (Board).
+
+(b) The Board shall be composed of not more than 15 members who shall be appointed by the President for terms of 2 years. The membership shall include individuals who are representatives of business (including small business), labor organizations, State or local government, disabled veterans, people with disabilities, organizations serving people with disabilities, and researchers or academicians focusing on issues relating to the employment of people with disabilities, and may include other individuals representing entities involved in issues relating to the employment of people with disabilities as the President finds appropriate.
+
+(c) The President shall designate a Chairperson from among the members of the Board to serve a term of two years.
+
+(d) Members and the Chairperson may be reappointed for subsequent terms and may continue to serve until their successors have been appointed.
+
+Sec. 2. <i>Functions</i>. (a) The Board shall provide advice and information to the President, the Vice President, the Secretary of Labor, and other appropriate Federal officials with respect to facilitating the employment of people with disabilities, and shall assist in other activities that promote the formation of public-private partnerships, the use of economic incentives, the provision of technical assistance regarding entrepreneurship, and other actions that may enhance employment opportunities for people with disabilities.
+
+(b) In carrying out paragraph (a) of this section, the Board shall:
+
+&emsp;(i) develop and submit to the Office of Disability Employment Policy in the Department of Labor a comprehensive written plan for joint public-private efforts to promote employment opportunities for people with disabilities and improve their access to financial institutions and commercial and business enterprises;
+
+&emsp;(ii) identify strategies that may be used by employers, labor unions, national and international organizations, and Federal, State, and local officials to increase employment opportunities for people with disabilities; and
+
+&emsp;(iii) coordinate with the Office of Disability Employment Policy in the Department of Labor in promoting the collaborative use of public and private resources to assist people with disabilities in forming and expanding small business concerns and in enhancing their access to Federal procurement and other relevant business opportunities. Public resources include those of the Department of Labor, the Small Business Administration, the Department of Commerce, the Department of Education, the Department of Defense, the Department of Treasury, the Department of Veterans Affairs, the Federal Communications Commission, and of executive departments and agency offices responsible for small, disadvantaged businesses utilization.
+
+(c) The Board shall submit annual written reports to the President, who may apprise the Congress and other interested organizations and individuals on its activities, progress, and problems relating to maximizing employment opportunities for people with disabilities.
+
+(d) The Chairperson of the Board shall serve as a member and Vice Chair of the National Task Force on Employment of Adults with Disabilities established under Executive Order 13078 of March 13, 1998 \[set out above\].
+
+Sec. 3. <i>Administration</i>. (a) The Board shall meet when called by the Chairperson, at a time and place designated by the Chairperson. The Chairperson shall call at least two meetings per calendar year. The Chairperson may form subcommittees or working groups within the Board to address particular matters.
+
+(b) The Chairperson may from time to time prescribe such rules, procedures, and policies relating to the activities of the Board as are not inconsistent with law or with the provisions of this order.
+
+(c) Members of the Board shall serve without compensation but shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in Federal service (5 U.S.C. 5701–5707).
+
+(d) The Department of Labor shall provide funding and appropriate support to assist the Board in carrying out the activities described in section 2 of this order, including necessary office space, equipment, supplies, services, and staff. The functions of the President under the Federal Advisory Committee Act, as amended, except that of reporting to the Congress, that are applicable to the Commission, shall be performed by the Department of Labor in accordance with guidelines that have been issued by the Administrator of General Services.
+
+(e) The heads of executive departments and agencies shall, to the extent permitted by law, provide the Board such information as it may need for purposes of carrying out the functions described in section 2 of this order.
+
+Sec. 4. <i>Prior Orders and Transition</i>. (a) Executive Order 12640 of May 10, 1988, as amended, relating to the establishment of the President's Committee on Employment of People with Disabilities, is hereby revoked. The employees, records, property, and funds of the Committee shall become the employees, records, property, and funds of the Department of Labor.
+
+(b) Executive Order 13078 of March 13, 1998 \[set out above\], is amended in sections 1(a) and (b) by striking “Chair of the President's Committee on Employment of People with Disabilities” and inserting “Chairperson of the President's Disability Employment Partnership Board.”
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

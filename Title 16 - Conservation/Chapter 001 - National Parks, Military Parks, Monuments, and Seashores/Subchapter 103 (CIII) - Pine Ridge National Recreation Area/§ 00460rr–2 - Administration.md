@@ -44,13 +44,11 @@ In conducting the reviews and preparing the comprehensive management plan requir
 
 #### References in Text
 
-The United States mining laws, referred to in subsec. (d), are classified generally to Title 30, Mineral Lands and Mining.
-
-Mineral leasing laws, referred to in subsec. (d), have been defined in sections 351, 505, 530, and 541e of Title 30, to mean acts Oct. 20, 1914, ch. 330, 38 Stat. 741; Feb. 25, 1920, ch. 85, 41 Stat. 437; Apr. 17, 1926, ch. 158, 44 Stat. 301; and Feb. 7, 1927, ch. 66, 44 Stat. 1057. The act of Oct. 20, 1914, was repealed by Pub. L. 86–252, §1, Sept. 9, 1959, 73 Stat. 490. The act of Feb. 25, 1920, is known as the Mineral Leasing Act and is classified generally to chapter 3A (§181 et seq.) of Title 30. The act of Apr. 17, 1926, is classified generally to subchapter VIII (§271 et seq.) of chapter 3A of Title 30. The act of Feb. 7, 1927, is classified principally to subchapter IX (§281 et seq.) of chapter 3A of Title 30. For complete classification of these Acts to the Code, see Tables.
+The United States mining laws and the mineral leasing laws, referred to in subsec. (d), are classified generally to Title 30, Mineral Lands and Mining.
 
 Geothermal leasing laws, referred to in subsec. (d), are classified principally to chapter 23 (§1001 et seq.) of Title 30.
 
-This subchapter, referred to in subsec. (e), was in the original “this Act”, meaning Pub. L. 99–504, Oct. 20,1986, 100 Stat. 1802, known as the Nebraska Wilderness Act of 1985, which enacted this subchapter and provisions listed in a table of Wilderness Areas set out under section 1132 of this title. For complete classification of this Act to the Code, see Tables.
+This subchapter, referred to in subsec. (e), was in the original “this Act”, meaning Pub. L. 99–504, Oct. 20, 1986, 100 Stat. 1802, known as the Nebraska Wilderness Act of 1985, which enacted this subchapter and provisions listed in a table of Wilderness Areas set out under section 1132 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Change of Name
 

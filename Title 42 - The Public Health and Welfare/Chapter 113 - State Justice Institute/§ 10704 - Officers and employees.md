@@ -8,7 +8,7 @@
 
 #### (b) Compensation
 
-Officers and employees of the Institute shall be compensated at rates determined by the Board, but not in excess of the rate of level V of the Executive Schedule specified in section 5316 of title 5.
+Officers and employees of the Institute shall be compensated at rates determined by the Board, but not in excess of the rate of level V ofthe Executive Schedule specified in section 5316 of title 5.
 
 #### (c) Status of Institute as department, agency, or instrumentality of Federal Government; authority of Office of Management and Budget
 

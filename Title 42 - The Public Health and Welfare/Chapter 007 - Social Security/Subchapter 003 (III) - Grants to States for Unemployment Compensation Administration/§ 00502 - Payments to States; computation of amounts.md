@@ -24,7 +24,7 @@ For provision deeming a reference in other laws to a provision of the 1939 Code 
 
 1992—Subsec. (c). Pub. L. 102–318 added subsec. (c).
 
-1986—Subsec. (a). Pub. L. 99–603 inserted at end of first sentence “, including 100 percent of so much of thereasonable expenditures of the State as are attributable to the costs of the implementation and operation of the immigration status verification system described in section 1320b–7(d) of this title”.
+1986—Subsec. (a). Pub. L. 99–603 inserted at end of first sentence “, including 100 percent of so much of the reasonable expenditures of the State as are attributable to the costs of the implementation and operation of the immigration status verification system described in section 1320b–7(d) of this title”.
 
 1984—Subsec. (b). Pub. L. 98–369 substituted “the Fiscal Service of the Department of the Treasury” for “the Division of Disbursement of the Treasury Department”.
 
@@ -81,10 +81,6 @@ Specific Requirements.—The report required by subsection (a) shall include an 
 “(c)
 
 Congressional Review Period.—The Secretary of Labor may not revise the method in effect on the date of the enactment of this Act \[Nov. 15, 1991\] for allocating grants among the States under section 302 of the Social Security Act \[this section\], until after the expiration of the 12-month period beginning on the date on which the report required by subsection (a) is submitted to the Congress.”
-
-#### Cross References
-
-Withholding amounts from certification for payment, see note set out under section 363 of Title 45, Railroads.
 
 #### Section Referred to in Other Sections
 

@@ -2,5 +2,5 @@
 
 Section, Pub. L. 89–329, title IV, §419I, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat. 1345, related to awards ceremony.
 
-A prior section 1070d–39, Pub. L. 89–329, title IV, §419I, as added Pub. L. 98–558, title VIII, §801(a), Oct. 30, 1984,98 Stat. 2902, related to ceremony for awarding scholarships under Robert C. Byrd Honors Scholarship Program, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1070d–39, Pub. L. 89–329, title IV, §419I, as added Pub. L. 98–558, title VIII, §801(a), Oct. 30, 1984, 98 Stat. 2902, related to ceremony for awarding scholarships under Robert C. Byrd Honors Scholarship Program, prior to the general revision of this part by Pub. L. 99–498.
 

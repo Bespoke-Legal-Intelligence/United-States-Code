@@ -26,7 +26,7 @@ Pub. L. 100–690, title IX, §9001, Nov. 18, 1988, 102 Stat. 4521, provided tha
 
 #### Short Title of 1987 Amendment
 
-Section 201 of title II of Pub. L. 100–17 provided that: “This title \[amending sections 402 and 408 of this title and section 2314 of former Title 49, Transportation, enacting provisions set out as notes under this section, section 402 of this title, and section 2204 of former Title 49, and amending provisions set out as a note under this section\] be cited as the ‘Highway Safety Act of 1987’.”
+Section 201 of title II of Pub. L. 100–17 provided that: “This title \[amending sections 402 and 408 of this title and section 2314 of former Title 49, Transportation, enacting provisions set out as notes under this section,section 402 of this title, and section 2204 of former Title 49, and amending provisions set out as a note under this section\] be cited as the ‘Highway Safety Act of 1987’.”
 
 #### Short Title of 1983 Amendment
 
@@ -126,6 +126,8 @@ Section 208 of Pub. L. 100–17, as amended by Pub. L. 100–202, §101(<i>l</i>
 
 Pub. L. 97–424, title II, §207, Jan. 6, 1983, 96 Stat. 2139, provided that: “The Secretary of Transportation shall prepare, publish, and submit to Congress not later than December 31 of each calendar year beginning after December 31, 1982, a report on the highway safety performance of each State in the preceding calendar year. Such report shall provide data on highway fatalities and injuries and motor vehicle accidents involving fatalities and injuries and travel in urban areas of each State for each system of highways and in rural areas of such State for each system of highways. Such report shall be in such form and contain such other information on highway accidents as will permit an evaluation and comparison of highway safety performance of the States. For purposes of this section (1) the systems of highways in a State are the Federal-aid primary system, the Federal-aid secondary system, the Federal-aid urban system, and the Interstate System (as such terms are defined in section 101 of title 23, United States Code) and the other highways in such State which are not on the Federal-aid system, and (2) the terms ‘State’, ‘rural areas’, and ‘urban area’ have the meaning such terms have under section 101.”
 
+\[For termination, effective May 15, 2000, of provisions relating to submittal of report to Congress in section 207 of Pub. L. 97–424, set out above, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 136 of House Document No. 103–7.\]
+
 #### National Driver Registration
 
 Pub. L. 97–364, title II, §§201–211, Oct. 25, 1982, 96 Stat. 1740–1748, as amended by Pub. L. 100–223, title III, §305, Dec. 30, 1987, 101 Stat. 1525; Pub. L. 100–342, §4(b), June 22, 1988, 102 Stat. 626; Pub. L. 101–380, title IV, §4105(a), Aug. 18, 1990, 104 Stat. 512; Pub. L. 102–240, title II, §2007, Dec. 18, 1991, 105 Stat. 2080, directed Secretary of Transportation to establish and maintain a National Driver Register to assist States in exchange of information on motor vehicle driving records of individuals and provided for reports by State officials, accessibility of Register information, a pilot test program, criminal penalties, an advisory committee, and a report to Congress by the Secretary, prior to repeal by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, and Pub. L. 103–429, §8(10), Oct. 31, 1994, 108 Stat. 4390, and was restated in part in chapter 303 of Title 49, Transportation.
@@ -153,6 +155,8 @@ National Highway Safety Campaign.—Utilizing those techniques, methods, and pra
 “(h) For the purpose of carrying out subsections (d), (e), (f), and (g) of this section, there is authorized to be appropriated out of the Highway Trust Fund, $10,000,000, to remain available until expended. None of the amounts authorized by this subsection shall be available for obligation for any education or information program conducted in connection with the implementation of Federal Motor Vehicle Safety Standard 208 (49 C.F.R. 571.208).
 
 “(i) All provisions of chapter 1 of title 23, United States Code, that are applicable to Federal-aid primary highway funds, other than provisions relating to the apportionment formula and provisions limiting the expenditure of such funds to the Federal-aid systems, shall apply to the funds authorized to be appropriated to carry out this section, except as determined by the Secretary to be inconsistent with this section and except that the funds authorized to be appropriated to carry out this section shall not be subject to any obligation limitation.”
+
+\[For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed inHouse Document No. 103–7 (in which a report required under section 209(g) of Pub. L. 95–599, set out above, is listed on page 139), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.\]
 
 #### Highway Safety Educational Programing and Study; Report to Congress; Series of Highway Safety Television Programs; Appropriations Authorizations
 
@@ -190,9 +194,19 @@ Section 202 of Pub. L. 89–564, as amended by Pub. L. 93–87, title II, §224,
 
 “(b) The annual report shall also contain such recommendations for additional legislation as the Secretary deems necessary to promote cooperation among the several States in the improvement of highway safety and to strengthen the national highway safety program.”
 
+\[For termination, effective May 15, 2000, of provisions relating to transmittal of report to Congress in section 202 of Pub. L. 89–564, set out above, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 135 of House Document No. 103–7.\]
+
 #### Detailed Cost Estimate of Highway Safety Act of 1966
 
 Section 207 of Pub. L. 89–564 directed Secretary, in cooperation with the Governors of appropriate State highway safety agencies, make a detailed estimate of the cost of carrying out the Highway Safety Act of 1966 in order to provide a basis for evaluating continuing programs under the Act and to furnish Congress information necessary for authorization of appropriations for fiscal years beginning after June 30, 1969, such estimates to be submitted to Congress not later than Jan. 10, 1968.
+
+#### Interstate Compacts for Highway Safety
+
+Pub. L. 85–684, Aug. 20, 1958, 72 Stat. 635, as amended by Pub. L. 88–466, Aug. 20 1964, 78 Stat. 564, provided: “That the consent of Congress is hereby given to any two or more of the several States, and one or more of the several States and the District of Columbia, to enter into agreements or compacts—
+
+&emsp;“(1) for cooperative effort and mutual assistance in the establishment and carrying out of traffic safety programs, including, but not limited to, the enactment of uniform traffic laws, driver education and training, coordination of traffic law enforcement, research into safe automobile and highway design, andresearch programs of the human factors affecting traffic safety, and
+
+&emsp;“(2) for the establishment of such agencies, joint or otherwise, as they deem desirable for the establishment and carrying out of such traffic safety programs.”
 
 #### Section Referred to in Other Sections
 

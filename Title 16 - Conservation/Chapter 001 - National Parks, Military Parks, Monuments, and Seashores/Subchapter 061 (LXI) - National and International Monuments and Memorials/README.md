@@ -1,9 +1,5 @@
 ### SUBCHAPTER LXI—NATIONAL AND INTERNATIONAL MONUMENTS AND MEMORIALS
 
-#### Cross References
-
-Protection of timber upon national monuments from fire, disease, or insect ravages, see section 594 of this title.
-
 
 ---
 

@@ -58,7 +58,7 @@ In selecting community food projects to receive assistance under subsection (b) 
 
 #### (2) Calculation
 
-&emsp;In providing for the non-Federal share of the cost of carrying out a community food project, the entity receiving the grant shall provide for the share through a payment in cash or inkind, fairly evaluated, including facilities, equipment, or services.
+&emsp;In providing for the non-Federal share of the cost of carrying out a community food project, the entity receiving the grant shall provide for the share through a payment in cash or in kind, fairly evaluated, including facilities, equipment, or services.
 
 #### (3) Sources
 

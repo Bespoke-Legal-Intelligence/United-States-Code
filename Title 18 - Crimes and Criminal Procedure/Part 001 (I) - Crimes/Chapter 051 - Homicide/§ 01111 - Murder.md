@@ -40,32 +40,6 @@ The special maritime and territorial jurisdiction provision was added in view of
 
 Amendments by Pub. L. 99–646 and Pub. L. 99–654 effective respectively 30 days after Nov. 10, 1986, and 30 days after Nov. 14, 1986, see section 87(e) of Pub. L. 99–646 and section 4 of Pub. L. 99–654, set out as an Effective Date note under section 2241 of this title.
 
-#### Cross References
-
-Actions aboard aircraft in special aircraft jurisdiction of United States in violation of this section punishable as provided herein, see section 46506 of Title 49, Transportation.
-
-Assault with intent to murder, see section 113 of this title.
-
-Bank robbery, murder in committing, see section 2113 of this title.
-
-High seas, citizen committing murder as pirate, see section 1652 of this title.
-
-Indian country—
-
-&emsp;&emsp;Jurisdiction of offenses committed by Indians, see section 3242 of this title.
-
-&emsp;&emsp;Law governing offenses, see section 1153 of this title.
-
-Limitations, capital offenses, see section 3281 of this title.
-
-Mailing matter of character tending to incite murder, see section 1461 of this title.
-
-Railroads, entering train to commit murder, see section 1991 of this title.
-
-Sentences, see section 3551 of this title.
-
-Venue, see section 3236 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 36, 115, 351, 924, 930, 1114, 1116, 1117, 1118, 1119, 1120, 1121, 1503, 1512, 1513, 1751, 1956, 2332, 3559, 5032 of this title; title 7 section 2146; title 15 section 1825; title 21 sections 461, 675, 1041; title 28 section 540B; title 42 sections 671, 2283, 5106a; title 49 section 46506.

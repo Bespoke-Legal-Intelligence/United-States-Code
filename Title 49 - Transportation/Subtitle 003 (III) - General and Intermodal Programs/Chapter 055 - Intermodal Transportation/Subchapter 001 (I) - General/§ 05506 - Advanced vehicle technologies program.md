@@ -36,7 +36,7 @@ Eligibility Criteria.—To be eligible to receive assistance under this section,
 
 (e)
 
-Proposals.—The Secretary shall prescribe such terms and conditions as the Secretary determines to be appropriate for the content andstructure of proposals submitted for assistance under this section.
+Proposals.—The Secretary shall prescribe such terms and conditions as the Secretary determines to be appropriate for the content and structure of proposals submitted for assistance under this section.
 
 (f)
 
@@ -61,4 +61,8 @@ Availability.—Notwithstanding section 118(a),<sup>1</sup> funds made available
 The Department of Defense Appropriations Act, 1993, referred to in subsec. (b), is Pub. L. 102–396, Oct. 6, 1992, 106 Stat. 1876. For complete classification of this Act to the Code, see Tables.
 
 The Clean Air Act, referred to in subsec. (d)(3), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 47136 of this title.
 

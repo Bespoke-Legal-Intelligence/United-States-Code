@@ -8,7 +8,7 @@ In General.—Except as otherwise provided in this section, reexamination shall 
 
 Response.—(1) This subsection shall apply to any inter partes reexamination proceeding in which the order for inter partes reexamination is based upon a request by a third-party requester.
 
-(2) With the exception of the inter partes reexamination request, any document filed by either the patent owner or the third-party requester shall be served on the other party. In addition,the third-party requester shall receive a copy of any communication sent by the Office to the patent owner concerning the patent subject to the inter partes reexamination proceeding.
+(2) With the exception of the inter partes reexamination request, any document filed by either the patent owner or the third-party requester shall be served on the other party. In addition, the third-party requester shall receive a copy of any communication sent by the Office to the patent owner concerning the patent subject to the inter partes reexamination proceeding.
 
 (3) Each time that the patent owner files a response to an action on the merits from the Patent and Trademark Office, the third-party requester shall have one opportunity to file written comments addressing issues raised by the action of the Office or the patent owner's response thereto, if those written comments are received by the Office within 30 days after the date of service of the patent owner's response.
 

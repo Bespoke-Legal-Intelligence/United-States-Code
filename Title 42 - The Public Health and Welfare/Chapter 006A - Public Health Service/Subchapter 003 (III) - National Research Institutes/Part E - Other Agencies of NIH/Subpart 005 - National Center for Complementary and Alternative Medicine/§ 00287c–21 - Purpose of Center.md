@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The general purposes of the National Center for Complementary and Alternative Medicine\(in this subpart referred to as the “Center”) are the conduct and support of basic and applied research (including both intramural and extramural research), research training, the dissemination of health information, and other programs with respect to identifying, investigating, and validating complementary and alternative treatment, diagnostic and prevention modalities, disciplines and systems. The Center shall be headed by a director, who shall be appointed by the Secretary. The Director of the Center shall report directly to the Director of NIH.
+The general purposes of the National Center for Complementary and Alternative Medicine (in this subpart referred to as the “Center”) are the conduct and support of basic and applied research (including both intramural and extramural research), research training, the dissemination of health information, and other programs with respect to identifying, investigating, and validating complementary and alternative treatment, diagnostic and prevention modalities, disciplines and systems. The Center shall be headed by a director, who shall be appointed by the Secretary. The Director of the Center shall report directly to the Director of NIH.
 
 #### (b) Advisory council
 
@@ -70,11 +70,11 @@ Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under sect
 
 #### Ex. Ord. No. 13147. White House Commission on Complementary and Alternative Medicine Policy
 
-Ex. Ord. No. 13147, Mar. 7, 2000, 65 F.R. 13233, provided:
+Ex. Ord. No. 13147, Mar. 7, 2000, 65 F.R. 13233, as amended by Ex. Ord. No. 13167, Sept. 15, 2000, 65 F.R. 54079 \[57079\], 65 F.R. 57436, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Advisory Committee Act, as amended (5 U.S.C. App.), and in order to establish the White House Commission on Complementary and Alternative Medicine Policy, it is hereby ordered as follows:
 
-Section 1. <i>Establishment</i>. There is established in the Department of Health and Human Services (Department) the White House Commission on Complementary and Alternative Medicine Policy (Commission). The Commission shall be composed of not more than 15 members appointed by the President from knowledgeable representatives in health care practice and complementary and alternative medicine. The President shall designate a Chair from among the members of the Commission. The Secretary of Health and Human Services (Secretary) shall appoint an Executive Director for the Commission.
+Section 1. <i>Establishment</i>. There is established in the Department of Health and Human Services (Department) the White House Commission on Complementary and Alternative Medicine Policy (Commission). The Commission shall be composed of up to 20 members appointed by the President from knowledgeable representatives in health care practice and complementary and alternative medicine. The President shall designate a Chair from among the members of the Commission. The Secretary of Health and Human Services (Secretary) shall appoint an Executive Director for the Commission.
 
 Sec. 2. <i>Functions</i>. The Commission shall provide a report, through the Secretary, to the President on legislative and administrative recommendations for assuring that public policy maximizes the benefits to Americans of complementary and alternative medicine. The recommendations shall address the following:
 

@@ -48,7 +48,7 @@ Notwithstanding any other provision of law, the President shall not prohibit or 
 
 > except that the President may prohibit or curtail the export of any agricultural commodity during a period for which the President has declared a national emergency or for which the Congress has declared war.
 
-(Pub. L. 95–501, title VI, §602, as added Pub. L. 101–624, title XV, §1531, Nov. 28, 1990, 104 Stat. 3688; amended Pub. L. 102–237, title III, §327, Dec. 13, 1991, 105 Stat. 1858; Pub. L. 106–78, title IX, §921, Oct. 22, 1999, 113 Stat. 1206.)
+(Pub. L. 95–501, title VI, §602, as added Pub. L. 101–624, title XV, §1531, Nov. 28, 1990, 104 Stat.3688; amended Pub. L. 102–237, title III, §327, Dec. 13, 1991, 105 Stat. 1858; Pub. L. 106–78, title IX, §921, Oct. 22, 1999, 113 Stat. 1206.)
 
 #### Amendment of Section
 

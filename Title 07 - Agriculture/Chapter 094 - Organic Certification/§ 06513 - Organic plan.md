@@ -30,7 +30,7 @@ A producer or handler seeking certification under this chapter shall submit an o
 
 #### (C) Contamination by manure
 
-&emsp;&emsp;Such organic plan shall prohibit raw manure from being applied to any crop in a waythat significantly contributes to water contamination by nitrates or bacteria.
+&emsp;&emsp;Such organic plan shall prohibit raw manure from being applied to any crop in a way that significantly contributes to water contamination by nitrates or bacteria.
 
 #### (c) Livestock plan
 

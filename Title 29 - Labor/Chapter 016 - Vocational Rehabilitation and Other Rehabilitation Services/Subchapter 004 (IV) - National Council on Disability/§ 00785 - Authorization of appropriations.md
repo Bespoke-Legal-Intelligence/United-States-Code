@@ -8,7 +8,7 @@ There are authorized to be appropriated to carry out this subchapter such sums a
 
 A prior section 785, Pub. L. 93–112, title IV, §405, as added Pub. L. 95–602, title I, §117, Nov. 6, 1978, 92 Stat. 2979; amended Pub. L. 99–506, title V, §504, Oct. 21, 1986, 100 Stat. 1829; Pub. L. 102–52, §5, June 6, 1991, 105 Stat. 262; Pub. L. 102–569, title IV, §406, Oct. 29, 1992, 106 Stat. 4423, authorized appropriations, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
-Another prior section 785, Pub. L. 93–112, title IV, §405, Sept. 26, 1973, 87 Stat. 388; Pub. L. 93–516, title I, §§109, 111(m), Dec. 7, 1974, 88 Stat. 1619, 1621; Pub. L.93–651, title I, §§109, 111(m), Nov. 21, 1974, 89 Stat. 2–4, 2–6; Pub. L. 94–230, §§9, 11(b)(12), Mar. 15, 1976, 90 Stat. 212, 213, specified certain responsibilities of the Secretary, prior to repeal by Pub. L. 95–602, §117.
+Another prior section 785, Pub. L. 93–112, title IV, §405, Sept. 26, 1973, 87 Stat. 388; Pub. L. 93–516, title I, §§109, 111(m), Dec. 7, 1974, 88 Stat. 1619, 1621; Pub. L. 93–651, title I, §§109, 111(m), Nov. 21, 1974, 89 Stat. 2–4, 2–6; Pub. L. 94–230, §§9, 11(b)(12), Mar. 15, 1976, 90 Stat. 212, 213, specified certain responsibilities of the Secretary, prior to repeal by Pub. L. 95–602, §117.
 
 Prior sections 786 and 787 were repealed by Pub. L. 95–602, title I, §117, Nov. 6, 1978, 92 Stat. 2977.
 

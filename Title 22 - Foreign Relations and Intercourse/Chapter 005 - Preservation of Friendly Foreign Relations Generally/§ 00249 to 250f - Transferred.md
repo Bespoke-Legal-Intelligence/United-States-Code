@@ -2,7 +2,7 @@
 
 #### Codification
 
-Section 249, act Aug. 9, 1939, ch. 616, §1, 53 Stat. 1290, which related to utilization of services of governmentagencies to promote inter-American relations, was transferred to section 501 of this title.
+Section 249, act Aug. 9, 1939, ch. 616, §1, 53 Stat. 1290, which related to utilization of services of government agencies to promote inter-American relations, was transferred to section 501 of this title.
 
 Section 249a, act Aug. 9, 1939, ch. 616, §2, 53 Stat. 1290, which related to creation of advisory committees, was transferred to section 502 of this title.
 

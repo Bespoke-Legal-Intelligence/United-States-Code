@@ -10,14 +10,6 @@ Based on Title 35, U.S.C., 1946 ed., §70, part (R.S. 4921, amended (1) Mar. 3, 
 
 This section is the same as the provision which opens R.S. 4921 with minor changes in language.
 
-#### Federal Rules of Civil Procedure
-
-Injunctions, see rule 65, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-#### Cross References
-
-District courts of the United States as having original and exclusive jurisdiction of civil actions arisingunder any Act of Congress relating to patents, see section 1338 of Title 28, Judiciary and Judicial Procedure.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 154, 157, 287 of this title.

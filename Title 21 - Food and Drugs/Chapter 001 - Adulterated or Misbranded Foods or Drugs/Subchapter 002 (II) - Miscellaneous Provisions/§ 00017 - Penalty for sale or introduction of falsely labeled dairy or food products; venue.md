@@ -4,7 +4,3 @@ If any person or persons violate the provisions of section 16 of this title, eit
 
 (July 1, 1902, ch. 1357, §2, 32 Stat. 632.)
 
-#### Federal Rules of Criminal Procedure
-
-Special venue provisions of section as not affected by rule 18, see Notes of Advisory Committee on Rules setout under rule 18, Title 18, Appendix, Crimes and Criminal Procedure.
-

@@ -15,10 +15,6 @@
 
 1986—Pub. L. 99–661, div. A, title XIII, §1354(b), Nov. 14, 1986, 100 Stat. 3996, added item 7524.
 
-#### Cross References
-
-Miscellaneous procurement provisions, see section 2381 et seq. of this title.
-
 
 ---
 

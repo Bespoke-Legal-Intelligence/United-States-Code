@@ -26,6 +26,7 @@ Part IX—Miscellaneous
 - [&sect; 01363b - Repealed. Pub. L. 105&#8211;277, div. A, &sect;101(b) \[title I, &sect;109(b)\], Oct. 21, 1998, 112 Stat. 2681&#8211;50, 2681&#8211;67](%C2%A7%2001363b%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93277%2C%20div.%20A%2C%20%C2%A7101%28b%29%20%5Btitle%20I%2C%20%C2%A7109%28b%29%5D%2C%20Oct.%2021%2C%201998%2C%20112%20Stat.%202681%E2%80%9350%2C%202681%E2%80%9367.md)
 - [&sect; 01364 - Triennial comprehensive report on immigration](%C2%A7%2001364%20-%20Triennial%20comprehensive%20report%20on%20immigration.md)
 - [&sect; 01365 - Reimbursement of States for costs of incarcerating illegal aliens and certain Cuban nationals](%C2%A7%2001365%20-%20Reimbursement%20of%20States%20for%20costs%20of%20incarcerating%20illegal%20aliens%20and%20certain%20Cuban%20nationals.md)
+- [&sect; 01365a - Integrated entry and exit data system](%C2%A7%2001365a%20-%20Integrated%20entry%20and%20exit%20data%20system.md)
 - [&sect; 01366 - Annual report on criminal aliens](%C2%A7%2001366%20-%20Annual%20report%20on%20criminal%20aliens.md)
 - [&sect; 01367 - Penalties for disclosure of information](%C2%A7%2001367%20-%20Penalties%20for%20disclosure%20of%20information.md)
 - [&sect; 01368 - Increase in INS detention facilities; report on detention space](%C2%A7%2001368%20-%20Increase%20in%20INS%20detention%20facilities%3B%20report%20on%20detention%20space.md)

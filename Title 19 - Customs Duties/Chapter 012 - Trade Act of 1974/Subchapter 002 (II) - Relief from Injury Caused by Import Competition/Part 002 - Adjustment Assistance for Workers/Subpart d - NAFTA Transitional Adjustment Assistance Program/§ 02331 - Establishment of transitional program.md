@@ -48,11 +48,11 @@
 
 #### (1) In general
 
-&emsp;The Secretary, within 30 days after receiving a petition under subsection (b) of this section,shall determine whether the petition meets the criteria described in subsection (a)(1) of this section. Upon a determination that the petition meets such criteria, the Secretary shall issue to workers covered by the petition a certification of eligibility to apply for assistance described in subsection (d) of this section.
+&emsp;The Secretary, within 30 days after receiving a petition under subsection (b) of this section, shall determine whether the petition meets the criteria described in subsection (a)(1) of this section. Upon a determination that the petition meets such criteria, the Secretary shall issue to workers covered by the petition a certification of eligibility to apply for assistance described in subsection (d) of this section.
 
 #### (2) Denial of certification
 
-&emsp;Upon denial of certification with respect to a petition under paragraph (1), the Secretary shall review the petition in accordance with the requirements of subpart A of this part to determine if the workers may be certified under such subpart.
+&emsp;Upon denial of certification with respect to a petition under paragraph (1), the Secretaryshall review the petition in accordance with the requirements of subpart A of this part to determine if the workers may be certified under such subpart.
 
 #### (d) Comprehensive assistance
 
@@ -83,10 +83,6 @@ Workers covered by certification issued by the Secretary under subsection (c) of
 The provisions of subpart C of this part shall apply to the administration of the program under this subpart in the same manner and to the same extent as such provisions apply to the administration of the program under subparts A and B of this part, except that the agreement between the Secretary and the States described in section 2311 of this title shall specify the procedures that will be used to carry out the certification process under subsection (c) of this section and the procedures for providing relevant data by the Secretary to assist the States in making preliminary findings under subsection (b) of this section.
 
 (Pub. L. 93–618, title II, §250, as added Pub. L. 103–182, title V, §502, Dec. 8, 1993, 107 Stat. 2149; amended Pub. L. 105–277, div. J, title I, §1012(b), Oct. 21, 1998, 112 Stat. 2681–901; Pub. L. 106–113, div. B, §1000(a)(5) \[title VII, §702(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–319.)
-
-#### Termination of Section
-
-<i>For termination of section by section 285 of Pub. L. 93–618, see Termination Date note set out preceding section 2271 of this title.</i>
 
 #### Prior Provisions
 
@@ -131,6 +127,10 @@ Reachback.—Notwithstanding paragraph (1), any worker—
 &emsp;&emsp;“(B) who would otherwise be eligible to receive assistance under subchapter D of chapter 2 of title II of the Trade Act of 1974,
 
 > &emsp;shall be eligible to receive such assistance in the same manner as if such separation occurred on or after such date of entry into force.”
+
+#### Termination Date
+
+No assistance, vouchers, allowances, or other payments may be provided under this subpart after Sept. 30, 2001, except in the case of a worker who, on or before Sept. 30, 2001, is certified as eligible to apply for assistance under this subpart and is otherwise eligible to receive assistance in accordance with this section, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
 
 #### Section Referred to in Other Sections
 

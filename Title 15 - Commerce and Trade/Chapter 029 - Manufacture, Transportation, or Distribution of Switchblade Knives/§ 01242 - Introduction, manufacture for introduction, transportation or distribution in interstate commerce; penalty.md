@@ -4,10 +4,6 @@ Whoever knowingly introduces, or manufactures for introduction, into interstate 
 
 (Pub. L. 85–623, §2, Aug. 12, 1958, 72 Stat. 562.)
 
-#### Cross References
-
-Exceptions from application of section, see section 1244 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1244 of this title.

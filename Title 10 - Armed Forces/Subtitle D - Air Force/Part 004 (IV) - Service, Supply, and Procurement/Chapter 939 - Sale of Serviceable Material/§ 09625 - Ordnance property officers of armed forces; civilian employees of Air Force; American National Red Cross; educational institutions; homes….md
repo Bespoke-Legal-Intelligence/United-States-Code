@@ -44,7 +44,3 @@ May 11, 1908, ch. 163 (4th par. under “National Trophy and Medals for Rifle Co
 
 In subsection (a), the words “Secretary of the Air Force” are substituted for the words “Chief of Ordnance”, since the functions which, for the Army, are assigned to subordinate officers of the Army, are, for the Air Force, assigned to the Secretary of the Air Force. The words “other armed forces” are substituted for the words “the Navy and Marine Corps”, in 34:540 and 50:70, since those sales may be made to officers of the Coast Guard under section 114(c) of Title 14.
 
-#### Cross References
-
-American National Red Cross, equipment for instruction and practice, see section 2542 of this title.
-

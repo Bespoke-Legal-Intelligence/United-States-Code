@@ -78,20 +78,6 @@ Subsec. (d). Pub. L. 101–550, §412(3), substituted “A copy” for “The in
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
-#### Cross References
-
-Effect of prescribed indenture provisions, see section 77rrr of this title.
-
-Indenture provisions for notice of defaults pursuant to subsec. (c) of this section, see section 77<i>ooo</i> of this title.
-
-Refusal order when indenture does not conform to the requirements of this section, see section 77eee of this title.
-
-Transmission of—
-
-&emsp;&emsp;Notice to indenture security holders relating to disqualification of trustee, see section 77jjj of this title.
-
-&emsp;&emsp;Summaries of certain information to indenture security holders pursuant to subsec. (c) of this section, see section 77nnn of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 77jjj, 77nnn, 77<i>ooo</i>, 77rrr of this title.

@@ -70,13 +70,13 @@
 
 &emsp;(F) The Secretary shall designate an individual from among the members of an ethics board to serve as the chair of the board.
 
-&emsp;(G) In carrying out subparagraph (B)(i) with respect to a project of research, an ethics board shall conduct inquiries and hold public hearings.
+&emsp;(G) In carrying out subparagraph (B)(i) with respect to a project of research, an ethicsboard shall conduct inquiries and hold public hearings.
 
 &emsp;(H) In carrying out subparagraph (B)(i) with respect to a project of research, an ethics board shall have access to all relevant information possessed by the Department of Health and Human Services, or available to the Secretary from other agencies.
 
 &emsp;(I) Members of an ethics board shall receive compensation for each day engaged in carrying out the duties of the board, including time engaged in traveling for purposes of such duties. Such compensation may not be provided in an amount in excess of the maximum rate of basic pay payable for GS–18 of the General Schedule.
 
-&emsp;(J) The Secretary, acting through the Director of the National Institutes of Health, shall provide to each ethics board reasonable staffand assistance to carry out the duties of the board.
+&emsp;(J) The Secretary, acting through the Director of the National Institutes of Health, shall provide to each ethics board reasonable staff and assistance to carry out the duties of the board.
 
 &emsp;(K) An ethics board shall terminate 30 days after the date on which the report required in subparagraph (B)(ii) is submitted to the Secretary and the congressional committees specified in such subparagraph.
 
@@ -88,7 +88,7 @@
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

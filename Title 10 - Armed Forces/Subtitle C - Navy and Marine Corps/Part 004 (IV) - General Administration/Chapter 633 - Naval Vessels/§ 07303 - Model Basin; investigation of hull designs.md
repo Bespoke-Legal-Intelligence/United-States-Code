@@ -1,6 +1,6 @@
 ### §7303. Model Basin; investigation of hull designs
 
-(a) An office or agency in the Department of the Navy designated by the Secretary of the Navy shall conduct at the David W. Taylor Model Basin, Carderock, Maryland, investigations to determine the most suitable shapes and forms for United States vessels and aircraft and investigations of other problems of their design.
+(a) An office or agency in the Department of the Navy designated by the Secretary of the Navy shall conduct at the David W. TaylorModel Basin, Carderock, Maryland, investigations to determine the most suitable shapes and forms for United States vessels and aircraft and investigations of other problems of their design.
 
 (b) The Secretary of the Navy may authorize experiments to be made at the Model Basin for private persons. The costs of experiments made for private persons shall be paid by those persons under regulations prescribed by the Secretary. The results of private experiments are confidential and may not be divulged without the consent of the persons for whom they are made. However, the data obtained from such experiments may be used by the Secretary for governmental purposes, subject to the patent laws of the United States.
 
@@ -25,8 +25,4 @@ In subsection (a) the authority to purchase a site and construct the model basin
 #### Amendments
 
 1966—Subsec. (a). Pub. L. 89–718 substituted “An officer or agency of the Department of the Navy designated by the Secretary of the Navy” for “The Bureau of Ships”.
-
-#### Cross References
-
-Patent laws generally, see Title 35, Patents.
 

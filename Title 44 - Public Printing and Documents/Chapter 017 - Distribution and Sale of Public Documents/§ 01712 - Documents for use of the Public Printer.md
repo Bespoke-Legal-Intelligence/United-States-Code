@@ -1,6 +1,6 @@
 ### §1712. Documents for use of the Public Printer
 
-The Public Printer may retain out of all documents, bills, and resolutions printed the number of copies absolutely needful for the official useof the Government Printing Office, not exceeding five of each.
+The Public Printer may retain out of all documents, bills, and resolutions printed the number of copies absolutely needful for the official use of the Government Printing Office, not exceeding five of each.
 
 (Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1281.)
 

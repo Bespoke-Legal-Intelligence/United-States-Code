@@ -24,7 +24,7 @@ This part is referred to in section 7581 of this title.
 - [&sect; 07548 - Study of particulate emissions from motor vehicles](%C2%A7%2007548%20-%20Study%20of%20particulate%20emissions%20from%20motor%20vehicles.md)
 - [&sect; 07549 - High altitude performance adjustments](%C2%A7%2007549%20-%20High%20altitude%20performance%20adjustments.md)
 - [&sect; 07550 - Definitions](%C2%A7%2007550%20-%20Definitions.md)
-- [&sect; 07551 - Study and report on fuel consumption](%C2%A7%2007551%20-%20Study%20and%20report%20on%20fuel%20consumption.md)
+- [&sect; 07551 - Omitted](%C2%A7%2007551%20-%20Omitted.md)
 - [&sect; 07552 - Motor vehicle compliance program fees](%C2%A7%2007552%20-%20Motor%20vehicle%20compliance%20program%20fees.md)
 - [&sect; 07553 - Prohibition on production of engines requiring leaded gasoline](%C2%A7%2007553%20-%20Prohibition%20on%20production%20of%20engines%20requiring%20leaded%20gasoline.md)
 - [&sect; 07554 - Urban bus standards](%C2%A7%2007554%20-%20Urban%20bus%20standards.md)

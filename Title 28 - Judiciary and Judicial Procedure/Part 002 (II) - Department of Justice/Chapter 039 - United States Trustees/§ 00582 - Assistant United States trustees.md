@@ -12,7 +12,7 @@ Section 408(c) of Pub. L. 95–598, as amended, which provided for the repeal of
 
 #### Amendments
 
-1986—Subsec. (a). Pub. L. 99–554, §111(d)(1), substituted “region” for “district”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–554, §111(d)(1), substituted “region” for “district”.
 
 Subsec. (b). Pub. L. 99–554, §111(d)(2), struck out “for cause” after “removal”.
 

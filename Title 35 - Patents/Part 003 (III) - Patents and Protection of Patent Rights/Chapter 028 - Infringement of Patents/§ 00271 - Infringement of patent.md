@@ -68,7 +68,7 @@ Subsec. (e)(1). Pub. L. 103–465, §533(a)(3)(A), substituted “offer to sell,
 
 Subsec. (e)(3). Pub. L. 103–465, §533(a)(3)(B), substituted “offering to sell, or selling within the United States or importing into the United States” for “or selling”.
 
-Subsec. (e)(4)(B), (C). Pub. L. 103–465, §533(a)(3)(C), (D), substituted “offer to sell, or sale within the UnitedStates or importation into the United States” for “or sale”.
+Subsec. (e)(4)(B), (C). Pub. L. 103–465, §533(a)(3)(C), (D), substituted “offer to sell, or sale within the United States or importation into the United States” for “or sale”.
 
 Subsec. (g). Pub. L. 103–465, §533(a)(4), substituted “offers to sell, sells,” for “sells”, “importation, offer to sell, sale,” for “importation, sale,”, and “other use, offer to sell, or” for “other use or”.
 
@@ -92,7 +92,7 @@ Subsec. (f). Pub. L. 98–622 added subsec. (f).
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–465 effective on date that is one year after date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\], with provisions relating to earliest filed patent application, see section 534(a), (b)(3) of Pub. L. 103–465, set out as a note under section 154 of this title.
+Amendment by Pub. L. 103–465 effective on date that is one year after date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\], with provisions relating to earliest filed patentapplication, see section 534(a), (b)(3) of Pub. L. 103–465, set out as a note under section 154 of this title.
 
 #### Effective Date of 1992 Amendment
 
@@ -122,25 +122,7 @@ Amendment by Pub. L. 98–622 applicable only to the supplying, or causing to be
 
 #### Reports to Congress; Effect on Domestic Industries of Process Patent Amendments Act of 1988
 
-Section 9007 of Pub. L. 100–418 provided that:
-
-“(a)
-
-Contents.—The Secretary of Commerce shall, not later than the end of each 1-year period described in subsection (b), report to the Congress on the effect of the amendments made by this subtitle \[subtitle A (§§9001–9007) of title IX of Pub. L. 100–418, enacting section 295 of this title and amending sections 154, 271, and 287 of this title\] on those domestic industries that submit complaints to the Department of Commerce, during that 1-year period, alleging that their legitimate sources of supply have been adversely affected by the amendments made by this subtitle.
-
-“(b)
-
-When Submitted.—A report described in subsection (a) shall be submitted with respect to each of the five 1-year periods which occur successively beginning on the effective date of the amendments made by this subtitle and ending five years after that effective date.”
-
-#### Cross References
-
-Action for infringement of patent, see section 281 of this title.
-
-Action for infringement of patent containing invalid claim, see section 288 of this title.
-
-Additional remedy for infringement of design patent, see section 289 of this title.
-
-Damages for infringement of patent, see section 284 of this title.
+Pub. L. 100–418, title IX, §9007, Aug. 23, 1988, 102 Stat. 1567, provided that the Secretary of Commerce was to make annual reports to Congress covering each of the successive five 1-year periods beginning 6 months after Aug. 23, 1988, on the effect of the amendments made by subtitle A (§§9001–9007) of title IX of Pub. L. 100–418, enacting section 295 of this title and amending sections 154, 271, and 287 of this title, on those domestic industries that submit complaints to the Department of Commerce alleging that their legitimate sources of supply have been adversely affected by the amendments.
 
 #### Section Referred to in Other Sections
 

@@ -32,7 +32,3 @@ Amendment by section 4(b) of Pub. L. 98–426 effective Sept. 28, 1984, and appl
 
 Amendment by Pub. L. 92–576 effective 30 days after Oct. 27, 1972, see section 22 of Pub. L. 92–576, set out as a note under section 902 of this title.
 
-#### Cross References
-
-Compensation for injuries where third persons are liable, see section 933 of this title.
-

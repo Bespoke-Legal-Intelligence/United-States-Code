@@ -12,7 +12,7 @@ The Congress finds and declares the following:
 
 &emsp;(5) Given the importance of the Landsat program to the United States, urgent actions, including expedited procurement procedures, are required to ensure data continuity.
 
-&emsp;(6) Full commercialization of the Landsat program cannot be achieved within the foreseeable future, and thus should not serve as the near-term goal of national policy on land remote sensing; however, commercialization of land remote sensing should remain a long-term goal of United States policy.
+&emsp;(6) Full commercialization of the Landsat program cannot be achieved within the foreseeable future, and thus should not serve asthe near-term goal of national policy on land remote sensing; however, commercialization of land remote sensing should remain a long-term goal of United States policy.
 
 &emsp;(7) Despite the success and importance of the Landsat system, funding and organizational uncertainties over the past several years have placed its future in doubt and have jeopardized United States leadership in land remote sensing.
 

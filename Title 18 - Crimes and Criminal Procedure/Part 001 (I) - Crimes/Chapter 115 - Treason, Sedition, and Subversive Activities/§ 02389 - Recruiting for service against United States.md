@@ -20,16 +20,6 @@ Minor changes were made in phraseology.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000” in last par.
 
-#### Canal Zone
-
-Applicability of section to Canal Zone, see section 14 of this title.
-
-#### Cross References
-
-Federal retirement benefits, forfeiture upon conviction of offenses described hereunder, see section 8312 of Title 5, Government Organization and Employees.
-
-Forfeiture of veterans’ benefits upon conviction under this section, see section 6105 of Title 38, Veterans’ Benefits.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 14 of this title; title 5 section 8312; title 38 section 6105.

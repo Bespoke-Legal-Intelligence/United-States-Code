@@ -60,7 +60,7 @@ Sept. 12, 1950, ch. 946, 64 Stat. 832, §117(f); added Apr. 3, 1980, Pub. L. 96�
 
 In subsection (a)(1), the words “Notwithstanding any provision of law” are omitted as unnecessary. The words “may audit” are added for clarity and for consistency in the revised section and chapter. The words “as may be necessary to enable him” and “in fact, actually” are omitted as surplus. The words “Records . . . shall be made available” are substituted for “shall have access to such books, documents, papers, records” for consistency in the revised title and with other titles of the United States Code.
 
-In subsection (a)(2), the words “With respect to any expenditure accounted for solely on the approval, authorization, or certificate of the President of the United States or an official of an executive agency and notwithstanding any provision of law” are omitted because of the restatement. The words “in question” are omitted as surplus.
+In subsection (a)(2), the words “With respect to any expenditure accounted for solely on the approval, authorization, or certificate of the President of the United States or an official of an executive agency andnotwithstanding any provision of law” are omitted because of the restatement. The words “in question” are omitted as surplus.
 
 In subsection (b), the words “Before December 1 of each year” are substituted for “Not later than sixty days after the beginning of each fiscal year” for clarity. The words “starting on or after October 1, 1980” are omitted as executed. The words “audit by the Comptroller General under” and “the Chairmen of” are omitted as surplus.
 
@@ -73,6 +73,10 @@ In subsection (e), the words “from the provisions of paragraph (1)” are omit
 #### Change of Name
 
 Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the reporting requirement under subsec. (b) of this section is listed on page 42), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set out as notes under section 1113 of this title.
 
 #### Section Referred to in Other Sections
 

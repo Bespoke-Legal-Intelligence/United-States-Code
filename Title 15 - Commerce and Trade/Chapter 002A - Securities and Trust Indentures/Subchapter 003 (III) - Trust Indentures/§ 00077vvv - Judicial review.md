@@ -22,27 +22,3 @@ Such Act, referred to in subsec. (a), means the Securities Act of 1933, approved
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
-#### Cross References
-
-Jurisdiction of offenses and suits under—
-
-&emsp;&emsp;Investment Advisers Act of 1940, see section 80b–14 of this title.
-
-&emsp;&emsp;Investment Company Act of 1940, see section 80a–43 of this title.
-
-&emsp;&emsp;Public Utility Holding Company Act of 1935, see section 79y of this title.
-
-&emsp;&emsp;Securities Exchange Act of 1934, see section 78aa of this title.
-
-Review of orders under—
-
-&emsp;&emsp;Investment Advisers Act of 1940, see section 80b–13 of this title.
-
-&emsp;&emsp;Investment Company Act of 1940, see section 80a–42 of this title.
-
-&emsp;&emsp;Public Utility Holding Company Act of 1935, see section 79x of this title.
-
-&emsp;&emsp;Securities Exchange Act of 1934, see section 78y of this title.
-
-Rules and regulations, authority of Commission to make, issue, amend, and rescind, see section 77sss of this title.
-

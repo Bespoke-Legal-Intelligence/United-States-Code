@@ -68,7 +68,7 @@ In subsection (c), before clause (1), the words “established pursuant to this 
 
 In subsection (d), the word “Records” is substituted for “books, documents, papers, and records”, and the words “shall be made available . . . for inspection and audit” are substituted for “shall have access for the purpose of audit and examination to”, to eliminate unnecessary words and for consistency in the revised title and with other titles of the United States Code. The word “related” is substituted for “that are pertinent”, and the words “an amount” are substituted for the word “money”, for consistency. The words “of the United States”, and “or any of their duly authorized representatives” are omitted as unnecessary.
 
-In subsection (e), the word “For” is substituted for “in the case of” to eliminate unnecessary words. Thewords “proportional shares” are substituted for “federal share ratios” for clarity.
+In subsection (e), the word “For” is substituted for “in the case of” to eliminate unnecessary words. The words “proportional shares” are substituted for “federal share ratios” for clarity.
 
 #### Section Referred to in Other Sections
 

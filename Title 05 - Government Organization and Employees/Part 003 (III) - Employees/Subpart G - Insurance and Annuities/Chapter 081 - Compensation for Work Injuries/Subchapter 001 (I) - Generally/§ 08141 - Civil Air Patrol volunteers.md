@@ -68,10 +68,6 @@ Section 1258(b) of Pub. L. 98–94 provided that:
 
 “(3) The amendment made by subsection (a)(2) \[amending this section\] shall apply only to the computation of compensation payable for periods commencing on or after the date of the enactment of this Act \[Sept. 24, 1983\].”
 
-#### Cross References
-
-Veteran status or military status not conferred by this section, see section 8150 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 8150 of this title.

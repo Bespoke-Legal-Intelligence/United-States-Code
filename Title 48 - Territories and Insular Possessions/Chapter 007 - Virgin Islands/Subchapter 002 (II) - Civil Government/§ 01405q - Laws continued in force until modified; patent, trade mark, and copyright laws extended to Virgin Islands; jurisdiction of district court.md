@@ -8,9 +8,3 @@ The laws of the United States applicable to the Virgin Islands on June 22, 1936,
 
 The laws of the United States relating to patents, trade marks, and copyrights, referred to in text, are classified generally to Title 35, Patents, chapter 22 (§1051 et seq.) of Title 15, Commerce and Trade, and Title 17, Copyrights.
 
-#### Cross References
-
-Jurisdiction of District Court of the Virgin Islands, see section 1612 of this title.
-
-Provisions of this subchapter, not inconsistent with section 1541 et seq. of this title as continued in force and effect, see section 1574 of this title.
-

@@ -32,7 +32,7 @@ To carry out the purposes of this section there is hereby established the Women'
 
 &emsp;(7) McClintock House, 16 East Williams Street, Waterloo;
 
-&emsp;(8) Hunt House, 401 East Williams Street, Waterloo;
+&emsp;(8) Hunt House, 401 East Main Street, Waterloo;
 
 &emsp;(9) not to exceed 1 acre, plus improvements, as determined by the Secretary, in Seneca Falls for development of a maintenance facility;
 
@@ -46,7 +46,7 @@ To carry out the purposes of this section there is hereby established the Women'
 
 #### (d) Acquisition of lands and interests
 
-The Secretary is authorized to acquire by donation, purchase with donated or appropriated funds, transfer from any other Federal agency, or exchange lands and interests therein within sites designated as part of the park, except that the Secretary may not acquire the fee simple title to the land comprising the sites designated in paragraphs (7) and (9) of subsection (c) of this section. Lands and interests therein owned by a State or political subdivision thereof may be acquired only by donation. Within two years of the acquisition of the property listed in subsection (c)(8) of this section the Secretary shall have removed all structures from the property that are not relevant to the historic integrity of the McClintock House.
+The Secretary is authorized to acquire by donation, purchase with donated or appropriated funds, transfer from any other Federal agency, or exchange lands and interests therein within sites designated as part of the park. Lands and interests therein owned by a State or political subdivision thereof may be acquired only by donation.
 
 #### (e) Cooperative agreements
 
@@ -90,13 +90,17 @@ The Secretary shall administer the park in accordance with the provisions of thi
 
 (2) In addition to those sums appropriated prior to November 12, 1996, for land acquisition and development, there is hereby authorized to be appropriated an additional $2,000,000.
 
-(Pub. L. 96–607, title XVI, §1601, Dec. 28, 1980, 94 Stat. 3546; Pub. L. 98–402, Aug. 28, 1984, 98 Stat. 1478; Pub. L. 100–475, §1, Oct. 6, 1988, 102 Stat. 2303; Pub. L. 104–333, div. I, title V, §505, Nov. 12, 1996, 110 Stat. 4155.)
+(Pub. L. 96–607, title XVI, §1601, Dec. 28, 1980, 94 Stat. 3546; Pub. L. 98–402, Aug. 28, 1984, 98 Stat. 1478; Pub. L. 100–475, §1, Oct. 6, 1988, 102 Stat. 2303; Pub. L. 104–333, div. I, title V, §505, Nov. 12, 1996, 110 Stat. 4155; Pub. L. 106–258, §1, Aug. 8, 2000, 114 Stat. 655.)
 
 #### References in Text
 
 The effective date of this section, referred to in subsec. (h)(5), probably means the date of enactment of Pub. L. 96–607, which was approved Dec. 28, 1980.
 
 #### Amendments
+
+2000—Subsec. (c)(8). Pub. L. 106–258, §1(b), substituted “Main” for “Williams”.
+
+Subsec. (d). Pub. L. 106–258, §1(a), in first sentence struck out before period at end “, except that the Secretary may not acquire the fee simple title to the land comprising the sites designated in paragraphs (7) and (9) of subsection (c) of this section” and struck out last sentence which read as follows: “Within two years of the acquisition of the property listed in subsection (c)(8) of this section the Secretary shall have removed all structures from the property that are not relevant to the historic integrity of the McClintock House.”
 
 1996—Subsec. (c). Pub. L. 104–333, §505(a), inserted heading and amended text generally. Prior to amendment, text read as follows: “To carry out the purpose of this section there is hereby established the Women's Rights National Historical Park (hereinafter in this section referred to as the ‘park’). The park shall consist initially of the following designated sites in Seneca Falls and Waterloo, New York:
 

@@ -50,23 +50,9 @@ Budget Act.—Any new spending authority (within the meaning of section 401 of t
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the GeneralSchedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 #### National Commission on New Technological Uses of Copyrighted Works
 
-Pub. L. 93–573, title II, §§201–208, Dec. 31, 1974, 88 Stat. 1873–1875, as amended by Pub. L. 94–314, June 21, 1976, 90Stat. 692; Pub. L. 95–146, Oct. 28, 1977, 91 Stat. 1226, created in the Library of Congress a National Commission on New Technological Uses of Copyrighted Works to study and compile data on (1) the reproduction and use of copyrighted works of authorship (A) in conjunction with automatic systems capable of storing, processing, retrieving, and transferring information, and (B) by various forms of machine reproduction, not including reproduction by or at the request of instructors for use in face-to-face teaching activities, and (2) the creation of new works by the application or intervention of such automatic systems or machine reproduction, required the Commission to submit a final report to the President and Congress on or before July 31, 1978, and provided that the Commission terminated the sixtieth day after submitting the final report.
-
-#### Federal Rules of Civil Procedure
-
-Proof of official record, see rule 44, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-#### Federal Rules of Evidence
-
-Hearsay exception, public records and reports, see rule 803, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-Self-authentication, domestic public documents under seal, see rule 902.
-
-#### Cross References
-
-Authenticated copies of records and papers of department or agency admissible, see section 1733 of Title 28, Judiciary and Judicial Procedure.
+Pub. L. 93–573, title II, §§201–208, Dec. 31, 1974, 88 Stat. 1873–1875, as amended by Pub. L. 94–314, June 21, 1976, 90 Stat. 692; Pub. L. 95–146, Oct. 28, 1977, 91 Stat. 1226, created in the Library of Congress a National Commission on New Technological Uses of Copyrighted Works to study and compile data on (1) the reproduction and use of copyrighted works of authorship (A) in conjunction with automatic systems capable of storing, processing, retrieving, and transferring information, and (B) by various forms of machine reproduction, not including reproduction by or at the request of instructors for use in face-to-face teaching activities, and (2) the creation of new works by the application or intervention of such automatic systems or machine reproduction, required the Commission to submit a final report to the President and Congress on or before July 31, 1978, and provided that the Commission terminated the sixtieth day after submitting the final report.
 

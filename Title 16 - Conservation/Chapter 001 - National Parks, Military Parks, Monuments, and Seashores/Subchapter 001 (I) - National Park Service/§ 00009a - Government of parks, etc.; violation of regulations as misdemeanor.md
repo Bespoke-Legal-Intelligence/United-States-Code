@@ -1,6 +1,6 @@
 ### §9a. Government of parks, etc.; violation of regulations as misdemeanor
 
-The Secretary of the Army is authorized to prescribe and publish such regulations as he deems necessary for the proper government and protection of, and maintenance of good order in, national military parks, national parks, battlefield sites, national monuments, and miscellaneous memorials as are now or hereafter may be under the control of the Department of the Army; and any person who knowingly and willfully violates any such regulation shall be deemed guilty of a misdemeanor and punishable by a fine of not more than $100 or by imprisonment for not more than three months, or by both such fine and imprisonment.
+The Secretary of the Army is authorized to prescribe and publish such regulations as he deems necessary for the proper government and protection of, and maintenance of good order in, national military parks, national parks, battlefield sites, national monuments, and miscellaneous memorials as are now or hereafter may be under the control of the Department of the Army; and any person who knowingly and willfully violates any such regulation shall be deemed guilty of a misdemeanor and punishableby a fine of not more than $100 or by imprisonment for not more than three months, or by both such fine and imprisonment.
 
 (Mar. 2, 1933, ch. 180, §1, 47 Stat. 1420; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501.)
 

@@ -94,7 +94,7 @@ The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to
 
 Pub. L. 102–552, §516(f)(1)(A), made technical correction to directory language of Pub. L. 101–624, §1818(b). See 1990 Amendment note below.
 
-1991—Subsec. (a). Pub. L. 102–237, §501(b), which directed the substitution of “systems (for purposes of this subchapter, the term ‘solar energy’ means energy derived from sources (other than fossil fuels) and technologies included in the Federal Nonnuclear Energy Research and Development Act of 1974) (42 U.S.C. 5901 et seq.), (12) training in maintaining records of farming and ranching operations for limited resource borrowers receiving loans under section 1934 of this title, and (13)borrower training under section 2006a of this title.” for “ ‘systems.’ and all that follows”, could not be executed because “systems.” does not appear in subsec. (a) was repealed by Pub. L. 102–552, §516(f)(2). See Construction of 1991 Amendment note below.
+1991—Subsec. (a). Pub. L. 102–237, §501(b), which directed the substitution of “systems (for purposes of this subchapter, the term ‘solar energy’ means energy derived from sources (other than fossil fuels) and technologies included in the Federal Nonnuclear Energy Research and Development Act of 1974) (42 U.S.C. 5901 et seq.), (12) training in maintaining records of farming and ranching operations for limited resource borrowers receiving loans under section 1934 of this title, and (13) borrower training under section 2006a of this title.” for “ ‘systems.’ and all that follows”, could not be executed because “systems.” does not appear in subsec. (a) was repealed by Pub. L. 102–552, §516(f)(2). See Construction of 1991 Amendment note below.
 
 1990—Subsec. (a). Pub. L. 101–624, §1818(b), as amended by Pub. L. 102–552, §516(f)(1)(A), added cl. (13).
 
@@ -124,7 +124,7 @@ Amendment by Pub. L. 104–127 effective 90 days after Apr. 4, 1996, see section
 
 #### Effective Date of 1992 Amendment
 
-Section (f)(1)(B) of Pub. L. 102–552 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall take effect as if included in the Food, Agriculture, Conservation, and Trade Act of 1990 \[Pub. L. 101–624\] at the time such Act became law.”
+Section (f)(1)(B) of Pub. L. 102–552 provided that: “The amendment made by subparagraph (A) \[amending thissection\] shall take effect as if included in the Food, Agriculture, Conservation, and Trade Act of 1990 \[Pub. L. 101–624\] at the time such Act became law.”
 
 #### Effective Date of 1977 Amendment
 

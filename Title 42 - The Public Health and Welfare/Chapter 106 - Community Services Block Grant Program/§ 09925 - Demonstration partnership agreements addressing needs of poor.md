@@ -2,7 +2,7 @@
 
 #### (a) General authority
 
-(1) In order to stimulate the development of new approaches to provide for greater self-sufficiency of the poor, to test and evaluate such new approaches, to disseminate project results and evaluation findings so that such approaches can be replicated, and to strengthen the integration, coordination, and redirection of activities to promote maximum self-sufficiency among the poor, the Secretary may make grants fromfunds appropriated under subsection (e) of this section to eligible entities for the development and implementation of new and innovative approaches to deal with particularly critical needs or problems of the poor which are common to a number of communities. Grants may be made only with respect to applications which—
+(1) In order to stimulate the development of new approaches to provide for greater self-sufficiency of the poor, to test and evaluate such new approaches, to disseminate project results and evaluation findings so that such approaches can be replicated, and to strengthen the integration, coordination, and redirection of activities to promote maximum self-sufficiency among the poor, the Secretary may make grants from funds appropriated under subsection (e) of this section to eligible entities for the development and implementation of new and innovative approaches to deal with particularly critical needs or problems of the poor which are common to a number of communities. Grants may be made only with respect to applications which—
 
 &emsp;(A) involve activities which can be incorporated into or be closely coordinated with eligible entities’ ongoing programs;
 
@@ -60,21 +60,7 @@ As soon as practicable, but not later than 180 days after the end of the fiscal 
 
 (2) Not less than 10 percent, and not more than 25 percent, of the funds appropriated for each fiscal year to carry out this section shall be available to make grants under this section to replicate in additional geographic areas programs identified under paragraph (1).
 
-#### (f) Report to Congress
-
-The Secretary shall submit annually, to the Committee on Education and Labor of the House of Representatives and the Committee on Laborand Human Resources of the Senate, a report containing—
-
-&emsp;(1) a description of—
-
-&emsp;&emsp;(A) programs for which grants under this section in the then most recently completed fiscal year; and
-
-&emsp;&emsp;(B) the evaluations received under subsection (a)(1)(D) of this section in such fiscal year; and
-
-&emsp;(2) a description of the methods used by the Secretary to comply with subsection (d) of this section;
-
-&emsp;(3) recommendations of the Secretary regarding the suitability of carrying out such programs with funds made available under other Federal laws; and
-
-&emsp;(4) a description of each program identified under subsection (d)(1) <sup>1</sup> of this section or replicated under subsection (e)(2) of this section, and an identification of the geographical location where such program was carried out.
+#### (f) Omitted
 
 #### (g) Definitions
 
@@ -90,7 +76,7 @@ As used in this section—
 
 (2) Of the amounts appropriated for this section, not less than 30 percent and not more than 40 percent shall be used to carry out the programs authorized under subsection (c) of this section.
 
-(3) In addition to sums which are required to carry out the evaluation, reporting, and dissemination of results under subsections (a), (c), (d), and (f) of this section, the Secretary is authorized to reserve up to 2 percent of the amounts appropriated pursuant to subparagraphs (1) and (2) for administration of the program as well as for planning and technical assistance.
+(3) In addition to sums which are required to carry out the evaluation, reporting, and dissemination of results under subsections (a), (c), (d), and (f) <sup>1</sup> of this section, the Secretary is authorized to reserve up to 2 percent of theamounts appropriated pursuant to subparagraphs (1) and (2) for administration of the program as well as for planning and technical assistance.
 
 (Pub. L. 99–425, title IV, §408, Sept. 30, 1986, 100 Stat. 972; Pub. L. 101–204, title VII, §705, Dec. 7, 1989, 103 Stat. 1821; Pub. L. 101–501, title VI, §§601, 602, Nov. 3, 1990, 104 Stat. 1257, 1258; Pub. L. 103–252, title II, §207, May 18, 1994, 108 Stat. 656.)
 
@@ -98,7 +84,11 @@ As used in this section—
 
 The Community Services Block Grant Act, referred to in subsecs. (a)(1)(C) and (g)(1), is subtitle B (§671 et seq.) of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 511, as amended, which is classified generally to this chapter (§9901 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 9901 of this title and Tables.
 
+Subsection (f) of this section, referred to in subsec. (h)(3), was omitted from the Code.
+
 #### Codification
+
+Subsec. (f) of this section, which required the Secretary to submit to the Committee on Education and Labor of the House of Representatives and the Committee on Labor and Human Resources of the Senate an annual report describing programs for which grants were made under this section in the most recently completed fiscal year and the evaluations received under subsec. (a)(1)(D) of this section in such fiscal year, describing the methods used by the Secretary to comply with subsec. (d) of this section, making recommendations regarding the suitability of carrying out such programs with funds made available under other Federal laws, and describing each program identified under subsec. (d)(1) of this section or replicated under subsec. (e)(2) of this section and identifying the geographical location where such program was carried out, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, the 4th item on page 98 of House Document No. 103–7.
 
 Section was formerly classified to section 9910b of this title.
 
@@ -140,13 +130,9 @@ Subsec. (c). Pub. L. 101–204, §705(c), amended subsec. (c) generally. Prior t
 
 Subsecs. (d), (e). Pub. L. 101–204, §705(f)(2), added subsecs. (d) and (e). Former subsecs. (d) and (e) redesignated (f) and (g), respectively.
 
-Subsec. (f). Pub. L. 101–204, §705(d), (f)(1), redesignated subsec. (d) as (f) and inserted before semicolon in par. (1) “, except that such term includes an organization that serves migrant and seasonal farm workers and that receives a grant under the Community Services Block Grant Act (42 U.S.C. 9901 et seq.) in the fiscal year preceding the fiscal year for which such organization requests a grant under this section”.
+Subsec. (f). Pub. L. 101–204, §705(d), (f)(1), redesignated subsec. (d) as (f) and inserted before semicolon in par. (1) “, except that such term includes an organization that serves migrant and seasonal farm workers and that receives a grant under the Community ServicesBlock Grant Act (42 U.S.C. 9901 et seq.) in the fiscal year preceding the fiscal year for which such organization requests a grant under this section”.
 
 Subsec. (g). Pub. L. 101–204, §705(e), (f)(1), redesignated subsec. (e) as (g), substituted “are” for “is”, and inserted “and $7,000,000 for fiscal year 1990,” after “1989,”.
-
-#### Change of Name
-
-Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 
 #### Effective Date of 1994 Amendment
 
@@ -160,5 +146,5 @@ Amendment by Pub. L. 101–501 effective Oct. 1, 1990, see section 1001(a) of Pu
 
 Section effective Oct. 1, 1986, see section 1001 of Pub. L. 99–425, set out as an Effective Date of 1986 Amendment note under section 8621 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be subsection “(e)(1)”.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -8,14 +8,6 @@ Where lands are occupied by Indians who have bought and paid for the same, and w
 
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
-#### Cross References
-
-Cherokee Outlet, provisions inapplicable to, see section 371 of this title.
-
-Lands held in trust may be leased by allottee for period not to exceed five years under rules and regulations of Secretary of the Interior, see section 403 of this title.
-
-Unallotted lands authorized to be leased for oil and gas mining purposes, see section 398 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 371, 398 of this title.

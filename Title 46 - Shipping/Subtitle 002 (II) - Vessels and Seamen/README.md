@@ -84,12 +84,7 @@
 | [<b>107.</b>](Part%20G%20-%20Merchant%20Seamen%20Protection%20and%20Relief/Chapter%20107%20-%20Effects%20of%20Deceased%20Seamen/README.md) | <b>Effects of deceased seamen</b> | <b>10701</b> |
 | [<b>109.</b>](Part%20G%20-%20Merchant%20Seamen%20Protection%20and%20Relief/Chapter%20109%20-%20Proceedings%20on%20Unseaworthiness/README.md) | <b>Proceedings on unseaworthiness</b> | <b>10901</b> |
 | [<b>111.</b>](Part%20G%20-%20Merchant%20Seamen%20Protection%20and%20Relief/Chapter%20111%20-%20Protection%20and%20Relief/README.md) | <b>Protection and relief</b> | <b>11101</b> |
-| [<b>112.</b>](Part%20G%20-%20Merchant%20Seamen%20Protection%20and%20Relief/Chapter%20112%20-%20Merchant%20Mariner%20Benefits/README.md) | <b>Merchant Mariner Benefits </b><b><sup>2</sup></b> | <b>11201</b> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |  |
-| :--- | :---: | ---: |
+| [<b>112.</b>](Part%20G%20-%20Merchant%20Seamen%20Protection%20and%20Relief/Chapter%20112%20-%20Merchant%20Mariner%20Benefits/README.md) | <b>Merchant mariner benefits</b> | <b>11201</b> |
 | [<b>113.</b>](Part%20G%20-%20Merchant%20Seamen%20Protection%20and%20Relief/Chapter%20113%20-%20Official%20Logbooks/README.md) | <b>Official logbooks</b> | <b>11301</b> |
 | [<b>115.</b>](Part%20G%20-%20Merchant%20Seamen%20Protection%20and%20Relief/Chapter%20115%20-%20Offenses%20and%20Penalties/README.md) | <b>Offenses and penalties</b> | <b>11501</b> |
 
@@ -125,6 +120,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2000—Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(g)(6)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–294, substituted “mariner benefits” for “Mariner Benefits” in item 112.
 
 1998—Pub. L. 105–368, title IV, §402(b), Nov. 11, 1998, 112 Stat. 3337, added item 112.
 

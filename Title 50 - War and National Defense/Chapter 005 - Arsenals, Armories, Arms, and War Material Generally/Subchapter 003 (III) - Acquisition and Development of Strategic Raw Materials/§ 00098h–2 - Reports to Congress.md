@@ -10,7 +10,7 @@
 
 &emsp;(4) information with respect to the research and development activities conducted under sections 98a and 98g of this title;
 
-&emsp;(5) a statement and explanation of the financial status of the National Defense StockpileTransaction Fund and the anticipated appropriations to be made to the fund, and obligations to be made from the fund, during the current fiscal year; and
+&emsp;(5) a statement and explanation of the financial status of the National Defense Stockpile Transaction Fund and the anticipated appropriations to be made to the fund, and obligations to be made from the fund, during the current fiscal year; and
 
 &emsp;(6) such other pertinent information on the administration of this subchapter as will enable the Congress to evaluate the effectiveness of the program provided for under this subchapter and to determine the need for additional legislation.
 

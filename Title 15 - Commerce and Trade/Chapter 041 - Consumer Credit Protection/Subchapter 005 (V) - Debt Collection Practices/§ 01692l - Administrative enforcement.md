@@ -26,7 +26,7 @@ Compliance with any requirements imposed under this subchapter shall be enforced
 
 &emsp;(6) the Packers and Stockyards Act, 1921 \[7 U.S.C. 181 et seq.\] (except as provided in section 406 of that Act \[7 U.S.C. 226, 227\]), by the Secretary of Agriculture with respect to any activities subject to that Act.
 
-> The terms used in paragraph (1) that are not defined in this subchapter or otherwise defined in section 3(s) of the Federal Deposit Insurance Act\(12 U.S.C. 1813(s)) shall have the meaning given to them in section 1(b) of the International Banking Act of 1978 (12 U.S.C. 3101).
+> The terms used in paragraph (1) that are not defined in this subchapter or otherwise defined in section 3(s) of the Federal Deposit Insurance Act (12 U.S.C. 1813(s)) shall have the meaning given to them in section 1(b) of the International Banking Act of 1978 (12 U.S.C. 3101).
 
 #### (c) Agency powers
 

@@ -38,10 +38,6 @@ Amendment by Pub. L. 86–168 effective Dec. 31, 1959, see section 104(k) of Pub
 
 The office of Land Bank Commissioner was abolished by section 636f of Title 12, Banks and Banking.
 
-#### Cross References
-
-Secret Service, detection, arrest and delivery into custody of any person violating this section in so far as the Federal land banks, joint-stock land banks and national farm loan associations are concerned, see section 3056 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 3056 of this title.

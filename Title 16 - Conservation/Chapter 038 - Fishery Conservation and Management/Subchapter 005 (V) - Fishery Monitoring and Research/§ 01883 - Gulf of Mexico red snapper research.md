@@ -4,7 +4,7 @@
 
 (1) Within 30 days of October 11, 1996, the Secretary shall initiate an independent peer review to evaluate—
 
-&emsp;(A) the accuracy and adequacy of fishery statistics used by the Secretary for the red snapper fishery in the Gulf of Mexico to account for all commercial, recreational, and charter fishing harvests and fishing effort on the stock;
+&emsp;(A) the accuracy and adequacy of fishery statistics used by the Secretary for the redsnapper fishery in the Gulf of Mexico to account for all commercial, recreational, and charter fishing harvests and fishing effort on the stock;
 
 &emsp;(B) the appropriateness of the scientific methods, information, and models used by the Secretary to assess the status and trends of the Gulf of Mexico red snapper stock and as the basis for the fishery management plan for the Gulf of Mexico red snapper fishery;
 
@@ -22,11 +22,11 @@
 
 #### (b) Prohibition
 
-In addition to the restrictions under section 1853(d)(1)(A) of this title, the Gulf Council may not, prior to October 1, 2000, undertake or continue the preparation of any fishery management plan, plan amendment or regulation under this chapter for the Gulf of Mexico commercial red snapper fishery that creates an individual fishing quota program or that authorizes the consolidation of licenses, permits, or endorsements that result in different trip limits for vessels in the same class.
+In addition to the restrictions under section 1853(d)(1)(A) of this title, the Gulf Council may not, prior to October 1, 2002, undertake or continue the preparation of any fishery management plan, plan amendment or regulation under this chapter for the Gulf of Mexico commercial red snapper fishery that creates an individual fishing quota program or that authorizes the consolidation of licenses, permits, or endorsements that result in different trip limits for vessels in the same class.
 
 #### (c) Referendum
 
-(1) On or after October 1, 2000, the Gulf Council may prepare and submit a fishery management plan, plan amendment, or regulation for the Gulf of Mexico commercial red snapper fishery that creates an individual fishing quota program or that authorizes the consolidation of licenses, permits, or endorsements that result in different trip limits for vessels in the same class, only if the preparation of such plan, amendment, or regulation is approved in a referendum conducted under paragraph (2) and only if the submission to the Secretary of such plan, amendment, or regulation is approved in a subsequent referendum conducted under paragraph (2).
+(1) On or after October 1, 2002, the Gulf Council may prepare and submit a fishery management plan, plan amendment, or regulation for the Gulf of Mexico commercial red snapper fishery that creates an individual fishing quota program or that authorizes the consolidation of licenses, permits, or endorsements that result in different trip limits for vessels in the same class, only if the preparation of such plan, amendment, or regulation is approved in a referendum conducted under paragraph (2) and only if the submission to the Secretary of such plan, amendment, or regulation is approved in a subsequent referendum conducted under paragraph (2).
 
 (2) The Secretary, at the request of the Gulf Council, shall conduct referendums under this subsection. Only a person who held an annual vessel permit with a red snapper endorsement for such permit on September 1, 1996 (or any person to whom such permit with such endorsement was transferred after such date) and vessel captains who harvested red snapper in a commercial fishery using such endorsement in each red snapper fishing season occurring between January 1, 1993, and such date may vote in a referendum under this subsection. The referendum shall be decided by a majority of the votes cast. The Secretary shall develop a formula to weigh votes based on the proportional harvest under each such permit and endorsement and by each such captain in the fishery between January 1, 1993, and September 1, 1996. Prior to each referendum, the Secretary, in consultation with the Council, shall—
 
@@ -42,5 +42,9 @@ Any fishery management plan, plan amendment, or regulation submitted by the Gulf
 
 &emsp;(2) ensure that such quotas reflect allocations among such sectors and do not reflect any harvests in excess of such allocations.
 
-(Pub. L. 94–265, title IV, §407, as added Pub. L. 104–297, title II, §207(b), Oct. 11, 1996, 110 Stat. 3612.)
+(Pub. L. 94–265, title IV, §407, as added Pub. L. 104–297, title II, §207(b), Oct. 11, 1996, 110 Stat. 3612; amended Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(a)(3), (4)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–238.)
+
+#### Amendments
+
+2000—Subsecs. (b), (c)(1). Pub. L. 106–554 substituted “October 1, 2002,” for “October 1, 2000,”.
 

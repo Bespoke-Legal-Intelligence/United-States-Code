@@ -8,7 +8,7 @@ Prohibited Acts.—
 
 Offenses.—Whoever, involving conduct transcending national boundaries and in a circumstance described in subsection (b)—
 
-&emsp;&emsp;(A) kills, kidnaps, maims, commits an assault resulting in serious bodily injury, or assaults with a dangerous weapon any person within the United States; or
+&emsp;&emsp;(A) kills, kidnaps, maims, commits an assault resulting in serious bodily injury, orassaults with a dangerous weapon any person within the United States; or
 
 &emsp;&emsp;(B) creates a substantial risk of serious bodily injury to any other person by destroying or damaging any structure, conveyance, or other real or personal property within the United States or by attempting or conspiring to destroy or damage any structure, conveyance, or other real or personal property within the United States;
 
@@ -30,7 +30,7 @@ Circumstances.—The circumstances referred to in subsection (a) are—
 
 &emsp;&emsp;(B) the offense obstructs, delays, or affects interstate or foreign commerce, or would have so obstructed, delayed, or affected interstate or foreign commerce if the offense had been consummated;
 
-&emsp;&emsp;(C) the victim, or intended victim, is the United States Government, a member of theuniformed services, or any official, officer, employee, or agent of the legislative, executive, or judicial branches, or of any department or agency, of the United States;
+&emsp;&emsp;(C) the victim, or intended victim, is the United States Government, a member of the uniformed services, or any official, officer, employee, or agent of the legislative, executive, or judicial branches, or of any department or agency, of the United States;
 
 &emsp;&emsp;(D) the structure, conveyance, or other real or personal property is, in whole or in part, owned, possessed, or leased to the United States, or any department or agency of the United States;
 
@@ -110,7 +110,7 @@ Definitions.—As used in this section—
 
 &emsp;&emsp;(B) is a violation of—
 
-&emsp;&emsp;&emsp;(i) section 32 (relating to destruction of aircraft or aircraft facilities), 37 (relating to violence at international airports), 81 (relating to arson within special maritime and territorial jurisdiction), 175 (relating to biological weapons), 351 (relating to congressional, cabinet, and Supreme Court assassination, kidnapping, and assault), 831 (relating to nuclear materials), 842(m) or (n) (relating to plastic explosives), 844(e) (relating to certain bombings), 844(f) or (i) (relating to arson and bombing of certain property), 930(c), 956 (relating to conspiracy to injure property of a foreign government), 1114 (relating to protection of officers and employees of the United States), 1116 (relating to murder or manslaughter of foreign officials, official guests, or internationally protected persons), 1203 (relating to hostage taking), 1361 (relating to injury of Government property or contracts), 1362 (relating to destruction of communication lines, stations, or systems), 1363 (relating to injury to buildings or property within special maritime and territorial jurisdiction of the United States), 1366 (relating to destruction of an energy facility), 1751 (relating to Presidential and Presidential staff assassination, kidnapping, and assault), 1992, 2152 (relating to injury of fortifications, harbor defenses, or defensive sea areas), 2155 (relating to destruction of national defensematerials, premises, or utilities), 2156 (relating to production of defective national defense materials, premises, or utilities), 2280 (relating to violence against maritime navigation), 2281 (relating to violence against maritime fixed platforms), 2332 (relating to certain homicides and other violence against United States nationals occurring outside of the United States), 2332a (relating to use of weapons of mass destruction), 2332b (relating to acts of terrorism transcending national boundaries), 2332c,<sup>1</sup> 2339A (relating to providing material support to terrorists), 2339B (relating to providing material support to terrorist organizations), or 2340A (relating to torture);
+&emsp;&emsp;&emsp;(i) section 32 (relating to destruction of aircraft or aircraft facilities), 37 (relating to violence at international airports), 81 (relating to arson within special maritime and territorial jurisdiction), 175 (relating to biological weapons), 351 (relating to congressional, cabinet, and Supreme Court assassination, kidnapping, and assault), 831 (relating to nuclear materials), 842(m) or (n) (relating to plastic explosives), 844(e) (relating to certain bombings), 844(f) or (i) (relating to arson and bombing of certain property), 930(c), 956 (relating to conspiracy to injure property of a foreign government), 1114 (relating to protection of officers and employees of the United States), 1116 (relating to murder or manslaughter of foreign officials, official guests, or internationally protected persons), 1203 (relating to hostage taking), 1361 (relating to injury of Government property or contracts), 1362 (relating to destruction of communication lines, stations, or systems), 1363 (relating to injury to buildings or property within special maritime and territorial jurisdiction of the United States), 1366 (relating to destruction of an energy facility), 1751 (relating to Presidential and Presidential staff assassination, kidnapping, and assault), 1992, 2152 (relating to injury of fortifications, harbor defenses, or defensive sea areas), 2155 (relating to destruction of national defense materials, premises, or utilities), 2156 (relating to production of defective national defense materials, premises, or utilities), 2280 (relating to violence against maritime navigation), 2281 (relating to violence against maritime fixed platforms), 2332 (relating to certain homicides and other violence against United States nationals occurring outside of the United States), 2332a (relating to use of weapons of mass destruction), 2332b (relating to acts of terrorism transcending national boundaries), 2332c,<sup>1</sup> 2339A (relating to providing material support to terrorists), 2339B (relating to providing material support to terrorist organizations), or 2340A (relating to torture);
 
 &emsp;&emsp;&emsp;(ii) section 236 (relating to sabotage of nuclear facilities or fuel) of the Atomic Energy Act of 1954 (42 U.S.C. 2284); or
 
@@ -127,6 +127,10 @@ Section 2332c of this title, referred to in subsec. (g)(5)(B)(i), was repealed b
 1996—Subsec. (b)(1)(A). Pub. L. 104–294, §601(s)(1), struck out “any of the offenders uses” before “the mail or any facility” and inserted “is used” after “foreign commerce”.
 
 Subsec. (g)(5)(B)(i). Pub. L. 104–294, §601(s)(3), inserted “930(c),” before “956 (relating to conspiracy to injure property of a foreign government)”, “1992,” before “2152 (relating to injury of fortifications, harbor defenses, or defensive sea areas)”, and “2332c,” before “2339A (relating to providing material support to terrorists)”.
+
+#### Territorial Sea of United States
+
+For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
 
 #### Section Referred to in Other Sections
 

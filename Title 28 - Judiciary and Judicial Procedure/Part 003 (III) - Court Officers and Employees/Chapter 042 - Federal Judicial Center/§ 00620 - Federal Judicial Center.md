@@ -8,7 +8,7 @@
 
 &emsp;(2) to develop and present for consideration by the Judicial Conference of the United States recommendations for improvement of the administration and management of the courts of the United States;
 
-&emsp;(3) to stimulate, create, develop, and conduct programs of continuing education and training for personnel of the judicial branch of the Government and other persons whose participation in such programs would improve the operation of the judicial branch, including, but not limited to, judges, United States magistrates, clerks of court, probation officers, and persons serving as mediators and arbitrators;
+&emsp;(3) to stimulate, create, develop, and conduct programs of continuing education and training for personnel of the judicial branch of the Government and other persons whose participation in such programs would improve the operation of the judicial branch, including, but not limited to, judges, United States magistrate judges, clerks of court, probation officers, and persons serving as mediators and arbitrators;
 
 &emsp;(4) insofar as may be consistent with the performance of the other functions set forth in this section, to provide staff, research, and planning assistance to the Judicial Conference of the United States and its committees;
 
@@ -16,23 +16,23 @@
 
 &emsp;(6) insofar as may be consistent with the performance of the other functions set forth in this section, to cooperate with and assist agencies of the Federal Government and other appropriate organizations in providing information and advice to further improvement in the administration of justice in the courts of foreign countries and to acquire information about judicial administration in foreign countries that may contribute to performing the other functions set forth in this section.
 
-(Added Pub. L. 90–219, title I, §101, Dec. 20, 1967, 81 Stat. 664; amended Pub. L. 95–598, title II, §227, Nov. 6, 1978, 92 Stat. 2665; Pub. L. 98–620, title II, §214, Nov. 8, 1984, 98 Stat. 3346; Pub. L. 99–336, §6(b), June 19, 1986, 100 Stat. 639; Pub. L. 100–702, title III, §303, Nov. 19, 1988, 102 Stat. 4648; Pub. L. 102–572, title VI, §602(a), Oct. 29, 1992, 106 Stat. 4514.)
+(Added Pub. L. 90–219, title I, §101, Dec. 20, 1967, 81 Stat. 664; amended Pub. L. 95–598, title II, §227, Nov. 6, 1978, 92 Stat. 2665; Pub. L. 98–620, title II, §214, Nov. 8, 1984, 98 Stat. 3346; Pub. L. 99–336, §6(b), June 19, 1986, 100 Stat. 639; Pub. L. 100–702, title III, §303, Nov. 19, 1988, 102 Stat. 4648; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 102–572, title VI, §602(a), Oct. 29, 1992, 106 Stat. 4514.)
 
 #### Amendments
 
-1992—Subsec. (b)(6). Pub. L. 102–572 added par. (6).
+<b>1992</b>—Subsec. (b)(6). Pub. L. 102–572 added par. (6).
 
-1988—Subsec. (b)(3). Pub. L. 100–702 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “to stimulate, create, develop, and conduct programs of continuing education and training for personnel of the judicial branch of the Government, including, but not limited to, judges, clerks of court, probation officers, and United States magistrates;”.
+<b>1988</b>—Subsec. (b)(3). Pub. L. 100–702 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “to stimulate, create, develop, and conduct programs of continuing education and training for personnel of the judicial branch of the Government, including, but not limited to, judges, clerks of court, probation officers, and United States magistrates;”.
 
-1986—Subsec. (b)(3). Pub. L. 99–336 struck out “referees,” after “judges,” and substituted “magistrates” for “commissioners”.
+<b>1986</b>—Subsec. (b)(3). Pub. L. 99–336 struck out “referees,” after “judges,” and substituted “magistrates” for “commissioners”.
 
-1984—Subsec. (b)(5). Pub. L. 98–620 added par. (5).
+<b>1984</b>—Subsec. (b)(5). Pub. L. 98–620 added par. (5).
 
-1978—Subsec. (b)(3). Pub. L. 95–598 directed the amendment of par. (3) by striking out “referees,” and by substituting “magistrates” for “commissioners”, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+<b>1978</b>—Subsec. (b)(3). Pub. L. 95–598 directed the amendment of par. (3) by striking out “referees,” and by substituting “magistrates” for “commissioners”, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
 #### Change of Name
 
-Reference to United States magistrate or to magistrate deemed to refer to United States magistrate judge pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of this title.
+“United States magistrate judges” substituted for “United States magistrates” in subsec. (b)(3) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of this title.
 
 #### Effective Date of 1992 Amendment
 

@@ -4,6 +4,8 @@ subpart b—conservation reserve
 
 This subpart is referred to in sections 3812, 3830, 3836a, 3837, 3839bb, 3841, 3843 of this title; title 7 sections 6932, 6962.
 
+<i><sup>1</sup></i><i> So in original.</i>
+
 
 ---
 

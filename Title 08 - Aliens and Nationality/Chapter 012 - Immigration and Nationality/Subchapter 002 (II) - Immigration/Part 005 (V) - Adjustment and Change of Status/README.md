@@ -1,9 +1,5 @@
 Part V—Adjustment and Change of Status
 
-#### Cross References
-
-Registration provisions pertaining to persons trained in foreign espionage systems, deportation in manner provided by this part for violation of, see section 855 of Title 50, War and National Defense.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “subparagraph (B),”.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be followed by a closing parenthesis.</i>

@@ -20,7 +20,3 @@ R.S. 217.
 
 The words “under the lawful control of the executive part of the Department of the Air Force” are substituted for the words “appertaining to the Department”.
 
-#### Cross References
-
-Federal records, maintenance of, see section 2101 et seq. of Title 44, Public Printing and Documents.
-

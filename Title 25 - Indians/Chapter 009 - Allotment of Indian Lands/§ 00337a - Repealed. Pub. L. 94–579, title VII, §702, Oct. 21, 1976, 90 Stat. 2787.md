@@ -8,5 +8,5 @@ Section 702 of Pub. L. 94–579 provided that this section is repealed effective
 
 #### Savings Provision
 
-Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing onOct. 21, 1976, see section 701 of Pub. L. 94–579, title VII, Oct. 21, 1976, 90 Stat. 2786, set out as a note under section 1701 of Title 43, Public Lands.
+Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, title VII, Oct. 21, 1976, 90 Stat. 2786, set out as a note under section 1701 of Title 43, Public Lands.
 

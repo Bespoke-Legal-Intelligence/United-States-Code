@@ -10,5 +10,5 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Short Title
 
-Section 101(b) \[title VIII, §801\] of Pub. L. 99–500 and Pub. L. 99–591 provided that: “This title \[enacting thischapter\] may be cited as the ‘James Madison Memorial Fellowship Act’.”
+Section 101(b) \[title VIII, §801\] of Pub. L. 99–500 and Pub. L. 99–591 provided that: “This title \[enacting this chapter\] may be cited as the ‘James Madison Memorial Fellowship Act’.”
 

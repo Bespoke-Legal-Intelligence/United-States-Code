@@ -4,7 +4,7 @@ As used in this chapter, the term—
 
 &emsp;(1) “manufactured home construction” means all activities relating to the assembly and manufacture of a manufactured home including but not limited to those relating to durability, quality, and safety;
 
-&emsp;(2) “dealer” means any person engaged in the sale, leasing, or distribution of new manufactured homes primarily to persons who in good faith purchase or lease a manufactured home for purposes other than resale;
+&emsp;(2) “retailer” means any person engaged in the sale, leasing, or distribution of new manufactured homes primarily to persons who in good faith purchase or lease a manufactured home for purposes other than resale;
 
 &emsp;(3) “defect” includes any defect in the performance, construction, components, or material of a manufactured home that renders the home or any part thereof not fit for the ordinary use for which it was intended;
 
@@ -24,11 +24,27 @@ As used in this chapter, the term—
 
 &emsp;(11) “Secretary” means the Secretary of Housing and Urban Development;
 
-&emsp;(12) “State” includes each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands, the Canal Zone, and American Samoa; and
+&emsp;(12) “State” includes each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands, the Canal Zone, and American Samoa;
 
-&emsp;(13) “United States district courts” means the Federal district courts of the United States and the United States courts of the Commonwealth of Puerto Rico, Guam, the Virgin Islands, the Canal Zone, and American Samoa.
+&emsp;(13) “United States district courts” means the Federal district courts of the United States and the United States courts of the Commonwealth of Puerto Rico, Guam, the Virgin Islands, the Canal Zone, and American Samoa;
 
-(Pub. L. 93–383, title VI, §603, Aug. 22, 1974, 88 Stat. 700; Pub. L. 96–399, title III, §308(c)(4), (d), Oct. 8, 1980, 94 Stat. 1641; Pub. L. 97–35, title III, §339B(c), Aug. 13, 1981, 95 Stat. 417; Pub. L. 105–276, title V, §599A(a), Oct. 21, 1998, 112 Stat. 2660.)
+&emsp;(14) “administering organization” means the recognized, voluntary, private sector, consensus standards body with specific experience in developing model residential building codes and standards involving all disciplines regarding construction and safety that administers the consensus standards through a development process;
+
+&emsp;(15) “consensus committee” means the committee established under section 5403(a)(3) of this title;
+
+&emsp;(16) “consensus standards development process” means the process by which additions, revisions, and interpretations to the Federal manufactured home construction and safety standards and enforcement regulations shall be developed and recommended to the Secretary by the consensus committee;
+
+&emsp;(17) “primary inspection agency” means a State agency or private organization that has been approved by the Secretary to act as a design approval primary inspection agency or a production inspection primary inspection agency, or both;
+
+&emsp;(18) “design approval primary inspection agency” means a State agency or private organization that has been approved by the Secretary to evaluate and either approve or disapprove manufactured home designs and quality control procedures;
+
+&emsp;(19) “installation standards” means reasonable specifications for the installation of a manufactured home, at the place of occupancy, to ensure proper siting, the joining of all sections of the home, and the installation of stabilization, support, or anchoring systems;
+
+&emsp;(20) “monitoring” means the process of periodic review of the primary inspection agencies, by the Secretary or by a State agency under an approved State plan pursuant to section 5422 of this title, in accordance with regulations promulgated under this chapter, giving due consideration to the recommendations of the consensus committee under section 5403(b) of this title, which process shall be for the purpose of ensuring that the primary inspection agencies are discharging their duties under this chapter; and
+
+&emsp;(21) “production inspection primary inspection agency” means a State agency or private organization that has been approved by the Secretary to evaluate the ability of manufactured home manufacturing plants to comply with approved quality control procedures and with the Federal manufactured home construction and safety standards promulgated hereunder, including the inspection of homes in the plant.
+
+(Pub. L. 93–383, title VI, §603, Aug. 22, 1974, 88 Stat. 700; Pub. L. 96–399, title III, §308(c)(4), (d), Oct. 8, 1980, 94 Stat. 1641; Pub. L. 97–35, title III, §339B(c), Aug. 13, 1981, 95 Stat. 417; Pub. L. 105–276, title V, §599A(a), Oct. 21, 1998, 112 Stat. 2660; Pub. L. 106–569, title VI, §603(a), Dec. 27, 2000, 114 Stat. 2998.)
 
 #### References in Text
 
@@ -40,6 +56,10 @@ References to “mobile homes”, wherever appearing in text, changed to “manu
 
 #### Amendments
 
+2000—Par. (2). Pub. L. 106–569, §603(a)(1), substituted “retailer” for “dealer”.
+
+Pars. (14) to (21). Pub. L. 106–569, §603(a)(2)–(4), added pars. (14) to (21).
+
 1998—Par. (6). Pub. L. 105–276 inserted before semicolon at end “; and except that such term shall not include any self-propelled recreational vehicle”.
 
 1980—Pars. (1), (2), (3). Pub. L. 96–399, §308(c)(4), substituted “manufactured home” for “mobile home” wherever appearing.
@@ -47,6 +67,10 @@ References to “mobile homes”, wherever appearing in text, changed to “manu
 Par. (6). Pub. L. 96–399, §308(c)(4), (d), substituted “manufactured home” for “mobile home”, substituted “in the traveling mode, is eight body feet or more in width or forty body feet or more in length, or, when erected on site, is three hundred twenty or more square feet” for “is eight body feet or more in width and is thirty-two body feet or more in length”, and inserted exception relating to inclusion of any structure meeting all requirements of this paragraph except size and with respect to which a certification is voluntarily filed and standards complied with.
 
 Pars. (7), (8), (10). Pub. L. 96–399, §308(c)(4), substituted “manufactured home” for “mobile home” wherever appearing.
+
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–569 effective Dec. 27, 2000, except that amendment has no effect on any order or interpretative bulletin issued under this chapter and published as a proposed rule pursuant to 5 U.S.C. 553 on or before Dec. 27, 2000, see section 612 of Pub. L. 106–569, set out as a note under section 5401 of this title.
 
 #### Effective Date of 1998 Amendment
 

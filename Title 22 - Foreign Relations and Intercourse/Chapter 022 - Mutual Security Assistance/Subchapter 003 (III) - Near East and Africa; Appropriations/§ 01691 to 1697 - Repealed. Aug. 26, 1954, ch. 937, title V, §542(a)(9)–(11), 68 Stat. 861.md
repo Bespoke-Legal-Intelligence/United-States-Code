@@ -12,7 +12,7 @@ Section 1695, act Oct. 10, 1951, ch. 479, title II, §205, 65 Stat. 375, related
 
 Section 1696, act Oct. 10, 1951, ch. 479, title II, §206, as added June 20, 1952, ch. 449, §4(c), 66 Stat. 142; amended July 16, 1953, ch. 195, ch. V, §501, 67 Stat. 154, related to special economic assistance.
 
-Section 1697, act Oct. 10, 1951, ch. 479, title V, §549, as added July 16, 1953, ch. 195, ch. VII, §706(g), 67 Stat. 159, related to making of a survey of refugee situation in Near East, report and recommendations.
+Section 1697, act Oct. 10, 1951, ch. 479, title V, §549, as added July 16, 1953, ch. 195, ch. VII, §706(g), 67 Stat. 159,related to making of a survey of refugee situation in Near East, report and recommendations.
 
 See section 2151 et seq. of this title.
 

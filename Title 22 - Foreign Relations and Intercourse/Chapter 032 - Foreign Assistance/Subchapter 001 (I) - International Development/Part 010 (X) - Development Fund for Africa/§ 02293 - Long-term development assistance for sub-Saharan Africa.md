@@ -28,7 +28,7 @@ The President is authorized to furnish project and program assistance, on such t
 
 Except to the extent inconsistent with this section—
 
-&emsp;(1) any reference in any law to part I of this subchapter (including references to sections 2151a through 2151d of this title) shall be deemed to include a reference to this section; and
+&emsp;(1) any reference in any law to part I of this subchapter (including references to sections 2151a through 2151d of this title) shall bedeemed to include a reference to this section; and
 
 &emsp;(2) assistance under this section shall be provided consistent with the policies contained in section 2151–1 of this title.
 
@@ -66,9 +66,17 @@ The Agency for International Development shall ensure that development activitie
 
 &emsp;&emsp;Assisted policy reforms shall also include provisions to protect vulnerable groups (especially poor, isolated, and female farmers, the urban poor, and children including displaced children) and long-term environmental interests from possible negative consequences of the reforms.
 
-#### (3) Other assistance
+#### (3) Democratization and conflict resolution capabilities
 
-&emsp;Funds made available to carry out this section shall be used almost exclusively for assistance in accordance with paragraphs (1) and (2). Assistance consistent with the purpose of subsection (c) of this section may also be furnished under this section to carry out the provisions of sections 2151a through 2151d of this title.
+&emsp;Assistance under this section may also include program assistance—
+
+&emsp;&emsp;(A) to promote democratization, good governance, and strong civil societies in sub-Saharan Africa; and
+
+&emsp;&emsp;(B) to strengthen conflict resolution capabilities of governmental, intergovernmental, and nongovernmental entities in sub-Saharan Africa.
+
+#### (4) Other assistance
+
+&emsp;Funds made available to carry out this section shall be used almost exclusively for assistance in accordance with paragraphs (1), (2), and (3). Assistance consistent with the purpose of subsection (c) of this section may also be furnished under this section to carry out the provisions of sections 2151a through 2151d of this title.
 
 #### (i) Critical sectoral priorities
 
@@ -94,7 +102,7 @@ The critical sectoral priorities for long-term development, as described in subs
 
 #### (2) Health
 
-&emsp;Improving health conditions, with special emphasis on meeting the health needs of mothers and children (including displaced children) through the establishment of primary health care systems that give priority to preventive health and that will be ultimately self-sustaining.
+&emsp;Improving health conditions, with special emphasis on meeting the health needs of mothers and children (including displaced children) through the establishment of primary health care systems that give priority to preventive health and that will be ultimately self-sustaining. In addition, providing training and training facilities, in sub-Saharan Africa, for doctors and other health care providers, notwithstanding any provision of law that restricts assistance to foreign countries.
 
 #### (3) Voluntary family planning services
 
@@ -158,13 +166,13 @@ Funds made available to carry out this section may be used to assist the governm
 
 #### (2) Sectors
 
-&emsp;The sectors with respect to which assistance may be provided under this subsection are the following: transportation; manpower development; agriculture and natural resources; energy (including the improved utilization of electrical power sources which already exist in the member states and offer the potential to swiftly reduce the dependence of those states on South Africa for electricity); and industrial development and trade (including private sector initiatives).
+&emsp;The sectors with respect to which assistance may be provided under this subsection are thefollowing: transportation; manpower development; agriculture and natural resources; energy (including the improved utilization of electrical power sources which already exist in the member states and offer the potential to swiftly reduce the dependence of those states on South Africa for electricity); and industrial development and trade (including private sector initiatives).
 
 #### (3) Relation to DFA policies and authorities
 
 &emsp;To the maximum extent feasible, the assistance authorized by this subsection shall be provided consistent with the policies and authorities contained in the preceding subsection of this section.
 
-(Pub. L. 87–195, pt. I, §496, as added Pub. L. 101–513, title V, §562(a), Nov. 5, 1990, 104 Stat. 2026.)
+(Pub. L. 87–195, pt. I, §496, as added Pub. L. 101–513, title V, §562(a), Nov. 5, 1990, 104 Stat. 2026; amended Pub. L. 106–200, title I, §127(c), May 18, 2000, 114 Stat. 273; Pub. L. 106–264, title I, §111(b), Aug. 19, 2000, 114 Stat. 752.)
 
 #### References in Text
 
@@ -174,7 +182,15 @@ The Comprehensive Anti/Apartheid Act of 1986, referred to in subsec. (n)(4), pro
 
 #### Prior Provisions
 
-A prior section 2293, Pub. L. 87–195, pt. I, §496, as added Pub. L. 93–559, §53, Dec. 30, 1974, 88 Stat. 1818;amended Pub. L. 94–161, title III, §314, Dec. 20, 1975, 89 Stat. 866, related to economic assistance, etc., to Portugal and Portuguese colonies in Africa gaining independence, prior to repeal by Pub. L. 99–83, title XII, §1211(a)(4), Aug. 8, 1985, 99 Stat. 279, effective Oct. 1, 1985.
+A prior section 2293, Pub. L. 87–195, pt. I, §496, as added Pub. L. 93–559, §53, Dec. 30, 1974, 88 Stat. 1818; amended Pub. L. 94–161, title III, §314, Dec. 20, 1975, 89 Stat. 866, related to economic assistance, etc., to Portugal and Portuguese colonies in Africa gaining independence, prior to repeal by Pub. L. 99–83, title XII, §1211(a)(4), Aug. 8, 1985, 99 Stat. 279, effective Oct. 1, 1985.
+
+#### Amendments
+
+2000—Subsec. (h)(3). Pub. L. 106–200, §127(c)(1)(B), added par. (3). Former par. (3) redesignated (4).
+
+Subsec. (h)(4). Pub. L. 106–200, §127(c)(1)(A), (2), redesignated par. (3) as (4) and substituted “paragraphs (1), (2), and (3)” for “paragraphs (1) and (2)” in first sentence.
+
+Subsec. (i)(2). Pub. L. 106–264 inserted at end “In addition, providing training and training facilities, in sub-Saharan Africa, for doctors and other health care providers, notwithstanding any provision of law that restricts assistance to foreign countries.”
 
 #### Delegation of Functions
 
@@ -224,7 +240,7 @@ Pub. L. 105–385, title I, Nov. 13, 1998, 112 Stat. 3462, provided that:
 
 “(a)
 
-Additional Requirements in Carrying Out the Initiative.—In providing development assistance under the Africa Food Security Initiative, or any comparable or successor program, the Administrator of the United States Agency for International Development—
+Additional Requirements in Carrying Out the Initiative.—In providing development assistance under the Africa Food Security Initiative, or any comparableor successor program, the Administrator of the United States Agency for International Development—
 
 &emsp;“(1) shall emphasize programs and projects that improve the food security of infants, young children, school-age children, women and food-insecure households, or that improve the agricultural productivity, incomes, and marketing of the rural poor in Africa;
 
@@ -254,7 +270,7 @@ In general.—The Administrator of the United States Agency for International De
 
 &emsp;“(2)
 
-Additional requirement.—In carrying out paragraph (1), the Administrator should encouragethe World Bank Consultative Group to Assist the Poorest to coordinate the strategy described in such paragraph.
+Additional requirement.—In carrying out paragraph (1), the Administrator should encourage the World Bank Consultative Group to Assist the Poorest to coordinate the strategy described in such paragraph.
 
 #### “SEC. 103. SUPPORT FOR PRODUCER-OWNED COOPERATIVE MARKETING ASSOCIATIONS.
 

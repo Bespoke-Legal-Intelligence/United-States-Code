@@ -64,7 +64,7 @@ In this subchapter (unless the context otherwise requires):
 
 #### (14) Producer
 
-&emsp;The term “producer” means a person engaged in the growing of canola or rapeseed in the United States who owns, or who shares theownership and risk of loss of, the canola or rapeseed.
+&emsp;The term “producer” means a person engaged in the growing of canola or rapeseed in the United States who owns, or who shares the ownership and risk of loss of, the canola or rapeseed.
 
 #### (15) Promotion
 

@@ -20,7 +20,7 @@ For purposes of this subchapter—
 
 &emsp;(9) the term “producer” means any person engaged in the production of milk for commercial use;
 
-&emsp;(10) the term “research” means studies testing the effectiveness of market development and promotion efforts, studies relating to the nutritional value of milk and dairy products, and other related efforts to expand demand for milk and dairy products;
+&emsp;(10) the term “research” means studies testing the effectiveness of market development and promotion efforts, studies relating to the nutritional value of milk and dairy products,and other related efforts to expand demand for milk and dairy products;
 
 &emsp;(11) the term “Secretary” means the Secretary of Agriculture unless the context specifies otherwise; and
 

@@ -6,7 +6,7 @@ The Regents are authorized to solicit and receive subscriptions of funds from pr
 
 #### (b) Construction of building
 
-The Regents may, subject to the approval of the President, authorize the preparation of thesite and the construction of the building, including approaches and landscaping of the grounds: <i>Provided</i>, That the Administrator of General Services shall supervise the preparation of the plans and specifications, make all necessary contracts, and supervise construction.
+The Regents may, subject to the approval of the President, authorize the preparation of the site and the construction of the building, including approaches and landscaping of the grounds: <i>Provided</i>, That the Administrator of General Services shall supervise the preparation of the plans and specifications, make all necessary contracts, and supervise construction.
 
 #### (c) Name of building; supervision and control
 

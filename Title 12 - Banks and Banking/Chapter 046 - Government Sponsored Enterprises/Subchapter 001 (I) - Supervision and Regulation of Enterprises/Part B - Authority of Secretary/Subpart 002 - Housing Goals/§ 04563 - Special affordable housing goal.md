@@ -56,7 +56,7 @@
 
 #### (2) Exclusion
 
-&emsp;No credit toward the achievement of the special affordable housing goal may be given to the purchase or securitization of mortgages associated with the refinancing of the existing enterprise portfolios.
+&emsp;No credit toward the achievement of the special affordable housing goal may be given tothe purchase or securitization of mortgages associated with the refinancing of the existing enterprise portfolios.
 
 #### (c) Use of borrower and tenant income
 
@@ -74,7 +74,7 @@
 
 #### (2) Affordability
 
-&emsp;For the purpose of paragraph (1)(B)(ii), a rent level shall be considered affordable if itdoes not exceed 30 percent of the maximum income level of the income categories referred to in this section, with appropriate adjustments for unit size as measured by the number of bedrooms.
+&emsp;For the purpose of paragraph (1)(B)(ii), a rent level shall be considered affordable if it does not exceed 30 percent of the maximum income level of the income categories referred to in this section, with appropriate adjustments for unit size as measured by the number of bedrooms.
 
 #### (d) Transition
 

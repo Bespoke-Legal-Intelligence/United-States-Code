@@ -12,13 +12,13 @@ There are hereby made available, in accordance with the provisions of this part,
 
 #### (2) Direct loans
 
-&emsp;Notwithstanding any other provision of this part, loans made to borrowers under this partthat, except as otherwise specified in this part, have the same terms, conditions, and benefits as loans made to borrowers under section 1078 of this title, shall be known as “Federal Direct Stafford/Ford Loans”.
+&emsp;Notwithstanding any other provision of this part, loans made to borrowers under this part that, except as otherwise specified in this part, have the same terms, conditions, and benefits as loans made to borrowers under section 1078 of this title, shall be known as “Federal Direct Stafford/Ford Loans”.
 
 (Pub. L. 89–329, title IV, §451, as added Pub. L. 99–498, title IV, §404, Oct. 17, 1986, 100 Stat. 1437; amended Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 569; Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 341; Pub. L. 103–382, title III, §358A, Oct. 20, 1994, 108 Stat. 3968.)
 
 #### Prior Provisions
 
-A prior section 1087a, Pub. L. 89–329, title IV, §451, as added Pub. L. 90–575, title I, §141, Oct. 16, 1968, 82 Stat. 1031; amended Pub. L. 92–318, title I, §136(a), (b)(1), June 23, 1972, 86 Stat. 272, authorized appropriations for cooperative education programs from the fiscal year ending June 30, 1969, through the fiscal year ending prior to July 1, 1975, prior to repeal by Pub. L. 94–482, title I, §129(a), Oct. 12, 1976, 90 Stat. 2144, eff. 30 days after Oct. 12, 1976.
+A prior section 1087a, Pub. L. 89–329, title IV, §451, as added Pub. L. 90–575, title I, §141, Oct. 16, 1968, 82 Stat. 1031; amended Pub. L. 92–318, title I, §136(a), (b)(1), June23, 1972, 86 Stat. 272, authorized appropriations for cooperative education programs from the fiscal year ending June 30, 1969, through the fiscal year ending prior to July 1, 1975, prior to repeal by Pub. L. 94–482, title I, §129(a), Oct. 12, 1976, 90 Stat. 2144, eff. 30 days after Oct. 12, 1976.
 
 #### Amendments
 

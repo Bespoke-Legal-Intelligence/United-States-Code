@@ -30,5 +30,5 @@ Section effective one year after Nov. 5, 1990, see section 1541(a) of Pub. L. 10
 
 #### First Inspection
 
-Pub. L. 105–261, div. A, title X, §1042(b), Oct. 17, 1998, 112 Stat. 2125, provided that: “The first inspection under section 1518 of the Armed Forces Retirement Home Act of 1991 \[24 U.S.C. 418\], as amended by subsection (a), shall be carried out during fiscal year 1999.”
+Pub. L. 105–261, div. A, title X, §1042(b), Oct. 17, 1998, 112 Stat. 2125, provided that: “The first inspectionunder section 1518 of the Armed Forces Retirement Home Act of 1991 \[24 U.S.C. 418\], as amended by subsection (a), shall be carried out during fiscal year 1999.”
 

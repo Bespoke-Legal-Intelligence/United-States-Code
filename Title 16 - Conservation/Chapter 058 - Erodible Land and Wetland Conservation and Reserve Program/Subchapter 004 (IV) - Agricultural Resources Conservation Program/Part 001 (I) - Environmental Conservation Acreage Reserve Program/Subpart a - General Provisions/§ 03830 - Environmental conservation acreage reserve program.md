@@ -68,6 +68,48 @@ The Federal Water Pollution Control Act, referred to in subsec. (c)(2), is act J
 
 1993—Subsec. (b). Pub. L. 103–66 struck out before period at end “to place in the Environmental Conservation Acreage Reserve Program during the 1986 through 1995 calendar years a total of not less than 40,000,000 nor more than 45,000,000 acres”.
 
+#### Conservation Assistance
+
+Pub. L. 106–224, title II, §211, June 20, 2000, 114 Stat. 406, provided that:
+
+“(a)
+
+Farmland Protection.—For the purposes described in section 388 of the Federal Agriculture Improvement and Reform Act of 1996 (16 U.S.C. 3830 note; Public Law 104–127), the Secretary shall use $10,000,000 of funds of the Commodity Credit Corporation to make payments to—
+
+&emsp;“(1) any agency of any State or local government, or federally recognized Indian tribe, including farmland protection boards and land resource councils established under State law; and
+
+&emsp;“(2) any organization that—
+
+&emsp;&emsp;“(A) is organized for, and at all times since the formation of the organization has been operated principally for, one or more of the conservation purposes specified in clause (i), (ii), or (iii) of section 170(h)(4)(A) of the Internal Revenue Code of 1986 \[26 U.S.C. 170(h)(4)(A)(i)–(iii)\];
+
+&emsp;&emsp;“(B) is an organization described in section 501(c)(3) of that Code \[26 U.S.C. 501(c)(3)\] that is exempt from taxation under section 501(a) of that Code;
+
+&emsp;&emsp;“(C) is described in section 509(a)(2) of that Code \[26 U.S.C. 509(a)(2)\]; or
+
+&emsp;&emsp;“(D) is described in section 509(a)(3) of that Code and is controlled by an organization described in section 509(a)(2) of that Code.
+
+“(b)
+
+Soil and Water Conservation Assistance.—
+
+&emsp;“(1)
+
+Establishment.—The Secretary shall use $40,000,000 of funds of the Commodity Credit Corporation to provide financial assistance to farmers and ranchers to—
+
+&emsp;&emsp;“(A) address threats to soil, water, and related natural resources, including grazing land, wetland, and wildlife habitat;
+
+&emsp;&emsp;“(B) comply with Federal and State environmental laws; and
+
+&emsp;&emsp;“(C) make beneficial, cost-effective changes to cropping systems, grazing management, manure, nutrient, pest, or irrigation management, land uses, or other measures needed to conserve and improve soil, water, and related natural resources.
+
+&emsp;“(2)
+
+Type of assistance.—Assistance under this subsection may be made in the form of cost share payments or incentive payments, as determined by the Secretary.
+
+&emsp;“(3)
+
+Areas.—The Secretary shall provide assistance under this subsection to areas that are not designated under section 1230(c) of the Food Security Act of 1985 (16 U.S.C. 3830(c)).”
+
 #### Farmland Protection Program
 
 Section 388 of Pub. L. 104–127 provided that:

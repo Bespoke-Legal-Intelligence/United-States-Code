@@ -4,7 +4,3 @@ The Attorney General may remove from the United States any alien who falls into 
 
 (June 27, 1952, ch. 477, title II, ch. 5, §250, 66 Stat. 219.)
 
-#### Cross References
-
-Definition of alien, application for admission, Attorney General, entry, and United States, see section 1101 of this title.
-

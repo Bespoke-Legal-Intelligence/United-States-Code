@@ -12,7 +12,7 @@
 
 (b) No person shall be appointed a commissioned officer under this section until his mental, moral, physical, and professional fitness to perform the duties of a commissioned officer has been established under such regulations as the Secretary shall prescribe.
 
-(c) Appointees under this section shall take precedence in the grade to which appointed in accordance with the dates of their commissions as commissioned officers in such grade. Appointees whose dates of commission are the same shall take precedence with each other as the Secretary shall determine.
+(c) Appointees under this section shall take precedence in the grade to which appointed inaccordance with the dates of their commissions as commissioned officers in such grade. Appointees whose dates of commission are the same shall take precedence with each other as the Secretary shall determine.
 
 (Added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 177; amended Pub. L. 89–444, §1(11), June 9, 1966, 80 Stat. 196; Pub. L. 98–557, §15(a)(3)(B), Oct. 30, 1984, 98 Stat. 2865.)
 

@@ -40,7 +40,7 @@ Federal grants under subsection (a) of this section shall be subject to the foll
 
 &emsp;(1) No grant shall be made for any project unless such project shall have been approved by the appropriate State water pollution control agency or agencies and by the Administrator;
 
-&emsp;(2) No grant shall be made for any project in an amount exceeding 75 per centum of costthereof as determined by the Administrator; and
+&emsp;(2) No grant shall be made for any project in an amount exceeding 75 per centum of cost thereof as determined by the Administrator; and
 
 &emsp;(3) No grant shall be made for any project unless the Administrator determines that such project will serve as a useful demonstration for the purpose set forth in clause (1) or (2) of subsection (a) of this section.
 
@@ -70,7 +70,7 @@ The Administrator is authorized to make a grant to any grantee who received an i
 
 #### Transfer of Functions
 
-Enforcement functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, related to compliance with this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas were transferred to the Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, until the first anniversary of date of initial operation of the Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§102(f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade.
+Enforcement functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, related to compliance with this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas were transferred to the Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, until the first anniversary of date of initial operation of the Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§102(f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373,1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade.
 
 #### Section Referred to in Other Sections
 

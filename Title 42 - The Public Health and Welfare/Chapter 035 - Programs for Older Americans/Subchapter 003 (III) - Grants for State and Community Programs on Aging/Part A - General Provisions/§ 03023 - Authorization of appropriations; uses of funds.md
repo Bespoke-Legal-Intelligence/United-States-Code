@@ -1,14 +1,12 @@
 ### §3023. Authorization of appropriations; uses of funds
 
-(a)(1) There are authorized to be appropriated $461,376,000 for fiscal year 1992 and such sums as may be necessary for fiscal years 1993, 1994, and 1995, for the purpose of making grants under part B of this subchapter (relating to supportive services and senior centers).
+(a)(1) There are authorized to be appropriated to carry out part B of this subchapter (relating to supportive services) such sums as may be necessary for fiscal year 2001, and such sums as may be necessary for each of the 4 succeeding fiscal years.
 
 (2) Funds appropriated under paragraph (1) shall be available to carry out section 3058g of this title.
 
-(b)(1) There are authorized to be appropriated $505,000,000 for fiscal year 1992 and such sums as may be necessary for fiscal years 1993, 1994, and 1995, for the purpose of making grants under subpart I of part C of this subchapter (relating to congregate nutrition services).
+(b)(1) There are authorized to be appropriated to carry out subpart I of part C of this subchapter (relating to congregate nutrition services) such sums as may be necessary for fiscal year 2001, and such sums as may be necessary for each of the 4 succeeding fiscal years.
 
-(2) There are authorized to be appropriated $120,000,000 for fiscal year 1992 and such sums as may be necessary for fiscal years 1993, 1994, and 1995, for the purpose of making grants under subpart II of part C of this subchapter (relating to home delivered nutrition services).
-
-(3) There are authorized to be appropriated $15,000,000 for fiscal year 1992 and such sums as may be necessary for fiscal years 1993, 1994, and 1995, to carry out subpart III of part C of this subchapter (relating to school-based meals for volunteer older individuals and multigenerational programs).
+(2) There are authorized to be appropriated to carry out subpart II of part C of this subchapter (relating to home delivered nutrition services) such sums as may be necessary for fiscal year 2001, and such sums as may be necessary for each of the 4 succeeding fiscal years.
 
 (c) Grants made under part B, and subparts I and II of part C, of this subchapter may be used for paying part of the cost of—
 
@@ -16,15 +14,19 @@
 
 &emsp;(2) the development of comprehensive and coordinated systems for supportive services, congregate and home delivered nutrition services under subparts I and II of part C of this subchapter, the development and operation of multipurpose senior centers, and the delivery of legal assistance.
 
-(d) There are authorized to be appropriated $45,388,000 for fiscal year 1992 and such sums as may be necessary for fiscal years 1993, 1994, and 1995, for the purpose of making grants under part D of this subchapter (relating to in-home services).
+(d) There are authorized to be appropriated to carry out part D of this subchapter (relating to disease prevention and health promotion services) such sums as may be necessary for fiscal year 2001, and such sums as may be necessary for each of the 4 succeeding fiscal years.
 
-(e) There are authorized to be appropriated such sums as may be necessary for the fiscal years 1992, 1993, 1994, and 1995, to carry out part E of this subchapter (relating to special needs).
+(e)(1) There are authorized to be appropriated to carry out part E of this subchapter (relating to family caregiver support) $125,000,000 for fiscal year 2001 if the aggregate amount appropriated under subsection (a)(1) of this section (relating to part B of this subchapter, supportive services), paragraphs (1) (relating to subpart I of part C of this subchapter, congregate nutrition services) and (2) (relating to subpart II of part C of this subchapter, home delivered nutrition services) of subsection (b) of this section, and (d) <sup>1</sup> (relating to part D of this subchapter, disease prevention and health promotion services) of this section for fiscal year 2001 is not less than the aggregate amount appropriated under subsection (a)(1) of this section, paragraphs (1) and (2) of subsection (b) of this section, and subsection (d) of this section for fiscal year 2000.
 
-(f) There are authorized to be appropriated $25,000,000 for fiscal year 1992 and such sums as may be necessary for fiscal years 1993, 1994, and 1995, for the purpose of making grants under part F of this subchapter (relating to periodic preventive health, health education, and promotion services).
+(2) There are authorized to be appropriated to carry out part E of this subchapter (relating to family caregiver support) such sums as may be necessary for each of the 4 succeeding fiscal years.
 
-(g) There are authorized to be appropriated $15,000,000 for fiscal year 1992 and such sums as may be necessary for fiscal years 1993, 1994, and 1995, to carry out part G of this subchapter (relating to supportive activities for caretakers).
+(3) Of the funds appropriated under paragraphs (1) and (2)—
 
-(Pub. L. 89–73, title III, §303, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1518; amended Pub. L. 97–115, §3(c), (d), Dec. 29, 1981, 95 Stat. 1597; Pub. L. 98–459, title III, §303, Oct. 9, 1984, 98 Stat. 1771; Pub. L. 100–175, title I, §§122(a), (b), 129(c)(1), 140(a), 141(a), 143(a), 144(b), 145, 155(b), Nov. 29, 1987, 101 Stat. 933, 935, 944, 946, 947, 949, 950, 952; Pub. L. 102–375, title III, §§303, 316(b), title VII, §708(c)(3), Sept. 30, 1992, 106 Stat. 1220, 1241, 1293.)
+&emsp;(A) 4 percent of such funds shall be reserved to carry out activities described in section 3030s–11 of this title; and
+
+&emsp;(B) 1 percent of such funds shall be reserved to carry out activities described in section 3030s–12 of this title.
+
+(Pub. L. 89–73, title III, §303, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1518; amended Pub. L. 97–115, §3(c), (d), Dec. 29, 1981, 95 Stat. 1597; Pub. L. 98–459, title III, §303, Oct. 9, 1984, 98 Stat. 1771; Pub. L. 100–175, title I, §§122(a), (b), 129(c)(1), 140(a), 141(a), 143(a), 144(b), 145, 155(b), Nov. 29, 1987, 101 Stat. 933, 935, 944, 946, 947, 949, 950, 952; Pub. L. 102–375, title III, §§303, 316(b), title VII, §708(c)(3), Sept. 30, 1992, 106 Stat. 1220, 1241, 1293; Pub. L. 106–501, title III, §302, Nov. 13, 2000, 114 Stat. 2238.)
 
 #### Prior Provisions
 
@@ -33,6 +35,18 @@ A prior section 3023, Pub. L. 89–73, title III, §303, as added Pub. L. 93–2
 Another prior section 3023, Pub. L. 89–73, title III, §303, July 14, 1965, 79 Stat. 222; Pub. L. 91–69, §§3(b), 4(a), Sept. 17, 1969, 83 Stat. 108, related to state plans, providing in subsec. (a) for approval by Secretary, contents, notice and hearing prior to disapproval; subsec. (b) noncompliance and cancellation of payments; and subsec. (c) appeals, petitions, record, jurisdiction of courts of appeals, conclusiveness of findings, review by Supreme Court, and stay of administrative action, prior to repeal by Pub. L. 93–29, title III, §301, May 3, 1973, 87 Stat. 36.
 
 #### Amendments
+
+2000—Subsec. (a)(1). Pub. L. 106–501, §302(1), added par. (1) and struck out former par. (1) which read as follows: “There are authorized to be appropriated $461,376,000 for fiscal year 1992 and such sums as may be necessary for fiscal years 1993, 1994, and 1995, for the purpose of making grants under part B of this subchapter (relating to supportive services and senior centers).”
+
+Subsec. (b). Pub. L. 106–501, §302(2), added subsec. (b) and struck out former subsec. (b) which read as follows:
+
+“(b)(1) There are authorized to be appropriated $505,000,000 for fiscal year 1992 and such sums as may be necessary for fiscal years 1993, 1994, and 1995, for the purpose of making grants under subpart I of part C of this subchapter (relating to congregate nutrition services).
+
+“(2) There are authorized to be appropriated $120,000,000 for fiscal year 1992 and such sums as may be necessary for fiscal years 1993, 1994, and 1995, for the purpose of making grants under subpart II of part C of this subchapter (relating to home delivered nutrition services).
+
+“(3) There are authorized to be appropriated $15,000,000 for fiscal year 1992 and such sums as may be necessary for fiscal years 1993, 1994, and 1995, to carryout subpart III of part C of this subchapter (relating to school-based meals for volunteer older individuals and multigenerational programs).”
+
+Subsecs. (d) to (g). Pub. L. 106–501, §302(3), added subsecs. (d) and (e) and struck out former subsecs. (d) to (g) which authorized appropriations for fiscal years 1992 to 1995 to carry out parts D to G of this subchapter.
 
 1992—Subsec. (a)(1). Pub. L. 102–375, §708(c)(3), struck out “for purposes other than outreach activities and application assistance under section 3027(a)(31) of this title” after “senior centers)”.
 
@@ -102,7 +116,7 @@ Subsec. (c)(2). Pub. L. 97–115, §3(d), substituted “supportive services” 
 
 Amendment by sections 303(a)(2), (3) and 708(c)(3) of Pub. L. 103–171 inapplicable with respect to fiscal year 1993, see section 4(b) of Pub. L. 103–171, set out as a note under section 3001 of this title.
 
-Amendment by sections 303(a)(2), (3), (f), 316(b), and 708(c)(3) of Pub. L. 102–375 inapplicable with respect tofiscal year 1992, see section 905(b)(2), (6) of Pub. L. 102–375, set out as a note under section 3001 of this title.
+Amendment by sections 303(a)(2), (3), (f), 316(b), and 708(c)(3) of Pub. L. 102–375 inapplicable with respect to fiscal year 1992, see section 905(b)(2), (6) of Pub. L. 102–375, set out as a note under section 3001 of this title.
 
 #### Effective Date of 1987 Amendment
 
@@ -114,5 +128,7 @@ Amendment by Pub. L. 98–459 effective Oct. 9, 1984, see section 803(a) of Pub.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3015, 3024, 3027, 3028, 4728 of this title.
+This section is referred to in sections 3024, 3028, 3030s–1, 4728 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “subsection (d)”.</i>
 

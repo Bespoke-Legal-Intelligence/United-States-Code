@@ -10,7 +10,11 @@ Service Credit.—A member ordered to funeral honors duty under this section sha
 
 &emsp;(1) service credit under section 12732(a)(2)(E) of this title; and
 
-&emsp;(2) if authorized by the Secretary concerned, the allowance under section 435 <sup>1</sup> of title 37.
+&emsp;(2) as directed by the Secretary concerned, either—
+
+&emsp;&emsp;(A) the allowance under section 435 of title 37; or
+
+&emsp;&emsp;(B) compensation under section 206 of title 37.
 
 (c)
 
@@ -24,15 +28,17 @@ Regulations.—The exercise of authority under subsection (a) is subject to regu
 
 Members of the National Guard.—This section does not apply to members of the Army National Guard of the United States or the Air National Guard of the United States. The performance of funeral honors duty by those members is provided for in section 115 of title 32.
 
-(Added Pub. L. 106–65, div. A, title V, §578(g)(3), Oct. 5, 1999, 113 Stat. 628.)
+(Added Pub. L. 106–65, div. A, title V, §578(g)(3), Oct. 5, 1999, 113 Stat. 628; amended Pub. L. 106–398, §1 \[\[div. A\], title V, §575(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–138.)
 
-#### References in Text
+#### Amendments
 
-Section 435 of title 37, referred to in subsec. (b)(2), probably means the section 435 which relates to funeral honors duty allowances and was added by Pub. L. 106–65, div. A, title V, §578(j), Oct. 5, 1999, 113 Stat. 630.
+2000—Subsec. (b)(2). Pub. L. 106–398 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “if authorized by the Secretary concerned, the allowance under section 435 of title 37.”
+
+#### Effective Date of 2000 Amendment
+
+Pub. L. 106–398, §1 \[\[div. A\], title V, §575(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–138, provided that: “The amendments made by this section \[amending this section, section 115 of Title 32, National Guard, and section 435 of Title 37, Pay and Allowances of the Uniformed Services\] shall apply with respect to funeral honors duty performed on or after October 1, 2000.”
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1074a, 1076, 1204, 1206, 1481, 12552, 12732 of this title; title 37 section 435.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

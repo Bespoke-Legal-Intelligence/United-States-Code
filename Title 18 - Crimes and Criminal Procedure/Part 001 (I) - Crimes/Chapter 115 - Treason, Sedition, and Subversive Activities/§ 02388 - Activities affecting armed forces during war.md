@@ -1,6 +1,6 @@
 ### §2388. Activities affecting armed forces during war
 
-(a) Whoever, when the United States is at war, willfully makes or conveys false reports or false statements with intent to interfere with the operation or success of the military or naval forces of the United States or to promote the success of its enemies; or
+(a) Whoever, when the United States is at war, willfully makes or conveys false reports or falsestatements with intent to interfere with the operation or success of the military or naval forces of the United States or to promote the success of its enemies; or
 
 Whoever, when the United States is at war, willfully causes or attempts to cause insubordination, disloyalty, mutiny, or refusal of duty, in the military or naval forces of the United States, or willfully obstructs the recruiting or enlistment service of the United States, to the injury of the service or the United States, or attempts to do so—
 
@@ -33,20 +33,6 @@ Section 7 of act June 30, 1953, ch. 175, 67 Stat. 134, repealed Joint Res. July 
 #### Repeal of Extensions of War-time Provisions
 
 Section 6 of Joint Res. July 3, 1952, repealed Joint Res. Apr. 14, 1952, ch. 204, 66 Stat. 54, as amended by Joint Res. May 28, 1952, ch. 339, 66 Stat. 96. Intermediate extensions by Joint Res. June 14, 1952, ch. 437, 66 Stat. 137, and Joint Res. June 30, 1952, ch. 526, 66 Stat. 296, which continued provisions until July 3, 1952, expired by their own terms.
-
-#### Canal Zone
-
-Applicability of section to Canal Zone, see section 14 of this title.
-
-#### Cross References
-
-Federal retirement benefits, forfeiture upon conviction of offenses described hereunder, see section 8312 of Title 5, Government Organization and Employees.
-
-Forfeiture of veterans’ benefits upon conviction under this section, see section 6105 of Title 38, Veterans’ Benefits.
-
-Jurisdiction of offenses, see section 3241 of this title.
-
-Letters, writings, etc., in violation of this section as nonmailable, see section 1717 of this title.
 
 #### Section Referred to in Other Sections
 

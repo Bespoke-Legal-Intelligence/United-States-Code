@@ -20,7 +20,7 @@ State preservation plans shall be submitted in such form and in accordance with 
 
 &emsp;(6) a certification by the public official responsible for submitting the comprehensive housing affordability strategy under section 12705 of title 42 that the proposed activities are consistent with the approved housing strategy of the State within which the eligible low-income housing is located; and
 
-&emsp;(7) such other certifications or information that the Secretary determines to be necessaryor appropriate to achieve the purposes of this subchapter.
+&emsp;(7) such other certifications or information that the Secretary determines to be necessary or appropriate to achieve the purposes of this subchapter.
 
 #### (c) Implementation agreements
 
@@ -30,5 +30,5 @@ The Secretary may enter into any agreements necessary to implement an approved S
 
 #### Regulations
 
-Pub. L. 102–550, title III, §315, Oct. 28, 1992, 106 Stat. 3770, provided that: “The Secretary of Housing and Urban Development shall issue interim regulations implementing section 227 of the Housing and Community Development Act of 1987 (as amended by section 601(a) of the Cranston-Gonzalez National Affordable Housing Act) \[12 U.S.C. 4117\] not later than the expiration of the 30-day period beginning on the date of the enactment of this Act \[Oct. 28, 1992\], which shall take effect upon issuance. The Secretary shall issue final regulations implementing such section 227 after notice and opportunity for public comment regarding the interim regulations, pursuant to the provisions of section 553 of title 5, United States Code (notwithstanding subsections (a)(2), (b)(B), and (d)(3) of such section). The duration of the period for public comment shall not be less than 60 days, and the final regulations shall be issued not later than the expiration of the 60-day period beginning upon the conclusion of the comment period and shall take effect upon issuance.”
+Pub. L. 102–550, title III, §315, Oct. 28, 1992, 106 Stat. 3770, provided that: “The Secretary of Housing and Urban Development shall issue interim regulations implementing section 227 of the Housing and Community Development Act of 1987 (as amended by section 601(a) of the Cranston-Gonzalez National Affordable Housing Act) \[12 U.S.C. 4117\] not later than the expiration of the 30-day period beginning on the date of the enactment of this Act \[Oct. 28, 1992\], which shall take effect upon issuance. The Secretary shall issue final regulations implementing such section 227 after notice and opportunity for public comment regarding the interim regulations, pursuant to the provisions of section 553 oftitle 5, United States Code (notwithstanding subsections (a)(2), (b)(B), and (d)(3) of such section). The duration of the period for public comment shall not be less than 60 days, and the final regulations shall be issued not later than the expiration of the 60-day period beginning upon the conclusion of the comment period and shall take effect upon issuance.”
 

@@ -26,7 +26,7 @@
 
 &emsp;(F) The Secretary of Labor.
 
-> The Trade Representative may invite representatives from other agencies, as appropriate, to attend particular meetings if subject matters of specific functional interest to such agencies areunder consideration. It shall meet at such times and with respect to such matters as the President or the Chairman shall direct.
+> The Trade Representative may invite representatives from other agencies, as appropriate, to attend particular meetings if subject matters of specific functional interest to such agencies are under consideration. It shall meet at such times and with respect to such matters as the President or the Chairman shall direct.
 
 #### (b) Duties
 

@@ -22,7 +22,7 @@ Pub. L. 90–163 substituted “$100 per month” for “$75 per month”.
 
 #### Effective Date of 1967 Amendments
 
-Section 2 of Pub. L. 90–167 provided that: “No payment shall be made by reason of the amendments made by this section \[amending this section and section 772 of this title\] for any period prior to the first day of the first month following the month in which this Act is enacted \[Nov. 29, 1967\].”
+Section 2 of Pub. L. 90–167 provided that: “No payment shall be made by reason of the amendments made by this section \[amending this section and section 772 of this title\] for any period prior to the first day of thefirst month following the month in which this Act is enacted \[Nov. 29, 1967\].”
 
 Section 1 of Pub. L. 90–163 provided that the amendment made by that section is effective on the first day of the month following Nov. 29, 1967.
 
@@ -48,7 +48,7 @@ Sec. 2. The increases under this Act shall apply to benefits which commence befo
 
 #### Cost-of-Living Adjustment to Widow's Annuity
 
-Section 2 of Pub. L. 90–163 provided that: “Each annuity payable under the Act entitled ‘An Act to provide benefits for widows of certain persons who were retired or are eligible for retirement under section 6 of the Actentitled “An Act to authorize aids to navigation and for other works in the Lighthouse Service, and for other purposes”, approved June 20, 1918, as amended’, approved August 19, 1950 (33 U.S.C. 771–775), and each annuity payable under section 6 of the Act entitled ‘An Act to authorize aids to navigation and for other works in the Lighthouse Service, and for other purposes’, approved June 20, 1918 (33 U.S.C. 763), shall be increased by the same percentage, adjusted to the nearest dollar, and on the same effective date, as each increase hereafter allowed under the cost-of-living annuity adjustment provisions of section 8340(b) of title 5, United States Code.”
+Section 2 of Pub. L. 90–163 provided that: “Each annuity payable under the Act entitled ‘An Act to provide benefits for widows of certain persons who were retired or are eligible for retirement under section 6 of the Act entitled “An Act to authorize aids to navigation and for other works in the Lighthouse Service, and for other purposes”, approved June 20, 1918, as amended’, approved August 19, 1950 (33 U.S.C. 771–775), and each annuity payable under section 6 of the Act entitled ‘An Act to authorize aids to navigation and for other works in the Lighthouse Service, and for other purposes’, approved June 20, 1918 (33 U.S.C. 763), shall be increased by the same percentage, adjusted to the nearest dollar, and on the same effective date, as each increase hereafter allowed under the cost-of-living annuity adjustment provisions of section 8340(b) of title 5, United States Code.”
 
 #### Section Referred to in Other Sections
 

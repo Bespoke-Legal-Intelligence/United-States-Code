@@ -8,11 +8,11 @@ It shall be unlawful for any person, by the use of the mails or by any means or 
 
 (1) It shall be unlawful for any member of a national securities exchange, or any broker or dealer registered under this chapter, or any bank, association, or other entity that exercises fiduciary powers, in contravention of such rules and regulations as the Commission may prescribe as necessary or appropriate in the public interest or for the protection of investors, to give, or to refrain from giving a proxy, consent, authorization, or information statement in respect of any security registered pursuant to section 78<i>l</i> of this title, or any security issued by an investment company registered under the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\], and carried for the account of a customer.
 
-(2) With respect to banks, the rules and regulations prescribed by the Commission under paragraph (1) shall not require the disclosure of the names of beneficial owners of securities in an account held by the bank on December 28, 1985, unless the beneficial owner consents to the disclosure. The provisions of this paragraph shall not apply in the case of a bank which the Commission finds has not made a good faith effort to obtain such consent from such beneficial owners.
+(2) With respect to banks, the rules and regulations prescribed by the Commission under paragraph (1) shall not require the disclosure of the names of beneficial owners of securities in an account held by the bank on December 28, 1985, unless the beneficial owner consents to thedisclosure. The provisions of this paragraph shall not apply in the case of a bank which the Commission finds has not made a good faith effort to obtain such consent from such beneficial owners.
 
 #### (c) Information to holders of record prior to annual or other meeting
 
-Unless proxies, consents, or authorizations in respect of a security registered pursuant to section 78<i>l</i> of this title, or a security issued by an investment company registered under the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\], are solicited by or on behalf of the management of the issuer from the holders of record of such security in accordance with the rulesand regulations prescribed under subsection (a) of this section, prior to any annual or other meeting of the holders of such security, such issuer shall, in accordance with rules and regulations prescribed by the Commission, file with the Commission and transmit to all holders of record of such security information substantially equivalent to the information which would be required to be transmitted if a solicitation were made, but no information shall be required to be filed or transmitted pursuant to this subsection before July 1, 1964.
+Unless proxies, consents, or authorizations in respect of a security registered pursuant to section 78<i>l</i> of this title, or a security issued by an investment company registered under the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\], are solicited by or on behalf of the management of the issuer from the holders of record of such security in accordance with the rules and regulations prescribed under subsection (a) of this section, prior to any annual or other meeting of the holders of such security, such issuer shall, in accordance with rules and regulations prescribed by the Commission, file with the Commission and transmit to all holders of record of such security information substantially equivalent to the information which would be required to be transmitted if a solicitation were made, but no information shall be required to be filed or transmitted pursuant to this subsection before July 1, 1964.
 
 #### (d) Tender offer by owner of more than five per centum of class of securities; exceptions
 
@@ -112,9 +112,9 @@ If, pursuant to any arrangement or understanding with the person or persons acqu
 
 &emsp;&emsp;(G) provide that, if the general partner or sponsor has obtained any opinion, appraisal, or report as described in subparagraph (F) from any person whose compensation is contingent on the transaction's approval or completion or who has not been given access by the issuer to its personnel and premises and relevant books and records, the general partner or sponsor shall state the reasons therefor;
 
-&emsp;&emsp;(H) provide that, if the general partner or sponsor has not obtained any opinion on the fairness of the proposed limited partnership rollup transaction to investors in each of the affected partnerships, such soliciting materials shall contain or be accompanied by a statement of such partner's or sponsor's reasons for concluding that such an opinion is not necessary in order to permit the limited partners to make an informed decision on the proposed transaction;
+&emsp;&emsp;(H) provide that, if the general partner or sponsor has not obtained any opinion on the fairness of the proposed limited partnership rollup transaction to investors in each of the affected partnerships, such soliciting materials shall contain or be accompanied by astatement of such partner's or sponsor's reasons for concluding that such an opinion is not necessary in order to permit the limited partners to make an informed decision on the proposed transaction;
 
-&emsp;&emsp;(I) require that the soliciting material include a clear, concise, and comprehensible summary of the limited partnership rollup transaction (including a summary of the matters referred to in clauses (i) through (vii) of subparagraph (D) and a summary of the matter referred to in subparagraphs (F), (G), and (H)), with the risks of the limitedpartnership rollup transaction set forth prominently in the fore part thereof;
+&emsp;&emsp;(I) require that the soliciting material include a clear, concise, and comprehensible summary of the limited partnership rollup transaction (including a summary of the matters referred to in clauses (i) through (vii) of subparagraph (D) and a summary of the matter referred to in subparagraphs (F), (G), and (H)), with the risks of the limited partnership rollup transaction set forth prominently in the fore part thereof;
 
 &emsp;&emsp;(J) provide that any solicitation or offering period with respect to any proxy solicitation, tender offer, or information statement in a limited partnership rollup transaction shall be for not less than the lesser of 60 calendar days or the maximum number of days permitted under applicable State law; and
 
@@ -265,20 +265,6 @@ Evaluation required.—The Comptroller General of the United States shall, withi
 “(2)
 
 Report required.—Not later than the end of the 18-month period referred to in paragraph (1), the Comptroller General of the United States shall submit to the Congress a report on the evaluation required by paragraph (1).”
-
-#### Cross References
-
-Application to and mailing copies of proxy by indenture trustee to security holders desiring to communicate with other security holders, see section 77<i>lll</i> of this title.
-
-Effective date, see section 78hh of this title.
-
-Exemption of securities with unlisted trading privileges from the operation of this section, see section 78<i>l</i> of this title.
-
-Investment companies, use of mails or instrumentality of interstate commerce to solicit proxies unlawful, see section 80a–20 of this title.
-
-Person soliciting proxies by mail or through interstate commerce respecting plan of reorganization, etc., to file copy with Commission, see section 80a–25 of this title.
-
-Rules and regulations, power of Commission to make, see section 78w of this title.
 
 #### Section Referred to in Other Sections
 

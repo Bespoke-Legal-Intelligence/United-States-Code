@@ -2,7 +2,7 @@
 
 #### (a) Purposes
 
-Prior to the date upon which rail properties are conveyed to the Corporation under this chapter, the Secretary, with the approval of the Association, is authorized to enter into agreements with the trustees of the railroads in reorganization in the region (or railroads leased, operated, or controlled by railroads in reorganization)—
+Prior to the date upon which rail properties are conveyed to the Corporation under thischapter, the Secretary, with the approval of the Association, is authorized to enter into agreements with the trustees of the railroads in reorganization in the region (or railroads leased, operated, or controlled by railroads in reorganization)—
 
 &emsp;(1) to perform the program maintenance on designated rail properties of such railroads until the date rail properties are conveyed under this chapter;
 

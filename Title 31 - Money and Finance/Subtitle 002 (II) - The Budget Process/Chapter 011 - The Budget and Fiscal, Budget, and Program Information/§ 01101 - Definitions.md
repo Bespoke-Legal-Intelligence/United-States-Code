@@ -40,7 +40,7 @@ In clause (1), “agency” (which is defined for purposes of this title in sect
 
 #### Short Title of 1993 Amendment
 
-Pub. L. 103–62, §1, Aug. 3, 1993, 107 Stat. 285, provided that: “This Act \[enacting sections 1115 to 1119, 9703, and9704 of this title, section 306 of Title 5, Government Organization and Employees, and sections 2801 to 2805 of Title 39, Postal Service, amending section 1105 of this title, and enacting provisions set out as notes under section 1115 of this title\] may be cited as the ‘Government Performance and Results Act of 1993’.”
+Pub. L. 103–62, §1, Aug. 3, 1993, 107 Stat. 285, provided that: “This Act \[enacting sections 1115 to 1119, 9703, and 9704 of this title, section 306 of Title 5, Government Organization and Employees, and sections 2801 to 2805 of Title 39, Postal Service, amending section 1105 of this title, and enacting provisions set out as notes under section 1115 of this title\] may be cited as the ‘Government Performance and Results Act of 1993’.”
 
 #### Short Title of 1984 Amendment
 

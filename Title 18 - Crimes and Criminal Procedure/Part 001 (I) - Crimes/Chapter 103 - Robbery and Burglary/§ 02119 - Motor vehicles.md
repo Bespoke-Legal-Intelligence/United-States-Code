@@ -14,7 +14,7 @@ Whoever, with the intent to cause death or serious bodily harm <sup>1</sup> tak
 
 1996—Par. (2). Pub. L. 104–217 inserted “, including any conduct that, if the conduct occurred in the special maritime and territorial jurisdiction of the United States, would violate section 2241 or 2242 of this title” after “section 1365 of this title”.
 
-1994—Pub. L. 103–322, §60003(a)(14), which directed the amendment of section 2119(3) of title 18 by substituting “, with the intent to cause death or serious bodily harm” for “, possessing a firearm as defined in section 921 of this title,”, was executed by making the substitution in introductory provisions rather than in par. (3), to reflect the probable intent of Congress.
+1994—Pub. L. 103–322, §60003(a)(14), which directed the amendment of section 2119(3) of title 18 by substituting “, with the intent to cause death or serious bodily harm” for “, possessing a firearm as defined in section921 of this title,”, was executed by making the substitution in introductory provisions rather than in par. (3), to reflect the probable intent of Congress.
 
 Par. (3). Pub. L. 103–322, §60003(a)(14), inserted before period at end “, or sentenced to death”.
 
@@ -24,5 +24,5 @@ Section 101(b) of Pub. L. 102–519 provided that: “In view of the increase of
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 981, 982, 3559 of this title.
+This section is referred to in sections 981, 982, 2266, 3559 of this title.
 

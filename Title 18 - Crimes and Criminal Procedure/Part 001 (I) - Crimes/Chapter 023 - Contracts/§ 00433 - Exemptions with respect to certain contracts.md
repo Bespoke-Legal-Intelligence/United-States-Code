@@ -46,10 +46,6 @@ The Reconstruction Finance Corporation, which was created by the Reconstruction 
 
 The Home Owners’ Loan Corporation, which was created by the Home Owners’ Loan Act of 1933, referred to in this section, was dissolved and abolished by act June 30, 1953, ch. 170, §21, 67 Stat. 126, set out in note under section 1463 of Title 12, Banks and Banking.
 
-#### Cross References
-
-Financial control of government corporations, see section 9101 et seq. of Title 31, Money and Finance.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 3056 of this title.

@@ -14,13 +14,3 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 “Bureau of Land Management” substituted for “General Land Office” on authority of section 403 of Reorg. Plan No. 3 of 1946. See note set out under section 1 of this title.
 
-#### Federal Rules of Civil Procedure
-
-Proof of official records, see rule 44, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-#### Cross References
-
-Authenticated copies of official papers to be furnished, on request and on payment of a fee, by Secretary of the Interior or other department head, see sections 1460, 1461, and 1462 of this title and section 1733 of Title 28, Judiciary and Judicial Procedure.
-
-Government records and papers; copies, see section 1733 of Title 28.
-

@@ -23,4 +23,4 @@ This subchapter is referred to in sections 1412a, 1442, 1444, 2601 of this title
 - [&sect; 01418 - Regulations](%C2%A7%2001418%20-%20Regulations.md)
 - [&sect; 01419 - International cooperation](%C2%A7%2001419%20-%20International%20cooperation.md)
 - [&sect; 01420 - Authorization of appropriations](%C2%A7%2001420%20-%20Authorization%20of%20appropriations.md)
-- [&sect; 01421 - Annual report to Congress](%C2%A7%2001421%20-%20Annual%20report%20to%20Congress.md)
+- [&sect; 01421 - Omitted](%C2%A7%2001421%20-%20Omitted.md)

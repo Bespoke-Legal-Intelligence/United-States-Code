@@ -2,7 +2,7 @@
 
 #### (a) Criteria
 
-(1) For the purposes of this chapter, a small-business concern, including but not limited to enterprises that are engaged in the business of production of food and fiber, ranching and raising of livestock, agriculture, and all other farming and agricultural related industries, shall be deemed to be one which is independently owned and operated and which is not dominant in its field of operation: <i>Provided</i>, That notwithstanding any other provision of law, an agricultural enterprise shall be deemed to be a small business concern if it (including its affiliates) has annual receipts not in excess of $500,000.
+(1) For the purposes of this chapter, a small-business concern, including but not limited to enterprises that are engaged in the business of production of food and fiber, ranching and raising of livestock, agriculture, and all other farming and agricultural related industries, shall be deemed to be one which is independently owned and operated and which is not dominant in its field of operation: <i>Provided</i>, That notwithstanding any other provision of law, an agricultural enterprise shall be deemed to be a small business concern if it (including its affiliates) has annual receipts not in excess of $750,000.
 
 (2)
 
@@ -38,7 +38,7 @@ Requirements.—Unless specifically authorized by statute, no Federal department
 
 #### (b) “Agency” defined
 
-For purposes of this chapter, any reference to an agency or department of the United States,and the term “Federal agency”, shall have the meaning given the term “agency” by section 551(1) of title 5, but does not include the United States Postal Service or the General Accounting Office.
+For purposes of this chapter, any reference to an agency or department of the United States, and the term “Federal agency”, shall have the meaning given the term “agency” by section 551(1) of title 5, but does not include the United States Postal Service or the General Accounting Office.
 
 #### (c) Qualified employee trust; eligibility for loan guarantee; “qualified employee trust” defined; regulations for treatment of trust as qualified employee trust
 
@@ -192,9 +192,11 @@ In this chapter:
 
 &emsp;&emsp;(A) qualified census tracts;
 
-&emsp;&emsp;(B) qualified nonmetropolitan counties; or
+&emsp;&emsp;(B) qualified nonmetropolitan counties;
 
-&emsp;&emsp;(C) lands within the external boundaries of an Indian reservation.
+&emsp;&emsp;(C) lands within the external boundaries of an Indian reservation; or
+
+&emsp;&emsp;(D) redesignated areas.
 
 #### (2) HUBZone
 
@@ -202,29 +204,49 @@ In this chapter:
 
 #### (3) HUBZone small business concern
 
-&emsp;The term “HUBZone small business concern” means a small business concern—
+&emsp;The term “HUBZone small business concern” means—
 
-&emsp;&emsp;(A) that is owned and controlled by 1 or more persons, each of whom is a United States citizen; and
+&emsp;&emsp;(A) a small business concern that is owned and controlled by one or more persons, each of whom is a United States citizen;
 
-&emsp;&emsp;(B) the principal office of which is located in a HUBZone; or
+&emsp;&emsp;(B) a small business concern that is—
+
+&emsp;&emsp;&emsp;(i) an Alaska Native Corporation owned and controlled by Natives (as determined pursuant to section 1626(e)(1) of title 43); or
+
+&emsp;&emsp;&emsp;(ii) a direct or indirect subsidiary corporation, joint venture, or partnership of an Alaska Native Corporation qualifying pursuant to section 1626(e)(1) of title 43, if that subsidiary, joint venture, or partnership is owned and controlled by Natives (as determined pursuant to section 1626(e)(2) of title 43);
+
+&emsp;&emsp;(C) a small business concern—
+
+&emsp;&emsp;&emsp;(i) that is wholly owned by one or more Indian tribal governments, or by a corporation that is wholly owned by one or more Indian tribal governments; or
+
+&emsp;&emsp;&emsp;(ii) that is owned in part by one or more Indian tribal governments, or by a corporation that is wholly owned by one or more Indian tribal governments, if all other owners are either United States citizens or small business concerns; or
+
+&emsp;&emsp;(D) a small business concern that is—
+
+&emsp;&emsp;&emsp;(i) wholly owned by a community development corporation that has received financial assistance under part 1 of subchapter A of the Community Economic Development Act of 1981 (42 U.S.C. 9805 et seq.); or
+
+&emsp;&emsp;&emsp;(ii) owned in part by one or more community development corporations, if all other owners are either United States citizens or small business concerns.
 
 #### (4) Qualified areas
 
 #### (A) Qualified census tract
 
-&emsp;&emsp;The term “qualified census tract” has the meaning given that term in section 42(d)(5)(C)(ii)(I) of title 26.
+&emsp;&emsp;The term “qualified census tract” has the meaning given that term in section 42(d)(5)(C)(ii) of title 26.
 
 #### (B) Qualified nonmetropolitan county
 
 &emsp;&emsp;The term “qualified nonmetropolitan county” means any county—
 
-&emsp;&emsp;&emsp;(i) that, based on the most recent data available from the Bureau of the Census of the Department of Commerce—
+&emsp;&emsp;&emsp;(i) that was not located in a metropolitan statistical area (as defined in section 143(k)(2)(B) of title 26) at the time of the most recent census taken for purposes of selecting qualified census tracts under section 42(d)(5)(C)(ii) of title 26; and
 
-&emsp;&emsp;&emsp;&emsp;(I) is not located in a metropolitan statistical area (as defined in section 143(k)(2)(B) of title 26); and
+&emsp;&emsp;&emsp;(ii) in which—
 
-&emsp;&emsp;&emsp;&emsp;(II) in which the median household income is less than 80 percent of the nonmetropolitan State median household income; or
+&emsp;&emsp;&emsp;&emsp;(I) the median household income is less than 80 percent of the nonmetropolitan State median household income, based on the most recent data available from the Bureau of the Census of the Department of Commerce; or
 
-&emsp;&emsp;&emsp;(ii) that, based on the most recent data available from the Secretary of Labor, has an unemployment rate that is not less than 140 percent of the statewide average unemployment rate for the State in which the county is located.
+&emsp;&emsp;&emsp;&emsp;(II) the unemployment rate is not less than 140 percent of the Statewide average unemployment rate for the State in which the county is located, based on the most recent data available from the Secretary of Labor.
+
+#### (C) Redesignated area
+
+&emsp;&emsp;The term “redesignated area” means any census tract that ceases to be qualified under subparagraph (A) and any nonmetropolitan county that ceases to be qualified under subparagraph (B), except that a census tract or a nonmetropolitan county may be a “redesignated area” only for the 3-year period following the date on which the census tract or nonmetropolitan county ceased to be so qualified.
 
 #### (5) Qualified HUBZone small business concern
 
@@ -234,15 +256,21 @@ In this chapter:
 
 &emsp;&emsp;&emsp;(i) the small business concern has certified in writing to the Administrator (or the Administrator otherwise determines, based on information submitted to the Administrator by the small business concern, or based on certification procedures, which shall be established by the Administration by regulation) that—
 
-&emsp;&emsp;&emsp;&emsp;(I) it is a HUBZone small business concern;
+&emsp;&emsp;&emsp;&emsp;(I) it is a HUBZone small business concern—
 
-&emsp;&emsp;&emsp;&emsp;(II) not less than 35 percent of the employees of the small business concern reside in a HUBZone, and the small business concern will attempt to maintain this employment percentage during the performance of any contract awarded to the small business concern on the basis of a preference provided under section 657a(b) of this title; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) pursuant to subparagraph (A), (B), or (D) of paragraph (3), and that itsprincipal office is located in a HUBZone and not fewer than 35 percent of its employees reside in a HUBZone; or
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) pursuant to paragraph (3)(C), and not fewer than 35 percent of its employees engaged in performing a contract awarded to the small business concern on the basis of a preference provided under section 657a(b) of this title reside within any Indian reservation governed by one or more of the tribal government owners, or reside within any HUBZone adjoining any such Indian reservation;
+
+&emsp;&emsp;&emsp;&emsp;(II) the small business concern will attempt to maintain the applicable employment percentage under subclause (I) during the performance of any contract awarded to the small business concern on the basis of a preference provided under section 657a(b) of this title; and
 
 &emsp;&emsp;&emsp;&emsp;(III) with respect to any subcontract entered into by the small business concern pursuant to a contract awarded to the small business concern under section 657a of this title, the small business concern will ensure that—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) in the case of a contract for services (except construction), not less than 50 percent of the cost of contract performance incurred for personnel will be expended for its employees or for employees of other HUBZone small business concerns; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) in the case of a contract for services (except construction), not less than 50 percent of the cost of contract performance incurred for personnel will be expended for its employees or for employees of other HUBZone small business concerns;
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) in the case of a contract for procurement of supplies (other than procurement from a regular dealer in such supplies), not less than 50 percent of the cost of manufacturing the supplies (not including the cost of materials) will be incurred in connection with the performance of the contract in a HUBZone by 1 or more HUBZone small business concerns; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) in the case of a contract for the procurement by the Secretary of Agriculture of agricultural commodities, none of the commodity being procured will be obtained by the prime contractor through a subcontract for the purchase of the commodity in substantially the final form in which it is to be supplied to the Government; and
 
 &emsp;&emsp;&emsp;(ii) no certification made or information provided by the small business concern under clause (i) has been, in accordance with the procedures established under section 657a(c)(1) of this title—
 
@@ -256,17 +284,47 @@ In this chapter:
 
 #### (C) Construction and other contracts
 
-&emsp;&emsp;The Administrator shall promulgate final regulations imposing requirements that are similar to those specified in subclauses (IV) and (V) of subparagraph (A)(i) on contracts for general and specialty construction, and on contracts for any other industry category that would not otherwise be subject to those requirements. The percentage applicable to any such requirement shall be determined in accordance with subparagraph (B).
+&emsp;&emsp;The Administrator shall promulgate final regulations imposing requirements that are similar to those specified in items (aa) and (bb) of subparagraph (A)(i)(III) on contracts for general and specialty construction, and on contracts for any other industry category that would not otherwise be subject to those requirements. The percentage applicable to any such requirement shall be determined in accordance with subparagraph (B).
 
 #### (D) List of qualified small business concerns
 
 &emsp;&emsp;The Administrator shall establish and maintain a list of qualified HUBZone small business concerns, which list shall, to the extent practicable—
 
-&emsp;&emsp;&emsp;(i) include the name, address, and type of business with respect to each such small business concern;
+&emsp;&emsp;&emsp;(i) once the Administrator has made the certification required by subparagraph (A)(i) regarding a qualified HUBZone small business concern and has determined that subparagraph (A)(ii) does not apply to that concern, include the name, address, and type of business with respect to each such small business concern;
 
 &emsp;&emsp;&emsp;(ii) be updated by the Administrator not less than annually; and
 
 &emsp;&emsp;&emsp;(iii) be provided upon request to any Federal agency or other entity.
+
+#### (6) Native American small business concerns
+
+#### (A) Alaska Native Corporation
+
+&emsp;&emsp;The term “Alaska Native Corporation” has the same meaning as the term “Native Corporation” in section 1602 of title 43.
+
+#### (B) Alaska Native Village
+
+&emsp;&emsp;The term “Alaska Native Village” has the same meaning as the term “Native village” in section 1602 of title 43.
+
+#### (C) Indian reservation
+
+&emsp;&emsp;The term “Indian reservation”—
+
+&emsp;&emsp;&emsp;(i) has the same meaning as the term “Indian country” in section 1151 of title 18, except that such term does not include—
+
+&emsp;&emsp;&emsp;&emsp;(I) any lands that are located within a State in which a tribe did not exercise governmental jurisdiction on December 21, 2000, unless that tribe is recognized after December 21, 2000, by either an Act of Congress or pursuant to regulations of the Secretary of the Interior for the administrative recognition that an Indian group exists as an Indian tribe (part 83 of title 25, Code of Federal Regulations); and
+
+&emsp;&emsp;&emsp;&emsp;(II) lands taken into trust or acquired by an Indian tribe after December 21, 2000, if such lands are not located within the external boundaries of an Indian reservation or former reservation or are not contiguous to the lands held in trust or restricted status on December 21, 2000; and
+
+&emsp;&emsp;&emsp;(ii) in the State of Oklahoma, means lands that—
+
+&emsp;&emsp;&emsp;&emsp;(I) are within the jurisdictional areas of an Oklahoma Indian tribe (as determined by the Secretary of the Interior); and
+
+&emsp;&emsp;&emsp;&emsp;(II) are recognized by the Secretary of the Interior as eligible for trust land status under part 151 of title 25, Code of Federal Regulations (as in effect on December 21, 2000).
+
+#### (7) Agricultural commodity
+
+&emsp;The term “agricultural commodity” has the same meaning as in section 5602 of title 7.
 
 #### (q) Definitions relating to veterans
 
@@ -296,11 +354,13 @@ In this chapter, the following definitions apply:
 
 &emsp;The term “veteran” has the meaning given the term in section 101(2) of title 38.
 
-(Pub. L. 85–536, §2\[3\], July 18, 1958, 72 Stat. 384; Pub. L. 94–305, title I, §112(b), June 4, 1976, 90 Stat. 667; Pub. L. 95–507, title II, §224(b), Oct. 24, 1978, 92 Stat. 1772; Pub. L. 96–302, title V, §504, July 2, 1980, 94 Stat. 851; Pub. L. 96–481, title I, §108, Oct. 21, 1980, 94 Stat. 2323; Pub. L. 97–35, title XIX, §1903, Aug. 13, 1981, 95 Stat. 771; Pub. L. 98–270, title III, §310, Apr. 18, 1984, 98 Stat. 161; Pub. L. 98–362, §6, July 16, 1984, 98 Stat. 434; Pub. L. 98–473, title I, §111A(b), Oct. 12, 1984, 98 Stat. 1966; Pub. L. 99–272, title XVIII, §18016, Apr. 7, 1986, 100 Stat. 371; Pub. L. 99–500, §101(c) \[title X, §921(f)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–149, and Pub. L. 99–591, §101(c) \[title X, §921(f)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–149; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–661, div. A, title IX, formerly title IV, §921(f), Nov. 14, 1986, 100 Stat. 3929, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §10(b)(2), Apr. 21, 1987, 101 Stat. 288; Pub. L. 100–456, div. A, title VIII, §845, Sept. 29, 1988, 102 Stat. 2027; Pub. L. 100–590, title I, §119(b), Nov. 3, 1988, 102 Stat. 2999; Pub. L. 100–656, title VII, §732, Nov. 15, 1988, 102 Stat. 3897; Pub. L. 101–510, div. A, title VIII, §806(e)(1), Nov. 5, 1990, 104 Stat. 1592; Pub. L. 102–366, title II, §222(a), Sept. 4, 1992, 106 Stat. 999; Pub. L. 103–355, title IV, §4404(a), title VII, §7106(d), Oct. 13, 1994, 108 Stat. 3349, 3376; Pub. L. 103–403, title III, §301, Oct. 22, 1994, 108 Stat. 4187; Pub. L. 104–208, div. D, title I, §104(b)(1), Sept. 30, 1996, 110 Stat. 3009–730; Pub. L. 105–135, title IV, §412, title VI, §602(a), Dec. 2, 1997, 111 Stat. 2617, 2627; Pub. L. 106–50, title I, §103(a), title IV, §401(a), Aug. 17, 1999, 113 Stat. 234, 243.)
+(Pub. L. 85–536, §2\[3\], July 18, 1958, 72 Stat. 384; Pub. L. 94–305, title I, §112(b), June 4, 1976, 90 Stat. 667; Pub. L. 95–507, title II, §224(b), Oct. 24, 1978, 92 Stat. 1772; Pub. L. 96–302, title V, §504, July 2, 1980, 94 Stat. 851; Pub. L. 96–481, title I, §108, Oct. 21, 1980, 94 Stat. 2323; Pub. L. 97–35, title XIX, §1903, Aug. 13, 1981, 95 Stat. 771; Pub. L. 98–270, title III, §310, Apr. 18, 1984, 98 Stat. 161; Pub. L. 98–362, §6, July 16, 1984, 98 Stat. 434; Pub. L. 98–473, title I, §111A(b), Oct. 12, 1984, 98 Stat. 1966; Pub. L. 99–272, title XVIII, §18016, Apr. 7, 1986, 100 Stat. 371; Pub. L. 99–500, §101(c) \[title X, §921(f)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–149, and Pub. L. 99–591, §101(c) \[title X, §921(f)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–149; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–661, div. A, title IX, formerly title IV, §921(f), Nov. 14, 1986, 100 Stat. 3929, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §10(b)(2), Apr. 21, 1987, 101 Stat. 288; Pub. L. 100–456, div. A, title VIII, §845, Sept. 29, 1988, 102 Stat. 2027; Pub. L. 100–590, title I, §119(b), Nov. 3, 1988, 102 Stat. 2999; Pub. L. 100–656, title VII, §732, Nov. 15, 1988, 102 Stat. 3897; Pub. L. 101–510, div. A, title VIII, §806(e)(1), Nov. 5, 1990, 104 Stat. 1592; Pub. L. 102–366, title II, §222(a), Sept. 4, 1992, 106 Stat. 999; Pub. L. 103–355, title IV, §4404(a), title VII, §7106(d), Oct. 13, 1994, 108 Stat. 3349, 3376; Pub. L. 103–403, title III, §301, Oct. 22, 1994, 108 Stat. 4187; Pub. L. 104–208, div. D, title I, §104(b)(1), Sept. 30, 1996, 110 Stat. 3009–730; Pub. L. 105–135, title IV, §412, title VI, §602(a), Dec. 2, 1997, 111 Stat. 2617, 2627; Pub. L. 106–50, title I, §103(a), title IV, §401(a), Aug. 17, 1999, 113 Stat. 234, 243; Pub. L. 106–554, §1(a)(9) \[title VI, §§602–604, 611, 612(b)–615(a), title VIII, §806(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–697 to 2763A–701, 2763A–706.)
 
 #### References in Text
 
 The Agricultural Marketing Act (12 U.S.C. 1141j), referred to in subsec. (j), is act June 15, 1929, ch. 24, 46 Stat. 11, as amended, which is classified generally to chapter 7A (§1141 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1141j(f) of Title 12 and Tables.
+
+The Community Economic Development Act of 1981, referred to in subsec. (p)(3)(D)(i), is subchapter A (§§611–633) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 489, as amended. Part 1 of subchapter A of the Act is classified generally to part A (§9805 et seq.) of subchapter I of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
 
 #### Codification
 
@@ -313,6 +373,44 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 Prior similar provisions were contained in section 203 of act July 30, 1953, ch. 282, title II, 67 Stat. 233, which was previously classified to this section. See Codification note set out under section 631 of this title.
 
 #### Amendments
+
+2000—Subsec. (a)(1). Pub. L. 106–554, §1(a)(9) \[title VIII, §806(b)\], substituted “$750,000” for “$500,000”.
+
+Subsec. (p)(1)(D). Pub. L. 106–554, §1(a)(9) \[title VI, §613(1)\], added subpar. (D).
+
+Subsec. (p)(3). Pub. L. 106–554, §1(a)(9) \[title VI, §602\], amended heading and text of par. (3) generally, substituting present provisions for provisions which had defined “HUBZone small business concern” as a small business concern that is owned and controlled by 1 or more persons, each of whom is a United States citizen, and the principal office of which is located in a HUBZone.
+
+Subsec. (p)(3)(D). Pub. L. 106–554, §1(a)(9) \[title VI, §614(1)\], added subpar. (D).
+
+Subsec. (p)(4)(A). Pub. L. 106–554, §1(a)(9) \[title VI, §611(a)\], substituted “section 42(d)(5)(C)(ii)” for “section 42(d)(5)(C)(ii)(I)”.
+
+Subsec. (p)(4)(B). Pub. L. 106–554, §1(a)(9) \[title VI, §611(b)\], added subpar. (B) and struck out heading andtext of former subpar. (B). Text read as follows: “The term ‘qualified nonmetropolitan county’ means any county—
+
+&emsp;“(i) that, based on the most recent data available from the Bureau of the Census of the Department of Commerce—
+
+&emsp;&emsp;“(I) is not located in a metropolitan statistical area (as defined in section 143(k)(2)(B) of title 26); and
+
+&emsp;&emsp;“(II) in which the median household income is less than 80 percent of the nonmetropolitan State median household income; or
+
+&emsp;“(ii) that, based on the most recent data available from the Secretary of Labor, has an unemployment rate that is not less than 140 percent of the statewide average unemployment rate for the State in which the county is located.”
+
+Subsec. (p)(4)(C). Pub. L. 106–554, §1(a)(9) \[title VI, §613(2)\], added subpar. (C).
+
+Subsec. (p)(5)(A)(i)(I). Pub. L. 106–554, §1(a)(9) \[title VI, §603(a)\], added subcl. (I) and struck out former subcl. (I) which read as follows: “it is a HUBZone small business concern;”.
+
+Subsec. (p)(5)(A)(i)(I)(aa). Pub. L. 106–554, §1(a)(9) \[title VI, §614(2)\], substituted “subparagraph (A), (B), or (D)” for “subparagraph (A) or (B)”.
+
+Subsec. (p)(5)(A)(i)(II). Pub. L. 106–554, §1(a)(9) \[title VI, §603(a)\], added subcl. (II) and struck out former subcl. (II) which read as follows: “not less than 35 percent of the employees of the small business concern reside in a HUBZone, and the small business concern will attempt to maintain this employment percentage during the performance of any contract awarded to the small business concern on the basis of a preference provided under section 657a(b) of this title; and”.
+
+Subsec. (p)(5)(A)(i)(III)(cc). Pub. L. 106–554, §1(a)(9) \[title VI, §612(b)(1)\], added item (cc).
+
+Subsec. (p)(5)(C). Pub. L. 106–554, §1(a)(9) \[title VI, §615(a)\], which directed amendment of subpar. (C) by substituting “items (aa) and (bb) of subparagraph (A)(i)(III)” for “subclause (IV) and (V) of subparagraph (A)(i)”, was executed by making the substitution for “subclauses (IV) and (V) of subparagraph (A)(i)”, to reflect the probable intent of Congress.
+
+Subsec. (p)(5)(D)(i). Pub. L. 106–554, §1(a)(9) \[title VI, §603(b)\], inserted “once the Administrator has made the certification required by subparagraph (A)(i) regarding a qualified HUBZone small business concern and has determined that subparagraph (A)(ii) does not apply to that concern,” before “include”.
+
+Subsec. (p)(6). Pub. L. 106–554, §1(a)(9) \[title VI, §604\], added par. (6).
+
+Subsec. (p)(7). Pub. L. 106–554, §1(a)(9) \[title VI, §612(b)(2)\], added par. (7).
 
 1999—Subsec. (f). Pub. L. 106–50, §401(a), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “For purposes of section 636 of this title, the term ‘handicapped individual’ means a person who has a physical, mental, or emotional impairment, defect, ailment, disease, or disability of a permanent nature which in any way limits the selection of any type of employment for which the person would otherwise be qualified or qualifiable.”
 
@@ -340,7 +438,7 @@ Subsec. (m). Pub. L. 103–355, §4404(a), substituted “ ‘simplified acquis
 
 Subsec. (n). Pub. L. 103–355, §7106(d), added subsec. (n).
 
-1992—Subsec. (a). Pub. L. 102–366 added pars. (2) and (3) and struck out at end of par. (1) “In addition to theforegoing criteria the Administrator, in making a detailed definition, may use these criteria, among others: Number of employees and dollar volume of business: <i>Provided</i>, That the Administration shall not promulgate, amend, or rescind any rule \[or\] regulation with respect to size standards prior to March 31, 1981. Where the number of employees is used as one of the criteria in making such definition for any of the purposes of this chapter, the maximum number of employees which a small-business concern may have under the definition shall vary from industry to industry to the extent necessary to reflect differing characteristics of such industries and to take proper account of other relevant factors.”
+1992—Subsec. (a). Pub. L. 102–366 added pars. (2) and (3) and struck out at end of par. (1) “In addition to the foregoing criteria the Administrator, in making a detailed definition, may use these criteria, among others: Number of employees and dollar volume of business: <i>Provided</i>, That the Administration shall not promulgate, amend, or rescind any rule \[or\] regulation with respect to size standards prior to March 31, 1981. Where the number of employees is used as one of the criteria in making such definition for any of the purposes of this chapter, the maximum number of employees which a small-business concern may have under the definition shall vary from industry to industry to the extent necessary to reflect differing characteristics of such industries and to take proper account of other relevant factors.”
 
 1990—Subsec. (m). Pub. L. 101–510 added subsec. (m).
 
@@ -362,7 +460,7 @@ Pub. L. 99–272 inserted proviso that notwithstanding any other provision of la
 
 Subsec. (c)(2)(A), (3)(B)(i), (iv). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-1984—Subsec. (j). Pub. L. 98–473 in subsec. (j) added by Pub. L. 98–270 substituted “as a business concern and shall not include the income or employees of any member shareholder of such cooperative” for “as an entity and shall not include the income or employees of any member shareholder of such cooperative: <i>Provided</i>, That such an association shall not be deemed to be a small agricultural cooperative unless each member of the board of directors of the association, or each member of the governing body of the association if it is not incorporated, also individually qualifies as a small business concern”.
+1984—Subsec. (j). Pub. L. 98–473 in subsec. (j) added by Pub. L. 98–270 substituted “as a business concern and shall not include the income or employees of any member shareholder of such cooperative” for “as an entity and shall not include the income or employees of any member shareholder of such cooperative: <i>Provided</i>,That such an association shall not be deemed to be a small agricultural cooperative unless each member of the board of directors of the association, or each member of the governing body of the association if it is not incorporated, also individually qualifies as a small business concern”.
 
 Pub. L. 98–362 added subsec. (j) defining “computer crime”.
 
@@ -408,7 +506,7 @@ Initial Review of Size Standards.—(1) Paragraph (2) of section 3(a) of the Sma
 
 “(2) The first review conducted by the Administrator under such paragraph shall review the periods beginning on October 1, 1983, and ending on September 30, 1986, and shall be completed not later than 180 days after the date of the enactment of this Act.
 
-“(3) If the Administrator of the Small Business Administration determines, on the basis of the review referred to in paragraph (2), that contracts awarded under the set-aside programs under sections 8(a) and 15(a) of the Small Business Act \[15 U.S.C. 637(a), 644(a)\] in any industry category subject to that review exceed 30 percent of the dollar value of the total contract awards for that industry category, as determined in accordance with the last sentence of section 15(a)(3) of such Act, the Administrator shall propose adjustments to the size standards for such industry category establishing eligibility for a set-aside program to a size that will likely reduce the number of contracts which may be set aside to approximately 30 percent of the dollar value of the contracts to be awarded in that industry category. The Administrator shall publish proposed regulations, including any revised size standards, in the Federal Register by November 30, 1987, or the date of enactment of the National Defense Authorization Act for Fiscal Years 1988 and 1989 \[Pub. L. 100–180, Dec. 4, 1987\], whichever is later. The proposed regulations shallprovide not less than 60 days for public comment. The Administrator shall issue final regulations not later than May 31, 1988.
+“(3) If the Administrator of the Small Business Administration determines, on the basis of the review referred to in paragraph (2), that contracts awarded under the set-aside programs under sections 8(a) and 15(a) of the Small Business Act \[15 U.S.C. 637(a), 644(a)\] in any industry category subject to that review exceed 30 percent of the dollar value of the total contract awards for that industry category, as determined in accordance with the last sentence of section 15(a)(3) of such Act, the Administrator shall propose adjustments to the size standards for such industry category establishing eligibility for a set-aside program to a size that will likely reduce the number of contracts which may be set aside to approximately 30 percent of the dollar value of the contracts to be awarded in that industry category. The Administrator shall publish proposed regulations, including any revised size standards, in the Federal Register by November 30, 1987, or the date of enactment of the National Defense Authorization Act for Fiscal Years 1988 and 1989 \[Pub. L. 100–180, Dec. 4, 1987\], whichever is later. The proposed regulations shall provide not less than 60 days for public comment. The Administrator shall issue final regulations not later than May 31, 1988.
 
 #### Effective Date of 1984 Amendments
 
@@ -458,7 +556,7 @@ Section 101(c) \[title X, §921(i)\] of Pub. L. 99–500 and Pub. L. 99–591, a
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 78c, 631b, 634b, 636, 637, 638, 644, 657a, 662, 694b, 695, 3703, 4721, 4724 of this title; title 5 section 601; title 7 section 5623; title 10 sections 2319, 2323; title 12 sections 635, 1441a, 1835, 3013; title 13 section 91; title 22 section 6729; title 29 section 3031; title 31 sections 3554, 3718, 6701; title 35 sections 41, 201; title 41 sections 253c, 405, 417a; title 42 sections 300u, 5302, 6322, 7261b, 12002, 13556; title 49 sections 47107, 47113; title 50 App. section 2152.
+This section is referred to in sections 78c, 631b, 634b, 636, 637, 638, 644, 657a, 662, 689, 694b, 695, 3703, 4721, 4724, 7101 of this title; title 5 section 601; title 7 section 5623; title 10 sections 2225, 2319, 2323; title 12 sections 635, 1441a, 1835, 3013; title 13 section 91; title 22 section 6729; title 29 section 3031; title 31 sections 3554, 3718, 6701; title 35 sections 41, 201; title 41 sections 253c, 405, 417a; title 42 sections 300u, 5302, 6322, 7261b, 12002, 13556; title 49 sections 47107, 47113; title 50 App. section 2152.
 
 <i><sup>1</sup></i><i> So in original. No par. (2) has been enacted.</i>
 

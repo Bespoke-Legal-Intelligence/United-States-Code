@@ -26,10 +26,6 @@ A prior section 3347, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 426, provided fo
 
 Section effective 30 days after Oct. 21, 1998, and applicable to any office that becomes vacant after such effective date, with certain exceptions, see section 151(d) of Pub. L. 105–277, set out as a note under section 3345 of this title.
 
-#### Cross References
-
-Additional pay prohibited for officer performing duties of vacant office as authorized by this section, see section 5535 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 3345, 3348, 3349, 3349b, 3349c, 3349d, 5535 of this title; title 10 sections 3017, 5017, 8017.

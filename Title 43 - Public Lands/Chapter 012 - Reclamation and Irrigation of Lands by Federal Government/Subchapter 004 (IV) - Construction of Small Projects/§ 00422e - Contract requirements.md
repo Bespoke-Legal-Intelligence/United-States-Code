@@ -12,7 +12,7 @@ Upon approval of any project proposal by the Secretary under the provisions of s
 
 &emsp;&emsp;(B) which is allocated to domestic, industrial, or municipal water supply, commercial power, fish and wildlife enhancement, or public recreation except that portion of such allocation attributable to furnishing benefits to a facility operated by an agency of the United States, which portion shall bear no interest.<sup>1</sup>
 
-&emsp;(d) provision for operation of the project, if a grant predicated upon its performance of nonreimbursable functions is made, in accordance with regulations with respect thereto prescribed by the head of the Federal department or agency primarily concerned with those functions and, in the event of noncompliance with such regulations, for operation by the United States or for repayment to the United States of the amount of any such grant;
+&emsp;(d) provision for operation of the project, if a grant predicated upon its performance of nonreimbursable functions is made, in accordance with regulations with respect thereto prescribed by the head of the Federal department or agency primarily concerned with those functions and, in the event of noncompliance with such regulations, for operation by the United States or for repayment tothe United States of the amount of any such grant;
 
 &emsp;(e) such provisions as the Secretary shall deem necessary or proper to provide assurance of and security for prompt repayment of the loan and interest as aforesaid. The liability of the United States under any contract entered into pursuant to this subchapter shall be contingent upon the availability of appropriations to carry out the same, and every such contract shall so recite; and
 

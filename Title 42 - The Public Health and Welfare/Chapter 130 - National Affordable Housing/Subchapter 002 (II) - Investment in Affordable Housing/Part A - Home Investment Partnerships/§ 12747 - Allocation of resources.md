@@ -38,13 +38,13 @@
 
 #### (F) Consultation
 
-&emsp;&emsp;The Secretary shall develop the formula in subparagraph (A) in ongoing consultation with (i) the Subcommittee on Housing and Urban Affairs of the Committee on Banking, Housing, and Urban Affairs of the Senate,\(ii) the Subcommittee on Housing and Community Development of the Committee on Banking, Finance and Urban Affairs of the House of Representatives, and (iii) organizations representing States and units of general local government. Not less than 60 days prior to publishing a formula for comment, the Secretary shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives a copy of the formula the Secretary intends to propose.
+&emsp;&emsp;The Secretary shall develop the formula in subparagraph (A) in ongoing consultation with (i) the Subcommittee on Housing and Urban Affairs of the Committee on Banking, Housing, and Urban Affairs of the Senate, (ii) the Subcommittee on Housing and Community Development of the Committee on Banking, Finance and Urban Affairs of the House of Representatives, and (iii) organizations representing States and units of general local government. Not less than 60 days prior to publishing a formula for comment, the Secretary shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives a copy of the formula the Secretary intends to propose.
 
 #### (2) Minimum State allocation
 
 #### (A) In general
 
-&emsp;&emsp;If the formula, when applied to funds approved under this section in appropriations Acts for a fiscal year, would allocate less than $3,000,000 to any State, the allocation for such State shall be $3,000,000, and the increase shall be deducted pro rata from the allocations of other States.
+&emsp;&emsp;If the formula, when applied to funds approved under this section in appropriationsActs for a fiscal year, would allocate less than $3,000,000 to any State, the allocation for such State shall be $3,000,000, and the increase shall be deducted pro rata from the allocations of other States.
 
 #### (B) Increased minimum allocation
 
@@ -138,7 +138,7 @@ Pub. L. 102–550, §211(a)(2)(B), struck out par. (3), as added by Pub. L. 102�
 
 Subsec. (b)(1)(A). Pub. L. 102–550, §203(b)(1), (6), redesignated subpar. (B) as (A) and struck out former subpar. (A) which provided for a formula for allocation of funds for production of affordable rental housing through new construction or substantial rehabilitation.
 
-Pub. L. 102–273 added cl. (iii) reading as follows: “Notwithstanding clauses (i) and (ii), any jurisdiction receiving amounts made available under such clause may, at the discretion of the jurisdiction, use such amounts for other eligible uses in accordance with section 12742 of this title if the jurisdiction determines that such use will better meet the housing needs within the jurisdiction. This clause shall be effective only with respect to funds provided under the Departmentsof Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1992 (Public Law 102–139; 105 Stat. 744), which suspends the requirement of contributions by participating jurisdictions, and shall become ineffective if such requirement is reimposed.”
+Pub. L. 102–273 added cl. (iii) reading as follows: “Notwithstanding clauses (i) and (ii), any jurisdiction receiving amounts made available under such clause may, at the discretion of the jurisdiction, use such amounts for other eligible uses in accordance with section 12742 of this title if the jurisdiction determines that such use will better meet the housing needs within the jurisdiction. This clause shall be effective only with respect to funds provided under the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1992 (Public Law 102–139; 105 Stat. 744), which suspends the requirement of contributions by participating jurisdictions, and shall become ineffective if such requirement is reimposed.”
 
 Subsec. (b)(1)(B), (C). Pub. L. 102–550, §203(b)(6), redesignated subpars. (C) and (D) as (B) and (C), respectively. Former subpar. (B) redesignated (A).
 
@@ -168,7 +168,7 @@ Subsec. (a)(3). Pub. L. 102–229 and Pub. L. 102–230, §1(2), which were enac
 
 #### Change of Name
 
-Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Effective Date of 1996 Amendment
 
@@ -192,7 +192,7 @@ Section 211(a)(3) of Pub. L. 102–550 provided that: “The regulation referred
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 12705c, 12746, 12748, 12749, 12771, 12831 of this title.
+This section is referred to in sections 12746, 12748, 12749, 12771, 12831 of this title.
 
 <i><sup>1</sup></i><i> See 1992 Amendment note below.</i>
 

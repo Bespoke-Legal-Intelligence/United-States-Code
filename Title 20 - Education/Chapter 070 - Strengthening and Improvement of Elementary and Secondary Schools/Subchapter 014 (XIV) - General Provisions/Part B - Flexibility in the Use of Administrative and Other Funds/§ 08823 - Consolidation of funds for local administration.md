@@ -2,7 +2,7 @@
 
 #### (a) General authority
 
-In accordance with regulations of the Secretary, a local educational agency, with the approval of its State educational agency, may consolidate and use for the administration of one or more covered programs for any fiscal year not more than the percentage, established in each covered program, of the total amount available to the local educational agency under such covered programs.
+In accordance with regulations of the Secretary, a local educational agency, with the approval of its State educational agency, may consolidate and use for the administration of one or more covered programs for any fiscal year not more than the percentage, established in each covered program, of the total amount availableto the local educational agency under such covered programs.
 
 #### (b) State procedures
 
@@ -18,7 +18,7 @@ A local educational agency that consolidates administrative funds under this sec
 
 #### (e) Records
 
-A local educational agency that consolidates administrative funds under this section shallnot be required to keep separate records, by individual covered program, to account for costs relating to the administration of covered programs included in the consolidation.
+A local educational agency that consolidates administrative funds under this section shall not be required to keep separate records, by individual covered program, to account for costs relating to the administration of covered programs included in the consolidation.
 
 (Pub. L. 89–10, title XIV, §14203, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3892.)
 

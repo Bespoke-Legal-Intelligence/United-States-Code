@@ -13,10 +13,13 @@
 | [9780\.](%C2%A7%2009780%20-%20Acquisition%20of%20buildings%20in%20District%20of%20Columbia.md) | Acquisition of buildings in District of Columbia. |
 | [9781\.](%C2%A7%2009781%20-%20Disposition%20of%20real%20property%20at%20missile%20sites.md) | Disposition of real property at missile sites. |
 | [9782\.](%C2%A7%2009782%20-%20Maintenance%20and%20repair%20of%20real%20property.md) | Maintenance and repair of real property. |
+| [9783\.](%C2%A7%2009783%20-%20Johnston%20Atoll%20reimbursement%20for%20support%20provided%20to%20civil%20air%20carriers.md) | Johnston Atoll: reimbursement for support provided to civil air carriers. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2000—Pub. L. 106–398, §1 \[\[div. A\], title III, §383(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–86, added item 9783.
 
 1997—Pub. L. 105–85, div. A, title II, §242(b), Nov. 18, 1997, 111 Stat. 1667, added item 9782.
 
@@ -31,12 +34,6 @@
 1971—Pub. L. 92–145, title V, §509(b), Oct. 27, 1971, 85 Stat. 408, struck out item 9775 “Quarters: officers”.
 
 1958—Pub. L. 85–861, §1(203)(B), Sept. 2, 1958, 72 Stat. 1542, added item 9780.
-
-#### Cross References
-
-General military law provisions, see section 2662 et seq. of this title.
-
-Property records, see section 2721 of this title.
 
 
 ---
@@ -55,3 +52,4 @@ Property records, see section 2721 of this title.
 - [&sect; 09780 - Acquisition of buildings in District of Columbia](%C2%A7%2009780%20-%20Acquisition%20of%20buildings%20in%20District%20of%20Columbia.md)
 - [&sect; 09781 - Disposition of real property at missile sites](%C2%A7%2009781%20-%20Disposition%20of%20real%20property%20at%20missile%20sites.md)
 - [&sect; 09782 - Maintenance and repair of real property](%C2%A7%2009782%20-%20Maintenance%20and%20repair%20of%20real%20property.md)
+- [&sect; 09783 - Johnston Atoll reimbursement for support provided to civil air carriers](%C2%A7%2009783%20-%20Johnston%20Atoll%20reimbursement%20for%20support%20provided%20to%20civil%20air%20carriers.md)

@@ -46,7 +46,7 @@ The functions of the Administrator shall include—
 
 &emsp;&emsp;(A) foster and promote the development of a professional acquisition workforce Government-wide;
 
-&emsp;&emsp;(B) promote and coordinate Government-wide research and studies to improve theprocurement process and the laws, policies, methods, regulations, procedures, and forms relating to acquisition by the executive agencies;
+&emsp;&emsp;(B) promote and coordinate Government-wide research and studies to improve the procurement process and the laws, policies, methods, regulations, procedures, and forms relating to acquisition by the executive agencies;
 
 &emsp;&emsp;(C) collect data and analyze acquisition workforce data from the Office of Personnel Management, the heads of executive agencies, and, through periodic surveys, from individual employees;
 
@@ -176,7 +176,7 @@ Pub. L. 104–106, §4307(b)(1), redesignated par. (10) as (11). Former par. (11
 
 Subsec. (d)(12). Pub. L. 104–106, §4307(b)(1), redesignated par. (11) as (12). Former par. (12) redesignated (13).
 
-Subsec. (d)(13). Pub. L. 104–106, §4321(h)(1), which directed transferring par. (12) to end of subsec. (d), was executed by transferring par. (13) to end of subsec. (d) to reflect the probable intent of Congress and the redesignation of par. (12) as (13) by Pub. L. 104–106, §4307(b)(1). See below.
+Subsec. (d)(13). Pub. L. 104–106, §4321(h)(1), which directed transferring par. (12) to end of subsec. (d), wasexecuted by transferring par. (13) to end of subsec. (d) to reflect the probable intent of Congress and the redesignation of par. (12) as (13) by Pub. L. 104–106, §4307(b)(1). See below.
 
 Pub. L. 104–106, §4307(b)(1), redesignated par. (12) as (13).
 
@@ -258,7 +258,7 @@ Definitions.—In this section, the term ‘bundling of contract requirements’
 
 Section 1091(b)(1) of Pub. L. 103–355 provided that: “Congress makes the following findings:
 
-&emsp;“(A) Past contract performance of an offeror is one of the relevant factors that a contracting official of an executive agency should consider in awarding a contract.
+&emsp;“(A) Past contract performance of an offeror is one of the relevant factors that a contracting official ofan executive agency should consider in awarding a contract.
 
 &emsp;“(B) It is appropriate for a contracting official to consider past contract performance of an offeror as an indicator of the likelihood that the offeror will successfully perform a contract to be awarded by that official.”
 

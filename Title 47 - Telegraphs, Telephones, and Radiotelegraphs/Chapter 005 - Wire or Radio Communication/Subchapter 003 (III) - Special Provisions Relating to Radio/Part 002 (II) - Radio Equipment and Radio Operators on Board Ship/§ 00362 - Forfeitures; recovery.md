@@ -22,11 +22,3 @@ Subsec. (b). Pub. L. 101–239, §3002(g)(2), substituted “$1,000” for “$1
 
 Section effective May 20, 1937, see section 16 of act May 20, 1937, set out as a note under section 351 of this title.
 
-#### Federal Rules of Civil Procedure
-
-Admiralty and maritime rules of practice (which included libel procedures) were superseded, and civil and admiralty procedures in United States district courts were unified, effective July 1, 1966, see rule 1 and Supplemental Rules for Certain Admiralty and Maritime Claims, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-#### Cross References
-
-Mode of recovery of forfeitures generally, see section 2461 of Title 28, Judiciary and Judicial Procedure.
-

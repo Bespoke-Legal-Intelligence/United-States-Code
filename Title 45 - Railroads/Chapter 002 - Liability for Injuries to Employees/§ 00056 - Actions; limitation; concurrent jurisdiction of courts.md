@@ -26,13 +26,3 @@ The second par. of this section is from act Apr. 5, 1910.
 
 Section 38 of act June 25, 1948, provided that the amendment made by that act is effective Sept. 1, 1948.
 
-#### Cross References
-
-Actions in State courts not removable to federal courts, see section 1445 of Title 28, Judiciary and Judicial Procedure.
-
-Venue of district court—
-
-&emsp;&emsp;Generally, see section 1391 et seq. of Title 28.
-
-&emsp;&emsp;Change of venue, see section 1404 of Title 28.
-

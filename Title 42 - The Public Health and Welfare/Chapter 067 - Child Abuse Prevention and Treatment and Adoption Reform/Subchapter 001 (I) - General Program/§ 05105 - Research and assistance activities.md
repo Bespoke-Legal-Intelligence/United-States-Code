@@ -102,7 +102,7 @@
 
 #### (3) Notice of approval
 
-&emsp;(A) The Secretary shall provide grants and contracts under this section from among theprojects which the peer review panels established under paragraph (1)(A) have determined to have merit.
+&emsp;(A) The Secretary shall provide grants and contracts under this section from among the projects which the peer review panels established under paragraph (1)(A) have determined to have merit.
 
 &emsp;(B) In the instance in which the Secretary approves an application for a program without having approved all applications ranked above such application (as determined under paragraph (2)(B)), the Secretary shall append to the approved application a detailed explanation of the reasons relied on for approving the application and for failing to approve each pending application that is superior in merit, as indicated on the list under paragraph (2)(B).
 

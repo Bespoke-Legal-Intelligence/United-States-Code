@@ -1,16 +1,24 @@
 ### §47131. Annual report
 
-Not later than April 1 of each year, the Secretary of Transportation shall submit to Congress a report on activities carried out under this subchapter during the prior fiscal year. The report shall include—
+(a)
+
+General Rule.—Not later than April 1 of each year, the Secretary of Transportation shall submit to Congress a report on activities carried out under this subchapter during the prior fiscal year. The report shall include—
 
 &emsp;(1) a detailed statement of airport development completed;
 
 &emsp;(2) the status of each project undertaken;
 
-&emsp;(3) the allocation of appropriations; and
+&emsp;(3) the allocation of appropriations;
 
-&emsp;(4) an itemized statement of expenditures and receipts.
+&emsp;(4) an itemized statement of expenditures and receipts; and
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1278, §47129; renumbered §47131, Pub. L. 103–305, title I, §113(a)(1), Aug. 23, 1994, 108 Stat. 1577.)
+&emsp;(5) a detailed statement listing airports that the Secretary believes are not in compliance with grant assurances or other requirements with respect to airport lands and including the circumstances of such noncompliance, the timelines for corrective action, and the corrective action the Secretary intends to take to bring the airport sponsor into compliance.
+
+(b)
+
+Special Rule for Listing Noncompliant Airports.—The Secretary does not have to conduct an audit or make a final determination before including an airport on the list referred to in subsection (a)(5).
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1278, §47129; renumbered §47131, Pub. L. 103–305, title I, §113(a)(1), Aug. 23, 1994, 108 Stat. 1577; amendedPub. L. 106–181, title VII, §722, Apr. 5, 2000, 114 Stat. 165.)
 
 Historical and Revision Notes
 
@@ -32,5 +40,11 @@ In this section, before clause (1), the words “on activities carried out” ar
 
 #### Amendments
 
+2000—Pub. L. 106–181 designated existing provisions as subsec. (a), inserted heading, added par. (5) of subsec. (a), and added subsec. (b).
+
 1994—Pub. L. 103–305 renumbered section 47129 of this title as this section.
+
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
 

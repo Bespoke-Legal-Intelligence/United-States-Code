@@ -92,7 +92,7 @@ Subsec. (b). Pub. L. 95–372, §503(f), substituted “subsections (b) and (c)(
 
 Subsec. (a)(2). Pub. L. 94–370, §14, substituted provisions authorizing appropriations of sums not to exceed $50,000,000 for each of the fiscal years ending Sept. 30, 1977, Sept. 30, 1978, Sept. 30, 1979, and Sept. 30, 1980 for provisions authorizing appropriations of sums not to exceed $30,000,000 for the fiscal year ending June 30, 1974, and for each of the fiscal years 1975 through 1977.
 
-Subsec. (a)(3). Pub. L. 94–370, §14, substituted provisions authorizing appropriations of sums not to exceed $50,000,000 for each of the 8 fiscal years occurring during the period beginning Oct. 1, 1976, and ending Sept. 30, 1984, as may be necessary for grants under section 1456a(b) of this title for provisions authorizing appropriations of sums not to exceed $6,000,000 for the fiscal year ending June 30, 1974, as may be necessary for grants under section 1461 of this title, to remain available until expended.
+Subsec. (a)(3). Pub. L. 94–370, §14, substituted provisions authorizing appropriations of sums not to exceed $50,000,000 for each of the 8 fiscal years occurring during the period beginning Oct. 1, 1976, and ending Sept. 30, 1984, as may be necessary for grants under section 1456a(b) of this title for provisions authorizing appropriations of sums not to exceed $6,000,000 for the fiscalyear ending June 30, 1974, as may be necessary for grants under section 1461 of this title, to remain available until expended.
 
 Subsec. (a)(4) to (8). Pub. L. 94–370, §14, added pars. (4) to (8).
 

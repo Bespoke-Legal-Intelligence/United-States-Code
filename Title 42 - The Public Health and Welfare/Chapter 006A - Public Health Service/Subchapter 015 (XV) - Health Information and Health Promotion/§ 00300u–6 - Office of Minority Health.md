@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-There is established an Office of Minority Health within the Office of Public Health and Science. There shall be in the Department of Health and Human Services a Deputy Assistant Secretary for Minority Health, who shall be the head of the Office of Minority Health. The Secretary, acting through such Deputy Assistant Secretary, shall carry out this section.
+There is established an Office of Minority Health within the Office of Public Health andScience. There shall be in the Department of Health and Human Services a Deputy Assistant Secretary for Minority Health, who shall be the head of the Office of Minority Health. The Secretary, acting through such Deputy Assistant Secretary, shall carry out this section.
 
 #### (b) Duties
 
@@ -34,6 +34,8 @@ With respect to improving the health of racial and ethnic minority groups, the S
 
 &emsp;(9) Carry out programs to improve access to health care services for individuals with limited proficiency in speaking the English language. Activities under the preceding sentence shall include developing and evaluating model projects.
 
+&emsp;(10) Advise in matters related to the development, implementation, and evaluation of health professions education in decreasing disparities in health care outcomes, including cultural competency as a method of eliminating health disparities.
+
 #### (c) Advisory Committee
 
 #### (1) In general
@@ -42,7 +44,7 @@ With respect to improving the health of racial and ethnic minority groups, the S
 
 #### (2) Duties
 
-&emsp;The Committee shall provide advice to the Deputy Assistant Secretary carrying out this section, including advice on the development of goals and specific program activities under paragraphs (1) through (9) of subsection (b) of this section for each racial and ethnic minority group.
+&emsp;The Committee shall provide advice to the Deputy Assistant Secretary carrying out this section, including advice on the development of goals and specific program activities under paragraphs (1) through (10) of subsection (b) of this section for each racial and ethnic minority group.
 
 #### (3) Chair
 
@@ -70,13 +72,19 @@ With respect to improving the health of racial and ethnic minority groups, the S
 
 #### (d) Certain requirements regarding duties
 
-#### (1) Recommendations regarding language as impediment to health care
+#### (1) Recommendations regarding language
 
-&emsp;The Deputy Assistant Secretary for Minority Health shall consult with the Director of the Office of International and Refugee Health, the Director of the Office of Civil Rights, and the Directors of other appropriate departmental entities regarding recommendations for carrying out activities under subsection (b)(9) of this section.
+#### (A) Proficiency in speaking English
+
+&emsp;&emsp;The Deputy Assistant Secretary shall consult with the Director of the Office of International and Refugee Health, the Director of the Office of Civil Rights, and the Directors of other appropriate departmental entities regarding recommendations for carrying out activities under subsection (b)(9) of this section.
+
+#### (B) Health professions education regarding health disparities
+
+&emsp;&emsp;The Deputy Assistant Secretary shall carry out the duties under subsection (b)(10) of this section in collaboration with appropriate personnel of the Department of Health and Human Services, other Federal agencies, and other offices, centers, and institutions, as appropriate, that have responsibilities under the Minority Health and Health Disparities Research and Education Act of 2000.
 
 #### (2) Equitable allocation regarding activities
 
-&emsp;In carrying out subsection (b) of this section, the Secretary shall ensure that servicesprovided under such subsection are equitably allocated among all groups served under this section by the Secretary.
+&emsp;In carrying out subsection (b) of this section, the Secretary shall ensure that services provided under such subsection are equitably allocated among all groups served under this section by the Secretary.
 
 #### (3) Cultural competency of services
 
@@ -110,7 +118,7 @@ With respect to improving the health of racial and ethnic minority groups, the S
 
 For purposes of this section:
 
-&emsp;(1) The term “racial and ethnic minority group” means American Indians (including Alaska Natives, Eskimos, and Aleuts); Asian Americans and Pacific Islanders; Blacks; and Hispanics.
+&emsp;(1) The term “racial and ethnic minority group” means American Indians (including Alaska Natives, Eskimos, and Aleuts); Asian Americans; Native Hawaiians and other Pacific Islanders; Blacks; and Hispanics.
 
 &emsp;(2) The term “Hispanic” means individuals whose origin is Mexican, Puerto Rican, Cuban, Central or South American, or any other Spanish-speaking country.
 
@@ -120,19 +128,29 @@ For purposes of this section:
 
 Authorization of appropriations.—For the purpose of carrying out this section, there are authorized to be appropriated $30,000,000 for fiscal year 1998, and such sums as may be necessary for each of the fiscal years 1999 through 2002.
 
-(July 1, 1944, ch. 373, title XVII, §1707, as added Pub. L. 101–527, §2, Nov. 6, 1990, 104 Stat. 2312; amended Pub. L. 101–557, title IV, §401(a)(1), Nov. 15, 1990, 104 Stat. 2770; Pub. L. 105–392, title II, §201(a), (c), Nov. 13, 1998, 112 Stat. 3582, 3585.)
+(July 1, 1944, ch. 373, title XVII, §1707, as added Pub. L. 101–527, §2, Nov. 6, 1990, 104 Stat. 2312; amended Pub. L. 101–557, title IV, §401(a)(1), Nov. 15, 1990, 104 Stat. 2770; Pub. L. 105–392, title II, §201(a), (c), Nov. 13, 1998, 112 Stat. 3582, 3585; Pub. L. 106–525, title IV, §403, title VI, §601, Nov. 22, 2000, 114 Stat. 2509, 2511.)
 
 #### References in Text
 
 The General Schedule, referred to in subsec. (c)(7), is set out under section 5332 of Title 5, Government Organization and Employees.
 
+The Minority Health and Health Disparities Research and Education Act of 2000, referred to in subsec. (d)(1)(B), is Pub. L. 106–525, Nov. 22, 2000, 114 Stat. 2495. For complete classification of this Act to the Code, see Short Title of 2000 Amendments note set out under section 201 of this title and Tables.
+
 Subsections (e)(3) and (f)(2) of this section, referred to in subsec. (f)(1), was in the original “sections 201(e)(3) and 201(f)(2)”, and was translated to reflect the probable intent of Congress, because section 201 of act July 1, 1944, which is classified to section 202 of this title, does not contain subsections, and subsections (e)(3) and (f)(2) of this section require biennial reporting.
 
 #### Prior Provisions
 
-A prior section 300u–6, act July 1, 1944, ch. 373, title XVII, §1707, as added Nov. 10, 1978, Pub. L. 95–626, title V, §502, 92 Stat. 3593; amended July 10, 1979, Pub. L. 96–32, §6(k), 93 Stat. 84, related to project grants to State Councils on Physical Fitness for physical fitness improvement, prior to repeal by Pub. L. 98–551, §2(c), Oct. 30, 1984, 98 Stat. 2816.
+A prior section 300u–6, act July 1, 1944, ch. 373, title XVII, §1707, as added Nov. 10, 1978, Pub. L. 95–626, title V, §502, 92 Stat. 3593; amended July 10, 1979, Pub. L.96–32, §6(k), 93 Stat. 84, related to project grants to State Councils on Physical Fitness for physical fitness improvement, prior to repeal by Pub. L. 98–551, §2(c), Oct. 30, 1984, 98 Stat. 2816.
 
 #### Amendments
+
+2000—Subsec. (b)(10). Pub. L. 106–525, §403(1), added par. (10).
+
+Subsec. (c)(2). Pub. L. 106–525, §403(2), substituted “paragraphs (1) through (10)” for “paragraphs (1) through (9)”.
+
+Subsec. (d)(1). Pub. L. 106–525, §403(3), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “The Deputy Assistant Secretary for Minority Health shall consult with the Director of the Office of International and Refugee Health, the Director of the Office of Civil Rights, and the Directors of other appropriate departmental entities regarding recommendations for carrying out activities under subsection (b)(9) of this section.”
+
+Subsec. (g)(1). Pub. L. 106–525, §601, substituted “Asian Americans;” for “Asian Americans and” and inserted “Native Hawaiians and other” before “Pacific Islanders;”.
 
 1998—Pub. L. 105–392, §201(c)(1), struck out “Establishment of” before “Office” in section catchline.
 
@@ -144,7 +162,7 @@ Subsecs. (b) to (h). Pub. L. 105–392, §201(a), added subsecs. (b) to (h) and 
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Effective Date of 1990 Amendment
 
@@ -152,7 +170,7 @@ Section 401(a)(2) of Pub. L. 101–557 provided that: “The amendments made by 
 
 #### Termination of Advisory Committees
 
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by thePresident or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 
@@ -187,6 +205,10 @@ Section 1(b) of Pub. L. 101–527 provided that: “The Congress finds that—
 &emsp;“(13) the Report of the Secretary's Task Force on Black and Minority Health (prepared for the Secretary of Health and Human Services and issued in 1985) described the health status problems of minorities, and made recommendations concerning measures that should be implemented by the Secretary with respect to improving the health status of minorities through programs for providing health information and education; and
 
 &emsp;“(14) the Office of Minority Health, created in 1985 by the Secretary of Health and Human Services, should be authorized pursuant to statute and should receive increased funding to support efforts to improve the health of individuals from disadvantaged backgrounds, including minorities, including the implementation of the recommendations made by the Secretary's Task Force on Black and Minority Health.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 287c–31, 299a–1 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

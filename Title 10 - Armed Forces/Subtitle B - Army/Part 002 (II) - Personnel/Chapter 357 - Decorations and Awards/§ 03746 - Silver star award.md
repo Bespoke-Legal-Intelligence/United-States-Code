@@ -56,10 +56,6 @@ By virtue of the authority vested in me as President of the United States and as
 
 5\. This order shall supersede Executive Order No. 9419 of February 4, 1944, entitled “Bronze Star Medal”. However, existing regulations prescribed under that order shall, so far as they are not inconsistent with this order, remain in effect until modified or revoked by regulations prescribed under this order by the Secretary of the department concerned.
 
-#### Cross References
-
-Award of silver star to members of Navy and Air Force, see sections 6244 and 8746 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 3748 of this title.

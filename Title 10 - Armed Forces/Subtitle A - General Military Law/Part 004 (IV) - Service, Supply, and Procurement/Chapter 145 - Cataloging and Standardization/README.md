@@ -19,12 +19,6 @@
 
 1982—Pub. L. 97–295, §1(30)(B), Oct. 12, 1982, 96 Stat. 1296, added item 2457.
 
-#### Cross References
-
-Procurement generally, see section 2301 et seq. of this title.
-
-Property records, basis and reports, see section 2721 of this title.
-
 
 ---
 

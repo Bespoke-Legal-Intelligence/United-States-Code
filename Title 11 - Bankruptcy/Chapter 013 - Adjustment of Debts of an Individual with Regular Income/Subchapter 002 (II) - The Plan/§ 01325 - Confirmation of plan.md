@@ -8,7 +8,7 @@
 
 &emsp;(3) the plan has been proposed in good faith and not by any means forbidden by law;
 
-&emsp;(4) the value, as of the effective date of the plan, of property to be distributed under the plan on account of each allowed unsecured claim is not less than the amount that would be paid on such claim if the estate of the debtor were liquidated under chapter 7 of this title on such date;
+&emsp;(4) the value, as of the effective date of the plan, of property to be distributed under theplan on account of each allowed unsecured claim is not less than the amount that would be paid on such claim if the estate of the debtor were liquidated under chapter 7 of this title on such date;
 
 &emsp;(5) with respect to each allowed secured claim provided for by the plan—
 
@@ -46,7 +46,7 @@ Section 1325(a)(5)(B) of the House amendment modifies the House bill and Senate 
 
 #### senate report no. 95–989
 
-The bankruptcy court must confirm a plan if (1) the plan satisfies the provisions of chapter 13 and other applicable provisions of title 11; (2) it is proposed in goodfaith; (3) it is in the best interests of creditors, and defined by subsection (a)(4) of Section 1325; (4) it has been accepted by the holder of each allowed secured claim provided for the plan or where the holder of any such secured claim is to receive value under the plan not less than the amount of the allowed secured claim, or where the debtor surrenders to the holder the collateral securing any such allowed secured claim; (5) the plan is feasible; and (6) the requisite fees and charges have been paid.
+The bankruptcy court must confirm a plan if (1) the plan satisfies the provisions of chapter 13 and other applicable provisions of title 11; (2) it is proposed in good faith; (3) it is in the best interests of creditors, and defined by subsection (a)(4) of Section 1325; (4) it has been accepted by the holder of each allowed secured claim provided for the plan or where the holder of any such secured claim is to receive value under the plan not less than the amount of the allowed secured claim, or where the debtor surrenders to the holder the collateral securing any such allowed secured claim; (5) the plan is feasible; and (6) the requisite fees and charges have been paid.
 
 Subsection (b) authorizes the court to order an entity, as defined by Section 101(15), to pay any income of the debtor to the trustee. Any governmental unit is an entity subject to such an order.
 

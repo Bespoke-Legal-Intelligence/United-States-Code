@@ -1,0 +1,48 @@
+### §300ff–53. Preferences in making grants
+
+#### (a) In general
+
+In making grants under section 300ff–51 of this title, the Secretary shall give preference to any qualified applicant experiencing an increase in the burden of providing services regarding HIV disease, as indicated by the factors specified in subsection (b) of this section.
+
+#### (b) Specification of factors
+
+#### (1) In general
+
+&emsp;In the case of the geographic area with respect to which the entity involved is applying for a grant under section 300ff–51 of this title, the factors referred to in subsection (a) of this section, as determined for the period specified in paragraph (2), are—
+
+&emsp;&emsp;(A) the number of cases of acquired immune deficiency syndrome;
+
+&emsp;&emsp;(B) the rate of increase in such cases;
+
+&emsp;&emsp;(C) the lack of availability of early intervention services;
+
+&emsp;&emsp;(D) the number of other cases of sexually transmitted diseases, and the number of cases of tuberculosis and of drug abuse;
+
+&emsp;&emsp;(E) the rate of increase in each of the cases specified in subparagraph (D);
+
+&emsp;&emsp;(F) the lack of availability of primary health services from providers other than such applicant; and
+
+&emsp;&emsp;(G) the distance between such area and the nearest community that has an adequate level of availability of appropriate HIV-related services, and the length of time required to travel such distance.
+
+#### (2) Relevant period of time
+
+&emsp;The period referred to in paragraph (1) is the 2-year period preceding the fiscal year for which the entity involved is applying to receive a grant under section 300ff–51 of this title.
+
+#### (c) Equitable allocations
+
+In providing preferences for purposes of subsection (b) of this section, the Secretary shall equitably allocate the preferences among urban and rural areas.
+
+#### (d) Certain areas
+
+Of the applicants who qualify for preference under this section—
+
+&emsp;(1) the Secretary shall give preference to applicants that will expend the grant under section 300ff–51 of this title to provide early intervention under such section in rural areas; and
+
+&emsp;(2) the Secretary shall give special consideration to areas that are underserved with respect to such services.
+
+(July 1, 1944, ch. 373, title XXVI, §2653, as added Pub. L. 101–381, title III, §301(a), Aug. 18, 1990, 104 Stat. 608; amended Pub. L. 106–345, title III, §311, Oct. 20, 2000, 114 Stat. 1345.)
+
+#### Amendments
+
+2000—Subsec. (d). Pub. L. 106–345 added subsec. (d).
+

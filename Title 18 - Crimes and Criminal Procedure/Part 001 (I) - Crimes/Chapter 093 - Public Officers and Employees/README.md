@@ -48,24 +48,6 @@ Pub. L. 103–322, title XXXIII, §330004(11), Sept. 13, 1994, 108 Stat. 2141, s
 
 1966—Pub. L. 89–554, §3(c), Sept. 6, 1966, 80 Stat. 608, added items 1916 to 1923.
 
-#### Cross References
-
-Bribery and graft, see section 201 et seq. of this title.
-
-Embezzlement and theft, see section 641 et seq. of this title.
-
-Government employee having interest in Indian contracts, see section 437 of this title.
-
-Officers—
-
-&emsp;&emsp;Interested in claims against Government, see section 205 of this title.
-
-&emsp;&emsp;Receiving compensation in matters relating to proceedings, contracts, claims, etc., see section 203 of this title.
-
-Postal employee having interest in mail contract, see section 440 of this title.
-
-Purchase of claims for fees by court officials, see section 291 of this title.
-
 <i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
 

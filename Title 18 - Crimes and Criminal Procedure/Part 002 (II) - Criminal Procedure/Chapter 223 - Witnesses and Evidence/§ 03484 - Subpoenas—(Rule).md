@@ -18,7 +18,3 @@ Disobedience of subpoena as contempt of court, Rule 17(g).
 
 (June 25, 1948, ch. 645, 62 Stat. 833.)
 
-#### Cross References
-
-Subpoenas and proceedings against disobedient foreign witnesses, see sections 1783 and 1784 of Title 28, Judiciary and Judicial Procedure.
-

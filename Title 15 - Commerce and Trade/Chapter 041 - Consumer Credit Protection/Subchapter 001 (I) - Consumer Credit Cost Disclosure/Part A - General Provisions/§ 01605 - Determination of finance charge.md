@@ -34,7 +34,7 @@ If any of the following items is itemized and disclosed in accordance with the r
 
 &emsp;(1) Fees and charges prescribed by law which actually are or will be paid to public officials for determining the existence of or for perfecting or releasing or satisfying any security related to the credit transaction.
 
-&emsp;(2) The premium payable for any insurance in lieu of perfecting any security interest otherwise required by the creditor in connection with the transaction, if the premium does not exceed the fees and charges described in paragraph (1) which would otherwise be payable.
+&emsp;(2) The premium payable for any insurance in lieu of perfecting any security interestotherwise required by the creditor in connection with the transaction, if the premium does not exceed the fees and charges described in paragraph (1) which would otherwise be payable.
 
 &emsp;(3) Any tax levied on security instruments or on documents evidencing indebtedness if the payment of such taxes is a precondition for recording the instrument securing the evidence of indebtedness.
 

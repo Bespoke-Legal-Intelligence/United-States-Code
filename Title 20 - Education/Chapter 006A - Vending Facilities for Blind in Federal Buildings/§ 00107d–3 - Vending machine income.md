@@ -12,7 +12,7 @@ In accordance with the provisions of subsection (b) of this section, vending mac
 
 #### (c) Disposal of accrued vending machine income by State licensing agency
 
-All vending machine income which accrues to a State licensing agency pursuant to subsection (a) of this section shall be used to establish retirement or pension plans, for health insurance contributions, and for provision of paid sick leave and vacation time for blind licensees in such State, subject to a vote of blind licensees as provided under section 107b(3)(E) of this title. Any vending machine income remaining after application of the first sentence of this subsection shall be used for the purposes specified in sections 107b(3)(A), (B), (C), and (D) of this title, and any assessment charged to blind licensees by a State licensing agency shall be reduced pro rata in an amount equal to the total of such remaining vending machine income.
+All vending machine income which accrues to a State licensing agency pursuant to subsection (a) of this section shall be used to establish retirement or pension plans, for health insurance contributions, and for provision of paid sick leave and vacation time for blind licensees in such State, subject to a vote of blind licenseesas provided under section 107b(3)(E) of this title. Any vending machine income remaining after application of the first sentence of this subsection shall be used for the purposes specified in sections 107b(3)(A), (B), (C), and (D) of this title, and any assessment charged to blind licensees by a State licensing agency shall be reduced pro rata in an amount equal to the total of such remaining vending machine income.
 
 #### (d) Income from vending machines in certain locations excepted
 
@@ -34,7 +34,7 @@ The Secretary shall take such action and promulgate such regulations as he deems
 
 #### Codification
 
-The content of Pub. L. 93–516, including provisions of section 206 thereof which enacted this section, wereoriginally contained in H.R. 14225, 93rd Congress, Second Session, which was pocket-vetoed during the 31-day intrasession adjournment of the 93rd Congress for the Congressional elections in November, 1974.
+The content of Pub. L. 93–516, including provisions of section 206 thereof which enacted this section, were originally contained in H.R. 14225, 93rd Congress, Second Session, which was pocket-vetoed during the 31-day intrasession adjournment of the 93rd Congress for the Congressional elections in November, 1974.
 
 Pursuant to an order of the United States District Court for the District of Columbia (<i>Kennedy v. Jones</i>, D.C.D.C. 1976, 412 F.Supp. 353) H.R. 14225 was deemed to have become law without the approval of the President on Nov. 21, 1974, and was given the designation Pub. L. 93–651. Therefore, for purposes of codification, this section should be deemed to have been enacted by Pub. L. 93–651, title II, §206, Nov. 21, 1974, 89 Stat. 2–12, in exactly the same manner as it was enacted by Pub. L. 93–516.
 

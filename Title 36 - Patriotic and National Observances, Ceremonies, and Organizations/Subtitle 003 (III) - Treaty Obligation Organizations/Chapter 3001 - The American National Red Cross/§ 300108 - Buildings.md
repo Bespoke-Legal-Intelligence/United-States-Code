@@ -2,7 +2,7 @@
 
 (a)
 
-Ownership.—The United States Government shall retain ownership of the corporation'spermanent headquarters, comprised of buildings erected on square 172 in the District of Columbia, including—
+Ownership.—The United States Government shall retain ownership of the corporation's permanent headquarters, comprised of buildings erected on square 172 in the District of Columbia, including—
 
 &emsp;(1) the memorial building to commemorate the service and sacrifice of the women of the United States, North and South, during the Civil War, erected for the use of the corporation;
 

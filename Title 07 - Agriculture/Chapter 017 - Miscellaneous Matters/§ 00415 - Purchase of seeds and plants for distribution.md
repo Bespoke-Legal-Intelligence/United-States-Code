@@ -8,9 +8,3 @@ Purchase and distribution of vegetable, field, and flower seeds, plants, shrubs,
 
 1896—Act Apr. 25, 1896, struck out “by the Department of Agriculture” and “trees”, and inserted “vegetable, field, and flower seeds” and “bulbs”.
 
-#### Cross References
-
-Collection, testing, propagation, and distribution of seeds by Secretary of Agriculture, see section 2204 of this title.
-
-Letting contract for seeds and plants, see section 416 of this title.
-

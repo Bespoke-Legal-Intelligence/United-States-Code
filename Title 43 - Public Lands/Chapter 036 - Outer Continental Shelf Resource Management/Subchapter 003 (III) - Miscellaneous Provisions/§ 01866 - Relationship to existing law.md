@@ -14,7 +14,7 @@ The Coastal Zone Management Act of 1972, referred to in subsec. (a), is title II
 
 The National Environmental Policy Act of 1969, referred to in subsec. (a), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under 4321 of Title 42 and Tables.
 
-The Mining and Mineral Policy Act of 1970, referred to in subsec. (a), is Pub. L. 91–631, Dec. 31, 1970, 84 Stat. 1876, which is classified to section 21a of Title 30, Mineral Lands and Mining.
+The Mining and Mineral Policy Act of 1970, referred to in subsec. (a), is Pub. L. 91–631, Dec. 31, 1970, 84 Stat.1876, which is classified to section 21a of Title 30, Mineral Lands and Mining.
 
 This Act, referred to in subsec. (b), is Pub. L. 95–372, Sept. 18, 1978, 92 Stat. 629, as amended. See note above.
 

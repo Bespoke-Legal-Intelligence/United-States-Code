@@ -2,7 +2,7 @@
 
 (a)
 
-Management of Credit Cards.—The Secretary of Defense, acting through the Under Secretary of Defense (Comptroller), shall prescribe regulations governing the use and control of allcredit cards and convenience checks that are issued to Department of Defense personnel for official use. Those regulations shall be consistent with regulations that apply Government-wide regarding use of credit cards by Government personnel for official purposes.
+Management of Credit Cards.—The Secretary of Defense, acting through the Under Secretary of Defense (Comptroller), shall prescribe regulations governing the use and control of all credit cards and convenience checks that are issued to Department of Defense personnel for official use. Those regulations shall be consistent with regulations that apply Government-wide regarding use of credit cards by Government personnel for official purposes.
 
 (b)
 

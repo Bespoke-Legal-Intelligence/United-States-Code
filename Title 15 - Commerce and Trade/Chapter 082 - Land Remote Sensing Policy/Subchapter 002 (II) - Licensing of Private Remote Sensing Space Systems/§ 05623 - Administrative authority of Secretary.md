@@ -24,3 +24,7 @@ Any applicant or licensee who makes a timely request for review of an adverse ac
 
 (Pub. L. 102–555, title II, §203, Oct. 28, 1992, 106 Stat. 4172.)
 
+#### Change of Name
+
+Reference to United States magistrate or to magistrate deemed to refer to United States magistrate judge pursuant to section 321 of Pub. L. 101–650, set outas a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+

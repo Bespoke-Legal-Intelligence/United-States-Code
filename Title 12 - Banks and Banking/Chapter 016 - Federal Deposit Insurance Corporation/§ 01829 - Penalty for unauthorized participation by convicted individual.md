@@ -36,7 +36,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;On motion of the Corporation, the court in which the conviction or the agreement of a person referred to in subparagraph (A) has been entered may grant an exception to the application of paragraph (1) to such person if granting the exception is in the interest of justice.
+&emsp;&emsp;&emsp;On motion of the Corporation, the court in which the conviction or the agreementof a person referred to in subparagraph (A) has been entered may grant an exception to the application of paragraph (1) to such person if granting the exception is in the interest of justice.
 
 #### (ii) Period for filing
 
@@ -69,10 +69,6 @@ Section 1008 of title 18, referred to in subsec. (a)(2)(A)(i)(I), was repealed b
 #### Provisions Not Repealed, Modified or Affected
 
 Nothing contained in sections 201 to 205 and 207 of Pub. L. 89–695 amending sections 1813 and 1817 to 1820 and repealing section 77 of this title to be construed as repealing, modifying, or affecting this section, see section 206 of Pub. L. 89–695, set out as a note under section 1813 of this title.
-
-#### Cross References
-
-Jurisdiction of District Court of the United States of action for penalty, see section 1355 of Title 28, Judiciary and Judicial Procedure.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

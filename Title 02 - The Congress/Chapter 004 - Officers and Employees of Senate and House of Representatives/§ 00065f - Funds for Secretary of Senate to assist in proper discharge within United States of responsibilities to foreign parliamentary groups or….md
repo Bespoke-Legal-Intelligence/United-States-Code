@@ -10,7 +10,7 @@ The provisions of subsection (a) of this section shall be effective in the case 
 
 #### (c) Transfer of funds
 
-Upon the written request of the Secretary of the Senate, with the approval of the Committee on Appropriations of the Senate, there shall be transferred any amount of funds available under subsection (a) of this section specified in the request, but not to exceed $10,000 in any fiscal year, from the appropriation account (within the contingent fund of the Senate) for expenses of the Office of the Secretary of the Senate to the appropriation account for the expense allowance of the Secretary of the Senate. Any fundsso transferred shall be available in like manner and for the same purposes as are other funds in the account to which the funds are transferred.
+Upon the written request of the Secretary of the Senate, with the approval of the Committee on Appropriations of the Senate, there shall be transferred any amount of funds available under subsection (a) of this section specified in the request, but not to exceed $10,000 in any fiscal year, from the appropriation account (within the contingent fund of the Senate) for expenses of the Office of the Secretary of the Senate to the appropriation account for the expense allowance of the Secretary of the Senate. Any funds so transferred shall be available in like manner and for the same purposes as are other funds in the account to which the funds are transferred.
 
 (Pub. L. 100–71, title I, §2, July 11, 1987, 101 Stat. 423; Pub. L. 102–90, title I, §4, Aug. 14, 1991, 105 Stat. 450; Pub. L. 105–18, title II, §7003(a), June 12, 1997, 111 Stat. 192.)
 

@@ -12,7 +12,7 @@
 | (f) | Reporting requirements. |
 | [2703\.](%C2%A7%2002703%20-%20Eligible%20articles.md) | Eligible articles. |
 | (a) | Growth, product, or manufacture of beneficiary countries. |
-| (b) | Articles to which duty-free treatment does not apply. |
+| (b) | Import-sensitive articles. |
 | (c) | Sugar and beef products; stable food production plan; suspension of duty-free treatment; monitoring. |
 | (d) | Tariff-rate quotas. |
 | (e) | Proclamations suspending duty-free treatment. |
@@ -20,7 +20,7 @@
 | (g) | Fees not affected by proclamation. |
 | (h) | Duty reduction for certain leather-related products. |
 | [2704\.](%C2%A7%2002704%20-%20International%20Trade%20Commission%20reports%20on%20impact%20of%20Caribbean%20Basin%20Economic%20Recovery%20Program.md) | International Trade Commission reports on impact of Caribbean Basin Economic Recovery Program. |
-| (a) | Reporting requirement. |
+| (a) | Reporting requirements. |
 | (b) | Requisite areas of Commission assessment. |
 | (c) | Time of submission of reports; public participation. |
 | [2705\.](%C2%A7%2002705%20-%20Impact%20study%20by%20Secretary%20of%20Labor.md) | Impact study by Secretary of Labor. |

@@ -36,10 +36,6 @@ A determination shall be made by the Secretary as soon as possible after the dat
 
 (Pub. L. 93–618, title II, §251, Jan. 3, 1975, 88 Stat. 2030; Pub. L. 99–272, title XIII, §13002(b), Apr. 7, 1986, 100 Stat. 300; Pub. L. 100–418, title I, §1421(a)(2), (b)(2), Aug. 23, 1988, 102 Stat. 1243, 1244.)
 
-#### Termination of Section
-
-<i>For termination of section by section 285 of Pub. L. 93–618, see Termination Date note set out preceding section 2271 of this title.</i>
-
 #### Amendments
 
 1988—Subsec. (c). Pub. L. 100–418, §1421(a)(2), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Secretary shall certify a firm (including any agricultural firm) as eligible to apply for adjustment assistance under this part if he determines—
@@ -61,6 +57,10 @@ Subsec. (c)(1)(C). Pub. L. 100–418, §1421(b)(2), directed the general amendme
 1986—Subsecs. (a), (c). Pub. L. 99–272, §13002(b)(1), inserted “(including any agricultural firm)” after “firm”.
 
 Subsec. (c)(2). Pub. L. 99–272, §13002(b)(2), amended par. (2) generally, designating existing provisions as subpar. (A), substituting “of the firm have decreased absolutely, or” for “of such firm have decreased absolutely, and”, and adding subpar. (B).
+
+#### Termination Date
+
+No technical assistance to be provided under this part after Sept. 30, 2001, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -38,7 +38,7 @@
 
 &emsp;&emsp;&emsp;(viii) current or former applicants for, or recipients of, vocational rehabilitation services;
 
-&emsp;&emsp;&emsp;(ix) in a State in which one or more projects are carried out under section 741 of this title, at least one representative of the directors of the projects;
+&emsp;&emsp;&emsp;(ix) in a State in which one or more projects are carried out under section 741of this title, at least one representative of the directors of the projects;
 
 &emsp;&emsp;&emsp;(x) at least one representative of the State educational agency responsible for the public education of students with disabilities who are eligible to receive services under this subchapter and part B of the Individuals with Disabilities Education Act \[20 U.S.C. 1411 et seq.\]; and
 
@@ -130,13 +130,13 @@
 
 &emsp;&emsp;Each member of the Council shall serve for a term of not more than 3 years, except that—
 
-&emsp;&emsp;&emsp;(i) a member appointed to fill a vacancy occurring prior to the expiration of theterm for which a predecessor was appointed, shall be appointed for the remainder of such term; and
+&emsp;&emsp;&emsp;(i) a member appointed to fill a vacancy occurring prior to the expiration of the term for which a predecessor was appointed, shall be appointed for the remainder of such term; and
 
 &emsp;&emsp;&emsp;(ii) the terms of service of the members initially appointed shall be (as specified by the appointing authority described in paragraph (3)) for such fewer number of years as will provide for the expiration of terms on a staggered basis.
 
 #### (B) Number of terms
 
-&emsp;&emsp;No member of the Council, other than a representative described in clause (iii) or (ix) of paragraph (1)(A), or clause (iii) or (x) of paragraph (1)(B), may serve more than two consecutive full terms.
+&emsp;&emsp;No member of the Council, other than a representative described in clause (iii) or (ix)of paragraph (1)(A), or clause (iii) or (x) of paragraph (1)(B), may serve more than two consecutive full terms.
 
 #### (7) Vacancies
 
@@ -178,7 +178,7 @@ The Council shall, after consulting with the State workforce investment board—
 
 &emsp;(5) prepare and submit an annual report to the Governor and the Commissioner on the status of vocational rehabilitation programs operated within the State, and make the report available to the public;
 
-&emsp;(6) to avoid duplication of efforts and enhance the number of individuals served, coordinate activities with the activities of other councils within the State, including the Statewide Independent Living Council established under section 796d of this title, the advisory panel established under section 612(a)(21) of the Individual <sup>1</sup> with Disabilities Education Act \[20 U.S.C. 1412(a)(21)\] (as amended by section 101 of the Individuals with Disabilities Education Act Amendments of 1997; Public Law 105–17), the State Developmental Disabilities Council described in section 6024 of title 42, the State mental health planning council established under section 300x–3(a) of title 42, and the State workforce investment board;
+&emsp;(6) to avoid duplication of efforts and enhance the number of individuals served, coordinate activities with the activities of other councils within the State, including the Statewide Independent Living Council established under section 796d of this title, the advisory panel established under section 612(a)(21) of the Individual <sup>1</sup> with Disabilities Education Act \[20 U.S.C. 1412(a)(21)\] (as amended by section 101 of the Individuals with Disabilities Education Act Amendments of 1997; Public Law 105–17), the State Council on Developmental Disabilities established under section 15025 of title 42, the State mental health planning council established under section 300x–3(a) of title 42, and the State workforce investment board;
 
 &emsp;(7) provide for coordination and the establishment of working relationships between the designated State agency and the Statewide Independent Living Council and centers for independent living within the State; and
 
@@ -196,7 +196,7 @@ The Council shall, after consulting with the State workforce investment board—
 
 #### (3) Supervision and evaluation
 
-&emsp;Each Council shall, consistent with State law, supervise and evaluate such staff andother personnel as may be necessary to carry out its functions under this section.
+&emsp;Each Council shall, consistent with State law, supervise and evaluate such staff and other personnel as may be necessary to carry out its functions under this section.
 
 #### (4) Personnel conflict of interest
 
@@ -204,7 +204,7 @@ The Council shall, after consulting with the State workforce investment board—
 
 #### (e) Conflict of interest
 
-No member of the Council shall cast a vote on any matter that would provide direct financial benefit to the member or otherwise give the appearance of a conflict of interest under State law.
+No member of the Council shall cast a vote on any matter that would provide direct financialbenefit to the member or otherwise give the appearance of a conflict of interest under State law.
 
 #### (f) Meetings
 
@@ -218,7 +218,7 @@ The Council may use funds allocated to the Council by the designated State unit 
 
 The Council is authorized to hold such hearings and forums as the Council may determine to be necessary to carry out the duties of the Council.
 
-(Pub. L. 93–112, title I, §105, as added Pub. L. 105–220, title IV, §404, Aug. 7, 1998, 112 Stat. 1151; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §402(c)(6)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–415.)
+(Pub. L. 93–112, title I, §105, as added Pub. L. 105–220, title IV, §404, Aug. 7, 1998, 112 Stat. 1151; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §402(c)(6)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–415; Pub. L. 106–402, title IV, §401(b)(3)(A), Oct. 30, 2000, 114 Stat. 1737.)
 
 #### References in Text
 
@@ -229,6 +229,8 @@ The Individuals with Disabilities Education Act, referred to in subsec. (b)(1)(A
 A prior section 725, Pub. L. 93–112, title I, §105, as added Pub. L. 102–569, title I, §126(a), Oct. 29, 1992, 106 Stat. 4381; amended Pub. L. 103–73, title I, §107(d)(1), Aug. 11, 1993, 107 Stat. 721, related to State Rehabilitation Advisory Council, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
 #### Amendments
+
+2000—Subsec. (c)(6). Pub. L. 106–402 substituted “the State Council on Developmental Disabilities established under section 15025 of title 42” for “the State Developmental Disabilities Council described in section 6024 of title 42”.
 
 1998—Subsec. (b)(3). Pub. L. 105–277, §101(f) \[title VIII, §402(c)(6)(A)\], substituted “Governor or, in the case of a State that, under State law, vests authority for the administration of the activities carried out under this chapter in an entity other than the Governor (such as one or more houses of the State legislature or an independent board), the chief officer of that entity” for “Governor” in first sentence and “appointing authority” for “Governor” in second and third sentences.
 

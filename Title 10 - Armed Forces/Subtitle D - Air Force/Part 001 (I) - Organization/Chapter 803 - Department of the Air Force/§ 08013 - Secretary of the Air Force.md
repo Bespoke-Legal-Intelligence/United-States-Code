@@ -78,18 +78,6 @@ For order of succession in event of death, permanent disability, or resignation 
 
 For order of succession in event of death, permanent disability, or resignation of Secretary of the Air Force, see Ex. Ord. No. 12909, Apr. 22, 1994, 59 F.R. 21909, set out as a note under section 3345 of Title 5.
 
-#### Cross References
-
-Armed Forces Policy Council, member of, see section 171 of this title.
-
-Chief of Staff, duties, see section 8033 of this title.
-
-Compensation of Secretary, see section 5313 of Title 5, Government Organization and Employees.
-
-Courts-martial, authority to convene, see sections 822 to 824 of this title.
-
-Establishment of advisory committees and panels for research and development activities, see section 174 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 162, 8033, 10174 of this title.

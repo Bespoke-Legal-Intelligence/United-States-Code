@@ -126,7 +126,7 @@ Section 4605(c) of Pub. L. 101–508 provided that:
 
 Amendment by Pub. L. 100–485 effective as if included in the enactment of the Medicare Catastrophic Coverage Act of 1988, Pub. L. 100–360, see section 608(g)(1) of Pub. L. 100–485, set out as a note under section 704 of this title.
 
-Section 411(k)(16)(C) of Pub. L. 100–360 provided that: “The amendments made by this paragraph \[amendingthis section\] shall be effective as if they were included in section 9407(b) of the Omnibus Budget Reconciliation Act of 1986 \[Pub. L. 99–509\].”
+Section 411(k)(16)(C) of Pub. L. 100–360 provided that: “The amendments made by this paragraph \[amending this section\] shall be effective as if they were included in section 9407(b) of the Omnibus Budget Reconciliation Act of 1986 \[Pub. L. 99–509\].”
 
 #### Effective Date
 

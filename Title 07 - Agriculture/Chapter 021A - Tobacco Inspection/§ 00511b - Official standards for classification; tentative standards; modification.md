@@ -4,7 +4,3 @@ The Secretary is authorized to investigate the sorting, handling, conditioning, 
 
 (Aug. 23, 1935, ch. 623, §3, 49 Stat. 732.)
 
-#### Cross References
-
-Delegation of regulatory functions of Secretary of Agriculture, see section 450c of this title.
-

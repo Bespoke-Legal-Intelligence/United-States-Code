@@ -32,3 +32,7 @@ Foreign Gift or Donation Defined.—For purposes of this section, a foreign gift
 
 (Added Pub. L. 106–65, div. A, title IX, §915(a), Oct. 5, 1999, 113 Stat. 721.)
 
+#### Section Referred to in Other Sections
+
+This section is referred to in section 184 of this title.
+

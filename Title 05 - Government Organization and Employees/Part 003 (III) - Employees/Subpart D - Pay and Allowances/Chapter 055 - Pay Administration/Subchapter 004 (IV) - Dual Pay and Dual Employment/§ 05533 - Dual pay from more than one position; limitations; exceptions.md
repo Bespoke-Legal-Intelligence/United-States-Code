@@ -6,7 +6,7 @@
 
 (c)(1) Unless otherwise authorized by law and except as otherwise provided by paragraph (2) or (4) of this subsection, appropriated funds are not available for payment to an individual of pay from more than one position if the pay of one of the positions is paid by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives, or one of the positions is under the Office of the Architect of the Capitol, and if the aggregate gross pay from the positions exceeds $7,724 a year ($10,540, in the case of pay disbursed by the Secretary of the Senate).
 
-(2) Notwithstanding paragraph (1) of this subsection, appropriated funds are not available for payment to an individual of pay from more thanone position, for each of which the pay is disbursed by the Chief Administrative Officer of the House of Representatives, if the aggregate gross pay from those positions exceeds the maximum per annum gross rate of pay authorized to be paid to an employee out of the clerk hire allowance of a Member of the House.
+(2) Notwithstanding paragraph (1) of this subsection, appropriated funds are not available for payment to an individual of pay from more than one position, for each of which the pay is disbursed by the Chief Administrative Officer of the House of Representatives, if the aggregate gross pay from those positions exceeds the maximum per annum gross rate of pay authorized to be paid to an employee out of the clerk hire allowance of a Member of the House.
 
 (3) For the purposes of this subsection, “gross pay” means the annual rate of pay (or equivalent thereof in the case of an individual paid on other than an annual basis) received by an individual.
 
@@ -78,10 +78,6 @@ In subsection (d)(7)(H), the words “of chapter 7” are omitted as surplusage.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
-#### References in Text
-
-Sections 631 and 631a of title 31, District of Columbia Code, referred to in subsec. (d)(7)(F), were transferred to sections 31–1009 and 31–1010, respectively, of Title 31, Education and Cultural Institutions, of the District of Columbia Code.
-
 #### Amendments
 
 1996—Subsecs. (c)(1), (2), (d)(5)(A). Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk”.
@@ -132,9 +128,11 @@ Amendment by Pub. L. 90–57, effective Aug. 1, 1967, see section 105(k) of Pub.
 
 #### Increase in Compensation of Individuals Whose Pay is Disbursed by Secretary of Senate
 
-2000—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2000, to the figure “$25,362”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 12, 1999, set out as a note under section 60a–1 of Title 2, The Congress.
+2001—The figure “$25,362” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2001, to the figure “$26,329”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 20, 2000, set out as a note under section 60a–1 of Title 2, The Congress.
 
-1999—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1999, to the figure “$24,433”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 16, 1998, formerly set out as a note under section 60a–1 of Title 2, The Congress.
+2000—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2000, to the figure “$25,362”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 12, 1999, formerly set out as a note under section 60a–1 of Title 2.
+
+1999—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1999, to the figure “$24,433”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 16, 1998, formerly set out as a note under section 60a–1 of Title 2.
 
 1998—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1998, to the figure “$23,698”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 19, 1997, formerly set out as a note under section 60a–1 of Title 2.
 
@@ -183,12 +181,6 @@ Amendment by Pub. L. 90–57, effective Aug. 1, 1967, see section 105(k) of Pub.
 1969—The figure “6,662” in subsection (c)(1)(A) of this section, as increased by Order of June 12, 1968, deemed, on and after July 1, 1969, to refer to the figure “7,287”, see section 4(d) of Salary Directive of President pro tempore of the Senate, June 17, 1969, formerly set out as a note under section 60a–1 of Title 2.
 
 1968—The figure “6,256” in subsection (c)(1)(A) of this section deemed to refer, on and after July 1, 1968, to the figure “6,622”, see section 1(i) of Salary Directive of President pro tempore of the Senate, June 12, 1968, formerly set out as a note under section 60a–1 of Title 2.
-
-#### Cross References
-
-Authority of Committee on House Oversight of House of Representatives to combine House Clerk Hire Allowance into Members’ Representational Allowance, see section 57b of Title 2, The Congress.
-
-Time limitation on claims against Government employees who received dual compensation in violation of the dual compensation laws, see section 3712 of Title 31, Money and Finance.
 
 #### Section Referred to in Other Sections
 

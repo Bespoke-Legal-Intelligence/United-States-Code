@@ -16,11 +16,3 @@ This Act, referred to in text, is act June 18, 1934, which is classified general
 
 Admission of Alaska into the Union was accomplished Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as notes preceding section 21 of Title 48, Territories and Insular Possessions.
 
-#### Cross References
-
-Oklahoma Indians as having rights secured to organized Indian tribes under sections to which reference is made in text, see section 503 of this title.
-
-Right-of-way grant, consent of tribal officials, see section 324 of this title.
-
-Tribes authorized to be organized with charter allowing participation in revolving credit fund and other rights secured to organized tribes under sections to which reference is made in text, see section 503 of this title.
-

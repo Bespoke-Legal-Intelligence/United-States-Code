@@ -12,7 +12,7 @@
 
 &emsp;(2) the vessel held by the mortgagee is subject to section 902 of the Merchant Marine Act, 1936 (46 App. U.S.C. 1242); and
 
-&emsp;(3) the sale of the vessel to the mortgagee is not a sale foreign within the terms of the firstproviso of section 27 of the Merchant Marine Act, 1920 (46 App. U.S.C. 883).
+&emsp;(3) the sale of the vessel to the mortgagee is not a sale foreign within the terms of the first proviso of section 27 of the Merchant Marine Act, 1920 (46 App. U.S.C. 883).
 
 (c) Unless waived by the Secretary of Transportation, a person purchasing a vessel by court order under subsection (a)(1) of this section or from a mortgagee under subsection (a)(2) of this section must document the vessel under chapter 121 of this title.
 

@@ -4,7 +4,7 @@
 
 (1) Each agency shall separately state and currently publish in the Federal Register for the guidance of the public—
 
-&emsp;(A) descriptions of its central and field organization and the established places at which, the employees (and in the case of a uniformed service, the members) from whom, and the methods whereby, the public may obtain information, make submittals or requests, or obtain decisions;
+&emsp;(A) descriptions of its central and field organization and the established places at which,the employees (and in the case of a uniformed service, the members) from whom, and the methods whereby, the public may obtain information, make submittals or requests, or obtain decisions;
 
 &emsp;(B) statements of the general course and method by which its functions are channeled and determined, including the nature and requirements of all formal and informal procedures available;
 
@@ -42,7 +42,7 @@
 
 (D) For purposes of this paragraph, the term “search” means to review, manually or by automated means, agency records for the purpose of locating those records which are responsive to a request.
 
-(4)(A)(i) In order to carry out the provisions of this section, each agency shall promulgate regulations, pursuant to notice and receipt of public comment, specifying the schedule of fees applicable to the processing of requests under this section and establishing procedures and guidelines for determining when such fees should be waived or reduced. Such schedule shall conform to the guidelines which shall be promulgated, pursuant to notice and receipt of public comment, by the Director of the Office of Management and Budget and which shall provide for a uniform schedule of fees for all agencies.
+(4)(A)(i) In order to carry out the provisions of this section, each agency shall promulgate regulations, pursuant to notice and receipt of public comment, specifying the schedule of fees applicable to the processing of requests under this section and establishing procedures and guidelines for determining when such fees should bewaived or reduced. Such schedule shall conform to the guidelines which shall be promulgated, pursuant to notice and receipt of public comment, by the Director of the Office of Management and Budget and which shall provide for a uniform schedule of fees for all agencies.
 
 (ii) Such agency regulations shall provide that—
 
@@ -82,7 +82,7 @@
 
 (6)(A) Each agency, upon any request for records made under paragraph (1), (2), or (3) of this subsection, shall—
 
-&emsp;(i) determine within 20 days (excepting Saturdays, Sundays, and legal public holidays) after the receipt of any such request whether to comply with such request and shall immediately notify the person making such request of such determination and the reasons therefor, and of the right of such person to appeal to the head of the agency any adverse determination; and
+&emsp;(i) determine within 20 days (excepting Saturdays, Sundays, and legal public holidays) after the receipt of any such request whether to comply with such request and shall immediately notify the person making such requestof such determination and the reasons therefor, and of the right of such person to appeal to the head of the agency any adverse determination; and
 
 &emsp;(ii) make a determination with respect to any appeal within twenty days (excepting Saturdays, Sundays, and legal public holidays) after the receipt of such appeal. If on appeal the denial of the request for records is in whole or in part upheld, the agency shall notify the person making such request of the provisions for judicial review of that determination under paragraph (4) of this subsection.
 
@@ -104,7 +104,7 @@
 
 (ii) For purposes of this subparagraph, the term “exceptional circumstances” does not include a delay that results from a predictable agency workload of requests under this section, unless the agency demonstrates reasonable progress in reducing its backlog of pending requests.
 
-(iii) Refusal by a person to reasonably modify the scope of a request or arrange an alternative time frame for processing a request (or a modified request) under clause (ii) after being given an opportunity to do so by the agency to whomthe person made the request shall be considered as a factor in determining whether exceptional circumstances exist for purposes of this subparagraph.
+(iii) Refusal by a person to reasonably modify the scope of a request or arrange an alternative time frame for processing a request (or a modified request) under clause (ii) after being given an opportunity to do so by the agency to whom the person made the request shall be considered as a factor in determining whether exceptional circumstances exist for purposes of this subparagraph.
 
 (D)(i) Each agency may promulgate regulations, pursuant to notice and receipt of public comment, providing for multitrack processing of requests for records based on the amount of work or time (or both) involved in processing requests.
 
@@ -124,7 +124,7 @@
 
 &emsp;(II) expeditious consideration of administrative appeals of such determinations of whether to provide expedited processing.
 
-(iii) An agency shall process as soon as practicable any request for records to which the agency has granted expedited processing under this subparagraph. Agency action to deny or affirm denial of a request for expedited processing pursuant to this subparagraph, and failure by an agency to respond in a timely manner to such a request shall be subject to judicial review under paragraph (4), except that the judicial review shall be based on the record before the agency at the time of the determination.
+(iii) An agency shall process as soon as practicable any request for records to which theagency has granted expedited processing under this subparagraph. Agency action to deny or affirm denial of a request for expedited processing pursuant to this subparagraph, and failure by an agency to respond in a timely manner to such a request shall be subject to judicial review under paragraph (4), except that the judicial review shall be based on the record before the agency at the time of the determination.
 
 (iv) A district court of the United States shall not have jurisdiction to review an agency denial of expedited processing of a request for records after the agency has provided a complete response to the request.
 
@@ -158,7 +158,7 @@
 
 &emsp;(9) geological and geophysical information and data, including maps, concerning wells.
 
-> Any reasonably segregable portion of a record shall be provided to any person requesting suchrecord after deletion of the portions which are exempt under this subsection. The amount of information deleted shall be indicated on the released portion of the record, unless including that indication would harm an interest protected by the exemption in this subsection under which the deletion is made. If technically feasible, the amount of the information deleted shall be indicated at the place in the record where such deletion is made.
+> Any reasonably segregable portion of a record shall be provided to any person requesting such record after deletion of the portions which are exempt under this subsection. The amount of information deleted shall be indicated on the released portion of the record, unless including that indication would harm an interest protected by the exemption in this subsection under which the deletion is made. If technically feasible, the amount of the information deleted shall be indicated at the place in the record where such deletion is made.
 
 (c)(1) Whenever a request is made which involves access to records described in subsection (b)(7)(A) and—
 
@@ -206,7 +206,7 @@
 
 &emsp;(2) “record” and any other term used in this section in reference to information includes any information that would be an agency record subject to the requirements of this section when maintained by an agency in any format, including an electronic format.
 
-(g) The head of each agency shall prepare and make publicly available upon request, referencematerial or a guide for requesting records or information from the agency, subject to the exemptions in subsection (b), including—
+(g) The head of each agency shall prepare and make publicly available upon request, reference material or a guide for requesting records or information from the agency, subject to the exemptions in subsection (b), including—
 
 &emsp;(1) an index of all major information systems of the agency;
 
@@ -336,7 +336,7 @@ Subsec. (a)(1). Pub. L. 90–23 incorporated provisions of: former subsec. (b)(1
 
 Subsec. (a)(2). Pub. L. 90–23 incorporated provisions of former subsec. (c), provided for public copying of records, struck out requirement of agency publication of final opinions or orders and authority for secrecy and withholding of opinions and orders required for good cause to be held confidential and not cited as precedents, latter provision now superseded by subsec. (b) of this section, designated existing subsec. (c) as clause (A), including provision for availability of concurring and dissenting opinions, inserted provisions for availability of policy statements and interpretations in clause (B) and staff manuals and instructions in clause (C), deletion of personal identifications from records to protect personal privacy with written justification therefor, and provision for indexing and prohibition of use of records not indexed against any private party without actual and timely notice of the terms thereof.
 
-Subsec. (a)(3). Pub. L. 90–23 incorporated provisions of former subsec. (d) and substituted provisions requiringidentifiable agency records to be made available to any person upon request and compliance with rules as to time, place, and procedure for inspection, and payment of fees and provisions for Federal district court proceedings de novo for enforcement by contempt of noncompliance with court's orders with the burden on the agency and docket precedence for such proceedings for former provisions requiring matters of official record to be made available to persons properly and directly concerned except information held confidential for good cause shown, the latter provision superseded by subsec. (b) of this section.
+Subsec. (a)(3). Pub. L. 90–23 incorporated provisions of former subsec. (d) and substituted provisions requiring identifiable agency records to be made available to any person upon request and compliance with rules as to time, place, and procedure for inspection, and payment of fees and provisions for Federal district court proceedings de novo for enforcement by contempt of noncompliance with court's orders with the burden on the agency and docket precedence for such proceedings for former provisions requiring matters of official record to be made available to persons properly and directly concerned except information held confidential for good cause shown, the latter provision superseded by subsec. (b) of this section.
 
 Subsec. (a)(4). Pub. L. 90–23 added par. (4).
 
@@ -402,9 +402,131 @@ Section 1801 of Pub. L. 99–570 provided that: “This subtitle \[subtitle N (�
 
 This section is popularly known as the “Freedom of Information Act”.
 
+#### Disclosure of Information on Japanese Imperial Government
+
+Pub. L. 106–567, title VIII, Dec. 27, 2000, 114 Stat. 2864, provided that:
+
+#### “SEC. 801. SHORT TITLE.
+
+“This title may be cited as the ‘Japanese Imperial Government Disclosure Act of 2000’.
+
+#### “SEC. 802. DESIGNATION.
+
+“(a)
+
+Definitions.—In this section:
+
+&emsp;“(1)
+
+Agency.—The term ‘agency’ has the meaning given such term under section 551 of title 5, United States Code.
+
+&emsp;“(2)
+
+Interagency group.—The term ‘Interagency Group’ means the Nazi War Crimes and Japanese Imperial Government Records Interagency Working Group established under subsection (b).
+
+&emsp;“(3)
+
+Japanese imperial government records.—The term ‘Japanese Imperial Government records’ means classified records or portions of records that pertain to any person with respect to whom the United States Government, in its sole discretion, has grounds to believe ordered, incited, assisted, or otherwise participated in the experimentation on, and persecution of, any person because of race, religion, national origin, or political opinion, during the period beginning September 18, 1931, and ending on December 31, 1948, under the direction of, or in association with—
+
+&emsp;&emsp;“(A) the Japanese Imperial Government;
+
+&emsp;&emsp;“(B) any government in any area occupied by the military forces of the Japanese Imperial Government;
+
+&emsp;&emsp;“(C) any government established with the assistance or cooperation of the Japanese Imperial Government; or
+
+&emsp;&emsp;“(D) any government which was an ally of the Japanese Imperial Government.
+
+&emsp;“(4)
+
+Record.—The term ‘record’ means a Japanese Imperial Government record.
+
+“(b)
+
+Establishment of Interagency Group.—
+
+&emsp;“(1)
+
+In general.—Not later than 60 days after the date of the enactment of this Act \[Dec. 27, 2000\], the President shall designate the Working Group established under the Nazi War Crimes Disclosure Act (Public Law 105–246; 5 U.S.C. 552 note) to also carry out the purposes of this title with respect to Japanese Imperial Government records, and that Working Group shall remain in existence for 3 years after the date on which this title takes effect. Such Working Group is redesignated as the ‘Nazi War Crimes and Japanese Imperial Government Records Interagency Working Group’.
+
+&emsp;“(2)
+
+Membership.—\[Amended Pub. L. 105–246, set out as a note below.\]
+
+“(c)
+
+Functions.—Not later than 1 year after the date of the enactment of this Act \[Dec. 27, 2000\], the Interagency Group shall, to the greatest extent possible consistent with section 803—
+
+&emsp;“(1) locate, identify, inventory, recommend for declassification, and make available to the public at the National Archives and Records Administration, all classified Japanese Imperial Government records of the United States;
+
+&emsp;“(2) coordinate with agencies and take such actions as necessary to expedite the release of such records to the public; and
+
+&emsp;“(3) submit a report to Congress, including the Committee on Government Reform and the Permanent Select Committee on Intelligence of the House of Representatives, and the Committee on the Judiciary and the Select Committee on Intelligence of the Senate, describing all such records, the disposition of such records, and the activities of the Interagency Group and agencies under this section.
+
+“(d)
+
+Funding.—There is authorized to be appropriated such sums as may be necessary to carry out the provisions of this title.
+
+#### “SEC. 803. REQUIREMENT OF DISCLOSURE OF RECORDS.
+
+“(a)
+
+Release of Records.—Subject to subsections (b), (c), and (d), the Japanese Imperial Government Records Interagency Working Group shall release in their entirety Japanese Imperial Government records.
+
+“(b)
+
+Exemptions.—An agency head may exempt from release under subsection (a) specific information, that would—
+
+&emsp;“(1) constitute an unwarranted invasion of personal privacy;
+
+&emsp;“(2) reveal the identity of a confidential human source, or reveal information about an intelligence source or method when the unauthorized disclosure of that source or method would damage the national security interests of the United States;
+
+&emsp;“(3) reveal information that would assist in the development or use of weapons of mass destruction;
+
+&emsp;“(4) reveal information that would impair United States cryptologic systems or activities;
+
+&emsp;“(5) reveal information that would impair the application of state-of-the-art technology within a United States weapon system;
+
+&emsp;“(6) reveal United States military war plans that remain in effect;
+
+&emsp;“(7) reveal information that would impair relations between the United States and a foreign government, or undermine ongoing diplomatic activities of the United States;
+
+&emsp;“(8) reveal information that would impair the current ability of United States Government officials to protect the President, Vice President, and other officials for whom protection services are authorized in the interest of national security;
+
+&emsp;“(9) reveal information that would impair current national security emergency preparedness plans; or
+
+&emsp;“(10) violate a treaty or other international agreement.
+
+“(c)
+
+Applications of Exemptions.—
+
+&emsp;“(1)
+
+In general.—In applying the exemptions provided in paragraphs (2) through (10) of subsection (b), there shall be a presumption that the public interest will be served by disclosure and release of the records of the Japanese Imperial Government. The exemption may be asserted only when the head of the agency that maintains the records determines that disclosure and release would be harmful to a specific interest identified in the exemption. An agency head who makes such a determination shall promptly report it to the committees of Congress with appropriate jurisdiction, including the Committee on the Judiciary and the Select Committee on Intelligence of the Senate and the Committee on Government Reform and the Permanent Select Committee on Intelligence of the House of Representatives.
+
+&emsp;“(2)
+
+Application of title 5.—A determination by an agency head to apply an exemption provided in paragraphs (2) through (9) of subsection (b) shall be subject to the same standard of review that applies in the case of records withheld under section 552(b)(1) of title 5, United States Code.
+
+“(d)
+
+Records Related to Investigations or Prosecutions.—This section shall not apply to records—
+
+&emsp;“(1) related to or supporting any active or inactive investigation, inquiry, or prosecution by the Office of Special Investigations of the Department of Justice; or
+
+&emsp;“(2) solely in the possession, custody, or control of the Office of Special Investigations.
+
+#### “SEC. 804. EXPEDITED PROCESSING OF REQUESTS FOR JAPANESE IMPERIAL GOVERNMENT RECORDS.
+
+“For purposes of expedited processing under section 552(a)(6)(E) of title 5, United States Code, any person who was persecuted in the manner described in section 802(a)(3) and who requests a Japanese Imperial Government record shall be deemed to have a compelling need for such record.
+
+#### “SEC. 805. EFFECTIVE DATE.
+
+“The provisions of this title shall take effect on the date that is 90 days after the date of the enactment of this Act \[Dec. 27, 2000\].”
+
 #### Nazi War Crimes Disclosure
 
-Pub. L. 105–246, Oct. 8, 1998, 112 Stat. 1859, provided that:
+Pub. L. 105–246, Oct. 8, 1998, 112 Stat. 1859, as amended by Pub. L. 106–567, §802(b)(2), Dec. 27, 2000, 114 Stat. 2865, provided that:
 
 #### “SECTION 1. SHORT TITLE.
 
@@ -418,7 +540,7 @@ Definitions.—In this section the term—
 
 &emsp;“(1) ‘agency’ has the meaning given such term under section 551 of title 5, United States Code;
 
-&emsp;“(2) ‘Interagency Group’ means the Nazi War Criminal Records Interagency Working Group established under subsection (b);
+&emsp;“(2) ‘Interagency Group’ means the Nazi War Criminal Records Interagency Working Group \[redesignated Nazi War Crimes and Japanese Imperial Government Records Interagency Working Group, see section 802(b)(1) of Pub. L. 106–567, set out above\] established under subsection (b);
 
 &emsp;“(3) ‘Nazi war criminal records’ has the meaning given such term under section 3 of this Act; and
 
@@ -434,7 +556,7 @@ In general.—Not later than 60 days after the date of enactment of this Act \[O
 
 &emsp;“(2)
 
-Membership.—The President shall appoint to the Interagency Group individuals whom the President determines will most completely and effectively carry out the functions of the Interagency Group within the time limitations provided in this section, including the Director of the Holocaust Museum, the Historian of the Department of State, the Archivist of the United States, the head of any other agency the President considers appropriate, and no more than 3 other persons. The head of an agency appointed by the President may designate an appropriate officer to serve on the Interagency Group in lieu of the head of such agency.
+Membership.—The President shall appoint to the Interagency Group individuals whom the President determines will most completely and effectively carry out the functions of the Interagency Group within the time limitations provided in this section, including the Director of the Holocaust Museum, the Historian of the Department of State, the Archivist of the United States, the head of any other agency the President considers appropriate, and no more than 4 other persons who shall be members of the public, of whom 3 shall be persons appointed under the provisions of this Act in effect on October 8, 1998..\[sic\] The head of an agency appointed by the President may designate an appropriate officer to serve on the Interagency Group in lieu of the head of such agency.
 
 &emsp;“(3)
 
@@ -442,7 +564,7 @@ Initial meeting.—Not later than 90 days after the date of enactment of this Ac
 
 “(c)
 
-Functions.—Not later than 1 year after the date of enactment of this Act \[Oct. 8, 1998\], the InteragencyGroup shall, to the greatest extent possible consistent with section 3 of this Act—
+Functions.—Not later than 1 year after the date of enactment of this Act \[Oct. 8, 1998\], the Interagency Group shall, to the greatest extent possible consistent with section 3 of this Act—
 
 &emsp;“(1) locate, identify, inventory, recommend for declassification, and make available to the public at the National Archives and Records Administration, all classified Nazi war criminal records of the United States;
 
@@ -460,7 +582,7 @@ Funding.—There are authorized to be appropriated such sums as may be necessary
 
 Nazi War Criminal Records.—For purposes of this Act, the term ‘Nazi war criminal records’ means classified records or portions of records that—
 
-&emsp;“(1) pertain to any person with respect to whom the United States Government, in its sole discretion, has grounds to believe ordered, incited, assisted, or otherwise participated in the persecution of any person because of race, religion, national origin, or political opinion, during the period beginning on March 23, 1933, and ending on May 8, 1945, under the direction of, or in association with—
+&emsp;“(1) pertain to any person with respect to whom the United States Government, in its sole discretion, has grounds to believe ordered, incited, assisted, or otherwise participated in the persecution of any person because of race, religion, national origin, or politicalopinion, during the period beginning on March 23, 1933, and ending on May 8, 1945, under the direction of, or in association with—
 
 &emsp;&emsp;“(A) the Nazi government of Germany;
 
@@ -668,13 +790,13 @@ Sec. 10. This Order is intended only to improve the internal management of the F
 
 Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Ex. Ord. No. 13110. Nazi War Criminal Records Interagency Working Group
+#### Ex. Ord. No. 13110. Nazi War Crimes and Japanese Imperial Government Records Interagency Working Group
 
 Ex. Ord. No. 13110, Jan. 11, 1999, 64 F.R. 2419, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Nazi War Crimes Disclosure Act (Public Law 105–246) (the “Act”) \[5 U.S.C. 552 note\], it is hereby ordered as follows:
 
-Section 1. <i>Establishment of Working Group</i>. There is hereby established the Nazi War Criminal Records Interagency Working Group (Working Group). The function of the Group shall be to locate, inventory, recommend for declassification, and make available to the public at the National Archives and Records Administration all classified Nazi war criminal records of the United States, subject to certain designated exceptions as provided in the Act. The Working Group shall coordinate with agencies and take such actions as necessary to expedite the release of such records to the public.
+Section 1. <i>Establishment of Working Group</i>. There is hereby established the Nazi War Criminal Records Interagency Working Group \[now Nazi War Crimes and Japanese Imperial Government Records Interagency Working Group\] (Working Group). The function of the Group shall be to locate, inventory, recommend for declassification, and make available to the public at the National Archives and Records Administration all classified Nazi war criminal records of the United States, subject to certain designated exceptions as provided in the Act. The Working Group shall coordinate with agencies and take such actions as necessary to expedite the release of such records to the public.
 
 Sec. 2. <i>Schedule</i>. The Working Group should complete its work to the greatest extent possible and report to the Congress within 1 year.
 
@@ -704,13 +826,7 @@ Sec. 4. <i>Administration</i>. (a) To the extent permitted by law and subject to
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Cross References
-
-Federal Register Act, see section 1502 et seq. of Title 44, Public Printing and Documents.
-
-Section applicable to functions exercised under International Wheat Agreement Act of 1949, see section 1642 of Title 7, Agriculture.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 551, 552a, 552b, 566, 574, 1216, 7133 of this title; title 2 sections 472, 501, 502; title 7 sections 12, 450i, 499f, 608d, 948, 1314g, 1314i, 1508, 1642, 2279b, 5651, 5662, 5906; title 8 section 1182; title 10 sections 128, 1034, 1102, 2304, 2305, 2306a, 2328, 2371; title 12 sections 1786, 1818, 1831<i>o</i>, 4611; title 14 section 645; title 15 sections 18a, 57b–2, 78m, 78<i>o</i>–5, 78q, 78w, 78x, 78dd–1, 78dd–2, 79z–5c, 80a–30, 278n, 719d, 773, 796, 1314, 1335a, 2055, 2217, 2613, 3364, 3710a, 4019, 4104, 4107, 4305, 4403, 4606, 4912, 5104, 5308; title 16 sections 973j, 1402, 4304, 5937; title 18 sections 207, 208, 1838; title 19 sections 1333, 1431, 1509, 1625, 1677f, 2418, 3315; title 20 sections 1078, 1087–2, 6512; title 21 sections 360c, 360j, 379, 379f, 830; title 22 sections 2200a, 3902, 4355, 4415, 4604, 4607, 4833, 5841, 6713, 6744; title 25 sections 450c, 450k, 1951, 2716; title 26 sections 6103, 6110, 7611, 7803; title 28 sections 594, 1657; title 29 sections 1310, 1343, 2635; title 30 section 1604; title 31 sections 716, 1352, 3729, 3733, 5319; title 33 sections 524, 941, 1513; title 35 sections 202, 209; title 38 sections 501, 502, 7451; title 39 section 410; title 41 sections 253, 253b, 254b, 423, 706; title 42 sections 263b, 300v–2, 300aa–25, 405, 1306, 1320c–9, 2167, 2168, 2454, 2996d, 3027,4332, 5916, 5919, 6272–6274, 7135, 8103, 9122, 9208, 9660, 10704, 13385; title 44 sections 2201, 2204, 2206, 3501, 3504, 3506; title 46 sections 4309, 6305, 7702, 9303; title 46 App. section 1705; title 49 sections 106, 706, 10706, 10709, 11162, 14123; title 50 section 431; title 50 App. sections 463, 2158, 2159, 2170, 2406, 2411.
+This section is referred to in sections 551, 552a, 552b, 566, 574, 1216, 7133 of this title; title 2 sections 472, 501, 502; title 7 sections 12, 450i, 499f, 608d, 948, 1314g, 1314i, 1508, 1636, 1637b, 1642, 2279b, 5651, 5662, 5906, 7035; title 8 section 1182; title 10 sections 128, 130b, 1034, 1102, 1506, 2304, 2305, 2306a, 2328, 2371; title 12 sections 1786, 1818, 1828, 1831<i>o</i>, 4611; title 14 section 645; title 15 sections 18a, 57b–2, 78m, 78<i>o</i>–5, 78q, 78w, 78x, 78dd–1, 78dd–2, 79z–5c, 80a–30, 80b–10a, 278n, 719d, 773, 796, 1314, 1335a, 2055, 2217, 2613, 3364, 3710a, 4019, 4104, 4107, 4305, 4403, 4606, 4912, 5104, 5308, 7006; title 16 sections 973j, 1402, 4304, 5937; title 18 sections 207, 208, 1838; title 19 sections 1333, 1431, 1509, 1625, 1677f, 2418, 3315; title 20 sections 1078, 1087–2, 6512; title 21 sections 360c, 360j, 379, 379f, 830, 1904, 1908; title 22 sections 2200a, 3902, 4355, 4415, 4604, 4607, 4833, 5841, 6713, 6744; title 25 sections 450c, 450k, 1951, 2716; title 26 sections 6103, 6110, 7611, 7803; title 28 sections 594, 1657; title 29 sections 1310, 1343, 2635; title 30 section 1604; title 31 sections 716, 1352, 3729, 3733, 5319; title 33 sections 524, 941, 1513; title 35 sections 202, 209; title 38 sections 501, 502, 7451; title 39 sections 410, 3016; title 41 sections 253, 253b, 254b, 423, 706; title 42 sections 263b, 300v–2, 300aa–25, 405, 1306, 1320c–9, 2167, 2168, 2454, 2996d, 3027, 4332, 5916, 5919, 6272–6274, 7135, 7412, 8103, 9122, 9208, 9660, 10704, 13385; title 44 sections 2201, 2204, 2206, 3501, 3504, 3506; title 46 sections 4309, 6305, 7702, 9303; title 46 App. section 1705; title 49 sections 106, 706, 10706, 10709, 11162, 14123; title 50 sections 403–5b, 431; title 50 App. sections 463, 2158, 2159, 2170, 2406, 2411.
 

@@ -34,7 +34,7 @@ The Economic Opportunity Act of 1964, referred to in subsec. (a)(4), is Pub. L. 
 
 &emsp;“(3) weatherization of such dwellings would lower utility expenses for such low-income owners or occupants as well as save thousands of barrels per day of needed fuel; and
 
-&emsp;“(4) States, through community action agencies established under the Economic Opportunity Act of 1964 and units of general purpose local government, should be encouraged, with Federal financial and technical assistance, to develop and support coordinated weatherization programs designed to ameliorate the adverse effects of high energy costs on suchlow-income persons, to supplement other Federal programs serving such persons, and to conserve energy.
+&emsp;“(4) States, through community action agencies established under the Economic Opportunity Act of 1964 and units of general purpose local government, should be encouraged, with Federal financial and technical assistance, to develop and support coordinated weatherization programs designed to ameliorate the adverse effects of high energy costs on such low-income persons, to supplement other Federal programs serving such persons, and to conserve energy.
 
 “(b) It is, therefore, the purpose of this part to develop and implement a supplementary weatherization assistance program to assist in achieving a prescribed level of insulation in the dwellings of low-income persons, particularly elderly and handicapped low-income persons, in order both to aid those persons least able to afford higher utility costs and to conserve needed energy.”
 

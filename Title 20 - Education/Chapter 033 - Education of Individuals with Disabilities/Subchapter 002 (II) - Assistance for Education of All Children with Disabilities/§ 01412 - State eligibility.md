@@ -14,7 +14,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 &emsp;&emsp;The obligation to make a free appropriate public education available to all children with disabilities does not apply with respect to children:
 
-&emsp;&emsp;&emsp;(i) aged 3 through 5 and 18 through 21 in a State to the extent that its application to those children would be inconsistentwith State law or practice, or the order of any court, respecting the provision of public education to children in those age ranges; and
+&emsp;&emsp;&emsp;(i) aged 3 through 5 and 18 through 21 in a State to the extent that its application to those children would be inconsistent with State law or practice, or the order of any court, respecting the provision of public education to children in those age ranges; and
 
 &emsp;&emsp;&emsp;(ii) aged 18 through 21 to the extent that State law does not require that special education and related services under this subchapter be provided to children with disabilities who, in the educational placement prior to their incarceration in an adult correctional facility:
 
@@ -120,7 +120,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 &emsp;&emsp;&emsp;&emsp;(I) if—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) at the most recent IEP meeting that the parents attended prior to removal of the child from the public school, the parents did not inform the IEP Team that they were rejecting the placement proposed by the public agency to provide a free appropriate public education to their child, including stating their concerns and their intent to enroll their child in a private school at public expense; or
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) at the most recent IEP meeting that the parents attended prior to removal of the child from the public school, the parents did not inform the IEP Team that they were rejecting the placement proposed by the publicagency to provide a free appropriate public education to their child, including stating their concerns and their intent to enroll their child in a private school at public expense; or
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) 10 business days (including any holidays that occur on a business day) prior to the removal of the child from the public school, the parents did not give written notice to the public agency of the information described in division (aa);
 
@@ -188,7 +188,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If any public agency other than an educational agency is otherwise obligated under Federal or State law, or assigned responsibility under State policy or pursuant to subparagraph (A), to provide or pay for any services that are also considered special education or related services (such as, but not limited to, services described in sections 1401(1) relating to assistive technology devices, 1401(2) relating to assistive technology services, 1401(22) relating to related services, 1401(29) relating to supplementary aids and services, and 1401(30) of this title relating to transition services) that are necessary for ensuring a free appropriate public education to children with disabilities within the State, such public agency shall fulfill that obligation or responsibility, either directly or through contract or other arrangement.
+&emsp;&emsp;&emsp;If any public agency other than an educational agency is otherwise obligated under Federal or State law, or assigned responsibility under State policy or pursuant to subparagraph (A), to provide or pay for any services that are also considered special education or related services (suchas, but not limited to, services described in sections 1401(1) relating to assistive technology devices, 1401(2) relating to assistive technology services, 1401(22) relating to related services, 1401(29) relating to supplementary aids and services, and 1401(30) of this title relating to transition services) that are necessary for ensuring a free appropriate public education to children with disabilities within the State, such public agency shall fulfill that obligation or responsibility, either directly or through contract or other arrangement.
 
 #### (ii) Reimbursement for services by public agency
 
@@ -244,7 +244,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 &emsp;&emsp;(B) has established performance indicators the State will use to assess progress toward achieving those goals that, at a minimum, address the performance of children with disabilities on assessments, drop-out rates, and graduation rates;
 
-&emsp;&emsp;(C) will, every two years, report to the Secretary and the public on the progress of the State, and of children with disabilities in the State, toward meeting the goals established under subparagraph (A); and
+&emsp;&emsp;(C) will, every two years, report to the Secretary and the public on the progress ofthe State, and of children with disabilities in the State, toward meeting the goals established under subparagraph (A); and
 
 &emsp;&emsp;(D) based on its assessment of that progress, will revise its State improvement plan under part A of subchapter IV of this chapter as may be needed to improve its performance, if the State receives assistance under that part.
 
@@ -272,7 +272,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 &emsp;&emsp;&emsp;&emsp;(aa) for assessments conducted after July 1, 1998; and
 
-&emsp;&emsp;&emsp;&emsp;(bb) for assessments conducted before July 1, 1998, if the State is required todisaggregate such data prior to July 1, 1998.
+&emsp;&emsp;&emsp;&emsp;(bb) for assessments conducted before July 1, 1998, if the State is required to disaggregate such data prior to July 1, 1998.
 
 #### (18) Supplementation of State, local, and other Federal funds
 
@@ -314,7 +314,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 &emsp;&emsp;(i) The Secretary shall, by regulation, establish procedures (including objective criteria and consideration of the results of compliance reviews of the State conducted by the Secretary) for determining whether to grant a waiver under subparagraph (C)(ii).
 
-&emsp;&emsp;(ii) The Secretary shall publish proposed regulations under clause (i) not later than 6 months after June 4, 1997, and shall issue final regulations under clause (i) not later than 1 year after June 4, 1997.
+&emsp;&emsp;(ii) The Secretary shall publish proposed regulations under clause (i) not later than 6months after June 4, 1997, and shall issue final regulations under clause (i) not later than 1 year after June 4, 1997.
 
 #### (20) Public participation
 

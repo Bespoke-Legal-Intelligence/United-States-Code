@@ -4,10 +4,6 @@ If, in the judgment of the Secretary of the Interior, the public interest will b
 
 (Feb. 25, 1920, ch. 85, §5, 41 Stat. 439.)
 
-#### Cross References
-
-Surrender of leases, see section 188a of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 208 of this title; title 10 sections 7421, 7435.

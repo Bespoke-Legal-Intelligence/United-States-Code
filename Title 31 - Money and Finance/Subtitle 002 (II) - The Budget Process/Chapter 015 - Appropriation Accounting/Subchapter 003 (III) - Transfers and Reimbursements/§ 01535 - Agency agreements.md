@@ -138,7 +138,7 @@ Extension of Regulations.—Not later than 90 days after the date of the enactme
 
 “(b)
 
-Description of Purchases.—A purchase referred to in subsection (a) is a purchase of goods or services for one agency of the Department of Defense by any other agency under a task or delivery order contract entered into by the other agency under section 2304a of title 10, United States Code, or section 303H of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253h).
+Description of Purchases.—A purchase referred to in subsection (a) is a purchase of goods or servicesfor one agency of the Department of Defense by any other agency under a task or delivery order contract entered into by the other agency under section 2304a of title 10, United States Code, or section 303H of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253h).
 
 “(c)
 
@@ -166,5 +166,5 @@ Pub. L. 101–163, title I, §8, Nov. 21, 1989, 103 Stat. 1046, provided that:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1536 of this title; title 2 sections 142j, 1385; title 7 section 5922; title 10 sections 377, 1104, 2205, 2684; title 16 sections 670c–1, 825k; title 22 sections 2358, 6204; title 24 section 168b; title 25 section 2804; title 29 section 563a; title 38 section 1720A; title 40 sections 270f, 298b, 1104; title 41 section 261; title 42 section 254; title 43 sections 1471c, 1471f; title 48 section 1469d; title 50 section 414.
+This section is referred to in section 1536 of this title; title 2 sections 142j, 182c, 1151, 1385; title 7 section 5922; title 10 sections 377, 1104, 2205, 2684; title 16 sections 670c–1, 825k; title 22 sections 2358, 6204; title 24 section 168b; title 25 section 2804; title 29 section 563a; title 38 section 1720A; title 40 sections 270f, 298b, 1104; title 41 section 261; title 42 section 254; title 43 sections 1471c, 1471f; title 48 section 1469d; title 50 section 414.
 

@@ -14,9 +14,7 @@
 
 (c) Any amount received by the United States as a result of an agreement entered into under this section shall be credited to applicable appropriations, accounts, and funds of the Department of Defense.
 
-(d) Notwithstanding subchapter I, the Secretary of Defense may enter into military airlift agreements with allied countries only under the authority of this section.
-
-(e) In this section:
+(d) In this section:
 
 &emsp;(1) The term “allied country” means any of the following:
 
@@ -28,7 +26,7 @@
 
 &emsp;(2) The term “North Atlantic Treaty Organization subsidiary bodies” has the meaning given to it by section 2350 of this title.
 
-(Added Pub. L. 97–252, title XI, §1125(a), Sept. 8, 1982, 96 Stat. 757, §2213; amended Pub. L. 99–145, title XIII, §1304(b), Nov. 8, 1985, 99 Stat. 742; Pub. L. 100–26, §7(k)(2), Apr. 21, 1987, 101 Stat. 284; renumbered §2350c and amended Pub. L. 101–189, div. A, title IX, §931(b)(2), (e)(4), Nov. 29, 1989, 103 Stat. 1534, 1535; Pub. L. 102–484, div. A, title XIII, §1311, Oct. 23, 1992, 106 Stat. 2547.)
+(Added Pub. L. 97–252, title XI, §1125(a), Sept. 8, 1982, 96 Stat. 757, §2213; amended Pub. L. 99–145, title XIII, §1304(b), Nov. 8, 1985, 99 Stat. 742; Pub. L. 100–26, §7(k)(2), Apr. 21, 1987, 101 Stat. 284; renumbered §2350c and amended Pub. L. 101–189, div. A, title IX, §931(b)(2), (e)(4), Nov. 29, 1989, 103 Stat. 1534, 1535; Pub. L. 102–484, div. A, title XIII, §1311, Oct. 23, 1992, 106 Stat. 2547; Pub. L. 106–398, §1 \[\[div. A\], title XII, §1222\], Oct. 30, 2000, 114 Stat. 1654, 1654A–328.)
 
 #### References in Text
 
@@ -36,7 +34,9 @@ The Arms Export Control Act (22 U.S.C. 2751 et seq.), referred to in subsec. (a)
 
 #### Amendments
 
-1992—Subsec. (a)(2). Pub. L. 102–484, §1311(a), substituted “as agreed upon by the parties. Liquidation shall be either by direct payment to the country that has provided the greater amount of transportation orby the providing of in-kind transportation services to that country. The liquidation shall occur on a regular basis, but not less often than once every 12 months.” for “not less often than once every 3 months by direct payment to the country that has provided the greater amount of transportation.”
+2000—Subsecs. (d), (e). Pub. L. 106–398 redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: “Notwithstanding subchapter I, the Secretary of Defense may enter into military airlift agreements with allied countries only under the authority of this section.”
+
+1992—Subsec. (a)(2). Pub. L. 102–484, §1311(a), substituted “as agreed upon by the parties. Liquidation shall be either by direct payment to the country that has provided the greater amount of transportation or by the providing of in-kind transportation services to that country. The liquidation shall occur on a regular basis, but not less often than once every 12 months.” for “not less often than once every 3 months by direct payment to the country that has provided the greater amount of transportation.”
 
 Subsec. (e)(1)(B). Pub. L. 102–484, §1311(b), substituted “, New Zealand, Japan, and the Republic of Korea” for “or New Zealand”.
 

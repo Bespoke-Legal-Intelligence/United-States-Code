@@ -2,11 +2,11 @@
 
 (a) The district courts shall have original jurisdiction of any civil action authorized by law to be commenced by any person:
 
-&emsp;(1) To recover damages for injury to his person or property, or because of the deprivation of any right or privilege of a citizen of the United States, by any act done in furtheranceof any conspiracy mentioned in section 1985 of Title 42;
+&emsp;(1) To recover damages for injury to his person or property, or because of the deprivation of any right or privilege of a citizen of the United States, by any act done in furtherance of any conspiracy mentioned in section 1985 of Title 42;
 
 &emsp;(2) To recover damages from any person who fails to prevent or to aid in preventing any wrongs mentioned in section 1985 of Title 42 which he had knowledge were about to occur and power to prevent;
 
-&emsp;(3) To redress the deprivation, under color of any State law, statute, ordinance, regulation, custom or usage, of any right, privilege or immunity secured by the Constitution of the United States or by any Act of Congress providing for equal rights of citizens or of all persons within the jurisdiction of the United States;
+&emsp;(3) To redress the deprivation, under color of any State law, statute, ordinance, regulation, custom or usage, of any right, privilege or immunity secured by the Constitution of theUnited States or by any Act of Congress providing for equal rights of citizens or of all persons within the jurisdiction of the United States;
 
 &emsp;(4) To recover damages or to secure equitable or other relief under any Act of Congress providing for the protection of civil rights, including the right to vote.
 
@@ -28,31 +28,15 @@ Numerous changes were made in arrangement and phraseology.
 
 #### Amendments
 
-1979—Pub. L. 96–170 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1979</b>—Pub. L. 96–170 designated existing provisions as subsec. (a) and added subsec. (b).
 
-1957—Pub. L. 85–315 inserted “and elective franchise” in section catchline and added par. (4).
+<b>1957</b>—Pub. L. 85–315 inserted “and elective franchise” in section catchline and added par. (4).
 
-1954—Act Sept. 3, 1954, substituted “section 1985 of Title 42” for “section 47 of Title 8” wherever appearing.
+<b>1954</b>—Act Sept. 3, 1954, substituted “section 1985 of Title 42” for “section 47 of Title 8” wherever appearing.
 
 #### Effective Date of 1979 Amendment
 
 Section 3 of Pub. L. 96–170 provided that: “The amendments made by this Act \[amending this section and section 1983 of Title 42, The Public Health and Welfare\] shall apply with respect to any deprivation of rights, privileges, or immunities secured by the Constitution and laws occurring after the date of the enactment of this Act \[Dec. 29, 1979\].”
-
-#### Cross References
-
-Generally, see section 1981 et seq. of Title 42, The Public Health and Welfare.
-
-Amount in controversy immaterial in action under this section, see Historical and Revision Notes under section 1331 of this title.
-
-Civil action for deprivation of civil rights, see section 1983 of Title 42, The Public Health and Welfare.
-
-Civil action or injunction for deprivation of voting rights, see section 1971 of Title 42.
-
-Conspiracy against rights of citizens constituting federal crime, see section 241 of Title 18, Crimes and Criminal Procedure.
-
-Conspiracy to interfere with civil rights, see section 1985 of Title 42, The Public Health and Welfare.
-
-Diversity of citizenship immaterial in action under this section, see Historical and Revision Notes under section 1332 of this title.
 
 #### Section Referred to in Other Sections
 

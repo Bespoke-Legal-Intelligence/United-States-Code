@@ -10,7 +10,7 @@ The Congress finds that—
 
 &emsp;(2) uniform national labeling requirements for regulated batteries, rechargeable consumer products, and product packaging will significantly benefit programs for regulated battery collection and recycling or proper disposal; and
 
-&emsp;(3) it is in the public interest to encourage persons who use rechargeable batteries to participate in collection for recycling of used nickel-cadmium, small sealed lead-acid, and other regulated batteries.
+&emsp;(3) it is in the public interest to encourage persons who use rechargeable batteries to participate in collection for recycling of usednickel-cadmium, small sealed lead-acid, and other regulated batteries.
 
 (Pub. L. 104–142, §2, May 13, 1996, 110 Stat. 1329.)
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The penalties set forth in this section shall be in addition to any other available civil remedy or criminal penalty, and may be imposed whether or not the Secretary imposes other administrative sanctions. The Secretary may not impose penalties under this section for violations a material cause of which are the failure of the Department, an agent of the Department, or apublic housing agency to comply with existing agreements.
+The penalties set forth in this section shall be in addition to any other available civil remedy or criminal penalty, and may be imposed whether or not the Secretary imposes other administrative sanctions. The Secretary may not impose penalties under this section for violations a material cause of which are the failure of the Department, an agent of the Department, or a public housing agency to comply with existing agreements.
 
 #### (b) Penalty for violation of agreement as condition of transfer of physical assets, flexible subsidy loan, capital improvement loan, modification of mortgage terms, or workout agreement
 
@@ -48,7 +48,7 @@ The penalties set forth in this section shall be in addition to any other availa
 
 #### (2) Amount of penalty
 
-&emsp;A penalty imposed for a violation under this subsection, as determined by the Secretary,may not exceed $25,000 for a violation of any of the subparagraphs of paragraph (1).
+&emsp;A penalty imposed for a violation under this subsection, as determined by the Secretary, may not exceed $25,000 for a violation of any of the subparagraphs of paragraph (1).
 
 #### (d) Agency procedures
 

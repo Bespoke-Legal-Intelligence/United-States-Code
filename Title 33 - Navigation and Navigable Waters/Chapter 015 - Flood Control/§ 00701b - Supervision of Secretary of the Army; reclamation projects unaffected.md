@@ -48,10 +48,6 @@ Limitation on use of methodology.—During the period beginning on the date of t
 
 Authorization of appropriations.—There is authorized to be appropriated $250,000 to carry out this subsection.”
 
-#### Cross References
-
-River, harbor, and other waterways, supervision of, see section 540 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 701b–1, 701b–2, 701b–4, 701b–6, 701b–7, 701c–1, 701e, 701f–1, 701j, 702a–12 of this title.

@@ -12,20 +12,6 @@ Words “civil action” were substituted for “action or suit,” in view of R
 
 Minor changes were made in phraseology.
 
-#### Cross References
-
-Action arising under law of United States, see section 1331 of this title.
-
-Action by agency of United States, see section 1345 of this title.
-
-Action by or against—
-
-&emsp;&emsp;Federal land banks, see section 2012 of Title 12, Banks and Banking.
-
-&emsp;&emsp;Federal reserve banks, see section 632 of Title 12.
-
-&emsp;&emsp;National banking association, see section 1348 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in title 12 sections 1452, 2279aa–14.

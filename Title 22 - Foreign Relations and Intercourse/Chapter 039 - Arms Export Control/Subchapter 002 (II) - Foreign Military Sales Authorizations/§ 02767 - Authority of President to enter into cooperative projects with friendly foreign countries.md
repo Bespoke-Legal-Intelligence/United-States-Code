@@ -28,7 +28,7 @@ As used in this section—
 
 #### (c) Agreements for equitable share of costs; limiting nature of agreements
 
-Each agreement for a cooperative project shall provide that the United States and each of the other participants will contribute to the cooperative project its equitable share of the full cost of such cooperative project and will receive an equitable share of the results of such cooperative project. The full costs of such cooperative project shall include overhead costs, administrative costs, and costs of claims. The United States and the other participants may contribute their equitable shares of the full cost of such cooperative project in funds or in defense articles or defense services needed for such cooperative project. Military assistance and financing received from the United States Government may not be used by any other participant to provide its share of the cost of such cooperative project. Such agreements shall provide that no requirement shall be imposed by a participant for worksharing or other industrial or commercial compensation in connection with such agreement that is not in accordance with such agreement.
+Each agreement for a cooperative project shall provide that the United States and each of the other participants will contribute to the cooperative project its equitable share of the full cost of such cooperative project and will receive an equitable share of the results of such cooperative project. The full costs of such cooperative project shall include overhead costs, administrative costs, and costs of claims. The United States and the other participants may contribute their equitable shares of the full cost of such cooperative project in funds or in defense articles or defense services needed for such cooperative project. Military assistance and financing received from the United States Government may not be used by any other participant to provide its share of the cost of such cooperative project. Such agreements shall provide that norequirement shall be imposed by a participant for worksharing or other industrial or commercial compensation in connection with such agreement that is not in accordance with such agreement.
 
 #### (d) Contractual or other obligation; preconditions
 
@@ -68,15 +68,15 @@ The authority under this section is in addition to the authority under sections 
 
 #### (i) Agreements entered into before October 1, 1985
 
-(1) With the approval of the Secretary of State and the Secretary of Defense, a cooperativeagreement which was entered into by the United States before the effective date <sup>4</sup> of the amendment to this section made by the International Security and Development Cooperation Act of 1985 and which meets the requirements of this section as so amended may be treated on and after such date as having been made under this section as so amended.
+(1) With the approval of the Secretary of State and the Secretary of Defense, a cooperative agreement which was entered into by the United States before the effective date <sup>4</sup> of the amendment to this section made by the International Security and Development Cooperation Act of 1985 and which meets the requirements of this section as so amended may be treated on and after such date as having been made under this section as so amended.
 
 (2) Notwithstanding the amendment made <sup>5</sup> to this section made by the International Security and Development Cooperation Act of 1985, projects entered into under the authority of this section before the effective date <sup>4</sup> of that amendment may be carried through to conclusion in accordance with the terms of this section as in effect immediately before the effective date <sup>4</sup> of that amendment.
 
-#### (j) Cooperative project agreements with friendly foreign countries not members of NATO; reporting requirements
+#### (j) Cooperative project agreements with friendly foreign countries not members of NATO
 
-(1) The President may enter into a cooperative project agreement with any friendly foreign country not a member of the North Atlantic Treaty Organization under the same general terms and conditions as the President is authorized to enter into such an agreement with one or more member countries of the North Atlantic Treaty Organization if the President determines that the cooperative project agreement with such country would be in the foreign policy or national security interests of the United States.
+(1) The President may enter into a cooperative project agreement with any friendly foreigncountry not a member of the North Atlantic Treaty Organization under the same general terms and conditions as the President is authorized to enter into such an agreement with one or more member countries of the North Atlantic Treaty Organization if the President determines that the cooperative project agreement with such country would be in the foreign policy or national security interests of the United States.
 
-(2) Not later than January 1 of each year, the President shall submit to the Committees on Armed Services and Foreign Relations of the Senate and to the Committees on Armed Services and Foreign Affairs of the House of Representatives a report specifying (A) the countries eligible for participation in such a cooperative project agreement under this subsection, and (B) the criteria used to determine the eligibility of such countries.
+(2) Omitted.
 
 (Pub. L. 90–629, ch. 2, §27, as added Pub. L. 96–92, §15, Oct. 29, 1979, 93 Stat. 706; amended Pub. L. 99–83, title I, §115(a), Aug. 8, 1985, 99 Stat. 199; Pub. L. 99–145, title XI, §1102(a)(1), (5), Nov. 8, 1985, 99 Stat. 708, 710; Pub. L. 99–661, div. A, title XI, §1103(a), title XIII, §1342(e), Nov. 14, 1986, 100 Stat. 3962, 3991; Pub. L. 100–180, div. A, title X, §1022, Dec. 4, 1987, 101 Stat. 1144; Pub. L. 102–484, div. A, title VIII, §843(a), Oct. 23, 1992, 106 Stat. 2468.)
 
@@ -85,6 +85,10 @@ The authority under this section is in addition to the authority under sections 
 The effective date of the International Security and Development Cooperation Act of 1985 and the effective date of the amendment to this section made by the International Security and Development Cooperation Act of 1985, referred to in subsecs. (e)(1) and (i), respectively, is October 1, 1985, see section 1301 of Pub. L. 99–83, set out as an Effective Date of 1985 Amendment note under section 2151–1 of this title.
 
 The amendment made to this section made by the International Security and Development Cooperation Act of 1985, referred to in subsec. (i), means the general amendment of this section by section 115(a) of Pub. L. 99–83. See 1985 Amendment note below.
+
+#### Codification
+
+Subsec. (j)(2) of this section, which required the President to submit to certain committees of Congress an annual report specifying countries eligible, and criteria used to determine eligibility, for participation in cooperative project agreements under subsec. (j)(1) of this section, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 39 of House Document No. 103–7.
 
 #### Amendments
 

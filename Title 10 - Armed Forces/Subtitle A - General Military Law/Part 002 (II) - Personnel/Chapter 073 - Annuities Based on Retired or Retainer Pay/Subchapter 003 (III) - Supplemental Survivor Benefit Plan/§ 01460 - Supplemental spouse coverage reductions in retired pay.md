@@ -26,7 +26,7 @@ Suspension of Reduction When There Is No Spouse Beneficiary.—A reduction in re
 
 (d)
 
-Adjustments in Amount of Reduction.—Whenever the amount of the reduction in retired pay of a participant in the Survivor Benefit Plan is increased under section 1452(h) of this title or recomputed under section 1452(i) of this title, the amount of the reduction in that retired pay under this section shall be increased or recomputed, as the case may be, at the same time and in the same manner as that increase or recomputation.
+Adjustments in Amount of Reduction.—Whenever the amount of the reduction in retiredpay of a participant in the Survivor Benefit Plan is increased under section 1452(h) of this title or recomputed under section 1452(i) of this title, the amount of the reduction in that retired pay under this section shall be increased or recomputed, as the case may be, at the same time and in the same manner as that increase or recomputation.
 
 (e)
 

@@ -18,10 +18,6 @@ Minor changes were made in phraseology.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000” in last par.
 
-#### Cross References
-
-Secret Service, detection, arrest and delivery into custody of any person violating this section, see section 3056 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 3056 of this title.

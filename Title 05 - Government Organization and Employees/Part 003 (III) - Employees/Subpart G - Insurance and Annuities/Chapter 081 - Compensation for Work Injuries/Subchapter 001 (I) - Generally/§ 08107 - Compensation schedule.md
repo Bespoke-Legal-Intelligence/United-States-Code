@@ -50,7 +50,7 @@
 
 &emsp;(15) Compensation for loss of more than one phalanx of a digit is the same as for loss of the entire digit. Compensation for loss of the first phalanx is one-half of the compensation for loss of the entire digit.
 
-&emsp;(16) If, in the case of an arm or a leg, the member is amputated above the wrist or ankle, compensation is the same as for loss of the arm or leg, respectively.
+&emsp;(16) If, in the case of an arm or a leg, the member is amputated above the wrist orankle, compensation is the same as for loss of the arm or leg, respectively.
 
 &emsp;(17) Compensation for loss of use of two or more digits, or one or more phalanges of each of two or more digits, of a hand or foot, is proportioned to the loss of use of the hand or foot occasioned thereby.
 
@@ -131,10 +131,6 @@ Amendment by Pub. L. 93–416 effective Sept. 7, 1974, and applicable to any inj
 #### Personnel Not Affected by 1967 Increase
 
 Increases authorized under amendment by Pub. L. 90–83 not applicable to specified personnel, see section 7 of Pub. L. 90–83, set out as a note under section 8103 of this title.
-
-#### Cross References
-
-Right to compensation for scheduled disabilities specified by subsec. (c) of this section not impaired by eligibility for benefits under subchapter III of chapter 83 of this title or another retirement system for Government employees, see section 8116 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -28,9 +28,3 @@ July 11, 1919, ch. 8 (2d par. under “Air Service”), 41 Stat. 109.
 
 June 3, 1941, ch. 165, §2, 55 Stat. 239.
 
-#### Cross References
-
-Discharge of aviation cadets at any time, see section 8817 of this title.
-
-Subsistence allowance, see section 402 of Title 37, Pay and Allowances of the Uniformed Services.
-

@@ -12,7 +12,7 @@ The Secretary shall establish a comprehensive Fetal Alcohol Syndrome and Fetal A
 
 &emsp;&emsp;(C) public and community awareness programs concerning Fetal Alcohol Syndrome and Fetal Alcohol Effect; and
 
-&emsp;&emsp;(D) strategies to coordinate information and services across affected community agencies, including agencies providing social services such as foster care, adoption, and social work, medical and mental health services, and agencies involved in education, vocational training and civil and criminal justice;
+&emsp;&emsp;(D) strategies to coordinate information and services across affected communityagencies, including agencies providing social services such as foster care, adoption, and social work, medical and mental health services, and agencies involved in education, vocational training and civil and criminal justice;
 
 &emsp;(2) a prevention and diagnosis program to support clinical studies, demonstrations and other research as appropriate to—
 
@@ -48,7 +48,7 @@ In carrying out this section, the Secretary shall develop a procedure for dissem
 
 &emsp;The Task Force shall—
 
-&emsp;&emsp;(A) advise Federal, State and local programs and research concerning Fetal Alcohol Syndrome and Fetal Alcohol Effect, including programs and research concerningeducation and public awareness for relevant service providers, school-age children, women at-risk, and the general public, medical diagnosis, interventions for women at-risk of giving birth to children with Fetal Alcohol Syndrome and Fetal Alcohol Effect, and beneficial services for individuals with Fetal Alcohol Syndrome and Fetal Alcohol Effect and their families;
+&emsp;&emsp;(A) advise Federal, State and local programs and research concerning Fetal Alcohol Syndrome and Fetal Alcohol Effect, including programs and research concerning education and public awareness for relevant service providers, school-age children, women at-risk, and the general public, medical diagnosis, interventions for women at-risk of giving birth to children with Fetal Alcohol Syndrome and Fetal Alcohol Effect, and beneficial services for individuals with Fetal Alcohol Syndrome and Fetal Alcohol Effect and their families;
 
 &emsp;&emsp;(B) coordinate its efforts with the Interagency Coordinating Committee on Fetal Alcohol Syndrome of the Department of Health and Human Services; and
 
@@ -58,11 +58,21 @@ In carrying out this section, the Secretary shall develop a procedure for dissem
 
 &emsp;The members of the Task Force shall be appointed by the Secretary not later than 6 months after November 13, 1998.
 
-(July 1, 1944, ch. 373, title III, §399G, as added Pub. L. 105–392, title IV, §419(d), Nov. 13, 1998, 112 Stat. 3593.)
+(July 1, 1944, ch. 373, title III, §399H, formerly §399G, as added Pub. L. 105–392, title IV, §419(d), Nov. 13, 1998, 112 Stat. 3593; renumbered §399H and amended Pub. L. 106–310, div. A, title V, §502(4)(A), (B), Oct. 17, 2000, 114 Stat. 1115.)
 
 #### References in Text
 
 Section 705 of the ADAMHA Reorganization Act, referred to in subsec. (c), is section 705 of Pub. L. 102–321, title VII, July 10, 1992, 106 Stat. 438, which was formerly set out as a note under section 285n of this title.
+
+#### Prior Provisions
+
+A prior section 399H of act July 1, 1944, was renumbered section 399B and is classified to section 280e of this title.
+
+Another prior section 399H of act July 1, 1944, was renumbered section 399I and is classified to section 280f–1 of this title.
+
+#### Amendments
+
+2000—Subsec. (b). Pub. L. 106–310, §502(4)(B), made technical amendment to reference in original act which appears in text as reference to section 280f–1 of this title.
 
 #### Congressional Findings and Purpose
 
@@ -94,7 +104,7 @@ Findings.—Congress finds that—
 
 “(c)
 
-Purpose.—It is the purpose of this section to establish, within the Department of Health and Human Services, a comprehensive program to help prevent Fetal Alcohol Syndrome and Fetal Alcohol Effect nationwide and to provide effective intervention programs and services for children, adolescents and adults already affected by these conditions. Such program shall—
+Purpose.—It is the purpose of this section \[enacting this part and provisions set out as a note under section 201 of this title\] to establish, within the Department of Health and Human Services, a comprehensive program to help prevent Fetal Alcohol Syndrome and Fetal Alcohol Effect nationwide and to provide effective intervention programs and services for children, adolescents and adults already affected by these conditions. Such program shall—
 
 &emsp;“(1) coordinate, support, and conduct national, State, and community-based public awareness, prevention, and education programs on Fetal Alcohol Syndrome and Fetal Alcohol Effect;
 

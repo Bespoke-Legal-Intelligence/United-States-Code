@@ -28,7 +28,7 @@
 
 &emsp;(2) The term “dependency and indemnity compensation” means death compensation payable under section 1121 or 1141 of this title, death compensation and dependency and indemnity compensation payable under section 1151 of this title, and any benefit payable under chapter 13 of this title.
 
-(Added Pub. L. 96–385, title V, §504(a), Oct. 7, 1980, 94 Stat. 1534, §3113; amended Pub. L. 98–160, title VII, §702(17), Nov. 21, 1983, 97 Stat. 1010; renumbered §5313 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §§4(b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 105–368, title X, §1005(b)(16), Nov. 11, 1998, 112 Stat. 3365.)
+(Added Pub. L. 96–385, title V, §504(a), Oct. 7, 1980, 94 Stat. 1534, §3113; amended Pub. L. 98–160, title VII, §702(17), Nov. 21, 1983, 97 Stat. 1010; renumbered §5313 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238,239; Pub. L. 102–83, §§4(b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 105–368, title X, §1005(b)(16), Nov. 11, 1998, 112 Stat. 3365.)
 
 #### Amendments
 

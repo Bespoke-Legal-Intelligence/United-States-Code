@@ -12,7 +12,3 @@ A prior section 15, R.S. §458; 1940 Reorg. Plan No. III, §4 eff. June 30, 1940
 
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under section 1451 of this title.
 
-#### Cross References
-
-Documents required by act of Congress to be published in the Federal Register, see section 1505 of Title 44, Public Printing and Documents.
-

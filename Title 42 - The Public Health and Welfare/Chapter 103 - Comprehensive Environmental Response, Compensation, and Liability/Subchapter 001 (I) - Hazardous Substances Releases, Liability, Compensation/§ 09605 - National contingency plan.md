@@ -30,7 +30,7 @@ Within one hundred and eighty days after December 11, 1980, the President shall,
 
 #### (b) Revision of plan
 
-Not later than 18 months after the enactment of the Superfund Amendments and Reauthorization Act of 1986 \[October 17, 1986\], the President shall revise the National Contingency Plan to reflect the requirements of such amendments. The portion of such Plan known as “the National Hazardous Substance Response Plan” shall be revised to provide procedures and standards for remedial actions undertaken pursuantto this chapter which are consistent with amendments made by the Superfund Amendments and Reauthorization Act of 1986 relating to the selection of remedial action.
+Not later than 18 months after the enactment of the Superfund Amendments and Reauthorization Act of 1986 \[October 17, 1986\], the President shall revise the National Contingency Plan to reflect the requirements of such amendments. The portion of such Plan known as “the National Hazardous Substance Response Plan” shall be revised to provide procedures and standards for remedial actions undertaken pursuant to this chapter which are consistent with amendments made by the Superfund Amendments and Reauthorization Act of 1986 relating to the selection of remedial action.
 
 #### (c) Hazard ranking system
 
@@ -40,7 +40,7 @@ Not later than 18 months after the enactment of the Superfund Amendments and Rea
 
 #### (2) Health assessment of water contamination risks
 
-&emsp;In carrying out this subsection, the President shall ensure that the human health risks associated with the contamination or potential contamination (either directly or as a result of the runoff of any hazardous substance or pollutant or contaminant from sites or facilities) of surface water are appropriately assessed where such surface water is, or can be, used for recreation or potable water consumption. In making the assessment required pursuant to the preceding sentence, the President shall take into account the potential migration of any hazardous substance or pollutant or contaminant through such surface water to downstream sources of drinking water.
+&emsp;In carrying out this subsection, the President shall ensure that the human health risks associated with the contamination or potential contamination (either directly or as a result of the runoff of any hazardous substanceor pollutant or contaminant from sites or facilities) of surface water are appropriately assessed where such surface water is, or can be, used for recreation or potable water consumption. In making the assessment required pursuant to the preceding sentence, the President shall take into account the potential migration of any hazardous substance or pollutant or contaminant through such surface water to downstream sources of drinking water.
 
 #### (3) Reevaluation not required
 
@@ -78,7 +78,7 @@ In awarding contracts under this chapter, the President shall consider the avail
 
 &emsp;&emsp;(A) The extent to which hazard ranking system score for the facility is affected by the presence of any special study waste at, or any release from, such facility.
 
-&emsp;&emsp;(B) Available information as to the quantity, toxicity, and concentration of hazardous substances that are constituents of any special study waste at, or released from such facility, the extent of or potential for release of such hazardous constituents, the exposure or potential exposure to human population and the environment, and the degreeof hazard to human health or the environment posed by the release of such hazardous constituents at such facility. This subparagraph refers only to available information on actual concentrations of hazardous substances and not on the total quantity of special study waste at such facility.
+&emsp;&emsp;(B) Available information as to the quantity, toxicity, and concentration of hazardous substances that are constituents of any special study waste at, or released from such facility, the extent of or potential for release of such hazardous constituents, the exposure or potential exposure to human population and the environment, and the degree of hazard to human health or the environment posed by the release of such hazardous constituents at such facility. This subparagraph refers only to available information on actual concentrations of hazardous substances and not on the total quantity of special study waste at such facility.
 
 #### (3) Savings provisions
 
@@ -94,7 +94,7 @@ In awarding contracts under this chapter, the President shall consider the avail
 
 Section 1321(c)(2) of title 33, referred to in subsec. (a), was amended generally by Pub. L. 101–380, title IV, §4201(a), Aug. 18, 1990, 104 Stat. 523. Prior to general amendment, subsec. (c)(2) related to preparation of a National Contingency Plan. Provisions relating to a National Contingency Plan are contained in section 1321(d) of Title 33, Navigation and Navigable Waters.
 
-Such amendments and the amendments made by the Superfund Amendments and Reauthorization Act of 1986, referred to in subsec. (b), are the amendments made by Pub. L. 99–499, Oct. 17, 1986, 100 Stat. 1613. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under section 9601 of this title and Tables.
+Such amendments and the amendments made by the Superfund Amendments and Reauthorization Act of 1986, referred to in subsec. (b), are the amendmentsmade by Pub. L. 99–499, Oct. 17, 1986, 100 Stat. 1613. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under section 9601 of this title and Tables.
 
 #### Amendments
 

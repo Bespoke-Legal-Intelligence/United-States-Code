@@ -10,7 +10,7 @@ The Secretary shall provide support and technical assistance to the State educat
 
 #### (c) Evaluation and dissemination
 
-The Secretary shall conduct evaluation and dissemination activities of programs designed tomeet the educational needs of homeless elementary and secondary school students, and may use funds appropriated under section 11435 of this title to conduct such activities.
+The Secretary shall conduct evaluation and dissemination activities of programs designed to meet the educational needs of homeless elementary and secondary school students, and may use funds appropriated under section 11435 of this title to conduct such activities.
 
 #### (d) Submission and distribution
 
@@ -22,7 +22,7 @@ The Secretary, based on the information received from the States and information
 
 #### (f) Reports
 
-The Secretary shall prepare and submit a report to the Committee on Education and Labor of the House of Representatives and the Committee on Labor and Human Resources of the Senate on the programs and activities authorized by this subtitle by December 31, 1997, and every third year thereafter.
+The Secretary shall prepare and submit a report to the Committee on Education and Labor of the House of Representatives and the Committee on Labor and Human Resources of the Senate on the programs and activities authorized by this part by December 31, 1997, and every third year thereafter.
 
 (Pub. L. 100–77, title VII, §724, as added Pub. L. 103–382, title III, §323, Oct. 20, 1994, 108 Stat. 3964.)
 

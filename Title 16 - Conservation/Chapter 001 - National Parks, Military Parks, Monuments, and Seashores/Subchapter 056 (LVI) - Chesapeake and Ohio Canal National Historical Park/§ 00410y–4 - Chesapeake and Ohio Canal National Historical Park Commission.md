@@ -32,11 +32,13 @@ The Commission shall act and advise by affirmative vote of a majority of the mem
 
 #### (g) Termination
 
-The Commission shall cease to exist thirty years from January 8, 1971.
+The Commission shall cease to exist 40 years from January 8, 1971.
 
-(Pub. L. 91–664, §6, Jan. 8, 1971, 84 Stat. 1980; Pub. L. 96–555, Dec. 19, 1980, 94 Stat. 3260; Pub. L. 101–320, July 3, 1990, 104 Stat. 292.)
+(Pub. L. 91–664, §6, Jan. 8, 1971, 84 Stat. 1980; Pub. L. 96–555, Dec. 19, 1980, 94 Stat. 3260; Pub. L. 101–320, July 3, 1990, 104 Stat. 292; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §134\], Dec. 21, 2000, 114 Stat. 2763, 2763A–230.)
 
 #### Amendments
+
+2000—Subsec. (g). Pub. L. 106–554 substituted “40” for “thirty”.
 
 1990—Subsec. (c). Pub. L. 101–320, §1(a), inserted at end “A member may serve after the expiration of his term until his successor has taken office.”
 

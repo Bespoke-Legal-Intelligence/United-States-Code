@@ -26,7 +26,3 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 Subsec. (c). Pub. L. 94–546, §1(10)(b), substituted “Secretary of the Army” for “Chief of Ordnance”.
 
-#### Cross References
-
-Interchange of supplies between Army, Navy, and Coast Guard, see section 2571 of Title 10, Armed Forces.
-

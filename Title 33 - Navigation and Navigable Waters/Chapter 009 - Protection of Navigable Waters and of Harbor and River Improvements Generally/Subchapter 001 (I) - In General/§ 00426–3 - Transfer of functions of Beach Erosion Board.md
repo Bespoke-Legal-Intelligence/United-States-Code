@@ -10,7 +10,7 @@ For termination of Board of Engineers for Rivers and Harbors 180 days after Oct.
 
 #### Abolition of Beach Erosion Board
 
-Section 1 of Pub. L. 88–172 abolished Beach Erosion Board, and is set out as a note under section 426 of thistitle. For transfer of certain functions of Board to Coastal Engineering Research Center, see section 426–1 of this title.
+Section 1 of Pub. L. 88–172 abolished Beach Erosion Board, and is set out as a note under section 426 of this title. For transfer of certain functions of Board to Coastal Engineering Research Center, see section 426–1 of this title.
 
 #### Section Referred to in Other Sections
 

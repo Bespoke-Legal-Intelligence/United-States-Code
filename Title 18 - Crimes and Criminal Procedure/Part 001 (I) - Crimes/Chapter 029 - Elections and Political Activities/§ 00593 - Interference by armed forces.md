@@ -26,9 +26,3 @@ Four sections were consolidated with only such changes of phraseology as were ne
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000” in sixth par.
 
-#### Cross References
-
-Disqualification from holding any office of honor, trust, or profit, additional grounds for, see sections 592, 1901, 2071, 2381, 2385, and 2387 of this title.
-
-Interference by Army or Navy officers with freedom of elections, see section 1972 of Title 42, The Public Health and Welfare.
-

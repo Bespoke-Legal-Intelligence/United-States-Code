@@ -6,5 +6,5 @@ All of the funds made available under this chapter shall be used in accordance w
 
 #### References in Text
 
-The School-to-Work Opportunities Act of 1994, referred to in text, is Pub. L. 103–239, May 4, 1994, 108 Stat. 568, as amended, which is classified principally to chapter 69 (§6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
+The School-to-Work Opportunities Act of 1994, referred to in text, is Pub. L. 103–239, May 4, 1994, 108Stat. 568, as amended, which is classified principally to chapter 69 (§6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
 

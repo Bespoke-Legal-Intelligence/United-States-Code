@@ -130,7 +130,7 @@ The Secretary shall, within 18 months after August 10, 1993, and within 6 months
 
 #### (1) Timetable required
 
-&emsp;The Secretary shall, as part of the reports required by subsections (a) and (d)(1) of this section, include a timetable that recommends effective dates by which the President shall withdraw or limit assignments of the frequencies specified in such reports.
+&emsp;The Secretary shall, as part of the reports required by subsections (a) and (d)(1) of this section, include a timetable that recommendseffective dates by which the President shall withdraw or limit assignments of the frequencies specified in such reports.
 
 #### (2) Expedited reallocation
 
@@ -178,11 +178,11 @@ If the Secretary receives a notice from the Commission pursuant to section 3002(
 
 #### (ii) Availability
 
-&emsp;&emsp;&emsp;Subject to the provisions of authorization Acts and appropriations Acts,amounts deposited under this subparagraph shall be available to the Federal entity concerned to pay directly the costs of relocation under this paragraph, to repay or make advances to appropriations or funds which do or will initially bear all or part of such costs, or to refund excess sums when necessary.
+&emsp;&emsp;&emsp;Subject to the provisions of authorization Acts and appropriations Acts, amounts deposited under this subparagraph shall be available to the Federal entity concerned to pay directly the costs of relocation under this paragraph, to repay or make advances to appropriations or funds which do or will initially bear all or part of such costs, or to refund excess sums when necessary.
 
 #### (D) Application to certain other relocations
 
-&emsp;&emsp;The provisions of this paragraph also apply to any Federal entity that operates a Federal Government station assigned to used <sup>1</sup> electromagnetic spectrum identified for reallocation under subsection (a) of this section if before August 5, 1997, the Commission has not identified that spectrum for service or assigned licenses or otherwise authorized service for that spectrum.
+&emsp;&emsp;The provisions of this paragraph also apply to any Federal entity that operates a Federal Government station assigned to used <sup>1</sup> electromagnetic spectrum identified for reallocation under subsection (a) of this section if before August 5, 1997, the Commission has not identified that spectrum for serviceor assigned licenses or otherwise authorized service for that spectrum.
 
 #### (E) Implementation procedures
 

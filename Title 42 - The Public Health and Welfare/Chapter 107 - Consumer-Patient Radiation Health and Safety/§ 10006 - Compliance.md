@@ -16,7 +16,7 @@ A State may utilize an accreditation or certification program administered by a 
 
 #### (c) Noncompliance; proposed legislative changes
 
-Absent compliance by the States with the provisions of this chapter within three years after August 13, 1981, the Secretary shall report to the Congress recommendations for legislative changes considered necessary to assure the States’ compliance with this chapter.
+Absent compliance by the States with the provisions of this chapter within three years after August 13, 1981, the Secretary shall report to theCongress recommendations for legislative changes considered necessary to assure the States’ compliance with this chapter.
 
 #### (d) Repealed. Pub. L. 104–66, title I, §1061(b), Dec. 21, 1995, 109 Stat. 719
 

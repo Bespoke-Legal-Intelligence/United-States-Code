@@ -50,7 +50,7 @@ In addition to any other fee authorized by law, the Attorney General shall charg
 
 > the person providing transportation to such passenger shall collect such fee at the time such passenger departs from the United States and shall provide such passenger a receipt for the payment of such fee.
 
-(3) The person who collects fees under paragraph (1) or (2) shall remit those fees to the Attorney General at any time before the date that is thirty-one days after the close of the calendar quarter in which the fees are collected, except the fourth quarter payment for fees collected from airline passengers shall be made on the date that is ten days before the end of the fiscal year, and the first quarter payment shall include any collections made in the preceding quarter that were not remitted with the previous payment. Regulations issued by the Attorney General under this subsection with respect to the collection of the fees charged under subsection (d) of this section and the remittance of such fees to the Treasury of the United States shall be consistent with the regulations issued by the Secretary of the Treasury for the collection and remittance of the taxes imposed bysubchapter C of chapter 33 of title 26, but only to the extent the regulations issued with respect to such taxes do not conflict with the provisions of this section.
+(3) The person who collects fees under paragraph (1) or (2) shall remit those fees to the Attorney General at any time before the date that is thirty-one days after the close of the calendar quarter in which the fees are collected, except the fourth quarter payment for fees collected from airline passengers shall be made on the date that is ten days before the end of the fiscal year, and the first quarter payment shall include any collections made in the preceding quarter that were not remitted with the previous payment. Regulations issued by the Attorney General under this subsection with respect to the collection of the fees charged under subsection (d) of this section and the remittance of such fees to the Treasury of the United States shall be consistent with the regulations issued by the Secretary of the Treasury for the collection and remittance of the taxes imposed by subchapter C of chapter 33 of title 26, but only to the extent the regulations issued with respect to such taxes do not conflict with the provisions of this section.
 
 #### (g) Provision of immigration inspection and preinspection services
 
@@ -94,7 +94,7 @@ The Attorney General may prescribe such rules and regulations as may be necessar
 
 #### (k) Advisory committee
 
-In accordance with the provisions of the Federal Advisory Committee Act, the Attorney General shall establish an advisory committee, whose membership shall consist of representatives from the airline and other transportation industries who may be subject to any fee or charge authorized by law or proposed by the Immigration and Naturalization Service for the purpose of covering expenses incurred by the Immigration and Naturalization Service. The advisory committee shall meet on a periodic basis and shall advise the Attorney General on issues related to the performance of the inspectionalservices of the Immigration and Naturalization Service. This advice shall include, but not be limited to, such issues as the time periods during which such services should be performed, the proper number and deployment of inspection officers, the level of fees, and the appropriateness of any proposed fee. The Attorney General shall give substantial consideration to the views of the advisory committee in the exercise of his duties.
+In accordance with the provisions of the Federal Advisory Committee Act, the Attorney General shall establish an advisory committee, whose membership shall consist of representatives from the airline and other transportation industries who may be subject to any fee or charge authorized by law or proposed by the Immigration and Naturalization Service for the purpose of covering expenses incurred by the Immigration and Naturalization Service. The advisory committee shall meet on a periodic basis and shall advise the Attorney General on issues related to the performance of the inspectional services of the Immigration and Naturalization Service. This advice shall include, but not be limited to, such issues as the time periods during which such services should be performed, the proper number and deployment of inspection officers, the level of fees, and the appropriateness of any proposed fee. The Attorney General shall give substantial consideration to the views of the advisory committee in the exercise of his duties.
 
 #### (<i>l</i>) Report to Congress
 
@@ -122,7 +122,7 @@ The provisions set forth in subsections (m), (n), and (<i>o</i>) of this section
 
 (ii) This subparagraph shall take effect, with respect to any project described in clause (1) <sup>2</sup> that was not authorized to be commenced before September 30, 1996, 30 days after submission of a written plan by the Attorney General detailing the proposed implementation of such project.
 
-(iii) The Attorney General shall prepare and submit on a quarterly basis a status report on each land border inspection project implemented under this subparagraph.
+(iii) The Attorney General shall prepare and submit on a quarterly basis a status report oneach land border inspection project implemented under this subparagraph.
 
 (B) The Attorney General, in consultation with the Secretary of the Treasury, may conduct pilot projects to demonstrate the use of designated ports of entry after working hours through the use of card reading machines or other appropriate technology.
 
@@ -172,31 +172,43 @@ The provisions set forth in subsections (m), (n), and (<i>o</i>) of this section
 
 #### (2) Use of fees for job training
 
-&emsp;56\.3 percent of amounts deposited into the H–1B Nonimmigrant Petitioner Account shall remain available to the Secretary of Labor until expended for demonstration programs and projects described in section 414(c) of the American Competitiveness and Workforce Improvement Act of 1998.
+&emsp;55 percent of amounts deposited into the H–1B Nonimmigrant Petitioner Account shall remain available to the Secretary of Labor until expended for demonstration programs and projects described in section 414(c) of the American Competitiveness and Workforce Improvement Act of 1998.
 
 #### (3) Use of fees for low-income scholarship program
 
-&emsp;28\.2 percent of the amounts deposited into the H–1B Nonimmigrant Petitioner Account shall remain available to the Director of the National Science Foundation until expended for scholarships described in section 1869c of title 42 for low-income students enrolled in a program of study leading to a degree in mathematics, engineering, or computer science.
+&emsp;22 percent of the amounts deposited into the H–1B Nonimmigrant Petitioner Account shall remain available to the Director of the National Science Foundation until expended for scholarships described in section 1869c of title 42 for low-income students enrolled in a program of study leading to a degree in mathematics, engineering, or computer science.
 
-#### (4) Additional NSF uses
+#### (4) National Science Foundation competitive grant program for K–12 math, science and technology education
 
-#### (A) Grants for mathematics, engineering, or science enrichment courses
+#### (A) In general
 
-&emsp;&emsp;4 percent of the amounts deposited into the H–1B Nonimmigrant Petitioner Account shall remain available to the Director of the National Science Foundation until expended to make merit-reviewed grants, under section 1862(a)(1) of title 42, for programs that provide opportunities for enrollment in year-round academic enrichment courses in mathematics, engineering, or science.
+&emsp;&emsp;15 percent of the amounts deposited into the H–1B Nonimmigrant Petitioner Account shall remain available to the Director of the National Science Foundation until expendedto carry out a direct or matching grant program to support private-public partnerships in K–12 education.
 
-#### (B) Systemic reform activities
+#### (B) Types of programs covered
 
-&emsp;&emsp;4 percent of the amounts deposited into the H–1B Nonimmigrant Petitioner Account shall remain available to the Director of the National Science Foundation until expended to carry out systemic reform activities administered by the National Science Foundation under section 1862(a)(1) of title 42.
+&emsp;&emsp;The Director shall award grants to such programs, including those which support the development and implementation of standards-based instructional materials models and related student assessments that enable K–12 students to acquire an understanding of science, mathematics, and technology, as well as to develop critical thinking skills; provide systemic improvement in training K–12 teachers and education for students in science, mathematics, and technology; support the professional development of K–12 math and science teachers in the use of technology in the classroom; stimulate system-wide K–12 reform of science, mathematics, and technology in rural, economically disadvantaged regions of the United States; provide externships and other opportunities for students to increase their appreciation and understanding of science, mathematics, engineering, and technology (including summer institutes sponsored by an institution of higher education for students in grades 7–12 that provide instruction in such fields); involve partnerships of industry, educational institutions, and community organizations to address the educational needs of disadvantaged communities; provide college preparatory support to expose and prepare students for careers in science, mathematics, engineering, and technology; and provide for carrying out systemic reform activities under section 1862(a)(1) of title 42.
 
 #### (5) Use of fees for duties relating to petitions
 
-&emsp;1\.5 percent of the amounts deposited into the H–1B Nonimmigrant Petitioner Account shall remain available to the Attorney General until expended to carry out duties under paragraphs (1) and (9) of section 1184(c) of this title related to petitions made for nonimmigrants described in section 1101(a)(15)(H)(i)(b) of this title, to decrease the processing time for such petitions, and to carry out duties under section 416 of the American Competitiveness and Workforce Improvement Act of 1998. Such amounts shall be available in addition to any other fees authorized to be collected by the Attorney General with respect to such petitions.
+&emsp;4 percent of the amounts deposited into the H–1B Nonimmigrant Petitioner Account shall remain available to the Attorney General until expended to carry out duties under paragraphs (1) and (9) of section 1184(c) of this title related to petitions made for nonimmigrants described in section 1101(a)(15)(H)(i)(b) of this title, under paragraph (1)(C) or (D) of section 1154 <sup>5</sup> of this title related to petitions for immigrants described in section 1153(b) of this title.
 
 #### (6) Use of fees for application processing and enforcement
 
-&emsp;For fiscal year 1999, 6 percent of the amounts deposited into the H–1B Nonimmigrant Petitioner Account shall remain available to the Secretary of Labor until expended for decreasing the processing time for applications undersection 1182(n)(1) of this title and for carrying out section 1182(n)(2) of this title. Beginning with fiscal year 2000, 3 percent of the amounts deposited into the H–1B Nonimmigrant Petitioner Account shall remain available to the Secretary of Labor until expended for decreasing the processing time for applications under section 1182(n)(1) of this title, and 3 percent of such amounts shall remain available to such Secretary until expended for carrying out section 1182(n)(2) of this title. Notwithstanding the preceding sentence, both of the amounts made available for any fiscal year (beginning with fiscal year 2000) pursuant to the preceding sentence shall be available to such Secretary, and shall remain available until expended, only for decreasing the processing time for applications under section 1182(n)(1) of this title until the Secretary submits to the Congress a report containing a certification that, during the most recently concluded calendar year, the Secretary substantially complied with the requirement in section 1182(n)(1) of this title relating to the provision of the certification described in section 1101(a)(15)(H)(i)(b) of this title within a 7-day period.
+&emsp;For fiscal year 1999, 4 percent of the amounts deposited into the H–1B Nonimmigrant Petitioner Account shall remain available to the Secretary of Labor until expended for decreasing the processing time for applications under section 1182(n)(1) of this title and for carrying out section 1182(n)(2) of this title. Beginning with fiscal year 2000, 2 percent of the amounts deposited into the H–1B Nonimmigrant Petitioner Account shall remain available to the Secretary of Labor until expended for decreasing the processing time for applications under section 1182(n)(1) of this title and section 1182(a)(5)(A) of this title, and 2 percent of such amounts shall remain available to such Secretary until expended for carrying out section 1182(n)(2) of this title. Notwithstanding the preceding sentence, both of the amounts made available for any fiscal year (beginning with fiscal year 2000) pursuant to the preceding sentence shall be available to such Secretary, and shall remain available until expended, only for decreasing the processing time for applications under section 1182(n)(1) of this title until the Secretary submits to the Congress a report containing a certification that, during the most recently concluded calendar year, the Secretary substantially complied with the requirement in section 1182(n)(1) of this title relating to the provision of the certification described in section 1101(a)(15)(H)(i)(b) of this title within a 7-day period.
 
-(June 27, 1952, ch. 477, title II, ch. 9, §286, 66 Stat. 232; Pub. L. 97–116, §13, Dec. 29, 1981, 95 Stat. 1618; Pub. L. 99–500, §101(b) \[title II, §205(a), formerly §205\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–53, renumbered §205(a), Pub. L. 100–525, §4(a)(2)(A), Oct. 24, 1988, 102 Stat. 2615; Pub. L. 99–591, §101(b) \[title II, §205\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–53; Pub. L. 99–653, §7(d)(1), Nov. 14, 1986, as added Pub. L. 100–525, §8(f), Oct. 24, 1988, 102 Stat. 2617; Pub. L. 100–71, title I, §1, July 11, 1987, 101 Stat. 394; Pub. L. 100–459, title II, §209(a), Oct. 1, 1988, 102 Stat. 2203; Pub. L. 100–525, §4(a)(1), (d), Oct. 24, 1988, 102 Stat. 2614, 2615; Pub. L. 101–162, title II, Nov. 21, 1989, 103 Stat. 1000; Pub. L. 101–515, title II, §210(a), (d), Nov. 5, 1990, 104 Stat. 2120, 2121; Pub. L. 102–232, title III, §309(a)(1)(A)(i), (B), (2), (b)(12), Dec. 12, 1991, 105 Stat. 1757–1759; Pub. L. 102–395, title I, §112, Oct. 6, 1992, 106 Stat. 1843; Pub. L. 103–121, title I, Oct. 27, 1993, 107 Stat. 1161; Pub. L. 103–416, title II, §219(t), Oct. 25, 1994, 108 Stat. 4317; Pub. L. 104–208, div. C, title I, §§122(a), 124(a)(1), title III, §§308(d)(3)(A), (4)(K), (e)(1)(L), (g)(1), 376(b), 382(b), title VI, §671(b)(11), (e)(5), (6), Sept. 30, 1996, 110 Stat. 3009–560, 3009–562, 3009–617 to 3009–619, 3009–622, 3009–648, 3009–651, 3009–722, 3009–723; Pub. L. 105–119, title I, §110(1), (2), Nov. 26, 1997, 111 Stat. 2457; Pub. L. 105–277, div. A, §101(b) \[title I, §114\], div. C, title IV, §414(b), Oct. 21, 1998, 112 Stat. 2681–50, 2681–68, 2681–652; Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §118\], Nov. 29, 1999, 113 Stat. 1535, 1501A–22.)
+#### (t) Genealogy Fee
+
+(1) There is hereby established the Genealogy Fee for providing genealogy research and information services. This fee shall be deposited as offsetting collections into the Examinations Fee Account. Fees for such research and information services may be set at a level that will ensure the recovery of the full costs of providing all such services.
+
+(2) The Attorney General will prepare and submit annually to Congress statements of the financial condition of the Genealogy Fee.
+
+(3) Any officer or employee of the Immigration and Naturalization Service shall collect fees prescribed under regulation before disseminating any requested genealogical information.
+
+#### (u) Premium fee for employment-based petitions and applications
+
+The Attorney General is authorized to establish and collect a premium fee for employment-based petitions and applications. This fee shall be used to provide certain premium-processing services to business customers, and to make infrastructure improvements in the adjudications and customer-service processes. For approval of the benefit applied for, the petitioner/applicant must meet the legal criteria for such benefit. This fee shall be set at $1,000, shall be paid in addition to any normal petition/application fee that may be applicable, and shall be deposited as offsetting collections in the Immigration Examinations Fee Account. The Attorney General may adjust this fee according to the Consumer Price Index.
+
+(June 27, 1952, ch. 477, title II, ch. 9, §286, 66 Stat. 232; Pub. L. 97–116, §13, Dec. 29, 1981, 95 Stat. 1618; Pub. L. 99–500, §101(b) \[title II, §205(a), formerly §205\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–53, renumbered §205(a), Pub. L. 100–525, §4(a)(2)(A), Oct. 24, 1988, 102 Stat. 2615; Pub. L. 99–591, §101(b) \[title II, §205\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–53; Pub. L. 99–653, §7(d)(1), Nov. 14, 1986, as added Pub. L. 100–525, §8(f), Oct. 24, 1988, 102 Stat. 2617; Pub. L. 100–71, title I, §1, July 11, 1987, 101 Stat. 394; Pub. L. 100–459, title II, §209(a), Oct. 1, 1988, 102 Stat. 2203; Pub. L. 100–525, §4(a)(1), (d), Oct. 24, 1988, 102 Stat. 2614, 2615; Pub. L. 101–162, title II, Nov. 21, 1989, 103 Stat. 1000; Pub. L. 101–515, title II, §210(a), (d), Nov. 5, 1990, 104 Stat. 2120, 2121; Pub. L. 102–232, title III, §309(a)(1)(A)(i), (B), (2), (b)(12), Dec. 12, 1991, 105 Stat. 1757–1759; Pub. L. 102–395, title I, §112, Oct. 6, 1992, 106 Stat. 1843; Pub. L. 103–121,title I, Oct. 27, 1993, 107 Stat. 1161; Pub. L. 103–416, title II, §219(t), Oct. 25, 1994, 108 Stat. 4317; Pub. L. 104–208, div. C, title I, §§122(a), 124(a)(1), title III, §§308(d)(3)(A), (4)(K), (e)(1)(L), (g)(1), 376(b), 382(b), title VI, §671(b)(11), (e)(5), (6), Sept. 30, 1996, 110 Stat. 3009–560, 3009–562, 3009–617 to 3009–619, 3009–622, 3009–648, 3009–651, 3009–722, 3009–723; Pub. L. 105–119, title I, §110(1), (2), Nov. 26, 1997, 111 Stat. 2457; Pub. L. 105–277, div. A, §101(b) \[title I, §114\], div. C, title IV, §414(b), Oct. 21, 1998, 112 Stat. 2681–50, 2681–68, 2681–652; Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §118\], Nov. 29, 1999, 113 Stat. 1535, 1501A–22; Pub. L. 106–313, title I, §§110(a), 113, Oct. 17, 2000, 114 Stat. 1255, 1261; Pub. L. 106–553, §1(a)(2) \[title I, §112\], Dec. 21, 2000, 114 Stat. 2762, 2762A–68; Pub. L. 106–554, §1(a)(1) \[title I, §106\], Dec. 21, 2000, 114 Stat. 2763, 2763A–11.)
 
 #### References in Text
 
@@ -208,9 +220,35 @@ Section 606 of Public Law 101–162, referred to in subsec. (q)(3)(B), is sectio
 
 Section 414(c) of the American Competitiveness and Workforce Improvement Act of 1998, referred to in subsec. (s)(2), is section 414(c) of div. C of Pub. L. 105–277, which is set out as a note under section 2916 of Title 29, Labor.
 
-Section 416 of the American Competitiveness and Workforce Improvement Act of 1998, referred to in subsec. (s)(5), is section 416 of div. C of Pub. L. 105–277, which is set out as a note under section 1184 of this title.
-
 #### Amendments
+
+2000—Subsec. (s)(2). Pub. L. 106–313, §110(a)(1), substituted “55 percent” for “56.3 percent”.
+
+Subsec. (s)(3). Pub. L. 106–313, §113(b), provided that in the amendment made by section 110(a)(2) of Pub. L. 106–313 the figure to be inserted is deemed to be “22 percent”. See below.
+
+Pub. L. 106–313, §110(a)(2), substituted “23.5 percent” for “28.2 percent”. See above.
+
+Subsec. (s)(4). Pub. L. 106–313, §110(a)(3), amended heading and text of par. (4) generally. Prior to amendment, text read as follows:
+
+“(A)
+
+Grants for mathematics, engineering, or science enrichment courses.—4 percent of the amounts deposited into the H–1B Nonimmigrant Petitioner Account shall remain available to the Director of the National Science Foundation until expended to make merit-reviewed grants, under section 1862(a)(1) of title 42, for programs that provide opportunities for enrollment in year-round academic enrichment courses in mathematics, engineering, or science.
+
+“(B)
+
+Systemic reform activities.—4 percent of the amounts deposited into the H–1B Nonimmigrant Petitioner Account shall remain available to the Director of the National Science Foundation until expended to carry out systemic reform activities administered by the National Science Foundation under section 1862(a)(1) of title 42.”
+
+Subsec. (s)(5). Pub. L. 106–313, §113(a), amended text of par. (5) generally. Prior to amendment, text read as follows: “1.5 percent of the amounts deposited into the H–1B Nonimmigrant Petitioner Account shall remain available to the Attorney General until expended to carry out duties under paragraphs (1) and (9) of section 1184(c) of this title related to petitions made for nonimmigrants described in section 1101(a)(15)(H)(i)(b) of this title, to decrease the processing time for such petitions, and to carry out duties under section 416 of the American Competitiveness and Workforce Improvement Act of 1998. Such amounts shall be available in addition to any other fees authorized to be collected by the Attorney General with respect to such petitions.”
+
+Subsec. (s)(6). Pub. L. 106–554, which directed amendment of section 286(s)(6) of the Immigration and Naturalization Act by inserting “and section 1182(a)(5)(A) of this title” after “decreasing the processing time for applications under section 1182(n)(1) of this title”, was executed by making the amendment to subsec. (s)(6) of this section, which is section 286 of the Immigration and Nationality Act, to reflect the probable intent of Congress.
+
+Pub. L. 106–313, §113(b), provided that in the amendments made by section 110(a)(4) and (5) of Pub. L. 106–313 the figures to be inserted are deemed to be “4 percent” and “2 percent”, respectively. See below.
+
+Pub. L. 106–313, §110(a)(4), substituted “5 percent” for “6 percent”. See above.
+
+Pub. L. 106–313, §110(a)(5), substituted “2.5 percent” for “3 percent” in two places. See above.
+
+Subsecs. (t), (u). Pub. L. 106–553 added subsecs. (t) and (u).
 
 1999—Subsec. (q)(1)(A)(ii) to (iv). Pub. L. 106–113, which directed amendment of section 286(q)(1)(A) of the Immigration and Nationality Act of 1953 by striking out cl. (ii), redesignating cl. (iii) as (ii), striking out “, until September 30, 2000,” after “submit on a quarterly basis” in cl. (iv), and redesignating cl. (iv) as (iii), was executed by making the amendment to this section, which is section 286 of the Immigration and Nationality Act, to reflect the probable intent of Congress. Prior to amendment, cl. (ii) read as follows: “The program authorized in this subparagraph shall terminate on September 30, 2000, unless further authorized by an Act of Congress.”
 
@@ -244,7 +282,7 @@ Pub. L. 104–208, §308(e)(1)(L), substituted “removal” for “deportation�
 
 Pub. L. 104–208, §308(d)(3)(A), substituted “inadmissible” for “excludable” in two places.
 
-Subsec. (h)(2)(A)(vi). Pub. L. 104–208, §671(e)(6)(B)–(D), struck out colon after “ports-of-entry for”, substituted“and for any alien” for “; and any alien”, and adjusted margins.
+Subsec. (h)(2)(A)(vi). Pub. L. 104–208, §671(e)(6)(B)–(D), struck out colon after “ports-of-entry for”, substituted “and for any alien” for “; and any alien”, and adjusted margins.
 
 Pub. L. 104–208, §308(d)(4)(K), substituted “removal” for “exclusion” in two places.
 
@@ -334,7 +372,7 @@ Subsec. (f)(3). Pub. L. 100–525, §4(a)(1)(A), substituted “Internal Revenue
 
 Subsec. (g). Pub. L. 100–525, §4(a)(1)(B), substituted “section 1353b of this title” for “section 1353(a) of this title”.
 
-Subsec. (h)(1)(A). Pub. L. 100–525, §4(a)(1)(C)(i), amended that portion of the first sentence of subpar. (A) following “Treasury of the United States” so as toread “, to remain available until expended”. See 1987 Amendment note below.
+Subsec. (h)(1)(A). Pub. L. 100–525, §4(a)(1)(C)(i), amended that portion of the first sentence of subpar. (A) following “Treasury of the United States” so as to read “, to remain available until expended”. See 1987 Amendment note below.
 
 Pub. L. 100–525, §4(a)(1)(C)(ii), substituted “Fee Account’.” for “Fee Account.’ ”
 
@@ -408,7 +446,21 @@ Amendment by Pub. L. 97–116 effective Dec. 29, 1981, see section 21(a) of Pub.
 
 #### Termination of Advisory Committees
 
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L.92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-yearperiod beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Reporting Requirement
+
+Pub. L. 105–277, div. C, title IV, §414(e), as added by Pub. L. 106–313, title I, §110(c), Oct. 17, 2000, 114 Stat. 1256, provided that:
+
+“The Secretary of Labor and the Director of the National Science Foundation shall—
+
+&emsp;“(1) track and monitor the performance of programs receiving H–1B Nonimmigrant Fee grant money; and
+
+&emsp;“(2) not later than one year after the date of enactment of this subsection \[Oct. 17, 2000\], submit a report to the Committees on the Judiciary of the House of Representatives and the Senate—\[sic\]
+
+&emsp;&emsp;“(A) the tracking system to monitor the performance of programs receiving H–1B grant funding; and
+
+&emsp;&emsp;“(B) the number of individuals who have completed training and have entered the high-skill workforce through these programs.”
 
 #### Deposit of Receipts From Increased Charge for Immigrant Visas Caused by Processing Fingerprints
 
@@ -422,13 +474,9 @@ Similar provisions were contained in the following prior appropriations act:
 
 Pub. L. 103–121, title I, Oct. 27, 1993, 107 Stat. 1161, as amended by Pub. L. 103–317, title I, §111, Aug. 26, 1994, 108 Stat. 1736, and repealed by Pub. L. 104–208, div. C, title I, §122(b), Sept. 30, 1996, 110 Stat. 3009–560.
 
-#### Cross References
-
-Definition of alien and Service, see section 1101 of this title.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1158, 1184, 1255, 1372, 1455 of this title; title 42 section 1869c.
+This section is referred to in sections 1158, 1184, 1187, 1255, 1372, 1455 of this title; title 29 section 2916a; title 42 section 1869c.
 
 <i><sup>1</sup></i><i> So in original.</i>
 
@@ -437,4 +485,6 @@ This section is referred to in sections 1158, 1184, 1255, 1372, 1455 of this tit
 <i><sup>3</sup></i><i> So in original.</i>
 
 <i><sup>4</sup></i><i> So in original. Probably should be section “1255(i)(3)(B)”.</i>
+
+<i><sup>5</sup></i><i> So in original. Probably should be section “1154(a)”.</i>
 

@@ -14,16 +14,6 @@ Changes in phraseology only.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $500”.
 
-#### Cross References
-
-Concealing escaped prisoners, see section 1072 of this title.
-
-Concealing or harboring persons engaged in espionage, see section 792 of this title.
-
-Concealing persons from arrest, see section 1071 of this title.
-
-Harboring fugitives from justice, see section 1071 et. seq. of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in title 50 section 422.

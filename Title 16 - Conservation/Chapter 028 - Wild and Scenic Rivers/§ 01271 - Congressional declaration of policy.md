@@ -1,6 +1,6 @@
 ### §1271. Congressional declaration of policy
 
-It is hereby declared to be the policy of the United States that certain selected rivers of the Nation which, with their immediate environments, possess outstandingly remarkable scenic, recreational, geologic, fish and wildlife, historic, cultural, or other similar values, shall be preserved in free-flowing condition, and that they and their immediate environments shall be protected for the benefit and enjoyment of present and future generations. The Congress declares that the established national policy of dam andother construction at appropriate sections of the rivers of the United States needs to be complemented by a policy that would preserve other selected rivers or sections thereof in their free-flowing condition to protect the water quality of such rivers and to fulfill other vital national conservation purposes.
+It is hereby declared to be the policy of the United States that certain selected rivers of the Nation which, with their immediate environments, possess outstandingly remarkable scenic, recreational, geologic, fish and wildlife, historic, cultural, or other similar values, shall be preserved in free-flowing condition, and that they and their immediate environments shall be protected for the benefit and enjoyment of present and future generations. The Congress declaresthat the established national policy of dam and other construction at appropriate sections of the rivers of the United States needs to be complemented by a policy that would preserve other selected rivers or sections thereof in their free-flowing condition to protect the water quality of such rivers and to fulfill other vital national conservation purposes.
 
 (Pub. L. 90–542, §1(b), Oct. 2, 1968, 82 Stat. 906.)
 
@@ -8,15 +8,27 @@ It is hereby declared to be the policy of the United States that certain selecte
 
 Section consists of subsec. (b) of section 1 of Pub. L. 90–542. Subsecs. (a) and (c) of section 1 are classified to section 1272 of this title and as a note under this section, respectively.
 
+#### Short Title of 2000 Amendments
+
+Pub. L. 106–418, §1, Nov. 1, 2000, 114 Stat. 1817, provided that: “This Act \[amending section 1274 of this title and enacting provisions classified as a note under section 1274 of this title\] may be cited as the ‘Lower Delaware Wild and Scenic Rivers Act’.”
+
+Pub. L. 106–357, §1, Oct. 24, 2000, 114 Stat. 1393, provided that: “This Act \[amending section 1274 of this title and enacting provisions classified as a note under section 1274 of this title\] may be cited as the ‘White Clay Creek Wild and Scenic Rivers System Act’.”
+
+Pub. L. 106–318, §1, Oct. 19, 2000, 114 Stat. 1278, provided that: “This Act \[amending section 1276 of this title\] may be cited as the ‘Taunton River Wild and Scenic River Study Act of 2000’.”
+
+Pub. L. 106–299, §1, Oct. 13, 2000, 114 Stat. 1050, provided that: “This Act \[amending section 1274 of this title and enacting provisions classified as a note under section 1274 of this title\] may be cited as the ‘Wekiva Wild and Scenic River Act of 2000’.”
+
+Pub. L. 106–192, §1, May 2, 2000, 114 Stat. 233, provided that: “This Act \[amending section 1274 of this title and provisions classified as a note under section 1274 of this title\] may be cited as the ‘Lamprey Wild and Scenic River Extension Act’.”
+
 #### Short Title of 1999 Amendment
 
-Pub. L. 106–20, §1, Apr. 9, 1999, 113 Stat. 30, provided that: “This Act \[amending section 1274 of this title and enacting provisions set out as a note under section 1274 of this title\] may be cited as the ‘Sudbury, Assabet, and Concord Wild and Scenic River Act’.”
+Pub. L. 106–20, §1, Apr. 9, 1999, 113 Stat. 30, provided that: “This Act \[amending section 1274 of this title and enacting provisions classified as a note under section 1274 of this title\] may be cited as the ‘Sudbury, Assabet, and Concord Wild and Scenic River Act’.”
 
 #### Short Title of 1994 Amendments
 
-Pub. L. 103–313, §1, Aug. 26, 1994, 108 Stat. 1699, provided that: “This Act \[amending section 1274 of this title and enacting provisions set out as a note under section 1274 of this title\] may be cited as the ‘Farmington Wild and Scenic River Act’.”
+Pub. L. 103–313, §1, Aug. 26, 1994, 108 Stat. 1699, provided that: “This Act \[amending section 1274 of this title and enacting provisions classified as a note under section 1274 of this title\] may be cited as the ‘Farmington Wild and Scenic River Act’.”
 
-Pub. L. 103–242, §1, May 4, 1994, 108 Stat. 611, provided that: “This Act \[amending sections 1274 and 1276 of this title and enacting provisions set out as a note under section 1274 of this title\] may be cited as the ‘Rio Grande Designation Act of 1994’.”
+Pub. L. 103–242, §1, May 4, 1994, 108 Stat. 611, provided that: “This Act \[amending sections 1274 and 1276 of this title and enacting provisions classified as a note under section 1274 of this title\] may be cited as the ‘Rio Grande Designation Act of 1994’.”
 
 #### Short Title of 1993 Amendment
 
@@ -24,9 +36,9 @@ Pub. L. 103–170, §1, Dec. 2, 1993, 107 Stat. 1986, provided that: “This Act
 
 #### Short Title of 1992 Amendments
 
-Pub. L. 102–275, §1, Apr. 22, 1992, 106 Stat. 123, provided that: “This Act \[amending section 1274 of this title and enacting provisions set out as a note under section 1274 of this title\] may be cited as the ‘Arkansas Wild and Scenic Rivers Act of 1992’.”
+Pub. L. 102–275, §1, Apr. 22, 1992, 106 Stat. 123, provided that: “This Act \[amending section 1274 of this title and enacting provisions classified as a note under section 1274 of this title\] may be cited as the ‘Arkansas Wild and Scenic Rivers Act of 1992’.”
 
-Pub. L. 102–249, §1, Mar. 3, 1992, 106 Stat. 45, provided that: “This Act \[amending sections 1274 and 1276 of this title and enacting provisions set out as a note under section 1274 of this title\] may be cited as the ‘Michigan Scenic Rivers Act of 1991’.”
+Pub. L. 102–249, §1, Mar. 3, 1992, 106 Stat. 45, provided that: “This Act \[amending sections 1274 and 1276 of this title and enacting provisions classified as a note under section 1274 of this title\] may be cited as the ‘Michigan Scenic Rivers Act of 1991’.”
 
 #### Short Title of 1991 Amendments
 
@@ -34,7 +46,7 @@ Pub. L. 102–215, §1, Dec. 11, 1991, 105 Stat. 1664, provided that: “This Ac
 
 Pub. L. 102–214, §1, Dec. 11, 1991, 105 Stat. 1663, provided that: “This Act \[amending section 1276 of this title\] may be cited as the ‘Lamprey River Study Act of 1991’.”
 
-Pub. L. 102–50, §1, May 24, 1991, 105 Stat. 254, provided that: “This Act \[amending sections 1274 and 1276 of this title and enacting provisions set out as notes under sections 1a–5 and 1274 of this title\] may be cited as the ‘Niobrara Scenic River Designation Act of 1991’.”
+Pub. L. 102–50, §1, May 24, 1991, 105 Stat. 254, provided that: “This Act \[amending sections 1274 and 1276 of this title and enacting provisions classified as notes under sections 1a–5 and 1274 of this title\] may be cited as the ‘Niobrara Scenic River Designation Act of 1991’.”
 
 #### Short Title of 1990 Amendments
 
@@ -50,7 +62,7 @@ Pub. L. 101–306, §1, June 6, 1990, 104 Stat. 260, provided that: “This Act 
 
 #### Short Title of 1988 Amendments
 
-Pub. L. 100–557, title I, §101, Oct. 28, 1988, 102 Stat. 2782, provided that: “This title \[amending sections 1274 and 1276 of this title and enacting provisions set out as notes under section 1274 of this title\] may be referred to as the ‘Omnibus Oregon Wild and Scenic Rivers Act of 1988’.”
+Pub. L. 100–557, title I, §101, Oct. 28, 1988, 102 Stat. 2782, provided that: “This title \[amending sections 1274 and 1276 of this title and enacting provisions classified as notes under section 1274 of this title\] may be referred to as the ‘Omnibus Oregon Wild and Scenic Rivers Act of 1988’.”
 
 Pub. L. 100–547, §1, Oct. 28, 1988, 102 Stat. 2736, provided: “That this Act \[amending section 1274 of this title and enacting provisions listed in a table of Wilderness Areas set out under section 1132 of this title\] may be cited as the ‘Sipsey Wild and Scenic River and Alabama Addition Act of 1988’.”
 
@@ -60,7 +72,7 @@ Pub. L. 99–590, title II, §201, Oct. 30, 1986, 100 Stat. 3332, provided that:
 
 #### Short Title of 1972 Amendment
 
-Section 1 of Pub. L. 92–560, Oct. 25, 1972, 86 Stat. 1174, provided: “That this Act \[amending section 1274 of this title and enacting provisions set out as notes under that section\] may be cited as the ‘Lower Saint Croix River Act of 1972’.”
+Section 1 of Pub. L. 92–560, Oct. 25, 1972, 86 Stat. 1174, provided: “That this Act \[amending section 1274 of this title and enacting provisions classified as a note under section 1274 of this title\] may be cited as the ‘Lower Saint Croix River Act of 1972’.”
 
 #### Short Title
 

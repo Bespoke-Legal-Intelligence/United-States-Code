@@ -1,10 +1,10 @@
 ### §2347. Limitation on amounts that may be obligated or accrued by the United States
 
-(a)(1) Except during a period of active hostilities involving the armed forces, the total amount of reimbursable liabilities that theUnited States may accrue under this subchapter (before the computation of offsetting balances) with other member countries of the North Atlantic Treaty Organization, subsidiary bodies of the North Atlantic Treaty Organization, or from the United Nations Organization or any regional international organization of which the United States is a member may not exceed $200,000,000 in any fiscal year, and of such amount not more than $50,000,000 in liabilities may be accrued for the acquisition of supplies (other than petroleum, oils, and lubricants).
+(a)(1) Except during a period of active hostilities involving the armed forces, the total amount of reimbursable liabilities that the United States may accrue under this subchapter (before the computation of offsetting balances) with other member countries of the North Atlantic Treaty Organization, subsidiary bodies of the North Atlantic Treaty Organization, or from the United Nations Organization or any regional international organization of which the United States is a member may not exceed $200,000,000 in any fiscal year, and of such amount not more than $50,000,000 in liabilities may be accrued for the acquisition of supplies (other than petroleum, oils, and lubricants).
 
 (2) Except during a period of active hostilities involving the armed forces, the total amount of reimbursable liabilities that the United States may accrue under this subchapter (before the computation of offsetting balances) with a country which is not a member of the North Atlantic Treaty Organization, but with which the United States has one or more acquisition or cross-servicing agreements, may not exceed $60,000,000 in any fiscal year, and of such amount not more than $20,000,000 in liabilities may be accrued for the acquisition of supplies (other than petroleum, oils, and lubricants). The $60,000,000 limitation specified in this paragraph is in addition to the limitation specified in paragraph (1).
 
-(b)(1) Except during a period of active hostilities involving the armed forces, the total amount of reimbursable credits that the United States may accrue under this subchapter (before the computation of offsetting balances) with other member countries of the North Atlantic Treaty Organization, subsidiary bodies of the North Atlantic Treaty Organization, or from the United Nations Organization or any regional international organization of which the United States is a member may not exceed $150,000,000 in any fiscal year.
+(b)(1) Except during a period of active hostilities involving the armed forces, the total amount of reimbursable credits that the United States may accrue under this subchapter (before the computation of offsetting balances) with other member countries of the North AtlanticTreaty Organization, subsidiary bodies of the North Atlantic Treaty Organization, or from the United Nations Organization or any regional international organization of which the United States is a member may not exceed $150,000,000 in any fiscal year.
 
 (2) Except during a period of active hostilities involving the armed forces, the total amount of reimbursable credits that the United States may accrue under this subchapter (before the computation of offsetting balances) with a country which is not a member of the North Atlantic Treaty Organization, but with which the United States has one or more acquisition or cross-servicing agreements may not exceed $75,000,000 in any fiscal year. Such limitation specified in this paragraph is in addition to the limitation specified in paragraph (1).
 
@@ -52,7 +52,7 @@ Amendment by Pub. L. 103–337 applicable with regard to any acquisition or tran
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–35 applicable as if included in the enactment of Pub. L. 102–484, see section202(b) of Pub. L. 103–35, set out as a note under section 155 of this title.
+Amendment by Pub. L. 103–35 applicable as if included in the enactment of Pub. L. 102–484, see section 202(b) of Pub. L. 103–35, set out as a note under section 155 of this title.
 
 #### Effective Date of 1992 Amendment
 

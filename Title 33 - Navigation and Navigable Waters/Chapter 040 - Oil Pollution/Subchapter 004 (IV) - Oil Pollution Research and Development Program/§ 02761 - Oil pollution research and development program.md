@@ -12,7 +12,7 @@
 
 #### (3) Membership
 
-&emsp;The Interagency Committee shall include representatives from the Department of Commerce (including the National Oceanic and Atmospheric Administration and the National Institute of Standards and Technology), the Department of Energy, the Department of the Interior (including the Minerals Management Service and the United States Fish and Wildlife Service), the Department of Transportation (including the United States Coast Guard, the Maritime Administration, and the Research and Special Projects Administration), the Department of Defense (includingthe Army Corps of Engineers and the Navy), the Environmental Protection Agency, the National Aeronautics and Space Administration, and the United States Fire Administration in the Federal Emergency Management Agency, as well as such other Federal agencies as the President may designate.
+&emsp;The Interagency Committee shall include representatives from the Department of Commerce (including the National Oceanic and Atmospheric Administration and the National Institute of Standards and Technology), the Department of Energy, the Department of the Interior (including the Minerals Management Service and the United States Fish and Wildlife Service), the Department of Transportation (including the United States Coast Guard, the Maritime Administration, and the Research and Special Projects Administration), the Department of Defense (including the Army Corps of Engineers and the Navy), the Environmental Protection Agency, the National Aeronautics and Space Administration, and the United States Fire Administration in the Federal Emergency Management Agency, as well as such other Federal agencies as the President may designate.
 
 > A representative of the Department of Transportation shall serve as Chairman.
 
@@ -134,7 +134,7 @@
 
 &emsp;(B) The Interagency Committee shall coordinate the publication by the agencies represented on the Interagency Committee of a solicitation for grants under this subsection. The application shall be in such form and contain such information as may be required in the published solicitation. The applications shall be reviewed by the Interagency Committee, which shall make recommendations to the appropriate granting agency represented on the Interagency Committee for awarding the grant. The granting agency shall award the grants recommended by the Interagency Committee unless the agency decides not to award the grant due to budgetary or other compelling considerations and publishes its reasons for such a determination in the Federal Register. No grants may be made by any agency from any funds authorized for this paragraph unless such grant award has first been recommended by the Interagency Committee.
 
-&emsp;(C) Any university or other research institution, or group of universities or research institutions, may apply for a grant for the regional research program established by this paragraph. The applicant must be located in the region, or in a State a part of which is in the region, for which the project is proposed as part of the regional research program. With respect to a group application, the entity or entities which will carry out the substantial portion of the proposed research must be located in the region, or in a State a part of which is in the region, for which the project is proposed as part of the regional research program.
+&emsp;(C) Any university or other research institution, or group of universities or research institutions, may apply for a grant for the regional research program established by this paragraph. The applicant must be located in the region, or in a State a part of which is in the region, for which the project is proposed as part of the regional research program. Withrespect to a group application, the entity or entities which will carry out the substantial portion of the proposed research must be located in the region, or in a State a part of which is in the region, for which the project is proposed as part of the regional research program.
 
 &emsp;(D) The Interagency Committee shall make recommendations on grants in such a manner as to ensure an appropriate balance within a region among the various aspects of oil pollution research, including prevention, removal, mitigation, and the effects of discharged oil on regional environments. In addition, the Interagency Committee shall make recommendations for grants based on the following criteria:
 
@@ -166,15 +166,13 @@
 
 In accordance with the research plan submitted under subsection (b) of this section, the Interagency Committee shall coordinate and cooperate with other nations and foreign research entities in conducting oil pollution research, development, and demonstration activities, including controlled field tests of oil discharges.
 
-#### (e) Biennial reports
-
-The Chairman of the Interagency Committee shall submit to Congress every 2 years on October 30 a report on the activities carried out under this section in the preceding 2 fiscal years, and on activities proposed to be carried out under this section in the current 2 fiscal year period.
+#### (e) Omitted
 
 #### (f) Funding
 
 Not to exceed $22,000,000 of amounts in the Fund shall be available annually to carry out this section except for subsection (c)(8) of this section. Of such sums—
 
-&emsp;(1) funds authorized to be appropriated to carry out the activities under subsection (c)(4) of this section shall not exceed $5,000,000 forfiscal year 1991 or $3,500,000 for any subsequent fiscal year; and
+&emsp;(1) funds authorized to be appropriated to carry out the activities under subsection (c)(4) of this section shall not exceed $5,000,000 for fiscal year 1991 or $3,500,000 for any subsequent fiscal year; and
 
 &emsp;(2) not less than $3,000,000 shall be available for carrying out the activities in subsection (c)(6) of this section for fiscal years 1992, 1993, 1994, and 1995.
 
@@ -185,6 +183,10 @@ Not to exceed $22,000,000 of amounts in the Fund shall be available annually to 
 #### References in Text
 
 This Act, referred to in subsec. (c)(8)(G), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, as amended, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
+
+#### Codification
+
+Subsec. (e) of this section, which required the Chairman of the Interagency Coordinating Committee on Oil Pollution Research to submit a biennial report to Congress on activities carried out and activities proposed to be carried out under this section, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 175 of House Document No. 103–7.
 
 #### Amendments
 

@@ -16,7 +16,7 @@ Congress finds that—
 
 &emsp;(4) the National Park Trust, which owns the Spring Hill Ranch, has agreed to permit the National Park Service—
 
-&emsp;&emsp;(A) to purchase a portion of the ranch, as specified in sections 698u to 698u–7 of this title; and
+&emsp;&emsp;(A) to acquire a portion of the ranch, as specified in sections 698u to 698u–7 of this title; and
 
 &emsp;&emsp;(B) to manage the ranch in order to—
 
@@ -32,7 +32,11 @@ The purposes of sections 698u to 698u–7 of this title are—
 
 &emsp;(2) to preserve and interpret for the public the historic and cultural values represented on the Spring Hill Ranch.
 
-(Pub. L. 104–333, div. I, title X, §1002, Nov. 12, 1996, 110 Stat. 4204.)
+(Pub. L. 104–333, div. I, title X, §1002, Nov. 12, 1996, 110 Stat. 4204; Pub. L. 106–176, title I, §122(1), Mar. 10, 2000, 114 Stat. 29.)
+
+#### Amendments
+
+2000—Subsec. (a)(4)(A). Pub. L. 106–176 substituted “to acquire” for “to purchase”.
 
 #### Short Title
 

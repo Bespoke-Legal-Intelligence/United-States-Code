@@ -26,3 +26,4 @@ This part is referred to in sections 284a, 289c–1 of this title.
 - [Subpart 015 - National Institute on Drug Abuse](Subpart%20015%20-%20National%20Institute%20on%20Drug%20Abuse/README.md)
 - [Subpart 016 - National Institute of Mental Health](Subpart%20016%20-%20National%20Institute%20of%20Mental%20Health/README.md)
 - [Subpart 017 - National Institute of Nursing Research](Subpart%20017%20-%20National%20Institute%20of%20Nursing%20Research/README.md)
+- [Subpart 018 - National Institute of Biomedical Imaging and Bioengineering](Subpart%20018%20-%20National%20Institute%20of%20Biomedical%20Imaging%20and%20Bioengineering/README.md)

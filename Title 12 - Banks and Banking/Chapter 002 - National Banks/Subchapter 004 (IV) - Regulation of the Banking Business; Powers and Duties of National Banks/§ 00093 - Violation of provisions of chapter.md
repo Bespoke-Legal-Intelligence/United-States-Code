@@ -60,7 +60,7 @@ If the directors of any national banking association shall knowingly violate, or
 
 #### (5) Assessment; etc.
 
-&emsp;Any penalty imposed under paragraph (1), (2), or (3) shall be assessed and collected by the Comptroller of the Currency in the manner provided in subparagraphs (E), (F), (G), and (I) of section 1818(i)(2) of this title for penalties imposed (under such section) and any such assessment shall be subject to the provisions of such section.
+&emsp;Any penalty imposed under paragraph (1), (2), or (3) shall be assessed and collected by theComptroller of the Currency in the manner provided in subparagraphs (E), (F), (G), and (I) of section 1818(i)(2) of this title for penalties imposed (under such section) and any such assessment shall be subject to the provisions of such section.
 
 #### (6) Hearing
 
@@ -130,11 +130,11 @@ The resignation, termination of employment or participation, or separation of an
 
 The Comptroller of the Currency may act in the Comptroller's own name and through the Comptroller's own attorneys in enforcing any provision of title 62 of the Revised Statutes, regulations thereunder, or any other law or regulation, or in any action, suit, or proceeding to which the Comptroller of the Currency is a party.
 
-(R.S. §5239; Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167; Pub. L. 95–630, title I, §103, Nov. 10, 1978, 92 Stat. 3643; Pub. L. 97–320, title IV, §424(d)(3), (f), (g), Oct. 15, 1982, 96 Stat. 1523; Pub. L. 97–457, §24, Jan. 12, 1983, 96 Stat. 2510; Pub. L. 101–73, title IX, §§905(e), 907(e), Aug. 9, 1989, 103 Stat. 460, 469;Pub. L. 102–550, title XV, §1502(a), Oct. 28, 1992, 106 Stat. 4045; Pub. L. 103–322, title XXXIII, §330017(b)(2), Sept. 13, 1994, 108 Stat. 2149; Pub. L. 103–325, title III, §331(b)(3), title IV, §§411(c)(2)(C), 413(b)(2), Sept. 23, 1994, 108 Stat. 2232, 2253, 2254.)
+(R.S. §5239; Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167; Pub. L. 95–630, title I, §103, Nov. 10, 1978, 92 Stat. 3643; Pub. L. 97–320, title IV, §424(d)(3), (f), (g), Oct. 15, 1982, 96 Stat. 1523; Pub. L. 97–457, §24, Jan. 12, 1983, 96 Stat. 2510; Pub. L. 101–73, title IX, §§905(e), 907(e), Aug. 9, 1989, 103 Stat. 460, 469; Pub. L. 102–550, title XV, §1502(a), Oct. 28, 1992, 106 Stat. 4045; Pub. L. 103–322, title XXXIII, §330017(b)(2), Sept. 13, 1994, 108 Stat. 2149; Pub. L. 103–325, title III, §331(b)(3), title IV, §§411(c)(2)(C), 413(b)(2), Sept. 23, 1994, 108 Stat. 2232, 2253, 2254.)
 
 #### References in Text
 
-Title 62 of the Revised Statutes, referred to in subsecs. (a), (b)(1), and (d), was in the original “this Title” meaning title 62 of the Revised Statutes, consisting of R.S. §§5133 to 5244, which are classified to sections 21, 22 to 24a, 25a, 26 to 29, 35 to 37, 39, 43, 51, 52, 53, 56, 57, 59 to 62, 66, 71, 72 to 76, 81, 83 to 86, 90, 91, 93, 93a, 94, 101a, 102, 104, 107 to 110, 123, 124, 131 to 138, 141 to 144, 151, 152, 161, 164, 168 to 175, 181 to 186, 192 to 196, 215c, 481 to 485, 501, 541, 548, and 582 of this title. See, also, sections 8, 333, 334, 475, 656, 709, 1004, and 1005 of Title 18, Crimes and Criminal Procedure. For complete classification of R.S. §§5133 to 5244 to the Code, see Tables.
+Title 62 of the Revised Statutes, referred to in subsecs. (a), (b)(1), and (d), was in the original “this Title” meaning title 62 of the Revised Statutes, consisting of R.S. §§5133 to 5244, which are classified to sections 21, 22 to 24a, 25a, 26, 27, 29, 35 to 37, 39, 43, 52, 53, 56, 57, 59 to 62, 66, 71, 72 to 76, 81, 83 to 86, 90, 91, 93, 93a, 94, 141 to 144, 161, 164, 181, 182, 192 to 194, 196, 215c, 481 to 485, 501, 541, 548, and 582 of this title. See, also, sections 8, 333, 334, 475, 656, 709, 1004, and 1005 of Title 18, Crimes and Criminal Procedure. For complete classification of R.S. §§5133 to 5244 to the Code, see Tables.
 
 #### Codification
 
@@ -177,10 +177,6 @@ Section 109 of title I of Pub. L. 95–630 provided that: “Any amendment made 
 #### Exception as to Transfer of Functions
 
 Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
-
-#### Cross References
-
-Appointment of receiver, see section 191 et seq. of this title.
 
 #### Section Referred to in Other Sections
 

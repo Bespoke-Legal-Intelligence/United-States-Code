@@ -52,7 +52,7 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 &emsp;(B) a private nonprofit corporation or other private nonprofit legal entity which is a mortgagor under a mortgage insured under section 231(c)(3) of the National Housing Act \[12 U.S.C. 1715v(c)(3)\] and which, after August 10, 1965, has obtained final endorsement of such mortgage for mortgage insurance and has been approved for receiving the benefits of this section;
 
-&emsp;(C) a private nonprofit corporation, a public body or agency, or a cooperative housing corporation, which is a borrower under section 1701q of this title and has been approved for receiving the benefits of this section: <i>Provided</i>, That, with respect to properties financed with loans under such section made on or before August 10, 1965, payments shall not be madewith respect to more than 20 per centum of the dwelling units in any property so financed; and
+&emsp;(C) a private nonprofit corporation, a public body or agency, or a cooperative housing corporation, which is a borrower under section 1701q of this title and has been approved for receiving the benefits of this section: <i>Provided</i>, That, with respect to properties financed with loans under such section made on or before August 10, 1965, payments shall not be made with respect to more than 20 per centum of the dwelling units in any property so financed; and
 
 &emsp;(D) a private nonprofit corporation or other private nonprofit legal entity, a limited dividend corporation or other limited dividend legal entity, or a cooperative housing corporation, which is assisted under section 236 of the National Housing Act \[12 U.S.C. 1715z–1\] and which has been approved for receiving the benefits of this section: <i>Provided</i>, That payments shall not be made with respect to more than 20 per centum of the dwelling units in any property so financed, except that the foregoing limitation may be increased to 40 per centum of the dwelling units in any such property if the Secretary determines that such increase is necessary and desirable in order to provide additional housing for individuals and families meeting the requirements of subsection (c) of this section.
 
@@ -174,7 +174,7 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 371 of Pub. L. 
 
 #### Effective Date of 1979 Amendment
 
-Section 203(c) of Pub. L. 96–153 providing for the effective date of amendment of this section and section 1715z–1 of this title as Dec. 21, 1979, and setting forth maximum applicable tenant contribution, was repealed by Pub. L. 97–35, title III, §§322(h)(2), 371, Aug. 13, 1981, 95 Stat. 404, 431, eff. Oct. 1, 1981.
+Section 203(c) of Pub. L. 96–153 providing for the effective date of amendment of this section and section1715z–1 of this title as Dec. 21, 1979, and setting forth maximum applicable tenant contribution, was repealed by Pub. L. 97–35, title III, §§322(h)(2), 371, Aug. 13, 1981, 95 Stat. 404, 431, eff. Oct. 1, 1981.
 
 #### Limitation on Withholding or Conditioning of Assistance
 

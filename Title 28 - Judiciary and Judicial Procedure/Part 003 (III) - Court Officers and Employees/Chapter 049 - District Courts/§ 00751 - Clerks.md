@@ -8,7 +8,7 @@
 
 (d) A clerk of a district court or his deputy or assistant shall not receive any compensation or emoluments through any office or position to which he is appointed by the court, other than that received as such clerk, deputy or assistant, whether from the United States or from private litigants.
 
-This subsection shall not apply to clerks or deputy clerks appointed as United States commissioners pursuant to section 631 of this title.
+This subsection shall not apply to clerks or deputy clerks appointed as United States magistrate judges pursuant to section 631 of this title.
 
 (e) The clerk of each district court shall pay into the Treasury all fees, costs and other moneys collected by him, except naturalization fees listed in section 742 of Title 8 and uncollected fees not required by Act of Congress to be prepaid.
 
@@ -16,11 +16,11 @@ He shall make returns thereof to the Director of the Administrative Office of th
 
 (f) When the Court of International Trade is sitting in a judicial district, other than the Southern District or Eastern District of New York, the clerk of the district court of such judicial district or an authorized deputy clerk, upon the request of the chief judge of the Court of International Trade and with the approval of such district court, shall act in the district as clerk of the Court of International Trade, as prescribed by the rules and orders of the Court of International Trade for all purposes relating to the civil action then pending before such court.
 
-(June 25, 1948, ch. 646, 62 Stat. 920; Pub. L. 96–417, title V, §504, Oct. 10, 1980, 94 Stat. 1743.)
+(June 25, 1948, ch. 646, 62 Stat. 920; Pub. L. 90–578, title IV, §402(b)(2), Oct. 17, 1968, 82 Stat. 1118; Pub. L. 96–417, title V, §504, Oct. 10, 1980, 94 Stat. 1743; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
 
 #### Historical and Revision Notes
 
-Based on title 28, U.S.C., 1940 ed., §§6, 7, 8, 524, 557, 567, 568, and 569, sections 644 and 863 of title 48, U.S.C., 1940 ed., Territories and Insular Possessions, and section 11–401 of the District of Columbia Code, 1940 ed. (R.S. §833; June 20, 1874, ch. 328, §2, 18 Stat. 109; May 28, 1896, ch. 252, §8, 29 Stat. 181; Apr. 12, 1900, ch. 191, §34, 31 Stat. 84; Apr. 30, 1900, ch. 339, §86, 31 Stat. 158; Mar. 3, 1901, ch. 854, §174, 31 Stat. 1218; June 28, 1902, ch. 1301, §1, 32 Stat. 475; June 30, 1902, ch. 1329, 32 Stat. 527; June 30, 1906, ch. 3914, §1, 34 Stat. 754; Mar. 3, 1909, ch. 269, §1, 35 Stat. 838; Mar. 3, 1911, ch. 231, §§3, 4, 291, 36 Stat. 1087, 1167; Jan. 7, 1913, ch. 6, 37 Stat. 648; Mar. 2, 1917, ch. 145, §41, 39 Stat. 965; Feb. 26, 1919, ch. 49, §§1, 4, 9, 40 Stat. 1182, 1183; Feb. 11, 1921, ch. 46, 41 Stat. 1099; Mar. 4, 1921, ch. 161, §1, 41 Stat. 1412, 1413; June 10, 1921, ch. 18, §§301, 310, 42 Stat. 23, 25; June 16, 1921, ch. 23, §1, 42 Stat. 41; July 9, 1921, ch. 42, §313, 42 Stat. 119; June 1, 1922, ch. 204, Title II, 42 Stat. 614, 616; Jan. 3, 1923, ch. 21 title II, 42 Stat. 1084; Feb. 12, 1925, ch. 220, 43 Stat. 890; Dec. 13, 1926, ch. 6, §1, 44 Stat. 919; May 17, 1932, ch. 190, 47 Stat. 158; June 25, 1936, ch. 804, 49 Stat. 1921; Mar. 26, 1938, ch. 51, §2, 52 Stat. 118; June 16, 1938, ch. 465, 52 Stat. 752; June 14, 1941, ch. 203, §§1, 2, 55 Stat. 251).
+Based on title 28, U.S.C., 1940 ed., §§6, 7, 8, 524, 557, 567, 568, and 569, sections 644 and 863 of title 48, U.S.C., 1940 ed., Territories and Insular Possessions, and section 11–401 of the District of Columbia Code, 1940 ed. (R.S.§833; June 20, 1874, ch. 328, §2, 18 Stat. 109; May 28, 1896, ch. 252, §8, 29 Stat. 181; Apr. 12, 1900, ch. 191, §34, 31 Stat. 84; Apr. 30, 1900, ch. 339, §86, 31 Stat. 158; Mar. 3, 1901, ch. 854, §174, 31 Stat. 1218; June 28, 1902, ch. 1301, §1, 32 Stat. 475; June 30, 1902, ch. 1329, 32 Stat. 527; June 30, 1906, ch. 3914, §1, 34 Stat. 754; Mar. 3, 1909, ch. 269, §1, 35 Stat. 838; Mar. 3, 1911, ch. 231, §§3, 4, 291, 36 Stat. 1087, 1167; Jan. 7, 1913, ch. 6, 37 Stat. 648; Mar. 2, 1917, ch. 145, §41, 39 Stat. 965; Feb. 26, 1919, ch. 49, §§1, 4, 9, 40 Stat. 1182, 1183; Feb. 11, 1921, ch. 46, 41 Stat. 1099; Mar. 4, 1921, ch. 161, §1, 41 Stat. 1412, 1413; June 10, 1921, ch. 18, §§301, 310, 42 Stat. 23, 25; June 16, 1921, ch. 23, §1, 42 Stat. 41; July 9, 1921, ch. 42, §313, 42 Stat. 119; June 1, 1922, ch. 204, Title II, 42 Stat. 614, 616; Jan. 3, 1923, ch. 21 title II, 42 Stat. 1084; Feb. 12, 1925, ch. 220, 43 Stat. 890; Dec. 13, 1926, ch. 6, §1, 44 Stat. 919; May 17, 1932, ch. 190, 47 Stat. 158; June 25, 1936, ch. 804, 49 Stat. 1921; Mar. 26, 1938, ch. 51, §2, 52 Stat. 118; June 16, 1938, ch. 465, 52 Stat. 752; June 14, 1941, ch. 203, §§1, 2, 55 Stat. 251).
 
 This section consolidates provisions of section 11–401 of the District of Columbia Code, 1940 ed., sections 644 and 863 of title 48, U.S.C., 1940 ed., Territories and Insular Possessions, and title 28, U.S.C., 1940 ed., sections 6, 7, 8, 524, 557, 567, 568, and 569 relating to district court clerks. Other provisions of such sections 8 and 524 are incorporated in sections 505 \[now 545\], 541 \[see 561\], and 954 of this title and other provisions of such section 11–401 of the District of Columbia Code have been retained in such Code.
 
@@ -68,25 +68,15 @@ Section 742 of Title 8, referred to in subsec. (e), was repealed by act June 27,
 
 #### Amendments
 
-1980—Subsec. (f). Pub. L. 96–417 added subsec. (f).
+<b>1980</b>—Subsec. (f). Pub. L. 96–417 added subsec. (f).
 
 #### Change of Name
 
-Reference to United States commissioners deemed to be reference to United States magistrates pursuant to Pub. L. 90–578, title IV, §402(b)(2), Oct. 17, 1968, 82 Stat. 1108. See chapter 43 (§631 et seq.) of this title.
-
-Reference to United States magistrate or to magistrate deemed to refer to United States magistrate judge pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of this title.
+“United States magistrate judges” substituted for “United States magistrates” in subsec. (d) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of this title. Previously, “United States magistrates” substituted for “United States commissioners” pursuant to Pub. L. 90–578. See chapter 43 (§631 et seq.) of this title.
 
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respect to civil actions pending on or commenced on or after such date, see section 701(a) of Pub. L. 96–417, set out as a note under section 251 of this title.
-
-#### Cross References
-
-Compensation and expenses of clerks, deputies, etc., see section 604 of this title.
-
-Oath and bond of clerks and deputies, see sections 951 and 963 of this title.
-
-Powers and duties of clerks and deputies, see section 956 of this title.
 
 #### Section Referred to in Other Sections
 

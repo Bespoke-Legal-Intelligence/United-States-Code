@@ -28,10 +28,6 @@ Functions of all officers of Department of the Treasury, and functions of all ag
 
 Coast Guard transferred to Department of Transportation and all functions, powers, and duties, relating to Coast Guard, of Secretary of the Treasury and of other offices and officers of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, Oct. 15, 1966, 80 Stat. 931, which created the Department of Transportation. See section 108 of Title 49, Transportation.
 
-#### Canal Zone
-
-Applicability of section to Canal Zone, see section 14 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 14 of this title.

@@ -28,7 +28,7 @@ For the purpose of this chapter—
 
 &emsp;(13) “cooperative unit owner” means the person having a membership or share interest in the cooperative association and holding a lease, or other muniment of title or possession, of a cooperative unit that is granted by the cooperative association as the owner of the cooperative property;
 
-&emsp;(14) “developer” means (A) any person who offers to sell or sells his interest in a cooperative or condominium unit not previously conveyed, or (B) any successor of such person who offers to sell or sells his interests in units in a cooperative or condominium project and who has the authority to exercise special developer control in the project including the right to: add, convert, or withdraw real estate from the cooperative or condominium project, and maintain sales offices, management offices and rental units; exercise easements through common elements for the purpose of making improvements within the cooperative or condominium; or exercise control of the owners’ association;
+&emsp;(14) “developer” means (A) any person who offers to sell or sells his interest in a cooperative or condominium unit not previously conveyed, or (B) any successor of such person who offers to sell or sells his interests in units in a cooperative or condominium project and who has the authority to exercise special developer control in the project including the right to: add, convert, or withdraw real estate from the cooperative or condominium project, and maintain sales offices, management officesand rental units; exercise easements through common elements for the purpose of making improvements within the cooperative or condominium; or exercise control of the owners’ association;
 
 &emsp;(15) “interstate commerce” means trade, traffic, transportation, communication, or exchange among the States, or between any foreign country and a State, or any transaction which affects such trade, traffic, transportation, communication, or exchange;
 
@@ -48,7 +48,7 @@ For the purpose of this chapter—
 
 &emsp;(23) “State” includes the several States, the District of Columbia, the Commonwealth of Puerto Rico, and the territories and possessions of the United States; and
 
-&emsp;(24) “tenants’ organization” means a bona fide organization of tenants who represent amajority of the occupied rental units in a rental housing project.
+&emsp;(24) “tenants’ organization” means a bona fide organization of tenants who represent a majority of the occupied rental units in a rental housing project.
 
 (Pub. L. 96–399, title VI, §604, Oct. 8, 1980, 94 Stat. 1673.)
 

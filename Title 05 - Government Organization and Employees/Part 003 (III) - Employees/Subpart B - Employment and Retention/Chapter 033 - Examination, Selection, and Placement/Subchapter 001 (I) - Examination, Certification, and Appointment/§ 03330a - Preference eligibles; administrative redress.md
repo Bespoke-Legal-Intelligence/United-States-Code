@@ -10,9 +10,9 @@
 
 (b)(1) The Secretary of Labor shall investigate each complaint under subsection (a).
 
-(2) In carrying out any investigation under this subsection, the Secretary's duly authorized representatives shall, at all reasonable times, have reasonable access to, for purposes of examination, and the right to copy and receive, any documents of any person or agency that the Secretary considers relevant to the investigation.
+(2) In carrying out any investigation under this subsection, the Secretary's duly authorizedrepresentatives shall, at all reasonable times, have reasonable access to, for purposes of examination, and the right to copy and receive, any documents of any person or agency that the Secretary considers relevant to the investigation.
 
-(3) In carrying out any investigation under this subsection, the Secretary may require by subpoena the attendance and testimony of witnesses and the production of documents relating to any matter under investigation. In case of disobedience of the subpoena or contumacy andon request of the Secretary, the Attorney General may apply to any district court of the United States in whose jurisdiction such disobedience or contumacy occurs for an order enforcing the subpoena.
+(3) In carrying out any investigation under this subsection, the Secretary may require by subpoena the attendance and testimony of witnesses and the production of documents relating to any matter under investigation. In case of disobedience of the subpoena or contumacy and on request of the Secretary, the Attorney General may apply to any district court of the United States in whose jurisdiction such disobedience or contumacy occurs for an order enforcing the subpoena.
 
 (4) Upon application, the district courts of the United States shall have jurisdiction to issue writs commanding any person or agency to comply with the subpoena of the Secretary or to comply with any order of the Secretary made pursuant to a lawful investigation under this subsection and the district courts shall have jurisdiction to punish failure to obey a subpoena or other lawful order of the Secretary as a contempt of court.
 

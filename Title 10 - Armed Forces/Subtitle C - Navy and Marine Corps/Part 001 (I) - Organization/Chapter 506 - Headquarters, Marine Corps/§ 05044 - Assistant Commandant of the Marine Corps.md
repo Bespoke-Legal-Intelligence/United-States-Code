@@ -18,7 +18,3 @@
 
 Provisions similar to those in this section were contained in section 5202 of this title prior to enactment of Pub. L. 99–433.
 
-#### Cross References
-
-Pay and allowances, see section 202 of Title 37, Pay and Allowances of the Uniformed Services.
-

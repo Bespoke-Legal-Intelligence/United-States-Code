@@ -138,5 +138,5 @@ Pub. L. 103–283, title II, July 22, 1994, 108 Stat. 1440.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 9106 of this title; title 12 sections 1431, 1441, 1441a, 1441b, 1789, 4716; title 16 sections 450ss–3, 831n–4, 838i; title 22 section 3723.
+This section is referred to in section 9106 of this title; title 12 sections 1431, 1441, 1441a, 1441b, 1789, 4716; title 16 sections 450ss–3, 698v–4, 831n–4, 838i; title 22 section 3723.
 

@@ -12,12 +12,6 @@ R.S. §2348 derived from act Mar. 3, 1873, ch. 279, §2, 17 Stat. 607.
 
 See note set out under section 71 of this title.
 
-#### Cross References
-
-Disposition of coal deposits, form and manner, see section 193 of this title.
-
-Leases and prospecting permits, see section 201 et seq. of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 24, 29, 33, 37, 38, 39, 40, 42, 46, 47, 73, 74, 75, 76, 102 of this title.

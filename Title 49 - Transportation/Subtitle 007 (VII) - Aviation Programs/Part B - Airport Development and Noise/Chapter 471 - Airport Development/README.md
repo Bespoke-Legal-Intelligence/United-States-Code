@@ -35,9 +35,12 @@
 | [47129\.](Subchapter%20001%20%28I%29%20-%20Airport%20Improvement/%C2%A7%2047129%20-%20Resolution%20of%20airport-air%20carrier%20disputes%20concerning%20airport%20fees.md) | Resolution of airport-air carrier disputes concerning airport fees. |
 | [47130\.](Subchapter%20001%20%28I%29%20-%20Airport%20Improvement/%C2%A7%2047130%20-%20Airport%20safety%20data%20collection.md) | Airport safety data collection. |
 | [47131\.](Subchapter%20001%20%28I%29%20-%20Airport%20Improvement/%C2%A7%2047131%20-%20Annual%20report.md) | Annual report. |
-| [47132\.](Subchapter%20001%20%28I%29%20-%20Airport%20Improvement/%C2%A7%2047132%20-%20Pavement%20maintenance.md) | Pavement maintenance. |
+| \[47132. | Repealed.\] |
 | [47133\.](Subchapter%20001%20%28I%29%20-%20Airport%20Improvement/%C2%A7%2047133%20-%20Restriction%20on%20use%20of%20revenues.md) | Restriction on use of revenues. |
 | [47134\.](Subchapter%20001%20%28I%29%20-%20Airport%20Improvement/%C2%A7%2047134%20-%20Pilot%20program%20on%20private%20ownership%20of%20airports.md) | Pilot program on private ownership of airports. |
+| [47135\.](Subchapter%20001%20%28I%29%20-%20Airport%20Improvement/%C2%A7%2047135%20-%20Innovative%20financing%20techniques.md) | Innovative financing techniques. |
+| [47136\.](Subchapter%20001%20%28I%29%20-%20Airport%20Improvement/%C2%A7%2047136%20-%20Inherently%20low-emission%20airport%20vehicle%20pilot%20program.md) | Inherently low-emission airport vehicle pilot program. |
+| [47137\.](Subchapter%20001%20%28I%29%20-%20Airport%20Improvement/%C2%A7%2047137%20-%20Airport%20security%20program.md) | Airport security program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -46,16 +49,22 @@
 |  |  |
 | :--- | ---: |
 | [47151\.](Subchapter%20002%20%28II%29%20-%20Surplus%20Property%20for%20Public%20Airports/%C2%A7%2047151%20-%20Authority%20to%20transfer%20an%20interest%20in%20surplus%20property.md) | Authority to transfer an interest in surplus property. |
-| [47152\.](Subchapter%20002%20%28II%29%20-%20Surplus%20Property%20for%20Public%20Airports/%C2%A7%2047152%20-%20Terms%20of%20gifts.md) | Terms of gifts. |
+| [47152\.](Subchapter%20002%20%28II%29%20-%20Surplus%20Property%20for%20Public%20Airports/%C2%A7%2047152%20-%20Terms%20of%20conveyances.md) | Terms of conveyances. |
 | [47153\.](Subchapter%20002%20%28II%29%20-%20Surplus%20Property%20for%20Public%20Airports/%C2%A7%2047153%20-%20Waiving%20and%20adding%20terms.md) | Waiving and adding terms. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
+2000—Pub. L. 106–181, title I, §§123(a)(2), 132(b), 133(b), 134(b), 135(d)(4), Apr. 5, 2000, 114 Stat. 74, 81–83, 85, struck out item 47132 “Pavement maintenance”, added items 47135 to 47137, and substituted “conveyances” for “gifts” in item 47152.
+
 1996—Pub. L. 104–264, title I, §§142(c), 147(c)(2), 149(a)(2), title VIII, §804(c), Oct. 9, 1996, 110 Stat. 3221, 3223, 3226, 3271, substituted “grant program” for “grant pilot program” in item 47128 and added items 47132, 47133, and 47134.
 
 1994—Pub. L. 103–305, title I, §§113(b), 118(b), Aug. 23, 1994, 108 Stat. 1579, 1580, added items 47129 and 47130 and redesignated former item 47129 as 47131.
+
+#### Chapter Referred to in Other Sections
+
+This chapter is referred to in section 44718 of this title.
 
 
 ---

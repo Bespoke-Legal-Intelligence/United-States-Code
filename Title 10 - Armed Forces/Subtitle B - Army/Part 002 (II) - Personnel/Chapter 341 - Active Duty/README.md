@@ -19,14 +19,6 @@
 
 1958—Pub. L. 85–861, §1(82)(B), Sept. 2, 1958, 72 Stat. 1481, added item 3494.
 
-#### Cross References
-
-Disabled officers, retention on active duty, see section 3446 of this title.
-
-General military law provisions, see section 671 et seq. of this title.
-
-Temporary appointments to commissioned grade, time for relief from active duty, see section 603 of this title.
-
 
 ---
 

@@ -16,13 +16,13 @@ With respect to any lands located in the area extending from the United States C
 
 #### (d) Stadium; contracts for athletic and other events; additional seating capacity: financing, terms and conditions; restriction of right to revenues
 
-(1) Notwithstanding the District of Columbia Stadium Act of 1957 \[D.C. Code, §2–321 et seq.\] or any other provision of law, the Armory Board (hereafter in this subsection referred to as the “Board”), created by the Act of June 4, 1948 (D.C. Code, sec. 2–1702 \[sec. 2–302\]), is hereby authorized to enter into contracts for the conduct in the Robert F. Kennedy Stadium authorized by such Act of 1957 of major league football, baseball, and softball, and motorcycle races, rodeos, musical concerts, and other events, and to increase the seating capacity of such stadium by an additional number of seats, not to exceed eight thousand, and at a cost not to exceed $1,500,000. Notwithstanding such Act of 1957, or any other provision of law, the Board is further authorized to borrow such sums as may be necessary to provide for the additional seating authorized by this subsection in accordance with the following terms and conditions, which terms and conditions shall be effective during the period that any of such sums so borrowed remain unpaid:
+(1) Notwithstanding the District of Columbia Stadium Act of 1957 or any other provision of law, the Armory Board (hereafter in this subsection referred to as the “Board”), created by the Act of June 4, 1948 (D.C. Code, sec. 2–1702), is hereby authorized to enter into contracts for the conduct in the Robert F. Kennedy Stadium authorized by such Act of 1957 of major league football, baseball, and softball, and motorcycle races, rodeos, musical concerts, and other events, and to increase the seating capacity of such stadium by an additional number of seats, not to exceed eight thousand, and at a cost not to exceed $1,500,000. Notwithstanding such Act of 1957, or any other provision of law, the Board is further authorized to borrow such sums as may be necessary to provide for the additional seating authorized by this subsection in accordance with the following terms and conditions, which terms and conditions shall be effective during the period that any of such sums so borrowed remain unpaid:
 
 &emsp;(A) 50 per centum of all revenues from professional football derived from such additional seats shall be used solely for the purpose of repaying the sums borrowed for such seats;
 
 &emsp;(B) 44 per centum of such revenues shall be paid to the team operating under the trade name of the Washington Redskins, or its successors; and
 
-&emsp;(C) 6 per centum of such revenues shall be subject to the provisions of section 6 of such Act of 1957 \[D.C. Code, §2–325\].
+&emsp;(C) 6 per centum of such revenues shall be subject to the provisions of section 6 of such Act of 1957.
 
 (2) In no case shall the National Football League or any team within such league (other than the aforementioned Redskins team or its successors), during the period within which any part of such sums so borrowed pursuant to paragraph (1) of this subsection remains unpaid, be considered as being entitled to, or as acquiring any right in connection with, any part of the revenues attributable to the additional seats authorized by this subsection.
 
@@ -32,9 +32,9 @@ With respect to any lands located in the area extending from the United States C
 
 Provisions of the Act of March 4, 1907, referred to in subsec. (c), that created the House Office Building Commission are classified to section 175 of this title.
 
-The District of Columbia Stadium Act of 1957, referred to in subsec. (d), is Pub. L. 85–300, Sept. 7, 1957, 71 Stat. 619, as amended, which appears in subchapter II (§2–321 et seq.) of chapter 3 of Title 2, District Boards and Commissions, of the District of Columbia Code.
+The District of Columbia Stadium Act of 1957, referred to in subsec. (d), is Pub. L. 85–300, Sept. 7, 1957, 71 Stat. 619, as amended, which is not classified to the Code.
 
-Act of June 4, 1948, referred to in subsec. (d), is act June 4, 1948, ch. 418, 62 Stat. 339, which appears in subchapter I (§2–301 et seq.) of chapter 3 of Title 2 of the District of Columbia Code.
+Act of June 4, 1948, referred to in subsec. (d), is act June 4, 1948, ch. 418, 62 Stat. 339, which is not classified to the Code.
 
 #### Amendments
 
@@ -44,7 +44,7 @@ Act of June 4, 1948, referred to in subsec. (d), is act June 4, 1948, ch. 418, 6
 
 #### Transfer of Functions
 
-“Council of the District of Columbia” substituted for “District of Columbia Council” in subsec. (b), pursuant to section 401 of Pub. L. 93–198. District of Columbia Council, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by Pub. L. 93–198, title VII, §711, Dec. 24, 1973, 87 Stat. 818, classified to section 1–211 of the District of Columbia Code, and replaced by Council of District of Columbia, as provided by section 401 of Pub. L. 93–198, classified to section 1–221 of the District of Columbia Code.
+“Council of the District of Columbia” substituted for “District of Columbia Council” in subsec. (b), pursuant to section 401 of Pub. L. 93–198. District of Columbia Council, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by Pub. L. 93–198, title VII, §711, Dec. 24, 1973, 87 Stat. 818, and replaced by Council of District of Columbia, as provided by section 401 of Pub. L. 93–198.
 
 Previously, reference to the Board of Commissioners of the District of Columbia had been changed to the District of Columbia Council pursuant to section 402(431) of Reorganization Plan No. 3 of 1967, 32 F.R. 11669, set out in the Appendix to Title 5, Government Organizations and Employees, which transferred the regulatory and other functions of the Board of Commissioners relating to agreements as to the closing and vacating of alleys and portions of streets to the District of Columbia Council, subject to the right of the Commissioner as provided by section 406 of the Plan. For provisions establishing the District of Columbia Council, see section 201 of the Reorg. Plan No. 3 of 1967.
 

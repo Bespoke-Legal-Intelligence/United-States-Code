@@ -20,10 +20,6 @@ July 31, 1947, ch. 420, §3 (less last sentence), 61 Stat. 706; Aug. 30, 1954, c
 
 The words “as many \* \* \* as he considers necessary” are substituted for the words “such number \* \* \* as in his opinion may be necessary for the proper instruction of students in the theoretical, academic, and scientific subjects pertaining to the technical and practical aspects of the naval profession” for brevity.
 
-#### Cross References
-
-Retirement of civilian teachers, see section 7081 et seq. of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in title 5 section 5102.

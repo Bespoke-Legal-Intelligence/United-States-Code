@@ -10,7 +10,7 @@ The original text of this section referred to both registers and receivers, but 
 
 #### Change of Name
 
-“United States magistrate judge” substituted in text for “United States magistrate” pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 ofTitle 28, Judiciary and Judicial Procedure. Previously, “United States magistrate” substituted for “United States commissioner” pursuant to Pub. L. 90–578. See chapter 43 (§631 et seq.) of Title 28.
+“United States magistrate judge” substituted in text for “United States magistrate” pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure. Previously, “United States magistrate” substituted for “United States commissioner” pursuant to Pub. L. 90–578. See chapter 43 (§631 et seq.) of Title 28.
 
 #### Transfer of Functions
 

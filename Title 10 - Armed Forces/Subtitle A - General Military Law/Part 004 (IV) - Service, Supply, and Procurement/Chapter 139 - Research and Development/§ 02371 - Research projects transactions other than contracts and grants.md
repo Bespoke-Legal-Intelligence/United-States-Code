@@ -62,7 +62,7 @@ Annual Report.—(1) Not later than 90 days after the end of each fiscal year, t
 
 Protection of Certain Information From Disclosure.—(1) Disclosure of information described in paragraph (2) is not required, and may not be compelled, under section 552 of title 5 for five years after the date on which the information is received by the Department of Defense.
 
-(2)(A) Paragraph (1) applies to information described in subparagraph (B) that is in the records of the Department of Defense if the information was submitted to the Department in a competitive or noncompetitive process having the potential for resulting in an award, to the party submitting the information, of a cooperative agreement for performance of basic, applied, or advanced research authorized by section 2358 of this title or another transaction authorized by subsection (a).
+(2)(A) Paragraph (1) applies to information described in subparagraph (B) that is in the records of the Department of Defense if the information was submitted to the Department in acompetitive or noncompetitive process having the potential for resulting in an award, to the party submitting the information, of a cooperative agreement for performance of basic, applied, or advanced research authorized by section 2358 of this title or another transaction authorized by subsection (a).
 
 (B) The information referred to in subparagraph (A) is the following:
 
@@ -84,7 +84,7 @@ Protection of Certain Information From Disclosure.—(1) Disclosure of informati
 
 1996—Subsec. (b). Pub. L. 104–201, §1073(e)(1)(B), inserted “Defense” before “Advanced Research Projects Agency”.
 
-Subsec. (e). Pub. L. 104–201, §267(a), inserted “(1)” before “The Secretary of Defense”, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, inserted “and” after semicolon at end of subpar. (A), substituted a period for “; and” at end of subpar. (B),added par. (2), and struck out par. (3) which read as follows: “a cooperative agreement containing a clause under subsection (d) or a transaction authorized under subsection (a) is used for a research project only when the use of a standard contract, grant, or cooperative agreement for such project is not feasible or appropriate.”
+Subsec. (e). Pub. L. 104–201, §267(a), inserted “(1)” before “The Secretary of Defense”, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, inserted “and” after semicolon at end of subpar. (A), substituted a period for “; and” at end of subpar. (B), added par. (2), and struck out par. (3) which read as follows: “a cooperative agreement containing a clause under subsection (d) or a transaction authorized under subsection (a) is used for a research project only when the use of a standard contract, grant, or cooperative agreement for such project is not feasible or appropriate.”
 
 Subsec. (f). Pub. L. 104–201, §1073(e)(1)(B), inserted “Defense” before “Advanced Research Projects Agency”.
 
@@ -156,11 +156,11 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 #### Authority of Defense Advanced Research Projects Agency To Carry Out Certain Prototype Projects
 
-Section 845 of Pub. L. 103–160, as amended by Pub. L. 104–201, div. A, title VIII, §804, title X, §1073(e)(1)(D), (2)(A), Sept. 23, 1996, 110 Stat. 2605, 2658; Pub. L. 105–261, div. A, title II, §241, Oct. 17, 1998, 112 Stat. 1954; Pub. L. 106–65, div. A, title VIII, §801, title X, §1066(d)(6), Oct. 5, 1999, 113 Stat. 700, 773, provided that:
+Section 845 of Pub. L. 103–160, as amended by Pub. L. 104–201, div. A, title VIII, §804, title X, §1073(e)(1)(D), (2)(A), Sept. 23, 1996, 110 Stat. 2605, 2658; Pub. L. 105–261, div. A, title II, §241, Oct. 17, 1998, 112 Stat. 1954; Pub. L. 106–65, div. A, title VIII, §801, title X, §1066(d)(6), Oct. 5, 1999, 113 Stat. 700, 773; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §§803, 804(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–205, 1654A–206, provided that:
 
 “(a)
 
-Authority.—The Director of the Defense Advanced Research Projects Agency, the Secretary of a military department, or any other official designated by the Secretary of Defense may, under the authorityof section 2371 of title 10, United States Code, carry out prototype projects that are directly relevant to weapons or weapon systems proposed to be acquired or developed by the Department of Defense.
+Authority.—The Director of the Defense Advanced Research Projects Agency, the Secretary of a military department, or any other official designated by the Secretary of Defense may, under the authority of section 2371 of title 10, United States Code, carry out prototype projects that are directly relevant to weapons or weapon systems proposed to be acquired or developed by the Department of Defense.
 
 “(b)
 
@@ -174,13 +174,45 @@ Comptroller General Review.—(1) Each agreement entered into by an official ref
 
 “(2) The requirement in paragraph (1) shall not apply with respect to a party or entity, or a subordinate element of a party or entity, that has not entered into any other agreement that provides for audit access by a Government entity in the year prior to the date of the agreement.
 
-“(3) The head of the contracting activity that is carrying out the agreement may waive the applicability of the requirement in paragraph (1) to the agreement if the head of the contracting activity determines that it would not be in the public interest to apply the requirement to the agreement. The waiver shall be effective with respect to the agreement only if the head of the contracting activity transmits a notification of the waiver to Congress and the Comptroller General before entering into the agreement. The notification shall include the rationale for the determination.
+“(3)(A) The right provided to the Comptroller General in a clause of an agreement under paragraph (1) is limited as provided in subparagraph (B) in the case of a party to the agreement, an entity that participates in the performance of the agreement, or a subordinate element of that party or entity if the only agreements or other transactions that the party, entity, or subordinate element entered into with Government entities in the year prior to the date of that agreement are cooperative agreements or transactions that were entered into under this section or section 2371 of title 10, United States Code.
 
-“(4) The Comptroller General may not examine records pursuant to a clause included in an agreement under paragraph (1) more than three years after the final payment is made by the United States under the agreement.
+“(B) The only records of a party, other entity, or subordinate element referred to in subparagraph (A) that the Comptroller General may examine in the exercise of the right referred to in that subparagraph are records of the same type as the records that the Government has had the right to examine under the audit access clauses of the previous agreements or transactions referred to in such subparagraph that were entered into by that particular party, entity, or subordinate element.
+
+“(4) The head of the contracting activity that is carrying out the agreement may waive the applicability of the requirement in paragraph (1) to the agreement if the head of the contracting activity determines that it would not be in the public interest to apply the requirement to the agreement. The waiver shall be effective with respect to the agreement only if the head of the contracting activity transmits a notification of the waiver to Congress and the Comptroller General before entering into the agreement. The notification shall include the rationale for the determination.
+
+“(5) The Comptroller General may not examine records pursuant to a clause included in an agreement under paragraph (1) more than three years after the final payment is made by the United States under the agreement.
 
 “(d)
 
-Period of Authority.—The authority to carry out projects under subsection (a) shall terminate at the end of September 30, 2001.”
+Appropriate Use of Authority.—(1) The Secretary of Defense shall ensure that no official of an agency enters into a transaction (other than a contract, grant, or cooperative agreement) for a prototype project under the authority of this section unless—
+
+&emsp;“(A) there is at least one nontraditional defense contractor participating to a significant extent in the prototype project; or
+
+&emsp;“(B) no nontraditional defense contractor is participating to a significant extent in the prototype project, but at least one of the following circumstances exists:
+
+&emsp;&emsp;“(i) At least one third of the total cost of the prototype project is to be paid out of funds provided by parties to the transaction other than the Federal Government.
+
+&emsp;&emsp;“(ii) The senior procurement executive for the agency (as designated for the purposes of section 16(3) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(3))\[)\] determines in writing that exceptional circumstances justify the use of a transaction that provides for innovative business arrangements or structures that would not be feasible or appropriate under a contract.
+
+“(2)(A) Except as provided in subparagraph (B), the amounts counted for the purposes of this subsection as being provided, or to be provided, by a party to a transaction with respect to a prototype project that is entered into under this section other than the Federal Government do not include costs that were incurred before the date on which the transaction becomes effective.
+
+“(B) Costs that were incurred for a prototype project by a party after the beginning of negotiations resulting in a transaction (other than a contract, grant, or cooperative agreement) with respect to the project before the date on which the transaction becomes effective may be counted for purposes of this subsection as beingprovided, or to be provided, by the party to the transaction if and to the extent that the official responsible for entering into the transaction determines in writing that—
+
+&emsp;“(i) the party incurred the costs in anticipation of entering into the transaction; and
+
+&emsp;“(ii) it was appropriate for the party to incur the costs before the transaction became effective in order to ensure the successful implementation of the transaction.
+
+“(e)
+
+Nontraditional Defense Contractor Defined.—In this section, the term ‘nontraditional defense contractor’ means an entity that has not, for a period of at least one year prior to the date that a transaction (other than a contract, grant, or cooperative agreement) for a prototype project under the authority of this section is entered into, entered into or performed with respect to—
+
+&emsp;“(1) any contract that is subject to full coverage under the cost accounting standards prescribed pursuant to section 26 of the Office of Federal Procurement Policy Act (41 U.S.C. 422) and the regulations implementing such section; or
+
+&emsp;“(2) any other contract in excess of $500,000 to carry out prototype projects or to perform basic, applied, or advanced research projects for a Federal agency, that is subject to the Federal Acquisition Regulation.
+
+“(f)
+
+Period of Authority.—The authority to carry out projects under subsection (a) shall terminate at the end of September 30, 2004.”
 
 #### Section Referred to in Other Sections
 

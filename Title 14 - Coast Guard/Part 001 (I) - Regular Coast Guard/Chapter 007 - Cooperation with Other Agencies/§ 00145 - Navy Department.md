@@ -36,7 +36,3 @@ Subsec. (c). Pub. L. 94–546, §1(11)(b), substituted in first sentence “Depa
 
 1950—Subsec. (a)(3). Act Aug. 3, 1950, added par. (3).
 
-#### Cross References
-
-Interchange of supplies between Army, Navy, and Coast Guard, see section 2571 of Title 10, Armed Forces.
-

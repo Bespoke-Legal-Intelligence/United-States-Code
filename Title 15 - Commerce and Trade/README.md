@@ -1,5 +1,5 @@
 
-15 U.S.C.<br>United States Code, 1999 Edition<br>Title 15 - COMMERCE AND TRADE<br>From the U.S. Government Publishing Office, www.gpo.gov
+15 U.S.C.<br>United States Code, 2000 Edition<br>Title 15 - COMMERCE AND TRADE<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 15—COMMERCE AND TRADE
 
@@ -123,6 +123,8 @@
 | [<b>93.</b>](Chapter%20093%20-%20Insurance/README.md) | <b>Insurance</b> | <b>6701</b> |
 | [<b>94.</b>](Chapter%20094%20-%20Privacy/README.md) | <b>Privacy</b> | <b>6801</b> |
 | [<b>95.</b>](Chapter%20095%20-%20Microenterprise%20Technical%20Assistance%20and%20Capacity%20Building%20Program/README.md) | <b>Microenterprise Technical Assistance and Capacity Building Program</b> | <b>6901</b> |
+| [<b>96.</b>](Chapter%20096%20-%20Electronic%20Signatures%20in%20Global%20and%20National%20Commerce/README.md) | <b>Electronic Signatures in Global and National Commerce</b> | <b>7001</b> |
+| [<b>97.</b>](Chapter%20097%20-%20Women%27s%20Business%20Enterprise%20Development/README.md) | <b>Women's Business Enterprise Development</b> | <b>7101</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -249,3 +251,5 @@
 - [Chapter 093 - Insurance](Chapter%20093%20-%20Insurance/README.md)
 - [Chapter 094 - Privacy](Chapter%20094%20-%20Privacy/README.md)
 - [Chapter 095 - Microenterprise Technical Assistance and Capacity Building Program](Chapter%20095%20-%20Microenterprise%20Technical%20Assistance%20and%20Capacity%20Building%20Program/README.md)
+- [Chapter 096 - Electronic Signatures in Global and National Commerce](Chapter%20096%20-%20Electronic%20Signatures%20in%20Global%20and%20National%20Commerce/README.md)
+- [Chapter 097 - Women's Business Enterprise Development](Chapter%20097%20-%20Women%27s%20Business%20Enterprise%20Development/README.md)

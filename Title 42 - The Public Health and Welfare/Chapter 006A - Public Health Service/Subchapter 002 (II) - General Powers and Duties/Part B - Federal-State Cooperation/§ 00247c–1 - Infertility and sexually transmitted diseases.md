@@ -36,7 +36,7 @@ The Secretary may make a grant under subsection (a) of this section only if the 
 
 #### (e) Required providers regarding certain services
 
-The Secretary may make a grant under subsection (a) of this section only if the applicant involved agrees that, in expending the grant to carry out activities authorized in subsection (c) of this section, the services described in paragraphs (1) through (7) of such subsection will be provided only through entities that are State or local health departments, grantees under section 254b, 254c, 256, 256a, or 300 of this title,<sup>1</sup> or are other public or nonprofit private entities that provide health services to a significant number of low-income women.
+The Secretary may make a grant under subsection (a) of this section only if the applicant involved agrees that, in expending the grant to carry out activities authorized in subsection (c) of this section, the services described in paragraphs (1) through (7) of such subsection will be provided only through entities that are State or local health departments, grantees under section 254b, 254c, 256, 256a, or 300 of this title,<sup>1</sup> orare other public or nonprofit private entities that provide health services to a significant number of low-income women.
 
 #### (f) Quality assurance regarding screening for diseases
 
@@ -64,7 +64,7 @@ The Secretary may make a grant under subsection (a) of this section only if the 
 
 #### (1) Collection of data
 
-&emsp;The Secretary may make a grant under subsection (a) of this section only if the applicant involved agrees, with respect to any disease selected under subsection (b) of this section for the applicant, to submit to the Secretary,for each fiscal year for which the applicant receives such a grant, a report providing—
+&emsp;The Secretary may make a grant under subsection (a) of this section only if the applicant involved agrees, with respect to any disease selected under subsection (b) of this section for the applicant, to submit to the Secretary, for each fiscal year for which the applicant receives such a grant, a report providing—
 
 &emsp;&emsp;(A) the incidence of the disease among the population of individuals served by the applicant;
 
@@ -176,7 +176,7 @@ Subsec. (r)(2). Pub. L. 103–183, §402(b)(2), substituted “1998” for “19
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 <i><sup>1</sup></i><i> See References in Text notes below.</i>
 

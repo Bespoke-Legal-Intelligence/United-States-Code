@@ -14,7 +14,7 @@ To carry out the purpose of subsection (a) of this section, the President is aut
 
 &emsp;(3) Assistance for development of independent media.
 
-&emsp;(4) Assistance for the development of the rule of law, a strong independent judiciary, and transparency in political practice and commercial transactions.
+&emsp;(4) Assistance for the development of the rule of law, a strong independent judiciary,and transparency in political practice and commercial transactions.
 
 &emsp;(5) International exchanges and advanced professional training programs in skill areas central to the development of civil society.
 

@@ -8,7 +8,7 @@ Congress finds and declares that—
 
 &emsp;(3) the pendency of such lawsuit also has clouded the easement rights of the South Florida Water Management District in lands necessary for use as a water flowage and storage area, which is part of a federally authorized project for flood control and water management in central and southern Florida, and which is being used to provide and regulate a water supply for the residents of South Florida;
 
-&emsp;(4) the State of Florida and the Miccosukee Indian Tribe have executed agreements for the purposes of resolving tribal land claims andsettling such lawsuit, which agreements require implementing legislation by the Congress of the United States and the Legislature of the State of Florida; and
+&emsp;(4) the State of Florida and the Miccosukee Indian Tribe have executed agreements for the purposes of resolving tribal land claims and settling such lawsuit, which agreements require implementing legislation by the Congress of the United States and the Legislature of the State of Florida; and
 
 &emsp;(5) Congress shares with the parties to such agreements a desire to settle such Indian claims in the State of Florida without additional cost to the United States.
 

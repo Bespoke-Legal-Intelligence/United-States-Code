@@ -66,26 +66,6 @@ Meetings of JCS.—(1) The Chairman shall convene regular meetings of the Joint 
 
 1992—Subsec. (a)(2) to (6). Pub. L. 102–484 added par. (2) and redesignated former pars. (2) to (5) as (3) to (6), respectively.
 
-#### Cross References
-
-Chief of Naval Operations, generally, see section 5031 et seq. of this title.
-
-Chief of Staff of the Army or Air Force, appointment and duties, see sections 3033, 8033 of this title.
-
-Commandant of the Marine Corps, appointment, term and emoluments, see section 5043 of this title.
-
-Detail or assignment of officers to Office of the Secretary of Defense, see section 131 of this title.
-
-National Security Council, establishment and functions, see section 402 of Title 50, War and National Defense.
-
-Selection of Director of the Joint Staff, see section 155 of this title.
-
-United Nations Organization—
-
-&emsp;&emsp;Personal money allowance of officers serving as members of Military Staff Committee, see section 414 of Title 37, Pay and Allowances of the Uniformed Services.
-
-&emsp;&emsp;Representation, see section 287 of Title 22, Foreign Relations and Intercourse.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 3033, 5033, 5043, 8033 of this title.

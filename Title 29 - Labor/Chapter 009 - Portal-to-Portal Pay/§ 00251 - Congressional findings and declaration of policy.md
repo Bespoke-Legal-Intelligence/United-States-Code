@@ -18,7 +18,7 @@ The Congress further finds and declares that all of the results which have arise
 
 The Fair Labor Standards Act of 1938, as amended, referred to in subsec. (a), is act June 25, 1938, ch. 676, 52 Stat. 1060, as amended, which is classified generally to chapter 8 (§201 et seq.) of this title. For complete classification of this Act to the Code, see section 201 of this title and Tables.
 
-This chapter, referred to in subsec. (a), was in the original “this Act”, meaning act May 14, 1947, ch. 52, 61 Stat. 84, as amended, known as the Portal-to-Portal Act of 1947, which enacted this chapter and amended section 216 of this title. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in subsec. (a), was in the original “this Act”, meaning act May 14, 1947, ch. 52, 61Stat. 84, as amended, known as the Portal-to-Portal Act of 1947, which enacted this chapter and amended section 216 of this title. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 The Walsh-Healey and Bacon-Davis Acts, referred to in subsec. (a), are defined for purposes of this chapter in section 262 of this title.
 

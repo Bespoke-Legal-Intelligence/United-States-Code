@@ -1,9 +1,5 @@
 ### SUBCHAPTER V—SPECIAL NUCLEAR MATERIAL
 
-#### Cross References
-
-Agreements with States for discontinuance of Commission regulation of certain materials under this subchapter and exemptions from licensing requirements therein contained, see section 2021 of this title.
-
 #### Subchapter Referred to in Other Sections
 
 This subchapter is referred to in sections 2014, 2021, 5842 of this title.

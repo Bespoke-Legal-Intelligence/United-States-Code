@@ -58,7 +58,7 @@ Subsec. (b)(2). Pub. L. 104–127, §214(2), inserted “with foreign countries�
 
 Subsec. (c)(1). Pub. L. 104–127, §214(3), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “Agreements to provide assistance on a multi-year basis under this chapter shall be made available to recipient countries or to eligible organizations.”
 
-1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions outlining aims of assistance programs, namely humanitarian and national interest objectives, and requiring assessmentsof recipient countries to determine types and quantities of commodities needed, conditions under which distribution should take place, most suitable timing for delivery, etc.
+1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions outlining aims of assistance programs, namely humanitarian and national interest objectives, and requiring assessments of recipient countries to determine types and quantities of commodities needed, conditions under which distribution should take place, most suitable timing for delivery, etc.
 
 1979—Pub. L. 96–53 designated existing provisions as subsec. (a), substituted provisions relating to aims of programs of assistance conducted under this chapter and sections 1427 and 1431 of this title and the types and quantities of agricultural commodities to be made available, for provisions relating to aims of assistance programs undertaken pursuant to this chapter and sections 1427 and 1431 of this title, and added subsec. (b).
 

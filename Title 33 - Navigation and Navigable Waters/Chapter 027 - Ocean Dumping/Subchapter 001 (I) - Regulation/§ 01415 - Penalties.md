@@ -26,7 +26,7 @@ The Attorney General or his delegate may bring actions for equitable relief to e
 
 #### (e) Liability of vessels in rem
 
-A vessel, except a public vessel within the meaning of section 13 of the Federal Water Pollution Control Act, as amended, used in a violation, shall be liable in rem for any civil penalty assessed or criminal fine imposed and may be proceeded against in any district court of theUnited States having jurisdiction thereof; but no vessel shall be liable unless it shall appear that one or more of the owners, or bareboat charterers, was at the time of the violation a consenting party or privy to such violation.
+A vessel, except a public vessel within the meaning of section 13 of the Federal Water Pollution Control Act, as amended, used in a violation, shall be liable in rem for any civil penalty assessed or criminal fine imposed and may be proceeded against in any district court of the United States having jurisdiction thereof; but no vessel shall be liable unless it shall appear that one or more of the owners, or bareboat charterers, was at the time of the violation a consenting party or privy to such violation.
 
 #### (f) Revocation and suspension of permits
 
@@ -72,7 +72,7 @@ No person shall be subject to a civil penalty or to a criminal fine or imprisonm
 
 #### References in Text
 
-Section 13 of the Federal Water Pollution Control Act, referred to in subsec. (e), is section 13 of act June 30, 1948, ch. 758, as added by act Apr. 3, 1970, Pub. L. 91–224, title I, §102, 84 Stat. 100, which was classified to section 1163 of this title and was superseded by Pub. L. 92–500, Oct. 18, 1972, 86 Stat. 816. See section 1322 of this title.
+Section 13 of the Federal Water Pollution Control Act, referred to in subsec. (e), is section 13 of act June30, 1948, ch. 758, as added by act Apr. 3, 1970, Pub. L. 91–224, title I, §102, 84 Stat. 100, which was classified to section 1163 of this title and was superseded by Pub. L. 92–500, Oct. 18, 1972, 86 Stat. 816. See section 1322 of this title.
 
 #### Amendments
 

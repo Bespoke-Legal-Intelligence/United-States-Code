@@ -14,7 +14,7 @@
 
 #### (2) Period of enforceability
 
-&emsp;An affidavit of support shall be enforceable with respect to benefits provided for an alien before the date the alien is naturalized as a citizen of the United States, or, if earlier, thetermination date provided under paragraph (3).
+&emsp;An affidavit of support shall be enforceable with respect to benefits provided for an alien before the date the alien is naturalized as a citizen of the United States, or, if earlier, the termination date provided under paragraph (3).
 
 #### (3) Termination of period of enforceability upon completion of required period of employment, etc.
 
@@ -88,7 +88,7 @@ Remedies available to enforce an affidavit of support under this section include
 
 #### (e) Jurisdiction
 
-An action to enforce an affidavit of support executed under subsection (a) of this sectionmay be brought against the sponsor in any appropriate court—
+An action to enforce an affidavit of support executed under subsection (a) of this section may be brought against the sponsor in any appropriate court—
 
 &emsp;(1) by a sponsored alien, with respect to financial support; or
 
@@ -256,7 +256,7 @@ Bonds in Addition to Sponsorship and Deeming Requirements.—\[Amended section 1
 
 #### Benefits Not Subject to Reimbursement
 
-Section 423(d) of Pub. L. 104–193, as amended by Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(3)(B),\(f)(3)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419, 2681–430; Pub. L. 106–78, title VII, §752(b)(6), Oct. 22, 1999, 113 Stat. 1169, provided that: “Requirements for reimbursement by a sponsor for benefits provided to a sponsored alien pursuant to an affidavit of support under section 213A of the Immigration and Nationality Act \[8 U.S.C. 1183a\] shall not apply with respect to the following:
+Section 423(d) of Pub. L. 104–193, as amended by Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(3)(B), (f)(3)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419, 2681–430; Pub. L. 106–78, title VII, §752(b)(6), Oct. 22, 1999, 113 Stat. 1169, provided that: “Requirements for reimbursement by a sponsor for benefits provided to a sponsored alien pursuant to an affidavit of support under section 213A of the Immigration and Nationality Act \[8 U.S.C. 1183a\] shall not apply with respect to the following:
 
 &emsp;“(1) Medical assistance described in section 401(b)(1)(A) \[8 U.S.C. 1611(b)(1)(A)\] or assistance described in section 411(b)(1) \[8 U.S.C. 1621(b)(1)\].
 
@@ -278,9 +278,7 @@ Section 423(d) of Pub. L. 104–193, as amended by Pub. L. 105–277, div. A, §
 
 &emsp;“(10) Means-tested programs under the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\].
 
-&emsp;“(11) Benefits under the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\] or title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\].”
-
-\[Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(f)(3)(B), (g)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–430, 2681–435, provided that, effective July 1, 2000, section 423(d)(11) of Pub. L. 104–193, set out above, is amended by striking “Job Training Partnership Act or”.\]
+&emsp;“(11) Benefits under the \[sic\] title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\].”
 
 #### Section Referred to in Other Sections
 

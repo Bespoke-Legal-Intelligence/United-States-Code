@@ -14,7 +14,7 @@ For purposes of this chapter—
 
 > &emsp;but only if such feature and associated habitats contain few manmade structures and these structures, and man's activities on such feature and within such habitats, do not significantly impede geomorphic and ecological processes.
 
-&emsp;(2) The term “Committees” refers to the Committee on Merchant Marine and Fisheries of the House of Representatives and the Committee on Environment and Public Works of the Senate.
+&emsp;(2) The term “Committees” means the Committee on Resources of the House of Representatives and the Committee on Environment and Public Works of the Senate.
 
 &emsp;(3) The term “financial assistance” means any form of loan, grant, guaranty, insurance, payment, rebate, subsidy, or any other form of direct or indirect Federal assistance other than—
 
@@ -26,7 +26,7 @@ For purposes of this chapter—
 
 &emsp;&emsp;(D) assistance pursuant to programs entirely unrelated to development, such as any Federal or federally assisted public assistance program or any Federal old-age survivors or disability insurance program.
 
-> &emsp;Effective October 1, 1983, such term includes flood insurance described in section 4028 of title 42.
+> &emsp;Such term includes flood insurance described in section 4028 of title 42.
 
 &emsp;(4) The term “Great Lakes” means Lake Ontario, Lake Erie, Lake Huron, Lake St. Clair, Lake Michigan, and Lake Superior, to the extent that those lakes are subject to the jurisdiction of the United States.
 
@@ -36,13 +36,17 @@ For purposes of this chapter—
 
 &emsp;(7) The term “System unit” means any undeveloped coastal barrier, or combination of closely-related undeveloped coastal barriers, included within the John H. Chafee Coastal Barrier Resources System established by section 3503 of this title.
 
-(Pub. L. 97–348, §3, Oct. 18, 1982, 96 Stat. 1653; Pub. L. 99–272, title XIV, §14001(b)(5), Apr. 7, 1986, 100 Stat. 329; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–707, title II, §204(c)(2), Nov. 23, 1988, 102 Stat. 4714; Pub. L. 101–591, §2(a), (b)(1), (c), Nov. 16, 1990, 104 Stat. 2931; Pub. L. 106–167, §3(c)(2), Dec. 9, 1999, 113 Stat. 1804.)
+(Pub. L. 97–348, §3, Oct. 18, 1982, 96 Stat. 1653; Pub. L. 99–272, title XIV, §14001(b)(5), Apr. 7, 1986, 100 Stat. 329; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–707, title II, §204(c)(2), Nov. 23, 1988, 102 Stat. 4714; Pub. L. 101–591, §2(a), (b)(1), (c), Nov. 16, 1990, 104 Stat. 2931; Pub. L. 106–167, §3(c)(2), Dec. 9, 1999, 113 Stat. 1804; Pub. L. 106–514, §4(a)(1), (2), Nov. 13, 2000, 114 Stat. 2396.)
 
 #### Amendments
 
+2000—Par. (2). Pub. L. 106–514, §4(a)(1), substituted “means the Committee on Resources” for “refers to the Committee on Merchant Marine and Fisheries”.
+
+Par. (3). Pub. L. 106–514, §4(a)(2), substituted “Such” for “Effective October 1, 1983, such” in concluding provisions.
+
 1999—Pars. (6), (7). Pub. L. 106–167 substituted “John H. Chafee Coastal Barrier Resources System” for “Coastal Barrier Resources System”.
 
-1990—Par. (1). Pub. L. 101–591, §2(c), in concluding provisions, struck out cl. (i) designation, inserted a period after “processes”, and struck out at end “, and (ii) are not included within the boundaries of an area established under Federal, State, or local law, or held by a qualified organization as defined in section 170(h)(3) of title 26, primarily for wildlife refuge, sanctuary, recreational, or natural resource conservation purposes.”
+1990—Par. (1). Pub. L. 101–591, §2(c), in concluding provisions, struck out cl. (i) designation, inserted a period after “processes”, and struck out at end “, and (ii) are not included within the boundaries of an area established under Federal, State, or local law, or held by a qualified organization as defined in section 170(h)(3) oftitle 26, primarily for wildlife refuge, sanctuary, recreational, or natural resource conservation purposes.”
 
 Par. (1)(A). Pub. L. 101–591, §2(a), redesignated cls. (ii) and (iii) as (i) and (ii), respectively, and struck out former cl. (i) which read as follows: “consists of unconsolidated sedimentary materials,”.
 
@@ -61,8 +65,4 @@ Par. (3). Pub. L. 99–272 struck out subpar. (A) relating to general revenue-sh
 #### Effective Date of 1986 Amendment
 
 Amendment by Pub. L. 99–272, effective Oct. 18, 1986, see section 14001(e) of Pub. L. 99–272.
-
-#### Abolition of House Committee on Merchant Marine and Fisheries
-
-Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

@@ -16,7 +16,7 @@ Before January 1, 1998, the Secretary shall monitor, on a timely basis, landings
 
 Regulations issued under subsection (a) or (b) of this section shall remain in effect until the Secretary implements regulations under section 5103(b) of this title to implement a coastal fishery management plan for American lobster.
 
-(Pub. L. 103–206, title VIII, §810, as added Pub. L. 104–297, title IV, §404(c), Oct. 11, 1996, 110 Stat. 3620; amended Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41.)
+(Pub. L. 103–206, title VIII, §810, as added Pub. L. 104–297, title IV, §404(c), Oct. 11, 1996, 110 Stat. 3620; amended Pub. L. 106–555, title I, §122(b)(3), Dec. 21, 2000, 114 Stat. 2766.)
 
 #### References in Text
 
@@ -30,9 +30,5 @@ A prior section 810 of Pub. L. 103–206, which repealed section 9 of Pub. L. 98
 
 #### Amendments
 
-1996—Subsecs. (a), (b). Pub. L. 104–208 substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
-
-#### Effective Date of 1996 Amendment
-
-Section 101(a) \[title II, §211(b)\] of div. A of Pub. L. 104–208 provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
+2000—Subsecs. (a), (b). Pub. L. 106–555 substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
 

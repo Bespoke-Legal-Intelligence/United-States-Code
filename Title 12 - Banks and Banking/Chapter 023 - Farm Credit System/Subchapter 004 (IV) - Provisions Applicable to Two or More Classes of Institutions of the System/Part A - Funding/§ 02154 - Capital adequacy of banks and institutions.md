@@ -2,7 +2,7 @@
 
 #### (a) Minimum levels of capital
 
-The Farm Credit Administration shall cause System institutions to achieve and maintain adequate capital by establishing minimum levels of capital for such System institutions and by using such other methods as the Farm Credit Administration deems appropriate. The Farm Credit Administration may establish such minimum level of capital for a System institution as the Farm Credit Administration, in its discretion, deems to be necessary or appropriate in light of the particular circumstances of the System institution.
+The Farm Credit Administration shall cause System institutions to achieve and maintain adequate capital by establishing minimum levels of capital for such System institutions and by using such other methods as the Farm CreditAdministration deems appropriate. The Farm Credit Administration may establish such minimum level of capital for a System institution as the Farm Credit Administration, in its discretion, deems to be necessary or appropriate in light of the particular circumstances of the System institution.
 
 #### (b) Failure to maintain minimum levels; directives; plans for achieving minimum levels; proposals affecting compliance
 
@@ -24,7 +24,7 @@ Each bank shall have on hand at the time of issuance of any note, bond, debentur
 
 Subsec. (c). Pub. L. 100–233, §805(q), which directed the amendment of subsec. (c) by substituting “direct or fully guaranteed” for “direct of fully guaranteed” was repealed by Pub. L. 100–399, §702(b). See Construction of 1988 Amendment note below.
 
-Pub. L. 100–233, §304, amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Eachbank shall have on hand at the time of issuance of any long-term notes, bonds, debentures, or other similar obligations and at all times thereafter maintain, free from any lien or other pledge, notes and other obligations representing loans made under the authority of this chapter, obligations of the United States or any agency thereof direct or fully guaranteed, other readily marketable securities approved by the Farm Credit Administration, or cash, in an aggregate value equal to the total amount of long-term notes, bonds, debentures, or other similar obligations outstanding for which the bank is primarily liable.”
+Pub. L. 100–233, §304, amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Each bank shall have on hand at the time of issuance of any long-term notes, bonds, debentures, or other similar obligations and at all times thereafter maintain, free from any lien or other pledge, notes and other obligations representing loans made under the authority of this chapter, obligations of the United States or any agency thereof direct or fully guaranteed, other readily marketable securities approved by the Farm Credit Administration, or cash, in an aggregate value equal to the total amount of long-term notes, bonds, debentures, or other similar obligations outstanding for which the bank is primarily liable.”
 
 1985—Pub. L. 99–205 substituted “Capital adequacy of banks and associations” for “Aggregate of obligations; collateral” in section catchline.
 
@@ -62,7 +62,7 @@ Ratio of capital to assets.—The standards established under subparagraph (A) s
 
 &emsp;“(D)
 
-Phase-in period.—The standards established under subparagraph (A) shall be phased in during the 5-year period beginning on the date of the enactment of this Act \[Jan. 6, 1988\].
+Phase-in period.—The standards established under subparagraph (A) shall be phased in during the5-year period beginning on the date of the enactment of this Act \[Jan. 6, 1988\].
 
 “(2)
 

@@ -36,6 +36,12 @@ Subsec. (f). Pub. L. 99–395, §1, struck out provision which had included a co
 
 1978—Subsecs. (e), (f). Pub. L. 95–625 added subsecs. (e) and (f).
 
+#### Fort Baker Agreements and Leases
+
+Pub. L. 106–291, title I, §115, Oct. 11, 2000, 114 Stat. 943, provided that: “Notwithstanding any provision of law, hereafter the Secretary of the Interior is authorized to negotiate and enter into agreements and leases, without regard to section 321 of chapter 314 of the Act of June 30, 1932 (40 U.S.C. 303b), with any person, firm, association, organization, corporation, or governmental entity for all or part of the property within Fort Baker administered by the Secretary as part of Golden Gate National Recreation Area. The proceeds of the agreements or leases shall be retained by the Secretary and such proceeds shall be available, without future appropriation, for the preservation, restoration, operation, maintenance and interpretation and related expenses incurred with respect to Fort Baker properties.”
+
+Similar provisions were contained in Pub. L. 106–113, div. B, §1000(a)(3) \[title I, §121\], Nov. 29, 1999, 113 Stat. 1535, 1501A–159.
+
 #### Fort Baker Golden Gate National Recreation Area; Tax and Special Assessment Exemption
 
 Pub. L. 106–113, div. B, §1000(a)(3) \[title I, §120\], Nov. 29, 1999, 113 Stat. 1535, 1501A–159, provided that: “All properties administered by the National Park Service at Fort Baker, Golden Gate National Recreation Area, and leases, concessions, permits and other agreements associated with those properties, hereafter shall be exempt from all taxes and special assessments, except sales tax, by the State of California and its political subdivisions, including the County of Marin and the City of Sausalito. Such areas of Fort Baker shall remain under exclusive Federal jurisdiction.”

@@ -14,7 +14,7 @@ For the purpose of investigations under subsection (a) of this section, the Secr
 
 #### (c) Court orders
 
-In case of contumacy or refusal to obey a subpoena issued under this section by any person,the Secretary may invoke the aid of any court of the United States within the jurisdiction of which such investigation or proceeding is carried on, or where such person resides or has his business, to require the attendance and testimony of witnesses and the production of books, papers, and documents. Such court may issue an order requiring such person to appear before the Secretary to produce records or to give testimony relating to the matter under investigation.
+In case of contumacy or refusal to obey a subpoena issued under this section by any person, the Secretary may invoke the aid of any court of the United States within the jurisdiction of which such investigation or proceeding is carried on, or where such person resides or has his business, to require the attendance and testimony of witnesses and the production of books, papers, and documents. Such court may issue an order requiring such person to appear before the Secretary to produce records or to give testimony relating to the matter under investigation.
 
 (Pub. L. 99–659, title II, §218, Nov. 14, 1986, 100 Stat. 3731.)
 

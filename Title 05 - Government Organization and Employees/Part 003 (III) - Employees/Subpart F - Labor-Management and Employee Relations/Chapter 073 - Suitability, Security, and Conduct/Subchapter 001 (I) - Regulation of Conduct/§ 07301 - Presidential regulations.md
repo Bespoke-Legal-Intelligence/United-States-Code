@@ -114,7 +114,7 @@ Pub. L. 100–71, title V, §503, July 11, 1987, 101 Stat. 468, as amended by Pu
 
 &emsp;&emsp;“(iii) the nature, frequency, and type of drug testing proposed to be instituted; and
 
-&emsp;“(C) the Director of the Office of Management and Budget has submitted in writing to the Committees on Appropriations of the House of Representatives and the Senate a detailed, agency-by-agency analysis (as of the time of certification under subparagraph (A)) of the anticipated annual costs associated with carrying out Executive Order Numbered 12564 and all other requirements under this section during the 5-year period beginning on the date of the enactment of this Act \[July 11, 1987\].
+&emsp;“(C) the Director of the Office of Management and Budget has submitted in writing to the Committeeson Appropriations of the House of Representatives and the Senate a detailed, agency-by-agency analysis (as of the time of certification under subparagraph (A)) of the anticipated annual costs associated with carrying out Executive Order Numbered 12564 and all other requirements under this section during the 5-year period beginning on the date of the enactment of this Act \[July 11, 1987\].
 
 “(2) Notwithstanding subsection (g), for purposes of this subsection, the term “agency” means—
 
@@ -180,7 +180,7 @@ Pub. L. 100–71, title V, §503, July 11, 1987, 101 Stat. 468, as amended by Pu
 
 &emsp;“(4) pursuant to the order of a court of competent jurisdiction where required by the United States Government to defend against any challenge against any adverse personnel action.
 
-“(f) Each agency covered by Executive Order Numbered 12564 \[set out as a note below\] shall submit to the Committees on Appropriations of the House of Representatives and the Senate, and other appropriate committees of the Congress, an annual report relating to drug-testing activities conducted by such agency pursuant to such executive order. Each such annual report shall be submitted at the time of the President's budget submission to the Congress under section 1105(a) of title 31, United States Code.
+“(f) \[Terminated, effective May 15, 2000, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 151 of House Document No. 103–7.\]
 
 “(g) For purposes of this section, the terms ‘agency’ and ‘Employee Assistance Program’ each has the meaning given such term under section 7(b) of Executive Order Numbered 12564 \[set out as a note below\], as in effect on September 15, 1986.”
 
@@ -424,7 +424,7 @@ Sec. 402. <i>Delegations to the Counsel to the President.</i>
 
 (a) Except as provided in section 401, the authority of the President under sections 203(d), 205(e), and 208(b) of title 18, United States Code, to grant exemptions or approvals for Presidential appointees to committees, commissions, boards, or similar groups established by the President is delegated to the Counsel to the President.
 
-(b) The authority of the President under sections 203(d), 205(e), and 208(b) of title 18, United States Code, to grant exemptions or approvals for individuals appointed pursuant to 3 U.S.C. 105 and 3 U.S.C. 107(a), is delegated to the Counsel to the President.
+(b) The authority of the President under sections 203(d), 205(e), and 208(b) of title 18, United States Code,to grant exemptions or approvals for individuals appointed pursuant to 3 U.S.C. 105 and 3 U.S.C. 107(a), is delegated to the Counsel to the President.
 
 Sec. 403. <i>Delegation Regarding Civil Service</i>. The Office of Personnel Management and the Office of Government Ethics, as appropriate, are delegated the authority vested in the President by 5 U.S.C. 7301 to establish general regulations for the implementation of this Executive order.
 
@@ -486,151 +486,9 @@ The head of each Executive department or agency, or his or her designee, shall s
 
 George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Ex. Ord. No. 12834. Ethics Commitments by Executive Branch Appointees
+#### Executive Order No. 12834
 
-Ex. Ord. No. 12834, Jan. 20, 1993, 58 F.R. 5911, provided:
-
-By the authority vested in me as President of the United States by the Constitution and laws of the United States of America, including section 301 of title 3, United States Code, and sections 3301 and 7301 of title 5, United States Code, it is hereby ordered as follows:
-
-Section 1. <i>Ethics Pledges</i>. (a) Every senior appointee in every executive agency appointed on or after January 20, 1993, shall sign, and upon signing shall be contractually committed to, the following pledge (“senior appointee pledge”) upon becoming a senior appointee:
-
-“As a condition, and in consideration, of my employment in the United States Government in a senior appointee position invested with the public trust, I commit myself to the following obligations, which I understand are binding on me and are enforceable under law:
-
-“1. I will not, within five years after the termination of my employment as a senior appointee in any executive agency in which I am appointed to serve, lobby any officer or employee of that agency.
-
-“2. In the event that I serve as a senior appointee in the Executive Office of the President (‘EOP’), I also will not, within five years after I cease to be a senior appointee in the EOP, lobby any officer or employee of any other executive agency with respect to which I had personal and substantial responsibility as a senior appointee in the EOP.
-
-“3. I will not, at any time after the termination of my employment in the United States Government, engage in any activity on behalf of any foreign government or foreign political party which, if undertaken on January 20, 1993, would require me to register under the Foreign Agents Registration Act of 1938, as amended.
-
-“4. I will not, within five years after termination of my personal and substantial participation in a trade negotiation, represent, aid or advise any foreign government, foreign political party or foreign business entity with the intent to influence a decision of any officer or employee of any executive agency, in carrying out his or her official duties.
-
-“5. I acknowledge that the Executive order entitled ‘Ethics Commitments by Executive Branch Appointees,’ issued by the President on January 20, 1993, which I have read before signing this document, defines certain of the terms applicable to the foregoing obligations and sets forth the methods for enforcing them. I expressly accept the provisions of that Executive order as a part of this agreement and as binding on me. I understand that the terms of this pledge are in addition to any statutory or other legal restrictions applicable to me by virtue of Federal Government service.”
-
-(b) Every trade negotiator who is not a senior appointee and is appointed to a position in an executive agency on or after January 20, 1993, shall (prior to personally and substantially participating in a trade negotiation) sign, and upon signing be contractually committed to, the following pledge (“trade negotiator pledge”):
-
-“As a condition, and in consideration, of my employment in the United States Government as a trade negotiator, which is a position invested with the public trust, I commit myself to the following obligations, which I understand are binding on me and are enforceable under law:
-
-“1. I will not, within five years after termination of my personal and substantial participation in a trade negotiation, represent, aid or advise any foreign government, foreign political party or foreign business entity with the intent to influence a decision of any officer or employee of any executive agency, in carrying out his or her official duties.
-
-“2. I acknowledge that the Executive order entitled ‘Ethics Commitments by Executive Branch Appointees,’ issued by the President on January 20, 1993, which I have read before signing this document, defines certain of the terms applicable to the foregoing obligations and sets forth the methods for enforcing them. I expressly accept the provisions of that Executive order as a part of this agreement and as binding on me. I understand that the terms of this pledge are in addition to any statutory or other legal restrictions applicable to me by virtue of Federal Government service.”
-
-Sec. 2. <i>Definitions</i>. As used herein and in the pledges:
-
-(a) “Senior appointee” means every full-time, non-career Presidential, Vice-presidential or agency head appointee in an executive agency whose rate of basic pay is not less than the rate for level V of the Executive Schedule (5 U.S.C. 5316) but does not include any person appointed as a member of the senior foreign service or solely as a uniformed service commissioned officer.
-
-(b) “Trade negotiator” means a full-time, non-career Presidential, Vice-presidential or agency head appointee (whether or not a senior appointee) who personally and substantially participates in a trade negotiation as an employee of an executive agency.
-
-(c) “Lobby” means to knowingly communicate to or appear before any officer or employee of any executive agency on behalf of another (except the United States) with the intent to influence official action, except that the term “lobby” does not include:
-
-(1) communicating or appearing on behalf of and as an officer or employee of a State or local government or the government of the District of Columbia, a Native American tribe or a United States territory or possession;
-
-(2) communicating or appearing with regard to a judicial proceeding, or a criminal or civil law enforcement inquiry, investigation or proceeding (but not with regard to an administrative proceeding) or with regard to an administrative proceeding to the extent that such communications or appearances are made after the commencement of and in connection with the conduct or disposition of a judicial proceeding;
-
-(3) communicating or appearing with regard to any government grant, contract or similar benefit on behalf of and as an officer or employee of:
-
-(A) an accredited, degree-granting institution of higher education, as defined in section 1201(a) of title 20, United States Code \[probably means former section 1141(a) of Title 20, Education\]; or
-
-(B) a hospital; a medical, scientific or environmental research institution; or a charitable or educational institution; provided that such entity is a not-for-profit organization exempted from Federal income taxes under sections 501(a) and 501(c)(3) of title 26, United States Code;
-
-(4) communicating or appearing on behalf of an international organization in which the United States participates, if the Secretary of State certifies in advance that such activity is in the interest of the United States;
-
-(5) communicating or appearing solely for the purpose of furnishing scientific or technological information, subject to the procedures and conditions applicable under section 207(j)(5) of title 18, United States Code; or
-
-(6) giving testimony under oath, subject to the conditions applicable under section 207(j)(6) of title 18, United States Code.
-
-(d) “On behalf of another” means on behalf of a person or entity other than the individual signing the pledge or his or her spouse, child or parent.
-
-(e) “Administrative proceeding” means any agency process for rulemaking, adjudication or licensing, as defined in and governed by the Administrative Procedure Act, as amended (5 U.S.C. 551, <i>et seq</i>.).
-
-(f) “Executive agency” and “agency” mean “Executive agency” as defined in section 105 of title 5, United States Code, except that the term includes the Executive Office of the President, the United States Postal Service and the Postal Rate Commission and excludes the General Accounting Office. As used in paragraph 1 of the senior appointee pledge, “executive agency” means the entire agency in which the senior appointee is appointed to serve, except that:
-
-(1) with respect to those senior appointees to whom such designations are applicable under section 207(h) of title 18, United States Code, the term means an agency or bureau designated by the Director of the Office of Government Ethics under section 207(h) as a separate department or agency at the time the senior appointee ceased to serve in that department or agency; and
-
-(2) a senior appointee who is detailed from one executive agency to another for more than sixty days in any calendar year shall be deemed to be an officer or employee of both agencies during the period such person is detailed.
-
-(g) “Personal and substantial responsibility” “with respect to” an executive agency, as used in paragraph 2 of the senior appointee pledge, means ongoing oversight of, or significant ongoing decision-making involvement in, the agency's budget, major programs or personnel actions, when acting both “personally” and “substantially” (as those terms are defined for purposes of sections 207(a) and (b) of title 18, United States Code).
-
-(h) “Personal and substantial participation” and “personally and substantially participates” mean acting both “personally” and “substantially” (as those terms are defined for purposes of sections 207(a) and (b) of title 18, United States Code) as an employee through decision, approval, disapproval, recommendation, the rendering of advice, investigation or other such action.
-
-(i) “Trade negotiation” means a negotiation that the President determines to undertake to enter into a trade agreement with one or more foreign governments, and does not include any action taken before that determination.
-
-(j) “Foreign Agents Registration Act of 1938, as amended” means sections 611-621 of title 22, United States Code.
-
-(k) “Foreign government” means “the government of a foreign country,” as defined in section 1(e) of the Foreign Agents Registration Act of 1938, as amended (22 U.S.C. 611(e)).
-
-(<i>l</i>) “Foreign political party” has the same meaning as that term in section 1(f) of the Foreign Agents Registration Act of 1938, as amended (22 U.S.C. 611(f)).
-
-(m) “Foreign business entity” means a partnership, association, corporation, organization or other combination of persons organized under the laws of or having its principal place of business in a foreign country.
-
-(n) Terms that are used herein and in the pledges, and also used in section 207 of title 18, United States Code, shall be given the same meaning as they have in section 207 and any implementing regulations issued or to be issued by the Office of Government Ethics, except to the extent those terms are otherwise defined in this order.
-
-Sec. 3. <i>Waiver</i>. (a) The President may grant to any person a waiver of any restrictions contained in the pledge signed by such person if, and to the extent that, the President certifies in writing that it is in the public interest to grant the waiver.
-
-(b) A waiver shall take effect when the certification is signed by the President.
-
-(c) The waiver certification shall be published in the Federal Register, identifying the name and executive agency position of the person covered by the waiver and the reasons for granting it.
-
-(d) A copy of the waiver certification shall be furnished to the person covered by the waiver and filed with the head of the agency in which that person is or was appointed to serve.
-
-Sec. 4. <i>Administration</i>. (a) The head of every executive agency shall establish for that agency such rules or procedures (conforming as nearly as practicable to the agency's general ethics rules and procedures, including those relating to designated agency ethics officers) as are necessary or appropriate:
-
-(1) to ensure that every senior appointee in the agency signs the senior appointee pledge upon assuming the appointed office or otherwise becoming a senior appointee;
-
-(2) to ensure that every trade negotiator in the agency who is not a senior appointee signs the trade negotiator pledge prior to personally and substantially participating in a trade negotiation;
-
-(3) to ensure that no senior appointee or trade negotiator in the agency personally and substantially participates in a trade negotiation prior to signing the pledge; and
-
-(4) generally to ensure compliance with this order within the agency.
-
-(b) With respect to the Executive Office of the President, the duties set forth in section 4(a), above, shall be the responsibility of the White House Counsel or such other official or officials to whom the President delegates those duties.
-
-(c) The Director of the Office of Government Ethics shall:
-
-(1) subject to the prior approval of the White House Counsel, develop a form of the pledges to be completed by senior appointees and trade negotiators and see that the pledges and a copy of this Executive order are made available for use by agencies in fulfilling their duties under section 4(a) above;
-
-(2) in consultation with the Attorney General or White House Counsel, when appropriate, assist designated agency ethics officers in providing advice to current or former senior appointees and trade negotiators regarding the application of the pledges; and
-
-(3) subject to the prior approval of the White House Counsel, adopt such rules or procedures (conforming as nearly as practicable to its generally applicable rules and procedures) as are necessary or appropriate to carry out the foregoing responsibilities.
-
-(d) In order to promote clarity and fairness in the application of paragraph 3 of the senior appointee pledge:
-
-(1) the Attorney General shall, within six months after the issuance of this order, publish in the Federal Register a “Statement of Covered Activities,” based on the statute, applicable regulations and published guidelines, and any other material reflecting the Attorney General's current interpretation of the law, describing in sufficient detail to provide adequate guidance the activities on behalf of a foreign government or foreign political party which, if undertaken as of January 20, 1993, would require a person to register as an agent for such foreign government or political party under the Foreign Agents Registration Act of 1938, as amended; and
-
-(2) the Attorney General's “Statement of Covered Activities” shall be presumed to be the definitive statement of the activities in which the senior appointee agrees not to engage under paragraph 3 of the pledge.
-
-(e) A senior appointee who has signed the senior appointee pledge is not required to sign the pledge again upon appointment to a different office, except that a person who has ceased to be a senior appointee, due to termination of employment in the executive branch or otherwise, shall sign the senior appointee pledge prior to thereafter assuming office as a senior appointee.
-
-(f) A trade negotiator who is not also a senior appointee and who has once signed the trade negotiator pledge is not required to sign the pledge again prior to personally and substantially participating in a subsequent trade negotiation, except that a person who has ceased employment in the executive branch shall, after returning to such employment, be obligated to sign a pledge as provided herein notwithstanding the signing of any previous pledge.
-
-(g) All pledges signed by senior appointees and trade negotiators, and all waiver certifications with respect thereto, shall be filed with the head of the appointee's agency for permanent retention in the appointee's official personnel folder or equivalent folder.
-
-Sec. 5. <i>Enforcement</i>. (a) The contractual, fiduciary and ethical commitments in the pledges provided for herein are enforceable by any legally available means, including any or all of the following: debarment proceedings within any affected executive agency or judicial civil proceedings for declaratory, injunctive or monetary relief.
-
-(b) Any former senior appointee or trade negotiator who is determined, after notice and hearing, by the duly designated authority within any agency, to have violated his or her pledge not to lobby any officer or employee of that agency, or not to represent, aid or advise a foreign entity specified in the pledge with the intent to influence the official decision of that agency, may be barred from lobbying any officer or employee of that agency for up to five years in addition to the five-year time period covered by the pledge.
-
-(1) The head of every executive agency shall, in consultation with the Director of the Office of Government Ethics, establish procedures to implement the foregoing subsection, which shall conform as nearly as practicable to the procedures for debarment of former employees found to have violated section 207 of title 18, United States Code (1988 ed.), set forth in section 2637.212 of title 5, Code of Federal Regulations (revised as of January 1, 1992).
-
-(2) Any person who is debarred from lobbying following an agency proceeding pursuant to the foregoing subsection may seek judicial review of the administrative determination, which shall be subject to established standards for judicial review of comparable agency actions.
-
-(c) The Attorney General is authorized:
-
-(1) upon receiving information regarding the possible breach of any commitment in a signed pledge, to request any appropriate federal investigative authority to conduct such investigations as may be appropriate; and
-
-(2) upon determining that there is a reasonable basis to believe that a breach of a commitment has occurred or will occur or continue, if not enjoined, to commence a civil action against the former employee in any United States District Court with jurisdiction to consider the matter.
-
-(d) In such civil action, the Attorney General is authorized to request any and all relief authorized by law, including but not limited to:
-
-(1) such temporary restraining orders and preliminary and permanent injunctions as may be appropriate to restrain future, recurring or continuing conduct by the former employee in breach of the commitments in the pledge he or she signed; and
-
-(2) establishment of a constructive trust for the benefit of the United States, requiring an accounting and payment to the United States Treasury of all money and other things of value received by, or payable to, the former employee arising out of any breach or attempted breach of the pledge signed by the former employee.
-
-Sec. 6. <i>General Provisions</i>. (a) No prior Executive orders are repealed by this order. To the extent that this order is inconsistent with any provision of any prior Executive order, this order shall control.
-
-(b) If any provision of this order or the application of such provision is held to be invalid, the remainder of this order and other dissimilar applications of such provision shall not be affected.
-
-(c) Except as expressly provided in section 5(b)(2) of this order, nothing in the pledges or in this order is intended to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or any person.
-
-William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Ex. Ord. No. 12834, Jan. 20, 1993, 58 F.R. 5911, which provided for ethics commitments by executive branch appointees, was revoked by Ex. Ord. No. 13184, Dec. 28, 2000, 66 F.R. 697, eff. noon Jan. 20, 2001.
 
 #### Ex. Ord. No. 13058. Protecting Federal Employees and the Public From Exposure to Tobacco Smoke in the Federal Workplace
 
@@ -640,7 +498,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Policy</i>. It is the policy of the executive branch to establish a smoke-free environment for Federal employees and members of the public visiting or using Federal facilities. The smoking of tobacco products is thus prohibited in all interior space owned, rented, or leased by the executive branch of the Federal Government, and in any outdoor areas under executive branch control in front of air intake ducts.
 
-Sec. 2. <i>Exceptions</i>. The general policy established by this order is subject to the following exceptions: (a) The order does not apply in designated smoking areas that are enclosed and exhausted directly to the outside and away from air intake ducts, and are maintained under negative pressure (with respect to surrounding spaces) sufficient to contain tobacco smoke within the designated area. Agency officials shall not require workers to enter such areas during business hours while smoking is ongoing.
+Sec. 2. <i>Exceptions</i>. The general policy established by this order is subject to the following exceptions: (a) The order does not apply in designated smoking areas that are enclosed and exhausted directly to the outside and away from air intake ducts, and are maintained under negative pressure (with respect to surroundingspaces) sufficient to contain tobacco smoke within the designated area. Agency officials shall not require workers to enter such areas during business hours while smoking is ongoing.
 
 (b) The order does not extend to any residential accommodation for persons voluntarily or involuntarily residing, on a temporary or long-term basis, in a building owned, leased, or rented by the Federal Government.
 

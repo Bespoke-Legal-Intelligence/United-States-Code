@@ -24,7 +24,7 @@ In evaluating applications submitted under section 13822(b)(2)(B) of this title,
 
 &emsp;&emsp;(B) individuals who are unemployed or underemployed;
 
-&emsp;&emsp;(C) individuals who are participating or have participated in job training programs authorized under the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\] or title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\] or the Family Support Act of 1988 (Public Law 100–485);
+&emsp;&emsp;(C) individuals who are participating or have participated in job training programs authorized under title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\] or the Family Support Act of 1988 (Public Law 100–485);
 
 &emsp;&emsp;(D) individuals whose jobs may be retained as a result of the provision of financing available under this subpart; or
 
@@ -42,13 +42,7 @@ In determining which application to approve under this subpart the Secretary sha
 
 (Pub. L. 103–322, title III, §31113, Sept. 13, 1994, 108 Stat. 1883; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(44), (f)(35)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–428, 2681–434.)
 
-#### Amendment of Subsection (a)(4)(C)
-
-<i>Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(f)(35), (g)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–434, 2681–435, provided that, effective July 1, 2000, subsection (a)(4)(C) of this section is amended by striking “the Job Training Partnership Act or”.</i>
-
 #### References in Text
-
-The Job Training Partnership Act, referred to in subsec. (a)(4)(C), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
 
 The Workforce Investment Act of 1998, referred to in subsec. (a)(4)(C), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
@@ -56,7 +50,9 @@ The Family Support Act of 1988, referred to in subsec. (a)(4)(C), is Pub. L. 100
 
 #### Amendments
 
-1998—Subsec. (a)(4)(C). Pub. L. 105–277, §101(f) \[title VIII, §405(d)(44)\], substituted “authorized under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998” for “authorized under the Job Training Partnership Act (29 U.S.C. 1501 et seq.)”.
+1998—Subsec. (a)(4)(C). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(35)\], struck out “the Job Training Partnership Act or” after “authorized under”.
+
+Pub. L. 105–277, §101(f) \[title VIII, §405(d)(44)\], substituted “authorized under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998” for “authorized under the Job Training Partnership Act (29 U.S.C. 1501 et seq.)”.
 
 #### Effective Date of 1998 Amendment
 

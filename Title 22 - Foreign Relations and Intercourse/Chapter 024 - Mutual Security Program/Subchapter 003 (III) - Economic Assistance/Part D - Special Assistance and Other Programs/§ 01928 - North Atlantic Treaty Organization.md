@@ -38,6 +38,26 @@ Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provi
 
 Annual appropriations to meet the obligations of membership in various international organizations were contained in acts listed in a note set out under section 269a of this title.
 
+#### Reports on Burdensharing of Future NATO Operations
+
+Pub. L. 106–398, §1 \[\[div. A\], title XII, §1221(b)–(d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–328, provided that:
+
+“(b)
+
+Report on Burdensharing of Future NATO Operations.—Whenever the North Atlantic Treaty Organization undertakes a military operation, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report describing—
+
+&emsp;“(1) the contributions to that operation made by each of the member nations of the North Atlantic Treaty Organization during that operation; and
+
+&emsp;“(2) the contributions that each of the member nations of the North Atlantic Treaty Organization are making or have pledged to make during any follow-on operation.
+
+“(c)
+
+Time for Submission of Report.—A report under subsection (b) shall be submitted not later than 90 days after the completion of the military operation.
+
+“(d)
+
+Applicability.—Subsection (b) shall apply only with respect to military operations begun after the date of the enactment of this Act \[Oct. 30, 2000\].”
+
 #### European Security
 
 Pub. L. 105–277, div. G, subdiv. B, title XXVII, Oct. 21, 1998, 112 Stat. 2681–839, as amended by Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §209(d)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–423, provided that:
@@ -172,7 +192,7 @@ In general.—Funds described in paragraph (2) are authorized to be made availab
 
 Funds described.—Funds described in this paragraph are funds that are available—
 
-&emsp;&emsp;“(A) during any fiscal year under the NATO Participation Act of 1994 \[Pub. L. 103–447, title II, set out as a note below\] with respect to countries eligible for assistance under that Act; or
+&emsp;&emsp;“(A) during any fiscal year under the NATO Participation Act of 1994 \[Pub. L. 103–447, title II, setout as a note below\] with respect to countries eligible for assistance under that Act; or
 
 &emsp;&emsp;“(B) during fiscal year 1998 under any Act to carry out the Warsaw Initiative.
 
@@ -250,6 +270,8 @@ ABM/TMD demarcation agreement.—The term ‘ABM/TMD demarcation agreement’ me
 
 ABM treaty.—The term ‘ABM Treaty’ means the Treaty Between the United States of America and the Union of Soviet Socialist Republics on the Limitation of Anti-Ballistic Missile Systems, signed at Moscow on May 26, 1972 (23 UST 3435), and includes the Protocols to that Treaty, signed at Moscow on July 3, 1974 (27 UST 1645).”
 
+\[Memorandum of President of the United States, Mar. 3, 2000, 66 F.R. 3851, delegated to the Secretary of Defense the duties and responsibilities of the President under section 2705(d) of div. G of Pub. L. 105–277, set out above, with such duties and responsibilities to be exercised subject to the concurrence of the Secretary of State, authorized redelegation not lower than the Under Secretary level of the delegated reporting requirements, and provided that the Department of Defense was to obtain clearance on the report from the Office of Management and Budget prior to its submission to Congress.\]
+
 #### Limitation on United States Share of Costs of NATO Expansion
 
 Pub. L. 105–261, div. A, title XII, §1221, Oct. 17, 1998, 112 Stat. 2152, provided that:
@@ -298,7 +320,7 @@ Content of Reports.—The Secretary shall include in each report under this sect
 
 &emsp;“(6) Identification within the NATO Alliance of the types of separable but not separate capabilities, assets, and support assets for Western European Union-led operations.
 
-&emsp;“(7) Identification of separable but not separate headquarters, headquarters elements, and commandpositions for command and conduct of Western European Union-led operations.
+&emsp;“(7) Identification of separable but not separate headquarters, headquarters elements, and command positions for command and conduct of Western European Union-led operations.
 
 &emsp;“(8) The conduct by NATO, at the request of and in coordination with the Western European Union, of military planning and exercises for illustrative missions.
 
@@ -410,7 +432,7 @@ Pub. L. 104–208, div. A, title I, §101(c) \[title VI\], Sept. 30, 1996, 110 S
 
 “(a)
 
-In General.—The following countries are designated as eligible to receive assistance under the program established under section 203(a) of the NATO Participation Act of 1994 \[Pub. L. 103–447, set out in a note below\] and shall be deemed to have been so designated pursuant to section 203(d)(1) of such Act: Poland, Hungary, and the Czech Republic.
+In General.—The following countries are designated as eligible to receive assistance under the program established under section 203(a) of the NATO Participation Act of 1994 \[Pub. L. 103–447, set out in a notebelow\] and shall be deemed to have been so designated pursuant to section 203(d)(1) of such Act: Poland, Hungary, and the Czech Republic.
 
 “(b)
 
@@ -444,7 +466,7 @@ Availability.—Of the funds authorized to be appropriated by subsection (a)—
 
 &emsp;“(1) not less than $20,000,000 shall be available for the cost, as defined in section 502(5) of the \[Federal\] Credit Reform Act of 1990 \[2 U.S.C. 661a(5)\], of direct loans pursuant to the authority of section 203(c)(4) of the NATO Participation Act of 1994 (relating to the ‘Foreign Military Financing Program’);
 
-&emsp;“(2) not less than $30,000,000 shall be available for assistance on a grant basis pursuant to the authorityof section 203(c)(4) of the NATO Participation Act of 1994 (relating to the ‘Foreign Military Financing Program’); and
+&emsp;“(2) not less than $30,000,000 shall be available for assistance on a grant basis pursuant to the authority of section 203(c)(4) of the NATO Participation Act of 1994 (relating to the ‘Foreign Military Financing Program’); and
 
 &emsp;“(3) not more than $10,000,000 shall be available for assistance pursuant to the authority of section 203(c)(3) of the NATO Participation Act of 1994 (relating to international military education and training).
 
@@ -500,17 +522,17 @@ Notification.—At least 15 days before terminating the eligibility of any count
 
 #### Defense Burdensharing
 
-Pub. L. 105–85, div. A, title XII, §1221, Nov. 18, 1997, 111 Stat. 1935, as amended by Pub. L. 105–261, div. A, title XII, §1233, Oct. 17, 1998, 112 Stat. 2156, provided that:
+Pub. L. 105–85, div. A, title XII, §1221, Nov. 18, 1997, 111 Stat. 1935, as amended by Pub. L. 105–261, div. A, title XII, §1233, Oct. 17, 1998, 112 Stat. 2156; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(e)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–293, provided that:
 
 “(a)
 
 Efforts To Increase Allied Burdensharing.—The President shall seek to have each nation that has cooperative military relations with the United States (including security agreements, basing arrangements, or mutual participation in multinational military organizations or operations) take one or more of the following actions:
 
-&emsp;“(1) For any nation in which United States military personnel are assigned to permanent duty ashore, increase its financial contributions to the payment of the nonpersonnel costs incurred by the United States Government for stationing United States military personnel in that nation, with a goal of achieving by September 30, 2000, 75 percent of such costs. An increase in financial contributions by any nation under this paragraph may include the elimination of taxes, fees, or other charges levied on United States military personnel, equipment, or facilities stationed in that nation.
+&emsp;“(1) For any nation in which United States military personnel are assigned to permanent duty ashore, increase its financial contributions to the payment of the nonpersonnel costs incurred by the United States Government for stationing United States military personnel in that nation, with a goal of achieving bySeptember 30, 2000, 75 percent of such costs. An increase in financial contributions by any nation under this paragraph may include the elimination of taxes, fees, or other charges levied on United States military personnel, equipment, or facilities stationed in that nation.
 
 &emsp;“(2) Increase its annual budgetary outlays for national defense as a percentage of its gross domestic product by 10 percent or at least to a level commensurate to that of the United States by September 30, 1999.
 
-&emsp;“(3) Increase its annual budgetary outlays for foreign assistance (to promote democratization, governmental accountability and transparency, economic stabilization and development, defense economic conversion, respect for the rule of law and internationally recognized human rights, and humanitarian relief efforts)) \[sic\] by 10 percent or to provide such foreign assistance at an annual rate that is not less than one percent of its gross domestic product, by September 30, 1999.
+&emsp;“(3) Increase its annual budgetary outlays for foreign assistance (to promote democratization, governmental accountability and transparency, economic stabilization and development, defense economic conversion, respect for the rule of law and internationally recognized human rights, and humanitarian relief efforts) by 10 percent or to provide such foreign assistance at an annual rate that is not less than one percent of its gross domestic product, by September 30, 1999.
 
 &emsp;“(4) Increase the military assets (including personnel, equipment, logistics, support and other resources) that it contributes or has pledged to contribute to multinational military activities worldwide by 10 percent by September 30, 1999.
 
@@ -684,7 +706,7 @@ Effect on Other Authorities.—Nothing in this Act \[title\] shall affect the el
 
 “(a)
 
-Arms Export Control Act.—The President is authorized to exercise the authority of sections 63 and 65 of the Arms Export Control Act \[22 U.S.C. 2796b, 2796d\] with respect to any country designated under section 203(d) of this title on the same basis authorized with respect to NATO countries.
+Arms Export Control Act.—The President is authorized to exercise the authority of sections 63 and65 of the Arms Export Control Act \[22 U.S.C. 2796b, 2796d\] with respect to any country designated under section 203(d) of this title on the same basis authorized with respect to NATO countries.
 
 “(b)
 
@@ -924,7 +946,7 @@ Pub. L. 98–525, title X, §1002, Oct. 19, 1984, 98 Stat. 2574, as amended by P
 
 Pub. L. 98–525, title X, §1003, Oct. 19, 1984, 98 Stat. 2576, as amended by Pub. L. 101–510, div. A, title XIII, §1312(c)(3), Nov. 5, 1990, 104 Stat. 1670; Pub. L. 104–201, div. A, title X, §1084(e), Sept. 23, 1996, 110 Stat. 2675, provided that:
 
-“(a) In recognition of the increasing military threat faced by the Western World and in view of the growth, relative to the United States, in the economic strength of Japan, Canada, and a number of Western Europeancountries which has occurred since the signing of the North Atlantic Treaty on April 4, 1949, and the Mutual Cooperation and Security Treaty between Japan and the United States on January 19, 1960, it is the sense of the Congress that—
+“(a) In recognition of the increasing military threat faced by the Western World and in view of the growth, relative to the United States, in the economic strength of Japan, Canada, and a number of Western European countries which has occurred since the signing of the North Atlantic Treaty on April 4, 1949, and the Mutual Cooperation and Security Treaty between Japan and the United States on January 19, 1960, it is the sense of the Congress that—
 
 &emsp;“(1) the burdens of mutual defense now assumed by some of the countries allied with the United States under those agreements are not commensurate with their economic resources;
 
@@ -966,7 +988,7 @@ Pub. L. 97–252, title XI, §1122, Sept. 8, 1982, 96 Stat. 755, provided that:
 
 “(a) The Congress finds that—
 
-&emsp;“(1) the United States remains firmly committed to cooperating closely with its North Atlantic Treaty Organization (hereinafter in this section referred to as ‘NATO’) allies in protecting liberty and maintaining world peace;
+&emsp;“(1) the United States remains firmly committed to cooperating closely with its North Atlantic TreatyOrganization (hereinafter in this section referred to as ‘NATO’) allies in protecting liberty and maintaining world peace;
 
 &emsp;“(2) the financial burden of providing for the defense of Western Europe and for the protection of the interests of NATO member countries in areas outside the NATO treaty area has reached such proportions that new cooperative approaches among the United States and its NATO allies are required to achieve and maintain an adequate collective defense at acceptable costs;
 

@@ -18,19 +18,19 @@ Subsection (b) is declaratory of existing law. (See <i>Panama R.R. Co. v. Johnso
 
 #### 1949 Act
 
-This section removes an ambiguity in section 1406(a) of title 28, U.S.C., by substituting “may” for “shall”, thus making it clear that the court may decline to transfer a case brought in the wrong district under circumstances where it would not be in the interest of justice to make such transfer.
+This section removes an ambiguity in section 1406(a) of title 28, U.S.C., by substituting “may” for “shall”,thus making it clear that the court may decline to transfer a case brought in the wrong district under circumstances where it would not be in the interest of justice to make such transfer.
 
 #### Amendments
 
-1996—Subsec. (c). Pub. L. 104–317 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “As used in this section, ‘district court’ includes the United States District Court for the District of the Canal Zone; and ‘district’ includes the territorial jurisdiction of that court.”
+<b>1996</b>—Subsec. (c). Pub. L. 104–317 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “As used in this section, ‘district court’ includes the United States District Court for the District of the Canal Zone; and ‘district’ includes the territorial jurisdiction of that court.”
 
-1982—Subsecs. (c), (d). Pub. L. 97–164 redesignated subsec. (d) as (c). Former subsec. (c), which provided that if a case within the exclusive jurisdiction of the Court of Claims were filed in a district court, the district court, if it were in the interest of justice, was required to transfer the case to the Court of Claims where the case would proceed as if it had been filed in the Court of Claims on the date that it was filed in the district court, was struck out.
+<b>1982</b>—Subsecs. (c), (d). Pub. L. 97–164 redesignated subsec. (d) as (c). Former subsec. (c), which provided that if a case within the exclusive jurisdiction of the Court of Claims were filed in a district court, the district court, if it were in the interest of justice, was required to transfer the case to the Court of Claims where the case would proceed as if it had been filed in the Court of Claims on the date that it was filed in the district court, was struck out.
 
-1962—Subsec. (d). Pub. L. 87–845 added subsec. (d).
+<b>1962</b>—Subsec. (d). Pub. L. 87–845 added subsec. (d).
 
-1960—Subsec. (c). Pub. L. 86–770 added subsec. (c).
+<b>1960</b>—Subsec. (c). Pub. L. 86–770 added subsec. (c).
 
-1949—Subsec. (a). Act May 24, 1949, inserted “dismiss, or if it be in the interest of justice”.
+<b>1949</b>—Subsec. (a). Act May 24, 1949, inserted “dismiss, or if it be in the interest of justice”.
 
 #### Effective Date of 1996 Amendment
 
@@ -47,10 +47,6 @@ Amendment by Pub. L. 87–845 effective Jan. 2, 1962, see section 25 of Pub. L. 
 #### Effective Date of 1960 Amendment
 
 Section 4 of Pub. L. 86–770 provided in part that: “The amendments made by sections 1 and 2 of this Act \[adding subsec. (c) of this section and section 1506 of this title\] shall apply to any case or proceeding pending on, or brought after, the date of enactment of this Act \[Sept. 13, 1960\] in the district courts or the Court of Claims.”
-
-#### Cross References
-
-Equal employment opportunity provisions, judicial district of principal office as district in which action might have been brought, see section 2000e–5 of Title 42, The Public Health and Welfare.
 
 #### Section Referred to in Other Sections
 

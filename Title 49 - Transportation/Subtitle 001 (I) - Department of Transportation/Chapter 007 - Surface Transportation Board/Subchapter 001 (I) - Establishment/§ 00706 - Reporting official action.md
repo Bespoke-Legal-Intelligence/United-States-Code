@@ -14,7 +14,7 @@ Special Rules for Matters Related to Rail Carriers.—(1) When action of the Boa
 
 &emsp;(C) the vote or position of each participating individual.
 
-(2) If an individual member of a group taking an official action referred to in paragraph (1)does not participate in it, the written statement of the action shall indicate that the member did not participate. An individual participating in taking an official action is entitled to express the views of that individual as part of the written statement of the action. In addition to any publication of the written statement, it shall be made available to the public under section 552(a) of title 5.
+(2) If an individual member of a group taking an official action referred to in paragraph (1) does not participate in it, the written statement of the action shall indicate that the member did not participate. An individual participating in taking an official action is entitled to express the views of that individual as part of the written statement of the action. In addition to any publication of the written statement, it shall be made available to the public under section 552(a) of title 5.
 
 (Added Pub. L. 104–88, title II, §201(a), Dec. 29, 1995, 109 Stat. 934.)
 

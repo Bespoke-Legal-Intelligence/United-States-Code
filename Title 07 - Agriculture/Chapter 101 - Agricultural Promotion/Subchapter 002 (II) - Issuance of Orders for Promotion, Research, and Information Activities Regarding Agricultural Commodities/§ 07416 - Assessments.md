@@ -10,7 +10,7 @@ While an order issued under this subchapter is in effect with respect to an agri
 
 #### (b) Collection
 
-Assessments required under an order shall be remitted to the board established under theorder at the time and in the manner prescribed by the order.
+Assessments required under an order shall be remitted to the board established under the order at the time and in the manner prescribed by the order.
 
 #### (c) Limitation on assessments
 

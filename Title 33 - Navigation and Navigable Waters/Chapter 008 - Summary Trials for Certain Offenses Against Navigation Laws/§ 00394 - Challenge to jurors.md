@@ -8,10 +8,6 @@ At the trial in summary cases, if by jury, the United States and the accused sha
 
 R.S. §4303 derived from act June 11, 1864, ch. 121, §7, 13 Stat. 125.
 
-#### Federal Rules of Criminal Procedure
-
-Peremptory challenges, generally, see rule 24, Title 18, Appendix, Crimes and Criminal Procedure.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in title 47 section 31.

@@ -64,13 +64,13 @@
 
 &emsp;The institution shall return, in the order specified in paragraph (3), the lesser of—
 
-&emsp;&emsp;(A) the amount of grant and loan assistance awarded under this subchapter and partC of subchapter I of chapter 34 of title 42 that has not been earned by the student, as calculated under subsection (a)(3)(C) of this section; or
+&emsp;&emsp;(A) the amount of grant and loan assistance awarded under this subchapter and part C of subchapter I of chapter 34 of title 42 that has not been earned by the student, as calculated under subsection (a)(3)(C) of this section; or
 
 &emsp;&emsp;(B) an amount equal to—
 
 &emsp;&emsp;&emsp;(i) the total institutional charges incurred by the student for the payment period or period of enrollment for which such assistance was awarded; multiplied by
 
-&emsp;&emsp;&emsp;(ii) the percentage of grant and loan assistance awarded under this subchapter and part C of subchapter I of chapter 34 of title 42 that has not been earned by the student, as described in subsection (a)(3)(C)(i) of this section.
+&emsp;&emsp;&emsp;(ii) the percentage of grant and loan assistance awarded under this subchapter and part C of subchapter I of chapter 34 oftitle 42 that has not been earned by the student, as described in subsection (a)(3)(C)(i) of this section.
 
 #### (2) Responsibility of the student
 

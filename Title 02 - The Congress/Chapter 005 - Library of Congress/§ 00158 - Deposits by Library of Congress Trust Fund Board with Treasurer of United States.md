@@ -2,11 +2,11 @@
 
 In the absence of any specification to the contrary, the board may deposit the principal sum, in cash, with the Treasurer of the United States as a permanent loan to the United States Treasury, and the Treasurer shall thereafter credit such deposit with interest at a rate which is the higher of the rate of 4 per centum per annum or a rate which is 0.25 percentage points less than a rate determined by the Secretary of the Treasury, taking into consideration the current average market yield on outstanding long-term marketable obligations of the United States, adjusted to the nearest one-eighth of 1 per centum, payable semi-annually, such interest, as income, being subject to disbursement by the Librarian of Congress for the purposes specified: <i>Provided, however</i>, That the total of such principal sums at any time so held by the Treasurer under this authorization shall not exceed the sum of $10,000,000.
 
-(Mar. 3, 1925, ch. 423, §2, formerly §1, 43 Stat. 1107; renumbered §2, Apr. 13, 1936, ch. 213, 49Stat. 1205; amended June 23, 1936, ch. 734, 49 Stat. 1894; Pub. L. 87–522, July 3, 1962, 76 Stat. 135; Pub. L. 94–289, May 22, 1976, 90 Stat. 521.)
+(Mar. 3, 1925, ch. 423, §2, formerly §1, 43 Stat. 1107; renumbered §2, Apr. 13, 1936, ch. 213, 49 Stat. 1205; amended June 23, 1936, ch. 734, 49 Stat. 1894; Pub. L. 87–522, July 3, 1962, 76 Stat. 135; Pub. L. 94–289, May 22, 1976, 90 Stat. 521.)
 
 #### Codification
 
-Section is comprised of third par. of section 2 of act Mar. 3, 1925. First, second, and fourth pars. of section 2 are classified to sections 156, 157, and 158a of this title, respectively.
+Section is comprised of third par. of section 2 of act Mar. 3, 1925. First, second, and fourth pars. of section 2are classified to sections 156, 157, and 158a of this title, respectively.
 
 #### Amendments
 
@@ -15,10 +15,6 @@ Section is comprised of third par. of section 2 of act Mar. 3, 1925. First, seco
 1962—Pub. L. 87–522 increased the total amount of deposits which can be held by the Treasurer from $5,000,000 to $10,000,000.
 
 1936—Act June 23, 1936, substituted “in the absence of any specification to the contrary” for “Should any gift or bequest so provide”.
-
-#### Cross References
-
-Library of Congress gift fund and trust fund, investment account, to be classified on books of Treasury as trust funds, see section 1321 of Title 31, Money and Finance.
 
 #### Section Referred to in Other Sections
 

@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 2151aa, 4153 of this title; title 7 section 1766c; title 26 section 912; title 31 section 325; title 42 section 242<i>l</i>; title 50 section 403e.
+This subchapter is referred to in sections 2151aa, 4153 of this title; title 7 section 1766c; title 26 section 912;title 31 section 325; title 42 section 242<i>l</i>; title 50 section 403e.
 
 
 ---

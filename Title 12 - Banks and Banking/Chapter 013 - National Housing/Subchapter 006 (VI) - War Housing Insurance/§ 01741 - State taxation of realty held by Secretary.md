@@ -10,7 +10,3 @@ Nothing in this subchapter shall be construed to exempt any real property acquir
 
 1950—Act Apr. 20, 1950, substituted “Commissioner” for “Administrator”.
 
-#### Cross References
-
-United States obligations and evidences of ownership as subject to Federal taxation, see section 3124(b) of Title 31, Money and Finance.
-

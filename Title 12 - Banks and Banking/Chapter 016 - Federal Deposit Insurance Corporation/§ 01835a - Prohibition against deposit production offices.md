@@ -6,7 +6,7 @@ The appropriate Federal banking agencies shall prescribe uniform regulations eff
 
 #### (b) Guidelines for meeting credit needs
 
-Regulations issued under subsection (a) of this section shall include guidelines to ensure that interstate branches operated by an out-of-State bank in a host State are reasonably helping tomeet the credit needs of the communities which the branches serve.
+Regulations issued under subsection (a) of this section shall include guidelines to ensure that interstate branches operated by an out-of-State bank in a host State are reasonably helping to meet the credit needs of the communities which the branches serve.
 
 #### (c) Limitation on out-of-State loans
 
@@ -28,7 +28,7 @@ Regulations issued under subsection (a) of this section shall include guidelines
 
 &emsp;&emsp;(A) whether the interstate branch or branches of the out-of-State bank were formerly part of a failed or failing depository institution;
 
-&emsp;&emsp;(B) whether the interstate branch was acquired under circumstances where there was a low loan-to-deposit ratio because of the nature of the acquired institution's business or loan portfolio;
+&emsp;&emsp;(B) whether the interstate branch was acquired under circumstances where there wasa low loan-to-deposit ratio because of the nature of the acquired institution's business or loan portfolio;
 
 &emsp;&emsp;(C) whether the interstate branch or branches of the out-of-State bank have a higher concentration of commercial or credit card lending, trust services, or other specialized activities;
 
@@ -84,7 +84,7 @@ For the purposes of this section, the following definitions shall apply:
 
 #### References in Text
 
-This title, referred to in subsecs. (a), (d), and (e)(4), is title I of Pub. L. 103–328, Sept. 29, 1994, 108 Stat. 2339,which enacted this section and sections 43, 215a–1, and 1831u of this title, amended sections 30, 36, 215, 215a, 215b, 1462a, 1820, 1828, 1831a, 1831r–1, 1841, 1842, 1846, 2906, 3103 to 3105, and 3106a of this title and section 1927 of Title 7, Agriculture, enacted provisions set out as notes under sections 215, 1811, 1828, 3104, 3105, and 3107 of this title and section 1927 of Title 7, and amended provisions set out as a note under section 1811 of this title. For complete classification of this title to the Code, see Tables.
+This title, referred to in subsecs. (a), (d), and (e)(4), is title I of Pub. L. 103–328, Sept. 29, 1994, 108 Stat. 2339, which enacted this section and sections 43, 215a–1, and 1831u of this title, amended sections 30, 36, 215, 215a, 215b, 1462a, 1820, 1828, 1831a, 1831r–1, 1841, 1842, 1846, 2906, 3103 to 3105, and 3106a of this title and section 1927 of Title 7, Agriculture, enacted provisions set out as notes under sections 215, 1811, 1828, 3104, 3105, and 3107 of this title and section 1927 of Title 7, and amended provisions set out as a note under section 1811 of this title. For complete classification of this title to the Code, see Tables.
 
 The Community Reinvestment Act of 1977, referred to in subsec. (c)(2)(D), is title VIII of Pub. L. 95–128, Oct. 12, 1977, 91 Stat. 1147, as amended, which is classified generally to chapter 30 (§2901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2901 of this title and Tables.
 

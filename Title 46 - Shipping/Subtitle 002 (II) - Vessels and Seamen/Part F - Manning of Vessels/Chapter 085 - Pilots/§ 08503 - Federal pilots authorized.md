@@ -34,3 +34,7 @@
 
 Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 1990, see section 1020 of Pub. L. 101–380, set out as an Effective Date note under section 2701 of Title 33, Navigation and Navigable Waters.
 
+#### Territorial Sea of United States
+
+For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
+

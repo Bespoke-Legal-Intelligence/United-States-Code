@@ -30,7 +30,7 @@ The time has come to recognize the readiness of local governments in the Washing
 
 Comprehensive regional planning is vital to the orderly development of our metropolitan areas. Nowhere is it more important than in the National Capital region.
 
-To be most effective, regional planning must be a responsibility of the area's State and local governmentsacting together to solve mutual problems of growth and change. It should not be a Federal function, although the Federal Government should support and advance it.
+To be most effective, regional planning must be a responsibility of the area's State and local governments acting together to solve mutual problems of growth and change. It should not be a Federal function, although the Federal Government should support and advance it.
 
 The need for cooperative planning was recognized years ago in the National Capital region. The establishment of the National Capital Regional Planning Council in 1952 to prepare a comprehensive development plan was a major step in meeting that need.
 

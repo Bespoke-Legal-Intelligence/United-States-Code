@@ -10,7 +10,7 @@ The Secretary shall require, as a condition to the approval of an application un
 
 &emsp;(3) the entity, if not a small health center, shall pay to the United States, as prescribed by the Secretary in each calendar quarter (or other period as may be specified in the agreement) during which any Corps member is assigned to such entity, the sum of—
 
-&emsp;&emsp;(A) an amount calculated by the Secretary to reflect the average salary (includingamounts paid in accordance with section 254d(d) of this title) and allowances of comparable Corps members for a calendar quarter (or other period);
+&emsp;&emsp;(A) an amount calculated by the Secretary to reflect the average salary (including amounts paid in accordance with section 254d(d) of this title) and allowances of comparable Corps members for a calendar quarter (or other period);
 
 &emsp;&emsp;(B) that portion of an amount calculated by the Secretary to reflect the average amount paid under the Scholarship Program or the Loan Repayment Program to or on behalf of comparable Corps members that bears the same ratio to the calculated amount as the number of days of service provided by the member during that quarter (or other period) bears to the number of days in his period of obligated service under the Scholarship Program or the Loan Repayment Program; and
 
@@ -22,7 +22,7 @@ The Secretary shall require, as a condition to the approval of an application un
 
 #### (b) Waiver of payment; use of funds
 
-(1) The Secretary may waive in whole or in part, on a prospective or retrospective basis, the application of the requirement of subsection (a)(3) of this section for an entity which is not a small health center if he determines that the entity is financially unable to meet such requirement or if he determines that compliance with such requirement would unreasonably limit the ability of the entity to provide for the adequate support of the provision of health services by Corps members.
+(1) The Secretary may waive in whole or in part, on a prospective or retrospective basis, theapplication of the requirement of subsection (a)(3) of this section for an entity which is not a small health center if he determines that the entity is financially unable to meet such requirement or if he determines that compliance with such requirement would unreasonably limit the ability of the entity to provide for the adequate support of the provision of health services by Corps members.
 
 (2) The Secretary may waive in whole or in part, on a prospective or retrospective basis, the application of the requirement of subsection (a)(3) of this section for any entity which is not a small health center and which is located in a health professional shortage area in which a significant percentage of the individuals are elderly, living in poverty, or have other characteristics which indicate an inability to repay, in whole or in part, the amounts required in subsection (a)(3) of this section.
 
@@ -54,7 +54,7 @@ Any person who receives health services provided by a Corps member under this su
 
 #### (e) Deposit of funds in Treasury as miscellaneous receipts; appropriations unaffected
 
-Funds received by the Secretary under an agreement entered into under this section shall be deposited in the Treasury as miscellaneousreceipts and shall be disregarded in determining the amounts of appropriations to be requested and the amounts to be made available from appropriations made under section 254k of this title to carry out sections 254d through 254h and section 254j of this title.
+Funds received by the Secretary under an agreement entered into under this section shall be deposited in the Treasury as miscellaneous receipts and shall be disregarded in determining the amounts of appropriations to be requested and the amounts to be made available from appropriations made under section 254k of this title to carry out sections 254d through 254h and section 254j of this title.
 
 #### (f) Small health centers
 
@@ -136,7 +136,7 @@ Subsec. (b)(1). Pub. L. 98–194, §3(b)(1), (2), inserted “, on a prospectiv
 
 Subsec. (b)(2). Pub. L. 98–194, §3(b)(3), (4), inserted “, on a prospective or retrospective basis,” after “in whole or in part”, and “is not a small health center and which” after “for any entity which”.
 
-Subsec. (b)(3). Pub. L. 98–194, §3(b)(5), inserted “and does not, pursuant to paragraph (5), require payment by the entity in the amount described in subsection (f)(1) of this section,” after “paragraph (1) or (2),”.
+Subsec. (b)(3). Pub. L. 98–194, §3(b)(5), inserted “and does not, pursuant to paragraph (5), require payment bythe entity in the amount described in subsection (f)(1) of this section,” after “paragraph (1) or (2),”.
 
 Subsec. (b)(5). Pub. L. 98–194, §3(b)(6), added par. (5).
 

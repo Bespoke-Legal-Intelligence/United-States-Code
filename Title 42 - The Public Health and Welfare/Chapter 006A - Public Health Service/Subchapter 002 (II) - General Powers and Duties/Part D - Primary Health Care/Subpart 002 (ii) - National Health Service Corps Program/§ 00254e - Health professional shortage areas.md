@@ -50,7 +50,7 @@ In determining whether to make a designation, the Secretary shall take into cons
 
 #### (e) Notice of proposed designation of areas and facilities; time for comment
 
-(1) Prior to the designation of a public facility, including a Federal medical facility, as a health professional shortage area, the Secretary shall give written notice of such proposed designation to the chief administrative officer of such facility and request comments within 30 days with respect to such designation.
+(1) Prior to the designation of a public facility, including a Federal medical facility, as a healthprofessional shortage area, the Secretary shall give written notice of such proposed designation to the chief administrative officer of such facility and request comments within 30 days with respect to such designation.
 
 (2) Prior to the designation of a health professional shortage area under this section, the Secretary shall, to the extent practicable, give written notice of the proposed designation of such area to appropriate public or private nonprofit entities which are located or have a demonstrated interest in such area and request comments from such entities with respect to the proposed designation of such area.
 
@@ -164,7 +164,7 @@ Section 2702(c) of Pub. L. 97–35 directed the Secretary of Health and Human Se
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 254d, 254f, 254g, 254k, 254<i>l</i>, 254<i>l</i>–1, 254m, 254n, 254p, 295p, 296j, 297q, 1395<i>l</i>, 1395x, 9840, 11709 of this title; title 5 section 8902; title 8 section 1182.
+This section is referred to in sections 254d, 254f, 254g, 254k, 254<i>l</i>, 254<i>l</i>–1, 254m, 254n, 254p, 295p, 296j, 297q, 1395<i>l</i>, 1395m, 1395x, 9840, 11709 of this title; title 5 section 8902; title 8 section 1182.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

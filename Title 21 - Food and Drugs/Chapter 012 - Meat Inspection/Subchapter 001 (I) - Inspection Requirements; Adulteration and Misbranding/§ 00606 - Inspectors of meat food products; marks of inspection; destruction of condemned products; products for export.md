@@ -50,15 +50,7 @@ Section 405 of Pub. L. 99–641 provided that: “It is the sense of Congress th
 
 #### Reports to Congress
 
-Section 406 of Pub. L. 99–641 provided that: “Not later than 1 year after the date of the enactment of this Act \[Nov. 10, 1986\], and annually thereafter, the Secretary of Agriculture shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing—
-
-&emsp;“(1) any action proposed or taken by the Secretary to implement the amendments made by section 403 \[amending this section and sections 609, 621, 671, and 676 of this title\];
-
-&emsp;“(2) any action proposed or taken by the Secretary to carry out a program to detect residues in livestock that are subject to inspection under title I of the Federal Meat Inspection Act (21 U.S.C. 601 et seq.);
-
-&emsp;“(3) any action proposed or taken by the Secretary to evaluate the feasibility of, and develop, a program that would enable the Secretary to trace any particular livestock that are subject to inspection under such title, in order to identify the producer of such livestock; and
-
-&emsp;“(4) any personnel action proposed or taken by the Secretary as a result of the amendments made by section 403 and any effort made by the Secretary to minimize any adverse economic effect of such amendments on employees of the Department of Agriculture.”
+Pub. L. 99–641, title IV, §406, Nov. 10, 1986, 100 Stat. 3571, which required the Secretary of Agriculture to submit an annual report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate describing any action proposed or taken by the Secretary to implement amendments made by section 403 of Pub. L. 99–641 (amending this section and sections 609, 621, 671, and 676 of this title), to carry out a program for detecting residues in livestock, or to develop a program for tracing particular livestock in order to identify the producer, and describing any personnel action proposed or taken by the Secretary as a result of amendments made by section 403 of Pub. L. 99–641 along with any effort made by the Secretary to minimize any adverse economic effect of the amendments on employees of the Department of Agriculture, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 46 of House Document No. 103–7.
 
 #### Congressional Reevaluation of Inspection Program
 

@@ -56,7 +56,7 @@ Existing rights, duties, and obligations not affected.—Subsection (a) shall no
 
 &emsp;“(3)
 
-Continuation of suits.—No action or other proceeding commenced by or against the Secretary inconnection with the administration of the Fund shall abate by reason of the enactment of this Act, except that the Board shall be substituted for the Secretary as a party to any such action or proceeding.
+Continuation of suits.—No action or other proceeding commenced by or against the Secretary in connection with the administration of the Fund shall abate by reason of the enactment of this Act, except that the Board shall be substituted for the Secretary as a party to any such action or proceeding.
 
 “(e)
 

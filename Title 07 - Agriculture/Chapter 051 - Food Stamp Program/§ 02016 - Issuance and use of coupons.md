@@ -216,13 +216,107 @@ Consultation with the federal reserve board.—Before promulgating regulations o
 
 &emsp;Section 2025(c) of this title shall not apply to benefits issued under this subsection.
 
-(Pub. L. 88–525, §7, Aug. 31, 1964, 78 Stat. 705; Pub. L. 91–671, §5, Jan. 11, 1971, 84 Stat. 2050; Pub. L. 93–86, §3(m), Aug. 10, 1973, 87 Stat. 248; Pub. L. 93–125, §1(k), Oct. 18, 1973, 87 Stat. 450; Pub. L. 94–339, §2, July 5, 1976, 90 Stat. 799; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 967; Pub. L. 97–98, title XIII, §1312, Dec. 22, 1981, 95 Stat. 1285; Pub. L. 97–253, title I, §§162, 190(c)(2), Sept. 8, 1982, 96 Stat. 778, 787; Pub. L. 99–198, title XV, §§1518, 1519, Dec. 23, 1985, 99 Stat. 1578; Pub. L. 100–435, title II, §203(b), Sept. 19, 1988, 102 Stat. 1657; Pub. L. 101–624, title XVII, §§1728, 1729(a), Nov. 28, 1990, 104 Stat. 3788, 3789; Pub. L. 103–225, title I, §102, Mar. 25, 1994, 108 Stat. 107; Pub. L. 104–193, title VIII, §825(a), Aug. 22, 1996, 110 Stat. 2324; Pub. L. 105–18, title VII, \[(a)\], June 12, 1997, 111 Stat. 216.)
+#### (k) Interoperability and portability of electronic benefit transfer transactions
+
+#### (1) Definitions
+
+&emsp;In this subsection:
+
+#### (A) Electronic benefit transfer card
+
+&emsp;&emsp;The term “electronic benefit transfer card” means a card that provides benefits under this chapter through an electronic benefit transfer service (as defined in subsection (i)(11)(A) of this section).
+
+#### (B) Electronic benefit transfer contract
+
+&emsp;&emsp;The term “electronic benefit transfer contract” means a contract that provides for the issuance, use, or redemption of coupons in the form of electronic benefit transfer cards.
+
+#### (C) Interoperability
+
+&emsp;&emsp;The term “interoperability” means a system that enables a coupon issued in the form of an electronic benefit transfer card to be redeemed in any State.
+
+#### (D) Interstate transaction
+
+&emsp;&emsp;The term “interstate transaction” means a transaction that is initiated in 1 State by the use of an electronic benefit transfer card that is issued in another State.
+
+#### (E) Portability
+
+&emsp;&emsp;The term “portability” means a system that enables a coupon issued in the form of an electronic benefit transfer card to be used in any State by a household to purchase food at a retail food store or wholesale food concern approved under this chapter.
+
+#### (F) Settling
+
+&emsp;&emsp;The term “settling” means movement, and reporting such movement, of funds from an electronic benefit transfer card issuer that is located in 1 State to a retail food store, or wholesale food concern, that is located in another State, to accomplish an interstate transaction.
+
+#### (G) Smart card
+
+&emsp;&emsp;The term “smart card” means an intelligent benefit card described in section 2026(f) of this title.
+
+#### (H) Switching
+
+&emsp;&emsp;The term “switching” means the routing of an interstate transaction that consists of transmitting the details of a transaction electronically recorded through the use of an electronic benefit transfer card in 1 State to the issuer of the card that is in another State.
+
+#### (2) Requirement
+
+&emsp;Not later than October 1, 2002, the Secretary shall ensure that systems that provide for the electronic issuance, use, and redemption of coupons in the form of electronic benefit transfer cards are interoperable, and food stamp benefits are portable, among all States.
+
+#### (3) Cost
+
+&emsp;The cost of achieving the interoperability and portability required under paragraph (2) shall not be imposed on any food stamp retail store, or any wholesale food concern, approved to participate in the food stamp program.
+
+#### (4) Standards
+
+&emsp;Not later than 210 days after February 11, 2000, the Secretary shall promulgate regulations that—
+
+&emsp;&emsp;(A) adopt a uniform national standard of interoperability and portability required under paragraph (2) that is based on the standard of interoperability and portability used by a majority of State agencies; and
+
+&emsp;&emsp;(B) require that any electronic benefit transfer contract that is entered into 30 days or more after the regulations are promulgated, by or on behalf of a State agency, provide for the interoperability and portability required under paragraph (2) in accordance with the national standard.
+
+#### (5) Exemptions
+
+#### (A) Contracts
+
+&emsp;&emsp;The requirements of paragraph (2) shall not apply to the transfer of benefits under an electronic benefit transfer contract before the expiration of the term of the contract if the contract—
+
+&emsp;&emsp;&emsp;(i) is entered into before the date that is 30 days after the regulations are promulgated under paragraph (4); and
+
+&emsp;&emsp;&emsp;(ii) expires after October 1, 2002.
+
+#### (B) Waiver
+
+&emsp;&emsp;At the request of a State agency, the Secretary may provide 1 waiver to temporarily exempt, for a period ending on or before the date specified under clause (iii), the State agency from complying with the requirements of paragraph (2), if the State agency—
+
+&emsp;&emsp;&emsp;(i) establishes to the satisfaction of the Secretary that the State agency faces unusual technological barriers to achieving by October 1, 2002, the interoperability and portability required under paragraph (2);
+
+&emsp;&emsp;&emsp;(ii) demonstrates that the best interest of the food stamp program would be served by granting the waiver with respect to the electronic benefit transfer system used by the State agency to administer the food stamp program; and
+
+&emsp;&emsp;&emsp;(iii) specifies a date by which the State agency will achieve the interoperability and portability required under paragraph (2).
+
+#### (C) Smart card systems
+
+&emsp;&emsp;The Secretary shall allow a State agency that is using smart cards for the delivery offood stamp program benefits to comply with the requirements of paragraph (2) at such time after October 1, 2002, as the Secretary determines that a practicable technological method is available for interoperability with electronic benefit transfer cards.
+
+#### (6) Funding
+
+#### (A) In general
+
+&emsp;&emsp;In accordance with regulations promulgated by the Secretary, the Secretary shall pay 100 percent of the costs incurred by a State agency under this chapter for switching and settling interstate transactions—
+
+&emsp;&emsp;&emsp;(i) incurred after February 11, 2000, and before October 1, 2002, if the State agency uses the standard of interoperability and portability adopted by a majority of State agencies; and
+
+&emsp;&emsp;&emsp;(ii) incurred after September 30, 2002, if the State agency uses the uniform national standard of interoperability and portability adopted under paragraph (4)(A).
+
+#### (B) Limitation
+
+&emsp;&emsp;The total amount paid to State agencies for each fiscal year under subparagraph (A) shall not exceed $500,000.
+
+(Pub. L. 88–525, §7, Aug. 31, 1964, 78 Stat. 705; Pub. L. 91–671, §5, Jan. 11, 1971, 84 Stat. 2050; Pub. L. 93–86, §3(m), Aug. 10, 1973, 87 Stat. 248; Pub. L. 93–125, §1(k), Oct. 18, 1973, 87 Stat. 450; Pub. L. 94–339, §2, July 5, 1976, 90 Stat. 799; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 967; Pub. L. 97–98, title XIII, §1312, Dec. 22, 1981, 95 Stat. 1285; Pub. L. 97–253, title I, §§162, 190(c)(2), Sept. 8, 1982, 96 Stat. 778, 787; Pub. L. 99–198, title XV, §§1518, 1519, Dec. 23, 1985, 99 Stat. 1578; Pub. L. 100–435, title II, §203(b), Sept. 19, 1988, 102 Stat. 1657; Pub. L. 101–624, title XVII, §§1728, 1729(a), Nov. 28, 1990, 104 Stat. 3788, 3789; Pub. L. 103–225, title I, §102, Mar. 25, 1994, 108 Stat. 107; Pub. L. 104–193, title VIII, §825(a), Aug. 22, 1996, 110 Stat. 2324; Pub. L. 105–18, title VII, \[(a)\], June 12, 1997, 111 Stat. 216; Pub. L. 106–171, §3, Feb. 11, 2000, 114 Stat. 3.)
 
 #### References in Text
 
 Section 2020(e)(20) of this title, referred to in subsec. (f), was redesignated section 2020(e)(19) of this title by Pub. L. 104–193, title VIII, §835(1)(D)(i), Aug. 22, 1996, 110 Stat. 2330.
 
 #### Amendments
+
+2000—Subsec. (k). Pub. L. 106–171 added subsec. (k).
 
 1997—Subsec. (a). Pub. L. 105–18, title VII, \[(a)(1)\], inserted “(except as provided in subsection (j) of this section)” after “necessary, and”.
 
@@ -274,7 +368,7 @@ Pub. L. 93–86 substituted provisions relating to determination of semiannual a
 
 1971—Subsec. (a). Pub. L. 91–671 substituted provision for issuance of coupon allotment in such amount as the Secretary determines to be the cost of a nutritionally adequate diet, adjusted annually to reflect changes in prices of food published by Bureau of Labor Statistics for prior provision for issuance in such amount as will provide households with an opportunity more nearly to obtain a low-cost nutritionally adequate diet and inserted “any” before “households”.
 
-Subsec. (b). Pub. L. 91–671 substituted provisions respecting charges to households for coupon allotments representing reasonable investment on part of the households, issuance of coupon allotments without charge where monthly income is less than $30 for a family of four, and election of coupon allotment with a lesser face value than the face value authorized to be issued for prior provision for a charge determined to be equivalent to normal expenditures for food.
+Subsec. (b). Pub. L. 91–671 substituted provisions respecting charges to households for coupon allotments representing reasonable investment on part of the households, issuance of coupon allotments withoutcharge where monthly income is less than $30 for a family of four, and election of coupon allotment with a lesser face value than the face value authorized to be issued for prior provision for a charge determined to be equivalent to normal expenditures for food.
 
 #### Effective Date of 1990 Amendment
 
@@ -297,6 +391,22 @@ Amendment by Pub. L. 97–98 effective upon such date as Secretary of Agricultur
 #### Effective Date of 1977 Amendment
 
 Section 1301 of Pub. L. 95–113 provided that the amendment made by that section is effective Oct. 1, 1977.
+
+#### Congressional Statement of Purpose
+
+Pub. L. 106–171, §2, Feb. 11, 2000, 114 Stat. 3, provided that: “The purposes of this Act \[amending this section and enacting provisions set out as notes under this section and section 2011 of this title\] are—
+
+&emsp;“(1) to protect the integrity of the food stamp program;
+
+&emsp;“(2) to ensure cost-effective portability of food stamp benefits across State borders without imposing additional administrative expenses for special equipment to address problems relating to the portability;
+
+&emsp;“(3) to enhance the flow of interstate commerce involving electronic transactions involving food stamp benefits under a uniform national standard of interoperability and portability; and
+
+&emsp;“(4) to eliminate the inefficiencies resulting from a patchwork of State-administered systems and regulations established to carry out the food stamp program.”
+
+#### Study of Alternatives for Handling Electronic Benefit Transactions Involving Food Stamp Benefits
+
+Pub. L. 106–171, §4, Feb. 11, 2000, 114 Stat. 6, provided that: “Not later than 1 year after the date of enactment of this Act \[Feb. 11, 2000\], the Secretary of Agriculture shall study and report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate on alternatives for handling interstate electronic benefit transactions involving food stamp benefits provided under the Food Stamp Act of 1977 (7 U.S.C. 2011 et seq.), including the feasibility and desirability of a single hub for switching (as defined in section 7(k)(1) of that Act \[7 U.S.C. 2016(k)(1)\] (as added by section 3)).”
 
 #### Suspension of Staggered Issuance of Food Stamp Coupons
 

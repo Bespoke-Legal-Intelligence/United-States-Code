@@ -16,7 +16,3 @@ Section was amended by act Dec. 11, 1926, ch. 5, 44 Stat. 919. The amendment add
 
 1970—Pub. L. 91–393 inserted “or his designee” after “Attorney General”.
 
-#### Cross References
-
-Condemnation awards to be paid when Attorney General advises that proceedings and decree are regular, see section 517a of this title.
-

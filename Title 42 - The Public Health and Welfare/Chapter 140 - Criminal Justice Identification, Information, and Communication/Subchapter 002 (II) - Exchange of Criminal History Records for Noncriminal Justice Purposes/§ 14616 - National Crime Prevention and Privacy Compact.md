@@ -36,7 +36,7 @@ In this Compact:
 
 &emsp;The term “criminal history records”—
 
-&emsp;&emsp;(A) means information collected by criminal justice agencies on individuals consisting of identifiable descriptions and notations of arrests, detentions, indictments, or other formal criminal charges, and any disposition arising therefrom, including acquittal, sentencing, correctional supervision, or release; and
+&emsp;&emsp;(A) means information collected by criminal justice agencies on individuals consisting of identifiable descriptions and notationsof arrests, detentions, indictments, or other formal criminal charges, and any disposition arising therefrom, including acquittal, sentencing, correctional supervision, or release; and
 
 &emsp;&emsp;(B) does not include identification information such as fingerprint records if such information does not indicate involvement of the individual with the criminal justice system.
 
@@ -98,7 +98,7 @@ In this Compact:
 
 #### (15) National Identification Index
 
-&emsp;The term “National Identification Index” means an index maintained by the FBI consisting of names, identifying numbers, and other descriptive information relating torecord subjects about whom there are criminal history records in the III System.
+&emsp;The term “National Identification Index” means an index maintained by the FBI consisting of names, identifying numbers, and other descriptive information relating to record subjects about whom there are criminal history records in the III System.
 
 #### (16) National indices
 
@@ -172,7 +172,7 @@ The Director of the FBI shall—
 
 &emsp;&emsp;(B) information from Party States that is available from the FBI through the III System, but is not available from the Party State through the III System;
 
-&emsp;(3) provide a telecommunications network and maintain centralized facilities for the exchange of criminal history records for both criminal justice purposes and the noncriminal justice purposes described in Article IV, and ensure that the exchange of such records forcriminal justice purposes has priority over exchange for noncriminal justice purposes; and
+&emsp;(3) provide a telecommunications network and maintain centralized facilities for the exchange of criminal history records for both criminal justice purposes and the noncriminal justice purposes described in Article IV, and ensure that the exchange of such records for criminal justice purposes has priority over exchange for noncriminal justice purposes; and
 
 &emsp;(4) modify or enter into user agreements with Nonparty State criminal history record repositories to require them to establish record request procedures conforming to those prescribed in Article V.
 
@@ -204,7 +204,7 @@ In carrying out their responsibilities under this Compact, the FBI and each Part
 
 #### (d) Maintenance of record services
 
-(1) Use of the III System for noncriminal justice purposes authorized in this Compact shall be managed so as not to diminish the level of services provided in support of criminal justice purposes.
+(1) Use of the III System for noncriminal justice purposes authorized in this Compact shallbe managed so as not to diminish the level of services provided in support of criminal justice purposes.
 
 (2) Administration of Compact provisions shall not reduce the level of service available to authorized noncriminal justice users on the effective date of this Compact.
 
@@ -246,7 +246,7 @@ Each request for criminal history record checks utilizing the national indices m
 
 A State criminal history record repository or the FBI—
 
-&emsp;(1) may charge a fee, in accordance with applicable law, for handling a request involvingfingerprint processing for noncriminal justice purposes; and
+&emsp;(1) may charge a fee, in accordance with applicable law, for handling a request involving fingerprint processing for noncriminal justice purposes; and
 
 &emsp;(2) may not charge a fee for providing criminal history records in response to an electronic request for a record that does not involve a request to process fingerprints.
 
@@ -404,7 +404,7 @@ The Privacy Act of 1974, referred to in Article IV(a), (b), is Pub. L. 93–579,
 
 The Federal Advisory Committee Act, referred to in Article VIII(a), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-The Departments of State, Justice, and Commerce, the Judiciary, and Related Agencies Appropriation Act,1973, referred to in Article VIII(c), is Pub. L. 92–544, Oct. 25, 1972, 86 Stat. 1109, as amended. For complete classification of this Act to the Code, see Tables.
+The Departments of State, Justice, and Commerce, the Judiciary, and Related Agencies Appropriation Act, 1973, referred to in Article VIII(c), is Pub. L. 92–544, Oct. 25, 1972, 86 Stat. 1109, as amended. For complete classification of this Act to the Code, see Tables.
 
 #### Section Referred to in Other Sections
 

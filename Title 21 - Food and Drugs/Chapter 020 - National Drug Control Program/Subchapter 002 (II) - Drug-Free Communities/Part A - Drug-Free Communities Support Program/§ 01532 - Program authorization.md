@@ -176,7 +176,7 @@ To be eligible to receive an initial grant or a renewal grant under this part, a
 
 #### (ii) Awards
 
-&emsp;&emsp;&emsp;With respect to a county referred to in subparagraph (A), the Administrator may award a grant under this section to not more than 1 eligible coalition that represents the county.
+&emsp;&emsp;&emsp;With respect to a county referred to in subparagraph (A), the Administrator may award a grant under this section to notmore than 1 eligible coalition that represents the county.
 
 (Pub. L. 100–690, title I, §1032, as added Pub. L. 105–20, §2(a)(2), June 27, 1997, 111 Stat. 227.)
 

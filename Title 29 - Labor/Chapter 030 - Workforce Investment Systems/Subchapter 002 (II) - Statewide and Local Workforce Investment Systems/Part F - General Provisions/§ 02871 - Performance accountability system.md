@@ -98,7 +98,7 @@ The purpose of this section is to establish a comprehensive performance accounta
 
 &emsp;For each local area in a State, the local performance measures shall consist of—
 
-&emsp;&emsp;(A)(i) the core indicators of performance described in subsection (b)(2)(A) of this section, and the customer satisfaction indicator of performance described in subsection (b)(2)(B) of this section, for activities described in such subsections, other than statewide workforce investment activities; and
+&emsp;&emsp;(A)(i) the core indicators of performance described in subsection (b)(2)(A) of this section, and the customer satisfaction indicator of performance described in subsection\(b)(2)(B) of this section, for activities described in such subsections, other than statewide workforce investment activities; and
 
 &emsp;&emsp;(ii) additional indicators of performance (if any) identified by the State under subsection (b)(2)(C) of this section for activities described in such subsection, other than statewide workforce investment activities; and
 
@@ -162,11 +162,11 @@ The purpose of this section is to establish a comprehensive performance accounta
 
 #### (1) In general
 
-&emsp;Using funds made available under this subchapter, the Governor, in coordination with local boards and chief elected officials in the State, shall establish and operate a fiscal and management accountability information system based on guidelines established by the Secretary after consultation with the Governors, local elected officials, and one-stop partners. Such guidelines shall promote efficient collection and use of fiscal and management information for reporting and monitoring the use of funds made available under this subchapter and for preparing the annual report described in subsection (d) of this section.
+&emsp;Using funds made available under this subchapter, the Governor, in coordination with local boards and chief elected officials in theState, shall establish and operate a fiscal and management accountability information system based on guidelines established by the Secretary after consultation with the Governors, local elected officials, and one-stop partners. Such guidelines shall promote efficient collection and use of fiscal and management information for reporting and monitoring the use of funds made available under this subchapter and for preparing the annual report described in subsection (d) of this section.
 
 #### (2) Wage records
 
-&emsp;In measuring the progress of the State on State and local performance measures, a Stateshall utilize quarterly wage records, consistent with State law. The Secretary shall make arrangements, consistent with State law, to ensure that the wage records of any State are available to any other State to the extent that such wage records are required by the State in carrying out the State plan of the State or completing the annual report described in subsection (d) of this section.
+&emsp;In measuring the progress of the State on State and local performance measures, a State shall utilize quarterly wage records, consistent with State law. The Secretary shall make arrangements, consistent with State law, to ensure that the wage records of any State are available to any other State to the extent that such wage records are required by the State in carrying out the State plan of the State or completing the annual report described in subsection (d) of this section.
 
 #### (3) Confidentiality
 

@@ -18,11 +18,23 @@ Another prior section 3711, Pub. L. 90–351, title I, §101, June 19, 1968, 82 
 
 Section 609AA of Pub. L. 98–473 provided that:
 
-“(a) Except as provided in subsection (b), this division and the amendments made by this title \[probably means division, see Short Title of 1984 Amendment note below\] shall take effect on the date of the enactment of this joint resolution \[Oct. 12, 1984\] or October 1, 1984, whichever is later.
+“(a) Except as provided in subsection (b), this division and the amendments made by this title \[probablymeans division, see Short Title of 1984 Amendment note below\] shall take effect on the date of the enactment of this joint resolution \[Oct. 12, 1984\] or October 1, 1984, whichever is later.
 
 “(b)(1) The amendment made by section 609F \[amending sections 3796 to 3796c of this title\] shall take effect on October 1, 1984, and shall not apply with respect to injuries sustained before October 1, 1984.
 
 “(2) Section 609Z \[repealing section 204 of Pub. L. 98–411, which had amended sections 3796 to 3796b of this title and enacted provisions set out as a note under section 3796 of this title\] shall take effect on October 1, 1984.”
+
+#### Short Title of 2000 Amendments
+
+Pub. L. 106–572, §1, Dec. 28, 2000, 114 Stat. 3058, provided that: “This Act \[enacting section 3713 of this title\] may be cited as the ‘Computer Crime Enforcement Act’.”
+
+Pub. L. 106–561, §1, Dec. 21, 2000, 114 Stat. 2787, provided that: “This Act \[enacting subchapter XV of this chapter, amending sections 3751, 3753, 3793, and 14601 of this title and section 983 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under section 14135 of this title and section 983 of Title 18\] may be cited as the ‘Paul Coverdell National Forensic Sciences Improvement Act of 2000’.”
+
+Pub. L. 106–517, §1, Nov. 13, 2000, 114 Stat. 2407, provided that: “This Act \[amending sections 3793 and 3796<i>ll</i> to 3796<i>ll–2</i> of this title and enacting provisions set out as notes under sections 3796<i>ll</i> and 3796<i>ll</i>–2 of this title\] may be cited as the ‘Bulletproof Vest Partnership Grant Act of 2000’.”
+
+Pub. L. 106–515, §1, Nov. 13, 2000, 114 Stat. 2399, provided that: “This Act \[enacting subchapter XII–J of this chapter, amending section 3793 of this title, and enacting provisions set out as a note under section 3796ii of this title\] may be cited as the ‘America's Law Enforcement and Mental Health Project’.”
+
+Pub. L. 106–177, title I, §101, Mar. 10, 2000, 114 Stat. 35, provided that: “This title \[amending sections 3751, 10601, and 14601 of this title and enacting provisions set out as a note under section 10601 of this title\] may be cited as the ‘Child Abuse Prevention and Enforcement Act’.”
 
 #### Short Title of 1998 Amendments
 
@@ -56,7 +68,7 @@ Section 1 of Pub. L. 96–157 provided: “That this Act \[enacting this chapter
 
 #### Short Title of 1976 Amendments
 
-Pub. L. 94–503, §1, Oct. 15, 1976, 90 Stat. 2407, provided: “That this Act \[enacting sections 3726 and 3739 of this title, amending this section, sections 3701, 3721, 3723, 3724, 3725, 3731, 3732, 3733, 3734, 3736, 3737, 3738, 3742, 3750b, 3750d, 3751, 3755, 3757, 3763, 3766, 3767, 3768, 3769, 3781, 5633, 5635, and 5671 of this title, and sections 5108, 5315, and 5316 of Title 5, Government Organization and Employees, repealing section 3760 of this title, and enactingprovisions set out as notes under sections 501, 509, and 532 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Crime Control Act of 1976’.”
+Pub. L. 94–503, §1, Oct. 15, 1976, 90 Stat. 2407, provided: “That this Act \[enacting sections 3726 and 3739 of this title, amending this section, sections 3701, 3721, 3723, 3724, 3725, 3731, 3732, 3733, 3734, 3736, 3737, 3738, 3742, 3750b, 3750d, 3751, 3755, 3757, 3763, 3766, 3767, 3768, 3769, 3781, 5633, 5635, and 5671 of this title, and sections 5108, 5315, and 5316 of Title 5, Government Organization and Employees, repealing section 3760 of this title, and enacting provisions set out as notes under sections 501, 509, and 532 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Crime Control Act of 1976’.”
 
 Pub. L. 94–430, §1, Sept. 29, 1976, 90 Stat. 1346, provided: “That this Act \[enacting sections 3796 to 3796c of this title, amending section 3768 of this title, and enacting provisions set out as notes under section 3796 of this title\] may be cited as the ‘Public Safety Officers’ Benefits Act of 1976’.”
 

@@ -86,3 +86,15 @@ In subsection (e), the words “duties and powers” are substituted for “resp
 
 Act of August 20, 1958, referred to in subsec. (b)(2), is set out as a note under former section 313 of Title 23, Highways.
 
+#### Improving Criteria Used in a Recall
+
+Pub. L. 106–414, §15, Nov. 1, 2000, 114 Stat. 1808, provided that:
+
+“(a)
+
+Review of Standards and Criteria Used in Opening a Defect or Noncompliance Investigation.—The Secretary shall, not later than 30 days after the date of the enactment of this Act \[Nov. 1, 2000\], undertake a comprehensive review of all standards, criteria, procedures, and methods, including data management and analysis used by the National Highway Traffic Safety Administration in determining whether to open a defect or noncompliance investigation pursuant to subchapter II or IV of chapter 301 of title 49, United States Code, and shall undertake such steps as may be necessary to update and improve such standards, criteria, procedures, or methods, including data management and analysis.
+
+“(b)
+
+Report to Congress.—Not later than 1 year after the date of the enactment of this Act \[Nov. 1, 2000\], the Secretary shall transmit to the Committee on Commerce \[now Committee on Energy and Commerce\] of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report describing the Secretary's findings and actions under subsection (a).”
+

@@ -25,7 +25,7 @@
 | (d) | Investment of funds. |
 | (e) | Recoveries. |
 | [3307\.](Subchapter%20001%20%28I%29%20-%20Higher%20Education%20Tribal%20Grant%20Authorization/%C2%A7%2003307%20-%20Administrative%20provisions.md) | Administrative provisions. |
-| (a) | Biennial report. |
+| (a) | Omitted. |
 | (b) | Role of Director. |
 | (c) | Application of Indian Self-Determination and Education Assistance Act. |
 | (d) | Regulations. |

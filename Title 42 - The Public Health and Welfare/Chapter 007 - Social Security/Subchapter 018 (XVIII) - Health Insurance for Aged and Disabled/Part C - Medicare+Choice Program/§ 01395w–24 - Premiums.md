@@ -50,7 +50,7 @@
 
 #### (4) Requirements for private fee-for-service plans
 
-&emsp;For a Medicare+Choice plan described in section 1395w–21(a)(2)(C) of this title for benefits described in section 1395w–22(a)(1)(A) of this title, the information described in this paragraph is as follows:
+&emsp;For a Medicare+Choice plan described in section 1395w–21(a)(2)(C) of this title for benefitsdescribed in section 1395w–22(a)(1)(A) of this title, the information described in this paragraph is as follows:
 
 #### (A) Basic (and additional) benefits
 
@@ -72,7 +72,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), the Secretary shall review the adjusted community rates, the amounts of the basic and supplemental premiums, and values filed under this subsection and shall approve or disapprove such rates, amounts, and value so submitted.
+&emsp;&emsp;Subject to subparagraph (B), the Secretary shall review the adjusted community rates, the amounts of the basic and supplemental premiums, and values filed under this subsection and shall approve or disapprove such rates, amounts, and values so submitted. The Chief Actuary of the Health Care Financing Administration shall review the actuarial assumptions and data used by the Medicare+Choice organization with respect to such rates, amounts, and values so submitted to determine the appropriateness of such assumptions and data.
 
 #### (B) Exception
 
@@ -122,7 +122,7 @@ Each Medicare+Choice organization shall permit the payment of Medicare+Choice mo
 
 &emsp;&emsp;(A) the Medicare+Choice monthly basic beneficiary premium (multiplied by 12) and the actuarial value of the deductibles, coinsurance, and copayments applicable on average to individuals enrolled under this part with a Medicare+Choice plan described in section 1395w–21(a)(2)(A) of this title of an organization with respect to required benefits described in section 1395w–22(a)(1)(A) of this title and additional benefits (if any) required under subsection (f)(1)(A) of this section for a year, exceed
 
-&emsp;&emsp;(B) the actuarial value of the deductibles, coinsurance, and copayments that would be applicable on average to individuals entitled to benefits under part A of this subchapter and enrolled under part B of this subchapter if they were not members of a Medicare+Choice organization for the year.
+&emsp;&emsp;(B) the actuarial value of the deductibles, coinsurance, and copayments that would be applicable on average to individuals entitled to benefits under part A of this subchapterand enrolled under part B of this subchapter if they were not members of a Medicare+Choice organization for the year.
 
 #### (2) For supplemental benefits
 
@@ -130,7 +130,7 @@ Each Medicare+Choice organization shall permit the payment of Medicare+Choice mo
 
 #### (3) Determination on other basis
 
-&emsp;If the Secretary determines that adequate data are not available to determine the actuarial value under paragraph (1)(A) or (2), the Secretary may determine such amount withrespect to all individuals in same geographic area, the State, or in the United States, eligible to enroll in the Medicare+Choice plan involved under this part or on the basis of other appropriate data.
+&emsp;If the Secretary determines that adequate data are not available to determine the actuarial value under paragraph (1)(A) or (2), the Secretary may determine such amount with respect to all individuals in same geographic area, the State, or in the United States, eligible to enroll in the Medicare+Choice plan involved under this part or on the basis of other appropriate data.
 
 #### (4) Special rule for private fee-for-service plans
 
@@ -164,7 +164,21 @@ Each Medicare+Choice organization shall permit the payment of Medicare+Choice mo
 
 &emsp;&emsp;This paragraph shall be applied uniformly for all enrollees for a plan.
 
-#### (E) Construction
+#### (E) Premium reductions
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Subject to clause (ii), as part of providing any additional benefits required under subparagraph (A), a Medicare+Choice organization may elect a reduction in its payments under section 1395w–23(a)(1)(A) of this title with respect to a Medicare+Choice plan and the Secretary shall apply such reduction to reduce the premium under section 1395r of this title of each enrollee in such plan as provided in section 1395s(i) of this title.
+
+#### (ii) Amount of reduction
+
+&emsp;&emsp;&emsp;The amount of the reduction under clause (i) with respect to any enrollee in a Medicare+Choice plan—
+
+&emsp;&emsp;&emsp;&emsp;(I) may not exceed 125 percent of the premium described under section 1395r(a)(3) of this title; and
+
+&emsp;&emsp;&emsp;&emsp;(II) shall apply uniformly to each enrollee of the Medicare+Choice plan to which such reduction applies.
+
+#### (F) Construction
 
 &emsp;&emsp;Nothing in this subsection shall be construed as preventing a Medicare+Choice organization from providing supplemental benefits (described in section 1395w–22(a)(3) of this title) that are in addition to the health care benefits otherwise required to be provided under this paragraph and from imposing a premium for such supplemental benefits.
 
@@ -184,7 +198,7 @@ Each Medicare+Choice organization shall permit the payment of Medicare+Choice mo
 
 #### (4) Determination based on insufficient data
 
-&emsp;For purposes of this subsection, if the Secretary finds that there is insufficient enrollment experience to determine an average of the capitation payments to be made under this part at the beginning of a contract period or to determine (in the case of a newly operatedprovider-sponsored organization or other new organization) the adjusted community rate for the organization, the Secretary may determine such an average based on the enrollment experience of other contracts entered into under this part and may determine such a rate using data in the general commercial marketplace.
+&emsp;For purposes of this subsection, if the Secretary finds that there is insufficient enrollment experience to determine an average of the capitation payments to be made under this part at the beginning of a contract period or to determine (in the case of a newly operated provider-sponsored organization or other new organization) the adjusted community rate for the organization, the Secretary may determine such an average based on the enrollment experience of other contracts entered into under this part and may determine such a rate using data in the general commercial marketplace.
 
 #### (g) Prohibition of State imposition of premium taxes
 
@@ -194,13 +208,17 @@ No State may impose a premium tax or similar tax with respect to payments to Med
 
 The Secretary shall permit a Medicare+Choice organization to elect to apply the provisions of this section uniformly to separate segments of a service area (rather than uniformly to an entire service area) as long as such segments are composed of one or more Medicare+Choice payment areas.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1854, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 308; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(k)(6)(C), title V, §§515(a), 516(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–367, 1501A–384.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1854, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 308; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(k)(6)(C), title V, §§515(a), 516(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–367, 1501A–384; Pub. L. 106–554, §1(a)(6) \[title VI, §§606(a)(1), 622(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–557, 2763A–566.)
 
 #### References in Text
 
 Parts A and B of this subchapter, referred to in subsecs. (e)(1)(B), (4)(B) and (f)(1)(B)(ii), are classified to section 1395c et seq. and section 1395j et seq., respectively, of this title.
 
 #### Amendments
+
+2000—Subsec. (a)(5)(A). Pub. L. 106–554, §1(a)(6) \[title VI, §622(a)\], substituted “values so submitted” for “value so submitted” and inserted at end “The Chief Actuary of the Health Care Financing Administration shall review the actuarial assumptions and data used by the Medicare+Choice organization with respect to such rates, amounts, and values so submitted to determine the appropriateness of such assumptions and data.”
+
+Subsec. (f)(1)(E), (F). Pub. L. 106–554, §1(a)(6) \[title VI, §606(a)(1)\], added subpar. (E) and redesignated former subpar. (E) as (F).
 
 1999—Subsec. (a)(1). Pub. L. 106–113, §1000(a)(6) \[title V, §516(a)\], substituted “July 1” for “May 1” in introductory provisions.
 
@@ -220,6 +238,12 @@ Subsec. (a)(4)(B). Pub. L. 106–113, §1000(a)(6) \[title III, §321(k)(6)(C)(i
 
 Subsec. (h). Pub. L. 106–113, §1000(a)(6) \[title V, §515(a)(2)\], added subsec. (h).
 
+#### Effective Date of 2000 Amendment
+
+Amendment by section 1(a)(6) \[title VI, §606(a)(1)\] of Pub. L. 106–554 applicable to years beginning with 2003, see section 1(a)(6) \[title VI, §606(b)\] of Pub. L. 106–554, set out as a note under section 1395r of this title.
+
+Pub. L. 106–554, §1(a)(6) \[title VI, §622(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–566, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to submissions made on or after May 1, 2001.”
+
 #### Effective Date of 1999 Amendment
 
 Amendment by section 1000(a)(6) \[title III, §321(k)(6)(C)\] of Pub. L. 106–113 effective as if included in the enactment of the Balanced Budget Act of 1997, Pub. L. 105–33, except as otherwise provided, see section 1000(a)(6) \[title III, §321(m)\] of Pub. L. 106–113, set out as a note under section 1395d of this title.
@@ -230,5 +254,5 @@ Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §516(b)\], Nov. 29, 1999, 11
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1395w–22, 1395w–23, 1395w–27, 1395w–28, 1395mm of this title.
+This section is referred to in sections 1395r, 1395s, 1395w, 1395w–22, 1395w–23, 1395w–27, 1395w–28, 1395mm of this title.
 

@@ -86,7 +86,3 @@ Subsec. (h). Pub. L. 104–106, §1061(e)(2), struck out “is entitled to not m
 
 1980—Subsec. (b). Pub. L. 96–579 required member whose term of office had expired to continue service until appointment of a successor.
 
-#### Cross References
-
-Travel and subsistence expenses, see section 5701 et seq. of Title 5, Government Organization and Employees.
-

@@ -6,7 +6,7 @@
 
 (c) The Secretary of the Navy may prescribe regulations stating the conditions under which the ration shall be allowed under subsection (b).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 379; Pub. L. 87–649, §5(c), Sept. 7, 1962, 76 Stat. 494; Pub. L.105–85, div. A, title VI, §602(b)(2), Nov. 18, 1997, 111 Stat. 1772.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 379; Pub. L. 87–649, §5(c), Sept. 7, 1962, 76 Stat. 494; Pub. L. 105–85, div. A, title VI, §602(b)(2), Nov. 18, 1997, 111 Stat. 1772.)
 
 Historical and Revision Notes
 
@@ -51,8 +51,4 @@ Amendment by Pub. L. 105–85 effective Jan. 1, 1998, see section 602(g) of Pub.
 #### Effective Date of 1962 Amendment
 
 Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 87–649, set out as an Effective Date note preceding section 101 of Title 37, Pay and Allowances of the Uniformed Services.
-
-#### Cross References
-
-Commuted value of ration, see section 422 of Title 37, Pay and Allowances of the Uniformed Services.
 

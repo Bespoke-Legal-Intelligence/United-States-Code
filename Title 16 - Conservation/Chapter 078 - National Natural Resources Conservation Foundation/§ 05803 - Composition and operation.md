@@ -18,7 +18,7 @@ The Foundation shall be administered by a Board of Trustees that shall consist o
 
 #### (b) Nongovernmental employees
 
-Service as a member of the Board shall not constitute employment by, or the holding of, an office of the United States for the purposes of any Federal law.
+Service as a member of the Board shall not constitute employment by, or the holding of, anoffice of the United States for the purposes of any Federal law.
 
 #### (c) Membership
 

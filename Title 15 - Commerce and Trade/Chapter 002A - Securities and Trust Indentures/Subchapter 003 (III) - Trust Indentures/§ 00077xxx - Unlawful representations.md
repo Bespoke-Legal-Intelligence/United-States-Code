@@ -16,21 +16,3 @@ Amendment by act Aug. 10, 1954, effective 60 days after Aug. 10, 1954, see note 
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
-#### Cross References
-
-Representation of guaranty or recommendation by United States of registered holding company's security, see section 79z–2 of this title.
-
-Representations by Corporation of Foreign Security Holders as acting for Department of State or United States forbidden, see section 77kk of this title.
-
-Rules and regulations, authority of Commission to make, issue, amend, and rescind, see section 77sss of this title.
-
-Unlawful representations under—
-
-&emsp;&emsp;Investment Advisers Act of 1940, see section 80b–8 of this title.
-
-&emsp;&emsp;Investment Company Act of 1940, see section 80a–34 of this title.
-
-&emsp;&emsp;Securities Act of 1933, see section 77w of this title.
-
-&emsp;&emsp;Securities Exchange Act of 1934, see section 78z of this title.
-

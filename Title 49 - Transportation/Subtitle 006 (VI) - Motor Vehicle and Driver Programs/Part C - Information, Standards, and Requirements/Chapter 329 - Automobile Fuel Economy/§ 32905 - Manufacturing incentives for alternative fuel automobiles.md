@@ -2,7 +2,7 @@
 
 (a)
 
-Dedicated Automobiles.—Except as provided in subsection (c) of this section or section32904(a)(2) of this title, for any model of dedicated automobile manufactured by a manufacturer after model year 1992, the fuel economy measured for that model shall be based on the fuel content of the alternative fuel used to operate the automobile. A gallon of a liquid alternative fuel used to operate a dedicated automobile is deemed to contain .15 gallon of fuel.
+Dedicated Automobiles.—Except as provided in subsection (c) of this section or section 32904(a)(2) of this title, for any model of dedicated automobile manufactured by a manufacturer after model year 1992, the fuel economy measured for that model shall be based on the fuel content of the alternative fuel used to operate the automobile. A gallon of a liquid alternative fuel used to operate a dedicated automobile is deemed to contain .15 gallon of fuel.
 
 (b)
 
@@ -103,6 +103,10 @@ In subsection (e), the words “subject to the provisions of this section” are
 #### Amendments
 
 1996—Subsec. (g). Pub. L. 104–287 substituted “Committee on Commerce” for “Committee on Energy and Commerce”.
+
+#### Change of Name
+
+Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Section Referred to in Other Sections
 

@@ -12,6 +12,10 @@ This Act, referred to in text, is act June 30, 1949, ch. 288, 63 Stat. 377, as a
 
 Section was formerly classified to section 240 of Title 41, Public Contracts.
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in this section relating to the requirement that the Administrator submit a report to Congress in January of each year, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 174 of House Document No. 103–7.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 484 of this title.

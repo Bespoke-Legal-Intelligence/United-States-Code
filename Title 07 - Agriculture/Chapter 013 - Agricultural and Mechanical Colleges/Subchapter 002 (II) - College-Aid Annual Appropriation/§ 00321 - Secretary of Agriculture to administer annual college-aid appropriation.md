@@ -26,9 +26,3 @@ Prior to July 1, 1939, functions of Secretary of the Interior under this subchap
 
 Moneys received from the sale and disposal of public lands in certain States and Territories were appropriated to a “reclamation fund”, for the reclamation of arid and semi-arid lands, by the Reclamation Act of June 17, 1902, ch. 1093, §1, 32 Stat. 388, and, by a proviso annexed to that section, in case the receipts from the sale and disposal of other public lands are insufficient to meet the requirements for the support of agricultural colleges under this act, the sum necessary is to be provided from any moneys in the Treasury not otherwise appropriated. See section 391 et seq. of Title 43, Public Lands.
 
-#### Cross References
-
-Additional aid for agricultural college extension work, see sections 341 to 343, 344 to 346, and 347a to 349 of this title.
-
-College land-aid appropriation, see sections 301 to 305, 307, and 308 of this title.
-

@@ -90,11 +90,11 @@ In the performance of its functions the Commission is authorized to—
 
 &emsp;&emsp;(9) Telephone service.
 
-&emsp;Proceeds of sales under this subsection shall be credited to the appropriation currently available for the supply of that utility or service. To meet local needs the Commission may make minor expansions and extensions of any distributing system or facility within or in the immediate vicinity of a Commission-owned community through which a utility or service is furnished under this subsection.
+&emsp;Proceeds of sales under this subsection shall be credited to the appropriation currently available for the supply of that utility or service. To meet local needs the Commission maymake minor expansions and extensions of any distributing system or facility within or in the immediate vicinity of a Commission-owned community through which a utility or service is furnished under this subsection.
 
 #### (s) Succession of authority
 
-&emsp;establish a plan for a succession of authority which will assure the continuity of direction of the Commission's operations in the event of a national disaster due to enemy activity. Notwithstanding any other provision of this chapter, the person or persons succeeding tocommand in the event of disaster in accordance with the plan established pursuant to this subsection shall be vested with all of the authority of the Commission: <i>Provided</i>, That any such succession to authority, and vesting of authority shall be effective only in the event and as long as a quorum of three or more members of the Commission is unable to convene and exercise direction during the disaster period: <i>Provided further</i>, That the disaster period includes the period when attack on the United States is imminent and the post-attack period necessary to reestablish normal lines of command;
+&emsp;establish a plan for a succession of authority which will assure the continuity of direction of the Commission's operations in the event of a national disaster due to enemy activity. Notwithstanding any other provision of this chapter, the person or persons succeeding to command in the event of disaster in accordance with the plan established pursuant to this subsection shall be vested with all of the authority of the Commission: <i>Provided</i>, That any such succession to authority, and vesting of authority shall be effective only in the event and as long as a quorum of three or more members of the Commission is unable to convene and exercise direction during the disaster period: <i>Provided further</i>, That the disaster period includes the period when attack on the United States is imminent and the post-attack period necessary to reestablish normal lines of command;
 
 #### (t) Contracts
 
@@ -122,7 +122,7 @@ In the performance of its functions the Commission is authorized to—
 
 &emsp;Establish by rule, regulation, or order, after public notice, and in accordance with the requirements of section 2231 of this title, such standards and instructions as the Commission may deem necessary or desirable to ensure—
 
-&emsp;&emsp;(1) that an adequate bond, surety, or other financial arrangement (as determined by the Commission) will be provided, before termination of any license for byproduct material as defined in section 2014(e)(2) of this title, by a licensee to permit the completion of all requirements established by the Commission for the decontamination, decommissioning,and reclamation of sites, structures, and equipment used in conjunction with byproduct material as so defined, and
+&emsp;&emsp;(1) that an adequate bond, surety, or other financial arrangement (as determined by the Commission) will be provided, before termination of any license for byproduct material as defined in section 2014(e)(2) of this title, by a licensee to permit the completion of all requirements established by the Commission for the decontamination, decommissioning, and reclamation of sites, structures, and equipment used in conjunction with byproduct material as so defined, and
 
 &emsp;&emsp;(2) that—
 
@@ -160,7 +160,7 @@ Provisions similar to this section were contained in section 1812(a) of this tit
 
 Subsec. (w). Pub. L. 102–486, §902(a)(5), inserted “or which operates any facility regulated or certified under section 2297f or 2297f–1 of this title,” after “2134(b) of this title,” and “or certificates” after “holders of, such licenses”.
 
-1990—Subsec. (b). Pub. L. 101–575, which directed amendment of subsec. (b) by striking the period at the end and inserting “; in addition, the Commission shall prescribe such regulations or orders as may be necessary or desirable to promote the Nation's common defense and security with regard to control, ownership, or possession of any equipment or device, or important component part especially designed for such equipment or device, capable of separating the isotopes of uranium or enriching uranium in the isotope 235;”, was executed by striking the semicolon at end of subsec. (b) and making insertion to reflect probable intent of Congress.
+1990—Subsec. (b). Pub. L. 101–575, which directed amendment of subsec. (b) by striking the period at the end and inserting “; in addition, the Commission shall prescribe such regulations or orders as may be necessary or desirable to promote the Nation's common defense and security with regard to control, ownership, or possession of any equipment or device, or important component part especially designed for such equipmentor device, capable of separating the isotopes of uranium or enriching uranium in the isotope 235;”, was executed by striking the semicolon at end of subsec. (b) and making insertion to reflect probable intent of Congress.
 
 1988—Subsec. (v). Pub. L. 100–449 inserted in closing provisions “For purposes of this subsection and of section 305 of Public Law 99–591 (100 Stat. 3341–209, 210), ‘foreign origin’ excludes source or special nuclear material originating in Canada.”
 
@@ -232,7 +232,7 @@ For effective date of amendment by Pub. L. 85–507, see section 21(a) of Pub. L
 
 Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See, also, notes set out under those sections.
 
-Functions of Atomic Energy Commission administered through its Division of Radiation Protection Standards, to extent that such functions of Commission consisted of establishing generally applicable environmental standards for the protection of the general environment from radioactive material, transferred to Administrator of Environmental Protection Agency by Reorg. Plan No. 3 of 1970, §2(a)(6), eff. Dec. 2, 1970, 35 F.R. 15623, 84 Stat. 2086, set out in the Appendix to Title 5, Government Organization and Employees.
+Functions of Atomic Energy Commission administered through its Division of Radiation Protection Standards, to extent that such functions of Commission consisted of establishing generally applicable environmental standards for the protection of the general environment from radioactive material, transferred to Administrator of Environmental Protection Agency by Reorg. Plan No. 3 of 1970, §2(a)(6), eff. Dec. 2, 1970, 35F.R. 15623, 84 Stat. 2086, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### References to United States Enrichment Corporation
 
@@ -265,14 +265,6 @@ Act May 6, 1955, ch. 34, 69 Stat. 47, as amended by Pub. L. 85–107, July 17, 1
 #### Report With Respect to Renegotiations, Reappraisals, and Sales Proceedings
 
 Section 203 of Pub. L. 85–162 directed Atomic Energy Commission, Federal Housing Administration, and Housing and Home Finance Agency to report to Joint Committee by Jan. 31, 1958, with respect to renegotiations, reappraisals, and sales proceedings authorized under sections 201 and 202 of Pub. L. 85–162 \[amending subsec. (e) of this section and enacting section 2325(c) of this title\].
-
-#### Cross References
-
-Agreements with States for discontinuance of Commission regulation of certain materials under this section, see section 2021 of this title.
-
-Immunity of witnesses, see section 6001 et seq. of Title 18, Crimes and Criminal Procedure.
-
-Per diem and mileage of witnesses generally, see section 1821 of Title 28, Judiciary and Judicial Procedure.
 
 #### Section Referred to in Other Sections
 

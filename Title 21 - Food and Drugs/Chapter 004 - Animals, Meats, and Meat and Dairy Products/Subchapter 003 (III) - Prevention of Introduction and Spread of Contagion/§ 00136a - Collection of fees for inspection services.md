@@ -152,7 +152,7 @@ Section 101 of Public Law 92–73, referred to in subsec. (f)(1)(L), is listed i
 
 #### Codification
 
-Section is comprised of section 2509 of Pub. L. 101–624. Subsecs. (b) and (c)(2) of section 2509 of Pub. L. 101–624 amended section 147a(f) of Title 7, Agriculture, and section 114a of this title, respectively.
+Section is comprised of section 2509 of Pub. L. 101–624. Subsecs. (b) and (c)(2) of section 2509 of Pub. L. 101–624 amended section 7759(f) of Title 7, Agriculture, and section 114a of this title, respectively.
 
 #### Amendments
 

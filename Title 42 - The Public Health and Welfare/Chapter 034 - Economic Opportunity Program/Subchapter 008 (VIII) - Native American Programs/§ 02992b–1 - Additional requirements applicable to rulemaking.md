@@ -18,7 +18,7 @@ Notwithstanding subsection (a) of section 553 of title 5, and except as otherwis
 
 &emsp;(B) applicable exclusively to any program, project, or activity authorized by, or carried out under, this subchapter.
 
-(3) The first 2 sentences of section 553(b) of title 5 shall apply with respect to any rule\(other than an interpretative rule, a general statement of policy, or a rule of agency organization, procedure, or practice) that is—
+(3) The first 2 sentences of section 553(b) of title 5 shall apply with respect to any rule (other than an interpretative rule, a general statement of policy, or a rule of agency organization, procedure, or practice) that is—
 
 &emsp;(A) proposed under this subchapter; or
 

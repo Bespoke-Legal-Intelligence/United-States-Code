@@ -40,16 +40,6 @@ Pub. L. 87–651, title I, §113(b), Sept. 7, 1962, 76 Stat. 513, added items 27
 
 1959—Pub. L. 86–223, §1(2), Sept. 1, 1959, 73 Stat. 454, substituted “armed forces” for “Department of Army, Navy, or Air Force” in item 2734.
 
-#### Cross References
-
-Claims—
-
-&emsp;&emsp;Air Force, see section 9801 et seq. of this title.
-
-&emsp;&emsp;Army, see section 4801 et seq. of this title.
-
-&emsp;&emsp;Navy, see section 7621 et seq. of this title.
-
 #### Chapter Referred to in Other Sections
 
 This chapter is referred to in title 42 section 213a.

@@ -2,7 +2,7 @@
 
 (a) Subject to section 120 and subsection (b) of this section, the entire cost of construction of projects for the elimination of hazards of railway-highway crossings, including the separation or protection of grades at crossings, the reconstruction of existing railroad grade crossing structures, and the relocation of highways to eliminate grade crossings, may be paid from sums apportioned in accordance with section 104 of this title. In any case when the elimination of the hazards of a railway-highway crossing can be effected by the relocation of a portion of a railway at a cost estimated by the Secretary to be less than the cost of such elimination by one of the methods mentioned in the first sentence of this section, then the entire cost of such relocation project, subject to section 120 and subsection (b) of this section, may be paid from sums apportioned in accordance with section 104 of this title.
 
-(b) The Secretary may classify the various types of projects involved in the elimination of hazards of railway-highway crossings, and may set for each such classification a percentage ofthe costs of construction which shall be deemed to represent the net benefit to the railroad or railroads for the purpose of determining the railroad's share of the cost of construction. The percentage so determined shall in no case exceed 10 per centum. The Secretary shall determine the appropriate classification of each project.
+(b) The Secretary may classify the various types of projects involved in the elimination of hazards of railway-highway crossings, and may set for each such classification a percentage of the costs of construction which shall be deemed to represent the net benefit to the railroad or railroads for the purpose of determining the railroad's share of the cost of construction. The percentage so determined shall in no case exceed 10 per centum. The Secretary shall determine the appropriate classification of each project.
 
 (c) Any railroad involved in a project for the elimination of hazards of railway-highway crossings paid for in whole or in part from sums made available for expenditure under this title, or prior Acts, shall be liable to the United States for the net benefit to the railroad determined under the classification of such project made pursuant to subsection (b) of this section. Such liability to the United States may be discharged by direct payment to the State transportation department of the State in which the project is located, in which case such payment shall be credited to the cost of the project. Such payment may consist in whole or in part of materials and labor furnished by the railroad in connection with the construction of such project. If any such railroad fails to discharge such liability within a six-month period after completion of the project, it shall be liable to the United States for its share of the cost, and the Secretary shall request the Attorney General to institute proceedings against such railroad for the recovery of the amount for which it is liable under this subsection. The Attorney General is authorized to bring such proceedings on behalf of the United States, in the appropriate district court of the United States, and the United States shall be entitled in such proceedings to recover such sums as it is considered and adjudged by the court that such railroad is liable for in the premises. Any amounts recovered by the United States under this subsection shall be credited to miscellaneous receipts.
 
@@ -24,7 +24,7 @@ Annual Report.—Each State shall report to the Secretary not later than Decembe
 
 (h)
 
-Use of Funds for Matching.—Funds authorized to be appropriated to carry out this section may be used to provide a local government with funds to be used on a matching basis when State funds are available which may only be spent when the local government produces matching funds for the improvement of railway-highway crossings.
+Use of Funds for Matching.—Funds authorized to be appropriated to carry out this section may be used to provide a local government with funds to be used on a matching basis whenState funds are available which may only be spent when the local government produces matching funds for the improvement of railway-highway crossings.
 
 (i)
 
@@ -48,7 +48,7 @@ Amount of state payment.—The amount of the incentive payment payable to a loca
 
 &emsp;(4)
 
-Use of state payments.—A local government receiving an incentive payment from aState under paragraph (1) shall use the amount of the incentive payment for transportation safety improvements.
+Use of state payments.—A local government receiving an incentive payment from a State under paragraph (1) shall use the amount of the incentive payment for transportation safety improvements.
 
 (j)
 
@@ -73,6 +73,10 @@ Subsec. (j). Pub. L. 105–178, §1202(d), added subsec. (j).
 1995—Subsec. (g). Pub. L. 104–59 substituted “Committee on Transportation and Infrastructure” for “Committee on Public Works and Transportation” in third sentence.
 
 1987—Subsecs. (d) to (h). Pub. L. 100–17 added subsecs. (d) to (h).
+
+#### Federal Share of Costs for Construction To Eliminate Hazards
+
+Pub. L. 106–246, div. B, title II, §2604, July 13, 2000, 114 Stat. 559, provided that: “Notwithstanding any other provision of law, hereafter, funds apportioned under section 104(b)(3) of title 23 which are applied to projects involving the elimination of hazards of railway-highway crossings, including the separation or protection of grades at crossings, the reconstruction of existing railroad grade crossing structures, and the relocation of highways to eliminate grade crossings, may have a Federal share up to 100 percent of the cost of construction.”
 
 #### Federal-State Cooperation
 
@@ -144,7 +148,7 @@ Pub. L. 95–599, title I, §162, Nov. 6, 1978, 92 Stat. 2720, authorized Secret
 
 #### Demonstration Project, Railroad-Highway Crossings; Reports to President and Congress; Appropriations Authorization; Highway Safety Study, Report to Congress
 
-Pub. L. 93–87, title I, §163, Aug. 13, 1973, 87 Stat. 280, as amended by Pub. L. 93–643, §104, Jan. 4, 1975, 88 Stat. 2282; Pub. L. 94–280, title I, §140(a)–(e), May 5, 1976, 90Stat. 444; Pub. L. 95–599, title I, §134(a)–(c), Nov. 6, 1978, 92 Stat. 2709; Pub. L. 96–470, title II, §209(b), Oct. 19, 1980, 94 Stat. 2245; Pub. L. 97–424, title I, §151, Jan. 6, 1983, 96 Stat. 2132; Pub. L. 100–17, title I, §§133(c)(3), 148, Apr. 2, 1987, 101 Stat. 172, 181; Pub. L. 100–202, §101(<i>l</i>) \[title III, §346\], Dec. 22, 1987, 101 Stat. 1329–358, 1329–388; Pub. L. 102–240, title I, §1037, Dec. 18, 1991, 105 Stat. 1987; Pub. L. 104–66, title I, §1121(e), Dec. 21, 1995, 109 Stat. 724, provided that:
+Pub. L. 93–87, title I, §163, Aug. 13, 1973, 87 Stat. 280, as amended by Pub. L. 93–643, §104, Jan. 4, 1975, 88 Stat. 2282; Pub. L. 94–280, title I, §140(a)–(e), May 5, 1976, 90 Stat. 444; Pub. L. 95–599, title I, §134(a)–(c), Nov. 6, 1978, 92 Stat. 2709; Pub. L. 96–470, title II, §209(b), Oct. 19, 1980, 94 Stat. 2245; Pub. L. 97–424, title I, §151, Jan. 6, 1983, 96 Stat. 2132; Pub. L. 100–17, title I, §§133(c)(3), 148, Apr. 2, 1987, 101 Stat. 172, 181; Pub. L. 100–202, §101(<i>l</i>) \[title III, §346\], Dec. 22, 1987, 101 Stat. 1329–358, 1329–388; Pub. L. 102–240, title I, §1037, Dec. 18, 1991, 105 Stat. 1987; Pub. L. 104–66, title I, §1121(e), Dec. 21, 1995, 109 Stat. 724, provided that:
 
 “(a)(1) The Secretary of Transportation shall enter into such arrangements as may be necessary to carry out demonstration projects in Lincoln, Nebraska, Wheeling, West Virginia, and Elko, Nevada, for the relocation of railroad lines from the central area of the cities in conformance with the methodology developed under proposals submitted to the Secretary by the respective cities. The cities shall (1) have a local agency with legal authority to relocate railroad facilities, levy taxes for such purpose, and a record of prior accomplishment; and (2) have a current relocation plan for such lines which has a favorable benefit-cost ratio involving and having the unanimous approval of three or more class 1 railroads in Lincoln, Nebraska, and the two class 1 railroads in Wheeling, West Virginia, and Elko, Nevada, and multicivic, local, and State agencies, and which provides for the elimination of a substantial number of the existing railway-road conflict points within the city.
 
@@ -172,7 +176,7 @@ Pub. L. 93–87, title I, §163, Aug. 13, 1973, 87 Stat. 280, as amended by Pub.
 
 “(<i>l</i>) The Secretary of Transportation shall carry out a demonstration project in Sherman, Texas, for the relocation of rail lines in order to eliminate the ground level railroad crossing at the crossing of the Southern Pacific and Frisco Railroads with Grand Avenue-Roberts Road.
 
-“(m) The Secretary of Transportation shall enter into such arrangements as may be necessary to carry out a demonstration project in Hammond, Indiana, for the relocation of railroad lines for the purposes of eliminating highway railroad grade crossings.
+“(m) The Secretary of Transportation shall enter into such arrangements as may be necessary to carry out a demonstration project in Hammond, Indiana, forthe relocation of railroad lines for the purposes of eliminating highway railroad grade crossings.
 
 “(n) The Federal share payable on account of such projects shall be the Federal share provided in section 120(a) of title 23, United States Code. \[sic\] except those railroad-highway crossings segments which are already engaged in or have completed the preparation of the plans, specifications and estimates (PS\&E) for the construction of the segment involved shall retain the Federal share as specified in subsection \[sic\] 163(n) \[this subsection\] as amended by section 134 of the Surface Transportation Assistance Act of 1978 \[section 134 of Pub. L. 95–599\].
 
@@ -180,7 +184,7 @@ Pub. L. 93–87, title I, §163, Aug. 13, 1973, 87 Stat. 280, as amended by Pub.
 
 “(p) There is authorized to be appropriated to carry out this section (other than subsection (<i>l</i>)), not to exceed $15,000,000 for the fiscal year ending June 30, 1974, $25,000,000 for the fiscal year ending June 30, 1975, and $50,000,000 for the fiscal year ending June 30, 1976, $6,250,000, for the period beginning July 1, 1976, and ending September 30, 1976, $26,400,000 for the fiscal year ending September 30, 1977, and $51,400,000 for the fiscal year ending September 30, 1978, $70,000,000 for the fiscal year ending September 30, 1979, and $90,000,000 for the fiscal year ending September 30, 1980, $100,000,000 for the fiscal year ending September 30, 1981, and $100,000,000 for the fiscal year ending September 30, 1982, and $50,000,000 for the fiscal year ending September 30, 1983, and $50,000,000 for the fiscal year ending September 30, 1984, and $50,000,000 for the fiscal year ending September 30, 1985, and $50,000,000 for the fiscal year ending September 30, 1986, and $15,000,000 per fiscal year for each of fiscal years 1987, 1988, 1989, 1990, 1991, 1992, 1993, and 1994, except that not more than two-thirds of all funds authorized and expended under authority of this section in any fiscal year shall be appropriated out of the Highway Trust fund. Notwithstanding any other provision of this section, any project which is not under construction, according to the Secretary of Transportation, by September 30, 1985, shall not be eligible for additional funds under this authorization.
 
-“(q) The Secretary, in cooperation with State highway departments and local officials, shall conduct a full and complete investigation and study of the problem of providing increased highway safety by the relocation of railroad lines from the central area of cities on a nationwide basis, and report to the Congress his recommendations resulting from such investigation and study not later than July 1, 1975, including an estimate of the cost of such a program. Funds authorized to carry out section 307 of title 23, United States Code,are authorized to be used to carry out the investigation and study required by this subsection.”
+“(q) The Secretary, in cooperation with State highway departments and local officials, shall conduct a full and complete investigation and study of the problem of providing increased highway safety by the relocation of railroad lines from the central area of cities on a nationwide basis, and report to the Congress his recommendations resulting from such investigation and study not later than July 1, 1975, including an estimate of the cost of such a program. Funds authorized to carry out section 307 of title 23, United States Code, are authorized to be used to carry out the investigation and study required by this subsection.”
 
 #### Demonstration Project, Railroad-Highway Crossings; Inclusion of Projects at Terre Haute, Indiana
 

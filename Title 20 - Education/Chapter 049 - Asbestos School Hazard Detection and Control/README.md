@@ -42,10 +42,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Cross References
-
-Abatement of asbestos hazards in schools, see section 4011 et seq. of this title.
-
 #### Chapter Referred to in Other Sections
 
 This chapter is referred to in section 3489 of this title.

@@ -8,7 +8,7 @@ There is established in the Treasury of the United States a trust fund to be kno
 
 #### (1) In general
 
-&emsp;There are hereby appropriated to the Trust Fund amounts determined by the Secretary ofthe Treasury to be equivalent to the amounts of the taxes received in the Treasury under section 4495 <sup>1</sup> of title 26.
+&emsp;There are hereby appropriated to the Trust Fund amounts determined by the Secretary of the Treasury to be equivalent to the amounts of the taxes received in the Treasury under section 4495 <sup>1</sup> of title 26.
 
 #### (2) Method of transfer
 
@@ -59,6 +59,10 @@ Section was enacted as part of title IV of Pub. L. 96–283, and not as part of 
 #### Amendments
 
 1986—Subsec. (b)(1). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (c)(1) of this section relating to the duty of the Secretary of the Treasury to report annually to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 143 of House Document No. 103–7.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

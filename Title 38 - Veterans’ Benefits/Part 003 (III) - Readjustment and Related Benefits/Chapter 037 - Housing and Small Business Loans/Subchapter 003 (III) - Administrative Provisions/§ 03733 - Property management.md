@@ -38,7 +38,7 @@
 
 Subsec. (e). Pub. L. 105–368, §602(c)(2), struck out subsec. (e) which read as follows: “Notwithstanding any other provision of law, the amount received from the sale of any note evidencing a loan secured by real property described in subsection (a)(1) of this section, and the amount received from the sale of securities under section 3720(h) of this title, shall be credited, without any reduction and for the fiscal year in which the amount is received, as offsetting collections of—
 
-&emsp;“(1) the revolving fund for which a fee under section 3729 of this title was collected (or was exempted frombeing collected) at the time of the original guaranty of the loan that was secured by the same property; or
+&emsp;“(1) the revolving fund for which a fee under section 3729 of this title was collected (or was exempted from being collected) at the time of the original guaranty of the loan that was secured by the same property; or
 
 &emsp;“(2) in any case in which there was no requirement of (or exemption from) a fee at the time of the original guaranty of the loan that was secured by the same property, the Loan Guaranty Revolving Fund; and
 
@@ -146,7 +146,7 @@ Section 7004(b) of title VII of Pub. L. 100–203 provided that: “In applying 
 
 &emsp;“(1) the identical provisions of title 38, United States Code, amended by the provisions of this title and the provisions of such Act shall be treated as having been amended only once; and
 
-&emsp;“(2) in executing to title 38, United States Code, the amendments made by this title and by such Act, such amendments shall be executed so as to appear only once in the law.”
+&emsp;“(2) in executing to title 38, United States Code, the amendments made by this title and by such Act, suchamendments shall be executed so as to appear only once in the law.”
 
 #### Report to Congress
 
@@ -154,5 +154,5 @@ Section 6(c) of Pub. L. 100–198 directed Administrator of Veterans’ Affairs,
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3714, 3722, 3729, 3735 of this title.
+This section is referred to in sections 3714, 3722, 3735 of this title.
 

@@ -18,31 +18,3 @@ Changes were made in phraseology.
 
 Presidential determination of cultural significance of objects and exhibition or display thereof in the national interest, see section 2459 of Title 22, Foreign Relations and Intercourse.
 
-#### Federal Rules of Civil Procedure
-
-Assistance, attachment, or sequestration, see rule 70, Appendix to this title.
-
-Execution, see rule 69.
-
-Form of summons, see rule 4.
-
-Injunction, see rule 65.
-
-Process, see rule 4.
-
-Subpoenas, see rule 45.
-
-Summons, see rule 4.
-
-Writs of scire facias and mandamus abolished, see rule 81.
-
-#### Cross References
-
-Habeas corpus, see section 2241 of this title.
-
-Power of courts to issue writs, see section 1651 of this title.
-
-Power of Supreme Court to prescribe rules of procedure and evidence, see section 2072 of this title.
-
-Writs venire facias abolished, see Historical and Revision Notes under section 1867 of this title.
-

@@ -14,6 +14,8 @@ Act July 2, 1862, as amended, which is classified to this subchapter, is popular
 
 #### Equity in Educational Land Grant Status
 
+Pub. L. 106–387, §1(a) \[title I\], Oct. 28, 2000, 114 Stat. 1549, 1549A–7, provided in part: “That hereafter, any distribution of the adjusted income from the Native American Institutions Endowment Fund is authorized to be used for facility renovation, repair, construction, and maintenance, in addition to other authorized purposes.”
+
 Pub. L. 103–382, title V, part C, Oct. 20, 1994, 108 Stat. 4048, as amended by Pub. L. 104–127, title VIII, §882, Apr. 4, 1996, 110 Stat. 1175; Pub. L. 105–185, title II, §251, title III, §301(g), June 23, 1998, 112 Stat. 557, 563; Pub. L. 105–332, §3(d), Oct. 31, 1998, 112 Stat. 3126, provided that:
 
 #### “SEC. 531. SHORT TITLE.
@@ -279,16 +281,4 @@ Section 2(b) of act Apr. 28, 1947, ch. 43, 61 Stat. 55, provided: “The Secreta
 Admission of Alaska into the Union was accomplished Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as notes preceding section 21 of Title 48, Territories and Insular Possessions.
 
 Land grant under Alaska Statehood provisions as being in lieu of grant of acreage under sections 301 to 305, 307, 308 of this title (declared not to extend to Alaska), see section 6(<i>l</i>) of Pub. L. 85–508, set out as a note preceding section 21 of Title 48.
-
-#### Cross References
-
-Agricultural experiment stations, see section 361a et seq. of this title.
-
-Agricultural extension work appropriation, see sections 341 to 343, 344 to 346, and 348 of this title.
-
-College-aid annual appropriation, see sections 321 to 326 and 328 of this title.
-
-Research and study grants to land-grant colleges for farm housing research, see note set out under section 1476 of Title 42, The Public Health and Welfare.
-
-Water resources research and technology institutes, establishment at colleges or universities founded in accordance with this subchapter, see section 10303(a) of Title 42.
 

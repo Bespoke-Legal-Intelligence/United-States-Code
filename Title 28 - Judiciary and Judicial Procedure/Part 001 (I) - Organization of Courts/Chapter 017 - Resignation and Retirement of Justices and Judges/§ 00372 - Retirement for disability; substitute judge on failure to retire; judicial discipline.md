@@ -14,9 +14,9 @@ Each justice or judge retiring under this section after serving ten years contin
 
 (b) Whenever any judge of the United States appointed to hold office during good behavior who is eligible to retire under this section does not do so and a certificate of his disability signed by a majority of the members of the Judicial Council of his circuit in the case of a circuit or district judge, or by the Chief Justice of the United States in the case of the Chief Judge of the Court of International Trade, or by the chief judge of his court in the case of a judge of the Court of International Trade, is presented to the President and the President finds that such judge is unable to discharge efficiently all the duties of his office by reason of permanent mental or physical disability and that the appointment of an additional judge is necessary for the efficient dispatch of business, the President may make such appointment by and with the advice and consent of the Senate. Whenever any such additional judge is appointed, the vacancy subsequently caused by the death, resignation, or retirement of the disabled judge shall not be filled. Any judge whose disability causes the appointment of an additional judge shall, for purpose of precedence, service as chief judge, or temporary performance of the duties of that office, be treated as junior in commission to the other judges of the circuit, district, or court.
 
-(c)(1) Any person alleging that a circuit, district, or bankruptcy judge, or a magistrate, has engaged in conduct prejudicial to the effective and expeditious administration of the business of the courts, or alleging that such a judge or magistrate is unable to discharge all the duties of office by reason of mental or physical disability, may file with the clerk of the court of appeals for the circuit a written complaint containing a brief statement of the facts constituting such conduct. In the interests of the effective and expeditious administration of the business of the courts and on the basis of information available to the chief judge of the circuit, the chief judge may, by written order stating reasons therefor, identify a complaint for purposes of this subsection and thereby dispense with filing of a written complaint.
+(c)(1) Any person alleging that a circuit, district, or bankruptcy judge, or a magistrate judge, has engaged in conduct prejudicial to the effective and expeditious administration of the business of the courts, or alleging that such a judge or magistrate judge is unable to discharge all the duties of office by reason of mental or physical disability, may file with the clerk of the court of appeals for the circuit a written complaint containing a brief statement of the facts constituting such conduct. In the interests of the effective and expeditious administration of the business of the courts and on the basis of information available to the chief judge of the circuit, the chief judge may, by written order stating reasons therefor, identify a complaint for purposes of this subsection and thereby dispense with filing of a written complaint.
 
-(2) Upon receipt of a complaint filed under paragraph (1) of this subsection, the clerk shall promptly transmit such complaint to the chief judge of the circuit, or, if the conduct complained of is that of the chief judge, to that circuit judge in regular active service next senior in date of commission (hereafter, for purposes of this subsection only, included in the term “chief judge”). The clerk shall simultaneously transmit a copy of the complaint to the judge or magistrate whose conduct is the subject of the complaint.
+(2) Upon receipt of a complaint filed under paragraph (1) of this subsection, the clerk shall promptly transmit such complaint to the chief judge of the circuit, or, if the conduct complained of is that of the chief judge, to that circuit judge in regular active service next senior in date of commission (hereafter, for purposes of this subsection only, included in the term “chief judge”). The clerk shall simultaneously transmit a copy of the complaint to the judge or magistrate judge whose conduct is the subject of the complaint.
 
 (3) After expeditiously reviewing a complaint, the chief judge, by written order stating his reasons, may—
 
@@ -24,7 +24,7 @@ Each justice or judge retiring under this section after serving ten years contin
 
 &emsp;(B) conclude the proceeding if he finds that appropriate corrective action has been taken or that action on the complaint is no longer necessary because of intervening events.
 
-> The chief judge shall transmit copies of his written order to the complainant and to the judge or magistrate whose conduct is the subject of the complaint.
+> The chief judge shall transmit copies of his written order to the complainant and to the judge or magistrate judge whose conduct is the subject of the complaint.
 
 (4) If the chief judge does not enter an order under paragraph (3) of this subsection, such judge shall promptly—
 
@@ -32,7 +32,7 @@ Each justice or judge retiring under this section after serving ten years contin
 
 &emsp;(B) certify the complaint and any other documents pertaining thereto to each member of such committee; and
 
-&emsp;(C) provide written notice to the complainant and the judge or magistrate whose conduct is the subject of the complaint of the action taken under this paragraph.
+&emsp;(C) provide written notice to the complainant and the judge or magistrate judge whose conduct is the subject of the complaint of the action taken under this paragraph.
 
 > A judge appointed to a special committee under this paragraph may continue to serve on that committee after becoming a senior judge or, in the case of the chief judge of the circuit, after his or her term as chief judge terminates under subsection (a)(3) or (c) of section 45 of this title. If a judge appointed to a committee under this paragraph dies, or retires from office under section 371(a) of this title, while serving on the committee, the chief judge of the circuit may appoint another circuit or district judge, as the case may be, to the committee.
 
@@ -44,23 +44,23 @@ Each justice or judge retiring under this section after serving ten years contin
 
 &emsp;(B) shall take such action as is appropriate to assure the effective and expeditious administration of the business of the courts within the circuit, including, but not limited to, any of the following actions:
 
-&emsp;&emsp;(i) directing the chief judge of the district of the magistrate whose conduct is the subject of the complaint to take such action as the judicial council considers appropriate;
+&emsp;&emsp;(i) directing the chief judge of the district of the magistrate judge whose conduct is the subject of the complaint to take such action as the judicial council considers appropriate;
 
 &emsp;&emsp;(ii) certifying disability of a judge appointed to hold office during good behavior whose conduct is the subject of the complaint, pursuant to the procedures and standards provided under subsection (b) of this section;
 
 &emsp;&emsp;(iii) requesting that any such judge appointed to hold office during good behavior voluntarily retire, with the provision that the length of service requirements under section 371 of this title shall not apply;
 
-&emsp;&emsp;(iv) ordering that, on a temporary basis for a time certain, no further cases be assigned to any judge or magistrate whose conduct is the subject of a complaint;
+&emsp;&emsp;(iv) ordering that, on a temporary basis for a time certain, no further cases be assigned to any judge or magistrate judge whose conduct is the subject of a complaint;
 
-&emsp;&emsp;(v) censuring or reprimanding such judge or magistrate by means of private communication;
+&emsp;&emsp;(v) censuring or reprimanding such judge or magistrate judge by means of private communication;
 
-&emsp;&emsp;(vi) censuring or reprimanding such judge or magistrate by means of public announcement; or
+&emsp;&emsp;(vi) censuring or reprimanding such judge or magistrate judge by means of public announcement; or
 
-&emsp;&emsp;(vii) ordering such other action as it considers appropriate under the circumstances, except that (I) in no circumstances may the council order removal from office of any judge appointed to hold office during good behavior, and (II) any removal of a magistrate shall be in accordance with section 631 of this title and any removal of a bankruptcy judge shall be in accordance with section 152 of this title;
+&emsp;&emsp;(vii) ordering such other action as it considers appropriate under the circumstances, except that (I) in no circumstances may the council order removal from office of any judge appointed to hold office during good behavior, and (II) any removal of a magistrate judge shall be in accordance with section 631 of this title and any removal of a bankruptcy judge shall be in accordance with section 152 of this title;
 
 &emsp;(C) may dismiss the complaint; and
 
-&emsp;(D) shall immediately provide written notice to the complainant and to such judge or magistrate of the action taken under this paragraph.
+&emsp;(D) shall immediately provide written notice to the complainant and to such judge or magistrate judge of the action taken under this paragraph.
 
 (7)(A) In addition to the authority granted under paragraph (6) of this subsection, the judicial council may, in its discretion, refer any complaint under this subsection, together with the record of any associated proceedings and its recommendations for appropriate action, to the Judicial Conference of the United States.
 
@@ -72,49 +72,49 @@ Each justice or judge retiring under this section after serving ten years contin
 
 > the judicial council shall promptly certify such determination, together with any complaint and a record of any associated proceedings, to the Judicial Conference of the United States.
 
-(C) A judicial council acting under authority of this paragraph shall, unless contrary to the interests of justice, immediately submit written notice to the complainant and to the judge or magistrate whose conduct is the subject of the action taken under this paragraph.
+(C) A judicial council acting under authority of this paragraph shall, unless contrary to the interests of justice, immediately submit written notice to the complainant and to the judge or magistrate judge whose conduct is the subject of the action taken under this paragraph.
 
 (8)(A) Upon referral or certification of any matter under paragraph (7) of this subsection, the Judicial Conference, after consideration of the prior proceedings and such additional investigation as it considers appropriate, shall by majority vote take such action, as described in paragraph (6)(B) of this subsection, as it considers appropriate. If the Judicial Conference concurs in the determination of the council, or makes its own determination, that consideration of impeachment may be warranted, it shall so certify and transmit the determination and the record of proceedings to the House of Representatives for whatever action the House of Representatives considers to be necessary. Upon receipt of the determination and record of proceedings in the House of Representatives, the Clerk of the House of Representatives shall make available to the public the determination and any reasons for the determination.
 
-(B) If a judge or magistrate has been convicted of a felony and has exhausted all means of obtaining direct review of the conviction, or the time for seeking further direct review of the conviction has passed and no such review has been sought, the Judicial Conference may, by majority vote and without referral or certification under paragraph (7), transmit to the House of Representatives a determination that consideration of impeachment may be warranted, together with appropriate court records, for whatever action the House of Representatives considers to be necessary.
+(B) If a judge or magistrate judge has been convicted of a felony and has exhausted all means of obtaining direct review of the conviction, or the time for seeking further direct review of the conviction has passed and no such review has been sought, the Judicial Conference may, by majority vote and without referral or certification under paragraph (7), transmit to the House of Representatives a determination that consideration of impeachment may be warranted, together with appropriate court records, for whatever action the House of Representatives considers to be necessary.
 
 (9)(A) In conducting any investigation under this subsection, the judicial council, or a special committee appointed under paragraph (4) of this subsection, shall have full subpoena powers as provided in section 332(d) of this title.
 
 (B) In conducting any investigation under this subsection, the Judicial Conference, or a standing committee appointed by the Chief Justice under section 331 of this title, shall have full subpoena powers as provided in that section.
 
-(10) A complainant, judge, or magistrate aggrieved by a final order of the chief judge under paragraph (3) of this subsection may petition the judicial council for review thereof. A complainant, judge, or magistrate aggrieved by an action of the judicial council under paragraph (6) of this subsection may petition the Judicial Conference of the United States for review thereof. The Judicial Conference, or the standing committee established under section 331 of this title, may grant a petition filed by a complainant, judge, or magistrate under this paragraph. Except as expressly provided in this paragraph, all orders and determinations, including denials of petitions for review, shall be final and conclusive and shall not be judicially reviewable on appeal or otherwise.
+(10) A complainant, judge, or magistrate judge aggrieved by a final order of the chief judge under paragraph (3) of this subsection may petition the judicial council for review thereof. A complainant, judge, or magistrate judge aggrieved by an action of the judicial council under paragraph (6) of this subsection may petition the Judicial Conference of the United States for review thereof. The Judicial Conference, or the standing committee established under section 331 of this title, may grant a petition filed by a complainant, judge, or magistrate judge under this paragraph. Except as expressly provided in this paragraph, all orders and determinations, including denials of petitions for review, shall be final and conclusive and shall not be judicially reviewable on appeal or otherwise.
 
 (11) Each judicial council and the Judicial Conference may prescribe such rules for the conduct of proceedings under this subsection, including the processing of petitions for review, as each considers to be appropriate. Such rules shall contain provisions requiring that—
 
-&emsp;(A) adequate prior notice of any investigation be given in writing to the judge or magistrate whose conduct is the subject of the complaint;
+&emsp;(A) adequate prior notice of any investigation be given in writing to the judge or magistrate judge whose conduct is the subject of the complaint;
 
-&emsp;(B) the judge or magistrate whose conduct is the subject of the complaint be afforded an opportunity to appear (in person or by counsel) at proceedings conducted by the investigating panel, to present oral and documentary evidence, to compel the attendance of witnesses or the production of documents, to cross-examine witnesses, and to present argument orally or in writing; and
+&emsp;(B) the judge or magistrate judge whose conduct is the subject of the complaint be afforded an opportunity to appear (in person or by counsel) at proceedings conducted by the investigating panel, to present oral and documentary evidence, to compel the attendance of witnesses or the production of documents, to cross-examine witnesses, and to present argument orally or in writing; and
 
 &emsp;(C) the complainant be afforded an opportunity to appear at proceedings conducted by the investigating panel, if the panel concludes that the complainant could offer substantial information.
 
 > Any such rule shall be made or amended only after giving appropriate public notice and an opportunity for comment. Any rule promulgated under this subsection shall be a matter of public record, and any such rule promulgated by a judicial council may be modified by the Judicial Conference. No rule promulgated under this subsection may limit the period of time within which a person may file a complaint under this subsection.
 
-(12) No judge or magistrate whose conduct is the subject of an investigation under this subsection shall serve upon a special committee appointed under paragraph (4) of this subsection, upon a judicial council, upon the Judicial Conference, or upon the standing committee established under section 331 of this title, until all related proceedings under this subsection have been finally terminated.
+(12) No judge or magistrate judge whose conduct is the subject of an investigation under this subsection shall serve upon a special committee appointed under paragraph (4) of this subsection, upon a judicial council, upon the Judicial Conference, or upon the standing committee established under section 331 of this title, until all related proceedings under this subsection have been finally terminated.
 
 (13) No person shall be granted the right to intervene or to appear as amicus curiae in any proceeding before a judicial council or the Judicial Conference under this subsection.
 
 (14) Except as provided in paragraph (8), all papers, documents, and records of proceedings related to investigations conducted under this subsection shall be confidential and shall not be disclosed by any person in any proceeding except to the extent that—
 
-&emsp;(A) the judicial council of the circuit in its discretion releases a copy of a report of a special investigative committee under paragraph (5) to the complainant whose complaint initiated the investigation by that special committee and to the judge or magistrate whose conduct is the subject of the complaint;
+&emsp;(A) the judicial council of the circuit in its discretion releases a copy of a report of a special investigative committee under paragraph (5) to the complainant whose complaint initiated the investigation by that special committee and to the judge or magistrate judge whose conduct is the subject of the complaint;
 
 &emsp;(B) the judicial council of the circuit, the Judicial Conference of the United States, or the Senate or the House of Representatives by resolution, releases any such material which is believed necessary to an impeachment investigation or trial of a judge under article I of the Constitution; or
 
-&emsp;(C) such disclosure is authorized in writing by the judge or magistrate who is the subject of the complaint and by the chief judge of the circuit, the Chief Justice, or the chairman ofthe standing committee established under section 331 of this title.
+&emsp;(C) such disclosure is authorized in writing by the judge or magistrate judge who is the subject of the complaint and by the chief judge of the circuit, the Chief Justice, or the chairman of the standing committee established under section 331 of this title.
 
 (15) Each written order to implement any action under paragraph (6)(B) of this subsection, which is issued by a judicial council, the Judicial Conference, or the standing committee established under section 331 of this title, shall be made available to the public through the appropriate clerk's office of the court of appeals for the circuit. Unless contrary to the interests of justice, each such order issued under this paragraph shall be accompanied by written reasons therefor.
 
-(16) Upon the request of a judge or magistrate whose conduct is the subject of a complaint under this subsection, the judicial council may, if the complaint has been finally dismissed under paragraph (6)(C), recommend that the Director of the Administrative Office of the United States Courts award reimbursement, from funds appropriated to the Federal judiciary, for those reasonable expenses, including attorneys’ fees, incurred by that judge or magistrate during the investigation which would not have been incurred but for the requirements of this subsection.
+(16) Upon the request of a judge or magistrate judge whose conduct is the subject of a complaint under this subsection, the judicial council may, if the complaint has been finally dismissed under paragraph (6)(C), recommend that the Director of the Administrative Office of the United States Courts award reimbursement, from funds appropriated to the Federal judiciary, for those reasonable expenses, including attorneys’ fees, incurred by that judge or magistrate judge during the investigation which would not have been incurred but for the requirements of this subsection.
 
 (17) Except as expressly provided in this subsection, nothing in this subsection shall be construed to affect any other provision of this title, the Federal Rules of Civil Procedure, the Federal Rules of Criminal Procedure, the Federal Rules of Appellate Procedure, or the Federal Rules of Evidence.
 
-(18) The United States Court of Federal Claims, the Court of International Trade, and the Court of Appeals for the Federal Circuit shall each prescribe rules, consistent with the foregoing provisions of this subsection, establishing procedures for the filing of complaints with respect to the conduct of any judge of such court and for the investigation and resolution of such complaints. In investigating and taking action with respect to any such complaint, each such court shall have the powers granted to a judicial council under this subsection.
+(18) The United States Court of Federal Claims, the Court of International Trade, and the Court of Appeals for the Federal Circuit shall each prescribe rules, consistent with the foregoing provisions of this subsection, establishing procedures for the filing of complaints with respect to the conduct of any judge of such court and for the investigation and resolution ofsuch complaints. In investigating and taking action with respect to any such complaint, each such court shall have the powers granted to a judicial council under this subsection.
 
-(June 25, 1948, ch. 646, 62 Stat. 903; May 24, 1949, ch. 139, §67, 63 Stat. 99; Feb. 10, 1954, ch. 6, §4(a), 68 Stat. 12; Pub. L. 85–261, Sept. 2, 1957, 71 Stat. 586; Pub. L. 96–417, title V, §501(9), Oct. 10, 1980, 94 Stat. 1742; Pub. L. 96–458, §3(a), (b), Oct. 15, 1980, 94 Stat. 2036, 2040; Pub. L. 97–164, title I, §112, Apr. 2, 1982, 96 Stat. 29; Pub. L. 98–353, title I, §107, July 10, 1984, 98 Stat. 342; Pub. L. 100–702, title IV, §403(c), Nov. 19, 1988, 102 Stat. 4651; Pub. L. 101–650, title IV, §402, Dec. 1, 1990, 104 Stat. 5122; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
+(June 25, 1948, ch. 646, 62 Stat. 903; May 24, 1949, ch. 139, §67, 63 Stat. 99; Feb. 10, 1954, ch. 6, §4(a), 68 Stat. 12; Pub. L. 85–261, Sept. 2, 1957, 71 Stat. 586; Pub. L. 96–417, title V, §501(9), Oct. 10, 1980, 94 Stat. 1742; Pub. L. 96–458, §3(a), (b), Oct. 15, 1980, 94 Stat. 2036, 2040; Pub. L. 97–164, title I, §112, Apr. 2, 1982, 96 Stat. 29; Pub. L. 98–353, title I, §107, July 10, 1984, 98 Stat. 342; Pub. L. 100–702, title IV, §403(c), Nov. 19, 1988, 102 Stat. 4651; Pub. L. 101–650, title III, §321, title IV, §402, Dec. 1, 1990, 104 Stat. 5117, 5122; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 #### Historical and Revision Notes
 
@@ -148,9 +148,9 @@ The Federal Rules of Criminal Procedure, referred to in subsec. (c)(17), are set
 
 #### Amendments
 
-1992—Subsec. (c)(18). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1992</b>—Subsec. (c)(18). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-1990—Subsec. (c)(1). Pub. L. 101–650, §402(a), inserted at end “In the interests of the effective and expeditious administration of the business of the courts and on the basis of information available to the chief judge of the circuit, the chief judge may, by written order stating reasons therefor, identify a complaint for purposes of this subsection and thereby dispense with filing of a written complaint.”
+<b>1990</b>—Subsec. (c)(1). Pub. L. 101–650, §402(a), inserted at end “In the interests of the effective and expeditious administration of the business of the courts and on the basis of information available to the chief judge of the circuit, the chief judge may, by written order stating reasons therefor, identify a complaint for purposes of this subsection and thereby dispense with filing of a written complaint.”
 
 Subsec. (c)(3)(B). Pub. L. 101–650, §402(f), inserted before period at end “or that action on the complaint is no longer necessary because of intervening events”.
 
@@ -178,31 +178,31 @@ Subsec. (c)(14)(C). Pub. L. 101–650, §402(c)(2)(D), (i)(2), redesignated subp
 
 Subsec. (c)(16) to (18). Pub. L. 101–650, §402(h), added par. (16) and redesignated former pars. (16) and (17) as (17) and (18), respectively.
 
-1988—Subsec. (c)(11). Pub. L. 100–702 inserted before last sentence “Any such rule shall be made or amended only after giving appropriate public notice and an opportunity for comment.”
+<b>1988</b>—Subsec. (c)(11). Pub. L. 100–702 inserted before last sentence “Any such rule shall be made or amended only after giving appropriate public notice and an opportunity for comment.”
 
-1984—Subsec. (c)(6)(B)(vii). Pub. L. 98–353 substituted “section 152” for “section 153”.
+<b>1984</b>—Subsec. (c)(6)(B)(vii). Pub. L. 98–353 substituted “section 152” for “section 153”.
 
-1982—Subsec. (a). Pub. L. 97–164, §112(a), struck out “Court of Claims, Court of Customs and Patent Appeals, or” before “Court of International Trade” in third and fifth pars.
+<b>1982</b>—Subsec. (a). Pub. L. 97–164, §112(a), struck out “Court of Claims, Court of Customs and Patent Appeals, or” before “Court of International Trade” in third and fifth pars.
 
 Subsec. (b). Pub. L. 97–164, §112(b), struck out “Court of Claims, Court of Customs and Patent Appeals, or” before “Court of International Trade” wherever appearing.
 
 Subsec. (c)(17). Pub. L. 97–164, §112(c), substituted “United States Claims Court, the Court of International Trade, and the Court of Appeals for the Federal Circuit” for “Court of Claims, the Court of Customs and Patent Appeals, and the Customs Court”.
 
-1980—Pub. L. 96–458, §3(b), inserted “judicial discipline” in section catchline.
+<b>1980</b>—Pub. L. 96–458, §3(b), inserted “judicial discipline” in section catchline.
 
 Subsecs. (a), (b). Pub. L. 96–417 redesignated the Customs Court as the Court of International Trade.
 
 Subsec. (c). Pub. L. 96–458, §3(a), added subsec. (c).
 
-1957—Subsec. (b). Pub. L. 85–261 added subsec. (b).
+<b>1957</b>—Subsec. (b). Pub. L. 85–261 added subsec. (b).
 
-1954—Act Feb. 10, 1954, inserted “; substitute judge on failure to retire” in section catchline (but without adding any provisions on such subject to the text of the section, see 1957 amendment), and inserted “under this section” after “retire” in third, fourth, and fifth pars.
+<b>1954</b>—Act Feb. 10, 1954, inserted “; substitute judge on failure to retire” in section catchline (but without adding any provisions on such subject to the text of the section, see 1957 amendment), and inserted “under this section” after “retire” in third, fourth, and fifth pars.
 
-1949—Act May 24, 1949, amended section to include provision that appointment of successors to justices or judges must be made with consent of Senate, and inserted “continuously or otherwise” after “Each justice or judge” in last par.
+<b>1949</b>—Act May 24, 1949, amended section to include provision that appointment of successors to justices or judges must be made with consent of Senate, and inserted “continuously or otherwise” after “Each justice or judge” in last par.
 
 #### Change of Name
 
-Reference to United States magistrate or to magistrate deemed to refer to United States magistrate judge pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of this title.
+Words “magistrate judge” substituted for “magistrate” wherever appearing in subsec. (c) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of this title.
 
 #### Effective Date of 1992 Amendment
 
@@ -288,7 +288,7 @@ Vacancy.—A vacancy on the Commission resulting from the death or resignation o
 
 “(f)
 
-Continuation of Membership.—If any member of the Commission who was appointed to the Commissionas a Member of Congress or as an officer or employee of a government leaves that office, or if any member of the Commission who was appointed from persons who are not officers or employees of a government becomes an officer or employee of a government, the member may continue as a member of the Commission for not longer than the 90-day period beginning on the date the member leaves that office or becomes such an officer or employee, as the case may be.
+Continuation of Membership.—If any member of the Commission who was appointed to the Commission as a Member of Congress or as an officer or employee of a government leaves that office, or if any member of the Commission who was appointed from persons who are not officers or employees of a government becomes an officer or employee of a government, the member may continue as a member of the Commission for not longer than the 90-day period beginning on the date the member leaves that office or becomes such an officer or employee, as the case may be.
 
 #### “SEC. 412. COMPENSATION OF THE COMMISSION.
 
@@ -310,7 +310,7 @@ Director.—The Commission shall, without regard to section 5311(b) of title 5, 
 
 “(b)
 
-Staff.—The Chairman of the Commission may appoint and fix the pay of such additional personnel as the Chairman finds necessary to enable the Commission to carry out its duties. Such personnel may be appointed without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, except that the annual rate of pay for any individual so appointed may not exceed a rate equal to the annual rate of basic pay payable for GS–18 of the General Schedule under section 5332 of such title.
+Staff.—The Chairman of the Commission may appoint and fix the pay of such additional personnel as the Chairman finds necessary to enable the Commission to carry out its duties. Such personnel may be appointed without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, except that the annual rate of pay for any individual so appointed may not exceed arate equal to the annual rate of basic pay payable for GS–18 of the General Schedule under section 5332 of such title.
 
 “(c)
 
@@ -367,20 +367,6 @@ Inclusion of service as judge of the District Court for the Territory of Alaska 
 #### Judicial Service in Hawaii
 
 Certain judicial service in Hawaii included within computation of aggregate years of judicial service, see section 14(d) of Pub. L. 86–3, set out as a note under section 371 of this title.
-
-#### Cross References
-
-Assignment of retired justices or judges to active duty, see section 294 of this title.
-
-Justices and judges appointed to hold office during good behavior—
-
-&emsp;&emsp;Court of International Trade, see section 252 of this title.
-
-&emsp;&emsp;Courts of Appeals, see Const., Art. 3, §1.
-
-&emsp;&emsp;District Courts, see Const., Art. 3, §1.
-
-&emsp;&emsp;Supreme Court, see Const., Art. 3, §1.
 
 #### Section Referred to in Other Sections
 

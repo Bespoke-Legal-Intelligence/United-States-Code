@@ -12,10 +12,6 @@ Act of June 17, 1902, referred to in text, is act June 17, 1902, ch. 1093, 32 St
 
 “Secretary of the Interior or such officer as he may designate” substituted in text for “Commissioner of the General Land Office” on authority of section 403 of Reorg. Plan No. 3 of 1946, set out as a note under section 1 of this title.
 
-#### Cross References
-
-Application of this section to Flathead irrigation project in Montana, see section 593 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 442, 455b, 593, 626 of this title.

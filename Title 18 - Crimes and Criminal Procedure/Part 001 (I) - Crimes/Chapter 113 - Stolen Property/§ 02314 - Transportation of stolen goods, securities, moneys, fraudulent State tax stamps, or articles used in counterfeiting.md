@@ -68,10 +68,6 @@ Pub. L. 100–690, §7057(b), struck out “or by a bank or corporation of any f
 
 1949—Act May 24, 1949, substituted “knowing the same to have been stolen, converted or taken by fraud” for “theretofore stolen, converted, or taken by fraud” in first par.
 
-#### Cross References
-
-Wire or oral communications, authorization for interception, to provide evidence of offenses under this section, see section 2516 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1961, 2516 of this title; title 7 section 12a.

@@ -1,0 +1,202 @@
+### §1104. Administration of loan guarantees
+
+#### (a) In general
+
+The Administrator of the Rural Utilities Service (in this chapter referred to as the “Administrator”) shall issue and otherwise administer loan guarantees that have been approved by the Board in accordance with sections 1102 <sup>1</sup> and 1103 <sup>1</sup> of this title.
+
+#### (b) Security for protection of United States financial interests
+
+#### (1) Terms and conditions
+
+&emsp;An applicant shall agree to such terms and conditions as are satisfactory, in the judgment of the Board, to ensure that, as long as any principal or interest is due and payable on a loan guaranteed under this chapter, the applicant—
+
+&emsp;&emsp;(A) shall maintain assets, equipment, facilities, and operations on a continuing basis;
+
+&emsp;&emsp;(B) shall not make any discretionary dividend payments that impair its ability to repay obligations guaranteed under this chapter;
+
+&emsp;&emsp;(C) shall remain sufficiently capitalized; and
+
+&emsp;&emsp;(D) shall submit to, and cooperate fully with, any audit of the applicant under section 1105(a)(2) <sup>1</sup> of this title.
+
+#### (2) Collateral
+
+#### (A) Existence of adequate collateral
+
+&emsp;&emsp;An applicant shall provide the Board such documentation as is necessary, in the judgment of the Board, to provide satisfactory evidence that appropriate and adequate collateral secures a loan guaranteed under this chapter.
+
+#### (B) Form of collateral
+
+&emsp;&emsp;Collateral required by subparagraph (A) shall consist solely of assets of the applicant, any affiliate of the applicant, or both (whichever the Board considers appropriate), including primary assets to be used in the delivery of signals for which the loan is guaranteed.
+
+#### (C) Review of valuation
+
+&emsp;&emsp;The value of collateral securing a loan guaranteed under this chapter may be reviewed by the Board, and may be adjusted downward by the Board if the Board reasonably believes such adjustment is appropriate.
+
+#### (3) Lien on interests in assets
+
+&emsp;Upon the Board's approval of a loan guarantee under this chapter, the Administrator shall have liens on assets securing the loan, which shall be superior to all other liens on such assets, and the value of the assets (based on a determination satisfactory to the Board) subject to the liens shall be at least equal to the unpaid balance of the loan amount covered by the loan guarantee, or that value approved by the Board under section 1103(d)(3)(B)(iii) <sup>1</sup> of this title.
+
+#### (4) Perfected security interest
+
+&emsp;With respect to a loan guaranteed under this chapter, the Administrator and the lender shall have a perfected security interest in assets securing the loan that are fully sufficient to protect the financial interests of the United States and the lender.
+
+#### (5) Insurance
+
+&emsp;In accordance with practices in the private capital market, as determined by the Board, the applicant for a loan guarantee under this chapter shall obtain, at its expense, insurance sufficient to protect the financial interests of the United States, as determined by the Board.
+
+#### (c) Assignment of loan guarantees
+
+The holder of a loan guarantee under this chapter may assign the loan guaranteed under this chapter in whole or in part, subject to such requirements as the Board may prescribe.
+
+#### (d) Expiration of loan guarantee upon stripping
+
+Notwithstanding subsections (c), (e), and (h) of this section, a loan guarantee under this chapter shall have no force or effect if any part of the guaranteed portion of the loan is transferred separate and apart from the unguaranteed portion of the loan.
+
+#### (e) Adjustment
+
+The Board may approve the adjustment of any term or condition of a loan guarantee or a loan guaranteed under this chapter, including the rate of interest, time of payment of principal or interest, or security requirements only if—
+
+&emsp;(1) the adjustment is consistent with the financial interests of the United States;
+
+&emsp;(2) consent has been obtained from the parties to the loan agreement;
+
+&emsp;(3) the adjustment is consistent with the underwriting criteria developed under section 1103(g) <sup>1</sup> of this title;
+
+&emsp;(4) the adjustment does not adversely affect the interest of the Federal Government in the assets or collateral of the applicant;
+
+&emsp;(5) the adjustment does not adversely affect the ability of the applicant to repay the loan; and
+
+&emsp;(6) the National Telecommunications and Information Administration has been consulted by the Board regarding the adjustment.
+
+#### (f) Performance schedules
+
+#### (1) Performance schedules
+
+&emsp;An applicant for a loan guarantee under this chapter for a project covered by section 1103(e)(1) <sup>1</sup> of this title shall enter into stipulated performance schedules with the Administrator with respect to the signals to be provided through the project.
+
+#### (2) Penalty
+
+&emsp;The Administrator may assess against and collect from an applicant described in paragraph (1) a penalty not to exceed 3 times the interest due on the guaranteed loan of the applicant under this chapter if the applicant fails to meet its stipulated performance schedule under that paragraph.
+
+#### (g) Compliance
+
+The Administrator, in cooperation with the Board and as the regulations of the Board may provide, shall enforce compliance by an applicant, and any other party to a loan guarantee for whose benefit assistance under this chapter is intended, with the provisions of this chapter, any regulations under this chapter, and the terms and conditions of the loan guarantee, including through the submittal of such reports and documents as the Board may require in regulations prescribed by the Board and through regular periodic inspections and audits.
+
+#### (h) Commercial validity
+
+A loan guarantee under this chapter shall be incontestable—
+
+&emsp;(1) in the hands of an applicant on whose behalf the loan guarantee is made, unless the applicant engaged in fraud or misrepresentation in securing the loan guarantee; and
+
+&emsp;(2) as to any person or entity (or their respective successor in interest) who makes or contracts to make a loan to the applicant for the loan guarantee in reliance thereon, unless such person or entity (or respective successor in interest) engaged in fraud or misrepresentation in making or contracting to make such loan.
+
+#### (i) Defaults
+
+The Board shall prescribe regulations governing defaults on loans guaranteed under this chapter, including the administration of the payment of guaranteed amounts upon default.
+
+#### (j) Recovery of payments
+
+#### (1) In general
+
+&emsp;The Administrator shall be entitled to recover from an applicant for a loan guarantee under this chapter the amount of any payment made to the holder of the guarantee with respect to the loan.
+
+#### (2) Subrogation
+
+&emsp;Upon making a payment described in paragraph (1), the Administrator shall be subrogated to all rights of the party to whom the payment is made with respect to the guarantee which was the basis for the payment.
+
+#### (3) Disposition of property
+
+#### (A) Sale or disposal
+
+&emsp;&emsp;The Administrator shall, in an orderly and efficient manner, sell or otherwise dispose of any property or other interests obtained under this chapter in a manner that maximizes taxpayer return and is consistent with the financial interests of the United States.
+
+#### (B) Maintenance
+
+&emsp;&emsp;The Administrator shall maintain in a cost-effective and reasonable manner any property or other interests pending sale or disposal of such property or other interests under subparagraph (A).
+
+#### (k) Action against obligor
+
+#### (1) Authority to bring civil action
+
+&emsp;The Administrator may bring a civil action in an appropriate district court of the United States in the name of the United States or of the holder of the obligation in the event of a default on a loan guaranteed under this chapter. The holder of a loan guarantee shall make available to the Administrator all records and evidence necessary to prosecute the civil action.
+
+#### (2) Fully satisfying obligations owed the United States
+
+&emsp;The Administrator may accept property in satisfaction of any sums owed the United States as a result of a default on a loan guaranteed under this chapter, but only to the extent that any cash accepted by the Administrator is not sufficient to satisfy fully the sums owed as a result of the default.
+
+#### (<i>l</i>) Breach of conditions
+
+The Administrator shall commence a civil action in a court of appropriate jurisdiction to enjoin any activity which the Board finds is in violation of this chapter, the regulations under this chapter, or any conditions which were duly agreed to, and to secure any other appropriate relief, including relief against any affiliate of the applicant.
+
+#### (m) Attachment
+
+No attachment or execution may be issued against the Administrator or any property in the control of the Administrator pursuant to this chapter before the entry of a final judgment (as to which all rights of appeal have expired) by a Federal, State, or other court of competent jurisdiction against the Administrator in a proceeding for such action.
+
+#### (n) Fees
+
+#### (1) Application fee
+
+&emsp;The Board shall charge and collect from an applicant for a loan guarantee under thischapter a fee to cover the cost of the Board in making necessary determinations and findings with respect to the loan guarantee application under this chapter. The amount of the fee shall be reasonable.
+
+#### (2) Loan guarantee origination fee
+
+&emsp;The Board shall charge, and the Administrator may collect, a loan guarantee origination fee with respect to the issuance of a loan guarantee under this chapter.
+
+#### (3) Use of fees collected
+
+#### (A) In general
+
+&emsp;&emsp;Any fee collected under this subsection shall be used, subject to subparagraph (B), to offset administrative costs under this chapter, including costs of the Board and of the Administrator.
+
+#### (B) Subject to appropriations
+
+&emsp;&emsp;The authority provided by this subsection shall be effective only to such extent or in such amounts as are provided in advance in appropriations Acts.
+
+#### (C) Limitation on fees
+
+&emsp;&emsp;The aggregate amount of fees imposed by this subsection shall not exceed the actual amount of administrative costs under this chapter.
+
+#### (<i>o</i>) Requirements relating to affiliates
+
+#### (1) Indemnification
+
+&emsp;The United States shall be indemnified by any affiliate (acceptable to the Board) of an applicant for a loan guarantee under this chapter for any losses that the United States incurs as a result of—
+
+&emsp;&emsp;(A) a judgment against the applicant or any of its affiliates;
+
+&emsp;&emsp;(B) any breach by the applicant or any of its affiliates of their obligations under the loan guarantee agreement;
+
+&emsp;&emsp;(C) any violation of the provisions of this chapter, and the regulations prescribed under this chapter, by the applicant or any of its affiliates;
+
+&emsp;&emsp;(D) any penalties incurred by the applicant or any of its affiliates for any reason, including violation of a stipulated performance schedule under subsection (f) of this section; and
+
+&emsp;&emsp;(E) any other circumstances that the Board considers appropriate.
+
+#### (2) Limitation on transfer of loan proceeds
+
+&emsp;An applicant for a loan guarantee under this chapter may not transfer any part of the proceeds of the loan to an affiliate.
+
+#### (p) Effect of bankruptcy
+
+(1) Notwithstanding any other provision of law, whenever any person or entity is indebted to the United States as a result of any loan guarantee issued under this chapter and such person or entity is insolvent or is a debtor in a case under title 11, the debts due to the United States shall be satisfied first.
+
+(2) A discharge in bankruptcy under title 11 shall not release a person or entity from an obligation to the United States in connection with a loan guarantee under this chapter.
+
+(Pub. L. 106–553, §1(a)(2) \[title X, §1005\], Dec. 21, 2000, 114 Stat. 2762, 2762A–134.)
+
+#### References in Text
+
+This chapter, referred to in text, was in the original “this Act”, and was translated as reading “this title”. See References in Text note set out under section 1101 of this title.
+
+Section 1102 this title, referred to in subsec. (a), was in the original a reference to section 3, and was translated as referring to section 1003 of title X of H.R. 5548, as enacted by Pub. L. 106–553, §1(a)(2), to reflect the probable intent of Congress. Pub. L. 106–553 does not contain a section 3 and section 1003 relates to the LOCAL Television Loan Guarantee Board.
+
+Section 1103 of this title, referred to in subsecs. (a), (b)(3), (e)(3), and (f)(1), was in the original a reference to section 4, and was translated as referring to section 1004 of title X of H.R. 5548, as enacted by Pub. L. 106–553, §1(a)(2), to reflect the probable intent of Congress. Pub. L. 106–553 does not contain a section 4 and section 1004 relates to loan guarantees, the value of collateral, underwriting criteria, and types of projects.
+
+Section 1105(a)(2) of this title, referred to in subsec. (b)(1)(D), was in the original “section 6(a)(2)”, and was translated as reading “section 1006(a)(2)”, meaning section 1006(a)(2) of title X of H.R. 5548, as enacted by Pub. L. 106–553, §1(a)(2), to reflect the probable intent of Congress. Pub. L. 106–553 does not contain a section 6 and section 1006(a)(2) relates to annual audit of financial position of applicants.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1103 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

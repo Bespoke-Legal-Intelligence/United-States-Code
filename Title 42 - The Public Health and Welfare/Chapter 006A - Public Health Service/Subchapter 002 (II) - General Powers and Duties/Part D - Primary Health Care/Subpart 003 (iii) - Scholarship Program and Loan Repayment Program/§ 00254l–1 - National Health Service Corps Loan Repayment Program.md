@@ -98,7 +98,7 @@ The written contract (referred to in this subpart) between the Secretary and an 
 
 &emsp;&emsp;&emsp;(iii) in the case of an individual described in subsection (b)(1)(C) of this section, while enrolled in such course of study or training, to maintain an acceptable level of academic standing (as determined under regulations of the Secretary by the educational institution offering such course of study or training); and
 
-&emsp;&emsp;&emsp;(iv) to serve for a time period (hereinafter in this subpart referred to as the “period of obligated service”) equal to 2 years or such longer period as the individual may agree to, as a provider of primary health services in a health professional shortage area (designated under section 254e of this title) to which such individual is assigned by the Secretary as a member of the Corps or released under section 254n of this title;
+&emsp;&emsp;&emsp;(iv) to serve for a time period (hereinafter in this subpart referred to as the “period of obligated service”) equal to 2 years or such longer period as the individualmay agree to, as a provider of primary health services in a health professional shortage area (designated under section 254e of this title) to which such individual is assigned by the Secretary as a member of the Corps or released under section 254n of this title;
 
 &emsp;(2) a provision permitting the Secretary to extend for such longer additional periods, as the individual may agree to, the period of obligated service agreed to by the individual under paragraph (1)(B)(iv), including extensions resulting in an aggregate period of obligated service in excess of 4 years;
 
@@ -152,37 +152,11 @@ The written contract (referred to in this subpart) between the Secretary and an 
 
 Notwithstanding any other provision of law, individuals who have entered into written contracts with the Secretary under this section, while undergoing academic or other training, shall not be counted against any employment ceiling affecting the Department.
 
-#### (i) Reports
-
-Not later than March 1 of each year, the Secretary shall submit to the Congress a report providing, with respect to the preceding fiscal year—
-
-&emsp;(1) the total amount of loan payments made under the Loan Repayment Program;
-
-&emsp;(2) the number of applications filed under this section;
-
-&emsp;(3) the number, and type of health profession training, of individuals receiving loan repayments under such Program;
-
-&emsp;(4) the educational institution at which such individuals received their training;
-
-&emsp;(5) the total amount of the indebtedness of such individuals for educational loans as of the date on which the individuals become participants in such Program;
-
-&emsp;(6) the number of years of obligated service specified for such individuals in the initial contracts under subsection (f) of this section, and, in the case of individuals whose period of such service has been completed, the total number of years for which the individuals served in the Corps (including any extensions made for purposes of paragraph (2) of such subsection);
-
-&emsp;(7)(A) the number, and type of health professions training, of such individuals who have breached the contract under subsection (f) of this section through any of the actions specified in subsection (a) or (b) of section 254<i>o</i> of this title; and
-
-&emsp;(B) with respect to such individuals—
-
-&emsp;&emsp;(i) the educational institutions with respect to which payments have been made or were to be made under the contract;
-
-&emsp;&emsp;(ii) the amounts for which the individuals are liable to the United States under section 254<i>o</i> of this title;
-
-&emsp;&emsp;(iii) the extent of payment by the individuals of such amounts; and
-
-&emsp;&emsp;(iv) if known, the basis for the decision of the individuals to breach the contract under subsection (f) of this section; and
-
-&emsp;(8) the effectiveness of the Secretary in recruiting health professionals to participate in the Loan Repayment Program, and in encouraging and assisting such professionals with respect to providing primary health services to health professional shortage areas after the completion of the period of obligated service under such Program.
-
 (July 1, 1944, ch. 373, title III, §338B, as added Pub. L. 100–177, title II, §201(3), Dec. 1, 1987, 101 Stat. 992; amended Pub. L. 100–607, title VI, §629(a)(2), Nov. 4, 1988, 102 Stat. 3146; Pub. L. 101–597, title II, §202(a)–(g)(1), (h), title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3023–3026, 3035; Pub. L. 105–392, title I, §109, Nov. 13, 1998, 112 Stat. 3562.)
+
+#### Codification
+
+Subsec. (i) of this section, which required the Secretary to submit not later than Mar. 1 of each year a report to Congress providing, with respect to the preceding fiscal year, information about the Loan Repayment Program, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, item 11 on page 93 of House Document No. 103–7.
 
 #### Prior Provisions
 
@@ -192,7 +166,7 @@ A prior section 338B of act July 1, 1944, was renumbered section 338C by section
 
 1998—Subsec. (b)(1)(B). Pub. L. 105–392 substituted “behavioral and mental health, or other health profession” for “or other health profession”.
 
-1990—Subsec. (a). Pub. L. 101–597, §202(a)(1), substituted “Corps Loan Repayment Program to assure, with respect to the provision of primary health services pursuant to section 254d(a)(2) of this title—” and pars. (1) and (2) for “Corps Loan Repayment Program (hereinafter in this subpart referred to as the ‘Loan Repayment Program’) in order to assure—
+1990—Subsec. (a). Pub. L. 101–597, §202(a)(1), substituted “Corps Loan Repayment Program to assure,with respect to the provision of primary health services pursuant to section 254d(a)(2) of this title—” and pars. (1) and (2) for “Corps Loan Repayment Program (hereinafter in this subpart referred to as the ‘Loan Repayment Program’) in order to assure—
 
 &emsp;“(1) an adequate supply of trained physicians, dentists, and nurses for the Corps; and
 
@@ -276,7 +250,7 @@ Pub. L. 101–597, §202(h), amended subsec. (i) generally. Prior to amendment, 
 
 #### Effective Date of 1990 Amendment
 
-Section 202(g)(2) of Pub. L. 101–597 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply only with respect to contracts under section 338B of the Public Health Service Act \[this section\] (relating to service in the National Health Service Corps) that are entered into on or after the effective date of this Act \[Nov. 16, 1990\].”
+Section 202(g)(2) of Pub. L. 101–597 provided that: “The amendment made by paragraph (1) \[amending thissection\] shall apply only with respect to contracts under section 338B of the Public Health Service Act \[this section\] (relating to service in the National Health Service Corps) that are entered into on or after the effective date of this Act \[Nov. 16, 1990\].”
 
 #### Regulations
 
@@ -284,7 +258,7 @@ Section 205 of title II of Pub. L. 100–177 provided that: “Not later than 18
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 254d, 254h–1, 254m, 254n, 254<i>o</i>, 254<i>o</i>–1, 254q–1, 288–2, 288–4, 288–5 of this title; title 25 section 1616a.
+This section is referred to in sections 254d, 254h–1, 254m, 254n, 254<i>o</i>, 254<i>o</i>–1, 254q–1, 287c–33, 288–2, 288–4, 288–5, 288–5a, 288–6 of this title; title 25 section 1616a; title 37 section 303a.
 
 <i><sup>1</sup></i><i> So in original. The word “must” probably should not appear.</i>
 

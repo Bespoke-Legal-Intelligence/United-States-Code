@@ -10,10 +10,13 @@
 | [7046\.](%C2%A7%2007046%20-%20Officers%20of%20foreign%20countries%20admission.md) | Officers of foreign countries: admission. |
 | [7047\.](%C2%A7%2007047%20-%20Students%20at%20institutions%20of%20higher%20education%20admission.md) | Students at institutions of higher education: admission. |
 | [7048\.](%C2%A7%2007048%20-%20Conferring%20of%20degrees%20on%20graduates.md) | Conferring of degrees on graduates. |
+| [7049\.](%C2%A7%2007049%20-%20Defense%20industry%20civilians%20admission%20to%20defense%20product%20development%20program.md) | Defense industry civilians: admission to defense product development program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2000—Pub. L. 106–398, §1 \[\[div. A\], title V, §535(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–113, added item 7049.
 
 1997—Pub. L. 105–85, div. A, title V, §551(b)(2), Nov. 18, 1997, 111 Stat. 1748, substituted “Officers of the other armed forces; enlisted members:” for “Officers of Army, Air Force, and Coast Guard:” in item 7045.
 
@@ -36,3 +39,4 @@ This chapter is referred to in section 1552 of this title.
 - [&sect; 07046 - Officers of foreign countries admission](%C2%A7%2007046%20-%20Officers%20of%20foreign%20countries%20admission.md)
 - [&sect; 07047 - Students at institutions of higher education admission](%C2%A7%2007047%20-%20Students%20at%20institutions%20of%20higher%20education%20admission.md)
 - [&sect; 07048 - Conferring of degrees on graduates](%C2%A7%2007048%20-%20Conferring%20of%20degrees%20on%20graduates.md)
+- [&sect; 07049 - Defense industry civilians admission to defense product development program](%C2%A7%2007049%20-%20Defense%20industry%20civilians%20admission%20to%20defense%20product%20development%20program.md)

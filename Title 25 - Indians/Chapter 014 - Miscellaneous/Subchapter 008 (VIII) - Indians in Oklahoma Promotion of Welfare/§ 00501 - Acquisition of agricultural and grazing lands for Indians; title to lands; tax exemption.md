@@ -4,15 +4,15 @@ The Secretary of the Interior is authorized, in his discretion, to acquire by pu
 
 (June 26, 1936, ch. 831, §1, 49 Stat. 1967.)
 
+#### References to This Section
+
+References to this section in subchapter II of chapter 14 of this title deemed to include section 82a of this title, see section 458aaa–10 of this title.
+
 #### Short Title
 
-Act June 26, 1936, ch. 831, 49 Stat. 1967, as amended, which enacted this subchapter, is popularly known as the “Oklahoma Welfare Act”.
+Act June 26, 1936, ch. 831, 49 Stat. 1967, as amended, which enacted this subchapter, is popularly known as the “Oklahoma Welfare Act” and the “Oklahoma Indian Welfare Act”.
 
-#### Cross References
+#### Section Referred to in Other Sections
 
-Choctaw Tribe and its members, this subchapter not to apply after Aug. 25, 1959, see section 7 of Pub. L.86–192, Aug. 25, 1959, 73 Stat. 421, set out as a note under section 355 of this title.
-
-Inapplicability of section to Osage County, Oklahoma, see section 508 of this title.
-
-Right-of-way grant, consent of tribal officials, see section 324 of this title.
+This section is referred to in sections 458aaa–10, 1041e of this title.
 

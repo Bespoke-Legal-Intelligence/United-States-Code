@@ -6,12 +6,14 @@
 | [5042\.](%C2%A7%2005042%20-%20Headquarters%2C%20Marine%20Corps%20general%20duties.md) | Headquarters, Marine Corps: general duties. |
 | [5043\.](%C2%A7%2005043%20-%20Commandant%20of%20the%20Marine%20Corps.md) | Commandant of the Marine Corps. |
 | [5044\.](%C2%A7%2005044%20-%20Assistant%20Commandant%20of%20the%20Marine%20Corps.md) | Assistant Commandant of the Marine Corps. |
-| [5045\.](%C2%A7%2005045%20-%20Chief%20of%20Staff%3B%20Deputy%20and%20Assistant%20Chiefs%20of%20Staff.md) | Chief of Staff; Deputy and Assistant Chiefs of Staff. |
+| [5045\.](%C2%A7%2005045%20-%20Deputy%20Commandants.md) | Deputy Commandants. |
 | [5046\.](%C2%A7%2005046%20-%20Staff%20Judge%20Advocate%20to%20the%20Commandant%20of%20the%20Marine%20Corps.md) | Staff Judge Advocate to the Commandant of the Marine Corps. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2000—Pub. L. 106–398, §1 \[\[div. A\], title IX, §902(b)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–224, substituted “Deputy Commandants” for “Chief of Staff; Deputy and Assistant Chiefs of Staff” in item 5045.
 
 1986—Pub. L. 99–661, div. A, title V, §509(a)(2), Nov. 14, 1986, 100 Stat. 3868, added item 5046.
 
@@ -24,5 +26,5 @@
 - [&sect; 05042 - Headquarters, Marine Corps general duties](%C2%A7%2005042%20-%20Headquarters%2C%20Marine%20Corps%20general%20duties.md)
 - [&sect; 05043 - Commandant of the Marine Corps](%C2%A7%2005043%20-%20Commandant%20of%20the%20Marine%20Corps.md)
 - [&sect; 05044 - Assistant Commandant of the Marine Corps](%C2%A7%2005044%20-%20Assistant%20Commandant%20of%20the%20Marine%20Corps.md)
-- [&sect; 05045 - Chief of Staff; Deputy and Assistant Chiefs of Staff](%C2%A7%2005045%20-%20Chief%20of%20Staff%3B%20Deputy%20and%20Assistant%20Chiefs%20of%20Staff.md)
+- [&sect; 05045 - Deputy Commandants](%C2%A7%2005045%20-%20Deputy%20Commandants.md)
 - [&sect; 05046 - Staff Judge Advocate to the Commandant of the Marine Corps](%C2%A7%2005046%20-%20Staff%20Judge%20Advocate%20to%20the%20Commandant%20of%20the%20Marine%20Corps.md)

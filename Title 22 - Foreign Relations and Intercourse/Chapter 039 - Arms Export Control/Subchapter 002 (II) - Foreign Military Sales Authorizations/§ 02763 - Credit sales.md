@@ -2,7 +2,7 @@
 
 #### (a) Financing procurement of defense articles and services, and design and construction services
 
-The President is authorized to finance the procurement of defense articles, defense services,and design and construction services by friendly foreign countries and international organizations, on such terms and conditions as he may determine consistent with the requirements of this section. Notwithstanding any other provision of law, and subject to the regular notification requirements of the Committees on Appropriations, the authority of this section may be used to provide financing to Israel and Egypt for the procurement by leasing (including leasing with an option to purchase) of defense articles from United States commercial suppliers, not including Major Defense Equipment (other than helicopters and other types of aircraft having possible civilian application), if the President determines that there are compelling foreign policy or national security reasons for those defense articles being provided by commercial lease rather than by government-to-government sale under this chapter.
+The President is authorized to finance the procurement of defense articles, defense services, and design and construction services by friendly foreign countries and international organizations, on such terms and conditions as he may determine consistent with the requirements of this section. Notwithstanding any other provision of law, and subject to the regular notification requirements of the Committees on Appropriations, the authority of this section may be used to provide financing to Israel and Egypt for the procurement by leasing (including leasing with an option to purchase) of defense articles from United States commercial suppliers, not including Major Defense Equipment (other than helicopters and other types of aircraft having possible civilian application), if the President determines that there are compelling foreign policy or national security reasons for those defense articles being provided by commercial lease rather than by government-to-government sale under this chapter.
 
 #### (b) Repayment period
 
@@ -82,7 +82,7 @@ Functions of President under this section and section 580 of Pub. L. 100–461, 
 
 #### Similar Provisions
 
-Provisions similar to those in last sentence of subsec. (a) of this section which are applicable to NATO and major non-NATO allies in addition to Israel and Egypt are contained in the following appropriation acts:
+Provisions similar to those in last sentence of subsec. (a) of this section which were applicable to NATO and major non-NATO allies in addition to Israel and Egypt were contained in the following appropriation acts and were not repeated in subsequent appropriation acts:
 
 Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §528\], Nov. 29, 1999, 113 Stat. 1535, 1501A–90.
 
@@ -108,5 +108,5 @@ Pub. L. 100–461, title V, §580, Oct. 1, 1988, 102 Stat. 2268–48.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2291c, 2311, 2321j, 2360, 2761, 2764, 2771, 2774, 2775, 2776, 2777, 2791, 5854 of this title.
+This section is referred to in sections 2291c, 2305, 2311, 2321j, 2360, 2761, 2764, 2771, 2774, 2775, 2776, 2777, 2791, 5854 of this title.
 

@@ -42,14 +42,6 @@ Pub. L. 89–652, §2(2), Oct. 14, 1966, 80 Stat. 902, added item 1406.
 
 1958—Pub. L. 85–422, §11(a)(1)(B), May 20, 1958, 72 Stat. 131, added item 1405.
 
-#### Cross References
-
-Length of service retirement, computation of retired pay, see section 1315 of this title.
-
-Physical disability retirement or separation, computation of retired pay, see section 1275 of this title.
-
-Transfer to inactive status list instead of separation, see section 1209 of this title.
-
 #### Chapter Referred to in Other Sections
 
 This chapter is referred to in sections 642, 1275, 1315 of this title; title 4 section 114; title 33 section 857a; title 42 section 213a.

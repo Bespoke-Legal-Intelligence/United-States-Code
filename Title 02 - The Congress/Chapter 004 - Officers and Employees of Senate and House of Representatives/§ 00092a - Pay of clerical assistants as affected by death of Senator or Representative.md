@@ -8,10 +8,6 @@ When a Senator or Member of the House of Representatives or Delegate or Resident
 
 <i>Pub. L. 98–473, title I, §123A(a), Oct. 12, 1984, 98 Stat. 1969, provided that this section shall not apply to any employee of Senate.</i>
 
-#### Cross References
-
-Pay of clerical assistants to be continued until successor of deceased or resigned Member of House is elected, see section 92b of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 92b of this title.

@@ -36,7 +36,3 @@ In subsection (a), the words “unless \* \* \* he was formerly” are substit
 
 1988—Subsec. (b). Pub. L. 100–456 struck out “the Canal Zone,” after “Puerto Rico,”.
 
-#### Cross References
-
-Adjutants general, see section 314 of Title 32, National Guard.
-

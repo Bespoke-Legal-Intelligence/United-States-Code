@@ -21,3 +21,5 @@ This subchapter is referred to in sections 329, 40117, 41709, 41714 of this titl
 - [&sect; 41740 - Joint proposals](%C2%A7%2041740%20-%20Joint%20proposals.md)
 - [&sect; 41741 - Insurance](%C2%A7%2041741%20-%20Insurance.md)
 - [&sect; 41742 - Essential air service authorization](%C2%A7%2041742%20-%20Essential%20air%20service%20authorization.md)
+- [&sect; 41743 - Airports not receiving sufficient service](%C2%A7%2041743%20-%20Airports%20not%20receiving%20sufficient%20service.md)
+- [&sect; 41744 - Preservation of basic essential air service at single carrier dominated hub airports](%C2%A7%2041744%20-%20Preservation%20of%20basic%20essential%20air%20service%20at%20single%20carrier%20dominated%20hub%20airports.md)

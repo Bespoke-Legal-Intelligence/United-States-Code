@@ -44,7 +44,7 @@
 | [728\.](Subchapter%20B%20-%20Commissioned%20Officers/%C2%A7%2000728%20-%20Promotion%20of%20Reserve%20officers%20on%20active%20duty.md) | Promotion of Reserve officers on active duty. |
 | [729\.](Subchapter%20B%20-%20Commissioned%20Officers/%C2%A7%2000729%20-%20Promotion%3B%20recommendations%20of%20selection%20boards.md) | Promotion; recommendations of selection boards. |
 | [730\.](Subchapter%20B%20-%20Commissioned%20Officers/%C2%A7%2000730%20-%20Selection%20boards%3B%20appointment.md) | Selection boards; appointment. |
-| [731\.](Subchapter%20B%20-%20Commissioned%20Officers/%C2%A7%2000731%20-%20Placement%20in%20promotion%20zone%3B%20consideration%20for%20promotion.md) | Placement in promotion zone; consideration for promotion. |
+| [731\.](Subchapter%20B%20-%20Commissioned%20Officers/%C2%A7%2000731%20-%20Establishment%20of%20promotion%20zones%20under%20running%20mate%20system.md) | Establishment of promotion zones under running mate system. |
 | [732\.](Subchapter%20B%20-%20Commissioned%20Officers/%C2%A7%2000732%20-%20Eligibility%20for%20promotion.md) | Eligibility for promotion. |
 | [733\.](Subchapter%20B%20-%20Commissioned%20Officers/%C2%A7%2000733%20-%20Recommendation%20for%20promotion%20of%20an%20officer%20previously%20removed%20from%20an%20active%20status.md) | Recommendation for promotion of an officer previously removed from an active status. |
 | [734\.](Subchapter%20B%20-%20Commissioned%20Officers/%C2%A7%2000734%20-%20Qualifications%20for%20promotion.md) | Qualifications for promotion. |
@@ -69,6 +69,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2000—Pub. L. 106–398, §1 \[\[div. A\], title V, §502(b)(2)(B)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–100, substituted “Establishment of promotion zones under running mate system” for “Placement in promotion zone; consideration for promotion” in item 731.
 
 1985—Pub. L. 99–145, title V, §514(c)(3)(B), Nov. 8, 1985, 99 Stat. 629, substituted “rear admiral (lower half)” for “commodore” in item 743.
 

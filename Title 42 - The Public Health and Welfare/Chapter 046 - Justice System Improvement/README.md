@@ -23,6 +23,36 @@ Specific, general and delegated powers.
 
 Annual report to President and Congress.
 
+|  |  |
+| :--- | ---: |
+| [3713\.](Subchapter%20001%20%28I%29%20-%20Office%20of%20Justice%20Programs/%C2%A7%2003713%20-%20State%20grant%20program%20for%20training%20and%20prosecution%20of%20computer%20crimes.md) | State grant program for training and prosecution of computer crimes. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Use of grant amounts.
+
+(c)
+
+Assurances.
+
+(d)
+
+Matching funds.
+
+(e)
+
+Authorization of appropriations.
+
+(f)
+
+Grants to Indian tribes.
+
 #### SUBCHAPTER II—NATIONAL INSTITUTE OF JUSTICE
 
 |  |  |
@@ -650,8 +680,17 @@ Violations; fine as additional penalty.
 | [3789m.](Subchapter%20008%20%28VIII%29%20-%20Administrative%20Provisions/%C2%A7%2003789m%20-%20District%20of%20Columbia%20matching%20fund%20source.md) | District of Columbia matching fund source. |
 | [3789n.](Subchapter%20008%20%28VIII%29%20-%20Administrative%20Provisions/%C2%A7%2003789n%20-%20Limitation%20on%20civil%20justice%20matters.md) | Limitation on civil justice matters. |
 | 3789<i>o.</i> | Repealed. |
+| [3789p.](Subchapter%20008%20%28VIII%29%20-%20Administrative%20Provisions/%C2%A7%2003789p%20-%20Accountability%20and%20oversight.md) | Accountability and oversight. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Report by grant recipients.
+
+(b)
+
+Report to Congress.
 
 #### SUBCHAPTER IX—DEFINITIONS
 
@@ -1376,6 +1415,10 @@ General program purpose.
 
 Purposes for which grants may be used.
 
+(c)
+
+State coalition grants.
+
 |  |  |
 | :--- | ---: |
 | 3796gg–1. | State grants. |
@@ -1449,7 +1492,7 @@ Medical costs.
 
 |  |  |
 | :--- | ---: |
-| 3796gg–5. | Filing costs for criminal charges. |
+| 3796gg–5. | Costs for criminal charges and protection orders. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1461,11 +1504,67 @@ In general.
 
 Redistribution.
 
-#### SUBCHAPTER XII–I—GRANTS TO ENCOURAGE ARREST POLICIES
+(c)
+
+Definition.
 
 |  |  |
 | :--- | ---: |
-| [3796hh.](Subchapter%20012%E2%80%93I%20%28XII%E2%80%93I%29%20-%20Grants%20to%20Encourage%20Arrest%20Policies/%C2%A7%2003796hh%20-%20Grants.md) | Grants. |
+| 3796gg–6. | Legal assistance for victims. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Definitions.
+
+(c)
+
+Legal assistance for victims grants.
+
+(d)
+
+Eligibility.
+
+(e)
+
+Evaluation.
+
+(f)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| 3796gg–7. | Education and training to end violence against and abuse of women with disabilities. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Priorities.
+
+(c)
+
+Uses of grants.
+
+(d)
+
+Authorization of appropriations.
+
+#### SUBCHAPTER XII–I—GRANTS TO ENCOURAGE ARREST POLICIES AND ENFORCEMENT OF PROTECTION ORDERS
+
+|  |  |
+| :--- | ---: |
+| [3796hh.](Subchapter%20012%E2%80%93I%20%28XII%E2%80%93I%29%20-%20Grants%20to%20Encourage%20Arrest%20Policies%20and%20Enforcement%20of%20Protection%20Orders/%C2%A7%2003796hh%20-%20Grants.md) | Grants. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1481,6 +1580,14 @@ Grant authority.
 
 Eligibility.
 
+(d)
+
+Definition.
+
+(e)
+
+Allotment for Indian tribes.
+
 |  |  |
 | :--- | ---: |
 | 3796hh–1. | Applications. |
@@ -1495,6 +1602,10 @@ Application.
 
 Priority.
 
+(c)
+
+Dissemination of information.
+
 |  |  |
 | :--- | ---: |
 | 3796hh–2. | Reports. |
@@ -1503,13 +1614,53 @@ Priority.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER XII–J—DRUG COURTS
+#### SUBCHAPTER XII–J—MENTAL HEALTH COURTS
 
-|  |
-| :--- |
-| 3796ii to 3796ii–8. Repealed. |
+|  |  |
+| :--- | ---: |
+| [3796ii.](Subchapter%20012%E2%80%93J%20%28XII%E2%80%93J%29%20-%20Mental%20Health%20Courts/%C2%A7%2003796ii%20-%20Grant%20authority.md) | Grant authority. |
+| 3796ii–1. | Definitions. |
+| 3796ii–2. | Administration. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Consultation.
+
+(b)
+
+Use of components.
+
+(c)
+
+Regulatory authority.
+
+(d)
+
+Applications.
+
+|  |  |
+| :--- | ---: |
+| 3796ii–3. | Applications. |
+| 3796ii–4. | Federal share. |
+| 3796ii–5. | Geographic distribution. |
+| 3796ii–6. | Report. |
+| 3796ii–7. | Technical assistance, training, and evaluation. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Technical assistance and training.
+
+(b)
+
+Evaluations.
+
+(c)
+
+Administration.
 
 #### SUBCHAPTER XII–K—FAMILY SUPPORT
 
@@ -1679,6 +1830,10 @@ Regulations.
 
 Eligibility.
 
+(d)
+
+Applications in conjunction with purchases.
+
 |  |  |
 | :--- | ---: |
 | 3796<i>ll</i>–2. | Definitions. |
@@ -1733,6 +1888,128 @@ State criminal justice council as the State planning agency for carrying out pre
 
 Construction project funding for additional two years.
 
+#### SUBCHAPTER XIV—MATCHING GRANT PROGRAM FOR SCHOOL SECURITY
+
+|  |  |
+| :--- | ---: |
+| [3797a.](Subchapter%20014%20%28XIV%29%20-%20Matching%20Grant%20Program%20for%20School%20Security/%C2%A7%2003797a%20-%20Program%20authorized.md) | Program authorized. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Uses of funds.
+
+(c)
+
+Preferential consideration.
+
+(d)
+
+Matching funds.
+
+(e)
+
+Equitable distribution.
+
+(f)
+
+Administrative costs.
+
+|  |  |
+| :--- | ---: |
+| [3797b.](Subchapter%20014%20%28XIV%29%20-%20Matching%20Grant%20Program%20for%20School%20Security/%C2%A7%2003797b%20-%20Applications.md) | Applications. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Guidelines.
+
+|  |  |
+| :--- | ---: |
+| [3797c.](Subchapter%20014%20%28XIV%29%20-%20Matching%20Grant%20Program%20for%20School%20Security/%C2%A7%2003797c%20-%20Annual%20report%20to%20Congress.md) | Annual report to Congress. |
+| [3797d.](Subchapter%20014%20%28XIV%29%20-%20Matching%20Grant%20Program%20for%20School%20Security/%C2%A7%2003797d%20-%20Definitions.md) | Definitions. |
+| [3797e.](Subchapter%20014%20%28XIV%29%20-%20Matching%20Grant%20Program%20for%20School%20Security/%C2%A7%2003797e%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER XV—PAUL COVERDELL FORENSIC SCIENCES IMPROVEMENT GRANTS
+
+|  |  |
+| :--- | ---: |
+| [3797j.](Subchapter%20015%20%28XV%29%20-%20Paul%20Coverdell%20Forensic%20Sciences%20Improvement%20Grants/%C2%A7%2003797j%20-%20Grant%20authorization.md) | Grant authorization. |
+| [3797k.](Subchapter%20015%20%28XV%29%20-%20Paul%20Coverdell%20Forensic%20Sciences%20Improvement%20Grants/%C2%A7%2003797k%20-%20Applications.md) | Applications. |
+| 3797<i>l.</i> | Allocation. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+State defined.
+
+|  |  |
+| :--- | ---: |
+| [3797m.](Subchapter%20015%20%28XV%29%20-%20Paul%20Coverdell%20Forensic%20Sciences%20Improvement%20Grants/%C2%A7%2003797m%20-%20Use%20of%20grants.md) | Use of grants. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Permitted categories of funding.
+
+(c)
+
+Facilities costs.
+
+(d)
+
+Administrative costs.
+
+|  |  |
+| :--- | ---: |
+| [3797n.](Subchapter%20015%20%28XV%29%20-%20Paul%20Coverdell%20Forensic%20Sciences%20Improvement%20Grants/%C2%A7%2003797n%20-%20Administrative%20provisions.md) | Administrative provisions. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Regulations.
+
+(b)
+
+Expenditure records.
+
+|  |  |
+| :--- | ---: |
+| 3797<i>o.</i> | Reports. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Reports to Attorney General.
+
+(b)
+
+Reports to Congress.
+
 #### Codification
 
 Title I of the Omnibus Crime Control and Safe Streets Act of 1968, comprising this chapter, was originally enacted by Pub. L. 90–351, June 19, 1968, 82 Stat. 197, and amended by Pub. L. 91–644, Jan. 2, 1971, 84 Stat. 1880; Pub. L. 93–83, Aug. 6, 1973, 87 Stat. 197; Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109; Pub. L. 94–237, Mar. 19, 1976, 90 Stat. 241; Pub. L. 94–273, Apr. 21, 1976, 90 Stat. 375; Pub. L. 94–430, Sept. 29, 1976, 90 Stat. 1346; Pub. L. 94–503, Oct. 15, 1976, 90 Stat. 2407; Pub. L. 95–115, Oct. 3, 1977, 91 Stat. 1048. Such title is shown herein, however, as having been added by Pub. L. 96–157, Dec. 27, 1979, 93 Stat. 1167, without reference to such intervening amendments because of the extensive revision of the title's provisions by Pub. L. 96–157.
@@ -1767,9 +2044,11 @@ This chapter is referred to in sections 5119b, 10501 of this title.
 - [Subchapter 012&#8211;F (XII&#8211;F) - Certain Punishment for Young Offenders](Subchapter%20012%E2%80%93F%20%28XII%E2%80%93F%29%20-%20Certain%20Punishment%20for%20Young%20Offenders/README.md)
 - [Subchapter 012&#8211;G (XII&#8211;G) - Residential Substance Abuse Treatment for State Prisoners](Subchapter%20012%E2%80%93G%20%28XII%E2%80%93G%29%20-%20Residential%20Substance%20Abuse%20Treatment%20for%20State%20Prisoners/README.md)
 - [Subchapter 012&#8211;H (XII&#8211;H) - Grants to Combat Violent Crimes Against Women](Subchapter%20012%E2%80%93H%20%28XII%E2%80%93H%29%20-%20Grants%20to%20Combat%20Violent%20Crimes%20Against%20Women/README.md)
-- [Subchapter 012&#8211;I (XII&#8211;I) - Grants to Encourage Arrest Policies](Subchapter%20012%E2%80%93I%20%28XII%E2%80%93I%29%20-%20Grants%20to%20Encourage%20Arrest%20Policies/README.md)
-- [Subchapter 012&#8211;J (XII&#8211;J) - Drug Courts](Subchapter%20012%E2%80%93J%20%28XII%E2%80%93J%29%20-%20Drug%20Courts/README.md)
+- [Subchapter 012&#8211;I (XII&#8211;I) - Grants to Encourage Arrest Policies and Enforcement of Protection Orders](Subchapter%20012%E2%80%93I%20%28XII%E2%80%93I%29%20-%20Grants%20to%20Encourage%20Arrest%20Policies%20and%20Enforcement%20of%20Protection%20Orders/README.md)
+- [Subchapter 012&#8211;J (XII&#8211;J) - Mental Health Courts](Subchapter%20012%E2%80%93J%20%28XII%E2%80%93J%29%20-%20Mental%20Health%20Courts/README.md)
 - [Subchapter 012&#8211;K (XII&#8211;K) - Family Support](Subchapter%20012%E2%80%93K%20%28XII%E2%80%93K%29%20-%20Family%20Support/README.md)
 - [Subchapter 012&#8211;L (XII&#8211;L) - DNA Identification Grants](Subchapter%20012%E2%80%93L%20%28XII%E2%80%93L%29%20-%20DNA%20Identification%20Grants/README.md)
 - [Subchapter 012&#8211;M (XII&#8211;M) - Matching Grant Program for Law Enforcement Armor Vests](Subchapter%20012%E2%80%93M%20%28XII%E2%80%93M%29%20-%20Matching%20Grant%20Program%20for%20Law%20Enforcement%20Armor%20Vests/README.md)
 - [Subchapter 013 (XIII) - Transition; Effective Date; Repealer](Subchapter%20013%20%28XIII%29%20-%20Transition%3B%20Effective%20Date%3B%20Repealer/README.md)
+- [Subchapter 014 (XIV) - Matching Grant Program for School Security](Subchapter%20014%20%28XIV%29%20-%20Matching%20Grant%20Program%20for%20School%20Security/README.md)
+- [Subchapter 015 (XV) - Paul Coverdell Forensic Sciences Improvement Grants](Subchapter%20015%20%28XV%29%20-%20Paul%20Coverdell%20Forensic%20Sciences%20Improvement%20Grants/README.md)

@@ -10,6 +10,9 @@
 | [3406\.](%C2%A7%2003406%20-%20Plan%20review.md) | Plan review. |
 | [3407\.](%C2%A7%2003407%20-%20Plan%20approval.md) | Plan approval. |
 | [3408\.](%C2%A7%2003408%20-%20Job%20creation%20activities%20authorized.md) | Job creation activities authorized. |
+| (a) | In general. |
+| (b) | Job creation opportunities. |
+| (c) | Limitation. |
 | [3409\.](%C2%A7%2003409%20-%20Private%20sector%20training%20placements.md) | Private sector training placements. |
 | [3410\.](%C2%A7%2003410%20-%20Federal%20responsibilities.md) | Federal responsibilities. |
 | (a) | Responsibilities of Department of the Interior. |

@@ -34,7 +34,7 @@
 
 (2)(A) Notwithstanding any other provision of this section, an individual may not be selected for the FBI–DEA Senior Executive Service unless such individual is a career employee in the civil service.
 
-(B) For the purpose of subparagraph (A), “career employee in the civil service” shall have such meaning as the Attorney General, in consultation with the Director of the Office of Personnel Management, by regulation prescribes.
+(B) For the purpose of subparagraph (A), “career employee in the civil service” shall havesuch meaning as the Attorney General, in consultation with the Director of the Office of Personnel Management, by regulation prescribes.
 
 (c) The President, based on the recommendations of the Attorney General, may award ranks to members of the FBI–DEA Senior Executive Service in a manner consistent with the provisions of section 4507.
 

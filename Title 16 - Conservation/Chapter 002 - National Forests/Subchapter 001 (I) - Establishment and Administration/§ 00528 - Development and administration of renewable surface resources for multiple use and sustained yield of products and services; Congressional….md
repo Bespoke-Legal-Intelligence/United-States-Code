@@ -112,7 +112,7 @@ Use of special account.—The Secretary may make expenditures from the special a
 
 #### Act Referred to in Other Sections
 
-The Multiple-Use Sustained-Yield Act of 1960 is referred to in sections 472a, 670h, 1133, 1600, 1602, 1604, 1607 of this title; title 30 section 1272.
+The Multiple-Use Sustained-Yield Act of 1960 is referred to in sections 472a, 670h, 698v–1, 1133, 1600, 1602, 1604, 1607 of this title; title 30 section 1272.
 
 #### Section Referred to in Other Sections
 

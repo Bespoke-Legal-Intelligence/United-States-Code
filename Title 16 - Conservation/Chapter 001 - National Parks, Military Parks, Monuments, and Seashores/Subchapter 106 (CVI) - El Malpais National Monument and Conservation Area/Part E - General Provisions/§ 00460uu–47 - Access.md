@@ -2,7 +2,7 @@
 
 #### (a) Nonexclusive access by Indians for cultural and religious purposes
 
-In recognition of the past use of portions of the monument and the conservation area by Indian people for traditional cultural and religious purposes, the Secretary shall assure nonexclusive access to the monument and the conservation area by Indian people for traditional cultural and religious purposes, including the harvesting of pine nuts. Such access shall be consistent with the purpose and intent of the American Indian Religious Freedom Act of August 11, 1978 (42 U.S.C. 1996), and (with respect to areas designated as wilderness) the Wilderness Act (78 Stat. 890) \[16 U.S.C. 1131 et seq.\].
+In recognition of the past use of portions of the monument and the conservation area by Indian people for traditional cultural and religious purposes, the Secretary shall assure nonexclusive access to the monument and the conservation area by Indian people for traditional cultural and religious purposes, including the harvesting of pine nuts. Such access shall be consistent with the purpose and intent of the American Indian Religious Freedom Act of August 11, 1978 (42 U.S.C. 1996 \[, 1996a\]), and (with respect to areas designated as wilderness) the Wilderness Act (78 Stat. 890) \[16 U.S.C. 1131 et seq.\].
 
 #### (b) Recommendations from Indian leaders regarding access and protection of cultural and religious sites
 
@@ -16,7 +16,7 @@ In preparing the plans for the monument and the conservation area pursuant to se
 
 #### (c) Temporary closure to public of lands for protection of religious activities
 
-In order to implement this section and in furtherance of the American Indian Religious Freedom Act \[42 U.S.C. 1996\], the Secretary, upon the request of an appropriate Indian tribe, may from time to time temporarily close to general public use one or more specific portions of the monument or the conservation area in order to protect the privacy of religious activities in such areas by Indian people. Any such closure shall be made so as to affect the smallest practicable area for the minimum period necessary for such purposes. Not later than seven days after the initiation of any such closure, the Secretary shall provide written notification of such action to the Energy and Natural Resources Committee of the United States Senate and the Natural Resources Committee of the House of Representatives.
+In order to implement this section and in furtherance of the American Indian Religious Freedom Act \[42 U.S.C. 1996, 1996a\], the Secretary, upon the request of an appropriate Indian tribe, may from time to time temporarily close to general public use one or more specific portions of the monument or the conservation area in order to protect the privacy of religious activities in such areas by Indian people. Any such closure shall be made so as to affect the smallest practicable area for the minimum period necessary for such purposes. Not later than seven days after the initiation of any such closure, the Secretary shall provide written notification of such action to the Energy and Natural Resources Committee of the United States Senate and the Natural Resources Committee of the House of Representatives.
 
 #### (d) Advisory committee; membership
 
@@ -25,6 +25,8 @@ The Secretary is authorized to establish an advisory committee to advise the Sec
 (Pub. L. 100–225, title V, §507, Dec. 31, 1987, 101 Stat. 1548; Pub. L. 103–437, §6(d)(19), Nov. 2, 1994, 108 Stat. 4584.)
 
 #### References in Text
+
+The American Indian Religious Freedom Act, referred to in subsecs. (a) and (c), is Pub. L. 95–341, Aug. 11, 1978, 92 Stat. 469, as amended, which is classified to sections 1996 and 1996a of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1996 of Title 42 and Tables.
 
 The Wilderness Act, referred to in subsec. (a), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of this title and Tables.
 

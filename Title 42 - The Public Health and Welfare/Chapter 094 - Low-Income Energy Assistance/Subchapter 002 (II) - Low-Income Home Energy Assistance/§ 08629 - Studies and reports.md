@@ -50,7 +50,11 @@ Amendment by Pub. L. 99–425 effective Oct. 1, 1986, see section 1001 of Pub. L
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–558 applicable to data collected and compiled after Oct. 30, 1984, and this sectionas in effect before Oct. 30, 1984, applicable with respect to the report submitted under this section for fiscal year 1984, see section 609(d) of Pub. L. 98–558, set out as a note under section 8621 of this title.
+Amendment by Pub. L. 98–558 applicable to data collected and compiled after Oct. 30, 1984, and this section as in effect before Oct. 30, 1984, applicable with respect to the report submitted under this section for fiscal year 1984, see section 609(d) of Pub. L. 98–558, set out as a note under section 8621 of this title.
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the 12th item on page 93 identifies a reporting provision which, as amended, is contained in subsec. (b) of this section), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 
 #### Section Referred to in Other Sections
 

@@ -36,7 +36,7 @@ There is hereby created in the executive branch of the Government an independent
 
 &emsp;(C) analyze options, establish priorities, and recommend roles for participants in the national strategy;
 
-&emsp;(D) assess the roles for government and national laboratories and other laboratories supported largely for government purposes in contributing to the semiconductor technology base of the Nation, as well as to access the effective use of the resources of United States private industry, United States universities, and private-public research and development efforts; and
+&emsp;(D) assess the roles for government and national laboratories and other laboratories supported largely for government purposes in contributing to the semiconductor technologybase of the Nation, as well as to access the effective use of the resources of United States private industry, United States universities, and private-public research and development efforts; and
 
 &emsp;(E) provide results and recommendations to agencies of the Federal Government involved in legislative, policymaking, administrative, management, planning, and technology activities that affect or are part of a national semiconductor strategy, and to the industry and other nongovernmental groups or organizations affected by or contributing to that strategy.
 
@@ -83,6 +83,10 @@ Section was enacted as part of the Technology Competitiveness Act and as part of
 #### Amendments
 
 1992—Subsec. (f). Pub. L. 102–245 substituted “1990, 1991, 1992, and 1993” for “and 1990”.
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (e)(5) of this section relating to submitting annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 178 of House Document No. 103–7.
 
 #### Termination of Advisory Committees
 

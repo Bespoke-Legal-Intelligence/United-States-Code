@@ -100,7 +100,7 @@
 | (f) | Continuation of level of funding for NARL. |
 | [3148\.](Subchapter%20003%20%28III%29%20-%20Federal%20North%20Slope%20Lands%20Studies%2C%20Oil%20and%20Gas%20Leasing%20Program%20and%20Mineral%20Assessments/%C2%A7%2003148%20-%20Oil%20and%20gas%20leasing%20program%20for%20non-North%20Slope%20Federal%20lands.md) | Oil and gas leasing program for non-North Slope Federal lands. |
 | (a) | Establishment; restrictions. |
-| (b) | Study of oil and gas potential and impact of development and production; permits; consultations; State studies; reports to Congress. |
+| (b) | Study of oil and gas potential and impact of development and production; permits; consultations; State studies. |
 | (c) | Repealed. |
 | (d) | Issuance of leases; competitive bidding. |
 | (e) | Repealed. |
@@ -115,7 +115,7 @@
 | [3150\.](Subchapter%20003%20%28III%29%20-%20Federal%20North%20Slope%20Lands%20Studies%2C%20Oil%20and%20Gas%20Leasing%20Program%20and%20Mineral%20Assessments/%C2%A7%2003150%20-%20Alaska%20mineral%20resource%20assessment%20program.md) | Alaska mineral resource assessment program. |
 | (a) | Mineral assessments. |
 | (b) | Regulations. |
-| [3151\.](Subchapter%20003%20%28III%29%20-%20Federal%20North%20Slope%20Lands%20Studies%2C%20Oil%20and%20Gas%20Leasing%20Program%20and%20Mineral%20Assessments/%C2%A7%2003151%20-%20Annual%20report%20by%20President%20to%20Congress%20on%20minerals%20in%20Alaska.md) | Annual report by President to Congress on minerals in Alaska. |
+| [3151\.](Subchapter%20003%20%28III%29%20-%20Federal%20North%20Slope%20Lands%20Studies%2C%20Oil%20and%20Gas%20Leasing%20Program%20and%20Mineral%20Assessments/%C2%A7%2003151%20-%20Omitted.md) | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -145,7 +145,7 @@
 | (c) | Pipeline rights-of-way. |
 | [3168\.](Subchapter%20004%20%28IV%29%20-%20Transportation%20and%20Utility%20Systems%20in%20and%20Across%2C%20and%20Access%20into%2C%20Conservation%20System%20Units/%C2%A7%2003168%20-%20Injunctive%20relief.md) | Injunctive relief. |
 | [3169\.](Subchapter%20004%20%28IV%29%20-%20Transportation%20and%20Utility%20Systems%20in%20and%20Across%2C%20and%20Access%20into%2C%20Conservation%20System%20Units/%C2%A7%2003169%20-%20Valid%20existing%20right%20of%20access.md) | Valid existing right of access. |
-| 3170\. | Special access and access to inholdings. |
+| [3170\.](Subchapter%20004%20%28IV%29%20-%20Transportation%20and%20Utility%20Systems%20in%20and%20Across%2C%20and%20Access%20into%2C%20Conservation%20System%20Units/%C2%A7%2003170%20-%20Special%20access%20and%20access%20to%20inholdings.md) | Special access and access to inholdings. |
 | (a) | Use of snowmachines, motorboats, airplanes, nonmotorized surface transportation, etc. for traditional activities and for travel. |
 | (b) | Right of access to State or private owner or occupier. |
 | [3171\.](Subchapter%20004%20%28IV%29%20-%20Transportation%20and%20Utility%20Systems%20in%20and%20Across%2C%20and%20Access%20into%2C%20Conservation%20System%20Units/%C2%A7%2003171%20-%20Temporary%20access.md) | Temporary access. |

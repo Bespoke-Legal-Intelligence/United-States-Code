@@ -2,7 +2,7 @@
 
 #### (a) Purpose
 
-It is the purpose of this section to encourage and support job training programs, and jobplacement programs, that provide services to incarcerated persons or ex-offenders.
+It is the purpose of this section to encourage and support job training programs, and job placement programs, that provide services to incarcerated persons or ex-offenders.
 
 #### (b) Definitions
 

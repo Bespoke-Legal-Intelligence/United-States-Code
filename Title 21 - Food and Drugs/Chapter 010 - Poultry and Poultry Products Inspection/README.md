@@ -68,7 +68,7 @@
 | (b) | Enforcement proceedings; detainer authority of representatives of Secretary of Health and Human Services. |
 | [468\.](%C2%A7%2000468%20-%20Cost%20of%20inspection%3B%20overtime.md) | Cost of inspection; overtime. |
 | [469\.](%C2%A7%2000469%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-| [470\.](%C2%A7%2000470%20-%20Reports%20to%20Congress.md) | Reports to Congress. |
+| [470\.](%C2%A7%2000470%20-%20Omitted.md) | Omitted. |
 | [471\.](%C2%A7%2000471%20-%20Safe%20Meat%20and%20Poultry%20Inspection%20Panel.md) | Safe Meat and Poultry Inspection Panel. |
 | (a) | Review and evaluation. |
 | (b) | Reports. |
@@ -109,5 +109,5 @@ This chapter is referred to in sections 321, 679a of this title; title 7 section
 - [&sect; 00467f - Federal Food, Drug, and Cosmetic Act applications](%C2%A7%2000467f%20-%20Federal%20Food%2C%20Drug%2C%20and%20Cosmetic%20Act%20applications.md)
 - [&sect; 00468 - Cost of inspection; overtime](%C2%A7%2000468%20-%20Cost%20of%20inspection%3B%20overtime.md)
 - [&sect; 00469 - Authorization of appropriations](%C2%A7%2000469%20-%20Authorization%20of%20appropriations.md)
-- [&sect; 00470 - Reports to Congress](%C2%A7%2000470%20-%20Reports%20to%20Congress.md)
+- [&sect; 00470 - Omitted](%C2%A7%2000470%20-%20Omitted.md)
 - [&sect; 00471 - Safe Meat and Poultry Inspection Panel](%C2%A7%2000471%20-%20Safe%20Meat%20and%20Poultry%20Inspection%20Panel.md)

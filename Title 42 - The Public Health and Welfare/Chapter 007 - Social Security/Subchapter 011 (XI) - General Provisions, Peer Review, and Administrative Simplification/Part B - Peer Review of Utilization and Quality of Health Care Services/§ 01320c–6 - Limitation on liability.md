@@ -36,5 +36,5 @@ A prior section 1320c–6, act Aug. 14, 1935, ch. 531, title XI, §1157, as adde
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1320a–7c, 1320c–9, 1395rr, 1395ddd of this title.
+This section is referred to in sections 1320a–7c, 1320c–9, 1395cc–2, 1395rr, 1395ddd of this title.
 

@@ -1,6 +1,6 @@
 ### §1715. Firearms as nonmailable; regulations
 
-Pistols, revolvers, and other firearms capable of being concealed on the person are nonmailable and shall not be deposited in or carried by the mails or delivered by any officer or employee of the Postal Service. Such articles maybe conveyed in the mails, under such regulations as the Postal Service shall prescribe, for use in connection with their official duty, to officers of the Army, Navy, Air Force, Coast Guard, Marine Corps, or Organized Reserve Corps; to officers of the National Guard or Militia of a State, Territory, Commonwealth, Possession, or District; to officers of the United States or of a State, Territory, Commonwealth, Possession, or District whose official duty is to serve warrants of arrest or commitments; to employees of the Postal Service; to officers and employees of enforcement agencies of the United States; and to watchmen engaged in guarding the property of the United States, a State, Territory, Commonwealth, Possession, or District. Such articles also may be conveyed in the mails to manufacturers of firearms or bona fide dealers therein in customary trade shipments, including such articles for repairs or replacement of parts, from one to the other, under such regulations as the Postal Service shall prescribe.
+Pistols, revolvers, and other firearms capable of being concealed on the person are nonmailable and shall not be deposited in or carried by the mails or delivered by any officer or employee of the Postal Service. Such articles may be conveyed in the mails, under such regulations as the Postal Service shall prescribe, for use in connection with their official duty, to officers of the Army, Navy, Air Force, Coast Guard, Marine Corps, or Organized Reserve Corps; to officers of the National Guard or Militia of a State, Territory, Commonwealth, Possession, or District; to officers of the United States or of a State, Territory, Commonwealth, Possession, or District whose official duty is to serve warrants of arrest or commitments; to employees of the Postal Service; to officers and employees of enforcement agencies of the United States; and to watchmen engaged in guarding the property of the United States, a State, Territory, Commonwealth, Possession, or District. Such articles also may be conveyed in the mails to manufacturers of firearms or bona fide dealers therein in customary trade shipments, including such articles for repairs or replacement of parts, from one to the other, under such regulations as the Postal Service shall prescribe.
 
 Whoever knowingly deposits for mailing or delivery, or knowingly causes to be delivered by mail according to the direction thereon, or at any place to which it is directed to be delivered by the person to whom it is addressed, any pistol, revolver, or firearm declared nonmailable by this section, shall be fined under this title or imprisoned not more than two years, or both.
 
@@ -33,14 +33,6 @@ This section \[section 40\] inserts “Air Force,” in section 1715 of title 18
 #### Effective Date of 1970 Amendment
 
 Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by Board of Governors of United States Postal Service and published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
-
-#### Cross References
-
-Firearms provisions of sections 921 to 928 of this title as not modifying or affecting this section, see Modification of Other Laws note set out under section 921 of this title.
-
-Firearms shipments or transportation by licensed importers, licensed manufacturers, and licensed dealers for use in connection with official duties not unlawful when conveyed in the mails, see section 922 of this title.
-
-Seizure and disposition of nonmailable matter, see section 3001 et. seq. of Title 39, Postal Service.
 
 #### Section Referred to in Other Sections
 

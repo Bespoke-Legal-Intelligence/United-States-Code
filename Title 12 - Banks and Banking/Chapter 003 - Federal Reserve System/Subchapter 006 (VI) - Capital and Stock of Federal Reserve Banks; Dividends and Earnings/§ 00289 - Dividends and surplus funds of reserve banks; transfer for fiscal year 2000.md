@@ -20,7 +20,7 @@
 
 #### (1) In general
 
-&emsp;The Federal reserve banks shall transfer from the surplus funds of such banks to theBoard of Governors of the Federal Reserve System for transfer to the Secretary of the Treasury for deposit in the general fund of the Treasury, a total amount of $3,752,000,000 in fiscal year 2000.
+&emsp;The Federal reserve banks shall transfer from the surplus funds of such banks to the Board of Governors of the Federal Reserve System for transfer to the Secretary of the Treasury for deposit in the general fund of the Treasury, a total amount of $3,752,000,000 in fiscal year 2000.
 
 #### (2) Allocated by Fed
 

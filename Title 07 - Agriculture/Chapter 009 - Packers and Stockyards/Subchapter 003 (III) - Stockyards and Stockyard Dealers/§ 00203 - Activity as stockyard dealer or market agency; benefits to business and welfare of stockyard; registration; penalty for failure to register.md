@@ -10,11 +10,3 @@ After the expiration of thirty days after the Secretary has given public notice 
 
 1958—Pub. L. 85–909 inserted “Every other person operating as a market agency or dealer as defined in section 201 of this title may be required to register in such manner as the Secretary may prescribe.”
 
-#### Federal Rules of Civil Procedure
-
-One form of action, see rule 2, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-#### Cross References
-
-Jurisdiction of district of action for penalty, see section 1355 of Title 28, Judiciary and Judicial Procedure.
-

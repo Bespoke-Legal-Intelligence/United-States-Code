@@ -12,11 +12,13 @@ R.S. §1797, as amended by act Apr. 28, 1902, gave the charge of public building
 
 #### Transfer of Functions
 
-Functions with respect to the operation, maintenance, and custody of office buildings owned by Government and of office or parts thereof acquired by lease, including those post-office buildings which, as determined by Director of Bureau of the Budget, are not used predominantly for post-office purposes, with certain exceptions, transferred from respective agencies in which theretofore vested to Administrator of General Services by section 2 of Reorg. Plan No. 18 of 1950, set out as a note under section 490 of this title. For delegation of those transferred functions to other personnel of General Services Administration, or to heads and personnel of other agencies, and for transfer of personnel, property, records, and funds, see sections 3 and 4 of that Plan.
+Functions with respect to the operation, maintenance, and custody of office buildings owned by Government and of office or parts thereof acquired by lease, including those post-office buildings which, as determined by Director of Bureau of the Budget, are not used predominantly for post-office purposes, with certain exceptions, transferred from respective agencies in which theretofore vested to Administrator of General Services by section 2 of Reorg. Plan No. 18 of 1950, set out as a note under section 490 of this title. For delegation of those transferred functions to other personnel of General Services Administration, or toheads and personnel of other agencies, and for transfer of personnel, property, records, and funds, see sections 3 and 4 of that Plan.
+
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
 Functions of Federal Works Agency and of all agencies thereof, together with functions of Federal Works Administrator transferred to Administrator of General Services by section 103(a) of act June 30, 1949, which is classified to section 753(a) of this title. Federal Works Agency and office of Federal Works Administrator abolished by section 103(b) of that act.
 
-Functions of Director of National Park Service relating to public buildings transferred to Federal Works Administrator by section 303(b) of Reorg. Plan No. I of 1939, set out in the Appendix to Title 5, Government Organization and Employees. Sections 301 and 303 of that Plan also transferred Public Buildings Branch of Procurement Division in Treasury Department, to Public Buildings Administration, at head of which was Commissioner of Public Buildings who acted under direction and supervision of Federal Works Administrator.
+Branch of Buildings Management of National Park Service in Department of the Interior and its functions and personnel, except those relating to monuments and memorials, and certain functions of National Park Service in connection with public buildings in District of Columbia, together with personnel engaged exclusively in such functions, transferred to Public Buildings Administration, and functions of Secretary of the Interior and Director of National Park Service relating thereto transferred to Federal Works Administrator by Reorg. Plan No. I of 1939, §§301, 303, eff. July 1, 1939, 4 F.R. 2729, 53 Stat. 1427, set out in the Appendix to Title 5, Government Organization and Employees.
 
 Office of Public Buildings and Public Parks of National Capital abolished and functions thereof transferred to Office of National Parks, Buildings and Reservations of Department of the Interior by Ex. Ord. No. 6166, set out as a note under section 901 of Title 5. Name of Office of National Parks, Buildings and Reservations changed to “National Park Service” by act Mar. 2, 1934.
 
@@ -29,18 +31,4 @@ Transfer of functions by act June 30, 1949, effective July 1, 1949, see section 
 #### Transfer of Title of Wholly Owned Government Corporations’ Buildings; Control and Allotment of Space
 
 Act July 30, 1947, ch. 358, title III, §306, 61 Stat. 584, provided in part: “Title to all office buildings at the seat of government, which are owned by wholly owned Government corporations, and all right, title, or interest of such corporations in the land upon which such buildings are located are hereby transferred to the United States, and the Secretary of the Treasury is authorized and directed to discharge the indebtedness to the Treasury of any corporation holding such rights, title, or interests in any such land or building to the value thereof as determined by the Secretary of the Treasury as of the date of transfer: Provided, That in case of disagreement on the part of the head of the Corporation with respect to said value as determined, the Administrator of the Federal Works Agency shall make a final determination of the property value. Hereafter, such buildings shall be controlled and managed in the same manner as prescribed in the Act of March 1, 1919, as amended (former section 1 of this title).”
-
-#### Cross References
-
-Draping of public buildings in mourning, see section 286 of this title.
-
-Improper use of streets, see section 66 of this title.
-
-Lease of building space by wholly owned Government corporations, and rental, see section 129 of this title.
-
-Operation of buildings and related activities by Administrator of General Services, general powers and duties, see section 490 of this title.
-
-Use of buildings for public ceremonies, see section 31 of this title.
-
-Vending stands for blind in Federal buildings, see section 107 et seq. of Title 20, Education.
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-(1) The Commission shall prescribe labeling rules under this section applicable to all coveredproducts of each of the types specified in paragraphs (1), (2), (4), (6), and (8) through (12) of section 6292(a) of this title, except to the extent that, with respect to any such type (or class thereof), the Commission determines under the second sentence of subsection (b)(5) of this section that labeling in accordance with this section is not technologically or economically feasible.
+(1) The Commission shall prescribe labeling rules under this section applicable to all covered products of each of the types specified in paragraphs (1), (2), (4), (6), and (8) through (12) of section 6292(a) of this title, except to the extent that, with respect to any such type (or class thereof), the Commission determines under the second sentence of subsection (b)(5) of this section that labeling in accordance with this section is not technologically or economically feasible.
 
 (2)(A) The Commission shall prescribe labeling rules under this section applicable to all covered products of each of the types specified in paragraphs (3), (5), and (7) of section 6292(a) of this title, except to the extent that with respect to any such type (or class thereof), the Commission determines under the second sentence of subsection (b)(5) of this section that labeling in accordance with this section is not technologically or economically feasible or is not likely to assist consumers in making purchasing decisions.
 
@@ -16,7 +16,7 @@
 
 (ii) If the marking and labeling requirements of ASME A112.18.1M–1989 are revised at any time and approved by ANSI, the Commission shall amend the labeling rules established pursuant to clause (i) to be consistent with such revised ASME/ANSI requirements unless such requirements are inconsistent with the purposes of this chapter or the requirement specified in clause (i) requiring each showerhead and flow restricting or controlling spout-end device to bear a permanent legible marking indicating the flow rate of such product.
 
-(E)(i) Not later than one year after October 24, 1992, the Commission shall prescribe labeling rules under this section for water closets and urinals to which standards are applicable under subsection (k) of section 6295 of this title. Such rules shall provide that the labeling of any water closet or urinal manufactured after the 12-month period beginning on the date of the publication of such rule shall be consistent with the marking and labeling requirements of ASME A112.19.2M–1990, except that each fixture (and flushometer valve associated with such fixture) shall bear a permanent legible marking indicating the water use, expressed in gallons per flush (gpf), and the water use value shall be the actual water use or the maximum water use specified by the standards established in subsection (k) of section 6295 of this title.
+(E)(i) Not later than one year after October 24, 1992, the Commission shall prescribe labeling rules under this section for water closets and urinals to which standards are applicable under subsection (k) of section 6295 of this title. Such rules shall provide that the labeling of any water closet or urinal manufactured after the 12-month period beginning on the date of thepublication of such rule shall be consistent with the marking and labeling requirements of ASME A112.19.2M–1990, except that each fixture (and flushometer valve associated with such fixture) shall bear a permanent legible marking indicating the water use, expressed in gallons per flush (gpf), and the water use value shall be the actual water use or the maximum water use specified by the standards established in subsection (k) of section 6295 of this title.
 
 (ii) If the marking and labeling requirements of ASME A112.19.2M–1990 are revised at any time and approved by ANSI, the Commission shall amend the labeling rules established pursuant to clause (i) to be consistent with such revised ASME/ANSI requirements unless such requirements are inconsistent with the purposes of this chapter or the requirement specified in clause (i) requiring each fixture and flushometer valve to bear a permanent legible marking indicating the water use of such fixture or flushometer valve.
 
@@ -72,7 +72,7 @@
 
 (3) A rule under this section shall require that the label be displayed in a manner that the Commission determines is likely to assist consumers in making purchasing decisions and is appropriate to carry out this part. The Commission may permit a tag to be used in lieu of a label in any case in which the Commission finds that a tag will carry out the purposes for which the label was intended.
 
-(4) A rule under this section applicable to a covered product may require disclosure, in any printed matter displayed or distributed at thepoint of sale of such product, of any information which may be required under this section to be disclosed on the label of such product. Requirements under this paragraph shall not apply to any broadcast advertisement or any advertisement in any newspaper, magazine, or other periodical.
+(4) A rule under this section applicable to a covered product may require disclosure, in any printed matter displayed or distributed at the point of sale of such product, of any information which may be required under this section to be disclosed on the label of such product. Requirements under this paragraph shall not apply to any broadcast advertisement or any advertisement in any newspaper, magazine, or other periodical.
 
 (5) The Commission may require that a manufacturer of a covered product to which a rule under this section applies—
 
@@ -112,7 +112,7 @@ The Secretary and the Commission shall consult with each other on a continuing b
 
 Until such time as labeling rules under this section take effect with respect to a type or class of covered product, this section shall not affect any authority of the Commission under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\] to require labeling with respect to energy consumption of such type or class of covered product.
 
-(Pub. L. 94–163, title III, §324, Dec. 22, 1975, 89 Stat. 920; Pub. L. 95–619, title IV, §425(b), (c), title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3265, 3288; Pub. L. 100–12, §11(a)(1), (b)(2), Mar. 17, 1987, 101 Stat. 124, 125; Pub. L. 100–357, §2(d), June 28, 1988, 102 Stat. 672; Pub. L. 102–486, title I, §123(e), Oct. 24, 1992, 106 Stat. 2822; Pub. L. 105–388, §5(a)(4), Nov. 13, 1998, 112 Stat. 3478.)
+(Pub. L. 94–163, title III, §324, Dec. 22, 1975, 89 Stat. 920; Pub. L. 95–619, title IV, §425(b), (c), title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3265, 3288; Pub. L. 100–12, §11(a)(1), (b)(2), Mar. 17, 1987, 101 Stat. 124, 125; Pub. L. 100–357, §2(d), June 28,1988, 102 Stat. 672; Pub. L. 102–486, title I, §123(e), Oct. 24, 1992, 106 Stat. 2822; Pub. L. 105–388, §5(a)(4), Nov. 13, 1998, 112 Stat. 3478.)
 
 #### References in Text
 

@@ -10,7 +10,3 @@ Tract E. The southwest quarter of the northwest quarter of section 4, which shal
 
 (Dec. 21, 1943, ch. 372, §2, 57 Stat. 606.)
 
-#### Cross References
-
-Electric power development permits, see note set out under section 45a–1 of this title.
-

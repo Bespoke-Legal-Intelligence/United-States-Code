@@ -12,7 +12,7 @@ For purposes of this subchapter, the following definitions shall apply:
 
 #### (3) Insurance licensee
 
-&emsp;The term “insurance licensee” means any person holding a license under State law to act as insurance agent, subagent, broker, or consultant.
+&emsp;The term “insurance licensee” means any person holding a license under State law toact as insurance agent, subagent, broker, or consultant.
 
 #### (4) Institution
 

@@ -6,5 +6,5 @@ If, with respect to the issue, sale, or guaranty of a security, or assumption of
 
 #### References in Text
 
-The Public Utility Holding Company Act of 1935, referred to in text, is act Aug. 26, 1935, ch. 687, title I, 49 Stat. 838, as amended, which is classified generally tochapter 2C (§79 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 79 of Title 15 and Tables.
+The Public Utility Holding Company Act of 1935, referred to in text, is act Aug. 26, 1935, ch. 687, title I, 49 Stat. 838, as amended, which is classified generally to chapter 2C (§79 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 79 of Title 15 and Tables.
 

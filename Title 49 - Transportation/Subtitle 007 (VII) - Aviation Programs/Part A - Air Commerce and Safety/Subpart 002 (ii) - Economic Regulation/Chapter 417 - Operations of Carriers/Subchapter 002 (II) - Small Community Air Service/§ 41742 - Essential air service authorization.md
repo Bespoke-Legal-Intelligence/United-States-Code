@@ -2,7 +2,15 @@
 
 (a)
 
-In General.—Out of the amounts received by the Federal Aviation Administration credited to the account established under section 45303 of this title or otherwise provided to the Administration, the sum of $50,000,000 is authorized and shall be made available immediately for obligation and expenditure to carry out the essential air service program under this subchapter for each fiscal year.
+In General.—
+
+&emsp;(1)
+
+Authorization.—Out of the amounts received by the Federal Aviation Administration credited to the account established under section 45303 of this title or otherwise provided to the Administration, the sum of $50,000,000 is authorized and shall be made available immediately for obligation and expenditure to carry out the essential air service program under this subchapter for each fiscal year.
+
+&emsp;(2)
+
+Additional funds.—In addition to amounts authorized under paragraph (1), there is authorized to be appropriated $15,000,000 for each fiscal year to carry out the essential air service program under this subchapter.
 
 (b)
 
@@ -12,7 +20,7 @@ Funding for Small Community Air Service.—Notwithstanding any other provision o
 
 Special Rule for Fiscal Year 1997.—Notwithstanding subsections (a) and (b), in fiscal year 1997, amounts in excess of $75,000,000 that are collected in fees pursuant to section 45301(a)(1) of this title shall be available for the essential air service program under this subchapter, in addition to amounts specifically provided for in appropriations Acts.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1152; Pub. L. 104–264, title II, §278(c), Oct. 9, 1996, 110 Stat. 3249.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1152; Pub. L. 104–264, title II, §278(c), Oct. 9, 1996, 110 Stat. 3249; Pub. L. 106–181, title II, §209(a), Apr. 5, 2000, 114 Stat. 95.)
 
 Historical and Revision Notes
 
@@ -36,7 +44,13 @@ Section 47114 of this title, referred to in subsec. (b), does not contain a subs
 
 #### Amendments
 
+2000—Subsec. (a). Pub. L. 106–181 designated existing provisions as par. (1), inserted heading, realigned margins, and added par. (2).
+
 1996—Pub. L. 104–264 amended section generally, substituting provisions relating to essential air service authorization for provisions stating that this subchapter was not effective after Sept. 30, 1998.
+
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -71,4 +85,6 @@ Section 278(b) of Pub. L. 104–264 provided that: “Congress finds that—
 #### Section Referred to in Other Sections
 
 This section is referred to in section 41110 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

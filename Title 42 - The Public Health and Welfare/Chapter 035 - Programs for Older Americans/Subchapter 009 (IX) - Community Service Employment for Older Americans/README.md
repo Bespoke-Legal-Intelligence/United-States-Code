@@ -1,5 +1,9 @@
 ### SUBCHAPTER IX—COMMUNITY SERVICE EMPLOYMENT FOR OLDER AMERICANS
 
+#### Codification
+
+Title V of the Older Americans Act of 1965, comprising this subchapter, was originally enacted as title IX of Pub. L. 89–73 by Pub. L. 94–135, title I, §113(a), Nov. 28, 1975, 89 Stat. 720, and was renumbered title V and amended by Pub. L. 95–478, title I, §105, title V, §503(d), Oct. 18, 1978, 92 Stat. 1547, 1559; Pub. L. 97–115, Dec. 29, 1981, 95 Stat. 1595; Pub. L. 98–459, Oct. 9, 1984, 98 Stat. 1767; Pub. L. 100–175, Nov. 29, 1987, 101 Stat. 926; Pub. L. 100–628, Nov. 7, 1988, 102 Stat. 3224; Pub. L. 102–375, Sept. 30, 1992, 106 Stat. 1195; Pub. L. 103–171, Dec. 2, 1993, 107 Stat. 1988; Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936; Pub. L. 105–277, div. A, §101(f) \[title VIII, §§403(b), 405(d)(33), (f)(25)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–416, 2681–425, 2681–433; Pub. L. 105–332, Oct. 31, 1998, 112 Stat. 3076. Title V is shown herein, however, as having been added by Pub. L. 106–501, title V, §501, Nov. 13, 2000, 114 Stat. 2267, without reference to intervening amendments because of the extensive revision of the title's provisions by Pub. L. 106–501.
+
 #### Subchapter Referred to in Other Sections
 
 This subchapter is referred to in sections 1474, 3002, 3011, 3013, 4368a, 6873 of this title; title 20 section 9271; title 29 sections 1604, 1605, 1735, 2822, 2841.
@@ -9,13 +13,18 @@ This subchapter is referred to in sections 1474, 3002, 3011, 3013, 4368a, 6873 o
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 03056 - Older American Community Service Employment Program](%C2%A7%2003056%20-%20Older%20American%20Community%20Service%20Employment%20Program.md)
-- [&sect; 03056a - Administration of community service projects](%C2%A7%2003056a%20-%20Administration%20of%20community%20service%20projects.md)
-- [&sect; 03056b - Participants without status of Federal employees; contractual requirement of workmen's compensation](%C2%A7%2003056b%20-%20Participants%20without%20status%20of%20Federal%20employees%3B%20contractual%20requirement%20of%20workmen%27s%20compensation.md)
+- [&sect; 03056 - Older American community service employment program](%C2%A7%2003056%20-%20Older%20American%20community%20service%20employment%20program.md)
+- [&sect; 03056a - Administration](%C2%A7%2003056a%20-%20Administration.md)
+- [&sect; 03056b - Participants not Federal employees](%C2%A7%2003056b%20-%20Participants%20not%20Federal%20employees.md)
 - [&sect; 03056c - Interagency cooperation](%C2%A7%2003056c%20-%20Interagency%20cooperation.md)
-- [&sect; 03056d - National grants or contracts and State allotments for projects](%C2%A7%2003056d%20-%20National%20grants%20or%20contracts%20and%20State%20allotments%20for%20projects.md)
-- [&sect; 03056e - Definitions](%C2%A7%2003056e%20-%20Definitions.md)
-- [&sect; 03056f - Authorization of appropriations](%C2%A7%2003056f%20-%20Authorization%20of%20appropriations.md)
+- [&sect; 03056d - Distribution of assistance](%C2%A7%2003056d%20-%20Distribution%20of%20assistance.md)
+- [&sect; 03056e - Equitable distribution](%C2%A7%2003056e%20-%20Equitable%20distribution.md)
+- [&sect; 03056f - Report](%C2%A7%2003056f%20-%20Report.md)
 - [&sect; 03056g - Employment assistance and Federal housing and food stamp programs](%C2%A7%2003056g%20-%20Employment%20assistance%20and%20Federal%20housing%20and%20food%20stamp%20programs.md)
-- [&sect; 03056h - Dual eligibility](%C2%A7%2003056h%20-%20Dual%20eligibility.md)
+- [&sect; 03056h - Eligibility for workforce investment activities](%C2%A7%2003056h%20-%20Eligibility%20for%20workforce%20investment%20activities.md)
 - [&sect; 03056i - Treatment of assistance](%C2%A7%2003056i%20-%20Treatment%20of%20assistance.md)
+- [&sect; 03056j - Coordination with the Workforce Investment Act of 1998](%C2%A7%2003056j%20-%20Coordination%20with%20the%20Workforce%20Investment%20Act%20of%201998.md)
+- [&sect; 03056k - Performance](%C2%A7%2003056k%20-%20Performance.md)
+- [&sect; 03056l - Competitive requirements relating to grant awards](%C2%A7%2003056l%20-%20Competitive%20requirements%20relating%20to%20grant%20awards.md)
+- [&sect; 03056m - Authorization of appropriations](%C2%A7%2003056m%20-%20Authorization%20of%20appropriations.md)
+- [&sect; 03056n - Definitions](%C2%A7%2003056n%20-%20Definitions.md)

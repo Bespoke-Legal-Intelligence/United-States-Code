@@ -34,7 +34,7 @@ Activities for which assistance may be provided under this section are activitie
 
 #### (d) Sources of assistance
 
-(1) Funds provided as assistance under this section for any fiscal year shall be derived from amounts made available to the Department ofDefense for that fiscal year. Funds provided as assistance under this section for a fiscal year may also be derived from balances in working capital accounts of the Department of Defense.
+(1) Funds provided as assistance under this section for any fiscal year shall be derived from amounts made available to the Department of Defense for that fiscal year. Funds provided as assistance under this section for a fiscal year may also be derived from balances in working capital accounts of the Department of Defense.
 
 (2) Supplies and equipment provided as assistance under this section may be provided, by loan or donation, from existing stocks of the Department of Defense and the Department of Energy.
 
@@ -62,15 +62,17 @@ Activities for which assistance may be provided under this section are activitie
 
 #### (f) Termination of authority
 
-The authority of the Secretary of Defense to provide assistance under this section terminates at the close of fiscal year 2000.
+The authority of the Secretary of Defense to provide assistance under this section terminates at the close of fiscal year 2001.
 
-(Pub. L. 102–484, div. A, title XV, §1505, Oct. 23, 1992, 106 Stat. 2569; Pub. L. 103–160, div. A, title XI, §1182(c)(5), title XVI, §1602, Nov. 30, 1993, 107 Stat. 1772, 1843; Pub. L. 103–337, div. A, title X, §1070(c)(1), title XV, §1501, Oct. 5, 1994, 108 Stat. 2857, 2914; Pub. L. 104–106, div. A, title XIV, §1403, title XV, §1502(c)(2)(B), Feb. 10, 1996, 110 Stat. 489, 507; Pub. L. 104–201, div. A, title XIII, §1301, Sept. 23, 1996, 110 Stat. 2700; Pub. L. 105–85, div. A, title XIII, §1308, Nov. 18, 1997, 111 Stat. 1956; Pub. L. 105–261, div. A, title XV, §1531(b), Oct. 17, 1998, 112 Stat. 2180; Pub. L. 106–65, div. A, title X, §1067(8), title XV, §1505(b), (c), Oct. 5, 1999, 113 Stat. 774, 808.)
+(Pub. L. 102–484, div. A, title XV, §1505, Oct. 23, 1992, 106 Stat. 2569; Pub. L. 103–160, div. A, title XI, §1182(c)(5), title XVI, §1602, Nov. 30, 1993, 107 Stat. 1772, 1843; Pub. L. 103–337, div. A, title X, §1070(c)(1), title XV, §1501, Oct. 5, 1994, 108 Stat. 2857, 2914; Pub. L. 104–106, div. A, title XIV, §1403, title XV, §1502(c)(2)(B), Feb. 10, 1996, 110 Stat. 489, 507; Pub. L. 104–201, div. A, title XIII, §1301, Sept. 23, 1996, 110 Stat. 2700; Pub. L. 105–85, div. A, title XIII, §1308, Nov. 18, 1997, 111 Stat. 1956; Pub. L. 105–261, div. A, title XV, §1531(b), Oct. 17, 1998, 112 Stat. 2180; Pub. L. 106–65, div. A, title X, §1067(8), title XV, §1505(b), (c), Oct. 5, 1999, 113 Stat. 774, 808; Pub. L. 106–398, §1 \[\[div. A\], title XII, §1201(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–324.)
 
 #### Codification
 
 Section was enacted as part of the Weapons of Mass Destruction Control Act of 1992 and also as part of the National Defense Authorization Act for Fiscal Year 1993, and not as part of the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992 or Freedom Support Act which comprises this chapter.
 
 #### Amendments
+
+2000—Subsec. (f). Pub. L. 106–398 substituted “2001” for “2000”.
 
 1999—Subsec. (b)(2). Pub. L. 106–65, §1505(c)(1), inserted “(or any successor organization)” after “United Nations Special Commission on Iraq”.
 
@@ -122,7 +124,7 @@ Subsec. (d)(3). Pub. L. 103–337, §1501(c)(2), inserted “for fiscal year 199
 
 Subsec. (e)(1). Pub. L. 103–337, §1501(a), substituted “fiscal years 1994 and 1995” for “fiscal year 1994”.
 
-Subsec. (e)(2). Pub. L. 103–337, §1070(c)(1), which directed amendment of subsec. (e)(2) by striking out “and under subsection (d)(4) of this section” effective as of Oct. 23, 1992, and as if included in the National Defense Authorization Act for Fiscal Year 1993 (Pub. L. 102–484), as enacted, was executed to subsec. (e)(2) as amended by Pub. L. 103–160, §1182(c)(5), to reflect the probable intent of Congress. See 1993 Amendment note below.
+Subsec. (e)(2). Pub. L. 103–337, §1070(c)(1), which directed amendment of subsec. (e)(2) by striking out “andunder subsection (d)(4) of this section” effective as of Oct. 23, 1992, and as if included in the National Defense Authorization Act for Fiscal Year 1993 (Pub. L. 102–484), as enacted, was executed to subsec. (e)(2) as amended by Pub. L. 103–160, §1182(c)(5), to reflect the probable intent of Congress. See 1993 Amendment note below.
 
 1993—Subsecs. (a), (d)(1). Pub. L. 103–160, §1602(a), substituted “fiscal year 1994” for “fiscal year 1993”.
 
@@ -139,6 +141,10 @@ Subsec. (d)(4). Pub. L. 103–160, §1602(c), struck out par. (4) which read as 
 Subsec. (e)(1). Pub. L. 103–160, §1602(a), substituted “fiscal year 1994” for “fiscal year 1993”.
 
 Subsec. (e)(2). Pub. L. 103–160, §1182(c)(5), substituted “(d)(4)” for “(d)(2)” in introductory provisions.
+
+#### Change of Name
+
+Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Effective Date of 1994 Amendment
 

@@ -28,7 +28,7 @@ Historical and Revision Notes
 
 June 30, 1882, ch. 254 (last 21 words of 3d proviso under “Pay Department”), 22 Stat. 118.
 
-In subsection (a), the words “except as provided in section 3786 of this title” are inserted, since, under thatrevised section, when board proceedings are pending against a commissioned officer, his right to retire under this revised section, which is otherwise absolute, is discretionary with the Secretary under that revised section.
+In subsection (a), the words “except as provided in section 3786 of this title” are inserted, since, under that revised section, when board proceedings are pending against a commissioned officer, his right to retire under this revised section, which is otherwise absolute, is discretionary with the Secretary under that revised section.
 
 In subsections (a) and (b), the words “or volunteer service, or both” are omitted as obsolete in accordance with an opinion of the Attorney General, 22 Ops. Atty. Gen. 199, August 30, 1898, holding that such words refer to volunteer service in the Civil War. The words “upon his request” are substituted for the words “if he make application therefor to the President”.
 

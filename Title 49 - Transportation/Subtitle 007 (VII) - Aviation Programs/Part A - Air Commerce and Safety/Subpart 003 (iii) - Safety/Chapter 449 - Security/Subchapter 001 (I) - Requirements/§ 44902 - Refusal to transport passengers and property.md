@@ -14,7 +14,7 @@ Permissive Refusal.—Subject to regulations of the Administrator, an air carrie
 
 (c)
 
-Agreeing to Consent to Search.—An agreement to carry passengers or property in airtransportation or intrastate air transportation by an air carrier, intrastate air carrier, or foreign air carrier is deemed to include an agreement that the passenger or property will not be carried if consent to search the passenger or property for a purpose referred to in this section is not given.
+Agreeing to Consent to Search.—An agreement to carry passengers or property in air transportation or intrastate air transportation by an air carrier, intrastate air carrier, or foreign air carrier is deemed to include an agreement that the passenger or property will not be carried if consent to search the passenger or property for a purpose referred to in this section is not given.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1204.)
 
@@ -54,5 +54,5 @@ In subsection (c), the words “for compensation or hire” are omitted because 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 106, 46301, 46316 of this title.
+This section is referred to in sections 46301, 46316 of this title.
 

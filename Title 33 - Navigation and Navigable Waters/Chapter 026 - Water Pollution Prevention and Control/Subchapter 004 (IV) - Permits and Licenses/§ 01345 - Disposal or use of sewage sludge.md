@@ -54,7 +54,7 @@ Each State desiring to administer its own permit program for disposal of sewage 
 
 #### (D) Minimum standards; compliance date
 
-&emsp;&emsp;The management practices and numerical criteria established under subparagraphs (A), (B), and (C) shall be adequate to protect public health and the environment from any reasonably anticipated adverse effects of each pollutant. Such regulations shall require compliance as expeditiously as practicable but in no case later than 12 months after their publication, unless such regulations require the construction of new pollution control facilities, in which case the regulations shall require compliance as expeditiously as practicable but in no case later than two years from the date of their publication.
+&emsp;&emsp;The management practices and numerical criteria established under subparagraphs (A), (B), and (C) shall be adequate to protect public health and the environment from anyreasonably anticipated adverse effects of each pollutant. Such regulations shall require compliance as expeditiously as practicable but in no case later than 12 months after their publication, unless such regulations require the construction of new pollution control facilities, in which case the regulations shall require compliance as expeditiously as practicable but in no case later than two years from the date of their publication.
 
 #### (3) Alternative standards
 
@@ -96,7 +96,7 @@ The determination of the manner of disposal or use of sludge is a local determin
 
 #### References in Text
 
-The Solid Waste Disposal Act, referred to in subsec. (f)(1), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795. Subtitle C of the Solid Waste Disposal Act is classified generally to subchapter III (§6921 et seq.) of chapter 82 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of Title 42 and Tables.
+The Solid Waste Disposal Act, referred to in subsec. (f)(1), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat.997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795. Subtitle C of the Solid Waste Disposal Act is classified generally to subchapter III (§6921 et seq.) of chapter 82 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of Title 42 and Tables.
 
 The Safe Drinking Water Act, referred to in subsec. (f)(1), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1660, as amended. Part C of the Act is classified generally to part C (§300h et seq.) of subchapter XII of chapter 6A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
@@ -118,7 +118,7 @@ Subsecs. (f), (g). Pub. L. 100–4, §406(c), added subsecs. (f) and (g).
 
 Subsec. (b). Pub. L. 95–217, §§54(d)(1), 68(b), (c), substituted “sewage sludge subject to subsection (a) of this section and section 1342 of this title” for “sewage sludge subject to this section” and struck out “, as the Administrator determines necessary to carry out the objective of this chapter” after “permit issued under section 1342 of this title”.
 
-Subsec. (c). Pub. L. 95–217, §§54(d)(2), 68(d), substituted “disposal of sewage sludge subject to subsection (a) of this section within its jurisdiction may do so in accordance with section 1342 of this title” for “disposal of sewage sludge within its jurisdiction maydo so if upon submission of such program the Administrator determines such program is adequate to carry out the objective of this chapter”.
+Subsec. (c). Pub. L. 95–217, §§54(d)(2), 68(d), substituted “disposal of sewage sludge subject to subsection (a) of this section within its jurisdiction may do so in accordance with section 1342 of this title” for “disposal of sewage sludge within its jurisdiction may do so if upon submission of such program the Administrator determines such program is adequate to carry out the objective of this chapter”.
 
 Subsecs. (d), (e). Pub. L. 95–217, §54(d)(3), added subsecs. (d) and (e).
 

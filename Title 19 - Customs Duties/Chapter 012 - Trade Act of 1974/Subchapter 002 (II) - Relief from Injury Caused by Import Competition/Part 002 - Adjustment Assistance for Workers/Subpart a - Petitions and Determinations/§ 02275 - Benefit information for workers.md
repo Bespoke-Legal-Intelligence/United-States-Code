@@ -12,10 +12,6 @@
 
 (Pub. L. 93–618, title II, §225, as added Pub. L. 97–35, title XXV, §2502, Aug. 13, 1981, 95 Stat. 881; amended Pub. L. 100–418, title I, §1422, Aug. 23, 1988, 102 Stat. 1244; Pub. L. 103–182, title V, §503(b), Dec. 8, 1993, 107 Stat. 2151.)
 
-#### Termination of Section
-
-<i>For termination of section by section 285 of Pub. L. 93–618, see Termination Date note set out preceding section 2271 of this title.</i>
-
 #### Amendments
 
 1993—Subsec. (b). Pub. L. 103–182 inserted reference to subpart D in pars. (1) and (2).
@@ -33,4 +29,8 @@ Amendment by Pub. L. 100–418 effective on date that is 30 days after Aug. 23, 
 #### Effective Date and Transition Provisions
 
 Section effective Aug. 13, 1981, with transition provisions applicable, see section 2514 of Pub. L. 97–35, set out as an Effective Date of 1981 Amendment note under section 2291 of this title.
+
+#### Termination Date
+
+No assistance, vouchers, allowances, or other payments may be provided under subparts A to C of this part after Sept. 30, 2001, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
 

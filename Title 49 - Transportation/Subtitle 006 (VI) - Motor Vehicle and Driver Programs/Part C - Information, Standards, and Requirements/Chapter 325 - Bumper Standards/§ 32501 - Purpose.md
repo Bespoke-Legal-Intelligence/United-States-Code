@@ -1,6 +1,6 @@
 ### §32501. Purpose
 
-The purpose of this chapter is to reduce economic loss resulting from damage to passenger motor vehicles involved in motor vehicle accidents by providing for the maintenance and enforcement of bumper standards.
+The purpose of this chapter is to reduce economic loss resulting from damage to passengermotor vehicles involved in motor vehicle accidents by providing for the maintenance and enforcement of bumper standards.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1042.)
 

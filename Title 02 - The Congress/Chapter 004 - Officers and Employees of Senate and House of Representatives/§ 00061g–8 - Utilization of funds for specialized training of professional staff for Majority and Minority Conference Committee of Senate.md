@@ -10,7 +10,7 @@ Section is from the Congressional Operations Appropriations Act, 1991, which is 
 
 #### Prior Provisions
 
-Provisions relating to utilization of funds for specific fiscal year for specialized training of professional stafffor Majority and Minority Conference Committee of Senate were contained in the following prior appropriation acts:
+Provisions relating to utilization of funds for specific fiscal year for specialized training of professional staff for Majority and Minority Conference Committee of Senate were contained in the following prior appropriation acts:
 
 Pub. L. 101–163, title I, §2, Nov. 21, 1989, 103 Stat. 1044.
 

@@ -6,5 +6,5 @@ No commitment for the calendar year 1955 or thereafter, with respect to contribu
 
 #### Codification
 
-Section was enacted as a part of section 101 of the Mutual Security Appropriation Act, 1955. No other partof section 101 of the Mutual Security Appropriation Act, 1955, was classified to the Code.
+Section was enacted as a part of section 101 of the Mutual Security Appropriation Act, 1955. No other part of section 101 of the Mutual Security Appropriation Act, 1955, was classified to the Code.
 

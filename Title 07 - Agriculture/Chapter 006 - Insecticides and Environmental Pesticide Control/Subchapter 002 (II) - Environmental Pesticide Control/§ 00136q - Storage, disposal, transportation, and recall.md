@@ -80,13 +80,13 @@
 
 &emsp;Within a reasonable period of time after such storage costs are incurred and paid by the registrant, the Administrator shall reimburse the registrant, on request, for—
 
-&emsp;&emsp;(A) none of the costs incurred by the registrant before the date of submission of the plan referred to in paragraph (1) to the Administrator;
+&emsp;&emsp;(A) none of the costs incurred by the registrant before the date of submission of theplan referred to in paragraph (1) to the Administrator;
 
 &emsp;&emsp;(B) 100 percent of the costs incurred by the registrant after the date of submission of the plan to the Administrator or the date of cancellation of the registration of the pesticide, whichever is later, but before the approval of the plan by the Administrator;
 
 &emsp;&emsp;(C) 50 percent of the costs incurred by the registrant during the 1-year period beginning on the date of the approval of the plan by the Administrator or the date of cancellation of the registration of the pesticide, whichever is later;
 
-&emsp;&emsp;(D) none of the costs incurred by the registrant during the 3-year period beginning onthe 366th day following approval of the plan by the Administrator or the date of cancellation of the registration of the pesticide, whichever is later; and
+&emsp;&emsp;(D) none of the costs incurred by the registrant during the 3-year period beginning on the 366th day following approval of the plan by the Administrator or the date of cancellation of the registration of the pesticide, whichever is later; and
 
 &emsp;&emsp;(E) 25 percent of the costs incurred by the registrant during the period beginning on the first day of the 5th year following the date of the approval of the plan by the Administrator or the date of cancellation of the registration of the pesticide, whichever is later, and ending on the date that a disposal permit for the pesticide is issued by a State or an alternative plan for disposal of the pesticide in accordance with applicable law has been developed.
 
@@ -174,7 +174,7 @@
 
 #### (2) Report
 
-&emsp;Not later than 2 years after the effective date of this subsection, the Administratorshall submit to Congress a report describing the results of the study required under paragraph (1).
+&emsp;Not later than 2 years after the effective date of this subsection, the Administrator shall submit to Congress a report describing the results of the study required under paragraph (1).
 
 #### (h) Relationship to Solid Waste Disposal Act
 

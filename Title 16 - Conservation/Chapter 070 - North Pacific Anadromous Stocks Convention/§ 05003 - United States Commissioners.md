@@ -2,7 +2,7 @@
 
 #### (a) Commissioners
 
-The United States shall be represented on the Commission by not more than three UnitedStates Commissioners to be appointed by and serve at the pleasure of the President. Each United States Commissioner shall be appointed for a term of office not to exceed 4 years, but is eligible for reappointment. Of the Commissioners—
+The United States shall be represented on the Commission by not more than three United States Commissioners to be appointed by and serve at the pleasure of the President. Each United States Commissioner shall be appointed for a term of office not to exceed 4 years, but is eligible for reappointment. Individuals serving as such Commissioners shall not be considered to be Federal employees while performing such service, except for purposes of injury compensation or tort claims liability as provided in chapter 81 of title 5 and chapter 171 of title 28. Of the Commissioners—
 
 &emsp;(1) one shall be an official of the United States Government;
 
@@ -24,9 +24,13 @@ The United States Section, in consultation with the Advisory Panel established i
 
 United States Commissioners and Alternate United States Commissioners shall receive no compensation for their services as Commissioners and Alternate Commissioners.
 
-(Pub. L. 102–567, title VIII, §804, Oct. 29, 1992, 106 Stat. 4310; Pub. L. 102–587, title VIII, §8004, Nov. 4, 1992, 106 Stat. 5099.)
+(Pub. L. 102–567, title VIII, §804, Oct. 29, 1992, 106 Stat. 4310; Pub. L. 102–587, title VIII, §8004, Nov. 4, 1992, 106 Stat. 5099; Pub. L. 106–562, title III, §304, Dec. 23, 2000, 114 Stat. 2806.)
 
 #### Codification
 
-Pub. L. 102–567 and Pub. L. 102–587 enacted identical sections.
+Title VIII of Pub. L. 102–567 and Pub. L. 102–587 enacted identical sections. Title VIII of Pub. L. 102–587 was repealed by Pub. L. 106–562.
+
+#### Amendments
+
+2000—Subsec. (a). Pub. L. 106–562, §304(b), inserted after second sentence “Individuals serving as such Commissioners shall not be considered to be Federal employees while performing such service, except for purposes of injury compensation or tort claims liability as provided in chapter 81 of title 5 and chapter 171 of title 28.”
 

@@ -27,10 +27,23 @@
 |  |  |
 | :--- | ---: |
 | [115\.](%C2%A7%2000115%20-%20Limitation%20on%20State%20authority%20to%20tax%20compensation%20paid%20to%20individuals%20performing%20services%20at%20Fort%20Campbell%2C%20Kentucky.md) | Limitation on State authority to tax compensation paid to individuals performing services at Fort Campbell, Kentucky. |
+| [116\.](%C2%A7%2000116%20-%20Rules%20for%20determining%20State%20and%20local%20government%20treatment%20of%20charges%20related%20to%20mobile%20telecommunications%20services.md) | Rules for determining State and local government treatment of charges related to mobile telecommunications services. |
+| [117\.](%C2%A7%2000117%20-%20Sourcing%20rules.md) | Sourcing rules. |
+| [118\.](%C2%A7%2000118%20-%20Limitations.md) | Limitations. |
+| [119\.](%C2%A7%2000119%20-%20Electronic%20databases%20for%20nationwide%20standard%20numeric%20jurisdictional%20codes.md) | Electronic databases for nationwide standard numeric jurisdictional codes. |
+| [120\.](%C2%A7%2000120%20-%20Procedure%20if%20no%20electronic%20database%20provided.md) | Procedure if no electronic database provided. |
+| [121\.](%C2%A7%2000121%20-%20Correction%20of%20erroneous%20data%20for%20place%20of%20primary%20use.md) | Correction of erroneous data for place of primary use. |
+| [122\.](%C2%A7%2000122%20-%20Determination%20of%20place%20of%20primary%20use.md) | Determination of place of primary use. |
+| [123\.](%C2%A7%2000123%20-%20Scope%3B%20special%20rules.md) | Scope; special rules. |
+| [124\.](%C2%A7%2000124%20-%20Definitions.md) | Definitions. |
+| [125\.](%C2%A7%2000125%20-%20Nonseverability.md) | Nonseverability. |
+| [126\.](%C2%A7%2000126%20-%20No%20inference.md) | No inference. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2000—Pub. L. 106–252, §2(b), July 28, 2000, 114 Stat. 633, added items 116 to 126.
 
 1998—Pub. L. 105–261, div. A, title X, §1075(a)(2), Oct. 17, 1998, 112 Stat. 2138, added item 115.
 
@@ -72,3 +85,14 @@ Consent of United States to other States to assume jurisdiction with respect to 
 - [&sect; 00113 - Residence of Members of Congress for State income tax laws](%C2%A7%2000113%20-%20Residence%20of%20Members%20of%20Congress%20for%20State%20income%20tax%20laws.md)
 - [&sect; 00114 - Limitation on State income taxation of certain pension income](%C2%A7%2000114%20-%20Limitation%20on%20State%20income%20taxation%20of%20certain%20pension%20income.md)
 - [&sect; 00115 - Limitation on State authority to tax compensation paid to individuals performing services at Fort Campbell, Kentucky](%C2%A7%2000115%20-%20Limitation%20on%20State%20authority%20to%20tax%20compensation%20paid%20to%20individuals%20performing%20services%20at%20Fort%20Campbell%2C%20Kentucky.md)
+- [&sect; 00116 - Rules for determining State and local government treatment of charges related to mobile telecommunications services](%C2%A7%2000116%20-%20Rules%20for%20determining%20State%20and%20local%20government%20treatment%20of%20charges%20related%20to%20mobile%20telecommunications%20services.md)
+- [&sect; 00117 - Sourcing rules](%C2%A7%2000117%20-%20Sourcing%20rules.md)
+- [&sect; 00118 - Limitations](%C2%A7%2000118%20-%20Limitations.md)
+- [&sect; 00119 - Electronic databases for nationwide standard numeric jurisdictional codes](%C2%A7%2000119%20-%20Electronic%20databases%20for%20nationwide%20standard%20numeric%20jurisdictional%20codes.md)
+- [&sect; 00120 - Procedure if no electronic database provided](%C2%A7%2000120%20-%20Procedure%20if%20no%20electronic%20database%20provided.md)
+- [&sect; 00121 - Correction of erroneous data for place of primary use](%C2%A7%2000121%20-%20Correction%20of%20erroneous%20data%20for%20place%20of%20primary%20use.md)
+- [&sect; 00122 - Determination of place of primary use](%C2%A7%2000122%20-%20Determination%20of%20place%20of%20primary%20use.md)
+- [&sect; 00123 - Scope; special rules](%C2%A7%2000123%20-%20Scope%3B%20special%20rules.md)
+- [&sect; 00124 - Definitions](%C2%A7%2000124%20-%20Definitions.md)
+- [&sect; 00125 - Nonseverability](%C2%A7%2000125%20-%20Nonseverability.md)
+- [&sect; 00126 - No inference](%C2%A7%2000126%20-%20No%20inference.md)

@@ -8,7 +8,7 @@ The Administrator shall design and supervise a curriculum for the training progr
 
 A prior section 246 of Pub. L. 93–415 was classified to section 5657 of this title prior to repeal by Pub. L. 100–690, title VII, §7263(a)(2)(C), Nov. 18, 1988, 102 Stat. 4443.
 
-Another prior section 246 of Pub. L. 93–415 was renumbered section 245 and classified to section 5656 of this title, prior to repeal by Pub. L. 100–690, title VII, §7263(a)(2)(C), Nov. 18, 1988, 102 Stat. 4443.
+Another prior section 246 of Pub. L. 93–415 was renumbered section 245 and classified to section 5656 of thistitle, prior to repeal by Pub. L. 100–690, title VII, §7263(a)(2)(C), Nov. 18, 1988, 102 Stat. 4443.
 
 #### Amendments
 

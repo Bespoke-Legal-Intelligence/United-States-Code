@@ -28,7 +28,7 @@
 
 (3) No deduction shall be made pursuant to paragraph (1) of this subsection in the case of a person whose travel to or from a Department facility is performed by a special mode of travel for which payment under this section is authorized under subsection (b)(3) of this section.
 
-(4) The Secretary may waive the deduction requirement of paragraph (1) of this subsection in the case of the travel of any veteran for whom the imposition of the deduction would cause severe financial hardship. The Secretary shall prescribe in regulations the conditions under which a finding of severe financial hardship is warranted for purposes of this paragraph.
+(4) The Secretary may waive the deduction requirement of paragraph (1) of this subsection inthe case of the travel of any veteran for whom the imposition of the deduction would cause severe financial hardship. The Secretary shall prescribe in regulations the conditions under which a finding of severe financial hardship is warranted for purposes of this paragraph.
 
 (5) Whenever the Secretary increases or decreases the rates of allowances or reimbursement to be paid under this section, the Secretary shall, effective on the date on which such increase or decrease takes effect, adjust proportionately the dollar amounts specified in paragraphs (1) and (2) of this subsection as such amounts may have been increased or decreased pursuant to this paragraph before such date.
 
@@ -170,7 +170,7 @@ Pub. L. 96–330, title IV, §406, Aug. 26, 1980, 94 Stat. 1052, provided that: 
 
 #### Executive Order No. 10810
 
-Ex. Ord. No. 10810, Apr. 22, 1959, 24 F.R. 3179, as amended by Ex. Ord. No. 10881, July 6, 1960, 25 F.R. 6414, which prescribed regulations governing allowances, was superseded by Ex. Ord. No. 11142, Feb. 12, 1964, 29 F.R. 2479.
+Ex. Ord. No. 10810, Apr. 22, 1959, 24 F.R. 3179, as amended by Ex. Ord. No. 10881, July 6, 1960, 25 F.R. 6414,which prescribed regulations governing allowances, was superseded by Ex. Ord. No. 11142, Feb. 12, 1964, 29 F.R. 2479.
 
 #### Executive Order No. 11142
 

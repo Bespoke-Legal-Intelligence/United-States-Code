@@ -36,7 +36,7 @@ A certification under the procedures authorized by this section shall—
 
 &emsp;(D) specify that the certifying officer—
 
-&emsp;&emsp;(i) consents to assume the status of a responsible Federal official under the NationalEnvironmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] and each provision of law specified in regulations issued by the Secretary insofar as the provisions of such Act or other such provision of law apply pursuant to paragraph (1); and
+&emsp;&emsp;(i) consents to assume the status of a responsible Federal official under the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] and each provision of law specified in regulations issued by the Secretary insofar as the provisions of such Act or other such provision of law apply pursuant to paragraph (1); and
 
 &emsp;&emsp;(ii) is authorized and consents on behalf of the State or unit of general local government and himself or herself to accept the jurisdiction of the Federal courts for the purpose of enforcement of the responsibilities as such an official.
 
@@ -48,11 +48,15 @@ In cases in which a unit of general local government carries out the responsibil
 
 #### References in Text
 
-The National Environmental Policy Act of 1969, referred to in pars. (1)(A), (2), and (3)(D)(i), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of this title and Tables.
+The National Environmental Policy Act of 1969, referred to in pars. (1)(A), (2), and (3)(D)(i), is Pub. L.91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of this title and Tables.
 
 The Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1993, referred to in par. (1)(A), is Pub. L. 102–389, Oct. 6, 1992, 106 Stat. 1571. Provisions under the head “Annual Contributions for Assisted Housing” in title II of the Act appear at 106 Stat. 1582 and are not classified to the Code. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 
 Section was enacted as part of the Multifamily Housing Property Disposition Reform Act of 1994, and not as part of the Department of Housing and Urban Development Act which comprises this chapter.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 11402, 12905 of this title.
 

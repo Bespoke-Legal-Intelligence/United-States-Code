@@ -22,7 +22,7 @@ After the termination of the funds referred to in subsection (a) of this section
 
 #### References in Text
 
-Paragraphs (59) and (81) of section 1321(a) of title 31, referred to in subsec. (a)(2)(A), (B), were repealed by Pub. L. 101–510, div. A, title XV, §1533(c)(1)(A)(ii), Nov. 5, 1990, 104 Stat. 1735.
+Paragraphs (59) and (81) of section 1321(a) of title 31, referred to in subsec. (a)(2)(A), (B), were repealed byPub. L. 101–510, div. A, title XV, §1533(c)(1)(A)(ii), Nov. 5, 1990, 104 Stat. 1735.
 
 Paragraph (5) of section 1321(a) of title 31, referred to in subsec. (a)(2)(C), was amended generally by Pub. L. 101–510, div. A, title XV, §1533(c)(1)(A)(i), Nov. 5, 1990, 104 Stat. 1735, and as so amended no longer relates to personal funds of deceased inmates, Naval Home.
 

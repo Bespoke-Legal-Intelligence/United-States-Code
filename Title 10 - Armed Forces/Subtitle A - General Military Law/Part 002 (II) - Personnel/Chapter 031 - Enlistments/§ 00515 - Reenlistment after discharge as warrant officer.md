@@ -26,10 +26,6 @@ May 29, 1954, ch. 249, §§6 (last 36 words of last sentence), 15 (last 21 words
 
 The first 20 words are inserted for clarity. The word “request” is substituted for the word “application”.
 
-#### Cross References
-
-Enlistment instead of discharge of warrant officer on second failure of promotion, see section 580 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1165, 1166 of this title.

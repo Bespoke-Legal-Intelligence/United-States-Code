@@ -1,6 +1,6 @@
 ### §2901. Commission of an officer
 
-The President may make out and deliver, after adjournment of the Senate, the commission ofan officer whose appointment has been confirmed by the Senate.
+The President may make out and deliver, after adjournment of the Senate, the commission of an officer whose appointment has been confirmed by the Senate.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 411.)
 

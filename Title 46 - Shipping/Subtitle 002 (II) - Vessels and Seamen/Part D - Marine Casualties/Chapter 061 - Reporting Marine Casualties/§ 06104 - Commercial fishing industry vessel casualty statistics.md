@@ -6,7 +6,7 @@
 
 (c) After consulting with the insurance industry, the Secretary shall prescribe regulations under this section to gather a statistical base for analyzing vessel risks.
 
-(d) The Secretary may delegate to a qualified person that has knowledge and experience in thecollection of statistical insurance data the authority of the Secretary under this section to compile statistics from insurers.
+(d) The Secretary may delegate to a qualified person that has knowledge and experience in the collection of statistical insurance data the authority of the Secretary under this section to compile statistics from insurers.
 
 (Added Pub. L. 100–424, §4(a), Sept. 9, 1988, 102 Stat. 1590.)
 

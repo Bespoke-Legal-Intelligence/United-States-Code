@@ -42,10 +42,6 @@ Amendment by Pub. L. 101–650 effective 6 months after Dec. 1, 1990, see sectio
 
 Amendment by Pub. L. 100–568 effective Mar. 1, 1989, with any cause of action arising under this title before such date being governed by provisions in effect when cause of action arose, see section 13 of Pub. L. 100–568, set out as a note under section 101 of this title.
 
-#### Cross References
-
-Infringement actions, see section 501 et seq. of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 101, 412, 501 of this title.

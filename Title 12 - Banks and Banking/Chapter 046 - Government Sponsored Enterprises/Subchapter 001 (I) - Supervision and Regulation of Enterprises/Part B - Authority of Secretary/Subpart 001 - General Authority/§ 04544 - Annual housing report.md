@@ -20,7 +20,7 @@ The report shall—
 
 &emsp;&emsp;(A) the availability and liquidity of mortgage credit;
 
-&emsp;&emsp;(B) the status of efforts to provide standard credit terms and underwriting guidelines for multifamily housing and to securitize such mortgage products; and
+&emsp;&emsp;(B) the status of efforts to provide standard credit terms and underwriting guidelinesfor multifamily housing and to securitize such mortgage products; and
 
 &emsp;&emsp;(C) any factors inhibiting such standardization and securitization;
 

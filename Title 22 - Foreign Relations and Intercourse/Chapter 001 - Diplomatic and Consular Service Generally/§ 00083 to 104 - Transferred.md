@@ -10,7 +10,7 @@ Section 85, R.S. §1716, which related to exaction of excessive fees for verific
 
 Section 86, act Feb. 24, 1903, ch. 753, 32 Stat. 854, which related to destruction of old invoices, was transferred to section 4203 of this title.
 
-Section 87, R.S. §1717, which related to granting of a certificate for goods shipped from countries adjacent to the United States, was transferred to section 4204 of this title.
+Section 87, R.S. §1717, which related to granting of a certificate for goods shipped from countries adjacent tothe United States, was transferred to section 4204 of this title.
 
 Section 88, R.S. §1718, which related to retention of papers of American vessels until payment of demands and wages, was transferred to section 4205 of this title.
 

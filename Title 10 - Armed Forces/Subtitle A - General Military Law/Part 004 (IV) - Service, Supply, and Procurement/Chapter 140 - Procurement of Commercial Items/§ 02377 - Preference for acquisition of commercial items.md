@@ -40,7 +40,7 @@ Preliminary Market Research.—(1) The head of an agency shall conduct market re
 
 &emsp;(B) before soliciting bids or proposals for a contract in excess of the simplified acquisition threshold.
 
-(2) The head of an agency shall use the results of market research to determine whether there are commercial items or, to the extent that commercial items suitable to meet the agency's needs are not available, nondevelopmental items other than commercial items available that—
+(2) The head of an agency shall use the results of market research to determine whether thereare commercial items or, to the extent that commercial items suitable to meet the agency's needs are not available, nondevelopmental items other than commercial items available that—
 
 &emsp;(A) meet the agency's requirements;
 

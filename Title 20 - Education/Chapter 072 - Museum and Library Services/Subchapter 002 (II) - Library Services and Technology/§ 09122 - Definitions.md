@@ -26,7 +26,7 @@ As used in this subchapter:
 
 #### (3) Library consortium
 
-&emsp;The term “library consortium” means any local, statewide, regional, interstate, or international cooperative association of library entities which provides for the systematic and effective coordination of the resources of school, public, academic, and special libraries and information centers, for improved services for the clientele of such library entities.
+&emsp;The term “library consortium” means any local, statewide, regional, interstate, or international cooperative association of library entities which provides for the systematic and effective coordination of the resources ofschool, public, academic, and special libraries and information centers, for improved services for the clientele of such library entities.
 
 #### (4) State
 
@@ -40,7 +40,7 @@ As used in this subchapter:
 
 &emsp;The term “State plan” means the document which gives assurances that the officially designated State library administrative agency has the fiscal and legal authority and capability to administer all aspects of this subchapter, provides assurances for establishing the State's policies, priorities, criteria, and procedures necessary to the implementation of all programs under this subchapter, submits copies for approval as required by regulations promulgated by the Director, identifies a State's library needs, and sets forth the activities to be taken toward meeting the identified needs supported with the assistance of Federal funds made available under this subchapter.
 
-(Pub. L. 94–462, title II, §213, as added Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\],Sept. 30, 1996, 110 Stat. 3009–233, 3009–296; amended Pub. L. 105–128, §3, Dec. 1, 1997, 111 Stat. 2548.)
+(Pub. L. 94–462, title II, §213, as added Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–296; amended Pub. L. 105–128, §3, Dec. 1, 1997, 111 Stat. 2548.)
 
 #### References in Text
 
@@ -52,5 +52,5 @@ The Alaska Native Claims Settlement Act, referred to in par. (1), is Pub. L. 92�
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 6813 of this title.
+This section is referred to in sections 6813, 9134 of this title.
 

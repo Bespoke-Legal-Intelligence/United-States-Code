@@ -16,6 +16,8 @@
 
 The Tribally Controlled College or University Assistance Act of 1978, referred to in subsec. (a)(2), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, as amended, which is classified principally to chapter 20 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
+Section 2005(b) of this title, referred to in subsec. (a)(3), was omitted from the Code.
+
 Section 2010 of this title, referred to in subsec. (b), was in the original “section 1129”, meaning section 1129 of Pub. L. 95–561, which is classified to section 2009 of this title, and was translated as reading “section 1130” to reflect the probable intent of Congress, because section 2010, not section 2009, contains provisions relating to local financial plans.
 
 #### Prior Provisions

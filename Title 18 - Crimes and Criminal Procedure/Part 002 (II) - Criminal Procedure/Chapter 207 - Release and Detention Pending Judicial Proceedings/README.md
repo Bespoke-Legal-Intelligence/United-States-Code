@@ -40,7 +40,7 @@ Pub. L. 97–258, §2(d)(3)(A), Sept. 13, 1982, 96 Stat. 1058, added item 3150a.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 3041, 3062, 4241, 4282, 4285, 5037 of this title.
+This chapter is referred to in sections 3041, 3062, 3265, 4241, 4282, 4285, 5037 of this title.
 
 
 ---

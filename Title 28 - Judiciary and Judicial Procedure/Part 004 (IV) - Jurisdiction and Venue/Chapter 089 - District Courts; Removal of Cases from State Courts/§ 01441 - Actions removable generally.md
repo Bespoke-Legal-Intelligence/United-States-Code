@@ -6,7 +6,7 @@
 
 (c) Whenever a separate and independent claim or cause of action within the jurisdiction conferred by section 1331 of this title is joined with one or more otherwise non-removable claims or causes of action, the entire case may be removed and the district court may determine all issues therein, or, in its discretion, may remand all matters in which State law predominates.
 
-(d) Any civil action brought in a State court against a foreign state as defined in section 1603(a) of this title may be removed by the foreign state to the district court of the United States for the district and division embracing the place where such action is pending. Upon removal the action shall be tried by the court without jury. Where removal is based upon this subsection, the time limitations of section 1446(b) of this chapter may be enlarged at any time for cause shown.
+(d) Any civil action brought in a State court against a foreign state as defined in section 1603(a) of this title may be removed by the foreign state to the district court of the United States for the district and division embracing the place where such action is pending. Upon removal the action shall be tried by the court without jury. Where removal is based upon this subsection, the time limitations of section1446(b) of this chapter may be enlarged at any time for cause shown.
 
 (e) The court to which such civil action is removed is not precluded from hearing and determining any claim in such civil action because the State court from which such civil action is removed did not have jurisdiction over that claim.
 
@@ -18,7 +18,7 @@ Based on title 28, U.S.C., 1940 ed., §§71, 114 (Mar. 3, 1911, ch. 231, §§28,
 
 Section consolidates removal provisions of sections 71 and 114 of title 28, U.S.C., 1940 ed., and is intended to resolve ambiguities and conflicts of decisions.
 
-Phrases such as “in suits of a civil nature, at law or in equity,” the words “case,” “cause,” “suit,” and thelike have been omitted and the words “civil action” substituted in harmony with Rules 2 and 81(c) of the Federal Rules of Civil Procedure.
+Phrases such as “in suits of a civil nature, at law or in equity,” the words “case,” “cause,” “suit,” and the like have been omitted and the words “civil action” substituted in harmony with Rules 2 and 81(c) of the Federal Rules of Civil Procedure.
 
 Ambiguous phrases such as “the District Court of the United States for the proper district” have been clarified by the substitution of the phrase “the district and division embracing the place where such action is pending.” (See <i>General Investment Co. v. Lake Shore \& M.S. Ry. Co</i>., 1922, 43 S.Ct. 107, 112, 260 U.S. 261, 67 L.Ed. 244 and cases cited therein.)
 
@@ -36,15 +36,15 @@ The provisions of section 71 of title 28, U.S.C., 1940 ed., with respect to remo
 
 #### Amendments
 
-1991—Subsec. (c). Pub. L. 102–198 struck out comma after “title” and substituted “may” for “may may” before “remand”.
+<b>1991</b>—Subsec. (c). Pub. L. 102–198 struck out comma after “title” and substituted “may” for “may may” before “remand”.
 
-1990—Subsec. (c). Pub. L. 101–650 substituted “within the jurisdiction conferred by section 1331 of this title” for “, which would be removable if sued upon alone” and “may remand all matters in which State law predominates” for “remand all matters not otherwise within its original jurisdiction”.
+<b>1990</b>—Subsec. (c). Pub. L. 101–650 substituted “within the jurisdiction conferred by section 1331 of this title” for “, which would be removable if sued upon alone” and “may remand all matters in which State law predominates” for “remand all matters not otherwise within its original jurisdiction”.
 
-1988—Subsec. (a). Pub. L. 100–702 inserted at end “For purposes of removal under this chapter, the citizenship of defendants sued under fictitious names shall be disregarded.”
+<b>1988</b>—Subsec. (a). Pub. L. 100–702 inserted at end “For purposes of removal under this chapter, the citizenship of defendants sued under fictitious names shall be disregarded.”
 
-1986—Subsec. (e). Pub. L. 99–336 added subsec. (e).
+<b>1986</b>—Subsec. (e). Pub. L. 99–336 added subsec. (e).
 
-1976—Subsec. (d). Pub. L. 94–583 added subsec. (d).
+<b>1976</b>—Subsec. (d). Pub. L. 94–583 added subsec. (d).
 
 #### Effective Date of 1986 Amendment
 
@@ -53,30 +53,6 @@ Section 3(b) of Pub. L. 99–336 provided that: “The amendment made by this se
 #### Effective Date of 1976 Amendment
 
 Amendment by Pub. L. 94–583 effective 90 days after Oct. 21, 1976, see section 8 of Pub. L. 94–583, set out as an Effective Date note under section 1602 of this title.
-
-#### Federal Rules of Civil Procedure
-
-Application of Rules of Civil Procedure, see rule 81, Appendix to this title.
-
-#### Cross References
-
-Asian Development Bank, removal of actions against, see section 285f of Title 22, Foreign Relations and Intercourse.
-
-Citizenship of corporations for purposes of this section, see section 1332 of this title.
-
-Federal reserve banks and banking transactions, removal of actions involving, see section 632 of Title 12, Banks and Banking.
-
-Inter-American Development Bank, removal of actions against, see section 283f of Title 22, Foreign Relations and Intercourse.
-
-International Finance Corporation, removal of actions against, see section 282f of Title 22.
-
-International Monetary Fund and International Bank for Reconstruction and Development, removal of actions against, see section 286g of Title 22.
-
-International or foreign banking, removal of suits arising out of, see section 632 of Title 12, Banks and Banking.
-
-Securities Act, cases not removable, see section 77v of Title 15, Commerce and Trade.
-
-Stay of State court proceedings, see section 2283 of this title.
 
 #### Section Referred to in Other Sections
 

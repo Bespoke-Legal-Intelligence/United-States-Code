@@ -4,13 +4,13 @@
 
 &emsp;(A) each Senator, Member of the House of Representatives, and Delegate to the House of Representatives, and the Resident Commissioner from Puerto Rico,
 
-&emsp;(B) the President pro tempore of the Senate, the majority leader and the minority leader ofthe Senate, and the majority leader and the minority leader of the House of Representatives, and
+&emsp;(B) the President pro tempore of the Senate, the majority leader and the minority leader of the Senate, and the majority leader and the minority leader of the House of Representatives, and
 
 &emsp;(C) the Speaker of the House of Representatives,
 
 > shall be the rate determined for such positions under chapter 11 of this title, as adjusted by paragraph (2) of this section.
 
-(2)(A) Subject to subparagraph (B), effective at the beginning of the first applicable pay period commencing on or after the first day of the month in which an adjustment takes effect under section 5303 of title 5 in the rates of pay under the General Schedule, each annual rate referred to in paragraph (1) shall be adjusted by an amount, rounded to the nearest multiple of $100 (or if midway between multiples of $100, to the next higher multiple of $100), equal to the percentage of such annual rate which corresponds to the most recent percentage change in the ECI (relative to the date described in the next sentence), as determined under section 704(a)(1) of the Ethics Reform Act of 1989. The appropriate date under this sentence is the first day of the fiscal year in which such adjustment in the rates of pay under the General Schedule takes effect.
+(2)(A) Subject to subparagraph (B), effective at the beginning of the first applicable pay period commencing on or after the first day of the month in which an adjustment takes effect under section 5303 of title 5 in the rates of pay under the General Schedule, each annual rate referred to in paragraph (1) shall be adjusted by an amount, rounded to the nearest multiple of $100 (or if midway between multiples of $100, to the next higher multiple of $100), equal to the percentage of such annual rate which corresponds to the most recent percentage change in the ECI (relative to the date described in thenext sentence), as determined under section 704(a)(1) of the Ethics Reform Act of 1989. The appropriate date under this sentence is the first day of the fiscal year in which such adjustment in the rates of pay under the General Schedule takes effect.
 
 (B) In no event shall the percentage adjustment taking effect under subparagraph (A) in any calendar year (before rounding), in any rate of pay, exceed the percentage adjustment taking effect in such calendar year under section 5303 of title 5 in the rates of pay under the General Schedule.
 
@@ -72,7 +72,7 @@ Amendment by Pub. L. 88–426 effective at noon, Jan. 3, 1965, see section 501(b
 
 #### Effective Date of 1955 Amendment
 
-Section 5 of act Mar. 2, 1955, provided that: “The provisions of this Act \[amending this section, section 104 of Title 3, The President, section 7443 of Title 26, Internal Revenue Code, sections 5, 44, 135, 173, 213, 252, and508 of Title 28, Judiciary and Judicial Procedure, section 101 of Title 48, Territories and Insular Possessions, and section 654 of Title 50, War and National Defense, and repealing section 31a of this title\] shall take effect Mar. 1, 1955.”
+Section 5 of act Mar. 2, 1955, provided that: “The provisions of this Act \[amending this section, section 104 of Title 3, The President, section 7443 of Title 26, Internal Revenue Code, sections 5, 44, 135, 173, 213, 252, and 508 of Title 28, Judiciary and Judicial Procedure, section 101 of Title 48, Territories and Insular Possessions, and section 654 of Title 50, War and National Defense, and repealing section 31a of this title\] shall take effect Mar. 1, 1955.”
 
 #### Effective Date of 1949 Amendment
 
@@ -88,7 +88,7 @@ Pub. L. 104–186, §1(a), Aug. 20, 1996, 110 Stat. 1718, provided that: “This
 
 #### Short Title of 1964 Amendment
 
-Section 201 of title II of Pub. L. 88–426 provided that: “This title \[enacting sections 61a, 61a–2, 61d, 61e, 60e–11, 84–2, 136a, 136b, and 273 of this title, sections 42a and 51a of former Title 31, Money and Finance, sections 162a, 166b, and 166b–1 of Title 40, Public Buildings, Property, and Works, and section 39a of former Title 44, Public Printing and Documents, amending this section and section 72a of this title, and enacting provisions set out as notes under this section and sections 60a–1 and 60f of this title\] may be cited as the ‘Federal Legislative Salary Act of 1964’.”
+Section 201 of title II of Pub. L. 88–426 provided that: “This title \[enacting sections 61a, 61a–2, 61d, 61e, 60e–11,84–2, 136a, 136b, and 273 of this title, sections 42a and 51a of former Title 31, Money and Finance, sections 162a, 166b, and 166b–1 of Title 40, Public Buildings, Property, and Works, and section 39a of former Title 44, Public Printing and Documents, amending this section and section 72a of this title, and enacting provisions set out as notes under this section and sections 60a–1 and 60f of this title\] may be cited as the ‘Federal Legislative Salary Act of 1964’.”
 
 #### Appropriation of Funds for Compensation of Members of Congress and for Administrative Expenses at Levels Authorized by Law and Recommended by the President for Federal Employees
 
@@ -96,9 +96,11 @@ Pub. L. 97–51, §130(c), Oct. 1, 1981, 95 Stat. 966, provided that: “Effecti
 
 #### Salary Increases
 
-2000—Ex. Ord. No. 13144, Dec. 21, 1999, 64 F.R. 72237, set out as a note under section 5332 of Title 5, Government Organization and Employees, provided for the adjustment of pay rates effective Jan. 1, 2000.
+2001—Ex. Ord. No. 13182, Dec. 23, 2000, 65 F.R. 82879, 66 F.R. 10057, set out as a note under section 5332 of Title 5, Government Organization and Employees, provided for the adjustment of pay rates effective Jan. 1, 2001.
 
-1999—Ex. Ord. No. 13106, Dec. 7, 1998, 63 F.R. 68151, which provided for the adjustment of pay rates effective Jan. 1, 1999, was substantially superseded by Ex. Ord. No. 13144, Dec. 21, 1999, 64 F.R. 72237, set out as a note under section 5332 of Title 5.
+2000—Ex. Ord. No. 13144, Dec. 21, 1999, 64 F.R. 72237, which provided for the adjustment of pay rates effective Jan. 1, 2000, was superseded by Ex. Ord. No. 13182, Dec. 23, 2000, 65 F.R. 82879, set out as a note under section 5332 of Title 5.
+
+1999—Ex. Ord. No. 13106, Dec. 7, 1998, 63 F.R. 68151, which provided for the adjustment of pay rates effective Jan. 1, 1999, was substantially superseded by Ex. Ord. No. 13144, Dec. 21, 1999, 64 F.R. 72237, formerly set out as a note under section 5332 of Title 5.
 
 1998—Ex. Ord. No. 13071, Dec. 29, 1997, 62 F.R. 68521, which provided for the adjustment of pay rates effective Jan. 1, 1998, was superseded by Ex. Ord. No. 13106, Dec. 7, 1998, 63 F.R. 68151, formerly set out as a note under section 5332 of Title 5.
 
@@ -134,13 +136,13 @@ Ex. Ord. No. 12663, Jan. 6, 1989, 54 F.R. 791, which provided for the adjustment
 
 1987—Salary of Speaker of House of Representatives increased to $115,000 per annum; salaries of President pro tempore of Senate, majority leader and minority leader of Senate, and majority leader and minority leader of House of Representatives increased to $99,500 per annum; and salaries of Senators, Members of House of Representatives, Delegates to House of Representatives, and Resident Commissioner from Puerto Rico increased to $89,500 per annum, on recommendation of the President of the United States, effective Mar. 1, 1987, set out as a note under section 358 of this title.
 
-Ex. Ord. No. 12578, Dec. 31, 1986, 52 F.R. 505, which provided for the adjustment of pay rates effective Jan. 1,1987, was superseded by Ex. Ord. No. 12622, Dec. 31, 1987, 53 F.R. 222, formerly set out as a note under section 5332 of Title 5, Government Organization and Employees.
+Ex. Ord. No. 12578, Dec. 31, 1986, 52 F.R. 505, which provided for the adjustment of pay rates effective Jan. 1, 1987, was superseded by Ex. Ord. No. 12622, Dec. 31, 1987, 53 F.R. 222, formerly set out as a note under section 5332 of Title 5, Government Organization and Employees.
 
 1985—Ex. Ord. No. 12496, Dec. 28, 1984, 50 F.R. 211, as amended by Ex. Ord. No. 12540, Dec. 30, 1985, 51 F.R. 577, which provided for the adjustment of pay rates effective Jan. 1, 1985, was superseded by Ex. Ord. No. 12578, Dec. 31, 1986, 52 F.R. 505, formerly set out as a note under section 5332 of Title 5.
 
 1984—Ex. Ord. No. 12456, Dec. 30, 1983, 49 F.R. 347, as amended by Ex. Ord. No. 12477, May 23, 1984, 49 F.R. 22041; Ex. Ord. No. 12487, Sept. 14, 1984, 49 F.R. 36493, which provided for the adjustment of pay rates effective Jan. 1, 1984, was superseded by Ex. Ord. No. 12496, Dec. 28, 1984, 50 F.R. 211, as amended by Ex. Ord. No. 12540, Dec. 30, 1985, 51 F.R. 577, formerly set out as a note under section 5332 of Title 5.
 
-1983—Pub. L. 98–63, title I, §908(d), (f), July 30, 1983, 97 Stat. 338, which provided that, effective with respect to service as a Member performed on or after July 1, 1983, and notwithstanding any other provision of law, in the case of a Member serving in office or position of Senator, President pro tempore of Senate, Majority Leader of Senate, or Minority Leader of Senate during a calendar year, the annual rate of pay paid to such Member for such service would not be less than the annual rate of pay payable for such position on Dec. 17, 1982, increased by 15 percent and rounded in accordance with section 5318 of Title 5, was repealed by Pub. L. 102–90, title I, §6(c), Aug. 14, 1991, 105 Stat. 451.
+1983—Pub. L. 98–63, title I, §908(d), (f), July 30, 1983, 97 Stat. 338, which provided that, effective with respect toservice as a Member performed on or after July 1, 1983, and notwithstanding any other provision of law, in the case of a Member serving in office or position of Senator, President pro tempore of Senate, Majority Leader of Senate, or Minority Leader of Senate during a calendar year, the annual rate of pay paid to such Member for such service would not be less than the annual rate of pay payable for such position on Dec. 17, 1982, increased by 15 percent and rounded in accordance with section 5318 of Title 5, was repealed by Pub. L. 102–90, title I, §6(c), Aug. 14, 1991, 105 Stat. 451.
 
 1982—Ex. Ord. No. 12387, Oct. 8, 1982, 47 F.R. 44981, which provided for the adjustment of pay rates effective Oct. 1, 1982, was superseded by Ex. Ord. No. 12456, Dec. 30, 1983, 49 F.R. 347, as amended by Ex. Ord. No. 12477, May 23, 1984, 49 F.R. 22041; Ex. Ord. No. 12487, Sept. 14, 1984, 49 F.R. 36493, formerly set out as a note under section 5332 of Title 5.
 
@@ -177,12 +179,4 @@ Pub. L. 95–66, §1(2), July 11, 1977, 91 Stat. 270, set out as a note under se
 #### Commission on Judicial and Congressional Salaries
 
 Act Aug. 7, 1953, ch. 353, 67 Stat. 485, which established a Commission to determine appropriate rates of salaries for justices and judges of courts of United States and for Vice President, Speaker of House of Representatives, and Members of Congress, was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 657.
-
-#### Cross References
-
-Claims for overpayment of pay or allowances to Senators, see section 130c of this title.
-
-Expense allowance of Speaker of House of Representatives, see section 31b of this title.
-
-Retirement pay, see section 8331 et seq., of Title 5, Government Organization and Employees.
 

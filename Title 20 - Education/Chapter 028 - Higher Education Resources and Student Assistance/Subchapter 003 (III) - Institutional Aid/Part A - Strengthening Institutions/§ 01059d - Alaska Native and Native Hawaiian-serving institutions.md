@@ -58,17 +58,35 @@ For the purpose of this section—
 
 #### (2) Applications
 
-&emsp;Any institution which is determined by the Secretary to be an Alaska Native-serving institution or a Native Hawaiian-serving institution may submit an application for assistance under this section to the Secretary. Such application shall include—
+&emsp;Any institution which is determined by the Secretary to be an Alaska Native-serving institution or a Native Hawaiian-serving institution may submit an application for assistance under this section to the Secretary. The Secretary shall, to the extent possible, prescribe a simplified and streamlined format for such applications that takes into account the limited number of institutions that are eligible for assistance under this section. Such application shall include—
 
 &emsp;&emsp;(A) a 5-year plan for improving the assistance provided by the Alaska Native-serving institution or the Native Hawaiian-serving institution to Alaska Native or Native Hawaiian students; and
 
 &emsp;&emsp;(B) such other information and assurance as the Secretary may require.
 
-#### (e) Special rule
+#### (3) Special rules
 
-For the purposes of this section, no Alaska Native-serving institution or Native Hawaiian-serving institution which is eligible for and receives funds under this section may concurrently receive other funds under this part or part B of this subchapter.
+#### (A) Eligibility
 
-(Pub. L. 89–329, title III, §317, as added Pub. L. 105–244, title III, §303(f), Oct. 7, 1998, 112 Stat. 1641.)
+&emsp;&emsp;No Alaskan Native-serving institution or Native Hawaiian-serving institution that receives funds under this section shall concurrently receive funds under other provisions of this part or part B of this subchapter.
+
+#### (B) Exemption
+
+&emsp;&emsp;Section 1059(d) of this title shall not apply to institutions that are eligible to receive funds under this section.
+
+#### (C) Distribution
+
+&emsp;&emsp;In awarding grants under this section, the Secretary shall, to the extent possible and consistent with the competitive process under which such grants are awarded, ensure maximum and equitable distribution among all eligible institutions.
+
+(Pub. L. 89–329, title III, §317, as added Pub. L. 105–244, title III, §303(f), Oct. 7, 1998, 112 Stat. 1641; amended Pub. L. 106–211, §1(a), (b)(2), May 26, 2000, 114 Stat. 330.)
+
+#### Amendments
+
+2000—Subsec. (d)(2). Pub. L. 106–211, §1(a), inserted after first sentence “The Secretary shall, to the extent possible, prescribe a simplified and streamlined format for such applications that takes into account the limited number of institutions that are eligible for assistance under this section.”
+
+Subsec. (d)(3). Pub. L. 106–211, §1(b)(2), added par. (3).
+
+Subsec. (e). Pub. L. 106–211, §1(b)(2), struck out heading and text of subsec. (e). Text read as follows: “For the purposes of this section, no Alaska Native-serving institution or Native Hawaiian-serving institution which is eligible for and receives funds under this section may concurrently receive other funds under this part or part B of this subchapter.”
 
 #### Effective Date
 

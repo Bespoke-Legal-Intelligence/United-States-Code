@@ -4,7 +4,3 @@ In the case of the death of any person by the neglect or wrongful act of another
 
 (Feb. 1, 1928, ch. 15, 45 Stat. 54.)
 
-#### Cross References
-
-State workmen's compensation laws extended and made applicable to buildings and property of United States by act of June 25, 1936, see section 290 of Title 40, Public Buildings, Property, and Works.
-

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Not later than March 31 of each year, the Secretary of State shall transmit to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate a full and complete annual report which assesses for the preceding calendar year, withrespect to each foreign country member of the United Nations, the voting practices of the governments of such countries at the United Nations, and which evaluates General Assembly and Security Council actions and the responsiveness of those governments to United States policy on issues of special importance to the United States.
+Not later than March 31 of each year, the Secretary of State shall transmit to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate a full and complete annual report which assesses for the preceding calendar year, with respect to each foreign country member of the United Nations, the voting practices of the governments of such countries at the United Nations, and which evaluates General Assembly and Security Council actions and the responsiveness of those governments to United States policy on issues of special importance to the United States.
 
 #### (b) Information on voting practices in United Nations
 
@@ -64,17 +64,19 @@ Pub. L. 98–151, §101(b)(1), Nov. 14, 1983, 97 Stat. 967; repealed by Pub. L. 
 
 #### Requirement for Disclosure of Foreign Aid in Report of Secretary of State
 
-Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §560\], Nov. 29, 1999, 113 Stat. 1535, 1501A–104, provided that:
+Pub. L. 106–429, §101(a) \[title V, §559\], Nov. 6, 2000, 114 Stat. 1900, 1900A–45, provided that:
 
 “(a)
 
-Foreign Aid Reporting Requirement.—In addition to the voting practices of a foreign country, the report required to be submitted to Congress under section 406(a) of the Foreign Relations Authorization Act, fiscal years 1990 and 1991 (22 U.S.C. 2414a) \[22 U.S.C. 2414a(a)\], shall include a side-by-side comparison of individual countries’ overall support for the United States at the United Nations and the amount of United States assistance provided to such country in fiscal year 1999.
+Foreign Aid Reporting Requirement.—In addition to the voting practices of a foreign country, the report required to be submitted to Congress under section 406(a) of the Foreign Relations Authorization Act, fiscal years 1990 and 1991 (22 U.S.C. 2414a\[(a)\]), shall include a side-by-side comparison of individual countries’ overall support for the United States at the United Nations and the amount of United States assistance provided to such country in fiscal year 2000.
 
 “(b)
 
 United States Assistance.—For purposes of this section, the term ‘United States assistance’ has the meaning given the term in section 481(e)(4) of the Foreign Assistance Act of 1961 (22 U.S.C. 2291(e)(4)).”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §560\], Nov. 29, 1999, 113 Stat. 1535, 1501A–104.
 
 Pub. L. 105–277, div. A, §101(d) \[title V, §562\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–193.
 

@@ -18,7 +18,7 @@ Section 178, act June 7, 1897, ch. 4, §1, 30 Stat. 98; 1946 Reorg. Plan No. 3, 
 
 Section 179, acts June 7, 1897, ch. 4, §1, 30 Stat. 98; Aug. 14, 1958, Pub. L. 85–635, §2, 72 Stat. 590, related to lights of overtaken vessels. See section 2022 of this title.
 
-Section 180, acts June 7, 1897, ch. 4, §1, 30 Stat. 98; Apr. 22, 1940, ch. 128, §1, 54 Stat. 150; Aug. 5, 1963, Pub. L. 88–84, §1, 77 Stat. 116; Oct. 15, 1966, Pub. L. 89–670, §6, 80 Stat. 937, related to lights of vessels at anchor. See section 2030 of this title.
+Section 180, acts June 7, 1897, ch. 4, §1, 30 Stat. 98; Apr. 22, 1940, ch. 128, §1, 54 Stat. 150; Aug. 5, 1963, Pub. L. 88–84, §1, 77 Stat. 116; Oct. 15, 1966, Pub. L. 89–670, §6,80 Stat. 937, related to lights of vessels at anchor. See section 2030 of this title.
 
 Section 181, act June 7, 1897, ch. 4, §1, 30 Stat. 99, related to additional lights when necessary. See section 2022 of this title.
 

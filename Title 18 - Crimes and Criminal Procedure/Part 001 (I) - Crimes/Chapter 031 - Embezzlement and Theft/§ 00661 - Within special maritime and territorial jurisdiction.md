@@ -24,16 +24,6 @@ Minor changes were made in phraseology.
 
 1994—Pub. L. 103–322, in second par., substituted “under this title” for “not more than $5,000” after “another, by a fine of” and for “not more than $1,000” after “cases, by a fine of”.
 
-#### Cross References
-
-Actions aboard aircraft in special aircraft jurisdiction of United States in violation of this section punishable as provided herein, see section 46506 of Title 49, Transportation.
-
-Laws of States adopted for areas within Federal jurisdiction, see section 13 of this title.
-
-Provisions relating to larceny committed within Indian country, see sections 1151, 1153, 3242 of this title.
-
-Special maritime and territorial jurisdiction of the United States defined, see section 7 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1153, 3050 of this title; title 49 section 46506.

@@ -18,7 +18,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) a provision approving the statement of administrative action (if any) proposed to implement such trade agreement or agreements, and
 
-&emsp;&emsp;(C) if changes in existing laws or new statutory authority is required to implement such trade agreement or agreements or suchextension, provisions, necessary or appropriate to implement such trade agreement or agreements or such extension, either repealing or amending existing laws or providing new statutory authority.
+&emsp;&emsp;(C) if changes in existing laws or new statutory authority is required to implement such trade agreement or agreements or such extension, provisions, necessary or appropriate to implement such trade agreement or agreements or such extension, either repealing or amending existing laws or providing new statutory authority.
 
 &emsp;(2) The term “implementing revenue bill or resolution” means an implementing bill, or approval resolution, which contains one or more revenue measures by reason of which it must originate in the House of Representatives.
 
@@ -44,7 +44,7 @@ No amendment to an implementing bill or approval resolution shall be in order in
 
 (2) The provisions of paragraph (1) shall not apply in the Senate to an implementing revenue bill or resolution. An implementing revenue bill or resolution received from the House shall be referred to the appropriate committee or committees of the Senate. If such committee or committees have not reported such bill or resolution at the close of the 15th day after its receipt by the Senate (or, if later, before the close of the 45th day after the corresponding implementing revenue bill or resolution was introduced in the Senate), such committee or committees shall be automatically discharged from further consideration of such bill or resolution and it shall be placed on the calendar. A vote on final passage of such bill or resolution shall be taken in the Senate on or before the close of the 15th day after such bill or resolution is reported by the committee or committees of the Senate to which it was referred, or after such committee or committees have been discharged from further consideration of such bill or resolution.
 
-(3) For purposes of paragraphs (1) and (2), in computing a number of days in either House,there shall be excluded any day on which that House is not in session.
+(3) For purposes of paragraphs (1) and (2), in computing a number of days in either House, there shall be excluded any day on which that House is not in session.
 
 #### (f) Floor consideration in the House
 

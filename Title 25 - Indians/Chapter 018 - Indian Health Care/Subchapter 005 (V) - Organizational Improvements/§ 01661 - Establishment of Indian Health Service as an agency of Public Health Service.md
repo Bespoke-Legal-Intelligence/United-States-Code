@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-In order to more effectively and efficiently carry out the responsibilities, authorities, and functions of the United States to provide health care services to Indians and Indian tribes, as are or may be on and after November 23, 1988, provided by Federal statute or treaties, there is established within the Public Health Service of the Department of Health and Human Services the Indian Health Service. The Indian Health Service shall be administered by a Director, who shall be appointed by the President, by and with the advice and consent of the Senate. The Director of the Indian Health Service shall report to the Secretary through the Assistant Secretaryfor Health of the Department of Health and Human Services. Effective with respect to an individual appointed by the President, by and with the advice and consent of the Senate, after January 1, 1993, the term of service of the Director shall be 4 years. A Director may serve more than 1 term.
+In order to more effectively and efficiently carry out the responsibilities, authorities, and functions of the United States to provide health care services to Indians and Indian tribes, as are or may be on and after November 23, 1988, provided by Federal statute or treaties, there is established within the Public Health Service of the Department of Health and Human Services the Indian Health Service. The Indian Health Service shall be administered by a Director, who shall be appointed by the President, by and with the advice and consent of the Senate. The Director of the Indian Health Service shall report to the Secretary through the Assistant Secretary for Health of the Department of Health and Human Services. Effective with respect to an individual appointed by the President, by and with the advice and consent of the Senate, after January 1, 1993, the term of service of the Director shall be 4 years. A Director may serve more than 1 term.
 
 #### (b) Agency status
 
@@ -50,7 +50,7 @@ Act of August 5, 1954, referred to in subsec. (c)(3)(C), is act Aug. 5, 1954, ch
 
 Act of August 16, 1957, referred to in subsec. (c)(3)(D), is Pub. L. 85–151, Aug. 16, 1957, 71 Stat. 370, which is classified generally to subchapter II (§2005 et seq.) of chapter 22 of Title 42. For complete classification of this Act to the Code, see Tables.
 
-The Indian Self-Determination Act, referred to in subsec. (c)(3)(E), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+The Indian Self-Determination Act, referred to in subsec. (c)(3)(E), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principallyto part A (§450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
 #### Prior Provisions
 
@@ -86,5 +86,5 @@ Section 602(b) of Pub. L. 102–573 provided that: “The President may appoint 
 
 #### Transfer of Personnel, Records, Equipment, Etc., to Indian Health Service
 
-Section 601(b) of Pub. L. 100–713 provided that: “All personnel, records, equipment, facilities, and interests in property that are administered by the Indian Health Service on the day before the date on which the amendments made by this section take effect \[see Effective Date note above\] shall be transferred to the Indian Health Service established by the amendment made by subsection (a) of this section \[enacting this section and section 1662 of this title\]. All transfers must be accomplished within 9 months of the date of enactment ofthis section \[Nov. 23, 1988\]. The Secretary is authorized to waive the Indian preference laws on a case-by-case basis for temporary transfers involved in implementing this section during such 9-month period.”
+Section 601(b) of Pub. L. 100–713 provided that: “All personnel, records, equipment, facilities, and interests in property that are administered by the Indian Health Service on the day before the date on which the amendments made by this section take effect \[see Effective Date note above\] shall be transferred to the Indian Health Service established by the amendment made by subsection (a) of this section \[enacting this section and section 1662 of this title\]. All transfers must be accomplished within 9 months of the date of enactment of this section \[Nov. 23, 1988\]. The Secretary is authorized to waive the Indian preference laws on a case-by-case basis for temporary transfers involved in implementing this section during such 9-month period.”
 

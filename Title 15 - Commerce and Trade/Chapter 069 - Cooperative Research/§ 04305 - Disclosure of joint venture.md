@@ -2,7 +2,7 @@
 
 #### (a) Written notifications; filing
 
-Any party to a joint venture, acting on such venture's behalf, may, not later than 90 daysafter entering into a written agreement to form such venture or not later than 90 days after October 11, 1984, whichever is later, file simultaneously with the Attorney General and the Commission a written notification disclosing—
+Any party to a joint venture, acting on such venture's behalf, may, not later than 90 days after entering into a written agreement to form such venture or not later than 90 days after October 11, 1984, whichever is later, file simultaneously with the Attorney General and the Commission a written notification disclosing—
 
 &emsp;(1) the identities of the parties to such venture,
 

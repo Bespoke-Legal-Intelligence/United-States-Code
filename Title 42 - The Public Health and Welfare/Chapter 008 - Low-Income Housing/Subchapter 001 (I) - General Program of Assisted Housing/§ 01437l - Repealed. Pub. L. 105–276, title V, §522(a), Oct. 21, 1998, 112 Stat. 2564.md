@@ -4,7 +4,7 @@ Section, act Sept. 1, 1937, ch. 896, title I, §14, as added Pub. L. 96–399, t
 
 #### Effective Date of Repeal
 
-Repeal effective and applicable beginning upon Oct. 1, 1999, except as otherwise provided, with provision that Secretary may implement the repeal before such date, and with savings provision, see section 503 of Pub. L. 105–276, set out as an Effective Date of 1998 Amendment note under section 1437 of this title.
+Repeal effective and applicable beginning upon Oct. 1, 1999, except as otherwise provided, with provision thatSecretary may implement the repeal before such date, and with savings provision, see section 503 of Pub. L. 105–276, set out as an Effective Date of 1998 Amendment note under section 1437 of this title.
 
 #### Savings Provision
 
@@ -21,10 +21,6 @@ Expansion of use of modernization funding.—Before the implementation of formul
 “(3)
 
 Effective date.—This subsection shall take effect on the date of the enactment of this Act \[Oct. 21, 1998\].”
-
-#### Applicability of Subsection (q)
-
-Section 101(e) \[title II, §201(a)(2)\] of Pub. L. 104–134, as amended by Pub. L. 104–204, title II, §201(a), Sept. 26, 1996, 110 Stat. 2892; Pub. L. 105–276, title II, §201, Oct. 21, 1998, 112 Stat. 2483, provided that: “Section 14(q) of the United States Housing Act of 1937 \[former 42 U.S.C. 1437<i>l</i>(q)\] shall be effective only with respect to assistance provided from funds made available for fiscal year 1999 or any preceding fiscal year, except that the authority in the first sentence of section 14(q)(1) to use up to 10 percent of the allocation of certain funds for any operating subsidy purpose shall not apply to amounts made available for fiscal years 1998 and 1999.”
 
 #### Conversion of Certain Public Housing to Vouchers
 

@@ -18,11 +18,3 @@ The words â€œthe examinations provided for in sections 3304 and 3305 of title 5â
 
 Functions with respect to acquiring space in buildings by lease, functions with respect to assigning and reassigning space in buildings for use by agencies (including both space acquired by lease and space in Government-owned buildings), and functions with respect to operation, maintenance, and custody of office buildings owned by Government and of office buildings or parts thereof acquired by lease, including those post-office buildings which, as determined by Director of Bureau of the Budget, are not used predominantly for post-office purposes, with certain exceptions, transferred from respective agencies in which theretofore vested to Administrator of General Services by sections 1 and 2 of Reorg. Plan No. 18 of 1950, eff. July 1, 1950, 15 F.R. 3177, 64 Stat. 1270, set out as a note under section 490 of this title. For delegation of those transferred functions to other personnel of General Services Administration, or to heads and personnel of other agencies, and for transfer of personnel, property, records, and funds, see sections 3 and 4 of that Plan.
 
-#### Cross References
-
-Contracts for rent precluded until specific appropriations therefor are made, see section 34 of this title.
-
-Operation of buildings and related activities by Administrator of General Services, general powers and duties, see section 490 of this title.
-
-Office of Personnel Management, organization of, see section 1101 et seq. of Title 5, Government Organization and Employees.
-

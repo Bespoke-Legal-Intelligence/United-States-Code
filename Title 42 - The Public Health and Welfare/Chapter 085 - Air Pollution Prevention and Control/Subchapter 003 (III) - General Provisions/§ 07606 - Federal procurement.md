@@ -14,15 +14,13 @@ In order to implement the purposes and policy of this chapter to protect and enh
 
 #### (d) Exemptions; notification to Congress
 
-The President may exempt any contract, loan, or grant from all or part of the provisions of thissection where he determines such exemption is necessary in the paramount interest of the United States and he shall notify the Congress of such exemption.
-
-#### (e) Annual report to Congress
-
-The President shall annually report to the Congress on measures taken toward implementing the purpose and intent of this section, including but not limited to the progress and problems associated with implementation of this section.
+The President may exempt any contract, loan, or grant from all or part of the provisions of this section where he determines such exemption is necessary in the paramount interest of the United States and he shall notify the Congress of such exemption.
 
 (July 14, 1955, ch. 360, title III, §306, as added Pub. L. 91–604, §12(a), Dec. 31, 1970, 84 Stat. 1707; amended Pub. L. 101–549, title VII, §705, Nov. 15, 1990, 104 Stat. 2682.)
 
 #### Codification
+
+Subsec. (e) of this section, which required the President to annually report to Congress on measures taken toward implementing the purpose and intent of this section, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, the 14th item on page 20 of House Document No. 103–7.
 
 Section was formerly classified to section 1857h–4 of this title.
 
@@ -60,11 +58,11 @@ Sec. 3. <i>Contracts, Grants, or Loans</i>. (a) Except as provided in section 8 
 
 (b) Except as provided in section 8 of this Order, no Federal agency authorized to extend Federal assistance by way of grant, loan, or contract shall extend such assistance in any case in which it is to be used to support any activity or program involving the use of a facility then designated by the Administrator pursuant to section 2.
 
-Sec. 4. <i>Procurement, Grant, and Loan Regulations</i>. The Federal Procurement Regulations, the Armed Services Procurement Regulations, and to the extent necessary, any supplemental or comparable regulations issued by any agency of the Executive Branch shall, following consultation with the Administrator, be amended to require, as a condition of entering into, renewing, or extending any contract for the procurement of goods, materials, or services or extending any assistance by way of grant, loan, or contract, inclusion of a provision requiring compliance with the Air Act, the Water Act, and standards issued pursuant thereto in the facilities in which the contract is to be performed, or which are involved in the activity or program to receive assistance.
+Sec. 4. <i>Procurement, Grant, and Loan Regulations</i>. The Federal Procurement Regulations, the Armed Services Procurement Regulations, and to the extent necessary, any supplemental or comparable regulations issued by any agency of the Executive Branch shall, following consultation with the Administrator, be amended to require, as a condition of entering into, renewing, or extending any contract for the procurement of goods, materials, or services or extending any assistance by way of grant, loan, or contract, inclusion of a provision requiring compliance with the Air Act, the Water Act, and standards issued pursuant thereto in the facilities in which the contract is to be performed, or which areinvolved in the activity or program to receive assistance.
 
 Sec. 5. <i>Rules and Regulations</i>. The Administrator shall issue such rules, regulations, standards, and guidelines as he may deem necessary or appropriate to carry out the purposes of this Order.
 
-Sec. 6. <i>Cooperation and Assistance</i>. The head of each Federal agency shall take such steps as may be necessary to insure that all officers and employees of this agency whose duties entail compliance or comparable functions with respect to contracts, grants, and loans are familiar with the provisions of this Order. In addition to any other appropriate action, such officers and employees shall report promptly any condition in a facility which may involve noncompliance with the AirAct or the Water Act or any rules, regulations, standards, or guidelines issued pursuant to this Order to the head of the agency, who shall transmit such reports to the Administrator.
+Sec. 6. <i>Cooperation and Assistance</i>. The head of each Federal agency shall take such steps as may be necessary to insure that all officers and employees of this agency whose duties entail compliance or comparable functions with respect to contracts, grants, and loans are familiar with the provisions of this Order. In addition to any other appropriate action, such officers and employees shall report promptly any condition in a facility which may involve noncompliance with the Air Act or the Water Act or any rules, regulations, standards, or guidelines issued pursuant to this Order to the head of the agency, who shall transmit such reports to the Administrator.
 
 Sec. 7. <i>Enforcement</i>. The Administrator may recommend to the Department of Justice or other appropriate agency that legal proceedings be brought or other appropriate action be taken whenever he becomes aware of a breach of any provision required, under the amendments issued pursuant to section 4 of this Order, to be included in a contract or other agreement.
 

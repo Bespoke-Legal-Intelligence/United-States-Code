@@ -20,7 +20,7 @@
 
 No proclamation pursuant to subsection (a) of this section shall be made—
 
-&emsp;(1) increasing any rate of duty to a rate more than 50 percent above the rate existingon July 1, 1934, or, if the article is dutiable but no rate existed on July 1, 1934, the rate existing at the time of the proclamation.
+&emsp;(1) increasing any rate of duty to a rate more than 50 percent above the rate existing on July 1, 1934, or, if the article is dutiable but no rate existed on July 1, 1934, the rate existing at the time of the proclamation.
 
 &emsp;(2) in the case of an article not subject to duty, imposing a duty in excess of 50 percent ad valorem.
 
@@ -40,7 +40,7 @@ No proclamation pursuant to subsection (a) of this section shall be made—
 
 (1) So long as any increase in, or imposition of, any duty or other import restriction pursuant to this section or pursuant to section 7 of the Trade Agreements Extension Act of 1951 remains in effect, the United States International Trade Commission shall keep under review developments with respect to the industry concerned, and shall make annual reports to the President concerning such developments.
 
-(2) Upon request of the President or upon its own motion, the United States International Trade Commission shall advise the President of its judgment as to the probable economic effect on the industry concerned of the reduction or termination of the increase in, or imposition of, any duty or other import restriction pursuant to this section or section 7 of the Trade Agreements Extension Act of 1951.
+(2) Upon request of the President or upon its own motion, the United States InternationalTrade Commission shall advise the President of its judgment as to the probable economic effect on the industry concerned of the reduction or termination of the increase in, or imposition of, any duty or other import restriction pursuant to this section or section 7 of the Trade Agreements Extension Act of 1951.
 
 (3) Repealed. Pub. L. 93–618, title VI, §602(d), Jan. 3, 1975, 88 Stat. 2072.
 
@@ -80,7 +80,7 @@ Section 2(d) of Pub. L. 90–638, Oct. 24, 1968, 82 Stat. 1360, provided that:
 
 “(1) For purposes of applying sections 256(4) \[section 1886(4) of this title\], 256(d) \[section 1886(5) of this title\], and 351(b) of the Trade Expansion Act of 1962 \[subsec. (b) of this section\] and section 350(c)(2)(A) of the Tariff Act of 1930 \[section 1351(c)(2)(A) of this title\]—
 
-&emsp;“(A) the rates of duty in rate column numbered 1 of the Tariff Schedules of the United States \[items355.70, 356.30, and 359.30\] (as changed by subsection (b)) shall be treated as the rates of duty existing on July 1, 1962; and
+&emsp;“(A) the rates of duty in rate column numbered 1 of the Tariff Schedules of the United States \[items 355.70, 356.30, and 359.30\] (as changed by subsection (b)) shall be treated as the rates of duty existing on July 1, 1962; and
 
 &emsp;“(B) the rates of duty in rate column numbered 2 of such Schedules (as changed by subsection (b)) shall be treated as the rates of duty existing on July 1, 1934.
 
@@ -102,7 +102,7 @@ Section 4 of Pub. L. 89–388, Apr. 13, 1966, 80 Stat. 110, provided that: “Fo
 
 Section 3 of Pub. L. 89–241, Oct. 7, 1965, 79 Stat. 933, provided that:
 
-“(a) For purposes of applying paragraphs (4) and (5) of section 256 (19 U.S.C., sec. 1886) and section 351(b) (19 U.S.C., sec. 1981(b)) of the Trade Expansion Act of 1962 and section 350(c)(2)(A) of the Tariff Act of 1930 (19 U.S.C., sec. 1351(c)(2)(A))—
+“(a) For purposes of applying paragraphs (4) and (5) of section 256 (19 U.S.C., sec. 1886) and section 351(b) (19 U.S.C., sec. 1981(b)) of the Trade Expansion Act of 1962and section 350(c)(2)(A) of the Tariff Act of 1930 (19 U.S.C., sec. 1351(c)(2)(A))—
 
 &emsp;“(1) The rates of duty in rate column numbered 1 of the Tariff Schedules of the United States as changed by this Act shall be treated as the rates of duty existing on July 1, 1962.
 

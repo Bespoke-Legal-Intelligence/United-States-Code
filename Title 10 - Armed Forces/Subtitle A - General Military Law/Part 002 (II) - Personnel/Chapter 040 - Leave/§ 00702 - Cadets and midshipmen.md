@@ -14,7 +14,7 @@ Involuntary Leave Without Pay for Suspended Academy Cadets and Midshipmen.—(1)
 
 &emsp;(C) for other good cause.
 
-(2) A cadet or midshipman placed on involuntary leave under paragraph (1) is not entitled to any pay under section 230(c) <sup>1</sup> of title 37 for the period of the leave.
+(2) A cadet or midshipman placed on involuntary leave under paragraph (1) is not entitled to any pay under section 203(c) of title 37 for the period of the leave.
 
 (3) Return of an academy cadet or midshipman to a pay status at the Academy concerned from involuntary leave status under paragraph (1) does not restore any entitlement of the cadet or midshipman to pay for the period of the involuntary leave.
 
@@ -38,7 +38,7 @@ Definition.—In this section, the term “academy cadet or midshipman” means�
 
 &emsp;(4) a cadet of the United States Coast Guard Academy.
 
-(Added Pub. L. 87–649, §3(1), Sept. 7, 1962, 76 Stat. 492; amended Pub. L. 96–513, title V, §511(20), Dec. 12, 1980, 94 Stat. 2921; Pub. L. 103–160, div. A, title V, §532, Nov. 30, 1993, 107 Stat. 1657; Pub. L. 105–261, div. A, title V, §562, Oct. 17, 1998, 112 Stat. 2027.)
+(Added Pub. L. 87–649, §3(1), Sept. 7, 1962, 76 Stat. 492; amended Pub. L. 96–513, title V, §511(20), Dec. 12, 1980, 94 Stat. 2921; Pub. L. 103–160, div. A, title V, §532, Nov. 30, 1993, 107 Stat. 1657; Pub. L. 105–261, div. A, title V, §562, Oct. 17, 1998, 112 Stat. 2027; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(3)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–290.)
 
 Historical and Revision Notes
 
@@ -72,11 +72,13 @@ Aug. 9, 1946, ch. 931, §10 (less applicability to payment for leave); added Aug
 
 Aug. 9, 1946, ch. 931, §2(f) (last 8 words), 60 Stat. 963.
 
-In subsection (a), the words “outside the United States or in Alaska or Hawaii” are substituted for thewords “outside the continental limits of the United States” to conform to the interpretation of those words in other sections of title 10 and revised title 37.
+In subsection (a), the words “outside the United States or in Alaska or Hawaii” are substituted for the words “outside the continental limits of the United States” to conform to the interpretation of those words in other sections of title 10 and revised title 37.
 
 In subsections (a) and (b), the words “, or his designated representative,” are substituted for the last 8 words of section 32(f) of existing title 37.
 
 #### Amendments
+
+2000—Subsec. (b)(2). Pub. L. 106–398 substituted “section 203(c)” for “section 230(c)”.
 
 1998—Subsec. (a). Pub. L. 105–261, §562(c)(1), inserted heading.
 
@@ -99,6 +101,4 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 #### Effective Date
 
 Section effective Nov. 1, 1962, see section 15 of Pub. L. 87–649, set out as a note preceding section 101 of Title 37, Pay and Allowances of the Uniformed Services.
-
-<i><sup>1</sup></i><i> So in original. Probably should be section “203(c)”.</i>
 

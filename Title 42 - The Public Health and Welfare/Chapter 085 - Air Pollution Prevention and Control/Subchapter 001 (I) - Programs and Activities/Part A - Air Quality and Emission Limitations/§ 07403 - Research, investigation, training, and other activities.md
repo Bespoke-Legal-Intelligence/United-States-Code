@@ -4,7 +4,7 @@
 
 The Administrator shall establish a national research and development program for the prevention and control of air pollution and as part of such program shall—
 
-&emsp;(1) conduct, and promote the coordination and acceleration of, research, investigations, experiments, demonstrations, surveys, andstudies relating to the causes, effects (including health and welfare effects), extent, prevention, and control of air pollution;
+&emsp;(1) conduct, and promote the coordination and acceleration of, research, investigations, experiments, demonstrations, surveys, and studies relating to the causes, effects (including health and welfare effects), extent, prevention, and control of air pollution;
 
 &emsp;(2) encourage, cooperate with, and render technical services and provide financial assistance to air pollution control agencies and other appropriate public or private agencies, institutions, and organizations, and individuals in the conduct of such activities;
 
@@ -98,7 +98,7 @@ In carrying out subsection (a) of this section, the Administrator, in cooperatio
 
 #### (f) Liquefied Gaseous Fuels Spill Test Facility
 
-(1) The Administrator, in consultation with the Secretary of Energy and the Federal Coordinating Council for Science, Engineering, and Technology, shall oversee an experimental and analytical research effort, with the experimental research to be carried out at the Liquefied Gaseous Fuels Spill Test Facility. In consultation with the Secretary of Energy, the Administrator shall develop a list of chemicals and a schedule for field testing at the Facility.Analysis of a minimum of 10 chemicals per year shall be carried out, with the selection of a minimum of 2 chemicals for field testing each year. Highest priority shall be given to those chemicals that would present the greatest potential risk to human health as a result of an accidental release—
+(1) The Administrator, in consultation with the Secretary of Energy and the Federal Coordinating Council for Science, Engineering, and Technology, shall oversee an experimental and analytical research effort, with the experimental research to be carried out at the Liquefied Gaseous Fuels Spill Test Facility. In consultation with the Secretary of Energy, the Administrator shall develop a list of chemicals and a schedule for field testing at the Facility. Analysis of a minimum of 10 chemicals per year shall be carried out, with the selection of a minimum of 2 chemicals for field testing each year. Highest priority shall be given to those chemicals that would present the greatest potential risk to human health as a result of an accidental release—
 
 &emsp;(A) from a fixed site; or
 
@@ -122,7 +122,7 @@ In carrying out subsection (a) of this section, the Administrator, in cooperatio
 
 &emsp;(C) evaluate the effectiveness of hazard mitigation and emergency response technology for fixed site and transportation related accidental releases of toxic chemicals.
 
-> Models pertaining to accidental release shall be evaluated and improved periodically for their utility in planning and implementing evacuation procedures and other mitigative strategies designed to minimize human exposure to hazardous air pollutants released accidentally.
+> Models pertaining to accidental release shall be evaluated and improved periodically for theirutility in planning and implementing evacuation procedures and other mitigative strategies designed to minimize human exposure to hazardous air pollutants released accidentally.
 
 (3) The Secretary of Energy shall make available to interested persons (including other Federal agencies and businesses) the use of the Liquefied Gaseous Fuels Spill Test Facility to conduct research and other activities in connection with the activities described in this subsection.
 
@@ -170,7 +170,7 @@ The Administrator shall develop and implement a plan for identifying areas in wh
 
 (3) The responsibilities of the Task Force shall include the following:
 
-&emsp;(A) Review of the status of research activities conducted to date under the comprehensive research plan developed pursuant to the Acid Precipitation Act of 1980 \[42 U.S.C. 8901 et seq.\], and development of a revised plan that identifies significant research gaps and establishes a coordinated program to address current and future research priorities. A draft of the revised plan shall be submitted by the Task Force to Congress within 6 months after November 15, 1990. The plan shall be available for public comment during the 60 day period after its submission, and a final plan shall be submitted by the President to the Congress within 45 days after the close of the comment period.
+&emsp;(A) Review of the status of research activities conducted to date under the comprehensive research plan developed pursuant to the Acid Precipitation Act of 1980 \[42 U.S.C. 8901 et seq.\], and development of a revised plan that identifies significant research gaps and establishes a coordinated program to address current and future research priorities. A draft of the revised plan shall be submitted by theTask Force to Congress within 6 months after November 15, 1990. The plan shall be available for public comment during the 60 day period after its submission, and a final plan shall be submitted by the President to the Congress within 45 days after the close of the comment period.
 
 &emsp;(B) Coordination with participating Federal agencies, augmenting the agencies’ research and monitoring efforts and sponsoring additional research in the scientific community as necessary to ensure the availability and quality of data and methodologies needed to evaluate the status and effectiveness of the acid deposition control program. Such research and monitoring efforts shall include, but not be limited to—
 
@@ -222,7 +222,7 @@ Section was formerly classified to section 1857b of this title.
 
 #### Prior Provisions
 
-Provisions similar to those in subsec. (a)(3) of this section were contained in subsec. (a) of a prior section 1857b of this title, act July 14, 1955, ch. 360, §3, 69 Stat. 322, as amended Oct. 9, 1962, Pub. L. 87–761, §2, 76 Stat. 760, prior to the general amendment of this chapter by Pub. L. 88–206.
+Provisions similar to those in subsec. (a)(3) of this section were contained in subsec. (a) of a prior section 1857b of this title, act July 14, 1955, ch. 360, §3, 69 Stat. 322, as amended Oct. 9, 1962, Pub. L. 87–761, §2, 76 Stat.760, prior to the general amendment of this chapter by Pub. L. 88–206.
 
 Provisions similar to those in this section were contained in prior sections 1857a to 1857d of this title, act July 14, 1955, ch. 360, §§2 to 5, 69 Stat. 322 (section 1857b as amended Oct. 9, 1962, Pub. L. 87–761, §2, 76 Stat. 760; section 1857d as amended Sept. 22, 1959, Pub. L. 86–365, §1, 73 Stat. 646 and Oct. 9, 1962, Pub. L. 87–761, §1, 76 Stat. 760), prior to the general amendment of this chapter by Pub. L. 88–206.
 
@@ -266,13 +266,45 @@ Subsecs. (d), (e). Pub. L. 89–272, §103(4), added subsecs. (d) and (e).
 
 Amendment by Pub. L. 95–95 effective Aug. 7, 1977, except as otherwise expressly provided, see section 406(d) of Pub. L. 95–95, set out as a note under section 7401 of this title.
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (i) of this section requiring quadrennial reports to Congress and of reporting provisions in subsec. (j)(3)(E) and (F) of this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 7th and 8th items on page 163 of House Document No. 103–7.
+
 #### Modification or Rescission of Rules, Regulations, Orders, Determinations, Contracts, Certifications, Authorizations, Delegations, and Other Actions
 
-All rules, regulations, orders, determinations, contracts, certifications, authorizations, delegations, or other actions duly issued, made, or taken by or pursuant to act July 14, 1955, the Clean Air Act, as in effect immediately prior to the date of enactment of Pub. L. 95–95 \[Aug. 7, 1977\] to continue in full force and effect until modified or rescinded in accordance with act July 14, 1955, as amended by Pub. L. 95–95 \[this chapter\], seesection 406(b) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
+All rules, regulations, orders, determinations, contracts, certifications, authorizations, delegations, or other actions duly issued, made, or taken by or pursuant to act July 14, 1955, the Clean Air Act, as in effect immediately prior to the date of enactment of Pub. L. 95–95 \[Aug. 7, 1977\] to continue in full force and effect until modified or rescinded in accordance with act July 14, 1955, as amended by Pub. L. 95–95 \[this chapter\], see section 406(b) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
 
 #### Termination of Advisory Committees
 
 Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Pilot Design Programs
+
+Pub. L. 106–246, div. B, title II, §2603, July 13, 2000, 114 Stat. 558, provided that:
+
+“(a) The Administrator of the Environmental Protection Agency shall make a grant for the purpose of carrying out the first year of a 2-year program to implement in five metropolitan areas pilot design programs developed under section 365(a)(2) of the Department of Transportation and Related Agencies Appropriations Act, 2000 \[Pub. L. 106–69\] (113 Stat. 1028–1029).
+
+“(b) The Administrator shall ensure that each pilot design program is implemented in accordance with recommendations developed by the National Telecommuting and Air Quality Steering Committee, in consultation with the local design teams.
+
+“(c) Grants received under subsection (a) may be used for—
+
+&emsp;“(1) protocol development in the five metropolitan areas;
+
+&emsp;“(2) marketing of the telecommute, emissions reduction, pollution credits strategy and recruitment of participating employers; and
+
+&emsp;“(3) data gathering on emissions reductions.
+
+“(d) In addition to the grant under subsection (a), for the purpose of carrying out the second year of the 2-year program referred to in subsection (a), the Administrator shall—
+
+&emsp;“(1) make a grant of $750,000 to the National Environmental Policy Institute (a nonprofit private entity incorporated under the laws of and located in the District of Columbia); and
+
+&emsp;“(2) make grants totaling $1,250,000 to local agencies within the five metropolitan areas referred to in subsection (a).
+
+“(e) Not later than 360 days from first day of the second year of the 2-year program referred to in subsection (a), the Administrator shall transmit to Congress a report on the results of the program.
+
+“(f) The Administrator shall carry out this section in collaboration with the Secretary of Transportation.
+
+“(g) There is appropriated to the Department of Transportation, ‘Office of the Assistant Secretary for Policy’, $2,000,000 to carry out this section. Such amounts shall be transferred to and administered by the Environmental Protection Agency and shall remain available until expended: <i>Provided</i>, That the entire amount is designated by the Congress as an emergency requirement pursuant to section 251(b)(2)(A) of the Balanced Budget and Emergency Deficit Control Act of 1985, as amended \[2 U.S.C. 901(b)(2)(A)\]: <i>Provided further</i>, That the entire amount shall be available only to the extent an official budget request for a specific dollar amount, that includes designation of the entire amount of the request as an emergency requirement as defined by such Act, is transmitted by the President to the Congress.”
 
 #### National Acid Lakes Registry
 

@@ -34,7 +34,7 @@
 
 (m)(1) The terms of any contract under this chapter which relate to the nature, provision, or extent of coverage or benefits (including payments with respect to benefits) shall supersede and preempt any State or local law, or any regulation issued thereunder, which relates to health insurance or plans.
 
-(2)(A) Notwithstanding the provisions of paragraph (1) of this subsection, if a contract underthis chapter provides for the provision of, the payment for, or the reimbursement of the cost of health services for the care and treatment of any particular health condition, the carrier shall provide, pay, or reimburse up to the limits of its contract for any such health service properly provided by any person licensed under State law to provide such service if such service is provided to an individual covered by such contract in a State where 25 percent or more of the population is located in primary medical care manpower shortage areas designated pursuant to section 332 of the Public Health Service Act (42 U.S.C. 254e).
+(2)(A) Notwithstanding the provisions of paragraph (1) of this subsection, if a contract under this chapter provides for the provision of, thepayment for, or the reimbursement of the cost of health services for the care and treatment of any particular health condition, the carrier shall provide, pay, or reimburse up to the limits of its contract for any such health service properly provided by any person licensed under State law to provide such service if such service is provided to an individual covered by such contract in a State where 25 percent or more of the population is located in primary medical care manpower shortage areas designated pursuant to section 332 of the Public Health Service Act (42 U.S.C. 254e).
 
 (B) The provisions of subparagraph (A) shall not apply to contracts entered into providing prepayment plans described in section 8903(4) of this title.
 
@@ -108,7 +108,7 @@ Subsec. (n). Pub. L. 101–508 added subsec. (n).
 
 1987—Subsec. (k)(1). Pub. L. 100–202, §101(m) \[title VI, §626(1), (2)\], inserted “or by a qualified clinical social worker as defined in section 8901(11),” after “as applicable,”, and “, qualified clinical social worker” after “such a clinical psychologist”.
 
-Subsec. (k)(2), (3). Pub. L. 100–202, §101(m) \[title VI, §626(3)\], redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “When a contract under this chapter requires payment or reimbursement for services which may be performed by a qualified clinical social worker, an employee, annuitant, family member, or former spouse covered by the contract shall be entitled under the contract to have payment or reimbursement made to him or on his behalf for the services performed. As a condition for the payment or reimbursement, the contract—
+Subsec. (k)(2), (3). Pub. L. 100–202, §101(m) \[title VI, §626(3)\], redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “When a contract under this chapter requires payment or reimbursementfor services which may be performed by a qualified clinical social worker, an employee, annuitant, family member, or former spouse covered by the contract shall be entitled under the contract to have payment or reimbursement made to him or on his behalf for the services performed. As a condition for the payment or reimbursement, the contract—
 
 &emsp;“(A) may require that the services be performed pursuant to a referral by a psychiatrist; but
 

@@ -8,19 +8,13 @@ Hawaii National Park shall be under the executive control of the Secretary of th
 
 A provision making it the duty of the Secretary of the Interior, as soon as practicable, to make and publish such rules and regulations as he might deem necessary and proper for the care and management of the park was omitted as temporary and executed.
 
-#### Hawaii Volcanoes National Park
+#### Hawai‘i Volcanoes National Park
 
-Designation of portion of Hawaii National Park situated on island of Hawaii as Hawaii Volcanoes National Park, effective Sept. 22, 1961, see section 391d of this title.
+Designation of portion of Hawaii National Park situated on island of Hawaii as Hawai‘i Volcanoes National Park, effective Sept. 22, 1961, see section 391d of this title.
 
-#### Haleakala National Park
+#### Haleakala�AE8 National Park
 
-Establishment of detached portion of Hawaii National Park lying on island of Maui as Haleakala National Park, effective July 1, 1961, see section 396b of this title.
-
-#### Cross References
-
-All revenues of national parks to be covered into the Treasury, see section 452 of this title.
-
-Regulations of Secretary of the Interior, see section 395c of this title.
+Establishment of detached portion of Hawaii National Park lying on island of Maui as Haleakala�AE8 National Park, effective July 1, 1961, see section 396b of this title.
 
 #### Section Referred to in Other Sections
 

@@ -40,13 +40,7 @@ Sec. 2. The authority conferred upon the Attorney General by section 1 of this o
 
 Dwight D. Eisenhower.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Cross References
-
-Enforcement provisions, see section 1581 et seq. of Title 19, Customs Duties.
-
-Letters or writings nonmailable, see section 1717 of Title 18, Crimes and Criminal Procedure.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 408, 408a of this title; title 50 App. section 2410.
+This section is referred to in sections 408, 408a of this title; title 18 section 983; title 50 App. section 2410.
 

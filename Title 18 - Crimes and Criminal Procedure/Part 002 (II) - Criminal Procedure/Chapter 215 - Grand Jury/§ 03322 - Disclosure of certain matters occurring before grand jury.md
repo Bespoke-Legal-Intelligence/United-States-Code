@@ -1,12 +1,12 @@
 ### §3322. Disclosure of certain matters occurring before grand jury
 
-(a) A person who is privy to grand jury information concerning a banking law violation—
+(a) A person who is privy to grand jury information—
 
 &emsp;(1) received in the course of duty as an attorney for the government; or
 
 &emsp;(2) disclosed under rule 6(e)(3)(A)(ii) of the Federal Rules of Criminal Procedure;
 
-> may disclose that information to an attorney for the government for use in enforcing section 951 of the Financial Institutions Reform, Recovery and Enforcement Act of 1989 or for use in connection with civil forfeiture under section 981 of title 18, United States Code, of property described in section 981(a)(1)(C) of such title.
+> may disclose that information to an attorney for the government for use in enforcing section 951 of the Financial Institutions Reform, Recovery and Enforcement Act of 1989 or for use in connection with any civil forfeiture provision of Federal law.
 
 (b)(1) Upon motion of an attorney for the government, a court may direct disclosure of matters occurring before a grand jury during an investigation of a banking law violation to identified personnel of a Federal or State financial institution regulatory agency—
 
@@ -30,7 +30,7 @@
 
 &emsp;(3) the term “grand jury information” means matters occurring before a grand jury other than the deliberations of the grand jury or the vote of any grand juror.
 
-(Added Pub. L. 101–73, title IX, §964(a), Aug. 9, 1989, 103 Stat. 505; amended Pub. L. 106–102, title VII, §740, Nov. 12, 1999, 113 Stat. 1480.)
+(Added Pub. L. 101–73, title IX, §964(a), Aug. 9, 1989, 103 Stat. 505; amended Pub. L. 106–102, title VII, §740, Nov. 12, 1999, 113 Stat. 1480; Pub. L. 106–185, §10, Apr. 25, 2000, 114 Stat. 217.)
 
 #### References in Text
 
@@ -44,9 +44,15 @@ A prior section 3322, act June 25, 1948, ch. 645, 62 Stat. 829, related to the s
 
 #### Amendments
 
+2000—Subsec. (a). Pub. L. 106–185 struck out “concerning a banking law violation” after “grand jury information” in introductory provisions and substituted “any civil forfeiture provision of Federal law” for “civil forfeiture under section 981 of title 18, United States Code, of property described in section 981(a)(1)(C) of such title” in concluding provisions.
+
 1999—Subsec. (b)(1). Pub. L. 106–102, §740(1), inserted “Federal or State” before “financial institution” in introductory provisions.
 
 Subsec. (b)(2). Pub. L. 106–102, §740(2), inserted “at any time during or after the completion of the investigation of the grand jury,” after “paragraph (1)”.
+
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–185 applicable to any forfeiture proceeding commenced on or after the date that is 120 days after Apr. 25, 2000, see section 21 of Pub. L. 106–185, set out as a note under section 1324 of Title 8, Aliens and Nationality.
 
 #### Section Referred to in Other Sections
 

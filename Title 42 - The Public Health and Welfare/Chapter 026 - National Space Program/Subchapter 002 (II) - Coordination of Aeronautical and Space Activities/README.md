@@ -19,6 +19,8 @@ This subchapter is referred to in sections 2451, 5503, 5504 of this title.
 - [&sect; 02473d - Use of abandoned and underutilized buildings, grounds, and facilities](%C2%A7%2002473d%20-%20Use%20of%20abandoned%20and%20underutilized%20buildings%2C%20grounds%2C%20and%20facilities.md)
 - [&sect; 02474 - Omitted](%C2%A7%2002474%20-%20Omitted.md)
 - [&sect; 02475 - International cooperation](%C2%A7%2002475%20-%20International%20cooperation.md)
+- [&sect; 02475a - Competitiveness and international cooperation](%C2%A7%2002475a%20-%20Competitiveness%20and%20international%20cooperation.md)
+- [&sect; 02475b - Foreign contract limitation](%C2%A7%2002475b%20-%20Foreign%20contract%20limitation.md)
 - [&sect; 02476 - Reports to Congress](%C2%A7%2002476%20-%20Reports%20to%20Congress.md)
 - [&sect; 02476a - Disposal of excess land; approval by Congressional committees](%C2%A7%2002476a%20-%20Disposal%20of%20excess%20land%3B%20approval%20by%20Congressional%20committees.md)
 - [&sect; 02476b - Donations for space shuttle orbiter](%C2%A7%2002476b%20-%20Donations%20for%20space%20shuttle%20orbiter.md)

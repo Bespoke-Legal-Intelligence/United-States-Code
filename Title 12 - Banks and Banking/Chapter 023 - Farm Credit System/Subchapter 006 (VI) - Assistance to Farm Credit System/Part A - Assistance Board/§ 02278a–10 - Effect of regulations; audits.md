@@ -2,7 +2,7 @@
 
 #### (a) Issuance
 
-The Assistance Board may issue such regulations, policies, procedures, guidelines, or statements as the Board considers necessary or appropriate to carry out this subchapter, all ofwhich shall be promulgated and enforced without regard to subchapter II of chapter 5 of title 5.
+The Assistance Board may issue such regulations, policies, procedures, guidelines, or statements as the Board considers necessary or appropriate to carry out this subchapter, all of which shall be promulgated and enforced without regard to subchapter II of chapter 5 of title 5.
 
 #### (b) Regulation by Farm Credit Administration
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall (in addition to stipends paid to individuals under this subpart) pay to the institution of higher education, for each individual awarded a fellowship under this subpart at such institution, an institutional allowance. Except as provided in paragraph (2), such allowance shall be, for 1999–2000 and succeeding academic years, the same amount as the institutional payment made for 1998–1999 adjusted annually thereafter in accordance with inflation as determined by theDepartment of Labor's Consumer Price Index for the previous calendar year.
+&emsp;The Secretary shall (in addition to stipends paid to individuals under this subpart) pay to the institution of higher education, for each individual awarded a fellowship under this subpart at such institution, an institutional allowance. Except as provided in paragraph (2), such allowance shall be, for 1999–2000 and succeeding academic years, the same amount as the institutional payment made for 1998–1999 adjusted annually thereafter in accordance with inflation as determined by the Department of Labor's Consumer Price Index for the previous calendar year.
 
 #### (2) Reduction
 
@@ -12,7 +12,7 @@
 
 #### (b) Use for overhead prohibited
 
-Funds made available pursuant to this subpart may not be used for the general operational overhead of the academic department or program.
+Funds made available pursuant to this subpart may not be used for the general operationaloverhead of the academic department or program.
 
 (Pub. L. 89–329, title VII, §715, as added Pub. L. 105–244, title VII, §701, Oct. 7, 1998, 112 Stat. 1793.)
 

@@ -36,47 +36,7 @@ Amendment by Pub. L. 91–452 not to affect any immunity to which any individual
 
 For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, §1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
 
-#### Federal Rules of Civil Procedure
-
-Mandamus as abolished and manner of obtaining relief heretofore available, see rule 81, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-Subpoena, see rule 45.
-
-#### Federal Rules of Criminal Procedure
-
-Criminal contempt, see rule 42, Title 18, Appendix, Crimes and Criminal Procedure.
-
-Subpoena, see rule 17.
-
-#### Cross References
-
-Administrator of Wages and Hour Division, Secretary of Labor, and the industry committees under Fair Labor Standards Act, application of this section to, see section 209 of Title 29, Labor.
-
-Contempts—
-
-&emsp;&emsp;Contempts constituting crimes, see section 402 of Title 18, Crimes and Criminal Procedure.
-
-&emsp;&emsp;Jury trial of criminal contempts, see section 3691 of Title 18.
-
-&emsp;&emsp;Limitation of prosecution, see section 3285 of Title 18.
-
-&emsp;&emsp;Power of court, see section 401 of Title 18.
-
-&emsp;&emsp;Power of Supreme Court to prescribe rules of procedure, see section 2072 et seq. of Title 28, Judiciary and Judicial Procedure.
-
-&emsp;&emsp;Witness in foreign country failing to appear pursuant to subpoena, see section 1784 of Title 28.
-
-Hearings and investigations under Fair Labor Standards Act, application to, see section 209 of Title 29, Labor.
-
-Immunity of witnesses, see section 6001 et seq. of Title 18, Crimes and Criminal Procedure.
-
-Jurisdiction, powers and duties of Secretary of Agriculture in enforcing the provisions of the Packers and Stockyards Act, application of this section to, see section 222 of Title 7, Agriculture.
-
-Per diem and mileage of witnesses, see section 1821 of Title 28, Judiciary and Judicial Procedure.
-
-Writs, issuance of, see section 1651 of Title 28.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in section 57b–1 of this title; title 7 sections 198b, 222, 610, 1636, 2146, 3807; title 21 sections 467d, 677, 1051; title 26 section 5274; title 27 section 202; title 29 sections 177, 209, 521, 1134, 1573, 1862, 2004, 2933; title 33 sections 907, 944; title 42 section 7255; title 50 App. section 1983.
+This section is referred to in section 57b–1 of this title; title 7 sections 198b, 222, 610, 1636, 2146, 3807; title 21 sections 467d, 677, 1051; title 26 section 5274; title 27 section 202; title 29 sections 177, 209, 521, 1134, 1862, 2004, 2933; title 33 sections 907, 944; title 42 section 7255; title 50 App. section 1983.
 

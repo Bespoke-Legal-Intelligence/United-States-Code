@@ -30,20 +30,6 @@ Grade and Rank.—The Chairman, while so serving, holds the grade of general or,
 
 1987—Pub. L. 100–180 substituted “grade and rank” for “rank” in section catchline.
 
-#### Cross References
-
-Armed Forces Policy Council, member of, see section 171 of this title.
-
-Management of Joint Staff and its director, see section 155 of this title.
-
-Pay and allowances—
-
-&emsp;&emsp;Chairman, see section 203 of Title 37, Pay and Allowances of the Uniformed Services.
-
-&emsp;&emsp;Grade of general or admiral, see sections 3033, 5033, 5043, and 8033 of this title; sections 203, 402, 403, and 1009 of Title 37.
-
-&emsp;&emsp;Personal money allowance, see section 414 of Title 37.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 163 of this title.

@@ -48,3 +48,7 @@ In subsection (b), before clause (1), the words “to the office of” are omitt
 
 In subsection (c), the words “duties and powers” are substituted for “authorities” for clarity and consistency in the revised title and with other titles of the Code.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in section 106 of this title.
+

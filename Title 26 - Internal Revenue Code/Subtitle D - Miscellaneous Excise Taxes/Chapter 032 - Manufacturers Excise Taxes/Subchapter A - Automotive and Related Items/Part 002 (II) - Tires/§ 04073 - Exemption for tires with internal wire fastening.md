@@ -1,0 +1,22 @@
+### §4073. Exemption for tires with internal wire fastening
+
+The tax imposed by section 4071 shall not apply to tires of extruded tiring with an internal wire fastening agent.
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 482; June 29, 1956, ch. 462, title II, §204(c), 70 Stat. 389; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title VII, §735(c)(4), July 18, 1984, 98 Stat. 982.)
+
+#### Amendments
+
+<b>1984</b>—Pub. L. 98–369 substituted “Exemption for tires with internal wire fastening” for “Exemptions” in section catchline, and in text struck out subsec. (a) relating to exemption from tax on tires not more than 20 inches in diameter and not more than 13/4 inches in cross section, struck out subsec. (c) relating to exemption from tax on tread rubber in certain cases, and struck out letter designation “(b)” and subsection heading for subsec. (b) thereby designating text of former subsec. (b) as entire text of section.
+
+<b>1976</b>—Subsec. (c). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+
+<b>1956</b>—Subsec. (c). Act June 29, 1956, added subsec. (c).
+
+#### Effective Date of 1984 Amendment
+
+Amendment by Pub. L. 98–369 effective, except as otherwise provided, as if included in the provisions of the Highway Revenue Act of 1982, title V of Pub. L. 97–424, to which such amendment relates, see section 736 of Pub. L. 98–369, set out as a note under section 4051 of this title.
+
+#### Effective Date of 1956 Amendment
+
+Amendment by act June 29, 1956, effective July 1, 1956, see section 211 of act June 29, 1956, set out as a note under section 4041 of this title.
+

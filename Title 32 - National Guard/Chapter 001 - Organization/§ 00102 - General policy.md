@@ -20,17 +20,3 @@ July 9, 1952, ch. 608, §201(b), 66 Stat. 482.
 
 The words “The Congress further declares \* \* \* as expressed in the National Defense Act of 1916 as amended” and “It is the intent of Congress that” are omitted as surplusage. The words “United States” are substituted for the words “our” and “this Nation”. The words “more \* \* \* than are in” are substituted for the words “in excess of those”. The words “Federal duty” are substituted for the words “military service of the United States”. The words “as long as so needed” are substituted for the words “so long as such necessity exists”.
 
-#### Cross References
-
-Active duty of reserve components generally, see section 12301 of Title 10, Armed Forces.
-
-Active Federal service, see section 12401 of Title 10.
-
-Basic policy for order into Federal service, see section 10103 of Title 10.
-
-Call into Federal service, see section 12406 of Title 10.
-
-Insurrection, see section 331 et seq. of Title 10.
-
-Reserve components, see section 10101 et seq. of Title 10.
-

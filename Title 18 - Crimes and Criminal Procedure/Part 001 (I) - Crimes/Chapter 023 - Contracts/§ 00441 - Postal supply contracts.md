@@ -16,7 +16,7 @@ Changes in phraseology were also made.
 
 #### Amendments
 
-1994—Pub. L. 103–322, which directed the amendment of this section by substituting “fined under this title”for “fined not more than $10,000”, was executed by making the substitution for “fined not more than $5,000” in second par., to reflect the probable intent of Congress.
+1994—Pub. L. 103–322, which directed the amendment of this section by substituting “fined under this title” for “fined not more than $10,000”, was executed by making the substitution for “fined not more than $5,000” in second par., to reflect the probable intent of Congress.
 
 1970—Pub. L. 91–375 struck out “Post Office Department or the” before “Postal Service”.
 

@@ -26,7 +26,3 @@ Changes were made in phraseology.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $2,000”.
 
-#### Cross References
-
-Jurisdiction of offenses, see section 3241 of this title.
-

@@ -104,7 +104,7 @@ The Toxic Substances Control Act, referred to in par. (5)(B)(vi), is Pub. L. 94�
 
 The Safe Drinking Water Act, referred to in par. (5)(B)(vii), is title XIV of act July 1, 1944, as added Pub. L. 93–523, §2(a), Dec. 16, 1974, 88 Stat. 1660, as amended, which is classified generally to subchapter XII (§300f et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
-The National Environmental Policy Act of 1969, referred to in par. (5)(B)(viii), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of thisAct to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in par. (5)(B)(viii), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 The Endangered Species Act of 1973, referred to in par. (5)(B)(ix), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 

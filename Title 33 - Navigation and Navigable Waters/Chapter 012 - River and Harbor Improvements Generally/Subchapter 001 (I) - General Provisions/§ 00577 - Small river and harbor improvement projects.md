@@ -6,7 +6,7 @@ The Secretary of the Army is authorized to allot from any appropriations hereaft
 
 #### (b) Limitation on allotment
 
-Not more than $4,000,000 shall be allotted for the construction of a project under this sectionat any single locality and the amount allotted shall be sufficient to complete the Federal participation in the project under this section.
+Not more than $4,000,000 shall be allotted for the construction of a project under this section at any single locality and the amount allotted shall be sufficient to complete the Federal participation in the project under this section.
 
 #### (c) Lands, easements, and rights-of-way; indemnification; assurances of local cooperation
 

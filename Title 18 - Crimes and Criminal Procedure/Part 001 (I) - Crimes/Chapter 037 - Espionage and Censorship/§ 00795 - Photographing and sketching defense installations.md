@@ -44,14 +44,6 @@ Now, therefore, by virtue of the authority vested in me by the foregoing statuto
 
 This order supersedes Executive Order No. 8381 of March 22, 1940, entitled “Defining Certain Vital Military and Naval Installations and Equipment.”
 
-#### Canal Zone
-
-Applicability of section to Canal Zone, see section 14 of this title.
-
-#### Cross References
-
-Publication and sale of photographs of defense installations, see section 797 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 14, 796, 797, 951 of this title; title 50 App. section 34.

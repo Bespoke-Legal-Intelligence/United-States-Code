@@ -14,9 +14,3 @@ This section is rewritten to retain the intent of section 692 of title 18, U.S.C
 
 Minor changes were made in phraseology.
 
-#### Cross References
-
-Bureau of Prisons responsible for safekeeping of United States prisoners, see sections 4002 and 4042 of this title.
-
-Construction of Federal prisons in States without facilities for Federal prisoners, see sections 4003 and 4009 of this title.
-

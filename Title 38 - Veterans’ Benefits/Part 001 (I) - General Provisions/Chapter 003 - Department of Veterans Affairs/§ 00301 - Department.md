@@ -2,7 +2,7 @@
 
 (a) The Department of Veterans Affairs is an executive department of the United States.
 
-(b) The purpose of the Department is to administer the laws providing benefits and otherservices to veterans and the dependents and the beneficiaries of veterans.
+(b) The purpose of the Department is to administer the laws providing benefits and other services to veterans and the dependents and the beneficiaries of veterans.
 
 (c) The Department is composed of the following:
 
@@ -78,7 +78,7 @@ Pub. L. 100–527, §§1–12, 14, 16, 18, Oct. 25, 1988, 102 Stat. 2635–2642,
 
 “(b)
 
-Continuation of Service of General Counsel.—The individual serving on the effective date of this Act \[Mar. 15, 1989\] as the General Counsel of the Veterans’ Administration may act as the General Counsel of the Department of Veterans Affairs until a person is appointed under this Act to that office.
+Continuation of Service of General Counsel.—The individual serving on the effective date of this Act \[Mar. 15, 1989\] as the General Counsel of the Veterans’ Administration may act as the GeneralCounsel of the Department of Veterans Affairs until a person is appointed under this Act to that office.
 
 #### “SEC. 9. OFFICE OF THE INSPECTOR GENERAL.
 

@@ -44,7 +44,7 @@ Limitation on Notice to Selective Travelers.—Notice of a threat to civil aviat
 
 (f)
 
-Restricting Access to Information.—In cooperation with the departments, agencies, and instrumentalities of the Government that collect, receive, and analyze intelligence information related to aviation security, the Administrator shall develop procedures to minimize the number of individuals who have access to information about threats. However, a restriction on access to that information may be imposed only if the restriction does not diminish the ability of the Government to carry out its duties and powers related to aviation security effectively, including providing notice to the public and flight and cabin crews under this section.
+Restricting Access to Information.—In cooperation with the departments, agencies, and instrumentalities of the Government that collect, receive, and analyze intelligence information related to aviation security, the Administrator shall develop procedures to minimize the number of individuals who have access to information about threats. However, a restriction onaccess to that information may be imposed only if the restriction does not diminish the ability of the Government to carry out its duties and powers related to aviation security effectively, including providing notice to the public and flight and cabin crews under this section.
 
 (g)
 
@@ -108,5 +108,5 @@ In subsection (f), the words “departments, agencies, and instrumentalities of 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 40119 of this title.
+This section is referred to in sections 106, 40119 of this title.
 

@@ -56,7 +56,3 @@ Historical and Revision Notes
 
 Section 2106 provides that when a vessel is made liable in rem the vessel may be libeled and proceeded against in a United States district court.
 
-#### Federal Rules of Civil Procedure
-
-Admiralty and maritime rules of practice (which included libel procedures) were superseded, and civil and admiralty procedures in United States district courts were unified, effective July 1, 1966, see rule 1 and Supplemental Rules for Certain Admiralty and Maritime Claims, Title 28, Appendix, Judiciary and Judicial Procedure.
-

@@ -12,9 +12,3 @@ Section is comprised of part of section 4 of act June 17, 1902. Remainder of suc
 
 Provisions of this section as not amended, modified or repealed by the Submerged Lands Act, see section 1303 of this title.
 
-#### Cross References
-
-Construction charges against unproductive lands, see sections 423 to 423g of this title.
-
-Grand Teton National Park, withdrawn lands within exterior boundary, use for reclamation purposes, see section 406d–5 of Title 16, Conservation.
-

@@ -22,7 +22,7 @@ In order to allow new mines in Alaska to continue orderly development, the Secre
 
 #### (f) Authorization of appropriations
 
-There is authorized to be appropriated for the purpose of this section $250,000: <i>Provided</i>, That no new budget authority is authorized to be appropriated for fiscal year 1977.
+There is authorized to be appropriated for the purpose of this section $250,000: <i>Provided</i>, Thatno new budget authority is authorized to be appropriated for fiscal year 1977.
 
 (Pub. L. 95–87, title VII, §708, Aug. 3, 1977, 91 Stat. 521.)
 

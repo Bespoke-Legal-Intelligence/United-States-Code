@@ -80,7 +80,7 @@ Savings Provision.—Notwithstanding any amendment under this title that is made
 
 “(c)
 
-Technical Recommendations.—Not later than 9 months after the date of the enactment of this Act \[Oct. 21, 1998\], the Secretary shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking and Financial Services of the House of Representatives, recommended technical and conforming legislative changes necessary to carry out this title and the amendments made by this title.
+Technical Recommendations.—Not later than 9 months after the date of the enactment of this Act \[Oct. 21, 1998\], the Secretary shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking and Financial Services \[now Committee on Financial Services\] of the House of Representatives, recommended technical and conforming legislative changes necessary to carry out this title and the amendments made by this title.
 
 “(d)
 
@@ -296,5 +296,5 @@ Effective Date.—This section shall take effect on the date of the enactment of
 
 #### Limitation on Withholding or Conditioning of Assistance
 
-Assistance provided for in Housing and Community Development Act of 1974 \[42 U.S.C. 5301 et seq.\], National Housing Act \[12 U.S.C. 1701 et seq.\], United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\], Housing Act of 1949 \[see Short Title note set out under section 1441 of this title\], Demonstration Cities and Metropolitan Development Act of 1966 \[see Short Title note set out under section 3301 of this title\], and Housing and Urban Development Acts of 1965, 1968, 1969, and 1970not to be withheld or made subject to conditions by reason of tax-exempt status of obligations issued or to be issued for financing of assistance, except as otherwise provided by law, see section 817 of Pub. L. 93–383, set out as a note under section 5301 of this title.
+Assistance provided for in Housing and Community Development Act of 1974 \[42 U.S.C. 5301 et seq.\], National Housing Act \[12 U.S.C. 1701 et seq.\], United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\], Housing Act of 1949 \[see Short Title note set out under section 1441 of this title\], Demonstration Cities and Metropolitan Development Act of 1966 \[see Short Title note set out under section 3331 of this title\], and Housing and Urban Development Acts of 1965, 1968, 1969, and 1970not to be withheld or made subject to conditions by reason of tax-exempt status of obligations issued or to be issued for financing of assistance, except as otherwise provided by law, see section 817 of Pub. L. 93–383, set out as a note under section 5301 of this title.
 

@@ -6,5 +6,5 @@ On or before July 1 of 1989, and of each calendar year thereafter, the Railroad 
 
 #### Codification
 
-Section was enacted as part of the Railroad Unemployment Insurance and Retirement Improvement Actof 1988 and also as part of the Technical and Miscellaneous Revenue Act of 1988, and not as part of the Railroad Unemployment Insurance Act which comprises this chapter.
+Section was enacted as part of the Railroad Unemployment Insurance and Retirement Improvement Act of 1988 and also as part of the Technical and Miscellaneous Revenue Act of 1988, and not as part of the Railroad Unemployment Insurance Act which comprises this chapter.
 

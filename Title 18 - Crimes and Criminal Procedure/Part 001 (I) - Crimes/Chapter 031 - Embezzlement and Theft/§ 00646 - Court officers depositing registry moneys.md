@@ -1,6 +1,6 @@
 ### §646. Court officers depositing registry moneys
 
-Whoever, being a clerk or other officer of a court of the United States, fails to depositpromptly any money belonging in the registry of the court, or paid into court or received by the officers thereof, with the Treasurer or a designated depositary of the United States, in the name and to the credit of such court, or retains or converts to his own use or to the use of another any such money, is guilty of embezzlement and shall be fined under this title or not more than the amount embezzled, whichever is greater, or imprisoned not more than ten years, or both; but if the amount embezzled does not exceed $1,000, he shall be fined under this title or imprisoned not more than one year, or both.
+Whoever, being a clerk or other officer of a court of the United States, fails to deposit promptly any money belonging in the registry of the court, or paid into court or received by the officers thereof, with the Treasurer or a designated depositary of the United States, in the name and to the credit of such court, or retains or converts to his own use or to the use of another any such money, is guilty of embezzlement and shall be fined under this title or not more than the amount embezzled, whichever is greater, or imprisoned not more than ten years, or both; but if the amount embezzled does not exceed $1,000, he shall be fined under this title or imprisoned not more than one year, or both.
 
 This section shall not prevent the delivery of any such money upon security, according to agreement of parties, under the direction of the court.
 
@@ -25,14 +25,4 @@ Pub. L. 103–322, §330016(1)(H), substituted “fined under this title” for 
 #### Transfer of Functions
 
 Functions of all officers of Department of the Treasury, and functions of all agencies and employees of such Department, transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. The Treasurer of the United States, referred to in this section, is an officer of Department of the Treasury.
-
-#### Federal Rules of Civil Procedure
-
-Deposit in court, see rule 67, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-#### Cross References
-
-Depositaries of public moneys and financial agents of Government, see section 90 of Title 12, Banks and Banking.
-
-Moneys paid into court, deposit and withdrawal, see sections 2041, 2042 of Title 28, Judiciary and Judicial Procedure.
 

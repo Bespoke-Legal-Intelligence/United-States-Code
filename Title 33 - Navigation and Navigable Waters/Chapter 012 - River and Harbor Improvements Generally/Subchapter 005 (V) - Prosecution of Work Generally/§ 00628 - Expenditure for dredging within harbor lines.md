@@ -8,7 +8,3 @@ No money appropriated for the improvement of rivers and harbors shall be expende
 
 Section is from the Rivers and Harbors Appropriation Act of 1892.
 
-#### Cross References
-
-Harbor lines, establishment of, see section 404 of this title.
-

@@ -2,7 +2,7 @@ Part F—General Provisions
 
 #### Amendments
 
-1999—Pub. L. 106–71, §3(n)(1)(A), (B), Oct. 12, 1999, 113 Stat. 1040, redesignated part E as F and struck out partF heading “Administrative Provisions”, formerly set out preceding section 5715 of this title.
+1999—Pub. L. 106–71, §3(n)(1)(A), (B), Oct. 12, 1999, 113 Stat. 1040, redesignated part E as F and struck out part F heading “Administrative Provisions”, formerly set out preceding section 5715 of this title.
 
 1992—Pub. L. 102–586, §3(g)(1)(B)(i), Nov. 4, 1992, 106 Stat. 5022, redesignated part C as E.
 

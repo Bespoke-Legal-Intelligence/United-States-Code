@@ -60,5 +60,5 @@ The Arms Export Control Act, referred to in subsec. (b), is Pub. L. 90–629, Oc
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 44907, 46301, 46316 of this title.
+This section is referred to in sections 106, 44907, 46301, 46316 of this title.
 

@@ -2,7 +2,7 @@
 
 (a)
 
-General Authority.—The Administrator of the Federal Aviation Administration may make grants to institutions of higher education and nonprofit research organizations to conduct aviation research in areas the Administratorconsiders necessary for the long-term growth of civil aviation.
+General Authority.—The Administrator of the Federal Aviation Administration may make grants to institutions of higher education and nonprofit research organizations to conduct aviation research in areas the Administrator considers necessary for the long-term growth of civil aviation.
 
 (b)
 
@@ -56,5 +56,5 @@ In subsection (d), the words “money provided under the grant” are substitute
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 106, 40119, 44501, 44508, 48102, 50103 of this title.
+This section is referred to in sections 40119, 44501, 44508, 48102, 50103 of this title.
 

@@ -6,7 +6,7 @@ The purpose of this section is to provide for a center for the interpretation of
 
 #### (b) Acquisition of property at Corinth, Mississippi
 
-The Secretary of the Interior (referred to in this title <sup>1</sup> as the “Secretary”) shall acquire by donation, purchase with donated or appropriated funds, or exchange, such land and interests in land in the vicinity of the Corinth Battlefield, in the State of Mississippi, as the Secretary determines to be necessary for the construction of an interpretive center to commemorate and interpret the 1862 Civil War Siege and Battle of Corinth.
+The Secretary of the Interior (referred to in this title <sup>1</sup> as the “Secretary”) shall acquire by donation, purchase with donated or appropriated funds, or exchange, such land and interests inland in the vicinity of the Corinth Battlefield, in the State of Mississippi, as the Secretary determines to be necessary for the construction of an interpretive center to commemorate and interpret the 1862 Civil War Siege and Battle of Corinth.
 
 #### (c) Publicly owned land
 
@@ -35,6 +35,10 @@ There are authorized to be appropriated $6,000,000 for development to carry out 
 #### References in Text
 
 This title, referred to in subsec. (b), is title VI of div. I of Pub. L. 104–333, which enacted this section, section 469k of this title, provisions set out as a note under section 1a–5 of this title, and provisions listed in a table of National Battlefield Sites set out under section 461 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 430f–10, 430f–12 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -44,5 +44,5 @@ Section 1003(c) of Pub. L. 102–572 provided that: “This section \[enacting t
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1028, 1425, 1426, 1427, 1541, 1542, 1543, 1544, 1546, 1547 of this title; title 42 sections 10602, 14503.
+This section is referred to in sections 1028, 1425, 1426, 1427, 1541, 1542, 1543, 1544, 1546, 1547 of this title; title 42 sections 10602, 10603c, 14503.
 

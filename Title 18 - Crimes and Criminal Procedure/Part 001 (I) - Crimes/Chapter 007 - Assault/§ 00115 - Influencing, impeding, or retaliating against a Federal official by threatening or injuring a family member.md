@@ -28,13 +28,13 @@
 
 &emsp;&emsp;(B) any other person living in his household and related to him by blood or marriage;
 
-&emsp;(3) “United States judge” means any judicial officer of the United States, and includes a justice of the Supreme Court and a United States magistrate; and
+&emsp;(3) “United States judge” means any judicial officer of the United States, and includes a justice of the Supreme Court and a United States magistrate judge; and
 
 &emsp;(4) “United States official” means the President, President-elect, Vice President, Vice President-elect, a Member of Congress, a member-elect of Congress, a member of the executive branch who is the head of a department listed in 5 U.S.C. 101, or the Director of the Central Intelligence Agency.
 
 (d) This section shall not interfere with the investigative authority of the United States Secret Service, as provided under sections 3056, 871, and 879 of this title.
 
-(Added Pub. L. 98–473, title II, §1008(a), Oct. 12, 1984, 98 Stat. 2140; amended Pub. L. 99–646, §§37(a), 60, Nov. 10, 1986, 100 Stat. 3599, 3613; Pub. L. 100–690, title VI, §6487(f)\[b\], Nov. 18, 1988, 102 Stat. 4386; Pub. L. 101–647, title XXXV, §3508, Nov. 29, 1990, 104 Stat. 4922; Pub. L. 103–322, title XXXIII, §§330016(2)(C), 330021(1), Sept. 13, 1994, 108 Stat. 2148, 2150; Pub. L. 104–132, title VII, §§723(a), 727(b), Apr. 24, 1996, 110 Stat. 1300, 1302.)
+(Added Pub. L. 98–473, title II, §1008(a), Oct. 12, 1984, 98 Stat. 2140; amended Pub. L. 99–646, §§37(a), 60, Nov. 10, 1986, 100 Stat. 3599, 3613; Pub. L. 100–690, title VI, §6487(f)\[b\], Nov. 18, 1988, 102 Stat. 4386; Pub. L. 101–647, title XXXV, §3508, Nov. 29, 1990, 104 Stat. 4922; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 103–322, title XXXIII, §§330016(2)(C), 330021(1), Sept. 13, 1994, 108 Stat. 2148, 2150; Pub. L. 104–132, title VII, §§723(a), 727(b), Apr. 24, 1996, 110 Stat. 1300, 1302.)
 
 #### Amendments
 
@@ -64,7 +64,7 @@ Subsec. (b)(2). Pub. L. 99–646, §37(a), inserted “for the kidnapping or att
 
 #### Change of Name
 
-Reference to United States magistrate or to magistrate deemed to refer to United States magistrate judge pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+“United States magistrate judge” substituted for “United States magistrate” in subsec. (c)(3) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
 #### Section Referred to in Other Sections
 

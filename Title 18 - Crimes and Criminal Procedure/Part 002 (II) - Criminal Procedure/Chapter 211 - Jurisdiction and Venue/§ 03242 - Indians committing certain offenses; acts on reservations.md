@@ -28,7 +28,3 @@ This section \[section 51\] conforms section 3242 of title 18, U.S.C., with sect
 
 1949—Act May 24, 1949, substituted “within the Indian country” for “within any Indian reservation, including rights-of-way running through the reservation,”.
 
-#### Cross References
-
-Offenses committed within Indian country, see section 1153 of this title.
-

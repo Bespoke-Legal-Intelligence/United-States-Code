@@ -46,7 +46,7 @@ In this chapter, the following definitions apply:
 
 &emsp;(13) The term “State” means Maine, New Hampshire, Massachusetts, Rhode Island, Connecticut, New York, New Jersey, Pennsylvania, Delaware, Maryland, Virginia, North Carolina, South Carolina, Georgia, Florida, the District of Columbia, or the Potomac River Fisheries Commission.
 
-(Pub. L. 103–206, title VIII, §803, Dec. 20, 1993, 107 Stat. 2448; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 104–297, title IV, §404(a), Oct. 11, 1996, 110 Stat. 3619.)
+(Pub. L. 103–206, title VIII, §803, Dec. 20, 1993, 107 Stat. 2448; Pub. L. 104–297, title IV, §404(a), Oct. 11, 1996, 110 Stat. 3619; Pub. L. 106–555, title I, §122(b)(3), Dec. 21, 2000, 114 Stat. 2766.)
 
 #### References in Text
 
@@ -58,11 +58,11 @@ Proclamation Number 5030, referred to in par. (6), is set out as a note under se
 
 #### Amendments
 
+2000—Par. (5). Pub. L. 106–555 made technical amendment to reference in original act which appears in text as reference to section 1852 of this title.
+
 1996—Par. (1). Pub. L. 104–297 inserted “and” after semicolon in subpar. (A), substituted “States.” for “States; and” in subpar. (B), and struck out subpar. (C) which read as follows: “recommends actions to be taken by the Secretary in the exclusive economic zone to conserve and manage the fishery.”
 
-Par. (5). Pub. L. 104–208 made technical amendment to reference in original act which appears in text as reference to section 1852 of this title.
+#### Territorial Sea of United States
 
-#### Effective Date of 1996 Amendment
-
-Section 101(a) \[title II, §211(b)\] of div. A of Pub. L. 104–208 provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
+For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
 

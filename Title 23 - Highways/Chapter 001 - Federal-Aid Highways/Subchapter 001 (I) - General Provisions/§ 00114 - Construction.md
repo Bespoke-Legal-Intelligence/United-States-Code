@@ -54,7 +54,7 @@ Amendment by Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds 
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–473 effective Nov. 1, 1987, and applicable only to offenses committed after thetaking effect of this amendment, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of Title 18, Crimes and Criminal Procedure.
+Amendment by Pub. L. 98–473 effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of this amendment, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of Title 18, Crimes and Criminal Procedure.
 
 #### Materials Produced by Convict Labor
 

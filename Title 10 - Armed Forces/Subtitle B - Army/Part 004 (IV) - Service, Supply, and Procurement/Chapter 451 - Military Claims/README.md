@@ -17,12 +17,6 @@
 
 1960—Pub. L. 86–533, §1(8)(B), June 29, 1960, 74 Stat. 247, struck out item 4805 “Reports to Congress”.
 
-#### Cross References
-
-General military law provisions, see section 2731 et seq. of this title.
-
-Suits in admiralty by or against vessels or cargoes of United States, see section 741 et seq. of Title 46, Appendix, Shipping.
-
 
 ---
 

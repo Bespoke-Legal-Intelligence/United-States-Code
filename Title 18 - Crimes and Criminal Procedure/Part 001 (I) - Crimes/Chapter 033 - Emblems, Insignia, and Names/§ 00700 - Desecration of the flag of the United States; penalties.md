@@ -22,11 +22,11 @@ Subsec. (b). Pub. L. 101–131, §2(b), amended subsec. (b) generally. Prior to 
 
 Subsec. (d). Pub. L. 101–131, §3, added subsec. (d).
 
+#### Short Title of 2000 Amendment
+
+Pub. L. 106–547, §1, Dec. 19, 2000, 114 Stat. 2738, provided that: “This Act \[enacting sections 716 and 1036 of this title\] may be cited as the ‘Enhanced Federal Security Act of 2000’.”
+
 #### Short Title of 1989 Amendment
 
 Section 1 of Pub. L. 101–131 provided that: “This Act \[amending this section\] may be cited as the ‘Flag Protection Act of 1989’.”
-
-#### Cross References
-
-Penalty for mutilation or use of flag for advertising purposes, see section 3 of Title 4, Flag and Seal, Seat of Government, and the States.
 

@@ -20,7 +20,7 @@ The Postmaster General shall submit semiannual reports to the Inspector General 
 
 #### References in Text
 
-Section 5 of the Inspector General Act of 1978, referred to in text, is section 5 of Pub. L. 95–452, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 5 of the Inspector General Act of 1978, referred to in text, is section 5 of Pub. L. 95–452, which isset out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 

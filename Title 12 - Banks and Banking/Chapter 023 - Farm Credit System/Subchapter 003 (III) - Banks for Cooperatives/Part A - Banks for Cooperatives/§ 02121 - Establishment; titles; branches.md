@@ -62,7 +62,7 @@ Submission to fca.—On completion of the plan of merger pursuant to paragraph (
 
 &emsp;&emsp;“(B)
 
-Expedited review.—Not later than 30 days after the Farm Credit Administration receives theplan of merger, the Administration shall promptly review such plan and advise the special committee concerning any required changes that are necessary to the plan.
+Expedited review.—Not later than 30 days after the Farm Credit Administration receives the plan of merger, the Administration shall promptly review such plan and advise the special committee concerning any required changes that are necessary to the plan.
 
 &emsp;“(3)
 

@@ -14,7 +14,7 @@ The following shall be nationals and citizens of the United States at birth:
 
 &emsp;(f) a person of unknown parentage found in the United States while under the age of five years, until shown, prior to his attaining the age of twenty-one years, not to have been born in the United States;
 
-&emsp;(g) a person born outside the geographical limits of the United States and its outlying possessions of parents one of whom is an alien, and the other a citizen of the United States who, prior to the birth of such person, was physically present in the United States or its outlying possessions for a period or periods totaling not less than five years, at least two of which were after attaining the age of fourteen years: <i>Provided</i>, That any periods of honorableservice in the Armed Forces of the United States, or periods of employment with the United States Government or with an international organization as that term is defined in section 288 of title 22 by such citizen parent, or any periods during which such citizen parent is physically present abroad as the dependent unmarried son or daughter and a member of the household of a person (A) honorably serving with the Armed Forces of the United States, or (B) employed by the United States Government or an international organization as defined in section 288 of title 22, may be included in order to satisfy the physical-presence requirement of this paragraph. This proviso shall be applicable to persons born on or after December 24, 1952, to the same extent as if it had become effective in its present form on that date; and
+&emsp;(g) a person born outside the geographical limits of the United States and its outlying possessions of parents one of whom is an alien, and the other a citizen of the United States who, prior to the birth of such person, was physically present in the United States or its outlying possessions for a period or periods totaling not less than five years, at least two of which were after attaining the age of fourteen years: <i>Provided</i>, That any periods of honorable service in the Armed Forces of the United States, or periods of employment with the United States Government or with an international organization as that term is defined in section 288 of title 22 by such citizen parent, or any periods during which such citizen parent is physically present abroad as the dependent unmarried son or daughter and a member of the household of a person (A) honorably serving with the Armed Forces of the United States, or (B) employed by the United States Government or an international organization as defined in section 288 of title 22, may be included in order to satisfy the physical-presence requirement of this paragraph. This proviso shall be applicable to persons born on or after December 24, 1952, to the same extent as if it had become effective in its present form on that date; and
 
 &emsp;(h) a person born before noon (Eastern Standard Time) May 24, 1934, outside the limits and jurisdiction of the United States of an alien father and a mother who is a citizen of the United States who, prior to the birth of such person, had resided in the United States.
 
@@ -38,7 +38,7 @@ Subsec. (d). Pub. L. 95–432, §1, struck out subsec. (d) which provided that n
 
 Subsec. (d). Pub. L. 92–584, §3, added subsec. (d).
 
-1966—Subsec. (a)(7). Pub. L. 89–770 authorized periods of employment with the United States Government or with an international organization by the citizen parent, or any periods during which the citizen parent is physically present abroad as the dependent unmarried son or daughter and a member of the household of a person (A) honorably serving with the Armed Forces of the United States, or (B) employed by the United States Government or an international organization, to be included in order to satisfy the physical presence requirement, and permitted the proviso to be applicable to persons born on or after December 24, 1952.
+1966—Subsec. (a)(7). Pub. L. 89–770 authorized periods of employment with the United States Government or with an international organization by the citizen parent, or any periods during which the citizen parent is physically present abroad as the dependent unmarried son or daughter and a member of the household of a person (A) honorably serving with the Armed Forces ofthe United States, or (B) employed by the United States Government or an international organization, to be included in order to satisfy the physical presence requirement, and permitted the proviso to be applicable to persons born on or after December 24, 1952.
 
 #### Effective Date of 1986 Amendment
 
@@ -62,7 +62,7 @@ Section 101(c) of Pub. L. 103–416 provided that:
 
 “(1) Except as provided in paragraph (2), the immigration and nationality laws of the United States shall be applied (to persons born before, on, or after the date of the enactment of this Act \[Oct. 25, 1994\]) as though the amendment made by subsection (a) \[amending this section\], and subsection (b) \[enacting provisions set out above\], had been in effect as of the date of their birth, except that the retroactive application of the amendment and that subsection shall not affect the validity of citizenship of anyone who has obtained citizenship under section 1993 of the Revised Statutes \[former 8 U.S.C. 6\] (as in effect before the enactment of the Act of May 24, 1934 (48 Stat. 797)).
 
-“(2) The retroactive application of the amendment made by subsection (a), and subsection (b), shall not confer citizenship on, or affect the validity of any denaturalization, deportation, or exclusion action against, any person who is or was excludable from the United States under section 212(a)(3)(E) of the Immigration and Nationality Act (8 U.S.C. 1182(a)(3)(E)) (orpredecessor provision) or who was excluded from, or who would not have been eligible for admission to, the United States under the Displaced Persons Act of 1948 \[former 50 App. U.S.C. 1951 et seq.\] or under section 14 of the Refugee Relief Act of 1953 \[former 50 App. U.S.C. 1971<i>l</i>\].”
+“(2) The retroactive application of the amendment made by subsection (a), and subsection (b), shall not confer citizenship on, or affect the validity of any denaturalization, deportation, or exclusion action against, any person who is or was excludable from the United States under section 212(a)(3)(E) of the Immigration and Nationality Act (8 U.S.C. 1182(a)(3)(E)) (or predecessor provision) or who was excluded from, or who would not have been eligible for admission to, the United States under the Displaced Persons Act of 1948 \[former 50 App. U.S.C. 1951 et seq.\] or under section 14 of the Refugee Relief Act of 1953 \[former 50 App. U.S.C. 1971<i>l</i>\].”
 
 #### Applicability of Transmission Requirements
 
@@ -71,24 +71,6 @@ Section 101(d) of Pub. L. 103–416, as amended by Pub. L. 104–208, div. C, ti
 #### Admission of Alaska as State
 
 Alaska Statehood provisions as not conferring, terminating, or restoring United States nationality, see section 21 of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as a note preceding former section 21 of Title 48, Territories and Insular Possessions.
-
-#### Cross References
-
-Definition of the term—
-
-&emsp;&emsp;Alien, see section 1101(a)(3) of this title.
-
-&emsp;&emsp;National of the United States, see section 1101(a)(22) of this title.
-
-&emsp;&emsp;Parent, as used in subchapters I and II of this chapter, see section 1101(b)(2) of this title.
-
-&emsp;&emsp;Parent, as used in this subchapter, see section 1101(c)(2) of this title.
-
-&emsp;&emsp;Residence, see section 1101(a)(33) of this title.
-
-&emsp;&emsp;United States, see section 1101(a)(38) of this title.
-
-Persons born and naturalized in United States and subject to its jurisdiction as citizens of United States and State wherein they reside, see Const. Art. XIV, §1.
 
 #### Section Referred to in Other Sections
 

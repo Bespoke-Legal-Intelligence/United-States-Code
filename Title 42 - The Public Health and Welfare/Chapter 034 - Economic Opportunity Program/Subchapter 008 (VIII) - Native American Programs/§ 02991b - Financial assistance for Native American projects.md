@@ -6,7 +6,7 @@ The Commissioner is authorized to provide financial assistance, on a single year
 
 #### (b) Limitations of financial assistance; exceptions; non-Federal contributions
 
-Financial assistance extended to an agency under this subchapter shall not exceed 80 per centum of the approved costs of the assisted project, except that the Commissioner may approve assistance in excess of such percentage if the Commissioner determines, in accordance with regulations establishing objective criteria, that such action is required in furtherance of the purposes of this subchapter. Non-Federal contributions may be in cash or in kind, fairly evaluated, including but not limited to plant, equipment, and services. The Commissionershall not require non-Federal contributions in excess of 20 per centum of the approved costs of programs or activities assisted under this subchapter.
+Financial assistance extended to an agency under this subchapter shall not exceed 80 per centum of the approved costs of the assisted project, except that the Commissioner may approve assistance in excess of such percentage if the Commissioner determines, in accordance with regulations establishing objective criteria, that such action is required in furtherance of the purposes of this subchapter. Non-Federal contributions may be in cash or in kind, fairly evaluated, including but not limited to plant, equipment, and services. The Commissioner shall not require non-Federal contributions in excess of 20 per centum of the approved costs of programs or activities assisted under this subchapter.
 
 #### (c) Assistance as addition to, and not substitution for, activities previously carried out without Federal assistance; waiver; nonreservation areas
 
@@ -50,7 +50,7 @@ A prior section 2991b, Pub. L. 88–452, title VIII, §803, as added Pub. L. 89�
 
 Pub. L. 102–375, §822(21), substituted “Alaska Native villages” for “Alaskan Native villages”.
 
-Pub. L. 102–375, §822(1)(A), (B)(i), substituted “Commissioner” for “Secretary” wherever appearing and substituted “Indian and Alaska Native organizations” for “Indian organizations”.
+Pub. L. 102–375, §822(1)(A), (B)(i), substituted “Commissioner” for “Secretary” wherever appearing andsubstituted “Indian and Alaska Native organizations” for “Indian organizations”.
 
 Pub. L. 102–375, §822(1)(B)(ii), which directed the substitution of “area that is not an Indian reservation or Alaska Native village” for “nonreservation area”, could not be executed because the words “nonreservation area” did not appear.
 

@@ -1,8 +1,8 @@
 ### §1977. Veterans’ Group Life Insurance
 
-(a)(1) Veterans’ Group Life Insurance shall be issued in the amounts specified in section 1967(a) of this title. In the case of any individual, the amount of Veterans’ Group Life Insurance may not exceed the amount of Servicemembers’ Group Life Insurance coverage continued in force after the expiration of the period of duty or travel under section 1967(b) or 1968(a) of this title. No person may carry a combined amount of Servicemembers’ Group Life Insurance and Veterans’ Group Life Insurance in excess of $200,000 at any one time.
+(a)(1) Veterans’ Group Life Insurance shall be issued in the amounts specified in section 1967(a) of this title. In the case of any individual, the amount of Veterans’ Group Life Insurance may not exceed the amount of Servicemembers’ Group Life Insurance coverage continued in force after the expiration of the period of duty or travel under section 1967(b) or 1968(a) of this title. No person may carry a combined amount of Servicemembers’ Group Life Insurance and Veterans’ Group Life Insurance in excess of $250,000 at any one time.
 
-(2) If any person insured under Veterans’ Group Life Insurance again becomes insured under Servicemembers’ Group Life Insurance but dies before terminating or converting such person's Veterans’ Group Insurance, Veterans’ Group Life Insurance shall be payable only if such person is insured for less than $200,000 under Servicemembers’ Group Life Insurance, and then only in an amount which, when added to the amount of Servicemembers’ Group Life Insurance payable, does not exceed $200,000.
+(2) If any person insured under Veterans’ Group Life Insurance again becomes insured under Servicemembers’ Group Life Insurance but dies before terminating or converting such person's Veterans’ Group Insurance, Veterans’ Group Life Insurance shall be payable only if such person is insured for less than $250,000 under Servicemembers’ Group Life Insurance, and then only in an amount which, when added to the amount of Servicemembers’ Group Life Insurance payable, does not exceed $250,000.
 
 (b) Veterans’ Group Life Insurance shall (1) provide protection against death; (2) be issued on a renewable five-year term basis; (3) have no cash, loan, paid-up, or extended values; (4) except as otherwise provided, lapse for nonpayment of premiums; and (5) contain such other terms and conditions as the Secretary determines to be reasonable and practicable which are not specifically provided for in this section, including any provisions of this subchapter not specifically made inapplicable by the provisions of this section.
 
@@ -22,9 +22,11 @@
 
 (3) For the purpose of this subsection, the terms “Individual Ready Reserve” and “Inactive National Guard” shall have the meanings prescribed by the Secretary in consultation with the Secretary of Defense.
 
-(Added Pub. L. 93–289, §9(a), May 24, 1974, 88 Stat. 169, §777; amended Pub. L. 97–66, title IV, §401(b), Oct. 17, 1981, 95 Stat. 1031; Pub. L. 99–166, title IV, §401(b), Dec. 3, 1985, 99 Stat. 957; Pub. L. 99–576, title VII, §701(43), Oct. 28, 1986, 100 Stat. 3294; Pub. L. 102–25, title III, §336(b), Apr. 6, 1991, 105 Stat. 90; renumbered §1977 and amended Pub. L. 102–83, §§4(a)(2)(B)(iii), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 102–568, title II, §202, Oct. 29, 1992, 106 Stat. 4324; Pub. L. 103–446, title XII, §1201(e)(9), Nov. 2, 1994, 108 Stat. 4685; Pub. L. 104–275, title IV, §§403(b), 405(b)(1)(H), 406, Oct. 9, 1996, 110 Stat. 3338–3340.)
+(Added Pub. L. 93–289, §9(a), May 24, 1974, 88 Stat. 169, §777; amended Pub. L. 97–66, title IV, §401(b), Oct. 17, 1981, 95 Stat. 1031; Pub. L. 99–166, title IV, §401(b), Dec. 3, 1985, 99 Stat. 957; Pub. L. 99–576, title VII, §701(43), Oct. 28, 1986, 100 Stat. 3294; Pub. L. 102–25, title III, §336(b), Apr. 6, 1991, 105 Stat. 90; renumbered §1977 and amended Pub. L. 102–83, §§4(a)(2)(B)(iii), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L.102–568, title II, §202, Oct. 29, 1992, 106 Stat. 4324; Pub. L. 103–446, title XII, §1201(e)(9), Nov. 2, 1994, 108 Stat. 4685; Pub. L. 104–275, title IV, §§403(b), 405(b)(1)(H), 406, Oct. 9, 1996, 110 Stat. 3338–3340; Pub. L. 106–419, title III, §312(b), Nov. 1, 2000, 114 Stat. 1854.)
 
 #### Amendments
+
+2000—Subsec. (a). Pub. L. 106–419 substituted “$250,000” for “$200,000” in par. (1) and two places in par. (2).
 
 1996—Subsec. (a). Pub. L. 104–275, §403(b)(1), designated existing provisions as par. (1), struck out at end “Any person insured under Veterans’ Group Life Insurance who again becomes insured under Servicemen's Group Life Insurance may within 60 days after becoming so insured convert any or all of such person's Veterans’ Group Life Insurance to an individual policy of insurance under subsection (e). However, if such a person dies within the 60-day period and before converting such person's Veterans’ Group Life Insurance, Veterans’ Group Life Insurance will be payable only if such person is insured for less than $200,000 under Servicemen's Group Life Insurance, and then only in an amount which when added to the amount of Servicemen's Group Life Insurance payable shall not exceed $200,000.”, and added par. (2).
 
@@ -91,6 +93,10 @@ Subsec. (g). Pub. L. 99–576, §701(43)(E), substituted “the insured's” for
 Subsec. (h). Pub. L. 99–166, §401(b)(2), added subsec. (h).
 
 1981—Subsec. (a). Pub. L. 97–66 inserted figures of $25,000, $30,000, and $35,000 to the enumeration of allowable amounts in which Veterans’ Group Life Insurance may be issued, and substituted $35,000 for $20,000 as the maximum amount of combined Servicemen's Group Life Insurance and Veterans’ Group Life Insurance which a person may carry at any one time and as the figure covering situations in which a person insured under Veterans’ Group Life Insurance dies within the sixty-day period after having again become insured under Servicemen's Group Life Insurance before converting his Veterans’ Group Life Insurance to an individual policy.
+
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–419 effective on the first day of the first month that begins more than 120 days after Nov. 1, 2000, see section 312(c) of Pub. L. 106–419, set out as a note under section 1967 of this title.
 
 #### Effective Date of 1992 Amendment
 

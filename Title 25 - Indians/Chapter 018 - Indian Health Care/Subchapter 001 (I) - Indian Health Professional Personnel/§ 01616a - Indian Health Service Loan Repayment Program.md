@@ -50,7 +50,7 @@ To be eligible to participate in the Loan Repayment Program, an individual must�
 
 (1) In disseminating application forms and contract forms to individuals desiring to participate in the Loan Repayment Program, the Secretary shall include with such forms a fair summary of the rights and liabilities of an individual whose application is approved (and whose contract is accepted) by the Secretary, including in the summary a clear explanation of the damages to which the United States is entitled under subsection (<i>l</i>) of this section in the case of the individual's breach of the contract. The Secretary shall provide such individuals with sufficient information regarding the advantages and disadvantages of service as a commissioned officer in the Regular or Reserve Corps of the Public Health Service or a civilian employee of the Indian Health Service to enable the individual to make a decision on an informed basis.
 
-(2) The application form, contract form, and all other information furnished by the Secretary under this section shall be written in a manner calculated to be understood by the average individual applying to participate in the Loan Repayment Program.
+(2) The application form, contract form, and all other information furnished by the Secretary under this section shall be written in a mannercalculated to be understood by the average individual applying to participate in the Loan Repayment Program.
 
 (3) The Secretary shall make such application forms, contract forms, and other information available to individuals desiring to participate in the Loan Repayment Program on a date sufficiently early to ensure that such individuals have adequate time to carefully review and evaluate such forms and information.
 
@@ -68,7 +68,7 @@ To be eligible to participate in the Loan Repayment Program, an individual must�
 
 &emsp;(B) individuals recruited through the efforts of Indian tribes or tribal or Indian organizations.
 
-(3)(A) Subject to subparagraph (B), of the total amounts appropriated for each of the fiscalyears 1993, 1994, and 1995 for loan repayment contracts under this section, the Secretary shall provide that—
+(3)(A) Subject to subparagraph (B), of the total amounts appropriated for each of the fiscal years 1993, 1994, and 1995 for loan repayment contracts under this section, the Secretary shall provide that—
 
 &emsp;(i) not less than 25 percent be provided to applicants who are nurses, nurse practitioners, or nurse midwives; and
 
@@ -136,7 +136,7 @@ The written contract referred to in this section between the Secretary and an in
 
 &emsp;(iii) provides an incentive with respect to the health professional involved remaining in an Indian health program with such a health professional shortage, and continuing to provide primary health services, after the completion of the period of obligated service under the Loan Repayment Program.
 
-(B) Any arrangement made by the Secretary for the making of loan repayments in accordance with this subsection shall provide that anyrepayments for a year of obligated service shall be made no later than the end of the fiscal year in which the individual completes such year of service.
+(B) Any arrangement made by the Secretary for the making of loan repayments in accordance with this subsection shall provide that any repayments for a year of obligated service shall be made no later than the end of the fiscal year in which the individual completes such year of service.
 
 (3) For the purpose of providing reimbursements for tax liability resulting from payments under paragraph (2) on behalf of an individual, the Secretary—
 
@@ -190,7 +190,7 @@ The Secretary, in assigning individuals to serve in Indian health programs pursu
 
 &emsp;(A) “A” is the amount the United States is entitled to recover;
 
-&emsp;(B) “Z” is the sum of the amounts paid under this section to, or on behalf of, the individual and the interest on such amounts which would be payable if, at the time the amounts were paid, they were loans bearing interest at the maximum legal prevailing rate, as determined by the Treasurer of the United States;
+&emsp;(B) “Z” is the sum of the amounts paid under this section to, or on behalf of, the individual and the interest on such amounts which would be payable if, at the time the amounts were paid, they were loans bearing interest atthe maximum legal prevailing rate, as determined by the Treasurer of the United States;
 
 &emsp;(C) “t” is the total number of months in the individual's period of obligated service in accordance with subsection (f) of this section; and
 
@@ -206,7 +206,7 @@ The Secretary, in assigning individuals to serve in Indian health programs pursu
 
 &emsp;(ii) enter into contracts for the recovery of such damages with collection agencies selected by the Secretary.
 
-(C) Each contract for recovering damages pursuant to this subsection shall provide that the contractor will, not less than once each 6 months, submit to the Secretary a status reporton the success of the contractor in collecting such damages. Section 3718 of title 31 shall apply to any such contract to the extent not inconsistent with this subsection.
+(C) Each contract for recovering damages pursuant to this subsection shall provide that the contractor will, not less than once each 6 months, submit to the Secretary a status report on the success of the contractor in collecting such damages. Section 3718 of title 31 shall apply to any such contract to the extent not inconsistent with this subsection.
 
 #### (m) Cancellation or waiver of obligations; bankruptcy discharge
 
@@ -254,7 +254,7 @@ Subsec. (b)(1)(A)(ii). Pub. L. 102–573, §106(a)(2)(A)(ii), substituted “a h
 
 Subsec. (b)(1)(B). Pub. L. 102–573, §106(a)(2)(B), in cl. (i), substituted “a degree in a health profession; and” for “a degree in medicine, osteopathy, dentistry, or other health profession;”, redesignated cl. (iii) as (ii) and substituted “a health profession” for “medicine, osteopathy, dentistry, or other health profession”, and struck out former cl. (ii) which read as follows: “completed an approved graduate training program in medicine, osteopathy, dentistry, or other health profession in a State, except that the Secretary may waive the completion requirement of this clause for good cause; and”.
 
-Subsec. (b)(2) to (4). Pub. L. 102–573, §106(a)(2)(C), inserted “and” at end of par. (2)(D), added par. (3), and struck out former pars. (3) and (4) which read as follows:
+Subsec. (b)(2) to (4). Pub. L. 102–573, §106(a)(2)(C), inserted “and” at end of par. (2)(D), added par. (3), andstruck out former pars. (3) and (4) which read as follows:
 
 “(3) submit an application to participate in the Loan Repayment Program; and
 
@@ -272,7 +272,7 @@ Subsec. (e)(2)(A). Pub. L. 102–573, §106(d), inserted “, including extensi
 
 Subsec. (g)(1). Pub. L. 102–573, §106(e), in introductory provisions, substituted “loans received by the individual regarding the undergraduate or graduate education of the individual (or both), which loans were made for” for “loans received by the individual for”.
 
-Subsec. (g)(2)(A). Pub. L. 102–573, §106(f), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Except as provided in subparagraph\(B) and paragraph (3), for each year of obligated service for which an individual contracts to serve under subsection (f) of this section, the Secretary may pay up to $25,000 on behalf of the individual for loans described in paragraph (1).”
+Subsec. (g)(2)(A). Pub. L. 102–573, §106(f), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Except as provided in subparagraph (B) and paragraph (3), for each year of obligated service for which an individual contracts to serve under subsection (f) of this section, the Secretary may pay up to $25,000 on behalf of the individual for loans described in paragraph (1).”
 
 Subsec. (g)(3). Pub. L. 102–573, §106(g)(1), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “In addition to payments made under paragraph (2), in any case in which payments on behalf of an individual under the Loan Repayment Program result in an increase in Federal, State, or local income tax liability for such individual, the Secretary may, on the request of such individual, make payments to such individual in a reasonable amount, as determined by the Secretary, to reimburse such individual for all or part of the increased tax liability of the individual.”
 

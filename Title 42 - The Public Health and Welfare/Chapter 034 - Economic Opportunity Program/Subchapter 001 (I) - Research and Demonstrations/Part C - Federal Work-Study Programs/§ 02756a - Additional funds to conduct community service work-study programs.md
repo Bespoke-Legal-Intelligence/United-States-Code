@@ -6,13 +6,13 @@ Each institution participating under this part may use up to 10 percent of the f
 
 &emsp;(2) assuring student access to educational resources, expertise, and supervision necessary to achieve community service objectives, and
 
-&emsp;(3) collaboration with public and private nonprofit agencies, and programs assistedunder the National and Community Service Act of 1990 \[42 U.S.C. 12501 et seq.\] in the planning, development, and administration of such programs.
+&emsp;(3) collaboration with public and private nonprofit agencies, and programs assisted under the National and Community Service Act of 1990 \[42 U.S.C. 12501 et seq.\] in the planning, development, and administration of such programs.
 
 (Pub. L. 89–329, title IV, §447, as added Pub. L. 92–318, title I, §135F, June 23, 1972, 86 Stat. 271; amended Pub. L. 94–482, title I, §128(d), Oct. 12, 1976, 90 Stat. 2143; Pub. L. 96–374, title IV, §436, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1436, 1503; Pub. L. 99–498, title IV, §403(a), Oct. 17, 1986, 100 Stat. 1436; Pub. L. 102–325, title IV, §446(a), (b), July 23, 1992, 106 Stat. 567.)
 
 #### References in Text
 
-The National and Community Service Act of 1990, referred to in par. (3), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, which is classified principally to chapter 129 (§12501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of this title and Tables.
+The National and Community Service Act of 1990, referred to in par. (3), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, as amended, which is classified principally to chapter 129 (§12501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of this title and Tables.
 
 #### Prior Provisions
 

@@ -1120,7 +1120,7 @@ Administration.
 
 |  |  |
 | :--- | ---: |
-| 1437z–6. | Services for public housing residents. |
+| 1437z–6. | Services for public and Indian housing residents. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1187,21 +1187,9 @@ Effect of certain contract terms.
 |  |  |
 | :--- | ---: |
 | 1437aa to 1437ee. Repealed. |  |
-| [1437ff.](Subchapter%20002%20%28II%29%20-%20Assisted%20Housing%20for%20Indians%20and%20Alaska%20Natives/%C2%A7%2001437ff%20-%20Waiver%20of%20matching%20funds%20requirements%20in%20Indian%20housing%20programs.md) | Waiver of matching funds requirements in Indian housing programs. |
+| [1437ff.](Subchapter%20002%20%28II%29%20-%20Assisted%20Housing%20for%20Indians%20and%20Alaska%20Natives/%C2%A7%2001437ff%20-%20Transferred.md) | Transferred. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Authorization of waiver.
-
-(b)
-
-Extent of waiver.
-
-(c)
-
-“Housing program” defined.
 
 #### SUBCHAPTER II–A—HOPE FOR PUBLIC HOUSING HOMEOWNERSHIP
 
@@ -1576,7 +1564,7 @@ Protection of guarantees issued by United States; inclusion by purchaser in gros
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1382a, 1404a, 1434, 1436a, 1436b, 1439, 1471, 1485, 1490a, 1502, 1503, 1504, 1586, 1590, 1594c, 1766, 3013, 5153, 5515, 8003, 11903, 12705, 12896, 12910, 14614 of this title; title 12 sections 24, 1441a, 1701r–1, 1715z–1a, 1701z–3, 1701z–11, 1715<i>l</i>, 1831q; title 20 section 7713; title 25 sections 640d–14, 4103, 4111, 4112, 4116, 4133, 4140, 4152, 4181, 4182, 4183, 4191; title 26 section 32; title 29 section 1605.
+This chapter is referred to in sections 1382a, 1396r–1a, 1404a, 1434, 1436a, 1436b, 1439, 1471, 1485, 1490a, 1502, 1503, 1504, 1586, 1590, 1594c, 1766, 3013, 5153, 5515, 8003, 11903, 12705, 12896, 12910, 14614 of this title; title 12 sections 24, 1441a, 1701r–1, 1715z–1a, 1701z–3, 1701z–11, 1715<i>l</i>, 1831q; title 25 sections 640d–14, 4103, 4111, 4112, 4116, 4133, 4140, 4152, 4181, 4182, 4183, 4191; title 26 section 32; title 29 section 1605.
 
 
 ---

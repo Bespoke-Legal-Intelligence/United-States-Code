@@ -60,7 +60,7 @@ Aug. 23, 1912, ch. 350, §6(words before semicolon), 37 Stat. 414.
 
 In the section, the word “apportion” is substituted for “apportionment or reapportionment” because of section 1512(a)(last sentence) of the revised title.
 
-In subsection (a), before clause (1), the word “official” is substituted for “officer” for consistency in the revised title. The words “judicial branch” are substituted for “judiciary”, and the words “District of Columbia government” are substituted for “District of Columbia”, for consistency.
+In subsection (a), before clause (1), the word “official” is substituted for “officer” for consistency in therevised title. The words “judicial branch” are substituted for “judiciary”, and the words “District of Columbia government” are substituted for “District of Columbia”, for consistency.
 
 In subsection (b), the word “President” is substituted for “Director of the Office of Management and Budget”, “Office of Management and Budget”, and “Director” because sections 101 and 102(a) of Reorganization Plan No. 2 of 1970 (eff. July 1, 1970, 84 Stat. 2085) designated the Bureau of the Budget as the Office of Management and Budget and transferred all functions of the Bureau to the President.
 

@@ -26,11 +26,13 @@ In order to carry out the provisions of this chapter, the Center may—
 
 &emsp;(11) make other necessary expenditures.
 
-#### (b) Annual report
-
-The Center shall submit to Congress an annual report of its operations under this chapter.
+#### (b) Omitted
 
 (Pub. L. 100–458, title I, §119, Oct. 1, 1988, 102 Stat. 2176; Pub. L. 101–163, title III, §320, Nov. 21, 1989, 103 Stat. 1068; Pub. L. 101–520, title III, §313(c), Nov. 5, 1990, 104 Stat. 2282.)
+
+#### Codification
+
+Subsection (b), which required the Center to submit an annual report to Congress on its operations under this chapter, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 143 of House Document No. 103–7.
 
 #### Amendments
 
@@ -44,5 +46,5 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1105, 1106 of this title.
+This section is referred to in sections 1105, 1106, 1151 of this title.
 

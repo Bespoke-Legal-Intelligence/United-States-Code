@@ -18,7 +18,7 @@ If a judgment is entered for the United States in a civil forfeiture proceeding 
 
 &emsp;(3) the remission or mitigation of any such forfeiture;
 
-> shall apply to seizures and forfeitures incurred, or alleged to have been incurred, under the provisions of this chapter, unless such provisionsare inconsistent with the purposes, policy, and provisions of this chapter. The duties and powers imposed upon the Commissioner of Customs or other persons under such provisions shall, with respect to this chapter, be performed by officers or other persons designated for such purpose by the Secretary.
+> shall apply to seizures and forfeitures incurred, or alleged to have been incurred, under the provisions of this chapter, unless such provisions are inconsistent with the purposes, policy, and provisions of this chapter. The duties and powers imposed upon the Commissioner of Customs or other persons under such provisions shall, with respect to this chapter, be performed by officers or other persons designated for such purpose by the Secretary.
 
 #### (d) Procedure
 
@@ -34,7 +34,7 @@ If a judgment is entered for the United States in a civil forfeiture proceeding 
 
 #### (e) Rebuttable presumptions
 
-(1) For purposes of this section, it shall be a rebuttable presumption that all fish found on board a fishing vessel which is seized in connection with an act prohibited by section 1857 of this title were taken or retained in violation of this chapter.
+(1) For purposes of this section, it shall be a rebuttable presumption that all fish found onboard a fishing vessel which is seized in connection with an act prohibited by section 1857 of this title were taken or retained in violation of this chapter.
 
 (2) For purposes of this chapter, it shall be a rebuttable presumption that any fish of a species which spawns in fresh or estuarine waters and migrates to ocean waters that is found on board a vessel is of United States origin if the vessel is within the migratory range of the species during that part of the year to which the migratory range applies.
 
@@ -74,5 +74,5 @@ Section effective Mar. 1, 1977, see section 312 of Pub. L. 94–265, formerly se
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1417, 1861, 3606, 3637, 5103, 5106, 5606 of this title.
+This section is referred to in sections 1417, 1861, 3606, 3637, 5103, 5106, 5154, 5158, 5606 of this title.
 

@@ -22,7 +22,11 @@
 
 #### Amendments
 
-1988—Subsec. (a)(7). Pub. L. 100–702 added par. (7).
+<b>1988</b>—Subsec. (a)(7). Pub. L. 100–702 added par. (7).
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (b) of this section relating to requirement that the Board transmit to Congress copies of all reports and recommendations submitted to the Judicial Conference of the United States, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 12 of House Document No. 103–7.
 
 #### Section Referred to in Other Sections
 

@@ -4,6 +4,8 @@ Part H—General Provisions
 
 1993—Pub. L. 103–43, title I, §141(a)(2), June 10, 1993, 107 Stat. 136, redesignated part G “General Provisions” as H. Former part H “National Foundation for Biomedical Research” redesignated I.
 
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
 
 ---
 

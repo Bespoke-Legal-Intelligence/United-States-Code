@@ -12,13 +12,13 @@ No person shall act as an agent of a foreign principal unless he has filed with 
 
 &emsp;(4) Copies of each written agreement and the terms and conditions of each oral agreement, including all modifications of such agreements, or, where no contract exists, a full statement of all the circumstances, by reason of which the registrant is an agent of a foreign principal; a comprehensive statement of the nature and method of performance of each such contract, and of the existing and proposed activity or activities engaged in or to be engaged in by the registrant as agent of a foreign principal for each such foreign principal, including a detailed statement of any such activity which is a political activity;
 
-&emsp;(5) The nature and amount of contributions, income, money, or thing of value, if any, that the registrant has received within the preceding sixty days from each such foreign principal, either as compensation or for disbursement or otherwise, and the form and time of each such payment and from whom received;
+&emsp;(5) The nature and amount of contributions, income, money, or thing of value, if any, thatthe registrant has received within the preceding sixty days from each such foreign principal, either as compensation or for disbursement or otherwise, and the form and time of each such payment and from whom received;
 
 &emsp;(6) A detailed statement of every activity which the registrant is performing or is assuming or purporting or has agreed to perform for himself or any other person other than a foreign principal and which requires his registration hereunder, including a detailed statement of any such activity which is a political activity;
 
 &emsp;(7) The name, business, and residence addresses, and if an individual, the nationality, of any person other than a foreign principal for whom the registrant is acting, assuming or purporting to act or has agreed to act under such circumstances as require his registration hereunder; the extent to which each such person is supervised, directed, owned, controlled, financed, or subsidized, in whole or in part, by any government of a foreign country or foreign political party or by any other foreign principal; and the nature and amount of contributions, income, money, or thing of value, if any, that the registrant has received during the preceding sixty days from each such person in connection with any of the activities referred to in clause (6) of this subsection, either as compensation or for disbursement or otherwise, and the form and time of each such payment and from whom received;
 
-&emsp;(8) A detailed statement of the money and other things of value spent or disposed of by the registrant during the preceding sixty daysin furtherance of or in connection with activities which require his registration hereunder and which have been undertaken by him either as an agent of a foreign principal or for himself or any other person or in conection <sup>1</sup> with any activities relating to his becoming an agent of such principal, and a detailed statement of any contributions of money or other things of value made by him during the preceding sixty days (other than contributions the making of which is prohibited under the terms of section 613 <sup>2</sup> of title 18) in connection with an election to any political office or in connection with any primary election, convention, or caucus held to select candidates for any political office;
+&emsp;(8) A detailed statement of the money and other things of value spent or disposed of by the registrant during the preceding sixty days in furtherance of or in connection with activities which require his registration hereunder and which have been undertaken by him either as an agent of a foreign principal or for himself or any other person or in conection <sup>1</sup> with any activities relating to his becoming an agent of such principal, and a detailed statement of any contributions of money or other things of value made by him during the preceding sixty days (other than contributions the making of which is prohibited under the terms of section 613 <sup>2</sup> of title 18) in connection with an election to any political office or in connection with any primary election, convention, or caucus held to select candidates for any political office;
 
 &emsp;(9) Copies of each written agreement and the terms and conditions of each oral agreement, including all modifications of such agreements, or, where no contract exists, a full statement of all the circumstances, by reason of which the registrant is performing or assuming or purporting or has agreed to perform for himself or for a foreign principal or for any person other than a foreign principal any activities which require his registration hereunder;
 
@@ -40,7 +40,7 @@ The fact that a registration statement or supplement thereto has been filed shal
 
 #### (e) Incorporation of previous statement by reference
 
-If any agent of a foreign principal, required to register under the provisions of this subchapter, has previously thereto registered with the Attorney General under the provisions of section 2386 of title 18, the Attorney General, in order to eliminate inappropriate duplication, may permit the incorporation by reference in the registration statement or supplements thereto filed hereunder of any information or documents previously filed by such agent of a foreign principal under the provisions of said section.
+If any agent of a foreign principal, required to register under the provisions of this subchapter,has previously thereto registered with the Attorney General under the provisions of section 2386 of title 18, the Attorney General, in order to eliminate inappropriate duplication, may permit the incorporation by reference in the registration statement or supplements thereto filed hereunder of any information or documents previously filed by such agent of a foreign principal under the provisions of said section.
 
 #### (f) Exemption by Attorney General
 
@@ -88,13 +88,13 @@ Subsec. (f). Pub. L. 89–486, §2(7), added subsec. (f).
 
 Amendment by Pub. L. 89–486 effective ninety days after July 4, 1966, see section 9 of Pub. L. 89–486, set out as a note under section 611 of this title.
 
+#### Effective Date of 1942 Amendment
+
+Amendment by act Apr. 29, 1942, effective on the sixtieth day after Apr. 29, 1942, except that prior to such sixtieth day the Attorney General may make, prescribe, amend, and rescind such rules, regulations, and forms as may be necessary to carry out act Apr. 29, 1942, see section 3 of act Apr. 29, 1942, set out as a note under section 611 of this title.
+
 #### Fees for Necessary Expenses of Registration Unit
 
 Pub. L. 102–395, title I, Oct. 6, 1992, 106 Stat. 1831, provided in part that: “In addition, notwithstanding 31 U.S.C. 3302, for fiscal year 1993 and thereafter, the Attorney General shall establish and collect fees to recover necessary expenses of the Registration Unit (to include salaries, supplies, equipment and training) pursuant to the Foreign Agents Registration Act \[probably means Foreign Agents Registration Act of 1938, as amended, 22 U.S.C. 611 et seq.\], and shall credit such fees to this appropriation, to remain available until expended.”
-
-#### Cross References
-
-Registration functions of the Secretary of State transferred to the Attorney General, see Ex. Ord. No. 9176, set out preceding section 611 of this title.
 
 #### Section Referred to in Other Sections
 

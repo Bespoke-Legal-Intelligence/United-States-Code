@@ -6,11 +6,11 @@
 
 &emsp;(2) The Vice Chairman of the Joint Chiefs of Staff.
 
-&emsp;(3) One senior representative of the Department of Energy designated by the Secretary of Energy.
+&emsp;(3) The Under Secretary for Nuclear Security of the Department of Energy.
 
 (b)(1) Except as provided in paragraph (2), the Chairman of the Council shall be the member designated under subsection (a)(1).
 
-(2) A meeting of the Council shall be chaired by the representative designated under subsection (a)(3) whenever the matter under consideration is within the primary responsibility or concern of the Department of Energy, as determined by majority vote of the Council.
+(2) A meeting of the Council shall be chaired by the Under Secretary for Nuclear Security of the Department of Energy whenever the matter under consideration is within the primary responsibility or concern of the Department of Energy, as determined by majority vote of the Council.
 
 (3) The Council shall meet not less often than once every three months.
 
@@ -70,9 +70,13 @@
 
 &emsp;(5) An assessment of the extent to which the requirements referred to in paragraph (4) are being addressed by the Department of Energy as of that date.
 
-(Added Pub. L. 99–661, div. C, title I, §3137(a)(1), Nov. 14, 1986, 100 Stat. 4065; amended Pub. L. 100–180, div. A, title XII, §1231(2), Dec. 4, 1987, 101 Stat. 1160; Pub. L. 100–456, div. A, title XII, §1233(h), Sept. 29, 1988, 102 Stat. 2058; Pub. L. 102–484, div. C, title XXXI, §3133, Oct. 23, 1992, 106 Stat. 2639; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. C, title XXXI, §3152, Oct. 5, 1994, 108 Stat. 3090; Pub. L. 104–106, div. A, title IX, §904(b)(1), title XV, §1502(a)(7), Feb. 10, 1996, 110 Stat. 403, 502; Pub. L. 104–201, div. C, title XXXI, §3159(c), Sept. 23, 1996, 110 Stat. 2842; Pub. L. 106–65, div. A, title IX, §911(a)(1), title X, §1067(1), div. C, title XXXI, §3163(a), (c), Oct. 5, 1999, 113 Stat. 717, 774, 944.)
+(Added Pub. L. 99–661, div. C, title I, §3137(a)(1), Nov. 14, 1986, 100 Stat. 4065; amended Pub. L. 100–180, div. A, title XII, §1231(2), Dec. 4, 1987, 101 Stat. 1160; Pub. L. 100–456, div. A, title XII, §1233(h), Sept. 29, 1988, 102 Stat. 2058; Pub. L. 102–484, div. C, title XXXI, §3133, Oct. 23, 1992, 106 Stat. 2639; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. C, title XXXI, §3152, Oct. 5, 1994, 108 Stat. 3090; Pub. L. 104–106, div. A, title IX, §904(b)(1), title XV, §1502(a)(7), Feb. 10, 1996, 110Stat. 403, 502; Pub. L. 104–201, div. C, title XXXI, §3159(c), Sept. 23, 1996, 110 Stat. 2842; Pub. L. 106–65, div. A, title IX, §911(a)(1), title X, §1067(1), div. C, title XXXI, §3163(a), (c), Oct. 5, 1999, 113 Stat. 717, 774, 944; Pub. L. 106–398, §1 \[div. C, title XXXI, §3152(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–464.)
 
 #### Amendments
+
+2000—Subsec. (a)(3). Pub. L. 106–398, §1 \[div. C, title XXXI, §3152(a)(1)\], added par. (3) and struck out former par. (3) which read as follows: “One senior representative of the Department of Energy designated by the Secretary of Energy.”
+
+Subsec. (b)(2). Pub. L. 106–398, §1 \[div. C, title XXXI, §3152(a)(2)\], substituted “the Under Secretary for Nuclear Security of the Department of Energy” for “the representative designated under subsection (a)(3)”.
 
 1999—Subsec. (a)(1). Pub. L. 106–65, §911(a)(1), substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
 
@@ -108,7 +112,7 @@ Subsec. (e). Pub. L. 103–337, §3152(b), added subsec. (e).
 
 #### Chairman of JCS To Serve on Council If There Is No Vice Chairman of JCS
 
-Section 3137(b) of Pub. L. 99–661 provided that: “If on the date of the enactment of this section \[Nov. 14, 1986\]the position of Vice Chairman of the Joint Chiefs of Staff, or comparable position, has not been established by law, the Chairman of the Joint Chiefs of Staff shall be a member of the Nuclear Weapons Council established by section 179 of title 10, United States Code, as added by subsection (a). If the position of Vice Chairman of the Joint Chiefs of Staff (or comparable position) is established by law after the date of the enactment of this section, the Chairman of the Joint Chiefs of Staff shall remain a member of such Council only until an individual has been appointed Vice Chairman of the Joint Chiefs of Staff.”
+Section 3137(b) of Pub. L. 99–661 provided that: “If on the date of the enactment of this section \[Nov. 14, 1986\] the position of Vice Chairman of the Joint Chiefs of Staff, or comparable position, has not been established by law, the Chairman of the Joint Chiefs of Staff shall be a member of the Nuclear Weapons Council established by section 179 of title 10, United States Code, as added by subsection (a). If the position of Vice Chairman of the Joint Chiefs of Staff (or comparable position) is established by law after the date of the enactment of this section, the Chairman of the Joint Chiefs of Staff shall remain a member of such Council only until an individual has been appointed Vice Chairman of the Joint Chiefs of Staff.”
 
 #### Section Referred to in Other Sections
 

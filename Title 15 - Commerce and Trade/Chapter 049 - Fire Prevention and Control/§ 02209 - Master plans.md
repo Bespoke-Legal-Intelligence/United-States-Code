@@ -4,27 +4,15 @@
 
 The establishment of master plans for fire prevention and control are the responsibility of the States and the political subdivisions thereof. The Administrator is authorized to encourage and assist such States and political subdivisions in such planning activities, consistent with his powers and duties under this chapter.
 
-#### (b) Report to Congress
+#### (b) “Master plan” defined
 
-Four years after October 29, 1974, the Secretary shall submit to the Congress a report on the establishment and effectiveness of master plans in the field of fire prevention and control throughout the Nation. Such report shall include, but need not be limited to—
+For the purposes of this section, a “master plan” is one which will result in the planning and implementation in the area involved of a general program of action for fire prevention and control. Such master plan is reasonably expected to include (1) a survey of the resources and personnel of existing fire services and an analysis of the effectiveness of the fire and building codes in such area; (2) an analysis of short and long term fire prevention and control needs in such area; (3) a plan to meet the fire prevention and control needs in such area; and (4) an estimate of cost and realistic plans for financing the implementation of the plan and operation on a continuing basis and a summary of problems that are anticipated in implementing such master plan.
 
-&emsp;(1) a summary of the extent and quality of master planning activities;
+(Pub. L. 93–498, §10, Oct. 29, 1974, 88 Stat. 1542; Pub. L. 106–503, title I, §110(a)(1)(A), Nov. 13, 2000, 114 Stat. 2302.)
 
-&emsp;(2) a summary and evaluation of master plans that have been prepared by States and political subdivisions thereof. Such summary and evaluation shall consider, with respect to each such plan (A) the characteristics of the jurisdiction adopting it, including, but not limited to, density and distribution of population; ratio of volunteer versus paid fire services; geographic location, topography, and climate; per capital rate of death and property loss from fire; size and characteristics of political subdivisions of the governmental units thereof; and socio-economic composition; and (B) the approach to development and implementation of the master plans;
+#### Amendments
 
-&emsp;(3) an evaluation of the best approach to the development and implementation of master plans (e.g., central planning by a State agency, regionalized planning within a State coordinated by a State agency, or local planning supplemented and coordinated by a State agency);
-
-&emsp;(4) an assessment of the costs and benefits of master plans;
-
-&emsp;(5) a recommendation to Congress on whether Federal financial assistance should be authorized in order that master plans can be developed in all States; and
-
-&emsp;(6) a model master plan or plans suitable for State and local implementation.
-
-#### (c) “Master plan” defined
-
-For the purposes of this section, a “master plan” is one which will result in the planning and implementation in the area involved of a general program of action for fire prevention and control. Such master plan is reasonably expected to include (1) a survey of the resourcesand personnel of existing fire services and an analysis of the effectiveness of the fire and building codes in such area; (2) an analysis of short and long term fire prevention and control needs in such area; (3) a plan to meet the fire prevention and control needs in such area; and (4) an estimate of cost and realistic plans for financing the implementation of the plan and operation on a continuing basis and a summary of problems that are anticipated in implementing such master plan.
-
-(Pub. L. 93–498, §10, Oct. 29, 1974, 88 Stat. 1542.)
+2000—Subsecs. (b), (c). Pub. L. 106–503 redesignated subsec. (c) as (b) and struck out former subsec. (b) which required Secretary to submit to Congress a report on establishment and effectiveness of master plans four years after Oct. 29, 1974.
 
 #### Transfer of Functions
 

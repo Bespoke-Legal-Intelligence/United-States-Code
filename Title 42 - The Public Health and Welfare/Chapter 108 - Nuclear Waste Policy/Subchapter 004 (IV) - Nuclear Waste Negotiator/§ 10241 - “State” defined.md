@@ -10,5 +10,5 @@ Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
 
 #### Amendments
 
-1992—Pub. L. 102–486 substituted “several States and the District of Columbia.” for “several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Northern Mariana Islands, the Trust Territory of the PacificIslands, any other territory or possession of the United States, and the Republic of the Marshall Islands.”
+1992—Pub. L. 102–486 substituted “several States and the District of Columbia.” for “several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Northern Mariana Islands, the Trust Territory of the Pacific Islands, any other territory or possession of the United States, and the Republic of the Marshall Islands.”
 

@@ -32,7 +32,7 @@ If a corporation or business entity established or acquired as part of an underc
 
 #### (c) Deposit of proceeds
 
-As soon as the proceeds from an undercover investigative operation with respect to which an action is authorized and carried out under paragraphs (2) and (3) of subsection (a) of this section are no longer necessary for the conduct of such operation, such proceeds or the balance of such proceeds remaining at the time shall be deposited into the Treasury of the United States as miscellaneous receipts.
+As soon as the proceeds from an undercover investigative operation with respect to which an action is authorized and carried out under paragraphs (2) and (3) of subsection (a) of this section are no longer necessary for the conduct of suchoperation, such proceeds or the balance of such proceeds remaining at the time shall be deposited into the Treasury of the United States as miscellaneous receipts.
 
 #### (d) Audits
 

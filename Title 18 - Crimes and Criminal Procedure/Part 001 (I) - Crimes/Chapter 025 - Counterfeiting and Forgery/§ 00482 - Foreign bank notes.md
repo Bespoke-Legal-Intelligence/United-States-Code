@@ -18,14 +18,6 @@ Changes were made in phraseology.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $2,000”.
 
-#### Canal Zone
-
-Applicability of section to Canal Zone, see section 14 of this title.
-
-#### Cross References
-
-Uttering counterfeit foreign bank notes, see section 483 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 14, 483 of this title.

@@ -120,6 +120,8 @@ Pub. L. 95–238, title II, §204, Feb. 25, 1978, 92 Stat. 59, as amended by Pub
 
 “(b) The Secretary of Energy shall submit annually to the appropriate committees of the House of Representatives and the Senate a full report on the actions taken in carrying out subsection (a) during the preceding year, including the extent to which small business concerns are participating in the programs involved and in projects and activities of various types and sizes within each such program, and indicating the steps currently taken to assure such participation in the future. Such report shall also contain such information as may be required by section 308 of the Act of December 31, 1975 (42 U.S.C. 5878a; 89 Stat. 1074).”
 
+\[For termination, effective May 15, 2000, of reporting provisions in section 204(b) of Pub. L. 95–238, set out above, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 21st item on page 89 of House Document No. 103–7.\]
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 7141 of this title.

@@ -30,9 +30,3 @@ Pub. L. 100–203, title IX, §9501(c), Dec. 22, 1987, 101 Stat. 1330–380, as 
 
 “(3) The Commissioner of Customs is authorized to obtain from the operators of centralized cargo examination stations information regarding the fees paid to them for the provision of services at these stations.”
 
-#### Cross References
-
-Instructions of Secretary of the Treasury and conclusiveness of decisions on customs officers, see section 1502 of this title.
-
-Reversal or modification of rulings or decisions by Secretary, restrictions on, see section 1502 of this title.
-

@@ -51,6 +51,7 @@
 | (<i>o</i>) | Disqualification of vendors convicted of trafficking or illegal sales. |
 | (p) | Criminal forfeiture. |
 | (q) | Provision of technical assistance to Secretary of Defense. |
+| (r) | Demonstration project relating to use of the WIC program for identification and enrollment of children in certain health programs. |
 | [1787\.](%C2%A7%2001787%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93193%2C%20title%20VII%2C%20%C2%A7730%2C%20Aug.%2022%2C%201996%2C%20110%20Stat.%202305.md) | Repealed. |
 | [1788\.](%C2%A7%2001788%20-%20Nutrition%20education%20and%20training.md) | Nutrition education and training. |
 | (a) | Congressional findings. |

@@ -10,9 +10,9 @@ Each application submitted under subsection (a) of this section shall include a 
 
 &emsp;(1) provides programs and activities to meet the culturally related academic needs of American Indian and Alaska Native students;
 
-&emsp;(2)(A) is consistent with, and promotes the goals in, the State and local improvement plans, either approved or being developed, under title III <sup>1</sup> of the Goals 2000: EducateAmerica Act or, if such plans are not approved or being developed, with the State and local plans under sections 6311 and 6312 of this title; and
+&emsp;(2)(A) is consistent with, and promotes the goals in, the State and local improvement plans, either approved or being developed, under title III <sup>1</sup> of the Goals 2000: Educate America Act or, if such plans are not approved or being developed, with the State and local plans under sections 6311 and 6312 of this title; and
 
-&emsp;(B) includes academic content and student performance goals for such children, and benchmarks for attaining such goals, that are based on the challenging State standards adopted under subchapter I of this chapter for all children;
+&emsp;(B) includes academic content and student performance goals for such children, andbenchmarks for attaining such goals, that are based on the challenging State standards adopted under subchapter I of this chapter for all children;
 
 &emsp;(3) explains how Federal, State, and local programs, especially under subchapter I of this chapter, will meet the needs of such students;
 

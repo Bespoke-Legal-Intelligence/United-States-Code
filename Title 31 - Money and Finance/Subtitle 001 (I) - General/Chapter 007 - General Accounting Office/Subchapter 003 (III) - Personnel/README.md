@@ -11,6 +11,7 @@ This subchapter is referred to in section 732 of this title; title 2 section 137
 
 - [&sect; 00731 - General](%C2%A7%2000731%20-%20General.md)
 - [&sect; 00732 - Personnel management system](%C2%A7%2000732%20-%20Personnel%20management%20system.md)
+- [&sect; 00732a - Critical positions](%C2%A7%2000732a%20-%20Critical%20positions.md)
 - [&sect; 00733 - Senior Executive Service](%C2%A7%2000733%20-%20Senior%20Executive%20Service.md)
 - [&sect; 00734 - Assignments and details to Congress](%C2%A7%2000734%20-%20Assignments%20and%20details%20to%20Congress.md)
 - [&sect; 00735 - Relationship to other laws](%C2%A7%2000735%20-%20Relationship%20to%20other%20laws.md)

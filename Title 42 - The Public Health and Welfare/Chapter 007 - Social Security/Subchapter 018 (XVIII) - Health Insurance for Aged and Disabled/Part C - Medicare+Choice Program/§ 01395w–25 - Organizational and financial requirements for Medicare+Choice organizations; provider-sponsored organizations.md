@@ -26,7 +26,7 @@
 
 &emsp;&emsp;&emsp;(i) the standards or review process imposed by the State as a condition of approval of the license imposes any material requirements, procedures, or standards (other than solvency requirements) to such organizations that are not generally applicable to other entities engaged in a substantially similar business, or
 
-&emsp;&emsp;&emsp;(ii) the State requires the organization, as a condition of licensure, to offer anyproduct or plan other than a Medicare+�Choice plan.
+&emsp;&emsp;&emsp;(ii) the State requires the organization, as a condition of licensure, to offer any product or plan other than a Medicare+�Choice plan.
 
 #### (D) Denial of application based on application of solvency requirements
 
@@ -175,6 +175,10 @@ The Medicare+Choice organization shall assume full financial risk on a prospecti
 #### References in Text
 
 The Internal Revenue Code of 1986, referred to in subsec. (d)(3)(B), (D), is classified generally to Title 26, Internal Revenue Code.
+
+#### Change of Name
+
+Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Section Referred to in Other Sections
 

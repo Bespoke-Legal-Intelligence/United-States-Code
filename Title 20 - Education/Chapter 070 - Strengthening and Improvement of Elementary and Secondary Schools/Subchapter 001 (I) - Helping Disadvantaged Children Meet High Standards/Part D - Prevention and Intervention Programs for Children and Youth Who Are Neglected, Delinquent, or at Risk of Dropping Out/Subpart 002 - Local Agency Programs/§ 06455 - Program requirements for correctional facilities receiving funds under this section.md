@@ -18,7 +18,7 @@ Each correctional facility entering into an agreement with a local educational a
 
 &emsp;(8) where feasible, involve parents in efforts to improve the educational achievement of their children and prevent the further involvement of such children in delinquent activities;
 
-&emsp;(9) coordinate funds received under this program with other local, State, and Federal funds available to provide services to participating youth, such as funds made available under the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\] or title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\], and vocational education funds;
+&emsp;(9) coordinate funds received under this program with other local, State, and Federal funds available to provide services to participating youth, such as funds made available under title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\], and vocational education funds;
 
 &emsp;(10) coordinate programs operated under this subpart with activities funded under the Juvenile Justice and Delinquency Prevention Act of 1974 \[42 U.S.C. 5601 et seq.\] and other comparable programs, if applicable; and
 
@@ -26,13 +26,7 @@ Each correctional facility entering into an agreement with a local educational a
 
 (Pub. L. 89–10, title I, §1425, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3599; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(18)(D), (f)(13)(D)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–422, 2681–431.)
 
-#### Amendment of Paragraph (9)
-
-<i>Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(f)(13)(D), (g)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–431, 2681–435, provided that, effective July 1, 2000, paragraph (9) is amended by striking “the Job Training Partnership Act or”.</i>
-
 #### References in Text
-
-The Job Training Partnership Act, referred to in par. (9), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
 
 The Workforce Investment Act of 1998, referred to in par. (9), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of this title and Tables.
 
@@ -40,7 +34,9 @@ The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in par.
 
 #### Amendments
 
-1998—Par. (9). Pub. L. 105–277, §101(f) \[title VIII, §405(d)(18)(D)\], substituted “, such as funds made available under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998” for “, such as funds under the Job Training Partnership Act”.
+1998—Par. (9). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(13)(D)\], struck out “the Job Training Partnership Act or” before “title I of the Workforce Investment Act of 1998”.
+
+Pub. L. 105–277, §101(f) \[title VIII, §405(d)(18)(D)\], substituted “, such as funds made available under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998” for “, such as funds under the Job Training Partnership Act”.
 
 #### Effective Date of 1998 Amendment
 

@@ -18,7 +18,7 @@ In the case of any security which is not registered under the Securities Act of 
 
 #### (c) Necessity of issuance under indenture; application for qualification
 
-It shall be unlawful for any person, directly or indirectly, to make use of any means or instruments of transportation or communication in interstate commerce or of the mails to offer to sell through the use or medium of any prospectus or otherwise any security which is not registered under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\] and to which this subsection is applicable notwithstanding the provisions of section 77ddd of this title, unless such security has been or is to be issued under an indenture and an application for qualification has been filed as to such indenture, or while the application is the subject of a refusal order or stop order or (prior to qualification) any public proceeding or examination under section 77ggg(c) of this title.
+It shall be unlawful for any person, directly or indirectly, to make use of any means or instruments of transportation or communication in interstate commerce or of the mails to offer to sell through the use or medium of any prospectus or otherwise any security which is not registered under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\] and to which this subsection is applicable notwithstanding the provisions of section 77ddd of this title, unless such security has been or is to be issued under an indenture and an application for qualification has been filed as to such indenture, or while the application is the subject of a refusal order or stoporder or (prior to qualification) any public proceeding or examination under section 77ggg(c) of this title.
 
 (May 27, 1933, ch. 38, title III, §306, as added Aug. 3, 1939, ch. 411, 53 Stat. 1155; amended Aug. 10, 1954, ch. 667, title III, §304, 68 Stat. 687.)
 
@@ -39,18 +39,6 @@ Amendment by act Aug. 10, 1954, effective 60 days after Aug. 10, 1954, see note 
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
-#### Cross References
-
-Computation of aggregate principal amount of securities for exemption purposes to disregard securities to which this section is not applicable, see section 77ddd of this title.
-
-Prospectus, definition of, see section 77ccc of this title.
-
-Qualification of indentures covering securities not required to be registered, section as applicable, see section 77ggg of this title.
-
-Statements in or omissions from analysis required under this section, provisions of sections 77k, 77<i>l</i>, 77q, 77x, 77www, and 77yyy of this title as inapplicable to, see section 77eee of this title.
-
-Transactions exempt from Securities Act of 1933, section as inapplicable to, see section 77ddd of this title.
 
 #### Section Referred to in Other Sections
 

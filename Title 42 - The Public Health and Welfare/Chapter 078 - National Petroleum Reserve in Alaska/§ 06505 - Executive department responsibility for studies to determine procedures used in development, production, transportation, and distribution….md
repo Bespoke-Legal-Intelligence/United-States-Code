@@ -20,7 +20,7 @@
 
 #### Codification
 
-Subsec. (a) of this section amended section 6244 of this title.
+Subsec. (a) of this section amended former section 6244 of this title.
 
 #### Change of Name
 

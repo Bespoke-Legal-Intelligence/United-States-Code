@@ -1,6 +1,6 @@
 ### §1341. Legislative findings
 
-American cotton is a basic source of clothing and industrial products used by every person in the United States and by substantial numbers of people in foreign countries. American cotton is sold on a world-wide market and moves from the places of production almost entirely in interstate and foreign commerce to processing establishments located throughout the world at places outside the State where the cotton is produced.
+American cotton is a basic source of clothing and industrial products used by every person in the United States and by substantial numbers of people in foreign countries. American cotton is sold on a world-wide market and moves from the places of production almost entirely in interstate and foreign commerce to processing establishments located throughout the world atplaces outside the State where the cotton is produced.
 
 Fluctuations in supplies of cotton and the marketing of excessive supplies of cotton in interstate and foreign commerce disrupt the orderly marketing of cotton in such commerce with consequent injury to and destruction of such commerce. Excessive supplies of cotton directly and materially affect the volume of cotton moving in interstate and foreign commerce and cause disparity in prices of cotton and industrial products moving in interstate and foreign commerce with consequent diminution of the volume of such commerce in industrial products.
 

@@ -6,7 +6,7 @@ No assistance may be provided under subchapter I of this chapter to the governme
 
 #### (b) <sup>1</sup> Information to Congressional committees for realization of assistance for needy people; concurrent resolution terminating assistance
 
-In determining whether this standard is being met with regard to funds allocated under subchapter I of this chapter, the Committee on Foreign Relations of the Senate or the Committee on Foreign Affairs of the House of Representatives may require the Administrator primarily responsible for administering subchapter I of this chapter to submit in writing information demonstrating that such assistance will directly benefit the needy people in such country, together with a detailed explanation of the assistance to be provided (including the dollar amounts of such assistance) and an explanation of how such assistance will directly benefit the needy people in such country. If either committee or either House of Congress disagrees with the Administrator's justification it may initiate action to terminate assistance to any country by a concurrent resolution under section 2367 of this title.
+In determining whether this standard is being met with regard to funds allocated under subchapter I of this chapter, the Committee on Foreign Relations of the Senate or the Committee on Foreign Affairs of the House of Representatives may require the Administrator primarily responsible for administering subchapter I of this chapter to submit in writing information demonstrating that such assistance will directly benefit the needy people in such country, together with a detailed explanation of the assistance to be provided (including the dollar amounts of such assistance) and an explanation of how such assistance will directly benefit the needy people in such country. If either committee or either House of Congress disagrees with the Administrator's justification it may initiateaction to terminate assistance to any country by a concurrent resolution under section 2367 of this title.
 
 #### (b) <sup>1</sup> Protection of children from exploitation
 
@@ -58,41 +58,41 @@ The Secretary of State shall transmit to the Speaker of the House of Representat
 
 The President is authorized and encouraged to use not less than $3,000,000 of the funds made available under this part, part X of this subchapter, and part IV of subchapter II of this chapter for each fiscal year for studies to identify, and for openly carrying out programs and activities which will encourage or promote increased adherence to civil and political rights, including the right to free religious belief and practice, as set forth in the Universal Declaration of Human Rights, in countries eligible for assistance under this part or under part X of this subchapter, except that funds made available under part X of this subchapter may only be used under this subsection with respect to countries in sub-Saharan Africa. None of these funds may be used, directly or indirectly, to influence the outcome of any election in any country.
 
-#### (f) Country reports on human rights practices
+#### (f) Annual country reports on human rights practices
 
-(1) The report required by subsection (d) of this section shall include—
+(1) The report required by subsection (d) of this section shall include the following:
 
-&emsp;(A) a list of foreign states where trafficking in persons, especially women and children, originates, passes through, or is a destination; and
+&emsp;(A) A description of the nature and extent of severe forms of trafficking in persons, as defined in section 7102 of this title, in each foreign country.
 
-&emsp;(B) an assessment of the efforts by the governments of the states described in paragraph (A) to combat trafficking. Such an assessment shall address—
+&emsp;(B) With respect to each country that is a country of origin, transit, or destination for victims of severe forms of trafficking in persons, an assessment of the efforts by the government of that country to combat such trafficking. The assessment shall address the following:
 
-&emsp;&emsp;(i) whether government authorities in each such state tolerate or are involved in trafficking activities;
+&emsp;&emsp;(i) Whether government authorities in that country participate in, facilitate, or condone such trafficking.
 
-&emsp;&emsp;(ii) which government authorities in each such state are involved in anti-trafficking activities;
+&emsp;&emsp;(ii) Which government authorities in that country are involved in activities to combat such trafficking.
 
-&emsp;&emsp;(iii) what steps the government of each such state has taken to prohibit government officials and other individuals from participating in trafficking, including the investigation, prosecution, and conviction of individuals involved in trafficking;
+&emsp;&emsp;(iii) What steps the government of that country has taken to prohibit government officials from participating in, facilitating, or condoning such trafficking, including the investigation, prosecution, and conviction of such officials.
 
-&emsp;&emsp;(iv) what steps the government of each such state has taken to assist trafficking victims;
+&emsp;&emsp;(iv) What steps the government of that country has taken to prohibit other individuals from participating in such trafficking, including the investigation, prosecution, and conviction of individuals involved in severe forms of trafficking in persons, the criminal and civil penalties for such trafficking, and the efficacy of those penalties in eliminating or reducing such trafficking.
 
-&emsp;&emsp;(v) whether the government of each such state is cooperating with governments of other countries to extradite traffickers when requested;
+&emsp;&emsp;(v) What steps the government of that country has taken to assist victims of such trafficking, including efforts to prevent victims from being further victimized by traffickers, government officials, or others, grants of relief from deportation, and provision of humanitarian relief, including provision of mental and physical health care and shelter.
 
-&emsp;&emsp;(vi) whether the government of each such state is assisting in international investigations of transnational trafficking networks; and
+&emsp;&emsp;(vi) Whether the government of that country is cooperating with governments of other countries to extradite traffickers when requested, or, to the extent that such cooperation would be inconsistent with the laws of such country or with extradition treaties to which such country is a party, whether the government of that country is taking all appropriate measures to modify or replace such laws and treaties so as to permit such cooperation.
 
-&emsp;&emsp;(vii) whether the government of each such state refrains from prosecuting trafficking victims or refrains from other discriminatory treatment towards victims.
+&emsp;&emsp;(vii) Whether the government of that country is assisting in international investigations of transnational trafficking networks and in other cooperative efforts to combat severe forms of trafficking in persons.
 
-(2) In compiling data and assessing trafficking for the purposes of paragraph (1), United States Diplomatic Mission personnel shall consult with human rights and other appropriate nongovernmental organizations.
+&emsp;&emsp;(viii) Whether the government of that country refrains from prosecuting victims of severe forms of trafficking in persons due to such victims having been trafficked, and refrains from other discriminatory treatment of such victims.
 
-(3) For purposes of this subsection—
+&emsp;&emsp;(ix) Whether the government of that country recognizes the rights of victims of severe forms of trafficking in persons and ensures their access to justice.
 
-&emsp;(A) the term “trafficking” means the use of deception, coercion, debt bondage, the threat of force, or the abuse of authority to recruit, transport within or across borders, purchase, sell, transfer, receive, or harbor a person for the purposes of placing or holding such person, whether for pay or not, in involuntary servitude, slavery or slavery-like conditions, or in forced, bonded, or coerced labor;
+&emsp;(C) Such other information relating to trafficking in persons as the Secretary of State considers appropriate.
 
-&emsp;(B) the term “victim of trafficking” means any person subjected to the treatment described in subparagraph (A).
+(2) In compiling data and making assessments for the purposes of paragraph (1), United States diplomatic mission personnel shall consult with human rights organizations and other appropriate nongovernmental organizations.
 
-(Pub. L. 87–195, pt. I, §116, as added Pub. L. 94–161, title III, §310, Dec. 20, 1975, 89 Stat. 860; amended Pub. L. 95–88, title I, §111, Aug. 3, 1977, 91 Stat. 537; Pub. L. 95–105, title I, §109(a)(2), Aug. 17, 1977, 91 Stat. 846; Pub. L. 95–424, title I, §109, Oct. 6, 1978, 92 Stat. 947; Pub. L. 96–53, title I, §106, title V, §504(a), Aug. 14, 1979, 93 Stat. 362, 378; Pub. L. 96–533, title III, §305, title VII, §701(a), Dec. 16, 1980, 94 Stat. 3147, 3156; Pub. L. 97–113, title III, §306, Dec. 29, 1981, 95 Stat. 1533; Pub. L. 98–164, title X, §1002(a), Nov. 22, 1983, 97 Stat. 1052; Pub. L. 99–440, title II, §202, Oct. 2, 1986, 100 Stat. 1095; Pub. L. 99–631, §1(b)(2), Nov. 7, 1986, 100 Stat. 3519; Pub. L. 100–204, title I, §127(1), Dec. 22, 1987, 101 Stat. 1342; Pub. L. 101–513, title V, §§562(d)(3), 599D, Nov. 5, 1990, 104 Stat. 2031, 2066; Pub. L. 103–149, §4(a)(3)(B), Nov. 23, 1993, 107 Stat. 1505; Pub. L. 103–236, title I, §162(e)(1), Apr. 30, 1994, 108 Stat. 405; Pub. L. 103–437, §9(a)(6), Nov. 2, 1994, 108 Stat. 4588; Pub. L. 104–319, title II, §201(a), Oct. 19, 1996, 110 Stat. 3866; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2216, Oct. 21, 1998, 112 Stat. 2681–815; Pub. L. 105–292, title I, §102(d)(1), title IV, §421(a), title V, §501(b), Oct. 27, 1998, 112 Stat. 2794, 2809, 2811; Pub. L. 106–113, div. B, §§1000(a)(2) \[title V, §597\], 1000(a)(7) \[div. A, title VIII, §806(a)\], Nov. 29, 1999, 113 Stat. 1535, 1536, 1501A–126, 1501A–471.)
+(Pub. L. 87–195, pt. I, §116, as added Pub. L. 94–161, title III, §310, Dec. 20, 1975, 89 Stat. 860; amended Pub. L. 95–88, title I, §111, Aug. 3, 1977, 91 Stat. 537; Pub. L. 95–105, title I, §109(a)(2), Aug. 17, 1977, 91 Stat. 846; Pub. L. 95–424, title I, §109, Oct. 6, 1978, 92 Stat. 947; Pub. L. 96–53, title I, §106, title V, §504(a), Aug. 14, 1979, 93 Stat. 362, 378; Pub. L. 96–533, title III, §305, title VII, §701(a), Dec. 16, 1980, 94 Stat. 3147, 3156; Pub. L. 97–113, title III, §306, Dec. 29, 1981, 95 Stat. 1533; Pub. L. 98–164, title X, §1002(a), Nov. 22, 1983, 97 Stat. 1052; Pub. L. 99–440, title II, §202, Oct. 2, 1986, 100 Stat. 1095; Pub. L. 99–631, §1(b)(2), Nov. 7, 1986, 100 Stat. 3519; Pub. L. 100–204, title I, §127(1), Dec. 22, 1987, 101 Stat. 1342; Pub. L. 101–513, title V, §§562(d)(3), 599D, Nov. 5, 1990, 104 Stat. 2031, 2066; Pub. L. 103–149, §4(a)(3)(B), Nov. 23, 1993, 107 Stat. 1505; Pub. L. 103–236, title I, §162(e)(1), Apr. 30, 1994, 108 Stat. 405; Pub. L. 103–437, §9(a)(6), Nov. 2, 1994, 108 Stat. 4588; Pub. L. 104–319, title II, §201(a), Oct. 19, 1996, 110 Stat. 3866; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2216, Oct. 21, 1998, 112 Stat. 2681–815; Pub. L. 105–292, title I, §102(d)(1), title IV, §421(a), title V, §501(b), Oct. 27, 1998, 112 Stat. 2794, 2809, 2811; Pub. L. 106–113, div. B, §§1000(a)(2) \[title V, §597\], 1000(a)(7) \[div. A, title VIII, §806(a)\], Nov. 29, 1999, 113 Stat. 1535, 1536, 1501A–126, 1501A–471; Pub. L. 106–386, div. A, §104(a), Oct. 28, 2000, 114 Stat. 1471.)
 
 #### References in Text
 
-Section 2(a) of the Genocide Convention Implementation Act of 1987, referred to in subsec. (d)(8), probablymeans section 2(a) of the Genocide Convention Implementation Act of 1987 (the Proxmire Act), Pub. L. 100–606, Nov. 4, 1988, 102 Stat. 3045, which enacted chapter 50A (§1091 et seq.) of Title 18, Crimes and Criminal Procedure.
+Section 2(a) of the Genocide Convention Implementation Act of 1987, referred to in subsec. (d)(8), probably means section 2(a) of the Genocide Convention Implementation Act of 1987 (the Proxmire Act), Pub. L. 100–606, Nov. 4, 1988, 102 Stat. 3045, which enacted chapter 50A (§1091 et seq.) of Title 18, Crimes and Criminal Procedure.
 
 #### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
 
@@ -103,6 +103,8 @@ References to subchapter I of this chapter are deemed to include parts IV (§234
 The amendment by section 102(d)(1) of Pub. L. 105–292 was executed before the amendment by Pub. L. 105–277 to reflect the probable intent of Congress.
 
 #### Amendments
+
+2000—Subsec. (f). Pub. L. 106–386 amended subsec. (f) generally, substituting present provisions for provisions listing information required for report under subsec. (d) of this section, providing for consultation with human rights and other appropriate nongovernmental organizations in compiling data for required information, and defining “trafficking” and “victims of trafficking” for purposes of subsection.
 
 1999—Subsec. (d)(8). Pub. L. 106–113, §1000(a)(7) \[div. A, title VIII, §806(a)\], added par. (8).
 
@@ -204,21 +206,15 @@ Pub. L. 105–292, title V, §501(a), Oct. 27, 1998, 112 Stat. 2811, provided th
 
 #### Report on Human Rights to Committees on Appropriations
 
-Pub. L. 102–391, title V, §511(b), Oct. 6, 1992, 106 Stat. 1658, provided that: “The Secretary of State shall also transmit the report required by section 116(d) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151n(d)\] to the Committees on Appropriations each year by the date specified in that section: <i>Provided</i>, That each such report submitted pursuant to such section shall (1) include a review of each country's commitment to children's rights and welfare as called for by the Declaration of the World Summit for Children; (2) a description of the military expenditures of each country receiving United States foreign assistance, and the efforts each country is making to reduce those expenditures; and (3) describe the extent to which indigenous people are able to participate in decisions affecting their lands, cultures, traditions and the allocation of natural resources, and assess the extent of protection of their civil and political rights.”
+Pub. L. 102–391, title V, §511(b), Oct. 6, 1992, 106 Stat. 1658, as amended by Pub. L. 106–429, §101(a) \[title V, §590\], Nov. 6, 2000, 114 Stat. 1900, 1900A–59, provided that: “The Secretary of State shall also transmit the report required by section 116(d) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151n(d)\] to the Committees on Appropriations each year by the date specified in that section: <i>Provided</i>, That each such report submitted pursuant to such section shall (1) include a review of each country's commitment to children's rights and welfare as called for by the Declaration of the World Summit for Children; \[(2) Repealed. Pub. L. 106–429, §101(a) \[title V, §590\], Nov. 6, 2000, 114 Stat. 1900, 1900A–59;\] (3) describe the extent to which indigenous people are able to participate in decisions affecting their lands, cultures, traditions and the allocation of natural resources, and assess the extent of protection of their civil and political rights.”
 
 #### Report on Impact on Foreign Relations of United States of Reports on Human Rights Practices of Foreign Governments
 
 Section 504(b) of Pub. L. 96–53, which required Secretary of State to report by Nov. 15, 1979, foreign relations impact made by reports of human rights violations of foreign governments, was repealed by Pub. L. 97–113, title VII, §734(a)(3), Dec. 29, 1981, 95 Stat. 1560.
 
-#### Cross References
-
-Advancement of human rights by United States assistance policies with international financial institutions, see section 262d of this title.
-
-Implementation of United States policy opposing the practice of torture by foreign governments, see Pub. L. 98–447, set out as a note under section 2656 of this title.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2199, 2296d, 2398, 2651a, 5732, 6402, 6412, 6442, 6445 of this title; title 48 section 1904.
+This section is referred to in sections 2199, 2296d, 2398, 2651a, 5732, 6402, 6412, 6442, 6445, 7110 of this title; title 48 section 1904.
 
 <i><sup>1</sup></i><i> So in original. Two subsecs. (b) have been enacted.</i>
 

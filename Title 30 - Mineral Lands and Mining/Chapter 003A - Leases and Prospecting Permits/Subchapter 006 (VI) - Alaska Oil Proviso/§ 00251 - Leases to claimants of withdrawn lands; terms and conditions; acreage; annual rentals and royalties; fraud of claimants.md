@@ -16,10 +16,6 @@ No claimant for a lease who has been guilty of any fraud or who had knowledge or
 
 Admission of Alaska into the Union was accomplished Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as notes preceding section 21 of Title 48, Territories and Insular Possessions.
 
-#### Cross References
-
-Surrender of leases, see section 188a of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in title 10 sections 7421, 7435.

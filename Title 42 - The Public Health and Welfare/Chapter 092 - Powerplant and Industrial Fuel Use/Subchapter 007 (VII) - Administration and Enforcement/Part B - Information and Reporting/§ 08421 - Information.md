@@ -22,7 +22,7 @@ In the case of responsibilities expressly given by this chapter to the President
 
 #### Amendments
 
-1995—Subsec. (c)(2). Pub. L. 104–66 struck out par. (2) which read as follows: “The Secretary shall include in each annual report to the Congress under section 8482 of this title a summary of information received by the Secretary under this subsection.”
+1995—Subsec. (c)(2). Pub. L. 104–66 struck out par. (2) which read as follows: “The Secretary shall include ineach annual report to the Congress under section 8482 of this title a summary of information received by the Secretary under this subsection.”
 
 1987—Subsec. (a). Pub. L. 100–42 struck out “or major fuel-burning installation” after “powerplant”.
 

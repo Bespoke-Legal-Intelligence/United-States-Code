@@ -72,13 +72,13 @@ Missions and functions of elements of Department of Defense as specified in clas
 
 #### Commission To Assess United States National Security Space Management and Organization
 
-Pub. L. 106–65, div. A, title XVI, subtitle C, Oct. 5, 1999, 113 Stat. 813, provided that:
+Pub. L. 106–65, div. A, title XVI, subtitle C, Oct. 5, 1999, 113 Stat. 813, as amended by Pub. L. 106–398, §1 \[\[div. A\], title X, §1091\], Oct. 30, 2000, 114 Stat. 1654, 1654A–300, provided that:
 
 #### “SEC. 1621. ESTABLISHMENT OF COMMISSION.
 
 “(a)
 
-Establishment.—There is hereby established a commission known as the Commission To Assess United States National Security Space Management and Organization (in this subtitle referred to as the ‘Commission’).
+Establishment.—There is hereby established a commission known as the Commission To AssessUnited States National Security Space Management and Organization (in this subtitle referred to as the ‘Commission’).
 
 “(b)
 
@@ -140,6 +140,14 @@ Assessment of United States National Security Space Management and Organization.
 
 &emsp;&emsp;“(E) Any other change to the existing organizational structure of the Department of Defense for national security space management and organization.
 
+&emsp;“(6) The advisability of—
+
+&emsp;&emsp;“(A) various actions to eliminate the de facto requirement that specified officers in the United States Space Command be flight rated that results from the dual assignment of officers to that command and to one or more other commands in positions in which such officers are expressly required to be flight rated;
+
+&emsp;&emsp;“(B) the establishment of a requirement that, as a condition of the assignment of a general or flag officer to the United States Space Command, the officer have experience in space, missile, or information operations that was gained through either acquisition or operational experience; and
+
+&emsp;&emsp;“(C) rotating the command of the United States Space Command among the Armed Forces.
+
 “(b)
 
 Cooperation From Government Officials.—In carrying out its duties, the Commission should receive the full and timely cooperation of the Secretary of Defense, the Director of Central Intelligence, and any other United States Government official responsible for providing the Commission with analyses, briefings, and other information necessary for the fulfillment of its responsibilities.
@@ -180,7 +188,7 @@ Commission.—The Commission may establish panels composed of less than full mem
 
 “(d)
 
-Authority of Individuals To Act for Commission.—Any member or agent of the Commission may, if authorized by the Commission, take any action which the Commission is authorized to take under this subtitle.
+Authority of Individuals To Act for Commission.—Any member or agent of the Commission may, ifauthorized by the Commission, take any action which the Commission is authorized to take under this subtitle.
 
 #### “SEC. 1627. PERSONNEL MATTERS.
 
@@ -304,7 +312,7 @@ Study Elements.—In conducting the study, the Commission shall do the following
 
 &emsp;&emsp;“(D) to foster public pride in the achievements and activities of the Armed Forces.
 
-&emsp;“(2) Determine whether adequate inventories of artifacts and representations of the Armed Forces and of the wars in which the United States has been engaged are available, either in current inventories or in private or public collections, for loan or other provision to a national military museum.
+&emsp;“(2) Determine whether adequate inventories of artifacts and representations of the Armed Forces andof the wars in which the United States has been engaged are available, either in current inventories or in private or public collections, for loan or other provision to a national military museum.
 
 &emsp;“(3) Develop preliminary proposals for—
 
@@ -400,7 +408,7 @@ Procurement of Temporary and Intermittent Services.—The chairman of the Commis
 
 “(a)
 
-Postal and Printing Services.—The Commission may use the United States mails and obtain printing and binding services in the same manner and underthe same conditions as other departments and agencies of the United States.
+Postal and Printing Services.—The Commission may use the United States mails and obtain printing and binding services in the same manner and under the same conditions as other departments and agencies of the United States.
 
 “(b)
 
@@ -622,7 +630,7 @@ Implementation Plan.—Not later than three months after the date on which all m
 
 “(b)
 
-Commission Report.—The Commission shall, not later than one year after the date of its first meeting,submit to the committees named in subsection (a) and to the Secretary of Defense and the Chairman of the Joint Chiefs of Staff a report setting forth the activities, findings, and recommendations of the Commission, including any recommendations for legislation that the Commission considers advisable.
+Commission Report.—The Commission shall, not later than one year after the date of its first meeting, submit to the committees named in subsection (a) and to the Secretary of Defense and the Chairman of the Joint Chiefs of Staff a report setting forth the activities, findings, and recommendations of the Commission, including any recommendations for legislation that the Commission considers advisable.
 
 “(c)
 
@@ -636,7 +644,7 @@ Hearings.—The Commission or, at its direction, any panel or member of the Comm
 
 “(b)
 
-Information.—The Commission may secure directly from the Department of Defense and any other Federal department or agency any information that the Commission considers necessary to enable the Commission to carry out its responsibilities under this subtitle. Upon request of the chairman of the Commission, the head of such department or agency shall furnish such information expeditiously to the Commission.
+Information.—The Commission may secure directly from the Department of Defense and any otherFederal department or agency any information that the Commission considers necessary to enable the Commission to carry out its responsibilities under this subtitle. Upon request of the chairman of the Commission, the head of such department or agency shall furnish such information expeditiously to the Commission.
 
 #### “SEC. 956. COMMISSION PROCEDURES.
 
@@ -716,7 +724,7 @@ Travel.—To the maximum extent practicable, the members and employees of the Co
 
 \[Pub. L. 103–337, div. A, title IX, §923(a)(3), (4), Oct. 5, 1994, 108 Stat. 2830, provided that:
 
-\[“(3) The additional members of the Commission on Roles and Missions of the Armed Forces authorized bythe amendment made by paragraph (1) \[amending section 952(b)(1) of Pub. L. 103–160, set out above\] shall be appointed by the Secretary of Defense not later than 30 days after the date of the enactment of this Act \[Oct. 5, 1994\].
+\[“(3) The additional members of the Commission on Roles and Missions of the Armed Forces authorized by the amendment made by paragraph (1) \[amending section 952(b)(1) of Pub. L. 103–160, set out above\] shall be appointed by the Secretary of Defense not later than 30 days after the date of the enactment of this Act \[Oct. 5, 1994\].
 
 \[“(4) At least one of the additional members of the Commission appointed pursuant to the amendment made by paragraph (1) shall have previous military experience and management experience with the reserve components.”\]
 
@@ -726,7 +734,7 @@ Pub. L. 103–160, div. A, title XI, §1151, Nov. 30, 1993, 107 Stat. 1758, prov
 
 “(a)
 
-Termination of Report Requirements.—Unless otherwise provided by a law enacted after the date of the enactment of this Act \[Nov. 30, 1993\], each provision of law requiring the submittal to Congress (or any committee of Congress) of any report specified in the list submitted under subsection (b) shall, with respect to that requirement, cease to be effective on October 30, 1995.
+Termination of Report Requirements.—Unless otherwise provided by a law enacted after the date of the enactment of this Act \[Nov. 30, 1993\], each provisionof law requiring the submittal to Congress (or any committee of Congress) of any report specified in the list submitted under subsection (b) shall, with respect to that requirement, cease to be effective on October 30, 1995.
 
 “(b)
 
@@ -794,7 +802,7 @@ Pub. L. 93–155, title VII, §§701–708, Nov. 16, 1973, 87 Stat. 609–611, e
 
 #### Air Force Reserve and Air National Guard of United States; Study and Investigation of Relative Status; Advantages and Disadvantages of Alternatives; Modernization and Manpower Needs; Report to President and Congress
 
-Pub. L. 93–155, title VIII, §810, Nov. 16, 1973, 87 Stat. 618, directed the Secretary of Defense to study the relative status of the Air Force Reserve and the Air National Guard of the United States; to measure the effects on costs and combat capability as well as other advantages and disadvantages of (1) merging the Reserve into the Guard, (2) merging the Guard into the Reserve, and (3) retaining the status quo; and to consider the modernization needs and manpower problems of both; and also directed that a report of such study be submitted to the President and to the Congress no later than Jan. 31, 1975.
+Pub. L. 93–155, title VIII, §810, Nov. 16, 1973, 87 Stat. 618, directed the Secretary of Defense to study the relative status of the Air Force Reserve and the Air National Guard of the United States; to measure the effects on costs and combat capability as well as otheradvantages and disadvantages of (1) merging the Reserve into the Guard, (2) merging the Guard into the Reserve, and (3) retaining the status quo; and to consider the modernization needs and manpower problems of both; and also directed that a report of such study be submitted to the President and to the Congress no later than Jan. 31, 1975.
 
 #### <b>REORGANIZATION PLAN NO. 6 OF 1953</b>
 

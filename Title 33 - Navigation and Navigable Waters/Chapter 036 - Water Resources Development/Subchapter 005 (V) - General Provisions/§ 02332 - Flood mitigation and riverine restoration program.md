@@ -122,9 +122,19 @@ In carrying out this section, the Secretary shall examine appropriate locations,
 
 &emsp;(21) Providence County, Rhode Island;
 
-&emsp;(22) Shenandoah River, Virginia; and
+&emsp;(22) Shenandoah River, Virginia;
 
-&emsp;(23) Lincoln Creek, Wisconsin.
+&emsp;(23) Lincoln Creek, Wisconsin; and <sup>1</sup>
+
+&emsp;(24) Perry Creek, Iowa;
+
+&emsp;(25) Lester, St. Louis, East Savanna, and Floodwood Rivers, Duluth, Minnesota;
+
+&emsp;(26) Lower Hudson River and tributaries, New York;
+
+&emsp;(27) Susquehanna River watershed, Bradford County, Pennsylvania; and
+
+&emsp;(28) Clear Creek, Harris, Galveston, and Brazoria Counties, Texas.
 
 #### (f) Program review
 
@@ -176,13 +186,19 @@ Not more than $30,000,000 may be expended by the United States on any single pro
 
 &emsp;All studies and projects carried out under this section from Army Civil Works appropriations shall be fully funded within the program funding levels provided in this subsection.
 
-(Pub. L. 106–53, title II, §212, Aug. 17, 1999, 113 Stat. 288.)
+(Pub. L. 106–53, title II, §212, Aug. 17, 1999, 113 Stat. 288; Pub. L. 106–541, title II, §227, Dec. 11, 2000, 114 Stat. 2599.)
 
 #### Codification
 
 Section was enacted as part of the Water Resources Development Act of 1999, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
+#### Amendments
+
+2000—Subsec. (e)(24) to (28). Pub. L. 106–541 added pars. (24) to (28).
+
 #### “Secretary” Defined
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 106–53, set out as a note under section 2201 of this title.
+
+<i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
 

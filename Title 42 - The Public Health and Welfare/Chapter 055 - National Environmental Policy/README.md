@@ -22,7 +22,7 @@
 
 |  |  |
 | :--- | ---: |
-| [4341\.](Subchapter%20002%20%28II%29%20-%20Council%20on%20Environmental%20Quality/%C2%A7%2004341%20-%20Reports%20to%20Congress%3B%20recommendations%20for%20legislation.md) | Reports to Congress; recommendations for legislation. |
+| [4341\.](Subchapter%20002%20%28II%29%20-%20Council%20on%20Environmental%20Quality/%C2%A7%2004341%20-%20Omitted.md) | Omitted. |
 | [4342\.](Subchapter%20002%20%28II%29%20-%20Council%20on%20Environmental%20Quality/%C2%A7%2004342%20-%20Establishment%3B%20membership%3B%20Chairman%3B%20appointments.md) | Establishment; membership; Chairman; appointments. |
 | [4343\.](Subchapter%20002%20%28II%29%20-%20Council%20on%20Environmental%20Quality/%C2%A7%2004343%20-%20Employment%20of%20personnel%2C%20experts%20and%20consultants.md) | Employment of personnel, experts and consultants. |
 | [4344\.](Subchapter%20002%20%28II%29%20-%20Council%20on%20Environmental%20Quality/%C2%A7%2004344%20-%20Duties%20and%20functions.md) | Duties and functions. |
@@ -65,12 +65,7 @@
 | (a) | Consultation and cooperation of Administrator of Environmental Protection Agency with heads of Federal agencies; inclusion of activities in annual revisions of plan for research, etc. |
 | (b) | Coordination of programs by Administrator. |
 | (c) | Joint study by Council on Environmental Quality in consultation with Office of Science and Technology Policy for coordination of activities; report to President and Congress; report by President to Congress on implementation of joint study and report. |
-| [4366a.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/%C2%A7%2004366a%20-%20Development%20of%20data%20base%20of%20environmental%20research%20articles%20indexed%20by%20geographic%20location.md) | Development of data base of environmental research articles indexed by geographic location. |
-| (a) | Research journals. |
-| (b) | Index. |
-| (c) | Purchase of information. |
-| (d) | Revising list. |
-| (e) | Specific location of research projects. |
+| [4366a.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/%C2%A7%2004366a%20-%20Omitted.md) | Omitted. |
 | [4367\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/%C2%A7%2004367%20-%20Reporting%20requirements%20of%20financial%20interests%20of%20officers%20and%20employees%20of%20Environmental%20Protection%20Agency.md) | Reporting requirements of financial interests of officers and employees of Environmental Protection Agency. |
 | (a) | Covered officers and employees. |
 | (b) | Implementation of requirements by Administrator. |
@@ -98,7 +93,7 @@
 | (d) | Transmittal of research information to the Department of Energy. |
 | [4369a.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/%C2%A7%2004369a%20-%20Reports%20on%20environmental%20research%20and%20development%20activities%20of%20Agency.md) | Reports on environmental research and development activities of Agency. |
 | (a) | Reports to keep Congressional committees fully and currently informed. |
-| (b) | Annual reports relating requested funds to activities to be carried out with those funds. |
+| (b) | Omitted. |
 | [4370\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/%C2%A7%2004370%20-%20Reimbursement%20for%20use%20of%20facilities.md) | Reimbursement for use of facilities. |
 | (a) | Authority to allow outside groups or individuals to use research and test facilities; reimbursement. |
 | (b) | Rules and regulations. |
@@ -113,12 +108,13 @@
 | (e) | Uses of fees. |
 | [4370d.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/%C2%A7%2004370d%20-%20Percentage%20of%20Federal%20funding%20for%20organizations%20owned%20by%20socially%20and%20economically%20disadvantaged%20individuals.md) | Percentage of Federal funding for organizations owned by socially and economically disadvantaged individuals. |
 | [4370e.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/%C2%A7%2004370e%20-%20Working%20capital%20fund%20in%20Treasury.md) | Working capital fund in Treasury. |
+| [4370f.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/%C2%A7%2004370f%20-%20Availability%20of%20funds%20after%20expiration%20of%20period%20for%20liquidating%20obligations.md) | Availability of funds after expiration of period for liquidating obligations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1437x, 2243, 3547, 4374, 4852, 5159, 5304, 6508, 7276c, 7616, 7916, 8302, 10133, 10134, 10161, 10165, 10168, 10196, 10247, 12838 of this title; title 7 section 2814; title 10 sections 2391, 2667, 7439; title 12 section 1715z–13a; title 15 sections 719f, 719h, 793; title 16 sections 1a–5, 410hh, 460ii–4, 460qq, 460<i>lll</i>, 470h–2, 471j, 497b, 497c, 544<i>o</i>, 797d, 839d, 1434, 1455, 1536, 1602, 1604, 2403a, 2705, 3164, 3232, 3233, 3636, 4403, 4404; title 23 sections 108, 134, 135, 182, 206, 323; title 25 sections 640d–26, 4115; title 30 sections 185, 1292; title 33 sections 59c–2, 59c–3, 59j–1, 59k, 59n, 59<i>o</i>, 59y, 59bb, 59cc, 59dd, 59ff, 59gg, 59hh, 701b–13, 1293a, 1344, 1371, 1505; title 43 sections 390h–1, 421h, 1351, 1577, 1597, 1638, 1652, 1723, 1866, 1904, 2006, 2223, 7276c; title 45 sections 917, 1010, 1207, 1212; title 49 sections 5304, 5305, 5309, 70304.
+This chapter is referred to in sections 1437x, 2243, 3547, 4374, 4852, 5159, 5304, 6508, 7276c, 7616, 7916, 8302, 10133, 10134, 10161, 10165, 10168, 10196, 10247, 12838 of this title; title 7 section 2814; title 10 sections 2391, 2667, 7439; title 12 sections 1715z–13a, 1715z–22; title 15 sections 719f, 719h, 793; title 16 sections 1a–5, 410hh, 460ii–4, 460qq, 460<i>lll</i>, 470h–2, 471j, 497b, 497c, 544<i>o</i>, 797d, 839d, 1434, 1455, 1536, 1602, 1604, 2403a, 2705, 3164, 3232, 3233, 3636, 4403, 4404; title 22 section 277d–45; title 23 sections 108, 134, 135, 182, 206, 323; title 25 sections 458aaa–8, 640d–26, 4115, 4226; title 30 sections 185, 1292; title 33 sections 59c–2, 59c–3, 59j–1, 59k, 59n, 59<i>o</i>, 59y, 59bb, 59bb–1, 59cc, 59dd, 59ff, 59gg, 59hh, 701b–13, 1293a, 1344, 1371, 1505; title 43 sections 390h–1, 421h, 1351, 1577, 1597, 1638, 1652, 1723, 1866, 1904, 2006, 2223, 7276c; title 45 sections 917, 1010, 1207, 1212; title 49 sections 5304, 5305, 5309, 70304.
 
 
 ---

@@ -20,7 +20,3 @@ Changes made in phraseology.
 
 The internal-revenue laws, referred to in text, are classified generally to Title 26, Internal Revenue Code.
 
-#### Cross References
-
-Liquor traffic, offenses relating to, see section 1261 et seq. of this title.
-

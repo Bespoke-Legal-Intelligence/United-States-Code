@@ -94,5 +94,5 @@ In this section, the term “assistance” includes personnel, services, supplie
 
 #### References in Text
 
-Section 601(b) of the International Security Assistance and Arms Export Control Act of 1976, referred to in subsec. (d)(3), is section 601(b) of Pub. L. 94–329, title VI, June 30, 1976, 90 Stat. 765, which is not classified to the Code.
+Section 601(b) of the International Security Assistance and Arms Export Control Act of 1976, referred toin subsec. (d)(3), is section 601(b) of Pub. L. 94–329, title VI, June 30, 1976, 90 Stat. 765, which is not classified to the Code.
 

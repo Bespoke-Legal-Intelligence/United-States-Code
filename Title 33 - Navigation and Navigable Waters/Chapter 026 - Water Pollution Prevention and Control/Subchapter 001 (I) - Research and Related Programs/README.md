@@ -31,3 +31,5 @@
 - [&sect; 01270 - Lake Champlain Management Conference](%C2%A7%2001270%20-%20Lake%20Champlain%20Management%20Conference.md)
 - [&sect; 01271 - Sediment survey and monitoring](%C2%A7%2001271%20-%20Sediment%20survey%20and%20monitoring.md)
 - [&sect; 01272 - Environmental dredging](%C2%A7%2001272%20-%20Environmental%20dredging.md)
+- [&sect; 01273 - Lake Pontchartrain Basin](%C2%A7%2001273%20-%20Lake%20Pontchartrain%20Basin.md)
+- [&sect; 01274 - Wet weather watershed pilot projects](%C2%A7%2001274%20-%20Wet%20weather%20watershed%20pilot%20projects.md)

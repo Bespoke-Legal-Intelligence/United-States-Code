@@ -2,15 +2,31 @@
 
 (a) There is in the executive part of the Department of the Army an Office of the Army Reserve which is headed by a chief who is the adviser to the Chief of Staff on Army Reserve matters.
 
-(b) The President, by and with the advice and consent of the Senate, shall appoint the Chief of Army Reserve from officers of the Army Reserve not on active duty, or on active duty under section 10211 of this title, who—
+(b)
 
-&emsp;(1) have had at least 10 years of commissioned service in the Army Reserve;
+Appointment.—(1) The President, by and with the advice and consent of the Senate, shallappoint the Chief of Army Reserve from general officers of the Army Reserve who have had at least 10 years of commissioned service in the Army Reserve.
 
-&emsp;(2) are in grade of brigadier general and above; and
+(2) The Secretary of Defense may not recommend an officer to the President for appointment as Chief of Army Reserve unless the officer—
 
-&emsp;(3) have been recommended by the Secretary of the Army.
+&emsp;(A) is recommended by the Secretary of the Army; and
 
-(c) The Chief of Army Reserve holds office for four years but may be removed for cause at any time. He is eligible to succeed himself. If he holds a lower reserve grade, he shall be appointed in the grade of major general for service in the Army Reserve. However, if selected in accordance with section 12505 of this title, he may be appointed in the grade of lieutenant general.
+&emsp;(B) is determined by the Chairman of the Joint Chiefs of Staff, in accordance with criteria and as a result of a process established by the Chairman, to have significant joint duty experience.
+
+(3) An officer on active duty for service as the Chief of Army Reserve shall be counted for purposes of the grade limitations under sections 525 and 526 of this title.
+
+(4) Until October 1, 2003, the Secretary of Defense may waive subparagraph (B) of paragraph (2) with respect to the appointment of an officer as Chief of Army Reserve if the Secretary of the Army requests the waiver and, in the judgment of the Secretary of Defense—
+
+&emsp;(A) the officer is qualified for service in the position; and
+
+&emsp;(B) the waiver is necessary for the good of the service.
+
+> Any such waiver shall be made on a case-by-case basis.
+
+(c)
+
+Term; Reappointment; Grade.—(1) The Chief of Army Reserve is appointed for a period of four years, but may be removed for cause at any time. An officer serving as Chief of Army Reserve may be reappointed for one additional four-year period.
+
+(2) The Chief of Army Reserve, while so serving, holds the grade of lieutenant general.
 
 (d)
 
@@ -26,13 +42,23 @@ Annual Report.—(1) The Chief of Army Reserve shall submit to the Secretary of 
 
 (2) The Secretary of Defense shall transmit the annual report of the Chief of Army Reserve under paragraph (1) to Congress, together with such comments on the report as the Secretary considers appropriate. The report shall be transmitted at the same time each year that the annual report of the Secretary under section 113 of this title is submitted to Congress.
 
-(Added Pub. L. 90–168, §2(16), Dec. 1, 1967, 81 Stat. 523, §3019; renumbered §3038 and amended Pub. L. 99–433, title V, §§501(a)(4), 502(g)(1), Oct. 1, 1986, 100 Stat. 1034, 1042; Pub. L. 103–337, div. A, title XVI, §1672(c)(1), Oct. 5, 1994, 108 Stat. 3015; Pub. L. 104–201, div. A, title XII, §1212(a), Sept. 23, 1996, 110 Stat. 2691; Pub. L. 106–65, div. A, title V, §554(b), Oct. 5, 1999, 113 Stat. 617.)
+(Added Pub. L. 90–168, §2(16), Dec. 1, 1967, 81 Stat. 523, §3019; renumbered §3038 and amended Pub. L. 99–433, title V, §§501(a)(4), 502(g)(1), Oct. 1, 1986, 100 Stat. 1034, 1042; Pub. L. 103–337, div. A, title XVI, §1672(c)(1), Oct. 5, 1994, 108 Stat. 3015; Pub. L. 104–201, div. A, title XII, §1212(a), Sept. 23, 1996, 110 Stat. 2691; Pub. L. 106–65, div. A, title V, §554(b), Oct. 5, 1999, 113 Stat. 617; Pub. L. 106–398, §1 \[\[div. A\], title V, §507(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–102.)
 
 #### Prior Provisions
 
 A prior section 3038, act Aug. 10, 1956, ch. 1041, 70A Stat. 164, charged Chief of Engineers with responsibility for Army construction, real estate acquisition and management, and the operation of water, gas, electric, and sewer utilities, prior to repeal by Pub. L. 89–718, §25(a), Nov. 2, 1966, 80 Stat. 1119.
 
 #### Amendments
+
+2000—Subsec. (b). Pub. L. 106–398 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The President, by and with the advice and consent of the Senate, shall appoint the Chief of Army Reserve from officers of the Army Reserve not on active duty, or on active duty under section 10211 of this title, who—
+
+&emsp;“(1) have had at least 10 years of commissioned service in the Army Reserve;
+
+&emsp;“(2) are in grade of brigadier general and above; and
+
+&emsp;“(3) have been recommended by the Secretary of the Army.”
+
+Subsec. (c). Pub. L. 106–398 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Chief of Army Reserve holds office for four years but may be removed for cause at any time. He is eligible to succeed himself. If he holds a lower reserve grade, he shall be appointed in the grade of major general for service in the Army Reserve. However, if selected in accordance with section 12505 of this title, he may be appointed in the grade of lieutenant general.”
 
 1999—Subsec. (c). Pub. L. 106–65 inserted at end “However, if selected in accordance with section 12505 of this title, he may be appointed in the grade of lieutenant general.”
 
@@ -46,7 +72,21 @@ Subsec. (c). Pub. L. 99–433, §502(g)(1), substituted “service” for “ser
 
 #### Effective Date of 1999 Amendment; Applicability to Incumbents
 
-Amendment by Pub. L. 106–65 effective 60 days after Oct. 5, 1999, with special provision for an officer who is a covered position incumbent who is appointed under that amendment to the grade of lieutenant general orvice admiral, see section 554(g), (h) of Pub. L. 106–65, set out as an Effective Date note under section 12505 of this title.
+Pub. L. 106–65, div. A, title V, §554(g), (h), Oct. 5, 1999, 113 Stat. 617, provided that:
+
+“(g)
+
+Effective Date.—The amendments made by this section \[enacting section 12505 of this title and amending this section and sections 5143, 5144, 8038, and 10506 of this title\] shall take effect 60 days after the date of the enactment of this Act \[Oct. 5, 1999\].
+
+“(h)
+
+Applicability to Incumbents.—(1) If an officer who is a covered position incumbent is appointed under the amendments made by this section to the grade of lieutenant general or vice admiral, the term of service of that officer in that covered position shall not be extended by reason of such appointment.
+
+“(2) For purposes of this subsection:
+
+&emsp;“(A) The term ‘covered position incumbent’ means a reserve component officer who on the effective date specified in subsection (g) is serving in a covered position.
+
+&emsp;“(B) The term ‘covered position’ means a position specified in section 12505 of title 10, United States Code, as added by subsection (a).”
 
 #### Effective Date of 1994 Amendment
 
@@ -58,5 +98,5 @@ Section effective on first day of first calendar month following date of enactme
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 641, 12505 of this title.
+This section is referred to in section 641 of this title.
 

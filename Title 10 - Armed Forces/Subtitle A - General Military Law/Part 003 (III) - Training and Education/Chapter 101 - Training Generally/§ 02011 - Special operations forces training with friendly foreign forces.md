@@ -28,7 +28,7 @@ Definitions.—In this section:
 
 (e)
 
-Reports.—Not later than April 1 of each year, the Secretary of Defense shall submit to Congress a report regarding training during the preceding fiscal year for which expenses werepaid under this section. Each report shall specify the following:
+Reports.—Not later than April 1 of each year, the Secretary of Defense shall submit to Congress a report regarding training during the preceding fiscal year for which expenses were paid under this section. Each report shall specify the following:
 
 &emsp;(1) All countries in which that training was conducted.
 

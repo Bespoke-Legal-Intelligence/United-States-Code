@@ -2,7 +2,7 @@
 
 #### (a) Addition of rights and remedies; recovery of actual damages; State securities commissions
 
-Except as provided in subsection (f) of this section, the rights and remedies provided by thischapter shall be in addition to any and all other rights and remedies that may exist at law or in equity; but no person permitted to maintain a suit for damages under the provisions of this chapter shall recover, through satisfaction of judgment in one or more actions, a total amount in excess of his actual damages on account of the act complained of. Except as otherwise specifically provided in this chapter, nothing in this chapter shall affect the jurisdiction of the securities commission (or any agency or officer performing like functions) of any State over any security or any person insofar as it does not conflict with the provisions of this chapter or the rules and regulations thereunder. No State law which prohibits or regulates the making or promoting of wagering or gaming contracts, or the operation of “bucket shops” or other similar or related activities, shall invalidate any put, call, straddle, option, privilege, or other security, or apply to any activity which is incidental or related to the offer, purchase, sale, exercise, settlement, or closeout of any such instrument, if such instrument is traded pursuant to rules and regulations of a self-regulatory organization that are filed with the Commission pursuant to section 78s(b) of this title.
+Except as provided in subsection (f) of this section, the rights and remedies provided by this chapter shall be in addition to any and all other rights and remedies that may exist at law or in equity; but no person permitted to maintain a suit for damages under the provisions of this chapter shall recover, through satisfaction of judgment in one or more actions, a total amount in excess of his actual damages on account of the act complained of. Except as otherwise specifically provided in this chapter, nothing in this chapter shall affect the jurisdiction of the securities commission (or any agency or officer performing like functions) of any State over any security or any person insofar as it does not conflict with the provisions of this chapter or the rules and regulations thereunder. No State law which prohibits or regulates the making or promoting of wagering or gaming contracts, or the operation of “bucket shops” or other similar or related activities, shall invalidate any put, call, straddle, option, privilege, or other security subject to this chapter, or apply to any activity which is incidental or related to the offer, purchase, sale, exercise, settlement, or closeout of any such security. No provision of State law regarding the offer, sale, or distribution of securities shall apply to any transaction in a security futures product, except that this sentence shall not be construed as limiting any State antifraud law of general applicability.
 
 #### (b) Modification of disciplinary procedures
 
@@ -10,7 +10,7 @@ Nothing in this chapter shall be construed to modify existing law with regard to
 
 #### (c) Continuing validity of disciplinary sanctions
 
-The stay, setting aside, or modification pursuant to section 78s(e) of this title of any disciplinary sanction imposed by a self-regulatory organization on a member thereof, person associated with a member, or participant therein, shall not affect the validity or force of any action taken as a result of such sanction by the self-regulatory organization prior to such stay, setting aside, or modification: <i>Provided</i>, That such action is not inconsistent with the provisions of this chapter or the rules or regulations thereunder. The rights of any person acting in good faith which arise out of any such action shall not be affected in any way by such stay, setting aside, or modification.
+The stay, setting aside, or modification pursuant to section 78s(e) of this title of any disciplinary sanction imposed by a self-regulatory organization on a member thereof, person associated with a member, or participant therein, shall not affect the validity or force of any action taken as a result of such sanction by the self-regulatory organization prior to such stay, setting aside, or modification: <i>Provided</i>, That such action is not inconsistent with the provisions of this chapter or the rules or regulations thereunder. The rights of any person acting in good faith which arise out of any such action shallnot be affected in any way by such stay, setting aside, or modification.
 
 #### (d) Physical location of facilities of registered clearing agencies or registered transfer agents not to subject changes in beneficial or record ownership of securities to State or local taxes
 
@@ -29,6 +29,8 @@ No State or political subdivision thereof shall impose any tax on any change in 
 &emsp;(B) furnishes analyses and reports concerning issuers, industries, securities, economic factors and trends, portfolio strategy, and the performance of accounts; or
 
 &emsp;(C) effects securities transactions and performs functions incidental thereto (such as clearance, settlement, and custody) or required in connection therewith by rules of the Commission or a self-regulatory organization of which such person is a member or person associated with a member or in which such person is a participant.
+
+(4) The provisions of this subsection shall not apply with regard to securities that are security futures products.
 
 #### (f) Limitations on remedies
 
@@ -126,7 +128,7 @@ No State or political subdivision thereof shall impose any tax on any change in 
 
 &emsp;&emsp;Nothing in this paragraph shall be construed to affect the discretion of a State court in determining whether actions filed in such court should be joined, consolidated, or otherwise allowed to proceed as a single action.
 
-(June 6, 1934, ch. 404, title I, §28, 48 Stat. 903; Pub. L. 94–29, §21, June 4, 1975, 89 Stat. 160; Pub. L. 97–303, §4, Oct. 13, 1982, 96 Stat. 1409; Pub. L. 100–181, title III, §§327–329, Dec. 4, 1987, 101 Stat. 1259; Pub. L. 104–290, title I, §103(b), Oct. 11, 1996, 110 Stat. 3422; Pub. L. 105–353, title I, §101(b)(1), Nov. 3, 1998, 112 Stat. 3230.)
+(June 6, 1934, ch. 404, title I, §28, 48 Stat. 903; Pub. L. 94–29, §21, June 4, 1975, 89 Stat. 160; Pub. L. 97–303, §4, Oct. 13, 1982, 96 Stat. 1409; Pub. L. 100–181, title III, §§327–329, Dec. 4, 1987, 101 Stat. 1259; Pub. L. 104–290, title I, §103(b), Oct. 11, 1996,110 Stat. 3422; Pub. L. 105–353, title I, §101(b)(1), Nov. 3, 1998, 112 Stat. 3230; Pub. L. 106–554, §1(a)(5) \[title II, §§203(a)(2), 210\], Dec. 21, 2000, 114 Stat. 2763, 2763A–422, 2763A–436.)
 
 #### References in Text
 
@@ -135,6 +137,10 @@ This chapter, referred to in subsecs. (a) to (c) and (e), was in the original �
 The Securities Act of 1933, referred to in subsec. (f)(5)(E), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
 
 #### Amendments
+
+2000—Subsec. (a). Pub. L. 106–554, §1(a)(5) \[title II, §210\], inserted “subject to this chapter” after “privilege, or other security”, substituted “any such security” for “any such instrument, if such instrument is traded pursuant to rules and regulations of a self-regulatory organization that are filed with the Commission pursuant to section 78s(b) of this title”, and inserted at end “No provision of State law regarding the offer, sale, or distribution of securities shall apply to any transaction in a security futures product, except that this sentence shall not be construed as limiting any State antifraud law of general applicability.”
+
+Subsec. (e)(4). Pub. L. 106–554, §1(a)(5) \[title II, §203(a)(2)\], added par. (4).
 
 1998—Subsec. (a). Pub. L. 105–353, §101(b)(1)(A), substituted “Except as provided in subsection (f) of this section, the rights and remedies” for “The rights and remedies”.
 
@@ -165,8 +171,4 @@ Amendment by Pub. L. 94–29 effective June 4, 1975, see section 31(a) of Pub. L
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
-#### Federal Rules of Civil Procedure
-
-One form of action, see rule 2, Title 28, Appendix, Judiciary and Judicial Procedure.
 

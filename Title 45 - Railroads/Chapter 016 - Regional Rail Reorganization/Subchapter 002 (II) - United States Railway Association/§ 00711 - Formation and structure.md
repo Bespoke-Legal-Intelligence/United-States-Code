@@ -10,7 +10,7 @@ The Association shall be directed by a Board of Directors. The individuals desig
 
 #### (c) Status
 
-The Association shall be a government corporation of the District of Columbia subject, to the extent not inconsistent with this subchapter, to the District of Columbia Nonprofit Corporation Act \[D.C. Code, §29–501 et seq.\]. Except as otherwise provided, employees of the Association shall not be deemed employees of the Federal Government. The Association shall have succession until dissolved by Act of Congress, shall maintain its principal office in the District of Columbia, and shall be deemed to be a resident of the District of Columbia with respect to venue in any legal proceeding.
+The Association shall be a government corporation of the District of Columbia subject, to the extent not inconsistent with this subchapter, to the District of Columbia Nonprofit Corporation Act. Except as otherwise provided, employees of the Association shall not be deemed employees of the Federal Government. The Association shall have succession until dissolved by Act of Congress, shall maintain its principal office in the District of Columbia, and shall be deemed to be a resident of the District of Columbia with respect to venue in any legal proceeding.
 
 #### (d) Board of Directors
 
@@ -58,11 +58,11 @@ The members of the Board of Directors may send representatives to meetings of su
 
 No person, except the Association, shall hereafter use the words “United States Railway Association” as a name for any business purpose. Violations of this provision may be enjoined by any court of general jurisdiction in an action commenced by the Association. In any such action, the Association may recover any actual damages flowing from such violation, and, in addition, shall be entitled to punitive damages (regardless of the existence or nonexistence of actual damage) in an amount not to exceed $100 for each day during which such violation was committed. The district courts of the United States shall have jurisdiction over actions brought under this subsection, without regard to the amount in controversy or the citizenship of the parties.
 
-(Pub. L. 93–236, title II, §201, Jan. 2, 1974, 87 Stat. 988; Pub. L. 94–210, title VI, §§603(a), (b), 607(a), 612(j)(2), Feb. 5, 1976, 90 Stat. 88, 96, 109; Pub. L. 94–555, title II, §211(b)–(e), Oct. 19, 1976, 90 Stat. 2624; Pub. L. 95–611, §2, Nov. 8, 1978, 92 Stat. 3089; Pub. L. 96–448, title V, §508(c), Oct. 14, 1980, 94 Stat. 1957; Pub. L. 97–35, title XI, §1147, Aug. 13, 1981, 95 Stat. 673; Pub. L. 98–181, title II, §2003(c)(1), Nov. 30, 1983, 97 Stat. 1297; Pub. L. 99–190, §101(e) \[title III, §332\], Dec. 19, 1985, 99 Stat. 1267, 1290.)
+(Pub. L. 93–236, title II, §201, Jan. 2, 1974, 87 Stat. 988; Pub. L. 94–210, title VI, §§603(a), (b), 607(a), 612(j)(2), Feb. 5, 1976, 90 Stat. 88, 96, 109; Pub. L. 94–555, title II, §211(b)–(e), Oct. 19, 1976, 90 Stat. 2624; Pub. L. 95–611, §2, Nov. 8, 1978, 92 Stat. 3089; Pub. L. 96–448, title V, §508(c), Oct. 14, 1980, 94Stat. 1957; Pub. L. 97–35, title XI, §1147, Aug. 13, 1981, 95 Stat. 673; Pub. L. 98–181, title II, §2003(c)(1), Nov. 30, 1983, 97 Stat. 1297; Pub. L. 99–190, §101(e) \[title III, §332\], Dec. 19, 1985, 99 Stat. 1267, 1290.)
 
 #### References in Text
 
-The District of Columbia Nonprofit Corporation Act, referred to in subsec. (c), is Pub. L. 87–569, Aug. 6, 1962, 76 Stat. 265, as amended, which appears in chapter 5 (§29–501 et seq.) of Title 29, Corporations, of the District of Columbia Code.
+The District of Columbia Nonprofit Corporation Act, referred to in subsec. (c), is Pub. L. 87–569, Aug. 6, 1962, 76 Stat. 265, as amended, which is not classified to the Code.
 
 #### Codification
 

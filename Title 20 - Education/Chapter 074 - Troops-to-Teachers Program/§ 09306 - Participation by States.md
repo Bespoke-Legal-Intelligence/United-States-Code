@@ -2,7 +2,7 @@
 
 #### (a) Discharge of State activities through consortia of States
 
-The administering Secretary may permit States participating in the Troops-to-Teachers Program to carry out activities authorized forsuch States under the program through one or more consortia of such States.
+The administering Secretary may permit States participating in the Troops-to-Teachers Program to carry out activities authorized for such States under the program through one or more consortia of such States.
 
 #### (b) Assistance to States
 

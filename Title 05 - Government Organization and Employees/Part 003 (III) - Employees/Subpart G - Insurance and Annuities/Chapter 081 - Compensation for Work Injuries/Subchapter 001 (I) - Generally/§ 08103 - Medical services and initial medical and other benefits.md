@@ -74,7 +74,7 @@ The words “another retirement system for employees of the Government” are su
 
 #### Effective Date of 1974 Amendment
 
-Amendment by Pub. L. 93–416 applicable to cases where injury or death occurred prior to Sept. 7, 1974, but only to a period beginning on or after Sept. 7, 1974, see section 28(a) of Pub. L. 93–416, set out as a note under section 8101 of this title.
+Amendment by Pub. L. 93–416 applicable to cases where injury or death occurred prior to Sept. 7, 1974, but only to a period beginning on or after Sept. 7, 1974,see section 28(a) of Pub. L. 93–416, set out as a note under section 8101 of this title.
 
 #### Personnel Not Affected by 1967 Increase
 
@@ -85,10 +85,6 @@ Section 7 of Pub. L. 90–83 provided that: “Nothing in this or any other Act 
 &emsp;“(2) a member of the Metropolitan Police or the Fire Department of the District of Columbia who is pensioned or pensionable under sections 521—535 of title 4, District of Columbia Code; or
 
 &emsp;“(3) a member of a uniformed service.”
-
-#### Cross References
-
-Medical examination and treatment of Federal employees by Public Health Service, see section 251 of Title 42, The Public Health and Welfare.
 
 #### Section Referred to in Other Sections
 

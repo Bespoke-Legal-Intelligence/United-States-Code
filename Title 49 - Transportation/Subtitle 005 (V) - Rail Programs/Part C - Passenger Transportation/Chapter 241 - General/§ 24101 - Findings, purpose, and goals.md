@@ -62,7 +62,7 @@ Goals.—Amtrak shall—
 
 (d)
 
-Minimizing Government Subsidies.—To carry out subsection (c)(11) of this section, Amtrak is encouraged to make agreements with the private sector and undertake initiatives that are consistent with good business judgment and designed to maximize its revenues and minimize Government subsidies. Amtrak shall prepare a financial plan to operate within the funding levels authorized by section 24104 of this chapter, including budgetary goals for fiscal years 1998 through 2002. Commencing no later than the fiscal year following the fifth anniversary of the Amtrak Reform and Accountability Act of 1997, Amtrak shall operate without Federal operating grant funds appropriated for its benefit.
+Minimizing Government Subsidies.—To carry out subsection (c)(11) of this section, Amtrak is encouraged to make agreements with the private sector and undertake initiatives that are consistent with good business judgment and designed to maximize its revenues and minimize Government subsidies. Amtrak shall prepare a financial plan to operate within the funding levels authorized by section 24104 of this chapter, including budgetary goals for fiscal years 1998 through 2002. Commencing no later than the fiscal year following the fifth anniversary of theAmtrak Reform and Accountability Act of 1997, Amtrak shall operate without Federal operating grant funds appropriated for its benefit.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 899; Pub. L. 105–134, title I, §105(b), title II, §201, Dec. 2, 1997, 111 Stat. 2573, 2578.)
 
@@ -158,7 +158,7 @@ Initiation.—Not later than 15 days after the date of enactment of this Act \[D
 
 “(b)
 
-Assessment Criteria.—The Secretary and Amtrak shall provide to the independent entity estimates of the financial requirements of Amtrak for the period described in subsection (a), using as a base the fiscal year 1997 appropriation levels established by the Congress. The independent assessment shall be based on an objective analysis of Amtrak's funding needs.
+Assessment Criteria.—The Secretary and Amtrak shall provide to the independent entity estimates of the financial requirements of Amtrak for the perioddescribed in subsection (a), using as a base the fiscal year 1997 appropriation levels established by the Congress. The independent assessment shall be based on an objective analysis of Amtrak's funding needs.
 
 “(c)
 
@@ -304,7 +304,7 @@ Monitor work-rule savings.—If, after January 1, 1997, Amtrak enters into an ag
 
 “(h)
 
-Annual Report.—Each year before the fifth anniversary of the date of enactment of this Act \[Dec. 2,1997\], the Council shall submit to the Congress a report that includes an assessment of—
+Annual Report.—Each year before the fifth anniversary of the date of enactment of this Act \[Dec. 2, 1997\], the Council shall submit to the Congress a report that includes an assessment of—
 
 &emsp;“(1) Amtrak's progress on the resolution of productivity issues; or
 
@@ -400,7 +400,7 @@ Disposition of senate resolution.—If the Senate has read for the third time a 
 
 &emsp;“(10)
 
-Consideration of house message.—Consideration in the Senate of all motions, amendments, or appeals necessary to dispose of a message from the House of Representatives on a liquidation disapproval resolution shall be limited to not more than 4 hours. Debate on each motion or amendment shall be limited to 30 minutes. Debate on any appeal or point of order that is submitted in connection with the disposition of the House message shall be limited to 20 minutes. Any time for debate shall be equally divided and controlled by the proponent and the majority manager, unless the majority manager is a proponent of the motion, amendment, appeal, or point of order, in which case the minority manager shall be in control of the time in opposition.
+Consideration of house message.—Consideration in the Senate of all motions, amendments, or appeals necessary to dispose of a message from the House of Representatives on a liquidation disapproval resolution shall be limited to not more than 4 hours. Debate on each motion or amendment shall be limited to 30 minutes. Debate on any appeal or point of order that is submitted in connection with the disposition of the House message shall be limited to 20 minutes. Any time for debate shall be equally divided and controlled by the proponent and the majority manager, unless the majority manager is a proponent of the motion, amendment, appeal, or point of order,in which case the minority manager shall be in control of the time in opposition.
 
 “(c)
 

@@ -6,7 +6,7 @@ For the purposes of this chapter the term—
 
 &emsp;(2) “State” means each State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and any territory or possession of the United States;
 
-&emsp;(3) “interstate off-track wager” means a legal wager placed or accepted in one State with respect to the outcome of a horserace taking place in another State;
+&emsp;(3) “interstate off-track wager” means a legal wager placed or accepted in one State with respect to the outcome of a horserace taking place in another State and includes pari-mutuel wagers, where lawful in each State involved, placed or transmitted by an individual in one State via telephone or other electronic media and accepted by an off-track betting system in the same or another State, as well as the combination of any pari-mutuel wagering pools;
 
 &emsp;(4) “on-track wager” means a wager with respect to the outcome of a horserace which is placed at the racetrack at which such horse- race takes place;
 
@@ -44,7 +44,11 @@ For the purposes of this chapter the term—
 
 &emsp;(21) “regular contractual process” means those negotiations by which the applicable horsemen's group and host racing association reach agreements on issues regarding the conduct of horseracing by the horsemen's group at that racing association;
 
-&emsp;(22) “terms and conditions” includes, but is not limited to, the percentage which is paid by the off-track betting system to the host racing association, the percentage which is paid by the host racing association to the horsemen'sgroup, as well as any arrangements as to the exclusivity between the host racing association and the off-track betting system.
+&emsp;(22) “terms and conditions” includes, but is not limited to, the percentage which is paid by the off-track betting system to the host racing association, the percentage which is paid by the host racing association to the horsemen's group, as well as any arrangements as to the exclusivity between the host racing association and the off-track betting system.
 
-(Pub. L. 95–515, §3, Oct. 25, 1978, 92 Stat. 1811.)
+(Pub. L. 95–515, §3, Oct. 25, 1978, 92 Stat. 1811; Pub. L. 106–553, §1(a)(2) \[title VI, §629\], Dec. 21, 2000, 114 Stat. 2762, 2762A–108.)
+
+#### Amendments
+
+2000—Par. (3). Pub. L. 106–553 inserted “and includes pari-mutuel wagers, where lawful in each State involved, placed or transmitted by an individual in one State via telephone or other electronic media and accepted by an off-track betting system in the same or another State, as well as the combination of any pari-mutuel wagering pools” after “another State”.
 

@@ -80,7 +80,7 @@ Activities Supported.—Activities supported under subsection (a) include—
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5852, 5855, 5856, 5857, 5858 of this title.
+This section is referred to in sections 2349bb, 5852, 5855, 5856, 5857, 5858 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

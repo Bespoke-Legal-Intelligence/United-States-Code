@@ -36,7 +36,7 @@ Effective Date of Promotion After Federal Recognition.—The effective date of a
 
 (g)
 
-Army and Air Force General Officer Promotions.—A reserve officer of the Army or the Air Force who is on a promotion list for promotion to the grade of brigadier general or major general as a result of selection by a vacancy promotion board may be promoted to that grade only to fill a vacancy in the Army Reserve or the Air Force Reserve, as the case may be, in that grade.
+Army and Air Force General Officer Promotions.—A reserve officer of the Army orthe Air Force who is on a promotion list for promotion to the grade of brigadier general or major general as a result of selection by a vacancy promotion board may be promoted to that grade only to fill a vacancy in the Army Reserve or the Air Force Reserve, as the case may be, in that grade.
 
 (Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2937; amended Pub. L. 105–85, div. A, title V, §514(c), Nov. 18, 1997, 111 Stat. 1732.)
 

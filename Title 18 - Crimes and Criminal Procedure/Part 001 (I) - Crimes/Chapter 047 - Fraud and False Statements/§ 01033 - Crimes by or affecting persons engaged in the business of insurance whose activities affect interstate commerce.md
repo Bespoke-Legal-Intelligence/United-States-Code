@@ -16,7 +16,7 @@
 
 &emsp;(B) is engaged in the business of insurance whose activities affect interstate commerce or is involved (other than as an insured or beneficiary under a policy of insurance) in a transaction relating to the conduct of affairs of such a business,
 
-> willfully embezzles, abstracts, purloins, or misappropriates any of the moneys, funds, premiums, credits, or other property of such person so engaged shall be punished as provided in paragraph (2).
+> willfully embezzles, abstracts, purloins, or misappropriates any of the moneys, funds, premiums, credits, or other property of such personso engaged shall be punished as provided in paragraph (2).
 
 (2) The punishment for an offense under paragraph (1) is a fine as provided under this title or imprisonment for not more than 10 years, or both, except that if such embezzlement, abstraction, purloining, or misappropriation described in paragraph (1) jeopardized the safety and soundness of an insurer and was a significant cause of such insurer being placed in conservation, rehabilitation, or liquidation by an appropriate court, such imprisonment shall be not more than 15 years. If the amount or value so embezzled, abstracted, purloined, or misappropriated does not exceed $5,000, whoever violates paragraph (1) shall be fined as provided in this title or imprisoned not more than one year, or both.
 

@@ -12,11 +12,7 @@ Whenever the International Trade Commission (hereafter referred to in this part 
 
 The report of the Secretary of the study under subsection (a) of this section shall be made to the President not later than 15 days after the day on which the Commission makes its report under section 2252(f) of this title. Upon making his report to the President, the Secretary shall also promptly make it public (with the exception of information which the Secretary determines to be confidential) and shall have a summary of it published in the Federal Register.
 
-(Pub. L. 93–618, title II, §224, Jan. 3, 1975, 88 Stat. 2020; Pub. L. 97–35, title XXV, §2513(a), Aug. 13,1981, 95 Stat. 889; Pub. L. 100–418, title I, §1401(b)(1)(B), Aug. 23, 1988, 102 Stat. 1239.)
-
-#### Termination of Section
-
-<i>For termination of section by section 285 of Pub. L. 93–618, see Termination Date note set out preceding section 2271 of this title.</i>
+(Pub. L. 93–618, title II, §224, Jan. 3, 1975, 88 Stat. 2020; Pub. L. 97–35, title XXV, §2513(a), Aug. 13, 1981, 95 Stat. 889; Pub. L. 100–418, title I, §1401(b)(1)(B), Aug. 23, 1988, 102 Stat. 1239.)
 
 #### Amendments
 
@@ -33,4 +29,8 @@ Amendment by Pub. L. 100–418 effective Aug. 23, 1988, and applicable with resp
 #### Effective Date of 1981 Amendment and Transition Provisions
 
 Amendment by Pub. L. 97–35 effective Aug. 13, 1981, with transition provisions applicable, see section 2514 of Pub. L. 97–35, set out as a note under section 2291 of this title.
+
+#### Termination Date
+
+No assistance, vouchers, allowances, or other payments may be provided under subparts A to C of this part after Sept. 30, 2001, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
 

@@ -8,7 +8,7 @@ In this section, “qualification requirement” means a requirement for testing
 
 Except as provided in subsection (c) of this section, the head of the agency shall, before enforcing any qualification requirement—
 
-&emsp;(1) prepare a written justification stating the necessity for establishing the qualification requirement and specify why the qualification requirement must be demonstrated before contract award;
+&emsp;(1) prepare a written justification stating the necessity for establishing the qualification requirement and specify why the qualificationrequirement must be demonstrated before contract award;
 
 &emsp;(2) specify in writing and make available to a potential offeror upon request all requirements which a prospective offeror, or its product, must satisfy in order to become qualified, such requirements to be limited to those least restrictive to meet the purposes necessitating the establishment of the qualification requirement;
 
@@ -50,7 +50,7 @@ Within seven years after the establishment of a qualification requirement, the n
 
 #### (f) Enforcement determination by agency head
 
-Except in an emergency as determined by the head of the agency, whenever the head of the agency determines not to enforce a qualification requirement for a solicitation, the agency may not thereafter enforce that qualification requirement unless the agency complies with the requirements of subsection (b) of this section.
+Except in an emergency as determined by the head of the agency, whenever the head of theagency determines not to enforce a qualification requirement for a solicitation, the agency may not thereafter enforce that qualification requirement unless the agency complies with the requirements of subsection (b) of this section.
 
 (June 30, 1949, ch. 288, title III, §303C, formerly §303D, as added Pub. L. 98–577, title II, §202(a), Oct. 30, 1984, 98 Stat. 3069; renumbered §303C, Pub. L. 99–145, title XIII, §1304(c)(4)(A), Nov. 8, 1985, 99 Stat. 742.)
 

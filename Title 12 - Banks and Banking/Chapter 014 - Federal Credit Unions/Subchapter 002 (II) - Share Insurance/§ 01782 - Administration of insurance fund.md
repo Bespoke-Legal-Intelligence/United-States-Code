@@ -2,7 +2,7 @@
 
 #### (a) Reports of condition
 
-(1) Each insured credit union shall make reports of condition to the Board upon dates which shall be selected by it. Such reports of condition shall be in such form and shall contain such information as the Board may require. The reporting dates selected for reports of condition shall be the same for all insured credit unions except that when any of said reporting dates is a nonbusiness day for any credit union the preceding business day shall be its reporting date. Thetotal amount of the member accounts of each insured credit union as of each reporting date shall be reported in such reports of condition in accordance with regulations prescribed by the Board. Each report of condition shall contain a declaration by the president, by a vice president, by the treasurer, or by any other officer designated by the board of directors of the reporting credit union to make such declaration, that the report is true and correct to the best of such officer's knowledge and belief. Unless such requirement is waived by the Board, the correctness of each report of condition shall be attested by the signatures of three of the officers of the reporting credit union with the declaration that the report has been examined by them and to the best of their knowledge and belief is true and correct.
+(1) Each insured credit union shall make reports of condition to the Board upon dates which shall be selected by it. Such reports of condition shall be in such form and shall contain such information as the Board may require. The reporting dates selected for reports of condition shall be the same for all insured credit unions except that when any of said reporting dates is a nonbusiness day for any credit union the preceding business day shall be its reporting date. The total amount of the member accounts of each insured credit union as of each reporting date shall be reported in such reports of condition in accordance with regulations prescribed by the Board. Each report of condition shall contain a declaration by the president, by a vice president, by the treasurer, or by any other officer designated by the board of directors of the reporting credit union to make such declaration, that the report is true and correct to the best of such officer's knowledge and belief. Unless such requirement is waived by the Board, the correctness of each report of condition shall be attested by the signatures of three of the officers of the reporting credit union with the declaration that the report has been examined by them and to the best of their knowledge and belief is true and correct.
 
 (2) The Board may call for such other reports as it may from time to time require.
 
@@ -40,7 +40,7 @@ In general.—Accounting principles applicable to reports or statements required
 
 &emsp;&emsp;(ii)
 
-Board determination.—If the Board determines that the application of any generally accepted accounting principle to any insured credit union is not appropriate, the Board may prescribe an accounting principle for application to the credit union that is no less stringent than generally accepted accounting principles.
+Board determination.—If the Board determines that the application of any generally accepted accounting principle to any insured credit union is not appropriate, the Board may prescribe an accounting principlefor application to the credit union that is no less stringent than generally accepted accounting principles.
 
 &emsp;&emsp;(iii)
 
@@ -258,7 +258,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (3) Insured shares
 
-&emsp;The term “insured shares”, when applied to this section, includes share, share draft, sharecertificate, and other similar accounts as determined by the Board, but does not include amounts exceeding the insured account limit set forth in section 1787(c)(1) <sup>1</sup> of this title.
+&emsp;The term “insured shares”, when applied to this section, includes share, share draft, share certificate, and other similar accounts as determined by the Board, but does not include amounts exceeding the insured account limit set forth in section 1787(c)(1) <sup>1</sup> of this title.
 
 #### (4) Normal operating level
 
@@ -304,13 +304,13 @@ Subsec. (h). Pub. L. 105–219, §302(a)(5), added subsec. (h) and struck out fo
 
 1991—Subsec. (d)(2). Pub. L. 102–242 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Any insured credit union which willfully fails or refuses to file any certified statement or to pay its deposit or any premium charge for insurance required under this subchapter shall be subject to a penalty of not more than $100 for each day that such violation continues, which penalty the Board may recover for its use. The provisions of this paragraph shall not be applicable in any case in which the refusal to pay its deposit or the premium charge for insurance is due to a dispute between the insured credit union and the Board over the amount of its deposit or the premium charge due to the fund if the credit union deposits security satisfactory to the Board for payment of its deposit or the premium charge upon final determination of the issue.”
 
-1989—Subsec. (a)(3). Pub. L. 101–73, §911(f), inserted provisions relating to penalties and agency hearings and struck out at end: “Every insured credit union which willfully fails to make or publish any such report within ten days shall be subject to a penalty of not more than $100 for each day of such failure, recoverable by the Board for its use.”
+1989—Subsec. (a)(3). Pub. L. 101–73, §911(f), inserted provisions relating to penalties and agency hearings and struck out at end: “Every insured credit unionwhich willfully fails to make or publish any such report within ten days shall be subject to a penalty of not more than $100 for each day of such failure, recoverable by the Board for its use.”
 
 Subsec. (a)(6). Pub. L. 101–73, §919, added par. (6).
 
 Subsec. (a)(7). Pub. L. 101–73, §931(b), added par. (7).
 
-1984—Subsec. (b). Pub. L. 98–369, §2802, in amending subsec. (b) generally, revised existing provisions into numbered pars. (1) to (3) and in par. (1) substituted “For each insurance year, each insured credit union which became insured prior to the beginning of that year shall file with the Board, at such time as the Board prescribes, a certified statement showing the total amount of insured shares in the credit union at the close of the preceding insurance year and both the amount of its deposit or adjustment thereof and the amount of the premium charge for insurance due to the fund for that year, both as computed under subsection (c) of this section.” for “On or before January 31 of each insurance year, each insured credit union which became insured prior to the beginning of that year shall file with the Board a certified statement showing the total amount of the member accounts in the creditunion at the close of the preceding insurance year and the amount of the premium charge for insurance due to the fund for that year, as computed under subsection (c) of this section.”
+1984—Subsec. (b). Pub. L. 98–369, §2802, in amending subsec. (b) generally, revised existing provisions into numbered pars. (1) to (3) and in par. (1) substituted “For each insurance year, each insured credit union which became insured prior to the beginning of that year shall file with the Board, at such time as the Board prescribes, a certified statement showing the total amount of insured shares in the credit union at the close of the preceding insurance year and both the amount of its deposit or adjustment thereof and the amount of the premium charge for insurance due to the fund for that year, both as computed under subsection (c) of this section.” for “On or before January 31 of each insurance year, each insured credit union which became insured prior to the beginning of that year shall file with the Board a certified statement showing the total amount of the member accounts in the credit union at the close of the preceding insurance year and the amount of the premium charge for insurance due to the fund for that year, as computed under subsection (c) of this section.”
 
 Subsec. (c)(1). Pub. L. 98–369, §2803(6), added par. (1). Former par. (1) redesignated (2).
 

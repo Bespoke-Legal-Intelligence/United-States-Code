@@ -46,7 +46,7 @@ As used in this chapter, unless the context otherwise requires—
 
 &emsp;(21) “supplemental transaction” means any transaction set forth in a proposal under section 745 of this title under which the Corporation or a subsidiary thereof would (A) acquire rail properties not designated for transfer or conveyance to it under the final system plan, (B) convey rail properties to a profitable railroad, a subsidiary of the Corporation or, other than as designated in the final system plan, to the National Railroad Passenger Corporation or to a State or a local or regional transportation authority, or to any other responsible person for use in providing rail service, or (C) enter into contractual or other arrangements with any person for the joint use of rail properties or the coordination or separation of rail operations or services.
 
-(Pub. L. 93–236, title I, §102, Jan. 2, 1974, 87 Stat. 986; Pub. L. 94–210, title VI, §§601(f), (g), 603(c), 607(t), 610(a), Feb. 5, 1976, 90 Stat. 86, 88, 98, 100; Pub. L. 94–248, §1, Mar. 25, 1976, 90 Stat. 286; Pub. L. 94–555, title II, §211(a), Oct. 19, 1976, 90 Stat. 2624; Pub. L. 96–448, title V, §508(b), title VI, §601(b), Oct. 14, 1980, 94 Stat. 1957, 1958; Pub. L. 97–35, title XI, §1135(b), Aug. 13, 1981, 95 Stat. 646; Pub. L. 99–509, title IV, §4033(b)(1), Oct. 21, 1986, 100 Stat. 1908; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 104–88, title III, §327(1), Dec. 29, 1995, 109 Stat. 951.)
+(Pub. L. 93–236, title I, §102, Jan. 2, 1974, 87 Stat. 986; Pub. L. 94–210, title VI, §§601(f), (g), 603(c), 607(t), 610(a), Feb. 5, 1976, 90 Stat. 86, 88, 98, 100; Pub. L. 94–248, §1, Mar. 25, 1976, 90 Stat. 286; Pub. L. 94–555, title II, §211(a), Oct. 19, 1976, 90 Stat. 2624; Pub. L. 96–448, title V, §508(b), title VI, §601(b), Oct. 14, 1980, 94 Stat. 1957, 1958; Pub. L. 97–35, title XI, §1135(b), Aug. 13, 1981, 95 Stat. 646; Pub. L. 99–509, title IV, §4033(b)(1), Oct. 21, 1986,100 Stat. 1908; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 104–88, title III, §327(1), Dec. 29, 1995, 109 Stat. 951.)
 
 #### References in Text
 
@@ -122,9 +122,9 @@ See section 1341 of this title.
 
 #### Applicability of National Environmental Policy Act
 
-Application of National Environmental Policy Act to actions of Commission not affected by title VI of Pub. L. 94–210, see section 619 of Pub. L. 94–210, set out as a note under section 791 of this title.
+Application of National Environmental Policy Act to actions of Commission not affected by title VI of Pub.L. 94–210, see section 619 of Pub. L. 94–210, set out as a note under section 791 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 741, 1112 of this title; title 19 section 2373.
+This section is referred to in sections 741, 1112 of this title.
 

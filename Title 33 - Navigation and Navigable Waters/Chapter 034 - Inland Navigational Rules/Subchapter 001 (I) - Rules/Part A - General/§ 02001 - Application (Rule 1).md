@@ -20,7 +20,7 @@ Traffic separation schemes may be established for the purpose of these Rules. Ve
 
 #### (e) Alternative compliance
 
-Whenever the Secretary determines that a vessel or class of vessels of special constructionor purpose cannot comply fully with the provisions of any of these Rules with respect to the number, position, range, or arc of visibility of lights or shapes, as well as to the disposition and characteristics of sound-signaling appliances, the vessel shall comply with such other provisions in regard to the number, position, range, or arc of visibility of lights or shapes, as well as to the disposition and characteristics of sound-signaling appliances, as the Secretary shall have determined to be the closest possible compliance with these Rules. The Secretary may issue a certificate of alternative compliance for a vessel or class of vessels specifying the closest possible compliance with these Rules. The Secretary of the Navy shall make these determinations and issue certificates of alternative compliance for vessels of the Navy.
+Whenever the Secretary determines that a vessel or class of vessels of special construction or purpose cannot comply fully with the provisions of any of these Rules with respect to the number, position, range, or arc of visibility of lights or shapes, as well as to the disposition and characteristics of sound-signaling appliances, the vessel shall comply with such other provisions in regard to the number, position, range, or arc of visibility of lights or shapes, as well as to the disposition and characteristics of sound-signaling appliances, as the Secretary shall have determined to be the closest possible compliance with these Rules. The Secretary may issue a certificate of alternative compliance for a vessel or class of vessels specifying the closest possible compliance with these Rules. The Secretary of the Navy shall make these determinations and issue certificates of alternative compliance for vessels of the Navy.
 
 #### (f) Acceptance of certificates of alternative compliance from contracting parties to International Regulations
 
@@ -50,7 +50,7 @@ Section 7 of Pub. L. 96–591 provided that: “Sections 2, 4, 6(1), and 8(a) \[
 
 #### Short Title
 
-Section 1 of Pub. L. 96–591 provided: “That this Act \[enacting this chapter, amending sections 151, 1604, 1605, and 1608 of this title, repealing sections 154 to 159, 171 to 183, 191, 192, 201 to 213, 221, 222, 231, 232, 241 to 244, 251 to 262, 271, 272, 281 to 295, 301 to 303, 311 to 323, 331, 341 to 356, 360, and 360a of this title and sections 526b, 526c, and 526d of former Title 46, Shipping, and enacting provisions set out as notes under this section\] may be cited as the ‘Inland Navigational Rules Act of 1980’.”
+Section 1 of Pub. L. 96–591 provided: “That this Act \[enacting this chapter, amending sections 151, 1604, 1605, and 1608 of this title, repealing sections 154 to 159,171 to 183, 191, 192, 201 to 213, 221, 222, 231, 232, 241 to 244, 251 to 262, 271, 272, 281 to 295, 301 to 303, 311 to 323, 331, 341 to 356, 360, and 360a of this title and sections 526b, 526c, and 526d of former Title 46, Shipping, and enacting provisions set out as notes under this section\] may be cited as the ‘Inland Navigational Rules Act of 1980’.”
 
 #### Repeal of Predecessor Provisions; Savings Provisions
 

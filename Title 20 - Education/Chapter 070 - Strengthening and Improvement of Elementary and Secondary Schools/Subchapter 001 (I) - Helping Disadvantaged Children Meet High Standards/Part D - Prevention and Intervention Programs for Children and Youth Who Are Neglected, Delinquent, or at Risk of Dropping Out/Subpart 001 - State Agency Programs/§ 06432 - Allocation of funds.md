@@ -16,7 +16,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) in community day programs for neglected or delinquent children; and
 
-&emsp;&emsp;(B) 40 percent of the average per-pupil expenditure in the State, except that theamount determined under this paragraph shall not be less than 32 percent, or more than 48 percent, of the average per-pupil expenditure in the United States.
+&emsp;&emsp;(B) 40 percent of the average per-pupil expenditure in the State, except that the amount determined under this paragraph shall not be less than 32 percent, or more than 48 percent, of the average per-pupil expenditure in the United States.
 
 #### (2) Special rule
 

@@ -2,7 +2,7 @@
 
 #### (a) Required disclosures by creditor
 
-Before opening any account under an open end consumer credit plan, the creditor shall discloseto the person to whom credit is to be extended each of the following items, to the extent applicable:
+Before opening any account under an open end consumer credit plan, the creditor shall disclose to the person to whom credit is to be extended each of the following items, to the extent applicable:
 
 &emsp;(1) The conditions under which a finance charge may be imposed, including the time period (if any) within which any credit extended may be repaid without incurring a finance charge, except that the creditor may, at his election and without disclosure, impose no such finance charge if payment is received after the termination of such time period. If no such time period is provided, the creditor shall disclose such fact.
 
@@ -206,7 +206,7 @@ The creditor of any account under an open end consumer credit plan shall transmi
 
 #### (C) Applications and solicitations by other means
 
-&emsp;&emsp;Any application to open a charge card account, and any solicitation to open such an account without requiring an application,that is made available to the public or contained in catalogs, magazines, or other publications shall contain—
+&emsp;&emsp;Any application to open a charge card account, and any solicitation to open such an account without requiring an application, that is made available to the public or contained in catalogs, magazines, or other publications shall contain—
 
 &emsp;&emsp;&emsp;(i) the information—
 
@@ -244,7 +244,7 @@ The creditor of any account under an open end consumer credit plan shall transmi
 
 #### (5) Regulatory authority of the Board
 
-&emsp;The Board may, by regulation, require the disclosure of information in addition to that otherwise required by this subsection or subsection (d) of this section, and modify any disclosure of information required by this subsection or subsection (d) of this section, in any application to open a credit card account for any person under an open end consumer credit plan or any application to open a charge card account for any person, or a solicitation to open any such account without requiring an application, if the Board determines that such action is necessary to carry out the purposes of, or prevent evasions of, any paragraph of this subsection.
+&emsp;The Board may, by regulation, require the disclosure of information in addition to that otherwise required by this subsection or subsection (d) of this section, and modify any disclosure of information required by this subsection or subsection (d) of this section, in any application to open a credit card account for any person under an open end consumer credit plan or any application to open a charge card account for any person, or a solicitation to open any such account without requiring anapplication, if the Board determines that such action is necessary to carry out the purposes of, or prevent evasions of, any paragraph of this subsection.
 
 #### (d) Disclosure prior to renewal
 
@@ -358,7 +358,7 @@ For effective date of amendments by Pub. L. 100–709, see Regulations; Effectiv
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–221 effective on expiration of two years and six months after Mar. 31, 1980, with allregulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as a note under section 1602 of this title.
+Amendment by Pub. L. 96–221 effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as a note under section 1602 of this title.
 
 #### Effective Date of 1974 Amendment
 

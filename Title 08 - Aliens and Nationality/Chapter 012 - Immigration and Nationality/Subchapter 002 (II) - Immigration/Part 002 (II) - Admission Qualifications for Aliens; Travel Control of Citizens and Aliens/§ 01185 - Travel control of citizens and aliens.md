@@ -66,7 +66,7 @@ Section 204(b) of Pub. L. 103–416 provided that: “The amendment made by subs
 
 #### Delegation of Authority Under Sections 1182(f) and 1185(a)(1) of This Title
 
-Authority of President under subsec. (a)(1) of this section to maintain custody and conduct screening of any undocumented person seeking to enter the UnitedStates who is encountered in a vessel interdicted on the high seas through Dec. 31, 2000, delegated to Attorney General by Memorandum of President of the United States, Sept. 24, 1999, 64 F.R. 55809, set out as a note under section 1182 of this title.
+Authority of President under subsec. (a)(1) of this section to maintain custody and conduct screening of any undocumented person seeking to enter the United States who is encountered in a vessel interdicted on the high seas through Dec. 31, 2000, delegated to Attorney General by Memorandum of President of the United States, Sept. 24, 1999, 64 F.R. 55809, set out as a note under section 1182 of this title.
 
 #### Ex. Ord. No. 12172. Delegation of Authority of President to Secretary of State and Attorney General Respecting Entry of Iranian Aliens Into the United States
 
@@ -79,22 +79,6 @@ Section 1–101. Delegation of Authority. The Secretary of State and the Attorne
 Section 1–102. Effective Date. This order is effective immediately.
 
 Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Cross References
-
-Counterfeiting and forgery, see section 471 et seq. of Title 18, Crimes and Criminal Procedure.
-
-Definition of alien, entry, passport, person, State, and United States, see section 1101 of this title.
-
-False personation, see section 911 et seq. of Title 18, Crimes and Criminal Procedure.
-
-Fines, penalties and forfeitures, see section 2461 et seq. of Title 28, Judiciary and Judicial Procedure.
-
-Fraud and false statements, see section 1001 et seq. of Title 18, Crimes and Criminal Procedure.
-
-Passports and visas, see section 1541 et seq. of Title 18.
-
-Repeal of statutes as affecting existing liabilities, see section 109 of Title 1, General Provisions.
 
 #### Section Referred to in Other Sections
 

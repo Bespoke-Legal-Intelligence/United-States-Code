@@ -6,7 +6,7 @@ Section 752, acts July 17, 1916, ch. 245, title I, §10(b), 39 Stat. 369; Apr. 2
 
 Section 753, acts July 17, 1916, ch. 245, title I, §10(c), 39 Stat. 369; June 30, 1945, ch. 204, §2, 59 Stat. 266; Aug. 18, 1959, Pub. L. 86–168, title I, §102(b), 73 Stat. 385, provided for form for appraisal reports.
 
-Section 754, acts July 17, 1916, ch. 245, title I, §10(d), 39 Stat. 369; Aug. 18, 1959, Pub. L. 86–168, title I, §102(b),73 Stat. 385, dealt with conflicting interests of farm credit or land bank appraisers, committeemen, and association directors. See section 2254 of this title.
+Section 754, acts July 17, 1916, ch. 245, title I, §10(d), 39 Stat. 369; Aug. 18, 1959, Pub. L. 86–168, title I, §102(b), 73 Stat. 385, dealt with conflicting interests of farm credit or land bank appraisers, committeemen, and association directors. See section 2254 of this title.
 
 Section 755, acts July 17, 1916, ch. 245, title I, §10(e), 39 Stat. 369; Ex. Ord. No. 6084, Mar. 27, 1933; Aug. 18, 1959, Pub. L. 86–168, title I, §102(b), 73 Stat. 385, provided for appraisal standards studies by Federal land banks. See section 2033 of this title.
 

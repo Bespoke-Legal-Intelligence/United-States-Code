@@ -14,7 +14,7 @@ The Secretary is directed to promptly issue patents to all persons who have made
 
 (2)(A)(i) Subject to valid existing rights, an unpatented mining claim or location, or portion thereof, under the general mining laws that is situated outside the boundaries of a conservation system unit (as such term is defined in the Alaska National Interest Lands Conservation Act) and within the exterior boundaries of lands validly selected by a Village or Regional Corporation pursuant to section 1611 of this title or section 1613(h) of this title and that lapses, is abandoned, relinquished, or terminated, declared null and void, or otherwise expires, after August 31, 1971, because of failure to comply with requirements of the general mining laws (including the mining laws of the State of Alaska), is deemed to be null and void for the purposes of this paragraph. The Secretary shall promptly determine the validity of such claims or locations within conservation system units.
 
-(ii) Subject to valid existing rights and to subparagraph (B), the lands outside a conservation system unit included in a mining claim or location described in clause (i) shall—
+(ii) Subject to valid existing rights and to subparagraph (B), the lands outside a conservationsystem unit included in a mining claim or location described in clause (i) shall—
 
 &emsp;(I) be considered part of the lands selected pursuant to sections 1611 of this title and 1613(h) of this title by the Village or Regional Corporation described in clause (i); and
 
@@ -74,7 +74,11 @@ Any patents to lands under this chapter which are located within the boundaries 
 
 Notwithstanding any provision of this chapter, no Village or Regional Corporation shall select lands which are within two miles from the boundary, as it exists on December 18, 1971, of any home rule or first class city (excluding boroughs) or which are within six miles from the boundary of Ketchikan.
 
-(Pub. L. 92–203, §22, Dec. 18, 1971, 85 Stat. 713; Pub. L. 94–204, §17, Jan. 2, 1976, 89 Stat. 1156; Pub. L. 96–487, title XIV, §1410, Dec. 2, 1980, 94 Stat. 2496; Pub. L. 102–415, §14, Oct. 14, 1992, 106 Stat. 2121; Pub. L. 104–42, title I, §102, Nov. 2, 1995, 109 Stat. 353; Pub. L. 105–333, §7, Oct. 31, 1998, 112 Stat. 3133.)
+#### (m) Licenses held by Alaska Native regional corporations
+
+An Alaska Native regional corporation organized pursuant to this chapter, or an affiliate thereof, that holds a Federal Communications Commission license in the personal communications service as of the date of enactment of this section <sup>2</sup> and has either paid for such license in full or has complied with the payment schedules for such license shall be permitted to transfer or assign without penalty such license to any transferee or assignee. No economic penalties shall apply to any transfer or assignment authorized under this section. Any amounts owed to the United States for the initial grant of such licenses shall become immediately due and payable upon the consummation of any such transfer or assignment. Any application for such a transfer or assignment shall be deemed granted if not denied by the Commission within 90 days of the date on which it was initially filed. Any provision of law or regulation to the contrary is hereby amended.
+
+(Pub. L. 92–203, §22, Dec. 18, 1971, 85 Stat. 713; Pub. L. 94–204, §17, Jan. 2, 1976, 89 Stat. 1156; Pub. L. 96–487, title XIV, §1410, Dec. 2, 1980, 94 Stat. 2496; Pub. L. 102–415, §14, Oct. 14, 1992, 106 Stat. 2121; Pub. L. 104–42, title I, §102, Nov. 2, 1995, 109 Stat. 353; Pub. L. 105–333, §7, Oct. 31, 1998, 112 Stat. 3133; Pub. L. 106–259, title VIII, §8149, Aug. 9, 2000, 114 Stat. 706.)
 
 #### References in Text
 
@@ -88,7 +92,11 @@ The Alaska National Interest Lands Conservation Act, referred to in subsec. (c)(
 
 Section 6(i) of the Alaska Statehood Act, referred to in subsec. (f), is section 6(i) of Pub. L. 85–508, which is set out as a note preceding section 21 of Title 48, Territories and Insular Possessions.
 
+The date of enactment of this section, referred to in subsec. (m), probably means the date of enactment of Pub. L. 106–259, which enacted subsec. (m) of this section and was approved Aug. 9, 2000.
+
 #### Amendments
+
+2000—Subsec. (m). Pub. L. 106–259, which directed the addition of subsec. (m) at the end of section 1621 of Public Law 92–204, was executed by adding subsec. (m) at the end of this section, which is section 22 of Pub. L. 92–203, to reflect the probable intent of Congress.
 
 1998—Subsec. (c)(3). Pub. L. 105–333 substituted “Regional Corporation” for “regional corporation” wherever appearing and inserted at end “The provisions of this section shall apply to Haida Corporation and the Haida Traditional Use Sites, which shall be treated as a Regional Corporation for the purposes of this paragraph, except that any revenues remitted to Haida Corporation under this section shall not be subject to distribution pursuant to section 1606(i) of this title.”
 
@@ -96,7 +104,7 @@ Section 6(i) of the Alaska Statehood Act, referred to in subsec. (f), is section
 
 1992—Subsec. (c). Pub. L. 102–415 designated existing provisions as par. (1) and added par. (2).
 
-1980—Subsec. (j). Pub. L. 96–487 substituted provision authorizing Secretary to convey lands by interim conveyance when the lands have not been surveyed, uponsurvey to issue a patent and redescribe the lands if necessary, and, where lands selected and conveyed, or to be conveyed, to a Village Corporation are insufficient to fulfill the Corporation's entitlement, to withdraw twice the amount of unfulfilled entitlement and provide the Village Corporation 90 days from receipt of notice to select from the lands withdrawn the land it desires to fulfill its entitlement for provision authorizing the Secretary, in any area of Alaska for which protraction diagrams do not exist, which does not conform to the United States Land Survey System, or which has not been adequately surveyed to permit selection, to take such actions as are necessary to accomplish the purposes of this chapter.
+1980—Subsec. (j). Pub. L. 96–487 substituted provision authorizing Secretary to convey lands by interim conveyance when the lands have not been surveyed, upon survey to issue a patent and redescribe the lands if necessary, and, where lands selected and conveyed, or to be conveyed, to a Village Corporation are insufficient to fulfill the Corporation's entitlement, to withdraw twice the amount of unfulfilled entitlement and provide the Village Corporation 90 days from receipt of notice to select from the lands withdrawn the land it desires to fulfill its entitlement for provision authorizing the Secretary, in any area of Alaska for which protraction diagrams do not exist, which does not conform to the United States Land Survey System, or which has not been adequately surveyed to permit selection, to take such actions as are necessary to accomplish the purposes of this chapter.
 
 1976—Subsec. (f). Pub. L. 94–204 authorized State of Alaska to make direct exchanges of land between it and Native Corporations, authorized State to transfer mineral interests, notwithstanding section 6(i) of the Alaska Statehood Act, to Federal agencies in such exchanges, and authorized exchanges on a basis other than equal value, by agreement of the parties or if deemed in the public interest.
 
@@ -105,4 +113,6 @@ Section 6(i) of the Alaska Statehood Act, referred to in subsec. (f), is section
 This section is referred to in sections 1610, 1620, 1621, 1633, 1634, 1636, 1641 of this title.
 
 <i><sup>1</sup></i><i> So in original. See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

@@ -12,7 +12,7 @@
 
 &emsp;(2) any special efforts by the licensee to produce or support programming broadcast by another station in the licensee's marketplace which is specifically designed to serve the educational and informational needs of children.
 
-(Pub. L. 101–437, title I, §103, Oct. 18, 1990, 104 Stat. 997; Pub. L. 102–356, §15, Aug. 26, 1992, 106 Stat. 954; Pub. L. 103–414, title III, §303(c), Oct. 25, 1994, 108 Stat. 4296.)
+(Pub. L. 101–437, title I, §103, Oct. 17, 1990, 104 Stat. 997; Pub. L. 102–356, §15, Aug. 26, 1992, 106 Stat. 954; Pub. L. 103–414, title III, §303(c), Oct. 25, 1994, 108 Stat. 4296.)
 
 #### Codification
 

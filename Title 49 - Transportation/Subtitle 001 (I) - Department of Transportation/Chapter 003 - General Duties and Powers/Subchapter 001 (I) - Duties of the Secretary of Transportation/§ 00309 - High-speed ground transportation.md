@@ -98,7 +98,7 @@
 
 &emsp;(E) an examination of the significant unresolved technical issues surrounding the design, engineering, construction, and operation of high-speed ground transportation systems, including the potential for the use of existing rights-of-way;
 
-&emsp;(F) an examination of the effects on air quality, energy consumption, noise, land use, health, and safety as a result of the decreases in traffic volume on other modes of transportation that are expected to result from the full-scale development of high-speed ground transportation systems; and
+&emsp;(F) an examination of the effects on air quality, energy consumption, noise, land use, health, and safety as a result of the decreases in traffic volume on other modes of transportation that are expected to result from thefull-scale development of high-speed ground transportation systems; and
 
 &emsp;(G) any other technical assessments the Secretary considers important for carrying out this section.
 
@@ -128,7 +128,7 @@ Section 7 of the Rail Safety Improvement Act of 1988, referred to in subsec. (d)
 
 #### Effective Date
 
-Section effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available afterSept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as an Effective Date of 1991 Amendment note under section 104 of Title 23, Highways.
+Section effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available after Sept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as an Effective Date of 1991 Amendment note under section 104 of Title 23, Highways.
 
 #### National Magnetic Levitation Prototype Development Program
 
@@ -170,7 +170,7 @@ Prototype.—
 
 &emsp;“(A)
 
-Selection of design.—Within 6 months of receiving the detailed designs developed under paragraph (3), the Secretary and the Assistant Secretary shall, based on the recommendations of the selection committee described in this subparagraph, select 1 design for development into a full-scale prototype, unless the Secretary and the Assistant Secretary determine jointly that no design shall be selected, based on an assessment of technical feasibility and projected cost of construction and operation of the prototype. A selection committee of 8 members, consisting of—
+Selection of design.—Within 6 months of receiving the detailed designs developed under paragraph (3), the Secretary and the Assistant Secretary shall, based on the recommendations of the selection committee described in this subparagraph, select 1 design for development into a full-scale prototype, unless the Secretary and the Assistant Secretary determine jointly that no design shall be selected, based on an assessment of technical feasibility andprojected cost of construction and operation of the prototype. A selection committee of 8 members, consisting of—
 
 &emsp;&emsp;“(i) 1 member to be appointed by the Secretary,
 

@@ -2,7 +2,7 @@
 
 #### (a) Collection of information
 
-Within nine months after October 11, 1996, the Secretary shall, after consultation with the GulfCouncil and South Atlantic Council, conclude the collection of information in the program to assess the impact on fishery resources of incidental harvest by the shrimp trawl fishery within the authority of such Councils. Within the same time period, the Secretary shall make available to the public aggregated summaries of information collected prior to June 30, 1994 under such program.
+Within nine months after October 11, 1996, the Secretary shall, after consultation with the Gulf Council and South Atlantic Council, conclude the collection of information in the program to assess the impact on fishery resources of incidental harvest by the shrimp trawl fishery within the authority of such Councils. Within the same time period, the Secretary shall make available to the public aggregated summaries of information collected prior to June 30, 1994 under such program.
 
 #### (b) Identification of stock
 
@@ -14,7 +14,7 @@ For stocks of fish identified pursuant to subsection (b) of this section, with p
 
 &emsp;(1) a program to collect and evaluate information on the nature and extent (including the spatial and temporal distribution) of incidental mortality of such stocks as a direct result of shrimp trawl fishing activities;
 
-&emsp;(2) an assessment of the status and condition of such stocks, including collection of information which would allow the estimation of life history parameters with sufficient accuracy and precision to support sound scientific evaluation of the effects of various management alternatives on the status of such stocks; and
+&emsp;(2) an assessment of the status and condition of such stocks, including collection of information which would allow the estimation oflife history parameters with sufficient accuracy and precision to support sound scientific evaluation of the effects of various management alternatives on the status of such stocks; and
 
 &emsp;(3) a program of information collection and evaluation for such stocks on the magnitude and distribution of fishing mortality and fishing effort by sources of fishing mortality other than shrimp trawl fishing activity.
 

@@ -12,12 +12,6 @@ In the case of articles of merchandise made in whole or in part of gold or of an
 
 Section 3 of Pub. L. 94–450 provided that: “The amendments made by section 2 of this Act \[amending this section\] shall take effect five years after the date of enactment of this Act \[Oct. 1, 1976\] and shall not apply with respect to any article of merchandise which is sold by any manufacturer or importer before the effective date of such amendments.”
 
-#### Cross References
-
-Article of merchandise defined, see section 299 of this title.
-
-Penalty for violating provisions of this section, see section 298 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 294, 298, 299, 300 of this title.

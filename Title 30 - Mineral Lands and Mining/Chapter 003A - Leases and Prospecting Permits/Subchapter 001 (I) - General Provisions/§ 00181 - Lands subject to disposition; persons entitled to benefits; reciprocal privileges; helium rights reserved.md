@@ -1,6 +1,6 @@
 ### §181. Lands subject to disposition; persons entitled to benefits; reciprocal privileges; helium rights reserved
 
-Deposits of coal, phosphate, sodium, potassium, oil, oil shale, gilsonite (including all vein-type solid hydrocarbons), or gas, and lands containing such deposits owned by the United States, including those in national forests, but excluding lands acquired under the Appalachian Forest Act, approved March 1, 1911 (36 Stat. 961), and those in incorporated cities, towns, and villages and in national parks and monuments, those acquired under other Acts subsequent to February 25, 1920, and lands within the naval petroleum and oil-shale reserves, except as hereinafter provided, shall be subject to disposition in the form and manner provided by this chapter to citizens of the United States, or to associations of such citizens, or to any corporation organized under the laws of the United States, or of any State or Territory thereof, or in the case of coal, oil, oil shale, or gas, to municipalities. Citizens of another country, the laws, customs, or regulations of which deny similar or like privileges to citizens or corporations of this country, shall not by stock ownership, stock holding, or stock control, own any interest in any lease acquired under the provisions of this chapter.
+Deposits of coal, phosphate, sodium, potassium, oil, oil shale, gilsonite (including all vein-type solid hydrocarbons), or gas, and lands containing such deposits owned by the United States, including those in national forests, but excluding lands acquired under the Appalachian Forest Act, approved March 1, 1911 (36 Stat. 961), and those in incorporated cities, towns, and villages and in national parks and monuments, those acquired under other Acts subsequent to February 25, 1920, and lands within the naval petroleum and oil-shale reserves, except as hereinafter provided, shall be subject to disposition in the form and manner provided by this chapter to citizens of the United States, or to associations of such citizens, or to any corporation organizedunder the laws of the United States, or of any State or Territory thereof, or in the case of coal, oil, oil shale, or gas, to municipalities. Citizens of another country, the laws, customs, or regulations of which deny similar or like privileges to citizens or corporations of this country, shall not by stock ownership, stock holding, or stock control, own any interest in any lease acquired under the provisions of this chapter.
 
 The term “oil” shall embrace all nongaseous hydrocarbon substances other than those substances leasable as coal, oil shale, or gilsonite (including all vein-type solid hydrocarbons).
 
@@ -25,6 +25,12 @@ The Appalachian Forest Act, referred to in the first undesignated paragraph, is 
 1946—Act Aug. 8, 1946, reenacted: existing par., less three provisos, as first sentence of first par., inserting “potassium” after “sodium”, which was also included in the 1927 amendment, and substituting provision for disposition of deposits “in incorporated cities, towns, and villages, and in national parks and monuments, those acquired under other Acts subsequent to February 25, 1920, and lands within the naval petroleum and oil-shale reserves” for such disposition “in national parks, and in lands withdrawn or reserved for military or naval uses or purposes” and phrase “associations of such citizens” for “any association of such persons”; former third proviso as second sentence of first par.; former first proviso, as second par., inserting reservation of ownership provision and striking out “permitted” before “leased or otherwise granted”; and former second proviso as proviso in second par.
 
 1927—Act Feb. 7, 1927, included deposits of potassium.
+
+#### Short Title of 2000 Amendments
+
+Pub. L. 106–463, §1, Nov. 7, 2000, 114 Stat. 2010, provided that: “This Act \[amending section 184 of this title and enacting provisions set out as a note under section 184 of this title\] may be cited as the ‘Coal Market Competition Act of 2000’.”
+
+Pub. L. 106–393, title V, §501, Oct. 30, 2000, 114 Stat. 1624, provided that: “This title \[amending section 191 of this title and enacting provisions set out as a note under section 191 of this title\] may be cited as the ‘Mineral Revenue Payments Clarification Act of 2000’.”
 
 #### Short Title of 1987 Amendment
 
@@ -52,7 +58,7 @@ This chapter is also popularly known as the “Mineral Leasing Act of 1920” an
 
 Provisions of Federal Land Policy and Management Act of 1976, Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, not to be construed as permitting any person to place, or allow to be placed, spent oil shale, etc., on any Federal land other than land leased for the recovery of shale oil under the act of Feb. 25, 1920, section 181 et seq. of this title, see section 701(d) of Pub. L. 94–579, set out as a note under section 1701 of Title 43, Public Lands.
 
-Section 15 of act Aug. 8, 1946, provided: “No repeal or amendment made by this Act \[enacting sections 187a, 187b, 226c–226e, and 236b, amending this section and sections 184, 188, 193, 209, 225, 226, and 285, and repealing sections 223a, 226a, and 226b of this title\] shall affect any right acquired under the law as it existed prior to such repeal or amendment, and such right shall be governed by the law in effect at the time of its acquisition; but any person holding a lease on the effective date of this Act \[Aug. 8, 1946\] may, by filing a statement to that effect, elect to have his lease governed by the applicable provisions of this Act instead of by the law in effect prior thereto.”
+Section 15 of act Aug. 8, 1946, provided: “No repeal or amendment made by this Act \[enacting sections 187a, 187b, 226c–226e, and 236b, amending this section and sections 184, 188, 193, 209, 225, 226, and 285, and repealingsections 223a, 226a, and 226b of this title\] shall affect any right acquired under the law as it existed prior to such repeal or amendment, and such right shall be governed by the law in effect at the time of its acquisition; but any person holding a lease on the effective date of this Act \[Aug. 8, 1946\] may, by filing a statement to that effect, elect to have his lease governed by the applicable provisions of this Act instead of by the law in effect prior thereto.”
 
 #### Construction and Applicability of 1981 Amendments
 
@@ -71,16 +77,6 @@ Selection of lands by Alaska from lands made available by Statehood provisions i
 #### Outer Continental Shelf; Mineral Leases
 
 Grant by the Secretary of the Interior of mineral leases on submerged lands of outer Continental Shelf, see section 1331 et seq., of Title 43, Public Lands.
-
-#### Cross References
-
-Conveyances to occupants of unpatented mining claims, reservation of mineral rights, see section 707 of this title.
-
-Helium reserve lands, development of other mineral resources, see section 529 of this title.
-
-Laws applicable, see sections 275 and 285 of this title.
-
-Naval petroleum reserves, jurisdiction and control, see section 7421 of Title 10, Armed Forces.
 
 #### Section Referred to in Other Sections
 

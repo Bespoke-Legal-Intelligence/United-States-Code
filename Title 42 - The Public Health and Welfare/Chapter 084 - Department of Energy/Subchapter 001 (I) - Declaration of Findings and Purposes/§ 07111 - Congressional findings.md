@@ -10,7 +10,7 @@ The Congress of the United States finds that—
 
 &emsp;(4) responsibility for energy policy, regulation, and research, development and demonstration is fragmented in many departments and agencies and thus does not allow for the comprehensive, centralized focus necessary for effective coordination of energy supply and conservation programs; and
 
-&emsp;(5) formulation and implementation of a national energy program require the integration of major Federal energy functions into a single department in the executive branch.
+&emsp;(5) formulation and implementation of a national energy program require the integrationof major Federal energy functions into a single department in the executive branch.
 
 (Pub. L. 95–91, title I, §101, Aug. 4, 1977, 91 Stat. 567.)
 

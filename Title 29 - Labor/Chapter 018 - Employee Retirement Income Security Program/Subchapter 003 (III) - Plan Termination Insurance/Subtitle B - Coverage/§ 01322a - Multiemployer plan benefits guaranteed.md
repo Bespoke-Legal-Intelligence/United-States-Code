@@ -28,19 +28,17 @@ The corporation shall guarantee, in accordance with this section, the payment of
 
 #### (c) Determinations respecting amount of guarantee
 
-(1) Except as provided in subsection (g) of this section, the monthly benefit of a participant or a beneficiary which is guaranteed under this section by the corporation with respect to a plan is the product of—
+(1) Except as provided in subsection (g) of this section, the monthly benefit of a participant ora beneficiary which is guaranteed under this section by the corporation with respect to a plan is the product of—
 
-&emsp;(A) 100 percent of the accrual rate up to $5, plus 75 percent of the lesser of—
+&emsp;(A) 100 percent of the accrual rate up to $11, plus 75 percent of the lesser of—
 
-&emsp;&emsp;(i) $15, or
+&emsp;&emsp;(i) $33, or
 
-&emsp;&emsp;(ii) the accrual rate, if any, in excess of $5, and
+&emsp;&emsp;(ii) the accrual rate, if any, in excess of $11, and
 
 &emsp;(B) the number of the participant's years of credited service.
 
-(2) Except as provided in paragraph (6) of this subsection and in subsection (g) of this section, in applying paragraph (1) with respect to a plan described in paragraph (5)(A), the term “65 percent” shall be substituted in paragraph (1)(A) for the term “75 percent”.
-
-(3) For purposes of this section, the accrual rate is—
+(2) For purposes of this section, the accrual rate is—
 
 &emsp;(A) the monthly benefit of the participant or beneficiary which is described in subsection (a) of this section and which is eligible for the corporation's guarantee under subsection (b) of this section, except that such benefit shall be—
 
@@ -50,7 +48,7 @@ The corporation shall guarantee, in accordance with this section, the payment of
 
 &emsp;(B) the participant's years of credited service.
 
-(4) For purposes of this subsection—
+(3) For purposes of this subsection—
 
 &emsp;(A) a year of credited service is a year in which the participant completed—
 
@@ -61,44 +59,6 @@ The corporation shall guarantee, in accordance with this section, the payment of
 &emsp;(B) any year for which the participant is credited for purposes of benefit accrual with a fraction of the equivalent of a full year of participation shall be counted as such a fraction of a year of credited service; and
 
 &emsp;(C) years of credited service shall be determined by including service which may otherwise be disregarded by the plan under section 411(a)(3)(E) of title 26.
-
-(5)(A) A plan is described in this subparagraph if—
-
-&emsp;(i) the first plan year—
-
-&emsp;&emsp;(I) in which the plan is insolvent under section 1426(b) or 1441(d)(2) of this title, and
-
-&emsp;&emsp;(II) for which benefits are required to be suspended under section 1426 of this title, or reduced or suspended under section 1441 of this title, until they do not exceed the levels provided in this subsection,
-
-> &emsp;begins before the year 2000; and
-
-&emsp;(ii) the plan sponsor has not established to the satisfaction of the corporation that, during the period of 10 consecutive plan years (or of such lesser number of plan years for which the plan was maintained) immediately preceding the first plan year to which the minimum funding standards of section 412 of title 26 apply, the total amount of the contributions required under the plan for each plan year was at least equal to the sum of—
-
-&emsp;&emsp;(I) the normal cost for that plan year, and
-
-&emsp;&emsp;(II) the interest for the plan year (determined under the plan) on the unfunded past service liability for that plan year, determined as of the beginning of that plan year.
-
-(B) A plan shall not be considered to be described in subparagraph (A) if—
-
-&emsp;(i) it is established to the satisfaction of the corporation that—
-
-&emsp;&emsp;(I) the total amount of the contributions received under the plan for the plan years for which the actuarial valuations (performed during the period described in subparagraph (A)(ii)) were performed was at least equal to the sum described in subparagraph (A)(ii); or
-
-&emsp;&emsp;(II) the rates of contribution to the plan under the collective bargaining agreements negotiated when the findings of such valuations were available were reasonably expected to provide such contributions;
-
-&emsp;(ii) the number of actuarial valuations performed during the period described in subparagraph (A)(ii) is—
-
-&emsp;&emsp;(I) at least 2, in any case in which such period consists of more than 6 plan years, and
-
-&emsp;&emsp;(II) at least 1, in any case in which such period consists of 6 or fewer plan years; and
-
-&emsp;(iii) if the proposition described in clause (i)(I) is to be established, the plan sponsor certifies that to the best of the plan sponsor's knowledge there is no information available which establishes that the total amount of the contributions received under the plan for any plan year during the period described in subparagraph (A)(ii) for which no valuation was performed is less than the sum described in subparagraph (A)(ii).
-
-(6) Notwithstanding paragraph (2), in the case of a plan described in paragraph (5)(A), if for any period of 3 consecutive plan years beginning with the first plan year to which the minimum funding standards of section 412 of title 26 apply, the value of the assets of the plan for each such plan year is an amount equal to at least 8 times the benefit payments for such plan year—
-
-&emsp;(A) paragraph (2) shall not apply to such plan; and
-
-&emsp;(B) the benefit of a participant or beneficiary guaranteed by the corporation with respect to the plan shall be an amount determined under paragraph (1).
 
 #### (d) Amount of guarantee of reduced benefit
 
@@ -144,7 +104,7 @@ The corporation shall not guarantee benefits under a multiemployer plan which, u
 
 (B) The revised schedules referred to in subparagraph (A)(i) or subparagraph (A)(ii) shall go into effect as approved by the enactment of a joint resolution.
 
-(4)(A) The succeeding subparagraphs of this paragraph are enacted by the Congress as an exercise of the rulemaking power of the Senate and the House of Representatives, respectively, and as such they shall be deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in that House in the case of joint resolutions (as defined in subparagraph (B)). Such subparagraphs shall supersede other rules only to the extent that they are inconsistent therewith. They are enacted with full recognition of theconstitutional right of either House to change the rules (so far as relating to the procedure of that House) at any time, in the same manner, and to the same extent as in the case of any rule of that House.
+(4)(A) The succeeding subparagraphs of this paragraph are enacted by the Congress as an exercise of the rulemaking power of the Senate and the House of Representatives, respectively, and as such they shall be deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in that House in the case of joint resolutions (as defined in subparagraph (B)). Such subparagraphs shall supersede other rules only to the extent that they are inconsistent therewith. They are enacted with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedure of that House) at any time, in the same manner, and to the same extent as in the case of any rule of that House.
 
 (B) For purposes of this subsection, “joint resolution” means only a joint resolution, the matter after the resolving clause of which is as follows: “The proposed schedule described in        transmitted to the Congress by the Pension Benefit Guaranty Corporation on        is hereby approved.”, the first blank space therein being filled with “section 4022A(f)(2)(A)(ii) of the Employee Retirement Income Security Act of 1974”, “section 4022A(f)(2)(A)(iii) of the Employee Retirement Income Security Act of 1974”, “section 4022A(f)(3)(A)(i) of the Employee Retirement Income Security Act of 1974”, or “section 4022A(f)(3)(A)(ii) of the Employee Retirement Income Security Act of 1974” (whichever is applicable), and the second blank space therein being filled with the date on which the corporation's message proposing the revision was submitted.
 
@@ -196,7 +156,7 @@ The corporation shall not guarantee benefits under a multiemployer plan which, u
 
 &emsp;(B) in which it is determined by the corporation that substantially all the employers have withdrawn from the plan pursuant to an agreement or arrangement to withdraw.
 
-(Pub. L. 93–406, title IV, §4022A, as added Pub. L. 93–364, title I, §102, Sept. 26, 1980, 94 Stat. 1210; amended Pub. L. 99–272, title XI, §11005(c)(4)–(12), Apr. 7, 1986, 100 Stat. 242; Pub. L. 101–239, title VII, §§7891(a)(1), 7893(b), 7894(g)(3)(C)(i), Dec. 19, 1989, 103 Stat. 2445, 2447, 2451.)
+(Pub. L. 93–406, title IV, §4022A, as added Pub. L. 93–364, title I, §102, Sept. 26, 1980, 94 Stat. 1210; amended Pub. L. 99–272, title XI, §11005(c)(4)–(12), Apr. 7, 1986, 100 Stat. 242; Pub. L. 101–239, title VII, §§7891(a)(1), 7893(b), 7894(g)(3)(C)(i), Dec. 19, 1989, 103 Stat. 2445, 2447, 2451; Pub. L. 106–554, §1(a)(6) \[title IX, §951(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–586.)
 
 #### References in Text
 
@@ -205,6 +165,12 @@ Section 4022A(f)(2)(A)(ii), (iii), (3)(A)(i), and (ii) of the Employee Retiremen
 Section 4022A(g)(4) of the Employee Retirement Income Security Act of 1974, referred to in subsec. (g)(4)(B), is classified to subsec. (g)(4) of this section.
 
 #### Amendments
+
+2000—Subsec. (c)(1)(A). Pub. L. 106–554, §1(a)(6) \[title IX, §951(a)(1)\], substituted “$11” for “$5” in two places.
+
+Subsec. (c)(1)(A)(i). Pub. L. 106–554, §1(a)(6) \[title IX, §951(a)(2)\], substituted “$33” for “$15”.
+
+Subsec. (c)(2) to (6). Pub. L. 106–554, §1(a)(6) \[title IX, §951(a)(3)\], redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former pars. (2), (5), and (6). Prior to amendment, par. (2) modified the amount of benefits guaranteed under par. (1) with respect to plans described in par. (5)(A), par. (5) described certain plans for which the first plan year in which the plan was insolvent and in which benefits were required to be suspended or reduced to a certain level began before the year 2000, and par. (6) provided that par. (2) did not apply to a plan described in par. (5)(A) if the value of the assets of the plan was at least a specified amount for a specified period of time.
 
 1989—Subsec. (a)(1). Pub. L. 101–239, §7894(g)(3)(C)(i), substituted “this subchapter” for “section 1321 of this title”.
 
@@ -233,6 +199,10 @@ Subsec. (g)(4)(D). Pub. L. 99–272, §11005(c)(12), substituted “joint” for
 #### Change of Name
 
 Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
+
+#### Effective Date of 2000 Amendment
+
+Pub. L. 106–554, §1(a)(6) \[title IX, §951(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–586, provided that: “The amendments made by this section \[amending this section\] shall apply to any multiemployer plan that has not received financial assistance (within the meaning of section 4261 of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1431\]) within the 1-year period ending on the date of the enactment of this Act \[Dec. 21, 2000\].”
 
 #### Effective Date of 1989 Amendment
 

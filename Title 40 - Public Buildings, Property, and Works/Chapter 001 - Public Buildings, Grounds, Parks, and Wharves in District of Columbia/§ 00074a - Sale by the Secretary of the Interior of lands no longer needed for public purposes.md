@@ -4,10 +4,6 @@ The Secretary of the Interior, with the approval of the National Capital Plannin
 
 (Aug. 5, 1939, ch. 449, §4, 53 Stat. 1211; June 6, 1924, ch. 279, §9, as added July 19, 1952, ch. 949, §1, 66 Stat. 790.)
 
-#### Codification
-
-Section is also set out in D.C. Code, §9–404.
-
 #### Repeals
 
 Section 7 of act Aug. 5, 1939, repealed all acts and parts of acts inconsistent or in conflict therewith.
@@ -16,7 +12,7 @@ Section 7 of act Aug. 5, 1939, repealed all acts and parts of acts inconsistent 
 
 “National Capital Planning Commission” substituted in text for “National Capital Park and Planning Commission”, on authority of act June 6, 1924, ch. 270, §9, as added July 19, 1952, which transferred functions of latter to former. See section 71h of this title and Transfer of Functions note thereunder.
 
-Functions of all other officers of Department of the Interior and functions of all agencies and employees of that Department, with two exceptions, transferred to Secretary of the Interior, with power vested in him toauthorize their performance or performance of any of his functions by any of those officers, agencies, and employees, by Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees. National Park Service, referred to in text, is an agency of Department of the Interior.
+Functions of all other officers of Department of the Interior and functions of all agencies and employees of that Department, with two exceptions, transferred to Secretary of the Interior, with power vested in him to authorize their performance or performance of any of his functions by any of those officers, agencies, and employees, by Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendixto Title 5, Government Organization and Employees. National Park Service, referred to in text, is an agency of Department of the Interior.
 
 #### Section Referred to in Other Sections
 

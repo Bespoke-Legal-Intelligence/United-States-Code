@@ -2,7 +2,7 @@
 
 #### (a) Authorization of appropriations for pilot program
 
-There are authorized to be appropriated such sums as may be necessary to establish and carry out a 3-year Federal-State pilot program to provide medical and social services for certain handicapped individuals in accordance with this section.
+There are authorized to be appropriated such sums as may be necessary to establish and carryout a 3-year Federal-State pilot program to provide medical and social services for certain handicapped individuals in accordance with this section.
 
 #### (b) State allotments
 
@@ -18,7 +18,7 @@ There are authorized to be appropriated such sums as may be necessary to establi
 
 (3) At the beginning of each fiscal year in which the pilot program under this section is in effect, each State that does not intend to use the allotment to which it is entitled for such year (or any allotment which was made to it for a prior fiscal year), or that does not intend to use the full amount of any such allotment, shall certify to the Commissioner of Social Security the amount of such allotment which it does not intend to use, and the State's allotment for the fiscal year (or years) involved shall thereupon be reduced by the amount so certified.
 
-(4) The portion of the total amount available for allotment for any particular fiscal year under paragraph (1) which is not allotted to States for that year by reason of paragraph (3) (plus the amount of any reductions made at the beginning of such year in the allotments of States for prior fiscal years under paragraph (3)) shall be reallocated in such manner as the Commissioner of Social Security may determine to be appropriate to States which need, and will use, additional assistance in providing services to severely handicapped individuals in that particular year under their approved plans. Any amount reallocated to a State under this paragraph for use in a particular fiscal year shall be treated for purposes of this section as increasingsuch State's allotment for that year by an equivalent amount.
+(4) The portion of the total amount available for allotment for any particular fiscal year under paragraph (1) which is not allotted to States for that year by reason of paragraph (3) (plus the amount of any reductions made at the beginning of such year in the allotments of States for prior fiscal years under paragraph (3)) shall be reallocated in such manner as the Commissioner of Social Security may determine to be appropriate to States which need, and will use, additional assistance in providing services to severely handicapped individuals in that particular year under their approved plans. Any amount reallocated to a State under this paragraph for use in a particular fiscal year shall be treated for purposes of this section as increasing such State's allotment for that year by an equivalent amount.
 
 #### (c) Requisite features of State plans
 
@@ -40,7 +40,7 @@ In order to participate in the pilot program and be eligible to receive payments
 
 #### (d) Payments to States; computation of payments
 
-(1) From its allotment under subsection (b) of this section for any fiscal year (and any amounts remaining available from allotments made to it for prior fiscal years), the Commissioner of Social Security shall from time to time pay to each State which has a plan approved under subsection (c) of this section an amount equal to 75 per centum of the total sum expended under such plan (including the cost of administration of such plan) in providing medical and social services to severely handicapped individuals who are eligible for such services under the plan.
+(1) From its allotment under subsection (b) of this section for any fiscal year (and any amounts remaining available from allotments made to it for prior fiscal years), the Commissioner of Social Security shall from time totime pay to each State which has a plan approved under subsection (c) of this section an amount equal to 75 per centum of the total sum expended under such plan (including the cost of administration of such plan) in providing medical and social services to severely handicapped individuals who are eligible for such services under the plan.
 
 (2) The method of computing and making payments under this section shall be as follows:
 

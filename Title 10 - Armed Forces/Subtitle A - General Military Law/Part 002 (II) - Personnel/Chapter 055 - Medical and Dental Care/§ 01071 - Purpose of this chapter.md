@@ -44,7 +44,115 @@ Pub. L. 100–180, div. A, title VII, §701, Dec. 4, 1987, 101 Stat. 1108, provi
 
 #### Short Title of 1966 Amendment
 
-Section 1 of Pub. L. 89–614 provided: “That this Act \[enacting sections 1086 and 1087 of this title, amending this section and sections 1072 to 1074, 1076 to 1079, 1082, and 1084 of this title, and enacting provisions set out as a note under this section\] may be cited as the ‘Military Medical Benefits Amendments of 1966’.”
+Section 1 of Pub. L. 89–614 provided: “That this Act \[enacting sections 1086 and 1087 of this title, amendingthis section and sections 1072 to 1074, 1076 to 1079, 1082, and 1084 of this title, and enacting provisions set out as a note under this section\] may be cited as the ‘Military Medical Benefits Amendments of 1966’.”
+
+#### Health Care Management Demonstration Program
+
+Pub. L. 106–398, §1 \[\[div. A\], title VII, §733\], Oct. 30, 2000, 114 Stat. 1654, 1654A–191, provided that:
+
+“(a)
+
+Establishment.—The Secretary of Defense shall carry out a demonstration program on health care management to explore opportunities for improving the planning, programming, budgeting systems, and management of the Department of Defense health care system.
+
+“(b)
+
+Test Models.—Under the demonstration program, the Secretary shall test the use of the following planning and management models:
+
+&emsp;“(1) A health care simulation model for studying alternative delivery policies, processes, organizations, and technologies.
+
+&emsp;“(2) A health care simulation model for studying long term disease management.
+
+“(c)
+
+Demonstration Sites.—The Secretary shall test each model separately at one or more sites.
+
+“(d)
+
+Period for Program.—The demonstration program shall begin not later than 180 days after the date of the enactment of this Act \[Oct. 30, 2000\] and shall terminate on December 31, 2001.
+
+“(e)
+
+Reports.—The Secretary of Defense shall submit a report on the demonstration program to the Committees on Armed Services of the Senate and the House of Representatives not later than March 15, 2002. The report shall include the Secretary's assessment of the value of incorporating the use of the tested planning and management models throughout the planning, programming, budgeting systems, and management of the Department of Defense health care system.
+
+“(f)
+
+Funding.—Of the amount authorized to be appropriated under section 301(22) \[114 Stat. 1654A–52\], $6,000,000 shall be available for the demonstration program under this section.”
+
+#### Processes for Patient Safety in Military and Veterans Health Care Systems
+
+Pub. L. 106–398, §1 \[\[div. A\], title VII, §742\], Oct. 30, 2000, 114 Stat. 1654, 1654A–192, provided that:
+
+“(a)
+
+Error Tracking Process.—The Secretary of Defense shall implement a centralized process for reporting, compilation, and analysis of errors in the provision of health care under the defense health program that endanger patients beyond the normal risks associated with the care and treatment of such patients. To the extent practicable, that process shall emulate the system established by the Secretary of Veterans Affairs for reporting, compilation, and analysis of errors in the provision of health care under the Department of Veterans Affairs health care system that endanger patients beyond such risks.
+
+“(b)
+
+Sharing of Information.—The Secretary of Defense and the Secretary of Veterans Affairs—
+
+&emsp;“(1) shall share information regarding the designs of systems or protocols established to reduce errors in the provision of health care described in subsection (a); and
+
+&emsp;“(2) shall develop such protocols as the Secretaries consider necessary for the establishment and administration of effective processes for the reporting, compilation, and analysis of such errors.”
+
+#### Cooperation in Developing Pharmaceutical Identification Technology
+
+Pub. L. 106–398, §1 \[\[div. A\], title VII, §743\], Oct. 30, 2000, 114 Stat. 1654, 1654A–192, provided that: “The Secretary of Defense and the Secretary of Veterans Affairs shall cooperate in developing systems for the use of bar codes for the identification of pharmaceuticals in the health care programs of the Department of Defense and the Department of Veterans Affairs. In any case in which a common pharmaceutical is used in such programs, the bar codes for those pharmaceuticals shall, to the maximum extent practicable, be identical.”
+
+#### Patient Care Reporting and Management System
+
+Pub. L. 106–398, §1 \[\[div. A\], title VII, §754\], Oct. 30, 2000, 114 Stat. 1654, 1654A–196, provided that:
+
+“(a)
+
+Establishment.—The Secretary of Defense shall establish a patient care error reporting and management system.
+
+“(b)
+
+Purposes of System.—The purposes of the system are as follows:
+
+&emsp;“(1) To study the occurrences of errors in the patient care provided under chapter 55 of title 10, United States Code.
+
+&emsp;“(2) To identify the systemic factors that are associated with such occurrences.
+
+&emsp;“(3) To provide for action to be taken to correct the identified systemic factors.
+
+“(c)
+
+Requirements for System.—The patient care error reporting and management system shall include the following:
+
+&emsp;“(1) A hospital-level patient safety center, within the quality assurance department of each health care organization of the Department of Defense, to collect, assess, and report on the nature and frequency of errors related to patient care.
+
+&emsp;“(2) For each health care organization of the Department of Defense and for the entire Defense health program, patient safety standards that are necessary for the development of a full understanding of patient safety issues in each such organization and the entire program, including the nature and types of errors and the systemic causes of the errors.
+
+&emsp;“(3) Establishment of a Department of Defense Patient Safety Center within the Armed Forces Institute of Pathology, which shall have the following missions:
+
+&emsp;&emsp;“(A) To analyze information on patient care errors that is submitted to the Center by each military health care organization.
+
+&emsp;&emsp;“(B) To develop action plans for addressing patterns of patient care errors.
+
+&emsp;&emsp;“(C) To execute those action plans to mitigate and control errors in patient care with a goal of ensuring that the health care organizations of the Department of Defense provide highly reliable patient care with virtually no error.
+
+&emsp;&emsp;“(D) To provide, through the Assistant Secretary of Defense for Health Affairs, to the Agency for Healthcare Research and Quality of the Department of Health and Human Services any reports that the Assistant Secretary determines appropriate.
+
+&emsp;&emsp;“(E) To review and integrate processes for reducing errors associated with patient care and for enhancing patient safety.
+
+&emsp;&emsp;“(F) To contract with a qualified and objective external organization to manage the national patient safety database of the Department of Defense.
+
+“(d)
+
+MedTeams Program.—The Secretary shall expand the health care team coordination program to integrate that program into all Department of Defense health care operations. In carrying out this subsection, the Secretary shall take the following actions:
+
+&emsp;“(1) Establish not less than two Centers of Excellence for the development, validation, proliferation, and sustainment of the health care team coordination program, one of which shall support all fixed military health care organizations, the other of which shall support all combat casualty care organizations.
+
+&emsp;“(2) Deploy the program to all fixed and combat casualty care organizations of each of the Armed Forces, at the rate of not less than 10 organizations in each fiscal year.
+
+&emsp;“(3) Expand the scope of the health care team coordination program from a focus on emergency department care to a coverage that includes care in all major medical specialties, at the rate of not less than one specialty in each fiscal year.
+
+&emsp;“(4) Continue research and development investments to improve communication, coordination, and team work in the provision of health care.
+
+“(e)
+
+Consultation.—The Secretary shall consult with the other administering Secretaries (as defined in section 1072(3) of title 10, United States Code) in carrying out this section.”
 
 #### Confidentiality of Communications With Professionals Providing Therapeutic or Related Services Regarding Sexual or Domestic Abuse
 
@@ -86,7 +194,7 @@ Report by Secretary of Defense.—Not later than January 21, 2000, the Secretary
 
 #### Health Care Quality Information and Technology Enhancement
 
-Pub. L. 106–65, div. A, title VII, §723, Oct. 5, 1999, 113 Stat. 695, provided that:
+Pub. L. 106–65, div. A, title VII, §723, Oct. 5, 1999, 113 Stat. 695, as amended by Pub. L. 106–398, §1 \[\[div. A\], title VII, §753(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–195, provided that:
 
 “(a)
 
@@ -156,7 +264,15 @@ Medical Informatics Advisory Committee.—(1) The Secretary of Defense shall est
 
 “(4) The Assistant Secretary of Defense for Health Affairs shall consult with the Committee on the issues described in paragraph (3).
 
-“(5) The Secretary of Defense shall submit to Congress an annual report on the activities of the Committee and on the coordination of development, deployment, and maintenance of health care informatics systems within the Federal Government, and between the Federal Government and the private sector.
+“(5) The Secretary of Defense shall submit to Congress an annual report on medical informatics. The report shall include a discussion of the following matters:
+
+&emsp;“(A) The activities of the Committee.
+
+&emsp;“(B) The coordination of development, deployment, and maintenance of health care informatics systems within the Federal Government, and between the Federal Government and the private sector.
+
+&emsp;“(C) The progress or growth occurring in medical informatics.
+
+&emsp;“(D) How the TRICARE program and the Department of Veterans Affairs health care system can use the advancement of knowledge in medical informatics to raise the standards of health care and treatment and the expectations for improving health care and treatment.
 
 “(6) Members of the Committee shall not be paid by reason of their service on the Committee.
 
@@ -242,7 +358,7 @@ Review of Law and Policies.—(1) The Secretary of Defense and the Secretary of 
 
 &emsp;“(D) The types and frequency of medical services furnished by the Department of Defense and the Department of Veterans Affairs through cooperative arrangements to each category of beneficiary (including active-duty members, retirees, dependents, veterans in the health-care eligibility categories referred to as Category A and Category C, and persons authorized to receive medical care under section 1713 of title 38, United States Code) of the other department.
 
-&emsp;“(E) The extent to which health care facilities of the Department of Defense and Department of Veterans Affairs have sufficient capacity, or could jointlyor individually create sufficient capacity, to provide services to beneficiaries of the other department without diminution of access or services to their primary beneficiaries.
+&emsp;“(E) The extent to which health care facilities of the Department of Defense and Department of Veterans Affairs have sufficient capacity, or could jointly or individually create sufficient capacity, to provide services to beneficiaries of the other department without diminution of access or services to their primary beneficiaries.
 
 &emsp;“(F) The extent to which the recruitment of scarce medical specialists and allied health personnel by the Department of Defense and the Department of Veterans Affairs could be enhanced through cooperative arrangements for providing health care services.
 
@@ -352,7 +468,7 @@ Definition.—For purposes of this section, the term ‘administering Secretarie
 
 #### Comprehensive Study of Military Medical Care System
 
-Pub. L. 102–190, div. A, title VII, §733, Dec. 5, 1991, 105 Stat. 1408, as amended by Pub. L. 102–484, div. A, titleVII, §723, Oct. 23, 1992, 106 Stat. 2440, directed Secretary of Defense to conduct a comprehensive study of the military medical care system, not later than Dec. 15, 1992, to submit to congressional defense committees a detailed accounting on progress of the study, including preliminary results of the study, and not later than Dec. 15, 1993, submit to congressional defense committees a final report on the study.
+Pub. L. 102–190, div. A, title VII, §733, Dec. 5, 1991, 105 Stat. 1408, as amended by Pub. L. 102–484, div. A, title VII, §723, Oct. 23, 1992, 106 Stat. 2440, directed Secretary of Defense to conduct a comprehensive study of the military medical care system, not later than Dec. 15, 1992, to submit to congressional defense committees a detailed accounting on progress of the study, including preliminary results of the study, and not later than Dec. 15, 1993, submit to congressional defense committees a final report on the study.
 
 #### Identification and Treatment of Drug and Alcohol Dependent Persons in the Armed Forces
 

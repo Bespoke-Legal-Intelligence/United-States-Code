@@ -2,9 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [331\.](%C2%A7%2000331%20-%20Allotments%20on%20reservations%3B%20irrigable%20and%20nonirrigable%20lands.md) | Allotments on reservations; irrigable and nonirrigable lands. |
-| [332\.](%C2%A7%2000332%20-%20Selection%20of%20allotments.md) | Selection of allotments. |
-| [333\.](%C2%A7%2000333%20-%20Making%20of%20allotments%20by%20agents.md) | Making of allotments by agents. |
+| 331 to 333. Repealed. |  |
 | [334\.](%C2%A7%2000334%20-%20Allotments%20to%20Indians%20not%20residing%20on%20reservations.md) | Allotments to Indians not residing on reservations. |
 | [335\.](%C2%A7%2000335%20-%20Extension%20of%20provisions%20as%20to%20allotments.md) | Extension of provisions as to allotments. |
 | [336\.](%C2%A7%2000336%20-%20Allotments%20to%20Indians%20making%20settlement.md) | Allotments to Indians making settlement. |
@@ -43,9 +41,8 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 00331 - Allotments on reservations; irrigable and nonirrigable lands](%C2%A7%2000331%20-%20Allotments%20on%20reservations%3B%20irrigable%20and%20nonirrigable%20lands.md)
-- [&sect; 00332 - Selection of allotments](%C2%A7%2000332%20-%20Selection%20of%20allotments.md)
-- [&sect; 00333 - Making of allotments by agents](%C2%A7%2000333%20-%20Making%20of%20allotments%20by%20agents.md)
+- [&sect; 00331 - Repealed. Pub. L. 106&#8211;462, title I, &sect;106(a)(1), Nov. 7, 2000, 114 Stat. 2007](%C2%A7%2000331%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93462%2C%20title%20I%2C%20%C2%A7106%28a%29%281%29%2C%20Nov.%207%2C%202000%2C%20114%20Stat.%202007.md)
+- [&sect; 00332, 333 - Repealed. Pub. L. 106&#8211;462, title I, &sect;106(a)(1), Nov. 7, 2000, 114 Stat. 2007](%C2%A7%2000332%2C%20333%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93462%2C%20title%20I%2C%20%C2%A7106%28a%29%281%29%2C%20Nov.%207%2C%202000%2C%20114%20Stat.%202007.md)
 - [&sect; 00334 - Allotments to Indians not residing on reservations](%C2%A7%2000334%20-%20Allotments%20to%20Indians%20not%20residing%20on%20reservations.md)
 - [&sect; 00335 - Extension of provisions as to allotments](%C2%A7%2000335%20-%20Extension%20of%20provisions%20as%20to%20allotments.md)
 - [&sect; 00336 - Allotments to Indians making settlement](%C2%A7%2000336%20-%20Allotments%20to%20Indians%20making%20settlement.md)

@@ -20,7 +20,11 @@ Congress urges the United States Sentencing Commission to revise the relevant se
 
 #### References in Text
 
-The International Emergency Economic Powers Act, referred to in subsec. (b)(3), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generallyto chapter 35 (§1701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of this title and Tables.
+The International Emergency Economic Powers Act, referred to in subsec. (b)(3), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of this title and Tables.
+
+#### Codification
+
+Section is comprised of section 1423 of Pub. L. 104–201 which also enacted provisions listed in a table of provisions for review, promulgation, or amendment of Federal sentencing guidelines relating to specific offenses set out under section 994 of Title 28, Judiciary and Judicial Procedure.
 
 #### Amendments
 

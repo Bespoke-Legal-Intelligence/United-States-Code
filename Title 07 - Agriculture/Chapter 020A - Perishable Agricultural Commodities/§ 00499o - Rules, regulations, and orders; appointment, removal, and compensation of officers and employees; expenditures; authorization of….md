@@ -12,7 +12,3 @@ Section was formerly classified to section 565 of this title.
 
 1950—Act June 15, 1950, provided for payment of administrative costs out of fund and any supplements thereto as well as by Congressional appropriations.
 
-#### Cross References
-
-Delegation of regulatory functions of Secretary of Agriculture, see section 450c of this title.
-

@@ -2,7 +2,7 @@
 
 #### (a) Preparation of Indian roll
 
-The Secretary of the Interior shall prepare a roll of persons of Indian blood who apply for inclusion thereon and (i) whose names or the name of a lineal or collateral relative appears on any of the approved rolls heretofore prepared pursuant to this subchapter and the amendments thereto or (ii) who can establish, to the satisfaction of the Secretary, lineal or collateral relationship to an Indian who resided in California on June 1, 1852, and (iii) who were born on or before and were living on September 21, 1968.
+The Secretary of the Interior shall prepare a roll of persons of Indian blood who apply for inclusion thereon and (i) whose names or the nameof a lineal or collateral relative appears on any of the approved rolls heretofore prepared pursuant to this subchapter and the amendments thereto or (ii) who can establish, to the satisfaction of the Secretary, lineal or collateral relationship to an Indian who resided in California on June 1, 1852, and (iii) who were born on or before and were living on September 21, 1968.
 
 #### (b) Contents
 

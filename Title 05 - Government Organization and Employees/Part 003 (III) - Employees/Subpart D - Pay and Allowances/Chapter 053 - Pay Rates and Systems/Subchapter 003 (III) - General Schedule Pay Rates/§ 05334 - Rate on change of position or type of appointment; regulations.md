@@ -30,7 +30,7 @@
 
 &emsp;(B) his existing rate of basic pay, if that rate is the higher.
 
-(c) An employee in the legislative branch who is paid by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives, and who has completed two or more years of service as such an employee, and a Member of the Senate or House of Representatives who has completed two or more years of service as such a Member, may, on appointmentto a position to which this subchapter applies, have his initial rate of pay fixed—
+(c) An employee in the legislative branch who is paid by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives, and who has completed two or more years of service as such an employee, and a Member of the Senate or House of Representatives who has completed two or more years of service as such a Member, may, on appointment to a position to which this subchapter applies, have his initial rate of pay fixed—
 
 &emsp;(1) at the minimum rate of the appropriate grade; or
 
@@ -114,7 +114,7 @@ Subsec. (b). Pub. L. 95–454, §801(a)(3)(F), substituted “subchapter VI of t
 
 Subsec. (c). Pub. L. 95–454, §503(f)(1), in par. (2) inserted reference to an employee appointed to a position covered by the merit pay system established under section 5402 of this title.
 
-Subsecs. (d) to (f). Pub. L. 95–454, §801(a)(2), (3)(G), redesignated subsecs. (e) and (f) as (d) and (e), respectively. Former subsec. (d), which related to regulationsgoverning the retention of the rate of basic pay of an employee and his position covered by this subchapter and chapter 51 of this title, was struck out.
+Subsecs. (d) to (f). Pub. L. 95–454, §801(a)(2), (3)(G), redesignated subsecs. (e) and (f) as (d) and (e), respectively. Former subsec. (d), which related to regulations governing the retention of the rate of basic pay of an employee and his position covered by this subchapter and chapter 51 of this title, was struck out.
 
 Pub. L. 95–454, §503(f)(2), added a new subsec. (f).
 

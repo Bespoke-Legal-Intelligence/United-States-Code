@@ -6,6 +6,8 @@ Level II of the Executive Schedule applies to the following positions, for which
 
 &emsp;Deputy Secretary of State.
 
+&emsp;Deputy Secretary of State for Management and Resources.
+
 &emsp;Administrator, Agency for International Development.
 
 &emsp;Administrator of the National Aeronautics and Space Administration.
@@ -19,8 +21,6 @@ Level II of the Executive Schedule applies to the following positions, for which
 &emsp;Chairman, Nuclear Regulatory Commission.
 
 &emsp;Chairman, Council of Economic Advisers.
-
-&emsp;Chairman, Board of Governors of the Federal Reserve System.
 
 &emsp;Director of the Office of Science and Technology.
 
@@ -74,7 +74,9 @@ Level II of the Executive Schedule applies to the following positions, for which
 
 &emsp;Deputy Director of National Drug Control Policy.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 460; Pub. L. 89–670, §10(d)(2), Oct. 15, 1966, 80 Stat. 948; Pub. L. 90–83, §1(13), Sept. 11, 1967, 81 Stat. 198; Pub. L. 90–407, §15(a)(1), July 18, 1968, 82 Stat. 366; Pub. L. 91–644, title I, §8(b), Jan. 2, 1971, 84 Stat. 1888; Pub. L. 92–255, title II, §212(a), Mar. 21, 1972, 86 Stat. 69; Pub. L. 92–302, §2(a), May 18, 1972, 86 Stat. 149; Pub. L. 92–352, title I, §104(1), July 13, 1972, 86 Stat. 490; Pub. L. 92–596, §6, Oct. 27, 1972, 86 Stat. 1318; Pub. L. 93–438, title III, §310(1), Oct. 11, 1974, 88 Stat. 1252; Pub. L. 93–496, §16(c), Oct. 28, 1974, 88 Stat. 1533; Pub. L. 94–82, title II, §202(b)(2), Aug. 9, 1975, 89 Stat. 419; Pub. L. 94–237, §4(c)(6), Mar. 19, 1976, 90 Stat. 244; Pub. L. 94–561, §1(a), Oct. 19, 1976, 90 Stat. 2643; Pub. L. 95–91, title VII, §710(d), Aug. 4, 1977, 91 Stat. 609; Pub. L. 95–140, §3(d)(1), Oct. 21, 1977, 91 Stat. 1173; Pub. L. 95–454, title II, §201(b)(1), Oct. 13, 1978, 92 Stat. 1121; Pub. L. 96–54, §2(a)(25)(A), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–465, title II, §2302, Oct. 17, 1980, 94 Stat. 2164; Pub. L. 97–449, §§3(1), 7(b), Jan. 12, 1983, 96 Stat. 2441, 2444; Pub. L. 98–80, §2(a)(1), Aug. 23, 1983, 97 Stat. 485; Pub. L. 98–216, §3(a)(1), Feb. 14, 1984, 98 Stat. 6; Pub. L. 99–348, title V, §501(d)(1), July 1, 1986, 100 Stat. 708; Pub. L. 99–619, §2(a)(2), Nov. 6, 1986, 100 Stat. 3491; Pub. L. 100–204, title I, §178(a)(1), Dec. 22, 1987, 101 Stat. 1362; Pub. L. 100–527, §13(d), Oct. 25, 1988, 102 Stat. 2643; Pub. L. 100–679, §11(b), Nov. 17, 1988, 102 Stat. 4070; Pub. L. 101–73, title V, §501(c), Aug. 9, 1989, 103 Stat. 394; Pub. L. 101–509, title V, §529 \[title I, §112(b)\], Nov. 5, 1990, 104 Stat. 1427, 1454; Pub. L. 101–576, title II,§207(a), Nov. 15, 1990, 104 Stat. 2846; Pub. L. 102–233, title III, §315(b), Dec. 12, 1991, 105 Stat. 1772; Pub. L. 102–550, title XIII, §1351(a), Oct. 28, 1992, 106 Stat. 3969; Pub. L. 103–160, div. A, title IX, §904(e)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–296, title I, §108(e)(2), Aug. 15, 1994, 108 Stat. 1486; Pub. L. 103–325, title I, §104(i), Sept. 23, 1994, 108 Stat. 2169; Pub. L. 105–277, div. C, title VII, §713(a)(2), div. G, subdiv. A, title XII, §1224(1), title XIII, §1332(1), Oct. 21, 1998, 112 Stat. 2681–693, 2681–772, 2681–785; Pub. L. 106–65, div. A, title IX, §911(e), Oct. 5, 1999, 113 Stat. 719.)
+&emsp;Members, Board of Governors of the Federal Reserve System.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 460; Pub. L. 89–670, §10(d)(2), Oct. 15, 1966, 80 Stat. 948; Pub. L. 90–83, §1(13), Sept. 11, 1967, 81 Stat. 198; Pub. L. 90–407, §15(a)(1), July 18, 1968, 82 Stat. 366; Pub. L. 91–644, title I, §8(b), Jan. 2, 1971, 84 Stat. 1888; Pub. L. 92–255, title II, §212(a), Mar. 21, 1972, 86 Stat. 69; Pub. L. 92–302, §2(a), May 18, 1972, 86 Stat. 149; Pub. L. 92–352, title I, §104(1), July 13, 1972, 86 Stat. 490; Pub. L. 92–596, §6, Oct. 27, 1972, 86 Stat. 1318; Pub. L. 93–438, title III, §310(1), Oct. 11, 1974, 88 Stat. 1252; Pub. L. 93–496, §16(c), Oct. 28, 1974, 88 Stat. 1533; Pub. L. 94–82, title II, §202(b)(2), Aug. 9, 1975, 89 Stat. 419; Pub. L. 94–237, §4(c)(6), Mar. 19, 1976, 90 Stat. 244; Pub. L. 94–561, §1(a), Oct. 19, 1976, 90 Stat. 2643; Pub. L. 95–91, title VII, §710(d), Aug. 4, 1977, 91 Stat. 609; Pub. L. 95–140, §3(d)(1), Oct. 21, 1977, 91 Stat. 1173; Pub. L. 95–454, title II, §201(b)(1), Oct. 13, 1978, 92 Stat. 1121; Pub. L. 96–54, §2(a)(25)(A), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–465, title II, §2302, Oct. 17, 1980, 94 Stat. 2164; Pub. L. 97–449, §§3(1), 7(b), Jan. 12, 1983, 96 Stat. 2441, 2444; Pub. L. 98–80, §2(a)(1), Aug. 23, 1983, 97 Stat. 485; Pub. L. 98–216, §3(a)(1), Feb. 14, 1984, 98 Stat. 6; Pub. L. 99–348, title V, §501(d)(1), July 1, 1986, 100 Stat. 708; Pub. L. 99–619, §2(a)(2), Nov. 6, 1986, 100 Stat. 3491; Pub. L. 100–204, title I, §178(a)(1), Dec. 22, 1987, 101 Stat. 1362; Pub. L. 100–527, §13(d), Oct. 25, 1988, 102 Stat. 2643; Pub. L. 100–679, §11(b), Nov. 17, 1988, 102 Stat. 4070; Pub. L. 101–73, title V, §501(c), Aug. 9, 1989, 103 Stat. 394; Pub. L. 101–509, title V, §529 \[title I, §112(b)\], Nov. 5, 1990, 104 Stat. 1427, 1454; Pub. L. 101–576, title II, §207(a), Nov. 15, 1990, 104 Stat. 2846; Pub. L. 102–233, title III, §315(b), Dec. 12, 1991, 105 Stat. 1772; Pub. L. 102–550, title XIII, §1351(a), Oct. 28, 1992, 106 Stat. 3969; Pub. L. 103–160, div. A, title IX, §904(e)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–296, title I, §108(e)(2), Aug. 15, 1994, 108 Stat. 1486; Pub. L. 103–325, title I, §104(i), Sept. 23, 1994, 108 Stat. 2169; Pub. L. 105–277, div. C, title VII, §713(a)(2), div. G, subdiv. A, title XII, §1224(1), title XIII, §1332(1), Oct. 21, 1998, 112 Stat. 2681–693, 2681–772, 2681–785; Pub. L. 106–65, div. A, title IX, §911(e), Oct. 5, 1999, 113 Stat. 719; Pub. L. 106–553, §1(a)(2) \[title IV, §404(b)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–96; Pub. L. 106–569, title X, §1002(a)(2), Dec. 27, 2000, 114 Stat. 3028.)
 
 Historical and Revision Notes<br>1966
 
@@ -101,6 +103,10 @@ Standard changes are made to conform with the definitions applicable and the sty
 The deletion of paragraph (6) of 5 U.S.C. 5313 reflects the abolition of the position of “Administrator of the Housing and Home Finance Agency” by the act of September 9, 1965, Public Law 89–174, sections 5(a), 9(c), 79 Stat. 669, 671.
 
 #### Amendments
+
+2000—Pub. L. 106–569 struck out item relating to Chairman, Board of Governors of the Federal Reserve System and inserted item relating to Members, Board of Governors of the Federal Reserve System.
+
+Pub. L. 106–553 inserted item relating to Deputy Secretary of State for Management and Resources.
 
 1999—Pub. L. 106–65 substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
 
@@ -176,7 +182,11 @@ Par. (21). Pub. L. 92–255 added par. (21) relating to Director of Special Acti
 
 1968—Par. (19). Pub. L. 90–407 added par. (19) relating to Director of National Science Foundation.
 
-1966—Pub. L. 89–670 substituted “Under Secretary of Transportation” for “Administrator of the FederalAviation Agency” in item (7), and inserted item (19) relating to Administrator, Federal Aviation Administration.
+1966—Pub. L. 89–670 substituted “Under Secretary of Transportation” for “Administrator of the Federal Aviation Agency” in item (7), and inserted item (19) relating to Administrator, Federal Aviation Administration.
+
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–569 effective on the first day of the first pay period for the Chairman and Members of the Board of Governors of the Federal Reserve System beginning on or after Dec. 27, 2000, see section 1002(b) of Pub. L. 106–569, set out as a note under section 5312 of this title.
 
 #### Effective Date of 1998 Amendment
 
@@ -248,7 +258,9 @@ Office of Director of Office of Science and Technology abolished and functions v
 
 #### Salary Increases
 
-2000—Salaries of positions at level II increased to $141,300 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 2000, as provided by Ex. Ord. No. 13144, Dec. 21, 1999, 64 F.R. 72237, set out as a note under section 5332 of this title.
+2001—Salaries of positions at level II increased to $145,100 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 2001, as provided by Ex. Ord. No. 13182, Dec. 23, 2000, 65 F.R. 82879, 66 F.R. 10057, set out as a note under section 5332 of this title.
+
+2000—Salaries of positions at level II increased to $141,300 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 2000, as provided by Ex. Ord. No. 13144, Dec. 21, 1999, 64 F.R. 72237.
 
 1999—Salaries of positions at level II continued at $136,700 per annum by Ex. Ord. No. 13106, Dec. 7, 1998, 63 F.R. 68151.
 
@@ -264,7 +276,7 @@ Office of Director of Office of Science and Technology abolished and functions v
 
 1992—Salaries of positions at level II increased to $129,500 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 1992, as provided by Ex. Ord. No. 12786, Dec. 26, 1991, 56 F.R. 67453.
 
-1991—Salaries of positions at level II increased to $125,100 per annum, effective on the first day of the firstpay period beginning on or after Jan. 1, 1991, as provided by Ex. Ord. No. 12736, Dec. 12, 1990, 55 F.R. 51385.
+1991—Salaries of positions at level II increased to $125,100 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 1991, as provided by Ex. Ord. No. 12736, Dec. 12, 1990, 55 F.R. 51385.
 
 1990—Salaries of positions at level II continued at $89,500 per annum, and increased to $96,600 per annum, effective on the first day of the first pay period beginning on or after Jan. 31, 1990, as provided by Ex. Ord. No. 12698, Dec. 23, 1989, 54 F.R. 53473.
 
@@ -320,5 +332,5 @@ Director of Federal Bureau of Investigation, Department of Justice to receive co
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5315, 5377, 5380, 8432 of this title; title 2 sections 136a–2, 362; title 3 sections 105, 106, 108; title 10 section 973; title 18 section207; title 22 section 3961; title 25 section 4042; title 26 section 3121; title 28 section 591; title 31 section 703; title 42 sections 210, 410, 1864, 4346, 5871, 5872, 6612, 7132, 7211, 7291, 7293; title 49 section 106.
+This section is referred to in sections 5315, 5377, 5380, 8432 of this title; title 2 sections 136a–2, 362; title 3 sections 105, 106, 108; title 10 section 973; title 18 section 207; title 22 section 3961; title 25 section 4042; title 26 section 3121; title 28 section 591; title 31 section 703; title 42 sections 210, 410, 1864, 4346, 5871, 5872, 6612, 7132, 7211, 7291, 7293; title 49 section 106.
 

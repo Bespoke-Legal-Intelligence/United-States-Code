@@ -6,13 +6,9 @@ All transfers of the notes, bonds, bills of exchange, or other evidences of debt
 
 #### References in Text
 
-Chapter 4 of title 62 of the Revised Statutes, referred to in text, was in the original “this chapter”, meaning chapter 4 of title 62 of the Revised Statutes, consisting of R.S. §§5220 to 5244, which are classified to sections 43, 91, 93, 93a, 131 to 138, 181 to 186, 192 to 196, and 481 to 485 of this title. See, also, section 709 of Title 18, Crimes and Criminal Procedure. For complete classification of R.S. §§5220 to 5244 to the Code, see Tables.
+Chapter 4 of title 62 of the Revised Statutes, referred to in text, was in the original “this chapter”, meaning chapter 4 of title 62 of the Revised Statutes, consisting of R.S. §§5220 to 5244, which are classified to sections 43, 91, 93, 93a, 181, 182, 192 to 194, 196, and 481 to 485 of this title. See, also, section 709 of Title 18, Crimes and Criminal Procedure. For complete classification of R.S. §§5220 to 5244 to the Code, see Tables.
 
 #### Codification
 
 R.S. §5242 derived from act June 3, 1864, ch. 106, §52, 13 Stat. 115, which was the National Bank Act, and act Mar. 3, 1873, ch. 269, §2, 17 Stat. 603. See section 38 of this title.
-
-#### Federal Rules of Civil Procedure
-
-Execution, see rule 69, Title 28, Appendix, Judiciary and Judicial Procedure.
 

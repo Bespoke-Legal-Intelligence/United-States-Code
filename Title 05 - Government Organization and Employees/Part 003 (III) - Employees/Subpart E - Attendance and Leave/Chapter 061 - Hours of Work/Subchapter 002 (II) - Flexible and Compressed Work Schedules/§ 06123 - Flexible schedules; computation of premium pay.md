@@ -26,7 +26,7 @@
 
 &emsp;(B) in the case of an employee subject to subsection (b) of such section 7453, for which 4 hours of such schedule fall between the hours specified in such subsection.
 
-(Added Pub. L. 97–221, §2(a)(2), July 23, 1982, 96 Stat. 228; amended Pub. L. 102–40, title IV, §403(c)(2), May 7, 1991, 105 Stat. 240; Pub. L. 102–378, §2(44)(D), Oct. 2, 1992, 106 Stat. 1352.)
+(Added Pub. L. 97–221, §2(a)(2), July 23, 1982, 96 Stat. 228; amended Pub. L. 102–40, title IV,§403(c)(2), May 7, 1991, 105 Stat. 240; Pub. L. 102–378, §2(44)(D), Oct. 2, 1992, 106 Stat. 1352.)
 
 #### Amendments
 

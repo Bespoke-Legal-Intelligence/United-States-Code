@@ -82,7 +82,27 @@ Reports Relating to Construction of Certain New Hub Airports.—At least 90 days
 
 &emsp;(3) the availability and cost of providing air transportation to rural areas in such geographic region.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1254; Pub. L. 103–305, title I, §§108, 109, Aug. 23, 1994, 108 Stat. 1573.)
+(f)
+
+Competition Plans.—
+
+&emsp;(1)
+
+Prohibition.—Beginning in fiscal year 2001, no passenger facility fee may be approved for a covered airport under section 40117 and no grant may be made under this subchapter for a covered airport unless the airport has submitted to the Secretary a written competition plan in accordance with this subsection.
+
+&emsp;(2)
+
+Contents.—A competition plan under this subsection shall include information on the availability of airport gates and related facilities, leasing and sub-leasing arrangements, gate-use requirements, patterns of air service, gate-assignment policy, financial constraints, airport controls over air- and ground-side capacity, whether the airport intends to build or acquire gates that would be used as common facilities, and airfare levels (as compiled by the Department of Transportation) compared to other large airports.
+
+&emsp;(3)
+
+Covered airport defined.—In this subsection, the term “covered airport” means a commercial service airport—
+
+&emsp;&emsp;(A) that has more than .25 percent of the total number of passenger boardings each year at all such airports; and
+
+&emsp;&emsp;(B) at which one or two air carriers control more than 50 percent of the passenger boardings.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1254; Pub. L. 103–305, title I, §§108, 109, Aug. 23, 1994, 108 Stat. 1573; Pub. L. 106–181, title I, §155(b), Apr. 5, 2000, 114 Stat. 88.)
 
 Historical and Revision Notes
 
@@ -182,6 +202,8 @@ In subsection (e)(3), the words “adversely affected” are substituted for “
 
 #### Amendments
 
+2000—Subsec. (f). Pub. L. 106–181 added subsec. (f).
+
 1994—Subsecs. (d), (e). Pub. L. 103–305 added subsec. (e), redesignated former subsec. (e) as (d), and struck out former subsec. (d) which read as follows:
 
 “(d)
@@ -189,4 +211,52 @@ In subsection (e)(3), the words “adversely affected” are substituted for “
 General Aviation Airport Project Grant Application Approval.—(1) In this subsection, ‘general aviation airport’ means a public airport that is not an air carrier airport.
 
 “(2) The Secretary may approve an application under this subchapter for an airport development project included in a project grant application involving the construction or extension of a runway at a general aviation airport located on both sides of a boundary line separating 2 counties within a State only if, before the application is submitted to the Secretary, the project is approved by the governing body of each village incorporated under the laws of the State and located entirely within 5 miles of the nearest boundary of the airport.”
+
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
+
+#### Environmental Review of Airport Improvement Projects
+
+Pub. L. 106–181, title III, §310, Apr. 5, 2000, 114 Stat. 128, provided that:
+
+“(a)
+
+Study.—The Secretary \[of Transportation\] shall conduct a study of Federal environmental requirements related to the planning and approval of airport improvement projects.
+
+“(b)
+
+Contents.—In conducting the study, the Secretary, at a minimum, shall assess—
+
+&emsp;“(1) the current level of coordination among Federal and State agencies in conducting environmental reviews in the planning and approval of airport improvement projects;
+
+&emsp;“(2) the role of public involvement in the planning and approval of airport improvement projects;
+
+&emsp;“(3) the staffing and other resources associated with conducting such environmental reviews; and
+
+&emsp;“(4) the time line for conducting such environmental reviews.
+
+“(c)
+
+Consultation.—The Secretary shall conduct the study in consultation with the Administrator \[of the Federal Aviation Administration\], the heads of other appropriate Federal departments and agencies, airport sponsors, the heads of State aviation agencies, representatives of the design and construction industry, representatives of employee organizations, and representatives of public interest groups.
+
+“(d)
+
+Report.—Not later than 1 year after the date of the enactment of this Act \[Apr. 5, 2000\], the Secretary shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the results of the study, together with recommendations for streamlining, if appropriate, the environmental review process in the planning and approval of airport improvement projects.”
+
+#### Grants for Engineered Materials Arresting Systems
+
+Pub. L. 106–181, title V, §514(c), Apr. 5, 2000, 114 Stat. 144, provided that: “In making grants under section 47104 of title 49, United States Code, for engineered materials arresting systems, the Secretary \[of Transportation\] shall require the sponsor to demonstrate that the effects of jet blasts have been adequately considered.”
+
+#### Grants for Runway Rehabilitation
+
+Pub. L. 106–181, title V, §514(d), Apr. 5, 2000, 114 Stat. 144, provided that: “In any case in which an airport's runways are constrained by physical conditions, the Secretary \[of Transportation\] shall consider alternative means for ensuring runway safety (other than a safety overrun area) when prescribing conditions for grants for runway rehabilitation.”
+
+#### Compliance With Requirements
+
+Pub. L. 106–181, title VII, §737, Apr. 5, 2000, 114 Stat. 172, provided that: “Notwithstanding any other provision of law, in order to avoid unnecessary duplication of expense and effort, the Secretary \[of Transportation\] may authorize the use, in whole or in part, of a completed environmental assessment or environmental impact study for new construction projects on the air operations area of an airport, if the completed assessment or study was for a project at the airport that is substantially similar in nature to the new project. Any such authorized use shall meet all requirements of Federal law for the completion of such an assessment or study.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 40117 of this title.
 

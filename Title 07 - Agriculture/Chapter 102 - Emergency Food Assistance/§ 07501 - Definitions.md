@@ -48,7 +48,7 @@ In this chapter:
 
 #### (8) Soup kitchen
 
-&emsp;The term “soup kitchen” means a public or charitable institution that, as an integral part of the normal activities of the institution, maintains an established feeding operation to provide food to needy homeless persons on a regular basis.
+&emsp;The term “soup kitchen” means a public or charitable institution that, as an integral part of the normal activities of the institution,maintains an established feeding operation to provide food to needy homeless persons on a regular basis.
 
 #### (9) Total value of additional commodities
 

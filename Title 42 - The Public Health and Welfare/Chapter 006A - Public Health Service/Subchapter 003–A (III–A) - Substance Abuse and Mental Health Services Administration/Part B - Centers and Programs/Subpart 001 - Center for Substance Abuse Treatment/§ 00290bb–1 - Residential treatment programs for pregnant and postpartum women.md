@@ -86,7 +86,7 @@ In the case of an eligible woman, the services referred to in subsection (a)(3) 
 
 &emsp;&emsp;(i) the applicant for the award will provide the service directly, and the applicant has entered into a participation agreement under the State plan and is qualified to receive payments under such plan; or
 
-&emsp;&emsp;(ii) the applicant will enter into an agreement with a public or nonprofit private entity under which the entity will provide the service, and the entity has entered into sucha participation agreement plan and is qualified to receive such payments.
+&emsp;&emsp;(ii) the applicant will enter into an agreement with a public or nonprofit private entity under which the entity will provide the service, and the entity has entered into such a participation agreement plan and is qualified to receive such payments.
 
 &emsp;(B)(i) In the case of an entity making an agreement pursuant to subparagraph (A)(ii) regarding the provision of services, the requirement established in such subparagraph regarding a participation agreement shall be waived by the Director if the entity does not, in providing health care services, impose a charge or accept reimbursement available from any third-party payor, including reimbursement under any insurance policy or under any Federal or State health benefits plan.
 
@@ -182,19 +182,9 @@ For purposes of this section:
 
 #### (r) Authorization of appropriations
 
-#### (1) In general
+For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary to fiscal years 2001 through 2003.
 
-&emsp;For the purpose of carrying out this section and section 290bb–2 of this title, there are authorized to be appropriated $100,000,000 for fiscal year 1993, and such sums as may be necessary for fiscal year 1994.
-
-#### (2) Transfer
-
-&emsp;For the purpose described in paragraph (1), in addition to the amounts authorized in such paragraph to be appropriated for a fiscal year, there is authorized to be appropriated for the fiscal year from the special forfeiture fund of the Director of the Office of National Drug Control Policy such sums as may be necessary.
-
-#### (3) Rule of construction
-
-&emsp;The amounts authorized in this subsection to be appropriated are in addition to any other amounts that are authorized to be appropriated and are available for the purpose described in paragraph (1).
-
-(July 1, 1944, ch. 373, title V, §508, as added Pub. L. 102–321, title I, §108(a), July 10, 1992, 106 Stat. 336.)
+(July 1, 1944, ch. 373, title V, §508, as added Pub. L. 102–321, title I, §108(a), July 10, 1992, 106 Stat. 336; amended Pub. L. 106–310, div. B, title XXXIII, §3301(a), Oct. 17, 2000, 114 Stat. 1207.)
 
 #### References in Text
 
@@ -202,13 +192,17 @@ The Social Security Act, referred to in subsec. (e)(2)(A), is act Aug. 14, 1935,
 
 #### Prior Provisions
 
-A prior section 290bb–1, act July 1, 1944, ch. 373, title V, §511, formerly Pub. L. 91–616, title V, §503, formerly §504, as added Pub. L. 94–371, §7, July 26, 1976, 90 Stat. 1039; amended Pub. L. 95–622, title I, §110(d), Nov. 9, 1978, 92 Stat. 3420; Pub. L. 96–180, §16, Jan. 2, 1980, 93 Stat. 1305; renumbered §503 of Pub. L. 91–616 and amended Pub. L. 97–35, title IX, §965(b), (c), Aug. 13, 1981, 95 Stat. 594; renumbered §511 of act July 1, 1944, and amended Apr. 26, 1983, Pub. L. 98–24, §2(b)(9), 97 Stat. 179; Oct. 27, 1986, Pub. L. 99–570, title IV, §4008, 100 Stat. 3207–115, which related to National Alcohol Research Centers and a mandatory grant for research of the effects of alcohol on the elderly, was renumbered section 464J of title IV of act July 1, 1944, by Pub. L. 102–321 and transferred to section 285n–2 of this title.
+A prior section 290bb–1, act July 1, 1944, ch. 373, title V, §511, formerly Pub. L. 91–616, title V, §503, formerly §504, as added Pub. L. 94–371, §7, July 26, 1976, 90 Stat. 1039; amended Pub. L. 95–622, title I, §110(d), Nov. 9, 1978, 92 Stat. 3420; Pub. L. 96–180, §16, Jan. 2, 1980, 93 Stat. 1305; renumbered §503 of Pub. L. 91–616 and amended Pub. L. 97–35, title IX, §965(b), (c), Aug. 13, 1981, 95 Stat. 594; renumbered §511 of act July 1, 1944, and amended Apr. 26, 1983, Pub. L. 98–24, §2(b)(9), 97Stat. 179; Oct. 27, 1986, Pub. L. 99–570, title IV, §4008, 100 Stat. 3207–115, which related to National Alcohol Research Centers and a mandatory grant for research of the effects of alcohol on the elderly, was renumbered section 464J of title IV of act July 1, 1944, by Pub. L. 102–321 and transferred to section 285n–2 of this title.
 
 A prior section 508 of act July 1, 1944, which was classified to section 290aa–6 of this title, was renumbered section 515 of act July 1, 1944, by Pub. L. 102–321 and transferred to section 290bb–21 of this title.
 
+#### Amendments
+
+2000—Subsec. (r). Pub. L. 106–310 reenacted heading without change and amended text generally, substituting provisions authorizing appropriations for fiscal years 2001 to 2003 for provisions authorizing appropriations for fiscal years 1993 and 1994 and authorizing appropriations from the special forfeiture fund of the Director of the Office of National Drug Control Policy.
+
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Effective Date
 

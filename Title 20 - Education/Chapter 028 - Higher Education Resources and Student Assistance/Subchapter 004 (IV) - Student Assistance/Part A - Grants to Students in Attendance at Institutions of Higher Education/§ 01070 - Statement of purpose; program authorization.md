@@ -134,9 +134,9 @@ In General.—The Secretary shall award one or more endowment grants described i
 
 &emsp;“(3) require a national organization to use 30 percent of the interest income from the endowment fund in any fiscal year to provide scholarships for postsecondary education to students from low-income families, which scholarships shall be matched on a dollar-for-dollar basis from funds raised by the local entities;
 
-&emsp;“(4) require that at least 50 percent of all the interest income from the endowment \[fund\] be allocated to establish new local entities or support regional,State or community program centers in high poverty areas;
+&emsp;“(4) require that at least 50 percent of all the interest income from the endowment \[fund\] be allocated to establish new local entities or support regional, State or community program centers in high poverty areas;
 
-&emsp;“(5) require a national organization to submit, for each fiscal year in which such organization uses the interest from the endowment fund, a report to the Secretary that contains—
+&emsp;“(5) require a national organization to submit, for each fiscal year in which such organization uses theinterest from the endowment fund, a report to the Secretary that contains—
 
 &emsp;&emsp;“(A) a description of the programs and activities supported by the interest on the endowment fund;
 
@@ -170,7 +170,7 @@ Section 1405 of Pub. L. 102–325 directed Secretary of Education to conduct a s
 
 #### Olympic Scholarships
 
-Section 1543 of Pub. L. 102–325, as amended by Pub. L. 105–244, title VIII, §836, Oct. 7, 1998, 112 Stat. 1820, provided that:
+Pub. L. 102–325, title XV, §1543, July 23, 1992, 106 Stat. 836, as amended by Pub. L. 105–244, title VIII, §836, Oct. 7, 1998, 112 Stat. 1820; Pub. L. 106–554, §1(a)(1) \[title III, §319\], Dec. 21, 2000, 114 Stat. 2763, 2763A–49, provided that:
 
 “(a)
 
@@ -194,7 +194,11 @@ Application.—Each center desiring financial assistance under this section shal
 
 “(d)
 
-Authorization of Appropriations.—There are authorized to be appropriated $5,000,000 for fiscal year 1999 and such sums as may be necessary for each of the 4 succeeding fiscal years to carry out this section.”
+Authorization of Appropriations.—There are authorized to be appropriated $5,000,000 for fiscal year 1999 and such sums as may be necessary for each of the 4 succeeding fiscal years to carry out this section.
+
+“(e)
+
+Designation.—Scholarships awarded under this section shall be known as ‘B.J. Stupak Olympic Scholarships’.”
 
 #### Persian Gulf Conflict Higher Education Assistance
 
@@ -222,7 +226,7 @@ Waiver Requirement.—Notwithstanding any other provision of law, unless enacted
 
 &emsp;“(3) the number of years for which individuals who are engaged in such military service may be eligible for Pell Grants under subpart 1 of part A of title IV of the Act \[20 U.S.C. 1070a et seq.\];
 
-&emsp;“(4) the point at which the borrower of a Stafford Loan who is or was engaged in such military service is required to resume repayment of principal and interest on such loan after the borrower completes aperiod of deferment under section 427(a)(2)(C)(ii) or 428(b)(1)(M)(ii) of the Act;
+&emsp;“(4) the point at which the borrower of a Stafford Loan who is or was engaged in such military serviceis required to resume repayment of principal and interest on such loan after the borrower completes a period of deferment under section 427(a)(2)(C)(ii) or 428(b)(1)(M)(ii) of the Act;
 
 &emsp;“(5) the point at which the borrower of a Stafford Loan who is or was engaged in such military service is required to resume repayment of principal and interest on such loan after the borrower completes a single period of deferment under section 427(a)(2)(C)(i) or 428(b)(1)(M)(i) of the Act subsequent to such service; and
 

@@ -22,13 +22,3 @@ Section 683 of title 28, U.S.C., 1940 ed., applied only to cases removed to the 
 
 Changes were made in phraseology.
 
-#### Federal Rules of Civil Procedure
-
-Effect of rule 44 on former section 681 of this title, see note by Advisory Committee under rule 44, Appendix to this title.
-
-Proof of official records, see rule 44.
-
-#### Federal Rules of Criminal Procedure
-
-Proof of official records, see rule 27, and note of the Advisory Committee under rule 27, Title 18, Appendix, Crimes and Criminal Procedure.
-

@@ -14,7 +14,7 @@ Section 3801(a) of title 16, referred to in text, was subsequently amended, and 
 
 1996—Pub. L. 104–127 inserted at end “This section shall not apply to a loan made or guaranteed under this chapter for a utility line.”
 
-1991—Pub. L. 102–237 inserted a closing parenthesis after “3801(a)(16) of title 16” and substituted “before November 28, 1990” for “prior to the date of enactment of this section”.
+1991—Pub. L. 102–237 inserted a closing parenthesis after “3801(a)(16) of title 16” and substituted “beforeNovember 28, 1990” for “prior to the date of enactment of this section”.
 
 #### Effective Date of 1991 Amendment
 

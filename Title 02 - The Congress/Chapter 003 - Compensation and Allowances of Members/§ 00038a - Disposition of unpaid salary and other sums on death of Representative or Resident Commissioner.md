@@ -20,7 +20,3 @@ Fifth, if there be none of the above, to the duly appointed legal representative
 
 1959—Pub. L. 86–102 inserted provisions including amounts held in trust fund account, authorizing an individual to designate a beneficiary or beneficiaries, and prescribing order of precedence in cases where no designation of beneficiary has been made.
 
-#### Cross References
-
-Settlement of accounts of employees generally, see section 5581 et seq. of Title 5, Government Organization and Employees.
-

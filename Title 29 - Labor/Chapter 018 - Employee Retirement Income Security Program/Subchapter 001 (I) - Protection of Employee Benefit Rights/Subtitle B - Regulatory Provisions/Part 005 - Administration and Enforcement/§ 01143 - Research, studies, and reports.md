@@ -10,9 +10,7 @@
 
 (4) The research, surveys, studies, and publications referred to in this subsection may be conducted directly, or indirectly through grant or contract arrangements.
 
-#### (b) Submission of annual report to Congress; contents
-
-The Secretary shall submit annually a report to the Congress covering his administration of this subchapter for the preceding year, and including (1) an explanation of any variances or extensions granted under section 1030, 1057, 1083, or 1084 of this title and the projected date for terminating the variance; (2) the status of cases in enforcement status; (3) recommendations received from the Advisory Council during the preceding year; and (4) such information, data, research findings, studies, and recommendations for further legislation in connection with the matters covered by this subchapter as he may find advisable.
+#### (b) Omitted
 
 #### (c) Cooperation with Congress
 
@@ -23,6 +21,10 @@ The Secretary is authorized and directed to cooperate with the Congress and its 
 #### References in Text
 
 This chapter, referred to in subsec. (a)(1), was in the original “this Act”, meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+
+#### Codification
+
+Subsec. (b) of this section, which required the Secretary to submit annually a report to Congress on the administration of this subchapter, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 123 of House Document No. 103–7.
 
 #### Regulations
 

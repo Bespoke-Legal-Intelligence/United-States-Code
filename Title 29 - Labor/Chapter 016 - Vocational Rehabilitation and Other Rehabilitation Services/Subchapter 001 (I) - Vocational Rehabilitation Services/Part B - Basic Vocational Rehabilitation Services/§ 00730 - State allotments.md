@@ -18,7 +18,7 @@
 
 &emsp;(ii) an amount bearing the same ratio to 50 percent of such excess amount as the product of the population of the State and its allotment percentage bears to the sum of the corresponding products for all the States.
 
-(3) The sum of the payment to any State (other than Guam, American Samoa, the Virgin Islands, and the Commonwealth of the Northern Mariana Islands) under this subsection for any fiscal year which is less than 1/3 of 1 percent of the amount appropriated under section 720(b)(1) of this title, or $3,000,000, whichever is greater, shall be increased to that amount, the total of the increases thereby required being derived by proportionately reducing the allotment to each of the remaining such States under this subsection, but with such adjustments as may be necessary to prevent the sum of the allotments made under this subsection to any such remaining State from being thereby reduced to less than that amount.
+(3) The sum of the payment to any State (other than Guam, American Samoa, the Virgin Islands, and the Commonwealth of the Northern Mariana Islands) under this subsection for any fiscal year which is less than 1/3 of 1 percent of the amount appropriated under section 720(b)(1) of this title, or $3,000,000, whichever is greater,shall be increased to that amount, the total of the increases thereby required being derived by proportionately reducing the allotment to each of the remaining such States under this subsection, but with such adjustments as may be necessary to prevent the sum of the allotments made under this subsection to any such remaining State from being thereby reduced to less than that amount.
 
 #### (b) Unused funds; redistribution; increase in amount
 

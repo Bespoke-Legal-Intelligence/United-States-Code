@@ -34,7 +34,7 @@ All data reported to or acquired by the Secretary pursuant to this section shall
 
 1960—Subsec. (a). Pub. L. 86–507 inserted “or by certified mail” after “registered mail”.
 
-1941—Subsec. (a). Act Apr. 3, 1941, §6, among other changes, inserted “peanuts” after “rice” wherever appearing and inserted “all brokers and dealers in peanuts, all agents marketing peanuts for producers, or acquiring peanuts for buyers and dealers, and all peanut growers’ cooperative associations, all persons engaged in the business of cleaning, shelling, crushing, and salting of peanuts and the manufacture of peanut products, and all persons owning or operating peanut-picking or peanut-threshing machines”.
+1941—Subsec. (a). Act Apr. 3, 1941, §6, among other changes, inserted “peanuts” after “rice” wherever appearing and inserted “all brokers and dealers in peanuts, all agents marketing peanuts for producers, or acquiring peanuts for buyers and dealers, and all peanut growers’ cooperative associations, all persons engaged in the business of cleaning, shelling, crushing, and salting of peanuts and the manufacture of peanut products,and all persons owning or operating peanut-picking or peanut-threshing machines”.
 
 Subsec. (b). Act Apr. 3, 1941, §7, inserted “peanuts,” after “rice,”.
 

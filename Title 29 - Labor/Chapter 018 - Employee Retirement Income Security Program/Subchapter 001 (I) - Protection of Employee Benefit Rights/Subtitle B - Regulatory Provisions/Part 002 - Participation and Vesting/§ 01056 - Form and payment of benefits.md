@@ -30,7 +30,7 @@ No pension plan may provide that any part of a participant's accrued benefit der
 
 (1) Each pension plan shall provide that benefits provided under the plan may not be assigned or alienated.
 
-(2) For the purposes of paragraph (1) of this subsection, there shall not be taken into account any voluntary and revocable assignment of not to exceed 10 percent of any benefit payment, or of any irrevocable assignment or alienation of benefits executed before September 2, 1974. The preceding sentence shall not apply to any assignment or alienation made for the purposes of defraying plan administration costs. For purposes of this paragraph a loan made to a participant or beneficiary shall not be treated as an assignment or alienation if such loan is secured by the participant's accrued non-forfeitable benefit and is exempt from the tax imposed by section 4975 of title 26 (relating to tax on prohibited transactions) by reason of section 4975(d)(1) of title 26.
+(2) For the purposes of paragraph (1) of this subsection, there shall not be taken into account any voluntary and revocable assignment of not to exceed 10 percent of any benefit payment, or of any irrevocable assignment or alienation of benefits executed before September 2, 1974. The preceding sentence shall not apply to any assignment or alienation made for the purposes of defraying plan administration costs. For purposes of this paragraph a loan made to a participant or beneficiary shall not be treated asan assignment or alienation if such loan is secured by the participant's accrued non-forfeitable benefit and is exempt from the tax imposed by section 4975 of title 26 (relating to tax on prohibited transactions) by reason of section 4975(d)(1) of title 26.
 
 (3)(A) Paragraph (1) shall apply to the creation, assignment, or recognition of a right to any benefit payable with respect to a participant pursuant to a domestic relations order, except that paragraph (1) shall not apply if the order is determined to be a qualified domestic relations order. Each pension plan shall provide for the payment of benefits in accordance with the applicable requirements of any qualified domestic relations order.
 
@@ -98,7 +98,7 @@ No pension plan may provide that any part of a participant's accrued benefit der
 
 &emsp;(I) shall be in writing,
 
-&emsp;(II) shall provide for the notification of each person specified in a domestic relations order as entitled to payment of benefits under the plan (at the address included in the domestic relations order) of such procedures promptly upon receipt by the plan of the domestic relations order, and
+&emsp;(II) shall provide for the notification of each person specified in a domestic relations order as entitled to payment of benefits under the plan (at the address included in the domestic relations order) of such procedures promptlyupon receipt by the plan of the domestic relations order, and
 
 &emsp;(III) shall permit an alternate payee to designate a representative for receipt of copies of notices that are sent to the alternate payee with respect to a domestic relations order.
 
@@ -158,7 +158,7 @@ No pension plan may provide that any part of a participant's accrued benefit der
 
 &emsp;&emsp;(ii) such spouse is ordered or required in such judgment, order, decree, or settlement to pay an amount to the plan in connection with a violation of part 4 of this subtitle, or
 
-&emsp;&emsp;(iii) in such judgment, order, decree, or settlement, such spouse retains the right to receive the survivor annuity under a qualified joint and survivor annuity provided pursuant to section 1055(a)(1) of this title and under a qualified preretirement survivor annuity provided pursuant to section 1055(a)(2)of this title, determined in accordance with paragraph (5).
+&emsp;&emsp;(iii) in such judgment, order, decree, or settlement, such spouse retains the right to receive the survivor annuity under a qualified joint and survivor annuity provided pursuant to section 1055(a)(1) of this title and under a qualified preretirement survivor annuity provided pursuant to section 1055(a)(2) of this title, determined in accordance with paragraph (5).
 
 > A plan shall not be treated as failing to meet the requirements of section 1055 of this title solely by reason of an offset under this paragraph.
 
@@ -232,7 +232,7 @@ Subsec. (d)(3)(I). Pub. L. 101–239, §7894(c)(9)(A), substituted “such Act�
 
 Subsec. (d)(3)(E)(ii). Pub. L. 99–514, §1898(c)(7)(B)(iv), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “For purposes of this subparagraph, the term ‘earliest retirement age’ has the meaning given such term by section 1055(h)(3) of this section, except that in the case of any individual account plan, the earliest retirement age shall be the date which is 10 years before the normal retirement age.”
 
-Subsec. (d)(3)(F)(i). Pub. L. 99–514, §1898(c)(6)(B), inserted “(and any spouse of the participant shall not betreated as a spouse of the participant for such purposes)”.
+Subsec. (d)(3)(F)(i). Pub. L. 99–514, §1898(c)(6)(B), inserted “(and any spouse of the participant shall not be treated as a spouse of the participant for such purposes)”.
 
 Subsec. (d)(3)(F)(ii). Pub. L. 99–514, §1898(c)(7)(B)(i), inserted “surviving” before “former spouse”.
 

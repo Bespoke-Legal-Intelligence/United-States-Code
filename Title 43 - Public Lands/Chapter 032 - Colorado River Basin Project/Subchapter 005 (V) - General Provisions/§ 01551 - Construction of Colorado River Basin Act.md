@@ -8,7 +8,7 @@ Nothing in this chapter shall be construed to alter, amend, repeal, modify, or b
 
 The Secretary is directed to—
 
-&emsp;(1) make reports as to the annual consumptive uses and losses of water from the Colorado River system after each successive five-year period, beginning with the five-year period starting on October 1, 1970. Such reports shall include a detailed breakdown of the beneficial consumptive use of water on a State-by-State basis. Specific figures on quantitiesconsumptively used from the major tributary streams flowing into the Colorado River shall also be included on a State-by-State basis. Such reports shall be prepared in consultation with the States of the lower basin individually and with the Upper Colorado River Commission, and shall be transmitted to the President, the Congress, and to the Governors of each State signatory to the Colorado River Compact; and
+&emsp;(1) make reports as to the annual consumptive uses and losses of water from the Colorado River system after each successive five-year period, beginning with the five-year period starting on October 1, 1970. Such reports shall include a detailed breakdown of the beneficial consumptive use of water on a State-by-State basis. Specific figures on quantities consumptively used from the major tributary streams flowing into the Colorado River shall also be included on a State-by-State basis. Such reports shall be prepared in consultation with the States of the lower basin individually and with the Upper Colorado River Commission, and shall be transmitted to the President, the Congress, and to the Governors of each State signatory to the Colorado River Compact; and
 
 &emsp;(2) condition all contracts for the delivery of water originating in the drainage basin of the Colorado River system upon the availability of water under the Colorado River Compact.
 
@@ -27,6 +27,10 @@ The Boulder Canyon Project Act, referred to in subsec. (a), is act Dec. 21, 1928
 The Boulder Canyon Project Adjustment Act, referred to in subsec. (a), is act July 19, 1940, ch. 643, 54 Stat. 774, as amended, which is classified generally to subchapter II (§618 et seq.) of chapter 12A of this title. For complete classification of this Act to the Code, see section 618<i>o</i> of this title and Tables.
 
 The Colorado River Storage Project Act, referred to in subsec. (a), is act Apr. 11, 1956, ch. 203, 70 Stat. 105, as amended, which is classified generally to chapter 12B (§620 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 620 of this title and Tables.
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (b)(1) of this section relating to the requirement that the Secretary transmit a report to Congress every five years, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 9th item on page 114 of House Document No. 103–7.
 
 #### Section Referred to in Other Sections
 

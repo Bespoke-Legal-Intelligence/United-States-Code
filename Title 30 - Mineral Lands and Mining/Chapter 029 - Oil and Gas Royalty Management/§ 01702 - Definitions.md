@@ -2,7 +2,7 @@
 
 For the purposes of this chapter, the term—
 
-&emsp;(1) “Federal land” means all land and interests in land owned by the United States which are subject to the mineral leasing laws, including mineral resources or mineral estates reserved to the United States in the conveyance of a surface or nonmineral estate;
+&emsp;(1) “Federal land” means all land and interests in land owned by the United States which are subject to the mineral leasing laws, including mineral resources or mineral estatesreserved to the United States in the conveyance of a surface or nonmineral estate;
 
 &emsp;(2) “Indian allottee” means any Indian for whom land or an interest in land is held in trust by the United States or who holds title subject to Federal restriction against alienation;
 

@@ -6,11 +6,11 @@ All persons within the jurisdiction of the United States shall have the same rig
 
 #### (b) “Make and enforce contracts” defined
 
-For purposes of this section, the term “make and enforce contracts” includes the making, performance, modification, and termination of contracts, and the enjoyment of all benefits, privileges, terms, and conditions of the contractual relationship.
+For purposes of this section, the term “make and enforce contracts” includes the making, performance, modification, and termination ofcontracts, and the enjoyment of all benefits, privileges, terms, and conditions of the contractual relationship.
 
 #### (c) Protection against impairment
 
-The rights protected by this section are protected against impairment by nongovernmentaldiscrimination and impairment under color of State law.
+The rights protected by this section are protected against impairment by nongovernmental discrimination and impairment under color of State law.
 
 (R.S. §1977; Pub. L. 102–166, title I, §101, Nov. 21, 1991, 105 Stat. 1071.)
 
@@ -88,5 +88,5 @@ Ex. Ord. No. 13050, June 13, 1997, 62 F.R. 32987, which established the Presiden
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1981a, 1988 of this title; title 2 sections 1202, 1311; title 3 section 411.
+This section is referred to in sections 1981a, 1988, 2000e–16b of this title; title 2 section 1311; title 3 section 411.
 

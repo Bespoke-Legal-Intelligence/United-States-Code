@@ -58,9 +58,11 @@ Amendment by Pub. L. 92–576 effective 30 days after Oct. 27, 1972, see section
 
 #### Review of Decisions Made by or Pending Before Benefits Review Board
 
-Pub. L. 106–113, div. B, §1000(a)(4) \[title I\], Nov. 29, 1999, 113 Stat. 1535, 1501A–224, provided in part: “That no funds made available by this Act \[see Tables for classification\] may be used by the Solicitor of Labor to participate in a review in any United States court of appeals of any decision made by the Benefits Review Board under section 21 of the Longshore and Harbor Workers’ Compensation Act (33 U.S.C. 921) where such participation is precluded by the decision of the United States Supreme Court in Director, Office of Workers’ Compensation Programs v. Newport News Shipbuilding, 115 S. Ct. 1278 (1995), notwithstanding any provisions to the contrary contained in Rule 15 of the Federal Rules of Appellate Procedure \[28 U.S.C. App.\]: <i>Provided further</i>, That no funds made available by this Act may be used by the Secretary of Labor to review a decision under the Longshore and Harbor Workers’ Compensation Act (33 U.S.C. 901 et seq.) that has been appealed and that has been pending before the Benefits Review Board for more than 12 months: <i>Provided further</i>, That any such decision pending a review by the Benefits Review Board for more than one year shall be considered affirmed by the Benefits Review Board on the one-year anniversary of the filing of the appeal, and shall be considered the final order of the Board for purposes of obtaining a review in the United States courts of appeals: <i>Provided further</i>, That these provisions shall not be applicable to the review or appeal of any decision issued under the Black Lung Benefits Act (30 U.S.C. 901 et seq.).”
+Pub. L. 106–554, §1(a)(1) \[title I\], Dec. 21, 2000, 114 Stat. 2763, 2763A–10, provided in part “That no funds made available by this Act \[see Tables for classification\] may be used by the Solicitor of Labor to participate in a review in any United States court of appeals of any decision made by the Benefits Review Board under section 21 of the Longshore and Harbor Workers’ Compensation Act (33 U.S.C. 921) where such participation is precluded by the decision of the United States Supreme Court in Director, Office of Workers’ Compensation Programs v. Newport News Shipbuilding, 115 S. Ct. 1278 (1995), notwithstanding any provisions to the contrary contained in Rule 15 of the Federal Rules of Appellate Procedure \[28 U.S.C. App.\]: <i>Provided further</i>, That no funds made available by this Act may be used by the Secretary of Labor to review a decision under the Longshore and Harbor Workers’ Compensation Act (33 U.S.C. 901 et seq.) that has been appealed and that has been pending before the Benefits Review Board for more than 12 months: <i>Provided further</i>, That any such decision pending a review by the Benefits Review Board for more than 1 year shall be considered affirmed by the Benefits Review Board on the 1-year anniversary of the filing of the appeal, and shall be considered the final order of the Board for purposes of obtaining a review in the United States courts of appeals: <i>Provided further</i>, That these provisions shall not be applicable to the review or appeal of any decision issued under the Black Lung Benefits Act (30 U.S.C. 901 et seq.)”.
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 106–113, div. B, §1000(a)(4) \[title I\], Nov. 29, 1999, 113 Stat. 1535, 1501A–224.
 
 Pub. L. 105–277, div. A, §101(f) \[title I\], Oct. 21, 1998, 105 Stat. 2681–337, 2681–345.
 
@@ -69,14 +71,6 @@ Pub. L. 105–78, title I, Nov. 13, 1997, 111 Stat. 1475.
 Pub. L. 104–208, div. A, title I, §101(e) \[title I\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–241.
 
 Pub. L. 104–134, title I, §101(d) \[title I\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–218; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.
-
-#### Federal Rules of Civil Procedure
-
-Application, see rule 81, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-#### Cross References
-
-Penalty for failure to pay award pending review, see section 914 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -7,10 +7,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Cross References
-
-Computation of retired pay, general military law provisions, see section 1401 et seq. of this title.
-
 #### Chapter Referred to in Other Sections
 
 This chapter is referred to in section 8929 of this title.

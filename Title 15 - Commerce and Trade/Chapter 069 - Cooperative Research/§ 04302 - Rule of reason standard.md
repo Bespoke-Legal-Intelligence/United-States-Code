@@ -6,5 +6,5 @@ In any action under the antitrust laws, or under any State law similar to the an
 
 #### Amendments
 
-1993—Pub. L. 103–42 substituted “joint venture” for “joint research and development venture” and “, development, product, process, and service” for “and development” and inserted at end “For the purpose of determining a properly defined, relevant market,worldwide capacity shall be considered to the extent that it may be appropriate in the circumstances.”
+1993—Pub. L. 103–42 substituted “joint venture” for “joint research and development venture” and “, development, product, process, and service” for “and development” and inserted at end “For the purpose of determining a properly defined, relevant market, worldwide capacity shall be considered to the extent that it may be appropriate in the circumstances.”
 

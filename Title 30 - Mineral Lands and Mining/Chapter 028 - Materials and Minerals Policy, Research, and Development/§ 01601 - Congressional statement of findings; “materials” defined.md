@@ -22,7 +22,7 @@
 
 #### Short Title
 
-Section 1 of Pub. L. 96–479 provided: “That this Act \[enacting this chapter\] may be cited as the ‘NationalMaterials and Minerals Policy, Research and Development Act of 1980’.”
+Section 1 of Pub. L. 96–479 provided: “That this Act \[enacting this chapter\] may be cited as the ‘National Materials and Minerals Policy, Research and Development Act of 1980’.”
 
 #### Section Referred to in Other Sections
 

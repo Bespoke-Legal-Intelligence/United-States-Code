@@ -106,3 +106,7 @@ In subsection (d), the words “either House of Congress” are substituted for 
 
 1994—Subsec. (e). Pub. L. 103–356 added subsec. (e).
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which certain reporting requirements under subsecs. (a), (b)(1)(A), and (c) of this section are listed on pages 140 and 142), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set out as notes under section 1113 of this title.
+

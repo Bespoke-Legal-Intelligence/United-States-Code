@@ -6,19 +6,17 @@ Not later than one hundred and twenty days after the close of each fiscal year, 
 
 &emsp;(1) statistical data reflecting services and activities provided to individuals during the preceding fiscal year;
 
-&emsp;(2) statistical data collected under section 3012(a)(19) of this title;
+&emsp;(2) statistical data collected under section 3012(a)(19) <sup>1</sup> of this title;
 
-&emsp;(3) an analysis of the information received under section 3026(b)(2)(D) of this title by the Assistant Secretary;
+&emsp;(3) statistical data and an analysis of information regarding the effectiveness of the State agency and area agencies on aging in targeting services to older individuals with greatest economic need and older individuals with greatest social need, with particular attention to low-income minority individuals, older individuals residing in rural areas, low-income individuals, and frail individuals (including individuals with any physical or mental functional impairment); and
 
-&emsp;(4) statistical data and an analysis of information regarding the effectiveness of the State agency and area agencies on aging in targeting services to older individuals with greatest economic need and older individuals with greatest social need, with particular attention to low-income minority individuals, low-income individuals, and frail individuals (including individuals with any physical or mental functional impairment); and
-
-&emsp;(5) a description of the implementation of the plan required by section 3012(a)(17) of this title.
+&emsp;(4) a description of the implementation of the plan required by section 3012(a)(17) <sup>1</sup> of this title.
 
 #### (b) Report on ombudsman program
 
 (1) Not later than March 1 of each year, the Assistant Secretary shall compile a report—
 
-&emsp;(A) summarizing and analyzing the data collected under subchapters III and XI of thischapter in accordance with section 3058g(c) of this title for the then most recently concluded fiscal year;
+&emsp;(A) summarizing and analyzing the data collected under subchapters III and XI of this chapter in accordance with section 3058g(c) of this title for the then most recently concluded fiscal year;
 
 &emsp;(B) identifying significant problems and issues revealed by such data (with special emphasis on problems relating to quality of care and residents’ rights);
 
@@ -58,15 +56,29 @@ The Assistant Secretary shall, as part of the annual report submitted under subs
 
 &emsp;(4) the effect of such activities on supportive services and nutrition services furnished under subchapter III of this chapter; and
 
-&emsp;(5) the effectiveness of State and local efforts to target older individuals with greatest economic need (including low-income minority individuals) and older individuals with greatest social need (including low-income minority individuals) to receive services under this chapter.
+&emsp;(5) the effectiveness of State and local efforts to target older individuals with greatest economic need (including low-income minority individuals and older individuals residing in rural areas) and older individuals with greatest social need (including low-income minority individuals and older individuals residing in rural areas) to receive services under this chapter.
 
-(Pub. L. 89–73, title II, §207, formerly §208, as added Pub. L. 93–29, title II, §201(c), May 3, 1973, 87 Stat. 35; renumbered §207, Pub. L. 97–115, §2(e)(2), Dec. 29, 1981, 95 Stat. 1596; amended Pub. L. 98–459, title II, §207, Oct. 9, 1984, 98 Stat. 1770; Pub. L. 100–175, title I, §§103(b), (c), 155(f), Nov. 29, 1987, 101 Stat. 928, 929, 954; Pub. L. 102–54, §13(q)(9)(A), June 13, 1991, 105 Stat. 281; Pub. L. 102–375, title II, §208, title VII, §708(a)(2)(A), (c)(2), title IX, §904(a)(8), Sept. 30, 1992, 106 Stat. 1214, 1292, 1306; Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990; Pub. L. 103–437, §15(<i>l</i>), Nov. 2, 1994, 108 Stat. 4593.)
+(Pub. L. 89–73, title II, §207, formerly §208, as added Pub. L. 93–29, title II, §201(c), May 3, 1973, 87 Stat. 35; renumbered §207, Pub. L. 97–115, §2(e)(2), Dec. 29, 1981, 95 Stat. 1596; amended Pub. L. 98–459, title II, §207, Oct. 9, 1984, 98 Stat. 1770; Pub. L. 100–175, title I, §§103(b), (c), 155(f), Nov. 29, 1987, 101 Stat. 928, 929, 954; Pub. L. 102–54, §13(q)(9)(A), June 13, 1991, 105 Stat. 281; Pub. L. 102–375, title II, §208, title VII, §708(a)(2)(A), (c)(2), title IX, §904(a)(8), Sept. 30, 1992, 106 Stat. 1214, 1292, 1306; Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990; Pub. L. 103–437, §15(<i>l</i>), Nov. 2, 1994, 108 Stat. 4593; Pub. L. 106–501, title II, §204, title VIII, §801(b)(4), Nov. 13, 2000, 114 Stat. 2234, 2292.)
+
+#### References in Text
+
+Section 3012(a)(17), (19) of this title, referred to in subsec. (a)(2), (4), was redesignated section 3012(a)(14) and (16), respectively, of this title and section 3012(a)(20), (22) was redesignated section 3012(a)(17), (19), respectively, by Pub. L. 106–501, title II, §201(1)(B), Nov. 13, 2000, 114 Stat. 2229.
 
 #### Prior Provisions
 
 A prior section 207 of Pub. L. 89–73 was renumbered section 206 and is classified to section 3017 of this title.
 
 #### Amendments
+
+2000—Subsec. (a)(3). Pub. L. 106–501, §801(b)(4), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “an analysis of the information received under section 3026(b)(2)(D) of this title by the Assistant Secretary;”.
+
+Subsec. (a)(4). Pub. L. 106–501, §801(b)(4)(B), redesignated par. (5) as (4).
+
+Pub. L. 106–501, §204(1), inserted “older individuals residing in rural areas,” after “low-income minority individuals,”.
+
+Subsec. (a)(5). Pub. L. 106–501, §801(b)(4)(B), redesignated par. (5) as (4).
+
+Subsec. (c)(5). Pub. L. 106–501, §204(2), inserted “and older individuals residing in rural areas” after “low-income minority individuals” in two places.
 
 1994—Subsec. (b)(2). Pub. L. 103–437 redesignated subpars. (B) to (D) as (A) to (C), respectively, and struck out former subpar. (A) which read as follows: “the Select Committee on Aging of the House of Representatives;”.
 
@@ -102,7 +114,7 @@ Subsec. (c). Pub. L. 100–175, §155(f), added subsec. (c).
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out asa note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 
 #### Effective Date of 1992 Amendment
 
@@ -120,5 +132,7 @@ Amendment by Pub. L. 98–459 effective Oct. 9, 1984, see section 803(a) of Pub.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3011, 3017, 3028, 3035b, 3035g of this title.
+This section is referred to in sections 3011, 3017, 3028 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

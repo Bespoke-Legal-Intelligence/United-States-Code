@@ -18,7 +18,7 @@ Section 696, act July 9, 1921, ch. 42, title II, §222, 42 Stat. 115, directed t
 
 Section 697, acts July 9, 1921, ch. 42, title II, §203, 42 Stat. 109; May 16, 1934, ch. 290, §1, 48 Stat. 777; Aug. 29, 1935, ch. 810, §1, 49 Stat. 966; July 10, 1937, ch. 482, 50 Stat. 497; Nov. 26, 1941, ch. 544, §1, 55 Stat. 782; May 31, 1944, ch. 216, §2, 58 Stat. 260; June 3, 1948, ch. 384, 62 Stat. 295; June 3, 1948, ch. 397, 62 Stat. 303; July 9, 1952 ch. 614, §§1, 2, 66 Stat. 511, designated certain lands in Territory as “available land”.
 
-Section 698, acts July 9, 1921, ch. 42, title II, §204, 42 Stat. 110; Mar. 7, 1928, ch. 142, §1, 45 Stat. 246; July 10, 1937, ch. 482, 50 Stat. 503; Feb. 20, 1954, ch. 10, §1, 68 Stat. 116; June 18, 1954, ch. 319, §1, 68 Stat. 262, provided that after July 9, 1921, all available lands would assume status of Hawaiian home lands and be under control of Commission.
+Section 698, acts July 9, 1921, ch. 42, title II, §204, 42 Stat. 110; Mar. 7, 1928, ch. 142, §1, 45 Stat. 246; July 10,1937, ch. 482, 50 Stat. 503; Feb. 20, 1954, ch. 10, §1, 68 Stat. 116; June 18, 1954, ch. 319, §1, 68 Stat. 262, provided that after July 9, 1921, all available lands would assume status of Hawaiian home lands and be under control of Commission.
 
 Section 699, act July 9, 1921, ch. 42, title II, §205, 42 Stat. 110, provided for sale or lease of available lands.
 

@@ -8,7 +8,3 @@ Section 944, Pub. L. 93–203, title IV, §483, as added Pub. L. 95–524, §2, 
 
 Section 945, Pub. L. 93–203, title IV, §484, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 2002, related to Secretarial authority over summer youth programs.
 
-#### Effective Date of Repeal
-
-Section 184(a) of Pub. L. 97–300 provided that the repeal of these sections is effective Oct. 13, 1982.
-

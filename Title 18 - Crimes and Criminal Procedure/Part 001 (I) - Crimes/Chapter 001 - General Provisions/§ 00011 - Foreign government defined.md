@@ -16,26 +16,6 @@ The remaining provisions of said sections 98 and 349 of title 18, U.S.C., 1940 e
 
 1976—Pub. L. 94–467 inserted “except in sections 112, 878, 970, 1116, and 1201” after “title”.
 
-#### Canal Zone
-
-Applicability of section to Canal Zone, see section 14 of this title.
-
-#### Federal Rules of Criminal Procedure
-
-Foreign relations, etc., grounds for issuance of search warrant, see rule 41, Appendix to this title.
-
-Subpoena, circumstances and manner of service abroad, see rule 17.
-
-Witnesses in foreign country, nonapplicability of rules to proceedings against witness, see rule 54.
-
-#### Cross References
-
-Extradition, certification of amounts to be paid by foreign government on account of fees and costs, see section 3195 of this title.
-
-Foreign relations generally, see section 951 et seq. of this title.
-
-Transportation, sale or receipt of stolen securities, application to obligations of foreign government, see sections 2314, 2315 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 14 of this title.

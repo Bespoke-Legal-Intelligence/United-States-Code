@@ -180,6 +180,14 @@
 | (a) | Regulations. |
 | (b) | Exceptions from design, construction, alteration, and repair requirements. |
 | (c) | Exceptions from manning requirements. |
+| [1356a.](Subchapter%20003%20%28III%29%20-%20Outer%20Continental%20Shelf%20Lands/%C2%A7%2001356a%20-%20Coastal%20impact%20assistance.md) | Coastal impact assistance. |
+| (a) | In general. |
+| (b) | Definitions. |
+| (c) | Authorization. |
+| (d) | Impact assistance payments to States and political subdivisions. |
+| (e) | Coastal Impact Assistance Plan. |
+| (f) | Authorized uses. |
+| (g) | Compliance with authorized uses. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

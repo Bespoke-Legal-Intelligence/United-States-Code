@@ -1,0 +1,34 @@
+### §1708. Temporary lodging
+
+(a) The Secretary may furnish persons described in subsection (b) with temporary lodging in a Fisher house or other appropriate facility in connection with the examination, treatment, or care of a veteran under this chapter or, as provided for under subsection (e)(5), in connection with benefits administered under this title.
+
+(b) Persons to whom the Secretary may provide lodging under subsection (a) are the following:
+
+&emsp;(1) A veteran who must travel a significant distance to receive care or services under this title.
+
+&emsp;(2) A member of the family of a veteran and others who accompany a veteran and provide the equivalent of familial support for such veteran.
+
+(c) In this section, the term “Fisher house” means a housing facility that—
+
+&emsp;(1) is located at, or in proximity to, a Department medical facility;
+
+&emsp;(2) is available for residential use on a temporary basis by patients of that facility and others described in subsection (b)(2); and
+
+&emsp;(3) is constructed by, and donated to the Secretary by, the Zachary and Elizabeth M. Fisher Armed Services Foundation.
+
+(d) The Secretary may establish charges for providing lodging under this section. The proceeds from such charges shall be credited to the medical care account and shall be available until expended for the purposes of providing such lodging.
+
+(e) The Secretary shall prescribe regulations to carry out this section. Such regulations shall include provisions—
+
+&emsp;(1) limiting the duration of lodging provided under this section;
+
+&emsp;(2) establishing standards and criteria under which charges are established for such lodging under subsection (d);
+
+&emsp;(3) establishing criteria for persons considered to be accompanying a veteran under subsection (b)(2);
+
+&emsp;(4) establishing criteria for the use of the premises of temporary lodging facilities under this section; and
+
+&emsp;(5) establishing any other limitations, conditions, and priorities that the Secretary considers appropriate with respect to lodging under this section.
+
+(Added Pub. L. 106–419, title II, §221(a), Nov. 1, 2000, 114 Stat. 1844.)
+

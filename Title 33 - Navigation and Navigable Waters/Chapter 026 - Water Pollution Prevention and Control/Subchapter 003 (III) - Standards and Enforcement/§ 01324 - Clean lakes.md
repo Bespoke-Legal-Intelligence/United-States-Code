@@ -34,7 +34,7 @@ The Administrator shall provide financial assistance to States in order to carry
 
 (1) The amount granted to any State for any fiscal year under subsection (b) of this section shall not exceed 70 per centum of the funds expended by such State in such year for carrying out approved methods and procedures under subsection (a) of this section.
 
-(2) There is authorized to be appropriated $50,000,000 for the fiscal year ending June 30, 1973; $100,000,000 for the fiscal year 1974; $150,000,000 for the fiscal year 1975, $50,000,000 for fiscal year 1977, $60,000,000 for fiscal year 1978, $60,000,000 for fiscal year 1979, $60,000,000 for fiscal year 1980, $30,000,000 for fiscal year 1981, $30,000,000 for fiscal year 1982, such sums as may be necessary for fiscal years 1983 through 1985, and $30,000,000 per fiscal year for each of the fiscal years 1986 through 1990 for grants to States under subsection (b) of this section which such sums shall remain available until expended. The Administrator shall provide for an equitable distribution of such sums to the States with approved methods and procedures under subsection (a) of this section.
+(2) There is authorized to be appropriated $50,000,000 for each of fiscal years 2001 through 2005 for grants to States under subsection (b) of this section which such sums shall remain available until expended. The Administrator shall provide for an equitable distribution of such sums to the States with approved methods and procedures under subsection (a) of this section.
 
 #### (d) Demonstration program
 
@@ -58,11 +58,11 @@ The Administrator shall provide financial assistance to States in order to carry
 
 #### (2) Geographical requirements
 
-&emsp;Demonstration projects authorized by this subsection shall be undertaken to reflect a variety of geographical and environmental conditions. As a priority, the Administrator shall undertake demonstration projects at Lake Champlain, New York and Vermont; Lake Houston, Texas; Beaver Lake, Arkansas; Greenwood Lake and Belcher Creek, New Jersey; Deal Lake, New Jersey; Alcyon Lake, New Jersey; Gorton's Pond, Rhode Island; Lake Washington, Rhode Island; Lake Bomoseen, Vermont; Sauk Lake, Minnesota; and Lake Worth, Texas.
+&emsp;Demonstration projects authorized by this subsection shall be undertaken to reflect a variety of geographical and environmental conditions. As a priority, the Administrator shall undertake demonstration projects at Lake Champlain, New York and Vermont; Lake Houston, Texas; Beaver Lake, Arkansas; Greenwood Lake and Belcher Creek, New Jersey; Deal Lake, New Jersey; Alcyon Lake, New Jersey; Gorton's Pond, Rhode Island; Lake Washington, Rhode Island; Lake Bomoseen, Vermont; Sauk Lake, Minnesota; Otsego Lake, New York; Oneida Lake, New York; Raystown Lake, Pennsylvania; Swan Lake, Itasca County, Minnesota; Walker Lake, Nevada; Lake Tahoe, California and Nevada; Ten Mile Lakes, Oregon; Woahink Lake, Oregon; Highland Lake, Connecticut; Lily Lake, New Jersey; Strawbridge Lake, New Jersey; Baboosic Lake, New Hampshire; French Pond, New Hampshire; Dillon Reservoir, Ohio; Tohopekaliga Lake, Florida; Lake Apopka, Florida; Lake George, New York; Lake Wallenpaupack, Pennsylvania; Lake Allatoona, Georgia; and Lake Worth, Texas.
 
 #### (3) Reports
 
-&emsp;By January 1, 1997, and January 1 of every odd-numbered year thereafter, the Administrator shall report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate on work undertaken pursuant to this subsection. Upon completion of the program authorized by this subsection, the Administrator shall submit to such committees a final report on the results of such program, along with recommendations for further measures to improve the water quality of the Nation's lakes.
+&emsp;Notwithstanding section 3003 of the Federal Reports Elimination and Sunset Act of 1995 (31 U.S.C. 1113 note; 109 Stat. 734–736), by January 1, 1997, and January 1 of every odd-numbered year thereafter, the Administrator shall report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate on work undertaken pursuant to this subsection. Upon completion of the program authorized by this subsection, the Administrator shall submit to such committees a final report on the results of such program, along with recommendations for further measures to improve the water quality of the Nation's lakes.
 
 #### (4) Authorization of appropriations
 
@@ -74,7 +74,7 @@ The Administrator shall provide financial assistance to States in order to carry
 
 #### (i) Amount
 
-&emsp;&emsp;&emsp;There is authorized to be appropriated to carry out subsection (b) of this section with respect to subsection (a)(1)(D) of this section not to exceed $15,000,000 for fiscal years beginning after September 30, 1986, to remain available until expended.
+&emsp;&emsp;&emsp;There is authorized to be appropriated to carry out subsection (b) of this section with respect to subsection (a)(1)(D) of this section not to exceed $25,000,000 for fiscal years beginning after September 30, 1986, to remain available until expended.
 
 #### (ii) Distribution of funds
 
@@ -84,9 +84,21 @@ The Administrator shall provide financial assistance to States in order to carry
 
 &emsp;&emsp;&emsp;The amount of any grant to a State under this subparagraph shall be in addition to, and not in lieu of, any other Federal financial assistance.
 
-(June 30, 1948, ch. 758, title III, §314, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 875; amended Pub. L. 95–217, §§4(f), 62(a), Dec. 27, 1977, 91 Stat. 1567, 1598; Pub. L. 96–483, §1(f), Oct. 21, 1980, 94 Stat. 2360; Pub. L. 100–4, title I, §101(g), title III, §315(a), (b), (d), Feb. 4, 1987, 101 Stat. 9, 49, 50, 52; Pub. L. 101–596, title III, §302, Nov. 16, 1990, 104 Stat. 3006; Pub. L. 104–66, title II, §2021(c), Dec. 21, 1995, 109 Stat. 727; Pub. L. 105–362, title V, §501(b), Nov. 10, 1998, 112 Stat. 3283.)
+(June 30, 1948, ch. 758, title III, §314, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 875;amended Pub. L. 95–217, §§4(f), 62(a), Dec. 27, 1977, 91 Stat. 1567, 1598; Pub. L. 96–483, §1(f), Oct. 21, 1980, 94 Stat. 2360; Pub. L. 100–4, title I, §101(g), title III, §315(a), (b), (d), Feb. 4, 1987, 101 Stat. 9, 49, 50, 52; Pub. L. 101–596, title III, §302, Nov. 16, 1990, 104 Stat. 3006; Pub. L. 104–66, title II, §2021(c), Dec. 21, 1995, 109 Stat. 727; Pub. L. 105–362, title V, §501(b), Nov. 10, 1998, 112 Stat. 3283; Pub. L. 106–457, title VII, §§701, 702, Nov. 7, 2000, 114 Stat. 1976.)
+
+#### References in Text
+
+Section 3003 of the Federal Reports Elimination and Sunset Act of 1995, referred to in subsec. (d)(3), is section 3003 of Pub. L. 104–66, which is set out as a note under section 1113 of Title 31, Money and Finance.
 
 #### Amendments
+
+2000—Subsec. (c)(2). Pub. L. 106–457, §701, substituted “$50,000,000 for each of fiscal years 2001 through 2005” for “$50,000,000 for the fiscal year ending June 30, 1973; $100,000,000 for the fiscal year 1974; $150,000,000 for the fiscal year 1975, $50,000,000 for fiscal year 1977, $60,000,000 for fiscal year 1978, $60,000,000 for fiscal year 1979, $60,000,000 for fiscal year 1980, $30,000,000 for fiscal year 1981, $30,000,000 for fiscal year 1982, such sums as may be necessary for fiscal years 1983 through 1985, and $30,000,000 per fiscal year for each of the fiscal years 1986 through 1990”.
+
+Subsec. (d)(2). Pub. L. 106–457, §702(1), inserted “Otsego Lake, New York; Oneida Lake, New York; Raystown Lake, Pennsylvania; Swan Lake, Itasca County, Minnesota; Walker Lake, Nevada; Lake Tahoe, California and Nevada; Ten Mile Lakes, Oregon; Woahink Lake, Oregon; Highland Lake, Connecticut; Lily Lake, New Jersey; Strawbridge Lake, New Jersey; Baboosic Lake, New Hampshire; French Pond, New Hampshire; Dillon Reservoir, Ohio; Tohopekaliga Lake, Florida; Lake Apopka, Florida; Lake George, New York; Lake Wallenpaupack, Pennsylvania; Lake Allatoona, Georgia;” after “Sauk Lake, Minnesota;”.
+
+Subsec. (d)(3). Pub. L. 106–457, §702(2), substituted “Notwithstanding section 3003 of the Federal Reports Elimination and Sunset Act of 1995 (31 U.S.C. 1113 note; 109 Stat. 734–736), by” for “By”.
+
+Subsec. (d)(4)(B)(i). Pub. L. 106–457, §702(3), substituted “$25,000,000” for “$15,000,000”.
 
 1998—Subsec. (a)(3), (4). Pub. L. 105–362 redesignated par. (4) as (3) and struck out heading and text of par. (3). Text read as follows: “Not later than 180 days after receipt from the States of the biennial information required under paragraph (1), the Administrator shall submit to the Committee on Public Works and Transportation of the House of Representatives and the Committee on Environment and Public Works of the Senate a report on the status of water quality in lakes in the United States, including the effectiveness of the methods and procedures described in paragraph (1)(D).”
 

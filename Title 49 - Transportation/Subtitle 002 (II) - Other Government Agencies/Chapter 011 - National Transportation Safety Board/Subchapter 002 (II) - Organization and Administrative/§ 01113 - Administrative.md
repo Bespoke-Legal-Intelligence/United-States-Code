@@ -6,7 +6,7 @@ General Authority.—(1) The National Transportation Safety Board, and when auth
 
 (2) A witness or evidence in a hearing under paragraph (1) of this subsection may be summoned or required to be produced from any place in the United States to the designated place of the hearing. A witness summoned under this subsection is entitled to the same fee and mileage the witness would have been paid in a court of the United States.
 
-(3) A subpena shall be issued under the signature of the Chairman or the Chairman's delegatebut may be served by any person designated by the Chairman.
+(3) A subpena shall be issued under the signature of the Chairman or the Chairman's delegate but may be served by any person designated by the Chairman.
 
 (4) If a person disobeys a subpena, order, or inspection notice of the Board, the Board may bring a civil action in a district court of the United States to enforce the subpena, order, or notice. An action under this paragraph may be brought in the judicial district in which the person against whom the action is brought resides, is found, or does business. The court may punish a failure to obey an order of the court to comply with the subpena, order, or notice as a contempt of court.
 
@@ -30,9 +30,9 @@ Additional Powers.—(1) The Board may—
 
 &emsp;(H) make contracts with nonprofit entities to carry out studies related to duties and powers of the Board; and
 
-&emsp;(I) require that the departments, agencies, and instrumentalities of the Government, State and local governments, and governments of foreign countries provide appropriate consideration for the reasonable costs of goods and services supplied by the Board.
+&emsp;(I) negotiate and enter into agreements with individuals and private entities and departments, agencies, and instrumentalities of the Government, State and local governments, and governments of foreign countries for the provision of facilities, accident-related and technical services or training in accident investigation theory and techniques, and require that such entities provide appropriate consideration for the reasonable costs of any facilities, goods, services, or training provided by the Board.
 
-(2) The Board shall deposit in the Treasury amounts received under paragraph (1)(I) of this subsection to be credited to the appropriation of the Board.
+(2) The Board shall deposit in the Treasury amounts received under paragraph (1)(I) of this subsection to be credited as offsetting collections to the appropriation of the Board. The Board shall maintain an annual record of collections received under paragraph (1)(I) of this subsection.
 
 (c)
 
@@ -50,7 +50,31 @@ Inquiries.—The Board, or an officer or employee of the Board designated by the
 
 Regulations.—The Board may prescribe regulations to carry out this chapter.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 747.)
+(g)
+
+Overtime Pay.—
+
+&emsp;(1)
+
+In general.—Subject to the requirements of this section and notwithstanding paragraphs (1) and (2) of section 5542(a) of title 5, for an employee of the Board whose basic pay is at a rate which equals or exceeds the minimum rate of basic pay for GS–10 of the General Schedule, the Board may establish an overtime hourly rate of pay for the employee with respect to work performed at the scene of an accident (including travel to or from the scene) and other work that is critical to an accident investigation in an amount equal to one and one-half times the hourly rate of basic pay of the employee. All of such amount shall be considered to be premium pay.
+
+&emsp;(2)
+
+Limitation on overtime pay to an employee.—An employee of the Board may not receive overtime pay under paragraph (1), for work performed in a calendar year, in an amount that exceeds 15 percent of the annual rate of basic pay of the employee for such calendar year.
+
+&emsp;(3)
+
+Limitation on total amount of overtime pay.—The Board may not make overtime payments under paragraph (1) for work performed in any fiscal year in a total amount that exceeds 1.5 percent of the amount appropriated to carry out this chapter for that fiscal year.
+
+&emsp;(4)
+
+Basic pay defined.—In this subsection, the term “basic pay” includes any applicable locality-based comparability payment under section 5304 of title 5 (or similar provision of law) and any special rate of pay under section 5305 of title 5 (or similar provision of law).
+
+&emsp;(5)
+
+Annual report.—Not later than January 31, 2002, and annually thereafter, the Board shall transmit to the Senate Committee on Commerce, Science, and Transportation and the House Transportation and Infrastructure Committee a report identifying the total amount of overtime payments made under this subsection in the preceding fiscal year, and the number of employees whose overtime pay under this subsection was limited in that fiscal year as a result of the 15 percent limit established by paragraph (2).
+
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 747; Pub. L. 106–424, §§3(a), (b)(1), 4, Nov. 1, 2000, 114 Stat. 1883, 1884.)
 
 Historical and Revision Notes
 
@@ -132,7 +156,7 @@ In subsection (a)(1), the words “sit and act at such times and places” are o
 
 In subsection (a)(2), the words “the witness would have been” are added for clarity and consistency in the revised title and with other titles of the United States Code.
 
-In subsection (a)(4), the words “If a person disobeys” are substituted for “In case of contumacy or refusal to obey” for consistency in the revised title and with other titles of the Code. The words “of the Board” are substituted for “of the Board, or of any duly designated employee thereof” to eliminate unnecessary words. Thewords “the Board may bring a civil action in a district court of the United States” are substituted for “such district court shall, upon the request of the Board, have jurisdiction” for consistency in the revised title and because of 28:1331. The word “forthwith” is omitted as surplus. The words “An action under this paragraph may be brought in the judicial district” are added for clarity.
+In subsection (a)(4), the words “If a person disobeys” are substituted for “In case of contumacy or refusal to obey” for consistency in the revised title and with other titles of the Code. The words “of the Board” are substituted for “of the Board, or of any duly designated employee thereof” to eliminate unnecessary words. The words “the Board may bring a civil action in a district court of the United States” are substituted for “such district court shall, upon the request of the Board, have jurisdiction” for consistency in the revised title and because of 28:1331. The word “forthwith” is omitted as surplus. The words “An action under this paragraph may be brought in the judicial district” are added for clarity.
 
 In subsection (b)(1)(A), the text of 49 App.:1441(b) (words before semicolon) is omitted as superseded by 49 App.:1903(b)(6)(C).
 
@@ -157,6 +181,22 @@ In subsection (d), the word “appropriate” is substituted for “necessary or
 In subsection (e), the words “officer or employee” are substituted for “employee” for consistency in the revised title. The words “by order” are substituted for “by special or general orders” to eliminate unnecessary words. The word “individuals” is substituted for “people” for consistency in the revised title.
 
 In subsection (f), the words “prescribe regulations to carry out this chapter” are substituted for “rules and regulations as may be necessary to the exercise of its functions” for consistency in the revised title and with other titles of the Code and because “rule” and “regulation” are synonymous.
+
+#### References in Text
+
+GS–10 of the General Schedule, referred to in subsec. (g)(1), is set out under section 5332 of Title 5, Government Organization and Employees.
+
+#### Amendments
+
+2000—Subsec. (b)(1)(I). Pub. L. 106–424, §3(a), amended subpar. (I) generally. Prior to amendment, subpar. (I) read as follows: “require that the departments, agencies, and instrumentalities of the Government, State and local governments, and governments of foreign countries provide appropriate consideration for the reasonable costs of goods and services supplied by the Board.”
+
+Subsec. (b)(2). Pub. L. 106–424, §3(b)(1), inserted “as offsetting collections” after “to be credited” and “The Board shall maintain an annual record of collections received under paragraph (1)(I) of this subsection.” at end.
+
+Subsec. (g). Pub. L. 106–424, §4, added subsec. (g).
+
+#### Travel Budgets
+
+Pub. L. 106–424, §9, Nov. 1, 2000, 114 Stat. 1886, provided that: “The Chairman of the National Transportation Safety Board shall establish annual fiscal year budgets for non-accident-related travel expenditures for Board members which shall be approved by the Board and submitted to the Senate Committee on Commerce, Science, and Transportation and to the House of Representatives Committee on Transportation and Infrastructure together with an annual report detailing the non-accident-related travel of each Board member. The report shall include separate accounting for foreign and domestic travel, including any personnel or other expenses associated with that travel.”
 
 #### Section Referred to in Other Sections
 

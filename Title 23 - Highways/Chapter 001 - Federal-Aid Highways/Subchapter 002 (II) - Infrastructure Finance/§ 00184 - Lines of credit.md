@@ -42,7 +42,7 @@ year draws.—The amount drawn in any 1 year shall not exceed 20 percent of the 
 
 &emsp;(3)
 
-Draws.—Any draw on the line of credit shall represent a direct loan and shall be made only if net revenues from the project (including capitalized interest, any debt service reserve fund, and any other available reserve)are insufficient to pay the costs specified in subsection (a)(2).
+Draws.—Any draw on the line of credit shall represent a direct loan and shall be made only if net revenues from the project (including capitalized interest, any debt service reserve fund, and any other available reserve) are insufficient to pay the costs specified in subsection (a)(2).
 
 &emsp;(4)
 
@@ -98,7 +98,7 @@ Terms and conditions.—The Secretary shall establish repayment terms and condit
 
 &emsp;(2)
 
-Timing.—All scheduled repayments of principal or interest on a direct loan under this section shall commence not later than 5 years after the end of the period of availability specified in subsection (b)(6) and be fully repaid, with interest, by the date that is 25 years after the end of the period of availability specified in subsection (b)(6).
+Timing.—All scheduled repayments of principal or interest on a direct loan underthis section shall commence not later than 5 years after the end of the period of availability specified in subsection (b)(6) and be fully repaid, with interest, by the date that is 25 years after the end of the period of availability specified in subsection (b)(6).
 
 &emsp;(3)
 

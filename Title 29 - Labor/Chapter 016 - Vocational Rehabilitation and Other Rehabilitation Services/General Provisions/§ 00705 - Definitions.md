@@ -78,7 +78,7 @@ For the purposes of this chapter:
 
 #### (5) Community rehabilitation program
 
-&emsp;The term “community rehabilitation program” means a program that provides directlyor facilitates the provision of vocational rehabilitation services to individuals with disabilities, and that provides, singly or in combination, for an individual with a disability to enable the individual to maximize opportunities for employment, including career advancement—
+&emsp;The term “community rehabilitation program” means a program that provides directly or facilitates the provision of vocational rehabilitation services to individuals with disabilities, and that provides, singly or in combination, for an individual with a disability to enable the individual to maximize opportunities for employment, including career advancement—
 
 &emsp;&emsp;(A) medical, psychiatric, psychological, social, and vocational services that are provided under one management;
 
@@ -184,7 +184,7 @@ For the purposes of this chapter:
 
 &emsp;The term “extended services” means ongoing support services and other appropriate services, needed to support and maintain an individual with a most significant disability in supported employment, that—
 
-&emsp;&emsp;(A) are provided singly or in combination and are organized and made available insuch a way as to assist an eligible individual in maintaining supported employment;
+&emsp;&emsp;(A) are provided singly or in combination and are organized and made available in such a way as to assist an eligible individual in maintaining supported employment;
 
 &emsp;&emsp;(B) are based on a determination of the needs of an eligible individual, as specified in an individualized plan for employment; and
 
@@ -198,7 +198,7 @@ For the purposes of this chapter:
 
 #### (B) Exception
 
-&emsp;&emsp;The term “Federal share” means the share specifically set forth in section 731(a)(3) of this title, except that with respect to payments pursuant to part B of subchapter I of this chapter to any State that are used to meet the costs of construction of those rehabilitation facilities identified in section 723(b)(2) of this title in such State, the Federal share shall be the percentages determined in accordance with the provisions of section 731(a)(3) of this title applicable with respect to the State.
+&emsp;&emsp;The term “Federal share” means the share specifically set forth in section 731(a)(3) ofthis title, except that with respect to payments pursuant to part B of subchapter I of this chapter to any State that are used to meet the costs of construction of those rehabilitation facilities identified in section 723(b)(2) of this title in such State, the Federal share shall be the percentages determined in accordance with the provisions of section 731(a)(3) of this title applicable with respect to the State.
 
 #### (C) Relationship to expenditures by a political subdivision
 
@@ -350,7 +350,7 @@ For the purposes of this chapter:
 
 #### (D) Employment; exclusion of individuals with certain diseases or infections
 
-&emsp;&emsp;For the purposes of sections 793 and 794 of this title, as such sections relate to employment, such term does not include an individual who has a currently contagious disease or infection and who, by reason of such disease or infection, would constitute a direct threat to the health or safety of other individuals or who, by reason of the currentlycontagious disease or infection, is unable to perform the duties of the job.
+&emsp;&emsp;For the purposes of sections 793 and 794 of this title, as such sections relate to employment, such term does not include an individual who has a currently contagious disease or infection and who, by reason of such disease or infection, would constitute a direct threat to the health or safety of other individuals or who, by reason of the currently contagious disease or infection, is unable to perform the duties of the job.
 
 #### (E) Rights provisions; exclusion of individuals on basis of homosexuality or bisexuality
 
@@ -362,7 +362,7 @@ For the purposes of this chapter:
 
 #### (F) Rights provisions; exclusion of individuals on basis of certain disorders
 
-&emsp;&emsp;For the purposes of sections 791, 793, and 794 of this title, the term “individual with a disability” does not include an individual on the basis of—
+&emsp;&emsp;For the purposes of sections 791, 793, and 794 of this title, the term “individual with adisability” does not include an individual on the basis of—
 
 &emsp;&emsp;&emsp;(i) transvestism, transsexualism, pedophilia, exhibitionism, voyeurism, gender identity disorders not resulting from physical impairments, or other sexual behavior disorders;
 
@@ -418,7 +418,7 @@ For the purposes of this chapter:
 
 #### (24) Local agency
 
-&emsp;The term “local agency” means an agency of a unit of general local government or of an Indian tribe (or combination of such units or tribes) which has an agreement with the designated State agency to conduct a vocational rehabilitation program under the supervision of such State agency in accordance with the State plan approved under section 721 of this title. Nothing in the preceding sentence of thisparagraph or in section 721 of this title shall be construed to prevent the local agency from arranging to utilize another local public or nonprofit agency to provide vocational rehabilitation services if such an arrangement is made part of the agreement specified in this paragraph.
+&emsp;The term “local agency” means an agency of a unit of general local government or of an Indian tribe (or combination of such units or tribes) which has an agreement with the designated State agency to conduct a vocational rehabilitation program under the supervision of such State agency in accordance with the State plan approved under section 721 of this title. Nothing in the preceding sentence of this paragraph or in section 721 of this title shall be construed to prevent the local agency from arranging to utilize another local public or nonprofit agency to provide vocational rehabilitation services if such an arrangement is made part of the agreement specified in this paragraph.
 
 #### (25) Local workforce investment board
 
@@ -498,7 +498,7 @@ For the purposes of this chapter:
 
 &emsp;&emsp;&emsp;(II) for whom competitive employment has been interrupted or intermittent as a result of a significant disability; and
 
-&emsp;&emsp;&emsp;(ii) who, because of the nature and severity of their disability, need intensive supported employment services for the period, and any extension, described in paragraph\(36)(C) and extended services after the transition described in paragraph (13)(C) in order to perform such work.
+&emsp;&emsp;&emsp;(ii) who, because of the nature and severity of their disability, need intensive supported employment services for the period, and any extension, described in paragraph (36)(C) and extended services after the transition described in paragraph (13)(C) in order to perform such work.
 
 #### (B) Certain transitional employment
 
@@ -510,7 +510,7 @@ For the purposes of this chapter:
 
 &emsp;&emsp;(A) are provided singly or in combination and are organized and made available in such a way as to assist an eligible individual to achieve competitive employment;
 
-&emsp;&emsp;(B) are based on a determination of the needs of an eligible individual, as specified in an individualized plan for employment; and
+&emsp;&emsp;(B) are based on a determination of the needs of an eligible individual, as specifiedin an individualized plan for employment; and
 
 &emsp;&emsp;(C) are provided by the designated State unit for a period of time not to extend beyond 18 months, unless under special circumstances the eligible individual and the rehabilitation counselor or coordinator involved jointly agree to extend the time in order to achieve the employment outcome identified in the individualized plan for employment.
 

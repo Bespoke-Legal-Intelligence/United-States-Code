@@ -1,6 +1,6 @@
 ### §1356. Seizures not within admiralty and maritime jurisdiction
 
-The district courts shall have original jurisdiction, exclusive of the courts of the States, ofany seizure under any law of the United States on land or upon waters not within admiralty and maritime jurisdiction, except matters within the jurisdiction of the Court of International Trade under section 1582 of this title.
+The district courts shall have original jurisdiction, exclusive of the courts of the States, of any seizure under any law of the United States on land or upon waters not within admiralty and maritime jurisdiction, except matters within the jurisdiction of the Court of International Trade under section 1582 of this title.
 
 (June 25, 1948, ch. 646, 62 Stat. 934; Pub. L. 96–417, title V, §508, Oct. 10, 1980, 94 Stat. 1743.)
 
@@ -14,21 +14,9 @@ Changes were made in arrangement and phraseology.
 
 #### Amendments
 
-1980—Pub. L. 96–417 inserted exception for matters within the jurisdiction of the Court of International Trade under section 1582 of this title.
+<b>1980</b>—Pub. L. 96–417 inserted exception for matters within the jurisdiction of the Court of International Trade under section 1582 of this title.
 
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–417 applicable with respect to civil actions commenced on or after the 90th day after Nov. 1, 1980, see section 701(c)(1)(B) of Pub. L. 96–417, set out as a note under section 251 of this title.
-
-#### Cross References
-
-Amount in controversy immaterial in action under this section, see Historical and Revision Notes under section 1331 of this title.
-
-Diversity of citizenship immaterial in action under this section, see Historical and Revision Notes under section 1332 of this title.
-
-Jurisdiction of—
-
-&emsp;&emsp;Admiralty, maritime and prize cases, see section 1333 of this title.
-
-&emsp;&emsp;Fine, penalty, or forfeiture, see section 1355 of this title.
 

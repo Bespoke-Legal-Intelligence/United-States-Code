@@ -26,7 +26,13 @@
 
 #### (2) Federal conveyance
 
-&emsp;The Federal land to be conveyed by the Secretary consists of approximately 639 acres, described as lots 1 through 12 located in the S1/2N1/2 and the N1/2N1/2N1/2S1/2 of section 1, Township 25 South, Range 18 East, Salt Lake base and meridian.
+&emsp;The Federal land to be conveyed by the Secretary consists of approximately 639 acres located in section 1, Township 25 South, Range 18 East, Salt Lake base and meridian, and more fully described as follows:
+
+&emsp;&emsp;(A) Lots 1 through 12.
+
+&emsp;&emsp;(B) The S1/2N1/2 of such section.
+
+&emsp;&emsp;(C) The N1/2N1/2N1/2S1/2 of such section.
 
 #### (3) Equivalent value
 
@@ -46,11 +52,13 @@
 
 &emsp;Nothing in this subsection precludes the State of Utah from authorizing or undertaking a surface or mineral activity that is authorized by a land management plan for the acquired land.
 
-#### (d) Implementation
+(Pub. L. 92–155, §8, as added Pub. L. 105–329, §2(e)(2), Oct. 30, 1998, 112 Stat. 3062; amended Pub. L. 106–176, title III, §302, Mar. 10, 2000, 114 Stat. 32.)
 
-Administrative actions necessary to implement the land exchange under this section shall be completed not later than 180 days after October 30, 1998.
+#### Amendments
 
-(Pub. L. 92–155, §8, as added Pub. L. 105–329, §2(e)(2), Oct. 30, 1998, 112 Stat. 3062.)
+2000—Subsec. (b)(2). Pub. L. 106–176, §302(1), substituted “located in section 1, Township 25 South, Range 18 East, Salt Lake base and meridian, and more fully described as follows:” and subpars. (A) to (C) for “, described as lots 1 through 12 located in the S1/2N1/2 and the N1/2N1/2N1/2S1/2 of section 1, Township 25 South, Range 18 East, Salt Lake base and meridian.”
+
+Subsec. (d). Pub. L. 106–176, §302(2), struck out heading and text of subsec. (d). Text read as follows: “Administrative actions necessary to implement the land exchange under this section shall be completed not later than 180 days after October 30, 1998.”
 
 #### Effect on School Trust Land
 

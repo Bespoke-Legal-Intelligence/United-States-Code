@@ -64,10 +64,6 @@ By no later than the date that is 6 years after August 23, 1988, the Secretary s
 
 (Pub. L. 93–618, title II, §246, as added Pub. L. 100–418, title I, §1423(d)(1), Aug. 23, 1988, 102 Stat. 1246; amended Pub. L. 101–382, title I, §136, Aug. 20, 1990, 104 Stat. 652.)
 
-#### Termination of Section
-
-<i>For termination of section by section 285 of Pub. L. 93–618, see Termination Date note set out preceding section 2271 of this title.</i>
-
 #### Prior Provisions
 
 A prior section, Pub. L. 93–618, title II, §246, Jan. 3, 1975, 88 Stat. 2027, contained transition provisions for events taking place during specified periods prior to the effective date of this part, prior to repeal by Pub. L. 97–35, title XXV, §2513(c), Aug. 13, 1981, 95 Stat. 889.
@@ -77,6 +73,10 @@ A prior section, Pub. L. 93–618, title II, §246, Jan. 3, 1975, 88 Stat. 2027,
 1990—Subsec. (a). Pub. L. 101–382, §136(1), struck out “and carry out” after “establish” in introductory provisions.
 
 Subsec. (d). Pub. L. 101–382, §136(2), substituted “6 years” for “3 years”.
+
+#### Termination Date
+
+No assistance, vouchers, allowances, or other payments may be provided under subparts A to C of this part after Sept. 30, 2001, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
 
 #### Supplemental Wage Allowances Regarded as Trade Readjustment Allowances
 

@@ -10,11 +10,11 @@ A member of the Board may be removed by the President for inefficiency, neglect 
 
 #### Second. Chairman; principal office; delegation of powers; oaths; seal; report
 
-The Mediation Board shall annually designate a member to act as chairman. The Board shall maintain its principal office in the District of Columbia, but it may meet at any other place whenever it deems it necessary so to do. TheBoard may designate one or more of its members to exercise the functions of the Board in mediation proceedings. Each member of the Board shall have power to administer oaths and affirmations. The Board shall have a seal which shall be judicially noticed. The Board shall make an annual report to Congress.
+The Mediation Board shall annually designate a member to act as chairman. The Board shall maintain its principal office in the District of Columbia, but it may meet at any other place whenever it deems it necessary so to do. The Board may designate one or more of its members to exercise the functions of the Board in mediation proceedings. Each member of the Board shall have power to administer oaths and affirmations. The Board shall have a seal which shall be judicially noticed. The Board shall make an annual report to Congress.
 
 #### Third. Appointment of experts and other employees; salaries of employees; expenditures
 
-The Mediation Board may (1) subject to the provisions of the civil service laws, appoint such experts and assistants to act in a confidential capacity and such other officers and employees as are essential to the effective transaction of the work of the Board; (2) in accordance with chapter 51 and subchapter III of chapter 53 of title 5, fix the salaries of such experts, assistants, officers, and employees; and (3) make such expenditures (including expenditures for rent and personal services at the seat of government and elsewhere, for law books, periodicals, and books of reference, and for printing and binding, and including expenditures for salaries and compensation, necessary traveling expenses and expenses actually incurred for subsistence, and other necessary expenses of the Mediation Board, Adjustment Board, Regional Adjustment Boards established under paragraph (w) of section 153 of this title, and boards of arbitration, in accordance with the provisions of this section and sections 153 and 157 of this title, respectively), as may be necessary for the execution of the functions vested in the Board, in the Adjustment Board and in the boards of arbitration, and as may be provided for by the Congress from time to time. All expenditures of the Board shall be allowed and paid on the presentation of itemized vouchers therefor approved by the chairman.
+The Mediation Board may (1) subject to the provisions of the civil service laws, appoint such experts and assistants to act in a confidential capacity and such other officers and employees as are essential to the effective transaction of the work of the Board; (2) in accordance with chapter 51 and subchapter III of chapter 53 of title 5, fix the salaries of such experts, assistants, officers, and employees; and (3) make such expenditures (including expenditures for rent and personal services at the seat of government and elsewhere, for law books, periodicals, and books of reference, and for printing and binding, and including expenditures for salaries and compensation, necessary traveling expenses and expenses actually incurred for subsistence, and other necessary expenses of the MediationBoard, Adjustment Board, Regional Adjustment Boards established under paragraph (w) of section 153 of this title, and boards of arbitration, in accordance with the provisions of this section and sections 153 and 157 of this title, respectively), as may be necessary for the execution of the functions vested in the Board, in the Adjustment Board and in the boards of arbitration, and as may be provided for by the Congress from time to time. All expenditures of the Board shall be allowed and paid on the presentation of itemized vouchers therefor approved by the chairman.
 
 #### Fourth. Delegation of powers and duties
 
@@ -53,6 +53,10 @@ Par. Third. Act Oct. 28, 1949, substituted “Classification Act of 1949” for 
 #### Repeals
 
 Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, §8, 80 Stat. 632, 655.
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in par. Second relating to the requirement that the Board make an annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 6th item on page 184 of House Document No. 103–7.
 
 #### Section Referred to in Other Sections
 

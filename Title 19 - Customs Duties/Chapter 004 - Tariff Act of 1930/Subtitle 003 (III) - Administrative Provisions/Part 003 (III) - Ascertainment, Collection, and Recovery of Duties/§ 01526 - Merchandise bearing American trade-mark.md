@@ -14,7 +14,7 @@ Any person dealing in any such merchandise may be enjoined from dealing therein 
 
 #### (d) Exemptions; publication in Federal Register; forfeitures; rules and regulations
 
-(1) The trademark provisions of this section and section 1124 of title 15, do not apply to the importation of articles accompanying any person arriving in the United States when such articles are for his personal use and not for sale if (A) such articles are within the limits of types and quantities determined by the Secretary pursuant to paragraph (2) of this subsection, and (B) such person has not been granted an exemptionunder this subsection within thirty days immediately preceding his arrival.
+(1) The trademark provisions of this section and section 1124 of title 15, do not apply to the importation of articles accompanying any person arriving in the United States when such articles are for his personal use and not for sale if (A) such articles are within the limits of types and quantities determined by the Secretary pursuant to paragraph (2) of this subsection, and (B) such person has not been granted an exemption under this subsection within thirty days immediately preceding his arrival.
 
 (2) The Secretary shall determine and publish in the Federal Register lists of the types of articles and the quantities of each which shall be entitled to the exemption provided by this subsection. In determining such quantities of particular types of trade-marked articles, the Secretary shall give such consideration as he deems necessary to the numbers of such articles usually purchased at retail for personal use.
 
@@ -73,12 +73,6 @@ Subsec. (e). Pub. L. 95–410, §211(c), added subsec. (e).
 #### Change of Name
 
 “Patent and Trademark Office” substituted for “Patent Office” in subsec. (a) pursuant to Pub. L. 93–596, §3, Jan. 2, 1975, 88 Stat. 1949, set out as a note under section 1 of Title 35, Patents.
-
-#### Cross References
-
-False designations of origin and false descriptions forbidden, see section 1125 of Title 15, Commerce and Trade.
-
-Importation of goods bearing infringing marks or names forbidden, see section 1124 of Title 15.
 
 #### Section Referred to in Other Sections
 

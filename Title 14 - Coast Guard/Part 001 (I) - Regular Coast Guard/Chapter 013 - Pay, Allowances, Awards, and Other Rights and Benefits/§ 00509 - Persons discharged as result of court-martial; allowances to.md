@@ -12,7 +12,3 @@ The Secretary may furnish persons discharged pursuant to the sentence of a Coast
 
 Section effective May 31, 1951, see section 5 of act May 5, 1950.
 
-#### Cross References
-
-Payment for apprehension of prisoners, see section 644 of this title.
-

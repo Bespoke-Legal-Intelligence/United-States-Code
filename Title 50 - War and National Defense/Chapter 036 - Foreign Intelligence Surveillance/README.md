@@ -16,14 +16,16 @@
 | (b) | Exclusion of certain information respecting foreign power targets. |
 | (c) | Additional affidavits or certifications. |
 | (d) | Additional information. |
+| (e) | Personal review by Attorney General. |
 | [1805\.](Subchapter%20001%20%28I%29%20-%20Electronic%20Surveillance/%C2%A7%2001805%20-%20Issuance%20of%20order.md) | Issuance or order. |
 | (a) | Necessary findings. |
-| (b) | Specifications and directions of orders. |
-| (c) | Exclusion of certain information respecting foreign power targets. |
-| (d) | Duration of order; extensions; review of circumstances under which information was acquired, retained or disseminated. |
-| (e) | Emergency orders. |
-| (f) | Testing of electronic equipment; discovering unauthorized electronic surveillance; training of intelligence personnel. |
-| (g) | Retention of certifications, applications and orders. |
+| (b) | Determination of probable cause. |
+| (c) | Specifications and directions of orders. |
+| (d) | Exclusion of certain information respecting foreign power targets. |
+| (e) | Duration of order; extensions; review of circumstances under which information was acquired, retained or disseminated. |
+| (f) | Emergency orders. |
+| (g) | Testing of electronic equipment; discovering unauthorized electronic surveillance; training of intelligence personnel. |
+| (h) | Retention of certifications, applications and orders. |
 | [1806\.](Subchapter%20001%20%28I%29%20-%20Electronic%20Surveillance/%C2%A7%2001806%20-%20Use%20of%20information.md) | Use of information. |
 | (a) | Compliance with minimization procedures; privileged communications; lawful purposes. |
 | (b) | Statement for disclosure. |
@@ -62,12 +64,14 @@
 | (a) | Submission by Federal officer; approval of Attorney General; contents. |
 | (b) | Additional affidavits or certifications. |
 | (c) | Additional information. |
+| (d) | Personal review by Attorney General. |
 | [1824\.](Subchapter%20002%20%28II%29%20-%20Physical%20Searches/%C2%A7%2001824%20-%20Issuance%20of%20order.md) | Issuance of order. |
 | (a) | Necessary findings. |
-| (b) | Specifications and directions of orders. |
-| (c) | Duration of order; extensions; assessment of compliance. |
-| (d) | Emergency orders. |
-| (e) | Retention of applications and orders. |
+| (b) | Determination of probable cause. |
+| (c) | Specifications and directions of orders. |
+| (d) | Duration of order; extensions; assessment of compliance. |
+| (e) | Emergency orders. |
+| (f) | Retention of applications and orders. |
 | [1825\.](Subchapter%20002%20%28II%29%20-%20Physical%20Searches/%C2%A7%2001825%20-%20Use%20of%20information.md) | Use of information. |
 | (a) | Compliance with minimization procedures; lawful purposes. |
 | (b) | Notice of search and identification of property seized, altered, or reproduced. |

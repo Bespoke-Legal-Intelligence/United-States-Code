@@ -20,7 +20,7 @@ The definitions and standards of identity promulgated in accordance with the pro
 
 (1) Any action for the issuance, amendment, or repeal of any regulation under section 343(j), 344(a), 346, 351(b), or 352(d) or (h) of this title, and any action for the amendment or repeal of any definition and standard of identity under section 341 of this title for any dairy product (including products regulated under parts 131, 133 and 135 of title 21, Code of Federal Regulations) shall be begun by a proposal made (A) by the Secretary on his own initiative, or (B) by petition of any interested person, showing reasonable grounds therefor, filed with the Secretary. The Secretary shall publish such proposal and shall afford all interested persons an opportunity to present their views thereon, orally or in writing. As soon as practicable thereafter, the Secretary shall by order act upon such proposal and shall make such order public. Except as provided in paragraph (2), the order shall become effective at such time as may be specified therein, but not prior to the day following the last day on which objections may be filed under such paragraph.
 
-(2) On or before the thirtieth day after the date on which an order entered under paragraph (1) is made public, any person who will be adversely affected by such order if placed in effect may file objections thereto with the Secretary, specifying with particularity the provisions of the order deemed objectionable, stating the grounds therefor, and requesting a public hearing upon such objections. Until final action upon such objections is taken by the Secretary under paragraph (3), the filing of such objections shall operate to stay the effectiveness of those provisions of the order to which the objections are made. As soon as practicable after the time for filing objections has expired the Secretary shall publish a notice in the Federal Register specifying those parts of the order which have been stayed by the filing of objections and, if no objections have been filed, stating that fact.
+(2) On or before the thirtieth day after the date on which an order entered under paragraph (1) is made public, any person who will be adversely affected by such order if placed in effect may file objections thereto with the Secretary, specifying with particularity the provisions of the order deemed objectionable, stating the grounds therefor, and requesting a public hearing upon such objections. Until final action upon such objections is taken by the Secretaryunder paragraph (3), the filing of such objections shall operate to stay the effectiveness of those provisions of the order to which the objections are made. As soon as practicable after the time for filing objections has expired the Secretary shall publish a notice in the Federal Register specifying those parts of the order which have been stayed by the filing of objections and, if no objections have been filed, stating that fact.
 
 (3) As soon as practicable after such request for a public hearing, the Secretary, after due notice, shall hold such a public hearing for the purpose of receiving evidence relevant and material to the issues raised by such objections. At the hearing, any interested person may be heard in person or by representative. As soon as practicable after completion of the hearing, the Secretary shall by order act upon such objections and make such order public. Such order shall be based only on substantial evidence of record at such hearing and shall set forth, as part of the order, detailed findings of fact on which the order is based. The Secretary shall specify in the order the date on which it shall take effect, except that it shall not be made to take effect prior to the ninetieth day after its publication unless the Secretary finds that emergency conditions exist necessitating an earlier effective date, in which event the Secretary shall specify in the order his findings as to such conditions.
 
@@ -52,7 +52,7 @@ A certified copy of the transcript of the record and proceedings under subsectio
 
 (D) For guidance documents that set forth existing practices or minor changes in policy, the Secretary shall provide for public comment upon implementation.
 
-(2) In developing guidance documents, the Secretary shall ensure uniform nomenclature for such documents and uniform internal procedures for approval of such documents. The Secretary shall ensure that guidance documents and revisions of such documents are properly dated and indicate the nonbinding nature of the documents. The Secretary shall periodically review all guidance documents and, where appropriate, revise such documents.
+(2) In developing guidance documents, the Secretary shall ensure uniform nomenclature forsuch documents and uniform internal procedures for approval of such documents. The Secretary shall ensure that guidance documents and revisions of such documents are properly dated and indicate the nonbinding nature of the documents. The Secretary shall periodically review all guidance documents and, where appropriate, revise such documents.
 
 (3) The Secretary, acting through the Commissioner, shall maintain electronically and update and publish periodically in the Federal Register a list of guidance documents. All such documents shall be made available to the public.
 
@@ -149,14 +149,6 @@ Collaboration.—The Secretary shall implement programs and policies that will f
 #### Hearings Pending on April 15, 1954, With Respect to Food Standards
 
 Provisions of this chapter in effect prior to Apr. 15, 1954, as applicable with respect to hearings begun prior to such date under subsection (e) of this section, regarding food standards, see Savings Provisions note set out under section 341 of this title.
-
-#### Federal Rules of Civil Procedure
-
-Admiralty and maritime rules of practice (which included libel procedures) were superseded, and civil and admiralty procedures in United States district courts were unified, effective July 1, 1966, see rule 1 and Supplemental Rules for Certain Admiralty and Maritime Claims, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-#### Cross References
-
-Pesticide chemical regulations, see section 346a of this title.
 
 #### Section Referred to in Other Sections
 

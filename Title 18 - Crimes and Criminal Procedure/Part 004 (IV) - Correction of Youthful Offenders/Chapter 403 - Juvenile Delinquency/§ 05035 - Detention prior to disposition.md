@@ -1,6 +1,6 @@
 ### §5035. Detention prior to disposition
 
-A juvenile alleged to be delinquent may be detained only in a juvenile facility or such other suitable place as the Attorney General may designate. Whenever possible, detention shall be in a foster home or community based facility located in or near his home community. The Attorney General shall not cause any juvenile alleged to be delinquent to be detained or confined in any institution in which the juvenile has regular contact with adult persons convicted of a crime or awaiting trial on criminal charges. Insofar as possible, alleged delinquents shall be kept separate from adjudicated delinquents. Every juvenile in custody shall be provided with adequate food, heat, light, sanitary facilities, bedding, clothing, recreation, education, and medical care, including necessary psychiatric, psychological, or other care and treatment.
+A juvenile alleged to be delinquent may be detained only in a juvenile facility or such other suitable place as the Attorney General may designate. Whenever possible, detention shall be in a foster home or community based facility located in or near his home community. The Attorney General shall not cause any juvenile alleged to be delinquent to be detained or confined in any institution in which the juvenile has regular contact with adult persons convicted of a crime or awaiting trial on criminal charges. Insofar as possible, alleged delinquents shall be kept separate from adjudicated delinquents.Every juvenile in custody shall be provided with adequate food, heat, light, sanitary facilities, bedding, clothing, recreation, education, and medical care, including necessary psychiatric, psychological, or other care and treatment.
 
 (June 25, 1948, ch. 645, 62 Stat. 858; Pub. L. 93–415, title V, §505, Sept. 7, 1974, 88 Stat. 1135.)
 
@@ -13,8 +13,4 @@ Minor changes were made in arrangement and phraseology.
 #### Amendments
 
 1974—Pub. L. 93–415 amended section generally, substituting “Detention prior to disposition”, for “Arrest, detention and bail” in section catchline, striking out provisions relating to discretionary power of arresting officer or marshal to confine juvenile in jail, provisions relating to bail and default of bail, and inserting provisions relating to mandatory separation of juvenile from adjudicated delinquents, and provisions relating to the physical conditions of confining facility.
-
-#### Cross References
-
-Power of committing magistrate judge generally, see section 3041 of this title.
 

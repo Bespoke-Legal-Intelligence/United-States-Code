@@ -16,7 +16,7 @@ The Administrator also shall establish procedures to be used by local educationa
 
 #### (c) Relationship to other laws
 
-Nothing contained in this subchapter shall be construed, interpreted, or applied to diminish in any way the level of protection required underany other State or Federal worker protection or other applicable laws.
+Nothing contained in this subchapter shall be construed, interpreted, or applied to diminish in any way the level of protection required under any other State or Federal worker protection or other applicable laws.
 
 #### (d) Other authority
 

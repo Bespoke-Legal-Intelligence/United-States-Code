@@ -1,5 +1,7 @@
 Part A—Hazardous Substance Response Trust Fund
 
+<i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
+
 
 ---
 

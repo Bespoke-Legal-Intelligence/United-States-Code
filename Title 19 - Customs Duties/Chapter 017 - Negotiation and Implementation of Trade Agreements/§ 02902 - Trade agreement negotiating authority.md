@@ -72,7 +72,7 @@
 
 (4) The 60-day period of time described in paragraph (3)(C) shall be computed in accordance with section 2903(e) of this title.
 
-(5) In any case in which there is an inconsistency between any provision of this Act and any bilateral free trade area agreement that entered into force and effect with respect to the United States before January 1, 1987, the provision shall not apply with respect to the foreign country that is party to that agreement.
+(5) In any case in which there is an inconsistency between any provision of this Act and any bilateral free trade area agreement that entered into force and effect with respect to the United States before January 1, 1987, the provision shallnot apply with respect to the foreign country that is party to that agreement.
 
 #### (d) Consultation with Congress before agreements entered into
 
@@ -100,7 +100,7 @@
 
 #### (2) Application of tariff proclamation authority
 
-&emsp;No proclamation under subsection (a) of this section to carry out the provisions regardingtariff barriers of a trade agreement that is entered into pursuant to paragraph (1) may take effect before the effective date of a bill that implements the provisions regarding nontariff barriers of a trade agreement that is entered into under such paragraph.
+&emsp;No proclamation under subsection (a) of this section to carry out the provisions regarding tariff barriers of a trade agreement that is entered into pursuant to paragraph (1) may take effect before the effective date of a bill that implements the provisions regarding nontariff barriers of a trade agreement that is entered into under such paragraph.
 
 #### (3) Application of implementing and “fast track” procedures
 

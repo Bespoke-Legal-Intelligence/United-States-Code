@@ -2,7 +2,7 @@
 
 The Congress finds and declares as follows:
 
-&emsp;(1) Native Hawaiians are a distinct and unique indigenous people with a historical continuity to the original inhabitants of the Hawaiian archipelago, whose society was organized as a nation and internationally recognized as such by the United States, Britain, France, and Japan, as evidenced by treaties governing friendship, commerce, and navigation.
+&emsp;(1) Native Hawaiians are a distinct and unique indigenous people with a historicalcontinuity to the original inhabitants of the Hawaiian archipelago, whose society was organized as a nation and internationally recognized as such by the United States, Britain, France, and Japan, as evidenced by treaties governing friendship, commerce, and navigation.
 
 &emsp;(2) At the time of the arrival of the first non-indigenous people in Hawai‘i in 1778, the Native Hawaiian people lived in a highly organized, self-sufficient subsistence social system based on a communal land tenure system with a sophisticated language, culture, and religion.
 
@@ -26,7 +26,7 @@ The Congress finds and declares as follows:
 
 &emsp;(12) The United States assumed special responsibilities for Native Hawaiian lands and resources at the time of the annexation of the Territory in 1898, upon adoption of the Hawaiian Homes Commission Act, 1920, and upon admission of the State of Hawai‘i into the Union in 1959, and has retained certain of those responsibilities.
 
-&emsp;(13) In recognition of the special relationship which exists between the United States and the Native Hawaiian people, the Congress has extended to Native Hawaiians the same rights and privileges accorded to American Indian, Alaska Native, Eskimo, and Aleut communities under the Native American Programs Act of 1974 \[42 U.S.C. 2991 et seq.\], the American Indian Religious Freedom Act \[42 U.S.C. 1996\], the National Museum of the American Indian Act \[20 U.S.C. 80q et seq.\], the Native American Graves Protection and Repatriation Act \[25 U.S.C. 3001 et seq.\], the National Historic Preservation Act \[16 U.S.C. 470 et seq.\], and the Native American Languages Act \[25 U.S.C. 2901 et seq.\].
+&emsp;(13) In recognition of the special relationship which exists between the United States and the Native Hawaiian people, the Congress has extended to Native Hawaiians the same rights and privileges accorded to American Indian, Alaska Native, Eskimo, and Aleut communities under the Native American Programs Act of 1974 \[42 U.S.C. 2991 et seq.\], the American Indian Religious Freedom Act \[42 U.S.C. 1996, 1996a\], the National Museum of the American Indian Act \[20 U.S.C. 80q et seq.\], the Native American Graves Protection and Repatriation Act \[25 U.S.C. 3001 et seq.\], the National Historic Preservation Act \[16 U.S.C. 470 et seq.\], and the Native American Languages Act \[25 U.S.C. 2901 et seq.\].
 
 &emsp;(14) In recognition of the special relationship which exists between the United States and the Native Hawaiian people, the Congress has enacted numerous special provisions of law for the benefit of Native Hawaiians in the areas of health, education, labor, and housing.
 
@@ -84,7 +84,7 @@ Public Law 103–150, referred to in par. (5), is Pub. L. 103–150, Nov. 23, 19
 
 A Joint Resolution to provide for annexing the Hawaiian Islands to the United States, approved July 7, 1898, referred to in par. (6), is act July 7, 1898, No. 55, 30 Stat. 750, known as the Newlands Resolution. For complete classification of this Act to the Code, see Tables.
 
-The Hawaiian Homes Commission Act, 1920, referred to in pars. (7), (8), (11), and (12), is act July 9, 1921, ch.42, 42 Stat. 108, as amended, which was classified generally to sections 691 to 718 of Title 48, Territories and Insular Possessions, and was omitted from the Code. Section 201 of the Act was classified to section 692 of Title 48.
+The Hawaiian Homes Commission Act, 1920, referred to in pars. (7), (8), (11), and (12), is act July 9, 1921, ch. 42, 42 Stat. 108, as amended, which was classified generally to sections 691 to 718 of Title 48, Territories and Insular Possessions, and was omitted from the Code. Section 201 of the Act was classified to section 692 of Title 48.
 
 Act of June 20, 1938, referred to in par. (9), is act June 20, 1938, ch. 530, 52 Stat. 781, which is classified to sections 391b, 391b–1, 392b, 392c, 396, and 396a of Title 16, Conservation. For complete classification of this Act to the Code, see Tables.
 
@@ -92,7 +92,7 @@ An Act to provide for the admission of the State of Hawaii into the Union, refer
 
 The Native American Programs Act of 1974, referred to in par. (13), is title VIII of Pub. L. 88–452, as added by Pub. L. 93–644, §11, Jan. 4, 1975, 88 Stat. 2324, which is classified generally to subchapter VIII (§2991 et seq.) of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 2991 of Title 42 and Tables.
 
-The American Indian Religious Freedom Act, referred to in par. (13), is Pub. L. 95–341, Aug. 11, 1978, 92 Stat. 469, which is classified to section 1996 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 1996 of Title 42 and Tables.
+The American Indian Religious Freedom Act, referred to in par. (13), is Pub. L. 95–341, Aug. 11, 1978, 92 Stat. 469, as amended, which is classified to sections 1996 and 1996a of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1996 of Title 42 and Tables.
 
 The National Museum of the American Indian Act, referred to in par. (13), is Pub. L. 101–185, Nov. 28, 1989, 103 Stat. 1336, which is classified generally to subchapter XIII (§80q et seq.) of chapter 3 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 80q of this title and Tables.
 

@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary of Defense shall prescribe regulations to ensure, to the maximum extent practicable, that professional and technical services are acquired on the basis of the task to be performed rather than on thebasis of the number of hours of services provided.
+In General.—The Secretary of Defense shall prescribe regulations to ensure, to the maximum extent practicable, that professional and technical services are acquired on the basis of the task to be performed rather than on the basis of the number of hours of services provided.
 
 (b)
 
@@ -20,7 +20,7 @@ Content of Regulations.—With respect to contracts to acquire services on the b
 
 &emsp;(6) provide guidance to contracting officers to ensure that any use of uncompensated overtime will not degrade the level of technical expertise required to perform the contract.
 
-(Added Pub. L. 101–510, div. A, title VIII, §834(a)(1), Nov. 5, 1990, 104 Stat. 1613; amended Pub. L. 102–25, title VII, §701(a), Apr. 6, 1991, 105 Stat. 113; Pub. L. 103–355, title I, §1004(c), Oct. 13, 1994, 108 Stat. 3253.)
+(Added Pub. L. 101–510, div. A, title VIII, §834(a)(1), Nov. 5, 1990, 104 Stat. 1613; amended Pub. L. 102–25, title VII, §701(a), Apr. 6, 1991, 105Stat. 113; Pub. L. 103–355, title I, §1004(c), Oct. 13, 1994, 108 Stat. 3253.)
 
 #### Prior Provisions
 

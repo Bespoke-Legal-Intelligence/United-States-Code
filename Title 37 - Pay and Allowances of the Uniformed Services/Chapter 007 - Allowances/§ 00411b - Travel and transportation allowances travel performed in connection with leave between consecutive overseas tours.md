@@ -10,7 +10,7 @@
 
 #### Amendments
 
-1996—Subsec. (a)(2). Pub. L. 104–201 inserted at end “If the member is unable to undertake the travel before the end of such one-year period as a result of duty in connection with a contingency operation, the member may defer the travel for one additional year beginning on the date the duty of the member in connection with the contingency operation ends.”
+1996—Subsec. (a)(2). Pub. L. 104–201 inserted at end “If the member is unable to undertake the travel beforethe end of such one-year period as a result of duty in connection with a contingency operation, the member may defer the travel for one additional year beginning on the date the duty of the member in connection with the contingency operation ends.”
 
 1991—Subsec. (a)(2). Pub. L. 102–190 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “If, because of military necessity, a member authorized travel and transportation allowances under this subsection is denied leave between the two tours of duty outside the 48 contiguous States and the District of Columbia, the member shall be authorized to use such travel and transportation allowances from his current duty station at the time the member is first granted leave—
 

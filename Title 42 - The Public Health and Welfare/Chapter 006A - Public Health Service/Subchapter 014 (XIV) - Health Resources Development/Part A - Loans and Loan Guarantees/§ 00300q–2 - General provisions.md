@@ -52,7 +52,7 @@
 
 #### (d) Loan and loan guarantee fund; establishment; amounts authorized to be appropriated; issuance, purchase, and sale of notes, obligations, etc.; interest rates; public debt transactions
 
-(1) There is established in the Treasury a loan and loan guarantee fund (hereinafter in this subsection referred to as the “fund”) which shall beavailable to the Secretary without fiscal year limitation, in such amounts as may be specified from time to time in appropriations Acts—
+(1) There is established in the Treasury a loan and loan guarantee fund (hereinafter in this subsection referred to as the “fund”) which shall be available to the Secretary without fiscal year limitation, in such amounts as may be specified from time to time in appropriations Acts—
 
 &emsp;(A) to enable him to make loans under this part,
 

@@ -22,7 +22,7 @@ The Secretary may not make a grant under subsection (a) of this section for a me
 
 #### (2) Geographic boundaries
 
-&emsp;For purposes of eligibility under this part, the boundaries of each metropolitan area are the boundaries that were in effect for the area for fiscal year 1994.
+&emsp;For purposes of eligibility under this part, the boundaries of each metropolitan area arethe boundaries that were in effect for the area for fiscal year 1994.
 
 #### (d) Continued status as eligible area
 
@@ -60,27 +60,57 @@ In General.—Except as provided in subsection (b), this Act \[enacting sections
 
 “(b)
 
-Exception.—The amendments made by sections 3(a), 5, 6, and 7 of this Act to sections 2601(c), 2601(d), 2603(a), 2618(b), 2626, 2677, and 2691 of the Public HealthService Act \[sections 300ff–11(c), (d), 300ff–13(a), 300ff–28(b), 300ff–34, 300ff–77, and 300ff–101 of this title\], shall become effective on the date of enactment of this Act \[May 20, 1996\].”
+Exception.—The amendments made by sections 3(a), 5, 6, and 7 of this Act to sections 2601(c), 2601(d), 2603(a), 2618(b), 2626, 2677, and 2691 of the Public Health Service Act \[sections 300ff–11(c), (d), 300ff–13(a), 300ff–28(b), 300ff–34, 300ff–77, and 300ff–101 of this title\], shall become effective on the date of enactment of this Act \[May 20, 1996\].”
 
-#### Study Regarding HIV Disease in Rural Areas
+#### Studies by Institute of Medicine
 
-Section 403 of Pub. L. 101–381 provided that:
+Pub. L. 106–345, title V, §501, Oct. 20, 2000, 114 Stat. 1352, provided that:
 
 “(a)
 
-In General.—The Secretary of Health and Human Services, after consultation with the Director of the Office of Rural Health Policy, shall—
+State Surveillance Systems on Prevalence of HIV.—The Secretary of Health and Human Services (referred to in this section as the ‘Secretary’) shall request the Institute of Medicine to enter into an agreement with the Secretary under which such Institute conducts a study to provide the following:
 
-&emsp;“(1) conduct a study for the purpose of estimating the incidence and prevalence in rural areas of cases of acquired immune deficiency syndrome and cases of infection with the etiologic agent for such syndrome; and
+&emsp;“(1) A determination of whether the surveillance system of each of the States regarding the human immunodeficiency virus provides for the reporting of cases of infection with the virus in a manner that is sufficient to provide adequate and reliable information on the number of such cases and the demographic characteristics of such cases, both for the State in general and for specific geographic areas in the State.
 
-&emsp;“(2) in carrying out such study, determine the adequacy in rural areas of services for diagnosing such cases and providing treatment for such cases that are in the early stages of infection.
+&emsp;“(2) A determination of whether such information is sufficiently accurate for purposes of formula grants under parts A and B of title XXVI of the Public Health Service Act \[this part and part B of this subchapter\].
+
+&emsp;“(3) With respect to any State whose surveillance system does not provide adequate and reliable information on cases of infection with the virus, recommendations regarding the manner in which the State can improve the system.
 
 “(b)
 
-Report.—Not later than 1 year after the date of the enactment of this Act \[Aug. 18, 1990\], the Secretary of Health and Human Services shall complete the study required under subsection (a) and prepare and submit, to the appropriate committees of Congress a report describing the findings made as a result of such study.
+Relationship Between Epidemiological Measures and Health Care for Certain Individuals With HIV Disease.—
+
+&emsp;“(1)
+
+In general.—The Secretary shall request the Institute of Medicine to enter into an agreement with the Secretary under which such Institute conducts a study concerning the appropriate epidemiological measures and their relationship to the financing and delivery of primary care and health-related support services for low-income, uninsured, and under-insured individuals with HIV disease.
+
+&emsp;“(2)
+
+Issues to be considered.—The Secretary shall ensure that the study under paragraph (1) considers the following:
+
+&emsp;&emsp;“(A) The availability and utility of health outcomes measures and data for HIV primary care and support services and the extent to which those measures and data could be used to measure the quality of such funded services.
+
+&emsp;&emsp;“(B) The effectiveness and efficiency of service delivery (including the quality of services, health outcomes, and resource use) within the context of a changing health care and therapeutic environment, as well as the changing epidemiology of the epidemic, including determining the actual costs, potential savings, and overall financial impact of modifying the program under title XIX of the Social Security Act \[section 1396 et seq. of this title\] to establish eligibility for medical assistance under such title on the basis of infection with the human immunodeficiency virus rather than providing such assistance only if the infection has progressed to acquired immune deficiency syndrome.
+
+&emsp;&emsp;“(C) Existing and needed epidemiological data and other analytic tools for resource planning and allocation decisions, specifically for estimating severity of need of a community and the relationship to the allocations process.
+
+&emsp;&emsp;“(D) Other factors determined to be relevant to assessing an individual's or community's ability to gain and sustain access to quality HIV services.
 
 “(c)
 
-Authorization of Appropriations.—There are authorized to be appropriated to carry out this section, such sums as may be necessary for each of the fiscal years 1991 through 1995.”
+Other Entities.—If the Institute of Medicine declines to conduct a study under this section, the Secretary shall enter into an agreement with another appropriate public or nonprofit private entity to conduct the study.
+
+“(d)
+
+Report.—The Secretary shall ensure that—
+
+&emsp;“(1) not later than 3 years after the date of the enactment of this Act \[Oct. 20, 2000\], the study required in subsection (a) is completed and a report describing the findings made in the study is submitted to the appropriate committees of the Congress; and
+
+&emsp;“(2) not later than 2 years after the date of the enactment of this Act, the study required in subsection (b) is completed and a report describing the findings made in the study is submitted to such committees.”
+
+#### Study Regarding HIV Disease in Rural Areas
+
+Pub. L. 101–381, title IV, §403, Aug. 18, 1990, 104 Stat. 622 directed Secretary of Health and Human Services, after consultation with Director of the Office of Rural Health Policy, to conduct study for purpose of estimating incidence and prevalence in rural areas of cases of acquired immune deficiency syndrome and cases of infection with etiologic agent for such syndrome and determine adequacy in rural areas of services for diagnosing and providing treatment for such cases that are in early stages of infection, and provided that, not later than 1 year after Aug. 18, 1990, Secretary was to submit report to Congress.
 
 #### Section Referred to in Other Sections
 

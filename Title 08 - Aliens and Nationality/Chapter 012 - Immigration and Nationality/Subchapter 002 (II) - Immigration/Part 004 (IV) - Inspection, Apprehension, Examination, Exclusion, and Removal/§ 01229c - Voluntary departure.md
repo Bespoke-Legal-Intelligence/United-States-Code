@@ -8,7 +8,47 @@
 
 #### (2) Period
 
-&emsp;Permission to depart voluntarily under this subsection shall not be valid for a period exceeding 120 days.
+#### (A) In general
+
+&emsp;&emsp;Subject to subparagraph (B), permission to depart voluntarily under this subsection shall not be valid for a period exceeding 120 days.
+
+#### (B) Three-year pilot program waiver
+
+&emsp;&emsp;During the period October 1, 2000, through September 30, 2003, and subject to subparagraphs (C) and (D)(ii), the Attorney General may, in the discretion of the Attorney General for humanitarian purposes, waive application of subparagraph (A) in the case of an alien—
+
+&emsp;&emsp;&emsp;(i) who was admitted to the United States as a nonimmigrant visitor (described in section 1101(a)(15)(B) of this title) under the provisions of the visa waiver pilot program established pursuant to section 1187 of this title, seeks the waiver for the purpose of continuing to receive medical treatment in the United States from a physician associated with a health care facility, and submits to the Attorney General—
+
+&emsp;&emsp;&emsp;&emsp;(I) a detailed diagnosis statement from the physician, which includes the treatment being sought and the expected time period the alien will be required to remain in the United States;
+
+&emsp;&emsp;&emsp;&emsp;(II) a statement from the health care facility containing an assurance that the alien's treatment is not being paid through any Federal or State public health assistance, that the alien's account has no outstanding balance, and that such facility will notify the Service when the alien is released or treatment is terminated; and
+
+&emsp;&emsp;&emsp;&emsp;(III) evidence of financial ability to support the alien's day-to-day expenses while in the United States (including the expenses of any family member described in clause (ii)) and evidence that any such alien or family member is not receiving any form of public assistance; or
+
+&emsp;&emsp;&emsp;(ii) who—
+
+&emsp;&emsp;&emsp;&emsp;(I) is a spouse, parent, brother, sister, son, daughter, or other family member of a principal alien described in clause (i); and
+
+&emsp;&emsp;&emsp;&emsp;(II) entered the United States accompanying, and with the same status as, such principal alien.
+
+#### (C) Waiver limitations
+
+&emsp;&emsp;(i) Waivers under subparagraph (B) may be granted only upon a request submitted by a Service district office to Service headquarters.
+
+&emsp;&emsp;(ii) Not more than 300 waivers may be granted for any fiscal year for a principal alien under subparagraph (B)(i).
+
+&emsp;&emsp;(iii)(I) Except as provided in subclause (II), in the case of each principal alien described in subparagraph (B)(i) not more than one adult may be granted a waiver under subparagraph (B)(ii).
+
+&emsp;&emsp;(II) Not more than two adults may be granted a waiver under subparagraph (B)(ii) in a case in which—
+
+&emsp;&emsp;&emsp;(aa) the principal alien described in subparagraph (B)(i) is a dependent under the age of 18; or
+
+&emsp;&emsp;&emsp;(bb) one such adult is age 55 or older or is physically handicapped.
+
+#### (D) Report to Congress; suspension of waiver authority
+
+&emsp;&emsp;(i) Not later than March 30 of each year, the Commissioner shall submit to the Congress an annual report regarding all waivers granted under subparagraph (B) during the preceding fiscal year.
+
+&emsp;&emsp;(ii) Notwithstanding any other provision of law, the authority of the Attorney General under subparagraph (B) shall be suspended during any period in which an annual report under clause (i) is past due and has not been submitted.
 
 #### (3) Bond
 
@@ -56,7 +96,11 @@ The Attorney General may by regulation limit eligibility for voluntary departure
 
 No court shall have jurisdiction over an appeal from denial of a request for an order of voluntary departure under subsection (b) of this section, nor shall any court order a stay of an alien's removal pending consideration of any claim with respect to voluntary departure.
 
-(June 27, 1952, ch. 477, title II, ch. 4, §240B, as added Pub. L. 104–208, div. C, title III, §304(a)(3), Sept. 30, 1996, 110 Stat. 3009–596.)
+(June 27, 1952, ch. 477, title II, ch. 4, §240B, as added Pub. L. 104–208, div. C, title III, §304(a)(3), Sept. 30, 1996, 110 Stat. 3009–596; amended Pub. L. 106–406, §2, Nov. 1, 2000, 114 Stat. 1755.)
+
+#### Amendments
+
+2000—Subsec. (a)(2). Pub. L. 106–406 amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “Permission to depart voluntarily under this subsection shall not be valid for a period exceeding 120 days.”
 
 #### Effective Date
 

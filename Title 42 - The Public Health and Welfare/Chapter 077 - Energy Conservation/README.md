@@ -13,38 +13,35 @@
 
 |  |  |
 | :--- | ---: |
-| [6211\.](Subchapter%20001%20%28I%29%20-%20Domestic%20Supply%20Availability/Part%20A%20-%20Domestic%20Supply/%C2%A7%2006211%20-%20Incentives%20to%20develop%20underground%20coal%20mines.md) | Incentives to develop underground coal mines. |
-| (a) | Loan guarantees. |
-| (b) | Secretary's determinations prerequisite to loan guarantee; maximum guarantees; aggregate outstanding guaranteed loans; new underground coal mines. |
-| (c) | Construction and definition of terms. |
-| (d) | Rules and regulations. |
-| (e) | Recordkeeping. |
+| [6211\.](Subchapter%20001%20%28I%29%20-%20Domestic%20Supply%20Availability/Part%20A%20-%20Domestic%20Supply/%C2%A7%2006211%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93469%2C%20title%20I%2C%20%C2%A7103%281%29%2C%20Nov.%209%2C%202000%2C%20114%20Stat.%202029.md) | Repealed. |
 | [6212\.](Subchapter%20001%20%28I%29%20-%20Domestic%20Supply%20Availability/Part%20A%20-%20Domestic%20Supply/%C2%A7%2006212%20-%20Domestic%20use%20of%20energy%20supplies%20and%20related%20materials%20and%20equipment.md) | Domestic use of energy supplies and related materials and equipment. |
 | (a) | Export restrictions. |
 | (b) | Exemptions. |
 | (c) | Implementing restrictions. |
 | (d) | Restrictions and national interest. |
 | (e) | Waiver of notice and comment period. |
-| (f) | Quarterly reports to Congress. |
 | [6213\.](Subchapter%20001%20%28I%29%20-%20Domestic%20Supply%20Availability/Part%20A%20-%20Domestic%20Supply/%C2%A7%2006213%20-%20Certain%20lease%20bidding%20arrangements%20prohibited.md) | Certain lease bidding arrangements prohibited. |
 | (a) | Promulgation of rule by Secretary of the Interior. |
 | (b) | Definitions. |
 | (c) | Exemptions. |
 | (d) | Unitization of producing fields. |
 | (e) | Report to Congress covering extension of restrictions on joint bidding. |
-| [6214\.](Subchapter%20001%20%28I%29%20-%20Domestic%20Supply%20Availability/Part%20A%20-%20Domestic%20Supply/%C2%A7%2006214%20-%20Production%20of%20oil%20or%20gas%20at%20the%20maximum%20efficient%20rate%20and%20temporary%20emergency%20production%20rate.md) | Production of oil or gas at the maximum efficient rate and temporary emergency production rate. |
-| (a) | Determination by Secretary of the Interior. |
-| (b) | Determination of rate of production by States; required production. |
-| (c) | Fields composed of Federal and non-Federal land. |
-| (d) | Action to recover just compensation. |
-| (e) | “Maximum efficient rate of production” and “temporary emergency production rate” defined. |
-| (f) | Naval Petroleum Reserves. |
+| [6214\.](Subchapter%20001%20%28I%29%20-%20Domestic%20Supply%20Availability/Part%20A%20-%20Domestic%20Supply/%C2%A7%2006214%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93469%2C%20title%20I%2C%20%C2%A7103%283%29%2C%20Nov.%209%2C%202000%2C%20114%20Stat.%202029.md) | Repealed. |
 | [6215\.](Subchapter%20001%20%28I%29%20-%20Domestic%20Supply%20Availability/Part%20A%20-%20Domestic%20Supply/%C2%A7%2006215%20-%20Major%20fuel%20burning%20stationary%20source.md) | Major fuel burning stationary source. |
 | (a) | Restrictions on issuance of orders or rules by Governor pursuant to section 7425 of this title. |
 | (b) | Petition to President. |
 | (c) | Action to be taken by President. |
 | (d) | Effect on authority of President to allocate coal or coal derivatives. |
 | (e) | Definitions. |
+| [6216\.](Subchapter%20001%20%28I%29%20-%20Domestic%20Supply%20Availability/Part%20A%20-%20Domestic%20Supply/%C2%A7%2006216%20-%20Annual%20Home%20Heating%20Readiness%20Reports.md) | Annual Home Heating Readiness Reports. |
+| (a) | In general. |
+| (b) | Contents. |
+| (c) | Information requests. |
+| [6217\.](Subchapter%20001%20%28I%29%20-%20Domestic%20Supply%20Availability/Part%20A%20-%20Domestic%20Supply/%C2%A7%2006217%20-%20Scientific%20inventory%20of%20oil%20and%20gas%20reserves.md) | Scientific inventory of oil and gas reserves. |
+| (a) | In general. |
+| (b) | Regular update. |
+| (c) | Inventory. |
+| (d) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -54,57 +51,35 @@
 | :--- | ---: |
 | [6231\.](Subchapter%20001%20%28I%29%20-%20Domestic%20Supply%20Availability/Part%20B%20-%20Strategic%20Petroleum%20Reserve/%C2%A7%2006231%20-%20Congressional%20finding%20and%20declaration%20of%20policy.md) | Congressional finding and declaration of policy. |
 | [6232\.](Subchapter%20001%20%28I%29%20-%20Domestic%20Supply%20Availability/Part%20B%20-%20Strategic%20Petroleum%20Reserve/%C2%A7%2006232%20-%20Definitions.md) | Definitions. |
-| [6233\.](Subchapter%20001%20%28I%29%20-%20Domestic%20Supply%20Availability/Part%20B%20-%20Strategic%20Petroleum%20Reserve/%C2%A7%2006233%20-%20Strategic%20Petroleum%20Reserve%20Office.md) | Strategic Petroleum Reserve Office. |
+| [6233\.](Subchapter%20001%20%28I%29%20-%20Domestic%20Supply%20Availability/Part%20B%20-%20Strategic%20Petroleum%20Reserve/%C2%A7%2006233%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93469%2C%20title%20I%2C%20%C2%A7103%286%29%2C%20Nov.%209%2C%202000%2C%20114%20Stat.%202030.md) | Repealed. |
 | [6234\.](Subchapter%20001%20%28I%29%20-%20Domestic%20Supply%20Availability/Part%20B%20-%20Strategic%20Petroleum%20Reserve/%C2%A7%2006234%20-%20Strategic%20Petroleum%20Reserve.md) | Strategic Petroleum Reserve. |
 | (a) | Establishment. |
-| (b) | Strategic Petroleum Reserve Plan. |
-| (c) | Levels of crude oil to be stored. |
-| (d) | Plan objectives. |
-| (e) | Plan provisions. |
+| (b) | Authority of Secretary. |
+| (c) | to (e) Repealed. |
 | (f) | Purpose of drawdown and distribution; requests for funds for storage. |
-| [6235\.](Subchapter%20001%20%28I%29%20-%20Domestic%20Supply%20Availability/Part%20B%20-%20Strategic%20Petroleum%20Reserve/%C2%A7%2006235%20-%20Early%20Storage%20Reserve.md) | Early Storage Reserve. |
-| (a) | Establishment; design; ownership of stored petroleum products; minimum number of barrels of petroleum products in Reserve if Strategic Petroleum Reserve Plan has not become effective. |
-| (b) | Meeting regional needs for residual fuel oil and refined petroleum products. |
-| (c) | Early Storage Reserve Plan. |
-| [6236\.](Subchapter%20001%20%28I%29%20-%20Domestic%20Supply%20Availability/Part%20B%20-%20Strategic%20Petroleum%20Reserve/%C2%A7%2006236%20-%20Industrial%20Petroleum%20Reserve.md) | Industrial Petroleum Reserve. |
-| (a) | Establishment. |
-| (b) | Amounts of petroleum products required to be stored by importers and refiners; exemption of products from tariff or import license fee. |
-| (c) | Implementation of section by Secretary. |
-| [6237\.](Subchapter%20001%20%28I%29%20-%20Domestic%20Supply%20Availability/Part%20B%20-%20Strategic%20Petroleum%20Reserve/%C2%A7%2006237%20-%20Regional%20Petroleum%20Reserve.md) | Regional Petroleum Reserve. |
-| (a) | Federal Energy Administration Regions in which Reserve may be established and maintained. |
-| (b) | Level of Reserve. |
-| (c) | Substitutions for all or part of volume stored in Reserve. |
-| [6238\.](Subchapter%20001%20%28I%29%20-%20Domestic%20Supply%20Availability/Part%20B%20-%20Strategic%20Petroleum%20Reserve/%C2%A7%2006238%20-%20Utility%20Reserves%3B%20Coal%20Reserves%3B%20Remote%20Crude%20Oil%20and%20Natural%20Gas%20Reserves.md) | Utility Reserves; Coal Reserves; Remote Crude Oil and Natural Gas Reserves. |
-| [6239\.](Subchapter%20001%20%28I%29%20-%20Domestic%20Supply%20Availability/Part%20B%20-%20Strategic%20Petroleum%20Reserve/%C2%A7%2006239%20-%20Congressional%20review%20of%20Strategic%20Petroleum%20Reserve%20Plan%3B%20implementation.md) | Congressional review of Strategic Petroleum Reserve Plan; implementation. |
-| (a) | Congressional review of Strategic Petroleum Reserve Plan as prerequisite to implementation. |
-| (b) | Effective date of Strategic Petroleum Reserve Plan. |
-| (c) | Preparation and transmittal to Congress of proposals for designing, constructing, and filling storage or related facilities; statement accompanying proposal. |
-| (d) | Preparation and transmittal to Congress of amendments to Strategic Petroleum Reserve Plan or Early Storage Reserve Plan; statement accompanying amendment. |
-| (e) | Presidential determination; 60-day period. |
-| (f) | Powers of Secretary in implementing Strategic Petroleum Reserve Plan, Early Storage Reserve Plan, proposals, and amendments. |
+| 6235 to 6238. Repealed. |  |
+| [6239\.](Subchapter%20001%20%28I%29%20-%20Domestic%20Supply%20Availability/Part%20B%20-%20Strategic%20Petroleum%20Reserve/%C2%A7%2006239%20-%20Development%2C%20operation%2C%20and%20maintenance%20of%20the%20Reserve.md) | Development, operation, and maintenance of the Reserve. |
+| (a) | to (e) Repealed. |
+| (f) | Powers of Secretary to develop and operate the Strategic Petroleum Reserve. |
 | (g) | Acquisition of property by negotiation as prerequisite to condemnation. |
-| (h) | Use of interim storage facilities; environmental considerations for existing facilities. |
-| (i) | Report to Congress on results of negotiations for enlargement of Strategic Petroleum Reserve to one billion barrels. |
-| (j) | Amendment of Strategic Petroleum Reserve Plan to include plans for completion of storage of one billion barrels. |
+| (h), | (i) Repealed. |
+| (j) | Expansion beyond 700,000,000 barrels. |
 | (k) | Exemption from subtitle IV of title 49. |
-| (<i>l</i>) | Drawdown plan amendments during implementation. |
+| (<i>l</i>) | Rulemaking during drawdown and sale. |
 | [6240\.](Subchapter%20001%20%28I%29%20-%20Domestic%20Supply%20Availability/Part%20B%20-%20Strategic%20Petroleum%20Reserve/%C2%A7%2006240%20-%20Petroleum%20products%20for%20storage%2C%20transport%2C%20or%20exchange.md) | Petroleum products for storage, transport, or exchange. |
 | (a) | Eligibility of petroleum products. |
 | (b) | Objectives in determining manner of acquisition. |
-| (c) | Fill operations by President. |
-| (d) | Crude oil from Naval Petroleum Reserve Numbered 1; reduction in fill-rate requirements. |
-| (e) | Suspensions of fill operations, etc., during emergency situations; applicability, etc. |
+| (c) | to (e) Repealed. |
 | (f) | Predrawdown diversion. |
-| (g) | Test program of storage of refined petroleum products. |
+| (g) | Repealed. |
 | (h) | Purchase from stripper well properties. |
-| [6241\.](Subchapter%20001%20%28I%29%20-%20Domestic%20Supply%20Availability/Part%20B%20-%20Strategic%20Petroleum%20Reserve/%C2%A7%2006241%20-%20Drawdown%20and%20distribution%20of%20Reserve.md) | Drawdown and distribution of Reserve. |
+| [6241\.](Subchapter%20001%20%28I%29%20-%20Domestic%20Supply%20Availability/Part%20B%20-%20Strategic%20Petroleum%20Reserve/%C2%A7%2006241%20-%20Drawdown%20and%20sale%20of%20petroleum%20products.md) | Drawdown and sale of petroleum products. |
 | (a) | Power of Secretary. |
-| (b) | Drawdown and distribution of Reserve in accordance with Distribution Plan contained in Strategic Petroleum Reserve Plan. |
-| (c) | Drawdown and distribution of Early Storage Reserve in accordance with Distribution Plan contained in Early Storage Reserve Plan. |
-| (d) | Presidential finding prerequisite to implementation of Distribution Plan. |
-| (e) | Price levels and allocation procedures. |
-| (f) | Removal or disposal of products in Industrial Petroleum Reserve. |
-| (g) | Directive to carry out test drawdown. |
+| (b), | (c) Repealed. |
+| (d) | Presidential finding prerequisite to drawdown and sale. |
+| (e) | Sales procedures. |
+| (f) | Repealed. |
+| (g) | Directive to carry out test drawdown and sale. |
 | (h) | Prevention or reduction of adverse impact of severe domestic energy supply interruptions. |
 | (i) | Exchange of withdrawn products. |
 | (j) | Purchases from Strategic Petroleum Reserve by entities in insular areas of United States and Freely Associated States. |
@@ -113,20 +88,22 @@
 | (a) | Preparation and maintenance. |
 | (b) | Audit of operations of storage facility. |
 | (c) | Access to and inspection of records or accounts and storage facilities. |
-| [6244\.](Subchapter%20001%20%28I%29%20-%20Domestic%20Supply%20Availability/Part%20B%20-%20Strategic%20Petroleum%20Reserve/%C2%A7%2006244%20-%20Report%20on%20development%20of%20Naval%20Petroleum%20Reserve%20Number%204.md) | Report on development of Naval Petroleum Reserve Number 4. |
-| [6245\.](Subchapter%20001%20%28I%29%20-%20Domestic%20Supply%20Availability/Part%20B%20-%20Strategic%20Petroleum%20Reserve/%C2%A7%2006245%20-%20Reports%20by%20Secretary%20to%20Congress%3B%20contents.md) | Reports by Secretary to Congress; contents. |
+| [6244\.](Subchapter%20001%20%28I%29%20-%20Domestic%20Supply%20Availability/Part%20B%20-%20Strategic%20Petroleum%20Reserve/%C2%A7%2006244%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93469%2C%20title%20I%2C%20%C2%A7103%2816%29%2C%20Nov.%209%2C%202000%2C%20114%20Stat.%202032.md) | Repealed. |
+| [6245\.](Subchapter%20001%20%28I%29%20-%20Domestic%20Supply%20Availability/Part%20B%20-%20Strategic%20Petroleum%20Reserve/%C2%A7%2006245%20-%20Annual%20report.md) | Annual report. |
 | [6246\.](Subchapter%20001%20%28I%29%20-%20Domestic%20Supply%20Availability/Part%20B%20-%20Strategic%20Petroleum%20Reserve/%C2%A7%2006246%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [6247\.](Subchapter%20001%20%28I%29%20-%20Domestic%20Supply%20Availability/Part%20B%20-%20Strategic%20Petroleum%20Reserve/%C2%A7%2006247%20-%20SPR%20Petroleum%20Account.md) | SPR Petroleum Account. |
 | (a) | Establishment. |
 | (b) | Obligation of funds for acquisition, transportation, and injection of petroleum products into SPR. |
 | (c) | Provision and deposit of funds. |
 | (d) | Off-budgeting procedures. |
-| (e) | Interim storage facilities. |
 | [6247a.](Subchapter%20001%20%28I%29%20-%20Domestic%20Supply%20Availability/Part%20B%20-%20Strategic%20Petroleum%20Reserve/%C2%A7%2006247a%20-%20Use%20of%20underutilized%20facilities.md) | Use of underutilized facilities. |
 | (a) | Authority. |
 | (b) | Protection of facilities. |
 | (c) | Access to stored oil. |
 | (d) | Availability of funds. |
+| [6247b.](Subchapter%20001%20%28I%29%20-%20Domestic%20Supply%20Availability/Part%20B%20-%20Strategic%20Petroleum%20Reserve/%C2%A7%2006247b%20-%20Purchase%20of%20oil%20from%20marginal%20wells.md) | Purchase of oil from marginal wells. |
+| (a) | In general. |
+| (b) | Definition of marginal well. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -142,13 +119,10 @@
 | (e) | Binding arbitration. |
 | (f) | Availability of funds. |
 | [6249a.](Subchapter%20001%20%28I%29%20-%20Domestic%20Supply%20Availability/Part%20C%20-%20Authority%20to%20Contract%20for%20Petroleum%20Product%20Not%20Owned%20by%20United%20States/%C2%A7%2006249a%20-%20Implementation.md) | Implementation. |
-| (a) | Amendment to plan not required. |
-| (b) | Fill rate requirement. |
+| (a), | (b) Repealed. |
 | (c) | Legal status regarding other law. |
 | (d) | Return of product. |
-| [6249b.](Subchapter%20001%20%28I%29%20-%20Domestic%20Supply%20Availability/Part%20C%20-%20Authority%20to%20Contract%20for%20Petroleum%20Product%20Not%20Owned%20by%20United%20States/%C2%A7%2006249b%20-%20Contracts%20for%20which%20no%20implementing%20legislation%20is%20needed.md) | Contracts for which no implementing legislation is needed. |
-| (a) | Congressional review. |
-| (b) | Effective date. |
+| [6249b.](Subchapter%20001%20%28I%29%20-%20Domestic%20Supply%20Availability/Part%20C%20-%20Authority%20to%20Contract%20for%20Petroleum%20Product%20Not%20Owned%20by%20United%20States/%C2%A7%2006249b%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93469%2C%20title%20I%2C%20%C2%A7103%2822%29%2C%20Nov.%209%2C%202000%2C%20114%20Stat.%202033.md) | Repealed. |
 | [6249c.](Subchapter%20001%20%28I%29%20-%20Domestic%20Supply%20Availability/Part%20C%20-%20Authority%20to%20Contract%20for%20Petroleum%20Product%20Not%20Owned%20by%20United%20States/%C2%A7%2006249c%20-%20Contracts%20for%20which%20implementing%20legislation%20is%20needed.md) | Contracts for which implementing legislation is needed. |
 | (a) | In general. |
 | (b) | Consultation. |
@@ -161,11 +135,32 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part D—Expiration
+#### Part D—Northeast Home Heating Oil Reserve
 
 |  |  |
 | :--- | ---: |
-| [6251\.](Subchapter%20001%20%28I%29%20-%20Domestic%20Supply%20Availability/Part%20D%20-%20Expiration/%C2%A7%2006251%20-%20Expiration.md) | Expiration. |
+| [6250\.](Subchapter%20001%20%28I%29%20-%20Domestic%20Supply%20Availability/Part%20D%20-%20Northeast%20Home%20Heating%20Oil%20Reserve/%C2%A7%2006250%20-%20Establishment.md) | Establishment. |
+| [6250a.](Subchapter%20001%20%28I%29%20-%20Domestic%20Supply%20Availability/Part%20D%20-%20Northeast%20Home%20Heating%20Oil%20Reserve/%C2%A7%2006250a%20-%20Authority.md) | Authority. |
+| [6250b.](Subchapter%20001%20%28I%29%20-%20Domestic%20Supply%20Availability/Part%20D%20-%20Northeast%20Home%20Heating%20Oil%20Reserve/%C2%A7%2006250b%20-%20Conditions%20for%20release%3B%20plan.md) | Conditions for release; plan. |
+| (a) | Finding. |
+| (b) | Definition. |
+| (c) | Continuing evaluation. |
+| (d) | Release of petroleum distillate. |
+| (e) | Plan. |
+| [6250c.](Subchapter%20001%20%28I%29%20-%20Domestic%20Supply%20Availability/Part%20D%20-%20Northeast%20Home%20Heating%20Oil%20Reserve/%C2%A7%2006250c%20-%20Northeast%20Home%20Heating%20Oil%20Reserve%20Account.md) | Northeast Home Heating Oil Reserve Account. |
+| (a) | Establishment. |
+| (b) | Deposits. |
+| (c) | Obligation of amounts. |
+| [6250d.](Subchapter%20001%20%28I%29%20-%20Domestic%20Supply%20Availability/Part%20D%20-%20Northeast%20Home%20Heating%20Oil%20Reserve/%C2%A7%2006250d%20-%20Exemptions.md) | Exemptions. |
+| [6250e.](Subchapter%20001%20%28I%29%20-%20Domestic%20Supply%20Availability/Part%20D%20-%20Northeast%20Home%20Heating%20Oil%20Reserve/%C2%A7%2006250e%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part E—Expiration
+
+|  |  |
+| :--- | ---: |
+| [6251\.](Subchapter%20001%20%28I%29%20-%20Domestic%20Supply%20Availability/Part%20E%20-%20Expiration/%C2%A7%2006251%20-%20Expiration.md) | Expiration. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -175,7 +170,7 @@
 
 |  |
 | :--- |
-| 6261 to 6264. Omitted. |
+| 6261 to 6264. Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -220,25 +215,24 @@
 | (b) | Evaluation; report to Congress. |
 | (c) | Program for enhancing commerce in renewable energy technologies; funding. |
 | (d) | Interagency working group. |
-| (e) | Annual report to Congress by interagency working group. |
+| (e) | Omitted. |
 | (f) | Functions of interagency working group; plan to increase United States exports of renewable energy and energy efficiency technologies. |
 | (g) | Repealed. |
 | (h) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part C—Energy Emergency Preparedness
+#### Part C—Energy Emergency Preparedness \[Repealed\]
 
 |  |  |
 | :--- | ---: |
-| [6281\.](Subchapter%20002%20%28II%29%20-%20Standby%20Energy%20Authorities/Part%20C%20-%20Energy%20Emergency%20Preparedness/%C2%A7%2006281%20-%20Congressional%20findings%2C%20policy%2C%20and%20purpose.md) | Congressional findings, policy, and purpose. |
-| (a) | Findings. |
-| (b) | Policy. |
-| (c) | Purpose. |
-| [6282\.](Subchapter%20002%20%28II%29%20-%20Standby%20Energy%20Authorities/Part%20C%20-%20Energy%20Emergency%20Preparedness/%C2%A7%2006282%20-%20Preparation%20for%20petroleum%20supply%20interruptions.md) | Preparation for petroleum supply interruptions. |
-| (a) | Description of available legal authorities. |
-| (b) | Comprehensive energy emergency response procedures. |
-| (c) | Disclaimers. |
+| 6281, 6282. Repealed. |  |
+| [6283\.](Subchapter%20002%20%28II%29%20-%20Standby%20Energy%20Authorities/Part%20C%20-%20Energy%20Emergency%20Preparedness%20%5BRepealed/%C2%A7%2006283%20-%20Summer%20fill%20and%20fuel%20budgeting%20programs.md) | Summer fill and fuel budgeting programs. |
+| (a) | Definitions. |
+| (b) | Assistance. |
+| (c) | Preference. |
+| (d) | Authorization of appropriations. |
+| (e) | Inapplicability of expiration provision. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -447,7 +441,7 @@
 | [6361\.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20D%20-%20Other%20Federal%20Energy%20Conservation%20Measures/%C2%A7%2006361%20-%20Federal%20energy%20conservation%20programs.md) | Federal energy conservation programs. |
 | (a) | Establishment and coordination of Federal agency actions. |
 | (b) | Public education programs. |
-| (c) | Report to Congress. |
+| (c) | Omitted. |
 | (d) | Applicability of plan to Executive agencies. |
 | (e) | Authorization of appropriations. |
 | [6362\.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20D%20-%20Other%20Federal%20Energy%20Conservation%20Measures/%C2%A7%2006362%20-%20Energy%20conservation%20policies%20and%20practices.md) | Energy conservation policies and practices. |
@@ -570,19 +564,10 @@
 | (a) | Testing. |
 | (b) | Funding. |
 | (c) | “Bus” defined. |
-| [6374c.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20H%20-%20Encouraging%20Use%20of%20Alternative%20Fuels/%C2%A7%2006374c%20-%20Interagency%20Commission%20on%20Alternative%20Motor%20Fuels.md) | Interagency Commission on Alternative Motor Fuels. |
-| (a) | Establishment. |
-| (b) | Membership. |
-| (c) | Operations. |
-| (d) | Functions. |
-| (e) | United States Alternative Fuels Council. |
-| (f) | Detail of Federal personnel. |
-| (g) | Reports. |
-| (h) | Termination. |
-| (i) | Definitions. |
+| [6374c.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20H%20-%20Encouraging%20Use%20of%20Alternative%20Fuels/%C2%A7%2006374c%20-%20Omitted.md) | Omitted. |
 | [6374d.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20H%20-%20Encouraging%20Use%20of%20Alternative%20Fuels/%C2%A7%2006374d%20-%20Studies%20and%20reports.md) | Studies and reports. |
 | (a) | Methanol study. |
-| (b) | Independent environmental study. |
+| (b) | Omitted. |
 | (c) | Public participation. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

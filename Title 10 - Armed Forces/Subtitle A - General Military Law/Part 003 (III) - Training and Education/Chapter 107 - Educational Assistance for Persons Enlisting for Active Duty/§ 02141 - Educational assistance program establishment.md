@@ -22,7 +22,7 @@ Section 902 of Pub. L. 96–342, as amended by Pub. L. 97–86, title IV, §406,
 
 Section 903 of Pub. L. 96–342 provided that:
 
-“(a)(1) As a means of encouraging enlistments and reenlistments in the Armed Forces, the Secretary of Defense, on behalf of any person who enlists or reenlists in the Armed Forces after September 30, 1980, and before October 1, 1981, and who elects or has elected to participate in the Post-Vietnam Era Veterans’ Educational Assistance Program provided for under chapter 32 of title 38, United States Code, may pay the monthly contribution otherwise deducted from the military pay of such person. No deduction may be made under section 1622 \[now 3222\] of title 38, United StatesCode, from the military pay of any person for any month to the extent that the contribution otherwise required to be made by such person under such section for such month is paid by the Secretary of Defense.
+“(a)(1) As a means of encouraging enlistments and reenlistments in the Armed Forces, the Secretary of Defense, on behalf of any person who enlists or reenlists in the Armed Forces after September 30, 1980, and before October 1, 1981, and who elects or has elected to participate in the Post-Vietnam Era Veterans’ Educational Assistance Program provided for under chapter 32 of title 38, United States Code, may pay the monthly contribution otherwise deducted from the military pay of such person. No deduction may be made under section 1622 \[now 3222\] of title 38, United States Code, from the military pay of any person for any month to the extent that the contribution otherwise required to be made by such person under such section for such month is paid by the Secretary of Defense.
 
 “(2) No payment may be made under this section on behalf of any person for any month before the month in which such person enlisted or reenlisted in the Armed Forces or for any month before October 1980.
 
@@ -50,7 +50,7 @@ Section 904 of Pub. L. 96–342 provided that:
 
 “(a) There is hereby authorized to be appropriated to carry out chapter 107 of title 10, United States Code (as added by section 901), and sections 902 and 903 \[set out above\] a total of $75,000,000.
 
-“(b) The Secretary of Defense shall equitably allocate the amount appropriated under this section among the educational assistance program provided for under chapter 107 of title 10, United States Code (as added by section 901), the repayment as authorized by section 902 \[set out above\] of loans made, insured, or guaranteed under part B of the Higher Education Act of 1965 \[20 U.S.C. 1071 et seq.\] and of loans made under part E of such Act \[20 U.S.C. 1087aa et seq.\], and the educational assistance program provided for under section 903 \[set out above\].”
+“(b) The Secretary of Defense shall equitably allocate the amount appropriated under this section among the educational assistance program provided for under chapter 107 of title 10, United States Code (as added by section 901), the repayment as authorized by section 902 \[set out above\] of loans made, insured, or guaranteed under part B of the Higher Education Act of 1965 \[20 U.S.C. 1071 et seq.\] and of loans made under part E of such Act \[20 U.S.C. 1087aa et seq.\], and the educationalassistance program provided for under section 903 \[set out above\].”
 
 #### Reports on Educational Assistance Programs; Submission, Contents, Etc.
 

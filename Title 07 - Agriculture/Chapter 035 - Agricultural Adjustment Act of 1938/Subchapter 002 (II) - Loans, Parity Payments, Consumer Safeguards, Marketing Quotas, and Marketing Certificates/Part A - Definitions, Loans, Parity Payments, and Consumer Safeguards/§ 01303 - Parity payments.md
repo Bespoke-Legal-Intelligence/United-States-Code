@@ -4,12 +4,6 @@ If and when appropriations are made therefor, the Secretary is authorized and di
 
 (Feb. 16, 1938, ch. 30, title III, §303, 52 Stat. 45.)
 
-#### Cross References
-
-Delegation of regulatory functions of Secretary of Agriculture, see section 450c et seq. of this title.
-
-Rental or benefit payments, see section 608 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in title 12 section 1150a.

@@ -24,15 +24,29 @@ Regulations and Exceptions.—The Secretary of Defense shall prescribe regulatio
 
 (e)
 
+No Copayment for Immediate Family.—No copayment shall be charged a member for care provided under TRICARE Prime to a dependent of a member of the uniformed services described in subparagraph (A), (D), or (I) of section 1072 <sup>1</sup> of this title.
+
+(f)
+
 Definitions.—In this section:
 
 &emsp;(1) The term “TRICARE Prime” means the managed care option of the TRICARE program.
 
 &emsp;(2) The term “catchment area”, with respect to a facility of a uniformed service, means the service area of the facility, as designated under regulations prescribed by the administering Secretaries.
 
-(Added Pub. L. 105–261, div. A, title VII, §712(a)(1), Oct. 17, 1998, 112 Stat. 2058.)
+(Added Pub. L. 105–261, div. A, title VII, §712(a)(1), Oct. 17, 1998, 112 Stat. 2058; amended Pub. L. 106–398, §1 \[\[div. A\], title VII, §752(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–195.)
+
+#### Amendments
+
+2000—Subsecs. (e), (f). Pub. L. 106–398 added subsec. (e) and redesignated former subsec. (e) as (f).
+
+#### Effective Date of 2000 Amendment
+
+Pub. L. 106–398, §1 \[\[div. A\], title VII, §752(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–195, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect 180 days after the date of the enactment of this Act \[Oct. 30, 2000\], and shall apply with respect to care provided on or after that date.”
 
 #### Effective Date
 
 Pub. L. 105–261, div. A, title VII, §712(b), Oct. 17, 1998, 112 Stat. 2059, provided that: “The regulations required under subsection (d) of section 1097a of title 10, United States Code (as added by subsection (a)), shall be prescribed to take effect not later than September 30, 1999. The section shall be applied under TRICARE Prime on and after the date on which the regulations take effect.”
+
+<i><sup>1</sup></i><i> So in original. Probably should be section “1072(2)”.</i>
 

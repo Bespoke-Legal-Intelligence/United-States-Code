@@ -18,10 +18,6 @@ Proc. 2912, 3 C.F.R., 1950 Supp., p. 71, referred to in text, is an erroneous ci
 
 Declaration of national emergency in effect on Sept. 14, 1976, was terminated two years from that date by section 1601 of Title 50, War and National Defense.
 
-#### Canal Zone
-
-Applicability of section to Canal Zone, see section 14 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 14, 951 of this title.

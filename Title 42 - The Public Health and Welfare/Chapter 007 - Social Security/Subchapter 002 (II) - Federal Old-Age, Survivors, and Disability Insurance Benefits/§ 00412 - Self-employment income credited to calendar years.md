@@ -1,6 +1,6 @@
 ### §412. Self-employment income credited to calendar years
 
-(a) For the purposes of determining average monthly wage and quarters of coverage theamount of self-employment income derived during any taxable year which begins before 1978 shall—
+(a) For the purposes of determining average monthly wage and quarters of coverage the amount of self-employment income derived during any taxable year which begins before 1978 shall—
 
 &emsp;(1) in the case of a taxable year which is a calendar year, be credited equally to each quarter of such calendar year; and
 

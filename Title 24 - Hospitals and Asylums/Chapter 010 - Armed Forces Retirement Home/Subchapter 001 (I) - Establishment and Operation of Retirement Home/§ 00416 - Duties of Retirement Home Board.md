@@ -18,7 +18,7 @@ The Retirement Home Board shall assign specific members of the Retirement Home B
 
 #### (c) Acquisition of real property
 
-The Retirement Home Board may acquire, for the benefit of the Retirement Home, property and facilities for inclusion in the Retirement Home.
+The Retirement Home Board may acquire, for the benefit of the Retirement Home, propertyand facilities for inclusion in the Retirement Home.
 
 #### (d) Limitation on disposal of real property
 
@@ -49,4 +49,8 @@ Pub. L. 103–337, div. A, title III, §371(c), Oct. 5, 1994, 108 Stat. 2735, pr
 “(1) The Chairman of the Armed Forces Retirement Home Board shall carry out a study to identify and evaluate alternatives for modernization of the facilities at the United States Soldiers’ and Airmen's Home.
 
 “(2) The Chairman shall submit an interim report and a final report on the results of the study to the Committees on Armed Services of the Senate and House of Representatives. The Chairman shall submit the interim report not later than April 1, 1995, and the final report not later than December 31, 1995.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 424 of this title.
 

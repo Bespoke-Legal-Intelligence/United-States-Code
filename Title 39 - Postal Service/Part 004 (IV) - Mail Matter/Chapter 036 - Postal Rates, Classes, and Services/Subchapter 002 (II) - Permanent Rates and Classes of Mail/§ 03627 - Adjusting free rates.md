@@ -1,6 +1,6 @@
 ### §3627. Adjusting free rates
 
-If Congress fails to appropriate an amount authorized under section 2401(c) of this title for any class of mail sent free of postage under section 3217 or 3403–3406 <sup>1</sup> the rate for that classmay be adjusted in accordance with the provisions of this subchapter so that the increased revenues received from the users of such class will equal the amount for that class that the Congress was to appropriate.
+If Congress fails to appropriate an amount authorized under section 2401(c) of this title for any class of mail sent free of postage under section 3217 or 3403–3406 <sup>1</sup> the rate for that class may be adjusted in accordance with the provisions of this subchapter so that the increased revenues received from the users of such class will equal the amount for that class that the Congress was to appropriate.
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 763; Pub. L. 95–593, §11(b), Nov. 4, 1978, 92 Stat. 2538; Pub. L. 99–410, title II, §201(b)(3), Aug. 28, 1986, 100 Stat. 928; Pub. L. 103–31, §8(h)(3), May 20, 1993, 107 Stat. 86; Pub. L. 103–123, title VII, §704(a)(3)(B)(i), Oct. 28, 1993, 107 Stat. 1269.)
 

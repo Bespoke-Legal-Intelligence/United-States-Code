@@ -44,7 +44,7 @@ For purposes of this subchapter:
 
 &emsp;&emsp;&emsp;(ii) any debt secured by the property; and
 
-&emsp;&emsp;(B) for purposes of determining incentives under section <sup>1</sup> 4110 and 4111 of this title anddetermining the amount of an acquisition loan under the provisions of section 1715z–6(f)(3) <sup>2</sup> of this title—
+&emsp;&emsp;(B) for purposes of determining incentives under section <sup>1</sup> 4110 and 4111 of this title and determining the amount of an acquisition loan under the provisions of section 1715z–6(f)(3) <sup>2</sup> of this title—
 
 &emsp;&emsp;&emsp;(i) the preservation value of the housing determined under section 4103(b)(2) of this title; less
 

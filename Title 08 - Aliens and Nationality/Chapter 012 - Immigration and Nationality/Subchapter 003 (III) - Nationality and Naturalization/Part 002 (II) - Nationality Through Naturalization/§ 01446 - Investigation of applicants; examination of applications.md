@@ -6,7 +6,7 @@ Before a person may be naturalized, an employee of the Service, or of the United
 
 #### (b) Conduct of examinations; authority of designees; record
 
-The Attorney General shall designate employees of the Service to conduct examinations upon applications for naturalization. For such purposes any such employee so designated is authorized to take testimony concerning any matter touching or in any way affecting the admissibility of any applicant for naturalization, toadminister oaths, including the oath of the applicant for naturalization, and to require by subpena the attendance and testimony of witnesses, including applicant, before such employee so designated and the production of relevant books, papers, and documents, and to that end may invoke the aid of any district court of the United States; and any such court may, in the event of neglect or refusal to respond to a subpena issued by any such employee so designated or refusal to testify before such employee so designated issue an order requiring such person to appear before such employee so designated, produce relevant books, papers, and documents if demanded, and testify; and any failure to obey such order of the court may be punished by the court as a contempt thereof. The record of the examination authorized by this subsection shall be admissible as evidence in any hearing conducted by an immigration officer under section 1447(a) of this title. Any such employee shall, at the examination, inform the applicant of the remedies available to the applicant under section 1447 of this title.
+The Attorney General shall designate employees of the Service to conduct examinations upon applications for naturalization. For such purposes any such employee so designated is authorized to take testimony concerning any matter touching or in any way affecting the admissibility of any applicant for naturalization, to administer oaths, including the oath of the applicant for naturalization, and to require by subpena the attendance and testimony of witnesses, including applicant, before such employee so designated and the production of relevant books, papers, and documents, and to that end may invoke the aid of any district court of the United States; and any such court may, in the event of neglect or refusal to respond to a subpena issued by any such employee so designated or refusal to testify before such employee so designated issue an order requiring such person to appear before such employee so designated, produce relevant books, papers, and documents if demanded, and testify; and any failure to obeysuch order of the court may be punished by the court as a contempt thereof. The record of the examination authorized by this subsection shall be admissible as evidence in any hearing conducted by an immigration officer under section 1447(a) of this title. Any such employee shall, at the examination, inform the applicant of the remedies available to the applicant under section 1447 of this title.
 
 #### (c) Transmittal of record of examination
 
@@ -67,24 +67,6 @@ Amendment by Pub. L. 97–116 effective Dec. 29, 1981, see section 21(a) of Pub.
 #### Criminal Background Checks
 
 Pub. L. 105–119, title I, Nov. 26, 1997, 111 Stat. 2448, provided in part: “That during fiscal year 1998 and each fiscal year thereafter, none of the funds appropriated or otherwise made available to the Immigration and Naturalization Service shall be used to complete adjudication of an application for naturalization unless the Immigration and Naturalization Service has received confirmation from the Federal Bureau of Investigation that a full criminal background check has been completed, except for those exempted by regulation as of January 1, 1997”.
-
-#### Cross References
-
-Contempts, see section 401 et seq. of Title 18, Crimes and Criminal Procedure.
-
-Definition of the term—
-
-&emsp;&emsp;Attorney General, see section 1101(a)(5) of this title.
-
-&emsp;&emsp;Naturalization, see section 1101(a)(23) of this title.
-
-&emsp;&emsp;Person of good moral character, see section 1101(f) of this title.
-
-&emsp;&emsp;Residence, see section 1101(a)(33) of this title.
-
-&emsp;&emsp;Service, see section 1101(a)(34) of this title.
-
-&emsp;&emsp;United States, see section 1101(a)(38) of this title.
 
 #### Section Referred to in Other Sections
 

@@ -8,7 +8,7 @@ Duty to Provide.—A wire or electronic communication service provider shall com
 
 Required Certification.—The Director of the Federal Bureau of Investigation, or his designee in a position not lower than Deputy Assistant Director, may—
 
-&emsp;(1) request the name, address, length of service, and local and long distance toll billing records of a person or entity if the Director (or his designee in a position not lower than Deputy Assistant Director) certifies in writing to the wire or electronic communication service provider to which the request is made that—
+&emsp;(1) request the name, address, length of service, and local and long distance toll billingrecords of a person or entity if the Director (or his designee in a position not lower than Deputy Assistant Director) certifies in writing to the wire or electronic communication service provider to which the request is made that—
 
 &emsp;&emsp;(A) the name, address, length of service, and toll billing records sought are relevant to an authorized foreign counterintelligence investigation; and
 

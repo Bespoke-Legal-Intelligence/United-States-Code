@@ -28,7 +28,3 @@ Section 845, Pub. L. 93–203, title II, §205, as added Pub. L. 95–524, §2, 
 
 A prior section 845, Pub. L. 93–203, title II, §205, Dec. 28, 1973, 87 Stat. 851; Pub. L. 93–567, title I, §106 (e), (f), Dec. 31, 1974, 88 Stat. 1849; Pub. L. 94–444, §7, Oct. 1, 1976, 90 Stat. 1482; Pub. L. 95–93, title III, §306(a), Aug. 5, 1977, 91 Stat. 651, related to applications for financial assistance, prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
-#### Effective Date of Repeal
-
-Section 184(a) of Pub. L. 97–300 provided that the repeal of these sections is effective Oct. 13, 1982.
-

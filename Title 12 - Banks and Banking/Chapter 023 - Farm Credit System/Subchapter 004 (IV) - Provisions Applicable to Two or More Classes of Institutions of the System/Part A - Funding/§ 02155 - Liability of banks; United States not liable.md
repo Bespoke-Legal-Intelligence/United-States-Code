@@ -26,7 +26,7 @@ The United States shall not be liable or assume any liability directly or indire
 
 #### (d) Insurance Fund called on before invoking joint and several liability
 
-Beginning 5 years after January 6, 1988, the Farm Credit Administration shall not call onany System institution to satisfy the liability of the institution on any joint, consolidated, or System-wide obligation participated in by the institution or with respect to which the institution is primarily, or jointly and severally, liable, before the Farm Credit Insurance Fund is exhausted, even if the Fund is only able to make a partial payment because of insufficient amounts in the Fund.
+Beginning 5 years after January 6, 1988, the Farm Credit Administration shall not call on any System institution to satisfy the liability of the institution on any joint, consolidated, or System-wide obligation participated in by the institution or with respect to which the institution is primarily, or jointly and severally, liable, before the Farm Credit Insurance Fund is exhausted, even if the Fund is only able to make a partial payment because of insufficient amounts in the Fund.
 
 (Pub. L. 92–181, title IV, §4.4, Dec. 10, 1971, 85 Stat. 611; Pub. L. 99–205, title I, §101(4), title II, §205(f)(2), Dec. 23, 1985, 99 Stat. 1679, 1706; Pub. L. 100–233, title II, §207(c), title III, §303, Jan. 6, 1988, 101 Stat. 1608, 1620; Pub. L. 100–399, title III, §303, Aug. 17, 1988, 102 Stat. 995.)
 

@@ -24,10 +24,6 @@ Minor changes were made in phraseology.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $200” in first par.
 
-#### Cross References
-
-Violation of regulations governing boarding of vessels before inspection, see section 163 of Title 46, Appendix, Shipping.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in title 46 App. section 163.

@@ -38,16 +38,6 @@ The Uniform Code of Military Justice, referred to in the oath, is classified to 
 
 Section 3 of Pub. L. 87–751 provided that: “This Act \[amending this section and section 304 of Title 32, National Guard\] does not affect any oath taken before one year after its enactment \[Oct. 5, 1962\].”
 
-#### Cross References
-
-Authority to administer oath, see section 1031 of this title.
-
-National Guard, enlistment oath, see section 304 of Title 32, National Guard.
-
-“Oath” as including affirmation, see section 1 of Title 1, General Provisions.
-
-Uniform Code of Military Justice, see section 801 et seq. of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 12102 of this title.

@@ -1,24 +1,6 @@
 ### §5606. Presidential reporting requirements
 
-#### (a) Reports to Congress
-
-Not later than 90 days after December 4, 1991, and every 12 months thereafter, the Presidentshall transmit to the Congress a report which shall include—
-
-&emsp;(1) a description of the actions taken to carry out this chapter, including the amendments made by this chapter;
-
-&emsp;(2) a description of the current efforts of foreign countries and subnational groups to acquire equipment, materials, or technology to develop, produce, or use chemical or biological weapons, together with an assessment of the current and likely future capabilities of such countries and groups to develop, produce, stockpile, deliver, transfer, or use such weapons;
-
-&emsp;(3) a description of—
-
-&emsp;&emsp;(A) the use of chemical weapons by foreign countries in violation of international law,
-
-&emsp;&emsp;(B) the use of chemical weapons by subnational groups,
-
-&emsp;&emsp;(C) substantial preparations by foreign countries and subnational groups to do so, and
-
-&emsp;&emsp;(D) the development, production, stockpiling, or use of biological weapons by foreign countries and subnational groups; and
-
-&emsp;(4) a description of the extent to which foreign persons or governments have knowingly and materially assisted third countries or subnational groups to acquire equipment, material, or technology intended to develop, produce, or use chemical or biological weapons.
+#### (a) Omitted
 
 #### (b) Protection of classified information
 
@@ -28,7 +10,11 @@ To the extent practicable, reports submitted under subsection (a) of this sectio
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(1) and (b), was in the original “this title”, meaning title III of Pub. L. 102–182, Dec. 4, 1991, 105 Stat. 1245, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5601 of this title and Tables.
+This chapter, referred to in subsec. (b), was in the original “this title”, meaning title III of Pub. L. 102–182, Dec. 4, 1991, 105 Stat. 1245, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5601 of this title and Tables.
+
+#### Codification
+
+Subsec. (a) of this section, which required the President to transmit a report to Congress every 12 months describing actions taken to carry out this chapter and describing other information related to chemical and biological weapons, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 24 of House Document No. 103–7.
 
 #### Delegation of Functions
 

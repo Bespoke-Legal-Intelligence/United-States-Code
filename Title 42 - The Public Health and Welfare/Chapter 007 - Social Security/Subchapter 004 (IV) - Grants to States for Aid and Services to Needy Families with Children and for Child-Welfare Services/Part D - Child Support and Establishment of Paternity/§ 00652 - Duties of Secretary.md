@@ -32,7 +32,7 @@ The Secretary shall establish, within the Department of Health and Human Service
 
 &emsp;(7) provide technical assistance to the States to help them establish effective systems for collecting child and spousal support and establishing paternity, and specify the minimum requirements of an affidavit to be used for the voluntary acknowledgment of paternity which shall include the social security number of each parent and, after consultation with the States, other common elements as determined by such designee;
 
-&emsp;(8) receive applications from States for permission to utilize the courts of the United States to enforce court orders for support against noncustodial parents and, upon a finding that (A) another State has not undertaken to enforce the court order of the originating State against the noncustodial parent within a reasonable time, and (B) that utilization of the Federal courts is the only reasonable method of enforcing such order, approve such applications;
+&emsp;(8) receive applications from States for permission to utilize the courts of the United States to enforce court orders for support against noncustodial parents and, upon a finding that (A) another State has not undertakento enforce the court order of the originating State against the noncustodial parent within a reasonable time, and (B) that utilization of the Federal courts is the only reasonable method of enforcing such order, approve such applications;
 
 &emsp;(9) operate the Federal Parent Locator Service established by section 653 of this title;
 
@@ -66,7 +66,7 @@ The Secretary shall establish, within the Department of Health and Human Service
 
 &emsp;&emsp;&emsp;(vi) the total amount of support due and unpaid for all fiscal years; and
 
-&emsp;&emsp;&emsp;(vii) the number of child support cases filed in each State in such fiscal year, and the amount of the collections made in each State in such fiscal year, on behalf ofchildren residing in another State or against parents residing in another State;
+&emsp;&emsp;&emsp;(vii) the number of child support cases filed in each State in such fiscal year, and the amount of the collections made in each State in such fiscal year, on behalf of children residing in another State or against parents residing in another State;
 
 &emsp;&emsp;(D) the status of all State plans under this part as of the end of the fiscal year last ending before the report is submitted, together with an explanation of any problems which are delaying or preventing approval of State plans under this part;
 
@@ -90,7 +90,7 @@ The Secretary shall establish, within the Department of Health and Human Service
 
 #### (b) Certification of child support obligations to Secretary of the Treasury for collection
 
-The Secretary shall, upon the request of any State having in effect a State plan approved under this part, certify to the Secretary of the Treasury for collection pursuant to the provisions of section 6305 of the Internal Revenue Code of 1986 the amount of any child support obligation (including any support obligation with respect to the parent who is living with the child and receiving assistance under the State program funded under part A of this subchapter) which is assigned to such State or is undertaken to be collected by such State pursuant to section 654(4) of this title. No amount may be certified for collection under this subsection except the amount of the delinquency under a court or administrative order for support and upon a showing by the State that such State has made diligent and reasonable efforts to collect such amounts utilizing its own collection mechanisms, and upon an agreement that the State will reimburse the Secretary of the Treasury for any costs involved in making the collection. All reimbursements shall be credited to the appropriation accounts which bore all or part of the costs involved in making the collections. The Secretary after consultation with the Secretary of the Treasury may, by regulation, establish criteria for accepting amounts for collection and for making certification under this subsection including imposing such limitations on the frequency of making such certifications under this subsection.
+The Secretary shall, upon the request of any State having in effect a State plan approved under this part, certify to the Secretary of the Treasury for collection pursuant to the provisions of section 6305 of the Internal Revenue Code of 1986 the amount of any child support obligation (including any support obligation with respect to the parent who is living with the child and receiving assistance under the State program funded under part A of this subchapter) which is assigned to such State or is undertaken to be collected by such State pursuant to section 654(4) of this title. No amount may be certified for collection under this subsection except the amount of the delinquency under a court or administrative order for support and upon a showing by the State that such State has made diligent and reasonable efforts to collect such amounts utilizing its own collection mechanisms, and upon an agreement that the State will reimburse the Secretary of the Treasury for any costs involved in making the collection. Allreimbursements shall be credited to the appropriation accounts which bore all or part of the costs involved in making the collections. The Secretary after consultation with the Secretary of the Treasury may, by regulation, establish criteria for accepting amounts for collection and for making certification under this subsection including imposing such limitations on the frequency of making such certifications under this subsection.
 
 #### (c) Payment of child support collections to States
 
@@ -116,7 +116,7 @@ The Secretary of the Treasury shall from time to time pay to each State for dist
 
 (2)(A) The Secretary shall through the separate organizational unit established pursuant to subsection (a) of this section, on a continuing basis, review, assess, and inspect the planning, design, and operation of, management information systems referred to in section 654(16) of this title, with a view to determining whether, and to what extent, such systems meet and continue to meet requirements imposed under paragraph (1) and the conditions specified under section 654(16) of this title.
 
-(B) If the Secretary finds with respect to any statewide management information system referred to in section 654(16) of this title that thereis a failure substantially to comply with criteria, requirements, and other undertakings, prescribed by the advance automated data processing planning document theretofore approved by the Secretary with respect to such system, then the Secretary shall suspend his approval of such document until there is no longer any such failure of such system to comply with such criteria, requirements, and other undertakings so prescribed.
+(B) If the Secretary finds with respect to any statewide management information system referred to in section 654(16) of this title that there is a failure substantially to comply with criteria, requirements, and other undertakings, prescribed by the advance automated data processing planning document theretofore approved by the Secretary with respect to such system, then the Secretary shall suspend his approval of such document until there is no longer any such failure of such system to comply with such criteria, requirements, and other undertakings so prescribed.
 
 (3) The Secretary may waive any requirement of paragraph (1) or any condition specified under section 654(16) of this title, and shall waive the single statewide system requirement under sections 654(16) and 654a of this title, with respect to a State if—
 
@@ -222,7 +222,7 @@ Out of any money in the Treasury of the United States not otherwise appropriated
 
 #### (k) Denial of passports for nonpayment of child support
 
-(1) If the Secretary receives a certification by a State agency in accordance with the requirements of section 654(31) of this title that an individual owes arrearages of child support in anamount exceeding $5,000, the Secretary shall transmit such certification to the Secretary of State for action (with respect to denial, revocation, or limitation of passports) pursuant to paragraph (2).
+(1) If the Secretary receives a certification by a State agency in accordance with the requirements of section 654(31) of this title that an individual owes arrearages of child support in an amount exceeding $5,000, the Secretary shall transmit such certification to the Secretary of State for action (with respect to denial, revocation, or limitation of passports) pursuant to paragraph (2).
 
 (2) The Secretary of State shall, upon certification by the Secretary transmitted under paragraph (1), refuse to issue a passport to such individual, and may revoke, restrict, or limit a passport issued previously to such individual.
 
@@ -334,7 +334,7 @@ Subsec. (g)(2)(A). Pub. L. 104–193, §341(b)(3)(A), formerly §341(c)(3)(A), a
 
 Pub. L. 104–193, §301(c)(2), substituted “654(4)(A)(ii)” for “654(6)” in cl. (ii)(I) and in closing provisions.
 
-Pub. L. 104–193, §108(c)(7), in concluding provisions, substituted “assistance was being provided under the State program funded under part A” for “aid was beingpaid under the State's plan approved under part A or E”.
+Pub. L. 104–193, §108(c)(7), in concluding provisions, substituted “assistance was being provided under the State program funded under part A” for “aid was being paid under the State's plan approved under part A or E”.
 
 Subsec. (g)(2)(A)(ii)(I). Pub. L. 104–193, §108(c)(6), substituted “assistance is being provided under the State program funded under part A” for “aid is being paid under the State's plan approved under part A or E”.
 
@@ -378,7 +378,7 @@ Subsec. (g)(1)(A) to (E). Pub. L. 103–66, §13721(a)(1)(D), added subpars. (A)
 
 “(C) the paternity establishment percentage determined with respect to all States for such fiscal year.”
 
-Subsec. (g)(2). Pub. L. 103–66, §13721(a)(2)(C), (D), in concluding provisions, inserted “unless paternity is established for such child” after “the death of a parent” and “or any child with respect to whom the State agency administering the plan under part E of this subchapter determines (as provided in section 654(4)(B) of this title) that it is against the best interests of such child to do so” after “cooperate under section 602(a)(26) of this title”.
+Subsec. (g)(2). Pub. L. 103–66, §13721(a)(2)(C), (D), in concluding provisions, inserted “unless paternity is established for such child” after “the death of a parent”and “or any child with respect to whom the State agency administering the plan under part E of this subchapter determines (as provided in section 654(4)(B) of this title) that it is against the best interests of such child to do so” after “cooperate under section 602(a)(26) of this title”.
 
 Subsec. (g)(2)(A). Pub. L. 103–66, §13721(a)(2)(A), in cl. (i), inserted before comma “during the fiscal year”, in cl. (ii)(I), substituted “part A or E of this subchapter as of the end of the” for “part A of this subchapter (or under all such plans) for such”, in cl. (ii)(II), substituted “this part or E as of the end of the” for “this part (or under all such plans) for the”, in cl. (iii), inserted before comma “or acknowledged during the fiscal year”, and in concluding provisions, substituted “children who were born out of wedlock during the immediately preceding fiscal year and” for “children who have been born out of wedlock and”, “aid was being paid” for “aid is being paid”, “part A or E of this subchapter as of the end of such preceding fiscal” for “part A of this subchapter (or under all such plans) for such fiscal”, “services were being” for “services are being”, and “this part or E as of the end of such preceding fiscal” for “this part (or under all such plans) for the fiscal”.
 
@@ -436,7 +436,7 @@ Subsec. (b). Pub. L. 96–265, §402(a), inserted “(or undertaken to be collec
 
 Subsecs. (d), (e). Pub. L. 96–265, §405(c), (d), added subsecs. (d) and (e).
 
-1977—Subsec. (a)(10). Pub. L. 95–30 substituted “not later than three months after the end of each fiscal year, beginning with the year 1977, submit to the Congress a full and complete report on all activities undertaken pursuant to the provisions of this part, which report shall include, but not be limited to, the following” for “not later than June 30 of each year beginning after December 31, 1975, submit to the Congress a report on all activities undertaken pursuant to the provisions of this part”, substituted a colon for a period at end of provisions thus substituted, and added subpars. (A) to (H).
+1977—Subsec. (a)(10). Pub. L. 95–30 substituted “not later than three months after the end of each fiscal year, beginning with the year 1977, submit to the Congress a full and complete report on all activities undertaken pursuant to the provisions of this part, which report shall include, but not be limited to, the following”for “not later than June 30 of each year beginning after December 31, 1975, submit to the Congress a report on all activities undertaken pursuant to the provisions of this part”, substituted a colon for a period at end of provisions thus substituted, and added subpars. (A) to (H).
 
 #### Effective Date of 1999 Amendment
 

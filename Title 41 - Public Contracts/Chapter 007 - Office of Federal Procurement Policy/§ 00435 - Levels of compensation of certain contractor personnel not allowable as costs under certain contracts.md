@@ -2,7 +2,7 @@
 
 #### (a) Determination required
 
-For purposes of section 2324(e)(1)(P) of title 10 and section 256(e)(1)(P) of this title, the Administrator shall review commercially available surveys of executive compensation and, on the basis of the results of the review, determine a benchmark compensation amount to apply for each fiscal year. In making determinations under this subsection the Administrator shall consult with the Director of the Defense Contract Audit Agency and such other officials of executive agencies as the Administrator considers appropriate.
+For purposes of section 2324(e)(1)(P) of title 10 and section 256(e)(1)(P) of this title, the Administrator shall review commercially available surveys of executive compensation and, on the basis of the results of the review, determine a benchmark compensation amount to apply for each fiscal year. In making determinations under this subsection the Administrator shallconsult with the Director of the Defense Contract Audit Agency and such other officials of executive agencies as the Administrator considers appropriate.
 
 #### (b) Benchmark compensation amount
 

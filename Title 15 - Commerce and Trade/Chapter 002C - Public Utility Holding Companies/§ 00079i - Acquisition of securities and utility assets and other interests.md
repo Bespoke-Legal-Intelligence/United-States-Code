@@ -24,15 +24,11 @@ Subsection (a) of this section shall not apply to the acquisition by a registere
 
 &emsp;(2) such other readily marketable securities within the limitation of such amounts, as the Commission may by rules and regulations prescribe as appropriate for investment of current funds and as not detrimental to the public interest or the interest of investors or consumers; or
 
-&emsp;(3) such commercial paper and other securities, within such limitations, as the Commission may by rules and regulations or order prescribe as appropriate in the ordinary course of business of a registered holding company or subsidiary company thereof and as not detrimental to the public interest or the interest of investors or consumers.
+&emsp;(3) such commercial paper and other securities, within such limitations, as the Commission may by rules and regulations or order prescribe as appropriate in the ordinary courseof business of a registered holding company or subsidiary company thereof and as not detrimental to the public interest or the interest of investors or consumers.
 
 (Aug. 26, 1935, ch. 687, title I, §9, 49 Stat. 817.)
 
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
-#### Cross References
-
-Rules and regulations, authority of Commission to make, issue, amend, and rescind, see section 79t of this title.
 

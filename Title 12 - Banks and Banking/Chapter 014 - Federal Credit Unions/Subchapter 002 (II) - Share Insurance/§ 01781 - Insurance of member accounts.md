@@ -20,7 +20,7 @@ Application for insurance of member accounts shall be made immediately by each F
 
 &emsp;(6) to maintain such special reserves as the Board, by regulation or in special cases, may require for protecting the interest of members or to assure that all insured credit unions maintain regular reserves which are not less than those required under subchapter I of this chapter;
 
-&emsp;(7) not to issue or have outstanding any account or security the form of which, by regulation or in special cases, has not been approved by the Board except for accounts authorized by State law for State credit unions;
+&emsp;(7) not to issue or have outstanding any account or security the form of which, by regulation or in special cases, has not been approvedby the Board except for accounts authorized by State law for State credit unions;
 
 &emsp;(8) to pay and maintain its deposit and to pay the premium charges for insurance imposed by this subchapter; and
 

@@ -24,7 +24,7 @@ The amount of any part B institution's allotment under subsection (a), (b), (c),
 
 #### (f) Special merger rule
 
-(1) The Secretary shall permit any eligible institution for a grant under part B in any fiscal year prior to the fiscal year 1986 to apply for a grant under this part if the eligible institution has merged with another institution of higher education which is not so eligible or has merged with an eligible institution.
+(1) The Secretary shall permit any eligible institution for a grant under part B in any fiscalyear prior to the fiscal year 1986 to apply for a grant under this part if the eligible institution has merged with another institution of higher education which is not so eligible or has merged with an eligible institution.
 
 (2) The Secretary may establish such regulations as may be necessary to carry out the requirement of paragraph (1) of this subsection.
 
@@ -38,7 +38,7 @@ In any fiscal year that the Secretary determines that Howard University or the U
 
 Section 1069f(a)(2)(A) of this title, referred to in subsec. (d)(2), was in the original a reference to section 360(a)(2)(A) of Pub. L. 89–329. Section 360 of Pub. L. 89–329 was renumbered section 399 of Pub. L. 89–329 by Pub. L. 105–244, title III, §301(a)(2), Oct. 7, 1998, 112 Stat. 1636, and was transferred to section 1068h of this title.
 
-The District of Columbia Home Rule Act, referred to in subsec. (g), is Pub. L. 93–198, Dec. 24, 1973, 87 Stat. 774, as amended, which is classified principally to the District of Columbia Code. See chapter 2 (§1–201 et seq.) of Title 1, Administration, of the District of Columbia Code. For classification of this Act to the Code, see Tables.
+The District of Columbia Home Rule Act, referred to in subsec. (g), is Pub. L. 93–198, Dec. 24, 1973, 87 Stat. 774, as amended. For classification of this Act to the Code, see Tables.
 
 #### Prior Provisions
 

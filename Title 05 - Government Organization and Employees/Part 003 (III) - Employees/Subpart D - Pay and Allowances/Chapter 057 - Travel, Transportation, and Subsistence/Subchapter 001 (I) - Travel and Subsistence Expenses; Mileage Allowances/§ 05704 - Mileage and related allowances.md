@@ -82,5 +82,5 @@ Subsec. (b). Pub. L. 94–22 inserted “authorized” after “allowance”, st
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5707, 5724 of this title; title 2 section 476; title 7 sections 3128, 5843; title13 sections 24, 26; title 16 sections 971a, 971b, 2443, 3608, 3641, 5608, 5709; title 22 section 1474; title 24 section 415; title 28 section 1821; title 30 section 812; title 33 section 1320; title 37 section 404; title 38 section 111; title 42 section 2477.
+This section is referred to in sections 5707, 5724 of this title; title 2 section 476; title 7 sections 3128, 5843; title 13 sections 24, 26; title 16 sections 971a, 971b, 2443, 3608, 3641, 5608, 5709; title 22 section 1474; title 24 section 415; title 28 section 1821; title 30 section 812; title 33 section 1320; title 37 section 404; title 38 section 111; title 42 section 2477.
 

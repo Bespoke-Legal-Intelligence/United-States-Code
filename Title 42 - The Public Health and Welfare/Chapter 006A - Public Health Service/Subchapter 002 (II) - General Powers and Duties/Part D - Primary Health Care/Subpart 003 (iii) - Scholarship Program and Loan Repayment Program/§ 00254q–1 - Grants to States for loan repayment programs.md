@@ -32,7 +32,7 @@
 
 #### (2) Remedies for breach of contracts
 
-&emsp;The Secretary may not make a grant under subsection (a) of this section unless the State involved agrees that the contracts provided by the State pursuant to paragraph (2) of such subsection will provide remedies for any breach of the contracts by the health professionals involved.
+&emsp;The Secretary may not make a grant under subsection (a) of this section unless the State involved agrees that the contracts provided by the State pursuant to paragraph (2) of suchsubsection will provide remedies for any breach of the contracts by the health professionals involved.
 
 #### (3) Limitation regarding contract inducements
 
@@ -66,7 +66,7 @@ The Secretary may not make a grant under subsection (a) of this section unless t
 
 The Secretary may not make a grant under subsection (a) of this section unless the State involved agrees—
 
-&emsp;(1) to submit to the Secretary reports providing the same types of information regarding the program operated pursuant to such subsection as reports submitted pursuant to subsection (i) of section 254<i>l</i>–1 of this title provide regarding the Loan Repayment Program under such section; and
+&emsp;(1) to submit to the Secretary reports providing the same types of information regarding the program operated pursuant to such subsection as reports submitted pursuant to subsection (i) <sup>1</sup> of section 254<i>l</i>–1 of this title provide regarding the Loan Repayment Program under such section; and
 
 &emsp;(2) to submit such a report not later than January 10 of each fiscal year immediately following any fiscal year for which the State has received such a grant.
 
@@ -98,13 +98,17 @@ For purposes of this section, the term “State” means each of the several Sta
 
 #### (1) In general
 
-&emsp;For the purpose of making grants under subsection (a) of this section, there is authorizedto be appropriated $10,000,000 for each of the fiscal years 1991 through 1995, and such sums as may be necessary for each of the fiscal years 1998 through 2002.
+&emsp;For the purpose of making grants under subsection (a) of this section, there is authorized to be appropriated $10,000,000 for each of the fiscal years 1991 through 1995, and such sums as may be necessary for each of the fiscal years 1998 through 2002.
 
 #### (2) Availability
 
 &emsp;Amounts appropriated under paragraph (1) shall remain available until expended.
 
 (July 1, 1944, ch. 373, title III, §338I, formerly §338H, as added Pub. L. 100–177, title II, §203, Dec. 1, 1987, 101 Stat. 999; renumbered §338I and amended Pub. L. 101–597, title II, §204, title III, §301, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3027, 3029, 3035; Pub. L. 105–392, title IV, §408, Nov. 13, 1998, 112 Stat. 3589.)
+
+#### References in Text
+
+Subsection (i) of section 254<i>l</i>–1 of this title, referred to in subsec. (e)(1), was omitted from the Code.
 
 #### Prior Provisions
 
@@ -121,4 +125,6 @@ Pub. L. 101–597, §301, amended section generally, substituting present provis
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 254<i>o</i>–1, 254r, 293b of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -50,7 +50,7 @@ Before taking action against a State under any of subsections (a) through (c) of
 
 #### (2) Finding of material noncompliance
 
-&emsp;If in a hearing under paragraph (1) the Secretary finds that the State involved has failed to maintain material compliance with the agreement or other condition involved, the Secretary shall take such action under this section as may be appropriate to ensure that material compliance is so maintained, or such action as may be required in a section referred to in subsection (d)(2) of this section, as the case may be.
+&emsp;If in a hearing under paragraph (1) the Secretary finds that the State involved has failed to maintain material compliance with the agreement or other condition involved, the Secretary shall take such action under thissection as may be appropriate to ensure that material compliance is so maintained, or such action as may be required in a section referred to in subsection (d)(2) of this section, as the case may be.
 
 #### (g) Certain investigations
 

@@ -16,7 +16,7 @@ It is the sense of the Congress that in order to maintain and enhance internatio
 
 &emsp;(7) oppose efforts by non-nuclear-weapon states to develop or use unsafeguarded nuclear fuels for purposes of naval propulsion;
 
-&emsp;(8) pursue an international open skies arrangement that would authorize the IAEA tooperate surveillance aircraft and would facilitate IAEA access to satellite information for safeguards verification purposes;
+&emsp;(8) pursue an international open skies arrangement that would authorize the IAEA to operate surveillance aircraft and would facilitate IAEA access to satellite information for safeguards verification purposes;
 
 &emsp;(9) develop an institutional means for IAEA member nations to share intelligence material with the IAEA on possible safeguards violations without compromising national security or intelligence sources or methods;
 

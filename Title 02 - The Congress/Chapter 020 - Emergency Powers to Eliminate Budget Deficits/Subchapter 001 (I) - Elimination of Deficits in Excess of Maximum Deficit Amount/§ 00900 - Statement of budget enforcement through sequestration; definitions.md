@@ -52,6 +52,54 @@ Special rule.—(i) Any outlays in excess of the discretionary spending limit se
 
 &emsp;(iii) For purposes of clause (ii), outlays from excess obligations shall be determined using the average of the spendout rates for that category in the baseline.
 
+&emsp;(E) The term “conservation spending category” means discretionary appropriations for conservation activities in the following budget accounts or portions thereof providing appropriations to preserve and protect lands, habitat, wildlife, and other natural resources, to provide recreational opportunities, and for related purposes:
+
+&emsp;&emsp;(i) 14–5033 Bureau of Land Management Land Acquisition.
+
+&emsp;&emsp;(ii) 14–5020 Fish and Wildlife Service Land Acquisition.
+
+&emsp;&emsp;(iii) 14–5035 National Park Service Land Acquisition and State Assistance.
+
+&emsp;&emsp;(iv) 12–9923 Forest Service Land Acquisition.
+
+&emsp;&emsp;(v) 14–5143 Fish and Wildlife Service Cooperative Endangered Species Conservation Fund.
+
+&emsp;&emsp;(vi) 14–5241 Fish and Wildlife Service North American Wetlands Conservation Fund.
+
+&emsp;&emsp;(vii) 14–1694 Fish and Wildlife Service State Wildlife Grants.
+
+&emsp;&emsp;(viii) 14–0804 United States Geological Survey Surveys, Investigations, and Research, the State Planning Partnership programs: Community/Federal Information Partnership, Urban Dynamics, and Decision Support for Resource Management.
+
+&emsp;&emsp;(ix) 12–1105 Forest Service State and Private Forestry, the Forest Legacy Program, Urban and Community Forestry, and Smart Growth Partnerships.
+
+&emsp;&emsp;(x) 14–1031 National Park Service Urban Park and Recreation Recovery program.
+
+&emsp;&emsp;(xi) 14–5140 National Park Service Historic Preservation Fund.
+
+&emsp;&emsp;(xii) Youth Conservation Corps.
+
+&emsp;&emsp;(xiii) 14–1114 Bureau of Land Management Payments in Lieu of Taxes.
+
+&emsp;&emsp;(xiv) Federal Infrastructure Improvement (as established in title VIII of the Department of the Interior and Related Agencies Appropriations Act, 2001).
+
+&emsp;&emsp;(xv) 13–1460 NOAA Procurement Acquisition and Construction, the National Marine Sanctuaries and the National Estuarine Research Reserve Systems.
+
+&emsp;&emsp;(xvi) 13–1450 NOAA Operations, Research, and Facilities, the Coastal Zone Management Act programs, the National Marine Sanctuaries, the National Estuarine Research Reserve Systems, and Coral Restoration programs.
+
+&emsp;&emsp;(xvii) 13–1451 NOAA Pacific Coastal Salmon Recovery.
+
+&emsp;(F) The term “Federal and State Land and Water Conservation Fund sub-category” means discretionary appropriations for activities in the accounts described in (E)(i)–(E)(iv) <sup>2</sup> or portions thereof.
+
+&emsp;(G) The term “State and Other Conservation sub-category” means discretionary appropriations for activities in the accounts described in (E)(v)–(E)(ix),<sup>2</sup> with the exception of Urban and Community Forestry as described in (E)(ix),<sup>2</sup> or portions thereof.
+
+&emsp;(H) The term “Urban and Historic Preservation sub-category” means discretionary appropriations for activities in the accounts described in (E)(ix)–(E)(xii),<sup>2</sup> with the exception of Forest Legacy and Smart Growth Partnerships as described in (E)(ix),<sup>2</sup> or portions thereof.
+
+&emsp;(I) The term “Payments in Lieu of Taxes sub-category” means discretionary appropriations for activities in the account described in (E)(xiii)<sup>2</sup> or portions thereof.
+
+&emsp;(J) The term “Federal Deferred Maintenance sub-category” means discretionary appropriations for activities in the account described in (E)(xiv)<sup>2</sup> or portions thereof.
+
+&emsp;(K) The term “Coastal Assistance sub-category” means discretionary appropriations for activities in the accounts described in (E)(xv)–(E)(xvii)<sup>2</sup> or portions thereof.
+
 &emsp;(5) The term “baseline” means the projection (described in section 907 of this title) of current-year levels of new budget authority, outlays, receipts, and the surplus or deficit into the budget year and the outyears.
 
 &emsp;(6) The term “budgetary resources” means new budget authority, unobligated balances, direct spending authority, and obligation limitations.
@@ -84,11 +132,11 @@ Special rule.—(i) Any outlays in excess of the discretionary spending limit se
 
 &emsp;(17) As used in this subchapter, all references to entitlement authority shall include the list of mandatory appropriations included in the joint explanatory statement of managers accompanying the conference report on the Balanced Budget Act of 1997.
 
-&emsp;(18) The term “deposit insurance” refers to the expenses <sup>2</sup> the Federal deposit insurance agencies, and other Federal agencies supervising insured depository institutions, resulting from full funding of, and continuation of, the deposit insurance guarantee commitment in effect under current estimates.
+&emsp;(18) The term “deposit insurance” refers to the expenses <sup>3</sup> the Federal deposit insurance agencies, and other Federal agencies supervising insured depository institutions, resulting from full funding of, and continuation of, the deposit insurance guarantee commitment in effect under current estimates.
 
 &emsp;(19) The term “asset sale” means the sale to the public of any asset (except for those assets covered by title V of the Congressional Budget Act of 1974 \[2 U.S.C. 661 et seq.\]), whether physical or financial, owned in whole or in part by the United States.
 
-(Pub. L. 99–177, title II, §250, as added Pub. L. 101–508, title XIII, §13101(a), Nov. 5, 1990, 104 Stat. 1388–574, and Pub. L. 99–177, title II, §250(c)(21), formerly §257(12), as added Pub. L. 100–119, title I, §102(b)(7), Sept. 29, 1987, 101 Stat. 774, renumbered §250(c)(21), Pub. L. 101–508, title XIII, §13101(b), Nov. 5, 1990, 104 Stat. 1388–589; amended Pub. L. 105–33, title X, §§10202, 10204(a)(2), 10208(a)(2), Aug. 5, 1997, 111 Stat. 697, 702, 708; Pub. L. 105–178, title VIII, §8101(c), (f), June 9, 1998, 112 Stat. 489; Pub. L. 105–206, title IX, §9013(b), July 22, 1998, 112 Stat. 865.)
+(Pub. L. 99–177, title II, §250, as added Pub. L. 101–508, title XIII, §13101(a), Nov. 5, 1990, 104 Stat. 1388–574, and Pub. L. 99–177, title II, §250(c)(21), formerly §257(12), as added Pub. L. 100–119, title I, §102(b)(7), Sept. 29, 1987, 101 Stat. 774, renumbered §250(c)(21), Pub. L. 101–508, titleXIII, §13101(b), Nov. 5, 1990, 104 Stat. 1388–589; amended Pub. L. 105–33, title X, §§10202, 10204(a)(2), 10208(a)(2), Aug. 5, 1997, 111 Stat. 697, 702, 708; Pub. L. 105–178, title VIII, §8101(c), (f), June 9, 1998, 112 Stat. 489; Pub. L. 105–206, title IX, §9013(b), July 22, 1998, 112 Stat. 865; Pub. L. 106–291, title VIII, §801(c), Oct. 11, 2000, 114 Stat. 1028.)
 
 #### Termination of Section
 
@@ -106,6 +154,8 @@ Section 14 of Public Law 96–184, referred to in subsec. (c)(4)(C), probably me
 
 Public Law 101–551, referred to in subsec. (c)(4)(C), is Pub. L. 101–551, Nov. 15, 1990, 104 Stat. 2733, which is not classified to the Code.
 
+The Department of the Interior and Related Agencies Appropriations Act, 2001, referred to in subsec. (c)(4)(E)(xiv), is Pub. L. 106-291, Oct. 11, 2000, 114 Stat. 922. Title VIII of the Act amended this section and section 901 of this title. For complete classification of this Act to the Code, see Tables.
+
 The Congressional Budget Act of 1974, referred to in subsec. (c)(19), is titles I through IX of Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended. Title V of the Act, known as the Federal Credit Reform Act of 1990, was added by Pub. L. 101–508, title XIII, §13201(a), Nov. 5, 1990, 104 Stat. 1388–609, and is classified generally to subchapter III (§661 et seq.) of chapter 17A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
 
 #### Codification
@@ -115,6 +165,8 @@ Subsection (a) of this section, which provided a partial table of contents for t
 Pub. L. 101–508, §13101(b), transferred section 257(12) of Pub. L. 99–177, which was classified to section 907(12) of this title, to subsec. (c)(21) (now (c)(19)) of this section.
 
 #### Amendments
+
+2000—Subsec. (c)(4)(E) to (K). Pub. L. 106–291 added subpars. (E) to (K).
 
 1998—Subsec. (c)(4). Pub. L. 105–178, §8101(c), designated existing provisions as subpar. (A) and added subpars. (B) to (D).
 
@@ -154,7 +206,7 @@ Subsec. (c)(14). Pub. L. 105–33, §10202(b)(5), inserted “first 4” before 
 
 Subsec. (c)(17). Pub. L. 105–33, §10202(b)(6), (7), redesignated par. (18) as (17), substituted “Balanced Budget Act of 1997” for “Omnibus Budget Reconciliation Act of 1990”, and struck out former par. (17) which read as follows: “For purposes of sections 902 and 903 of this title, legislation enacted during the second session of the One Hundred First Congress shall be deemed to have been enacted before November 5, 1990.”
 
-Subsec. (c)(18). Pub. L. 105–33, §10202(b)(6), (8), redesignated par. (19) as (18) and substituted “the Federal deposit insurance agencies, and other Federal agencies supervising insured depository institutions, resulting from full funding of, and continuation of, the deposit insurance guarantee commitment in effect under current estimates.” for “of the Federal Deposit Insurance Corporation and the funds it incorporates, the Resolution Trust Corporation, the National Credit Union Administration and the funds it incorporates, the Office of Thrift Supervision, the Comptroller of the Currency Assessment Fund, and the RTC Office of Inspector General.” Former par. (18) redesignated (17).
+Subsec. (c)(18). Pub. L. 105–33, §10202(b)(6), (8), redesignated par. (19) as (18) and substituted “the Federal deposit insurance agencies, and other Federal agencies supervising insured depository institutions, resulting from full funding of, and continuation of, the deposit insurance guarantee commitment in effect under current estimates.” for “of the Federal Deposit Insurance Corporation and the funds it incorporates, the Resolution Trust Corporation, the National Credit Union Administration and the funds it incorporates, the Office of Thrift Supervision, the Comptroller of the CurrencyAssessment Fund, and the RTC Office of Inspector General.” Former par. (18) redesignated (17).
 
 Subsec. (c)(19). Pub. L. 105–33, §10202(b)(9), added par. (19) and struck out former par. (19) which read as follows: “The sale of an asset means the sale to the public of any asset, whether physical or financial, owned in whole or in part by the United States. The term ‘prepayment of a loan’ means payments to the United States made in advance of the schedules set by law or contract when the financial asset is first acquired, such as the prepayment to the Federal Financing Bank of loans guaranteed by the Rural Electrification Administration. If a law or contract allows a flexible payment schedule, the term ‘in advance’ shall mean in advance of the slowest payment schedule allowed under such law or contract.”
 
@@ -218,11 +270,11 @@ Section 200(a) of title II of Pub. L. 99–177 provided that: “This title \[en
 
 #### Purpose of Subtitle B of Title X of Pub. L. 105–33
 
-Section 10201 of title X of Pub. L. 105–33 provided that: “The purpose of this subtitle \[subtitle B (§§10201–10213) of title X of Pub. L. 105–33, amending this section, sections 901, 902, 904 to 907, and 922 of this title, section 1105 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealing sections 901a and 908 of this title and section 14212 of Title 42, enacting provisions set out as a note under section 902 of this title, and amending and repealing provisions set out as notes under this section\] is to extend discretionary spending limits and pay-as-you-go requirements.”
+Section 10201 of title X of Pub. L. 105–33 provided that: “The purpose of this subtitle \[subtitle B (§§10201–10213) of title X of Pub. L. 105–33, amending this section, sections 901, 902, 904 to 907, and 922 of this title,section 1105 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealing sections 901a and 908 of this title and section 14212 of Title 42, enacting provisions set out as a note under section 902 of this title, and amending and repealing provisions set out as notes under this section\] is to extend discretionary spending limits and pay-as-you-go requirements.”
 
 #### Restriction on Elimination or Reduction of Programs Relating to Energy and Water Development
 
-Pub. L. 102–377, title V, §503, Oct. 2, 1992, 106 Stat. 1342, provided that: “None of the programs, projects or activities as defined in the reports accompanying this Act or subsequent Energy and Water Development Appropriations Acts, may be eliminated or disproportionately reduced due to the application of ‘Savings andSlippage’, ‘general reduction’, or the provision of Public Law 99–177 \[see Short Title note above\] or Public Law 100–119 \[see section 213 of Pub. L. 100–119 set out below\] unless such reports expressly provide otherwise.”
+Pub. L. 102–377, title V, §503, Oct. 2, 1992, 106 Stat. 1342, provided that: “None of the programs, projects or activities as defined in the reports accompanying this Act or subsequent Energy and Water Development Appropriations Acts, may be eliminated or disproportionately reduced due to the application of ‘Savings and Slippage’, ‘general reduction’, or the provision of Public Law 99–177 \[see Short Title note above\] or Public Law 100–119 \[see section 213 of Pub. L. 100–119 set out below\] unless such reports expressly provide otherwise.”
 
 #### Waivers and Suspensions in the Senate
 
@@ -272,7 +324,7 @@ Ex. Ord. No. 12857, Aug. 4, 1993, 58 F.R. 42181, provided:
 
 By the authority vested in me as President of the United States by the Constitution and the laws of the United States of America, including section 1105 of title 31, United States Code, it is hereby ordered as follows:
 
-Section 1. <i>Purpose</i>. The purpose of this order is to create a mechanism to monitor total costs of direct spending programs, and, in the event that actual or projected costs exceed targeted levels, to require that the budget address adjustments in direct spending.
+Section 1. <i>Purpose</i>. The purpose of this order is to create a mechanism to monitor total costs of directspending programs, and, in the event that actual or projected costs exceed targeted levels, to require that the budget address adjustments in direct spending.
 
 Sec. 2. <i>Establishment of Direct Spending Targets.</i>
 
@@ -394,7 +446,7 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Act Referred to in Other Sections
 
-The Balanced Budget and Emergency Deficit Control Act of 1985 (see Short Title note above) is referred to in sections 643, 691c of this title; title 7 section 1446; title 12 section 2250; title 21 section 379g; title 22 sections 2295b, 3751, 5857; title 25 section 2010; title 38 section 113; title 39 section 2009a; title 42 sections 1382, 8621, 11303, 14211; title 48 section 1469a–1.
+The Balanced Budget and Emergency Deficit Control Act of 1985 (see Short Title note above) is referred to in sections 643, 691c of this title; title 7 section 1446; title 10 section 2814; title 12 section 2250; title 21 section 379g; title 22 sections 2295b, 3751, 5857; title 25 section 2010; title 38 section 113; title 39 section 2009a; title 42 sections 1382, 8621, 11303, 14211; title 48 section 1469a–1.
 
 #### Section Referred to in Other Sections
 
@@ -402,5 +454,7 @@ This section is referred to in sections 633, 661a of this title; title 45 sectio
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be followed by “of”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be preceded by “subparagraph”.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be followed by “of”.</i>
 

@@ -16,7 +16,7 @@ The Congress finds that—
 
 #### Amendments
 
-1999—Pub. L. 106–34 amended section generally. Prior to amendment, section consisted of subsecs. (a) and (b) stating findings of Congress and purpose of this chapter.
+1999—Pub. L. 106–34 amended section generally. Prior to amendment, section consisted of subsecs. (a) and (b)stating findings of Congress and purpose of this chapter.
 
 1996—Subsec. (a)(4) to (6). Pub. L. 104–113, §11(a)(1), redesignated pars. (5) to (7) as (4) to (6), respectively, and struck out former par. (4) which read as follows: “the sale in commerce of nonconforming fasteners and the use of nonconforming fasteners in numerous critical applications have reduced the combat readiness of the Nation's military forces, endangered the safety of other Federal projects and activities, and cost both the public and private sectors large sums in connection with the retesting and purging of fastener inventories;”.
 

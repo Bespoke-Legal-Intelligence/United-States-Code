@@ -4,10 +4,6 @@ The Director of the National Park Service is authorized to provide suitable mean
 
 (May 21, 1932, ch. 200, §2, 47 Stat. 164; Feb. 11, 1933, ch. 48, §1, 47 Stat. 799; Ex. Ord. No. 6166, §2, June 10, 1933; Mar. 2, 1934, ch. 38, 48 Stat. 389; June 6, 1924, ch. 279, §9, as added July 19, 1952, ch. 949, §1, 66 Stat. 790.)
 
-#### Codification
-
-Section is also set out in D.C. Code, §8–159.
-
 #### Amendments
 
 1933—Act Feb. 11, 1933, substituted “Theodore Roosevelt Island” for “Roosevelt Island”.

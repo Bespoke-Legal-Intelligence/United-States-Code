@@ -68,7 +68,7 @@ Authority.—A unit decoration may be awarded for any unit or other organization
 
 “(b)
 
-Time for Submission of Recommendation.—Any recommendation for award of a unit decoration under subsection (a) shall be submitted to the Secretary concerned (as defined in section 101(a)(9) of title 10, United States Code), or to such other official as the Secretary concerned may designate, not later than two yearsafter the date of the enactment of this Act \[Nov. 18, 1997\].”
+Time for Submission of Recommendation.—Any recommendation for award of a unit decoration under subsection (a) shall be submitted to the Secretary concerned (as defined in section 101(a)(9) of title 10, United States Code), or to such other official as the Secretary concerned may designate, not later than two years after the date of the enactment of this Act \[Nov. 18, 1997\].”
 
 #### Authority To Award Decorations Recognizing Acts of Valor Performed in Combat During the Vietnam Conflict
 
@@ -108,7 +108,7 @@ Review of Requests for Consideration of Awards.—(1) The Secretary of each mili
 
 “(d)
 
-Report.—(1) Upon completing the review of each such request under subsection (c), the Secretary shall submit a report on the review to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives \[now Committee on Armed Services of the House of Representatives\].
+Report.—(1) Upon completing the review of each such request under subsection (c), the Secretary shallsubmit a report on the review to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives \[now Committee on Armed Services of the House of Representatives\].
 
 “(2) The report shall include, with respect to each request for consideration received, the following information:
 

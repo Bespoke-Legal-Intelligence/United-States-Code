@@ -18,7 +18,7 @@
 
 (f) As used in this section—
 
-&emsp;(1) the term “monetary transaction” means the deposit, withdrawal, transfer, or exchange,in or affecting interstate or foreign commerce, of funds or a monetary instrument (as defined in section 1956(c)(5) of this title) by, through, or to a financial institution (as defined in section 1956 of this title), including any transaction that would be a financial transaction under section 1956(c)(4)(B) of this title, but such term does not include any transaction necessary to preserve a person's right to representation as guaranteed by the sixth amendment to the Constitution;
+&emsp;(1) the term “monetary transaction” means the deposit, withdrawal, transfer, or exchange, in or affecting interstate or foreign commerce, of funds or a monetary instrument (as defined in section 1956(c)(5) of this title) by, through, or to a financial institution (as defined in section 1956 of this title), including any transaction that would be a financial transaction under section 1956(c)(4)(B) of this title, but such term does not include any transaction necessary to preserve a person's right to representation as guaranteed by the sixth amendment to the Constitution;
 
 &emsp;(2) the term “criminally derived property” means any property constituting, or derived from, proceeds obtained from a criminal offense; and
 
@@ -38,5 +38,5 @@ Subsec. (f)(1). Pub. L. 100–690, §§6182, 6184, substituted “in section 195
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 981, 982, 984, 986, 1510, 1952, 1956, 1961, 2516 of this title; title 8 section 1101; title 12 sections 93, 1464, 1772d, 1785, 1786, 1818, 1821, 1829, 3105, 3413, 3420; title 22 section 2714; title 26 section 6050I; title 28 section 524; title 31 sections 5328, 9703.
+This section is referred to in sections 981, 982, 986, 1510, 1952, 1956, 1961, 2516 of this title; title 8 section 1101; title 12 sections 93, 1464, 1772d, 1785, 1786, 1818, 1821, 1829, 3105, 3413, 3420; title 22 section 2714; title 26 section 6050I; title 28 section 524; title 31 sections 5328, 9703.
 

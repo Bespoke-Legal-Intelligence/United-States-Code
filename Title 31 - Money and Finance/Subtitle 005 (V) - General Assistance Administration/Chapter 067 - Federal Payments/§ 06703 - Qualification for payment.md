@@ -10,7 +10,7 @@ In General.—The Secretary shall issue regulations establishing procedures unde
 
 &emsp;(3) The Gang Resistance Education and Training Program under the Act entitled “An Act making appropriations for the Treasury Department, the United States Postal Service, the Executive Office of the President, and certain Independent Agencies, for the fiscal year ending September 30, 1991, and for other purposes”, approved November 5, 1990 (Public Law 101–509).
 
-&emsp;(4) Programs under title II or IV of the Job Training Partnership Act or under title I of the Workforce Investment Act of 1998.
+&emsp;(4) Programs under title I of the Workforce Investment Act of 1998.
 
 &emsp;(5) Programs under subtitle C of title I of the National and Community Service Act of 1990 (42 U.S.C. 12571 et seq.), as amended.
 
@@ -64,7 +64,7 @@ General Requirements for Qualification.—A unit of general local government qua
 
 &emsp;(2) the government will use amounts in the trust fund (including interest) during a reasonable period;
 
-&emsp;(3) the government will expend the payments so received, in accordance with the laws andprocedures that are applicable to the expenditure of revenues of the government;
+&emsp;(3) the government will expend the payments so received, in accordance with the laws and procedures that are applicable to the expenditure of revenues of the government;
 
 &emsp;(4) if at least 25 percent of the pay of individuals employed by the government in a public employee occupation is paid out of the trust fund, individuals in the occupation any part of whose pay is paid out of the trust fund will receive pay at least equal to the prevailing rate of pay for individuals employed in similar public employee occupations by the government;
 
@@ -108,12 +108,6 @@ Payment conditions.—The Secretary may make a payment to a unit of general loca
 
 (Added Pub. L. 103–322, title III, §31001(a), Sept. 13, 1994, 108 Stat. 1861; amended Pub. L. 104–316, title I, §115(j), Oct. 19, 1996, 110 Stat. 3835; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(c)(3), (d)(27), (f)(19)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–417, 2681–424, 2681–432.)
 
-#### Amendment of Subsection (a)(4)
-
-<i>Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(f)(19), (g)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–432, 2681–435, provided that, effective July 1, 2000, subsection (a) of this section is amended by striking paragraph (4) and inserting the following:</i>
-
-(4) Programs under title I of the Workforce Investment Act of 1998.
-
 #### References in Text
 
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(1), (9), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Parts A and B of chapter 1 of title I of the Act were classified generally to parts A (§2711 et seq.) and B (§2741 et seq.) of division 1 of subchapter I of chapter 47 of Title 20, Education, prior to being omitted in the general amendment of Pub. L. 89–10 by Pub. L. 103–382. See parts A (§6311 et seq.) and B (§6361 et seq.) of subchapter I of chapter 70 of Title 20. Section 5122 of the Act was classified to section 3192 of Title 20 prior to being omitted in the general amendment of Pub. L. 89–10 by Pub. L. 103–382. See section 7101 et seq. of Title 20.
@@ -122,9 +116,7 @@ Section 682 of the Community Services Block Grant Act, referred to in subsec. (a
 
 Public Law 101–509, referred to in subsec. (a)(3), is Pub. L. 101–509, Nov. 5, 1990, 104 Stat. 1389. For complete classification of this Act to the Code, see Tables.
 
-The Job Training Partnership Act, referred to in subsec. (a)(4), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended. Titles II and IV of the Act are classified generally to subchapters II (§1601 et seq.) and IV (§1671 et seq.), respectively, of chapter 19 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
-
-The Workforce Investment Act of 1998, referred to in subsec. (a)(4), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified generally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+The Workforce Investment Act of 1998, referred to in subsec. (a)(4), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
 The National and Community Service Act of 1990, referred to in subsec. (a)(5), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, as amended. Subtitle C of title I of the Act is classified generally to division C (§12571 et seq.) of subchapter I of chapter 129 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
 
@@ -162,7 +154,9 @@ A prior section 6703, Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1012; Pub. L. 9
 
 #### Amendments
 
-1998—Subsec. (a)(4). Pub. L. 105–277, §101(f) \[title VIII, §405(d)(27)\], added par. (4) and struck out former par. (4) which read as follows: “Programs under title II or IV of the Job Training Partnership Act (29 U.S.C. 1601 et seq.).”
+1998—Subsec. (a)(4). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(19)\], added par. (4) and struck out former par. (4) which read as follows: “Programs under title II or IV of the Job Training Partnership Act or under title I of the Workforce Investment Act of 1998.”
+
+Pub. L. 105–277, §101(f) \[title VIII, §405(d)(27)\], added par. (4) and struck out former par. (4) which read as follows: “Programs under title II or IV of the Job Training Partnership Act (29 U.S.C. 1601 et seq.).”
 
 Subsec. (a)(15) to (19). Pub. L. 105–277, §101(f) \[title VIII, §405(c)(3)\], redesignated pars. (16) to (19) as (15) to (18), respectively, and struck out former par. (15) which read as follows: “The family support program under subtitle F of title VII of the Stewart B. McKinney Homeless Assistance Act (42 U.S.C. 11481 et seq.).”
 

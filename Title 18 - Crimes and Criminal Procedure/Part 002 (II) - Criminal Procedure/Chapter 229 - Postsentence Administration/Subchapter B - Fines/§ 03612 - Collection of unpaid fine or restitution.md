@@ -8,7 +8,7 @@ Notification of Receipt and Related Matters.—The clerk or the person designate
 
 &emsp;(2) within 15 days after the receipt or at such other time as may be determined jointly by the Attorney General and the Director of the Administrative Office of the United States Courts.
 
-> If the fifteenth day under paragraph (2) is a Saturday, Sunday, or legal public holiday, the clerk, or the person designated under section 604(a)(18) of title 28, shall provide notificationnot later than the next day that is not a Saturday, Sunday, or legal public holiday.
+> If the fifteenth day under paragraph (2) is a Saturday, Sunday, or legal public holiday, the clerk, or the person designated under section 604(a)(18) of title 28, shall provide notification not later than the next day that is not a Saturday, Sunday, or legal public holiday.
 
 (b)
 
@@ -26,7 +26,7 @@ Information to be Included in Judgment; Judgment to be Transmitted to Attorney G
 
 &emsp;(F) if other than immediate payment is permitted, a requirement that, until the fine or restitution order is paid in full, the defendant notify the Attorney General of any change in the mailing address or residence address of the defendant not later than thirty days after the change occurs; and
 
-&emsp;(G) in the case of a restitution order, information sufficient to identify each victim to whom restitution is owed. It shall be the responsibility of each victim to notify the Attorney General, or the appropriate entity of the court, by means of a form to be provided by the Attorney General or the court, of any change in the victim's mailing address while restitution is still owed the victim. The confidentiality of any information relating to a victim shall be maintained.
+&emsp;(G) in the case of a restitution order, information sufficient to identify each victim towhom restitution is owed. It shall be the responsibility of each victim to notify the Attorney General, or the appropriate entity of the court, by means of a form to be provided by the Attorney General or the court, of any change in the victim's mailing address while restitution is still owed the victim. The confidentiality of any information relating to a victim shall be maintained.
 
 (2) Not later than ten days after entry of the judgment or order, the court shall transmit a certified copy of the judgment or order to the Attorney General.
 
@@ -62,7 +62,7 @@ Computation.—Interest on a fine shall be computed—
 
 &emsp;&emsp;(A) daily (from the first day on which the defendant is liable for interest under paragraph (1)); and
 
-&emsp;&emsp;(B) at a rate equal to the coupon issue yield equivalent (as determined by the Secretary of the Treasury) of the average accepted auction price for the last auction of fifty-two week United States Treasury bills settled before the first day on which the defendant is liable for interest under paragraph (1).
+&emsp;&emsp;(B) at a rate equal to the weekly average 1-year constant maturity Treasury yield, as published by the Board of Governors of the Federal Reserve System, for the calendar week preceding.<sup>1</sup> the first day on which the defendant is liable for interest under paragraph (1).
 
 &emsp;(3)
 
@@ -86,13 +86,15 @@ Waiver of Interest or Penalty by Attorney General.—The Attorney General may wa
 
 Application of Payments.—Payments relating to fines and restitution shall be applied in the following order: (1) to principal; (2) to costs; (3) to interest; and (4) to penalties.
 
-(Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 2004; amended Pub. L. 100–185, §11, Dec. 11, 1987, 101 Stat. 1283; Pub. L. 100–690, title VII, §7082(c), (d), Nov. 18, 1988, 102 Stat. 4408; Pub. L. 101–647, title XXXV, §3592, Nov. 29, 1990, 104 Stat. 4931; Pub. L. 104–132, title II, §207(c)(2), Apr. 24, 1996, 110 Stat. 1237.)
+(Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 2004; amended Pub. L. 100–185, §11, Dec. 11, 1987, 101 Stat. 1283; Pub. L. 100–690, title VII, §7082(c), (d), Nov. 18, 1988, 102 Stat. 4408; Pub. L. 101–647, title XXXV, §3592, Nov. 29, 1990, 104 Stat. 4931; Pub. L. 104–132, title II, §207(c)(2), Apr. 24, 1996, 110 Stat. 1237; Pub. L. 106–554, §1(a)(7) \[title III, §307(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–635.)
 
 #### Prior Provisions
 
 For a prior section 3612, applicable to offenses committed prior to Nov. 1, 1987, see note set out preceding section 3601 of this title.
 
 #### Amendments
+
+2000—Subsec. (f)(2)(B). Pub. L. 106–554 substituted “the weekly average 1-year constant maturity Treasury yield, as published by the Board of Governors of the Federal Reserve System, for the calendar week preceding.” for “the coupon issue yield equivalent (as determined by the Secretary of the Treasury) of the average accepted auction price for the last auction of fifty-two week United States Treasury bills settled before”.
 
 1996—Pub. L. 104–132, §207(c)(2)(A), substituted “Collection of unpaid fine or restitution” for “Collection of an unpaid fine” in section catchline.
 
@@ -195,4 +197,6 @@ Section 237 of Pub. L. 98–473 provided that:
 #### Section Referred to in Other Sections
 
 This section is referred to in section 3663 of this title; title 21 section 853.
+
+<i><sup>1</sup></i><i> So in original.</i>
 

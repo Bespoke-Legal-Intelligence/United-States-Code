@@ -8,7 +8,3 @@ It shall be the duty of the Secretary of the Treasury, from time to time, to ins
 
 R.S. §5307 derived from act July 2, 1864, ch. 225, §10, 13 Stat. 377.
 
-#### Cross References
-
-Authority of any employee of any Department detailed to investigate frauds on the Government, or any official misconduct, to administer oaths to witnesses, see section 303 of Title 5, Government Organization and Employees.
-

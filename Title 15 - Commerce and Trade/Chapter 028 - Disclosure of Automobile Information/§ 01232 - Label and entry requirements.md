@@ -24,10 +24,6 @@ Every manufacturer of new automobiles distributed in commerce shall, prior to th
 
 (Pub. L. 85–506, §3, July 7, 1958, 72 Stat. 326.)
 
-#### Cross References
-
-Failure to affix label, fine for, see section 1233 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1233 of this title; title 49 sections 32304, 32908.

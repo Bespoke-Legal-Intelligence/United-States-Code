@@ -24,7 +24,3 @@ Section 893f, Pub. L. 93–203, title III, §337, as added Pub. L. 95–93, titl
 
 Section 893g, Pub. L. 93–203, title III, §338, as added Pub. L. 95–93, title II, §201, Aug. 5, 1977, 91 Stat. 639, related to a work limitation with respect to eligible youths involved in community conservation and improvement projects.
 
-#### Effective Date of Repeal
-
-Section 184(a) of Pub. L. 97–300 provided that the repeal of this section is effective Oct. 13, 1982.
-

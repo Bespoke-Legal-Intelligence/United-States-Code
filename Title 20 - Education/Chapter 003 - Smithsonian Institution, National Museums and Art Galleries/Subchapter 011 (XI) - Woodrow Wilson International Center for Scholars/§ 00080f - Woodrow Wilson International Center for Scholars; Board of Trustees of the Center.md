@@ -28,7 +28,7 @@ The Board of Trustees shall be composed of 17 members as follows:
 
 #### (c) Appointment of alternate members by members of Board
 
-Each member of the Board of Trustees specified in paragraphs (1) through (8) of subsection (b) of this section may designate another official to serve on the Board of Trustees in his stead.
+Each member of the Board of Trustees specified in paragraphs (1) through (8) of subsection\(b) of this section may designate another official to serve on the Board of Trustees in his stead.
 
 #### (d) Terms of office; vacancies; reappointment
 

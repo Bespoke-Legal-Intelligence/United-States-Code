@@ -78,6 +78,10 @@ Amendment by Pub. L. 105–135 effective Oct. 1, 1997, see section 3 of Pub. L. 
 
 Section effective Oct. 1, 1980, see section 507 of Pub. L. 96–302, set out as an Effective Date of 1980 Amendment note under section 631 of this title.
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of reporting provisions in subsecs. (a) and (b) of this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and pages 17 and 34 of House Document No. 103–7.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 644 of this title.

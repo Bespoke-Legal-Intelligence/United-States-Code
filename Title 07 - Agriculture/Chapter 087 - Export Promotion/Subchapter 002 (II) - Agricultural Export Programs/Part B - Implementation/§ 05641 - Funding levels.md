@@ -22,7 +22,7 @@ The Commodity Credit Corporation or the Secretary shall make available for marke
 
 &emsp;(2) any funds that may be specifically appropriated to carry out a market access program under section 5623 of this title.
 
-(Pub. L. 95–501, title II, §211, as added Pub. L. 101–624, title XV, §1531, Nov. 28, 1990, 104 Stat.3677; amended Pub. L. 103–66, title I, §1302(a), Aug. 10, 1993, 107 Stat. 330; Pub. L. 104–127, title II, §§243(b), 244(a)(2)(B), (c), Apr. 4, 1996, 110 Stat. 967, 968.)
+(Pub. L. 95–501, title II, §211, as added Pub. L. 101–624, title XV, §1531, Nov. 28, 1990, 104 Stat. 3677; amended Pub. L. 103–66, title I, §1302(a), Aug. 10, 1993, 107 Stat. 330; Pub. L. 104–127, title II, §§243(b), 244(a)(2)(B), (c), Apr. 4, 1996, 110 Stat. 967, 968.)
 
 #### Amendments
 

@@ -2,7 +2,7 @@
 
 #### (a) Adulteration or misbranding prohibition; compliance with inspection, building construction standards, and other provisions; humane methods of slaughter; treatment as domestic articles subject to this chapter and food, drug, and cosmetic provisions; marking and labeling; personal consumption exemption
 
-No carcasses, parts of carcasses, meat or meat food products of cattle, sheep, swine, goats, horses, mules, or other equines which are capable of use as human food, shall be imported into the United States if such articles are adulterated or misbranded and unless they comply with all the inspection, building, construction standards, and all other provisions of this chapter and regulations issued thereunder applicable to such articles in commerce within the United States. No such carcasses, parts of carcasses, meat or meat food products shall be imported into the United States unless the livestock from which they were produced was slaughtered and handled in connection with slaughter in accordance with the Act of August 27, 1958 (72 Stat. 862; 7 U.S.C. 1901–1906). All such imported articles shall, upon entry into the United States, be deemed and treated as domestic articles subject to the other provisions of this chapter and the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\]: <i>Provided</i>, That they shall be marked and labeled as required by such regulations for imported articles: <i>Provided further</i>, That nothing in this section shall apply to any individual who purchases meat or meat products outside the United States for his own consumption except that the total amount of such meat or meat products shall not exceed fifty pounds.
+No carcasses, parts of carcasses, meat or meat food products of cattle, sheep, swine, goats, horses, mules, or other equines which are capable of use as human food, shall be imported into the United States if such articles are adulterated or misbranded and unless they comply with all the inspection, building, construction standards, and all other provisions of this chapter andregulations issued thereunder applicable to such articles in commerce within the United States. No such carcasses, parts of carcasses, meat or meat food products shall be imported into the United States unless the livestock from which they were produced was slaughtered and handled in connection with slaughter in accordance with the Act of August 27, 1958 (72 Stat. 862; 7 U.S.C. 1901–1906). All such imported articles shall, upon entry into the United States, be deemed and treated as domestic articles subject to the other provisions of this chapter and the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\]: <i>Provided</i>, That they shall be marked and labeled as required by such regulations for imported articles: <i>Provided further</i>, That nothing in this section shall apply to any individual who purchases meat or meat products outside the United States for his own consumption except that the total amount of such meat or meat products shall not exceed fifty pounds.
 
 #### (b) Terms and conditions for destruction
 
@@ -16,29 +16,7 @@ All charges for storage, cartage, and labor with respect to any article which is
 
 The knowing importation of any article contrary to this section is prohibited.
 
-#### (e) Reports to Congressional committees
-
-Not later than March 1 of each year the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a comprehensive and detailed written report with respect to the administration of this section during the immediately preceding calendar year. Such report shall include, but shall not be limited to the following:
-
-&emsp;(1)(A) A certification by the Secretary that foreign plants exporting carcasses or meat or meat products referred to in subsection (a) of this section have complied with requirements that achieve a level of sanitary protection equivalent to that achieved under United States requirements with regard to all inspection, building construction standards, and all other provisions of this chapter and regulations issued under this chapter.
-
-&emsp;(B) The Secretary may treat as equivalent to a United States requirement a requirement described in subparagraph (A) if the exporting country provides the Secretary with scientific evidence or other information, in accordance with risk assessment methodologies determined appropriate by the Secretary, to demonstrate that the requirement achieves the level of sanitary protection achieved under the United States requirement. For the purposes of this subsection, the term “sanitary protection” means protection to safeguard public health.
-
-&emsp;(C) The Secretary may—
-
-&emsp;&emsp;(i) determine, on a scientific basis, that a requirement of an exporting country does not achieve the level of protection that the Secretary considers appropriate; and
-
-&emsp;&emsp;(ii) provide the basis for the determination to the exporting country in writing on request.
-
-&emsp;(2) The names and locations of plants authorized or permitted to have imported into the United States therefrom carcasses or meat or meat products referred to in subsection (a) of this section.
-
-&emsp;(3) The number of inspectors employed by the Department of Agriculture in the calendar year concerned who were assigned to inspect plants referred to in paragraph (e)(2) <sup>1</sup> hereof and the frequency with which each such plant was inspected by such inspectors.
-
-&emsp;(4) The number of inspectors licensed by each country from which any imports subject to the provisions of this section were imported who were assigned, during the calendar year concerned, to inspect such imports and the facilities in which such imports were handled and the frequency and effectiveness of such inspections.
-
-&emsp;(5) The total volume of carcasses or meat or meat products referred to in subsection (a) ofthis section which was imported into the United States during the calendar year concerned from each country, including a separate itemization of the volume of each major category of such imports from each country during such year, and a detailed report of rejections of plants and products because of failure to meet appropriate standards prescribed by this chapter.
-
-&emsp;(6) The name of each foreign country that applies standards for the importation of meat articles from the United States that are described in subsection (h)(2) of this section.
+#### (e) Omitted
 
 #### (f) Inspection and other standards; applicability, enforcement, etc.; certifications
 
@@ -64,7 +42,7 @@ The Secretary may prescribe terms and conditions under which cattle, sheep, swin
 
 &emsp;(B) within 30 days after the determination of the Secretary under paragraph (2), the Secretary and the United States Trade Representative shall recommend to the President whether action should be taken under paragraph (4).
 
-(4) Within 30 days after receiving a recommendation for action under paragraph (3), the President shall, if and for such time as the President considers appropriate, prohibit imports into the United States of any meat articles produced in such foreign country unless it is determined that the meat articles produced in that country meet the standards applicable to meat articles in commerce within the United States.
+(4) Within 30 days after receiving a recommendation for action under paragraph (3), thePresident shall, if and for such time as the President considers appropriate, prohibit imports into the United States of any meat articles produced in such foreign country unless it is determined that the meat articles produced in that country meet the standards applicable to meat articles in commerce within the United States.
 
 (5) The action authorized under paragraph (4) may be used instead of, or in addition to, any other action taken under any other law.
 
@@ -72,15 +50,13 @@ The Secretary may prescribe terms and conditions under which cattle, sheep, swin
 
 #### References in Text
 
-Act of August 27, 1958, referred to in subsec. (a), is Pub. L. 85–765, Aug. 27, 1958, 72 Stat. 862, as amended, which is classified generally to chapter 48 (§1901 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Tables.
-
-Sections 1903 and 1905 of Title 7, included within reference to Act of August 27, 1958, were repealed by Pub. L. 95–445, §5(b), Oct. 10, 1978, 92 Stat. 1069, effective as set forth in section 7 of Pub. L. 95–445, set out as an Effective Date of 1978 Amendment note under section 603 of this title.
+Act of August 27, 1958, referred to in subsec. (a), is Pub. L. 85–765, Aug. 27, 1958, 72 Stat. 862, as amended, which is classified generally to chapter 48 (§1901 et seq.) of Title 7, Agriculture. Sections 1903 and 1905 of Title 7, included within reference to Act of August 27, 1958, were repealed by Pub. L. 95–445, §5(b), Oct. 10, 1978, 92 Stat. 1069, effective as set forth in section 7 of Pub. L. 95–445, set out as an Effective Date of 1978 Amendment note under section 603 of this title. For complete classification of this Act to the Code, see Tables.
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (a), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of this title. For complete classification of this act to the Code, see section 301 of this title and Tables.
 
-Paragraph (e)(2), referred to in par. (e)(3), was struck out and pars. (e)(3) to (e)(7) were redesignated (e)(2) to (e)(6), respectively, by Pub. L. 103–465.
-
 #### Codification
+
+Subsec. (e) of this section, which required the Secretary to submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a comprehensive and detailed written annual report on the administration of this section, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 46 of House Document No. 103–7.
 
 Section was formerly classified to section 88 of this title.
 
@@ -129,10 +105,4 @@ Amendment by Pub. L. 95–445 effective one year after Oct. 10, 1978, and an add
 #### Effective Date of 1967 Amendment
 
 Amendment by Pub. L. 90–201 effective upon expiration of sixty days after Dec. 15, 1967, see section 20(a) of Pub. L. 90–201, set out as an Effective Date note under section 601 of this title.
-
-#### Cross References
-
-Federal Food, Drug, and Cosmetic Act defined, see section 601 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

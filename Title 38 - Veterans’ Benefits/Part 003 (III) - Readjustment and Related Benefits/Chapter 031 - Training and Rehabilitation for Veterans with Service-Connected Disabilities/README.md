@@ -41,7 +41,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 101, 106, 109, 113, 1151, 1163, 1524, 1701, 1718, 1724, 3033, 3485, 3674, 3679, 3680, 3680A, 3681, 3684, 3690, 3693, 3695, 3697A, 3748, 4102A, 4103, 4103A, 4104, 4213, 5113, 5307 of this title; title 2 section 905; title 5 section 8525; title 20 section 1087vv; title 26 sections 25A, 51, 135, 6334; title 29 sections 1721, 2913.
+This chapter is referred to in sections 101, 106, 109, 113, 1151, 1163, 1524, 1701, 1718, 1724, 3033, 3485, 3674, 3679, 3680, 3680A, 3681, 3684, 3690, 3693, 3695, 3697A, 3748, 4102A, 4103, 4103A, 4104, 4213, 5113, 5307 of this title; title 2 section 905; title 5 section 8525; title 20 section 1087vv; title 26 sections 25A, 51, 135, 6334; title 29 section 2913.
 
 
 ---

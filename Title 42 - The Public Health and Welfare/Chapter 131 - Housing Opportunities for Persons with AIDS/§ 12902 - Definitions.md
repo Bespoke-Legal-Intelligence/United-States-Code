@@ -6,7 +6,7 @@ For purposes of this chapter:
 
 &emsp;(2) The term “applicant” means a State, a unit of general local government, or a nonprofit organization eligible to receive assistance under this chapter.
 
-&emsp;(3) The term “low-income individual” means any individual or family whose incomes do not exceed 80 percent of the median income for the area, as determined by the Secretary of Housing and Urban Development, with adjustments for smaller and larger families, except that the Secretary may establish income ceilings higher or lower than 80 percent of the median income for the area if the Secretary finds that such variations are necessary because of prevailing levels of construction costs or unusually high or low family incomes.
+&emsp;(3) The term “low-income individual” means any individual or family whose incomes do not exceed 80 percent of the median income for the area, as determined by the Secretary of Housing and Urban Development, with adjustments for smaller and larger families, except that the Secretary may establish income ceilingshigher or lower than 80 percent of the median income for the area if the Secretary finds that such variations are necessary because of prevailing levels of construction costs or unusually high or low family incomes.
 
 &emsp;(4) The term “grantee” means a State or unit of general local government receiving grants from the Secretary under this chapter.
 

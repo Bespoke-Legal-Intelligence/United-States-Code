@@ -2,7 +2,7 @@
 
 #### (a) Eligible national service programs
 
-The recipient of a grant under section 12571(a) of this title and each Federal agency receivingassistance under section 12571(b) of this title shall use the assistance, directly or through subgrants to other entities, to carry out full- or part-time national service programs, including summer programs, that address unmet human, educational, environmental, or public safety needs. Subject to subsection (b)(1) of this section, these national service programs may include the following types of national service programs:
+The recipient of a grant under section 12571(a) of this title and each Federal agency receiving assistance under section 12571(b) of this title shall use the assistance, directly or through subgrants to other entities, to carry out full- or part-time national service programs, including summer programs, that address unmet human, educational, environmental, or public safety needs. Subject to subsection (b)(1) of this section, these national service programs may include the following types of national service programs:
 
 &emsp;(1) A community corps program that meets unmet human, educational, environmental, or public safety needs and promotes greater community unity through the use of organized teams of participants of varied social and economic backgrounds, skill levels, physical and developmental capabilities, ages, ethnic backgrounds, or genders.
 
@@ -48,7 +48,7 @@ The recipient of a grant under section 12571(a) of this title and each Federal a
 
 &emsp;&emsp;(A) as teachers, nurses and other health care providers, police officers, early childhood development staff, engineers, or other professionals providing service to meet educational, human, environmental, or public safety needs in communities with an inadequate number of such professionals;
 
-&emsp;&emsp;(B) that may include a salary in excess of the maximum living allowance authorized in subsection (a)(3) of section 12594 of this title, as provided in subsection (c) of such section; and
+&emsp;&emsp;(B) that may include a salary in excess of the maximum living allowance authorized insubsection (a)(3) of section 12594 of this title, as provided in subsection (c) of such section; and
 
 &emsp;&emsp;(C) that are sponsored by public or private nonprofit employers who agree to pay 100 percent of the salaries and benefits (other than any national service educational award under division D of this subchapter) of the participants.
 
@@ -58,7 +58,7 @@ The recipient of a grant under section 12571(a) of this title and each Federal a
 
 &emsp;&emsp;(B) the need for community facilities in low-income areas.
 
-&emsp;(10) A national service entrepreneur program that identifies, recruits, and trains giftedyoung adults of all backgrounds and assists them in designing solutions to community problems.
+&emsp;(10) A national service entrepreneur program that identifies, recruits, and trains gifted young adults of all backgrounds and assists them in designing solutions to community problems.
 
 &emsp;(11) An intergenerational program that combines students, out-of-school youths, and older adults as participants to provide needed community services, including an intergenerational component for other national service programs described in this subsection.
 
@@ -110,7 +110,7 @@ The recipient of a grant under section 12571(a) of this title and each Federal a
 
 #### (B) By States
 
-&emsp;&emsp;Consistent with paragraph (4), States shall establish, and through the national service plan process described in section 12638(e)(1) of this title, periodically alter priorities as appropriate regarding the national service programs to be assisted under section 12581(a)(1) of this title. The State priorities shall be subject to Corporation review as part of the application process under section 12582 of this title.
+&emsp;&emsp;Consistent with paragraph (4), States shall establish, and through the national service plan process described in section 12638(e)(1) of this title, periodically alter priorities as appropriate regarding the national serviceprograms to be assisted under section 12581(a)(1) of this title. The State priorities shall be subject to Corporation review as part of the application process under section 12582 of this title.
 
 #### (2) Notice to applicants
 

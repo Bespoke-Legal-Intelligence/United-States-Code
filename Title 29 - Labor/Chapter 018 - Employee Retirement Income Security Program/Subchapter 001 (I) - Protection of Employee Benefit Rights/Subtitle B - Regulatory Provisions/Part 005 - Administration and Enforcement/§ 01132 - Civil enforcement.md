@@ -50,7 +50,7 @@ A civil action may be brought—
 
 (5) The Secretary may assess a civil penalty against any person of up to $1,000 a day from the date of the person's failure or refusal to file the information required to be filed by such person with the Secretary under regulations prescribed pursuant to section 1021(g) of this title.
 
-(6) If, within 30 days of a request by the Secretary to a plan administrator for documents under section 1024(a)(6) of this title, the plan administrator fails to furnish the material requested to the Secretary, the Secretary may assess a civil penalty against the plan administrator of up to $100 a day from the date of suchfailure (but in no event in excess of $1,000 per request). No penalty shall be imposed under this paragraph for any failure resulting from matters reasonably beyond the control of the plan administrator.
+(6) If, within 30 days of a request by the Secretary to a plan administrator for documents under section 1024(a)(6) of this title, the plan administrator fails to furnish the material requested to the Secretary, the Secretary may assess a civil penalty against the plan administrator of up to $100 a day from the date of such failure (but in no event in excess of $1,000 per request). No penalty shall be imposed under this paragraph for any failure resulting from matters reasonably beyond the control of the plan administrator.
 
 (7) The Secretary and the Secretary of Health and Human Services shall maintain such ongoing consultation as may be necessary and appropriate to coordinate enforcement under this subsection with enforcement under section 1320b–14(c)(8) <sup>2</sup> of title 42.
 
@@ -264,7 +264,7 @@ Section 4 of Pub. L. 103–401 provided that: “Nothing in this Act \[amending 
 
 #### Plan Amendments Not Required Until January 1, 1994
 
-For provisions setting forth circumstances under which any amendment to a plan required to be made by an amendment made by section 4301 of Pub. L. 103–66 shall not be required to be made before the first plan year beginning on or after Jan. 1, 1994, see section 4301(d) of Pub. L. 103–66, set out as an Effective Date of 1993 Amendment note under section 1021 of this title.
+For provisions setting forth circumstances under which any amendment to a plan required to be made byan amendment made by section 4301 of Pub. L. 103–66 shall not be required to be made before the first plan year beginning on or after Jan. 1, 1994, see section 4301(d) of Pub. L. 103–66, set out as an Effective Date of 1993 Amendment note under section 1021 of this title.
 
 #### Section Referred to in Other Sections
 

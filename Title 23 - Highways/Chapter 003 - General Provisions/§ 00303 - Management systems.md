@@ -32,7 +32,7 @@ Procedural Requirements.—In developing and implementing a management system un
 
 (e)
 
-Intermodal Requirements.—The management system required under this section for intermodal transportation facilities and systems shall provide for improvement and integration of all of a State's transportation systems and shall include methods of achieving the optimum yield from such systems, methods for increasing productivity in the State, methods for increasing use of advanced technologies, and methods to encourage the use of innovative marketing techniques, such as just-in-time deliveries.
+Intermodal Requirements.—The management system required under this section forintermodal transportation facilities and systems shall provide for improvement and integration of all of a State's transportation systems and shall include methods of achieving the optimum yield from such systems, methods for increasing productivity in the State, methods for increasing use of advanced technologies, and methods to encourage the use of innovative marketing techniques, such as just-in-time deliveries.
 
 (f)
 
@@ -80,7 +80,11 @@ Subsec. (d). Pub. L. 103–429, §3(9), substituted “chapter 53 of title 49”
 
 #### Effective Date
 
-Section effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available after Sept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, setout as an Effective Date of 1991 Amendment note under section 104 of this title.
+Section effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available after Sept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as an Effective Date of 1991 Amendment note under section 104 of this title.
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of reporting provisions in subsec. (f)(1) of this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 137 of House Document No. 103–7.
 
 #### Section Referred to in Other Sections
 

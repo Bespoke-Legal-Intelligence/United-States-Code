@@ -4,12 +4,6 @@ The Secretary of the Interior, after notice and hearing, is authorized to cancel
 
 (June 25, 1910, ch. 431, §14, 36 Stat. 859.)
 
-#### Cross References
-
-Certain lands not to be allotted in severalty to any Indian, see section 461 of this title.
-
-Irrigation projects under Reclamation Act, see section 382 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 353, 406, 564h, 697, 747 of this title; title 43 section 1617.

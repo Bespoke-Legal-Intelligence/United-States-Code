@@ -17,6 +17,8 @@
 | [302f.](%C2%A7%2000302f%20-%20Special%20pay%20reserve%2C%20recalled%2C%20or%20retained%20health%20care%20officers.md) | Special pay: reserve, recalled, or retained health care officers. |
 | [302g.](%C2%A7%2000302g%20-%20Special%20pay%20Selected%20Reserve%20health%20care%20professionals%20in%20critically%20short%20wartime%20specialties.md) | Special pay: Selected Reserve health care professionals in critically short wartime specialties. |
 | [302h.](%C2%A7%2000302h%20-%20Special%20pay%20accession%20bonus%20for%20dental%20officers.md) | Special pay: accession bonus for dental officers. |
+| [302i.](%C2%A7%2000302i%20-%20Special%20pay%20pharmacy%20officers.md) | Special pay: pharmacy officers. |
+| [302j.](%C2%A7%2000302j%20-%20Special%20pay%20accession%20bonus%20for%20pharmacy%20officers.md) | Special pay: accession bonus for pharmacy officers. |
 | [303\.](%C2%A7%2000303%20-%20Special%20pay%20veterinarians.md) | Special pay: veterinarians. |
 | [303a.](%C2%A7%2000303a%20-%20Special%20pay%20health%20professionals%3B%20general%20provisions.md) | Special pay: health professionals; general provisions. |
 | [303b.](%C2%A7%2000303b%20-%20Waiver%20of%20board%20certification%20requirements.md) | Waiver of board certification requirements. |
@@ -27,16 +29,16 @@
 | [306a.](%C2%A7%2000306a%20-%20Special%20pay%20members%20assigned%20to%20international%20military%20headquarters.md) | Special pay: members assigned to international military headquarters. |
 | [307\.](%C2%A7%2000307%20-%20Special%20pay%20special%20duty%20assignment%20pay%20for%20enlisted%20members.md) | Special pay: special duty assignment pay for enlisted members. |
 | [308\.](%C2%A7%2000308%20-%20Special%20pay%20reenlistment%20bonus.md) | Special pay: reenlistment bonus. |
-| [308a.](%C2%A7%2000308a%20-%20Special%20pay%20enlistment%20bonus.md) | Special pay: enlistment bonus. |
+| \[308a. | Repealed.\] |
 | [308b.](%C2%A7%2000308b%20-%20Special%20pay%20reenlistment%20bonus%20for%20members%20of%20the%20Selected%20Reserve.md) | Special pay: reenlistment bonus for members of the Selected Reserve. |
 | [308c.](%C2%A7%2000308c%20-%20Special%20pay%20bonus%20for%20enlistment%20in%20the%20Selected%20Reserve.md) | Special pay: bonus for enlistment in the Selected Reserve. |
 | [308d.](%C2%A7%2000308d%20-%20Special%20pay%20enlisted%20members%20of%20the%20Selected%20Reserve%20assigned%20to%20certain%20high%20priority%20units.md) | Special pay: enlisted members of the Selected Reserve assigned to certain high priority units. |
 | [308e.](%C2%A7%2000308e%20-%20Special%20pay%20bonus%20for%20reserve%20affiliation%20agreement.md) | Special pay: bonus for reserve affiliation agreement. |
-| [308f.](%C2%A7%2000308f%20-%20Special%20pay%20bonus%20for%20enlistment%20in%20the%20Army.md) | Special pay: bonus for enlistment in the Army. |
+| \[308f. | Repealed.\] |
 | [308g.](%C2%A7%2000308g%20-%20Special%20pay%20bonus%20for%20enlistment%20in%20elements%20of%20the%20Ready%20Reserve%20other%20than%20the%20Selected%20Reserve.md) | Special pay: bonus for enlistment in elements of the Ready Reserve other than the Selected Reserve. |
 | [308h.](%C2%A7%2000308h%20-%20Special%20pay%20bonus%20for%20reenlistment%2C%20enlistment%2C%20or%20voluntary%20extension%20of%20enlistment%20in%20elements%20of%20the%20Ready%20Reserve%20other%20than%20the%E2%80%A6.md) | Special pay: bonus for reenlistment, enlistment, or voluntary extension of enlistment in elements of the Ready Reserve other than the Selected Reserve. |
 | [308i.](%C2%A7%2000308i%20-%20Special%20pay%20prior%20service%20enlistment%20bonus.md) | Special pay: prior service enlistment bonus. |
-| \[309. | Repealed.\] |
+| [309\.](%C2%A7%2000309%20-%20Special%20pay%20enlistment%20bonus.md) | Special pay: enlistment bonus. |
 | [310\.](%C2%A7%2000310%20-%20Special%20pay%20duty%20subject%20to%20hostile%20fire%20or%20imminent%20danger.md) | Special pay: duty subject to hostile fire or imminent danger. |
 | \[311. | Repealed.\] |
 | [312\.](%C2%A7%2000312%20-%20Special%20pay%20nuclear-qualified%20officers%20extending%20period%20of%20active%20service.md) | Special pay: nuclear-qualified officers extending period of active service. |
@@ -54,10 +56,13 @@
 | [320\.](%C2%A7%2000320%20-%20Incentive%20pay%20career%20enlisted%20flyers.md) | Incentive pay: career enlisted flyers. |
 | [321\.](%C2%A7%2000321%20-%20Special%20pay%20judge%20advocate%20continuation%20pay.md) | Special pay: judge advocate continuation pay. |
 | [322\.](%C2%A7%2000322%20-%20Special%20pay%2015-year%20career%20status%20bonus%20for%20members%20entering%20service%20on%20or%20after%20August%201%2C%201986.md) | Special pay: 15-year career status bonus for members entering service on or after August 1, 1986. |
+| [323\.](%C2%A7%2000323%20-%20Special%20pay%20retention%20incentives%20for%20members%20qualified%20in%20a%20critical%20military%20skill.md) | Special pay: retention incentives for members qualified in a critical military skill. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2000—Pub. L. 106–398, §1 \[\[div. A\], title VI, §§624(a)(2), (b)(2), 628(c), 633(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–152, 1654A–153, 1654A–155, 1654A–158, added items 302i, 302j, 309, and 323 and struck out items 308a “Special pay: enlistment bonus” and 308f “Special pay: bonus for enlistment in the Army”.
 
 1999—Pub. L. 106–65, div. A, title VI, §§626(a)(2), 627(a)(2), 628(a)(2), 629(a)(2), 642(b), Oct. 5, 1999, 113 Stat. 656, 657, 659, 660, 663, added items 318 to 322.
 
@@ -119,13 +124,9 @@ Pub. L. 93–274, §1(1), (2), (4), May 6, 1974, 88 Stat. 94, 95, substituted �
 
 1963—Pub. L. 88–132, §§9(a)(2), 12(c), Oct. 2, 1963, 77 Stat. 216, 218, substituted “while on sea duty or duty at certain places” for “sea and foreign duty” in item 305, and added item 310.
 
-#### Cross References
-
-Assimilation of pay and allowances, see section 1003 of this title.
-
 Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 907, 1003 of this title; title 5 section 8440e; title 42 sections 210, 254d.
+This chapter is referred to in sections 907, 1003 of this title; title 5 section 8440e; title 42 section 254d.
 
 
 ---
@@ -147,6 +148,8 @@ This chapter is referred to in sections 907, 1003 of this title; title 5 section
 - [&sect; 00302f - Special pay reserve, recalled, or retained health care officers](%C2%A7%2000302f%20-%20Special%20pay%20reserve%2C%20recalled%2C%20or%20retained%20health%20care%20officers.md)
 - [&sect; 00302g - Special pay Selected Reserve health care professionals in critically short wartime specialties](%C2%A7%2000302g%20-%20Special%20pay%20Selected%20Reserve%20health%20care%20professionals%20in%20critically%20short%20wartime%20specialties.md)
 - [&sect; 00302h - Special pay accession bonus for dental officers](%C2%A7%2000302h%20-%20Special%20pay%20accession%20bonus%20for%20dental%20officers.md)
+- [&sect; 00302i - Special pay pharmacy officers](%C2%A7%2000302i%20-%20Special%20pay%20pharmacy%20officers.md)
+- [&sect; 00302j - Special pay accession bonus for pharmacy officers](%C2%A7%2000302j%20-%20Special%20pay%20accession%20bonus%20for%20pharmacy%20officers.md)
 - [&sect; 00303 - Special pay veterinarians](%C2%A7%2000303%20-%20Special%20pay%20veterinarians.md)
 - [&sect; 00303a - Special pay health professionals; general provisions](%C2%A7%2000303a%20-%20Special%20pay%20health%20professionals%3B%20general%20provisions.md)
 - [&sect; 00303b - Waiver of board certification requirements](%C2%A7%2000303b%20-%20Waiver%20of%20board%20certification%20requirements.md)
@@ -157,16 +160,16 @@ This chapter is referred to in sections 907, 1003 of this title; title 5 section
 - [&sect; 00306a - Special pay members assigned to international military headquarters](%C2%A7%2000306a%20-%20Special%20pay%20members%20assigned%20to%20international%20military%20headquarters.md)
 - [&sect; 00307 - Special pay special duty assignment pay for enlisted members](%C2%A7%2000307%20-%20Special%20pay%20special%20duty%20assignment%20pay%20for%20enlisted%20members.md)
 - [&sect; 00308 - Special pay reenlistment bonus](%C2%A7%2000308%20-%20Special%20pay%20reenlistment%20bonus.md)
-- [&sect; 00308a - Special pay enlistment bonus](%C2%A7%2000308a%20-%20Special%20pay%20enlistment%20bonus.md)
+- [&sect; 00308a - Repealed. Pub. L. 106&#8211;398, &sect;1 \[\[div. A\], title VI, &sect;624(b)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A&#8211;153](%C2%A7%2000308a%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93398%2C%20%C2%A71%20%5B%5Bdiv.%20A%5D%2C%20title%20VI%2C%20%C2%A7624%28b%29%281%29%5D%2C%20Oct.%2030%2C%202000%2C%20114%20Stat.%201654%2C%201654A%E2%80%93153.md)
 - [&sect; 00308b - Special pay reenlistment bonus for members of the Selected Reserve](%C2%A7%2000308b%20-%20Special%20pay%20reenlistment%20bonus%20for%20members%20of%20the%20Selected%20Reserve.md)
 - [&sect; 00308c - Special pay bonus for enlistment in the Selected Reserve](%C2%A7%2000308c%20-%20Special%20pay%20bonus%20for%20enlistment%20in%20the%20Selected%20Reserve.md)
 - [&sect; 00308d - Special pay enlisted members of the Selected Reserve assigned to certain high priority units](%C2%A7%2000308d%20-%20Special%20pay%20enlisted%20members%20of%20the%20Selected%20Reserve%20assigned%20to%20certain%20high%20priority%20units.md)
 - [&sect; 00308e - Special pay bonus for reserve affiliation agreement](%C2%A7%2000308e%20-%20Special%20pay%20bonus%20for%20reserve%20affiliation%20agreement.md)
-- [&sect; 00308f - Special pay bonus for enlistment in the Army](%C2%A7%2000308f%20-%20Special%20pay%20bonus%20for%20enlistment%20in%20the%20Army.md)
+- [&sect; 00308f - Repealed. Pub. L. 106&#8211;398, &sect;1 \[\[div. A\], title VI, &sect;624(b)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A&#8211;153](%C2%A7%2000308f%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93398%2C%20%C2%A71%20%5B%5Bdiv.%20A%5D%2C%20title%20VI%2C%20%C2%A7624%28b%29%281%29%5D%2C%20Oct.%2030%2C%202000%2C%20114%20Stat.%201654%2C%201654A%E2%80%93153.md)
 - [&sect; 00308g - Special pay bonus for enlistment in elements of the Ready Reserve other than the Selected Reserve](%C2%A7%2000308g%20-%20Special%20pay%20bonus%20for%20enlistment%20in%20elements%20of%20the%20Ready%20Reserve%20other%20than%20the%20Selected%20Reserve.md)
 - [&sect; 00308h - Special pay bonus for reenlistment, enlistment, or voluntary extension of enlistment in elements of the Ready Reserve other than the&#8230;](%C2%A7%2000308h%20-%20Special%20pay%20bonus%20for%20reenlistment%2C%20enlistment%2C%20or%20voluntary%20extension%20of%20enlistment%20in%20elements%20of%20the%20Ready%20Reserve%20other%20than%20the%E2%80%A6.md)
 - [&sect; 00308i - Special pay prior service enlistment bonus](%C2%A7%2000308i%20-%20Special%20pay%20prior%20service%20enlistment%20bonus.md)
-- [&sect; 00309 - Repealed. Pub. L. 96&#8211;107, title IV, &sect;404(a)(1), Nov. 9, 1979, 93 Stat. 808](%C2%A7%2000309%20-%20Repealed.%20Pub.%20L.%2096%E2%80%93107%2C%20title%20IV%2C%20%C2%A7404%28a%29%281%29%2C%20Nov.%209%2C%201979%2C%2093%20Stat.%20808.md)
+- [&sect; 00309 - Special pay enlistment bonus](%C2%A7%2000309%20-%20Special%20pay%20enlistment%20bonus.md)
 - [&sect; 00310 - Special pay duty subject to hostile fire or imminent danger](%C2%A7%2000310%20-%20Special%20pay%20duty%20subject%20to%20hostile%20fire%20or%20imminent%20danger.md)
 - [&sect; 00311 - Repealed. Pub. L. 99&#8211;145, title VI, &sect;639(b), Nov. 8, 1985, 99 Stat. 651](%C2%A7%2000311%20-%20Repealed.%20Pub.%20L.%2099%E2%80%93145%2C%20title%20VI%2C%20%C2%A7639%28b%29%2C%20Nov.%208%2C%201985%2C%2099%20Stat.%20651.md)
 - [&sect; 00312 - Special pay nuclear-qualified officers extending period of active service](%C2%A7%2000312%20-%20Special%20pay%20nuclear-qualified%20officers%20extending%20period%20of%20active%20service.md)
@@ -184,3 +187,4 @@ This chapter is referred to in sections 907, 1003 of this title; title 5 section
 - [&sect; 00320 - Incentive pay career enlisted flyers](%C2%A7%2000320%20-%20Incentive%20pay%20career%20enlisted%20flyers.md)
 - [&sect; 00321 - Special pay judge advocate continuation pay](%C2%A7%2000321%20-%20Special%20pay%20judge%20advocate%20continuation%20pay.md)
 - [&sect; 00322 - Special pay 15-year career status bonus for members entering service on or after August 1, 1986](%C2%A7%2000322%20-%20Special%20pay%2015-year%20career%20status%20bonus%20for%20members%20entering%20service%20on%20or%20after%20August%201%2C%201986.md)
+- [&sect; 00323 - Special pay retention incentives for members qualified in a critical military skill](%C2%A7%2000323%20-%20Special%20pay%20retention%20incentives%20for%20members%20qualified%20in%20a%20critical%20military%20skill.md)

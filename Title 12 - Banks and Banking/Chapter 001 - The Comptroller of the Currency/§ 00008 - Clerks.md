@@ -12,7 +12,3 @@ R.S. §328 derived from act June 3, 1864, ch. 106, §1, 13 Stat. 100, which was 
 
 Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
 
-#### Cross References
-
-Classification of civilian employees, see section 5101 et seq. of Title 5, Government Organization and Employees.
-

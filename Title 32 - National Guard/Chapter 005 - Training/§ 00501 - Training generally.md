@@ -30,9 +30,29 @@ In subsection (a), the words “that of” are substituted for the words “the 
 
 1988—Subsec. (b). Pub. L. 100–456 struck out “the Canal Zone,” after “Puerto Rico,”.
 
+#### Demonstration Project To Increase Reserve Component Internet Access and Services in Rural Communities
+
+Pub. L. 106–398, §1 \[\[div. A\], title III, §390\], Oct. 30, 2000, 114 Stat. 1654, 1654A–90, provided that:
+
+“(a)
+
+Authorization and Purpose of Project.—The Secretary of the Army, acting through the Chief of the National Guard Bureau, may carry out a demonstration project in rural communities that are unserved or underserved by the telecommunications medium known as the Internet to provide or increase Internet access and services to units and members of the National Guard and other reserve components located in these communities.
+
+“(b)
+
+Project Elements.—In carrying out the demonstration project, the Secretary may—
+
+&emsp;“(1) establish and operate distance learning classrooms in communities described in subsection (a), including any support systems required for such classrooms; and
+
+&emsp;“(2) provide Internet access and services in such classrooms through GuardNet, the telecommunications infrastructure of the National Guard.
+
+“(c)
+
+Report.—Not later than February 1, 2005, the Secretary shall submit to Congress a report on the demonstration project. The report shall describe the activities conducted under the demonstration project and include any recommendations for the improvement or expansion of the demonstration project that the Secretary considers appropriate.”
+
 #### Pilot Program To Use National Guard Personnel in Medically Underserved Communities
 
-Pub. L. 102–484, div. A, title III, §376, Oct. 23, 1992, 106 Stat. 2385, as amended by Pub. L. 103–160, div. A, titleIII, §365, Nov. 30, 1993, 107 Stat. 1629; Pub. L. 103–337, div. A, title III, §384, Oct. 5, 1994, 108 Stat. 2741, provided that:
+Pub. L. 102–484, div. A, title III, §376, Oct. 23, 1992, 106 Stat. 2385, as amended by Pub. L. 103–160, div. A, title III, §365, Nov. 30, 1993, 107 Stat. 1629; Pub. L. 103–337, div. A, title III, §384, Oct. 5, 1994, 108 Stat. 2741, provided that:
 
 “(a)
 
@@ -54,7 +74,7 @@ Maintenance of Effort.—The Chief of the National Guard Bureau shall ensure tha
 
 “(e)
 
-Coordination Among Programs.—In carrying out the pilot program under subsection (a), the Chief of the National Guard Bureau shall consult with the Secretary of Health and Human Services for the purpose of ensuring that the provision of services under the pilot program are not redundant with the services of programs of such Secretary.
+Coordination Among Programs.—In carrying out the pilot program under subsection (a), the Chief of the National Guard Bureau shall consult with the Secretary of Health and Human Services for the purpose ofensuring that the provision of services under the pilot program are not redundant with the services of programs of such Secretary.
 
 “(f)
 
@@ -213,8 +233,4 @@ Definitions.—In this section:
 “(m)
 
 Funding.—Of the amounts appropriated for the Department of Defense for operation and maintenance in fiscal year 1993 pursuant to the authorization of appropriations in section 301 \[106 Stat. 2360\], $50,000,000 shall be available to carry out the pilot program for fiscal year 1993.”
-
-#### Cross References
-
-Army and Air Force training generally, see section 4301 et seq. and 9301 et seq. of Title 10, Armed Forces.
 

@@ -88,7 +88,3 @@ June 26, 1944, ch. 277, 58 Stat. 351.
 
 June 28, 1943, ch. 173, 57 Stat. 236.
 
-#### Cross References
-
-Restriction on employment of aliens generally, see section 3101 note of Title 5, Government Organization and Employees.
-

@@ -4,6 +4,10 @@ There shall be within the Department of Labor a “Job Corps”.
 
 (Pub. L. 105–220, title I, §143, Aug. 7, 1998, 112 Stat. 1007.)
 
+#### Prior Provisions
+
+Provisions similar to this section were contained in section 1692 of this title prior to repeal by Pub. L. 105–220.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 2882 of this title.

@@ -4,7 +4,7 @@
 
 (1) Except as provided in paragraph (2), and in lieu of appealing the decision of the contracting officer under section 605 of this title to an agency board, a contractor may bring an action directly on the claim in the United States Court of Federal Claims, notwithstanding any contract provision, regulation, or rule of law to the contrary.
 
-(2) In the case of an action against the Tennessee Valley Authority, the contractor may only bring an action directly on the claim in aUnited States district court pursuant to section 1337 of title 28, notwithstanding any contract provision, regulation, or rule of law to the contrary.
+(2) In the case of an action against the Tennessee Valley Authority, the contractor may only bring an action directly on the claim in a United States district court pursuant to section 1337 of title 28, notwithstanding any contract provision, regulation, or rule of law to the contrary.
 
 (3) Any action under paragraph (1) or (2) shall be filed within twelve months from the date of the receipt by the contractor of the decision of the contracting officer concerning the claim, and shall proceed de novo in accordance with the rules of the appropriate court.
 
@@ -44,7 +44,7 @@ In any suit filed pursuant to this chapter involving two or more claims, counter
 
 1982—Subsec. (a)(1). Pub. L. 97–164, §161(10), substituted “Claims Court” for “Court of Claims”.
 
-Subsec. (c). Pub. L. 97–164, §157, struck out “, or, in its discretion and in lieu of remand it may retain the case and take such additional evidence or action as may be necessary for final disposition of the case” after “with such direction as the court considers just and proper”.
+Subsec. (c). Pub. L. 97–164, §157, struck out “, or, in its discretion and in lieu of remand it may retain the case and take such additional evidence or action as may be necessary for final disposition of the case” after“with such direction as the court considers just and proper”.
 
 Subsec. (d). Pub. L. 97–164, §160(a)(15), substituted “United States Claims Court” for “Court of Claims” in two places.
 
@@ -62,5 +62,5 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 603 of this title; title 10 section 2410m; title 22 sections 3861, 3862; title 28 sections 1295, 1346, 1491.
+This section is referred to in section 603 of this title; title 5 section 9003; title 10 section 2410m; title 22 sections 3861, 3862; title 28 sections 1295, 1346, 1491.
 

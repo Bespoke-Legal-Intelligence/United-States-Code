@@ -14,7 +14,7 @@ In order to conduct the program required by this chapter, the Secretary may—
 
 #### (c) Voluntary services
 
-In order to conduct the program required by this chapter, the Secretary may accept and use the services of voluntary and noncompensated personnel.
+In order to conduct the program required by this chapter, the Secretary may accept and usethe services of voluntary and noncompensated personnel.
 
 #### (d) Necessary expenditures
 

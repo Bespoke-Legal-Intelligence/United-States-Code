@@ -34,13 +34,13 @@
 
 &emsp;(i) the loan is not approved for assumption under subparagraph (B) of this paragraph or paragraph (1) of this subsection; or
 
-&emsp;(ii) no appeal is made by the transferor under subparagraph (A) of this paragraphwithin 30 days after the holder informs the transferor of its determination under paragraph (3) of this subsection,
+&emsp;(ii) no appeal is made by the transferor under subparagraph (A) of this paragraph within 30 days after the holder informs the transferor of its determination under paragraph (3) of this subsection,
 
 > the holder may demand immediate, full payment of the principal, and all interest earned thereon, of such loan if the transferor disposes of the property.
 
 (b) If a person disposes of residential property described in subsection (a)(1) of this section and the person fails to notify the holder of the loan before the property is disposed of, the holder, upon learning of such action by the person, may demand immediate and full payment of the principal, interest, and all other amounts owing under the terms of the loan.
 
-(c)(1) In any case in which the holder of a loan described in subsection (a)(1) of this section has knowledge of a person's disposing of residential property securing the loan, the holder shall notify the Secretary of such action.
+(c)(1) In any case in which the holder of a loan described in subsection (a)(1) of this section hasknowledge of a person's disposing of residential property securing the loan, the holder shall notify the Secretary of such action.
 
 (2) If the holder fails to notify the Secretary in such a case, the holder shall be liable to the Secretary for any damage sustained by the Secretary as a result of the holder's failure, as determined at the time the Secretary is required to make payments in accordance with any insurance or guaranty provided by the Secretary with respect to the loan concerned.
 

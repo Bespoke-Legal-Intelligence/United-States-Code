@@ -36,7 +36,7 @@ Section 312 of Pub. L. 93–438 provided that:
 
 #### Short Title
 
-Section 1 of Pub. L. 93–438 provided that: “This Act \[enacting this chapter, repealing sections 2031 and 2032of this title, amending sections 5313 to 5316 of Title 5, Government Organization and Employees, and enacting provisions set out as notes under this section\] may be cited as the ‘Energy Reorganization Act of 1974’.”
+Section 1 of Pub. L. 93–438 provided that: “This Act \[enacting this chapter, repealing sections 2031 and 2032 of this title, amending sections 5313 to 5316 of Title 5, Government Organization and Employees, and enacting provisions set out as notes under this section\] may be cited as the ‘Energy Reorganization Act of 1974’.”
 
 #### Separability
 

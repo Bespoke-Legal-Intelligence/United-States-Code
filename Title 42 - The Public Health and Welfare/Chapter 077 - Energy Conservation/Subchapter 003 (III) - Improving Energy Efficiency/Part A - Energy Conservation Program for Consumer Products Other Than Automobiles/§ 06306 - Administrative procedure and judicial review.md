@@ -38,7 +38,7 @@ Jurisdiction is vested in the Federal district courts of the United States over 
 
 &emsp;(2) any person who files a petition under section 6295(n) of this title which is denied by the Secretary.
 
-(Pub. L. 94–163, title III, §336, Dec. 22, 1975, 89 Stat. 930; Pub. L. 95–619, title IV, §§425(g), 427, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3266, 3267, 3288; Pub. L. 100–12, §9, Mar. 17, 1987, 101Stat. 123; Pub. L. 105–388, §5(a)(6), Nov. 13, 1998, 112 Stat. 3478.)
+(Pub. L. 94–163, title III, §336, Dec. 22, 1975, 89 Stat. 930; Pub. L. 95–619, title IV, §§425(g), 427, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3266, 3267, 3288; Pub. L. 100–12, §9, Mar. 17, 1987, 101 Stat. 123; Pub. L. 105–388, §5(a)(6), Nov. 13, 1998, 112 Stat. 3478.)
 
 #### Amendments
 
@@ -80,7 +80,7 @@ Subsec. (c). Pub. L. 100–12 amended subsec. (c) generally. Prior to amendment,
 
 1978—Subsec. (a). Pub. L. 95–619, §§425(g)(1)–(3), 691(b)(2), struck out par. designation “(1)” before “Rules” and substituted reference to section “6295(a)” for “6295(a)(1), (2), or (3)” in first sentence; redesignated subpars. (A) and (B) and cls. (i) and (ii) of subpar. (B) as pars. (1) and (2) and subpars. (A) and (B) of par. (2), respectively; struck out “paragraph (1), (2), or (3) of” before “section 6295(a)” in par. (2) as so redesignated; directed the substitution of “paragraph (1)” for “subparagraph (A)” in par. (2)(B) as so redesignated, which was executed to par. (2)(A) as so redesignated to reflect the probable intent of Congress; substituted “subsection” for “paragraph” in last sentence; and substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing.
 
-Par. (2), which provided that subsecs. (c) and (d) of section 57a of title 15 shall apply to rules under section 6295 of this title (other than subsecs. (a)(1), (2), and (3)) to the same extent that such subsecs. apply to rules under section 57a(a)(1)(B) of title 15, was struck out to reflect the probable intent of Congress in view of the amendment by Pub. L. 95–619, §425(g)(1), which struck out designation “(1)” after subsection (a) designation, and in view of the amendment by Pub. L. 95–619, §422, to section 6295(a) of this title, which struck out pars. (3) to (5) therefrom.
+Par. (2), which provided that subsecs. (c) and (d) of section 57a of title 15 shall apply to rules under section6295 of this title (other than subsecs. (a)(1), (2), and (3)) to the same extent that such subsecs. apply to rules under section 57a(a)(1)(B) of title 15, was struck out to reflect the probable intent of Congress in view of the amendment by Pub. L. 95–619, §425(g)(1), which struck out designation “(1)” after subsection (a) designation, and in view of the amendment by Pub. L. 95–619, §422, to section 6295(a) of this title, which struck out pars. (3) to (5) therefrom.
 
 Subsec. (b). Pub. L. 95–619, §425(g)(4), (5), substituted “section 6293, 6294, or 6295” for “section 6293 or 6294” in pars. (1) and (2) and struck out former par. (5) which related to the application of section 57a(e) of title 15 to rules under section 6295 of this title.
 

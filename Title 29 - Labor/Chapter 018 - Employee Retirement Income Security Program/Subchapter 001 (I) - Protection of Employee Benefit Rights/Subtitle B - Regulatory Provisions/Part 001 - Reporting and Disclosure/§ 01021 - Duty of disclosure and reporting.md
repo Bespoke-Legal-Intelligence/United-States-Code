@@ -48,7 +48,7 @@ The administrator shall, in accordance with section 1024(a) of this title, file 
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 60 days before the date of any qualified transfer by an employee pension benefit plan of excess pension assets to a health benefits account, the employer maintaining the plan from which the transfer is made shall provide the Secretary, the Secretary of the Treasury, the administrator, and each employee organization representing participants in the plan a written notice of such transfer. A copy of any such notice shall be available for inspection in the principal office of the administrator.
+&emsp;&emsp;Not later than 60 days before the date of any qualified transfer by an employee pension benefit plan of excess pension assets to a health benefits account, the employer maintaining the plan from which the transfer is made shall provide the Secretary, the Secretary of the Treasury, the administrator, and each employee organization representing participants in the plan a written notice of such transfer. A copy of any suchnotice shall be available for inspection in the principal office of the administrator.
 
 #### (B) Information relating to transfer
 
@@ -140,7 +140,7 @@ Subsec. (d)(1). Pub. L. 101–239, §7881(b)(5)(A), substituted “an employer m
 
 #### Effective Date of 1999 Amendment
 
-Amendment by Pub. L. 106–170 applicable to qualified transfers occurring after Dec. 17, 1999, see section 535(c)(1) of Pub. L. 106–170, set out as a note under section 420 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 106–170 applicable to qualified transfers occurring after Dec. 17, 1999, see section535(c)(1) of Pub. L. 106–170, set out as a note under section 420 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1998 Amendment
 

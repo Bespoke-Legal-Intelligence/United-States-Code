@@ -8,7 +8,3 @@ All funds appropriated under the several grants of authority contained in the Ac
 
 Act of June 18, 1934, referred to in text, popularly known as the Indian Reorganization Act, is classified generally to subchapter V (§461 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 461 of this title and Tables.
 
-#### Cross References
-
-Inapplicability of section to Osage County, Oklahoma, see section 508 of this title.
-

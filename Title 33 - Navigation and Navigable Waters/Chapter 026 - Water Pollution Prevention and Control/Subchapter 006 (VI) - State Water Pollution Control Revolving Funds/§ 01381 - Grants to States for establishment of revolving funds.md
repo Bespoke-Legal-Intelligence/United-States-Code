@@ -18,3 +18,7 @@ The Administrator and each State shall jointly establish a schedule of payments 
 
 (June 30, 1948, ch. 758, title VI, §601, as added Pub. L. 100–4, title II, §212(a), Feb. 4, 1987, 101 Stat. 22.)
 
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1301 of this title.
+

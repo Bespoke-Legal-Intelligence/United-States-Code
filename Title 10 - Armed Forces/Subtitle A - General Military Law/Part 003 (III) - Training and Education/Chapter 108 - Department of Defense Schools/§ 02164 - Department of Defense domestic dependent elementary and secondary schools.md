@@ -14,7 +14,7 @@ Factors for Secretary To Consider.—(1) Factors to be considered by the Secreta
 
 &emsp;(B) The extent to which the local educational agency is able to provide an appropriate educational program for such dependents.
 
-(2) For purposes of paragraph (1)(B), an appropriate educational program is a program that, as determined by the Secretary, is comparable to a program of free public education provided for children by the following local educational agencies:
+(2) For purposes of paragraph (1)(B), an appropriate educational program is a program that, as determined by the Secretary, is comparableto a program of free public education provided for children by the following local educational agencies:
 
 &emsp;(A) In the case of a military installation located in a State (other than an installation referred to in subparagraph (B)), local educational agencies in the State that are similar to the local educational agency referred to in paragraph (1)(B).
 
@@ -130,7 +130,21 @@ Continuation of Enrollment Despite Change in Status.—(1) The Secretary of Defe
 
 (3) Paragraphs (1) and (2) do not limit the authority of the Secretary to remove a dependent from enrollment in an educational program provided by the Secretary pursuant to subsection (a) at any time for good cause determined by the Secretary.
 
-(Added Pub. L. 103–337, div. A, title III, §351(a), Oct. 5, 1994, 108 Stat. 2727; amended Pub. L. 104–106, div. A, title X, §1075, Feb. 10, 1996, 110 Stat. 450; Pub. L. 104–201, div. A, title XVI, §1608, Sept. 23, 1996, 110 Stat. 2737; Pub. L. 105–261, div. A, title III, §371(a)–(c)(2), Oct. 17, 1998, 112 Stat. 1988, 1989; Pub. L. 106–65, div. A, title III, §§352, 353, Oct. 5, 1999, 113 Stat. 572.)
+(i)
+
+American Red Cross Employee Dependents in Puerto Rico.—(1) The Secretary may authorize the dependent of an American Red Cross employee described in paragraph (2) to enroll in an education program provided by the Secretary pursuant to subsection (a) in Puerto Rico if the American Red Cross agrees to reimburse the Secretary for the educational services so provided.
+
+(2) An employee referred to in paragraph (1) is an American Red Cross employee who—
+
+&emsp;(A) resides in Puerto Rico; and
+
+&emsp;(B) performs, on a full-time basis, emergency services on behalf of members of the armed forces.
+
+(3) In determining the dependency status of any person for the purposes of paragraph (1), the Secretary shall apply the same definitions as apply to the determination of such status with respect to Federal employees in the administration of this section.
+
+(4) Subsection (g) shall apply with respect to determining the reimbursement rates for educational services provided pursuant to this subsection. Amounts received as reimbursement for such educational services shall be treated in the same manner as amounts received under subsection (g).
+
+(Added Pub. L. 103–337, div. A, title III, §351(a), Oct. 5, 1994, 108 Stat. 2727; amended Pub. L. 104–106, div. A, title X, §1075, Feb. 10, 1996, 110 Stat. 450; Pub. L. 104–201, div. A, title XVI, §1608, Sept. 23, 1996, 110 Stat. 2737; Pub. L. 105–261, div. A, title III, §371(a)–(c)(2), Oct. 17, 1998, 112 Stat. 1988, 1989; Pub. L. 106–65, div. A, title III, §§352, 353, Oct. 5, 1999, 113 Stat. 572; Pub. L. 106–398, §1 \[\[div. A\], title III, §361\], Oct. 30, 2000, 114 Stat. 1654, 1654A–76.)
 
 #### References in Text
 
@@ -144,6 +158,8 @@ Section 6(a) of Public Law 81–874 (20 U.S.C. 241(a)), referred to in subsec. (
 
 #### Amendments
 
+2000—Subsec. (i). Pub. L. 106–398 added subsec. (i).
+
 1999—Subsec. (c)(3). Pub. L. 106–65, §353(1), struck out par. (3) which read as follows: “A dependent of a Federal employee may continue enrollment in a program under this subsection for the remainder of a school year notwithstanding a change during such school year in the status of the Federal employee that, except for this paragraph, would otherwise terminate the eligibility of the dependent to be enrolled in the program. The preceding sentence does not limit the authority of the Secretary to remove the dependent from enrollment in the program at any time for good cause determined by the Secretary.”
 
 Subsec. (d)(1). Pub. L. 106–65, §352, inserted at end “The Secretary may provide for the establishment of one school board for all such schools in the Commonwealth of Puerto Rico and one school board for all such schools in Guam instead of one school board for each military installation in those locations.”
@@ -156,7 +172,7 @@ Subsec. (a)(2). Pub. L. 105–261, §371(a)(3), inserted at end “If a member o
 
 Subsec. (c)(1). Pub. L. 105–261, §371(c)(1), designated existing provisions as subpar. (A) and added subpar. (B).
 
-Subsec. (c)(2)(B). Pub. L. 105–261, §371(b), added subpar. (B) and struck out former subpar. (B) which read as follows: “A dependent referred to in subparagraph\(A) may be enrolled in the program for more than five consecutive school years if the Secretary determines that, in the interest of the dependent's educational well-being, there is good cause to extend the enrollment for more than the five-year period described in such subparagraph. Any such extension may be made for only one school year at a time.”
+Subsec. (c)(2)(B). Pub. L. 105–261, §371(b), added subpar. (B) and struck out former subpar. (B) which read as follows: “A dependent referred to in subparagraph (A) may be enrolled in the program for more than five consecutive school years if the Secretary determines that, in the interest of the dependent's educational well-being, there is good cause to extend the enrollment for more than the five-year period described in such subparagraph. Any such extension may be made for only one school year at a time.”
 
 Subsec. (c)(2)(D). Pub. L. 105–261, §371(c)(2), added subpar. (D).
 

@@ -24,7 +24,3 @@ Minor changes of phraseology were also made.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $500”.
 
-#### Cross References
-
-Withholding claim or benefit allowed and due, see section 5905 of Title 38, Veterans’ Benefits.
-

@@ -33,10 +33,10 @@
 | (c) | Authorization of appropriations. |
 | [13217\.](Subchapter%20001%20%28I%29%20-%20Alternative%20Fuels%E2%80%94General/%C2%A7%2013217%20-%20Measurement%20of%20alternative%20fuel%20use.md) | Measurement of alternative fuel use. |
 | [13218\.](Subchapter%20001%20%28I%29%20-%20Alternative%20Fuels%E2%80%94General/%C2%A7%2013218%20-%20Reports.md) | Reports. |
-| (a) | General Services Administration program report. |
+| (a) | Omitted. |
 | (b) | Compliance report. |
 | [13219\.](Subchapter%20001%20%28I%29%20-%20Alternative%20Fuels%E2%80%94General/%C2%A7%2013219%20-%20United%20States%20Postal%20Service.md) | United States Postal Service. |
-| (a) | Report. |
+| (a) | Omitted. |
 | (b) | Coordination. |
 | (c) | Program criteria. |
 | [13220\.](Subchapter%20001%20%28I%29%20-%20Alternative%20Fuels%E2%80%94General/%C2%A7%2013220%20-%20Biodiesel%20fuel%20use%20credits.md) | Biodiesel fuel use credits. |
@@ -526,7 +526,7 @@
 | (f) | Requirement of matching funds. |
 | (g) | Task force. |
 | (h) | Membership terms and administration of task force. |
-| (i) | Report. |
+| (i) | Omitted. |
 | (j) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

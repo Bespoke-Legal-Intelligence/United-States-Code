@@ -44,7 +44,3 @@ Pub. L. 105–219, §2, Aug. 7, 1998, 112 Stat. 913, provided that: “The Congr
 
 &emsp;“(5) Improved credit union safety and soundness provisions will enhance the public benefit that citizens receive from these cooperative financial services institutions.”
 
-#### Cross References
-
-Enforcement of consumer credit disclosure requirements imposed under section 1601 et seq. of Title 15, Commerce and Trade, see section 1607 of Title 15.
-

@@ -2,7 +2,7 @@
 
 For the purpose of this subchapter the term—
 
-&emsp;(1) “employee” means an employee as defined by section 6301(2), but shall exclude anyindividual employed by the government of the District of Columbia;
+&emsp;(1) “employee” means an employee as defined by section 6301(2), but shall exclude any individual employed by the government of the District of Columbia;
 
 &emsp;(2) “executive agency” means any executive agency or any administrative unit thereof;
 

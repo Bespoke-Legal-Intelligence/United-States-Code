@@ -2,7 +2,7 @@
 
 (a) The cost-plus-a-percentage-of-cost system of contracting may not be used. Subject to the limitation in the preceding sentence, the other provisions of this section, and other applicable provisions of law, the head of an agency, in awarding contracts under this chapter after using procedures other than sealed-bid procedures, may enter into any kind of contract that he considers will promote the best interests of the United States.
 
-(b) Each contract awarded under this chapter after using procedures other than sealed-bid procedures shall contain a warranty, determined to be suitable by the head of the agency, that the contractor has employed or retained no person or selling agency to solicit or obtain the contract under an understanding or agreement for a commission, percentage, brokerage, or contingent fee, except a bona fide employee or established commercial or selling agency maintained by him to obtain business. If a contractor breakssuch a warranty the United States may annul the contract without liability or may deduct the commission, percentage, brokerage, or contingent fee from the contract price or consideration. This subsection does not apply to a contract that is for an amount not greater than the simplified acquisition threshold or to a contract for the acquisition of commercial items.
+(b) Each contract awarded under this chapter after using procedures other than sealed-bid procedures shall contain a warranty, determined to be suitable by the head of the agency, that the contractor has employed or retained no person or selling agency to solicit or obtain the contract under an understanding or agreement for a commission, percentage, brokerage, or contingent fee, except a bona fide employee or established commercial or selling agency maintained by him to obtain business. If a contractor breaks such a warranty the United States may annul the contract without liability or may deduct the commission, percentage, brokerage, or contingent fee from the contract price or consideration. This subsection does not apply to a contract that is for an amount not greater than the simplified acquisition threshold or to a contract for the acquisition of commercial items.
 
 \[(c) Repealed. Pub. L. 103–355, title I, §1021, Oct. 13, 1994, 108 Stat. 3257.\]
 
@@ -16,43 +16,11 @@
 
 (f) So-called “truth-in-negotiations” provisions relating to cost or pricing data to be submitted by certain contractors and subcontractors are provided in section 2306a of this title.
 
-(g)(1) The head of an agency may enter into contracts for periods of not more than five years for the following types of services (and items of supply related to such services) for which funds would otherwise be available for obligation only within the fiscal year for which appropriated—
-
-&emsp;(A) operation, maintenance, and support of facilities and installations;
-
-&emsp;(B) maintenance or modification of aircraft, ships, vehicles, and other highly complex military equipment;
-
-&emsp;(C) specialized training necessitating high quality instructor skills (for example, pilot and aircrew members; foreign language training); and
-
-&emsp;(D) base services (for example, ground maintenance; in-plane refueling; bus transportation; refuse collection and disposal);
-
-> whenever he finds that—
-
-&emsp;(i) there will be a continuing requirement for the services consonant with current plans for the proposed contract period;
-
-&emsp;(ii) the furnishing of such services will require a substantial initial investment in plant or equipment, or the incurrence of substantial contingent liabilities for the assembly, training, or transportation of a specialized work force; and
-
-&emsp;(iii) the use of such a contract will promote the best interests of the United States by encouraging effective competition and promoting economies in operation.
-
-(2) In entering into such contracts, the head of the agency shall be guided by the following principles:
-
-&emsp;(A) The portion of the cost of any plant or equipment amortized as a cost of contract performance should not exceed the ratio between the period of contract performance and the anticipated useful commercial life of such plant or equipment. Useful commercial life, for this purpose, means the commercial utility of the facilities rather than the physical life thereof, with due consideration given to such factors as location of facilities, specialized nature thereof, and obsolescence.
-
-&emsp;(B) Consideration shall be given to the desirability of obtaining an option to renew the contract for a reasonable period not to exceed three years, at prices not to include charges for plant, equipment and other nonrecurring costs, already amortized.
-
-&emsp;(C) Consideration shall be given to the desirability of reserving in the agency the right, upon payment of the unamortized portion of the cost of the plant or equipment, to take title thereto under appropriate circumstances.
-
-(3) In the event funds are not made available for the continuation of such a contract into a subsequent fiscal year, the contract shall be canceled or terminated, and the costs of cancellation or termination may be paid from—
-
-&emsp;(A) appropriations originally available for the performance of the contract concerned;
-
-&emsp;(B) appropriations currently available for procurement of the type of services concerned, and not otherwise obligated; or
-
-&emsp;(C) funds appropriated for those payments.
+(g) Multiyear contracting authority for the acquisition of services is provided in section 2306c of this title.
 
 (h) Multiyear contracting authority for the purchase of property is provided in section 2306b of this title.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 130; Pub. L. 87–653, §1(d), (e), Sept. 10, 1962, 76 Stat. 528; Pub. L. 90–378, §1, July 5, 1968, 82 Stat. 289; Pub. L. 90–512, Sept. 25, 1968, 82 Stat. 863; Pub. L. 96–513, title V, §511(77), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 97–86, title IX, §§907(b), 909(b), Dec. 1, 1981, 95 Stat. 1117, 1118; Pub. L. 98–369, div. B, title VII, §2724, July 18, 1984, 98 Stat. 1192; Pub. L. 99–145, title XIII, §1303(a)(15), Nov. 8, 1985, 99 Stat. 739; Pub. L. 99–500, §101(c) \[title X, §952(b)(1), (c)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–169, and Pub. L. 99–591, §101(c) \[title X, §952(b)(1), (c)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–169; Pub. L. 99–661, div. A, title IX, formerly title IV, §952(b)(1), (c)(1), Nov. 14, 1986, 100 Stat. 3949, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 101–189, div. A, title VIII, §805(a), Nov. 29, 1989, 103 Stat. 1488; Pub. L. 101–510, div. A, title VIII, §808, Nov. 5, 1990, 104 Stat. 1593; Pub. L. 102–25, title VII, §701(d)(3), Apr. 6, 1991, 105 Stat. 114; Pub. L. 103–355, title I, §§1021, 1022(b), title IV, §§4102(b), 4401(c), title VIII, §8105(a), Oct. 13, 1994, 108 Stat. 3257, 3260, 3340, 3348, 3392; Pub. L. 105–85, div. A, title X, §1073(a)(45), Nov. 18, 1997, 111 Stat. 1902.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 130; Pub. L. 87–653, §1(d), (e), Sept. 10, 1962, 76 Stat. 528; Pub. L. 90–378, §1, July 5, 1968, 82 Stat. 289; Pub. L. 90–512, Sept. 25, 1968, 82 Stat. 863; Pub. L. 96–513, title V, §511(77), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 97–86, title IX, §§907(b), 909(b), Dec. 1, 1981, 95 Stat. 1117, 1118; Pub. L. 98–369, div. B, title VII, §2724, July 18, 1984, 98 Stat. 1192; Pub. L. 99–145, title XIII, §1303(a)(15), Nov. 8, 1985, 99 Stat. 739; Pub. L. 99–500, §101(c) \[title X, §952(b)(1), (c)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–169, and Pub. L. 99–591, §101(c) \[title X, §952(b)(1), (c)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–169; Pub. L. 99–661, div. A, title IX, formerly title IV, §952(b)(1), (c)(1), Nov. 14, 1986, 100 Stat. 3949, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 101–189, div. A, title VIII, §805(a), Nov. 29, 1989, 103 Stat. 1488; Pub. L. 101–510, div. A, title VIII, §808, Nov. 5, 1990, 104 Stat. 1593; Pub. L. 102–25, title VII, §701(d)(3), Apr. 6, 1991, 105 Stat. 114; Pub. L. 103–355, title I, §§1021, 1022(b), title IV, §§4102(b), 4401(c), title VIII, §8105(a), Oct. 13, 1994, 108 Stat. 3257, 3260, 3340, 3348, 3392; Pub. L. 105–85, div. A, title X, §1073(a)(45), Nov. 18, 1997, 111 Stat. 1902; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §802(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–205.)
 
 Historical and Revision Notes
 
@@ -105,6 +73,8 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 Provisions similar to those in subsec. (h)(11) of this section were contained in Pub. L. 100–526, title I, §104(a), Oct. 24, 1988, 102 Stat. 2624, which was set out below, prior to repeal by Pub. L. 101–189, §805(b).
 
 #### Amendments
+
+2000—Subsec. (g). Pub. L. 106–398 amended subsec. (g) generally. Prior to amendment, subsec. (g) consisted of pars. (1) to (3) authorizing the head of an agency to enter into contracts for periods of not more than five years for certain types of services.
 
 1997—Subsec. (h). Pub. L. 105–85 inserted “for the purchase of property” after “Multiyear contracting authority”.
 
@@ -217,14 +187,6 @@ Pub. L. 100–526, title I, §104(a), Oct. 24, 1988, 102 Stat. 2624, which provi
 #### Technical Data and Computer Software Packages; Procurement; Contracting Period; Deferred Ordering Clause; Exemptions; Report to Congressional Committees; Definitions
 
 Pub. L. 94–361, title VIII, §805, July 14, 1976, 90 Stat. 932, required that military contracts entered into during Oct. 1, 1976 to Sept. 30, 1978 for development or procurement of a major system include a deferred ordering clause with an option to purchase from the contractor technical data and computer software packages relating to the system, directed that such clause require such packages to be sufficiently detailed so as to enable procurement of such system or subsystem from another contractor, authorized that a particular contract may be exempted from the deferred ordering clause if the procuring authority reports to the House and Senate Committees on Armed Services his intent to so contract with an explanation for the exemption, and set out definitions for “major system”, “deferred ordering”, and “technical data”.
-
-#### Cross References
-
-Cost-type research and development contracts with educational institutions, see section 254a of Title 41, Public Contracts.
-
-Determinations or decisions based on written findings, see section 2310 of this title.
-
-Research and development, see section 2352 et seq. of this title.
 
 #### Section Referred to in Other Sections
 

@@ -2,7 +2,7 @@
 
 #### (a) Appointment of officers and employees; impounding appropriations
 
-The Secretary of Agriculture may appoint such officers and employees, subject to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, and such experts, as are necessary to execute the functions vested in him by this chapter: <i>Provided</i>, That the Secretary shall establish the Agricultural Adjustment Administration in the Department of Agriculture for the administration of the functions vested in him by this chapter: And <i>provided further</i>, That the State Administrator appointed to administer this chapter in each State shall be appointed by the President, by and with the advice and consent of the Senate. Section 8 of Title II of the Act entitled “An Act to maintain the credit of the United States Government,” approved March 20, 1933, to the extent that it provides for the impoundment of appropriations on account of reductions in compensation, shall not operate to require such impoundment under appropriations contained in this chapter.
+The Secretary of Agriculture may appoint such officers and employees, subject to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, and such experts, as are necessary to execute the functions vested in him by this chapter: <i>Provided</i>, That the Secretary shall establish the Agricultural Adjustment Administration in the Department of Agriculture for the administration of the functions vested in him by this chapter: And <i>provided further</i>, That the State Administrator appointed to administer this chapter in each State shall be appointed by the President, by and with the advice and consent of the Senate. Section 8 of Title II of the Act entitled “An Act to maintain the credit of the United States Government,” approved March 20, 1933, to the extent that it provides forthe impoundment of appropriations on account of reductions in compensation, shall not operate to require such impoundment under appropriations contained in this chapter.
 
 #### (b) State and local committees or associations of producers; handlers’ share of expenses of authority or agency
 
@@ -28,7 +28,7 @@ The action of any officer, employee, or agent in determining the amount of and i
 
 #### (f) Geographical application
 
-The provisions of this chapter shall be applicable to the United States and its possessions, except the Virgin Islands, American Samoa, the Canal Zone, and the island of Guam; except that, in the case of sugar beets and sugarcane, the President, if he finds it necessary in order toeffectuate the declared policy of this chapter, is authorized by proclamation to make the provisions of this chapter applicable to the Virgin Islands, American Samoa, the Canal Zone, and/or the island of Guam.
+The provisions of this chapter shall be applicable to the United States and its possessions, except the Virgin Islands, American Samoa, the Canal Zone, and the island of Guam; except that, in the case of sugar beets and sugarcane, the President, if he finds it necessary in order to effectuate the declared policy of this chapter, is authorized by proclamation to make the provisions of this chapter applicable to the Virgin Islands, American Samoa, the Canal Zone, and/or the island of Guam.
 
 #### (g) Officers; dealing or speculating in agricultural products; penalties
 
@@ -36,7 +36,7 @@ No person shall, while acting in any official capacity in the administration of 
 
 #### (h) Adoption of Federal Trade Commission Act; hearings; report of violations to Attorney General
 
-For the efficient administration of the provisions of this chapter, the provisions, including penalties, of sections 48, 49, and 50 of title 15, are made applicable to the jurisdiction, powers, and duties of the Secretary in administering the provisions of this chapter, and to any person subject to the provisions of this chapter, whether or not a corporation. Hearings authorized or required under this chapter shall be conducted by the Secretary of Agriculture or such officer or employee of the Department as he may designate for the purpose. The Secretary may report any violation of any agreement entered into under this chapter, to the Attorney General of the United States, who shall cause appropriate proceedings to enforce such agreement to be commenced and prosecuted in the proper courts of the United States without delay.
+For the efficient administration of the provisions of this chapter, the provisions, includingpenalties, of sections 48, 49, and 50 of title 15, are made applicable to the jurisdiction, powers, and duties of the Secretary in administering the provisions of this chapter, and to any person subject to the provisions of this chapter, whether or not a corporation. Hearings authorized or required under this chapter shall be conducted by the Secretary of Agriculture or such officer or employee of the Department as he may designate for the purpose. The Secretary may report any violation of any agreement entered into under this chapter, to the Attorney General of the United States, who shall cause appropriate proceedings to enforce such agreement to be commenced and prosecuted in the proper courts of the United States without delay.
 
 #### (i) Cooperation with State authorities; imparting information
 
@@ -70,7 +70,7 @@ References to the Philippine Islands in subsec. (f) of this section were omitted
 
 1947—Subsec. (b)(2). Act Aug. 1, 1947, among other changes inserted subpar. (i), designated former first and second sentences of subsection as subpar. (ii) and inserted last sentence relating to the payment of assessments for the maintenance and functioning of such authority thereto, and designated former third and fourth sentences of subsection as subpar. (iii).
 
-1937—Subsec. (c). Act June 3, 1937, §2(g), struck out last clause of first sentence which related to regulations establishing conversion factors for any commodity and article processed therefrom to determine the amount of tax imposed or refunds to be made with respect thereto.
+1937—Subsec. (c). Act June 3, 1937, §2(g), struck out last clause of first sentence which related to regulations establishing conversion factors for any commodity and article processed therefrom to determine theamount of tax imposed or refunds to be made with respect thereto.
 
 Subsec. (f). Act June 3, 1937, §2(b), struck out sentence which authorized the President to attach by executive order any or all possessions to any internal-revenue district for the purpose of carrying out provisions with respect to the collection of taxes.
 
@@ -119,14 +119,6 @@ Ex. Ord. No. 10199, Dec. 21, 1950, 15 F.R. 9217, provided:
 By virtue of the authority vested in me by the act of August 8, 1950, Public Law 673, 81st Congress \[sections 301 to 303 of Title 3\] I hereby authorize the Secretary of Agriculture to make without the approval of the President such regulations with the force and effect of law as may be necessary to carry out the powers vested in him by the Agricultural Marketing Agreement Act of 1937, as amended \[this chapter\].
 
 Harry S Truman.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Cross References
-
-Anti-hog-cholera serum and hog-cholera virus provisions, provisions of section as applicable to, see section 855 of this title.
-
-Creditable service for retirement of employees of a committee or association of employees described by subsec. (b) of this section, see section 8332 of Title 5, Government Organization and Employees.
-
-Member of agency as acting in an official capacity when compensated from United States funds, see section 608c of this title.
 
 #### Section Referred to in Other Sections
 

@@ -14,7 +14,3 @@ Words “civil action” were substituted for “suit,” in view of Rule 2 of t
 
 Changes were made in phraseology.
 
-#### Cross References
-
-Process and procedure in interpleader actions, see section 2361 of this title.
-

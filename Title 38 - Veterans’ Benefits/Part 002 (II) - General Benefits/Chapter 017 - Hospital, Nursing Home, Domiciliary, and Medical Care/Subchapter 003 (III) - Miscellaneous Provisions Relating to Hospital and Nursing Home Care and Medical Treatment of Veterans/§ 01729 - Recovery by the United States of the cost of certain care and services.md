@@ -116,7 +116,7 @@ Subsec. (c)(2)(B). Pub. L. 105–33, §8023(d)(2)(A), substituted “reasonable 
 
 Subsec. (g). Pub. L. 105–33, §8023(b)(4), struck out subsec. (g) which established in the Treasury a fund known as the Department of Veterans Affairs Medical-Care Cost Recovery Fund and provided for deposits to and payments from the Fund.
 
-1996—Subsec. (g)(3)(A). Pub. L. 104–262 substituted “under subsection (f) or (g) of section 1710 of this title for hospital care, medical services, or nursing home care” for “under section 1710(f) of this title for hospital care or nursing home care, under section 1712(f) of this title for medical services,”.
+1996—Subsec. (g)(3)(A). Pub. L. 104–262 substituted “under subsection (f) or (g) of section 1710 of this titlefor hospital care, medical services, or nursing home care” for “under section 1710(f) of this title for hospital care or nursing home care, under section 1712(f) of this title for medical services,”.
 
 1993—Subsec. (a)(2)(E). Pub. L. 103–66 substituted “October 1, 1998” for “August 1, 1994”.
 

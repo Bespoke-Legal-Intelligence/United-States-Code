@@ -6,7 +6,7 @@
 
 &emsp;Subject to the amount appropriated under paragraph (3), each State shall, for the purpose of providing child care assistance, be entitled to payments under a grant under this subsection for a fiscal year in an amount equal to the greater of—
 
-&emsp;&emsp;(A) the total amount required to be paid to the State under section 603 of this title for fiscal year 1994 or 1995 (whichever is greater) with respect to expenditures for child careunder subsections (g) and (i) of section 602 of this title (as in effect before October 1, 1995); or
+&emsp;&emsp;(A) the total amount required to be paid to the State under section 603 of this title for fiscal year 1994 or 1995 (whichever is greater) with respect to expenditures for child care under subsections (g) and (i) of section 602 of this title (as in effect before October 1, 1995); or
 
 &emsp;&emsp;(B) the average of the total amounts required to be paid to the State for fiscal years 1992 through 1994 under the subsections referred to in subparagraph (A).
 

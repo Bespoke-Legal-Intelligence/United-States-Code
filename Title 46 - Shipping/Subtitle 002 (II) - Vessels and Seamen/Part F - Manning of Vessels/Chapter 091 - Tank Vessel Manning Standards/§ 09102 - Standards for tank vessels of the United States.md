@@ -18,7 +18,7 @@
 
 &emsp;(8) instruction in vessel maintenance functions.
 
-(b) The Secretary shall waive the application of criteria required by subsection (a)(5) of this section for an individual having a license or certificate (including a renewal of the license orcertificate) in effect on October 17, 1978. When the waiver is granted, the Secretary may prescribe conditions for the license or certificate and its renewal, as the Secretary decides are reasonable and necessary for the safety of a vessel on which the individual may be employed.
+(b) The Secretary shall waive the application of criteria required by subsection (a)(5) of this section for an individual having a license or certificate (including a renewal of the license or certificate) in effect on October 17, 1978. When the waiver is granted, the Secretary may prescribe conditions for the license or certificate and its renewal, as the Secretary decides are reasonable and necessary for the safety of a vessel on which the individual may be employed.
 
 (Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 556; Pub. L. 101–380, title IV, §4114(d), Aug. 18, 1990, 104 Stat. 517.)
 

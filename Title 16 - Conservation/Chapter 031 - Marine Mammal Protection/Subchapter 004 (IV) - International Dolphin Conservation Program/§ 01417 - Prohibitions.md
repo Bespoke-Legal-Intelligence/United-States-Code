@@ -20,7 +20,7 @@ It is unlawful—
 
 #### (1) Civil penalty
 
-&emsp;A person that knowingly and willfully violates subsection (a)(1), (2), (3), (4), or (5) of this section shall be subject to a civil penalty under section 1375(a) of this title.
+&emsp;A person that knowingly and willfully violates subsection (a)(1), (2), (3), (4), or (5) of thissection shall be subject to a civil penalty under section 1375(a) of this title.
 
 #### (2) Criminal penalty
 
@@ -40,7 +40,7 @@ Another section 307 of Pub. L. 92–522 was renumbered section 407 and is classi
 
 1997—Subsec. (a)(1) to (3). Pub. L. 105–42, §6(d)(1), added pars. (1) to (3) and struck out former pars. (1) to (3) which read as follows:
 
-“(1) for any person, after June 1, 1994, to sell, purchase, offer for sale, transport, or ship, in the UnitedStates, any tuna or tuna product that is not dolphin safe;
+“(1) for any person, after June 1, 1994, to sell, purchase, offer for sale, transport, or ship, in the United States, any tuna or tuna product that is not dolphin safe;
 
 “(2) for any person or vessel that is subject to the jurisdiction of the United States, intentionally to set a purse seine net on or to encircle any marine mammal during any tuna fishing operation after February 28, 1994, except—
 

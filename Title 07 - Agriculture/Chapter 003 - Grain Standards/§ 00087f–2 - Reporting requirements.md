@@ -36,7 +36,7 @@ Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L
 
 #### Effective Date
 
-For effective date of section, see Effective Date of 1976 Amendment note set out under section 74 of this title.
+Section effective 30 days after Oct. 21, 1976, see section 27 of Pub. L. 94–582, as amended, set out as an Effective Date of 1976 Amendment note under section 74 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -14,7 +14,7 @@ Except as provided in section 2353 of this title and as otherwise provided in th
 
 #### (3) Ten percent
 
-&emsp;From 10 percent of such portion, each local educational agency shall be allocated an amount that bears the same relationship to such 10 percent as the number of students enrolled in schools and adults enrolled in training programs under the jurisdiction of such local educational agency for the preceding fiscal year bears to the number of students enrolled in schools and adults enrolled in training programs under the jurisdiction of all local educational agencies in the State for such preceding fiscal year.
+&emsp;From 10 percent of such portion, each local educational agency shall be allocated anamount that bears the same relationship to such 10 percent as the number of students enrolled in schools and adults enrolled in training programs under the jurisdiction of such local educational agency for the preceding fiscal year bears to the number of students enrolled in schools and adults enrolled in training programs under the jurisdiction of all local educational agencies in the State for such preceding fiscal year.
 
 #### (b) Special distribution rules for succeeding fiscal years
 
@@ -82,7 +82,7 @@ The Secretary may waive the application of subsection (b) of this section in the
 
 #### (3) Appeals procedure
 
-&emsp;The eligible agency shall establish an appeals procedure for resolution of any dispute arising between a local educational agency and an area vocational and technical education school or an educational service agencywith respect to the allocation procedures described in this section, including the decision of a local educational agency to leave a consortium or terminate a cooperative arrangement.
+&emsp;The eligible agency shall establish an appeals procedure for resolution of any dispute arising between a local educational agency and an area vocational and technical education school or an educational service agency with respect to the allocation procedures described in this section, including the decision of a local educational agency to leave a consortium or terminate a cooperative arrangement.
 
 #### (g) Consortium requirements
 

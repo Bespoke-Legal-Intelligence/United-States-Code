@@ -30,7 +30,7 @@ Each application described in subsection (a) of this section shall—
 
 &emsp;&emsp;(A) for submitting applications for programs described in section 6976 of this title for distribution of assistance under this part within the State; and
 
-&emsp;&emsp;(B) for approval of applications by the State educational agency, including appropriate procedures to assure that such agency will not disapprove an application without notice and opportunity for a hearing.
+&emsp;&emsp;(B) for approval of applications by the State educational agency, including appropriate procedures to assure that such agencywill not disapprove an application without notice and opportunity for a hearing.
 
 #### (c) State administration
 

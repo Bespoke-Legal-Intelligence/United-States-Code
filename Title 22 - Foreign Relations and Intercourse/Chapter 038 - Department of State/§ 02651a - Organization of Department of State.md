@@ -4,7 +4,7 @@
 
 (1) The Department of State shall be administered, in accordance with this Act and other provisions of law, under the supervision and direction of the Secretary of State (hereinafter referred to as the “Secretary”).
 
-(2) The Secretary and the Deputy Secretary of State shall be appointed by the President, by and with the advice and consent of the Senate.
+(2) The Secretary, the Deputy Secretary of State, and the Deputy Secretary of State for Management and Resources shall be appointed by the President, by and with the advice and consent of the Senate.
 
 (3)(A) Notwithstanding any other provision of law and except as provided in this section, the Secretary shall have and exercise any authority vested by law in any office or official of the Department of State. The Secretary shall administer, coordinate, and direct the Foreign Service of the United States and the personnel of the Department of State, except where authority is inherent in or vested in the President.
 
@@ -48,7 +48,7 @@
 
 &emsp;&emsp;(ii) Preparing the statements and reports to Congress required under section 2304 of this title.
 
-&emsp;&emsp;(iii) Making recommendations to the Secretary of State and the Administrator of the Agency for International Development regarding compliance with sections 2151n and 2304 of this title, and as part of the Assistant Secretary's overall policy responsibility for the creation of United States Government human rights policy, advising the Administrator of the Agency for International Development on the policy framework under which section 2151n(e) projects are developed and consulting with the Administrator on the selection and implementation of such projects.
+&emsp;&emsp;(iii) Making recommendations to the Secretary of State and the Administrator of the Agency for International Development regarding compliance with sections 2151n and 2304 of this title, and as part of the Assistant Secretary's overall policy responsibility for the creation of United States Government human rights policy, advising the Administrator of the Agency for International Development on the policy framework underwhich section 2151n(e) projects are developed and consulting with the Administrator on the selection and implementation of such projects.
 
 &emsp;&emsp;(iv) Performing other responsibilities which serve to promote increased observance of internationally recognized human rights by all countries.
 
@@ -88,7 +88,7 @@ The officer of the Department of State with primary responsibility for assisting
 
 The officer of the Department of State with primary responsibility for assisting the Secretary of State with respect to diplomatic security, or that officer's principal deputy, shall have substantial professional qualifications in the fields of (1) management, and (2) Federal law enforcement, intelligence, or security.
 
-(Aug. 1, 1956, ch. 841, title I, §1 \[part\], 70 Stat. 890; renumbered title I and amended Pub. L. 97–241, title II, §202(a), Aug. 24, 1982, 96 Stat. 282; Pub. L. 103–236, title I, §161(a), Apr. 30, 1994, 108 Stat. 402; Pub. L. 103–415, §1(f)(1), Oct. 25, 1994, 108 Stat. 4299; Pub. L. 105–277, div. G, subdiv. A, title XII, §1213, title XIII, §1313, subdiv. B, title XXIII, §§2301(a), 2303–2305(a)(1), (b)(1), (c), 2306, Oct. 21, 1998, 112 Stat. 2681–767, 2681–776, 2681–824, 2681–825, 2681–826.)
+(Aug. 1, 1956, ch. 841, title I, §1 \[part\], 70 Stat. 890; renumbered title I and amended Pub. L. 97–241, title II, §202(a), Aug. 24, 1982, 96 Stat. 282; Pub. L. 103–236, title I, §161(a), Apr. 30, 1994, 108 Stat. 402; Pub. L. 103–415, §1(f)(1), Oct. 25, 1994, 108 Stat. 4299; Pub. L. 105–277, div. G, subdiv. A, title XII, §1213, title XIII, §1313, subdiv. B, title XXIII, §§2301(a), 2303–2305(a)(1), (b)(1), (c), 2306, Oct. 21, 1998, 112 Stat. 2681–767, 2681–776, 2681–824, 2681–825, 2681–826; Pub. L. 106–553, §1(a)(2) \[title IV, §404(a)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–96.)
 
 #### References in Text
 
@@ -101,6 +101,8 @@ Section was formerly classified to section 2662 of this title.
 Section was also formerly classified to section 170f of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 
 #### Amendments
+
+2000—Subsec. (a)(2). Pub. L. 106–553 substituted “, the Deputy Secretary of State, and the Deputy Secretary of State for Management and Resources” for “and the Deputy Secretary of State”.
 
 1998—Subsec. (b). Pub. L. 105–277, §1213, designated existing provisions as par. (1), inserted par. heading, and added par. (2).
 
@@ -182,7 +184,7 @@ Section 161(d) of Pub. L. 103–236 provided that: “Except as specifically pro
 
 #### Office of Coordinator for Counterterrorism
 
-Section 161(e) of Pub. L. 103–236, which established for not less than one year after Apr. 30, 1994, an Office ofthe Coordinator for Counterterrorism in the Department of State having the same responsibilities and functions as such office had as of Jan. 20, 1993, was repealed by Pub. L. 105–277, div. G, subdiv. B, title XXIII, §2301(b), Oct. 21, 1998, 112 Stat. 2681–824.
+Section 161(e) of Pub. L. 103–236, which established for not less than one year after Apr. 30, 1994, an Office of the Coordinator for Counterterrorism in the Department of State having the same responsibilities and functions as such office had as of Jan. 20, 1993, was repealed by Pub. L. 105–277, div. G, subdiv. B, title XXIII, §2301(b), Oct. 21, 1998, 112 Stat. 2681–824.
 
 #### Deputy Assistant Secretary for Burdensharing
 

@@ -1,6 +1,6 @@
 ### §644. Secretary of commission
 
-The Secretary of the Army may detail from the Engineer Corps of the Army of the United States an officer to act as secretary of said commission.
+The Secretary of the Army may detail from the Engineer Corps of the Army of the UnitedStates an officer to act as secretary of said commission.
 
 (June 28, 1879, ch. 43, §6, 21 Stat. 38; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501.)
 

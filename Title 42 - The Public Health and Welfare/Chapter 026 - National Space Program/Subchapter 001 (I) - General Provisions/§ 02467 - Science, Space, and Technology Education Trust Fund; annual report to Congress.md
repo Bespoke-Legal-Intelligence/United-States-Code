@@ -16,3 +16,7 @@ Section was enacted as part of the Department of Housing and Urban Development�
 
 1994—Pub. L. 103–327 substituted “hereafter” for “for a ten-year period”.
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in this section relating to submittal of annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and item 4 on page 179 of House Document No. 103–7.
+

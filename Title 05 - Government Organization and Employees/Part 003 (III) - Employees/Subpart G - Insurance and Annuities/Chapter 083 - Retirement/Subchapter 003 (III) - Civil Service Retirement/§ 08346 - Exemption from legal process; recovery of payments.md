@@ -2,7 +2,7 @@
 
 (a) The money mentioned by this subchapter is not assignable, either in law or equity, except under the provisions of subsections (h) and (j) of section 8345 of this title, or subject to execution, levy, attachment, garnishment, or other legal process, except as otherwise may be provided by Federal laws.
 
-(b) Recovery of payments under this subchapter may not be made from an individual when, in the judgment of the Office of Personnel Management, the individual is without fault and recovery would be against equity and good conscience. Withholding or recovery of money mentioned by this subchapter on account of a certification or payment made by a former employee of the United States in the discharge ofhis official duties may be made only if the head of the agency on behalf of which the certification or payment was made certifies to the Office that the certification or payment involved fraud on the part of the former employee.
+(b) Recovery of payments under this subchapter may not be made from an individual when, in the judgment of the Office of Personnel Management, the individual is without fault and recovery would be against equity and good conscience. Withholding or recovery of money mentioned by this subchapter on account of a certification or payment made by a former employee of the United States in the discharge of his official duties may be made only if the head of the agency on behalf of which the certification or payment was made certifies to the Office that the certification or payment involved fraud on the part of the former employee.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 583; Pub. L. 94–166, §2, Dec. 23, 1975, 89 Stat. 1002; Pub. L. 95–366, §1(b), Sept. 15, 1978, 92 Stat. 600; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224.)
 
@@ -37,12 +37,4 @@ Subsec. (b). Pub. L. 95–454 substituted “Office of Personnel Management” a
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 
 Amendment by Pub. L. 95–366 applicable to payments made from Civil Service Retirement and Disability Fund after Sept. 15, 1978, see section 2 of Pub. L. 95–366, set out as a note under section 8345 of this title.
-
-#### Federal Rules of Civil Procedure
-
-Execution to enforce judgment, see rule 69, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-#### Cross References
-
-Enforcement of legal obligations to provide child support or make alimony payments, see section 659 of Title 42, The Public Health and Welfare.
 

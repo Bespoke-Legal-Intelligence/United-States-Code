@@ -10,5 +10,3 @@ The words “in charge of public buildings and works” which followed “Chief 
 
 R.S. §1803 derived from act Mar. 3, 1859, ch. 84, §5, 11 Stat. 436.
 
-Section is also set out in D.C. Code, §43–1550.
-

@@ -2,7 +2,7 @@
 
 (a) Subject to section 2 of the National Security Act of 1947 (50 U.S.C. 401), the Secretary of Defense shall take appropriate action (including the transfer, reassignment, consolidation, or abolition of any function, power, or duty) to provide more effective, efficient, and economical administration and operation, and to eliminate duplication, in the Department of Defense. However, except as provided by subsections (b) and (c), a function, power, or duty vested in the Department of Defense, or an officer, official, or agency thereof, by law may not be substantially transferred, reassigned, consolidated, or abolished.
 
-(b) Notwithstanding subsection (a), if the President determines it to be necessary because of hostilities or an imminent threat of hostilities, any function, power, or duty vested by law in the Department of Defense, or an officer, official, or agency thereof, including one assigned to the Army, Navy, Air Force, or Marine Corps by section 3062(b), 5062, 5063, or 8062(c) of this title, may be transferred, reassigned, or consolidated. The transfer, reassignment, or consolidation remains in effect until the President determines that hostilities have terminated or that there is no longer an imminent threat of hostilities, as the case may be.
+(b) Notwithstanding subsection (a), if the President determines it to be necessary becauseof hostilities or an imminent threat of hostilities, any function, power, or duty vested by law in the Department of Defense, or an officer, official, or agency thereof, including one assigned to the Army, Navy, Air Force, or Marine Corps by section 3062(b), 5062, 5063, or 8062(c) of this title, may be transferred, reassigned, or consolidated. The transfer, reassignment, or consolidation remains in effect until the President determines that hostilities have terminated or that there is no longer an imminent threat of hostilities, as the case may be.
 
 (c) Notwithstanding subsection (a), the Secretary of Defense may assign or reassign the development and operational use of new weapons or weapons systems to one or more of the military departments or one or more of the armed forces.
 
@@ -84,7 +84,7 @@ Section 303 of Pub. L. 87–651 provided that:
 
 &emsp;“(1) as an exercise of the rule-making power of the Senate and the House of Representatives, respectively, and as such they shall be considered as part of the rules of each House, respectively, and supersede other rules only to the extent that they are inconsistent therewith; and
 
-&emsp;“(2) with full recognition of the constitutional right of either House to change the rules (as far as relating to the procedure in that House) at any time, inthe same manner and to the same extent as in the case of any other rule of that House.”
+&emsp;“(2) with full recognition of the constitutional right of either House to change the rules (as far as relating to the procedure in that House) at any time, in the same manner and to the same extent as in the case of any other rule of that House.”
 
 #### Section Referred to in Other Sections
 

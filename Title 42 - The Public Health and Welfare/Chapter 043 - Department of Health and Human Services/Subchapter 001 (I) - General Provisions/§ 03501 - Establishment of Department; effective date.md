@@ -18,6 +18,30 @@ Section was formerly classified to section 623 of former Title 5, Executive Depa
 
 For assignment of certain emergency preparedness functions to Secretary of Health and Human Services, see Parts 1, 2, and 8 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 5195 of this title.
 
+#### Data Collection Relating to Race or Ethnicity
+
+Pub. L. 106–525, title III, §301, Nov. 22, 2000, 114 Stat. 2507, provided that:
+
+“(a)
+
+Study.—The National Academy of Sciences shall conduct a comprehensive study of the Department of Health and Human Services’ data collection systems and practices, and any data collection or reporting systems required under any of the programs or activities of the Department, relating to the collection of data on race or ethnicity, including other Federal data collection systems (such as the Social Security Administration) with which the Department interacts to collect relevant data on race and ethnicity.
+
+“(b)
+
+Report.—Not later than 1 year after the date of enactment of this Act \[Nov. 22, 2000\], the National Academy of Sciences shall prepare and submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Commerce \[now Committee on Energy and Commerce\] of the House of Representatives, a report that—
+
+&emsp;“(1) identifies the data needed to support efforts to evaluate the effects of socioeconomic status, race and ethnicity on access to health care and other services and on disparity in health and other social outcomes and the data needed to enforce existing protections for equal access to health care;
+
+&emsp;“(2) examines the effectiveness of the systems and practices of the Department of Health and Human Services described in subsection (a), including pilot and demonstration projects of the Department, and the effectiveness of selected systems and practices of other Federal, State, and tribal agencies and the private sector, in collecting and analyzing such data;
+
+&emsp;“(3) contains recommendations for ensuring that the Department of Health and Human Services, in administering its entire array of programs and activities, collects, or causes to be collected, reliable and complete information relating to race and ethnicity; and
+
+&emsp;“(4) includes projections about the costs associated with the implementation of the recommendations described in paragraph (3), and the possible effects of the costs on program operations.
+
+“(c)
+
+Authorization of Appropriations.—For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for fiscal year 2001.”
+
 #### Under Secretary Retitled Deputy Secretary
 
 Pub. L. 101–509, title V, §529 \[title I, §112(a)(1)\], Nov. 5, 1990, 104 Stat. 1427, 1454, provided that: “The position of Under Secretary of Health and Human Services, established by section 2 of Reorganization Plan No. 1 of 1953 (67 Stat. 631) \[set out below\], is retitled the Deputy Secretary of Health and Human Services.”
@@ -88,7 +112,7 @@ There should be an unremitting effort to improve those health, education, and so
 
 But good intent and high purpose are not enough; all such programs depend for their success upon efficient, responsible administration. I have recently taken action to assure that the Federal Security Administrator's views are given proper consideration in executive councils by inviting her to attend meetings of the Cabinet. Now the establishment of the new Department provided for in Reorganization Plan No. 1 of 1953 will give the needed additional assurance that these matters will receive the full consideration they deserve in the whole operation of the Government.
 
-This need has long been recognized. In 1923, President Harding proposed a Department of Education and Welfare, which was also to include health functions. In 1924, the Joint Committee on Reorganization recommended a new department similar to that suggested by President Harding. In 1932, one of President Hoover's reorganization proposals called for the concentration of health, education, and recreational activities in a single executive department. The President's Committee on Administrative Management in 1937 recommended the placing of health, education, and social-security functions in a Department of Social Welfare. This recommendation was partially implemented in 1939 by the creation of the Federal Security Agency—by which action the Congress indicated its approval of the grouping of these functions in a single agency. A new department could not be proposed at that time because the Reorganization Act of 1939 prohibited the creation of additional executive departments. In 1949, the Commission on Organization of the Executive Branch of the Government proposed the creation of a department for social security and education.
+This need has long been recognized. In 1923, President Harding proposed a Department of Education and Welfare, which was also to include health functions. In 1924, the Joint Committee on Reorganization recommended a new department similar to that suggested by President Harding. In 1932, one of President Hoover's reorganization proposals called for the concentration of health, education, and recreational activities in a single executive department. The President's Committee on Administrative Management in 1937 recommended the placing of health, education, and social-security functions in a Department of Social Welfare. This recommendation was partially implemented in 1939 by the creation of the Federal Security Agency—by which action the Congress indicated its approval of the grouping of these functions in a single agency. A new department could not be proposed at that time because the Reorganization Act of 1939 prohibited the creation of additional executive departments. In 1949, the Commission on Organization of the Executive Branch of theGovernment proposed the creation of a department for social security and education.
 
 The present plan will make it possible to give the officials directing the Department titles indicative of their responsibilities and salaries comparable to those received by their counterparts in other executive departments. As the Under Secretary of an executive department, the Secretary's principal assistant will be better equipped to give leadership in the Department's organization and management activities, for which he will be primarily responsible. The plan opens the way to further administrative improvement by authorizing the Secretary to centralize services and activities common to the several agencies of the Department. It also established a uniform method of appointment for the heads of the three major constituent agencies. At present, the Surgeon General and the Commissioner of Education are appointed by the President and confirmed by the Senate, while the Commissioner for Social Security is appointed by the Federal Security Administrator. Hereafter, all three will be Presidential appointees subject to Senate confirmation.
 
@@ -186,7 +210,7 @@ Sec. 5. <i>Consumer Advisory Council</i>. (a) There is hereby established in the
 
 &emsp;(3) problems of primary importance to consumers, and ways in which unmet consumer needs can appropriately be met through Federal Government action.
 
-Sec. 6. <i>Consideration of the consumer interest in Federal agency determinations</i>. Every Federal agency in taking any action of a nature which can reasonably be construed as substantially affecting the interests of consumers of products and services, including, but not limited to, (1) the promulgation of rules, regulations, orguidelines, (2) the formulation of written policy decisions, or (3) the issuance of orders, decrees, or standards, shall, in taking such action, give due consideration to the valid interests of consumers.
+Sec. 6. <i>Consideration of the consumer interest in Federal agency determinations</i>. Every Federal agency in taking any action of a nature which can reasonably be construed as substantially affecting the interests of consumers of products and services, including, but not limited to, (1) the promulgation of rules, regulations, or guidelines, (2) the formulation of written policy decisions, or (3) the issuance of orders, decrees, or standards, shall, in taking such action, give due consideration to the valid interests of consumers.
 
 Sec. 7. <i>Abolition of Committee and Council</i>. Except as otherwise provided herein, the President's Committee on Consumer Interests and the Consumer Advisory Council established under Executive Order No. 11136 of January 3, 1964, as amended by Executive Order No. 11349 of May 1, 1967, are abolished.
 
@@ -378,7 +402,7 @@ Sec. 3. The Department of Health and Human Services shall establish the White Ho
 
 Sec. 4. The head of each executive department and each agency designated by the Secretary shall appoint a senior Federal official responsible for management or program administration to report directly to the agency head on activity under this Executive order, and to serve as a liaison to the Initiative. The Secretary also may designate additional Federal Government officials, with the agreement of the relevant agency head, to carry out the functions of the Initiative. To the extent permitted by law and to the extent practicable, each executive department and designated agency shall provide any appropriate information requested by the working group, including data relating to the eligibility for and participation of Asian Americans and Pacific Islanders in Federal programs. Where adequate data are not available, the Initiative shall suggest the means of collecting such data.
 
-Sec. 5. Each executive department and designated agency (collectively, the “agency”) shall prepare a plan for, and shall document, its efforts to improve the quality of life of Asian Americans and Pacific Islanders through increased participation in Federal programs where Asian Americans and Pacific Islanders may be underserved. This plan shall address, among other things, Federal efforts to: (a) improve the quality of life for Asian Americans and Pacific Islanders through increased participation in Federal programs where they may be underserved and the collection of data related to Asian American and Pacific Islander populations and sub-populations; (b) increase public-sector, private-sector, and community involvement in improving the health and well-being of Asian Americans and Pacific Islanders; and (c) foster research and data on Asian Americans and Pacific Islanders, including research and data on public health. Each agency's plan shall provide appropriate measurable objectives and, after the first year, shall assess that agency's performance on the goals set in the previous year's plan. Each plan shall be submitted at a date to be established by the Secretary.
+Sec. 5. Each executive department and designated agency (collectively, the “agency”) shall prepare a plan for, and shall document, its efforts to improve the quality of life of Asian Americans and Pacific Islanders through increased participation in Federal programswhere Asian Americans and Pacific Islanders may be underserved. This plan shall address, among other things, Federal efforts to: (a) improve the quality of life for Asian Americans and Pacific Islanders through increased participation in Federal programs where they may be underserved and the collection of data related to Asian American and Pacific Islander populations and sub-populations; (b) increase public-sector, private-sector, and community involvement in improving the health and well-being of Asian Americans and Pacific Islanders; and (c) foster research and data on Asian Americans and Pacific Islanders, including research and data on public health. Each agency's plan shall provide appropriate measurable objectives and, after the first year, shall assess that agency's performance on the goals set in the previous year's plan. Each plan shall be submitted at a date to be established by the Secretary.
 
 Sec. 6. The Secretary shall review the agency plans and develop for submission to the President an integrated Federal plan (Federal Plan) to improve the quality of life of Asian American and Pacific Islanders through increased participation in Federal programs where such persons may be underserved. Actions described in the Federal Plan shall address improving access by Asian Americans and Pacific Islanders to Federal programs and fostering advances in relevant research and data. The Secretary shall ensure that the working group is given the opportunity to comment on the proposed Federal Plan prior to its submission to the President. The Secretary shall disseminate the Federal Plan to appropriate members of the executive branch. The findings and recommendations in the Federal Plan shall be considered by the agencies in their policies and activities.
 
@@ -393,14 +417,4 @@ Sec. 10. For the purposes of this order, the terms: (a) “Asian American” inc
 (b) “Pacific Islander” includes the aboriginal, indigenous, native peoples of Hawaii and other Pacific Islands within the jurisdiction of the United States.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Cross References
-
-Compensation—
-
-&emsp;&emsp;Assistant Secretaries, see section 5315 of Title 5, Government Organization and Employees.
-
-&emsp;&emsp;Secretary, see section 5312 of Title 5.
-
-&emsp;&emsp;Under Secretary, see section 5314 of Title 5.
 

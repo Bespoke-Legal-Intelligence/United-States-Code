@@ -20,7 +20,7 @@ The Federal Government, and any State or local government that receives Federal 
 
 #### (A) In general
 
-&emsp;&emsp;With respect to subclauses (I) and (II) of section 292d(a)(2)(B)(i) of this title (relating to a program of insured loans for training in the health professions), the requirements insuch subclauses regarding accredited internship or residency programs are subject to paragraph (1) of this subsection.
+&emsp;&emsp;With respect to subclauses (I) and (II) of section 292d(a)(2)(B)(i) of this title (relating to a program of insured loans for training in the health professions), the requirements in such subclauses regarding accredited internship or residency programs are subject to paragraph (1) of this subsection.
 
 #### (B) Exceptions
 

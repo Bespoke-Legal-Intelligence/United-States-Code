@@ -4,7 +4,7 @@ The purposes of this subchapter are to provide assistance to State and local edu
 
 &emsp;(1) helping to ensure that teachers, and, where appropriate, other staff and administrators, have access to sustained and intensive high-quality professional development that is aligned to challenging State content standards and challenging State student performance standards, and to support the development and implementation of sustained and intensive high-quality professional development activities in the core academic subjects; and
 
-&emsp;(2) helping to ensure that teachers, and, where appropriate, administrators, other staff, pupil services personnel, and parents, have access to professional development that—
+&emsp;(2) helping to ensure that teachers, and, where appropriate, administrators, other staff,pupil services personnel, and parents, have access to professional development that—
 
 &emsp;&emsp;(A) is tied to challenging State content standards and challenging State student performance standards;
 

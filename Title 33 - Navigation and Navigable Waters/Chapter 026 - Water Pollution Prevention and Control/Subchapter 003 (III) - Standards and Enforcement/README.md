@@ -4,6 +4,8 @@
 
 This subchapter is referred to in sections 1386, 2803 of this title.
 
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
 
 ---
 
@@ -14,7 +16,7 @@ This subchapter is referred to in sections 1386, 2803 of this title.
 - [&sect; 01313 - Water quality standards and implementation plans](%C2%A7%2001313%20-%20Water%20quality%20standards%20and%20implementation%20plans.md)
 - [&sect; 01313a - Revised water quality standards](%C2%A7%2001313a%20-%20Revised%20water%20quality%20standards.md)
 - [&sect; 01314 - Information and guidelines](%C2%A7%2001314%20-%20Information%20and%20guidelines.md)
-- [&sect; 01315 - State reports on water quality; transmittal to Congress](%C2%A7%2001315%20-%20State%20reports%20on%20water%20quality%3B%20transmittal%20to%20Congress.md)
+- [&sect; 01315 - State reports on water quality](%C2%A7%2001315%20-%20State%20reports%20on%20water%20quality.md)
 - [&sect; 01316 - National standards of performance](%C2%A7%2001316%20-%20National%20standards%20of%20performance.md)
 - [&sect; 01317 - Toxic and pretreatment effluent standards](%C2%A7%2001317%20-%20Toxic%20and%20pretreatment%20effluent%20standards.md)
 - [&sect; 01318 - Records and reports; inspections](%C2%A7%2001318%20-%20Records%20and%20reports%3B%20inspections.md)

@@ -2,7 +2,7 @@
 
 #### (a) Purpose
 
-It is the purpose of this section to enhance the education of children through the creation andproduction of television programming specifically directed toward the development of fundamental intellectual skills.
+It is the purpose of this section to enhance the education of children through the creation and production of television programming specifically directed toward the development of fundamental intellectual skills.
 
 #### (b) Establishment; contracts and grants
 
@@ -76,7 +76,7 @@ For purposes of this section—
 
 &emsp;(2) the term “person” means an individual, partnership, association, joint stock company, trust, corporation, or State or local governmental entity.
 
-(June 19, 1934, ch. 652, title III, §394, as added Pub. L. 101–437, title II, §203(a)(3), Oct. 18, 1990, 104 Stat. 998; amended Pub. L. 102–538, title I, §152, formerly §132, Oct. 27, 1992, 106 Stat. 3540, renumbered §152, Pub. L. 103–66, title VI, §6001(a)(2), Aug. 10, 1993, 107 Stat. 379.)
+(June 19, 1934, ch. 652, title III, §394, as added Pub. L. 101–437, title II, §203(a)(3), Oct. 17, 1990, 104 Stat. 998; amended Pub. L. 102–538, title I, §152, formerly §132, Oct. 27, 1992, 106 Stat. 3540, renumbered §152, Pub. L. 103–66, title VI, §6001(a)(2), Aug. 10, 1993, 107 Stat. 379.)
 
 #### Prior Provisions
 

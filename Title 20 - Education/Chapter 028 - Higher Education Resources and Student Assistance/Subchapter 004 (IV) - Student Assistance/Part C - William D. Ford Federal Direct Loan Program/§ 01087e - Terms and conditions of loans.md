@@ -58,11 +58,19 @@
 
 #### (4) Rates for FDPLUS
 
-&emsp;(A) For Federal Direct PLUS Loans for which the first disbursement is made on or after July 1, 1994, the applicable rate of interest shall, during any 12-month period beginning on July 1 and ending on June 30, be determined on the preceding June 1 and be equal to—
+&emsp;(A)(i) For Federal Direct PLUS Loans for which the first disbursement is made on or after July 1, 1994, the applicable rate of interest shall, during any 12-month period beginning on July 1 and ending on or before June 30, 2001, be determined on the preceding June 1 and be equal to—
 
-&emsp;&emsp;(i) the bond equivalent rate of 52-week Treasury bills auctioned at final auction held prior to such June 1; plus
+&emsp;&emsp;(I) the bond equivalent rate of 52-week Treasury bills auctioned at final auction held prior to such June 1; plus
 
-&emsp;&emsp;(ii) 3.1 percent,
+&emsp;&emsp;(II) 3.1 percent,
+
+> &emsp;except that such rate shall not exceed 9 percent.
+
+&emsp;(ii) For any 12-month period beginning on July 1 of 2001 or any succeeding year, the applicable rate of interest determined under this subparagraph shall be determined on the preceding June 26 and be equal to—
+
+&emsp;&emsp;(I) the weekly average 1-year constant maturity Treasury yield, as published by the Board of Governors of the Federal Reserve System, for the last calendar week ending on or before such June 26; plus
+
+&emsp;&emsp;(II) 3.1 percent,
 
 > &emsp;except that such rate shall not exceed 9 percent.
 
@@ -180,7 +188,7 @@ The Secretary shall charge the borrower of a loan made under this part an origin
 
 &emsp;&emsp;(B) an extended repayment plan, with a fixed annual repayment amount paid over an extended period of time, except that the borrower shall annually repay a minimum amount determined by the Secretary in accordance with section 1078(b)(1)(L) of this title;
 
-&emsp;&emsp;(C) a graduated repayment plan, with annual repayment amounts established at 2 or more graduated levels and paid over a fixed or extended period of time, except that the borrower's scheduled payments shall not be less than 50 percent, nor more than 150 percent, of what the amortized payment on the amount owed would be if the loan were repaid under the standard repayment plan; and
+&emsp;&emsp;(C) a graduated repayment plan, with annual repayment amounts established at 2 ormore graduated levels and paid over a fixed or extended period of time, except that the borrower's scheduled payments shall not be less than 50 percent, nor more than 150 percent, of what the amortized payment on the amount owed would be if the loan were repaid under the standard repayment plan; and
 
 &emsp;&emsp;(D) an income contingent repayment plan, with varying annual repayment amounts based on the income of the borrower, paid over an extended period of time prescribed by the Secretary, not to exceed 25 years, except that the plan described in this subparagraph shall not be available to the borrower of a Federal Direct PLUS loan.
 
@@ -232,7 +240,7 @@ The Secretary shall charge the borrower of a loan made under this part an origin
 
 &emsp;&emsp;(A) that the Internal Revenue Service will disclose to the Secretary tax return information as authorized under section 6103(<i>l</i>)(13) of title 26; and
 
-&emsp;&emsp;(B) that if a borrower considers that special circumstances, such as a loss of employment by the borrower or the borrower'sspouse, warrant an adjustment in the borrower's loan repayment as determined using the information described in subparagraph (A), or the alternative documentation described in paragraph (3), the borrower may contact the Secretary, who shall determine whether such adjustment is appropriate, in accordance with criteria established by the Secretary.
+&emsp;&emsp;(B) that if a borrower considers that special circumstances, such as a loss of employment by the borrower or the borrower's spouse, warrant an adjustment in the borrower's loan repayment as determined using the information described in subparagraph (A), or the alternative documentation described in paragraph (3), the borrower may contact the Secretary, who shall determine whether such adjustment is appropriate, in accordance with criteria established by the Secretary.
 
 #### (f) Deferment
 
@@ -310,13 +318,21 @@ The common financial reporting form required in section 1090(a)(1) of this title
 
 &emsp;All transaction histories under this part shall be maintained using the same system designated by the Secretary for the provision of Federal Pell Grants under subpart 1 of part A of this subchapter.
 
-(Pub. L. 89–329, title IV, §455, as added Pub. L. 99–498, title IV, §404, Oct. 17, 1986, 100 Stat. 1439; amended Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 572; Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 346; Pub. L. 103–382, title III, §359, Oct. 20, 1994, 108 Stat. 3968; Pub. L. 105–178, title VIII, §8301(c), June 9, 1998, 112 Stat. 498; Pub. L. 105–244, title IV, §§401(g)(6), 452(a)(1), (b), (c), Oct. 7, 1998, 112 Stat. 1652, 1715–1717.)
+(Pub. L. 89–329, title IV, §455, as added Pub. L. 99–498, title IV, §404, Oct. 17, 1986, 100 Stat. 1439; amended Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 572; Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 346; Pub. L. 103–382, title III, §359, Oct. 20, 1994, 108 Stat. 3968; Pub. L. 105–178, title VIII, §8301(c), June 9, 1998, 112 Stat. 498; Pub. L. 105–244, title IV, §§401(g)(6), 452(a)(1), (b), (c), Oct. 7, 1998, 112 Stat. 1652, 1715–1717; Pub. L. 106–554, §1(a)(1) \[title III, §318(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–49.)
 
 #### References in Text
 
 Sections 1077(a)(2)(C) and 1078(b)(1)(M) of this title as such sections were in effect on July 22, 1992, referred to in subsec. (f)(4), means sections 1077(a)(2)(C) and 1078(b)(1)(M) of this title prior to being amended generally by sections 414(b) and 416(e)(1), respectively, of Pub. L. 102–325, title IV, July 23, 1992, 106 Stat. 513, 519.
 
 #### Amendments
+
+2000—Subsec. (b)(4)(A). Pub. L. 106–554 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “For Federal Direct PLUS Loans for which the first disbursement is made on or after July 1, 1994, the applicable rate of interest shall, during any 12-month period beginning on July 1 and ending on June 30, be determined on the preceding June 1 and be equal to—
+
+&emsp;“(i) the bond equivalent rate of 52-week Treasury bills auctioned at final auction held prior to such June 1; plus
+
+&emsp;“(ii) 3.1 percent,
+
+> except that such rate shall not exceed 9 percent.”
 
 1998—Subsec. (b)(5). Pub. L. 105–178, §8301(c)(2), which directed amendment of section 455(b) (20 U.S.C. 1087e(b)) by adding par. (5), was executed to this section, which is section 455(b) of Pub. L. 89–329, to reflect the probable intent of Congress. Former par. (5) redesignated (6).
 

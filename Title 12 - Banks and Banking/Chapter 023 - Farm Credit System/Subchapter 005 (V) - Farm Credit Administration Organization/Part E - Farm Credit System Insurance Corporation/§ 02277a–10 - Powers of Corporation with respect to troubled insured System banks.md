@@ -86,7 +86,7 @@
 
 #### (5) Reports
 
-&emsp;The Corporation, in its annual report to Congress, shall report the total amount saved, or it estimates to be saved, by the Corporation exercising the authority provided to the Corporation in this subsection.
+&emsp;The Corporation, in its annual report to Congress, shall report the total amount saved,or it estimates to be saved, by the Corporation exercising the authority provided to the Corporation in this subsection.
 
 #### (b) Authority to pledge or sell assets
 

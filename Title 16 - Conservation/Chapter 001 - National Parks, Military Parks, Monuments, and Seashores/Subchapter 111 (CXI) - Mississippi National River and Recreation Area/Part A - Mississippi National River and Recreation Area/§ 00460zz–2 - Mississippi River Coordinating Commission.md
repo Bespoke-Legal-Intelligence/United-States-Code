@@ -110,7 +110,7 @@ Within 3 years after appointment of the full membership of the Commission, the C
 
 #### (j) Development of plan
 
-(1) In developing the plan the Commission shall consult on a regular basis with appropriateofficials of any local government or Federal or State agency which has jurisdiction over lands and waters within the Area.
+(1) In developing the plan the Commission shall consult on a regular basis with appropriate officials of any local government or Federal or State agency which has jurisdiction over lands and waters within the Area.
 
 (2) In developing the plan the Commission shall consult with interested conservation, business, professional and citizen organizations.
 
@@ -118,7 +118,7 @@ Within 3 years after appointment of the full membership of the Commission, the C
 
 #### (k) Approval of plan
 
-The Commission shall submit the plan to the Secretary and the Governor of Minnesota, for their review. The Governor shall act on the plan within 90 days and shall submit the plan to the Secretary along with any recommendations. The Secretary shall approve or disapprove the plan within 90 days. In reviewing the plan the Secretary shall consider each of the following:
+The Commission shall submit the plan to the Secretary and the Governor of Minnesota, for their review. The Governor shall act on the planwithin 90 days and shall submit the plan to the Secretary along with any recommendations. The Secretary shall approve or disapprove the plan within 90 days. In reviewing the plan the Secretary shall consider each of the following:
 
 &emsp;(1) The adequacy of public participation.
 

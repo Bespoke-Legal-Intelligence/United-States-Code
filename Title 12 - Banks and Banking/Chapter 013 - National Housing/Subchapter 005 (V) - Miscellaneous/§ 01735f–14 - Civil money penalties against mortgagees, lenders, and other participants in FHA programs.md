@@ -4,7 +4,7 @@
 
 #### (1) Authority
 
-&emsp;If a mortgagee approved under the <sup>1</sup> chapter, a lender holding a contract of insurance under subchapter I of this chapter, or a principal, officer, or employee of such mortgagee or lender, or other person or entity participating in either an insured mortgage or subchapter I loan transaction under this chapter or providing assistance to the borrower in connection with any such loan, including sellers of the real estate involved, borrowers, closing agents, title companies, real estate agents,mortgage brokers, appraisers, loan correspondents and dealers, knowingly and materially violates any applicable provision of subsection (b) of this section, the Secretary may impose a civil money penalty on the mortgagee or lender, or such other person or entity, in accordance with this section. The penalty under this paragraph shall be in addition to any other available civil remedy or any available criminal penalty, and may be imposed whether or not the Secretary imposes other administrative sanctions. The penalty shall be in addition to any other available civil remedy or any available criminal penalty, and may be imposed whether or not the Secretary imposes other administrative sanctions.
+&emsp;If a mortgagee approved under the <sup>1</sup> chapter, a lender holding a contract of insurance under subchapter I of this chapter, or a principal, officer, or employee of such mortgagee or lender, or other person or entity participating in either an insured mortgage or subchapter I loan transaction under this chapter or providing assistance to the borrower in connection with any such loan, including sellers of the real estate involved, borrowers, closing agents, title companies, real estate agents, mortgage brokers, appraisers, loan correspondents and dealers, knowingly and materially violates any applicable provision of subsection (b) of this section, the Secretary may impose a civil money penalty on the mortgagee or lender, or such other person or entity, in accordance with this section. The penalty under this paragraph shall be in addition to any other available civil remedy or any available criminal penalty, and may be imposed whether or not the Secretary imposes other administrative sanctions. The penalty shall be in addition to any other available civil remedy or any available criminal penalty, and may be imposed whether or not the Secretary imposes other administrative sanctions.
 
 #### (2) Amount of penalty
 
@@ -122,13 +122,9 @@ The Secretary shall issue such regulations as the Secretary deems appropriate to
 
 #### (i) Deposit of penalties in insurance funds
 
-Notwithstanding any other provision of law, all civil money penalties collected under thissection shall be deposited in the appropriate insurance fund or funds established under this chapter, as determined by the Secretary.
+Notwithstanding any other provision of law, all civil money penalties collected under this section shall be deposited in the appropriate insurance fund or funds established under this chapter, as determined by the Secretary.
 
 (June 27, 1934, ch. 847, title V, §536, as added Pub. L. 101–235, title I, §107(a), Dec. 15, 1989, 103 Stat. 2000; amended Pub. L. 104–208, div. A, title II, §2704(d)(13)(B), Sept. 30, 1996, 110 Stat. 3009–490; Pub. L. 105–65, title V, §553, Oct. 27, 1997, 111 Stat. 1413; Pub. L. 105–276, title VI, §601(g), (h), Oct. 21, 1998, 112 Stat. 2674.)
-
-#### Amendment of Subsection (b)(1)(B)(ii)
-
-<i>Pub. L. 104–208, div. A, title II, §2704(c), (d)(13)(B), Sept. 30, 1996, 110 Stat. 3009–487, 3009–490, provided that, effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, subsection (b)(1)(B)(ii) of this section is amended by striking “Bank Insurance Fund for banks and through the Savings Association Insurance Fund for savings associations” and inserting “Deposit Insurance Fund”.</i>
 
 #### References in Text
 
@@ -156,6 +152,8 @@ Subsec. (d)(1). Pub. L. 105–65, §553(d)(2), inserted “or such other person 
 
 Subsec. (e). Pub. L. 105–65, §553(d)(3), inserted “or such other person or entity” after “lender” in two places.
 
+1996—Subsec. (b)(1)(B)(ii). Pub. L. 104–208, which directed the amendment of section 526(b)(1)(B)(ii) of the National Housing Act by substituting “Deposit Insurance Fund” for “Bank Insurance Fund for banks and through the Savings Association Insurance Fund for savings associations” and which substitution was probably intended by Congress to be made in subsec. (b)(1)(B)(ii) of this section, section 536 of the National Housing Act, was not executed. See Effective Date of 1996 Amendment note below.
+
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, see section 2704(c) of Pub. L. 104–208, set out as a note under section 1821 of this title.
@@ -182,7 +180,7 @@ Use of Existing Regulations.—In implementing any provision of this subtitle, t
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1703, 1715z–13a of this title.
+This section is referred to in sections 1703, 1715z–13a, 1715z–13b of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “this”.</i>
 

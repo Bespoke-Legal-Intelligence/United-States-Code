@@ -22,12 +22,6 @@ Section, insofar as it relates also to rights-of-way in military and other reser
 
 Repeal by Pub. L. 94–579, insofar as applicable to the issuance of rights-of-way, not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see note set out under section 1701 of Title 43, Public Lands.
 
-#### Cross References
-
-Issuance of licenses for construction, operation and maintenance of transmission lines, for development, transmission and utilization of power, across public lands and reservations, see section 797 of this title.
-
-Uniform application of this section to all areas of national park system when not in conflict with specific provisions applicable to an area, see section 1c of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1c of this title.

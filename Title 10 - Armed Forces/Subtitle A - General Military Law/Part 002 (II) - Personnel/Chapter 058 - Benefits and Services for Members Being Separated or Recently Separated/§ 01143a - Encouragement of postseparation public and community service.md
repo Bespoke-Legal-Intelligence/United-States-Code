@@ -70,7 +70,7 @@ Amendment by Pub. L. 103–337 applicable only to members of the Coast Guard who
 
 #### Program of Educational Leave Relating to Continuing Public and Community Service
 
-Section 4463 of Pub. L. 102–484, as amended by Pub. L. 103–160, div. A, title V, §561(<i>o</i>), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 105–261, div. A, title V, §561(g), Oct. 17, 1998, 112 Stat. 2025, provided that:
+Section 4463 of Pub. L. 102–484, as amended by Pub. L. 103–160, div. A, title V, §561(<i>o</i>), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 105–261, div. A, title V, §561(g), Oct. 17, 1998, 112 Stat. 2025; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(g)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134, provided that:
 
 “(a)
 
@@ -108,7 +108,7 @@ Definitions.—In this section:
 
 “(f)
 
-Expiration.—The authority to grant a leave of absence under subsection (a) shall expire on September 30, 2001.”
+Expiration.—The authority to grant a leave of absence under subsection (a) shall expire on December 31, 2001.”
 
 #### Increased Early Retirement Retired Pay for Public or Community Service
 

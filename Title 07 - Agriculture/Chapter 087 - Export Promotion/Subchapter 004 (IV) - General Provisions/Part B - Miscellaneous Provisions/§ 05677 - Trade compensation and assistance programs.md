@@ -20,7 +20,7 @@ Under a program, the Secretary shall, based on an evaluation by the Secretary of
 
 #### (2) Determination of amount of funds
 
-&emsp;For each fiscal year of a program, the amount of funds made available under subsection (b)(2) of this section shall be equal to 90 percent of the average annual value of United States agricultural exports to the country with respect to which exports are suspended during the most recent 3 years prior to the suspension for which data are available.
+&emsp;For each fiscal year of a program, the amount of funds made available under subsection (b)(2) of this section shall be equal to90 percent of the average annual value of United States agricultural exports to the country with respect to which exports are suspended during the most recent 3 years prior to the suspension for which data are available.
 
 #### (d) Duration of program
 
@@ -36,7 +36,7 @@ This section shall not apply to any suspension of trade due to a war or armed ho
 
 #### (g) Partial year embargoes
 
-If the Secretary makes funds available under subsection (b)(2) of this section, regardless of whether an embargo is in effect for only part of a fiscal year, the full amount of funds as calculated under subsection (c)(2) of this sectionshall be made available under a program for the fiscal year. If the Secretary determines that making the required amount of funds available in a partial fiscal year is impracticable, the Secretary may make all or part of the funds required to be made available in the following fiscal year (in addition to any funds otherwise required under a program to be made available in the following fiscal year).
+If the Secretary makes funds available under subsection (b)(2) of this section, regardless of whether an embargo is in effect for only part of a fiscal year, the full amount of funds as calculated under subsection (c)(2) of this section shall be made available under a program for the fiscal year. If the Secretary determines that making the required amount of funds available in a partial fiscal year is impracticable, the Secretary may make all or part of the funds required to be made available in the following fiscal year (in addition to any funds otherwise required under a program to be made available in the following fiscal year).
 
 #### (h) Short supply embargoes
 

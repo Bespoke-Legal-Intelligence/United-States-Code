@@ -14,7 +14,7 @@
 
 &emsp;&emsp;&emsp;(i) the delivery system assets of such an organization and ability of such an organization to provide services directly to enrollees through affiliated providers,
 
-&emsp;&emsp;&emsp;(ii) alternative means of protecting against insolvency, including reinsurance, unrestricted surplus, letters of credit, guarantees, organizational insurance coverage, partnerships with other licensed entities, and valuation attributable to the ability of such an organization to meet its service obligations through direct delivery of care, and
+&emsp;&emsp;&emsp;(ii) alternative means of protecting against insolvency, including reinsurance, unrestricted surplus, letters of credit, guarantees, organizational insurance coverage, partnerships with other licensed entities, and valuation attributable to theability of such an organization to meet its service obligations through direct delivery of care, and
 
 &emsp;&emsp;&emsp;(iii) any standards developed by the National Association of Insurance Commissioners specifically for risk-based health care delivery organizations.
 
@@ -78,13 +78,33 @@
 
 &emsp;&emsp;State standards relating to the following are superseded under this paragraph:
 
-&emsp;&emsp;&emsp;(i) Benefit requirements.
+&emsp;&emsp;&emsp;(i) Benefit requirements (including cost-sharing requirements).
 
 &emsp;&emsp;&emsp;(ii) Requirements relating to inclusion or treatment of providers.
 
 &emsp;&emsp;&emsp;(iii) Coverage determinations (including related appeals and grievance processes).
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1856, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 317.)
+&emsp;&emsp;&emsp;(iv) Requirements relating to marketing materials and summaries and schedules of benefits regarding a Medicare+Choice plan.
+
+#### (4) Prohibition of midyear implementation of significant new regulatory requirements
+
+&emsp;The Secretary may not implement, other than at the beginning of a calendar year, regulations under this section that impose new, significant regulatory requirements on a Medicare+Choice organization or plan.
+
+(Aug. 14, 1935, ch. 531, title XVIII, §1856, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 317; amended Pub. L. 106–554, §1(a)(6) \[title VI, §§612(a), 614(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–560.)
+
+#### Amendments
+
+2000—Subsec. (b)(3)(B)(i). Pub. L. 106–554, §1(a)(6) \[title VI, §614(a)(1)\], inserted “(including cost-sharing requirements)” after “Benefit requirements”.
+
+Subsec. (b)(3)(B)(iv). Pub. L. 106–554, §1(a)(6) \[title VI, §614(a)(2)\], added cl. (iv).
+
+Subsec. (b)(4). Pub. L. 106–554, §1(a)(6) \[title VI, §612(a)\], added par. (4).
+
+#### Effective Date of 2000 Amendment
+
+Pub. L. 106–554, §1(a)(6) \[title VI, §612(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–560, provided that: “The amendment made by subsection (a) \[amending this section\] takes effect on the date of the enactment of this Act \[Dec. 21, 2000\].”
+
+Pub. L. 106–554, §1(a)(6) \[title VI, §614(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–561, provided that: “The amendments made by subsection (a) \[amending this section\] take effect on the date of the enactment of this Act \[Dec. 21, 2000\].”
 
 #### Section Referred to in Other Sections
 

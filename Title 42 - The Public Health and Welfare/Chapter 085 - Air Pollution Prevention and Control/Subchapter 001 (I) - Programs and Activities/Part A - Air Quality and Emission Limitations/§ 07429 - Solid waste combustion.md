@@ -4,11 +4,11 @@
 
 #### (1) In general
 
-&emsp;(A) The Administrator shall establish performance standards and other requirements pursuant to section 7411 of this title and this section for each category of solid waste incineration units. Such standards shall include emissions limitations and other requirements applicable to new units and guidelines (under section 7411(d) of this title and this section) and other requirements applicable to existing units.
+&emsp;(A) The Administrator shall establish performance standards and other requirementspursuant to section 7411 of this title and this section for each category of solid waste incineration units. Such standards shall include emissions limitations and other requirements applicable to new units and guidelines (under section 7411(d) of this title and this section) and other requirements applicable to existing units.
 
 &emsp;(B) Standards under section 7411 of this title and this section applicable to solid waste incineration units with capacity greater than 250 tons per day combusting municipal waste shall be promulgated not later than 12 months after November 15, 1990. Nothing in this subparagraph shall alter any schedule for the promulgation of standards applicable to such units under section 7411 of this title pursuant to any settlement and consent decree entered by the Administrator before November 15, 1990: <i>Provided</i>, That, such standards are subsequently modified pursuant to the schedule established in this subparagraph to include each of the requirements of this section.
 
-&emsp;(C) Standards under section 7411 of this title and this section applicable to solid waste incineration units with capacity equal to or less than 250 tons per day combusting municipalwaste and units combusting hospital waste, medical waste and infectious waste shall be promulgated not later than 24 months after November 15, 1990.
+&emsp;(C) Standards under section 7411 of this title and this section applicable to solid waste incineration units with capacity equal to or less than 250 tons per day combusting municipal waste and units combusting hospital waste, medical waste and infectious waste shall be promulgated not later than 24 months after November 15, 1990.
 
 &emsp;(D) Standards under section 7411 of this title and this section applicable to solid waste incineration units combusting commercial or industrial waste shall be proposed not later than 36 months after November 15, 1990, and promulgated not later than 48 months after November 15, 1990.
 
@@ -38,11 +38,11 @@
 
 #### (2) State plans
 
-&emsp;Not later than 1 year after the Administrator promulgates guidelines for a category of solid waste incineration units, each State in which units in the category are operating shall submit to the Administrator a plan to implement and enforce the guidelines with respect to such units. The State plan shall be at least as protective as the guidelines promulgated by the Administrator and shall provide that each unit subject to the guidelines shall be in compliance with all requirements of this section not later than 3 years after the State plan is approved by the Administrator but not later than 5 years after the guidelines were promulgated. The Administrator shall approve or disapprove any State plan within 180 days of the submission, and if a plan is disapproved, the Administrator shall state the reasons for disapproval in writing. Any State may modify and resubmit a plan which has been disapproved by the Administrator.
+&emsp;Not later than 1 year after the Administrator promulgates guidelines for a categoryof solid waste incineration units, each State in which units in the category are operating shall submit to the Administrator a plan to implement and enforce the guidelines with respect to such units. The State plan shall be at least as protective as the guidelines promulgated by the Administrator and shall provide that each unit subject to the guidelines shall be in compliance with all requirements of this section not later than 3 years after the State plan is approved by the Administrator but not later than 5 years after the guidelines were promulgated. The Administrator shall approve or disapprove any State plan within 180 days of the submission, and if a plan is disapproved, the Administrator shall state the reasons for disapproval in writing. Any State may modify and resubmit a plan which has been disapproved by the Administrator.
 
 #### (3) Federal plan
 
-&emsp;The Administrator shall develop, implement and enforce a plan for existing solid waste incineration units within any category located in any State which has not submitted an approvable plan under this subsection with respect to units in such category within 2 yearsafter the date on which the Administrator promulgated the relevant guidelines. Such plan shall assure that each unit subject to the plan is in compliance with all provisions of the guidelines not later than 5 years after the date the relevant guidelines are promulgated.
+&emsp;The Administrator shall develop, implement and enforce a plan for existing solid waste incineration units within any category located in any State which has not submitted an approvable plan under this subsection with respect to units in such category within 2 years after the date on which the Administrator promulgated the relevant guidelines. Such plan shall assure that each unit subject to the plan is in compliance with all provisions of the guidelines not later than 5 years after the date the relevant guidelines are promulgated.
 
 #### (c) Monitoring
 
@@ -68,7 +68,7 @@ Beginning (1) 36 months after the promulgation of a performance standard under s
 
 #### (1) New units
 
-&emsp;Performance standards and other requirements promulgated pursuant to this section and section 7411 of this title and applicable to new solid waste incineration units shall be effective as of the date 6 months after the date of promulgation.
+&emsp;Performance standards and other requirements promulgated pursuant to this section and section 7411 of this title and applicable tonew solid waste incineration units shall be effective as of the date 6 months after the date of promulgation.
 
 #### (2) Existing units
 
@@ -76,7 +76,7 @@ Beginning (1) 36 months after the promulgation of a performance standard under s
 
 #### (3) Prohibition
 
-&emsp;After the effective date of any performance standard, emission limitation or other requirement promulgated pursuant to this section and section 7411 of this title, it shall be unlawful for any owner or operator of any solid waste incineration unit to which such standard, limitation or requirement applies to operate such unit in violation of such limitation, standard or requirement or for any otherperson to violate an applicable requirement of this section.
+&emsp;After the effective date of any performance standard, emission limitation or other requirement promulgated pursuant to this section and section 7411 of this title, it shall be unlawful for any owner or operator of any solid waste incineration unit to which such standard, limitation or requirement applies to operate such unit in violation of such limitation, standard or requirement or for any other person to violate an applicable requirement of this section.
 
 #### (4) Coordination with other authorities
 

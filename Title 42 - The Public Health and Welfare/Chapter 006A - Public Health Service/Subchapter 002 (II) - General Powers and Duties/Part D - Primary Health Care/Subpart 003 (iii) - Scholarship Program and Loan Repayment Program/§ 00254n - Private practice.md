@@ -24,7 +24,7 @@ The written agreement described in subsection (a) of this section shall—
 
 #### (c) Breach of service contract
 
-If an individual breaches the contract entered into under section 254<i>l</i> or 254<i>l</i>–1 of this title byfailing (for any reason) to begin his service obligation in accordance with an agreement entered into under subsection (a) of this section or to complete such service obligation, the Secretary may permit such individual to perform such service obligation as a member of the Corps.
+If an individual breaches the contract entered into under section 254<i>l</i> or 254<i>l</i>–1 of this title by failing (for any reason) to begin his service obligation in accordance with an agreement entered into under subsection (a) of this section or to complete such service obligation, the Secretary may permit such individual to perform such service obligation as a member of the Corps.
 
 #### (d) Travel expenses
 
@@ -98,7 +98,7 @@ See section 408(b)(2) of Pub. L. 94–484, set out as a note under section 254<i
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 242a, 254d, 254<i>l</i>, 254<i>l</i>–1, 254m, 254<i>o</i>, 254p, 294cc, 11709 of this title.
+This section is referred to in sections 254d, 254<i>l</i>, 254<i>l</i>–1, 254m, 254<i>o</i>, 254p, 294cc, 11709 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

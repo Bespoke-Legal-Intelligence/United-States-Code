@@ -10,7 +10,7 @@ Each order issued under this chapter shall contain the terms and conditions pres
 
 #### (A) Establishment
 
-&emsp;&emsp;The order shall provide for the establishment of, and selection of members to, a Mushroom Council that shall consist of at least 4 members and not more than 9 members.
+&emsp;&emsp;The order shall provide for the establishment of, and selection of members to, a Mushroom Council that shall consist of atleast 4 members and not more than 9 members.
 
 #### (B) Membership
 
@@ -36,7 +36,7 @@ Each order issued under this chapter shall contain the terms and conditions pres
 
 #### (E) Additional members
 
-&emsp;&emsp;Subject to the nine-member limit on the number of members on the Council provided in paragraph (1), the Secretary shall appointan additional member to the Council from a region for each additional 50,000,000 pounds of production or imports per year, on average, within the region.
+&emsp;&emsp;Subject to the nine-member limit on the number of members on the Council provided in paragraph (1), the Secretary shall appoint an additional member to the Council from a region for each additional 50,000,000 pounds of production or imports per year, on average, within the region.
 
 #### (F) Average annual production
 
@@ -208,7 +208,7 @@ The order shall prohibit any funds received by the Council under the order from 
 
 #### (B) Penalty
 
-&emsp;&emsp;Any person knowingly violating this subsection, on conviction, shall be subject to afine of not more than $1,000 or to imprisonment for not more than 1 year, or both, and if an officer or employee of the Council or the Department, shall be removed from office.
+&emsp;&emsp;Any person knowingly violating this subsection, on conviction, shall be subject to a fine of not more than $1,000 or to imprisonment for not more than 1 year, or both, and if an officer or employee of the Council or the Department, shall be removed from office.
 
 #### (5) Withholding information
 

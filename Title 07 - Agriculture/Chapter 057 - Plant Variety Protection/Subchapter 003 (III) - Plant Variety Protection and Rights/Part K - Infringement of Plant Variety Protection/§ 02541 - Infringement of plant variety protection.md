@@ -32,7 +32,7 @@ Except as otherwise provided in this subchapter, it shall be an infringement of 
 
 &emsp;(A) the producer has fulfilled the terms of the contract;
 
-&emsp;(B) the owner refuses to take delivery of the seed or refuses to pay any amounts due underthe contract within 30 days of the payment date specified in the contract; and
+&emsp;(B) the owner refuses to take delivery of the seed or refuses to pay any amounts due under the contract within 30 days of the payment date specified in the contract; and
 
 &emsp;(C) after the expiration of the period specified in subparagraph (B), the producer notifies the owner of the producer's intent to sell the seed and unless the owner fails to pay the amounts due under the contract and take delivery of the seed within 30 days of such notification. For the purposes of this paragraph, the term “owner” shall include any licensee of the owner.
 

@@ -1,0 +1,36 @@
+### §423<i>l</i>–4. Land acquisition
+
+#### (a) Acquisition authority
+
+#### (1) In general
+
+&emsp;The Secretary may acquire lands, waters, and interests in lands within the boundaries of the battlefield park from willing landowners by donation, purchase with donated or appropriated funds, or exchange. In acquiring lands and interests in lands under this title, the Secretary shall acquire the minimum interest necessary to achieve the purposes for which the battlefield is established.
+
+#### (2) Special rule for private lands
+
+&emsp;Privately owned lands or interests in lands may be acquired under sections 423<i>l</i>–1 to 423<i>l</i>–6 of this title only with the consent of the owner.
+
+#### (b) Easements
+
+#### (1) Outside boundaries
+
+&emsp;The Secretary may acquire an easement on property outside the boundaries of the battlefield park and around the City of Richmond, with the consent of the owner, if the Secretary determines that the easement is necessary to protect core Civil War resources as identified by the Civil War Sites Advisory Committee. Upon acquisition of the easement, the Secretary shall revise the boundaries of the battlefield park to include the property subject to the easement.
+
+#### (2) Inside boundaries
+
+&emsp;To the extent practicable, and if preferred by a willing landowner, the Secretary shall use permanent conservation easements to acquire interests in land in lieu of acquiring land in fee simple and thereby removing land from non-Federal ownership.
+
+#### (c) Visitor center
+
+The Secretary may acquire the Tredegar Iron Works buildings and associated land in the City of Richmond for use as a visitor center for the battlefield park.
+
+(Pub. L. 106–511, title V, §504, Nov. 13, 2000, 114 Stat. 2374.)
+
+#### References in Text
+
+Sections 423<i>l</i>–1 to 423<i>l</i>–6 of this title, referred to in subsec. (a)(2), was in the original “this title”, meaning title V of Pub. L. 106–511, Nov. 13, 2000, 114 Stat. 2373, which enacted sections 423<i>l</i>–1 to 423<i>l</i>–6 of this title and repealed sections 423j to 423<i>l</i> of this title. For complete classification of title V to the Code, see Tables.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 423<i>l</i>–1, 423<i>l</i>–2, 423<i>l</i>–5, 423<i>l</i>–6 of this title.
+

@@ -72,6 +72,10 @@ The Council, through the Committee, shall be responsible for planning and coordi
 
 (Pub. L. 101–606, title I, §102, Nov. 16, 1990, 104 Stat. 3097.)
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (e)(7) of this section relating to reporting annually to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 157 of House Document No. 103–7.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 2921 of this title.

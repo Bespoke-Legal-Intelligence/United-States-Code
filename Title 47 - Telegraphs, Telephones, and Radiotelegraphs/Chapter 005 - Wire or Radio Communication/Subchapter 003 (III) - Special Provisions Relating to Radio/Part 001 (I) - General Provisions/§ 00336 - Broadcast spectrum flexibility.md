@@ -34,7 +34,7 @@ Nothing in this section shall be construed as relieving a television broadcastin
 
 #### (1) Services to which fees apply
 
-&emsp;If the regulations prescribed pursuant to subsection (a) of this section permit a licenseeto offer ancillary or supplementary services on a designated frequency—
+&emsp;If the regulations prescribed pursuant to subsection (a) of this section permit a licensee to offer ancillary or supplementary services on a designated frequency—
 
 &emsp;&emsp;(A) for which the payment of a subscription fee is required in order to receive such services, or
 
@@ -64,7 +64,7 @@ Nothing in this section shall be construed as relieving a television broadcastin
 
 #### (4) Report
 
-&emsp;Within 5 years after February 8, 1996, the Commission shall report to the Congress on the implementation of the program required by this subsection, and shall annually thereafter advise the Congress on the amounts collected pursuant to such program.
+&emsp;Within 5 years after February 8, 1996, the Commission shall report to the Congress onthe implementation of the program required by this subsection, and shall annually thereafter advise the Congress on the amounts collected pursuant to such program.
 
 #### (f) Preservation of low-power community television broadcasting
 
@@ -122,7 +122,7 @@ Nothing in this section shall be construed as relieving a television broadcastin
 
 #### (4) Issuance of licenses for advanced television services to television translator stations and qualifying low-power television stations
 
-&emsp;The Commission is not required to issue any additional license for advanced television services to the licensee of a class A television station under this subsection, or to any licensee of any television translator station, but shall accept a license application for such services proposing facilities that will not cause interference to the service area of any other broadcast facility applied for, protected, permitted, or authorized on the date of filing of the advanced television application. Such new license or the original license of the applicant shall be forfeited after the end of the digital television service transition period, as determined by the Commission. A licensee of a low-power television station or television translator station may, at the option of licensee, elect to convert to the provision of advanced television services on its analog channel, but shall not be required to convert to digital operation until the end of such transition period.
+&emsp;The Commission is not required to issue any additional license for advanced television services to the licensee of a class A television station under this subsection, or to any licensee of any television translator station, but shall accept a license application for such services proposing facilities that will not cause interference to the service area of any other broadcast facility applied for, protected,permitted, or authorized on the date of filing of the advanced television application. Such new license or the original license of the applicant shall be forfeited after the end of the digital television service transition period, as determined by the Commission. A licensee of a low-power television station or television translator station may, at the option of licensee, elect to convert to the provision of advanced television services on its analog channel, but shall not be required to convert to digital operation until the end of such transition period.
 
 #### (5) No preemption of section 337
 
@@ -176,7 +176,101 @@ Within 10 years after the date the Commission first issues additional licenses f
 
 &emsp;(3) the extent to which the Commission has been or will be able to reduce the amount of spectrum assigned to licensees.
 
-#### (h) Definitions
+#### (h) Provision of digital data service by low-power television stations
+
+(1) Within 60 days after receiving a request (made in such form and manner and containing such information as the Commission may require) under this subsection from a low-power television station to which this subsection applies, the Commission shall authorize the licensee or permittee of that station to provide digital data service subject to the requirements of this subsection as a pilot project to demonstrate the feasibility of using low-power television stations to provide high-speed wireless digital data service, including Internet access to unserved areas.
+
+(2) The low-power television stations to which this subsection applies are as follows:
+
+&emsp;(A) KHLM–LP, Houston, Texas.
+
+&emsp;(B) WTAM–LP, Tampa, Florida.
+
+&emsp;(C) WWRJ–LP, Jacksonville, Florida.
+
+&emsp;(D) WVBG–LP, Albany, New York.
+
+&emsp;(E) KHHI–LP, Honolulu, Hawaii.
+
+&emsp;(F) KPHE–LP (K19DD), Phoenix, Arizona.
+
+&emsp;(G) K34FI, Bozeman, Montana.
+
+&emsp;(H) K65GZ, Bozeman, Montana.
+
+&emsp;(I) WXOB–LP, Richmond, Virginia.
+
+&emsp;(J) WIIW–LP, Nashville, Tennessee.
+
+&emsp;(K) A station and repeaters to be determined by the Federal Communications Commission for the sole purpose of providing service to communities in the Kenai Peninsula Borough and Matanuska Susitna Borough.
+
+&emsp;(L) WSPY–LP, Plano, Illinois.
+
+&emsp;(M) W24AJ, Aurora, Illinois.
+
+(3) Notwithstanding any requirement of section 553 of title 5, the Commission shall promulgate regulations establishing the procedures, consistent with the requirements of paragraphs (4) and (5), governing the pilot projects for the provision of digital data services by certain low power television licensees within 120 days after the date of enactment of LPTV Digital Data Services Act.<sup>1</sup> The regulations shall set forth—
+
+&emsp;(A) requirements as to the form, manner, and information required for submitting requests to the Commission to provide digital data service as a pilot project;
+
+&emsp;(B) procedures for testing interference to digital television receivers caused by any pilot project station or remote transmitter;
+
+&emsp;(C) procedures for terminating any pilot project station or remote transmitter or both that causes interference to any analog or digital full-power television stations, class A television station, television translators or any other users of the core television band;
+
+&emsp;(D) specifications for reports to be filed quarterly by each low power television licensee participating in a pilot project;
+
+&emsp;(E) procedures by which a low power television licensee participating in a pilot project shall notify television broadcast stations in the same market upon commencement of digital data services and for ongoing coordination with local broadcasters during the test period; and
+
+&emsp;(F) procedures for the receipt and review of interference complaints on an expedited basis consistent with paragraph (5)(D).
+
+(4) A low-power television station to which this subsection applies may not provide digital data service unless—
+
+&emsp;(A) the provision of that service, including any remote return-path transmission in the case of 2-way digital data service, does not cause any interference in violation of the Commission's existing rules, regarding interference caused by low power television stations to full-service analog or digital television stations, class A television stations, or television translator stations; and
+
+&emsp;(B) the station complies with the Commission's regulations governing safety, environmental, and sound engineering practices, and any other Commission regulation under paragraph (3) governing pilot program operations.
+
+(5)(A) The Commission may limit the provision of digital data service by a low-power television station to which this subsection applies if the Commission finds that—
+
+&emsp;(i) the provision of 2-way digital data service by that station causes any interference that cannot otherwise be remedied; or
+
+&emsp;(ii) the provision of 1-way digital data service by that station causes any interference.
+
+(B) The Commission shall grant any such station, upon application (made in such form and manner and containing such information as the Commission may require) by the licensee or permittee of that station, authority to move the station to another location, to modify its facilities to operate on a different channel, or to use booster or auxiliary transmitting locations, if the grant of authority will not cause interference to the allowable or protected service areas of full service digital television stations, National Television Standards Committee assignments, or television translator stations, and provided, however, no such authority shall be granted unless it is consistent with existing Commission regulations relating to the movement, modification, and use of non-class A low power television transmission facilities in order—
+
+&emsp;(i) to operate within television channels 2 through 51, inclusive; or
+
+&emsp;(ii) to demonstrate the utility of low-power television stations to provide high-speed 2-way wireless digital data service.
+
+(C) The Commission shall require quarterly reports from each station authorized to provide digital data services under this subsection that include—
+
+&emsp;(i) information on the station's experience with interference complaints and the resolution thereof;
+
+&emsp;(ii) information on the station's market success in providing digital data service; and
+
+&emsp;(iii) such other information as the Commission may require in order to administer this subsection.
+
+(D) The Commission shall resolve any complaints of interference with television reception caused by any station providing digital data service authorized under this subsection within 60 days after the complaint is received by the Commission.
+
+(6) The Commission shall assess and collect from any low-power television station authorized to provide digital data service under this subsection an annual fee or other schedule or method of payment comparable to any fee imposed under the authority of this chapter on providers of similar services. Amounts received by the Commission under this paragraph may be retained by the Commission as an offsetting collection to the extent necessary to cover the costs of developing and implementing the pilot program authorized by this subsection, and regulating and supervising the provision of digital data service by low-power television stations under this subsection. Amounts received by the Commission under this paragraph in excess of any amount retained under the preceding sentence shall be deposited in the Treasury in accordance with chapter 33 of title 31.
+
+(7) In this subsection, the term “digital data service” includes—
+
+&emsp;(A) digitally-based interactive broadcast service; and
+
+&emsp;(B) wireless Internet access, without regard to—
+
+&emsp;&emsp;(i) whether such access is—
+
+&emsp;&emsp;&emsp;(I) provided on a one-way or a two-way basis;
+
+&emsp;&emsp;&emsp;(II) portable or fixed; or
+
+&emsp;&emsp;&emsp;(III) connected to the Internet via a band allocated to Interactive Video and Data Service; and
+
+&emsp;&emsp;(ii) the technology employed in delivering such service, including the delivery of such service via multiple transmitters at multiple locations.
+
+(8) Nothing in this subsection limits the authority of the Commission under any other provision of law.
+
+#### (i) Definitions
 
 As used in this section:
 
@@ -192,11 +286,21 @@ As used in this section:
 
 &emsp;The term “high definition television” refers to systems that offer approximately twice the vertical and horizontal resolution of receivers generally available on February 8, 1996, as further defined in the proceedings described in paragraph (1) of this subsection.
 
-(June 19, 1934, ch. 652, title III, §336, as added Pub. L. 104–104, title II, §201, Feb. 8, 1996, 110 Stat. 107; Pub. L. 106–113, div. B, §1000(a)(9) \[title V, §5008(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–595.)
+(June 19, 1934, ch. 652, title III, §336, as added Pub. L. 104–104, title II, §201, Feb. 8, 1996, 110 Stat. 107; Pub. L. 106–113, div. B, §1000(a)(9) \[title V, §5008(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–595; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §143(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–235.)
+
+#### References in Text
+
+The date of enactment of LPTV Digital Data Services Act, referred to in subsec. (h)(3), probably means the date of enactment of Pub. L. 106–554, which enacted subsec. (h) of this section, and which was approved Dec. 21, 2000. There is no public law with that short title.
 
 #### Amendments
 
+2000—Subsecs. (h), (i). Pub. L. 106–554 added subsec. (h) and redesignated former subsec. (h) as (i).
+
 1999—Subsecs. (f) to (h). Pub. L. 106–113 added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
+
+#### Reports on Provision of Digital Data Service by Low-Power Television Stations
+
+Pub. L. 106–554, §1(a)(4) \[div. B, title I, §143(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–238, provided that: “The Federal Communications Commission shall submit a report to the Congress on June 30, 2001, and June 30, 2002, evaluating the utility of using low-power television stations to provide high-speed digital data service. The reports shall be based on the pilot projects authorized by section 336(h) of the Communications Act of 1934 (47 U.S.C. 336(h)).”
 
 #### Congressional Findings Regarding Low-Power Broadcasters
 
@@ -215,4 +319,6 @@ Pub. L. 106–113, div. B, §1000(a)(9) \[title V, §5008(b)\], Nov. 29, 1999, 1
 #### Executive Order No. 13038
 
 Ex. Ord. No. 13038, Mar. 11, 1997, 62 F.R. 12065, as amended by Ex. Ord. No. 13062, §5, Sept. 29, 1997, 62 F.R. 51756; Ex. Ord. No. 13065, Oct. 22, 1997, 62 F.R. 55329; Ex. Ord. No. 13081, Apr. 30, 1998, 63 F.R. 24385; Ex. Ord. No. 13102, Sept. 25, 1998, 63 F.R. 52125, which established the Advisory Committee on the Public Interest Obligations of Digital Television Broadcasters, was revoked by Ex. Ord. No. 13138, §3(b), Sept. 30, 1999, 64 F.R. 53880, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

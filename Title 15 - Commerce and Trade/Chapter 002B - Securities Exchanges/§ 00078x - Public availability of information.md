@@ -10,7 +10,7 @@ It shall be unlawful for any member, officer, or employee of the Commission to d
 
 #### (c) Confidential disclosures
 
-The Commission may, in its discretion and upon a showing that such information is needed, provide all “records” (as defined in subsection (a) of this section) and other information in its possession to such persons, both domestic and foreign, as the Commission by rule deems appropriate if the person receiving such records or information provides such assurances of confidentiality as the Commission deems appropriate.
+The Commission may, in its discretion and upon a showing that such information is needed, provide all “records” (as defined in subsection (a) of this section) and other information in itspossession to such persons, both domestic and foreign, as the Commission by rule deems appropriate if the person receiving such records or information provides such assurances of confidentiality as the Commission deems appropriate.
 
 #### (d) Records obtained from foreign securities authorities
 
@@ -53,18 +53,6 @@ Amendment by Pub. L. 94–29 effective June 4, 1975, see section 31(a) of Pub. L
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
-#### Cross References
-
-Information filed with Commission, public access to or unlawful disclosure of under—
-
-&emsp;&emsp;Investment Advisers Act of 1940, see section 80b–10 of this title.
-
-&emsp;&emsp;Investment Company Act of 1940, see section 80a–44 of this title.
-
-&emsp;&emsp;Public Utility Holding Company Act of 1935, see section 79v of this title.
-
-&emsp;&emsp;Securities Act of 1933, see section 77f of this title.
 
 #### Section Referred to in Other Sections
 

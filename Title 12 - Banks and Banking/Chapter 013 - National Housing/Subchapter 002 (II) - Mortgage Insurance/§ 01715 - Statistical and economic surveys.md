@@ -18,7 +18,3 @@ The Secretary shall cause to be made in connection with the insurance programs s
 
 1938—Act Feb. 3, 1938, inserted “and the Housing Fund in such proportion as the Administrator shall determine” after “Fund”.
 
-#### Cross References
-
-General Insurance Fund, establishment of, see section 1735c of this title.
-

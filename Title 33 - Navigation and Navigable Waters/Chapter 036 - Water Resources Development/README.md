@@ -135,9 +135,23 @@
 | (b) | Study of physical hydraulic model. |
 | (c) | Agency coordination; findings and recommendations. |
 | (d) | Authorization of appropriations. |
+| [2267a.](Subchapter%20004%20%28IV%29%20-%20Water%20Resources%20Studies/%C2%A7%2002267a%20-%20Watershed%20and%20river%20basin%20assessments.md) | Watershed and river basin assessments. |
+| (a) | In general. |
+| (b) | Cooperation. |
+| (c) | Consultation. |
+| (d) | Priority river basins and watersheds. |
+| (e) | Acceptance of contributions. |
+| (f) | Cost-sharing requirements. |
+| (g) | Authorization of appropriations. |
 | [2268\.](Subchapter%20004%20%28IV%29%20-%20Water%20Resources%20Studies/%C2%A7%2002268%20-%20Marine%20technology%20review.md) | Marine technology review. |
 | (a) | Dredging needs. |
 | (b) | Authorization of appropriations. |
+| [2269\.](Subchapter%20004%20%28IV%29%20-%20Water%20Resources%20Studies/%C2%A7%2002269%20-%20Tribal%20partnership%20program.md) | Tribal partnership program. |
+| (a) | Definition of Indian tribe. |
+| (b) | Program. |
+| (c) | Consultation and coordination with Secretary of the Interior. |
+| (d) | Cost sharing. |
+| (e) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -152,6 +166,7 @@
 | (b) | Reconnaissance studies. |
 | (c) | Benefits to Indian tribes. |
 | (d) | Use of standard and uniform procedures and practices. |
+| (e) | Enhanced public participation. |
 | [2283\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002283%20-%20Fish%20and%20wildlife%20mitigation.md) | Fish and wildlife mitigation. |
 | (a) | Steps to be taken prior to or concurrently with construction. |
 | (b) | Acquisition of lands or interests in lands for mitigation. |
@@ -167,7 +182,7 @@
 | [2286\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002286%20-%20Acceptance%20of%20certain%20funds%20for%20mitigation.md) | Acceptance of certain funds for mitigation. |
 | [2287\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002287%20-%20Continued%20planning%20and%20investigations.md) | Continued planning and investigations. |
 | (a) | Pre-authorization planning and engineering. |
-| (b) | Annual report. |
+| (b) | Omitted. |
 | (c) | Authorizations as additions to other authorizations. |
 | [2288\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002288%20-%20Review%20of%20cost%20effectiveness%20of%20design.md) | Review of cost effectiveness of design. |
 | [2289\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002289%20-%20Urban%20and%20rural%20flood%20control%20frequency.md) | Urban and rural flood control frequency. |
@@ -187,8 +202,7 @@
 | [2298\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002298%20-%20Impact%20of%20proposed%20projects%20on%20existing%20recreation%20facilities.md) | Impact of proposed projects on existing recreation facilities. |
 | [2299\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002299%20-%20Acquisition%20of%20beach%20fill.md) | Acquisition of beach fill. |
 | [2300\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002300%20-%20Study%20of%20Corps%20capabilities.md) | Study of Corps capabilities. |
-| [2301\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002301%20-%20Reports%20on%20hydropower%20statistics.md) | Reports on hydropower statistics. |
-| [2302\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002302%20-%20Reports%20on%20small%20business%20contracts.md) | Reports on small business contracts. |
+| 2301, 2302. Omitted. |  |
 | [2303\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002303%20-%20Historical%20properties.md) | Historical properties. |
 | [2304\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002304%20-%20Separability.md) | Separability. |
 | [2305\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002305%20-%20Use%20of%20FMHA%20funds.md) | Use of FMHA funds. |
@@ -221,9 +235,10 @@
 | (c) | Restoration of environmental quality. |
 | (d) | Non-Federal share; limitation on maximum Federal expenditure. |
 | (e) | Coordination of actions. |
-| (f) | Biennial report. |
-| (g) | Authorization of appropriations. |
-| (h) | Definition. |
+| (f) | Omitted. |
+| (g) | Nonprofit entities. |
+| (h) | Authorization of appropriations. |
+| (i) | Definition. |
 | [2310\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002310%20-%20Cost%20sharing%20for%20Territories.md) | Cost sharing for Territories. |
 | [2311\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002311%20-%20Report%20to%20Congress%20covering%20proposals%20for%20water%20impoundment%20facilities.md) | Report to Congress covering proposals for water impoundment facilities. |
 | [2312\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002312%20-%20Comments%20on%20certain%20changes%20in%20operations%20of%20reservoirs.md) | Comments on certain changes in operations of reservoirs. |
@@ -278,7 +293,9 @@
 | [2321a.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002321a%20-%20Hydroelectric%20power%20project%20uprating.md) | Hydroelectric power project uprating. |
 | (a) | In general. |
 | (b) | Consultation. |
-| (c) | Effect on other authority. |
+| (c) | Use of funds provided by preference customers. |
+| (d) | Application. |
+| (e) | Effect on other authority. |
 | [2322\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002322%20-%20Single%20entities.md) | Single entities. |
 | [2323\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002323%20-%20Technical%20assistance%20to%20private%20entities.md) | Technical assistance to private entities. |
 | (a) | Use of Corps research and development labs. |
@@ -319,6 +336,9 @@
 | (e) | Great Lakes tributary model. |
 | (f) | “Great Lakes States” defined. |
 | (g) | Authorization of appropriations. |
+| [2326c.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002326c%20-%20Dredged%20material%20marketing%20and%20recycling.md) | Dredged material marketing and recycling. |
+| (a) | Dredged material marketing. |
+| (b) | Dredged material recycling. |
 | [2327\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002327%20-%20Definition%20of%20rehabilitation%20for%20inland%20waterway%20projects.md) | Definition of rehabilitation for inland waterway projects. |
 | [2328\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002328%20-%20Challenge%20cost-sharing%20program%20for%20management%20of%20recreation%20facilities.md) | Challenge cost-sharing program for management of recreation facilities. |
 | (a) | In general. |
@@ -369,6 +389,18 @@
 | (d) | Effect on authority of Secretary of the Interior. |
 | (e) | Technology database for reclamation of abandoned mines. |
 | (f) | Authorization of appropriations. |
+| [2337\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002337%20-%20Property%20protection%20program.md) | Property protection program. |
+| (a) | In general. |
+| (b) | Provision of rewards. |
+| (c) | Authorization of appropriations. |
+| [2338\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002338%20-%20Reburial%20and%20conveyance%20authority.md) | Reburial and conveyance authority. |
+| (a) | Definition of Indian tribe. |
+| (b) | Reburial. |
+| (c) | Conveyance authority. |
+| [2339\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002339%20-%20Assistance%20programs.md) | Assistance programs. |
+| (a) | Conservation and recreation management. |
+| (b) | Rural community assistance. |
+| (c) | Cooperative agreements. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

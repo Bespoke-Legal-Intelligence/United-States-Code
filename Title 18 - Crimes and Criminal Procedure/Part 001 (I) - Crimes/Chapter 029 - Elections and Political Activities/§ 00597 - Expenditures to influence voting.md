@@ -1,6 +1,6 @@
 ### §597. Expenditures to influence voting
 
-Whoever makes or offers to make an expenditure to any person, either to vote or withholdhis vote, or to vote for or against any candidate; and
+Whoever makes or offers to make an expenditure to any person, either to vote or withhold his vote, or to vote for or against any candidate; and
 
 Whoever solicits, accepts, or receives any such expenditure in consideration of his vote or the withholding of his vote—
 
@@ -27,8 +27,4 @@ Changes were made in phraseology.
 1996—Pub. L. 104–294 substituted “shall be fined under this title” for “shall be fined not more than $10,000” in last par.
 
 1994—Pub. L. 103–322 substituted “shall be fined under this title” for “shall be fined not more than $1,000” in last par.
-
-#### Cross References
-
-Minor offenses tried by United States magistrate judges as excluding offenses punishable under this section, see section 3401 of this title.
 

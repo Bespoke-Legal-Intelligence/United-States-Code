@@ -2,9 +2,9 @@
 
 (a)(1) Upon petition by the governor <sup>1</sup> of Guam, American Samoa, the Virgin Islands, or the Commonwealth of the Northern Mariana Islands, the Administrator is authorized to exempt any person or source or class of persons or sources in such territory from any requirement under this chapter other than section 7412 of this title or any requirement under section 7410 of this title or part D of subchapter I of this chapter necessary to attain or maintain a national primary ambient air quality standard. Such exemption may be granted if the Administrator finds that compliance with such requirement is not feasible or is unreasonable due to unique geographical, meteorological, or economic factors of such territory, or such other local factors as the Administrator deems significant. Any such petition shall be considered in accordance with section 7607(d) of this title and any exemption under this subsection shall be considered final action by the Administrator for the purposes of section 7607(b) of this title.
 
-(2) The Administrator shall promptly notify the Committees on Energy and Commerce and on Natural Resources of the House of Representatives and the Committees on Environment and Public Works and on Energy and Natural Resources of the Senate upon receipt of any petition under this subsection and of the approval or rejection of such petition and the basis for such action.
+(2) The Administrator shall promptly notify the Committees on Energy and Commerce andon Natural Resources of the House of Representatives and the Committees on Environment and Public Works and on Energy and Natural Resources of the Senate upon receipt of any petition under this subsection and of the approval or rejection of such petition and the basis for such action.
 
-(b) Notwithstanding any other provision of this chapter, any fossil fuel fired steam electricpower plant operating within Guam as of December 8, 1983, is hereby exempted from:
+(b) Notwithstanding any other provision of this chapter, any fossil fuel fired steam electric power plant operating within Guam as of December 8, 1983, is hereby exempted from:
 
 &emsp;(1) any requirement of the new source performance standards relating to sulfur dioxide promulgated under section 7411 of this title as of December 8, 1983; and
 
@@ -26,7 +26,7 @@ Another prior section 325 of act July 14, 1955, was renumbered section 324 by Pu
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives and Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives and Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Section Referred to in Other Sections
 

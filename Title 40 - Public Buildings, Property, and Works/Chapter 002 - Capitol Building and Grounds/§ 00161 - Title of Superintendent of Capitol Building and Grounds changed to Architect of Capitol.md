@@ -18,7 +18,7 @@ Act Mar. 3, 1829, ch. 151, §2, 4 Stat. 363, authorized President to continue of
 
 Act Sept. 30, 1850, ch. 90, §1, 9 Stat. 538, made appropriation for “the extension of the Capitol” according to the plan as might be approved by the President, to be expended under his direction, “by such architect as he may appoint to execute the same.” Subsequent acts frequently referred to the Architect of the Capitol or to the Architect of the Capitol Extension.
 
-Act Mar. 2, 1867, ch. 167, §2, 14 Stat. 466, abolished office of Commissioner of Public Buildings and Grounds referred to in section 162 of this title, and transferred the duties of that office to the Chief of Engineers of the Army.
+Act Mar. 2, 1867, ch. 167, §2, 14 Stat. 466, abolished office of Commissioner of Public Buildings and Groundsreferred to in section 162 of this title, and transferred the duties of that office to the Chief of Engineers of the Army.
 
 Act Aug. 15, 1876, ch. 287, §1, 19 Stat. 147, transferred duties relative to the Capitol theretofore performed by Commissioner of Public Buildings and Grounds to Architect of the Capitol.
 

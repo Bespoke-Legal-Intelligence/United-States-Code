@@ -42,7 +42,7 @@ Transfer of functions by act June 30, 1949, effective July 1, 1949, see section 
 
 #### Savings Provision
 
-Prosecutions for any violation of law occurring, and civil seizures or forfeitures and injunctive proceedingscommenced, prior to the effective date of amendment of this section by section 1102 of Pub. L. 91–513 not to be affected or abated by reason thereof, see section 1103 of Pub. L. 91–513, set out as a note under section 171 of Title 21, Food and Drugs.
+Prosecutions for any violation of law occurring, and civil seizures or forfeitures and injunctive proceedings commenced, prior to the effective date of amendment of this section by section 1102 of Pub. L. 91–513 not to be affected or abated by reason thereof, see section 1103 of Pub. L. 91–513, set out as a note under section 171 of Title 21, Food and Drugs.
 
 #### Section Referred to in Other Sections
 

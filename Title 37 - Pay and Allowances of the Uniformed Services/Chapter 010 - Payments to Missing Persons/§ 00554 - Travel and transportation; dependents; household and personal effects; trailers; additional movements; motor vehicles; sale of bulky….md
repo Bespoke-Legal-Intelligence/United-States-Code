@@ -36,7 +36,7 @@
 
 (h) Claims for net proceeds that are covered into the Treasury under subsection (g) may be filed with the Secretary of Defense by the rightful owners, their heirs or next of kin, or their legal representatives at any time before the end of a 5-year period from the date the proceeds are covered into the Treasury. When a claim is filed, the Secretary of Defense shall allow or disallow it. A claim that is allowed shall be paid from the appropriation for refunding money erroneously received and covered. If a claim is not filed before the end of the 5-year period from the date the proceeds are covered into the Treasury, it is barred from being acted on by the courts or the Secretary of Defense.
 
-(i) If a motor vehicle of a member (or a dependent of the member) that is transported at the expense of the United States under this section does not arrive at the authorized destination of the vehicle by the designated delivery date, the Secretary concerned shall reimburse the dependent for expenses incurred after thatdate to rent a motor vehicle for the dependent's use. The amount reimbursed may not exceed $30 per day, and the rental period for which reimbursement may be provided expires after 7 days or on the date on which the delayed vehicle arrives at the authorized destination (whichever occurs first).
+(i) If a motor vehicle of a member (or a dependent of the member) that is transported at the expense of the United States under this section does not arrive at the authorized destination of the vehicle by the designated delivery date, the Secretary concerned shall reimburse the dependent for expenses incurred after that date to rent a motor vehicle for the dependent's use. The amount reimbursed may not exceed $30 per day, and the rental period for which reimbursement may be provided expires after 7 days or on the date on which the delayed vehicle arrives at the authorized destination (whichever occurs first).
 
 (j) This section does not amend or repeal—
 
@@ -142,7 +142,7 @@ Subsec. (c). Pub. L. 93–548, §3(2), inserted “or ill” before “status”
 
 1972—Pub. L. 92–477, §1(1), inserted “trailers; additional movements;” after “household and personal effects;” in section catchline.
 
-Subsec. (a). Pub. L. 92–477, §1(2), authorized at Government expense without cost limitation and underprescribed regulations the transportation of house trailers or mobile dwellings, including a privately owned motor vehicle, in place of household and personal effects of members in a missing status.
+Subsec. (a). Pub. L. 92–477, §1(2), authorized at Government expense without cost limitation and under prescribed regulations the transportation of house trailers or mobile dwellings, including a privately owned motor vehicle, in place of household and personal effects of members in a missing status.
 
 Subsec. (b). Pub. L. 92–477, §1(3), authorized additional movements of and transportation for dependents and household and personal effects, or dependents and house trailer or mobile dwelling of members in a missing status for more than one year.
 

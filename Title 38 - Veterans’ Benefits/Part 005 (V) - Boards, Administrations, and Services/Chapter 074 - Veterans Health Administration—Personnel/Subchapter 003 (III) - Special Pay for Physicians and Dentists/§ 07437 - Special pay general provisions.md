@@ -14,7 +14,7 @@
 
 (d) A physician or dentist may not be provided scarce specialty pay under section 7433(b), 7434(b), 7435(b), or 7436(b) of this title (whichever is applicable) on the basis of the needs of a specific medical facility unless the Secretary also determines that geographic location pay under that section is insufficient to meet the needs of that facility for qualified physicians or dentists, as the case may be.
 
-(e)(1) A physician or dentist shall be paid special pay under this subchapter at a rate not less than the rate of special pay the physician or dentist was paid under section 4118 <sup>1</sup> of this title as of the day before the effective date of this subchapter if the physician or dentist—
+(e)(1) A physician or dentist shall be paid special pay under this subchapter at a rate not less than the rate of special pay the physician or dentist was paid under section 4118 of this title as of the day before the effective date of this subchapter if the physician or dentist—
 
 &emsp;(A) is employed on a full-time basis in the Veterans Health Administration;
 
@@ -22,7 +22,7 @@
 
 &emsp;(C) on such effective date was being paid for no special-pay factors other than primary, full-time, length of service, and specialty or board certification.
 
-(2) A physician or dentist shall be paid special pay under this subchapter at a rate not less than the rate of special pay the physician or dentist was paid under section 4118 <sup>1</sup> of this title as of the day before the effective date of this subchapter if the physician or dentist—
+(2) A physician or dentist shall be paid special pay under this subchapter at a rate not less than the rate of special pay the physician or dentist was paid under section 4118 of this title as of the day before the effective date of this subchapter if the physician or dentist—
 
 &emsp;(A) is employed on a part-time basis in the Veterans Health Administration;
 
@@ -52,7 +52,7 @@ Provisions similar to those in this subchapter were contained in section 4118 of
 
 1992—Subsec. (a). Pub. L. 102–405, §302(c)(1), substituted “Under Secretary for Health” for “Chief Medical Director” in two places.
 
-Subsec. (e)(1)(C), (2)(C). Pub. L. 102–405, §204(a), substituted “for no special-pay factors other than primary, full-time, length of service, and specialty or board certification” for “only for the special-pay factors of primary, full-time, and length of service” in par. (1)(C) and for “only for the special-pay factors of primary and length of service” in par. (2)(C).
+Subsec. (e)(1)(C), (2)(C). Pub. L. 102–405, §204(a), substituted “for no special-pay factors other than primary, full-time, length of service, and specialty or board certification” for “only for the special-pay factors of primary, full-time, and length of service” in par. (1)(C)and for “only for the special-pay factors of primary and length of service” in par. (2)(C).
 
 #### Effective Date of 1992 Amendment
 
@@ -65,6 +65,4 @@ Section effective on first day of first pay period after July 1, 1991, subject t
 #### Availability of Funds
 
 Section 204(c) of Pub. L. 102–405 provided that: “Expenses incurred for periods before October 1, 1991, by reason of the amendments made by subsection (a) \[amending this section\] may be charged to fiscal year 1992 appropriations available for the same purpose.”
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -30,7 +30,7 @@ Funds made available under this chapter may be used for procurement outside the 
 
 #### (e) Revocation and suspension provisions of contracts for sale and export licenses; appropriations for refunds
 
-(1) Each contract for sale entered into under sections 2761, 2762, 2769 and 2770 of this title, and each contract entered into under section 2767(d) of this title, shall provide that such contract may be canceled in whole or in part, or its execution suspended, by the United States at anytime under unusual or compelling circumstances if the national interest so requires.
+(1) Each contract for sale entered into under sections 2761, 2762, 2769 and 2770 of this title, and each contract entered into under section 2767(d) of this title, shall provide that such contract may be canceled in whole or in part, or its execution suspended, by the United States at any time under unusual or compelling circumstances if the national interest so requires.
 
 (2)(A) Each export license issued under section 2778 of this title shall provide that such license may be revoked, suspended, or amended by the Secretary of State, without prior notice, whenever the Secretary deems such action to be advisable.
 

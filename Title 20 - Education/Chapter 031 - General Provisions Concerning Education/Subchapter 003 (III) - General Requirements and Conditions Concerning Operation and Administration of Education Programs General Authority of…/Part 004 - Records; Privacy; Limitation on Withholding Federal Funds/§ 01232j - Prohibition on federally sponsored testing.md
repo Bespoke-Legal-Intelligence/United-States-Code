@@ -6,7 +6,7 @@ Notwithstanding any other provision of Federal law and except as provided in sub
 
 #### (b) Exceptions
 
-Subsection (a) of this section shall not apply to the Third International Mathematics and Science Study or other international comparative assessments developed under the authority of section 9003(a)(6) of this title and administered to only a representative sample of pupils in the United States and in foreign nations.
+Subsection (a) of this section shall not apply to the Third International Mathematics andScience Study or other international comparative assessments developed under the authority of section 9003(a)(6) of this title and administered to only a representative sample of pupils in the United States and in foreign nations.
 
 (Pub. L. 90–247, title IV, §447, as added Pub. L. 105–277, div. A, §101(f) \[title III, §305(a)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–374.)
 

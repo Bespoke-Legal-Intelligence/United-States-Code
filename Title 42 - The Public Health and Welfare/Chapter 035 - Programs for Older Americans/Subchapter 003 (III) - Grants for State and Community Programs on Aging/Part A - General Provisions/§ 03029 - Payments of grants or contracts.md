@@ -42,5 +42,5 @@ Amendment by Pub. L. 98–459 effective Oct. 9, 1984, see section 803(a) of Pub.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 3027 of this title.
+This section is referred to in sections 3027, 3030c–3 of this title.
 

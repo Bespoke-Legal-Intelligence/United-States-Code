@@ -32,9 +32,7 @@
 | [635f.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000635f%20-%20Termination%20date%20of%20Bank%27s%20functions%3B%20exceptions%3B%20liquidation.md) | Termination date of Bank's functions; exceptions; liquidation. |
 | [635g.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000635g%20-%20Report%20to%20Congress%3B%20time%20for%20submission%3B%20contents.md) | Report to Congress; time for submission; contents. |
 | (a) | Annual submission of report. |
-| (b) | Actions taken by Bank to aid small business. |
-| (c) | Report on allocation of sums set aside for small business exports. |
-| (d) | Actions taken by Bank to aid industries, preserve and create highly skilled jobs, and enhance opportunity for business growth and expansion; comments of Advisory Committee. |
+| (b) | Report on allocation of sums set aside for small business exports. |
 | [635h.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000635h%20-%20Exemption%20from%20prohibition%20of%20section%20955%20of%20title%2018.md) | Exemption from prohibition of section 955 of title 18. |
 | 635i to 635i–2. Repealed. |  |
 | 635i–3. | Tied Aid Credit Fund and program. |

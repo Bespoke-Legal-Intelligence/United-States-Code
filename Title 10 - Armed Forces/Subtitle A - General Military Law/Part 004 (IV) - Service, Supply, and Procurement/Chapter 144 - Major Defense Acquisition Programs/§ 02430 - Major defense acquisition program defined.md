@@ -70,7 +70,7 @@ Operational Test and Evaluation.—The Secretary of Defense may waive the requir
 
 Selected Acquisition Reports.—The Secretary of Defense may waive the requirements of sections 2432 and 2433 of title 10, United States Code, for such a defense acquisition program if the Secretary provides a single annual report to Congress at the end of each fiscal year that describes the status of the program in relation to the baseline description for the program established under section 2435 of such title.”
 
-Pub. L. 103–355, title V, §5064, Oct. 13, 1994, 108 Stat. 3359, provided that:
+Pub. L. 103–355, title V, §5064, Oct. 13, 1994, 108 Stat. 3359, as amended by Pub. L. 106–398, §1 \[\[div. A\], title VIII, §801(a), (b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–202, 1654A–203, provided that:
 
 “(a)
 
@@ -82,7 +82,7 @@ Fire support combined arms tactical trainer (fscatt).—The Fire Support Combine
 
 &emsp;“(2)
 
-Joint direct attack munition (jdam i).—The Joint Direct Attack Munition program with respect to all contracts directly related to the development and procurement of a strap-on guidance kit, using an inertially guided, Global Positioning System updated guidance kit to enhance the delivery accuracy of 1000-pound and 2000-pound bombs in inventory.
+Joint direct attack munition (jdam i).—The Joint Direct Attack Munition program with respect to all contracts directly related to the development and procurement of a strap-on guidance kit, using an inertially guided, Global Positioning System updated guidance kit to enhance the delivery accuracy of 500-pound, 1000-pound, and 2000-pound bombs in inventory.
 
 &emsp;“(3)
 
@@ -144,7 +144,7 @@ Applicability.—(1) Subsection (c) applies with respect to—
 
 &emsp;“(B) a contract that is awarded before the beginning of such period and is to be performed (or may be performed), in whole or in part, during such period.
 
-“(2) The period referred to in paragraph (1) is the period that begins 45 days after the date of the enactment of this Act \[Oct. 13, 1994\] and ends on September 30, 1998.
+“(2) The period referred to in paragraph (1) is the period that begins on October 13, 1994, and ends on October 1, 2007.
 
 “(e)
 
@@ -222,7 +222,7 @@ Conduct of Pilot Program.—(1) In the case of each defense acquisition program 
 
 “(d)
 
-Publication of Policies and Guidelines.—The Secretary shall publish in the Federal Register a proposed memorandum setting forth policies and guidelines for implementation of the pilot program under this section and provide an opportunity for public comment on the proposed memorandum for a period of 60 days after the date of publication. The Secretary shallpublish in the Federal Register any subsequent proposed change to the memorandum and provide an opportunity for public comment on each such proposed change for a period of 60 days after the date of publication.
+Publication of Policies and Guidelines.—The Secretary shall publish in the Federal Register a proposed memorandum setting forth policies and guidelines for implementation of the pilot program under this section and provide an opportunity for public comment on the proposed memorandum for a period of 60 days after the date of publication. The Secretary shall publish in the Federal Register any subsequent proposed change to the memorandum and provide an opportunity for public comment on each such proposed change for a period of 60 days after the date of publication.
 
 “(e)
 

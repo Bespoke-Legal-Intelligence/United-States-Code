@@ -22,7 +22,7 @@
 
 #### (c) Agreements
 
-(1) The Secretary is authorized to enter into an agreement with the purchaser of any loan sold under this part under which the Secretary agrees—
+(1) The Secretary is authorized to enter into an agreement with the purchaser of any loansold under this part under which the Secretary agrees—
 
 &emsp;(A) to guarantee to such purchaser (and any successor in interest to such purchaser) payment of the principal and interest payable under such loan, and
 
@@ -62,7 +62,7 @@ There is authorized to be appropriated to the Secretary, for deposit in the loan
 
 #### Commitments for Direct Loans to Public Agencies
 
-Pub. L. 91–667, title II, §200, Jan. 11, 1971, 84 Stat. 2007, provided: “That the Secretary is authorized to issue commitments for direct loans to public agencies in accordance with section 627 of the Public Health Service Act \[this section\] which shall constitute contractual obligations of the United States, the total of such outstanding commitments not to exceed $30,000,000 at any given time; to sell obligations received pursuant to such commitments as provided in section 627, and the proceeds of any such sale shall be used to make a directloan pursuant to the outstanding commitment under which the obligations were received.”
+Pub. L. 91–667, title II, §200, Jan. 11, 1971, 84 Stat. 2007, provided: “That the Secretary is authorized to issue commitments for direct loans to public agencies in accordance with section 627 of the Public Health Service Act \[this section\] which shall constitute contractual obligations of the United States, the total of such outstanding commitments not to exceed $30,000,000 at any given time; to sell obligations received pursuant to such commitments as provided in section 627, and the proceeds of any such sale shall be used to make a direct loan pursuant to the outstanding commitment under which the obligations were received.”
 
 #### Section Referred to in Other Sections
 

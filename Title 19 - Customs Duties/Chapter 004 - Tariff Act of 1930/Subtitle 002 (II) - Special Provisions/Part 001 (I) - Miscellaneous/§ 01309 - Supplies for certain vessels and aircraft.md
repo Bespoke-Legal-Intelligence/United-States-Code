@@ -14,11 +14,11 @@ The provisions for free withdrawals made by this subsection shall not apply to p
 
 #### (b) Drawback
 
-Articles withdrawn from bonded warehouses, bonded manufacturing warehouses, continuous customs custody elsewhere than in a bonded warehouse, or from a foreign-trade zone, imported articles, and articles of domestic manufacture or production, laden as supplies upon any such vessel or aircraft of the United States or laden as supplies (including equipment) upon,or used in the maintenance or repair of, any such foreign vessel or aircraft, shall be considered to be exported within the meaning of the drawback provisions of this chapter.
+Articles withdrawn from bonded warehouses, bonded manufacturing warehouses, continuous customs custody elsewhere than in a bonded warehouse, or from a foreign-trade zone, imported articles, and articles of domestic manufacture or production, laden as supplies upon any such vessel or aircraft of the United States or laden as supplies (including equipment) upon, or used in the maintenance or repair of, any such foreign vessel or aircraft, shall be considered to be exported within the meaning of the drawback provisions of this chapter.
 
 #### (c) Articles removed in, or returned to, the United States
 
-Any article exempted from duty or tax, or in respect of which drawback has been allowed, under this section or section 1317 of this title and thereafter removed in the United States from any vessel or aircraft, or otherwise returned to the United States, shall be treated as an importation from a foreign country.
+Any article exempted from duty or tax, or in respect of which drawback has been allowed, under this section or section 1317 of this titleand thereafter removed in the United States from any vessel or aircraft, or otherwise returned to the United States, shall be treated as an importation from a foreign country.
 
 #### (d) Reciprocal privileges
 

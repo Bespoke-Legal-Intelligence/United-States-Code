@@ -6,7 +6,7 @@ The Secretary of Agriculture is authorized to ascertain and determine the locati
 
 #### References in Text
 
-The National Forest Reservation Commission, referred to in text, was established under section 4 of ActMar. 1, 1911 (16 U.S.C. 513). Section 4 of the 1911 act was repealed, and all functions of the National Forest Reservation Commission were transferred to the Secretary of Agriculture, by section 17(a)(1) of Pub. L. 94–588, Oct. 22, 1976, 90 Stat. 2961.
+The National Forest Reservation Commission, referred to in text, was established under section 4 of Act Mar. 1, 1911 (16 U.S.C. 513). Section 4 of the 1911 act was repealed, and all functions of the National Forest Reservation Commission were transferred to the Secretary of Agriculture, by section 17(a)(1) of Pub. L. 94–588, Oct. 22, 1976, 90 Stat. 2961.
 
 #### Section Referred to in Other Sections
 

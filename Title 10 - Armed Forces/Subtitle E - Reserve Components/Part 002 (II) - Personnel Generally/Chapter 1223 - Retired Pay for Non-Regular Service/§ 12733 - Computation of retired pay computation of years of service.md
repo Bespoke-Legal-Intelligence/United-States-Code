@@ -6,13 +6,19 @@ For the purpose of computing the retired pay of a person under this chapter, the
 
 &emsp;(2) The person's days of full-time service under sections 316, 502, 503, 504, and 505 of title 32 while performing annual training duty or while attending a prescribed course of instruction at a school designated as a service school by law or by the Secretary concerned.
 
-&emsp;(3) One day for each point credited to the person under clause (B), (C), or (D) of section 12732(a)(2) of this title, but not more than 60 days in any one year of service before the year of service that includes September 23, 1996, and not more than 75 days in any subsequent year of service.
+&emsp;(3) One day for each point credited to the person under clause (B), (C), or (D) of section 12732(a)(2) of this title, but not more than—
+
+&emsp;&emsp;(A) 60 days in any one year of service before the year of service that includes September 23, 1996;
+
+&emsp;&emsp;(B) 75 days in the year of service that includes September 23, 1996, and in any subsequent year of service before the year of service that includes the date of the enactment of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001; and
+
+&emsp;&emsp;(C) 90 days in the year of service that includes the date of the enactment of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 and in any subsequent year of service.
 
 &emsp;(4) One day for each point credited to the person under subparagraph (E) of section 12732(a)(2) of this title.
 
 &emsp;(5) 50 days for each year before July 1, 1949, and proportionately for each fraction of a year, of service (other than active service) in a reserve component of an armed force, in the Army or the Air Force without component, or in any other category covered by section 12732(a)(1) of this title, except a regular component.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 103, §1333; Pub. L. 85–861, §33(a)(10), Sept. 2, 1958, 72 Stat. 1565; renumbered §12733 and amended Pub. L. 103–337, div. A, title XVI, §1662(j)(1), Oct. 5, 1994, 108 Stat. 2998, 3002; Pub. L. 104–201, div. A, title V, §§531(a), 543(b)(2), Sept. 23, 1996, 110 Stat. 2517, 2522; Pub. L. 105–85, div. A, title X, §1073(a)(67), (c)(4), Nov. 18, 1997, 111 Stat. 1904; Pub. L. 106–65, div. A, title V, §578(h)(2), Oct. 5, 1999, 113 Stat. 628.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 103, §1333; Pub. L. 85–861, §33(a)(10), Sept. 2, 1958, 72 Stat. 1565; renumbered §12733 and amended Pub. L. 103–337, div. A, title XVI, §1662(j)(1), Oct. 5, 1994, 108 Stat. 2998, 3002; Pub. L. 104–201, div. A, title V, §§531(a), 543(b)(2), Sept. 23, 1996, 110 Stat. 2517, 2522; Pub. L. 105–85, div. A, title X, §1073(a)(67), (c)(4), Nov. 18, 1997, 111 Stat. 1904; Pub. L. 106–65, div. A, title V, §578(h)(2), Oct. 5, 1999, 113 Stat. 628; Pub. L. 106–398, §1 \[\[div. A\], title VI, §652\], Oct. 30, 2000, 114 Stat. 1654, 1654A–163.)
 
 Historical and Revision Notes<br>1956
 
@@ -52,7 +58,13 @@ Clause (1) is substituted for 10:1036b(i). In clause (3), the words “and propo
 
 The change is necessary so that active service and service described in section 1332(a)(2)(A)(ii) that was performed on or before July 1, 1949, may be counted in computing retired pay, as provided by the source law, section 303(i) of the Army and Air Force Vitalization and Retirement Equalization Act of 1948 (62 Stat. 1088) and in accordance with the opinion of the Judge Advocate General of the Army (JAGA 1956/1908, Feb. 13, 1956).
 
+#### References in Text
+
+The date of the enactment of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001, referred to in par. (3)(B), (C), is the date of enactment of Pub. L. 106–398, which was approved Oct. 30, 2000.
+
 #### Amendments
+
+2000—Par. (3). Pub. L. 106–398 substituted “but not more than—” and subpars. (A) to (C) for “but not more than 60 days in any one year of service before the year of service that includes September 23, 1996, and not more than 75 days in any subsequent year of service.”
 
 1999—Pars. (4), (5). Pub. L. 106–65 added par. (4) and redesignated former par. (4) as (5).
 
@@ -66,7 +78,7 @@ Pub. L. 104–201, §531(a), as amended by Pub. L. 105–85, §1073(c)(4), inser
 
 1994—Pub. L. 103–337 renumbered section 1333 of this title as this section, substituted “Computation of retired pay: computation of years of service” for “Computation of years of service in computing retired pay” as section catchline, and amended text generally, changing style and references to other sections.
 
-1958—Pub. L. 85–861 added cls. (1) and (2), struck out former cl. (1) which permitted the addition of the days of service credited under section 1332(a)(2)(A) of this title, and redesignated former cls. (2) and (3) as (3) and (4), respectively.
+1958—Pub. L. 85–861 added cls. (1) and (2), struck out former cl. (1) which permitted the addition of the days of service credited under section 1332(a)(2)(A) of thistitle, and redesignated former cls. (2) and (3) as (3) and (4), respectively.
 
 #### Effective Date of 1997 Amendment
 
@@ -80,13 +92,7 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub. L. 85–861, set out as a note under section 101 of this title.
 
-#### Cross References
-
-Computation of years of service, see section 1405 of this title.
-
-Retirement or separation for physical disability, computation of service, see section 1208 of this title.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1208, 1405, 2126, 12739 of this title.
+This section is referred to in sections 1208, 1405, 2126, 4342, 6954, 9342, 12739 of this title.
 

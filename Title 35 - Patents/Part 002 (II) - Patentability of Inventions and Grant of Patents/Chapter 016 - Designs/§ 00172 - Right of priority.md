@@ -1,6 +1,6 @@
 ### §172. Right of priority
 
-The right of priority provided for by subsections (a) through (d) of section 119 of this title and the time specified in section 102(d) shall be six months in the case of designs. The right of priority provided for by section 119(e) of this title shall not apply to designs.
+The right of priority provided for by subsections (a) through (d) of section 119 of thistitle and the time specified in section 102(d) shall be six months in the case of designs. The right of priority provided for by section 119(e) of this title shall not apply to designs.
 
 (July 19, 1952, ch. 950, 66 Stat. 805; Pub. L. 103–465, title V, §532(c)(2), Dec. 8, 1994, 108 Stat. 4987.)
 

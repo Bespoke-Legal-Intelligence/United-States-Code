@@ -2,7 +2,7 @@
 
 (a)
 
-Classification.—An offense that is not specifically classified by a letter grade in thesection defining it, is classified if the maximum term of imprisonment authorized is—
+Classification.—An offense that is not specifically classified by a letter grade in the section defining it, is classified if the maximum term of imprisonment authorized is—
 
 &emsp;(1) life imprisonment, or if the maximum penalty is death, as a Class A felony;
 
@@ -78,7 +78,7 @@ Nonqualifying felonies.—
 
 Robbery in certain cases.—Robbery, an attempt, conspiracy, or solicitation to commit robbery; or an offense described in paragraph (2)(F)(ii) shall not serve as a basis for sentencing under this subsection if the defendant establishes by clear and convincing evidence that—
 
-&emsp;&emsp;&emsp;(i) no firearm or other dangerous weapon was used in the offense and no threat ofuse of a firearm or other dangerous weapon was involved in the offense; and
+&emsp;&emsp;&emsp;(i) no firearm or other dangerous weapon was used in the offense and no threat of use of a firearm or other dangerous weapon was involved in the offense; and
 
 &emsp;&emsp;&emsp;(ii) the offense did not result in death or serious bodily injury (as defined in section 1365) to any person.
 
@@ -104,7 +104,7 @@ Special provision for indian country.—No person subject to the criminal jurisd
 
 &emsp;(7)
 
-Resentencing upon overturning of prior conviction.—If the conviction for a serious violent felony or serious drug offense that was a basis for sentencing under this subsection is found, pursuant to any appropriate State or Federal procedure, to be unconstitutional or is vitiated on the explicit basis of innocence, or if the convicted person is pardoned on the explicit basis of innocence, the person serving a sentence imposed under this subsection shall be resentenced to any sentence that was available at the time of the original sentencing.
+Resentencing upon overturning of prior conviction.—If the conviction for a serious violent felony or serious drug offense that was a basis for sentencing under this subsection is found, pursuant to any appropriate State or Federal procedure, to be unconstitutional or is vitiated on the explicit basis of innocence, or if the convicted person is pardonedon the explicit basis of innocence, the person serving a sentence imposed under this subsection shall be resentenced to any sentence that was available at the time of the original sentencing.
 
 (d)
 

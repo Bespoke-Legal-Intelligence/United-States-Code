@@ -28,12 +28,6 @@ A two year period of limitation on applying for broadened reissues is added, cod
 
 Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of this title.
 
-#### Cross References
-
-Application for patent, see section 111 of this title.
-
-Fee for application for reissue of patent, see section 41 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 282 of this title.

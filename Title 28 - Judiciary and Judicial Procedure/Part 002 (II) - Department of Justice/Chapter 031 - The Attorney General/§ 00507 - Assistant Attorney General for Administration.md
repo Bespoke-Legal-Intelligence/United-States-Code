@@ -36,11 +36,7 @@ A prior section 507, acts June 25, 1948, ch. 646, 62 Stat. 910; May 24, 1949, ch
 
 #### Amendments
 
-1999—Subsec. (c). Pub. L. 106–113 added subsec. (c).
-
-#### Cross References
-
-Compensation of Assistant Attorney General for Administration, see section 5316 of Title 5, Government Organization and Employees.
+<b>1999</b>—Subsec. (c). Pub. L. 106–113 added subsec. (c).
 
 #### Section Referred to in Other Sections
 

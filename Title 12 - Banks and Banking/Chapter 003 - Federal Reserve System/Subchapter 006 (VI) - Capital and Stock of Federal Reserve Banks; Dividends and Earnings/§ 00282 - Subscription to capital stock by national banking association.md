@@ -8,10 +8,6 @@ Every national banking association within each Federal reserve district shall be
 
 Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
 
-#### Cross References
-
-Payment of obligations containing a gold clause, see section 5118 of Title 31, Money and Finance.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 481 of this title.

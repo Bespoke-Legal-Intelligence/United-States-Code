@@ -32,7 +32,7 @@ The Secretary, in accordance with section 1712 of this title, shall prepare and 
 
 #### (e) Interim program for management, use, etc.
 
-During the period beginning on October 21, 1976, and ending on the effective date of implementation of the comprehensive, long-rangeplan, the Secretary shall execute an interim program to manage, use, and protect the public lands, and their resources now in danger of destruction, in the California Desert Conservation Area, to provide for the public use of such lands in an orderly and reasonable manner such as through the development of campgrounds and visitor centers, and to provide for a uniformed desert ranger force.
+During the period beginning on October 21, 1976, and ending on the effective date of implementation of the comprehensive, long-range plan, the Secretary shall execute an interim program to manage, use, and protect the public lands, and their resources now in danger of destruction, in the California Desert Conservation Area, to provide for the public use of such lands in an orderly and reasonable manner such as through the development of campgrounds and visitor centers, and to provide for a uniformed desert ranger force.
 
 #### (f) Applicability of mining laws
 
@@ -48,9 +48,7 @@ Subject to valid existing rights, nothing in this Act shall affect the applicabi
 
 The Secretary of Agriculture and the Secretary of Defense shall manage lands within their respective jurisdictions located in or adjacent to the California Desert Conservation Area, in accordance with the laws relating to such lands and wherever practicable, in a manner consonant with the purpose of this section. The Secretary, the Secretary of Agriculture, and the Secretary of Defense are authorized and directed to consult among themselves and take cooperative actions to carry out the provisions of this subsection, including a program of law enforcement in accordance with applicable authorities to protect the archeological and other values of the California Desert Conservation Area and adjacent lands.
 
-#### (i) Annual report; contents
-
-The Secretary shall report to the Congress no later than two years after October 21, 1976, and annually thereafter, on the progress in, and any problems concerning, the implementation of this section, together with any recommendations, which he may deem necessary to remedy such problems.
+#### (i) Omitted
 
 #### (j) Authorization of appropriations
 
@@ -63,6 +61,10 @@ There are authorized to be appropriated for fiscal years 1977 through 1981 not t
 This Act, referred to in subsecs. (c)(2) and (f), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
 
 The United States mining laws, referred to in subsec. (f), are classified generally to Title 30, Mineral Lands and Mining.
+
+#### Codification
+
+Subsec. (i) of this section, which required the Secretary to report annually to Congress on the progress in, and any problems concerning, the implementation of this section, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, the last item on page 107 of House Document No. 103–7.
 
 #### Change of Name
 

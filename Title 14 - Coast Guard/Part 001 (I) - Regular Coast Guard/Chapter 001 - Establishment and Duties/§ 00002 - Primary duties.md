@@ -24,17 +24,5 @@ Pub. L. 100–448 substituted “Federal laws on, under, and over” for “Fede
 
 1961—Pub. L. 87–396 required Coast Guard to engage in oceanographic research on high seas and in waters subject to jurisdiction of the United States.
 
-#### Cross References
-
-Aids to navigation authorized, see section 81 of this title.
-
-Ice and derelict patrol, see section 738a of Title 46, Appendix, Shipping.
-
-Law enforcement, see section 89 of this title.
-
-Safety of naval vessels, see section 91 of this title.
-
-Saving life and property, see section 88 of this title.
-
 <i><sup>1</sup></i><i> So in original.</i>
 

@@ -6,7 +6,7 @@ Payment Authority.—The head of any agency may—
 
 &emsp;(1) make advance, partial, progress, or other payments under contracts for property or services made by the agency; and
 
-&emsp;(2) insert in solicitations for procurement of property or services a provision limiting tosmall business concerns advance or progress payments.
+&emsp;(2) insert in solicitations for procurement of property or services a provision limiting to small business concerns advance or progress payments.
 
 (b)
 
@@ -78,13 +78,13 @@ Action in Case of Fraud.—(1) In any case in which the remedy coordination offi
 
 (7) The head of an agency shall prepare for each year a report containing the recommendations made by the remedy coordination official of that agency to reduce or suspend payments under paragraph (2), the actions taken on the recommendations and the reasons for such actions, and an assessment of the effects of such actions on the Federal Government. The Secretary of each military department shall transmit the annual report of such department to the Secretary of Defense. Each such report shall be available to any member of Congress upon request.
 
-(8) This subsection applies to the agencies named in paragraphs (1), (2), (3), and (4) of section 2303(a) of this title.
+(8) This subsection applies to the agencies named in paragraphs (1), (2), (3), (4), and (6) of section 2303(a) of this title.
 
 (9) The head of an agency may not delegate responsibilities under this subsection to any person in a position below level IV of the Executive Schedule.
 
 (10) In this subsection, the term “remedy coordination official”, with respect to an agency, means the person or entity in that agency who coordinates within that agency the administration of criminal, civil, administrative, and contractual remedies resulting from investigations of fraud or corruption related to procurement activities.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 131; Pub. L. 85–800, §9, Aug. 28, 1958, 72 Stat. 967; Pub. L. 93–155, title VIII, §807(c), Nov. 16, 1973, 87 Stat. 616; Pub. L. 100–370, §1(f)(1)(A), July 19, 1988, 102 Stat. 846; Pub. L. 101–510, div. A, title VIII, §836(a), (b), title XIII, §1322(a)(4), Nov. 5, 1990, 104 Stat. 1615, 1616, 1671; Pub. L. 102–25, title VII, §701(d)(4), (j)(2)(A), Apr. 6, 1991, 105 Stat. 114, 116; Pub. L. 102–190, div. A, title X, §1061(a)(10), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 102–484, div. A, title X, §1052(24), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 103–355, title II, §2001(a)–(g), Oct. 13, 1994, 108 Stat. 3301, 3302; Pub. L. 105–85, div. A, title VIII, §802, Nov. 18, 1997, 111 Stat. 1831.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 131; Pub. L. 85–800, §9, Aug. 28, 1958, 72 Stat. 967; Pub. L. 93–155, title VIII, §807(c), Nov. 16, 1973, 87 Stat. 616; Pub. L. 100–370, §1(f)(1)(A), July 19, 1988, 102 Stat. 846; Pub. L. 101–510, div. A, title VIII, §836(a), (b), title XIII, §1322(a)(4), Nov. 5, 1990, 104 Stat. 1615, 1616, 1671; Pub. L. 102–25, title VII, §701(d)(4), (j)(2)(A), Apr. 6, 1991, 105 Stat. 114, 116; Pub. L. 102–190, div. A, title X, §1061(a)(10), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 102–484, div. A, title X, §1052(24), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 103–355, title II, §2001(a)–(g), Oct. 13, 1994, 108 Stat. 3301, 3302; Pub. L. 105–85, div. A, title VIII, §802, Nov. 18, 1997, 111 Stat. 1831; Pub. L. 106–391, title III, §306, Oct. 30, 2000, 114 Stat. 1592.)
 
 Historical and Revision Notes<br>1956
 
@@ -123,6 +123,8 @@ Level IV of the Executive Schedule, referred to in subsec. (i)(9), is set out in
 Provisions similar to those in subsec. (g) of this section were contained in sections 7312, 7364, and 7521 of this title prior to repeal by Pub. L. 103–355, §2001(j)(1).
 
 #### Amendments
+
+2000—Subsec. (i)(8). Pub. L. 106–391 substituted “(4), and (6)” for “and (4)”.
 
 1997—Subsecs. (h), (i). Pub. L. 105–85 added subsec. (h) and redesignated former subsec. (h) as (i).
 
@@ -168,7 +170,7 @@ Subsec. (f). Pub. L. 102–190, which directed the substitution of “(1)” for
 
 Pub. L. 102–25, §701(j)(2)(A), redesignated subsec. (f) as (e).
 
-1990—Subsec. (d). Pub. L. 101–510, §1322(a)(4), redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: “Payments under subsection (a) in the case of any contract, other than partial, progress, or other payments specifically provided for in such contract at the time such contract was initially entered into, may not exceed $25,000,000 unless the Committees on Armed Services of the Senate and the House of Representatives have been notified in writingof such proposed payments and 60 days of continuous session of Congress have expired following the date on which such notice was transmitted to such Committees and neither House of Congress has adopted, within such 60-day period, a resolution disapproving such payments. For purposes of this section, the continuity of a session of Congress is broken only by an adjournment of the Congress sine die, and the days on which either House is not in session because of an adjournment of more than 3 days to a day certain are excluded in the computation of such 60-day period.”
+1990—Subsec. (d). Pub. L. 101–510, §1322(a)(4), redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: “Payments under subsection (a) in the case of any contract, other than partial, progress, or other payments specifically provided for in such contract at the time such contract was initially entered into, may not exceed $25,000,000 unless the Committees on Armed Services of the Senate and the House of Representatives have been notified in writing of such proposed payments and 60 days of continuous session of Congress have expired following the date on which such notice was transmitted to such Committees and neither House of Congress has adopted, within such 60-day period, a resolution disapproving such payments. For purposes of this section, the continuity of a session of Congress is broken only by an adjournment of theCongress sine die, and the days on which either House is not in session because of an adjournment of more than 3 days to a day certain are excluded in the computation of such 60-day period.”
 
 Subsec. (e). Pub. L. 101–510, §1322(a)(4)(B), redesignated subsec. (e) as (d).
 
@@ -201,14 +203,6 @@ Pub. L. 99–145, title IX, §916, Nov. 8, 1985, 99 Stat. 688, which required Se
 #### Obligations Entered Into Before November 16, 1973
 
 Section 807(e) of Pub. L. 93–155 provided that: “The amendments made by this section \[amending this section, section 1431 of Title 50, War and National Defense, and sections 468 and 2092 of Appendix to Title 50\] shall not affect the carrying out of any contract, loan, guarantee, commitment, or other obligation entered into prior to the date of enactment of this section \[Nov. 16, 1973\].”
-
-#### Cross References
-
-Civilian agencies, advance payments, see section 255 of Title 41, Public Contracts.
-
-Delegation of power, see section 2311 of this title.
-
-Determinations or decisions based on written findings, see section 2310 of this title.
 
 #### Section Referred to in Other Sections
 

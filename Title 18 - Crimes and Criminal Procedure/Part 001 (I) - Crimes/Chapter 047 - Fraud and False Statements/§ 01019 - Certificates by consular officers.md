@@ -16,7 +16,3 @@ Changes were made in phraseology.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
 
-#### Cross References
-
-Certification of invoices, see section 4200 et seq. of Title 22, Foreign Relations and Intercourse.
-

@@ -16,7 +16,7 @@ There shall be a moratorium on the taking and importation of marine mammals and 
 
 &emsp;&emsp;&emsp;(II) the tuna or products therefrom were harvested after the effective date of section 4 of the International Dolphin Conservation Program Act by vessels of a nation which participates in the International Dolphin Conservation Program, and such harvesting nation is either a member of the Inter-American Tropical Tuna Commission or has initiated (and within 6 months thereafter completed) all steps required of applicant nations, in accordance with article V, paragraph 3 of the Convention establishing the Inter-American Tropical Tuna Commission, to become a member of that organization;
 
-&emsp;&emsp;&emsp;(ii) such nation is meeting the obligations of the International Dolphin Conservation Program and the obligations ofmembership in the Inter-American Tropical Tuna Commission, including all financial obligations; and
+&emsp;&emsp;&emsp;(ii) such nation is meeting the obligations of the International Dolphin Conservation Program and the obligations of membership in the Inter-American Tropical Tuna Commission, including all financial obligations; and
 
 &emsp;&emsp;&emsp;(iii) the total dolphin mortality limits, and per-stock per-year dolphin mortality limits permitted for that nation's vessels under the International Dolphin Conservation Program do not exceed the limits determined for 1997, or for any year thereafter, consistent with the objective of progressively reducing dolphin mortality to a level approaching zero through the setting of annual limits and the goal of eliminating dolphin mortality, and requirements of the International Dolphin Conservation Program;
 
@@ -46,7 +46,7 @@ There shall be a moratorium on the taking and importation of marine mammals and 
 
 &emsp;(4)(A) Except as provided in subparagraphs (B) and (C), the provisions of this chapter shall not apply to the use of measures—
 
-&emsp;&emsp;(i) by the owner of fishing gear or catch, or an employee or agent of such owner, to deter a marine mammal from damaging the gear or catch;
+&emsp;&emsp;(i) by the owner of fishing gear or catch, or an employee or agent of such owner, to detera marine mammal from damaging the gear or catch;
 
 &emsp;&emsp;(ii) by the owner of other private property, or an agent, bailee, or employee of such owner, to deter a marine mammal from damaging private property;
 
@@ -90,7 +90,7 @@ There shall be a moratorium on the taking and importation of marine mammals and 
 
 &emsp;(ii) The authorization for such activity shall prescribe, where applicable—
 
-&emsp;&emsp;(I) permissible methods of taking by harassment pursuant to such activity, and other means of effecting the least practicable impact on such species or stock and its habitat, paying particular attention to rookeries, mating grounds, and areas of similar significance, and on the availability of such species or stock for taking for subsistence uses pursuant to subsection (b) of this section or section 1379(f) of this title or pursuant to a cooperative agreement under section 1388 of this title,
+&emsp;&emsp;(I) permissible methods of taking by harassment pursuant to such activity, and other means of effecting the least practicable impact on such species or stock and its habitat, paying particular attention to rookeries, mating grounds, and areas of similar significance, and on the availability of such species or stock for taking for subsistence uses pursuant to subsection (b) of this section or section 1379(f) of this title orpursuant to a cooperative agreement under section 1388 of this title,
 
 &emsp;&emsp;(II) the measures that the Secretary determines are necessary to ensure no unmitigable adverse impact on the availability of the species or stock for taking for subsistence uses pursuant to subsection (b) of this section or section 1379(f) of this title or pursuant to a cooperative agreement under section 1388 of this title, and
 
@@ -232,7 +232,7 @@ Subsec. (c). Pub. L. 103–238, §4(c), amended subsec. (c) generally. Prior to 
 
 1992—Subsec. (a)(2). Pub. L. 102–582, §103(2), inserted before period at end “, except that, until January 1, 1994, the term ‘driftnet’ does not include the use in the northeast Atlantic Ocean of gillnets with a total length not to exceed five kilometers if the use is in accordance with regulations adopted by the European Community pursuant to the October 28, 1991, decision by the Council of Fisheries Ministers of the Community”.
 
-Subsec. (a)(2)(C). Pub. L. 102–582, §401(b), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “shall require the government of anyintermediary nation from which yellowfin tuna or tuna products will be exported to the United States to certify and provide reasonable proof that it has acted to prohibit the importation of such tuna and tuna products from any nation from which direct export to the United States of such tuna and tuna products is banned under this section within sixty days following the effective date of such ban on importation to the United States;”.
+Subsec. (a)(2)(C). Pub. L. 102–582, §401(b), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “shall require the government of any intermediary nation from which yellowfin tuna or tuna products will be exported to the United States to certify and provide reasonable proof that it has acted to prohibit the importation of such tuna and tuna products from any nation from which direct export to the United States of such tuna and tuna products is banned under this section within sixty days following the effective date of such ban on importation to the United States;”.
 
 Subsec. (a)(2)(E)(i). Pub. L. 102–582, §103(1), substituted “January 1, 1993” for “July 1, 1992”.
 

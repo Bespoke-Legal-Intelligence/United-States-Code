@@ -1,6 +1,6 @@
 ### §3404. Permissive terms and conditions of orders
 
-Any order issued pursuant to this chapter shall contain one or more of the following termsand conditions, and, except as provided in section 3405 of this title, no others:
+Any order issued pursuant to this chapter shall contain one or more of the following terms and conditions, and, except as provided in section 3405 of this title, no others:
 
 #### (a) Nutrition education plans
 

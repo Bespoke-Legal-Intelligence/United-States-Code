@@ -6,7 +6,7 @@ Notwithstanding any other provision of law, funds provided by the Bureau for adu
 
 #### References in Text
 
-The Higher Education Act of 1965, referred to in text, is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended,which is classified principally to chapter 28 (§1001 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in text, is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended, which is classified principally to chapter 28 (§1001 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 #### Effective Date
 

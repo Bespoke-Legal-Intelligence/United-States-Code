@@ -16,7 +16,7 @@
 
 (1)(A) The Speaker of the House of Representatives shall appoint 15 individuals (of whom 7 shall be upon recommendation of the minority leader of the House of Representatives), to serve without pay, as members of an advisory board for the center. The board shall—
 
-&emsp;(i) provide advice to the Chief Administrative Officer on matters of policy relating tothe administration and operation of the center (including the selection of the director of the center);
+&emsp;(i) provide advice to the Chief Administrative Officer on matters of policy relating to the administration and operation of the center (including the selection of the director of the center);
 
 &emsp;(ii) be chosen from among Members of the House of Representatives, spouses of Members, parents of children enrolled in the center, and other individuals with expertise in child care or interest in the center; and
 
@@ -139,10 +139,4 @@ OPM Functions.—The Office of Personnel Management shall—
 #### Availability of Amounts Deposited in Account for Salaries and Expenses
 
 Section 307 of Pub. L. 102–392 provided that: “The amounts deposited in the account established by section 312(d)(1) of the Legislative Branch Appropriations Act, 1992 (40 U.S.C. 184g(d)(1)) shall be available for salaries and expenses of the House of Representatives Child Care Center without fiscal year limitation, subject to the approval of the Committee on Appropriations of the House of Representatives.”
-
-#### Cross References
-
-Play area on Capitol grounds for children attending day care center, see section 214b of this title.
-
-Senate Employee Child Care Center, see section 214c of this title.
 

@@ -2,7 +2,7 @@
 
 #### (a) Assistance
 
-To promote sound management and conservation of tropical forests of the United States andto promote the development and transfer of technical, managerial, educational, and administrative skills to managers of tropical forests within or outside the United States, the Secretary of Agriculture is authorized to provide assistance through the Forest Service to eligible entities in States with tropical forests to—
+To promote sound management and conservation of tropical forests of the United States and to promote the development and transfer of technical, managerial, educational, and administrative skills to managers of tropical forests within or outside the United States, the Secretary of Agriculture is authorized to provide assistance through the Forest Service to eligible entities in States with tropical forests to—
 
 &emsp;(1) develop, promote, and demonstrate sustainable harvesting of native woods and other forest products on a sustainable yield basis in balance with natural resource conservation;
 

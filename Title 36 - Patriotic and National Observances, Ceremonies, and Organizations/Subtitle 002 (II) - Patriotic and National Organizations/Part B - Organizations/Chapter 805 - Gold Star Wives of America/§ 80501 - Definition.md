@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Dec. 4, 1980, Pub. L. 96–497, §14, 94 Stat. 2597.
 
-The word “includes” is substituted for “means” for consistency in the revised title. The word “several” isomitted as unnecessary. The words “the Commonwealth of Puerto Rico” are omitted as included in “the territories and possessions of the United States”.
+The word “includes” is substituted for “means” for consistency in the revised title. The word “several” is omitted as unnecessary. The words “the Commonwealth of Puerto Rico” are omitted as included in “the territories and possessions of the United States”.
 

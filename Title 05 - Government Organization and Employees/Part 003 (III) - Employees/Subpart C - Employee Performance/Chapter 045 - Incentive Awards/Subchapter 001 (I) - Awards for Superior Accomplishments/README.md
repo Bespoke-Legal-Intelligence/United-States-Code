@@ -8,7 +8,9 @@
 
 This subchapter is referred to in section 9508 of this title.
 
-<i><sup>1</sup></i><i> So in original. Does not conform to subchapter heading.</i>
+<i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
+
+<i><sup>2</sup></i><i> So in original. Does not conform to subchapter heading.</i>
 
 
 ---

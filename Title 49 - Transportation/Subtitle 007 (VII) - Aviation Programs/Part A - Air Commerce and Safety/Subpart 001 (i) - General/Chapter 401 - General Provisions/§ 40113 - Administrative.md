@@ -6,7 +6,7 @@ General Authority.—The Secretary of Transportation (or the Administrator of th
 
 (b)
 
-Hazardous Material.—In carrying out this part, the Secretary has the same authority to regulate the transportation of hazardous material by air that the Secretary has under section 5103 of this title. However, this subsectiondoes not prohibit or regulate the transportation of a firearm (as defined in section 232 of title 18) or ammunition for a firearm, when transported by an individual for personal use.
+Hazardous Material.—In carrying out this part, the Secretary has the same authority to regulate the transportation of hazardous material by air that the Secretary has under section 5103 of this title. However, this subsection does not prohibit or regulate the transportation of a firearm (as defined in section 232 of title 18) or ammunition for a firearm, when transported by an individual for personal use.
 
 (c)
 
@@ -34,9 +34,13 @@ Crediting appropriations.—Funds received by the Administrator pursuant to this
 
 &emsp;(4)
 
-Reporting.—Not later than December 31, 1995, and annually thereafter, the Administrator shall transmit to Congress a list of the foreign aviation authorities to which the Administrator provided services under this subsection in the preceding fiscal year. Such list shall specify the dollar value of such services and any reimbursement received for such services.
+Reporting.—Not later than December 31, 1995, and annually thereafter, the Administrator shall transmit to Congress a list of theforeign aviation authorities to which the Administrator provided services under this subsection in the preceding fiscal year. Such list shall specify the dollar value of such services and any reimbursement received for such services.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1110; Pub. L. 103–305, title II, §202, Aug. 23, 1994, 108 Stat. 1582.)
+(f)
+
+Application of Certain Regulations to Alaska.—In amending title 14, Code of Federal Regulations, in a manner affecting intrastate aviation in Alaska, the Administrator of the Federal Aviation Administration shall consider the extent to which Alaska is not served by transportation modes other than aviation, and shall establish such regulatory distinctions as the Administrator considers appropriate.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1110; Pub. L. 103–305, title II, §202, Aug. 23, 1994, 108 Stat. 1582; Pub. L. 106–181, title I, §156(a), Apr. 5, 2000, 114 Stat. 89.)
 
 Historical and Revision Notes
 
@@ -104,7 +108,13 @@ In subsection (d), the text of 49 App.:1354(e) (last sentence) is omitted becaus
 
 #### Amendments
 
+2000—Subsec. (f). Pub. L. 106–181 added subsec. (f).
+
 1994—Subsec. (e). Pub. L. 103–305 added subsec. (e).
+
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
 
 #### Administrative Services Franchise Fund
 
@@ -112,9 +122,7 @@ Pub. L. 104–205, title I, Sept. 30, 1996, 110 Stat. 2957, provided in part tha
 
 #### Aircraft Purchase Loan Guarantee Program
 
-Pub. L. 106–69, title III, §337, Oct. 9, 1999, 113 Stat. 1022, provided that: “None of the funds in this Act \[see Tables for classification\] shall be available for activities under the Aircraft Purchase Loan Guarantee Program during fiscal year 2000.”
-
-Similar provisions were contained in the following prior appropriation Acts, certain of which also authorized Secretary of Transportation to issue notes or other obligations to Secretary of the Treasury to pay any necessary expenses required pursuant to any guarantee issued under Public Law 85–307, as amended:
+Pub. L. 106–69, title III, §337, Oct. 9, 1999, 113 Stat. 1022, which provided that none of the funds in Pub. L. 106–69 were to be available for activities under the Aircraft Purchase Loan Guarantee Program during fiscal year 2000, was from the Department of Transportation and Related Agencies Appropriations Act, 2000, and was not repeated in subsequent appropriations acts. Similar provisions were contained in the following prior appropriation acts:
 
 Pub. L. 105–277, div. A, §101(g) \[title I\], Oct. 21, 1998, 112 Stat. 2681–439, 2681–446.
 

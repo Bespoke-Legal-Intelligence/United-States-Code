@@ -34,11 +34,11 @@
 
 #### (2) Establishment of remedies and procedures by instrumentalities
 
-&emsp;The chief official of each instrumentality of the Congress shall establish remedies and procedures to be utilized with respect to the rights and protections provided pursuant to paragraph (1). Such remedies and procedures shall apply exclusively, except for the employees who are defined as Senate employees, in section 1201(c)(1) of this title.
+&emsp;The chief official of each instrumentality of the Congress shall establish remedies and procedures to be utilized with respect to the rights and protections provided pursuant to paragraph (1). Such remedies and procedures shall apply exclusively, except for the employees who are defined as Senate employees, in section 2000e–16a(c)(1) <sup>1</sup> of title 42.
 
 #### (3) Report to Congress
 
-&emsp;The chief official of each instrumentality of the Congress shall, after establishing remediesand procedures for purposes of paragraph (2), submit to the Congress a report describing the remedies and procedures.
+&emsp;The chief official of each instrumentality of the Congress shall, after establishing remedies and procedures for purposes of paragraph (2), submit to the Congress a report describing the remedies and procedures.
 
 #### (4) Definition of instrumentalities
 
@@ -57,6 +57,8 @@ The Civil Rights Act of 1964, referred to in subsecs. (a)(1), (2)(A) and (b)(1),
 Rule LI of the Rules of the House of Representatives, referred to in subsec. (a)(2)(B)(ii), was amended generally for the One Hundred Third Congress and, as so amended, contained provisions relating to fair employment practices. Rule LI was continued without change for the One Hundred Fourth Congress. Rule LI was repealed by H. Res. No. 5, §23(a), One Hundred Fifth Congress, Jan. 7, 1997. See section 1301 et seq. of this title.
 
 This title, referred to in subsec. (b)(1), is title I of Pub. L. 102–166, Nov. 21, 1991, 105 Stat. 1071, which enacted this section and section 1981a of Title 42, The Public Health and Welfare, amended section 626 of Title 29, Labor, and sections 1981, 1988, 2000e, 2000e–1, 2000e–2, 2000e–4, 2000e–5, 2000e–16, 12111, and 12112 of Title 42, and enacted provisions set out as notes under sections 1981, 2000e, and 2000e–4 of Title 42. For complete classification of title I to the Code, see Tables.
+
+Section 2000e–16a of title 42, referred to in subsec. (b)(2), was amended generally by Pub. L. 104–1, title V, §504(a)(1), Jan. 23, 1995, 109 Stat. 40, and as so amended, subsec. (c) of section 2000e–16a of title 42 no longer contains paragraphs and no longer defines the term “Senate employee”. See section 1301(8) of this title.
 
 #### Effective Date
 

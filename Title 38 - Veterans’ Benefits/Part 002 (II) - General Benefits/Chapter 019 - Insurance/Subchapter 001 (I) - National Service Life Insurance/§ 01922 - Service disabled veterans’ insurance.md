@@ -14,9 +14,11 @@
 
 (3) No application for insurance payments under this subsection shall be valid unless filed with the Secretary within two years after the date of death of the insured or before January 1, 1961, whichever is the later, and the relationship of the applicant shall be proved as of the date of death of the insured by evidence satisfactory to the Secretary. Persons shown by evidence satisfactory to the Secretary to have been mentally or legally incompetent at the time the right to apply for death benefits expires, may make such application at any time within one year after the removal of such disability.
 
-(4) Notwithstanding section 1917 of this title, insurance under this subsection shall be payable to the beneficiary determined under paragraph (2) of this subsection in a lump sum.
+(4) Notwithstanding section 1917 of this title, insurance under this subsection shall be payableto the beneficiary determined under paragraph (2) of this subsection in a lump sum.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1155, §722; renumbered §1922 and amended Pub. L. 102–83, §§4(a)(2)(A)(iii)(IV), (D)(i), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 102–86, title II, §§201(a), 202(a), Aug. 14, 1991, 105 Stat. 415, 416; Pub. L. 103–446, title XII, §1201(i)(2), Nov. 2, 1994, 108 Stat. 4688.)
+(c) The premium rate of any term insurance issued under this section shall not exceed the renewal age 70 premium rate.
+
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1155, §722; renumbered §1922 and amended Pub. L. 102–83, §§4(a)(2)(A)(iii)(IV), (D)(i), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 102–86, title II, §§201(a), 202(a), Aug. 14, 1991, 105 Stat. 415, 416; Pub. L. 103–446, title XII, §1201(i)(2), Nov. 2, 1994, 108 Stat. 4688; Pub. L. 106–419, title III, §311(a), Nov. 1, 2000, 114 Stat. 1854.)
 
 #### References in Text
 
@@ -25,6 +27,8 @@ Section 602(n) of the National Service Life Insurance Act of 1940, referred to i
 Section 620 of the National Service Life Insurance Act of 1940, referred to in subsec. (b)(1), is section 620 of act Oct. 8, 1940, ch. 757, title VI, pt. I, as added Apr. 25, 1951, ch. 39, pt. II, §10, 65 Stat. 36, which enacted section 821 of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which was repealed and the provisions thereof reenacted as this section by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105.
 
 #### Amendments
+
+2000—Subsec. (c). Pub. L. 106–419 added subsec. (c).
 
 1994—Subsec. (b)(4). Pub. L. 103–446 substituted “Notwithstanding section 1917 of this title,” for “Notwithstanding the provisions of section 1917 of this title,”.
 
@@ -59,10 +63,6 @@ Subsec. (b)(5). Pub. L. 102–86, §202(a)(2), amended subsec. (b) of this secti
 Section 201(b) of Pub. L. 102–86 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to any person who, on or after September 1, 1991, is found by the Secretary of Veterans Affairs to be eligible for insurance under section 722 \[now 1922\] of title 38, United States Code.”
 
 Section 202(b) of Pub. L. 102–86 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to deaths occurring before, on, or after the date of the enactment of this Act \[Aug. 14, 1991\]. In the case of insurance under section 722(b) \[now 1922(b)\] of title 38, United States Code, payable by reason of a death before the date of the enactment of this Act, the Secretary shall pay the remaining balance of such insurance in a lump sum as soon as practicable after the date of the enactment of this Act.”
-
-#### Cross References
-
-Assignment of insurance granted under subsec. (b) of this section excepted from general assignment provisions, see section 1918(b) of this title.
 
 #### Section Referred to in Other Sections
 

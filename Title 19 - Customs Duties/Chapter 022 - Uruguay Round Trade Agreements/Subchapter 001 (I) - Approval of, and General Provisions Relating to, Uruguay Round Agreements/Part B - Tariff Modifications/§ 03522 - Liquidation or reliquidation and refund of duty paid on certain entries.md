@@ -28,7 +28,7 @@ The entries referred to in subsection (a) of this section are as follows:
 
 #### (2) Clomiphene citrate
 
-&emsp;(A) Any entry, or withdrawal from warehouse for consumption, of goods described in heading 9902.29.95 of the HTS (relating to clomiphene citrate) which was made after December 31, 1988, and before January 1, 1993, and with respect to which there would have been no duty if the reference to subheading “2922.19.15” in such heading were a reference to subheading “2922.19.15 or any subheading of chapter 30” at the time of such entry or withdrawal, shall be liquidated or reliquidated as free of duty.
+&emsp;(A) Any entry, or withdrawal from warehouse for consumption, of goods described inheading 9902.29.95 of the HTS (relating to clomiphene citrate) which was made after December 31, 1988, and before January 1, 1993, and with respect to which there would have been no duty if the reference to subheading “2922.19.15” in such heading were a reference to subheading “2922.19.15 or any subheading of chapter 30” at the time of such entry or withdrawal, shall be liquidated or reliquidated as free of duty.
 
 &emsp;(B) The Secretary of the Treasury shall refund any duties paid with respect to entries described in subparagraph (A).
 

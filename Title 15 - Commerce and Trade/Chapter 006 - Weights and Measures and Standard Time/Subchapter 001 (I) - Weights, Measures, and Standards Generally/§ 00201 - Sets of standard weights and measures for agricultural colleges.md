@@ -1,6 +1,6 @@
 ### §201. Sets of standard weights and measures for agricultural colleges
 
-The Secretary of Commerce is directed to cause a complete set of all the weights and measures adopted as standards to be delivered to the governor of each State in the Union for the use of agricultural colleges in the States, respectively, which have received a grant of lands from the United States, and also one set of the same for the use of the Smithsonian Institution: <i>Provided</i>, That the cost of each set shall not exceed $200.
+The Secretary of Commerce is directed to cause a complete set of all the weights and measures adopted as standards to be delivered tothe governor of each State in the Union for the use of agricultural colleges in the States, respectively, which have received a grant of lands from the United States, and also one set of the same for the use of the Smithsonian Institution: <i>Provided</i>, That the cost of each set shall not exceed $200.
 
 (Mar. 3, 1881, No. 26, 21 Stat. 521; Feb. 14, 1903, ch. 552, §§4, 10, 32 Stat. 826, 829; Mar. 4, 1913, ch. 141, §1, 37 Stat. 736.)
 
@@ -14,7 +14,7 @@ Act Feb. 14, 1903, transferred National Bureau of Standards from Treasury Depart
 
 #### Appropriation
 
-A sum sufficient to carry out the provisions of this section was appropriated out of any money in theTreasury not otherwise appropriated by act Mar. 3, 1881.
+A sum sufficient to carry out the provisions of this section was appropriated out of any money in the Treasury not otherwise appropriated by act Mar. 3, 1881.
 
 #### Distribution to States
 

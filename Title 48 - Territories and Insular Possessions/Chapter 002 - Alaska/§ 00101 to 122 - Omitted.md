@@ -6,9 +6,9 @@ Sections 101 to 122, relating to Territory of Alaska, were omitted in view of ad
 
 Section 101, acts June 6, 1900, ch. 786, §4, 31 Stat. 322; Mar. 3, 1909, ch. 269, §2, 35 Stat. 839; Mar. 2, 1921, ch. 110, 41 Stat. 1203; Dec. 13, 1926, ch. 6, §1, 44 Stat. 919; July 31, 1946, ch. 704, §1, 60 Stat. 716; June 1, 1948, ch. 363, 62 Stat. 283; June 25, 1948, ch. 646, §9, 62 Stat. 986; Aug. 23, 1954, ch. 836, §§1, 2, 68 Stat. 772; Mar. 2, 1955, ch. 9, §1(g), 69 Stat. 10; Aug. 1, 1955, ch. 443, 69 Stat. 430, established a district court for the District of Alaska and provided for its judges and divisions.
 
-Section 101a was from a sentence added to R.S. §5296 by act May 24, 1935, ch. 142, 49 Stat. 289. R.S. §5296 was subsequently amended in full by act June 29, 1940, ch. 499, §4, 54 Stat. 692, which failed to include provisions on the subject of that sentence or to refer to the 1935 amendment adding it. That sentence provided as follows: “The District Court of the Territory of Alaska shall be deemed a court of the United States, and the commissioners appointed by the judges of the said District Court of the Territory of Alaska under the provisions of title I, chapter 1, section 6, of the act of June 6, 1900 (31 Stat. 323, 324 \[sections 104 and 108 of this title\]), shall be deemed commissioners of a United States court, within the intent and meaning of this section \[former section 641 of title 18\].”
+Section 101a was from a sentence added to R.S. §5296 by act May 24, 1935, ch. 142, 49 Stat. 289. R.S. §5296 was subsequently amended in full by act June 29, 1940, ch. 499, §4, 54 Stat. 692, which failed to include provisions on the subject of that sentence or to refer to the 1935 amendment adding it. That sentence provided as follows: “The District Court of the Territory of Alaska shall be deemed a court of the United States, and the commissioners appointed by the judges of the said District Court of the Territory of Alaska under the provisions of title I, chapter 1, section 6, of the act of June 6, 1900 (31 Stat. 323, 324 \[sections 104 and 108 of this title\]), shall be deemed commissioners of a UnitedStates court, within the intent and meaning of this section \[former section 641 of title 18\].”
 
-Section 102, acts June 6, 1900, ch. 786, §4, 31 Stat. 322; Mar. 3, 1909, ch. 269, §2, 35 Stat. 839; Mar. 2, 1921, ch. 110, 41 Stat. 1203; Nov. 22, 1943, ch. 304, 57 Stat. 591, providedfor terms of court, special terms, and employment of interpreters.
+Section 102, acts June 6, 1900, ch. 786, §4, 31 Stat. 322; Mar. 3, 1909, ch. 269, §2, 35 Stat. 839; Mar. 2, 1921, ch. 110, 41 Stat. 1203; Nov. 22, 1943, ch. 304, 57 Stat. 591, provided for terms of court, special terms, and employment of interpreters.
 
 Section 103, act June 6, 1900, ch. 786, §5, 31 Stat. 323, specified the jurisdiction of the divisions of court, and provided for change of venue.
 
@@ -48,9 +48,9 @@ Section 117, act June 6, 1900, ch. 786, §13, 31 Stat. 326, authorized establish
 
 Section 118, act June 6, 1900, ch. 786, §14, 31 Stat. 327, required keeping of record books and prescribed duties of recorders.
 
-Section 119, act June 6, 1900, ch. 786, §15, 31 Stat. 327, which specified instruments to be recorded, was transferred to section 49c of Title 30, Mineral Lands and Mining.
+Section 119, act June 6, 1900, ch. 786, §15 (part), 31 Stat. 327, specified instruments to be recorded.
 
-Section 120, act June 6, 1900, ch. 786, §16, 31 Stat. 328, which required accounts for fees for instruments recorded, was transferred to section 49d of Title 30.
+Section 120, act June 6, 1900, ch. 786, §16 (part), 31 Stat. 328, required accounts for fees for instruments recorded.
 
 Section 121, act Aug. 29, 1914, ch. 292, 38 Stat. 710, provided for payment of costs of prosecuting crimes under Alaskan laws.
 

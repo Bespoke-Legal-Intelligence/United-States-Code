@@ -14,7 +14,7 @@ Development agreements entered into under this section shall be considered coope
 
 #### (d) Other agreements and contracts; assignment
 
-The Secretary of Transportation is further authorized to enter into such other agreements and contracts, except any agreement or contract to sell property rights at the Union Station complex, with such persons, corporations, financial institutions, Federal, regional, or local agencies, or the Architect of the Capitol as the Secretary of Transportation deems necessary or desirable to carry out the purposes of this part. Any such agreement may be made assignable to a selected developer or developers of the Union Station complex.
+The Secretary of Transportation is further authorized to enter into such other agreements and contracts, except any agreement or contract to sell property rights at the Union Station complex, with such persons, corporations, financial institutions, Federal, regional, or local agencies, or the Architect of the Capitol as theSecretary of Transportation deems necessary or desirable to carry out the purposes of this part. Any such agreement may be made assignable to a selected developer or developers of the Union Station complex.
 
 (Pub. L. 90–264, title I, §115, as added Pub. L. 97–125, §3(3), Dec. 29, 1981, 95 Stat. 1670.)
 

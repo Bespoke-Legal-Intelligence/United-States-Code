@@ -4,10 +4,6 @@ Any Indian allotment held under a trust patent may be leased by the allottee for
 
 (June 25, 1910, ch. 431, §4, 36 Stat. 856.)
 
-#### Cross References
-
-Leases of restricted allotments and arid allotted lands, see sections 393, 394 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 353, 406, 564h, 697, 747 of this title; title 43 section 1617.

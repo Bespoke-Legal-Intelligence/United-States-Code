@@ -8,7 +8,7 @@ The Congress finds and declares that—
 
 &emsp;(2) development of such a Federal building complex will permit consolidation of a number of Federal agencies which are currently housed in numerous, scattered locations and will enable more economical and efficient use of building space and environs;
 
-&emsp;(3) inclusion of an international cultural and trade center within the Federal building complex will create and enhance opportunities forAmerican trade, commerce, communications, and cultural exchanges with other nations and complement the work of Federal, State, and local agencies in the areas of international trade and cultural exchange; and
+&emsp;(3) inclusion of an international cultural and trade center within the Federal building complex will create and enhance opportunities for American trade, commerce, communications, and cultural exchanges with other nations and complement the work of Federal, State, and local agencies in the areas of international trade and cultural exchange; and
 
 &emsp;(4) the appropriate development, maintenance, and use of the Federal Triangle property should be a joint development effort of the General Services Administration, the Pennsylvania Avenue Development Corporation, and the International Cultural and Trade Center Commission.
 
@@ -37,6 +37,10 @@ Section 1 of Pub. L. 100–113 provided that: “This Act \[enacting this chapte
 #### Dissolution of Pennsylvania Avenue Development Corporation
 
 Pennsylvania Avenue Development Corporation dissolved on or before Apr. 1, 1996, and assets, obligations, indebtedness, and unobligated and unexpended balances of Corporation transferred, see section 872 of this title.
+
+#### Designation of Daniel Patrick Moynihan Place
+
+Pub. L. 106–567, title III, §310, Dec. 27, 2000, 114 Stat. 2841, designated as “Daniel Patrick Moynihan Place” a parcel of land located in Woodrow Wilson Plaza in the northwest quadrant of Washington, District of Columbia, directed the Administrator of General Services to erect appropriate gateways or other markers to denote that place, and provided that any reference in a law, map, regulation, document, paper, or other record of the United States to that parcel of land was to be deemed to be a reference to Daniel Patrick Moynihan Place.
 
 #### Designation of Ronald Reagan Building and International Trade Center
 

@@ -10,7 +10,7 @@ For the purposes of this chapter—
 
 &emsp;(b) The term “antitrust order” means any final order, decree, or judgment of any court of the United States, duly entered in any case or proceeding arising under any antitrust law;
 
-&emsp;(c) The term “antitrust investigation” means any inquiry conducted by any antitrust investigator for the purpose of ascertaining whether any person is or has been engaged inany antitrust violation or in any activities in preparation for a merger, acquisition, joint venture, or similar transaction, which, if consummated, may result in an antitrust violation;
+&emsp;(c) The term “antitrust investigation” means any inquiry conducted by any antitrust investigator for the purpose of ascertaining whether any person is or has been engaged in any antitrust violation or in any activities in preparation for a merger, acquisition, joint venture, or similar transaction, which, if consummated, may result in an antitrust violation;
 
 &emsp;(d) The term “antitrust violation” means any act or omission in violation of any antitrust law, any antitrust order or, with respect to the International Antitrust Enforcement Assistance Act of 1994 \[15 U.S.C. 6201 et seq.\], any of the foreign antitrust laws;
 
@@ -18,7 +18,7 @@ For the purposes of this chapter—
 
 &emsp;(f) The term “person” means any natural person, partnership, corporation, association, or other legal entity, including any person acting under color or authority of State law;
 
-&emsp;(g) The term “documentary material” includes the original or any copy of any book, record, report, memorandum, paper, communication, tabulation, chart, or other document, and any product of discovery;
+&emsp;(g) The term “documentary material” includes the original or any copy of any book,record, report, memorandum, paper, communication, tabulation, chart, or other document, and any product of discovery;
 
 &emsp;(h) The term “custodian” means the custodian or any deputy custodian designated under section 1313(a) of this title;
 
@@ -74,5 +74,5 @@ Section 1 of Pub. L. 87–664 provided: “That this Act \[enacting this chapter
 
 #### Savings Provision
 
-Section 7 of Pub. L. 87–664 provided that: “Nothing contained in this Act \[see Short Title note above\] shall impair the authority of the Attorney General, the Assistant Attorney General in charge of the Antitrust Division of the Department of Justice, or any antitrust investigator to (a) lay before any grand jury impaneled before any district court of the United States any evidence concerning any alleged antitrust violation, (b)invoke the power of any such court to compel the production of any evidence before any such grand jury, or (c) institute any proceeding for the enforcement of any order or process issued in execution of such power, or to punish disobedience of any such order of process by any person, including a natural person.”
+Section 7 of Pub. L. 87–664 provided that: “Nothing contained in this Act \[see Short Title note above\] shall impair the authority of the Attorney General, the Assistant Attorney General in charge of the Antitrust Division of the Department of Justice, or any antitrust investigator to (a) lay before any grand jury impaneled before any district court of the United States any evidence concerning any alleged antitrust violation, (b) invoke the power of any such court to compel the production of any evidence before any such grand jury, or (c) institute any proceeding for the enforcement of any order or process issued in execution of such power, or to punish disobedience of any such order of process by any person, including a natural person.”
 

@@ -24,7 +24,7 @@
 
 &emsp;&emsp;&emsp;(II) developed and implemented interim assessments; and
 
-&emsp;&emsp;&emsp;(III) made substantial progress (as determined by the Secretary) toward developing and implementing the performance standards and final aligned assessments described in clause (i), and toward having local educational agencies in the State produce the profiles described in clause (i);
+&emsp;&emsp;&emsp;(III) made substantial progress (as determined by the Secretary) toward developing and implementing the performance standards and final aligned assessments described in clause (i), and toward havinglocal educational agencies in the State produce the profiles described in clause (i);
 
 &emsp;&emsp;(B) holds local educational agencies and schools accountable for meeting the educational goals described in the local applications submitted under paragraph (4) and for engaging in technical assistance and corrective actions consistent with section 1116 of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6317\], for the local educational agencies and schools that do not make adequate yearly progress as described in section 1111(b)(2) of such Act \[20 U.S.C. 6311(b)(2)\]; and
 
@@ -154,7 +154,7 @@
 
 #### (B) Performance review
 
-&emsp;&emsp;Three years after the date a State is designated an Ed-Flex Partnership State, the Secretary shall review the performance of the State educational agency in granting waivers of Federal statutory or regulatory requirements as described in paragraph (1)(A) and shall terminate such agency's authority to grant such waivers if the Secretary determines, after notice and an opportunity for a hearing, that such agency's performance (including performance with respect to meeting the objectives described in paragraph (3)(A)(iii)) has been inadequate to justify continuation of such authority.
+&emsp;&emsp;Three years after the date a State is designated an Ed-Flex Partnership State, the Secretary shall review the performance of the State educational agency in granting waivers of Federal statutory or regulatory requirements as described in paragraph (1)(A) and shall terminate such agency's authority to grant such waivers if the Secretary determines, after notice and an opportunity for a hearing, that such agency's performance (including performance with respect to meeting the objectives described inparagraph (3)(A)(iii)) has been inadequate to justify continuation of such authority.
 
 #### (C) Renewal
 
@@ -246,7 +246,7 @@ education reform” in the Department of Education Appropriations Act, 1996 (Pub
 
 &emsp;&emsp;(A) the Secretary shall review the progress of the State educational agency in achieving the objectives set forth in the application submitted pursuant to section 311(e) of the Goals 2000: Educate America Act; and
 
-&emsp;&emsp;(B) the Secretary shall administer the waiver authority granted under this sectionin accordance with the requirements of this section.
+&emsp;&emsp;(B) the Secretary shall administer the waiver authority granted under this section in accordance with the requirements of this section.
 
 #### (4) Technology
 

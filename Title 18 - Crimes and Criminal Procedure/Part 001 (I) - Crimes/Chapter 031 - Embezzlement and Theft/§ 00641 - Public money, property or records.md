@@ -14,7 +14,7 @@ The word “value” means face, par, or market value, or cost price, either who
 
 Based on title 18, U.S.C., 1940 ed., §§82, 87, 100, 101 (Mar. 4, 1909, ch. 321, §§35, 36, 47, 48, 35 Stat. 1095, 1096–1098; Oct. 23, 1918, ch. 194, 40 Stat. 1015; June 18, 1934, ch. 587, 48 Stat. 996; Apr. 4, 1938, ch. 69, 52 Stat. 197; Nov. 22, 1943, ch. 302, 57 Stat. 591.)
 
-Section consolidates sections 82, 87, 100, and 101 of title 18, U.S.C., 1940 ed. Changes necessary to effect the consolidation were made. Words “or shall willfully injure or commit any depredation against” were takenfrom said section 82 so as to confine it to embezzlement or theft.
+Section consolidates sections 82, 87, 100, and 101 of title 18, U.S.C., 1940 ed. Changes necessary to effect the consolidation were made. Words “or shall willfully injure or commit any depredation against” were taken from said section 82 so as to confine it to embezzlement or theft.
 
 The quoted language, rephrased in the present tense, appears in section 1361 of this title.
 
@@ -47,18 +47,6 @@ Changes were made in phraseology.
 #### Short Title of 1984 Amendment
 
 Pub. L. 98–473, title II, chapter XI, part I (§§1110–1115), §1110, Oct. 12, 1984, 98 Stat. 2148, provided that: “This Part \[enacting section 667 of this title and amending sections 2316 and 2317 of this title\] may be cited as the ‘Livestock Fraud Protection Act’.”
-
-#### Cross References
-
-Concealment, removal or destruction of records, see section 2071 of this title.
-
-Court records or process, theft of, see section 1506 of this title.
-
-Mail matter or postal service equipment, embezzlement or theft, see section 1702 et seq. of this title.
-
-Misappropriation of postal funds, see section 1711 of this title.
-
-Receiver triable before or after principal, see section 3435 of this title.
 
 #### Section Referred to in Other Sections
 

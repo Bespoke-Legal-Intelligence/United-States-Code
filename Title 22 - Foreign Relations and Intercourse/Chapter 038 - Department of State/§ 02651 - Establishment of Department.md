@@ -36,7 +36,7 @@ Pub. L. 101–246, §1(a), Feb. 16, 1990, 104 Stat. 15, provided that: “This A
 
 #### Short Title of 1987 Amendment
 
-Pub. L. 100–204, §1(a), Dec. 22, 1987, 101 Stat. 1331, provided that: “This Act \[enacting sections 288f–3, 1464, 2656f, 2664a, 2713, 4069a to 4069c, 4315, 4316, 4341 to 4343,and 5201 to 5203 of this title, amending sections 288h, 290j–1, 1469, 1471, 1475e, 1477c, 1627, 1928a, 1928b, 2151n, 2291, 2304, 2460, 2661, 2670, 2697, 2706, 2707, 2778, 2877, 3905, 3922a, 3927, 3941, 3942, 3946, 3949, 3961, 3965, 4001, 4010, 4023, 4137, 4173, 4302, 4303, 4305, 4403, 4412, 4413, 4831, 4834, 4851, 4861, and 4904 of this title, sections 5313, 5315, and 8332 of Title 5, Government Organization and Employees, section 1182 of Title 8, Aliens and Nationality, sections 2492 and 2605 of Title 19, Customs Duties, and section 1364 of Title 28, Judiciary and Judicial Procedure, enacting provisions set out as notes under this section, sections 287, 287e, 1461, 1463, 1471, 2601, 2656, 2680, 2697, 2707, 3922a, 3941 to 3943, 3946, 3965, 4041, 4301, 4315, 4316, 4341, 4802, 4851, and 5201 of this title, section 112b of Title 1, General Provisions, section 5313 of Title 5, sections 1182, 1201, and 1255a of Title 8, section 2901 of Title 15, Commerce and Trade, section 3181 of Title 18, Crimes and Criminal Procedure, section 2605 of Title 19, and section 1364 of Title 28, and amending provisions set out as notes under this section and sections 287, 287b, 287e, and 4021 of this title\] may be cited as the ‘Foreign Relations Authorization Act, Fiscal Years 1988 and 1989’.”
+Pub. L. 100–204, §1(a), Dec. 22, 1987, 101 Stat. 1331, provided that: “This Act \[enacting sections 288f–3, 1464, 2656f, 2664a, 2713, 4069a to 4069c, 4315, 4316, 4341 to 4343, and 5201 to 5203 of this title, amending sections 288h, 290j–1, 1469, 1471, 1475e, 1477c, 1627, 1928a, 1928b, 2151n, 2291, 2304, 2460, 2661, 2670, 2697, 2706, 2707, 2778, 2877, 3905, 3922a, 3927, 3941, 3942, 3946, 3949, 3961, 3965, 4001, 4010, 4023, 4137, 4173, 4302, 4303, 4305, 4403, 4412, 4413, 4831, 4834, 4851, 4861, and 4904 of this title, sections 5313, 5315, and 8332 of Title 5, Government Organization and Employees, section 1182 of Title 8, Aliens and Nationality, sections 2492 and 2605 of Title 19, Customs Duties, and section 1364 of Title 28, Judiciary and Judicial Procedure, enacting provisions set out as notes under this section, sections 287, 287e, 1461, 1463, 1471, 2601, 2656, 2680, 2697, 2707, 3922a, 3941 to 3943, 3946, 3965, 4041, 4301, 4315, 4316, 4341, 4802, 4851, and 5201 of this title, section 112b of Title 1, General Provisions, section 5313 of Title 5, sections 1182, 1201, and 1255a of Title 8, section 2901 of Title 15, Commerce and Trade, section 3181 of Title 18, Crimes and Criminal Procedure, section 2605 of Title 19, and section 1364 of Title 28, and amending provisions set out as notes under this section and sections 287, 287b, 287e, and 4021 of this title\] may be cited as the ‘Foreign Relations Authorization Act, Fiscal Years 1988 and 1989’.”
 
 #### Short Title of 1985 Amendment
 
@@ -44,7 +44,7 @@ Pub. L. 99–93, §1(a), Aug. 16, 1985, 99 Stat. 405, provided that: “This Act
 
 #### Short Title of 1976 Amendment
 
-Pub. L. 94–350, §1, July 12, 1976, 90 Stat. 823, provided: “That this Act \[enacting sections 817, 1065, 1076a, 1463, 1475a, 1928e, 2458a, 2661a, 2689, and 2690 of this title, amending sections 276e, 276i, 295, 889, 915, 1001, 1002, 1004, 1007, 1063, 1064, 1071, 1076, 1081, 1082, 1084, 1086, 1091, 1105, 1111, 1116, 1121, 1229, 1474, 1754, 2872, 2873, 2877, 2902, 2905, and 2906 of this title, repealing sections 1083, 1092, and 1094 of this title, and enacting provisions set out as notes under sections 801, 915, 1001, 1063, 1064, 1076, 1076a, 1086, 1091, 1121, 1229, and 2871 of this title\] may be cited as the ‘Foreign Relations Authorization Act, Fiscal Year 1977’.”
+Pub. L. 94–350, §1, July 12, 1976, 90 Stat. 823, provided: “That this Act \[enacting sections 817, 1065, 1076a, 1463, 1475a, 1928e, 2458a, 2661a, 2689, and 2690 of this title, amending sections 276e, 276i, 295, 889, 915, 1001, 1002, 1004, 1007, 1063, 1064, 1071, 1076, 1081, 1082, 1084, 1086, 1091, 1105, 1111, 1116, 1121, 1229, 1474, 1754, 2872, 2873, 2877, 2902, 2905, and 2906 of this title, repealing sections 1083, 1092, and 1094 of this title, and enacting provisions set out as notes under sections 801, 915, 1001, 1063, 1064, 1076, 1076a,1086, 1091, 1121, 1229, and 2871 of this title\] may be cited as the ‘Foreign Relations Authorization Act, Fiscal Year 1977’.”
 
 #### Short Title of 1975 Amendment
 
@@ -115,10 +115,4 @@ Appropriate congressional committees.—Except as otherwise provided in section 
 &emsp;“(2)
 
 Secretary.—The term ‘Secretary’ means the Secretary of State.”
-
-#### Cross References
-
-Compensation of Secretary, see section 5312 of Title 5, Government Organization and Employees.
-
-Immigration and Nationality Act, powers and duties of Secretary of State with respect to administration and enforcement, see section 1104 of Title 8, Aliens and Nationality.
 

@@ -16,7 +16,7 @@ The head of a Federal agency may employ standards for the cost-effective securit
 
 #### (c) Waiver of standards
 
-The standards determined under subsection (a) of this section to be compulsory and binding may be waived by the Secretary of Commerce in writing upon a determination that compliance would adversely affect the accomplishment of the mission of an operator of a Federal computer system, or cause a major adverse financial impact on the operator which is not offset by Government-wide savings. The Secretary may delegate to the head of one or more Federal agencies authority to waive such standards to the extent to which the Secretary determines such action to be necessary and desirable to allow for timely and effective implementation of Federal computer system standards. The head of such agency may redelegate such authority only to a Chief Information Officer designated pursuant to section 3506 of title 44. Notice of each such waiver and delegation shall be transmitted promptly to Congress and shall be published promptly in the Federal Register.
+The standards determined under subsection (a) of this section to be compulsory and binding may be waived by the Secretary of Commerce in writing upon a determination that compliancewould adversely affect the accomplishment of the mission of an operator of a Federal computer system, or cause a major adverse financial impact on the operator which is not offset by Government-wide savings. The Secretary may delegate to the head of one or more Federal agencies authority to waive such standards to the extent to which the Secretary determines such action to be necessary and desirable to allow for timely and effective implementation of Federal computer system standards. The head of such agency may redelegate such authority only to a Chief Information Officer designated pursuant to section 3506 of title 44. Notice of each such waiver and delegation shall be transmitted promptly to Congress and shall be published promptly in the Federal Register.
 
 #### (d) Definitions
 
@@ -30,7 +30,7 @@ Section is comprised of section 5131 of Pub. L. 104–106. Subsec. (e) of sectio
 
 #### Computer Security
 
-Pub. L. 100–235, §§1, 2, 5–8, Jan. 8, 1988, 101 Stat. 1724, 1729, as amended by Pub. L. 104–106, div. E, title LVI, §5607(b), Feb. 10, 1996, 110 Stat. 701; Pub. L. 105–85, div. A, title X, §1073(h)(4), Nov. 18, 1997, 111 Stat. 1907, provided that:
+Pub. L. 100–235, §§1, 2, 5–8, Jan. 8, 1988, 101 Stat. 1724, 1729, as amended by Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 104–106, div. E, title LVI, §5607(b), Feb. 10, 1996, 110 Stat. 701; Pub. L. 105–85, div. A, title X, §1073(h)(4), Nov. 18, 1997, 111 Stat. 1907, provided that:
 
 #### “SECTION 1. SHORT TITLE.
 
@@ -46,7 +46,7 @@ In General.—The Congress declares that improving the security and privacy of s
 
 Specific Purposes.—The purposes of this Act are—
 
-&emsp;“(1) by amending the Act of March 3, 1901 \[15 U.S.C. 271 et seq.\], to assign to the National Bureau of Standards responsibility for developing standards and guidelines for Federal computer systems, including responsibility for developing standards and guidelines needed to assure the cost-effective security and privacy of sensitive information in Federal computer systems, drawing on the technical advice and assistance (including work products) of the National Security Agency, where appropriate;
+&emsp;“(1) by amending the Act of March 3, 1901 \[15 U.S.C. 271 et seq.\], to assign to the National Institute of Standards and Technology responsibility for developing standards and guidelines for Federal computer systems, including responsibility for developing standards and guidelines needed to assure the cost-effective security and privacy of sensitive information in Federal computer systems, drawing on the technical advice and assistance (including work products) of the National Security Agency, where appropriate;
 
 &emsp;“(2) to provide for promulgation of such standards and guidelines;
 
@@ -60,7 +60,7 @@ Specific Purposes.—The purposes of this Act are—
 
 In General.—Each Federal agency shall provide for the mandatory periodic training in computer security awareness and accepted computer security practice of all employees who are involved with the management, use, or operation of each Federal computer system within or under the supervision of that agency. Such training shall be—
 
-&emsp;“(1) provided in accordance with the guidelines developed pursuant to section 20(a)(5) of the National Bureau of Standards Act (as added by section 3 of this Act) \[15 U.S.C. 278g–3(a)(5)\], and in accordance with the regulations issued under subsection (c) of this section for Federal civilian employees; or
+&emsp;“(1) provided in accordance with the guidelines developed pursuant to section 20(a)(5) of the National Bureau of Standards Act \[now National Institute of Standards and Technology Act\] (as added by section 3 of this Act) \[15 U.S.C. 278g–3(a)(5)\], and in accordance with the regulations issued under subsection (c) of this section for Federal civilian employees; or
 
 &emsp;“(2) provided by an alternative training program approved by the head of that agency on the basis of a determination that the alternative training program is at least as effective in accomplishing the objectives of such guidelines and regulations.
 
@@ -88,7 +88,7 @@ Security Plan.—Each such agency shall, consistent with the standards, guidelin
 
 #### “SEC. 7. DEFINITIONS.
 
-“As used in this Act, the terms ‘computer system’, ‘Federal computer system’, ‘operator of a Federal computer system’, ‘sensitive information’, and ‘Federal agency’ have the meanings given in section 20(d) of the National Bureau of Standards Act (as added by section 3 of this Act) \[15 U.S.C. 278g–3(d)\].
+“As used in this Act, the terms ‘computer system’, ‘Federal computer system’, ‘operator of a Federal computer system’, ‘sensitive information’, and ‘Federal agency’ have the meanings given in section 20(d) of the National Bureau of Standards Act \[now National Institute of Standards and Technology Act\] (as added by section 3 of this Act) \[15 U.S.C. 278g–3(d)\].
 
 #### “SEC. 8. RULES OF CONSTRUCTION OF ACT.
 
@@ -106,5 +106,5 @@ Security Plan.—Each such agency shall, consistent with the standards, guidelin
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1412 of this title; title 15 section 278g–3; title 44 sections 3504, 3518.
+This section is referred to in section 1412 of this title; title 15 section 278g–3; title 44 sections 3504, 3518, 3533.
 

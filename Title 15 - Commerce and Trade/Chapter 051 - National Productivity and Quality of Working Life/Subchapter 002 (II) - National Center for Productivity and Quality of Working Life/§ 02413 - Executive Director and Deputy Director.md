@@ -6,7 +6,7 @@ The Center shall have an Executive Director, who shall be appointed by the Presi
 
 #### (b) Appointment of Deputy Director; functions
 
-The Executive Director shall appoint a Deputy Director, who shall perform such functions as the Executive Director may prescribe. The Deputy Director shall act for and exercise the powers of the Executive Director during the absence of disability of the Executive Director.
+The Executive Director shall appoint a Deputy Director, who shall perform such functions asthe Executive Director may prescribe. The Deputy Director shall act for and exercise the powers of the Executive Director during the absence of disability of the Executive Director.
 
 #### (c) Powers and duties of Executive Director
 

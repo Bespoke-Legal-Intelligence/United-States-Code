@@ -22,18 +22,6 @@
 
 1966—Pub. L. 89–654, §2(d), Oct. 14, 1966, 80 Stat. 904, substituted “Breaking or entering carrier facilities” for “Railroad car entered or seal broken” in item 2117.
 
-#### Cross References
-
-Extradition of fugitives from country under control of United States, see section 3185 of this title.
-
-Indian country, punishment, see section 1153 of this title.
-
-Indians, jurisdiction of offenses by, see section 3242 of this title.
-
-Piracy, robbery ashore by those engaged in piratical cruise, see section 1661 of this title.
-
-Wire or oral communications, authorization for interception, to provide evidence of robbery, see section 2516 of this title.
-
 
 ---
 

@@ -30,7 +30,7 @@ The Secretary may not make a grant under subsection (a) of this section unless t
 
 #### (1) In general
 
-&emsp;With respect to the costs of providing any scholarship pursuant to subsection (c) of this section, the Secretary may not make a grantunder subsection (a) of this section unless the State involved agrees that—
+&emsp;With respect to the costs of providing any scholarship pursuant to subsection (c) of this section, the Secretary may not make a grant under subsection (a) of this section unless the State involved agrees that—
 
 &emsp;&emsp;(A) 40 percent of the costs of the scholarship will be paid from the grant made under subsection (a) of this section to the State; and
 
@@ -92,7 +92,7 @@ The Secretary may not make a grant under subsection (a) of this section unless t
 
 #### (g) Estimates regarding allocations between urban and rural areas
 
-The Secretary may not make a grant under subsection (a) of this section unless the State involved submits to the Secretary, as part of the application required in subsection (h) of this section, an estimate of the amount of the grant that will be expended regarding the provision ofprimary health care in urban health manpower shortage areas of the State, and an estimate of the amount of the grant that will be expended regarding the provision of such care in rural health manpower shortage areas of the State.
+The Secretary may not make a grant under subsection (a) of this section unless the State involved submits to the Secretary, as part of the application required in subsection (h) of this section, an estimate of the amount of the grant that will be expended regarding the provision of primary health care in urban health manpower shortage areas of the State, and an estimate of the amount of the grant that will be expended regarding the provision of such care in rural health manpower shortage areas of the State.
 
 #### (h) Requirement of application
 
@@ -126,7 +126,7 @@ The Secretary may not make a grant under subsection (a) of this section unless a
 
 #### (2) Date for submission
 
-&emsp;With respect to a fiscal year, the report required in paragraph (1) shall be submitted for purposes of such paragraph by not later than the date on which the report required in section 254<i>l</i>(i) of this title is required to be submitted for purposes of such section.
+&emsp;With respect to a fiscal year, the report required in paragraph (1) shall be submitted for purposes of such paragraph by not later than the date on which the report required in section 254<i>l</i>(i) <sup>2</sup> of this title is required to be submitted for purposes of such section.
 
 #### (k) Definitions
 
@@ -168,7 +168,9 @@ For purposes of this section:
 
 The Social Security Act, referred to in subsec. (e)(6), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of this title. Part B of title XVIII of the Act is classified generally to part B (§1395j et seq.) of subchapter XVIII of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
+Section 254<i>l</i>(i) of this title, referred to in subsec. (j)(2), was omitted from the Code. See Codification note under section 254<i>l</i>(i) of this title.
+
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 

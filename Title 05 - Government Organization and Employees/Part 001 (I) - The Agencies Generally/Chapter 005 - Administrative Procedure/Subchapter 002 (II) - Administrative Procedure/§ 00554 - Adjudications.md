@@ -86,13 +86,9 @@ Section 554 of former Title 5, Executive Departments and Government Officers and
 
 1978—Subsec. (a)(2). Pub. L. 95–251 substituted “administrative law judge” for “hearing examiner”.
 
-#### Cross References
-
-Licenses for manufacture of narcotic drugs, actions of Attorney General when issuing or denying to conform to this section, see section 824 et seq. of Title 21, Food and Drugs.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 504, 552b, 556, 557, 8124 of this title; title 2 sections 501, 502, 1220, 1405, 1602; title 7 sections 86, 87e, 87f–1, 1359ii, 3804, 3805; title 8 sections 1324a, 1324c, 1375; title 12 sections 1817, 1818, 2268, 3413; title 15 sections 78d–1, 1274, 2064, 2066, 2605, 2615, 3412; title 16 sections 429b–1, 470ff, 773f, 796, 823b, 839f, 973f, 1174, 1437, 1536, 1540, 1852, 1856, 1858, 2407, 2437, 2602, 3142, 3373, 3636, 5010, 5507; title 18 section 3625; title 20 sections 1234, 6083; title 21 sections 321, 333, 342, 346a, 360e, 844a, 1041; title 22 section 6761; title 29 sections 214, 216, 659, 1813, 1853; title 30 sections 185, 804, 811, 815, 817, 818, 821, 938, 1264, 1268, 1275, 1293, 1426, 1462; title 33 sections 919, 1319, 1321, 1367, 1504; title 38 section 7101A; title 41 section 422; title 42 sections 262, 300g–3, 300h–2, 300gg–22, 2000e–17, 2282a, 3783, 3789d, 4910, 6303, 6971, 7407, 7413, 7419, 7502, 7511a, 7524, 7607, 7920, 8433, 9112, 9152, 9609, 9610; title 43 sections 1656, 1766; title 45 section 905; title 46 sections 7702, 9303; title 46 App. section 1187e; title 47 sections 409, 503; title 49 sections 521, 20104; title 50 App. sections 16, 2159, 2410, 2412.
+This section is referred to in sections 504, 552b, 556, 557, 8124 of this title; title 2 sections 501, 502, 1405, 1602; title 7 sections 86, 87e, 87f–1, 1359ii, 3804, 3805; title 8 sections 1324a, 1324c, 1375; title 12 sections 1817, 1818, 2268, 3413; title 15 sections 78d–1, 1274, 2064, 2066, 2605, 2615,3412, 6765; title 16 sections 429b–1, 470ff, 773f, 796, 823b, 839f, 973f, 1174, 1437, 1536, 1540, 1852, 1856, 1858, 2407, 2437, 2602, 3142, 3373, 3636, 5010, 5507; title 18 section 3625; title 20 sections 1234, 6083; title 21 sections 321, 333, 342, 346a, 360e, 844a, 1041; title 22 section 6761; title 29 sections 214, 216, 659, 1813, 1853; title 30 sections 185, 804, 811, 815, 817, 818, 821, 938, 1264, 1268, 1275, 1293, 1426, 1462; title 33 sections 919, 1319, 1321, 1367, 1504; title 38 section 7101A; title 41 section 422; title 42 sections 262, 300g–3, 300h–2, 300gg–22, 2000e–16c, 2000e–17, 2282a, 3783, 3789d, 4910, 6303, 6971, 7407, 7413, 7419, 7502, 7511a, 7524, 7607, 7920, 8433, 9112, 9152, 9609, 9610; title 43 sections 1656, 1766; title 45 section 905; title 46 sections 7702, 9303; title 46 App. section 1187e; title 47 sections 409, 503; title 49 sections 521, 13902, 20104; title 50 App. sections 16, 2159, 2410, 2412.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

@@ -4,7 +4,7 @@
 
 (1) The Secretary is authorized to provide, or contract with public or private organizations to provide, information, advice, and technical assistance, including but not limited to—
 
-&emsp;(i) the assembly, correlation, publication, and dissemination of information with respectto the construction, rehabilitation, and operation of low- and moderate-income housing;
+&emsp;(i) the assembly, correlation, publication, and dissemination of information with respect to the construction, rehabilitation, and operation of low- and moderate-income housing;
 
 &emsp;(ii) the provision of advice and technical assistance to public bodies or to nonprofit or cooperative organizations with respect to the construction, rehabilitation, and operation of low- and moderate-income housing, including assistance with respect to self-help and mutual self-help programs;
 
@@ -60,7 +60,7 @@
 
 &emsp;&emsp;&emsp;(ii) are not already adequately served by homeownership counseling organizations; and
 
-&emsp;&emsp;&emsp;(iii) have a high incidence of mortgages involving principal obligations (including such initial service charges, appraisal, inspection, and other fees as the Secretary shall approve) in excess of 97 percent of the appraised value of the properties that are insured pursuant to section 203 of the National Housing Act \[12 U.S.C. 1709\]; and
+&emsp;&emsp;&emsp;(iii) have a high incidence of mortgages involving principal obligations (includingsuch initial service charges, appraisal, inspection, and other fees as the Secretary shall approve) in excess of 97 percent of the appraised value of the properties that are insured pursuant to section 203 of the National Housing Act \[12 U.S.C. 1709\]; and
 
 &emsp;&emsp;(B) to inform the public of the availability of the homeownership counseling.
 
@@ -214,7 +214,7 @@
 
 &emsp;&emsp;Under the demonstration program, the Secretary shall require the creditor of any eligible homeowner who is delinquent (as described in subparagraph (A)) to send written notice by registered or certified mail within 5 days (excluding Saturdays, Sundays, and legal public holidays) after the occurrence of such delinquency—
 
-&emsp;&emsp;&emsp;(i) notifying the homeowner of the delinquency and the name, address, and phone number of the counseling organization for the counseling target area; and
+&emsp;&emsp;&emsp;(i) notifying the homeowner of the delinquency and the name, address, and phonenumber of the counseling organization for the counseling target area; and
 
 &emsp;&emsp;&emsp;(ii) notifying any counseling organization for the counseling target area of the delinquency and the name, address, and phone number of the delinquent homeowner.
 
@@ -364,7 +364,7 @@
 
 #### (B) Selection
 
-&emsp;&emsp;The Secretary shall provide for entities meeting the requirements of subparagraph\(A) to submit applications to provide the training and certification program under this subsection. The Secretary shall select an application based on the ability of the entity to—
+&emsp;&emsp;The Secretary shall provide for entities meeting the requirements of subparagraph (A) to submit applications to provide the training and certification program under this subsection. The Secretary shall select an application based on the ability of the entity to—
 
 &emsp;&emsp;&emsp;(i) establish the program as soon as possible on a national basis, but not later than the date under paragraph (6);
 

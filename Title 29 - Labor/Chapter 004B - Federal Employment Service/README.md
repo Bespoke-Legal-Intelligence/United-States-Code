@@ -53,13 +53,9 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Cross References
-
-National Policy on Employment, see sections 1021 to 1025 of Title 15, Commerce and Trade.
-
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1532, 1535, 1605, 1645, 1661c, 1732, 1735, 1751, 1792, 1811, 2822, 2841, 2864, 2943 of this title; title 20 sections 2308, 2328, 2411, 9271; title26 section 51; title 38 sections 4101, 4104; title 39 section 3202; title 42 sections 1101, 4728.
+This chapter is referred to in sections 1811, 2822, 2841, 2864, 2943 of this title; title 20 sections 2308, 2328, 2411, 9271; title 26 section 51; title 38 sections 4101, 4104; title 39 section 3202; title 42 sections 1101, 4728.
 
 
 ---

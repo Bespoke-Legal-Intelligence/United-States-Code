@@ -32,14 +32,6 @@ Act Aug. 4, 1955, ch. 548, 69 Stat. 491, provided: “The requirement of section
 
 Provisions of this section as not amended, modified or repealed by the Submerged Lands Act, see section 1303 of this title.
 
-#### Cross References
-
-Final proofs at any time within 4 years, see section 329 of this title.
-
-No person to hold by assignment or otherwise prior to issue of patent more than 320 acres of arid or desert land, see section 329 of this title.
-
-Unsurveyed lands not subject to entry, see section 326 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 321, 322, 323, 324, 326, 327, 328, 329, 333, 641, 1303 of this title; title 16 section 460iii–2.

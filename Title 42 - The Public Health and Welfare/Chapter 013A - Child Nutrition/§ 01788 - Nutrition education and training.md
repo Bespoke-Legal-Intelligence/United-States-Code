@@ -88,7 +88,7 @@ In general.—Grants to each State from the amounts made available under subpara
 
 Insufficient funds.—If the amount made available for any fiscal year is insufficient to pay the amount to which each State is entitled under clause (i), the amount of each grant shall be ratably reduced.
 
-(2) Funds made available to any State under this section shall remain available to the State for obligation in the fiscal year succeeding the fiscal year in which the funds were received by the State.
+(2) Funds made available to any State under this section shall remain available to the Statefor obligation in the fiscal year succeeding the fiscal year in which the funds were received by the State.
 
 (3) Enrollment data used for purposes of this subsection shall be the latest available as certified by the Department of Education.
 
@@ -106,7 +106,7 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
-1999—Subsec. (d). Pub. L. 106–78 made technical amendment to references in original act which appearin text as references to sections 1761 and 1769b–1 of this title.
+1999—Subsec. (d). Pub. L. 106–78 made technical amendment to references in original act which appear in text as references to sections 1761 and 1769b–1 of this title.
 
 1998—Subsec. (i). Pub. L. 105–336 inserted subsec. heading and par. (1)(A) and struck out former subsec. heading and pars. (1) to (3)(A) which provided for grants to States for nutrition education and information programs based on rate of 50 cents for each child enrolled in schools, minimum amounts to be received by States, and authorizations of appropriations; redesignated par. (3)(B) as (1)(B); and redesignated pars. (4) and (5) as (2) and (3), respectively.
 
@@ -136,7 +136,7 @@ Subsec. (i)(3) to (5). Pub. L. 104–193, §731(e)(2), (3), added par. (3) and r
 
 Subsec. (j). Pub. L. 104–193, §731(f), struck out subsec. (j) which read as follows:
 
-“(1) The Secretary shall assess the nutrition education and training program carried out under this section to determine what nutrition education needs are for children participating under the National School Lunch Act in the school lunch program, the summer food service program, and the child care food program.
+“(1) The Secretary shall assess the nutrition education and training program carried out under this section to determine what nutrition education needs arefor children participating under the National School Lunch Act in the school lunch program, the summer food service program, and the child care food program.
 
 “(2) The assessment required by paragraph (1) shall be completed not later than October 1, 1990.”
 

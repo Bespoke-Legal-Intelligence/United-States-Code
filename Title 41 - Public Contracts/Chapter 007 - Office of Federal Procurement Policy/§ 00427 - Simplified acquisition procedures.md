@@ -22,7 +22,7 @@ The simplified acquisition procedures contained in the Federal Acquisition Regul
 
 #### (e) Interim reporting rule
 
-Until October 1, 2004, procuring activities shall continue to report under section 417(d) of this title procurement awards with a dollar value of at least $25,000, but less than $100,000, in conformity with the procedures for the reporting ofa contract award greater than $25,000 that were in effect on October 1, 1992.
+Until October 1, 2004, procuring activities shall continue to report under section 417(d) of this title procurement awards with a dollar value of at least $25,000, but less than $100,000, in conformity with the procedures for the reporting of a contract award greater than $25,000 that were in effect on October 1, 1992.
 
 #### (f) Special rules for commercial items
 

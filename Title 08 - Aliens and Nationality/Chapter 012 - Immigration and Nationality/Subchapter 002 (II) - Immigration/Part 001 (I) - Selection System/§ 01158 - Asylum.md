@@ -40,7 +40,7 @@
 
 &emsp;&emsp;Paragraph (1) shall not apply to an alien if the Attorney General determines that—
 
-&emsp;&emsp;&emsp;(i) the alien ordered, incited, assisted, or otherwise participated in the persecution of any person on account of race, religion, nationality, membership in a particular social group, or political opinion;
+&emsp;&emsp;&emsp;(i) the alien ordered, incited, assisted, or otherwise participated in the persecutionof any person on account of race, religion, nationality, membership in a particular social group, or political opinion;
 
 &emsp;&emsp;&emsp;(ii) the alien, having been convicted by a final judgment of a particularly serious crime, constitutes a danger to the community of the United States;
 
@@ -176,7 +176,7 @@ Section 421(b) of Pub. L. 104–132 provided that: “The amendment made by subs
 
 Section 515(b) of Pub. L. 101–649, as amended by Pub. L. 102–232, title III, §306(a)(13), Dec. 12, 1991, 105 Stat. 1752, provided that:
 
-“(1) The amendment made by subsection (a)(1) \[amending this section\] shall apply to convictions entered before, on, or after the date of the enactment of this Act \[Nov. 29, 1990\] and to applications for asylum made on or after such date.
+“(1) The amendment made by subsection (a)(1) \[amending this section\] shall apply to convictions entered before, on, or after the date of the enactment ofthis Act \[Nov. 29, 1990\] and to applications for asylum made on or after such date.
 
 “(2) The amendment made by subsection (a)(2) \[amending section 1253 of this title\] shall apply to convictions entered before, on, or after the date of the enactment of this Act \[Nov. 29, 1990\] and to applications for withholding of deportation made on or after such date.”
 
@@ -214,7 +214,7 @@ Section 204(d)(2) of Pub. L. 96–212 provided that: “The Attorney General sha
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1157, 1182, 1225, 1229a, 1252, 1254a, 1324b, 1324c, 1427, 1534, 1612, 1613, 1622, 1641 of this title; title 7 section 2015; title 22 section 4703; title 42 sections 608, 1436a.
+This section is referred to in sections 1157, 1182, 1225, 1229a, 1252, 1254a, 1324b, 1324c, 1427, 1534, 1574, 1612, 1613, 1622, 1641 of this title; title 7 section 2015; title 22 section 4703; title 42 sections 608, 1436a.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “sections”.</i>
 

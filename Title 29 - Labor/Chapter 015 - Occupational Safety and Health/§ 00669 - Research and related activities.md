@@ -22,7 +22,7 @@ The Secretary of Health and Human Services is authorized to make inspections and
 
 #### (c) Contracting authority of Secretary of Labor; cooperation between Secretary of Labor and Secretary of Health and Human Services
 
-The Secretary is authorized to enter into contracts, agreements, or other arrangements with appropriate public agencies or private organizations for the purpose of conducting studies relating to his responsibilities under this chapter. In carrying out his responsibilities under this subsection, the Secretary shall cooperate with the Secretary of Health and Human Services inorder to avoid any duplication of efforts under this section.
+The Secretary is authorized to enter into contracts, agreements, or other arrangements with appropriate public agencies or private organizations for the purpose of conducting studies relating to his responsibilities under this chapter. In carrying out his responsibilities under this subsection, the Secretary shall cooperate with the Secretary of Health and Human Services in order to avoid any duplication of efforts under this section.
 
 #### (d) Dissemination of information to interested parties
 

@@ -76,7 +76,7 @@ In subsection (b)(1)(B), the words “after the initial issue is completed” ar
 
 In subsection (b)(2), the words “Additional common stock” are substituted for “a number of shares in excess of 331/3 per centum of the total number of common shares issued and outstanding, such excess number” to eliminate unnecessary words. The words “issued and” are omitted because they are included in “outstanding”.
 
-Subsection (c)(1) is substituted for “Dividends shall be fixed at a rate not less than 6 per centum per annum,and shall be cumulative” to eliminate unnecessary words.
+Subsection (c)(1) is substituted for “Dividends shall be fixed at a rate not less than 6 per centum per annum, and shall be cumulative” to eliminate unnecessary words.
 
 In subsection (c)(2), the text of 45:544(a) (last sentence) (A) (last sentence) and the words “for any dividend period” and “at the rate fixed in the articles of incorporation” are omitted as surplus.
 

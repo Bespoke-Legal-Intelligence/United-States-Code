@@ -1,6 +1,6 @@
 ### §715. Staff attorneys and technical assistants
 
-(a) The chief judge of each court of appeals, with the approval of the court, may appoint asenior staff attorney, who shall be subject to removal by the chief judge with the approval of the court.
+(a) The chief judge of each court of appeals, with the approval of the court, may appoint a senior staff attorney, who shall be subject to removal by the chief judge with the approval of the court.
 
 (b) The senior staff attorney, with the approval of the chief judge, may appoint necessary staff attorneys and secretarial and clerical employees in such numbers as the Director of the Administrative Office of the United States Courts may approve, but in no event may the number of staff attorneys exceed the number of positions expressly authorized in an annual appropriation Act. The senior staff attorney may remove such staff attorneys and secretarial and clerical employees with the approval of the chief judge.
 

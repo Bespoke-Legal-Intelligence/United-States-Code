@@ -86,5 +86,5 @@ A prior section 1933 of act Aug. 14, 1935, was renumbered section 1935 and is cl
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1396a, 1396d of this title.
+This section is referred to in sections 1320b–14, 1396a, 1396d of this title.
 

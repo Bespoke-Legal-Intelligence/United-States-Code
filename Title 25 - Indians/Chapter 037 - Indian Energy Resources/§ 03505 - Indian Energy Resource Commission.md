@@ -64,7 +64,7 @@ While away from their homes or regular places of business in the performance of 
 
 #### (3) Experts and consultants
 
-&emsp;Subject to such rules as may be issued by the Commission, the Chairperson may procuretemporary and intermittent services of experts and consultants to the same extent as is authorized by section 3109 of title 5, but at rates not to exceed $200 a day for individuals.
+&emsp;Subject to such rules as may be issued by the Commission, the Chairperson may procure temporary and intermittent services of experts and consultants to the same extent as is authorized by section 3109 of title 5, but at rates not to exceed $200 a day for individuals.
 
 #### (4) Personnel detail authorized
 

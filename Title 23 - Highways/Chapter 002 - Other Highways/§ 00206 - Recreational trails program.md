@@ -100,7 +100,7 @@ Waiver authority.—A State recreational trail advisory committee established un
 
 &emsp;&emsp;(D)
 
-State administrative costs.—State administrative costs eligible for fundingunder paragraph (2)(F) shall be exempt from the requirements of subparagraph (A).
+State administrative costs.—State administrative costs eligible for funding under paragraph (2)(F) shall be exempt from the requirements of subparagraph (A).
 
 &emsp;(4)
 

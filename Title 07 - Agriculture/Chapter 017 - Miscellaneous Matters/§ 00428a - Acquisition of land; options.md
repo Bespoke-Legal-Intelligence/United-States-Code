@@ -6,10 +6,6 @@
 
 (Aug. 3, 1956, ch. 950, §11, 70 Stat. 1034.)
 
-#### Cross References
-
-Adjustment of title to lands under jurisdiction of Secretary of Agriculture, see section 2253 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in title 16 section 2103c.

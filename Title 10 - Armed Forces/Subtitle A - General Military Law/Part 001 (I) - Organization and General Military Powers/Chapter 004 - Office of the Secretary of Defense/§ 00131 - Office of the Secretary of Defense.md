@@ -28,7 +28,7 @@
 
 (c) Officers of the armed forces may be assigned or detailed to permanent duty in the Office of the Secretary of Defense. However, the Secretary may not establish a military staff in the Office of the Secretary of Defense.
 
-(d) The Secretary of each military department, and the civilian employees and members of the armed forces under the jurisdiction of the Secretary, shall cooperate fully with personnel of the Office of the Secretary of Defense to achieve efficient administration of the Department of Defense and to carry out effectively theauthority, direction, and control of the Secretary of Defense.
+(d) The Secretary of each military department, and the civilian employees and members of the armed forces under the jurisdiction of the Secretary, shall cooperate fully with personnel of the Office of the Secretary of Defense to achieve efficient administration of the Department of Defense and to carry out effectively the authority, direction, and control of the Secretary of Defense.
 
 (Added Pub. L. 99–433, title I, §104, Oct. 1, 1986, 100 Stat. 996; amended Pub. L. 103–160, div. A, title IX, §906(a), Nov. 30, 1993, 107 Stat. 1729; Pub. L. 103–337, div. A, title IX, §903(b)(1), Oct. 5, 1994, 108 Stat. 2823; Pub. L. 104–106, div. A, title IX, §903(e)(1), Feb. 10, 1996, 110 Stat. 402; Pub. L. 104–201, div. A, title IX, §901, Sept. 23, 1996, 110 Stat. 2617; Pub. L. 106–65, div. A, title IX, §911(d)(1), Oct. 5, 1999, 113 Stat. 719.)
 

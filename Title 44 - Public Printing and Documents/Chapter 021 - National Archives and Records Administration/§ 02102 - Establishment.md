@@ -1,6 +1,6 @@
 ### §2102. Establishment
 
-There shall be an independent establishment in the executive branch of the Government to beknown as the National Archives and Records Administration. The Administration shall be administered under the supervision and direction of the Archivist.
+There shall be an independent establishment in the executive branch of the Government to be known as the National Archives and Records Administration. The Administration shall be administered under the supervision and direction of the Archivist.
 
 (Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1287; Pub. L. 98–497, title I, §101, Oct. 19, 1984, 98 Stat. 2280.)
 
@@ -50,9 +50,9 @@ Sec. 103. (a) The National Archives and Records Service of the General Services 
 
 “(b)(1) All functions which were assigned to the Administrator of General Services by section 6 of Executive Order No. 10530 of May 11, 1954 (19 Fed. Reg. 2709 \[set out as a note under section 301 of Title 3, The President\]; relating to documents and the Administrative Committee of the Federal Register), and by Executive Order Nunbered \[sic\] 11440 of December 11, 1968 (33 Fed. Reg. 18475 \[set out as a note under section 2109 of this title\]; relating to supplemental use of Federal exhibits and displays), shall be exercised by the Archivist of the United States.
 
-“(2) All functions pertaining to the maintenance, operation, and protection of a Presidential archival depository which were assigned to the Administrator of General Services by the Act of September 6, 1965 (Public Law 89–169, 79 Stat. 648) \[set out as a note under section 2112 of this title\], relating to the Lyndon Baines Johnson Presidential Archival Depository, and by the Act of August 27, 1966 (Public Law 89–547, 80 Stat. 370) \[set out as a note under section 2112 of this title\] and the Act of May 26, 1977 (Public Law 95–34, 91 Stat. 174), relating to the John Fitzgerald Kennedy Library, shall be exercised by the Archivist of the United States.
+“(2) All functions pertaining to the maintenance, operation, and protection of a Presidential archival depository which were assigned to the Administrator of General Services by the Act of September 6, 1965 (Public Law 89–169, 79 Stat. 648) \[set out as a note under section 2112 of this title\], relating to the Lyndon Baines Johnson Presidential Archival Depository, and by the Act of August 27, 1966 (Public Law 89–547, 80 Stat. 370) \[set out as a note under section 2112 of this title\] andthe Act of May 26, 1977 (Public Law 95–34, 91 Stat. 174), relating to the John Fitzgerald Kennedy Library, shall be exercised by the Archivist of the United States.
 
-“(c) In the exercise of the functions transferred by this Act \[Pub. L. 98–497\] and the amendments made bythis Act, the Archivist shall have the same authority as had the Administrator of General Services prior to the transfer of such functions, and the actions of the Archivist shall have the same force and effect as when exercised by such Administrator.
+“(c) In the exercise of the functions transferred by this Act \[Pub. L. 98–497\] and the amendments made by this Act, the Archivist shall have the same authority as had the Administrator of General Services prior to the transfer of such functions, and the actions of the Archivist shall have the same force and effect as when exercised by such Administrator.
 
 “(d) Prior to the appointment and confirmation of an individual to serve as Archivist of the United States under section 2103 of title 44, United States Code, the individual holding the office of Archivist of the United States on the day before the effective date of this Act \[Apr. 1, 1985\] may serve as Archivist under such section, and while so serving shall be compensated at the rate provided under subsection (b) of such section.
 

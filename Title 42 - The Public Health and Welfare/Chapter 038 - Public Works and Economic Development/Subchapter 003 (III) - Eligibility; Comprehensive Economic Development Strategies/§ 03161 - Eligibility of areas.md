@@ -48,5 +48,5 @@ A prior section 301 of Pub. L. 89–136 was classified to section 3151 of this t
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3122, 3145, 3175, 3192, 3195, 9815 of this title; title 19 section 2371.
+This section is referred to in sections 3122, 3145, 3175, 3192, 3195, 9815 of this title.
 

@@ -80,7 +80,7 @@
 
 #### (1) In general
 
-&emsp;The Assistant Secretary is authorized to prepare and publish such information, reports,and documents as may be of value in carrying out the purposes of this subchapter without further clearance or approval by the Secretary or any other office of the Department of Education.
+&emsp;The Assistant Secretary is authorized to prepare and publish such information, reports, and documents as may be of value in carrying out the purposes of this subchapter without further clearance or approval by the Secretary or any other office of the Department of Education.
 
 #### (2) Quality assurance
 
@@ -150,7 +150,7 @@ The Assistant Secretary shall transmit to the President and the Congress by not 
 
 Report.—(i) Not later than 6 months after the first meeting of the Board and by October 1 of every second year thereafter, the Assistant Secretary shall publish a report specifying the proposed research priorities of the Office and allow a 60-day period beginning on the date of the publication of the report for public comment and suggestions.
 
-&emsp;(ii) Not later than 90 days after the expiration of the 60-day period referred to in clause\(i), the Assistant Secretary shall submit to the Board a report specifying the proposed research priorities of the Office and any public comment and suggestions obtained under such subparagraph for the Board's review and approval.
+&emsp;(ii) Not later than 90 days after the expiration of the 60-day period referred to in clause (i), the Assistant Secretary shall submit to the Board a report specifying the proposed research priorities of the Office and any public comment and suggestions obtained under such subparagraph for the Board's review and approval.
 
 #### (g) Coordination
 
@@ -206,7 +206,7 @@ In carrying out such program of coordination, the Assistant Secretary shall comp
 
 &emsp;&emsp;(iii) which meet the requirements of subparagraph (F) of paragraph (2) not later than 3 years after March 31, 1994.
 
-&emsp;(B) Following the publication of such proposed standards, the Assistant Secretary shall solicit comments from interested members of the public with respect to such proposed standards for a period of not more than 120 days. After giving due consideration to any comments which may have been received, the Assistant Secretary shall transmit such standards to the Board for its review and approval.
+&emsp;(B) Following the publication of such proposed standards, the Assistant Secretary shall solicit comments from interested members of the public with respect to such proposed standards for a period of not more than 120days. After giving due consideration to any comments which may have been received, the Assistant Secretary shall transmit such standards to the Board for its review and approval.
 
 &emsp;(C) Upon the approval of the Board, the Assistant Secretary shall transmit final standards to the Secretary which meet the requirements of the particular subparagraphs of paragraph (2) for which such standards were developed. Such standards shall be binding upon all activities carried out with funds appropriated pursuant to subsection (m) of this section.
 
@@ -216,7 +216,7 @@ In carrying out the activities and programs of the Office, the Assistant Secreta
 
 &emsp;(1) shall be guided by the Research Priorities Plan developed by the Assistant Secretary working collaboratively with the Board and which has been approved by the Board;
 
-&emsp;(2) shall ensure that there is broad and regular public and professional involvement from the educational field in the planning and carrying out of the Office's activities, including establishing teacher advisory boards for anyprogram office, program or project of the Office as the Assistant Secretary deems necessary and involving Indian and Alaska Native researchers and educators in activities that relate to the education of Indian and Alaska Native people;
+&emsp;(2) shall ensure that there is broad and regular public and professional involvement from the educational field in the planning and carrying out of the Office's activities, including establishing teacher advisory boards for any program office, program or project of the Office as the Assistant Secretary deems necessary and involving Indian and Alaska Native researchers and educators in activities that relate to the education of Indian and Alaska Native people;
 
 &emsp;(3) shall ensure that the selection of research topics and the administration of the program are free from undue partisan political influence;
 
@@ -276,7 +276,7 @@ For purposes of this subchapter, the following definitions apply:
 
 #### (9) Office
 
-&emsp;The term “Office”, unless otherwise specified, means the Office of Educational Research and Improvement established in section 3419 of this title.
+&emsp;The term “Office”, unless otherwise specified, means the Office of Educational Researchand Improvement established in section 3419 of this title.
 
 #### (10) National research institute
 
@@ -288,7 +288,7 @@ For purposes of this subchapter, the following definitions apply:
 
 #### (12) United States; State
 
-&emsp;The terms “United States” and “State” means <sup>2</sup> each of the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands,the Commonwealth of the Northern Mariana Islands, Palau (until the effective date of the Compact of Free Association with the Government of Palau), the Republic of the Marshall Islands, and the Federated States of Micronesia.
+&emsp;The terms “United States” and “State” means <sup>2</sup> each of the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, the Commonwealth of the Northern Mariana Islands, Palau (until the effective date of the Compact of Free Association with the Government of Palau), the Republic of the Marshall Islands, and the Federated States of Micronesia.
 
 #### (m) Authorization of appropriations
 

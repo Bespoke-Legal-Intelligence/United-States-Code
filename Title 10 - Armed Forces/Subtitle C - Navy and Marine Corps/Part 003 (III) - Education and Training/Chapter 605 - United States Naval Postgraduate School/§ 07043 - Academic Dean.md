@@ -1,10 +1,10 @@
 ### §7043. Academic Dean
 
-(a) There is at the Naval Postgraduate School the civilian position of Academic Dean. The Academic Dean shall be appointed, to serve for periods of not more than five years, by the Secretary of the Navy upon the recommendation of the Postgraduate School Council consisting of the Superintendent, the Deputy Superintendent, and the directors of the Technical, Administrative, and Professional Divisions of the school.
+(a) There is at the Naval Postgraduate School the civilian position of Academic Dean. The Academic Dean shall be appointed, to serve for periods of not more than five years, by the Secretary of the Navy upon the recommendation of the Postgraduate School Council consisting of the Superintendent, the Deputy Superintendent,and the directors of the Technical, Administrative, and Professional Divisions of the school.
 
 (b) The Academic Dean is entitled to such compensation for his services as the Secretary prescribes, but not more than the rate of compensation authorized for level IV of the Executive Schedule.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 437; Pub. L. 85–861, §1(148), Sept. 2, 1958, 72 Stat. 1513; Pub. L.89–536, Aug. 11, 1966, 80 Stat. 346; Pub. L. 96–513, title V, §513(22), Dec. 12, 1980, 94 Stat. 2932; Pub. L. 105–85, div. A, title V, §551(c), Nov. 18, 1997, 111 Stat. 1748.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 437; Pub. L. 85–861, §1(148), Sept. 2, 1958, 72 Stat. 1513; Pub. L. 89–536, Aug. 11, 1966, 80 Stat. 346; Pub. L. 96–513, title V, §513(22), Dec. 12, 1980, 94 Stat. 2932; Pub. L. 105–85, div. A, title V, §551(c), Nov. 18, 1997, 111 Stat. 1748.)
 
 Historical and Revision Notes<br>1956
 
@@ -63,10 +63,6 @@ Level IV of the Executive Schedule, referred to in subsec. (b), is set out in se
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
-
-#### Cross References
-
-Retirement, see section 7081 et seq. of this title.
 
 #### Section Referred to in Other Sections
 

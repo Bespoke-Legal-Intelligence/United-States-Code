@@ -24,7 +24,7 @@ Minor changes were made to conform to Rule 12 of the Federal Rules of Criminal P
 
 #### 1949 Act
 
-This section \[section 58\] corrects a typographical error in the second paragraph of section 3731 of title 18,U.S.C., and conforms the language of the fifth, tenth, and eleventh paragraphs of such section 3731 with the changed nomenclature of title 28, U.S.C., Judiciary and Judicial Procedure. See sections 41, 43, and 451 of the latter title.
+This section \[section 58\] corrects a typographical error in the second paragraph of section 3731 of title 18, U.S.C., and conforms the language of the fifth, tenth, and eleventh paragraphs of such section 3731 with the changed nomenclature of title 28, U.S.C., Judiciary and Judicial Procedure. See sections 41, 43, and 451 of the latter title.
 
 #### Amendments
 
@@ -55,12 +55,6 @@ Fifth par. Pub. L. 91–644, §14(a)(3), substituted as a fifth par. provision f
 #### Savings Provision
 
 Section 14(b) of Pub. L. 91–644 provided that: “The amendments made by this section \[amending this section\] shall not apply with respect to any criminal case begun in any district court before the effective date of this section \[Jan. 2, 1971\].”
-
-#### Cross References
-
-Appellate jurisdiction of courts of appeals, see section 1291 of Title 28, Judiciary and Judicial Procedure.
-
-Prosecution in territory or Commonwealth authorized to seek review in appropriate local or Federal appellate courts, see section 1493 of Title 48, Territories and Insular Possessions.
 
 #### Section Referred to in Other Sections
 

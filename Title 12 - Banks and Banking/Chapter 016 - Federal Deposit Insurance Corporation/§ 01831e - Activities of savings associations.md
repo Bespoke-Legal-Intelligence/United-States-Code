@@ -62,7 +62,7 @@ Notwithstanding subsection (a)(1) of this section, if an activity (other than an
 
 #### (B) Treatment of noncompliance during divestment
 
-&emsp;&emsp;With respect to any corporate debt security not of investment grade held by any savings association or subsidiary on August 9, 1989, the savings association or subsidiary shall be deemed not to be in violation of the prohibition in paragraph (1) on retaining such investment so long as the association or subsidiary complies with any applicable requirement established by the Corporation pursuant to subparagraph (A) for divesting such securities.
+&emsp;&emsp;With respect to any corporate debt security not of investment grade held by any savings association or subsidiary on August 9, 1989, the savings association or subsidiary shall be deemed not to be in violation of the prohibition in paragraph (1) on retainingsuch investment so long as the association or subsidiary complies with any applicable requirement established by the Corporation pursuant to subparagraph (A) for divesting such securities.
 
 #### (4) Definitions
 
@@ -78,7 +78,7 @@ Notwithstanding subsection (a)(1) of this section, if an activity (other than an
 
 &emsp;&emsp;&emsp;(i) in the case of a stock savings association, an affiliate other than a subsidiary or an insured depository institution; and
 
-&emsp;&emsp;&emsp;(ii) in the case of a mutual savings association, a subsidiary other than an insureddepository institution, so long as all of the savings association's investments in and extensions of credit to the subsidiary are deducted from the savings association's capital.
+&emsp;&emsp;&emsp;(ii) in the case of a mutual savings association, a subsidiary other than an insured depository institution, so long as all of the savings association's investments in and extensions of credit to the subsidiary are deducted from the savings association's capital.
 
 #### (C) Certain securities not included
 
@@ -178,11 +178,9 @@ This section may not be construed as limiting—
 
 (Sept. 21, 1950, ch. 967, §2\[28\], as added Pub. L. 101–73, title II, §222, Aug. 9, 1989, 103 Stat. 269; amended Pub. L. 102–242, title I, §151(a)(3), Dec. 19, 1991, 105 Stat. 2284; Pub. L. 103–325, title VI, §602(a)(56)–(58), Sept. 23, 1994, 108 Stat. 2290, 2291; Pub. L. 104–208, div. A, title II, §2704(d)(14)(X), Sept. 30, 1996, 110 Stat. 3009–494.)
 
-#### Amendment of Section
-
-<i>Pub. L. 104–208, div. A, title II, §2704(c), (d)(14)(X), Sept. 30, 1996, 110 Stat. 3009–487, 3009–494, provided that, effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, this section is amended by striking “affected deposit insurance fund” each place such term appears and inserting “Deposit Insurance Fund”.</i>
-
 #### Amendments
+
+1996—Subsecs. (a)(1), (b)(1), (c)(2)(A). Pub. L. 104–208, which directed substitution of “Deposit Insurance Fund” for “affected deposit insurance fund”, was not executed. See Effective Date of 1996 Amendment note below.
 
 1994—Subsec. (c)(2)(A)(i). Pub. L. 103–325, §602(a)(56), substituted “; or” for “, or”.
 

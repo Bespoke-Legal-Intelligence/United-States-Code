@@ -1,5 +1,5 @@
 
-43 U.S.C.<br>United States Code, 1999 Edition<br>Title 43 - PUBLIC LANDS<br>From the U.S. Government Publishing Office, www.gpo.gov
+43 U.S.C.<br>United States Code, 2000 Edition<br>Title 43 - PUBLIC LANDS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 43—PUBLIC LANDS
 
@@ -54,16 +54,9 @@
 | [<b>38.</b>](Chapter%20038%20-%20Crude%20Oil%20Transportation%20Systems/README.md) | <b>Crude Oil Transportation Systems</b> | <b>2001</b> |
 | [<b>39.</b>](Chapter%20039%20-%20Abandoned%20Shipwrecks/README.md) | <b>Abandoned Shipwrecks</b> | <b>2101</b> |
 | [<b>40.</b>](Chapter%20040%20-%20Reclamation%20States%20Emergency%20Drought%20Relief/README.md) | <b>Reclamation States Emergency Drought Relief</b> | <b>2201</b> |
+| [<b>41.</b>](Chapter%20041%20-%20Federal%20Land%20Transaction%20Facilitation/README.md) | <b>Federal Land Transaction Facilitation</b> | <b>2301.</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Cross References
-
-Mineral lands, see Title 30, Mineral Lands and Mining.
-
-Protection of timber on public lands from fire, disease or insect ravages, see section 594 of Title 16, Conservation.
-
-Right of action for death or personal injury within national park or other place under exclusive jurisdiction of United States as governed by State laws, see section 457 of Title 16.
 
 
 ---
@@ -119,3 +112,4 @@ Right of action for death or personal injury within national park or other place
 - [Chapter 038 - Crude Oil Transportation Systems](Chapter%20038%20-%20Crude%20Oil%20Transportation%20Systems/README.md)
 - [Chapter 039 - Abandoned Shipwrecks](Chapter%20039%20-%20Abandoned%20Shipwrecks/README.md)
 - [Chapter 040 - Reclamation States Emergency Drought Relief](Chapter%20040%20-%20Reclamation%20States%20Emergency%20Drought%20Relief/README.md)
+- [Chapter 041 - Federal Land Transaction Facilitation](Chapter%20041%20-%20Federal%20Land%20Transaction%20Facilitation/README.md)

@@ -32,12 +32,6 @@ In subsection (b), the words “upon relief from that duty” are substituted fo
 
 1988—Subsec. (a). Pub. L. 100–456 struck out “, the Canal Zone,” after “Puerto Rico”.
 
-#### Cross References
-
-Active duty, see sections 12301 and 12401 of Title 10, Armed Forces.
-
-Return of arms and equipment upon relief from Federal service, see section 706 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 706 of this title.

@@ -8,13 +8,11 @@ The Secretary, acting through the Director of the United States Bureau of Mines,
 
 On or before the first day of July in each year beginning after August 29, 1984, the Secretary shall ascertain whether the requirements of section 1223(a) of this title have been met as to each institute and State.
 
-#### (c) Annual report to Congress
-
-The Secretary shall make an annual report to the Congress of the receipts, expenditures, and work of the institutes in all States under the provisions of this subchapter. The Secretary's report shall indicate whether any portion of an appropriation available for allotment to any State has been withheld and, if so, the reason therefor.
-
 (Pub. L. 98–409, §4, Aug. 29, 1984, 98 Stat. 1538; Pub. L. 100–483, §6, Oct. 12, 1988, 102 Stat. 2340; Pub. L. 102–285, §10(b), May 18, 1992, 106 Stat. 172.)
 
 #### Codification
+
+Subsec. (c) of this section, which required the Secretary to make an annual report to Congress on the receipts, expenditures, and work of the institutes in all States under the provisions of this subchapter, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 109 of House Document No. 103–7.
 
 Section was enacted as part of the Mining and Mineral Resources Research Institute Act of 1984, and not as part of the Surface Mining Control and Reclamation Act of 1977 which comprises this chapter.
 

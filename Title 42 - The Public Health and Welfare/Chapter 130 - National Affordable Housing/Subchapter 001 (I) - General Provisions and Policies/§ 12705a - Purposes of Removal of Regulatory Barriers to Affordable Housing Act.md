@@ -24,10 +24,6 @@ Section 1201 of title XII of Pub. L. 102–550 provided that: “This title \[en
 
 Pub. L. 102–550, title XII, §1207, Oct. 28, 1992, 106 Stat. 3941, provided that not later than 2 years after Oct. 28, 1992, the Secretary of Housing and Urban Development submit a report to Congress describing any successful State and local strategies for removal of barriers to affordable housing, assessing impact of identified regulatory barriers on housing patterns of minorities, and describing any strategies developed or implemented by Department of Housing and Urban Development for reducing barriers to affordable housing imposed by Federal Government, prior to repeal by Pub. L. 105–362, title VII, §701(b), Nov. 10, 1998, 112 Stat. 3287.
 
-#### Act Referred to in Other Sections
-
-The Removal of Regulatory Barriers to Affordable Housing Act of 1992 is referred to in section 5307 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 12705b of this title.

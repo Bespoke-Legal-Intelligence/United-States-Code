@@ -18,7 +18,7 @@ The Secretary of State—
 
 (2)(A) Except as provided in subparagraph (B), with respect to funds authorized to be appropriated by this part and available for the International Atomic Energy Agency, the limitations of subsection (a) of this section shall apply to programs or projects of such Agency in Cuba.
 
-(B)(i) Subparagraph (A) shall not apply with respect to programs or projects of the International Atomic Energy Agency that provide for the discontinuation, dismantling, or safety inspection of nuclear facilities or related materials, or for inspections and similar activities designed to prevent the development of nuclear weapons by a country described in subsection (a) of this section.
+(B)(i) Subparagraph (A) shall not apply with respect to programs or projects of the International Atomic Energy Agency that provide for the discontinuation, dismantling, or safety inspection of nuclear facilities or related materials, or for inspections and similar activities designed to prevent the development of nuclearweapons by a country described in subsection (a) of this section.
 
 (ii) Clause (i) shall not apply with respect to the Juragua Nuclear Power Plant near Cienfuegos, Cuba, or the Pedro Pi Nuclear Research Center unless Cuba—
 
@@ -28,7 +28,7 @@ The Secretary of State—
 
 &emsp;(III) incorporates internationally accepted nuclear safety standards.
 
-(Pub. L. 87–195, pt. I, §307, as added Pub. L. 99–83, title IV, §403, Aug. 8, 1985, 99 Stat. 219; amendedPub. L. 103–236, title IV, §431(a), Apr. 30, 1994, 108 Stat. 459; Pub. L. 105–277, div. A, §101(d) \[title V, §516\], div. G, subdiv. B, title XXVIII, §2809(a), Oct. 21, 1998, 112 Stat. 2681–150, 2681–174, 2681–849.)
+(Pub. L. 87–195, pt. I, §307, as added Pub. L. 99–83, title IV, §403, Aug. 8, 1985, 99 Stat. 219; amended Pub. L. 103–236, title IV, §431(a), Apr. 30, 1994, 108 Stat. 459; Pub. L. 105–277, div. A, §101(d) \[title V, §516\], div. G, subdiv. B, title XXVIII, §2809(a), Oct. 21, 1998, 112 Stat. 2681–150, 2681–174, 2681–849.)
 
 #### Amendments
 

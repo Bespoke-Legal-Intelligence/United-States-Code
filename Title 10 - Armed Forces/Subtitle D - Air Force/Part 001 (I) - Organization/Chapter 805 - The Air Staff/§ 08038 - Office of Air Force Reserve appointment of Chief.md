@@ -2,15 +2,31 @@
 
 (a) There is in the executive part of the Department of the Air Force an Office of Air Force Reserve which is headed by a chief who is the adviser to the Chief of Staff on Air Force Reserve matters.
 
-(b) The President, by and with the advice and consent of the Senate, shall appoint the Chief of Air Force Reserve from officers of the Air Force Reserve not on active duty, or on active duty under section 10211 of this title, who—
+(b)
 
-&emsp;(1) have had at least 10 years of commissioned service in the Air Force;
+Appointment.—(1) The President, by and with the advice and consent of the Senate, shall appoint the Chief of Air Force Reserve from general officers of the Air Force Reserve who have had at least 10 years of commissioned service in the Air Force.
 
-&emsp;(2) are in grade of brigadier general and above; and
+(2) The Secretary of Defense may not recommend an officer to the President for appointment as Chief of Air Force Reserve unless the officer—
 
-&emsp;(3) have been recommended by the Secretary of the Air Force.
+&emsp;(A) is recommended by the Secretary of the Air Force; and
 
-(c) The Chief of Air Force Reserve holds office for four years, but may be removed for cause at any time. He is eligible to succeed himself. If he holds a lower reserve grade, he shall be appointed in the grade of major general for service in the Air Force Reserve. However, if selected in accordance with section 12505 of this title, he may be appointed in the grade of lieutenant general.
+&emsp;(B) is determined by the Chairman of the Joint Chiefs of Staff, in accordance with criteria and as a result of a process established by the Chairman, to have significant joint duty experience.
+
+(3) An officer on active duty for service as the Chief of Air Force Reserve shall be counted for purposes of the grade limitations under sections 525 and 526 of this title.
+
+(4) Until October 1, 2003, the Secretary of Defense may waive subparagraph (B) of paragraph (2) with respect to the appointment of an officer as Chief of Air Force Reserve if the Secretary of the Air Force requests the waiver and, in the judgment of the Secretary of Defense—
+
+&emsp;(A) the officer is qualified for service in the position; and
+
+&emsp;(B) the waiver is necessary for the good of the service.
+
+> Any such waiver shall be made on a case-by-case basis.
+
+(c)
+
+Term; Reappointment; Grade.—(1) The Chief of Air Force Reserve is appointed for a period of four years, but may be removed for cause at any time. An officer serving as Chief of Air Force Reserve may be reappointed for one additional four-year period.
+
+(2) The Chief of Air Force Reserve, while so serving, holds the grade of lieutenant general.
 
 (d)
 
@@ -22,13 +38,23 @@ Full Time Support Program.—The Chief of Air Force Reserve manages, with respec
 
 (f)
 
-Annual Report.—(1) The Chief of Air Force Reserve shall submit to the Secretary of Defense, through the Secretary of the Air Force, an annual report on the state of the Air Force Reserve and the ability of the Air Force Reserve to meet its missions. The report shall be prepared in conjunction with the Chief of Staff of the Air Force and may be submitted in classified and unclassified versions.
+Annual Report.—(1) The Chief of Air Force Reserve shall submit to the Secretary of Defense, through the Secretary of the Air Force, an annual report on the state of the Air Force Reserve and the ability of the Air Force Reserveto meet its missions. The report shall be prepared in conjunction with the Chief of Staff of the Air Force and may be submitted in classified and unclassified versions.
 
 (2) The Secretary of Defense shall transmit the annual report of the Chief of Air Force Reserve under paragraph (1) to Congress, together with such comments on the report as the Secretary considers appropriate. The report shall be transmitted at the same time each year that the annual report of the Secretary under section 113 of this title is submitted to Congress.
 
-(Added Pub. L. 90–168, §2(19), Dec. 1, 1967, 81 Stat. 524, §8019; renumbered §8038 and amended Pub. L. 99–433, title V, §§521(a)(2), 522(g)(3), Oct. 1, 1986, 100 Stat. 1055, 1063; Pub. L. 103–337, div. A, title XVI, §1674(c)(1), Oct. 5, 1994, 108 Stat. 3016; Pub. L. 104–201, div. A, title XII, §1212(d), Sept. 23, 1996, 110 Stat. 2693; Pub. L. 105–85, div. A, title X, §1073(a)(65), Nov. 18, 1997, 111 Stat. 1904; Pub. L. 106–65, div. A, title V, §554(e), Oct. 5, 1999, 113 Stat. 617.)
+(Added Pub. L. 90–168, §2(19), Dec. 1, 1967, 81 Stat. 524, §8019; renumbered §8038 and amended Pub. L. 99–433, title V, §§521(a)(2), 522(g)(3), Oct. 1, 1986, 100 Stat. 1055, 1063; Pub. L. 103–337, div. A, title XVI, §1674(c)(1), Oct. 5, 1994, 108 Stat. 3016; Pub. L. 104–201, div. A, title XII, §1212(d), Sept. 23, 1996, 110 Stat. 2693; Pub. L. 105–85, div. A, title X, §1073(a)(65), Nov. 18, 1997, 111 Stat. 1904; Pub. L. 106–65, div. A, title V, §554(e), Oct. 5, 1999, 113 Stat. 617; Pub. L. 106–398, §1 \[\[div. A\], title V, §507(d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–104.)
 
 #### Amendments
+
+2000—Subsec. (b). Pub. L. 106–398 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The President, by and with the advice and consent of the Senate, shall appoint the Chief of Air Force Reserve from officers of the Air Force Reserve not on active duty, or on active duty under section 10211 of this title, who—
+
+&emsp;“(1) have had at least 10 years of commissioned service in the Air Force;
+
+&emsp;“(2) are in grade of brigadier general and above; and
+
+&emsp;“(3) have been recommended by the Secretary of the Air Force.”
+
+Subsec. (c). Pub. L. 106–398 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Chief of Air Force Reserve holds office for four years, but may be removed for cause at any time. He is eligible to succeed himself. If he holds a lower reserve grade, he shall be appointed in the grade of major general for service in the Air Force Reserve. However, if selected in accordance with section 12505 of this title, he may be appointed in the grade of lieutenant general.”
 
 1999—Subsec. (c). Pub. L. 106–65 inserted at end “However, if selected in accordance with section 12505 of this title, he may be appointed in the grade of lieutenant general.”
 
@@ -42,7 +68,7 @@ Annual Report.—(1) The Chief of Air Force Reserve shall submit to the Secretar
 
 #### Effective Date of 1999 Amendment; Applicability to Incumbents
 
-Amendment by Pub. L. 106–65 effective 60 days after Oct. 5, 1999, with special provision for an officer who is a covered position incumbent who is appointed under that amendment to the grade of lieutenant general or vice admiral, see section 554(g), (h) of Pub. L. 106–65, set out as an Effective Date note under section 12505 of this title.
+Amendment by Pub. L. 106–65 effective 60 days after Oct. 5, 1999, with special provision for an officer who is a covered position incumbent who is appointed under that amendment to the grade of lieutenant general or vice admiral, see section 554(g), (h) of Pub. L. 106–65, set out as a note under section 3038 of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -54,5 +80,5 @@ Section effective on first day of first calendar month following date of enactme
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 641, 12505 of this title.
+This section is referred to in section 641 of this title.
 

@@ -14,7 +14,7 @@ A prior section 701 of act July 1, 1944, was classified to section 292a of this 
 
 #### Effective Date
 
-Section 103 of Pub. L. 102–408 provided that: “The amendment made by section 102 \[enacting this subchapter\] takes effect on the date of the enactment of this Act \[Oct. 13, 1992\], except that section 708 of thePublic Health Service Act \[section 292g of this title\], as added by section 102 of this Act, takes effect January 1, 1993. Until such date, section 732(c) of the Public Health Service Act \[former section 294e(c) of this title\], as in effect on the day before the date of the enactment of this Act, continues in effect in lieu of such section 708.”
+Section 103 of Pub. L. 102–408 provided that: “The amendment made by section 102 \[enacting this subchapter\] takes effect on the date of the enactment of this Act \[Oct. 13, 1992\], except that section 708 of the Public Health Service Act \[section 292g of this title\], as added by section 102 of this Act, takes effect January 1, 1993. Until such date, section 732(c) of the Public Health Service Act \[former section 294e(c) of this title\], as in effect on the day before the date of the enactment of this Act, continues in effect in lieu of such section 708.”
 
 #### Study on Effectiveness of Health Professions Programs
 
@@ -40,7 +40,7 @@ Certain Requirements.—The study conducted under subsection (a) shall determine
 
 &emsp;“(3) whether or not funding under title VIII of such Act \[subchapter VI of this chapter\] has increased the number of nurses in medically underserved or rural communities;
 
-&emsp;“(4) whether or not the various mechanisms under such titles VII and VIII (such as scholarships, fellowships, traineeships, loan repayment programs, project grants, and education centers) have been effective in producing health care professionals who work or practice in medically underserved and rural communities and the relative impact or effectiveness of each mechanism;
+&emsp;“(4) whether or not the various mechanisms under such titles VII and VIII (such as scholarships, fellowships, traineeships, loan repayment programs, project grants, and education centers) have been effective in producing health care professionals who work orpractice in medically underserved and rural communities and the relative impact or effectiveness of each mechanism;
 
 &emsp;“(5) the duration of service in medically underserved communities (as defined in section 799 of such Act) of health professionals whose training was funded by such titles or who received financial incentives under such titles to practice in such communities;
 

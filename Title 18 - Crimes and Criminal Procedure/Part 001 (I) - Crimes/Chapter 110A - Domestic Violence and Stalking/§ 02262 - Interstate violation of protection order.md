@@ -6,19 +6,11 @@ Offenses.—
 
 &emsp;(1)
 
-Crossing a state line.—A person who travels across a State line or enters or leaves Indian country with the intent to engage in conduct that—
-
-&emsp;&emsp;(A)(i) violates the portion of a protection order that involves protection against credible threats of violence, repeated harassment, or bodily injury to the person or persons for whom the protection order was issued; or
-
-&emsp;&emsp;(ii) would violate this subparagraph if the conduct occurred in the jurisdiction in which the order was issued; and
-
-&emsp;&emsp;(B) subsequently engages in such conduct,
-
-> &emsp;shall be punished as provided in subsection (b).
+Travel or conduct of offender.—A person who travels in interstate or foreign commerce, or enters or leaves Indian country, with the intent to engage in conduct that violates the portion of a protection order that prohibits or provides protection against violence, threats, or harassment against, contact or communication with, or physical proximity to, another person, or that would violate such a portion of a protection order in the jurisdiction in which the order was issued, and subsequently engages in such conduct, shall be punished as provided in subsection (b).
 
 &emsp;(2)
 
-Causing the crossing of a state line.—A person who causes a spouse or intimate partner to cross a State line or to enter or leave Indian country by force, coercion, duress, or fraud, and, in the course or as a result of that conduct, intentionally commits an act that injures the person's spouse or intimate partner in violation of a valid protection order issued by a State shall be punished as provided in subsection (b).
+Causing travel of victim.—A person who causes another person to travel in interstate or foreign commerce or to enter or leave Indian country by force, coercion, duress, or fraud, and in the course of, as a result of, or to facilitate such conduct or travel engages in conduct that violates the portion of a protection order that prohibits or provides protection against violence, threats, or harassment against, contact or communication with, or physical proximity to, another person, or that would violate such a portion of a protection order in the jurisdiction in which the order was issued, shall be punished as provided in subsection (b).
 
 (b)
 
@@ -36,9 +28,27 @@ Penalties.—A person who violates this section shall be fined under this title,
 
 > or both fined and imprisoned.
 
-(Added Pub. L. 103–322, title IV, §40221(a), Sept. 13, 1994, 108 Stat. 1927; amended Pub. L. 104–201, div. A, title X, §1069(b)(2), Sept. 23, 1996, 110 Stat. 2656; Pub. L. 104–294, title VI, §605(d), Oct. 11, 1996, 110 Stat. 3509.)
+(Added Pub. L. 103–322, title IV, §40221(a), Sept. 13, 1994, 108 Stat. 1927; amended Pub. L. 104–201, div. A, title X, §1069(b)(2), Sept. 23, 1996, 110 Stat. 2656; Pub. L. 104–294, title VI, §605(d), Oct. 11, 1996, 110 Stat. 3509; Pub. L. 106–386, div. B, title I, §1107(c), Oct. 28, 2000, 114 Stat. 1498.)
 
 #### Amendments
+
+2000—Subsec. (a). Pub. L. 106–386 added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows:
+
+“(1)
+
+Crossing a state line.—A person who travels across a State line or enters or leaves Indian country with the intent to engage in conduct that—
+
+&emsp;“(A)(i) violates the portion of a protection order that involves protection against credible threats of violence, repeated harassment, or bodily injury to the person or persons for whom the protection order was issued; or
+
+&emsp;“(ii) would violate this subparagraph if the conduct occurred in the jurisdiction in which the order was issued; and
+
+&emsp;“(B) subsequently engages in such conduct,
+
+> shall be punished as provided in subsection (b).
+
+“(2)
+
+Causing the crossing of a state line.—A person who causes a spouse or intimate partner to cross a State line or to enter or leave Indian country by force, coercion, duress, or fraud, and, in the course or as a result of that conduct, intentionally commits an act that injures the person's spouse or intimate partner in violation of a valid protection order issued by a State shall be punished as provided in subsection (b).”
 
 1996—Subsec. (a)(1)(A)(ii). Pub. L. 104–294 substituted “violate this subparagraph” for “violate subparagraph (A)”.
 

@@ -8,13 +8,13 @@ The Secretary shall, to the extent provided in appropriations Act, provide to th
 
 &emsp;(2) through the end of fiscal year 1993, financial assistance to assist them in fulfilling their responsibilities under sections 2021b to 2021j of this title.
 
-#### (b) Reports
-
-The Secretary shall prepare and submit to the Congress on an annual basis a report which (1) summarizes the progress of low-level waste disposal siting and licensing activities within each compact region, (2) reviews the available volume reduction technologies, their applications, effectiveness, and costs on a per unit volume basis, (3) reviews interim storage facility requirements, costs, and usage, (4) summarizes transportation requirements for such wastes on an inter- and intra-regional basis, (5) summarizes the data on the total amount of low-level waste shipped for disposal on a yearly basis, the proportion of such wastes subjected to volume reduction, the average volume reduction attained, and the proportion of wastes stored on an interim basis, and (6) projects the interim storage and final disposal volume requirements anticipated for the following year, on a regional basis.
+#### (b) Omitted
 
 (Pub. L. 96–573, §7, as added Pub. L. 99–240, title I, §102, Jan. 15, 1986, 99 Stat. 1858.)
 
 #### Codification
+
+Subsec. (b) of this section, which required the Secretary to prepare and submit to Congress on an annual basis a report on low-level waste disposal, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, item 2 on page 84 of House Document No. 103–7.
 
 Section was enacted as part of the Low-Level Radioactive Waste Policy Act, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
 

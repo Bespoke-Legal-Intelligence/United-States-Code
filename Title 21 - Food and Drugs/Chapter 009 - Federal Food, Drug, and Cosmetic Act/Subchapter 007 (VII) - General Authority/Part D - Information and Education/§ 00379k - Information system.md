@@ -10,5 +10,5 @@ Section effective 90 days after Nov. 21, 1997, except as otherwise provided, see
 
 #### Report on Status of System
 
-Section 407(b) of Pub. L. 105–115 provided that: “Not later than 1 year after the date of enactment of this Act \[Nov. 21, 1997\], the Secretary of Health and Human Services shall submit a report to the Committee on Labor and Human Resources of the Senate and the Committee on Commerce of the House of Representatives on the status of the system to be established under the amendment made by subsection (a) \[enacting this section\], including the projected costs of the system and concerns about confidentiality.”
+Section 407(b) of Pub. L. 105–115 provided that not later than 1 year after Nov. 21, 1997, Secretary of Health and Human Services was to submit report to Congress on status of system to be established under this section, including projected costs of system and concerns about confidentiality.
 

@@ -2,7 +2,7 @@
 
 #### (a) Authority of Administration to guarantee surety against loss from principal's breach of bond
 
-(1) The Administration may, upon such terms and conditions as it may prescribe, guarantee and enter into commitments to guarantee any surety against loss resulting from a breach of the terms of a bid bond, payment bond, performance bond, or bonds ancillary thereto, by a principal on any contract up to $1,250,000.
+(1) The Administration may, upon such terms and conditions as it may prescribe, guarantee and enter into commitments to guarantee any surety against loss resulting from a breach of the terms of a bid bond, payment bond, performance bond, or bonds ancillary thereto, by a principal on any contract up to $2,000,000.
 
 (2) The terms and conditions of said guarantees and commitments may vary from surety to surety on the basis of the Administration's experience with the particular surety.
 
@@ -18,13 +18,13 @@
 
 &emsp;(D) there is a reasonable expectation that such principal will perform the covenants and conditions of the contract with respect to which such bond is required, and the terms and conditions of such bond are reasonable in the light of the risks involved and the extent of the surety's participation.
 
-(5)(A) The Administration shall promptly act upon an application from a surety to participate in the Preferred Surety Bond Guarantee Program, authorized by paragraph (3), in accordance with criteria and procedures established in regulations pursuant to subsection (d) of this section.
+(5)(A) The Administration shall promptly act upon an application from a surety to participate in the Preferred Surety Bond Guarantee Program, authorized by paragraph (3), in accordance with criteria and procedures established inregulations pursuant to subsection (d) of this section.
 
 (B) The Administration is authorized to reduce the allotment of bond guarantee authority or terminate the participation of a surety in the Preferred Surety Bond Guarantee Program based on the rate of participation of such surety during the 4 most recent fiscal year quarters compared to the median rate of participation by the other sureties in the program.
 
 #### (b) Indemnification of surety against loss from avoiding breach
 
-Subject to the provisions of this section, in connection with the issuance by the Administration of a guarantee to a surety as provided by subsection (a) of this section, the Administration may agree to indemnify such surety against a loss sustained by such surety in avoiding or attempting to avoid a breach of the terms of abond guaranteed by the Administration pursuant to subsection (a) of this section: <i>Provided, however—</i>
+Subject to the provisions of this section, in connection with the issuance by the Administration of a guarantee to a surety as provided by subsection (a) of this section, the Administration may agree to indemnify such surety against a loss sustained by such surety in avoiding or attempting to avoid a breach of the terms of a bond guaranteed by the Administration pursuant to subsection (a) of this section: <i>Provided, however—</i>
 
 &emsp;(1) prior to making any payment under this subsection, the Administration shall first determine that a breach of the terms of such bond was imminent;
 
@@ -60,7 +60,7 @@ Pursuant to any such guarantee or agreement, the Administration shall reimburse 
 
 &emsp;(1) the surety obtained such guarantee or agreement, or applied for such reimbursement, by fraud or material misrepresentation,
 
-&emsp;(2) the total contract amount at the time of execution of the bond or bonds exceeds $1,250,000,
+&emsp;(2) the total contract amount at the time of execution of the bond or bonds exceeds $2,000,000,
 
 &emsp;(3) the surety has breached a material term or condition of such guarantee agreement, or
 
@@ -86,13 +86,15 @@ The Administration shall administer this part on a prudent and economically just
 
 The provisions of section 693 of this title shall apply in the administration of this section.
 
-(Pub. L. 85–699, title IV, §411, as added Pub. L. 91–609, title IX, §911(a)(4), Dec. 31, 1970, 84 Stat. 1813; amended Pub. L. 93–386, §§6(a)(3), 11, Aug. 23, 1974, 88 Stat. 747, 749; Pub. L. 95–507, title I, §111, Oct. 24, 1978, 92 Stat. 1758; Pub. L. 96–302, title I, §115, July 2, 1980, 94 Stat. 839; Pub. L. 99–272, title XVIII, §18014, Apr. 7, 1986, 100 Stat. 370; Pub. L. 100–590, title II, §§202–204, Nov. 3, 1988, 102 Stat. 3007–3009; Pub. L. 104–208, div. D, title II, §206(a), Sept. 30, 1996, 110 Stat. 3009–738; Pub. L. 105–135, title VI, §604(d), Dec. 2, 1997, 111 Stat. 2633.)
+(Pub. L. 85–699, title IV, §411, as added Pub. L. 91–609, title IX, §911(a)(4), Dec. 31, 1970, 84 Stat.1813; amended Pub. L. 93–386, §§6(a)(3), 11, Aug. 23, 1974, 88 Stat. 747, 749; Pub. L. 95–507, title I, §111, Oct. 24, 1978, 92 Stat. 1758; Pub. L. 96–302, title I, §115, July 2, 1980, 94 Stat. 839; Pub. L. 99–272, title XVIII, §18014, Apr. 7, 1986, 100 Stat. 370; Pub. L. 100–590, title II, §§202–204, Nov. 3, 1988, 102 Stat. 3007–3009; Pub. L. 104–208, div. D, title II, §206(a), Sept. 30, 1996, 110 Stat. 3009–738; Pub. L. 105–135, title VI, §604(d), Dec. 2, 1997, 111 Stat. 2633; Pub. L. 106–554, §1(a)(9) \[title VIII, §805(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–705.)
 
 #### Termination of Subsection (a)(3)
 
 <i>For termination of subsection (a)(3) of this section, see Effective and Termination Dates of 1988 Amendment note below.</i>
 
 #### Amendments
+
+2000—Subsecs. (a)(1), (e)(2). Pub. L. 106–554 substituted “$2,000,000” for “$1,250,000”.
 
 1997—Subsec. (c)(3)(B). Pub. L. 105–135 inserted “, or to a qualified HUBZone small business concern (as defined in section 632(p) of this title)” before semicolon.
 
@@ -136,7 +138,7 @@ Section 206(b) of div. D of Pub. L. 104–208 provided that: “The amendments m
 
 #### Effective and Termination Dates of 1988 Amendment
 
-Section 207 of Pub. L. 100–590, as amended by Pub. L. 101–574, title II, §216(a), Nov. 15, 1990, 104 Stat. 2822; Pub. L. 103–403, title III, §302, Oct. 22, 1994, 108 Stat. 4188; Pub. L. 104–36, §7, Oct. 12, 1995, 109 Stat. 297; Pub. L. 105–135, title V, §503, Dec. 2, 1997, 111 Stat. 2624, provided that: “The provisions contained in section 411(a)(3) of the Small Business Investment Act of 1958 (15 U.S.C. 694b(a)(3)) shall cease to be effective after September 30, 2000.”
+Section 207 of Pub. L. 100–590, as amended by Pub. L. 101–574, title II, §216(a), Nov. 15, 1990, 104 Stat. 2822; Pub. L. 103–403, title III, §302, Oct. 22, 1994, 108 Stat. 4188; Pub. L. 104–36, §7, Oct. 12, 1995, 109 Stat. 297; Pub. L. 105–135, title V, §503, Dec. 2, 1997, 111 Stat. 2624; Pub. L. 106–554, §1(a)(9) \[title VIII, §805(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–706, provided that: “The provisions contained in section 411(a)(3) of the Small Business Investment Act of 1958 (15 U.S.C. 694b(a)(3)) shall cease to be effective after September 30, 2003.”
 
 Section 209 of title II of Pub. L. 100–590 provided that: “Except as otherwise provided in this title, the provisions of this title \[amending this section and section 694c of this title and enacting provisions set out as notes under this section\], shall become effective upon expiration of one hundred and eighty days after the date of its enactment \[Nov. 3, 1988\].”
 
@@ -150,7 +152,7 @@ Section 205 of title II of Pub. L. 100–590 provided that: “The Administratio
 
 #### Small Business Access to Surety Bonding Survey
 
-Pub. L. 102–366, title III, subtitle A, Sept. 4, 1992, 106 Stat. 1002–1005, known as the Small Business Access to Surety Bonding Survey Act of 1992, directed Comptroller General to conduct a comprehensive survey of business firms, from a statistically valid sample of business firms developed from the most recent list of construction firms maintained by Dun and Bradstreet Company and using a questionnaire with specifically designated questions, to obtain data on the experiences of such firms, and especially the experiences of small business concerns, in obtaining surety bonds from corporate surety firms and to submit a report to Congress, not later than 18 months after Sept. 4, 1992, which report was to contain a summary of responses of business firms to the survey and a description of any trends found by Comptroller General in such responses, which specific information on responses and trends of small business concerns, small business concerns owned and controlled by women, and small business concerns owned and controlled by socially and economically disadvantaged individuals.
+Pub. L. 102–366, title III, subtitle A, Sept. 4, 1992, 106 Stat. 1002–1005, known as the Small Business Access to Surety Bonding Survey Act of 1992, directed Comptroller General to conduct a comprehensive survey of business firms, from a statistically valid sample of business firms developed from the most recent list of construction firms maintained by Dun and Bradstreet Company and using a questionnaire with specifically designated questions, to obtain data on the experiences of such firms, and especially the experiences of small businessconcerns, in obtaining surety bonds from corporate surety firms and to submit a report to Congress, not later than 18 months after Sept. 4, 1992, which report was to contain a summary of responses of business firms to the survey and a description of any trends found by Comptroller General in such responses, which specific information on responses and trends of small business concerns, small business concerns owned and controlled by women, and small business concerns owned and controlled by socially and economically disadvantaged individuals.
 
 #### Evaluation of Preferred Surety Bond Guarantee Program; Report
 

@@ -20,7 +20,7 @@ Notwithstanding any provision of subchapter I, and subject to the provisions of 
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–103 effective as of the 120th day after Oct. 8, 1993, or such earlier date as theOffice of Personnel Management may by regulation prescribe, see section 6 of Pub. L. 103–103, set out as a note under section 6331 of this title.
+Amendment by Pub. L. 103–103 effective as of the 120th day after Oct. 8, 1993, or such earlier date as the Office of Personnel Management may by regulation prescribe, see section 6 of Pub. L. 103–103, set out as a note under section 6331 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -32,10 +32,6 @@ Pub. L. 103–236 amended section generally. Prior to amendment, section read as
 
 “(b) Employment of family members in accordance with this section may not be used to avoid fulfilling the need for full-time career positions.”
 
-#### Cross References
-
-Compensation plans for employees who are family members of Government personnel, see section 3968 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 3922, 3949, 3968, 3984, 4010, 4024, 4083, 4102, 4131 of this title; title 5 section 5927.

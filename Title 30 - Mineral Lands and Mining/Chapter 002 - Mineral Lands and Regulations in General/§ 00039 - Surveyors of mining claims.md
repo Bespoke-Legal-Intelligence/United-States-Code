@@ -6,7 +6,7 @@ The Director of the Bureau of Land Management may appoint in each land district 
 
 #### References in Text
 
-Sections 21, 22 to 24, 26 to 28, 29, 30, 33 to 48, 50 to 52, 71 to 76 of this title and section 661 of title 43, referredto in text, were in the original “this chapter”, meaning chapter 6 of title 32 of the Revised Statutes, consisting of R.S. §§2318 to 2352.
+Sections 21, 22 to 24, 26 to 28, 29, 30, 33 to 48, 50 to 52, 71 to 76 of this title and section 661 of title 43, referred to in text, were in the original “this chapter”, meaning chapter 6 of title 32 of the Revised Statutes, consisting of R.S. §§2318 to 2352.
 
 #### Codification
 
@@ -25,14 +25,6 @@ In sentence beginning “The Director of the Bureau of Land Management shall als
 Office of register of district land office abolished and all functions of register transferred to Secretary of the Interior, or to officers and agencies of Department of the Interior as Secretary may designate, by Reorg. Plan No. 3 of 1946, §403, set out in the Appendix to Title 5.
 
 See also note set out under section 1 of this title.
-
-#### Cross References
-
-Alabama lands, see section 171 of this title.
-
-Kansas and Missouri lands, see section 49 of this title.
-
-Restriction on officers, clerks, and employees, see section 11 of Title 43, Public Lands.
 
 #### Section Referred to in Other Sections
 

@@ -1,6 +1,6 @@
 ### §47306. Criminal penalty
 
-A person that knowingly and willfully violates a regulation prescribed by the Secretary ofTransportation to carry out this chapter shall be fined under title 18, imprisoned for not more than 6 months, or both.
+A person that knowingly and willfully violates a regulation prescribed by the Secretary of Transportation to carry out this chapter shall be fined under title 18, imprisoned for not more than 6 months, or both.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1283.)
 

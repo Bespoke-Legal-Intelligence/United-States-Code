@@ -14,19 +14,3 @@ Pub. L. 101–649, §407(c)(3), substituted “application” for “petition”
 
 Section effective 180 days after June 27, 1952, see section 407 of act June 27, 1952, set out as a note under section 1101 of this title.
 
-#### Cross References
-
-Definition of the term—
-
-&emsp;&emsp;Attorney General, see section 1101(a)(5) of this title.
-
-&emsp;&emsp;Lawfully admitted for permanent residence, see section 1101(a)(20) of this title.
-
-&emsp;&emsp;Naturalization, see section 1101(a)(23) of this title.
-
-&emsp;&emsp;Organization, see section 1101(a)(28) of this title.
-
-&emsp;&emsp;Residence, see section 1101(a)(33) of this title.
-
-&emsp;&emsp;United States, see section 1101(a)(38) of this title.
-

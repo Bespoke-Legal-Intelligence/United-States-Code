@@ -8,7 +8,7 @@ Definition.—In this section, “probable cause” means a valid public interes
 
 Warrant Requirement and Issuance.—(1) Except as provided in paragraph (4) of this subsection, an inspection or impoundment under section 32706 of this title may be carried out only after a warrant is obtained.
 
-(2) A judge of a court of the United States or a State court of record or a United States magistrate may issue a warrant for an inspection or impoundment under section 32706 of this title within the territorial jurisdiction of the court or magistrate. The warrant must be based on an affidavit that—
+(2) A judge of a court of the United States or a State court of record or a United States magistrate may issue a warrant for an inspection orimpoundment under section 32706 of this title within the territorial jurisdiction of the court or magistrate. The warrant must be based on an affidavit that—
 
 &emsp;(A) establishes probable cause to issue the warrant; and
 
@@ -115,6 +115,10 @@ In subsection (b)(4)(E), the words “in any other situations where” are omitt
 In subsection (c)(2)(A), the words “from whose possession or” are substituted for “from whom or from whose” for clarity.
 
 In subsection (c)(3), the words “shall file the warrant, proof of service, and all documents filed about the warrant” are substituted for “shall attach to the warrant a copy of the return and all papers filed in connection therewith and shall file them” to eliminate unnecessary words. The words “United States district court” are substituted for “district court of the United States” for consistency with the definition in section 32101 of the revised title and with other provisions of the chapter.
+
+#### Change of Name
+
+Reference to United States magistrate or to magistrate deemed to refer to United States magistrate judge pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
 #### Section Referred to in Other Sections
 

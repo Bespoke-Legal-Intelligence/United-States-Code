@@ -2,7 +2,7 @@
 
 Whenever Congress determines that more units and organizations are needed for the national security than are in the regular components of the ground and air forces, the Army National Guard of the United States and the Air National Guard of the United States, or such parts of them as are needed, together with units of other reserve components necessary for a balanced force, shall be ordered to active duty and retained as long as so needed.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1661(a)(1), Oct. 5, 1994, 108 Stat. 2970; amended Pub. L. 104–106, div. A, title XV, §1501(b)(2)(A), Feb. 10, 1996, 110 Stat. 495.)
+(Added Pub. L. 103–337, div. A, title XVI, §1661(a)(1), Oct. 5, 1994, 108 Stat. 2970; amendedPub. L. 104–106, div. A, title XV, §1501(b)(2)(A), Feb. 10, 1996, 110 Stat. 495.)
 
 #### Prior Provisions
 
@@ -19,8 +19,4 @@ Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer P
 #### Ordering Ready Reserve to Active Duty During National Emergencies
 
 For additional provisions authorizing ordering of Ready Reserve to active duty during national emergencies, see section 12303 of this title and notes thereunder.
-
-#### Cross References
-
-Similar provision, see section 102 of Title 32, National Guard.
 

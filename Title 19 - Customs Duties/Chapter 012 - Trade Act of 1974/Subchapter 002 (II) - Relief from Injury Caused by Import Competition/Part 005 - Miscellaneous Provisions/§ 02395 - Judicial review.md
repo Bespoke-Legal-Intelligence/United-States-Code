@@ -2,7 +2,7 @@
 
 #### (a) Petition for review; time and place of filing
 
-A worker, group of workers, certified or recognized union, or authorized representative of such worker or group aggrieved by a final determination of the Secretary of Labor under section 2273 of this title or section 2331(c) of this title, a firm or its representative or any other interested domestic party aggrieved by a final determination of the Secretary of Commerce under section 2341 of this title, or a community or any other interested domestic party aggrieved by a final determination of the Secretary of Commerce under section 2371 of this title may, within sixty days after notice of such determination commence a civil action in the United States Court of International Trade for review of such determination. The clerk of such court shall send a copy of the summons and the complaint in such action to the Secretary of Labor or the Secretary of Commerce, as the case may be. Upon receiving a copy of such summons and complaint, such Secretary shall promptly certify and file in such court the record on which he based such determination.
+A worker, group of workers, certified or recognized union, or authorized representative of such worker or group aggrieved by a final determination of the Secretary of Labor under section 2273 of this title or section 2331(c) of this title, a firm or its representative or any other interested domestic party aggrieved by a final determination of the Secretary of Commerce under section 2341 of this title, or a community or any other interested domestic party aggrieved by a final determination of the Secretary of Commerce under section 2371 <sup>1</sup> of this title may, within sixty days after notice of such determination commence a civil action in the United States Court of International Trade for review of such determination. The clerk of such court shall send a copy of the summons and the complaint in such action to the Secretary of Labor or the Secretary of Commerce, as the case may be. Upon receiving a copy of such summons and complaint, such Secretary shall promptly certify and file in such court the record on which he based such determination.
 
 #### (b) Findings of fact by Secretary; conclusiveness; new or modified findings
 
@@ -15,6 +15,8 @@ The Court of International Trade shall have jurisdiction to affirm the action of
 (Pub. L. 93–618, title II, §284, as added Pub. L. 96–417, title VI, §613(a), Oct. 10, 1980, 94 Stat. 1746; amended Pub. L. 97–164, title I, §163(a)(5), Apr. 2, 1982, 96 Stat. 49; Pub. L. 103–182, title V, §503(d), Dec. 8, 1993, 107 Stat. 2151.)
 
 #### References in Text
+
+Section 2371 of this title, referred to in subsec. (a), was omitted from the Code as terminated Sept. 30, 1982, pursuant to section 285 of Pub. L. 93–618, as amended, set out as a Termination Date note preceding section 2271 of this title.
 
 Section 1256 of title 28, referred to in subsec. (c), was repealed by Pub. L. 97–164, title I, §123, Apr. 2, 1982, 96 Stat. 36.
 

@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(I) approximately 25 percent of congregate housing services program sites provide congregate services to young individuals with disabilities;
 
-&emsp;&emsp;(J) to the extent that institutionalized older adults do not need the full costly support provided by such care, public moneys could be more effectively spent providing the necessary services in a noninstitutional setting; and
+&emsp;&emsp;(J) to the extent that institutionalized older adults do not need the full costly support provided by such care, public moneys could be more effectively spent providingthe necessary services in a noninstitutional setting; and
 
 &emsp;&emsp;(K) the Congregate Housing Services Program, established by Congress in 1978, and similar programs providing in-home services have been effective in preventing unnecessary institutionalization and encouraging deinstitutionalization.
 
@@ -160,7 +160,7 @@ For each State, Indian tribe, unit of general local government, and nonprofit ho
 
 #### (ii) Less than full meal services
 
-&emsp;&emsp;&emsp;The fees for residents receiving meal services less frequently than as described in the preceding sentence shall be in an amount equal to 10 percent of such adjusted income of the project resident or the cost of providing the services, whichever is less.
+&emsp;&emsp;&emsp;The fees for residents receiving meal services less frequently than as described in the preceding sentence shall be in anamount equal to 10 percent of such adjusted income of the project resident or the cost of providing the services, whichever is less.
 
 #### (B) Other residents and nonresidents
 
@@ -348,7 +348,7 @@ For purposes of this section:
 
 &emsp;&emsp;(C) housing assisted under section 1701q of title 12;
 
-&emsp;&emsp;(D) housing assisted under section 1715<i>l</i>(d) or 1715z–1 of title 12, with respect to whichthe owner has made a binding commitment to the Secretary of Housing and Urban Development not to prepay the mortgage or terminate the insurance contract under section 1715t of title 12 (unless the binding commitments have been made to extend the low-income use restrictions relating to such housing for the remaining useful life of the housing);
+&emsp;&emsp;(D) housing assisted under section 1715<i>l</i>(d) or 1715z–1 of title 12, with respect to which the owner has made a binding commitment to the Secretary of Housing and Urban Development not to prepay the mortgage or terminate the insurance contract under section 1715t of title 12 (unless the binding commitments have been made to extend the low-income use restrictions relating to such housing for the remaining useful life of the housing);
 
 &emsp;&emsp;(E) housing assisted under section 1484 or 1485 of this title, with respect to which the owner has made a binding commitment to the Secretary of Agriculture not to prepay or refinance the mortgage (unless the binding commitments have been made to extend the low-income use restrictions relating to such housing for not less than the 20-year period under section 1472(c)(4) of this title); and
 

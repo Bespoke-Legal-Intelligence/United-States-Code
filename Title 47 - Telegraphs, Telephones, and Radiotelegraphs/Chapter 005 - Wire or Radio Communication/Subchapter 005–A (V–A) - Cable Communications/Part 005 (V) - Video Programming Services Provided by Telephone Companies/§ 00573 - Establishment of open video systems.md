@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(A) except as required pursuant to section 531, 534, or 535 of this title, prohibit an operator of an open video system from discriminating among video programming providers with regard to carriage on its open video system, and ensure that the rates, terms, and conditions for such carriage are just and reasonable, and are not unjustly or unreasonably discriminatory;
 
-&emsp;&emsp;(B) if demand exceeds the channel capacity of the open video system, prohibit an operator of an open video system and its affiliates from selecting the video programming services for carriage on more than one-third of the activated channel capacity on such system, but nothing in this subparagraph shall be construed to limit the number of channels that the carrier and its affiliates may offer to provide directly to subscribers;
+&emsp;&emsp;(B) if demand exceeds the channel capacity of the open video system, prohibit an operator of an open video system and its affiliates from selecting the video programming services for carriage on more than one-third ofthe activated channel capacity on such system, but nothing in this subparagraph shall be construed to limit the number of channels that the carrier and its affiliates may offer to provide directly to subscribers;
 
 &emsp;&emsp;(C) permit an operator of an open video system to carry on only one channel any video programming service that is offered by more than one video programming provider (including the local exchange carrier's video programming affiliate): <i>Provided</i>, That subscribers have ready and immediate access to any such video programming service;
 
@@ -46,7 +46,7 @@
 
 &emsp;&emsp;(B) sections 531, 534, and 535 of this title, and section 325 of this title, shall apply in accordance with the regulations prescribed under paragraph (2), and
 
-&emsp;&emsp;(C) sections 532 and 537 of this title, and parts III and IV of this subchapter (otherthan sections 543(f), 548, 551, and 554 of this title), shall not apply,
+&emsp;&emsp;(C) sections 532 and 537 of this title, and parts III and IV of this subchapter (other than sections 543(f), 548, 551, and 554 of this title), shall not apply,
 
 > &emsp;to any operator of an open video system for which the Commission has approved a certification under this section.
 

@@ -8,7 +8,7 @@
 
 &emsp;(A) in the case of a participant who is not a full-time employee in the Veterans Health Administration, appoint such participant as such an employee; and
 
-&emsp;(B) in the case of a participant who is an employee in the Veterans Health Administrationbut is not serving in a position for which such participant's course of education or training prepared such participant, assign such participant to such a position.
+&emsp;(B) in the case of a participant who is an employee in the Veterans Health Administration but is not serving in a position for which such participant's course of education or training prepared such participant, assign such participant to such a position.
 
 (3)(A)(i) In the case of a participant receiving a degree from a school of medicine, osteopathy, dentistry, optometry, or podiatry, the participant's service commencement date is the date upon which the participant becomes licensed to practice medicine, osteopathy, dentistry, optometry, or podiatry, as the case may be, in a State. However, the Secretary may, at the request of such participant, defer such date until the end of the period of time required for the participant to complete an internship or residency or other advanced clinical training. If the participant requests such a deferral, the Secretary shall notify the participant that such deferral could lead to an additional period of obligated service in accordance with paragraph (4) of this subsection.
 

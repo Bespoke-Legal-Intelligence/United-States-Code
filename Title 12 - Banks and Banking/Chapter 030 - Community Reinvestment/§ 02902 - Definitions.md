@@ -38,7 +38,7 @@ The National Housing Act, referred to in par. (3)(E), (F), is act June 27, 1934,
 
 #### Amendments
 
-1989—Par. (1)(D). Pub. L. 101–73, §744(q), directed the general amendment of par. (1)(D) but then set out “(2)” followed by the text of the new provisions. Prior to amendment, par. (1)(D) read as follows: “the Federal Home Loan Bank Board with respect to institutions the deposits of which are insured by the Federal Savings and Loan Insurance Corporation and to savings and loan holding companies;”.
+1989—Par. (1)(D). Pub. L. 101–73, §744(q), directed the general amendment of par. (1)(D) but then set out “(2)” followed by the text of the new provisions. Prior to amendment, par. (1)(D) read as follows: “the Federal Home Loan Bank Board with respect to institutionsthe deposits of which are insured by the Federal Savings and Loan Insurance Corporation and to savings and loan holding companies;”.
 
 Par. (2). Pub. L. 101–73, §1212(a), substituted “insured depository institution (as defined in section 1813 of this title)” for “insured bank as defined in section 1813 of this title or an insured institution as defined in section 401 of the National Housing Act”.
 

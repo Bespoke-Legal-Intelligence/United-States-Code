@@ -1,0 +1,20 @@
+### §7385g. Attorney fees
+
+#### (a) General rule
+
+Notwithstanding any contract, the representative of an individual may not receive, for services rendered in connection with the claim of an individual under part B, more than that percentage specified in subsection (b) of this section of a payment made under part B on such claim.
+
+#### (b) Applicable percentage limitations
+
+The percentage referred to in subsection (a) of this section is—
+
+&emsp;(1) 2 percent for the filing of an initial claim; and
+
+&emsp;(2) 10 percent with respect to any claim with respect to which a representative has made a contract for services before October 30, 2000.
+
+#### (c) Penalty
+
+Any such representative who violates this section shall be fined not more than $5,000.
+
+(Pub. L. 106–398, §1 \[div. C, title XXXVI, §3648\], Oct. 30, 2000, 114 Stat. 1654, 1654A–511.)
+

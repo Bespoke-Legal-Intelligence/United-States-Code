@@ -46,7 +46,7 @@
 
 (d) Any judge who elects to become a senior judge under subsection (c) of this section and who thereafter—
 
-&emsp;(1) accepts civil office or employment under the Government of the United States (other than the performance of judicial duties pursuant to recall under subsection (c) of this section);
+&emsp;(1) accepts civil office or employment under the Government of the United States (otherthan the performance of judicial duties pursuant to recall under subsection (c) of this section);
 
 &emsp;(2) engages in the practice of law; or
 
@@ -70,7 +70,7 @@ Section consolidates sections 634b and 634c of title 48, U.S.C., 1940 ed., as am
 
 #### Amendments
 
-1986—Pub. L. 99–396 amended section generally. Prior to amendment, section read as follows:
+<b>1986</b>—Pub. L. 99–396 amended section generally. Prior to amendment, section read as follows:
 
 “Any judge of the United States District Court for the District of the Canal Zone, the District Court of Guam, or the District Court of the Virgin Islands, who resigns after attaining the age of seventy years and after serving at least ten years, continuously or otherwise, or after attaining the age of sixty-five years and after serving at least fifteen years, continuously or otherwise, shall continue during the remainder of his life to receive the salary he received when he relinquished office.
 
@@ -80,17 +80,17 @@ Section consolidates sections 634b and 634c of title 48, U.S.C., 1940 ed., as am
 
 “Any judge who has retired by resigning under the provisions of this section, or who is otherwise entitled to payments under this section, shall be entitled after the effective date of this Act to a cost-of-living adjustment in the amount payable to him computed as specified in section 8340(b) of title 5, United States Code: <i>Provided, however</i>, That in no case shall the salary or amount payable to such judge as increased under this paragraph exceed 95 per centum of the salary of a United States district court judge in regular active service.”
 
-1976—Pub. L. 94–470 inserted cost-of-living adjustment provision, including limitation of payment to amount no greater than 95 per centum of salary of a United States district court judge in regular active service.
+<b>1976</b>—Pub. L. 94–470 inserted cost-of-living adjustment provision, including limitation of payment to amount no greater than 95 per centum of salary of a United States district court judge in regular active service.
 
-1966—Pub. L. 89–571 removed the United States District Court for District of Puerto Rico from list of courts to which the provisions of section are applicable.
+<b>1966</b>—Pub. L. 89–571 removed the United States District Court for District of Puerto Rico from list of courts to which the provisions of section are applicable.
 
-1959—Pub. L. 86–3 struck out references to judges of United States District Court for District of Hawaii and to justices of Supreme Court of Territory of Hawaii. See section 91 of this title and notes thereunder.
+<b>1959</b>—Pub. L. 86–3 struck out references to judges of United States District Court for District of Hawaii and to justices of Supreme Court of Territory of Hawaii. See section 91 of this title and notes thereunder.
 
-1958—Pub. L. 85–508 struck out provisions which related to District Court for Territory of Alaska. See section 81A of this title which establishes a United States District Court for the State of Alaska.
+<b>1958</b>—Pub. L. 85–508 struck out provisions which related to District Court for Territory of Alaska. See section 81A of this title which establishes a United States District Court for the State of Alaska.
 
-1954—Act Feb. 10, 1954, among other changes, inserted provisions for retirement after attaining the age of 65 years and after serving at least fifteen years continuously or otherwise, changed period of service in connection with retirement at age 70, and reduced from 70 to 65 years the age requirement in connection with payment of salary after removal for mental or physical disability or failure of reappointment.
+<b>1954</b>—Act Feb. 10, 1954, among other changes, inserted provisions for retirement after attaining the age of 65 years and after serving at least fifteen years continuously or otherwise, changed period of service in connection with retirement at age 70, and reduced from 70 to 65 years the age requirement in connection with payment of salary after removal for mental or physical disability or failure of reappointment.
 
-1951—Act Oct. 31, 1951, inserted reference to judge of District Court of Guam in first par.
+<b>1951</b>—Act Oct. 31, 1951, inserted reference to judge of District Court of Guam in first par.
 
 #### Effective Date of 1986 Amendment
 
@@ -102,7 +102,7 @@ Amendment by Pub. L. 86–3 effective on admission of State of Hawaii into the U
 
 #### Effective Date of 1958 Amendment
 
-Amendment by Pub. L. 85–508 effective Jan. 3, 1959, upon admission of Alaska into the Union pursuant to Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, see notes set out under section 81A of this title and preceding section 21 of Title 48, Territories and Insular Possessions.
+Amendment by Pub. L. 85–508 effective Jan. 3, 1959, upon admission of Alaska into the Union pursuant toProc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, see notes set out under section 81A of this title and preceding section 21 of Title 48, Territories and Insular Possessions.
 
 #### Election, Recall, Status, Compensation, Conduct, and Termination of Senior Judges
 

@@ -6,7 +6,7 @@
 
 #### (b) Withdrawal of Federal lands
 
-Subject to valid existing rights, all Federal lands located in the special management areas are hereby withdrawn from all forms of entry,appropriation, or disposal under the public land laws, from location, entry, and patent under the mining laws of the United States, and from disposition under all laws pertaining to mineral and geothermal leasing: <i>Provided</i>, That the Secretary may allow the exploration, development, or production of sand, gravel, and crushed rock as necessary to construct, maintain, or reconstruct roads in the special management areas.
+Subject to valid existing rights, all Federal lands located in the special management areas are hereby withdrawn from all forms of entry, appropriation, or disposal under the public land laws, from location, entry, and patent under the mining laws of the United States, and from disposition under all laws pertaining to mineral and geothermal leasing: <i>Provided</i>, That the Secretary may allow the exploration, development, or production of sand, gravel, and crushed rock as necessary to construct, maintain, or reconstruct roads in the special management areas.
 
 #### (c) Resource inventory
 
@@ -86,19 +86,27 @@ If the Secretary does not concur in any land use ordinance approved or adopted b
 
 #### (<i>o</i>) Special rules
 
-Any ordinance adopted pursuant to this section shall not apply to any parcel or parcels of land within a special management area if, after the date such ordinance has been adopted, three years have elapsed after a landowner has made a bona fide offer to sell at fair market value or otherwise convey such parcel or parcels to the Secretary, unless the affected landowner agrees to an extension of the three year period: <i>Provided</i>, That an offer shall not be considered bona fide if the landowner refuses consideration equal to the fair market value as appraised in accordance with the Uniform Appraisal Standards for Federal Land Acquisitions (Interagency Land Acquisition Conference, 1973). Lands for which an ordinance is suspended pursuant to this subsection shall be subject to the relevant scenic area land use ordinance adopted pursuant to section 544e of this title.
+#### (1) In general
 
-(Pub. L. 99–663, §8, Nov. 17, 1986, 100 Stat. 4283.)
+&emsp;Any ordinance adopted pursuant to this section shall not apply to any parcel or parcels ofland within a special management area if, after the date such ordinance has been adopted, three years have elapsed after a landowner has made a bona fide offer to sell at fair market value or otherwise convey such parcel or parcels to the Secretary, unless the affected landowner agrees to an extension of the three year period: <i>Provided</i>, That an offer shall not be considered bona fide if the landowner refuses consideration equal to the fair market value as appraised in accordance with section 544g(e) of this title. Lands for which an ordinance is suspended pursuant to this subsection shall be subject to the relevant scenic area land use ordinance adopted pursuant to section 544e of this title.
+
+#### (2) Applicability
+
+&emsp;This subsection shall not apply to any land offered to the Secretary for acquisition after March 31, 2001.
+
+(Pub. L. 99–663, §8, Nov. 17, 1986, 100 Stat. 4283; Pub. L. 106–291, title III, §346(b), Oct. 11, 2000, 114 Stat. 999.)
 
 #### References in Text
 
 The public land laws, referred to in subsec. (b), are classified generally to Title 43, Public Lands.
 
-The mining laws of the United States, referred to in subsec. (b), are classified generally to Title 30, Mineral Lands and Mining.
-
-Laws pertaining to mineral leasing, referred to in subsec. (b), have been defined in sections 351, 505, 530, and 541e of Title 30 to mean acts Oct. 20, 1914, ch. 330,38 Stat. 741; Feb. 25, 1920, ch. 85, 41 Stat. 437; Apr. 17, 1926, ch. 158, 44 Stat. 301; and Feb. 7, 1927, ch. 66, 44 Stat. 1057. The act of Oct. 20, 1914, was repealed by Pub. L. 86–252, §1, Sept. 9, 1959, 73 Stat. 490. The act of Feb. 25, 1920, is known as the Mineral Leasing Act and is classified generally to chapter 3A (§181 et seq.) of Title 30. The act of Apr. 17, 1926, is classified generally to subchapter VIII (§271 et seq.) of chapter 3A of Title 30. The act of Feb. 7, 1927, is classified principally to subchapter IX (§281 et seq.) of chapter 3A of Title 30. For complete classification of these Acts to the Code, see Tables.
+The mining laws of the United States and the laws pertaining to mineral leasing, referred to in subsec. (b), are classified generally to Title 30, Mineral Lands and Mining.
 
 Laws pertaining to geothermal leasing, referred to in subsec. (b), are classified principally to chapter 23 (§1001 et seq.) of Title 30.
+
+#### Amendments
+
+2000—Subsec. (<i>o</i>). Pub. L. 106–291 designated existing provisions as par. (1), inserted par. heading, substituted “section 544g(e) of this title.” for “the Uniform Appraisal Standards for Federal Land Acquisitions (Interagency Land Acquisition Conference, 1973).” in first sentence, and added par. (2).
 
 #### Administration, Operation, and Maintenance of Pierce National Wildlife Refuge and Little White Salmon National Fish Hatchery
 

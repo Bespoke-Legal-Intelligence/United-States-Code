@@ -6,7 +6,7 @@ The Executive Director is authorized to—
 
 &emsp;(2) receive money and other property donated, bequeathed, or devised, or remitted in payment for services rendered, without condition or restriction other than that it be for the purposes of the Center;
 
-&emsp;(3) receive (and use, sell, or otherwise dispose of, in accordance with clause (2)) money or other property donated, bequeathed, or devised to the Center, except for such money and other property which includes a condition that the Center use other funds of the Center for the purpose of the gift, in which case two-thirds of the members of the Board of the Center must approve such donations;
+&emsp;(3) receive (and use, sell, or otherwise dispose of, in accordance with clause (2)) moneyor other property donated, bequeathed, or devised to the Center, except for such money and other property which includes a condition that the Center use other funds of the Center for the purpose of the gift, in which case two-thirds of the members of the Board of the Center must approve such donations;
 
 &emsp;(4) appoint and fix the compensation of such personnel as may be necessary to carry out the provisions of this chapter in accordance with the provisions of title 5, governing appointments in the competitive service, and the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates;
 

@@ -38,7 +38,7 @@ If the total amount of a State's title IV–A collections or non-title IV–A co
 
 #### (d) Support collected on behalf of individuals residing in another State
 
-In computing incentive payments under this section, support which is collected by one State at the request of another State, including amounts collected under section 666(a)(14) of this title, shall be treated as having been collected in full by each such State, and any amounts expended by the State in carrying out a special project assisted under section 655(e) of this title shall be excluded.
+In computing incentive payments under this section, support which is collected by one State at the request of another State, including amounts collected under section 666(a)(14) of this title, shall be treated as having been collected in full by each such State, and anyamounts expended by the State in carrying out a special project assisted under section 655(e) of this title shall be excluded.
 
 #### (e) Estimates by Secretary; quarterly payments
 
@@ -68,7 +68,7 @@ Section 5(c)(2)(A) of the Child Support Enforcement Amendments of 1984, referred
 
 Pub. L. 104–193, §341(a)(1), formerly §341(b)(1), as redesignated by Pub. L. 105–200, §201(e)(1)(A), substituted “assistance under a program funded under part A of this subchapter” for “aid to families with dependent children under a State plan approved under part A of this subchapter”.
 
-Subsec. (b). Pub. L. 104–193, §341(a)(3), formerly §341(b)(3), as redesignated by Pub. L. 105–200,§201(e)(1)(A), substituted “title IV–A collections” for “AFDC collections” and “non-title IV–A collections” for “non-AFDC collections”, wherever appearing.
+Subsec. (b). Pub. L. 104–193, §341(a)(3), formerly §341(b)(3), as redesignated by Pub. L. 105–200, §201(e)(1)(A), substituted “title IV–A collections” for “AFDC collections” and “non-title IV–A collections” for “non-AFDC collections”, wherever appearing.
 
 Subsec. (b)(1)(A). Pub. L. 104–193, §341(a)(2), formerly §341(b)(2), as redesignated by Pub. L. 105–200, §201(e)(1)(A), substituted “section 608(a)(4)” for “section 602(a)(26)”.
 
@@ -100,7 +100,7 @@ Subsec. (b). Pub. L. 95–30, §503(a)(2), substituted “determined under subse
 
 #### Effective Date of 1998 Amendment
 
-Amendment by section 201(e)(1)(A) of Pub. L. 105–200 effective as if included in the enactment of section 341 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 201(e)(2) of Pub. L. 105–200, set out as a note under section 652 of this title.
+Amendment by section 201(e)(1)(A) of Pub. L. 105–200 effective as if included in the enactment of section 341of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 201(e)(2) of Pub. L. 105–200, set out as a note under section 652 of this title.
 
 #### Effective Date of 1997 Amendment
 

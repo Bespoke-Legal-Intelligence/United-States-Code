@@ -62,7 +62,7 @@ In providing scholarships under subsection (b) of this section, the Secretary an
 
 &emsp;(D) fails to accept payment, or instructs the educational institution in which he is enrolled not to accept payment, in whole or in part, of a scholarship under such contract,
 
-> in lieu of any service obligation arising under such contract, shall be liable to the United States for the Federal share of the amountwhich has been paid to him, or on his behalf, under the contract.
+> in lieu of any service obligation arising under such contract, shall be liable to the United States for the Federal share of the amount which has been paid to him, or on his behalf, under the contract.
 
 (2) If for any reason not specified in paragraph (1), an individual breaches his written contract by failing either to begin such individual's service obligation required under such contract or to complete such service obligation, the United States shall be entitled to recover from the individual an amount determined in accordance with the formula specified in subsection (<i>l</i>) of section 1616a of this title in the manner provided for in such subsection.
 

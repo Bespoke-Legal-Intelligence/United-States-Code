@@ -16,9 +16,3 @@ Words “other than said corporation,” after “same defendants,” were omitt
 
 Changes were made in phraseology.
 
-#### Cross References
-
-Citizenship of corporations for purposes of diversity of citizenship and removability of actions, see section 1332 of this title.
-
-Process in stockholder's derivative action, see section 1695 of this title.
-

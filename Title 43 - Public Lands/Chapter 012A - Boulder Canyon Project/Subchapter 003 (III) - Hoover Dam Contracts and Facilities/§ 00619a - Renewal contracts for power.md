@@ -236,7 +236,7 @@ Nothing in the Criteria shall be construed to prejudice any rights conferred by 
 
 #### (d) Funding of uprating program
 
-The uprating program authorized under section 619(a) of this title shall be undertaken with funds advanced under contracts made with the Secretary of the Interior by non-Federal purchasers described in subsection (a)(1)(B) of this section. Funding provided by non-Federal purchasers shall be advanced to the Secretary of the Interior pursuant to the terms and conditions of such contracts.
+The uprating program authorized under section 619(a) of this title shall be undertaken withfunds advanced under contracts made with the Secretary of the Interior by non-Federal purchasers described in subsection (a)(1)(B) of this section. Funding provided by non-Federal purchasers shall be advanced to the Secretary of the Interior pursuant to the terms and conditions of such contracts.
 
 #### (e) Deposit of uprating program funds in Colorado River Dam Fund
 
@@ -252,7 +252,7 @@ The provisions of this section constitute an exercise by the Congress of the rig
 
 #### (h) Court challenges; disputes and disagreements
 
-(1) Notwithstanding any other provision of law, any claim that the provisions of subsection (a) of this section violates any rights to capacity or energy from the Boulder Canyon projectis barred unless the complaint is filed within one year after August 17, 1984, in the United States Court of Federal Claims which shall have exclusive jurisdiction over this action. Any claim that actions taken by any administrative agency of the United States violates any right under this subchapter or the Boulder Canyon Project Act \[43 U.S.C. 617 et seq.\] or the Boulder Canyon Project Adjustment Act \[43 U.S.C. 618 et seq.\] is barred unless suit asserting such claim is filed in a Federal court of competent jurisdiction within one year after final refusal of such agency to correct the action complained of.
+(1) Notwithstanding any other provision of law, any claim that the provisions of subsection (a) of this section violates any rights to capacity or energy from the Boulder Canyon project is barred unless the complaint is filed within one year after August 17, 1984, in the United States Court of Federal Claims which shall have exclusive jurisdiction over this action. Any claim that actions taken by any administrative agency of the United States violates any right under this subchapter or the Boulder Canyon Project Act \[43 U.S.C. 617 et seq.\] or the Boulder Canyon Project Adjustment Act \[43 U.S.C. 618 et seq.\] is barred unless suit asserting such claim is filed in a Federal court of competent jurisdiction within one year after final refusal of such agency to correct the action complained of.
 
 (2) Any contract entered into pursuant to this section or section 107 of this Act \[42 U.S.C. 7133 note\] shall contain provisions by which any dispute or disagreement as to interpretation or performance of the provisions of this subchapter or of applicable regulations or of the contract may be determined by arbitration or court proceedings. The Secretary of Energy or the Secretary of the Interior, as the case may be, if authorized to act for the United States in such arbitration or court proceedings and, except as provided in paragraph (1) of this subsection, jurisdiction is conferred upon any district court of the United States of proper venue to determine the dispute.
 

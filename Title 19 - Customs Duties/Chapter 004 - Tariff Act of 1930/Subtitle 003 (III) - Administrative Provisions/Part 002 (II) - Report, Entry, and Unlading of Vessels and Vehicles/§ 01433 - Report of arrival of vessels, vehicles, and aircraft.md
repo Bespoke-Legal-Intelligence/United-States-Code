@@ -8,7 +8,7 @@
 
 &emsp;(B) any foreign vessel from a domestic port;
 
-&emsp;(C) any vessel of the United States carrying bonded merchandise, or foreign merchandise for which entry has not been made; or
+&emsp;(C) any vessel of the United States carrying foreign merchandise for which entry has not been made; or
 
 &emsp;(D) any vessel which has visited a hovering vessel or received merchandise while outside the territorial sea;
 
@@ -38,7 +38,7 @@ The pilot of any aircraft arriving in the United States or the Virgin Islands fr
 
 #### (d) Presentation of documentation
 
-The master, person in charge of a vehicle, or aircraft pilot shall present, or transmit pursuant to an electronic data interchange system, to the Customs Service such information, data,documents, papers, or manifests as the Secretary may by regulation prescribe.
+The master, person in charge of a vehicle, or aircraft pilot shall present, or transmit pursuant to an electronic data interchange system, to the Customs Service such information, data, documents, papers, or manifests as the Secretary may by regulation prescribe.
 
 #### (e) Prohibition on departures and discharge
 
@@ -48,7 +48,7 @@ Unless otherwise authorized by law, a vessel, aircraft or vehicle after arriving
 
 &emsp;(2) discharge any passenger or merchandise (including baggage).
 
-(June 17, 1930, ch. 497, title IV, §433, 46 Stat. 711; 1946 Reorg. Plan No. 3, §§101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097; Pub. L. 99–570, title III, §3112, Oct. 27, 1986, 100 Stat. 3207–80; Pub. L. 103–182, title VI, §652, Dec. 8, 1993, 107 Stat. 2209.)
+(June 17, 1930, ch. 497, title IV, §433, 46 Stat. 711; Pub. L. 99–570, title III, §3112, Oct. 27, 1986, 100 Stat. 3207–80; Pub. L. 103–182, title VI, §652, Dec. 8, 1993, 107 Stat. 2209; Pub. L. 106–476, title I, §1452(a)(1), Nov. 9, 2000, 114 Stat. 2167.)
 
 #### Prior Provisions
 
@@ -59,6 +59,8 @@ R.S. §2774, requiring a report of arrival, and a further report in the form of 
 R.S. §2772, relative to report and entry by the master of every vessel, bound to a port of delivery; section 2775, requiring a special report by the master of any vessel having on board distilled spirits or wines; and section 2832, relative to report of arrival of vessels proceeding to the ports of Natchez or Vicksburg, were also repealed by section 642 of the act of Sept. 21, 1922, ch. 356.
 
 #### Amendments
+
+2000—Subsec. (a)(1)(C). Pub. L. 106–476 struck out “bonded merchandise, or” before “foreign merchandise”.
 
 1993—Subsec. (a)(1)(D). Pub. L. 103–182, §652(1), added subpar. (D).
 
@@ -74,9 +76,9 @@ Subsec. (e). Pub. L. 103–182, §652(3), amended subsec. (e) generally. Prior t
 
 1986—Pub. L. 99–570 amended section generally. Prior to amendment, section read as follows: “Within twenty-four hours after the arrival of any vessel from a foreign port or place, or of a foreign vessel from a domestic port, or of a vessel of the United States carrying bonded merchandise, or foreign merchandise for which entry has not been made, at any port or place within the United States at which such vessel shall come to, the master shall, unless otherwise provided by law, report the arrival of the vessel at the nearest customhouse, under such regulations as the Commissioner of Customs may prescribe.”
 
-#### Transfer of Functions
+#### Effective Date of 2000 Amendment
 
-“Commissioner of Customs” substituted in text for “Secretary of Commerce” on authority of Reorg. Plan No. 3 of 1946, set out in the Appendix to Title 5, Government Organization and Employees.
+Amendment by Pub. L. 106–476, except as otherwise provided, applicable with respect to goods entered, or withdrawn from warehouse, for consumption, on or after the 15th day after Nov. 9, 2000, see section 1471 of Pub. L. 106–476, set out as a note under section 58c of this title.
 
 #### Section Referred to in Other Sections
 

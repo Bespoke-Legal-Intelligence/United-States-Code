@@ -1,6 +1,6 @@
 ### §288. Customhouse wharf at Charleston, South Carolina
 
-The United States customhouse wharf at Charleston, South Carolina, shall be in the custody and under the control of the Department of the Army, and all branches of the public service using said wharf on January 11, 1922, shall be permitted to continue their use of the same.
+The United States customhouse wharf at Charleston, South Carolina, shall be in the custody and under the control of the Department of the Army, and all branches of the public serviceusing said wharf on January 11, 1922, shall be permitted to continue their use of the same.
 
 (Jan. 11, 1922, ch. 27, 42 Stat. 356; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501.)
 

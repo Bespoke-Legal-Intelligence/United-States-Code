@@ -2,7 +2,7 @@
 
 Documented vessels with a registry endorsement, engaged in foreign trade on the Great Lakes or their tributary or connecting waters in trade with Canada, shall not thereby become liable to the payment of entry and clearance fees.
 
-(R.S. §2793; Sept. 25, 1941, ch. 423, 55 Stat. 733; 1946 Reorg. Plan No. 3, §§101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097; Pub. L. 103–182, title VI, §686(a)(1), Dec. 8, 1993, 107 Stat. 2220; Pub. L. 104–324, title XI, §1115(b)(4), Oct. 19, 1996, 110 Stat. 3972.)
+(R.S. §2793; Sept. 25, 1941, ch. 423, 55 Stat. 733; Pub. L. 103–182, title VI, §686(a)(1), Dec. 8, 1993, 107 Stat. 2220; Pub. L. 104–324, title XI, §1115(b)(4), Oct. 19, 1996, 110 Stat. 3972.)
 
 #### Codification
 
@@ -19,10 +19,4 @@ Provision of R.S. §2793 respecting tonnage duties is classified to section 123 
 1993—Pub. L. 103–182 substituted “Documented vessels with a coastwise, Great Lakes endorsement,” for “Enrolled or licensed vessels engaged in the foreign and coasting trade on the northern, northeastern, and northwestern frontiers of the United States,” and “foreign ports.” for “foreign ports; but such vessel shall, notwithstanding, be required to enter and clear; except that when such vessels are on such voyages on the Great Lakes and touch at foreign ports for the purpose of taking on bunker fuel only, they may be exempted from entering and clearing under such rules and regulations as the Commissioner of Customs may prescribe, notwithstanding any other provisions of law: <i>Provided</i>, That this exception shall not apply to such vessels if, while at such foreign port, they land or take on board any passengers, or any merchandise other than bunker fuel, receive orders, discharge any seamen by mutual consent, or engage any seamen to replace those discharged by mutual consent, or transact any other business save that of taking on bunker fuel.”
 
 1941—Act Sept. 25, 1941, inserted exception and proviso at end of section.
-
-#### Transfer of Functions
-
-Functions of all officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. Commissioner of Customs, referred to in this section, is an officer of Department of the Treasury.
-
-“Commissioner of Customs” substituted in text for “Secretary of Commerce” on authority of Reorg. Plan No. 3 of 1946, §§101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097, set out in the Appendix to Title 5.
 

@@ -20,13 +20,7 @@ This section corrects typographical errors in section 1444 of title 28, U.S.C.
 
 #### Amendments
 
-1949—Act May 24, 1949, inserted “court” between “State” and “may”, and substituted “division” for “divisions”.
-
-#### Cross References
-
-Actions affecting property on which United States has a lien, see section 2410 of this title.
-
-Stay of State court proceedings, see section 2283 of this title.
+<b>1949</b>—Act May 24, 1949, inserted “court” between “State” and “may”, and substituted “division” for “divisions”.
 
 #### Section Referred to in Other Sections
 

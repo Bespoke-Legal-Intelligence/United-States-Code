@@ -18,24 +18,6 @@ Minor changes were made in phraseology.
 
 1996—Pub. L. 104–294 substituted “fined under this title” for “fined not more than $1,000”.
 
-#### Cross References
-
-Complaint as to provisions or water, see sections 10902, 10907 of Title 46, Shipping.
-
-Corporal punishment prohibited; duty to surrender guilty officer; civil liability, see section 11507 of Title 46.
-
-Neglect to provide sufficient stores, penalty for, see sections 10321, 11106 of Title 46.
-
-Penalty for failure to keep medicines, see section 11102 of Title 46.
-
-Recovery for injury to or death of seaman, see section 688 of Title 46, Appendix.
-
-Scale of provisions to be allowed and served out to the crew during the voyage, see section 10303 of Title 46.
-
-Surrendering officer inflicting corporal punishment, liability of master, see section 11507 of Title 46.
-
-Wages on justifiable complaint of seaman, see section 11106 of Title 46.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in title 46 section 11507.

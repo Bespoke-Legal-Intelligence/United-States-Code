@@ -18,7 +18,7 @@
 
 #### (C) Special rule
 
-&emsp;&emsp;The Secretary may change the initial classification under section 360c(f)(1) of this title that is recommended under paragraph (1) by an accredited person, and in such case shall provide to such person, and the person who submitted the report under section 360(k) of this title for the device, a statement explaining in detail the reasons for the change.
+&emsp;&emsp;The Secretary may change the initial classification under section 360c(f)(1) of this titlethat is recommended under paragraph (1) by an accredited person, and in such case shall provide to such person, and the person who submitted the report under section 360(k) of this title for the device, a statement explaining in detail the reasons for the change.
 
 #### (3) Certain devices
 
@@ -90,7 +90,7 @@
 
 #### (4) Selection of accredited persons
 
-&emsp;The Secretary shall provide each person who chooses to use an accredited person to receive a section 360(k) of this title report a panel of at least two or more accredited persons from which the regulated person may select one for a specific regulatory function.
+&emsp;The Secretary shall provide each person who chooses to use an accredited person to receive a section 360(k) of this title report a panel of at least two or more accredited persons fromwhich the regulated person may select one for a specific regulatory function.
 
 #### (5) Compensation of accredited persons
 
@@ -122,15 +122,15 @@ Comptroller general.—
 
 &emsp;“(A)
 
-Implementation of program.—Not later than 5 years after the date of the enactment of this Act \[Nov. 21, 1997\], the Comptroller General of the United States shall submit to the Committee on Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate a report describing the extent to which the program of accreditation required by the amendment made by subsection (a) \[enacting this section\] has been implemented.
+Implementation of program.—Not later than 5 years after the date of the enactment of this Act \[Nov. 21, 1997\], the Comptroller General of the United States shall submit to the Committee on Commerce \[now Committee on Energy and Commerce\] of the House of Representatives and the Committee on Labor and Human Resources of the Senate a report describing the extent to which the program of accreditation required by the amendment made by subsection (a) \[enacting this section\] has been implemented.
 
 &emsp;“(B)
 
-Evaluation of program.—Not later than 6 months prior to the date on which, pursuant to subsection (c) of section 523 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 360m(c)\] (as added by subsection (a)), the authority provided under subsection (a) of such section will terminate, the Comptroller General shall submit to the Committee on Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate a report describing the use of accredited persons under such section 523, including an evaluation of the extent to which such use assisted the Secretary in carrying out the duties of the Secretary under such Act \[21 U.S.C. 301 et seq.\] with respect to devices, and the extent to which such use promoted actions which are contrary to the purposes of such Act.
+Evaluation of program.—Not later than 6 months prior to the date on which, pursuant to subsection (c) of section 523 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 360m(c)\] (as added by subsection (a)), the authority provided under subsection (a) of such section will terminate, the Comptroller General shall submit to the Committee on Commerce \[now Committee on Energy and Commerce\] of the House of Representatives and the Committee on Labor and Human Resources of the Senate a report describing the use of accredited persons under such section 523, including an evaluation of the extent to which such use assisted the Secretary in carrying out the duties of the Secretary under such Act \[21 U.S.C. 301 et seq.\] with respect to devices, and the extent to which such use promoted actions which are contrary to the purposes of such Act.
 
 “(2)
 
-Inclusion of certain devices within program.—Not later than 3 years after the date of the enactment of this Act \[Nov. 21, 1997\], the Secretary of Health and Human Services shall submit to the Committee on Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate a report providing a determination by the Secretary of whether, in the program of accreditation established pursuant to the amendment made by subsection (a), the limitation established in clause (iii) of section 523(a)(3)(A) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 360m(a)(3)(A)\] (relating to class IIdevices for which clinical data are required in reports under section 510(k) \[21 U.S.C. 360(k)\]) should be removed.”
+Inclusion of certain devices within program.—Not later than 3 years after the date of the enactment of this Act \[Nov. 21, 1997\], the Secretary of Health and Human Services shall submit to the Committee on Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate a report providing a determination by the Secretary of whether, in the program of accreditation established pursuant to the amendment made by subsection (a), the limitation established in clause (iii) of section 523(a)(3)(A) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 360m(a)(3)(A)\] (relating to class II devices for which clinical data are required in reports under section 510(k) \[21 U.S.C. 360(k)\]) should be removed.”
 
 #### Section Referred to in Other Sections
 

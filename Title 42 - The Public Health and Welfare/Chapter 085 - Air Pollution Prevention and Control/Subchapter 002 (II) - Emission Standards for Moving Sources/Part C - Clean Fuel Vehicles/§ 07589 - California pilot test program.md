@@ -6,7 +6,7 @@ The Administrator shall establish a pilot program in the State of California to 
 
 #### (b) Applicability
 
-The provisions of this section shall only apply to light-duty trucks and light-duty vehicles, andsuch provisions shall apply only in the State of California, except as provided in subsection (f) of this section.
+The provisions of this section shall only apply to light-duty trucks and light-duty vehicles, and such provisions shall apply only in the State of California, except as provided in subsection (f) of this section.
 
 #### (c) Program requirements
 
@@ -43,7 +43,7 @@ Not later than 24 months after November 15, 1990, the Administrator shall promul
 
 &emsp;(A) The sale of more clean-fuel vehicles than required under subsection (c)(1) of this section.
 
-&emsp;(B) The sale of clean fuel <sup>1</sup> vehicles which meet standards established by the Administrator as provided in paragraph (3) which are more stringent than the clean-fuel vehicle standards otherwise applicable to such clean-fuel vehicle. A manufacturer granted credits under this paragraph may transfer some or all of the credits for use by one or more other manufacturers in demonstrating compliance with the requirements prescribed under this paragraph. The Administrator may make the credits available for use after consideration of enforceability, environmental, and economic factors and upon such terms and conditions as he finds appropriate. The Administrator shall grant credits in accordance with this paragraph, notwithstanding any requirements of State law or any credits granted with respect to the same vehicles under any State law, rule, or regulation.
+&emsp;(B) The sale of clean fuel <sup>1</sup> vehicles which meet standards established by the Administrator as provided in paragraph (3) which are more stringent than the clean-fuel vehicle standards otherwise applicable to such clean-fuel vehicle. A manufacturer granted credits under this paragraph may transfer some or all of the credits for use by one or more other manufacturers in demonstrating compliance with the requirements prescribed under this paragraph. The Administrator may make the credits available for use after consideration of enforceability, environmental, and economic factors and upon such terms and conditions as he finds appropriate. The Administrator shall grant credits in accordance with this paragraph, notwithstanding any requirements of State law or any credits granted with respectto the same vehicles under any State law, rule, or regulation.
 
 (2)
 
@@ -51,7 +51,7 @@ Regulations and administration.—The Administrator shall administer the credit 
 
 (3)
 
-Standards for issuing credits for cleaner vehicles.—The more stringent standards and other requirements (including requirements relating to the weighting of credits) established bythe Administrator for purposes of the credit program under 7585(e) <sup>2</sup> of this title (relating to credits for clean fuel <sup>1</sup> vehicles in the fleets program) shall also apply for purposes of the credit program under this paragraph.
+Standards for issuing credits for cleaner vehicles.—The more stringent standards and other requirements (including requirements relating to the weighting of credits) established by the Administrator for purposes of the credit program under 7585(e) <sup>2</sup> of this title (relating to credits for clean fuel <sup>1</sup> vehicles in the fleets program) shall also apply for purposes of the credit program under this paragraph.
 
 #### (e) Program evaluation
 

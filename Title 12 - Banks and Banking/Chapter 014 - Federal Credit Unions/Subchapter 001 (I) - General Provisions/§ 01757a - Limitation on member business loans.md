@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-On and after August 7, 1998, no insured credit union may make any member business loan thatwould result in a total amount of such loans outstanding at that credit union at any one time equal to more than the lesser of—
+On and after August 7, 1998, no insured credit union may make any member business loan that would result in a total amount of such loans outstanding at that credit union at any one time equal to more than the lesser of—
 
 &emsp;(1) 1.75 times the actual net worth of the credit union; or
 

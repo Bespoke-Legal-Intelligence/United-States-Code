@@ -16,17 +16,9 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1999—Pub. L. 106–113 substituted “United States Patent and Trademark Office” for “Patent Office”.
+<b>1999</b>—Pub. L. 106–113 substituted “United States Patent and Trademark Office” for “Patent Office”.
 
 #### Effective Date of 1999 Amendment
 
 Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
-
-#### Federal Rules of Civil Procedure
-
-Costs, see rule 54, Appendix to this title.
-
-#### Cross References
-
-Costs where disclaimer not filed in patent infringement action, see section 288 of Title 35, Patents.
 

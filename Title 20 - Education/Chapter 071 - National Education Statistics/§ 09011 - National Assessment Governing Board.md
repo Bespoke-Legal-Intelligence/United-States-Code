@@ -48,7 +48,7 @@ There is established the National Assessment Governing Board (hereafter in this 
 
 #### (1) In general
 
-&emsp;Terms of service of members of the Board shall be staggered and may not exceed a period of 3 years, as determined by the Secretary.
+&emsp;Terms of service of members of the Board shall be staggered and may not exceed a period of 4 years, as determined by the Secretary.
 
 #### (2) Service limitation
 
@@ -57,6 +57,10 @@ There is established the National Assessment Governing Board (hereafter in this 
 #### (3) Change of status
 
 &emsp;A member of the Board who changes status under subsection (b) of this section during the term of the appointment of the member may continue to serve as a member until the expiration of such term.
+
+#### (4) Conforming provision
+
+&emsp;Members of the Board previously granted 3 year terms, whose terms are in effect on December 21, 2000, shall have their terms extended by 1 year.
 
 #### (d) Vacancies
 
@@ -82,7 +86,7 @@ There is established the National Assessment Governing Board (hereafter in this 
 
 &emsp;&emsp;(B) develop appropriate student performance levels as provided in section 9010(e) of this title;
 
-&emsp;&emsp;(C) develop assessment objectives and test specifications through a national consensus approach which includes the active participation of teachers, curriculum specialists,local school administrators, parents, and concerned members of the public;
+&emsp;&emsp;(C) develop assessment objectives and test specifications through a national consensus approach which includes the active participation of teachers, curriculum specialists, local school administrators, parents, and concerned members of the public;
 
 &emsp;&emsp;(D) design the methodology of the assessment, in consultation with appropriate technical experts, including the Advisory Council established under section 9006 of this title;
 
@@ -136,13 +140,19 @@ The Commissioner and the Board shall meet periodically—
 
 Only sections 10, 11, and 12 of the Federal Advisory Committee Act shall apply with respect to the Board.
 
-(Pub. L. 103–382, title IV, §412, Oct. 20, 1994, 108 Stat. 4039.)
+(Pub. L. 103–382, title IV, §412, Oct. 20, 1994, 108 Stat. 4039; Pub. L. 106–554, §1(a)(1) \[title III, §307\], Dec. 21, 2000, 114 Stat. 2763, 2763A–44.)
 
 #### References in Text
 
 The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (f)(2)(B), are classified to section 3301 et seq. of Title 5, Government Organization and Employees.
 
 Sections 10, 11, and 12 of the Federal Advisory Committee Act, referred to in subsec. (h), are sections 10, 11, and 12 of Pub. L. 92–463, as amended, which are set out in the Appendix to Title 5.
+
+#### Amendments
+
+2000—Subsec. (c)(1). Pub. L. 106–554, §1(a)(1) \[title III, §307(1)\], substituted “4 years” for “3 years”.
+
+Subsec. (c)(4). Pub. L. 106–554, §1(a)(1) \[title III, §307(2)\], added par. (4).
 
 #### Change of Name
 

@@ -8,7 +8,3 @@ The Secretary of the Interior is authorized, in his discretion, to accept in beh
 
 Section is based on section 1 of act Jan. 19, 1929. “Lafayette National Park” changed to “Acadia National Park” by section 2 of said act.
 
-#### Cross References
-
-Addition of Acadia recreational demonstration project lands to parks, see section 459s of this title.
-

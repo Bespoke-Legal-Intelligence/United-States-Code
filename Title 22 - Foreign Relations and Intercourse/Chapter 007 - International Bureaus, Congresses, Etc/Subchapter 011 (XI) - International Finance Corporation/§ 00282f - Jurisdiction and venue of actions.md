@@ -8,7 +8,3 @@ For the purpose of any action which may be brought within the United States or i
 
 One form of action, see rule 2, Title 28, Appendix, Judiciary and Judicial Procedure.
 
-#### Cross References
-
-Removal of cases from State to district courts, see section 1441 et seq. of Title 28, Judiciary and Judicial Procedure.
-

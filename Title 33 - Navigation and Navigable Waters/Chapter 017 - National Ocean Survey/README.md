@@ -103,6 +103,7 @@
 | (b) | Agency assistance. |
 | (c) | Administrative assistance. |
 | 857–18. | Authorization of appropriations. |
+| 857–19. | Biennial report. |
 | [857a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000857a%20-%20Rights%2C%20benefits%2C%20privileges%2C%20and%20immunities%3B%20exercise%20of%20authority%20by%20Secretary%20of%20Commerce%20or%20designee.md) | Rights, benefits, privileges, and immunities; exercise of authority by Secretary of Commerce or designee. |
 | [858\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000858%20-%20Rules%20and%20regulations%20when%20cooperating%20with%20military%20departments.md) | Rules and regulations when cooperating with military departments. |
 | 859 to 863. Repealed or Omitted. |  |
@@ -126,7 +127,7 @@
 | [883b.](Subchapter%20002%20%28II%29%20-%20Surveys/%C2%A7%2000883b%20-%20Dissemination%20of%20data%3B%20further%20activities.md) | Dissemination of data; further activities. |
 | [883c.](Subchapter%20002%20%28II%29%20-%20Surveys/%C2%A7%2000883c%20-%20Geomagnetic%20data%3B%20collection%2C%20correlation%2C%20and%20dissemination.md) | Geomagnetic data; collection, correlation, and dissemination. |
 | [883d.](Subchapter%20002%20%28II%29%20-%20Surveys/%C2%A7%2000883d%20-%20Improvement%20of%20methods%2C%20instruments%2C%20and%20equipments%3B%20investigations%20and%20research.md) | Improvement of methods, instruments, and equipments; investigations and research. |
-| [883e.](Subchapter%20002%20%28II%29%20-%20Surveys/%C2%A7%2000883e%20-%20Cooperative%20agreements%20for%20surveys%20and%20investigations%3B%20contribution%20of%20costs%20incurred%20by%20National%20Oceanic%20and%20Atmospheric%20Administration.md) | Cooperative agreements for surveys and investigations; contribution of costs incurred by National Oceanic and Atmospheric Administration. |
+| [883e.](Subchapter%20002%20%28II%29%20-%20Surveys/%C2%A7%2000883e%20-%20Agreements%20for%20surveys%20and%20investigations%3B%20contribution%20of%20costs%20incurred%20by%20National%20Oceanic%20and%20Atmospheric%20Administration.md) | Agreements for surveys and investigations; contribution of costs incurred by National Oceanic and Atmospheric Administration. |
 | [883f.](Subchapter%20002%20%28II%29%20-%20Surveys/%C2%A7%2000883f%20-%20Contracts%20with%20qualified%20organizations.md) | Contracts with qualified organizations. |
 | [883g.](Subchapter%20002%20%28II%29%20-%20Surveys/%C2%A7%2000883g%20-%20Repealed.%20Pub.%20L.%2088%E2%80%93611%2C%20%C2%A74%28a%29%282%29%2C%20Oct.%202%2C%201964%2C%2078%20Stat.%20991.md) | Repealed. |
 | [883h.](Subchapter%20002%20%28II%29%20-%20Surveys/%C2%A7%2000883h%20-%20Employment%20of%20public%20vessels.md) | Employment of public vessels. |

@@ -42,7 +42,7 @@ Notwithstanding any provision of this chapter except as provided under this sect
 
 &emsp;&emsp;(A) consistent with the operation of a single integrated public utility system, within the meaning of section 79k of this title; and
 
-&emsp;&emsp;(B) reasonably incidental, or economically necessary or appropriate, to the operations of an integrated public utility system, within the meaning of section 79k of this title.
+&emsp;&emsp;(B) reasonably incidental, or economically necessary or appropriate, to the operationsof an integrated public utility system, within the meaning of section 79k of this title.
 
 #### (d) Effect on existing law; no State preemption
 

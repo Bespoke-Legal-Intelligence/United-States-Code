@@ -160,6 +160,34 @@ National Disaster Areas.—Before the 180th day following the date of the enactm
 
 Exceptions.—Regulations issued pursuant to subsection (a) shall not be applicable in the case of aircraft overflights involving an emergency or a ligitimate \[sic\] scientific purpose.”
 
+#### National Airspace Redesign
+
+Pub. L. 106–181, title VII, §736, Apr. 5, 2000, 114 Stat. 171, provided that:
+
+“(a)
+
+Findings.—Congress makes the following findings:
+
+&emsp;“(1) The national airspace, comprising more than 29 million square miles, handles more than 55,000 flights per day.
+
+&emsp;“(2) Almost 2,000,000 passengers per day traverse the United States through 20 major en route centers, including more than 700 different sectors.
+
+&emsp;“(3) Redesign and review of the national airspace may produce benefits for the travelling public by increasing the efficiency and capacity of the air traffic control system and reducing delays.
+
+&emsp;“(4) Redesign of the national airspace should be a high priority for the Federal Aviation Administration and the air transportation industry.
+
+“(b)
+
+Redesign.—The Administrator \[of the Federal Aviation Administration\], with advice from the aviation industry and other interested parties, shall conduct a comprehensive redesign of the national airspace system.
+
+“(c)
+
+Report.—Not later than December 31, 2000, the Administrator shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the Administrator's comprehensive national airspace redesign. The report shall include projected milestones for completion of the redesign and shall also include a date for completion.
+
+“(d)
+
+Authorization.—There is authorized to be appropriated to the Administrator to carry out this section $12,000,000 for each of fiscal years 2000, 2001, and 2002.”
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 106, 40106, 40109, 44101, 44502, 46301, 46307, 46316 of this title.

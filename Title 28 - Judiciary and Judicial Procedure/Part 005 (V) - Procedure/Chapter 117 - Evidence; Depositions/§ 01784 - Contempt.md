@@ -22,15 +22,7 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1964—Pub. L. 88–619 amended section generally, and among other changes, authorized the court to order a person to show cause for failing to produce a document or other thing in subsec. (a), provided that a copy of the order to show cause shall be served in accordance with section 1783(b) of this title, and struck out provisions requiring the marshal making levy or seizure to forward to any United States consul in the country where the witness may be, a copy of the order and a request for its personal service, and to cause publication of the order in the district where the issuing court sits, in subsec. (c), and struck out provisions in subsec. (d) permitting any judgment rendered upon service by publication only to be opened for answer within one year.
-
-#### Federal Rules of Civil Procedure
-
-Civil cases, contempt for failure to obey subpoena, see Rule 45, Appendix to this title.
-
-#### Federal Rules of Criminal Procedure
-
-Criminal cases, contempt for failure to obey subpoena, see Rule 17, Title 18, Appendix, Crimes and Criminal Procedure.
+<b>1964</b>—Pub. L. 88–619 amended section generally, and among other changes, authorized the court to order a person to show cause for failing to produce a document or other thing in subsec. (a), provided that a copy of the order to show cause shall be served in accordance with section 1783(b) of this title, and struck out provisions requiring the marshal making levy or seizure to forward to any United States consul in the country where the witness may be, a copy of the order and a request for its personal service, and to cause publication of the order in the district where the issuing court sits, in subsec. (c), and struck out provisions in subsec. (d) permitting any judgment rendered upon service by publication only to be opened for answer within one year.
 
 #### Section Referred to in Other Sections
 

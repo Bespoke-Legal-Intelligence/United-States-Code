@@ -20,7 +20,7 @@ The Secretary of the Treasury shall analyze on an annual basis the exchange rate
 
 #### Change of Name
 
-Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Negotiations on Currency Exchange Rates
 
@@ -36,7 +36,7 @@ Findings.—The Congress finds that—
 
 “(b)
 
-Negotiations.—Whenever, in the course of negotiating a trade agreement under this subtitle \[subtitleA (§§1101 to 1125) of title I of Pub. L. 100–418, see Tables for classification\], the President is advised by the Secretary of the Treasury that a foreign country that is a party to the negotiations satisfies the criteria for initiating bilateral currency negotiations listed in section 3004(b) of this Act \[22 U.S.C. 5304(b)\], the Secretary of the Treasury shall take action to initiate bilateral currency negotiations on an expedited basis with such foreign country.”
+Negotiations.—Whenever, in the course of negotiating a trade agreement under this subtitle \[subtitle A (§§1101 to 1125) of title I of Pub. L. 100–418, see Tables for classification\], the President is advised by the Secretary of the Treasury that a foreign country that is a party to the negotiations satisfies the criteria for initiating bilateral currency negotiations listed in section 3004(b) of this Act \[22 U.S.C. 5304(b)\], the Secretary of the Treasury shall take action to initiate bilateral currency negotiations on an expedited basis with such foreign country.”
 
 #### Section Referred to in Other Sections
 

@@ -96,7 +96,7 @@ Another prior section 721 of Pub. L. 89–329 was classified to section 1132b of
 
 Prior sections 1136a to 1136h were repealed by Pub. L. 105–244, §3, title VII, §702, Oct. 7, 1998, 112 Stat. 1585, 1803, effective Oct. 1, 1998.
 
-Section 1136a, Pub. L. 89–329, title XI, §1102, as added Pub. L. 102–325, title XI, §1101, July 23, 1992, 106 Stat. 785, stated purpose of and authorized program for urban community service assistance. See section 1139a of this title.
+Section 1136a, Pub. L. 89–329, title XI, §1102, as added Pub. L. 102–325, title XI, §1101, July 23, 1992, 106 Stat. 785, stated purpose of and authorized program for urbancommunity service assistance. See section 1139a of this title.
 
 A prior section 1136a, Pub. L. 89–329, title XI, §1102, as added Pub. L. 99–498, title XI, §1101, Oct. 17, 1986, 100 Stat. 1568, related to use of economic development funds, prior to the general amendment of subchapter XI of this chapter by Pub. L. 102–325.
 

@@ -6,5 +6,5 @@ There is established in the executive branch an independent establishment to be 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 11317 of this title.
+This section is referred to in sections 290aa–5, 11317 of this title.
 

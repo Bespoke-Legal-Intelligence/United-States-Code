@@ -66,3 +66,7 @@ For purposes of this chapter—
 
 1996—Pub. L. 104–227 reenacted section catchline without change and amended text generally. Prior to amendment, text defined “Agreed Measures”, “Antarctica”, “collect”, “Director”, “foreign person”, “native bird”, “native mammal”, “native plant”, “pollutant”, “site of special scientific interest”, “specially protected area”, “specially protected species”, “take”, “Treaty”, “United States”, and “United States citizen”.
 
+#### Territorial Sea of United States
+
+For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
+

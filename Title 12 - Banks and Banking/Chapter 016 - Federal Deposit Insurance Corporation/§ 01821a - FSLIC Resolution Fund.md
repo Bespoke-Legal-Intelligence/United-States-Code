@@ -22,7 +22,7 @@
 
 #### (4) Rights, powers, and duties
 
-&emsp;Effective August 10, 1989, the Corporation shall have all rights, powers, and duties to carry out the Corporation's duties with respect to the assets and liabilities of the FSLIC Resolution Fund that the Corporation otherwise has under this chapter.
+&emsp;Effective August 10, 1989, the Corporation shall have all rights, powers, and duties tocarry out the Corporation's duties with respect to the assets and liabilities of the FSLIC Resolution Fund that the Corporation otherwise has under this chapter.
 
 #### (5) Corporation as conservator or receiver
 
@@ -74,23 +74,15 @@ The FSLIC Resolution Fund shall be dissolved upon satisfaction of all debts and 
 
 (Sept. 21, 1950, ch. 967, §2\[11A\], as added Pub. L. 101–73, title II, §215, Aug. 9, 1989, 103 Stat. 252; amended Pub. L. 102–233, title II, §202(c), (d), Dec. 12, 1991, 105 Stat. 1767; Pub. L. 102–242, title I, §161(b), Dec. 19, 1991, 105 Stat. 2285; Pub. L. 104–208, div. A, title II, §2704(d)(14)(J)–(L), Sept. 30, 1996, 110 Stat. 3009–492.)
 
-#### Amendment of Section
-
-<i>Pub. L. 104–208, div. A, title II, §2704(c), (d)(14)(J)–(L), Sept. 30, 1996, 110 Stat. 3009–487, 3009–492, provided that, effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, this section is amended as follows:</i>
-
-<i>(1) In subsection (a)—</i>
-
-<i>(A) in paragraph (2), by striking “liabilities.—” and all that follows through “Except” and inserting “liabilities.—Except”;</i>
-
-<i>(B) by striking paragraph (2)(B); and</i>
-
-<i>(C) in paragraph (3), by striking “the Bank Insurance Fund, the Savings Association Insurance Fund,” and inserting “the Deposit Insurance Fund”;</i>
-
-<i>(2) In subsection (b), by striking paragraph (4); and</i>
-
-<i>(3) In subsection (f), by striking “Savings Association Insurance Fund” and inserting “Deposit Insurance Fund”.</i>
-
 #### Amendments
+
+1996—Subsec. (a)(2). Pub. L. 104–208, §2704(d)(14)(J)(i), (ii), which directed striking out subpar. (A) heading and subpar. (B) and redesignating subpar. (A) as par. (2), was not executed. See Effective Date of 1996 Amendment note below.
+
+Subsec. (a)(3). Pub. L. 104–208, §2704(d)(14)(J)(iii), which directed substitution of “the Deposit Insurance Fund” for “the Bank Insurance Fund, the Savings Association Insurance Fund,”, was not executed. See Effective Date of 1996 Amendment note below.
+
+Subsec. (b)(4). Pub. L. 104–208, §2704(d)(14)(K), which directed striking out par. (4), was not executed. See Effective Date of 1996 Amendment note below.
+
+Subsec. (f). Pub. L. 104–208, §2704(d)(14)(L), which directed substitution of “Deposit Insurance Fund” for “Savings Association Insurance Fund”, was not executed. See Effective Date of 1996 Amendment note below.
 
 1991—Subsec. (a)(2)(B). Pub. L. 102–233, §202(c), substituted “1992” for “1991”.
 

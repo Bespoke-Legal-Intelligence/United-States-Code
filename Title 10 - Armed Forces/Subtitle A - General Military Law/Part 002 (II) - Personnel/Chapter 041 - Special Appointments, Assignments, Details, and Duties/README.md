@@ -45,20 +45,6 @@ Pub. L. 96–215, §2(b), Mar. 25, 1980, 94 Stat. 123, inserted “and to and fr
 
 Pub. L. 85–599, §11(1), Aug. 6, 1958, 72 Stat. 521, added item 716, relating to transfers of commissioned officers.
 
-#### Cross References
-
-Particular provisions relating to special assignments, etc.—
-
-&emsp;&emsp;Air Force, see section 8541 et seq. of this title.
-
-&emsp;&emsp;Army, see section 3533 et seq. of this title.
-
-&emsp;&emsp;Coast Guard, see section 148 et seq. of Title 14, Coast Guard.
-
-&emsp;&emsp;National Guard, see section 316 of Title 32, National Guard.
-
-&emsp;&emsp;Navy, see section 5983 et seq. of this title.
-
 
 ---
 

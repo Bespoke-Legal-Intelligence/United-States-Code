@@ -20,13 +20,13 @@ Training provided pursuant to grants made under this part may include current in
 
 &emsp;(9) the legitimate reasons why victims of rape, sexual assault, and incest may refuse to testify against a defendant;
 
-&emsp;(10) the nature and incidence of domestic violence;
+&emsp;(10) the nature and incidence of domestic violence and dating violence (as defined in section 3796gg–2 of this title);
 
-&emsp;(11) the physical, psychological, and economic impact of domestic violence on the victim, the costs to society, and the implications for court procedures and sentencing;
+&emsp;(11) the physical, psychological, and economic impact of domestic violence and dating violence on the victim, the costs to society, and the implications for court procedures and sentencing;
 
 &emsp;(12) the psychology and self-presentation of batterers and victims and the implications for court proceedings and credibility of witnesses;
 
-&emsp;(13) sex stereotyping of female and male victims of domestic violence, myths about presence or absence of domestic violence in certain racial, ethnic, religious, or socioeconomic groups, and their impact on the administration of justice;
+&emsp;(13) sex stereotyping of female and male victims of domestic violence and dating violence, myths about presence or absence of domestic violence and dating violence in certain racial, ethnic, religious, or socioeconomic groups, and their impact on the administration of justice;
 
 &emsp;(14) historical evolution of laws and attitudes on domestic violence;
 
@@ -34,15 +34,39 @@ Training provided pursuant to grants made under this part may include current in
 
 &emsp;(16) the likelihood of retaliation, recidivism, and escalation of violence by batterers, and the potential impact of incarceration and other meaningful sanctions for acts of domestic violence including violations of orders of protection;
 
-&emsp;(17) economic, psychological, social and institutional reasons for victims’ inability to leave the batterer, to report domestic violence or to follow through on complaints, including the influence of lack of support from police, judges, and court personnel, and the legitimate reasons why victims of domestic violence may refuse to testify against a defendant;
+&emsp;(17) economic, psychological, social and institutional reasons for victims’ inability to leave the batterer, to report domestic violence or dating violence or to follow through on complaints, including the influence of lack of support from police, judges, and court personnel, and the legitimate reasons why victims of domestic violence or dating violence may refuse to testify against a defendant;
 
-&emsp;(18) the need for orders of protection, and the implications of mutual orders of protection, dual arrest policies, and mediation in domestic violence cases; and
+&emsp;(18) the need for orders of protection, and the implications of mutual orders of protection, dual arrest policies, and mediation in domestic violence and dating violence cases;
 
-&emsp;(19) recognition of and response to gender-motivated crimes of violence other than rape, sexual assault and domestic violence, such as mass or serial murder motivated by the gender of the victims.
+&emsp;(19) recognition of and response to gender-motivated crimes of violence other than rape, sexual assault and domestic violence, such as mass or serial murder motivated by the gender of the victims;
 
-(Pub. L. 103–322, title IV, §40412, Sept. 13, 1994, 108 Stat. 1943.)
+&emsp;(20) the issues raised by domestic violence in determining custody and visitation, including how to protect the safety of the child and of a parent who is not a predominant aggressor of domestic violence, the legitimate reasons parents may report domestic violence, the ways domestic violence may relate to an abuser's desire to seek custody, and evaluating expert testimony in custody and visitation determinations involving domestic violence;
+
+&emsp;(21) the issues raised by child sexual assault in determining custody and visitation, including how to protect the safety of the child, the legitimate reasons parents may report child sexual assault, and evaluating expert testimony in custody and visitation determinations involving child sexual assault, including the current scientifically-accepted and empirically valid research on child sexual assault; <sup>1</sup>
+
+&emsp;(22) the extent to which addressing domestic violence and victim safety contributes to the efficient administration of justice; <sup>2</sup>
+
+(Pub. L. 103–322, title IV, §40412, Sept. 13, 1994, 108 Stat. 1943; Pub. L. 106–386, div. B, title IV, §1406(a)(1), (d)(2), Oct. 28, 2000, 114 Stat. 1515, 1517.)
+
+#### Amendments
+
+2000—Par. (10). Pub. L. 106–386, §1406(d)(2)(A), inserted “and dating violence (as defined in section 3796gg–2 of this title)” before the semicolon.
+
+Par. (11). Pub. L. 106–386, §1406(d)(2)(B), inserted “and dating violence” after “domestic violence”.
+
+Par. (13). Pub. L. 106–386, §1406(d)(2)(C), inserted “and dating violence” after “domestic violence” in two places.
+
+Par. (17). Pub. L. 106–386, §1406(d)(2)(D), inserted “or dating violence” after “domestic violence” in two places.
+
+Par. (18). Pub. L. 106–386, §1406(d)(2)(E), inserted “and dating violence” after “domestic violence”.
+
+Pars. (20) to (22). Pub. L. 106–386, §1406(a)(1), added pars. (20) to (22).
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 14001, 14214 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by “and”.</i>
+
+<i><sup>2</sup></i><i> So in original. The semicolon probably should be a period.</i>
 

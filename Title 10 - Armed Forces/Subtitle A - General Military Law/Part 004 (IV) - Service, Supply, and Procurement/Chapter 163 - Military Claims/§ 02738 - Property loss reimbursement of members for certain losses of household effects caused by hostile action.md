@@ -14,7 +14,7 @@ Limitation.—The Secretary may provide reimbursement under this section for a l
 
 (d)
 
-Applicability of Other Authorities and Requirements.—Subsections (b), (d), (e), (f), and (g) of section 2733 of this title shall apply to a request for a reimbursement under this section as if the request were a claim against the United States.
+Applicability of Other Authorities and Requirements.—Subsections (b), (d), (e), (f), and\(g) of section 2733 of this title shall apply to a request for a reimbursement under this section as if the request were a claim against the United States.
 
 (Added Pub. L. 103–337, div. A, title V, §557(a), Oct. 5, 1994, 108 Stat. 2775.)
 

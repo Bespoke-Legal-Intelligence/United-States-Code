@@ -16,11 +16,11 @@ As used in this chapter—
 
 #### Prior Provisions
 
-Prior similar provisions were contained in section 225, of act July 30, 1953, ch. 282, as added by act Aug. 9, 1955, ch. 628, §14, 69 Stat. 551, which was previously classified to section 651 of this title. The provisions of section 218 of act July 30, 1953, formerly classified to this section, were transferred to section 2\[12\] of Pub. L. 85–536, and are classified to section 641 of this title. See Codification note set out under section 631 of this title.
+Prior similar provisions were contained in section 225, of act July 30, 1953, ch. 282, as added by act Aug. 9,1955, ch. 628, §14, 69 Stat. 551, which was previously classified to section 651 of this title. The provisions of section 218 of act July 30, 1953, formerly classified to this section, were transferred to section 2\[12\] of Pub. L. 85–536, and are classified to section 641 of this title. See Codification note set out under section 631 of this title.
 
 #### Amendments
 
-1986—Subsec. (a). Pub. L. 99–272 struck out agricultural enterprises exception and proviso that, prior to Oct. 1, 1987, an agricultural enterprise not be eligible for loan assistance under section 636(b)(1) of this titleto repair or replace property other than residences and/or personal property unless it is declined for, or would be declined for, emergency loan assistance at substantially similar interest rates from the Farmers Home Administration under subchapter III of the Consolidated Farm and Rural Development Act.
+1986—Subsec. (a). Pub. L. 99–272 struck out agricultural enterprises exception and proviso that, prior to Oct. 1, 1987, an agricultural enterprise not be eligible for loan assistance under section 636(b)(1) of this title to repair or replace property other than residences and/or personal property unless it is declined for, or would be declined for, emergency loan assistance at substantially similar interest rates from the Farmers Home Administration under subchapter III of the Consolidated Farm and Rural Development Act.
 
 1984—Subsec. (a). Pub. L. 98–369 substituted “October 1, 1987” for “October 1, 1986”.
 

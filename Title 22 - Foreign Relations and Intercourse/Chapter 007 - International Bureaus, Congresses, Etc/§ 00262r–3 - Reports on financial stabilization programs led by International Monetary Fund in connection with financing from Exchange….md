@@ -18,7 +18,7 @@ The Secretary of the Treasury, in consultation with the Secretary of Commerce an
 
 &emsp;&emsp;(E) the opening of domestic capital markets.
 
-&emsp;(3) A description of the degree to which the countries requiring the financial stabilization programs have fully implemented reforms required by the International Monetary Fund that are directed at corporate governance and corporate structure, including—
+&emsp;(3) A description of the degree to which the countries requiring the financial stabilizationprograms have fully implemented reforms required by the International Monetary Fund that are directed at corporate governance and corporate structure, including—
 
 &emsp;&emsp;(A) making nontransparent conglomerate practices more transparent through the application of internationally accepted accounting practices, independent external audits, full disclosure, and provision of consolidated statements; and
 
@@ -38,13 +38,21 @@ The Secretary of the Treasury, in consultation with the Secretary of Commerce an
 
 &emsp;(10) The amount, rate of interest, and disbursement and repayment schedules of any funds disbursed from the stabilization fund established under section 5302 of title 31, in the form of loans, credits, guarantees, or swaps, in support of the financial stabilization programs.
 
-&emsp;(11) The amount, rate of interest, and disbursement and repayment schedules of anyfunds disbursed by the International Monetary Fund to the countries in support of the financial stabilization programs.
+&emsp;(11) The amount, rate of interest, and disbursement and repayment schedules of any funds disbursed by the International Monetary Fund to the countries in support of the financial stabilization programs.
 
 #### (b) Timing
 
-Not later than March 15, 1999, and semiannually thereafter, the Secretary of the Treasury shall submit to the Committees on Banking and Financial Services and International Relations of the House of Representatives and the Committees on Foreign Relations, and Banking, Housing, and Urban Affairs of the Senate a report on the matters described in subsection (a) of this section.
+Not later than March 15, 1999, and semiannually thereafter, the Secretary of the Treasury shall submit to the Committees on Banking and Financial Services, Ways and Means, and International Relations of the House of Representatives and the Committees on Finance, Foreign Relations, and Banking, Housing, and Urban Affairs of the Senate a report on the matters described in subsection (a) of this section.
 
-(Pub. L. 95–118, title XVII, §1704, as added Pub. L. 105–277, div. A, §101(d) \[title VI, §612\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–228.)
+(Pub. L. 95–118, title XVII, §1704, as added Pub. L. 105–277, div. A, §101(d) \[title VI, §612\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–228; amended Pub. L. 106–200, title IV, §404(b), May 18, 2000, 114 Stat. 292.)
+
+#### Amendments
+
+2000—Subsec. (b). Pub. L. 106–200 amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “Not later than March 15, 1999, and semiannually thereafter, the Secretary of the Treasury shall submit to the Committees on Banking and Financial Services and International Relations of the House of Representatives and the Committees on Foreign Relations, and Banking, Housing, and Urban Affairs of the Senate a report on the matters described in subsection (a) of this section.”
+
+#### Change of Name
+
+Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Definitions
 

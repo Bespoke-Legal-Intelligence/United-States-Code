@@ -20,7 +20,7 @@ Limitation, Terms, and Conditions.—A lease under subsection (a)—
 
 &emsp;(3) shall permit the Secretary to revoke the lease at any time, unless the Secretary determines that the omission of such a provision will promote the national defense or be in the public interest;
 
-&emsp;(4) shall provide for the payment (in cash or in kind) by the lessee of consideration in an amount that is not less than the fair market value of the lease interest, as determined by the Secretary; and
+&emsp;(4) shall provide for the payment (in cash or in kind) by the lessee of consideration in an amount that is not less than the fair marketvalue of the lease interest, as determined by the Secretary; and
 
 &emsp;(5) may provide, notwithstanding any other provision of law, for the improvement, maintenance, protection, repair, restoration, or replacement by the lessee, of the property leased as the payment of part or all of the consideration for the lease.
 

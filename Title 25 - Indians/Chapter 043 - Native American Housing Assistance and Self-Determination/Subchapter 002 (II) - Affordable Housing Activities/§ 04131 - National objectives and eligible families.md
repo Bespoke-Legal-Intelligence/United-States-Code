@@ -18,7 +18,7 @@ The national objectives of this chapter are—
 
 #### (1) In general
 
-&emsp;Except as provided under paragraph (2), assistance under eligible housing activities under this chapter shall be limited to low-income Indian families on Indian reservations and other Indian areas.
+&emsp;Except as provided under paragraphs (2) and (4), assistance under eligible housing activities under this chapter shall be limited to low-income Indian families on Indian reservations and other Indian areas.
 
 #### (2) Exception to low-income requirement
 
@@ -28,25 +28,55 @@ The national objectives of this chapter are—
 
 &emsp;Notwithstanding paragraph (1), a recipient may provide housing or housing assistance provided through affordable housing activities assisted with grant amounts under this chapter for a non-Indian family on an Indian reservation or other Indian area if the recipient determines that the presence of the family on the Indian reservation or other Indian area is essential to the well-being of Indian families and the need for housing for the family cannot reasonably be met without such assistance.
 
-#### (4) Preference for tribal members and other Indian families
+#### (4) Law enforcement officers
 
-&emsp;The Indian housing plan for an Indian tribe may require preference, for housing or housing assistance provided through affordable housing activities assisted with grant amounts provided under this chapter on behalf of suchtribe, to be given (to the extent practicable) to Indian families who are members of such tribe, or to other Indian families. In any case in which the applicable Indian housing plan for an Indian tribe provides for preference under this paragraph, the recipient for the tribe shall ensure that housing activities that are assisted with grant amounts under this chapter for such tribe are subject to such preference.
+&emsp;A recipient may provide housing or housing assistance provided through affordable housing activities assisted with grant amounts under this chapter for a law enforcement officer on an Indian reservation or other Indian area, if—
 
-#### (5) Exemption
+&emsp;&emsp;(A) the officer—
+
+&emsp;&emsp;&emsp;(i) is employed on a full-time basis by the Federal Government or a State, county, or lawfully recognized tribal government; and
+
+&emsp;&emsp;&emsp;(ii) in implementing such full-time employment, is sworn to uphold, and make arrests for, violations of Federal, State, county, or tribal law; and
+
+&emsp;&emsp;(B) the recipient determines that the presence of the law enforcement officer on the Indian reservation or other Indian area may deter crime.
+
+#### (5) Law enforcement officers
+
+&emsp;Notwithstanding paragraph (1), a recipient may provide housing or housing assistance provided through affordable housing activities assisted with grant amounts under this chapter to a law enforcement officer on the reservation or other Indian area, who is employed full-time by a Federal, State, county or tribal government, and in implementing such full-time employment is sworn to uphold, and make arrests for violations of Federal, State, county or tribal law, if the recipient determines that the presence of the law enforcement officer on the Indian reservation or other Indian area may deter crime.
+
+#### (6) <sup>1</sup> Preference for tribal members and other Indian families
+
+&emsp;The Indian housing plan for an Indian tribe may require preference, for housing or housing assistance provided through affordable housing activities assisted with grant amounts provided under this chapter on behalf of such tribe, to be given (to the extent practicable) to Indian families who are members of such tribe, or to other Indian families. In any case in which the applicable Indian housing plan for an Indian tribe provides for preference under this paragraph, the recipient for the tribe shall ensure that housing activities that are assisted with grant amounts under this chapter for such tribe are subject to such preference.
+
+#### (6) <sup>1</sup> Exemption
 
 &emsp;Title VI of the Civil Rights Act of 1964 \[42 U.S.C. 2000d et seq.\] and title VIII of the Civil Rights Act of 1968 \[42 U.S.C. 3601 et seq.\] shall not apply to actions by federally recognized tribes and the tribally designated housing entities of those tribes under this chapter.
 
-(Pub. L. 104–330, title II, §201, Oct. 26, 1996, 110 Stat. 4031; Pub. L. 105–276, title V, §595(e)(7), Oct. 21, 1998, 112 Stat. 2657.)
+(Pub. L. 104–330, title II, §201, Oct. 26, 1996, 110 Stat. 4031; Pub. L. 105–276, title V, §595(e)(7), Oct. 21, 1998, 112 Stat. 2657; Pub. L. 106–377, §1(a)(1) \[title II, §210\], Oct. 27, 2000, 114 Stat. 1441, 1441A–26; Pub. L. 106–568, title X, §1003(e), Dec. 27, 2000, 114 Stat. 2926.)
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, known as the Native American Housing Assistance and Self-Determination Act of 1996. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, as amended, known as the Native American Housing Assistance and Self-Determination Act of 1996. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
 
-The Civil Rights Act of 1964, referred to in subsec. (b)(5), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (b)(6), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
-The Civil Rights Act of 1968, referred to in subsec. (b)(5), is Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 73, as amended. Title VIII of the Act, known as the Fair Housing Act, is classified principally to subchapter I (§3601 et seq.) of chapter 45 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of Title 42 and Tables.
+The Civil Rights Act of 1968, referred to in subsec. (b)(6), is Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 73, as amended. Title VIII of the Act, known as the Fair Housing Act, is classified principally to subchapter I (§3601 et seq.) of chapter 45 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of Title 42 and Tables.
 
 #### Amendments
+
+2000—Subsec. (b)(1). Pub. L. 106–568, §1003(e)(1), substituted “paragraphs (2) and (4)” for “paragraph (2)”.
+
+Subsec. (b)(4). Pub. L. 106–568, §1003(e)(3), added par. (4). Former par. (4) redesignated (5).
+
+Pub. L. 106–377, §1(a)(1) \[title II, §210(2)\], added par. (4). Former par. (4) redesignated (5).
+
+Subsec. (b)(5). Pub. L. 106–568, §1003(e)(2), redesignated par. (4) as (5). Former par. (5) redesignated (6).
+
+Pub. L. 106–377, §1(a)(1) \[title II, §210(1)\], redesignated par. (4) as (5). Former par. (5) redesignated (6).
+
+Subsec. (b)(6). Pub. L. 106–568, §1003(e)(2), redesignated par. (5), relating to preference for tribal members and other Indian families, as (6).
+
+Pub. L. 106–377, §1(a)(1) \[title II, §210(1)\], redesignated par. (5), relating to exemption, as (6).
 
 1998—Subsec. (b)(5). Pub. L. 105–276 substituted “federally recognized tribes and the tribally designated housing entities of those tribes” for “Indian tribes” and “chapter” for “subsection”.
 
@@ -56,5 +86,7 @@ Section effective Oct. 1, 1997, except as otherwise expressly provided, see sect
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 4135 of this title.
+This section is referred to in sections 4112, 4135 of this title.
+
+<i><sup>1</sup></i><i> So in original. Two pars. (6) have been enacted.</i>
 

@@ -10,7 +10,7 @@
 
 (b) The examination prescribed by subsection (a)—
 
-&emsp;(1) shall be conducted, for the Army National Guard, by a board of three commissioned officers designated by the Secretary of the Army from members of the Regular Army or the Army National Guard of the United States, or both, and for the Air NationalGuard, by a board of three commissioned officers designated by the Secretary of the Air Force from members of the Regular Air Force or the Air National Guard of the United States, or both; and
+&emsp;(1) shall be conducted, for the Army National Guard, by a board of three commissioned officers designated by the Secretary of the Army from members of the Regular Army or the Army National Guard of the United States, or both, and for the Air National Guard, by a board of three commissioned officers designated by the Secretary of the Air Force from members of the Regular Air Force or the Air National Guard of the United States, or both; and
 
 &emsp;(2) may be held before original appointment or promotion.
 
@@ -120,17 +120,11 @@ Subsecs. (e), (f). Pub. L. 85–861, §2(6)(B), added subsecs. (e) and (f).
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of Title 10, Armed Forces.
+Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L.103–337, set out as an Effective Date note under section 10001 of Title 10, Armed Forces.
 
-#### Cross References
+#### Suspension of Subsection (e) of This Section
 
-Appointment of officers of Army National Guard and Air National Guard as Reserves for service as members of Army National Guard of United States and Air National Guard of United States, see sections 12211 and 12212 of Title 10, Armed Forces.
-
-Extension of recognition upon promotion in Army National Guard of United States and Air National Guard of United States without examination, see section 14316 of Title 10.
-
-Suspension of subsec. (e) of this section, see section 111 of this title.
-
-Transfer of officers from Army National Guard of United States and Air Force National Guard of United States to Army Reserve and Air Force Reserve, see sections 12213 and 12214 of Title 10, Armed Forces.
+For authority of the President to suspend subsec. (e) of this section in time of war or emergency declared by Congress, see section 111 of this title.
 
 #### Section Referred to in Other Sections
 

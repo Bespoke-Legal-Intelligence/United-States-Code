@@ -12,7 +12,7 @@
 
 #### (3) Last assessment of annual charges
 
-&emsp;The last assessment of annual charges under subsection (c) of this section shall be made not later than September 30, 2000.
+&emsp;The last assessment of annual charges under subsection (c) of this section shall be made not later than September 20, 2005.
 
 #### (b) Fees for service or thing of value
 
@@ -22,11 +22,31 @@ Pursuant to section 9701 of title 31, any person who receives a service or thing
 
 #### (1) Persons subject to charge
 
-&emsp;Except as provided in paragraph (4), any licensee of the Commission may be required to pay, in addition to the fees set forth in subsection (b) of this section, an annual charge.
+&emsp;Except as provided in paragraph (4), any licensee or certificate holder of the Commission may be required to pay, in addition to the fees set forth in subsection (b) of this section, an annual charge.
 
 #### (2) Aggregate amount of charges
 
-&emsp;The aggregate amount of the annual charge collected from all licensees shall equal an amount that approximates 100 percent of the budget authority of the Commission in the fiscal year in which such charge is collected, less any amount appropriated to the Commission from the Nuclear Waste Fund and the amount of fees collected under subsection (b) of this section in such fiscal year.
+#### (A) In general
+
+&emsp;&emsp;The aggregate amount of the annual charges collected from all licensees and certificate holders in a fiscal year shall equal an amount that approximates the percentages of the budget authority of the Commission for the fiscal year stated in subparagraph (B), less—
+
+&emsp;&emsp;&emsp;(i) amounts collected under subsection (b) of this section during the fiscal year; and
+
+&emsp;&emsp;&emsp;(ii) amounts appropriated to the Commission from the Nuclear Waste Fund for the fiscal year.
+
+#### (B) Percentages
+
+&emsp;&emsp;The percentages referred to in subparagraph (A) are—
+
+&emsp;&emsp;&emsp;(i) 98 percent for fiscal year 2001;
+
+&emsp;&emsp;&emsp;(ii) 96 percent for fiscal year 2002;
+
+&emsp;&emsp;&emsp;(iii) 94 percent for fiscal year 2003;
+
+&emsp;&emsp;&emsp;(iv) 92 percent for fiscal year 2004; and
+
+&emsp;&emsp;&emsp;(v) 90 percent for fiscal year 2005.
 
 #### (3) Amount per licensee
 
@@ -42,7 +62,7 @@ Pursuant to section 9701 of title 31, any person who receives a service or thing
 
 &emsp;&emsp;For purposes of subparagraph (A), the term “research reactor” means a nuclear reactor that—
 
-&emsp;&emsp;&emsp;(i) is licensed by the Nuclear Regulatory Commission under section 2134(c) of this title for operation at a thermal power level of 10 megawatts or less; and
+&emsp;&emsp;&emsp;(i) is licensed by the Nuclear Regulatory Commission under section 2134(c) of thistitle for operation at a thermal power level of 10 megawatts or less; and
 
 &emsp;&emsp;&emsp;(ii) if so licensed for operation at a thermal power level of more than 1 megawatt, does not contain—
 
@@ -56,7 +76,7 @@ Pursuant to section 9701 of title 31, any person who receives a service or thing
 
 As used in this section, the term “Nuclear Waste Fund” means the fund established pursuant to section 10222(c) of this title.
 
-(Pub. L. 101–508, title VI, §6101, Nov. 5, 1990, 104 Stat. 1388–298; Pub. L. 102–486, title XXIX, §2903(a), Oct. 24, 1992, 106 Stat. 3125; Pub. L. 103–66, title VII, §7001, Aug. 10, 1993, 107 Stat. 401; Pub. L. 105–245, title V, §505, Oct. 7, 1998, 112 Stat. 1856; Pub. L. 106–60, title VI, §604, Sept. 29, 1999, 113 Stat. 501.)
+(Pub. L. 101–508, title VI, §6101, Nov. 5, 1990, 104 Stat. 1388–298; Pub. L. 102–486, title XXIX, §2903(a), Oct. 24, 1992, 106 Stat. 3125; Pub. L. 103–66, title VII, §7001, Aug. 10, 1993, 107 Stat. 401; Pub. L. 105–245, title V, §505, Oct. 7, 1998, 112 Stat. 1856; Pub. L. 106–60, title VI, §604, Sept. 29, 1999, 113 Stat. 501; Pub. L. 106–377, §1(a)(2) \[title VIII\], Oct. 27, 2000, 114 Stat. 1441, 1441A–86.)
 
 #### Codification
 
@@ -65,6 +85,12 @@ Section is comprised of section 6101 of Pub. L. 101–508. Subsec. (e) of sectio
 Section was enacted as part of the Omnibus Budget Reconciliation Act of 1990, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
 
 #### Amendments
+
+2000—Subsec. (a)(3). Pub. L. 106–377, §1(a)(2) \[title VIII\], which directed substitution of “September 20, 2005” for “September 30, 1999”, was executed by making the substitution for “September 30, 2000” to reflect the probable intent of Congress and the amendment by Pub. L. 106–60, §604. See 1999 Amendment note below.
+
+Subsec. (c)(1). Pub. L. 106–377, §1(a)(2) \[title VIII\], inserted “or certificate holder” after “licensee”.
+
+Subsec. (c)(2). Pub. L. 106–377, §1(a)(2) \[title VIII\], added par. (2) and struck out heading and text of former par. (2). Text read as follows: “The aggregate amount of the annual charge collected from all licensees shall equal an amount that approximates 100 percent of the budget authority of the Commission in the fiscal year in which such charge is collected, less any amount appropriated to the Commission from the Nuclear Waste Fund and the amount of fees collected under subsection (b) of this section in such fiscal year.”
 
 1999—Subsec. (a)(3). Pub. L. 106–60 substituted “September 30, 2000” for “September 30, 1999”.
 

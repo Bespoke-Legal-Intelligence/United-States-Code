@@ -20,7 +20,7 @@ Congress hereby finds and declares that:
 
 &emsp;(8) The State of Maine, with the agreement of the Passamaquoddy Tribe and the Penobscot Nation, has enacted legislation defining the relationship between the Passamaquoddy Tribe, the Penobscot Nation, and their members, and the State of Maine.
 
-&emsp;(9) Since 1820, the State of Maine has provided special services to the Indians residing within its borders, including the members of the Passamaquoddy Tribe, the Penobscot Nation, and the Houlton Band of Maliseet Indians. During this same period, the United States provided few special services to the respective tribe, nation, or band, and repeatedly denied that it had jurisdiction over or responsibility for the said tribe, nation, and band. Inview of this provision of special services by the State of Maine, requiring substantial expenditures by the State of Maine and made by the State of Maine without being required to do so by Federal law, it is the intent of Congress that the State of Maine not be required further to contribute directly to this claims settlement.
+&emsp;(9) Since 1820, the State of Maine has provided special services to the Indians residing within its borders, including the members of the Passamaquoddy Tribe, the Penobscot Nation, and the Houlton Band of Maliseet Indians. During this same period, the United States provided few special services to the respective tribe, nation, or band, and repeatedly denied that it had jurisdiction over or responsibility for the said tribe, nation, and band. In view of this provision of special services by the State of Maine, requiring substantial expenditures by the State of Maine and made by the State of Maine without being required to do so by Federal law, it is the intent of Congress that the State of Maine not be required further to contribute directly to this claims settlement.
 
 #### (b) Purposes
 
@@ -108,7 +108,7 @@ Purpose.—It is the purpose of this Act to—
 
 “(a)
 
-Land Acquisition Fund.—There is hereby established in the Treasury of the United States a fund to be known as the Aroostook Band of Micmacs Land Acquisition Fund, into which $900,000 shall be deposited bythe Secretary following the appropriation of sums authorized by section 10.
+Land Acquisition Fund.—There is hereby established in the Treasury of the United States a fund to be known as the Aroostook Band of Micmacs Land Acquisition Fund, into which $900,000 shall be deposited by the Secretary following the appropriation of sums authorized by section 10.
 
 “(b)
 

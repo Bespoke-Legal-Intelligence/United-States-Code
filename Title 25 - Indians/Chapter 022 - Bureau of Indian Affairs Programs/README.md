@@ -33,7 +33,7 @@
 | (d) | Coordination and consultation with tribes and school boards. |
 | [2005\.](%C2%A7%2002005%20-%20Facilities%20construction.md) | Facilities construction. |
 | (a) | Compliance with health and safety standards. |
-| (b) | Plan. |
+| (b) | Omitted. |
 | (c) | Priorities. |
 | (d) | Hazardous conditions at Bureau schools. |
 | (e) | Authorization of appropriations. |
@@ -119,8 +119,9 @@
 | (b) | Amount of grant. |
 | (c) | Application. |
 | (d) | Functions of programs. |
-| (e) | Administrative costs. |
-| (f) | Authorization of appropriations. |
+| (e) | Coordination with other programs. |
+| (f) | Administrative costs. |
+| (g) | Authorization of appropriations. |
 | [2024\.](%C2%A7%2002024%20-%20Tribal%20departments%20of%20education.md) | Tribal departments of education. |
 | (a) | In general. |
 | (b) | Grants. |
@@ -138,7 +139,7 @@ Part B of title XI of the Education Amendments of 1978, comprising this chapter,
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 2503, 2504, 2505 of this title; title 20 section 3489.
+This chapter is referred to in sections 458bbb–2, 2503, 2504, 2505 of this title; title 20 section 3489.
 
 
 ---

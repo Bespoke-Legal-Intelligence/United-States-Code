@@ -18,7 +18,7 @@ The Secretary shall issue such regulations consistent with this chapter as the S
 
 1985—Subsec. (a). Pub. L. 99–198, §1505(a), inserted “, except that a State may not participate in the food stamp program if the Secretary determines that State or local sales taxes are collected within that State on purchases of food made with coupons issued under this chapter” at end of first sentence.
 
-Subsec. (b). Pub. L. 99–198, §1506, struck out first sentence which directed that in jurisdictions where the food stamp program is in operation, there shall be no distribution of federally donated foods to households under the authority of any law, except that distribution may be made (1) on a temporary basis under programs authorized by law to meet disaster relief needs, or (2) for the purpose of the commodity supplemental food program, and struck out “also” after “shall” in second sentence.
+Subsec. (b). Pub. L. 99–198, §1506, struck out first sentence which directed that in jurisdictions where the food stamp program is in operation, there shall be no distribution of federally donated foods to householdsunder the authority of any law, except that distribution may be made (1) on a temporary basis under programs authorized by law to meet disaster relief needs, or (2) for the purpose of the commodity supplemental food program, and struck out “also” after “shall” in second sentence.
 
 1977—Subsec. (a). Pub. L. 95–113 made establishment of food stamp program subject to availability of funds appropriated under section 2027 of this title.
 
@@ -36,7 +36,7 @@ Section 1505(b) of Pub. L. 99–198 provided that:
 
 “(1) Except as provided in paragraph (2), the amendment made by subsection (a) \[amending this section\] shall take effect with respect to a State beginning on the first day of the fiscal year that commences in the calendar year during which the first regular session of the legislature of such State is convened following the date of enactment of this Act \[Dec. 23, 1985\].
 
-“(2) Upon a showing by a State, to the satisfaction of the Secretary, that the application of paragraph (1),without regard to this paragraph, would have an adverse and disruptive effect on the administration of the food stamp program in such State or would provide inadequate time for retail stores to implement changes in sales tax policy required as a result of the amendment made by subsection (a) \[amending this section\], the Secretary may delay the effective date of subsection (a) with respect to such State to a date not later than October 1, 1987.”
+“(2) Upon a showing by a State, to the satisfaction of the Secretary, that the application of paragraph (1), without regard to this paragraph, would have an adverse and disruptive effect on the administration of the food stamp program in such State or would provide inadequate time for retail stores to implement changes in sales tax policy required as a result of the amendment made by subsection (a) \[amending this section\], the Secretary may delay the effective date of subsection (a) with respect to such State to a date not later than October 1, 1987.”
 
 #### Effective Date of 1977 Amendment
 

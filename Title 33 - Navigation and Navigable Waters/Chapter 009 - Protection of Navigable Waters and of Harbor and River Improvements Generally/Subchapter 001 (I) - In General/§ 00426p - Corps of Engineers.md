@@ -42,7 +42,7 @@ The Secretary of the Army may—
 
 #### References in Text
 
-This title, referred to in subsec. (b)(1), is title II of Pub. L. 100–707, Nov. 23, 1988, 102 Stat. 4711, known as the “Great Lakes Planning Assistance Act of 1988”. For complete classification of this Act to the Code, see Short Title note below and Tables.
+This title, referred to in subsec. (b)(1), is title II of Pub. L. 100–707, Nov. 23, 1988, 102 Stat. 4711, known asthe “Great Lakes Planning Assistance Act of 1988”. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 #### Short Title
 

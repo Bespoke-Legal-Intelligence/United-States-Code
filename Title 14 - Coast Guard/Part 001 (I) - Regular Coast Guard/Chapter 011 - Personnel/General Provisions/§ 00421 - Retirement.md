@@ -16,7 +16,7 @@ The other provisions of said section are obsolete and are no longer needed.
 
 Subsection (a) is new, but the provision contained in it is expressed or implied in numerous statutes relating to retirement of military personnel. It is believed desirable to include such a provision to prevent any misconstruction of retirement statutes, even though no change in existing law is intended on the point covered, either by other sections dealing with retirement or by this section.
 
-Subsection (b) is a codification of the only provision of title 14, U.S.C., 1946 ed., §174, that it is desired to retain, and in addition designated the next higher grade for commissioned warrant officers as lieutenant (junior grade) because the pay of the commissioned warrant officers is the same as for the grade of lieutenant (junior grade) and advancing such officers to the grade of ensign would in some aspects not appear to be a promotion. 81st Congress, House Report No. 557.
+Subsection (b) is a codification of the only provision of title 14, U.S.C., 1946 ed., §174, that it is desired to retain, and in addition designated the next higher grade for commissioned warrant officers as lieutenant (juniorgrade) because the pay of the commissioned warrant officers is the same as for the grade of lieutenant (junior grade) and advancing such officers to the grade of ensign would in some aspects not appear to be a promotion. 81st Congress, House Report No. 557.
 
 #### Amendments
 
@@ -27,12 +27,4 @@ Subsection (b) is a codification of the only provision of title 14, U.S.C., 1946
 1984—Subsec. (a). Pub. L. 98–557 substituted reference to enlisted member for reference to enlisted man.
 
 1983—Subsec. (b). Pub. L. 97–417 substituted “commodore” for “rear admiral”.
-
-#### Cross References
-
-Enlisted men, see section 353 et seq. of this title.
-
-Highest grade or rate to be taken, see section 424 of this title.
-
-Officers, see section 282 et seq. of this title.
 

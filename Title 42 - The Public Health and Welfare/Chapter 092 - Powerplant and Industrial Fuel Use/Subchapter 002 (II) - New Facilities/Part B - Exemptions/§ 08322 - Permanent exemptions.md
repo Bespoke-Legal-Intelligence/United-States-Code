@@ -38,7 +38,7 @@ After consideration of a petition (and comments thereon) for an exemption for a 
 
 &emsp;(1) the powerplant uses, or proposes to use, a mixture of petroleum or natural gas and coal or another alternate fuel as a primary energy source; and
 
-&emsp;(2) the amount of the petroleum or natural gas used in such mixture will not exceed the minimum percentage of the total Btu heat input of the primary energy sources of such powerplant needed to maintain reliability of operation of such powerplant consistent with maintaining a reasonable level of fuel efficiency, as determined in accordance with rules prescribed by the Secretary.
+&emsp;(2) the amount of the petroleum or natural gas used in such mixture will not exceed the minimum percentage of the total Btu heat input of the primary energy sources of suchpowerplant needed to maintain reliability of operation of such powerplant consistent with maintaining a reasonable level of fuel efficiency, as determined in accordance with rules prescribed by the Secretary.
 
 #### (e) Permanent exemption for emergency purposes
 

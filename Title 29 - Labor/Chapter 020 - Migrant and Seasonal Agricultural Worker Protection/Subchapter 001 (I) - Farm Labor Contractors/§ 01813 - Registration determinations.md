@@ -2,7 +2,7 @@
 
 #### (a) Grounds for refusal to issue or renew, suspension, or revocation of certificate
 
-In accordance with regulations, the Secretary may refuse to issue or renew, or may suspend orrevoke, a certificate of registration (including a certificate of registration as an employee of a farm labor contractor) if the applicant or holder—
+In accordance with regulations, the Secretary may refuse to issue or renew, or may suspend or revoke, a certificate of registration (including a certificate of registration as an employee of a farm labor contractor) if the applicant or holder—
 
 &emsp;(1) has knowingly made any misrepresentation in the application for such certificate;
 
@@ -26,7 +26,7 @@ In accordance with regulations, the Secretary may refuse to issue or renew, or m
 
 #### (b) Administrative review procedures applicable
 
-(1) The person who is refused the issuance or renewal of a certificate or whose certificate is suspended or revoked under subsection (a) of this section shall be afforded an opportunity for agency hearing, upon request made within thirty days after the date of issuance of the notice of the refusal, suspension, or revocation. In such hearing, all issues shall be determined on the record pursuant to section 554 of title 5. If no hearing is requested as herein provided, the refusal, suspension, or revocation shall constitute a final and unappealable order.
+(1) The person who is refused the issuance or renewal of a certificate or whose certificate is suspended or revoked under subsection (a) of this section shall be afforded an opportunity for agency hearing, upon request made within thirty days after the date of issuance of the notice of the refusal, suspension, or revocation. In such hearing, all issues shall be determined on the record pursuant to section 554 of title 5. If nohearing is requested as herein provided, the refusal, suspension, or revocation shall constitute a final and unappealable order.
 
 (2) If a hearing is requested, the initial agency decision shall be made by an administrative law judge, and such decision shall become the final order unless the Secretary modifies or vacates the decision. Notice of intent to modify or vacate the decision of the administrative law judge shall be issued to the parties within thirty days after the decision of the administrative law judge. A final order which takes effect under this paragraph shall be subject to review only as provided under subsection (c) of this section.
 

@@ -40,7 +40,7 @@ Six of the members of the Committee shall constitute a quorum. All decisions of 
 
 (1) The Director of the United States Information Agency shall make available to the Committee such administrative and technical support services and assistance as it may reasonably require to carry out its activities. Upon the request of the Committee, the head of any other Federal agency may detail to the Committee, on a reimbursable basis, any of the personnel of such agency to assist the Committee in carrying out its functions, and provide such information and assistance as the Committee may reasonably require to carry out its activities.
 
-(2) The Committee shall meet at the call of the Director of the United States Information Agency, or when a majority of its members request a meeting in writing.
+(2) The Committee shall meet at the call of the Director of the United States InformationAgency, or when a majority of its members request a meeting in writing.
 
 #### (f) Reports by Committee
 
@@ -102,7 +102,7 @@ The provisions of the Federal Advisory Committee Act (Public Law 92–463; 5 U.S
 
 #### (2) Governmental information
 
-&emsp;Information submitted in confidence by officers or employees of the United States to the Committee shall not be disclosed other than in accordance with rules issued by the Director of the United States Information Agency, after consultation with the Committee. Such rules shall define the categories of information which require restricted or confidential handling by such Committee considering the extent to which public disclosure of such information can reasonably be expected to prejudice the interests of the United States. Such rules shall, to the maximum extent feasible, permit meaningful consultations by Committee members with persons affected by proposed agreements authorized by this chapter.
+&emsp;Information submitted in confidence by officers or employees of the United States to the Committee shall not be disclosed other than in accordance with rules issued by the Director of the United States Information Agency,after consultation with the Committee. Such rules shall define the categories of information which require restricted or confidential handling by such Committee considering the extent to which public disclosure of such information can reasonably be expected to prejudice the interests of the United States. Such rules shall, to the maximum extent feasible, permit meaningful consultations by Committee members with persons affected by proposed agreements authorized by this chapter.
 
 #### (j) No authority to negotiate
 

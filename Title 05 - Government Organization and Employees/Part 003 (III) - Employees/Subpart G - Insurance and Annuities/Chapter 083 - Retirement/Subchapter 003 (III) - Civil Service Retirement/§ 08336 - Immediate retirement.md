@@ -16,7 +16,7 @@
 
 &emsp;(1) is separated from the service involuntarily, except by removal for cause on charges of misconduct or delinquency; or
 
-&emsp;(2) while serving in a geographic area designated by the Office of Personnel Management, is separated from the service voluntarily during a period in which the Office determines that—
+&emsp;(2) except in the case of an employee who is separated from the service under a program carried out under subsection (<i>o</i>),<sup>1</sup> while serving in a geographic area designated by the Office of Personnel Management, is separated from the service voluntarily during a period in which the Office determines that—
 
 &emsp;&emsp;(A) the agency in which the employee is serving is undergoing a major reorganization, a major reduction in force, or a major transfer of function; and
 
@@ -28,7 +28,7 @@
 
 (f) An employee who is separated from the service after becoming 62 years of age and completing 5 years of service is entitled to an annuity.
 
-(g) A Member who is separated from the service after becoming 62 years of age and completing 5 years of civilian service or after becoming 60 years of age and completing 10 years of Member service is entitled to an annuity. A Member who is separated from the service after becoming 55 years of age (but before becoming 60 years of age) and completing 30 years of service is entitled to a reduced annuity. A Member who is separated from the service, except by resignation or expulsion, after completing 25 years of service or after becoming 50 years of age and (1) completing 20 years of service or (2) serving in 9 Congresses is entitled to an annuity.
+(g) A Member who is separated from the service after becoming 62 years of age and completing 5 years of civilian service or after becoming 60 years of age and completing 10 years of Member service is entitled to an annuity. A Memberwho is separated from the service after becoming 55 years of age (but before becoming 60 years of age) and completing 30 years of service is entitled to a reduced annuity. A Member who is separated from the service, except by resignation or expulsion, after completing 25 years of service or after becoming 50 years of age and (1) completing 20 years of service or (2) serving in 9 Congresses is entitled to an annuity.
 
 (h)(1) A member of the Senior Executive Service who is removed from the Senior Executive Service for failure to be recertified as a senior executive under section 3393a or for less than fully successful executive performance (as determined under subchapter II of chapter 43 of this title) after completing 25 years of service or after becoming 50 years of age and completing 20 years of service is entitled to an annuity.
 
@@ -78,7 +78,7 @@
 
 &emsp;(A) the employee was employed by the tribal organization after January 4, 1975, and immediately before such employment he was an employee of the Bureau of Indian Affairs or the Indian Health Service, and
 
-&emsp;(B) at the time of such employment such employee and the tribal organization were eligible to elect, and elected, to have the employee retain the coverage, rights, and benefits of this chapter under section 105(e)(2) of the Indian Self-Determination Act (25 U.S.C. 450i(a)(2); <sup>1</sup> 88 Stat. 2209).
+&emsp;(B) at the time of such employment such employee and the tribal organization were eligible to elect, and elected, to have the employee retain the coverage, rights, and benefits of this chapter under section 105(e)(2) of the Indian Self-Determination Act (25 U.S.C. 450i(a)(2); <sup>2</sup> 88 Stat. 2209).
 
 (3)(A) The provisions of paragraph (1) of this subsection shall not apply with respect to any separation of any employee which occurs after the date 10 years after—
 
@@ -100,15 +100,81 @@
 
 &emsp;(B) “Indian preference laws” means section 12 of the Act of June 18, 1934 (25 U.S.C. 472; 48 Stat. 986), or any other provision of law granting a preference to Indians in promotions or other Federal personnel actions.
 
-(k) A bankruptcy judge, United States magistrate, or Court of Federal Claims judge who is separated from service, except by removal, after becoming 62 years of age and completing 5 years of civilian service, or after becoming 60 years of age and completing 10 years of service as a bankruptcy judge, United States magistrate, or Court of Federal Claims judge, is entitled to an annuity.
+(k) A bankruptcy judge, United States magistrate judge, or Court of Federal Claims judge who is separated from service, except by removal, after becoming 62 years of age and completing 5 years of civilian service, or after becoming 60 years of age and completing 10 years of service as a bankruptcy judge, United States magistrate judge, or Court of Federal Claims judge, is entitled to an annuity.
 
 (<i>l</i>) A judge of the United States Court of Appeals for the Armed Forces who is separated from the service after becoming 62 years of age and completing 5 years of civilian service or after completing the term of service for which he was appointed as a judge of such court is entitled to an annuity. A judge who is separated from the service before becoming 60 years of age is entitled to a reduced annuity.
 
 (m) A member of the Capitol Police who is separated from the service after becoming 50 years of age and completing 20 years of service as a member of the Capitol Police or as a law enforcement officer, or any combination of such service totaling at least 20 years, is entitled to an annuity.
 
-(n) An annuity or reduced annuity authorized by this section is computed under section 8339 of this title.
+(n) A member of the Supreme Court Police who is separated from the service after becoming 50 years of age and completing 20 years of service as a member of the Supreme Court Police or as a law enforcement officer, or any combination of such service totaling at least 20 years, is entitled to an annuity.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 571; Pub. L. 90–83, §1(75), Sept. 11, 1967, 81 Stat. 214; Pub. L. 92–297, §5, May 16, 1972, 86 Stat. 144; Pub. L. 92–382, Aug. 14, 1972, 86 Stat. 539; Pub. L. 93–39, June 12, 1973, 87 Stat. 73; Pub. L. 93–350, §5, July 12, 1974, 88 Stat. 356; Pub. L. 94–183, §2(40), (41), Dec. 31, 1975, 89 Stat. 1059; Pub. L. 95–454, title III, §306, title IV, §412(a), Oct. 13, 1978, 92 Stat. 1147, 1175; Pub. L. 96–70, title I, §1241(a), Sept. 27, 1979, 93 Stat. 471; Pub. L. 96–135, §1(a), Dec. 5, 1979, 93 Stat. 1056; Pub. L. 97–89, title VIII, §803, Dec. 4, 1981, 95 Stat. 1161; Pub. L. 97–253, title III, §308(a), Sept. 8, 1982, 96 Stat. 798; Pub. L. 98–94, title XII, §1256(b), Sept. 24, 1983, 97 Stat. 701; Pub. L. 98–353, title I, §116(c), July 10, 1984, 98 Stat. 344; Pub. L. 98–531, §2(b), Oct. 19, 1984, 98 Stat. 2704; Pub. L. 98–615, title III, §304(d), Nov. 8, 1984, 98 Stat. 3219; Pub. L. 99–190, §101(d) \[title III, §315\], Dec. 19, 1985, 99 Stat. 1224, 1266; Pub. L. 100–53, §2(c), June 18, 1987, 101 Stat. 368; Pub. L. 100–325, §2(<i>l</i>), May 30, 1988, 102 Stat. 582; Pub. L. 101–194, title V, §506(b)(7), Nov. 30, 1989, 103 Stat. 1758; Pub. L. 101–428, §2(a), Oct. 15, 1990, 104 Stat. 928; Pub. L. 101–510, div. C, title XXXV, §3506(a), Nov. 5, 1990, 104 Stat. 1846; Pub. L. 101–650, title III, §306(c)(3), Dec. 1, 1990, 104 Stat. 5110; Pub. L. 102–572, title IX, §902(b)(2), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–337, div. A, title IX, §924(d)(1)(A), Oct. 5, 1994, 108 Stat. 2832; Pub. L. 105–261, div. A, title XI, §1109(a), div. C, title XXXI, §3154(e), Oct. 17, 1998, 112 Stat. 2143, 2255; Pub. L. 106–58, title VI, §651(b), Sept. 29, 1999, 113 Stat. 480.)
+(<i>o</i>) <sup>3</sup> An annuity or reduced annuity authorized by this section is computed under section 8339 of this title.
+
+(<i>o</i>)(1) <sup>3</sup> The Secretary of Defense may, during fiscal years 2002 and 2003, carry out a program under which an employee of the Department of Defense may be separated from the service entitled to an immediate annuity under this subchapter if the employee—
+
+&emsp;(A) has—
+
+&emsp;&emsp;(i) completed 25 years of service; or
+
+&emsp;&emsp;(ii) become 50 years of age and completed 20 years of service; and
+
+&emsp;(B) is eligible for the annuity under paragraph (2) or (3).
+
+(2)(A) For the purposes of paragraph (1), an employee referred to in that paragraph is eligible for an immediate annuity under this paragraph if the employee—
+
+&emsp;(i) is separated from the service involuntarily other than for cause; and
+
+&emsp;(ii) has not declined a reasonable offer of another position in the Department of Defense for which the employee is qualified, which is not lower than 2 grades (or pay levels) below the employee's grade (or pay level), and which is within the employee's commuting area.
+
+(B) For the purposes of paragraph (2)(A)(i), a separation for failure to accept a directed reassignment to a position outside the commuting area of the employee concerned or to accompany a position outside of such area pursuant to a transfer of function may not be considered to be a removal for cause.
+
+(3) For the purposes of paragraph (1), an employee referred to in that paragraph is eligible for an immediate annuity under this paragraph if the employee satisfies all of the following conditions:
+
+&emsp;(A) The employee is separated from the service voluntarily during a period in which the organization within the Department of Defense in which the employee is serving is undergoing a major organizational adjustment.
+
+&emsp;(B) The employee has been employed continuously by the Department of Defense for more than 30 days before the date on which the head of the employee's organization requests the determinations required under subparagraph (A).
+
+&emsp;(C) The employee is serving under an appointment that is not limited by time.
+
+&emsp;(D) The employee is not in receipt of a decision notice of involuntary separation for misconduct or unacceptable performance.
+
+&emsp;(E) The employee is within the scope of an offer of voluntary early retirement, as defined on the basis of one or more of the following objective criteria:
+
+&emsp;&emsp;(i) One or more organizational units.
+
+&emsp;&emsp;(ii) One or more occupational groups, series, or levels.
+
+&emsp;&emsp;(iii) One or more geographical locations.
+
+&emsp;&emsp;(iv) Any other similar objective and nonpersonal criteria that the Office of Personnel Management determines appropriate.
+
+(4) Under regulations prescribed by the Office of Personnel Management, the determinations of whether an employee meets—
+
+&emsp;(A) the requirements of subparagraph (A) of paragraph (3) shall be made by the Office, upon the request of the Secretary of Defense; and
+
+&emsp;(B) the requirements of subparagraph (E) of such paragraph shall be made by the Secretary of Defense.
+
+(5) A determination of which employees are within the scope of an offer of early retirement shall be made only on the basis of consistent and well-documented application of the relevant criteria.
+
+(6) In this subsection, the term “major organizational adjustment” means any of the following:
+
+&emsp;(A) A major reorganization.
+
+&emsp;(B) A major reduction in force.
+
+&emsp;(C) A major transfer of function.
+
+&emsp;(D) A workforce restructuring—
+
+&emsp;&emsp;(i) to meet mission needs;
+
+&emsp;&emsp;(ii) to achieve one or more reductions in strength;
+
+&emsp;&emsp;(iii) to correct skill imbalances; or
+
+&emsp;&emsp;(iv) to reduce the number of high-grade, managerial, supervisory, or similar positions.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 571; Pub. L. 90–83, §1(75), Sept. 11, 1967, 81 Stat. 214; Pub. L. 92–297, §5, May 16, 1972, 86 Stat. 144; Pub. L. 92–382, Aug. 14, 1972, 86 Stat. 539; Pub. L. 93–39, June 12, 1973, 87 Stat. 73; Pub. L. 93–350, §5, July 12, 1974, 88 Stat. 356; Pub. L. 94–183, §2(40), (41), Dec. 31, 1975, 89 Stat. 1059; Pub. L. 95–454, title III, §306, title IV, §412(a), Oct. 13, 1978, 92 Stat. 1147, 1175; Pub. L. 96–70, title I, §1241(a), Sept. 27, 1979, 93 Stat. 471; Pub. L. 96–135, §1(a), Dec. 5, 1979, 93 Stat. 1056; Pub. L. 97–89, title VIII, §803, Dec. 4, 1981, 95 Stat. 1161; Pub. L. 97–253, title III, §308(a), Sept. 8, 1982, 96 Stat. 798; Pub. L. 98–94, title XII, §1256(b), Sept. 24, 1983, 97 Stat. 701; Pub. L. 98–353, title I, §116(c), July 10, 1984, 98 Stat. 344; Pub. L. 98–531, §2(b), Oct. 19, 1984, 98 Stat. 2704; Pub. L. 98–615, title III, §304(d), Nov. 8, 1984, 98 Stat. 3219; Pub. L. 99–190, §101(d) \[title III, §315\], Dec. 19, 1985, 99 Stat. 1224, 1266; Pub. L. 100–53, §2(c), June 18, 1987, 101 Stat. 368; Pub. L. 100–325, §2(<i>l</i>), May 30, 1988, 102 Stat. 582; Pub. L. 101–194, title V, §506(b)(7), Nov. 30, 1989, 103 Stat. 1758; Pub. L. 101–428, §2(a), Oct. 15, 1990, 104 Stat. 928; Pub. L. 101–510, div. C, title XXXV, §3506(a), Nov. 5, 1990, 104 Stat. 1846; Pub. L. 101–650, title III, §§306(c)(3), 321, Dec. 1, 1990, 104 Stat. 5110, 5117; Pub. L. 102–572, title IX, §902(b)(2), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–337, div. A, title IX, §924(d)(1)(A), Oct. 5, 1994, 108 Stat. 2832; Pub. L. 105–261, div. A, title XI, §1109(a), div. C, title XXXI, §3154(e), Oct. 17, 1998, 112 Stat. 2143, 2255; Pub. L. 106–58, title VI, §651(b), Sept. 29, 1999, 113 Stat. 480; Pub. L. 106–398, §1 \[\[div. A\], title XI, §1152(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–320; Pub. L. 106–553, §1(a)(2) \[title III, §308(b)(3)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–87.)
 
 #### Application of Subsection (d)(2)
 
@@ -188,11 +254,19 @@ In subsections (a) and (b), the words “is entitled to” are substituted for �
 
 #### References in Text
 
-Section 105(e)(2) of the Indian Self-Determination Act (25 U.S.C. 450i(a)(2); 88 Stat. 2209), referred to in subsec.\(j)(2)(B), was renumbered section 104(e)(2) of that Act by Pub. L. 100–472, title II, §203(a), Oct. 5, 1988, 102 Stat. 2290, without corresponding amendment to this section. Section 104(e)(2) of the Indian Self-Determination Act is classified to section 450i(e)(2) of Title 25, Indians. Section 105 of that Act is classified to section 450j of Title 25.
+Section 105(e)(2) of the Indian Self-Determination Act (25 U.S.C. 450i(a)(2); 88 Stat. 2209), referred to in subsec. (j)(2)(B), was renumbered section 104(e)(2) of that Act by Pub. L. 100–472, title II, §203(a), Oct. 5, 1988, 102 Stat.2290, without corresponding amendment to this section. Section 104(e)(2) of the Indian Self-Determination Act is classified to section 450i(e)(2) of Title 25, Indians. Section 105 of that Act is classified to section 450j of Title 25.
 
 The date of the enactment of this paragraph, referred to in subsec. (j)(3)(A)(ii), is Dec. 5, 1979, the date of the enactment of Pub. L. 96–135, which was approved Dec. 5, 1979.
 
 #### Amendments
+
+2000—Subsec. (d)(2). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1152(a)(1)\], inserted “except in the case of an employee who is separated from the service under a program carried out under subsection (<i>o</i>),” before “while serving” in introductory provisions.
+
+Subsec. (n). Pub. L. 106–553 added subsec. (n). Former subsec. (n), relating to computation of annuity under section 8339 of this title, redesignated (<i>o</i>).
+
+Subsec. (<i>o</i>). Pub. L. 106–553 redesignated subsec. (n), relating to computation of annuity under section 8339 of this title, as (<i>o</i>).
+
+Pub. L. 106–398, §1 \[\[div. A\], title XI, §1152(a)(2)\], added subsec. (<i>o</i>) relating to Department of Defense employees.
 
 1999—Subsecs. (d)(2), (<i>o</i>). Pub. L. 106–58 repealed Pub. L. 105–261, §1109(a). See 1998 Amendment notes below.
 
@@ -264,13 +338,17 @@ Subsecs. (e) to (h). Pub. L. 92–297 added subsec. (e) and redesignated former 
 
 #### Change of Name
 
-Reference to United States magistrate or to magistrate deemed to refer to United States magistrate judge pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+“United States magistrate judge” substituted for “United States magistrate” wherever appearing in subsec. (k) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
 Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 3508 of Title 20, Education.
 
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–553 effective on the first day of the first applicable pay period that begins on Dec. 21, 2000, and applicable only to an individual who is employed as a member of the Supreme Court Police after Dec. 21, 2000, see section 1(a)(2) \[title III, §308(i), (j)\] of Pub. L. 106–553, set out in a Supreme Court Police Retirement note under section 8331 of this title.
+
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–261, div. A, title XI, §1109(d), Oct. 17, 1998, 112 Stat. 2145, as amended by Pub. L. 106–65, div. A, title XI, §1101, Oct. 5, 1999, 113 Stat. 775, which provided that the amendments made by section 1109 of Pub. L. 105–261 (amending this section and sections 8339, 8414, and 8464 of this title) were to be effective Oct. 1, 2000, and applicable with respect to an approval for voluntary early retirement made on or after that date, was repealed byPub. L. 106–58, title VI, §651(b), Sept. 29, 1999, 113 Stat. 480.
+Pub. L. 105–261, div. A, title XI, §1109(d), Oct. 17, 1998, 112 Stat. 2145, as amended by Pub. L. 106–65, div. A, title XI, §1101, Oct. 5, 1999, 113 Stat. 775, which provided that the amendments made by section 1109 of Pub. L. 105–261 (amending this section and sections 8339, 8414, and 8464 of this title) were to be effective Oct. 1, 2000, and applicable with respect to an approval for voluntary early retirement made on or after that date, was repealed by Pub. L. 106–58, title VI, §651(b), Sept. 29, 1999, 113 Stat. 480.
 
 Amendment by section 3154(e) of Pub. L. 105–261 effective at the beginning of the first pay period that begins after Oct. 17, 1998, and applicable only to an individual who is employed as a nuclear materials courier, as defined by section 8331(27) or 8401(33) of this title, after Oct. 17, 1998, see section 3154(m), (n) of Pub. L. 105–261, set out as a note under section 8331 of this title.
 
@@ -330,6 +408,60 @@ Amendment by Pub. L. 92–297 effective on 90th day after May 16, 1972, see sect
 
 For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203(a) of Pub. L. 96–70, title II, Sept. 27, 1979, 93 Stat. 493, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
 
+#### General Accounting Office: Voluntary Early Retirement
+
+Pub. L. 106–303, §1, Oct. 13, 2000, 114 Stat. 1063, provided that:
+
+“(a)
+
+Civil Service Retirement System.—Effective for purposes of the period beginning on the date of the enactment of this Act \[Oct. 13, 2000\] and ending on December 31, 2003, paragraph (2) of section 8336(d) of title 5, United States Code, shall, with respect to officers and employees of the General Accounting Office, be applied as if it had been amended to read as follows:
+
+&emsp;“(2)(A) has been employed continuously by the General Accounting Office for at least the 31-day period immediately preceding the start of the period referred to in subparagraph (D);
+
+&emsp;“(B) is serving under an appointment that is not time limited;
+
+&emsp;“(C) has not received a notice of involuntary separation, for misconduct or unacceptable performance, with respect to which final action remains pending; and
+
+&emsp;“(D) is separated from the service voluntarily during a period with respect to which the Comptroller General determines that the application of this subsection is necessary and appropriate for the purpose of—
+
+&emsp;&emsp;“(i) realigning the General Accounting Office's workforce in order to meet budgetary constraints or mission needs;
+
+&emsp;&emsp;“(ii) correcting skill imbalances; or
+
+&emsp;&emsp;“(iii) reducing high-grade, managerial, or supervisory positions;
+
+“(b)
+
+Federal Employees’ Retirement System.—Effective for purposes of the period beginning on the date of the enactment of this Act \[Oct. 13, 2000\] and ending on December 31, 2003, subparagraph (B) of section 8414(b)(1) of title 5, United States Code, shall, with respect to officers and employees of the General Accounting Office, be applied as if it had been amended to read as follows:
+
+&emsp;“(B)(i) has been employed continuously by the General Accounting Office for at least the 31-day period immediately preceding the start of the period referred to in clause (iv);
+
+&emsp;“(ii) is serving under an appointment that is not time limited;
+
+&emsp;“(iii) has not received a notice of involuntary separation, for misconduct or unacceptable performance, with respect to which final action remains pending; and
+
+&emsp;“(iv) is separated from the service voluntarily during a period with respect to which the Comptroller General determines that the application of this subsection is necessary and appropriate for the purpose of—
+
+&emsp;&emsp;“(I) realigning the General Accounting Office's workforce in order to meet budgetary constraints or mission needs;
+
+&emsp;&emsp;“(II) correcting skill imbalances; or
+
+&emsp;&emsp;“(III) reducing high-grade, managerial, or supervisory positions;
+
+“(c)
+
+Numerical Limitation.—Not to exceed 10 percent of the General Accounting Office's workforce (as of the start of a fiscal year) shall be permitted to take voluntary early retirement in such fiscal year pursuant to this section.
+
+“(d)
+
+Regulations.—The Comptroller General shall prescribe any regulations necessary to carry out this section, including regulations under which an early retirement offer may be made to any employee or group of employees based on—
+
+&emsp;“(1) geographic area, organizational unit, or occupational series or level;
+
+&emsp;“(2) skills, knowledge, or performance; or
+
+&emsp;“(3) such other similar factors (or combination of factors described in this or any other paragraph of this subsection) as the Comptroller General considers necessary and appropriate in order to achieve the purpose involved.”
+
 #### Indian Preference Laws Applicable to Bureau of Indian Affairs and Indian Health Service Positions
 
 Nonapplicability of annuity provisions of subsec. (j) of this section to individuals accepting waiver of Indian preference laws with respect to personnel actions, see section 472a(c)(2) of Title 25, Indians.
@@ -338,13 +470,13 @@ Nonapplicability of annuity provisions of subsec. (j) of this section to individ
 
 Section 1241(b)(2) of Pub. L. 96–70 provided that: “Effective October 1, 1979, any individual who, but for paragraph (1) of this subsection \[set out as an Effective Date of 1979 Amendment note above\], would have been entitled to one or more annuity payments pursuant to the amendments made by this section \[amending this section\] for periods before October 1, 1979, shall be entitled, to such extent or in such amounts as are provided in advance in appropriation Acts, to a lump sum payment equal to the total amount of all such annuity payments.”
 
-#### Cross References
-
-Computation of annuity of employees retiring under subsec. (c) of this section, see section 8339 of this title.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3381, 3382, 3396, 6302, 8335, 8339, 8348 of this title; title 22 sections 3671, 3691, 4045, 4046, 4051, 4052; title 24 section 225d; title 25 section 472a; title 45 section 1206; title 50 section 2053.
+This section is referred to in sections 3381, 3382, 3396, 5597, 6302, 8335, 8339, 8348 of this title; title 10 section 10218; title 22 sections 3671, 3691, 4045, 4046, 4051, 4052; title 24 section 225d; title 25 section 472a; title 45 section 1206; title 50 sections 2053, 2442.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> Probably means the subsec. (o) relating to Department of Defense employees.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
+
+<i><sup>3</sup></i><i> So in original. Two subsecs. (o) have been enacted.</i>
 

@@ -26,9 +26,11 @@
 
 &emsp;&emsp;(ii) any earnings attributable to a period before attaining the applicable retirement age under section 8412(h) shall not be considered in determining the excess earnings of an individual who retires under section 8412(d) or (e), or section 8414(c).
 
+&emsp;(5) Notwithstanding paragraphs (1) through (4), the reduction required by subsection (a) shall be effective with respect to the annuity supplement payable for each month in the 12-month period beginning on the first day of the seventh month after the end of the calendar year in which the excess earnings were earned.
+
 (c) The Office shall prescribe regulations under which this section shall be applied in the case of a reemployed annuitant.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 535; amended Pub. L. 99–556, title I, §121, Oct. 27, 1986, 100 Stat. 3134.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 535; amended Pub. L. 99–556, title I, §121, Oct. 27, 1986, 100 Stat. 3134; Pub. L. 106–394, §3(a), Oct. 30, 2000, 114 Stat. 1630.)
 
 #### References in Text
 
@@ -36,7 +38,13 @@ Section 203 of the Social Security Act, referred to in subsec. (b)(4)(A), is cla
 
 #### Amendments
 
+2000—Subsec. (b)(5). Pub. L. 106–394 added par. (5).
+
 1986—Subsecs. (c), (d). Pub. L. 99–556 redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “If, after an individual ceases to be entitled to an annuity supplement under section 8421 by reason of subsection (a)(3)(B) of such section, any portion of the individual's excess earnings remains outstanding, an amount not to exceed 25 percent of the amount otherwise payable to such individual under this chapter for each month shall be deducted from such monthly payment until the full amount of that outstanding portion has been accounted for. To the extent practicable, reductions under this subsection shall be made by a level percentage.”
+
+#### Effective Date of 2000 Amendment
+
+Pub. L. 106–394, §3(b), Oct. 30, 2000, 114 Stat. 1630, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to reductions required to be made in calendar years beginning after the date of the enactment of this Act \[Oct. 30, 2000\].”
 
 #### Section Referred to in Other Sections
 

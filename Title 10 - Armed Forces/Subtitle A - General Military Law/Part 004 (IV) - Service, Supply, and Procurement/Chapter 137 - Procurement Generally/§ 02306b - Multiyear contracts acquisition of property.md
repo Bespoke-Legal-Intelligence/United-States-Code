@@ -78,7 +78,7 @@ Defense Acquisitions Specifically Authorized by Law.—(1) A multiyear contract 
 
 (2) If for any fiscal year a multiyear contract to be entered into under this section is authorized by law for a particular procurement program and that authorization is subject to certain conditions established by law (including a condition as to cost savings to be achieved under the multiyear contract in comparison to specified other contracts) and if it appears (after negotiations with contractors) that such savings cannot be achieved, but that substantial savings could nevertheless be achieved through the use of a multiyear contract rather than specified other contracts, the President may submit to Congress a request for relief from the specified cost savings that must be achieved through multiyear contracting for that program. Any such request by the President shall include details about the request for a multiyear contract, including details about the negotiated contract terms and conditions.
 
-(3) In the case of the Department of Defense, a multiyear contract in an amount equal to or greater than $500,000,000 may not be entered into for any fiscal year under this section unless thecontract is specifically authorized by law in an Act other than an appropriations Act.
+(3) In the case of the Department of Defense, a multiyear contract in an amount equal to or greater than $500,000,000 may not be entered into for any fiscal year under this section unless the contract is specifically authorized by law in an Act other than an appropriations Act.
 
 (j)
 
@@ -86,7 +86,7 @@ Defense Contract Options for Varying Quantities.—The Secretary of Defense may 
 
 (k)
 
-Multiyear Contract Defined.—For the purposes of this section, a multiyear contract is a contract for the purchase of property or services for more than one, but not more than five, program years. Such a contract may provide that performance under the contract during the second and subsequent years of the contract is contingent upon the appropriation of funds and (if it does so provide) may provide for a cancellation payment to be made to the contractor if such appropriations are not made.
+Multiyear Contract Defined.—For the purposes of this section, a multiyear contract is a contract for the purchase of property for more than one, but not more than five, program years. Such a contract may provide that performance under the contract during the second and subsequent years of the contract is contingent upon the appropriation of funds and (if it does so provide) may provide for a cancellation payment to be made to the contractor if such appropriations are not made.
 
 (<i>l</i>)
 
@@ -104,9 +104,9 @@ Various Additional Requirements With Respect to Multiyear Defense Contracts.—(
 
 (2) The head of an agency may not initiate a multiyear contract for which the economic order quantity advance procurement is not funded at least to the limits of the Government's liability.
 
-(3) The head of an agency may not initiate a multiyear procurement contract for any system (or component thereof) if the value of the multiyear contract would exceed $500,000,000 unless authority for the contract is specifically provided in an appropriations Act.
+(3) The head of an agency may not initiate a multiyear procurement contract for any system (or component thereof) if the value of the multiyear contract would exceed $500,000,000 unlessauthority for the contract is specifically provided in an appropriations Act.
 
-(4) The head of an agency may not enter into a multiyear contract (or extend an existing multiyear contract) until the Secretary of Defense submits to the congressional defense committees a report with respect to that contract (or contract extension) that provides the following information, shown for each year in the current future-years defense program and in the aggregate over the period of the current future-years defense program:
+(4) Not later than the date of the submission of the President's budget request under section 1105 of title 31, the Secretary of Defense shall submit a report to the congressional defense committees each year, providing the following information with respect to each multiyear contract (and each extension of an existing multiyear contract) entered into, or planned to be entered into, by the head of an agency during the current or preceding year, shown for each year in the current future-years defense program and in the aggregate over the period of the current future-years defense program:
 
 &emsp;(A) The amount of total obligational authority under the contract (or contract extension) and the percentage that such amount represents of—
 
@@ -114,7 +114,7 @@ Various Additional Requirements With Respect to Multiyear Defense Contracts.—(
 
 &emsp;&emsp;(ii) the agency procurement total.
 
-&emsp;(B) The amount of total obligational authority under all multiyear procurements of the agency concerned (determined without regard to the amount of the multiyear contract (or contract extension)) under multiyear contracts in effect immediately before the contract (or contract extension) is entered into and the percentage that such amount represents of—
+&emsp;(B) The amount of total obligational authority under all multiyear procurements of the agency concerned (determined without regard to the amount of the multiyear contract (or contract extension)) under multiyear contracts in effect at the time the report is submitted and the percentage that such amount represents of—
 
 &emsp;&emsp;(i) the applicable procurement account; and
 
@@ -128,27 +128,37 @@ Various Additional Requirements With Respect to Multiyear Defense Contracts.—(
 
 &emsp;(D) The amount of total obligational authority under all Department of Defense multiyear procurements (determined without regard to the amount of the multiyear contract (or contract extension)), including any multiyear contract (or contract extension) that has been authorized by the Congress but not yet entered into, and the percentage that such amount represents of the procurement accounts of the Department of Defense treated in the aggregate.
 
-(5) The head of an agency may not terminate a multiyear procurement contract until 10 days after the date on which notice of the proposed termination is provided to the congressional defense committees.
+(5) The head of an agency may not enter into a multiyear contract (or extend an existing multiyear contract), the value of which would exceed $500,000,000 (when entered into or when extended, as the case may be), until the Secretary of Defense submits to the congressional defense committees a report containing the information described in paragraph (4) with respect to the contract (or contract extension).
 
-(6) The execution of multiyear contracting authority shall require the use of a present value analysis to determine lowest cost compared to an annual procurement.
+(6) The head of an agency may not terminate a multiyear procurement contract until 10 days after the date on which notice of the proposed termination is provided to the congressional defense committees.
 
-(7) This subsection does not apply to the National Aeronautics and Space Administration or to the Coast Guard.
+(7) The execution of multiyear contracting authority shall require the use of a present value analysis to determine lowest cost compared to an annual procurement.
 
-(8) In this subsection, the term “congressional defense committees” means the following:
+(8) This subsection does not apply to the National Aeronautics and Space Administration or to the Coast Guard.
+
+(9) In this subsection, the term “congressional defense committees” means the following:
 
 &emsp;(A) The Committee on Armed Services of the Senate and the Subcommittee on Defense of the Committee on Appropriations of the Senate.
 
 &emsp;(B) The Committee on Armed Services of the House of Representatives and the Subcommittee on National Security of the Committee on Appropriations of the House of Representatives.
 
-(9) In this subsection:
+(10) In this subsection:
 
 &emsp;(A) The term “applicable procurement account” means, with respect to a multiyear procurement contract (or contract extension), the appropriation account from which payments to execute the contract will be made.
 
 &emsp;(B) The term “agency procurement total” means the procurement accounts of the agency entering into a multiyear procurement contract (or contract extension) treated in the aggregate.
 
-(Added Pub. L. 103–355, title I, §1022(a)(1), Oct. 13, 1994, 108 Stat. 3257; amended Pub. L. 104–106, div. A, title XV, §1502(a)(10), div. E, title LVI, §5601(b), Feb. 10, 1996, 110 Stat. 503, 699; Pub. L. 105–85, div. A, title VIII, §806(a)(1), (b)(1), (c), title X, §1073(a)(47), (48)(A), Nov. 18, 1997, 111 Stat. 1834, 1835, 1903; Pub. L. 106–65, div. A, title VIII, §809, title X, §1067(1), Oct. 5, 1999, 113 Stat. 705, 774.)
+(Added Pub. L. 103–355, title I, §1022(a)(1), Oct. 13, 1994, 108 Stat. 3257; amended Pub. L. 104–106, div. A, title XV, §1502(a)(10), div. E, title LVI, §5601(b), Feb. 10, 1996, 110 Stat. 503, 699; Pub. L. 105–85, div. A, title VIII, §806(a)(1), (b)(1), (c), title X, §1073(a)(47), (48)(A), Nov. 18, 1997, 111 Stat. 1834, 1835, 1903; Pub. L. 106–65, div. A, title VIII, §809, title X, §1067(1), Oct. 5, 1999, 113 Stat. 705, 774; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §§802(c), 806\], Oct. 30, 2000, 114 Stat. 1654, 1654A–205, 1654A–207.)
 
 #### Amendments
+
+2000—Subsec. (k). Pub. L. 106–398, §1 \[\[div. A\], title VIII, §802(c)\], struck out “or services” after “purchase of property”.
+
+Subsec. (<i>l</i>)(4). Pub. L. 106–398, §1 \[\[div. A\], title VIII, §806(1)(A)\], in introductory provisions, substituted “Not later than the date of the submission of the President's budget request under section 1105 of title 31, the Secretary of Defense shall submit a report to the congressional defense committees each year, providing the following information with respect to each multiyear contract (and each extension of an existing multiyear contract) entered into, or planned to be entered into, by the head of an agency during the current or preceding year” for “The head of an agency may not enter into a multiyear contract (or extend an existing multiyear contract) until the Secretary of Defense submits to the congressional defense committees a report with respect to that contract (or contract extension) that provides the following information”.
+
+Subsec. (<i>l</i>)(4)(B). Pub. L. 106–398, §1 \[\[div. A\], title VIII, §806(1)(B)\], substituted “in effect at the time the report is submitted” for “in effect immediately before the contract (or contract extension) is entered into” in introductory provisions.
+
+Subsec. (<i>l</i>)(5) to (10). Pub. L. 106–398, §1 \[\[div. A\], title VIII, §806(2), (3)\], added par. (5) and redesignated former pars. (5) to (9) as (6) to (10), respectively.
 
 1999—Subsec. (g). Pub. L. 106–65, §1067(1), substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 
@@ -217,6 +227,8 @@ Pub. L. 105–56, title VIII, §8008, Oct. 8, 1997, 111 Stat. 1221, provided tha
 &emsp;“(3) the Secretary of Defense makes such request in writing to the congressional defense committees.”
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 106–259, title VIII, §8008, Aug. 9, 2000, 114 Stat. 675.
 
 Pub. L. 106–79, title VIII, §8008, Oct. 25, 1999, 113 Stat. 1232.
 

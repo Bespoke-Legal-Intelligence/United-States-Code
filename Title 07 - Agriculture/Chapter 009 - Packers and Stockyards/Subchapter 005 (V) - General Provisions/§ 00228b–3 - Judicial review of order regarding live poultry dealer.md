@@ -26,7 +26,7 @@ If the court determines that the just and proper disposition of the case require
 
 #### (g) Affirmance or modification of order as injunction
 
-If the court of appeals affirms or modifies the order of the Secretary, its decree shall operateas an injunction to restrain the live poultry dealer, and his officers, directors, agents, and employees from violating the provisions of such order or such order as modified.
+If the court of appeals affirms or modifies the order of the Secretary, its decree shall operate as an injunction to restrain the live poultry dealer, and his officers, directors, agents, and employees from violating the provisions of such order or such order as modified.
 
 #### (h) Exclusive jurisdiction of court of appeals; finality of decree; appeal to Supreme Court; stay of decree
 

@@ -38,10 +38,6 @@ For purposes of this section—
 
 (Aug. 1, 1956, ch. 841, title II, §204A, as added Pub. L. 98–164, title VI, §603, Nov. 22, 1983, 97 Stat. 1042; amended Pub. L. 103–236, title I, §162(<i>o</i>)(4), Apr. 30, 1994, 108 Stat. 410.)
 
-#### Codification
-
-Section is also set out in D.C. Code, §5–1204.1.
-
 #### Amendments
 
 1994—Subsecs. (a), (b). Pub. L. 103–236 substituted “Secretary” for “Director” wherever appearing.

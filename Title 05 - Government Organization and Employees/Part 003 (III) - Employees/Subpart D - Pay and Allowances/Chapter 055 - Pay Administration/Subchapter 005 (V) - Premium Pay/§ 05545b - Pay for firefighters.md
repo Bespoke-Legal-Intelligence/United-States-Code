@@ -30,11 +30,21 @@
 
 (3) The Office of Personnel Management may prescribe regulations, with respect to firefighters subject to this section, that would permit an agency to reduce or eliminate the variation in the amount of firefighters’ biweekly pay caused by work scheduling cycles that result in varying hours in the regular tours of duty from pay period to pay period. Under such regulations, the pay that a firefighter would otherwise receive for regular tours of duty over the work scheduling cycle shall, to the extent practicable, remain unaffected.
 
-(Added Pub. L. 105–277, div. A, §101(h) \[title VI, §628(a)(2)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–519.)
+(4) Notwithstanding section 8114(e)(1), overtime pay for a firefighter subject to this section for hours in a regular tour of duty shall be included in any computation of pay under section 8114.
+
+(Added Pub. L. 105–277, div. A, §101(h) \[title VI, §628(a)(2)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–519; amended Pub. L. 106–554, §1(a)(3) \[title VI, §641(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–169.)
 
 #### References in Text
 
 Section 7(k) of the Fair Labor Standards Act of 1938, referred to in subsec. (d)(2), is classified to section 207(k) of Title 29, Labor.
+
+#### Amendments
+
+2000—Subsec. (d)(4). Pub. L. 106–554 added par. (4).
+
+#### Effective Date of 2000 Amendment
+
+Pub. L. 106–554, §1(a)(3) \[title VI, §641(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–169, provided that: “The amendment in subsection (a) \[amending this section\] shall be effective as if it had been enacted as part of the Federal Firefighters Overtime Pay Reform Act of 1998 \[Pub. L. 105–277, div A, §101(h) \[title VI, §628\]\] (112 Stat. 2681–519).”
 
 #### Effective Date
 

@@ -30,7 +30,7 @@ Specific Powers.—The Office—
 
 &emsp;(3) may acquire, construct, purchase, lease, hold, manage, operate, improve, alter, and renovate any real, personal, or mixed property, or any interest therein, as it considers necessary to carry out its functions;
 
-&emsp;(4)(A) may make such purchases, contracts for the construction, maintenance, or management and operation of facilities, and contracts for supplies or services, without regard to the provisions of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.), the Public Buildings Act (40 U.S.C. 601 et seq.), and the Stewart B. McKinney Homeless Assistance Act (42 U.S.C. 11301 et seq.); and
+&emsp;(4)(A) may make such purchases, contracts for the construction, maintenance, or management and operation of facilities, and contracts for supplies or services, without regard to the provisions of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.), the Public Buildings Act (40 U.S.C. 601 et seq.), and the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11301 et seq.); and
 
 &emsp;(B) may enter into and perform such purchases and contracts for printing services, including the process of composition, platemaking, presswork, silk screen processes, binding, microform, and the products of such processes, as it considers necessary to carry out the functions of the Office, without regard to sections 501 through 517 and 1101 through 1123 of title 44, United States Code;
 
@@ -38,7 +38,7 @@ Specific Powers.—The Office—
 
 &emsp;(6) may, when the Director determines that it is practicable, efficient, and cost-effective to do so, use, with the consent of the United States and the agency, instrumentality, Patent and Trademark Office, or international organization concerned, the services, records, facilities, or personnel of any State or local government agency or instrumentality or foreign patent and trademark office or international organization to perform functions on its behalf;
 
-&emsp;(7) may retain and use all of its revenues and receipts, including revenues from the sale, lease, or disposal of any real, personal, or mixed property, or any interest therein, of the Office;
+&emsp;(7) may retain and use all of its revenues and receipts, including revenues from the sale,lease, or disposal of any real, personal, or mixed property, or any interest therein, of the Office;
 
 &emsp;(8) shall advise the President, through the Secretary of Commerce, on national and certain international intellectual property policy issues;
 
@@ -72,7 +72,7 @@ Clarification of Specific Powers.—(1) The special payments under subsection (b
 
 Construction.—Nothing in this section shall be construed to nullify, void, cancel, or interrupt any pending request-for-proposal let or contract issued by the General Services Administration for the specific purpose of relocating or leasing space to the United States Patent and Trademark Office.
 
-(July 19, 1952, ch. 950, 66 Stat. 792; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4712\], Nov. 29, 1999, 113 Stat. 1536, 1501A–572.)
+(July 19, 1952, ch. 950, 66 Stat. 792; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4712\], Nov. 29, 1999, 113 Stat. 1536, 1501A–572; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675.)
 
 #### Historical and Revision Notes
 
@@ -86,9 +86,11 @@ The Federal Property and Administrative Services Act of 1949, referred to in sub
 
 The Public Buildings Act, referred to in subsec. (b)(4)(A), probably means Pub. L. 86–249, Sept. 9, 1959, 73 Stat. 479, as amended, known as the Public Buildings Act of 1959, which is classified principally to chapter 12 (§601 et seq.) of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 40 and Tables.
 
-The Stewart B. McKinney Homeless Assistance Act, referred to in subsec. (b)(4)(A), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended, which is classified principally to chapter 119 (§11301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
+The McKinney-Vento Homeless Assistance Act, referred to in subsec. (b)(4)(A), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended, which is classified principally to chapter 119 (§11301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
 
 #### Amendments
+
+2000—Subsec. (b)(4)(A). Pub. L. 106–400 substituted “McKinney-Vento Homeless Assistance Act” for “Stewart B. McKinney Homeless Assistance Act”.
 
 1999—Pub. L. 106–113 amended section catchline and text generally. Prior to amendment, text read as follows: “The Patent and Trademark Office shall have a seal with which letters patent, certificates of trade-mark registrations, and papers issued from the Office shall be authenticated.”
 

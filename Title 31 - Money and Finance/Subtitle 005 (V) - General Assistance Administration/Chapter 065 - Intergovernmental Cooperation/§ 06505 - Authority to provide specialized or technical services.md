@@ -1,6 +1,6 @@
 ### §6505. Authority to provide specialized or technical services
 
-(a) The President may prescribe statistical and other studies and compilations, development projects, technical tests and evaluations, technical information, training activities, surveys, reports, documents, and other similar services that an executive agency is especially competent and authorized by law to provide. The services prescribed must be consistent with and further the policy of the United States Government of relying on the private enterprise system to provide services reasonably and quickly available through ordinary business channels.
+(a) The President may prescribe statistical and other studies and compilations, development projects, technical tests and evaluations, technical information, training activities, surveys, reports, documents, and other similar services that an executive agency is especially competent and authorized by law to provide.The services prescribed must be consistent with and further the policy of the United States Government of relying on the private enterprise system to provide services reasonably and quickly available through ordinary business channels.
 
 (b) The head of an executive agency may provide services prescribed by the President under this section to a State or local government when—
 
@@ -55,6 +55,56 @@ In subsection (b), the word “may” is substituted for “is authorized within
 In subsection (c), the word “Payment” is substituted for “moneys” for consistency in the section. The words “All” and “or any bureau or other administrative division thereof” are omitted as surplus.
 
 In subsection (d), the words “and does not supersede” are omitted as unnecessary. The words “authority under another law in effect on October 16, 1968” are substituted for “authority now possessed” for clarity. The words “by any Federal department or agency with respect to furnishing services, whether on a reimbursable or nonreimbursable basis, to State and local units of government” are omitted as unnecessary.
+
+#### Performance of Specialized or Technical Services
+
+Pub. L. 106–541, title II, §211, Dec. 11, 2000, 114 Stat. 2592, provided that:
+
+“(a)
+
+Definition of State.—In this section, the term ‘State’ has the meaning given the term in section 6501 of title 31, United States Code.
+
+“(b)
+
+Authority.—The Corps of Engineers may provide specialized or technical services to a Federal agency (other than an agency of the Department of Defense) or a State or local government under section 6505 of title 31, United States Code, only if the chief executive of the requesting entity submits to the Secretary \[of the Army\]—
+
+&emsp;“(1) a written request describing the scope of the services to be performed and agreeing to reimburse the Corps for all costs associated with the performance of the services; and
+
+&emsp;“(2) a certification that includes adequate facts to establish that the services requested are not reasonably and quickly available through ordinary business channels.
+
+“(c)
+
+Corps Agreement To Perform Services.—The Secretary, after receiving a request described in subsection (b) to provide specialized or technical services, shall, before entering into an agreement to perform the services—
+
+&emsp;“(1) ensure that the requirements of subsection (b) are met with regard to the request for services; and
+
+&emsp;“(2) execute a certification that includes adequate facts to establish that the Corps is uniquely equipped to perform such services.
+
+“(d)
+
+Annual Report to Congress.—
+
+&emsp;“(1)
+
+In general.—Not later than the last day of each calendar year, the Secretary shall provide to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report identifying any request submitted by a Federal agency (other than an agency of the Department of Defense) or a State or local government to the Corps to provide specialized or technical services.
+
+&emsp;“(2)
+
+Contents of report.—The report shall include, with respect to each request described in paragraph (1)—
+
+&emsp;&emsp;“(A) a description of the scope of services requested;
+
+&emsp;&emsp;“(B) the certifications required under subsection (b) and (c);
+
+&emsp;&emsp;“(C) the status of the request;
+
+&emsp;&emsp;“(D) the estimated and final cost of the services;
+
+&emsp;&emsp;“(E) the status of reimbursement;
+
+&emsp;&emsp;“(F) a description of the scope of services performed; and
+
+&emsp;&emsp;“(G) copies of all certifications in support of the request.”
 
 #### Transportation of State Prisoners
 

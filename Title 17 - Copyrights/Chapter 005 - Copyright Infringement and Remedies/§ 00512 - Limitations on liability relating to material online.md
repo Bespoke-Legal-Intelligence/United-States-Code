@@ -74,7 +74,7 @@ In general.—A service provider shall not be liable for monetary relief, or, ex
 
 &emsp;(2)
 
-Designated agent.—The limitations on liability established in this subsection apply to a service provider only if the service provider has designated an agent to receive notifications of claimed infringement described inparagraph (3), by making available through its service, including on its website in a location accessible to the public, and by providing to the Copyright Office, substantially the following information:
+Designated agent.—The limitations on liability established in this subsection apply to a service provider only if the service provider has designated an agent to receive notifications of claimed infringement described in paragraph (3), by making available through its service, including on its website in a location accessible to the public, and by providing to the Copyright Office, substantially the following information:
 
 &emsp;&emsp;(A) the name, address, phone number, and electronic mail address of the agent.
 
@@ -124,7 +124,7 @@ Limitation on Liability of Nonprofit Educational Institutions.—(1) When a publ
 
 &emsp;(A) such faculty member's or graduate student's infringing activities do not involve the provision of online access to instructional materials that are or were required or recommended, within the preceding 3-year period, for a course taught at the institution by such faculty member or graduate student;
 
-&emsp;(B) the institution has not, within the preceding 3-year period, received more than two notifications described in subsection (c)(3) of claimed infringement by such faculty memberor graduate student, and such notifications of claimed infringement were not actionable under subsection (f); and
+&emsp;(B) the institution has not, within the preceding 3-year period, received more than two notifications described in subsection (c)(3) of claimed infringement by such faculty member or graduate student, and such notifications of claimed infringement were not actionable under subsection (f); and
 
 &emsp;(C) the institution provides to all users of its system or network informational materials that accurately describe, and promote compliance with, the laws of the United States relating to copyright.
 
@@ -272,7 +272,7 @@ Definitions.—
 
 &emsp;(1)
 
-Service provider.—(A) As used in subsection (a), the term “service provider” means an entity offering the transmission, routing, or providing of connections for digital online communications, between or among points specified by a user, of material of the user'schoosing, without modification to the content of the material as sent or received.
+Service provider.—(A) As used in subsection (a), the term “service provider” means an entity offering the transmission, routing, or providing of connections for digital online communications, between or among points specified by a user, of material of the user's choosing, without modification to the content of the material as sent or received.
 
 &emsp;(B) As used in this section, other than subsection (a), the term “service provider” means a provider of online services or network access, or the operator of facilities therefor, and includes an entity described in subparagraph (A).
 

@@ -38,6 +38,14 @@ To fulfill the data gathering and dissemination duties of the Administration und
 
 The Federal Property and Administrative Services Act of 1949, referred to in subsec. (b)(3), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title IX of the Act is classified generally to subchapter VI (§541 et seq.) of chapter 10 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
 
+#### Hydrographic Survey
+
+Pub. L. 106–541, title V, §554, Dec. 11, 2000, 114 Stat. 2679, provided that: “The Secretary \[of the Army\] shall enter into an agreement with the Administrator of the National Oceanic and Atmospheric Administration—
+
+&emsp;“(1) to require the Secretary, not later than 60 days after the Corps of Engineers completes a project involving dredging of a channel, to provide data to the Administration in a standard digital format on the results of a hydrographic survey of the channel conducted by the Corps of Engineers; and
+
+&emsp;“(2) to require the Administrator to provide the final charts with respect to the project to the Secretary in digital format, at no charge, for the purpose of enhancing the mission of the Corps of Engineers of maintaining Federal navigation projects.”
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 892b, 892d of this title.

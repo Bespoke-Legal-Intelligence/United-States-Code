@@ -20,18 +20,6 @@ A prior section 2114 was renumbered section 2118 of this title.
 
 Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L. 98–497, set out as a note under section 2102 of this title.
 
-#### Cross References
-
-Secretary of Agriculture—
-
-&emsp;&emsp;Loan, rental or sale of films, see section 2246 of Title 7, Agriculture.
-
-&emsp;&emsp;Sale of photographic prints and maps, see section 2243 of Title 7.
-
-&emsp;&emsp;Sale of prints and lantern slides, see section 2245 of Title 7.
-
-Secretary of Education, establishment of loan service of captioned films and educational media for handicapped, see section 1451 et seq. of Title 20, Education.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 3102 of this title.

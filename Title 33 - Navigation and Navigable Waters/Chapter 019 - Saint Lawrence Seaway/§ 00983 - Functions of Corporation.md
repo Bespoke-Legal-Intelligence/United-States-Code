@@ -6,7 +6,7 @@ The Corporation is authorized and directed to construct, in United States territ
 
 &emsp;(1) the Saint Lawrence Seaway Authority of Canada, provides assurances satisfactory to the Corporation that it will complete the Canadian portions of the navigation works authorized by section 10, chapter 24 of the acts of the fifth session of the Twenty-first Parliament of Canada 15–16, George VI, 1951, as nearly as possible concurrently with the completion of the works authorized by this section;
 
-&emsp;(2) the Corporation has received assurances satisfactory to it that the State of New York, or an entity duly designated by it, or other licensee of the Federal Energy Regulatory Commission, in conjunction with an appropriate agency in Canada, as nearly as possible concurrently with the navigation works herein authorized, will construct and complete thedams and power works approved by the International Joint Commission in its order of October 29, 1952 (docket 68) or any amendment or modification thereof.
+&emsp;(2) the Corporation has received assurances satisfactory to it that the State of New York, or an entity duly designated by it, or other licensee of the Federal Energy Regulatory Commission, in conjunction with an appropriate agency in Canada, as nearly as possible concurrently with the navigation works herein authorized, will construct and complete the dams and power works approved by the International Joint Commission in its order of October 29, 1952 (docket 68) or any amendment or modification thereof.
 
 #### (b) Coordination of activities regarding power projects
 

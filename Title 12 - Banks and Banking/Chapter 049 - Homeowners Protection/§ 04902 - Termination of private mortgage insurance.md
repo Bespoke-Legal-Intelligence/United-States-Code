@@ -2,13 +2,15 @@
 
 #### (a) Borrower cancellation
 
-A requirement for private mortgage insurance in connection with a residential mortgage transaction shall be canceled on the cancellation date, if the mortgagor—
+A requirement for private mortgage insurance in connection with a residential mortgage transaction shall be canceled on the cancellation date or any later date that the mortgagor fulfills all of the requirements under paragraphs (1) through (4), if the mortgagor—
 
 &emsp;(1) submits a request in writing to the servicer that cancellation be initiated;
 
-&emsp;(2) has a good payment history with respect to the residential mortgage; and
+&emsp;(2) has a good payment history with respect to the residential mortgage;
 
-&emsp;(3) has satisfied any requirement of the holder of the mortgage (as of the date of a request under paragraph (1)) for—
+&emsp;(3) is current on the payments required by the terms of the residential mortgage transaction; and
+
+&emsp;(4) has satisfied any requirement of the holder of the mortgage (as of the date of a request under paragraph (1)) for—
 
 &emsp;&emsp;(A) evidence (of a type established in advance and made known to the mortgagor by the servicer promptly upon receipt of a request under paragraph (1)) that the value of the property securing the mortgage has not declined below the original value of the property; and
 
@@ -20,13 +22,17 @@ A requirement for private mortgage insurance in connection with a residential mo
 
 &emsp;(1) on the termination date if, on that date, the mortgagor is current on the payments required by the terms of the residential mortgage transaction; or
 
-&emsp;(2) on the date after the termination date on which the mortgagor becomes current on the payments required by the terms of the residential mortgage transaction.
+&emsp;(2) if the mortgagor is not current on the termination date, on the first day of the first month beginning after the date that the mortgagor becomes current on the payments required by the terms of the residential mortgage transaction.
 
 #### (c) Final termination
 
-If a requirement for private mortgage insurance is not otherwise canceled or terminated in accordance with subsection (a) or (b) of this section, in no case may such a requirement be imposed beyond the first day of the month immediately following the date that is the midpoint of the amortization period of the loan if the mortgagor is current on the payments required by the terms of the mortgage.
+If a requirement for private mortgage insurance is not otherwise canceled or terminated in accordance with subsection (a) or (b) of this section, in no case may such a requirement be imposed on residential mortgage transactions beyond the first day of the month immediately following the date that is the midpoint of the amortization period of the loan if the mortgagor is current on the payments required by the terms of the mortgage.
 
-#### (d) No further payments
+#### (d) Treatment of loan modifications
+
+If a mortgagor and mortgagee (or holder of the mortgage) agree to a modification of the terms or conditions of a loan pursuant to a residential mortgage transaction, the cancellation date, termination date, or final termination shall be recalculated to reflect the modified terms and conditions of such loan.
+
+#### (e) No further payments
 
 No payments or premiums may be required from the mortgagor in connection with a private mortgage insurance requirement terminated or canceled under this section—
 
@@ -34,13 +40,13 @@ No payments or premiums may be required from the mortgagor in connection with a 
 
 &emsp;&emsp;(A) the date on which a request under subsection (a)(1) of this section is received; or
 
-&emsp;&emsp;(B) the date on which the mortgagor satisfies any evidence and certification requirements under subsection (a)(3) of this section;
+&emsp;&emsp;(B) the date on which the mortgagor satisfies any evidence and certification requirements under subsection (a)(4) of this section;
 
 &emsp;(2) in the case of termination under subsection (b) of this section, more than 30 days after the termination date or the date referred to in subsection (b)(2) of this section, as applicable; and
 
 &emsp;(3) in the case of termination under subsection (c) of this section, more than 30 days after the final termination date established under that subsection.
 
-#### (e) Return of unearned premiums
+#### (f) Return of unearned premiums
 
 #### (1) In general
 
@@ -50,27 +56,27 @@ No payments or premiums may be required from the mortgagor in connection with a 
 
 &emsp;Not later than 30 days after notification by the servicer of termination or cancellation of private mortgage insurance under this chapter with respect to a mortgagor, a mortgage insurer that is in possession of any unearned premiums of that mortgagor shall transfer to the servicer of the subject mortgage an amount equal to the amount of the unearned premiums for repayment in accordance with paragraph (1).
 
-#### (f) Exceptions for high risk loans
+#### (g) Exceptions for high risk loans
 
 #### (1) In general
 
-&emsp;The termination and cancellation provisions in subsections (a) and (b) of this section do not apply to any residential mortgage or mortgage transaction that, at the time at which the residential mortgage transaction is consummated, has high risks associated with the extension of the loan—
+&emsp;The termination and cancellation provisions in subsections (a) and (b) of this section do not apply to any residential mortgage transaction that, at the time at which the residential mortgage transaction is consummated, has high risks associated with the extension of the loan—
 
-&emsp;&emsp;(A) as determined in accordance with guidelines published by the Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation, in the case of a mortgage loan with an original principal balance that does not exceed the applicable annual conforming loan limit for the secondary market established pursuant to section 1454(a)(2) of this title, so as to require the imposition or continuation of a privatemortgage insurance requirement beyond the terms specified in subsection (a) or (b) of this section; or
+&emsp;&emsp;(A) as determined in accordance with guidelines published by the Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation, in the case of a mortgage loan with an original principal balance that does not exceed the applicable annual conforming loan limit for the secondary market established pursuant to section 1454(a)(2) of this title, so as to require the imposition or continuation of a private mortgage insurance requirement beyond the terms specified in subsection (a) or (b) of this section; or
 
 &emsp;&emsp;(B) as determined by the mortgagee in the case of any other mortgage, except that termination shall occur—
 
 &emsp;&emsp;&emsp;(i) with respect to a fixed rate mortgage, on the date on which the principal balance of the mortgage, based solely on the initial amortization schedule for that mortgage, and irrespective of the outstanding balance for that mortgage on that date, is first scheduled to reach 77 percent of the original value of the property securing the loan; and
 
-&emsp;&emsp;&emsp;(ii) with respect to an adjustable rate mortgage, on the date on which the principal balance of the mortgage, based solely on amortization schedules for that mortgage, and irrespective of the outstanding balance for that mortgage on that date, is first scheduled to reach 77 percent of the original value of the property securing the loan.
+&emsp;&emsp;&emsp;(ii) with respect to an adjustable rate mortgage, on the date on which the principal balance of the mortgage, based solely on the amortization schedule then in effect for that mortgage, and irrespective of the outstanding balance for that mortgage on that date, is first scheduled to reach 77 percent of the original value of the property securing the loan.
 
 #### (2) Termination at midpoint
 
-&emsp;A private mortgage insurance requirement in connection with a residential mortgage or mortgage transaction described in paragraph (1) shall terminate in accordance with subsection (c) of this section.
+&emsp;A private mortgage insurance requirement in connection with a residential mortgage transaction described in paragraph (1) shall terminate in accordance with subsection (c) of this section.
 
 #### (3) Rule of construction
 
-&emsp;Nothing in this subsection may be construed to require a mortgage or mortgage transaction described in paragraph (1)(A) to be purchased by the Federal National Mortgage Association or the Federal Home Loan Mortgage Corporation.
+&emsp;Nothing in this subsection may be construed to require a residential mortgage or residential mortgage transaction described in paragraph (1)(A) to be purchased by the Federal National Mortgage Association or the Federal Home Loan Mortgage Corporation.
 
 #### (4) GAO report
 
@@ -90,9 +96,43 @@ No payments or premiums may be required from the mortgagor in connection with a 
 
 &emsp;&emsp;&emsp;(v) any other characteristics of such mortgages and transactions that may contribute to their classification as high risk for purposes of paragraph (1), including whether such mortgages are purchase-money mortgages or refinancings and whether and to what extent such loans are low-documentation loans.
 
-(Pub. L. 105–216, §3, July 29, 1998, 112 Stat. 899.)
+#### (h) Accrued obligation for premium payments
+
+The cancellation or termination under this section of the private mortgage insurance of a mortgagor shall not affect the rights of any mortgagee, servicer, or mortgage insurer to enforce any obligation of such mortgagor for premium payments accrued prior to the date on which such cancellation or termination occurred.
+
+(Pub. L. 105–216, §3, July 29, 1998, 112 Stat. 899; Pub. L. 106–569, title IV, §§402(a)(2), (c)(1), 403(a), 404, 405(b), (c), Dec. 27, 2000, 114 Stat. 2956–2958.)
+
+#### Amendments
+
+2000—Subsec. (a). Pub. L. 106–569, §404(1)(A), inserted “or any later date that the mortgagor fulfills all of the requirements under paragraphs (1) through (4)” after “cancellation date” in introductory provisions.
+
+Subsec. (a)(3), (4). Pub. L. 106–569, §404(1)(B)–(D), added par. (3) and redesignated former par. (3) as (4).
+
+Subsec. (b)(2). Pub. L. 106–569, §405(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “on the date after the termination date on which the mortgagor becomes current on the payments required by the terms of the residential mortgage transaction.”
+
+Subsec. (c). Pub. L. 106–569, §403(a)(1), inserted “on residential mortgage transactions” after “requirement be imposed”.
+
+Subsec. (d). Pub. L. 106–569, §402(c)(1)(B), added subsec. (d). Former subsec. (d) redesignated (e).
+
+Subsec. (e). Pub. L. 106–569, §402(c)(1)(A), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
+
+Subsec. (e)(1)(B). Pub. L. 106–569, §404(2), substituted “subsection (a)(4) of this section” for “subsection (a)(3) of this section”.
+
+Subsec. (f). Pub. L. 106–569, §402(c)(1)(A), redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
+
+Subsec. (f)(1)(B)(ii). Pub. L. 106–569, §402(a)(2), substituted “the amortization schedule then in effect” for “amortization schedules”.
+
+Subsec. (g). Pub. L. 106–569, §402(c)(1)(A), redesignated subsec. (f) as (g).
+
+Subsec. (g)(1). Pub. L. 106–569, §403(a)(2)(A), struck out “mortgage or” after “do not apply to any residential” in introductory provisions.
+
+Subsec. (g)(2). Pub. L. 106–569, §403(a)(2)(B), struck out “mortgage or” after “in connection with a residential”.
+
+Subsec. (g)(3). Pub. L. 106–569, §403(a)(2)(C), substituted “residential mortgage or residential” for “mortgage or”.
+
+Subsec. (h). Pub. L. 106–569, §405(c), added subsec. (h).
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 4903, 4904, 4905 of this title.
+This section is referred to in sections 4901, 4903, 4904, 4905 of this title.
 

@@ -4,7 +4,7 @@
 
 (b) The President, with respect to the Executive agencies, the head of the agency concerned, with respect to the appropriate agency outside the executive branch, and the District of Columbia Council, with respect to the government of the District of Columbia, shall prescribe and issue, or provide for the formulation and issuance of, regulations necessary and appropriate to carry out the provisions, accomplish the purposes, and govern the administration of this subchapter.
 
-(c) The head of each Executive agency may prescribe and issue regulations, not inconsistent with the regulations of the President issued under subsection (b) of this section, necessary and appropriate to carry out his functions under this subchapter.
+(c) The head of each Executive agency may prescribe and issue regulations, not inconsistent with the regulations of the President issued under subsection (b) of this section, necessaryand appropriate to carry out his functions under this subchapter.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 481; Pub. L. 90–623, §1(11), Oct. 22, 1968, 82 Stat. 1312.)
 
@@ -36,7 +36,7 @@ Amendment by Pub. L. 90–623 intended to restate without substantive change the
 
 #### Transfer of Functions
 
-District of Columbia Council, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2,1975, by Pub. L. 93–198, title VII, §711, Dec. 24, 1973, 87 Stat. 818, classified to section 1–211 of District of Columbia Code, and replaced by Council of District of Columbia, as provided by Pub. L. 93–198, title IV, §401, Dec. 24, 1973, 87 Stat. 785, classified to section 1–221 of the District of Columbia Code.
+District of Columbia Council, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by Pub. L. 93–198, title VII, §711, Dec. 24, 1973, 87 Stat. 818, and replaced by Council of District of Columbia, as provided by section 401 of Pub. L. 93–198.
 
 #### Ex. Ord. No. 10982. Administration of Provisions of Chapter
 

@@ -58,6 +58,16 @@
 | (a) | Recognition and status. |
 | (b) | Volunteers. |
 | (c) | Authority. |
+| [7142a.](Subchapter%20002%20%28II%29%20-%20Establishment%20of%20Department/%C2%A7%2007142a%20-%20Designation%20of%20American%20Museum%20of%20Science%20and%20Energy.md) | Designation of American Museum of Science and Energy. |
+| (a) | In general. |
+| (b) | References. |
+| (c) | Property of the United States. |
+| [7142b.](Subchapter%20002%20%28II%29%20-%20Establishment%20of%20Department/%C2%A7%2007142b%20-%20Authority.md) | Authority. |
+| [7142c.](Subchapter%20002%20%28II%29%20-%20Establishment%20of%20Department/%C2%A7%2007142c%20-%20Museum%20volunteers.md) | Museum volunteers. |
+| (a) | Authority to use volunteers. |
+| (b) | Status of volunteers. |
+| (c) | Compensation. |
+| [7142d.](Subchapter%20002%20%28II%29%20-%20Establishment%20of%20Department/%C2%A7%2007142d%20-%20Definitions.md) | Definitions. |
 | [7143\.](Subchapter%20002%20%28II%29%20-%20Establishment%20of%20Department/%C2%A7%2007143%20-%20Repealed.%20Pub.%20L.%20106%E2%80%9365%2C%20div.%20C%2C%20title%20XXXII%2C%20%C2%A73294%28d%29%281%29%2C%20Oct.%205%2C%201999%2C%20113%20Stat.%20970.md) | Repealed. |
 | [7144\.](Subchapter%20002%20%28II%29%20-%20Establishment%20of%20Department/%C2%A7%2007144%20-%20Establishment%20of%20policy%20for%20National%20Nuclear%20Security%20Administration.md) | Establishment of policy for National Nuclear Security Administration. |
 | (a) | Responsibility for establishing policy. |
@@ -73,6 +83,10 @@
 | (a) | Establishment. |
 | (b) | Director. |
 | (c) | Duties. |
+| [7144d.](Subchapter%20002%20%28II%29%20-%20Establishment%20of%20Department/%C2%A7%2007144d%20-%20Office%20of%20Arctic%20Energy.md) | Office of Arctic Energy. |
+| (a) | Establishment. |
+| (b) | Purposes. |
+| (c) | Location. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -285,6 +299,10 @@
 | (a) | Property rights in inventions and discoveries; timely determination; reports to Congressional committees. |
 | (b) | Matters to be considered. |
 | [7261b.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007261b%20-%20Technology%20transfer%20to%20small%20businesses.md) | Technology transfer to small businesses. |
+| [7261c.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007261c%20-%20Technology%20partnerships%20ombudsman.md) | Technology partnerships ombudsman. |
+| (a) | Appointment of ombudsman. |
+| (b) | Qualifications. |
+| (c) | Duties. |
 | [7262\.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007262%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93206%2C%20title%20V%2C%20%C2%A7502%2C%20Sept.%2030%2C%201996%2C%20110%20Stat.%203002.md) | Repealed. |
 | [7263\.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007263%20-%20Capital%20fund.md) | Capital fund. |
 | [7264\.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007264%20-%20Seal%20of%20Department.md) | Seal of Department. |
@@ -403,6 +421,7 @@
 | (d) | Authority of Secretary of Energy. |
 | (e) | Relationship to other law. |
 | (f) | Definitions. |
+| [7274r.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007274r%20-%20Research%2C%20development%2C%20and%20demonstration%20activities%20with%20respect%20to%20engineering%20and%20manufacturing%20capabilities%20at%20covered%20nuclear%20weapons%E2%80%A6.md) | Research, development, and demonstration activities with respect to engineering and manufacturing capabilities at covered nuclear weapons production plants. |
 | [7275\.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007275%20-%20Definitions.md) | Definitions. |
 | [7276\.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007276%20-%20Regulations%20to%20require%20integrated%20resource%20planning.md) | Regulations to require integrated resource planning. |
 | (a) | Regulations. |
@@ -615,6 +634,145 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER XVI—ENERGY EMPLOYEES OCCUPATIONAL ILLNESS COMPENSATION PROGRAM
+
+|  |  |
+| :--- | ---: |
+| [7384\.](Subchapter%20016%20%28XVI%29%20-%20Energy%20Employees%20Occupational%20Illness%20Compensation%20Program/%C2%A7%2007384%20-%20Findings%3B%20sense%20of%20Congress.md) | Findings; sense of Congress. |
+| (a) | Findings. |
+| (b) | Sense of Congress. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part A—Establishment of Compensation Program and Compensation Fund
+
+|  |  |
+| :--- | ---: |
+| [7384d.](Subchapter%20016%20%28XVI%29%20-%20Energy%20Employees%20Occupational%20Illness%20Compensation%20Program/Part%20A%20-%20Establishment%20of%20Compensation%20Program%20and%20Compensation%20Fund/%C2%A7%2007384d%20-%20Establishment%20of%20Energy%20Employees%20Occupational%20Illness%20Compensation%20Program.md) | Establishment of Energy Employees Occupational Illness Compensation Program. |
+| (a) | Program established. |
+| (b) | Purpose of program. |
+| (c) | Eligibility for compensation. |
+| [7384e.](Subchapter%20016%20%28XVI%29%20-%20Energy%20Employees%20Occupational%20Illness%20Compensation%20Program/Part%20A%20-%20Establishment%20of%20Compensation%20Program%20and%20Compensation%20Fund/%C2%A7%2007384e%20-%20Establishment%20of%20Energy%20Employees%20Occupational%20Illness%20Compensation%20Fund.md) | Establishment of Energy Employees Occupational Illness Compensation Fund. |
+| (a) | Establishment. |
+| (b) | Amounts in compensation fund. |
+| (c) | Financing of compensation fund. |
+| (d) | Use of compensation fund. |
+| (e) | Administrative costs not paid from compensation fund. |
+| (f) | Investment of amounts in compensation fund. |
+| [7384f.](Subchapter%20016%20%28XVI%29%20-%20Energy%20Employees%20Occupational%20Illness%20Compensation%20Program/Part%20A%20-%20Establishment%20of%20Compensation%20Program%20and%20Compensation%20Fund/%C2%A7%2007384f%20-%20Legislative%20proposal.md) | Legislative proposal. |
+| (a) | Legislative proposal required. |
+| (b) | Assessment of potential covered employees and required amounts. |
+| [7384g.](Subchapter%20016%20%28XVI%29%20-%20Energy%20Employees%20Occupational%20Illness%20Compensation%20Program/Part%20A%20-%20Establishment%20of%20Compensation%20Program%20and%20Compensation%20Fund/%C2%A7%2007384g%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| (a) | In general. |
+| (b) | Compensation fund. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part B—Program Administration
+
+|  |  |
+| :--- | ---: |
+| 7384<i>l.</i> | Definitions for program administration. |
+| [7384m.](Subchapter%20016%20%28XVI%29%20-%20Energy%20Employees%20Occupational%20Illness%20Compensation%20Program/Part%20B%20-%20Program%20Administration/%C2%A7%2007384m%20-%20Expansion%20of%20list%20of%20beryllium%20vendors.md) | Expansion of list of beryllium vendors. |
+| [7384n.](Subchapter%20016%20%28XVI%29%20-%20Energy%20Employees%20Occupational%20Illness%20Compensation%20Program/Part%20B%20-%20Program%20Administration/%C2%A7%2007384n%20-%20Exposure%20in%20the%20performance%20of%20duty.md) | Exposure in the performance of duty. |
+| (a) | Beryllium. |
+| (b) | Cancer. |
+| (c) | Guidelines. |
+| (d) | Methods for radiation dose reconstructions. |
+| (e) | Information on radiation doses. |
+| 7384<i>o.</i> | Advisory Board on Radiation and Worker Health. |
+| (a) | Establishment. |
+| (b) | Duties. |
+| (c) | Staff. |
+| (d) | Expenses. |
+| [7384p.](Subchapter%20016%20%28XVI%29%20-%20Energy%20Employees%20Occupational%20Illness%20Compensation%20Program/Part%20B%20-%20Program%20Administration/%C2%A7%2007384p%20-%20Responsibilities%20of%20Secretary%20of%20Health%20and%20Human%20Services.md) | Responsibilities of Secretary of Health and Human Services. |
+| [7384q.](Subchapter%20016%20%28XVI%29%20-%20Energy%20Employees%20Occupational%20Illness%20Compensation%20Program/Part%20B%20-%20Program%20Administration/%C2%A7%2007384q%20-%20Designation%20of%20additional%20members%20of%20special%20exposure%20cohort.md) | Designation of additional members of special exposure cohort. |
+| (a) | Advice on additional members. |
+| (b) | Designation of additional members. |
+| (c) | Access to information. |
+| [7384r.](Subchapter%20016%20%28XVI%29%20-%20Energy%20Employees%20Occupational%20Illness%20Compensation%20Program/Part%20B%20-%20Program%20Administration/%C2%A7%2007384r%20-%20Separate%20treatment%20of%20chronic%20silicosis.md) | Separate treatment of chronic silicosis. |
+| (a) | Sense of Congress. |
+| (b) | Certification by President. |
+| (c) | Exposure to silica in the performance of duty. |
+| (d) | Covered employee with chronic silicosis. |
+| (e) | Chronic silicosis. |
+| [7384s.](Subchapter%20016%20%28XVI%29%20-%20Energy%20Employees%20Occupational%20Illness%20Compensation%20Program/Part%20B%20-%20Program%20Administration/%C2%A7%2007384s%20-%20Compensation%20and%20benefits%20to%20be%20provided.md) | Compensation and benefits to be provided. |
+| (a) | Compensation provided. |
+| (b) | Medical benefits. |
+| (c) | Beryllium sensitivity monitoring. |
+| (d) | Payment from compensation fund. |
+| (e) | Survivors. |
+| (f) | Effective date. |
+| [7384t.](Subchapter%20016%20%28XVI%29%20-%20Energy%20Employees%20Occupational%20Illness%20Compensation%20Program/Part%20B%20-%20Program%20Administration/%C2%A7%2007384t%20-%20Medical%20benefits.md) | Medical benefits. |
+| (a) | Medical benefits provided. |
+| (b) | Persons furnishing benefits. |
+| (c) | Transportation and expenses. |
+| (d) | Commencement of benefits. |
+| (e) | Payment from compensation fund. |
+| (f) | Effective date. |
+| [7384u.](Subchapter%20016%20%28XVI%29%20-%20Energy%20Employees%20Occupational%20Illness%20Compensation%20Program/Part%20B%20-%20Program%20Administration/%C2%A7%2007384u%20-%20Separate%20treatment%20of%20certain%20uranium%20employees.md) | Separate treatment of certain uranium employees. |
+| (a) | Compensation provided. |
+| (b) | Medical benefits. |
+| (c) | Coordination with RECA. |
+| (d) | Payment from compensation fund. |
+| (e) | Survivors. |
+| (f) | Procedures required. |
+| (g) | Effective date. |
+| [7384v.](Subchapter%20016%20%28XVI%29%20-%20Energy%20Employees%20Occupational%20Illness%20Compensation%20Program/Part%20B%20-%20Program%20Administration/%C2%A7%2007384v%20-%20Assistance%20for%20claimants%20and%20potential%20claimants.md) | Assistance for claimants and potential claimants. |
+| (a) | Assistance for claimants. |
+| (b) | Assistance for potential claimants. |
+| (c) | Information from beryllium vendors and other contractors. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part C—Treatment, Coordination, and Forfeiture of Compensation and Benefits
+
+|  |  |
+| :--- | ---: |
+| [7385\.](Subchapter%20016%20%28XVI%29%20-%20Energy%20Employees%20Occupational%20Illness%20Compensation%20Program/Part%20C%20-%20Treatment%2C%20Coordination%2C%20and%20Forfeiture%20of%20Compensation%20and%20Benefits/%C2%A7%2007385%20-%20Offset%20for%20certain%20payments.md) | Offset for certain payments. |
+| [7385a.](Subchapter%20016%20%28XVI%29%20-%20Energy%20Employees%20Occupational%20Illness%20Compensation%20Program/Part%20C%20-%20Treatment%2C%20Coordination%2C%20and%20Forfeiture%20of%20Compensation%20and%20Benefits/%C2%A7%2007385a%20-%20Subrogation%20of%20the%20United%20States.md) | Subrogation of the United States. |
+| [7385b.](Subchapter%20016%20%28XVI%29%20-%20Energy%20Employees%20Occupational%20Illness%20Compensation%20Program/Part%20C%20-%20Treatment%2C%20Coordination%2C%20and%20Forfeiture%20of%20Compensation%20and%20Benefits/%C2%A7%2007385b%20-%20Payment%20in%20full%20settlement%20of%20claims.md) | Payment in full settlement of claims. |
+| [7385c.](Subchapter%20016%20%28XVI%29%20-%20Energy%20Employees%20Occupational%20Illness%20Compensation%20Program/Part%20C%20-%20Treatment%2C%20Coordination%2C%20and%20Forfeiture%20of%20Compensation%20and%20Benefits/%C2%A7%2007385c%20-%20Exclusivity%20of%20remedy%20against%20the%20United%20States%20and%20against%20contractors%20and%20subcontractors.md) | Exclusivity of remedy against the United States and against contractors and subcontractors. |
+| (a) | In general. |
+| (b) | Applicability. |
+| (c) | Workers’ compensation. |
+| [7385d.](Subchapter%20016%20%28XVI%29%20-%20Energy%20Employees%20Occupational%20Illness%20Compensation%20Program/Part%20C%20-%20Treatment%2C%20Coordination%2C%20and%20Forfeiture%20of%20Compensation%20and%20Benefits/%C2%A7%2007385d%20-%20Election%20of%20remedy%20for%20beryllium%20employees%20and%20atomic%20weapons%20employees.md) | Election of remedy for beryllium employees and atomic weapons employees. |
+| (a) | Election to file suit. |
+| (b) | Applicable time limits. |
+| (c) | Dismissal of claims. |
+| (d) | Dismissal of pending suit. |
+| (e) | Workers’ compensation. |
+| [7385e.](Subchapter%20016%20%28XVI%29%20-%20Energy%20Employees%20Occupational%20Illness%20Compensation%20Program/Part%20C%20-%20Treatment%2C%20Coordination%2C%20and%20Forfeiture%20of%20Compensation%20and%20Benefits/%C2%A7%2007385e%20-%20Certification%20of%20treatment%20of%20payments%20under%20other%20laws.md) | Certification of treatment of payments under other laws. |
+| [7385f.](Subchapter%20016%20%28XVI%29%20-%20Energy%20Employees%20Occupational%20Illness%20Compensation%20Program/Part%20C%20-%20Treatment%2C%20Coordination%2C%20and%20Forfeiture%20of%20Compensation%20and%20Benefits/%C2%A7%2007385f%20-%20Claims%20not%20assignable%20or%20transferable%3B%20choice%20of%20remedies.md) | Claims not assignable or transferable; choice of remedies. |
+| (a) | Claims not assignable or transferable. |
+| (b) | Choice of remedies. |
+| [7385g.](Subchapter%20016%20%28XVI%29%20-%20Energy%20Employees%20Occupational%20Illness%20Compensation%20Program/Part%20C%20-%20Treatment%2C%20Coordination%2C%20and%20Forfeiture%20of%20Compensation%20and%20Benefits/%C2%A7%2007385g%20-%20Attorney%20fees.md) | Attorney fees. |
+| (a) | General rule. |
+| (b) | Applicable percentage limitations. |
+| (c) | Penalty. |
+| [7385h.](Subchapter%20016%20%28XVI%29%20-%20Energy%20Employees%20Occupational%20Illness%20Compensation%20Program/Part%20C%20-%20Treatment%2C%20Coordination%2C%20and%20Forfeiture%20of%20Compensation%20and%20Benefits/%C2%A7%2007385h%20-%20Certain%20claims%20not%20affected%20by%20awards%20of%20damages.md) | Certain claims not affected by awards of damages. |
+| [7385i.](Subchapter%20016%20%28XVI%29%20-%20Energy%20Employees%20Occupational%20Illness%20Compensation%20Program/Part%20C%20-%20Treatment%2C%20Coordination%2C%20and%20Forfeiture%20of%20Compensation%20and%20Benefits/%C2%A7%2007385i%20-%20Forfeiture%20of%20benefits%20by%20convicted%20felons.md) | Forfeiture of benefits by convicted felons. |
+| (a) | Forfeiture of compensation. |
+| (b) | Information. |
+| [7385j.](Subchapter%20016%20%28XVI%29%20-%20Energy%20Employees%20Occupational%20Illness%20Compensation%20Program/Part%20C%20-%20Treatment%2C%20Coordination%2C%20and%20Forfeiture%20of%20Compensation%20and%20Benefits/%C2%A7%2007385j%20-%20Coordination%20with%20other%20Federal%20radiation%20compensation%20laws.md) | Coordination with other Federal radiation compensation laws. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part D—Assistance in State Workers’ Compensation Proceedings
+
+|  |  |
+| :--- | ---: |
+| 7385<i>o.</i> | Agreements with States. |
+| (a) | Agreements authorized. |
+| (b) | Procedure. |
+| (c) | Submittal of applications to panels. |
+| (d) | Composition and operation of panels. |
+| (e) | Assistance. |
+| (f) | Information. |
+| (g) | GAO report. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Chapter Referred to in Other Sections
 
 This chapter is referred to in section 5905 of this title; title 15 section 3393; title 16 section 824a–1; title 30 section 1303; title 43 section 1331, 1866.
@@ -640,3 +798,4 @@ This chapter is referred to in section 5905 of this title; title 15 section 3393
 - [Subchapter 013 (XIII) - Department of Energy Science Education Programs](Subchapter%20013%20%28XIII%29%20-%20Department%20of%20Energy%20Science%20Education%20Programs/README.md)
 - [Subchapter 014 (XIV) - Albert Einstein Distinguished Educator Fellowships](Subchapter%20014%20%28XIV%29%20-%20Albert%20Einstein%20Distinguished%20Educator%20Fellowships/README.md)
 - [Subchapter 015 (XV) - Matters Relating to Safeguards, Security, and Counterintelligence](Subchapter%20015%20%28XV%29%20-%20Matters%20Relating%20to%20Safeguards%2C%20Security%2C%20and%20Counterintelligence/README.md)
+- [Subchapter 016 (XVI) - Energy Employees Occupational Illness Compensation Program](Subchapter%20016%20%28XVI%29%20-%20Energy%20Employees%20Occupational%20Illness%20Compensation%20Program/README.md)

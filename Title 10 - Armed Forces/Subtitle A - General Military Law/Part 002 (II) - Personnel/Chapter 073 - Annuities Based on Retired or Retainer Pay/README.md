@@ -20,16 +20,6 @@
 
 1961—Pub. L. 87–381, §1(1), Oct. 4, 1961, 75 Stat. 810, substituted “RETIRED SERVICEMAN'S FAMILY PROTECTION PLAN” for “ANNUITIES BASED ON RETIRED OR RETAINER PAY” in chapter heading.
 
-#### Cross References
-
-Exclusion from gross income, see sections 72, 101, and 122 of Title 26, Internal Revenue Code.
-
-Exemption for levy for collection of taxes, see section 6334 of Title 26.
-
-Repayment of retired pay by beneficiary, see section 8317 of Title 5, Government Organization and Employees.
-
-Retired pay defined, see section 8311 of Title 5.
-
 #### Chapter Referred to in Other Sections
 
 This chapter is referred to in sections 1408, 1461, 1463 of this title; title 5 sections 5531, 8311, 8317; title 26 sections 72, 122, 6334; title 33 section 857a; title 38 section 5301; title 42 section 213a.

@@ -46,7 +46,7 @@ Information and research facilities.—In carrying out this subchapter, the Admi
 
 #### (b) Emergency situations
 
-The Administrator is authorized to provide technical assistance and to make grants to States, or publicly owned water systems to assist in responding to and alleviating any emergency situation affecting public water systems (including sources of water for such systems) which the Administrator determines to present substantial danger to the public health. Grants provided under this subparagraph <sup>1</sup> shall be used only to support those actions which (i) are necessary for preventing, limiting or mitigating danger to the public health in such emergency situation and (ii) would not, in the judgment of the Administrator, be taken without such emergency assistance. The Administrator may carry out the program authorized under this subparagraph <sup>1</sup> as part of, and in accordance with the terms and conditions of, any other program of assistance for environmental emergencies which the Administrator is authorized to carry out under any other provision of law. No limitation on appropriations for any such other program shall apply to amounts appropriated under this subparagraph.<sup>1</sup>
+The Administrator is authorized to provide technical assistance and to make grants to States, or publicly owned water systems to assist in responding to and alleviating any emergency situation affecting public water systems (including sources of water for such systems) which the Administrator determines to present substantial danger to the public health. Grants provided under this subparagraph <sup>1</sup> shall be used only to support those actions which (i) are necessary for preventing, limiting or mitigating danger to the public health in such emergency situation and (ii) would not, in the judgment of the Administrator, be taken without such emergency assistance. The Administrator may carry out the program authorized under this subparagraph <sup>1</sup> as part of, and in accordance with the terms and conditions of, any other program of assistance for environmental emergencies which the Administrator is authorized to carry outunder any other provision of law. No limitation on appropriations for any such other program shall apply to amounts appropriated under this subparagraph.<sup>1</sup>
 
 #### (c) Establishment of training programs and grants for training; training fees
 
@@ -96,7 +96,7 @@ There are authorized to be appropriated to carry out the provisions of this sect
 
 The Administrator may provide technical assistance to small public water systems to enable such systems to achieve and maintain compliance with applicable national primary drinking water regulations. Such assistance may include circuit-rider and multi-State regional technical assistance programs, training, and preliminary engineering evaluations. The Administrator shall ensure that technical assistance pursuant to this subsection is available in each State. Each nonprofit organization receiving assistance under this subsection shall consult with the State in which the assistance is to be expended or otherwise made available before using assistance to undertake activities to carry out this subsection. There are authorized to be appropriated to the Administrator to be used for such technical assistance $15,000,000 for each of the fiscal years 1997 through 2003. No portion of any State loan fund established under section 300j–12 of this title (relating to State loan funds) and no portion of any funds made available under this subsection may be used for lobbying expenses. Of the total amount appropriated under this subsection, 3 percent shall be used for technical assistance to public water systems owned or operated by Indian Tribes.
 
-(July 1, 1944, ch. 373, title XIV, §1442, as added Pub. L. 93–523, §2(a), Dec. 16, 1974, 88 Stat. 1682; amended Pub. L. 95–190, §§2(a), 3(a), (b), (e)(1), 4, 9, 10(b), 13, Nov. 16, 1977, 91 Stat. 1393–1395,1397–1399; Pub. L. 96–63, §1, Sept. 6, 1979, 93 Stat. 411; Pub. L. 96–502, §5, Dec. 5, 1980, 94 Stat. 2738; Pub. L. 99–339, title I, §107, title III, §§301(a), (g), 304(a), June 19, 1986, 100 Stat. 651, 663, 665, 667; Pub. L. 104–66, title II, §2021(h), Dec. 21, 1995, 109 Stat. 727; Pub. L. 104–182, title I, §§121, 122, Aug. 6, 1996, 110 Stat. 1651.)
+(July 1, 1944, ch. 373, title XIV, §1442, as added Pub. L. 93–523, §2(a), Dec. 16, 1974, 88 Stat. 1682; amended Pub. L. 95–190, §§2(a), 3(a), (b), (e)(1), 4, 9, 10(b), 13, Nov. 16, 1977, 91 Stat. 1393–1395, 1397–1399; Pub. L. 96–63, §1, Sept. 6, 1979, 93 Stat. 411; Pub. L. 96–502, §5, Dec. 5, 1980, 94 Stat. 2738; Pub. L. 99–339, title I, §107, title III, §§301(a), (g), 304(a), June 19, 1986, 100 Stat. 651, 663, 665, 667; Pub. L. 104–66, title II, §2021(h), Dec. 21, 1995, 109 Stat. 727; Pub. L. 104–182, title I, §§121, 122, Aug. 6, 1996, 110 Stat. 1651.)
 
 #### References in Text
 
@@ -104,7 +104,7 @@ Subsection (a)(2)(B) of this section, referred to in subsec. (d), was redesignat
 
 #### Amendments
 
-1996—Subsec. (a)(2). Pub. L. 104–182, §121(4)(A), added heading and text of par. (2) and struck out former par. (2) which read as follows: “(2)(A) The Administrator shall, to the maximum extent feasible, provide technical assistance to the States and municipalities in the establishment and administration of public water system supervision programs (as defined in section 300j–2(c)(1) of this title).”
+1996—Subsec. (a)(2). Pub. L. 104–182, §121(4)(A), added heading and text of par. (2) and struck out former par.\(2) which read as follows: “(2)(A) The Administrator shall, to the maximum extent feasible, provide technical assistance to the States and municipalities in the establishment and administration of public water system supervision programs (as defined in section 300j–2(c)(1) of this title).”
 
 Subsec. (a)(2)(B). Pub. L. 104–182, §121(3), redesignated subpar. (B) as subsec. (b) and transferred that subsec. to appear after subsec. (a).
 
@@ -172,7 +172,7 @@ In General.—The Administrator shall—
 
 “(b)
 
-Plan.—The Administrator shall transmit the plan to the Committees on Commerce and Science ofthe House of Representatives and the Committee on Environment and Public Works of the Senate and the plan shall be made available to the public.”
+Plan.—The Administrator shall transmit the plan to the Committees on Commerce and Science of the House of Representatives and the Committee on Environment and Public Works of the Senate and the plan shall be made available to the public.”
 
 #### National Center for Ground Water Research
 

@@ -10,7 +10,7 @@ The Board of Regents shall plan, design, and construct a facility on the area bo
 
 #### (A) Terms
 
-&emsp;&emsp;Notwithstanding section 490(j) of title 40, the Administrator of General Services may lease, at a nominal charge, to the Smithsonian Institution space in the Old United States Custom House at One Bowling Green, New York, New York, to house the portion of the National Museum to be located in the city of New York. The lease shall be subject to such terms as may be mutually agreed upon by the Administrator and the Secretary of the Smithsonian Institution. The term of the lease shall not be less than 99 years.
+&emsp;&emsp;Notwithstanding section 490(j) of title 40, the Administrator of General Services maylease, at a nominal charge, to the Smithsonian Institution space in the Old United States Custom House at One Bowling Green, New York, New York, to house the portion of the National Museum to be located in the city of New York. The lease shall be subject to such terms as may be mutually agreed upon by the Administrator and the Secretary of the Smithsonian Institution. The term of the lease shall not be less than 99 years.
 
 #### (B) Reimbursement of Federal buildings fund
 

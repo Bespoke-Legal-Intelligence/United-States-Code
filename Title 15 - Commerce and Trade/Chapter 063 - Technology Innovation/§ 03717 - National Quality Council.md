@@ -84,3 +84,7 @@ This Act, referred to in subsec. (f), is Pub. L. 102–245, Feb. 14, 1992, 106 S
 
 Section was enacted as part of the American Technology Preeminence Act of 1991, and not as part of the Stevenson-Wydler Technology Innovation Act of 1980 which comprises this chapter.
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (h) of this section relating to annually submitting a report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 184 of House Document No. 103–7.
+

@@ -66,7 +66,7 @@ As used in this chapter, except as otherwise specified, the following terms shal
 
 &emsp;(6) if any word, statement, or other information required by or under authority of this chapter to appear on the label or other labeling is not prominently placed thereon with such conspicuousness (as compared with other words, statements, designs, or devices, in the labeling) and in such terms as to render it likely to be read and understood by the ordinary individual under customary conditions of purchase and use;
 
-&emsp;(7) if it purports to be or is represented as a food for which a definition and standard ofidentity or composition has been prescribed by regulations of the Secretary under section 607 of this title unless (A) it conforms to such definition and standard, and (B) its label bears the name of the food specified in the definition and standard and, insofar as may be required by such regulations, the common names of optional ingredients (other than spices, flavoring, and coloring) present in such food;
+&emsp;(7) if it purports to be or is represented as a food for which a definition and standard of identity or composition has been prescribed by regulations of the Secretary under section 607 of this title unless (A) it conforms to such definition and standard, and (B) its label bears the name of the food specified in the definition and standard and, insofar as may be required by such regulations, the common names of optional ingredients (other than spices, flavoring, and coloring) present in such food;
 
 &emsp;(8) if it purports to be or is represented as a food for which a standard or standards of fill of container have been prescribed by regulations of the Secretary under section 607 of this title, and it falls below the standard of fill of container applicable thereto, unless its label bears, in such manner and form as such regulations specify, a statement that it falls below such standard;
 
@@ -126,7 +126,7 @@ Pub. L. 99–641, title IV, §401, Nov. 10, 1986, 100 Stat. 3567, provided that:
 
 #### Short Title of 1978 Amendment
 
-Pub. L. 95–445, §1, Oct. 10, 1978, 92 Stat. 1069, provided: “That this Act \[amending sections 603, 610, and 620 of this title and sections 1902 and 1904 of Title 7, Agriculture, repealing sections 1903 and 1905 of Title 7, and enacting provisions set out as notes under this section and section 603 of this title\] may be cited as the ‘Humane Methods of Slaughter Act of 1978’.”
+Pub. L. 95–445, §1, Oct. 10, 1978, 92 Stat. 1069, provided: “That this Act \[amending sections 603, 610, and 620 of this title and sections 1902 and 1904 of Title 7, Agriculture, repealing sections 1903 and 1905 of Title 7, and enacting provisions set out as notes under this sectionand section 603 of this title\] may be cited as the ‘Humane Methods of Slaughter Act of 1978’.”
 
 #### Short Title
 

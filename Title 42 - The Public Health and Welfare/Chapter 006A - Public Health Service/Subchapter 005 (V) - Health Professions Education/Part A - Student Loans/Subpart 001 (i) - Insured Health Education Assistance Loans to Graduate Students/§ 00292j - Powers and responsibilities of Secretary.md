@@ -12,7 +12,7 @@ In the performance of, and with respect to, the functions, powers, and duties ve
 
 &emsp;(4) Subject to the specific limitations in the subpart, to consent to the modification of any note or other instrument evidencing a loan which has been insured by him under this subpart (including modifications with respect to the rate of interest, time of payment of any installment of principal and interest or any portion thereof, or any other provision).
 
-&emsp;(5) To enforce, pay, compromise, waive, or release any right, title, claim, lien, or demand, however acquired, including any equity or any right or <sup>1</sup> redemption.
+&emsp;(5) To enforce, pay, compromise, waive, or release any right, title, claim, lien, or demand,however acquired, including any equity or any right or <sup>1</sup> redemption.
 
 #### (b) Annual budget; accounts
 

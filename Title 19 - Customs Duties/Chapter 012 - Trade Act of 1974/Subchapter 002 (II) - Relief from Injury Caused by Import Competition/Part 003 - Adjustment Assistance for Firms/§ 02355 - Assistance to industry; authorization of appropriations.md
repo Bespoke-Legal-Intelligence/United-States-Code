@@ -10,10 +10,6 @@ Expenditures for technical assistance under this section may be up to $10,000,00
 
 (Pub. L. 93–618, title II, §265, as added Pub. L. 97–35, title XXV, §2527, Aug. 13, 1981, 95 Stat. 893; amended Pub. L. 98–369, div. B, title VI, §2673, July 18, 1984, 98 Stat. 1172.)
 
-#### Termination of Section
-
-<i>For termination of section by section 285 of Pub. L. 93–618, see Termination Date note set out preceding section 2271 of this title.</i>
-
 #### Amendments
 
 1984—Subsec. (a). Pub. L. 98–369, §2673(1), inserted “or workers” after “of firms” and inserted reference to section 2273 of this title.
@@ -22,5 +18,9 @@ Subsec. (b). Pub. L. 98–369, §2673(2), substituted “$10,000,000” for “$
 
 #### Effective Date
 
-Section effective Aug. 13, 1981, except as otherwise provided with respect to applications for adjustment assistance, see section 2529 of Pub. L. 97–35, set out asan Effective Date of 1981 Amendment note under section 2343 of this title.
+Section effective Aug. 13, 1981, except as otherwise provided with respect to applications for adjustment assistance, see section 2529 of Pub. L. 97–35, set out as an Effective Date of 1981 Amendment note under section 2343 of this title.
+
+#### Termination Date
+
+No technical assistance to be provided under this part after Sept. 30, 2001, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
 

@@ -78,3 +78,7 @@ Section was enacted as part of the Coastal Barrier Improvement Act of 1990, and 
 
 1999—Subsec. (c)(2)(B)(i). Pub. L. 106–167 substituted “John H. Chafee Coastal Barrier Resources System” for “Coastal Barrier Resources System”.
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (a)(1) of this section requiring submittal of an annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and pages 168 and 190 of House Document No. 103–7.
+

@@ -30,7 +30,13 @@ Costs incurred after November 17, 1986, including lands, easements, rights-of-wa
 
 #### (d) Mitigation plans as part of project proposals
 
-After November 17, 1986, the Secretary shall not submit any proposal for the authorization of any water resources project to the Congress unless such report contains (1) a recommendation with a specific plan to mitigate fish and wildlife losses created by such project, or (2) a determination by the Secretary that such project will have negligible adverse impact on fish and wildlife. Specific mitigation plans shall ensure that impacts to bottomland hardwood forests are mitigated in-kind, to the extent possible. In carrying out this subsection, the Secretary shall consult with appropriate Federal and non-Federal agencies.
+#### (1) In general
+
+&emsp;After November 17, 1986, the Secretary shall not submit any proposal for the authorization of any water resources project to the Congress unless such report contains (A) a recommendation with a specific plan to mitigate fish and wildlife losses created by such project, or (B) a determination by the Secretary that such project will have negligible adverse impact on fish and wildlife. Specific mitigation plans shall ensure that impacts to bottomland hardwood forests are mitigated in-kind, to the extent possible. In carrying out this subsection, the Secretary shall consult with appropriate Federal and non-Federal agencies.
+
+#### (2) Design of mitigation projects
+
+&emsp;The Secretary shall design mitigation projects to reflect contemporary understanding of the science of mitigating the adverse environmental impacts of water resources projects.
 
 #### (e) First enhancement costs as Federal costs
 
@@ -52,7 +58,7 @@ Fish and wildlife enhancement measures carried out as part of the project for At
 
 The provisions of subsections (a), (b), and (d) of this section shall be deemed to supplement the responsibility and authority of the Secretary pursuant to the Fish and Wildlife Coordination Act \[16 U.S.C. 661 et seq.\], and nothing in this section is intended to affect that Act.
 
-(Pub. L. 99–662, title IX, §906, Nov. 17, 1986, 100 Stat. 4186; Pub. L. 102–580, title III, §333(a), Oct. 31, 1992, 106 Stat. 4852; Pub. L. 106–53, title II, §221, Aug. 17, 1999, 113 Stat. 295.)
+(Pub. L. 99–662, title IX, §906, Nov. 17, 1986, 100 Stat. 4186; Pub. L. 102–580, title III, §333(a), Oct. 31, 1992, 106 Stat. 4852; Pub. L. 106–53, title II, §221, Aug. 17, 1999, 113 Stat. 295; Pub. L. 106–541, title II, §224(a), Dec. 11, 2000, 114 Stat. 2597.)
 
 #### References in Text
 
@@ -66,9 +72,39 @@ The Fish and Wildlife Coordination Act referred to in subsec. (g), is act Mar. 1
 
 #### Amendments
 
+2000—Subsec. (d). Pub. L. 106–541 inserted subsec. heading, designated existing provisions as par. (1), inserted par. heading, realigned margins, substituted “November 17, 1986” for “the date of enactment of this Act”, redesignated former cls. (1) and (2) as (A) and (B), respectively, and added par. (2).
+
 1999—Subsec. (e). Pub. L. 106–53 inserted after second sentence “Not more than 80 percent of the non-Federal share of such first costs may be satisfied through in-kind contributions, including facilities, supplies, and services that are necessary to carry out the enhancement project.”
 
 1992—Subsec. (c). Pub. L. 102–580 inserted “, including lands, easements, rights-of-way, and relocations,” before “for implementation and operation”.
+
+#### Concurrent Mitigation
+
+Pub. L. 106–541, title II, §224(b), Dec. 11, 2000, 114 Stat. 2598, provided that:
+
+“(1)
+
+Investigation.—
+
+&emsp;“(A)
+
+In general.—The Comptroller General shall conduct an investigation of the effectiveness of the concurrent mitigation requirements of section 906 of the Water Resources Development Act of 1986 (33 U.S.C. 2283). In carrying out the investigation, the Comptroller General shall determine—
+
+&emsp;&emsp;“(i) whether or not there are instances in which less than 50 percent of required mitigation is completed before initiation of project construction and the number of such instances; and
+
+&emsp;&emsp;“(ii) the extent to which mitigation projects restore natural hydrologic conditions, restore native vegetation, and otherwise support native fish and wildlife species.
+
+&emsp;“(B)
+
+Special rule.—In carrying out subparagraph (A)(ii), the Comptroller General shall—
+
+&emsp;&emsp;“(i) establish a panel of independent scientists, comprised of individuals with expertise and experience in applicable scientific disciplines, to assist the Comptroller General; and
+
+&emsp;&emsp;“(ii) assess methods used by the Corps of Engineers to monitor and evaluate mitigation projects, and compare Corps of Engineers mitigation project design, construction, monitoring, and evaluation practices with those used in other publicly and privately financed mitigation projects.
+
+“(2)
+
+Report.—Not later than 1 year after the date of enactment of this Act \[Dec. 11, 2000\], the Comptroller General shall transmit to Congress a report on the results of the investigation.”
 
 #### Section Referred to in Other Sections
 

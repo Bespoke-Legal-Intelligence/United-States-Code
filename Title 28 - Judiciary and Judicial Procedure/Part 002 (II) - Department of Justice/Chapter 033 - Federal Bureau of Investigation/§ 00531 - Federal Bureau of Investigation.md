@@ -36,7 +36,7 @@ Duties of the CASMIRC.—The CASMIRC shall perform such duties as the Attorney G
 
 &emsp;“(4) providing, if requested by a Federal, State, or local law enforcement agency, on site consultation and advice in child abduction, mysterious disappearances of children, child homicide and serial murder investigations;
 
-&emsp;“(5) coordinating the application of resources of pertinent Federal law enforcement agencies, and other Federal entities including, but not limited to, the United States Customs Service, the Secret Service, the Postal Inspection Service, and the United States Marshals Service, as appropriate, and with theconcurrence of the agency head to support Federal, State, and local law enforcement involved in child abduction, mysterious disappearance of a child, child homicide, and serial murder investigations;
+&emsp;“(5) coordinating the application of resources of pertinent Federal law enforcement agencies, and other Federal entities including, but not limited to, the United States Customs Service, the Secret Service, the Postal Inspection Service, and the United States Marshals Service, as appropriate, and with the concurrence of the agency head to support Federal, State, and local law enforcement involved in child abduction, mysterious disappearance of a child, child homicide, and serial murder investigations;
 
 &emsp;“(6) conducting ongoing research related to child abductions, mysterious disappearances of children, child homicides, and serial murder, including identification and investigative application of current and emerging technologies, identification of investigative searching technologies and methods for physically locating abducted children, investigative use of offender behavioral assessment and analysis concepts, gathering statistics and information necessary for case identification, trend analysis, and case linkages to advance the investigative effectiveness of outstanding abducted children cases, develop investigative systems to identify and track serious serial offenders that repeatedly victimize children for comparison to unsolved cases, and other investigative research pertinent to child abduction, mysterious disappearance of a child, child homicide, and serial murder covered in this section;
 
@@ -80,7 +80,7 @@ Authorization of Appropriations.—There are authorized to be appropriated to ca
 
 #### Federal Bureau of Investigation Funding Authorizations
 
-Pub. L. 104–132, title VIII, §811, Apr. 24, 1996, 110 Stat. 1312, provided that:
+Pub. L. 104–132, title VIII, §811, Apr. 24, 1996, 110 Stat. 1312, as amended by Pub. L. 106–546, §6(a), Dec. 19, 2000, 114 Stat. 2733, provided that:
 
 “(a)
 
@@ -100,7 +100,13 @@ In General.—With funds made available pursuant to subsection (c)—
 
 &emsp;&emsp;“(F) increase personnel to support counterterrorism activities; and
 
-&emsp;“(2) the Director of the Federal Bureau of Investigation may expand the combined DNA Identification System (CODIS) to include Federal crimes and crimes committed in the District of Columbia.
+&emsp;“(2) the Director of the Federal Bureau of Investigation shall expand the combined DNA Identification System (CODIS) to include analyses of DNA samples collected from—
+
+&emsp;&emsp;“(A) individuals convicted of a qualifying Federal offense, as determined under section 3(d) of the DNA Analysis Backlog Elimination Act of 2000 \[42 U.S.C. 14135a(d)\];
+
+&emsp;&emsp;“(B) individuals convicted of a qualifying District of Columbia offense, as determined under section 4(d) of the DNA Analysis Backlog Elimination Act of 2000 \[42 U.S.C. 14135b(d)\]; and
+
+&emsp;&emsp;“(C) members of the Armed Forces convicted of a qualifying military offense, as determined under section 1565(d) of title 10, United States Code.
 
 “(b)
 

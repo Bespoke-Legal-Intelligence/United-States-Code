@@ -22,7 +22,7 @@ The date of enactment of this chapter, referred to in subsec. (b)(2), is the dat
 
 #### Amendments
 
-1998—Pub. L. 105–368, §403(c)(3)(C), substituted “Administration; composition of Administration” for“System; composition of such system; appointment of director” in section catchline.
+1998—Pub. L. 105–368, §403(c)(3)(C), substituted “Administration; composition of Administration” for “System; composition of such system; appointment of director” in section catchline.
 
 Subsec. (a). Pub. L. 105–368, §403(c)(3)(A), in first sentence, substituted “Administration responsible” for “System” and, in second sentence, substituted “The National Cemetery Administration shall be headed by the Under Secretary for Memorial Affairs” for “Such system shall be headed by the Director of the National Cemetery System”.
 
@@ -126,7 +126,7 @@ Fund.—(1) There is hereby established the Pershing Hall Revolving Fund to be a
 
 “(3) The Pershing Hall Memorial Fund, established in the Treasury of the United States pursuant to section 2 of the Act of June 28, 1935 (Public Law 74–171; 49 Stat. 426) \[former 36 U.S.C. 491\], is hereby abolished and the corpus of the fund, including accrued interest, is transferred to the Pershing Hall Revolving Fund.
 
-“(4) Funds received by the Secretary from operation of Pershing Hall or from any lease or other agreement with respect to Pershing Hall shall be deposited in the Pershing Hall Revolving Fund.
+“(4) Funds received by the Secretary from operation of Pershing Hall or from any lease or other agreementwith respect to Pershing Hall shall be deposited in the Pershing Hall Revolving Fund.
 
 “(5) The Secretary of the Treasury shall invest any portion of the Revolving Fund that, as determined by the Secretary of Veterans Affairs, is not required to meet current expenses of the Fund. Each investment shall be made in an interest bearing obligation of the United States or an obligation guaranteed as to principal and interest by the United States that, as determined by the Secretary of Veterans Affairs, has a maturity suitable for the Revolving Fund. The Secretary of the Treasury shall credit to the Revolving Fund the interest on, and the proceeds from the sale or redemption of, such obligations.
 

@@ -26,44 +26,6 @@ Similar provisions were contained in the following prior appropriation act:
 
 Pub. L. 101–515, title IV, §404, Nov. 5, 1990, 104 Stat. 2132.
 
-#### Court of Appeals Fee Schedule
-
-#### <i>(Effective October 1, 1999)</i>
-
-Following are fees to be charged for services to be performed by clerks of the courts of appeals. No fees are to be charged for services rendered on behalf of the United States, with the exception of those specifically prescribed in items 2, 4, and 13. No fees under this schedule shall be charged to federal agencies or programs which are funded from judiciary appropriations, including, but not limited to, agencies, organizations,and individuals providing services authorized by the Criminal Justice Act, 18 U.S.C. §3006A, and Bankruptcy Administrator programs.
-
-(1) For docketing a case on appeal or review, or docketing any other proceeding, $100. A separate fee shall be paid by each party filing a notice of appeal in the district court, but parties filing a joint notice of appeal in the district court are required to pay only one fee. A docketing fee shall not be charged for the docketing of an application for the allowance of an interlocutory appeal under 28 U.S.C. §1292(b), unless the appeal is allowed.
-
-(2) For every search of the records of the court and certifying the results thereof, $15.
-
-(3) For certifying any document or paper, whether the certification is made directly on the document, or by separate instrument, $5.
-
-(4) For reproducing any record or paper, $.50 per page. This fee shall apply to paper copies made from either: (1) original documents; or (2) microfiche or microfilm reproductions of the original records.
-
-(5) For reproduction of the magnetic tape recordings, either cassette or reel-to-reel, $15 including the cost of materials.
-
-(6) For reproduction of the record in any appeal in which the requirement of an appendix is dispensed with by any court of appeals pursuant to Rule 30(f), F.R.A.P., a flat fee of $25.
-
-(7) For each microfiche or microfilm copy of any court record, where available, $3.
-
-(8) For retrieval of a record from a Federal Records Center, National Archives, or other storage location removed from the place of business of the court, $25.
-
-(9) For a check paid into the court which is returned for lack of funds, $25.
-
-(10) Fees to be charged and collected for copies of opinions shall be fixed, from time to time, by each court, commensurate with the cost of printing.
-
-(11) The court may charge and collect fees, commensurate with the cost of printing, for copies of the local rules of court. The court may also distribute copies of the local rules without charge.
-
-(12) The clerk shall assess a charge for the handling of registry funds deposited with the court, to be assessed from interest earnings and in accordance with the detailed fee schedule issued by the Director of the Administrative Office of the United States Courts.
-
-(13) For usage of electronic access to court data: $.60 per minute of usage via dial up service, and $.07 per page for public users obtaining information through a federal judiciary Internet site \[provided the court may, for good cause, exempt persons or classes of persons from the fees, in order to avoid unreasonable burdens and to promote public access to such information\]. All such fees collected shall be deposited to the Judiciary Information Technology Fund. These fees shall apply to the United States. (The Judicial Conference has approved an advisory note clarifying the judiciary's policy with respect to exemptions from the fees for usage of electronic access to court data. The Conference has also approved an advisory note defining information that may be provided to the public at no cost.)
-
-#### Cross References
-
-Fees and costs, see rules of the various Courts of Appeals.
-
-Power of Judicial Conference of the United States, see section 331 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 2077 of this title.

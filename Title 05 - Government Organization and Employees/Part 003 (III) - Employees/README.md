@@ -77,6 +77,7 @@
 | [<b>85.</b>](Subpart%20G%20-%20Insurance%20and%20Annuities/Chapter%20085%20-%20Unemployment%20Compensation/README.md) | <b>Unemployment Compensation</b> | <b>8501</b> |
 | [<b>87.</b>](Subpart%20G%20-%20Insurance%20and%20Annuities/Chapter%20087%20-%20Life%20Insurance/README.md) | <b>Life Insurance</b> | <b>8701</b> |
 | [<b>89.</b>](Subpart%20G%20-%20Insurance%20and%20Annuities/Chapter%20089%20-%20Health%20Insurance/README.md) | <b>Health Insurance</b> | <b>8901</b> |
+| [<b>90.</b>](Subpart%20G%20-%20Insurance%20and%20Annuities/Chapter%20090%20-%20Long-Term%20Care%20Insurance/README.md) | <b>Long-Term Care Insurance</b> | <b>9001</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -84,7 +85,7 @@
 
 |  |  |  |
 | :--- | :---: | ---: |
-| [<b>91.</b>](Subpart%20H%20-%20Access%20to%20Criminal%20History%20Record%20Information/Chapter%20091%20-%20Access%20to%20Criminal%20History%20Records%20for%20National%20Security%20Purposes/README.md) | <b>Access to Criminal History Records for National Security Purposes</b> | <b>9101</b> |
+| [<b>91.</b>](Subpart%20H%20-%20Access%20to%20Criminal%20History%20Record%20Information/Chapter%20091%20-%20Access%20to%20Criminal%20History%20Records%20for%20National%20Security%20and%20Other%20Purposes/README.md) | <b>Access to Criminal History Records for National Security and Other Purposes</b> | <b>9101</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -97,6 +98,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2000—Pub. L. 106–398, §1 \[\[div. A\], title X, §1076(f)(1)(B)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–282, substituted “and Other Purposes” for “Purposes” in item for chapter 91.
+
+Pub. L. 106–265, title I, §1002(b), Sept. 19, 2000, 114 Stat. 769, added item for chapter 90.
 
 1998—Pub. L. 105–206, title I, §1201(b), July 22, 1998, 112 Stat. 719, added items for subpart I and chapter 95.
 

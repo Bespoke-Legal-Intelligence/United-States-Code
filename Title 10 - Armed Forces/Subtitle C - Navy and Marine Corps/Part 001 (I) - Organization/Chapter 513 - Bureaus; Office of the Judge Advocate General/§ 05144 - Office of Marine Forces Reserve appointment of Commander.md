@@ -6,19 +6,29 @@ Establishment of Office; Commander, Marine Forces Reserve.—There is in the exe
 
 (b)
 
-Appointment.—The President, by and with the advice and consent of the Senate, shall appoint the Commander, Marine Forces Reserve, from officers of the Marine Corps who—
+Appointment.—(1) The President, by and with the advice and consent of the Senate, shall appoint the Commander, Marine Forces Reserve, from general officers of the Marine Corps (as defined in section 5001(2)) who have had at least 10 years of commissioned service.
 
-&emsp;(1) have had at least 10 years of commissioned service;
+(2) The Secretary of Defense may not recommend an officer to the President for appointment as Commander, Marine Forces Reserve, unless the officer—
 
-&emsp;(2) are in a grade above colonel; and
+&emsp;(A) is recommended by the Secretary of the Navy; and
 
-&emsp;(3) have been recommended by the Secretary of the Navy.
+&emsp;(B) is determined by the Chairman of the Joint Chiefs of Staff, in accordance with criteria and as a result of a process established by the Chairman, to have significant joint duty experience.
+
+(3) An officer on active duty for service as the Commander, Marine Forces Reserve, shall be counted for purposes of the grade limitations under sections 525 and 526 of this title.
+
+(4) Until October 1, 2003, the Secretary of Defense may waive subparagraph (B) of paragraph (2) with respect to the appointment of an officer as Commander, Marine Forces Reserve, if the Secretary of the Navy requests the waiver and, in the judgment of the Secretary of Defense—
+
+&emsp;(A) the officer is qualified for service in the position; and
+
+&emsp;(B) the waiver is necessary for the good of the service.
+
+> Any such waiver shall be made on a case-by-case basis.
 
 (c)
 
-Term of Office; Grade.—(1) The Commander, Marine Forces Reserve, holds office for a term determined by the Commandant of the Marine Corps, normally four years, but may be removed for cause at any time. He is eligible to succeed himself.
+Term; Reappointment; Grade.—(1) The Commander, Marine Forces Reserve, is appointed for a term determined by the Commandant of the Marine Corps, normally four years, but may be removed for cause at any time. An officer serving as Commander, Marine Forces Reserve, may be reappointed for one additional term of up to four years.
 
-(2) The Commander, Marine Forces Reserve, while so serving, has a grade <sup>1</sup> major general, without vacating the officer's permanent grade. However, if selected in accordance with section 12505 of this title, he may be appointed in the grade of lieutenant general.
+(2) The Commander, Marine Forces Reserve, while so serving, holds the grade of lieutenant general.
 
 (d)
 
@@ -26,7 +36,7 @@ Annual Report.—(1) The Commander, Marine Forces Reserve, shall submit to the S
 
 (2) The Secretary of Defense shall transmit the annual report of the Commander, Marine Forces Reserve, under paragraph (1) to Congress, together with such comments on the report as the Secretary considers appropriate. The report shall be transmitted at the same time each year that the annual report of the Secretary under section 113 of this title is submitted to Congress.
 
-(Added Pub. L. 104–201, div. A, title XII, §1212(c)(1), Sept. 23, 1996, 110 Stat. 2692; amended Pub. L. 106–65, div. A, title V, §554(d), Oct. 5, 1999, 113 Stat. 617.)
+(Added Pub. L. 104–201, div. A, title XII, §1212(c)(1), Sept. 23, 1996, 110 Stat. 2692; amended Pub. L. 106–65, div. A, title V, §554(d), Oct. 5, 1999, 113 Stat. 617; Pub. L. 106–398, §1 \[\[div. A\], title V, §507(c), title X, §1087(a)(19)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–103, 1654A–291.)
 
 #### Prior Provisions
 
@@ -34,15 +44,31 @@ A prior section 5144, act Aug. 10, 1956, ch. 1041, 70A Stat. 289, related to app
 
 #### Amendments
 
+2000—Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title V, §507(c)\], amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “The President, by and with the advice and consent of the Senate, shall appoint the Commander, Marine Forces Reserve, from officers of the Marine Corps who—
+
+&emsp;“(1) have had at least 10 years of commissioned service;
+
+&emsp;“(2) are in a grade above colonel; and
+
+&emsp;“(3) have been recommended by the Secretary of the Navy.”
+
+Subsec. (c). Pub. L. 106–398, §1 \[\[div. A\], title V, §507(c)\], amended heading and text of subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:
+
+“(c)
+
+Term of Office; Grade.—(1) The Commander, Marine Forces Reserve, holds office for a term determined by the Commandant of the Marine Corps, normally four years, but may be removed for cause at any time. He is eligible to succeed himself.
+
+“(2) The Commander, Marine Forces Reserve, while so serving, has the grade of major general, without vacating the officer's permanent grade. However, if selected in accordance with section 12505 of this title, he may be appointed in the grade of lieutenant general.”
+
+Subsec. (c)(2). Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(19)\], substituted “has the grade of” for “has a grade”.
+
 1999—Subsec. (c)(2). Pub. L. 106–65 substituted “major general” for “above brigadier general” and inserted at end “However, if selected in accordance with section 12505 of this title, he may be appointed in the grade of lieutenant general.”
 
 #### Effective Date of 1999 Amendment; Applicability to Incumbents
 
-Amendment by Pub. L. 106–65 effective 60 days after Oct. 5, 1999, with special provision for an officer who is a covered position incumbent who is appointed under that amendment to the grade of lieutenant general or vice admiral, see section 554(g), (h) of Pub. L. 106–65, set out as an Effective Date note under section 12505 of this title.
+Amendment by Pub. L. 106–65 effective 60 days after Oct. 5, 1999, with special provision for an officer who is a covered position incumbent who is appointed under that amendment to the grade of lieutenant general or vice admiral, see section 554(g), (h) of Pub. L. 106–65, set out as a note under section 3038 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 641, 12505 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “of”.</i>
+This section is referred to in section 641 of this title.
 

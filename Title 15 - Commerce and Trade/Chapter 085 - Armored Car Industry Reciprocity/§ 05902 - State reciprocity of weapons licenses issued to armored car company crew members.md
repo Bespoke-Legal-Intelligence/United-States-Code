@@ -20,7 +20,7 @@ A State agency meets the minimum State requirements of this subsection if—
 
 &emsp;&emsp;(B) the receipt or possession of a weapon by the crew member would not violate Federal law, determined on the basis of a criminal record background check conducted during the current year;
 
-&emsp;(2) in issuing a renewal of a weapons license to an armored car crew member described in subsection (a) of this section, the agency determines to its satisfaction that—
+&emsp;(2) in issuing a renewal of a weapons license to an armored car crew member described insubsection (a) of this section, the agency determines to its satisfaction that—
 
 &emsp;&emsp;(A) the crew member has received continuing training in weapons safety and marksmanship from a qualified instructor for each weapon that the crew member is licensed to carry; and
 

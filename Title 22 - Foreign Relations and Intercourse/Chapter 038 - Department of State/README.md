@@ -60,6 +60,7 @@
 | [2660\.](%C2%A7%2002660%20-%20Copies%20of%20treaties%20furnished%20to%20Public%20Printer.md) | Copies of treaties furnished to Public Printer. |
 | [2661\.](%C2%A7%2002661%20-%20Procurement%20of%20information%20for%20corporations%2C%20firms%20and%20individuals%3B%20expense%20of%20cablegrams%20and%20telephone%20service%20involved%3B%20appropriation.md) | Procurement of information for corporations, firms and individuals; expense of cablegrams and telephone service involved; appropriation. |
 | [2661a.](%C2%A7%2002661a%20-%20Foreign%20contracts%20or%20arrangements%3B%20discrimination.md) | Foreign contracts or arrangements; discrimination. |
+| [2661b.](%C2%A7%2002661b%20-%20Services%20provided%20to%20the%20press.md) | Services provided to the press. |
 | 2662, 2663. Transferred or Omitted. |  |
 | [2664\.](%C2%A7%2002664%20-%20Distribution%20of%20duties%20of%20officers%2C%20clerks%2C%20and%20employees.md) | Distribution of duties of officers, clerks, and employees. |
 | [2664a.](%C2%A7%2002664a%20-%20Protection%20of%20Civil%20Service%20employees.md) | Protection of Civil Service employees. |
@@ -114,7 +115,7 @@
 | 2680–1. | Deadline for responses to questions from Congressional committees. |
 | (a) | In general. |
 | (b) | Specified committees. |
-| 2680–2. | Facilitating access to Department of State building. |
+| 2680–2. | Facilitating access to Department of State. |
 | (a) | Procedures to facilitate access. |
 | (b) | Parking. |
 | [2680a.](%C2%A7%2002680a%20-%20Compensation%20for%20disability%20or%20death.md) | Compensation for disability or death. |
@@ -227,7 +228,7 @@
 | (f) | Violations. |
 | (g) | Congressional oversight. |
 | (h) | Relationship to other laws. |
-| [2713\.](%C2%A7%2002713%20-%20Protection%20of%20historic%20and%20artistic%20furnishings%20of%20reception%20areas%20of%20the%20Department%20of%20State%20Building.md) | Protection of historic and artistic furnishings of reception areas of the Department of State Building. |
+| [2713\.](%C2%A7%2002713%20-%20Protection%20of%20historic%20and%20artistic%20furnishings%20of%20reception%20areas%20of%20the%20Harry%20S%20Truman%20Federal%20Building.md) | Protection of historic and artistic furnishings of reception areas of the Harry S Truman Federal Building. |
 | (a) | In general. |
 | (b) | Disposition of historic and artistic items. |
 | (c) | “Reception areas” defined. |
@@ -316,6 +317,7 @@
 - [&sect; 02660 - Copies of treaties furnished to Public Printer](%C2%A7%2002660%20-%20Copies%20of%20treaties%20furnished%20to%20Public%20Printer.md)
 - [&sect; 02661 - Procurement of information for corporations, firms and individuals; expense of cablegrams and telephone service involved; appropriation](%C2%A7%2002661%20-%20Procurement%20of%20information%20for%20corporations%2C%20firms%20and%20individuals%3B%20expense%20of%20cablegrams%20and%20telephone%20service%20involved%3B%20appropriation.md)
 - [&sect; 02661a - Foreign contracts or arrangements; discrimination](%C2%A7%2002661a%20-%20Foreign%20contracts%20or%20arrangements%3B%20discrimination.md)
+- [&sect; 02661b - Services provided to the press](%C2%A7%2002661b%20-%20Services%20provided%20to%20the%20press.md)
 - [&sect; 02662 - Transferred](%C2%A7%2002662%20-%20Transferred.md)
 - [&sect; 02663 - Omitted](%C2%A7%2002663%20-%20Omitted.md)
 - [&sect; 02664 - Distribution of duties of officers, clerks, and employees](%C2%A7%2002664%20-%20Distribution%20of%20duties%20of%20officers%2C%20clerks%2C%20and%20employees.md)
@@ -346,7 +348,7 @@
 - [&sect; 02679c - Prohibition on discriminatory contracts](%C2%A7%2002679c%20-%20Prohibition%20on%20discriminatory%20contracts.md)
 - [&sect; 02680 - Appropriations for State Department; information to Congressional committees](%C2%A7%2002680%20-%20Appropriations%20for%20State%20Department%3B%20information%20to%20Congressional%20committees.md)
 - [&sect; 02680&#8211;1 - Deadline for responses to questions from Congressional committees](%C2%A7%2002680%E2%80%931%20-%20Deadline%20for%20responses%20to%20questions%20from%20Congressional%20committees.md)
-- [&sect; 02680&#8211;2 - Facilitating access to Department of State building](%C2%A7%2002680%E2%80%932%20-%20Facilitating%20access%20to%20Department%20of%20State%20building.md)
+- [&sect; 02680&#8211;2 - Facilitating access to Department of State](%C2%A7%2002680%E2%80%932%20-%20Facilitating%20access%20to%20Department%20of%20State.md)
 - [&sect; 02680a - Compensation for disability or death](%C2%A7%2002680a%20-%20Compensation%20for%20disability%20or%20death.md)
 - [&sect; 02681 - International broadcasting facilities; transfer to Department of State; acquisition of property](%C2%A7%2002681%20-%20International%20broadcasting%20facilities%3B%20transfer%20to%20Department%20of%20State%3B%20acquisition%20of%20property.md)
 - [&sect; 02682 - Liquidation and disposal of broadcasting facilities](%C2%A7%2002682%20-%20Liquidation%20and%20disposal%20of%20broadcasting%20facilities.md)
@@ -385,7 +387,7 @@
 - [&sect; 02710 - Expenses relating to participation in arbitrations of certain disputes](%C2%A7%2002710%20-%20Expenses%20relating%20to%20participation%20in%20arbitrations%20of%20certain%20disputes.md)
 - [&sect; 02711 - Counterterrorism Protection Fund](%C2%A7%2002711%20-%20Counterterrorism%20Protection%20Fund.md)
 - [&sect; 02712 - Authority to control certain terrorism-related services](%C2%A7%2002712%20-%20Authority%20to%20control%20certain%20terrorism-related%20services.md)
-- [&sect; 02713 - Protection of historic and artistic furnishings of reception areas of the Department of State Building](%C2%A7%2002713%20-%20Protection%20of%20historic%20and%20artistic%20furnishings%20of%20reception%20areas%20of%20the%20Department%20of%20State%20Building.md)
+- [&sect; 02713 - Protection of historic and artistic furnishings of reception areas of the Harry S Truman Federal Building](%C2%A7%2002713%20-%20Protection%20of%20historic%20and%20artistic%20furnishings%20of%20reception%20areas%20of%20the%20Harry%20S%20Truman%20Federal%20Building.md)
 - [&sect; 02714 - Denial of passports to certain convicted drug traffickers](%C2%A7%2002714%20-%20Denial%20of%20passports%20to%20certain%20convicted%20drug%20traffickers.md)
 - [&sect; 02715 - Procedures regarding major disasters and incidents abroad affecting United States citizens](%C2%A7%2002715%20-%20Procedures%20regarding%20major%20disasters%20and%20incidents%20abroad%20affecting%20United%20States%20citizens.md)
 - [&sect; 02715a - Provision of information on certain violent crimes abroad to victims and victims&#8217; families](%C2%A7%2002715a%20-%20Provision%20of%20information%20on%20certain%20violent%20crimes%20abroad%20to%20victims%20and%20victims%E2%80%99%20families.md)

@@ -24,21 +24,21 @@ Grant funds awarded under this section may be used for the following purposes:
 
 &emsp;(1) To provide personnel, training, technical assistance, data collection, and other equipment with respect to the increased apprehension, investigation, and adjudication of persons committing violent crimes against women on campus.
 
-&emsp;(2) To train campus administrators, campus security personnel, and personnel serving on campus disciplinary or judicial boards to more effectively identify and respond to violent crimes against women on campus, including the crimes of sexual assault, stalking, and domestic violence.
+&emsp;(2) To train campus administrators, campus security personnel, and personnel serving on campus disciplinary or judicial boards to more effectively identify and respond to violent crimes against women on campus, including the crimes of sexual assault, stalking, domestic violence, and dating violence.
 
 &emsp;(3) To implement and operate education programs for the prevention of violent crimes against women.
 
 &emsp;(4) To develop, enlarge, or strengthen support services programs, including medical or psychological counseling, for victims of sexual offense crimes.
 
-&emsp;(5) To create, disseminate, or otherwise provide assistance and information about victims’ options on and off campus to bring disciplinary or other legal action.
+&emsp;(5) To create, disseminate, or otherwise provide assistance and information about victims’ options on and off campus to bring disciplinary or other legal action, including assistance to victims in immigration matters.
 
-&emsp;(6) To develop and implement more effective campus policies, protocols, orders, and services specifically devoted to prevent, identify, and respond to violent crimes against women on campus, including the crimes of sexual assault, stalking, and domestic violence.
+&emsp;(6) To develop and implement more effective campus policies, protocols, orders, and services specifically devoted to prevent, identify, and respond to violent crimes against women on campus, including the crimes of sexual assault, stalking, domestic violence, and dating violence.
 
-&emsp;(7) To develop, install, or expand data collection and communication systems, including computerized systems, linking campus security to the local law enforcement for the purpose of identifying and tracking arrests, protection orders, violations of protection orders, prosecutions, and convictions with respect to violent crimes against women on campus, including the crimes of sexual assault, stalking, and domestic violence.
+&emsp;(7) To develop, install, or expand data collection and communication systems, including computerized systems, linking campus security to the local law enforcement for the purpose of identifying and tracking arrests, protection orders, violations of protection orders, prosecutions, and convictions with respect to violent crimes against women on campus, including the crimes of sexual assault, stalking, domestic violence, and dating violence.
 
 &emsp;(8) To develop, enlarge, or strengthen victim services programs for the campus and to improve delivery of victim services on campus.
 
-&emsp;(9) To provide capital improvements (including improved lighting and communications facilities but not including the construction of buildings) on campuses to address violent crimes against women on campus, including the crimes of sexual assault, stalking, and domestic violence.
+&emsp;(9) To provide capital improvements (including improved lighting and communications facilities but not including the construction of buildings) on campuses to address violent crimes against women on campus, including the crimes of sexual assault, stalking, domestic violence, and dating violence.
 
 &emsp;(10) To support improved coordination among campus administrators, campus security personnel, and local law enforcement to reduce violent crimes against women on campus.
 
@@ -54,7 +54,7 @@ Grant funds awarded under this section may be used for the following purposes:
 
 &emsp;&emsp;(A) describe the need for grant funds and the plan for implementation for any of the purposes described in subsection (b) of this section;
 
-&emsp;&emsp;(B) describe how the campus authorities shall consult and coordinate with nonprofit and other victim services programs, including sexual assault and domestic violence victim services programs;
+&emsp;&emsp;(B) describe how the campus authorities shall consult and coordinate with nonprofit and other victim services programs, including sexual assault, domestic violence and dating violence victim services programs;
 
 &emsp;&emsp;(C) describe the characteristics of the population being served, including type of campus, demographics of the population, and number of students;
 
@@ -86,7 +86,7 @@ Grant funds awarded under this section may be used for the following purposes:
 
 #### (3) Report to Congress
 
-&emsp;Not later than 180 days after the end of the fiscal year for which grants are awarded underthis section, the Attorney General shall submit to the committees of the House of Representatives and the Senate responsible for issues relating to higher education and crime, a report that includes—
+&emsp;Not later than 180 days after the end of the fiscal year for which grants are awarded under this section, the Attorney General shall submit to the committees of the House of Representatives and the Senate responsible for issues relating to higher education and crime, a report that includes—
 
 &emsp;&emsp;(A) the number of grants, and the amount of funds, distributed under this section;
 
@@ -104,17 +104,29 @@ Grant funds awarded under this section may be used for the following purposes:
 
 In this section—
 
-&emsp;(1) the term “domestic violence” includes acts or threats of violence, not including acts of self defense, committed by a current or former spouse of the victim, by a person with whom the victim shares a child in common, by a person who is cohabitating with or has cohabitated with the victim, by a person similarly situated to a spouse of the victim under the domestic or family violence laws of the jurisdiction, or by any other person against a victim who is protected from that person's acts under the domestic or family violence laws of the jurisdiction;
+&emsp;(1) the term “dating violence” means violence committed by a person—
 
-&emsp;(2) the term “sexual assault” means any conduct proscribed by chapter 109A of title 18, whether or not the conduct occurs in the special maritime and territorial jurisdiction of the United States or in a Federal prison, including both assaults committed by offenders who are strangers to the victim and assaults committed by offenders who are known or related by blood or marriage to the victim; and
+&emsp;&emsp;(A) who is or has been in a social relationship of a romantic or intimate nature with the victim; and
 
-&emsp;(3) the term “victim services” means a nonprofit, nongovernmental organization that assists domestic violence or sexual assault victims, including campus women's centers, rape crisis centers, battered women's shelters, and other sexual assault or domestic violence programs, including campus counseling support and victim advocate organizations with domestic violence, stalking, and sexual assault programs, whether or not organized and staffed by students.
+&emsp;&emsp;(B) where the existence of such a relationship shall be determined based on a consideration of the following factors:
+
+&emsp;&emsp;&emsp;(i) the length of the relationship;
+
+&emsp;&emsp;&emsp;(ii) the type of relationship; and
+
+&emsp;&emsp;&emsp;(iii) the frequency of interaction between the persons involved in the relationship.<sup>3</sup>
+
+&emsp;(2) the term “domestic violence” includes acts or threats of violence, not including acts of self defense, committed by a current or former spouse of the victim, by a person with whom the victim shares a child in common, by a person who is cohabitating with or has cohabitated with the victim, by a person similarly situated to a spouse of the victim under the domestic, dating or family violence laws of the jurisdiction, or by any other person against a victim who is protected from that person's acts under the domestic, dating or family violence laws of the jurisdiction;
+
+&emsp;(3) the term “sexual assault” means any conduct proscribed by chapter 109A of title 18, whether or not the conduct occurs in the special maritime and territorial jurisdiction of the United States or in a Federal prison, including both assaults committed by offenders who are strangers to the victim and assaults committed by offenders who are known or related by blood or marriage to the victim; and
+
+&emsp;(4) the term “victim services” means a nonprofit, nongovernmental organization or a public, nonprofit organization acting in a nongovernmental capacity that assists domestic violence, dating violence or sexual assault victims, including campus women's centers, rape crisis centers, battered women's shelters, and other sexual assault, domestic violence or dating violence programs, including campus counseling support and victim advocate organizations with domestic violence, dating violence, stalking, and sexual assault programs, whether or not organized and staffed by students.
 
 #### (g) Authorization of appropriations
 
-For the purpose of carrying out this part,<sup>1</sup> there are authorized to be appropriated $10,000,000 for fiscal year 1999 and such sums as may be necessary for each of the 4 succeeding fiscal years.
+For the purpose of carrying out this part,<sup>1</sup> there are authorized to be appropriated $10,000,000 for each of fiscal years 2001 through 2005.
 
-(Pub. L. 105–244, title VIII, §826, Oct. 7, 1998, 112 Stat. 1815.)
+(Pub. L. 105–244, title VIII, §826, Oct. 7, 1998, 112 Stat. 1815; Pub. L. 106–386, div. B, title I, §1108(a), title V, §1512(d), Oct. 28, 2000, 114 Stat. 1500, 1533.)
 
 #### References in Text
 
@@ -124,13 +136,35 @@ This part, referred to in subsecs. (d)(3)(D) and (g), is part E (§§826, 827) o
 
 Section was enacted as part of the Higher Education Amendments of 1998, and not as part of the Higher Education Act of 1965 which comprises this chapter.
 
+#### Amendments
+
+2000—Subsec. (b)(2). Pub. L. 106–386, §1108(a)(1), substituted “domestic violence, and dating violence” for “and domestic violence”.
+
+Subsec. (b)(5). Pub. L. 106–386, §1512(d), inserted “, including assistance to victims in immigration matters” before period at end.
+
+Subsec. (b)(6), (7), (9). Pub. L. 106–386, §1108(a)(1), substituted “domestic violence, and dating violence” for “and domestic violence”.
+
+Subsec. (c)(2)(B). Pub. L. 106–386, §1108(a)(2), substituted “, domestic violence and dating violence” for “and domestic violence”.
+
+Subsec. (f)(1). Pub. L. 106–386, §1108(a)(3)(B), added par. (1). Former par. (1) redesignated (2).
+
+Subsec. (f)(2). Pub. L. 106–386, §1108(a)(3)(C), which directed the amendment of par. (2) by inserting “, dating” after “domestic” wherever appearing, was executed by inserting “, dating” after “domestic” the second and third places appearing, to reflect the probable intent of Congress.
+
+Pub. L. 106–386, §1108(a)(3)(A), redesignated par. (1) as (2). Former par. (2) redesignated (3).
+
+Subsec. (f)(3). Pub. L. 106–386, §1108(a)(3)(A), redesignated par. (2) as (3). Former par. (3) redesignated (4).
+
+Subsec. (f)(4). Pub. L. 106–386, §1108(a)(3)(A), (D), redesignated par. (3) as (4), inserted “or a public, nonprofit organization acting in a nongovernmental capacity” after “organization”, “, dating violence” after “assists domestic violence”, and “dating violence,” before “stalking,” and substituted “, domestic violence or dating violence” for “or domestic violence”.
+
+Subsec. (g). Pub. L. 106–386, §1108(a)(4), substituted “each of fiscal years 2001 through 2005” for “fiscal year 1999 and such sums as may be necessary for each of the 4 succeeding fiscal years”.
+
 #### Study of Institutional Procedures To Report Sexual Assaults
 
 Pub. L. 105–244, title VIII, §827, Oct. 7, 1998, 112 Stat. 1819, provided that:
 
 “(a)
 
-In General.—The Attorney General, in consultation with the Secretary of Education, shall provide for a national study to examine procedures undertaken after an institution of higher education receives a report of sexual assault.
+In General.—The Attorney General, in consultation with the Secretary of Education, shall provide for a national study to examine procedures undertakenafter an institution of higher education receives a report of sexual assault.
 
 “(b)
 
@@ -180,7 +214,7 @@ Submission of Report.—The report required by subsection (b) shall be submitted
 
 “(d)
 
-Definition.—For purposes of this section, the term ‘campus sexual assaults’ means sexual assaultsoccurring at institutions of higher education and sexual assaults committed against or by students or employees of such institutions.
+Definition.—For purposes of this section, the term ‘campus sexual assaults’ means sexual assaults occurring at institutions of higher education and sexual assaults committed against or by students or employees of such institutions.
 
 “(e)
 
@@ -189,4 +223,6 @@ Authorization of Appropriations.—There is authorized to be appropriated to car
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
 <i><sup>2</sup></i><i> So in original. No subsec. (e) has been enacted.</i>
+
+<i><sup>3</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

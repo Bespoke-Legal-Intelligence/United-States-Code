@@ -1,20 +1,16 @@
 ### §705. Copyright Office records: Preparation, maintenance, public inspection, and searching
 
-(a) The Register of Copyrights shall provide and keep in the Copyright Office records of alldeposits, registrations, recordations, and other actions taken under this title, and shall prepare indexes of all such records.
+(a) The Register of Copyrights shall ensure that records of deposits, registrations, recordations, and other actions taken under this title are maintained, and that indexes of such records are prepared.
 
-(b) Such records and indexes, as well as the articles deposited in connection with completed copyright registrations and retained under the control of the Copyright Office, shall be open to public inspection.
+(b) Such records and indexes, as well as the articles deposited in connection with completed copyright registrations and retained under thecontrol of the Copyright Office, shall be open to public inspection.
 
 (c) Upon request and payment of the fee specified by section 708, the Copyright Office shall make a search of its public records, indexes, and deposits, and shall furnish a report of the information they disclose with respect to any particular deposits, registrations, or recorded documents.
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2592.)
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2592; Pub. L. 106–379, §3(a)(2), Oct. 27, 2000, 114 Stat. 1445.)
 
-#### Federal Rules of Evidence
+#### Amendments
 
-Hearsay exception, public records and reports, see rule 803, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-#### Cross References
-
-Certificate of registration under seal as prima facie evidence of facts stated therein, see section 410 of this title.
+2000—Subsec. (a). Pub. L. 106–379 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Register of Copyrights shall provide and keep in the Copyright Office records of all deposits, registrations, recordations, and other actions taken under this title, and shall prepare indexes of all such records.”
 
 #### Section Referred to in Other Sections
 

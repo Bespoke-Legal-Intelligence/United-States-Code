@@ -8,7 +8,7 @@ Except as provided in this section, a risk retention group shall be exempt from 
 
 &emsp;(2) A State law, rule, or order which requires or permits a risk retention group to participate in any insurance insolvency guaranty association to which an insurer licensed in the State is required to belong.
 
-&emsp;(3) A State law, rule, or order which requires any insurance policy issued to a risk retentiongroup or any member of the group to be countersigned by an insurance agent or broker residing in the State.
+&emsp;(3) A State law, rule, or order which requires any insurance policy issued to a risk retention group or any member of the group to be countersigned by an insurance agent or broker residing in the State.
 
 &emsp;(4) A State law, rule, or order which otherwise discriminates against a risk retention group or any of its members.
 

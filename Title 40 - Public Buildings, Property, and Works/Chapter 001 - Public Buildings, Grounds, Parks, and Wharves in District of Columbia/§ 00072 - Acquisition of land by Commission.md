@@ -12,11 +12,7 @@ Section 2 of act August 30, 1890, referred to in text, created a board consistin
 
 However, the provisions of section 3 of the act of Aug. 30, 1890, referred to and partly quoted above, with respect to condemnation proceeding, were rendered general and permanent by a provision of the end of that section which read as follows:
 
-“And hereafter, in all cases of the taking of property in the District of Columbia for public use, whether herein, heretofore, or hereafter authorized, the foregoing provisions, as it respects the application by the proper officer to the supreme court of the District of Columbia \[see above for change in name\] and the proceedings therein shall be as in the foregoing provisions declared”. In view of this provision, section 3, reworded at the beginning thereof to incorporate it, was classified to former section 120 of this title. Former section 120 was superseded in effect by act Mar. 1, 1929, ch. 416, 45 Stat. 1415, which was formerly classified to section 361 et seq. of this title. See chapter 13 (§16–1301 et seq.) of Title 16, Particular Actions, Proceedings and Matters, of the District of Columbia Code.
-
-#### Codification
-
-Section is also set out in D.C. Code, §1–2009.
+“And hereafter, in all cases of the taking of property in the District of Columbia for public use, whether herein, heretofore, or hereafter authorized, the foregoing provisions, as it respects the application by the proper officer to the supreme court of the District of Columbia \[see above for change in name\] and the proceedings therein shall be as in the foregoing provisions declared”. In view of this provision, section 3, reworded at the beginning thereof to incorporate it, was classified to former section 120 of this title. Former section 120 was superseded in effect by act Mar. 1, 1929, ch. 416, 45 Stat. 1415, which was formerly classified to section 361 et seq. of this title.
 
 #### Transfer of Functions
 

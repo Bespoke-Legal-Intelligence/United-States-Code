@@ -18,7 +18,7 @@ For purposes of applying reduction-in-force procedures under subsection (a) of s
 
 #### (c) Waiver of applicability in personnel actions; scope, procedures, etc.
 
-(1) Notwithstanding any provision of the Indian preference laws, such laws shall not apply in the case of any personnel action respecting an applicant or employee not entitled to Indian preference if each tribal organization concerned grants, in writing, a waiver of the application of such laws with respect to such personnel action.
+(1) Notwithstanding any provision of the Indian preference laws, such laws shall not apply in the case of any personnel action respecting anapplicant or employee not entitled to Indian preference if each tribal organization concerned grants, in writing, a waiver of the application of such laws with respect to such personnel action.
 
 (2) The provisions of section 8336(j) of title 5 shall not apply to any individual who has accepted a waiver with respect to a personnel action pursuant to paragraph (1) of this subsection or to section 2011(f) <sup>1</sup> of this title.
 
@@ -34,7 +34,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) the recognized governing body of any Indian tribe, band, nation, pueblo, or other organized community, including a Native village (as defined in section 1602(c) of title 43); or
 
-&emsp;&emsp;(B) in connection with any personnel action referred to in subsection (c)(1) of this section, any legally established organization of Indians which is controlled, sanctioned, or chartered by a governing body referred to in subparagraph (A) of this paragraph and which has been delegated by such governing body the authority to grant a waiver undersuch subsection with respect to such personnel action.
+&emsp;&emsp;(B) in connection with any personnel action referred to in subsection (c)(1) of this section, any legally established organization of Indians which is controlled, sanctioned, or chartered by a governing body referred to in subparagraph (A) of this paragraph and which has been delegated by such governing body the authority to grant a waiver under such subsection with respect to such personnel action.
 
 &emsp;(2) The term “Indian preference laws” means section 472 of this title or any other provision of law granting a preference to Indians in promotions and other personnel actions.
 

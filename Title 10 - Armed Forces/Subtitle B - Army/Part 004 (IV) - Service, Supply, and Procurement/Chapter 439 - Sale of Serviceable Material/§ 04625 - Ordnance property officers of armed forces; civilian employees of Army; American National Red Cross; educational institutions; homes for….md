@@ -44,7 +44,3 @@ May 11, 1908, ch. 163 (4th par. under “National Trophy and Medals for Rifle Co
 
 In subsection (a), the words “other armed forces” are substituted for the words “the Navy and Marine Corps”, in 34:540 and 50:70, since those sales may be made to officers of the Coast Guard under section 114(c) of title 14.
 
-#### Cross References
-
-Coast Guard officers, sale of articles of ordnance to, see section 144 of Title 14, Coast Guard.
-

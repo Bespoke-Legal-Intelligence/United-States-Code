@@ -18,7 +18,11 @@ Upon an application made pursuant to section 1823 of this title, the judge shall
 
 &emsp;(5) the application which has been filed contains all statements and certifications required by section 1823 of this title, and, if the target is a United States person, the certification or certifications are not clearly erroneous on the basis of the statement made under section 1823(a)(7)(E) of this title and any other information furnished under section 1823(c) of this title.
 
-#### (b) Specifications and directions of orders
+#### (b) Determination of probable cause
+
+In determining whether or not probable cause exists for purposes of an order under subsection (a)(3) of this section, a judge may consider past activities of the target, as well as facts and circumstances relating to current or future activities of the target.
+
+#### (c) Specifications and directions of orders
 
 An order approving a physical search under this section shall—
 
@@ -46,7 +50,7 @@ An order approving a physical search under this section shall—
 
 &emsp;&emsp;(E) that the Federal officer conducting the physical search promptly report to the court the circumstances and results of the physical search.
 
-#### (c) Duration of order; extensions; assessment of compliance
+#### (d) Duration of order; extensions; assessment of compliance
 
 (1) An order issued under this section may approve a physical search for the period necessary to achieve its purpose, or for forty-five days, whichever is less, except that an order under this section shall approve a physical search targeted against a foreign power, as defined in paragraph (1), (2), or (3) of section 1801(a) of this title, for the period specified in the application or for one year, whichever is less.
 
@@ -54,7 +58,7 @@ An order approving a physical search under this section shall—
 
 (3) At or before the end of the period of time for which a physical search is approved by an order or an extension, or at any time after a physical search is carried out, the judge may assess compliance with the minimization procedures by reviewing the circumstances under which information concerning United States persons was acquired, retained, or disseminated.
 
-#### (d) Emergency orders
+#### (e) Emergency orders
 
 (1)(A) Notwithstanding any other provision of this subchapter, whenever the Attorney General reasonably makes the determination specified in subparagraph (B), the Attorney General may authorize the execution of an emergency physical search if—
 
@@ -80,15 +84,19 @@ An order approving a physical search under this section shall—
 
 (4) In the event that such application for approval is denied, or in any other case where the physical search is terminated and no order is issued approving the search, no information obtained or evidence derived from such search shall be received in evidence or otherwise disclosed in any trial, hearing, or other proceeding in or before any court, grand jury, department, office, agency, regulatory body, legislative committee, or other authority of the United States, a State, or political subdivision thereof, and no information concerning any United States person acquired from such search shall subsequently be used or disclosed in any other manner by Federal officers or employees without the consent of such person, except with the approval of the Attorney General, if the information indicates a threat of death or serious bodily harm to any person. A denial of the application made under this subsection may be reviewed as provided in section 1822 of this title.
 
-#### (e) Retention of applications and orders
+#### (f) Retention of applications and orders
 
 Applications made and orders granted under this subchapter shall be retained for a period of at least 10 years from the date of the application.
 
-(Pub. L. 95–511, title III, §304, as added Pub. L. 103–359, title VIII, §807(a)(3), Oct. 14, 1994, 108 Stat. 3447.)
+(Pub. L. 95–511, title III, §304, as added Pub. L. 103–359, title VIII, §807(a)(3), Oct. 14, 1994, 108 Stat. 3447; amended Pub. L. 106–567, title VI, §603(b), Dec. 27, 2000, 114 Stat. 2853.)
 
 #### References in Text
 
-This chapter, referred to in subsec. (c)(2), was in the original “this Act”, meaning Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, as amended, which is classified principally to this chapter. For complete classification ofthis Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+This chapter, referred to in subsec. (d)(2), was in the original “this Act”, meaning Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+
+#### Amendments
+
+2000—Subsecs. (b) to (f). Pub. L. 106–567 added subsec. (b) and redesignated former subsecs. (b) to (e) as (c) to (f), respectively.
 
 #### Section Referred to in Other Sections
 

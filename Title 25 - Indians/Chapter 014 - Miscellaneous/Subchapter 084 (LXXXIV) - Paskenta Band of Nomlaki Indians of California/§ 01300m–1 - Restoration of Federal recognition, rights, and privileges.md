@@ -2,11 +2,11 @@
 
 #### (a) Federal recognition
 
-Federal recognition is hereby extended to the Tribe. Except as otherwise provided in this subchapter, all laws and regulations of general application to Indians and nations, tribes, or bands of Indians that are not inconsistent with any specific provision of this subchapter shall be applicable to the Tribe and its members.
+Federal recognition is hereby extended to the Tribe. Except as otherwise provided in this subchapter, all laws and regulations of general application to Indians and nations, tribes, or bands of Indians that are not inconsistent with anyspecific provision of this subchapter shall be applicable to the Tribe and its members.
 
 #### (b) Restoration of rights and privileges
 
-Except as provided in subsection (d) of this section, all rights and privileges of the Tribe and its members under any Federal treaty, Executive order, agreement, or statute, or underany other authority which were diminished or lost under the Act of August 18, 1958 (Public Law 85–671; 72 Stat. 619), are hereby restored and the provisions of such Act shall be inapplicable to the Tribe and its members after November 2, 1994.
+Except as provided in subsection (d) of this section, all rights and privileges of the Tribe and its members under any Federal treaty, Executive order, agreement, or statute, or under any other authority which were diminished or lost under the Act of August 18, 1958 (Public Law 85–671; 72 Stat. 619), are hereby restored and the provisions of such Act shall be inapplicable to the Tribe and its members after November 2, 1994.
 
 #### (c) Federal services and benefits
 

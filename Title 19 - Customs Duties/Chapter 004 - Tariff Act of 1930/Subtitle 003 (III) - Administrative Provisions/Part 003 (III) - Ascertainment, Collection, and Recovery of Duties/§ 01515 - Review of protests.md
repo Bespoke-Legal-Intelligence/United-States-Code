@@ -2,7 +2,7 @@
 
 #### (a) Administrative review and modification of decisions
 
-Unless a request for an accelerated disposition of a protest is filed in accordance with subsection (b) of this section the appropriate customs officer, within two years from the date a protest was filed in accordance with section 1514 of this title, shall review the protest and shall allow or deny such protest in whole or in part. Thereafter, any duties, charge, or exaction found to have been assessed or collected in excess shall be remitted or refunded and any drawback found due shall be paid. Upon the request of the protesting party, filed within the time allowed for the filing of a protest under section 1514 of this title, a protest may be subject to further review by another appropriate customs officer, under the circumstances and in the form and manner that may be prescribed by the Secretary in regulations, but subject to the two-year limitation prescribed in the first sentence of this subsection. Within 30 days from the date an application for further review is filed, the appropriate customs officer shall allow or deny the application and, if allowed, the protest shall be forwarded to the customs officer who will be conducting the further review. Notice of the denial of any protest shall be mailed in the form and manner prescribed by the Secretary. Such notice shall include a statement of the reasons for the denial, as well as a statement informing the protesting party of his right to file a civil action contesting the denial of a protest under section 1514 of this title.
+Unless a request for an accelerated disposition of a protest is filed in accordance with subsection (b) of this section the appropriate customs officer, within two years from the date a protest was filed in accordance with section 1514 of this title, shall review the protest and shall allow or deny such protest in whole or in part. Thereafter, any duties, charge, or exaction found to have been assessed or collected in excess shall be remitted or refunded and any drawback found due shall be paid. Upon the request of the protesting party, filed within the time allowed for the filing of a protest under section 1514 of this title, a protest may be subject to further review by another appropriate customs officer, under the circumstances and in the form and manner that may be prescribed by the Secretary in regulations, but subject to the two-year limitation prescribed in the first sentenceof this subsection. Within 30 days from the date an application for further review is filed, the appropriate customs officer shall allow or deny the application and, if allowed, the protest shall be forwarded to the customs officer who will be conducting the further review. Notice of the denial of any protest shall be mailed in the form and manner prescribed by the Secretary. Such notice shall include a statement of the reasons for the denial, as well as a statement informing the protesting party of his right to file a civil action contesting the denial of a protest under section 1514 of this title.
 
 #### (b) Request for accelerated disposition of protest
 
@@ -61,16 +61,6 @@ Functions of Secretary of the Treasury under this section insofar as they relate
 #### Review of Protests in Import Surcharge Cases
 
 Pub. L. 93–618, title VI, §611, Jan. 3, 1975, 88 Stat. 2075, provided that: “Notwithstanding the provisions of section 515(a) of the Tariff Act of 1930 (19 U.S.C. 1515(a)), in the case of any protest under section 514 of such Act \[section 1514 of this title\] involving the imposition of an import surcharge in the form of a supplemental duty pursuant to Presidential Proclamation 4074, dated August 17, 1971 \[set out as a note preceding section 1202 of this title\], the time for review and allowing or denying the protest shall not expire until five years from the date the protest was filed in accordance with such section 514 \[section 1514 of this title\].”
-
-#### Cross References
-
-Court of International Trade procedure, see section 2631 et seq. of Title 28, Judiciary and Judicial Procedure; Rules of Court, Title 28 Appendix.
-
-Jurisdiction—
-
-&emsp;&emsp;Court of Appeals for the Federal Circuit, see section 1295 of Title 28.
-
-&emsp;&emsp;Court of International Trade, see section 1581 et seq. of Title 28.
 
 #### Section Referred to in Other Sections
 

@@ -1,0 +1,304 @@
+### §7804. Other personnel
+
+#### (a) Appointment and supervision
+
+Unless otherwise prescribed by the Secretary, the Commissioner of Internal Revenue is authorized to employ such number of persons as the Commissioner deems proper for the administration and enforcement of the internal revenue laws, and the Commissioner shall issue all necessary directions, instructions, orders, and rules applicable to such persons.
+
+#### (b) Posts of duty of employees in field service or traveling
+
+Unless otherwise prescribed by the Secretary—
+
+#### (1) Designation of post of duty
+
+&emsp;The Commissioner shall determine and designate the posts of duty of all such persons engaged in field work or traveling on official business outside of the District of Columbia.
+
+#### (2) Detail of personnel from field service
+
+&emsp;The Commissioner may order any such person engaged in field work to duty in the District of Columbia, for such periods as the Commissioner may prescribe, and to any designated post of duty outside the District of Columbia upon the completion of such duty.
+
+#### (c) Delinquent Internal Revenue officers and employees
+
+If any officer or employee of the Treasury Department acting in connection with the internalrevenue laws fails to account for and pay over any amount of money or property collected or received by him in connection with the internal revenue laws, the Secretary shall issue notice and demand to such officer or employee for payment of the amount which he failed to account for and pay over, and, upon failure to pay the amount demanded within the time specified in such notice, the amount so demanded shall be deemed imposed upon such officer or employee and assessed upon the date of such notice and demand, and the provisions of chapter 64 and all other provisions of law relating to the collection of assessed taxes shall be applicable in respect of such amount.
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 916; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 105–206, title I, §1104(a), July 22, 1998, 112 Stat. 710.)
+
+#### Amendments
+
+<b>1998</b>—Pub. L. 105–206 amended section catchline and text generally, substituting present provisions for provisions which had declared: in subsec. (a), that provisions of Reorganization Plans No. 26 of 1950 and No. 1 of 1952 should apply to all functions vested by this title, or by any act amending this title in any officer, employee, or agency of the Department; and in subsec. (b), that nothing in such Reorganization Plans should be considered to impair existing rights and remedies, that for the purpose of any action to recover tax all statutes, rules, and regulations referring to collector of internal revenue, principal officer for internal revenue district, or Secretary, should be deemed to refer to officer whose acts gave rise to such action, and that venue of any such action should be the same as under existing law.
+
+<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–206, title I, §1104(c), July 22, 1998, 112 Stat. 710, provided that: “The amendments made by this section \[amending this section and section 6344 of this title\] shall take effect on the date of the enactment of this Act \[July 22, 1998\].”
+
+#### Termination of Employment for Misconduct
+
+Pub. L. 105–206, title I, §1203, July 22, 1998, 112 Stat. 720, provided that:
+
+“(a)
+
+In General.—Subject to subsection (c), the Commissioner of Internal Revenue shall terminate the employment of any employee of the Internal Revenue Service if there is a final administrative or judicial determination that such employee committed any act or omission described under subsection (b) in the performance of the employee's official duties. Such termination shall be a removal for cause on charges of misconduct.
+
+“(b)
+
+Acts or Omissions.—The acts or omissions referred to under subsection (a) are—
+
+&emsp;“(1) willful failure to obtain the required approval signatures on documents authorizing the seizure of a taxpayer's home, personal belongings, or business assets;
+
+&emsp;“(2) providing a false statement under oath with respect to a material matter involving a taxpayer or taxpayer representative;
+
+&emsp;“(3) with respect to a taxpayer, taxpayer representative, or other employee of the Internal Revenue Service, the violation of—
+
+&emsp;&emsp;“(A) any right under the Constitution of the United States; or
+
+&emsp;&emsp;“(B) any civil right established under—
+
+&emsp;&emsp;&emsp;“(i) title VI or VII of the Civil Rights Act of 1964 \[42 U.S.C. 2000d et seq., 2000e et seq.\];
+
+&emsp;&emsp;&emsp;“(ii) title IX of the Education Amendments of 1972 \[20 U.S.C. 1681 et seq.\];
+
+&emsp;&emsp;&emsp;“(iii) the Age Discrimination in Employment Act of 1967 \[29 U.S.C. 621 et seq.\];
+
+&emsp;&emsp;&emsp;“(iv) the Age Discrimination Act of 1975 \[42 U.S.C. 6101 et seq.\];
+
+&emsp;&emsp;&emsp;“(v) section 501 or 504 of the Rehabilitation Act of 1973 \[29 U.S.C. 791, 794\]; or
+
+&emsp;&emsp;&emsp;“(vi) title I of the Americans with Disabilities Act of 1990 \[42 U.S.C. 12111 et seq.\];
+
+&emsp;“(4) falsifying or destroying documents to conceal mistakes made by any employee with respect to a matter involving a taxpayer or taxpayer representative;
+
+&emsp;“(5) assault or battery on a taxpayer, taxpayer representative, or other employee of the Internal Revenue Service, but only if there is a criminal conviction, or a final judgment by a court in a civil case, with respect to the assault or battery;
+
+&emsp;“(6) violations of the Internal Revenue Code of 1986, Department of Treasury regulations, or policies of the Internal Revenue Service (including the Internal Revenue Manual) for the purpose of retaliating against, or harassing, a taxpayer, taxpayer representative, or other employee of the Internal Revenue Service;
+
+&emsp;“(7) willful misuse of the provisions of section 6103 of the Internal Revenue Code of 1986 for the purpose of concealing information from a congressional inquiry;
+
+&emsp;“(8) willful failure to file any return of tax required under the Internal Revenue Code of 1986 on or before the date prescribed therefor (including any extensions), unless such failure is due to reasonable cause and not to willful neglect;
+
+&emsp;“(9) willful understatement of Federal tax liability, unless such understatement is due to reasonable cause and not to willful neglect; and
+
+&emsp;“(10) threatening to audit a taxpayer for the purpose of extracting personal gain or benefit.
+
+“(c)
+
+Determination of Commissioner.—
+
+&emsp;“(1)
+
+In general.—The Commissioner of Internal Revenue may take a personnel action other than termination for an act or omission under subsection (a).
+
+&emsp;“(2)
+
+Discretion.—The exercise of authority under paragraph (1) shall be at the sole discretion of the Commissioner of Internal Revenue and may not be delegated to any other officer. The Commissioner of Internal Revenue, in his sole discretion, may establish a procedure which will be used to determine whether an individual should be referred to the Commissioner of Internal Revenue for a determination by the Commissioner under paragraph (1).
+
+&emsp;“(3)
+
+No appeal.—Any determination of the Commissioner of Internal Revenue under this subsection may not be appealed in any administrative or judicial proceeding.
+
+“(d)
+
+Definition.—For purposes of the provisions described in clauses (i), (ii), and (iv) of subsection (b)(3)(B), references to a program or activity receiving Federal financial assistance or an education program or activity receiving Federal financial assistance shall include any program or activity conducted by the Internal Revenue Service for a taxpayer.”
+
+#### Employee Training Program
+
+Pub. L. 105–206, title I, §1205, July 22, 1998, 112 Stat. 722, provided that:
+
+“(a)
+
+In General.—Not later than 180 days after the date of the enactment of this Act \[July 22, 1998\], the Commissioner of Internal Revenue shall implement an employee training program and shall submit an employee training plan to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives.
+
+“(b)
+
+Contents.—The plan submitted under subsection (a) shall—
+
+&emsp;“(1) detail a comprehensive employee training program to ensure adequate customer service training;
+
+&emsp;“(2) detail a schedule for training and the fiscal years during which the training will occur;
+
+&emsp;“(3) detail the funding of the program and relevant information to demonstrate the priority and commitment of resources to the plan;
+
+&emsp;“(4) review the organizational design of customer service;
+
+&emsp;“(5) provide for the implementation of a performance development system; and
+
+&emsp;“(6) provide for at least 16 hours of conflict management training during fiscal year 1999 for employees conducting collection activities.”
+
+#### Cataloging Complaints
+
+Pub. L. 105–206, title III, §3701, July 22, 1998, 112 Stat. 776, provided that: “In collecting data for the report required under section 1211 of the Taxpayer Bill of Rights 2 (Public Law 104–168) \[set out below\], the Secretary of the Treasury or the Secretary's delegate shall, not later than January 1, 2000, maintain records of taxpayer complaints of misconduct by Internal Revenue Service employees on an individual employee basis.”
+
+#### Use of Pseudonyms by Internal Revenue Service Employees
+
+Pub. L. 105–206, title III, §3706, July 22, 1998, 112 Stat. 778, provided that:
+
+“(a)
+
+In General.—Any employee of the Internal Revenue Service may use a pseudonym only if—
+
+&emsp;“(1) adequate justification for the use of a pseudonym is provided by the employee, including protection of personal safety; and
+
+&emsp;“(2) such use is approved by the employee's supervisor before the pseudonym is used.
+
+“(b)
+
+Effective Date.—Subsection (a) shall apply to requests made after the date of the enactment of this Act \[July 22, 1998\].”
+
+#### Reports on Misconduct of IRS Employees
+
+Pub. L. 104–168, title XII, §1211, July 30, 1996, 110 Stat. 1474, provided that: “On or before June 1 of each calendar year after 1996, the Secretary of the Treasury shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report on—
+
+&emsp;“(1) all categories of instances involving the misconduct of employees of the Internal Revenue Service during the preceding calendar year, and
+
+&emsp;“(2) the disposition during the preceding calendar year of any such instances (without regard to the year of the misconduct).”
+
+#### Taxpayers’ Rights, Courtesy and Cross-Cultural Relations Training
+
+Pub. L. 106–554, §1(a)(3) \[title I, §102\], Dec. 21, 2000, 114 Stat. 2763, 2763A–132, provided that: “The Internal Revenue Service shall maintain a training program to ensure that Internal Revenue Service employees are trained in taxpayers’ rights, in dealing courteously with the taxpayers, and in cross-cultural relations.”
+
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 106–58, title I, §102, Sept. 29, 1999, 113 Stat. 437.
+
+Pub. L. 105–277, div. A, §101(h) \[title I, §102\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–488.
+
+Pub. L. 105–61, title I, §102, Oct. 10, 1997, 111 Stat. 1281.
+
+Pub. L. 104–208, div. A, title I, §101(f) \[title I, §102\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–323.
+
+Pub. L. 104–52, title I, §2, Nov. 19, 1995, 109 Stat. 474.
+
+Pub. L. 103–329, title I, §2, Sept. 30, 1994, 108 Stat. 2388.
+
+Pub. L. 103–123, title I, §2, Oct. 28, 1993, 107 Stat. 1232.
+
+Pub. L. 102–393, title I, §2, Oct. 6, 1992, 106 Stat. 1735.
+
+#### Basis for Evaluation of Internal Revenue Service Employees
+
+Pub. L. 105–206, title I, §1204, July 22, 1998, 112 Stat. 722, provided that:
+
+“(a)
+
+In General.—The Internal Revenue Service shall not use records of tax enforcement results—
+
+&emsp;“(1) to evaluate employees; or
+
+&emsp;“(2) to impose or suggest production quotas or goals with respect to such employees.
+
+“(b)
+
+Taxpayer Service.—The Internal Revenue Service shall use the fair and equitable treatment of taxpayers by employees as one of the standards for evaluating employee performance.
+
+“(c)
+
+Certification.—Each appropriate supervisor shall certify quarterly by letter to the Commissioner of Internal Revenue whether or not tax enforcement results are being used in a manner prohibited by subsection (a).
+
+“(d)
+
+Technical and Conforming Amendment.—\[Repealed section 6231 of Pub. L. 100–647, set out below.\]
+
+“(e)
+
+Effective Date.—This section shall apply to evaluations conducted on or after the date of the enactment of this Act \[July 22, 1998\].”
+
+Pub. L. 100–647, title VI, §6231, Nov. 10, 1988, 102 Stat. 3734, prohibited Internal Revenue Service use of records of tax enforcement results to evaluate employees or to impose or suggest production quotas or goals, and required quarterly certification that results had not been used in prohibited manner, prior to repeal by Pub. L. 105–206, title I, §1204(d), July 22, 1998, 112 Stat. 722.
+
+#### Sense of Congress as to Increased Internal Revenue Service Funding for Taxpayer Assistance and Enforcement
+
+Pub. L. 100–203, title X, §10622, Dec. 22, 1987, 101 Stat. 1330–452, provided that:
+
+“(a)
+
+Findings.—The Congress hereby finds that—
+
+&emsp;“(1) the Internal Revenue Service estimates that the amount of taxes owed for 1986 will exceed the amount of taxes collected for such year by $100 billion;
+
+&emsp;“(2) the current taxpayer compliance rate stands at 81.5 percent;
+
+&emsp;“(3) the tax gap can be significantly reduced by enhancing taxpayer assistance services and enforcement; and
+
+&emsp;“(4) the Appropriations Committee of the House of Representatives, in its fiscal year 1988 Internal Revenue Service appropriation, took a step in the direction of providing additional funding for taxpayer assistance and enforcement efforts.
+
+“(b) It is the sense of the Congress that:
+
+&emsp;“(1) The Congress increase outlays for the Internal Revenue Service in fiscal year 1989 and fiscal year 1990 in the areas of taxpayer assistance and enforcement by $.7 billion in fiscal year 1989 for a revenue total of $3.2 billion and by $.8 billion in fiscal year 1990 for a revenue total of $4.4 billion. The net revenue increase would be $2.5 billion in fiscal year 1989 and $3.6 billion in fiscal year 1990, or a net revenue increase over the House Appropriations Committee recommendations of $.4 billion in fiscal year 1989 and $1.3 billion in fiscal year 1990.
+
+&emsp;“(2) The Internal Revenue Service offer improved taxpayer assistance and enforcement efforts by using the aforementioned outlays in areas recommended by, or consistent with the recommendations of, the ‘Dorgan Task Force Report’. Taxpayer assistance efforts would include providing expanded taxpayer education programs, instituting pilot programs of taxmobiles in rural areas, and upgrading the quality of telephone assistance. Taxpayer enforcement efforts would include raising the audit rate from 1.1 percent toward 2.5 percent, restoring resources to criminal investigations, and the collection of delinquent accounts.
+
+&emsp;“(3) The Congress should undertake an experimental multiyear authorization and 2-year appropriation for the Internal Revenue Service consistent with the recommendations in Public Law 100–119, section 201 (Increasing the Statutory Limit on the Public Debt) \[2 U.S.C. 621 note\].
+
+&emsp;“(4) Increased funding should be provided for compilation and analysis of statistics of income and research.
+
+> The Internal Revenue Service must issue a report on the extent of the tax gap and the measures that could be undertaken to decrease the tax gap. The report must utilize more current data than has been utilized recently. The report must be issued by April 15, 1989. The Internal Revenue Service must also report annually on the improvements being made in the audit rate, taxpayer assistance, and enforcement efforts.”
+
+#### Tax Counseling for the Elderly
+
+Pub. L. 95–600, title I, §163, Nov. 6, 1978, 92 Stat. 2810, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+
+“(a)
+
+Training and Technical Assistance.—
+
+&emsp;“(1)
+
+Agreements.—The Secretary, through the Internal Revenue Service, is authorized to enter into agreements with private or public nonprofit agencies or organizations for the purpose of providing training and technical assistance to prepare volunteers to provide tax counseling assistance for elderly individuals in the preparation of their Federal income tax returns.
+
+&emsp;“(2)
+
+Other assistance.—In addition to any other forms of technical assistance provided under this section, the Secretary may provide—
+
+&emsp;&emsp;“(A) preferential access to Internal Revenue Service taxpayer service representatives for the purpose of making available technical information needed during the course of the volunteers’ work;
+
+&emsp;&emsp;“(B) material to be used in making elderly persons aware of the availability of assistance under volunteer taxpayer assistance programs under this section; and
+
+&emsp;&emsp;“(C) technical materials and publications to be used by such volunteers.
+
+“(b)
+
+Powers of the Secretary.—In carrying out his responsibilities under this section, the Secretary is authorized—
+
+&emsp;“(1) to provide assistance to organizations which demonstrate, to the satisfaction of the Secretary, that their volunteers are adequately trained and competent to render effective tax counseling to the elderly;
+
+&emsp;“(2) to provide for the training of such volunteers, and to assist in such training, to insure that such volunteers are qualified to provide tax counseling assistance to elderly individuals;
+
+&emsp;“(3) to provide reimbursement to volunteers through such organizations for transportation, meals, and other expenses incurred by them in training or providing tax counseling assistance under this section, and such other support and assistance as he determines to be appropriate in carrying out the provisions of this section;
+
+&emsp;“(4) to provide for the use of services, personnel, and facilities of Federal executive agencies and of State and local public agencies with their consent, with or without reimbursement therefor; and
+
+&emsp;“(5) to prescribe such rules and regulations as he deems necessary to carry out the provisions of this section.
+
+“(c)
+
+Employment of Volunteers.—
+
+&emsp;“(1)
+
+In general.—Service as a volunteer in any program carried out under this section shall not be considered service as an employee of the United States. Volunteers under such a program shall not be considered Federal employees and shall not be subject to the provisions of law relating to Federal employment, except that the provisions of section 1905 of title 18, United States Code, shall apply to volunteers as if they were employees of the United States.
+
+&emsp;“(2)
+
+Expenses.—Amounts received by volunteers serving in any program carried out under this section as reimbursement for expenses are exempt from taxation under chapters 1 and 21 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\].
+
+“(d)
+
+Publicity Relating to Income Tax Provisions Particularly Important to the Elderly.—The Secretary shall, from time to time, undertake to direct the attention of elderly individuals to those provisions of the Internal Revenue Code of 1986 which are particularly important to taxpayers who are elderly individuals, such as the provisions of section 37 (relating to credit for the elderly) and section 121 (relating to one-time exclusion of gain from sale of principal residence) of the Internal Revenue Code of 1986.
+
+“(e)
+
+Definitions.—For purposes of this section—
+
+&emsp;“(1) The term ‘Secretary’ means the Secretary of the Treasury or his delegate.
+
+&emsp;“(2) The term ‘elderly individual’ means an individual who has attained the age of 60 years as of the close of his taxable year.
+
+&emsp;“(3) The term ‘Federal income tax return’ means any return required under chapter 61 of the Internal Revenue Code of 1986 with respect to the tax imposed on an individual under chapter 1 of such Code.
+
+“(f)
+
+Authorization of Appropriations.—There are authorized to be appropriated for the purpose of carrying out the provisions of this section $2,500,000 for the fiscal year ending September 30, 1979, and $3,500,000 for the fiscal year ending September 30, 1980.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 6344 of this title.
+

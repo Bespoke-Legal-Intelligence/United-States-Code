@@ -34,10 +34,6 @@
 
 (Aug. 8, 1951, ch. 298, §5, 65 Stat. 178.)
 
-#### Cross References
-
-Prevention of unfair methods of competition and unfair or deceptive acts or practices, see section 45 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 69d of this title.

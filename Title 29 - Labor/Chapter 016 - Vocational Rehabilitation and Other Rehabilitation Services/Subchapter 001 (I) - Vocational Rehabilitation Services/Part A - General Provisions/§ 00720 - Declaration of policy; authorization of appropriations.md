@@ -34,7 +34,7 @@
 
 #### (2) Purpose
 
-&emsp;The purpose of this subchapter is to assist States in operating statewide comprehensive, coordinated, effective, efficient, and accountable programs of vocational rehabilitation, each of which is—
+&emsp;The purpose of this subchapter is to assist States in operating statewide comprehensive,coordinated, effective, efficient, and accountable programs of vocational rehabilitation, each of which is—
 
 &emsp;&emsp;(A) an integral part of a statewide workforce investment system; and
 
@@ -100,7 +100,7 @@
 
 &emsp;&emsp;Unless the Congress in the regular session which ends prior to the beginning of the terminal fiscal year—
 
-&emsp;&emsp;&emsp;(i) of the authorization of appropriations for the program authorized by the State grant program under part B of this subchapter; or
+&emsp;&emsp;&emsp;(i) of the authorization of appropriations for the program authorized by the Stategrant program under part B of this subchapter; or
 
 &emsp;&emsp;&emsp;(ii) of the duration of the program authorized by the State grant program under part B of this subchapter;
 

@@ -30,7 +30,7 @@ Action in Cases Where Cause for Retention Is Established.—(1) If a board of in
 
 (B) An officer who has been required to show cause for retention under section 14902(b) of this title and who is thereafter retained in an active status may not again be required to show cause for retention under such section solely because of conduct which was the subject of the previous proceeding, unless the recommendations of the board of inquiry that considered the officer's case are determined to have been obtained by fraud or collusion.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2958; amended Pub. L. 104–106, div. A, title XV, §1501(b)(32), Feb. 10, 1996, 110 Stat. 498.)
+(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2958; amended Pub. L.104–106, div. A, title XV, §1501(b)(32), Feb. 10, 1996, 110 Stat. 498.)
 
 #### Amendments
 

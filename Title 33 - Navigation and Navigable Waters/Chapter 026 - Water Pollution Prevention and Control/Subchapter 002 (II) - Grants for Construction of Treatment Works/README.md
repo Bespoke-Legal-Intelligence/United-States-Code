@@ -4,8 +4,6 @@
 
 This subchapter is referred to in sections 1255, 1311, 1313a, 1330, 1371, 1377, 1382, 1384, 1386 of this title; title 40 App. section 214.
 
-<i><sup>1</sup></i><i> So in original. The word “a” probably should not appear.</i>
-
 
 ---
 
@@ -33,3 +31,5 @@ This subchapter is referred to in sections 1255, 1311, 1313a, 1330, 1371, 1377, 
 - [&sect; 01297 - Guidelines for cost-effectiveness analysis](%C2%A7%2001297%20-%20Guidelines%20for%20cost-effectiveness%20analysis.md)
 - [&sect; 01298 - Cost effectiveness](%C2%A7%2001298%20-%20Cost%20effectiveness.md)
 - [&sect; 01299 - State certification of projects](%C2%A7%2001299%20-%20State%20certification%20of%20projects.md)
+- [&sect; 01300 - Pilot program for alternative water source projects](%C2%A7%2001300%20-%20Pilot%20program%20for%20alternative%20water%20source%20projects.md)
+- [&sect; 01301 - Sewer overflow control grants](%C2%A7%2001301%20-%20Sewer%20overflow%20control%20grants.md)

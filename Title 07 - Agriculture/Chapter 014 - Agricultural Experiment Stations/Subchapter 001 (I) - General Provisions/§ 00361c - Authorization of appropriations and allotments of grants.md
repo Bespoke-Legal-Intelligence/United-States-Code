@@ -98,7 +98,7 @@ If in any year the amount made available by a State from its own funds (includin
 
 #### (D) Plan of work
 
-&emsp;&emsp;The State shall include in the plan of work of the State required under section 361g ofthis title or section 344 of this title, as applicable, a description of the manner in which the State will meet the requirements of this paragraph.
+&emsp;&emsp;The State shall include in the plan of work of the State required under section 361g of this title or section 344 of this title, as applicable, a description of the manner in which the State will meet the requirements of this paragraph.
 
 #### (3) Applicability
 
@@ -112,7 +112,7 @@ If in any year the amount made available by a State from its own funds (includin
 
 #### (4) Relationship to other requirements
 
-&emsp;Federal formula funds described in paragraph (1) that are used by a State for a fiscal year for integrated activities in accordance with paragraph (2)(B) may also be used to satisfy the multistate activities requirements of subsection (c)(3) of this section and section 343(h) of this title for the same fiscal year.
+&emsp;Federal formula funds described in paragraph (1) that are used by a State for a fiscalyear for integrated activities in accordance with paragraph (2)(B) may also be used to satisfy the multistate activities requirements of subsection (c)(3) of this section and section 343(h) of this title for the same fiscal year.
 
 (Mar. 2, 1887, ch. 314, §3, 24 Stat. 441; Aug. 11, 1955, ch. 790, §1, 69 Stat. 671; Pub. L. 92–318, title V, §506(<i>l</i>), June 23, 1972, 86 Stat. 351; Pub. L. 95–113, title XIV, §1466, Sept. 29, 1977, 91 Stat. 1018; Pub. L. 97–98, title XIV, §1442(a), Dec. 22, 1981, 95 Stat. 1321; Pub. L. 101–624, title XVI, §1618(a), Nov. 28, 1990, 104 Stat. 3733; Pub. L. 104–127, title VIII, §869, Apr. 4, 1996, 110 Stat. 1175; Pub. L. 105–185, title I, §104, title II, §§203(a), 204(a), June 23, 1998, 112 Stat. 529, 533, 535; Pub. L. 105–277, div. A, §101(a) \[title VII, §753(d)\], Oct. 21, 1998, 112 Stat. 2681, 2681–33.)
 
@@ -177,12 +177,6 @@ Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L
 #### Effective Date of 1972 Amendment
 
 Amendment by Pub. L. 92–318 effective after June 30, 1970, see section 506(n) of Pub. L. 92–318, set out as an Effective Date note under section 326a of this title.
-
-#### Cross References
-
-Additional appropriations for research work, see section 427i of this title.
-
-Annual appropriations for agricultural colleges, see section 322 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -90,9 +90,35 @@ Authorization of Appropriations.—Not more than the following amounts may be ap
 
 &emsp;&emsp;(I) $2,891,000 for environment and energy projects and activities; and
 
-&emsp;&emsp;(J) $3,114,000 for innovative/cooperative research projects and activities, of which $750,000 shall be for carrying out the grant program established under subsection (h); and
+&emsp;&emsp;(J) $3,114,000 for innovative/cooperative research projects and activities, of which $750,000 shall be for carrying out the grant program established under subsection (h);
 
-&emsp;(5) for fiscal year 1999, $229,673,000.
+&emsp;(5) for fiscal year 1999, $229,673,000;
+
+&emsp;(6) for fiscal year 2000, $224,000,000, including—
+
+&emsp;&emsp;(A) $17,269,000 for system development and infrastructure projects and activities;
+
+&emsp;&emsp;(B) $33,042,500 for capacity and air traffic management technology projects and activities;
+
+&emsp;&emsp;(C) $11,265,400 for communications, navigation, and surveillance projects and activities;
+
+&emsp;&emsp;(D) $19,300,000 for weather projects and activities;
+
+&emsp;&emsp;(E) $6,358,200 for airport technology projects and activities;
+
+&emsp;&emsp;(F) $44,457,000 for aircraft safety technology projects and activities;
+
+&emsp;&emsp;(G) $53,218,000 for system security technology projects and activities;
+
+&emsp;&emsp;(H) $26,207,000 for human factors and aviation medicine projects and activities;
+
+&emsp;&emsp;(I) $3,481,000 for environment and energy projects and activities; and
+
+&emsp;&emsp;(J) $2,171,000 for innovative/cooperative research projects and activities, of which $750,000 shall be for carrying out subsection (h);
+
+&emsp;(7) for fiscal year 2001, $237,000,000; and
+
+&emsp;(8) for fiscal year 2002, $249,000,000.
 
 (b)
 
@@ -158,7 +184,7 @@ Principal criteria.—The principal criteria for the awarding of grants under th
 
 Competitive, merit-based evaluation.—Grants shall be awarded under this subsection on the basis of evaluation of proposals through a competitive, merit-based process.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1294; Pub. L. 103–305, title III, §302, Aug. 23, 1994, 108 Stat. 1589; Pub. L. 104–264, title XI, §§1102, 1103, Oct. 9, 1996, 110 Stat. 3278; Pub. L. 104–287, §5(9), (74), Oct. 11, 1996, 110 Stat. 3389, 3396; Pub. L. 105–155, §§2, 3, Feb. 11, 1998, 112 Stat. 5.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1294; Pub. L. 103–305, title III, §302, Aug. 23, 1994, 108 Stat. 1589; Pub. L. 104–264, title XI, §§1102, 1103, Oct. 9, 1996, 110 Stat. 3278; Pub. L. 104–287, §5(9), (74), Oct. 11, 1996, 110 Stat. 3389, 3396; Pub. L. 105–155, §§2, 3, Feb. 11, 1998, 112 Stat. 5; Pub. L. 106–181, title IX, §901, Apr. 5, 2000, 114 Stat. 194.)
 
 Historical and Revision Notes
 
@@ -222,6 +248,8 @@ The date of the enactment of the FAA Research, Engineering, and Development Auth
 
 #### Amendments
 
+2000—Subsec. (a)(6) to (8). Pub. L. 106–181 added pars. (6) to (8).
+
 1998—Subsec. (a)(4). Pub. L. 105–155, §2, added par. (4).
 
 Subsec. (a)(4)(J). Pub. L. 105–155, §3(b), inserted “, of which $750,000 shall be for carrying out the grant program established under subsection (h)” after “projects and activities”.
@@ -270,6 +298,10 @@ Pub. L. 104–287, §5(9), substituted “Transportation and Infrastructure” f
 
 “(2) for the fiscal year ending September 30, 1994, $297,000,000.”
 
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
+
 #### Effective Date of 1996 Amendment
 
 Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
@@ -288,7 +320,7 @@ Notice of Reorganization.—The Administrator of the Federal Aviation Administra
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 44508, 47108, 48104, 48108, 48109, 50101, 50102, 50103, 50105 of this title.
+This section is referred to in sections 44508, 47108, 48108, 48109, 50101, 50102, 50103, 50105 of this title.
 
 <i><sup>1</sup></i><i> So in original. No subsec. (g) has been enacted.</i>
 

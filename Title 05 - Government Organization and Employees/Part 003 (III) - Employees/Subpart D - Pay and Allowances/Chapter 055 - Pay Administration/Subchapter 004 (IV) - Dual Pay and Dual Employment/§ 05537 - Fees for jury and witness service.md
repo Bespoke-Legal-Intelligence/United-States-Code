@@ -6,11 +6,11 @@
 
 &emsp;(2) as a witness on behalf of the United States or the District of Columbia.
 
-(b) An official of a court of the United States or the District of Columbia may not receive witness fees for attendance before a court, commissioner, or magistrate where he is officiating.
+(b) An official of a court of the United States or the District of Columbia may not receive witness fees for attendance before a court, commissioner, or magistrate judge where he is officiating.
 
-(c) For the purpose of this section, “court of the United States” has the meaning given it by section 451 of title 28 and includes the District Court of Guam and the District Court of the Virgin Islands.
+(c) For the purpose of this section, “court of the United States” has the meaning given it bysection 451 of title 28 and includes the District Court of Guam and the District Court of the Virgin Islands.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 484; Pub. L. 90–623, §1(12), Oct. 22, 1968, 82 Stat. 1312; Pub. L. 91–563, §3(a), Dec. 19, 1970, 84 Stat. 1477; Pub. L. 104–186, title II, §215(8), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 104–201, div. C, title XXXV, §3548(a)(5), Sept. 23, 1996, 110 Stat. 2868.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 484; Pub. L. 90–623, §1(12), Oct. 22, 1968, 82 Stat. 1312; Pub. L. 91–563, §3(a), Dec. 19, 1970, 84 Stat. 1477; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 104–186, title II, §215(8), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 104–201, div. C, title XXXV, §3548(a)(5), Sept. 23, 1996, 110 Stat. 2868.)
 
 Historical and Revision Notes
 
@@ -42,7 +42,7 @@ Subsec. (c). Pub. L. 104–201 substituted “the District Court of Guam and the
 
 #### Change of Name
 
-Reference to United States magistrate or to magistrate deemed to refer to United States magistrate judge pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+Words “magistrate judge” substituted for “magistrate” in subsec. (b) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 1968 Amendment
 

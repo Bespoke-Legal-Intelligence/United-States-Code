@@ -44,7 +44,7 @@ Leasing Vehicles.—The Secretary shall prescribe guidelines allowing vehicles b
 
 (h)
 
-Meal Delivery Service to Homebound Individuals.—Mass transportation service providers receiving assistance under this section or section 5311(c) of this title may coordinate andassist in regularly providing meal delivery service for homebound individuals if the delivery service does not conflict with providing mass transportation service or reduce service to mass transportation passengers.
+Meal Delivery Service to Homebound Individuals.—Mass transportation service providers receiving assistance under this section or section 5311(c) of this title may coordinate and assist in regularly providing meal delivery service for homebound individuals if the delivery service does not conflict with providing mass transportation service or reduce service to mass transportation passengers.
 
 (i)
 
@@ -148,7 +148,7 @@ Section 165(b) of the Federal-Aid Highway Act of 1973, referred to in subsec. (f
 
 #### Rural Transportation Accessibility Incentive Program
 
-Pub. L. 105–178, title III, §3038, June 9, 1998, 112 Stat. 392, as amended by Pub. L. 105–206, title IX, §9009(x), July 22, 1998, 112 Stat. 862, provided that:
+Pub. L. 105–178, title III, §3038, June 9, 1998, 112 Stat. 392, as amended by Pub. L. 105–206, title IX, §9009(x), July 22, 1998, 112 Stat. 862; Pub. L. 106–346, §101(a) \[title III, §336\], Oct. 23, 2000, 114 Stat. 1356, 1356A–31, provided that:
 
 “(a)
 
@@ -196,7 +196,7 @@ Competitive Grant Selection.—The Secretary shall conduct a national solicitati
 
 “(e)
 
-Federal Share of Costs.—The Federal share of costs under this section shall be provided from funds made available to carry out this section. The Federal share of the costs for a project shall not exceed 50 percent of the project cost.
+Federal Share of Costs.—The Federal share of costs under this section shall be provided from funds made available to carry out this section. The Federal share of the costs for a project shall not exceed 90 percent of the project cost.
 
 “(f)
 
@@ -228,5 +228,5 @@ Other over-the-road bus service.—Of amounts made available by or appropriated 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5301, 5307, 5323, 5333, 5334, 5338, 31138 of this title; title 42 sections 3013, 3035<i>l.</i>
+This section is referred to in sections 5301, 5307, 5323, 5333, 5334, 5338, 31138 of this title; title 42 section 3013.
 

@@ -48,33 +48,13 @@ Section 408(c) of Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2687, as amended by P
 
 #### Amendments
 
-1978—Subsec. (b). Pub. L. 95–598 inserted “and United States trustees” after “United States attorneys”.
+<b>1978</b>—Subsec. (b). Pub. L. 95–598 inserted “and United States trustees” after “United States attorneys”.
 
-1954—Subsec. (a). Act June 18, 1954, inserted in first item “including a default judgment whether entered by the court or by the clerk” after “final hearing”.
+<b>1954</b>—Subsec. (a). Act June 18, 1954, inserted in first item “including a default judgment whether entered by the court or by the clerk” after “final hearing”.
 
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(c) of Pub. L. 95–598, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
-
-#### Federal Rules of Civil Procedure
-
-Admiralty and maritime rules of practice (which included libel procedures) were superseded, and civil and admiralty procedures in United States district courtswere unified, effective July 1, 1966, see rule 1 and Supplemental Rules for Certain Admiralty and Maritime Claims, Appendix to this title.
-
-Application of, see rule 81.
-
-Depositions, see rules 26 to 32.
-
-#### Federal Rules of Criminal Procedure
-
-Depositions, see rule 15, Title 18, Appendix, Crimes and Criminal Procedure.
-
-#### Cross References
-
-Taxation of costs—
-
-&emsp;&emsp;Admiralty cases, see section 1925 of this title.
-
-&emsp;&emsp;Criminal cases, see section 1918 of this title.
 
 #### Section Referred to in Other Sections
 

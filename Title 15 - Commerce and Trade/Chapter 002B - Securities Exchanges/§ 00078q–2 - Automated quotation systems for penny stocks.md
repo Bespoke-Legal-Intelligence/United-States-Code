@@ -14,13 +14,13 @@ The Congress finds that—
 
 #### (1) In general
 
-&emsp;The Commission shall facilitate the widespread dissemination of reliable and accuratelast sale and quotation information with respect to penny stocks in accordance with the findings set forth in subsection (a) of this section, with a view toward establishing, at the earliest feasible time, one or more automated quotation systems that will collect and disseminate information regarding all penny stocks.
+&emsp;The Commission shall facilitate the widespread dissemination of reliable and accurate last sale and quotation information with respect to penny stocks in accordance with the findings set forth in subsection (a) of this section, with a view toward establishing, at the earliest feasible time, one or more automated quotation systems that will collect and disseminate information regarding all penny stocks.
 
 #### (2) Characteristics of systems
 
 &emsp;Each such automated quotation system shall—
 
-&emsp;&emsp;(A) be operated by a registered securities association or a national securities exchange in accordance with such rules as the Commission and these entities shall prescribe;
+&emsp;&emsp;(A) be operated by a registered securities association or a national securities exchangein accordance with such rules as the Commission and these entities shall prescribe;
 
 &emsp;&emsp;(B) collect and disseminate quotation and transaction information;
 
@@ -41,6 +41,10 @@ The Commission shall, in each of the first 5 annual reports (under section 78w(b
 &emsp;(2) a review of the activities of registered securities associations and national securities exchanges in the development of the system.
 
 (June 6, 1934, ch. 404, title I, §17B, as added Pub. L. 101–429, title V, §506, Oct. 15, 1990, 104 Stat. 955.)
+
+#### References in Text
+
+Section 78w(b)(1) of this title, referred to in subsec. (d), was omitted from the Code. For further details related to reports referred to in subsec. (d), see Codification note set out under section 78w of this title.
 
 #### Effective Date
 

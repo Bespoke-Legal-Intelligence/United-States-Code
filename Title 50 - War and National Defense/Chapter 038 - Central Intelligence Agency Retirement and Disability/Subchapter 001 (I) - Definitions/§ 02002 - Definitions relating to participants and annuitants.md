@@ -102,7 +102,7 @@ For purposes of sections 2031 and 2052 of this title:
 
 #### (C) Students
 
-&emsp;&emsp;An unmarried dependent child between 18 and 22 years of age who is a student regularly pursuing a full-time course of study or training in residence in a high school, trade school, technical or vocational institute, junior college, college, university, or comparable recognized educational institution.
+&emsp;&emsp;An unmarried dependent child between 18 and 22 years of age who is a student regularly pursuing a full-time course of study ortraining in residence in a high school, trade school, technical or vocational institute, junior college, college, university, or comparable recognized educational institution.
 
 #### (2) Special rules for students
 
@@ -116,7 +116,7 @@ For purposes of sections 2031 and 2052 of this title:
 
 #### (3) “Dependent” defined
 
-&emsp;For purposes of this subsection, the term “dependent”, with respect to the child of a participant or retired participant, means that the participant or retired participant was, atthe time of the death of the participant or retired participant, either living with or contributing to the support of the child, as determined in accordance with regulations prescribed under subchapter II of this chapter.
+&emsp;For purposes of this subsection, the term “dependent”, with respect to the child of a participant or retired participant, means that the participant or retired participant was, at the time of the death of the participant or retired participant, either living with or contributing to the support of the child, as determined in accordance with regulations prescribed under subchapter II of this chapter.
 
 #### (4) Exclusion of stepchildren from lump-sum payment
 

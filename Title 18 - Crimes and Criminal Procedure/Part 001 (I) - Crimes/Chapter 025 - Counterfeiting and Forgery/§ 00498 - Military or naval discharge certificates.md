@@ -18,10 +18,6 @@ Changes in phraseology were made.
 
 1994—Pub. L. 103–322, which directed the amendment of this section by substituting “fined under this title” for “fined not more than $5,000”, was executed by making the substitution for “fined not more than $1,000”, to reflect the probable intent of Congress.
 
-#### Canal Zone
-
-Applicability of section to Canal Zone, see section 14 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 14 of this title.

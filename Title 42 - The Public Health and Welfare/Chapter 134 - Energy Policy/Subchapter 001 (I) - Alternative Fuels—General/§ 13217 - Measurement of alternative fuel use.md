@@ -4,7 +4,3 @@ The Administrator of General Services shall use such means as may be necessary t
 
 (Pub. L. 102–486, title III, §308, Oct. 24, 1992, 106 Stat. 2874.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 13218 of this title.
-

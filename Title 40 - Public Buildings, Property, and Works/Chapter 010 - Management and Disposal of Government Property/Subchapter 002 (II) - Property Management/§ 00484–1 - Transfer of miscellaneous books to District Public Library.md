@@ -14,9 +14,3 @@ Section was not enacted as part of the Federal Property and Administrative Servi
 
 Section was formerly classified to section 110 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 
-Section is also classified to section 37–109 of the District of Columbia Code.
-
-#### Cross References
-
-Transfer by Librarian of Congress of books to other libraries, see section 149 of Title 2, The Congress.
-

@@ -77,6 +77,8 @@ Pub. L. 96–342, title X, §1001(d)(2), Sept. 8, 1980, 94 Stat. 1119, substitut
 
 This chapter is referred to in title 41 section 421.
 
+<i><sup>1</sup></i><i> So in original. Probably should be “(g)”.</i>
+
 
 ---
 

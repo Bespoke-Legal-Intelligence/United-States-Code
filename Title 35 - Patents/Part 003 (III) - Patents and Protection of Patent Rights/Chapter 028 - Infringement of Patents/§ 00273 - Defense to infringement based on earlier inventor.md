@@ -66,7 +66,7 @@ Unsuccessful assertion of defense.—If the defense under this section is pleade
 
 &emsp;(9)
 
-Invalidity.—A patent shall not be deemed to be invalid under section 102 or 103 ofthis title solely because a defense is raised or established under this section.
+Invalidity.—A patent shall not be deemed to be invalid under section 102 or 103 of this title solely because a defense is raised or established under this section.
 
 (Added Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4302(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–555.)
 

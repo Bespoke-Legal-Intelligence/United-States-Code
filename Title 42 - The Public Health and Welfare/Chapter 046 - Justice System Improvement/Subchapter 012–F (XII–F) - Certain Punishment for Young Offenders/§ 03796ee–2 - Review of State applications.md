@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Attorney General shall make a grant under section 3796ee(a) of this title to carry outthe projects described in the application submitted by such applicant under section 3796ee–1 of this title upon determining that—
+The Attorney General shall make a grant under section 3796ee(a) of this title to carry out the projects described in the application submitted by such applicant under section 3796ee–1 of this title upon determining that—
 
 &emsp;(1) the application is consistent with the requirements of this subchapter; and
 

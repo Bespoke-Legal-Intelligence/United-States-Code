@@ -20,9 +20,13 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 #### Delegation of Functions
 
-Functions of President under this section to suspend operation of sections 523, 524 \[now 12011\], and 525 of this title, relating to authorized strength of commissioned officers, delegated to Secretary of Defense to perform during a time of war or national emergency, without approval, ratification, or other action by President, and with authority for Secretary to redelegate, provided that, during a national emergency declared by President, the exercise of any such authority be specifically directed by President in accordance with section 1631 of Title 50, War and National Defense, and that Secretary ensure that actions taken pursuant to any authority so delegated be accounted for as required by section 1641 of Title 50, see Ex. Ord. No. 12396, §§2, 3, Dec. 9, 1982, 47 F.R. 55897, 55898, set out as a note under section 301 of Title 3, The President.
+Functions of President under this section to suspend operation of sections 523, 524 \[now 12011\], and 525 of this title, relating to authorized strength of commissioned officers, delegated to Secretary of Defense to performduring a time of war or national emergency, without approval, ratification, or other action by President, and with authority for Secretary to redelegate, provided that, during a national emergency declared by President, the exercise of any such authority be specifically directed by President in accordance with section 1631 of Title 50, War and National Defense, and that Secretary ensure that actions taken pursuant to any authority so delegated be accounted for as required by section 1641 of Title 50, see Ex. Ord. No. 12396, §§2, 3, Dec. 9, 1982, 47 F.R. 55897, 55898, set out as a note under section 301 of Title 3, The President.
 
 #### Authority To Waive Grade Strength Laws For Fiscal Year 1991; Certification; Relationship to Other Suspension Authority
 
 Pub. L. 102–25, title II, §§201(b), 202, 205(b), Apr. 6, 1991, 105 Stat. 79, 80, authorized Secretary of a military department to suspend, for fiscal year 1991, the operation of any provision of section 517, 523, 524, 525, or 526 of this title with respect to that military department, that such Secretary may exercise such authority only after submission to the congressional defense committees of a certification in writing that such authority is necessary because of personnel actions associated with Operation Desert Storm, and that such authority is in addition to the authority provided in this section.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 517, 12011, 12012 of this title.
 

@@ -9,9 +9,10 @@
 | (c) | Southern Panel. |
 | (d) | Northern Panel. |
 | (e) | Fraser River Panel. |
-| (f) | Panel appointments. |
-| (g) | Voting requirements. |
-| (h) | Consultation. |
+| (f) | Transboundary Panel. |
+| (g) | Panel appointments. |
+| (h) | Voting requirements. |
+| (i) | Consultation. |
 | [3633\.](%C2%A7%2003633%20-%20Authority%20and%20responsibility.md) | Authority and responsibility. |
 | (a) | Secretary of State. |
 | (b) | States and treaty Indian tribes. |

@@ -1,6 +1,6 @@
 ### §4118. Regulations
 
-(a) The Office of Personnel Management, after considering the needs and requirements of each agency for training its employees and after consulting with the agencies principally concerned, shall prescribe regulations containing the principles, standards, and related requirements for the programs, and plans thereunder, for the training of employees under this chapter, including requirements for coordination of and reasonable uniformity in the agency training programs and plans. The regulations shall provide for the maintenance of necessary information concerning the general conduct of the training activities of each agency, and such other information as is necessary to enable the President and Congress to discharge effectively their respective duties and responsibilities for supervision, control, and review of these training programs. The regulations also shall cover—
+(a) The Office of Personnel Management, after considering the needs and requirements of each agency for training its employees and after consulting with the agencies principally concerned, shall prescribe regulations containing the principles, standards, and related requirements for the programs, and plans thereunder, for the training of employees under this chapter, including requirements for coordination of andreasonable uniformity in the agency training programs and plans. The regulations shall provide for the maintenance of necessary information concerning the general conduct of the training activities of each agency, and such other information as is necessary to enable the President and Congress to discharge effectively their respective duties and responsibilities for supervision, control, and review of these training programs. The regulations also shall cover—
 
 &emsp;(1) requirements concerning the determination and continuing review by each agency of its training needs and requirements;
 
@@ -70,7 +70,7 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 #### Central Intelligence Agency
 
-Exception of Central Intelligence Agency from provisions of this section and certain other provisions of thischapter and section 1308 of this title, see Ex. Ord. No. 10805, Feb. 18, 1959, 24 F.R. 1301, set out as a note under section 4102 of this title.
+Exception of Central Intelligence Agency from provisions of this section and certain other provisions of this chapter and section 1308 of this title, see Ex. Ord. No. 10805, Feb. 18, 1959, 24 F.R. 1301, set out as a note under section 4102 of this title.
 
 #### Section Referred to in Other Sections
 

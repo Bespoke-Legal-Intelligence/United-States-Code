@@ -6,17 +6,27 @@ The Secretary may not make a grant under section 300ff–11(a) of this title to 
 
 &emsp;(1) subject to paragraph (2), the allocation of funds and services within the eligible area will be made in accordance with the priorities established, pursuant to section 300ff–12(b)(3)(A) <sup>1</sup> of this title, by the HIV health services planning council that serves such eligible area; and
 
-&emsp;(2) funds provided under section 300ff–11 of this title will be expended only for the purposes described in subsections (b) and (c) of this section.
+&emsp;(2) funds provided under section 300ff–11 of this title will be expended only for the purposes described in subsections (b) and (c) <sup>1</sup> of this section.
 
 #### (b) Primary purposes
 
 #### (1) In general
 
-&emsp;The chief elected official shall use amounts received under a grant under section 300ff–11 of this title to provide direct financial assistance to entities described in paragraph (2) for the purpose of delivering or enhancing HIV-related—
+&emsp;The chief elected official shall use amounts received under a grant under section 300ff–11 of this title to provide direct financial assistance to entities described in paragraph (2) for the purpose of delivering or enhancing HIV-related services, as follows:
 
-&emsp;&emsp;(A) outpatient and ambulatory health and support services, including case management, substance abuse treatment and mental health treatment, and comprehensive treatment services, which shall include treatment education and prophylactic treatment for opportunistic infections, for individuals and families with HIV disease; and
+&emsp;&emsp;(A) Outpatient and ambulatory health services, including substance abuse treatment, mental health treatment, and comprehensive treatment services, which shall include treatment education and prophylactic treatment for opportunistic infections, for individuals and families with HIV disease.
 
-&emsp;&emsp;(B) inpatient case management services that prevent unnecessary hospitalization or that expedite discharge, as medically appropriate, from inpatient facilities.
+&emsp;&emsp;(B) Outpatient and ambulatory support services (including case management), to the extent that such services facilitate, enhance, support, or sustain the delivery, continuity, or benefits of health services for individuals and families with HIV disease.
+
+&emsp;&emsp;(C) Inpatient case management services that prevent unnecessary hospitalization or that expedite discharge, as medically appropriate, from inpatient facilities.
+
+&emsp;&emsp;(D) Outreach activities that are intended to identify individuals with HIV disease who know their HIV status and are not receiving HIV-related services, and that are—
+
+&emsp;&emsp;&emsp;(i) necessary to implement the strategy under section 300ff–12(b)(4)(D) of this title, including activities facilitating the access of such individuals to HIV-related primary care services at entities described in paragraph (3)(A);
+
+&emsp;&emsp;&emsp;(ii) conducted in a manner consistent with the requirements under sections 300ff–15(a)(3) and 300ff–51(b)(2) of this title; and
+
+&emsp;&emsp;&emsp;(iii) supplement, and do not supplant, such activities that are carried out with amounts appropriated under section 247b of this title.
 
 #### (2) Appropriate entities
 
@@ -28,11 +38,45 @@ The Secretary may not make a grant under section 300ff–11(a) of this title to 
 
 &emsp;&emsp;In providing direct financial assistance under paragraph (1) the chief elected official shall give priority to entities that are currently participating in Health Resources and Services Administration HIV health care demonstration projects.
 
-#### (3) Priority for women, infants and children
+#### (3) Early intervention services
 
-&emsp;For the purpose of providing health and support services to infants, children, and women with HIV disease, including treatment measures to prevent the perinatal transmission of HIV, the chief elected official of an eligible area, in accordance with the established priorities of the planning council, shall use, from the grants made for the area under section 300ff–11(a) of this title for a fiscal year, not less than the percentage constituted by the ratio of the population in such area of infants, children, and women with acquired immune deficiency syndrome to the general population in such area of individuals with such syndrome.
+#### (A) In general
 
-#### (c) Limited expenditures for personnel needs
+&emsp;&emsp;The purposes for which a grant under section 300ff–11 of this title may be used include providing to individuals with HIV disease early intervention services described in section 300ff–51(b)(2) of this title, with follow-up referral provided for the purpose of facilitating the access of individuals receiving the services to HIV-related health services. The entities through which such services may be provided under the grant include public health departments, emergency rooms, substance abuse and mental health treatment programs, detoxification centers, detention facilities, clinics regarding sexually transmitted diseases, homeless shelters, HIV disease counseling and testing sites, health care points of entry specified by eligible areas, federally qualified health centers, and entities described in section 300ff–52(a) of this title that constitute a point of access to services by maintaining referral relationships.
+
+#### (B) Conditions
+
+&emsp;&emsp;With respect to an entity that proposes to provide early intervention services under subparagraph (A), such subparagraph applies only if the entity demonstrates to the satisfaction of the chief elected official for the eligible area involved that—
+
+&emsp;&emsp;&emsp;(i) Federal, State, or local funds are otherwise inadequate for the early intervention services the entity proposes to provide; and
+
+&emsp;&emsp;&emsp;(ii) the entity will expend funds pursuant to such subparagraph to supplement and not supplant other funds available to the entity for the provision of early intervention services for the fiscal year involved.
+
+#### (4) Priority for women, infants and children
+
+#### (A) In general
+
+&emsp;&emsp;For the purpose of providing health and support services to infants, children, youth, and women with HIV disease, including treatment measures to prevent the perinatal transmission of HIV, the chief elected official of an eligible area, in accordance with the established priorities of the planning council, shall for each of such populations in the eligible area use, from the grants made for the area under section 300ff–11(a) of thistitle for a fiscal year, not less than the percentage constituted by the ratio of the population involved (infants, children, youth, or women in such area) with acquired immune deficiency syndrome to the general population in such area of individuals with such syndrome.
+
+#### (B) Waiver
+
+&emsp;&emsp;With respect to the population involved, the Secretary may provide to the chief elected official of an eligible area a waiver of the requirement of subparagraph (A) if such official demonstrates to the satisfaction of the Secretary that the population is receiving HIV-related health services through the State medicaid program under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\], the State children's health insurance program under title XXI of such Act \[42 U.S.C. 1397aa et seq.\], or other Federal or State programs.
+
+#### (c) Quality management
+
+#### (1) Requirement
+
+&emsp;The chief elected official of an eligible area that receives a grant under this part shall provide for the establishment of a quality management program to assess the extent to which HIV health services provided to patients under the grant are consistent with the most recent Public Health Service guidelines for the treatment of HIV disease and related opportunistic infection, and as applicable, to develop strategies for ensuring that such services are consistent with the guidelines for improvement in the access to and quality of HIV health services.
+
+#### (2) Use of funds
+
+&emsp;From amounts received under a grant awarded under this part for a fiscal year, the chief elected official of an eligible area may (in addition to amounts to which subsection (f)(1) of this section applies) use for activities associated with the quality management program required in paragraph (1) not more than the lesser of—
+
+&emsp;&emsp;(A) 5 percent of amounts received under the grant; or
+
+&emsp;&emsp;(B) $3,000,000.
+
+#### (d) Limited expenditures for personnel needs
 
 #### (1) In general
 
@@ -64,7 +108,7 @@ The Secretary may not make a grant under section 300ff–11(a) of this title to 
 
 &emsp;&emsp;(C) assistance or services provided to an institution or entity under paragraph (2), will not be used to supplant the existing resources devoted by such institution or entity to the uses described in such paragraph.
 
-#### (d) Requirement of status as medicaid provider
+#### (e) Requirement of status as medicaid provider
 
 #### (1) Provision of service
 
@@ -78,13 +122,13 @@ The Secretary may not make a grant under section 300ff–11(a) of this title to 
 
 #### (A) In general
 
-&emsp;&emsp;In the case of an entity making an agreement pursuant to paragraph (1)(B) regarding the provision of services, the requirement established in such paragraph shall be waived by the HIV health services planning council for the eligible area if the entity does not, in providing health care services, impose a charge or accept reimbursement available from any third-party payor, including reimbursement under any insurance policy or under any Federal or State health benefits program.
+&emsp;&emsp;In the case of an entity making an agreement pursuant to paragraph (1)(B) regardingthe provision of services, the requirement established in such paragraph shall be waived by the HIV health services planning council for the eligible area if the entity does not, in providing health care services, impose a charge or accept reimbursement available from any third-party payor, including reimbursement under any insurance policy or under any Federal or State health benefits program.
 
 #### (B) Determination
 
 &emsp;&emsp;A determination by the HIV health services planning council of whether an entity referred to in subparagraph (A) meets the criteria for a waiver under such subparagraph shall be made without regard to whether the entity accepts voluntary donations for the purpose of providing services to the public.
 
-#### (e) Administration
+#### (f) Administration
 
 #### (1) In general
 
@@ -108,23 +152,41 @@ The Secretary may not make a grant under section 300ff–11(a) of this title to 
 
 &emsp;&emsp;(C) other types of program support such as quality assurance, quality control, and related activities.
 
-#### (f) Construction
+#### (g) Construction
 
 A State may not use amounts received under a grant awarded under this part to purchase or improve land, or to purchase, construct, or permanently improve (other than minor remodeling) any building or other facility, or to make cash payments to intended recipients of services.
 
-(July 1, 1944, ch. 373, title XXVI, §2604, as added Pub. L. 101–381, title I, §101(3), Aug. 18, 1990, 104 Stat. 580; amended Pub. L. 103–446, title XII, §1203(a)(3), Nov. 2, 1994, 108 Stat. 4689; Pub. L. 104–146, §3(b)(4), May 20, 1996, 110 Stat. 1351.)
+(July 1, 1944, ch. 373, title XXVI, §2604, as added Pub. L. 101–381, title I, §101(3), Aug. 18, 1990, 104 Stat. 580; amended Pub. L. 103–446, title XII, §1203(a)(3), Nov. 2, 1994, 108 Stat. 4689; Pub. L. 104–146, §3(b)(4), May 20, 1996, 110 Stat. 1351; Pub. L. 106–345, title I, §121, Oct. 20, 2000, 114 Stat. 1326.)
 
 #### References in Text
 
-Section 300ff–12(b) of this title, referred to in subsec. (a)(1), was amended by Pub. L. 104–146, §3(b)(1)(D), May20, 1996, 110 Stat. 1348, to redesignate pars. (2) and (3) as (3) and (4), respectively. As so redesignated, par. (3)(A) relates to establishment or designation of councils and par. (4)(A) relates to establishment of priorities by planning councils.
+Section 300ff–12(b) of this title, referred to in subsec. (a)(1), was amended by Pub. L. 104–146, §3(b)(1)(D), May 20, 1996, 110 Stat. 1348, to redesignate pars. (2) and (3) as (3) and (4), respectively. As so redesignated, par. (3)(A) relates to establishment or designation of councils and par. (4)(A) relates to establishment of priorities by planning councils.
 
-The Social Security Act, referred to in subsec. (d)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Social Security Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+Subsection (c) of this section, referred to in subsec. (a)(2), was redesignated subsec. (d), and a new subsec. (c) was added, by Pub. L. 106–345, title I, §121(d), Oct. 20, 2000, 114 Stat. 1328.
+
+The Social Security Act, referred to in subsecs. (b)(4)(B) and (e)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Prior Provisions
 
 A prior section 2604 of act July 1, 1944, was successively renumbered by subsequent acts and transferred, see section 238c of this title.
 
 #### Amendments
+
+2000—Subsec. (b)(1). Pub. L. 106–345, §121(a)(1), substituted “HIV-related services, as follows:” for “HIV-related—” in introductory provisions.
+
+Subsec. (b)(1)(A). Pub. L. 106–345, §121(a)(2), substituted “Outpatient and ambulatory health services, including substance abuse treatment,” for “outpatient and ambulatory health and support services, including case management, substance abuse treatment and” and substituted a period for “; and” at end.
+
+Subsec. (b)(1)(B). Pub. L. 106–345, §121(a)(4), added subpar. (B). Former subpar. (B) redesignated (C).
+
+Subsec. (b)(1)(C). Pub. L. 106–345, §121(a)(3), redesignated subpar. (B) as (C) and substituted “Inpatient” for “inpatient”.
+
+Subsec. (b)(1)(D). Pub. L. 106–345, §121(a)(5), added subpar. (D).
+
+Subsec. (b)(3). Pub. L. 106–345, §121(b)(2), added par. (3). Former par. (3) redesignated (4).
+
+Subsec. (b)(4). Pub. L. 106–345, §121(b)(1), (c), redesignated par. (3) as (4) and amended heading and text of par. (4) generally. Prior to amendment, text read as follows: “For the purpose of providing health and support services to infants, children, and women with HIV disease, including treatment measures to prevent the perinatal transmission of HIV, the chief elected official of an eligible area, in accordance with the established priorities of the planning council, shall use, from the grants made for the area under section 300ff–11(a) of this title for a fiscal year, not less than the percentage constituted by the ratio of the population in such area of infants, children, and women with acquired immune deficiency syndrome to the general population in such area of individuals with such syndrome.”
+
+Subsecs. (c) to (g). Pub. L. 106–345, §121(d), added subsec. (c) and redesignated former subsecs. (c) to (f) as (d) to (g), respectively.
 
 1996—Subsec. (b)(1)(A). Pub. L. 104–146, §3(b)(4)(A), inserted “, substance abuse treatment and mental health treatment,” after “case management” and “which shall include treatment education and prophylactic treatment for opportunistic infections,” after “treatment services,”.
 

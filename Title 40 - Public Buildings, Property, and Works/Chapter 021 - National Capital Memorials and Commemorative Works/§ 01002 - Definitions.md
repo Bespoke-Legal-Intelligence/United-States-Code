@@ -10,7 +10,7 @@ As used in this chapter—
 
 &emsp;(d) the term “person” means a public agency, and an individual, group or organization that is described in section 501(c)(3) of title 26 and exempt from tax under section 501(a) of title 26, and which is authorized by Congress to establish a commemorative work in the District of Columbia and its environs;
 
-&emsp;(e) notwithstanding any other provision of law, the term “the District of Columbia andits environs” means those lands and properties administered by the National Park Service and the General Services Administration located in Areas I and II as depicted on the map numbered 869/86501, and dated May 1, 1986.
+&emsp;(e) notwithstanding any other provision of law, the term “the District of Columbia and its environs” means those lands and properties administered by the National Park Service and the General Services Administration located in Areas I and II as depicted on the map numbered 869/86501, and dated May 1, 1986.
 
 (Pub. L. 99–652, §2, Nov. 14, 1986, 100 Stat. 3650; Pub. L. 103–321, §2(a), Aug. 26, 1994, 108 Stat. 1793.)
 

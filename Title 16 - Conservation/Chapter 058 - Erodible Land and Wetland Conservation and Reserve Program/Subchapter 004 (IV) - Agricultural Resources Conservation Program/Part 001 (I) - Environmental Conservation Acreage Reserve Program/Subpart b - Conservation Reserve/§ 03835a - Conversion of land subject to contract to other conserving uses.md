@@ -40,7 +40,7 @@ An owner or operator shall as a condition of entering into a contract under subs
 
 #### Amendments
 
-1992—Subsec. (a)(2). Pub. L. 102–324 added subpar. (A), redesignated subpar. (C) as (B), and struck out formersubpars. (A) and (B). Prior to amendment, subpars. (A) and (B) read as follows:
+1992—Subsec. (a)(2). Pub. L. 102–324 added subpar. (A), redesignated subpar. (C) as (B), and struck out former subpars. (A) and (B). Prior to amendment, subpars. (A) and (B) read as follows:
 
 “(A)
 

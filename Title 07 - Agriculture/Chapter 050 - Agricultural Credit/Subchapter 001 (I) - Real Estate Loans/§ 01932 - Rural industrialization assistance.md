@@ -12,7 +12,7 @@ The Secretary may make grants to nonprofit organizations for the provision of re
 
 #### (1) In general
 
-&emsp;The Secretary may also make grants, not to exceed $50,000,000 annually, to public bodies and private nonprofit corporations for measures designed to finance and facilitate development of small and emerging private business enterprises (including nonprofit entities) or the creation, expansion, and operation of rural distance learning networks or rural learning programs that provide educational instruction or job training instruction related to potential employment or job advancementto adult students, including the development, construction or acquisition of land, buildings, plants, equipment, access streets and roads, parking areas, utility extensions, necessary water supply and waste disposal facilities, refinancing, services and fees.
+&emsp;The Secretary may also make grants, not to exceed $50,000,000 annually, to public bodies and private nonprofit corporations for measures designed to finance and facilitate development of small and emerging private business enterprises (including nonprofit entities) or the creation, expansion, and operation of rural distance learning networks or rural learning programs that provide educational instruction or job training instruction related to potential employment or job advancement to adult students, including the development, construction or acquisition of land, buildings, plants, equipment, access streets and roads, parking areas, utility extensions, necessary water supply and waste disposal facilities, refinancing, services and fees.
 
 #### (2) Passenger transportation services or facilities
 
@@ -240,7 +240,7 @@ Subsec. (i). Pub. L. 101–624, §2337, added subsec. (i).
 
 Subsec. (f). Pub. L. 99–409, §2(2), added subsec. (f).
 
-1980—Subsec. (a). Pub. L. 96–438 authorized the Secretary to make and insure loans for the purpose of reducing the reliance on nonrenewable energy resources by encouraging the development and construction of solar energy systems, including the modification of existing systems, in rural areas and defined term “solarenergy”, for purposes of subsection (a) of this section, as meaning energy derived from sources, other than fossil fuels, and technologies included in the Federal Nonnuclear Energy Research and Development Act of 1974, as amended.
+1980—Subsec. (a). Pub. L. 96–438 authorized the Secretary to make and insure loans for the purpose of reducing the reliance on nonrenewable energy resources by encouraging the development and construction of solar energy systems, including the modification of existing systems, in rural areas and defined term “solar energy”, for purposes of subsection (a) of this section, as meaning energy derived from sources, other than fossil fuels, and technologies included in the Federal Nonnuclear Energy Research and Development Act of 1974, as amended.
 
 Subsec. (e). Pub. L. 96–358 added subsec. (e).
 
@@ -274,7 +274,7 @@ Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L
 
 #### Transfer of Functions
 
-Powers, duties, and assets of agencies, offices, and other entities within Department of Agriculture relating to rural development functions under this section and under section 1323 of Pub. L. 99–198, set out as a note below, transferred to Rural Development Administration by section 2302(b) of Pub. L. 101–624.
+Powers, duties, and assets of agencies, offices, and other entities within Department of Agriculture relating to rural development functions under this section and under section 1323 of Pub. L. 99–198, set out as anote below, transferred to Rural Development Administration by section 2302(b) of Pub. L. 101–624.
 
 #### Business Development
 

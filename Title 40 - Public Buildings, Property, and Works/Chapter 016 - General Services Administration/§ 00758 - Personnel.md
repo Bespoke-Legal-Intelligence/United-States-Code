@@ -42,10 +42,6 @@ Functions, powers, and duties of Office of Audits and Office of Investigations i
 
 The definitions in section 472 of this title apply to this chapter.
 
-#### Cross References
-
-Employment of experts and consultants generally, see section 3109 of Title 5, Government Organization and Employees.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 752 of this title.

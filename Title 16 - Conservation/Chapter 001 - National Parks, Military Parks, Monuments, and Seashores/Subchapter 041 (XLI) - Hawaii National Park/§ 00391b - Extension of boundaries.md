@@ -34,7 +34,7 @@ Along the seacoast at high-water mark, in a general southwesterly direction for 
 
 14\. Exactly two hundred and twelve degrees and thirty minutes exactly eight thousand and fifteen feet along the land of Kahaualea;
 
-15\. Exactly two hundred and ninety-seven degrees and fifteen minutes exactly twenty-four thousand five hundred and fifty-two feet along the land of Kahaualea;
+15\. Exactly two hundred and ninety-seven degrees and fifteen minutes exactly twenty-fourthousand five hundred and fifty-two feet along the land of Kahaualea;
 
 16\. Exactly two hundred and forty-five degrees and fifty-eight minutes exactly six thousand one hundred and sixty-eight feet along the land of Kahaualea;
 
@@ -76,7 +76,7 @@ Footprint extension: Beginning at the northeast corner of this tract of land, at
 
 9\. Two hundred and thirty-nine degrees and thirty minutes exactly three hundred and fifteen feet along stone wall to a pipe at end of wall and on the south side of the old Peter Lee Road;
 
-10\. One hundred and eighty-five degrees and thirty minutes exactly three hundred and eighty feet crossing old Peter Lee Road and along fenceto a pipe at fence corner on the west bank of a ravine; thence
+10\. One hundred and eighty-five degrees and thirty minutes exactly three hundred and eighty feet crossing old Peter Lee Road and along fence to a pipe at fence corner on the west bank of a ravine; thence
 
 11\. Following along the west bank of ravine, the direct azimuth and distance being: two hundred and three degrees and twenty-three minutes four hundred seventy-five and seven-tenths feet to a pipe on the west bank of the ravine;
 
@@ -86,11 +86,13 @@ Footprint extension: Beginning at the northeast corner of this tract of land, at
 
 14\. Two hundred and twenty-two degrees and fifty-three minutes exactly two hundred and forty feet along fence to a spike in stone pile;
 
-15\. Two hundred and twenty-five degrees and forty-six minutes three hundred and forty and six-tenths feet to the point of beginning and containing an area of five thousand seven hundred and thirty acres, more or less; and, in addition, any lands adjacent or contiguous to the Hawaii National Park as extended which, in the discretion of the Secretary of the Interior, are necessary for the proper rounding out of the boundaries of the park: <i>Provided</i>, That the United States shall not purchase, by appropriation of public moneys, any land within the aforesaid area, but such lands shall be secured by the United States only by public and private donations, except for the land depicted on the map entitled “NPS–PAC 1997HW”, which may be purchased with donated or appropriated funds.
+15\. Two hundred and twenty-five degrees and forty-six minutes three hundred and forty and six-tenths feet to the point of beginning and containing an area of five thousand seven hundred and thirty acres, more or less; and, in addition, any lands adjacent or contiguous to the Hawaii National Park as extended which, in the discretion of the Secretary of the Interior, are necessary for the proper rounding out of the boundaries of the park. Land (including the land depicted on the map entitled “NPS–PAC 1997HW”) may be acquired by the Secretary through donation, exchange, or purchase with donated or appropriated funds.
 
-(June 20, 1938, ch. 530, §1, 52 Stat. 781; Pub. L. 105–380, §2, Nov. 12, 1998, 112 Stat. 3401.)
+(June 20, 1938, ch. 530, §1, 52 Stat. 781; Pub. L. 105–380, §2, Nov. 12, 1998, 112 Stat. 3401; Pub. L. 106–510, §2, Nov. 13, 2000, 114 Stat. 2363.)
 
 #### Amendments
+
+2000—Pub. L. 106–510 substituted at end “park. Land (including the land depicted on the map entitled ‘NPS–PAC 1997HW’) may be acquired by the Secretary through donation, exchange, or purchase with donated or appropriated funds.” for “park: <i>Provided</i>, That the United States shall not purchase, by appropriation of public moneys, any land within the aforesaid area, but such lands shall be secured by the United States only by public and private donations, except for the land depicted on the map entitled ‘NPS–PAC 1997HW’, which may be purchased with donated or appropriated funds.”
 
 1998—Pub. L. 105–380 inserted before period at end “, except for the land depicted on the map entitled ‘NPS–PAC 1997HW’, which may be purchased with donated or appropriated funds”.
 
@@ -102,9 +104,9 @@ Footprint extension: Beginning at the northeast corner of this tract of land, at
 
 Admission of Hawaii into the Union was accomplished Aug. 21, 1959, on issuance of Proc. No. 3309, Aug. 21, 1959, 24 F.R. 6868, 73 Stat. c74, as required by sections 1 and 7(c) of Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as notes preceding section 491 of Title 48, Territories and Insular Possessions.
 
-#### Hawaii Volcanoes National Park
+#### Hawai‘i Volcanoes National Park
 
-Designation of portion of Hawaii National Park situated on island of Hawaii as Hawaii Volcanoes National Park, effective Sept. 22, 1961, see section 391d of this title.
+Designation of portion of Hawaii National Park situated on island of Hawaii as Hawai‘i Volcanoes National Park, effective Sept. 22, 1961, see section 391d of this title.
 
 #### Section Referred to in Other Sections
 

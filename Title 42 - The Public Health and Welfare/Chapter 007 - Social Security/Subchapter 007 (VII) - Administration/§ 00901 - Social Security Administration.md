@@ -70,13 +70,13 @@ In general.—During the 1-year period beginning March 31, 1995—
 
 &emsp;&emsp;&emsp;“(i) the transfer pursuant to this section of any full-time personnel (except special Government employees) and part-time personnel holding permanent positions shall not cause any such personnel to be separated or reduced in grade or compensation solely as a result of such transfer, and
 
-&emsp;&emsp;&emsp;“(ii) except as provided in subparagraph (B), any such personnel who were not employed in the Social Security Administration in the Department of Health and Human Services immediately before the date of the enactment of this Act \[Aug. 15, 1994\] shall not be subject to directed reassignment to a duty station outside their commuting area.
+&emsp;&emsp;&emsp;“(ii) except as provided in subparagraph (B), any such personnel who were not employed in the Social Security Administration in the Department of Health and Human Services immediatelybefore the date of the enactment of this Act \[Aug. 15, 1994\] shall not be subject to directed reassignment to a duty station outside their commuting area.
 
 &emsp;&emsp;“(B)
 
 Special rules.—
 
-&emsp;&emsp;&emsp;“(i) In the case of personnel whose duty station is in the Washington, District of Columbia, commuting area immediately before March 31, 1995, subparagraph (A)(ii) shall not apply with respectto directed reassignment to a duty station in the Baltimore, Maryland, commuting area after September 30, 1995.
+&emsp;&emsp;&emsp;“(i) In the case of personnel whose duty station is in the Washington, District of Columbia, commuting area immediately before March 31, 1995, subparagraph (A)(ii) shall not apply with respect to directed reassignment to a duty station in the Baltimore, Maryland, commuting area after September 30, 1995.
 
 &emsp;&emsp;&emsp;“(ii) In the case of personnel whose duty station is in the Baltimore, Maryland, commuting area immediately before March 31, 1995, subparagraph (A)(ii) shall not apply with respect to directed reassignment to a duty station in the Washington, District of Columbia, commuting area after September 30, 1995.
 

@@ -22,7 +22,3 @@ R.S. §1808 provided that official apartments should be furnished to the Chief o
 
 Transfer of functions by act June 30, 1949, effective July 1, 1949, see section 605 of act June 30, 1949, set out as an Effective Date note under section 471 of this title.
 
-#### Cross References
-
-Operations of buildings and related activities by Administrator of General Services, general powers and duties, see section 490 of this title.
-

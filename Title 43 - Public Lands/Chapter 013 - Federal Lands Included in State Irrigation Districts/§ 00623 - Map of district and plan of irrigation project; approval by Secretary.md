@@ -8,10 +8,6 @@ No unentered lands and no entered lands for which no final certificates have bee
 
 Section is comprised of section 3 (less the first proviso) of act Aug. 11, 1916. The remainder of section 3 is classified to section 625 of this title.
 
-#### Cross References
-
-Map or plan required by this section need not be filed with irrigation district for approval of Secretary of the Interior where there is a contract between United States and an irrigation district, see section 513 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 513, 621 of this title.

@@ -2,7 +2,7 @@
 
 #### (a) Investigation and adjustment to maintain normal supply
 
-If at any time the Secretary has reason to believe that in the case of cotton, rice, peanuts, or tobacco the operation of farm marketing quotas in effect will cause the amount of such commodity which is free of marketing restrictions to be less than the normal supply for the marketing year for the commodity then current, he shall cause an immediate investigation to be made with respect thereto. In the course of such investigation due notice and opportunity for hearingshall be given to interested persons. If upon the basis of such investigation the Secretary finds the existence of such fact, he shall proclaim the same forthwith. He shall also in such proclamation specify such increase in, or termination of, existing quotas as he finds, on the basis of such investigation, is necessary to make the amount of such commodity which is free of marketing restrictions equal the normal supply.
+If at any time the Secretary has reason to believe that in the case of cotton, rice, peanuts, or tobacco the operation of farm marketing quotas in effect will cause the amount of such commodity which is free of marketing restrictions to be less than the normal supply for the marketing year for the commodity then current, he shall cause an immediate investigation to be made with respect thereto. In the course of such investigation due notice and opportunity for hearing shall be given to interested persons. If upon the basis of such investigation the Secretary finds the existence of such fact, he shall proclaim the same forthwith. He shall also in such proclamation specify such increase in, or termination of, existing quotas as he finds, on the basis of such investigation, is necessary to make the amount of such commodity which is free of marketing restrictions equal the normal supply.
 
 #### (b) Adjustment because of emergency or export demand
 
@@ -43,8 +43,4 @@ Pub. L. 99–198, title VII, §701(5), Dec. 23, 1985, 99 Stat. 1430, provided th
 #### Inapplicability to 1982 Through 1985 Crops of Peanuts
 
 Pub. L. 97–98, title VII, §701(5), Dec. 22, 1981, 95 Stat. 1248, provided that this section is inapplicable to 1982 through 1985 crops of peanuts.
-
-#### Cross References
-
-Delegation of regulatory functions of Secretary of Agriculture, see section 450c et seq. of this title.
 

@@ -2,7 +2,7 @@
 
 The jurisdiction of the Mississippi River Commission, established by section 641 of this title, is extended to include—
 
-&emsp;(1) all of the area between the eastern side of the Bayou Lafourche Ridge from Donaldsonville, Louisiana, to the Gulf of Mexico and the west guide levee of the Mississippi River from Donaldsonville, Louisiana, to the Gulf of Mexico;
+&emsp;(1) all of the area between the eastern side of the Bayou Lafourche Ridge from Donaldsonville, Louisiana, to the Gulf of Mexico and thewest guide levee of the Mississippi River from Donaldsonville, Louisiana, to the Gulf of Mexico;
 
 &emsp;(2) Alexander County, Illinois; and
 

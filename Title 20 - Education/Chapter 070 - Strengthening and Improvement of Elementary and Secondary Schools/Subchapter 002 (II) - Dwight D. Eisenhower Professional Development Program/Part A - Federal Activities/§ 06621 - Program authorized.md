@@ -16,7 +16,7 @@ In carrying out the activities described in subsection (a) of this section, the 
 
 #### References in Text
 
-Part C of this subchapter, referred to in subsec. (a)(2), was redesignated part D of this subchapter and a newpart C added by Pub. L. 105–277, div. A, §101(f) \[title VIII, §101(a)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–391.
+Part C of this subchapter, referred to in subsec. (a)(2), was redesignated part D of this subchapter and a new part C added by Pub. L. 105–277, div. A, §101(f) \[title VIII, §101(a)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–391.
 
 #### Amendments
 

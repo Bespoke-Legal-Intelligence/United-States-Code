@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 288j, 288k, 4309 of this title; title 8 sections 1101, 1184; title 26 sections 414, 7701; title 28 section 1611; title 29 sections 1002, 1321; title 42 section 410; title 49 section 30144.
+This subchapter is referred to in sections 288j, 288k, 4309 of this title; title 8 sections 1101, 1184; title 10 section 130c; title 26 sections 414, 7701; title 28 section 1611; title 29 sections 1002, 1321; title 42 section 410; title 49 section 30144.
 
 
 ---

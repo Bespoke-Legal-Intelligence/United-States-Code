@@ -18,11 +18,7 @@
 
 #### References in Text
 
-The District of Columbia Election Act, referred to in subsecs. (a) and (b)(1), is act Aug. 12, 1955, ch. 862, 69 Stat. 699, as amended, which appears in subchapter I (§1–1301 et seq.) of chapter 13 of Title 1, Administration, of the District of Columbia Code. Section 2(2) of that Act appears in section 1–1302(2) of the District of Columbia Code.
-
-#### Codification
-
-Section is also set out in D.C. Code §1–401.
+The District of Columbia Election Act, referred to in subsecs. (a) and (b)(1), is act Aug. 12, 1955, ch. 862, 69 Stat. 699, as amended, which is not classified to the Code.
 
 #### Effective Date
 

@@ -48,7 +48,7 @@ Except as such authority is otherwise expressly provided in any other Act admini
 
 #### (j) Fees and charges
 
-Notwithstanding any other provision of law the Secretary is authorized to establish fees and charges, chargeable against program beneficiaries and project participants, which shall be adequate to cover over the long run, costs of inspection, project review and financing service, audit by Federal or federally authorized auditors, and other beneficial rights, privileges, licenses, and services. Such fees and charges heretofore or hereafter collected shall be considered nonadministrative and shall remain available for operating expenses of the Department in providing similar services on a consolidated basis.
+Notwithstanding any other provision of law the Secretary is authorized to establish fees and charges, chargeable against program beneficiaries and project participants, which shall be adequate to cover over the long run, costs of inspection, project review and financing service,audit by Federal or federally authorized auditors, and other beneficial rights, privileges, licenses, and services. Such fees and charges heretofore or hereafter collected shall be considered nonadministrative and shall remain available for operating expenses of the Department in providing similar services on a consolidated basis.
 
 #### (k) Gifts and services, acceptance; taxable status of property; investments; disbursements
 
@@ -150,7 +150,7 @@ A plan for the reorganization of any regional, area, insuring, or other field of
 
 &emsp;(I) section 3616a of this title;
 
-&emsp;(J) title IV of the Stewart B. McKinney Homeless Assistance Act \[42 U.S.C. 11361 et seq.\]; and
+&emsp;(J) title IV of the McKinney-Vento Homeless Assistance Act \[42 U.S.C. 11361 et seq.\]; and
 
 &emsp;(K) titles II \[42 U.S.C. 12721 et seq.\], III, and IV and section 811 \[42 U.S.C. 8013\] of the Cranston-Gonzalez National Affordable Housing Act.
 
@@ -170,7 +170,7 @@ A plan for the reorganization of any regional, area, insuring, or other field of
 
 (3) Of the amounts authorized to be appropriated to carry out this section, not less than $5,000,000 of such amount shall be available for each fiscal year exclusively for the purposes of providing ongoing training and capacity building for Department personnel.
 
-(Pub. L. 89–174, §7, Sept. 9, 1965, 79 Stat. 669; Pub. L. 90–284, title VIII, §808(b)(2), Apr. 11, 1968, 82 Stat. 84; Pub. L. 90–448, title VIII, §807(d), Aug. 1, 1968, 82 Stat. 544; Pub. L. 91–609, title I, §120(c), title IX, §§905, 906, Dec. 31, 1970, 84 Stat. 1775, 1809, 1811; Pub. L. 94–375, §§17(d), 21, Aug. 3, 1976, 90 Stat. 1077; Pub. L. 95–557, title III, §§316, 324, title IX, §908, Oct. 31, 1978, 92 Stat. 2099, 2103, 2129; Pub. L. 96–399, title III, §334(a), Oct. 8, 1980, 94 Stat. 1653; Pub. L. 98–479, title I, §104(b), Oct. 17, 1984, 98 Stat. 2225; Pub. L. 100–242, title V, §563(a), Feb. 5, 1988, 101 Stat. 1944; Pub. L. 101–235, title I, §§106, 123, 124, 141, Dec. 15, 1989, 103 Stat. 2000, 2021, 2022, 2030; Pub. L. 101–625, title IX, §954(a), Nov. 28, 1990, 104 Stat. 4420; Pub. L. 102–550, title IX, §§902(b), (c), 929, Oct. 28, 1992, 106 Stat. 3867, 3887; Pub. L. 103–233, title I, §104, Apr. 11, 1994, 108 Stat. 363; Pub. L. 105–362, title VII, §701(a), Nov. 10, 1998, 112 Stat. 3287.)
+(Pub. L. 89–174, §7, Sept. 9, 1965, 79 Stat. 669; Pub. L. 90–284, title VIII, §808(b)(2), Apr. 11, 1968, 82 Stat. 84; Pub. L. 90–448, title VIII, §807(d), Aug. 1, 1968, 82 Stat. 544; Pub. L. 91–609, title I, §120(c), title IX, §§905, 906, Dec. 31, 1970, 84 Stat. 1775, 1809, 1811; Pub. L. 94–375, §§17(d), 21, Aug. 3, 1976, 90 Stat. 1077; Pub. L. 95–557, title III, §§316, 324, title IX, §908, Oct. 31, 1978, 92 Stat. 2099, 2103, 2129; Pub. L. 96–399, title III, §334(a), Oct. 8, 1980, 94 Stat. 1653; Pub. L. 98–479, title I, §104(b), Oct. 17, 1984, 98 Stat. 2225; Pub. L. 100–242, title V, §563(a), Feb. 5, 1988, 101 Stat. 1944; Pub. L. 101–235, title I, §§106, 123, 124, 141, Dec. 15, 1989, 103 Stat. 2000, 2021, 2022, 2030; Pub. L. 101–625, title IX, §954(a), Nov. 28, 1990, 104 Stat. 4420; Pub. L. 102–550, title IX, §§902(b), (c), 929, Oct. 28, 1992, 106 Stat. 3867, 3887; Pub. L. 103–233, title I, §104, Apr. 11, 1994, 108 Stat. 363; Pub. L. 105–362, title VII, §701(a), Nov. 10, 1998, 112 Stat. 3287; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675.)
 
 #### References in Text
 
@@ -196,9 +196,9 @@ The Congregate Housing Services Act of 1978, referred to in subsec. (r)(2)(G), i
 
 Section 222 of the Housing and Urban-Rural Recovery Act of 1983, referred to in subsec. (r)(2)(H), is section 222 of Pub. L. 98–181, which is set out as a note under section 1701z–6 of Title 12, Banks and Banking.
 
-The Stewart B. McKinney Homeless Assistance Act, referred to in subsec. (r)(2)(J), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended. Title IV of the Stewart B. McKinney Homeless Assistance Act is classified generally to subchapter IV (§11361 et seq.) of chapter 119 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of this title and Tables.
+The McKinney-Vento Homeless Assistance Act, referred to in subsec. (r)(2)(J), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended. Title IV of the Act is classified generally to subchapter IV (§11361 et seq.) of chapter 119 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of this title and Tables.
 
-The Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (r)(2)(K), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079. Title II of the Act, known as the HOME Investment Partnerships Act, is classified principally to subchapter II (§12721 et seq.) of chapter 130 of this title. Title III of the Act enacted subchapter III (§12851 et seq.) of chapter 130 of this title and sections 1735f–17 and 1735f–18 of Title 12, Banks and Banking, amended sections 1703, 1708, 1709, 1715d, 1715z–20, 1721, and 1735f–9 of Title 12, and enacted provisions set out as notes under sections 1703, 1709, 1713, and 1735f–18 of Title 12. Title IV of the Act, known as the Homeownership and Opportunity Through HOPE Act, enacted subchapter II–A (§1437aaa et seq.) of chapter 8 of this title and subchapter IV (§12871 et seq.) of chapter 130 of this title, amended sections 1437c, 1437f, 1437<i>l</i>, 1437p, 1437r, and 1437s of this title and section 1709 of Title 12, and enacted provisions set out as notes under sections 1437c, 1437aa, and 1437aaa of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of this title and Tables.
+The Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (r)(2)(K), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079. Title II of the Act, known as the HOME Investment Partnerships Act, is classified principally to subchapter II (§12721 et seq.) of chapter 130 of this title. Title III of the Act enacted subchapter III (§12851 et seq.) of chapter 130 of this title and sections 1735f–17 and 1735f–18 of Title 12, Banks and Banking, amended sections 1703, 1708, 1709, 1715d, 1715z–20, 1721, and 1735f–9 of Title 12, and enacted provisions set out as notes under sections 1703, 1709, 1713, and 1735f–18of Title 12. Title IV of the Act, known as the Homeownership and Opportunity Through HOPE Act, enacted subchapter II–A (§1437aaa et seq.) of chapter 8 of this title and subchapter IV (§12871 et seq.) of chapter 130 of this title, amended sections 1437c, 1437f, 1437<i>l</i>, 1437p, 1437r, and 1437s of this title and section 1709 of Title 12, and enacted provisions set out as notes under sections 1437c, 1437aa, and 1437aaa of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of this title and Tables.
 
 #### Codification
 
@@ -211,6 +211,8 @@ Section was formerly classified to section 624d of former Title 5, Executive Dep
 Subsec. (d) is comprised of the first sentence of subsec. (d) of section 7 of Pub. L. 89–174. The second sentence of subsec. (d) repealed the second proviso of section 1451(c) of this title.
 
 #### Amendments
+
+2000—Subsec. (r)(2)(J). Pub. L. 106–400 substituted “McKinney-Vento Homeless Assistance Act” for “Stewart B. McKinney Homeless Assistance Act”.
 
 1998—Subsec. (r)(5), (6). Pub. L. 105–362 redesignated par. (6) as (5) and struck out former par. (5) which read as follows: “Not later than December 31 of each year, the Secretary shall submit to the Congress a report regarding the use of amounts made available under this subsection during the fiscal year ending on September 30 of that year, including an analysis of the ability of the Department to monitor and evaluate the programs under paragraph (2) and a statement of any needs determined under paragraph (3).”
 
@@ -244,7 +246,7 @@ Subsec. (<i>o</i>)(3). Pub. L. 101–235, §123(3)(A), substituted “expiration
 
 Pub. L. 101–235, §123(3)(B), substituted “Any regulation implementing any provision of the Department of Housing and Urban Development Reform Act of 1989 that authorizes the imposition of a civil money penalty may not become effective until after the expiration of a public comment period of not less than 60 days.” for “If within such 30-day period, either Committee has reported out or been discharged from further consideration of a joint resolution of disapproval or other legislation which is intended to modify or invalidate the rule or regulation or any portion thereof, the rule or regulation or portion thereof so addressed shall not become effective for a period of 90 calendar days from the date of Committee action or discharge unless the House to which such Committee reports has rejected such resolution or legislation, in which case the rule or regulation may go into effect only after the expiration of the 30 calendar days described in the first sentence of this paragraph if the other House does not have such a resolution or legislation pending or adopted, and if the requirements of section 553 of title 5 are met.”
 
-Subsec. (<i>o</i>)(5). Pub. L. 101–235, §123(4), struck out par. (5) which read as follows: “Congressional inaction on any rule or regulation shall not be deemed an expression of approval of the rule or regulation involved.”
+Subsec. (<i>o</i>)(5). Pub. L. 101–235, §123(4), struck out par. (5) which read as follows: “Congressional inaction onany rule or regulation shall not be deemed an expression of approval of the rule or regulation involved.”
 
 Subsec. (<i>o</i>)(6). Pub. L. 101–235, §123(4), struck out par. (6) which read as follows: “For purposes of this subsection—
 
@@ -286,7 +288,7 @@ Subsec. (c). Pub. L. 90–284 increased from six to seven the number of position
 
 #### Change of Name
 
-Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Effective Date of 1980 Amendment
 
@@ -328,7 +330,7 @@ In General.—Not later than 12 months after the date of the enactment of this A
 
 &emsp;&emsp;&emsp;“(viii) indications of rodent infestation; and
 
-&emsp;“(2) with respect to multifamily housing projects (as that term is defined in section 203 of the Housing and Community Development Amendments of 1978 \[12U.S.C. 1701z–11\]) owned by the Department of Housing and Urban Development on a monthly average basis—
+&emsp;“(2) with respect to multifamily housing projects (as that term is defined in section 203 of the Housing and Community Development Amendments of 1978 \[12 U.S.C. 1701z–11\]) owned by the Department of Housing and Urban Development on a monthly average basis—
 
 &emsp;&emsp;“(A) the total number of units in those projects;
 
@@ -360,15 +362,11 @@ Effective Date.—This section shall take effect on the date of the enactment of
 
 #### Termination of Advisory Committees
 
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 ofPub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
-
-#### Cross References
-
-Compensation of positions in level V of the Executive Schedule, referred to in subsec. (c), see section 5316 of Title 5, Government Organization and Employees.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -10,7 +10,7 @@ In carrying out this section, the National Institute for Literacy—
 
 &emsp;(1) shall use, to the extent practicable, information networks developed and maintained through other public and private persons, including the Secretary, the National Center for Family Literacy, and the Readline Program;
 
-&emsp;(2) shall work in conjunction with any panel convened by the National Institute of ChildHealth and Human Development and the Secretary and any panel convened by the Office of Educational Research and Improvement to assess the current status of research-based knowledge on reading development, including the effectiveness of various approaches to teaching children to read, with respect to determining the criteria by which the National Institute for Literacy judges scientifically based reading research and the design of strategies to disseminate such information; and
+&emsp;(2) shall work in conjunction with any panel convened by the National Institute of Child Health and Human Development and the Secretary and any panel convened by the Office of Educational Research and Improvement to assess the current status of research-based knowledge on reading development, including the effectiveness of various approaches to teaching children to read, with respect to determining the criteria by which the National Institute for Literacy judges scientifically based reading research and the design of strategies to disseminate such information; and
 
 &emsp;(3) may assist any State educational agency selected to receive a grant under section 6661b of this title, and that requests such assistance—
 
@@ -24,7 +24,7 @@ In carrying out this section, the National Institute for Literacy—
 
 The Head Start Act, referred to in subsec. (a), is subchapter B (§§635–657) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, as amended, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
 
-The Individuals with Disabilities Education Act, referred to in subsec. (a), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (a), is title VI of Pub. L. 91–230, Apr.13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
 The Adult Education and Family Literacy Act, referred to in subsec. (a), is title II of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 1059, as amended, which is classified principally to subchapter I (§9201 et seq.) of chapter 73 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of this title and Tables.
 

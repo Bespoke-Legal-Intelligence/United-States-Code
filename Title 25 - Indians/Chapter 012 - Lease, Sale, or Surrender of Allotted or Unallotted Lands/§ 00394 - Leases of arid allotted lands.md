@@ -4,7 +4,3 @@ Whenever it shall appear to the satisfaction of the Secretary of the Interior th
 
 (May 18, 1916, ch. 125, §1, 39 Stat. 128.)
 
-#### Cross References
-
-Restricted allotments authorized to be leased for farming and grazing purposes, see section 393 of this title.
-

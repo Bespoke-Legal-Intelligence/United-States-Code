@@ -2,7 +2,7 @@
 
 (a) Except as provided in section 1480 of this title, the Secretary concerned shall have a death gratuity paid to or for the survivor prescribed by section 1477 of this title, immediately upon receiving official notification of the death of—
 
-&emsp;(1) a member of an armed force under his jurisdiction who dies while on active duty orwhile performing authorized travel to or from active duty;
+&emsp;(1) a member of an armed force under his jurisdiction who dies while on active duty or while performing authorized travel to or from active duty;
 
 &emsp;(2) a Reserve of an armed force who dies while on inactive duty training (other than work or study in connection with a correspondence course of an armed force or attendance, in an inactive status, at an educational institution under the sponsorship of an armed force or the Public Health Service);
 

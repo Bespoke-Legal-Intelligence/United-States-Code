@@ -1,6 +1,6 @@
 ### §218. Voiding transactions in violation of chapter; recovery by the United States
 
-In addition to any other remedies provided by law the President or, under regulations prescribed by him, the head of any department or agency involved, may declare void and rescind any contract, loan, grant, subsidy, license, right, permit, franchise, use, authority, privilege, benefit, certificate, ruling, decision, opinion, or rate schedule awarded, granted, paid, furnished, or published, or the performance of anyservice or transfer or delivery of any thing to, by or for any agency of the United States or officer or employee of the United States or person acting on behalf thereof, in relation to which there has been a final conviction for any violation of this chapter, and the United States shall be entitled to recover in addition to any penalty prescribed by law or in a contract the amount expended or the thing transferred or delivered on its behalf, or the reasonable value thereof.
+In addition to any other remedies provided by law the President or, under regulations prescribed by him, the head of any department or agency involved, may declare void and rescind any contract, loan, grant, subsidy, license, right, permit, franchise, use, authority, privilege, benefit, certificate, ruling, decision, opinion, or rate schedule awarded, granted, paid, furnished, or published, or the performance of any service or transfer or delivery of any thing to, by or for any agency of the United States or officer or employee of the United States or person acting on behalf thereof, in relation to which there has been a final conviction for any violation of this chapter, and the United States shall be entitled to recover in addition to any penalty prescribed by law or in a contract the amount expended or the thing transferred or delivered on its behalf, or the reasonable value thereof.
 
 (Added Pub. L. 87–849, §1(e), Oct. 23, 1962, 76 Stat. 1125.)
 
@@ -33,18 +33,6 @@ Sec. 3. Implementing regulations adopted pursuant to this Order shall, at a mini
 (d) The head of the agency or his designee shall issue a final written decision specifying the amount of restitution or any other remedy authorized by section 218, provided that such remedy shall take into consideration the fair value of any tangible benefits received and retained by the agency.
 
 Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Canal Zone
-
-Applicability of section to Canal Zone, see section 14 of this title.
-
-#### Cross References
-
-Definitions, see section 202 of this title.
-
-Memorandum of Attorney General regarding conflict of interestprovisions, see note under section 201 of this title.
-
-Secret Service, detection and arrest of persons violating this section, see section 3056 of this title.
 
 #### Section Referred to in Other Sections
 

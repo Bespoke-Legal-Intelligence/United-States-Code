@@ -8,11 +8,11 @@
 
 #### (2) Task Force procedures
 
-&emsp;The Secretary shall convene meetings of the Task Force as appropriate to ensure that the list is produced and transmitted annually to the Congress as required by this subsection. If necessary to ensure transmittal of the list ona timely basis, the Task Force shall produce the list by a majority vote of those Task Force members who are present and voting; except that no coastal wetlands restoration project shall be placed on the list without the concurrence of the lead Task Force member that the project is cost effective and sound from an engineering perspective. Those projects which potentially impact navigation or flood control on the lower Mississippi River System shall be constructed consistent with section 3953 of this title.
+&emsp;The Secretary shall convene meetings of the Task Force as appropriate to ensure that the list is produced and transmitted annually to the Congress as required by this subsection. If necessary to ensure transmittal of the list on a timely basis, the Task Force shall produce the list by a majority vote of those Task Force members who are present and voting; except that no coastal wetlands restoration project shall be placed on the list without the concurrence of the lead Task Force member that the project is cost effective and sound from an engineering perspective. Those projects which potentially impact navigation or flood control on the lower Mississippi River System shall be constructed consistent with section 3953 of this title.
 
 #### (3) Transmittal of list
 
-&emsp;No later than one year after November 29, 1990, the Secretary shall transmit to the Congress the list of priority coastal wetlands restoration projects required by paragraph (1) of this subsection. Thereafter, the list shall be updated annually by the Task Force members and transmitted by the Secretary to the Congress as part of the President's annual budget submission. Annual transmittals of the list to the Congress shall include a status report on each project and a statement from the Secretary of the Treasury indicating the amounts available for expenditure to carry out this chapter.
+&emsp;No later than one year after November 29, 1990, the Secretary shall transmit to the Congress the list of priority coastal wetlands restoration projects required by paragraph (1) of this subsection. Thereafter, the list shall be updated annually by the Task Force members and transmitted by the Secretary to the Congress as part of the President's annual budget submission. Annual transmittals of the list to the Congress shall include a status report oneach project and a statement from the Secretary of the Treasury indicating the amounts available for expenditure to carry out this chapter.
 
 #### (4) List of contents
 
@@ -86,7 +86,7 @@ Pre-plan.—Prior to the date on which the plan required by subsection (b) of th
 
 #### (7) Plan evaluation
 
-&emsp;Not less than three years after the completion and submission of the restoration plan required by this subsection and at least every three years thereafter, the Task Force shall provide a report to the Congress containing a scientific evaluation of the effectiveness of the coastal wetlands restoration projects carried out under the plan in creating, restoring, protecting and enhancing coastal wetlands in Louisiana.
+&emsp;Not less than three years after the completion and submission of the restoration plan required by this subsection and at least every three years thereafter, the Task Force shallprovide a report to the Congress containing a scientific evaluation of the effectiveness of the coastal wetlands restoration projects carried out under the plan in creating, restoring, protecting and enhancing coastal wetlands in Louisiana.
 
 #### (c) Coastal wetlands restoration project benefits
 

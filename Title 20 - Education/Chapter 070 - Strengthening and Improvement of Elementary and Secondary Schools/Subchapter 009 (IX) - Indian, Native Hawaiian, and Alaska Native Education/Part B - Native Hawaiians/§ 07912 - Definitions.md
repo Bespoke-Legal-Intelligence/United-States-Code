@@ -36,7 +36,7 @@ For the purposes of this part—
 
 &emsp;(5) The term “Office of Hawaiian Affairs” means the Office of Hawaiian Affairs established by the Constitution of the State of Hawai‘i.
 
-&emsp;(6) The term “Native Hawaiian community-based organization” means any organization which is composed primarily of Native Hawaiians from a specific community and which assists in the social, cultural and educational development of Native Hawaiians in that community.
+&emsp;(6) The term “Native Hawaiian community-based organization” means any organizationwhich is composed primarily of Native Hawaiians from a specific community and which assists in the social, cultural and educational development of Native Hawaiians in that community.
 
 (Pub. L. 89–10, title IX, §9212, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3805.)
 

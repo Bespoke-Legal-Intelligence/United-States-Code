@@ -24,6 +24,7 @@
 | (a) | Receipts and disbursements by treasurers of political committees; filing requirements. |
 | (b) | Contents of reports. |
 | (c) | Statements by other than political committees; filing; contents; indices of expenditures. |
+| (d) | Filing by facsimile device or electronic mail. |
 | 435, 436. | Repealed. |
 | [437\.](Subchapter%20001%20%28I%29%20-%20Disclosure%20of%20Federal%20Campaign%20Funds/%C2%A7%2000437%20-%20Reports%20on%20convention%20financing.md) | Reports on convention financing. |
 | 437a, 437b. Repealed. |  |

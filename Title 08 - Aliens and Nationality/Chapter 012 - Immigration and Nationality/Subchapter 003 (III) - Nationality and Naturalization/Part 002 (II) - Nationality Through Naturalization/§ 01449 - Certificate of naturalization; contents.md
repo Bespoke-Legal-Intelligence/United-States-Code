@@ -1,6 +1,6 @@
 ### §1449. Certificate of naturalization; contents
 
-A person admitted to citizenship in conformity with the provisions of this subchapter shall be entitled upon such admission to receive from the Attorney General a certificate of naturalization, which shall contain substantially the following information: Number of application for naturalization; number of certificate of naturalization; date of naturalization; name, signature, place of residence, autographed photograph, and personal description of the naturalized person, including age, sex, marital status,and country of former nationality; location of the district office of the Service in which the application was filed and the title, authority, and location of the official or court administering the oath of allegiance; statement that the Attorney General, having found that the applicant had complied in all respects with all of the applicable provisions of the naturalization laws of the United States, and was entitled to be admitted a citizen of the United States of America, thereupon ordered that the applicant be admitted as a citizen of the United States of America; attestation of an immigration officer; and the seal of the Department of Justice.
+A person admitted to citizenship in conformity with the provisions of this subchapter shall be entitled upon such admission to receive from the Attorney General a certificate of naturalization, which shall contain substantially the following information: Number of application for naturalization; number of certificate of naturalization; date of naturalization; name, signature, place of residence, autographed photograph, and personal description of the naturalized person, including age, sex, marital status, and country of former nationality; location of the district office of the Service in which the application was filed and the title, authority, and location of the official or court administering the oath of allegiance; statement that the Attorney General, having found that the applicant had complied in all respects with all of the applicable provisions of the naturalization laws of the United States, and was entitled to be admitted a citizen of the United States of America, thereupon ordered that the applicant be admitted as a citizen of the United States of America; attestation of an immigration officer; and the seal of the Department of Justice.
 
 (June 27, 1952, ch. 477, title III, ch. 2, §338, 66 Stat. 259; Pub. L. 101–649, title IV, §407(c)(19), (d)(16), Nov. 29, 1990, 104 Stat. 5041, 5045; Pub. L. 102–232, title III, §305(j), Dec. 12, 1991, 105 Stat. 1750; Pub. L. 103–416, title I, §104(a), title II, §219(z)(3), Oct. 25, 1994, 108 Stat. 4308, 4318.)
 
@@ -29,18 +29,4 @@ Amendment by Pub. L. 102–232 effective as if included in the enactment of the 
 #### Construction of 1994 Amendment
 
 Section 219(z)(3) of Pub. L. 103–416 provided that: “paragraph (1) of section 305(j) of such Act \[Pub. L. 102–232, amending section 407(d)(16)(C) of Pub. L. 101–649\] is repealed (and section 407(d)(16)(C) of the Immigration Act of 1990 \[Pub. L. 101–649, amending this section\] shall read as if such paragraph had not been enacted)”.
-
-#### Cross References
-
-Definition of the term—
-
-&emsp;&emsp;National, see section 1101(a)(21) of this title.
-
-&emsp;&emsp;Naturalization, see section 1101(a)(23) of this title.
-
-&emsp;&emsp;Permanent, see section 1101(a)(31) of this title.
-
-&emsp;&emsp;Residence, see section 1101(a)(33) of this title.
-
-&emsp;&emsp;Unmarried, see section 1101(a)(39) of this title.
 

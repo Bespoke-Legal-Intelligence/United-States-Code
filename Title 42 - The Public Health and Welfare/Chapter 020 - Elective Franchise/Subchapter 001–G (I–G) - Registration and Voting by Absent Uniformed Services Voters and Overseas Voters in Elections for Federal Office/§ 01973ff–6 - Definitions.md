@@ -22,11 +22,11 @@ As used in this subchapter, the term—
 
 &emsp;(5) “overseas voter” means—
 
-&emsp;&emsp;(A) an absent uniformed services voter who, by reason of active duty or service isabsent from the United States on the date of the election involved;
+&emsp;&emsp;(A) an absent uniformed services voter who, by reason of active duty or service is absent from the United States on the date of the election involved;
 
 &emsp;&emsp;(B) a person who resides outside the United States and is qualified to vote in the last place in which the person was domiciled before leaving the United States; or
 
-&emsp;&emsp;(C) a person who resides outside the United States and (but for such residence) would be qualified to vote in the last place in which the person was domiciled before leaving the United States.
+&emsp;&emsp;(C) a person who resides outside the United States and (but for such residence) would bequalified to vote in the last place in which the person was domiciled before leaving the United States.
 
 &emsp;(6) “State” means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands, and American Samoa;
 

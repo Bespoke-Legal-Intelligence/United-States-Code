@@ -14,7 +14,7 @@ Any reference in this joint resolution to the “Compact” shall be treated as 
 
 (2) The provisions of paragraph (1) shall apply—
 
-&emsp;(A) to all actions of the Government of the United States under the Compact including, but not limited to, actions taken pursuant to sections 431, 432, 441, or 442;
+&emsp;(A) to all actions of the Government of the United States under the Compact including,but not limited to, actions taken pursuant to sections 431, 432, 441, or 442;
 
 &emsp;(B) to any amendment, change, or termination in any agreement that may be concluded at any time between the Government of the United States and the Government of Palau regarding friendship, cooperation and mutual security concluded pursuant to sections 321 and 323 of the Compact referred to in section 462(h);
 
@@ -306,7 +306,7 @@ I74“preambleI74“the government of the united states of america and the gover
 
 #### “Section 172
 
-“(a) Every citizen of Palau who is not a resident of the United States shall enjoy the rights and remediesunder the laws of the United States enjoyed by any nonresident alien.
+“(a) Every citizen of Palau who is not a resident of the United States shall enjoy the rights and remedies under the laws of the United States enjoyed by any nonresident alien.
 
 “(b) The Government and every citizen of Palau shall be considered a ‘person’ within the meaning of the Freedom of Information Act, 5 U.S.C. 552, and of the judicial review provisions of the Administrative Procedure Act, 5 U.S.C. 701–706.
 
@@ -530,7 +530,7 @@ I74“preambleI74“the government of the united states of america and the gover
 
 &emsp;“(2) relief in the form of the exclusion under section 911 of the United States Internal Revenue Code of 1954.
 
-“(b) If the Government of Palau subjects income to taxation substantially similar to that imposed by the Trust Territory Code in effect on January 1, 1980, such Government shall be deemed to have exercised the authority described in Section 254(a).
+“(b) If the Government of Palau subjects income to taxation substantially similar to that imposed by theTrust Territory Code in effect on January 1, 1980, such Government shall be deemed to have exercised the authority described in Section 254(a).
 
 #### “Section 255
 
@@ -688,7 +688,7 @@ I74“preambleI74“the government of the united states of america and the gover
 
 “(a) An arbitration board shall consist of a chairman and two other members, each of whom shall be a citizen of a party to the dispute and each of the two parties to the dispute shall appoint one member to the arbitration board. If either party to the dispute does not fulfill the appointment requirements of this Section within 30 days of referral of the dispute to arbitration pursuant to Section 423, its member on the arbitration board shall be selected from its own standing list by the other party to the dispute. Each government shall maintain a standing list of 10 candidates. The parties to the dispute shall jointly appoint a chairman within 15 days after selection of the other members of the arbitration board. Failing agreement on a chairman, the chairman shall be chosen by lot from the standing lists of the parties to the dispute within 5 days after such failure.
 
-“(b) The arbitration board shall have jurisdiction to hear and render its final determination on all disputes arising exclusively under Articles I, II, III, IV, and VI of Title One, Title Two, Title Four and their related agreements.
+“(b) The arbitration board shall have jurisdiction to hear and render its final determination on all disputesarising exclusively under Articles I, II, III, IV, and VI of Title One, Title Two, Title Four and their related agreements.
 
 “(c) Each member of the arbitration board shall have one vote. Each decision of the arbitration board shall be reached by majority vote.
 
@@ -706,7 +706,7 @@ I74“preambleI74“the government of the united states of america and the gover
 
 #### “Section 432
 
-“Upon the fifteenth and thirtieth and fortieth anniversaries of the effective date of this Compact, the Government of the United States and the Government of Palau shall formally review the terms of this Compact and its related agreements and shall consider the overall nature and development of their relationship. In these formal reviews, the governments shall consider the operating requirements of the Government of Palau and its progress in meeting the development objectives set forth in the plan referred to in Section 231(a). The governments commit themselves to take specific measures in relation to the findings of conclusions resulting from the review. Any alteration to the terms of this Compact or its related agreements shall be made by mutual agreement and the terms of this Compact andits related agreements shall remain in force until otherwise amended or terminated pursuant to Title Four of this Compact.
+“Upon the fifteenth and thirtieth and fortieth anniversaries of the effective date of this Compact, the Government of the United States and the Government of Palau shall formally review the terms of this Compact and its related agreements and shall consider the overall nature and development of their relationship. In these formal reviews, the governments shall consider the operating requirements of the Government of Palau and its progress in meeting the development objectives set forth in the plan referred to in Section 231(a). The governments commit themselves to take specific measures in relation to the findings of conclusions resulting from the review. Any alteration to the terms of this Compact or its related agreements shall be made by mutual agreement and the terms of this Compact and its related agreements shall remain in force until otherwise amended or terminated pursuant to Title Four of this Compact.
 
 #### “Article IV
 
@@ -864,7 +864,7 @@ On January 10, 1986, the Government of the United States and the Government of P
 
 In Palau the Compact has been approved by the Government in accordance with its constitutional processes and by a United Nations-observed plebiscite on November 9, 1993, a sovereign act of self-determination. In the United States the Compact was approved by Public Law 99–658 of November 14, 1986 \[48 U.S.C. 1931 et seq.\], and Public Law 101–219 of December 12, 1989 \[48 U.S.C. 1951 et seq.\].
 
-On May 25, 1994, the Trusteeship Council of the United Nations concluded that the Government of the United States had satisfactorily discharged its obligations as the Administering Authority under the terms of the Trusteeship Agreement and that the people of Palau had freely exercised their right to self-determination and considered that it was appropriate for theTrusteeship Agreement to be terminated. The Council asked the United States to consult with the Government of Palau and to agree on a date, on or about October 1, 1994, for entry into force of their new status agreement.
+On May 25, 1994, the Trusteeship Council of the United Nations concluded that the Government of the United States had satisfactorily discharged its obligations as the Administering Authority under the terms of the Trusteeship Agreement and that the people of Palau had freely exercised their right to self-determination and considered that it was appropriate for the Trusteeship Agreement to be terminated. The Council asked the United States to consult with the Government of Palau and to agree on a date, on or about October 1, 1994, for entry into force of their new status agreement.
 
 On July 15, 1994, the Government of the United States and the Government of the Republic of Palau agreed, pursuant to section 411 of the Compact of Free Association, that as between the United States and the Republic of Palau, the effective date of the Compact shall be October 1, 1994.
 

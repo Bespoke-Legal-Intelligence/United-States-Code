@@ -20,7 +20,7 @@
 
 &emsp;(a) the information required by paragraphs (a) through (g) of subsection (1) of this section with respect to each application for an order or extension made during the preceding calendar year;
 
-&emsp;(b) a general description of the interceptions made under such order or extension, including (i) the approximate nature and frequency of incriminating communications intercepted, (ii) the approximate nature and frequency of other communications intercepted, (iii) the approximate number of persons whose communications were intercepted, and (iv) the approximate nature, amount, and cost of the manpower and other resources used in the interceptions;
+&emsp;(b) a general description of the interceptions made under such order or extension, including (i) the approximate nature and frequency of incriminating communications intercepted, (ii) the approximate nature and frequency of other communications intercepted, (iii) the approximate number of persons whose communications were intercepted, (iv) the number of orders in which encryption was encountered and whether such encryption prevented law enforcement from obtaining the plain text of communications intercepted pursuant to such order, and (v) the approximate nature, amount, and cost of the manpower and other resources used in the interceptions;
 
 &emsp;(c) the number of arrests resulting from interceptions made under such order or extension, and the offenses for which arrests were made;
 
@@ -34,9 +34,11 @@
 
 (3) In April of each year the Director of the Administrative Office of the United States Courts shall transmit to the Congress a full and complete report concerning the number of applications for orders authorizing or approving the interception of wire, oral, or electronic communications pursuant to this chapter and the number of orders and extensions granted or denied pursuant to this chapter during the preceding calendar year. Such report shall include a summary and analysis of the data required to be filed with the Administrative Office by subsections (1) and (2) of this section. The Director of the Administrative Office of the United States Courts is authorized to issue binding regulations dealing with the content and form of the reports required to be filed by subsections (1) and (2) of this section.
 
-(Added Pub. L. 90–351, title III, §802, June 19, 1968, 82 Stat. 222; amended Pub. L. 95–511, title II, §201(h), Oct. 25, 1978, 92 Stat. 1798; Pub. L. 99–508, title I, §§101(c)(1)(A), 106(d)(4), Oct. 21, 1986, 100 Stat. 1851, 1857.)
+(Added Pub. L. 90–351, title III, §802, June 19, 1968, 82 Stat. 222; amended Pub. L. 95–511, title II, §201(h), Oct. 25, 1978, 92 Stat. 1798; Pub. L. 99–508, title I, §§101(c)(1)(A), 106(d)(4), Oct. 21, 1986, 100 Stat. 1851, 1857; Pub. L. 106–197, §2(a), May 2, 2000, 114 Stat. 247.)
 
 #### Amendments
+
+2000—Par. (2)(b)(iv), (v). Pub. L. 106–197 added cl. (iv) and redesignated former cl. (iv) as (v).
 
 1986—Pub. L. 99–508, §101(c)(1)(A), substituted “wire, oral, or electronic” for “wire or oral” in section catchline.
 
@@ -53,4 +55,8 @@ Amendment by Pub. L. 99–508 effective 90 days after Oct. 21, 1986, and, in cas
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–511 effective Oct. 25, 1978, except as specifically provided, see section 401 of Pub. L. 95–511, set out as an Effective Date note under section 1801 of Title 50, War and National Defense.
+
+#### Encryption Reporting Requirements
+
+Pub. L. 106–197, §2(b), May 2, 2000, 114 Stat. 247, provided that: “The encryption reporting requirement in subsection (a) \[amending this section\] shall be effective for the report transmitted by the Director of the Administrative Office of the Courts for calendar year 2000 and in subsequent reports.”
 

@@ -47,14 +47,6 @@ Pub. L. 104–106, div. A, title V, §572(b), Feb. 10, 1996, 110 Stat. 355, adde
 
 1965—Pub. L. 89–160, §1(2), Sept. 1, 1965, 79 Stat. 615, added item 2002.
 
-#### Cross References
-
-Particular provisions relating to—
-
-&emsp;&emsp;Air Force, see section 9301 et seq. of this title.
-
-&emsp;&emsp;Army, see section 4301 et seq. of this title.
-
 
 ---
 

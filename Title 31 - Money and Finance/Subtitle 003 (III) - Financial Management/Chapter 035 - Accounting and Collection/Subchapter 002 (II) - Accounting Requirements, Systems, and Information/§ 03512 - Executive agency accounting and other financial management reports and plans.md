@@ -24,7 +24,7 @@
 
 &emsp;(F) any other information the Director considers appropriate to fully inform the Congress regarding the financial management of the Federal Government.
 
-(3)(A) A governmentwide 5-year financial management plan under this subsection shall describe the activities the Director, the Deputy Director for Management, the Controller of the Office of Federal Financial Management, and agency Chief Financial Officers shall conduct over the next 5 fiscal years to improve the financial management of the Federal Government.
+(3)(A) A governmentwide 5-year financial management plan under this subsection shall describe the activities the Director, the Deputy Director for Management, the Controller of the Office of Federal Financial Management, andagency Chief Financial Officers shall conduct over the next 5 fiscal years to improve the financial management of the Federal Government.
 
 (B) Each governmentwide 5-year financial management plan prepared under this subsection shall—
 
@@ -34,7 +34,7 @@
 
 &emsp;(iii) provide a strategy for developing and integrating individual agency accounting, financial information, and other financial management systems to ensure adequacy, consistency, and timeliness of financial information;
 
-&emsp;(iv) identify and make proposals to eliminate duplicative and unnecessary systems, including encouraging agencies to share systemswhich have sufficient capacity to perform the functions needed;
+&emsp;(iv) identify and make proposals to eliminate duplicative and unnecessary systems, including encouraging agencies to share systems which have sufficient capacity to perform the functions needed;
 
 &emsp;(v) identify projects to bring existing systems into compliance with the applicable standards and requirements;
 
@@ -208,7 +208,7 @@ In subsection (c)(3)(A), the words “provision of” are omitted as surplus.
 
 #### References in Text
 
-The Federal Managers’ Financial Integrity Act of 1982, referred to in subsec. (a)(2)(D), is Pub. L. 97–255, Sept. 8, 1982, 96 Stat. 814, which added subsec. (d) to section 66a of former Title 31, Money and Finance. Section 66a of former Title 31 was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068, and reenacted by the first section thereof as this section. Provisions relating to reports on internal accounting and administrative control systems are restated in subsec. (d)(2) and (3) of this section.
+The Federal Managers’ Financial Integrity Act of 1982, referred to in subsec. (a)(2)(D), is Pub. L. 97–255, Sept. 8, 1982, 96 Stat. 814, which added subsec. (d) to section 66a of former Title 31, Money and Finance. Section 66a of former Title 31 was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068, and reenacted by the first section thereof as this section. Provisions relating to reports on internal accounting and administrativecontrol systems are restated in subsec. (d)(2) and (3) of this section.
 
 The Federal Financial Management Improvement Act of 1996, referred to in subsec. (a)(2)(E), is Pub. L. 104–208, div. A, title I, §101(f) \[title VIII\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–389, which is set out as a note under this section. Section 3(a) of the act probably means section 803(a) of the act, which contains requirements relating to financial management systems.
 
@@ -231,6 +231,10 @@ Subsecs. (d) to (f). Pub. L. 97–452 redesignated former subsecs. (b) to (d) as
 #### Change of Name
 
 Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the requirement to submit statements and reports to Congress under subsection (d)(3) of this section is listed on page 151), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set out as notes under section 1113 of this title.
 
 #### Federal Financial Management Improvement
 
@@ -288,7 +292,7 @@ Purpose\[.\]—The purposes of this Act \[title\] are to—
 
 “(a)
 
-In General.—Each agency shall implement and maintain financial management systems that comply substantially with Federal financial management systems requirements, applicable Federal accounting standards, and the United States Government Standard General Ledger at the transaction level.
+In General.—Each agency shall implement and maintain financial management systems that complysubstantially with Federal financial management systems requirements, applicable Federal accounting standards, and the United States Government Standard General Ledger at the transaction level.
 
 “(b)
 

@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 78c, 78<i>o</i>, 78s, 78u–2, 80a–9, 80a–10, 80a–12, 80a–37, 80a–49, 80a–56, 6805 of this title; title 7 sections 6, 12a; title 12 sections 1843, 1844; title 29 section 1002.
+This subchapter is referred to in sections 78c, 78<i>o</i>, 78s, 78u–2, 80a–9, 80a–10, 80a–12, 80a–37, 80a–49, 80a–56, 6805 of this title; title 7 sections 1a, 6, 12a; title 12 sections 1843, 1844; title 29 section 1002.
 
 
 ---
@@ -28,7 +28,7 @@ This subchapter is referred to in sections 78c, 78<i>o</i>, 78s, 78u–2, 80a–
 - [&sect; 00080b&#8211;13 - Court review of orders](%C2%A7%2000080b%E2%80%9313%20-%20Court%20review%20of%20orders.md)
 - [&sect; 00080b&#8211;14 - Jurisdiction of offenses and suits](%C2%A7%2000080b%E2%80%9314%20-%20Jurisdiction%20of%20offenses%20and%20suits.md)
 - [&sect; 00080b&#8211;15 - Validity of contracts](%C2%A7%2000080b%E2%80%9315%20-%20Validity%20of%20contracts.md)
-- [&sect; 00080b&#8211;16 - Annual reports of Commission](%C2%A7%2000080b%E2%80%9316%20-%20Annual%20reports%20of%20Commission.md)
+- [&sect; 00080b&#8211;16 - Omitted](%C2%A7%2000080b%E2%80%9316%20-%20Omitted.md)
 - [&sect; 00080b&#8211;17 - Penalties](%C2%A7%2000080b%E2%80%9317%20-%20Penalties.md)
 - [&sect; 00080b&#8211;18 - Hiring and leasing authority of Commission](%C2%A7%2000080b%E2%80%9318%20-%20Hiring%20and%20leasing%20authority%20of%20Commission.md)
 - [&sect; 00080b&#8211;18a - State regulation of investment advisers](%C2%A7%2000080b%E2%80%9318a%20-%20State%20regulation%20of%20investment%20advisers.md)

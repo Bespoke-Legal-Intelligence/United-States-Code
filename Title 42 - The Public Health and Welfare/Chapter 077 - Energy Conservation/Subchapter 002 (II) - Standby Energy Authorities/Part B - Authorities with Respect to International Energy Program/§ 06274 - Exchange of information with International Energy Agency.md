@@ -48,7 +48,7 @@ The authority under this section to transmit information shall be subject to any
 
 The antitrust laws, referred to in subsec. (b), are classified generally to chapter 1 (§1 et seq.) of Title 15, Commerce and Trade.
 
-The provisions of such Acts relating to their expiration, referred to in subsec. (d), means section 11(g) of Pub. L. 93–319, June 22, 1974, 88 Stat. 246, the Energy Supply and Environmental Coordination Act, which enacted section 796(g) of Title 15, and section 30 of Pub. L. 93–275, May 7, 1974, 88 Stat. 97, the Federal EnergyAdministration Act of 1974, which is set out as a note under section 761 of Title 15.
+The provisions of such Acts relating to their expiration, referred to in subsec. (d), means section 11(g) of Pub. L. 93–319, June 22, 1974, 88 Stat. 246, the Energy Supply and Environmental Coordination Act, which enacted section 796(g) of Title 15, and section 30 of Pub. L. 93–275, May 7, 1974, 88 Stat. 97, the Federal Energy Administration Act of 1974, which is set out as a note under section 761 of Title 15.
 
 #### Amendments
 

@@ -90,10 +90,6 @@ Subsec. (b). Pub. L. 101–189, §1621(a)(1), substituted “Department of Veter
 
 Amendment by Pub. L. 99–661 applicable with respect to persons who, after Nov. 14, 1986, incur or aggravate an injury, illness, or disease or die, see section 604(g) of Pub. L. 99–661, set out as a note under section 1074a of this title.
 
-#### Cross References
-
-Certifications by Administrator, see section 1323 of Title 38, Veterans’ Benefits.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1476, 1478, 1480 of this title; title 38 section 1323.

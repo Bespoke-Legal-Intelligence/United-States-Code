@@ -2,7 +2,7 @@
 
 (a)(1) An officer of the Navy or the Marine Corps who applies for retirement after completing more than 20 years of active service, of which at least 10 years was service as a commissioned officer, may, in the discretion of the President, be retired on the first day of any month designated by the President.
 
-(2) The Secretary of Defense may authorize the Secretary of the Navy, during the period beginning on October 1, 1990, and ending on September 30, 2001, to reduce the requirement under paragraph (1) for at least 10 years of active service as a commissioned officer to a period (determined by the Secretary) of not less than eight years.
+(2) The Secretary of Defense may authorize the Secretary of the Navy, during the period beginning on October 1, 1990, and ending on December 31, 2001, to reduce the requirement under paragraph (1) for at least 10 years of active service as a commissioned officer to a period (determined by the Secretary) of not less than eight years.
 
 (b) For the purposes of this section—
 
@@ -18,7 +18,7 @@
 
 (f) Officers of the Naval Reserve and the Marine Corps Reserve who were transferred to the Retired Reserve from an honorary retired list under section 213(b) of the Armed Forces Reserve Act of 1952 (66 Stat. 485), or are transferred to the Retired Reserve under section 6327 of this title, may be retired under this section, notwithstanding their retired status, if they are otherwise eligible.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 394; Pub. L. 85–861, §1(142), Sept. 2, 1958, 72 Stat. 1509; Pub. L.88–132, §5(h)(4), Oct. 2, 1963, 77 Stat. 214; Pub. L. 96–342, title VIII, §813(d)(2), Sept. 8, 1980, 94 Stat. 1104; Pub. L. 96–513, title V, §§503(47)(A), 513(17), Dec. 12, 1980, 94 Stat. 2914, 2932; Pub. L. 99–348, title II, §203(b)(2), July 1, 1986, 100 Stat. 696; Pub. L. 101–510, div. A, title V, §523(b), Nov. 5, 1990, 104 Stat. 1562; Pub. L. 103–160, div. A, title V, §561(c), Nov. 30, 1993, 107 Stat. 1667; Pub. L. 105–261, div. A, title V, §561(e), Oct. 17, 1998, 112 Stat. 2025.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 394; Pub. L. 85–861, §1(142), Sept. 2, 1958, 72 Stat. 1509; Pub. L. 88–132, §5(h)(4), Oct. 2, 1963, 77 Stat. 214; Pub. L. 96–342, title VIII, §813(d)(2), Sept. 8, 1980, 94 Stat. 1104; Pub. L. 96–513, title V, §§503(47)(A), 513(17), Dec. 12, 1980, 94 Stat. 2914, 2932; Pub. L. 99–348, title II, §203(b)(2), July 1, 1986, 100 Stat. 696; Pub. L. 101–510, div. A, title V, §523(b), Nov. 5, 1990, 104 Stat. 1562; Pub. L. 103–160, div. A, title V, §561(c), Nov. 30, 1993, 107 Stat. 1667; Pub. L. 105–261, div. A, title V, §561(e), Oct. 17, 1998, 112 Stat. 2025; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(e)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134.)
 
 Historical and Revision Notes<br>1956
 
@@ -98,6 +98,8 @@ Section 213(b) of the Armed Forces Reserve Act of 1952 (66 Stat. 485), referred 
 
 #### Amendments
 
+2000—Subsec. (a)(2). Pub. L. 106–398 substituted “December 31, 2001” for “September 30, 2001”.
+
 1998—Subsec. (a)(2). Pub. L. 105–261 substituted “during the period beginning on October 1, 1990, and ending on September 30, 2001” for “during the nine-year period beginning on October 1, 1990”.
 
 1993—Subsec. (a)(2). Pub. L. 103–160 substituted “nine-year period” for “five-year period”.
@@ -122,7 +124,7 @@ Subsecs. (c) to (f). Pub. L. 85–861 added subsecs. (c) to (e) and redesignated
 
 #### Effective Date of 1980 Amendment
 
-Amendment by section 503(47) of Pub. L. 96–513 effective Sept. 15, 1981, and amendment by section 513(17) ofPub. L. 96–513 effective Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under section 101 of this title.
+Amendment by section 503(47) of Pub. L. 96–513 effective Sept. 15, 1981, and amendment by section 513(17) of Pub. L. 96–513 effective Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under section 101 of this title.
 
 #### Effective Date of 1963 Amendment
 
@@ -137,10 +139,6 @@ For delegation to Secretary of the Treasury of authority vested in President, se
 #### Temporary Early Retirement Authority
 
 For provisions authorizing the Secretary of the Navy, during the period beginning Oct. 23, 1992, and ending Oct. 1, 1995, to apply this section to an officer with at least 15 but less than 20 years of service by substituting “at least 15 years” for “at least 20 years” in subsec. (a) of this section, see section 4403 of Pub. L. 102–484, set out as a note under section 1293 of this title.
-
-#### Cross References
-
-Composition of Retired Reserve, see section 10154 of this title.
 
 #### Section Referred to in Other Sections
 

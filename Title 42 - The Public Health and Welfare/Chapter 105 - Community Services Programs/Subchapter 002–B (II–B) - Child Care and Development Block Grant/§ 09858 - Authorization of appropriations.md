@@ -6,7 +6,7 @@ There is authorized to be appropriated to carry out this subchapter $1,000,000,0
 
 #### Amendments
 
-1996—Pub. L. 104–193 reenacted section catchline without change and amended text generally. Prior toamendment, text read as follows: “There are authorized to be appropriated to carry out this subchapter, $750,000,000 for fiscal year 1991, $825,000,000 for fiscal year 1992, $925,000,000 for fiscal year 1993, and such sums as may be necessary for each of the fiscal years 1994 and 1995.”
+1996—Pub. L. 104–193 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this subchapter, $750,000,000 for fiscal year 1991, $825,000,000 for fiscal year 1992, $925,000,000 for fiscal year 1993, and such sums as may be necessary for each of the fiscal years 1994 and 1995.”
 
 1992—Pub. L. 102–401 and Pub. L. 102–586 made identical technical corrections to directory language of Pub. L. 101–508, §5082(2), which added this section.
 
@@ -30,7 +30,7 @@ For short title of this subchapter as the Child Care and Development Block Grant
 
 Section 658A(b) of subchapter C (§658A et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 104–193, title VI, §602(3), Aug. 22, 1996, 110 Stat. 2279, provided that: “The goals of this subchapter are—
 
-&emsp;“(1) to allow each State maximum flexibility in developing child care programs and policies that best suit the needs of children and parents within such State;
+&emsp;“(1) to allow each State maximum flexibility in developing child care programs and policies that bestsuit the needs of children and parents within such State;
 
 &emsp;“(2) to promote parental choice to empower working parents to make their own decisions on the child care that best suits their family's needs;
 

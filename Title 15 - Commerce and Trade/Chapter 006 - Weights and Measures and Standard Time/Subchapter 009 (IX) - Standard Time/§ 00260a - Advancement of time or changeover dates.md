@@ -66,7 +66,7 @@ Pub. L. 93–182, Dec. 15, 1973, 87 Stat. 707, as amended by Pub. L. 93–434, O
 
 Ex. Ord. No. 11751, Dec. 15, 1973, 38 F.R. 34725, provided:
 
-By virtue of the authority vested in me by section 3(b) of the Emergency Daylight Savings Time Energy Conservation Act of 1973 (Public Law 93–182) (hereinafter “the Act”) \[formerly set out above\], section 301 of title 3 of the United States Code, and as President of the United States, it is hereby ordered as follows:
+By virtue of the authority vested in me by section 3(b) of the Emergency Daylight Savings Time Energy Conservation Act of 1973 (Public Law 93–182) (hereinafter “the Act”) \[formerly set out above\], section 301 oftitle 3 of the United States Code, and as President of the United States, it is hereby ordered as follows:
 
 Section 1. The Secretary of Transportation (hereinafter “the Secretary”) is hereby designated and empowered to exercise the authority vested in me by section 3(b) of the Act \[formerly set out above\] to grant an exemption from section 3(a) of the Act (which establishes daylight saving time as standard time), or a realignment of a time zone limit, pursuant to a proclamation of a Governor of a State finding that the exemption or realignment is necessary to avoid undue hardship or to conserve fuel in the State or a part thereof.
 

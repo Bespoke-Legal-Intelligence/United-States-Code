@@ -14,7 +14,3 @@ Provisions similar to those comprising this section relating to the Virgin Islan
 
 Section was not enacted as part of the Puerto Rican Federal Relations Act which comprises this chapter.
 
-#### Cross References
-
-Industrial alcohol plants, application of internal revenue laws to Puerto Rico, see section 5314 of Title 26, Internal Revenue Code.
-

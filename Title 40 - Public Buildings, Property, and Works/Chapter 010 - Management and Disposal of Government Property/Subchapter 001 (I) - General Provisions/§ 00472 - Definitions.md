@@ -30,13 +30,11 @@ As used in titles I through VI of this Act—
 
 #### References in Text
 
-This Act, referred to in the opening par., is act June 30, 1949, ch. 288, 63 Stat. 377, as amended, known as the Federal Property and Administrative Services Act of1949. For classification of titles I through VI of this Act to the Code, see Short Title note set out under section 471 of this title and Tables.
+This Act, referred to in the opening par., is act June 30, 1949, ch. 288, 63 Stat. 377, as amended, known as the Federal Property and Administrative Services Act of 1949. For classification of titles I through VI of this Act to the Code, see Short Title note set out under section 471 of this title and Tables.
 
 Chapter 16 \[§751 et seq.\] of this title, referred to in par. (c), was in the original a reference to “title I hereof”.
 
-The mining laws, referred to in subsec. (d), are classified generally to Title 30, Mineral Lands and Mining.
-
-The mineral leasing laws, referred to in subsec. (d), have been defined for certain purposes in sections 351, 505, 530, and 541e of Title 30.
+The mining laws and the mineral leasing laws, referred to in subsec. (d), are classified generally to Title 30, Mineral Lands and Mining.
 
 The public-land laws, referred to in subsec. (d), are classified generally to Title 43, Public Lands.
 
@@ -76,5 +74,5 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 762 of this title; title 10 sections 2667, 2667a; title 15 section 278g–3; title 20 section 3479; title 31 section 3551; title 41 section 423; title 42 sections 7259, 11411; title 43 section 1702; title 44 section 2901.
+This section is referred to in section 762 of this title; title 10 sections 2667, 2667a; title 15 section 278g–3; title 16 section 470w–7; title 20 section 3479; title 31 section 3551; title 41 section 423; title 42 sections 7259, 11411; title 43 section 1702; title 44 section 2901.
 

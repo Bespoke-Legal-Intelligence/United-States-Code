@@ -20,7 +20,7 @@ Operation at Carswell Field.—Combined exchange and commissary stores operated 
 
 (d)
 
-Adjustments and Surcharges.—Adjustments to, and surcharges on, the sales price of agrocery food item sold in a combined exchange and commissary store under this section shall be provided for in accordance with the same laws that govern such adjustments and surcharges for items sold in a commissary store of the Defense Commissary Agency.
+Adjustments and Surcharges.—Adjustments to, and surcharges on, the sales price of a grocery food item sold in a combined exchange and commissary store under this section shall be provided for in accordance with the same laws that govern such adjustments and surcharges for items sold in a commissary store of the Defense Commissary Agency.
 
 (e)
 
@@ -32,7 +32,7 @@ Use of Appropriated Funds.—(1) If a nonappropriated fund instrumentality incur
 
 Definitions.—In this section:
 
-&emsp;(1) The term “nonappropriated fund instrumentality” means the Army and Air Force Exchange Service, Navy Exchange Service Command, Marine Corps exchanges, or any other instrumentality of the United States under the jurisdiction of the Armed Forces which is conducted for the comfort, pleasure, contentment, or physical or mental improvement of members of the Armed Forces.
+&emsp;(1) The term “nonappropriated fund instrumentality” means the Army and Air Force Exchange Service, Navy Exchange Service Command, Marine Corps exchanges, or any otherinstrumentality of the United States under the jurisdiction of the Armed Forces which is conducted for the comfort, pleasure, contentment, or physical or mental improvement of members of the Armed Forces.
 
 &emsp;(2) The term “base closure law” has the meaning given such term by section 2667(h) of this title.
 

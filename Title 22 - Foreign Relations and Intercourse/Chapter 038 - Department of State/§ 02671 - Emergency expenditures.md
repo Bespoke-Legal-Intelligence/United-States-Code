@@ -68,7 +68,7 @@ With regard to the repatriation loan program, the Secretary of State shall—
 
 &emsp;(9) assess charges, in addition to the interest provided for in paragraph (8), to cover the costs of processing and handling delinquent claims, as of May 1, 1983;
 
-&emsp;(10) assess a penalty charge, in addition to the interest provided for in paragraphs (8) and (9), of 6 per centum per year for failure to pay any portion of a debt more than ninety days past due; and
+&emsp;(10) assess a penalty charge, in addition to the interest provided for in paragraphs (8) and\(9), of 6 per centum per year for failure to pay any portion of a debt more than ninety days past due; and
 
 &emsp;(11) implement the interest and penalty provisions in paragraphs (8), (9), and (10) for all current and future loans, regardless of whether the debts were incurred before or after May 1, 1983.
 
@@ -91,6 +91,10 @@ Section was formerly classified to section 170i of Title 5 prior to the general 
 1994—Subsec. (c). Pub. L. 103–236 struck out “and the Foreign Service” after “Department of State” and substituted “a periodic” for “an annual confidential”.
 
 1983—Pub. L. 98–164 designated existing provisions as subsec. (a), redesignated former pars. (a) and (b) as pars. (1) and (2), respectively, in par. (1) inserted reference to subsec. (b), and added subsecs. (b) to (d).
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (c) of this section relating to transmitting an annual report to the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 131 of House Document No. 103–7.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

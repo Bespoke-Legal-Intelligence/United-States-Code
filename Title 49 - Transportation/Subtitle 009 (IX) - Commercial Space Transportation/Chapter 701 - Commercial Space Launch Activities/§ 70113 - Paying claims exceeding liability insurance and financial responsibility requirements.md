@@ -26,7 +26,7 @@ Withholding Payments.—The Secretary may withhold a payment under subsection (a
 
 (d)
 
-Surveys, Reports, and Compensation Plans.—(1) If as a result of an activity carried out under a license issued or transferred under this chapter the total of claims related to one launch or reentry is likely to be more than the amount of required insurance or demonstration of financial responsibility, the Secretary shall—
+Surveys, Reports, and Compensation Plans.—(1) If as a result of an activity carried out under a license issued or transferred under this chapter the total of claims related to one launch or reentry is likely to be more than theamount of required insurance or demonstration of financial responsibility, the Secretary shall—
 
 &emsp;(A) survey the causes and extent of damage; and
 
@@ -52,7 +52,7 @@ Surveys, Reports, and Compensation Plans.—(1) If as a result of an activity ca
 
 Congressional Resolutions.—(1) In this subsection, “resolution”—
 
-&emsp;(A) means a joint resolution of Congress the matter after the resolving clause of which is as follows: “That the Congress approves the compensation plan numbered \_\_\_\_\_\_\_\_\_\_ submitted to the Congress on \_\_\_\_\_\_\_\_\_\_ XX, 19\_\_\_\_.”, with the blank spaces being filled appropriately; but
+&emsp;(A) means a joint resolution of Congress the matter after the resolving clause of which is as follows: “That the Congress approves the compensation plan numbered \_\_\_\_\_\_\_\_\_\_ submitted to the Congress on \_\_\_\_\_\_\_\_\_\_ XX, 20\_\_\_\_.”, with the blank spaces being filled appropriately; but
 
 &emsp;(B) does not include a resolution that includes more than one compensation plan.
 
@@ -82,9 +82,9 @@ Congressional Resolutions.—(1) In this subsection, “resolution”—
 
 (f)
 
-Application.—This section applies to a license issued or transferred under this chapter for which the Secretary receives a complete and valid application not later than December 31, 2000.
+Application.—This section applies to a license issued or transferred under this chapter for which the Secretary receives a complete and valid application not later than December 31, 2004.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1338; Pub. L. 104–287, §5(94), Oct. 11, 1996, 110 Stat. 3398; Pub. L. 105–303, title I, §102(a)(13), Oct. 28, 1998, 112 Stat. 2850; Pub. L. 106–74, title IV, §433, Oct. 20, 1999, 113 Stat. 1097.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1338; Pub. L. 104–287, §5(94), Oct. 11, 1996, 110 Stat. 3398; Pub. L. 105–303, title I, §102(a)(13), Oct. 28, 1998, 112 Stat. 2850; Pub. L. 106–74, title IV, §433, Oct. 20, 1999, 113 Stat. 1097; Pub. L. 106–377, §1(a)(1) \[title IV, §429\], Oct. 27, 2000, 114 Stat. 1441, 1441A–56; Pub. L. 106–405, §§5(b), 6(a), Nov. 1, 2000, 114 Stat. 1752.)
 
 Historical and Revision Notes
 
@@ -180,11 +180,21 @@ This amends 49:70113(e)(6)(D) to correct an error in the codification enacted by
 
 #### Amendments
 
+2000—Subsec. (e)(1)(A). Pub. L. 106–405, §6(a), substituted “20\_\_\_\_” for “19\_\_\_\_”.
+
+Subsec. (f). Pub. L. 106–405, §5(b), substituted “December 31, 2004” for “December 31, 2001”.
+
+Pub. L. 106–377 substituted “December 31, 2001” for “December 31, 2000”.
+
 1999—Subsec. (f). Pub. L. 106–74 substituted “December 31, 2000” for “December 31, 1999”.
 
 1998—Subsecs. (a)(1), (d)(1), (2). Pub. L. 105–303 inserted “or reentry” after “one launch”.
 
 1996—Subsec. (e)(6)(D). Pub. L. 104–287 substituted “related to a resolution” for “related to resolution”.
+
+#### Effective Date of 2000 Amendment
+
+Pub. L. 106–405, §6(b), Nov. 1, 2000, 114 Stat. 1752, provided that: “The amendment made by subsection (a) \[amending this section\] takes effect on January 1, 2000.”
 
 #### Section Referred to in Other Sections
 

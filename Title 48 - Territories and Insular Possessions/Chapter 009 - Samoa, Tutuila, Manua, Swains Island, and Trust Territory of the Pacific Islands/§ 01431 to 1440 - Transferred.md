@@ -16,7 +16,7 @@ Section 1436, act July 9, 1952, ch. 597, title I, §101, 66 Stat. 458, which rel
 
 Section 1437, act July 9, 1952, ch. 597, title I, §101, 66 Stat. 458, which related to expenditure of funds for administration of Pacific Trust Territory, was transferred to section 1684 of this title.
 
-Section 1438, act July 9, 1952, ch. 597, title I, §108, 66 Stat. 460, which related to transfer of property ormoney for administration of Pacific Trust Territory, was transferred to section 1685 of this title.
+Section 1438, act July 9, 1952, ch. 597, title I, §108, 66 Stat. 460, which related to transfer of property or money for administration of Pacific Trust Territory, was transferred to section 1685 of this title.
 
 Section 1439, act July 31, 1953, ch. 298, title I, §1, 67 Stat. 274, which related to approval by Congress of new activity in Pacific Trust Territory, was transferred to section 1686 of this title and was subsequently omitted from the Code.
 

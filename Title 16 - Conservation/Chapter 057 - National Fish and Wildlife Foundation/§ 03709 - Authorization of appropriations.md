@@ -1,22 +1,64 @@
 ### §3709. Authorization of appropriations
 
-#### (a) Authorization
+#### (a) Authorization of appropriations
 
-There are authorized to be appropriated to the Department of the Interior $25,000,000 for each of fiscal years 1994, 1995, 1996, 1997, and 1998.
+#### (1) In general
 
-#### (b) Use of amounts appropriated
+&emsp;There are authorized to be appropriated to carry out this chapter for each of fiscal years 2001 through 2003—
 
-(1) Subject to paragraph (2), amounts appropriated under this section shall be made available to the Foundation for use for matching, in whole or in part, contributions (whether in currency, services, or property) made to the Foundation by private persons and State and local government agencies.
+&emsp;&emsp;(A) $20,000,000 to the Department of the Interior; and
 
-(2) No Federal funds authorized under this section shall be used by the Foundation for administrative expenses of the Foundation, including for salaries, travel and transportation expenses, and other overhead expenses.
+&emsp;&emsp;(B) $5,000,000 to the Department of Commerce.
 
-#### (c) Additional authorization
+#### (2) Requirement of advance payment
 
-The amounts authorized to be appropriated under this section are in addition to any amounts provided or available to the Foundation under any other Federal law.
+&emsp;The amount made available for a fiscal year under paragraph (1) shall be provided to the Foundation in an advance payment of the entire amount on October 1, or as soon as practicable thereafter, of the fiscal year.
 
-(Pub. L. 98–244, §10, Mar. 26, 1984, 98 Stat. 110; Pub. L. 100–240, §4, Jan. 11, 1988, 101 Stat. 1786; Pub. L. 101–593, title I, §110(c), Nov. 16, 1990, 104 Stat. 2960; Pub. L. 103–232, title I, §104, Apr. 11, 1994, 108 Stat. 337.)
+#### (3) Use of appropriated funds
+
+&emsp;Subject to paragraph (4), amounts made available under paragraph (1) shall be provided to the Foundation for use for matching, on a 1-to-1 basis, contributions (whether in currency, services, or property) made to the Foundation by private persons and State and local government agencies.
+
+#### (4) Prohibition on use for administrative expenses
+
+&emsp;No Federal funds made available under paragraph (1) shall be used by the Foundation for administrative expenses of the Foundation, including for salaries, travel and transportation expenses, and other overhead expenses.
+
+#### (b) Additional authorization
+
+#### (1) In general
+
+&emsp;In addition to the amounts authorized to be appropriated under subsection (a) of this section, the Foundation may accept Federal funds from a Federal agency under any other Federal law for use by the Foundation to further the conservation and management of fish, wildlife, plants, and other natural resources in accordance with the requirements of this chapter.
+
+#### (2) Use of funds accepted from Federal agencies
+
+&emsp;Federal funds provided to the Foundation under paragraph (1) shall be used by the Foundation for matching, in whole or in part, contributions (whether in currency, services, or property) made to the Foundation by private persons and State and local government agencies.
+
+#### (c) Prohibition on use of grant amounts for litigation and lobbying expenses
+
+Amounts provided as a grant by the Foundation shall not be used for—
+
+&emsp;(1) any expense related to litigation; or
+
+&emsp;(2) any activity the purpose of which is to influence legislation pending before Congress.
+
+(Pub. L. 98–244, §10, Mar. 26, 1984, 98 Stat. 110; Pub. L. 100–240, §4, Jan. 11, 1988, 101 Stat. 1786; Pub. L. 101–593, title I, §110(c), Nov. 16, 1990, 104 Stat. 2960; Pub. L. 103–232, title I, §104, Apr. 11, 1994, 108 Stat. 337; Pub. L. 106–408, title II, §207, Nov. 1, 2000, 114 Stat. 1781.)
 
 #### Amendments
+
+2000—Pub. L. 106–408 added text of section and struck out former text which read as follows:
+
+“(a)
+
+Authorization.—There are authorized to be appropriated to the Department of the Interior $25,000,000 for each of fiscal years 1994, 1995, 1996, 1997, and 1998.
+
+“(b)
+
+Use of Amounts Appropriated.—(1) Subject to paragraph (2), amounts appropriated under this section shall be made available to the Foundation for use for matching, in whole or in part, contributions (whether in currency, services, or property) made to the Foundation by private persons and State and local government agencies.
+
+“(2) No Federal funds authorized under this section shall be used by the Foundation for administrative expenses of the Foundation, including for salaries, travel and transportation expenses, and other overhead expenses.
+
+“(c)
+
+Additional Authorization.—The amounts authorized to be appropriated under this section are in addition to any amounts provided or available to the Foundation under any other Federal law.”
 
 1994—Subsec. (a). Pub. L. 103–232, §104(a)(1), substituted “$25,000,000 for each of fiscal years 1994, 1995, 1996, 1997, and 1998” for “not to exceed $15,000,000 for fiscal year 1991, not to exceed $20,000,000 for fiscal year 1992, and not to exceed $25,000,000 for fiscal year 1993”.
 

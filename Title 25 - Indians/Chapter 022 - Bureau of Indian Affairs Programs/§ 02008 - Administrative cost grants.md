@@ -2,13 +2,13 @@
 
 #### (a) Purpose; effect upon appropriated amounts
 
-(1) The Secretary shall, subject to the availability of appropriated funds, provide grants to each tribe or tribal organization operating a contract school or grant school in the amount determined under this section with respect to the tribe or tribal organization for the purpose of paying the administrative and indirect costs incurred in operating contract or grant schools in order to—
+(1) The Secretary shall, subject to the availability of appropriated funds, provide grants toeach tribe or tribal organization operating a contract school or grant school in the amount determined under this section with respect to the tribe or tribal organization for the purpose of paying the administrative and indirect costs incurred in operating contract or grant schools in order to—
 
 &emsp;(A) enable tribes and tribal organizations operating such schools, without reducing direct program services to the beneficiaries of the program, to provide all related administrative overhead services and operations necessary to meet the requirements of law and prudent management practice, and
 
 &emsp;(B) carry out other necessary support functions which would otherwise be provided by the Secretary or other Federal officers or employees, from resources other than direct program funds, in support of comparable Bureau operated programs.
 
-(2) Amounts appropriated to fund the grants provided under this section shall be in additionto, and shall not reduce, the amounts appropriated for the program being administered by the contract or grant school.
+(2) Amounts appropriated to fund the grants provided under this section shall be in addition to, and shall not reduce, the amounts appropriated for the program being administered by the contract or grant school.
 
 #### (b) Determination of amount; reduction for Federal education program payments; reimbursement by Federal departments or agencies
 

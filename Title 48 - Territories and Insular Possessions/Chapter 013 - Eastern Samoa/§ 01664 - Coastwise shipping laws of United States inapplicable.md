@@ -8,9 +8,5 @@ The provisions of law of the United States restricting to vessels of the United 
 
 Section was formerly classified to section 1433 of this title.
 
-#### Cross References
-
-Transportation of merchandise between points in United States in other than domestic-built and documented vessels, see section 883 of Title 46, Appendix, Shipping.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “between”.</i>
 

@@ -18,26 +18,6 @@ Based on title 18, U.S.C., 1940 ed., §6 (Mar. 4, 1909, ch. 321, §6, 35 Stat. 1
 
 Section 3 of act July 24, 1956, provided that: “The foregoing amendments \[amending this section and section 2385 of this title\] shall apply only with respect to offenses committed on and after the date of the enactment of this Act \[July 24, 1956\].”
 
-#### Canal Zone
-
-Applicability of section to Canal Zone, see section 14 of this title.
-
-#### Cross References
-
-Alien advocates of overthrow of government, exclusion of, see section 1251 of Title 8, Aliens and Nationality.
-
-Conspiracy to commit offense or to defraud United States or to impede or injure officer, see sections 371 and 372 of this title.
-
-Federal retirement benefits, forfeiture upon conviction of offenses under this section, see section 8312 of Title 5, Government Organization and Employees.
-
-Forfeiture of veterans’ benefits upon conviction under this section, see section 6105 of Title 38, Veterans’ Benefits.
-
-Letters and writings containing matter advocating forcible resistance to any law of United States as nonmailable, see section 1717 of this title.
-
-Officers aiding importation of books and articles containing matter advocating forcible resistance to any law of the United States, see section 552 of this title.
-
-United States nationality as lost by attempting by force to overthrow or bearing arms against the United States, see sections 1481 to 1489 of Title 8, Aliens and Nationality.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 14 of this title; title 5 section 8312; title 8 section 1481; title 38 section 6105; title 50 App. section 34.

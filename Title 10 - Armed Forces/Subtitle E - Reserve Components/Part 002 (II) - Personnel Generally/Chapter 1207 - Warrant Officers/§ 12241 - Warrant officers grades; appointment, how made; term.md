@@ -78,10 +78,6 @@ Section 531(c) of Pub. L. 99–145 provided that:
 
 “(2) An officer who on the effective date of this section is serving in a chief warrant officer grade under an appointment by warrant may be appointed in that grade by commission under section 555(b) or 597(b) \[now 12241(b)\] of title 10, United States Code, as appropriate. The date of rank of an officer who receives an appointment under this paragraph is the date of rank for the officer's appointment by warrant to that grade.”
 
-#### Cross References
-
-Regular warrant officers, appointment, see section 571 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 591 of this title.

@@ -18,7 +18,7 @@
 
 (c) The performance plan required by section 1115 of title 31 shall be consistent with the agency's strategic plan. A performance plan may not be submitted for a fiscal year not covered by a current strategic plan under this section.
 
-(d) When developing a strategic plan, the agency shall consult with the Congress, and shall solicit and consider the views and suggestions ofthose entities potentially affected by or interested in such a plan.
+(d) When developing a strategic plan, the agency shall consult with the Congress, and shall solicit and consider the views and suggestions of those entities potentially affected by or interested in such a plan.
 
 (e) The functions and activities of this section shall be considered to be inherently Governmental functions. The drafting of strategic plans under this section shall be performed only by Federal employees.
 

@@ -18,7 +18,3 @@ Minor verbal change was made.
 
 1994—Pub. L. 103–322 inserted “or attempts to rob” after “robs”.
 
-#### Cross References
-
-Embezzlement and theft of public property, see section 641 of this title.
-

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Subject to the availability of appropriations, the Secretary shall provide grants and technical assistance to tribes for the development and operation of tribal departments of education for the purpose of planning and coordinating all educational programs of the tribe.
+Subject to the availability of appropriations, the Secretary shall provide grants and technicalassistance to tribes for the development and operation of tribal departments of education for the purpose of planning and coordinating all educational programs of the tribe.
 
 #### (b) Grants
 

@@ -44,10 +44,6 @@ For purposes of this part, a worker shall be treated as participating in trainin
 
 (Pub. L. 93–618, title II, §233, Jan. 3, 1975, 88 Stat. 2022; Pub. L. 97–35, title XXV, §2505(a), Aug. 13, 1981, 95 Stat. 883; Pub. L. 98–369, div. B, title VI, §2671, July 18, 1984, 98 Stat. 1172; Pub. L. 99–272, title XIII, §13003(d), Apr. 7, 1986, 100 Stat. 301; Pub. L. 100–418, title I, §§1423(c), 1425(a), Aug. 23, 1988, 102 Stat. 1246, 1250; Pub. L. 106–36, title I, §1001(a)(1), June 25, 1999, 113 Stat. 130.)
 
-#### Termination of Section
-
-<i>For termination of section by section 285 of Pub. L. 93–618, see Termination Date note set out preceding section 2271 of this title.</i>
-
 #### References in Text
 
 This chapter, referred to in subsec. (d), was in the original “this Act”, meaning Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of this title and Tables.
@@ -91,6 +87,10 @@ Amendment by section 1423(c)(2) of Pub. L. 100–418 effective on date that is 9
 #### Effective Date of 1981 Amendment and Transition Provisions
 
 Amendment by Pub. L. 97–35 applicable to allowances payable for weeks of unemployment which begin after Sept. 30, 1981, with transition provisions applicable, and with the amendment of subsec. (d) of this section applicable, except as otherwise provided, to laws for certification purposes under section 3304(c) of title 26 on Oct. 31, of any taxable year after 1981, see section 2514 of Pub. L. 97–35, set out as a note under section 2291 of this title.
+
+#### Termination Date
+
+No assistance, vouchers, allowances, or other payments may be provided under subparts A to C of this part after Sept. 30, 2001, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
 
 #### Waiver of Certain Time Limitations
 

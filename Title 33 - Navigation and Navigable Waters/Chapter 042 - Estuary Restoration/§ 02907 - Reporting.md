@@ -1,0 +1,28 @@
+### §2907. Reporting
+
+#### (a) In general
+
+At the end of the third and fifth fiscal years following November 7, 2000, the Secretary, after considering the advice and recommendations of the Council, shall transmit to Congress a report on the results of activities carried out under this chapter.
+
+#### (b) Contents of report
+
+A report under subsection (a) of this section shall include—
+
+&emsp;(1) data on the number of acres of estuary habitat restored under this chapter, including descriptions of, and partners involved with, projects selected, in progress, and completed under this chapter that comprise those acres;
+
+&emsp;(2) information from the database established under section 2906(b) of this title related to ongoing monitoring of projects to ensure that short-term and long-term restoration goals are achieved;
+
+&emsp;(3) an estimate of the long-term success of varying restoration techniques used in carrying out estuary habitat restoration projects;
+
+&emsp;(4) a review of how the information described in paragraphs (1) through (3) has been incorporated in the selection and implementation of estuary habitat restoration projects;
+
+&emsp;(5) a review of efforts made to maintain an appropriate database of restoration projects carried out under this chapter; and
+
+&emsp;(6) a review of the measures taken to provide the information described in paragraphs (1) through (3) to persons with responsibility for assisting in the restoration of estuary habitat.
+
+(Pub. L. 106–457, title I, §108, Nov. 7, 2000, 114 Stat. 1965.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 2904 of this title.
+

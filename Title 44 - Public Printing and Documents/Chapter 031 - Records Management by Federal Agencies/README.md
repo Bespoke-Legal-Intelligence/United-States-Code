@@ -16,20 +16,6 @@
 
 1976—Pub. L. 94–575, §3(b), Oct. 21, 1976, 90 Stat. 2727, substituted “Transfer of records to records centers” for “Storage, processing, and servicing of records” in item 3103.
 
-#### Cross References
-
-Definitions applicable to provisions of Federal Property and Administrative Services Act of 1949, see section 472 of Title 40, Public Buildings, Property, and Works.
-
-Definitions used in provisions respecting records management by Archivist of the United States and by Administrator of General Services to have same meaning when used in this chapter, see section 2901 of this title.
-
-Exemptions from provisions of this chapter, see section 474 of Title 40, Public Buildings, Property, and Works.
-
-Federal agency management program to provide for compliance with this chapter and regulations issued thereunder, see section 3102 of this title.
-
-Legal status of reproductions made under regulations to carry out this chapter, see section 2116 of this title.
-
-Reports from Federal agencies on their activities under this chapter, authority of Archivist and Administrator of General Services to obtain; correction of violations, see section 2115 of this title.
-
 #### Chapter Referred to in Other Sections
 
 This chapter is referred to in sections 2115, 2116, 2901, 2902, 3107, 3504 of this title; title 25 section 450j.

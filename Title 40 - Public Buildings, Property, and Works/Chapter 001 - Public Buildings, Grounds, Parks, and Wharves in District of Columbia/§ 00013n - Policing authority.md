@@ -24,7 +24,7 @@ The Metropolitan police force of the District of Columbia are <sup>1</sup> here
 
 #### (c) Termination of authority; reporting requirements; duties with respect to an official guest of Supreme Court
 
-The authority created under subsection (a)(2) of this section shall expire on December 29, 2000. The Marshal of the Supreme Court shall report annually to the Congress on March 1 regarding the administrative cost of carrying out his duties under such subsection. Duties under subsection (a)(2)(A) of this section with respect to an official guest of the Supreme Court in any part of the United States (other than the District of Columbia, Maryland, and Virginia) shall be authorized in writing by the Chief Justice of the United States or an Associate Justice of the Supreme Court, if such duties require the carrying of firearms under subsection (a)(5) of this section.
+The authority created under subsection (a)(2) of this section shall expire on December 29, 2004. The Marshal of the Supreme Court shall report annually to the Congress on March 1 regarding the administrative cost of carrying out his duties under such subsection. Duties under subsection (a)(2)(A) of this section with respect to an official guest of the Supreme Court in any part of the United States (other than the District of Columbia, Maryland, and Virginia) shall be authorized in writing by the Chief Justice of the United States or an Associate Justice of the Supreme Court, if such duties require the carrying of firearms under subsection (a)(5) of this section.
 
 #### (d) Definitions
 
@@ -36,9 +36,11 @@ As used in sections 13f to 13p of this title, the term—
 
 &emsp;(3) “United States”, when used in a geographical sense, means the several States, the District of Columbia, the Commonwealth of Puerto Rico, and any territory or possession of the United States.
 
-(Aug. 18, 1949, ch. 479, §9, 63 Stat. 617; Pub. L. 93–198, title VII, §739(g)(8), Dec. 24, 1973, 87 Stat. 829; Pub. L. 97–390, §1(c), Dec. 29, 1982, 96 Stat. 1957; Pub. L. 99–218, Dec. 26, 1985, 99 Stat. 1729; Pub. L. 99–492, §1, Oct. 16, 1986, 100 Stat. 1240; Pub. L. 101–462, Oct. 25, 1990, 104 Stat. 1079; Pub. L. 103–193, Dec. 14, 1993, 107 Stat. 2293; Pub. L. 104–280, §1, Oct. 9, 1996, 110 Stat. 3359.)
+(Aug. 18, 1949, ch. 479, §9, 63 Stat. 617; Pub. L. 93–198, title VII, §739(g)(8), Dec. 24, 1973, 87 Stat. 829; Pub. L. 97–390, §1(c), Dec. 29, 1982, 96 Stat. 1957; Pub. L. 99–218, Dec. 26, 1985, 99 Stat. 1729; Pub. L. 99–492, §1, Oct. 16, 1986, 100 Stat. 1240; Pub. L. 101–462, Oct. 25, 1990, 104 Stat. 1079; Pub. L. 103–193, Dec. 14, 1993, 107 Stat. 2293; Pub. L. 104–280, §1, Oct. 9, 1996, 110 Stat. 3359; Pub. L. 106–518, title III, §313, Nov. 13, 2000, 114 Stat. 2421.)
 
 #### Amendments
+
+2000—Subsec. (c). Pub. L. 106–518 substituted “2004” for “2000”.
 
 1996—Subsec. (c). Pub. L. 104–280 substituted “2000” for “1996”.
 
@@ -61,6 +63,10 @@ Subsecs. (c), (d). Pub. L. 97–390, §1(c)(2), added subsecs. (c) and (d).
 #### Effective Date of 1973 Amendment
 
 Section 771 of Pub. L. 93–198 provided that the amendment made by Pub. L. 93–198 is effective Jan. 2, 1975, if a majority of the registered qualified electors in the District of Columbia voting on the charter issue in the charter referendum accepted the charter set out in title IV of Pub. L. 93–198, Dec. 24, 1973, 87 Stat. 785. The charter was approved by the voters on May 7, 1974.
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (c) of this section relating to the requirement that the Marshal of the Supreme Court report annually to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 13 of House Document No. 103–7.
 
 #### Section Referred to in Other Sections
 

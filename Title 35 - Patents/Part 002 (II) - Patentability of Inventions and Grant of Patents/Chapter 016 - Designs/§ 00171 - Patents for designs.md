@@ -12,11 +12,3 @@ Based on Title 35, U.S.C., 1946 ed., §73 (R.S. 4929, amended (1) May 9, 1902, c
 
 The list of conditions specified in the corresponding section of existing statute is omitted as unnecessary in view of the general inclusion of all conditions applying to other patents. Language is changed.
 
-#### Cross References
-
-Additional remedy for infringement of design patent, see section 289 of this title.
-
-Patentability of inventions generally, see section 100 et seq. of this title.
-
-Unauthorized use of patented designs, see section 289 of this title.
-

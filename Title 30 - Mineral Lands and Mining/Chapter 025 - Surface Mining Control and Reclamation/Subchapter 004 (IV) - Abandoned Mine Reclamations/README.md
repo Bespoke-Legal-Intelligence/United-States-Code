@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 1211, 1253, 1309b of this title.
+This subchapter is referred to in sections 1211, 1253, 1309b of this title; title 33 section 2336.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “of the”.</i>
 
@@ -22,6 +22,6 @@ This subchapter is referred to in sections 1211, 1253, 1309b of this title.
 - [&sect; 01239 - Filling voids and sealing tunnels](%C2%A7%2001239%20-%20Filling%20voids%20and%20sealing%20tunnels.md)
 - [&sect; 01240 - Emergency powers](%C2%A7%2001240%20-%20Emergency%20powers.md)
 - [&sect; 01240a - Certification](%C2%A7%2001240a%20-%20Certification.md)
-- [&sect; 01241 - Annual report to Congress](%C2%A7%2001241%20-%20Annual%20report%20to%20Congress.md)
+- [&sect; 01241 - Omitted](%C2%A7%2001241%20-%20Omitted.md)
 - [&sect; 01242 - Powers of Secretary or State](%C2%A7%2001242%20-%20Powers%20of%20Secretary%20or%20State.md)
 - [&sect; 01243 - Interagency cooperation](%C2%A7%2001243%20-%20Interagency%20cooperation.md)

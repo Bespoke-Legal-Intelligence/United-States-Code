@@ -36,7 +36,7 @@ Members of the Council shall serve without additional compensation.
 
 #### (d) Council meetings
 
-The Council shall conduct its first meeting not later than 6 months after October 11, 1996.Thereafter the Council shall meet not less than 2 times each year.
+The Council shall conduct its first meeting not later than 6 months after October 11, 1996. Thereafter the Council shall meet not less than 2 times each year.
 
 #### (e) Involvement of Federal agencies and departments
 

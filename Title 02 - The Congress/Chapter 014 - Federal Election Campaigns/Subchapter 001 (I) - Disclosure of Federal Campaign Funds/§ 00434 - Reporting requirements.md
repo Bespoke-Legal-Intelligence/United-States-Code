@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(i) a report covering the period beginning January 1 and ending June 30, which shall be filed no later than July 31; and
 
-&emsp;&emsp;(ii) a report covering the period beginning July 1 and ending December 31, which shallbe filed no later than January 31 of the following calendar year.
+&emsp;&emsp;(ii) a report covering the period beginning July 1 and ending December 31, which shall be filed no later than January 31 of the following calendar year.
 
 (3) If the committee is the principal campaign committee of a candidate for the office of President—
 
@@ -48,7 +48,7 @@
 
 &emsp;(B) monthly reports in all calendar years which shall be filed no later than the 20th day after the last day of the month and shall be complete as of the last day of the month, except that, in lieu of filing the reports otherwise due in November and December of any year in which a regularly scheduled general election is held, a pre-general election report shall be filed in accordance with paragraph (2)(A)(i), a post-general election report shall be filed in accordance with paragraph (2)(A)(ii), and a year end report shall be filed no later than January 31 of the following calendar year.
 
-(5) If a designation, report, or statement filed pursuant to this Act (other than under paragraph (2)(A)(i) or (4)(A)(ii)) is sent by registered or certified mail, the United States postmark shall be considered the date of filing of the designation, report, or statement.
+(5) If a designation, report, or statement filed pursuant to this Act (other than under paragraph (2)(A)(i) or (4)(A)(ii), or the second sentence of subsection (c)(2) of this section) is sent by registered or certified mail, the United States postmark shall be considered the date of filing of the designation, report, or statement.
 
 (6)(A) The principal campaign committee of a candidate shall notify the Secretary or the Commission, and the Secretary of State, as appropriate, in writing, of any contribution of $1,000 or more received by any authorized committee of such candidate after the 20th day, but more than 48 hours before, any election. This notification shall be made within 48 hours after the receipt of such contribution and shall include the name of the candidate and the office sought by the candidate, the identification of the contributor, and the date of receipt and amount of the contribution.
 
@@ -58,15 +58,21 @@
 
 (8) The requirement for a political committee to file a quarterly report under paragraph (2)(A)(iii) or paragraph (4)(A)(i) shall be waived if such committee is required to file a pre-election report under paragraph (2)(A)(i), or paragraph (4)(A)(ii) during the period beginning on the 5th day after the close of the calendar quarter and ending on the 15th day after the close of the calendar quarter.
 
-(9) The Commission shall set filing dates for reports to be filed by principal campaign committees of candidates seeking election, or nomination for election, in special elections and political committees filing under paragraph (4)(A) which make contributions to or expenditures on behalf of a candidate or candidates in special elections. The Commission shall require no morethan one pre-election report for each election and one post-election report for the election which fills the vacancy. The Commission may waive any reporting obligation of committees required to file for special elections if any report required by paragraph (2) or (4) is required to be filed within 10 days of a report required under this subsection. The Commission shall establish the reporting dates within 5 days of the setting of such election and shall publish such dates and notify the principal campaign committees of all candidates in such election of the reporting dates.
+(9) The Commission shall set filing dates for reports to be filed by principal campaign committees of candidates seeking election, or nomination for election, in special elections and political committees filing under paragraph (4)(A) which make contributions to or expenditures on behalf of a candidate or candidates in special elections. The Commission shall require no more than one pre-election report for each election and one post-election report for the election which fills the vacancy. The Commission may waive any reporting obligation of committees required to file for special elections if any report required by paragraph (2) or (4) is required to be filed within 10 days of a report required under this subsection. The Commission shall establish the reporting dates within 5 days of the setting of such election and shall publish such dates and notify the principal campaign committees of all candidates in such election of the reporting dates.
 
 (10) The treasurer of a committee supporting a candidate for the office of Vice President (other than the nominee of a political party) shall file reports in accordance with paragraph (3).
 
-(11)(A) The Commission shall permit reports required by this Act to be filed and preserved by means of computer disk or any other appropriate electronic format or method, as determined by the Commission.
+(11)(A) The Commission shall promulgate a regulation under which a person required to file a designation, statement, or report under this Act—
 
-(B) In carrying out subparagraph (A) with respect to filing of reports, the Commission shall provide for one or more methods (other than requiring a signature on the report being filed) for verifying reports filed by means of computer disk or other electronic format or method. Any verification under the preceding sentence shall be treated for all purposes (including penalties for perjury) in the same manner as a verification by signature.
+&emsp;(i) is required to maintain and file a designation, statement, or report for any calendar year in electronic form accessible by computers if the person has, or has reason to expect to have, aggregate contributions or expenditures in excess of a threshold amount determined by the Commission; and
 
-(C) As used in this paragraph, the term “report” means, with respect to the Commission, a report, designation, or statement required by this Act to be filed with the Commission.
+&emsp;(ii) may maintain and file a designation, statement, or report in electronic form or an alternative form if not required to do so under the regulation promulgated under clause (i).
+
+(B) The Commission shall make a designation, statement, report, or notification that is filed electronically with the Commission accessible to the public on the Internet not later than 24 hours after the designation, statement, report, or notification is received by the Commission.
+
+(C) In promulgating a regulation under this paragraph, the Commission shall provide methods (other than requiring a signature on the document being filed) for verifying designations, statements, and reports covered by the regulation. Any document verified under any of the methods shall be treated for all purposes (including penalties for perjury) in the same manner as a document verified by signature.
+
+(D) As used in this paragraph, the term “report” means, with respect to the Commission, a report, designation, or statement required by this Act to be filed with the Commission.
 
 #### (b) Contents of reports
 
@@ -74,7 +80,7 @@ Each report under this section shall disclose—
 
 &emsp;(1) the amount of cash on hand at the beginning of the reporting period;
 
-&emsp;(2) for the reporting period and the calendar year, the total amount of all receipts, and the total amount of all receipts in the following categories:
+&emsp;(2) for the reporting period and the calendar year (or election cycle, in the case of an authorized committee of a candidate for Federal office), the total amount of all receipts, and the total amount of all receipts in the following categories:
 
 &emsp;&emsp;(A) contributions from persons other than political committees;
 
@@ -100,7 +106,7 @@ Each report under this section shall disclose—
 
 &emsp;(3) the identification of each—
 
-&emsp;&emsp;(A) person (other than a political committee) who makes a contribution to the reporting committee during the reporting period, whose contribution or contributions have an aggregate amount or value in excess of $200 within the calendar year, or in any lesser amount if the reporting committee should so elect, together with the date and amount of any such contribution;
+&emsp;&emsp;(A) person (other than a political committee) who makes a contribution to the reporting committee during the reporting period, whose contribution or contributions have an aggregate amount or value in excess of $200 within the calendar year (or election cycle, in the case of an authorized committee of a candidate for Federal office), or in any lesser amount if the reporting committee should so elect, together with the date and amount of any such contribution;
 
 &emsp;&emsp;(B) political committee which makes a contribution to the reporting committee during the reporting period, together with the date and amount of any such contribution;
 
@@ -110,11 +116,11 @@ Each report under this section shall disclose—
 
 &emsp;&emsp;(E) person who makes a loan to the reporting committee during the reporting period, together with the identification of any endorser or guarantor of such loan, and the date and amount or value of such loan;
 
-&emsp;&emsp;(F) person who provides a rebate, refund, or other offset to operating expenditures to the reporting committee in an aggregate amount or value in excess of $200 within the calendar year, together with the date and amount of such receipt; and
+&emsp;&emsp;(F) person who provides a rebate, refund, or other offset to operating expenditures to the reporting committee in an aggregate amount or value in excess of $200 within the calendar year (or election cycle, in the case of an authorized committee of a candidate for Federal office), together with the date and amount of such receipt; and
 
-&emsp;&emsp;(G) person who provides any dividend, interest, or other receipt to the reporting committee in an aggregate value or amount in excess of $200 within the calendar year, together with the date and amount of any such receipt;
+&emsp;&emsp;(G) person who provides any dividend, interest, or other receipt to the reporting committee in an aggregate value or amount in excess of $200 within the calendar year (or election cycle, in the case of an authorized committee of a candidate for Federal office), together with the date and amount of any such receipt;
 
-&emsp;(4) for the reporting period and the calendar year, the total amount of all disbursements, and all disbursements in the following categories:
+&emsp;(4) for the reporting period and the calendar year (or election cycle, in the case of an authorized committee of a candidate for Federal office), the total amount of all disbursements, and all disbursements in the following categories:
 
 &emsp;&emsp;(A) expenditures made to meet candidate or committee operating expenses;
 
@@ -156,7 +162,7 @@ Each report under this section shall disclose—
 
 &emsp;&emsp;(E) person who receives a contribution refund or other offset to contributions from the reporting committee where such contribution was reported under paragraph (3)(A) of this subsection, together with the date and amount of such disbursement;
 
-&emsp;(6)(A) for an authorized committee, the name and address of each person who has received any disbursement not disclosed under paragraph (5) in an aggregate amount or value in excess of $200 within the calendar year, together with the date and amount of any such disbursement;
+&emsp;(6)(A) for an authorized committee, the name and address of each person who has received any disbursement not disclosed under paragraph (5) in an aggregate amount or value in excess of $200 within the calendar year (or election cycle, in the case of an authorized committee of a candidate for Federal office), together with the date and amount of any such disbursement;
 
 &emsp;(B) for any other political committee, the name and address of each—
 
@@ -164,13 +170,13 @@ Each report under this section shall disclose—
 
 &emsp;&emsp;(ii) person who has received a loan from the reporting committee during the reporting period, together with the date and amount of such loan;
 
-&emsp;&emsp;(iii) person who receives any disbursement during the reporting period in an aggregate amount or value in excess of $200 within the calendar year in connection with an independent expenditure by the reporting committee, together with the date, amount, and purpose of any such independent expenditure and a statement which indicates whether such independent expenditure is in support of, or in opposition to, a candidate, as well as the name and office sought by such candidate, and a certification, under penalty of perjury, whether such independent expenditure is made in cooperation, consultation, or concert, with, or at the request or suggestion of, any candidate or any authorized committee or agent of such committee;
+&emsp;&emsp;(iii) person who receives any disbursement during the reporting period in an aggregate amount or value in excess of $200 within the calendar year (or election cycle, in the case of an authorized committee of a candidate for Federal office), in connection with an independent expenditure by the reporting committee, together with the date, amount, and purpose of any such independent expenditure and a statement which indicates whether such independent expenditure is in support of, or in opposition to, a candidate, as well as the name and office sought by such candidate, and a certification, under penalty of perjury, whether such independent expenditure is made in cooperation, consultation, or concert, with, or at the request or suggestion of, any candidate or any authorized committee or agent of such committee;
 
 &emsp;&emsp;(iv) person who receives any expenditure from the reporting committee during the reporting period in connection with an expenditure under section 441a(d) of this title, together with the date, amount, and purpose of any such expenditure as well as the name of, and office sought by, the candidate on whose behalf the expenditure is made; and
 
-&emsp;&emsp;(v) person who has received any disbursement not otherwise disclosed in this paragraph or paragraph (5) in an aggregate amount or value in excess of $200 within the calendar year from the reporting committee within the reporting period, together with the date, amount, and purpose of any such disbursement;
+&emsp;&emsp;(v) person who has received any disbursement not otherwise disclosed in this paragraph or paragraph (5) in an aggregate amount or value in excess of $200 within the calendar year (or election cycle, in the case of an authorized committee of a candidate for Federal office), from the reporting committee within the reporting period, together with the date, amount, and purpose of any such disbursement;
 
-&emsp;(7) the total sum of all contributions to such political committee, together with the total contributions less offsets to contributions and the total sum of all operating expenditures made by such political committee, together with total operating expenditures less offsets to operating expenditures, for both the reporting period and the calendar year; and
+&emsp;(7) the total sum of all contributions to such political committee, together with the total contributions less offsets to contributions and the total sum of all operating expenditures made by such political committee, together with total operating expenditures less offsets to operating expenditures, for both the reporting period and the calendar year (or election cycle, in the case of an authorized committee of a candidate for Federal office); and
 
 &emsp;(8) the amount and nature of outstanding debts and obligations owed by or to such political committee; and where such debts and obligations are settled for less than their reported amount or value, a statement as to the circumstances and conditions under which such debts or obligations were extinguished and the consideration therefor.
 
@@ -186,41 +192,45 @@ Each report under this section shall disclose—
 
 &emsp;(C) the identification of each person who made a contribution in excess of $200 to the person filing such statement which was made for the purpose of furthering an independent expenditure.
 
-> Any independent expenditure (including those described in subsection (b)(6)(B)(iii) of this section) aggregating $1,000 or more made after the 20th day, but more than 24 hours, before any election shall be reported within 24 hours after such independent expenditure is made. Such statement shall be filed with the Secretary orthe Commission and the Secretary of State and shall contain the information required by subsection (b)(6)(B)(iii) of this section indicating whether the independent expenditure is in support of, or in opposition to, the candidate involved.
+> Any independent expenditure (including those described in subsection (b)(6)(B)(iii) of this section) aggregating $1,000 or more made after the 20th day, but more than 24 hours, before any election shall be filed within 24 hours after such independent expenditure is made. Such statement shall be filed with the Secretary or the Commission and the Secretary of State and shall contain the information required by subsection (b)(6)(B)(iii) of this section indicating whether the independent expenditure is in support of, or in opposition to, the candidate involved. Notwithstanding subsection (a)(5) of this section, the time at which the statement under this subsection is received by the Secretary, the Commission, or any other recipient to whom the notification is required to be sent shall be considered the time of filing of the statement with the recipient.
 
 (3) The Commission shall be responsible for expeditiously preparing indices which set forth, on a candidate-by-candidate basis, all independent expenditures separately, including those reported under subsection (b)(6)(B)(iii) of this section, made by or for each candidate, as reported under this subsection, and for periodically publishing such indices on a timely pre-election basis.
 
-(Pub. L. 92–225, title III, §304, Feb. 7, 1972, 86 Stat. 14; Pub. L. 93–443, title II, §§204(a)–(d), 208(c)(4), Oct. 15, 1974, 88 Stat. 1276–1278, 1286; Pub. L. 94–283, title I, §104, May 11, 1976, 90 Stat. 480; Pub. L. 96–187, title I, §104, Jan. 8, 1980, 93 Stat. 1348; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 104–79, §§1(a), 3(b), Dec. 28, 1995, 109 Stat. 791, 792; Pub. L. 106–58, title VI, §§639(a), 641(a), Sept. 29, 1999, 113 Stat. 476, 477.)
+#### (d) Filing by facsimile device or electronic mail
 
-#### Amendment of Subsection (a)(11)
+(1) Any person who is required to file a statement under subsection (c) of this section, except statements required to be filed electronically pursuant to subsection (a)(11)(A)(i) of this section may file the statement by facsimile device or electronic mail, in accordance with such regulations as the Commission may promulgate.
 
-<i>Pub. L. 106–58, title VI, §639, Sept. 29, 1999, 113 Stat. 476, provided that, effective for reporting periods beginning after Dec. 31, 2000, subsection (a) of this section is amended by striking paragraph (11) and inserting the following:</i>
+(2) The Commission shall make a document which is filed electronically with the Commission pursuant to this paragraph accessible to the public on the Internet not later than 24 hours after the document is received by the Commission.
 
-(11)(A) The Commission shall promulgate a regulation under which a person required to file a designation, statement, or report under this Act—
+(3) In promulgating a regulation under this paragraph, the Commission shall provide methods (other than requiring a signature on the document being filed) for verifying the documents covered by the regulation. Any document verified under any of the methods shall be treated for all purposes (including penalties for perjury) in the same manner as a document verified by signature.
 
-&emsp;(i) is required to maintain and file a designation, statement, or report for any calendar year in electronic form accessible by computers if the person has, or has reason to expect to have, aggregate contributions or expenditures in excess of a threshold amount determined by the Commission; and
-
-&emsp;(ii) may maintain and file a designation, statement, or report in electronic form or an alternative form if not required to do so under the regulation promulgated under clause (i).
-
-(B) The Commission shall make a designation, statement, report, or notification that is filed electronically with the Commission accessible to the public on the Internet not later than 24 hours after the designation, statement, report, or notification is received by the Commission.
-
-(C) In promulgating a regulation under this paragraph, the Commission shall provide methods (other than requiring a signature on the document being filed) for verifying designations, statements, and reports covered by the regulation. Any document verified under any of the methods shall be treated for all purposes (including penalties for perjury) in the same manner as a document verified by signature.
-
-(D) As used in this paragraph, the term “report” means, with respect to the Commission, a report, designation, or statement required by this Act to be filed with the Commission.
-
-#### Amendment of Subsection (b)
-
-<i>Pub. L. 106–58, title VI, §641, Sept. 29, 1999, 113 Stat. 477, provided that, effective with respect to reporting periods beginning after Dec. 31, 2000, subsection (b) of this section is amended by inserting “(or election cycle, in the case of an authorized committee of a candidate for Federal office)” after “calendar year” each place it appears in paragraphs (2), (3), (4), (6), and (7).</i>
+(Pub. L. 92–225, title III, §304, Feb. 7, 1972, 86 Stat. 14; Pub. L. 93–443, title II, §§204(a)–(d), 208(c)(4), Oct. 15, 1974, 88 Stat. 1276–1278, 1286; Pub. L. 94–283, title I, §104, May 11, 1976, 90 Stat. 480; Pub. L. 96–187, title I, §104, Jan. 8, 1980, 93 Stat. 1348; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 104–79, §§1(a), 3(b), Dec. 28, 1995, 109 Stat. 791, 792; Pub. L. 106–58, title VI, §§639(a), 641(a), Sept. 29, 1999, 113 Stat. 476, 477; Pub. L. 106–346, §101(a) \[title V, §502(a), (c)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–49.)
 
 #### References in Text
 
-This Act, referred to in subsec. (a)(5), (6)(B), (11)(A), (C), means the Federal Election Campaign Act of 1971, as amended, as defined by section 431 of this title.
+This Act, referred to in subsec. (a)(5), (6)(B), (11)(A), (D), means the Federal Election Campaign Act of 1971, as amended, as defined by section 431 of this title.
 
 #### Prior Provisions
 
 Provisions similar to those comprising subsec. (c) of this section were contained in section 305 of Pub. L. 92–225, title III, Feb. 7, 1972, 86 Stat. 16 (section 435 of this title) prior to amendment of section 305 of Pub. L. 92–225 by Pub. L. 93–433.
 
 #### Amendments
+
+2000—Subsec. (a)(5). Pub. L. 106–346, §101(a) \[title V, §502(c)(2)\], substituted “or (4)(A)(ii), or the second sentence of subsection (c)(2) of this section” for “or (4)(A)(ii)”.
+
+Subsec. (c)(2). Pub. L. 106–346, §101(a) \[title V, §502(c)(1)\], in concluding provisions, substituted “shall be filed within” for “shall be reported within” and inserted at end “Notwithstanding subsection (a)(5) of this section, the time at which the statement under this subsection is received by the Secretary, the Commission, or any other recipient to whom the notification is required to be sent shall be considered the time of filing of the statement with the recipient.”
+
+Subsec. (d). Pub. L. 106–346, §101(a) \[title V, §502(a)\], added subsec. (d).
+
+1999—Subsec. (a)(11). Pub. L. 106–58, §639(a), added par. (11) and struck out former par. (11) which read as follows:
+
+“(11)(A) The Commission shall permit reports required by this Act to be filed and preserved by means of computer disk or any other appropriate electronic format or method, as determined by the Commission.
+
+“(B) In carrying out subparagraph (A) with respect to filing of reports, the Commission shall provide for one or more methods (other than requiring a signature on the report being filed) for verifying reports filed by means of computer disk or other electronic format or method. Any verification under the preceding sentence shall be treated for all purposes (including penalties for perjury) in the same manner as a verification by signature.
+
+“(C) As used in this paragraph, the term ‘report’ means, with respect to the Commission, a report, designation, or statement required by this Act to be filed with the Commission.”
+
+Subsec. (b)(2) to (4), (6), (7). Pub. L. 106–58, §641(a), which directed insertion of “(or election cycle, in the case of an authorized committee of a candidate for Federal office)” after “calendar year” wherever appearing in pars. (2)–(4), (6), (7) of section 304(b) of the Federal Election Campaign Act, was executed by making the insertions in this section, which is section 304(b) of the Federal Election Campaign Act of 1971, to reflect the probable intent of Congress.
 
 1995—Subsec. (a)(6)(A). Pub. L. 104–79, §3(b)(1), substituted “notify the Secretary” for “notify the Clerk, the Secretary,” in first sentence.
 
@@ -257,6 +267,10 @@ Subsec. (b)(12). Pub. L. 93–443, §§204(b)(5), 208(c)(4)(B), required the rep
 Subsec. (b)(13). Pub. L. 93–443, §208(c)(4)(B), substituted “Commission” for “supervisory officer”.
 
 Subsecs. (d), (e). Pub. L. 93–443, §204(c), added subsec. (d) and incorporated provisions of former section 435 of this title in provisions designated as subsec. (e), substituting “Commission” for “supervisory officer” therein.
+
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–346 applicable with respect to elections occurring after January 2001, see section 101(a) \[title V, §502(d)\] of Pub. L. 106–346, set out as a note under section 431 of this title.
 
 #### Effective Date of 1999 Amendment
 

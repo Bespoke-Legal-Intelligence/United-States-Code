@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 432, 901, 1395i, 1395x, 1397gg, 3012 of this title.
+This subchapter is referred to in sections 432, 901, 1395i, 1395x, 1395ff, 1397gg, 3012 of this title.
 
 
 ---

@@ -10,7 +10,7 @@ Based on 44 U.S. Code, 1964 ed., §82 (R.S. §501; Mar. 1, 1907, ch. 2284, §4, 
 
 #### Transfer of Functions
 
-Office of Commissioner of District of Columbia, as established under Reorg. Plan No. 3 of 1967, eff. Nov. 3, 1967 (in part), 32 F.R. 11669, 81 Stat. 948, abolished as of noon Jan. 2, 1975, by Pub. L. 93–198, title VII, §711, Dec. 24, 1973, 87 Stat. 818, and replaced by office of Mayor of District of Columbia by section 421 of Pub. L. 93–198, classified to section 1–241 of District of Columbia Code.
+Office of Commissioner of District of Columbia, as established under Reorg. Plan No. 3 of 1967, eff. Nov. 3, 1967 (in part), 32 F.R. 11669, 81 Stat. 948, abolished as of noon Jan. 2, 1975, by Pub. L. 93–198, title VII, §711, Dec.24, 1973, 87 Stat. 818, and replaced by office of Mayor of District of Columbia by section 421 of Pub. L. 93–198.
 
 #### Northern Marianas College as Depository
 

@@ -4,10 +4,6 @@ Said Secretary is further authorized to pay the reasonable and necessary expense
 
 (Aug. 5, 1939, ch. 449, §6, 53 Stat. 1211.)
 
-#### Codification
-
-Section is also set out in D.C. Code, §9–406.
-
 #### Repeals
 
 For repeal, see note under section 74a of this title.

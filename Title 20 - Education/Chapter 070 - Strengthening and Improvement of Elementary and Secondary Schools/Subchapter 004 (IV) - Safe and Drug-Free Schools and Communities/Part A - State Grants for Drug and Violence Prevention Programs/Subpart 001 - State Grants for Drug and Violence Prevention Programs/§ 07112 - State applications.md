@@ -32,7 +32,7 @@ A State's application under this section shall also contain a comprehensive plan
 
 #### (c) Governor's funds
 
-A State's application under this section shall also contain a comprehensive plan for the use of funds under section 7114(a) of this title by the chief executive officer that includes—
+A State's application under this section shall also contain a comprehensive plan for the use offunds under section 7114(a) of this title by the chief executive officer that includes—
 
 &emsp;(1) a statement of the chief executive officer's measurable goals and objectives for drug and violence prevention and a description of the procedures to be used for assessing and publicly reporting progress toward meeting such goals and objectives;
 

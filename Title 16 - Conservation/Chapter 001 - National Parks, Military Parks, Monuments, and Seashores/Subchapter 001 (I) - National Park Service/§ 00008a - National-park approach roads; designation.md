@@ -4,10 +4,6 @@ Whenever the Secretary of the Interior shall determine it to be in the public in
 
 (Apr. 9, 1924, ch. 86, §4, as added Jan. 31, 1931, ch. 79, 46 Stat. 1053.)
 
-#### Cross References
-
-Uniform application of this section to all areas of national park system when not in conflict with specific provisions applicable to an area, see section 1c of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1c, 8b, 8c, 8d of this title.

@@ -38,7 +38,7 @@
 
 &emsp;(4) accept, hold, administer, invest, and spend any gift, devise, or bequest of real or personal property made to the Foundation;
 
-&emsp;(5) enter into contracts with individuals, public or private organizations, professional societies, and government agencies for thepurpose of carrying out the functions of the Foundation;
+&emsp;(5) enter into contracts with individuals, public or private organizations, professional societies, and government agencies for the purpose of carrying out the functions of the Foundation;
 
 &emsp;(6) enter into such other contracts, leases, cooperative agreements, and other transactions as the Executive Director considers appropriate to conduct the activities of the Foundation; and
 

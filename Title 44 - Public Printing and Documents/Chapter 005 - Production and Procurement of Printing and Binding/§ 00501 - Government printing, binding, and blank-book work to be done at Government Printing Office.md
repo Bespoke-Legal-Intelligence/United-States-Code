@@ -58,7 +58,7 @@ Findings.—The Congress finds the following:
 
 “(b)
 
-Purpose.—The purpose of this Act is to require that all lithographic printing using ink containing oil that is performed or procured by a Federal agency shall use ink containing the maximum amounts of vegetable oil and materials derived from other renewable resources that—
+Purpose.—The purpose of this Act is to require that all lithographic printing using ink containing oil that is performed or procured by a Federal agency shall use ink containing the maximum amounts of vegetableoil and materials derived from other renewable resources that—
 
 &emsp;“(1) are technologically feasible, and
 
@@ -127,42 +127,6 @@ Pub. L. 101–163, title III, §308, Nov. 21, 1989, 103 Stat. 1065.
 Pub. L. 100–458, title III, §309, Oct. 1, 1988, 102 Stat. 2184.
 
 Pub. L. 100–202, §101(i) \[title III, §309\], Dec. 22, 1987, 101 Stat. 1329–310.
-
-#### Cross References
-
-American Battle Monuments Commission, printing authority, see section 2103 of Title 36, Patriotic and National Observances, Ceremonies, and Organizations.
-
-Engraving and printing currency and security documents by Secretary of the Treasury, see section 5114 of Title 31, Money and Finance.
-
-Expenditures or obligations in excess of funds prohibited, see section 1341 of Title 31.
-
-Federal Communications Commission, printing for, see section 154 of Title 47, Telegraphs, Telephones, and Radiotelegraphs.
-
-Federal Power Act, expenditures for printing and binding, see section 793 of Title 16, Conservation.
-
-Foreign assistance, use of funds for printing and binding without regard to the provisions of any other law, see section 2396 of Title 22, Foreign Relations and Intercourse.
-
-Form and style of work for departments, see section 1105 of this title.
-
-Joint Committee on Taxation, printing and binding, see section 8021 of Title 26, Internal Revenue Code.
-
-National Science Foundation, publication of scientific and technical information without regard to the provisions of this section, see section 1870 of Title 42, The Public Health and Welfare.
-
-Notes, bonds, and other securities, engraving and printing at the Treasury Department, see section 5114 of Title 31, Money and Finance.
-
-Patent and Trademark Office, limitations and conditions concerning printing and lithographing, see section 1338 of this title.
-
-Peace Corps, use of funds for printing and binding without regard to the provisions of any other law, see section 2514 of Title 22, Foreign Relations and Intercourse.
-
-Printing and binding outside continental United States, Secretary of State to provide when funds appropriated, see section 2669 of Title 22.
-
-Selective Service System, printing for, see section 460 of Title 50, Appendix, War and National Defense.
-
-Senate library, cost limitation on binding for, see section 737 of this title.
-
-Supreme Court, printing and binding, see section 676 of Title 28, Judiciary and Judicial Procedure.
-
-Tax Court reports, publication at Government Printing Office, see section 7462 of Title 26, Internal Revenue Code.
 
 #### Section Referred to in Other Sections
 

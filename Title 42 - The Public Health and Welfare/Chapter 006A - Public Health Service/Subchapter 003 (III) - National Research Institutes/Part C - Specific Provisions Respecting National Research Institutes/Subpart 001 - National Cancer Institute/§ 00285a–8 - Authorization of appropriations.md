@@ -18,13 +18,13 @@ For the purpose of carrying out this subpart, there are authorized to be appropr
 
 #### (c) Prostate cancer
 
-For the purpose of carrying out section 285a–7 of this title, there are authorized to be appropriated $72,000,000 for fiscal year 1994, and such sums as may be necessary for each of the fiscal years 1995 and 1996. Such authorizations of appropriations are in addition to the authorizations of appropriations established in subsection (a) of this section with respect to such purpose.
+For the purpose of carrying out section 285a–7 of this title, there are authorized to be appropriated $72,000,000 for fiscal year 1994, and such sums as may be necessary for each of the fiscal years 1995 through 2004. Such authorizations of appropriations are in addition to the authorizations of appropriations established in subsection (a) of this section with respect to such purpose.
 
 #### (d) Allocation regarding cancer control
 
 #### (1) In general
 
-&emsp;Of the amounts appropriated for the National Cancer Institute for a fiscal year, the Director of the Institute shall make available not less than the applicable percentage specified in paragraph (2) for carrying out the cancer control activities authorized in section 285a–1 of this title and for which budget estimates are made under section 285a–2(b)(9) of this title for the fiscal year.
+&emsp;Of the amounts appropriated for the National Cancer Institute for a fiscal year, theDirector of the Institute shall make available not less than the applicable percentage specified in paragraph (2) for carrying out the cancer control activities authorized in section 285a–1 of this title and for which budget estimates are made under section 285a–2(b)(9) of this title for the fiscal year.
 
 #### (2) Applicable percentage
 
@@ -36,9 +36,11 @@ For the purpose of carrying out section 285a–7 of this title, there are author
 
 &emsp;&emsp;(C) 10 percent, in the case of fiscal year 1996 and each subsequent fiscal year.
 
-(July 1, 1944, ch. 373, title IV, §417B, as added Pub. L. 103–43, title IV, §403(a), June 10, 1993, 107 Stat. 157; amended Pub. L. 105–340, title I, §103, Oct. 31, 1998, 112 Stat. 3192.)
+(July 1, 1944, ch. 373, title IV, §417B, as added Pub. L. 103–43, title IV, §403(a), June 10, 1993, 107 Stat. 157; amended Pub. L. 105–340, title I, §103, Oct. 31, 1998, 112 Stat. 3192; Pub. L. 106–505, title VI, §602(b), Nov. 13, 2000, 114 Stat. 2346.)
 
 #### Amendments
+
+2000—Subsec. (c). Pub. L. 106–505 substituted “through 2004” for “and 1996”.
 
 1998—Subsec. (b)(1)(A), (B), (2). Pub. L. 105–340 substituted “through 2003” for “and 1996”.
 

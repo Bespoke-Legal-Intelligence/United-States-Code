@@ -146,7 +146,7 @@ Contents.—The study conducted under paragraph (1) shall include—
 
 “(b)
 
-Report.—Not later than 18 months after the date of enactment of this title \[Nov. 28, 1990\], the Secretary of Agriculture shall prepare and submit, to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, a report containing the results of the study described in subsection (a). Such report shall include—
+Report.—Not later than 18 months after the date of enactment of this title \[Nov. 28, 1990\], the Secretary of Agriculture shall prepare and submit, to the Committee on Agriculture of the House of Representativesand the Committee on Agriculture, Nutrition, and Forestry of the Senate, a report containing the results of the study described in subsection (a). Such report shall include—
 
 &emsp;“(1) the recommendations of the Secretary concerning the manner in which producers of domestic fruit and vegetable commodities that are not receiving assistance under the programs that provide market enhancement assistance (such as the export enhancement program under subtitle B of title XI of the Food Security Act of 1985 (7 U.S.C. 1736p et seq.) to producers of domestic fruit and vegetable commodities, could participate in such programs; and
 

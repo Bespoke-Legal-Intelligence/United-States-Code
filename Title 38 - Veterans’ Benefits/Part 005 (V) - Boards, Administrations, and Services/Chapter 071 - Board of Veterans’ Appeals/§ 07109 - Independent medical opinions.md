@@ -30,10 +30,6 @@ Amendment by Pub. L. 100–687 effective Sept. 1, 1989, see section 401(a) of Pu
 
 Section effective Jan. 1, 1963, see section 4 of Pub. L. 87–671, set out as an Effective Date of 1962 Amendment note under section 5701 of this title.
 
-#### Cross References
-
-Disclosure of papers and documents relating to claims to independent medical experts, see section 5701 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 5701 of this title.

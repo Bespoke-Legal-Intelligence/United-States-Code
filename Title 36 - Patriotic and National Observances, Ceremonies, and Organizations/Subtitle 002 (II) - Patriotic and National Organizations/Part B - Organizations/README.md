@@ -1,5 +1,9 @@
 Part B—Organizations
 
+#### Part Referred to in Other Sections
+
+This part is referred to in section 10101 of this title; title 16 sections 583j–5, 3706; title 20 section 5509; title 25 section 458bbb.
+
 
 ---
 
@@ -68,6 +72,7 @@ Part B—Organizations
 - [Chapter 1519 - National Fund for Medical Education](Chapter%201519%20-%20National%20Fund%20for%20Medical%20Education/README.md)
 - [Chapter 1521 - National Mining Hall of Fame and Museum](Chapter%201521%20-%20National%20Mining%20Hall%20of%20Fame%20and%20Museum/README.md)
 - [Chapter 1523 - National Music Council](Chapter%201523%20-%20National%20Music%20Council/README.md)
+- [Chapter 1524 - National Recording Preservation Foundation](Chapter%201524%20-%20National%20Recording%20Preservation%20Foundation/README.md)
 - [Chapter 1525 - National Safety Council](Chapter%201525%20-%20National%20Safety%20Council/README.md)
 - [Chapter 1527 - National Ski Patrol System, Incorporated](Chapter%201527%20-%20National%20Ski%20Patrol%20System%2C%20Incorporated/README.md)
 - [Chapter 1529 - National Society, Daughters of the American Colonists](Chapter%201529%20-%20National%20Society%2C%20Daughters%20of%20the%20American%20Colonists/README.md)

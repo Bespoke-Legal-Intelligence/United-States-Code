@@ -24,7 +24,7 @@ Responsibilities.—(1) The responsibilities of each center established under th
 
 &emsp;(B) interpreting, publishing, and disseminating the results of the research.
 
-(2) In conducting research described in paragraph (1)(A) of this subsection, each center maymake contracts with nonprofit research organizations and other appropriate persons.
+(2) In conducting research described in paragraph (1)(A) of this subsection, each center may make contracts with nonprofit research organizations and other appropriate persons.
 
 (c)
 
@@ -82,5 +82,5 @@ In subsection (a), the words “one or more” are omitted as surplus.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 106, 40119, 44501, 44508, 48102, 50103 of this title.
+This section is referred to in sections 40119, 44501, 44508, 48102, 50103 of this title.
 

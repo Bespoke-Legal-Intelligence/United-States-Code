@@ -8,7 +8,7 @@
 
 &emsp;(A) The initial report shall be submitted not later than March 1, 1995.
 
-&emsp;(B) A report after the initial report shall be submitted in each year after 1995 during which the Secretary of Energy conducts, or plans to conduct, environmental restoration activities and projects, not later than 30 days after the date on which the President submits to theCongress the budget for the fiscal year beginning in that year.
+&emsp;(B) A report after the initial report shall be submitted in each year after 1995 during which the Secretary of Energy conducts, or plans to conduct, environmental restoration activities and projects, not later than 30 days after the date on which the President submits to the Congress the budget for the fiscal year beginning in that year.
 
 #### (b) Biennial waste management reports
 
@@ -74,7 +74,7 @@ In preparing a report under this section, the Secretary of Energy shall provide,
 
 (2) Consultation under paragraph (1) shall not interfere with the timely submission to Congress of the budget for a fiscal year.
 
-(3) The Secretary may award grants to, and enter into cooperative agreements with, affected States and affected Indian tribes to facilitatethe participation of such entities in the development of information under this subsection. The Secretary may also take appropriate action to facilitate the participation of interested members of the public in such development under this subsection.
+(3) The Secretary may award grants to, and enter into cooperative agreements with, affected States and affected Indian tribes to facilitate the participation of such entities in the development of information under this subsection. The Secretary may also take appropriate action to facilitate the participation of interested members of the public in such development under this subsection.
 
 (Pub. L. 103–160, div. C, title XXXI, §3153, Nov. 30, 1993, 107 Stat. 1950; Pub. L. 103–337, div. C, title XXXI, §3160(b)–(d), Oct. 5, 1994, 108 Stat. 3094; Pub. L. 104–201, div. C, title XXXI, §3152, Sept. 23, 1996, 110 Stat. 2839; Pub. L. 105–85, div. C, title XXXI, §3160, Nov. 18, 1997, 111 Stat. 2048.)
 

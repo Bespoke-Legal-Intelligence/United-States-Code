@@ -8,7 +8,7 @@ Any State desiring to receive a grant under this part for any fiscal year shall 
 
 Each such application shall include—
 
-&emsp;(1) a description of how, in planning, implementing, and evaluating programs and projects assisted under this part, the State and its local operating agencies will ensure that the special educational needs of migratory children, including preschool migratory children, are identified and addressed through a comprehensive plan for needs assessment and service delivery that meets the requirements of section 6396 of this title;
+&emsp;(1) a description of how, in planning, implementing, and evaluating programs and projects assisted under this part, the State and its local operating agencies will ensure that the special educational needs of migratory children, including preschool migratory children, are identified and addressed througha comprehensive plan for needs assessment and service delivery that meets the requirements of section 6396 of this title;
 
 &emsp;(2) a description of the steps the State is taking to provide all migratory students with the opportunity to meet the same challenging State content standards and challenging State student performance standards that all children are expected to meet;
 
@@ -16,9 +16,11 @@ Each such application shall include—
 
 &emsp;(4) a description of the State's priorities for the use of funds received under this part, and how such priorities relate to the State's assessment of needs for services in the State;
 
-&emsp;(5) a description of how the State will determine the amount of any subgrants the State will award to local operating agencies, taking into account the requirements of paragraph (1); and
+&emsp;(5) a description of how the State will determine the amount of any subgrants the State will award to local operating agencies, taking into account the requirements of paragraph (1);
 
-&emsp;(6) such budgetary and other information as the Secretary may require.
+&emsp;(6) such budgetary and other information as the Secretary may require; and
+
+&emsp;(7) a description of how the State will encourage programs and projects assisted under this part to offer family literacy services if the program or project serves a substantial number of migratory children who have parents who do not have a high school diploma or its recognized equivalent or who have low levels of literacy.
 
 #### (c) Assurances
 
@@ -66,7 +68,11 @@ Notwithstanding any other provision of this part—
 
 &emsp;(3) secondary school students who were eligible for services in secondary school may continue to be served through credit accrual programs until graduation.
 
-(Pub. L. 89–10, title I, §1304, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3587.)
+(Pub. L. 89–10, title I, §1304, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3587; amended Pub. L. 106–554, §1(a)(4) \[div. B, title XVI, §1605\], Dec. 21, 2000, 114 Stat. 2763, 2763A–334.)
+
+#### Amendments
+
+2000—Subsec. (b)(7). Pub. L. 106–554 added par. (7).
 
 #### Section Referred to in Other Sections
 

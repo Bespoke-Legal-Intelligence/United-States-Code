@@ -14,7 +14,7 @@ The program shall introduce interns to the practice of diplomacy and the unique 
 
 (2) An intern shall have successfully completed not less than one academic year of study at an institution of higher education to be admitted to the program. In each succeeding year of participation an intern shall have completed an additional year of undergraduate or graduate study and shall maintain an exemplary record of academic achievement.
 
-(3) In selecting interns, the Secretary shall consider only the ablest students of superiorability selected on the basis of demonstrated achievement and exceptional promise whose academic records reflect the requisite standards of performance necessary for the Foreign Service.
+(3) In selecting interns, the Secretary shall consider only the ablest students of superior ability selected on the basis of demonstrated achievement and exceptional promise whose academic records reflect the requisite standards of performance necessary for the Foreign Service.
 
 #### (d) Summer internships
 

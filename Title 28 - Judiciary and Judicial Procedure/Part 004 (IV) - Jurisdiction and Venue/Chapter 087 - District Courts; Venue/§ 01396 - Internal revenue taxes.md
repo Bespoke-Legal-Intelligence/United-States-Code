@@ -18,10 +18,6 @@ Changes were made in phraseology.
 
 While section 3744 of Title 26, U.S.C., Internal Revenue Code \[1939\], is one of the sources of this section, it was eliminated from the schedule of repeals by Senate amendment. Therefore, it remains in Title 26 \[I.R.C. 1939\]. See 80th Congress Senate Report No. 1559.
 
-#### Cross References
-
-Jurisdiction of district courts in actions or proceedings under internal-revenue laws, see section 7402 of Title 26, Internal Revenue Code.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in title 26 section 7410.

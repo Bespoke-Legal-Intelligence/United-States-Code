@@ -2,7 +2,7 @@
 
 (a) Under regulations to be prescribed by the Secretary of the Army, a person qualified for enlistment in the active Army National Guard may be enlisted in the inactive Army National Guard for a single term of one or three years. Under regulations prescribed by the Secretary of the Air Force, a person qualified for enlistment in the active Air National Guard may be enlisted in the inactive Air National Guard for a single term of one or three years.
 
-(b) Under such regulations as the Secretary of the Army may prescribe, an enlisted member ofthe active Army National Guard, not formerly enlisted in the inactive Army National Guard, may be transferred to the inactive Army National Guard. Under such regulations as the Secretary of the Air Force may prescribe, an enlisted member of the active Air National Guard, not formerly enlisted in the inactive Air National Guard, may be transferred to the inactive Air National Guard. Under such regulations as the Secretary concerned may prescribe, a person enlisted in or transferred to the inactive Army National Guard or the inactive Air National Guard may be transferred to the active Army National Guard or the active Air National Guard, as the case may be.
+(b) Under such regulations as the Secretary of the Army may prescribe, an enlisted member of the active Army National Guard, not formerly enlisted in the inactive Army National Guard, may be transferred to the inactive Army National Guard. Under such regulations as the Secretary of the Air Force may prescribe, an enlisted member of the active Air National Guard, not formerly enlisted in the inactive Air National Guard, may be transferred to the inactive Air National Guard. Under such regulations as the Secretary concerned may prescribe, a person enlisted in or transferred to the inactive Army National Guard or the inactive Air National Guard may be transferred to the active Army National Guard or the active Air National Guard, as the case may be.
 
 (c) In time of peace, no enlisted member may be required to serve for a period longer than that for which he enlisted in the active or inactive National Guard.
 
@@ -61,10 +61,4 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 #### Effective Date of 1962 Amendment
 
 Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 87–649, set out as an Effective Date note preceding section 101 of Title 37, Pay and Allowances of the Uniformed Services.
-
-#### Cross References
-
-Persons enlisted in inactive National Guard not entitled to pay, see section 206 of Title 37, Pay and Allowances of Uniformed Services.
-
-Transfer of enlisted members from Army National Guard of United States and Air National Guard of United States to Army Reserve and Air Force Reserve, see section 12105 of Title 10, Armed Forces.
 

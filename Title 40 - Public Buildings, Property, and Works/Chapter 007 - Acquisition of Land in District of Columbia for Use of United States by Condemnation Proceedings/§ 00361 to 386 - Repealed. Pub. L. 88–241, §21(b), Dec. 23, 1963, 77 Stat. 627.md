@@ -52,5 +52,3 @@ Section 385, acts Jan. 31, 1928, ch. 14, §1, 45 Stat. 54; Mar. 1, 1929, ch. 416
 
 Section 386, act Mar. 1, 1929, ch. 416, §26, 45 Stat. 1422, related to condemnation proceedings on behalf of the District of Columbia as not affected by this chapter.
 
-For subject matter of these sections, see chapter 13 (§16–1301 et seq.) of Title 16, Particular Actions, Proceedings and Matters, of the District of Columbia Code.
-

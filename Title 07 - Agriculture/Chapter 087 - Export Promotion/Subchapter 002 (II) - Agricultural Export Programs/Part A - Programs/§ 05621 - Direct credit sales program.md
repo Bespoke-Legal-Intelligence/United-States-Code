@@ -52,7 +52,7 @@ Any contract for the financing of exports by the Commodity Credit Corporation un
 
 #### (f) Restrictions
 
-The Commodity Credit Corporation may not make export sales financing authorized under this section available in connection with sales of an agricultural commodity to any country that the Secretary determines cannot adequately service the debt associated with such sale.
+The Commodity Credit Corporation may not make export sales financing authorized under this section available in connection with sales ofan agricultural commodity to any country that the Secretary determines cannot adequately service the debt associated with such sale.
 
 (Pub. L. 95–501, title II, §201, as added Pub. L. 101–624, title XV, §1531, Nov. 28, 1990, 104 Stat. 3672; amended Pub. L. 102–511, title VII, §707(a)–(c), Oct. 24, 1992, 106 Stat. 3350, 3351; Pub. L. 104–127, title II, §277(c)(2), Apr. 4, 1996, 110 Stat. 979.)
 

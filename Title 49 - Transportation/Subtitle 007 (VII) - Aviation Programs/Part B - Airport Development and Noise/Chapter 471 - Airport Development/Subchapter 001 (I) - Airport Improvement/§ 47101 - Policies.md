@@ -12,7 +12,7 @@ General.—It is the policy of the United States—
 
 &emsp;(4) that appropriate provisions should be made to make the development and enhancement of cargo hub airports easier;
 
-&emsp;(5) to encourage the development of transportation systems that use various modes of transportation in a way that will serve the States and local communities efficiently and effectively;
+&emsp;(5) to encourage the development of intermodal connections on airport property between aeronautical and other transportation modes and systems to serve air transportation passengers and cargo efficiently and effectively and promote economic development;
 
 &emsp;(6) that airport development projects under this subchapter provide for the protection and enhancement of natural resources and the quality of the environment of the United States;
 
@@ -30,7 +30,7 @@ General.—It is the policy of the United States—
 
 &emsp;(10) that special emphasis should be placed on converting appropriate former military air bases to civil use and identifying and improving additional joint-use facilities;
 
-&emsp;(11) that the airport improvement program should be administered to encourage projects that employ innovative technology, concepts, and approaches that will promote safety, capacity, and efficiency improvements in the construction of airports and in the air transportation system (including the development and use of innovative concrete and other materials in the construction of airport facilities to minimize initial laydown costs, minimize time out of service, and maximize lifecycle durability) and to encourage and solicit innovative technology proposals and activities in the expenditure of funding pursuant to this subchapter;
+&emsp;(11) that the airport improvement program should be administered to encourage projects that employ innovative technology (including integrated in-pavement lighting systems for runways and taxiways and other runway and taxiway incursion prevention devices), concepts, and approaches that will promote safety, capacity, and efficiency improvements in the construction of airports and in the air transportation system (including the development and use of innovative concrete and other materials in the construction of airport facilities to minimize initial laydown costs, minimize time out of service, and maximize lifecycle durability) and to encourage and solicit innovative technology proposals and activities in the expenditure of funding pursuant to this subchapter;
 
 &emsp;(12) that airport fees, rates, and charges must be reasonable and may only be used for purposes not prohibited by this subchapter; and
 
@@ -50,7 +50,7 @@ National Transportation Policy.—(1) It is a goal of the United States to devel
 
 (6) Intermodality and flexibility are paramount issues in the process of developing an integrated system that will obtain the optimum yield of United States resources.
 
-(7) The United States transportation infrastructure must be reshaped to provide the economic underpinnings for the United States to compete in the 21st century global economy. The United States can no longer rely on the sheer size of its economy to dominate international economic rivals and must recognize fully that its economy is no longer a separate entity but is part of the global marketplace. The future economic prosperity of the United States depends on its ability to compete in an international marketplace that is teeming with competitors but in which a full one-quarter of the economic activity of the United States takes place.
+(7) The United States transportation infrastructure must be reshaped to provide the economic underpinnings for the United States to compete in the 21st century global economy. The United States can no longer rely on the sheer size of its economy to dominate international economic rivals and must recognize fully that its economy is no longer a separateentity but is part of the global marketplace. The future economic prosperity of the United States depends on its ability to compete in an international marketplace that is teeming with competitors but in which a full one-quarter of the economic activity of the United States takes place.
 
 (8) The United States must make a national commitment to rebuild its infrastructure through development of a national intermodal transportation system. The United States must provide the foundation for its industries to improve productivity and their ability to compete in the global economy with a system that will transport passengers and property in an efficient manner.
 
@@ -90,9 +90,11 @@ Maximum Use of Safety Facilities.—This subchapter should be carried out consis
 
 &emsp;(8) a taxiway lighting and sign system;
 
-&emsp;(9) runway edge lighting and marking; and
+&emsp;(9) runway edge lighting and marking;
 
-&emsp;(10) radar approach coverage for each airport terminal area.
+&emsp;(10) radar approach coverage for each airport terminal area; and
+
+&emsp;(11) runway and taxiway incursion prevention devices, including integrated in-pavement lighting systems for runways and taxiways.
 
 (g)
 
@@ -128,7 +130,7 @@ Consultation.—To carry out the policy of subsection (a)(6) of this section, th
 
 &emsp;(4) another factor affecting the environment.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1246; Pub. L. 103–305, title I, §§104, 110, Aug. 23, 1994, 108 Stat. 1571, 1573; Pub. L. 103–429, §6(62), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 104–264, title I, §141, Oct. 9, 1996, 110 Stat. 3220.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1246; Pub. L. 103–305, title I, §§104, 110, Aug. 23, 1994, 108 Stat. 1571, 1573; Pub. L. 103–429, §6(62), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 104–264, title I, §141, Oct. 9, 1996, 110 Stat. 3220; Pub. L. 106–181, title I, §§121(a), (b), 137(a), Apr. 5, 2000, 114 Stat. 74, 85.)
 
 Historical and Revision Notes
 
@@ -264,6 +266,12 @@ This amends 49:47101(a)(12) to translate a cross-reference to the Airport and Ai
 
 #### Amendments
 
+2000—Subsec. (a)(5). Pub. L. 106–181, §137(a), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “to encourage the development of transportation systems that use various modes of transportation in a way that will serve the States and local communities efficiently and effectively;”.
+
+Subsec. (a)(11). Pub. L. 106–181, §121(a), inserted “(including integrated in-pavement lighting systems for runways and taxiways and other runway and taxiway incursion prevention devices)” after “employ innovative technology”.
+
+Subsec. (f)(11). Pub. L. 106–181, §121(b), added par. (11).
+
 1996—Subsec. (g). Pub. L. 104–264 substituted “
 
 Intermodal Planning” for “
@@ -278,43 +286,29 @@ Pub. L. 103–305, §110, added par. (12).
 
 Subsec. (a)(13). Pub. L. 103–305, §110, added par. (13).
 
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
+
 #### Effective Date of 1996 Amendment
 
-Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
+Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construedas affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under section 321 of this title.
 
+#### Availability of Gates and Other Essential Services
+
+Pub. L. 106–181, title I, §155(d), Apr. 5, 2000, 114 Stat. 89, provided that: “The Secretary \[of Transportation\] shall ensure that gates and other facilities are made available at costs that are fair and reasonable to air carriers at covered airports (as defined in section 47106(f)(4) \[47106(f)(3)\] of title 49, United States Code) where a ‘majority-in-interest clause’ of a contract or other agreement or arrangement inhibits the ability of the local airport authority to provide or build new gates or other facilities.”
+
+#### Construction of Runways
+
+Pub. L. 106–181, title I, §158, Apr. 5, 2000, 114 Stat. 90, provided that: “Notwithstanding any provision of law that specifically restricts the number of runways at a single international airport, the Secretary \[of Transportation\] may obligate funds made available under chapters 471 and 481 of title 49, United States Code, for any project to construct a new runway at such airport, unless this section is expressly repealed.”
+
 #### Innovative Financing Techniques
 
-Section 148 of Pub. L. 104–264 provided that:
-
-“(a)
-
-In General.—The Secretary of Transportation is authorized to carry out a demonstration program under which the Secretary may approve applications under subchapter I of chapter 471 of title 49, United States Code, for not more than 10 projects for which grants received under such subchapter may be used to implement innovative financing techniques.
-
-“(b)
-
-Purpose.—The purpose of the demonstration program shall be to provide information on the use of innovative financing techniques for airport development projects to Congress and the National Civil Aviation Review Commission.
-
-“(c)
-
-Limitation.—In no case shall the implementation of an innovative financing technique under the demonstration program result in a direct or indirect guarantee of any airport debt instrument by the Federal Government.
-
-“(d)
-
-Innovative Financing Technique Defined.—In this section, the term ‘innovative financing technique’ shall be limited to the following:
-
-&emsp;“(1) Payment of interest.
-
-&emsp;“(2) Commercial bond insurance and other credit enhancement associated with airport bonds for eligible airport development.
-
-&emsp;“(3) Flexible non-Federal matching requirements.
-
-“(e)
-
-Expiration of Authority.—The authority of the Secretary to carry out the demonstration program shall expire on September 30, 1998.”
+Pub. L. 104–264, title I, §148, Oct. 9, 1996, 110 Stat. 3223, authorized the Secretary of Transportation until Sept. 30, 1998, to carry out a demonstration program to provide information on the use of innovative financing techniques for airport development projects to Congress and the National Civil Aviation Review Commission. See section 47135 of this title.
 
 #### Authority To Close Airport Located Near Closed or Realigned Military Base
 

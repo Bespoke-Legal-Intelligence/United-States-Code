@@ -12,7 +12,7 @@
 
 &emsp;(5) to assure that no more than 1 per centum of the funds appropriated under this chapter for any fiscal year may be used by public housing agencies and nonprofit corporations for evaluative purposes as required by section 8007(b)(1) of this title.
 
-(b) The Secretary shall establish a reserve fund, not to exceed 10 per centum of the funds appropriated in each fiscal year for the provision of services under this chapter, in order to supplement grants awarded to public housing agencies and nonprofit corporations under this chapter when, in the determination of the Secretary, such supplemental adjustments are required to maintain adequate levels of services to eligible project residents.
+(b) The Secretary shall establish a reserve fund, not to exceed 10 per centum of the fundsappropriated in each fiscal year for the provision of services under this chapter, in order to supplement grants awarded to public housing agencies and nonprofit corporations under this chapter when, in the determination of the Secretary, such supplemental adjustments are required to maintain adequate levels of services to eligible project residents.
 
 (Pub. L. 95–557, title IV, §409, Oct. 31, 1978, 92 Stat. 2109.)
 

@@ -2,7 +2,7 @@
 
 #### (a) General requirement of registration
 
-It shall be unlawful for any member, broker, or dealer to effect any transaction in any security (other than an exempted security) on a national securities exchange unless a registration is effective as to such security for such exchange in accordance with the provisions of this chapter and the rules and regulations thereunder.
+It shall be unlawful for any member, broker, or dealer to effect any transaction in any security (other than an exempted security) on a national securities exchange unless a registration is effective as to such security for such exchange in accordance with the provisions of this chapter and the rules and regulations thereunder. The provisions of this subsection shall not apply in respect of a security futures product traded on a national securities exchange.
 
 #### (b) Procedure for registration; information
 
@@ -112,7 +112,7 @@ Notwithstanding the foregoing provisions of this section, the Commission may by 
 
 (1) Every issuer which is engaged in interstate commerce, or in a business affecting interstate commerce, or whose securities are traded by use of the mails or any means or instrumentality of interstate commerce shall—
 
-&emsp;(A) within one hundred and twenty days after the last day of its first fiscal year ended after July 1, 1964, on which the issuer has total assets exceeding $1,000,000 and a class of equity security (other than an exempted security) held of record by seven hundred and fifty or more persons; and
+&emsp;(A) within one hundred and twenty days after the last day of its first fiscal year endedafter July 1, 1964, on which the issuer has total assets exceeding $1,000,000 and a class of equity security (other than an exempted security) held of record by seven hundred and fifty or more persons; and
 
 &emsp;(B) within one hundred and twenty days after the last day of its first fiscal year ended after two years from July 1, 1964, on which the issuer has total assets exceeding $1,000,000 and a class of equity security (other than an exempted security) held of record by five hundred or more but less than seven hundred and fifty persons,
 
@@ -146,7 +146,7 @@ Notwithstanding the foregoing provisions of this section, the Commission may by 
 
 (4) Registration of any class of security pursuant to this subsection shall be terminated ninety days, or such shorter period as the Commission may determine, after the issuer files a certification with the Commission that the number of holders of record of such class of security is reduced to less than three hundred persons. The Commission shall after notice and opportunity for hearing deny termination of registration if it finds that the certification is untrue. Termination of registration shall be deferred pending final determination on the question of denial.
 
-(5) For the purposes of this subsection the term “class” shall include all securities of an issuer which are of substantially similar character and the holders of which enjoy substantially similar rights and privileges. The Commission may for the purpose of this subsection define by rules and regulations the terms “total assets” and “held of record” as it deems necessary or appropriate in the public interest or for the protection of investors in order to prevent circumvention of the provisions of this subsection.
+(5) For the purposes of this subsection the term “class” shall include all securities of an issuer which are of substantially similar character and the holders of which enjoy substantially similar rights and privileges. The Commission may for the purpose of this subsection define by rules and regulations the terms “total assets” and “held of record” as it deems necessary or appropriate in the public interest or for the protection of investors in order to prevent circumvention of the provisions of this subsection. For purposes of this subsection, a security futures product shall not be considered a class of equity security of the issuer of the securities underlying the security futures product.
 
 #### (h) Exemption by rules and regulations from certain provisions of section
 
@@ -170,7 +170,7 @@ The Commission is authorized, by order, as it deems necessary or appropriate for
 
 &emsp;&emsp;(B) summarily to suspend all trading on any national securities exchange or otherwise, in securities other than exempted securities, for a period not exceeding 90 calendar days.
 
-> &emsp;The action described in subparagraph (B) shall not take effect unless the Commission notifies the President of its decision and the President notifies the Commission that the President does not disapprove of such decision.
+> &emsp;The action described in subparagraph (B) shall not take effect unless the Commission notifies the President of its decision and the President notifies the Commission that the President does not disapprove of such decision. If the actions described in subparagraph (A) or (B) involve a security futures product, the Commission shall consult with and consider the views of the Commodity Futures Trading Commission.
 
 #### (2) Emergency orders
 
@@ -180,7 +180,7 @@ The Commission is authorized, by order, as it deems necessary or appropriate for
 
 &emsp;&emsp;(ii) to ensure prompt, accurate, and safe clearance and settlement of transactions in securities (other than exempted securities).
 
-&emsp;(B) An order of the Commission under this paragraph (2) shall continue in effect for the period specified by the Commission, and may be extended, except that in no event shall the Commission's action continue in effect for more than 10 business days, including extensions. In exercising its authority under this paragraph, the Commission shall not be required to comply with the provisions of section 553 of title 5 or with the provisions of section 78s(c) of this title.
+&emsp;(B) An order of the Commission under this paragraph (2) shall continue in effect for the period specified by the Commission, and may be extended, except that in no event shall the Commission's action continue in effect for more than 10 business days, including extensions. If the actions described in subparagraph (A) involve a security futures product, the Commission shall consult with and consider the views of the Commodity Futures Trading Commission. In exercising its authority under this paragraph, the Commission shall not be required to comply with the provisions of section 553 of title 5 or with the provisions of section 78s(c) of this title.
 
 #### (3) Termination of emergency actions by President
 
@@ -188,7 +188,7 @@ The Commission is authorized, by order, as it deems necessary or appropriate for
 
 #### (4) Compliance with orders
 
-&emsp;No member of a national securities exchange, broker, or dealer shall make use of the mails or any means or instrumentality of interstate commerce to effect any transaction in, or to induce the purchase or sale of, any security in contravention of an order of the Commission under this subsection unless such order has been stayed, modified, or set aside asprovided in paragraph (5) of this subsection or has ceased to be effective upon direction of the President as provided in paragraph (3).
+&emsp;No member of a national securities exchange, broker, or dealer shall make use of the mails or any means or instrumentality of interstate commerce to effect any transaction in, or to induce the purchase or sale of, any security in contravention of an order of the Commission under this subsection unless such order has been stayed, modified, or set aside as provided in paragraph (5) of this subsection or has ceased to be effective upon direction of the President as provided in paragraph (3).
 
 #### (5) Limitations on review of orders
 
@@ -206,7 +206,7 @@ The Commission is authorized, by order, as it deems necessary or appropriate for
 
 It shall be unlawful for an issuer, any class of whose securities is registered pursuant to this section or would be required to be so registered except for the exemption from registration provided by subsection (g)(2)(B) or (g)(2)(G) of this section, by the use of any means or instrumentality of interstate commerce, or of the mails, to issue, either originally or upon transfer, any of such securities in a form or with a format which contravenes such rules and regulations as the Commission may prescribe as necessary or appropriate for the prompt and accurate clearance and settlement of transactions in securities. The provisions of this subsection shall not apply to variable annuity contracts or variable life policies issued by an insurance company or its separate accounts.
 
-(June 6, 1934, ch. 404, title I, §12, 48 Stat. 892; May 27, 1936, ch. 462, §1, 49 Stat. 1375; Aug. 10, 1954, ch. 667, title II, §202, 68 Stat. 686; Pub. L. 88–467, §3, Aug. 20, 1964, 78 Stat. 565; Pub. L. 90–439, §1, July 29, 1968, 82 Stat. 454; Pub. L. 91–547, §28(c), Dec. 14, 1970, 84 Stat. 1435; Pub. L. 93–495, title I, §105(b), Oct. 28, 1974, 88 Stat. 1503; Pub. L. 94–29, §§8, 9, June 4, 1975, 89 Stat. 117, 118; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–181, title III, §314, Dec. 4, 1987, 101 Stat. 1256; Pub. L. 101–73, title VII, §744(u)(2), Aug. 9, 1989, 103 Stat. 441; Pub. L. 101–432, §2, Oct. 16, 1990, 104 Stat. 963; Pub. L. 103–389, §2, Oct. 22, 1994, 108 Stat. 4081; Pub. L. 104–62, §4(d), Dec. 8, 1995, 109 Stat. 685.)
+(June 6, 1934, ch. 404, title I, §12, 48 Stat. 892; May 27, 1936, ch. 462, §1, 49 Stat. 1375; Aug. 10, 1954, ch. 667, title II, §202, 68 Stat. 686; Pub. L. 88–467, §3, Aug. 20, 1964, 78 Stat. 565; Pub. L. 90–439, §1, July 29, 1968, 82 Stat. 454; Pub. L. 91–547, §28(c), Dec. 14, 1970, 84 Stat. 1435; Pub. L. 93–495, title I, §105(b), Oct. 28, 1974, 88 Stat. 1503; Pub. L. 94–29, §§8, 9, June 4, 1975, 89 Stat. 117, 118; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–181, title III, §314, Dec. 4, 1987, 101 Stat. 1256; Pub. L. 101–73, title VII, §744(u)(2), Aug. 9, 1989, 103 Stat. 441; Pub. L. 101–432, §2, Oct. 16, 1990, 104 Stat. 963; Pub. L. 103–389, §2, Oct. 22, 1994, 108 Stat. 4081; Pub. L. 104–62, §4(d), Dec. 8, 1995, 109 Stat. 685; Pub. L. 106–554, §1(a)(5) \[title II, §§206(e), 208(b)(1), (2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–431, 2763A–435.)
 
 #### References in Text
 
@@ -220,6 +220,14 @@ The Federal Deposit Insurance Act, referred to in subsec. (i), is act Sept. 21, 
 
 #### Amendments
 
+2000—Subsec. (a). Pub. L. 106–554, §1(a)(5) \[title II, §208(b)(1)\], inserted at end “The provisions of this subsection shall not apply in respect of a security futures product traded on a national securities exchange.”
+
+Subsec. (g)(5). Pub. L. 106–554, §1(a)(5) \[title II, §208(b)(2)\], inserted at end “For purposes of this subsection, a security futures product shall not be considered a class of equity security of the issuer of the securities underlying the security futures product.”
+
+Subsec. (k)(1). Pub. L. 106–554, §1(a)(5) \[title II, §206(e)(1)\], inserted at end “If the actions described in subparagraph (A) or (B) involve a security futures product, the Commission shall consult with and consider the views of the Commodity Futures Trading Commission.”
+
+Subsec. (k)(2)(B). Pub. L. 106–554, §1(a)(5) \[title II, §206(e)(2)\], inserted after first sentence “If the actions described in subparagraph (A) involve a security futures product, the Commission shall consult with and consider the views of the Commodity Futures Trading Commission.”
+
 1995—Subsec. (g)(2)(D). Pub. L. 104–62 inserted before period at end “; or any security of a fund that is excluded from the definition of an investment company under section 80a–3(c)(10)(B) of this title”.
 
 1994—Subsec. (f)(1), (2). Pub. L. 103–389, §2(a), added pars. (1) and (2) and struck out former pars. (1) and (2) which related to extension of unlisted trading privileges for securities originally listed on another national exchange and approval process for application for extension of such privileges, respectively.
@@ -232,7 +240,7 @@ Subsec. (f)(3). Pub. L. 103–389, §2(b), substituted “Notwithstanding paragr
 
 1987—Subsec. (m). Pub. L. 100–181 struck out subsec. (m) which read as follows: “The Commission is authorized and directed to make a study and investigation of the practice of recording the ownership of securities in the records of the issuer in other than the name of the beneficial owner of such securities to determine (1) whether such practice is consistent with the purposes of this chapter, with particular reference to subsection (g) of this section and sections 78m, 78n, 78<i>o</i>(d), 78p, and 78q–1 of this title, and (2) whether steps can be taken to facilitate communications between issuers and the beneficial owners of their securities while at the same time retaining the benefits of such practice. The Commission shall report to the Congress its preliminary findings within six months after June 4, 1975, and its final conclusions and recommendations within one year of such date.”
 
-1986—Subsec. (g)(2)(H). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal RevenueCode of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+1986—Subsec. (g)(2)(H). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 1975—Subsec. (f)(1). Pub. L. 94–29, §8(1), added subpar. (C) and in provisions following subpar. (C), substituted “is based” for “was originally based” and “remains listed and registered on a national securities exchange” for “shall remain listed and registered on any other national securities exchange”.
 
@@ -292,21 +300,7 @@ Amendment by act Aug. 10, 1954, effective 60 days after Aug. 10, 1954, see note 
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
-#### Cross References
-
-Applications for unlisted trading privileges deemed filed and approved, see section 78<i>l</i>–1 of this title.
-
-Cooperative association defined under Agricultural Marketing Act, as amended, see section 1141j of Title 12, Banks and Banking.
-
-Effective date, see sections 78hh and 78hh–1 of this title.
-
-Issue of securities by electric utility company engaged in interstate commerce, see section 824c of Title 16, Conservation.
-
-Periodical and other reports, see section 78m of this title.
-
-Review by Commission of actions with respect to delegation of its functions, see section 78d–1 of this title.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 77t, 78c, 78d–1, 78k–1, 78<i>l–</i>1, 78m, 78n, 78<i>o</i>, 78p, 78q–1, 78u, 78dd–1, 78hh, 78hh–1, 80a–53, 3904 of this title; title 12 section 3305; title 16 section 824c; title 26 sections 162, 409; title 42 section 9675; title 43 section 1625.
+This section is referred to in sections 77t, 78c, 78d–1, 78f, 78k–1, 78<i>l–</i>1, 78m, 78n, 78<i>o</i>, 78p, 78q–1, 78u, 78dd–1, 78hh, 78hh–1, 80a–53, 3904 of this title; title 7 sections 1a, 2; title 12 section 3305; title 16 section 824c; title 26 sections 162, 409; title 42 section 9675; title 43 section 1625.
 

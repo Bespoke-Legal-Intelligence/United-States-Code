@@ -16,5 +16,3 @@ Chapter IV of the convention, referred to in subsec. (a), contains the Arbitrati
 
 The Federal Arbitration Act, referred to in subsec. (a), is classified generally to Title 9, Arbitration.
 
-start
-

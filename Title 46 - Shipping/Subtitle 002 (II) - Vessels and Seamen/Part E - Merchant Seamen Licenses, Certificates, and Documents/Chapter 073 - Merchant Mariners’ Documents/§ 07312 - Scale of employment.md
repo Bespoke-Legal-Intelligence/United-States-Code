@@ -10,7 +10,7 @@
 
 &emsp;(2) not more than 50 percent of the number of able seamen required on board other vessels.
 
-(d) Individuals qualified as able seamen—offshore supply vessels under section 7310 of thistitle may constitute all of the able seamen required on board a vessel of less than 500 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title engaged in support of exploration, exploitation, or production of offshore mineral or energy resources.
+(d) Individuals qualified as able seamen—offshore supply vessels under section 7310 of this title may constitute all of the able seamen required on board a vessel of less than 500 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title engaged in support of exploration, exploitation, or production of offshore mineral or energy resources.
 
 (e) When the service of able seamen—limited or able seamen—special is authorized for only a part of the required number of able seamen on board a vessel, the combined percentage of those individuals so qualified may not be greater than 50 percent of the required number.
 

@@ -42,7 +42,7 @@ The Secretary may subject to forfeiture and denial of property rights any nonfoo
 
 #### (3) Interest of owner
 
-&emsp;No interest in property shall be forfeited under this subsection as the result of any act or omission established by the owner of the interest to have been committed or omitted without the knowledge or consent of the owner.
+&emsp;No interest in property shall be forfeited under this subsection as the result of any actor omission established by the owner of the interest to have been committed or omitted without the knowledge or consent of the owner.
 
 #### (4) Proceeds
 

@@ -64,9 +64,3 @@ A prior section 3068, acts Aug. 10, 1956, ch. 1041, 70A Stat. 168; Sept. 7, 1962
 
 1982—Par. (5). Pub. L. 97–295 redesignated cls. (a), (b), (c), (d), and (e) as subpars. (A), (B), (C), (D), and (E), respectively.
 
-#### Cross References
-
-Chiefs of branches generally, see section 3036 of this title.
-
-Deputy and assistant chiefs of branches, see section 3039 of this title.
-

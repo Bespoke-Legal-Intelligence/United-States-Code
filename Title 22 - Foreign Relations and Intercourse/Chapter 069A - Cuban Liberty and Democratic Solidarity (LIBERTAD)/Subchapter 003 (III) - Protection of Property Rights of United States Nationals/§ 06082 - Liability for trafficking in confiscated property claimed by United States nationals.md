@@ -58,7 +58,7 @@
 
 &emsp;(A) Except as otherwise provided in this paragraph, actions may be brought under paragraph (1) with respect to property confiscated before, on, or after March 12, 1996.
 
-&emsp;(B) In the case of property confiscated before March 12, 1996, a United States national may not bring an action under this section on a claim to the confiscated property unless suchnational acquires ownership of the claim before March 12, 1996.
+&emsp;(B) In the case of property confiscated before March 12, 1996, a United States national may not bring an action under this section on a claim to the confiscated property unless such national acquires ownership of the claim before March 12, 1996.
 
 &emsp;(C) In the case of property confiscated on or after March 12, 1996, a United States national who, after the property is confiscated, acquires ownership of a claim to the property by assignment for value, may not bring an action on the claim under this section.
 
@@ -114,13 +114,13 @@ In an action brought under this section, any judgment against an agency or instr
 
 &emsp;&emsp;(A) any United States national that brings an action under this section may not bring any other civil action or proceeding under the common law, Federal law, or the law of any of the several States, the District of Columbia, or any commonwealth, territory, or possession of the United States, that seeks monetary or nonmonetary compensation by reason of the same subject matter; and
 
-&emsp;&emsp;(B) any person who brings, under the common law or any provision of law other than this section, a civil action or proceeding for monetary or nonmonetary compensation arising out of a claim for which an action would otherwise be cognizable under thissection may not bring an action under this section on that claim.
+&emsp;&emsp;(B) any person who brings, under the common law or any provision of law other than this section, a civil action or proceeding for monetary or nonmonetary compensation arising out of a claim for which an action would otherwise be cognizable under this section may not bring an action under this section on that claim.
 
 #### (2) Treatment of certified claimants
 
 &emsp;(A) In the case of any United States national that brings an action under this section based on a claim certified under title V of the International Claims Settlement Act of 1949 \[22 U.S.C. 1643 et seq.\]—
 
-&emsp;&emsp;(i) if the recovery in the action is equal to or greater than the amount of the certified claim, the United States national may not receive payment on the claim under any agreement entered into between the United States and Cuba settling claims covered by such title, and such national shall be deemed to have discharged the United States from any further responsibility to represent the United States national with respect to that claim;
+&emsp;&emsp;(i) if the recovery in the action is equal to or greater than the amount of the certified claim, the United States national may notreceive payment on the claim under any agreement entered into between the United States and Cuba settling claims covered by such title, and such national shall be deemed to have discharged the United States from any further responsibility to represent the United States national with respect to that claim;
 
 &emsp;&emsp;(ii) if the recovery in the action is less than the amount of the certified claim, the United States national may receive payment under a claims agreement described in clause (i) but only to the extent of the difference between the amount of the recovery and the amount of the certified claim; and
 

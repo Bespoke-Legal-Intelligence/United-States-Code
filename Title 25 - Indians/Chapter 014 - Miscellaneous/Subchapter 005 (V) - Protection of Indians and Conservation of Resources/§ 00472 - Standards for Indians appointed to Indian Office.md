@@ -16,12 +16,6 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 Status of Indian appointed to Federal service under excepted appointment to be converted to career appointment in competitive service after three years of continuous service and satisfactory performance, see section 450i(m) of this title.
 
-#### Cross References
-
-Employment of Indians, see sections 44, 45, 46, 47 of this title.
-
-Right-of-way grant, consent of tribal officials, see section 324 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 450i, 472a, 473, 1661, 2012 of this title; title 5 section 8336.

@@ -240,7 +240,7 @@
 
 #### (f) Report by Commission
 
-(1) The Commission shall submit to the President a report on each investigation undertakenunder subsection (b) of this section. The report shall be submitted at the earliest practicable time, but not later than 180 days (240 days if the petition alleges that critical circumstances exist) after the date on which the petition is filed, the request or resolution is received, or the motion is adopted, as the case may be.
+(1) The Commission shall submit to the President a report on each investigation undertaken under subsection (b) of this section. The report shall be submitted at the earliest practicable time, but not later than 180 days (240 days if the petition alleges that critical circumstances exist) after the date on which the petition is filed, the request or resolution is received, or the motion is adopted, as the case may be.
 
 (2) The Commission shall include in the report required under paragraph (1) the following:
 
@@ -384,7 +384,7 @@ The Uruguay Round Agreements, including the World Trade Organization Agreement a
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1330, 2251, 2253, 2254, 2274, 2354, 2436, 2703, 3203, 3352, 3353, 3381, 3602 of this title.
+This section is referred to in sections 1330, 2251, 2253, 2254, 2274, 2354, 2436, 2451, 2451a, 2703, 3203, 3352, 3353, 3381, 3602 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
 

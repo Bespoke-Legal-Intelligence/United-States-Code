@@ -34,7 +34,7 @@ For purposes of this subchapter, the term “export promotion program” means a
 
 (1) Notwithstanding the provisions of section 501 of title 44, and consistent with other applicable law, the Secretary of Commerce, in carrying out any export promotion program, may authorize—
 
-&emsp;(A) the printing, distribution, and sale of documents outside the contiguous UnitedStates, if the Secretary finds that the implementation of such export promotion program would be more efficient, and if such documents will be distributed primarily and sold exclusively outside the United States; and
+&emsp;(A) the printing, distribution, and sale of documents outside the contiguous United States, if the Secretary finds that the implementation of such export promotion program would be more efficient, and if such documents will be distributed primarily and sold exclusively outside the United States; and
 
 &emsp;(B) the acceptance of private notices and advertisements in connection with the printing and distribution of such documents.
 

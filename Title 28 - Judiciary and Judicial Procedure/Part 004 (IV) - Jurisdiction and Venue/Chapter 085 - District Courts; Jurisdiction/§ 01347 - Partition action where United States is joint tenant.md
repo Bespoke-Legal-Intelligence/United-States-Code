@@ -14,14 +14,6 @@ Words “civil action” were substituted for “suits in equity,” in view of 
 
 A change was made in phraseology.
 
-#### Cross References
-
-Amount in controversy immaterial in action under this section, see Historical and Revision Notes under section 1331 of this title.
-
-Diversity of citizenship immaterial in action under this section, see Historical and Revision Notes under section 1332 of this title.
-
-Venue of action for partition of lands where United States is tenant in common or joint tenant, see section 1399 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 2409a of this title.

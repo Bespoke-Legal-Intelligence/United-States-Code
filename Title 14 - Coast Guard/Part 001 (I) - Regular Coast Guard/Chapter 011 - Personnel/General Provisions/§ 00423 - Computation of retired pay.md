@@ -74,16 +74,6 @@ Amendment by Pub. L. 88–132 effective Oct. 1, 1963, see section 14 of Pub. L. 
 
 Amendment by Pub. L. 85–422 effective June 1, 1958, see section 9 of Pub. L. 85–422.
 
-#### Cross References
-
-Commissioned officers, reduction of retired pay during reemployment, see section 5532 of Title 5, Government Organization and Employees.
-
-Enlisted members, generally, see section 353 et seq. of this title.
-
-Lighthouse Service, personnel of former Lighthouse Service, see section 432 of this title.
-
-Pay grades for basic pay purposes, see section 201 of Title 37, Pay and Allowances of the Uniformed Services.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 288, 357 of this title; title 10 section 1406.

@@ -12,7 +12,7 @@ No contract for the procurement of a commercial item entered into by the head of
 
 #### Effective Date
 
-For effective date and applicability of section, see section 10001 of Pub. L. 103–355, set out as an Effective Date of 1994 Amendment note under section 251 of this title.
+For effective date and applicability of section, see section 10001 of Pub. L. 103–355, set out as an EffectiveDate of 1994 Amendment note under section 251 of this title.
 
 #### Regulations
 

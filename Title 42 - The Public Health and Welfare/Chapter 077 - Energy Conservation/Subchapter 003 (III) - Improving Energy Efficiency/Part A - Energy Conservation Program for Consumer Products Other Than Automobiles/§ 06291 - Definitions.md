@@ -38,7 +38,7 @@ For purposes of this part:
 
 &emsp;(12) The term “manufacturer” means any person who manufactures a consumer product.
 
-&emsp;(13) The term “retailer” means a person to whom a consumer product is delivered or sold, if such delivery or sale is for purposes of sale or distribution in commerce to purchasers who buy such product for purposes other than resale.
+&emsp;(13) The term “retailer” means a person to whom a consumer product is delivered or sold, if such delivery or sale is for purposes of saleor distribution in commerce to purchasers who buy such product for purposes other than resale.
 
 &emsp;(14) The term “distributor” means a person (other than a manufacturer or retailer) to whom a consumer product is delivered or sold for purposes of distribution in commerce.
 
@@ -118,7 +118,7 @@ For purposes of this part:
 
 &emsp;(27) The term “water heater” means a product which utilizes oil, gas, or electricity to heat potable water for use outside the heater upon demand, including—
 
-&emsp;&emsp;(A) storage type units which heat and store water at a thermostatically controlled temperature, including gas storage water heaters with an input of 75,000 Btu per hour or less, oil storage water heaters with an input of 105,000 Btu per hour or less, and electric storage water heaters with an input of 12 kilowatts or less;
+&emsp;&emsp;(A) storage type units which heat and store water at a thermostatically controlled temperature, including gas storage water heaters with an input of 75,000 Btu per hour or less, oil storage water heaters with an input of 105,000 Btu per hour or less, andelectric storage water heaters with an input of 12 kilowatts or less;
 
 &emsp;&emsp;(B) instantaneous type units which heat water but contain no more than one gallon of water per 4,000 Btu per hour of input, including gas instantaneous water heaters with an input of 200,000 Btu per hour or less, oil instantaneous water heaters with an input of 210,000 Btu per hour or less, and electric instantaneous water heaters with an input of 12 kilowatts or less; and
 
@@ -130,7 +130,7 @@ For purposes of this part:
 
 &emsp;(B) The term “ANSI standard” means a standard developed by a committee accredited by the American National Standards Institute.
 
-&emsp;(C) The term “ballast efficacy factor” means the relative light output divided by the power input of a fluorescent lamp ballast, as measured under test conditions specified in ANSIstandard C82.2–1984, or as may be prescribed by the Secretary.
+&emsp;(C) The term “ballast efficacy factor” means the relative light output divided by the power input of a fluorescent lamp ballast, as measured under test conditions specified in ANSI standard C82.2–1984, or as may be prescribed by the Secretary.
 
 &emsp;(D)(i) The term “F40T12 lamp” means a nominal 40 watt tubular fluorescent lamp which is 48 inches in length and one-and-a-half inches in diameter, and conforms to ANSI standard C78.1–1978(R1984).
 
@@ -194,7 +194,7 @@ For purposes of this part:
 
 &emsp;&emsp;(iii) Any general service incandescent lamp (commonly referred to as a high- or higher-wattage lamp) that has a rated wattage above 199 watts (above 205 watts for a high wattage reflector lamp).
 
-&emsp;(D) The term “general service incandescent lamp” means any incandescent lamp (otherthan a miniature or photographic lamp) that has an E26 medium screw base, a rated voltage range at least partially within 115 and 130 volts, and which can be used to satisfy the majority of lighting applications, but does not include any lamps specifically designed for—
+&emsp;(D) The term “general service incandescent lamp” means any incandescent lamp (other than a miniature or photographic lamp) that has an E26 medium screw base, a rated voltage range at least partially within 115 and 130 volts, and which can be used to satisfy the majority of lighting applications, but does not include any lamps specifically designed for—
 
 &emsp;&emsp;(i) traffic signal, or street lighting service;
 
@@ -280,7 +280,7 @@ For purposes of this part:
 
 #### References in Text
 
-This chapter, referred to in subsec. (a)(3), was in the original “this Act”, meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended, known as the Energy Policy and Conservation Act. For complete classificationof this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
+This chapter, referred to in subsec. (a)(3), was in the original “this Act”, meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
 
 #### Amendments
 

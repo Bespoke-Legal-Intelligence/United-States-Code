@@ -12,7 +12,3 @@ The Federal Property and Administrative Services Act of 1949, as amended, referr
 
 1951—Act Oct. 31, 1951, inserted reference to applicable regulations of the Federal Property and Administrative Services Act of 1949, as amended, at beginning of section; struck out “net” before “proceeds” in clause immediately following first semicolon; and, in proviso, substituted “the net proceeds” for “such proceeds”.
 
-#### Cross References
-
-Proceeds from transfer, sale, etc., of property, see section 485 of Title 40, Public Buildings, Property, and Works.
-

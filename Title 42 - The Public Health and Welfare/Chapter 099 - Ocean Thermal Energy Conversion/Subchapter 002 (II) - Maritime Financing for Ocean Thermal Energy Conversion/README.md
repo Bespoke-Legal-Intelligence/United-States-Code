@@ -1,5 +1,7 @@
 ### SUBCHAPTER II—MARITIME FINANCING FOR OCEAN THERMAL ENERGY CONVERSION
 
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
 
 ---
 

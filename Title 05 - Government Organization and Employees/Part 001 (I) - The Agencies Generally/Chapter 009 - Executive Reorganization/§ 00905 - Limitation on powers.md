@@ -82,7 +82,7 @@ Subsec. (b). Pub. L. 98–614, §2(a), substituted “(in accordance with sectio
 
 1977—Subsec. (a)(1). Pub. L. 95–17 substituted “an executive department or independent regulatory agency,” for “an Executive department” and “or more executive departments or two or more independent regulatory agencies,” for “or more Executive departments”.
 
-Subsec. (a)(6), (7). Pub. L. 95–17 redesignated par. (7) as (6). Former par. (6), which related to limitation on reorganization plans that have effect of transferring toor consolidating with another agency the government of the District of Columbia or all the functions thereof which are subject to this chapter, or abolishing that government or all those functions, was struck out.
+Subsec. (a)(6), (7). Pub. L. 95–17 redesignated par. (7) as (6). Former par. (6), which related to limitation on reorganization plans that have effect of transferring to or consolidating with another agency the government of the District of Columbia or all the functions thereof which are subject to this chapter, or abolishing that government or all those functions, was struck out.
 
 Subsec. (b). Pub. L. 95–17 substituted “within three years of the date of enactment of the Reorganization Act of 1977” for “before April 1, 1973”.
 

@@ -6,15 +6,11 @@ The owners or consignees of every armed vessel sailing out of the ports of, or u
 
 #### Codification
 
-Section was formerly classified to section 28 of title 18 prior to the general revision and enactment of Title18, Crimes and Criminal Procedure, by act June 25, 1948, ch. 645, §1, 62 Stat. 683.
+Section was formerly classified to section 28 of title 18 prior to the general revision and enactment of Title 18, Crimes and Criminal Procedure, by act June 25, 1948, ch. 645, §1, 62 Stat. 683.
 
 #### Prior Provisions
 
 Section was derived from R.S. §5289 (act Apr. 20, 1818, ch. 88, §10, 3 Stat. 449), which was repealed by section 341 of act Mar. 4, 1909.
-
-#### Cross References
-
-This section as inapplicable to vessels armed under section 351 of Title 10, see section 351 of Title 10, Armed Forces.
 
 #### Section Referred to in Other Sections
 

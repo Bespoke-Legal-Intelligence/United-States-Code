@@ -6,7 +6,7 @@ An Indian tribe shall have jurisdiction exclusive as to any State over any child
 
 #### (b) Transfer of proceedings; declination by tribal court
 
-In any State court proceeding for the foster care placement of, or termination of parental rights to, an Indian child not domiciled or residing within the reservation of the Indian child's tribe, the court, in the absence of good cause to the contrary, shall transfer such proceeding to the jurisdiction of the tribe, absent objection by either parent, upon the petition of either parent or the Indian custodian or the Indian child'stribe: <i>Provided</i>, That such transfer shall be subject to declination by the tribal court of such tribe.
+In any State court proceeding for the foster care placement of, or termination of parental rights to, an Indian child not domiciled or residing within the reservation of the Indian child's tribe, the court, in the absence of good cause to the contrary, shall transfer such proceeding to the jurisdiction of the tribe, absent objection by either parent, upon the petition of either parent or the Indian custodian or the Indian child's tribe: <i>Provided</i>, That such transfer shall be subject to declination by the tribal court of such tribe.
 
 #### (c) State court proceedings; intervention
 

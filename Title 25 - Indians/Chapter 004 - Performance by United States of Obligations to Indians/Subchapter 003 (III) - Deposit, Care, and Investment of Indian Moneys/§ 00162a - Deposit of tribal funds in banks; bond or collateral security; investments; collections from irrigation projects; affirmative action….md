@@ -82,7 +82,7 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 155b, 1300i–3, 1724, 1754, 1773d, 1776h, 4011 of this title.
+This section is referred to in sections 155b, 1300i–3, 1724, 1754, 1773d, 1776h, 1777c, 4011 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “earnings”.</i>
 

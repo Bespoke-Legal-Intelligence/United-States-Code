@@ -2,7 +2,7 @@
 
 (a) Whoever, with intent or reason to believe that it is to be used to the injury of the United States or to the advantage of a foreign nation, communicates, delivers, or transmits, or attempts to communicate, deliver, or transmit, to any foreign government, or to any faction or party or military or naval force within a foreign country, whether recognized or unrecognized by the United States, or to any representative, officer, agent, employee, subject, or citizen thereof, either directly or indirectly, any document, writing, code book, signal book, sketch, photograph, photographic negative, blueprint, plan, map, model, note, instrument, appliance, or information relating to the national defense, shall be punished by death or by imprisonment for any term of years or for life, except that the sentence of death shall not be imposed unless the jury or, if there is no jury, the court, further finds that the offense resulted in the identification by a foreign power (as defined in section 101(a) of the Foreign Intelligence Surveillance Act of 1978) of an individual acting as an agent of the United States and consequently in the death of that individual, or directly concerned nuclear weaponry, military spacecraft or satellites, early warning systems, or other means of defense or retaliation against large-scale attack; war plans; communications intelligence or cryptographic information; or any other major weapons system or major element of defense strategy.
 
-(b) Whoever, in time of war, with intent that the same shall be communicated to the enemy,collects, records, publishes, or communicates, or attempts to elicit any information with respect to the movement, numbers, description, condition, or disposition of any of the Armed Forces, ships, aircraft, or war materials of the United States, or with respect to the plans or conduct, or supposed plans or conduct of any naval or military operations, or with respect to any works or measures undertaken for or connected with, or intended for the fortification or defense of any place, or any other information relating to the public defense, which might be useful to the enemy, shall be punished by death or by imprisonment for any term of years or for life.
+(b) Whoever, in time of war, with intent that the same shall be communicated to the enemy, collects, records, publishes, or communicates, or attempts to elicit any information with respect to the movement, numbers, description, condition, or disposition of any of the Armed Forces, ships, aircraft, or war materials of the United States, or with respect to the plans or conduct, or supposed plans or conduct of any naval or military operations, or with respect to any works or measures undertaken for or connected with, or intended for the fortification or defense of any place, or any other information relating to the public defense, which might be useful to the enemy, shall be punished by death or by imprisonment for any term of years or for life.
 
 (c) If two or more persons conspire to violate this section, and one or more of such persons do any act to effect the object of the conspiracy, each of the parties to such conspiracy shall be subject to the punishment provided for the offense which is the object of such conspiracy.
 
@@ -77,24 +77,6 @@ Section 6 of Joint Res. July 3, 1952, repealed Joint Res. Apr. 14, 1952, ch. 204
 #### Indictment for Violating This Section; Limitation Period
 
 Limitation period in connection with indictments for violating this section, see note set out under section 792 of this title.
-
-#### Canal Zone
-
-Applicability of section to Canal Zone, see section 14 of this title.
-
-#### Cross References
-
-Classified information, disclosure by Government official or other person, penalty for, see section 783 of Title 50, War and National Defense, and section 798 of this title.
-
-Conspiracy to commit offense generally, see section 371 of this title.
-
-Federal retirement benefits, forfeiture upon conviction of offenses described under this section, see section 8312 of Title 5, Government Organization and Employees.
-
-Forfeiture of veterans’ benefits upon conviction under this section, see section 6105 of Title 38, Veterans’ Benefits.
-
-Jurisdiction of offenses, see section 3241 of this title.
-
-Letters, writings, etc., in violation of this section as nonmailable, see section 1717 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -44,7 +44,7 @@ Except as provided in subsections (c) and (d) of this section, acquisition of st
 
 The President may acquire leasehold interests in property, for periods not in excess of twenty years, for storage, security, and maintenance of materials in the stockpile.
 
-(June 7, 1939, ch. 190, §6, as added Pub. L. 96–41, §2(a), July 30, 1979, 93 Stat. 321; amended Pub. L. 97–35, title II, §203(c), Aug. 13, 1981, 95 Stat. 382; Pub. L. 99–661, div. C, title II, §3207(b), Nov. 14, 1986, 100 Stat. 4069; Pub. L. 101–189, div. C, title XXXIII, §3314, Nov. 29, 1989, 103 Stat. 1688; Pub. L. 101–510, div. C, title XXXIII, §3301(a), (b), Nov. 5, 1990, 104 Stat. 1844; Pub. L. 102–190, div. C, title XXXIII, §3312, Dec. 5, 1991, 105 Stat. 1584; Pub. L. 103–337, div. C, title XXXIII, §3302, Oct. 5, 1994, 108 Stat. 3098; Pub. L. 104–106, div. A, title XV, §1502(e)(1), Feb. 10, 1996, 110 Stat. 509; Pub. L. 104–201, div. C, title XXXIII, §3312(b), (c), Sept. 23, 1996, 110 Stat. 2857; Pub. L. 105–85, div. C, title XXXIII, §3306, Nov. 18, 1997, 111 Stat. 2058; Pub. L. 106–65, div. A, title X, §1067(13), Oct. 5, 1999, 113 Stat. 775.)
+(June 7, 1939, ch. 190, §6, as added Pub. L. 96–41, §2(a), July 30, 1979, 93 Stat. 321; amended Pub. L. 97–35, title II, §203(c), Aug. 13, 1981, 95 Stat. 382; Pub. L. 99–661, div. C, title II, §3207(b), Nov. 14, 1986, 100 Stat. 4069; Pub. L. 101–189, div. C, title XXXIII, §3314, Nov. 29, 1989, 103 Stat. 1688; Pub.L. 101–510, div. C, title XXXIII, §3301(a), (b), Nov. 5, 1990, 104 Stat. 1844; Pub. L. 102–190, div. C, title XXXIII, §3312, Dec. 5, 1991, 105 Stat. 1584; Pub. L. 103–337, div. C, title XXXIII, §3302, Oct. 5, 1994, 108 Stat. 3098; Pub. L. 104–106, div. A, title XV, §1502(e)(1), Feb. 10, 1996, 110 Stat. 509; Pub. L. 104–201, div. C, title XXXIII, §3312(b), (c), Sept. 23, 1996, 110 Stat. 2857; Pub. L. 105–85, div. C, title XXXIII, §3306, Nov. 18, 1997, 111 Stat. 2058; Pub. L. 106–65, div. A, title X, §1067(13), Oct. 5, 1999, 113 Stat. 775.)
 
 #### Prior Provisions
 
@@ -89,10 +89,6 @@ Subsec. (d)(1). Pub. L. 101–189, §3314(2), substituted “paragraph (1) or (2
 #### Delegation of Functions
 
 Functions of President under this section delegated to Secretary of Defense by section 1 of Ex. Ord. No. 12636, Feb. 25, 1988, 53 F.R. 6114, set out under section 98 of this title.
-
-#### Acquisition of Germanium for National Defense Stockpile
-
-Pub. L. 102–172, title VIII, §8094, Nov. 26, 1991, 105 Stat. 1196, provided that: “Using funds available in the National Defense Stockpile Transaction Fund, during the period of fiscal years 1992 through 1994 and using procedures covered by section 3301 of the National Defense Authorization Act, 1991 (Public Law 101–510; 104 Stat. 1844–45) \[amending this section and section 98h of this title\], the President may acquire 50,000 kilograms of germanium to be held in the National Defense Stockpile.”
 
 #### Acquisition of Depleted Uranium for National Defense Stockpile
 

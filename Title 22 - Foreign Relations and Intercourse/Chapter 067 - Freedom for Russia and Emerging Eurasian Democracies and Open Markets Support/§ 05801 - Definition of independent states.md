@@ -6,7 +6,7 @@ For purposes of this Act, the terms “independent states of the former Soviet U
 
 #### References in Text
 
-This Act, referred to in text, is Pub. L. 102–511, Oct. 24, 1992, 106 Stat. 3320, as amended, known as the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992 and also as the FREEDOM Support Act. For complete classification of this Act to the Code, see Short Title note below and Tables.
+This Act, referred to in text, is Pub. L. 102–511, Oct. 24, 1992, 106 Stat. 3320, as amended, known as the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992 and also as the FREEDOM Support Act. For complete classification ofthis Act to the Code, see Short Title note below and Tables.
 
 #### Short Title of 1993 Amendment
 
@@ -64,7 +64,7 @@ Findings and Affirmation.—The Congress finds and affirms that provisions such 
 
 &emsp;“(3) section 1222 of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989 (Public Law 100–204; 101 Stat. 1411 \[1414\]),
 
-&emsp;“(4) the Multilateral Export Control Enhancement Amendments Act \[see Short Title of 1988 Amendment note set out under section 2410 of Title 50, App., War and National Defense\] (50 \[App.\] U.S.C. 2410 note, et seq.),
+&emsp;“(4) the Multilateral Export Control Enhancement Amendments Act \[see Short Title of 1988 Amendmentnote set out under section 2410 of Title 50, App., War and National Defense\] (50 \[App.\] U.S.C. 2410 note, et seq.),
 
 &emsp;“(5) the joint resolution providing for the designation of ‘Captive Nations Week’ (Public Law 86–90) \[73 Stat. 212\],
 
@@ -84,7 +84,7 @@ Pub. L. 103–199, §3, Dec. 17, 1993, 107 Stat. 2318, provided that: “As used
 
 #### Act Referred to in Other Sections
 
-The Freedom for Russian and Emerging Eurasian Democracies and Open Markets Support Act of 1992, also known as the FREEDOM Support Act, is referred to in sections 2296e, 2421d, 5958 of this title.
+The Freedom for Russian and Emerging Eurasian Democracies and Open Markets Support Act of 1992, also known as the FREEDOM Support Act, is referred to in sections 2152a, 2296e, 2349bb–4, 2421d, 5958 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -30,12 +30,6 @@ Subsec. (c). Pub. L. 92–417 incorporated provisions of last sentence of former
 
 1960—Subsec. (b). Pub. L. 86–533 repealed subsec. (b) which required the Secretary of the Treasury to report to the Congress the payment of claims determined, compromised, settled, or paid.
 
-#### Cross References
-
-Aircraft deemed public aircraft, see section 828 of this title.
-
-Vessel deemed public vessel, see section 827 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 827, 828 of this title.

@@ -4,10 +4,6 @@ In selling any parcel of land under sections 72c to 72e and 74a to 74c said Secr
 
 (Aug. 5, 1939, ch. 449, §5, 53 Stat. 1211.)
 
-#### Codification
-
-Section is also set out in D.C. Code, §9–405.
-
 #### Repeals
 
 For repeal, see note under section 74a of this title.

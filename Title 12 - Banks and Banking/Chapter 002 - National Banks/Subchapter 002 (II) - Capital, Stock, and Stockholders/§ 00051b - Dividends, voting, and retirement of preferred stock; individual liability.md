@@ -16,10 +16,6 @@
 
 Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
 
-#### Cross References
-
-Right to amend, separability of provisions, see section 212 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 51c, 62, 212, 213 of this title.

@@ -22,3 +22,7 @@ July 14, 1960, Pub. L. 86–653, §15, 74 Stat. 518.
 
 The words “covering such fiscal year” are omitted as unnecessary.
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of reporting provisions in this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 198 of House Document No. 103–7.
+

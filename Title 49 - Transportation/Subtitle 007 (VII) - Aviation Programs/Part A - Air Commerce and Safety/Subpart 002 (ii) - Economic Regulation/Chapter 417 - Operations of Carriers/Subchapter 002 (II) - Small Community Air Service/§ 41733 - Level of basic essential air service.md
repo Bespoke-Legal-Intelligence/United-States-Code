@@ -32,9 +32,9 @@ Compensation Payments.—The Secretary shall pay compensation under this section
 
 (e)
 
-Review.—The Secretary shall review periodically the level of basic essential air service for each eligible place. Based on the review and consultations with an interested community and the appropriate State authority of the State in which the community is located, the Secretary may make appropriate adjustments in the level of service.
+Review.—The Secretary shall review periodically the level of basic essential air service for each eligible place. Based on the review and consultations with an interested community and the appropriate State authority of the State in which the community is located, the Secretary may make appropriate adjustments in the level of service, to the extent such adjustments are to a level not less than the basic essential air service level established under subsection (a) for the airport that serves the community.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1145.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1145; Pub. L. 106–181, title II, §209(b), Apr. 5, 2000, 114 Stat. 95.)
 
 Historical and Revision Notes
 
@@ -83,6 +83,18 @@ In subsection (c)(1), before clause (A), the words “an air carrier may apply t
 #### References in Text
 
 Section 419 of the Federal Aviation Act of 1958, referred to in subsec. (a), is section 419 of Pub. L. 85–726, which was classified to section 1389 of former Title 49, Transportation, and was repealed and reenacted as this subchapter by Pub. L. 103–272, §§1(e), 7(b), July 5, 1994, 108 Stat. 1143, 1379.
+
+#### Amendments
+
+2000—Subsec. (e). Pub. L. 106–181 inserted before period at end “, to the extent such adjustments are to a level not less than the basic essential air service level established under subsection (a) for the airport that serves the community”.
+
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
+
+#### Effect on Certain Orders
+
+Pub. L. 106–181, title II, §209(c), Apr. 5, 2000, 114 Stat. 95, provided that: “All orders issued by the Secretary \[of Transportation\] after September 30, 1999, and before the date of the enactment of this Act \[Apr. 5, 2000\] establishing, modifying, or revoking essential air service levels shall be null and void beginning on the 90th day following such date of enactment. During the 90-day period, the Secretary shall reconsider such orders and shall issue new orders consistent with the amendments made by this section \[amending this section and section 41742 of this title\].”
 
 #### Section Referred to in Other Sections
 

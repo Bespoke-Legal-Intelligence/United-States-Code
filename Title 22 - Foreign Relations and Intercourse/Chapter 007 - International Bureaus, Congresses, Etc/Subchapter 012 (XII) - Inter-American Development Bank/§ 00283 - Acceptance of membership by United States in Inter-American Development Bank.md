@@ -6,7 +6,7 @@ The President is hereby authorized to accept membership for the United States in
 
 #### Short Title
 
-Section 1 of Pub. L. 86–147 provided that: “This Act \[enacting this subchapter and amending section 24 ofTitle 12, Banks and Banking\] may be cited as the ‘Inter-American Development Bank Act’.”
+Section 1 of Pub. L. 86–147 provided that: “This Act \[enacting this subchapter and amending section 24 of Title 12, Banks and Banking\] may be cited as the ‘Inter-American Development Bank Act’.”
 
 #### Proposals for Joint Act by Participants in Inter-American Development Bank for Increased Exploration and Exploitation of Energy and Mineral Resources of Western Hemisphere
 
@@ -15,8 +15,4 @@ Pub. L. 96–259, title I, §102, June 3, 1980, 94 Stat. 430, which required Pre
 #### Par Value Modification
 
 For Congressional direction that the Secretary of the Treasury maintain the value in terms of gold of the Inter-American Development Bank's holdings of United States dollars following the establishment of a par value of the dollar at $38 for a fine troy ounce of gold pursuant to the Par Value Modification Act and for the authorization of the appropriations necessary to provide such maintenance of value, see section 5152 of Title 31, Money and Finance.
-
-#### Cross References
-
-Advancement of human rights through United States assistance policies with international financial institutions, see section 262d of this title.
 

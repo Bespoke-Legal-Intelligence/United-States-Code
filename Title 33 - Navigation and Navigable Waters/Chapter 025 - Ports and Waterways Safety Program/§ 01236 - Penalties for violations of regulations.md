@@ -10,7 +10,7 @@ For any violation of regulations issued pursuant to sections 1233 to 1235 of thi
 
 (d) Any other person shall be liable to a penalty of $2,500.
 
-The Commandant of the Coast Guard is authorized and empowered to mitigate or remitany penalty herein provided for in the manner prescribed by law for the mitigation or remission of penalties for violation of the navigation laws.
+The Commandant of the Coast Guard is authorized and empowered to mitigate or remit any penalty herein provided for in the manner prescribed by law for the mitigation or remission of penalties for violation of the navigation laws.
 
 (Apr. 28, 1908, ch. 151, §4, 35 Stat. 69; Mar. 4, 1913, ch. 141, §1, 37 Stat. 736; 1946 Reorg. Plan No. 3, §§101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097; Pub. L. 101–380, title IV, §4302(k), Aug. 18, 1990, 104 Stat. 539.)
 
@@ -36,7 +36,7 @@ Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 
 
 Coast Guard transferred to Department of Transportation, and all functions, powers, and duties relating to Coast Guard of Secretary of the Treasury and of other officers and offices of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, §6(b)(1), Oct. 15, 1966, 80 Stat. 938. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in section 3 of Title 14, Coast Guard. See section 108 of Title 49, Transportation.
 
-For transfer of functions of other officers, employees, and agencies of Department of the Treasury, with certain exceptions, to Secretary of the Treasury with power to delegate, see Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. Functions of Coast Guard, and Commandant of Coast Guard, were excepted from transfer when Coast Guard is operating as part of Navy under sections 1 and 3 of Title 14.
+For transfer of functions of other officers, employees, and agencies of Department of the Treasury, with certain exceptions, to Secretary of the Treasury with power to delegate, see Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organizationand Employees. Functions of Coast Guard, and Commandant of Coast Guard, were excepted from transfer when Coast Guard is operating as part of Navy under sections 1 and 3 of Title 14.
 
 “Commandant of the Coast Guard” substituted for “Secretary of Commerce” on authority of Reorg. Plan No. 3 of 1946, §§101–104, set out in the Appendix to Title 5.
 

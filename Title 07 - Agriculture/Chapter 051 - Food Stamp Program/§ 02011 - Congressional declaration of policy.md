@@ -1,6 +1,6 @@
 ### §2011. Congressional declaration of policy
 
-It is declared to be the policy of Congress, in order to promote the general welfare, to safeguard the health and well-being of the Nation's population by raising levels of nutrition among low-income households. Congress finds that the limited food purchasing power of low-income households contributes to hunger and malnutrition among members of such households. Congress further finds that increased utilization of food in establishing and maintaining adequate national levels of nutrition will promote the distribution in a beneficial manner of the Nation's agricultural abundance and will strengthen the Nation's agricultural economy, as well as result in more orderly marketing and distribution of foods. To alleviate such hunger and malnutrition, a food stamp program is herein authorized which will permit low-income households to obtain a more nutritious diet through normal channels of trade by increasing food purchasing power for all eligible households who apply for participation.
+It is declared to be the policy of Congress, in order to promote the general welfare, to safeguard the health and well-being of the Nation's population by raising levels of nutrition among low-income households. Congress finds that the limited food purchasing power of low-income households contributes to hunger and malnutrition among members of such households. Congress further finds that increased utilization offood in establishing and maintaining adequate national levels of nutrition will promote the distribution in a beneficial manner of the Nation's agricultural abundance and will strengthen the Nation's agricultural economy, as well as result in more orderly marketing and distribution of foods. To alleviate such hunger and malnutrition, a food stamp program is herein authorized which will permit low-income households to obtain a more nutritious diet through normal channels of trade by increasing food purchasing power for all eligible households who apply for participation.
 
 (Pub. L. 88–525, §2, Aug. 31, 1964, 78 Stat. 703; Pub. L. 91–671, §1, Jan. 11, 1971, 84 Stat. 2048; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 958.)
 
@@ -13,6 +13,10 @@ It is declared to be the policy of Congress, in order to promote the general wel
 #### Effective Date of 1977 Amendment
 
 Section 1301 of Pub. L. 95–113 provided that the amendment made by that section is effective Oct. 1, 1977.
+
+#### Short Title of 2000 Amendment
+
+Pub. L. 106–171, §1, Feb. 11, 2000, 114 Stat. 3, provided that: “This Act \[amending section 2016 of this title and enacting provisions set out as notes under section 2016 of this title\] may be cited as the ‘Electronic Benefit Transfer Interoperability and Portability Act of 2000’.”
 
 #### Short Title of 1994 Amendment
 
@@ -134,7 +138,7 @@ Reports.—Not later than July 1, 1993, the Committee shall prepare and submit, 
 
 #### Rules
 
-Pub. L. 99–198, title XV, §1583, Dec. 23, 1985, 99 Stat. 1595, provided that: “Not later than April 1, 1987, the Secretary shall issue rules to carry out the amendments made by this title \[amending sections 612c, 1431e, 2012 to 2023, and 2025 to 2029 of this title, section 49b of Title 29, Labor, and section 503 of Title 42, The Public Health and Welfare, and amending provisions set out as notes under section 612c of this title\].”
+Pub. L. 99–198, title XV, §1583, Dec. 23, 1985, 99 Stat. 1595, provided that: “Not later than April 1, 1987, the Secretary shall issue rules to carry out the amendments made by this title \[amending sections 612c, 1431e, 2012 to 2023, and 2025 to 2029 of this title, section 49b of Title 29, Labor, and section 503 of Title 42, The PublicHealth and Welfare, and amending provisions set out as notes under section 612c of this title\].”
 
 #### Implementation of 1977 Amendment; Savings Provision; Availability of Appropriated Funds; Report
 

@@ -6,7 +6,7 @@ Public-utility holding companies and their subsidiary companies are affected wit
 
 #### (b) Protection of investors and interests of consumers
 
-Upon the basis of facts disclosed by the reports of the Federal Trade Commission made pursuant to S. Res. 83 (Seventieth Congress, first session), the reports of the Committee on Interstate and Foreign Commerce, House of Representatives, made pursuant to H. Res. 59 (Seventy-second Congress, first session) and H. J. Res. 572 (Seventy-second Congress, second session) and otherwise disclosed and ascertained, it is declared that the national public interest, the interest of investors in the securities of holding companies and their subsidiary companies and affiliates, and the interest of consumers of electric energy and natural and manufactured gas, are or may be adversely affected—
+Upon the basis of facts disclosed by the reports of the Federal Trade Commission made pursuant to S. Res. 83 (Seventieth Congress, first session),the reports of the Committee on Interstate and Foreign Commerce, House of Representatives, made pursuant to H. Res. 59 (Seventy-second Congress, first session) and H. J. Res. 572 (Seventy-second Congress, second session) and otherwise disclosed and ascertained, it is declared that the national public interest, the interest of investors in the securities of holding companies and their subsidiary companies and affiliates, and the interest of consumers of electric energy and natural and manufactured gas, are or may be adversely affected—
 
 &emsp;(1) when such investors cannot obtain the information necessary to appraise the financial position or earning power of the issuers, because of the absence of uniform standard accounts; when such securities are issued without the approval or consent of the States having jurisdiction over subsidiary public-utility companies; when such securities are issued upon the basis of fictitious or unsound asset values having no fair relation to the sums invested in or the earning capacity of the properties and upon the basis of paper profits from intercompany transactions, or in anticipation of excessive revenues from subsidiary public-utility companies; when such securities are issued by a subsidiary public-utility company under circumstances which subject such company to the burden of supporting an overcapitalized structure and tend to prevent voluntary rate reductions;
 
@@ -26,19 +26,7 @@ When abuses of the character above enumerated become persistent and wide-spread 
 
 #### Change of Name
 
-Committee on Interstate and Foreign Commerce of House of Representatives changed to Committee on Energy and Commerce immediately prior to noon on Jan. 3, 1981, by House Resolution No. 549, Ninety-sixth Congress, Mar. 25, 1980. Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
-#### Cross References
-
-Findings and declaration of policy under Investment Company Act of 1940, see section 80a–1 of this title.
-
-Findings under Investment Advisers Act of 1940, see section 80b–1 of this title.
-
-Necessity for regulation under—
-
-&emsp;&emsp;Securities Exchange Act of 1934, see section 78b of this title.
-
-&emsp;&emsp;Trust Indenture Act of 1939, see section 77bbb of this title.
+Committee on Interstate and Foreign Commerce of House of Representatives changed to Committee on Energy and Commerce immediately prior to noon on Jan. 3, 1981, by House Resolution No. 549, Ninety-sixth Congress, Mar. 25, 1980. Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Section Referred to in Other Sections
 

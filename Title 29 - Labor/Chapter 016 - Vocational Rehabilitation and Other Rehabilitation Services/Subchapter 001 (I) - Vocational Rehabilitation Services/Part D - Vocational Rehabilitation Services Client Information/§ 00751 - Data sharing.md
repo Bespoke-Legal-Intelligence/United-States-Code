@@ -26,7 +26,7 @@ For purposes of the exchange described in subsection (a)(1) of this section, the
 
 #### References in Text
 
-The Workforce Investment Act of 1998, referred to in subsec. (a)(2), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified generally to chapter 30 (§2801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+The Workforce Investment Act of 1998, referred to in subsec. (a)(2), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
 #### Prior Provisions
 

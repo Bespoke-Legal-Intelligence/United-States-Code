@@ -44,7 +44,7 @@ For the purposes of this subchapter—
 
 #### Amendments
 
-1994—Par. (5). Pub. L. 103–322, §320928(a)(3)(A), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “the term ‘child care’ means the provision of care, treatment, education, training, instruction, supervision, or recreation to children by persons having unsupervised access to a child;”.
+1994—Par. (5). Pub. L. 103–322, §320928(a)(3)(A), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “the term ‘child care’ means the provisionof care, treatment, education, training, instruction, supervision, or recreation to children by persons having unsupervised access to a child;”.
 
 Pars. (6), (7). Pub. L. 103–322, §320928(j)(2), added pars. (6) and (7). Former pars. (6) and (7) redesignated (8) and (9), respectively.
 

@@ -4,7 +4,7 @@
 
 #### (1) Plan
 
-&emsp;In conjunction with the creation of an easement on any lands under this part, the ownerof the farm or ranch wherein such lands are located must agree to implement a natural resource conservation management plan under subsection (b) of this section approved by the Secretary in consultation with the Secretary of the Interior.
+&emsp;In conjunction with the creation of an easement on any lands under this part, the owner of the farm or ranch wherein such lands are located must agree to implement a natural resource conservation management plan under subsection (b) of this section approved by the Secretary in consultation with the Secretary of the Interior.
 
 #### (2) Agreement
 
@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(C) To comply with such additional provisions as the Secretary determines are desirable and are included in the easement to carry out this part or to facilitate the practical administration thereof.
 
-&emsp;&emsp;(D) To specify the location of any timber harvesting on land subject to the easement. Harvesting and commercial sales of Christmas trees and nuts shall be prohibited on such land, except that no such easement or related agreement shall prohibit activities consistent with customary forestry practices, such as pruning, thinning, or tree stand improvement on lands converted to forestry uses.
+&emsp;&emsp;(D) To specify the location of any timber harvesting on land subject to the easement. Harvesting and commercial sales of Christmas trees and nuts shall be prohibited on such land, except that no such easement orrelated agreement shall prohibit activities consistent with customary forestry practices, such as pruning, thinning, or tree stand improvement on lands converted to forestry uses.
 
 &emsp;&emsp;(E) To limit the production of any agricultural commodity on such lands only to production for the benefit of wildlife.
 

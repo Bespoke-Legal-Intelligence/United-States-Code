@@ -30,16 +30,6 @@ The words “in his discretion” are omitted as surplusage. The last 10 words o
 
 Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to prescribe regulations under the amendment by Pub. L. 96–513 effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under section 101 of this title.
 
-#### Cross References
-
-Coast Guard temporary warrant officers, appointment, see section 214 of Title 14, Coast Guard.
-
-Elimination for unfitness or unsatisfactory performance, see sections 576, 1166 of this title.
-
-Promotion, see section 573 et seq. of this title.
-
-Suspension during war or emergency, see section 644 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 515, 1166, 1174 of this title.

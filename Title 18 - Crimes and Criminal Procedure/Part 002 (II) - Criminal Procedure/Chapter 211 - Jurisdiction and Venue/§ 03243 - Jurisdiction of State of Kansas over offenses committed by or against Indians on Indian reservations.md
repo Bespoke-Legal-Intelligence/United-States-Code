@@ -14,7 +14,3 @@ The attention of Congress is directed to consideration of the question whether t
 
 Changes were made in phraseology.
 
-#### Cross References
-
-Offenses committed within Indian country, see section 1153 of this title.
-

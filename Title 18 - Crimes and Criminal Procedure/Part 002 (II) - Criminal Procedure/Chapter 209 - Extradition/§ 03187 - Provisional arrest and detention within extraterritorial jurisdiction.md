@@ -14,10 +14,6 @@ Provision for expense to be borne by the demanding authority is incorporated in 
 
 Changes were made in phraseology and arrangement.
 
-#### Canal Zone
-
-Applicability of section to Canal Zone, see section 14 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 14 of this title.

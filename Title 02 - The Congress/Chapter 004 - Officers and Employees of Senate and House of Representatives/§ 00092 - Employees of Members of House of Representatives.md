@@ -66,7 +66,7 @@ Committee on House Oversight of House of Representatives changed to Committee on
 
 #### Effective Date of 1999 Amendment
 
-Amendment by Pub. L. 106–57 applicable with respect to the first session of the One Hundred Sixth Congressand each succeeding session of Congress, see section 103(c) of Pub. L. 106–57, set out as a note under section 57 of this title.
+Amendment by Pub. L. 106–57 applicable with respect to the first session of the One Hundred Sixth Congress and each succeeding session of Congress, see section 103(c) of Pub. L. 106–57, set out as a note under section 57 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -77,12 +77,4 @@ Section 104(b) of Pub. L. 105–55 provided that: “The amendment made by subse
 House Resolution No. 359, Ninety-sixth Congress, July 20, 1979, as enacted into permanent law by H.R. 7593, as passed the House of Representatives on July 21, 1980, and enacted into permanent law by Pub. L. 96–536, §101(c), Dec. 16, 1980, 94 Stat. 3167, which related to the employment of employees by Members of House of Representatives, Delegates, and Resident Commissioners, was repealed by Pub. L. 104–186, title I, §104(e)(2), Aug. 20, 1996, 110 Stat. 1721.
 
 House Resolution No. 357, Ninety-first Congress, June 25, 1969, as enacted into permanent law by Pub. L. 91–145, §103, Dec. 12, 1969, 83 Stat. 359, which increased base Clerk Hire allowance of Members of House of Representatives and Resident Commissioner from Puerto Rico and authorized them to employ one additional clerk each, was repealed by Pub. L. 104–186, title I, §104(e)(3), Aug. 20, 1996, 110 Stat. 1721.
-
-#### Cross References
-
-Adjustment of allowances by Committee on House Oversight, see section 57 of this title.
-
-Delegates from Guam and Virgin Islands, clerk hire, see section 1715 of Title 48, Territories and Insular Possessions.
-
-For provisions establishing Members’ Representational Allowance, see section 57b of this title.
 

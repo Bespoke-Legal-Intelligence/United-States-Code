@@ -2,7 +2,7 @@
 
 The Secretary shall prescribe a form of application for hospital treatment and domiciliary care which shall include notice of the provisions of this subchapter.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1262, §5227; renumbered §8527, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1262, §5227; renumbered §8527, Pub. L. 102–40, title IV,§402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
 
 #### Amendments
 

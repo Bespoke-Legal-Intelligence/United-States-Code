@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(B) in which series the relation of the images to one another is that each image has the pattern of the surface of one form of the semiconductor chip product;
 
-&emsp;(3) a mask work is “fixed” in a semiconductor chip product when its embodiment in the product is sufficiently permanent or stable to permit the mask work to be perceived or reproduced from the product for a period of more than transitory duration;
+&emsp;(3) a mask work is “fixed” in a semiconductor chip product when its embodiment in theproduct is sufficiently permanent or stable to permit the mask work to be perceived or reproduced from the product for a period of more than transitory duration;
 
 &emsp;(4) to “distribute” means to sell, or to lease, bail, or otherwise transfer, or to offer to sell, lease, bail, or otherwise transfer;
 
@@ -31,14 +31,6 @@
 (b) For purposes of this chapter, the distribution or importation of a product incorporating a semiconductor chip product as a part thereof is a distribution or importation of that semiconductor chip product.
 
 (Added Pub. L. 98–620, title III, §302, Nov. 8, 1984, 98 Stat. 3347.)
-
-#### Short Title of 1991 Amendment
-
-Pub. L. 102–64, §1, June 28, 1991, 105 Stat. 320, provided that: “This Act \[amending section 914 of this title and enacting provisions set out as a note under section 914 of this title\] may be cited as the ‘Semiconductor International Protection Extension Act of 1991’.”
-
-#### Short Title
-
-Section 301 of title III of Pub. L. 98–620 provided that: “This title \[enacting this chapter\] may be cited as the ‘Semiconductor Chip Protection Act of 1984’.”
 
 #### Authorization of Appropriations
 

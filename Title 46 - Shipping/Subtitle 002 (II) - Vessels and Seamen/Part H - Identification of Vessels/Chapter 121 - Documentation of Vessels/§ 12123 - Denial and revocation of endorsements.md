@@ -4,9 +4,9 @@ When the owner of a vessel fails to pay a civil penalty assessed by the Secretar
 
 (Added Pub. L. 102–587, title V, §5213(a)(3), Nov. 4, 1992, 106 Stat. 5077.)
 
-#### Codification
+#### Prior Provisions
 
-Another section 12123 of this title was set out preceding this section prior to repeal by Pub. L. 104–324, title VII, §746(a)(1), Oct. 19, 1996, 110 Stat. 3943.
+A prior section 12123, added Pub. L. 102–388, title III, §348(a), Oct. 6, 1992, 106 Stat. 1554, related to the denial and revocation of trade or recreational endorsement upon failure of vessel's owner to pay assessment of civil penalty for violation of law, prior to repeal by Pub. L. 104–324, title VII, §746(a)(1), Oct. 19, 1996, 110 Stat. 3943.
 
 #### Section Referred to in Other Sections
 

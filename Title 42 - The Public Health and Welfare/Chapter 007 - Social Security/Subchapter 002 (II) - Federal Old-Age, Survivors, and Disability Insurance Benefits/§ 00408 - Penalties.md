@@ -68,7 +68,7 @@ Any individual or entity convicted of a felony under this section or under secti
 
 (3) Paragraph (1) shall not apply with respect to any criminal conduct involving both the conduct described in subsection (a)(7) of this section to which paragraph (1) applies and any other criminal conduct if such other conduct would be criminal conduct if the conduct described in subsection (a)(7) of this section were not committed.
 
-(Aug. 14, 1935, ch. 531, title II, §208, 49 Stat. 625; Aug. 10, 1939, ch. 666, title II, §201, 53 Stat. 1362, 1372; Aug. 28, 1950, ch. 809, title I, §109(c), 64 Stat. 523; Sept. 1, 1954, ch. 1206, title I, §111(b), 68 Stat. 1085; Pub. L. 85–840, title III, §310, Aug. 28, 1958, 72 Stat. 1034; Pub. L. 86–778, title II, §211(m), Sept. 13, 1960, 74 Stat. 958; Pub. L. 92–603, title I, §130(a), Oct. 30, 1972, 86 Stat. 1359; Pub. L. 94–455, title XII, §1211(a), (d), Oct. 4, 1976, 90 Stat. 1711, 1712; Pub. L. 97–123, §4(a), (b), Dec. 29, 1981, 95 Stat. 1663, 1664; Pub. L. 98–369, div. B, title VI, §2663(a)(5), July 18, 1984, 98 Stat. 1162; Pub. L. 98–460, §16(c)(2), Oct. 9, 1984, 98 Stat. 1811; Pub. L. 100–690, title VII, §7088, Nov. 18, 1988, 102 Stat. 4409; Pub. L. 101–508, title V, §§5121, 5130(a)(1), Nov. 5, 1990, 104 Stat. 1388–283, 1388–289; Pub. L. 103–296, title I, §107(a)(4), title III, §321(a)(12), Aug. 15, 1994, 108 Stat. 1478, 1536.)
+(Aug. 14, 1935, ch. 531, title II, §208, 49 Stat. 625; Aug. 10, 1939, ch. 666, title II, §201, 53 Stat. 1362, 1372; Aug. 28, 1950, ch. 809, title I, §109(c), 64 Stat. 523; Sept. 1, 1954, ch. 1206, title I, §111(b), 68 Stat. 1085; Pub. L. 85–840, title III, §310, Aug. 28, 1958, 72 Stat. 1034; Pub. L. 86–778, title II, §211(m), Sept. 13, 1960, 74 Stat. 958; Pub. L. 92–603, title I, §130(a), Oct. 30, 1972, 86 Stat. 1359; Pub. L. 94–455, title XII, §1211(a), (d), Oct. 4, 1976, 90 Stat. 1711, 1712; Pub. L. 97–123, §4(a), (b), Dec. 29, 1981, 95 Stat. 1663, 1664; Pub. L. 98–369, div. B, title VI, §2663(a)(5), July 18, 1984, 98 Stat. 1162; Pub. L. 98–460, §16(c)(2), Oct. 9, 1984, 98 Stat. 1811; Pub. L. 100–690, title VII, §7088, Nov. 18, 1988, 102 Stat. 4409; Pub. L. 101–508, title V, §§5121, 5130(a)(1), Nov. 5, 1990, 104 Stat. 1388–283, 1388–289; Pub. L. 103–296, title I, §107(a)(4), title III, §321(a)(12), Aug. 15, 1994, 108 Stat. 1478, 1536; Pub. L. 106–553, §1(a)(2) \[title VI, §635(c)(2)(1), (2)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–117; Pub. L. 106–554, §1(a)(4) \[div. A, §213(a)(6)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–180.)
 
 #### References in Text
 
@@ -84,6 +84,12 @@ Section 202 of the Immigration Reform and Control Act of 1986, referred to in su
 
 #### Amendments
 
+2000—Subsec. (a)(8) to (10). Pub. L. 106–553, which inserted “or” at end of par. (8) and added pars. (9) and (10), was repealed by Pub. L. 106–554, effective as if included in Pub. L. 106–553 on Dec. 21, 2000. Pars. (9) and (10) read as follows:
+
+“(9) except as provided in section 1320b–23(d) of this title, knowingly and willfully displays or sells to the general public (as defined in section 1320b–23(g) of this title) any individual's social security number, or any identifiable derivative of such number, without the affirmatively expressed consent (as defined in section 1320b–23(c) of this title), electronically or in writing, of such individual; or
+
+“(10) obtains any individual's social security number, or any identifiable derivative of such number, for purposes of locating or identifying an individual with the intent to physically injure, harm, or use the identity of the individual for illegal purposes;”.
+
 1994—Subsec. (a)(6), (7). Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary” wherever appearing and “the Commissioner's authority” for “his authority” in par. (7)(A).
 
 Subsec. (c). Pub. L. 103–296, §321(a)(12), substituted “subsection (a)(7)” for “subsection (g)”.
@@ -92,7 +98,7 @@ Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security�
 
 Subsec. (d)(2)(A). Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary”.
 
-1990—Pub. L. 101–508, §5121, inserted “(a)” before “Whoever—”, redesignated former subsecs. (a) to (h) as pars. (1) to (8), respectively, of subsec. (a), in pars. (1) and (7) redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, inserted “(b)” before “Any person or other entity who is convicted”, inserted “(c)”before “Any individual or entity convicted of a felony”, and added subsec. (d).
+1990—Pub. L. 101–508, §5121, inserted “(a)” before “Whoever—”, redesignated former subsecs. (a) to (h) as pars. (1) to (8), respectively, of subsec. (a), in pars. (1) and (7) redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, inserted “(b)” before “Any person or other entity who is convicted”, inserted “(c)” before “Any individual or entity convicted of a felony”, and added subsec. (d).
 
 Pub. L. 101–508, §5130(a)(1), in the last undesignated paragraph substituted “section 405(c)(2) of this title” for “section 605(c)(2) of this title”.
 
@@ -112,13 +118,19 @@ Subsec. (h). Pub. L. 94–455, §1211(d)(1), added subsec. (h).
 
 1960—Subsec. (a)(3). Pub. L. 86–778 substituted “section 403(f) of this title” for “section 403(e) of this title”.
 
-1958—Pub. L. 85–840 amended section generally, by, among other changes, inserting references to the Internal Revenue Code of 1954, and making penalty provisions applicable to cases (1) where false statements or representations as to whether wages were paid or received for employment, or whether net earnings from self-employment were derived, or whether a person entitled to benefits under this subchapter had earnings in or for a particular period, or as to the amount thereof, are made for the purpose of obtaining or increasing benefits; (2) where false statements or representations are made in any application for disability determination; (3) where a person intentionally conceals or fails to disclose knowledge of any event affecting his or another's initial or continued right to payment, and (4) where a person converts a payment that he received for the use and benefit of another.
+1958—Pub. L. 85–840 amended section generally, by, among other changes, inserting references to the Internal Revenue Code of 1954, and making penalty provisions applicable to cases (1) where false statements orrepresentations as to whether wages were paid or received for employment, or whether net earnings from self-employment were derived, or whether a person entitled to benefits under this subchapter had earnings in or for a particular period, or as to the amount thereof, are made for the purpose of obtaining or increasing benefits; (2) where false statements or representations are made in any application for disability determination; (3) where a person intentionally conceals or fails to disclose knowledge of any event affecting his or another's initial or continued right to payment, and (4) where a person converts a payment that he received for the use and benefit of another.
 
 1954—Act Sept. 1, 1954, made it clear that the penalty provisions of the section extend to cases of false statements or representations as to the amount of net earnings from self-employment derived or the period during which derived.
 
 1950—Act Aug. 28, 1950, substituted “subchapter E of chapter 1, or subchapter A or E of chapter 9 of the Internal Revenue Code of 1939” for “the Federal Insurance Contributions Act”.
 
 1939—Act Aug. 10, 1939, amended section generally, incorporating provisions of section 409 of this title.
+
+#### Effective Date of 2000 Amendment
+
+Pub. L. 106–554, §1(a)(4) \[div. A, §213(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–180, provided that: “The amendments made by this section \[amending this section, section 10601 of this title, and section 2709 of Title 22, Foreign Relations and Intercourse, repealing section 1320b–23 of this title, amending provisions set out as notes under sections 4001 and 4013 of Title 18, Crimes and Criminal Procedure, and section 524 of Title 28, Judiciary and Judicial Procedure, and repealing provisions set out as notes under this section and sections 1305 and 1320b–23 of this title\] shall take effect as if included in H.R. 4942 of the 106th Congress \[Pub. L. 106–553\] on the date of its enactment \[Dec. 21, 2000\].”
+
+Pub. L. 106–553, §1(a)(2) \[title VI, §635(c)(2)(3)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–117, which provided that the amendments made by §1(a)(2) \[title VI, §635(c)\] of Pub. L. 106–553, enacting section 1320b–23 of this title and amending this section, would apply with respect to violations occurring on and after the date that is 2 years after Dec. 21, 2000, was repealed by Pub. L. 106–554, §1(a)(4) \[div. A, §213(a)(6)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–180, see above.
 
 #### Effective Date of 1994 Amendment
 

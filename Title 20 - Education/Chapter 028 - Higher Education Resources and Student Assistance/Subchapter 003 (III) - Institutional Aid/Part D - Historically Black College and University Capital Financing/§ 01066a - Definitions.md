@@ -6,7 +6,7 @@ For the purposes of this part:
 
 &emsp;(2) The term “loan” means a loan made to an eligible institution under the provisions of this part and pursuant to an agreement with the Secretary.
 
-&emsp;(3) The term “qualified bond” means any obligation issued by the designated bonding authority at the direction of the Secretary, the net proceeds of which are loaned to an eligible institution for the purposes described in section 1066b(b) of this title.
+&emsp;(3) The term “qualified bond” means any obligation issued by the designated bonding authority at the direction of the Secretary, thenet proceeds of which are loaned to an eligible institution for the purposes described in section 1066b(b) of this title.
 
 &emsp;(4) The term “funding” means any payment under this part from the Secretary to the eligible institution or its assignee in fulfillment of the insurance obligations of the Secretary pursuant to an agreement under section 1066b of this title.
 

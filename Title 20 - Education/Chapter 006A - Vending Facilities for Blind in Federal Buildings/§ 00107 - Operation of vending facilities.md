@@ -36,7 +36,7 @@ Amendment by act Aug. 3, 1954, effective July 1, 1954, see section 8 of act Aug.
 
 #### Short Title of 1974 Amendment
 
-Section 200 of title II of Pub. L. 93–516 provided that: “This title \[enacting sections 107b–1 to 107b–3 and 107d–1 to 107d–4 of this title, amending this section, sections 107a, 107b, 107d, 107e of this title, and section 5108 of Title 5, Government Organization and Employees, repealing sections 107c and 107e–1 of this title, and enacting provisions set out as notes under this section and section 702 of Title 29, Labor\] may be cited as the ‘Randolph-Sheppard Act Amendments of 1974’.”
+Section 200 of title II of Pub. L. 93–516 provided that: “This title \[enacting sections 107b–1 to 107b–3 and107d–1 to 107d–4 of this title, amending this section, sections 107a, 107b, 107d, 107e of this title, and section 5108 of Title 5, Government Organization and Employees, repealing sections 107c and 107e–1 of this title, and enacting provisions set out as notes under this section and section 702 of Title 29, Labor\] may be cited as the ‘Randolph-Sheppard Act Amendments of 1974’.”
 
 An identical provision is in section 200 of Pub. L. 93–651. See Codification note above.
 
@@ -73,10 +73,6 @@ Section 201 of Pub. L. 93–516 provided that: “The Congress finds—
 &emsp;&emsp;“(G) accomplish other legislative and administrative objectives which will permit the Randolph-Sheppard program to flourish.”
 
 An identical provision is in section 201 of Pub. L. 93–651. See Codification note above.
-
-#### Cross References
-
-Seeing-eye dogs for blind veterans, see section 1714 of Title 38, Veterans’ Benefits.
 
 #### Section Referred to in Other Sections
 

@@ -143,7 +143,15 @@
 | (a) | Sections 2731, 2733, and 2734. |
 | (b) | Use of interest only. |
 | (c) | Use for section 2712. |
+| (c) | Section 2738. |
 | [2737\.](Subchapter%20002%20%28II%29%20-%20Prince%20William%20Sound%20Provisions/%C2%A7%2002737%20-%20Limitation.md) | Limitation. |
+| [2738\.](Subchapter%20002%20%28II%29%20-%20Prince%20William%20Sound%20Provisions/%C2%A7%2002738%20-%20North%20Pacific%20Marine%20Research%20Institute.md) | North Pacific Marine Research Institute. |
+| (a) | Institute established. |
+| (b) | Functions. |
+| (c) | Evaluation and audit. |
+| (d) | Status of employees |
+| (e) | Use of funds. |
+| (f) | Availability of research. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -173,7 +181,7 @@
 | (b) | Oil pollution research and technology plan. |
 | (c) | Oil pollution research and development program. |
 | (d) | International cooperation. |
-| (e) | Biennial reports. |
+| (e) | Omitted. |
 | (f) | Funding. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

@@ -4,7 +4,3 @@ The project for flood control of the Lower Mississippi River adopted by sections
 
 (Aug. 18, 1941, ch. 377, §3, 55 Stat. 642.)
 
-#### Cross References
-
-Modification of Lower Mississippi River flood control project by act Aug. 18, 1941, see section 702a–12 of this title.
-

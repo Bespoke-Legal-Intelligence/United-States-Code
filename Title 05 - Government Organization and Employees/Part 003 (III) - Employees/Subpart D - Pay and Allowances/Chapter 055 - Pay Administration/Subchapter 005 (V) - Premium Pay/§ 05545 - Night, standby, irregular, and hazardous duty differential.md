@@ -1,6 +1,6 @@
 ### §5545. Night, standby, irregular, and hazardous duty differential
 
-(a) Except as provided by subsection (b) of this section, nightwork is regularly scheduled work between the hours of 6:00 p.m. and 6:00 a.m., and includes—
+(a) Except as provided by subsection (b) of this section, nightwork is regularly scheduled workbetween the hours of 6:00 p.m. and 6:00 a.m., and includes—
 
 &emsp;(1) periods of absence with pay during these hours due to holidays; and
 

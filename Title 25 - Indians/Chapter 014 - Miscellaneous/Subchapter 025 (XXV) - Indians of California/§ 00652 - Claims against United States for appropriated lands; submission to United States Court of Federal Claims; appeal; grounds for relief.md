@@ -4,7 +4,7 @@ All claims of whatsoever nature the Indians of California as defined in section 
 
 It is declared that the loss to the said Indians on account of their failure to secure the lands and compensation provided for in the eighteen unratified treaties is sufficient ground for equitable relief.
 
-(May 18, 1928, ch. 624, §2, 45 Stat. 602; Pub. L. 97–164, title I, §150, Apr. 2, 1982, 96 Stat. 46; Pub.L. 100–352, §6(b), June 27, 1988, 102 Stat. 663; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
+(May 18, 1928, ch. 624, §2, 45 Stat. 602; Pub. L. 97–164, title I, §150, Apr. 2, 1982, 96 Stat. 46; Pub. L. 100–352, §6(b), June 27, 1988, 102 Stat. 663; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 #### Amendments
 

@@ -40,18 +40,6 @@ R.S. §170 was part of title IV of the Revised Statutes. The Act of July 26, 194
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
-#### Cross References
-
-Allowance of living quarters, including heat, fuel, and light, to employees having permanent stations in a foreign country, see section 5912 of this title, and section 291 of Title 22, Foreign Relations and Intercourse.
-
-Authorization and payment of benefits to employees detailed to international organizations deemed to comply with this section, see section 3343 of this title.
-
-Time limitation on claims against Government employees who received dual compensation in violation of the dual compensation laws, see section 3712 of Title 31, Money and Finance.
-
-Dual employment and extra duties imposed by Postmaster General, compensation without regard to this section, see section 1001 of Title 39, Postal Service.
-
-Peace Corps program, benefits of personnel detailed to foreign governments or international organizations as meeting requirements of this section, see section 2513 of Title 22, Foreign Relations and Intercourse.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 5942a of this title; title 22 sections 3971, 4085, 6104; title 39 section 1001; title 50 section 403e–1.

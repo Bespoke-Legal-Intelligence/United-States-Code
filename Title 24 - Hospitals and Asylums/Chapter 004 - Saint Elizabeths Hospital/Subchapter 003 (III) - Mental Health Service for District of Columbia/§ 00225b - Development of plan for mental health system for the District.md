@@ -10,9 +10,9 @@
 
 (1) The Mayor shall prepare a preliminary system implementation plan for a comprehensive mental health system no later than 3 months from October 1, 1985, and a final implementation plan no later than 12 months from October 1, 1985.
 
-(2) The Mayor shall submit the preliminary system implementation plan to the Council no later than 3 months from October 1, 1985. The Council shall review such plan and transmit written recommendations to the Mayor regarding any revisions to such plan no later than 60 days after such submission. The Mayor shall submit the revised preliminary plan to the Committee on the District of Columbia of the House of Representatives and the Committee on Labor and Human Resources and the Committee onGovernmental Affairs of the Senate for review and comment in accordance with the provisions of this subchapter.
+(2) The Mayor shall submit the preliminary system implementation plan to the Council no later than 3 months from October 1, 1985. The Council shall review such plan and transmit written recommendations to the Mayor regarding any revisions to such plan no later than 60 days after such submission. The Mayor shall submit the revised preliminary plan to the Committee on the District of Columbia of the House of Representatives and the Committee on Labor and Human Resources and the Committee on Governmental Affairs of the Senate for review and comment in accordance with the provisions of this subchapter.
 
-(3) The final system implementation plan shall be considered by the Council consistent with the provisions of section 422(12) of the District of Columbia Home Rule Act \[D.C. Code, §1–242(12)\].
+(3) The final system implementation plan shall be considered by the Council consistent with the provisions of section 422(12) of the District of Columbia Home Rule Act.
 
 (4) After the review of the Council pursuant to paragraph (3), the Mayor shall submit the final implementation plan to the Committee on the District of Columbia of the House of Representatives and the Committee on Labor and Human Resources and the Committee on Governmental Affairs of the Senate for review and comment in accordance with the provisions of this subchapter.
 
@@ -67,6 +67,8 @@ During the service coordination period, the District of Columbia and the Secreta
 (Pub. L. 98–621, §4, Nov. 8, 1984, 98 Stat. 3371; Pub. L. 102–150, §§2, 3(a), Oct. 31, 1991, 105 Stat. 980; Pub. L. 105–33, title XI, §11717(b), Aug. 5, 1997, 111 Stat. 786.)
 
 #### References in Text
+
+Section 422 of the District of Columbia Home Rule Act, referred to in subsec. (b)(3), is section 422 of Pub. L. 93–198, title IV, Dec. 24, 1973, 87 Stat. 790, as amended, which is not classified to the Code.
 
 The Federal Advisory Committee Act, referred to in subsec. (d)(2), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in Title 5, Appendix, Government Organization and Employees.
 

@@ -32,9 +32,3 @@ Amendment by Pub. L. 97–35 effective Aug. 13, 1981, see section 1038 of Pub. L
 
 For short title of this subchapter as the “Energy Conservation Standards for New Buildings Act of 1976”, see section 301 of Pub. L. 94–385, set out as a note under section 6801 of this title.
 
-#### Cross References
-
-Energy conservation in Federal buildings, see section 8251 et seq. of this title.
-
-Residential energy conservation, see section 8211 et seq. of this title.
-

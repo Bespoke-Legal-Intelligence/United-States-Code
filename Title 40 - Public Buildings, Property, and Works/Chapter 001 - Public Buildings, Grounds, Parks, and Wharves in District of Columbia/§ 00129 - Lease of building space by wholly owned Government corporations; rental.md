@@ -18,10 +18,6 @@ Functions of Federal Works Agency and of all agencies thereof, together with fun
 
 Transfer of functions by act June 30, 1949, effective July 1, 1949, see section 605 of act June 30, 1949 set out as an Effective Date note under section 471 of this title.
 
-#### Cross References
-
-Operation of buildings and related activities by Administrator of General Services, general powers and duties, see section 490 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in title 12 section 1438.

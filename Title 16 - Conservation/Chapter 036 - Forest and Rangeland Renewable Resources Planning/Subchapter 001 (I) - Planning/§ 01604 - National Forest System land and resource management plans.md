@@ -70,7 +70,7 @@ As soon as practicable, but not later than two years after October 22, 1976, the
 
 &emsp;&emsp;&emsp;(iii) protection is provided for streams, streambanks, shorelines, lakes, wetlands, and other bodies of water from detrimental changes in water temperatures, blockages of water courses, and deposits of sediment, where harvests are likely to seriously and adversely affect water conditions or fish habitat; and
 
-&emsp;&emsp;&emsp;(iv) the harvesting system to be used is not selected primarily because it will givethe greatest dollar return or the greatest unit output of timber; and
+&emsp;&emsp;&emsp;(iv) the harvesting system to be used is not selected primarily because it will give the greatest dollar return or the greatest unit output of timber; and
 
 &emsp;&emsp;(F) insure that clearcutting, seed tree cutting, shelterwood cutting, and other cuts designed to regenerate an evenaged stand of timber will be used as a cutting method on National Forest System lands only where—
 
@@ -124,7 +124,7 @@ The Secretary shall establish—
 
 #### References in Text
 
-The Multiple-Use Sustained-Yield Act of 1960, referred to in subsecs. (e) and (g), is Pub. L. 86–517, June 12, 1960, 74 Stat. 215, as amended, which is classified to sections 528 to 531 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 528 of this title and Tables.
+The Multiple-Use Sustained-Yield Act of 1960, referred to in subsecs. (e) and (g), is Pub. L. 86–517, June 12, 1960, 74 Stat. 215, as amended, which is classified generally to sections 528 to 531 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 528 of this title and Tables.
 
 The National Environmental Policy Act of 1969, referred to in subsec. (g)(1), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
@@ -152,7 +152,7 @@ Pub. L. 99–500, §101(h) \[title II\], Oct. 18, 1986, 100 Stat. 1783–242, 17
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 460<i>oo</i>, 460vv–4, 460hhh–4, 460jjj–1, 539d, 542d, 545a, 1611 of this title; title 42 section 8855; title 43 section 1752.
+This section is referred to in sections 460<i>oo</i>, 460vv–4, 460hhh–4, 460jjj–1, 539d, 542d, 545a, 546a–1, 1611 of this title; title 42 section 8855; title 43 section 1752.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “long-term”.</i>
 

@@ -30,9 +30,9 @@
 
 &emsp;(M) Lassen Volcanic National Park.
 
-&emsp;(N) Hawaii Volcanoes National Park.
+&emsp;(N) Hawai‘i Volcanoes National Park.
 
-&emsp;(O) Haleakala National Park.
+&emsp;(O) Haleakala�AE8 National Park.
 
 &emsp;(P) Lake Mead National Recreation Area.
 
@@ -82,11 +82,17 @@ The Secretary of Agriculture shall consider the effects on significant thermal f
 
 Nothing in this chapter shall affect the ban on leasing under this chapter with respect to the Island Park Geothermal Area, as designated by the map in the “Final Environmental Impact Statement of the Island Park Geothermal Area” (January 15, 1980, p. XI), and provided for in Public Law 98–473.
 
-(Pub. L. 91–581, §28, as added Pub. L. 100–443, §6, Sept. 22, 1988, 102 Stat. 1769.)
+(Pub. L. 91–581, §28, as added Pub. L. 100–443, §6, Sept. 22, 1988, 102 Stat. 1769; amended Pub. L. 106–510, §3(a)(2), (b)(2), Nov. 13, 2000, 114 Stat. 2363.)
 
 #### References in Text
 
 Public Law 98–473, referred to in subsec. (f), is Pub. L. 98–473, Oct. 12, 1984, 98 Stat. 1837, as amended. For complete classification of this Act to the Code, see Tables.
+
+#### Amendments
+
+2000—Subsec. (a)(1)(N). Pub. L. 106–510, §3(a)(2), substituted “Hawai‘i Volcanoes National Park” for “Hawaii Volcanoes National Park”.
+
+Subsec. (a)(1)(O). Pub. L. 106–510, §3(b)(2), substituted “Haleakala�AE8 National Park” for “Haleakala National Park”.
 
 #### Corwin Springs Known Geothermal Resource Area Study
 

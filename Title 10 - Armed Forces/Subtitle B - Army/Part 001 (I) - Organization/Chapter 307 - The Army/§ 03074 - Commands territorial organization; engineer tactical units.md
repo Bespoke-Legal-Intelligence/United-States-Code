@@ -32,7 +32,7 @@ June 28, 1950, ch. 383, §§303, 304, 64 Stat. 268.
 
 June 3, 1916, ch. 134, §11 (less 1st 41 words); restated June 4, 1920, ch. 227, subch. I, §11 (less 1st 41 words), 41 Stat. 768.
 
-In subsection (b), the words “have the duties and powers” are substituted for the words “shall perform such duties and exercise such powers”. The words “ofAmerica”, “other provisions”, and “so assigned” are omitted as surplusage. The word “Commonwealths” is inserted to reflect the present status of Puerto Rico.
+In subsection (b), the words “have the duties and powers” are substituted for the words “shall perform such duties and exercise such powers”. The words “of America”, “other provisions”, and “so assigned” are omitted as surplusage. The word “Commonwealths” is inserted to reflect the present status of Puerto Rico.
 
 #### Amendments
 

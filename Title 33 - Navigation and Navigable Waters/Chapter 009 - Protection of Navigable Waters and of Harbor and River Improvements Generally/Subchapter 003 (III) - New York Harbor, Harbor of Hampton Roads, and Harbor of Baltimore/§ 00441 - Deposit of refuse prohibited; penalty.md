@@ -10,19 +10,11 @@ Section 1 of act June 29, 1888, superseded act Aug. 5, 1886, ch. 929, §3, 24 St
 
 #### Amendments
 
-1958—Pub. L. 85–802 substituted “waters of any harbor subject to this subchapter,” for “tidal waters of theharbor of New York, or its adjacent or tributary waters, or in those of long Island Sound,”.
+1958—Pub. L. 85–802 substituted “waters of any harbor subject to this subchapter,” for “tidal waters of the harbor of New York, or its adjacent or tributary waters, or in those of long Island Sound,”.
 
 #### Effective Date of 1958 Amendment
 
 Section 2 of Pub. L. 85–802 provided that: “This Act \[amending this section and sections 442, 446, 447, 449, 451, and 451a of this title and enacting section 451b of this title\] shall take effect on the sixtieth day after the date of its enactment \[Aug. 28, 1958\].”
-
-#### Cross References
-
-Consent of Congress to obstruction of waters by New York City, see section 454 of this title.
-
-Discharges of pollutants into the navigable waters subject to these sections to be regulated pursuant to Federal Water Pollution Control Act except as to effect on navigation and anchorage, see section 1371 of this title.
-
-Taking shellfish or otherwise interfering with navigation in New York Harbor channels, see section 452 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -2,7 +2,7 @@
 
 #### (a) Appointment
 
-The Secretary shall appoint, based upon nominations submitted by medical organizations representing physicians, a Practicing Physicians Advisory Council (in this section referred to as the “Council”) to be composed of 15 physicians, each of whom has submitted at least 250 claims for physicians’ services under this subchapter inthe previous year. At least 11 of the members of the Council shall be physicians described in section 1395x(r)(1) of this title and the members of the Council shall include both participating and nonparticipating physicians and physicians practicing in rural areas and underserved urban areas.
+The Secretary shall appoint, based upon nominations submitted by medical organizations representing physicians, a Practicing Physicians Advisory Council (in this section referred to as the “Council”) to be composed of 15 physicians, each of whom has submitted at least 250 claims for physicians’ services under this subchapter in the previous year. At least 11 of the members of the Council shall be physicians described in section 1395x(r)(1) of this title and the members of the Council shall include both participating and nonparticipating physicians and physicians practicing in rural areas and underserved urban areas.
 
 #### (b) Meetings
 

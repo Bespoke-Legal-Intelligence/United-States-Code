@@ -92,7 +92,7 @@ Part A of subchapter IV of this chapter, referred to in subsec. (d)(1), is class
 
 Section 211 of Pub. L. 93–66, referred to in subsec. (d), is set out as a note under section 1382 of this title.
 
-Section 228e(<i>l</i>) of title 45, referred to in subsec. (h)(1), is a reference to section 5(<i>l</i>) of the Railroad Retirement Act of 1937. That Act was amended in its entirety and completely revised by Pub. L. 93–445, Oct. 16, 1974, 88 Stat. 1305. The Act, as thus amended and revised, was redesignated the Railroad Retirement Act of 1974, and is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. Section 228e of title 45 is covered by section 231e of Title 45.
+Section 228e(<i>l</i>) of title 45, referred to in subsec. (h)(1), is a reference to section 5(<i>l</i>) of the Railroad Retirement Act of 1937. That Act was amended in its entirety and completely revised by Pub. L. 93–445, Oct. 16, 1974, 88 Stat. 1305. The Act, as thus amended and revised, was redesignated the Railroad Retirement Act of 1974, andis classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. Section 228e of title 45 is covered by section 231e of Title 45.
 
 #### Amendments
 
@@ -184,7 +184,7 @@ Section 5114(b) of Pub. L. 101–508 provided that: “The amendment made by sub
 
 Amendment by section 2662(e) of Pub. L. 98–369 effective as though included in the enactment of the Social Security Amendments of 1983, Pub. L. 98–21, see section 2664(a) of Pub. L. 98–369, set out as a note under section 401 of this title.
 
-Amendment by section 2663(j)(3)(A)(iv) of Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
+Amendment by section 2663(j)(3)(A)(iv) of Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of lawinvolved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
 
 #### Effective Date of 1983 Amendment
 

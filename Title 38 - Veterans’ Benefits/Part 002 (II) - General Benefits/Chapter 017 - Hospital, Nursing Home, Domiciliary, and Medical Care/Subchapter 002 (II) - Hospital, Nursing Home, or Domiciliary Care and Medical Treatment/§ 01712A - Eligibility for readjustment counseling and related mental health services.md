@@ -14,7 +14,7 @@
 
 (2)(A) Upon the request of any veteran (other than a veteran covered by paragraph (1)) who served in the active military, naval, or air service in a theater of combat operations (as so determined) during a period of war, or in any other area during a period in which hostilities (as defined in subparagraph (B)) occurred in such area, the Secretary may furnish counseling to the veteran to assist the veteran in readjusting to civilian life.
 
-(B) For the purposes of subparagraph (A), the term “hostilities” means an armed conflict in which the members of the Armed Forces aresubjected to danger comparable to the danger to which members of the Armed Forces have been subjected in combat with enemy armed forces during a period of war, as determined by the Secretary in consultation with the Secretary of Defense.
+(B) For the purposes of subparagraph (A), the term “hostilities” means an armed conflict in which the members of the Armed Forces are subjected to danger comparable to the danger to which members of the Armed Forces have been subjected in combat with enemy armed forces during a period of war, as determined by the Secretary in consultation with the Secretary of Defense.
 
 (b)(1) If, on the basis of the assessment furnished under subsection (a) of this section, a physician or psychologist employed by the Department (or, in areas where no such physician or psychologist is available, a physician or psychologist carrying out such function under a contract or fee arrangement with the Secretary) determines that the provision of mental health services to such veteran is necessary to facilitate the successful readjustment of the veteran to civilian life, such veteran shall, within the limits of Department facilities, be furnished such services on an outpatient basis. For the purposes of furnishing such mental health services, the counseling furnished under subsection (a) of this section shall be considered to have been furnished by the Department as a part of hospital care. Any hospital care and other medical services considered necessary on the basis of the assessment furnished under subsection (a) of this section shall be furnished only in accordance with the eligibility criteria otherwise set forth in this chapter (including the eligibility criteria set forth in section 1711(b) of this title).
 
@@ -82,7 +82,7 @@
 
 &emsp;(2) The term “Department general health-care facility” means a health-care facility which is operated by the Department for the furnishing of health-care services under this chapter, not limited to services provided through the program established under this section.
 
-(Added Pub. L. 96–22, title I, §103(a)(1), June 13, 1979, 93 Stat. 48, §612A; amended Pub. L. 96–128, title V, §501(b), Nov. 28, 1979, 93 Stat. 987; Pub. L. 97–72, title I, §104(a)(1), (b), Nov. 3, 1981, 95 Stat. 1049; Pub. L. 98–160, title I, §101, Nov. 21, 1983, 97 Stat. 993; Pub. L. 99–166, title I, §§105, 106, Dec. 3, 1985, 99 Stat. 944, 945; Pub. L. 99–272, title XIX, §§19011(d)(4), 19012(c)(3), Apr. 7, 1986, 100 Stat. 379, 382; Pub. L. 99–576, title II, §204, title VII, §702(6), Oct. 28, 1986, 100 Stat. 3255, 3302; Pub. L. 100–322, title I, §107(a)–(e), May 20, 1988, 102 Stat. 494–496; Pub. L. 100–687, div. B, title XV, §1501(a), Nov. 18, 1988, 102 Stat. 4132; Pub. L. 102–25, title III, §334(d), Apr. 6, 1991, 105 Stat. 89; Pub. L. 102–54, §14(b)(11), June 13, 1991, 105 Stat. 283; renumbered §1712A and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), (6), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 104–262, title I, §101(d)(5), title III, §331, Oct. 9, 1996, 110 Stat. 3180, 3197; Pub. L. 106–117, title II, §205(a), Nov. 30, 1999, 113 Stat. 1563.)
+(Added Pub. L. 96–22, title I, §103(a)(1), June 13, 1979, 93 Stat. 48, §612A; amended Pub. L. 96–128,title V, §501(b), Nov. 28, 1979, 93 Stat. 987; Pub. L. 97–72, title I, §104(a)(1), (b), Nov. 3, 1981, 95 Stat. 1049; Pub. L. 98–160, title I, §101, Nov. 21, 1983, 97 Stat. 993; Pub. L. 99–166, title I, §§105, 106, Dec. 3, 1985, 99 Stat. 944, 945; Pub. L. 99–272, title XIX, §§19011(d)(4), 19012(c)(3), Apr. 7, 1986, 100 Stat. 379, 382; Pub. L. 99–576, title II, §204, title VII, §702(6), Oct. 28, 1986, 100 Stat. 3255, 3302; Pub. L. 100–322, title I, §107(a)–(e), May 20, 1988, 102 Stat. 494–496; Pub. L. 100–687, div. B, title XV, §1501(a), Nov. 18, 1988, 102 Stat. 4132; Pub. L. 102–25, title III, §334(d), Apr. 6, 1991, 105 Stat. 89; Pub. L. 102–54, §14(b)(11), June 13, 1991, 105 Stat. 283; renumbered §1712A and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), (6), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 104–262, title I, §101(d)(5), title III, §331, Oct. 9, 1996, 110 Stat. 3180, 3197; Pub. L. 106–117, title II, §205(a), Nov. 30, 1999, 113 Stat. 1563.)
 
 #### References in Text
 
@@ -94,7 +94,7 @@ Section 102 of the Veterans’ Health Care Amendments of 1983, referred to in su
 
 1996—Subsec. (a). Pub. L. 104–262, §331(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows:
 
-“(a)(1) Upon the request of any veteran who served on active duty during the Vietnam era, the Secretary shall, within the limits of Department facilities, furnish counseling to such veteran to assist such veteran in readjusting to civilian life. Such counseling shall include a general mental and psychological assessment toascertain whether such veteran has mental or psychological problems associated with readjustment to civilian life.
+“(a)(1) Upon the request of any veteran who served on active duty during the Vietnam era, the Secretary shall, within the limits of Department facilities, furnish counseling to such veteran to assist such veteran in readjusting to civilian life. Such counseling shall include a general mental and psychological assessment to ascertain whether such veteran has mental or psychological problems associated with readjustment to civilian life.
 
 “(2)(A) The Secretary shall furnish counseling as described in paragraph (1), upon request, to any veteran who served on active duty after May 7, 1975, in an area at a time during which hostilities occurred in such area.
 
@@ -184,7 +184,7 @@ Subsec. (e)(1). Pub. L. 99–272, §19012(c)(3), substituted “603(a)(2)” for
 
 Pub. L. 99–272, §19011(d)(4)(B), substituted “612(a)(1)(B)” for “612(f)(2)”.
 
-Subsec. (g)(1). Pub. L. 99–576, §204(a), substituted “the 24-month period ending on September 30, 1989” for “thetwelve-month period ending on September 30, 1988” in introductory provision, and substituted “orderly, gradual transition by October 1, 1989” for “orderly transition, by October 1, 1988” in subpar. (A).
+Subsec. (g)(1). Pub. L. 99–576, §204(a), substituted “the 24-month period ending on September 30, 1989” for “the twelve-month period ending on September 30, 1988” in introductory provision, and substituted “orderly, gradual transition by October 1, 1989” for “orderly transition, by October 1, 1988” in subpar. (A).
 
 Subsec. (g)(2)(A). Pub. L. 99–576, §204(b)(1), inserted “(Pub. L. 98–160) (or, if the study is not then completed, whatever information from it is then available)” after “the Veterans’ Health Care Amendments of 1983”.
 
@@ -229,6 +229,34 @@ Amendment by Pub. L. 96–128 effective Nov. 28, 1979, see section 601(b) of Pub
 #### Effective Date
 
 Section effective Oct. 1, 1979, see section 107 of Pub. L. 96–22, set out as an Effective Date of 1979 Amendment note under section 1701 of this title.
+
+#### Study of Post-Traumatic Stress Disorder in Vietnam Veterans
+
+Pub. L. 106–419, title II, §212, Nov. 1, 2000, 114 Stat. 1843, provided that:
+
+“(a)
+
+Study on Post-Traumatic Stress Disorder.—Not later than 10 months after the date of the enactment of this Act \[Nov. 1, 2000\], the Secretary of Veterans Affairs shall enter into a contract with an appropriate entity to carry out a study on post-traumatic stress disorder.
+
+“(b)
+
+Follow-Up Study.—The contract under subsection (a) shall provide for a follow-up study to the study conducted in accordance with section 102 of the Veterans Health Care Amendments of 1983 (Public Law 98–160) \[set out as a note below\]. Such follow-up study shall use the data base and sample of the previous study.
+
+“(c)
+
+Information To Be Included.—The study conducted pursuant to this section shall be designed to yield information on—
+
+&emsp;“(1) the long-term course of post-traumatic stress disorder;
+
+&emsp;“(2) any long-term medical consequences of post-traumatic stress disorder;
+
+&emsp;“(3) whether particular subgroups of veterans are at greater risk of chronic or more severe problems with such disorder; and
+
+&emsp;“(4) the services used by veterans who have post-traumatic stress disorder and the effect of those services on the course of the disorder.
+
+“(d)
+
+Report.—The Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the results of the study under this section. The report shall be submitted no later than October 1, 2004.”
 
 #### Specialized Mental Health Services
 
@@ -406,7 +434,7 @@ Definitions.—For the purposes of this section:
 
 #### Updates of Reports on Post-Traumatic Stress Disorder
 
-Section 122(b) of Pub. L. 102–405 directed Special Committee on Post-Traumatic-Stress Disorder, not later than Oct. 1, 1992, and Oct. 1, 1993, to concurrently submit to Secretary and Committees on Veterans’ Affairs of Senate and House of Representatives a report containing information updating the reports submitted to the Secretary under section 110(e) of the Veterans’ Health Care Act of 1984, together with any additional information the Special Committee considers appropriate regarding the overall efforts of the Department of Veterans Affairs to meet the needs of veterans with post-traumatic stress disorder and other psychological problems in readjusting to civilian life, and directed Secretary, not later than 90 days after receiving each of the reports to submit to the committees any comments concerning the report that the Secretary considered appropriate. Similar provisions were contained in Pub. L. 101–237, title II, §201(e), Dec. 18, 1989, 103 Stat. 2066, as amended by Pub. L. 101–366, title II, §204, Aug. 15, 1990, 104 Stat. 439.
+Section 122(b) of Pub. L. 102–405 directed Special Committee on Post-Traumatic-Stress Disorder, not later than Oct. 1, 1992, and Oct. 1, 1993, to concurrently submit to Secretary and Committees on Veterans’ Affairs of Senate and House of Representatives a report containing information updating the reports submitted to the Secretary under section 110(e) of the Veterans’ Health Care Act of 1984, together with any additional information the Special Committee considers appropriate regarding the overall efforts of the Department of Veterans Affairs to meet the needs of veterans withpost-traumatic stress disorder and other psychological problems in readjusting to civilian life, and directed Secretary, not later than 90 days after receiving each of the reports to submit to the committees any comments concerning the report that the Secretary considered appropriate. Similar provisions were contained in Pub. L. 101–237, title II, §201(e), Dec. 18, 1989, 103 Stat. 2066, as amended by Pub. L. 101–366, title II, §204, Aug. 15, 1990, 104 Stat. 439.
 
 #### Authorization for Relocation of Certain Facilities
 
@@ -466,7 +494,7 @@ Pub. L. 98–528, title I, §110, Oct. 19, 1984, 98 Stat. 2691, as amended by Pu
 
 &emsp;“(G) A description of the steps taken, plans made (and a timetable for their execution), and resources to be applied to implement subsections (b) and (c).
 
-&emsp;“(H) The assessment of the Administrator \[now Secretary\] of the capacity of the Department to meet in all geographic areas of the United States the needs described in subparagraph (C) and any plans and timetable for increasing that capacity (including the costs of such action).
+&emsp;“(H) The assessment of the Administrator \[now Secretary\] of the capacity of the Department to meetin all geographic areas of the United States the needs described in subparagraph (C) and any plans and timetable for increasing that capacity (including the costs of such action).
 
 “(2) Not later than February 1, 2001, and February 1 of each of the three following years, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report containing information updating the reports submitted under this subsection since the enactment of the Veterans’ Millennium Health Care and Benefits Act \[Nov. 30, 1999\].”
 
@@ -480,5 +508,5 @@ Section 103(b) of Pub. L. 96–22, as amended by Pub. L. 102–83, §§5(c)(2), 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1703, 1710, 4102A, 4103, 4103A, 4104, 4214, 7306 of this title; title 29 sections 1721, 2913.
+This section is referred to in sections 1703, 1710, 4102A, 4103, 4103A, 4104, 4214, 7306 of this title; title 29 section 2913.
 

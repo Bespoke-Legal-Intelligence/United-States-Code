@@ -80,10 +80,6 @@ The provisions of this section shall take effect as if included in this chapter 
 
 (Pub. L. 99–371, title II, §207, as added Pub. L. 102–421, title I, §137(2), Oct. 16, 1992, 106 Stat. 2159; amended Pub. L. 103–73, title II, §204(f), Aug. 11, 1993, 107 Stat. 735; Pub. L. 105–244, title IX, §919, Oct. 7, 1998, 112 Stat. 1831.)
 
-#### Codification
-
-Section is also set out in D.C. Code, §31–1842.7a.
-
 #### Prior Provisions
 
 A prior section 4357, Pub. L. 99–371, title II, §207, formerly title IV, §407, Aug. 4, 1986, 100 Stat. 791; renumbered title II, §207, Pub. L. 102–421, title I, §101(b)(5), (6), Oct. 16, 1992, 106 Stat. 2151, provided for Gallaudet University Federal endowment program, prior to repeal effective Oct. 1, 1992, by Pub. L. 102–421, title I, §§137(1), 161, Oct. 16, 1992, 106 Stat. 2159, 2164.

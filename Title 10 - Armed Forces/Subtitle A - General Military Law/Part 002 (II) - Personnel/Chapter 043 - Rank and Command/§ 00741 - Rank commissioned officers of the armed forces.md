@@ -25,7 +25,7 @@
 
 (2) Except as otherwise provided by law, the date of rank of an officer who holds a grade as the result of a promotion is the date of his appointment to that grade.
 
-(3) Under regulations prescribed by the Secretary of Defense, which shall apply uniformly among the Army, Navy, Air Force, and Marine Corps, the date of rank of a reserve commissioned officer (other than a warrant officer) of the Army, Navy, Air Force, or Marine Corps who is to be placed on the active-duty list and who has not been on continuous active duty since his original appointment as a reserve commissioned officer in a grade above chief warrant officer, W–5, or who is transferred from an inactive status to an active status and placed on the active-duty list or the reserve active-status list may, effective on the date on which he is placed on the active-duty list or reserve active-status list, be changed by the Secretary concerned to a later date to reflect such officer's qualifications and experience. The authority to change the date of rank of a reserve officer who is placed on the active-duty list to a later date does not apply in the case of an officer who (A) has served continuously in the Selected Reserve of the Ready Reserve since the officer's last promotion, or (B) is placed on the active-duty list while on a promotion list as described in section 14317(b) of this title.
+(3) Under regulations prescribed by the Secretary of Defense, which shall apply uniformly among the Army, Navy, Air Force, and Marine Corps, the date of rank of a reserve commissioned officer (other than a warrant officer) of the Army, Navy, Air Force, or Marine Corps who is to be placed on the active-duty list and who has not been on continuous active duty since his original appointment as a reserve commissionedofficer in a grade above chief warrant officer, W–5, or who is transferred from an inactive status to an active status and placed on the active-duty list or the reserve active-status list may, effective on the date on which he is placed on the active-duty list or reserve active-status list, be changed by the Secretary concerned to a later date to reflect such officer's qualifications and experience. The authority to change the date of rank of a reserve officer who is placed on the active-duty list to a later date does not apply in the case of an officer who (A) has served continuously in the Selected Reserve of the Ready Reserve since the officer's last promotion, or (B) is placed on the active-duty list while on a promotion list as described in section 14317(b) of this title.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 33; Pub. L. 96–513, title I, §107, Dec. 12, 1980, 94 Stat. 2869; Pub. L. 97–22, §4(h), July 10, 1981, 95 Stat. 127; Pub. L. 97–86, title IV, §405(b)(8), Dec. 1, 1981, 95 Stat. 1106; Pub. L. 97–295, §1(11), Oct. 12, 1982, 96 Stat. 1289; Pub. L. 98–557, §25(c), Oct. 30, 1984, 98 Stat. 2873; Pub. L. 99–145, title V, §514(b)(8), Nov. 8, 1985, 99 Stat. 629; Pub. L. 102–190, div. A, title XI, §1131(1)(A), Dec. 5, 1991, 105 Stat. 1505; Pub. L. 103–337, div. A, title XVI, §1626, Oct. 5, 1994, 108 Stat. 2962; Pub. L. 104–106, div. A, title XV, §1501(a)(3), Feb. 10, 1996, 110 Stat. 495.)
 
@@ -140,10 +140,6 @@ Amendment by Pub. L. 97–86 effective Sept. 15, 1981, see section 405(f) of Pub
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to prescribe regulations under the amendment by Pub. L. 96–513 effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under section 101 of this title.
-
-#### Cross References
-
-Rank of officers for pay purposes, see sections 201, 202, 403, 414 of Title 37, Pay and Allowances of the Uniformed Services.
 
 #### Section Referred to in Other Sections
 

@@ -94,7 +94,7 @@ For purposes of this section:
 
 &emsp;“(1) commence assignment of the licenses for public safety services created pursuant to subsection (a) of this section no later than September 30, 1998; and”.
 
-Subsec. (b)(2). Pub. L. 106–79, which struck out par. (2) reading “commence competitive bidding for the commercial licenses created pursuant to subsection (a) ofthis section after January 1, 2001.”, was repealed by Pub. L. 106–113, §1000(a)(5) \[title II, §213(d)\].
+Subsec. (b)(2). Pub. L. 106–79, which struck out par. (2) reading “commence competitive bidding for the commercial licenses created pursuant to subsection (a) of this section after January 1, 2001.”, was repealed by Pub. L. 106–113, §1000(a)(5) \[title II, §213(d)\].
 
 #### Competitive Bidding Process for Commercial Licenses for Assigned Frequencies
 

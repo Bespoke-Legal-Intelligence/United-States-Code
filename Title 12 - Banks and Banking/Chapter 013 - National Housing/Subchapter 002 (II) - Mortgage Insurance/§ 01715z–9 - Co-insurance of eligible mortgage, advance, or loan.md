@@ -2,7 +2,7 @@
 
 #### (a) Authority of Secretary; request of mortgagee; premium charges; provisions of contract of co-insurance; non-applicability of state insurance laws
 
-In addition to providing insurance as otherwise authorized under this chapter, and notwithstanding any other provision of this chapter inconsistent with this section, the Secretary, upon request of any mortgagee and for such mortgage insurance premium as he may prescribe (which premium, or other charges to be paid by the mortgagor, shall not exceed the premium, or other charges, that would otherwise be applicable), may insure and make a commitment to insure under any provision of this subchapter any mortgage, advance, or loan otherwise eligible under such provision, pursuant to a co-insurance contract providing that the mortgagee will—
+In addition to providing insurance as otherwise authorized under this chapter, and notwithstanding any other provision of this chapter inconsistent with this section, the Secretary, uponrequest of any mortgagee and for such mortgage insurance premium as he may prescribe (which premium, or other charges to be paid by the mortgagor, shall not exceed the premium, or other charges, that would otherwise be applicable), may insure and make a commitment to insure under any provision of this subchapter any mortgage, advance, or loan otherwise eligible under such provision, pursuant to a co-insurance contract providing that the mortgagee will—
 
 &emsp;(1) assume a percentage of any loss on the insured mortgage, advance, or loan in direct proportion to the amount of the co-insurance, which co-insurance shall not be less than 10 per centum, subject to any reasonable limit or limits on the liability of the mortgagee that may be specified in the event of unusual or catastrophic losses that may be incurred by any one mortgagee; and
 
@@ -32,7 +32,7 @@ The Secretary shall not withdraw, deny, or delay insurance otherwise authorized 
 
 (4) As used in this subsection, the term “public housing agency” has the meaning given such term in section 1437a(b)(6) of title 42.
 
-(5) Notwithstanding any other provision of this chapter, the Secretary may include in the determination of replacement cost of a project to be covered by a mortgage made to a public housing agency and insured pursuant to thissubsection, such reserves and development costs, not to exceed 5 per centum of the amount otherwise allowable, as may be established or authorized by the public housing agency consistent with such agency's procedures and underwriting standards.
+(5) Notwithstanding any other provision of this chapter, the Secretary may include in the determination of replacement cost of a project to be covered by a mortgage made to a public housing agency and insured pursuant to this subsection, such reserves and development costs, not to exceed 5 per centum of the amount otherwise allowable, as may be established or authorized by the public housing agency consistent with such agency's procedures and underwriting standards.
 
 #### (g) Redesignated (f)
 
@@ -158,7 +158,7 @@ Subsec. (g). Pub. L. 94–375, §6(a), added subsec. (g).
 
 #### Change of Name
 
-Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Effective Date of 1981 Amendment
 

@@ -48,7 +48,7 @@ The Administrator, alone or after consultation with the Secretary of Energy, sha
 
 (4) For carrying out the purpose of this chapter the Administrator may detail personnel of the Environmental Protection Agency to agencies eligible for assistance under this section.
 
-(Pub. L. 89–272, title II, §8001, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2829; amended Pub. L. 95–91, title III, §301, title VII, §§703, 707, Aug. 4, 1977, 91 Stat. 577, 606, 607; Pub. L. 95–609, §7(s), Nov. 8, 1978, 92 Stat. 3083.)
+(Pub. L. 89–272, title II, §8001, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2829; amended Pub. L. 95–91, title III, §301, title VII, §§703, 707,Aug. 4, 1977, 91 Stat. 577, 606, 607; Pub. L. 95–609, §7(s), Nov. 8, 1978, 92 Stat. 3083.)
 
 #### References in Text
 

@@ -64,7 +64,7 @@
 
 #### References in Text
 
-This subchapter, referred to in subsec. (b)(4), was in the original “this Act”, meaning Pub. L. 98–621, Nov. 8, 1984, 98 Stat. 3369, known as the Saint Elizabeths Hospital and District of Columbia Mental Health Services Act. For complete classification of this Act to the Code, see Short Title note below and Tables.
+This subchapter, referred to in subsec. (b)(4), was in the original “this Act”, meaning Pub. L. 98–621, Nov. 8,1984, 98 Stat. 3369, known as the Saint Elizabeths Hospital and District of Columbia Mental Health Services Act. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 #### Amendments
 

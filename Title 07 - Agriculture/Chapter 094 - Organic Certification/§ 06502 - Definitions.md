@@ -20,7 +20,7 @@ As used in this chapter:
 
 #### (5) Certified organic handling operation
 
-&emsp;The term “certified organic handling operation” means any operation, or portion of any handling operation, that is certified by the certifying agent under this chapter as utilizing a system of organic handling as described under this chapter.
+&emsp;The term “certified organic handling operation” means any operation, or portion of anyhandling operation, that is certified by the certifying agent under this chapter as utilizing a system of organic handling as described under this chapter.
 
 #### (6) Crop year
 

@@ -20,21 +20,7 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1959—Pub. L. 86–282 substituted “may” for “shall” after “several plaintiffs”, and “, or the court may allow” for “. If there is more than one defendant the court may allow the defendants”.
-
-#### Federal Rules of Civil Procedure
-
-Alternate jurors, challenges, see rule 47, Appendix to this title.
-
-Jurors and juries, see rules 38, 39, 47 and 48.
-
-#### Federal Rules of Criminal Procedure
-
-Criminal cases, jury challenges, see rule 24, Title 18, Appendix, Crimes and Criminal Procedure.
-
-#### Cross References
-
-Challenges in summary trials, see section 394 of Title 33, Navigation and Navigable Waters.
+<b>1959</b>—Pub. L. 86–282 substituted “may” for “shall” after “several plaintiffs”, and “, or the court may allow” for “. If there is more than one defendant the court may allow the defendants”.
 
 #### Section Referred to in Other Sections
 

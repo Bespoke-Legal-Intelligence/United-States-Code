@@ -22,7 +22,7 @@ Another prior section 1061, Pub. L. 89–329, title IV, §401, Nov. 8, 1965, 79 
 
 #### Amendments
 
-1988—Par. (2). Pub. L. 100–369 inserted “,, except that any branch campus of a southern institution of higher education that prior to September 30, 1986, received a grant as an institution with special needs under section 1060 of this title and was formally recognized by the National Center for Education Statistics as a Historically Black College or University but was determined not to be a part B institution on or after October 17,1986, shall, from July 18, 1988, be considered a part B institution” after “accreditation”.
+1988—Par. (2). Pub. L. 100–369 inserted “,, except that any branch campus of a southern institution of higher education that prior to September 30, 1986, received a grant as an institution with special needs under section 1060 of this title and was formally recognized by the National Center for Education Statistics as a Historically Black College or University but was determined not to be a part B institution on or after October 17, 1986, shall, from July 18, 1988, be considered a part B institution” after “accreditation”.
 
 #### Section Referred to in Other Sections
 

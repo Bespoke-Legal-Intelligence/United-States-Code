@@ -16,13 +16,13 @@
 
 #### (b) Eligible entities
 
-For the purpose of this section, the term “eligible entity” means a State educational agency,local educational agency, Indian tribe, Indian organization, federally supported elementary and secondary school for Indian students, Indian institution, including an Indian institution of higher education, or a consortium of such institutions.
+For the purpose of this section, the term “eligible entity” means a State educational agency, local educational agency, Indian tribe, Indian organization, federally supported elementary and secondary school for Indian students, Indian institution, including an Indian institution of higher education, or a consortium of such institutions.
 
 #### (c) Grants authorized
 
 #### (1) In general
 
-&emsp;The Secretary shall award grants to eligible entities to enable such entities to carry out activities that meet the purpose specified in subsection (a)(1) of this section, including—
+&emsp;The Secretary shall award grants to eligible entities to enable such entities to carry outactivities that meet the purpose specified in subsection (a)(1) of this section, including—
 
 &emsp;&emsp;(A) innovative programs related to the educational needs of educationally deprived children;
 

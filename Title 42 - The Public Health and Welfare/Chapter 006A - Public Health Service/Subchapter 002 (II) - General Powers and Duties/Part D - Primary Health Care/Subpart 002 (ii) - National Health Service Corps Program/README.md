@@ -6,7 +6,7 @@ subpart ii—national health service corps program
 
 #### Subpart Referred to in Other Sections
 
-This subpart is referred to in sections 242a, 295j, 1395ccc of this title.
+This subpart is referred to in sections 295j, 1395ccc of this title.
 
 
 ---

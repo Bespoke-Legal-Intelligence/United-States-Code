@@ -34,9 +34,9 @@
 
 &emsp;(B) transactions otherwise than on a national securities exchange effected by use of the mails or any means or instrumentality of interstate commerce by any member of a national securities exchange, broker, or dealer for the account of such member, broker, or dealer (unless such member, broker, or dealer is acting in the capacity of a market maker) <sup>1</sup> the account of an associated person, or an account with respect to which such member, broker, or dealer or associated person thereof exercises investment discretion; and
 
-&emsp;(C) transactions on a national securities exchange effected by any broker or dealer not a member thereof for the account of such broker or dealer (unless such broker or dealer is acting in the capacity of market maker), the account of an associated person, or an account with respect to which such broker or dealer orassociated person thereof exercises investment discretion.
+&emsp;(C) transactions on a national securities exchange effected by any broker or dealer not a member thereof for the account of such broker or dealer (unless such broker or dealer is acting in the capacity of market maker), the account of an associated person, or an account with respect to which such broker or dealer or associated person thereof exercises investment discretion.
 
-(3) The provisions of paragraph (1) of this subsection insofar as they apply to transactions on a national securities exchange effected by a member thereof who was a member on February 1, 1978 shall not become effective until February 1, 1979. Nothing in this paragraph shall be construed to impair or limit the authority of the Commission to regulate or prohibit such transactions prior to February 1, 1979, pursuant to paragraph (2) of this subsection.
+(3) The provisions of paragraph (1) of this subsection insofar as they apply to transactions on a national securities exchange effected by amember thereof who was a member on February 1, 1978 shall not become effective until February 1, 1979. Nothing in this paragraph shall be construed to impair or limit the authority of the Commission to regulate or prohibit such transactions prior to February 1, 1979, pursuant to paragraph (2) of this subsection.
 
 #### (b) Registration of members as odd-lot dealers and specialists
 
@@ -66,7 +66,7 @@ Subsec. (a)(1)(H), (I). Pub. L. 103–68, §1(2)–(4), added subpar. (H) and re
 
 1975—Subsec. (a). Pub. L. 94–29, §6(2), prohibited stock exchange members from effecting any transaction on the exchange for its own account, the account of an associated person, or an account with respect to which the member or an associated person exercises investment discretion, exempted from that prohibition 8 types of transactions, and authorized the Commission, as it deems necessary or appropriate in the public interest or for the protection of investors, to regulate or prohibit the specifically exempted transactions, certain transactions otherwise that on a national securities exchange, and transactions on a national securities exchange effected by a broker or dealer not a member thereof for the account of such broker or dealer, the account of an associated person, or an account with respect to which such broker, dealer, or associated person exercises investment discretion.
 
-Subsec. (b). Pub. L. 94–29, §6(2), struck out requirement that specialist's dealings be limited to those transactions reasonably necessary to permit him tomaintain a fair and orderly market, expanded the Commission's rulemaking authority in the area of specialist's dealings so that the Commission may define responsibilities and restrict activities of specialists in response to changing conditions in the market, expanded the standards to be followed by the Commission in exercising its rulemaking power to include the maintenance of fair and orderly markets and the removal of impediments to and the perfection of the mechanism of a national market system, and inserted specific reference to the Commission's power to limit the activity of a specialist to that of a broker or dealer.
+Subsec. (b). Pub. L. 94–29, §6(2), struck out requirement that specialist's dealings be limited to those transactions reasonably necessary to permit him to maintain a fair and orderly market, expanded the Commission's rulemaking authority in the area of specialist's dealings so that the Commission may define responsibilities and restrict activities of specialists in response to changing conditions in the market, expanded the standards to be followed by the Commission in exercising its rulemaking power to include the maintenance of fair and orderly markets and the removal of impediments to and the perfection of the mechanism of a national market system, and inserted specific reference to the Commission's power to limit the activity of a specialist to that of a broker or dealer.
 
 Subsec. (e). Pub. L. 94–29, §6(3), struck out subsec. (e) which directed the Commission to make a study, to be submitted on or before Jan. 3, 1936, of the feasibility of segregating the functions of dealer and broker.
 
@@ -88,15 +88,9 @@ Amendment by act Aug. 10, 1954, effective 60 days after Aug. 10, 1954, see note 
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
-#### Cross References
-
-Effective date, see section 78hh of this title.
-
-Rules and regulations, power of Commission to make, see section 78w of this title.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 78y, 78hh of this title.
+This section is referred to in sections 78f, 78<i>o</i>, 78y, 78hh of this title; title 7 section 2.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

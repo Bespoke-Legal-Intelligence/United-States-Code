@@ -20,7 +20,7 @@ In making grants under subsection (a) of this section, the Secretary may require
 
 #### (3) Investments
 
-&emsp;The Secretary of the Treasury may invest any portion of the Fund in interest-bearing obligations of the United States. Such obligations may be acquired on original issue or in the open market and may be held to maturityor sold in the open market. In making investments for the Fund, the Secretary of the Treasury shall consult the Secretary of the Interior with respect to maturities, purchases, and sales, taking into consideration the balance necessary to meet current grant requirements.
+&emsp;The Secretary of the Treasury may invest any portion of the Fund in interest-bearing obligations of the United States. Such obligations may be acquired on original issue or in the open market and may be held to maturity or sold in the open market. In making investments for the Fund, the Secretary of the Treasury shall consult the Secretary of the Interior with respect to maturities, purchases, and sales, taking into consideration the balance necessary to meet current grant requirements.
 
 #### (4) Expenditures and capital preservation
 
@@ -30,15 +30,11 @@ In making grants under subsection (a) of this section, the Secretary may require
 
 &emsp;There is authorized to be appropriated to the Fund $2,000,000 for each fiscal year beginning with fiscal year 1992.
 
-#### (d) Annual report
-
-Not later than January 31 of each year, the Secretary of the Interior, in consultation with the Secretary of the Treasury, shall submit to the Congress a report of activities under this section, including a statement of—
-
-&emsp;(1) the financial condition of the Fund as of the end of the preceding fiscal year, with an analysis of the Fund transactions during that fiscal year; and
-
-&emsp;(2) the projected financial condition of the Fund, with an analysis of expected Fund transactions for the six fiscal years after that fiscal year.
-
 (Pub. L. 101–185, §15, Nov. 28, 1989, 103 Stat. 1345.)
+
+#### Codification
+
+Subsec. (d) of this section, which required the Secretary of the Interior, in consultation with the Secretary of the Treasury, to submit an annual report to Congress on activities under this section, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 108 of House Document No. 103–7.
 
 #### Native American Cultural Center in Oklahoma City, Oklahoma; Feasibility Study and Report
 

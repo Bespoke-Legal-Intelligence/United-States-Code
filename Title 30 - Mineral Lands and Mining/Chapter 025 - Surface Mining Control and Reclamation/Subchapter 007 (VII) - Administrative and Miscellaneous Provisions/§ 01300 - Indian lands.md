@@ -30,7 +30,7 @@ The Secretary shall provide for adequate participation by the various Indian tri
 
 #### (h) Jurisdictional status
 
-The Secretary shall analyze and make recommendations regarding the jurisdictional status of Indian Lands <sup>1</sup> outside the exterior boundaries of Indian reservations: <i>Provided</i>, That nothing in this chapter shall change the existing jurisdictional status of Indian Lands.<sup>1</sup>
+The Secretary shall analyze and make recommendations regarding the jurisdictional status of Indian Lands <sup>1</sup> outside the exterior boundaries of Indian reservations: <i>Provided</i>, That nothing inthis chapter shall change the existing jurisdictional status of Indian Lands.<sup>1</sup>
 
 #### (i) Grants
 

@@ -59,7 +59,7 @@
 | (d) | Manufacturers of controlled substances in schedule III, IV, or V. |
 | (e) | Distributors of controlled substances in schedule III, IV, or V. |
 | (f) | Research by practitioners; pharmacies; research applications; construction of Article 7 of the Convention on Psychotropic Substances. |
-| (g) | Practitioners dispensing narcotic drugs for narcotic treatment; annual registration; separate registration; qualifications. |
+| (g) | Practitioners dispensing narcotic drugs for narcotic treatment; annual registration; separate registration; qualifications; waiver. |
 | (h) | Applicants for distribution of list I chemicals. |
 | [824\.](Subchapter%20001%20%28I%29%20-%20Control%20and%20Enforcement/Part%20C%20-%20Registration%20of%20Manufacturers%2C%20Distributors%2C%20and%20Dispensers%20of%20Controlled%20Substances/%C2%A7%2000824%20-%20Denial%2C%20revocation%2C%20or%20suspension%20of%20registration.md) | Denial, revocation, or suspension of registration. |
 | (a) | Grounds. |
@@ -89,6 +89,7 @@
 | (e) | Reporting and recordkeeping requirements of drug conventions. |
 | (f) | Investigational uses of drugs; procedures. |
 | (g) | Change of address. |
+| (h) | Reporting requirements for GHB. |
 | [828\.](Subchapter%20001%20%28I%29%20-%20Control%20and%20Enforcement/Part%20C%20-%20Registration%20of%20Manufacturers%2C%20Distributors%2C%20and%20Dispensers%20of%20Controlled%20Substances/%C2%A7%2000828%20-%20Order%20forms.md) | Order forms. |
 | (a) | Unlawful distribution of controlled substances. |
 | (b) | Nonapplicability of provisions. |
@@ -114,11 +115,10 @@
 | [841\.](Subchapter%20001%20%28I%29%20-%20Control%20and%20Enforcement/Part%20D%20-%20Offenses%20and%20Penalties/%C2%A7%2000841%20-%20Prohibited%20acts%20A.md) | Prohibited acts A. |
 | (a) | Unlawful acts. |
 | (b) | Penalties. |
-| (c) | Repealed. |
-| (d) | Offenses involving listed chemicals. |
-| (e) | Boobytraps on Federal property; penalties; “boobytrap” defined. |
-| (f) | Ten-year injunction as additional penalty. |
-| (g) | Wrongful distribution or possession of listed chemicals. |
+| (c) | Offenses involving listed chemicals. |
+| (d) | Boobytraps on Federal property; penalties; “boobytrap” defined. |
+| (e) | Ten-year injunction as additional penalty. |
+| (f) | Wrongful distribution or possession of listed chemicals. |
 | [842\.](Subchapter%20001%20%28I%29%20-%20Control%20and%20Enforcement/Part%20D%20-%20Offenses%20and%20Penalties/%C2%A7%2000842%20-%20Prohibited%20acts%20B.md) | Prohibited acts B. |
 | (a) | Unlawful acts. |
 | (b) | Manufacture. |
@@ -204,6 +204,9 @@
 | (d) | Construction. |
 | [855\.](Subchapter%20001%20%28I%29%20-%20Control%20and%20Enforcement/Part%20D%20-%20Offenses%20and%20Penalties/%C2%A7%2000855%20-%20Alternative%20fine.md) | Alternative fine. |
 | [856\.](Subchapter%20001%20%28I%29%20-%20Control%20and%20Enforcement/Part%20D%20-%20Offenses%20and%20Penalties/%C2%A7%2000856%20-%20Establishment%20of%20manufacturing%20operations.md) | Establishment of manufacturing operations. |
+| (a) | Unlawful acts. |
+| (b) | Penalties. |
+| (c) | Violation as offense against property. |
 | [857\.](Subchapter%20001%20%28I%29%20-%20Control%20and%20Enforcement/Part%20D%20-%20Offenses%20and%20Penalties/%C2%A7%2000857%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93647%2C%20title%20XXIV%2C%20%C2%A72401%28d%29%2C%20Nov.%2029%2C%201990%2C%20104%20Stat.%204859.md) | Repealed. |
 | [858\.](Subchapter%20001%20%28I%29%20-%20Control%20and%20Enforcement/Part%20D%20-%20Offenses%20and%20Penalties/%C2%A7%2000858%20-%20Endangering%20human%20life%20while%20illegally%20manufacturing%20controlled%20substance.md) | Endangering human life while illegally manufacturing controlled substance. |
 | [859\.](Subchapter%20001%20%28I%29%20-%20Control%20and%20Enforcement/Part%20D%20-%20Offenses%20and%20Penalties/%C2%A7%2000859%20-%20Distribution%20to%20persons%20under%20age%20twenty-one.md) | Distribution to persons under age twenty-one. |
@@ -246,6 +249,7 @@
 | (d) | “Drug paraphernalia” defined. |
 | (e) | Matters considered in determination of what constitutes drug paraphernalia. |
 | (f) | Exemptions. |
+| [864\.](Subchapter%20001%20%28I%29%20-%20Control%20and%20Enforcement/Part%20D%20-%20Offenses%20and%20Penalties/%C2%A7%2000864%20-%20Anhydrous%20ammonia.md) | Anhydrous ammonia. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -290,7 +294,7 @@
 | (d) | Administrative inspection warrants; issuance; execution; probable cause. |
 | [881\.](Subchapter%20001%20%28I%29%20-%20Control%20and%20Enforcement/Part%20E%20-%20Administrative%20and%20Enforcement%20Provisions/%C2%A7%2000881%20-%20Forfeitures.md) | Forfeitures. |
 | (a) | Subject property. |
-| (b) | Seizure pursuant to Supplemental Rules for Certain Admiralty and Maritime Claims issuance of warrant authorizing seizure. |
+| (b) | Seizure procedures. |
 | (c) | Custody of Attorney General. |
 | (d) | Other laws and proceedings applicable. |
 | (e) | Disposition of forfeited property. |
@@ -321,11 +325,7 @@
 | (d) | Drug Pollution Fund. |
 | [886a.](Subchapter%20001%20%28I%29%20-%20Control%20and%20Enforcement/Part%20E%20-%20Administrative%20and%20Enforcement%20Provisions/%C2%A7%2000886a%20-%20Diversion%20Control%20Fee%20Account.md) | Diversion Control Fee Account. |
 | [887\.](Subchapter%20001%20%28I%29%20-%20Control%20and%20Enforcement/Part%20E%20-%20Administrative%20and%20Enforcement%20Provisions/%C2%A7%2000887%20-%20Coordination%20and%20consolidation%20of%20post-seizure%20administration.md) | Coordination and consolidation of post-seizure administration. |
-| [888\.](Subchapter%20001%20%28I%29%20-%20Control%20and%20Enforcement/Part%20E%20-%20Administrative%20and%20Enforcement%20Provisions/%C2%A7%2000888%20-%20Expedited%20procedures%20for%20seized%20conveyances.md) | Expedited procedures for seized conveyances. |
-| (a) | Petition for expedited decision; determination. |
-| (b) | Written notice of procedures. |
-| (c) | Complaint for forfeiture. |
-| (d) | Bond for release of conveyance. |
+| [888\.](Subchapter%20001%20%28I%29%20-%20Control%20and%20Enforcement/Part%20E%20-%20Administrative%20and%20Enforcement%20Provisions/%C2%A7%2000888%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93185%2C%20%C2%A72%28c%29%283%29%2C%20Apr.%2025%2C%202000%2C%20114%20Stat.%20210.md) | Repealed. |
 | [889\.](Subchapter%20001%20%28I%29%20-%20Control%20and%20Enforcement/Part%20E%20-%20Administrative%20and%20Enforcement%20Provisions/%C2%A7%2000889%20-%20Production%20control%20of%20controlled%20substances.md) | Production control of controlled substances. |
 | (a) | Definitions. |
 | (b) | Persons ineligible for Federal agricultural program benefits. |

@@ -4,7 +4,3 @@ As used in sections 131 to 135 of this title, the term “Washington metropolita
 
 (Pub. L. 86–527, §6, June 27, 1960, 74 Stat. 224.)
 
-#### Codification
-
-Section is also set out in D.C. Code, §1–2105.
-

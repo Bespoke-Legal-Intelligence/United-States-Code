@@ -20,7 +20,7 @@ Subject to sections 1815(d)(3) and 1828(c) of this title and all other applicabl
 
 #### (c) Rule of construction
 
-No provision of this section shall be construed as authorizing a national bank or a subsidiary of a national bank to engage in any activity not otherwise authorized under this Act <sup>1</sup> or anyother law governing the powers of national banks.
+No provision of this section shall be construed as authorizing a national bank or a subsidiary of a national bank to engage in any activity not otherwise authorized under this Act <sup>1</sup> or any other law governing the powers of national banks.
 
 #### (d) “Acquire” defined
 

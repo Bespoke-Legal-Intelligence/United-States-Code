@@ -2,7 +2,7 @@
 
 #### (a) Designation; preconditions; bonding requirements; supervision
 
-Subject to subsection (b) of this section, buildings or parts of buildings and other enclosures may be designated by the Secretary of the Treasury as bonded warehouses for the storage of imported merchandise entered for warehousing, or taken possession of by the appropriate customs officer, or under seizure, or for the manufacture of merchandise in bond, or for the repacking, sorting, or cleaning of imported merchandise. Such warehouses may be bonded for the storing of such merchandise only as shall belong or be consigned to the owners or proprietors thereof and be known as private bonded warehouses, or for the storage of imported merchandise generally and be known as public bonded warehouses. Before any imported merchandise not finally released from customs custody shall be stored in any such premises, the owner or lessee thereof shall give a bond in such sum and with such sureties as may be approved by the Secretary of the Treasury to secure the Government against any loss or expense connected with or arising from the deposit, storage, or manipulation of merchandise in such warehouse. Except as otherwise provided in this chapter, bonded warehouses shall be used solely for the storage of imported merchandise and shall be placed in charge of a proper officer of the customs, who, together with the proprietor thereof, shall have joint custody of all merchandise stored in the warehouse; and all labor on the merchandise so stored shall be performed by the owner or proprietor of the warehouse, under supervision of the officer of the customs in charge of the same, at the expense of the owner or proprietor. The compensation of such officer of the customs and other customs employees appointed to supervise the receipt of merchandise into any such warehouse and deliveries therefrom shall be reimbursed to the Government by the proprietor of such warehouse.
+Subject to subsection (b) of this section, buildings or parts of buildings and other enclosures may be designated by the Secretary of the Treasury as bonded warehouses for the storage of imported merchandise entered for warehousing, or taken possession of by the appropriate customs officer, or under seizure, or for the manufacture of merchandise in bond, or for the repacking, sorting, or cleaning of importedmerchandise. Such warehouses may be bonded for the storing of such merchandise only as shall belong or be consigned to the owners or proprietors thereof and be known as private bonded warehouses, or for the storage of imported merchandise generally and be known as public bonded warehouses. Before any imported merchandise not finally released from customs custody shall be stored in any such premises, the owner or lessee thereof shall give a bond in such sum and with such sureties as may be approved by the Secretary of the Treasury to secure the Government against any loss or expense connected with or arising from the deposit, storage, or manipulation of merchandise in such warehouse. Except as otherwise provided in this chapter, bonded warehouses shall be used solely for the storage of imported merchandise and shall be placed in charge of a proper officer of the customs, who, together with the proprietor thereof, shall have joint custody of all merchandise stored in the warehouse; and all labor on the merchandise so stored shall be performed by the owner or proprietor of the warehouse, under supervision of the officer of the customs in charge of the same, at the expense of the owner or proprietor. The compensation of such officer of the customs and other customs employees appointed to supervise the receipt of merchandise into any such warehouse and deliveries therefrom shall be reimbursed to the Government by the proprietor of such warehouse.
 
 #### (b) Duty-free sales enterprises
 
@@ -30,7 +30,7 @@ Subject to subsection (b) of this section, buildings or parts of buildings and o
 
 &emsp;&emsp;(iii) is subject to the customs laws and regulation of any foreign country to which it is taken;
 
-&emsp;(D) shall not be required to mark or otherwise place a distinguishing identifier on individual items of merchandise to indicate thatthe items were sold by a duty-free sales enterprise, unless the Secretary finds a pattern in which such items are being brought back into the customs territory without declaration;
+&emsp;(D) shall not be required to mark or otherwise place a distinguishing identifier on individual items of merchandise to indicate that the items were sold by a duty-free sales enterprise, unless the Secretary finds a pattern in which such items are being brought back into the customs territory without declaration;
 
 &emsp;(E) may unpack merchandise into saleable units after it has been entered for warehouse and placed in a duty-free sales enterprise, without requirement of further permits; and
 
@@ -54,7 +54,7 @@ Subject to subsection (b) of this section, buildings or parts of buildings and o
 
 (4) If a State or local or other governmental authority, incident to its jurisdiction over any airport, seaport, or other exit point facility, requires that a concession or other form of approval be obtained from that authority with respect to the operation of a duty-free sales enterprise under which merchandise is delivered to or through such facility for exportation, merchandise incident to such operation may not be withdrawn from a bonded warehouse and transferred to or through such facility unless the operator of the duty-free sales enterprise demonstrates to the Secretary that the concession or approval required for the enterprise has been obtained.
 
-(5) This subsection does not prohibit a duty-free sales enterprise from offering for sale and delivering to, or on behalf of, individuals departing from the customs territory merchandise other than duty-free merchandise, except that such other merchandise may not be stored in a bonded warehouse facility other than a bonded facility used for retail sales.
+(5) This subsection does not prohibit a duty-free sales enterprise from offering for sale and delivering to, or on behalf of, individuals departing from the customs territory merchandise other than duty-free merchandise, except thatsuch other merchandise may not be stored in a bonded warehouse facility other than a bonded facility used for retail sales.
 
 (6)(A) Except as provided in subparagraph (B), merchandise that is purchased in a duty-free sales enterprise is not eligible for exemption from duty under subchapter IV of chapter 98 of the Harmonized Tariff Schedule of the United States if such merchandise is brought back to the customs territory.
 
@@ -78,7 +78,37 @@ Subject to subsection (b) of this section, buildings or parts of buildings and o
 
 &emsp;(G) The term “personal use quantities” means quantities that are only suitable for uses other than resale, and includes reasonable quantities for household or family consumption as well as for gifts to others.
 
-(June 17, 1930, ch. 497, title IV, §555, 46 Stat. 743; Pub. L. 91–271, title III, §301(b), June 2, 1970, 84 Stat. 287; Pub. L. 98–573, title II, §211, Oct. 30, 1984, 98 Stat. 2977; Pub. L. 100–418, title I, §1908(b), Aug. 23, 1988, 102 Stat. 1315; Pub. L. 101–382, title I, §139(a)(1), Aug. 20, 1990, 104 Stat. 653; Pub. L. 104–295, §29, Oct. 11, 1996, 110 Stat. 3535; Pub. L. 106–36, title II, §2417, June 25, 1999, 113 Stat. 176.)
+#### (c) International travel merchandise
+
+#### (1) Definitions
+
+&emsp;For purposes of this section—
+
+&emsp;&emsp;(A) the term “international travel merchandise” means duty-free or domestic merchandise which is placed on board aircraft on international flights for sale to passengers, but which is not merchandise incidental to the operation of a duty-free sales enterprise;
+
+&emsp;&emsp;(B) the term “staging area” is an area controlled by the proprietor of a bonded warehouse outside of the physical parameters of the bonded warehouse in which manipulation of international travel merchandise in carts occurs;
+
+&emsp;&emsp;(C) the term “duty-free merchandise” means merchandise on which the liability for payment of duty or tax imposed by reason of importation has been deferred pending exportation from the customs territory;
+
+&emsp;&emsp;(D) the term “manipulation” means the repackaging, cleaning, sorting, or removal from or placement on carts of international travel merchandise; and
+
+&emsp;&emsp;(E) the term “cart” means a portable container holding international travel merchandise on an aircraft for exportation.
+
+#### (2) Bonded warehouse for international travel merchandise
+
+&emsp;The Secretary shall by regulation establish a separate class of bonded warehouse for the storage and manipulation of international travel merchandise pending its placement on board aircraft departing for foreign destinations.
+
+#### (3) Rules for treatment of international travel merchandise and bonded warehouses and staging areas
+
+&emsp;(A) The proprietor of a bonded warehouse established for the storage and manipulation of international travel merchandise shall give a bond in such sum and with such sureties as may be approved by the Secretary of the Treasury to secure the Government against any loss or expense connected with or arising from the deposit, storage, or manipulation of merchandise in such warehouse. The warehouse proprietor's bond shall also secure the manipulation of international travel merchandise in a staging area.
+
+&emsp;(B) A transfer of liability from the international carrier to the warehouse proprietor occurs when the carrier assigns custody of international travel merchandise to the warehouse proprietor for purposes of entry into warehouse or for manipulation in the staging area.
+
+&emsp;(C) A transfer of liability from the warehouse proprietor to the international carrier occurs when the bonded warehouse proprietor assigns custody of international travel merchandise to the carrier.
+
+&emsp;(D) The Secretary is authorized to promulgate regulations to require the proprietor and the international carrier to keep records of the disposition of any cart brought into theUnited States and all merchandise on such cart.
+
+(June 17, 1930, ch. 497, title IV, §555, 46 Stat. 743; Pub. L. 91–271, title III, §301(b), June 2, 1970, 84 Stat. 287; Pub. L. 98–573, title II, §211, Oct. 30, 1984, 98 Stat. 2977; Pub. L. 100–418, title I, §1908(b), Aug. 23, 1988, 102 Stat. 1315; Pub. L. 101–382, title I, §139(a)(1), Aug. 20, 1990, 104 Stat. 653; Pub. L. 104–295, §29, Oct. 11, 1996, 110 Stat. 3535; Pub. L. 106–36, title II, §2417, June 25, 1999, 113 Stat. 176; Pub. L. 106–476, title I, §1454, Nov. 9, 2000, 114 Stat. 2168.)
 
 #### References in Text
 
@@ -96,6 +126,8 @@ Prior provisions dealing with the subject matter of this section were contained 
 
 #### Amendments
 
+2000—Subsec. (c). Pub. L. 106–476 added subsec. (c).
+
 1999—Subsec. (b)(2)(B), (C). Pub. L. 106–36 substituted “; or” for period at end of subpar. (B) and added subpar. (C).
 
 1996—Subsec. (b)(6). Pub. L. 104–295 designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B), merchandise” for “Merchandise”, and added subpar. (B).
@@ -107,6 +139,10 @@ Prior provisions dealing with the subject matter of this section were contained 
 1984—Pub. L. 98–573 designated existing provisions as subsec. (a), substituted “Subject to subsection (b) of this section, buildings” for “Buildings”, and added subsec. (b).
 
 1970—Pub. L. 91–271 substituted reference to appropriate customs officer for reference to collector.
+
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–476, except as otherwise provided, applicable with respect to goods entered, or withdrawn from warehouse, for consumption, on or after the 15th day after Nov. 9, 2000, see section 1471 of Pub. L. 106–476, set out as a note under section 58c of this title.
 
 #### Effective Date of 1988 Amendment
 

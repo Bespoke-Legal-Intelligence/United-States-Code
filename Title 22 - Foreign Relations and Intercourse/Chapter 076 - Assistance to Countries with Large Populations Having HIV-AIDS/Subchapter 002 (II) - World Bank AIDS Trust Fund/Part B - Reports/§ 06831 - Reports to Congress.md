@@ -1,0 +1,38 @@
+### §6831. Reports to Congress
+
+#### (a) Annual reports by Treasury Secretary
+
+#### (1) In general
+
+&emsp;Not later than 1 year after August 19, 2000, and annually thereafter for the duration of the Trust Fund, the Secretary of the Treasury shall submit to the appropriate committees of Congress a report on the Trust Fund.
+
+#### (2) Report elements
+
+&emsp;The report shall include a description of—
+
+&emsp;&emsp;(A) the goals of the Trust Fund;
+
+&emsp;&emsp;(B) the programs, projects, and activities, including any vaccination approaches, supported by the Trust Fund;
+
+&emsp;&emsp;(C) private and governmental contributions to the Trust Fund; and
+
+&emsp;&emsp;(D) the criteria that have been established, acceptable to the Secretary of the Treasury and the Administrator of the United States Agency for International Development, that would be used to determine the programs and activities that should be assisted by the Trust Fund.
+
+#### (b) GAO report on Trust Fund effectiveness
+
+Not later than 2 years after August 19, 2000, the Comptroller General of the United States shall submit to the appropriate committees of the Congress a report evaluating the effectiveness of the Trust Fund, including—
+
+&emsp;(1) the effectiveness of the programs, projects, and activities described in subsection (a)(2)(B) of this section in reducing the worldwide spread of AIDS; and
+
+&emsp;(2) an assessment of the merits of continued United States financial contributions to the Trust Fund.
+
+#### (c) Appropriate committees defined
+
+In subsection (a) of this section, the term “appropriate committees” means the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on International Relations, the Committee on Banking and Financial Services, and the Committee on Appropriations of the House of Representatives.
+
+(Pub. L. 106–264, title I, §131, Aug. 19, 2000, 114 Stat. 757.)
+
+#### Change of Name
+
+Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+

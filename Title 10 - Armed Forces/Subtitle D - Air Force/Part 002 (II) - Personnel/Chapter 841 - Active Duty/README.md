@@ -21,10 +21,6 @@
 
 1958—Pub. L. 85–861, §1(181)(B), Sept. 2, 1958, 72 Stat. 1533, added item 8494.
 
-#### Cross References
-
-Disabled officers having temporary appointments, retention on active duty, see section 8446 of this title.
-
 
 ---
 

@@ -16,23 +16,13 @@ A prior section 1745, act June 25, 1948, ch. 646, 62 Stat. 948, related to print
 
 #### Amendments
 
-1999—Pub. L. 106–113 substituted “United States Patent and Trademark Office” for “United States Patent Office”.
+<b>1999</b>—Pub. L. 106–113 substituted “United States Patent and Trademark Office” for “United States Patent Office”.
 
-1964—Pub. L. 88–619, among other changes, inserted “or applications for foreign letters patent, and copies of excerpts of the official journals and other official publications of foreign patent offices belonging to the United States Patent Office” in text, and substituted “documents” for “specifications and drawings” in section catchline.
+<b>1964</b>—Pub. L. 88–619, among other changes, inserted “or applications for foreign letters patent, and copies of excerpts of the official journals and other official publications of foreign patent offices belonging to the United States Patent Office” in text, and substituted “documents” for “specifications and drawings” in section catchline.
 
-1949—Act May 24, 1949, renumbered section 1746 of this title as this section.
+<b>1949</b>—Act May 24, 1949, renumbered section 1746 of this title as this section.
 
 #### Effective Date of 1999 Amendment
 
 Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
-
-#### Federal Rules of Civil Procedure
-
-Proof of official records, see rule 44, Appendix to this title.
-
-Effect of rule 44 on former section 675 of this title, see note by Advisory Committee under rule 44.
-
-#### Federal Rules of Criminal Procedure
-
-Proof of official records, see rule 27, and note of the Advisory Committee under rule 27, Title 18, Appendix, Crimes and Criminal Procedure.
 

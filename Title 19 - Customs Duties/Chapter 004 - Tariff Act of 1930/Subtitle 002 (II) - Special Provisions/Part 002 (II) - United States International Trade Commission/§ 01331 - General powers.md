@@ -28,7 +28,7 @@ Except for employees excepted under civil service rules, all employees of the co
 
 #### (c) Expenses
 
-All of the expenses of the commission, including all necessary expenses for transportation incurred by the commissioners or by their employees under their orders in making any investigation or upon official business in any other places than at their respective headquarters, shall beallowed and paid on the presentation of itemized vouchers therefor approved by the chairman (except that in the case of a commissioner, or the personal staff of any commissioner, such vouchers may be approved by that commissioner).
+All of the expenses of the commission, including all necessary expenses for transportation incurred by the commissioners or by their employees under their orders in making any investigation or upon official business in any other places than at their respective headquarters, shall be allowed and paid on the presentation of itemized vouchers therefor approved by the chairman (except that in the case of a commissioner, or the personal staff of any commissioner, such vouchers may be approved by that commissioner).
 
 #### (d) Principal office at Washington
 

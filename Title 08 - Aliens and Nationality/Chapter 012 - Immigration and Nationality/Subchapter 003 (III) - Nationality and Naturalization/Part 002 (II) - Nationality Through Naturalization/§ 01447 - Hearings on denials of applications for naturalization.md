@@ -50,7 +50,7 @@ Subsec. (b). Pub. L. 97–116, §15(d)(1), struck out “and the witnesses” af
 
 Subsec. (c). Pub. L. 97–116, §15(d)(2), (3), redesignated subsec. (d) as (c) and struck out former subsec. (c) which prescribed a waiting period of thirty days after the filing of a petition for naturalization for the holding of a final hearing and permitted waiver of such period by the Attorney General if he determined that a waiver was in the public interest.
 
-Subsec. (d). Pub. L. 97–116, §15(3), (4), redesignated subsec. (e) as (d) and struck out provision permittingthe substitution of witnesses if after the petition is filed any of the verifying witnesses appear to be not competent, provided the petitioner acted in good faith in producing such witness. Former subsec. (d) redesignated (c).
+Subsec. (d). Pub. L. 97–116, §15(3), (4), redesignated subsec. (e) as (d) and struck out provision permitting the substitution of witnesses if after the petition is filed any of the verifying witnesses appear to be not competent, provided the petitioner acted in good faith in producing such witness. Former subsec. (d) redesignated (c).
 
 Subsec. (e). Pub. L. 97–116, §15(d)(4), (5), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 
@@ -65,14 +65,6 @@ Amendment by Pub. L. 102–232 effective as if included in the enactment of the 
 #### Effective Date of 1981 Amendment
 
 Amendment by Pub. L. 97–116 effective Dec. 29, 1981, see section 21(a) of Pub. L. 97–116, set out as a note under section 1101 of this title.
-
-#### Cross References
-
-Definition of the term—
-
-&emsp;&emsp;Attorney General, see section 1101(a)(5) of this title.
-
-&emsp;&emsp;Naturalization, see section 1101(a)(23) of this title.
 
 #### Section Referred to in Other Sections
 

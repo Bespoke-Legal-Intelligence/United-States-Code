@@ -168,5 +168,5 @@ Amendment by Pub. L. 104–287 effective July 5, 1994, see section 8(1) of Pub. 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 106, 44936 of this title.
+This section is referred to in sections 106, 44936, 46317 of this title.
 

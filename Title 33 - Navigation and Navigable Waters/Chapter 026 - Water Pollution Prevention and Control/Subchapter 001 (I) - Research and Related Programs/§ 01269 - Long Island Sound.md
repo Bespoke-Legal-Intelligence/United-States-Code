@@ -12,7 +12,7 @@ The Office shall be headed by a Director, who shall be detailed by the Administr
 
 The Office shall assist the Management Conference of the Long Island Sound Study in carrying out its goals. Specifically, the Office shall—
 
-&emsp;(1) assist and support the implementation of the Comprehensive Conservation and Management Plan for Long Island Sound developed pursuant to section 1330 of this title;
+&emsp;(1) assist and support the implementation of the Comprehensive Conservation and Management Plan for Long Island Sound developed pursuant to section 1330 of this title, including efforts to establish, within the process for granting watershed general permits, a system for promoting innovative methodologies and technologies that are cost-effective and consistent with the goals of the Plan;
 
 &emsp;(2) conduct or commission studies deemed necessary for strengthened implementation of the Comprehensive Conservation and Management Plan including, but not limited to—
 
@@ -60,13 +60,23 @@ The Office shall assist the Management Conference of the Long Island Sound Study
 
 (3) Citizen involvement and citizen education grants under this subsection shall not exceed 95 per centum of the costs of such work. All other grants under this subsection shall not exceed 50 per centum of the research, studies, or work. All grants shall be made on the condition that the non-Federal share of such costs are provided from non-Federal sources.
 
-#### (e) Authorizations
+#### (e) Assistance to distressed communities
 
-(1) There is authorized to be appropriated to the Administrator for the implementation of this section, other than subsection (d) of this section, such sums as may be necessary for each of the fiscal years 1991 through 2001.
+#### (1) Eligible communities
 
-(2) There is authorized to be appropriated to the Administrator for the implementation of subsection (d) of this section not to exceed $3,000,000 for each of the fiscal years 1991 through 2001.
+&emsp;For the purposes of this subsection, a distressed community is any community that meets affordability criteria established by the State in which the community is located, if such criteria are developed after public review and comment.
 
-(June 30, 1948, ch. 758, title I, §119, as added Pub. L. 101–596, title II, §202, Nov. 16, 1990, 104 Stat. 3004; amended Pub. L. 104–303, title V, §583, Oct. 12, 1996, 110 Stat. 3791.)
+#### (2) Priority
+
+&emsp;In making assistance available under this section for the upgrading of wastewater treatment facilities, the Administrator may give priority to a distressed community.
+
+#### (f) Authorizations
+
+(1) There is authorized to be appropriated to the Administrator for the implementation of this section, other than subsection (d) of this section, such sums as may be necessary for each of the fiscal years 2001 through 2005.
+
+(2) There is authorized to be appropriated to the Administrator for the implementation of subsection (d) of this section not to exceed $40,000,000 for each of fiscal years 2001 through 2005.
+
+(June 30, 1948, ch. 758, title I, §119, as added Pub. L. 101–596, title II, §202, Nov. 16, 1990, 104 Stat. 3004; amended Pub. L. 104–303, title V, §583, Oct. 12, 1996, 110 Stat. 3791; Pub. L. 106–457, title IV, §§402—404, Nov. 7, 2000, 114 Stat. 1973.)
 
 #### References in Text
 
@@ -74,5 +84,15 @@ The Marine Protection, Research, and Sanctuaries Act, referred to in subsec. (c)
 
 #### Amendments
 
+2000—Subsec. (c)(1). Pub. L. 106–457, §402, inserted before semicolon at end “, including efforts to establish, within the process for granting watershed general permits, a system for promoting innovative methodologies and technologies that are cost-effective and consistent with the goals of the Plan”.
+
+Subsec. (e). Pub. L. 106–457, §403(2), added subsec. (e). Former subsec. (e) redesignated (f).
+
+Subsec. (f). Pub. L. 106–457, §§403(1), 404, redesignated subsec. (e) as (f) and substituted “2001 through 2005” for “1991 through 2001” in par. (1) and “not to exceed $40,000,000 for each of fiscal years 2001 through 2005” for “not to exceed $3,000,000 for each of the fiscal years 1991 through 2001” in par. (2).
+
 1996—Subsec. (e). Pub. L. 104–303 substituted “2001” for “1996” in pars. (1) and (2).
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (c)(7) of this section relating to issuing a biennial report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 163 of House Document No. 103–7.
 

@@ -20,12 +20,6 @@ Minor changes were made in phraseology.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000” in last par.
 
-#### Cross References
-
-Concealment, removal or destruction of records, see section 2071 of this title.
-
-Embezzlement or theft of records, generally, see section 641 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in title 29 section 1111.

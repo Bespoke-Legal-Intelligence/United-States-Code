@@ -70,7 +70,7 @@
 
 #### (4) Considerations
 
-&emsp;In developing such procedure, the Governor shall ensure that the procedure requires the local boards to take into consideration, inmaking the determinations of subsequent eligibility—
+&emsp;In developing such procedure, the Governor shall ensure that the procedure requires the local boards to take into consideration, in making the determinations of subsequent eligibility—
 
 &emsp;&emsp;(A) the specific economic, geographic, and demographic factors in the local areas in which providers seeking eligibility are located; and
 
@@ -140,7 +140,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If the Governor or a local board requests additional information under paragraph (2) that imposes extraordinary costs on providers, or if providers experience extraordinary costs in the collection of information required under paragraph (1)(A)(ii), the Governor or the local board shall provide access to cost-effective methods for the collection of the information involved, or the Governorshall provide additional resources to assist providers in the collection of such information from funds made available as described in sections 2853(a) and 2863(a)(1) of this title, as appropriate.
+&emsp;&emsp;If the Governor or a local board requests additional information under paragraph (2) that imposes extraordinary costs on providers, or if providers experience extraordinary costs in the collection of information required under paragraph (1)(A)(ii), the Governor or the local board shall provide access to cost-effective methods for the collection of the information involved, or the Governor shall provide additional resources to assist providers in the collection of such information from funds made available as described in sections 2853(a) and 2863(a)(1) of this title, as appropriate.
 
 #### (B) Higher education eligibility requirements
 
@@ -190,11 +190,11 @@
 
 #### (4) Construction
 
-&emsp;This subsection and subsection (g) of this section shall be construed to provide remedies and penalties that supplement, but do not supplant, other civil and criminal remedies and penalties.
+&emsp;This subsection and subsection (g) of this section shall be construed to provide remediesand penalties that supplement, but do not supplant, other civil and criminal remedies and penalties.
 
 #### (g) Appeal
 
-The Governor shall establish procedures for providers of training services to appeal a denial of eligibility by the local board or the designated State agency under subsection (b), (c), or (e) of this section, a termination of eligibility or other action by the board or agency undersubsection (f) of this section, or a denial of eligibility by a one-stop operator under subsection (h) of this section. Such procedures shall provide an opportunity for a hearing and prescribe appropriate time limits to ensure prompt resolution of the appeal.
+The Governor shall establish procedures for providers of training services to appeal a denial of eligibility by the local board or the designated State agency under subsection (b), (c), or (e) of this section, a termination of eligibility or other action by the board or agency under subsection (f) of this section, or a denial of eligibility by a one-stop operator under subsection (h) of this section. Such procedures shall provide an opportunity for a hearing and prescribe appropriate time limits to ensure prompt resolution of the appeal.
 
 #### (h) On-the-job training or customized training exception
 

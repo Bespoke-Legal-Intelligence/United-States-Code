@@ -20,7 +20,7 @@ There is hereby established a Securities and Exchange Commission (hereinafter re
 
 &emsp;&emsp;&emsp;(ii) to appoint directly such professional economists as the Commission deems qualified; and
 
-&emsp;&emsp;&emsp;(iii) to fix and adjust the compensation of any professional economist appointed under this paragraph, without regard tothe provisions of chapter 54 of title 5,<sup>1</sup> or subchapters <sup>2</sup> II, III, or VIII of chapter 53, of title 5.
+&emsp;&emsp;&emsp;(iii) to fix and adjust the compensation of any professional economist appointed under this paragraph, without regard to the provisions of chapter 54 of title 5,<sup>1</sup> or subchapters <sup>2</sup> II, III, or VIII of chapter 53, of title 5.
 
 #### (B) Limitation on compensation
 
@@ -40,7 +40,7 @@ Notwithstanding any other provision of law, in accordance with regulations which
 
 #### (d) Acceptance of relocation expenses from former employers by professional fellows program participants
 
-Notwithstanding any other provision of law, former employers of participants in the Commission's professional fellows programs may pay such participants their actual expenses for relocation to Washington, District of Columbia, to facilitate their participation in such programs, and program participants may accept such payments.
+Notwithstanding any other provision of law, former employers of participants in the Commission's professional fellows programs may paysuch participants their actual expenses for relocation to Washington, District of Columbia, to facilitate their participation in such programs, and program participants may accept such payments.
 
 #### (e) Fee payments
 
@@ -68,7 +68,7 @@ In subsec. (b)(1), provisions that authorized the Commission to appoint and fix 
 
 Such appointments are now subject to the civil service laws unless specifically excepted by those laws or by laws enacted subsequent to Executive Order No. 8743, Apr. 23, 1941, issued by the President pursuant to the Act of Nov. 26, 1940, ch. 919, title I, §1, 54 Stat. 1211, which covered most excepted positions into the classified (competitive) civil service. The Order is set out as a note under section 3301 of Title 5, Government Organization and Employees.
 
-As to the compensation of such personnel, sections 1202 and 1204 of the Classification Act of 1949, 63 Stat. 972, 973, repealed the Classification Act of 1923 and all other laws or parts of laws inconsistent with the 1949 Act. The Classification Act of 1949 was repealed Pub. L. 89–554, Sept. 6, 1966, §8(a), 80 Stat. 632, and reenacted aschapter 51 and subchapter III of chapter 53 of Title 5. Section 5102 of Title 5 contains the applicability provisions of the 1949 Act, and section 5103 of Title 5 authorizes the Office of Personnel Management to determine the applicability to specific positions and employees.
+As to the compensation of such personnel, sections 1202 and 1204 of the Classification Act of 1949, 63 Stat. 972, 973, repealed the Classification Act of 1923 and all other laws or parts of laws inconsistent with the 1949 Act. The Classification Act of 1949 was repealed Pub. L. 89–554, Sept. 6, 1966, §8(a), 80 Stat. 632, and reenacted as chapter 51 and subchapter III of chapter 53 of Title 5. Section 5102 of Title 5 contains the applicability provisions of the 1949 Act, and section 5103 of Title 5 authorizes the Office of Personnel Management to determine the applicability to specific positions and employees.
 
 “Chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949, as amended” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5.
 
@@ -114,7 +114,7 @@ Compensation of Chairman and Commissioners, see sections 5314 and 5315 of Title 
 
 #### 15 F.R. 3175, 64 Stat. 1265
 
-Prepared by the President and transmitted to the Senate and the House of Representatives in Congress assembled, March 13, 1950, pursuant to the provisions of the Reorganization Act of 1949, approved June 20, 1949 \[see 5 U.S.C. 901 et seq.\].
+Prepared by the President and transmitted to the Senate and the House of Representatives in Congress assembled, March 13, 1950, pursuant to the provisions ofthe Reorganization Act of 1949, approved June 20, 1949 \[see 5 U.S.C. 901 et seq.\].
 
 #### SECURITIES AND EXCHANGE COMMISSION
 
@@ -149,36 +149,6 @@ After investigation I have found and hereby declare that each reorganization inc
 The taking effect of the reorganizations included in this plan may not in itself result in substantial immediate savings. However, many benefits in improved operations are probable during the next years which will result in a reduction in expenditures as compared with those that would be otherwise necessary. An itemization of these reductions in advance of actual experience under this plan is not practicable.
 
 Harry S. Truman.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Cross References
-
-Appointment and compensation of—
-
-&emsp;&emsp;Officers, etc., under Investment Advisers Act of 1940, see section 80b–18 of this title.
-
-&emsp;&emsp;Officers, etc., under Investment Company Act of 1940, see section 80a–45 of this title.
-
-&emsp;&emsp;Officers, etc., under Public Utility Holding Company Act of 1935, see section 79z–5 of this title.
-
-&emsp;&emsp;Officers, etc., under Trust Indenture Act of 1939, see section 77uuu of this title.
-
-Commission, definition of, see section 78c of this title.
-
-Independence of financial regulatory agencies with respect to submission of views to Congress, see section 250 of Title 12, Banks and Banking.
-
-Jurisdiction of Commission unaffected by Trust Indenture Act of 1939, see section 77zzz of this title.
-
-Reorganization of corporations—
-
-&emsp;&emsp;Alteration or modification of plan, submission to Commission, see section 1127 of Title 11, Bankruptcy.
-
-&emsp;&emsp;Appearance and participation in proceedings, see section 1109 of Title 11.
-
-&emsp;&emsp;Compensation and costs and expenses to be allowed, see section 503 of Title 11.
-
-&emsp;&emsp;Confirmation of plan, notice of, see section 1128 of Title 11.
-
-&emsp;&emsp;Submission by trustee of statement of investigation of property, liabilities and financial condition of debtor, see section 1106 of Title 11.
 
 #### Section Referred to in Other Sections
 

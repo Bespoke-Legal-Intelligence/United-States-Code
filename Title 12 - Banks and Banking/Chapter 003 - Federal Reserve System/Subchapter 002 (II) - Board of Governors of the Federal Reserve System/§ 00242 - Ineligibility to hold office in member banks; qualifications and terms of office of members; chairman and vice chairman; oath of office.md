@@ -10,7 +10,7 @@ Section is comprised of second par. of section 10 of act Dec. 23, 1913. For clas
 
 #### Amendments
 
-1977—Pub. L. 95–188 substituted in third sentence “one shall be designated by the President, by and with the advice and consent of the Senate, to serve as Chairman of the Board for a term of four years, and one shall be designated by the President, by and with the consent of the Senate, to serve as Vice Chairman of the Board for a term of four years” for “one shall be designated by the President as chairman and one as vice chairman of the Board, to serve as such for a term of four years”.
+1977—Pub. L. 95–188 substituted in third sentence “one shall be designated by the President, by and withthe advice and consent of the Senate, to serve as Chairman of the Board for a term of four years, and one shall be designated by the President, by and with the consent of the Senate, to serve as Vice Chairman of the Board for a term of four years” for “one shall be designated by the President as chairman and one as vice chairman of the Board, to serve as such for a term of four years”.
 
 1935—Act Aug. 23, 1935, §203(b), extended term of appointive members from twelve to fourteen years, and inserted provisions for continuance in office until successor qualified and against reappointment.
 

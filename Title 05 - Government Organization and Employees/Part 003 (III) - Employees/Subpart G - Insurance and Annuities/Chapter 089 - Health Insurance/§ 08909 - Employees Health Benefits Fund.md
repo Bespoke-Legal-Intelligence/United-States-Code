@@ -14,7 +14,7 @@
 
 &emsp;(2) For each health benefits plan, a percentage, not to exceed 3 percent of the contributions toward the plan, determined by the Office to be reasonably adequate to provide a contingency reserve.
 
-> The Office, from time to time and in amounts it considers appropriate, may transfer unused funds for administrative expenses to the contingency reserves of the plans then under contract with the Office. When funds are so transferred, each contingency reserve shall be credited in proportion to the total amount of the subscription charges paid and accrued to the plan for the contract term immediately before the contract term in which the transfer is made. The income derived from dividends, rate adjustments, or other refunds made by a plan shall be credited to its contingency reserve. The contingency reserves may be used to defray increases in futurerates, or may be applied to reduce the contributions of enrollees and the Government to, or to increase the benefits provided by, the plan from which the reserves are derived, as the Office from time to time shall determine.
+> The Office, from time to time and in amounts it considers appropriate, may transfer unused funds for administrative expenses to the contingency reserves of the plans then under contract with the Office. When funds are so transferred, each contingency reserve shall be credited in proportion to the total amount of the subscription charges paid and accrued to the plan for the contract term immediately before the contract term in which the transfer is made. The income derived from dividends, rate adjustments, or other refunds made by a plan shall be credited to its contingency reserve. The contingency reserves may be used to defray increases in future rates, or may be applied to reduce the contributions of enrollees and the Government to, or to increase the benefits provided by, the plan from which the reserves are derived, as the Office from time to time shall determine.
 
 (c) The Secretary of the Treasury may invest and reinvest any of the money in the Fund in interest-bearing obligations of the United States, and may sell these obligations for the purposes of the Fund. The interest on and the proceeds from the sale of these obligations become a part of the Fund.
 
@@ -154,7 +154,7 @@ Prohibited Transfers.—(1) No amount in the Employees Health Benefits Fund may 
 
 “(b)
 
-Restriction Relating to Use of Certain Amounts in the Fund.—(1) Any amount which is in the Employees Health Benefits Fund, and which is described in paragraph (2), may be used solely for the purpose of paying the Government contribution underchapter 89 of title 5, United States Code, for health benefits for annuitants enrolled in health benefits plans (without regard to the health benefits plan or plans from which the refunds were received).
+Restriction Relating to Use of Certain Amounts in the Fund.—(1) Any amount which is in the Employees Health Benefits Fund, and which is described in paragraph (2), may be used solely for the purpose of paying the Government contribution under chapter 89 of title 5, United States Code, for health benefits for annuitants enrolled in health benefits plans (without regard to the health benefits plan or plans from which the refunds were received).
 
 “(2) This subsection applies with respect to any amounts—
 

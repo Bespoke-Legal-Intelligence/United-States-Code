@@ -8,7 +8,7 @@ The purposes of federally supported agricultural research, extension, and educat
 
 &emsp;(3) develop new uses and new products for agricultural commodities, such as alternative fuels, and develop new crops;
 
-&emsp;(4) support agricultural research and extension to promote economic opportunity in rural communities and to meet the increasing demand for information and technology transfer throughout the United States agriculture industry;
+&emsp;(4) support agricultural research and extension to promote economic opportunity in rural communities and to meet the increasing demand for information and technology transferthroughout the United States agriculture industry;
 
 &emsp;(5) improve risk management in the United States agriculture industry;
 

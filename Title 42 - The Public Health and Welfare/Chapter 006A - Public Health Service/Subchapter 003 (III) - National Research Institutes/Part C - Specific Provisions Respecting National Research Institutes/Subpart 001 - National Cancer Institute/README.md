@@ -4,8 +4,6 @@ subpart 1—national cancer institute
 
 This subpart is referred to in section 280e–4 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “pathogenesis,”.</i>
-
 
 ---
 
@@ -21,3 +19,4 @@ This subpart is referred to in section 280e–4 of this title.
 - [&sect; 00285a&#8211;6 - Breast and gynecological cancers](%C2%A7%2000285a%E2%80%936%20-%20Breast%20and%20gynecological%20cancers.md)
 - [&sect; 00285a&#8211;7 - Prostate cancer](%C2%A7%2000285a%E2%80%937%20-%20Prostate%20cancer.md)
 - [&sect; 00285a&#8211;8 - Authorization of appropriations](%C2%A7%2000285a%E2%80%938%20-%20Authorization%20of%20appropriations.md)
+- [&sect; 00285a&#8211;9 - Grants for education, prevention, and early detection of radiogenic cancers and diseases](%C2%A7%2000285a%E2%80%939%20-%20Grants%20for%20education%2C%20prevention%2C%20and%20early%20detection%20of%20radiogenic%20cancers%20and%20diseases.md)

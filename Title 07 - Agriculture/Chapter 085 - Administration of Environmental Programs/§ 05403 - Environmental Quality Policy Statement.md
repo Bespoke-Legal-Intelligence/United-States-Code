@@ -50,6 +50,10 @@ Subsec. (a)(2). Pub. L. 102–237, §201(d)(2), substituted “paragraph (1)” 
 
 Amendment by Pub. L. 102–237 effective as if included in the provision of the Food, Agriculture, Conservation, and Trade Act of 1990, Pub. L. 101–624, to which the amendment relates, see section 1101(b)(1) of Pub. L. 102–237, set out as a note under section 1421 of this title.
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (c) of this section relating to submittal of annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 49 of House Document No. 103–7.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 5402 of this title.

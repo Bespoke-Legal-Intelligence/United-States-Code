@@ -20,7 +20,3 @@ This section consolidates sections 301 and 360 of title 18, U.S.C., 1940 ed., wi
 
 Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by the Board of Governors of the United States Postal Service and published by it in the Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
 
-#### Cross References
-
-United States Postal Service, see Title 39, Postal Service.
-

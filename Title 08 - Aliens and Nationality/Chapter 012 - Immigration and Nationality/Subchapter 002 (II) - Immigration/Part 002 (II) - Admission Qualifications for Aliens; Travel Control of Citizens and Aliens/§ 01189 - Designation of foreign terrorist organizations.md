@@ -30,7 +30,7 @@
 
 #### (C) Freezing of assets
 
-&emsp;&emsp;Upon notification under paragraph (2), the Secretary of the Treasury may require United States financial institutions possessing or controlling any assets of any foreign organization included in the notification to block all financial transactions involving those assets until further directive from either the Secretary of the Treasury, Act of Congress, or order of court.
+&emsp;&emsp;Upon notification under paragraph (2), the Secretary of the Treasury may requireUnited States financial institutions possessing or controlling any assets of any foreign organization included in the notification to block all financial transactions involving those assets until further directive from either the Secretary of the Treasury, Act of Congress, or order of court.
 
 #### (3) Record
 
@@ -118,7 +118,7 @@ As used in this section—
 
 &emsp;(4) the term “Secretary” means the Secretary of State, in consultation with the Secretary of the Treasury and the Attorney General.
 
-(June 27, 1952, ch. 477, title II, ch. 2, §219, as added Pub. L. 104–132, title III, §302(a), Apr. 24, 1996, 110 Stat. 1248; amended Pub. L. 104–208, div. C, title III, §356, title VI, §671(c)(1), Sept. 30, 1996, 110 Stat. 3009–644, 3009–722.)
+(June 27, 1952, ch. 477, title II, ch. 2, §219, as added Pub. L. 104–132, title III, §302(a), Apr. 24,1996, 110 Stat. 1248; amended Pub. L. 104–208, div. C, title III, §356, title VI, §671(c)(1), Sept. 30, 1996, 110 Stat. 3009–644, 3009–722.)
 
 #### References in Text
 

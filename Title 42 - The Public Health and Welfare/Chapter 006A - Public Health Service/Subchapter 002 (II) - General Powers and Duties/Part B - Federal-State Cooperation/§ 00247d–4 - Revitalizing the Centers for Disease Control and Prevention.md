@@ -1,0 +1,12 @@
+### §247d–4. Revitalizing the Centers for Disease Control and Prevention
+
+#### (a) Findings
+
+Congress finds that the Centers for Disease Control and Prevention have an essential role in defending against and combatting public health threats of the 21st century and requires secure and modern facilities that are sufficient to enable such Centers to conduct this important mission.
+
+#### (b) Authorization of appropriations
+
+For the purposes of achieving the mission of the Centers for Disease Control and Prevention described in subsection (a) of this section, for constructing new facilities and renovating existing facilities of such Centers, including laboratories, laboratory support buildings, health communication facilities, office buildings and other facilities and infrastructure, for better conducting the capacities described in section 247d–1 of this title, and for supporting related public health activities, there are authorized to be appropriated $180,000,000 for fiscal year 2001, and such sums as may be necessary for each subsequent fiscal year through 2010.
+
+(July 1, 1944, ch. 373, title III, §319D, as added Pub. L. 106–505, title I, §102, Nov. 13, 2000, 114 Stat. 2318.)
+

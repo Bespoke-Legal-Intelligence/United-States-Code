@@ -156,6 +156,10 @@ This chapter, referred to in text, was in the original “this title” meaning 
 
 The Social Security Act, referred to in subsec. (a)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
+#### Prior Provisions
+
+Provisions similar to this section were contained in sections 1551 to 1554 of this title prior to repeal by Pub. L. 105–220.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in title 7 section 2014.

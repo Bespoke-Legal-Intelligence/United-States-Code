@@ -34,7 +34,7 @@ For purposes of this section:
 
 #### (1) Multifamily housing project
 
-&emsp;The term “multifamily housing project” means any multifamily rental housing project which is, or prior to acquisition by the Secretary was, assisted or insured under the National Housing Act \[12 U.S.C. 1701 et seq.\], or was subject to a loan under section 1701q of this title.
+&emsp;The term “multifamily housing project” means any multifamily rental housing project which is, or prior to acquisition by the Secretary was, assisted or insured under the National Housing Act \[12 U.S.C. 1701 et seq.\], orwas subject to a loan under section 1701q of this title.
 
 #### (2) Subsidized project
 
@@ -166,7 +166,7 @@ For purposes of this section:
 
 &emsp;In the case of multifamily housing projects that are owned by the Secretary (or for which the Secretary is mortgagee in possession), the Secretary shall—
 
-&emsp;&emsp;(A) to the greatest extent possible, maintain all such occupied projects in a decent, safe, and sanitary condition and in compliance with any standards under applicable State or local laws, rules, ordinances, or regulations relating to the physical condition of the housing and any such standards established by the Secretary;
+&emsp;&emsp;(A) to the greatest extent possible, maintain all such occupied projects in a decent, safe, and sanitary condition and in compliance with any standards under applicableState or local laws, rules, ordinances, or regulations relating to the physical condition of the housing and any such standards established by the Secretary;
 
 &emsp;&emsp;(B) to the greatest extent possible, maintain full occupancy in all such projects; and
 
@@ -272,7 +272,7 @@ In disposing of multifamily housing property under this section, consistent with
 
 #### (f) Discretionary assistance
 
-In addition to the actions required under subsection (e) of this section for a subsidized, formerly subsidized, or unsubsidized multifamilyhousing project, the Secretary may, pursuant to the disposition plan and the goals in subsection (a) of this section, take one or more of the following actions:
+In addition to the actions required under subsection (e) of this section for a subsidized, formerly subsidized, or unsubsidized multifamily housing project, the Secretary may, pursuant to the disposition plan and the goals in subsection (a) of this section, take one or more of the following actions:
 
 #### (1) Discounted sales price
 
@@ -398,7 +398,7 @@ Contracts for project-based rental assistance under section 8 of the United Stat
 
 #### (2) Right of first refusal
 
-&emsp;During the 90-day period, the Secretary may not sell or offer to sell the multifamily housing project other than to a party notified under paragraph (1), unless the unit of general local government and the designated State agency or agencies notify the Secretary that they will not make an offer to purchase the project. The Secretary shall accept a bona fide offer to purchase the project made during suchperiod if it complies with the terms and conditions of the disposition plan for the project or is otherwise acceptable to the Secretary.
+&emsp;During the 90-day period, the Secretary may not sell or offer to sell the multifamily housing project other than to a party notified under paragraph (1), unless the unit of general local government and the designated State agency or agencies notify the Secretary that they will not make an offer to purchase the project. The Secretary shall accept a bona fide offer to purchase the project made during such period if it complies with the terms and conditions of the disposition plan for the project or is otherwise acceptable to the Secretary.
 
 #### (3) Procedure
 
@@ -520,7 +520,7 @@ Section was enacted as part of the Housing and Community Development Amendments 
 
 1998—Subsec. (g)(2). Pub. L. 105–276 substituted “any system of preferences established pursuant to section 6(c)(4)(A), 8(d)(1)(A), or 8(<i>o</i>)(6)(A)” for “the preferences for assistance under sections 6(c)(4)(A)(i), 8(d)(1)(A)(i), and 8(<i>o</i>)(3)(B)”.
 
-1994—Pub. L. 103–233 amended section generally, substituting present provisions for former provisions which related, in subsec. (a) to goals, in subsec. (b) to management or disposal of property by negotiated competitive bids, in subsec. (c) to maintenance of housing projects, in subsec. (d) to financial assistance to owner, in subsec. (e) to right of first refusal, in subsec. (f) to displacement of tenants and relocation assistance, in subsec. (g) to assignment or partial payment of mortgages, in subsec. (h) to limitations on certainproject, loan, and mortgage sales, in subsec. (i) to definition of multifamily housing project, in subsec. (j) to rules and regulations, in subsec. (k) to annual report describing status of projects, and in subsec. (<i>l</i>) to project-based assistance.
+1994—Pub. L. 103–233 amended section generally, substituting present provisions for former provisions which related, in subsec. (a) to goals, in subsec. (b) to management or disposal of property by negotiated competitive bids, in subsec. (c) to maintenance of housing projects, in subsec. (d) to financial assistance to owner, in subsec. (e) to right of first refusal, in subsec. (f) to displacement of tenants and relocation assistance, in subsec. (g) to assignment or partial payment of mortgages, in subsec. (h) to limitations on certain project, loan, and mortgage sales, in subsec. (i) to definition of multifamily housing project, in subsec. (j) to rules and regulations, in subsec. (k) to annual report describing status of projects, and in subsec. (<i>l</i>) to project-based assistance.
 
 1993—Subsec. (<i>l</i>). Pub. L. 103–120 added subsec. (<i>l</i>).
 
@@ -534,7 +534,7 @@ Subsec. (d)(2), (3). Pub. L. 101–625, §579(b)(2), (3), added par. (2) and red
 
 1988—Subsec. (a). Pub. L. 100–628, §1010(a), substituted “occupied by low- and moderate-income persons on the date of assignment or foreclosure (whichever is greater)” for “, on the date of assignment, occupied by low- and moderate-income persons” in par. (1)(C).
 
-Pub. L. 100–242, §181(a), substituted introductory provisions and par. (1) for former introductory provisions and par. (1) which read as follows: “It is the policy of the United States that the Secretary of Housing and Urban Development (hereinafter referred to as the ‘Secretary’) shall manage and dispose of multifamily housing projects which are owned by the Secretary in a manner consistent with the National Housing Act and this section. The purpose of the property management and disposition program of the Department of Housing and Urban Development shall be to manage and dispose of projects in a manner which will protect the financial interests of the Federal Government and be less costly to the Federal Government than other reasonable alternatives by which the Secretary can further the goals of—
+Pub. L. 100–242, §181(a), substituted introductory provisions and par. (1) for former introductory provisions and par. (1) which read as follows: “It is the policy of the United States that the Secretary of Housing and Urban Development (hereinafter referred to as the ‘Secretary’) shall manage and dispose of multifamily housing projects which are owned by the Secretary in amanner consistent with the National Housing Act and this section. The purpose of the property management and disposition program of the Department of Housing and Urban Development shall be to manage and dispose of projects in a manner which will protect the financial interests of the Federal Government and be less costly to the Federal Government than other reasonable alternatives by which the Secretary can further the goals of—
 
 &emsp;“(1) preserving the housing units so that at least those units which are occupied by low- and moderate-income persons or which are vacant, at the time of acquisition, are available to and affordable by such persons;”.
 
@@ -594,7 +594,7 @@ Section 101(a) of Pub. L. 103–233 provided that: “The Congress finds that—
 
 &emsp;“(1) the portfolio of multifamily housing project mortgages insured by the FHA is severely troubled and at risk of default, requiring the Secretary to increase loss reserves from $5,500,000,000 in 1991 to $11,900,000,000 in 1992 to cover estimated future losses;
 
-&emsp;“(2) the inventory of multifamily housing projects owned by the Secretary has more than quadrupled since 1989, and, by the end of 1994, may exceed 69,000 units;
+&emsp;“(2) the inventory of multifamily housing projects owned by the Secretary has more than quadrupledsince 1989, and, by the end of 1994, may exceed 69,000 units;
 
 &emsp;“(3) the cost to the Federal Government of owning and maintaining multifamily housing projects escalated to $288,000,000 in fiscal year 1993;
 
@@ -608,5 +608,5 @@ Section 184 of Pub. L. 100–242, as amended by Pub. L. 101–625, title V, §58
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1713, 1715z–1a, 1735f–19, 1735f–20, 3706, 4102 of this title; title 42 section 12877.
+This section is referred to in sections 1713, 1715z–1a, 1715z–11a, 1735f–19, 1735f–20, 3706, 4102 of this title; title 42 section 12877.
 

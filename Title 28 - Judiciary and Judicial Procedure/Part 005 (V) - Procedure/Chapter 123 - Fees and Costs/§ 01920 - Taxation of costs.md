@@ -30,45 +30,11 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1978—Par. (6). Pub. L. 95–539 added par. (6).
+<b>1978</b>—Par. (6). Pub. L. 95–539 added par. (6).
 
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–539 effective Oct. 28, 1978, see section 10(a) of Pub. L. 95–539, set out as a note under section 602 of this title.
-
-#### Federal Rules of Civil Procedure
-
-Costs allowed to prevailing party, see rule 54, Appendix to this title.
-
-Costs of previously dismissed action, see rule 41.
-
-Motion for retaxation of costs by clerk in civil actions, see rule 54.
-
-Offer of judgment affecting costs, see rule 68.
-
-Taxation of costs in civil actions by clerk, see rule 54.
-
-United States agencies, and officers, liability for fees and costs, see rule 54.
-
-#### Cross References
-
-Authority to administer oaths, see section 2903 of Title 5, Government Organization and Employees.
-
-Costs, denial of to plaintiff where plaintiff recovers less than $10,000, see section 1332 of this title.
-
-Definition of “court of the United States,” see section 451 of this title.
-
-Exemption of United States for costs except where statute permits taxation, see section 2412 of this title.
-
-Fees and costs in admiralty and maritime cases, see section 1925 of this title.
-
-Marshal's fees, see section 1921 of this title.
-
-Per diem, mileage and subsistence of witnesses, see notes under section 1821 of this title.
-
-Reporter's transcript, fees for, see section 753 of this title.
-
-Taxation of costs in fine, forfeiture and criminal proceedings, see section 1918 of this title.
 
 #### Section Referred to in Other Sections
 

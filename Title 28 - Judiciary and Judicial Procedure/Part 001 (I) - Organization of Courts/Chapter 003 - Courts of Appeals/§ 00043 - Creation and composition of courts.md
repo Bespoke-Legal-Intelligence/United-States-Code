@@ -20,15 +20,9 @@ Provision for a quorum of the court is now covered by section 46(d) of this titl
 
 #### Amendments
 
-1963—Subsec. (b). Pub. L. 88–176 inserted “regular” before “active service”.
+<b>1963</b>—Subsec. (b). Pub. L. 88–176 inserted “regular” before “active service”.
 
 #### Change of Name of Court
 
 Section 2(b) of act June 25, 1948, provided in part that each circuit court of appeals should, after Sept. 1, 1948, be known as a United States Court of Appeals, but that the enactment of act June 25, 1948 should in no way entail any loss of rights, interruption of jurisdiction, or prejudice to matters pending in any such courts on Sept. 1, 1948.
-
-#### Cross References
-
-Assignment of circuit judges and judges of Court of Claims to other circuits or courts, see section 291 et seq. of this title.
-
-Authority to create courts inferior to Supreme Court, see Const., Art. 3, §1.
 

@@ -28,7 +28,7 @@
 
 In any discussions initiated under subsection (a) of this section, the Secretary should include the following specific proposals:
 
-&emsp;(1) That any loan restructuring assistance provided by such an authority to any debtor nation should involve substantial commitments by the debtor to (A) economic policies designed to improve resource utilization and minimize capital flight, and (B) preparation ofan economic management plan calculated to provide sustained economic growth and to allow the debtor to meet its restructured debt obligations.
+&emsp;(1) That any loan restructuring assistance provided by such an authority to any debtor nation should involve substantial commitments by the debtor to (A) economic policies designed to improve resource utilization and minimize capital flight, and (B) preparation of an economic management plan calculated to provide sustained economic growth and to allow the debtor to meet its restructured debt obligations.
 
 &emsp;(2) That support for such an authority should come from industrialized countries, and that greater support should be expected from countries with strong current account surpluses.
 
@@ -40,7 +40,7 @@ In any discussions initiated under subsection (a) of this section, the Secretary
 
 #### (c) Interim reports
 
-At the end of the 6-month period beginning on August 23, 1988, and at the end of the 12-month period beginning on August 23, 1988, the Secretary of the Treasury shall submit a report on the progress being made on the study or in discussions described in subsection (a) of this section to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs and the Committee on Foreign Relations of the Senate, and shall consult with such committees after submitting each such report.
+At the end of the 6-month period beginning on August 23, 1988, and at the end of the 12-month period beginning on August 23, 1988, the Secretary of the Treasury shall submit a report on the progress being made on the study or in discussions described in subsection (a) of this section to the Committee on Banking, Finance andUrban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs and the Committee on Foreign Relations of the Senate, and shall consult with such committees after submitting each such report.
 
 #### (d) Final report
 
@@ -50,7 +50,7 @@ On the conclusion of the study or of discussions described in subsection (a) of 
 
 #### Change of Name
 
-Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Section Referred to in Other Sections
 

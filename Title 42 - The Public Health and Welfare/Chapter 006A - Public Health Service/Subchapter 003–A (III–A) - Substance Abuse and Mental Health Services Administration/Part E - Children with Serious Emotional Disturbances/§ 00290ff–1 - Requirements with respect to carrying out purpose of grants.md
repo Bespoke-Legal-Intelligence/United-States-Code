@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(B) consist of such public agencies and nonprofit private entities in the community as are necessary to ensure that each of the services specified in subsection (c) of this section is available to each child provided access to the system;
 
-&emsp;&emsp;(C) be established pursuant to agreements that the public entity enters into with the agencies and entities described in subparagraph (B);
+&emsp;&emsp;(C) be established pursuant to agreements that the public entity enters into with theagencies and entities described in subparagraph (B);
 
 &emsp;&emsp;(D) coordinate the provision of the services of the system; and
 
@@ -90,7 +90,7 @@ A funding agreement for a grant under section 290ff(a) of this title is that men
 
 #### (2) Other provisions
 
-&emsp;A funding agreement for a grant under section 290ff(a) of this title is that a system of care under subsection (a) of this section, in providing the services of the system, will—
+&emsp;A funding agreement for a grant under section 290ff(a) of this title is that a system ofcare under subsection (a) of this section, in providing the services of the system, will—
 
 &emsp;&emsp;(A) provide the services of the system in the cultural context that is most appropriate for the child and family involved;
 
@@ -126,7 +126,11 @@ A funding agreement for a grant under section 290ff(a) of this title is that the
 
 &emsp;(4) to provide for the training of any individual, except training authorized in section 290ff–3(a)(2) of this title and training provided through any appropriate course in continuing education whose duration does not exceed 2 days.
 
-(July 1, 1944, ch. 373, title V, §562, as added Pub. L. 102–321, title I, §119, July 10, 1992, 106 Stat. 351.)
+#### (g) Waivers
+
+The Secretary may waive one or more of the requirements of subsection (c) of this section for a public entity that is an Indian Tribe or tribal organization, or American Samoa, Guam, the Marshall Islands, the Federated States of Micronesia, the Commonwealth of the Northern Mariana Islands, the Republic of Palau, or the United States Virgin Islands if the Secretary determines, after peer review, that the system of care is family-centered and uses the least restrictive environment that is clinically appropriate.
+
+(July 1, 1944, ch. 373, title V, §562, as added Pub. L. 102–321, title I, §119, July 10, 1992, 106 Stat. 351; amended Pub. L. 106–310, div. B, title XXXI, §3105(b), Oct. 17, 2000, 114 Stat. 1175.)
 
 #### References in Text
 
@@ -134,9 +138,13 @@ The Social Security Act, referred to in subsec. (d)(3)(A), is act Aug. 14, 1935,
 
 The Individuals with Disabilities Education Act, referred to in subsec. (d)(3)(B), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Part B of the Act is classified generally to subchapter II (§1411 et seq.) of chapter 33 of Title 20, Education. Part H of the Act was classified generally to subchapter VIII (§1471 et seq.) of chapter 33 of Title 20 prior to repeal by Pub. L. 105–17, title II, §203(b), June 4, 1997, 111 Stat. 157, effective July 1, 1998. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
+#### Amendments
+
+2000—Subsec. (g). Pub. L. 106–310 added subsec. (g).
+
 #### Effective Date
 
-Section effective Oct. 1, 1992, with provision for programs providing financial assistance, see section 801(c),\(d) of Pub. L. 102–321, set out as an Effective Date of 1992 Amendment note under section 236 of this title.
+Section effective Oct. 1, 1992, with provision for programs providing financial assistance, see section 801(c), (d) of Pub. L. 102–321, set out as an Effective Date of 1992 Amendment note under section 236 of this title.
 
 #### Section Referred to in Other Sections
 

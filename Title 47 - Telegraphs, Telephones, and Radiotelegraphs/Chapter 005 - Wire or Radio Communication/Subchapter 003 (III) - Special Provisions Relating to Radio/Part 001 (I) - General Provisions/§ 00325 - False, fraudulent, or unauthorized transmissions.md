@@ -6,7 +6,7 @@ No person within the jurisdiction of the United States shall knowingly utter or 
 
 #### (b) Consent to retransmission of broadcasting station signals
 
-(1) No cable system or other multichannel video programming distributor shall retransmit the signal of a broadcasting station, or any part thereof, except—
+(1) No cable system or other multichannel video programming distributor shall retransmitthe signal of a broadcasting station, or any part thereof, except—
 
 &emsp;(A) with the express authority of the originating station;
 
@@ -42,7 +42,7 @@ No person within the jurisdiction of the United States shall knowingly utter or 
 
 > For purposes of this paragraph, the terms “satellite carrier” and “superstation” have the meanings given those terms, respectively, in section 119(d) of title 17, as in effect on October 5, 1992, the term “unserved household” has the meaning given that term under section 119(d) of such title, and the term “local market” has the meaning given that term in section 122(j) of such title.
 
-(3)(A) Within 45 days after October 5, 1992, the Commission shall commence a rulemaking proceeding to establish regulations to govern the exercise by television broadcast stations of the right to grant retransmission consent under this subsection and of the right to signal carriage under section 534 of this title, and such other regulations as are necessary to administer the limitations contained in paragraph (2). The Commission shall consider in such proceeding the impact that the grant of retransmission consent by television stations may have on the rates for the basic service tier and shall ensure that the regulations prescribed under this subsection do not conflict with the Commission's obligation under section 543(b)(1) of this title toensure that the rates for the basic service tier are reasonable. Such rulemaking proceeding shall be completed within 180 days after October 5, 1992.
+(3)(A) Within 45 days after October 5, 1992, the Commission shall commence a rulemaking proceeding to establish regulations to govern the exercise by television broadcast stations of the right to grant retransmission consent under this subsection and of the right to signal carriage under section 534 of this title, and such other regulations as are necessary to administer the limitations contained in paragraph (2). The Commission shall consider in such proceeding the impact that the grant of retransmission consent by television stations may have on the rates for the basic service tier and shall ensure that the regulations prescribed under this subsection do not conflict with the Commission's obligation under section 543(b)(1) of this title to ensure that the rates for the basic service tier are reasonable. Such rulemaking proceeding shall be completed within 180 days after October 5, 1992.
 
 (B) The regulations required by subparagraph (A) shall require that television stations, within one year after October 5, 1992, and every three years thereafter, make an election between the right to grant retransmission consent under this subsection and the right to signal carriage under section 534 of this title. If there is more than one cable system which services the same geographic area, a station's election shall apply to all such cable systems.
 
@@ -92,7 +92,7 @@ Such application shall contain such information as the Commission may by regulat
 
 #### (2) Service of complaints on satellite carriers
 
-&emsp;For purposes of any proceeding under this subsection, any satellite carrier that retransmits the signal of any broadcast station shall be deemed to designate the Secretary of the Commission as its agent for service of process.A television broadcast station may serve a satellite carrier with a complaint concerning an alleged violation of subsection (b)(1) of this section through retransmission of a station within the local market of such station by filing the original and two copies of the complaint with the Secretary of the Commission and serving a copy of the complaint on the satellite carrier by means of two commonly used overnight delivery services, each addressed to the chief executive officer of the satellite carrier at its principal place of business, and each marked “URGENT LITIGATION MATTER” on the outer packaging. Service shall be deemed complete one business day after a copy of the complaint is provided to the delivery services for overnight delivery. On receipt of a complaint filed by a television broadcast station under this subsection, the Secretary of the Commission shall send the original complaint by United States mail, postage prepaid, receipt requested, addressed to the chief executive officer of the satellite carrier at its principal place of business.
+&emsp;For purposes of any proceeding under this subsection, any satellite carrier that retransmits the signal of any broadcast station shall be deemed to designate the Secretary of the Commission as its agent for service of process. A television broadcast station may serve a satellite carrier with a complaint concerning an alleged violation of subsection (b)(1) of this section through retransmission of a station within the local market of such station by filing the original and two copies of the complaint with the Secretary of the Commission and serving a copy of the complaint on the satellite carrier by means of two commonly used overnight delivery services, each addressed to the chief executive officer of the satellite carrier at its principal place of business, and each marked “URGENT LITIGATION MATTER” on the outer packaging. Service shall be deemed complete one business day after a copy of the complaint is provided to the delivery services for overnight delivery. On receipt of a complaint filed by a television broadcast station under this subsection, the Secretary of the Commission shall send the original complaint by United States mail, postage prepaid, receipt requested, addressed to the chief executive officer of the satellite carrier at its principal place of business.
 
 #### (3) Answers by satellite carriers
 
@@ -112,7 +112,7 @@ Such application shall contain such information as the Commission may by regulat
 
 &emsp;&emsp;&emsp;(ii) the television broadcast station had, in a writing signed by an officer of the television broadcast station, expressly authorized the retransmission of the station by the satellite carrier to each person in the local market of the television broadcast station to which the satellite carrier made such retransmissions for the entire time period during which it is alleged that a violation of subsection (b)(1) of this section has occurred;
 
-&emsp;&emsp;&emsp;(iii) the retransmission was made after January 1, 2002, and the television broadcast station had elected to assert the right to carriage under section 338 of this title as against the satellite carrier for the relevant period; or
+&emsp;&emsp;&emsp;(iii) the retransmission was made after January 1, 2002, and the television broadcast station had elected to assert the rightto carriage under section 338 of this title as against the satellite carrier for the relevant period; or
 
 &emsp;&emsp;&emsp;(iv) the station being retransmitted is a noncommercial television broadcast station.
 
@@ -148,7 +148,7 @@ Such application shall contain such information as the Commission may by regulat
 
 &emsp;&emsp;(B) issue an order, within 45 days after the filing of the complaint, containing—
 
-&emsp;&emsp;&emsp;(i) a cease-and-desist order directing the satellite carrier immediately to stop making any further retransmissions of the television broadcast station to any person within the local market of such stationuntil such time as the Commission determines that the satellite carrier is in compliance with subsection (b)(1) of this section with respect to such station;
+&emsp;&emsp;&emsp;(i) a cease-and-desist order directing the satellite carrier immediately to stop making any further retransmissions of the television broadcast station to any person within the local market of such station until such time as the Commission determines that the satellite carrier is in compliance with subsection (b)(1) of this section with respect to such station;
 
 &emsp;&emsp;&emsp;(ii) if the satellite carrier is found to have violated subsection (b)(1) of this section with respect to more than two television broadcast stations, a cease-and-desist order directing the satellite carrier to stop making any further retransmission of any television broadcast station to any person within the local market of such station, until such time as the Commission, after giving notice to the station, that the satellite carrier is in compliance with subsection (b)(1) of this section with respect to such stations; and
 
@@ -186,7 +186,7 @@ Such application shall contain such information as the Commission may by regulat
 
 &emsp;No complaint or civil action may be filed under this subsection after December 31, 2001. This subsection shall continue to apply to any complaint or civil action filed on or before such date.
 
-(June 19, 1934, ch. 652, title III, §325, 48 Stat. 1091; Pub. L. 102–385, §6, Oct. 5, 1992, 106 Stat. 1482;Pub. L. 106–113, div. B, §1000(a)(9) \[title I, §1009\], Nov. 29, 1999, 113 Stat. 1536, 1501A–537.)
+(June 19, 1934, ch. 652, title III, §325, 48 Stat. 1091; Pub. L. 102–385, §6, Oct. 5, 1992, 106 Stat. 1482; Pub. L. 106–113, div. B, §1000(a)(9) \[title I, §1009\], Nov. 29, 1999, 113 Stat. 1536, 1501A–537.)
 
 #### Amendments
 
@@ -224,7 +224,7 @@ Subsec. (e). Pub. L. 106–113, §1000(a)(9) \[title I, §1009(b)\], added subse
 
 #### Effective Date of 1992 Amendment
 
-Section 28 of Pub. L. 102–385 provided that: “Except where otherwise expressly provided, the provisions of this Act \[enacting sections 334, 335, 534 to 537, 544a, 548, and 555a of this title, amending this section and sections 332, 522, 532, 533, 541 to 544, 546, 551 to 555, and 558 of this title, and enacting provisions set out as notes under sections 521, 531, 543, and 554 of this title\] and the amendments made thereby shall take effect 60 days after the date of enactment of this Act \[Oct. 5, 1992\].”
+Section 28 of Pub. L. 102–385 provided that: “Except where otherwise expressly provided, the provisions of this Act \[enacting sections 334, 335, 534 to 537, 544a, 548, and 555a of this title, amending this section and sections 332, 522, 532, 533, 541 to 544, 546, 551 to 555, and 558 of this title, and enacting provisions set out as notesunder sections 521, 531, 543, and 554 of this title\] and the amendments made thereby shall take effect 60 days after the date of enactment of this Act \[Oct. 5, 1992\].”
 
 #### Severability
 

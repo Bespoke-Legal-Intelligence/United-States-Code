@@ -14,10 +14,6 @@ The treatment to be accorded to a foreign mission in the United States shall be 
 
 (Aug. 1, 1956, ch. 841, title II, §201, as added Pub. L. 97–241, title II, §202(b), Aug. 24, 1982, 96 Stat. 283; amended Pub. L. 99–93, title I, §127(a), Aug. 16, 1985, 99 Stat. 418.)
 
-#### Codification
-
-Section is also set out in D.C. Code, §5–1201.
-
 #### Amendments
 
 1985—Subsec. (c). Pub. L. 99–93 inserted “, as well as matters relating to the protection of the interests of the United States”.

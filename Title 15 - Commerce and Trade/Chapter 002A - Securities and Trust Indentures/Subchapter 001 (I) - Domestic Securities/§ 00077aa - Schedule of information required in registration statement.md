@@ -48,7 +48,7 @@ schedule a
 
 (23) the names and addresses of counsel who have passed on the legality of the issue;
 
-(24) dates of and parties to, and the general effect concisely stated of every material contract made, not in the ordinary course of business, which contract is to be executed in whole or in part at or after the filing of the registration statement or which contract has been made not more than two years before such filing. Any management contract or contract providing for special bonuses or profit-sharing arrangements, and every material patent or contract for a material patent right, and every contract by or with a public utility company or an affiliate thereof, providing for the giving or receiving of technical or financial advice or service (if such contract may involve a charge to any party thereto at a rate in excess of $2,500 per year in cash or securities or anything else of value), shall be deemed a material contract;
+(24) dates of and parties to, and the general effect concisely stated of every material contract made, not in the ordinary course of business, which contract is to be executed in whole or in part at or after the filing of the registration statement or which contract has been made not more than two years before such filing. Any management contract or contract providing for special bonuses or profit-sharing arrangements, and every material patent or contract for a material patent right, and every contract by or with a public utility company or an affiliatethereof, providing for the giving or receiving of technical or financial advice or service (if such contract may involve a charge to any party thereto at a rate in excess of $2,500 per year in cash or securities or anything else of value), shall be deemed a material contract;
 
 (25) a balance sheet as of a date not more than ninety days prior to the date of the filing of the registration statement showing all of the assets of the issuer, the nature and cost thereof, whenever determinable, in such detail and in such form as the Commission shall prescribe (with intangible items segregated), including any loan in excess of $20,000 to any officer, director, stockholder or person directly or indirectly controlling or controlled by the issuer, or person under direct or indirect common control with the issuer. All the liabilities of the issuer in such detail and such form as the Commission shall prescribe, including surplus of the issuer showing how and from what sources such surplus was created, all as of a date not more than ninety days prior to the filing of the registration statement. If such statement be not certified by an independent public or certified accountant, in addition to the balance sheet required to be submitted under this schedule, a similar detailed balance sheet of the assets and liabilities of the issuer, certified by an independent public or certified accountant, of a date not more than one year prior to the filing of the registration statement, shall be submitted;
 
@@ -107,14 +107,6 @@ schedule b
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
-#### Cross References
-
-Information filed by registered investment company in lieu of registration statement, see section 80a–24 of this title.
-
-Prospectus, information required, see section 77j of this title.
-
-Registration statement, information and documents required, see section 77g of this title.
 
 #### Section Referred to in Other Sections
 

@@ -68,10 +68,6 @@ Subsecs. (f) to (h). Pub. L. 97–290 added subsecs. (f) to (h).
 
 Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
 
-#### Cross References
-
-Acceptances of other banks not subject to limitation based upon capital and surplus, see section 84 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 84, 412, 461 of this title.

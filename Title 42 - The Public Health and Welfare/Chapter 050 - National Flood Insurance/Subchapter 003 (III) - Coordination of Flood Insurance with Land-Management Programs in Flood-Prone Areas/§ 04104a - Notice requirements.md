@@ -34,13 +34,13 @@
 
 #### (c) Notification of expiration of insurance
 
-The Director (or the designee of the Director) shall, not less than 45 days before the expiration of any contract for flood insurance under this chapter, issue notice of such expiration by first class mail to the owner of the property covered by the contract, the servicer of any loan secured by the property covered by the contract, and (if known to the Director) the owner of the loan.
+The Director (or the designee of the Director) shall, not less than 45 days before the expirationof any contract for flood insurance under this chapter, issue notice of such expiration by first class mail to the owner of the property covered by the contract, the servicer of any loan secured by the property covered by the contract, and (if known to the Director) the owner of the loan.
 
 (Pub. L. 90–448, title XIII, §1364, as added Pub. L. 93–383, title VIII, §816(a), Aug. 22, 1974, 88 Stat. 739; amended Pub. L. 98–181, title IV, §451(d)(1), Nov. 30, 1983, 97 Stat. 1229; Pub. L. 103–325, title V, §527, Sept. 23, 1994, 108 Stat. 2263.)
 
 #### References in Text
 
-The Flood Disaster Protection Act of 1973, referred to in subsec. (a)(1), (2), is Pub. L. 93–234, Dec. 31, 1973, 87Stat. 975, as amended, which enacted sections 4002, 4003, 4012a, 4104, 4104a, 4105 to 4107, and 4128 of this title, amended sections 4001, 4013 to 4016, 4026, 4054, 4056, 4101, and 4121 of this title and sections 24 and 1709–1 of Title 12, Banks and Banking, repealed section 4021 of this title, and enacted provision set out as a note under section 4001 of this title. For complete classification of this Act to the Code, see Short Title of 1973 Amendment note set out under section 4001 of this title and Tables.
+The Flood Disaster Protection Act of 1973, referred to in subsec. (a)(1), (2), is Pub. L. 93–234, Dec. 31, 1973, 87 Stat. 975, as amended, which enacted sections 4002, 4003, 4012a, 4104, 4104a, 4105 to 4107, and 4128 of this title, amended sections 4001, 4013 to 4016, 4026, 4054, 4056, 4101, and 4121 of this title and sections 24 and 1709–1 of Title 12, Banks and Banking, repealed section 4021 of this title, and enacted provision set out as a note under section 4001 of this title. For complete classification of this Act to the Code, see Short Title of 1973 Amendment note set out under section 4001 of this title and Tables.
 
 #### Amendments
 

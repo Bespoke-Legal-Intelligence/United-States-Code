@@ -78,7 +78,7 @@ Determination of Creditable Service.—For purposes of this section, creditable 
 
 (h)
 
-Reserve Medical Officers Special Pay.—(1) A reserve medical officer described in paragraph (2) is entitled to special pay at the rate of $450 a month for each month of active duty.
+Reserve Medical Officers Special Pay.—(1) A reserve medical officer described in paragraph (2) is entitled to special pay at the rate of $450 a month for each month of active duty, including active duty in the form of annual training, active duty for training, and active duty for special work.
 
 (2) A reserve medical officer referred to in paragraph (1) is a reserve officer who—
 
@@ -90,7 +90,7 @@ Reserve Medical Officers Special Pay.—(1) A reserve medical officer described 
 
 Effect of Discharge in Bankruptcy.—A discharge in bankruptcy under title 11 that is entered less than 5 years after the termination of an agreement under this section does not discharge the person signing such agreement from a debt arising under such agreement or under subsection (c)(2) or (f). This paragraph applies to any case commenced under title 11 after September 30, 1985.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 464; Pub. L. 88–2, §5, Mar. 28, 1963, 77 Stat. 4; Pub. L. 88–132, §4, Oct. 2, 1963, 77 Stat. 212; Pub. L. 89–718, §53, Nov. 2, 1966, 80 Stat. 1122; Pub. L. 90–40, §5, June 30, 1967, 81 Stat. 105; Pub. L. 92–129, title I, §104, Sept. 28, 1971, 85 Stat. 355; Pub. L. 93–64, title II, §201, July 9, 1973, 87 Stat. 149; Pub. L. 93–274, §1(1), May 6, 1974, 88 Stat. 94; Pub. L. 96–284, §2(a), June 28, 1980, 94 Stat. 587; Pub. L. 96–513, title IV, §415, Dec. 12, 1980, 94 Stat. 2906; Pub. L. 99–145, title VI, §640, Nov. 8, 1985, 99 Stat. 652; Pub. L. 99–661, div. A, title XIII, §§1342(d), 1343(b)(1), Nov. 14, 1986, 100 Stat. 3991, 3995; Pub. L. 100–180, div. A, title VII, §716(a), Dec. 4, 1987, 101 Stat. 1113; Pub. L. 101–189, div. A, title VII, §702(a)–(f), Nov. 29, 1989, 103 Stat. 1468, 1469; Pub. L. 101–510, div. A, title VI, §612, Nov. 5, 1990, 104 Stat. 1577.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 464; Pub. L. 88–2, §5, Mar. 28, 1963, 77 Stat. 4; Pub. L. 88–132, §4, Oct. 2, 1963, 77 Stat. 212; Pub. L. 89–718, §53, Nov. 2, 1966, 80 Stat. 1122; Pub. L. 90–40, §5, June 30, 1967, 81 Stat. 105; Pub. L. 92–129, title I, §104, Sept. 28, 1971, 85 Stat. 355; Pub. L. 93–64, title II, §201, July 9, 1973, 87 Stat. 149; Pub. L. 93–274, §1(1), May 6, 1974, 88 Stat. 94; Pub. L. 96–284, §2(a), June 28, 1980, 94 Stat. 587; Pub. L. 96–513, title IV, §415, Dec. 12, 1980, 94 Stat. 2906; Pub. L. 99–145, title VI, §640, Nov. 8, 1985, 99 Stat. 652; Pub. L. 99–661, div. A, title XIII, §§1342(d), 1343(b)(1), Nov. 14, 1986, 100 Stat. 3991, 3995; Pub. L. 100–180, div. A, title VII, §716(a), Dec. 4, 1987, 101 Stat. 1113; Pub. L. 101–189, div. A, title VII, §702(a)–(f), Nov. 29, 1989, 103 Stat. 1468, 1469; Pub. L. 101–510, div. A, title VI, §612, Nov. 5, 1990, 104 Stat. 1577; Pub. L. 106–398, §1 \[\[div. A\], title VI, §625(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–153.)
 
 Historical and Revision Notes
 
@@ -132,11 +132,13 @@ Historical and Revision Notes
 
 Oct. 12, 1949, ch. 681, §203(a), (b) (less applicability to veterinarians), 63 Stat. 809; June 25, 1952, ch. 459, §1, 66 Stat. 156; June 29, 1953, ch. 138, §8 (less applicability to veterinarians), 67 Stat. 89; June 30, 1955, ch. 250, §203, 69 Stat. 225; Apr. 30, 1956, ch. 223, §5, 70 Stat. 122; Mar. 23, 1959, Pub. L. 86–4, §5, 73 Stat. 13.
 
-In subsection (a), clause (1) is substituted for section 234(a)(1), (2), and (3) of existing title 37. The words “of the Regular Army or the Regular Navy” and “of the Regular Air Force” are inserted in clauses (1)(A) and (B), respectively, since, in contradistinction to section 234(a)(4) of existing title 37, their source was intended to apply only to regular officers. Clauses (2) (A) and (B) are substituted for the enumeration of categories in section 234(a)(4) of existing title 37 to reflect current usage and designation of those categories. Clause (3) is substituted for section 234(a)(5) and (6) of existing title 37.
+In subsection (a), clause (1) is substituted for section 234(a)(1), (2), and (3) of existing title 37. The words “of the Regular Army or the Regular Navy” and “of theRegular Air Force” are inserted in clauses (1)(A) and (B), respectively, since, in contradistinction to section 234(a)(4) of existing title 37, their source was intended to apply only to regular officers. Clauses (2) (A) and (B) are substituted for the enumeration of categories in section 234(a)(4) of existing title 37 to reflect current usage and designation of those categories. Clause (3) is substituted for section 234(a)(5) and (6) of existing title 37.
 
 In subsection (c), the words “disability retirement pay” are omitted as covered by the words “retired pay”. Section 234(b) (2d proviso) of existing title 37 is omitted as obsolete.
 
 #### Amendments
+
+2000—Subsec. (h)(1). Pub. L. 106–398 inserted before period at end “, including active duty in the form of annual training, active duty for training, and active duty for special work”.
 
 1990—Subsec. (a)(3). Pub. L. 101–510 substituted “$7,000” for “$1,000”.
 
@@ -214,11 +216,11 @@ Subsec. (i). Pub. L. 99–661, §1343(b)(1), substituted “subsection (c)(2) or
 
 Subsec. (i). Pub. L. 99–145, §640(2), added subsec. (i).
 
-1980—Pub. L. 96–284, in revising text, added subsecs. (a) to (g) provisions covering special pay for medical officers of the armed forces, and struck out former provision for special pay of physicians in the Army, Navy, Air Force, and Public Health Service, amounting to $100 or $350 a month for each month of active duty in cases of active duty in named category of less than two years or two years or more of duty, now covered as to Public Health Service in section 302c of this title, and struck out prohibition against inclusion of active duty monthly special pay in computation of amount of increase in pay authorized in any other provision of this title or in computation of retired pay or severance pay. See section 303a(b) of this title.
+1980—Pub. L. 96–284, in revising text, added subsecs. (a) to (g) provisions covering special pay for medical officers of the armed forces, and struck out former provision for special pay of physicians in the Army, Navy, Air Force, and Public Health Service, amounting to $100 or $350 a month for each month of active duty in cases of active duty in named category of less than two years or two years or more of duty, now covered as to Public Health Service in section 302c of this title, and struck out prohibition against inclusion of active duty monthly special pay in computation of amount of increase in pay authorized in any other provision of this title or in computation of retired pay or severance pay.
 
 Subsec. (h). Pub. L. 96–513 added subsec. (h).
 
-1974—Pub. L. 93–274 reduced for uniformed services physicians the present four steps of special pay, which require the completion of ten years of active duty before attaining eligibility for the $350 per month maximum down to two steps, with the maximum being reached upon completion of two years of active duty, and repealed provisions relating to special pay for dentists. See section 302b of this title.
+1974—Pub. L. 93–274 reduced for uniformed services physicians the present four steps of special pay, whichrequire the completion of ten years of active duty before attaining eligibility for the $350 per month maximum down to two steps, with the maximum being reached upon completion of two years of active duty, and repealed provisions relating to special pay for dentists. See section 302b of this title.
 
 1973—Subsec. (a). Pub. L. 93–64 substituted “July 1, 1975” for “July 1, 1973” wherever appearing.
 
@@ -306,5 +308,5 @@ Section 7 of Pub. L. 96–284 provided that: “Notwithstanding any provision of
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 301d, 302f, 303a, 303b of this title; title 25 section 1616i; title 42 section 210.
+This section is referred to in sections 301d, 302f, 303a, 303b of this title; title 25 section 1616i.
 

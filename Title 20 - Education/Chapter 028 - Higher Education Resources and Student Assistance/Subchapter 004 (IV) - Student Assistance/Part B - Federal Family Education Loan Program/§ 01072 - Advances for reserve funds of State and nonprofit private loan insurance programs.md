@@ -30,7 +30,7 @@
 
 #### (1) In general
 
-&emsp;The total of the advances from the sums appropriated pursuant to paragraph (4)(A) of section 1071(b) of this title to nonprofit private institutions and organizations for the benefit of students in any State and to such State may not exceed an amount which bears the same ratio to such sums as the population of such State aged 18 to 22, inclusive, bears to the population of all the States aged 18 to 22 inclusive, but such advances may otherwise be in such amounts as the Secretary determines will best achieve the purposes for which they are made. The amount available for advances to any State shall not be less than $25,000 andany additional funds needed to meet this requirement shall be derived by proportionately reducing (but not below $25,000) the amount available for advances to each of the remaining States.
+&emsp;The total of the advances from the sums appropriated pursuant to paragraph (4)(A) of section 1071(b) of this title to nonprofit private institutions and organizations for the benefit of students in any State and to such State may not exceed an amount which bears the same ratio to such sums as the population of such State aged 18 to 22, inclusive, bears to the population of all the States aged 18 to 22 inclusive, but such advances may otherwise be in such amounts as the Secretary determines will best achieve the purposes for which they are made. The amount available for advances to any State shall not be less than $25,000 and any additional funds needed to meet this requirement shall be derived by proportionately reducing (but not below $25,000) the amount available for advances to each of the remaining States.
 
 #### (2) Calculation of population
 
@@ -40,7 +40,7 @@
 
 #### (1) Use for payment of insurance obligations
 
-&emsp;From sums appropriated pursuant to section 1071(b)(4)(B) of this title, the Secretary shall advance to each State which has an agreement with the Secretary under section 1078(c) of this title with respect to a student loan insurance program, an amount determined in accordance with paragraph (2) of this subsection to be used for the purpose of making payments under the State's insurance obligations under such program.
+&emsp;From sums appropriated pursuant to section 1071(b)(4)(B) of this title, the Secretary shall advance to each State which has an agreementwith the Secretary under section 1078(c) of this title with respect to a student loan insurance program, an amount determined in accordance with paragraph (2) of this subsection to be used for the purpose of making payments under the State's insurance obligations under such program.
 
 #### (2) Amount of advances
 
@@ -142,7 +142,7 @@ The Secretary shall, within 30 days after July 23, 1992, pay the full amount of 
 
 #### (1) Authority to recover funds
 
-&emsp;Notwithstanding any other provision of law, the reserve funds of the guaranty agencies,and any assets purchased with such reserve funds, regardless of who holds or controls the reserves or assets, shall be considered to be the property of the United States to be used in the operation of the program authorized by this part. However, the Secretary may not require the return of all reserve funds of a guaranty agency to the Secretary unless the Secretary determines that such return is in the best interest of the operation of the program authorized by this part, or to ensure the proper maintenance of such agency's funds or assets or the orderly termination of the guaranty agency's operations and the liquidation of its assets. The reserves shall be maintained by each guaranty agency to pay program expenses and contingent liabilities, as authorized by the Secretary, except that—
+&emsp;Notwithstanding any other provision of law, the reserve funds of the guaranty agencies, and any assets purchased with such reserve funds, regardless of who holds or controls the reserves or assets, shall be considered to be the property of the United States to be used in the operation of the program authorized by this part. However, the Secretary may not require the return of all reserve funds of a guaranty agency to the Secretary unless the Secretary determines that such return is in the best interest of the operation of the program authorized by this part, or to ensure the proper maintenance of such agency's funds or assets or the orderly termination of the guaranty agency's operations and the liquidation of its assets. The reserves shall be maintained by each guaranty agency to pay program expenses and contingent liabilities, as authorized by the Secretary, except that—
 
 &emsp;&emsp;(A) the Secretary may direct a guaranty agency to return to the Secretary a portion of its reserve fund which the Secretary determines is unnecessary to pay the program expenses and contingent liabilities of the guaranty agency;
 
@@ -190,7 +190,7 @@ The Secretary shall, within 30 days after July 23, 1992, pay the full amount of 
 
 &emsp;&emsp;&emsp;(ii) the total amount of all such agencies’ reserve funds remaining (after deduction of the required shares calculated under such subparagraph).
 
-&emsp;&emsp;(D) If any additional amount is required to be recalled under paragraph (1) (after deducting the total of the required shares calculated under subparagraphs (B) and (C)), such additional amount shall be obtained by imposing on each guaranty agency with a reserve ratio (after deducting the required shares calculated under such subparagraphs) in excess of 0.58 percent an equal percentage reduction in the amount of the agency's reserve funds remaining (after such deduction) that exceed a reserve ratio of 0.58 percent. The equal percentage reduction shall be the percentage obtained by dividing—
+&emsp;&emsp;(D) If any additional amount is required to be recalled under paragraph (1) (after deducting the total of the required shares calculated under subparagraphs (B) and (C)), such additional amount shall be obtained by imposing on each guaranty agency with a reserve ratio (after deducting the required shares calculated under such subparagraphs) in excess of 0.58 percent an equal percentagereduction in the amount of the agency's reserve funds remaining (after such deduction) that exceed a reserve ratio of 0.58 percent. The equal percentage reduction shall be the percentage obtained by dividing—
 
 &emsp;&emsp;&emsp;(i) the additional amount to be recalled under paragraph (1) (after deducting the amount recalled under subparagraphs (B) and (C)), by
 
@@ -330,7 +330,7 @@ The Secretary shall, within 30 days after July 23, 1992, pay the full amount of 
 
 &emsp;&emsp;(B) does not include buildings, equipment, or other nonliquid assets.
 
-(Pub. L. 89–329, title IV, §422, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1354; amended Pub. L. 100–203, title III, §§3001(a), 3002(a), Dec. 22, 1987, 101 Stat. 1330–36, 1330–38; Pub. L. 102–325, title IV, §§412, 416(p)(8), July 23, 1992, 106 Stat. 511, 527; Pub. L. 103–66, title IV, §§4041(a), (2)(A), 4042, Aug. 10, 1993, 107 Stat. 354, 357; Pub. L. 103–208, §2(c)(1), Dec. 20, 1993, 107 Stat. 2460; Pub. L. 105–33, title VI, §6101(a), Aug.5, 1997, 111 Stat. 648; Pub. L. 105–244, title IV, §412, Oct. 7, 1998, 112 Stat. 1673.)
+(Pub. L. 89–329, title IV, §422, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1354; amended Pub. L. 100–203, title III, §§3001(a), 3002(a), Dec. 22, 1987, 101 Stat. 1330–36, 1330–38; Pub. L. 102–325, title IV, §§412, 416(p)(8), July 23, 1992, 106 Stat. 511, 527; Pub. L. 103–66, title IV, §§4041(a), (2)(A), 4042, Aug. 10, 1993, 107 Stat. 354, 357; Pub. L. 103–208, §2(c)(1), Dec. 20, 1993, 107 Stat. 2460; Pub. L. 105–33, title VI, §6101(a), Aug. 5, 1997, 111 Stat. 648; Pub. L. 105–244, title IV, §412, Oct. 7, 1998, 112 Stat. 1673.)
 
 #### Codification
 

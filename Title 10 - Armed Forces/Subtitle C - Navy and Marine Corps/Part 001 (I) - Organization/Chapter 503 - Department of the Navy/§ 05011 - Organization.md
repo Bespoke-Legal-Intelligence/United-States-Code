@@ -36,7 +36,3 @@ Pub. L. 99–433, §511(b)(2), struck out the last two sentences which read as f
 
 1962—Pub. L. 87–651 inserted sentences providing that the Department of the Navy is separately organized under the Secretary of the Navy, and that it operates under the authority, direction, and control of the Secretary of Defense.
 
-#### Cross References
-
-Coast Guard, operation as service in Navy, see section 4 of Title 14, Coast Guard.
-

@@ -1,6 +1,6 @@
 ### §1013. Farm loan bonds and credit bank debentures
 
-Whoever deceives, defrauds, or imposes upon, or attempts to deceive, defraud, or impose upon any person, partnership, corporation, or association by making any false pretense or representation concerning the character, issue, security, contents, conditions, or terms of any farm loan bond, or coupon, issued by any Federal land bank or banks; or of any debenture, coupon, or other obligation, issued by any Federal intermediate credit bank or banks; or by falsely pretending or representing that any farm loan bond, or coupon, is anything other than, or different from, what it purports to be on the face of said bond or coupon, shall be fined under this title or imprisoned not more than one year, or both.
+Whoever deceives, defrauds, or imposes upon, or attempts to deceive, defraud, or impose upon any person, partnership, corporation, or association by making any false pretense or representation concerning the character, issue, security, contents, conditions, or terms of any farm loanbond, or coupon, issued by any Federal land bank or banks; or of any debenture, coupon, or other obligation, issued by any Federal intermediate credit bank or banks; or by falsely pretending or representing that any farm loan bond, or coupon, is anything other than, or different from, what it purports to be on the face of said bond or coupon, shall be fined under this title or imprisoned not more than one year, or both.
 
 (June 25, 1948, ch. 645, 62 Stat. 752; Pub. L. 97–297, §4(a), Oct. 12, 1982, 96 Stat. 1318; Pub. L. 103–322, title XXXIII, §§330004(8), 330016(1)(G), Sept. 13, 1994, 108 Stat. 2141, 2147.)
 
@@ -23,14 +23,6 @@ Changes were made in phraseology.
 Pub. L. 103–322, §330004(8), struck out “, or by any National Agricultural Credit Corporation” after “credit bank or banks”.
 
 1982—Pub. L. 97–297 struck out “, or by any joint-stock land bank or banks” after “issued by any Federal land bank or banks”.
-
-#### Cross References
-
-Compromise, adjustment or cancellation of farm indebtedness, false statements, see section 1026 of this title.
-
-Secret Service, arrest, detection and delivery into custody of any person violating this section in so far as Federal land banks and joint-stock land banks are concerned, see section 3056 of this title.
-
-Spurious advertising or representations as to Federal farm loans and bonds, see section 709 of this title.
 
 #### Section Referred to in Other Sections
 

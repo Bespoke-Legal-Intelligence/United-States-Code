@@ -2,5 +2,5 @@
 
 Section, Pub. L. 95–561, title XI, §1139, as added Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108 Stat. 4011, related to promulgation of regulations.
 
-A prior section 2019, Pub. L. 95–561, title XI, §1139, Nov. 1, 1978, 92 Stat. 2328; Pub. L. 100–297, title V, §5117, Apr. 28, 1988, 102 Stat. 382; Pub. L. 100–427, §1(c)(1), (2), Sept. 9, 1988, 102 Stat. 1603; Pub. L. 101–301, §5(a), May 24, 1990, 104 Stat. 207, defined terms used in this chapter, prior to the general amendment of this chapter by Pub. L. 103–382.
+A prior section 2019, Pub. L. 95–561, title XI, §1139, Nov. 1, 1978, 92 Stat. 2328; Pub. L. 100–297, title V, §5117,Apr. 28, 1988, 102 Stat. 382; Pub. L. 100–427, §1(c)(1), (2), Sept. 9, 1988, 102 Stat. 1603; Pub. L. 101–301, §5(a), May 24, 1990, 104 Stat. 207, defined terms used in this chapter, prior to the general amendment of this chapter by Pub. L. 103–382.
 

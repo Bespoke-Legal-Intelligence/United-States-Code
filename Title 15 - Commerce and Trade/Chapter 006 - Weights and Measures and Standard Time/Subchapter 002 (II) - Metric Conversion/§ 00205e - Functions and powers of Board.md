@@ -2,7 +2,7 @@
 
 It shall be the function of the Board to devise and carry out a broad program of planning, coordination, and public education, consistent with other national policy and interests, with the aim of implementing the policy set forth in this subchapter. In carrying out this program, the Board shall—
 
-&emsp;(1) consult with and take into account the interests, views, and conversion costs ofUnited States commerce and industry, including small business; science; engineering; labor; education; consumers; government agencies at the Federal, State, and local level; nationally recognized standards developing and coordinating organizations; metric conversion planning and coordinating groups; and such other individuals or groups as are considered appropriate by the Board to the carrying out of the purposes of this subchapter. The Board shall take into account activities underway in the private and public sectors, so as not to duplicate unnecessarily such activities;
+&emsp;(1) consult with and take into account the interests, views, and conversion costs of United States commerce and industry, including small business; science; engineering; labor; education; consumers; government agencies at the Federal, State, and local level; nationally recognized standards developing and coordinating organizations; metric conversion planning and coordinating groups; and such other individuals or groups as are considered appropriate by the Board to the carrying out of the purposes of this subchapter. The Board shall take into account activities underway in the private and public sectors, so as not to duplicate unnecessarily such activities;
 
 &emsp;(2) provide for appropriate procedures whereby various groups, under the auspices of the Board, may formulate, and recommend or suggest, to the Board specific programs for coordinating conversion in each industry and segment thereof and specific dimensions and configurations in the metric system and in other measurements for general use. Such programs, dimensions, and configurations shall be consistent with (A) the needs, interests, and capabilities of manufacturers (large and small), suppliers, labor, consumers, educators, and other interested groups, and (B) the national interest;
 
@@ -28,7 +28,7 @@ It shall be the function of the Board to devise and carry out a broad program of
 
 &emsp;(9) conduct research, including appropriate surveys; publish the results of such research; and recommend to the Congress and to the President such action as may be appropriate to deal with any unresolved problems, issues, and questions associated with metric conversion, or usage, such problems, issues, and questions may include, but are not limited to, the impact on workers (such as costs of tools and training) and on different occupations and industries, possible increased costs to consumers, the impact on society and the economy, effects on small business, the impact on the international trade position of the United States, the appropriateness of and methods for using procurement by the Federal Government as a means to effect conversion to the metric system, the proper conversion or transition period in particular sectors of society, and consequences for national defense;
 
-&emsp;(10) submit annually to the Congress and to the President a report on its activities. Each such report shall include a status report on the conversion process as well as projections for the conversion process. Such report may include recommendations covering any legislation or executive action needed to implement the the <sup>1</sup> programs of conversion accepted by the Board. The Board may also submitsuch other reports and recommendations as it deems necessary; and
+&emsp;(10) submit annually to the Congress and to the President a report on its activities. Each such report shall include a status report on the conversion process as well as projections for the conversion process. Such report may include recommendations covering any legislation or executive action needed to implement the the <sup>1</sup> programs of conversion accepted by the Board. The Board may also submit such other reports and recommendations as it deems necessary; and
 
 &emsp;(11) submit to the Congress and to the President, not later than 1 year after the date of enactment of the Act making appropriations for carrying out this subchapter, a report on the need to provide an effective structural mechanism for converting customary units to metric units in statutes, regulations, and other laws at all levels of government, on a coordinated and timely basis, in response to voluntary conversion programs adopted and implemented by various sectors of society under the auspices and with the approval of the Board. If the Board determines that such a need exists, such report shall include recommendations as to appropriate and effective means for establishing and implementing such a mechanism.
 
@@ -37,6 +37,10 @@ It shall be the function of the Board to devise and carry out a broad program of
 #### Transfer of Functions
 
 “Secretary of Education” substituted for “Secretary of Health, Education, and Welfare” in par. (7)(B) pursuant to sections 301 and 507 of Pub. L. 96–88, which are classified to sections 3441 and 3507 of Title 20, Education.
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in par. (10) of this section relating to annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 194 of House Document No. 103–7.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

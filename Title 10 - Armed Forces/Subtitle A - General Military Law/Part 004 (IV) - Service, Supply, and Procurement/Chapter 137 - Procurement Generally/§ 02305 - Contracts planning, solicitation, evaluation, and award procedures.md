@@ -102,7 +102,7 @@
 
 (D) Each solicitation for competitive proposals shall include a statement that information described in subparagraph (B) may be disclosed in post-award debriefings.
 
-(E) If, within one year after the date of the contract award and as a result of a successful procurement protest, the agency seeks to fulfill the requirement under the protested contract either on the basis of a new solicitation of offers or on the basis of new best and final offers requested for that contract, the agency shall make available to all offerors—
+(E) If, within one year after the date of the contract award and as a result of a successfulprocurement protest, the agency seeks to fulfill the requirement under the protested contract either on the basis of a new solicitation of offers or on the basis of new best and final offers requested for that contract, the agency shall make available to all offerors—
 
 &emsp;(i) the information provided in debriefings under this paragraph regarding the offer of the contractor awarded the contract; and
 
@@ -150,7 +150,7 @@
 
 (B) Proposals referred to in the first sentence of subparagraph (A) are proposals identifying opportunities to ensure that the United States will be able to obtain on a competitive basis items procured in connection with the system that are likely to be reprocured in substantial quantities during the service life of the system. Proposals submitted in response to such requirement may include the following:
 
-&emsp;(i) Proposals to provide to the United States the right to use technical data to be provided under the contract for competitive reprocurement of the item, together with the cost to the United States, if any, of acquiring such technical data and the right to use such data.
+&emsp;(i) Proposals to provide to the United States the right to use technical data to be provided under the contract for competitive reprocurement of the item, together with the cost tothe United States, if any, of acquiring such technical data and the right to use such data.
 
 &emsp;(ii) Proposals for the qualification or development of multiple sources of supply for the item.
 
@@ -162,7 +162,7 @@
 
 &emsp;(ii) proposals by the original supplier of such item to meet the mobilization requirements are insufficient to meet the agency's mobilization needs.
 
-(B) In considering offers in response to a solicitation requiring proposals described in paragraph (1)(B) or (2)(B), the head of an agencyshall base any evaluation of items developed exclusively at private expense on an analysis of the total value, in terms of innovative design, life-cycle costs, and other pertinent factors, of incorporating such items in the system.
+(B) In considering offers in response to a solicitation requiring proposals described in paragraph (1)(B) or (2)(B), the head of an agency shall base any evaluation of items developed exclusively at private expense on an analysis of the total value, in terms of innovative design, life-cycle costs, and other pertinent factors, of incorporating such items in the system.
 
 (e)
 
@@ -324,7 +324,7 @@ Subsec. (b)(4)(B) to (E). Pub. L. 101–510, §802(d)(3)(B)–(D), redesignated 
 
 1988—Subsec. (d)(1)(B). Pub. L. 100–456, §806(b), substituted “Proposals referred to in the first sentence of subparagraph (A) are” for “The proposals that the head of an agency is to consider requiring in a solicitation for the award of a development contract are”.
 
-Subsec. (d)(2)(B). Pub. L. 100–456, §806(b), substituted “Proposals referred to in the first sentence of subparagraph (A) are” for “The proposals that the head of an agency is to consider requiring in a solicitation for the award of a production contract are”.
+Subsec. (d)(2)(B). Pub. L. 100–456, §806(b), substituted “Proposals referred to in the first sentence of subparagraph (A) are” for “The proposals that the head of anagency is to consider requiring in a solicitation for the award of a production contract are”.
 
 Subsec. (d)(3). Pub. L. 100–456, §806(a)(2), inserted provision that objectives may not impair the rights of prospective contractors or subcontractors otherwise provided by law.
 
@@ -381,12 +381,6 @@ Pub. L. 102–484, div. A, title VIII, §804, Oct. 23, 1992, 106 Stat. 2447, pro
 #### Construction of 1984 Amendment
 
 Amendment by Pub. L. 98–369 as not superseding or affecting the provisions of section 637(a) of Title 15, Commerce and Trade, see section 2723(c) of Pub. L. 98–369, set out as a note under section 2304 of this title.
-
-#### Cross References
-
-Regulations for bids for contracts, see section 2381 of this title.
-
-Research and development contracts, negotiation without advertising, see section 2356 of this title.
 
 #### Section Referred to in Other Sections
 

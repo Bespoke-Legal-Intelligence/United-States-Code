@@ -18,7 +18,7 @@ Any State, municipal or local government or political subdivision thereof or any
 
 #### (d) Criteria
 
-Not later than 1 year after June 19, 1986, the Administrator shall, by rule, establish criteriafor identifying critical aquifer protection areas under this section. In establishing such criteria, the Administrator shall consider each of the following:
+Not later than 1 year after June 19, 1986, the Administrator shall, by rule, establish criteria for identifying critical aquifer protection areas under this section. In establishing such criteria, the Administrator shall consider each of the following:
 
 &emsp;(1) The vulnerability of the aquifer to contamination due to hydrogeologic characteristics.
 
@@ -84,11 +84,11 @@ A plan approved before June 19, 1986, under section 208 of the Clean Water Act \
 
 #### (h) Consultation and hearings
 
-During the development of a comprehensive management plan under this section, the planning entity shall consult with, and consider the comments of, appropriate officials of any municipality and State or Federal agency whichhas jurisdiction over lands and waters within the special protection area, other concerned organizations and technical and citizen advisory committees. The planning entity shall conduct public hearings at places within the special protection area for the purpose of providing the opportunity to comment on any aspect of the plan.
+During the development of a comprehensive management plan under this section, the planning entity shall consult with, and consider the comments of, appropriate officials of any municipality and State or Federal agency which has jurisdiction over lands and waters within the special protection area, other concerned organizations and technical and citizen advisory committees. The planning entity shall conduct public hearings at places within the special protection area for the purpose of providing the opportunity to comment on any aspect of the plan.
 
 #### (i) Approval or disapproval
 
-Within 120 days after receipt of an application under this section, the Administrator shall approve or disapprove the application. The approval or disapproval shall be based on a determination that the critical protection area satisfies the criteria established under subsection (d) of this section and that a demonstration program for the area would provide protection for ground water quality consistent with the objectives stated in subsection (f) of this section. The Administrator shall provide to the Governor a written explanation of the reasons for the disapproval of any such application. Any petitioner may modify and resubmit any application which is not approved. Upon approval of an application, the Administrator may enter into a cooperative agreement with the applicant to establish a demonstration program under this section.
+Within 120 days after receipt of an application under this section, the Administrator shall approve or disapprove the application. The approval or disapproval shall be based on a determination that the critical protection area satisfies the criteria established under subsection (d)of this section and that a demonstration program for the area would provide protection for ground water quality consistent with the objectives stated in subsection (f) of this section. The Administrator shall provide to the Governor a written explanation of the reasons for the disapproval of any such application. Any petitioner may modify and resubmit any application which is not approved. Upon approval of an application, the Administrator may enter into a cooperative agreement with the applicant to establish a demonstration program under this section.
 
 #### (j) Grants and reimbursement
 

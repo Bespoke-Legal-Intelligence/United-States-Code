@@ -82,3 +82,7 @@ Subsec. (g). Pub. L. 102–415, §11, substituted “of entities excluded from t
 
 1988—Subsecs. (c) to (g). Pub. L. 100–241 added subsecs. (c) to (g).
 
+#### Section Referred to in Other Sections
+
+This section is referred to in title 15 section 632.
+

@@ -4,7 +4,7 @@
 
 &emsp;(1) the term “official proceeding” means—
 
-&emsp;&emsp;(A) a proceeding before a judge or court of the United States, a United States magistrate, a bankruptcy judge, a judge of the United States Tax Court, a special trial judge of the Tax Court, a judge of the United States Court of Federal Claims, or a Federal grand jury;
+&emsp;&emsp;(A) a proceeding before a judge or court of the United States, a United States magistrate judge, a bankruptcy judge, a judge of the United States Tax Court, a special trial judge of the Tax Court, a judge of the United States Court of Federal Claims, or a Federal grand jury;
 
 &emsp;&emsp;(B) a proceeding before the Congress;
 
@@ -50,7 +50,7 @@
 
 (c) This chapter does not prohibit or punish the providing of lawful, bona fide, legal representation services in connection with or anticipation of an official proceeding.
 
-(Added Pub. L. 97–291, §4(a), Oct. 12, 1982, 96 Stat. 1252; amended Pub. L. 99–646, §50(b), Nov. 10, 1986, 100 Stat. 3605; Pub. L. 100–690, title VII, §7029(b), (d), Nov. 18, 1988, 102 Stat. 4398; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–322, title XXXII, §320604(a), Sept. 13, 1994, 108 Stat. 2118; Pub. L. 104–292, §3, Oct. 11, 1996, 110 Stat. 3460; Pub. L. 104–294, title VI, §604(b)(39), Oct. 11, 1996, 110 Stat. 3509.)
+(Added Pub. L. 97–291, §4(a), Oct. 12, 1982, 96 Stat. 1252; amended Pub. L. 99–646, §50(b), Nov. 10, 1986, 100 Stat. 3605; Pub. L. 100–690, title VII, §7029(b), (d), Nov. 18, 1988, 102 Stat. 4398; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–322, title XXXII, §320604(a), Sept. 13, 1994, 108 Stat. 2118; Pub. L. 104–292, §3, Oct. 11, 1996, 110 Stat. 3460; Pub. L. 104–294, title VI, §604(b)(39), Oct. 11, 1996, 110 Stat. 3509.)
 
 #### Amendments
 
@@ -70,7 +70,7 @@ Subsec. (a)(6). Pub. L. 100–690, §7029(d), added par. (6).
 
 #### Change of Name
 
-Reference to United States magistrate or to magistrate deemed to refer to United States magistrate judge pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+“United States magistrate judge” substituted for “United States magistrate” in subsec. (a)(1)(A) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 1996 Amendment
 

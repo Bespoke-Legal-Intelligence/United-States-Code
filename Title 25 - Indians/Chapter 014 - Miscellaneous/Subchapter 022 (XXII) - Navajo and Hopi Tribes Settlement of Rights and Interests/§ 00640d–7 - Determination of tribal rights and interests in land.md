@@ -30,7 +30,7 @@ The Secretary of the Interior is authorized to pay any or all appropriate legal 
 
 (2) Nothing in this subsection shall be interpreted as a congressional acknowledgement of the San Juan Southern Paiute as an Indian tribe or as affecting in any way the San Juan Southern Paiute Tribe's Petition for Recognition currently pending with the Secretary of the Interior.
 
-(3) There is hereby authorized to be appropriated not to exceed $250,000 to pay for the legal expenses incurred by the Southern Paiute Tribeon legal action arising under this section prior to November 16, 1988.
+(3) There is hereby authorized to be appropriated not to exceed $250,000 to pay for the legal expenses incurred by the Southern Paiute Tribe on legal action arising under this section prior to November 16, 1988.
 
 (Pub. L. 93–531, §8, Dec. 22, 1974, 88 Stat. 1715; Pub. L. 96–305, §2, July 8, 1980, 94 Stat. 929; Pub. L. 100–666, §9, Nov. 16, 1988, 102 Stat. 3933.)
 

@@ -102,7 +102,7 @@ Section was classified to section 1445b–2 of this title prior to its renumberi
 
 1991—Subsec. (c). Pub. L. 102–237, §109(1), substituted “section” for “sections” in introductory provisions.
 
-Subsec. (c)(2). Pub. L. 102–237, §109(3), added par. (2) and struck out former par. (2) which read as follows:“Seventy-five percent of the final projected deficiency payment for the crop, reduced by the amount of the advance, shall be made available as soon as practicable after the end of the first 5 months of the applicable marketing year.”
+Subsec. (c)(2). Pub. L. 102–237, §109(3), added par. (2) and struck out former par. (2) which read as follows: “Seventy-five percent of the final projected deficiency payment for the crop, reduced by the amount of the advance, shall be made available as soon as practicable after the end of the first 5 months of the applicable marketing year.”
 
 Subsec. (c)(3), (4). Pub. L. 102–237, §109(2), (3), added par. (3) and redesignated former par. (3) as (4).
 
@@ -122,7 +122,7 @@ Subsec. (c). Pub. L. 101–508 substituted “wheat and feed grains which paymen
 
 > See Effective and Termination Dates of 1987 Amendment note below.
 
-Subsec. (a)(2)(F)(iii). Pub. L. 100–203, §1110(2), temporarily added cl. (iii) and struck out former cl. (iii) which read as follows: “50 percent of the projected payment rate,”. See Effective and Termination Dates of 1987 Amendment note below.
+Subsec. (a)(2)(F)(iii). Pub. L. 100–203, §1110(2), temporarily added cl. (iii) and struck out former cl. (iii)which read as follows: “50 percent of the projected payment rate,”. See Effective and Termination Dates of 1987 Amendment note below.
 
 1985—Pub. L. 99–198, as amended by Pub. L. 101–624, §1121(c), amended section generally, substituting provisions relating to advance deficiency and diversion payments for the 1986 through 1990 crops of wheat, feed grains, upland cotton and rice for provisions relating to advance deficiency payments for the 1982 through 1985 crops of wheat, feed grains, upland cotton and rice.
 

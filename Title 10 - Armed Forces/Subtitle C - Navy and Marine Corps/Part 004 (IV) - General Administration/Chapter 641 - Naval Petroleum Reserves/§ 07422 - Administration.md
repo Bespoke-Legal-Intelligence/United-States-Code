@@ -1,6 +1,6 @@
 ### §7422. Administration
 
-(a) The Secretary, directly or by contract, lease, or otherwise, shall explore, prospect, conserve, develop, use, and operate the naval petroleum reserves in his discretion, subject to the provisions of subsection (c) and the other provisions of this chapter; except that no petroleumleases shall be granted at Naval Petroleum Reserves Numbered 1 and 3.
+(a) The Secretary, directly or by contract, lease, or otherwise, shall explore, prospect, conserve, develop, use, and operate the naval petroleum reserves in his discretion, subject to the provisions of subsection (c) and the other provisions of this chapter; except that no petroleum leases shall be granted at Naval Petroleum Reserves Numbered 1 and 3.
 
 (b) Except as otherwise provided in this chapter, particularly subsection (c), the naval petroleum reserves shall be used and operated for—
 
@@ -64,7 +64,7 @@ Subsec. (c)(3). Pub. L. 99–413, §1(a)(2), struck out par. (3) which condition
 
 1984—Subsec. (b). Pub. L. 98–525 struck out “of this section” after “subsection (c)” in provisions preceding par. (1).
 
-1980—Subsec. (c)(1). Pub. L. 96–513, §513(31)(A)–(D), in cl. (B) substituted provisions respecting termination on April 5, 1982, for provisions respecting commencement and termination, respectively, ninety days after date of enactment of the Naval Petroleum Reserves Production Act of 1976, and not to exceed six years after such date,in cl. (C) substituted “provided in section 7430 of this title” for “hereinafter provided”, and in text following cl. (D) substituted “discrimination” for “discrimiation”, and “(40 U.S.C. 258a–258e)” for “, chapter 307 (46 Stat. 1421; 40 U.S.C. 258(a))”.
+1980—Subsec. (c)(1). Pub. L. 96–513, §513(31)(A)–(D), in cl. (B) substituted provisions respecting termination on April 5, 1982, for provisions respecting commencement and termination, respectively, ninety days after date of enactment of the Naval Petroleum Reserves Production Act of 1976, and not to exceed six years after such date, in cl. (C) substituted “provided in section 7430 of this title” for “hereinafter provided”, and in text following cl. (D) substituted “discrimination” for “discrimiation”, and “(40 U.S.C. 258a–258e)” for “, chapter 307 (46 Stat. 1421; 40 U.S.C. 258(a))”.
 
 Subsec. (c)(2). Pub. L. 96–513, §513(31)(E), substituted “After April 5, 1982,” for “At the conclusion of the six-year production period authorized by paragraph (1)(B) of this subsection”.
 
@@ -98,5 +98,5 @@ Section 3 of Pub. L. 87–599 provided that: “The Federal agency or agencies i
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 7423, 7426, 7430, 7431 of this title; title 42 section 6240; title 43 section 1601.
+This section is referred to in sections 7423, 7430, 7431 of this title; title 42 section 6240; title 43 section 1601.
 

@@ -12,7 +12,7 @@ The purposes of the corporation are patriotic, historical, and educational, and 
 
 &emsp;&emsp;(D) promoting celebrations of all patriotic anniversaries;
 
-&emsp;(2) carrying out the injunction of Washington, in his farewell address to the American people, “to promote, as an object of primary importance, institutions for the general diffusion of knowledge,” thus developing an enlightened public opinion and affording toyoung and old such advantages as shall develop in them the largest capacity for performing the duties of American citizens;
+&emsp;(2) carrying out the injunction of Washington, in his farewell address to the American people, “to promote, as an object of primary importance, institutions for the general diffusion of knowledge,” thus developing an enlightened public opinion and affording to young and old such advantages as shall develop in them the largest capacity for performing the duties of American citizens;
 
 &emsp;(3) cherishing, maintaining, and extending the institutions of American freedom;
 

@@ -52,10 +52,6 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 Section 2 of Pub. L. 85–609 provided that: “The provisions of this Act \[amending this section and sections 1070, 1071, 1092, and 1113 of this title\] shall be subject to Reorganization Plan No. 5 of 1950 (64 Stat. 1263).”
 
-#### Cross References
-
-Supplemental register, section inapplicable to trademarks on, see section 1094 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1094 of this title.

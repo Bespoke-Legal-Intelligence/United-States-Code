@@ -14,11 +14,13 @@
 
 &emsp;Mayor, District of Columbia
 
-&emsp;Commissioner, Public Building Service, General Services Administration
+&emsp;Commissioner, Public Building <sup>1</sup> Service, General Services Administration
 
 &emsp;Secretary, Department of Defense
 
 (b) The National Capital Memorial Commission shall advise the Secretary and the Administrator on policy and procedures for establishment of (and proposals to establish) commemorative works in the District of Columbia and its environs, as well as such other matters concerning commemorative works in the Nation's Capital as it may deem appropriate. The Commission shall meet at least twice annually.
 
 (Pub. L. 99–652, §4, Nov. 14, 1986, 100 Stat. 3651.)
+
+<i><sup>1</sup></i><i> So in original. Probably should be “Buildings”.</i>
 

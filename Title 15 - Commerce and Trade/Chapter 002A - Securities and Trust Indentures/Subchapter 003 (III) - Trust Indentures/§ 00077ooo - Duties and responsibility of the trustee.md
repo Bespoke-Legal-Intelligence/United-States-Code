@@ -38,37 +38,13 @@ The indenture to be qualified shall automatically be deemed (unless it is expres
 
 1990—Subsec. (a). Pub. L. 101–550, §414(1), (2), substituted “The indenture to be qualified shall automatically be deemed (unless it is expressly provided therein that any such provision is excluded) to” for “The indenture to be qualified may” and “the indenture trustee shall examine” for “such indenture shall contain provisions requiring the indenture trustee to examine”.
 
-Subsec. (b). Pub. L. 101–550, §414(3), (4), substituted “The indenture trustee shall” for “The indenture to be qualified shall contain provisions requiring the indenture trustee to” and “That such indenture shall automatically be deemed (unless it is expressly provided therein that such provision is excluded) to” for “That such indenture may”.
+Subsec. (b). Pub. L. 101–550, §414(3), (4), substituted “The indenture trustee shall” for “The indenture to bequalified shall contain provisions requiring the indenture trustee to” and “That such indenture shall automatically be deemed (unless it is expressly provided therein that such provision is excluded) to” for “That such indenture may”.
 
 Subsec. (c). Pub. L. 101–550, §414(3), substituted “The indenture trustee shall” for “The indenture to be qualified shall contain provisions requiring the indenture trustee to”.
 
 Subsec. (d)(1) to (3). Pub. L. 101–550, §414(5), substituted “such indenture shall automatically be deemed (unless it is expressly provided therein that any such provision is excluded) to” for “such indenture may”.
 
 Subsec. (e). Pub. L. 101–550, §414(1), substituted “The indenture to be qualified shall automatically be deemed (unless it is expressly provided therein that any such provision is excluded) to” for “The indenture to be qualified may”.
-
-#### Federal Rules of Civil Procedure
-
-Costs, see rule 54, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-#### Cross References
-
-Effect of prescribed indenture provisions, see section 77rrr of this title.
-
-Indenture to include provisions of subsecs. (c) and (d) of this section when issue or sale of securities by registered holding company to indenture trustee of company is involved, see section 77kkk of this title.
-
-Refusal order when indenture does not conform to requirements of this section, see section 77eee of this title.
-
-Removal of trustee and appointment of successor subject to subsec. (e) of this section, see section 77jjj of this title.
-
-Reports by indenture trustee not to include action taken in respect to default, notice of which is withheld pursuant to subsec. (b) of this section, see section 77mmm of this title.
-
-Undertaking for costs and reasonable attorneys’ fees under—
-
-&emsp;&emsp;Securities Act of 1933, see section 77k of this title.
-
-&emsp;&emsp;Securities Exchange Act of 1934, see sections 78i and 78r of this title.
-
-&emsp;&emsp;This subchapter for misleading statements, see section 77www of this title.
 
 #### Section Referred to in Other Sections
 

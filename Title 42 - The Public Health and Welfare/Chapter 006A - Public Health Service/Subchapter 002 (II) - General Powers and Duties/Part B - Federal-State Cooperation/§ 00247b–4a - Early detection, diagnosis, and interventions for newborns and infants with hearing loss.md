@@ -54,7 +54,7 @@ Under the existing authority of the Public Health Service Act \[42 U.S.C. 201 et
 
 #### (1) Centers for Disease Control and Prevention
 
-&emsp;Under the existing authority of the Public Health Service Act \[42 U.S.C. 201 et seq.\], the Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall make awards of grants or cooperativeagreements to provide technical assistance to State agencies to complement an intramural program and to conduct applied research related to newborn and infant hearing screening, evaluation and intervention programs and systems. The program shall develop standardized procedures for data management and program effectiveness and costs, such as—
+&emsp;Under the existing authority of the Public Health Service Act \[42 U.S.C. 201 et seq.\], the Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall make awards of grants or cooperative agreements to provide technical assistance to State agencies to complement an intramural program and to conduct applied research related to newborn and infant hearing screening, evaluation and intervention programs and systems. The program shall develop standardized procedures for data management and program effectiveness and costs, such as—
 
 &emsp;&emsp;(A) to ensure quality monitoring of newborn and infant hearing loss screening, evaluation, and intervention programs and systems;
 
@@ -98,7 +98,7 @@ Nothing in this section shall be construed to preempt any State law.
 
 #### (2) Technical assistance, data management, and applied research; Centers for Disease Control and Prevention
 
-&emsp;For the purpose of carrying out subsection (d)(1) of this section under the existing authority of the Public Health Service Act, there are authorized to the Centers for Disease Control and Prevention, appropriations in the amountof $5,000,000 for fiscal year 2000, $7,000,000 for fiscal year 2001, and such sums as may be necessary for fiscal year 2002.
+&emsp;For the purpose of carrying out subsection (d)(1) of this section under the existing authority of the Public Health Service Act, there are authorized to the Centers for Disease Control and Prevention, appropriations in the amount of $5,000,000 for fiscal year 2000, $7,000,000 for fiscal year 2001, and such sums as may be necessary for fiscal year 2002.
 
 #### (3) Technical assistance, data management, and applied research; National Institute on Deafness and Other Communication Disorders
 

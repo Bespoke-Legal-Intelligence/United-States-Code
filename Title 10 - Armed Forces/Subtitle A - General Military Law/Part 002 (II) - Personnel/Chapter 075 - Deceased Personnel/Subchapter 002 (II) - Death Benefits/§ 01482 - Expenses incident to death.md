@@ -92,7 +92,7 @@ Historical and Revision Notes
 
 July 15, 1954, ch. 507, §§2 (less 1st 25 words, as applicable to armed forces), 3 (1st 16 words, as applicable to armed forces), 11 (as applicable to armed forces), 12 (as applicable to armed forces), 68 Stat. 478, 480, 481.
 
-In subsection (a), the list of payable expenses has been rearranged to produce a generally chronological result. The words “person designated” are substituted for the words “person recognized as the person.”
+In subsection (a), the list of payable expenses has been rearranged to produce a generally chronologicalresult. The words “person designated” are substituted for the words “person recognized as the person.”
 
 In subsection (a)(4), the words “articles of” are omitted as surplusage.
 
@@ -141,10 +141,6 @@ Section 1501(c) of Pub. L. 104–106 provided that the amendment made by that se
 Amendment by section 652(a)(2) of Pub. L. 103–337 applicable with respect to remains of, and incidental expenses incident to recovery, care, and disposition of, an individual who dies after Oct. 5, 1994, see section 652(a)(3) of Pub. L. 103–337, set out as a note under section 1481 of this title.
 
 Amendment by section 1671(c)(8) of Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
-
-#### Cross References
-
-Flags, see section 2301 of Title 38, Veterans’ Benefits.
 
 #### Section Referred to in Other Sections
 

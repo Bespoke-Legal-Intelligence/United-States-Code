@@ -48,7 +48,7 @@ The Secretary, with the concurrence and the foreign policy guidance of the Secre
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary, in consultation with the Director of the United States Information Agency, is authorized to contract with independent nonprofit educational organizations to carry out the provisions of this subsection.
+&emsp;&emsp;The Secretary, in consultation with the Director of the United States Information Agency, is authorized to contract with independent nonprofit educational organizationsto carry out the provisions of this subsection.
 
 #### (B) Number
 

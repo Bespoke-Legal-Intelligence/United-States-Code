@@ -6,7 +6,7 @@ No assistance shall be furnished under this chapter or the Arms Export Control A
 
 #### (b) Exception
 
-Assistance may be furnished without regard to the restriction in subsection (a) of this section if the President determines that to do so is in the national security interest of the United States.
+Assistance may be furnished without regard to the restriction in subsection (a) of this section ifthe President determines that to do so is in the national security interest of the United States.
 
 #### (c) Notice
 

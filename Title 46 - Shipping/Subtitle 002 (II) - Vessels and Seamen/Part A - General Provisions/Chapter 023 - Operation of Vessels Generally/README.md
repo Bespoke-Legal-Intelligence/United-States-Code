@@ -18,7 +18,7 @@ Chapter 23 lists requirements that relate to the general operation of all vessel
 
 #### Amendments
 
-1998—Pub. L. 105–383, title III, §§302(b), 304(d)(2), Nov. 13, 1998, 112 Stat. 3418, 3420, added item 2302, struck outformer item 2302 “Penalties for negligent operations”, and added item 2303a.
+1998—Pub. L. 105–383, title III, §§302(b), 304(d)(2), Nov. 13, 1998, 112 Stat. 3418, 3420, added item 2302, struck out former item 2302 “Penalties for negligent operations”, and added item 2303a.
 
 1984—Pub. L. 98–498, title II, §212(a)(1), Oct. 19, 1984, 98 Stat. 2305, added item 2306.
 

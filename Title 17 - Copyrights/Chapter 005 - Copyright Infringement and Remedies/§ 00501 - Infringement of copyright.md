@@ -1,6 +1,6 @@
 ### §501. Infringement of copyright
 
-(a) Anyone who violates any of the exclusive rights of the copyright owner as provided by sections 106 through 121 or of the author as provided in section 106A(a), or who imports copies or phonorecords into the United States in violation of section 602, is an infringer of the copyright or right of the author, as the case may be. For purposes of this chapter (other than section 506), any reference to copyright shall be deemed to include the rights conferred by section 106A(a). As used in this subsection, the term “anyone” includes any State, any instrumentality of a State, and any officer or employee of a State or instrumentality of a State acting in his or her official capacity. Any State, and any such instrumentality, officer, or employee, shall be subject to the provisions of this title in the same manner and to the same extent as any nongovernmental entity.
+(a) Anyone who violates any of the exclusive rights of the copyright owner as provided by sections 106 through 121 or of the author as provided in section 106A(a), or who imports copies or phonorecords into the United States in violation of section 602, is an infringer of the copyright or right of the author, as the case may be. For purposes of this chapter (other than section 506), any reference to copyright shall be deemed to include the rights conferred by section 106A(a). As used in this subsection, the term “anyone” includes any State, any instrumentality of a State, and any officer or employee of a State or instrumentality of a State acting in hisor her official capacity. Any State, and any such instrumentality, officer, or employee, shall be subject to the provisions of this title in the same manner and to the same extent as any nongovernmental entity.
 
 (b) The legal or beneficial owner of an exclusive right under a copyright is entitled, subject to the requirements of section 411, to institute an action for any infringement of that particular right committed while he or she is the owner of it. The court may require such owner to serve written notice of the action with a copy of the complaint upon any person shown, by the records of the Copyright Office or otherwise, to have or claim an interest in the copyright, and shall require that such notice be served upon any person whose interest is likely to be affected by a decision in the case. The court may require the joinder, and shall permit the intervention, of any person having or claiming an interest in the copyright.
 
@@ -32,11 +32,11 @@ In addition to cases involving divisibility of ownership in the same version of 
 
 Section 501 contains two provisions conferring standing to sue under the statue upon broadcast stations in specific situations involving secondary transmissions by cable systems. Under subsection (c), a local television broadcaster licensed to transmit a work can sue a cable system importing the same version of the work into the broadcaster's local service area in violation of section 111(c). Subsection (d) deals with cases arising under section 111(c)(3), the provision dealing with substitution or alteration by a cable system of commercials or other programming; in such cases standing to sue is also conferred on: (1) the primary transmitter whose transmission has been altered by the cable system, and (2) any broadcast stations within whose local service area the secondary transmission occurs. These provisions are linked to section 509, a new provision on remedies for alteration of programming by cable systems, discussed below.
 
-<b>Vicarious Liability for Infringing Performances.</b> The committee has considered and rejected an amendment to this section intended to exempt the proprietors of an establishment, such as a ballroom or night club, from liability for copyright infringement committed by an independent contractor, such as an orchestra leader. A well-established principle of copyright law is that a person who violates any of the exclusive rights of the copyright owner is an infringer, including persons who can be considered related or vicarious infringers. To be held a related or vicarious infringer in the case of performing rights, a defendant must either actively operate or supervise the operation of the place wherein the performances occur, or control the content of the infringing program, and expect commercial gain from the operation and either direct or indirect benefit from the infringing performance. The committee has decided that no justification exists for changing existing law, and causing a significant erosion of the public performance right.
+<b>Vicarious Liability for Infringing Performances.</b> The committee has considered and rejected an amendmentto this section intended to exempt the proprietors of an establishment, such as a ballroom or night club, from liability for copyright infringement committed by an independent contractor, such as an orchestra leader. A well-established principle of copyright law is that a person who violates any of the exclusive rights of the copyright owner is an infringer, including persons who can be considered related or vicarious infringers. To be held a related or vicarious infringer in the case of performing rights, a defendant must either actively operate or supervise the operation of the place wherein the performances occur, or control the content of the infringing program, and expect commercial gain from the operation and either direct or indirect benefit from the infringing performance. The committee has decided that no justification exists for changing existing law, and causing a significant erosion of the public performance right.
 
 #### References in Text
 
-Section 338(a) of the Communications Act of 1934, referred to in subsec. (f)(2), is classified to section 338(a)of Title 47, Telegraphs, Telephones, and Radiotelegraphs.
+Section 338(a) of the Communications Act of 1934, referred to in subsec. (f)(2), is classified to section 338(a) of Title 47, Telegraphs, Telephones, and Radiotelegraphs.
 
 #### Amendments
 
@@ -74,37 +74,7 @@ Amendment by Pub. L. 100–568 effective Mar. 1, 1989, with any cause of action 
 
 Section 112 of Pub. L. 94–553 provided that: “All causes of action that arose under title 17 before January 1, 1978, shall be governed by title 17 as it existed when the cause of action arose.”
 
-#### Federal Rules of Civil Procedure
-
-Application of Rules, see rule 81, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-#### Federal Forms of Civil Procedure
-
-Form of complaint for injunction and damages, see form 17, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-#### Cross References
-
-Acts of infringement—
-
-&emsp;&emsp;Making and distributing phonorecords, see section 115 of this title.
-
-&emsp;&emsp;Secondary transmission of primary transmission, see section 111 of this title.
-
-Exclusive jurisdiction of district courts of actions arising under copyright laws, see section 1338 of Title 28, Judiciary and Judicial Procedure.
-
-Importation of copies or phonorecords without authority, see section 602 of this title.
-
-Power of the Congress to regulate copyrights, see Const. Art. I, §8, cl. 8.
-
-Registration as prerequisite to infringement action and to certain remedies for infringement, see sections 411, 412 of this title.
-
-United States as infringer, action in United States Court of Federal Claims, see section 1498 of Title 28, Judiciary and Judicial Procedure.
-
-Venue in copyright actions, see section 1400 of Title 28.
-
-Works consisting of sounds, images, or both, the first fixation of which is made simultaneously with its transmission, as subject to this section, although not yet registered, see section 411 of this title.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 109, 111, 115, 119, 122, 411, 510, 602 of this title.
+This section is referred to in sections 109, 111, 115, 119, 122, 411, 510, 602 of this title; title 47 section 338.
 

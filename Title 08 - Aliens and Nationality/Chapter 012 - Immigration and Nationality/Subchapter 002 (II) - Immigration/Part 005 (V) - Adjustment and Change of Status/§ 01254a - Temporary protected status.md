@@ -38,7 +38,7 @@
 
 #### (1) In general
 
-&emsp;The Attorney General, after consultation with appropriate agencies of the Government, may designate any foreign state (or any part of such foreign state) under this subsection only if—
+&emsp;The Attorney General, after consultation with appropriate agencies of the Government, may designate any foreign state (or any partof such foreign state) under this subsection only if—
 
 &emsp;&emsp;(A) the Attorney General finds that there is an ongoing armed conflict within the state and, due to such conflict, requiring the return of aliens who are nationals of that state to that state (or to the part of the state) would pose a serious threat to their personal safety;
 
@@ -50,7 +50,7 @@
 
 &emsp;&emsp;&emsp;(iii) the foreign state officially has requested designation under this subparagraph; or
 
-&emsp;&emsp;(C) the Attorney General finds that there exist extraordinary and temporary conditions in the foreign state that prevent alienswho are nationals of the state from returning to the state in safety, unless the Attorney General finds that permitting the aliens to remain temporarily in the United States is contrary to the national interest of the United States.
+&emsp;&emsp;(C) the Attorney General finds that there exist extraordinary and temporary conditions in the foreign state that prevent aliens who are nationals of the state from returning to the state in safety, unless the Attorney General finds that permitting the aliens to remain temporarily in the United States is contrary to the national interest of the United States.
 
 > &emsp;A designation of a foreign state (or part of such foreign state) under this paragraph shall not become effective unless notice of the designation (including a statement of the findings under this paragraph and the effective date of the designation) is published in the Federal Register. In such notice, the Attorney General shall also state an estimate of the number of nationals of the foreign state designated who are (or within the effective period of the designation are likely to become) eligible for temporary protected status under this section and their immigration status in the United States.
 
@@ -394,5 +394,5 @@ Sanction for failure to appear.—If an alien is provided an order to show cause
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1182, 1375 of this title.
+This section is referred to in sections 1182, 1375, 1574 of this title.
 

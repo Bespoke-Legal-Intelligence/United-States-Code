@@ -66,12 +66,16 @@
 | [2461\.](%C2%A7%2002461%20-%20Exchanges%20between%20United%20States%20and%20independent%20states%20of%20the%20former%20Soviet%20Union.md) | Exchanges between United States and independent states of the former Soviet Union. |
 | (a) | Financing of exchanges with repayments on Lend-Lease debts. |
 | (b) | Limitation on availability of funds. |
+| [2462\.](%C2%A7%2002462%20-%20Establishment%20of%20grant%20program%20for%20foreign%20study%20by%20American%20college%20students%20of%20limited%20financial%20means.md) | Establishment of grant program for foreign study by American college students of limited financial means. |
+| (a) | Establishment. |
+| (b) | Eligibility. |
+| (c) | Application and selection. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1461–1a, 1475d, 1475e, 1475h, 2075, 2275, 2314, 2398, 2452a of this title; title 26 section 1441.
+This chapter is referred to in sections 1461–1a, 1475d, 1475e, 1475h, 2075, 2275, 2314, 2398, 2452a, 2462 of this title; title 26 section 1441.
 
 
 ---
@@ -93,3 +97,4 @@ This chapter is referred to in sections 1461–1a, 1475d, 1475e, 1475h, 2075, 22
 - [&sect; 02459 - Immunity from seizure under judicial process of cultural objects imported for temporary exhibition or display](%C2%A7%2002459%20-%20Immunity%20from%20seizure%20under%20judicial%20process%20of%20cultural%20objects%20imported%20for%20temporary%20exhibition%20or%20display.md)
 - [&sect; 02460 - Bureau of Educational and Cultural Affairs](%C2%A7%2002460%20-%20Bureau%20of%20Educational%20and%20Cultural%20Affairs.md)
 - [&sect; 02461 - Exchanges between United States and independent states of the former Soviet Union](%C2%A7%2002461%20-%20Exchanges%20between%20United%20States%20and%20independent%20states%20of%20the%20former%20Soviet%20Union.md)
+- [&sect; 02462 - Establishment of grant program for foreign study by American college students of limited financial means](%C2%A7%2002462%20-%20Establishment%20of%20grant%20program%20for%20foreign%20study%20by%20American%20college%20students%20of%20limited%20financial%20means.md)

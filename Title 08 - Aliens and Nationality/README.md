@@ -1,5 +1,5 @@
 
-8 U.S.C.<br>United States Code, 1999 Edition<br>Title 8 - ALIENS AND NATIONALITY<br>From the U.S. Government Publishing Office, www.gpo.gov
+8 U.S.C.<br>United States Code, 2000 Edition<br>Title 8 - ALIENS AND NATIONALITY<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 8—ALIENS AND NATIONALITY
 
@@ -21,10 +21,6 @@
 | [<b>14.</b>](Chapter%20014%20-%20Restricting%20Welfare%20and%20Public%20Benefits%20for%20Aliens/README.md) | <b>Restricting Welfare and Public Benefits for Aliens</b> | <b>1601</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Cross References
-
-Enemy aliens, see section 21 et seq. of Title 50, War and National Defense.
 
 
 ---

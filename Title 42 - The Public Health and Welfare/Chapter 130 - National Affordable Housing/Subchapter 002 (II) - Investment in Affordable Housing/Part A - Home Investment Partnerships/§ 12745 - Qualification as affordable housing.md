@@ -6,7 +6,7 @@
 
 &emsp;Housing that is for rental shall qualify as affordable housing under this subchapter only if the housing—
 
-&emsp;&emsp;(A) bears rents not greater than the lesser of (i) the existing fair market rent for comparable units in the area as established by the Secretary under section 1437f of this title, or (ii) a rent that does not exceed 30percent of the adjusted income of a family whose income equals 65 percent of the median income for the area, as determined by the Secretary, with adjustment for number of bedrooms in the unit, except that the Secretary may establish income ceilings higher or lower than 65 percent of the median for the area on the basis of the Secretary's findings that such variations are necessary because of prevailing levels of construction costs or fair market rents, or unusually high or low family incomes;
+&emsp;&emsp;(A) bears rents not greater than the lesser of (i) the existing fair market rent for comparable units in the area as established by the Secretary under section 1437f of this title, or (ii) a rent that does not exceed 30 percent of the adjusted income of a family whose income equals 65 percent of the median income for the area, as determined by the Secretary, with adjustment for number of bedrooms in the unit, except that the Secretary may establish income ceilings higher or lower than 65 percent of the median for the area on the basis of the Secretary's findings that such variations are necessary because of prevailing levels of construction costs or fair market rents, or unusually high or low family incomes;
 
 &emsp;&emsp;(B) has not less than 20 percent of the units (i) occupied by very low-income families who pay as a contribution toward rent (excluding any Federal or State rental subsidy provided on behalf of the family) not more than 30 percent of the family's monthly adjusted income as determined by the Secretary, or (ii) occupied by very low-income families and bearing rents not greater than the gross rent for rent-restricted residential units as determined under section 42(g)(2) of title 26;
 
@@ -34,6 +34,22 @@
 
 &emsp;Housing in a project that is designed in part for uses other than residential use shall qualify as affordable housing if such housing meets the criteria of this section.
 
+#### (6) Waiver of qualifying rent
+
+#### (A) In general
+
+&emsp;&emsp;For the purpose of providing affordable housing appropriate for families described in subparagraph (B), the Secretary may, upon the application of the project owner, waive the applicability of subparagraph (A) of paragraph (1) with respect to a dwelling unit if—
+
+&emsp;&emsp;&emsp;(i) the unit is occupied by such a family, on whose behalf tenant-based assistance is provided under section 1437f of this title;
+
+&emsp;&emsp;&emsp;(ii) the rent for the unit is not greater than the existing fair market rent for comparable units in the area, as established by the Secretary under section 1437f of this title; and
+
+&emsp;&emsp;&emsp;(iii) the Secretary determines that the waiver, together with waivers under this paragraph for other dwelling units in the project, will result in the use of amounts described in clause (iii) <sup>1</sup> in an effective manner that will improve the provision of affordable housing for such families.
+
+#### (B) Eligible families
+
+&emsp;&emsp;A family described in this subparagraph is a family that consists of at least one elderly person (who is the head of household) and one or more of such person's grand <sup>2</sup> children, great grandchildren, great nieces, great nephews, or great great grandchildren (as defined by the Secretary), but does not include any parent of such grandchildren, great grandchildren, great nieces, great nephews, or great great grandchildren. Such term includes any such grandchildren, great grandchildren, great nieces, great nephews, or great great grandchildren who have been legally adopted by such elderly person.
+
 #### (b) Homeownership
 
 Housing that is for homeownership shall qualify as affordable housing under this subchapter only if the housing—
@@ -60,13 +76,15 @@ Housing that is for homeownership shall qualify as affordable housing under this
 
 &emsp;(4) if newly constructed, meets the energy efficiency standards promulgated by the Secretary in accordance with section 12709 of this title.
 
-(Pub. L. 101–625, title II, §215, Nov. 28, 1990, 104 Stat. 4101; Pub. L. 102–550, title II, §§208, 209, Oct. 28, 1992, 106 Stat. 3754; Pub. L. 103–233, title II, §203, Apr. 11, 1994, 108 Stat. 364; Pub. L. 105–276, title V, §599B(b), Oct. 21, 1998, 112 Stat. 2660.)
+(Pub. L. 101–625, title II, §215, Nov. 28, 1990, 104 Stat. 4101; Pub. L. 102–550, title II, §§208, 209, Oct. 28, 1992, 106 Stat. 3754; Pub. L. 103–233, title II, §203, Apr. 11, 1994, 108 Stat. 364; Pub. L. 105–276, title V, §599B(b), Oct. 21, 1998, 112 Stat. 2660; Pub. L. 106–569, title IX, §904, Dec. 27, 2000, 114 Stat. 3027.)
 
 #### References in Text
 
-This Act, referred to in subsec. (a)(1)(E), (3), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079, known as the Cranston-Gonzalez National Affordable Housing Act. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of this title and Tables.
+This Act, referred to in subsec. (a)(1)(E), (3), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079, known as theCranston-Gonzalez National Affordable Housing Act. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of this title and Tables.
 
 #### Amendments
+
+2000—Subsec. (a)(6). Pub. L. 106–569 added par. (6).
 
 1998—Subsec. (b)(2). Pub. L. 105–276 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “is the principal residence of an owner whose family qualifies as a low-income family at the time of purchase;”.
 
@@ -107,4 +125,8 @@ Amendment by Pub. L. 102–550 applicable to unexpended funds allocated under su
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 4851b, 12705, 12750 of this title.
+
+<i><sup>1</sup></i><i> So in original.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “grandchildren”.</i>
 

@@ -2,7 +2,7 @@
 
 In this chapter—
 
-&emsp;(1) “property of the estate”, when used in a section that is made applicable in a case under this chapter by section 103(e) or 901 of this title, means property of the debtor;
+&emsp;(1) “property of the estate”, when used in a section that is made applicable in a case under this chapter by section 103(e) <sup>1</sup> or 901 of this title, means property of the debtor;
 
 &emsp;(2) “special revenues” means—
 
@@ -20,7 +20,7 @@ In this chapter—
 
 &emsp;(4) “special tax payer affected by the plan” means special tax payer with respect to whose real property the plan proposes to increase the proportion of special assessments or special taxes referred to in paragraph (2) of this section assessed against such real property; and
 
-&emsp;(5) “trustee”, when used in a section that is made applicable in a case under this chapter by section 103(e) or 901 of this title, means debtor, except as provided in section 926 of this title.
+&emsp;(5) “trustee”, when used in a section that is made applicable in a case under this chapter by section 103(e) <sup>1</sup> or 901 of this title, means debtor, except as provided in section 926 of this title.
 
 (Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2622; Pub. L. 98–353, title III, §491, July 10, 1984, 98 Stat. 383; Pub. L. 100–597, §4, Nov. 3, 1988, 102 Stat. 3028.)
 
@@ -37,6 +37,10 @@ There are six definitions for use in chapter 9. Paragraph (1) defines what claim
 #### house report no. 95–595
 
 There are only four definitions for use only in chapter 9. The first specifies that when the term “property of the estate” is used in a section in another chapter made applicable in chapter 9 cases, the term will mean “property of the debtor”. Paragraphs (2) and (3) adopt the definition of “special taxpayer affected by the plan” that appears in current sections 81(10) and 81(11) \[section 401(10) and (11) of former title 11\]. Paragraph (4) provides for “trustee” the same treatment as provided for “property of the estate”, specifying that it means “debtor” when used in conjunction with chapter 9.
+
+#### References in Text
+
+Section 103(e) of this title, referred to in pars. (1) and (5), was redesignated section 103(f) and a new section 103(e) was added by Pub. L. 106–554, §1(a)(5) \[title I, §112(c)(5)(A)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–394.
 
 #### Amendments
 
@@ -55,4 +59,6 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 #### Section Referred to in Other Sections
 
 This section is referred to in section 901 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -36,7 +36,3 @@ In subsection (b), the words “that would otherwise justify” are substituted 
 
 1960—Pub. L. 86–593 substituted “Airman's Medal” for “Soldier's Medal” in section catchline and wherever appearing in text.
 
-#### Cross References
-
-Award of Soldier's Medal to member of Army, see section 3750 of this title.
-

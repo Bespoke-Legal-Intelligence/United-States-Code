@@ -20,7 +20,7 @@ Upon a certification by the Attorney General that the defendant was acting withi
 
 #### (d) Compromise or settlement of claims
 
-The Attorney General may compromise or settle any claim asserted in such civil action orproceeding in the manner provided in section 2677 of title 28, and with the same effect.
+The Attorney General may compromise or settle any claim asserted in such civil action or proceeding in the manner provided in section 2677 of title 28, and with the same effect.
 
 #### (e) Inapplicability of section 2680(h) of title 28
 
@@ -34,7 +34,7 @@ The Secretary may, to the extent he deems appropriate, hold harmless or provide 
 
 For purposes of this section, any medical care or related service covered by this section and performed abroad by a covered person at the direction or with the approval of the United States chief of mission or other principal representative of the United States in the area shall be deemed to be within the scope of employment of the individual performing the service.
 
-(Aug. 1, 1956, ch. 841, title I, §30, as added Pub. L. 96–465, title II, §2201(a), Oct. 17, 1980, 94 Stat. 2155; renumbered title I, Pub. L. 97–241, title II, §202(a), Aug. 24, 1982, 96 Stat. 282.)
+(Aug. 1, 1956, ch. 841, title I, §30, as added Pub. L. 96–465, title II, §2201(a), Oct. 17, 1980, 94 Stat.2155; renumbered title I, Pub. L. 97–241, title II, §202(a), Aug. 24, 1982, 96 Stat. 282.)
 
 #### Effective Date
 

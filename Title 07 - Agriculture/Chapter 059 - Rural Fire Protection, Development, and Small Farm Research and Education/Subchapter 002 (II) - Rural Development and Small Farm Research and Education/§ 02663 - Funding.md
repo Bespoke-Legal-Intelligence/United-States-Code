@@ -6,7 +6,7 @@ There are authorized to be appropriated such sums as are necessary to carry out 
 
 #### (b) Distributions
 
-Such sums as are appropriated to carry out the provisions of section 2662(a) and (b) of thistitle shall be distributed by the Secretary of Agriculture as follows:
+Such sums as are appropriated to carry out the provisions of section 2662(a) and (b) of this title shall be distributed by the Secretary of Agriculture as follows:
 
 &emsp;(1) 4 per centum shall be retained by the Secretary for program administration and national coordination of State programs, and program assistance to the States;
 
@@ -32,7 +32,7 @@ Payment of funds to any State for programs authorized under section 2662(a), (b)
 
 #### (f) Availability; budgets and accounts
 
-Funds shall be available for use by each State in the fiscal year for which appropriated and the next fiscal year following the fiscal year for which appropriated. Funds shall be budgeted and accounted for on such forms and at such times as the Secretary shall prescribe.
+Funds shall be available for use by each State in the fiscal year for which appropriated and the next fiscal year following the fiscal year for which appropriated. Funds shall be budgeted andaccounted for on such forms and at such times as the Secretary shall prescribe.
 
 #### (g) Financing of programs at other than cooperating institutions
 

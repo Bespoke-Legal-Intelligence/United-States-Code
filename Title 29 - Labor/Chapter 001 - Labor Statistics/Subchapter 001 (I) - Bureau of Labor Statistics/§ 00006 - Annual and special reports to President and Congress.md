@@ -12,13 +12,11 @@ Act Mar. 4, 1913, authorized substitution of “Commissioner of Labor Statistics
 
 1976—Pub. L. 94–273 substituted “March” for “December”.
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in this section requiring the Commissioner of Labor Statistics, on or before March 15 each year, to report to Congress on all moneys expended under the Commissioner's direction, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 124 of House Document No. 103–7.
+
 #### Transfer of Functions
 
 For transfer of functions of other officers, employees, and agencies of Department of Labor, with certain exceptions, to Secretary of Labor, with power to delegate, see Reorg. Plan No. 6 of 1950, §§1, 2, 15 F.R. 174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Cross References
-
-Congressional Record, bound copy to Department of Labor, see section 906 of Title 44, Public Printing and Documents.
-
-Printing of reports, see section 1325 of Title 44.
 

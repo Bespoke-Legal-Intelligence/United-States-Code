@@ -6,19 +6,15 @@
 
 &emsp;(B) the term “student loan” means—
 
-&emsp;&emsp;(i) a loan made, insured, or guaranteed under part B of title IV of the Higher Education Act of 1965;
+&emsp;&emsp;(i) a loan made, insured, or guaranteed under part B of title IV of the Higher Education Act of 1965 (20 U.S.C. 1071 et seq.);
 
-&emsp;&emsp;(ii) a loan made under part E of title IV of the Higher Education Act of 1965; and
+&emsp;&emsp;(ii) a loan made under part D or E of title IV of the Higher Education Act of 1965 (20 U.S.C. 1087a et seq., 1087aa et seq.); and
 
-&emsp;&emsp;(iii) a health education assistance loan made or insured under part C <sup>1</sup> of title VII of Public Health Service Act or under part B of title VIII of such Act.
+&emsp;&emsp;(iii) a health education assistance loan made or insured under part A of title VII of the Public Health Service Act (42 U.S.C. 292 et seq.) or under part E of title VIII of such Act (42 U.S.C. 297a et seq.).
 
-(2) An employee shall be ineligible for benefits under this section if such employee occupies a position which—
+(2) An employee shall be ineligible for benefits under this section if the employee occupies a position that is excepted from the competitive service because of its confidential, policy-determining, policy-making, or policy-advocating character.
 
-&emsp;(A) is excepted from the competitive service because of its confidential, policy-determining, policy-making, or policy-advocating character; or
-
-&emsp;(B) is not subject to subchapter III of this chapter.
-
-(b)(1) The head of an agency may, in order to recruit or retain highly qualified professional, technical, or administrative personnel, establish a program under which the agency may agree to repay (by direct payments on behalf of the employee) any student loan previously taken out by such employee.
+(b)(1) The head of an agency may, in order to recruit or retain highly qualified personnel, establish a program under which the agency may agree to repay (by direct payments on behalf of the employee) any student loan previously taken out by such employee.
 
 (2) Payments under this section shall be made subject to such terms, limitations, or conditions as may be mutually agreed to by the agency and employee concerned, except that the amount paid by an agency under this section may not exceed—
 
@@ -58,17 +54,51 @@
 
 (g) The Director of the Office of Personnel Management, after consultation with heads of a representative number and variety of agencies and any other consultation which the Director considers appropriate, shall prescribe regulations containing such standards and requirements as the Director considers necessary to provide for reasonable uniformity among programs under this section.
 
-(Added Pub. L. 101–510, div. A, title XII, §1206(b)(1), Nov. 5, 1990, 104 Stat. 1659.)
+(h)(1) Each head of an agency shall maintain, and annually submit to the Director of the Office of Personnel Management, information with respect to the agency on—
+
+&emsp;(A) the number of Federal employees selected to receive benefits under this section;
+
+&emsp;(B) the job classifications for the recipients; and
+
+&emsp;(C) the cost to the Federal Government of providing the benefits.
+
+(2) The Director of the Office of Personnel Management shall prepare, and annually submit to Congress, a report containing the information submitted under paragraph (1), and information identifying the agencies that have provided benefits under this section.
+
+(Added Pub. L. 101–510, div. A, title XII, §1206(b)(1), Nov. 5, 1990, 104 Stat. 1659; amended Pub. L. 106–398, §1 \[\[div. A\], title XI, §1122(a), (b), (d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–316.)
 
 #### References in Text
 
-The Higher Education Act of 1965, referred to in subsec. (a)(1)(B)(i), (ii), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Parts B and E of title IV of the Act are classified to parts B (§1071 et seq.) and D (§1087aa et seq.), respectively, of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (a)(1)(B)(i), (ii), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Parts B, D, and E of title IV of the Act are classified to parts B (§1071 et seq.), C (§1087a et seq.), and D (§1087aa et seq.), respectively, of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
-The Public Health Service Act, referred to in subsec. (a)(1)(B)(iii), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Part C of title VII of the Act was classified generally to part C (§294 et seq.) of subchapter V of chapter 6A of Title 42, The Public Health and Welfare, and was omitted in the general revision of subchapter V by Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 1994. Pub. L. 102–408 enacted a new part C, relating to training in primary health care, which is classified to part C (§293j et seq.) of subchapter V of chapter 6A of Title 42. For provisions relating to student loans, see part A (§292 et seq.) of subchapter V of chapter 6A of Title 42. Part B of title VIII of the Act is classified generally to part B (§297 et seq.) of subchapter VI of chapter 6A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The Public Health Service Act, referred to in subsec. (a)(1)(B)(iii), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Part A of title VII of the Act is classified generally to part A (§292 et seq.) of subchapter V of chapter 6A of Title 42, The Public Health and Welfare. Part E of title VIII of the Act is classified generally to part E (§297a et seq.) of subchapter VI of chapter 6A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+
+#### Amendments
+
+2000—Subsec. (a)(1)(B)(i). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1122(a)(1)\], inserted “(20 U.S.C. 1071 et seq.)” before semicolon.
+
+Subsec. (a)(1)(B)(ii). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1122(a)(2)\], substituted “part D or E of title IV of the Higher Education Act of 1965 (20 U.S.C. 1087a et seq., 1087aa et seq.)” for “part E of title IV of the Higher Education Act of 1965”.
+
+Subsec. (a)(1)(B)(iii). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1122(a)(3)\], substituted “part A of title VII of the Public Health Service Act (42 U.S.C. 292 et seq.) or under part E of title VIII of such Act (42 U.S.C. 297a et seq.)” for “part C of title VII of Public Health Service Act or under part B of title VIII of such Act”.
+
+Subsec. (a)(2). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1122(b)(1)\], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “An employee shall be ineligible for benefits under this section if such employee occupies a position which—
+
+&emsp;“(A) is excepted from the competitive service because of its confidential, policy-determining, policy-making, or policy-advocating character; or
+
+&emsp;“(B) is not subject to subchapter III of this chapter.”
+
+Subsec. (b)(1). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1122(b)(2)\], struck out “professional, technical, or administrative” after “ highly qualified”.
+
+Subsec. (h). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1122(d)\], added subsec. (h).
+
+#### Regulations
+
+Pub. L. 106–398, §1 \[\[div. A\], title XI, §1122(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–316, provided that:
+
+“(1) Not later than 60 days after the date of the enactment of this Act \[Oct. 30, 2000\], the Director of the Office of Personnel Management shall issue proposed regulations under section 5379(g) of title 5, United States Code. The Director shall provide for a period of not less than 60 days for public comment on the regulations.
+
+“(2) Not later than 240 days after the date of the enactment of this Act \[Oct. 30, 2000\], the Director shall issue final regulations.”
 
 #### Section Referred to in Other Sections
 
 This section is referred to in title 10 section 1745.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -30,9 +30,7 @@ The words “and other necessary employees” were added in subsection (b) to su
 
 Changes were made in phraseology.
 
-#### Cross References
+#### Section Referred to in Other Sections
 
-Compensation and expenses of clerks of court, their deputies, etc., see section 604 of this title.
-
-Oath and bond of clerk and deputies, see section 951 of this title.
+This section is referred to in section 332 of this title.
 

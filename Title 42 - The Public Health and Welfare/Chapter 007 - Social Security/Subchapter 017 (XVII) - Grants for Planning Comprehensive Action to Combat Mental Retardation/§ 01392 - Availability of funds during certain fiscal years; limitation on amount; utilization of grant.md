@@ -6,7 +6,7 @@ The sums appropriated pursuant to the first sentence of section 1391 of this tit
 
 #### Amendments
 
-1965—Pub. L. 89–97 inserted provision making appropriations for fiscal year ending June 30, 1966, available for grants during such fiscal year and the next two fiscal years and the appropriation for fiscal year endingJune 30, 1967, available for grants during such fiscal year and the succeeding fiscal year.
+1965—Pub. L. 89–97 inserted provision making appropriations for fiscal year ending June 30, 1966, available for grants during such fiscal year and the next two fiscal years and the appropriation for fiscal year ending June 30, 1967, available for grants during such fiscal year and the succeeding fiscal year.
 
 #### Section Referred to in Other Sections
 

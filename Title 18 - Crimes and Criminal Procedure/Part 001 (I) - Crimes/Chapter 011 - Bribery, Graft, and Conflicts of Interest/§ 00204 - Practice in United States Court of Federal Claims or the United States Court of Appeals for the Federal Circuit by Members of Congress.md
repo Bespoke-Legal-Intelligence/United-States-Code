@@ -40,13 +40,7 @@ Section effective 90 days after Oct. 23, 1962, see section 4 of Pub. L. 87–849
 
 Exemptions from former section 282 of this title deemed to be exemptions from this section, see section 2 of Pub. L. 87–849, set out as a note under section 203 of this title.
 
-#### Cross References
-
-Disqualification from holding any office of honor, trust, or profit, additional grounds for, see sections 201, 203, 592, 593, 1901, 2071, 2381, 2385, 2387 of this title.
-
-Memorandum of Attorney General regarding conflict of interest provisions, see note under section 201 of this title.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 202, 216 of this title; title 5 section 568; title 28 section 594; title 40 App. section 108.
+This section is referred to in sections 202, 216 of this title; title 5 section 568; title 7 section 2009aa–1; title 28 section 594; title 40 App. section 108.
 

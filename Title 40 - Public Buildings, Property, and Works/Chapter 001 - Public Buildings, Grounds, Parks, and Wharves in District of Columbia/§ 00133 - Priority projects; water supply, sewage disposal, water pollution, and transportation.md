@@ -4,10 +4,6 @@ The Congress further declares that, in carrying out the policy pursuant to secti
 
 (Pub. L. 86–527, §4, June 27, 1960, 74 Stat. 223.)
 
-#### Codification
-
-Section is also set out in D.C. Code, §1–2103.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 135 of this title.

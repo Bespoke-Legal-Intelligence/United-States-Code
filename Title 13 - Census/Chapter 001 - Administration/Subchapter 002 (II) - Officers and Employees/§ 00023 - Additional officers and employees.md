@@ -4,7 +4,7 @@
 
 (b) In addition to employees of the Department of Commerce, employees of other departments and independent offices of the Government may, with the consent of the head of the respective department or office, be employed and compensated for field work in connection with the work provided for by law without regard to section 301 of the Dual Compensation Act.
 
-(c) The Secretary may utilize temporary staff, including employees of Federal, State, or local agencies or instrumentalities, and employees ofprivate organizations to assist the Bureau in performing the work authorized by this title, but only if such temporary staff is sworn to observe the limitations imposed by section 9 of this title.
+(c) The Secretary may utilize temporary staff, including employees of Federal, State, or local agencies or instrumentalities, and employees of private organizations to assist the Bureau in performing the work authorized by this title, but only if such temporary staff is sworn to observe the limitations imposed by section 9 of this title.
 
 (Aug. 31, 1954, ch. 1158, 68 Stat. 1014; Pub. L. 86–769, §2, Sept. 13, 1960, 74 Stat. 911; Pub. L. 88–448, title IV, §401(p), Aug. 19, 1964, 78 Stat. 492; Pub. L. 94–521, §12(b), Oct. 17, 1976, 90 Stat. 2465.)
 
@@ -56,9 +56,11 @@ Amendment by Pub. L. 88–448 effective on first day of first month which begins
 
 #### Temporary Positions Relating to Decennial Censuses
 
-Pub. L. 106–113, div. B, §1000(a)(1) \[title II, §204\], Nov. 29, 1999, 113 Stat. 1535, 1501A–31, provided that: “None of the funds provided in this or any previous Act, or hereinafter made available to the Department of Commerce, shall be available to reimburse the Unemployment Trust Fund or any other fund or account of the Treasury to pay for any expenses authorized by section 8501 of title 5, United States Code, for services performed by individuals appointed to temporary positions within the Bureau of the Census for purposes relating to the decennial censuses of population.”
+Pub. L. 106–553, §1(a)(2) \[title II, §204\], Dec. 21, 2000, 114 Stat. 2762, 2762A–78, provided that: “None of the funds provided in this or any previous Act, or hereinafter made available to the Department of Commerce, shall be available to reimburse the Unemployment Trust Fund or any other fund or account of the Treasury to pay for any expenses authorized by section 8501 of title 5, United States Code, for services performed by individuals appointed to temporary positions within the Bureau of the Census for purposes relating to the decennial censuses of population.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 106–113, div. B, §1000(a)(1) \[title II, §204\], Nov. 29, 1999, 113 Stat. 1535, 1501A–31.
 
 Pub. L. 105–277, div. A, §101(b) \[title II, §204\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–86.
 
@@ -107,14 +109,6 @@ Pub. L. 97–454, §3, Jan. 12, 1983, 96 Stat. 2494, provided that: “Not later
 &emsp;“(3) the practice applicable to the appointment of such temporary staff in performing such work;
 
 &emsp;“(4) the requirements and penalties under such title applicable to temporary staff performing such work, together with safeguards to ensure that such temporary staff will observe the limitations imposed in section 9 of such title.”
-
-#### Cross References
-
-Collection and publication of foreign commerce and trade statistics, applicability of section to, see section 307 of this title.
-
-Duties of employees doing census work and making surveys, see section 25 of this title.
-
-Exemption of temporary positions in Bureau of the Census from classification, see section 5102 of Title 5, Government Organization and Employees.
 
 #### Section Referred to in Other Sections
 

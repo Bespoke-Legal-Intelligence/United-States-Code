@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The local currency proceeds of sales pursuant to section 1727c(2) of this title shall be used inthe recipient country for specific economic development purposes, including—
+The local currency proceeds of sales pursuant to section 1727c(2) of this title shall be used in the recipient country for specific economic development purposes, including—
 
 &emsp;(1) the promotion of specific policy reforms to improve food security and agricultural development within the country and to promote broad-based, equitable, and sustainable development;
 
@@ -68,7 +68,7 @@ Amendment by Pub. L. 101–624 effective Jan. 1, 1991, see section 1513 of Pub. 
 
 #### Effective Date of 1979 Amendment
 
-Amendment by Pub. L. 96–53 effective Oct. 1, 1979, see section 512(a) of Pub. L. 96–53, set out as a note undersection 2151 of Title 22, Foreign Relations and Intercourse.
+Amendment by Pub. L. 96–53 effective Oct. 1, 1979, see section 512(a) of Pub. L. 96–53, set out as a note under section 2151 of Title 22, Foreign Relations and Intercourse.
 
 #### Effective Date
 

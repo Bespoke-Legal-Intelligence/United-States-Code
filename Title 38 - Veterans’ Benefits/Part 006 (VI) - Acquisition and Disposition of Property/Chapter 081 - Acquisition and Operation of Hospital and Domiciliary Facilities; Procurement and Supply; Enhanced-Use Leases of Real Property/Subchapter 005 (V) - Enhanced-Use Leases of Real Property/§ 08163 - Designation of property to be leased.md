@@ -34,7 +34,7 @@
 
 (c)(1) If after a hearing under subsection (a) the Secretary intends to designate the property involved, the Secretary shall notify the congressional veterans’ affairs committees of the Secretary's intention to so designate the property and shall publish a notice of such intention in the Federal Register.
 
-(2) The Secretary may not enter into an enhanced-use lease until the end of a 60-day period of continuous session of Congress following the date of the submission of notice under paragraph (1). For purposes of the preceding sentence, continuity of a session of Congress is broken only by an adjournment sine die, and there shall be excluded from the computation of such 60-day period any day during which either House of Congress is not in session during an adjournment of more than three days to a day certain.
+(2) The Secretary may not enter into an enhanced use lease until the end of the 90-day period beginning on the date of the submission of notice under paragraph (1).
 
 (3) Each notice under paragraph (1) shall include the following:
 
@@ -72,9 +72,13 @@
 
 &emsp;(D) a notice of designation with respect to the property.
 
-(Added Pub. L. 102–86, title IV, §401(a), Aug. 14, 1991, 105 Stat. 419; amended Pub. L. 106–117, title II, §208(c), Nov. 30, 1999, 113 Stat. 1567.)
+(Added Pub. L. 102–86, title IV, §401(a), Aug. 14, 1991, 105 Stat. 419; amended Pub. L. 106–117, title II, §208(c), Nov. 30, 1999, 113 Stat. 1567; Pub. L. 106–419, title II, §241, title IV, §404(b)(1), Nov. 1, 2000, 114 Stat. 1847, 1865.)
 
 #### Amendments
+
+2000—Subsec. (c)(2). Pub. L. 106–419, §241, amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary may not enter into an enhanced-use lease until the end of a 60-day period of continuous session of Congress following the date of the submission of notice under paragraph (1). For purposes of the preceding sentence, continuity of a session of Congress is broken only by an adjournment sine die, and there shall be excluded from the computation of such 60-day period any day during which either House of Congress is not in session during an adjournment of more than three days to a day certain.”
+
+Subsec. (c)(3)(E). Pub. L. 106–419, §404(b)(1), amended directory language of Pub. L. 106–117, §208(c)(2). See 1999 Amendment note below.
 
 1999—Subsec. (b). Pub. L. 106–117, §208(c)(1)(A), substituted “include the following:” for “include—” in introductory provisions.
 
@@ -90,11 +94,15 @@ Subsec. (b)(4). Pub. L. 106–117, §208(c)(1)(B), (D), in introductory provisio
 
 Subsec. (b)(5). Pub. L. 106–117, §208(c)(1)(B), capitalized the first letter of the first word.
 
-Subsec. (c)(3)(E). Pub. L. 106–117, §208(c)(2), which directed the substitution of cls. (i) and (ii) for cls. (i) to (iii) in subsec. (c)(1)(E), was executed by amending subsec. (c)(3)(E) to reflect the probable intent of Congress. Prior to amendment, cls. (i) to (iii) read as follows:
+Subsec. (c)(3)(E). Pub. L. 106–117, §208(c)(2), as amended by Pub. L. 106–419, §404(b)(1), substituted cls. (i) and (ii) for former cls. (i) to (iii) which read as follows:
 
 “(i) would contribute in a cost-effective manner to the mission of the Department;
 
 “(ii) would not be inconsistent with the mission of the Department; and
 
 “(iii) would not adversely affect the mission of the Department.”
+
+#### Effective Date of 2000 Amendment
+
+Pub. L. 106–419, title IV, §404(b)(1), Nov. 1, 2000, 114 Stat. 1865, provided that the amendment made by section 404(b)(1) is effective Nov. 30, 1999, and as if included in Pub. L. 106–117 as originally enacted.
 

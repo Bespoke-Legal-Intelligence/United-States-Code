@@ -34,7 +34,7 @@ Except as limited by subsection (c) of this section, there shall be deposited in
 
 #### (c) Retention of sums in Fund; availability for expenditure without fiscal year limitation
 
-Sums deposited in the Fund shall remain in the Fund and be available for expenditure under this chapter for grants under this chapter without fiscal year limitation.
+Sums deposited in the Fund shall remain in the Fund and be available for expenditure under this chapter for grants under this chapter without fiscal year limitation. Notwithstanding subsection (d)(5) of this section, all sums deposited in the Fund in any fiscal year that are not made available for obligation by Congress in the subsequent fiscal year shall remain in the Fund for obligation in future fiscal years, without fiscal year limitation.
 
 #### (d) Availability for judicial branch administrative costs; grant program percentages
 
@@ -42,9 +42,13 @@ The Fund shall be available as follows:
 
 &emsp;(1) Repealed. Pub. L. 105–119, title I, §109(a)(1), Nov. 26, 1997, 111 Stat. 2457.
 
-&emsp;(2) The first $10,000,000 deposited in the Fund shall be available for grants under section 10603a of this title.
+&emsp;(2)(A) Except as provided in subparagraph (B), the first $10,000,000 deposited in the Fund shall be available for grants under section 10603a of this title.
 
-&emsp;(3) Of the sums remaining in the Fund in any particular fiscal year after compliance with paragraph (2), such sums as may be necessary shall be available for the United States Attorneys Offices to improve services for the benefit of crime victims in the Federal criminal justice system.
+&emsp;(B)(i) For any fiscal year for which the amount deposited in the Fund is greater than the amount deposited in the Fund for fiscal year 1998, the $10,000,000 referred to in subparagraph (A) plus an amount equal to 50 percent of the increase in the amount from fiscal year 1998 shall be available for grants under section 10603a of this title.
+
+&emsp;(ii) Amounts available under this subparagraph for any fiscal year shall not exceed $20,000,000.
+
+&emsp;(3) Of the sums remaining in the Fund in any particular fiscal year after compliance with paragraph (2), such sums as may be necessary shall be available for the United States Attorneys Offices and the Federal Bureau of Investigation to improve services for the benefit of crime victims in the Federal criminal justice system.
 
 &emsp;(4) Of the remaining amount deposited in the Fund in a particular fiscal year—
 
@@ -54,13 +58,13 @@ The Fund shall be available as follows:
 
 &emsp;&emsp;(C) 3 percent shall be available for grants under section 10603(c) of this title.
 
-&emsp;(5)(A) If the sums available in the Fund are sufficient to fully provide grants to the States pursuant to section 10602(a)(1) of this title, the Director may retain any portion of the Fund that was deposited during a fiscal year that was in excess of 110 percent of the total amount deposited in the Fund during the preceding fiscal year as an emergency reserve. Such reserve shall not exceed $50,000,000.
+&emsp;(5)(A) If the sums available in the Fund are sufficient to fully provide grants to the States pursuant to section 10602(a)(1) of this title, the Director may retain any portion of the Fund that was deposited during a fiscal year that was in excess of 110 percent of the total amount deposited in the Fund during the preceding fiscal year as an emergency reserve. Such reserve shall not exceed $100,000,000.
 
-&emsp;(B) The emergency reserve referred to in subparagraph (A) may be used for supplemental grants under section 10603b of this title and to supplement the funds available to provide grants to States for compensation and assistance in accordance with sections 10602 and 10603 of this title in years in which supplemental grants are needed.
+&emsp;(B) The emergency reserve referred to in subparagraph (A) may be used for supplemental grants under section 10603b of this title, to provide compensation to victims of international terrorism under the program under section 10603c of this title, and to supplement the funds available to provide grants to States for compensation and assistance in accordance with sections 10602 and 10603 of this title in years in which supplemental grants are needed.
 
 #### (e) Amounts awarded and unspent
 
-Any amount awarded as part of a grant under this chapter that remains unspent at the end of a fiscal year in which the grant is made may be expended for the purpose for which the grant is made at any time during the 3 succeeding fiscal years, at the end of which period, any remaining unobligated sums in excess of $500,000 shall be returned to the Treasury. Any remaining unobligated sums in an amount less than $500,000 shall be returned to the Fund.
+Any amount awarded as part of a grant under this chapter that remains unspent at the end of a fiscal year in which the grant is made may be expended for the purpose for which the grant is made at any time during the 3 succeeding fiscal years, at the end of which period, any remaining unobligated sums shall be available for deposit into the emergency reserve fund referred to in subsection (d)(5) of this section at the discretion of the Director. Any remaining unobligated sums shall be returned to the Fund.
 
 #### (f) “Offenses against the United States” as excluding
 
@@ -82,7 +86,7 @@ As used in this section, the term “offenses against the United States” does 
 
 (2) As used in this subsection, the term “tribe” <sup>2</sup> has the meaning given that term in section 450b(b) <sup>3</sup> of title 25.
 
-(Pub. L. 98–473, title II, §1402, Oct. 12, 1984, 98 Stat. 2170; Pub. L. 99–401, title I, §102(b)(1), (2), Aug. 27, 1986, 100 Stat. 904; Pub. L. 99–646, §82, Nov. 10, 1986, 100 Stat. 3619; Pub. L. 100–690, title VII, §§7121, 7124, Nov. 18, 1988, 102 Stat. 4419, 4422; Pub. L. 101–647, title V, §504, Nov. 29, 1990, 104 Stat. 4822; Pub. L. 102–572, title X, §1001, Oct. 29, 1992, 106 Stat. 4520; Pub. L. 103–121, title I, §110(a), Oct. 27, 1993, 107 Stat. 1164; Pub. L. 103–322, title XXIII, §230201, title XXXIII, §330025(a), Sept. 13, 1994, 108 Stat. 2079, 2151; Pub. L. 104–132, title II, §§232(b), (c)(1), 236, Apr. 24, 1996, 110 Stat. 1243, 1244, 1247; Pub. L. 104–208, div. A, title I, §101(a) \[title I, §112\], Sept. 30, 1996, 110 Stat. 3009, 3009–21; Pub. L. 105–119, title I, §109(a), Nov. 26, 1997, 111 Stat. 2457; Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §119\], Nov. 29, 1999, 113 Stat. 1535, 1501A–22.)
+(Pub. L. 98–473, title II, §1402, Oct. 12, 1984, 98 Stat. 2170; Pub. L. 99–401, title I, §102(b)(1), (2), Aug. 27, 1986, 100 Stat. 904; Pub. L. 99–646, §82, Nov. 10, 1986, 100 Stat. 3619; Pub. L. 100–690, title VII, §§7121, 7124, Nov. 18, 1988, 102 Stat. 4419, 4422; Pub. L. 101–647, title V, §504, Nov. 29, 1990, 104 Stat. 4822; Pub. L. 102–572, title X, §1001, Oct. 29, 1992, 106 Stat. 4520; Pub. L. 103–121, title I, §110(a), Oct. 27, 1993, 107 Stat. 1164; Pub. L. 103–322, title XXIII, §230201, title XXXIII, §330025(a), Sept. 13, 1994, 108 Stat. 2079, 2151; Pub. L. 104–132, title II, §§232(b), (c)(1), 236, Apr. 24, 1996, 110 Stat. 1243, 1244, 1247; Pub. L. 104–208, div. A, title I, §101(a) \[title I, §112\], Sept. 30, 1996, 110 Stat. 3009, 3009–21; Pub. L. 105–119, title I, §109(a), Nov. 26, 1997, 111 Stat. 2457; Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §119\], Nov. 29, 1999, 113 Stat. 1535, 1501A–22; Pub. L. 106–177, title I, §104(a), Mar. 10, 2000, 114 Stat. 36; Pub. L. 106–386, div. C, §2003(b), (c)(2), (d), Oct. 28, 2000, 114 Stat. 1544, 1546; Pub. L. 106–553, §1(a)(2) \[title I, §113, formerly §114\], Dec. 21, 2000, 114 Stat. 2762, 2762A–68, renumbered Pub. L. 106–554, §1(a)(4) \[div. A, §213(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–179.)
 
 #### References in Text
 
@@ -97,6 +101,18 @@ The Uniform Code of Military Justice, referred to in subsec. (f)(1), is classifi
 Section 450b of title 25, referred to in subsec. (g)(2), has been amended, and subsec. (b) of section 450b no longer defines the term “Indian tribe”. However, such term is defined elsewhere in that section.
 
 #### Amendments
+
+2000—Subsec. (c). Pub. L. 106–386, §2003(d), which directed insertion of “Notwithstanding subsection (d)(5) of this section, all sums deposited in the Fund in any fiscal year that are not made available for obligation by Congress in the subsequent fiscal year shall remain in the Fund for obligation in future fiscal years, without fiscal year limitation.” at the end of section 1402(c) of the Victims of Crime Act 1984, was executed by making the insertion at the end of subsec. (c) of this section, which is section 1402 of the Victims of Crime Act of 1984, to reflect the probable intent of Congress.
+
+Subsec. (d)(2). Pub. L. 106–177 designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B), the first $10,000,000” for “The first $10,000,000”, and added subpar. (B).
+
+Subsec. (d)(3). Pub. L. 106–553, as renumbered by Pub. L. 106–554, inserted “and the Federal Bureau of Investigation” after “United States Attorneys Offices”.
+
+Subsec. (d)(5)(A). Pub. L. 106–386, §2003(b)(1), substituted “$100,000,000” for “$50,000,000”.
+
+Subsec. (d)(5)(B). Pub. L. 106–386, §2003(c)(2), inserted “, to provide compensation to victims of international terrorism under the program under section 10603c of this title,” after “section 10603b of this title”.
+
+Subsec. (e). Pub. L. 106–386, §2003(b)(2), substituted “shall be available for deposit into the emergency reserve fund referred to in subsection (d)(5) of this section at the discretion of the Director. Any remaining unobligated sums” for “in excess of $500,000 shall be returned to the Treasury. Any remaining unobligated sums in an amount less than $500,000”.
 
 1999—Subsec. (d)(3) to (5). Pub. L. 106–113 added par. (3), redesignated former pars. (3) and (4) as (4) and (5), respectively, and struck out former par. (5) which read as follows: “The Director may set aside up to $500,000 of the reserve fund described in paragraph (4) to make supplemental grants to United States Attorneys Offices to provide necessary assistance to victims of the bombing of the Alfred P. Murrah Federal Building in Oklahoma City, to facilitate observation of and/or participation by such victims in trial proceedings arising therefrom, including, without limitation, provision of lodging and travel assistance, and to pay such other, related expenses determined to be necessary by the Director.”
 
@@ -234,11 +250,23 @@ Section 231 of title II of Pub. L. 104–132 provided that: “This subtitle \[s
 
 #### Short Title of 1990 Amendment
 
-Section 501 of title V of Pub. L. 101–647 provided that: “This title \[enacting sections 10606 and 10607 of this title, amending this section, enacting provisions set out as a note under section 10606 of this title, and amending provisions set out as a note under this section\] may be cited as the ‘Victims’ Rights and Restitution Act of 1990’.”
+Section 501 of title V of Pub. L. 101–647 provided that: “This title \[enacting sections 10606 and 10607 of thistitle, amending this section, enacting provisions set out as a note under section 10606 of this title, and amending provisions set out as a note under this section\] may be cited as the ‘Victims’ Rights and Restitution Act of 1990’.”
 
 #### Short Title
 
 Section 1401 of chapter XIV (§§1401–1411) of title II of Pub. L. 98–473 provided that: “This chapter \[enacting this chapter and sections 3013, 3671 and 3672 of Title 18, Crimes and Criminal Procedure, and amending sections 3150a, 4207, and 4215 of Title 18 and provisions set out as a note under section 1512 of Title 18\] may be cited as the ‘Victims of Crime Act of 1984’.”
+
+#### Limitation on Amounts Available for Obligation
+
+Pub. L. 106–553, §1(a)(2) \[title VI, §619\], Dec. 21, 2000, 114 Stat. 2762, 2762A–107, provided that: “Notwithstanding any other provision of law, amounts deposited or available in the Fund established under 42 U.S.C. 10601 in any fiscal year in excess of $537,500,000 shall not be available for obligation until the following fiscal year.”
+
+Similar provisions were contained in the following prior appropriations act:
+
+Pub. L. 106–113, div. B, §1000(a)(1) \[title VI, §620\], Nov. 29, 1999, 113 Stat. 1535, 1501A–55.
+
+#### Interaction With Any Cap
+
+Pub. L. 106–177, title I, §104(b), Mar. 10, 2000, 114 Stat. 36, provided that: “Subsection (a) \[amending this section\] shall be implemented so that any increase in funding provided thereby shall operate notwithstanding any dollar limitation on the availability of the Crime Victims Fund established under the Victims of Crime Act of 1984 \[42 U.S.C. 10601 et seq.\].”
 
 #### Transfer of Certain Unobligated Funds
 
@@ -250,7 +278,7 @@ Section 7130 of Pub. L. 100–690 provided that: “An amount equivalent to thos
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 10603, 10603a, 10604, 10605 of this title; title 18 section 798; title 50 section 783.
+This section is referred to in sections 10603, 10603a, 10603b, 10603c, 10604, 10605 of this title; title 18 sections 798, 4048; title 50 section 783.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -10,6 +10,10 @@ Based on title 28, U.S.C., 1940 ed., §321 (Mar. 3, 1911, ch. 231, §215, 36 Sta
 
 Appointment of “judges of the Supreme Court” by the President by and with the advice and consent of the Senate is provided by U.S. Constitution art. 2, §2, cl. 2.
 
+#### Short Title of 2000 Amendment
+
+Pub. L. 106–518, §1(a), Nov. 13, 2000, 114 Stat. 2410, provided that: “This Act \[enacting sections 179 and 613 of this title, amending sections 117, 175, 332, 371, 376, 604, 611, 612, 627, 631, 636, 797, 996, 1865, 1930, and 2671 of this title, sections 3102 and 5551 of Title 5, Government Organization and Employees, section 1228 of Title 11, Bankruptcy, sections 3006A and 3401 of Title 18, Crimes and Criminal Procedure, and section 13n of Title 40, Public Buildings, Property, and Works, repealing section 2520 of this title, enacting provisions set out as notes under sections 613, 996, and 1931 of this title, and amending provisions set out as notes under sections 471, 581, and 1931 of this title\] may be cited as the ‘Federal Courts Improvement Act of 2000’.”
+
 #### Short Title of 1998 Amendment
 
 Pub. L. 105–315, §1, Oct. 30, 1998, 112 Stat. 2993, provided that: “This Act \[amending sections 651 to 658 of this title, enacting provisions set out as notes under section 651 of this title, and repealing provisions set out as a note under section 652 of this title\] may be cited as the ‘Alternative Dispute Resolution Act of 1998’.”
@@ -78,9 +82,9 @@ Pub. L. 99–336, §1, June 19, 1986, 100 Stat. 633, provided that: “This Act 
 
 #### Short Title of 1984 Amendments
 
-Pub. L. 98–620, §404, Nov. 8, 1984, 98 Stat. 3361, provided that: “This subtitle \[subtitle B (§§404–411) of titleIV of Pub. L. 98–620, amending sections 85, 90, 93, 112, 124, and 126 of this title and enacting provisions set out as notes under sections 85, 90, 93, and 124 of this title\] may be cited as the ‘Federal District Court Organization Act of 1984’.”
+Pub. L. 98–620, title IV, §404, Nov. 8, 1984, 98 Stat. 3361, provided that: “This subtitle \[subtitle B (§§404–411) oftitle IV of Pub. L. 98–620, amending sections 85, 90, 93, 112, 124, and 126 of this title and enacting provisions set out as notes under sections 85, 90, 93, and 124 of this title\] may be cited as the ‘Federal District Court Organization Act of 1984’.”
 
-Pub. L. 98–620, prec. §412, Nov. 8, 1984, 98 Stat. 3362, provided that: “This subtitle \[subtitle C (§§412–416) of title IV of Pub. L. 98–620, enacting section 798 of this title, amending section 1292 of this title, section 1071 of Title 15, Commerce and Trade, section 1337 of Title 19, Customs Duties, and sections 142 to 144 of Title 35, Patents, and enacting provisions set out as notes under section 713 of this title and section 142 of Title 35\] may be cited as the ‘Technical Amendments to the Federal Courts Improvement Act of 1982’.”
+Pub. L. 98–620, title IV, prec. §412, Nov. 8, 1984, 98 Stat. 3362, provided that: “This subtitle \[subtitle C (§§412–416) of title IV of Pub. L. 98–620, enacting section 798 of this title, amending section 1292 of this title, section 1071 of Title 15, Commerce and Trade, section 1337 of Title 19, Customs Duties, and sections 142 to 144 of Title 35, Patents, and enacting provisions set out as notes under section 713 of this title and section 142 of Title 35\] may be cited as the ‘Technical Amendments to the Federal Courts Improvement Act of 1982’.”
 
 For short title of Pub. L. 98–353 as the Bankruptcy Amendments and Federal Judgeship Act of 1984, see section 1 of Pub. L. 98–353, set out as a note under section 151 of this title.
 
@@ -137,20 +141,4 @@ Pub. L. 89–504, title II, §201, July 18, 1966, 80 Stat. 293, provided that: �
 #### Short Title of 1964 Amendment
 
 Pub. L. 88–426, title IV, §401, Aug. 14, 1964, 78 Stat. 433, provided that: “This title \[amending sections 5, 44, 135, 173, 213, 252, 603, and 792 of this title, section 867 of Title 10, Armed Forces, section 68 of former Title 11, Bankruptcy, and section 7443 of Title 26, Internal Revenue Code, and enacting provisions set out as notes under sections 603, 604 and 753 of this title\] may be cited as the ‘Federal Judicial Salary Act of 1964’.”
-
-#### Rules of the Supreme Court
-
-Quorum, see rule 4, Appendix to this title.
-
-#### Cross References
-
-Appointment of Supreme Court Justices, see Const., Art. 2, §2, cl. 2.
-
-Creation of Supreme Court, see Const., Art. 3, §1.
-
-Justices to hold office during good behavior, see Const., Art. 3, §1.
-
-Oath of Justice, see section 453 of this title.
-
-Official station of Supreme Court Justices, see section 456 of this title.
 

@@ -18,14 +18,6 @@ Section 4 of act July 9, 1956, provided that: “The amendments made by this Act
 
 See section 1610 of this title.
 
-#### Cross References
-
-Fines, penalties and forfeitures, see section 2461 et seq. of Title 28, Judiciary and Judicial Procedure.
-
-United States as party generally, see section 2401 et seq. of Title 28.
-
-United States as plaintiff, jurisdiction of district courts, see section 1345 of Title 28.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1602 of this title.

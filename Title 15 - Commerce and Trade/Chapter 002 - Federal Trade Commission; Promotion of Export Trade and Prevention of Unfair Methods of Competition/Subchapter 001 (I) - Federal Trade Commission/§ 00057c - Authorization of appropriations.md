@@ -28,7 +28,7 @@ Section 11 of Pub. L. 103–312 provided that:
 
 “(a)
 
-Limitation on Use of Authorized Funds.—The Federal Trade Commission shall not have any authority to use any funds which are authorized to be appropriated to carry out the Federal Trade Commission Act (15 U.S.C. 41 et seq.) for fiscal years 1994, 1995, and 1996 for the purpose of submitting statements to, appearing before, or intervening in the proceedings of, any Federal or State agency or State legislative body concerning proposed rules or legislation that the agency or legislative body is considering unless the Commission advises the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce \[now Committee on Commerce\] of the House of Representatives regarding such action as soon as possible.
+Limitation on Use of Authorized Funds.—The Federal Trade Commission shall not have any authority to use any funds which are authorized to be appropriated to carry out the Federal Trade Commission Act (15 U.S.C. 41 et seq.) for fiscal years 1994, 1995, and 1996 for the purpose of submitting statements to, appearing before, or intervening in the proceedings of, any Federal or State agency or State legislative body concerning proposed rules or legislation that the agency or legislative body is considering unless the Commission advises the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives regarding such action as soon as possible.
 
 “(b)
 
@@ -40,5 +40,5 @@ Section 18 of Pub. L. 96–252 prohibited the Federal Trade Commission from usin
 
 #### Restriction on Use of Funds Respecting Study, Investigation, or Prosecution of any Agricultural Cooperative or Study or Investigation of any Agricultural Marketing Orders
 
-Section 20 of Pub. L. 96–252 prohibited the Federal Trade Commission from using any funds authorized to be appropriated to carry out this subchapter for fiscal year 1980, 1981, or 1982 (or 1983 as extended by Pub. L. 97–377, title I §101(d), Dec. 21, 1982, 96 Stat. 1870), under this section, for the purpose of conducting any study, investigation, or prosecution of any agricultural cooperative for any conduct which, because of the provisions of the Capper-Volstead Act (7 U.S.C. 291 et seq.), was not a violation of any Federal antitrust Act or thissubchapter or for the purpose of conducting any study or investigation of any agricultural marketing orders.
+Section 20 of Pub. L. 96–252 prohibited the Federal Trade Commission from using any funds authorized tobe appropriated to carry out this subchapter for fiscal year 1980, 1981, or 1982 (or 1983 as extended by Pub. L. 97–377, title I §101(d), Dec. 21, 1982, 96 Stat. 1870), under this section, for the purpose of conducting any study, investigation, or prosecution of any agricultural cooperative for any conduct which, because of the provisions of the Capper-Volstead Act (7 U.S.C. 291 et seq.), was not a violation of any Federal antitrust Act or this subchapter or for the purpose of conducting any study or investigation of any agricultural marketing orders.
 

@@ -8,7 +8,7 @@ The Secretary of Health and Human Services (referred to in this part as the “S
 
 #### (1) Competitive assessment of applications
 
-&emsp;In providing assistance under subsection (a) of this section, the Secretary shall establish and implement a competitive process for the solicitation and consideration of applications from eligible entities for lines of credit for the capitalization of revolving funds.
+&emsp;In providing assistance under subsection (a) of this section, the Secretary shall establish and implement a competitive process for the solicitation and consideration of applicationsfrom eligible entities for lines of credit for the capitalization of revolving funds.
 
 #### (2) Eligible entities
 

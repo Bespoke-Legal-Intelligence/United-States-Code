@@ -32,7 +32,7 @@ Section 516 of the Tariff Act of 1930, referred to in subsec. (b), is classified
 
 Section 516A of the Tariff Act of 1930, referred to in subsec. (c), is classified to section 1516a of Title 19.
 
-Sections 223, 251, and 271 of the Trade Act of 1974, referred to in subsec. (d), are classified to sections 2273, 2341, and 2371, respectively, of Title 19.
+Sections 223, 251, and 271 of the Trade Act of 1974, referred to in subsec. (d), are classified to sections 2273, 2341, and 2371, respectively, of Title 19, Customs Duties. Section 2371 of Title 19 was omitted from the Code as terminated Sept. 30, 1982.
 
 Section 305(b)(1) of the Trade Agreements Act of 1979, referred to in subsec. (e), is classified to section 2515(b)(1) of Title 19.
 
@@ -48,9 +48,9 @@ A prior section 2636, acts June 25, 1948, ch. 646, 62 Stat. 981; June 2, 1970, P
 
 #### Amendments
 
-1993—Subsecs. (h), (i). Pub. L. 103–182 added subsec. (h) and redesignated former subsec. (h) as (i).
+<b>1993</b>—Subsecs. (h), (i). Pub. L. 103–182 added subsec. (h) and redesignated former subsec. (h) as (i).
 
-1984—Subsec. (c). Pub. L. 98–573, §623(b)(1)(A), amended subsec. (c) generally, striking out “, other than a determination under section 703(b), 703(c), 733(b), or 733(c) of such Act,” and substituting “within the time specified in such section” for “within thirty days after the date of the publication of such determination in the Federal Register”.
+<b>1984</b>—Subsec. (c). Pub. L. 98–573, §623(b)(1)(A), amended subsec. (c) generally, striking out “, other than a determination under section 703(b), 703(c), 733(b), or 733(c) of such Act,” and substituting “within the time specified in such section” for “within thirty days after the date of the publication of such determination in the Federal Register”.
 
 Subsec. (d). Pub. L. 98–573, §623(b)(1)(B), redesignated subsec. (e) as (d). Former subsec. (d), which provided that civil actions contesting certain determinations by the administering authority under sections 703(b), (c), and 733(b), (c), of the Tariff Act of 1930 were barred unless commenced in accordance with the rules of the Court of International Trade within 10 days after publication of the determination in the Federal Register, was struck out.
 

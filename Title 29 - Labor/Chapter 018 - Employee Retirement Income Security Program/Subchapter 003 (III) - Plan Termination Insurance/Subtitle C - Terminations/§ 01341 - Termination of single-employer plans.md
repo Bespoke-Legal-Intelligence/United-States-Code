@@ -38,7 +38,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) of the projected amount of the assets of the plan (as of a proposed date of final distribution of assets),
 
-&emsp;&emsp;&emsp;&emsp;(II) of the actuarial present value (as of such date) of the benefit liabilities (determined as of the proposed termination date) under the plan, and
+&emsp;&emsp;&emsp;&emsp;(II) of the actuarial present value (as of such date) of the benefit liabilities\(determined as of the proposed termination date) under the plan, and
 
 &emsp;&emsp;&emsp;&emsp;(III) that the plan is projected to be sufficient (as of such proposed date of final distribution) for such benefit liabilities,
 
@@ -108,7 +108,7 @@
 
 #### (B) Certification to the corporation of final distribution of assets
 
-&emsp;&emsp;Within 30 days after the final distribution of assets is completed pursuant to the standard termination of the plan under this subsection, the plan administrator shall send a notice to the corporation certifying that the assets of the plan have been distributed in accordance with the provisions of subparagraph (A) so as to pay all benefit liabilities under the plan.
+&emsp;&emsp;Within 30 days after the final distribution of assets is completed pursuant to the standard termination of the plan under this subsection, the plan administrator shall send a notice to the corporation certifying that theassets of the plan have been distributed in accordance with the provisions of subparagraph (A) so as to pay all benefit liabilities under the plan.
 
 #### (4) Continuing authority
 
@@ -200,7 +200,7 @@
 
 #### (A) Determinations by the corporation relating to plan sufficiency for guaranteed benefits and for benefit liabilities
 
-&emsp;&emsp;If the corporation determines that the requirements for a distress termination setforth in paragraphs (1) and (2) are met, the corporation shall—
+&emsp;&emsp;If the corporation determines that the requirements for a distress termination set forth in paragraphs (1) and (2) are met, the corporation shall—
 
 &emsp;&emsp;&emsp;(i) determine that the plan is sufficient for guaranteed benefits (as of the termination date) or that the corporation is unable to make such determination on the basis of information made available to the corporation,
 
@@ -406,7 +406,7 @@ Section 778(b)(2) of Pub. L. 103–465 provided that: “The amendment made by t
 
 #### Effective Date of 1989 Amendment
 
-Amendment by section 7881(f)(7), (g)(1)–(6) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Pension Protection Act,Pub. L. 100–203, §§9302–9346, to which such amendment relates, see section 7882 of Pub. L. 101–239, set out as a note under section 401 of Title 26, Internal Revenue Code.
+Amendment by section 7881(f)(7), (g)(1)–(6) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Pension Protection Act, Pub. L. 100–203, §§9302–9346, to which such amendment relates, see section 7882 of Pub. L. 101–239, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 Amendment by section 7893(c), (d) of Pub. L. 101–239 effective as if included in the provision of the Single-Employer Pension Plan Amendments Act of 1986, Pub. L. 99–272, title XI, to which such amendment relates, see section 7893(h) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 
@@ -560,7 +560,7 @@ General rule.—Except as provided in subparagraph (B), the Corporation shall no
 
 &emsp;“(B)
 
-Exception in cases of substantial business hardship.—Except in the case of an acquisition, takeover, or leveraged buyout, the preceding provisions of this subsection shall not apply if the contributing sponsor demonstrates to the satisfaction of the Corporation that the contributing sponsor is experiencing substantial business hardship. For purposes of this subparagraph, a contributing sponsor shall be considered as experiencing substantial business hardship if the contributing sponsor has been operating, and can demonstrate that the contributing sponsor will continue to operate, at an economic loss.”
+Exception in cases of substantial business hardship.—Except in the case of an acquisition, takeover, or leveraged buyout, the preceding provisions of this subsection shall not apply if the contributing sponsor demonstrates to the satisfaction of the Corporation that the contributing sponsor is experiencing substantial business hardship. For purposes ofthis subparagraph, a contributing sponsor shall be considered as experiencing substantial business hardship if the contributing sponsor has been operating, and can demonstrate that the contributing sponsor will continue to operate, at an economic loss.”
 
 #### Section Referred to in Other Sections
 

@@ -32,7 +32,7 @@ The Secretary shall furnish to any party in interest upon request a certificate 
 
 #### (g) Injunctive relief; termination
 
-Notwithstanding any other provision of sections 459e to 459e–9 of this title, the Secretary of the Interior, acting through the Attorney General of the United States, may apply to the United States District Court for the Eastern District of New York for a temporary restraining order or injunction to prohibit the use of, including construction upon, any property within the seashore in a manner that—
+Notwithstanding any other provision of sections 459e to 459e–9 of this title, the Secretary ofthe Interior, acting through the Attorney General of the United States, may apply to the United States District Court for the Eastern District of New York for a temporary restraining order or injunction to prohibit the use of, including construction upon, any property within the seashore in a manner that—
 
 &emsp;(1) will cause or is likely to cause significant harm to the natural resources of the seashore, or
 

@@ -40,7 +40,7 @@ Section 3 of the Small Business Act, referred to in par. (3), is classified to s
 
 #### Effective Date of 1996 Amendment
 
-Section 245 of title II of Pub. L. 104–121 provided that: “This subtitle \[subtitle D (§§241–245) of title II of Pub. L. 104–121, amending this section and sections 603 to 605, 609, 611, and 612 of this title and enacting provisions set out as a note under section 609 of this title\] shall become effective on the expiration of 90 days after the date of enactment of this subtitle \[Mar. 29, 1996\], except that such amendments shall not apply to interpretative rules for which a notice of proposed rulemaking was published prior to the date of enactment.”
+Section 245 of title II of Pub. L. 104–121 provided that: “This subtitle \[subtitle D (§§241–245) of title II of Pub.L. 104–121, amending this section and sections 603 to 605, 609, 611, and 612 of this title and enacting provisions set out as a note under section 609 of this title\] shall become effective on the expiration of 90 days after the date of enactment of this subtitle \[Mar. 29, 1996\], except that such amendments shall not apply to interpretative rules for which a notice of proposed rulemaking was published prior to the date of enactment.”
 
 #### Effective Date
 
@@ -152,7 +152,7 @@ Sections 201 to 224 of title II of Pub. L. 104–121 provided that:
 
 &emsp;“(3) fundamental changes that are needed in the regulatory and enforcement culture of Federal agencies to make agencies more responsive to small business can be made without compromising the statutory missions of the agencies;
 
-&emsp;“(4) three of the top recommendations of the 1995 White House Conference on Small Business involve reforms to the way government regulations are developed and enforced, and reductions in government paperwork requirements;
+&emsp;“(4) three of the top recommendations of the 1995 White House Conference on Small Business involvereforms to the way government regulations are developed and enforced, and reductions in government paperwork requirements;
 
 &emsp;“(5) the requirements of chapter 6 of title 5, United States Code, have too often been ignored by government agencies, resulting in greater regulatory burdens on small entities than necessitated by statute; and
 
@@ -320,7 +320,7 @@ Section 2 of Pub. L. 96–354 provided that:
 
 &emsp;“(7) alternative regulatory approaches which do not conflict with the stated objectives of applicable statutes may be available which minimize the significant economic impact of rules on small businesses, small organizations, and small governmental jurisdictions;
 
-&emsp;“(8) the process by which Federal regulations are developed and adopted should be reformed to require agencies to solicit the ideas and comments of smallbusinesses, small organizations, and small governmental jurisdictions to examine the impact of proposed and existing rules on such entities, and to review the continued need for existing rules.
+&emsp;“(8) the process by which Federal regulations are developed and adopted should be reformed to require agencies to solicit the ideas and comments of small businesses, small organizations, and small governmental jurisdictions to examine the impact of proposed and existing rules on such entities, and to review the continued need for existing rules.
 
 “(b) It is the purpose of this Act \[enacting this chapter\] to establish as a principle of regulatory issuance that agencies shall endeavor, consistent with the objectives of the rule and of applicable statutes, to fit regulatory and informational requirements to the scale of the businesses, organizations, and governmental jurisdictions subject to regulation. To achieve this principle, agencies are required to solicit and consider flexible regulatory proposals and to explain the rationale for their actions to assure that such proposals are given serious consideration.”
 
@@ -338,7 +338,7 @@ Ex. Ord. No. 12606, Sept. 2, 1987, 52 F.R. 34188, which provided criteria for ex
 
 #### Executive Order No. 12612
 
-Ex. Ord. No. 12612, Oct. 26, 1987, 52 F.R. 41685, which set out fundamental federalism principles and policymaking criteria for Executive departments and agencies to follow in formulating and implementing policies and limited the instances when Executive departments and agencies could construe a Federal statute to preempt State law, was revoked by Ex. Ord. No. 13132, §10(b), Aug. 4, 1999, 64 F.R. 43259, set out below.
+Ex. Ord. No. 12612, Oct. 26, 1987, 52 F.R. 41685, which set out fundamental federalism principles and policymaking criteria for executive departments and agencies to follow in formulating and implementing policies and limited the instances when executive departments and agencies could construe a Federal statute to preempt State law, was revoked by Ex. Ord. No. 13132, §10(b), Aug. 4, 1999, 64 F.R. 43259, set out below.
 
 #### Ex. Ord. No. 12630. Governmental Actions and Interference With Constitutionally Protected Property Rights
 
@@ -442,7 +442,7 @@ Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 12861, Sept. 11, 1993, 58 F.R. 48255, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, and section 1111 of title 31, United States Code, and to cut 50 percent of the executive branch's internal regulations in order to streamline and improve customer service to the American people, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United StatesCode, and section 1111 of title 31, United States Code, and to cut 50 percent of the executive branch's internal regulations in order to streamline and improve customer service to the American people, it is hereby ordered as follows:
 
 Section 1. <i>Regulatory Reductions</i>. Each executive department and agency shall undertake to eliminate not less than 50 percent of its civilian internal management regulations that are not required by law within 3 years of the effective date of this order. An agency internal management regulation, for the purposes of this order, means an agency directive or regulation that pertains to its organization, management, or personnel matters. Reductions in agency internal management regulations shall be concentrated in areas that will result in the greatest improvement in productivity, streamlining of operations, and improvement in customer service.
 
@@ -492,7 +492,7 @@ Section 1. <i>Statement of Regulatory Philosophy and Principles.</i>
 
 (11) Each agency shall tailor its regulations to impose the least burden on society, including individuals, businesses of differing sizes, and other entities (including small communities and governmental entities), consistent with obtaining the regulatory objectives, taking into account, among other things, and to the extent practicable, the costs of cumulative regulations.
 
-(12) Each agency shall draft its regulations to be simple and easy to understand, with the goal of minimizing the potential for uncertainty and litigation arising from such uncertainty.
+(12) Each agency shall draft its regulations to be simple and easy to understand, with the goal of minimizingthe potential for uncertainty and litigation arising from such uncertainty.
 
 Sec. 2. <i>Organization</i>. An efficient regulatory planning and review process is vital to ensure that the Federal Government's regulatory system best serves the American people.
 
@@ -576,7 +576,7 @@ Sec. 5. <i>Existing Regulations</i>. In order to reduce the regulatory burden on
 
 Sec. 6. <i>Centralized Review of Regulations</i>. The guidelines set forth below shall apply to all regulatory actions, for both new and existing regulations, by agencies other than those agencies specifically exempted by the Administrator of OIRA:
 
-(a) <i>Agency Responsibilities</i>. (1) Each agency shall (consistent with its own rules, regulations, or procedures) provide the public with meaningful participation in theregulatory process. In particular, before issuing a notice of proposed rulemaking, each agency should, where appropriate, seek the involvement of those who are intended to benefit from and those expected to be burdened by any regulation (including, specifically, State, local, and tribal officials). In addition, each agency should afford the public a meaningful opportunity to comment on any proposed regulation, which in most cases should include a comment period of not less than 60 days. Each agency also is directed to explore and, where appropriate, use consensual mechanisms for developing regulations, including negotiated rulemaking.
+(a) <i>Agency Responsibilities</i>. (1) Each agency shall (consistent with its own rules, regulations, or procedures) provide the public with meaningful participation in the regulatory process. In particular, before issuing a notice of proposed rulemaking, each agency should, where appropriate, seek the involvement of those who are intended to benefit from and those expected to be burdened by any regulation (including, specifically, State, local, and tribal officials). In addition, each agency should afford the public a meaningful opportunity to comment on any proposed regulation, which in most cases should include a comment period of not less than 60 days. Each agency also is directed to explore and, where appropriate, use consensual mechanisms for developing regulations, including negotiated rulemaking.
 
 (2) Within 60 days of the date of this Executive order, each agency head shall designate a Regulatory Policy Officer who shall report to the agency head. The Regulatory Policy Officer shall be involved at each stage of the regulatory process to foster the development of effective, innovative, and least burdensome regulations and to further the principles set forth in this Executive order.
 
@@ -686,7 +686,7 @@ Section 1. <i>Implementation of Human Rights Obligations</i>. (a) It shall be th
 
 (b) It shall also be the policy and practice of the Government of the United States to promote respect for international human rights, both in our relationships with all other countries and by working with and strengthening the various international mechanisms for the promotion of human rights, including, <i>inter alia</i>, those of the United Nations, the International Labor Organization, and the Organization of American States.
 
-Sec. 2. <i>Responsibility of Executive Departments and Agencies</i>. (a) All executive departments and agencies (as defined in 5 U.S.C. 101–105, including boards and commissions, and hereinafter referred to collectively as “agency” or “agencies”) shall maintain a current awareness of United States international human rights obligations that are relevant to their functions and shall perform such functions so as to respect and implement those obligations fully. The head of each agency shall designate a single contact officer who will be responsible for overall coordination of the implementation of this order. Under this order, all such agencies shall retain their established institutional roles in the implementation, interpretation, and enforcement of Federal law and policy.
+Sec. 2. <i>Responsibility of Executive Departments and Agencies</i>. (a) All executive departments and agencies (asdefined in 5 U.S.C. 101–105, including boards and commissions, and hereinafter referred to collectively as “agency” or “agencies”) shall maintain a current awareness of United States international human rights obligations that are relevant to their functions and shall perform such functions so as to respect and implement those obligations fully. The head of each agency shall designate a single contact officer who will be responsible for overall coordination of the implementation of this order. Under this order, all such agencies shall retain their established institutional roles in the implementation, interpretation, and enforcement of Federal law and policy.
 
 (b) The heads of agencies shall have lead responsibility, in coordination with other appropriate agencies, for questions concerning implementation of human rights obligations that fall within their respective operating and program responsibilities and authorities or, to the extent that matters do not fall within the operating and program responsibilities and authorities of any agency, that most closely relate to their general areas of concern.
 
@@ -838,7 +838,7 @@ To ensure the use of plain language, I direct you to do the following:
 
 &emsp;• By January 1, 1999, use plain language in all proposed and final rulemaking documents published in the Federal Register, unless you proposed the rule before that date. You should consider rewriting existing regulations in plain language when you have the opportunity and resources to do so.
 
-The National Partnership for Reinventing Government will issue guidance to help you comply with thesedirectives and to explain more fully the elements of plain language. You should also use customer feedback and common sense to guide your plain language efforts.
+The National Partnership for Reinventing Government will issue guidance to help you comply with these directives and to explain more fully the elements of plain language. You should also use customer feedback and common sense to guide your plain language efforts.
 
 I ask the independent agencies to comply with these directives.
 

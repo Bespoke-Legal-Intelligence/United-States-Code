@@ -36,7 +36,7 @@ Purposes of conveners.—An agency may use the services of a convener to assist 
 
 &emsp;(2)
 
-Duties of conveners.—The convener shall report findings and may make recommendations to the agency. Upon request of the agency, the convener shall ascertain the names of persons who are willing and qualified to represent interests that will be significantly affected by the proposed rule, including residents of rural areas. The report and any recommendations of the convener shall be made available to the public upon request.
+Duties of conveners.—The convener shall report findings and may make recommendations to the agency. Upon request of the agency, the convener shall ascertain the names of persons who are willing and qualified to represent interests that will be significantly affected by the proposed rule, including residents of rural areas. The report and anyrecommendations of the convener shall be made available to the public upon request.
 
 (Added Pub. L. 101–648, §3(a), Nov. 29, 1990, 104 Stat. 4970, §583; renumbered §563, Pub. L. 102–354, §3(a)(2), Aug. 26, 1992, 106 Stat. 944.)
 

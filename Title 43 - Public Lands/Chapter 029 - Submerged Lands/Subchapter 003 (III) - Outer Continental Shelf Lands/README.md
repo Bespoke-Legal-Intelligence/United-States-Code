@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—OUTER CONTINENTAL SHELF LANDS
 
-#### Cross References
-
-Fair Labor Standards Act of 1938, applicability of, see section 213 of Title 29, Labor.
-
 #### Subchapter Referred to in Other Sections
 
 This subchapter is referred to in sections 156, 1842, 1863, 1864, 1866 of this title; title 16 sections 460<i>l–</i>5; 470h, 471i, 1456; title 29 sections 213, 402, 630, 653, 1002; title 30 sections 1702, 1721, 1721a; title 33 sections 941, 1321, 1503, 2701; title 41 section 357; title 42 sections 2000e, 7627, 9611, 13211.
@@ -40,3 +36,4 @@ This subchapter is referred to in sections 156, 1842, 1863, 1864, 1866 of this t
 - [&sect; 01354 - Limitations on export of oil or gas](%C2%A7%2001354%20-%20Limitations%20on%20export%20of%20oil%20or%20gas.md)
 - [&sect; 01355 - Restrictions on employment of former officers or employees of Department of the Interior](%C2%A7%2001355%20-%20Restrictions%20on%20employment%20of%20former%20officers%20or%20employees%20of%20Department%20of%20the%20Interior.md)
 - [&sect; 01356 - Documentary, registry and manning requirements](%C2%A7%2001356%20-%20Documentary%2C%20registry%20and%20manning%20requirements.md)
+- [&sect; 01356a - Coastal impact assistance](%C2%A7%2001356a%20-%20Coastal%20impact%20assistance.md)

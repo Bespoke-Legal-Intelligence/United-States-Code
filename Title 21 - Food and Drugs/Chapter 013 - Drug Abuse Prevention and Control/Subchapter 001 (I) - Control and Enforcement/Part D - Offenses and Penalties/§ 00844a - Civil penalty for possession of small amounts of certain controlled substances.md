@@ -18,7 +18,7 @@ A civil penalty may not be assessed on an individual under this section on more 
 
 #### (e) Assessment
 
-A civil penalty under this section may be assessed by the Attorney General only by an ordermade on the record after opportunity for a hearing in accordance with section 554 of title 5. The Attorney General shall provide written notice to the individual who is the subject of the proposed order informing the individual of the opportunity to receive such a hearing with respect to the proposed order. The hearing may be held only if the individual makes a request for the hearing before the expiration of the 30-day period beginning on the date such notice is issued.
+A civil penalty under this section may be assessed by the Attorney General only by an order made on the record after opportunity for a hearing in accordance with section 554 of title 5. The Attorney General shall provide written notice to the individual who is the subject of the proposed order informing the individual of the opportunity to receive such a hearing with respect to the proposed order. The hearing may be held only if the individual makes a request for the hearing before the expiration of the 30-day period beginning on the date such notice is issued.
 
 #### (f) Compromise
 

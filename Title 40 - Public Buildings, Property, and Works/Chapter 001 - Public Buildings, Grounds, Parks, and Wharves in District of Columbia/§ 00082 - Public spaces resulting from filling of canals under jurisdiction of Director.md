@@ -6,8 +6,6 @@ All public spaces resulting from the filling of canals in the original city of W
 
 #### Codification
 
-Section is also set out in D.C. Code, §8–139.
-
 Section is based on Sundry Civil Appropriation Act Aug. 1, 1914, fiscal year 1915.
 
 #### Transfer of Functions

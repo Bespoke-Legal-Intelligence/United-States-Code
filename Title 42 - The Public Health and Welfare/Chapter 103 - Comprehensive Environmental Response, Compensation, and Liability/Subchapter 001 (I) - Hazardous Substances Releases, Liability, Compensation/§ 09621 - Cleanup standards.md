@@ -6,7 +6,7 @@ The President shall select appropriate remedial actions determined to be necessa
 
 #### (b) General rules
 
-(1) Remedial actions in which treatment which permanently and significantly reduces the volume, toxicity or mobility of the hazardous substances, pollutants, and contaminants is a principal element, are to be preferred over remedialactions not involving such treatment. The offsite transport and disposal of hazardous substances or contaminated materials without such treatment should be the least favored alternative remedial action where practicable treatment technologies are available. The President shall conduct an assessment of permanent solutions and alternative treatment technologies or resource recovery technologies that, in whole or in part, will result in a permanent and significant decrease in the toxicity, mobility, or volume of the hazardous substance, pollutant, or contaminant. In making such assessment, the President shall specifically address the long-term effectiveness of various alternatives. In assessing alternative remedial actions, the President shall, at a minimum, take into account:
+(1) Remedial actions in which treatment which permanently and significantly reduces the volume, toxicity or mobility of the hazardous substances, pollutants, and contaminants is a principal element, are to be preferred over remedial actions not involving such treatment. The offsite transport and disposal of hazardous substances or contaminated materials without such treatment should be the least favored alternative remedial action where practicable treatment technologies are available. The President shall conduct an assessment of permanent solutions and alternative treatment technologies or resource recovery technologies that, in whole or in part, will result in a permanent and significant decrease in the toxicity, mobility, or volume of the hazardous substance, pollutant, or contaminant. In making such assessment, the President shall specifically address the long-term effectiveness of various alternatives. In assessing alternative remedial actions, the President shall, at a minimum, take into account:
 
 &emsp;(A) the long-term uncertainties associated with land disposal;
 
@@ -136,9 +136,9 @@ If the President selects a remedial action that results in any hazardous substan
 
 (C) The President may conclude settlement negotiations with potentially responsible parties without State concurrence.
 
-(3)(A) This paragraph shall apply to remedial actions at facilities owned or operated by a department, agency, or instrumentality of the United States. At least 30 days prior to the publication of the President's final remedial actionplan, if the President proposes to select a remedial action that does not attain a legally applicable or relevant and appropriate standard, requirement, criteria, or limitation, under the authority of subsection (d)(4) of this section, the President shall provide an opportunity for the State to concur or not concur in such selection. If the State concurs, or does not act within 30 days, the remedial action may proceed.
+(3)(A) This paragraph shall apply to remedial actions at facilities owned or operated by a department, agency, or instrumentality of the United States. At least 30 days prior to the publication of the President's final remedial action plan, if the President proposes to select a remedial action that does not attain a legally applicable or relevant and appropriate standard, requirement, criteria, or limitation, under the authority of subsection (d)(4) of this section, the President shall provide an opportunity for the State to concur or not concur in such selection. If the State concurs, or does not act within 30 days, the remedial action may proceed.
 
-(B) If the State does not concur in such selection as provided in subparagraph (A), and desires to have the remedial action conform to such standard, requirement, criteria, or limitation, the State may maintain an action as follows:
+(B) If the State does not concur in such selection as provided in subparagraph (A), and desiresto have the remedial action conform to such standard, requirement, criteria, or limitation, the State may maintain an action as follows:
 
 &emsp;(i) If the President has notified the State of selection of such a remedial action, the State may bring an action within 30 days of such notification for the sole purpose of determining whether the finding of the President is supported by substantial evidence. Such action shall be brought in the United States district court for the district in which the facility is located.
 
@@ -174,7 +174,11 @@ Section 121(b) of Pub. L. 99–499 provided that: “With respect to section 121
 
 > Any ROD signed before enactment of this Act \[Oct. 17, 1986\] and reopened after enactment of this Act to modify or supplement the selection of remedy shall be subject to the requirements of section 121 of CERCLA.”
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the report under subsec. (c) of this section appears to be the report listed as the 15th item on page 20), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 9604, 9613, 9617, 9620, 9651 of this title.
+This section is referred to in sections 9604, 9613, 9617, 9620 of this title.
 

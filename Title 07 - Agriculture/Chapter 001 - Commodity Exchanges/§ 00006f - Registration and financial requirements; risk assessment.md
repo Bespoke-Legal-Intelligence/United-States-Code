@@ -2,11 +2,59 @@
 
 #### (a) Registration of futures commission merchants, introducing brokers, and floor brokers and traders
 
-Any person desiring to register as a futures commission merchant, introducing broker, floor broker, or floor trader hereunder shall be registered upon application to the Commission. The application shall be made in such form and manner as prescribed by the Commission, giving such information and facts as the Commission may deem necessary concerning the business in which the applicant is or will be engaged, including in the case of an application of a futures commission merchant or an introducing broker, the names and addresses of the managers of all branch offices, and the names of such officers and partners, if a partnership, and of such officers, directors, and stockholders, if a corporation, as the Commission may direct. Such person, when registered hereunder, shall likewise continue to report and furnish to the Commission the above-mentioned information and such other information pertaining to such person's business as the Commission may require. Each registration shall expire on December 31 of the year for which issued or at such other time, not less than one year from the date of issuance, as the Commission may by rule, regulation, or order prescribe, and shall be renewed upon application therefor unless the registration has been suspended (and the period of such suspension has not expired) or revoked pursuant to the provisions of this chapter.
+(1) Any person desiring to register as a futures commission merchant, introducing broker, floorbroker, or floor trader hereunder shall be registered upon application to the Commission. The application shall be made in such form and manner as prescribed by the Commission, giving such information and facts as the Commission may deem necessary concerning the business in which the applicant is or will be engaged, including in the case of an application of a futures commission merchant or an introducing broker, the names and addresses of the managers of all branch offices, and the names of such officers and partners, if a partnership, and of such officers, directors, and stockholders, if a corporation, as the Commission may direct. Such person, when registered hereunder, shall likewise continue to report and furnish to the Commission the above-mentioned information and such other information pertaining to such person's business as the Commission may require. Each registration shall expire on December 31 of the year for which issued or at such other time, not less than one year from the date of issuance, as the Commission may by rule, regulation, or order prescribe, and shall be renewed upon application therefor unless the registration has been suspended (and the period of such suspension has not expired) or revoked pursuant to the provisions of this chapter.
+
+(2) Notwithstanding paragraph (1), and except as provided in paragraph (3), any broker or dealer that is registered with the Securities and Exchange Commission shall be registered as a futures commission merchant or introducing broker, as applicable, if—
+
+&emsp;(A) the broker or dealer limits its solicitation of orders, acceptance of orders, or execution of orders, or placing of orders on behalf of others involving any contracts of sale of any commodity for future delivery, on or subject to the rules of any contract market or registered derivatives transaction execution facility to security futures products;
+
+&emsp;(B) the broker or dealer files written notice with the Commission in such form as the Commission, by rule, may prescribe containing such information as the Commission, by rule, may prescribe as necessary or appropriate in the public interest or for the protection of investors;
+
+&emsp;(C) the registration of the broker or dealer is not suspended pursuant to an order of the Securities and Exchange Commission; and
+
+&emsp;(D) the broker or dealer is a member of a national securities association registered pursuant to section 78<i>o</i>–3(a) of title 15.
+
+> The registration shall be effective contemporaneously with the submission of notice, in written or electronic form, to the Commission.
+
+(3) A floor broker or floor trader shall be exempt from the registration requirements of section 6e of this title and paragraph (1) of this subsection if—
+
+&emsp;(A) the floor broker or floor trader is a broker or dealer registered with the Securities and Exchange Commission;
+
+&emsp;(B) the floor broker or floor trader limits its solicitation of orders, acceptance of orders, or execution of orders, or placing of orders on behalf of others involving any contracts of sale of any commodity for future delivery, on or subject to the rules of any contract market to security futures products; and
+
+&emsp;(C) the registration of the floor broker or floor trader is not suspended pursuant to an order of the Securities and Exchange Commission.
+
+(4)(A) A broker or dealer that is registered as a futures commission merchant or introducing broker pursuant to paragraph (2), or that is a floor broker or floor trader exempt from registration pursuant to paragraph (3), shall be exempt from the following provisions of this chapter and the rules thereunder:
+
+&emsp;(i) Subsections (b), (d), (e), and (g) of section 6c of this title.
+
+&emsp;(ii) Sections 6d, 6e, and 6h of this title.
+
+&emsp;(iii) Subsections (b) and (c) of this section.
+
+&emsp;(iv) Section 6j of this title.
+
+&emsp;(v) Section 6k(1) of this title.
+
+&emsp;(vi) Section 6p <sup>1</sup> of this title.
+
+&emsp;(vii) Section 13a–2 of this title.
+
+&emsp;(viii) Subsections (d) and (g) of section 12 of this title.
+
+&emsp;(ix) Section 20 of this title.
+
+(B)(i) Except as provided in clause (ii) of this subparagraph, but notwithstanding any other provision of this chapter, the Commission, by rule, regulation, or order, may conditionally or unconditionally exempt any broker or dealer subject to the registration requirement of paragraph (2), or any broker or dealer exempt from registration pursuant to paragraph (3), from any provision of this chapter or of any rule or regulation thereunder, to the extent the exemption is necessary or appropriate in the public interest and is consistent with the protection of investors.
+
+(ii) The Commission shall, by rule or regulation, determine the procedures under which an exemptive order under this section shall be granted and may, in its sole discretion, decline to entertain any application for an order of exemption under this section.
+
+(C)(i) A broker or dealer that is registered as a futures commission merchant or introducing broker pursuant to paragraph (2) or an associated person thereof, or that is a floor broker or floor trader exempt from registration pursuant to paragraph (3), shall not be required to become a member of any futures association registered under section 21 of this title.
+
+(ii) No futures association registered under section 21 of this title shall limit its members from carrying an account, accepting an order, or transacting business with a broker or dealer that is registered as a futures commission merchant or introducing broker pursuant to paragraph (2) or an associated person thereof, or that is a floor broker or floor trader exempt from registration pursuant to paragraph (3).
 
 #### (b) Financial requirements for futures commission merchants and introducing brokers
 
-Notwithstanding any other provisions of this chapter, no person desiring to register as futures commission merchant or as introducing broker shall be so registered unless he meets such minimum financial requirements as the Commission may by regulation prescribe as necessary to insure his meeting his obligation as a registrant, and each person so registered shall at all timescontinue to meet such prescribed minimum financial requirements: <i>Provided</i>, That such minimum financial requirements will be considered met if the applicant for registration or registrant is a member of a contract market and conforms to minimum financial standards and related reporting requirements set by such contract market in its bylaws, rules, regulations, or resolutions and approved by the Commission as adequate to effectuate the purposes of this subsection.
+Notwithstanding any other provisions of this chapter, no person desiring to register as futures commission merchant or as introducing broker shall be so registered unless he meets such minimum financial requirements as the Commission may by regulation prescribe as necessary to insure his meeting his obligation as a registrant,and each person so registered shall at all times continue to meet such prescribed minimum financial requirements: <i>Provided</i>, That such minimum financial requirements will be considered met if the applicant for registration or registrant is a member of a contract market or derivatives transaction execution facility and conforms to minimum financial standards and related reporting requirements set by such contract market or derivatives transaction execution facility in its bylaws, rules, regulations, or resolutions and approved by the Commission as adequate to effectuate the purposes of this subsection.
 
 #### (c) Risk assessment for holding company systems
 
@@ -22,13 +70,13 @@ Notwithstanding any other provisions of this chapter, no person desiring to regi
 
 (C) The Commission, by rule or regulation, may require summary reports of such information to be filed by the futures commission merchant with the Commission no more frequently than quarterly.
 
-(3)(A),<sup>1</sup> If, as a result of adverse market conditions or based on reports provided to the Commission pursuant to paragraph (2) or other available information, the Commission reasonably concludes that the Commission has concerns regarding the financial or operational condition of any registered futures commission merchant, the Commission may require the futures commission merchant to make reports concerning the futures and other financial activities of any of such person's affiliated persons, other than a natural person, whose business activities are reasonably likely to have a material impact on the financial or operational condition of the futures commission merchant.
+(3)(A),<sup>2</sup> If, as a result of adverse market conditions or based on reports provided to the Commission pursuant to paragraph (2) or other available information, the Commission reasonably concludes that the Commission has concerns regarding the financial or operational condition of any registered futures commission merchant, the Commission may require the futures commission merchant to make reports concerning the futures and other financial activities of any of such person's affiliated persons, other than a natural person, whose business activities are reasonably likely to have a material impact on the financial or operational condition of the futures commission merchant.
 
-(B) The Commission, in requiring reports pursuant to this paragraph, shall specify the information required, the period for which it is required, the time and date on which the information must be furnished, and whether the information is to be furnished directly to the Commission or to a contract market or other self-regulatory organization with primary responsibility for examining the registered futures commission merchant's financial and operational condition.
+(B) The Commission, in requiring reports pursuant to this paragraph, shall specify the information required, the period for which it is required, the time and date on which the information must be furnished, and whether the information is to be furnished directly to the Commission or to a contract market or derivatives transaction execution facility or other self-regulatory organization with primary responsibility for examining the registered futures commission merchant's financial and operational condition.
 
-(4)(A) in <sup>2</sup> developing and implementing reporting requirements pursuant to paragraph (2) with respect to affiliated persons subject to examination by or reporting requirements of a Federal banking agency, the Commission shall consult with and consider the views of each such Federal banking agency. If a Federal banking agency comments in writing on a proposed rule of the Commission under this subsection that has been published for comment, the Commission shall respond in writing to the written comment before adopting the proposed rule. The Commission shall, at the request of the Federal banking agency, publish the comment and response in the Federal Register at the time of publishing the adopted rule.
+(4)(A) in <sup>3</sup> developing and implementing reporting requirements pursuant to paragraph (2) with respect to affiliated persons subject to examination by or reporting requirements of a Federal banking agency, the Commission shall consult with and consider the views of each such Federal banking agency. If a Federal banking agency comments in writing on a proposed rule of the Commission under this subsection that has been published for comment, the Commission shall respond in writing to the written comment before adopting the proposed rule. The Commission shall, at the request of the Federal banking agency, publish the comment and response in the Federal Register at the time of publishing the adopted rule.
 
-(B)(i) Except as provided in clause (ii), a registered futures commission merchant shall be considered to have compiled <sup>3</sup> with a recordkeeping or reporting requirement adopted pursuant to paragraph (2) concerning an affiliated person that is subject to examination by, or reporting requirements of, a Federal banking agency if the futures commission merchant utilizes for the recordkeeping or reporting requirement copies of reports filed by the affiliated person with the Federal banking agency pursuant to section 161 of title 12, section 9 of the Federal Reserve Act (12 U.S.C. 321 et seq.), section 1817(a) of title 12, section 1467a(b) of title 12, or section 1844 of title 12.
+(B)(i) Except as provided in clause (ii), a registered futures commission merchant shall be considered to have compiled <sup>4</sup> with a recordkeeping or reporting requirement adopted pursuant to paragraph (2) concerning an affiliated person that is subject to examination by, or reporting requirements of, a Federal banking agency if the futures commission merchant utilizes for the recordkeeping or reporting requirement copies of reports filed by the affiliated person with the Federal banking agency pursuant to section 161 of title 12, section 9 of the Federal Reserve Act (12 U.S.C. 321 et seq.), section 1817(a) of title 12, section 1467a(b) of title 12, or section 1844 of title 12.
 
 (ii) The Commission may, by rule adopted pursuant to paragraph (2), require any futures commission merchant filing the reports with the Commission to obtain, maintain, or report supplemental information if the Commission makes an explicit finding that the supplemental information is necessary to inform the Commission regarding potential risks to the futures commission merchant. Prior to requiring any such supplemental information, the Commission shall first request the Federal banking agency to expand its reporting requirements to include the information.
 
@@ -36,9 +84,9 @@ Notwithstanding any other provisions of this chapter, no person desiring to regi
 
 &emsp;(A) notify the agency of the information required with respect to the affiliated person; and
 
-&emsp;(B) consult with the agency to determine whether the information required is available from the agency and for other purposes, unless the Commission determines that any delay resulting from the consultation would be inconsistent with ensuring the financial and operational condition of the futures commission merchant or the stability or integrity of the futures markets.
+&emsp;(B) consult with the agency to determine whether the information required is available from the agency and for other purposes, unless the Commission determines that any delay resulting from the consultation would be inconsistent with ensuring the financial and operational condition of the futures commissionmerchant or the stability or integrity of the futures markets.
 
-(6) Nothing in this subsection shall be construed to permit the Commission to require anyfutures commission merchant to obtain, maintain, or furnish any examination report of any Federal banking agency or any supervisory recommendations or analysis contained in the report.
+(6) Nothing in this subsection shall be construed to permit the Commission to require any futures commission merchant to obtain, maintain, or furnish any examination report of any Federal banking agency or any supervisory recommendations or analysis contained in the report.
 
 (7) No information provided to or obtained by the Commission from any Federal banking agency pursuant to a request under paragraph (5) regarding any affiliated person that is subject to examination by or reporting requirements of a Federal banking agency may be disclosed to any other person (other than as provided in section 12 of this title or section 12a(6) of this title), without the prior written approval of the Federal banking agency.
 
@@ -60,13 +108,21 @@ Notwithstanding any other provisions of this chapter, no person desiring to regi
 
 (11) Nothing in paragraphs (1) through (10) shall be construed to supersede or to limit in any way the authority or powers of the Commission pursuant to any other provision of this chapter or regulations issued under this chapter.
 
-(Sept. 21, 1922, ch. 369, §4f, as added June 15, 1936, ch. 545, §5, 49 Stat. 1495; amended Pub. L. 90–258, §7, Feb. 19, 1968, 82 Stat. 28; Pub. L. 93–463, title I, §103(a), Oct. 23, 1974, 88 Stat. 1392; Pub. L. 95–405, §5, Sept. 30, 1978, 92 Stat. 869; Pub. L. 97–444, title II, §208, Jan. 11, 1983, 96 Stat. 2302; Pub. L. 102–546, title II, §§207(b)(1), 229, Oct. 28, 1992, 106 Stat. 3604, 3619.)
+(Sept. 21, 1922, ch. 369, §4f, as added June 15, 1936, ch. 545, §5, 49 Stat. 1495; amended Pub. L. 90–258, §7, Feb. 19, 1968, 82 Stat. 28; Pub. L. 93–463, title I, §103(a), Oct. 23, 1974, 88 Stat. 1392; Pub. L. 95–405, §5, Sept. 30, 1978, 92 Stat. 869; Pub. L. 97–444, title II, §208, Jan. 11, 1983, 96 Stat. 2302; Pub. L. 102–546, title II, §§207(b)(1), 229, Oct. 28, 1992, 106 Stat. 3604, 3619; Pub. L. 106–554, §1(a)(5) \[title I, §123(a)(6), title II, §252(b), (c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–407, 2763A–447.)
 
 #### References in Text
+
+Section 6p of this title, referred to in subsec. (a)(4)(A)(vi), was in the original “Section 4p” which was translated as meaning the section 4p of the Commodity Exchange Act which is classified to section 6p of this title, rather than to the section 4p of that Act which is classified to section 6<i>o</i>–1 of this title, to reflect the probable intent of Congress.
 
 Section 9 of the Federal Reserve Act, referred to in subsec. (c)(4)(B)(i), is section 9 of act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, which is classified generally to subchapter VIII (§321 et seq.) of chapter 3 of Title 12, Banks and Banking.
 
 #### Amendments
+
+2000—Subsec. (a). Pub. L. 106–554, §1(a)(5) \[title II, §252(b)\], designated existing provisions as par. (1) and added pars. (2) and (3).
+
+Subsec. (a)(4). Pub. L. 106–554, §1(a)(5) \[title II, §252(c)\], added par. (4).
+
+Subsecs. (b), (c)(3)(B). Pub. L. 106–554, §1(a)(5) \[title I, §123(a)(6)\], inserted “or derivatives transaction execution facility” after “contract market” wherever appearing.
 
 1992—Subsec. (a). Pub. L. 102–546, §§207(b)(1), 229(1), redesignated par. (1) as subsec. (a) and substituted “floor broker, or floor trader” for “or floor broker”.
 
@@ -110,13 +166,15 @@ Amendment by Pub. L. 90–258 effective 120 days after Feb. 19, 1968, see sectio
 
 For effective date of section, see section 13 of act June 15, 1936, set out as an Effective Date of 1936 Amendment note under section 1 of this title.
 
-#### Cross References
+#### Section Referred to in Other Sections
 
-Punishment for violating the provisions of this section, see section 13 of this title.
+This section is referred to in sections 2, 6d, 6k, 7a–2, 9c, 12, 13a–1, 21 of this title; title 15 sections 78f, 78<i>o</i>, 78<i>o</i>–3.
 
-<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be capitalized.</i>
+<i><sup>2</sup></i><i> So in original. The comma probably should not appear.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “complied”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be capitalized.</i>
+
+<i><sup>4</sup></i><i> So in original. Probably should be “complied”.</i>
 

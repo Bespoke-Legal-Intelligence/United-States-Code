@@ -64,7 +64,7 @@ Rule 54 of the Federal Rules of Criminal Procedure, referred to in subsec. (f)(2
 
 #### Amendments
 
-1999—Subsec. (b)(1). Pub. L. 106–113, §1000(a)(1) \[title I, §121(a)\], inserted “to the Cyber Tip Line at the National Center for Missing and Exploited Children, which shall forward that report” after “such facts or circumstances”.
+1999—Subsec. (b)(1). Pub. L. 106–113, §1000(a)(1) \[title I, §121(a)\], inserted “to the Cyber Tip Line at the National Center for Missing and Exploited Children,which shall forward that report” after “such facts or circumstances”.
 
 Subsec. (b)(2). Pub. L. 106–113, §1000(a)(1) \[title I, §121(b)\], substituted “forwarded” for “made”.
 

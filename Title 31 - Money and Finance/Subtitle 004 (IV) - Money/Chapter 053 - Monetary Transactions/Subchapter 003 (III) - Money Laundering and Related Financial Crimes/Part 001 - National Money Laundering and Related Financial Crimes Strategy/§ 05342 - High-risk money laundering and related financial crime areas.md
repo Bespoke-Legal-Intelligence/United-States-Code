@@ -34,7 +34,7 @@ Designation by secretary.—The Secretary, after taking into consideration the f
 
 &emsp;(2)
 
-Case-by-case determination in consultation with the attorney general.—Inaddition to the factors specified in subsection (d), any designation of any area under paragraph (1) shall be made on the basis of a determination by the Secretary, in consultation with the Attorney General, that the particular area, industry, sector, or institution is being victimized by, or is particularly vulnerable to, money laundering and related financial crimes.
+Case-by-case determination in consultation with the attorney general.—In addition to the factors specified in subsection (d), any designation of any area under paragraph (1) shall be made on the basis of a determination by the Secretary, in consultation with the Attorney General, that the particular area, industry, sector, or institution is being victimized by, or is particularly vulnerable to, money laundering and related financial crimes.
 
 &emsp;(3)
 
@@ -58,7 +58,7 @@ Factors.—In considering the designation of any area as a high-risk money laund
 
 &emsp;(5) Whether the area is an international center for banking or commerce.
 
-&emsp;(6) The extent to which financial crimes and financial crime-related activities in such area are having a harmful impact in other areas of the country.
+&emsp;(6) The extent to which financial crimes and financial crime-related activities in such areaare having a harmful impact in other areas of the country.
 
 &emsp;(7) The number or nature of requests for information or analytical assistance which—
 
@@ -88,7 +88,7 @@ Factors.—In considering the designation of any area as a high-risk money laund
 
 #### Report and Recommendations
 
-Pub. L. 105–310, §2(c), Oct. 30, 1998, 112 Stat. 2949, provided that: “Before the end of the 5-year period beginning on the date the first national strategy for combating money laundering and related financial crimes is submitted to the Congress pursuant to section 5341(a)(1) of title 31, United States Code (as added by section 2(a) of this Act), the Secretary of the Treasury, in consultation with the Attorney General, shall submit a report to the Committee on Banking and Financial Services and the Committee on the Judiciary of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs and the Committee on the Judiciary of the Senate on the effectiveness of and the need for the designation of areas, under section 5342 of title 31, United States Code (as added by such section 2(a)), as high-risk money laundering and related financial crime areas, together with recommendations for such legislation as the Secretary and the Attorney General may determine to be appropriate to carry out the purposes of such section.”
+Pub. L. 105–310, §2(c), Oct. 30, 1998, 112 Stat. 2949, provided that: “Before the end of the 5-year period beginning on the date the first national strategy for combating money laundering and related financial crimes is submitted to the Congress pursuant to section 5341(a)(1) of title 31, United States Code (as added by section 2(a) of this Act), the Secretary of the Treasury, in consultation with the Attorney General, shall submit a report to the Committee on Banking and Financial Services \[now Committee on Financial Services\] and the Committee on the Judiciary of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs and the Committee on the Judiciary of the Senate on the effectiveness of and the need for the designation of areas, under section 5342 of title 31, United States Code (as added by such section 2(a)), as high-risk money laundering and related financial crime areas, together with recommendations for such legislation as the Secretary and the Attorney General may determine to be appropriate to carry out the purposes of such section.”
 
 #### Section Referred to in Other Sections
 

@@ -1,0 +1,120 @@
+### §3205. Garnishment
+
+(a)
+
+In General.—A court may issue a writ of garnishment against property (including nonexempt disposable earnings) in which the debtor has a substantial nonexempt interest and which is in the possession, custody, or control of a person other than the debtor, in order to satisfy the judgment against the debtor. Co-owned property shall be subject to garnishment to the same extent as co-owned property is subject to garnishment under the law of the State in which such property is located. A court may issue simultaneous separate writs of garnishment to several garnishees. A writ of garnishment issued under this subsection shall be continuing and shall terminate only as provided in subsection (c)(10).
+
+(b)
+
+Writ.—
+
+&emsp;(1)
+
+General requirements.—The United States shall include in its application for a writ of garnishment—
+
+&emsp;&emsp;(A) the judgment debtor's name, social security number (if known), and last known address;
+
+&emsp;&emsp;(B) the nature and amount of the debt owed and the facts that not less than 30 days has elapsed since demand on the debtor for payment of the debt was made and the judgment debtor has not paid the amount due; and
+
+&emsp;&emsp;(C) that the garnishee is believed to have possession of property (including nonexempt disposable earnings) in which the debtor has a substantial nonexempt interest.
+
+&emsp;(2)
+
+Proper garnishee for particular property.—
+
+&emsp;&emsp;(A) If the property consists of a right to or share in the stock of an association or corporation, or interests or profits therein, for which a certificate of stock or other negotiable instrument is not outstanding, the corporation, or the president or treasurer of the association shall be the garnishee.
+
+&emsp;&emsp;(B) If the property consists of an interest in a partnership interest, any partner other than the debtor shall be the garnishee on behalf of the partnership.
+
+&emsp;&emsp;(C) If the property or a debt is evidenced by a negotiable instrument for the payment of money, a negotiable document of title or a certificate of stock of an association or corporation, the instrument, document, or certificate shall be treated as property capable of delivery and the person holding it shall be the garnishee, except that—
+
+&emsp;&emsp;&emsp;(i) subject to clause (ii), in the case of a security which is transferable in the manner set forth in State law, the entity that carries on its books an account in the name of the debtor in which is reflected such security shall be the garnishee; and
+
+&emsp;&emsp;&emsp;(ii) notwithstanding clause (i), the pledgee shall be the garnishee if such security is pledged.
+
+(c)
+
+Procedures Applicable to Writ.—
+
+&emsp;(1)
+
+Court determination.—If the court determines that the requirements of this section are satisfied, the court shall issue an appropriate writ of garnishment.
+
+&emsp;(2)
+
+Form of writ.—The writ shall state—
+
+&emsp;&emsp;(A) The nature and amount of the debt, and any cost and interest owed with respect to the debt.
+
+&emsp;&emsp;(B) The name and address of the garnishee.
+
+&emsp;&emsp;(C) The name and address of counsel for the United States.
+
+&emsp;&emsp;(D) The last known address of the judgment debtor.
+
+&emsp;&emsp;(E) That the garnishee shall answer the writ within 10 days of service of the writ.
+
+&emsp;&emsp;(F) That the garnishee shall withhold and retain any property in which the debtor has a substantial nonexempt interest and for which the garnishee is or may become indebted to the judgment debtor pending further order of the court.
+
+&emsp;(3)
+
+Service of writ.—The United States shall serve the garnishee and the judgment debtor with a copy of the writ of garnishment and shall certify to the court that this service was made. The writ shall be accompanied by—
+
+&emsp;&emsp;(A) an instruction explaining the requirement that the garnishee submit a written answer to the writ; and
+
+&emsp;&emsp;(B) instructions to the judgment debtor for objecting to the answer of the garnishee and for obtaining a hearing on the objections.
+
+&emsp;(4)
+
+Answer of the garnishee.—In its written answer to the writ of garnishment, the garnishee shall state under oath—
+
+&emsp;&emsp;(A) whether the garnishee has custody, control or possession of such property;
+
+&emsp;&emsp;(B) a description of such property and the value of such interest;
+
+&emsp;&emsp;(C) a description of any previous garnishments to which such property is subject and the extent to which any remaining property is not exempt; and
+
+&emsp;&emsp;(D) the amount of the debt the garnishee anticipates owing to the judgment debtor in the future and whether the period for payment will be weekly or another specified period.
+
+> &emsp;The garnishee shall file the original answer with the court issuing the writ and serve a copy on the debtor and counsel for the United States.
+
+&emsp;(5)
+
+Objections to answer.—Within 20 days after receipt of the answer, the judgment debtor or the United States may file a written objection to the answer and request a hearing. The party objecting shall state the grounds for the objection and bear the burden of proving such grounds. A copy of the objection and request for a hearing shall be served on the garnishee and all other parties. The court shall hold a hearing within 10 days after the date the request is received by the court, or as soon thereafter as is practicable, and give notice of the hearing date to all the parties.
+
+&emsp;(6)
+
+Garnishee's failure to answer or pay.—If a garnishee fails to answer the writ of garnishment or to withhold property in accordance with the writ, the United States may petition the court for an order requiring the garnishee to appear before the court to answer the writ and to so withhold property before the appearance date. If the garnishee fails to appear, or appears and fails to show good cause why the garnishee failed to comply with the writ, the court shall enter judgment against the garnishee for the value of the judgment debtor's nonexempt interest in such property (including nonexempt disposable earnings). The court may award a reasonable attorney's fee to the United States and against the garnishee if the writ is not answered within the time specified therein and a petition requiring the garnishee to appear is filed as provided in this section.
+
+&emsp;(7)
+
+Disposition order.—After the garnishee files an answer and if no hearing is requested within the required time period, the court shall promptly enter an order directing the garnishee as to the disposition of the judgment debtor's nonexempt interest in such property. If a hearing is timely requested, the order shall be entered within 5 days after the hearing, or as soon thereafter as is practicable.
+
+&emsp;(8)
+
+Priorities.—Judicial orders and garnishments for the support of a person shall havepriority over a writ of garnishment issued under this section. As to any other writ of garnishment or levy, a garnishment issued under this section shall have priority over writs which are issued later in time.
+
+&emsp;(9)
+
+Accounting.—(A) While a writ of garnishment is in effect under this section, the United States shall give an annual accounting on the garnishment to the judgment debtor and the garnishee.
+
+&emsp;(B) Within 10 days after the garnishment terminates, the United States shall give a cumulative written accounting to the judgment debtor and garnishee of all property it receives under a writ of garnishment. Within 10 days after such accounting is received, the judgment debtor or garnishee may file a written objection to the accounting and a request for hearing. The party objecting shall state grounds for the objection. The court shall hold a hearing on the objection within 10 days after the court receives the request for a hearing, or as soon thereafter as is practicable.
+
+&emsp;(10)
+
+Termination of garnishment.—A garnishment under this chapter is terminated only by—
+
+&emsp;&emsp;(A) a court order quashing the writ of garnishment;
+
+&emsp;&emsp;(B) exhaustion of property in the possesion,<sup>1</sup> custody, or control of the garnishee in which the debtor has a substantial nonexempt interest (including nonexempt disposable earnings), unless the garnishee reinstates or reemploys the judgment debtor within 90 days after the judgment debtor's dismissal or resignation; or
+
+&emsp;&emsp;(C) satisfaction of the debt with respect to which the writ is issued.
+
+(Added Pub. L. 101–647, title XXXVI, §3611, Nov. 29, 1990, 104 Stat. 4956.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 3002, 3104 of this title; title 8 section 1183a.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “possession,”.</i>
+

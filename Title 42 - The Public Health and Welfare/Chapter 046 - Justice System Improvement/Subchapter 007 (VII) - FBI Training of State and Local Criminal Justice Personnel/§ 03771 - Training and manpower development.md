@@ -74,9 +74,11 @@ Section effective Oct. 12, 1984, see section 609AA(a) of Pub. L. 98–473, set o
 
 #### Annual Outstanding Student Award
 
-Pub. L. 106–58, title I, Sept. 29, 1999, 113 Stat. 432, provided in part: “That the \[Federal Law Enforcement Training\] Center is authorized to accept and use gifts of property, both real and personal, and to accept services, for authorized purposes, including funding of a gift of intrinsic value which shall be awarded annually by the Director of the Center to the outstanding student who graduated from a basic training program at the Center during the previous fiscal year, which shall be funded only by gifts received through the Center's gift authority”.
+Pub. L. 106–554, §1(a)(3) \[title I\], Dec. 21, 2000, 114 Stat. 2763, 2763A–127, provided in part: “That the \[Federal Law Enforcement Training\] Center is authorized to accept and use gifts of property, both real and personal, and to accept services, for authorized purposes, including funding of a gift of intrinsic value which shall be awarded annually by the Director of the Center to the outstanding student who graduated from a basic training program at the Center during the previous fiscal year, which shall be funded only by gifts received through the Center's gift authority”.
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 106–58, title I, Sept. 29, 1999, 113 Stat. 432.
 
 Pub. L. 105–277, div. A, §101(h) \[title I\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–483.
 

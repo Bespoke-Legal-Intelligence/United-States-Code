@@ -9,20 +9,38 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER II—DISASTER PREPAREDNESS ASSISTANCE
+#### SUBCHAPTER II—DISASTER PREPAREDNESS AND MITIGATION ASSISTANCE
 
 |  |  |
 | :--- | ---: |
-| [5131\.](Subchapter%20002%20%28II%29%20-%20Disaster%20Preparedness%20Assistance/%C2%A7%2005131%20-%20Federal%20and%20State%20disaster%20preparedness%20programs.md) | Federal and State disaster preparedness programs. |
+| [5131\.](Subchapter%20002%20%28II%29%20-%20Disaster%20Preparedness%20and%20Mitigation%20Assistance/%C2%A7%2005131%20-%20Federal%20and%20State%20disaster%20preparedness%20programs.md) | Federal and State disaster preparedness programs. |
 | (a) | Utilization of services of other agencies. |
 | (b) | Technical assistance for the development of plans and programs. |
 | (c) | Grants to States for development of plans and programs. |
 | (d) | Grants for improvement, maintenance, and updating of State plans. |
-| [5132\.](Subchapter%20002%20%28II%29%20-%20Disaster%20Preparedness%20Assistance/%C2%A7%2005132%20-%20Disaster%20warnings.md) | Disaster warnings. |
+| [5132\.](Subchapter%20002%20%28II%29%20-%20Disaster%20Preparedness%20and%20Mitigation%20Assistance/%C2%A7%2005132%20-%20Disaster%20warnings.md) | Disaster warnings. |
 | (a) | Readiness of Federal agencies to issue warnings to State and local officials. |
 | (b) | Technical assistance to State and local governments for effective warnings. |
 | (c) | Warnings to governmental authorities and public endangered by disaster. |
 | (d) | Agreements with commercial communications systems for use of facilities. |
+| [5133\.](Subchapter%20002%20%28II%29%20-%20Disaster%20Preparedness%20and%20Mitigation%20Assistance/%C2%A7%2005133%20-%20Predisaster%20hazard%20mitigation.md) | Predisaster hazard mitigation. |
+| (a) | Definition of small impoverished community. |
+| (b) | Establishment of program. |
+| (c) | Approval by President. |
+| (d) | State recommendations. |
+| (e) | Uses of technical and financial assistance. |
+| (f) | Allocation of funds. |
+| (g) | Criteria for assistance awards. |
+| (h) | Federal share. |
+| (i) | National Predisaster Mitigation Fund. |
+| (j) | Limitation on total amount of financial assistance. |
+| (k) | Multihazard advisory maps. |
+| (<i>l</i>) | Report on Federal and State administration. |
+| (m) | Termination of authority. |
+| [5134\.](Subchapter%20002%20%28II%29%20-%20Disaster%20Preparedness%20and%20Mitigation%20Assistance/%C2%A7%2005134%20-%20Interagency%20task%20force.md) | Interagency task force. |
+| (a) | In general. |
+| (b) | Chairperson. |
+| (c) | Membership. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -87,6 +105,23 @@
 | (c) | Regulations. |
 | [5163\.](Subchapter%20003%20%28III%29%20-%20Major%20Disaster%20and%20Emergency%20Assistance%20Administration/%C2%A7%2005163%20-%20Limitation%20on%20use%20of%20sliding%20scales.md) | Limitation on use of sliding scales. |
 | [5164\.](Subchapter%20003%20%28III%29%20-%20Major%20Disaster%20and%20Emergency%20Assistance%20Administration/%C2%A7%2005164%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
+| [5165\.](Subchapter%20003%20%28III%29%20-%20Major%20Disaster%20and%20Emergency%20Assistance%20Administration/%C2%A7%2005165%20-%20Mitigation%20planning.md) | Mitigation planning. |
+| (a) | Requirement of mitigation plan. |
+| (b) | Local and tribal plans. |
+| (c) | State plans. |
+| (d) | Funding. |
+| (e) | Increased Federal share for hazard mitigation measures. |
+| [5165a.](Subchapter%20003%20%28III%29%20-%20Major%20Disaster%20and%20Emergency%20Assistance%20Administration/%C2%A7%2005165a%20-%20Minimum%20standards%20for%20public%20and%20private%20structures.md) | Minimum standards for public and private structures. |
+| (a) | In general. |
+| (b) | Evidence of compliance. |
+| [5165b.](Subchapter%20003%20%28III%29%20-%20Major%20Disaster%20and%20Emergency%20Assistance%20Administration/%C2%A7%2005165b%20-%20Management%20costs.md) | Management costs. |
+| (a) | Definition of management cost. |
+| (b) | Establishment of management cost rates. |
+| (c) | Review. |
+| [5165c.](Subchapter%20003%20%28III%29%20-%20Major%20Disaster%20and%20Emergency%20Assistance%20Administration/%C2%A7%2005165c%20-%20Public%20notice%2C%20comment%2C%20and%20consultation%20requirements.md) | Public notice, comment, and consultation requirements. |
+| (a) | Public notice and comment concerning new or modified policies. |
+| (b) | Consultation concerning interim policies. |
+| (c) | Public access. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -103,17 +138,17 @@
 | [5170c.](Subchapter%20004%20%28IV%29%20-%20Major%20Disaster%20Assistance%20Programs/%C2%A7%2005170c%20-%20Hazard%20mitigation.md) | Hazard mitigation. |
 | (a) | In general. |
 | (b) | Property acquisition and relocation assistance. |
+| (c) | Program administration by States. |
 | [5171\.](Subchapter%20004%20%28IV%29%20-%20Major%20Disaster%20Assistance%20Programs/%C2%A7%2005171%20-%20Federal%20facilities.md) | Federal facilities. |
 | (a) | Repair, reconstruction, restoration, or replacement of United States facilities. |
 | (b) | Availability of funds appropriated to agency for repair, reconstruction, restoration, or replacement of agency facilities. |
 | (c) | Steps for mitigation of hazards. |
 | [5172\.](Subchapter%20004%20%28IV%29%20-%20Major%20Disaster%20Assistance%20Programs/%C2%A7%2005172%20-%20Repair%2C%20restoration%2C%20and%20replacement%20of%20damaged%20facilities.md) | Repair, restoration, and replacement of damaged facilities. |
 | (a) | Contributions. |
-| (b) | Minimum Federal share. |
-| (c) | Large in lieu contributions. |
+| (b) | Federal share. |
+| (c) | Large in-lieu contributions. |
 | (d) | Flood insurance. |
-| (e) | Net eligible cost. |
-| (f) | Associated expenses. |
+| (e) | Eligible cost. |
 | [5173\.](Subchapter%20004%20%28IV%29%20-%20Major%20Disaster%20Assistance%20Programs/%C2%A7%2005173%20-%20Debris%20removal.md) | Debris removal. |
 | (a) | Presidential authority. |
 | (b) | Authorization by State or local government; indemnification agreement. |
@@ -126,8 +161,7 @@
 | (d) | Transfer of temporary housing. |
 | (e) | Notification. |
 | (f) | Location. |
-| [5175\.](Subchapter%20004%20%28IV%29%20-%20Major%20Disaster%20Assistance%20Programs/%C2%A7%2005175%20-%20Repealed.%20Pub.%20L.%20100%E2%80%93707%2C%20title%20I%2C%20%C2%A7105%28m%29%282%29%2C%20Nov.%2023%2C%201988%2C%20102%20Stat.%204696.md) | Repealed. |
-| [5176\.](Subchapter%20004%20%28IV%29%20-%20Major%20Disaster%20Assistance%20Programs/%C2%A7%2005176%20-%20Minimum%20standards%20for%20public%20and%20private%20structures.md) | Minimum standards for public and private structures. |
+| 5175, 5176. Repealed. |  |
 | [5177\.](Subchapter%20004%20%28IV%29%20-%20Major%20Disaster%20Assistance%20Programs/%C2%A7%2005177%20-%20Unemployment%20assistance.md) | Unemployment assistance. |
 | (a) | Benefit assistance. |
 | (b) | Reemployment assistance. |
@@ -153,9 +187,17 @@
 | [5182\.](Subchapter%20004%20%28IV%29%20-%20Major%20Disaster%20Assistance%20Programs/%C2%A7%2005182%20-%20Legal%20services.md) | Legal services. |
 | [5183\.](Subchapter%20004%20%28IV%29%20-%20Major%20Disaster%20Assistance%20Programs/%C2%A7%2005183%20-%20Crisis%20counseling%20assistance%20and%20training.md) | Crisis counseling assistance and training. |
 | [5184\.](Subchapter%20004%20%28IV%29%20-%20Major%20Disaster%20Assistance%20Programs/%C2%A7%2005184%20-%20Community%20disaster%20loans.md) | Community disaster loans. |
+| (a) | In general. |
+| (b) | Amount. |
+| (c) | Repayment. |
+| (d) | Effect on other assistance. |
 | [5185\.](Subchapter%20004%20%28IV%29%20-%20Major%20Disaster%20Assistance%20Programs/%C2%A7%2005185%20-%20Emergency%20communications.md) | Emergency communications. |
 | [5186\.](Subchapter%20004%20%28IV%29%20-%20Major%20Disaster%20Assistance%20Programs/%C2%A7%2005186%20-%20Emergency%20public%20transportation.md) | Emergency public transportation. |
-| [5187\.](Subchapter%20004%20%28IV%29%20-%20Major%20Disaster%20Assistance%20Programs/%C2%A7%2005187%20-%20Fire%20suppression%20grants.md) | Fire suppression grants. |
+| [5187\.](Subchapter%20004%20%28IV%29%20-%20Major%20Disaster%20Assistance%20Programs/%C2%A7%2005187%20-%20Fire%20management%20assistance.md) | Fire management assistance. |
+| (a) | In general. |
+| (b) | Coordination with State and tribal departments of forestry. |
+| (c) | Essential assistance. |
+| (d) | Rules and regulations. |
 | [5188\.](Subchapter%20004%20%28IV%29%20-%20Major%20Disaster%20Assistance%20Programs/%C2%A7%2005188%20-%20Timber%20sale%20contracts.md) | Timber sale contracts. |
 | (a) | Cost-sharing arrangement. |
 | (b) | Cancellation of authority. |
@@ -269,12 +311,19 @@
 | [5204a.](Subchapter%20005%20%28V%29%20-%20Miscellaneous/%C2%A7%2005204a%20-%20Authorization%20of%20appropriations%20for%20insular%20areas.md) | Authorization of appropriations for insular areas. |
 | [5204b.](Subchapter%20005%20%28V%29%20-%20Miscellaneous/%C2%A7%2005204b%20-%20Technical%20assistance%20for%20insular%20areas.md) | Technical assistance for insular areas. |
 | [5204c.](Subchapter%20005%20%28V%29%20-%20Miscellaneous/%C2%A7%2005204c%20-%20Hazard%20mitigation%20for%20insular%20areas.md) | Hazard mitigation for insular areas. |
+| [5205\.](Subchapter%20005%20%28V%29%20-%20Miscellaneous/%C2%A7%2005205%20-%20Disaster%20grant%20closeout%20procedures.md) | Disaster grant closeout procedures. |
+| (a) | Statute of limitations. |
+| (b) | Rebuttal of presumption of record maintenance. |
+| (c) | Binding nature of grant requirements. |
+| [5206\.](Subchapter%20005%20%28V%29%20-%20Miscellaneous/%C2%A7%2005206%20-%20Buy%20American.md) | Buy American. |
+| (a) | Compliance with Buy American Act. |
+| (b) | Debarment of persons convicted of fraudulent use of “Made in America” labels. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1382a, 1490q, 3030, 3149, 4003, 4104c, 5154a, 5203, 5306, 5665a, 8623, 9601, 12750 of this title; title 2 section 59–1; title 7 sections 1421, 1427, 1427a, 1942, 1961, 1964, 1981e, 7285; title 10 section 2662; title 12 sections 1709, 1715<i>l</i>; title 15 section 636; title 16 sections 1536, 1723; title 23 section 125; title 26 sections 143, 165, 1033, 5064, 5708, 6404; title 29 section 1784; title 33 section 701n; title 38 section 3720; title 43 section 1600e.
+This chapter is referred to in sections 1382a, 1490q, 3030, 3149, 3796b, 4003, 4104c, 5154a, 5203, 5206, 5306, 5665a, 8623, 9601, 12750 of this title; title 2 section 59–1; title 7 sections 1421, 1427, 1427a, 1942, 1961, 1964, 1981e, 7285; title 10 section 2662; title 12 sections 1709, 1715<i>l</i>; title 15 section 636; title 16 sections 1536, 1723; title 23 section 125; title 26 sections 143, 165, 1033, 5064, 5708, 6404; title 29 section 1784; title 33 section 701n; title 38 section 3720; title 43 section 1600e.
 
 
 ---
@@ -282,7 +331,7 @@ This chapter is referred to in sections 1382a, 1490q, 3030, 3149, 4003, 4104c, 5
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [Subchapter 001 (I) - Findings, Declarations, and Definitions](Subchapter%20001%20%28I%29%20-%20Findings%2C%20Declarations%2C%20and%20Definitions/README.md)
-- [Subchapter 002 (II) - Disaster Preparedness Assistance](Subchapter%20002%20%28II%29%20-%20Disaster%20Preparedness%20Assistance/README.md)
+- [Subchapter 002 (II) - Disaster Preparedness and Mitigation Assistance](Subchapter%20002%20%28II%29%20-%20Disaster%20Preparedness%20and%20Mitigation%20Assistance/README.md)
 - [Subchapter 003 (III) - Major Disaster and Emergency Assistance Administration](Subchapter%20003%20%28III%29%20-%20Major%20Disaster%20and%20Emergency%20Assistance%20Administration/README.md)
 - [Subchapter 004 (IV) - Major Disaster Assistance Programs](Subchapter%20004%20%28IV%29%20-%20Major%20Disaster%20Assistance%20Programs/README.md)
 - [Subchapter 004&#8211;B (IV&#8211;B) - Emergency Preparedness](Subchapter%20004%E2%80%93B%20%28IV%E2%80%93B%29%20-%20Emergency%20Preparedness/README.md)

@@ -14,7 +14,7 @@ From time to time as the Commission may find necessary, the Commission shall org
 
 (2) As used in this subsection the term “order, decision, report, or action” does not include an initial, tentative, or recommended decision to which exceptions may be filed as provided in section 409(b) of this title.
 
-(3) Any order, decision, report, or action made or taken pursuant to any such delegation, unless reviewed as provided in paragraph (4) of thissubsection, shall have the same force and effect, and shall be made, evidenced, and enforced in the same manner, as orders, decisions, reports, or other actions of the Commission.
+(3) Any order, decision, report, or action made or taken pursuant to any such delegation, unless reviewed as provided in paragraph (4) of this subsection, shall have the same force and effect, and shall be made, evidenced, and enforced in the same manner, as orders, decisions, reports, or other actions of the Commission.
 
 (4) Any person aggrieved by any such order, decision, report or action may file an application for review by the Commission within such time and in such manner as the Commission shall prescribe, and every such application shall be passed upon by the Commission. The Commission, on its own initiative, may review in whole or in part, at such time and in such manner as it shall determine, any order, decision, report, or action made or taken pursuant to any delegation under paragraph (1) of this subsection.
 
@@ -58,7 +58,7 @@ Subsec. (g). Pub. L. 100–594, §4, struck out subsec. (g) which required an an
 
 1986—Subsec. (g). Pub. L. 99–272 substituted “March 31” for “January 31”.
 
-1982—Subsec. (b). Pub. L. 97–259, §105(a), substituted “From” for “Within six months after July 16, 1952, andfrom” at beginning of subsection, and struck out “thereafter” after “time to time”.
+1982—Subsec. (b). Pub. L. 97–259, §105(a), substituted “From” for “Within six months after July 16, 1952, and from” at beginning of subsection, and struck out “thereafter” after “time to time”.
 
 Subsecs. (c) to (e). Pub. L. 97–259, §105(b), (c), redesignated subsecs. (d) and (e) as (c) and (d), respectively, and in par. (1) of subsec. (c), as so redesignated, substituted “two” for “three” after “employee board consisting of”.
 

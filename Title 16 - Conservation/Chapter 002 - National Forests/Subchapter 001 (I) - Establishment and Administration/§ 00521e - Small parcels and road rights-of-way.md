@@ -12,5 +12,5 @@ The National Forest System lands which may be sold, exchanged, or interchanged u
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 521d, 521h of this title.
+This section is referred to in sections 521d, 521h, 698v–7 of this title.
 

@@ -6,7 +6,7 @@ Any Federal Reserve bank may make application to the local Federal Reserve agent
 
 #### Codification
 
-Section is comprised of second par. of section 16 of act Dec. 23, 1913. For classification to this title of otherpars. of section 16, see Codification note set out under section 411 of this title.
+Section is comprised of second par. of section 16 of act Dec. 23, 1913. For classification to this title of other pars. of section 16, see Codification note set out under section 411 of this title.
 
 #### Amendments
 
@@ -51,10 +51,6 @@ Amendment effective upon expiration of 120 days after Nov. 10, 1978, see sec. 21
 #### United States Obligations as Collateral; Extension of Period
 
 The period within which direct obligations of the United States could be accepted as collateral security under this section was extended to Mar. 3, 1937, by Proclamation No. 2117, of Feb. 14, 1935, 49 Stat. 3437; extended to June 30, 1939, by act Mar. 1, 1937; extended to June 30, 1941, by act June 30, 1939; extended to June 30, 1943, by act June 30, 1941; and extended to June 30, 1945, by act May 25, 1943. Act June 12, 1945, amended section to remove the time limitation.
-
-#### Cross References
-
-Notes upon which advances are made not eligible as collateral security, see section 347a of this title.
 
 #### Section Referred to in Other Sections
 

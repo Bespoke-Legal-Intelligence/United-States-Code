@@ -2,7 +2,7 @@
 
 #### Codification
 
-Section 1384, act July 2, 1940, ch. 516, §4, 54 Stat. 724; 1946 Reorg. Plan No. 3, §801, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1101, related to functions of Smithsonian Institution, and was transferred to section 79b of Title 20, Education.
+Section 1384, act July 2, 1940, ch. 516, §4, 54 Stat. 724; 1946 Reorg. Plan No. 3, §801, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1101, related to functions of SmithsonianInstitution, and was transferred to section 79b of Title 20, Education.
 
 Section 1385, act July 2, 1940, ch. 516, §5, 54 Stat. 725; 1946 Reorg. Plan No. 3, §801, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1101, related to resident manager, and was transferred to section 79c of Title 20.
 

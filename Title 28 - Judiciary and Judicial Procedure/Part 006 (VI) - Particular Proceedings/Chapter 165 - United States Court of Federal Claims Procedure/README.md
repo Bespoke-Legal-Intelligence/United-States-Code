@@ -26,7 +26,7 @@
 | [2517\.](%C2%A7%2002517%20-%20Payment%20of%20judgments.md) | Payment of judgments. |
 | \[2518. | Repealed.\] |
 | [2519\.](%C2%A7%2002519%20-%20Conclusiveness%20of%20judgment.md) | Conclusiveness of judgment. |
-| [2520\.](%C2%A7%2002520%20-%20Fees.md) | Fees. |
+| \[2520. | Repealed.\] |
 | [2521\.](%C2%A7%2002521%20-%20Subpoenas%20and%20incidental%20powers.md) | Subpoenas and incidental powers. |
 | [2522\.](%C2%A7%2002522%20-%20Notice%20of%20appeal.md) | Notice of appeal. |
 
@@ -34,13 +34,15 @@
 
 #### Amendments
 
-1992—Pub. L. 102–572, title IX, §§902(a)(1), 910(b), Oct. 29, 1992, 106 Stat. 4516, 4520, substituted “UNITED STATES COURT OF FEDERAL CLAIMS” for “UNITED STATES CLAIMS COURT” in chapter heading and inserted “and incidental powers” in item 2521.
+<b>2000</b>—Pub. L. 106–518, title II, §207, Nov. 13, 2000, 114 Stat. 2414, struck out item 2520 “Fees”.
 
-1982—Pub. L. 97–164, title I, §139(b)(2), (i)(2), (<i>l</i>), (n)(4), (<i>o</i>)(2), (q)(2), Apr. 2, 1982, 96 Stat. 42–44, substituted “UNITED STATES CLAIMS COURT” for “COURT OF CLAIMS” in chapter heading, substituted “Proceedings generally” for “Proceedings before commissioners generally” in item 2503, substituted “Referral of cases by Comptroller General” for “Referral of cases by the Comptroller General or the head of an executive department or agency” in item 2510, struck out item 2518 “Certification of judgments for appropriation”, substituted “Fees” for “Fees; cost of printing record” in item 2520, and added item 2522.
+<b>1992</b>—Pub. L. 102–572, title IX, §§902(a)(1), 910(b), Oct. 29, 1992, 106 Stat. 4516, 4520, substituted “UNITED STATES COURT OF FEDERAL CLAIMS” for “UNITED STATES CLAIMS COURT” in chapter heading and inserted “and incidental powers” in item 2521.
 
-1978—Pub. L. 95–563, §14(h)(2)(B), Nov. 1, 1978, 92 Stat. 2390, inserted “or the head of an executive department or agency” after “Comptroller General” in item 2510.
+<b>1982</b>—Pub. L. 97–164, title I, §139(b)(2), (i)(2), (<i>l</i>), (n)(4), (<i>o</i>)(2), (q)(2), Apr. 2, 1982, 96 Stat. 42–44, substituted “UNITED STATES CLAIMS COURT” for “COURT OF CLAIMS” in chapter heading, substituted “Proceedings generally” for “Proceedings before commissioners generally” in item 2503, substituted “Referral of cases by Comptroller General” for “Referral of cases by the Comptroller General or the head of an executive department or agency” in item 2510, struck out item 2518 “Certification of judgments for appropriation”, substituted “Fees” for “Fees; cost of printing record” in item 2520, and added item 2522.
 
-1954—Act Sept. 3, 1954, ch. 1263, §§46, 54(c), 55(d), 59(b), 68 Stat. 1243, 1247, 1248, substituted “Trial before judges” for “Place of taking evidence” in item 2505, and “Calls and discovery,” for “Calls on departments for information” in item 2507, rephrased item 2510, and added item 2521.
+<b>1978</b>—Pub. L. 95–563, §14(h)(2)(B), Nov. 1, 1978, 92 Stat. 2390, inserted “or the head of an executive department or agency” after “Comptroller General” in item 2510.
+
+<b>1954</b>—Act Sept. 3, 1954, ch. 1263, §§46, 54(c), 55(d), 59(b), 68 Stat. 1243, 1247, 1248, substituted “Trial before judges” for “Place of taking evidence” in item 2505, and “Calls and discovery,” for “Calls on departments for information” in item 2507, rephrased item 2510, and added item 2521.
 
 <i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
@@ -68,6 +70,6 @@
 - [&sect; 02517 - Payment of judgments](%C2%A7%2002517%20-%20Payment%20of%20judgments.md)
 - [&sect; 02518 - Repealed. Pub. L. 97&#8211;164, title I, &sect;139(l), Apr. 2, 1982, 96 Stat. 43](%C2%A7%2002518%20-%20Repealed.%20Pub.%20L.%2097%E2%80%93164%2C%20title%20I%2C%20%C2%A7139%28l%29%2C%20Apr.%202%2C%201982%2C%2096%20Stat.%2043.md)
 - [&sect; 02519 - Conclusiveness of judgment](%C2%A7%2002519%20-%20Conclusiveness%20of%20judgment.md)
-- [&sect; 02520 - Fees](%C2%A7%2002520%20-%20Fees.md)
+- [&sect; 02520 - Repealed. Pub. L. 106&#8211;518, title II, &sect;207, Nov. 13, 2000, 114 Stat. 2414](%C2%A7%2002520%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93518%2C%20title%20II%2C%20%C2%A7207%2C%20Nov.%2013%2C%202000%2C%20114%20Stat.%202414.md)
 - [&sect; 02521 - Subpoenas and incidental powers](%C2%A7%2002521%20-%20Subpoenas%20and%20incidental%20powers.md)
 - [&sect; 02522 - Notice of appeal](%C2%A7%2002522%20-%20Notice%20of%20appeal.md)

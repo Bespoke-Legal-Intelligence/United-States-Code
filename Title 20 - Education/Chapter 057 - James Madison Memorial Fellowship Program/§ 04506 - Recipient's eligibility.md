@@ -6,7 +6,7 @@ Each student receiving a Fellowship under this chapter <sup>1</sup> shall enter
 
 &emsp;(a) within a 5-year period after completing the education for which the fellowship was awarded, teach on a full-time basis students in secondary school for a period of not less than one year for each year for which asistance <sup>2</sup> was received;
 
-&emsp;(b) repay all of the Fellowship assistance received plus interest at the rate of 6% per annum and, if applicable, reasonable collection fees for each school year for which assistance was received for which such recipient failed to teach as provided in paragraph (a); and
+&emsp;(b) repay all of the Fellowship assistance received plus interest at the rate of 6% per annum and, if applicable, reasonable collection fees for each school year for which assistance was received for which such recipientfailed to teach as provided in paragraph (a); and
 
 &emsp;(c) not be considered to be in violation of the agreement entered into during any period during which the recipient:
 
@@ -23,6 +23,10 @@ Each student receiving a Fellowship under this chapter <sup>1</sup> shall enter
 &emsp;&emsp;(6) is seeking and unable to find full-time employment as a teacher.
 
 (Pub. L. 99–500, §101(b) \[title VIII, §807\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–77, and Pub. L. 99–591, §101(b) \[title VIII, §807\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–77.)
+
+#### References in Text
+
+This chapter, referred to in provisions preceding par. (a), was in the original “this Act” and was translated as reading “this title” meaning title VIII of section 101(b) of Pub. L. 99–500 and Pub. L. 99–591 which enacted this chapter, to reflect the probable intent of Congress.
 
 #### Codification
 

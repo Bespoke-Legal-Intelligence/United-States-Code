@@ -40,7 +40,7 @@ First tier.—The amount of the penalty shall be determined by the court in ligh
 
 &emsp;&emsp;(ii)
 
-Second tier.—Notwithstanding clause (i), the amount of penalty for each such violation shall not exceed the greater of (I) $50,000 for a natural person or $250,000 for any other person, or (II) the gross amount of pecuniary gain to such defendant as a result of the violation, if the violation described in subparagraph (A) involved fraud, deceit, manipulation, or deliberate or reckless disregard of a regulatory requirement.
+Second tier.—Notwithstanding clause (i), the amount of penalty for each such violation shall not exceed the greater of (I)$50,000 for a natural person or $250,000 for any other person, or (II) the gross amount of pecuniary gain to such defendant as a result of the violation, if the violation described in subparagraph (A) involved fraud, deceit, manipulation, or deliberate or reckless disregard of a regulatory requirement.
 
 &emsp;&emsp;(iii)
 
@@ -64,7 +64,7 @@ Collection of penalties.—If a person upon whom such a penalty is imposed shall
 
 &emsp;&emsp;(iii)
 
-Remedy not exclusive.—The actions authorized by this paragraph may be brought in addition to any other action thatthe Commission or the Attorney General is entitled to bring.
+Remedy not exclusive.—The actions authorized by this paragraph may be brought in addition to any other action that the Commission or the Attorney General is entitled to bring.
 
 &emsp;&emsp;(iv)
 
@@ -162,7 +162,11 @@ Notwithstanding the provisions of section 1407(a) of title 28, or any other prov
 
 (13) Unless the context otherwise requires, all terms defined in the Right to Financial Privacy Act of 1978 \[12 U.S.C. 3401 et seq.\] which are common to this subsection shall have the same meaning as in such Act.
 
-(June 6, 1934, ch. 404, title I, §21, 48 Stat. 899; May 27, 1936, ch. 462, §7, 49 Stat. 1379; Pub. L. 91–452, title II, §212, Oct. 15, 1970, 84 Stat. 929; Pub. L. 94–29, §17, June 4, 1975, 89 Stat. 154; Pub. L. 96–433, §§3, 4, Oct. 10, 1980, 94 Stat. 1855, 1858; Pub. L. 98–376, §2, Aug. 10, 1984, 98 Stat. 1264; Pub. L. 100–181, title III, §323, Dec. 4, 1987, 101 Stat. 1259; Pub. L. 100–704, §§3(a)(1), 6(b), Nov. 19, 1988, 102 Stat. 4677, 4681; Pub. L. 101–429, title II, §201, Oct. 15, 1990, 104 Stat. 935; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 104–67, title I, §103(b)(2), Dec. 22, 1995, 109 Stat. 756.)
+#### (i) Information to CFTC
+
+The Commission shall provide the Commodity Futures Trading Commission with notice of the commencement of any proceeding and a copy of any order entered by the Commission against any broker or dealer registered pursuant to section 78<i>o</i>(b)(11) of this title, any exchange registered pursuant to section 78f(g) of this title, or any national securities association registered pursuant to section 78<i>o</i>–3(k) of this title.
+
+(June 6, 1934, ch. 404, title I, §21, 48 Stat. 899; May 27, 1936, ch. 462, §7, 49 Stat. 1379; Pub. L. 91–452, title II, §212, Oct. 15, 1970, 84 Stat. 929; Pub. L. 94–29, §17, June 4, 1975, 89 Stat. 154; Pub. L. 96–433, §§3, 4, Oct. 10, 1980, 94 Stat. 1855, 1858; Pub. L. 98–376, §2, Aug. 10, 1984, 98 Stat. 1264; Pub. L. 100–181, title III, §323, Dec. 4, 1987, 101 Stat. 1259; Pub. L. 100–704, §§3(a)(1), 6(b), Nov. 19, 1988, 102 Stat. 4677, 4681; Pub. L. 101–429, title II, §201, Oct. 15, 1990, 104 Stat. 935; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 104–67, title I, §103(b)(2), Dec. 22, 1995, 109 Stat. 756; Pub. L. 106–554, §1(a)(5) \[title II, §205(a)(5)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–426.)
 
 #### References in Text
 
@@ -173,6 +177,8 @@ The Right to Financial Privacy Act of 1978, referred to in subsec. (h)(1), (6), 
 Section 21(h) of the Securities Exchange Act of 1934, referred to in the paragraph within quotation marks following subsec. (h)(4)(C), is classified to subsection (h) of this section.
 
 #### Amendments
+
+2000—Subsec. (i). Pub. L. 106–554 added subsec. (i).
 
 1995—Subsec. (d)(4). Pub. L. 104–67 added par. (4).
 
@@ -271,82 +277,6 @@ Report.—Not later than 24 months after the date of enactment of this Act \[Nov
 &emsp;“(2) describing the actions undertaken by the Commission and State securities commissions to promote the adoption of such laws; and
 
 &emsp;“(3) identifying any further actions that the Commission recommends for such purposes.”
-
-#### Federal Rules of Civil Procedure
-
-Injunctions, see rule 65, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-Mandamus as abolished but relief yet available by appropriate action or motion under rules, see rule 81.
-
-Subpoena, see rule 45.
-
-#### Federal Rules of Criminal Procedure
-
-Criminal contempt, see rule 42 and Notes of Advisory Committee on Rules set out under rule 42, Title 18, Appendix, Crimes and Criminal Procedure.
-
-#### Cross References
-
-Actions to enjoin violations and institution of criminal proceedings under—
-
-&emsp;&emsp;Investment Advisers Act of 1940, see section 80b–9 of this title.
-
-&emsp;&emsp;Investment Company Act of 1940, see section 80a–41 of this title.
-
-&emsp;&emsp;Public Utility Holding Company Act of 1935, see section 79r of this title.
-
-&emsp;&emsp;Securities Act of 1933, see section 77t of this title.
-
-&emsp;&emsp;Trust Indenture Act of 1939, see section 77uuu of this title.
-
-Administration of oaths, etc., under—
-
-&emsp;&emsp;Investment Advisers Act of 1940, see section 80b–9 of this title.
-
-&emsp;&emsp;Investment Company Act of 1940, see section 80a–41 of this title.
-
-&emsp;&emsp;Public Utility Holding Company Act of 1935, see section 79r of this title.
-
-&emsp;&emsp;Securities Act of 1933, see section 77s of this title.
-
-&emsp;&emsp;Trust Indenture Act of 1939, see section 77uuu of this title.
-
-Attendance of witnesses and production of documents, judicial enforcement of orders under—
-
-&emsp;&emsp;Investment Advisers Act of 1940, see section 80b–9 of this title.
-
-&emsp;&emsp;Investment Company Act of 1940, see section 80a–41 of this title.
-
-&emsp;&emsp;Public Utility Holding Company Act of 1935, see section 79r of this title.
-
-&emsp;&emsp;Securities Act of 1933, see section 77v of this title.
-
-&emsp;&emsp;Trust Indenture Act of 1939, see section 77uuu of this title.
-
-Contempt proceedings, see sections 401, 402, 3285, and 3691 of Title 18, Crimes and Criminal Procedure.
-
-Effective date, see section 78hh–1 of this title.
-
-Immunity of witnesses, see section 6001 et seq. of Title 18, Crimes and Criminal Procedure.
-
-Investigation of facts by Commission under—
-
-&emsp;&emsp;Investment Advisers Act of 1940, see section 80b–9 of this title.
-
-&emsp;&emsp;Investment Company Act of 1940, see section 80a–41 of this title.
-
-&emsp;&emsp;Public Utility Holding Company Act of 1935, see section 79r of this title.
-
-&emsp;&emsp;Securities Act of 1933, see section 77t of this title.
-
-&emsp;&emsp;Trust Indenture Act of 1939, see section 77uuu of this title.
-
-Issuance of mandamus under—
-
-&emsp;&emsp;Public Utility Holding Company Act of 1935, see section 79r of this title.
-
-&emsp;&emsp;Securities Act of 1933, see section 77t of this title.
-
-Proceeding or order of Board of Governors of Federal Reserve System, section as applicable to, see section 78h of this title.
 
 #### Section Referred to in Other Sections
 

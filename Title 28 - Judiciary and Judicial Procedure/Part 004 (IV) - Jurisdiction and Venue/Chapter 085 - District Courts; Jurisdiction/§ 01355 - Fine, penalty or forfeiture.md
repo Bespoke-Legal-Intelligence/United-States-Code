@@ -28,29 +28,17 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1992—Pub. L. 102–550 designated existing provisions as subsec. (a) and added subsecs. (b) to (d).
+<b>1992</b>—Pub. L. 102–550 designated existing provisions as subsec. (a) and added subsecs. (b) to (d).
 
-1980—Pub. L. 96–417 inserted exception for matters within the jurisdiction of the Court of International Trade under section 1582 of this title.
+<b>1980</b>—Pub. L. 96–417 inserted exception for matters within the jurisdiction of the Court of International Trade under section 1582 of this title.
 
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–417 applicable with respect to civil actions commenced on or after the 90th day after Nov. 1, 1980, see section 701(c)(1)(B) of Pub. L. 96–417, set out as a note under section 251 of this title.
 
-#### Cross References
-
-Actions for forfeiture under customs laws, see section 1604 of Title 19, Customs Duties.
-
-Amount in controversy immaterial in action under this section, see Historical and Revision Notes under section 1331 of this title.
-
-Diversity of citizenship immaterial in action under this section, see Historical and Revision Notes under section 1332 of this title.
-
-Fines, penalties and forfeitures, proceedings, see section 2461 et seq. of this title.
-
-Venue of action for fine, penalty, or forfeiture see section 1395 of this title.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in title 21 sections 360pp, 842.
+This section is referred to in title 18 section 981; title 21 sections 360pp, 842.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

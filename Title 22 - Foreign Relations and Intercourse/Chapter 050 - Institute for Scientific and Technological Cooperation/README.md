@@ -33,7 +33,7 @@
 | (e) | Admission into United States of alien participants in program. |
 | [3509\.](%C2%A7%2003509%20-%20Conflict%20of%20interest%3B%20personnel%20and%20activities%20covered.md) | Conflict of interest; personnel and activities covered. |
 | [3510\.](%C2%A7%2003510%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-| 3511, 3512. | Repealed. |
+| 3511, 3512. Repealed. |  |
 | [3513\.](%C2%A7%2003513%20-%20Expiration%20of%20statutory%20authorities.md) | Expiration of statutory authorities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

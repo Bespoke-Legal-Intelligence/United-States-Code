@@ -16,7 +16,7 @@ The Board of Directors of the Democracy Corps shall have not more than 10 member
 
 #### (c) Grants to Democracy Corps; purpose
 
-The Administrator is authorized to make an annual grant to the Democracy Corps with the funds made available pursuant to this section. The purpose of such grants shall be to enable the Democracy Corps to maintain a presence in independent states of the former Soviet Union that will assist at the local level in the development of—
+The Administrator is authorized to make an annual grant to the Democracy Corps with the funds made available pursuant to this section.The purpose of such grants shall be to enable the Democracy Corps to maintain a presence in independent states of the former Soviet Union that will assist at the local level in the development of—
 
 &emsp;(1) institutions of democratic governance (including judicial, electoral, legislative, and administrative processes), and
 
@@ -46,7 +46,7 @@ Grants under this section shall be made pursuant to a grant agreement requiring 
 
 The Democracy Corps shall be required to—
 
-&emsp;(1) coordinate its activities pursuant to this section with the programs and activities of other entities operating in or providing assistance to the independent states of the former Soviet Union in support of the development ofdemocratic institutions, a market-oriented economy, and a civil society; and
+&emsp;(1) coordinate its activities pursuant to this section with the programs and activities of other entities operating in or providing assistance to the independent states of the former Soviet Union in support of the development of democratic institutions, a market-oriented economy, and a civil society; and
 
 &emsp;(2) ensure that its activities pursuant to this section are designed to avoid duplication with activities carried out under other United States Government foreign assistance and international information, educational, cultural, and exchange programs.
 

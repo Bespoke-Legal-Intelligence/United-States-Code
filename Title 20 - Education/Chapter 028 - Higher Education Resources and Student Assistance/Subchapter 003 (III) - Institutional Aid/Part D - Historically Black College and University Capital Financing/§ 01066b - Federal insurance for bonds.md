@@ -6,7 +6,7 @@ Subject to the limitations in section 1066c of this title, the Secretary is auth
 
 #### (b) Responsibilities of designated bonding authority
 
-The Secretary may not enter into an insurance agreement described in subsection (a) of this section unless the Secretary designates a qualified bonding authority in accordance with sections 1066d(1) and 1066e <sup>1</sup> of this title and the designated bonding authority agrees in such agreement to—
+The Secretary may not enter into an insurance agreement described in subsection (a) of this section unless the Secretary designates a qualified bonding authority in accordance with sections 1066d(1) and 1066e <sup>1</sup> of this title and thedesignated bonding authority agrees in such agreement to—
 
 &emsp;(1) use the proceeds of the qualified bonds, less costs of issuance not to exceed 2 percent of the principal amount thereof, to make loans to eligible institutions or for deposit into an escrow account for repayment of the bonds;
 
@@ -72,7 +72,7 @@ Subject to subsection (c)(1) of this section the full faith and credit of the Un
 
 Notwithstanding any other provision of law, a qualified bond guaranteed under this part may be sold to any party that offers terms that the Secretary determines are in the best interest of the eligible institution.
 
-(Pub. L. 89–329, title III, §343, formerly title VII, §723, as added Pub. L. 102–325, title VII, §704,July 23, 1992, 106 Stat. 743; amended Pub. L. 103–382, title III, §360C, Oct. 20, 1994, 108 Stat. 3972; renumbered title III, §343, and amended Pub. L. 105–244, title III, §§301(a)(3), (4), (c)(5), 306(b), Oct. 7, 1998, 112 Stat. 1636, 1637, 1646.)
+(Pub. L. 89–329, title III, §343, formerly title VII, §723, as added Pub. L. 102–325, title VII, §704, July 23, 1992, 106 Stat. 743; amended Pub. L. 103–382, title III, §360C, Oct. 20, 1994, 108 Stat. 3972; renumbered title III, §343, and amended Pub. L. 105–244, title III, §§301(a)(3), (4), (c)(5), 306(b), Oct. 7, 1998, 112 Stat. 1636, 1637, 1646.)
 
 #### References in Text
 

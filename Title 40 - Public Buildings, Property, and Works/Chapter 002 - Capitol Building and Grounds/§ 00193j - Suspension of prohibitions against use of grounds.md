@@ -4,10 +4,6 @@ In order to admit of the due observance within the United States Capitol Grounds
 
 (July 31, 1946, ch. 707, §11, 60 Stat. 719.)
 
-#### Codification
-
-Section is also set out in D.C. Code, §9–124.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 136, 174b–1, 184a, 193g, 193h, 193i, 193k, 193<i>l</i>, 193m, 212a of this title.

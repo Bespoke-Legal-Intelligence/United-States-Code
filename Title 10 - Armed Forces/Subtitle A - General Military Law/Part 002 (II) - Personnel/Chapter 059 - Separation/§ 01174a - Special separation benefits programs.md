@@ -76,13 +76,15 @@ Other Conditions, Requirements, and Administrative Provisions.—Subsections (e)
 
 (h)
 
-Termination of Program.—(1) Except as provided in paragraph (2), the Secretary concerned may not conduct a program pursuant to this section after September 30, 2001.
+Termination of Program.—(1) Except as provided in paragraph (2), the Secretary concerned may not conduct a program pursuant to this section after December 31, 2001.
 
 (2) No member of the armed forces may be separated under a program established pursuant to this section after the date of the termination of that program.
 
-(Added Pub. L. 102–190, div. A, title VI, §661(a)(1), Dec. 5, 1991, 105 Stat. 1394; amended Pub. L. 102–484, div. A, title X, §1052(15), div. D, title XLIV, §§4405(a), 4422(a), Oct. 23, 1992, 106 Stat. 2499, 2706, 2718; Pub. L. 103–35, title II, §202(a)(17), May 31, 1993, 107 Stat. 102; Pub. L. 103–160, div. A, title V, §§502, 561(g), Nov. 30, 1993, 107 Stat. 1644, 1668; Pub. L. 103–337, div. A, title V, §542(b), Oct. 5, 1994, 108 Stat. 2768; Pub. L. 105–261, div. A, title V, §561(b), Oct. 17, 1998, 112 Stat. 2025.)
+(Added Pub. L. 102–190, div. A, title VI, §661(a)(1), Dec. 5, 1991, 105 Stat. 1394; amended Pub. L. 102–484, div. A, title X, §1052(15), div. D, title XLIV, §§4405(a), 4422(a), Oct. 23, 1992, 106 Stat. 2499, 2706, 2718; Pub. L. 103–35, title II, §202(a)(17), May 31, 1993, 107 Stat. 102; Pub. L. 103–160, div. A, title V, §§502, 561(g), Nov. 30, 1993, 107 Stat. 1644, 1668; Pub. L. 103–337, div. A, title V, §542(b), Oct. 5, 1994, 108 Stat. 2768; Pub. L. 105–261, div. A, title V, §561(b), Oct. 17, 1998, 112 Stat. 2025; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134.)
 
 #### Amendments
+
+2000—Subsec. (h)(1). Pub. L. 106–398 substituted “December 31, 2001” for “September 30, 2001”.
 
 1998—Subsec. (h)(1). Pub. L. 105–261 substituted “September 30, 2001” for “September 30, 1999”.
 
@@ -104,13 +106,13 @@ Subsec. (h)(1). Pub. L. 103–160, §561(g), substituted “September 30, 1999�
 
 1992—Subsec. (b)(1). Pub. L. 102–484, §4422(a)(1), inserted “or full-time National Guard duty” after “active duty”.
 
-Subsec. (b)(2)(B). Pub. L. 102–484, §4405(a), inserted “, sections 404 and 406 of title 37, and section 503(c) ofthe National Defense Authorization Act for Fiscal Year 1991 (104 Stat. 1558; 37 U.S.C. 406 note)” after “chapter 58 of this title”.
+Subsec. (b)(2)(B). Pub. L. 102–484, §4405(a), inserted “, sections 404 and 406 of title 37, and section 503(c) of the National Defense Authorization Act for Fiscal Year 1991 (104 Stat. 1558; 37 U.S.C. 406 note)” after “chapter 58 of this title”.
 
 Subsec. (c)(2). Pub. L. 102–484, §§1052(15), 4422(a)(2), substituted “December 5, 1991” for “the date of the enactment of this section” and inserted “or full-time National Guard duty or any combination of active duty and full-time National Guard duty” after “active duty”.
 
 Subsec. (c)(3). Pub. L. 102–484, §4422(a)(3), as amended by Pub. L. 103–35, §202(a)(17)(A), inserted “or full-time National Guard duty or any combination of active duty and full-time National Guard duty” after “active duty”.
 
-Subsec. (c)(4). Pub. L. 102–484, §4422(a)(4), as amended by Pub. L. 103–35, §202(a)(17)(B), inserted “and” after semicolon at end and “or full-time National Guard duty or any combination of active duty and full-time National Guard duty” after “active duty” the first place it appeared.
+Subsec. (c)(4). Pub. L. 102–484, §4422(a)(4), as amended by Pub. L. 103–35, §202(a)(17)(B), inserted “and” aftersemicolon at end and “or full-time National Guard duty or any combination of active duty and full-time National Guard duty” after “active duty” the first place it appeared.
 
 Subsec. (c)(5), (6). Pub. L. 102–484, §4424(a)(5), redesignated par. (6) as (5) and struck out former par. (5) which read as follows: “if a Reserve, is on an active duty list; and”.
 
@@ -180,5 +182,5 @@ Section 663 of Pub. L. 102–190 directed Secretary, not later than 180 days aft
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1152, 1153, 1175 of this title; title 29 sections 1662d–1, 2918; title 33 section 857a; title 38 section 3018B.
+This section is referred to in sections 1152, 1153, 1175 of this title; title 29 section 2918; title 33 section 857a; title 38 section 3018B.
 

@@ -8,18 +8,6 @@ The locators of all mining locations made on any mineral vein, lode, or ledge, s
 
 R.S. §2322 derived from act May 10, 1872, ch. 152, §3, 17 Stat. 91.
 
-#### Promotion of Mining
-
-See Promotion of Mining note set out under section 22 of this title.
-
-#### Cross References
-
-Michigan, Minnesota and Wisconsin mineral lands, see section 48 of this title.
-
-National forests, locators’ rights, see sections 482a, 482b, 482e, 482h, 482h–1, 482j, 482n and 482<i>o</i> of Title 16, Conservation.
-
-Preservation and management of National Park System mining areas, see section 1902 of Title 16.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 24, 29, 33, 37, 38, 39, 40, 42, 46, 47, 48, 49, 102, 541b of this title; title 16 section 460mm–1; title 25 section 640d–10; title 43 sections 1712, 1714, 1732.

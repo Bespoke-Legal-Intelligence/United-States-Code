@@ -154,7 +154,7 @@ As used in subsection (b)(2)(C) of this section, the term “an event which is r
 
 #### (d) Compensation, etc., for franchisee upon condemnation or destruction of marketing premises
 
-In the case of any termination of a franchise (entered into or renewed on or after June 19,1978), or in the case of any nonrenewal of a franchise relationship (without regard to the date on which such franchise relationship was entered into or renewed)—
+In the case of any termination of a franchise (entered into or renewed on or after June 19, 1978), or in the case of any nonrenewal of a franchise relationship (without regard to the date on which such franchise relationship was entered into or renewed)—
 
 &emsp;(1) if such termination or nonrenewal is based upon an event described in subsection (c)(5) of this section, the franchisor shall fairly apportion between the franchisor and the franchisee compensation, if any, received by the franchisor based upon any loss of business opportunity or good will; and
 

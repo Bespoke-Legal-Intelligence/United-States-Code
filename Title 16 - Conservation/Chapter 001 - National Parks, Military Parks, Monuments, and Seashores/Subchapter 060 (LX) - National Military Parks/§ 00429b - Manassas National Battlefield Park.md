@@ -20,7 +20,7 @@ There is established as a unit of the national park system in the Commonwealth o
 
 The Secretary shall not allow any unauthorized use of the Addition after November 10, 1988, except that the Secretary may permit the orderly termination of all operations on the Addition and the removal of equipment, facilities, and personal property from the Addition.
 
-(Apr. 17, 1954, ch. 153, §1, 68 Stat. 56, as renumbered and amended Pub. L. 96–442, §2, Oct. 13, 1980, 94 Stat. 1885; Pub. L. 100–647, title X, §10002, Nov. 10, 1988, 102 Stat. 3810.)
+(Apr. 17, 1954, ch. 153, §1, 68 Stat. 56, as renumbered and amended Pub. L. 96–442, §2, Oct. 13,1980, 94 Stat. 1885; Pub. L. 100–647, title X, §10002, Nov. 10, 1988, 102 Stat. 3810.)
 
 #### References in Text
 
@@ -34,7 +34,7 @@ The date of the enactment of this Act and effective date of this Act, referred t
 
 #### Short Title of 1988 Amendment
 
-Section 10001 of title X of Pub. L. 100–647 provided that: “This title \[amending this section and section429b–1 of this title and enacting provisions set out as a note below\] may be cited as the ‘Manassas National Battlefield Park Amendments of 1988’.”
+Section 10001 of title X of Pub. L. 100–647 provided that: “This title \[amending this section and section 429b–1 of this title and enacting provisions set out as a note below\] may be cited as the ‘Manassas National Battlefield Park Amendments of 1988’.”
 
 #### Short Title
 

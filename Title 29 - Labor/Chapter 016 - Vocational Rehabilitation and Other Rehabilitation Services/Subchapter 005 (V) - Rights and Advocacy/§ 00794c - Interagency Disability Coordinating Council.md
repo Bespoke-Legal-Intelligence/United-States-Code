@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is hereby established an Interagency Disability Coordinating Council (hereafter inthis section referred to as the “Council”) composed of the Secretary of Education, the Secretary of Health and Human Services, the Secretary of Labor, the Secretary of Housing and Urban Development, the Secretary of Transportation, the Assistant Secretary of the Interior for Indian Affairs, the Attorney General, the Director of the Office of Personnel Management, the Chairperson of the Equal Employment Opportunity Commission, the Chairperson of the Architectural and Transportation Barriers Compliance Board, and such other officials as may be designated by the President.
+There is hereby established an Interagency Disability Coordinating Council (hereafter in this section referred to as the “Council”) composed of the Secretary of Education, the Secretary of Health and Human Services, the Secretary of Labor, the Secretary of Housing and Urban Development, the Secretary of Transportation, the Assistant Secretary of the Interior for Indian Affairs, the Attorney General, the Director of the Office of Personnel Management, the Chairperson of the Equal Employment Opportunity Commission, the Chairperson of the Architectural and Transportation Barriers Compliance Board, and such other officials as may be designated by the President.
 
 #### (b) Duties
 
@@ -35,4 +35,8 @@ Pub. L. 99–506, §1001(f)(4), which directed the substitution of “Chairperso
 #### Effective Date of 1979 Amendment
 
 Amendment by Pub. L. 96–88 effective May 4, 1980, with specified exceptions, see section 601 of Pub. L. 96–88, set out as an Effective Date note under section 3401 of Title 20, Education.
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (c) of this section relating to requirement that the Council submit an annual report of activities to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 175 of House Document No. 103–7.
 

@@ -22,7 +22,7 @@
 
 &emsp;&emsp;&emsp;(II) a school contribution made under section 292q of this title pursuant to such a Federal capital contribution (in this section referred to as an “exempt school contribution”).
 
-&emsp;(B) A Federal capital contribution under section 292q of this title may not be construed asbeing an exempt Federal capital contribution if the contribution was made from amounts appropriated before October 1, 1990. A school contribution under section 292q of this title may not be construed as being an exempt school contribution if the contribution was made pursuant to a Federal capital contribution under such section that was made from amounts appropriated before such date.
+&emsp;(B) A Federal capital contribution under section 292q of this title may not be construed as being an exempt Federal capital contribution if the contribution was made from amounts appropriated before October 1, 1990. A school contribution under section 292q of this title may not be construed as being an exempt school contribution if the contribution was made pursuant to a Federal capital contribution under such section that was made from amounts appropriated before such date.
 
 #### (3) Noncompliance by student
 

@@ -26,12 +26,6 @@ Repeal by Pub. L. 94–579, title VII, §706(a), Oct. 21, 1976, 90 Stat. 2793, i
 
 Act Mar. 4, 1940, ch. 40, §2, 54 Stat. 43, which is classified to section 80a of this title, abolished the General Grant National Park and added the lands to the Kings Canyon National Park as the General Grant grove section.
 
-#### Cross References
-
-Issuance of licenses for construction, operation, and maintenance of transmission lines, for development, transmission, and utilization of power, across public lands and reservations, see section 797 of this title.
-
-Rights-of-way through public lands, provisions of sections 1, 2, and 3 of this title not to affect or modify this section, see section 4 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 4, 46, 47, 193, 225, 349, 393 of this title.

@@ -14,5 +14,5 @@ This chapter, referred to in text, was in the original “this Act”, meaning a
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 152, 221, 303, 305, 306, 309, 510 of this title.
+This section is referred to in sections 152, 221, 302a, 303, 305, 306, 309, 510 of this title.
 

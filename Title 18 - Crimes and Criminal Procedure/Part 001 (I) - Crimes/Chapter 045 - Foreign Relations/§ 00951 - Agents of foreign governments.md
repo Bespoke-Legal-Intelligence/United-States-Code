@@ -22,7 +22,7 @@
 
 &emsp;(2) such person—
 
-&emsp;&emsp;(A) is an agent of Cuba or any other country that the President determines (and so reports to the Congress) poses a threat to the national security interest of the United States for purposes of this section, unless the Attorney General, after consultation with the Secretary of State, determines and so reports to the Congress that the national security or foreign policy interests of the United States require that the provisions of this section do not apply in specific circumstances to agents of such country; or
+&emsp;&emsp;(A) is an agent of Cuba or any other country that the President determines (and so reports to the Congress) poses a threat to thenational security interest of the United States for purposes of this section, unless the Attorney General, after consultation with the Secretary of State, determines and so reports to the Congress that the national security or foreign policy interests of the United States require that the provisions of this section do not apply in specific circumstances to agents of such country; or
 
 &emsp;&emsp;(B) has been convicted of, or has entered a plea of nolo contendere with respect to, any offense under section 792 through 799, 831, or 2381 of this title or under section 11 of the Export Administration Act of 1979, except that the provisions of this subsection shall not apply to a person described in this clause for a period of more than five years beginning on the date of the conviction or the date of entry of the plea of nolo contendere, as the case may be.
 
@@ -55,18 +55,6 @@ Section 11 of the Export Administration Act of 1979, referred to in subsec. (e)(
 #### Effective Date of 1983 Amendment
 
 Amendment by Pub. L. 97–462 effective 45 days after Jan. 12, 1983, see section 4 of Pub. L. 97–462, set out as a note under section 2071 of Title 28, Judiciary and Judicial Procedure.
-
-#### Canal Zone
-
-Applicability of section to Canal Zone, see section 14 of this title.
-
-#### Cross References
-
-False representation as foreign diplomat, consul or officers, see section 915 of this title.
-
-Foreign government, definition of, see section 11 of this title.
-
-Jurisdiction of offenses, see section 3241 of this title.
 
 #### Section Referred to in Other Sections
 

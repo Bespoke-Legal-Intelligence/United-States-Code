@@ -34,7 +34,7 @@ The Administrator shall, after careful investigation, and in cooperation with ot
 
 (3) For the purposes of this subsection the term “basin” includes, but is not limited to, rivers and their tributaries, streams, coastal waters, sounds, estuaries, bays, lakes, and portions thereof as well as the lands drained thereby.
 
-(June 30, 1948, ch. 758, title I, §102, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 817; amended Pub. L. 95–91, title IV, §402(a)(1)(A), Aug. 4, 1977, 91 Stat. 583; Pub. L. 95–217, §5(b), Dec. 27, 1977, 91 Stat. 1567; Pub. L. 104–66, title II, §2021(a), Dec. 21, 1995, 109 Stat. 726.)
+(June 30, 1948, ch. 758, title I, §102, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 817; amendedPub. L. 95–91, title IV, §402(a)(1)(A), Aug. 4, 1977, 91 Stat. 583; Pub. L. 95–217, §5(b), Dec. 27, 1977, 91 Stat. 1567; Pub. L. 104–66, title II, §2021(a), Dec. 21, 1995, 109 Stat. 726.)
 
 #### Amendments
 

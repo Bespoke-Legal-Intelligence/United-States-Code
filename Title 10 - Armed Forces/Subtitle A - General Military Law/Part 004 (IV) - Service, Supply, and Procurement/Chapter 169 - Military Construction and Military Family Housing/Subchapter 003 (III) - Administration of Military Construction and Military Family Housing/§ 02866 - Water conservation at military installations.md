@@ -42,10 +42,6 @@ Use of Water Cost Savings.—Water cost savings realized under this section shal
 
 1996—Subsec. (c)(2). Pub. L. 104–106 substituted “appropriate committees of Congress” for “Committees on Armed Services and Appropriations of the Senate and House of Representatives”.
 
-#### Retention of Savings and Rebates
-
-For provisions requiring Director of Office of Management and Budget to develop guidelines and to implement procedures to allow agencies to retain savings from water conservation efforts as provided in this section, see Ex. Ord. No. 12902, §502, Mar. 8, 1994, 59 F.R. 11469, set out as a note under section 6201 of Title 42, The Public Health and Welfare.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 2865 of this title.

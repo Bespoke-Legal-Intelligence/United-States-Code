@@ -32,7 +32,7 @@ In carrying on activities which further the purposes of this chapter, subject to
 
 (4)(A) Notwithstanding the other provisions of this subsection, the United States Information Agency is authorized to enter into contracts for periods not to exceed 7 years for circuit capacity to distribute radio and television programs.
 
-(B) The authority of this paragraph may be exercised for a fiscal year only to such extent or insuch amounts as are provided in advance in appropriations Acts.
+(B) The authority of this paragraph may be exercised for a fiscal year only to such extent or in such amounts as are provided in advance in appropriations Acts.
 
 (Jan. 27, 1948, ch. 36, title VIII, §802, 62 Stat. 12; Pub. L. 97–241, title III, §304(b), Aug. 24, 1982, 96 Stat. 292; Pub. L. 103–236, title II, §225, Apr. 30, 1994, 108 Stat. 423.)
 
@@ -54,7 +54,7 @@ United States Information Agency (other than Broadcasting Board of Governors and
 
 Ex. Ord. No. 10477, Aug. 1, 1953, 18 F.R. 4540, as amended by Ex. Ord. No. 10822, May 20, 1959, 24 F.R. 4159; Ex. Ord. No. 12292, Feb. 23, 1981, 46 F.R. 13967; provided:
 
-Section 1. <i>Determination</i>. It is hereby determined that it is necessary, in order to carry out the functions transferred to the Director of the United States Information Agency (hereinafter referred to as the Director) by the provisions of subsections (a), (b), and (c) of section 2 of the said Reorganization Plan No. 8 of 1953, to authorize the Director to exercise, in relation to respective functions so transferred, the authority specified in sections 2 and 3 hereof.
+Section 1. <i>Determination</i>. It is hereby determined that it is necessary, in order to carry out the functionstransferred to the Director of the United States Information Agency (hereinafter referred to as the Director) by the provisions of subsections (a), (b), and (c) of section 2 of the said Reorganization Plan No. 8 of 1953, to authorize the Director to exercise, in relation to respective functions so transferred, the authority specified in sections 2 and 3 hereof.
 
 Sec. 2. \[Revoked by Ex. Ord. No. 12292, Feb. 23, 1981, 46 F.R. 13967.\]
 

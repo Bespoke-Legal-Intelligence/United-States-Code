@@ -10,7 +10,7 @@
 
 (b)(1) The head of an executive, judicial, or legislative agency may not act under subsection (a)(2) or (3) of this section on a claim that appears to be fraudulent, false, or misrepresented by a party with an interest in the claim, or that is based on conduct in violation of the antitrust laws.
 
-(2) The Secretary of Transportation may not compromise for less than $500 a penalty undersection 21302 of title 49 for a violation of chapter 203, 205, or 207 of title 49 or a regulation or requirement prescribed or order issued under any of those chapters.
+(2) The Secretary of Transportation may not compromise for less than $500 a penalty under section 21302 of title 49 for a violation of chapter 203, 205, or 207 of title 49 or a regulation or requirement prescribed or order issued under any of those chapters.
 
 (c) A compromise under this section is final and conclusive unless gotten by fraud, misrepresentation, presenting a false claim, or mutual mistake of fact. An accountable official is not liable for an amount paid or for the value of property lost or damaged if the amount or value is not recovered because of a compromise under this section.
 
@@ -66,7 +66,7 @@
 
 (5) The head of each executive agency may provide to a consumer reporting agency or commercial reporting agency information from a system of records that a person is responsible for a claim which is current, if notice required by section 552a(e)(4) of title 5 indicates that information in the system may be disclosed to a consumer reporting agency or commercial reporting agency, respectively.
 
-(f)(1) The Secretary of Defense may suspend or terminate an action by the Secretary or by the Secretary of a military department under subsection (a) to collect a claim against the estate of a person who died while serving on active duty as a member of the Army, Navy, Air Force, Marine Corps, or Coast Guard during a period when the Coast Guard is operating as a service in the Navy if the Secretary determines that, under the circumstances applicable with respect to the deceased person, it is appropriate to do so.
+(f)(1) The Secretary of Defense may suspend or terminate an action by the Secretary or by theSecretary of a military department under subsection (a) to collect a claim against the estate of a person who died while serving on active duty as a member of the Army, Navy, Air Force, Marine Corps, or Coast Guard during a period when the Coast Guard is operating as a service in the Navy if the Secretary determines that, under the circumstances applicable with respect to the deceased person, it is appropriate to do so.
 
 (2) The Secretary of Transportation may suspend or terminate an action by the Secretary under subsection (a) to collect a claim against the estate of a person who died while serving on active duty as a member of the Coast Guard if the Secretary determines that, under the circumstances applicable with respect to the deceased person, it is appropriate to do so.
 
@@ -180,7 +180,7 @@
 
 &emsp;(iii) The cumulative balance of guaranteed loans outstanding, the estimated net present value of such guarantees, the annual administrative expenses of such guarantees (including the portion of salaries and expenses that are directly related to such guaranteed loans), and the estimated net proceeds that would be received by the Government if such loan guarantees were sold.
 
-&emsp;(iv) The cumulative balance of defaulted loans that were previously guaranteed and have resulted in loans receivables, the estimated net present value of such loan assets, the annual administrative expenses of such loan assets (including the portion of salaries and expenses that are directly related to such loan assets), and the estimated net proceeds that would be received by the Government if such loan assets were sold.
+&emsp;(iv) The cumulative balance of defaulted loans that were previously guaranteed and have resulted in loans receivables, the estimated net present value of such loan assets, the annual administrative expenses of such loan assets (including the portion of salaries and expenses that are directly related to suchloan assets), and the estimated net proceeds that would be received by the Government if such loan assets were sold.
 
 &emsp;(v) The marketability of all debts.
 
@@ -300,7 +300,7 @@ Subsec. (e)(2). Pub. L. 104–134, §31001(g)(1)(C), inserted “, the Secretar
 
 Subsec. (f). Pub. L. 104–316, §115(g)(1)(C), redesignated the subsec. (g), relating to authority to suspend or terminate collection actions against deceased members, as (f). Former subsec. (f) redesignated (e).
 
-Subsec. (f)(1). Pub. L. 104–134, §31001(c)(1), (k)(1), (2), in introductory provisions substituted “the head of anexecutive, judicial, or legislative agency shall” for “the head of an executive or legislative agency may” and “a person” for “an individual”.
+Subsec. (f)(1). Pub. L. 104–134, §31001(c)(1), (k)(1), (2), in introductory provisions substituted “the head of an executive, judicial, or legislative agency shall” for “the head of an executive or legislative agency may” and “a person” for “an individual”.
 
 Subsec. (f)(1)(C), (D), (F). Pub. L. 104–134, §31001(k)(3), substituted “the person” for “the individual” wherever appearing.
 
@@ -368,13 +368,9 @@ Section 31001(bb) of Pub. L. 104–134 provided that: “The Director of the Off
 
 Pub. L. 89–508, §4, July 19, 1966, 80 Stat. 309, provided that: “Nothing in this Act \[now this section\] shall increase or diminish the existing authority of the head of an agency to litigate claims, or diminish his existing authority to settle, compromise, or close claims.”
 
-#### Cross References
-
-Waiver of claims for overpayment of pay and allowances of employees of Executive agencies, see section 5584 of Title 5, Government Organization and Employees.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3701, 3712, 3716, 3720C of this title; title 5 sections 552a, 5514, 5569; title 10 sections 2739, 2780; title 22 section 2671; title 26 section 6103; title 37 section 559; title 38 section 5301; title 42 section 404; title 49 sections 21302, 21303.
+This section is referred to in sections 3701, 3712, 3716, 3720C of this title; title 5 sections 552a, 5514, 5569; title 10 sections 2739, 2780; title 22 section 2671; title 26 section 6103; title 37 section 559; title 38 section 5301; title 42 sections 404, 1008, 1383; title 49 sections 21302, 21303.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Attorney General and the Secretary of the Treasury may prescribe jointly.”</i>
 

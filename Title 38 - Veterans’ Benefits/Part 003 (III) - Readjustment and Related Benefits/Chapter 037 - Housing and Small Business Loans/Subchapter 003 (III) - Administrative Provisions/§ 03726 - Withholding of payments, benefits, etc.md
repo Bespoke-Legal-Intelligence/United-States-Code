@@ -6,11 +6,11 @@
 
 (c) If the Secretary determines that the veteran or surviving spouse should not be released from liability, the Secretary shall notify the veteran or surviving spouse of that determination and provide a notice of the procedure for appealing that determination, unless the Secretary has previously made such determination and notified the veteran or surviving spouse of the procedure for appealing the determination.
 
-(Added Pub. L. 89–358, §5(f)(1), Mar. 3, 1966, 80 Stat. 26, §1826; amended Pub. L. 94–324, §7(30),June 30, 1976, 90 Stat. 722; Pub. L. 97–66, title V, §504, Oct. 17, 1981, 95 Stat. 1033; Pub. L. 101–237, title III, §313(b)(1), (2), Dec. 18, 1989, 103 Stat. 2077; renumbered §3726, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–33, title VIII, §8033(a), Aug. 5, 1997, 111 Stat. 669.)
+(Added Pub. L. 89–358, §5(f)(1), Mar. 3, 1966, 80 Stat. 26, §1826; amended Pub. L. 94–324, §7(30), June 30, 1976, 90 Stat. 722; Pub. L. 97–66, title V, §504, Oct. 17, 1981, 95 Stat. 1033; Pub. L. 101–237, title III, §313(b)(1), (2), Dec. 18, 1989, 103 Stat. 2077; renumbered §3726, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–33, title VIII, §8033(a), Aug. 5, 1997, 111 Stat. 669.)
 
 #### Amendments
 
-1997—Pub. L. 105–33 designated existing provisions as subsec. (a), substituted “unless the Secretary provides such veteran or surviving spouse with notice by certified mail with return receipt requested of the authority of the Secretary to waive the payment of indebtedness under section 5302(b) of this title.” for “unless (1) there is first received the consent in writing of such veteran or surviving spouse, as the case may be, or (2) such liability and the amount thereof was determined by a court of competent jurisdiction in a proceeding to which such veteran or surviving spouse was a party.”, and added subsecs. (b) and (c).
+1997—Pub. L. 105–33 designated existing provisions as subsec. (a), substituted “unless the Secretary provides such veteran or surviving spouse with notice by certified mail with return receipt requested of the authority of the Secretary to waive the payment of indebtedness under section 5302(b) of this title.” for “unless (1) there is first received the consent in writing of such veteran or surviving spouse, as the case may be, or (2)such liability and the amount thereof was determined by a court of competent jurisdiction in a proceeding to which such veteran or surviving spouse was a party.”, and added subsecs. (b) and (c).
 
 1991—Pub. L. 102–83 renumbered section 1826 of this title as this section.
 

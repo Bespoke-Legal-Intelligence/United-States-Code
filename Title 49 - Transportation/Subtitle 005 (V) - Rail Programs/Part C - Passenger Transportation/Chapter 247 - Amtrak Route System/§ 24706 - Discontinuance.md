@@ -114,7 +114,7 @@ Subsec. (c). Pub. L. 105–134, §142(a), struck out subsec. (c) which related t
 
 #### Effective Date of 1997 Amendment
 
-Amendment by section 142(a) of Pub. L. 105–134 effective 180 days after Dec. 2, 1997, see section 142(c) of Pub. L. 105–134, set out in an Employee Protection Reforms note below.
+Amendment by section 142(a) of Pub. L. 105–134 effective 180 days after Dec. 2, 1997, see section 142(c) of Pub.L. 105–134, set out in an Employee Protection Reforms note below.
 
 #### Employee Protection Reforms
 

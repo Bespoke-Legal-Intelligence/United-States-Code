@@ -48,7 +48,7 @@
 
 &emsp;No individual shall be selected as an enrollee unless the individual or organization implementing the standards and procedures described in subsection (a) of this section determines that—
 
-&emsp;&emsp;(A) there is a reasonable expectation that the individual considered for selection can participate successfully in group situations and activities, and is not likely to engage inbehavior that would prevent other enrollees from receiving the benefit of the Job Corps program or be incompatible with the maintenance of sound discipline and satisfactory relationships between the Job Corps center to which the individual might be assigned and communities surrounding the Job Corps center;
+&emsp;&emsp;(A) there is a reasonable expectation that the individual considered for selection can participate successfully in group situations and activities, and is not likely to engage in behavior that would prevent other enrollees from receiving the benefit of the Job Corps program or be incompatible with the maintenance of sound discipline and satisfactory relationships between the Job Corps center to which the individual might be assigned and communities surrounding the Job Corps center;
 
 &emsp;&emsp;(B) the individual manifests a basic understanding of both the rules to which the individual will be subject and of the consequences of failure to observe the rules; and
 
@@ -95,6 +95,10 @@
 &emsp;An enrollee who is younger than 18 shall not be assigned to a Job Corps center other than the center closest to the home of the enrollee pursuant to paragraph (1) if the parent or guardian of the enrollee objects to the assignment.
 
 (Pub. L. 105–220, title I, §145, Aug. 7, 1998, 112 Stat. 1007.)
+
+#### Prior Provisions
+
+Provisions similar to this section were contained in sections 1694 to 1696 of this title prior to repeal by Pub. L. 105–220.
 
 #### Section Referred to in Other Sections
 

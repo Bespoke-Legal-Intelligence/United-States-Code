@@ -28,7 +28,7 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 #### Disposal of Naval Petroleum Reserves
 
-Pub. L. 105–261, div. C, title XXXIV, Oct. 17, 1998, 112 Stat. 2265, provided that:
+Pub. L. 105–261, div. C, title XXXIV, Oct. 17, 1998, 112 Stat. 2265, as amended by Pub. L. 106–398, §1 \[div. C, title XXXIV, §3403(a), (c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–484, 1654A–489, provided that:
 
 #### “SEC. 3401. DEFINITIONS.
 
@@ -36,7 +36,7 @@ Pub. L. 105–261, div. C, title XXXIV, Oct. 17, 1998, 112 Stat. 2265, provided 
 
 &emsp;“(1) The term ‘naval petroleum reserves’ has the meaning given the term in section 7420(2) of title 10, United States Code.
 
-&emsp;“(2) The term ‘Naval Petroleum Reserve Numbered 2’ means the naval petroleum reserve, commonly referred to as the Buena Vista unit, that is located inKern County, California, and was established by Executive order of the President, dated December 13, 1912.
+&emsp;“(2) The term ‘Naval Petroleum Reserve Numbered 2’ means the naval petroleum reserve, commonly referred to as the Buena Vista unit, that is located in Kern County, California, and was established by Executive order of the President, dated December 13, 1912.
 
 &emsp;“(3) The term ‘Naval Petroleum Reserve Numbered 3’ means the naval petroleum reserve, commonly referred to as the Teapot Dome unit, that is located in the State of Wyoming and was established by Executive order of the President, dated April 30, 1915.
 
@@ -104,11 +104,139 @@ Relationship to Antitrust Laws.—This section does not modify, impair, or super
 
 “(a)
 
-Transfer of Administrative Jurisdiction Authorized.—Subject to section 3406, the Secretary of Energy may transfer to the Secretary of the Interior administrative jurisdiction and control over all public domain lands included within Oil Shale Reserve Numbered 2 for management in accordance with the general land laws.
+Definitions.—In this section:
+
+&emsp;“(1) NOSR–2.—The term ‘NOSR–2’ means Oil Shale Reserve Numbered 2, as identified on a map on file in the Office of the Secretary of the Interior.
+
+&emsp;“(2)
+
+Moab site.—The term ‘Moab site’ means the Moab uranium milling site located approximately three miles northwest of Moab, Utah, and identified in the Final Environmental Impact Statement issued by the Nuclear Regulatory Commission in March 1996 in conjunction with Source Materials License No. SUA–917.
+
+&emsp;“(3)
+
+Map.—The term ‘map’ means the map depicting the boundaries of NOSR–2, to be kept on file and available for public inspection in the offices of the Department of the Interior.
+
+&emsp;“(4)
+
+Tribe.—The term ‘Tribe’ means the Ute Indian Tribe of the Uintah and Ouray Indian Reservation.
+
+&emsp;“(5)
+
+Trustee.—The term ‘Trustee’ means the Trustee of the Moab Mill Reclamation Trust.
 
 “(b)
 
-Relationship to Indian Reservation.—The transfer of administrative jurisdiction under this section does not affect any interest, right, or obligation respecting the Uintah and Ouray Indian Reservation located in Oil Shale Reserve Numbered 2.
+Conveyance.—(1) Except as provided in paragraph (2) and subsection (e), all right, title, and interest of the United States in and to all Federal lands within the exterior boundaries of NOSR–2 (including surface and mineral rights) are hereby conveyed to the Tribe in fee simple. The Secretary of Energy shall execute and file in the appropriate office a deed or other instrument effectuating the conveyance made by this section.
+
+“(2) The conveyance under paragraph (1) does not include the following:
+
+&emsp;“(A) The portion of the bed of Green River contained entirely within NOSR–2, as depicted on the map.
+
+&emsp;“(B) The land (including surface and mineral rights) to the west of the Green River within NOSR–2, as depicted on the map.
+
+&emsp;“(C) A 1/4 mile scenic easement on the east side of the Green River within NOSR–2.
+
+“(c)
+
+Conditions on Conveyance.—(1) The conveyance under subsection (b) is subject to valid existing rights in effect on the day before the date of the enactment of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 \[Oct. 30, 2000\].
+
+“(2) On completion of the conveyance under subsection (b), the United States relinquishes all management authority over the conveyed land, including tribal activities conducted on the land.
+
+“(3) The land conveyed to the Tribe under subsection (b) shall not revert to the United States for management in trust status.
+
+“(4) The reservation of the easement under subsection (b)(2)(C) shall not affect the right of the Tribe to use and maintain access to the Green River through the use of the road within the easement, as depicted on the map.
+
+“(5) Each withdrawal that applies to NOSR–2 and that is in effect on the date of the enactment of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 \[Oct. 30, 2000\] is revoked to the extent that the withdrawal applies to NOSR–2.
+
+“(6) Notwithstanding that the land conveyed to the Tribe under subsection (b) shall not be part of the reservation of the Tribe, such land shall be deemed to be part of the reservation of the Tribe for the purposes of criminal and civil jurisdiction.
+
+“(d)
+
+Administration of Unconveyed Land and Interests in Land.—(1) The land and interests in land excluded by subparagraphs (A) and (B) of subsection (b)(2) from conveyance under subsection (b) shall be administered by the Secretary of the Interior in accordance with the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701 et seq.).
+
+“(2) Not later than three years after the date of the enactment of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 \[Oct. 30, 2000\], the Secretary of the Interior shall submit to Congress a land use plan for the management of the land and interests in land referred to in paragraph (1).
+
+“(3) There are authorized to be appropriated to the Secretary of the Interior such sums as are necessary to carry out this subsection.
+
+“(e)
+
+Royalty.—(1) Notwithstanding the conveyance under subsection (b), the United States retains a nine percent royalty interest in the value of any oil, gas, other hydrocarbons, and all other minerals that are produced, saved, and sold from the conveyed land during the period beginning on the date of the conveyance and ending on the date the Secretary of Energy releases the royalty interest under subsection (i).
+
+“(2) The royalty payments shall be made by the Tribe or its designee to the Secretary of Energy during the period that the oil, gas, hydrocarbons, or minerals are being produced, saved, sold, or extracted. The Secretary of Energy shall retain and use the payments in the manner provided in subsection (i)(3).
+
+“(3) The royalty interest retained by the United States under this subsection does not include any development, production, marketing, and operating expenses.
+
+“(4) The Tribe shall submit to the Secretary of Energy and to Congress an annual report on resource development and other activities of the Tribe concerning the conveyance under subsection (b).
+
+“(5) Not later than five years after the date of the enactment of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 \[Oct. 30, 2000\], and every five years thereafter, the Tribe shall obtain an audit of all resource development activities of the Tribe concerning the conveyance under subsection (b), as provided under chapter 75 of title 31, United States Code. The results of each audit under this paragraph shall be included in the next annual report submitted under paragraph (4).
+
+“(f)
+
+River Management.—(1) The Tribe shall manage, under Tribal jurisdiction and in accordance with ordinances adopted by the Tribe, land of the Tribe that is adjacent to, and within 1/4 mile of, the Green River in a manner that—
+
+&emsp;“(A) maintains the protected status of the land; and
+
+&emsp;“(B) is consistent with the government-to-government agreement and in the memorandum of understanding dated February 11, 2000, as agreed to by the Tribe and the Secretary of the Interior.
+
+“(2) An ordinance referred to in paragraph (1) shall not impair, limit, or otherwise restrict the management and use of any land that is not owned, controlled, or subject to the jurisdiction of the Tribe.
+
+“(3) An ordinance adopted by the Tribe and referenced in the government-to-government agreement may not be repealed or amended without the written approval of both the Tribe and the Secretary of the Interior.
+
+“(g)
+
+Plant Species.—(1) In accordance with a government-to-government agreement between the Tribe and the Secretary of the Interior, in a manner consistent with levels of legal protection in effect on the date of the enactment of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 \[Oct. 30, 2000\], the Tribe shall protect, under ordinances adopted by the Tribe, any plant species that is—
+
+&emsp;“(A) listed as an endangered species or threatened species under section 4 of the Endangered Species Act of 1973 (16 U.S.C. 1533); and
+
+&emsp;“(B) located or found on the NOSR–2 land conveyed to the Tribe.
+
+“(2) The protection described in paragraph (1) shall be performed solely under tribal jurisdiction.
+
+“(h)
+
+Horses.—(1) The Tribe shall manage, protect, and assert control over any horse not owned by the Tribe or tribal members that is located or found on the NOSR–2 land conveyed to the Tribe in a manner that is consistent with Federal law governing the management, protection, and control of horses in effect on the date of the enactment of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 \[Oct. 30, 2000\].
+
+“(2) The management, control, and protection of horses described in paragraph (1) shall be performed solely—
+
+&emsp;“(A) under tribal jurisdiction; and
+
+&emsp;“(B) in accordance with a government-to-government agreement between the Tribe and the Secretary of the Interior.
+
+“(i)
+
+Remedial Action at Moab Site.—(1)(A) The Secretary of Energy shall prepare a plan for remediation, including ground water restoration, of the Moab site in accordance with title I of the Uranium Mill Tailings Radiation Control Act of 1978 (42 U.S.C. 7911 et seq.). The Secretary of Energy shall enter into arrangements with the National Academy of Sciences to obtain the technical advice, assistance, and recommendations of the National Academy of Sciences in objectively evaluating the costs, benefits, and risks associated with various remediation alternatives, including removal or treatment of radioactive or other hazardous materials at the site, ground water restoration, and long-term management of residual contaminants. If the Secretary prepares a remediation plan that is not consistent with the recommendations of the National Academy of Sciences, the Secretary shall submit to Congress a report explaining the reasons for deviation from the National Academy of Sciences’ recommendations.
+
+“(B) The remediation plan required by subparagraph (A) shall be completed not later than one year after the date of the enactment of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 \[Oct. 30, 2000\], and the Secretary of Energy shall commence remedial action at the Moab site as soon as practicable after the completion of the plan.
+
+“(C) The license for the materials at the Moab site issued by the Nuclear Regulatory Commission shall terminate one year after the date of the enactment of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001, unless the Secretary of Energy determines that the license may be terminated earlier. Until the license is terminated, the Trustee, subject to the availability of funds appropriated specifically for a purpose described in clauses (i) through (iii) or made available by the Trustee from the Moab Mill Reclamation Trust, may carry out—
+
+&emsp;“(i) interim measures to reduce or eliminate localized high ammonia concentrations in the Colorado River, identified by the United States Geological Survey in a report dated March 27, 2000;
+
+&emsp;“(ii) activities to dewater the mill tailings at the Moab site; and
+
+&emsp;“(iii) other activities related to the Moab site, subject to the authority of the Nuclear Regulatory Commission and in consultation with the Secretary of Energy.
+
+“(D) As part of the remediation plan for the Moab site required by subparagraph (A), the Secretary of Energy shall develop, in consultation with the Trustee, the Nuclear Regulatory Commission, and the State of Utah, an efficient and legal means for transferring all responsibilities and title to the Moab site and all the materials therein from the Trustee to the Department of Energy.
+
+“(2) The Secretary of Energy shall limit the amounts expended in carrying out the remedial action under paragraph (1) to—
+
+&emsp;“(A) amounts specifically appropriated for the remedial action in an appropriation Act; and
+
+&emsp;“(B) other amounts made available for the remedial action under this subsection.
+
+“(3)(A) The royalty payments received by the Secretary of Energy under subsection (e) shall be available to the Secretary, without further appropriation, to carry out the remedial action under paragraph (1) until such time as the Secretary determines that all costs incurred by the United States to carry out the remedial action (other than costs associated with long-term monitoring) have been paid.
+
+“(B) Upon making the determination referred to in subparagraph (A), the Secretary of Energy shall transfer all remaining royalty amounts to the general fund of the Treasury and release to the Tribe the royalty interest retained by the United States under subsection (e).
+
+“(4)(A) Funds made available to the Department of Energy for national security activities shall not be used to carry out the remedial action under paragraph (1), except that the Secretary of Energy may use such funds for program direction directly related to the remedial action.
+
+“(B) There are authorized to be appropriated to the Secretary of Energy to carry out the remedial action under paragraph (1) such sums as are necessary.
+
+“(5) If the Moab site is sold after the date on which the Secretary of Energy completes the remedial action under paragraph (1), the seller shall pay to the Secretary of Energy, for deposit in the general fund of the Treasury, the portion of the sale price that the Secretary determines resulted from the enhancement of the value of the Moab site as a result of the remedial action. The enhanced value of the Moab site shall be equal to the difference between—
+
+&emsp;“(A) the fair market value of the Moab site on the date of the enactment of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 \[Oct. 30, 2000\], based on information available on that date; and
+
+&emsp;“(B) the fair market value of the Moab site, as appraised on completion of the remedial action.
 
 #### “SEC. 3406. ADMINISTRATION.
 
@@ -130,7 +258,11 @@ Elements of Lease.—A lease under this title may provide for the exploration fo
 
 “(e)
 
-Waiver of Requirements Regarding Consultation and Approval.—Section 7431 of title 10, United States Code, shall not apply to the disposal of property under this title.”
+Waiver of Requirements Regarding Consultation and Approval.—Section 7431 of title 10, United States Code, shall not apply to the disposal of property under this title.
+
+“(f)
+
+Oil Shale Reserve Numbered 2.—This section does not apply to the transfer of Oil Shale Reserve Numbered 2 under section 3405.”
 
 Pub. L. 104–106, div. C, title XXXIV, subtitle B, Feb. 10, 1996, 110 Stat. 631, as amended by Pub. L. 106–65, div. A, title X, §1067(6), Oct. 5, 1999, 113 Stat. 774, provided that:
 
@@ -148,7 +280,7 @@ Pub. L. 104–106, div. C, title XXXIV, subtitle B, Feb. 10, 1996, 110 Stat. 631
 
 &emsp;“(5) The term ‘Secretary’ means the Secretary of Energy.
 
-&emsp;“(6) The term ‘appropriate congressional committees’ means the Committee on Armed Services of the Senate and the Committee on Armed Services and the Committee on Commerce of the House of Representatives.
+&emsp;“(6) The term ‘appropriate congressional committees’ means the Committee on Armed Services of the Senate and the Committee on Armed Services and the Committee on Commerce \[now Committee on Energy and Commerce\] of the House of Representatives.
 
 #### “SEC. 3412. SALE OF NAVAL PETROLEUM RESERVE NUMBERED 1.
 
@@ -166,7 +298,7 @@ Equity Finalization.—(1) Not later than eight months after the effective date,
 
 “(c)
 
-Notice of Sale.—Not later than two months after the effective date, the Secretary shall publish a notice of intent to sell Naval Petroleum Reserve Numbered 1. The Secretary shall make all technical, geological, and financial information relevant to the sale of the reserve available to all interested and qualified buyers upon request. The Secretary, in consultation with the Administrator of General Services, shall ensure that the sale process is fair and open to all interested and qualified parties.
+Notice of Sale.—Not later than two months after the effective date, the Secretary shall publish a notice of intent to sell Naval Petroleum Reserve Numbered 1. The Secretary shall make all technical, geological, and financial information relevant to the sale of the reserve available to all interested and qualifiedbuyers upon request. The Secretary, in consultation with the Administrator of General Services, shall ensure that the sale process is fair and open to all interested and qualified parties.
 
 “(d)
 

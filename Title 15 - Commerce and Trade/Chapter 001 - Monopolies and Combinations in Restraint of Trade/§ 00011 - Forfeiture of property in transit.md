@@ -8,9 +8,3 @@ Any property owned under any contract or by any combination, or pursuant to any 
 
 1913—Act Feb. 12, 1913, substituted “imported into and being within the United States or” for “and”.
 
-#### Cross References
-
-Fines, penalties, and forfeitures, see chapter 163 (§2461 et seq.) of Title 28, Judiciary and Judicial Procedure.
-
-Forfeiture of property in transit, see, also, section 6 of this title.
-

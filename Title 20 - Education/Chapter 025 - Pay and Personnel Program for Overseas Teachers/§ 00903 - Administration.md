@@ -70,7 +70,7 @@ Amendment by Pub. L. 86–370 effective on first day of first pay period which b
 
 #### Teachers Employed by Canal Zone Government School System on September 30, 1979
 
-Subsec. (c) of this section not to apply with respect to any teacher who was employed by the Canal Zone Government school system on September 30, 1979, and who was transferred from such position to a teaching position which is under the Department of Defense Overseas Dependent School System and the permanent duty station of which is in the Republic of Panama, until the rates of basic compensation established under subsec. (c) of this section equal or exceed the rates of basic compensation then in effect for teachers who were so transferred, see section 3671(c)(1) of Title 22, Foreign Relations and Intercourse.
+Subsec. (c) of this section not to apply with respect to any teacher who was employed by the Canal Zone Government school system on September 30, 1979, and who was transferred from such position to a teachingposition which is under the Department of Defense Overseas Dependent School System and the permanent duty station of which is in the Republic of Panama, until the rates of basic compensation established under subsec. (c) of this section equal or exceed the rates of basic compensation then in effect for teachers who were so transferred, see section 3671(c)(1) of Title 22, Foreign Relations and Intercourse.
 
 #### Section Referred to in Other Sections
 

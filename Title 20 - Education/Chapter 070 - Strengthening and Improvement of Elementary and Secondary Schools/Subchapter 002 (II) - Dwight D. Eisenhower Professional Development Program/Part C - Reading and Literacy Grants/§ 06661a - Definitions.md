@@ -6,19 +6,7 @@ For purposes of this part:
 
 &emsp;The term “eligible professional development provider” means a provider of professional development in reading instruction to teachers that is based on scientifically based reading research.
 
-#### (2) Family literacy services
-
-&emsp;The term “family literacy services” means services provided to participants on a voluntary basis that are of sufficient intensity in terms of hours, and of sufficient duration, to make sustainable changes in a family, and that integrate all of the following activities:
-
-&emsp;&emsp;(A) Interactive literacy activities between parents and their children.
-
-&emsp;&emsp;(B) Training for parents regarding how to be the primary teacher for their children and full partners in the education of their children.
-
-&emsp;&emsp;(C) Parent literacy training that leads to economic self-sufficiency.
-
-&emsp;&emsp;(D) An age-appropriate education to prepare children for success in school and life experiences.
-
-#### (3) Instructional staff
+#### (2) Instructional staff
 
 &emsp;The term “instructional staff”—
 
@@ -26,7 +14,7 @@ For purposes of this part:
 
 &emsp;&emsp;(B) includes principals, teachers, supervisors of instruction, librarians, library school media specialists, teachers of academic subjects other than reading, and other individuals who have responsibility for assisting children to learn to read.
 
-#### (4) Reading
+#### (3) Reading
 
 &emsp;The term “reading” means a complex system of deriving meaning from print that requires all of the following:
 
@@ -42,7 +30,7 @@ For purposes of this part:
 
 &emsp;&emsp;(F) The development and maintenance of a motivation to read.
 
-#### (5) Scientifically based reading research
+#### (4) Scientifically based reading research
 
 &emsp;The term “scientifically based reading research”—
 
@@ -58,9 +46,13 @@ For purposes of this part:
 
 &emsp;&emsp;&emsp;(iv) has been accepted by a peer-reviewed journal or approved by a panel of independent experts through a comparably rigorous, objective, and scientific review.
 
-(Pub. L. 89–10, title II, §2252, as added Pub. L. 105–277, div. A, §101(f) \[title VIII, §101(a)(2)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–392.)
+(Pub. L. 89–10, title II, §2252, as added Pub. L. 105–277, div. A, §101(f) \[title VIII, §101(a)(2)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–392; amended Pub. L. 106–554, §1(a)(4) \[div. B, title XVI, §1606(b)(2)(A)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–335.)
+
+#### Amendments
+
+2000—Pars. (2) to (5). Pub. L. 106–554 redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2), which defined the term “family literacy services”.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 6362 of this title.
+This section is referred to in sections 6361, 6362, 6365, 6369b of this title.
 

@@ -10,33 +10,43 @@
 
 &emsp;&emsp;(B) provide notice of the proposal in newspapers of general circulation or electronic media in the communities that may be affected by the proposal; and
 
-&emsp;&emsp;(C) on the same day the notice required by subparagraph (A) is issued, the Secretary shall submit to the Committee on Merchant Marine and Fisheries of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate documents, including an executive summary, consisting of—
+&emsp;&emsp;(C) no later than the day on which the notice required under subparagraph (A) is submitted to the Office of the Federal Register, submit a copy of that notice and the draft sanctuary designation documents prepared pursuant to paragraph (2), including an executive summary, to the Committee on Resources of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Governor of each State in which any part of the proposed sanctuary would be located.
 
-&emsp;&emsp;&emsp;(i) the terms of the proposed designation;
+#### (2) Sanctuary designation documents
 
-&emsp;&emsp;&emsp;(ii) the basis of the findings made under section 1433(a) of this title with respect to the area;
+&emsp;The Secretary shall prepare and make available to the public sanctuary designation documents on the proposal that include the following:
 
-&emsp;&emsp;&emsp;(iii) an assessment of the considerations under section 1433(b)(1) of this title;
+&emsp;&emsp;(A) A draft environmental impact statement pursuant to the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
 
-&emsp;&emsp;&emsp;(iv) proposed mechanisms to coordinate existing regulatory and management authorities within the area;
+&emsp;&emsp;(B) A resource assessment that documents—
 
-&emsp;&emsp;&emsp;(v) the draft management plan detailing the proposed goals and objectives, management responsibilities, resource studies, interpretive and educational programs, and enforcement, including surveillance activities for the area;
+&emsp;&emsp;&emsp;(i) present and potential uses of the area, including commercial and recreational fishing, research and education, minerals and energy development, subsistence uses, and other commercial, governmental, or recreational uses;
 
-&emsp;&emsp;&emsp;(vi) an estimate of the annual cost of the proposed designation, including costs of personnel, equipment and facilities, enforcement, research, and public education;
+&emsp;&emsp;&emsp;(ii) after consultation with the Secretary of the Interior, any commercial, governmental, or recreational resource uses in the areas that are subject to the primary jurisdiction of the Department of the Interior; and
 
-&emsp;&emsp;&emsp;(vii) the draft environmental impact statement;
+&emsp;&emsp;&emsp;(iii) information prepared in consultation with the Secretary of Defense, the Secretary of Energy, and the Administrator of the Environmental Protection Agency, on any past, present, or proposed future disposal or discharge of materials in the vicinity of the proposed sanctuary.
 
-&emsp;&emsp;&emsp;(viii) an evaluation of the advantages of cooperative State and Federal management if all or part of a proposed marine sanctuary is within the territorial limits of any State or is superjacent to the subsoil and seabed within the seaward boundary of a State, as that boundary is established under the Submerged Lands Act (43 U.S.C. 1301 et seq.); and
+> &emsp;&emsp;Public disclosure by the Secretary of such information shall be consistent with national security regulations.
 
-&emsp;&emsp;&emsp;(ix) the proposed regulations referred to in subparagraph (A).
+&emsp;&emsp;(C) A draft management plan for the proposed national marine sanctuary that includes the following:
 
-#### (2) Environmental impact statement
+&emsp;&emsp;&emsp;(i) The terms of the proposed designation.
 
-&emsp;The Secretary shall—
+&emsp;&emsp;&emsp;(ii) Proposed mechanisms to coordinate existing regulatory and management authorities within the area.
 
-&emsp;&emsp;(A) prepare a draft environmental impact statement, as provided by the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), on the proposal that includes the resource assessment report required under section 1433(b)(3) of this title, maps depicting the boundaries of the proposed designated area, and the existing and potential uses and resources of the area; and
+&emsp;&emsp;&emsp;(iii) The proposed goals and objectives, management responsibilities, resource studies, and appropriate strategies for managing sanctuary resources of the proposed sanctuary, including interpretation and education, innovative management strategies, research, monitoring and assessment, resource protection, restoration, enforcement, and surveillance activities.
 
-&emsp;&emsp;(B) make copies of the draft environmental impact statement available to the public.
+&emsp;&emsp;&emsp;(iv) An evaluation of the advantages of cooperative State and Federal management if all or part of the proposed sanctuary is within the territorial limits of any State or is superjacent to the subsoil and seabed within the seaward boundary of a State, as that boundary is established under the Submerged Lands Act (43 U.S.C. 1301 et seq.).
+
+&emsp;&emsp;&emsp;(v) An estimate of the annual cost to the Federal Government of the proposed designation, including costs of personnel, equipment and facilities, enforcement, research, and public education.
+
+&emsp;&emsp;&emsp;(vi) The proposed regulations referred to in paragraph (1)(A).
+
+&emsp;&emsp;(D) Maps depicting the boundaries of the proposed sanctuary.
+
+&emsp;&emsp;(E) The basis for the determinations made under section 1433(a) of this title with respect to the area.
+
+&emsp;&emsp;(F) An assessment of the considerations under section 1433(b)(1) of this title.
 
 #### (3) Public hearing
 
@@ -48,11 +58,11 @@
 
 #### (5) Fishing regulations
 
-&emsp;The Secretary shall provide the appropriate Regional Fishery Management Council with the opportunity to prepare draft regulations for fishing within the Exclusive Economic Zone as the Council may deem necessary to implement the proposed designation. Draft regulations prepared by the Council, or a Council determination that regulations are not necessary pursuant to this paragraph, shall be accepted and issued as proposed regulations by the Secretary unless the Secretary finds that the Council's action fails to fulfill the purposes and policies of this chapter and the goals and objectives of the proposed designation. In preparing the draft regulations, a Regional Fishery Management Council shall use as guidance the national standards of section 301(a) of the Magnuson Act (16 U.S.C. 1851) to the extent that the standards are consistent and compatible with the goals and objectives of the proposed designation. The Secretary shall prepare the fishing regulations, if the Council declines to make a determination with respect to the need for regulations, makes a determination which is rejected by the Secretary, or fails to prepare the draft regulations in a timely manner. Any amendments to the fishing regulations shall be drafted, approved, and issued in the same manner as the original regulations. The Secretary shall also cooperate with other appropriate fishery management authorities with rights or responsibilities within a proposed sanctuary at the earliest practicable stage in drafting any sanctuary fishing regulations.
+&emsp;The Secretary shall provide the appropriate Regional Fishery Management Council with the opportunity to prepare draft regulations for fishing within the Exclusive Economic Zone as the Council may deem necessary to implement the proposed designation. Draft regulations prepared by the Council, or a Council determination that regulations are not necessary pursuant to this paragraph, shall be accepted and issued as proposed regulations by the Secretary unless the Secretary finds that the Council's action fails to fulfill the purposes and policies of this chapter and the goals and objectives of the proposed designation. In preparing the draft regulations, a Regional Fishery Management Council shall use as guidance the national standards of section 301(a) of the Magnuson-Stevens Act (16 U.S.C. 1851) to the extent that the standards are consistent and compatible with the goals and objectives of the proposed designation. The Secretary shall prepare the fishing regulations, if the Council declines to make a determination with respect to the need for regulations, makes a determination which is rejected by the Secretary, or fails to prepare the draft regulations in a timely manner. Any amendments to the fishing regulations shall be drafted, approved, and issued in the same manner as the original regulations. The Secretary shall also cooperate with other appropriate fishery management authorities with rights or responsibilities within a proposed sanctuary at the earliest practicable stage in drafting any sanctuary fishing regulations.
 
 #### (6) Committee action
 
-&emsp;After receiving the documents under subsection (a)(1)(C) of this section, the Committee on Merchant Marine and Fisheries of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate may each hold hearings on the proposed designation and on the matters set forth in the documents. If within the forty-five day period of continuous session of Congress beginning on the date of submission of the documents, either Committee issues a report concerning matters addressed in the documents, the Secretary shall consider this report before publishing a notice to designate the national marine sanctuary.
+&emsp;After receiving the documents under subsection (a)(1)(C) of this section, the Committee on Resources of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate may each hold hearings on the proposed designation and on the matters set forth in the documents. If within the forty-five day period of continuous session of Congress beginning on the date of submission of the documents, either Committee issues a report concerning matters addressed in the documents, the Secretary shall consider this report before publishing a notice to designate the national marine sanctuary.
 
 #### (b) Taking effect of designations
 
@@ -62,11 +72,11 @@
 
 #### (2) Withdrawal of designation
 
-&emsp;If the Secretary considers that actions taken under paragraph (1) will affect the designation of a national marine sanctuary in a manner that the goals and objectives of the sanctuary cannot be fulfilled, the Secretary may withdraw the entire designation. If the Secretary does not withdraw the designation, only those terms of the designation not certified under paragraph (1) shall take effect.
+&emsp;If the Secretary considers that actions taken under paragraph (1) will affect the designation of a national marine sanctuary in a manner that the goals and objectives of the sanctuary or System cannot be fulfilled, the Secretary may withdraw the entire designation. If the Secretary does not withdraw the designation, only those terms of the designation not certified under paragraph (1) shall take effect.
 
 #### (3) Procedures
 
-&emsp;In computing the forty-five-day periods of continuous session of Congress pursuant to subsection (a)(6) of this section and paragraph (1) of this subsection—
+&emsp;In computing the forty-five-day periods of continuous session of Congress pursuant tosubsection (a)(6) of this section and paragraph (1) of this subsection—
 
 &emsp;&emsp;(A) continuity of session is broken only by an adjournment of Congress sine die; and
 
@@ -98,15 +108,45 @@
 
 &emsp;The agency head who receives the Secretary's recommended alternatives under paragraph (2) shall promptly consult with the Secretary on the alternatives. If the agency head decides not to follow the alternatives, the agency head shall provide the Secretary with a written statement explaining the reasons for that decision.
 
+#### (4) Failure to follow alternative
+
+&emsp;If the head of a Federal agency takes an action other than an alternative recommended by the Secretary and such action results in the destruction of, loss of, or injury to a sanctuary resource, the head of the agency shall promptly prevent and mitigate further damage and restore or replace the sanctuary resource in a manner approved by the Secretary.
+
 #### (e) Review of management plans
 
-Not more than five years after the date of designation of any national marine sanctuary, and thereafter at intervals not exceeding five years, the Secretary shall evaluate the substantive progress toward implementing the management plan and goals for the sanctuary, especially the effectiveness of site-specific management techniques, and shall revise the management plan and regulations as necessary to fulfill the purposes and policies of this chapter.
+Not more than five years after the date of designation of any national marine sanctuary, and thereafter at intervals not exceeding five years, the Secretary shall evaluate the substantive progress toward implementing the management plan and goals for the sanctuary, especially the effectiveness of site-specific management techniques and strategies, and shall revise the management plan and regulations as necessary to fulfill the purposes and policies of this chapter. This review shall include a prioritization of management objectives.
 
-(Pub. L. 92–532, title III, §304, Oct. 23, 1972, 86 Stat. 1063; Pub. L. 94–62, §4, July 25, 1975, 89 Stat. 303; Pub. L. 94–326, §4, June 30, 1976, 90 Stat. 725; Pub. L. 95–153, §3, Nov. 4, 1977, 91 Stat. 1255; Pub. L. 96–332, §3, Aug. 29, 1980, 94 Stat. 1059; Pub. L. 97–109, Dec. 26, 1981, 95 Stat. 1512; Pub. L. 98–498, title I, §102, Oct. 19, 1984, 98 Stat. 2298; Pub. L. 100–627, title II, §202, Nov. 7, 1988, 102 Stat. 3214; Pub. L. 102–587, title II, §2104, Nov. 4, 1992, 106 Stat. 5041; Pub. L. 104–283, §9(h), Oct. 11, 1996, 110 Stat. 3368.)
+#### (f) Limitation on designation of new sanctuaries
+
+#### (1) Finding required
+
+&emsp;The Secretary may not publish in the Federal Register any sanctuary designation notice or regulations proposing to designate a new sanctuary, unless the Secretary has published a finding that—
+
+&emsp;&emsp;(A) the addition of a new sanctuary will not have a negative impact on the System; and
+
+&emsp;&emsp;(B) sufficient resources were available in the fiscal year in which the finding is made to—
+
+&emsp;&emsp;&emsp;(i) effectively implement sanctuary management plans for each sanctuary in the System; and
+
+&emsp;&emsp;&emsp;(ii) complete site characterization studies and inventory known sanctuary resources, including cultural resources, for each sanctuary in the System within 10 years after the date that the finding is made if the resources available for those activities are maintained at the same level for each fiscal year in that 10 year period.
+
+#### (2) Deadline
+
+&emsp;If the Secretary does not submit the findings required by paragraph (1) before February 1, 2004, the Secretary shall submit to the Congress before October 1, 2004, a finding with respect to whether the requirements of subparagraphs (A) and (B) of paragraph (1) have been met by all existing sanctuaries.
+
+#### (3) Limitation on application
+
+&emsp;Paragraph (1) does not apply to any sanctuary designation documents for—
+
+&emsp;&emsp;(A) a Thunder Bay National Marine Sanctuary; or
+
+&emsp;&emsp;(B) a Northwestern Hawaiian Islands National Marine Sanctuary.
+
+(Pub. L. 92–532, title III, §304, Oct. 23, 1972, 86 Stat. 1063; Pub. L. 94–62, §4, July 25, 1975, 89 Stat. 303; Pub. L. 94–326, §4, June 30, 1976, 90 Stat. 725; Pub. L. 95–153, §3, Nov. 4, 1977, 91 Stat. 1255; Pub. L. 96–332, §3, Aug. 29, 1980, 94 Stat. 1059; Pub. L. 97–109, Dec. 26, 1981, 95 Stat. 1512; Pub. L. 98–498, title I, §102, Oct. 19, 1984, 98 Stat. 2298; Pub. L. 100–627, title II, §202, Nov. 7, 1988, 102 Stat. 3214; Pub. L. 102–587, title II, §2104, Nov. 4, 1992, 106 Stat. 5041; Pub. L. 104–283, §9(h), Oct. 11, 1996, 110 Stat. 3368; Pub. L. 106–513, §§6(a)–(f), 19(a)(2), (b)(4), Nov. 13, 2000, 114 Stat. 2383–2385, 2392, 2393; Pub. L. 106–555, title II, §205(b), Dec. 21, 2000, 114Stat. 2769; Pub. L. 106–562, title III, §307(a), Dec. 23, 2000, 114 Stat. 2807.)
 
 #### References in Text
 
-The Submerged Lands Act, referred to in subsec. (a)(1)(C)(viii), is act May 22, 1953, ch. 65, 67 Stat. 29, as amended, which is classified generally to subchapters I and II (§§1301 et seq., 1311 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43, and Tables.
+The Submerged Lands Act, referred to in subsec. (a)(2)(C)(iv), is act May 22, 1953, ch. 65, 67 Stat. 29, as amended, which is classified generally to subchapters I and II (§§1301 et seq., 1311 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43, and Tables.
 
 The National Environmental Policy Act of 1969, referred to in subsec. (a)(2)(A), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
@@ -114,9 +154,35 @@ This Act, referred to in subsec. (b)(1), means Pub. L. 92–532, which enacted t
 
 #### Amendments
 
+2000—Subsec. (a)(1)(C). Pub. L. 106–555, §205(b)(1), struck out “the Secretary shall” before “submit a copy”.
+
+Pub. L. 106–513, §6(a), amended subpar. (C) generally. Prior to amendment, subpar. (C) required the Secretary to submit certain documents to committees of the House and Senate.
+
+Subsec. (a)(2). Pub. L. 106–513, §6(b), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “The Secretary shall—
+
+&emsp;“(A) prepare a draft environmental impact statement, as provided by the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), on the proposal that includes the resource assessment report required under section 1433(b)(3) of this title, maps depicting the boundaries of the proposed designated area, and the existing and potential uses and resources of the area; and
+
+&emsp;“(B) make copies of the draft environmental impact statement available to the public.”
+
+Subsec. (a)(2)(E). Pub. L. 106–555, §205(b)(2), substituted “determinations” for “findings”.
+
+Subsec. (a)(5). Pub. L. 106–513, §19(b)(4), substituted “Magnuson-Stevens Act” for “Magnuson Act”.
+
+Subsec. (a)(6). Pub. L. 106–513, §19(a)(2), substituted “Resources” for “Merchant Marine and Fisheries”.
+
+Subsec. (b)(2). Pub. L. 106–513, §6(c), inserted “or System” after “of the sanctuary”.
+
+Subsec. (d)(4). Pub. L. 106–513, §6(d), added par. (4).
+
+Subsec. (e). Pub. L. 106–513, §6(e), substituted “management techniques and strategies,” for “management techniques,” and inserted at end “This review shall include a prioritization of management objectives.”
+
+Subsec. (f). Pub. L. 106–513, §6(f), added subsec. (f).
+
+Subsec. (f)(2). Pub. L. 106–562 substituted “subparagraphs (A) and (B) of paragraph (1)” for “paragraph (2)”.
+
 1996—Subsec. (b)(3). Pub. L. 104–283 struck out “(A)” before “In computing the forty-five-day”, redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, adjusted margins, and struck out former subpars. (B) and (C) which read as follows:
 
-“(B) When the committee to which a joint resolution has been referred has reported such a resolution, it shall at any time thereafter be in order to move to proceed to the consideration of the resolution. The motion shall be privileged and shall not be debatable. Anamendment to the motion shall not be in order, and it shall not be in order to move to reconsider the vote by which the motion was agreed to or disagreed to.
+“(B) When the committee to which a joint resolution has been referred has reported such a resolution, it shall at any time thereafter be in order to move to proceed to the consideration of the resolution. The motion shall be privileged and shall not be debatable. An amendment to the motion shall not be in order, and it shall not be in order to move to reconsider the vote by which the motion was agreed to or disagreed to.
 
 “(C) This subsection is enacted by Congress as an exercise of the rulemaking power of each House of Congress, respectively, and as such is deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in the case of resolutions described in this subsection. This subsection supersedes other rules only to the extent that they are inconsistent therewith, and is enacted with full recognition of the constitutional right of either House to change the rules (so far as those relate to the procedure of that House) at any time, in the same manner, and to the same extent as in the case of any other rule of such House.”
 
@@ -158,11 +224,13 @@ Subsecs. (d), (e). Pub. L. 102–587, §2104(d), added subsecs. (d) and (e).
 
 1975—Pub. L. 94–62 substituted provisions authorizing to be appropriated not to exceed $10,000,000 for each of fiscal years 1973, 1974, and 1975, for provisions authorizing to be appropriated for fiscal year in which this Act was enacted and for next two fiscal years thereafter not to exceed $10,000,000 for each such fiscal year, and inserted provisions authorizing to be appropriated not to exceed $6,200,000 for fiscal year 1976, and not to exceed $1,550,000 for the transition period (July 1, through Sept. 30, 1976).
 
-#### Abolition of House Committee on Merchant Marine and Fisheries
+#### Effective Date of 2000 Amendments
 
-Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Pub. L. 106–562, title III, §307(c), Dec. 23, 2000, 114 Stat. 2807, provided that: “Subsection (a) \[amending this section\] shall take effect January 1, 2001.”
+
+Amendment by Pub. L. 106–555 effective immediately after the National Marine Sanctuaries Amendments Act of 2000, Pub. L. 106–513, takes effect, see section 205(c) of Pub. L. 106–555, set out as a note under section 1433 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1432, 1433, 1435 of this title.
+This section is referred to in sections 1432, 1435 of this title.
 

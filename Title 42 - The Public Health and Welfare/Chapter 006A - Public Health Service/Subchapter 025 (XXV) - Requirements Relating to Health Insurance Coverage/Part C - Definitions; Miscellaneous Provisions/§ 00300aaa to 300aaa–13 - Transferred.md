@@ -16,7 +16,7 @@ Section 300aaa–4, act July 1, 1944, ch. 373, title XXVII, §2705, formerly tit
 
 Section 300aaa–5, act July 1, 1944, ch. 373, title XXVII, §2706, formerly title V, §508, 58 Stat. 711, as amended, which related to transfer of funds for continuance of transferred functions, was renumbered section 236 of title II of act July 1, 1944, by Pub. L. 103–43, title XX, §2010(a)(1)–(3), June 10, 1993, 107 Stat. 213, and transferred to section 238e of this title.
 
-Section 300aaa–6, act July 1, 1944, ch. 373, title XXVII, §2707, formerly title V, §509, 58 Stat. 711, as amended, which related to availability of appropriations, was renumbered section 237 of title II of act July 1, 1944, byPub. L. 103–43, title XX, §2010(a)(1)–(3), June 10, 1993, 107 Stat. 213, and transferred to section 238f of this title.
+Section 300aaa–6, act July 1, 1944, ch. 373, title XXVII, §2707, formerly title V, §509, 58 Stat. 711, as amended, which related to availability of appropriations, was renumbered section 237 of title II of act July 1, 1944, by Pub. L. 103–43, title XX, §2010(a)(1)–(3), June 10, 1993, 107 Stat. 213, and transferred to section 238f of this title.
 
 Section 300aaa–7, act July 1, 1944, ch. 373, title XXVII, §2708, formerly title V, §510, 58 Stat. 711, as amended, which related to wearing of uniforms, was renumbered section 238 of title II of act July 1, 1944, by Pub. L. 103–43, title XX, §2010(a)(1)–(3), June 10, 1993, 107 Stat. 213, and transferred to section 238g of this title.
 

@@ -16,7 +16,7 @@ There are authorized to be appropriated to carry out section 13003 of this title
 
 &emsp;(2) such sums as are necessary for fiscal years 1994, 1995, 1996, and each of the fiscal years 1997 through 2000.
 
-(Pub. L. 101–647, title II, §214B, formerly §214, Nov. 29, 1990, 104 Stat. 4794; renumbered §214B and amended Pub. L. 102–586, §6(b)(1), (e), Nov. 4, 1992, 106 Stat. 5029, 5034; Pub. L. 104–235, title II, §232, Oct. 3, 1996, 110 Stat. 3092.)
+(Pub. L. 101–647, title II, §214B, formerly §214, Nov. 29, 1990, 104 Stat. 4794; renumbered §214B and amended Pub. L. 102–586, §6(b)(1), (e), Nov. 4,1992, 106 Stat. 5029, 5034; Pub. L. 104–235, title II, §232, Oct. 3, 1996, 110 Stat. 3092.)
 
 #### Amendments
 

@@ -64,7 +64,7 @@ As used in this section:
 
 #### (j) Authorization of appropriations
 
-There is authorized to be appropriated, for purposes of this section, not to exceed$200,000,000. Any amount appropriated pursuant to this subsection shall remain available until expended.
+There is authorized to be appropriated, for purposes of this section, not to exceed $200,000,000. Any amount appropriated pursuant to this subsection shall remain available until expended.
 
 (Pub. L. 91–609, title V, §509, as added Pub. L. 94–385, title IV, §441, Aug. 14, 1976, 90 Stat. 1162; amended Pub. L. 95–91, title VII, §709(d), Aug. 4, 1977, 91 Stat. 608.)
 

@@ -22,15 +22,11 @@ Amendment by Pub. L. 106–113 effective on date that is 1 year after Nov. 29, 1
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–622 applicable to all United States patents granted before, on, or after Nov. 8, 1984,and to all applications for United States patents pending on or filed after that date, except as otherwise provided, see section 106 of Pub. L. 98–622, set out as a note under section 103 of this title.
+Amendment by Pub. L. 98–622 applicable to all United States patents granted before, on, or after Nov. 8, 1984, and to all applications for United States patents pending on or filed after that date, except as otherwise provided, see section 106 of Pub. L. 98–622, set out as a note under section 103 of this title.
 
 #### Effective Date of 1975 Amendment
 
 Amendment by Pub. L. 94–131 effective Jan. 24, 1978, and applicable on and after that date to patent applications filed in the United States and to international applications, where applicable, see section 11 of Pub. L. 94–131, set out as an Effective Date note under section 351 of this title.
-
-#### Cross References
-
-Specification, see section 112 of this title.
 
 #### Section Referred to in Other Sections
 

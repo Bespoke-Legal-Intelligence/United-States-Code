@@ -24,7 +24,3 @@ The words “under such conditions, regulations, and limitations as he shall pre
 
 1960—Pub. L. 86–593 substituted “Air Force cross” for “distinguished-service cross” in section catchline and in text.
 
-#### Cross References
-
-Delegation of functions, see section 301 et seq. of Title 3, The President.
-

@@ -4,7 +4,7 @@
 
 For purposes of section 300x of this title, an application for a grant under such section for a fiscal year in accordance with this section if, subject to subsection (b) of this section—
 
-&emsp;(1) the State involved submits the application not later than the date specified by the Secretary as being the date after which applications for such a grant will not be considered (in any case in which the Secretary specifies such a date);
+&emsp;(1) the plan is received by the Secretary not later than September 1 of the fiscal year prior to the fiscal year for which a State is seeking funds, and the report from the previous fiscal year as required under section 300x–51 of this title is received by December 1 of the fiscal year of the grant;
 
 &emsp;(2) the application contains each funding agreement that is described in this subpart or subpart III for such a grant (other than any such agreement that is not applicable to the State);
 
@@ -12,7 +12,7 @@ For purposes of section 300x of this title, an application for a grant under suc
 
 &emsp;(4) with respect to such agreements, the application provides assurances of compliance satisfactory to the Secretary;
 
-&emsp;(5) the application contains the plan required in section 300x–1(a) of this title, the information required in section 300x–4(b)(3)(B) of this title, and the report required in section 300x–52(a) of this title;
+&emsp;(5) the application contains the plan required in section 300x–1(a) of this title, the information required in section 300x–4(b)(3)(B) <sup>1</sup> of this title, and the report required in section 300x–52(a) of this title;
 
 &emsp;(6) the application contains recommendations in compliance with section 300x–4(a) of this title, or if no such recommendations are received by the State, the application otherwise demonstrates compliance with such section; and
 
@@ -20,9 +20,13 @@ For purposes of section 300x of this title, an application for a grant under suc
 
 #### (b) Waivers regarding certain territories
 
-In the case of any territory of the United States whose allotment under section 300x of this title for the fiscal year is the amount specified in section 300x–7(c)(2)(B) of this title, the Secretary may waive such provisions of this subpart and subpart III as the Secretary determines to be appropriate, other than the provisions of section 300x–5 of this title.
+In the case of any territory of the United States except Puerto Rico, the Secretary may waive such provisions of this subpart and subpart III as the Secretary determines to be appropriate, other than the provisions of section 300x–5 of this title.
 
-(July 1, 1944, ch. 373, title XIX, §1917, as added Pub. L. 102–321, title II, §201(2), July 10, 1992, 106 Stat. 384.)
+(July 1, 1944, ch. 373, title XIX, §1917, as added Pub. L. 102–321, title II, §201(2), July 10, 1992, 106 Stat. 384; amended Pub. L. 106–310, div. B, title XXXII, §3204(d), (e), Oct. 17, 2000, 114 Stat. 1193.)
+
+#### References in Text
+
+Section 300x–4(b)(3)(B) of this title, referred to in subsec. (a)(5), was redesignated section 300x–4(b)(4)(B) by Pub. L. 106–310, div. B, title XXXII, §3204(c)(1), Oct. 17, 2000, 114 Stat. 1193.
 
 #### Prior Provisions
 
@@ -30,7 +34,15 @@ A prior section 300x–6, act July 1, 1944, ch. 373, title XIX, §1918, formerly
 
 A prior section 1917 of act July 1, 1944, was classified to section 300x–5 of this title prior to repeal by Pub. L. 102–321.
 
+#### Amendments
+
+2000—Subsec. (a)(1). Pub. L. 106–310, §3204(d), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “the State involved submits the application not later than the date specified by the Secretary as being the date after which applications for such a grant will not be considered (in any case in which the Secretary specifies such a date);”.
+
+Subsec. (b). Pub. L. 106–310, §3204(e), substituted “except Puerto Rico” for “whose allotment under section 300x of this title for the fiscal year is the amount specified in section 300x–7(c)(2)(B) of this title”.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 300x of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -20,7 +20,6 @@
 | (c) | Council procedures. |
 | (d) | Council representation on Migratory Bird Conservation Commission. |
 | (e) | Approval of Council recommendations by Migratory Bird Conservation Commission. |
-| (f) | Notification of appropriate Committees. |
 | [4405\.](%C2%A7%2004405%20-%20Conditions%20relating%20to%20wetlands%20conservation%20projects.md) | Conditions relating to wetlands conservation projects. |
 | (a) | Projects in United States. |
 | (b) | Projects in Canada or Mexico. |

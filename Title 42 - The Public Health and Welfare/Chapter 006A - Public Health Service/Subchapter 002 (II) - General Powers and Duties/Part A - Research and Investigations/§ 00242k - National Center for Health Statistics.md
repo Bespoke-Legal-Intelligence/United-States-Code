@@ -66,7 +66,7 @@ To secure uniformity in the registration and collection of mortality, morbidity,
 
 #### (h) Registration area records
 
-(1) There shall be an annual collection of data from the records of births, deaths, marriages, and divorces in registration areas. The data shall be obtained only from and restricted to such records of the States and municipalities which the Secretary, in his discretion, determines possess records affording satisfactory data in necessary detail and form. The Secretary shall encourage States and registration areas to obtain detailed data on ethnic and racial populations, including subpopulations of Hispanics, Asian Americans, and Pacific Islanders with significant representation in the State or registration area. Each State or registration area shall be paid by the Secretary the Federal share of its reasonable costs (as determined by the Secretary) for collecting and transcribing (at the request of the Secretary and by whatever method authorized by him) its records for such data.
+(1) There shall be an annual collection of data from the records of births, deaths, marriages, and divorces in registration areas. The data shall be obtained only from and restricted to such records of the States and municipalities which the Secretary, in his discretion, determines possess records affording satisfactory data in necessary detail and form. The Secretary shall encourage States and registrationareas to obtain detailed data on ethnic and racial populations, including subpopulations of Hispanics, Asian Americans, and Pacific Islanders with significant representation in the State or registration area. Each State or registration area shall be paid by the Secretary the Federal share of its reasonable costs (as determined by the Secretary) for collecting and transcribing (at the request of the Secretary and by whatever method authorized by him) its records for such data.
 
 (2) There shall be an annual collection of data from a statistically valid sample concerning the general health, illness, and disability status of the civilian noninstitutionalized population. Specific topics to be addressed under this paragraph, on an annual or periodic basis, shall include the incidence of illness and accidental injuries, prevalence of chronic diseases and impairments, disability, physician visits, hospitalizations, and the relationship between demographic and socioeconomic characteristics and health characteristics.
 
@@ -160,7 +160,7 @@ In carrying out this section, the Secretary, acting through the Center, shall co
 
 (2) The Secretary, acting through the Center, may provide technical assistance, standards, and methodologies to grantees supported by this subsection in order to maximize the data quality and comparability with other studies.
 
-(3) Provisions of section 242m(d) of this title do not apply to surveys or studies conducted bygrantees under this subsection unless the Secretary, in accordance with regulations the Secretary may issue, determines that such provisions are necessary for the conduct of the survey or study and receives adequate assurance that the grantee will enforce such provisions.
+(3) Provisions of section 242m(d) of this title do not apply to surveys or studies conducted by grantees under this subsection unless the Secretary, in accordance with regulations the Secretary may issue, determines that such provisions are necessary for the conduct of the survey or study and receives adequate assurance that the grantee will enforce such provisions.
 
 (4)(A) Subject to subparagraph (B), the Secretary, acting through the Center, shall collect data on Hispanics and major Hispanic subpopulation groups and American Indians, and for developing special area population studies on major Asian American and Pacific Islander populations.
 
@@ -222,7 +222,7 @@ Subsec. (i). Pub. L. 103–183, §501(a)(3), struck out “engaged in health pla
 
 Subsec. (k)(2). Pub. L. 103–183, §501(a)(4), struck out subpar. (A) designation, substituted “Members” for “Except as provided in subparagraph (B), members”, and struck out subpar. (B) which related to extensions of membership terms of members of National Committee on Vital and Health Statistics whose terms were to expire in calendar years 1988, 1989, and 1990.
 
-Subsec. (<i>l</i>). Pub. L. 103–183, §501(a)(5)(A)–(C), redesignated subsec. (m) as (<i>l</i>), substituted “subsection (m)” for “subsection (n)”, and struck out former subsec. (<i>l</i>) which related to development of plan for collection andcoordination of statistical and epidemiological data on effects of environment on health and establishment of guidelines for compilation, analysis, and distribution of statistics and information necessary for coordinated determination of effects of conditions of employment and indoor and outdoor environmental conditions on public health.
+Subsec. (<i>l</i>). Pub. L. 103–183, §501(a)(5)(A)–(C), redesignated subsec. (m) as (<i>l</i>), substituted “subsection (m)” for “subsection (n)”, and struck out former subsec. (<i>l</i>) which related to development of plan for collection and coordination of statistical and epidemiological data on effects of environment on health and establishment of guidelines for compilation, analysis, and distribution of statistics and information necessary for coordinated determination of effects of conditions of employment and indoor and outdoor environmental conditions on public health.
 
 Subsec. (m). Pub. L. 103–183, §501(a)(5)(B), redesignated subsec. (n) as (m). Former subsec. (m) redesignated (<i>l</i>).
 
@@ -286,11 +286,11 @@ Subsec. (<i>l</i>). Pub. L. 95–623, §8(a), added subsec. (<i>l</i>).
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Effective Date of 1990 Amendment
 
-Section 12 of Pub. L. 101–527 provided that: “This Act and the amendments made by this Act \[enacting sections 254c–1, 254t, 256a, 294bb, 294cc, and 300u–6 of this title, amending this section and sections 242m, 254b,254c, 294m, 294<i>o</i>, and 295g–2 of this title, enacting provisions set out as notes under sections 201 and 300u–6 of this title, and repealing provisions set out as a note under section 292h of this title\] shall take effect October 1, 1990, or upon the date of the enactment of this Act \[Nov. 6, 1990\], whichever occurs later.”
+Section 12 of Pub. L. 101–527 provided that: “This Act and the amendments made by this Act \[enacting sections 254c–1, 254t, 256a, 294bb, 294cc, and 300u–6 of this title, amending this section and sections 242m, 254b, 254c, 294m, 294<i>o</i>, and 295g–2 of this title, enacting provisions set out as notes under sections 201 and 300u–6 of this title, and repealing provisions set out as a note under section 292h of this title\] shall take effect October 1, 1990, or upon the date of the enactment of this Act \[Nov. 6, 1990\], whichever occurs later.”
 
 #### Effective Date of 1987 Amendment
 

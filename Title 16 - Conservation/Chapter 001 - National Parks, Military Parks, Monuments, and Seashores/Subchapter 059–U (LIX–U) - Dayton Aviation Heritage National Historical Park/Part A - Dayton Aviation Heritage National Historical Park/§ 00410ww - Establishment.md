@@ -4,19 +4,39 @@
 
 There is established, as a unit of the National Park System in the State of Ohio, the Dayton Aviation Heritage National Historical Park (hereinafter in this subchapter referred to as the “park”).
 
-#### (b) Area included
+#### (b) Areas included
 
-The park shall consist of the following sites, as generally depicted on a map entitled “Proposed Dayton Aviation Heritage National Historical Park”, numbered NHP–DAH 80,000, and dated February 1992:
+The park shall consist of the following sites, as generally depicted on a map entitled “Dayton Aviation Heritage National Historical Park”, numbered 362–80,010 and dated September 1, 2000:
 
-&emsp;(1) A core parcel in Dayton, Ohio, which shall consist of the Wright Cycle Company Building, Hoover Block, and lands between.
+&emsp;(1) A core parcel in Dayton, Ohio, which shall consist of the Wright Cycle Company building, Hoover Block, and lands between.
 
-&emsp;(2) Huffman Prairie Flying Field, Wright-Patterson Air Force Base, Ohio.
+&emsp;(2) The Setzer building property (also known as the Aviation Trail building property), Dayton, Ohio.
 
-&emsp;(3) The Wright 1905 Flyer and Wright Hall, Dayton, Ohio.
+&emsp;(3) The residential properties at 26 South Williams Street and at 30 South Williams Street, Dayton, Ohio.
 
-&emsp;(4) The Paul Laurence Dunbar home, Dayton, Ohio.
+&emsp;(4) Huffman Prairie Flying Field, located at Wright-Patterson Air Force Base, Ohio.
 
-(Pub. L. 102–419, title I, §101, Oct. 16, 1992, 106 Stat. 2141.)
+&emsp;(5) The Wright 1905 Flyer III and Wright Hall, including constructed additions and attached structures, known collectively as the John W. Berry, Sr. Wright Brothers Aviation Center, Dayton, Ohio.
+
+&emsp;(6) The Paul Laurence Dunbar State Memorial, Dayton, Ohio.
+
+(Pub. L. 102–419, title I, §101, Oct. 16, 1992, 106 Stat. 2141; Pub. L. 106–356, §2(a), Oct. 24, 2000, 114 Stat. 1391.)
+
+#### Amendments
+
+2000—Subsec. (b). Pub. L. 106–356 amended heading and text of subsec. (b) generally. Prior to amendment,text read as follows: “The park shall consist of the following sites, as generally depicted on a map entitled ‘Proposed Dayton Aviation Heritage National Historical Park’, numbered NHP–DAH 80,000, and dated February 1992:
+
+&emsp;“(1) A core parcel in Dayton, Ohio, which shall consist of the Wright Cycle Company Building, Hoover Block, and lands between.
+
+&emsp;“(2) Huffman Prairie Flying Field, Wright-Patterson Air Force Base, Ohio.
+
+&emsp;“(3) The Wright 1905 Flyer and Wright Hall, Dayton, Ohio.
+
+&emsp;“(4) The Paul Laurence Dunbar home, Dayton, Ohio.”
+
+#### Short Title of 2000 Amendment
+
+Pub. L. 106–356, §1, Oct. 24, 2000, 114 Stat. 1391, provided that: “This Act \[amending this section and sections 410ww–6 and 410ww–8 of this title\] may be cited as the ‘Dayton Aviation Heritage Preservation Amendments Act of 2000’.”
 
 #### Short Title
 

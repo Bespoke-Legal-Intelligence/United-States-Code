@@ -68,7 +68,7 @@
 
 (4)(A) Notwithstanding paragraph (1) of this subsection, the President may, for a period of not more than 30 days of continuous session, delay the imposition of sanctions which would otherwise be required under paragraph (1)(A) or (1)(B) of this subsection if the President first transmits to the Speaker of the House of Representatives, and to the chairman of the Committee on Foreign Relations of the Senate, a certification that he has determined that an immediate imposition of sanctions on that country would be detrimental to the national security of the United States. Not more than one such certification may be transmitted for a country with respect to the same detonation, transfer, or receipt of a nuclear explosive device.
 
-(B) If the President transmits a certification to the Congress under subparagraph (A), a joint resolution which would permit the President to exercise the waiver authority of paragraph (5) ofthis subsection shall, if introduced in either House within thirty days of continuous session after the Congress receives this certification, be considered in the Senate in accordance with subparagraph (C) of this paragraph.
+(B) If the President transmits a certification to the Congress under subparagraph (A), a joint resolution which would permit the President to exercise the waiver authority of paragraph (5) of this subsection shall, if introduced in either House within thirty days of continuous session after the Congress receives this certification, be considered in the Senate in accordance with subparagraph (C) of this paragraph.
 
 (C) Any joint resolution under this paragraph shall be considered in the Senate in accordance with the provisions of section 601(b) of the International Security Assistance and Arms Export Control Act of 1976.
 
@@ -124,7 +124,7 @@ Pub. L. 106–79, title IX, §9001, Oct. 25, 1999, 113 Stat. 1283, provided that
 
 “(a)
 
-Waiver Authority.—Except as provided in subsections (b) and (c) of this section, the President may waive, with respect to India and Pakistan, the application of any sanction contained in section 101 or 102 of the Arms Export Control Act (22 U.S.C. 2799aa or 22U.S.C. 2799aa–1), section 2(b)(4) of the Export Import Bank Act of 1945 (12 U.S.C. 635(b)(4)), or section 620E(e) of the Foreign Assistance Act of 1961, as amended, (22 U.S.C. 2375(e)).
+Waiver Authority.—Except as provided in subsections (b) and (c) of this section, the President may waive, with respect to India and Pakistan, the application of any sanction contained in section 101 or 102 of the Arms Export Control Act (22 U.S.C. 2799aa or 22 U.S.C. 2799aa–1), section 2(b)(4) of the Export Import Bank Act of 1945 (12 U.S.C. 635(b)(4)), or section 620E(e) of the Foreign Assistance Act of 1961, as amended, (22 U.S.C. 2375(e)).
 
 “(b)
 
@@ -132,7 +132,7 @@ Exception.—The authority to waive the application of a sanction or prohibition
 
 “(c)
 
-Termination of Waiver.—The President may not exercise the authority of subsection (a), and any waiver previously issued under subsection (a) shall cease to apply, with respect to India or Pakistan, if that country detonates a nuclear explosive device after the date of the enactment of this Act \[Oct. 25, 1999\] or otherwise takes such action which would cause the President to report pursuant to section 102(b)(1) of the Arms Export Control Act \[22 U.S.C. 2799aa–1(b)(1)\].
+Termination of Waiver.—The President may not exercise the authority of subsection (a), and any waiver previously issued under subsection (a) shall cease to apply, with respect to India or Pakistan, if that country detonates a nuclear explosive device after the dateof the enactment of this Act \[Oct. 25, 1999\] or otherwise takes such action which would cause the President to report pursuant to section 102(b)(1) of the Arms Export Control Act \[22 U.S.C. 2799aa–1(b)(1)\].
 
 “(d)
 
@@ -205,6 +205,16 @@ Pursuant to the authority vested in me as President of the United States, includ
 You are hereby authorized and directed to report this determination to the Congress and to arrange for its publication in the Federal Register.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Waiver of Certain Sanctions Against India and Pakistan
+
+Provisions relating to waiver of sanctions against India and Pakistan consistent with section 9001 of Pub. L. 106–79, set out as a note above, were contained in the following:
+
+Determination of President of the United States, No. 2001–11, Jan. 19, 2001, 66 F.R. 8503.
+
+Determination of President of the United States, No. 2000–18, Mar. 16, 2000, 65 F.R. 16297.
+
+Determination of President of the United States, No. 2000–4, Oct. 27, 1999, 64 F.R. 60649.
 
 #### Section Referred to in Other Sections
 

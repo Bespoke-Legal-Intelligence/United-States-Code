@@ -22,7 +22,7 @@ The Department of the Treasury shall establish and maintain a branch of the Offi
 
 #### References in Text
 
-The Trading With the Enemy Act, referred to in subsecs. (a) and (d), is act Oct. 6, 1917, ch. 106, 40 Stat. 411,as amended, which is classified to sections 1 to 6, 7 to 39 and 41 to 44 of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see Tables.
+The Trading With the Enemy Act, referred to in subsecs. (a) and (d), is act Oct. 6, 1917, ch. 106, 40 Stat. 411, as amended, which is classified to sections 1 to 6, 7 to 39 and 41 to 44 of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 

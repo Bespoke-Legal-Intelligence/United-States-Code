@@ -2,7 +2,7 @@
 
 #### (a) Compilation of data
 
-The Secretary, with respect to the administration of any health program by a service unit, directly or through contract, including a contract under the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\], shall require the compilation of data relating to the number of cases or incidents in which any Service personnel or services were involved and which were related, either directly or indirectly, to alcohol or substance abuse. Such report shall include the type of assistance provided and the disposition of these cases.
+The Secretary, with respect to the administration of any health program by a service unit, directly or through contract, including a contract under the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\], shall require the compilationof data relating to the number of cases or incidents in which any Service personnel or services were involved and which were related, either directly or indirectly, to alcohol or substance abuse. Such report shall include the type of assistance provided and the disposition of these cases.
 
 #### (b) Referral of data
 

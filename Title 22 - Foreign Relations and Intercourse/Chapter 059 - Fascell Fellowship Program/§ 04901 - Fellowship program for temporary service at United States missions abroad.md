@@ -26,7 +26,7 @@ In carrying out this section, the Secretary of State shall actively recruit wome
 
 1993—Pub. L. 103–199 substituted “abroad” for “in the Soviet Union and Eastern Europe” in section catchline.
 
-1990—Subsec. (a). Pub. L. 101–454, §9(b)(1), substituted “which would otherwise be” for “formerly” and“abroad” for “in the Soviet Union or Eastern European countries”.
+1990—Subsec. (a). Pub. L. 101–454, §9(b)(1), substituted “which would otherwise be” for “formerly” and “abroad” for “in the Soviet Union or Eastern European countries”.
 
 Subsec. (c). Pub. L. 101–454, §9(b)(2), substituted “abroad” for “in the Soviet Union or an Eastern European country” and “that country's” for “Soviet or Eastern European”.
 

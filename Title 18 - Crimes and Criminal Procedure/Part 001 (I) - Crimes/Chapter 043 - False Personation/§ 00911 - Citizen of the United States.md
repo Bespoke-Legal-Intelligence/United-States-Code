@@ -16,29 +16,3 @@ Minor changes were made in phraseology and unnecessary words were omitted.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000”.
 
-#### Cross References
-
-Certificate of citizenship—
-
-&emsp;&emsp;Penalty for misuse of, see section 1423 of this title.
-
-&emsp;&emsp;Procurement unlawfully, see section 1425 of this title.
-
-&emsp;&emsp;Sale or disposal, see section 1427 of this title.
-
-&emsp;&emsp;Surrender of canceled certificate, see section 1428 of this title.
-
-Citizenship—
-
-&emsp;&emsp;Counterfeiting papers, see section 1426 of this title.
-
-&emsp;&emsp;Misuse of papers in proceeding relating to, see section 1424 of this title.
-
-&emsp;&emsp;Penalty for demanding or receiving additional fees, see section 1422 of this title.
-
-&emsp;&emsp;Penalty for false statements in matters relating to, see section 1015 of this title.
-
-Limitations; offenses not capital, see section 3282 of this title.
-
-Visas and permits, false personation, see section 1546 of this title.
-

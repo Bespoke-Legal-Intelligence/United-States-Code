@@ -16,4 +16,4 @@ This subchapter is referred to in sections 1431, 1704c, 1731, 1732, 1734, 1736, 
 - [&sect; 01725 - Food Aid Consultative Group](%C2%A7%2001725%20-%20Food%20Aid%20Consultative%20Group.md)
 - [&sect; 01726 - Maximum level of expenditures](%C2%A7%2001726%20-%20Maximum%20level%20of%20expenditures.md)
 - [&sect; 01726a - Administration](%C2%A7%2001726a%20-%20Administration.md)
-- [&sect; 01726b - Omitted](%C2%A7%2001726b%20-%20Omitted.md)
+- [&sect; 01726b - Assistance for stockpiling and rapid transportation, delivery, and distribution of shelf-stable prepackaged foods](%C2%A7%2001726b%20-%20Assistance%20for%20stockpiling%20and%20rapid%20transportation%2C%20delivery%2C%20and%20distribution%20of%20shelf-stable%20prepackaged%20foods.md)

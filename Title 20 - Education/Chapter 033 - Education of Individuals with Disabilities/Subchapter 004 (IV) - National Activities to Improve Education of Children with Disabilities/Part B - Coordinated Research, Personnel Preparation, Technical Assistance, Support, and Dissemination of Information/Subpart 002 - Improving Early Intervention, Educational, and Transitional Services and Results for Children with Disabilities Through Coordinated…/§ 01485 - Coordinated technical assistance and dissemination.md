@@ -18,7 +18,7 @@ The Secretary shall, by competitively making grants or entering into contracts a
 
 &emsp;&emsp;(B) Promoting change through a multistate or regional framework that benefits States, local educational agencies, and other participants in partnerships that are in the process of achieving systemic-change outcomes.
 
-&emsp;&emsp;(C) Increasing the depth and utility of information in ongoing and emerging areas of priority need identified by States, local educational agencies, and other participants in partnerships that are in the process of achieving systemic-change outcomes.
+&emsp;&emsp;(C) Increasing the depth and utility of information in ongoing and emerging areas ofpriority need identified by States, local educational agencies, and other participants in partnerships that are in the process of achieving systemic-change outcomes.
 
 &emsp;&emsp;(D) Promoting communication and information exchange among States, local educational agencies, and other participants in partnerships, based on the needs and concerns identified by the participants in the partnerships, rather than on externally imposed criteria or topics, regarding—
 
@@ -56,7 +56,7 @@ The Secretary shall, by competitively making grants or entering into contracts a
 
 #### (1) In general
 
-&emsp;In carrying out this section, the Secretary shall carry out or support information dissemination activities that are consistent with the objectives described in subsection (a) of this section, including activities that addressnational needs for the preparation and dissemination of information relating to eliminating barriers to systemic-change and improving early intervention, educational, and transitional results for children with disabilities.
+&emsp;In carrying out this section, the Secretary shall carry out or support information dissemination activities that are consistent with the objectives described in subsection (a) of this section, including activities that address national needs for the preparation and dissemination of information relating to eliminating barriers to systemic-change and improving early intervention, educational, and transitional results for children with disabilities.
 
 #### (2) Authorized activities
 
@@ -84,13 +84,17 @@ The Secretary shall, by competitively making grants or entering into contracts a
 
 An eligible entity that wishes to receive a grant, or enter into a contract or cooperative agreement, under this section shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require.
 
-(Pub. L. 91–230, title VI, §685, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 152.)
+(Pub. L. 91–230, title VI, §685, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 152; amended Pub. L. 106–402, title IV, §401(b)(1), Oct. 30, 2000, 114 Stat. 1737.)
 
 #### Prior Provisions
 
 A prior section 1485, Pub. L. 91–230, title VI, §686, formerly §685, as added Pub. L. 99–457, title I, §101(a), Oct. 8, 1986, 100 Stat. 1155; renumbered §686 and amended Pub. L. 102–119, §§20, 21(1), Oct. 7, 1991, 105 Stat. 602, related to authorization of appropriations, prior to repeal by Pub. L. 105–17, title II, §203(b), June 4, 1997, 111 Stat. 157, effective July 1, 1998.
 
 A prior section 685 of Pub. L. 91–230 was classified to section 1484a of this title, prior to repeal by Pub. L. 105–17, title II, §203(b), June 4, 1997, 111 Stat. 157, effective July 1, 1998.
+
+#### Amendments
+
+2000—Subsec. (b)(4). Pub. L. 106–402, which directed the substitution of “the Developmental Disabilities Assistance and Bill of Rights Act of 2000” for “the Developmental Disabilities Assistance and Bill of Rights Act” in section 685(b)(4) of Pub. L. 91–230 (this section), could not be executed because the language to be struck does not appear and this section does not contain a subsec. (b)(4). Amendment was probably intended for prior section 685 of Pub. L. 91–230, which was classified to section 1484a of this title prior to repeal by Pub. L. 105–17. See Prior Provisions note above.
 
 #### Section Referred to in Other Sections
 

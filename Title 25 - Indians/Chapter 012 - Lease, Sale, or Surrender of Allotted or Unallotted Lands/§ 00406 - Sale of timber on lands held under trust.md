@@ -34,10 +34,6 @@ This Act, referred to in subsec. (d), is act June 25, 1910, ch. 431, 36 Stat. 85
 
 1964—Pub. L. 88–301 designated existing provisions as subsec. (a), substituted “land” for “allotment”, “owner or owners” for “allottee” in two places, and “their benefit” for “his benefit”, and provided for deductions for administrative expenses from proceeds of sales without violation of treaty obligations or Constitutional compensation provision, for consideration of needs and best interests of owners and heirs, and for standards guiding sales, and added subsecs. (b) to (f).
 
-#### Cross References
-
-Klamath Tribe timber sales, see section 564x of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 353, 564h, 697, 747 of this title; title 43 section 1617.

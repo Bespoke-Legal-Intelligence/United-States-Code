@@ -58,7 +58,7 @@ No farm labor contractor, agricultural employer, or agricultural association sha
 
 #### (f) Form and language requirements
 
-The information required to be disclosed by subsections (a) and (b) of this section to seasonal agricultural workers shall be provided in written form. Such information shall be provided in English or, as necessary and reasonable, in Spanish or other language common to seasonal agricultural workers who are not fluent or literate in English. The Department of Labor shall make forms available in English, Spanish, and other languages, as necessary, which may beused in providing workers with information required under this section.
+The information required to be disclosed by subsections (a) and (b) of this section to seasonal agricultural workers shall be provided in written form. Such information shall be provided in English or, as necessary and reasonable, in Spanish or other language common to seasonal agricultural workers who are not fluent or literate in English. The Department of Labor shall make forms available in English, Spanish, and other languages, as necessary, which may be used in providing workers with information required under this section.
 
 (Pub. L. 97–470, title III, §301, Jan. 14, 1983, 96 Stat. 2592; Pub. L. 104–49, §4(b), Nov. 15, 1995, 109 Stat. 434.)
 

@@ -90,7 +90,3 @@ Section 941, Pub. L. 93–203, title IV, §468, as added Pub. L. 95–524, §2, 
 
 Section 941a, Pub. L. 93–203, title IV, §469, as added Pub. L. 96–341, §1, Sept. 8, 1980, 94 Stat. 1076, related to Earle C. Clements Job Corps Center.
 
-#### Effective Date of Repeal
-
-Section 184(a) of Pub. L. 97–300 provided that the repeal of these sections is effective Oct. 13, 1982.
-

@@ -50,11 +50,11 @@ The Commission with the advice of the Secretary may provide technical assistance
 
 The Commission shall make available to the Secretary, upon request, all accounts, financial records, and other information of the Commission relating to grants and loans made under this section.
 
-#### (e) Annual report to Congress; contents
-
-The Secretary shall make an annual report to the Congress describing the loans, grants, and technical assistance provided under this section and under section 410cc–23 of this title. Such report shall specify the amount, recipient, and purpose of any loan, grant or technical assistance so provided and contain such additional information as the Secretary considers appropriate.
-
 (Pub. L. 95–290, title III, §303, June 5, 1978, 92 Stat. 300.)
+
+#### Codification
+
+Subsec. (e) of this section, which required the Secretary to make an annual report to Congress describing the loans, grants, and technical assistance provided under this section and under section 410cc–23 of this title, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 108 of House Document No. 103–7.
 
 #### Section Referred to in Other Sections
 

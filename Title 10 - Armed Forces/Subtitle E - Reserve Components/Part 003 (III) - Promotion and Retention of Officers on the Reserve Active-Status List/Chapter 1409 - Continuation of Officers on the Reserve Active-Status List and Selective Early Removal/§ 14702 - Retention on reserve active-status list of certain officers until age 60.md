@@ -12,7 +12,7 @@ Retention.—Notwithstanding the provisions of section 14506, 14507, or 14508 of
 
 Separation at Age 60.—An officer may be retained under this section only so long as the officer continues to meet the conditions of subsection (a)(1) or (a)(2). An officer may not be retained under this section after the last day of the month in which the officer becomes 60 years of age.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2955; amended Pub. L.105–85, div. A, title V, §521(a), Nov. 18, 1997, 111 Stat. 1734.)
+(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2955; amended Pub. L. 105–85, div. A, title V, §521(a), Nov. 18, 1997, 111 Stat. 1734.)
 
 #### Amendments
 

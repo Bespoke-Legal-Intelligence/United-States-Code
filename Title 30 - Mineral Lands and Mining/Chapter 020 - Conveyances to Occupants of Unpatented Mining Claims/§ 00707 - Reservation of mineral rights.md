@@ -6,7 +6,5 @@ In any conveyance under this chapter the mineral interests of the United States 
 
 #### References in Text
 
-The mining laws, referred to in text, are classified generally to this title.
-
-The mineral leasing laws, referred to in text, are defined in sections 351, 505, 530, and 541e of this title.
+The mining laws and the mineral leasing laws, referred to in text, are classified generally to this title.
 

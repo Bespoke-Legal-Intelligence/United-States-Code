@@ -20,16 +20,6 @@
 
 See section 1610 of this title
 
-#### Federal Rules of Civil Procedure
-
-Admiralty and maritime rules of practice (which included libel procedures) were superseded, and civil and admiralty procedures in United States district courts were unified, effective July 1, 1966, see rule 1 and Supplemental Rules for Certain Admiralty and Maritime Claims, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-#### Cross References
-
-Proceedings for forfeitures and seizures, see section 2461 of Title 28, Judiciary and Judicial Procedure.
-
-United States as plaintiff, jurisdiction of district courts, see section 1345 of Title 28.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1602 of this title.

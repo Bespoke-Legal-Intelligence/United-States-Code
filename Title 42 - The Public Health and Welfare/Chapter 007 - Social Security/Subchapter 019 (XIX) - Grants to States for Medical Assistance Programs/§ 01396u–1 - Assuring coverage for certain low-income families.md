@@ -2,7 +2,7 @@
 
 #### (a) References to subchapter IV–A are references to pre-welfare-reform provisions
 
-Subject to the succeeding provisions of this section, with respect to a State any reference in this subchapter (or any other provision of law in relation to the operation of this subchapter) to a provision of part A of subchapter IV of this chapter, or a State plan under such part (or a provision of such a plan), including income and resource standards and income and resource methodologies under such part or plan, shall be considered a reference to such a provision orplan as in effect as of July 16, 1996, with respect to the State.
+Subject to the succeeding provisions of this section, with respect to a State any reference in this subchapter (or any other provision of law in relation to the operation of this subchapter) to a provision of part A of subchapter IV of this chapter, or a State plan under such part (or a provision of such a plan), including income and resource standards and income and resource methodologies under such part or plan, shall be considered a reference to such a provision or plan as in effect as of July 16, 1996, with respect to the State.
 
 #### (b) Application of pre-welfare-reform eligibility criteria
 
@@ -72,7 +72,7 @@ Nothing in this section, or part A of subchapter IV of this chapter, shall be co
 
 (2) Any reference in section 1396a(a)(55) of this title to a State plan approved under part A of subchapter IV of this chapter shall be deemed a reference to a State program funded under such part.
 
-(3) In applying section 1396b(f) of this title, the applicable income limitation otherwise determined shall be subject to increase in the samemanner as income or resource standards of a State may be increased under subsection (b)(2)(B) of this section.
+(3) In applying section 1396b(f) of this title, the applicable income limitation otherwise determined shall be subject to increase in the same manner as income or resource standards of a State may be increased under subsection (b)(2)(B) of this section.
 
 #### (g) Relation to other provisions
 
@@ -82,7 +82,7 @@ The provisions of this section shall apply notwithstanding any other provision o
 
 #### (1) In general
 
-&emsp;Subject to the succeeding provisions of this subsection, the Secretary shall provide that with respect to administrative expenditures described in paragraph (2) the per centum specified in section 1396b(a)(7) of this title shall be increased to such percentage as the Secretary specifies.
+&emsp;Subject to the succeeding provisions of this subsection, the Secretary shall provide that with respect to administrative expendituresdescribed in paragraph (2) the per centum specified in section 1396b(a)(7) of this title shall be increased to such percentage as the Secretary specifies.
 
 #### (2) Administrative expenditures described
 

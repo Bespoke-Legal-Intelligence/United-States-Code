@@ -2,7 +2,7 @@
 
 #### (a) Establishment; residents as members of committees
 
-The Administrator shall as soon as practicable appoint a special industry committee to recommend the minimum rate or rates of wages to be paid under section 206 of this title to employees in American Samoa engaged in commerce or in the production of goods for commerce or employed in any enterprise engaged in commerce or in the production of goods for commerce or the Administrator may appoint separate industry committees to recommend the minimum rate or rates of wages to be paid under said section to employees therein engaged in commerceor in the production of goods for commerce or employed in any enterprise engaged in commerce or in the production of goods for commerce in particular industries. An industry committee appointed under this subsection shall be composed of residents of American Samoa where the employees with respect to whom such committee was appointed are employed and residents of the United States outside of American Samoa. In determining the minimum rate or rates of wages to be paid, and in determining classifications, such industry committees shall be subject to the provisions of section 208 of this title.
+The Administrator shall as soon as practicable appoint a special industry committee to recommend the minimum rate or rates of wages to be paid under section 206 of this title to employees in American Samoa engaged in commerce or in the production of goods for commerce or employed in any enterprise engaged in commerce or in the production of goods for commerce or the Administrator may appoint separate industry committees to recommend the minimum rate or rates of wages to be paid under said section to employees therein engaged in commerce or in the production of goods for commerce or employed in any enterprise engaged in commerce or in the production of goods for commerce in particular industries. An industry committee appointed under this subsection shall be composed of residents of American Samoa where the employees with respect to whom such committee was appointed are employed and residents of the United States outside of American Samoa. In determining the minimum rate or rates of wages to be paid, and in determining classifications, such industry committees shall be subject to the provisions of section 208 of this title.
 
 #### (b) Appointment of committee without regard to other laws pertaining to the appointment and compensation of employees of the United States; composition of committees
 
@@ -24,7 +24,7 @@ The Administrator shall submit to an industry committee from time to time such d
 
 Subsec. (a). Pub. L. 101–157, §4(a)(1), (2), substituted “American Samoa engaged” for “Puerto Rico or the Virgin Islands, or in Puerto Rico and the Virgin Islands, engaged”, “American Samoa where” for “such island or islands where”, and “American Samoa.” for “Puerto Rico and the Virgin Islands.”
 
-Subsec. (e). Pub. L. 101–157, §4(a)(3), struck out subsec. (e) which related to the application of sections 206 and 208 to employees in Puerto Rico or the Virgin Islands.
+Subsec. (e). Pub. L. 101–157, §4(a)(3), struck out subsec. (e) which related to the application of sections 206and 208 to employees in Puerto Rico or the Virgin Islands.
 
 1974—Subsec. (e). Pub. L. 93–259 added subsec. (e).
 

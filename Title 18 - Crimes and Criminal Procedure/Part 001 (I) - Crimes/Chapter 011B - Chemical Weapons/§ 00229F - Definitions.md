@@ -38,7 +38,7 @@ In general.—The term “precursor” means any chemical reactant which takes p
 
 &emsp;&emsp;(B)
 
-List of precursors.—Precursors which have been identified for the application of verification measures under ArticleVI of the Convention are listed in schedules contained in the Annex on Chemicals of the Chemical Weapons Convention.
+List of precursors.—Precursors which have been identified for the application of verification measures under Article VI of the Convention are listed in schedules contained in the Annex on Chemicals of the Chemical Weapons Convention.
 
 &emsp;(7)
 

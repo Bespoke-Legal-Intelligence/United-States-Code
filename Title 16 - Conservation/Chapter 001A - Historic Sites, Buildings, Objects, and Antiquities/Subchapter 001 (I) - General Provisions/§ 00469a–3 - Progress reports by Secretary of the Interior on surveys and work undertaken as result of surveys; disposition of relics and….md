@@ -2,7 +2,7 @@
 
 #### (a) Progress reports to funding or licensing agency
 
-The Secretary shall keep the agency responsible for funding or licensing the project notified at all times of the progress of any survey made under sections 469 to 469c of this title or of any work undertaken as a result of such survey, in order that there will be as little disruption ordelay as possible in the carrying out of the functions of such agency and the survey and recovery programs shall terminate at a time mutually agreed upon by the Secretary and the head of such agency unless extended by mutual agreement.
+The Secretary shall keep the agency responsible for funding or licensing the project notified at all times of the progress of any survey made under sections 469 to 469c of this title or of any work undertaken as a result of such survey, in order that there will be as little disruption or delay as possible in the carrying out of the functions of such agency and the survey and recovery programs shall terminate at a time mutually agreed upon by the Secretary and the head of such agency unless extended by mutual agreement.
 
 #### (b) Disposition of relics and specimens
 

@@ -6,7 +6,7 @@ Section 134, acts Aug. 27, 1888, ch. 914, §1, 25 Stat. 450; Mar. 2, 1889, ch. 4
 
 Acts Aug. 1, 1939, ch. 408, §2, 53 Stat. 1145; Dec. 17, 1943, ch. 347, §2, 57 Stat. 603; May 18, 1948, ch. 299, §2, 62 Stat. 237; Aug. 21, 1954, ch. 782, §2, 68 Stat. 757, which were set out in a note under section 134 of this title, were repealed by Pub. L. 85–857, §14(74), (85), (95), (106), Sept. 2, 1958, 72 Stat. 1272, 1273.
 
-Section 135, act June 7, 1924, ch. 295, §2, 43 Stat. 534, enumerated persons entitled to admission to hospitalerected at Pacific branch of National Home for Disabled Volunteer Soldiers.
+Section 135, act June 7, 1924, ch. 295, §2, 43 Stat. 534, enumerated persons entitled to admission to hospital erected at Pacific branch of National Home for Disabled Volunteer Soldiers.
 
 #### Effective Date of Repeal
 

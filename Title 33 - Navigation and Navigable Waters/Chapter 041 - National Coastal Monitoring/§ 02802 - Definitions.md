@@ -4,7 +4,7 @@ For the purposes of this chapter, the term—
 
 &emsp;(1) “Administrator” means the Administrator of the Environmental Protection Agency;
 
-&emsp;(2) “coastal ecosystem” means a system of interacting biological, chemical, and physicalcomponents throughout the water column, water surface, and benthic environment of coastal waters;
+&emsp;(2) “coastal ecosystem” means a system of interacting biological, chemical, and physical components throughout the water column, water surface, and benthic environment of coastal waters;
 
 &emsp;(3) “coastal water quality” means the physical, chemical and biological parameters that relate to the health and integrity of coastal ecosystems;
 
@@ -16,9 +16,9 @@ For the purposes of this chapter, the term—
 
 (Pub. L. 92–532, title V, §502, as added Pub. L. 102–567, title V, §501, Oct. 29, 1992, 106 Stat. 4294.)
 
-#### Contiguous Zone of United States
+#### Territorial Sea and Contiguous Zone of United States
 
-For extension of contiguous zone of United States, see Proc. No. 7219, Sept. 2, 1999, 64 F.R. 48701, set out as a note under section 1331 of Title 43, Public Lands.
+For extension of territorial sea and contiguous zone of United States, see Proc. No. 5928 and Proc. No. 7219, respectively, set out as notes under section 1331 of Title 43, Public Lands.
 
 <i><sup>1</sup></i><i> So in original. The closing quotation marks preceding the semicolon probably should not appear.</i>
 

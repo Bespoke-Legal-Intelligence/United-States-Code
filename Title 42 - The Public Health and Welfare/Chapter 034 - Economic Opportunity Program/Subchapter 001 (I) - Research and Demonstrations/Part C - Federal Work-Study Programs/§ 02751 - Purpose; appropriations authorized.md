@@ -2,7 +2,7 @@
 
 #### (a) Purpose
 
-The purpose of this part is to stimulate and promote the part-time employment of students who are enrolled as undergraduate, graduate, or professional students and who are in need of earnings from employment to pursue courses of study at eligible institutions, and to encourage students receiving Federal student financial assistance to participate in community service activities that will benefit the Nation and engender in the students a sense of social responsibility and commitment to the community.
+The purpose of this part is to stimulate and promote the part-time employment of students who are enrolled as undergraduate, graduate, or professional students and who are in need of earnings from employment to pursue courses of study at eligible institutions, and to encouragestudents receiving Federal student financial assistance to participate in community service activities that will benefit the Nation and engender in the students a sense of social responsibility and commitment to the community.
 
 #### (b) Authorization of appropriations
 
@@ -102,7 +102,7 @@ Section 135A(b) of Pub. L. 92–318 provided that: “The amendment made by subs
 
 #### References to Part C of Title I of the Economic Opportunity Act of 1964
 
-Section 131(c) of Pub. L. 90–575 provided that: “Any reference to any provision of part C of title I of the Economic Opportunity Act of 1964 in any law of the United States shall be deemed to be a reference to thecorresponding provision of part C of title IV of the Higher Education Act of 1965 as amended by this section \[this part\].”
+Section 131(c) of Pub. L. 90–575 provided that: “Any reference to any provision of part C of title I of the Economic Opportunity Act of 1964 in any law of the United States shall be deemed to be a reference to the corresponding provision of part C of title IV of the Higher Education Act of 1965 as amended by this section \[this part\].”
 
 #### Section Referred to in Other Sections
 

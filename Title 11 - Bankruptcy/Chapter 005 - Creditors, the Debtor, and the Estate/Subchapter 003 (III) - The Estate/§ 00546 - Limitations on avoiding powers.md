@@ -24,7 +24,7 @@
 
 > such interest in such property shall be perfected, or perfection of such interest shall be maintained or continued, by giving notice within the time fixed by such law for such seizure or such commencement.
 
-(c) Except as provided in subsection (d) of this section, the rights and powers of a trustee under sections 544(a), 545, 547, and 549 of this title are subject to any statutory or common-law right of a seller of goods that has sold goods to the debtor, in the ordinary course of such seller's business, to reclaim such goods if the debtor has received such goods while insolvent, but—
+(c) Except as provided in subsection (d) of this section, the rights and powers of a trustee undersections 544(a), 545, 547, and 549 of this title are subject to any statutory or common-law right of a seller of goods that has sold goods to the debtor, in the ordinary course of such seller's business, to reclaim such goods if the debtor has received such goods while insolvent, but—
 
 &emsp;(1) such a seller may not reclaim any such goods unless such seller demands in writing reclamation of such goods—
 

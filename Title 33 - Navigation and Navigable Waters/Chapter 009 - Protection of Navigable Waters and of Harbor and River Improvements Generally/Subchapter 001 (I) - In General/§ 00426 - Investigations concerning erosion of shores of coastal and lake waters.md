@@ -18,7 +18,7 @@ The Board, referred to in text, means the Beach Erosion Board, which was abolish
 
 #### Abolition of Beach Erosion Board
 
-Pub. L. 88–172, §1, Nov. 7, 1963, 77 Stat. 304, provided in part: “That the Board established by section 2 of theRiver and Harbor Act approved July 3, 1930, as amended (33 U.S.C. 426), referred to as the Beach Erosion Board, is hereby abolished.” For the transfer of functions of the Beach Erosion Board to the Coastal Engineering Research Center and the Board of Engineers for Rivers and Harbors, see sections 426–1 and 426–3 of this title. For termination of Board of Engineers for Rivers and Harbors 180 days after Oct. 31, 1992, and reassignment of duties and responsibilities by Secretary of Army, see section 223 of Pub. L. 102–580, set out as a note under section 541 of this title.
+Pub. L. 88–172, §1, Nov. 7, 1963, 77 Stat. 304, provided in part: “That the Board established by section 2 of the River and Harbor Act approved July 3, 1930, as amended (33 U.S.C. 426), referred to as the Beach Erosion Board, is hereby abolished.” For the transfer of functions of the Beach Erosion Board to the Coastal Engineering Research Center and the Board of Engineers for Rivers and Harbors, see sections 426–1 and 426–3 of this title. For termination of Board of Engineers for Rivers and Harbors 180 days after Oct. 31, 1992, and reassignment of duties and responsibilities by Secretary of Army, seesection 223 of Pub. L. 102–580, set out as a note under section 541 of this title.
 
 #### Great Lakes Levels Study
 

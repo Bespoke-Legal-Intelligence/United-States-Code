@@ -24,7 +24,7 @@
 
 (c) An employee shall meet the requirements of subsection (a)(2)(A) if such employee contributes the minimum number of hours as required under subsection (b) of accrued or accumulated annual leave to the leave bank with which such employee submits an application to be a leave recipient under section 6367(a).
 
-(d) The provisions of subsection (a) may not be construed to limit the amount of the voluntarycontribution of annual leave to a leave bank, which does not exceed the limitations of section 6365(b).
+(d) The provisions of subsection (a) may not be construed to limit the amount of the voluntary contribution of annual leave to a leave bank, which does not exceed the limitations of section 6365(b).
 
 (Added Pub. L. 100–566, §2(a), Oct. 31, 1988, 102 Stat. 2840.)
 

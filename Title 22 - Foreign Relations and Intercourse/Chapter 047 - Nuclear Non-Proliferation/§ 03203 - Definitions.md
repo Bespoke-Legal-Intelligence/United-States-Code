@@ -8,7 +8,7 @@
 
 &emsp;(3) “nuclear materials and equipment” means source material, special nuclear material, production facilities, utilization facilities, and components, items or substances determined to have significance for nuclear explosive purposes pursuant to subsection 109b <sup>1</sup> of the 1954 Act \[42 U.S.C. 2139(b)\];
 
-&emsp;(4) “physical security measures” means measures to reasonably ensure that source or special nuclear material will only be used for authorized purposes and to prevent theft and sabotage;
+&emsp;(4) “physical security measures” means measures to reasonably ensure that source orspecial nuclear material will only be used for authorized purposes and to prevent theft and sabotage;
 
 &emsp;(5) “sensitive nuclear technology” means any information (including information incorporated in a production or utilization facility or important component part thereof) which is not available to the public and which is important to the design, construction, fabrication, operation or maintenance of a uranium enrichment or nuclear fuel reprocessing facility or a facility for the production of heavy water, but shall not include Restricted Data controlled pursuant to chapter 12 of the 1954 Act \[42 U.S.C. 2161 et seq.\];
 

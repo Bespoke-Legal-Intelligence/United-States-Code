@@ -38,7 +38,7 @@ The capital of an insured depository institution shall be computed without regar
 
 #### (g) Regulations required
 
-Not later than 180 days after September 23, 1994, each appropriate Federal banking agency shall promulgate final regulations implementing this section.
+Not later than 180 days after September 23, 1994, each appropriate Federal banking agencyshall promulgate final regulations implementing this section.
 
 #### (h) Alternative system permitted
 

@@ -8,7 +8,3 @@ There shall be in the Department of Commerce, in addition to the Assistant Secre
 
 Section was formerly classified to section 592a–4 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378.
 
-#### Cross References
-
-Compensation of Assistant Secretaries, see section 5315 of Title 5, Government Organization and Employees.
-

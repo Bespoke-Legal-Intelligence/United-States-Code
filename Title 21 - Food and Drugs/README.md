@@ -1,5 +1,5 @@
 
-21 U.S.C.<br>United States Code, 1999 Edition<br>Title 21 - FOOD AND DRUGS<br>From the U.S. Government Publishing Office, www.gpo.gov
+21 U.S.C.<br>United States Code, 2000 Edition<br>Title 21 - FOOD AND DRUGS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 21—FOOD AND DRUGS
 
@@ -32,14 +32,6 @@
 | [<b>24.</b>](Chapter%20024%20-%20International%20Narcotics%20Trafficking/README.md) | <b>International Narcotics Trafficking</b> | <b>1901</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Cross References
-
-Biological products, regulation, see section 262 of Title 42, The Public Health and Welfare.
-
-Narcotics, instruction as to nature and effect of, see section 111 et seq. of Title 20, Education.
-
-Packers and Stockyards Act, see section 181 et seq. of Title 7, Agriculture.
 
 #### Title Referred to in Other Sections
 

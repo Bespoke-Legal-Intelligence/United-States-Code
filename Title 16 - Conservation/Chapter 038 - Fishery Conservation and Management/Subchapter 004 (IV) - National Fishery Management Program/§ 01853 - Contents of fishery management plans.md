@@ -46,7 +46,7 @@ Any fishery management plan which is prepared by any Council, or by the Secretar
 
 &emsp;&emsp;(B) minimize the mortality of bycatch which cannot be avoided;
 
-&emsp;(12) assess the type and amount of fish caught and released alive during recreational fishing under catch and release fishery management programs and the mortality of such fish, and include conservation and management measures that, to the extent practicable, minimize mortality and ensure the extended survival of such fish;
+&emsp;(12) assess the type and amount of fish caught and released alive during recreationalfishing under catch and release fishery management programs and the mortality of such fish, and include conservation and management measures that, to the extent practicable, minimize mortality and ensure the extended survival of such fish;
 
 &emsp;(13) include a description of the commercial, recreational, and charter fishing sectors which participate in the fishery and, to the extent practicable, quantify trends in landings of the managed fishery resource by the commercial, recreational, and charter fishing sectors; and
 
@@ -114,7 +114,7 @@ Proposed regulations which the Council deems necessary or appropriate for the pu
 
 #### (d) Individual fishing quotas
 
-(1)(A) A Council may not submit and the Secretary may not approve or implement before October 1, 2000, any fishery management plan, plan amendment, or regulation under this chapter which creates a new individual fishing quota program.
+(1)(A) A Council may not submit and the Secretary may not approve or implement before October 1, 2002, any fishery management plan, plan amendment, or regulation under this chapter which creates a new individual fishing quota program.
 
 (B) Any fishery management plan, plan amendment, or regulation approved by the Secretary on or after January 4, 1995, which creates any new individual fishing quota program shall be repealed and immediately returned by the Secretary to the appropriate Council and shall not be resubmitted, reapproved, or implemented during the moratorium set forth in subparagraph (A).
 
@@ -140,7 +140,7 @@ Proposed regulations which the Council deems necessary or appropriate for the pu
 
 (B) A Council making a submission under subparagraph (A) shall recommend criteria, consistent with the provisions of this chapter, that a fisherman must meet to qualify for guarantees under clauses (i) and (ii) of subparagraph (A) and the portion of funds to be allocated for guarantees under each clause.
 
-(5) In submitting and approving any new individual fishing quota program on or after October 1, 2000, the Councils and the Secretary shall consider the report of the National Academy of Sciences required under section 108(f) of the Sustainable Fisheries Act, and any recommendations contained in such report, and shall ensure that any such program—
+(5) In submitting and approving any new individual fishing quota program on or after October 1, 2002, the Councils and the Secretary shall consider the report of the National Academy of Sciences required under section 108(f) of the Sustainable Fisheries Act, and any recommendations contained in such report, and shall ensure that any such program—
 
 &emsp;(A) establishes procedures and requirements for the review and revision of the terms of any such program (including any revisions that may be necessary once a national policy with respect to individual fishing quota programs is implemented), and, if appropriate, for the renewal, reallocation, or reissuance of individual fishing quotas;
 
@@ -148,7 +148,7 @@ Proposed regulations which the Council deems necessary or appropriate for the pu
 
 &emsp;(C) provides for a fair and equitable initial allocation of individual fishing quotas, prevents any person from acquiring an excessive share of the individual fishing quotas issued, and considers the allocation of a portion of the annual harvest in the fishery for entry-level fishermen, small vessel owners, and crew members who do not hold or qualify for individual fishing quotas.
 
-(Pub. L. 94–265, title III, §303, Apr. 13, 1976, 90 Stat. 351; Pub. L. 95–354, §5(2), (3), Aug. 28, 1978, 92 Stat. 521; Pub. L. 97–453, §6, Jan. 12, 1983, 96 Stat. 2486; Pub. L. 99–659, title I, §§101(c)(2), 105(a)(1), (b), Nov. 14, 1986, 100 Stat. 3707, 3711; Pub. L. 101–627, title I, §109, Nov. 28, 1990, 104 Stat. 4447; Pub. L. 102–251, title III, §301(g), Mar. 9, 1992, 106 Stat. 64; Pub. L. 104–297, title I, §108(a), (c)–(e), Oct. 11, 1996, 110 Stat. 3574–3576.)
+(Pub. L. 94–265, title III, §303, Apr. 13, 1976, 90 Stat. 351; Pub. L. 95–354, §5(2), (3), Aug. 28, 1978, 92 Stat. 521; Pub. L. 97–453, §6, Jan. 12, 1983, 96 Stat. 2486; Pub. L. 99–659, title I, §§101(c)(2), 105(a)(1), (b), Nov. 14, 1986, 100 Stat. 3707, 3711; Pub. L. 101–627, title I, §109, Nov. 28, 1990, 104 Stat. 4447; Pub. L. 102–251, title III, §301(g), Mar. 9, 1992, 106 Stat. 64; Pub. L. 104–297, title I, §108(a), (c)–(e), Oct. 11, 1996, 110 Stat. 3574–3576; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(a)(1), (2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–238.)
 
 #### Amendment of Subsection (b)(1)(A)
 
@@ -160,6 +160,8 @@ Section 108(f) of the Sustainable Fisheries Act, referred to in subsec. (d)(5), 
 
 #### Amendments
 
+2000—Subsec. (d)(1)(A), (5). Pub. L. 106–554 substituted “October 1, 2002,” for “October 1, 2000,”.
+
 1996—Subsec. (a)(1)(A). Pub. L. 104–297, §108(a)(1), inserted “and rebuild overfished stocks” after “overfishing”.
 
 Subsec. (a)(5). Pub. L. 104–297, §108(a)(2), inserted “commercial, recreational, and charter fishing in” after “with respect to”.
@@ -170,7 +172,7 @@ Subsec. (a)(9)(A). Pub. L. 104–297, §108(a)(5), inserted “and fishing commu
 
 Subsec. (a)(10) to (14). Pub. L. 104–297, §108(a)(4), (6), (7), added pars. (10) to (14).
 
-Subsec. (b)(3). Pub. L. 104–297, §108(c)(1), added par. (3) and struck out former par. (3) which read as follows: “establish specified limitations on the catch of fish (based on area, species, size, number, weight, sex, incidental catch, total biomass, or other factors), which are necessary and appropriate for the conservation and management of the fishery;”.
+Subsec. (b)(3). Pub. L. 104–297, §108(c)(1), added par. (3) and struck out former par. (3) which read as follows:“establish specified limitations on the catch of fish (based on area, species, size, number, weight, sex, incidental catch, total biomass, or other factors), which are necessary and appropriate for the conservation and management of the fishery;”.
 
 Subsec. (b)(6). Pub. L. 104–297, §108(c)(2), substituted “limited access system for” for “system for limiting access to” in introductory provisions.
 
@@ -188,7 +190,7 @@ Subsecs. (d) to (f). Pub. L. 104–297, §108(e), added subsec. (d) and struck o
 
 Subsec. (a)(1)(C). Pub. L. 101–627, §109(a)(2), inserted “regulations implementing recommendations by international organizations in which the United States participates (including but not limited to closed areas, quotas, and size limits),” after “this chapter,”.
 
-Subsec. (a)(6). Pub. L. 101–627, §109(a)(3), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “consider, and may provide for, temporary adjustments, after consultation with the Coast Guard andpersons utilizing the fishery, regarding access to the fishery for vessels otherwise prevented from harvesting because of weather or other ocean conditions affecting the safety of the vessels; and”.
+Subsec. (a)(6). Pub. L. 101–627, §109(a)(3), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “consider, and may provide for, temporary adjustments, after consultation with the Coast Guard and persons utilizing the fishery, regarding access to the fishery for vessels otherwise prevented from harvesting because of weather or other ocean conditions affecting the safety of the vessels; and”.
 
 Subsec. (a)(8), (9). Pub. L. 101–627, §109(a)(4), (5), added pars. (8) and (9).
 
@@ -228,6 +230,16 @@ Section 105(a)(2) of Pub. L. 99–659 provided that: “The amendments made by p
 
 &emsp;“(B) is in effect on that date, but compliance with those amendments is not required except in conjunction with the amendment to the plan next occurring after that date.”
 
+#### Exceptions to Subsection (d)(1) and Section 1883 Plan Restrictions
+
+Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–238, provided that: “Notwithstanding sections 303(d)(1)(A) and 303(d)(1)(B) of the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1853(d)(1)(A), (B)\], as amended by this section, the Pacific Fishery Management Council may recommend and the Secretary of Commerce may approve and implement any fishery management plan, plan amendment, or regulation, for fixed gear sablefish subject to the jurisdiction of such Council, that—
+
+&emsp;“(1) allows the use of more than one groundfish fishing permit by each fishing vessel; and/or
+
+&emsp;“(2) sets cumulative trip limit periods, up to 12 months in any calendar year, that allow fishing vessels a reasonable opportunity to harvest the full amount of the associated trip limits.
+
+> Notwithstanding subsection (a) \[amending this section and section 1883 of this title\], the Gulf of Mexico Fishery Management Council may develop a biological, economic, and social profile of any fishery under its jurisdiction that may be considered for management under a quota management system, including the benefits and consequences of the quota management systems considered. The North Pacific Fishery Management Council shall examine the fisheries under its jurisdiction, particularly the Gulf of Alaska groundfish andBering Sea crab fisheries, to determine whether rationalization is needed. In particular, the North Pacific Council shall analyze individual fishing quotas, processor quotas, cooperatives, and quotas held by communities. The analysis should include an economic analysis of the impact of all options on communities and processors as well as the fishing fleets. The North Pacific Council shall present its analysis to the appropriations and authorizing committees of the Senate and House of Representatives in a timely manner.”
+
 #### Implementation of Amendments to Plans Required by Section 108(a) of Pub. L. 104–297
 
 Section 108(b) of Pub. L. 104–297 provided that: “Not later than 24 months after the date of enactment of this Act \[Oct. 11, 1996\], each Regional Fishery Management Council shall submit to the Secretary of Commerce amendments to each fishery management plan under its authority to comply with the amendments made in subsection (a) of this section \[amending this section\].”
@@ -252,7 +264,7 @@ Section 108(f)(1) to (5) of Pub. L. 104–297, as amended by Pub. L. 104–208, 
 
 &emsp;“(G) threshold criteria for determining whether a fishery may be considered for individual fishing quota management, including criteria related to the geographical range, population dynamics and condition of a fish stock, the socioeconomic characteristics of a fishery (including participants’ involvement in multiple fisheries in the region), and participation by commercial, charter, and recreational fishing sectors in the fishery;
 
-&emsp;“(H) mechanisms to ensure that vessel owners, vessel masters, crew members, and United States fish processors are treated fairly and equitably in initial allocations, to require persons holding individual fishing quotas to be on board the vessel using suchquotas, and to facilitate new entry under individual fishing quota programs;
+&emsp;“(H) mechanisms to ensure that vessel owners, vessel masters, crew members, and United States fish processors are treated fairly and equitably in initial allocations, to require persons holding individual fishing quotas to be on board the vessel using such quotas, and to facilitate new entry under individual fishing quota programs;
 
 &emsp;“(I) potential social and economic costs and benefits to the nation, individual fishing quota recipients, and any recipients of Federal permits described in subparagraph (D) under individual fishing quota programs, including from capital gains revenue, the allocation of such quotas or permits through Federal auctions, annual fees and transfer fees at various levels, or other measures;
 

@@ -14,7 +14,7 @@ Whenever the Commission has reason to believe that—
 
 &emsp;(2) it would be to the public interest to enjoin such violation until complaint is issued by the Commission under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\] and such complaint dismissed by the Commission or set aside by the court on review, or until order to cease and desist made thereon by the Commission has become final within the meaning of said Act,
 
-> the Commission may bring suit in the district court of the United States or in the United States court of any Territory, for the district or Territory in which such person resides or transacts business, to enjoin such violation, and upon proper showing a temporary injunction or restraining order shall be granted without bond.
+> the Commission may bring suit in the district court of the United States or in the UnitedStates court of any Territory, for the district or Territory in which such person resides or transacts business, to enjoin such violation, and upon proper showing a temporary injunction or restraining order shall be granted without bond.
 
 (Aug. 8, 1951, ch. 298, §9, 65 Stat. 180.)
 
@@ -25,10 +25,6 @@ The Federal Trade Commission Act, referred to in subsec. (b)(2), is act Sept. 26
 #### Transfer of Functions
 
 For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, §1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
-
-#### Federal Rules of Civil Procedure
-
-Admiralty and maritime rules of practice (which included libel procedures) were superseded, and civil and admiralty procedures in United States district courts were unified, effective July 1, 1966, see rule 1 and Supplemental Rules for Certain Admiralty and Maritime Claims, Title 28, Appendix, Judiciary and Judicial Procedure.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “violating,”.</i>
 

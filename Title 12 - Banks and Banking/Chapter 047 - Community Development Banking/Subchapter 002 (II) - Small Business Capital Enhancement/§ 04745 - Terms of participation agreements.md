@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The participation agreement to be entered into by a participating State and a participating financial institution shall include all provisions required by this section, and shall not include any provisions inconsistent with the provisions of this section.
+The participation agreement to be entered into by a participating State and a participatingfinancial institution shall include all provisions required by this section, and shall not include any provisions inconsistent with the provisions of this section.
 
 #### (b) Establishment of separate reserve funds
 
@@ -74,7 +74,7 @@ In filing a loan for enrollment under the Program, the participating financial i
 
 &emsp;Except as provided in subsection (h) of this section and paragraph (2) of this subsection, the participating State may not—
 
-&emsp;&emsp;(A) impose any restrictions or requirements, relating to the interest rate, fees, collateral, or other business terms and conditions of the loan; or
+&emsp;&emsp;(A) impose any restrictions or requirements, relating to the interest rate, fees,collateral, or other business terms and conditions of the loan; or
 
 &emsp;&emsp;(B) condition enrollment of a loan in the Program on the review by the State of the risk or creditworthiness of a loan.
 
@@ -112,7 +112,7 @@ A claim filed by a participating financial institution may include the amount of
 
 #### (2) Insufficient reserve funds
 
-&emsp;If there are insufficient funds in the reserve fund to cover the entire amount of a claim of a participating financial institution, the participating State shall pay to the participatingfinancial institution an amount equal to the current balance in the reserve fund. If the enrolled loan for which the claim has been filed—
+&emsp;If there are insufficient funds in the reserve fund to cover the entire amount of a claim of a participating financial institution, the participating State shall pay to the participating financial institution an amount equal to the current balance in the reserve fund. If the enrolled loan for which the claim has been filed—
 
 &emsp;&emsp;(A) is not an early loan, such payment shall be deemed fully to satisfy the claim, and the participating financial institution shall have no other or further right to receive any amount from the reserve fund with respect to such claim; or
 

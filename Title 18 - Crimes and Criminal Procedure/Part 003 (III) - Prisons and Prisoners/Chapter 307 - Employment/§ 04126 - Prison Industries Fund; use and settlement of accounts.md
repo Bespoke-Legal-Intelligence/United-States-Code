@@ -1,6 +1,6 @@
 ### §4126. Prison Industries Fund; use and settlement of accounts
 
-(a) All moneys under the control of Federal Prison Industries, or received from the sale ofthe products or by-products of such Industries, or for the services of federal prisoners, shall be deposited or covered into the Treasury of the United States to the credit of the Prison Industries Fund and withdrawn therefrom only pursuant to accountable warrants or certificates of settlement issued by the General Accounting Office.
+(a) All moneys under the control of Federal Prison Industries, or received from the sale of the products or by-products of such Industries, or for the services of federal prisoners, shall be deposited or covered into the Treasury of the United States to the credit of the Prison Industries Fund and withdrawn therefrom only pursuant to accountable warrants or certificates of settlement issued by the General Accounting Office.
 
 (b) All valid claims and obligations payable out of said fund shall be assumed by the corporation.
 
@@ -36,7 +36,7 @@ The first sentence of section 744<i>l</i> of title 18, U.S.C., 1940 ed., authori
 
 The phrase “or received from the sale of the products or by-products of such Industries, or for the services of Federal prisoners,” was inserted to make the first paragraph of this section complete, and required the Federal Prison Industries to account for all moneys under its control.
 
-The words “in the repair, alteration, erection and maintenance of industrial buildings and equipment” and “under rules and regulations promulgated by the Attorney General in paying compensation to inmates employed in any industry, or performing outstanding services in industrial operations” were inserted in part to conform to administrative construction, and in part to provide greater flexibility in the operation of Prison Industries. Much friction was caused by the inability of Prison Industries to compensate inmates whose services in operating the utilities of the institution were most necessary but which were uncompensated while those prisoners who worked in the Industries received compensation. This inequitable situation is corrected by the revised section.
+The words “in the repair, alteration, erection and maintenance of industrial buildings and equipment” and “under rules and regulations promulgated by the Attorney General in paying compensation to inmates employed in any industry, or performing outstanding services in industrial operations” were inserted in partto conform to administrative construction, and in part to provide greater flexibility in the operation of Prison Industries. Much friction was caused by the inability of Prison Industries to compensate inmates whose services in operating the utilities of the institution were most necessary but which were uncompensated while those prisoners who worked in the Industries received compensation. This inequitable situation is corrected by the revised section.
 
 The words “in performing the duties imposed by this chapter” were substituted for the words “for the purposes enumerated in sections 744a–744h of this title,” since the provisions with regard to prison industries now appear in this chapter. The general provisions as to use of the fund supersede the more specific provisions of section 744f of said title (enacted earlier).
 
@@ -54,7 +54,7 @@ This section \[section 64\] incorporates in section 4126 of title 18, U.S.C., pr
 
 1988—Subsecs. (a), (b). Pub. L. 100–690, §7094(1), designated first and second pars. as subsecs. (a) and (b), respectively.
 
-Subsec. (c). Pub. L. 100–690, §7094(1), (2), designated third par. as subsec. (c) and amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The corporation, in accordance with the laws generally applicable to the expenditures of the several departments and establishments of the government, is authorized to employ the fund, and any earnings that may accrue to the corporation, as operating capital in performing the duties imposed by this chapter; in the repair, alteration, erection and maintenance of industrial buildings and equipment; in the vocational training of inmates without regard to their industrial or other assignments; in paying, under rules and regulations promulgated by the Attorney General, compensation to inmates employed in any industry, or performing outstanding services in institutional operations,and compensation to inmates or their dependents for injuries suffered in any industry or in any work activity in connection with the maintenance or operation of the institution where confined. In no event shall compensation be paid in a greater amount than that provided in the Federal Employees’ Compensation Act.”
+Subsec. (c). Pub. L. 100–690, §7094(1), (2), designated third par. as subsec. (c) and amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The corporation, in accordance with the laws generally applicable to the expenditures of the several departments and establishments of the government, is authorized to employ the fund, and any earnings that may accrue to the corporation, as operating capital in performing the duties imposed by this chapter; in the repair, alteration, erection and maintenance of industrial buildings and equipment; in the vocational training of inmates without regard to their industrial or other assignments; in paying, under rules and regulations promulgated by the Attorney General, compensation to inmates employed in any industry, or performing outstanding services in institutional operations, and compensation to inmates or their dependents for injuries suffered in any industry or in any work activity in connection with the maintenance or operation of the institution where confined. In no event shall compensation be paid in a greater amount than that provided in the Federal Employees’ Compensation Act.”
 
 Subsecs. (d), (e). Pub. L. 100–690, §7094(1), designated fourth and fifth pars. as subsecs. (d) and (e), respectively.
 
@@ -63,10 +63,4 @@ Subsec. (f). Pub. L. 100–690, §7094(3), added subsec. (f).
 1961—Pub. L. 87–317 authorized compensation for injuries to inmates incurred while working in connection with the maintenance or operation of the institution where confined.
 
 1949—Act May 24, 1949, inserted “in the vocational training of inmates without regard to their industrial or other assignments;” after second semicolon in third par.
-
-#### Cross References
-
-Financial control of Corporation, see section 9101 et seq. of Title 31, Money and Finance.
-
-General Accounting Office; creation, powers, duties, etc., see section 702 et seq. of Title 31.
 

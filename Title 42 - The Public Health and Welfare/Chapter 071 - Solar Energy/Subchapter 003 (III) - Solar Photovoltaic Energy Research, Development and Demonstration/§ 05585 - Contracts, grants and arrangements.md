@@ -16,7 +16,7 @@ The Secretary, in accordance with the applicable provisions of sections 5906, 59
 
 &emsp;(1) enter into such contracts and grants as may be necessary or appropriate for the development for commercial production and utilization of photovoltaic components and systems, including any further planning and design which may be required to conform with the specifications set forth in any applicable criteria;
 
-&emsp;(2) select, as being compatible with the design concepts chosen under subsection (a)(2) of this section, a reasonable number of photovoltaic components and systems; and
+&emsp;(2) select, as being compatible with the design concepts chosen under subsection (a)(2) ofthis section, a reasonable number of photovoltaic components and systems; and
 
 &emsp;(3) enter into contracts with a number of persons or firms for the procurement of photovoltaic components and systems, including adequate numbers of spare and replacement parts for such systems.
 
@@ -30,7 +30,7 @@ The Secretary, in consultation with the Administrator of General Services or the
 
 #### (e) Projects and activities
 
-The Secretary shall, as he deems appropriate, undertake any projects or activities (includingdemonstration projects) to further the attainment of the objectives of this section.
+The Secretary shall, as he deems appropriate, undertake any projects or activities (including demonstration projects) to further the attainment of the objectives of this section.
 
 (Pub. L. 95–590, §6, Nov. 4, 1978, 92 Stat. 2516.)
 

@@ -24,25 +24,25 @@ Appropriations from the fund pursuant to this section shall not be used for acqu
 
 (1) Whenever the Secretary of the Interior determines that to do so will contribute to, and is necessary for, the proper preservation, protection, interpretation, or management of an area of the national park system, he may, following timely notice in writing to the Committee on Resources of the House of Representatives and to the Committee on Energy and Natural Resources of the Senate of his intention to do so, and by publication of a revised boundary map or other description in the Federal Register, (i) make minor revisions of the boundary of the area, and moneys appropriated from the fund shall be available for acquisition of any lands, waters, and interests therein added to the area by such boundary revision subject to such statutory limitations, if any, on methods of acquisition and appropriations thereof as may be specifically applicable to such area; and (ii) acquire by donation, purchase with donated funds, transfer from any other Federal agency, or exchange, lands, waters, or interests therein adjacent to such area, except that in exercising his authority under this clause (ii) the Secretary may not alienate property administered as part of the national park system in order to acquire lands by exchange, the Secretary may not acquire property without the consent of the owner, and the Secretary may acquire property owned by a State or political subdivision thereof only by donation. Prior to making a determination under this subsection, the Secretary shall consult with the duly elected governing body of the county, city, town, or other jurisdiction or jurisdictions having primary taxing authority over the land or interest to be acquired as to the impacts of such proposed action, and he shall also take such steps as he may deem appropriate to advance local public awareness of the proposed action. Lands, waters, and interests therein acquired in accordance with this subsection shall be administered as part of the area to which they are added, subject to the laws and regulations applicable thereto.
 
-(2) For the purposes of clause (i) of paragraph (1), in all cases except the case of technical boundary revisions (resulting from such causes as survey error or changed road alignments), the authority of the Secretary under such clause (i) shall apply only if each of the following conditions is met:
+(2) For the purposes of clause (i) of paragraph (1), in all cases except the case of technicalboundary revisions (resulting from such causes as survey error or changed road alignments), the authority of the Secretary under such clause (i) shall apply only if each of the following conditions is met:
 
 &emsp;(A) The sum of the total acreage of lands, waters, and interests therein to be added to the area and the total such acreage to be deleted from the area is not more than 5 percent of the total Federal acreage authorized to be included in the area and is less than 200 acres in size.
 
 &emsp;(B) The acquisition, if any, is not a major Federal action significantly affecting the quality of the human environment, as determined by the Secretary.
 
-&emsp;(C) The sum of the total appraised value of the lands, water, and interest therein to be added to the area and the total appraised value of the lands, waters, and interests therein to be deleted from the area does not exceed $750,000.
+&emsp;(C) The sum of the total appraised value of the lands, waters, and interests therein to be added to the area and the total appraised value of the lands, waters, and interests therein to be deleted from the area does not exceed $750,000.
 
 &emsp;(D) The proposed boundary revision is not an element of a more comprehensive boundary modification proposal.
 
 &emsp;(E) The proposed boundary has been subject to a public review and comment period.
 
-&emsp;(F) The Director of the National Park Service obtains written consent for the boundary modification from all property owners whose lands, water, or interests therein, or a portion of whose lands, water, or interests therein, will be added to or deleted from the area by the boundary modification.
+&emsp;(F) The Director of the National Park Service obtains written consent for the boundary modification from all property owners whose lands, waters, or interests therein, or a portion of whose lands, waters, or interests therein, will be added to or deleted from the area by the boundary modification.
 
-&emsp;(G) The lands are adjacent to other Federal lands administered by the Director of the National Park Service.
+&emsp;(G) The lands abut other Federal lands administered by the Director of the National Park Service.
 
 > Minor boundary revisions involving only deletions of acreage owned by the Federal Government and administered by the National Park Service may be made only by Act of Congress.
 
-(Pub. L. 88–578, title I, §7, formerly §6, Sept. 3, 1964, 78 Stat. 903; Pub. L. 90–401, §1(c), July 15, 1968, 82 Stat. 355; renumbered §7, Pub. L. 92–347, §2, July 11, 1972, 86 Stat. 459; amended Pub. L. 93–205, §13(c), Dec. 28, 1973, 87 Stat. 902; Pub. L. 94–422, title I, §101(4), Sept. 28, 1976, 90 Stat. 1317; Pub. L. 95–42, §1(3)–(5), June 10, 1977, 91 Stat. 210, 211; Pub. L. 96–203, §2, Mar. 10, 1980, 94 Stat. 81; Pub. L. 99–645, title III, §302, Nov. 10, 1986, 100 Stat. 3587; Pub. L. 103–437, §6(p)(3), Nov. 2, 1994, 108 Stat. 4586; Pub. L. 104–333, div. I, title VIII, §814(b), (d)(2)(C), Nov. 12, 1996, 110 Stat. 4194, 4196.)
+(Pub. L. 88–578, title I, §7, formerly §6, Sept. 3, 1964, 78 Stat. 903; Pub. L. 90–401, §1(c), July 15, 1968, 82 Stat. 355; renumbered §7, Pub. L. 92–347, §2, July 11, 1972, 86 Stat. 459; amended Pub. L. 93–205, §13(c), Dec. 28, 1973, 87 Stat. 902; Pub. L. 94–422, title I, §101(4), Sept. 28, 1976, 90 Stat. 1317; Pub. L. 95–42, §1(3)–(5), June 10, 1977, 91 Stat. 210, 211; Pub. L. 96–203, §2, Mar. 10, 1980, 94 Stat. 81; Pub. L. 99–645, title III, §302, Nov. 10, 1986, 100 Stat. 3587; Pub. L. 103–437, §6(p)(3), Nov. 2, 1994, 108 Stat. 4586; Pub. L. 104–333, div. I, title VIII, §814(b), (d)(2)(C), Nov. 12, 1996, 110 Stat. 4194, 4196; Pub. L. 106–176, title I, §§120(b), 129, Mar. 10, 2000, 114 Stat. 28, 30.)
 
 #### References in Text
 
@@ -58,9 +58,15 @@ A prior section 7 of Pub. L. 88–578 was renumbered section 8 and is classified
 
 #### Amendments
 
+2000—Subsec. (c). Pub. L. 106–176, §129, which directed the amendment of section 814(b)(2)(G) of Pub. L. 104–333 by substituting “abut” for “are adjacent to” was executed by making the substitution in subsec. (c)(2)(G) of this section which had been added by section 814(b)(2)(B) of Pub. L. 104–333, to reflect the probable intent of Congress. See 1996 Amendment note below.
+
+Subsec. (c)(2)(C). Pub. L. 106–176, §120(b)(1), substituted “lands, waters, and interests therein” for “lands, water, and interest therein”.
+
+Subsec. (c)(2)(F). Pub. L. 106–176, §120(b)(2), substituted “lands, waters, or interests therein, or a portion of whose lands, waters, or interests therein,” for “lands, water, or interests therein, or a portion of whose lands, water, or interests therein,”.
+
 1996—Subsec. (a)(3). Pub. L. 104–333, §814(d)(2)(C), struck out at end “The Secretary of the Interior shall, prior to the expenditure of funds which would cause a statutory ceiling to be exceeded by $1,000,000 or more, and with respect to each expenditure of $1,000,000 or more in excess of such a ceiling, provide written notice of such proposed expenditure not less than thirty calendar days in advance to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate.”
 
-Subsec. (c). Pub. L. 104–333, §814(b)(2)(B), designated existing provisions as par. (1) and added par. (2).
+Subsec. (c). Pub. L. 104–333, §814(b)(2)(B), as amended by Pub. L. 106–176, §129, designated existing provisions as par. (1) and added par. (2).
 
 Pub. L. 104–333, §814(b)(1), (2)(A), substituted “Committee on Resources” for “Committee on Natural Resources” and struck out “: <i>Provided, however</i>, That such authority shall apply only to those boundaries established subsequent to January 1, 1965” before “; and (ii)”.
 
@@ -96,5 +102,5 @@ For effective date of amendment by Pub. L. 90–401, see section 1(d) of Pub. L.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 110c, 160k, 410r–6, 410nn, 410<i>oo</i>–1, 410qq–1, 410rr–1, 429b, 460<i>l</i>–10a, 460<i>l</i>–17, 460p–2, 460v–7, 460ii–4, 460vv–18, 460aaa–1, 460hhh–5, 460iii–4, 541e, 543a, 544g, 698n of this title.
+This section is referred to in sections 110c, 160k, 410r–6, 410nn, 410<i>oo</i>–1, 410qq–1, 410rr–1, 410hhh–6, 423<i>l</i>–3, 429b, 460<i>l</i>–10a, 460<i>l</i>–17, 460p–2, 460v–7, 460ii–4, 460vv–18, 460aaa–1, 460hhh–5, 460iii–4, 541e, 543a, 544g, 546a, 698n, 698v–2 of this title.
 

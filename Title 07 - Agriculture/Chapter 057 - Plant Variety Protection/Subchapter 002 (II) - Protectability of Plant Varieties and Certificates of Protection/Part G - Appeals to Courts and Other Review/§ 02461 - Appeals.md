@@ -18,10 +18,6 @@ Amendment by Pub. L. 103–349 effective 180 days after Oct. 6, 1994, see sectio
 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
 
-#### Federal Rules of Appellate Procedure
-
-Review and enforcement of orders of administrative agencies, boards, commissions, and officers, see rule 15 et seq., Title 28, Appendix, Judiciary and Judicial Procedure.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 2404, 2568 of this title; title 28 section 1295.

@@ -28,13 +28,13 @@ Section 238(b) of Pub. L. 96–561 provided that the amendment made by that sect
 
 Section 14(b) of Pub. L. 95–541 provided that the amendment made by section 14(a) of Pub. L. 95–541, amending this section, was to take effect Jan. 1, 1978, prior to the general amendment by Pub. L. 104–227, title I, §107, Oct. 2, 1996, 110 Stat. 3042.
 
+#### Short Title of 2000 Amendment
+
+Pub. L. 106–450, title I, §101, Nov. 7, 2000, 114 Stat. 1941, provided that: “This title \[amending section 1977 of this title\] may be cited as the ‘Fishermen's Protective Act Amendments of 2000’.”
+
 #### Short Title
 
 Pub. L. 90–482, §4, Aug. 12, 1968, 82 Stat. 730, provided that: “The Act of August 27, 1954 (68 Stat. 883; 22 U.S.C. 1971–1976), as amended by this Act \[this chapter\], may be cited as the ‘Fishermen's Protective Act of 1967’.”
-
-#### Cross References
-
-Documentation of vessels, see section 12101 et seq. of Title 46, Shipping.
 
 #### Section Referred to in Other Sections
 

@@ -64,17 +64,19 @@ Major united states commercial bank.—The term “major United States commercia
 
 &emsp;(5)
 
-Major united states investment management firm.—The term “major United States investment management firm” means any broker, dealer, investment adviser, or provider of investment supervisory services (as defined in section 3 of the Securities Exchange Act of 1934 (15 U.S.C. 78c) or section 202 of the Investment Advisers Act of 1940 (15 U.S.C. 80b–2) <sup>1</sup> or a major United States commercial bank that—
+Major united states investment management firm.—The term “major United States investment management firm” means any broker, dealer, investment adviser, or provider of investment supervisory services (as defined in section 3 of the Securities Exchange Act of 1934 (15 U.S.C. 78c) or section 202 of the Investment Advisers Act of 1940 (15 U.S.C. 80b–2)) or a major United States commercial bank that—
 
 &emsp;&emsp;(A) is headquartered in the United States; and
 
 &emsp;&emsp;(B) holds for the account of others investment assets in a total amount considered by the Secretary of the Navy to qualify the firm as a major investment management firm.
 
-(Added Pub. L. 106–65, div. B, title XXVIII, §2871(b)(1), Oct. 5, 1999, 113 Stat. 873.)
+(Added Pub. L. 106–65, div. B, title XXVIII, §2871(b)(1), Oct. 5, 1999, 113 Stat. 873; amended Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(17)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–291.)
 
 #### Prior Provisions
 
 A prior section 6975, added Pub. L. 103–337, div. A, title V, §556(b)(1), Oct. 5, 1994, 108 Stat. 2774, related to position of athletic director of Naval Academy and to administration of nonappropriated fund account for athletics program of Naval Academy, prior to repeal by Pub. L. 104–106, div. A, title V, §533(b), Feb. 10, 1996, 110 Stat. 315; Pub. L. 105–85, div. A, title X, §1073(d)(1)(C), Nov. 18, 1997, 111 Stat. 1905, effective Oct. 5, 1994.
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by another closing parenthesis.</i>
+#### Amendments
+
+2000—Subsec. (e)(5). Pub. L. 106–398 inserted a closing parenthesis after “80b–2)” in introductory provisions.
 

@@ -56,7 +56,7 @@ Filing date.—The filing date of a provisional application shall be the date on
 
 &emsp;(5)
 
-Abandonment.—Notwithstanding the absence of a claim, upon timely request and as prescribed by the Director, a provisional application may be treated as an application filed under subsection (a). Subject to section 119(e)(3) of this title, if no such request is made, the provisional application shall be regarded as abandoned 12 months after the filing date of such application and shall not be subject to revival after such 12-month period.
+Abandonment.—Notwithstanding the absence of a claim, upon timely request and as prescribed by the Director, a provisional application may be treated as an application filed under subsection (a). Subject to section119(e)(3) of this title, if no such request is made, the provisional application shall be regarded as abandoned 12 months after the filing date of such application and shall not be subject to revival after such 12-month period.
 
 &emsp;(6)
 
@@ -109,12 +109,6 @@ Amendment by Pub. L. 97–247 effective six months after Aug. 27, 1982, see sect
 #### Emergency Relief From Postal Situation Affecting Patent, Trademark, and Other Federal Cases
 
 Pub. L. 92–34, June 30, 1971, 85 Stat. 87, provided that a patent or trademark application would be considered filed in the United States Patent Office on the date that it would have been received by the Patent Office except for the delay caused by emergency situation affecting postal service from Mar. 18, 1970 to Mar. 30, 1970, if a claim was made.
-
-#### Cross References
-
-Fees, see sections 41 and 42 of this title.
-
-Provisions of this chapter applicable to applications for reissue of patents, see section 251 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -20,7 +20,7 @@
 
 #### (3) “Government-guaranteed loans” defined
 
-&emsp;As used in this section and section 2020(b) of this title, the term “government-guaranteedloans” means loans or credits, or portions of loans or credits, that are guaranteed—
+&emsp;As used in this section and section 2020(b) of this title, the term “government-guaranteed loans” means loans or credits, or portions of loans or credits, that are guaranteed—
 
 &emsp;&emsp;(A) by the full faith and credit of the United States Government or any State government;
 
@@ -38,7 +38,7 @@ For purposes of this part, the term “secure base amount” means, with respect
 
 #### (d) Determination of principal outstanding
 
-For the purpose of subsections (a), (c), and (e) of this section, the principal outstanding on all loans made by an insured System bank shall be determined based on all loans made—
+For the purpose of subsections (a), (c), and (e) of this section, the principal outstanding on allloans made by an insured System bank shall be determined based on all loans made—
 
 &emsp;(1) by any production credit association, or any other association making direct loans under authority provided under section 2279b of this title, that is able to make such loans because such association is receiving, or has received, funds provided through the insured System bank;
 
@@ -134,7 +134,7 @@ For the purpose of subsections (a), (c), and (e) of this section, the principal 
 
 &emsp;&emsp;&emsp;(ii) interest earned on any amounts that would have been paid as described in clause (i) from the date on which the payments would have been paid as described in clause (i); and
 
-&emsp;&emsp;&emsp;(iii) the payment to be made in the initial year described in subparagraph (A),based on the amount in each Account after subtracting the amounts to be paid under clauses (i) and (ii).
+&emsp;&emsp;&emsp;(iii) the payment to be made in the initial year described in subparagraph (A), based on the amount in each Account after subtracting the amounts to be paid under clauses (i) and (ii).
 
 (Pub. L. 92–181, title V, §5.55, as added Pub. L. 100–233, title III, §302, Jan. 6, 1988, 101 Stat. 1612; amended Pub. L. 100–399, title III, §302(c)–(e), Aug. 17, 1988, 102 Stat. 994; Pub. L. 101–220, §6(a), Dec. 12, 1989, 103 Stat. 1879; Pub. L. 104–105, title II, §215(a)(1), (2)(A), (b), (c), Feb. 10, 1996, 110 Stat. 175, 176, 179.)
 
@@ -158,7 +158,7 @@ Subsec. (e). Pub. L. 104–105, §215(b), added subsec. (e).
 
 Subsec. (b). Pub. L. 101–220, §6(a)(2), inserted “, as determined under subsection (a) of this section,” after “calendar year”.
 
-Subsec. (c). Pub. L. 101–220, §6(a)(3), inserted “(adjusted downward to exclude an amount equal to the sum of (1) 90 percent of the guaranteed portions of principal outstanding on Federal Government-guaranteed loans in accrual status made by such banks and (2) 80 percent of the guaranteed portions of principal outstanding on State government-guaranteed loans in accrual status made by such banks, as determined by the Corporation)” after “such time”.
+Subsec. (c). Pub. L. 101–220, §6(a)(3), inserted “(adjusted downward to exclude an amount equal to the sum of (1) 90 percent of the guaranteed portions of principal outstanding on Federal Government-guaranteedloans in accrual status made by such banks and (2) 80 percent of the guaranteed portions of principal outstanding on State government-guaranteed loans in accrual status made by such banks, as determined by the Corporation)” after “such time”.
 
 Subsec. (d). Pub. L. 101–220, §6(a)(4), in introductory provisions, substituted “subsections (a) and (c) of this section” for “subsection (a) of this section” and struck out “intermediate term” after “outstanding on all”, inserted par. (1), and struck out former par. (1) which read as follows: “by the production credit associations in the district in which such bank is located;”.
 

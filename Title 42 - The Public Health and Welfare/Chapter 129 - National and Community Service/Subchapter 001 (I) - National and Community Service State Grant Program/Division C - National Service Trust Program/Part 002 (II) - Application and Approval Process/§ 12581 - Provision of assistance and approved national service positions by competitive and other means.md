@@ -68,7 +68,7 @@ From amounts appropriated for a fiscal year pursuant to the authorization of app
 
 #### (ii) Requirements
 
-&emsp;&emsp;&emsp;Funds made available through such a supplemental grant under clause (i) shall be made available for the same purposes, and subject to the same requirements, as funds made available through a grant made under paragraph (1) or (2).
+&emsp;&emsp;&emsp;Funds made available through such a supplemental grant under clause (i) shallbe made available for the same purposes, and subject to the same requirements, as funds made available through a grant made under paragraph (1) or (2).
 
 #### (C) Grants for outreach to individuals with a disability
 

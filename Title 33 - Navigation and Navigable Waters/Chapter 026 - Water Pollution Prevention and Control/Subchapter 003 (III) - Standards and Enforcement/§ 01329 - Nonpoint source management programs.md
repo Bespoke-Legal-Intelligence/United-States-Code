@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(C) describes the process, including intergovernmental coordination and public participation, for identifying best management practices and measures to control each category and subcategory of nonpoint sources and, where appropriate, particular nonpoint sources identified under subparagraph (B) and to reduce, to the maximum extent practicable, the level of pollution resulting from such category, subcategory, or source; and
 
-&emsp;&emsp;(D) identifies and describes State and local programs for controlling pollution added from nonpoint sources to, and improving the quality of, each such portion of the navigable waters, including but not limited to those programs which are receiving Federal assistance under subsections (h) and (i) of this section.
+&emsp;&emsp;(D) identifies and describes State and local programs for controlling pollution addedfrom nonpoint sources to, and improving the quality of, each such portion of the navigable waters, including but not limited to those programs which are receiving Federal assistance under subsections (h) and (i) of this section.
 
 #### (2) Information used in preparation
 
@@ -88,7 +88,7 @@ If a State fails to submit a management program under subsection (b) of this sec
 
 #### (f) Technical assistance for States
 
-Upon request of a State, the Administrator may provide technical assistance to such Statein developing a management program approved under subsection (b) of this section for those portions of the navigable waters requested by such State.
+Upon request of a State, the Administrator may provide technical assistance to such State in developing a management program approved under subsection (b) of this section for those portions of the navigable waters requested by such State.
 
 #### (g) Interstate management conference
 
@@ -132,7 +132,7 @@ Upon request of a State, the Administrator may provide technical assistance to s
 
 #### (6) Availability for obligation
 
-&emsp;The funds granted to each State pursuant to this subsection in a fiscal year shall remain available for obligation by such State for the fiscal year for which appropriated. The amount of any such funds not obligated by theend of such fiscal year shall be available to the Administrator for granting to other States under this subsection in the next fiscal year.
+&emsp;The funds granted to each State pursuant to this subsection in a fiscal year shall remain available for obligation by such State for the fiscal year for which appropriated. The amount of any such funds not obligated by the end of such fiscal year shall be available to the Administrator for granting to other States under this subsection in the next fiscal year.
 
 #### (7) Limitation on use of funds
 
@@ -198,7 +198,7 @@ The Colorado River Basin Salinity Control Act, referred to in subsec. (g)(1), is
 
 #### Amendments
 
-1998—Subsec. (i)(4). Pub. L. 105–362, §501(c)(1), struck out heading and text of par. (4). Text read as follows: “The Administrator shall include in each report transmitted under subsection (m) of this section a report on the activities and programs implemented under this subsection during the preceding fiscal year.”
+1998—Subsec. (i)(4). Pub. L. 105–362, §501(c)(1), struck out heading and text of par. (4). Text read as follows:“The Administrator shall include in each report transmitted under subsection (m) of this section a report on the activities and programs implemented under this subsection during the preceding fiscal year.”
 
 Subsecs. (m), (n). Pub. L. 105–362, §501(c)(2), (3), redesignated subsec. (n) as (m) and struck out heading and text of former subsec. (m) which related to reports of Administrator.
 

@@ -46,9 +46,3 @@ This subchapter, referred to in subsec. (b), was in the original “this title,�
 
 For short title of title IV of Pub. L. 94–385, which is classified principally to this subchapter, as the “Energy Conservation in Existing Buildings Act of 1976”, see section 401 of Pub. L. 94–385, set out as a note under section 6801 of this title.
 
-#### Cross References
-
-Energy conservation in Federal buildings, see section 8251 et seq. of this title.
-
-Residential energy conservation, see section 8211 et seq. of this title.
-

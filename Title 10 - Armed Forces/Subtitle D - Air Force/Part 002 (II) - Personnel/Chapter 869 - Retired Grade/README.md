@@ -23,10 +23,6 @@
 
 1980—Pub. L. 96–343, §13(b)(3), Sept. 8, 1980, 94 Stat. 1131, substituted “positions” for “positions: regular commissioned officers” in item 8962.
 
-#### Cross References
-
-Retired grade, general military law provisions, see section 1371 et seq. of this title.
-
 
 ---
 

@@ -8,9 +8,3 @@ Any order of the Secretary under this chapter other than an order for the paymen
 
 Section was formerly classified to section 560 of this title.
 
-#### Cross References
-
-Delegation of regulatory functions of Secretary of Agriculture, see section 450c of this title.
-
-Review of orders by courts of appeals, see section 2341 et seq. of Title 28, Judiciary and Judicial Procedure.
-

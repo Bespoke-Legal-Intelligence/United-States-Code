@@ -24,9 +24,11 @@
 
 &emsp;&emsp;(ii) not void under section 506(d) of this title; or
 
-&emsp;&emsp;(B) a tax lien, notice of which is properly filed; or
+&emsp;&emsp;(B) a tax lien, notice of which is properly filed;
 
-&emsp;(3) a debt of a kind specified in section 523(a)(4) or 523(a)(6) of this title owed by an institution-affiliated party of an insured depository institution to a Federal depository institutions regulatory agency acting in its capacity as conservator, receiver, or liquidating agent for such institution.
+&emsp;(3) a debt of a kind specified in section 523(a)(4) or 523(a)(6) of this title owed by an institution-affiliated party of an insured depository institution to a Federal depository institutions regulatory agency acting in its capacity as conservator, receiver, or liquidating agent for such institution; or
+
+&emsp;(4) a debt in connection with fraud in the obtaining or providing of any scholarship, grant, loan, tuition, discount, award, or other financial assistance for purposes of financing an education at an institution of higher education (as that term is defined in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001)).
 
 (d) The following property may be exempted under subsection (b)(1) of this section:
 
@@ -34,7 +36,7 @@
 
 &emsp;(2) The debtor's interest, not to exceed $2,400 in value, in one motor vehicle.
 
-&emsp;(3) The debtor's interest, not to exceed $400 in value in any particular item or $8,000 in aggregate value, in household furnishings, household goods, wearing apparel, appliances, books, animals, crops, or musical instruments,that are held primarily for the personal, family, or household use of the debtor or a dependent of the debtor.
+&emsp;(3) The debtor's interest, not to exceed $400 in value in any particular item or $8,000 in aggregate value, in household furnishings, household goods, wearing apparel, appliances, books, animals, crops, or musical instruments, that are held primarily for the personal, family, or household use of the debtor or a dependent of the debtor.
 
 &emsp;(4) The debtor's aggregate interest, not to exceed $1,000 in value, in jewelry held primarily for the personal, family, or household use of the debtor or a dependent of the debtor.
 
@@ -152,7 +154,7 @@
 
 (m) Subject to the limitation in subsection (b), this section shall apply separately with respect to each debtor in a joint case.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2586; Pub. L. 98–353, title III, §§306, 453, July 10, 1984, 98 Stat. 353, 375; Pub. L. 99–554, title II, §283(i), Oct. 27, 1986, 100 Stat. 3117; Pub. L. 101–647, title XXV, §2522(b), Nov. 29, 1990, 104 Stat. 4866; Pub. L. 103–394, title I, §108(d), title III, §§303, 304(d), 310, title V, §501(d)(12), Oct. 22, 1994, 108 Stat. 4112, 4132, 4133, 4137, 4145.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2586; Pub. L. 98–353, title III, §§306, 453, July 10, 1984, 98 Stat. 353, 375; Pub. L. 99–554, title II, §283(i), Oct. 27, 1986, 100 Stat. 3117; Pub. L. 101–647, title XXV, §2522(b), Nov. 29, 1990, 104 Stat. 4866; Pub. L. 103–394, title I, §108(d), title III, §§303, 304(d), 310, title V, §501(d)(12), Oct. 22, 1994, 108 Stat. 4112, 4132, 4133, 4137, 4145; Pub. L. 106–420, §4, Nov. 1, 2000, 114 Stat. 1868.)
 
 #### Historical and Revision Notes
 
@@ -164,7 +166,7 @@ Section 522(c)(1) tracks the House bill and provides that dischargeable tax clai
 
 Section 522(f)(2) is derived from the Senate amendment restricting the debtor to avoidance of nonpossessory, nonpurchase money security interests.
 
-Exemptions: Section 522(c)(1) of the House amendment adopts a provision contained in the House bill that dischargeable taxes cannot be collected from exempt assets. This changes present law, which allows collection of dischargeable taxes from exempt property, a rule followed in the Senate amendment. Nondischargeable taxes, however, will continue to the \[be\] collectable out of exempt property. It is anticipated that in the next session Congress will review the exemptions from levy currently contained in the Internal Revenue Code \[title 26\] with a view to increasing the exemptions to more realistic levels.
+Exemptions: Section 522(c)(1) of the House amendment adopts a provision contained in the House bill that dischargeable taxes cannot be collected from exempt assets. This changes present law, which allows collection of dischargeable taxes from exempt property,a rule followed in the Senate amendment. Nondischargeable taxes, however, will continue to the \[be\] collectable out of exempt property. It is anticipated that in the next session Congress will review the exemptions from levy currently contained in the Internal Revenue Code \[title 26\] with a view to increasing the exemptions to more realistic levels.
 
 #### senate report no. 95–989
 
@@ -218,7 +220,7 @@ Subsection (i) makes clear that the debtor may exempt property under the avoidin
 
 Subsection (j) makes clear that the liability of the debtor's exempt property is limited to the debtor's aliquot share of the costs and expenses recovery of property that the trustee recovers and the debtor later exempts, and any costs and expenses of avoiding a transfer by the debtor that the debtor has not already paid.
 
-Subsection (k) requires the debtor to file a list of property that he claims as exempt from property of the estate. Absent an objection to the list, the property isexempted. A dependent of the debtor may file it and thus be protected if the debtor fails to file the list.
+Subsection (k) requires the debtor to file a list of property that he claims as exempt from property of the estate. Absent an objection to the list, the property is exempted. A dependent of the debtor may file it and thus be protected if the debtor fails to file the list.
 
 Subsection (<i>l</i>) provides the rule for a joint case.
 
@@ -262,9 +264,9 @@ Paragraph (5) permits the exemption of $500, plus any unused amount of the homes
 
 Paragraph (10) exempts certain benefits that are akin to future earnings of the debtor. These include social security, unemployment compensation, or public assistance benefits, veteran's benefits, disability, illness, or unemployment benefits, alimony, support, or separate maintenance (but only to the extent reasonably necessary for the support of the debtor and any dependents of the debtor), and benefits under a certain stock bonus, pension, profitsharing, annuity or similar plan based on illness, disability, death, age or length of service. Paragraph (11) allows the debtor to exempt certain compensation for losses. These include crime victim's reparation benefits, wrongful death benefits (with a reasonably necessary for support limitation), life insurance proceeds (same limitation), compensation for bodily injury, not including pain and suffering ($10,000 limitation), and loss of future earnings payments (support limitation). This provision in subparagraph (D)(11) is designed to cover payments in compensation of actual bodily injury, such as the loss of a limb, and is not intended to include the attendant costs that accompany such a loss, such as medical payments, pain and suffering, or loss of earnings. Those items are handled separately by the bill.
 
-Subsection (e) protects the debtor's exemptions, either Federal or State, by making unenforceable in a bankruptcy case a waiver of exemptions or a waiver ofthe debtor's avoiding powers under the following subsections.
+Subsection (e) protects the debtor's exemptions, either Federal or State, by making unenforceable in a bankruptcy case a waiver of exemptions or a waiver of the debtor's avoiding powers under the following subsections.
 
-Subsection (f) protects the debtor's exemptions, his discharge, and thus his fresh start by permitting him to avoid certain liens on exempt property. The debtor may avoid a judicial lien on any property to the extent that the property could have been exempted in the absence of the lien, and may similarly avoid a nonpurchase-money security interest in certain household and personal goods. The avoiding power is independent of any waiver of exemptions.
+Subsection (f) protects the debtor's exemptions, his discharge, and thus his fresh start by permitting him to avoid certain liens on exempt property. The debtormay avoid a judicial lien on any property to the extent that the property could have been exempted in the absence of the lien, and may similarly avoid a nonpurchase-money security interest in certain household and personal goods. The avoiding power is independent of any waiver of exemptions.
 
 Subsection (g) gives the debtor the ability to exempt property that the trustee recovers under one of the trustee's avoiding powers if the property was involuntarily transferred away from the debtor (such as by the fixing of a judicial lien) and if the debtor did not conceal the property. The debtor is also permitted to exempt property that the trustee recovers as the result of the avoiding of the fixing of certain security interests to the extent that the debtor could otherwise have exempted the property.
 
@@ -289,6 +291,8 @@ The Federal Rules of Bankruptcy Procedure, referred to in subsec. (b), are set o
 The Internal Revenue Code of 1986, referred to in subsec. (d)(10)(E)(iii), is classified to Title 26, Internal Revenue Code.
 
 #### Amendments
+
+2000—Subsec. (c)(4). Pub. L. 106–420 added par. (4).
 
 1994—Subsec. (b). Pub. L. 103–394, §501(d)(12)(A), substituted “Federal Rules of Bankruptcy Procedure” for “Bankruptcy Rules”.
 

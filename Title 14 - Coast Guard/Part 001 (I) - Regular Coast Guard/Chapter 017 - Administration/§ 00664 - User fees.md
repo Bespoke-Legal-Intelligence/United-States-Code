@@ -24,6 +24,10 @@
 
 Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. For treatment of references to Committee on Merchant Marine and Fisheries, see section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of reporting provisions in subsec. (c) of this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 136 of House Document No. 103–7.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 651 of this title.

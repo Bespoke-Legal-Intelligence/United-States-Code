@@ -2,7 +2,3 @@
 
 Section, Pub. L. 93–203, title II, §221, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 1956, related to occupational upgrading and retraining programs.
 
-#### Effective Date of Repeal
-
-Section 184(a) of Pub. L. 97–300 provided that the repeal of this section is effective Oct. 13, 1982.
-

@@ -4,10 +4,6 @@
 
 Sections provided for the National Training School for Girls. Act Aug. 3, 1951, ch. 291, §1, 65 Stat. 154, provided that no new commitments to the National Training School for Girls should be made after Aug. 3, 1951. Act July 31, 1953, ch. 299, §1, 67 Stat. 286, redesignated the National Training School for Girls as the Industrial Home School for Colored Girls and authorized construction of a new Industrial Home School for Colored Children near Laurel, Maryland. Act July 1, 1954, ch. 449, §1, 68 Stat. 385, provided that the Industrial Home School for Colored Girls shall be combined with and become a part of the Industrial Home School for Colored Children. Act Sept. 4, 1957, Pub. L. 85–285, §1, 71 Stat. 610, provided in part for the disposition of the land of the United States reserved for a site for the National Training School for Girls by the Act of July 14, 1892 (27 Stat. 165), as amended.
 
-For provisions relating to proceedings regarding delinquency, neglect, or need of supervision of children in District of Columbia, see section 16–2301 et seq. of the District of Columbia Code.
-
-Also, see section 5025 of Title 18, Crimes and Criminal Procedure, authorizing District of Columbia to provide facilities and personnel for treatment and rehabilitation of youth offenders or to contract with Bureau of Prisons for their treatment and rehabilitation.
-
 Section 161, act June 26, 1912, ch. 182, §1, 37 Stat. 171, provided that District reform school for girls should be known as National Training School for Girls.
 
 Section 162, acts July 9, 1888, §§1, 7, 25 Stat. 245, 246; June 26, 1912, ch. 182, §1, 37 Stat. 171; Mar. 16, 1926, ch. 58, §1, 44 Stat. 208, dealt with incorporation.

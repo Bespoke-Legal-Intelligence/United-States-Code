@@ -40,7 +40,7 @@ The permit application shall be submitted in a manner satisfactory to the regula
 
 &emsp;(16) for those lands in the permit application which a reconnaissance inspection suggests may be prime farm lands, a soil survey shall be made or obtained according to standards established by the Secretary of Agriculture in order to confirm the exact location of such prime farm lands, if any; and
 
-&emsp;(17) information pertaining to coal seams, test borings, core samplings, or soil samples as required by this section shall be made available to any person with an interest which is or may be adversely affected: <i>Provided</i>, That information which pertains only to the analysis of the chemical and physical properties of the coal (excepting information regarding such mineral or elemental content which is potentially toxic in the environment) shall be kept confidential and not made a matter of public record.
+&emsp;(17) information pertaining to coal seams, test borings, core samplings, or soil samples asrequired by this section shall be made available to any person with an interest which is or may be adversely affected: <i>Provided</i>, That information which pertains only to the analysis of the chemical and physical properties of the coal (excepting information regarding such mineral or elemental content which is potentially toxic in the environment) shall be kept confidential and not made a matter of public record.
 
 #### (c) Assistance to small coal operators
 

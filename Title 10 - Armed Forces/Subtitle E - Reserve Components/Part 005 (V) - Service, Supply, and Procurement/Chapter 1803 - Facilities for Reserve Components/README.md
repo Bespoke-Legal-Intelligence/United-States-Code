@@ -25,10 +25,6 @@
 
 Pub. L. 85–685, title VI, §601(4), Aug. 20, 1958, 72 Stat. 665, added item 2233a.
 
-#### Cross References
-
-Property records, basis and reports, see section 2721 of this title.
-
 #### Chapter Referred to in Other Sections
 
 This chapter is referred to in sections 114, 2231 of this title.

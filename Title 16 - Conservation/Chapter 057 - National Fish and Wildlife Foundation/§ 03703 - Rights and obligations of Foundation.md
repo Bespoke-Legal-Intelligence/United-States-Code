@@ -8,7 +8,7 @@ The Foundation—
 
 &emsp;(2) may conduct business throughout the several States, territories, and possessions of the United States and abroad;
 
-&emsp;(3) shall have its principal offices in the District of Columbia; and
+&emsp;(3) shall have its principal offices in the District of Columbia or in a county in the State of Maryland or Virginia that borders on the District of Columbia; and
 
 &emsp;(4) shall at all times maintain a designated agent authorized to accept service of process for the Foundation.
 
@@ -26,15 +26,23 @@ To carry out its purposes under section 3701 of this title, the Foundation shall
 
 &emsp;(2) to acquire by purchase or exchange any real or personal property or interest therein, subject to subsection (e) of this section;
 
-&emsp;(3) unless otherwise required by the instrument of transfer, to sell, donate, lease, invest, reinvest, retain or otherwise dispose of any property or income therefrom;
+&emsp;(3) to invest any funds provided to the Foundation by the Federal Government in obligations of the United States or in obligations or securities that are guaranteed or insured by the United States;
 
-&emsp;(4) to borrow money and issue bonds, debentures, or other debt instruments;
+&emsp;(4) to deposit any funds provided to the Foundation by the Federal Government into accounts that are insured by an agency or instrumentality of the United States;
 
-&emsp;(5) to sue and be sued, and complain and defend itself in any court of competent jurisdiction, except that the Directors of the Board shall not be personally liable, except for gross negligence;
+&emsp;(5) to make use of any interest or investment income that accrues as a consequence of actions taken under paragraph (3) or (4) to carry out the purposes of the Foundation;
 
-&emsp;(6) to enter into contracts or other arrangements with public agencies and private organizations and persons and to make such payments as may be necessary to carry out its function; and
+&emsp;(6) to use Federal funds to make payments under cooperative agreements entered into with willing private landowners to provide substantial long-term benefits for the restoration or enhancement of fish, wildlife, plants, and other natural resources on private land;
 
-&emsp;(7) to do any and all acts necessary and proper to carry out the purposes of the Foundation.
+&emsp;(7) unless otherwise required by the instrument of transfer, to sell, donate, lease, invest, reinvest, retain or otherwise dispose of any property or income therefrom;
+
+&emsp;(8) to borrow money and issue bonds, debentures, or other debt instruments;
+
+&emsp;(9) to sue and be sued, and complain and defend itself in any court of competent jurisdiction, except that the Directors of the Foundation shall not be personally liable, except for gross negligence;
+
+&emsp;(10) to enter into contracts or other arrangements with public agencies and private organizations and persons and to make such payments as may be necessary to carry out its function; and
+
+&emsp;(11) to do any and all acts necessary and proper to carry out the purposes of the Foundation.
 
 > For purposes of this chapter, an interest in real property shall be treated as including, among other things, easements or other rights for preservation, conservation, protection, or enhancement by and for the public of natural, scenic, historic, scientific, educational, inspirational, or recreational resources. A gift, devise, or bequest may be accepted by the Foundation even though it is encumbered, restricted, or subject to beneficial interests of private persons if any current or future interest therein is for the benefit of the Foundation.
 
@@ -48,7 +56,7 @@ No lands or waters, or interests therein, that are owned by the Foundation and a
 
 &emsp;(A) the interest is a long-term property interest, and
 
-&emsp;(B) the Director of the United States Fish and Wildlife Service (hereafter in this subsection referred to as the “Director”) consents to the acquisition in writing.
+&emsp;(B) the Foundation notifies the Federal agency that administers the program under which the funds were provided of the proposed acquisition, and the agency does not object in writing to the proposed acquisition within 60 calendar days after the date of the notification.
 
 (2) The Foundation shall convey to the United States Fish and Wildlife Service for inclusion within the National Wildlife Refuge System any real property acquired by the Foundation in whole or in part with Federal funds if the Director, within one year after the date on which the property was acquired by the Foundation, requests the conveyance in writing.
 
@@ -62,15 +70,17 @@ No lands or waters, or interests therein, that are owned by the Foundation and a
 
 &emsp;(i) the conveyance or provision is subject to terms and conditions that will ensure that the real property will be administered for the long-term conservation and management of fish and wildlife and in a manner that will provide for appropriate public access and use; and
 
-&emsp;(ii) the Director finds that conveyance or provision of Federal funds meets the requirements of clause (i) and consents to it in writing.
+&emsp;(ii) the Foundation notifies the Federal agency that administers the Federal program under which the funds were provided of the proposed conveyance or provision of Federal funds, and the agency does not object in writing to the proposed conveyance or provision of Federal funds within 60 calendar days after the date of the notification.
 
 (4) All real property acquired by the Foundation in whole or in part with Federal funds and held by it shall be administered for the conservation and management of fish and wildlife and in a manner that will provide for appropriate public access and use.
 
-(5) The Foundation shall convey at not less than fair-market value any real property acquired by it in whole or in part with Federal funds if the Foundation and the Director determine, in writing, that—
+(5)
 
-&emsp;(A) the land is no longer valuable for the purposes of fish and wildlife conservation or management, and
+Reconveyance of real property.—The Foundation shall convey at not less than fair market value any real property acquired by theFoundation in whole or in part with Federal funds if the Foundation notifies the Federal agency that administers the Federal program under which the funds were provided, and the agency does not disagree within 60 calendar days after the date of the notification, that—
 
-&emsp;(B) the purposes of the Foundation would be better served by the use of the Federal funds for other authorized activities of the Foundation.
+&emsp;(A) the property is no longer valuable for the purpose of conservation or management of fish, wildlife, plants, and other natural resources; and
+
+&emsp;(B) the purposes of the Foundation would be better served by use of the proceeds of the conveyance for other authorized activities of the Foundation.
 
 #### (f) Establishment of national whale conservation endowment fund
 
@@ -98,9 +108,41 @@ No lands or waters, or interests therein, that are owned by the Foundation and a
 
 In carrying out any action on the part of the Foundation under subsection (f) of this section, the Directors of the Board shall consult with the Administrator of the National Oceanic and Atmospheric Administration and the Marine Mammal Commission.
 
-(Pub. L. 98–244, §4, Mar. 26, 1984, 98 Stat. 108; Pub. L. 100–240, §§1(b), 2(a), (b)(1), Jan. 11, 1988, 101 Stat. 1785, 1786; Pub. L. 105–277, div. A, §101(b) \[title IX, §903\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–120.)
+#### (h) Expenditures for printing services or capital equipment
+
+The Foundation shall not make any expenditure of Federal funds in connection with any one transaction for printing services or capital equipment that is greater than $10,000 unless the expenditure is approved by the Federal agency that administers the Federal program under which the funds were provided.
+
+#### (i) Notice to Members of Congress
+
+The Foundation shall not make a grant of funds unless, by not later than 30 days before the grant is made, the Foundation provides notice of the grant to the Member of Congress for the congressional district in which the project to be funded with the grant will be carried out.
+
+(Pub. L. 98–244, §4, Mar. 26, 1984, 98 Stat. 108; Pub. L. 100–240, §§1(b), 2(a), (b)(1), Jan. 11, 1988, 101 Stat. 1785, 1786; Pub. L. 105–277, div. A, §101(b) \[title IX, §903\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–120; Pub. L. 106–408, title II, §§203(c)(1), 204(a)–(c), (e)–(g), 206, Nov. 1, 2000, 114 Stat. 1779, 1780.)
 
 #### Amendments
+
+2000—Subsec. (a)(3). Pub. L. 106–408, §204(a), inserted “or in a county in the State of Maryland or Virginia that borders on the District of Columbia” after “the District of Columbia”.
+
+Subsec. (c)(3), (4). Pub. L. 106–408, §204(b)(2), added pars. (3) and (4). Former pars. (3) and (4) redesignated (7) and (8), respectively.
+
+Subsec. (c)(5). Pub. L. 106–408, §204(b)(2), added par. (5). Former par. (5) redesignated (9).
+
+Pub. L. 106–408, §203(c)(1), substituted “Directors of the Foundation” for “Directors of the Board”.
+
+Subsec. (c)(6) to (11). Pub. L. 106–408, §204(b), added par. (6) and redesignated former pars. (3) to (7) as (7) to (11), respectively.
+
+Subsec. (e)(1)(B). Pub. L. 106–408, §204(c), added subpar. (B) and struck out former subpar. (B) which read as follows: “the Director of the United States Fish and Wildlife Service (hereafter in this subsection referred to as the ‘Director’) consents to the acquisition in writing.”
+
+Subsec. (e)(3)(B)(ii). Pub. L. 106–408, §204(e), added cl. (ii) and struck out former cl. (ii) which read as follows: “the Director finds that conveyance or provision of Federal funds meets the requirements of clause (i) and consents to it in writing.”
+
+Subsec. (e)(5). Pub. L. 106–408, §204(f), added par. (5) and struck out former par. (5) which read as follows: “The Foundation shall convey at not less than fair-market value any real property acquired by it in whole or in part with Federal funds if the Foundation and the Director determine, in writing, that—
+
+&emsp;“(A) the land is no longer valuable for the purposes of fish and wildlife conservation or management, and
+
+&emsp;“(B) the purposes of the Foundation would be better served by the use of the Federal funds for other authorized activities of the Foundation.”
+
+Subsec. (h). Pub. L. 106–408, §204(g), added subsec. (h).
+
+Subsec. (i). Pub. L. 106–408, §206, added subsec. (i).
 
 1998—Subsecs. (f), (g). Pub. L. 105–277 added subsecs. (f) and (g).
 
@@ -142,7 +184,7 @@ Pub. L. 105–277, div. A, §101(b) \[title IX, §902\], Oct. 21, 1998, 112 Stat
 
 &emsp;&emsp;“(D) the occurrence of whale populations in offshore waters where undertaking research, monitoring, and conservation measures is difficult and costly;
 
-&emsp;“(7)(A) the Secretary of Commerce, through the Administrator of the National Oceanic and AtmosphericAdministration, has research and regulatory responsibility for the conservation of whales under the Marine Mammal Protection Act of 1972 (16 U.S.C. 1361 et seq.); and
+&emsp;“(7)(A) the Secretary of Commerce, through the Administrator of the National Oceanic and Atmospheric Administration, has research and regulatory responsibility for the conservation of whales under the Marine Mammal Protection Act of 1972 (16 U.S.C. 1361 et seq.); and
 
 &emsp;“(B) the heads of other Federal agencies and the Marine Mammal Commission established under section 201 of the Marine Mammal Protection Act of 1972 (16 U.S.C. 1401) have related research and management activities under the Marine Mammal Protection Act of 1972 or the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.);
 
@@ -152,7 +194,7 @@ Pub. L. 105–277, div. A, §101(b) \[title IX, §902\], Oct. 21, 1998, 112 Stat
 
 #### Draw Down of Federal Funds; Exemption From Audit Requirements
 
-Pub. L. 102–440, title III, §304, Oct. 23, 1992, 106 Stat. 2235, provided that: “Beginning in fiscal year 1993 and hereafter, the National Fish and Wildlife Foundation may continue to draw down Federal funds when matching requirements have been met: <i>Provided</i>, That interest earned by the Foundation and its subgrantees on funds drawn down to date, but not immediately disbursed, shall be used to fund all activities as approved by the Board of Directors: <i>Provided further</i>, That the Foundation's subgrantees shall be exempt from the audit reporting and compliance requirements of OMB Circular A–133, for all grants of $100,000 or less. The Foundation shall amend its grant contracts to ensure that its subgrantees are advised and certify that they will comply with all applicable Federal laws and regulations imposed on individuals or organizations receiving Federal funds.”
+Pub. L. 102–440, title III, §304, Oct. 23, 1992, 106 Stat. 2235, which provided that the National Fish and Wildlife Foundation could continue to draw down Federal funds when matching requirements had been met, that interest earned on funds already drawn down was to be used to fund all activities as approved by the Board of Directors, and that Foundation subgrantees would be exempt from the audit reporting and compliance requirements of OMB Circular A–133, for all grants of $100,000 or less, was repealed by Pub. L. 106–408, title II, §204(d), Nov. 1, 2000, 114 Stat. 1779.
 
 #### Section Referred to in Other Sections
 

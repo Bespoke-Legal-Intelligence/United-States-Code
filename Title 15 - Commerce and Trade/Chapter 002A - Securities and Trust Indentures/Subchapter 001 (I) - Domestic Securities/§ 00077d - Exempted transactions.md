@@ -30,7 +30,7 @@ The provisions of section 77e of this title shall not apply to—
 
 &emsp;&emsp;(ii) where such securities are originated by a mortgagee approved by the Secretary of Housing and Urban Development pursuant to sections 1709 and 1715b of title 12 and are offered or sold subject to the three conditions specified in subparagraph (A)(i) to any institution described in such subparagraph or to any insurance company subject to the supervision of the insurance commissioner, or any agency or officer performing like function, of any State or territory of the United States or the District of Columbia, or the Federal Home Loan Mortgage Corporation, the Federal National Mortgage Association, or the Government National Mortgage Association.
 
-&emsp;(B) Transactions <sup>1</sup> between any of the entities described in subparagraph (A)(i) or (A)(ii) involving non-assignable contracts to buy or sell the foregoing securities which are to be completed within two years, where the seller of the foregoing securities pursuant to any such contract is one of the parties described in subparagraph (A)(i) or (A)(ii) who may originate such securities and the purchaser of such securities pursuant to any such contract is any institution described in subparagraph (A)(i) or any insurance company described insubparagraph (A)(ii), the Federal Home Loan Mortgage Corporation, Federal National Mortgage Association, or the Government National Mortgage Association and where the foregoing securities are subject to the three conditions for sale set forth in subparagraphs (A)(i)(a) through (c).
+&emsp;(B) Transactions <sup>1</sup> between any of the entities described in subparagraph (A)(i) or (A)(ii) involving non-assignable contracts to buy or sell the foregoing securities which are to be completed within two years, where the seller of the foregoing securities pursuant to any such contract is one of the parties described in subparagraph (A)(i) or (A)(ii) who may originate such securities and the purchaser of such securities pursuant to any such contract is any institution described in subparagraph (A)(i) or any insurance company described in subparagraph (A)(ii), the Federal Home Loan Mortgage Corporation, Federal National Mortgage Association, or the Government National Mortgage Association and where the foregoing securities are subject to the three conditions for sale set forth in subparagraphs (A)(i)(a) through (c).
 
 &emsp;(C) The <sup>1</sup> exemption provided by subparagraphs (A) and (B) shall not apply to resales of the securities acquired pursuant thereto, unless each of the conditions for sale contained in subparagraphs (A)(i)(a) through (c) are satisfied.
 
@@ -73,10 +73,6 @@ Amendment by act Aug. 10, 1954, effective 60 days after Aug. 10, 1954, see note 
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
-#### Cross References
-
-Trust Indenture Act of 1939, application to transactions exempted by this section, see section 77ddd of this title.
 
 #### Section Referred to in Other Sections
 

@@ -12,7 +12,7 @@ Any fishery management plan prepared, and any regulation promulgated to implemen
 
 &emsp;(4) Conservation and management measures shall not discriminate between residents of different States. If it becomes necessary to allocate or assign fishing privileges among various United States fishermen, such allocation shall be (A) fair and equitable to all such fishermen; (B) reasonably calculated to promote conservation; and (C) carried out in such manner that no particular individual, corporation, or other entity acquires an excessive share of such privileges.
 
-&emsp;(5) Conservation and management measures shall, where practicable, consider efficiency in the utilization of fishery resources; except that no such measure shall have economic allocation as its sole purpose.
+&emsp;(5) Conservation and management measures shall, where practicable, consider efficiency inthe utilization of fishery resources; except that no such measure shall have economic allocation as its sole purpose.
 
 &emsp;(6) Conservation and management measures shall take into account and allow for variations among, and contingencies in, fisheries, fishery resources, and catches.
 
@@ -47,6 +47,94 @@ Subsec. (a)(8) to (10). Pub. L. 104–297, §106(b), added pars. (8) to (10).
 #### Short Title of 1997 Amendment
 
 Pub. L. 105–146, §1, Dec. 16, 1997, 111 Stat. 2672, provided that: “This Act \[repealing section 757g of this title, amending provisions set out as notes under this section and listed in a table of National Wildlife Conservation Areas set out under section 668dd of this title, and repealing provisions set out as notes under this section\] may be cited as the ‘Atlantic Striped Bass Conservation Act Amendments of 1997’.”
+
+#### Implementation of Steller Sea Lion Protective Measures
+
+Pub. L. 106–554, §1(a)(4) \[div. A, §209\], Dec. 21, 2000, 114 Stat. 2763, 2763A–176, provided that:
+
+“(a)
+
+Findings.—The Congress finds that—
+
+&emsp;“(1) the western population of Steller sea lions has substantially declined over the last 25 years.
+
+&emsp;“(2) scientists should closely research and analyze all possible factors relating to such decline, including the possible interactions between commercial fishing and Steller sea lions and the localized depletion hypothesis;
+
+&emsp;“(3) the authority to manage commercial fisheries in Federal waters lies with the regional councils and the Secretary of Commerce (hereafter in this section ‘Secretary’) pursuant to the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1801 et seq.\] (hereafter in this section ‘Magnuson-Stevens Act’); and
+
+&emsp;“(4) the Secretary of Commerce shall comply with the Magnuson-Stevens Act when using fishery management plans and regulations to implement the decisions made pursuant to findings under the Endangered Species Act \[of 1973, 16 U.S.C. 1531 et seq.\], and shall utilize the processes and procedures of the regional fishery management councils as required by the Magnuson-Stevens Act.
+
+“(b)
+
+Independent Scientific Review.—The North Pacific Fishery Management Council (hereafter in this section ‘North Pacific Council\[’\]) shall utilize the expertise of the National Academy of Sciences to conduct an independent scientific review of the November 30, 2000 Biological Opinion for the Bering Sea/Aleutian Islands and Gulf of Alaska groundfish fisheries (hereafter in this section ‘Biological Opinion’), its underlying hypothesis, and the Reasonable and Prudent Alternatives (hereafter in this section ‘Alternatives’) contained therein. The Secretary shall cooperate with the independent scientific review, and the National Academy of Sciences is requested to give its highest priority to this review.
+
+“(c)
+
+Preparation of Fishery Management Plans and Regulations To Implement Protective Measures in the November 30, 2000 Biological Opinion.—
+
+&emsp;“(1) The Secretary of Commerce shall submit to the North Pacific Council proposed conservation and management measures to implement the Alternatives contained in the November 30, 2000 Biological Opinion for the Bering Sea/Aleutian Islands and Gulf of Alaska groundfish fisheries. The North Pacific Council shall prepare and transmit to the Secretary a fishery management plan amendment or amendments to implement such Alternatives that are consistent with the Magnuson-Stevens Act (including requirements in such Act relating to best available science, bycatch reduction, impacting on fishing communities, the safety of life at sea, and public comment and hearings.)
+
+&emsp;“(2) The Bering Sea/Aleutian Islands and Gulf of Alaska groundfish fisheries shall be managed in a manner consistent with the Alternatives contained in the Biological Opinion, except as otherwise provided in this section. The Alternatives shall become fully effective no later than January 1, 2002, as revised if necessary and appropriate based on the independent scientific review referred to in subsection (b) and other new information, and shall be phased in in 2001 as described in paragraph (3).
+
+&emsp;“(3) The 2001 Bering Sea/Aleutian Islands and Gulf of Alaska groundfish fisheries shall be managed in accordance with the fishery management plan and Federal regulations in effect for such fisheries prior to July 15, 2000, including—
+
+&emsp;&emsp;“(A) conservative total allowable catch levels;
+
+&emsp;&emsp;“(B) no entry zones within three miles of rookeries;
+
+&emsp;&emsp;“(C) restricted harvest levels near rookeries and haul-outs;
+
+&emsp;&emsp;“(D) federally-trained observers;
+
+&emsp;&emsp;“(E) spatial and temporal harvest restrictions;
+
+&emsp;&emsp;“(F) federally-mandated bycatch reduction programs; and
+
+&emsp;&emsp;“(G) additional conservation benefits provided through cooperative fishing arrangements,
+
+> &emsp;and said regulations are hereby restored to full force and effect.
+
+&emsp;“(4) The Secretary shall amend these regulations by January 20, 2001, after consultation with the North Pacific Council and in a manner consistent with all law, including the Magnuson-Stevens Act, and consistent with the Alternatives to the maximum extent practicable, subject to the other provisions of this subsection.
+
+&emsp;“(5) The harvest reduction requirement (‘Global Control Rule’) shall take effect immediately in any 2001 groundfish fishery in which it applies, but shall not cause a reduction in the total allowable catch of any fishery of more than 10 percent.
+
+&emsp;“(6) In enforcing regulations for the 2001 fisheries, the Secretary, upon recommendation of the North Pacific Council, may open critical habitat where needed, adjust seasonal catch levels, and take other measures as needed to ensure that harvest levels are sufficient to provide income from these fisheries for small boats and Alaskan on-shore processors that is no less than in 1999.
+
+&emsp;“(7) The regulations that are promulgated pursuant to paragraph (4) shall not be modified in any way other than upon recommendation of the North Pacific Council, before March 15, 2001.
+
+“(d)
+
+Sea Lion Protection Measures.—$20,000,000 is hereby appropriated to the Secretary of Commerce to remain available until expended to develop and implement a coordinated, comprehensive research and recovery program for the Steller sea lion, which shall be designed to study—
+
+&emsp;“(1) available prey species;
+
+&emsp;“(2) predator/prey relationships;
+
+&emsp;“(3) predation by other marine mammals;
+
+&emsp;“(4) interactions between fisheries and Steller sea lions, including the localized depletion theory;
+
+&emsp;“(5) regime shift, climate change, and other impacts associated with changing environmental conditions in the North Pacific and Bering Sea;
+
+&emsp;“(6) disease;
+
+&emsp;“(7) juvenile and pup survival rates;
+
+&emsp;“(8) population counts;
+
+&emsp;“(9) nutritional stress;
+
+&emsp;“(10) foreign commercial harvest of sea lions outside the exclusive economic zone;
+
+&emsp;“(11) the residual impacts of former government-authorized Steller sea lion eradication bounty programs; and
+
+&emsp;“(12) the residual impacts of intentional lethal takes of Steller sea lions.
+
+> Within available funds the Secretary shall implement on a pilot basis innovative non-lethal measures to protect Steller sea lions from marine mammal predators including killer whales.
+
+“(e)
+
+Economic Disaster Relief.—$30,000,000 is hereby appropriated to the Secretary of Commerce to make available as a direct payment to the Southwest Alaska Municipal Conference to distribute to fishing communities, businesses, community development quota groups, individuals, and other entities to mitigate the economic losses caused by Steller sea lion protection measures heretofore incurred; provided that the President of such organization shall provide a written report to the Secretary and the House and Senate Appropriations Committee within 6 months of receipt of these funds.”
 
 #### Limitation on Fishing Permits
 
@@ -316,7 +404,7 @@ Shoreside Processors.—(1) Effective January 1, 2000 and except as provided in 
 
 &emsp;“(B) shoreside processors determined by the Secretary to have processed pollock in the inshore component of the directed pollock fishery in 1996 or 1997, but to have processed less than 2,000 metric tons round-weight of such pollock in each year, except that effective January 1, 2000, each such shoreside processor may not process more than 2,000 metric tons round-weight from such directed fishing allowance in any year.
 
-“(2) Upon recommendation by the North Pacific Council, the Secretary may approve measures to allow catcher vessels eligible under subsection (a) to deliver pollock harvested from the directed fishing allowanceunder section 206(b)(1) to shoreside processors not eligible under paragraph (1) if the total allowable catch for pollock in the Bering Sea and Aleutian Islands Management Area increases by more than 10 percent above the total allowable catch in such fishery in 1997, or in the event of the actual total loss or constructive total loss of a shoreside processor eligible under paragraph (1)(A).
+“(2) Upon recommendation by the North Pacific Council, the Secretary may approve measures to allow catcher vessels eligible under subsection (a) to deliver pollock harvested from the directed fishing allowance under section 206(b)(1) to shoreside processors not eligible under paragraph (1) if the total allowable catch for pollock in the Bering Sea and Aleutian Islands Management Area increases by more than 10 percent above the total allowable catch in such fishery in 1997, or in the event of the actual total loss or constructive total loss of a shoreside processor eligible under paragraph (1)(A).
 
 “(g)
 
@@ -392,7 +480,7 @@ Catcher vessel cooperatives.—Effective January 1, 2000, upon the filing of a c
 
 &emsp;&emsp;“(B) specifies, except as provided in paragraph (6), that such catcher vessels will deliver pollock in the directed pollock fishery only to such shoreside processor during the year in which the fishery cooperative will be in effect and that such shoreside processor has agreed to process such pollock,
 
-> the Secretary shall allow only such catcher vessels (and catcher vessels whose owners voluntarily participate pursuant to paragraph (2)) to harvest the aggregate percentage of the directed fishing allowance under section 206(b)(1) in the year in which the fishery cooperative will be in effect that is equivalent to the aggregate total amount of pollock harvested by such catcher vessels (and by such catcher vessels whose owners voluntarily participate pursuant to paragraph (2)) in the directed pollock fishery for processing by the inshore component during 1995, 1996, and 1997 relative to the aggregate total amount of pollock harvested in the directed pollock fishery for processing by the inshore component during such years and shall prevent such catcher vessels (and catcher vessels whose owners voluntarily participate pursuant to paragraph (2)) fromharvesting in aggregate in excess of such percentage of such directed fishing allowance.
+> the Secretary shall allow only such catcher vessels (and catcher vessels whose owners voluntarily participate pursuant to paragraph (2)) to harvest the aggregate percentage of the directed fishing allowance under section 206(b)(1) in the year in which the fishery cooperative will be in effect that is equivalent to the aggregate total amount of pollock harvested by such catcher vessels (and by such catcher vessels whose owners voluntarily participate pursuant to paragraph (2)) in the directed pollock fishery for processing by the inshore component during 1995, 1996, and 1997 relative to the aggregate total amount of pollock harvested in the directed pollock fishery for processing by the inshore component during such years and shall prevent such catcher vessels (and catcher vessels whose owners voluntarily participate pursuant to paragraph (2)) from harvesting in aggregate in excess of such percentage of such directed fishing allowance.
 
 &emsp;“(2)
 
@@ -452,7 +540,7 @@ Landing Tax Jurisdiction.—Any contract filed under subsection (a) shall includ
 
 “(g)
 
-Penalties.—The violation of any of the requirements of this subtitle or any regulation or permit issued pursuant to this subtitle shall be considered the commission of an act prohibited by section 307 of the Magnuson-Stevens Act (16 U.S.C. 1857), and sections 308, 309, 310, and 311 of such Act (16 U.S.C. 1858, 1859, 1860, and 1861) shall apply to any such violation in the same manner as to the commission of an act prohibited by section 307 of such Act (16 U.S.C. 1857). In addition to the civil penalties and permit sanctions applicable to prohibited acts under section 308 of such Act (16 U.S.C. 1858), any person who is found by the Secretary, after notice and an opportunity for a hearing in accordance with section 554 of title 5, United States Code, to haveviolated a requirement of this section shall be subject to the forfeiture to the Secretary of Commerce of any fish harvested or processed during the commission of such act.
+Penalties.—The violation of any of the requirements of this subtitle or any regulation or permit issued pursuant to this subtitle shall be considered the commission of an act prohibited by section 307 of the Magnuson-Stevens Act (16 U.S.C. 1857), and sections 308, 309, 310, and 311 of such Act (16 U.S.C. 1858, 1859, 1860, and 1861) shall apply to any such violation in the same manner as to the commission of an act prohibited by section 307 of such Act (16 U.S.C. 1857). In addition to the civil penalties and permit sanctions applicable to prohibited acts under section 308 of such Act (16 U.S.C. 1858), any person who is found by the Secretary, after notice and an opportunity for a hearing in accordance with section 554 of title 5, United States Code, to have violated a requirement of this section shall be subject to the forfeiture to the Secretary of Commerce of any fish harvested or processed during the commission of such act.
 
 #### “SEC. 211. PROTECTIONS FOR OTHER FISHERIES; CONSERVATION MEASURES.
 
@@ -526,13 +614,13 @@ Required council recommendations.—By not later than July 1, 1999, the North Pa
 
 &emsp;&emsp;“(B) protect processors not eligible to participate in the directed pollock fishery from adverse effects as a result of this Act or fishery cooperatives in the directed pollock fishery.
 
-> &emsp;If the North Pacific Council does not recommend such conservation and management measures by such date, or if the Secretary determines that such conservation and management measures recommended by the North Pacific Council are not adequate to fulfill the purposes of this paragraph, the Secretary may by regulation restrict or change the authority in section 210(b) to the extent the Secretary deems appropriate, including by preventing fishery cooperatives from being formed pursuant to such section and by providing greater flexibility with respect to the shoreside processor or shoreside processors to which catcher vessels in a fishery cooperative under section 210(b) may deliver pollock.
+> &emsp;If the North Pacific Council does not recommend such conservation and management measures by such date, or if the Secretary determines that such conservation and management measures recommended by the North Pacific Council are not adequate to fulfill the purposes of this paragraph, the Secretary may by regulation restrict or change the authority in section 210(b) to the extent the Secretary deems appropriate, including by preventing fishery cooperatives from being formed pursuant to such section and byproviding greater flexibility with respect to the shoreside processor or shoreside processors to which catcher vessels in a fishery cooperative under section 210(b) may deliver pollock.
 
 &emsp;“(2)
 
 Bering sea crab and groundfish.—
 
-&emsp;&emsp;“(A) Effective January 1, 2000, the owners of the motherships eligible under section 208(d) and the shoreside processors eligible under section 208(f) that receive pollock from the directed pollock fishery under a fishery cooperative are hereby prohibited from processing, in the aggregate for each calendar year, more than the percentage of the total catch of each species of crab in directed fisheries under the jurisdiction of the North Pacific Council than facilities operated by such owners processed of each such species in the aggregate, on average, in 1995, 1996, 1997. For the purposes of this subparagraph, the term ‘facilities’ means any processing plant, catcher/processor, mothership, floating processor, or any other operation that processes fish.Any entity in which 10 percent or more of the interest is owned or controlled by another individual or entity shall be considered to be the same entity as the other individual or entity for the purposes of this subparagraph.
+&emsp;&emsp;“(A) Effective January 1, 2000, the owners of the motherships eligible under section 208(d) and the shoreside processors eligible under section 208(f) that receive pollock from the directed pollock fishery under a fishery cooperative are hereby prohibited from processing, in the aggregate for each calendar year, more than the percentage of the total catch of each species of crab in directed fisheries under the jurisdiction of the North Pacific Council than facilities operated by such owners processed of each such species in the aggregate, on average, in 1995, 1996, 1997. For the purposes of this subparagraph, the term ‘facilities’ means any processing plant, catcher/processor, mothership, floating processor, or any other operation that processes fish. Any entity in which 10 percent or more of the interest is owned or controlled by another individual or entity shall be considered to be the same entity as the other individual or entity for the purposes of this subparagraph.
 
 &emsp;&emsp;“(B) Under the authority of section 301(a)(4) of the Magnuson-Stevens Act (16 U.S.C. 1851(a)(4)), the North Pacific Council is directed to recommend for approval by the Secretary conservation and management measures to prevent any particular individual or entity from harvesting or processing an excessive share of crab or of groundfish in fisheries in the Bering Sea and Aleutian Islands Management Area.
 
@@ -592,7 +680,7 @@ Severability.—If any provision of this title, an amendment made by this title,
 
 “(g)
 
-International Agreements.—In the event that any provision of section 12102(c) or section 31322(a) of title 46, United States Code, as amended by this Act, isdetermined to be inconsistent with an existing international agreement relating to foreign investment to which the United States is a party with respect to the owner or mortgagee on October 1, 2001 of a vessel with a fishery endorsement, such provision shall not apply to that owner or mortgagee with respect to such vessel to the extent of any such inconsistency. The provisions of section 12102(c) and section 31322(a) of title 46, United States Code, as amended by this Act, shall apply to all subsequent owners and mortgagees of such vessel, and shall apply, notwithstanding the preceding sentence, to the owner on October 1, 2001 of such vessel if any ownership interest in that owner is transferred to or otherwise acquired by a foreign individual or entity after such date.”
+International Agreements.—In the event that any provision of section 12102(c) or section 31322(a) of title 46, United States Code, as amended by this Act, is determined to be inconsistent with an existing international agreement relating to foreign investment to which the United States is a party with respect to the owner or mortgagee on October 1, 2001 of a vessel with a fishery endorsement, such provision shall not apply to that owner or mortgagee with respect to such vessel to the extent of any such inconsistency. The provisions of section 12102(c) and section 31322(a) of title 46, United States Code, as amended by this Act, shall apply to all subsequent owners and mortgagees of such vessel, and shall apply, notwithstanding the preceding sentence, to the owner on October 1, 2001 of such vessel if any ownership interest in that owner is transferred to or otherwise acquired by a foreign individual or entity after such date.”
 
 #### Restriction on Funding Certain New Fishery Management Plans, Amendments or Regulations
 
@@ -612,223 +700,9 @@ Pub. L. 100–589, §6(a)–(f), Nov. 3, 1988, 102 Stat. 2986, as amended by Pub
 
 #### Atlantic Striped Bass Conservation
 
-Pub. L. 98–613, §§1–9, Oct. 31, 1984, 98 Stat. 3187–3190, as amended by Pub. L. 99–432, §§1–5, Oct. 1, 1986, 100 Stat. 989, 990; Pub. L. 100–589, §§1, 2, 4, 6(g), Nov. 3, 1988, 102 Stat. 2984, 2987; Pub. L. 102–130, §2, Oct. 17, 1991, 105 Stat. 626; Pub. L. 103–206, title VIII, §812, formerly §810, Dec. 20, 1993, 107 Stat. 2453, renumbered §812, Pub. L. 104–297, title IV, §404(c), Oct. 11, 1996, 110 Stat. 3619; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 105–146, §2, Dec. 16, 1997, 111 Stat. 2672, provided that:
-
-#### “SECTION 1. SHORT TITLE.
-
-“This Act may be cited as the ‘Atlantic Striped Bass Conservation Act’.
-
-#### “SEC. 2. FINDINGS AND PURPOSES.
-
-“(a)
-
-Findings.—The Congress finds and declares the following:
-
-&emsp;“(1) Atlantic striped bass are of historic commercial and recreational importance and economic benefit to the Atlantic coastal States and to the Nation.
-
-&emsp;“(2) No single government entity has full management authority throughout the range of the Atlantic striped bass.
-
-&emsp;“(3) The population of Atlantic striped bass—
-
-&emsp;&emsp;“(A) has been subject to large fluctuations due to natural causes, fishing pressure, environmental pollution, loss and alteration of habitat, inadequacy of fisheries conservation and management practices, and other causes; and
-
-&emsp;&emsp;“(B) risks potential depletion in the future without effective monitoring and conservation and management measures.
-
-&emsp;“(4) It is in the national interest to implement effective procedures and measures to provide for effective interjurisdictional conservation and management of this species.
-
-“(b)
-
-Purpose.—It is therefore declared to be the purpose of the Congress in this Act to support and encourage the development, implementation, and enforcement of effective interstate action regarding the conservation and management of the Atlantic striped bass.
-
-#### “SEC. 3. DEFINITIONS.
-
-“As used in this Act—
-
-&emsp;“(1) the term ‘Magnuson Act’ means the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.).
-
-&emsp;“(2) The term ‘Atlantic striped bass’ means members of stocks or populations of the species Morone saxatilis, which ordinarily migrate seaward of the waters described in paragraph (3)(A)(i).
-
-&emsp;“(3) The term ‘coastal waters’ means—
-
-&emsp;&emsp;“(A) for each coastal State referred to in paragraph (4)(A)—
-
-&emsp;&emsp;&emsp;“(i) all waters, whether salt or fresh, of the coastal State shoreward of the baseline from which the territorial sea of the United States is measured; and
-
-&emsp;&emsp;&emsp;“(ii) the waters of the coastal State seaward from the baseline referred to in clause (i) to the inner boundary of the exclusive economic zone;
-
-&emsp;&emsp;“(B) for the District of Columbia, those waters within its jurisdiction; and
-
-&emsp;&emsp;“(C) for the Potomac River Fisheries Commission, those waters of the Potomac River within the boundaries established by the Potomac River Compact of 1958.
-
-&emsp;“(4) The term ‘coastal State’ means—
-
-&emsp;&emsp;“(A) Pennsylvania and each State of the United States bordering on the Atlantic Ocean north of the State of South Carolina;
-
-&emsp;&emsp;“(B) the District of Columbia; and
-
-&emsp;&emsp;“(C) the Potomac River Fisheries Commission established by the Potomac River Compact of 1958.
-
-&emsp;“(5) The term ‘Commission’ means the Atlantic States Marine Fisheries Commission established under the interstate compact consented to and approved by the Congress in Public Laws 77–539 \[May 4, 1942, ch. 283, 56 Stat. 267\] and 81–721 \[Aug. 19, 1950, ch. 763, 64 Stat. 467\].
-
-&emsp;“(6) The term ‘exclusive economic zone’ has the meaning given such term in section 3(6) of the Magnuson Act (16 U.S.C. 1802(6)).
-
-&emsp;“(7) The term ‘fishing’ means—
-
-&emsp;&emsp;“(A) the catching, taking, or harvesting of Atlantic striped bass, except when incidental to harvesting that occurs in the course of commercial or recreational fish catching activities directed at a species other than Atlantic striped bass;
-
-&emsp;&emsp;“(B) the attempted catching, taking, or harvesting of Atlantic striped bass; and
-
-&emsp;&emsp;“(C) any operation at sea in support of, or in preparation for, any activity described in subparagraph (A) or (B).
-
-> &emsp;The term does not include any scientific research authorized by the Federal Government or by any State government.
-
-&emsp;“(8) The term ‘moratorium area’ means the coastal waters with respect to which a declaration under section 5(a) applies.
-
-&emsp;“(9) The term ‘moratorium period’ means the period beginning on the day on which moratorium is declared under section 5(a) regarding a coastal State and ending on the day on which the Commission notifies the Secretaries that that State has taken appropriate remedial action with respect to those matters that were the case of the moratorium being declared.
-
-&emsp;“(10) The term ‘Plan’ means a plan for managing Atlantic striped bass, or an amendment to such plan, that is prepared and adopted by the Commission.
-
-&emsp;“(11) The term ‘Secretary’ means the Secretary of Commerce or a designee of the Secretary of Commerce.
-
-&emsp;“(12) The term ‘Secretaries’ means the Secretary of Commerce and the Secretary of the Interior or their designees.
-
-#### “SEC. 4. MONITORING OF IMPLEMENTATION AND ENFORCEMENT BY COASTAL STATES.
-
-“(a)
-
-Determination.—During December of each fiscal year, and at any other time it deems necessary the Commission shall determine—
-
-&emsp;“(1) whether each coastal State has adopted all regulatory measures necessary to fully implement the Plan in its coastal waters; and
-
-&emsp;“(2) whether the enforcement of the Plan by each coastal State is satisfactory.
-
-“(b)
-
-Satisfactory State Enforcement.—For purposes of subsection (a)(2), enforcement by a coastal State shall not be considered satisfactory by the Commission if, in its view, the enforcement is being carried out in such a manner that the implementation of the Plan within the coastal waters of the State is being, or will likely be, substantially and adversely affected.
-
-“(c)
-
-Notification of Secretaries.—The Commission shall immediately notify the Secretaries of each negative determination made by it under subsection (a).
-
-#### “SEC. 5. MORATORIUM.
-
-“(a)
-
-Secretarial Action After Notification.—Upon receiving notice from the Commission under section 4(c) of a negative determination regarding a coastal State, the Secretaries shall determine jointly, within 30 days, whether that coastal State is in compliance with the Plan and, if the State is not in compliance, the Secretaries shall declare jointly a moratorium on fishing for Atlantic striped bass within the coastal waters of that coastal State. In making such a determination, the Secretaries shall carefully consider and review the comments of the Commission and that coastal State in question.
-
-“(b)
-
-Prohibited Acts During Moratorium.—During a moratorium period, it is unlawful for any person—
-
-&emsp;“(1) to engage in fishing within the moratorium area;
-
-&emsp;“(2) to land, or attempt to land, Atlantic striped bass that are caught, taken, or harvested in violation of paragraph (1);
-
-&emsp;“(3) to land lawfully harvested Atlantic striped bass within the boundaries of a coastal State when a moratorium declared under subsection (a) applies to that State; or
-
-&emsp;“(4) to fail to return to the water Atlantic striped bass to which the moratorium applies that are caught incidental to harvesting that occurs in the course of commercial or recreational fish catching activities, regardless of the physical condition of the striped bass when caught.
-
-“(c)
-
-Civil Penalties.—
-
-&emsp;“(1)
-
-Civil penalty.—Any person who commits any act that is unlawful under subsection (b) shall be liable to the United States for a civil penalty as provided by section 308 of the Magnuson Act (16 U.S.C. 1858).
-
-&emsp;“(2)
-
-Civil forfeitures.—
-
-&emsp;&emsp;“(A)
-
-In general.—Any vessel (including its gear, equipment, appurtenances, stores, and cargo) used, and any fish (or the fair market value thereof) taken or retained, in any manner, in connection with, or as the result of, the commission of any act that is unlawful under subsection (b) shall be subject to forfeiture to the United States as provided in section 310 of the Magnuson Act (16 U.S.C. 1860).
-
-&emsp;&emsp;“(B)
-
-Disposal of fish.—Any fish seized pursuant to this Act may be disposed of pursuant to the order of a court of competent jurisdiction, or, if perishable, in a manner prescribed in regulations.
-
-“(d)
-
-Enforcement.—A person authorized by the Secretaries or the Secretary of the department in which the Coast Guard is operating may take any action to enforce a moratorium declared under subsection (a) that an officer authorized by the Secretary under section 311(b) of the Magnuson Act (16 U.S.C. 1861(b)) may take to enforce that Act (16 U.S.C. 1801 et seq.). The Secretaries may, by agreement, on a reimbursable basis or otherwise, utilize the personnel, services, equipment (including aircraft and vessels), and facilities of any other Federal department or agency and of any agency of a State in carrying out that enforcement.
-
-“(e)
-
-Regulations.—The Secretaries may issue regulations to implement this section.
-
-#### “SEC. 6. CONTINUING STUDIES OF STRIPED BASS POPULATIONS.
-
-“(a)
-
-In General.—For the purposes of carrying out this Act, the Secretaries shall conduct continuing, comprehensive studies of Atlantic striped bass stocks. These studies shall include, but shall not be limited to, the following:
-
-&emsp;“(1) Annual stock assessments, using fishery-dependent and fishery-independent data, for the purposes of extending the long-term population record generated by the annual striped bass study conducted by the Secretaries before 1994 and understanding the population dynamics of Atlantic striped bass.
-
-&emsp;“(2) Investigations of the causes of fluctuations in Atlantic striped bass populations.
-
-&emsp;“(3) Investigations of the effects of water quality, land use, and other environmental factors on the recruitment, spawning potential, mortality, and abundance of Atlantic striped bass populations, including the Delaware River population.
-
-&emsp;“(4) Investigations of—
-
-&emsp;&emsp;“(A) the interactions between Atlantic striped bass and other fish, including bluefish, menhaden, mackerel, and other forage fish or possible competitors, stock assessments of these species, to the extent appropriate; and
-
-&emsp;&emsp;“(B) the effects of interspecies predation and competition on the recruitment, spawning potential mortality, and abundance of Atlantic striped bass.
-
-“(b)
-
-Socio-Economic Study.—The Secretaries, in consultation with with \[sic\] the Atlantic States Marine Fisheries Commission, shall conduct a study of the socio-economic benefits of the Atlantic striped bass resource. The Secretaries shall issue a report to the Congress concerning the findings of this study no later than September 30, 1998.
-
-“(c)
-
-Reports.—The Secretaries shall make biennial reports to the Congress and to the Commission concerning the progress and findings of studies conducted under subsection (a) and shall make those reports public. Such reports shall, to the extent appropriate, contain recommendations of actions which could be taken to encourage the sustainable management of Atlantic striped bass.
-
-#### “SEC. 7. AUTHORIZATION OF APPROPRIATIONS; COOPERATIVE AGREEMENTS.
-
-“(a)
-
-Authorization.—For each of fiscal years 1998, 1999, and 2000, there are authorized to be appropriated to carry out this Act—
-
-&emsp;“(1) $800,000 to the Secretary of Commerce; and
-
-&emsp;“(2) $250,000 to the Secretary of the Interior.
-
-“(b)
-
-Cooperative Agreements.—The Secretaries may enter into cooperative agreements with the Atlantic States Marine Fisheries Commission or with States, for the purpose of using amounts appropriated pursuant to this section to provide financial assistance for carrying out the purposes of this Act.
-
-#### “SEC. 8. PUBLIC PARTICIPATION IN PREPARATION OF MANAGEMENT PLANS AND AMENDMENTS.
-
-“(a)
-
-Standards and Procedures.—In order to ensure the opportunity for public participation in the preparation of management plans and amendments to management plans for Atlantic striped bass, the Commission shall prepare such plans and amendments in accordance with the standards and procedures established under section 805(a)(2) of the Atlantic Coastal Fisheries Cooperative Management Act \[16 U.S.C. 5104(a)(2)\].
-
-“(b)
-
-Application.—Subsection (a) shall apply to management plans and amendments adopted by the Commission after the 6-month period beginning on the date of enactment of the Atlantic Striped Bass Conservation Act Amendments of 1997 \[Dec. 16, 1997\].
-
-#### “SEC. 9. PROTECTION OF STRIPED BASS IN THE EXCLUSIVE ECONOMIC ZONE.
-
-“(a)
-
-Regulation of Fishing in Exclusive Economic Zone.—The Secretary shall promulgate regulations governing fishing for Atlantic striped bass in the exclusive economic zone that the Secretary determines—
-
-&emsp;“(1) are consistent with the national standards set forth in section 301 of the Magnuson Act (16 U.S.C. 1851);
-
-&emsp;“(2) are compatible with the Plan and each Federal moratorium in effect on fishing for Atlantic striped bass within the coastal waters of a coastal State;
-
-&emsp;“(3) ensure the effectiveness of State regulations on fishing for Atlantic striped bass within the coastal waters of a coastal State; and
-
-&emsp;“(4) are sufficient to assure the long-term conservation of Atlantic striped bass populations.
-
-“(b)
-
-Consultation; Periodic Review of Regulations.—In preparing regulations under subsection (a), the Secretary shall consult with the Atlantic States Marine Fisheries Commission, the appropriate Regional Fishery Management Councils, and each affected Federal, State, and local government entity. The Secretary shall periodically review regulations promulgated under subsection (a), and if necessary to ensure their continued consistency with the requirements of subsection (a), shall amend those regulations.
-
-“(c)
-
-Applicability of Magnuson Act Provisions.—The provisions of sections 307, 308, 309, 310, and 311 of the Magnuson Act (16 U.S.C. 1857, 1858, 1859, 1860, and 1861) regarding prohibited acts, civil penalties, criminal offenses, civil forfeitures, and enforcement shall apply with respect to regulations and any plan issued under subsection (a) of this section as if such regulations or plan were issued under the Magnuson Act \[16 U.S.C. 1801 et seq.\].”
+Pub. L. 98–613, §§1–9, Oct. 31, 1984, 98 Stat. 3187–3190, as amended, formerly set out as a note under this section, was transferred to chapter 71A (§5151 et seq.) of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1434, 1802, 5103, 5107b of this title.
+This section is referred to in sections 1434, 1802, 5103, 5107b, 5158 of this title.
 

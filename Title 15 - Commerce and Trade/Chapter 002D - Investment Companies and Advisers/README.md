@@ -228,7 +228,7 @@
 | 80a–43. | Jurisdiction of offenses and suits. |
 | 80a–44. | Disclosure of information filed with Commission; copies. |
 | 80a–45. | Reports by Commission; hiring and leasing authority. |
-| (a) | Annual report. |
+| (a) | Omitted. |
 | (b) | Hiring and leasing authority. |
 | 80a–46. | Validity of contracts. |
 | (a) | Waiver of compliance as void. |
@@ -349,7 +349,7 @@
 | 80b–15. | Validity of contracts. |
 | (a) | Waiver of compliance as void. |
 | (b) | Rights affected by invalidity. |
-| 80b–16. | Annual reports of Commission. |
+| 80b–16. | Omitted. |
 | 80b–17. | Penalties. |
 | 80b–18. | Hiring and leasing authority of Commission. |
 | 80b–18a. | State regulation of investment advisers. |

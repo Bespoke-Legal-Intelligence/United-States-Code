@@ -30,7 +30,7 @@ Any grant agreement or grants under this section shall be subject to the followi
 
 #### (d) Limitations on administrative and managerial costs
 
-It is the sense of the Congress that administrative and managerial costs for operation of Radio Free Asia should be kept to a minimumand, to the maximum extent feasible, should not exceed the costs that would have been incurred if Radio Free Asia had been operated as a Federal entity rather than as a grantee.
+It is the sense of the Congress that administrative and managerial costs for operation of Radio Free Asia should be kept to a minimum and, to the maximum extent feasible, should not exceed the costs that would have been incurred if Radio Free Asia had been operated as a Federal entity rather than as a grantee.
 
 #### (e) Assessment of effectiveness of Radio Free Asia
 

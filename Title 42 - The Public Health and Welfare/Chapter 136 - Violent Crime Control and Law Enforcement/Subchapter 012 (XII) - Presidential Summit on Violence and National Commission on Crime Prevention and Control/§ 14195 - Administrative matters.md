@@ -6,7 +6,7 @@ The President shall designate a member of the Commission to chair the Commission
 
 #### (b) No additional pay or benefits; per diem
 
-Members of the Commission shall receive no pay or benefits by reason of their service on the Commission, but shall receive travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under sections 5702 and 5703 of title 5.
+Members of the Commission shall receive no pay or benefits by reason of their service on theCommission, but shall receive travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under sections 5702 and 5703 of title 5.
 
 #### (c) Vacancies
 

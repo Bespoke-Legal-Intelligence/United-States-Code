@@ -98,7 +98,7 @@ As used in subsection (a) of this section, the term “discriminate” includes�
 
 #### (B) Acceptable examinations and inquiries
 
-&emsp;&emsp;A covered entity may conduct voluntary medical examinations, including voluntarymedical histories, which are part of an employee health program available to employees at that work site. A covered entity may make inquiries into the ability of an employee to perform job-related functions.
+&emsp;&emsp;A covered entity may conduct voluntary medical examinations, including voluntary medical histories, which are part of an employee health program available to employees at that work site. A covered entity may make inquiries into the ability of an employee to perform job-related functions.
 
 #### (C) Requirement
 
@@ -116,5 +116,5 @@ Amendment by Pub. L. 102–166 inapplicable to conduct occurring before Nov. 21,
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1981a, 12209 of this title; title 2 sections 1202, 1311; title 3 section 411.
+This section is referred to in sections 1981a, 2000e–16b, 12209 of this title; title 2 section 1311; title 3 section 411.
 

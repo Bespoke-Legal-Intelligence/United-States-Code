@@ -22,7 +22,7 @@ Each plan issued under this chapter shall contain the terms and conditions presc
 
 &emsp;&emsp;(B) 4 members who are shellers;
 
-&emsp;&emsp;(C) one member who is a first handler and who derives over 50 percent of the member's gross income from buying and selling pecans;
+&emsp;&emsp;(C) one member who is a first handler and who derives over 50 percent of the member'sgross income from buying and selling pecans;
 
 &emsp;&emsp;(D) one member who is an importer of pecans into the United States, nominated by the Board;
 
@@ -110,7 +110,7 @@ Each plan issued under this chapter shall contain the terms and conditions presc
 
 #### (A) In general
 
-&emsp;&emsp;The members of the Board shall serve for a term of 3 years, except that the members appointed to the initial Board established under paragraph (8)(G) shall serve, proportionately, for terms of 1, 2, and 3 years, as determined by the Secretary.
+&emsp;&emsp;The members of the Board shall serve for a term of 3 years, except that the membersappointed to the initial Board established under paragraph (8)(G) shall serve, proportionately, for terms of 1, 2, and 3 years, as determined by the Secretary.
 
 #### (B) Termination of terms
 
@@ -220,7 +220,7 @@ The plan shall define the powers and duties of the Board, which shall include th
 
 &emsp;&emsp;(B) the program or project shall become effective on the approval of the Secretary; and
 
-&emsp;&emsp;(C) the contracting party shall keep accurate records of all of its transactions, account for funds received and expended, make periodic reports to the Board of activitiesconducted, and make such other reports as the Board or the Secretary may require.
+&emsp;&emsp;(C) the contracting party shall keep accurate records of all of its transactions, account for funds received and expended, make periodic reports to the Board of activities conducted, and make such other reports as the Board or the Secretary may require.
 
 #### (3) Grower and grower-sheller organizations
 
@@ -314,7 +314,7 @@ The plan shall provide that the assessments collected under section 6007 of this
 
 #### (j) Other terms and conditions
 
-The plan also shall contain such terms and conditions, not inconsistent with this chapter,as determined necessary by the Secretary to effectuate this chapter.
+The plan also shall contain such terms and conditions, not inconsistent with this chapter, as determined necessary by the Secretary to effectuate this chapter.
 
 (Pub. L. 101–624, title XIX, §1910, Nov. 28, 1990, 104 Stat. 3841; Pub. L. 102–237, title VIII, §802(2), Dec. 13, 1991, 105 Stat. 1882.)
 

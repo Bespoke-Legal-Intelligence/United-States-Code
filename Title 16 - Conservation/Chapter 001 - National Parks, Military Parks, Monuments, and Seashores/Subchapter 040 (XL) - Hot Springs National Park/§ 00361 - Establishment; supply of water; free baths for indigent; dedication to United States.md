@@ -6,7 +6,7 @@ The Secretary of the Interior is authorized to grant to hotels having bathhouses
 
 #### Codification
 
-Act Apr. 12, 1904 amended act Dec. 16, 1878, by striking out a proviso thereof and inserting in lieu thereof a proviso which is the source of the first sentence of this section. The proviso stricken out limited the supply of water to hotels or bathhouses to not more than enough for 40 bath tubs of the usual size to a single establishment.
+Act Apr. 12, 1904 amended act Dec. 16, 1878, by striking out a proviso thereof and inserting in lieu thereofa proviso which is the source of the first sentence of this section. The proviso stricken out limited the supply of water to hotels or bathhouses to not more than enough for 40 bath tubs of the usual size to a single establishment.
 
 A portion of act Dec. 16, 1878, made an appropriation for the expenses of the Hot Springs Commission, and provided for the appointment of a Board of Commissioners, conferring upon them the powers of the Commissioners appointed under act Mar. 3, 1877, ch. 108, 19 Stat. 377, to lay out, etc., the Hot Springs Reservation, and revived and continued in force said act Mar. 3, 1877 to enable the Commissioners to perform the acts and duties authorized by it. These and other earlier provisions relating to the establishment and management of the reservation were temporary and have been executed.
 

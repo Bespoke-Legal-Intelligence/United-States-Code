@@ -62,13 +62,9 @@ A prior section 506, act June 25, 1948, ch. 646, 62 Stat. 909, related to vacanc
 
 #### Amendments
 
-1978—Pub. L. 95–598 substituted “ten” for “nine”.
+<b>1978</b>—Pub. L. 95–598 substituted “ten” for “nine”.
 
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–598 effective Nov. 6, 1978, see section 402(d) of Pub. L. 95–598, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
-
-#### Cross References
-
-Compensation of Assistant Attorneys General, see section 5315 of Title 5, Government Organization and Employees.
 

@@ -2,7 +2,7 @@
 
 #### Codification
 
-Section 1461, act Aug. 9, 1955, ch. 656, title II, §201, 69 Stat. 585, which provided for a Presidential designee to coordinate and facilitate actions to discharge Federalresponsibilities and to reports submitted by the designee, was transferred to section 1973cc–11 of Title 42, The Public Health and Welfare.
+Section 1461, act Aug. 9, 1955, ch. 656, title II, §201, 69 Stat. 585, which provided for a Presidential designee to coordinate and facilitate actions to discharge Federal responsibilities and to reports submitted by the designee, was transferred to section 1973cc–11 of Title 42, The Public Health and Welfare.
 
 Section 1462, act Aug. 9, 1955, ch. 656, title II, §202, 69 Stat. 586, which related to current absentee voting information, was transferred to section 1973cc–12 of Title 42.
 

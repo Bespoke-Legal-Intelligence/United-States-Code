@@ -2,7 +2,7 @@
 
 (a)
 
-Definition.—For purposes of this chapter, an alternative dispute resolution process includes any process or procedure, other than anadjudication by a presiding judge, in which a neutral third party participates to assist in the resolution of issues in controversy, through processes such as early neutral evaluation, mediation, minitrial, and arbitration as provided in sections 654 through 658.
+Definition.—For purposes of this chapter, an alternative dispute resolution process includes any process or procedure, other than an adjudication by a presiding judge, in which a neutral third party participates to assist in the resolution of issues in controversy, through processes such as early neutral evaluation, mediation, minitrial, and arbitration as provided in sections 654 through 658.
 
 (b)
 
@@ -34,7 +34,7 @@ The date of the enactment of the Alternative Dispute Resolution Act of 1998, ref
 
 #### Amendments
 
-1998—Pub. L. 105–315 amended section generally, substituting provisions relating to authorization of alternative dispute resolution for provisions relating to authorization of arbitration.
+<b>1998</b>—Pub. L. 105–315 amended section generally, substituting provisions relating to authorization of alternative dispute resolution for provisions relating to authorization of arbitration.
 
 #### Effective Date
 

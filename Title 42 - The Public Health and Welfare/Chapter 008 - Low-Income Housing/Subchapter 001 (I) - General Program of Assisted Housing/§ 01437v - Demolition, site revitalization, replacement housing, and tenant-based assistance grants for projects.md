@@ -52,7 +52,7 @@ The Secretary may make grants as provided in this section to applicants whose ap
 
 &emsp;&emsp;(F) providing reasonable moving expenses for residents displaced as a result of the revitalization of the project;
 
-&emsp;&emsp;(G) economic development activities that promote the economic self-sufficiency of residents under the revitalization program;
+&emsp;&emsp;(G) economic development activities that promote the economic self-sufficiency of residents under the revitalization program, including a Neighborhood Networks initiative for the establishment and operation of computer centers in public housing for the purpose of enhancing the self-sufficiency, employability, an <sup>1</sup> economic self-reliance of public housing residents by providing them with onsite computer access and training resources;
 
 &emsp;&emsp;(H) necessary management improvements;
 
@@ -154,7 +154,7 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;&emsp;&emsp;(II) has high rates of vandalism and criminal activity (including drug-related criminal activity) in comparison to other housing in the area;
 
-&emsp;&emsp;&emsp;(iv) cannot be revitalized through assistance under other programs, such as the program for capital and operating assistance for public housing under this chapter, or the programs under sections 1437g and 1437<i>l</i> of this title (as in effect before the effective date under under <sup>1</sup> section 503(a) <sup>1</sup> the Quality Housing and Work Responsibility Act of 1998), because of cost constraints and inadequacy of available amounts; and
+&emsp;&emsp;&emsp;(iv) cannot be revitalized through assistance under other programs, such as the program for capital and operating assistance for public housing under this chapter, or the programs under sections 1437g and 1437<i>l</i> of this title (as in effect before the effective date under under <sup>2</sup> section 503(a) <sup>2</sup> the Quality Housing and Work Responsibility Act of 1998), because of cost constraints and inadequacy of available amounts; and
 
 &emsp;&emsp;&emsp;(v) in the case of individual buildings, is, in the Secretary's determination, sufficiently separable from the remainder of the project of which the building is part to make use of the building feasible for purposes of this section; or
 
@@ -188,13 +188,13 @@ The Secretary shall submit to the Congress an annual report setting forth—
 
 #### (2) Technical assistance and program oversight
 
-&emsp;Of the amount appropriated pursuant to paragraph (1) for any fiscal year, the Secretary may use up to 2 percent for technical assistance or contract expertise. Such assistance or contract expertise may be provided directly or indirectly by grants, contracts, or cooperative agreements, and shall include training, and the cost of necessary travel for participants in such training, by or to officials of the Department of Housing and Urban Development, of public housing agencies, and of residents.
+&emsp;Of the amount appropriated pursuant to paragraph (1) for any fiscal year, the Secretary may use up to 2 percent for technical assistance or contract expertise, including assistance in connection with the establishment and operation of computer centers in public housing through the Neighborhoods <sup>3</sup> Networks initiative described in subsection (d)(1)(G) of this section. Such assistance or contract expertise may be provided directly or indirectly by grants, contracts, or cooperative agreements, and shall include training, and the cost of necessary travel for participants in such training, by or to officials of the Department of Housing and Urban Development, of public housing agencies, and of residents.
 
 #### (n) Sunset
 
 No assistance may be provided under this section after September 30, 2002.
 
-(Sept. 1, 1937, ch. 896, title I, §24, as added Pub. L. 102–550, title I, §120, Oct. 28, 1992, 106 Stat. 3695; amended Pub. L. 104–99, title IV, §402(d)(6)(A)(vi), Jan. 26, 1996, 110 Stat. 43; Pub. L. 104–330, title V, §501(b)(9), Oct. 26, 1996, 110 Stat. 4042; Pub. L. 105–276, title V, §535(a), Oct. 21, 1998, 112 Stat. 2581.)
+(Sept. 1, 1937, ch. 896, title I, §24, as added Pub. L. 102–550, title I, §120, Oct. 28, 1992, 106 Stat. 3695; amended Pub. L. 104–99, title IV, §402(d)(6)(A)(vi), Jan. 26, 1996, 110 Stat. 43; Pub. L. 104–330, title V, §501(b)(9), Oct. 26, 1996, 110 Stat. 4042; Pub. L. 105–276, title V, §535(a), Oct. 21, 1998, 112 Stat. 2581; Pub. L. 106–377, §1(a)(1) \[title II, §214(b)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–27.)
 
 #### References in Text
 
@@ -203,6 +203,10 @@ Section 1437<i>l</i> of this title, referred to in subsec. (j)(2)(A)(iv), was re
 Section 503(a) of the Quality Housing and Work Responsibility Act of 1998, referred to in subsec. (j)(2)(A)(iv), is section 503(a) of Pub. L. 105–276, which is set out as an Effective Date of 1998 Amendment note under section 1437 of this title.
 
 #### Amendments
+
+2000—Subsec. (d)(1)(G). Pub. L. 106–377, §1(a)(1) \[title II, §214(b)(1)\], inserted before semicolon “, including a Neighborhood Networks initiative for the establishment and operation of computer centers in public housing for the purpose of enhancing the self-sufficiency, employability, an economic self-reliance of public housing residents by providing them with onsite computer access and training resources”.
+
+Subsec. (m)(2). Pub. L. 106–377, §1(a)(1) \[title II, §214(b)(2)\], inserted before period at end of first sentence “, including assistance in connection with the establishment and operation of computer centers in public housing through the Neighborhoods Networks initiative described in subsection (d)(1)(G) of this section”.
 
 1998—Pub. L. 105–276 amended section generally. Prior to amendment, section authorized planning grants for development of revitalization programs for severely distressed public housing and implementation grants to carry out revitalization programs for such housing, authorized exceptions to general program rules, established Office of Severely Distressed Public Housing Revitalization, and required annual report to Congress.
 
@@ -226,9 +230,17 @@ Amendment by Pub. L. 104–330 effective Oct. 1, 1997, except as otherwise expre
 
 Amendment by Pub. L. 104–99 effective Jan. 26, 1996, only for fiscal years 1996, 1997, and 1998, and to cease to be effective Oct. 21, 1998, see section 402(f) of Pub. L. 104–99, as amended, and section 514(f) of Pub. L. 105–276, set out as notes under section 1437a of this title.
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which item 11 on page 104 identifies a reporting provision which, as subsequently amended, is contained in subsec. (<i>l</i>) of this section), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1437c, 1437d of this title.
 
-<i><sup>1</sup></i><i> So in original.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “and”.</i>
+
+<i><sup>2</sup></i><i> So in original.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be “Neighborhood”.</i>
 

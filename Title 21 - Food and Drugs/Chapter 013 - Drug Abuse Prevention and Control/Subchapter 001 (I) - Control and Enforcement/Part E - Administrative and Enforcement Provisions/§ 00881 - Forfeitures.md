@@ -10,19 +10,13 @@ The following shall be subject to forfeiture to the United States and no propert
 
 &emsp;(3) All property which is used, or intended for use, as a container for property described in paragraph (1), (2), or (9).
 
-&emsp;(4) All conveyances, including aircraft, vehicles, or vessels, which are used, or are intended for use, to transport, or in any manner to facilitate the transportation, sale, receipt, possession, or concealment of property described in paragraph (1), (2), or (9), except that—
-
-&emsp;&emsp;(A) no conveyance used by any person as a common carrier in the transaction of business as a common carrier shall be forfeited under the provisions of this section unless it shall appear that the owner or other person in charge of such conveyance was a consenting party or privy to a violation of this subchapter or subchapter II of this chapter;
-
-&emsp;&emsp;(B) no conveyance shall be forfeited under the provisions of this section by reason of any act or omission established by the owner thereof to have been committed or omitted by any person other than such owner while such conveyance was unlawfully in the possession of a person other than the owner in violation of the criminal laws of the United States, or of any State; and
-
-&emsp;&emsp;(C) no conveyance shall be forfeited under this paragraph to the extent of an interest of an owner, by reason of any act or omission established by that owner to have been committed or omitted without the knowledge, consent, or willful blindness of the owner.
+&emsp;(4) All conveyances, including aircraft, vehicles, or vessels, which are used, or are intended for use, to transport, or in any manner to facilitate the transportation, sale, receipt, possession, or concealment of property described in paragraph (1), (2), or (9).
 
 &emsp;(5) All books, records, and research, including formulas, microfilm, tapes, and data which are used, or intended for use, in violation of this subchapter.
 
-&emsp;(6) All moneys, negotiable instruments, securities, or other things of value furnished or intended to be furnished by any person in exchange for a controlled substance or listed chemical in violation of this subchapter, all proceeds traceable to such an exchange, and all moneys, negotiable instruments, and securities used or intended to be used to facilitate any violation of this subchapter, except that no property shall be forfeited under this paragraph, to the extent of the interest of an owner, by reason of any act or omission established by that owner to have been committed or omitted without the knowledge or consent of that owner.
+&emsp;(6) All moneys, negotiable instruments, securities, or other things of value furnished or intended to be furnished by any person in exchange for a controlled substance or listed chemical in violation of this subchapter, all proceeds traceable to such an exchange, and all moneys, negotiable instruments, and securities used or intended to be used to facilitate any violation of this subchapter.
 
-&emsp;(7) All real property, including any right, title, and interest (including any leasehold interest) in the whole of any lot or tract of land and any appurtenances or improvements, which is used, or intended to be used, in any manner or part, to commit, or to facilitate the commission of, a violation of this subchapter punishable by more than one year's imprisonment, except that no property shall be forfeited under this paragraph, to the extent of an interest of an owner, by reason of any act or omission established by that owner to have been committed or omitted without the knowledge or consent of that owner.
+&emsp;(7) All real property, including any right, title, and interest (including any leasehold interest) in the whole of any lot or tract of land and any appurtenances or improvements, which is used, or intended to be used, in any manner or part, to commit, or to facilitate the commission of, a violation of this subchapter punishable by more than one year's imprisonment.
 
 &emsp;(8) All controlled substances which have been possessed in violation of this subchapter.
 
@@ -32,21 +26,9 @@ The following shall be subject to forfeiture to the United States and no propert
 
 &emsp;(11) Any firearm (as defined in section 921 of title 18) used or intended to be used to facilitate the transportation, sale, receipt, possession, or concealment of property described in paragraph (1) or (2) and any proceeds traceable to such property.
 
-#### (b) Seizure pursuant to Supplemental Rules for Certain Admiralty and Maritime Claims; issuance of warrant authorizing seizure
+#### (b) Seizure procedures
 
-Any property subject to civil forfeiture to the United States under this subchapter may be seized by the Attorney General upon process issued pursuant to the Supplemental Rules for Certain Admiralty and Maritime Claims by any district court of the United States having jurisdiction over the property, except that seizure without such process may be made when—
-
-&emsp;(1) the seizure is incident to an arrest or a search under a search warrant or an inspection under an administrative inspection warrant;
-
-&emsp;(2) the property subject to seizure has been the subject of a prior judgment in favor of the United States in a criminal injunction or forfeiture proceeding under this subchapter;
-
-&emsp;(3) the Attorney General has probable cause to believe that the property is directly or indirectly dangerous to health or safety; or
-
-&emsp;(4) the Attorney General has probable cause to believe that the property is subject to civil forfeiture under this subchapter.
-
-> In the event of seizure pursuant to paragraph (3) or (4) of this subsection, proceedings under subsection (d) of this section shall be instituted promptly.
-
-The Government may request the issuance of a warrant authorizing the seizure of property subject to forfeiture under this section in the same manner as provided for a search warrant under the Federal Rules of Criminal Procedure.
+Any property subject to forfeiture to the United States under this section may be seized by the Attorney General in the manner set forth in section 981(b) of title 18.
 
 #### (c) Custody of Attorney General
 
@@ -94,13 +76,13 @@ The provisions of law relating to the seizure, summary and judicial forfeiture, 
 
 (3) The Attorney General shall assure that any property transferred to a State or local law enforcement agency under paragraph (1)(A)—
 
-&emsp;(A) has a value that bears a reasonable relationship to the degree of direct participation of the State or local agency in the law enforcement effort resulting in the forfeiture, taking into account the total value of all property forfeited and the total law enforcement effort with respect to the violation of law on which the forfeiture is based; and
+&emsp;(A) has a value that bears a reasonable relationship to the degree of direct participation of the State or local agency in the law enforcement effort resulting in the forfeiture, taking into account the total value of allproperty forfeited and the total law enforcement effort with respect to the violation of law on which the forfeiture is based; and
 
 &emsp;(B) will serve to encourage further cooperation between the recipient State or local agency and Federal law enforcement agencies.
 
 (4)(A) With respect to real property described in subparagraph (B), if the chief executive officer of the State involved submits to the Attorney General a request for purposes of such subparagraph, the authority established in such subparagraph is in lieu of the authority established in paragraph (1)(B).
 
-(B) In the case of property described in paragraph (1)(B) that is civilly or criminally forfeited under this subchapter, if the property is real property that is appropriate for use as a public area reserved for recreational or historic purposes or for the preservation of natural conditions, the Attorney General, upon the requestof the chief executive officer of the State in which the property is located, may transfer title to the property to the State, either without charge or for a nominal charge, through a legal instrument providing that—
+(B) In the case of property described in paragraph (1)(B) that is civilly or criminally forfeited under this subchapter, if the property is real property that is appropriate for use as a public area reserved for recreational or historic purposes or for the preservation of natural conditions, the Attorney General, upon the request of the chief executive officer of the State in which the property is located, may transfer title to the property to the State, either without charge or for a nominal charge, through a legal instrument providing that—
 
 &emsp;(i) such use will be the principal use of the property; and
 
@@ -126,7 +108,7 @@ All right, title, and interest in property described in subsection (a) of this s
 
 #### (i) Stay of civil forfeiture proceedings
 
-The filing of an indictment or information alleging a violation of this subchapter or subchapter II of this chapter, or a violation of State or local law that could have been charged under this subchapter or subchapter II of this chapter, which is also related to a civil forfeiture proceeding under this section shall, upon motion of the United States and for good cause shown, stay the civil forfeiture proceeding.
+The provisions of section 981(g) of title 18 regarding the stay of a civil forfeiture proceeding shall apply to forfeitures under this section.
 
 #### (j) Venue
 
@@ -136,21 +118,35 @@ In addition to the venue provided for in section 1395 of title 28 or any other p
 
 The functions of the Attorney General under this section shall be carried out by the Postal Service pursuant to such agreement as may be entered into between the Attorney General and the Postal Service.
 
-(Pub. L. 91–513, title II, §511, Oct. 27, 1970, 84 Stat. 1276; Pub. L. 95–633, title III, §301(a), Nov. 10, 1978, 92 Stat. 3777; Pub. L. 96–132, §14, Nov. 30, 1979, 93 Stat. 1048; Pub. L. 98–473, title II, §§306, 309, 518, Oct. 12, 1984, 98 Stat. 2050, 2051, 2075; Pub. L. 99–570, title I, §§1006(c), 1865, 1992, Oct. 27, 1986, 100 Stat. 3207–7, 3207–54, 3207–59; Pub. L. 99–646, §74, Nov. 10, 1986, 100 Stat. 3618; Pub. L. 100–690, title V, §5105, title VI, §§6059, 6074, 6075, 6077(a), (b), 6253, Nov. 18, 1988, 102 Stat. 4301, 4319, 4323–4325, 4363; Pub. L. 101–189, div. A, title XII, §1215(a), Nov. 29, 1989, 103 Stat. 1569; Pub. L. 101–647, title XX, §§2003, 2004, 2007, 2008, Nov. 29, 1990, 104 Stat. 4855, 4856; Pub. L. 102–239, §2, Dec. 17, 1991, 105 Stat. 1912; Pub. L. 103–447, title I, §102(d), Nov. 2, 1994, 108 Stat. 4693; Pub. L. 104–237, title II, §201(b), Oct. 3, 1996, 110 Stat. 3101.)
+(Pub. L. 91–513, title II, §511, Oct. 27, 1970, 84 Stat. 1276; Pub. L. 95–633, title III, §301(a), Nov. 10, 1978, 92 Stat. 3777; Pub. L. 96–132, §14, Nov. 30, 1979, 93 Stat. 1048; Pub. L. 98–473, title II, §§306, 309, 518, Oct. 12, 1984, 98 Stat. 2050, 2051, 2075; Pub. L. 99–570, title I, §§1006(c), 1865, 1992, Oct. 27, 1986, 100 Stat. 3207–7, 3207–54, 3207–59; Pub. L. 99–646, §74, Nov. 10, 1986, 100 Stat. 3618; Pub. L. 100–690, title V, §5105, title VI, §§6059, 6074, 6075, 6077(a), (b), 6253, Nov. 18, 1988, 102 Stat. 4301, 4319, 4323–4325, 4363; Pub. L. 101–189, div. A, title XII, §1215(a), Nov. 29, 1989, 103 Stat. 1569; Pub. L. 101–647, title XX, §§2003, 2004, 2007, 2008, Nov. 29, 1990, 104 Stat. 4855, 4856; Pub. L. 102–239, §2, Dec. 17, 1991, 105 Stat. 1912; Pub. L. 103–447, title I, §102(d), Nov. 2, 1994, 108 Stat. 4693; Pub. L. 104–237, title II, §201(b), Oct. 3, 1996, 110 Stat. 3101; Pub. L. 106–185, §§2(c)(2), 5(b), 8(b), Apr. 25, 2000, 114 Stat. 210, 214, 216.)
 
 #### References in Text
 
-Subchapter II of this chapter, referred to in subsecs. (a)(4)(A), (9), and (i), was in the original “title III”, meaning title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285. Part A of title III comprises subchapter II of this chapter. For classification of Part B, consisting of sections 1101 to 1105 of title III, see Tables.
+Subchapter II of this chapter, referred to in subsec. (a)(9), was in the original “title III”, meaning title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285. Part A of title III comprises subchapter II of this chapter. For classification of Part B, consisting of sections 1101 to 1105 of title III, see Tables.
 
 Section 1822 of the Mail Order Drug Paraphernalia Control Act, referred to in subsec. (a)(10), is section 1822 of Pub. L. 99–570, title I, Oct. 27, 1986, 100 Stat. 3207–51, which was repealed by Pub. L. 101–647, title XXIV, §2401(d), Nov. 29, 1990, 104 Stat. 4859. Prior to repeal, subsec. (d) of section 1822 of Pub. L. 99–570, which defined “drug paraphernalia”, was transferred to subsec. (d) of section 422 of title II of Pub. L. 91–513, the Controlled Substances Act. Section 422 of Pub. L. 91–513 is classified to section 863 of this title.
-
-The Federal Rules of Criminal Procedure, referred to in subsec. (b), are set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 
 The customs laws, referred to in subsec. (d), are classified generally to Title 19, Customs Duties.
 
 Schedules I and II, referred to in subsecs. (f) and (g), are set out in section 812(c) of this title.
 
 #### Amendments
+
+2000—Subsec. (a)(4). Pub. L. 106–185, §2(c)(2), struck out before period at end “, except that—
+
+&emsp;“(A) no conveyance used by any person as a common carrier in the transaction of business as a common carrier shall be forfeited under the provisions of this section unless it shall appear that the owner or other person in charge of such conveyance was a consenting party or privy to a violation of this subchapter or subchapter II of this chapter;
+
+&emsp;“(B) no conveyance shall be forfeited under the provisions of this section by reason of any act or omission established by the owner thereof to have been committed or omitted by any person other than such owner while such conveyance was unlawfully in the possession of a person other than the owner in violation of the criminal laws of the United States, or of any State; and
+
+&emsp;“(C) no conveyance shall be forfeited under this paragraph to the extent of an interest of an owner, by reason of any act or omission established by that owner to have been committed or omitted without the knowledge, consent, or willful blindness of the owner”.
+
+Subsec. (a)(6). Pub. L. 106–185, §2(c)(2), struck out before period at end “, except that no property shall be forfeited under this paragraph, to the extent of the interest of an owner, by reason of any act or omission established by that owner to have been committed or omitted without the knowledge or consent of that owner”.
+
+Subsec. (a)(7). Pub. L. 106–185, §2(c)(2), struck out before period at end “, except that no property shall be forfeited under this paragraph, to the extent of an interest of an owner, by reason of any act or omission established by that owner to have been committed or omitted without the knowledge or consent of that owner”.
+
+Subsec. (b). Pub. L. 106–185, §5(b), inserted heading and amended text of subsec. (b) generally. Prior to amendment, subsec. (b) authorized the Attorney General to seize property under this subchapter upon process issued pursuant to the Supplemental Rules for Certain Admirality and Maritime claims and to seize it without process in certain described circumstances.
+
+Subsec. (i). Pub. L. 106–185, §8(b), inserted heading and amended text of subsec. (i) generally. Prior to amendment, text read as follows: “The filing of an indictment or information alleging a violation of this subchapter or subchapter II of this chapter, or a violation of State or local law that could have been charged under this subchapter or subchapter II of this chapter, which is also related to a civil forfeiture proceeding under this section shall, upon motion of the United States and for good cause shown, stay the civil forfeiture proceeding.”
 
 1996—Subsec. (a)(2), (6). Pub. L. 104–237, §201(b)(1), inserted “or listed chemical” after “controlled substance”.
 
@@ -222,6 +218,10 @@ Subsecs. (h) to (j). Pub. L. 98–473, §306(f), added subsecs. (h) to (j).
 
 Subsec. (e). Pub. L. 95–633, §301(a)(2), (3), struck out of cl. (2) provisions relating to use of proceeds of sale and inserted last sentence relating to the forwarding by the Attorney General of money and proceeds remaining after payment of expenses.
 
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–185 applicable to any forfeiture proceeding commenced on or after the date that is 120 days after Apr. 25, 2000, see section 21 of Pub. L. 106–185, set out as a note under section 1324 of Title 8, Aliens and Nationality.
+
 #### Effective Date of 1989 Amendment
 
 Section 1215(b) of Pub. L. 101–189 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect as of October 1, 1989.”
@@ -234,7 +234,7 @@ Section 6077(c) of Pub. L. 100–690, as amended by Pub. L. 101–162, title II,
 
 #### Transfer of Functions
 
-Bureau of Narcotics and Dangerous Drugs, including office of Director thereof, in Department of Justiceabolished by Reorg. Plan No. 2 of 1973, eff. July 1, 1973, 38 F.R. 15932, 87 Stat. 1091, set out in the Appendix to Title 5, Government Organization and Employees. Reorg. Plan No. 2 of 1973 also created in Department of Justice a single, comprehensive agency for enforcement of drug laws to be known as Drug Enforcement Administration, empowered Attorney General to authorize performance by officers, employees, and agencies of Department of functions transferred to him, and directed Attorney General to coordinate all drug law enforcement functions to assure maximum cooperation between Drug Enforcement Administration, Federal Bureau of Investigation, and other units of Department of Justice involved in drug law enforcement.
+Bureau of Narcotics and Dangerous Drugs, including office of Director thereof, in Department of Justice abolished by Reorg. Plan No. 2 of 1973, eff. July 1, 1973, 38 F.R. 15932, 87 Stat. 1091, set out in the Appendix to Title 5, Government Organization and Employees. Reorg. Plan No. 2 of 1973 also created in Department of Justice a single, comprehensive agency for enforcement of drug laws to be known as Drug Enforcement Administration, empowered Attorney General to authorize performance by officers, employees, and agencies of Department of functions transferred to him, and directed Attorney General to coordinate all drug law enforcement functions to assure maximum cooperation between Drug Enforcement Administration, Federal Bureau of Investigation, and other units of Department of Justice involved in drug law enforcement.
 
 #### Constructive Seizure Procedures
 

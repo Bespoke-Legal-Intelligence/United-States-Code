@@ -2,7 +2,7 @@
 
 #### (a) Application
 
-To be eligible to receive assistance under this subchapter, a State shall prepare and submit to the Secretary an application at such time, in such manner, and containing such informationas the Secretary shall by rule require, including—
+To be eligible to receive assistance under this subchapter, a State shall prepare and submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary shall by rule require, including—
 
 &emsp;(1) an assurance that the State will comply with the requirements of this subchapter; and
 
@@ -32,7 +32,7 @@ The State plan contained in the application under subsection (a) of this section
 
 &emsp;&emsp;&emsp;&emsp;(II) to receive a child care certificate as defined in section 9858n(2) of this title;
 
-&emsp;&emsp;&emsp;(ii) in cases in which the parent selects the option described in clause (i)(I), the child will be enrolled with the eligible provider selected by the parent to the maximum extent practicable; and
+&emsp;&emsp;&emsp;(ii) in cases in which the parent selects the option described in clause (i)(I), thechild will be enrolled with the eligible provider selected by the parent to the maximum extent practicable; and
 
 &emsp;&emsp;&emsp;(iii) child care certificates offered to parents selecting the option described in clause (i)(II) shall be of a value commensurate with the subsidy value of child care services provided under the option described in clause (i)(I);
 
@@ -78,7 +78,7 @@ The State plan contained in the application under subsection (a) of this section
 
 #### (H) Meeting the needs of certain populations
 
-&emsp;&emsp;Demonstrate the manner in which the State will meet the specific child care needs of families who are receiving assistance under a State program under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\], families who are attempting through work activities to transition off ofsuch assistance program, and families that are at risk of becoming dependent on such assistance program.
+&emsp;&emsp;Demonstrate the manner in which the State will meet the specific child care needs of families who are receiving assistance under a State program under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\], families who are attempting through work activities to transition off of such assistance program, and families that are at risk of becoming dependent on such assistance program.
 
 #### (3) Use of block grant funds
 

@@ -6,7 +6,7 @@ subpart iii—scholarship program and loan repayment program
 
 #### Subpart Referred to in Other Sections
 
-This subpart is referred to in sections 247b–7, 254d, 288–1, 288–2, 288–3, 293b of this title; title 21 section 395.
+This subpart is referred to in sections 247b–7, 254d, 287c–33, 288–1, 288–2, 288–3, 288–5a, 288–6, 293b of this title; title 21 section 395.
 
 
 ---

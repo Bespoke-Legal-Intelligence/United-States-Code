@@ -12,10 +12,6 @@ Nor shall anything herein or in any other provision of law be construed to depri
 
 This Act, referred to in text, is Pub. L. 85–315, Sept. 9, 1957, 71 Stat. 634, as amended, known as the Civil Rights Act of 1957, which enacted this section, sections 1975 to 1975e of this title and section 295–1 of former Title 5, Executive Departments and Government Officers and Employees, repealed section 1993 of this title, amended section 1971 of this title and sections 1343 and 1861 of Title 28, Judiciary and Judicial Procedure, and enacted provisions set out as a note under section 1975 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1975 of this title and Tables.
 
-#### Cross References
-
-Jury trial of criminal contempts, see section 3691 of Title 18, Crimes and Criminal Procedure.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1973<i>l</i> of this title.

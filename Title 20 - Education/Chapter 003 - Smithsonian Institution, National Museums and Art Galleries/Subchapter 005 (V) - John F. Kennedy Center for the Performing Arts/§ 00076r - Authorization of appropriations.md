@@ -22,7 +22,7 @@ There are authorized to be appropriated to the Board to carry out subparagraphs 
 
 #### (c) Limitation on use of funds
 
-No funds appropriated pursuant to this section may be used for any direct expense incurred in the production of a performing arts attraction, for personnel who are involved in performing arts administration (including any supply or equipment used by the personnel), or for production, staging, public relations, marketing, fundraising, ticket sales, or education. Funds appropriated directly to the Board shall not affect nor diminish other Federal funds sought for any performing arts function and may be used to reimburse the Board for that portion of costs that are Federal costs reasonably allocated to building services and theater maintenance and repair.
+No funds appropriated pursuant to this section may be used for any direct expense incurred in the production of a performing arts attraction,for personnel who are involved in performing arts administration (including any supply or equipment used by the personnel), or for production, staging, public relations, marketing, fundraising, ticket sales, or education. Funds appropriated directly to the Board shall not affect nor diminish other Federal funds sought for any performing arts function and may be used to reimburse the Board for that portion of costs that are Federal costs reasonably allocated to building services and theater maintenance and repair.
 
 (Pub. L. 85–874, §12, as added Pub. L. 103–279, §7, July 21, 1994, 108 Stat. 1415; amended Pub. L. 105–226, §5, Aug. 12, 1998, 112 Stat. 1513.)
 

@@ -30,9 +30,13 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 
 1988—Subsecs. (a)(1), (b). Pub. L. 100–707 inserted “and along the shore areas of the Great Lakes” after “Atlantic and Gulf coasts”.
 
+#### Short Title of 2000 Amendment
+
+Pub. L. 106–514, §1, Nov. 13, 2000, 114 Stat. 2394, provided that: “This Act \[amending sections 3502, 3503, and 3510 of this title, repealing section 3509 of this title, enacting provisions set out as notes under this section and section 3503 of this title, and amending and repealing provisions set out as notes under section 3503 of this title\] may be cited as the ‘Coastal Barrier Resources Reauthorization Act of 2000’.”
+
 #### Short Title of 1999 Amendment
 
-Pub. L. 106–167, §1, Dec. 9, 1999, 113 Stat. 1803, provided that: “This Act \[amending this section and sections 3502, 3503, and 3509 of this title, section 1441a–3 of Title 12, Banks and Banking, and section 4028 of Title 42, The Public Health and Welfare, and enacting and amending provisions set out as notes under section 3503 of this title\] may be cited as the ‘John H. Chafee Coastal Barrier Resources System Act’.”
+Pub. L. 106–167, §1, Dec. 9, 1999, 113 Stat. 1803, provided that: “This Act \[amending this section and sections3502, 3503, and 3509 of this title, section 1441a–3 of Title 12, Banks and Banking, and section 4028 of Title 42, The Public Health and Welfare, and enacting and amending provisions set out as notes under section 3503 of this title\] may be cited as the ‘John H. Chafee Coastal Barrier Resources System Act’.”
 
 #### Short Title of 1990 Amendment
 
@@ -45,4 +49,22 @@ Section 204(a) of Pub. L. 100–707 provided that: “This section \[amending th
 #### Short Title
 
 Section 1 of Pub. L. 97–348 provided that: “This Act \[enacting this chapter, amending section 4028 of Title 42, The Public Health and Welfare, and repealing provisions set out as a note under section 4028 of Title 42\] may be cited as the ‘Coastal Barrier Resources Act’.”
+
+#### Economic Assessment of John H. Chafee Coastal Barrier Resources System
+
+Pub. L. 106–514, §7, Nov. 13, 2000, 114 Stat. 2397, provided that:
+
+“(a)
+
+In General.—Not later than 1 year after the date of enactment of this Act \[Nov. 13, 2000\], the Secretary of the Interior shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Resources of the House of Representatives an economic assessment of the John H. Chafee Coastal Barrier Resources System.
+
+“(b)
+
+Required Elements.—The assessment shall consider the impact on Federal expenditures of the Coastal Barrier Resources Act (16 U.S.C. 3501 et seq.), including impacts resulting from the avoidance of Federal expenditures for—
+
+&emsp;“(1) disaster relief under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.);
+
+&emsp;“(2) the national flood insurance program established under chapter 1 of the National Flood Insurance Act of 1968 (42 U.S.C. 4011 et seq.); and
+
+&emsp;“(3) development assistance for roads, potable water supplies, and wastewater infrastructure.”
 

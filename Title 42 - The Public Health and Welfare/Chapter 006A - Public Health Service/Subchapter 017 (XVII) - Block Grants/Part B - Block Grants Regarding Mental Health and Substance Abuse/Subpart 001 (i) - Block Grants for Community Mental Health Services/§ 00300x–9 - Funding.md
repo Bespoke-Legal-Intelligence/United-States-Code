@@ -2,7 +2,7 @@
 
 #### (a) Authorization of appropriations
 
-For the purpose of carrying out this subpart, and subpart III and section 290aa–4 of this title with respect to mental health, there are authorized to be appropriated $450,000,000 for fiscal year 1993, and such sums as may be necessary for fiscal year 1994.
+For the purpose of carrying out this subpart, and subpart III and section 290aa–4 of this title with respect to mental health, there are authorized to be appropriated $450,000,000 for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 and 2003.
 
 #### (b) Allocations for technical assistance, data collection, and program evaluation
 
@@ -12,13 +12,13 @@ For the purpose of carrying out this subpart, and subpart III and section 290aa�
 
 #### (2) Data collection
 
-&emsp;The purpose specified in this paragraph is carrying out section 290aa–4 of this title with respect to mental health.
+&emsp;The purpose specified in this paragraph is carrying out sections 290aa–4 and 300y of this title with respect to mental health.
 
 #### (3) Program evaluation
 
 &emsp;The purpose specified in this paragraph is the conduct of evaluations of prevention and treatment programs and services with respect to mental health to determine methods for improving the availability and quality of such programs and services.
 
-(July 1, 1944, ch. 373, title XIX, §1920, as added Pub. L. 102–321, title II, §201(2), July 10, 1992, 106 Stat. 388.)
+(July 1, 1944, ch. 373, title XIX, §1920, as added Pub. L. 102–321, title II, §201(2), July 10, 1992, 106 Stat. 388; amended Pub. L. 106–310, div. B, title XXXII, §3204(f), Oct. 17, 2000, 114 Stat. 1193.)
 
 #### Prior Provisions
 
@@ -39,6 +39,12 @@ Section 300x–11, act July 1, 1944, ch. 373, title XIX, §1925, formerly §1920
 Section 300x–12, act July 1, 1944, ch. 373, title XIX, §1926, formerly §1920D, as added Nov. 14, 1986, Pub. L. 99–660, title V, §502(2), 100 Stat. 3796; renumbered §1926 and amended Nov. 18, 1988, Pub. L. 100–690, title II, §2038(3), (5), 102 Stat. 4203; Aug. 16, 1989, Pub. L. 101–93, §2(<i>o</i>)(2), 103 Stat. 609; Nov. 28, 1990, Pub. L. 101–639, §3(c), 104 Stat. 4602, related to enforcement of requirement of developing State comprehensive mental health services plans.
 
 Section 300x–13, act July 1, 1944, ch. 373, title XIX, §1927, formerly §1920E, as added Nov. 14, 1986, Pub. L. 99–660, title V, §502(2), 100 Stat. 3797; renumbered §1927, Nov. 18, 1988, Pub. L. 100–690, title II, §2038(3), 102 Stat. 4203, related to development of model standards for provision of care to chronically mentally ill persons.
+
+#### Amendments
+
+2000—Subsec. (a). Pub. L. 106–310, §3204(f)(1), substituted “$450,000,000 for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 and 2003” for “$450,000,000 for fiscal year 1993, and such sums as may be necessary for fiscal year 1994”.
+
+Subsec. (b)(2). Pub. L. 106–310, §3204(f)(2), substituted “sections 290aa–4 and 300y of this title” for “section 290aa–4 of this title”.
 
 #### Section Referred to in Other Sections
 

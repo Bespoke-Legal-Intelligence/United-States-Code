@@ -54,14 +54,6 @@ Pub. L. 96–611, §10, Dec. 28, 1980, 94 Stat. 3573, provided that:
 
 &emsp;“(3) such other information as may assist in describing the activities of the Department of Justice in conformance with such intent.”
 
-#### Canal Zone
-
-Applicability of section to Canal Zone, see section 14 of this title.
-
-#### Federal Rules of Criminal Procedure
-
-Venue, generally, see rules 18 to 22, Appendix to this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 14 of this title.

@@ -4,7 +4,7 @@ Section 2611, Pub. L. 87–415, title III, §301, Mar. 15, 1962, 76 Stat. 30; Pu
 
 Section 2612, Pub. L. 87–415, title III, §302, Mar. 15, 1962, 76 Stat. 31; Pub. L. 89–15, §11, Apr. 26, 1965, 79 Stat. 79, required maintenance of a State effort as a prerequisite to approval of Federal financing.
 
-Section 2613, Pub. L. 87–415, title III, §303, Mar. 15, 1962, 76 Stat. 31, called for the utilization of availableservices and facilities of other Federal agencies and instrumentalities and of resources for skill development.
+Section 2613, Pub. L. 87–415, title III, §303, Mar. 15, 1962, 76 Stat. 31, called for the utilization of available services and facilities of other Federal agencies and instrumentalities and of resources for skill development.
 
 Section 2614, Pub. L. 87–415, title III, §304, Mar. 15, 1962, 76 Stat. 31; Pub. L. 88–214, §7, Dec. 19, 1963, 77 Stat. 424; Pub. L. 89–15, §12, Apr. 26, 1965, 79 Stat. 80; Pub. L. 89–792, §6(b), Nov. 7, 1966, 80 Stat. 1437; Pub. L. 90–636, §1(4), Oct. 24, 1968, 82 Stat. 1352, authorized appropriations.
 

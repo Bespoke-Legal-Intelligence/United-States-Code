@@ -22,9 +22,3 @@ Act Oct. 15, 1949, ch. 695, §4, 63 Stat. 880, formerly cited as a credit to thi
 
 Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, were not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
 
-#### Cross References
-
-Appointing power, see Const. Art. II, §2, cl. 2.
-
-Compensation of Comptroller, see section 5314 of Title 5, Government Organization and Employees.
-

@@ -32,17 +32,11 @@ Act May 8, 1914, as amended, is also popularly known as the “Agricultural Exte
 
 #### Transfer of Functions
 
-Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, §1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
+Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg.Plan No. 2, §1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
 #### Donation of Surplus Property to State Agricultural Extension Agencies
 
 Transfer of office equipment, materials, books and other supplies to State or county agencies engaged in cooperative agricultural extension work, see note set out under section 484 of Title 40, Public Buildings, Property, and Works.
-
-#### Cross References
-
-Agricultural experiment stations, see section 361a et seq. of this title.
-
-Penalty mail, authorization to use, see section 3202 of Title 39, Postal Service.
 
 #### Section Referred to in Other Sections
 

@@ -8,7 +8,7 @@ Each Committee established under section 3861 of this title shall meet regularly
 
 #### (1) Development of technical guides
 
-&emsp;Not later than one year after November 28, 1990, each State technical committee shall develop technical guides for the implementation of the wetland preservation and wildlife habitat improvement options of the agricultural water quality protection program under section 3838b <sup>1</sup> of this title. Each State technical committee shall establish criteria and guidelines for evaluating petitions by agriculturalproducers regarding new conservation practices and systems not already described in field office technical guides.
+&emsp;Not later than one year after November 28, 1990, each State technical committee shall develop technical guides for the implementation of the wetland preservation and wildlife habitat improvement options of the agricultural water quality protection program under section 3838b <sup>1</sup> of this title. Each State technical committee shall establish criteria and guidelines for evaluating petitions by agricultural producers regarding new conservation practices and systems not already described in field office technical guides.
 
 #### (2) Content of guides
 
@@ -18,7 +18,7 @@ Each Committee established under section 3861 of this title shall meet regularly
 
 #### (B) Standards and instructions
 
-&emsp;&emsp;The technical guides required under subsection (a) of this section shall provide standards and practical instructions for implementation of wetland protection and wildlife habitat improvement practices based on existing scientific and technical knowledge.
+&emsp;&emsp;The technical guides required under subsection (a) of this section shall providestandards and practical instructions for implementation of wetland protection and wildlife habitat improvement practices based on existing scientific and technical knowledge.
 
 #### (C) Contracts
 

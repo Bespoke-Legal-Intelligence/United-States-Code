@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary of the Interior (in this section and section 469<i>l</i> of this title referred to as the “Secretary”) shall establish in the National Park Service a program to be known as the “National Underground Railroad Network to Freedom” (in this section and section 469<i>l</i> of this title referred to as the “national network”). Under the program, the Secretary shall—
+The Secretary of the Interior (in sections 469<i>l</i> to 469<i>l</i>–2 of this title referred to as the “Secretary”) shall establish in the National Park Service a program to be known as the “National Underground Railroad Network to Freedom” (in sections 469<i>l</i> to 469<i>l</i>–2 of this title referred to as the “national network”). Under the program, the Secretary shall—
 
 &emsp;(1) produce and disseminate appropriate educational materials, such as handbooks, maps, interpretive guides, or electronic information;
 
@@ -22,7 +22,7 @@ The national network shall encompass the following elements:
 
 #### (c) Cooperative agreements and memoranda of understanding
 
-To achieve the purposes of this section and section 469<i>l</i> of this title and to ensure effective coordination of the Federal and non-Federal elements of the national network referred to in subsection (b) of this section with National Park Service units and programs, the Secretary may enter into cooperative agreements and memoranda of understanding with, and provide technical assistance to—
+To achieve the purposes of sections 469<i>l</i> to 469<i>l</i>–2 of this title and to ensure effective coordination of the Federal and non-Federal elements of the national network referred to in subsection (b) of this section with National Park Service units and programs, the Secretary may enter into cooperative agreements and memoranda of understanding with, and provide technical assistance to—
 
 &emsp;(1) the heads of other Federal agencies, States, localities, regional governmental bodies, and private entities; and
 
@@ -30,11 +30,11 @@ To achieve the purposes of this section and section 469<i>l</i> of this title an
 
 #### (d) Appropriations
 
-There are authorized to be appropriated to carry out this section and section 469<i>l</i> of this title not more than $500,000 for each fiscal year. No amounts may be appropriated for the purposes of this section and section 469<i>l</i> of this title except to the Secretary for carrying out the responsibilities of the Secretary as set forth in subsection (a) of this section.
+There are authorized to be appropriated to carry out sections 469<i>l</i> to 469<i>l</i>–2 of this title not more than $500,000 for each fiscal year. No amounts may be appropriated for the purposes of sections 469<i>l</i> to 469<i>l</i>–2 of this title except to the Secretary for carrying out the responsibilities of the Secretary as set forth in subsection (a) of this section.
 
 (Pub. L. 105–203, §3, July 21, 1998, 112 Stat. 679.)
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 469<i>l</i> of this title.
+This section is referred to in sections 469<i>l</i>, 469<i>l</i>–2 of this title.
 

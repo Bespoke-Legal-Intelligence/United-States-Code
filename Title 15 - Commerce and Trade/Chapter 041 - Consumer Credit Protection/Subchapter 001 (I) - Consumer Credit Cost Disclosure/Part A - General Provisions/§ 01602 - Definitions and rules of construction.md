@@ -38,7 +38,7 @@
 
 (s) The term “agricultural purposes” includes the production, harvest, exhibition, marketing, transportation, processing, or manufacture of agricultural products by a natural person who cultivates, plants, propagates, or nurtures those agricultural products, including but not limited to the acquisition of farmland, real property with a farm residence, and personal property and services used primarily in farming.
 
-(t) The term “agricultural products” includes agricultural, horticultural, viticultural, anddairy products, livestock, wildlife, poultry, bees, forest products, fish and shellfish, and any products thereof, including processed and manufactured products, and any and all products raised or produced on farms and any processed or manufactured products thereof.
+(t) The term “agricultural products” includes agricultural, horticultural, viticultural, and dairy products, livestock, wildlife, poultry, bees, forest products, fish and shellfish, and any products thereof, including processed and manufactured products, and any and all products raised or produced on farms and any processed or manufactured products thereof.
 
 (u) The term “material disclosures” means the disclosure, as required by this subchapter, of the annual percentage rate, the method of determining the finance charge and the balance upon which a finance charge will be imposed, the amount of the finance charge, the amount to be financed, the total of payments, the number and amount of payments, the due dates or periods of payments scheduled to repay the indebtedness, and the disclosures required by section 1639(a) of this title.
 
@@ -174,7 +174,7 @@ For effective date of amendment by Pub. L. 93–495, see section 308 of Pub. L. 
 
 #### Regulations
 
-Section 155 of title I of Pub. L. 103–325 provided that: “Not later than 180 days after the date of enactment of this Act \[Sept. 23, 1994\], the Board of Governors of the Federal Reserve System shall issue such regulations as may be necessary to carry out this subtitle \[subtitle B (§§151–158) of title I of Pub. L. 103–325, see Short Title of 1994 Amendment note set out under section 1601 ofthis title\], and such regulations shall become effective on the date on which disclosure regulations are required to become effective under section 105(d) of the Truth in Lending Act \[15 U.S.C. §1604(d)\].”
+Section 155 of title I of Pub. L. 103–325 provided that: “Not later than 180 days after the date of enactment of this Act \[Sept. 23, 1994\], the Board of Governors of the Federal Reserve System shall issue such regulations as may be necessary to carry out this subtitle \[subtitle B (§§151–158) of title I of Pub. L. 103–325, see Short Title of 1994 Amendment note set out under section 1601 of this title\], and such regulations shall become effective on the date on which disclosure regulations are required to become effective under section 105(d) of the Truth in Lending Act \[15 U.S.C. §1604(d)\].”
 
 #### Applicability of 1994 Amendments and Regulations to Subsection (aa) Mortgages
 

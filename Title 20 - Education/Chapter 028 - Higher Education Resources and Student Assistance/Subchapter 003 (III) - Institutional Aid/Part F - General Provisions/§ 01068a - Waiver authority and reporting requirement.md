@@ -8,7 +8,7 @@ The Secretary may waive the requirements set forth in section 1058(b)(1)(A) of t
 
 &emsp;(2) which serves a substantial number of low-income students as a percentage of its total student population;
 
-&emsp;(3) which is contributing substantially to increasing higher education opportunities for educationally disadvantaged, underrepresented, or minority students, who are low-income individuals;
+&emsp;(3) which is contributing substantially to increasing higher education opportunities foreducationally disadvantaged, underrepresented, or minority students, who are low-income individuals;
 
 &emsp;(4) which is substantially increasing higher educational opportunities for individuals in rural or other isolated areas which are unserved by postsecondary institutions;
 
@@ -22,11 +22,7 @@ The Secretary may waive the requirements set forth in section 1058(b)(1)(A) of t
 
 (1) The Secretary may waive the requirements set forth in section 1058(b)(1)(B) of this title if the Secretary determines, based on persuasive evidence submitted by the institution, that the institution's failure to meet that criterion is due to factors which, when used in the determination of compliance with such criterion, distort such determination, and that the institution's designation as an eligible institution under part A of this subchapter is otherwise consistent with the purposes of such parts.<sup>1</sup>
 
-(2) The Secretary shall submit to the Congress every other year a report concerning the institutions which, although not satisfying the criterion contained in section 1058(b)(1)(B) of this title, have been determined to be eligible institutions under part A institutions which enroll significant numbers of Black American, Hispanic, Native American, Asian American, or Native Hawaiian students under part A of this subchapter, as the case may be. Such report shall—
-
-&emsp;(A) identify the factors referred to in paragraph (1) which were considered by the Secretary as factors that distorted the determination of compliance with subparagraphs (A) and (B) of section 1058(b)(1) of this title; and
-
-&emsp;(B) contain a list of each institution determined to be an eligible institution under part A of this subchapter including a statement of the reasons for each such determination.
+(2) Omitted.
 
 (3) The Secretary may waive the requirement set forth in section 1058(b)(1)(E) <sup>2</sup> of this title in the case of an institution located on or near an Indian reservation or a substantial population of Indians, if the Secretary determines that the waiver will substantially increase higher education opportunities appropriate to the needs of American Indians.
 
@@ -37,6 +33,8 @@ The Secretary may waive the requirements set forth in section 1058(b)(1)(A) of t
 Section 1058(b)(1)(E) of this title, referred to in subsec. (b)(3), was repealed and section 1058(b)(1)(F) was redesignated section 1058(b)(1)(E) by Pub. L. 102–325, title III, §302(a)(1)(B), (C), July 23, 1992, 106 Stat. 472.
 
 #### Codification
+
+Subsec. (b)(2) of this section, which required the Secretary to submit a report to Congress every other year on institutions which, although not satisfying the criterion contained in section 1058(b)(1)(B) of this title, have been determined to be eligible institutions under part A of this subchapter, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 79 of House Document No. 103–7.
 
 Section was formerly classified to section 1067 of this title prior to renumbering by Pub. L. 105–244.
 

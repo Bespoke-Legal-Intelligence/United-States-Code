@@ -101,7 +101,7 @@ Contents of Implementation Plan.—In developing the implementation plan under s
 
 &emsp;“(1) in what circumstances the Secretary would exercise the new authority;
 
-&emsp;“(2) how the Secretary would determine that shippers, freight forwarders, brokers, consignees, or otherpersons committed violations described in subsection (a), including what types of evidence would be conclusive;
+&emsp;“(2) how the Secretary would determine that shippers, freight forwarders, brokers, consignees, or other persons committed violations described in subsection (a), including what types of evidence would be conclusive;
 
 &emsp;“(3) what procedures would be necessary during investigations to ensure the confidentiality of shipper contract terms prior to the Secretary's findings of violations;
 

@@ -64,7 +64,7 @@ Section is based on Pub. L. 98–525, title III, §307, Oct. 19, 1984, 98 Stat. 
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–261, div. A, title III, §343(b), Oct. 17, 1998, 112 Stat. 1976, provided that: “Subsection (c) of section 2464 of title 10, United States Code (as added by subsection (a)), shall apply with respect to determinations made after the date of the enactment of this Act \[Oct. 17, 1998\].”
+Pub. L. 105–261, div. A, title III, §343(b), Oct. 17, 1998, 112 Stat. 1976, provided that: “Subsection (c) of section 2464 of title 10, United States Code (as added by subsection (a)), shall apply with respect to determinationsmade after the date of the enactment of this Act \[Oct. 17, 1998\].”
 
 #### Conditions on Expansion of Functions Performed Under Prime Vendor Contracts for Depot-Level Maintenance and Repair
 
@@ -144,7 +144,7 @@ Content of Policy.—In developing the policy, the Secretary of Defense shall do
 
 &emsp;“(8) Require that, in any competition for a workload (whether among private-sector sources or between depot-level activities of the Department of Defense and private-sector sources), bids are evaluated under a methodology that ensures that appropriate costs to the Government and the private sector are identified.
 
-&emsp;“(9) Provide for the performance of maintenance and repair for any new weapons systems defined as core, under section 2464 of title 10, United States Code, in facilities owned and operated by the United States.
+&emsp;“(9) Provide for the performance of maintenance and repair for any new weapons systems defined ascore, under section 2464 of title 10, United States Code, in facilities owned and operated by the United States.
 
 “(e)
 

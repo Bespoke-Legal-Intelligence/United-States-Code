@@ -42,7 +42,17 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER IV—TEMPORARY ORGANIZATIONS ESTABLISHED BY LAW OR EXECUTIVE ORDER
+
+|  |  |
+| :--- | ---: |
+| [3161\.](Subchapter%20004%20%28IV%29%20-%20Temporary%20Organizations%20Established%20by%20Law%20or%20Executive%20Order/%C2%A7%2003161%20-%20Employment%20and%20compensation%20of%20employees.md) | Employment and compensation of employees. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Amendments
+
+2000—Pub. L. 106–398, §1 \[\[div. A\], title XI, §1101(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–310, added subchapter IV heading and item 3161.
 
 1997—Pub. L. 105–61, title VI, §638(b), Oct. 10, 1997, 111 Stat. 1317, added item 3113.
 
@@ -66,3 +76,4 @@ Pub. L. 95–251, §2(c)(2), Mar. 27, 1978, 92 Stat. 184, substituted “adminis
 - [Subchapter 001 (I) - Employment Authorities](Subchapter%20001%20%28I%29%20-%20Employment%20Authorities/README.md)
 - [Subchapter 002 (II) - The Senior Executive Service](Subchapter%20002%20%28II%29%20-%20The%20Senior%20Executive%20Service/README.md)
 - [Subchapter 003 (III) - The Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service](Subchapter%20003%20%28III%29%20-%20The%20Federal%20Bureau%20of%20Investigation%20and%20Drug%20Enforcement%20Administration%20Senior%20Executive%20Service/README.md)
+- [Subchapter 004 (IV) - Temporary Organizations Established by Law or Executive Order](Subchapter%20004%20%28IV%29%20-%20Temporary%20Organizations%20Established%20by%20Law%20or%20Executive%20Order/README.md)

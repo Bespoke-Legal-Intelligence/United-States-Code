@@ -98,7 +98,7 @@ The Secretary of Housing and Urban Development shall, on a quarterly basis, requ
 
 (3)(A) In disposing of surplus property by deed or lease under section 484 of title 40, the Administrator and the Secretary of Health and Human Services shall give priority of consideration to uses to assist the homeless, unless the Administrator or the Secretary of Health and Human Services determines that a competing request for the property under section 484(k) of title 40 is so meritorious and compelling as to outweigh the needs of the homeless.
 
-(B) Whenever the Administrator or the Secretary of Health and Human Services makes adetermination under subparagraph (A), the Administrator or the Secretary of Health and Human Services shall transmit to the appropriate committees of the Congress an explanatory statement detailing the need satisfied by conveyance of the surplus property and the reasons for determining that such need was so meritorious and compelling as to outweigh the needs of the homeless.
+(B) Whenever the Administrator or the Secretary of Health and Human Services makes a determination under subparagraph (A), the Administrator or the Secretary of Health and Human Services shall transmit to the appropriate committees of the Congress an explanatory statement detailing the need satisfied by conveyance of the surplus property and the reasons for determining that such need was so meritorious and compelling as to outweigh the needs of the homeless.
 
 (4) For any property made available by lease to a representative of the homeless before November 29, 1990, the Secretary of Health and Human Services may, upon written request by the representative, convey such property by deed to the representative in accordance with, and subject to the requirements of, section 484(k) of title 40. The lease term shall not be affected if a deed is not granted.
 
@@ -106,7 +106,7 @@ The Secretary of Housing and Urban Development shall, on a quarterly basis, requ
 
 The Secretary shall maintain a written public record of—
 
-&emsp;(1) the reasons for determinations of the Secretary under this section that property is suitable or unsuitable for use to assist the homeless; and
+&emsp;(1) the reasons for determinations of the Secretary under this section that property issuitable or unsuitable for use to assist the homeless; and
 
 &emsp;(2) the responses of landholding agencies under subsection (b)(1) of this section.
 
@@ -174,7 +174,7 @@ Section 401(b) of Pub. L. 101–645 provided that: “The amendment made by subs
 
 #### Regulations
 
-Section 401(d) of Pub. L. 101–645 provided that: “No later than 90 days after the date of the enactment ofthis Act \[Nov. 29, 1990\], the Administrator of General Services, the Secretary of Health and Human Services, and the Secretary of Housing and Urban Development shall promulgate regulations implementing this section and the amendment made by this section \[amending this section and enacting provisions set out as notes under this section\].”
+Section 401(d) of Pub. L. 101–645 provided that: “No later than 90 days after the date of the enactment of this Act \[Nov. 29, 1990\], the Administrator of General Services, the Secretary of Health and Human Services, and the Secretary of Housing and Urban Development shall promulgate regulations implementing this section and the amendment made by this section \[amending this section and enacting provisions set out as notes under this section\].”
 
 #### Consultation and Report Regarding Use of National Guard Facilities as Overnight Shelters for Homeless Individuals
 
@@ -198,7 +198,7 @@ Report.—The Secretary of Housing and Urban Development shall submit to the Con
 
 #### Unutilized and Underutilized Property for Purposes of 1990 Amendment
 
-Section 401(c) of Pub. L. 101–645 provided that: “For purposes of section 501 of the Stewart B. McKinney Homeless Assistance Act (42 U.S.C. 11411) (as amended by this Act) the terms ‘unutilized’ and ‘underutilized’ when used to describe property have the same meaning such terms had before the date of the enactment of this Act \[Nov. 29, 1990\] under such section 501.”
+Section 401(c) of Pub. L. 101–645, as amended by Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675, provided that: “For purposes of section 501 of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11411) (as amended by this Act) the terms ‘unutilized’ and ‘underutilized’ when used to describe property have the same meaning such terms had before the date of the enactment of this Act \[Nov. 29, 1990\] under such section 501.”
 
 #### Section Referred to in Other Sections
 

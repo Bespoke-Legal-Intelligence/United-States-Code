@@ -36,7 +36,7 @@
 
 (18)
 
-Suspension of stores pending review.—Notwithstanding any other provision of this subsection, any permanent disqualification of a retail food store or wholesale food concern under paragraph (3) or (4) of section 2021(b) of this title shall be effective from the date of receipt of the notice of disqualification. If the disqualification is reversed through administrative or judicial review, the Secretary shall not be liable for the value of any sales lost during the disqualification period.
+Suspension of stores pending review.—Notwithstanding any other provision of this subsection, any permanent disqualification of a retail food store or wholesale food concern under paragraph (3) or (4) of section 2021(b) of this title shall be effective from the date of receipt of the notice of disqualification. If the disqualificationis reversed through administrative or judicial review, the Secretary shall not be liable for the value of any sales lost during the disqualification period.
 
 (b) In any judicial action arising under this chapter, any food stamp allotments found to have been wrongfully withheld shall be restored only for periods of not more than one year prior to the date of the commencement of such action, or in the case of an action seeking review of a final State agency determination, not more than one year prior to the date of the filing of a request with the State for the restoration of such allotments or, in either case, not more than one year prior to the date the State agency is notified or otherwise discovers the possible loss to a household.
 
@@ -86,7 +86,7 @@ Amendment by Pub. L. 97–253 effective Sept. 8, 1982, see section 193(a) of Pub
 
 Amendment by Pub. L. 97–98 effective on earlier of Sept. 8, 1982, or date such amendment became effective pursuant to section 1338 of Pub. L. 97–98, set out as a note under section 2012 of this title, see section 192(b) of Pub. L. 97–253, set out as a note under section 2012 of this title.
 
-Amendment by Pub. L. 97–98 effective upon such date as Secretary of Agriculture may prescribe, taking intoaccount need for orderly implementation, see section 1338 of Pub. L. 97–98, set out as a note under section 2012 of this title.
+Amendment by Pub. L. 97–98 effective upon such date as Secretary of Agriculture may prescribe, taking into account need for orderly implementation, see section 1338 of Pub. L. 97–98, set out as a note under section 2012 of this title.
 
 #### Effective Date of 1977 Amendment
 

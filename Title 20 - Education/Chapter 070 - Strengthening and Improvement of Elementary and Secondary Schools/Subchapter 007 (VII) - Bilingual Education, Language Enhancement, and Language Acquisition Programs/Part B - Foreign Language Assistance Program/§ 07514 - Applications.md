@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Any State educational agency or local educational agency desiring a grant under this part shall submit an application to the Secretary atsuch time, in such form, and containing such information and assurances as the Secretary may require.
+Any State educational agency or local educational agency desiring a grant under this part shall submit an application to the Secretary at such time, in such form, and containing such information and assurances as the Secretary may require.
 
 #### (b) Special consideration
 

@@ -72,7 +72,7 @@ Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L
 
 #### Effective Date of 1976 Amendment
 
-For effective date of amendment by Pub. L. 94–582, see section 27 of Pub. L. 94–582, set out as a note under section 74 of this title.
+Amendment by Pub. L. 94–582 effective 30 days after Oct. 21, 1976, see section 27 of Pub. L. 94–582, as amended, set out as a note under section 74 of this title.
 
 #### Effective Date of 1968 Amendment
 
@@ -80,7 +80,7 @@ For effective date of amendment by Pub. L. 90–487, see section 2 of Pub. L. 90
 
 #### Benefits and Costs Associated With Improved Grain Quality
 
-Section 2003 of title XX of Pub. L. 101–624 provided that: “The Administrator of the Federal Grain Inspection Service shall estimate the economic impact, including the benefits and costs and the distribution ofsuch benefits and costs, of any major changes necessary to carry out the amendments made under this title to sections 4 and 13 of the United States Grain Standards Act (7 U.S.C. 76 and 87b) prior to making such changes.”
+Section 2003 of title XX of Pub. L. 101–624 provided that: “The Administrator of the Federal Grain Inspection Service shall estimate the economic impact, including the benefits and costs and the distribution of such benefits and costs, of any major changes necessary to carry out the amendments made under this title to sections 4 and 13 of the United States Grain Standards Act (7 U.S.C. 76 and 87b) prior to making such changes.”
 
 #### Revision of Grain Inspection Procedures To Reflect Levels of Insect Infestation
 
@@ -126,7 +126,7 @@ Section 1672 of Pub. L. 99–198 provided that:
 
 #### Investigation and Study Regarding Adequacy of Grain Standards; Changes in Standards; Report to Congress by October 21, 1978
 
-Section 24 of Pub. L. 94–582 provided for an investigation and study to be made by the Administrator of the Federal Grain Inspection Service regarding the adequacy of the grain standards established under this chapter in relation to the needs and concerns of domestic and foreign grain buyers, with the Administrator to seek the advice of or employ the services of representatives of the grain industry, land grant colleges and other members of the public, the study to address specifically, without being limited to determining (A) if standards may be developed that would reduce grading errors and remove, where possible, subjective human judgment from grading by increased utilization of mechanical, electrical, and chemical means of grading, (B) whether grain should be subclassed according to color or other factor not affecting the quality of the grain, (C) whether the protein factor should be included in the standards, and (D) whether broken grain should be grouped together with foreign material, and the Administrator, as a result of such study, to make necessary changes in the grain standards in accordance with section 75a of this title, and to submit a report to Congress setting forth the findings of the study and actions taken as a result thereof not later than two years after Oct. 21, 1976.
+Section 24 of Pub. L. 94–582, which provided for investigation and study by Administrator of the Federal Grain Inspection Service regarding adequacy of grain standards established under this chapter in relation to needs and concerns of domestic and foreign grain buyers, with Administrator, as result of such study, to make necessary changes in grain standards, and to submit report to Congress setting forth findings of study and actions taken as result thereof not later than two years after Oct. 21, 1976, was repealed by Pub. L. 106–472, title I, §110(b), Nov. 9, 2000, 114 Stat. 2061.
 
 #### Section Referred to in Other Sections
 

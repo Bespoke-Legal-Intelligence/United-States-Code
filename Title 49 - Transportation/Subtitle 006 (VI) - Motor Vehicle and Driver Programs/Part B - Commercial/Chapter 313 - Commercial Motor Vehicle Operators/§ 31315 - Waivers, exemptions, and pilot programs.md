@@ -76,7 +76,7 @@ Pilot Programs.—
 
 &emsp;(1)
 
-In general.—The Secretary may conduct pilot programs to evaluate alternatives to regulations relating to, or innovative approaches to, motor carrier, commercial motor vehicle, and driver safety. Such pilot programs may include exemptions from a regulation prescribed under this chapter or section 31136 if the pilot program contains, at a minimum, the elements described in paragraph (2). The Secretary shall publish in the Federal Register a detailed description of each pilot program, including the exemptions to be considered, and provide notice and an opportunity for public comment before the effective date of the program.
+In general.—The Secretary may conduct pilot programs to evaluate alternatives to regulations relating to, or innovative approaches to, motor carrier, commercial motor vehicle, and driver safety. Such pilot programs may include exemptions from a regulation prescribedunder this chapter or section 31136 if the pilot program contains, at a minimum, the elements described in paragraph (2). The Secretary shall publish in the Federal Register a detailed description of each pilot program, including the exemptions to be considered, and provide notice and an opportunity for public comment before the effective date of the program.
 
 &emsp;(2)
 

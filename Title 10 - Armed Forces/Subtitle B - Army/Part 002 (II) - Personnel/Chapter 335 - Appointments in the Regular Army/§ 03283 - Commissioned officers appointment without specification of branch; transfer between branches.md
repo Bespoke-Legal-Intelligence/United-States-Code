@@ -42,7 +42,3 @@ Subsec. (b). Pub. L. 95–485 struck out “and the Women's Army Corps” after 
 
 1958—Subsec. (a). Pub. L. 85–600 inserted reference to registrar of the Military Academy.
 
-#### Cross References
-
-Detailing members of Army from one branch for duty with another, see section 3065 of this title.
-

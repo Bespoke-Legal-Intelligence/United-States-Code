@@ -1,12 +1,12 @@
 ### §1905. Disclosure of confidential information generally
 
-Whoever, being an officer or employee of the United States or of any department or agencythereof, any person acting on behalf of the Office of Federal Housing Enterprise Oversight, or agent of the Department of Justice as defined in the Antitrust Civil Process Act (15 U.S.C. 1311–1314), publishes, divulges, discloses, or makes known in any manner or to any extent not authorized by law any information coming to him in the course of his employment or official duties or by reason of any examination or investigation made by, or return, report or record made to or filed with, such department or agency or officer or employee thereof, which information concerns or relates to the trade secrets, processes, operations, style of work, or apparatus, or to the identity, confidential statistical data, amount or source of any income, profits, losses, or expenditures of any person, firm, partnership, corporation, or association; or permits any income return or copy thereof or any book containing any abstract or particulars thereof to be seen or examined by any person except as provided by law; shall be fined under this title, or imprisoned not more than one year, or both; and shall be removed from office or employment.
+Whoever, being an officer or employee of the United States or of any department or agency thereof, any person acting on behalf of the Office of Federal Housing Enterprise Oversight, or agent of the Department of Justice as defined in the Antitrust Civil Process Act (15 U.S.C. 1311–1314), publishes, divulges, discloses, or makes known in any manner or to any extent not authorized by law any information coming to him in the course of his employment or official duties or by reason of any examination or investigation made by, or return, report or record made to or filed with, such department or agency or officer or employee thereof, which information concerns or relates to the trade secrets, processes, operations, style of work, or apparatus, or to the identity, confidential statistical data, amount or source of any income, profits, losses, or expenditures of any person, firm, partnership, corporation, or association; or permits any income return or copy thereof or any book containing any abstract or particulars thereof to be seen or examined by any person except as provided by law; shall be fined under this title, or imprisoned not more than one year, or both; and shall be removed from office or employment.
 
 (June 25, 1948, ch. 645, 62 Stat. 791; Pub. L. 96–349, §7(b), Sept. 12, 1980, 94 Stat. 1158; Pub. L. 102–550, title XIII, §1353, Oct. 28, 1992, 106 Stat. 3970; Pub. L. 104–294, title VI, §601(a)(8), Oct. 11, 1996, 110 Stat. 3498.)
 
 #### Historical and Revision Notes
 
-Based on section 176b of title 15, U.S.C., 1940 ed., Commerce and Trade; section 216 of title 18, U.S.C., 1940 ed.; section 1335 of title 19, U.S.C., 1940 ed., Customs Duties (R.S. §3167; Aug. 27, 1894, ch. 349, §24, 28 Stat. 557; Feb. 26, 1926, ch. 27, §1115, 44 Stat. 117; June 17, 1930, ch. 497, title III, §335, 46 Stat. 701; Jan. 27, 1938, ch. 11, §2, 52 Stat. 8).
+Based on section 176b of title 15, U.S.C., 1940 ed., Commerce and Trade; section 216 of title 18, U.S.C., 1940 ed.;section 1335 of title 19, U.S.C., 1940 ed., Customs Duties (R.S. §3167; Aug. 27, 1894, ch. 349, §24, 28 Stat. 557; Feb. 26, 1926, ch. 27, §1115, 44 Stat. 117; June 17, 1930, ch. 497, title III, §335, 46 Stat. 701; Jan. 27, 1938, ch. 11, §2, 52 Stat. 8).
 
 Section consolidates section 176b of title 15, U.S.C., 1940 ed., Commerce and Trade; section 216 of title 18, U.S.C., 1940 ed., and section 1335 of title 19, U.S.C., 1940 ed., Customs Duties.
 
@@ -29,10 +29,6 @@ The Antitrust Civil Process Act, referred to in text, is Pub. L. 87–664, Sept.
 1992—Pub. L. 102–550 inserted “any person acting on behalf of the Office of Federal Housing Enterprise Oversight,” after “or agency thereof,”.
 
 1980—Pub. L. 96–349 provided for punishment and removal from office of an agent of the Department of Justice as defined in the Antitrust Civil Process Act for disclosure of confidential information.
-
-#### Cross References
-
-Disclosure of income information by shareholders, see section 7213 of Title 26, Internal Revenue Code.
 
 #### Section Referred to in Other Sections
 

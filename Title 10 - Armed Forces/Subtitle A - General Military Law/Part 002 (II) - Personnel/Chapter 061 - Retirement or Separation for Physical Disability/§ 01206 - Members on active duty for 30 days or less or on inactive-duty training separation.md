@@ -1,6 +1,6 @@
 ### §1206. Members on active duty for 30 days or less or on inactive-duty training: separation
 
-Upon a determination by the Secretary concerned that a member of the armed forces not covered by section 1201, 1202, or 1203 of this title is unfit to perform the duties of his office, grade,rank, or rating because of physical disability, the member may be separated from his armed force, with severance pay computed under section 1212 of this title, if the Secretary also determines that—
+Upon a determination by the Secretary concerned that a member of the armed forces not covered by section 1201, 1202, or 1203 of this title is unfit to perform the duties of his office, grade, rank, or rating because of physical disability, the member may be separated from his armed force, with severance pay computed under section 1212 of this title, if the Secretary also determines that—
 
 &emsp;(1) the member has less than 20 years of service computed under section 1208 of this title;
 
@@ -84,11 +84,7 @@ Amendment by Pub. L. 102–484 effective with respect to disabilities incurred o
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–661 applicable with respect to persons who, after Nov. 14, 1986, incur or aggravatean injury, illness, or disease or die, see section 604(g) of Pub. L. 99–661, set out as a note under section 1074a of this title.
-
-#### Cross References
-
-Members on temporary disability retired list, separation under this section, see section 1210 of this title.
+Amendment by Pub. L. 99–661 applicable with respect to persons who, after Nov. 14, 1986, incur or aggravate an injury, illness, or disease or die, see section 604(g) of Pub. L. 99–661, set out as a note under section 1074a of this title.
 
 #### Section Referred to in Other Sections
 

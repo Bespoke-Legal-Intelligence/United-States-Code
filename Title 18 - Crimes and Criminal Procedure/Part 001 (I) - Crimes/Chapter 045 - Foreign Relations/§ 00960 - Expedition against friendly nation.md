@@ -1,6 +1,6 @@
 ### §960. Expedition against friendly nation
 
-Whoever, within the United States, knowingly begins or sets on foot or provides or prepares a means for or furnishes the money for, or takespart in, any military or naval expedition or enterprise to be carried on from thence against the territory or dominion of any foreign prince or state, or of any colony, district, or people with whom the United States is at peace, shall be fined under this title or imprisoned not more than three years, or both.
+Whoever, within the United States, knowingly begins or sets on foot or provides or prepares a means for or furnishes the money for, or takes part in, any military or naval expedition or enterprise to be carried on from thence against the territory or dominion of any foreign prince or state, or of any colony, district, or people with whom the United States is at peace, shall be fined under this title or imprisoned not more than three years, or both.
 
 (June 25, 1948, ch. 645, 62 Stat. 745; Pub. L. 103–322, title XXXIII, §330016(1)(J), Sept. 13, 1994, 108 Stat. 2147.)
 
@@ -15,18 +15,6 @@ Reference to territory or possessions of the United States was omitted as covere
 #### Amendments
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $3,000”.
-
-#### Canal Zone
-
-Applicability of section to Canal Zone, see section 14 of this title.
-
-#### Cross References
-
-Foreign transients, application of section to, see section 959 of this title.
-
-Jurisdiction of offenses, see section 3241 of this title.
-
-Letters, writings, etc., in violation of this section as nonmailable, see section 1717 of this title.
 
 #### Section Referred to in Other Sections
 

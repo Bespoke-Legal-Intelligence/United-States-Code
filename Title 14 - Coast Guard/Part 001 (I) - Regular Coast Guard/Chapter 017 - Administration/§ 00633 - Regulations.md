@@ -1,6 +1,6 @@
 ### §633. Regulations
 
-In addition to the authority conferred by other provisions of this title the Secretary may promulgate such regulations and orders as he deems appropriate to carry out the provisions of this title or any other law applicable to the Coast Guard.
+In addition to the authority conferred by other provisions of this title the Secretary maypromulgate such regulations and orders as he deems appropriate to carry out the provisions of this title or any other law applicable to the Coast Guard.
 
 (Aug. 4, 1949, ch. 393, 63 Stat. 545.)
 

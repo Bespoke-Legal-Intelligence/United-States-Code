@@ -24,13 +24,9 @@ Pub. L. 92–313, §1, June 16, 1972, 86 Stat. 216, provided: “That this Act \
 
 #### Short Title
 
-Section 1 of Pub. L. 86–249 provided: “That this Act \[enacting this chapter, amending section 490 of this title, and repealing sections 23, 24, 32, 33, 59, 254, 259,260, 262 to 265, 267, 268, 274 to 276, 277, 278, 282, 297 to 298, 298c, 341 to 342a, 344, 345, 346 to 350a, and 352 to 354 of this title\] may be cited as the ‘Public Buildings Act of 1959’.”
+Section 1 of Pub. L. 86–249 provided: “That this Act \[enacting this chapter, amending section 490 of this title, and repealing sections 23, 24, 32, 33, 59, 254, 259, 260, 262 to 265, 267, 268, 274 to 276, 277, 278, 282, 297 to 298, 298c, 341 to 342a, 344, 345, 346 to 350a, and 352 to 354 of this title\] may be cited as the ‘Public Buildings Act of 1959’.”
 
 #### Central Intelligence Agency Authorities
 
 Pub. L. 100–678, §9, Nov. 17, 1988, 102 Stat. 4053, provided that: “Nothing in this Act (including any amendment made by this Act \[see Short Title of 1988 Amendment note above\]) shall be construed to affect the authorities granted in sections 5, 6, and 8 of the Central Intelligence Agency Act of 1949 (50 U.S.C. 403f, 403g, and 403j).”
-
-#### Cross References
-
-Design and construction of public buildings to accommodate the physically handicapped, see section 4151 et seq. of Title 42, The Public Health and Welfare.
 

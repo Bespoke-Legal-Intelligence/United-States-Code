@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(J) issuance of securities of the debtor, or of any entity referred to in subparagraph (B) or (C) of this paragraph, for cash, for property, for existing securities, or in exchange for claims or interests, or for any other appropriate purpose;
 
-&emsp;(6) provide for the inclusion in the charter of the debtor, if the debtor is a corporation, or ofany corporation referred to in paragraph (5)(B) or (5)(C) of this subsection, of a provision prohibiting the issuance of nonvoting equity securities, and providing, as to the several classes of securities possessing voting power, an appropriate distribution of such power among such classes, including, in the case of any class of equity securities having a preference over another class of equity securities with respect to dividends, adequate provisions for the election of directors representing such preferred class in the event of default in the payment of such dividends; and
+&emsp;(6) provide for the inclusion in the charter of the debtor, if the debtor is a corporation, or of any corporation referred to in paragraph (5)(B) or (5)(C) of this subsection, of a provision prohibiting the issuance of nonvoting equity securities, and providing, as to the several classes of securities possessing voting power, an appropriate distribution of such power among such classes, including, in the case of any class of equity securities having a preference over another class of equity securities with respect to dividends, adequate provisions for the election of directors representing such preferred class in the event of default in the payment of such dividends; and
 
 &emsp;(7) contain only provisions that are consistent with the interests of creditors and equity security holders and with public policy with respect to the manner of selection of any officer, director, or trustee under the plan and any successor to such officer, director, or trustee.
 
@@ -58,7 +58,7 @@
 
 (d) Notwithstanding subsection (a) of this section and sections 506(b), 1129(a)(7), and 1129(b) of this title, if it is proposed in a plan to cure a default the amount necessary to cure the default shall be determined in accordance with the underlying agreement and applicable nonbankruptcy law.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2631; Pub. L. 98–353, title III, §507, July 10, 1984, 98 Stat. 385; Pub. L. 103–394, title II, §206, title III, §§304(h)(6), 305(a), title V, §501(d)(31), Oct. 22, 1994, 108 Stat. 4123, 4134, 4146.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2631; Pub. L. 98–353, title III, §507, July 10, 1984, 98 Stat. 385; Pub. L. 103–394, title II, §206, title III, §§304(h)(6),305(a), title V, §501(d)(31), Oct. 22, 1994, 108 Stat. 4123, 4134, 4146.)
 
 #### Historical and Revision Notes
 

@@ -156,14 +156,6 @@ Amendment by Pub. L. 91–547 effective Dec. 14, 1970, see section 30 of Pub. L.
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
-#### Cross References
-
-Sale of redeemable security by registered investment company, see section 80a–22 of this title.
-
-Unlawful transactions for registered investment companies, see section 80a–17 of this title.
-
-Value as to assets of registered investment companies, definition of, see section 80a–2 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 80a–2, 80a–3, 80a–6, 80a–10, 80a–17, 80a–22, 80a–59 of this title.

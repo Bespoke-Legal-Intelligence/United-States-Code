@@ -10,11 +10,11 @@ The Secretary may not make a grant under section 300k of this title unless—
 
 &emsp;(4) the description provides assurances that the grant funds will be used in the most cost-effective manner.
 
-(July 1, 1944, ch. 373, title XV, §1505, as added Pub. L. 101–354, §2, Aug. 10, 1990, 104 Stat. 414; amended Pub. L. 103–43, title XX, §2008(c)(2),June 10, 1993, 107 Stat. 211; Pub. L. 103–183, title I, §101(g)(2), Dec. 14, 1993, 107 Stat. 2229; Pub. L. 105–392, title IV, §401(b)(6), Nov. 13, 1998, 112 Stat. 3587.)
+(July 1, 1944, ch. 373, title XV, §1505, as added Pub. L. 101–354, §2, Aug. 10, 1990, 104 Stat. 414; amended Pub. L. 103–43, title XX, §2008(c)(2), June 10, 1993, 107 Stat. 211; Pub. L. 103–183, title I, §101(g)(2), Dec. 14, 1993, 107 Stat. 2229; Pub. L. 105–392, title IV, §401(b)(6), Nov. 13, 1998, 112 Stat. 3587.)
 
 #### Prior Provisions
 
-A prior section 300n–1, act July 1, 1944, ch. 373, title XV, §1532, as added Jan. 4, 1975, Pub. L. 93–641, §3, 88 Stat. 2251; amended Oct. 8, 1976, Pub. L. 94–460, title I, §117(a), 90 Stat. 1954; Nov. 9, 1978, Pub. L. 95–619, title III, §303(b), (c), 92 Stat. 3248; Oct. 4, 1979, Pub. L. 96–79, title I, §§103(d), 116, 117(b)(5), 93 Stat. 595, 610, 620; Dec. 17, 1980, Pub. L. 96–538, title III, §310, 94 Stat. 3192, provided for procedures and criteria for review of proposed health system changes, prior to repeal by Pub. L. 99–660, title VII, §701(a), Nov. 14, 1986, 100 Stat. 3799, effective Jan. 1, 1987.
+A prior section 300n–1, act July 1, 1944, ch. 373, title XV, §1532, as added Jan. 4, 1975, Pub. L. 93–641, §3, 88 Stat. 2251; amended Oct. 8, 1976, Pub. L. 94–460, title I, §117(a), 90 Stat. 1954; Nov. 9, 1978, Pub. L. 95–619, titleIII, §303(b), (c), 92 Stat. 3248; Oct. 4, 1979, Pub. L. 96–79, title I, §§103(d), 116, 117(b)(5), 93 Stat. 595, 610, 620; Dec. 17, 1980, Pub. L. 96–538, title III, §310, 94 Stat. 3192, provided for procedures and criteria for review of proposed health system changes, prior to repeal by Pub. L. 99–660, title VII, §701(a), Nov. 14, 1986, 100 Stat. 3799, effective Jan. 1, 1987.
 
 #### Amendments
 

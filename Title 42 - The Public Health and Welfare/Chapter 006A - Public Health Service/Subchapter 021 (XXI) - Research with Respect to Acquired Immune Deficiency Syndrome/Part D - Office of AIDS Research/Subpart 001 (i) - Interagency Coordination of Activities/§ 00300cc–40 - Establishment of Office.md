@@ -8,7 +8,7 @@ There is established within the National Institutes of Health an office to be kn
 
 #### (1) Interagency coordination of AIDS activities
 
-&emsp;With respect to acquired immune deficiency syndrome, the Director of the Office shall plan, coordinate, and evaluate research and other activities conducted or supported by the agencies of the National Institutes of Health. In carrying out the preceding sentence, the Director of the Office shall evaluate the AIDS activities of each of such agencies and shall provide for the periodic reevaluation of such activities.
+&emsp;With respect to acquired immune deficiency syndrome, the Director of the Office shall plan, coordinate, and evaluate research and other activities conducted or supported by the agencies of the National Institutes of Health. In carrying out the preceding sentence, the Director of the Office shall evaluate the AIDSactivities of each of such agencies and shall provide for the periodic reevaluation of such activities.
 
 #### (2) Consultations
 

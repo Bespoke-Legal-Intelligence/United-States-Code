@@ -22,7 +22,7 @@ This section shall apply with respect to—
 
 &emsp;(1) the lease or rental of a motor vehicle for a total period of 90 consecutive days or less; and
 
-&emsp;(2) insurance which is provided in connection with, and incidentally to, such lease or rentalfor a period of consecutive days not exceeding the lease or rental period.
+&emsp;(2) insurance which is provided in connection with, and incidentally to, such lease or rental for a period of consecutive days not exceeding the lease or rental period.
 
 #### (d) Motor vehicle defined
 

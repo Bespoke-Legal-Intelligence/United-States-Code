@@ -1,6 +1,6 @@
 ### §1462. Importation or transportation of obscene matters
 
-Whoever brings into the United States, or any place subject to the jurisdiction thereof, or knowingly uses any express company or other common carrier or interactive computer service (as defined in section 230(e)(2) of the Communications Act of 1934), for carriage in interstate or foreign commerce—
+Whoever brings into the United States, or any place subject to the jurisdiction thereof, or knowingly uses any express company or other common carrier or interactive computer service (as defined in section 230(e)(2) <sup>1</sup> of the Communications Act of 1934), for carriage in interstate or foreign commerce—
 
 &emsp;(a) any obscene, lewd, lascivious, or filthy book, pamphlet, picture, motion-picture film, paper, letter, writing, print, or other matter of indecent character; or
 
@@ -8,7 +8,7 @@ Whoever brings into the United States, or any place subject to the jurisdiction 
 
 &emsp;(c) any drug, medicine, article, or thing designed, adapted, or intended for producing abortion, or for any indecent or immoral use; or any written or printed card, letter, circular, book, pamphlet, advertisement, or notice of any kind giving information, directly or indirectly, where, how, or of whom, or by what means any of such mentioned articles, matters, or things may be obtained or made; or
 
-Whoever knowingly takes or receives, from such express company or other common carrier or interactive computer service (as defined in section 230(e)(2) of the Communications Act of 1934) any matter or thing the carriage or importation of which is herein made unlawful—
+Whoever knowingly takes or receives, from such express company or other common carrier or interactive computer service (as defined in section 230(e)(2) <sup>1</sup> of the Communications Act of 1934) any matter or thing the carriage or importation of which is herein made unlawful—
 
 Shall be fined under this title or imprisoned not more than five years, or both, for the first such offense and shall be fined under this title or imprisoned not more than ten years, or both, for each such offense thereafter.
 
@@ -28,7 +28,7 @@ Minor changes in phraseology were made.
 
 #### References in Text
 
-Section 230(e)(2) of the Communications Act of 1934, referred to in text, is classified to section 230(e)(2) of Title 47, Telegraphs, Telephones, and Radiotelegraphs.
+Section 230(e)(2) of the Communications Act of 1934, referred to in text, was redesignated section 230(f)(2) ofthe Communications Act of 1934 by Pub. L. 105–277, div. C, title XIV, §1404(a)(2), Oct. 21, 1998, 112 Stat. 2681–739, and is classified to section 230(f)(2) of Title 47, Telegraphs, Telephones, and Radiotelegraphs.
 
 #### Amendments
 
@@ -52,11 +52,9 @@ Amendment by Pub. L. 91–662 effective Jan. 9, 1971, see section 7 of Pub. L. 9
 
 Section 507(c) of Pub. L. 104–104 provided that: “The amendments made by this section \[amending this section and section 1465 of this title\] are clarifying and shall not be interpreted to limit or repeal any prohibition contained in sections 1462 and 1465 of title 18, United States Code, before such amendment, under the rule established in United States v. Alpers, 338 U.S. 680 (1950).”
 
-#### Cross References
-
-Importation of immoral articles prohibited, see section 1305 of Title 19, Customs Duties.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1961 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

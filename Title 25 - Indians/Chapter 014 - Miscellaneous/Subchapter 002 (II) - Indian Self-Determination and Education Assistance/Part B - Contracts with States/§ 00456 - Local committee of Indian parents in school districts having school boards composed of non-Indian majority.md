@@ -12,7 +12,7 @@ The Secretary of the Interior may, in his discretion, revoke any contract if the
 
 #### References in Text
 
-Section 7814(c)(4) of title 20, referred to in subsec. (a), was in the original “section 9104(c)(4) of the Elementary and Secondary Education Act of 1965”, meaning section 9104(c)(4) of Pub. L. 89–10, which was translated as reading section 9114(c)(4) of Pub. L. 89–10 to reflect the probable intent of Congress, because Pub. L. 89–10 does not contain a section 9104, but it does contain a section 9114 which in subsec. (c)(4) relates to committees of parents of Indian children.
+Section 7814(c)(4) of title 20, referred to in subsec. (a), was in the original “section 9104(c)(4) of the Elementary and Secondary Education Act of 1965”, meaning section 9104(c)(4) of Pub. L. 89–10, which was translatedas reading section 9114(c)(4) of Pub. L. 89–10 to reflect the probable intent of Congress, because Pub. L. 89–10 does not contain a section 9104, but it does contain a section 9114 which in subsec. (c)(4) relates to committees of parents of Indian children.
 
 #### Prior Provisions
 

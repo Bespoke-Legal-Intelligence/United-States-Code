@@ -6,7 +6,7 @@ For the reasons hereinafter enumerated, transactions in securities as commonly c
 
 &emsp;(2) The prices established and offered in such transactions are generally disseminated and quoted throughout the United States and foreign countries and constitute a basis for determining and establishing the prices at which securities are bought and sold, the amount of certain taxes owing to the United States and to the several States by owners, buyers, and sellers of securities, and the value of collateral for bank loans.
 
-&emsp;(3) Frequently the prices of securities on such exchanges and markets are susceptible to manipulation and control, and the dissemination of such prices gives rise to excessive speculation, resulting in sudden and unreasonable fluctuations in the prices of securities which (a) cause alternately unreasonable expansion and unreasonable contraction of the volume of credit available for trade, transportation, and industry in interstate commerce, (b) hinder the proper appraisal of the value of securities and thus prevent a fair calculation of taxesowing to the United States and to the several States by owners, buyers, and sellers of securities, and (c) prevent the fair valuation of collateral for bank loans and/or obstruct the effective operation of the national banking system and Federal Reserve System.
+&emsp;(3) Frequently the prices of securities on such exchanges and markets are susceptible to manipulation and control, and the dissemination of such prices gives rise to excessive speculation, resulting in sudden and unreasonable fluctuations in the prices of securities which (a) cause alternately unreasonable expansion and unreasonable contraction of the volume of credit available for trade, transportation, and industry in interstate commerce, (b) hinder the proper appraisal of the value of securities and thus prevent a fair calculation of taxes owing to the United States and to the several States by owners, buyers, and sellers of securities, and (c) prevent the fair valuation of collateral for bank loans and/or obstruct the effective operation of the national banking system and Federal Reserve System.
 
 &emsp;(4) National emergencies, which produce widespread unemployment and the dislocation of trade, transportation, and industry, and which burden interstate commerce and adversely affect the general welfare, are precipitated, intensified, and prolonged by manipulation and sudden and unreasonable fluctuations of security prices and by excessive speculation on such exchanges and markets, and to meet such emergencies the Federal Government is put to such great expense as to burden the national credit.
 
@@ -190,7 +190,7 @@ Sec. 2. The Secretary of Commerce, with respect to the collection and use of dat
 
 (e) the compilation of data and preparation of evaluations of significant investment transactions; and
 
-(f) the submission to the Committee of appropriate reports, analyses, data and recommendations relatingto foreign investment in the United States, including recommendations as to how information on foreign investment can be kept current.
+(f) the submission to the Committee of appropriate reports, analyses, data and recommendations relating to foreign investment in the United States, including recommendations as to how information on foreign investment can be kept current.
 
 Sec. 3. The Secretary of the Treasury is authorized, without further approval of the President, to make reasonable use of the resources of the Exchange Stabilization Fund, in accordance with section 10 of the Gold Reserve Act of 1934, as amended (31 U.S.C. 822a) \[31 U.S.C. 5302\], to pay any of the expenses directly incurred by the Secretary of Commerce in the performance of the functions and activities provided by this order. This authority shall be in effect for one year, unless revoked prior thereto.
 
@@ -241,16 +241,4 @@ Sec. 3. <i>Administration</i>. (a) The heads of Executive departments, agencies,
 (c) To the extent permitted by law and subject to the availability of funds therefor, the Department of the Treasury shall provide the Working Group with such administrative and support services as may be necessary for the performance of its functions.
 
 Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Cross References
-
-Findings and declaration of policy under Investment Company Act of 1940, see section 80a–1 of this title.
-
-Findings under Investment Advisers Act of 1940, see section 80b–1 of this title.
-
-Necessity for—
-
-&emsp;&emsp;Control of holding companies, see section 79a of this title.
-
-&emsp;&emsp;Regulation under Trust Indenture Act of 1939, see section 77bbb of this title.
 

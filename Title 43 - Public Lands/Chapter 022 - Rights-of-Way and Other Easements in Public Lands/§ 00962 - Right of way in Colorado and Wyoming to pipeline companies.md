@@ -1,6 +1,6 @@
 ### §962. Right of way in Colorado and Wyoming to pipeline companies
 
-The right of way through the public lands of the United States situate in the State of Colorado and in the State of Wyoming outside of the boundary lines of the Yellowstone National Park is granted to any pipe-line company or corporation formed for the purpose of transporting oils, crude or refined, which shall have filed or may hereafter file with the Secretary of the Interior a copy of its articles of incorporation, and due proofs of its organization under the same, to the extent of the ground occupied by said pipe line and twenty-five feet on each side of the center line of the same; also the right to take from the public lands adjacent to the line of said pipe line, material, earth, and stone necessary for the construction of said pipe line.
+The right of way through the public lands of the United States situate in the State of Colorado and in the State of Wyoming outside of theboundary lines of the Yellowstone National Park is granted to any pipe-line company or corporation formed for the purpose of transporting oils, crude or refined, which shall have filed or may hereafter file with the Secretary of the Interior a copy of its articles of incorporation, and due proofs of its organization under the same, to the extent of the ground occupied by said pipe line and twenty-five feet on each side of the center line of the same; also the right to take from the public lands adjacent to the line of said pipe line, material, earth, and stone necessary for the construction of said pipe line.
 
 (May 21, 1896, ch. 212, §1, 29 Stat. 127.)
 
@@ -15,10 +15,6 @@ Sections 962 to 965 of this title are popularly known as the “Oil Pipe Line Ac
 #### Savings Provision
 
 Repeal by Pub. L. 94–579 insofar as applicable to the issuance of rights-of-way not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under section 1701 of this title.
-
-#### Cross References
-
-Right-of-way through public lands for pipe lines for transportation of oil or natural gas, see section 185 of Title 30, Mineral Lands and Mining.
 
 #### Section Referred to in Other Sections
 

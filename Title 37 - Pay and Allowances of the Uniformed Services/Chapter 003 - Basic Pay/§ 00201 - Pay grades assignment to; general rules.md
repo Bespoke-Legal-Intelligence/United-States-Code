@@ -167,10 +167,6 @@ Section 14 of Pub. L. 88–132 provided that: “This Act \[see Short Title of 1
 
 Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service, transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out in the Appendix to Title 5, Government Organization and Employees. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 3508(b) of Title 20, Education.
 
-#### Cross References
-
-Warrant officer grades, see section 571 of Title 10, Armed Forces.
-
 Section Referred to in Other Sections
 
 This section is referred to in title 2 section 1602; title 10 section 571; title 18 section 207.

@@ -1,8 +1,44 @@
 ### §1505. Management of Corporation
 
-#### (a) Establishment, composition, and appointment of Board
+#### (a) Board of Directors
 
-The management of the Corporation shall be vested in a Board subject to the general supervision of the Secretary. The Board shall consist of the manager of the Corporation, the Under Secretary of Agriculture responsible for the Federal crop insurance program, one additional Under Secretary of Agriculture (as designated by the Secretary of Agriculture), one person experienced in the crop insurance business who is not otherwise employed by the Federal Government, and three active farmers who are not otherwise employed by the Federal Government. The Board shall be appointed by, and hold office at the pleasure of, the Secretary. The Secretary shall not be a member of the Board. The Secretary, in appointing the three active farmers who are not otherwise employed by the Federal Government, shall ensure that such members are policyholders and are from different geographic areas of the United States, in order that diverse agricultural interests in the United States are at all times represented on the Board.
+#### (1) Establishment
+
+&emsp;The management of the Corporation shall be vested in a Board of Directors subject to the general supervision of the Secretary.
+
+#### (2) Composition
+
+&emsp;The Board shall consist of only the following members:
+
+&emsp;&emsp;(A) The manager of the Corporation, who shall serve as a nonvoting ex officio member.
+
+&emsp;&emsp;(B) The Under Secretary of Agriculture responsible for the Federal crop insurance program.
+
+&emsp;&emsp;(C) One additional Under Secretary of Agriculture (as designated by the Secretary).
+
+&emsp;&emsp;(D) The Chief Economist of the Department of Agriculture.
+
+&emsp;&emsp;(E) One person experienced in the crop insurance business.
+
+&emsp;&emsp;(F) One person experienced in reinsurance or the regulation of insurance.
+
+&emsp;&emsp;(G) Four active producers who are policy holders, are from different geographic areas of the United States, and represent a cross-section of agricultural commodities grown in the United States, including at least one specialty crop producer.
+
+#### (3) Appointment of private sector members
+
+&emsp;The members of the Board described in subparagraphs (E), (F), and (G) of paragraph (2)—
+
+&emsp;&emsp;(A) shall be appointed by, and hold office at the pleasure of, the Secretary;
+
+&emsp;&emsp;(B) shall not be otherwise employed by the Federal Government;
+
+&emsp;&emsp;(C) shall be appointed to staggered 4-year terms, as determined by the Secretary; and
+
+&emsp;&emsp;(D) shall serve not more than two consecutive terms.
+
+#### (4) Chairperson
+
+&emsp;The Board shall select a member of the Board to serve as Chairperson.
 
 #### (b) Vacancies
 
@@ -16,9 +52,53 @@ The Directors of the Corporation who are employed in the Department shall receiv
 
 The manager of the Corporation shall be its chief executive officer, with such power and authority as may be conferred by the Board. The manager shall be appointed by, and hold office at the pleasure of, the Secretary.
 
-(Feb. 16, 1938, ch. 30, title V, §505, 52 Stat. 72; Aug. 1, 1947, ch. 440, §8, 61 Stat. 719; Aug. 25, 1949, ch. 512, §7, 63 Stat. 665; Pub. L. 96–365, title I, §102, Sept. 26, 1980, 94 Stat. 1312; Pub. L. 103–354, title I, §§102(b)(3), (4), 103, 115(a), Oct. 13, 1994, 108 Stat. 3181, 3204.)
+#### (e) Expert review of policies, plans of insurance, and related material
+
+#### (1) Review by experts
+
+&emsp;The Board shall establish procedures under which any policy or plan of insurance, as well as any related material or modification of such a policy or plan of insurance, to be offered under this chapter shall be subject to independent reviews by persons experienced as actuaries and in underwriting, as determined by the Board.
+
+#### (2) Review of Corporation policies and plans
+
+&emsp;Except as provided in paragraph (3), the Board shall contract with at least five persons to each conduct a review of the policy or plan of insurance, of whom—
+
+&emsp;&emsp;(A) not more than one person may be employed by the Federal Government; and
+
+&emsp;&emsp;(B) at least one person must be designated by approved insurance providers pursuant to procedures determined by the Board.
+
+#### (3) Review of private submissions
+
+&emsp;If the reviews under paragraph (1) cover a policy or plan of insurance, or any related material or modification of a policy or plan of insurance, submitted under section 1508(h) of this title—
+
+&emsp;&emsp;(A) the Board shall contract with at least five persons to each conduct a review of the policy or plan of insurance, of whom—
+
+&emsp;&emsp;&emsp;(i) not more than one person may be employed by the Federal Government; and
+
+&emsp;&emsp;&emsp;(ii) none may be employed by an approved insurance provider; and
+
+&emsp;&emsp;(B) each review must be completed and submitted to the Board not later than 30 days prior to the end of the 120-day period described in section 1508(h)(4)(D) of this title.
+
+#### (4) Consideration of reviews
+
+&emsp;The Board shall include reviews conducted under this subsection as part of the consideration of any policy or plan or insurance, or any related material or modification of a policy or plan of insurance, proposed to be offered under this chapter.
+
+#### (5) Funding of reviews
+
+&emsp;Each contract to conduct a review under this subsection shall be funded from amounts made available under section 1516(b)(2)(A)(ii) of this title.
+
+#### (6) Relation to other authority
+
+&emsp;The contract authority provided in this subsection is in addition to any other contracting authority that may be exercised by the Board under section 1506(<i>l</i>) of this title.
+
+(Feb. 16, 1938, ch. 30, title V, §505, 52 Stat. 72; Aug. 1, 1947, ch. 440, §8, 61 Stat. 719; Aug. 25, 1949, ch. 512, §7, 63 Stat. 665; Pub. L. 96–365, title I, §102, Sept. 26, 1980, 94 Stat. 1312; Pub. L. 103–354, title I, §§102(b)(3), (4), 103, 115(a), Oct. 13, 1994, 108 Stat. 3181, 3204; Pub. L. 106–224, title I, §142(a)(1), (b), June 20, 2000, 114 Stat. 389, 390.)
 
 #### Amendments
+
+2000—Pub. L. 106–224, §142(a)(1), inserted section catchline.
+
+Subsec. (a). Pub. L. 106–224, §142(a)(1), added heading and text of subsec. (a) and struck out former subsec. (a) which read as follows: “The management of the Corporation shall be vested in a Board subject to the general supervision of the Secretary. The Board shall consist of the manager of the Corporation, the Under Secretary of Agriculture responsible for the Federal crop insurance program, one additional Under Secretary of Agriculture (as designated by the Secretary of Agriculture), one person experienced in the crop insurance business who is not otherwise employed by the Federal Government, and three active farmers who are not otherwise employed by the Federal Government. The Board shall be appointed by, and hold office at the pleasure of, the Secretary. The Secretary shall not be a member of the Board. The Secretary, in appointing the three active farmers who are not otherwise employed by the Federal Government, shall ensure that such members are policyholders and are from different geographic areas of the United States, in order that diverse agricultural interests in the United States are at all times represented on the Board.”
+
+Subsec. (e). Pub. L. 106–224, §142(b), added subsec. (e).
 
 1994—Subsec. (a). Pub. L. 103–354, §102(b)(3), (4)(A), (C), in first sentence struck out “of Directors (hereinafter called the ‘Board’)” after “Board” and “of Agriculture” after “Secretary”.
 
@@ -56,11 +136,23 @@ Administration of program of Federal Crop Insurance Corporation transferred to S
 
 Wartime consolidation of Federal Crop Insurance Corporation into Agricultural Conservation and Adjustment Administration, see note set out under section 1503 of this title.
 
+#### Appointment of Board of Directors Beginning February 1, 2001
+
+Pub. L. 106-224, title I, §142(a)(2), (3), June 20, 2000, 114 Stat. 390, provided that:
+
+“(2)
+
+Implementation.—The initial members of the Board of Directors of the Federal Crop Insurance Corporation required to be appointed under section 505(a)(3) of the Federal Crop Insurance Act \[7 U.S.C. 1505(a)(3)\] (as amended by paragraph (1)) shall be appointed during the period beginning February 1, 2001, and ending April 1, 2001.
+
+“(3)
+
+Effect on existing board.—A member of the Board of Directors of the Federal Crop Insurance Corporation on the date of the enactment of this Act \[June 20, 2000\] may continue to serve as a member of the Board until the members referred to in paragraph (2) are first appointed.”
+
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1502 of this title.
+This section is referred to in sections 1502, 1516 of this title.
 

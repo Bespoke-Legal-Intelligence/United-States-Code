@@ -6,7 +6,7 @@
 
 (3) An appeal may not be taken in forma pauperis if the trial court certifies in writing that it is not taken in good faith.
 
-(b)(1) Notwithstanding subsection (a), if a prisoner brings a civil action or files an appeal informa pauperis, the prisoner shall be required to pay the full amount of a filing fee. The court shall assess and, when funds exist, collect, as a partial payment of any court fees required by law, an initial partial filing fee of 20 percent of the greater of—
+(b)(1) Notwithstanding subsection (a), if a prisoner brings a civil action or files an appeal in forma pauperis, the prisoner shall be required to pay the full amount of a filing fee. The court shall assess and, when funds exist, collect, as a partial payment of any court fees required by law, an initial partial filing fee of 20 percent of the greater of—
 
 &emsp;(A) the average monthly deposits to the prisoner's account; or
 
@@ -18,7 +18,7 @@
 
 (4) In no event shall a prisoner be prohibited from bringing a civil action or appealing a civil or criminal judgment for the reason that the prisoner has no assets and no means by which to pay the initial partial filing fee.
 
-(c) Upon the filing of an affidavit in accordance with subsections (a) and (b) and the prepayment of any partial filing fee as may be required under subsection (b), the court may direct payment by the United States of the expenses of (1) printing the record on appeal in any civil or criminal case, if such printing is required by the appellate court; (2) preparing a transcript of proceedings before a United States magistrate in any civil or criminal case, if such transcript is required by the district court, in the case of proceedings conducted under section 636(b) of this title or under section 3401(b) of title 18, United States Code; and (3) printing the record on appeal if such printing is required by the appellate court, in the case of proceedings conducted pursuant to section 636(c) of this title. Such expenses shall be paid when authorized by the Director of the Administrative Office of the United States Courts.
+(c) Upon the filing of an affidavit in accordance with subsections (a) and (b) and the prepayment of any partial filing fee as may be required under subsection (b), the court may direct payment by the United States of the expenses of (1) printing the record on appeal in any civil or criminal case, if such printing is required by the appellate court; (2) preparing a transcript of proceedings before a United States magistrate judge in any civil or criminal case, if such transcript is required by the district court, in the case of proceedings conducted under section 636(b) of this title or under section 3401(b) of title 18, United States Code; and (3) printing the record on appeal if such printing is required by the appellate court, in the case of proceedings conducted pursuant to section 636(c) of this title. Such expenses shall be paid when authorized by the Director of the Administrative Office of the United States Courts.
 
 (d) The officers of the court shall issue and serve all process, and perform all duties in such cases. Witnesses shall attend as in other cases, and the same remedies shall be available as are provided for by law in other cases.
 
@@ -48,7 +48,7 @@
 
 (h) As used in this section, the term “prisoner” means any person incarcerated or detained in any facility who is accused of, convicted of, sentenced for, or adjudicated delinquent for, violations of criminal law or the terms and conditions of parole, probation, pretrial release, or diversionary program.
 
-(June 25, 1948, ch. 646, 62 Stat. 954; May 24, 1949, ch. 139, §98, 63 Stat. 104; Oct. 31, 1951, ch. 655, §51(b), (c), 65 Stat. 727; Pub. L. 86–320, Sept. 21, 1959, 73 Stat. 590; Pub. L. 96–82, §6, Oct. 10, 1979, 93 Stat. 645; Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §804(a), (c)–(e)\], Apr. 26, 1996, 110 Stat. 1321, 1321–73 to 1321–75; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
+(June 25, 1948, ch. 646, 62 Stat. 954; May 24, 1949, ch. 139, §98, 63 Stat. 104; Oct. 31, 1951, ch. 655, §51(b), (c), 65 Stat. 727; Pub. L. 86–320, Sept. 21, 1959, 73 Stat. 590; Pub. L. 96–82, §6, Oct. 10, 1979, 93 Stat. 645; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §804(a), (c)–(e)\], Apr. 26, 1996, 110 Stat. 1321, 1321–73 to 1321–75; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
 
 #### Historical and Revision Notes
 
@@ -78,7 +78,7 @@ This amendment clarifies the meaning of subsection (b) of section 1915 of title 
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–134, §101\[(a)\] \[title VIII, §804(a)(1)\], designated first paragraph as par. (1), substituted “Subject to subsection (b), any” for “Any”, struck out “and costs” after “of fees”, substituted “submits an affidavit that includes a statement of all assets such prisoner possesses” for “makes affidavit”, substituted “such fees” for “such costs”, substituted “the person” for “he” in two places, added par. (2), and designated last paragraph as par. (3).
+<b>1996</b>—Subsec. (a). Pub. L. 104–134, §101\[(a)\] \[title VIII, §804(a)(1)\], designated first paragraph as par. (1), substituted “Subject to subsection (b), any” for “Any”, struck out “and costs” after “of fees”, substituted “submits an affidavit that includes a statement of all assets such prisoner possesses” for “makes affidavit”, substituted “such fees” for “such costs”, substituted “the person” for “he” in two places, added par. (2), and designated last paragraph as par. (3).
 
 Subsec. (b). Pub. L. 104–134, §101\[(a)\] \[title VIII, §804(a)(3)\], added subsec. (b). Former subsec. (b) redesignated (c).
 
@@ -96,33 +96,23 @@ Subsec. (g). Pub. L. 104–134, §101\[(a)\] \[title VIII, §804(d)\], added sub
 
 Subsec. (h). Pub. L. 104–134, §101\[(a)\] \[title VIII, §804(e)\], added subsec. (h).
 
-1979—Subsec. (b). Pub. L. 96–82 substituted “Upon the filing of an affidavit in accordance with subsection (a) of this section, the court may direct payment by the United States of the expenses of (1) printing the record on appeal in any civil or criminal case, if such printing is required by the appellate court; (2) preparing a transcript of proceedings before a United States magistrate in any civil or criminal case, if such transcript is required by the district court, in the case of proceedings conducted under section 636(b) of this title or under section 3401(b) of title 18, United States Code; and (3) printing the record on appeal if such printing is required by the appellate court, in the case of proceedings conducted pursuant to section 636(c) of this title” and “Such expenses shall be paid when authorized by the Director of the Administrative Office of the United States Courts” for “In any civil or criminal case the court may, upon the filing of a like affidavit, direct that the expense of printing the record on appeal, if such printing is required by the appellate court, be paid by the United States, and the same shall be paid when authorized by the Director of the Administrative Office of the United States Courts”.
+<b>1979</b>—Subsec. (b). Pub. L. 96–82 substituted “Upon the filing of an affidavit in accordance with subsection (a) of this section, the court may direct payment by the United States of the expenses of (1) printing the record on appeal in any civil or criminal case, if such printing is required by the appellate court; (2) preparing a transcript of proceedings before a United States magistrate in any civil or criminal case, if such transcript is required by the district court, in the case of proceedings conducted under section 636(b) of this title or under section 3401(b) of title 18, United States Code; and (3) printing the record on appeal if such printing is required by the appellate court, in the case of proceedings conducted pursuant to section 636(c) of this title” and “Such expenses shall be paid when authorized by the Director of the Administrative Office of the United States Courts” for “In any civil or criminal case the court may, upon the filing of a like affidavit, direct that the expense of printing the record on appeal, if such printing is required by the appellate court, be paid by the United States, and the same shall be paid when authorized by the Director of the Administrative Office of the United States Courts”.
 
-1959—Subsec. (a). Pub. L. 86–320 substituted “person” for “citizen”.
+<b>1959</b>—Subsec. (a). Pub. L. 86–320 substituted “person” for “citizen”.
 
-1951—Subsec. (b). Act Oct. 31, 1951, struck out “furnishing a stenographic transcript and” after “expense of”.
+<b>1951</b>—Subsec. (b). Act Oct. 31, 1951, struck out “furnishing a stenographic transcript and” after “expense of”.
 
 Subsec. (e). Act Oct. 31, 1951, inserted provision that the United States shall not be liable for any of the costs incurred.
 
-1949—Subsec. (b). Act May 24, 1949, §98(a), inserted “such printing is” between “if” and “required”.
+<b>1949</b>—Subsec. (b). Act May 24, 1949, §98(a), inserted “such printing is” between “if” and “required”.
 
 Subsec. (e). Act May 24, 1949, §98(b), inserted “or printed record” after “stenographic transcript”.
 
 #### Change of Name
 
-Reference to United States magistrate or to magistrate deemed to refer to United States magistrate judge pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of this title.
-
-#### Federal Rules of Civil Procedure
-
-Default judgment, see rule 55, Appendix to this title.
-
-#### Cross References
-
-Fair housing, enforcement by private persons in Federal or State courts without payment of fees, costs, or security, see section 3613 of Title 42, The Public Health and Welfare.
-
-Reporters for United States District Court, see section 753 of this title.
+“United States magistrate judge” substituted for “United States magistrate” in subsec. (c) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1930, 2503 of this title; title 10 section 867a; title 11 section 523; title 18 section 3006A.
+This section is referred to in sections 1930, 2503 of this title; title 10 section 867a; title 11 section 523; title 18 sections 983, 3006A.
 

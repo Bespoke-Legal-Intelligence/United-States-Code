@@ -100,7 +100,7 @@ In any case in which the President has paid an amount from the Fund for any remo
 
 #### (2) Exception
 
-&emsp;Paragraph (1) shall not apply in a situation requiring action to avoid irreversible loss of natural resources or to prevent or reduce any continuing danger to natural resources or similar need for emergency action.
+&emsp;Paragraph (1) shall not apply in a situation requiring action to avoid irreversible loss ofnatural resources or to prevent or reduce any continuing danger to natural resources or similar need for emergency action.
 
 #### (k) Preference for private persons in area affected by discharge
 

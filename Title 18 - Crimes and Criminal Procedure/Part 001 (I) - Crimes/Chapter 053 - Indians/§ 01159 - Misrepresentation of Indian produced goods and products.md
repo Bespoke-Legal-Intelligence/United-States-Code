@@ -22,7 +22,7 @@
 
 &emsp;(4) the term “Indian arts and crafts organization” means any legally established arts and crafts marketing organization composed of members of Indian tribes.
 
-(d) In the event that any provision of this section is held invalid, it is the intent of Congressthat the remaining provisions of this section shall continue in full force and effect.
+(d) In the event that any provision of this section is held invalid, it is the intent of Congress that the remaining provisions of this section shall continue in full force and effect.
 
 (June 25, 1948, ch. 645, 62 Stat. 759; Pub. L. 101–644, title I, §104(a), Nov. 29, 1990, 104 Stat. 4663.)
 

@@ -1,0 +1,48 @@
+### §4225. Treatment of program income and labor standards
+
+#### (a) Program income
+
+#### (1) Authority to retain
+
+&emsp;The Department of Hawaiian Home Lands may retain any program income that is realized from any grant amounts received by the Department under this subchapter if—
+
+&emsp;&emsp;(A) that income was realized after the initial disbursement of the grant amounts received by the Department; and
+
+&emsp;&emsp;(B) the Director agrees to use the program income for affordable housing activities in accordance with the provisions of this subchapter.
+
+#### (2) Prohibition of reduction of grant
+
+&emsp;The Secretary may not reduce the grant amount for the Department of Hawaiian Home Lands based solely on—
+
+&emsp;&emsp;(A) whether the Department retains program income under paragraph (1); or
+
+&emsp;&emsp;(B) the amount of any such program income retained.
+
+#### (3) Exclusion of amounts
+
+&emsp;The Secretary may, by regulation, exclude from consideration as program income any amounts determined to be so small that compliance with the requirements of this subsection would create an unreasonable administrative burden on the Department.
+
+#### (b) Labor standards
+
+#### (1) In general
+
+&emsp;Any contract or agreement for assistance, sale, or lease pursuant to this subchapter shall contain—
+
+&emsp;&emsp;(A) a provision requiring that an amount not less than the wages prevailing in the locality, as determined or adopted (subsequent to a determination under applicable State or local law) by the Secretary, shall be paid to all architects, technical engineers, draftsmen, technicians employed in the development and all maintenance, and laborers and mechanics employed in the operation, of the affordable housing project involved; and
+
+&emsp;&emsp;(B) a provision that an amount not less than the wages prevailing in the locality, as predetermined by the Secretary of Labor pursuant to the Act commonly known as the “Davis-Bacon Act” (46 Stat. 1494; chapter 411; 40 U.S.C. 276a et seq.) shall be paid to all laborers and mechanics employed in the development of the affordable housing involved.
+
+#### (2) Exceptions
+
+&emsp;Paragraph (1) and provisions relating to wages required under paragraph (1) in any contract or agreement for assistance, sale, or lease under this subchapter, shall not apply to any individual who performs the services for which the individual volunteered and who is not otherwise employed at any time in the construction work and received no compensation or is paid expenses, reasonable benefits, or a nominal fee for those services.
+
+(Pub. L. 104–330, title VIII, §805, as added Pub. L. 106–568, title II, §203, Dec. 27, 2000, 114 Stat. 2883, and Pub. L. 106–569, title V, §513, Dec. 27, 2000, 114 Stat. 2976.)
+
+#### References in Text
+
+The Davis-Bacon Act, referred to in subsec. (b)(1)(B), is act Mar. 3, 1931, ch. 411, 46 Stat. 1494, as amended, which is classified generally to sections 276a to 276a–5 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 276a of Title 40 and Tables.
+
+#### Codification
+
+Pub. L. 106–568, §203, and Pub. L. 106–569, §513, enacted substantially identical sections 805 of Pub. L. 104–330. This section is based on the text of section 805 of Pub. L. 104–330, as added by Pub. L. 106–569, §513.
+

@@ -22,23 +22,13 @@ The first four and sixth paragraphs of this section are based on R.S. §355, as 
 
 #### Amendments
 
-1970—Pub. L. 91–393 substituted first four paragraphs of this section, requiring the Attorney General to give written approval of the sufficiency of title prior to the purchase of lands or interests therein, empowering the Attorney General to delegate his responsibilities, authorizing Federal departments and agencies which have been delegated the responsibility to approve land titles to request opinions, advice or assistance of the Attorney General, and permitting the payment from appropriations of the expenses of procuring certificates or other evidences of title, for the former first seven paragraphs of this section which prohibited expenditures of public money upon any site or land purchased by the United States until the Attorney General gave his written opinion in favor of the validity of title, permitted acceptance of title subject to infirmities if the Attorney General approved, authorized the Attorney General to approve title to easements or rights-of-way, and which made certain exceptions from the provisions of this section.
+1970—Pub. L. 91–393 substituted first four paragraphs of this section, requiring the Attorney General to give written approval of the sufficiency of title prior to the purchase of lands or interests therein, empowering the Attorney General to delegate his responsibilities, authorizing Federal departments and agencies which have been delegated the responsibility to approve land titles to request opinions, advice or assistance of the Attorney General, and permitting the payment from appropriations of the expenses of procuring certificates or other evidences of title, for the former first seven paragraphs of this section which prohibited expenditures of public money upon any site or land purchased by the United States until the Attorney General gave his written opinion in favor of the validity of title, permitted acceptance of title subject to infirmities if the Attorney General approved, authorized the Attorney General to approve title to easements or rights-of-way, andwhich made certain exceptions from the provisions of this section.
 
 1940—Act Oct. 9, 1940, among other changes, divided section into paragraphs, struck out provision requiring United States attorneys, upon application of Attorney General, to furnish assistance in relation to titles, and inserted provisions contained in second, third, fourth and seventh paragraphs.
 
 Act Feb. 1, 1940, struck out provision requiring consent of State legislature to the purchase, and inserted provisions now set out as eighth paragraph.
 
 1930—Act June 28, 1930, inserted reference to armories, arsenals, forts, fortifications, navy yards and lighthouses, and provision that the Attorney General may base his opinion as to title upon certificate of title of a title company.
-
-#### Cross References
-
-Erection of public buildings on condemned property authorized though Attorney General has not approved title, see section 258e of this title.
-
-Power of United States to acquire land within the States, see Const. Art. 1, §8, cl. 17.
-
-President authorized to procure consent of State within which any land has been purchased for forts, magazines, etc., see section 103 of Title 4, Flag and Seal, Seat of Government, and the States.
-
-Purchase contract agreements, applicability of section to, see section 356 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -124,6 +124,8 @@
 | (b) | Obligation of funds. |
 | 253<i>l</i>–1. | Contract authority of Comptroller General. |
 | 253<i>l</i>–2. | Contract authority of Library of Congress. |
+| 253<i>l</i>–3. | Contract authority of Chief Administrative Officer of the House of Representatives. |
+| 253<i>l</i>–4. | Contract authority of Congressional Budget Office. |
 | 253m. | Design-build selection procedures. |
 | (a) | Authorization. |
 | (b) | Criteria for use. |

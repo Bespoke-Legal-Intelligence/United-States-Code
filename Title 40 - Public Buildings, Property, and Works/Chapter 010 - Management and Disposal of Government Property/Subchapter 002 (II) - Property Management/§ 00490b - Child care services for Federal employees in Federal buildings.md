@@ -8,7 +8,7 @@ If any individual or entity which provides or proposes to provide child care ser
 
 &emsp;(2) such officer or agency determines that such space will be used to provide child care services to children of whom at least 50 percent have one parent or guardian who is employed by the Federal Government; and
 
-&emsp;(3) such officer or agency determines that such individual or entity will give priority for available child care services in such space to Federal employees.
+&emsp;(3) such officer or agency determines that such individual or entity will give priority foravailable child care services in such space to Federal employees.
 
 #### (b) Charges for rent or services; payment of costs, accreditation fees, and travel and per diem expenses; “services” defined
 
@@ -28,7 +28,15 @@ Through the General Services Administration's licensing agreements, the Administ
 
 If a Federal agency has a child care facility in its space, or is a sponsoring agency for a child care facility in other Federal or leased space, the agency or the General Services Administration may enter into a consortium with one or more private entities under which such private entities would assist in defraying the costs associated with the salaries and benefits provided for any personnel providing services at such facility.
 
-(Pub. L. 100–202, §101(m) \[title VI, §616\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–423; Pub. L. 102–393, title V, §528, Oct. 6, 1992, 106 Stat. 1760.)
+#### (e) Background checks of workers in executive facilities
+
+(1) All existing and newly hired workers in any child care center located in an executive facility shall undergo a criminal history background check as defined in section 13041 of title 42.
+
+(2) For purposes of this subsection, the term “executive facility” means a facility that is owned or leased by an office or entity within the executive branch of the Government (including one that is owned or leased by the General Services Administration on behalf of an office or entity within the judicial branch of the Government).
+
+(3) Nothing in this subsection shall be considered to apply with respect to a facility owned by or leased on behalf of an office or entity within the legislative branch of the Government.
+
+(Pub. L. 100–202, §101(m) \[title VI, §616\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–423; Pub. L. 102–393, title V, §528, Oct. 6, 1992, 106 Stat. 1760; Pub. L. 106–554, §1(a)(3) \[title VI, §643\], Dec. 21, 2000, 114 Stat. 2763, 2763A–169.)
 
 #### Codification
 
@@ -43,6 +51,8 @@ Pub. L. 99–500, §101(m) \[title VI, §616\], Oct. 18, 1986, 100 Stat. 1783–
 Pub. L. 99–190, §139, Dec. 19, 1985, 99 Stat. 1323.
 
 #### Amendments
+
+2000—Subsec. (e). Pub. L. 106–554 added subsec. (e).
 
 1992—Subsec. (a)(2). Pub. L. 102–393, §528(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “such officer or agency determines that such space will be used to provide child care services to a group of individuals of whom at least 50 percent are Federal employees; and”.
 

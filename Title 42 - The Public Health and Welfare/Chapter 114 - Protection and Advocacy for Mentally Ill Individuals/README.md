@@ -13,6 +13,7 @@
 | (a) | Contracts. |
 | (b) | Obligation of allotments; technical assistance and training. |
 | (c) | Representation of individuals with mental illness. |
+| (d) | Definition for purposes of representation of individuals with mental illness; priority. |
 | [10805\.](Subchapter%20001%20%28I%29%20-%20Protection%20and%20Advocacy%20Systems/Part%20A%20-%20Establishment%20of%20Systems/%C2%A7%2010805%20-%20System%20requirements.md) | System requirements. |
 | (a) | Authority; independent status; access to facilities and records; advisory council; annual report; grievance procedure. |
 | (b) | Annual survey report; plan of corrections. |
@@ -59,7 +60,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 290bb–31, 1396r, 3035f, 3058g, 6042, 14404 of this title; title 29 sections 794e, 3002.
+This chapter is referred to in sections 290bb–31, 290ii–1, 290ii–2, 1396r, 3032i, 3058g, 14404, 15043 of this title; title 29 sections 794e, 3002.
 
 
 ---

@@ -16,13 +16,13 @@ Subject to section 14402(b) of this title (relating to construction and treatmen
 
 &emsp;Subsection (a) of this section applies to funds appropriated under or to carry out the following:
 
-#### (A) Protection and advocacy systems under the Developmental Disabilities Assistance and Bill of Rights Act
+#### (A) Protection and advocacy systems under the Developmental Disabilities Assistance and Bill of Rights Act of 2000
 
-&emsp;&emsp;Part C of the Developmental Disabilities Assistance and Bill of Rights Act \[42 U.S.C. 6041 et seq.\].
+&emsp;&emsp;Subtitle C of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 \[42 U.S.C. 15041 et seq.\].
 
 #### (B) Protection and advocacy systems under the Protection and Advocacy for Mentally Ill Individuals Act
 
-&emsp;&emsp;The Protection and Advocacy for Mentally Ill Individuals Act of 1986 \[42 U.S.C. 10801 et seq.\].
+&emsp;&emsp;The Protection and Advocacy for Mentally Ill Individuals Act of 1986 <sup>2</sup> \[42 U.S.C. 10801 et seq.\].
 
 #### (C) Protection and advocacy systems under the Rehabilitation Act of 1973
 
@@ -40,21 +40,27 @@ Subject to section 14402(b) of this title (relating to construction and treatmen
 
 &emsp;Nothing in this subsection shall be construed as limiting the application of subsection (a) of this section to the programs specified in paragraph (1).
 
-(Pub. L. 105–12, §5, Apr. 30, 1997, 111 Stat. 25.)
+(Pub. L. 105–12, §5, Apr. 30, 1997, 111 Stat. 25; Pub. L. 106–402, title IV, §401(b)(15)(B), Oct. 30, 2000, 114 Stat. 1740.)
 
 #### References in Text
 
-The Developmental Disabilities Assistance and Bill of Rights Act, referred to in subsec. (b)(1)(A), is title I of Pub. L. 88–164, as added by Pub. L. 98–527, §2, Oct. 19, 1984, 98 Stat. 2662, as amended. Part C of the Act is classified generally to subchapter III (§6041 et seq.) of chapter 75 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6000 of this title and Tables.
+The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsec. (b)(1)(A), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677. Subtitle C of the Act probably means subtitle C of title I of the Act, which is classified generally to part C (§15041 et seq.) of subchapter I of chapter 144 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of this title and Tables.
 
-The Protection and Advocacy for Mentally Ill Individuals Act of 1986, referred to in subsec. (b)(1)(B), is Pub. L. 99–319, May 23, 1986, 100 Stat. 478, as amended, which is classified generally to chapter 114 (§10801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 10801 of this title and Tables.
+The Protection and Advocacy for Mentally Ill Individuals Act of 1986, referred to in subsec. (b)(1)(B), was Pub. L. 99–319, May 23, 1986, 100 Stat. 478, as amended. Pub. L. 99–319 was renamed the Protection and Advocacy for Individuals with Mental Illness Act by Pub. L. 106–310, div. B, title XXXII, §3206(a), Oct. 17, 2000, 114 Stat. 1193, and is classified generally to chapter 114 (§10801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 10801 of this title and Tables.
 
 The Older Americans Act of 1965, referred to in subsec. (b)(1)(D), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, as amended, which is classified generally to chapter 35 (§3001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
 
 The Legal Services Corporation Act, referred to in subsec. (b)(1)(E), is title X of Pub. L. 88–452, as added by Pub. L. 93–355, §2, July 25, 1974, 88 Stat. 378, as amended, which is classified generally to subchapter X (§2996 et seq.) of chapter 34 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2996 of this title and Tables.
 
+#### Amendments
+
+2000—Subsec. (b)(1)(A). Pub. L. 106–402 added subpar. (A) and struck out heading and text of former subpar. (A). Text read as follows: “Part C of the Developmental Disabilities Assistance and Bill of Rights Act.”
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 6042, 10805, 14405 of this title.
+This section is referred to in sections 6042, 10805, 14405, 15044 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “or governmental entity”.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

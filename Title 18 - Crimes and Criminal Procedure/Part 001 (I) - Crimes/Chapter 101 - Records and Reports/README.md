@@ -11,10 +11,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Cross References
-
-War contract records, see section 443 of this title.
-
 
 ---
 

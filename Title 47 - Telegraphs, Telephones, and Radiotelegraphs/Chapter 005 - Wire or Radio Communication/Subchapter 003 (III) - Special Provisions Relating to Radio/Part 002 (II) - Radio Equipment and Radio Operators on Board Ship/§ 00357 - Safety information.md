@@ -24,7 +24,7 @@ Notwithstanding any other provision of law, any station or carrier may render fr
 
 #### Amendments
 
-1965—Subsec. (a). Pub. L. 89–121 directed the master of every ship of the United States equipped with radio transmitting apparatus which encounters subfreezing air temperatures associated with gale force winds causing severe ice accretion on superstructures, or winds of force 10 or above on the Beaufort scale for which no storm warning has been received to transmit the pertinent information relating thereto.
+1965—Subsec. (a). Pub. L. 89–121 directed the master of every ship of the United States equipped with radio transmitting apparatus which encounters subfreezing air temperatures associated with gale force winds causing severe ice accretion on superstructures, or winds offorce 10 or above on the Beaufort scale for which no storm warning has been received to transmit the pertinent information relating thereto.
 
 #### Effective Date
 

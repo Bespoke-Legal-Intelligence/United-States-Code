@@ -24,13 +24,3 @@ The Inspector General Act of 1978, referred to in subsec. (d), is Pub. L. 95–4
 
 Provisions similar to those in this section were contained in section 3039 of this title prior to enactment of Pub. L. 99–433.
 
-#### Cross References
-
-Detail of commissioned officers of Army as inspector general, see section 3065 of this title.
-
-Inspector General—
-
-&emsp;&emsp;Air Force, see section 8020 of this title.
-
-&emsp;&emsp;Navy, see section 5020 of this title.
-

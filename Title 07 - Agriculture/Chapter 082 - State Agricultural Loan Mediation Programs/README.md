@@ -6,6 +6,7 @@
 | (a) | In general. |
 | (b) | Determination by Secretary. |
 | (c) | Requirements of State mediation programs. |
+| (d) | Definition of mediation services. |
 | [5102\.](%C2%A7%2005102%20-%20Matching%20grants%20to%20States.md) | Matching grants to States. |
 | (a) | Matching grants. |
 | (b) | Amount of grant. |

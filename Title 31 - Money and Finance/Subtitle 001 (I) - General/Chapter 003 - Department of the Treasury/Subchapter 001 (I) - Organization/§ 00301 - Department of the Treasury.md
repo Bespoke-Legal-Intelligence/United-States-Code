@@ -212,14 +212,6 @@ Nothing in Pub. L. 101–576 \[see Short Title of 1990 Amendment note set out un
 
 Designation of officers of Treasury Department to act as Secretary of the Treasury, during any period when, by reason of absence, disability, or vacancy in office, either the Secretary of the Treasury or his Deputy Secretary is not available to exercise the powers or perform the duties of the office of the Secretary, see Ex. Ord. No. 11822, Dec. 10, 1974, 39 F.R. 43275, set out as a note under section 3345 of Title 5, Government Organization and Employees.
 
-#### Cross References
-
-Appointment of Chief Counsel of Internal Revenue Service, see section 7803 of Title 26, Internal Revenue Code.
-
-Classification and pay of employees, see sections 5101 et seq. and 5331 et seq. of Title 5, Government Organization and Employees.
-
-Compensation of Secretary and other officers, see section 5312 et seq. of Title 5.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 306 of this title; title 12 sections 482, 1462a; title 26 section 7801.

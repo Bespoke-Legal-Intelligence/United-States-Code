@@ -2,7 +2,7 @@
 
 #### Codification
 
-Sections 1325a to 1327 were omitted as not of general application, and as covered by the Canal Zone Code.
+Sections 1325a to 1327 were omitted as not of general application, and as covered by the Canal Zone Code. The Canal Zone Code was subsequently redesignated the Panama Canal Code by Pub. L. 96–70, §3303(b), and repealed by Pub. L. 104–201, §3549.
 
 Section 1325a, acts Feb. 16, 1933, ch. 90, §1, 47 Stat. 813; Sept. 26, 1950, ch. 1049, §2(b), 64 Stat. 1038, related to rules and regulations of the Customs Service.
 

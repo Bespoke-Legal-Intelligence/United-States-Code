@@ -14,3 +14,5 @@ subpart 7—national institute of child health and human development
 - [&sect; 00285g&#8211;6 - Program regarding obstetrics and gynecology](%C2%A7%2000285g%E2%80%936%20-%20Program%20regarding%20obstetrics%20and%20gynecology.md)
 - [&sect; 00285g&#8211;7 - Child health research centers](%C2%A7%2000285g%E2%80%937%20-%20Child%20health%20research%20centers.md)
 - [&sect; 00285g&#8211;8 - Prospective longitudinal study on adolescent health](%C2%A7%2000285g%E2%80%938%20-%20Prospective%20longitudinal%20study%20on%20adolescent%20health.md)
+- [&sect; 00285g&#8211;9 - Fragile X](%C2%A7%2000285g%E2%80%939%20-%20Fragile%20X.md)
+- [&sect; 00285g&#8211;10 - Investment in tomorrow's pediatric researchers](%C2%A7%2000285g%E2%80%9310%20-%20Investment%20in%20tomorrow%27s%20pediatric%20researchers.md)

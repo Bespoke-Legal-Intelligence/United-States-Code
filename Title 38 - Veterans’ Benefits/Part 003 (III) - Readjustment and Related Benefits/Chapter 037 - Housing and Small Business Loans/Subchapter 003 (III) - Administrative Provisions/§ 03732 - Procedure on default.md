@@ -54,7 +54,7 @@
 
 (7) In a case described in paragraph (4) of this subsection, if the holder of the defaulted loan acquires the property securing the loan at the liquidation sale for an amount that exceeds the lesser of the total indebtedness under the loan or the net value and—
 
-&emsp;(A)(i) the amount was the minimum amount for which, under applicable State law, the property was permitted to be sold at the liquidation sale, the holder shall have the option to convey the property to the United States inreturn for payment by the Secretary of an amount equal to the lesser of the amount for which the holder acquired the property or the total indebtedness under the loan; or
+&emsp;(A)(i) the amount was the minimum amount for which, under applicable State law, the property was permitted to be sold at the liquidation sale, the holder shall have the option to convey the property to the United States in return for payment by the Secretary of an amount equal to the lesser of the amount for which the holder acquired the property or the total indebtedness under the loan; or
 
 &emsp;(ii) there was no minimum amount for which the property had to be sold at the liquidation sale under applicable State law, the holder shall have the option to convey the property to the United States in return for payment by the Secretary of an amount equal to the lesser of such net value or total indebtedness; and
 
@@ -68,7 +68,7 @@
 
 (9) In no event may the liability of the United States under a guaranteed loan exceed the amount guaranteed with respect to that loan under section 3703(b) of this title. All determinations under this subsection of net value and total indebtedness shall be made by the Secretary.
 
-(10)(A) Except as provided in subparagraphs (B) and (C) of this paragraph, the date referred to in paragraph (1)(D)(ii) of this subsection shall be the date of the liquidation sale of the property securing the loan (or such earlier date following the expiration of a reasonable period of time for such sale to occur as the Secretary may specify pursuant to regulations prescribed by the Secretary to implement this subsection).
+(10)(A) Except as provided in subparagraphs (B) and (C) of this paragraph, the date referredto in paragraph (1)(D)(ii) of this subsection shall be the date of the liquidation sale of the property securing the loan (or such earlier date following the expiration of a reasonable period of time for such sale to occur as the Secretary may specify pursuant to regulations prescribed by the Secretary to implement this subsection).
 
 (B)(i) Subject to division (ii) of this subparagraph, in any case in which there is a substantial delay in such sale caused by the holder of the loan exercising forebearance at the request of the Secretary, the date referred to in paragraph (1)(D)(ii) of this subsection shall be such date, on or after the date on which forebearance was requested and prior to the date of such sale, as the Secretary specifies pursuant to regulations which the Secretary shall prescribe to implement this paragraph.
 
@@ -84,11 +84,13 @@
 
 (D) For the purpose of determining the liability of the United States under a loan guaranty under clause (B) of paragraphs (5), (6),<sup>1</sup> (7), and (8) of this subsection, the amount of the total indebtedness with respect to such loan guaranty shall include, in any case in which there was an excessive delay caused by the Department of Veterans Affairs in the liquidation sale of the property securing such loan, any interest which had accrued as of the date of such sale and which would not be included, except for this subparagraph, in the calculation of such total indebtedness as a result of the specification of an earlier date under subparagraph (C)(i) of this paragraph.
 
-(11) This subsection shall apply to loans closed before October 1, 2002.
+(11) This subsection shall apply to loans closed before October 1, 2008.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1212, §1816(a)–(c); Pub. L. 89–117, title I, §107(f), Aug. 10, 1965, 79 Stat. 460; Pub. L. 94–324, §7(17), June 30, 1976, 90 Stat. 722; Pub. L. 98–369, div. B, title V, §2512(a), July 18, 1984, 98 Stat. 1117; Pub. L. 100–198, §§4(a), 5(a), Dec. 21, 1987, 101 Stat. 1316; renumbered §1832 and amended Pub. L. 100–322, title IV, §415(b)(1)(A)–(C), (5), May 20, 1988, 102 Stat. 550, 551; Pub. L. 101–237, title III, §§304(b), 307–308(b)(1), 313(b)(1), (2), Dec. 18, 1989, 103 Stat. 2073–2075, 2077; Pub. L. 102–54, §§1, 3(a), 14(g)(1), June 13, 1991, 105 Stat. 267, 288; renumbered §3732 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–66, title XII, §12006(a), Aug. 10, 1993, 107 Stat. 414; Pub. L. 103–446, title IX, §907, Nov. 2, 1994, 108 Stat. 4677; Pub. L. 105–33, title VIII, §8013, Aug. 5, 1997, 111 Stat. 664.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1212, §1816(a)–(c); Pub. L. 89–117, title I, §107(f), Aug. 10, 1965, 79 Stat. 460; Pub. L. 94–324, §7(17), June 30, 1976, 90 Stat. 722; Pub. L. 98–369, div. B, title V, §2512(a), July 18, 1984, 98 Stat. 1117; Pub. L. 100–198, §§4(a), 5(a), Dec. 21, 1987, 101 Stat. 1316; renumbered §1832 and amended Pub. L. 100–322, title IV, §415(b)(1)(A)–(C), (5), May 20, 1988, 102 Stat. 550, 551; Pub. L. 101–237, title III, §§304(b), 307–308(b)(1), 313(b)(1), (2), Dec. 18, 1989, 103 Stat. 2073–2075, 2077; Pub. L. 102–54, §§1, 3(a), 14(g)(1), June 13, 1991, 105 Stat. 267, 288; renumbered §3732 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–66, title XII, §12006(a), Aug. 10, 1993, 107 Stat. 414; Pub. L. 103–446, title IX, §907, Nov. 2, 1994, 108 Stat. 4677; Pub. L. 105–33, title VIII, §8013, Aug. 5, 1997, 111 Stat. 664; Pub. L. 106–419, title IV, §402(c), Nov. 1, 2000, 114 Stat. 1863.)
 
 #### Amendments
+
+2000—Subsec. (c)(11). Pub. L. 106–419 substituted “October 1, 2008” for “October 1, 2002”.
 
 1997—Subsec. (c)(11). Pub. L. 105–33 substituted “October 1, 2002” for “October 1, 1998”.
 

@@ -18,7 +18,7 @@ Notes and security acquired by the Secretary in connection with loans insured un
 
 #### (e) Deposit in fund of portion of charge on outstanding principal obligations; availability of remainder of charge, and merger with appropriations, for administrative expenses
 
-The Secretary shall deposit in the fund all or a portion, not to exceed one-half of 1 per centum of the unpaid principal balance of the loan, of any charge collected in connection with the insurance of loans; and any remainder of any such charge shall be available for administrative expenses of the Farmers Home Administration and the Rural Development Administration, in proportion to such charges collected in connection with the insurance of loans by such agency, to be transferred annually and become merged with any appropriation for administrative expenses for such agency.
+The Secretary shall deposit in the fund all or a portion, not to exceed one-half of 1 per centumof the unpaid principal balance of the loan, of any charge collected in connection with the insurance of loans; and any remainder of any such charge shall be available for administrative expenses of the Farmers Home Administration and the Rural Development Administration, in proportion to such charges collected in connection with the insurance of loans by such agency, to be transferred annually and become merged with any appropriation for administrative expenses for such agency.
 
 #### (f) Utilization of fund
 
@@ -42,7 +42,7 @@ The Secretary may utilize the fund—
 
 #### (h) Guaranteed loans; interest rate for loans sold into secondary market; loan fees
 
-(1) The Secretary may provide financial assistance to borrowers for purposes provided in thischapter by guaranteeing loans made by any Federal or State chartered bank, savings and loan association, cooperative lending agency, or other legally organized lending agency.
+(1) The Secretary may provide financial assistance to borrowers for purposes provided in this chapter by guaranteeing loans made by any Federal or State chartered bank, savings and loan association, cooperative lending agency, or other legally organized lending agency.
 
 (2) The interest rate payable by a borrower on the portion of a guaranteed loan that is sold by a lender to the secondary market under this chapter may be lower than the interest rate charged on the portion retained by the lender, but shall not exceed the average interest rate charged by the lender on loans made to farm and ranch borrowers.
 
@@ -134,7 +134,7 @@ Subsecs. (g), (h). Pub. L. 92–419, §115(b), added subsecs. (g) and (h).
 
 1966—Subsec. (f)(2). Pub. L. 89–633 substituted “until due” for “until the due date of the annual installment”.
 
-1965—Subsec. (e). Pub. L. 89–240, §2(b), substituted “all or a portion, not to exceed one-half of 1 per centum of the unpaid principal balance of the loan of any charge collected in connection with the insurance of loans; and any remainder of any such charge” for “such portion of the charge collected in connection with the insurance of loans at least equal to a rate of one-half of 1 per centum per annum on the outstanding principal obligations and the remainder of such charge”.
+1965—Subsec. (e). Pub. L. 89–240, §2(b), substituted “all or a portion, not to exceed one-half of 1 per centum of the unpaid principal balance of the loan of any charge collected in connection with the insurance ofloans; and any remainder of any such charge” for “such portion of the charge collected in connection with the insurance of loans at least equal to a rate of one-half of 1 per centum per annum on the outstanding principal obligations and the remainder of such charge”.
 
 Subsec. (f)(1). Pub. L. 89–240, §2(c), substituted “$50,000,000” for “$25,000,000”.
 

@@ -2,7 +2,7 @@
 
 (a)
 
-General Authority.—Subject to sections 47152 and 47153 of this title, a department, agency, or instrumentality of the executive branch of the United States Government or a wholly owned Government corporation may give a State, political subdivision of a State, or tax-supported organization any interest in surplus property—
+General Authority.—Subject to sections 47152 and 47153 of this title, a department, agency, or instrumentality of the executive branch of the United States Government or a wholly owned Government corporation may convey to a State, political subdivision of a State, or tax-supported organization any interest in surplus property—
 
 &emsp;(1) that the Secretary of Transportation decides is—
 
@@ -12,17 +12,25 @@ General Authority.—Subject to sections 47152 and 47153 of this title, a depart
 
 &emsp;&emsp;(C) needed for developing sources of revenue from nonaviation businesses at a public airport; and
 
-&emsp;(2) if the Administrator of General Services approves the gift and decides the interest is not best suited for industrial use.
+&emsp;(2) if the Administrator of General Services approves the conveyance and decides the interest is not best suited for industrial use.
 
 (b)
 
-Ensuring Compliance.—Only the Secretary may ensure compliance with an instrument giving an interest in surplus property under this subchapter. The Secretary may amend the instrument to correct the instrument or to make the gift comply with law.
+Ensuring Compliance.—Only the Secretary may ensure compliance with an instrument conveying an interest in surplus property under this subchapter. The Secretary may amend the instrument to correct the instrument or to make the conveyance comply with law.
 
 (c)
 
-Disposing of Interests Not Given Under This Subchapter.—An interest in surplus property that could be used at a public airport but that is not given under this subchapter shall be disposed of under other applicable law.
+Disposing of Interests Not Conveyed Under This Subchapter.—An interest in surplus property that could be used at a public airport but that is not conveyed under this subchapter shall be disposed of under other applicable law.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1278.)
+(d)
+
+Waiver of Condition.—Before the Secretary may waive any condition imposed on an interest in surplus property conveyed under subsection (a) that such interest be used for an aeronautical purpose, the Secretary must provide notice to the public not less than 30 days before waiving such condition.
+
+(e)
+
+Requests by Public Agencies.—Except with respect to a request made by another department, agency, or instrumentality of the executive branch of the United States Government, such a department, agency, or instrumentality shall give priority consideration to a request made by a public agency (as defined in section 47102) for surplus property described in subsection (a) (other than real property that is subject to section 2687 of title 10, section 201 of the Defense Authorization Amendments and Base Closure and Realignment Act (10 U.S.C. 2687 note), or section 2905 of the Defense Base Closure and Realignment Act of 1990 (10 U.S.C. 2687 note)) for use at a public airport.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1278; Pub. L. 106–181, title I, §§125(c), 135(d)(1), 136, Apr. 5, 2000, 114 Stat. 75, 84, 85.)
 
 Historical and Revision Notes
 
@@ -67,4 +75,32 @@ In subsection (a), before clause (1), the words “Notwithstanding any other pro
 Subsection (b) is substituted for 50 App.:1622b to eliminate unnecessary words.
 
 In subsection (c), the text of 50 App.:1622(g)(5) is omitted as obsolete because 50 App.:1621, 1622(f), and 1627(e) were repealed by section 602(a)(1) of the Federal Property and Administrative Services Act of 1949 (ch. 288, 63 Stat. 399). The words “An interest in surplus property that could be used at a public airport” are substituted for “All surplus property within the purview of this subsection” for clarity. The words “elsewhere in this Act or other applicable” are omitted as surplus. The word “law” is substituted for “Federal Statute” for consistency in the revised title and with other titles of the Code.
+
+#### References in Text
+
+Section 201 of the Defense Authorization Amendments and Base Closure and Realignment Act, referred to in subsec. (e), is section 201 of Pub. L. 100–526, which is set out in a note under section 2687 of Title 10, Armed Forces.
+
+Section 2905 of the Defense Base Closure and Realignment Act of 1990, referred to in subsec. (e), is section 2905 of Pub. L. 101–510, which is set out in a note under section 2687 of Title 10, Armed Forces.
+
+#### Amendments
+
+2000—Subsec. (a). Pub. L. 106–181, §135(d)(1)(A)(i), substituted “convey to” for “give” in introductory provisions.
+
+Subsec. (a)(2). Pub. L. 106–181, §135(d)(1)(A)(ii), substituted “conveyance” for “gift”.
+
+Subsec. (b). Pub. L. 106–181, §135(d)(1)(B), substituted “conveying” for “giving” and “conveyance” for “gift”.
+
+Subsec. (c). Pub. L. 106–181, §135(d)(1)(C), substituted “Conveyed” for “Given” in heading and “conveyed” for “given” in text.
+
+Subsec. (d). Pub. L. 106–181, §125(c), added subsec. (d).
+
+Subsec. (e). Pub. L. 106–181, §136, added subsec. (e).
+
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 ofPub. L. 106–181, set out as a note under section 106 of this title.
+
+#### Construction of 2000 Amendment
+
+Nothing in amendment by section 125(c) of Pub. L. 106–181 to be construed to authorize Secretary of Transportation to issue waiver or make a modification referred to in such amendment, see section 125(e) of Pub. L. 106–181, set out as a note under section 47107 of this title.
 

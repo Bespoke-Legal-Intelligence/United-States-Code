@@ -74,7 +74,7 @@ The Secretary shall provide, in any loan agreement between the Corporation and a
 
 #### (g) Disposition of amounts in Account in the event of termination of loan agreement or account or dissolution or merger of association
 
-With respect to any association for which an Account is established under subsection (b)(2) of this section, if a loan agreement between the Corporation and such association is terminated, if such association is dissolved or merges with another association that has entered into a loan agreement with the Corporation to make price support available to producers of the kind of tobacco involved, or if such Account terminates by operation of law, then amounts in such Account and the net gains referred to in subsection (h) of this section shall be applied to or disposed of in such manner as the Secretary may prescribe, except that they shall, to the extent necessary, first be applied to or used for the purposes therefor prescribed in this section.
+With respect to any association for which an Account is established under subsection (b)(2) ofthis section, if a loan agreement between the Corporation and such association is terminated, if such association is dissolved or merges with another association that has entered into a loan agreement with the Corporation to make price support available to producers of the kind of tobacco involved, or if such Account terminates by operation of law, then amounts in such Account and the net gains referred to in subsection (h) of this section shall be applied to or disposed of in such manner as the Secretary may prescribe, except that they shall, to the extent necessary, first be applied to or used for the purposes therefor prescribed in this section.
 
 #### (h) Net gains
 

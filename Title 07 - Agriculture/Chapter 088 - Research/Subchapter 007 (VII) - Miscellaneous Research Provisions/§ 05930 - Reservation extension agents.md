@@ -10,11 +10,11 @@ Extension agents shall be employees of, and administratively responsible to, the
 
 #### (c) Advisory committees
 
-At the request of a State Extension Director, and with the assistance of the tribal authorities, the Secretary of Agriculture may form an advisory committee to give overall policy and program advice to that State Extension Director with regard to programs conducted on reservations or within tribal jurisdictions. Program advisory committees may be formed to assist extension staff in development and conduct of program activities.
+At the request of a State Extension Director, and with the assistance of the tribal authorities,the Secretary of Agriculture may form an advisory committee to give overall policy and program advice to that State Extension Director with regard to programs conducted on reservations or within tribal jurisdictions. Program advisory committees may be formed to assist extension staff in development and conduct of program activities.
 
 #### (d) Staffing
 
-Insofar as possible, agent and specialist staff shall include individuals representative of thetribal grouping being served. Programs shall emphasize training and employment of local people in positions such as program aides, master gardeners, and volunteers. Staffing at a particular location shall be dependent on the needs and priorities of that location, as identified by the advisory committees and the State Extension Director, and the Director may make use of existing personnel and facilities as appropriate.
+Insofar as possible, agent and specialist staff shall include individuals representative of the tribal grouping being served. Programs shall emphasize training and employment of local people in positions such as program aides, master gardeners, and volunteers. Staffing at a particular location shall be dependent on the needs and priorities of that location, as identified by the advisory committees and the State Extension Director, and the Director may make use of existing personnel and facilities as appropriate.
 
 #### (e) Placing of agents
 

@@ -596,9 +596,11 @@ Special rule.—If the institutions identified in paragraph (1) are selected pur
 
 #### Programs of Federal Transit Administration; Limitation on Obligations
 
-Pub. L. 106–69, title III, §311, Oct. 9, 1999, 113 Stat. 1018, provided that: “The limitations on obligations for the programs of the Federal Transit Administration shall not apply to any authority under 49 U.S.C. 5338, previously made available for obligation, or to any other authority previously made available for obligation.”
+Pub. L. 106–346, §101(a) \[title III, §311\], Oct. 23, 2000, 114 Stat. 1356, 1356A–27, provided that: “The limitations on obligations for the programs of the Federal Transit Administration shall not apply to any authority under 49 U.S.C. 5338, previously made available for obligation, or to any other authority previously made available for obligation.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 106–69, title III, §311, Oct. 9, 1999, 113 Stat. 1018.
 
 Pub. L. 105–277, div. A, §101(g) \[title III, §311\], Oct. 21, 1998, 112 Stat. 2681–439, 2681–467.
 

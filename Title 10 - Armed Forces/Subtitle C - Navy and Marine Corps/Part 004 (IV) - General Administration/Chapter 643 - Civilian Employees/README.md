@@ -10,10 +10,13 @@
 | [7477\.](%C2%A7%2007477%20-%20Transportation%20of%20dependents%20and%20household%20effects%20of%20civilian%20personnel%20stationed%20outside%20the%20United%20States%20payment%20in%20lieu%20of%E2%80%A6.md) | Transportation of dependents and household effects of civilian personnel stationed outside the United States: payment in lieu of transportation. |
 | [7478\.](%C2%A7%2007478%20-%20Naval%20War%20College%20and%20Marine%20Corps%20University%20civilian%20faculty%20members.md) | Naval War College and Marine Corps University: civilian faculty members. |
 | [7479\.](%C2%A7%2007479%20-%20Civil%20service%20mariners%20of%20Military%20Sealift%20Command%20release%20of%20drug%20test%20results%20to%20Coast%20Guard.md) | Civil service mariners of Military Sealift Command: release of drug test results to Coast Guard. |
+| [7480\.](%C2%A7%2007480%20-%20Special%20agents%20of%20the%20Naval%20Criminal%20Investigative%20Service%20authority%20to%20execute%20warrants%20and%20make%20arrests.md) | Special agents of the Naval Criminal Investigative Service: authority to execute warrants and make arrests. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2000—Pub. L. 106–398, §1 \[\[div. A\], title V, §554(b)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–127, added item 7480.
 
 1998—Pub. L. 105–261, div. A, title XI, §1103(b), Oct. 17, 1998, 112 Stat. 2141, added item 7479.
 
@@ -45,3 +48,4 @@ This chapter is referred to in section 1552 of this title.
 - [&sect; 07477 - Transportation of dependents and household effects of civilian personnel stationed outside the United States payment in lieu of&#8230;](%C2%A7%2007477%20-%20Transportation%20of%20dependents%20and%20household%20effects%20of%20civilian%20personnel%20stationed%20outside%20the%20United%20States%20payment%20in%20lieu%20of%E2%80%A6.md)
 - [&sect; 07478 - Naval War College and Marine Corps University civilian faculty members](%C2%A7%2007478%20-%20Naval%20War%20College%20and%20Marine%20Corps%20University%20civilian%20faculty%20members.md)
 - [&sect; 07479 - Civil service mariners of Military Sealift Command release of drug test results to Coast Guard](%C2%A7%2007479%20-%20Civil%20service%20mariners%20of%20Military%20Sealift%20Command%20release%20of%20drug%20test%20results%20to%20Coast%20Guard.md)
+- [&sect; 07480 - Special agents of the Naval Criminal Investigative Service authority to execute warrants and make arrests](%C2%A7%2007480%20-%20Special%20agents%20of%20the%20Naval%20Criminal%20Investigative%20Service%20authority%20to%20execute%20warrants%20and%20make%20arrests.md)

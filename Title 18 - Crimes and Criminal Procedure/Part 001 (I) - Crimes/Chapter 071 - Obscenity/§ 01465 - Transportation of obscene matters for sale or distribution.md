@@ -1,6 +1,6 @@
 ### §1465. Transportation of obscene matters for sale or distribution
 
-Whoever knowingly transports or travels in, or uses a facility or means of, interstate or foreign commerce or an interactive computer service (as defined in section 230(e)(2) of the Communications Act of 1934) in or affecting such commerce for the purpose of sale or distribution of any obscene, lewd, lascivious, or filthy book, pamphlet, picture, film, paper, letter, writing, print, silhouette, drawing, figure, image, cast, phonograph recording, electrical transcription or other article capable of producing sound or any other matter of indecent or immoral character, shall be fined under this title or imprisoned not more than five years, or both.
+Whoever knowingly transports or travels in, or uses a facility or means of, interstate or foreign commerce or an interactive computer service (as defined in section 230(e)(2) <sup>1</sup> of the Communications Act of 1934) in or affecting suchcommerce for the purpose of sale or distribution of any obscene, lewd, lascivious, or filthy book, pamphlet, picture, film, paper, letter, writing, print, silhouette, drawing, figure, image, cast, phonograph recording, electrical transcription or other article capable of producing sound or any other matter of indecent or immoral character, shall be fined under this title or imprisoned not more than five years, or both.
 
 The transportation as aforesaid of two or more copies of any publication or two or more of any article of the character described above, or a combined total of five such publications and articles, shall create a presumption that such publications or articles are intended for sale or distribution, but such presumption shall be rebuttable.
 
@@ -8,11 +8,11 @@ The transportation as aforesaid of two or more copies of any publication or two 
 
 #### References in Text
 
-Section 230(e)(2) of the Communications Act of 1934, referred to in text, is classified to section 230(e)(2) of Title 47, Telegraphs, Telephones, and Radiotelegraphs.
+Section 230(e)(2) of the Communications Act of 1934, referred to in text, was redesignated section 230(f)(2) of the Communications Act of 1934 by Pub. L. 105–277, div. C, title XIV, §1404(a)(2), Oct. 21, 1998, 112 Stat. 2681–739, and is classified to section 230(f)(2) of Title 47, Telegraphs, Telephones, and Radiotelegraphs.
 
 #### Amendments
 
-1996—Pub. L. 104–104, in first par., substituted “transports or travels in, or uses a facility or means of,” for “transports in”, inserted “or an interactive computer service (as defined in section 230(e)(2) of the Communications Act of 1934) in or affecting such commerce” before “for the purpose of sale”, and substituted “of” for “, or knowingly travels in interstate commerce, or uses a facility or means of interstate commerce for thepurpose of transporting obscene material in interstate or foreign commerce,” before “any obscene, lewd, lascivious, or filthy book”.
+1996—Pub. L. 104–104, in first par., substituted “transports or travels in, or uses a facility or means of,” for “transports in”, inserted “or an interactive computer service (as defined in section 230(e)(2) of the Communications Act of 1934) in or affecting such commerce” before “for the purpose of sale”, and substituted “of” for “, or knowingly travels in interstate commerce, or uses a facility or means of interstate commerce for the purpose of transporting obscene material in interstate or foreign commerce,” before “any obscene, lewd, lascivious, or filthy book”.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000” in first par.
 
@@ -27,4 +27,6 @@ Amendment by Pub. L. 104–104 not to be interpreted as limiting or repealing an
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1961 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

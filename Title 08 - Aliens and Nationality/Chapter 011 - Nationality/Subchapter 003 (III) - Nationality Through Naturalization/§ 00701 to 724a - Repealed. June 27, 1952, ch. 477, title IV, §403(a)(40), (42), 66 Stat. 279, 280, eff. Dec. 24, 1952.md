@@ -16,7 +16,7 @@ Section 707, act Oct. 14, 1940, ch. 876, title I, subchap. III, §307, 54 Stat. 
 
 Section 708, act Oct. 14, 1940, ch. 876, title I, subchap. III, §308, 54 Stat. 1143, related to temporary absence of clergyman as affecting eligibility. See section 1428 of this title.
 
-Section 709, act Oct. 14, 1940, ch. 876, title I, subchap. III, §309, 54 Stat. 1143, related to requirements as toproof of eligibility. See sections 1446(f)–(h) and 1447(e) of this title.
+Section 709, act Oct. 14, 1940, ch. 876, title I, subchap. III, §309, 54 Stat. 1143, related to requirements as to proof of eligibility. See sections 1446(f)–(h) and 1447(e) of this title.
 
 Section 710, act Oct. 14, 1940, ch. 876, title I, subchap. III, §310, 54 Stat. 1144, related to married persons being excepted from certain requirements. See section 1430(a) of this title.
 
@@ -26,7 +26,7 @@ Section 712, act Oct. 14, 1940, ch. 876, title I, subchap. III, §312, 54 Stat. 
 
 Section 713, act Oct. 14, 1940, ch. 876, title I, subchap. III, §313, 54 Stat. 1145, related to children born outside United States, one parent a continuous United States citizen and the other an alien subsequently naturalized. See section 1431 of this title.
 
-Section 714, act Oct. 14, 1940, ch. 876, title I, subchap. III, §314, 54 Stat. 1145, related to children born outside United States, both parents aliens, or one an alien and the other a citizen subsequently losing citizenship. See section 1432 of this title.
+Section 714, act Oct. 14, 1940, ch. 876, title I, subchap. III, §314, 54 Stat. 1145, related to children born outside United States, both parents aliens, or one an alien and the other a citizen subsequently losing citizenship.
 
 Section 715, act Oct. 14, 1940, ch. 876, title I, subchap. III, §315, 54 Stat. 1146, related to children born of one parent a United States citizen. See section 1433 of this title.
 

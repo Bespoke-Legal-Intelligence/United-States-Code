@@ -36,7 +36,7 @@
 
 &emsp;(i) conducting coordinated and advanced programs of research in rehabilitation targeted toward the production of new knowledge that will improve rehabilitation methodology and service delivery systems, alleviate or stabilize disabling conditions, and promote maximum social and economic independence of individuals with disabilities, especially promoting the ability of the individuals to prepare for, secure, retain, regain, or advance in employment;
 
-&emsp;(ii) providing training (including graduate, pre-service, and in-service training) to assist individuals to more effectively provide rehabilitation services;
+&emsp;(ii) providing training (including graduate, pre-service, and in-service training) to assistindividuals to more effectively provide rehabilitation services;
 
 &emsp;(iii) providing training (including graduate, pre-service, and in-service training) for rehabilitation research personnel and other rehabilitation personnel; and
 
@@ -160,7 +160,7 @@
 
 &emsp;(iii) establish and maintain close working relationships with other governmental and voluntary institutions and organizations engaged in similar efforts in order to unify and coordinate scientific efforts, encourage joint planning, and promote the interchange of data and reports among spinal cord injury investigations.
 
-(B) Any agency or organization carrying out a project or demonstration project assisted by a grant under this paragraph that provides services to individuals with spinal cord injuries shall—
+(B) Any agency or organization carrying out a project or demonstration project assisted by agrant under this paragraph that provides services to individuals with spinal cord injuries shall—
 
 &emsp;(i) establish, on an appropriate regional basis, a multidisciplinary system of providing vocational and other rehabilitation services, specifically designed to meet the special needs of individuals with spinal cord injuries, including acute care as well as periodic inpatient or outpatient followup and services;
 

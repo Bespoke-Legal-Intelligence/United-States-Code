@@ -10,9 +10,3 @@ On or after June 30, 1914, all moneys received as contributions toward cooperati
 
 1928—Act May 29, 1928, struck out provision which required that annual reports be made to Congress of moneys received as contributions for cooperative work.
 
-#### Cross References
-
-Classification as trust funds, appropriation and disbursement of funds appearing on the books of the Government as “Cooperative work, Forest Service”, see section 1321 of Title 31, Money and Finance.
-
-Contributions received toward reforestation or for administration or protection of lands within forests to be covered into Treasury and constitute a special fund which may be appropriated for purposes for which contributed, see section 572 of this title.
-

@@ -100,7 +100,7 @@ Amount.—The amount of obligation authority referred to in subparagraph (A) sha
 
 &emsp;(7)
 
-Limitation on applicability of obligation limitation.—Notwithstanding any other provision of law, no limitation on the total ofobligations for highway safety programs under section 402 shall apply to funds transferred under this subsection to the apportionment of a State under such section.
+Limitation on applicability of obligation limitation.—Notwithstanding any other provision of law, no limitation on the total of obligations for highway safety programs under section 402 shall apply to funds transferred under this subsection to the apportionment of a State under such section.
 
 (Added Pub. L. 105–178, title I, §1406(a), as added Pub. L. 105–206, title IX, §9005(a), July 22, 1998, 112 Stat. 845.)
 

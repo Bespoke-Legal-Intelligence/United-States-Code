@@ -10,7 +10,7 @@
 
 &emsp;&emsp;&emsp;(i) individuals with disabilities who are Federal employees to have access to and use of information and data that is comparable to the access to and use of the information and data by Federal employees who are not individuals with disabilities; and
 
-&emsp;&emsp;&emsp;(ii) individuals with disabilities who are members of the public seeking informationor services from a Federal department or agency to have access to and use of information and data that is comparable to the access to and use of the information and data by such members of the public who are not individuals with disabilities.
+&emsp;&emsp;&emsp;(ii) individuals with disabilities who are members of the public seeking information or services from a Federal department or agency to have access to and use of information and data that is comparable to the access to and use of the information and data by such members of the public who are not individuals with disabilities.
 
 #### (B) Alternative means efforts
 
@@ -62,13 +62,13 @@ The Administrator of General Services and the Access Board shall provide technic
 
 #### (c) Agency evaluations
 
-Not later than 6 months after August 7, 1998, the head of each Federal department or agency shall evaluate the extent to which the electronic and information technology of the department or agency is accessible to and usable by individuals with disabilities described in subsection (a)(1) of this section, compared to the access to and use of the technology by individuals described in such subsection who are not individuals with disabilities, and submit a report containing the evaluation to the Attorney General.
+Not later than 6 months after August 7, 1998, the head of each Federal department or agencyshall evaluate the extent to which the electronic and information technology of the department or agency is accessible to and usable by individuals with disabilities described in subsection (a)(1) of this section, compared to the access to and use of the technology by individuals described in such subsection who are not individuals with disabilities, and submit a report containing the evaluation to the Attorney General.
 
 #### (d) Reports
 
 #### (1) Interim report
 
-&emsp;Not later than 18 months after August 7, 1998, the Attorney General shall prepare andsubmit to the President a report containing information on and recommendations regarding the extent to which the electronic and information technology of the Federal Government is accessible to and usable by individuals with disabilities described in subsection (a)(1) of this section.
+&emsp;Not later than 18 months after August 7, 1998, the Attorney General shall prepare and submit to the President a report containing information on and recommendations regarding the extent to which the electronic and information technology of the Federal Government is accessible to and usable by individuals with disabilities described in subsection (a)(1) of this section.
 
 #### (2) Biennial reports
 
@@ -84,11 +84,11 @@ Each head of a Federal department or agency (including the Access Board, the Equ
 
 #### (A) Complaints
 
-&emsp;&emsp;Effective 2 years after August 7, 1998, any individual with a disability may file a complaint alleging that a Federal department or agency fails to comply with subsection (a)(1) of this section in providing electronic and information technology.
+&emsp;&emsp;Effective 6 months after the date of publication by the Access Board of final standards described in subsection (a)(2) of this section, any individual with a disability may file a complaint alleging that a Federal department or agency fails to comply with subsection (a)(1) of this section in providing electronic and information technology.
 
 #### (B) Application
 
-&emsp;&emsp;This subsection shall apply only to electronic and information technology that is procured by a Federal department or agency not less than 2 years after August 7, 1998.
+&emsp;&emsp;This subsection shall apply only to electronic and information technology that is procured by a Federal department or agency not less than 6 months after the date of publication by the Access Board of final standards described in subsection (a)(2) of this section.
 
 #### (2) Administrative complaints
 
@@ -102,9 +102,13 @@ Each head of a Federal department or agency (including the Access Board, the Equ
 
 This section shall not be construed to limit any right, remedy, or procedure otherwise available under any provision of Federal law (including sections 791 through 794a of this title) that provides greater or equal protection for the rights of individuals with disabilities than this section.
 
-(Pub. L. 93–112, title V, §508, as added Pub. L. 99–506, title VI, §603(a), Oct. 21, 1986, 100 Stat. 1830; amended Pub. L. 100–630, title II, §206(f), Nov. 7, 1988, 102 Stat. 3312; Pub. L. 102–569, title V, §509(a), Oct. 29, 1992, 106 Stat. 4430; Pub. L. 105–220, title IV, §408(b), Aug. 7, 1998, 112 Stat. 1203.)
+(Pub. L. 93–112, title V, §508, as added Pub. L. 99–506, title VI, §603(a), Oct. 21, 1986, 100 Stat. 1830; amended Pub. L. 100–630, title II, §206(f), Nov. 7, 1988, 102 Stat. 3312; Pub. L. 102–569, title V, §509(a), Oct. 29, 1992, 106 Stat. 4430; Pub. L. 105–220, title IV, §408(b), Aug. 7, 1998, 112 Stat. 1203; Pub. L. 106–246, div. B, title II, §2405, July 13, 2000, 114 Stat. 555.)
 
 #### Amendments
+
+2000—Subsec. (f)(1)(A). Pub. L. 106–246, §2405(1), substituted “Effective 6 months after the date of publication by the Access Board of final standards described in subsection (a)(2) of this section,” for “Effective 2 years after August 7, 1998,”.
+
+Subsec. (f)(1)(B). Pub. L. 106–246, §2405(2), substituted “6 months after the date of publication by the Access Board of final standards described in subsection (a)(2) of this section.” for “2 years after August 7, 1998.”
 
 1998—Pub. L. 105–220 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) and (b) relating to electronic and information technology accessibility guidelines.
 

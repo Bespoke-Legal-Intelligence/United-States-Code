@@ -18,7 +18,7 @@
 
 &emsp;(A) that the Attorney General or such Assistant Attorney General approves or disapproves the referral to a presiding officer of the allegations of liability stated in such notice;
 
-&emsp;(B) in any case in which the referral of allegations is approved, that the initiation of a proceeding under this section with respect to such allegations is appropriate; and
+&emsp;(B) in any case in which the referral of allegations is approved, that the initiation of aproceeding under this section with respect to such allegations is appropriate; and
 
 &emsp;(C) in any case in which the referral of allegations is disapproved, the reasons for such disapproval.
 
@@ -154,7 +154,7 @@
 
 &emsp;(i) Procedures for the inclusion, in any written notice of a hearing under this section to any person alleged to be liable under section 3802 of this title, of a description of the procedures for the conduct of the hearing.
 
-&emsp;(ii) Procedures to permit discovery by any person alleged to be liable under section 3802 of this title only to the extent that the presiding officer determines that such discovery is necessary for the expeditious, fair, and reasonable consideration of the issues, except that such procedures shall not apply to documents, transcripts, records, or other material which a person is entitled to review under paragraph (1) of subsection (e) or to information to which a person is entitled under paragraph (2) of such subsection. Procedures promulgated under this clause shall prohibit the discovery of the notice required under subsection (a)(2) of this section.
+&emsp;(ii) Procedures to permit discovery by any person alleged to be liable under section 3802 of this title only to the extent that the presiding officer determines that such discovery is necessary for the expeditious, fair, and reasonable consideration of the issues, except that such procedures shall not apply to documents, transcripts, records, or other material which a person is entitled to review under paragraph (1) of subsection (e) or to information to which a person is entitled under paragraph (2) of such subsection. Procedures promulgated under this clause shall prohibit the discovery of thenotice required under subsection (a)(2) of this section.
 
 (4) Each hearing under subsection (f) of this section shall be held—
 

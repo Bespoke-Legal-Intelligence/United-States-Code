@@ -20,7 +20,7 @@
 
 > shall be imprisoned for not more than 10 years or fined not more than $250,000, or both.
 
-(2) Any manufacturer or distributor who distributes drug samples by means other than the mail or common carrier whose representative, during the course of the representative's employment or association with that manufacturer or distributor, violated section 331(t) of this title because of a violation of section 353(c)(1) of this title or violated any State law prohibiting the sale, purchase, or trade of a drug sample subject to section 353(b) of this title or the offerto sell, purchase, or trade such a drug sample shall, upon conviction of the representative for such violation, be subject to the following civil penalties:
+(2) Any manufacturer or distributor who distributes drug samples by means other than the mail or common carrier whose representative, during the course of the representative's employment or association with that manufacturer or distributor, violated section 331(t) of this title because of a violation of section 353(c)(1) of this title or violated any State law prohibiting the sale, purchase, or trade of a drug sample subject to section 353(b) of this title or the offer to sell, purchase, or trade such a drug sample shall, upon conviction of the representative for such violation, be subject to the following civil penalties:
 
 &emsp;(A) A civil penalty of not more than $50,000 for each of the first two such violations resulting in a conviction of any representative of the manufacturer or distributor in any 10-year period.
 
@@ -42,6 +42,8 @@
 
 (5) If a person provides information leading to the institution of a criminal proceeding against, and conviction of, a person for a violation of section 331(t) of this title because of the sale, purchase, or trade of a drug sample or the offer to sell, purchase, or trade a drug sample in violation of section 353(c)(1) of this title, such person shall be entitled to one-half of the criminal fine imposed and collected for such violation but not more than $125,000.
 
+(6) Notwithstanding subsection (a) of this section, any person who is a manufacturer or importer of a covered product pursuant to section 384(a) of this title and knowingly fails to comply with a requirement of section 384(e) of this title that is applicable to such manufacturer or importer, respectively, shall be imprisoned for not more than 10 years or fined not more than $250,000, or both.
+
 #### (c) Exceptions in certain cases of good faith, etc.
 
 No person shall be subject to the penalties of subsection (a)(1) of this section, (1) for having received in interstate commerce any article and delivered it or proffered delivery of it, if such delivery or proffer was made in good faith, unless he refuses to furnish on request of an officer or employee duly designated by the Secretary the name and address of the person from whom he purchased or received such article and copies of all documents, if any there be, pertaining to the delivery of the article to him; or (2) for having violated section 331(a) or (d) of this title, if he establishes a guaranty or undertaking signed by, and containing the name and address of, the person residing in the United States from whom he received in good faith the article, to the effect, in case of an alleged violation of section 331(a) of this title, that such article is not adulterated or misbranded, within the meaning of this chapter designating this chapter or to the effect, in case of an alleged violation of section 331(d) of this title, that such article is not an article which may not, under the provisions of section 344 or 355 of this title, be introduced into interstate commerce; or (3) for having violated section 331(a) of this title, where the violation exists because the article is adulterated by reason of containing a color additive not from a batch certified in accordance with regulations promulgated by the Secretary under this chapter, if such person establishes a guaranty or undertaking signed by, and containing the name and address of, the manufacturer of the color additive, to the effect that such color additive was from a batch certified in accordance with the applicable regulations promulgated by the Secretary under this chapter; or (4) for having violated section 331(b), (c) or (k) of this title by failure to comply with section 352(f) of this title in respect to an article received in interstate commerce to which neither section 353(a) nor 353(b)(1) of this title is applicable, if the delivery or proffered delivery was made in good faith and the labeling at the time thereof contained the same directions for use and warning statements as were contained in the labeling at the time of such receipt of such article; or (5) for having violated section 331(i)(2) of this title if such person acted in good faith and had no reason to believe that use of the punch, die, plate, stone, or other thing involved would result in a drug being a counterfeit drug, or for having violated section 331(i)(3) of this title if the person doing the act or causing it to be done acted in good faith and had no reason to believe that the drug was a counterfeit drug.
@@ -52,7 +54,7 @@ No person shall be subject to the penalties of subsection (a)(1) of this section
 
 #### (e) Prohibited distribution of human growth hormone
 
-(1) Except as provided in paragraph (2), whoever knowingly distributes, or possesses with intent to distribute, human growth hormone for any use in humans other than the treatment of a disease or other recognized medical condition, where such use has been authorized by the Secretary of Health and Human Services under section 355 of this title and pursuant to the order of a physician, is guilty of an offense punishable by not more than 5 years in prison, such fines as are authorized by title 18, or both.
+(1) Except as provided in paragraph (2), whoever knowingly distributes, or possesses with intent to distribute, human growth hormone forany use in humans other than the treatment of a disease or other recognized medical condition, where such use has been authorized by the Secretary of Health and Human Services under section 355 of this title and pursuant to the order of a physician, is guilty of an offense punishable by not more than 5 years in prison, such fines as are authorized by title 18, or both.
 
 (2) Whoever commits any offense set forth in paragraph (1) and such offense involves an individual under 18 years of age is punishable by not more than 10 years imprisonment, such fines as are authorized by title 18, or both.
 
@@ -94,15 +96,17 @@ No person shall be subject to the penalties of subsection (a)(1) of this section
 
 &emsp;(B) after a court in an action brought under paragraph (4) has entered a final judgment in favor of the Secretary,
 
-> the Attorney General shall recover the amount assessed (plus interest at currently prevailing rates from the date of the expiration of the 60-day period referred to in paragraph (4) or the date of such final judgment, as the case may be)in an action brought in any appropriate district court of the United States. In such an action, the validity, amount, and appropriateness of such penalty shall not be subject to review.
+> the Attorney General shall recover the amount assessed (plus interest at currently prevailing rates from the date of the expiration of the 60-day period referred to in paragraph (4) or the date of such final judgment, as the case may be) in an action brought in any appropriate district court of the United States. In such an action, the validity, amount, and appropriateness of such penalty shall not be subject to review.
 
-(June 25, 1938, ch. 675, §303, 52 Stat. 1043; Oct. 26, 1951, ch. 578, §2, 65 Stat. 649; Pub. L. 86–618, title I, §105(b), July 12, 1960, 74 Stat. 403; Pub. L. 89–74, §§7, 9(d), July 15, 1965, 79 Stat. 233, 235; Pub. L. 90–639, §3, Oct. 24, 1968, 82 Stat. 1361; Pub. L. 91–513, title II, §701(b), Oct. 27, 1970, 84 Stat. 1281; Pub. L. 94–278, title V, §502(a)(2)(B), Apr. 22, 1976, 90 Stat. 411; Pub. L. 100–293, §7(b), Apr. 22, 1988, 102 Stat. 99; Pub. L. 100–690, title II, §2403, Nov. 18, 1988, 102 Stat. 4230; Pub. L. 101–629, §17(a), Nov. 28, 1990, 104 Stat. 4526; Pub. L. 101–647, title XIX, §1904, Nov. 29, 1990, 104 Stat. 4853; Pub. L. 102–353, §3, Aug. 26, 1992, 106 Stat. 941; Pub. L. 103–80, §3(e), Aug. 13, 1993, 107 Stat. 775; Pub. L. 103–322, title XXXIII, §330015, Sept. 13, 1994, 108 Stat. 2146; Pub. L. 104–170, title IV, §407, Aug. 3, 1996, 110 Stat. 1535.)
+(June 25, 1938, ch. 675, §303, 52 Stat. 1043; Oct. 26, 1951, ch. 578, §2, 65 Stat. 649; Pub. L. 86–618, title I, §105(b), July 12, 1960, 74 Stat. 403; Pub. L. 89–74, §§7, 9(d), July 15, 1965, 79 Stat. 233, 235; Pub. L. 90–639, §3, Oct. 24, 1968, 82 Stat. 1361; Pub. L. 91–513, title II, §701(b), Oct. 27, 1970, 84 Stat. 1281; Pub. L. 94–278, title V, §502(a)(2)(B), Apr. 22, 1976, 90 Stat. 411; Pub. L. 100–293, §7(b), Apr. 22, 1988, 102 Stat. 99; Pub. L. 100–690, title II, §2403, Nov. 18, 1988, 102 Stat. 4230; Pub. L. 101–629, §17(a), Nov. 28, 1990, 104 Stat. 4526; Pub. L. 101–647, title XIX, §1904, Nov. 29, 1990, 104 Stat. 4853; Pub. L. 102–353, §3, Aug. 26, 1992, 106 Stat. 941; Pub. L. 103–80, §3(e), Aug. 13, 1993, 107 Stat. 775; Pub. L. 103–322, title XXXIII, §330015, Sept. 13, 1994, 108 Stat. 2146; Pub. L. 104–170, title IV, §407, Aug. 3, 1996, 110 Stat. 1535; Pub. L. 106–387, §1(a) \[title VII, §745(d)(2)\], Oct. 28, 2000, 114 Stat. 1549, 1549A–40.)
 
 #### References in Text
 
 The Controlled Substances Act, referred to in subsec. (e)(3), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
 
 #### Amendments
+
+2000—Subsec. (b)(6). Pub. L. 106–387 added par. (6).
 
 1996—Subsec. (f). Pub. L. 104–170, §407, which directed amendment of “Section 303(g) (21 U.S.C. 333(f))”, was executed to subsec. (f) of this section as follows, to reflect the probable intent of Congress:
 
@@ -219,10 +223,6 @@ For transfer of functions of Federal Security Administrator to Secretary of Heal
 #### Enforcement
 
 Pub. L. 99–660, title I, §103, Nov. 14, 1986, 100 Stat. 3751, provided that: “For the fines authorized to be imposed under section 303 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 333\], see section 3623 of title 18, United States Code, for the period ending October 31, 1986 \[probably should be October 31, 1987\], and sections 3559 and 3571 of such title for the period beginning November 1, 1986 \[probably should be November 1, 1987\].”
-
-#### Cross References
-
-Furnishing of guaranties, applicability to raw agricultural commodities, see section 346a of this title.
 
 #### Section Referred to in Other Sections
 

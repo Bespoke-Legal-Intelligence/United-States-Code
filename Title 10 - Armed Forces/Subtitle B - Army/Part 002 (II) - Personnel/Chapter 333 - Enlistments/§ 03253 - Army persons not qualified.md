@@ -44,7 +44,7 @@ In subsection (b), the word “soldier”, in 10:623, is omitted as covered by t
 
 In subsections (b) and (c), the first 15 words and the proviso of section 2 of the Act of August 1, 1894, ch. 179, 28 Stat. 216, are not contained in 10:623 or 625. They are also omitted from the revised section, since the first 15 words are superseded by section 3256(a) of this title, and the proviso is executed.
 
-In subsection (c), the words “(except an Indian)”, in section 2 of the Act of August 1, 1894, ch. 179, 28 Stat. 216, are not contained in 10:625. They are also omitted from the revised section, since section 201(b) of the Act of October 14, 1940, ch. 876, 54 Stat. 1138 (8 U.S.C. 601), provides that Indians are citizens and nationals of the United States. The words “may be accepted for original” are substituted for the words “shall be enlisted for the first”.
+In subsection (c), the words “(except an Indian)”, in section 2 of the Act of August 1, 1894, ch. 179, 28 Stat. 216, are not contained in 10:625. They are also omitted from the revised section, since section 201(b) of the Actof October 14, 1940, ch. 876, 54 Stat. 1138 (8 U.S.C. 601), provides that Indians are citizens and nationals of the United States. The words “may be accepted for original” are substituted for the words “shall be enlisted for the first”.
 
 #### References in Text
 
@@ -73,12 +73,4 @@ Section 3 of Pub. L. 85–116, July 24, 1957, 71 Stat. 311, provided that enlist
 #### Enlistments Between July 24, 1957, and July 1, 1959
 
 Section 2 of Pub. L. 85–116, July 24, 1957, 71 Stat. 311, provided that subsection (c) of this section did not apply to enlistments made under the act of June 30, 1950, on and after July 24, 1957, and before July 1, 1959.
-
-#### Cross References
-
-Nationality and naturalization, see section 1401 et seq. of Title 8, Aliens and Nationality.
-
-Naturalization through service in armed forces, see sections 1439, 1440 of Title 8.
-
-Persons effecting unlawful enlistment, punishment, see section 884 of this title.
 

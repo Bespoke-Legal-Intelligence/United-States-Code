@@ -26,7 +26,7 @@
 
 #### (4) Cost recovery
 
-&emsp;The Administrator or the Governor of a State may seek reimbursement for all costs of an emergency action taken under this subsection in the United States District Court for the District of Columbia or for the district in which the emergency action occurred. In any action seeking reimbursement from a local educational agency, the action shall be brought in the United States District Courtfor the district in which the local educational agency is located.
+&emsp;The Administrator or the Governor of a State may seek reimbursement for all costs of an emergency action taken under this subsection in the United States District Court for the District of Columbia or for the district in which the emergency action occurred. In any action seeking reimbursement from a local educational agency, the action shall be brought in the United States District Court for the district in which the local educational agency is located.
 
 #### (b) Injunctive relief
 

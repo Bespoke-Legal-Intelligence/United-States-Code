@@ -30,10 +30,6 @@ Amendment by Pub. L. 94–29 effective June 4, 1975, see section 31(a) of Pub. L
 
 Amendment by Pub. L. 91–547 effective Dec. 14, 1970, see section 30 of Pub. L. 91–547, set out as a note under section 80a–52 of this title.
 
-#### Cross References
-
-Approval of reorganization plan affecting senior securities or action requiring vote of security holders, see section 80a–18 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 80a–6, 80a–18 of this title.

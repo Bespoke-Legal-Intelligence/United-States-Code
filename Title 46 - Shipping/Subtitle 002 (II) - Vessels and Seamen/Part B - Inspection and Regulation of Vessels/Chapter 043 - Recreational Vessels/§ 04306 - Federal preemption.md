@@ -16,5 +16,5 @@ Historical and Revision Notes
 
 46:1460
 
-Section 4306 establishes the Federal preemption of recreational boating standards and requirements. AState or a political subdivision may not establish, continue, or enforce a law or regulation establishing a performance or other safety standard that is not identical to a Federal standard. The Secretary may grant an exemption to a State when the State requirement is one that is needed to meet uniquely hazardous conditions or circumstances within a State. This is to provide uniform standards without the imposition of excessive special requirements by individual States.
+Section 4306 establishes the Federal preemption of recreational boating standards and requirements. A State or a political subdivision may not establish, continue, or enforce a law or regulation establishing a performance or other safety standard that is not identical to a Federal standard. The Secretary may grant an exemption to a State when the State requirement is one that is needed to meet uniquely hazardous conditions or circumstances within a State. This is to provide uniform standards without the imposition of excessive special requirements by individual States.
 

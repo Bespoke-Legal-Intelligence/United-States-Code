@@ -16,18 +16,6 @@ Federal Rules of Civil Procedure, referred to in text, are set out in Appendix t
 
 1954—Act Sept. 3, 1954, brought section into conformity with present terms and practice.
 
-#### Federal Rules of Civil Procedure
-
-Process, see rule 4, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-Service and filing of pleadings and other papers, see rule 5, Title 28, Appendix.
-
-Trials—
-
-&emsp;&emsp;Jury trial of right, see rule 38, Title 28, Appendix.
-
-&emsp;&emsp;Trial by jury or by the court, see rule 39, Title 28, Appendix.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 15 of this title; title 5 section 576.

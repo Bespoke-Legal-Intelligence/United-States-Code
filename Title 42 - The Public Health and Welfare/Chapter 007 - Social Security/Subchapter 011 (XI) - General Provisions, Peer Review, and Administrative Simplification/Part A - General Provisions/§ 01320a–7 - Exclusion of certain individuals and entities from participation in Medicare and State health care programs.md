@@ -50,7 +50,7 @@ The Secretary may exclude the following individuals and entities from participat
 
 &emsp;&emsp;(A) whose license to provide health care has been revoked or suspended by any State licensing authority, or who otherwise lost such a license or the right to apply for or renew such a license, for reasons bearing on the individual's or entity's professional competence, professional performance, or financial integrity, or
 
-&emsp;&emsp;(B) who surrendered such a license while a formal disciplinary proceeding was pending before such an authority and the proceedingconcerned the individual's or entity's professional competence, professional performance, or financial integrity.
+&emsp;&emsp;(B) who surrendered such a license while a formal disciplinary proceeding was pending before such an authority and the proceeding concerned the individual's or entity's professional competence, professional performance, or financial integrity.
 
 #### (5) Exclusion or suspension under Federal or State health care program
 
@@ -78,7 +78,7 @@ The Secretary may exclude the following individuals and entities from participat
 
 > &emsp;&emsp;and has failed substantially to provide medically necessary items and services that are required (under law or the contract with the State under subchapter XIX of this chapter) to be provided to individuals covered under that plan or waiver, if the failure has adversely affected (or has a substantial likelihood of adversely affecting) these individuals; or
 
-&emsp;&emsp;(D) is an entity providing items and services as an eligible organization under a risk-sharing contract under section 1395mm of this title and has failed substantially to provide medically necessary items and services that are required (under law or such contract) to be provided to individuals covered under the risk-sharing contract, if the failure has adversely affected (or has a substantial likelihood of adversely affecting) these individuals.
+&emsp;&emsp;(D) is an entity providing items and services as an eligible organization under a risk-sharing contract under section 1395mm of this title and has failed substantially to provide medically necessary items and services that are required (under law or such contract) to be provided to individuals coveredunder the risk-sharing contract, if the failure has adversely affected (or has a substantial likelihood of adversely affecting) these individuals.
 
 #### (7) Fraud, kickbacks, and other prohibited activities
 
@@ -198,7 +198,7 @@ The Secretary may exclude the following individuals and entities from participat
 
 &emsp;(B) of the period (described in paragraph (3)) for which the State agency is directed to exclude the individual or entity from participation in the State health care program.
 
-(3)(A) Except as provided in subparagraph (B), the period of the exclusion under a State health care program under paragraph (2) shall be the same as any period of exclusion under subchapter XVIII of this chapter.
+(3)(A) Except as provided in subparagraph (B), the period of the exclusion under a State health care program under paragraph (2) shall be thesame as any period of exclusion under subchapter XVIII of this chapter.
 
 (B)(i) The Secretary may waive an individual's or entity's exclusion under a State health care program under paragraph (2) if the Secretary receives and approves a request for the waiver with respect to the individual or entity from the State agency administering or supervising the administration of the program.
 
@@ -224,7 +224,7 @@ The Secretary shall—
 
 #### (g) Application for termination of exclusion
 
-(1) An individual or entity excluded (or directed to be excluded) from participation underthis section or section 1320a–7a of this title may apply to the Secretary, in the manner specified by the Secretary in regulations and at the end of the minimum period of exclusion provided under subsection (c)(3) of this section and at such other times as the Secretary may provide, for termination of the exclusion effected under this section or section 1320a–7a of this title.
+(1) An individual or entity excluded (or directed to be excluded) from participation under this section or section 1320a–7a of this title may apply to the Secretary, in the manner specified by the Secretary in regulations and at the end of the minimum period of exclusion provided under subsection (c)(3) of this section and at such other times as the Secretary may provide, for termination of the exclusion effected under this section or section 1320a–7a of this title.
 
 (2) The Secretary may terminate the exclusion if the Secretary determines, on the basis of the conduct of the applicant which occurred after the date of the notice of exclusion or which was unknown to the Secretary at the time of the exclusion, that—
 
@@ -342,7 +342,7 @@ Subsec. (d)(3)(B). Pub. L. 100–203, §4118(e)(2), designated existing provisio
 
 Subsec. (i). Pub. L. 100–203, §4118(e)(5)(A), as added by Pub. L. 100–360, §411(k)(10)(D), substituted “an individual or entity” for “a physician or other individual” in introductory provisions.
 
-Pub. L. 100–203, §4118(e)(5)(B), as added by Pub. L. 100–360, §411(k)(10)(D), which directed amendment of pars. (1) to (4) by substituting “individual or entity” for “physician or other individual” each place it appears, was executed by substituting “individual or entity” for “physician or individual” in pars. (1) to (4) as the probable intent of Congress.
+Pub. L. 100–203, §4118(e)(5)(B), as added by Pub. L. 100–360, §411(k)(10)(D), which directed amendment of pars. (1) to (4) by substituting “individual or entity”for “physician or other individual” each place it appears, was executed by substituting “individual or entity” for “physician or individual” in pars. (1) to (4) as the probable intent of Congress.
 
 Subsec. (i)(4). Pub. L. 100–203, §4118(e)(5)(C), as added by Pub. L. 100–360, §411(k)(10)(D), substituted “first offender, deferred adjudication, or other arrangement or program” for “first offender or other program”.
 
@@ -382,7 +382,7 @@ Section 6411(d)(4)\[(A)\] of Pub. L. 101–239 provided that: “The amendments 
 
 #### Effective Date of 1988 Amendment
 
-Except as specifically provided in section 411 of Pub. L. 100–360, amendment by Pub. L. 100–360, as it relates to a provision in the Omnibus Budget ReconciliationAct of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360 set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
+Except as specifically provided in section 411 of Pub. L. 100–360, amendment by Pub. L. 100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360 set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
 
 #### Effective Date of 1987 Amendment
 
@@ -414,7 +414,7 @@ Clarification of Medicaid Moratorium.—The amendments made by section 9 of this
 
 “(f)
 
-Treatment of Certain Denials of Payment.—For purposes of section 1128(b)(8)(B)(iii) of the Social Security Act \[subsec. (b)(8)(B)(iii) of this section\] (as amended by section 2 of this Act), a person shall be considered to have been excluded from participation under a program under title XVIII \[subchapter XVIII of this chapter\] if payment to the person has been denied under section 1862(d) of the Social Security Act \[section 1395y(d) of this title\], as in effect before the effective date specified in subsection (a).”
+Treatment of Certain Denials of Payment.—For purposes of section 1128(b)(8)(B)(iii) of the Social Security Act \[subsec. (b)(8)(B)(iii) of this section\] (as amended by section 2 of this Act), a person shall be considered to have been excluded from participationunder a program under title XVIII \[subchapter XVIII of this chapter\] if payment to the person has been denied under section 1862(d) of the Social Security Act \[section 1395y(d) of this title\], as in effect before the effective date specified in subsection (a).”
 
 #### Effective Date of 1986 Amendment
 

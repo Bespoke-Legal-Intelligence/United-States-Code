@@ -4,12 +4,6 @@ The word “person”, or “persons”, wherever used in sections 1 to 7 of thi
 
 (July 2, 1890, ch. 647, §8, 26 Stat. 210.)
 
-#### Cross References
-
-Definition of person, see, also, section 12 of this title.
-
-Liability of corporate directors and agents for violation of antitrust laws, see section 24 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 6a of this title.

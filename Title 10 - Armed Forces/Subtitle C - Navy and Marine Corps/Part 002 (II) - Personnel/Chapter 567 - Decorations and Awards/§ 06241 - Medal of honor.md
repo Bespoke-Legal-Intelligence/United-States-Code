@@ -38,11 +38,7 @@ In subsection (b) the words “of the medal of honor authorized on August 8, 194
 
 Establishment of, see Ex. Ord. No. 11448, set out as a note preceding section 1121 of this title.
 
-#### Cross References
-
-Award of Medal of Honor to members of Army and Air Force, see sections 3741 and 8741 of this title.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in title 18 section 704.
+This section is referred to in section 1074h of this title; title 18 section 704.
 

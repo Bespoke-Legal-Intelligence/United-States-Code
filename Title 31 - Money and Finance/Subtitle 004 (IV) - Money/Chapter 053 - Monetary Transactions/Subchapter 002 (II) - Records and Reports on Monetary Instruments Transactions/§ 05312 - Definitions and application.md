@@ -68,7 +68,7 @@
 
 &emsp;&emsp;(B) as the Secretary may prescribe by regulation, coins and currency of a foreign country, travelers’ checks, bearer negotiable instruments, bearer investment securities, bearer securities, stock on which title is passed on delivery, and similar material; and
 
-&emsp;&emsp;(C) as the Secretary of the Treasury shall provide by regulation for purposes of section 5316, checks, drafts, notes, money orders,and other similar instruments which are drawn on or by a foreign financial institution and are not in bearer form.
+&emsp;&emsp;(C) as the Secretary of the Treasury shall provide by regulation for purposes of section 5316, checks, drafts, notes, money orders, and other similar instruments which are drawn on or by a foreign financial institution and are not in bearer form.
 
 &emsp;(4) “person”, in addition to its meaning under section 1 of title 1, includes a trustee, a representative of an estate and, when the Secretary prescribes, a governmental entity.
 

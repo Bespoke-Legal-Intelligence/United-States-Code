@@ -8,7 +8,7 @@ Establishment of Positions.—The Secretary of Defense shall require in regulati
 
 &emsp;&emsp;(A) designate a person to serve full-time as a beneficiary counseling and assistance coordinator for beneficiaries under the TRICARE program; and
 
-&emsp;&emsp;(B) provide for toll-free telephone communication between such beneficiaries and thebeneficiary counseling and assistance coordinator; and
+&emsp;&emsp;(B) provide for toll-free telephone communication between such beneficiaries and the beneficiary counseling and assistance coordinator; and
 
 &emsp;(2) the commander of each military medical treatment facility under this chapter designate a person to serve, as a primary or collateral duty, as beneficiary counseling and assistance coordinator for beneficiaries under the TRICARE program served at that facility.
 

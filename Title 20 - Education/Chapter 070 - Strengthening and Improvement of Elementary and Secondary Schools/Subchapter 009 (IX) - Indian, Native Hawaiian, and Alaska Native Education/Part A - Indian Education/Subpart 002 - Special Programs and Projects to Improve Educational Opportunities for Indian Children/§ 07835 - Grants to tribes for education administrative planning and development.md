@@ -18,7 +18,7 @@ The Secretary may make grants to Indian tribes, and tribal organizations approve
 
 #### (b) Period of grant
 
-Each grant under this section may be awarded for a period of not more than 3 years, except that such grant may be renewed upon the termination of the initial period of the grant if the grant recipient demonstrates to the satisfaction of the Secretary that renewing the grant for an additional 3-year period is necessary to carry out the objectives of the grant described in subsection (c)(2)(A) of this section.
+Each grant under this section may be awarded for a period of not more than 3 years, except that such grant may be renewed upon the termination of the initial period of the grant if thegrant recipient demonstrates to the satisfaction of the Secretary that renewing the grant for an additional 3-year period is necessary to carry out the objectives of the grant described in subsection (c)(2)(A) of this section.
 
 #### (c) Application for grant
 

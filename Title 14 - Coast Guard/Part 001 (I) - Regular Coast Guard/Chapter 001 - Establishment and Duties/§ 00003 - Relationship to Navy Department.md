@@ -16,18 +16,6 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 1976—Pub. L. 94–546 substituted “Executive” for “executive” and “Department of Transportation” for “Treasury Department”.
 
-#### Cross References
-
-Armed Forces as including Coast Guard, see section 101 of Title 10, Armed Forces.
-
-Cooperation with Navy Department, see section 145 of this title.
-
-Interchange of supplies between Navy and Coast Guard, see section 2571 of Title 10, Armed Forces.
-
-Secretary of the Navy, powers with respect to Coast Guard, see section 5013a of Title 10.
-
-Service in Navy to be counted, see section 467 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in title 10 section 5013a; title 49 section 108; title 50 section 191a.

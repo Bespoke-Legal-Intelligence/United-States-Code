@@ -42,7 +42,7 @@ When used in this subdivision and in subdivision (d) of this section—
 
 The commission shall put at the disposal of the President of the United States, the Committee on Ways and Means of the House of Representatives, and the Committee on Finance of the Senate, whenever requested, all information at its command, and shall make such investigations and reports as may be requested by the President or by either of said committees or by either branch of the Congress. However, the Commission may not release information which the Commission considers to be confidential business information unless the party submitting the confidential business information had notice, at the time of submission, that such information would be released by the Commission, or such party subsequently consents to the release of the information. The Commission shall report to Congress on the first Monday of December of each year after June 17, 1930, a statement of the methods adopted and all expenses incurred, a summary of all reports made during the year, and a list of all votes taken by the commission during the year, showing those commissioners voting in the affirmative and the negative on each vote and those commissioners not voting on each vote and the reasons for not voting. Each such annual report shall include a list of all complaints filed under section 1337 of this title during the year for which such report is being made, the date on which each such complaint was filed, and the action taken thereon, and the status of all investigations conducted by the commission under such section during such year and the date on which each such investigation was commenced.
 
-(June 17, 1930, ch. 497, title III, §332, 46 Stat. 698; Pub. L. 93–618, title I, §173, title III, §341(b), Jan. 3, 1975, 88 Stat. 2010, 2056; Pub. L. 96–39, title II, §202(a)(1), July 26, 1979, 93 Stat. 201; Pub. L. 100–418, title I, §1613, Aug. 23, 1988, 102 Stat. 1262; Pub. L. 100–647, title IX, §9001(a)(16), Nov. 10, 1988, 102 Stat. 3808.)
+(June 17, 1930, ch. 497, title III, §332, 46 Stat. 698; Pub. L. 93–618, title I, §173, title III, §341(b), Jan.3, 1975, 88 Stat. 2010, 2056; Pub. L. 96–39, title II, §202(a)(1), July 26, 1979, 93 Stat. 201; Pub. L. 100–418, title I, §1613, Aug. 23, 1988, 102 Stat. 1262; Pub. L. 100–647, title IX, §9001(a)(16), Nov. 10, 1988, 102 Stat. 3808.)
 
 #### References in Text
 
@@ -84,6 +84,10 @@ Amendment by Pub. L. 96–39 effective July 1, 1980, see section 204(a) of Pub. 
 
 Amendment by Pub. L. 93–618 effective on 90th day after Jan. 3, 1975, see section 341(c) of Pub. L. 93–618, set out as a note under section 1337 of this title.
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (g) of this section relating to an annual report to Congress on the first Monday of December of each year, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 194 of House Document No. 103–7.
+
 #### Delegation of Functions
 
 Functions of President under subsec. (g) of this section regarding reports by United States International Trade Commission to President delegated to United States Trade Representative, see section 5–301 of Ex. Ord. No. 12661, Dec. 27, 1988, 54 F.R. 779, set out as a note under section 2901 of this title.
@@ -95,10 +99,6 @@ Pub. L. 95–106, §5, Aug. 17, 1977, 91 Stat. 869, directed International Trade
 #### Review of Customs Tariff Schedules
 
 Act Sept. 1, 1954, ch. 1213, title I, §101, 68 Stat. 1136, as amended Aug. 2, 1956, ch. 894, 70 Stat. 955; May 19, 1958, Pub. L. 85–418, §3, 72 Stat. 120, provided for a complete study by the Tariff Commission for the purpose of clarifying and simplifying the tariff classification, with a report to go to the President and to the chairmen of the appropriate committees of Congress no later than Jan. 1, 1959. See section 1332 of this title.
-
-#### Cross References
-
-Importation of intoxicating liquors into any State, Territory, or possession in violation of its laws prohibited, see section 2 of the 21st Amendment to the Constitution.
 
 #### Section Referred to in Other Sections
 

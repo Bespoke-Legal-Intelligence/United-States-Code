@@ -6,7 +6,7 @@ No person shall acquire, directly or indirectly, the whole or any part of the st
 
 This section shall not apply to persons purchasing such stock solely for investment and not using the same by voting or otherwise to bring about, or in attempting to bring about, the substantial lessening of competition. Nor shall anything contained in this section prevent a corporation engaged in commerce or in any activity affecting commerce from causing the formation of subsidiary corporations for the actual carrying on of their immediate lawful business, or the natural and legitimate branches or extensions thereof, or from owning and holding all or a part of the stock of such subsidiary corporations, when the effect of such formation is not to substantially lessen competition.
 
-Nor shall anything herein contained be construed to prohibit any common carrier subject to the laws to regulate commerce from aiding in the construction of branches or short lines so located as to become feeders to the main line of the company so aiding in such construction or from acquiring or owning all or any part of the stock of such branch lines, nor to prevent any such common carrier from acquiring and owning all or any part of the stock of a branch or short line constructed by an independent company where there is no substantial competition between the company owning the branch line so constructed and the company owning the main line acquiring the property or an interest therein, nor to prevent such common carrier from extending any of its lines through the medium of the acquisition of stock or otherwise of any other common carrier where there is no substantial competition between the company extending its lines and the company whose stock, property, or an interest therein is so acquired.
+Nor shall anything herein contained be construed to prohibit any common carrier subject to the laws to regulate commerce from aiding in the construction of branches or short lines so located as to become feeders to the main line of the company so aiding in such construction or from acquiring or owning all or any part of the stock of such branch lines, nor to prevent any such common carrier from acquiring and owning all or any part of the stock of a branch or short line constructed by an independent company where there is no substantial competition between the company owning the branch line so constructed and the company owning the main line acquiring the property or an interest therein, nor to prevent such common carrier from extending any of its lines through the medium ofthe acquisition of stock or otherwise of any other common carrier where there is no substantial competition between the company extending its lines and the company whose stock, property, or an interest therein is so acquired.
 
 Nothing contained in this section shall be held to affect or impair any right heretofore legally acquired: <i>Provided</i>, That nothing in this section shall be held or construed to authorize or make lawful anything heretofore prohibited or made illegal by the antitrust laws, nor to exempt any person from the penal provisions thereof or the civil remedies therein provided.
 
@@ -49,14 +49,6 @@ United States Maritime Commission abolished by Reorg. Plan No. 21 of 1950, eff. 
 Section 304 of Reorg. Plan No. 7 of 1961, eff. Aug. 12, 1961, 26 F.R. 7315, 75 Stat. 840, set out in the Appendix to Title 5, abolished Federal Maritime Board, including offices of members of Board. Functions of Board transferred either to Federal Maritime Commission or Secretary of Commerce by sections 103 and 202 of Reorg. Plan No. 7 of 1961.
 
 Maritime Administration of Department of Commerce transferred to Department of Transportation, and all related functions of Secretary and other officers and offices of Department of Commerce transferred to Department of Transportation and vested in Secretary of Transportation, see section 1601 et seq. of Title 46, Appendix, Shipping.
-
-#### Cross References
-
-Acquisition of stock of export trade corporation, see section 63 of this title.
-
-Administrative authority to enforce compliance with this section, see section 21 of this title.
-
-Divestment of stock held contrary to the provisions of this section, see section 21 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -60,7 +60,7 @@ The amendment reflects section 1 of the Act of May 31, 1956, ch. 348 (70 Stat. 2
 
 #### Amendments
 
-1996—Pub. L. 104–106 designated subsec. (b) as entire section and struck out subsec. (a) which read as follows: “Upon retirement, a commissioned officer of the Air Force who has served (1) as Chief of Staff to the President, (2) as Chief of Staff of the Air Force, (3) as a senior member of the Military Staff Committee of the United Nations, or (4) as Surgeon General of the Air Force in the grade of lieutenant general may, in the discretion of the President, be retired, by and with the advice and consent of the Senate, in the highest grade in which he served on active duty.”
+1996—Pub. L. 104–106 designated subsec. (b) as entire section and struck out subsec. (a) which read as follows: “Upon retirement, a commissioned officer of the Air Force who has served (1) as Chief of Staff to the President, (2) as Chief of Staff of the Air Force, (3) asa senior member of the Military Staff Committee of the United Nations, or (4) as Surgeon General of the Air Force in the grade of lieutenant general may, in the discretion of the President, be retired, by and with the advice and consent of the Senate, in the highest grade in which he served on active duty.”
 
 1980—Pub. L. 96–343, §13(b)(2), substituted “positions” for “positions: regular commissioned officers” in section catchline.
 
@@ -83,12 +83,6 @@ For authority of the President to appoint a retired commissioned officer of a re
 #### Retired Grade for Certain General Officers
 
 Extension of privilege granted by subsec. (a) of this section, to officers, heretofore or hereafter retired, who served in the grade of general or lieutenant general after Dec. 7, 1941, and before July 1, 1946, see section 38 of act Aug. 10, 1956, set out as a note under section 3962 of this title.
-
-#### Cross References
-
-Chief of Staff, see section 8033 of this title.
-
-Senior member of Military Staff Committee of United Nations, see section 711 of this title.
 
 #### Section Referred to in Other Sections
 

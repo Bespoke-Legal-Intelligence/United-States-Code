@@ -12,7 +12,7 @@ Merchandise introduced into the United States in violation of this section, or t
 
 The term “United States”, as used in this section, shall not include the Virgin Islands, American Samoa, Wake Island, Midway Islands, Kingman Reef, Johnston Island, or Guam.
 
-(June 25, 1948, ch. 645, 62 Stat. 716; Aug. 24, 1954, ch. 890, §1, 68 Stat. 782; Sept. 1, 1954, ch. 1213,title V, §507, 68 Stat. 1141; June 30, 1955, ch. 258, §2(c), 69 Stat. 242; Pub. L. 103–322, title XXXII, §320903(c), title XXXIII, §§330004(18), 330016(1)(L), Sept. 13, 1994, 108 Stat. 2125, 2142, 2147; Pub. L. 104–294, title VI, §604(b)(23), Oct. 11, 1996, 110 Stat. 3508.)
+(June 25, 1948, ch. 645, 62 Stat. 716; Aug. 24, 1954, ch. 890, §1, 68 Stat. 782; Sept. 1, 1954, ch. 1213, title V, §507, 68 Stat. 1141; June 30, 1955, ch. 258, §2(c), 69 Stat. 242; Pub. L. 103–322, title XXXII, §320903(c), title XXXIII, §§330004(18), 330016(1)(L), Sept. 13, 1994, 108 Stat. 2125, 2142, 2147; Pub. L. 104–294, title VI, §604(b)(23), Oct. 11, 1996, 110 Stat. 3508.)
 
 #### Historical and Revision Notes
 
@@ -59,24 +59,6 @@ Amendment by act June 30, 1955, effective July 1, 1955, see section 2(d) of act 
 #### Effective Date of 1954 Amendment
 
 Section 2 of act Aug. 24, 1954, provided that: “The amendments made by the first section of this Act \[amending this section\] shall apply only with respect to offenses committed on and after the date of the enactment of this Act \[Aug. 24, 1954\].”
-
-#### Federal Rules of Criminal Procedure
-
-Searches and seizures, generally, see rule 41, Appendix to this title.
-
-#### Cross References
-
-False shipping manifest or lack of manifest in connection with importation of goods, penalties, see section 1584 of Title 19, Customs Duties.
-
-Forfeitures generally, see sections 2461 to 2465 of Title 28, Judiciary and Judicial Procedure.
-
-Narcotic drugs—
-
-&emsp;&emsp;Penalty for aiding unlawful importation, see section 1595a of Title 19, Customs Duties.
-
-&emsp;&emsp;Search of vehicles and persons, see section 482 of Title 19.
-
-&emsp;&emsp;Seizure and forfeiture of, see section 881 of Title 21, Food and Drugs.
 
 #### Section Referred to in Other Sections
 

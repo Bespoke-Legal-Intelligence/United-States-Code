@@ -22,7 +22,3 @@ Army and Navy Munitions Board ceased to exist when Chairman of Board of Munition
 
 For exception of functions of corporations of Department of Agriculture from transfer of functions to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, see Exceptions From Transfer of Functions note set out under section 712a of this title.
 
-#### Cross References
-
-Provisions of section as applicable to federally chartered corporation, see section 714d of this title.
-

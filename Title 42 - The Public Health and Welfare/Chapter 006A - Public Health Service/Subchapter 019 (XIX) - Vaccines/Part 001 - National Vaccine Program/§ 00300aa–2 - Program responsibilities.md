@@ -20,7 +20,7 @@
 
 #### (5) Production and procurement of vaccines
 
-&emsp;The Director of the Program shall, through the plan issued under section 300aa–3 of this title, ensure that the governmental and non-governmental production and procurement of safe and effective vaccines by the Public Health Service, the Department of Defense, and the Agency for International Developmentmeet the needs of the United States population and fulfill commitments of the United States to prevent human infectious diseases in other countries.
+&emsp;The Director of the Program shall, through the plan issued under section 300aa–3 of this title, ensure that the governmental and non-governmental production and procurement of safe and effective vaccines by the Public Health Service, the Department of Defense, and the Agency for International Development meet the needs of the United States population and fulfill commitments of the United States to prevent human infectious diseases in other countries.
 
 #### (6) Distribution and use of vaccines
 
@@ -40,7 +40,7 @@
 
 (b) In carrying out subsection (a) of this section and in preparing the plan under section 300aa–3 of this title, the Director shall consult with all Federal agencies involved in research on and development, testing, licensing, production, procurement, distribution, and use of vaccines.
 
-(July 1, 1944, ch. 373, title XXI, §2102, as added Pub. L. 99–660, title III, §311(a), Nov. 14, 1986, 100 Stat. 3756; amended Pub. L. 102–531, title III, §312(d)(13), Oct. 27, 1992, 106 Stat. 3505.)
+(July 1, 1944, ch. 373, title XXI, §2102, as added Pub. L. 99–660, title III, §311(a), Nov. 14, 1986, 100Stat. 3756; amended Pub. L. 102–531, title III, §312(d)(13), Oct. 27, 1992, 106 Stat. 3505.)
 
 #### Prior Provisions
 

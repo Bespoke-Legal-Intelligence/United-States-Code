@@ -22,7 +22,7 @@ Management of Easement.—The Secretary shall enter into a cooperative agreement
 
 “(c)
 
-Resource Study.—Not later than 18 months after the date on which funds are made available to carry out this section, the Secretary of the Interior shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Resources of the House of Representatives a resourcestudy of the property described in subsection (a). The study shall—
+Resource Study.—Not later than 18 months after the date on which funds are made available to carry out this section, the Secretary of the Interior shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Resources of the House of Representatives a resource study of the property described in subsection (a). The study shall—
 
 &emsp;“(1) identify the full range of resources and historic themes associated with Ferry Farm, including those associated with George Washington's tenure at the property and those associated with the Civil War period;
 
@@ -40,7 +40,7 @@ Pub. L. 103–25, May 3, 1993, 107 Stat. 68, provided that:
 
 #### “SECTION 1. ADDITION TO NATIONAL MONUMENT.
 
-“The boundaries of the George Washington Birthplace National Monument (hereinafter referred to as the ‘National Monument’) are hereby modified to include the area comprising approximately 12 acres, as generally depicted on the map entitled ‘George Washington Birthplace National Monument Boundary Map’, numbered 332/80,011A and dated September 1992, which shall be on file and available for public inspection in the appropriate offices of the National Park Service, Department of the Interior.
+“The boundaries of the George Washington Birthplace National Monument (hereinafter referred to asthe ‘National Monument’) are hereby modified to include the area comprising approximately 12 acres, as generally depicted on the map entitled ‘George Washington Birthplace National Monument Boundary Map’, numbered 332/80,011A and dated September 1992, which shall be on file and available for public inspection in the appropriate offices of the National Park Service, Department of the Interior.
 
 #### “SEC. 2. ACQUISITION OF LANDS.
 

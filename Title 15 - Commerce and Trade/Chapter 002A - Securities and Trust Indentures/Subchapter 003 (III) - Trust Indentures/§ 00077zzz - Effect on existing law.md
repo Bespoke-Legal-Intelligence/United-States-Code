@@ -16,15 +16,3 @@ The Public Utility Holding Company Act of 1935, referred to in text, is act Aug.
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
-#### Cross References
-
-Jurisdiction of other government agencies over securities under—
-
-&emsp;&emsp;Investment Company Act of 1940, see section 80a–49 of this title.
-
-&emsp;&emsp;Public Utility Holding Company Act of 1935, see section 79u of this title.
-
-&emsp;&emsp;Securities Act of 1933, see sections 77r and 77y of this title.
-
-&emsp;&emsp;Securities Exchange Act of 1934, see section 78bb of this title.
-

@@ -34,7 +34,7 @@ In recognizing the District of Columbia as a separate circuit, the Supreme Court
 
 See section 17 of title 28, U.S.C., 1940 ed., providing, “For the purposes of sections 17–23 of this title, the District of Columbia shall be deemed to be a judicial circuit \* \* \*”, and act Dec. 23, 1944, ch. 724, 58 Stat. 925, which amended section 215 of title 28, U.S.C., 1940 ed., incorporated in section 42 of this title. Such amendment provided that for the purposes of said section 215 “the District of Columbia shall be deemed to be a judicial circuit.”
 
-Many other acts of Congress have recognized the District of Columbia as a separate circuit. (See the following acts; Aug. 24, 1937, ch. 754, 50 Stat. 751; Feb. 11, 1938, ch. 25, 52 Stat. 28; Aug. 5, 1939, ch. 433, 53 Stat. 1204; Aug. 7, 1939, ch. 501, 53 Stat. 1223; Dec. 29, 1942, ch. 835,56 Stat. 1094; May 11, 1944, ch. 192, 58 Stat. 218; Dec. 23, 1944, ch. 724, 58 Stat. 925.)
+Many other acts of Congress have recognized the District of Columbia as a separate circuit. (See the following acts; Aug. 24, 1937, ch. 754, 50 Stat. 751; Feb. 11, 1938, ch. 25, 52 Stat. 28; Aug. 5, 1939, ch. 433, 53 Stat. 1204; Aug. 7, 1939, ch. 501, 53 Stat. 1223; Dec. 29, 1942, ch. 835, 56 Stat. 1094; May 11, 1944, ch. 192, 58 Stat. 218; Dec. 23, 1944, ch. 724, 58 Stat. 925.)
 
 See also the following acts recognizing the Court of Appeals for the District of Columbia as a circuit court of appeals: Aug. 15, 1921, ch. 64, 42 Stat. 162; July 5, 1935, ch. 372, 49 Stat. 454; Aug. 24, 1937, ch. 754, 50 Stat. 751; Apr. 6, 1942, ch. 210, 56 Stat. 198; May 9, 1942, ch. 295, 56 Stat. 271. See also Rule 81(d) Federal Rules of Civil Procedure.
 
@@ -46,11 +46,11 @@ Some of the provisions of section 864 of title 48, U.S.C., 1940 ed., have been r
 
 #### Amendments
 
-1982—Pub. L. 97–164 increased number of judicial circuits from twelve to thirteen through addition of Federal circuit composed of all Federal judicial districts.
+<b>1982</b>—Pub. L. 97–164 increased number of judicial circuits from twelve to thirteen through addition of Federal circuit composed of all Federal judicial districts.
 
-1980—Pub. L. 96–452 substituted “twelve” for “eleven” in text preceding table, substituted “District of the Canal Zone” for “Alabama, Canal Zone, Florida, Georgia” in item relating to fifth circuit, and added new item relating to eleventh circuit.
+<b>1980</b>—Pub. L. 96–452 substituted “twelve” for “eleven” in text preceding table, substituted “District of theCanal Zone” for “Alabama, Canal Zone, Florida, Georgia” in item relating to fifth circuit, and added new item relating to eleventh circuit.
 
-1951—Act Oct. 31, 1951, inserted reference to Guam in that part relating to composition of Ninth judicial circuit.
+<b>1951</b>—Act Oct. 31, 1951, inserted reference to Guam in that part relating to composition of Ninth judicial circuit.
 
 #### Effective Date of 1982 Amendment
 
@@ -66,97 +66,7 @@ For termination of the United States District Court for the District of the Cana
 
 #### Commission on Structural Alternatives for the Federal Courts of Appeals
 
-Pub. L. 105–119, title III, §305, Nov. 26, 1997, 111 Stat. 2491, provided that:
-
-“(a)
-
-Commission on Structural Alternatives for the Federal Courts of Appeals.—
-
-&emsp;“(1)
-
-Establishment and functions of commission.—
-
-&emsp;&emsp;“(A)
-
-Establishment.—There is established a Commission on Structural Alternatives for the Federal Courts of Appeals (hereinafter referred to as the ‘Commission’).
-
-&emsp;&emsp;“(B)
-
-Functions.—The functions of the Commission shall be to—
-
-&emsp;&emsp;&emsp;“(i) study the present division of the United States into the several judicial circuits;
-
-&emsp;&emsp;&emsp;“(ii) study the structure and alignment of the Federal Court of Appeals system, with particular reference to the Ninth Circuit; and
-
-&emsp;&emsp;&emsp;“(iii) report to the President and the Congress its recommendations for such changes in circuit boundaries or structure as may be appropriate for the expeditious and effective disposition of the caseload of the Federal Courts of Appeals, consistent with fundamental concepts of fairness and due process.
-
-&emsp;“(2)
-
-Membership.—
-
-&emsp;&emsp;“(A)
-
-Composition.—The Commission shall be composed of five members who shall be appointed by the Chief Justice of the United States.
-
-&emsp;&emsp;“(B)
-
-Appointment.—The members of the Commission shall be appointed within 30 days after the date of enactment of this Act \[Nov. 26, 1997\].
-
-&emsp;&emsp;“(C)
-
-Vacancy.—Any vacancy in the Commission shall be filled in the same manner as the original appointment.
-
-&emsp;&emsp;“(D)
-
-Chair.—The Commission shall elect a chair and vice chair from among its members.
-
-&emsp;&emsp;“(E)
-
-Quorum.—Three members of the Commission shall constitute a quorum, but two may conduct hearings.
-
-&emsp;“(3)
-
-Compensation.—
-
-&emsp;&emsp;“(A)
-
-In general.—Members of the Commission who are officers, or full-time employees, of the United States shall receive no additional compensation for their services, but shall be reimbursed for travel, subsistence, and other necessary expenses incurred in the performance of duties vested in the Commission, but not in excess of the maximum amounts authorized under section 456 of title 28, United States Code.
-
-&emsp;&emsp;“(B)
-
-Private members.—Members of the Commission from private life shall receive $200 for each day (including travel time) during which the member is engaged in the actual performance of duties, but not in excess of the maximum amounts authorized under section 456 of title 28, United States Code.
-
-&emsp;“(4)
-
-Personnel.—
-
-&emsp;&emsp;“(A)
-
-Executive director.—The Commission may appoint an Executive Director who shall receive compensation at a rate not exceeding the rate prescribed for level V of the Executive Schedule under section 5316 of title 5, United States Code.
-
-&emsp;&emsp;“(B)
-
-Staff.—The Executive Director, with the approval of the Commission, may appoint and fix the compensation of such additional personnel as the Executive Director determines necessary, without regard to the provisions of title 5, United States Code, governing appointments in the competitive service or the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates. Compensation under this paragraph shall not exceed the annual maximum rate of basic pay for a position above GS–15 of the General Schedule under section 5108 of title 5, United States Code.
-
-&emsp;&emsp;“(C)
-
-Experts and consultants.—The Executive Director may procure personal services of experts and consultants as authorized by section 3109 of title 5, United States Code, at rates not to exceed the highest level payable under the General Schedule pay rates under section 5332 of title 5, United States Code.
-
-&emsp;&emsp;“(D)
-
-Services.—The Administrative Office of the United States Courts shall provide administrative services, including financial and budgeting services, to the Commission on a reimbursable basis. The Federal Judicial Center shall provide necessary research services to the Commission on a reimbursable basis.
-
-&emsp;“(5)
-
-Information.—The Commission is authorized to request from any department, agency, or independent instrumentality of the Government any information and assistance the Commission determines necessary to carry out its functions under this section. Each such department, agency, and independent instrumentality is authorized to provide such information and assistance to the extent permitted by law when requested by the chair of the Commission.
-
-&emsp;“(6)
-
-Report.—The Commission shall conduct the studies required in this section during the 10-month period beginning on the date on which a quorum of the Commission has been appointed. Not later than 2 months following the completion of such 10-month period, the Commission shall submit its report to the President and the Congress. The Commission shall terminate 90 days after the date of the submission of its report.
-
-“(b)
-
-Authorization of Appropriations.—There are authorized to be appropriated to the Commission such sums, not to exceed $900,000, as may be necessary to carry out the purposes of this section. Such sums as are appropriated shall remain available until expended.”
+Pub. L. 105–119, title III, §305, Nov. 26, 1997, 111 Stat. 2491, established Commission on Structural Alternatives for the Federal Courts of Appeals, directed Commission to study division of United States into judicial circuits, study structure and alignment of Federal Court of Appeals system, and report to President and Congress its recommendations of changes needed to expeditiously and effectively dispose of caseload of Federal Courts of Appeals, consistent with fundamental concepts of fairness and due process, provided for Commission's membership and compensation of members and staff, authorized appropriations, and provided for termination of Commission 90 days after submission of its report.
 
 #### Assignment of Judges and Procedure for Administration of Pending Cases With Regard to Reorganization of the Fifth Circuit Court of Appeals
 
@@ -210,13 +120,9 @@ Pub. L. 95–157, §1(a), Nov. 8, 1977, 91 Stat. 1265, provided that the Norther
 
 #### Commission on Revision of the Federal Appellate System
 
-Pub. L. 92–489, Oct. 13, 1972, 86 Stat. 807, as amended by Pub. L. 93–420, Sept. 19, 1974, 88 Stat. 1153, provided for the establishment, membership, travel expenses, personnel, experts and consultants, administrative and research services, cooperation of other governmental agencies, and appropriations of not to exceed $606,000 of a Commission on Revision of the Federal Court Appellate System which Commission was to study the geographical division of the judicial circuits and the structure and internal procedures of the appellate court system and to report to the President, Congress, and the Chief Justice its recommendations for changes in the geographical boundaries of the circuits to expedite disposition of judicial business and for changes in the appellate court structure to expedite disposition of the appellate courts caseload in a manner consistent with fundamental concepts of fairness and due process. The Commission was to cease existence ninety days after submission of its final report, which report was submitted June 20, 1975.
+Pub. L. 92–489, Oct. 13, 1972, 86 Stat. 807, as amended by Pub. L. 93–420, Sept. 19, 1974, 88 Stat. 1153, provided for the establishment, membership, travel expenses, personnel, experts and consultants, administrative andresearch services, cooperation of other governmental agencies, and appropriations of not to exceed $606,000 of a Commission on Revision of the Federal Court Appellate System which Commission was to study the geographical division of the judicial circuits and the structure and internal procedures of the appellate court system and to report to the President, Congress, and the Chief Justice its recommendations for changes in the geographical boundaries of the circuits to expedite disposition of judicial business and for changes in the appellate court structure to expedite disposition of the appellate courts caseload in a manner consistent with fundamental concepts of fairness and due process. The Commission was to cease existence ninety days after submission of its final report, which report was submitted June 20, 1975.
 
 #### Continuation of Organization of Court
 
 Section 2(b) of act June 25, 1948, ch. 646, 62 Stat. 985, provided in part that the provisions of this title as set out in section 1 of act June 25, 1948, with respect to the organization of each of the several courts therein provided, shall be construed as continuations of existing law, and the tenure of the judges, officers, and employees thereof and of the United States attorneys and marshals and their deputies and assistants, in office on Sept. 1, 1948, shall not be affected by its enactment, but each of them shall continue to serve in the same capacity under the appropriate provisions of this title, pursuant to his prior appointment.
-
-#### Cross References
-
-Circuits in which decisions are reviewable, see section 1294 of this title.
 

@@ -14,5 +14,5 @@ Chapter effective immediately prior to noon on Jan. 3, 1971, see section 601(1) 
 
 #### Inconsistent Provisions
 
-Section 477(b) of Pub. L. 91–510 provided that: “All provisions of law inconsistent with any provision ofthis Part \[enacting this chapter, amending section 5533(c) of Title 5, Government Organization and Employees, and repealing sections 60g, 60g–1 and 72a(e) of this title\] are hereby superseded to the extent of the inconsistency.”
+Section 477(b) of Pub. L. 91–510 provided that: “All provisions of law inconsistent with any provision of this Part \[enacting this chapter, amending section 5533(c) of Title 5, Government Organization and Employees, and repealing sections 60g, 60g–1 and 72a(e) of this title\] are hereby superseded to the extent of the inconsistency.”
 

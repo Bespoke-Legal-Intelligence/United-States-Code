@@ -14,7 +14,7 @@ Reimbursement under this section may be provided for transportation charges on s
 
 #### (d) Arrangements with receiving country for free entry of shipments and for availability of local currency to defray transportation costs
 
-Where practicable, the President shall make arrangements with the receiving country for free entry of such shipments and for the makingavailable by the country of local currencies for the purpose of defraying the transportation costs of such shipments from the port or point of entry of the receiving country to the designated shipping point of the consignee.
+Where practicable, the President shall make arrangements with the receiving country for free entry of such shipments and for the making available by the country of local currencies for the purpose of defraying the transportation costs of such shipments from the port or point of entry of the receiving country to the designated shipping point of the consignee.
 
 #### (e) Continuation of support for programs in countries antedating prohibitions on assistance; national interest considerations; report to Congress
 
@@ -62,7 +62,7 @@ Subsec. (h). Pub. L. 99–83, §310, added subsec. (h).
 
 1981—Subsecs. (f), (g). Pub. L. 97–113, §309, added subsecs. (f) and (g).
 
-1980—Subsec. (a). Pub. L. 96–533, §307(1), (2), provided for contribution of public funds to private and voluntary organizations and cooperatives for purpose of sharing cost of developing programs related to development activities and encouraged establishment of simplified procedures for development of programs to becarried out by such entities having a capacity for undertaking effective development programs.
+1980—Subsec. (a). Pub. L. 96–533, §307(1), (2), provided for contribution of public funds to private and voluntary organizations and cooperatives for purpose of sharing cost of developing programs related to development activities and encouraged establishment of simplified procedures for development of programs to be carried out by such entities having a capacity for undertaking effective development programs.
 
 Subsec. (e). Pub. L. 96–533, §307(3), added subsec. (e).
 
@@ -86,9 +86,11 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 #### Private and Volunteer Organizations
 
-Pub. L. 106–113, div. B, §1000(a)(2) \[title II\], Nov. 29, 1999, 113 Stat. 1535, 1501A–68, provided in part that: “None of the funds appropriated or otherwise made available by this Act for development assistance may be made available to any United States private and voluntary organization, except any cooperative development organization, which obtains less than 20 percent of its total annual funding for international activities from sources other than the United States Government: <i>Provided</i>, That the Administrator of the Agency for International Development may, on a case-by-case basis, waive the restriction contained in this paragraph, after taking into account the effectiveness of the overseas development activities of the organization, its level of volunteer support, its financial viability and stability, and the degree of its dependence for its financial support on the agency.”
+Pub. L. 106–429, §101(a) \[title II\], Nov. 6, 2000, 114 Stat. 1900, 1900A–8, provided in part that: “None of the funds appropriated or otherwise made available by this Act for development assistance may be made available to any United States private and voluntary organization, except any cooperative development organization, which obtains less than 20 percent of its total annual funding for international activities from sources other than the United States Government: <i>Provided</i>, That the Administrator of the Agency for International Development, after informing the Committees on Appropriations, may, on a case-by-case basis, waive the restriction contained in this paragraph, after taking into account the effectiveness of the overseas development activities of the organization, its level of volunteer support, its financial viability and stability, and the degree of its dependence for its financial support on the agency.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 106–113, div. B, §1000(a)(2) \[title II\], Nov. 29, 1999, 113 Stat. 1535, 1501A–68.
 
 Pub. L. 105–277, div. A, §101(d) \[title II\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–156.
 

@@ -62,7 +62,7 @@ A chief executive officer shall use funds under subsection (a)(2) of this sectio
 
 &emsp;(1) Project Drug Abuse Resistance Education and other programs which provide classroom instruction by uniformed law enforcement officials that is designed to teach students to recognize and resist pressures to experiment that influence such children to use controlled substances or alcohol;
 
-&emsp;(2) Project Legal Lives and other programs in which district attorneys provide classroom instruction in the law and legal system which emphasizes interactive learning techniques, such as mock trial competitions;
+&emsp;(2) Project Legal Lives and other programs in which district attorneys provide classroominstruction in the law and legal system which emphasizes interactive learning techniques, such as mock trial competitions;
 
 &emsp;(3) partnerships between law enforcement and child guidance professionals; and
 

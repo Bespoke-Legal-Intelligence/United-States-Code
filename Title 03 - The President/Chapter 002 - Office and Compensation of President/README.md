@@ -52,7 +52,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 #### Section 1. Redesignation of Domestic Council Staff
 
-The Domestic Council staff is hereby designated the Domestic Policy Staff and shall consist of such staff personnel as are determined by the President to be necessary to assure that the needs of the President for prompt and comprehensive advice are met with respect to matters of economic and domestic policy. The staff shall continue to be headed by an Executive Director who shall be an Assistant to the President, designated by the President, as provided in Section 203 of Reorganization Plan No. 2 of 1970 \[set out in Title 5, Appendix\]. The Executive Director shall perform such functions as the President may from time to time direct.
+The Domestic Council staff is hereby designated the Domestic Policy Staff and shall consist of such staff personnel as are determined by the President to be necessary to assure that the needs of the President for prompt and comprehensive advice are met with respect to matters of economic and domestic policy. The staffshall continue to be headed by an Executive Director who shall be an Assistant to the President, designated by the President, as provided in Section 203 of Reorganization Plan No. 2 of 1970 \[set out in Title 5, Appendix\]. The Executive Director shall perform such functions as the President may from time to time direct.
 
 #### Sec. 2. Establishment of an Office of Administration
 
@@ -124,7 +124,7 @@ This plan in conjunction with the other steps I am taking will:
 
 &emsp;Improve the process by which information is provided for Presidential decisionmaking.
 
-These recommendations arise from a careful, systematic study of the EOP. They are based on the premise that the EOP exists to serve the President and should be structured to meet his needs. They will reduce waste and cost while improving the service the President, and the nation, receive from the EOP.
+These recommendations arise from a careful, systematic study of the EOP. They are based on the premisethat the EOP exists to serve the President and should be structured to meet his needs. They will reduce waste and cost while improving the service the President, and the nation, receive from the EOP.
 
 The EOP now consists of the immediate White House Office, the Vice President's Office, the Office of Management and Budget, and fourteen other agencies. The EOP has a budget authority of about $80,000,000 and 1,712 full time employees.
 

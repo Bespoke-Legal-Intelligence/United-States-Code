@@ -38,7 +38,7 @@ Except as otherwise provided in this title, as used in this title, the following
 
 &emsp;The term “financial gain” includes receipt, or expectation of receipt, of anything of value, including the receipt of other copyrighted works.
 
-&emsp;A work is “fixed” in a tangible medium of expression when its embodiment in a copy or phonorecord, by or under the authority of the author, is sufficiently permanent or stable to permit it to be perceived, reproduced, or otherwise communicated for a period of more than transitory duration. A work consisting of sounds, images, or both, that are being transmitted, is “fixed” for purposes of this title if a fixation of the work is being made simultaneously with its transmission.
+&emsp;A work is “fixed” in a tangible medium of expression when its embodiment in a copy or phonorecord, by or under the authority of theauthor, is sufficiently permanent or stable to permit it to be perceived, reproduced, or otherwise communicated for a period of more than transitory duration. A work consisting of sounds, images, or both, that are being transmitted, is “fixed” for purposes of this title if a fixation of the work is being made simultaneously with its transmission.
 
 &emsp;The “Geneva Phonograms Convention” is the Convention for the Protection of Producers of Phonograms Against Unauthorized Duplication of Their Phonograms, concluded at Geneva, Switzerland, on October 29, 1971.
 
@@ -90,7 +90,7 @@ Except as otherwise provided in this title, as used in this title, the following
 
 &emsp;&emsp;(2) to transmit or otherwise communicate a performance or display of the work to a place specified by clause (1) or to the public, by means of any device or process, whether the members of the public capable of receiving the performance or display receive it in the same place or in separate places and at the same time or at different times.
 
-&emsp;“Sound recordings” are works that result from the fixation of a series of musical, spoken, or other sounds, but not including thesounds accompanying a motion picture or other audiovisual work, regardless of the nature of the material objects, such as disks, tapes, or other phonorecords, in which they are embodied.
+&emsp;“Sound recordings” are works that result from the fixation of a series of musical, spoken, or other sounds, but not including the sounds accompanying a motion picture or other audiovisual work, regardless of the nature of the material objects, such as disks, tapes, or other phonorecords, in which they are embodied.
 
 &emsp;“State” includes the District of Columbia and the Commonwealth of Puerto Rico, and any territories to which this title is made applicable by an Act of Congress.
 
@@ -148,13 +148,21 @@ Except as otherwise provided in this title, as used in this title, the following
 
 &emsp;&emsp;(1) a work prepared by an employee within the scope of his or her employment; or
 
-&emsp;&emsp;(2) a work specially ordered or commissioned for use as a contribution to a collective work, as a part of a motion picture or other audiovisual work, as a sound recording, as a translation, as a supplementary work, as a compilation, as an instructional text, as a test, as answer material for a test, or as an atlas, if the parties expressly agree in a written instrument signed by them that the work shall be considered a work made for hire. For the purpose of the foregoing sentence, a “supplementary work” is a work prepared for publication as a secondary adjunct to a work by another author for the purpose of introducing, concluding, illustrating, explaining, revising, commenting upon, or assisting in the use of the other work, such as forewords, afterwords, pictorial illustrations, maps, charts, tables, editorial notes, musical arrangements, answer material for tests, bibliographies, appendixes, and indexes, and an “instructional text” is a literary, pictorial, or graphic work prepared for publication and with the purpose of use in systematic instructional activities.
+&emsp;&emsp;(2) a work specially ordered or commissioned for use as a contribution to a collective work, as a part of a motion picture or other audiovisual work, as a translation, as a supplementary work, as a compilation, as an instructional text, as a test, as answer material for a test, or as an atlas, if the parties expressly agree in a written instrument signed by them that the work shall be considered a work made for hire. For the purpose of the foregoing sentence, a “supplementary work” is a work prepared for publication as a secondary adjunct to a work by another author for the purpose of introducing, concluding, illustrating, explaining, revising, commenting upon, or assisting in the use of the other work, such as forewords, afterwords, pictorial illustrations, maps, charts, tables, editorial notes, musical arrangements, answer material for tests, bibliographies, appendixes, and indexes, and an “instructional text” is a literary, pictorial, or graphic work prepared for publication and with the purpose of use in systematic instructional activities.
 
-&emsp;The terms “WTO Agreement” and “WTO member country” have the meanings giventhose terms in paragraphs (9) and (10), respectively, of section 2 of the Uruguay Round Agreements Act.
+> &emsp;In determining whether any work is eligible to be considered a work made for hire under paragraph (2), neither the amendment contained in section 1011(d) of the IntellectualProperty and Communications Omnibus Reform Act of 1999, as enacted by section 1000(a)(9) of Public Law 106–113, nor the deletion of the words added by that amendment—
+
+&emsp;&emsp;(A) shall be considered or otherwise given any legal significance, or
+
+&emsp;&emsp;(B) shall be interpreted to indicate congressional approval or disapproval of, or acquiescence in, any judicial determination,
+
+> &emsp;by the courts or the Copyright Office. Paragraph (2) shall be interpreted as if both section 2(a)(1) of the Work Made For Hire and Copyright Corrections Act of 2000 and section 1011(d) of the Intellectual Property and Communications Omnibus Reform Act of 1999, as enacted by section 1000(a)(9) of Public Law 106–113, were never enacted, and without regard to any inaction or awareness by the Congress at any time of any judicial determinations.
+
+&emsp;The terms “WTO Agreement” and “WTO member country” have the meanings given those terms in paragraphs (9) and (10), respectively, of section 2 of the Uruguay Round Agreements Act.
 
 &emsp;A “computer program” is a set of statements or instructions to be used directly or indirectly in a computer in order to bring about a certain result.
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2541; Pub. L. 96–517, §10(a), Dec. 12, 1980, 94 Stat. 3028; Pub. L. 100–568, §4(a)(1), Oct. 31, 1988, 102 Stat. 2854; Pub. L. 101–650, title VI, §602, title VII, §702, Dec. 1, 1990, 104 Stat. 5128, 5133; Pub. L. 102–307, title I, §102(b)(2), June 26, 1992, 106 Stat. 266; Pub. L. 102–563, §3(b), Oct. 28, 1992, 106 Stat. 4248; Pub. L. 104–39, §5(a), Nov. 1, 1995, 109 Stat. 348; Pub. L. 105–80, §12(a)(3), Nov. 13, 1997, 111 Stat. 1534; Pub. L. 105–147, §2(a), Dec. 16, 1997, 111 Stat. 2678; Pub. L. 105–298, title II, §205, Oct. 27, 1998, 112 Stat. 2833; Pub. L. 105–304, title I, §102(a), Oct. 28, 1998, 112 Stat. 2861; Pub. L. 106–44, §1(g)(1), Aug. 5, 1999, 113 Stat. 222; Pub. L. 106–113, div. B, §1000(a)(9) \[title I, §1011(d)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–544.)
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2541; Pub. L. 96–517, §10(a), Dec. 12, 1980, 94 Stat. 3028; Pub. L. 100–568, §4(a)(1), Oct. 31, 1988, 102 Stat. 2854; Pub. L. 101–650, title VI, §602, title VII, §702, Dec. 1, 1990, 104 Stat. 5128, 5133; Pub. L. 102–307, title I, §102(b)(2), June 26, 1992, 106 Stat. 266; Pub. L. 102–563, §3(b), Oct. 28, 1992, 106 Stat. 4248; Pub. L. 104–39, §5(a), Nov. 1, 1995, 109 Stat. 348; Pub. L. 105–80, §12(a)(3), Nov. 13, 1997, 111 Stat. 1534; Pub. L. 105–147, §2(a), Dec. 16, 1997, 111 Stat. 2678; Pub. L. 105–298, title II, §205, Oct. 27, 1998, 112 Stat. 2833; Pub. L. 105–304, title I, §102(a), Oct. 28, 1998, 112 Stat. 2861; Pub. L. 106–44, §1(g)(1), Aug. 5, 1999, 113 Stat. 222; Pub. L. 106–113, div. B, §1000(a)(9) \[title I, §1011(d)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–544; Pub. L. 106–379, §2(a), Oct. 27, 2000, 114 Stat. 1444.)
 
 #### Amendment of Section
 
@@ -176,9 +184,17 @@ The significant definitions in this section will be mentioned or summarized in c
 
 The Universal Copyright Convention, referred to in definition of “international agreement”, is set out under section 104 of this title.
 
+Section 1011(d) of the Intellectual Property and Communications Omnibus Reform Act of 1999, referred to in definition of “work made for hire”, is section 1000(a)(9) \[title I, §1011(d)\] of Pub. L. 106–113, which amended par. (2) of that definition. See 1999 Amendment note below.
+
+Section 2(a)(1) of the Work Made For Hire and Copyright Corrections Act of 2000, referred to in definition of “work made for hire”, is section 2(a)(1) of Pub. L. 106—379, which amended par. (2) of that definition. See 2000 Amendment note below.
+
 Section 2 of the Uruguay Round Agreements Act, referred to in definitions of “WTO Agreement” and “WTO member country”, is classified to section 3501 of Title 19, Customs Duties.
 
 #### Amendments
+
+2000—Pub. L. 106–379, §2(a)(2), in definition of “work made for hire”, inserted after par. (2) provisions relating to considerations and interpretations to be used in determining whether any work is eligible to be considered a work made for hire under par. (2).
+
+Pub. L. 106–379, §2(a)(1), in definition of “work made for hire”, struck out “as a sound recording,” after “motion picture or other audiovisual work,” in par. (2).
 
 1999—Pub. L. 106–113, which directed the insertion of “as a sound recording,” after “audiovisual work” in par. (2) of definition relating to work made for hire, was executed by making the insertion after “audiovisual work,” to reflect the probable intent of Congress.
 
@@ -225,6 +241,10 @@ Pub. L. 100–568, §4(a)(1)(C), inserted definition of “country of origin”.
 Pub. L. 100–568, §4(a)(1)(A), in definition of “Pictorial, graphic, and sculptural works” substituted “diagrams, models, and technical drawings, including architectural plans” for “technical drawings, diagrams, and models”.
 
 1980—Pub. L. 96–517 inserted definition of “computer program”.
+
+#### Effective Date of 2000 Amendment
+
+Pub. L. 106–379, §2(b)(1), Oct. 27, 2000, 114 Stat. 1444, provided that: “The amendments made by this section \[amending this section\] shall be effective as of November 29, 1999.”
 
 #### Effective Date of 1999 Amendment
 
@@ -296,11 +316,15 @@ Section 13 of Pub. L. 100–568 provided that:
 
 “(a)
 
-Effective Date.—This Act and the amendments made by this Act \[enacting section 116A of this title, amending this section and sections 104, 116, 205, 301, 401 to 408, 411, 501, 504, 801, and 804 of this title, and enacting provisions set out as notes under this section\] take effect on the date on which the Berne Convention (as defined in section 101 of title 17, United States Code) enters into force with respect to the United States \[Mar. 1, 1989\]. \[The Berne Convention entered into force with respect to the United States on Mar. 1, 1989.\]
+Effective Date.—This Act and the amendments made by this Act \[enacting section 116A of this title, amending this section and sections 104, 116, 205, 301, 401 to 408, 411, 501, 504, 801, and 804 of this title, and enacting provisions set out as notes under this section\] takeeffect on the date on which the Berne Convention (as defined in section 101 of title 17, United States Code) enters into force with respect to the United States \[Mar. 1, 1989\]. \[The Berne Convention entered into force with respect to the United States on Mar. 1, 1989.\]
 
 “(b)
 
 Effect on Pending Cases.—Any cause of action arising under title 17, United States Code, before the effective date of this Act shall be governed by the provisions of such title as in effect when the cause of action arose.”
+
+#### Short Title of 2000 Amendment
+
+Pub. L. 106–379, §1, Oct. 27, 2000, 114 Stat. 1444, provided that: “This Act \[amending this section and sections 121, 705, and 708 of this title, repealing section 710 of this title, and enacting provisions set out as notes under this section and section 708 of this title\] may be cited as the ‘Work Made For Hire and Copyright Corrections Act of 2000’.”
 
 #### Short Title of 1999 Amendments
 
@@ -314,7 +338,7 @@ Pub. L. 105–304, §1, Oct. 28, 1998, 112 Stat. 2860, provided that: “This Ac
 
 Pub. L. 105–304, title I, §101, Oct. 28, 1998, 112 Stat. 2861, provided that: “This title \[enacting chapter 12 of this title, amending this section and sections 104, 104A, 411, and 507 of this title, and enacting provisions set out as notes under this section and section 109 of this title\] may be cited as the ‘WIPO Copyright and Performances and Phonograms Treaties Implementation Act of 1998’.”
 
-Pub. L. 105–304, title II, §201, Oct. 28, 1998, 112 Stat. 2877, provided that: “This title \[enacting section 512 ofthis title and provisions set out as a note under section 512 of this title\] may be cited as the ‘Online Copyright Infringement Liability Limitation Act’.”
+Pub. L. 105–304, title II, §201, Oct. 28, 1998, 112 Stat. 2877, provided that: “This title \[enacting section 512 of this title and provisions set out as a note under section 512 of this title\] may be cited as the ‘Online Copyright Infringement Liability Limitation Act’.”
 
 Pub. L. 105–304, title III, §301, Oct. 28, 1998, 112 Stat. 2886, provided that: “This title \[amending section 117 of this title\] may be cited as the ‘Computer Maintenance Competition Assurance Act’.”
 
@@ -336,17 +360,23 @@ Pub. L. 103–369, §1, Oct. 18, 1994, 108 Stat. 3477, provided that: “This Ac
 
 Pub. L. 103–198, §1, Dec. 17, 1993, 107 Stat. 2304, provided that: “This Act \[amending sections 111, 116, 118, 119, 801 to 803, 1004 to 1007, and 1010 of this title and section 1288 of Title 8, Aliens and Nationality, renumbering sections 116A and 804 of this title as sections 116 and 803, respectively, of this title, repealing sections 116, 803, and 805 to 810 of this title, and enacting provisions set out as notes under section 801 of this title and section 1288 of Title 8\] may be cited as the ‘Copyright Royalty Tribunal Reform Act of 1993’.”
 
-#### Short Title of 1992 Amendment
+#### Short Title of 1992 Amendments
+
+Pub. L. 102–563, §1, Oct. 28, 1992, 106 Stat. 4237, provided that: “This Act \[enacting chapter 10 of this title, amending this section, sections 801, 804, and 912 of this title, and section 1337 of Title 19, Customs Duties, and enacting provisions set out as a note under section 1001 of this title\] may be cited as the ‘Audio Home Recording Act of 1992’.”
 
 Section 1 of Pub. L. 102–307 provided that: “This Act \[enacting sections 179 to 179k of Title 2, The Congress, amending this section and sections 108, 304, 408, 409, and 708 of this title, repealing sections 178 to 178<i>l</i> of Title 2, enacting provisions set out as notes under this section, section 304 of this title, and section 179 of Title 2, and repealing provisions set out as a note under section 178 of Title 2\] may be cited as the ‘Copyright Amendments Act of 1992’.”
 
 Section 101 of title I of Pub. L. 102–307 provided that: “This title \[amending this section and sections 304, 408, 409, and 708 of this title and enacting provisions set out as notes under this section and section 304 of this title\] may be referred to as the ‘Copyright Renewal Act of 1992’.”
 
+#### Short Title of 1991 Amendment
+
+Pub. L. 102–64, §1, June 28, 1991, 105 Stat. 320, provided that: “This Act \[amending section 914 of this title and enacting provisions set out as a note under section 914 of this title\] may be cited as the ‘Semiconductor International Protection Extension Act of 1991’.”
+
 #### Short Title of 1990 Amendments
 
 Section 601 of title VI of Pub. L. 101–650 provided that: “This title \[enacting section 106A of this title, amending this section and sections 107, 113, 301, 411, 412, 501, and 506 of this title, and enacting provisions set out as notes under this section and section 106A of this title\] may be cited as the ‘Visual Artists Rights Act of 1990’.”
 
-Section 701 of title VII of Pub. L. 101–650 provided that: “This title \[enacting section 120 of this title, amending this section and sections 102, 106, and 301 of this title, and enacting provisions set out as a note above\] may be cited as the ‘Architectural Works Copyright Protection Act’.”
+Section 701 of title VII of Pub. L. 101–650 provided that: “This title \[enacting section 120 of this title, amending this section and sections 102, 106, and 301 ofthis title, and enacting provisions set out as a note above\] may be cited as the ‘Architectural Works Copyright Protection Act’.”
 
 Section 801 of title VIII of Pub. L. 101–650 provided that: “This title \[amending section 109 of this title and enacting provisions set out as notes under sections 109 and 205 of this title\] may be cited as the ‘Computer Software Rental Amendments Act of 1990’.”
 
@@ -362,9 +392,15 @@ Pub. L. 100–667, title II, §201, Nov. 16, 1988, 102 Stat. 3949, provided that
 
 Section 1(a) of Pub. L. 100–568 provided that: “This Act \[enacting section 116A of this title, amending this section and sections 104, 116, 205, 301, 401 to 408, 411, 501, 504, 801, and 804 of this title, and enacting provisions set out as notes under this section\] may be cited as the ‘Berne Convention Implementation Act of 1988’.”
 
-#### Short Title of 1984 Amendment
+#### Short Title of 1984 Amendments
+
+Pub. L. 98–620, title III, §301, Nov. 8, 1984, 98 Stat. 3347, provided that: “This title \[enacting chapter 9 of this title\] may be cited as the ‘Semiconductor Chip Protection Act of 1984’.”
 
 Pub. L. 98–450, §1, Oct. 4, 1984, 98 Stat. 1727, provided that: “This Act \[amending sections 109 and 115 of this title and enacting provisions set out as a note under section 109 of this title\] may be cited as the ‘Record Rental Amendment of 1984’.”
+
+#### Severability
+
+Pub. L. 106–379, §2(b)(2), Oct. 27, 2000, 114 Stat. 1444, provided that: “If the provisions of paragraph (1) \[see Effective Date of 2000 Amendment note above\], or any application of such provisions to any person or circumstance, is held to be invalid, the remainder of this section \[amending this section and enacting provisions set out as a note above\], the amendments made by this section, and the application of this section to any other person or circumstance shall not be affected by such invalidation.”
 
 #### Construction of 1998 Amendment
 
@@ -418,5 +454,5 @@ Pub. L. 103–465, title V, §501, Dec. 8, 1994, 108 Stat. 4973, provided that: 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 106A, 114 of this title; title 2 section 179u; title 15 section 1129; title 18 sections 2318, 2319; title 28 section 4001.
+This section is referred to in sections 106A, 114 of this title; title 2 sections 179u, 1741; title 15 section 1129; title 18 sections 2318, 2319; title 28 section 4001.
 

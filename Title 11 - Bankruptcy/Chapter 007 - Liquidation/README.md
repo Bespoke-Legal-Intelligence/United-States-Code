@@ -61,7 +61,20 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER V—CLEARING BANK LIQUIDATION
+
+|  |  |
+| :--- | ---: |
+| [781\.](Subchapter%20005%20%28V%29%20-%20Clearing%20Bank%20Liquidation/%C2%A7%2000781%20-%20Definitions.md) | Definitions. |
+| [782\.](Subchapter%20005%20%28V%29%20-%20Clearing%20Bank%20Liquidation/%C2%A7%2000782%20-%20Selection%20of%20trustee.md) | Selection of trustee. |
+| [783\.](Subchapter%20005%20%28V%29%20-%20Clearing%20Bank%20Liquidation/%C2%A7%2000783%20-%20Additional%20powers%20of%20trustee.md) | Additional powers of trustee. |
+| [784\.](Subchapter%20005%20%28V%29%20-%20Clearing%20Bank%20Liquidation/%C2%A7%2000784%20-%20Right%20to%20be%20heard.md) | Right to be heard. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Amendments
+
+2000—Pub. L. 106–554, §1(a)(5) \[title I, §112(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–396, added subchapter V heading and items 781 to 784.
 
 1984—Pub. L. 98–353, title III, §471, July 10, 1984, 98 Stat. 380, substituted “Successor” for “Succesor” in item 703.
 
@@ -78,3 +91,4 @@ This chapter is referred to in sections 103, 109, 303, 321, 326, 327, 330, 341, 
 - [Subchapter 002 (II) - Collection, Liquidation, and Distribution of the Estate](Subchapter%20002%20%28II%29%20-%20Collection%2C%20Liquidation%2C%20and%20Distribution%20of%20the%20Estate/README.md)
 - [Subchapter 003 (III) - Stockbroker Liquidation](Subchapter%20003%20%28III%29%20-%20Stockbroker%20Liquidation/README.md)
 - [Subchapter 004 (IV) - Commodity Broker Liquidation](Subchapter%20004%20%28IV%29%20-%20Commodity%20Broker%20Liquidation/README.md)
+- [Subchapter 005 (V) - Clearing Bank Liquidation](Subchapter%20005%20%28V%29%20-%20Clearing%20Bank%20Liquidation/README.md)

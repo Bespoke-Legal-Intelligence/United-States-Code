@@ -12,7 +12,7 @@
 
 (1) Each report under subsection (a) of this section shall—
 
-&emsp;(A) specify the intelligence required to meet the national security interests of the UnitedStates, and set forth an order of priority for the collection and analysis of intelligence required to meet such interests, for the fiscal year beginning in the year in which the report is submitted; and
+&emsp;(A) specify the intelligence required to meet the national security interests of the United States, and set forth an order of priority for the collection and analysis of intelligence required to meet such interests, for the fiscal year beginning in the year in which the report is submitted; and
 
 &emsp;(B) evaluate the performance of the intelligence community in collecting and analyzing intelligence required to meet such interests during the fiscal year ending in the year preceding the year in which the report is submitted, including a description of the significant successes and significant failures of the intelligence community in such collection and analysis during that fiscal year.
 

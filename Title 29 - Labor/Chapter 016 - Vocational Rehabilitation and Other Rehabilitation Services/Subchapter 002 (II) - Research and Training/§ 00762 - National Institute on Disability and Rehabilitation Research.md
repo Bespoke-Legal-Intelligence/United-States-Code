@@ -138,7 +138,7 @@ Not less than 90 percent of the funds appropriated under this subchapter for any
 
 &emsp;&emsp;(ii) in coordination with the Commissioner;
 
-&emsp;&emsp;(iii) after consultation with the National Council on Disability established under subchapter IV of this chapter, the Secretary of Education, officials responsible for the administration of the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6000 et seq.), and the Interagency Committee on Disability Research established under section 763 of this title; and
+&emsp;&emsp;(iii) after consultation with the National Council on Disability established under subchapter IV of this chapter, the Secretary of Education, officials responsible for the administration of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 \[42 U.S.C. 15001 et seq.\], and the Interagency Committee on Disability Research established under section 763 of this title; and
 
 &emsp;&emsp;(iv) after full consideration of the input of individuals with disabilities and the individuals’ representatives, organizations representing individuals with disabilities, providers of services furnished under this chapter, researchers in the rehabilitation field, and any other persons or entities the Director considers to be appropriate;
 
@@ -162,7 +162,7 @@ In order to promote cooperation among Federal departments and agencies conductin
 
 The Director shall make grants to institutions of higher education for the training of rehabilitation researchers, including individuals with disabilities, with particular attention to research areas that support the implementation and objectives of this chapter and that improve the effectiveness of services authorized under this chapter.
 
-(Pub. L. 93–112, title II, §202, as added Pub. L. 105–220, title IV, §405, Aug. 7, 1998, 112 Stat. 1168; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §401(16)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412.)
+(Pub. L. 93–112, title II, §202, as added Pub. L. 105–220, title IV, §405, Aug. 7, 1998, 112 Stat. 1168; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §401(16)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412; Pub. L. 106–402, title IV, §401(b)(3)(B), Oct. 30, 2000, 114 Stat. 1737.)
 
 #### References in Text
 
@@ -170,15 +170,17 @@ The Americans with Disabilities Act of 1990, referred to in subsec. (b)(11), is 
 
 The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (d)(2), (3), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
 
-The Developmental Disabilities Assistance and Bill of Rights Act, referred to in subsec. (h)(2)(D)(iii), is title I of Pub. L. 88–164, as added by Pub. L. 98–527, §2, Oct. 19, 1984, 98 Stat. 2662, and amended, which is classified generally to chapter 75 (§6000 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6000 of Title 42 and Tables.
+The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsec. (h)(2)(D)(iii), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677, which is classified principally to chapter 144 (§15001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of Title 42 and Tables.
 
 #### Prior Provisions
 
 Provisions similar to this section were contained in section 761a of this title prior to the general amendment of this subchapter by Pub. L. 105–220.
 
-A prior section 762, Pub. L. 93–112, title II, §204, formerly §202, Sept. 26, 1973, 87 Stat. 375, amended Pub. L. 93–516, title I, §111(h), Dec. 7, 1974, 88 Stat. 1621; Pub. L. 93–651, title I, §111(h), Nov. 21, 1974, 89 Stat. 2–6; renumbered and amended Pub. L. 95–602, title I, §§109(3), 110, 111, Nov. 6, 1978, 92 Stat. 2963, 2966; Pub. L. 98–221, title I, §§104(a)(5), 123, Feb. 22, 1984, 98 Stat. 18, 24; Pub. L. 99–506, title I, §103(d)(2)(C), (h)(2), title III, §§302(b), 305, Oct. 21, 1986, 100 Stat. 1810, 1811, 1821, 1822; Pub. L. 100–630, title II, §203(d), Nov. 7, 1988, 102 Stat. 3308; Pub. L. 102–569, title I, §102(p)(14), title II, §205, Oct. 29, 1992, 106 Stat. 4358, 4403; Pub. L. 103–73, title I, §109(b), Aug. 11, 1993, 107 Stat. 726, related to research, prior to the general amendment of this subchapter by Pub. L. 105–220. See section 764 of this title.
+A prior section 762, Pub. L. 93–112, title II, §204, formerly §202, Sept. 26, 1973, 87 Stat. 375, amended Pub. L. 93–516, title I, §111(h), Dec. 7, 1974, 88 Stat. 1621; Pub. L. 93–651, title I, §111(h), Nov. 21, 1974, 89 Stat. 2–6; renumbered and amended Pub. L. 95–602, title I, §§109(3), 110, 111, Nov. 6, 1978, 92 Stat. 2963, 2966; Pub. L. 98–221, title I, §§104(a)(5), 123, Feb. 22, 1984, 98 Stat. 18, 24; Pub. L. 99–506, title I, §103(d)(2)(C), (h)(2), title III, §§302(b), 305, Oct. 21, 1986, 100 Stat. 1810, 1811, 1821, 1822; Pub. L.100–630, title II, §203(d), Nov. 7, 1988, 102 Stat. 3308; Pub. L. 102–569, title I, §102(p)(14), title II, §205, Oct. 29, 1992, 106 Stat. 4358, 4403; Pub. L. 103–73, title I, §109(b), Aug. 11, 1993, 107 Stat. 726, related to research, prior to the general amendment of this subchapter by Pub. L. 105–220. See section 764 of this title.
 
 #### Amendments
+
+2000—Subsec. (h)(2)(D)(iii). Pub. L. 106–402 substituted “Developmental Disabilities Assistance and Bill of Rights Act of 2000” for “Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6000 et seq.)”.
 
 1998—Pub. L. 105–277 made technical amendment to directory language of Pub. L. 105–220, §405, which enacted this section.
 

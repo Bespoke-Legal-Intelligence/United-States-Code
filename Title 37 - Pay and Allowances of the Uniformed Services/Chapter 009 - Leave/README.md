@@ -13,8 +13,6 @@
 
 1990—Pub. L. 101–510, div. A, title XIV, §1484(f)(1), Nov. 5, 1990, 104 Stat. 1717, revised chapter heading so as to appear in all capital letters.
 
-<i><sup>1</sup></i><i> So in original. Another section 435 is set out preceding this section.</i>
-
 
 ---
 

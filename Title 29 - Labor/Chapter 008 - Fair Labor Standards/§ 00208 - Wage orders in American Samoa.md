@@ -10,7 +10,7 @@ Upon the convening of any such industry committee, the Administrator shall refer
 
 #### (c) Classifications within industry; recommendation of wage rate
 
-The industry committee shall recommend such reasonable classifications within any industry as it determines to be necessary for the purpose of fixing for each classification within such industry the highest minimum wage rate (not in excess of that in effect under paragraph (1) or (5) of section 206(a) of this title (as the case may be)) which (1) will not substantially curtail employment in such classification and (2) will not give a competitive advantage to any group in the industry, and shall recommend for each classification in the industry the highest minimum wage rate which the committee determines will not substantially curtail employment in such classification. In determining whether such classification should be made in any industry, in making such classifications, and in determining the minimum wage rates for such classifications, no classifications shall be made, and no minimum wage rate shall be fixed, solely on a regional basis, but the industry committee shall consider among other relevant factors the following:
+The industry committee shall recommend such reasonable classifications within any industry as it determines to be necessary for the purpose of fixing for each classification within such industry the highest minimum wage rate (not in excess of that in effect under paragraph (1) or (5) of section 206(a) of this title (as the case may be)) which (1) will not substantially curtail employment in such classification and (2) will not give a competitive advantage to any group in the industry, and shall recommend for each classification in the industry the highest minimum wage rate which the committee determines will not substantially curtail employment in such classification. In determining whethersuch classification should be made in any industry, in making such classifications, and in determining the minimum wage rates for such classifications, no classifications shall be made, and no minimum wage rate shall be fixed, solely on a regional basis, but the industry committee shall consider among other relevant factors the following:
 
 &emsp;(1) competitive conditions as affected by transportation, living, and production costs;
 
@@ -52,7 +52,7 @@ Subsec. (a). Pub. L. 101–157, §4(c), substituted “American Samoa engaged”
 
 > after “section 206(c) of this title.”, substituted “American Samoa engaged” for “Puerto Rico or the Virgin Islands, or in Puerto Rico and the Virgin Islands, engaged” and inserted “, and who but for section 206(a)(3) of this title would be subject to the minimum wage requirements of section 206(a)(1) of this title”.
 
-Subsec. (b). Pub. L. 101–157, §4(c)(4), substituted “American Samoa a competitive” for “Puerto Rico orin the Virgin Islands a competitive”, “American Samoa; except” for “Puerto Rico and the Virgin Islands; except”, and “section 206(a)(3) of this title” for “section 206(c) of this title”.
+Subsec. (b). Pub. L. 101–157, §4(c)(4), substituted “American Samoa a competitive” for “Puerto Rico or in the Virgin Islands a competitive”, “American Samoa; except” for “Puerto Rico and the Virgin Islands; except”, and “section 206(a)(3) of this title” for “section 206(c) of this title”.
 
 1977—Subsec. (a). Pub. L. 95–151 inserted provisions relating to appointment of industry committees by the Secretary and functions of such industry committees.
 

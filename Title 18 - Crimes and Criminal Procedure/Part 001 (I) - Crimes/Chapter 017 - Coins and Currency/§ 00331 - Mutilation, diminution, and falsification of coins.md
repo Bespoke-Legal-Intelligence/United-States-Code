@@ -24,10 +24,6 @@ Changes were also made in phraseology.
 
 1951—Act July 16, 1951, made section applicable to minor coins (5-cent and 1-cent pieces), and to fraudulent alteration of coins.
 
-#### Canal Zone
-
-Applicability of section to Canal Zone, see section 14 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 14, 492 of this title.

@@ -16,7 +16,7 @@ The Secretary may include in the program established under this subpart—
 
 &emsp;(2) marginal pasture lands converted to wetland or established as wildlife habitat prior to November 28, 1990;
 
-&emsp;(3) marginal pasture lands to be devoted to trees in or near riparian areas or for similar water quality purposes, not to exceed 10 percent of the number of acres of land that is placed in the conservation reserve under this subpart in each of the 1991 through 2002 calendar years;
+&emsp;(3) marginal pasture lands to be devoted to trees in or near riparian areas or for similar water quality purposes, not to exceed 10 percent of the number of acres of land that isplaced in the conservation reserve under this subpart in each of the 1991 through 2002 calendar years;
 
 &emsp;(4) croplands that are otherwise not eligible—
 
@@ -72,13 +72,113 @@ The Secretary may maintain up to 36,400,000 acres in the conservation reserve at
 
 For purposes of this subpart, alfalfa and other multi-year grasses and legumes in a rotation practice, approved by the Secretary, shall be considered agricultural commodities.
 
-(Pub. L. 99–198, title XII, §1231, Dec. 23, 1985, 99 Stat. 1509; Pub. L. 99–500, §101(a) \[title VI, §643\], Oct. 18, 1986, 100 Stat. 1783, 1783–36, and Pub. L. 99–591, §101(a) \[title VI, §643\], Oct. 30, 1986, 100 Stat. 3341, 3341–36; Pub. L. 99–641, title II, §205, Nov. 10, 1986, 100 Stat. 3563; Pub. L. 101–624, title XIV, §§1432(2), 1447(a), Nov. 28, 1990, 104 Stat. 3577, 3605; Pub. L. 102–324, §1(a), July 22, 1992, 106 Stat. 447; Pub. L. 103–66, title I, §1402(b), Aug. 10, 1993, 107 Stat. 332; Pub. L. 104–127, title III, §332(a)(1), (b), Apr. 4, 1996, 110 Stat. 994.)
+#### (h) Pilot program for enrollment of wetland and buffer acreage in conservation reserve
+
+#### (1) In general
+
+&emsp;During the 2001 and 2002 calendar years, the Secretary shall carry out a pilot program in the States of Iowa, Minnesota, Montana, Nebraska, North Dakota, and South Dakota under which the Secretary shall include eligible acreage described in paragraph (3) in the program established under this subpart.
+
+#### (2) Participation among States
+
+&emsp;The Secretary shall ensure, to the maximum extent practicable, that owners and operators in each of the States referred to in paragraph (1) have an equitable opportunity to participate in the pilot program established under this subsection.
+
+#### (3) Eligible acreage
+
+#### (A) In general
+
+&emsp;&emsp;Subject to subparagraphs (B) through (D), an owner or operator may enroll in the conservation reserve under this subsection—
+
+&emsp;&emsp;&emsp;(i) a wetland (including a converted wetland described in section 3822(b)(1)(A) of this title) that was cropped during at leastthree of the immediately preceding 10 crop years; and
+
+&emsp;&emsp;&emsp;(ii) buffer acreage that—
+
+&emsp;&emsp;&emsp;&emsp;(I) is contiguous to the wetland described in clause (i);
+
+&emsp;&emsp;&emsp;&emsp;(II) is used to protect the wetland; and
+
+&emsp;&emsp;&emsp;&emsp;(III) is of such width as the Secretary determines is necessary to protect the wetland, taking into consideration and accommodating the farming practices (including the straightening of boundaries to accommodate machinery) used with respect to the cropland that surrounds the wetland.
+
+#### (B) Exclusions
+
+&emsp;&emsp;An owner or operator may not enroll in the conservation reserve under this subsection—
+
+&emsp;&emsp;&emsp;(i) any wetland, or land on a floodplain, that is, or is adjacent to, a perennial riverine system wetland identified on the final national wetland inventory map of the Secretary of the Interior; or
+
+&emsp;&emsp;&emsp;(ii) in the case of an area that is not covered by the final national inventory map, any wetland, or land on a floodplain, that is adjacent to a perennial stream identified on a 1–24,000 scale map of the United States Geological Survey.
+
+#### (C) Program limitations
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The Secretary may enroll in the conservation reserve under this subsection—
+
+&emsp;&emsp;&emsp;&emsp;(I) not more than 500,000 acres in all States referred to in paragraph (1); and
+
+&emsp;&emsp;&emsp;&emsp;(II) not more than 150,000 acres in any one State referred to in paragraph (1).
+
+#### (ii) Relationship to program maximum
+
+&emsp;&emsp;&emsp;Subject to clause (iii), for the purposes of subsection (d) of this section, any acreage enrolled in the conservation reserve under this subsection shall be considered acres maintained in the conservation reserve.
+
+#### (iii) Relationship to other enrolled acreage
+
+&emsp;&emsp;&emsp;Acreage enrolled under this subsection shall not affect for any fiscal year the quantity of—
+
+&emsp;&emsp;&emsp;&emsp;(I) acreage enrolled to establish conservation buffers as part of the program announced on March 24, 1998 (63 Fed. Reg. 14109); or
+
+&emsp;&emsp;&emsp;&emsp;(II) acreage enrolled into the conservation reserve enhancement program announced on May 27, 1998 (63 Fed. Reg. 28965).
+
+#### (D) Owner or operator limitations
+
+#### (i) Wetland
+
+&emsp;&emsp;&emsp;The maximum size of any wetland described in subparagraph (A)(i) of an owner or operator enrolled in the conservation reserve under this subsection shall be 5 contiguous acres.
+
+#### (ii) Buffer acreage
+
+&emsp;&emsp;&emsp;The maximum size of any buffer acreage described in subparagraph (A)(ii) of an owner or operator enrolled in the conservation reserve under this subsection shall be the greater of—
+
+&emsp;&emsp;&emsp;&emsp;(I) three times the size of any wetland described in subparagraph (A)(i) to which the buffer acreage is contiguous; or
+
+&emsp;&emsp;&emsp;&emsp;(II) 150 feet on either side of the wetland.
+
+#### (iii) Tracts
+
+&emsp;&emsp;&emsp;The maximum size of any eligible acreage described in subparagraph (A) in a tract (as determined by the Secretary) of an owner or operator enrolled in the conservation reserve under this subsection shall be 40 acres.
+
+#### (4) Duties of owners and operators
+
+&emsp;Under a contract entered into under this subsection, during the term of the contract, an owner or operator of a farm or ranch must agree—
+
+&emsp;&emsp;(A) to restore the hydrology of the wetland within the eligible acreage to the maximum extent practicable, as determined by the Secretary;
+
+&emsp;&emsp;(B) to establish vegetative cover on the eligible acreage, as determined by the Secretary; and
+
+&emsp;&emsp;(C) to carry out other duties described in section 3832 of this title.
+
+#### (5) Duties of the Secretary
+
+#### (A) In general
+
+&emsp;&emsp;Except as provided in subparagraphs (B) and (C), in return for a contract entered into by an owner or operator under this subsection, the Secretary shall make payments and provide assistance to the owner or operator in accordance with sections 3833 and 3834 of this title.
+
+#### (B) Continuous signup
+
+&emsp;&emsp;The Secretary shall use continuous signup under section 3834(c)(2)(B) of this title to determine the acceptability of contract offers and the amount of rental payments under this subsection.
+
+#### (C) Incentives
+
+&emsp;&emsp;The amounts payable to owners and operators in the form of rental payments under contracts entered into under this subsection shall reflect incentives that are provided to owners and operators to enroll filterstrips in the conservation reserve under section 3834 of this title.
+
+(Pub. L. 99–198, title XII, §1231, Dec. 23, 1985, 99 Stat. 1509; Pub. L. 99–500, §101(a) \[title VI, §643\], Oct. 18, 1986, 100 Stat. 1783, 1783–36, and Pub. L. 99–591, §101(a) \[title VI, §643\], Oct. 30, 1986, 100 Stat. 3341, 3341–36; Pub. L. 99–641, title II, §205, Nov. 10, 1986, 100 Stat. 3563; Pub. L. 101–624, title XIV, §§1432(2), 1447(a), Nov. 28, 1990, 104 Stat. 3577, 3605; Pub. L. 102–324, §1(a), July 22, 1992, 106 Stat. 447; Pub. L. 103–66, title I, §1402(b), Aug. 10, 1993, 107 Stat. 332; Pub. L. 104–127, title III, §332(a)(1), (b), Apr. 4, 1996, 110 Stat. 994; Pub. L. 106–387, §1(a) \[title XI, §1102(a)\], Oct. 28, 2000, 114 Stat. 1549, 1549A–75.)
 
 #### Codification
 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+
+2000—Subsec. (h). Pub. L. 106–387 added subsec. (h).
 
 1996—Subsecs. (a), (b)(3). Pub. L. 104–127, §332(a)(1), substituted “2002” for “1995”.
 
@@ -93,6 +193,52 @@ Subsec. (d). Pub. L. 104–127, §332(b), added subsec. (d) and struck out headi
 Pub. L. 101–624, §1447(a), substituted “this subpart” for “this subchapter” wherever appearing in this section as it existed prior to enactment of Pub. L. 101–624.
 
 1986—Subsec. (f). Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–641 made substantially identical amendments adding subsec. (f).
+
+#### Regulations
+
+Pub. L. 106–387, §1(a) \[title XI, §1105\], Oct. 28, 2000, 114 Stat. 1549, 1549A–78, provided that:
+
+“(a)
+
+In General.—As soon as practicable after the date of enactment of this Act \[Oct. 28, 2000\], the Secretary of Agriculture shall promulgate such regulations as are necessary to implement the amendments made by this Act \[probably means ‘this title’, amending this section and section 3832 of this title\].
+
+“(b)
+
+Procedure.—The promulgation of the regulations and administration of the amendments made by this Act shall be made without regard to—
+
+&emsp;“(1) the notice and comment provisions of section 553 of title 5, United States Code;
+
+&emsp;“(2) the Statement of Policy of the Secretary of Agriculture effective July 24, 1971 (36 Fed. Reg. 13804), relating to notices of proposed rulemaking and public participation in rulemaking; and
+
+&emsp;“(3) chapter 35 of title 44, United States Code (commonly known as the ‘Paperwork Reduction Act’).
+
+“(c)
+
+Congressional Review of Agency Rulemaking.—In carrying out this section, the Secretary shall use the authority provided under section 808 of title 5, United States Code.”
+
+#### Study of Impact of Pilot Program
+
+Pub. L. 106–387, §1(a) \[title XI, §1104\], Oct. 28, 2000, 114 Stat. 1549, 1549A–78, provided that:
+
+“(a)
+
+In General.—The Secretary of Agriculture shall conduct a study of the impact of the pilot program established under section 1231(h) of the Food Security Act of 1985 (16 U.S.C. 3831(h)) (as added by section 1102(a)) on—
+
+&emsp;“(1) enrollment of owners and operators in—
+
+&emsp;&emsp;“(A) the conservation reserve program established under subchapter B of chapter 1 of subtitle D of title XII of that Act (16 U.S.C. 3831 et seq.);
+
+&emsp;&emsp;“(B) the wetlands reserve program established under subchapter C of chapter 1 of subtitle D of title XII of that Act (16 U.S.C. 3837 et seq.); and
+
+&emsp;&emsp;“(C) other Federal and State conservation programs;
+
+&emsp;“(2) types of environmentally sensitive acreage that have not been enrolled in the wetlands reserve program; and
+
+&emsp;“(3) conservation of soil, water, and related natural resources, including grazing land, wetland, and wildlife habitat.
+
+“(b)
+
+Reports.—Not later than March 1, 2003, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report on the results of the study.”
 
 #### Study of Land Use for Expiring Contracts and Extension of Authority
 
@@ -136,5 +282,5 @@ Pub. L. 99–263, Mar. 24, 1986, 100 Stat. 59, provided: “That the conservatio
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3837, 3839 of this title; title 7 sections 7211, 7212.
+This section is referred to in sections 3832, 3837, 3839 of this title; title 7 sections 7211, 7212.
 

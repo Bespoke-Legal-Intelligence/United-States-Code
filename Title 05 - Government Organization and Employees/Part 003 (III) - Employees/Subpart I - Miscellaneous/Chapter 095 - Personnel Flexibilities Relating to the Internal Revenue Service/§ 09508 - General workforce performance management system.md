@@ -34,7 +34,7 @@
 
 (d)(1) In applying sections 4303(b)(1)(A) and 7513(b)(1) to employees of the Internal Revenue Service, “30 days” may be deemed to be “15 days”.
 
-(2) Notwithstanding the second sentence of section 5335(c), an employee of the Internal Revenue Service shall not have a right to appeal the denial of a periodic step increase under section 5335 to the Merit Systems Protection Board.
+(2) Notwithstanding the second sentence of section 5335(c), an employee of the Internal Revenue Service shall not have a right to appeal thedenial of a periodic step increase under section 5335 to the Merit Systems Protection Board.
 
 (Added Pub. L. 105–206, title I, §1201(a), July 22, 1998, 112 Stat. 715.)
 
@@ -42,7 +42,7 @@
 
 The date of enactment of this section, referred to in subsec. (a), is the date of enactment of Pub. L. 105–206, which was approved July 22, 1998.
 
-Section 1204 of the Internal Revenue Service Restructuring and Reform Act of 1998, referred to in subsec.\(a)(2), is section 1204 of Pub. L. 105–206, which is set out as a note under section 7804 of Title 26, Internal Revenue Code.
+Section 1204 of the Internal Revenue Service Restructuring and Reform Act of 1998, referred to in subsec. (a)(2), is section 1204 of Pub. L. 105–206, which is set out as a note under section 7804 of Title 26, Internal Revenue Code.
 
 The Government Performance and Results Act of 1993, referred to in subsec. (a)(2)(A), is Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 285, which enacted section 306 of this title, sections 1115 to 1119, 9703, and 9704 of Title 31, Money and Finance, and sections 2801 to 2805 of Title 39, Postal Service, amended section 1105 of Title 31, and enacted provisions set out as notes under sections 1101 and 1115 of Title 31. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under section 1101 of Title 31 and Tables.
 

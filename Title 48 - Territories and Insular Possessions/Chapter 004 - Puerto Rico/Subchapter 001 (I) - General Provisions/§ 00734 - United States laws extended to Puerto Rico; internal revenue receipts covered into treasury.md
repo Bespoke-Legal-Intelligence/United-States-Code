@@ -84,22 +84,6 @@ This memorandum shall be published in the Federal Register.
 
 George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Cross References
-
-Articles, goods, wares, or merchandise going into Puerto Rico from United States, exempt from payment of any tax imposed by internal revenue laws of United States, see section 7653 of Title 26, Internal Revenue Code.
-
-Deposit of internal revenue collections, see section 7652 of Title 26.
-
-Income tax on residents of Puerto Rico, see section 933 of Title 26.
-
-Internal revenue tax on articles of merchandise of Puerto Rican manufacture coming into the United States and withdrawn for consumption or sale, see section 7652 of Title 26.
-
-Interstate Commerce Act as amended and the Safety Appliance Acts as amended as inapplicable to Puerto Rico, see section 751 of this title.
-
-References to possessions in Internal Revenue Code as referring to Commonwealth of Puerto Rico, see section 7701 of Title 26, Internal Revenue Code.
-
-Taxes collected, as trust funds, see section 1321 of Title 31, Money and Finance.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in title 22 sections 1356, 1373.

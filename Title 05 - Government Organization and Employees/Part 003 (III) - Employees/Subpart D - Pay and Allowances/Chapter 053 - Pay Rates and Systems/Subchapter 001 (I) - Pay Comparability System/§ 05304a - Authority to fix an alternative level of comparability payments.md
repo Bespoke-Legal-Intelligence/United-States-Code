@@ -1,6 +1,6 @@
 ### §5304a. Authority to fix an alternative level of comparability payments
 
-(a) If, because of national emergency or serious economic conditions affecting the general welfare, the President should consider the level of comparability payments which would otherwise be payable under section 5304 in any year to be inappropriate, the President shall—
+(a) If, because of national emergency or serious economic conditions affecting the generalwelfare, the President should consider the level of comparability payments which would otherwise be payable under section 5304 in any year to be inappropriate, the President shall—
 
 &emsp;(1) prepare and transmit to Congress, at least 1 month before those comparability payments (disregarding this section) would otherwise become payable, a report describing the alternative level of payments which the President instead intends to provide, including the reasons why such alternative level is considered necessary; and
 
@@ -47,4 +47,8 @@ Section 634 of Pub. L. 101–509 provided that:
 “ ‘(2) In making any estimate under this section, costs attributable to any authority under section 5304(h) may not be taken into account.’; and
 
 &emsp;“(2) the President's pay agent (referred to in section 5304(d) of such title, as so amended) may use appropriate estimates in lieu of BLS survey data if such data is not available for use in preparing the agent's report with respect to comparability payments payable during calendar year 1994.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 2 section 60a–1.
 

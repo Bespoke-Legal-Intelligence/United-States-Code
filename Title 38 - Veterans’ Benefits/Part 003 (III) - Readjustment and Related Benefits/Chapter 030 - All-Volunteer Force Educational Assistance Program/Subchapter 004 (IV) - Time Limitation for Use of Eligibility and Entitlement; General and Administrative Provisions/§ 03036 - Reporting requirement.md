@@ -4,7 +4,7 @@
 
 (b) The Secretary of Defense shall include in each report submitted under this section—
 
-&emsp;(1) information indicating (A) the extent to which the benefit levels provided under this chapter are adequate to achieve the purposes of inducing individuals to enter and remain in the Armed Forces and of providing an adequate level of financial assistance to help meet the cost of pursuing a program of education, (B) whether it is necessary for the purposes of maintaining adequate levels of well-qualified active-duty personnel in the Armed Forces to continue to offer the opportunity for educational assistance under this chapter to individuals who have not yet entered active-duty service, and (C) describing the efforts under sections 3011(i) and 3012(g) of this title to inform members of the Armed Forces of the minimum service requirements for entitlement to educational assistance benefits under this chapter and the results from such efforts; and
+&emsp;(1) information indicating (A) the extent to which the benefit levels provided under this chapter are adequate to achieve the purposes of inducing individuals to enter and remain in the Armed Forces and of providing an adequate level of financial assistance to help meet the cost of pursuing a program of education, (B) whether it is necessary for the purposes of maintaining adequate levels of well-qualified active-duty personnel in the Armed Forces to continue to offer the opportunity for educational assistance under this chapter to individuals who have not yet entered active-duty service, and (C) describing the effortsunder sections 3011(i) and 3012(g) of this title to inform members of the Armed Forces of the minimum service requirements for entitlement to educational assistance benefits under this chapter and the results from such efforts; and
 
 &emsp;(2) such recommendations for administrative and legislative changes regarding the provision of educational assistance to members of the Armed Forces and veterans, and their dependents, as the Secretary of Defense considers appropriate.
 
@@ -14,13 +14,17 @@
 
 &emsp;(2) such recommendations for administrative and legislative changes regarding the provision of educational assistance to members of the Armed Forces and veterans, and their dependents, as the Secretary considers appropriate.
 
-(d)(1) The first report by the Secretary of Defense under this section shall be submitted not later than January 1, 1986.
+(d) No report shall be required under this section after January 1, 2005.
 
-(2) The first report by the Secretary under this section shall be submitted not later than January 1, 1988.
-
-(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2563, §1436; amended Pub. L. 101–237, title IV, §423(b)(1)(A), (4)(D), Dec. 18, 1989, 103 Stat. 2092; renumbered §3036, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–368, title II, §207(c), Nov. 11, 1998, 112 Stat. 3328.)
+(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2563, §1436; amended Pub. L. 101–237, title IV, §423(b)(1)(A), (4)(D), Dec. 18, 1989, 103 Stat. 2092; renumbered §3036, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–368, title II, §207(c), Nov. 11, 1998, 112 Stat. 3328; Pub. L. 106–419, title IV, §403(c)(4), Nov. 1, 2000, 114 Stat. 1864.)
 
 #### Amendments
+
+2000—Subsec. (d). Pub. L. 106–419 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows:
+
+“(d)(1) The first report by the Secretary of Defense under this section shall be submitted not later than January 1, 1986.
+
+“(2) The first report by the Secretary under this section shall be submitted not later than January 1, 1988.”
 
 1998—Subsec. (b)(1)(C). Pub. L. 105–368 added cl. (C).
 

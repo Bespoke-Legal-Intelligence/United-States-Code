@@ -14,7 +14,7 @@ As used in this chapter—
 
 &emsp;&emsp;(A) an investment by a venture capital firm, investment company (including a small business investment company) employee welfare benefit plan or pension plan, or trust, foundation, or endowment that is exempt from Federal income taxation—
 
-&emsp;&emsp;&emsp;(i) shall not cause a business concern to be deemed not independently owned and operated;
+&emsp;&emsp;&emsp;(i) shall not cause a business concern to be deemed not independently owned and operated regardless of the allocation of control during the investment period under any investment agreement between the business concern and the entity making the investment;
 
 &emsp;&emsp;&emsp;(ii) shall be disregarded in determining whether a business concern satisfies size standards established pursuant to section 3(a)(2) of the Small Business Act \[15 U.S.C. 632(a)(2)\]; and
 
@@ -92,11 +92,13 @@ As used in this chapter—
 
 &emsp;&emsp;(B) similar plans not covered by such Act that have been established and that are maintained by the Federal Government or any State or political subdivision, or any agency or instrumentality thereof, for the benefit of employees;
 
-&emsp;(15) the term “member” means, with respect to a licensee that is a limited liability company, a holder of an ownership interest or a person otherwise admitted to membership in the limited liability company; and
+&emsp;(15) the term “member” means, with respect to a licensee that is a limited liability company, a holder of an ownership interest or a person otherwise admitted to membership in the limited liability company;
 
-&emsp;(16) the term “limited liability company” means a business entity that is organized and operating in accordance with a State limited liability company statute approved by the Administration.
+&emsp;(16) the term “limited liability company” means a business entity that is organized and operating in accordance with a State limited liability company statute approved by the Administration; and
 
-(Pub. L. 85–699, title I, §103, Aug. 21, 1958, 72 Stat. 690; Pub. L. 86–502, §3, June 11, 1960, 74 Stat. 196; Pub. L. 87–341, §2, Oct. 3, 1961, 75 Stat. 752; Pub. L. 92–595, §2(a), Oct. 27, 1972, 86 Stat. 1314; Pub. L. 94–305, title I, §106(a), June 4, 1976, 90 Stat. 666; Pub. L. 102–366, title IV, §410, Sept. 4, 1992, 106 Stat. 1017; Pub. L. 104–208, div. D, title II, §208(a), Sept. 30, 1996, 110 Stat. 3009–739; Pub. L. 105–135, title II, §213, Dec. 2, 1997, 111 Stat. 2601; Pub. L. 106–9, §2(c), Apr. 5, 1999, 113 Stat. 17.)
+&emsp;(17) the term “long term”, when used in connection with equity capital or loan funds invested in any small business concern or smaller enterprise, means any period of time not less than 1 year.
+
+(Pub. L. 85–699, title I, §103, Aug. 21, 1958, 72 Stat. 690; Pub. L. 86–502, §3, June 11, 1960, 74 Stat. 196; Pub. L. 87–341, §2, Oct. 3, 1961, 75 Stat. 752; Pub. L. 92–595, §2(a), Oct. 27, 1972, 86 Stat.1314; Pub. L. 94–305, title I, §106(a), June 4, 1976, 90 Stat. 666; Pub. L. 102–366, title IV, §410, Sept. 4, 1992, 106 Stat. 1017; Pub. L. 104–208, div. D, title II, §208(a), Sept. 30, 1996, 110 Stat. 3009–739; Pub. L. 105–135, title II, §213, Dec. 2, 1997, 111 Stat. 2601; Pub. L. 106–9, §2(c), Apr. 5, 1999, 113 Stat. 17; Pub. L. 106–554, §1(a)(9) \[title IV, §402\], Dec. 21, 2000, 114 Stat. 2763, 2763A–690.)
 
 #### References in Text
 
@@ -108,11 +110,15 @@ The Employee Retirement Income Security Act of 1974, referred to in par. (14), i
 
 #### Amendments
 
+2000—Par. (5)(A)(i). Pub. L. 106–554, §1(a)(9) \[title IV, §402(a)\], inserted before semicolon at end “regardless of the allocation of control during the investment period under any investment agreement between the business concern and the entity making the investment”.
+
+Par. (17). Pub. L. 106–554, §1(a)(9) \[title IV, §402(b)\], added par. (17).
+
 1999—Par. (5). Pub. L. 106–9, §2(c)(1), designated existing provisions after “for purposes of this chapter” as subpar. (A), redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, and added subpar. (B).
 
 Par. (12)(A)(ii). Pub. L. 106–9, §2(c)(2), inserted before “; or”: “except that, for purposes of this clause, if the business concern is not required by law to pay Federal income taxes at the enterprise level, but is required to pass income through to the shareholders, partners, beneficiaries, or other equitable owners of the business concern, the net income of the business concern shall be determined by allowing a deduction in an amount equal to the sum of—
 
-&emsp;“(I) if the business concern is not required by law to pay State (and local, if any) income taxes at the enterprise level, the net income (determined without regard to this clause), multiplied by the marginal State income tax rate (or by the combined State andlocal income tax rates, as applicable) that would have applied if the business concern were a corporation; and
+&emsp;“(I) if the business concern is not required by law to pay State (and local, if any) income taxes at the enterprise level, the net income (determined without regard to this clause), multiplied by the marginal State income tax rate (or by the combined State and local income tax rates, as applicable) that would have applied if the business concern were a corporation; and
 
 &emsp;“(II) the net income (so determined) less any deduction for State (and local) income taxes calculated under subclause (I), multiplied by the marginal Federal income tax rate that would have applied if the business concern were a corporation”.
 

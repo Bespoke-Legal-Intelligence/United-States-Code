@@ -14,9 +14,3 @@ Pub. L. 104–208, §381(a)(1), amended first sentence generally. Prior to amend
 
 Section 381(b) of div. C of Pub. L. 104–208 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to actions filed after the date of the enactment of this Act \[Sept. 30, 1996\].”
 
-#### Cross References
-
-Jurisdiction of all offenses against the laws of the United States, see section 3231 of Title 18, Crimes and Criminal Procedure.
-
-United States defined, see section 1101 of this title.
-

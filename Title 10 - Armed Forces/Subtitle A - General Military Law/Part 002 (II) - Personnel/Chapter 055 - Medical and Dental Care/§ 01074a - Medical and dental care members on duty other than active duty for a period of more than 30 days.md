@@ -42,7 +42,7 @@
 
 (2) The services provided under this subsection shall be provided at no cost to the member.
 
-(e)(1) A member of a uniformed service on active duty for health care or recuperation reasons, as described in paragraph (2), is entitled to medical and dental care on the same basis andto the same extent as members covered by section 1074(a) of this title while the member remains on active duty.
+(e)(1) A member of a uniformed service on active duty for health care or recuperation reasons, as described in paragraph (2), is entitled to medical and dental care on the same basis and to the same extent as members covered by section 1074(a) of this title while the member remains on active duty.
 
 (2) Paragraph (1) applies to a member described in paragraph (1) or (2) of subsection (a) who, while being treated for (or recovering from) an injury, illness, or disease incurred or aggravated in the line of duty, is continued on active duty pursuant to a modification or extension of orders, or is ordered to active duty, so as to result in active duty for a period of more than 30 days.
 

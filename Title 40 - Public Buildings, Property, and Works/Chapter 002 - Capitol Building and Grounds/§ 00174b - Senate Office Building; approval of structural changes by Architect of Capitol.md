@@ -26,7 +26,3 @@ Pub. L. 85–95, July 10, 1957, 71 Stat. 289, provided: “That the Architect of
 
 Sec. 2. There are hereby authorized to be appropriated such sums as may be necessary to carry out the provisions of this Act, and the Architect of the Capitol, under the direction of the Senate Office Building Commission, is authorized to enter into contracts and to make such other expenditures, including expenditures for personal and other services, as may be necessary to carry out the purposes of this Act.”
 
-#### Cross References
-
-Senate Office Building, control, care, and supervision, see section 174c of this title.
-

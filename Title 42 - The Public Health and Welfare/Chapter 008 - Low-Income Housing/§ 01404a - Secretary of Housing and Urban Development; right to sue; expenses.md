@@ -28,12 +28,6 @@ Section 502 of act Aug. 10, 1948, is classified generally to section 1701c of Ti
 
 Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, §8, 80 Stat. 632, 655.
 
-#### Cross References
-
-Additional powers and duties of Secretary of Housing and Urban Development, see section 1701c of Title 12, Banks and Banking.
-
-Library membership, utilization of funds for, see section 1701 of Title 12.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1586 of this title.

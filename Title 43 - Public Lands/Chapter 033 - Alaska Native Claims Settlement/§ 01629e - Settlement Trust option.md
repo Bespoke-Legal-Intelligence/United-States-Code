@@ -74,9 +74,13 @@
 
 (7) Except where otherwise expressly provided, no provision of this section shall be construed to require shareholder approval of an action where shareholder approval would not be required under the laws of the State.
 
-(Pub. L. 92–203, §39, as added Pub. L. 100–241, §10, Feb. 3, 1988, 101 Stat. 1804; amended Pub. L. 105–333, §13, Oct. 31, 1998, 112 Stat. 3135.)
+(8) A beneficiary's interest in a settlement trust and the distributions thereon shall be subject to creditor action (including without limitation, levy attachment, pledge, lien, judgment execution, assignment, and the insolvency and bankruptcy laws) only to the extent that Settlement Common Stock and the distributions thereon are subject to such creditor action under section 1606(h) of this title.
+
+(Pub. L. 92–203, §39, as added Pub. L. 100–241, §10, Feb. 3, 1988, 101 Stat. 1804; amended Pub. L. 105–333, §13, Oct. 31, 1998, 112 Stat. 3135; Pub. L. 106–559, title III, §302, Dec. 21, 2000, 114 Stat. 2782.)
 
 #### Amendments
+
+2000—Subsec. (c)(8). Pub. L. 106–559 added par. (8).
 
 1998—Subsec. (b)(1)(B). Pub. L. 105–333 inserted “or the land is conveyed for a homesite by the Trust to a beneficiary of the Trust who is also a legal resident under Alaska law of the Native village of the settlor corporation and the conveyance does not exceed 1.5 acres” after “settlor corporation”.
 

@@ -4,13 +4,13 @@
 
 &emsp;(1) A temporary subsistence allowance for the reasonable cost of temporary quarters (including meals and laundry expenses) incurred by the employee and his family—
 
-&emsp;&emsp;(A) for a period not in excess of 90 days after first arrival at a new post of assignment in a foreign area or a period ending with the occupation of residence quarters, whichever is shorter; and
+&emsp;&emsp;(A) for a period not in excess of 90 days after first arrival at a new post of assignment in a foreign area or a period endingwith the occupation of residence quarters, whichever is shorter; and
 
 &emsp;&emsp;(B) for a period of not more than 30 days immediately before final departure from the post after the necessary evacuation of residence quarters.
 
 &emsp;(2) A living quarters allowance for rent, heat, light, fuel, gas, electricity, and water, without regard to section 3324(a) and (b) of title 31.
 
-&emsp;(3) Under unusual circumstances, payment or reimbursement for extraordinary, necessary, and reasonable expenses, not otherwise compensated for, incurred in initial repairs,alterations, and improvements to the privately leased residence of an employee at a post of assignment in a foreign area, if—
+&emsp;(3) Under unusual circumstances, payment or reimbursement for extraordinary, necessary, and reasonable expenses, not otherwise compensated for, incurred in initial repairs, alterations, and improvements to the privately leased residence of an employee at a post of assignment in a foreign area, if—
 
 &emsp;&emsp;(A) the expenses are administratively approved in advance; and
 

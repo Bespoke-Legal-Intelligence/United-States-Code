@@ -2,7 +2,7 @@
 
 #### (a) Biennial reports; contents
 
-Each State educational agency shall submit to the Secretary a report on or before March 15 of every second year. Each such report shall include—
+Each State educational agency shall submit to the Secretary a report on or before March 15 ofevery second year. Each such report shall include—
 
 &emsp;(1) information with respect to the uses of Federal funds in such State in the two preceding fiscal years under any applicable program under the jurisdiction of the State educational agency; and
 

@@ -8,7 +8,7 @@
 
 &emsp;(i) the forty-five day period specified in section 6106(e) of this title; and
 
-&emsp;(ii) an additional forty-five day period, immediately following the period described in clause (i), during which any committee of the Congress having jurisdiction over the subject matter involved may conduct hearings with respect to the report which the Commission is required to transmit under section 6106(d) of this title, and with respect to the commentsand recommendations submitted by Federal departments and agencies under section 6106(e) of this title.
+&emsp;(ii) an additional forty-five day period, immediately following the period described in clause (i), during which any committee of the Congress having jurisdiction over the subject matter involved may conduct hearings with respect to the report which the Commission is required to transmit under section 6106(d) of this title, and with respect to the comments and recommendations submitted by Federal departments and agencies under section 6106(e) of this title.
 
 (B) The forty-five day period specified in subparagraph (A)(ii) shall include only days during which both Houses of the Congress are in session.
 
@@ -30,7 +30,7 @@
 
 #### (c) Employment practices and labor-management joint apprenticeship training program exemptions; Age Discrimination in Employment Act unaffected
 
-(1) Nothing in this chapter shall be construed to authorize action under this chapter by any Federal department or agency with respect to any employment practice of any employer, employment agency, or labor organization, or with respect to any labor-management joint apprenticeship training program.
+(1) Nothing in this chapter shall be construed to authorize action under this chapter by anyFederal department or agency with respect to any employment practice of any employer, employment agency, or labor organization, or with respect to any labor-management joint apprenticeship training program.
 
 (2) Nothing in this chapter shall be construed to amend or modify the Age Discrimination in Employment Act of 1967 (29 U.S.C. 621–634), as amended, or to affect the rights or responsibilities of any person or party pursuant to such Act.
 

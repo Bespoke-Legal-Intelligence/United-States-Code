@@ -8,7 +8,7 @@ As used in this chapter, the following terms have the following meanings:
 
 #### (2) Appropriate congressional committees
 
-&emsp;The term “appropriate congressional committees” means the Committee on International Relations and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations of the Senate.
+&emsp;The term “appropriate congressional committees” means the Committee on International Relations and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations andthe Committee on Appropriations of the Senate.
 
 #### (3) Commercial activity
 
@@ -82,7 +82,7 @@ As used in this chapter, the following terms have the following meanings:
 
 #### (13) Traffics
 
-&emsp;(A) As used in subchapter III of this chapter, and except as provided in subparagraph (B), aperson “traffics” in confiscated property if that person knowingly and intentionally—
+&emsp;(A) As used in subchapter III of this chapter, and except as provided in subparagraph (B), a person “traffics” in confiscated property if that person knowingly and intentionally—
 
 &emsp;&emsp;(i) sells, transfers, distributes, dispenses, brokers, manages, or otherwise disposes of confiscated property, or purchases, leases, receives, possesses, obtains control of, manages, uses, or otherwise acquires or holds an interest in confiscated property,
 

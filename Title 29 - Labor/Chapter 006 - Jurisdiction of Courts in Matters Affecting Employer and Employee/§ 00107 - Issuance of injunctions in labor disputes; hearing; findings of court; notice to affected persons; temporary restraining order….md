@@ -18,9 +18,3 @@ The undertaking mentioned in this section shall be understood to signify an agre
 
 (Mar. 23, 1932, ch. 90, §7, 47 Stat. 71.)
 
-#### Federal Rules of Civil Procedure
-
-Appeal to court of appeals, see rule 73, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-Continuation of section under Rule 73, see note by Advisory Committee under rule 73.
-

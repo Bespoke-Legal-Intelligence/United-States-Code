@@ -2,7 +2,7 @@
 
 #### (a) Prima facie evidence; collateral estoppel
 
-A final judgment or decree heretofore or hereafter rendered in any civil or criminal proceeding brought by or on behalf of the United Statesunder the antitrust laws to the effect that a defendant has violated said laws shall be prima facie evidence against such defendant in any action or proceeding brought by any other party against such defendant under said laws as to all matters respecting which said judgment or decree would be an estoppel as between the parties thereto: <i>Provided</i>, That this section shall not apply to consent judgments or decrees entered before any testimony has been taken. Nothing contained in this section shall be construed to impose any limitation on the application of collateral estoppel, except that, in any action or proceeding brought under the antitrust laws, collateral estoppel effect shall not be given to any finding made by the Federal Trade Commission under the antitrust laws or under section 45 of this title which could give rise to a claim for relief under the antitrust laws.
+A final judgment or decree heretofore or hereafter rendered in any civil or criminal proceeding brought by or on behalf of the United States under the antitrust laws to the effect that a defendant has violated said laws shall be prima facie evidence against such defendant in any action or proceeding brought by any other party against such defendant under said laws as to all matters respecting which said judgment or decree would be an estoppel as between the parties thereto: <i>Provided</i>, That this section shall not apply to consent judgments or decrees entered before any testimony has been taken. Nothing contained in this section shall be construed to impose any limitation on the application of collateral estoppel, except that, in any action or proceeding brought under the antitrust laws, collateral estoppel effect shall not be given to any finding made by the Federal Trade Commission under the antitrust laws or under section 45 of this title which could give rise to a claim for relief under the antitrust laws.
 
 #### (b) Consent judgments and competitive impact statements; publication in Federal Register; availability of copies to the public
 
@@ -22,7 +22,7 @@ Any proposal for a consent judgment submitted by the United States for entry in 
 
 #### (c) Publication of summaries in newspapers
 
-The United States shall also cause to be published, commencing at least 60 days prior to the effective date of the judgment described in subsection (b) of this section, for 7 days over a period of 2 weeks in newspapers of general circulation of the district in which the case has been filed, in the District of Columbia, and in such other districts as the court may direct—
+The United States shall also cause to be published, commencing at least 60 days prior to theeffective date of the judgment described in subsection (b) of this section, for 7 days over a period of 2 weeks in newspapers of general circulation of the district in which the case has been filed, in the District of Columbia, and in such other districts as the court may direct—
 
 &emsp;(i) a summary of the terms of the proposal for consent judgment,
 
@@ -48,7 +48,7 @@ In making its determination under subsection (e) of this section, the court may�
 
 &emsp;(1) take testimony of Government officials or experts or such other expert witnesses, upon motion of any party or participant or upon its own motion, as the court may deem appropriate;
 
-&emsp;(2) appoint a special master and such outside consultants or expert witnesses as the court may deem appropriate; and request and obtainthe views, evaluations, or advice of any individual, group or agency of government with respect to any aspects of the proposed judgment or the effect of such judgment, in such manner as the court deems appropriate;
+&emsp;(2) appoint a special master and such outside consultants or expert witnesses as the court may deem appropriate; and request and obtain the views, evaluations, or advice of any individual, group or agency of government with respect to any aspects of the proposed judgment or the effect of such judgment, in such manner as the court deems appropriate;
 
 &emsp;(3) authorize full or limited participation in proceedings before the court by interested persons or agencies, including appearance amicus curiae, intervention as a party pursuant to the Federal Rules of Civil Procedure, examination of witnesses or documentary materials, or participation in any other manner and extent which serves the public interest as the court may deem appropriate;
 
@@ -66,7 +66,7 @@ Proceedings before the district court under subsections (e) and (f) of this sect
 
 #### (i) Suspension of limitations
 
-Whenever any civil or criminal proceeding is instituted by the United States to prevent, restrain, or punish violations of any of the antitrust laws, but not including an action under section 15a of this title, the running of the statute of limitations in respect to every private or State right of action arising under said laws and based in whole or in part on any matter complained of in said proceeding shall be suspended during the pendency thereof and for one year thereafter: <i>Provided, however</i>, That whenever the running of the statute of limitations in respect of a cause of action arising under section 15 or 15c of this title is suspended hereunder, any action to enforce such cause of action shall be forever barred unless commenced either within the period of suspension or within four years after the cause of action accrued.
+Whenever any civil or criminal proceeding is instituted by the United States to prevent, restrain, or punish violations of any of the antitrust laws, but not including an action under section 15a of this title, the running of the statute of limitations in respect to every private or State right of action arising under said laws andbased in whole or in part on any matter complained of in said proceeding shall be suspended during the pendency thereof and for one year thereafter: <i>Provided, however</i>, That whenever the running of the statute of limitations in respect of a cause of action arising under section 15 or 15c of this title is suspended hereunder, any action to enforce such cause of action shall be forever barred unless commenced either within the period of suspension or within four years after the cause of action accrued.
 
 (Oct. 15, 1914, ch. 323, §5, 38 Stat. 731; July 7, 1955, ch. 283, §2, 69 Stat. 283; Pub. L. 93–528, §2, Dec. 21, 1974, 88 Stat. 1706; Pub. L. 94–435, title III, §302(2), Sept. 30, 1976, 90 Stat. 1396; Pub. L. 96–349, §5(a), Sept. 12, 1980, 94 Stat. 1157.)
 
@@ -91,22 +91,4 @@ Section 5(b) of Pub. L. 96–349 provided that: “The amendments made by this s
 #### Suspension of Limitation
 
 Act Oct. 10, 1942, ch. 589, 56 Stat. 781, as amended June 30, 1945, ch. 213, 59 Stat. 306, provided for the suspension of any existing statutes of limitations relating to violations of antitrust laws now indictable or subject to civil proceedings under any existing statutes, until June 30, 1946.
-
-#### Federal Rules of Appellate Procedure
-
-Stay or injunction pending appeal, see rule 8, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-#### Federal Rules of Civil Procedure
-
-Judgment, see rule 54, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-One form of action, see rule 2.
-
-Rules of governing the procedure in all suits of a civil nature cognizable as cases at law or in equity, see rule 1.
-
-#### Federal Rules of Criminal Procedure
-
-Sentence and judgment, see rule 32, Title 18, Appendix, Crimes and Criminal Procedure.
-
-Verdict, see rule 31.
 

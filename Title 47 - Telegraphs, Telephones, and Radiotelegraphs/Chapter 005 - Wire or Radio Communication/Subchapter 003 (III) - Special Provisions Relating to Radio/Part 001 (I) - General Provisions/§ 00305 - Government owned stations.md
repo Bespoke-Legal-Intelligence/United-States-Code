@@ -2,7 +2,7 @@
 
 #### (a) Frequencies; compliance with regulations; stations on vessels
 
-Radio stations belonging to and operated by the United States shall not be subject to the provisions of sections 301 and 303 of this title. All such Government stations shall use such frequencies as shall be assigned to each or to eachclass by the President. All such stations, except stations on board naval and other Government vessels while at sea or beyond the limits of the continental United States, when transmitting any radio communication or signal other than a communication or signal relating to Government business, shall conform to such rules and regulations designed to prevent interference with other radio stations and the rights of others as the Commission may prescribe.
+Radio stations belonging to and operated by the United States shall not be subject to the provisions of sections 301 and 303 of this title. All such Government stations shall use such frequencies as shall be assigned to each or to each class by the President. All such stations, except stations on board naval and other Government vessels while at sea or beyond the limits of the continental United States, when transmitting any radio communication or signal other than a communication or signal relating to Government business, shall conform to such rules and regulations designed to prevent interference with other radio stations and the rights of others as the Commission may prescribe.
 
 #### (b) Call letters
 
@@ -22,7 +22,7 @@ In subsec. (c), “subchapter II of chapter 5, and chapter 7, of title 5” subs
 
 1996—Subsecs. (b) to (d). Pub. L. 104–104 redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b) which read as follows: “Radio stations on board vessels of the Maritime Administration of the Department of Transportation or the Inland and Coastwise Waterways Service shall be subject to the provisions of this subchapter.”
 
-1981—Subsec. (b). Pub. L. 97–31 substituted “Maritime Administration of the Department of Transportation” for “United States Shipping Board Bureau or the United States Shipping Board Merchant Fleet Corporation”. For prior transfers of functions, see Transfer of Functions note set out below.
+1981—Subsec. (b). Pub. L. 97–31 substituted “Maritime Administration of the Department of Transportation” for “United States Shipping Board Bureau or theUnited States Shipping Board Merchant Fleet Corporation”. For prior transfers of functions, see Transfer of Functions note set out below.
 
 1962—Subsec. (d). Pub. L. 87–795 added subsec. (d).
 
@@ -62,7 +62,7 @@ There is hereby established in the Executive Office of the President the Office 
 
 #### Sec. 5. Abolition of Office
 
-That office of Assistant Director of the Office of Emergency Preparedness held by the Director of Telecommunications Management under Executive Order No. 10995 of February 16, 1962, as amended, is abolished.The Director of the Office of Emergency Preparedness shall make such provisions as he may deem to be necessary with respect to winding up any outstanding affairs of the office abolished by the foregoing provisions of this section.
+That office of Assistant Director of the Office of Emergency Preparedness held by the Director of Telecommunications Management under Executive Order No. 10995 of February 16, 1962, as amended, is abolished. The Director of the Office of Emergency Preparedness shall make such provisions as he may deem to be necessary with respect to winding up any outstanding affairs of the office abolished by the foregoing provisions of this section.
 
 #### Sec. 6. Incidental Transfers
 

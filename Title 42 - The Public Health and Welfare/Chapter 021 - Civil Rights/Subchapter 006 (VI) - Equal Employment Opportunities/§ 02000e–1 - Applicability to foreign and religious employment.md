@@ -40,5 +40,5 @@ Amendment by Pub. L. 102–166 inapplicable to conduct occurring before Nov. 21,
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 604a, 9920 of this title.
+This section is referred to in sections 290kk–1, 300x–65, 604a, 9920 of this title.
 

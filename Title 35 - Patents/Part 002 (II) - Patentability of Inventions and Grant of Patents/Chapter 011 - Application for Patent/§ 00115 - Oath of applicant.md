@@ -22,10 +22,6 @@ Changes in language are made.
 
 Amendment by Pub. L. 97–247 effective Aug. 27, 1982, see section 17(a) of Pub. L. 97–247, set out as a note under section 41 of this title.
 
-#### Cross References
-
-Consular officers authorized to administer oaths, see sections 4215 and 4221 of Title 22, Foreign Relations and Intercourse.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 111, 371 of this title.

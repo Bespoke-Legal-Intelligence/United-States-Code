@@ -52,13 +52,13 @@ Section amended to modify original language which denied Federal judges power to
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–132, §106(a), substituted “, except as provided in section 2255.” for “and the petition presents no new ground not heretofore presented and determined, and the judge or court is satisfied that the ends of justice will not be served by such inquiry.”
+<b>1996</b>—Subsec. (a). Pub. L. 104–132, §106(a), substituted “, except as provided in section 2255.” for “and the petition presents no new ground not heretofore presented and determined, and the judge or court is satisfied that the ends of justice will not be served by such inquiry.”
 
 Subsec. (b). Pub. L. 104–132, §106(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “When after an evidentiary hearing on the merits of a material factual issue, or after a hearing on the merits of an issue of law, a person in custody pursuant to the judgment of a State court has been denied by a court of the United States or a justice or judge of the United States release from custody or other remedy on an application for a writ of habeas corpus, a subsequent application for a writ of habeas corpus in behalf of such person need not be entertained by a court of the United States or a justice or judge of the United States unless the application alleges and is predicated on a factual or other ground not adjudicated on the hearing of the earlier application for the writ, and unless the court, justice, or judge is satisfied that the applicant has not on the earlier application deliberately withheld the newly asserted ground or otherwise abused the writ.”
 
 Subsec. (d). Pub. L. 104–132, §101, added subsec. (d).
 
-1966—Pub. L. 89–711 designated existing provisions as subsec. (a), struck out provision making the subsection's terms applicable to applications seeking inquiry into detention of persons detained pursuant to judgments of State courts, and added subsecs. (b) and (c).
+<b>1966</b>—Pub. L. 89–711 designated existing provisions as subsec. (a), struck out provision making the subsection's terms applicable to applications seeking inquiry into detention of persons detained pursuant to judgments of State courts, and added subsecs. (b) and (c).
 
 #### Section Referred to in Other Sections
 

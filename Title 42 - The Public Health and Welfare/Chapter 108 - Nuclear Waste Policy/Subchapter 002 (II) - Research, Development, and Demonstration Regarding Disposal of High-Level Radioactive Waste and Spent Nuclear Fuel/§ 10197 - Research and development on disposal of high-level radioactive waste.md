@@ -36,7 +36,7 @@ The Secretary shall design each test and evaluation facility—
 
 &emsp;(A) conducting in situ tests of bore hole sealing, geologic media fracture sealing, and room closure to establish the techniques and performance for isolation of high-level radioactive waste, spent nuclear fuel, or other radioactive materials from the biosphere;
 
-&emsp;(B) conducting in situ tests with radioactive sources and materials to evaluate and improvereliable models for radionuclide migration, absorption, and containment within the engineered barriers and geologic media involved, if the Secretary finds there is reasonable assurance that such radioactive sources and materials will not threaten the use of such site as a repository;
+&emsp;(B) conducting in situ tests with radioactive sources and materials to evaluate and improve reliable models for radionuclide migration, absorption, and containment within the engineered barriers and geologic media involved, if the Secretary finds there is reasonable assurance that such radioactive sources and materials will not threaten the use of such site as a repository;
 
 &emsp;(C) conducting in situ tests to evaluate and improve models for ground water or brine flow through fractured geologic media;
 
@@ -88,7 +88,7 @@ The Secretary shall prepare an environmental impact statement under section 102(
 
 (1) If the test and evaluation facility is not located at the site of a repository, the Secretary shall obtain the concurrence of the Commission with respect to the decontamination and decommissioning of such facility.
 
-(2) If the test and evaluation facility is not located at a candidate site or repository site, theSecretary shall conduct only the portion of the in situ testing program required in subsection (c) of this section determined by the Secretary to be useful in carrying out the purposes of this chapter.
+(2) If the test and evaluation facility is not located at a candidate site or repository site, the Secretary shall conduct only the portion of the in situ testing program required in subsection (c) of this section determined by the Secretary to be useful in carrying out the purposes of this chapter.
 
 (3) The operation of the test and evaluation facility shall terminate not later than—
 

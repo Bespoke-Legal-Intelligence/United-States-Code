@@ -4,7 +4,3 @@ Witnesses shall have the right to receive their fee for one day's attendance and
 
 (Jan. 31, 1903, ch. 344, §2, 32 Stat. 790.)
 
-#### Cross References
-
-Evidence; witnesses, see section 1821 et seq. of Title 28, Judiciary and Judicial Procedure.
-

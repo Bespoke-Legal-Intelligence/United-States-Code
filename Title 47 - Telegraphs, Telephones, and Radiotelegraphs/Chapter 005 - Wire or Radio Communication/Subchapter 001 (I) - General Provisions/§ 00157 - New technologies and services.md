@@ -4,7 +4,7 @@
 
 (b) The Commission shall determine whether any new technology or service proposed in a petition or application is in the public interest within one year after such petition or application is filed. If the Commission initiates its own proceeding for a new technology or service, such proceeding shall be completed within 12 months after it is initiated.
 
-(June 19, 1934, ch. 652, title I, §7, as added Pub. L. 98–214, §12, Dec. 8, 1983, 97 Stat. 1471; amended Pub. L. 103–414, title III, §304(a)(1), Oct. 25, 1994, 108 Stat. 4296.)
+(June 19, 1934, ch. 652, title I, §7, as added Pub. L. 98–214, §12, Dec. 8, 1983, 97 Stat. 1471; amendedPub. L. 103–414, title III, §304(a)(1), Oct. 25, 1994, 108 Stat. 4296.)
 
 #### Amendments
 

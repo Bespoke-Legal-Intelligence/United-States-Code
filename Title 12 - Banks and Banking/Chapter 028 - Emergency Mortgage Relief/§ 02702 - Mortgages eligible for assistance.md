@@ -4,7 +4,7 @@ No assistance shall be extended with respect to any mortgage under this chapter 
 
 &emsp;(1) the holder of the mortgage has indicated to the mortgagor its intention to foreclose;
 
-&emsp;(2) the mortgagor and holder of the mortgage have indicated in writing to the Secretary of Housing and Urban Development (hereinafter referred to as the “Secretary”) and to any agency or department of the Federal Government responsible for the regulation of the holder that circumstances (such as the volume of delinquent loans in its portfolio) make it probable that there will be a foreclosure and that the mortgagor is in need of emergency mortgage relief as authorized by this chapter, except that such statement bythe holder of the mortgage may be waived by the Secretary if in his judgment such waiver would further the purposes of this chapter;
+&emsp;(2) the mortgagor and holder of the mortgage have indicated in writing to the Secretary of Housing and Urban Development (hereinafter referred to as the “Secretary”) and to any agency or department of the Federal Government responsible for the regulation of the holder that circumstances (such as the volume of delinquent loans in its portfolio) make it probable that there will be a foreclosure and that the mortgagor is in need of emergency mortgage relief as authorized by this chapter, except that such statement by the holder of the mortgage may be waived by the Secretary if in his judgment such waiver would further the purposes of this chapter;
 
 &emsp;(3) payments under the mortgage have been delinquent for at least three months;
 

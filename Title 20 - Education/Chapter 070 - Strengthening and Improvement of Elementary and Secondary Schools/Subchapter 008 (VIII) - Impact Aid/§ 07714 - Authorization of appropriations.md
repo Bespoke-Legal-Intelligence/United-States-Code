@@ -2,39 +2,51 @@
 
 #### (a) Payments for Federal acquisition of real property
 
-For the purpose of making payments under section 7702 of this title, there are authorized to be appropriated $16,750,000 for fiscal year 1995 and such sums as may be necessary for each of the four succeeding fiscal years.
+For the purpose of making payments under section 7702 of this title, there are authorized to be appropriated $32,000,000 for fiscal year 2000 and such sums as may be necessary for each of the three succeeding fiscal years.
 
 #### (b) Basic payments; payments for heavily impacted local educational agencies
 
-For the purpose of making payments under subsections (b) and (f) of section 7703 of thistitle, there are authorized to be appropriated $775,000,000 for fiscal year 1995 and such sums as may be necessary for each of the four succeeding fiscal years, of which 6 percent shall be available, until expended, for each such fiscal year to carry out section 7703(f) of this title.
+For the purpose of making payments under section 7703(b) of this title, there are authorized to be appropriated $809,400,000 for fiscal year 2000 and such sums as may be necessary for each of the three succeeding fiscal years.
 
 #### (c) Payments for children with disabilities
 
-For the purpose of making payments under section 7703(d) of this title, there are authorized to be appropriated $45,000,000 for fiscal year 1995 and such sums as may be necessary for each of the four succeeding fiscal years.
+For the purpose of making payments under section 7703(d) of this title, there are authorized to be appropriated $50,000,000 for fiscal year 2000 and such sums as may be necessary for each of the three succeeding fiscal years.
 
-#### (d) Payments for increases in military children
-
-For the purpose of making payments under section 7706 of this title, there are authorized to be appropriated $2,000,000 for fiscal year 1995 and such sums as may be necessary for each of the four succeeding fiscal years.
+#### (d) Repealed. Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1817(d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–388
 
 #### (e) Construction
 
-For the purpose of carrying out section 7707 of this title, there are authorized to be appropriated $25,000,000 for fiscal year 1995 and such sums as may be necessary for each of the four succeeding fiscal years.
+For the purpose of carrying out section 7707 of this title, there are authorized to be appropriated $10,052,000 for fiscal year 2000 and such sums as may be necessary for each of the three succeeding fiscal years.
 
 #### (f) Facilities maintenance
 
-For the purpose of carrying out section 7708 of this title, there are authorized to be appropriated $2,000,000 for fiscal year 1995 and such sums as may be necessary for each of the four succeeding fiscal years.
+For the purpose of carrying out section 7708 of this title, there are authorized to be appropriated $5,000,000 for fiscal year 2000 and such sums as may be necessary for each of the three succeeding fiscal years.
 
-#### (g) Additional assistance for certain Federal property local educational agencies
+#### (g) Additional assistance for certain local educational agencies impacted by Federal property acquisition
 
-For the purpose of carrying out section 7702(j) of this title there are authorized to be appropriated such sums as are necessary beginning in fiscal year 1998 and for each succeeding fiscal year.
+For the purpose of carrying out section 7702(j) of this title there are authorized to be appropriated $1,500,000 for fiscal year 2000 and such sums as may be necessary for each of the three succeeding fiscal years.
 
-(Pub. L. 89–10, title VIII, §8014, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3772; amended Pub. L. 105–78, title III, Nov. 13, 1997, 111 Stat. 1498.)
+(Pub. L. 89–10, title VIII, §8014, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3772; amended Pub. L. 105–78, title III, Nov. 13, 1997, 111 Stat. 1498; Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1817\], Oct. 30, 2000, 114 Stat. 1654, 1654A–388.)
 
 #### Amendments
+
+2000—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1817(a)\], substituted “$32,000,000 for fiscal year 2000” for “$16,750,000 for fiscal year 1995” and “three” for “four”.
+
+Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1817(b)\], substituted “section 7703(b)” for “subsections (b) and (f) of section 7703”, “$809,400,000 for fiscal year 2000” for “$775,000,000 for fiscal year 1995”, and “three” for “four” and struck out “, of which 6 percent shall be available, until expended, for each such fiscal year to carry out section 7703(f) of this title” before period at end.
+
+Subsec. (c). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1817(c)\], substituted “$50,000,000 for fiscal year 2000” for “$45,000,000 for fiscal year 1995” and “three” for “four”.
+
+Subsec. (d). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1817(d)\], struck out heading and text of subsec. (d). Text read as follows: “For the purpose of making payments under section 7706 of this title, there are authorized to be appropriated $2,000,000 for fiscal year 1995 and such sums as may be necessary for each of the four succeeding fiscal years.”
+
+Subsec. (e). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1817(e)\], substituted “$10,052,000 for fiscal year 2000” for “$25,000,000 for fiscal year 1995” and “three” for “four”.
+
+Subsec. (f). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1817(f)\], substituted “$5,000,000 for fiscal year 2000” for “$2,000,000 for fiscal year 1995” and “three” for “four”.
+
+Subsec. (g). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1817(g)\], amended heading and substituted “$1,500,000 for fiscal year 2000 and such sums as may be necessary for each of the three succeeding fiscal years” for “such sums as are necessary beginning in fiscal year 1998 and for each succeeding fiscal year” in text.
 
 1997—Subsec. (g). Pub. L. 105–78 added subsec. (g).
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 7702, 7703, 7706, 7707, 7708 of this title.
+This section is referred to in sections 7702, 7703, 7707, 7708 of this title.
 

@@ -26,11 +26,7 @@ Planning.—(1) The authority of the National Capital Planning Commission under 
 
 &emsp;(B) the Commission before undertaking development that would alter the skyline of Ronald Reagan Washington National Airport when viewed from the opposing shoreline of the Potomac River or from the George Washington Parkway.
 
-(e)
-
-Operation Limitations.—The Administrator of the Federal Aviation Administration may not increase the number of instrument flight rule takeoffs and landings authorized for air carriers by the High Density Rule (14 CFR 93.121 et seq.) at Ronald Reagan Washington National Airport on October 18, 1986, and may not decrease the number of those takeoffs and landings except for reasons of safety.
-
-(Added Pub. L. 105–102, §2(26), Nov. 20, 1997, 111 Stat. 2213; amended Pub. L. 105–154, §2(a)(1)(D), Feb. 6, 1998, 112 Stat. 3; Pub. L. 105–225, §7(c)(1)(D), Aug. 12, 1998, 112 Stat. 1511.)
+(Added Pub. L. 105–102, §2(26), Nov. 20, 1997, 111 Stat. 2213; amended Pub. L. 105–154, §2(a)(1)(D), Feb. 6, 1998, 112 Stat. 3; Pub. L. 105–225, §7(c)(1)(D), Aug. 12, 1998, 112 Stat. 1511; Pub. L. 106–181, title II, §231(j)(1), Apr. 5, 2000, 114 Stat. 115.)
 
 Historical and Revision Notes
 
@@ -118,9 +114,15 @@ Act of September 7, 1950, ch. 905, 64 Stat. 770, referred to in subsec. (a)(2), 
 
 #### Amendments
 
+2000—Subsec. (e). Pub. L. 106–181 struck out heading and text of subsec. (e). Text read as follows: “The Administrator of the Federal Aviation Administration may not increase the number of instrument flight rule takeoffs and landings authorized for air carriers by the High Density Rule (14 CFR 93.121 et seq.) at Ronald Reagan Washington National Airport on October 18, 1986, and may not decrease the number of those takeoffs and landings except for reasons of safety.”
+
 1998—Subsec. (b). Pub. L. 105–225 substituted “retention by” for “retention of”.
 
 Subsecs. (c), (d)(2)(B), (e). Pub. L. 105–154 substituted “Ronald Reagan Washington National Airport” for “Washington National Airport”.
+
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
 
 #### Effective Date of 1998 Amendment
 
@@ -128,5 +130,5 @@ Amendment by Pub. L. 105–225 effective Nov. 20, 1997, see section 7(c)(3) of P
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 41714 of this title.
+This section is referred to in sections 41714, 41718 of this title.
 

@@ -8,7 +8,3 @@ Except as otherwise provided by Act of Congress, the allowance and taxation of c
 
 This section was drafted to make possible the promulgation of comprehensive and uniform rules governing costs in admiralty. Various enactments of Congress, all over 100 years old, relate to particular features of such matter, but do not set forth any comprehensive and uniform procedure. See, for example, sections 818, 826, and 827 of title 28, U.S.C., 1940 ed.
 
-#### Federal Rules of Civil Procedure
-
-Fees and costs in admiralty proceedings, see Rules 41, 43, 54 and Rules C and E, Appendix to this title.
-

@@ -1,0 +1,46 @@
+### §7031. Electronic filing and retrieval
+
+#### (a) In general
+
+Not later than 180 days after June 20, 2000, in accordance with subsection (c) of this section, the Secretary of Agriculture (referred to in this subchapter as the “Secretary”) shall, to the maximum extent practicable, establish an Internet-based system that enables agricultural producers to access all forms of the agencies of the Department of Agriculture (referred to in this subchapter as the “Department”) specified in subsection (b) of this section.
+
+#### (b) Applicability
+
+The agencies referred to in subsection (a) of this section are the following:
+
+&emsp;(1) The Farm Service Agency.
+
+&emsp;(2) The Natural Resources Conservation Service.
+
+&emsp;(3) The rural development components of the Department included in the Secretary's service center initiative regarding State and field office collocation implemented pursuant to section 6915 of this title.
+
+&emsp;(4) The agricultural producer programs component of the Commodity Credit Corporation administered by the Farm Service Agency and the Natural Resources Conservation Service.
+
+#### (c) Implementation
+
+In carrying out subsection (a) of this section, the Secretary shall—
+
+&emsp;(1) provide a method by which agricultural producers may—
+
+&emsp;&emsp;(A) download from the Internet the forms of the agencies specified in subsection (b) of this section; and
+
+&emsp;&emsp;(B) submit completed forms via electronic facsimile, mail, or similar means;
+
+&emsp;(2) redesign the forms by incorporating into the forms user-friendly formats and self-help guidance materials; and
+
+&emsp;(3) ensure that the agencies specified in subsection (b) of this section—
+
+&emsp;&emsp;(A) use computer hardware and software that is compatible among the agencies and will operate in a common computing environment; and
+
+&emsp;&emsp;(B) develop common Internet user-interface locations and applications to consolidate the agencies’ news, information, and program materials.
+
+#### (d) Progress reports
+
+Not later than 180 days after June 20, 2000, the Secretary shall submit to Congress a report thatdescribes the progress made toward implementing the Internet-based system required under this section.
+
+(Pub. L. 106–222, §2, June 20, 2000, 114 Stat. 353.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 7032, 7033, and 7034 of this title.
+

@@ -68,7 +68,7 @@ No penalty shall be assessed, or cease and desist order issued, by the Secretary
 
 #### (2) Enforcement
 
-&emsp;If the court determines that the order was lawfully made and duly served and that the person violated the order, the court shall enforce the order.
+&emsp;If the court determines that the order was lawfully made and duly served and that theperson violated the order, the court shall enforce the order.
 
 #### (3) Civil penalty
 

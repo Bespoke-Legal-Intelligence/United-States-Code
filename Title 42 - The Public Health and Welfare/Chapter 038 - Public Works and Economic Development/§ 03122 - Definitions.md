@@ -82,5 +82,5 @@ The Alaska Native Claims Settlement Act, referred to in par. (7), is Pub. L. 92�
 
 #### Prior Provisions
 
-A prior section 3122, Pub. L. 91–524, title IX, §901, Nov. 30, 1970, 84 Stat. 1383; Pub. L. 92–419, title VI, §601, Aug.30, 1972, 86 Stat. 674; Pub. L. 94–273, §7(3), Apr. 21, 1976, 90 Stat. 378; Pub. L. 96–355, §6, Sept. 24, 1980, 94 Stat. 1174, which related to priority to be given to revitalization and development of rural areas, was transferred to section 2204b–1 of Title 7, Agriculture.
+A prior section 3122, Pub. L. 91–524, title IX, §901, Nov. 30, 1970, 84 Stat. 1383; Pub. L. 92–419, title VI, §601, Aug. 30, 1972, 86 Stat. 674; Pub. L. 94–273, §7(3), Apr. 21, 1976, 90 Stat. 378; Pub. L. 96–355, §6, Sept. 24, 1980, 94 Stat. 1174, which related to priority to be given to revitalization and development of rural areas, was transferred to section 2204b–1 of Title 7, Agriculture.
 

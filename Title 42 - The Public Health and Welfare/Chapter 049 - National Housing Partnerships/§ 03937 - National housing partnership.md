@@ -2,11 +2,11 @@
 
 #### (a) Formation of limited partnership; partnership agreement
 
-The corporation is authorized to arrange for the formation, as a separate organization, of a limited partnership (hereinafter in this chapter referred to as the “partnership”) under the District of Columbia Uniform Limited Partnership Act \[D.C. Code, §41–201 et seq.\] for the purpose of engaging in any of the activities authorized for the corporation under section 3936 of this title, and to enter into a partnership agreement governing the affairs of such limited partnership.
+The corporation is authorized to arrange for the formation, as a separate organization, of a limited partnership (hereinafter in this chapter referred to as the “partnership”) under the District of Columbia Uniform Limited Partnership Act for the purpose of engaging in any of the activities authorized for the corporation under section 3936 of this title, and to enter into a partnership agreement governing the affairs of such limited partnership.
 
 #### (b) Applicability of other laws; legal status of limited partnership
 
-The partnership shall be subject to the provisions, to the extent consistent with this chapter, of (1) the District of Columbia Uniform Limited Partnership Act and (2) those provisions of the District of Columbia Uniform Partnership Act \[D.C. Code, §41–101 et seq.\] made applicable by section 6(2) of that Act \[D.C. Code, §41–105(b)\]. Notwithstanding any inconsistency between the provisions of such Acts, or of any other law, and the provisions of this section, the partnership organized pursuant to this section shall be deemed to have the legal status of a limited partnership.
+The partnership shall be subject to the provisions, to the extent consistent with this chapter, of (1) the District of Columbia Uniform Limited Partnership Act and (2) those provisions of the District of Columbia Uniform Partnership Act made applicable by section 6(2) of that Act. Notwithstanding any inconsistency between the provisions of such Acts, or of any other law, and the provisions of this section, the partnership organized pursuant to this section shall be deemed to have the legal status of a limited partnership.
 
 #### (c) Authorization to enter into partnerships, limited partnerships, or joint ventures organized under State or local laws for purpose of engaging in low and moderate income housing developments, projects, or undertakings
 
@@ -30,15 +30,15 @@ A corporation which is a limited partner in the partnership shall not become lia
 
 #### (h) Execution of certificate of partnership and amendments
 
-The certificate of the partnership and any amendment thereof required by the District of Columbia Uniform Limited Partnership Act \[D.C. Code, §41–201 et seq.\] shall be executed and acknowledged by the corporation as member and by each other member of the partnership or his attorney-in-fact duly authorized by power of attorney in writing. The corporation may execute and acknowledge the certificate and any amendment thereof as attorney-in-fact for any member, member to be substituted or added, or assigning member, by whom the certificate or amendment is required to be executed and acknowledged and who has appointed the corporation as such attorney.
+The certificate of the partnership and any amendment thereof required by the District of Columbia Uniform Limited Partnership Act shall be executed and acknowledged by the corporation as member and by each other member of the partnership or his attorney-in-fact duly authorized by power of attorney in writing. The corporation may execute and acknowledge the certificate and any amendment thereof as attorney-in-fact for any member, member to be substituted or added, or assigning member, by whom the certificate or amendment is required to be executed and acknowledged and who has appointed the corporation as such attorney.
 
 (Pub. L. 90–448, title IX, §907, Aug. 1, 1968, 82 Stat. 549.)
 
 #### References in Text
 
-The District of Columbia Uniform Limited Partnership Act, referred to in subsecs. (a) and (h), is Pub. L. 87–716, Sept. 28, 1962, 76 Stat. 655, as amended, which appears in chapter 2 (§41–201 et seq.) of Title 41, Partnerships, of the District of Columbia Code.
+The District of Columbia Uniform Limited Partnership Act, referred to in subsecs. (a) and (h), is Pub. L. 87–716, Sept. 28, 1962, 76 Stat. 655, as amended, which is not classified to the Code.
 
-The District of Columbia Uniform Partnership Act, referred to in subsec. (b), is Pub. L. 87–709, Sept. 27, 1962, 76 Stat. 636, as amended, which appears in chapter 1 (§41–101 et seq.) of Title 41 of the District of Columbia Code.
+The District of Columbia Uniform Partnership Act, referred to in subsec. (b), is Pub. L. 87–709, Sept. 27, 1962, 76 Stat. 636, as amended, which is not classified to the Code.
 
 #### Section Referred to in Other Sections
 

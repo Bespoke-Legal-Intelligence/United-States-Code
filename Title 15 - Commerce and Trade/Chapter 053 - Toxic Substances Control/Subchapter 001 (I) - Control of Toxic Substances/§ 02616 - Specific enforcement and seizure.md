@@ -40,7 +40,3 @@ Any chemical substance, mixture, or product subject to subchapter IV of this cha
 
 Subsec. (b). Pub. L. 102–550, §1021(b)(7), in first sentence substituted “substance, mixture, or product subject to subchapter IV of this chapter” for “substance or mixture” and inserted “product,” before “or article” in two places.
 
-#### Federal Rules of Civil Procedure
-
-Admiralty and maritime rules of practice (which included libel procedures) were superseded, and civil and admiralty procedures in United States district courts were unified, effective July 1, 1966, see rule 1 and Supplemental Rules for Certain Admiralty and Maritime Claims, Title 28, Appendix, Judiciary and Judicial Procedure.
-

@@ -2,7 +2,7 @@
 
 #### (a) Criteria development and publication
 
-(1) The Administrator, after consultation with appropriate Federal and State agencies andother interested persons, shall develop and publish, within one year after October 18, 1972 (and from time to time thereafter revise) criteria for water quality accurately reflecting the latest scientific knowledge (A) on the kind and extent of all identifiable effects on health and welfare including, but not limited to, plankton, fish, shellfish, wildlife, plant life, shorelines, beaches, esthetics, and recreation which may be expected from the presence of pollutants in any body of water, including ground water; (B) on the concentration and dispersal of pollutants, or their byproducts, through biological, physical, and chemical processes; and (C) on the effects of pollutants on biological community diversity, productivity, and stability, including information on the factors affecting rates of eutrophication and rates of organic and inorganic sedimentation for varying types of receiving waters.
+(1) The Administrator, after consultation with appropriate Federal and State agencies and other interested persons, shall develop and publish, within one year after October 18, 1972 (and from time to time thereafter revise) criteria for water quality accurately reflecting the latest scientific knowledge (A) on the kind and extent of all identifiable effects on health and welfare including, but not limited to, plankton, fish, shellfish, wildlife, plant life, shorelines, beaches, esthetics, and recreation which may be expected from the presence of pollutants in any body of water, including ground water; (B) on the concentration and dispersal of pollutants, or their byproducts, through biological, physical, and chemical processes; and (C) on the effects of pollutants on biological community diversity, productivity, and stability, including information on the factors affecting rates of eutrophication and rates of organic and inorganic sedimentation for varying types of receiving waters.
 
 (2) The Administrator, after consultation with appropriate Federal and State agencies and other interested persons, shall develop and publish, within one year after October 18, 1972 (and from time to time thereafter revise) information (A) on the factors necessary to restore and maintain the chemical, physical, and biological integrity of all navigable waters, ground waters, waters of the contiguous zone, and the oceans; (B) on the factors necessary for the protection and propagation of shellfish, fish, and wildlife for classes and categories of receiving waters and to allow recreational activities in and on the water; and (C) on the measurement and classification of water quality; and (D) for the purpose of section 1313 of this title, on and the identification of pollutants suitable for maximum daily load measurement correlated with the achievement of water quality objectives.
 
@@ -23,6 +23,18 @@ Guidance to states.—The Administrator, after consultation with appropriate Sta
 (8)
 
 Information on water quality criteria.—The Administrator, after consultation with appropriate State agencies and within 2 years after February 4, 1987, shall develop and publish information on methods for establishing and measuring water quality criteria for toxic pollutants on other bases than pollutant-by-pollutant criteria, including biological monitoring and assessment methods.
+
+(9)
+
+Revised criteria for coastal recreation waters.—
+
+&emsp;(A)
+
+In general.—Not later than 5 years after October 10, 2000, after consultation and in cooperation with appropriate Federal, State,tribal, and local officials (including local health officials), the Administrator shall publish new or revised water quality criteria for pathogens and pathogen indicators (including a revised list of testing methods, as appropriate), based on the results of the studies conducted under section 1254(v) of this title, for the purpose of protecting human health in coastal recreation waters.
+
+&emsp;(B)
+
+Reviews.—Not later than the date that is 5 years after the date of publication of water quality criteria under this paragraph, and at least once every 5 years thereafter, the Administrator shall review and, as necessary, revise the water quality criteria.
 
 #### (b) Effluent limitation guidelines
 
@@ -90,7 +102,7 @@ The Administrator shall, within one hundred and eighty days from October 18, 197
 
 #### (i) Guidelines for monitoring, reporting, enforcement, funding, personnel, and manpower
 
-The Administrator shall (1) within sixty days after October 18, 1972, promulgate guidelines for the purpose of establishing uniform application forms and other minimum requirements for the acquisition of information from owners and operators of point-sources of discharge subject to any State program under section 1342 of this title, and (2) within sixty days from October 18, 1972, promulgate guidelines establishing the minimum procedural and other elements of any State program under section 1342 of this title, which shall include:
+The Administrator shall (1) within sixty days after October 18, 1972, promulgate guidelines for the purpose of establishing uniform application forms and other minimum requirements for theacquisition of information from owners and operators of point-sources of discharge subject to any State program under section 1342 of this title, and (2) within sixty days from October 18, 1972, promulgate guidelines establishing the minimum procedural and other elements of any State program under section 1342 of this title, which shall include:
 
 &emsp;(A) monitoring requirements;
 
@@ -110,7 +122,7 @@ The Administrator shall, within 1 year after February 4, 1987, and biennially th
 
 (2) The Administrator is authorized to transfer to the Secretary of Agriculture, the Secretary of the Army, and the Secretary of the Interior and the heads of such other departments, agencies, and instrumentalities of the United States as the Administrator determines, any funds appropriated under paragraph (3) of this subsection to supplement funds otherwise appropriated to programs authorized pursuant to any agreement under paragraph (1).
 
-(3) There is authorized to be appropriated to carry out the provisions of this subsection,$100,000,000 per fiscal year for the fiscal years 1979 through 1983 and such sums as may be necessary for fiscal years 1984 through 1990.
+(3) There is authorized to be appropriated to carry out the provisions of this subsection, $100,000,000 per fiscal year for the fiscal years 1979 through 1983 and such sums as may be necessary for fiscal years 1984 through 1990.
 
 #### (<i>l</i>) Individual control strategies for toxic pollutants
 
@@ -150,13 +162,15 @@ The Administrator shall, within 1 year after February 4, 1987, and biennially th
 
 &emsp;The Administrator shall provide for public review and comment on the plan prior to final publication.
 
-(June 30, 1948, ch. 758, title III, §304, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 850; amended Pub. L. 95–217, §§48–51, 62(b), Dec. 27, 1977, 91 Stat. 1587, 1588, 1598; Pub. L. 97–117, §23, Dec. 29, 1981, 95 Stat. 1632; Pub. L. 100–4, title I, §101(f), title III, §§308(a), (c), (f), 315(c), 316(e), Feb. 4, 1987, 101 Stat. 9, 38–40, 52, 61.)
+(June 30, 1948, ch. 758, title III, §304, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 850; amended Pub. L. 95–217, §§48–51, 62(b), Dec. 27, 1977, 91 Stat. 1587, 1588, 1598; Pub. L. 97–117, §23, Dec. 29, 1981, 95 Stat. 1632; Pub. L. 100–4, title I, §101(f), title III, §§308(a), (c), (f), 315(c), 316(e), Feb. 4, 1987, 101 Stat. 9, 38–40, 52, 61; Pub. L. 106–284, §3(b), Oct. 10, 2000, 114 Stat. 871.)
 
 #### Codification
 
 Section 50 of Pub. L. 95–217 provided in part that, upon the enactment of subsec. (e) of this section by Pub. L. 95–217 and the concurrent redesignation of former subsecs. (e) to (j) of this section as (f) to (k), respectively, all references to former subsecs. (e) to (j) be changed to (f) to (k), respectively.
 
 #### Amendments
+
+2000—Subsec. (a)(9). Pub. L. 106–284 added par. (9).
 
 1987—Subsec. (a)(7), (8). Pub. L. 100–4, §308(c), added pars. (7) and (8).
 
@@ -194,9 +208,9 @@ Section 73 of Pub. L. 95–217 directed Administrator, within 90 days after Dec.
 
 #### Contiguous Zone of United States
 
-For extension of contiguous zone of United States, see Proc. No. 7219, Sept. 2, 1999, 64 F.R. 48701, set out as a note under section 1331 of Title 43, Public Lands.
+For extension of contiguous zone of United States, see Proc. No. 7219, set out as a note under section 1331 of Title 43, Public Lands.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1255, 1281, 1284, 1288, 1292, 1311, 1312, 1313, 1315, 1317, 1322, 1323, 1329, 1342, 1344, 1369, 1376, 2408 of this title; title 42 sections 6925, 9621.
+This section is referred to in sections 1254, 1255, 1281, 1284, 1288, 1292, 1311, 1312, 1313, 1315, 1317, 1322, 1323, 1329, 1342, 1344, 1369, 1376, 2408 of this title; title 42 sections 6925, 9621.
 

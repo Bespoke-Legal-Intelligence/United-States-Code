@@ -128,3 +128,7 @@ Section 101(f) of this Act, referred to in subsec. (f), is section 101(f) of the
 
 Section was enacted as part of the Ticket to Work and Work Incentives Improvement Act of 1999, and not as part of the Social Security Act which comprises this chapter.
 
+#### Change of Name
+
+Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+

@@ -14,10 +14,6 @@ Subchapter IX of this chapter, referred to in text, was in the original “act F
 
 1928—Act Dec. 11, 1928, amended section generally.
 
-#### Cross References
-
-Surrender of leases, see section 188a of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in title 10 sections 7421, 7435.

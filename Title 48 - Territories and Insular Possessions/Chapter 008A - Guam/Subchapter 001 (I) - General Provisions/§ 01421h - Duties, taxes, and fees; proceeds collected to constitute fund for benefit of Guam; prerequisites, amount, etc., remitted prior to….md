@@ -22,10 +22,6 @@ Public Law 88–170, as amended (82 Stat. 863), referred to in text, is Pub. L. 
 
 1960—Pub. L. 86–778 inserted clause providing that nothing in this chapter shall be construed to apply to any tax imposed by chapter 2 or 21 of title 26.
 
-#### Cross References
-
-Payment to Guam of proceeds of tax collected on coconut and palm oil, see section 7653 of Title 26, Internal Revenue Code.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1423a of this title; title 26 section 7651.

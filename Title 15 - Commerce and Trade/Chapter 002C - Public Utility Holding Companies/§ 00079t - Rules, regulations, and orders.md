@@ -28,31 +28,3 @@ The Securities Exchange Act of 1934, referred to in subsec. (d), is act June 6, 
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
-#### Cross References
-
-Rules and regulations—
-
-&emsp;&emsp;Acquisition of securities and utility assets and other interests, see section 79i of this title.
-
-&emsp;&emsp;Approval of acquisition of securities and utility assets and other interests, see section 79j of this title.
-
-&emsp;&emsp;Declarations by registered companies in respect to security transactions, see section 79g of this title.
-
-&emsp;&emsp;Exemptions regarding holding companies, subsidiary companies, and affiliates, power of Commission to make, see section 79c of this title.
-
-&emsp;&emsp;Integration of procedure with other acts, see section 77hhh of this title.
-
-&emsp;&emsp;Investment Advisers Act of 1940, see section 80b–11 of this title.
-
-&emsp;&emsp;Investment Company Act of 1940, see section 80a–37 of this title.
-
-&emsp;&emsp;Registration of holding companies and registration statements, see section 79e of this title.
-
-&emsp;&emsp;Securities Act of 1933, see section 77s of this title.
-
-&emsp;&emsp;Securities Exchange Act of 1934, see sections 78c and 78w of this title.
-
-&emsp;&emsp;Trust Indenture Act of 1939, see section 77sss of this title.
-
-&emsp;&emsp;Unlawful transactions by registered companies, see section 79f of this title.
-

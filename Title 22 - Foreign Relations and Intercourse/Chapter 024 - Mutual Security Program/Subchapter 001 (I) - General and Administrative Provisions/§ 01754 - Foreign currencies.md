@@ -104,7 +104,7 @@ Pub. L. 86–735, Sept. 8, 1960, 74 Stat. 869, as amended, which enacted section
 
 #### Short Title
 
-Section 1 of act Aug. 26, 1954, as amended by acts July 8, 1955, ch. 301, 69 Stat. 283; July 18, 1956, ch. 627, §§2–11, 70 Stat. 555; Aug. 14, 1957, Pub. L. 85–141, 71 Stat. 355; June 30, 1958, Pub. L. 85–477, ch. 1, §§101–103, ch. II, §§201–205, ch. III, §301, ch. IV, §401, ch. V, §501, 72 Stat. 261; July 24, 1959, Pub. L. 86–108, §2, ch. 1, §101, ch. II, §§201–205(a)–(i), (k)–(n), ch. III, §301, ch. IV, §401(a)–(k), (m), 73 Stat. 246; May 14, 1960, Pub. L. 86–472, ch. I to V, 74 Stat. 134, provided: “That this act \[enacting this chapter, section 281b–2 of this title, section 151c of former Title 5, Executive Departments and Government Officers and Employees, amending sections 279a, 281b, 290b, 1148, 1442, and 2658 of this title, section 1704 of Title 7, Agriculture, section 1441 of Title 26, Internal Revenue Code, and section 1641 of Title 50, App., War and National Defense, and enacting provisions set out as notes under section 1751 of this title\] may be cited as the ‘Mutual Security Act of 1954’.”
+Section 1 of act Aug. 26, 1954, as amended by acts July 8, 1955, ch. 301, 69 Stat. 283; July 18, 1956, ch. 627, §§2–11, 70 Stat. 555; Aug. 14, 1957, Pub. L. 85–141, 71 Stat. 355; June 30, 1958, Pub. L. 85–477, ch. 1, §§101–103, ch. II, §§201–205, ch. III, §301, ch. IV, §401, ch. V, §501, 72 Stat. 261; July 24, 1959, Pub. L. 86–108, §2, ch. 1, §101, ch. II, §§201–205(a)–(i), (k)–(n), ch. III, §301, ch. IV, §401(a)–(k), (m), 73 Stat. 246; May 14, 1960, Pub. L. 86–472, ch. I to V, 74 Stat. 134, provided: “That this act \[enacting this chapter, section 281b–2 of this title, section 151c of former Title 5, Executive Departments and Government Officers and Employees, amending sections 279a, 281b, 290b, 1148, 1442, and 2658 of this title, section 1704 of Title 7, Agriculture, section 1441 of Title 26, Internal Revenue Code, and section 1641 of Title 50, App., Warand National Defense, and enacting provisions set out as notes under section 1751 of this title\] may be cited as the ‘Mutual Security Act of 1954’.”
 
 #### Transfer of Functions
 
@@ -112,7 +112,7 @@ Certain functions of Clerk of House of Representatives transferred to Director o
 
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R.56673, as amended, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 Functions of President under this section delegated to Secretary of the Treasury pursuant to section 1–501(a)(3) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56675, eff. Oct. 1, 1979, set out as a note under section 2381 of this title.
 

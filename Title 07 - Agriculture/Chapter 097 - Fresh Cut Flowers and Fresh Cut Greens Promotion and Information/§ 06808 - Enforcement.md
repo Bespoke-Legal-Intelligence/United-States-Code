@@ -6,7 +6,7 @@ A district court of the United States shall have jurisdiction to enforce, and to
 
 #### (b) Referral to Attorney General
 
-A civil action brought under subsection (a) of this section shall be referred to the AttorneyGeneral for appropriate action, except that the Secretary is not required to refer to the Attorney General a violation of this chapter, or an order or regulation issued under this chapter, if the Secretary believes that the administration and enforcement of this chapter would be adequately served by administrative action under subsection (c) of this section or suitable written notice or warning to the person who committed or is committing the violation.
+A civil action brought under subsection (a) of this section shall be referred to the Attorney General for appropriate action, except that the Secretary is not required to refer to the Attorney General a violation of this chapter, or an order or regulation issued under this chapter, if the Secretary believes that the administration and enforcement of this chapter would be adequately served by administrative action under subsection (c) of this section or suitable written notice or warning to the person who committed or is committing the violation.
 
 #### (c) Civil penalties and orders
 

@@ -50,10 +50,6 @@ Subsec. (a). Pub. L. 103–337, §1675(c)(4), substituted “12301” for “672
 
 Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
 
-#### Cross References
-
-Standby Reserve, composition of, see section 10151 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 10151 of this title; title 38 section 3011; title 50 App. section 592.

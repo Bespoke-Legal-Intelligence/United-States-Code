@@ -34,13 +34,13 @@
 
 > which are mailed at or addressed to any such Armed Forces post office;
 
-&emsp;(2) parcels not exceeding 70 pounds in weight and 100 inches in length and girth combined, which are mailed at any such Armed Forces post office; and
+&emsp;(2) parcels not exceeding 70 pounds in weight and the maximum size allowed by the Postal Service for fourth class parcel post (known as “Standard Mail (B)”), which are mailed at any such Armed Forces post office; and
 
-&emsp;(3) parcels exceeding 15 pounds but not exceeding 70 pounds in weight and not exceeding 100 inches in length and girth combined, including surface-type official mail, which are mailed at or addressed to any such Armed Forces post office where adequate surface transportation is not available.
+&emsp;(3) parcels exceeding 15 pounds but not exceeding 70 pounds in weight and not exceeding the maximum size allowed by the Postal Service for fourth class parcel post (known as “Standard Mail (B)”), including surface-type official mail, which are mailed at or addressed to any such Armed Forces post office where adequate surface transportation is not available.
 
 > Whenever adequate service by scheduled United States air carriers is not available to provide transportation of mail matter by air in accordance with this subsection, the transportation of such mail may be authorized by other than scheduled United States air carriers.
 
-(c) Any parcel, other than a parcel mailed at a rate of postage requiring priority of handling and delivery, not exceeding 30 pounds in weight and 60 inches in length and girth combined, which is mailed at or addressed to any Armed Forces post office established under section 406(a) of this title, shall be transported by air on a space available basis on scheduled United States air carriers at rates fixed and determined by the Secretary of Transportation in accordance with section 41901 of title 49, upon payment of a fee for such air transportation in addition to the rate of postage otherwise applicable to such a parcel not transported by air. If adequate service by scheduled United States air carriers is not available, any such parcel may be transported by air carriers other than scheduled United States air carriers.
+(c) Any parcel, other than a parcel mailed at a rate of postage requiring priority of handling and delivery, not exceeding 30 pounds in weightand 60 inches in length and girth combined, which is mailed at or addressed to any Armed Forces post office established under section 406(a) of this title, shall be transported by air on a space available basis on scheduled United States air carriers at rates fixed and determined by the Secretary of Transportation in accordance with section 41901 of title 49, upon payment of a fee for such air transportation in addition to the rate of postage otherwise applicable to such a parcel not transported by air. If adequate service by scheduled United States air carriers is not available, any such parcel may be transported by air carriers other than scheduled United States air carriers.
 
 (d) The Department of Defense shall transfer to the Postal Service as postal revenues, out of any appropriations or funds available to the Department of Defense, as a necessary expense of the appropriations or funds and of the activities concerned, the equivalent amount of postage due, as determined by the Postal Service, for matter sent in the mails under authority of subsection (a) of this section.
 
@@ -48,9 +48,11 @@
 
 (f) This section shall be administered under such conditions, and under such regulations, as the Postal Service and the Secretary of Defense jointly may prescribe.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 755; Pub. L. 92–469, Oct. 6, 1972, 86 Stat. 782; Pub. L. 96–70, title I, §1331(e)(2), Sept. 27, 1979, 93 Stat. 482; Pub. L. 98–443, §9(g)(1), Oct. 4, 1984, 98 Stat. 1707; Pub. L. 101–384, Sept. 18, 1990, 104 Stat. 737; Pub. L. 101–509, title VI, §631(a), Nov. 5, 1990, 104 Stat. 1480; Pub. L. 101–510, div. A, title XI, §1113, Nov. 5, 1990, 104 Stat. 1636; Pub. L. 102–484, div. A, title X, §1051(b)(3), Oct. 23, 1992, 106 Stat. 2498; Pub. L. 103–160, div. A, title III, §364, Nov. 30, 1993, 107 Stat. 1628; Pub. L. 103–272, §5(k)(1), July 5, 1994, 108 Stat. 1375.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 755; Pub. L. 92–469, Oct. 6, 1972, 86 Stat. 782; Pub. L. 96–70, title I, §1331(e)(2), Sept. 27, 1979, 93 Stat. 482; Pub. L. 98–443, §9(g)(1), Oct. 4, 1984, 98 Stat. 1707; Pub. L. 101–384, Sept. 18, 1990, 104 Stat. 737; Pub. L. 101–509, title VI, §631(a), Nov. 5, 1990, 104 Stat. 1480; Pub. L. 101–510, div. A, title XI, §1113, Nov. 5, 1990, 104 Stat. 1636; Pub. L. 102–484, div. A, title X, §1051(b)(3), Oct. 23, 1992, 106 Stat. 2498; Pub. L. 103–160, div. A, title III, §364, Nov. 30, 1993, 107 Stat. 1628; Pub. L. 103–272, §5(k)(1), July 5, 1994, 108 Stat. 1375; Pub. L. 106–398, §1 \[\[div. A\], title X, §1088\], Oct. 30, 2000, 114 Stat. 1654, 1654A–294.)
 
 #### Amendments
+
+2000—Subsec. (b)(2), (3). Pub. L. 106–398 substituted “the maximum size allowed by the Postal Service for fourth class parcel post (known as ‘Standard Mail (B)’)” for “100 inches in length and girth combined”.
 
 1994—Subsecs. (b), (c). Pub. L. 103–272 substituted “section 41901” for “section 1376”.
 
@@ -98,7 +100,7 @@ Section 631(b) of Pub. L. 101–509 provided that: “This section \[amending th
 
 #### Executive Order No. 11255
 
-Ex. Ord. No. 11255, Nov. 1, 1965, 30 F.R. 14135, which designated Vietnam and certain waters adjacent thereto as an overseas combat area where the Armed Forces of the United States are engaged in military operations involving armed conflict with a hostile foreign force, for purposes of sections 4169 and 4303 of former Title 39, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
+Ex. Ord. No. 11255, Nov. 1, 1965, 30 F.R. 14135, which designated Vietnam and certain waters adjacent thereto as an overseas combat area where the Armed Forces of the United States are engaged in military operations involving armed conflict with a hostile foreign force,for purposes of sections 4169 and 4303 of former Title 39, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
 
 #### Ex. Ord. No. 12556. Delegation of Functions to Secretary of Defense
 

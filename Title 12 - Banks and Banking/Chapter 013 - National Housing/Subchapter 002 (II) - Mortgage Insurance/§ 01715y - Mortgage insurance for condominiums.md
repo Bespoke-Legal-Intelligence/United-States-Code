@@ -16,9 +16,9 @@ The Secretary is authorized, in his discretion and under such terms and conditio
 
 In addition to individual mortgages insured under subsection (c) of this section, the Secretary is authorized, in his discretion and under such terms and conditions as he may prescribe, to insure blanket mortgages (including advances on such mortgages during construction) which cover multifamily projects to be constructed or rehabilitated in cases where the mortgage is held by a mortgagor, approved by the Secretary, which—
 
-&emsp;(1) has certified to the Secretary, as a condition of obtaining the insurance of a blanket mortgage under this subsection, that uponcompletion of the multifamily project covered by such mortgage it intends to commit the ownership of the multifamily project to a plan of family unit ownership under which each family unit would be eligible for individual mortgage insurance under subsection (c) of this section and will faithfully and diligently make and carry out all reasonable efforts to establish such plan of family unit ownership and to sell such family units to purchasers approved by the Secretary; and
+&emsp;(1) has certified to the Secretary, as a condition of obtaining the insurance of a blanket mortgage under this subsection, that upon completion of the multifamily project covered by such mortgage it intends to commit the ownership of the multifamily project to a plan of family unit ownership under which each family unit would be eligible for individual mortgage insurance under subsection (c) of this section and will faithfully and diligently make and carry out all reasonable efforts to establish such plan of family unit ownership and to sell such family units to purchasers approved by the Secretary; and
 
-&emsp;(2) may, in the Secretary's discretion, be regulated or restricted as to rents, charges, capital structure, rate of return, and methods of operation until the termination of all obligations of the Secretary under the insurance and during such further period of time as the Secretary shall be the owner, holder or reinsurer of the mortgage. The Secretary may make such contracts with and acquire for not to exceed $100 such stock or interest in such mortgagor as he may deem necessary to render effective any such regulation or restriction of such mortgagor. The stock or interest acquired by the Secretary shall be paid for out of the General Insurance Fund, and shall be redeemed by the mortgagor at par at any time upon the request of the Secretary after the termination of all obligations of the Secretary under the insurance.
+&emsp;(2) may, in the Secretary's discretion, be regulated or restricted as to rents, charges, capital structure, rate of return, and methods of operation until the termination of all obligations of the Secretary under the insurance and during such further period of time as theSecretary shall be the owner, holder or reinsurer of the mortgage. The Secretary may make such contracts with and acquire for not to exceed $100 such stock or interest in such mortgagor as he may deem necessary to render effective any such regulation or restriction of such mortgagor. The stock or interest acquired by the Secretary shall be paid for out of the General Insurance Fund, and shall be redeemed by the mortgagor at par at any time upon the request of the Secretary after the termination of all obligations of the Secretary under the insurance.
 
 #### (e) Eligibility for insurance of blanket mortgages of multifamily projects
 
@@ -50,7 +50,7 @@ The provisions of sections 1715p and 1715u of this title shall be applicable to 
 
 #### (j) Increase in maximum insurance amounts for costs incurred from solar energy systems and energy conservation measures
 
-The Secretary may further increase the dollar amount limitations which would otherwise apply under subsection (e) of this section by not to exceed 20 per centum if such increase is necessary to account for the increased cost of a project due to the installation therein of a solar energy system (as defined in subparagraph (3) of the last paragraph of section 1703(a) of this title) or residential energy conservation measures (as defined in section 8211(11)(A) through (G) and (I) of title 42) <sup>1</sup> in cases where the Secretary determines that such measures are in addition to those required under the minimum property standards and will be cost-effective over the life of the measure.
+The Secretary may further increase the dollar amount limitations which would otherwise apply under subsection (e) of this section by not to exceed 20 per centum if such increase is necessary to account for the increased cost of a project due to the installation therein of a solar energy system (as defined in subparagraph (3) of the last paragraph of section 1703(a) of this title) or residential energy conservation measures (as defined in section 8211(11)(A) through (G) and (I) of title 42) <sup>1</sup> in cases where the Secretary determines that such measures are in addition to those required under the minimum propertystandards and will be cost-effective over the life of the measure.
 
 #### (k) Rental housing conversion
 
@@ -211,10 +211,6 @@ Section 318 of Pub. L. 96–399, cited as a credit to this section, was repealed
 #### Implementation of 1982 Amendment
 
 Amendment by Pub. L. 97–253 to be implemented only if Secretary determines that program of advance payment of insurance premiums, considering effect of said amendment, is actuarially sound, see section 201(g) of Pub. L. 97–253, set out as a note under section 1709 of this title.
-
-#### Cross References
-
-Mortgages for one- to four-family dwellings, authority to increase maximum amount by amount of mortgage insurance premium paid at time insured, see section 1709 of this title.
 
 #### Section Referred to in Other Sections
 

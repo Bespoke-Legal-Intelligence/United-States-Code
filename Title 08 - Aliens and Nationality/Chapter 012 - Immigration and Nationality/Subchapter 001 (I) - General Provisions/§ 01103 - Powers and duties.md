@@ -20,7 +20,7 @@
 
 (9) <sup>2</sup> Those officers may exercise such authority and perform such duties as United States immigration officers are authorized to exercise and perform in that foreign country under reciprocal agreement, and they shall enjoy such reasonable privileges and immunities necessary for the performance of their duties as the government of their country extends to United States immigration officers.
 
-(8) <sup>1</sup> In the event the Attorney General determines that an actual or imminent mass influx of aliens arriving off the coast of the United States, or near a land border, presents urgent circumstances requiring an immediate Federal response, the Attorney General may authorize any State or local law enforcement officer, with the consent of the head of the department, agency, or establishment under whose jurisdictionthe individual is serving, to perform or exercise any of the powers, privileges, or duties conferred or imposed by this chapter or regulations issued thereunder upon officers or employees of the Service.
+(8) <sup>1</sup> In the event the Attorney General determines that an actual or imminent mass influx of aliens arriving off the coast of the United States, or near a land border, presents urgent circumstances requiring an immediate Federal response, the Attorney General may authorize any State or local law enforcement officer, with the consent of the head of the department, agency, or establishment under whose jurisdiction the individual is serving, to perform or exercise any of the powers, privileges, or duties conferred or imposed by this chapter or regulations issued thereunder upon officers or employees of the Service.
 
 (9) <sup>2</sup> The Attorney General, in support of persons in administrative detention in non-Federal institutions, is authorized—
 
@@ -148,7 +148,7 @@ Waiver.—The provisions of the Endangered Species Act of 1973 \[16 U.S.C. 1531 
 
 #### Improved Border Equipment and Technology
 
-Section 103 of div. C of Pub. L. 104–208 provided that: “The Attorney General is authorized to acquire and use, for the purpose of detection, interdiction, and reduction of illegal immigration into the United States, any Federal equipment (including fixed wing aircraft, helicopters, four-wheel drive vehicles, sedans, night vision goggles, night vision scopes, and sensor units) determined available for transfer by any other agency ofthe Federal Government upon request of the Attorney General.”
+Section 103 of div. C of Pub. L. 104–208 provided that: “The Attorney General is authorized to acquire and use, for the purpose of detection, interdiction, and reduction of illegal immigration into the United States, any Federal equipment (including fixed wing aircraft, helicopters, four-wheel drive vehicles, sedans, night vision goggles, night vision scopes, and sensor units) determined available for transfer by any other agency of the Federal Government upon request of the Attorney General.”
 
 #### Hiring and Training Standards
 
@@ -252,14 +252,6 @@ Pub. L. 99–570, title I, §1751(e), Oct. 27, 1986, 100 Stat. 3207–48, provid
 #### Emergency Plans for Regulation of Nationals of Enemy Countries
 
 Attorney General to develop national security emergency plans for regulation of immigration, regulation of nationals of enemy countries, and plans to implement laws for control of persons entering or leaving the United States, see section 1101(4) of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 5195 of Title 42, The Public Health and Welfare.
-
-#### Cross References
-
-Bond or undertaking as prerequisite to issuance of visas to aliens with certain physical disabilities or likely to become public charges, see section 1201 of this title.
-
-Definition of alien, Attorney General, Commissioner, consular officer, entry, immigration laws, and Service, see section 1101 of this title.
-
-Office of Commissioner of Immigration and Naturalization, see section 1552 of this title.
 
 <i><sup>1</sup></i><i> So in original. Two pars. (8) have been enacted.</i>
 

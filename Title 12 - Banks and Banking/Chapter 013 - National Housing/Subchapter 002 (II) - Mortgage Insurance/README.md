@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 1701s, 1701x, 1702, 1703, 1705, 1709–1a, 1715f, 1715z–1, 1715z–4a, 1715z–13a, 1721, 1731a, 1735f–2, 1735f–6, 1735f–8, 1735f–9, 1735f–10, 1735f–14, 1743, 1748b, 2803, 2810, 3702, 3751, 3752 of this title; title 38 sections 3707, 3728; title 42 sections 1437aaa–3, 1472, 1479, 3535, 5403, 12773, 12852, 12874.
+This subchapter is referred to in sections 1701s, 1701x, 1702, 1703, 1705, 1709–1a, 1715f, 1715z–1, 1715z–4a, 1715z–13a, 1715z–13b, 1721, 1731a, 1735f–2, 1735f–6, 1735f–8, 1735f–9, 1735f–10, 1735f–14, 1743, 1748b, 2803, 2810, 3702, 3751, 3752 of this title; title 38 sections 3707, 3728; title 42 sections 1437aaa–3, 1472, 1479, 3535, 5403, 12773, 12852, 12874.
 
 
 ---
@@ -64,11 +64,12 @@ This subchapter is referred to in sections 1701s, 1701x, 1702, 1703, 1705, 1709�
 - [&sect; 01715z&#8211;9 - Co-insurance of eligible mortgage, advance, or loan](%C2%A7%2001715z%E2%80%939%20-%20Co-insurance%20of%20eligible%20mortgage%2C%20advance%2C%20or%20loan.md)
 - [&sect; 01715z&#8211;10 - Graduated payment and indexed mortgages](%C2%A7%2001715z%E2%80%9310%20-%20Graduated%20payment%20and%20indexed%20mortgages.md)
 - [&sect; 01715z&#8211;11 - Sale to cooperatives of multifamily housing projects acquired by Secretary; acceptance of purchase money mortgage for sale or&#8230;](%C2%A7%2001715z%E2%80%9311%20-%20Sale%20to%20cooperatives%20of%20multifamily%20housing%20projects%20acquired%20by%20Secretary%3B%20acceptance%20of%20purchase%20money%20mortgage%20for%20sale%20or%E2%80%A6.md)
-- [&sect; 01715z&#8211;11a - Flexible authority](%C2%A7%2001715z%E2%80%9311a%20-%20Flexible%20authority.md)
+- [&sect; 01715z&#8211;11a - Disposition of HUD-owned properties](%C2%A7%2001715z%E2%80%9311a%20-%20Disposition%20of%20HUD-owned%20properties.md)
 - [&sect; 01715z&#8211;12 - Single-family mortgage insurance on Hawaiian home lands](%C2%A7%2001715z%E2%80%9312%20-%20Single-family%20mortgage%20insurance%20on%20Hawaiian%20home%20lands.md)
 - [&sect; 01715z&#8211;13 - Single family mortgage insurance on Indian reservations](%C2%A7%2001715z%E2%80%9313%20-%20Single%20family%20mortgage%20insurance%20on%20Indian%20reservations.md)
 - [&sect; 01715z&#8211;13a - Loan guarantees for Indian housing](%C2%A7%2001715z%E2%80%9313a%20-%20Loan%20guarantees%20for%20Indian%20housing.md)
-- [&sect; 01715z&#8211;14 - Reinsurance contracts](%C2%A7%2001715z%E2%80%9314%20-%20Reinsurance%20contracts.md)
+- [&sect; 01715z&#8211;13b - Loan guarantees for Native Hawaiian housing](%C2%A7%2001715z%E2%80%9313b%20-%20Loan%20guarantees%20for%20Native%20Hawaiian%20housing.md)
+- [&sect; 01715z&#8211;14 - Risk-sharing demonstration](%C2%A7%2001715z%E2%80%9314%20-%20Risk-sharing%20demonstration.md)
 - [&sect; 01715z&#8211;15 - Limitation on prepayment of mortgages on multifamily rental housing](%C2%A7%2001715z%E2%80%9315%20-%20Limitation%20on%20prepayment%20of%20mortgages%20on%20multifamily%20rental%20housing.md)
 - [&sect; 01715z&#8211;16 - Adjustable rate single family mortgages](%C2%A7%2001715z%E2%80%9316%20-%20Adjustable%20rate%20single%20family%20mortgages.md)
 - [&sect; 01715z&#8211;17 - Shared appreciation mortgages for single family housing](%C2%A7%2001715z%E2%80%9317%20-%20Shared%20appreciation%20mortgages%20for%20single%20family%20housing.md)
@@ -76,3 +77,5 @@ This subchapter is referred to in sections 1701s, 1701x, 1702, 1703, 1705, 1709�
 - [&sect; 01715z&#8211;19 - Equity skimming penalty](%C2%A7%2001715z%E2%80%9319%20-%20Equity%20skimming%20penalty.md)
 - [&sect; 01715z&#8211;20 - Insurance of home equity conversion mortgages for elderly homeowners](%C2%A7%2001715z%E2%80%9320%20-%20Insurance%20of%20home%20equity%20conversion%20mortgages%20for%20elderly%20homeowners.md)
 - [&sect; 01715z&#8211;21 - Delegation of insuring authority to direct endorsement mortgagees](%C2%A7%2001715z%E2%80%9321%20-%20Delegation%20of%20insuring%20authority%20to%20direct%20endorsement%20mortgagees.md)
+- [&sect; 01715z&#8211;22 - Multifamily mortgage credit programs](%C2%A7%2001715z%E2%80%9322%20-%20Multifamily%20mortgage%20credit%20programs.md)
+- [&sect; 01715z&#8211;22a - Definitions](%C2%A7%2001715z%E2%80%9322a%20-%20Definitions.md)

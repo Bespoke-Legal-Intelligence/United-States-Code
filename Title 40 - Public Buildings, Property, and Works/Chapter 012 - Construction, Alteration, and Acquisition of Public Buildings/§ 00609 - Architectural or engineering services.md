@@ -22,7 +22,3 @@ The civil service laws, referred to in subsec. (a), are set forth in Title 5, Go
 
 In subsec. (a), “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949, as amended” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
-#### Cross References
-
-Design and construction of public buildings to accommodate the physically handicapped, see section 4151 et seq. of Title 42, The Public Health and Welfare.
-

@@ -12,7 +12,7 @@ No benefit shall be paid under this subchapter—
 
 &emsp;(5) to any individual employed in a capacity other than a civilian capacity.
 
-(Pub. L. 90–351, title I, §1202, as added Pub. L. 98–473, title II, §609F, Oct. 12, 1984, 98 Stat. 2099; amended Pub. L. 101–647, title XIII, §1301(b), Nov. 29, 1990, 104 Stat. 4834.)
+(Pub. L. 90–351, title I, §1202, as added Pub. L. 98–473, title II, §609F, Oct. 12, 1984, 98 Stat. 2099;amended Pub. L. 101–647, title XIII, §1301(b), Nov. 29, 1990, 104 Stat. 4834.)
 
 #### Prior Provisions
 

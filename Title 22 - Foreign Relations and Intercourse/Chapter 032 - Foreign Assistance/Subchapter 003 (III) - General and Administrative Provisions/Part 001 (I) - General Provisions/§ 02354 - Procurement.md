@@ -66,7 +66,7 @@ References to part I of subchapter I of this chapter are deemed to include a ref
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–391 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Funds made available under this chapter may be used for procurement outside the United States only if the President determines that such procurement will not result in adverse effects upon the economy of theUnited States or the industrial mobilization base, with special reference to any areas of labor surplus or to the net position of the United States in its balance of payments with the rest of the world, which outweigh the economic or other advantages to the United States of less costly procurement outside the United States, and only if the price of any commodity procured in bulk is lower than the market price prevailing in the United States at the time of procurement, adjusted for differences in the cost of transportation to destination, quality, and terms of payment.”
+1992—Subsec. (a). Pub. L. 102–391 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Funds made available under this chapter may be used for procurement outside the United States only if the President determines that such procurement will not result in adverse effects upon the economy of the United States or the industrial mobilization base, with special reference to any areas of labor surplus or to the net position of the United States in its balance of payments with the rest of the world, which outweigh theeconomic or other advantages to the United States of less costly procurement outside the United States, and only if the price of any commodity procured in bulk is lower than the market price prevailing in the United States at the time of procurement, adjusted for differences in the cost of transportation to destination, quality, and terms of payment.”
 
 1985—Subsec. (g). Pub. L. 99–83 designated existing provisions as par. (1) and added par. (2).
 
@@ -90,5 +90,5 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2151f, 2293 of this title.
+This section is referred to in sections 2151f, 2152b, 2293 of this title.
 

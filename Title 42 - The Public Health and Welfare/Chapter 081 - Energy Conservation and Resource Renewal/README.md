@@ -43,7 +43,7 @@
 | (e) | Availability of incentive funding. |
 | [6834\.](Subchapter%20002%20%28II%29%20-%20Energy%20Conservation%20Standards%20for%20New%20Buildings/%C2%A7%2006834%20-%20Federal%20building%20energy%20efficiency%20standards.md) | Federal building energy efficiency standards. |
 | (a) | In general. |
-| (b) | Report on comparative standards. |
+| (b) | Omitted. |
 | (c) | Periodic review. |
 | (d) | Interim standards. |
 | [6835\.](Subchapter%20002%20%28II%29%20-%20Energy%20Conservation%20Standards%20for%20New%20Buildings/%C2%A7%2006835%20-%20Federal%20compliance.md) | Federal compliance. |
@@ -52,7 +52,7 @@
 | [6836\.](Subchapter%20002%20%28II%29%20-%20Energy%20Conservation%20Standards%20for%20New%20Buildings/%C2%A7%2006836%20-%20Support%20for%20voluntary%20building%20energy%20codes.md) | Support for voluntary building energy codes. |
 | (a) | In general. |
 | (b) | Review. |
-| [6837\.](Subchapter%20002%20%28II%29%20-%20Energy%20Conservation%20Standards%20for%20New%20Buildings/%C2%A7%2006837%20-%20Reports.md) | Reports. |
+| [6837\.](Subchapter%20002%20%28II%29%20-%20Energy%20Conservation%20Standards%20for%20New%20Buildings/%C2%A7%2006837%20-%20Omitted.md) | Omitted. |
 | 6838 to 6840. Repealed. |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

@@ -20,9 +20,9 @@
 
 (e) The Archivist may approve and effect the disposal of records that are in his legal custody, provided that records that had been in the custody of another existing agency may not be disposed of without the written consent of the head of the agency.
 
-(f) The Archivist shall make an annual report to the Congress concerning the disposal ofrecords under this chapter, including general descriptions of the types of records disposed of and such other information as he considers appropriate to keep the Congress fully informed regarding the disposal of records under this chapter.
+(f) The Archivist shall make an annual report to the Congress concerning the disposal of records under this chapter, including general descriptions of the types of records disposed of and such other information as he considers appropriate to keep the Congress fully informed regarding the disposal of records under this chapter.
 
-(Added Pub. L. 91–287, §1, June 23, 1970, 84 Stat. 320; amended Pub. L. 95–440, §1, Oct. 10, 1978, 92 Stat. 1063; Pub. L. 98–497, title I, §107(b)(24), (25)(B), title II, §204, Oct. 19, 1984, 98 Stat. 2290, 2294; Pub. L. 104–186, title II, §223(10), Aug. 20, 1996, 110 Stat. 1752.)
+(Added Pub. L. 91–287, §1, June 23, 1970, 84 Stat. 320; amended Pub. L. 95–440, §1, Oct. 10, 1978, 92 Stat. 1063; Pub. L. 98–497, title I, §107(b)(24), (25)(B), title II, §204, Oct. 19, 1984, 98 Stat. 2290,2294; Pub. L. 104–186, title II, §223(10), Aug. 20, 1996, 110 Stat. 1752.)
 
 #### Amendments
 
@@ -47,6 +47,10 @@ Committee on House Oversight of House of Representatives changed to Committee on
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L. 98–497, set out as a note under section 2102 of this title.
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of reporting provisions in subsec. (f) of this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 7th item on page 180 of House Document No. 103–7.
 
 #### Section Referred to in Other Sections
 

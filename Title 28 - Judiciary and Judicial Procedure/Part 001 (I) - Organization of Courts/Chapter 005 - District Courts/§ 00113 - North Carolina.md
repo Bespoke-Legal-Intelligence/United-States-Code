@@ -4,7 +4,7 @@ North Carolina is divided into three judicial districts to be known as the Easte
 
 ### Eastern District
 
-(a) The Eastern District comprises the counties of Beaufort, Bertie, Bladen, Brunswick, Camden, Carteret, Chowan, Columbus, Craven, Cumberland, Currituck, Dare, Duplin, Edgecombe, Franklin, Gates, Granville, Greene, Halifax, Harnett, Hertford, Hyde, Johnston, Jones, Lenoir, Martin, Nash, New Hanover, Northampton, Onslow, Pamlico, Pasquotank, Pender, Perquimans, Pitt, Robeson, Sampson, Tyrrell, Vance, Wake, Warren, Washington, Wayne, and Wilson and that portion of Durham County encompassing the Federal Correctional Institution, Butner, North Carolina.
+(a) The Eastern District comprises the counties of Beaufort, Bertie, Bladen, Brunswick,Camden, Carteret, Chowan, Columbus, Craven, Cumberland, Currituck, Dare, Duplin, Edgecombe, Franklin, Gates, Granville, Greene, Halifax, Harnett, Hertford, Hyde, Johnston, Jones, Lenoir, Martin, Nash, New Hanover, Northampton, Onslow, Pamlico, Pasquotank, Pender, Perquimans, Pitt, Robeson, Sampson, Tyrrell, Vance, Wake, Warren, Washington, Wayne, and Wilson and that portion of Durham County encompassing the Federal Correctional Institution, Butner, North Carolina.
 
 &emsp;&emsp;Court for the Eastern District shall be held at Elizabeth City, Fayetteville, Greenville, New Bern, Raleigh, Wilmington, and Wilson.
 
@@ -42,15 +42,15 @@ Changes in arrangement and phraseology were made.
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–272, which directed the amendment of subsec. (a) by striking out “Clinton,” and “Washington,” and inserting “Greenville,” after “Fayetteville,”, was executed to the second sentence to reflect the probable intent of Congress.
+<b>1992</b>—Subsec. (a). Pub. L. 102–272, which directed the amendment of subsec. (a) by striking out “Clinton,” and “Washington,” and inserting “Greenville,” after “Fayetteville,”, was executed to the second sentence to reflect the probable intent of Congress.
 
-1980—Subsec. (a). Pub. L. 96–462, §5(a), added that portion of Durham County encompassing the Federal Correctional Institution, Butner, North Carolina to the Eastern District.
+<b>1980</b>—Subsec. (a). Pub. L. 96–462, §5(a), added that portion of Durham County encompassing the Federal Correctional Institution, Butner, North Carolina to the Eastern District.
 
 Subsec. (b). Pub. L. 96–462, §5(b), struck out references to Alleghany, Ashe, Watauga, and Wilkes counties in the list of counties comprising the Middle District; inserted “(excluding that portion of Durham County encompassing the Federal Correctional Institution, Butner, North Carolina)” in first sentence as the probable intent of Congress; and struck out Rockingham, Salisbury, and Wilkesboro as places for holding court.
 
 Subsec. (c). Pub. L. 96–462, §5(c), added Alleghany, Ashe, Watauga, and Wilkes counties to the Western District.
 
-1965—Pub. L. 89–319 provided for holding court at Clinton.
+<b>1965</b>—Pub. L. 89–319 provided for holding court at Clinton.
 
 #### Effective Date of 1980 Amendment; Savings Provisions
 

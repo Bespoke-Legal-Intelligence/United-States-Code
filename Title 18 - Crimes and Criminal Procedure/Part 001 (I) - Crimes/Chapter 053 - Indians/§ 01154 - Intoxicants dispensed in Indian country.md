@@ -28,7 +28,7 @@ Minor changes were made in phraseology.
 
 #### 1949 Act
 
-Subsection (a) of this section \[section 27(a)\] substitutes “Department of the Army” for “War Department”, in subsection (b) of section 1154 of title 18, U.S.C., to conform to such redesignation by act July 26, 1947 (ch. 343, title 11, §205(a), 61 Stat. 501 (5 U.S.C., 1946 ed., §181–1)). Subsection (b) of this section \[section 27(b)\] adds subsection (c) to such section 1154 in orderto conform it and section 1156 more closely to the laws relating to intoxicating liquor in the Indian country as they have heretofore been construed.
+Subsection (a) of this section \[section 27(a)\] substitutes “Department of the Army” for “War Department”, in subsection (b) of section 1154 of title 18, U.S.C., to conform to such redesignation by act July 26, 1947 (ch. 343, title 11, §205(a), 61 Stat. 501 (5 U.S.C., 1946 ed., §181–1)). Subsection (b) of this section \[section 27(b)\] adds subsection (c) to such section 1154 in order to conform it and section 1156 more closely to the laws relating to intoxicating liquor in the Indian country as they have heretofore been construed.
 
 #### Amendments
 
@@ -41,18 +41,6 @@ Subsec. (c). Act May 24, 1949, §27(b), added subsec. (c).
 #### Transfer of Functions
 
 Functions of all other officers of Department of the Interior and functions of all agencies and employees of such Department, with two exceptions, transferred to Secretary of the Interior, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Cross References
-
-Application of Indian liquor laws, see section 1161 of this title.
-
-Indian country, general definition, see section 1151 of this title.
-
-Possession as prima facie evidence, see section 3488 of this title.
-
-Searches, seizures, and forfeitures; Indians as competent witnesses, see section 3113 of this title.
-
-Seizure and forfeiture of vehicles, see section 3669 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -48,7 +48,7 @@ Memorandum of President of the United States, Feb. 13, 1992, 57 F.R. 6663, provi
 
 Memorandum for the Secretary of State and the Secretary of Defense
 
-By virtue of the authority vested in me by the Constitution and laws of the United States of America, including section 301 of title 3 of the United States Code, I hereby delegate to the Secretary of Defense the functions vested in me by section 93(a) and section 94 of the Arms Export Control Act, as amended (the “Act”) \[22U.S.C. 2799b(a), 2799c\], and to the Secretary of State the functions vested in me by section 93(f) of the Act. Consistent with section 2 of the Act \[22 U.S.C. 2752\], transfers of defense articles under section 93(a) shall be subject to the policy direction of the Secretary of State, including the determination of whether such transfers shall occur.
+By virtue of the authority vested in me by the Constitution and laws of the United States of America, including section 301 of title 3 of the United States Code, I hereby delegate to the Secretary of Defense the functions vested in me by section 93(a) and section 94 of the Arms Export Control Act, as amended (the “Act”) \[22 U.S.C. 2799b(a), 2799c\], and to the Secretary of State the functions vested in me by section 93(f) of the Act. Consistent with section 2 of the Act \[22 U.S.C. 2752\], transfers of defense articles under section 93(a) shall be subject to the policy direction of the Secretary of State, including the determination of whether such transfers shall occur.
 
 The Secretary of State is authorized and directed to publish this memorandum in the Federal Register.
 

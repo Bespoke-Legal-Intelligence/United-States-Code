@@ -28,7 +28,3 @@ The words “either in law or equity” are omitted as surplusage.
 
 1972—Pub. L. 92–425 substituted “subchapter” for “chapter”.
 
-#### Cross References
-
-Enforcement of legal obligations to provide child support and make alimony payments, see section 659 of Title 42, The Public Health and Welfare.
-

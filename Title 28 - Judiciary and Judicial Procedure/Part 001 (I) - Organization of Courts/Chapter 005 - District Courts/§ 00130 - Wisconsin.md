@@ -32,5 +32,9 @@ Changes in arrangement and phraseology were made.
 
 #### Amendments
 
-1962—Subsec. (a). Pub. L. 87–573 inserted reference to Menominee county.
+<b>1962</b>—Subsec. (a). Pub. L. 87–573 inserted reference to Menominee county.
+
+#### Designation of Judge to Hold Court, Eastern District
+
+Pub. L. 106–553, §1(a)(2) \[title III, §305(c)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–85, provided that: “The chief judge of the eastern district of Wisconsin shall designate 1 judge who shall hold court for such district in Green Bay, Wisconsin.”
 

@@ -48,7 +48,7 @@ The protections of this section shall not apply to any employee who—
 
 #### (e) “Federal banking agency” defined
 
-For purposes of subsections (a) and (c) of this section, the term “Federal banking agency” means the Corporation, the Board of Governors of the Federal Reserve System, the Federal Housing Finance Board, the Comptroller of the Currency, and the Director of the Office of Thrift Supervision.
+For purposes of subsections (a) and (c) of this section, the term “Federal banking agency”means the Corporation, the Board of Governors of the Federal Reserve System, the Federal Housing Finance Board, the Comptroller of the Currency, and the Director of the Office of Thrift Supervision.
 
 #### (f) Burdens of proof
 

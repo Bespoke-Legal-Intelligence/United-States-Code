@@ -12,7 +12,7 @@ For purposes of this subtitle—
 
 #### (3) Country
 
-&emsp;The term “country” means a foreign country, a political subdivision, dependent territory, or possession of a foreign country, and, except for the purpose of antidumping proceedings, may include an association of 2 ormore foreign countries, political subdivisions, dependent territories, or possessions of countries into a customs union outside the United States.
+&emsp;The term “country” means a foreign country, a political subdivision, dependent territory, or possession of a foreign country, and, except for the purpose of antidumping proceedings, may include an association of 2 or more foreign countries, political subdivisions, dependent territories, or possessions of countries into a customs union outside the United States.
 
 #### (4) Industry
 
@@ -22,7 +22,7 @@ For purposes of this subtitle—
 
 #### (B) Related parties
 
-&emsp;&emsp;(i) If a producer of a domestic like product and an exporter or importer of the subject merchandise are related parties, or if a producer of the domestic like product is also an importer of the subject merchandise, the producer may, in appropriate circumstances, be excluded from the industry.
+&emsp;&emsp;(i) If a producer of a domestic like product and an exporter or importer of the subjectmerchandise are related parties, or if a producer of the domestic like product is also an importer of the subject merchandise, the producer may, in appropriate circumstances, be excluded from the industry.
 
 &emsp;&emsp;(ii) For purposes of clause (i), a producer and an exporter or importer shall be considered to be related parties, if—
 
@@ -152,7 +152,7 @@ For purposes of this subtitle—
 
 #### (D) Domestic subsidy
 
-&emsp;&emsp;In determining whether a subsidy (other than a subsidy described in subparagraph (B) or (C)) is a specific subsidy, in law or in fact, to an enterprise or industry within the jurisdiction of the authority providing the subsidy, the following guidelines shall apply:
+&emsp;&emsp;In determining whether a subsidy (other than a subsidy described in subparagraph (B) or (C)) is a specific subsidy, in law or in fact,to an enterprise or industry within the jurisdiction of the authority providing the subsidy, the following guidelines shall apply:
 
 &emsp;&emsp;&emsp;(i) Where the authority providing the subsidy, or the legislation pursuant to which the authority operates, expressly limits access to the subsidy to an enterprise or industry, the subsidy is specific as a matter of law.
 
@@ -210,11 +210,11 @@ For purposes of this subtitle—
 
 #### (I) Industrial research
 
-&emsp;&emsp;&emsp;&emsp;The term “industrial research” means planned search or critical investigation aimed at the discovery of new knowledge, with the objective that suchknowledge may be useful in developing new products, processes, or services, or in bringing about a significant improvement to existing products, processes, or services.
+&emsp;&emsp;&emsp;&emsp;The term “industrial research” means planned search or critical investigation aimed at the discovery of new knowledge, with the objective that such knowledge may be useful in developing new products, processes, or services, or in bringing about a significant improvement to existing products, processes, or services.
 
 #### (II) Precompetitive development activity
 
-&emsp;&emsp;&emsp;&emsp;The term “precompetitive development activity” means the translation of industrial research findings into a plan, blueprint, or design for new, modified, or improved products, processes, or services, whether intended for sale or use, including the creation of a first prototype that would not be capable of commercial use. The term also may include the conceptual formulation and design of products, processes, or services alternatives and initial demonstration or pilot projects, if these same projects cannot be converted or used for industrial application or commercial exploitation. The term does not include routine or periodic alterations to existing products, production lines, manufacturing processes, services, or other ongoing operations even if those alterations may represent improvements.
+&emsp;&emsp;&emsp;&emsp;The term “precompetitive development activity” means the translation of industrial research findings into a plan, blueprint, or design for new, modified, or improved products, processes, or services, whether intended for sale or use, including the creation of a first prototype that would not be capable of commercial use. The term also may include the conceptual formulation and design of products, processes, or services alternatives and initial demonstration or pilotprojects, if these same projects cannot be converted or used for industrial application or commercial exploitation. The term does not include routine or periodic alterations to existing products, production lines, manufacturing processes, services, or other ongoing operations even if those alterations may represent improvements.
 
 #### (iii) Calculation rules
 
@@ -420,7 +420,7 @@ For purposes of this subtitle—
 
 &emsp;&emsp;&emsp;&emsp;(VII) in any investigation under this subtitle which involves imports of both a raw agricultural product (within the meaning of paragraph (4)(E)(iv)) and any product processed from such raw agricultural product, the likelihood that there will be increased imports, by reason of product shifting, if there is an affirmative determination by the Commission under section 1671d(b)(1) or 1673d(b)(1) of this title with respect to either the raw agricultural product or the processed agricultural product (but not both),
 
-&emsp;&emsp;&emsp;&emsp;(VIII) the actual and potential negative effects on the existing development and production efforts of the domestic industry, including efforts to develop a derivative or more advanced version of the domestic like product, and
+&emsp;&emsp;&emsp;&emsp;(VIII) the actual and potential negative effects on the existing development and production efforts of the domesticindustry, including efforts to develop a derivative or more advanced version of the domestic like product, and
 
 &emsp;&emsp;&emsp;&emsp;(IX) any other demonstrable adverse trends that indicate the probability that there is likely to be material injury by reason of imports (or sale for importation) of the subject merchandise (whether or not it is actually being imported at the time).
 
@@ -470,11 +470,11 @@ For purposes of this subtitle—
 
 #### (iii) Records in final investigations
 
-&emsp;&emsp;&emsp;In each final determination in which it cumulatively assesses the volume and effect of imports under clause (i), the Commission shall make its determinationsbased on the record compiled in the first investigation in which it makes a final determination, except that when the administering authority issues its final determination in a subsequently completed investigation, the Commission shall permit the parties in the subsequent investigation to submit comments concerning the significance of the administering authority's final determination, and shall include such comments and the administering authority's final determination in the record for the subsequent investigation.
+&emsp;&emsp;&emsp;In each final determination in which it cumulatively assesses the volume and effect of imports under clause (i), the Commission shall make its determinations based on the record compiled in the first investigation in which it makes a final determination, except that when the administering authority issues its final determination in a subsequently completed investigation, the Commission shall permit the parties in the subsequent investigation to submit comments concerning the significance of the administering authority's final determination, and shall include such comments and the administering authority's final determination in the record for the subsequent investigation.
 
 #### (iv) Regional industry determinations
 
-&emsp;&emsp;&emsp;In an investigation which involves a regional industry, and in which the Commission decides that the volume and effect of imports should be cumulatively assessed under this subparagraph, such assessment shall be based upon the volume and effect of imports into the region or regions determined by the Commission. The provisions of clause (iii) shall apply to such investigations.
+&emsp;&emsp;&emsp;In an investigation which involves a regional industry, and in which the Commission decides that the volume and effect of imports should be cumulatively assessed under this subparagraph, such assessment shall be based upon the volume and effectof imports into the region or regions determined by the Commission. The provisions of clause (iii) shall apply to such investigations.
 
 #### (H) Cumulation for determining threat of material injury
 
@@ -628,7 +628,7 @@ For purposes of this subtitle—
 
 #### (E) Collection of information
 
-&emsp;&emsp;Upon request by the administering authority, the Commissioner of Customs shall provide the administering authority a copy of all public and proprietary information submitted to, or obtained by, the Commissioner of Customs that the administering authority considers relevant to proceedings involving merchandise from nonmarket economy countries. The administering authority shall protect proprietary information obtained under this section from public disclosure in accordance with section 1677f of this title.
+&emsp;&emsp;Upon request by the administering authority, the Commissioner of Customs shall provide the administering authority a copy of all public and proprietary information submitted to, or obtained by, the Commissioner of Customs that the administering authority considers relevant to proceedings involving merchandise from nonmarket economy countries. The administering authority shall protect proprietary information obtainedunder this section from public disclosure in accordance with section 1677f of this title.
 
 #### (19) Equivalency of leases to sales
 
@@ -702,7 +702,7 @@ For purposes of this subtitle—
 
 #### (B) Negligibility for certain countries in countervailing duty investigations
 
-&emsp;&emsp;In the case of an investigation under section 1671 of this title, subparagraph (A) shall be applied to imports of subject merchandise from developing countries by substituting “4 percent” for “3 percent” in subparagraph (A)(i) and by substituting “9 percent” for “7 percent” in subparagraph (A)(ii).
+&emsp;&emsp;In the case of an investigation under section 1671 of this title, subparagraph (A) shall be applied to imports of subject merchandise from developing countries by substituting “4 percent” for “3 percent” in subparagraph\(A)(i) and by substituting “9 percent” for “7 percent” in subparagraph (A)(ii).
 
 #### (C) Computation of import volumes
 

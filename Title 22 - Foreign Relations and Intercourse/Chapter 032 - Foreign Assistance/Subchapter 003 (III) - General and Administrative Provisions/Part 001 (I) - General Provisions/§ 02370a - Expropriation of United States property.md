@@ -104,7 +104,7 @@ Memorandum of President of the United States, Jan. 4, 1995, 60 F.R. 3335, provid
 
 Memorandum for the Secretary of the Treasury
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, I hereby delegate to the Secretary of the Treasury the functions under section 527(b) of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995 (Public Law 103–236) \[22 U.S.C. 2370a(b)\].
+By the authority vested in me as President by the Constitution and the laws of the United States ofAmerica, including section 301 of title 3, United States Code, I hereby delegate to the Secretary of the Treasury the functions under section 527(b) of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995 (Public Law 103–236) \[22 U.S.C. 2370a(b)\].
 
 Any reference in this memorandum to any Act, order, determination, or delegation of authority shall be deemed to be a reference to such Act, order, determination, or delegation of authority as amended.
 

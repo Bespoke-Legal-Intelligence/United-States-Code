@@ -26,7 +26,7 @@
 
 &emsp;(ii) the Secretary affirms in writing that such person is actively and in good faith negotiating with the Secretary for a contract under this section.
 
-(B) The Commission, as it deems necessary or appropriate, may require as a precondition to the issuance or renewal of a license under section 2133 or 2134 of this title that the applicant for such license shall have entered into an agreement with the Secretary for the disposal of high-level radioactive waste and spent nuclear fuel that may result from the use of such license.
+(B) The Commission, as it deems necessary or appropriate, may require as a precondition to the issuance or renewal of a license under section 2133 or 2134 of this title that the applicant for such license shall have entered into an agreement with the Secretary for the disposal ofhigh-level radioactive waste and spent nuclear fuel that may result from the use of such license.
 
 (2) Except as provided in paragraph (1), no spent nuclear fuel or high-level radioactive waste generated or owned by any person (other than a department of the United States referred to in section 101 or 102 of title 5) may be disposed of by the Secretary in any repository constructed under this chapter unless the generator or owner of such spent fuel or waste has entered into a contract with the Secretary under this section by not later than—
 
@@ -74,7 +74,7 @@ The Secretary may make expenditures from the Waste Fund, subject to subsection (
 
 (2) The Secretary shall submit the budget of the Waste Fund to the Office of Management and Budget triennially along with the budget of the Department of Energy submitted at such time in accordance with chapter 11 of title 31. The budget of the Waste Fund shall consist of the estimates made by the Secretary of expenditures from the Waste Fund and other relevant financial matters for the succeeding 3 fiscal years, and shall be included in the Budget of the United States Government. The Secretary may make expenditures from the Waste Fund, subject to appropriations which shall remain available until expended. Appropriations shall be subject to triennial authorization.
 
-(3) If the Secretary determines that the Waste Fund contains at any time amounts in excess ofcurrent needs, the Secretary may request the Secretary of the Treasury to invest such amounts, or any portion of such amounts as the Secretary determines to be appropriate, in obligations of the United States—
+(3) If the Secretary determines that the Waste Fund contains at any time amounts in excess of current needs, the Secretary may request the Secretary of the Treasury to invest such amounts, or any portion of such amounts as the Secretary determines to be appropriate, in obligations of the United States—
 
 &emsp;(A) having maturities determined by the Secretary of the Treasury to be appropriate to the needs of the Waste Fund; and
 
@@ -95,6 +95,10 @@ Subsection (c) of this section, referred to in subsec. (a)(3), was in the origin
 This subchapter, referred to in subsecs. (a)(5)(B), (d), and (e)(5), was in the original “this subtitle”, and was translated as this subchapter to reflect the probable intent of Congress because title III of Pub. L. 97–425, which enacted this subchapter, does not contain subtitles.
 
 Such Act, referred to in subsec. (e)(5), probably means chapter 31 of Title 31, Money and Finance.
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (e)(1) of this section relating to annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 4th item on page 143 of House Document No. 103–7.
 
 #### Section Referred to in Other Sections
 

@@ -20,7 +20,7 @@ An individual may enroll under this section only in such manner and form as may 
 
 #### (c) Period of enrollment; scope of coverage
 
-The provisions of section 1395p of this title (except subsection (f) thereof), section 1395q ofthis title, subsection (b) of section 1395r of this title, and subsections (f) and (h) of section 1395s of this title shall apply to persons authorized to enroll under this section except that—
+The provisions of section 1395p of this title (except subsection (f) thereof), section 1395q of this title, subsection (b) of section 1395r of this title, and subsections (f) and (h) of section 1395s of this title shall apply to persons authorized to enroll under this section except that—
 
 &emsp;(1) individuals who meet the conditions of subsection (a)(1), (3), and (4) of this section on or before the last day of the seventh month after October 1972 may enroll under this part and (if not already so enrolled) may also enroll under part B of this subchapter during an initial general enrollment period which shall begin on the first day of the second month which begins after October 30, 1972, and shall end on the last day of the tenth month after October 1972;
 
@@ -40,7 +40,7 @@ The provisions of section 1395p of this title (except subsection (f) thereof), s
 
 &emsp;(5) termination of coverage for supplementary medical insurance shall result in simultaneous termination of hospital insurance benefits for uninsured individuals who are not otherwise entitled to benefits under this chapter;
 
-&emsp;(6) any percent increase effected under section 1395r(b) of this title in an individual's monthly premium may not exceed 10 percent and shall only apply to premiums paid during a period equal to twice the number of months in the full 12-month periods described in that section;
+&emsp;(6) any percent increase effected under section 1395r(b) of this title in an individual's monthly premium may not exceed 10 percent and shall only apply to premiums paid during a period equal to twice the number of months in the full 12-month periods described in that section and shall be subject to reduction in accordance with subsection (d)(6) of this section;
 
 &emsp;(7) an individual who meets the conditions of subsection (a) of this section may enroll under this part during a special enrollment period that includes any month during any part of which the individual is enrolled under section 1395mm of this title with an eligible organization and ending with the last day of the 8th consecutive month in which the individual is at no time so enrolled;
 
@@ -96,7 +96,7 @@ The provisions of section 1395p of this title (except subsection (f) thereof), s
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-(B) An individual described in this subparagraph with respect to a month is an individualwho establishes to the satisfaction of the Secretary that, as of the last day of the previous month, the individual—
+(B) An individual described in this subparagraph with respect to a month is an individual who establishes to the satisfaction of the Secretary that, as of the last day of the previous month, the individual—
 
 &emsp;(i) had at least 30 quarters of coverage under subchapter II of this chapter;
 
@@ -110,7 +110,7 @@ The provisions of section 1395p of this title (except subsection (f) thereof), s
 
 &emsp;(i) the individual's premium under this section for the month is not (and will not be) paid for, in whole or in part, by a State (under subchapter XIX of this chapter or otherwise), a political subdivision of a State, or an agency or instrumentality of one or more States or political subdivisions thereof; and
 
-&emsp;(ii) in each of 84 months before such month, the individual was enrolled in this part under this section and the payment of the individual's premium under this section for the month was not paid for, in whole or in part, by a State (under subchapter XIX of this chapter or otherwise), a political subdivision of a State, or an agency or instrumentality of one or more States or political subdivisions thereof.
+&emsp;(ii) in each of 84 months before such month, the individual was enrolled in this part underthis section and the payment of the individual's premium under this section for the month was not paid for, in whole or in part, by a State (under subchapter XIX of this chapter or otherwise), a political subdivision of a State, or an agency or instrumentality of one or more States or political subdivisions thereof.
 
 (B) A person described in this subparagraph for a month is a person who establishes to the satisfaction of the Secretary that, as of the last day of the previous month—
 
@@ -130,6 +130,16 @@ The provisions of section 1395p of this title (except subsection (f) thereof), s
 
 &emsp;(iii) does not adjust cash retirement benefits based on eligibility for a reduction in premium under this paragraph.
 
+(6)(A) In the case where a State, a political subdivision of a State, or an agency or instrumentality of a State or political subdivision thereof determines to pay, for the life of each individual, the monthly premiums due under paragraph (1) on behalf of each of the individuals in a qualified State or local government retiree group who meets the conditions of subsection (a) of this section, the amount of any increase otherwise applicable under section 1395r(b) of this title (as applied and modified by subsection (c)(6) of this section) with respect to the monthly premium for benefits under this part for an individual who is a member of such group shall be reduced by the total amount of taxes paid under section 3101(b) of the Internal Revenue Code of 1986 by such individual and under section 3111(b) by the employers of such individual on behalf of such individual with respect to employment (as defined in section 3121(b) of such Code).
+
+(B) For purposes of this paragraph, the term “qualified State or local government retiree group” means all of the individuals who retire prior to a specified date that is before January 1, 2002, from employment in one or more occupations or other broad classes of employees of—
+
+&emsp;(i) the State;
+
+&emsp;(ii) a political subdivision of the State; or
+
+&emsp;(iii) an agency or instrumentality of the State or political subdivision of the State.
+
 #### (e) Contract or other arrangement for payment of monthly premiums
 
 Payment of the monthly premiums on behalf of any individual who meets the conditions of subsection (a) of this section may be made by any public or private agency or organization under a contract or other arrangement entered into between it and the Secretary if the Secretary determines that payment of such premiums under such contract or arrangement is administratively feasible.
@@ -146,13 +156,19 @@ Amounts paid to the Secretary for coverage under this section shall be deposited
 
 (B) For purposes of this subsection, section 1395v(d)(1) of this title shall be applied by substituting “section 1395i–2 of this title” for “section 1395r of this title” and “subsection (c)(6) (with reference to subsection (b) of section 1395r of this title)” for “subsection (b).”.<sup>2</sup>
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1818, as added Pub. L. 92–603, title II, §202, Oct. 30, 1972, 86 Stat. 1374; amended Pub. L. 98–21, title VI, §606(a)(3)(D), (b), Apr. 20, 1983, 97 Stat. 170, 171; Pub. L. 98–369, div. B, title III, §§2315(e), 2354(b)(3), (4), July 18, 1984, 98 Stat. 1080, 1100; Pub. L. 99–272, title IX, §9124(a), Apr. 7, 1986, 100 Stat. 168; Pub. L. 100–203, title IV, §4009(j)(9), Dec. 22, 1987, as added Pub. L. 100–360, title IV, §411(b)(8)(D), July 1, 1988, 102 Stat. 772; Pub. L. 100–360, title I, §103, July 1, 1988, 102 Stat. 687; Pub. L. 100–485, title VI, §608(d)(2), Oct. 13, 1988, 102 Stat. 2413; Pub. L. 101–239, title VI, §§6012(a)(1), 6013(a), Dec. 19, 1989, 103 Stat. 2161, 2163; Pub. L. 101–508, title IV, §4008(g)(1), (m)(3)(D), Nov. 5, 1990, 104 Stat. 1388–45, 1388–54; Pub. L. 103–66, title XIII, §13508(a), Aug. 10, 1993, 107 Stat. 579; Pub. L. 105–33, title IV, §4453(a), Aug. 5, 1997, 111 Stat. 425.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1818, as added Pub. L. 92–603, title II, §202, Oct. 30, 1972, 86 Stat.1374; amended Pub. L. 98–21, title VI, §606(a)(3)(D), (b), Apr. 20, 1983, 97 Stat. 170, 171; Pub. L. 98–369, div. B, title III, §§2315(e), 2354(b)(3), (4), July 18, 1984, 98 Stat. 1080, 1100; Pub. L. 99–272, title IX, §9124(a), Apr. 7, 1986, 100 Stat. 168; Pub. L. 100–203, title IV, §4009(j)(9), Dec. 22, 1987, as added Pub. L. 100–360, title IV, §411(b)(8)(D), July 1, 1988, 102 Stat. 772; Pub. L. 100–360, title I, §103, July 1, 1988, 102 Stat. 687; Pub. L. 100–485, title VI, §608(d)(2), Oct. 13, 1988, 102 Stat. 2413; Pub. L. 101–239, title VI, §§6012(a)(1), 6013(a), Dec. 19, 1989, 103 Stat. 2161, 2163; Pub. L. 101–508, title IV, §4008(g)(1), (m)(3)(D), Nov. 5, 1990, 104 Stat. 1388–45, 1388–54; Pub. L. 103–66, title XIII, §13508(a), Aug. 10, 1993, 107 Stat. 579; Pub. L. 105–33, title IV, §4453(a), Aug. 5, 1997, 111 Stat. 425; Pub. L. 106–554, §1(a)(6) \[title III, §331(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–502.)
 
 #### References in Text
 
 Part B of this subchapter, referred to in subsecs. (a)(2), (c)(1), and (g)(2)(A), is classified to section 1395j et seq. of this title.
 
+The Internal Revenue Code of 1986, referred to in subsec. (d)(6)(A), is classified generally to Title 26, Internal Revenue Code.
+
 #### Amendments
+
+2000—Subsec. (c)(6). Pub. L. 106–554, §1(a)(6) \[title III, §331(a)(1)\], inserted “and shall be subject to reduction in accordance with subsection (d)(6) of this section” before semicolon.
+
+Subsec. (d)(6). Pub. L. 106–554, §1(a)(6) \[title III, §331(a)(2)\], added par. (6).
 
 1997—Subsec. (d)(2). Pub. L. 105–33, §4453(a)(1), substituted “paragraphs (4) and (5)” for “paragraph (4)”.
 
@@ -193,6 +209,10 @@ Subsec. (d)(2). Pub. L. 98–369, §2354(b)(4), substituted “, if a multiple 
 1983—Subsec. (c). Pub. L. 98–21, §606(a)(3)(D), substituted “subsection (a) of section 1395r” for “subsection (c) of section 1395r”.
 
 Subsec. (d)(2). Pub. L. 98–21, §606(b), substituted “during the next to last calendar quarter of each year” for “during the last calendar quarter of each year, beginning in 1973,”, “the following calendar year” for “the 12-month period commencing July 1 of the next year”, and “for that following calendar year” for “for such next year”.
+
+#### Effective Date of 2000 Amendment
+
+Pub. L. 106–554, §1(a)(6) \[title III, §331(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–502, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to premiums for months beginning with January 1, 2002.”
 
 #### Effective Date of 1997 Amendment
 

@@ -8,13 +8,3 @@ The Secretary of State is authorized to issue, in his discretion and in accordan
 
 Section was formerly classified to section 101 of this title.
 
-#### Cross References
-
-Definition of the term—
-
-&emsp;&emsp;Foreign state, see section 1101(a)(14) of this title.
-
-&emsp;&emsp;National of the United States, see section 1101(a)(22) of this title.
-
-&emsp;&emsp;United States, see section 1101(a)(38) of this title.
-

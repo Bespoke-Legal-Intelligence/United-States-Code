@@ -14,7 +14,7 @@ Based on title 14, U.S.C., 1946 ed., §§35, 35a, 206 (May 26, 1906, ch. 2556, �
 
 Section 35 of title 14, U.S.C., 1946 ed., has been divided. The provisions of the first sentence of subsection (a) are placed in this section. The proviso of subsection (a) is covered in section 367(b) of this title. Subsection (b) is placed in section 365 of this title. Subsections (c) and (d) are placed in section 367(a) of this title, except that part (3) of subsection (c) is covered by section 366 of this title.
 
-Section 206 of title 14, U.S.C., 1946 ed., has been divided. That part dealing with special temporary enlistments is incorporated in this section. That part dealing with temporary appointments of warrant officers is placed in section 302 of this title.
+Section 206 of title 14, U.S.C., 1946 ed., has been divided. That part dealing with special temporary enlistments is incorporated in this section. That part dealingwith temporary appointments of warrant officers is placed in section 302 of this title.
 
 Certain additional details concerning the two types of enlistments are added; these details were previously covered in Coast Guard Regulations.
 
@@ -51,24 +51,4 @@ The words “notwithstanding any other provision of law” and “or reenlisted�
 1956—Act Aug. 10, 1956, repealed and reenacted section by general amendment thereby designating existing provisions as subsec. (a) and adding subsec. (b), relating to grades or ratings of enlistees.
 
 1950—Act Aug. 3, 1950, struck out references to two types of enlistments that were deemed necessary prior to the enactment of the Career Compensation Act.
-
-#### Cross References
-
-Deserter, subsequent enlistment, see section 508 of this title.
-
-Detention beyond term of enlistment, see section 367 of this title.
-
-Extension of enlistment, see section 365 of this title.
-
-Fraudulent enlistment as offense, see section 883 of Title 10, Armed Forces.
-
-Inclusion of certain conditions in enlistment contract, see section 369 of this title.
-
-Oath of enlistment, see section 502 of Title 10, Armed Forces.
-
-Person transferred to reserve, see sections 12104, 12208 of Title 10.
-
-Retention beyond term of enlistment in case of disability, see section 366 of this title.
-
-Uniform Code of Military Justice, provisions explained to enlisted personnel, see section 937 of Title 10, Armed Forces.
 

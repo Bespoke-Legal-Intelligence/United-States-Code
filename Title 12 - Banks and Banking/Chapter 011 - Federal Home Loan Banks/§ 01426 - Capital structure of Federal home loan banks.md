@@ -4,7 +4,7 @@
 
 #### (1) Capital standards
 
-&emsp;Not later than 1 year after November 12, 1999, the Finance Board shall issue regulations prescribing uniform capital standards applicable to each Federal home loan bank, which shall require each such bank to meet—
+&emsp;Not later than 18 months after November 12, 1999, the Finance Board shall issue regulations prescribing uniform capital standards applicable to each Federal home loan bank, which shall require each such bank to meet—
 
 &emsp;&emsp;(A) the leverage requirement specified in paragraph (2); and
 
@@ -18,7 +18,7 @@
 
 #### (B) Treatment of stock and retained earnings
 
-&emsp;&emsp;In determining compliance with the minimum leverage ratio established under subparagraph (A), the paid-in value of the outstanding Class B stock and the amount of retained earnings shall be multiplied by 1.5, and such higher amounts shall be deemed to be capital for purposes of meeting the 5 percent minimum leverage ratio, except that aFederal home loan bank's total capital (determined without taking into account any such multiplier) shall not be less than 4 percent of the total assets of the bank.
+&emsp;&emsp;In determining compliance with the minimum leverage ratio established under subparagraph (A), the paid-in value of the outstanding Class B stock and the amount of retained earnings shall be multiplied by 1.5, and such higher amounts shall be deemed to be capital for purposes of meeting the 5 percent minimum leverage ratio, except that a Federal home loan bank's total capital (determined without taking into account any such multiplier) shall not be less than 4 percent of the total assets of the bank.
 
 #### (3) Risk-based capital standards
 
@@ -98,7 +98,7 @@ The capital structure plan of each Federal home loan bank shall contain provisio
 
 #### (A) In general
 
-&emsp;&emsp;Each capital structure plan of a Federal home loan bank shall require each member of the bank to maintain a minimum investment in the stock of the bank, the amount of which shall be determined in a manner to be prescribed by the board of directors of each bank and to be included as part of the plan.
+&emsp;&emsp;Each capital structure plan of a Federal home loan bank shall require each memberof the bank to maintain a minimum investment in the stock of the bank, the amount of which shall be determined in a manner to be prescribed by the board of directors of each bank and to be included as part of the plan.
 
 #### (B) Investment alternatives
 
@@ -168,7 +168,7 @@ The capital structure plan of each Federal home loan bank shall contain provisio
 
 &emsp;&emsp;(A) an independent certified public accountant, to ensure, to the extent possible, that implementation of the plan would not result in any write-down of the redeemable bank stock investment of its members; and
 
-&emsp;&emsp;(B) at least one major credit rating agency, to determine, to the extent possible, whether implementation of the plan would have any material effect on the credit ratings of the bank.
+&emsp;&emsp;(B) at least one major credit rating agency, to determine, to the extent possible,whether implementation of the plan would have any material effect on the credit ratings of the bank.
 
 #### (d) Termination of membership
 
@@ -250,13 +250,15 @@ If the Finance Board or the board of directors of a Federal home loan bank deter
 
 &emsp;A Federal home loan bank may not make any distribution of its retained earnings unless, following such distribution, the bank would continue to meet all applicable capital requirements.
 
-(July 22, 1932, ch. 522, §6, 47 Stat. 727; June 27, 1934, ch. 847, §509, 48 Stat. 1264; May 28, 1935, ch. 150, §2, 49 Stat. 293; June 27, 1950, ch. 369, §2, 64 Stat. 257; Aug. 11, 1955, ch. 783, title I, §109(a)(1), 69 Stat. 640; Pub. L. 87–210, §§1, 2, Sept. 8, 1961, 75 Stat. 482, 483; Pub. L. 96–153, title III, §327, Dec. 21, 1979, 93 Stat. 1121; Pub. L. 97–320, title III, §§353, 355, Oct. 15, 1982, 96 Stat. 1507, 1508; Pub. L. 97–457, §16, Jan. 12, 1983, 96 Stat. 2509; Pub. L. 101–73, title VII, §§701(b)(1), (3)(A), 706, 710(b)(2), (3), 715, Aug. 9, 1989, 103 Stat. 412, 416, 418, 421; Pub. L. 106–102, title VI, §608, Nov. 12, 1999, 113 Stat. 1456.)
+(July 22, 1932, ch. 522, §6, 47 Stat. 727; June 27, 1934, ch. 847, §509, 48 Stat. 1264; May 28, 1935, ch. 150, §2, 49 Stat. 293; June 27, 1950, ch. 369, §2, 64 Stat. 257; Aug. 11, 1955, ch. 783, title I, §109(a)(1), 69 Stat. 640; Pub. L. 87–210, §§1, 2, Sept. 8, 1961, 75 Stat. 482, 483; Pub. L. 96–153, title III, §327, Dec. 21, 1979, 93 Stat. 1121; Pub. L. 97–320, title III, §§353, 355, Oct. 15, 1982, 96 Stat. 1507, 1508; Pub. L. 97–457, §16, Jan. 12, 1983, 96 Stat. 2509; Pub. L. 101–73, title VII, §§701(b)(1), (3)(A), 706, 710(b)(2), (3), 715, Aug. 9, 1989, 103 Stat. 412, 416, 418, 421; Pub. L. 106–102, title VI, §608, Nov. 12, 1999, 113 Stat. 1456; Pub. L. 106–569, title XII, §1224, Dec. 27, 2000, 114 Stat. 3036.)
 
 #### References in Text
 
 The Federal Housing Enterprises Financial Safety and Soundness Act of 1992, referred to in subsec. (a)(3)(B), is title XIII of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3941, which is classified principally to chapter 46 (§4501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note under section 4501 of this title and Tables.
 
 #### Amendments
+
+2000—Subsec. (a)(1). Pub. L. 106–569 substituted “18 months” for “1 year” in introductory provisions.
 
 1999—Pub. L. 106–102 amended section generally, substituting present provisions for provisions authorizing banks to issue capital stock and providing for minimum subscriptions, retirement of oversubscriptions, cancellation of oversubscriptions, aggregate unpaid loan principal, reports and information, payments for stock, transfer or hypothecation of stock, withdrawal or removal of members, surrender and cancellation of stock, prepayment penalties, disposal of stock, dividends, and acquisition of membership after expiration of period of withdrawal.
 

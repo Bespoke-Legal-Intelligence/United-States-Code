@@ -34,7 +34,7 @@ The Secretary shall request the National Academy of Sciences or the National Aca
 
 #### (e) Funding
 
-From funds appropriated to the Secretary for research related to individuals with disabilities the Secretary shall make available $600,000 for fiscal year 1994, and such sums as may be necessary for fiscal year 1995, to carry out this section. Amounts made available under this subsection shall remain available until expended.
+From funds appropriated to the Secretary for research related to individuals with disabilitiesthe Secretary shall make available $600,000 for fiscal year 1994, and such sums as may be necessary for fiscal year 1995, to carry out this section. Amounts made available under this subsection shall remain available until expended.
 
 (Pub. L. 103–227, title X, §1015, Mar. 31, 1994, 108 Stat. 266.)
 

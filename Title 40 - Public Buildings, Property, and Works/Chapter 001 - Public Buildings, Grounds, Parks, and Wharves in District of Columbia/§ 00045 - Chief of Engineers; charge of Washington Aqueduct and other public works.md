@@ -1,6 +1,6 @@
 ### §45. Chief of Engineers; charge of Washington Aqueduct and other public works
 
-The Chief of Engineers shall have the immediate superintendence of the Washington Aqueduct, together with all rights, appurtenances,and fixtures connected with the same, and belonging to the United States, and of all other public works and improvements in the District of Columbia in which the Government has an interest, and which are not otherwise specially provided for by law.
+The Chief of Engineers shall have the immediate superintendence of the Washington Aqueduct, together with all rights, appurtenances, and fixtures connected with the same, and belonging to the United States, and of all other public works and improvements in the District of Columbia in which the Government has an interest, and which are not otherwise specially provided for by law.
 
 (R.S. §1800.)
 
@@ -174,7 +174,7 @@ Obligation authority.—Upon expiration of the borrowing authority exercised und
 
 &emsp;“(4)
 
-Impact on improvement program.—Not later than 180 days after the date of enactment of this Act \[Aug. 6, 1996\], the Secretary, in consultation with other Federal agencies, shall transmit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that assesses the impact of the borrowing authority provided under this subsection on the near-term improvement projects in the Washington Aqueduct Improvement Program, work scheduled, and the financial liability to be incurred.
+Impact on improvement program.—Not later than 180 days after the date of enactment of this Act \[Aug. 6, 1996\], the Secretary, in consultation withother Federal agencies, shall transmit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that assesses the impact of the borrowing authority provided under this subsection on the near-term improvement projects in the Washington Aqueduct Improvement Program, work scheduled, and the financial liability to be incurred.
 
 “(f)
 

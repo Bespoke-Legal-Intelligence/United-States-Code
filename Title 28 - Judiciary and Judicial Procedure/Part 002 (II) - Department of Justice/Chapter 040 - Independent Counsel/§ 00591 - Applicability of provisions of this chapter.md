@@ -70,7 +70,7 @@ Requirements for recusal determination.—Before personally making any other det
 
 #### Amendments
 
-1994—Subsec. (b)(6) to (8). Pub. L. 103–270, §4(b), redesignated par. (8) as (6) and substituted “; and” for the period at end, added par. (7), and struck out former pars. (6) and (7) which read as follows:
+<b>1994</b>—Subsec. (b)(6) to (8). Pub. L. 103–270, §4(b), redesignated par. (8) as (6) and substituted “; and” for the period at end, added par. (7), and struck out former pars. (6) and (7) which read as follows:
 
 “(6) any individual who leaves any office or position described in any of paragraphs (1) through (5) of this subsection, during the incumbency of the President under whom such individual served in the office or position plus one year after such incumbency, but in no event longer than a period of three years after the individual leaves the office or position;
 
@@ -98,11 +98,11 @@ When recusal is required.—If information received under this chapter involves 
 
 Requirements for recusal determination.—The Attorney General shall, before personally making any other determination under this chapter with respect to information received under this chapter, determine under paragraph (1) whether to recuse himself or herself with respect to that information. A determination to recuse shall be in writing, shall identify the facts considered by the Attorney General, and shall set forth the reasons for the recusal. The Attorney General shall file this determination with any notification or application submitted to the division of the court under this chapter with respect to the information involved.”
 
-1987—Pub. L. 100–191 amended section generally, substituting subsecs. (a) to (e) relating to applicability of chapter for former subsecs. (a) to (c) relating to similar subject.
+<b>1987</b>—Pub. L. 100–191 amended section generally, substituting subsecs. (a) to (e) relating to applicability of chapter for former subsecs. (a) to (c) relating to similar subject.
 
-1984—Subsec. (a). Pub. L. 98–473 substituted “Class B or C misdemeanor or an infraction” for “petty offense”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–473 substituted “Class B or C misdemeanor or an infraction” for “petty offense”.
 
-1983—Subsec. (a). Pub. L. 97–409, §4(a)(1), substituted “information sufficient to constitute grounds to investigate” for “specific information” after “the Attorney General receives”.
+<b>1983</b>—Subsec. (a). Pub. L. 97–409, §4(a)(1), substituted “information sufficient to constitute grounds to investigate” for “specific information” after “the Attorney General receives”.
 
 Subsec. (b)(3). Pub. L. 97–409, §3, substituted “who is compensated at or above a rate equivalent to level II” for “and compensated at a rate not less than the annual rate of basic pay provided for level IV”.
 
@@ -166,7 +166,7 @@ In General.—Subject to subsection (b), the amendments made by this Act \[enact
 
 “(b)
 
-Pending Proceedings.—With respect to any proceeding under chapter 39 of title 28, United States Code (before the redesignation of such chapter as chapter 40 by section 144(g) of Public Law 99–554), or under chapter 40 of such title (after such redesignation), which is pending on the date of the enactment of this Act \[Dec. 15, 1987\], the following shall apply:
+Pending Proceedings.—With respect to any proceeding under chapter 39 of title 28, United States Code\(before the redesignation of such chapter as chapter 40 by section 144(g) of Public Law 99–554), or under chapter 40 of such title (after such redesignation), which is pending on the date of the enactment of this Act \[Dec. 15, 1987\], the following shall apply:
 
 &emsp;“(1) Except as provided in paragraphs (2) and (3), the provisions of chapter 40 of such title as in effect on the day before such date of enactment shall, in lieu of the amendments made by this Act, continue to apply on or after such date to such proceeding until such proceeding is terminated in accordance with such chapter.
 
@@ -207,6 +207,8 @@ Section 604 of Pub. L. 95–521 provided that: “Except as provided in this sec
 #### Permanent Appropriation for Expenses of Independent Counsels
 
 Pub. L. 100–202, §101(a) \[title II\], Dec. 22, 1987, 101 Stat. 1329, 1329–9, provided: “That a permanent indefinite appropriation is established within the Department of Justice to pay all necessary expenses of investigations and prosecutions by independent counsel appointed pursuant to the provisions of 28 U.S.C. 591 et seq. or other law: <i>Provided further</i>, That the Comptroller General shall perform semiannual financial reviews of expenditures from the Independent Counsel permanent indefinite appropriation, and report their findings to the Committees on Appropriations of the House and Senate”.
+
+\[For termination, effective May 15, 2000, of provisions of section 101(a) \[title II\] of Pub. L. 100–202, set out above, which require the Comptroller General to report findings of semiannual financial reviews to the Committees on Appropriations of the House and Senate, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 9 of House Document No. 103–7.\]
 
 #### Contingency Fund for Independent Counsels
 

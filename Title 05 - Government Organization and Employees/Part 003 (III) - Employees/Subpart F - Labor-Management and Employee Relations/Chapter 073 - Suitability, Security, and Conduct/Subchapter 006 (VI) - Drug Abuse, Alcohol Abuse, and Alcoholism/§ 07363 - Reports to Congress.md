@@ -22,6 +22,10 @@
 
 The date of the enactment of the Federal Employee Substance Abuse Education and Treatment Act of 1986, referred to in subsec. (a), is the date of enactment of title VI of Pub. L. 99–570 which was approved Oct. 27, 1986.
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of reporting provisions in this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 187 of House Document No. 103–7.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 7361, 7362 of this title.

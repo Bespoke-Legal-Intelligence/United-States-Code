@@ -20,7 +20,7 @@ For the purpose of this chapter—
 
 &emsp;&emsp;(H) an individual appointed to a position on the office staff of a former President under section 1(b) of the Act of August 25, 1958 (72 Stat. 838); and
 
-&emsp;&emsp;(I) an individual appointed to a position on the office staff of a former President, or a former Vice President under section 4 of the Presidential Transition Act of 1963, as amended (78 Stat. 153), who immediately before the date of such appointment was an employee as defined under any other subparagraph of this paragraph;
+&emsp;&emsp;(I) an individual appointed to a position on the office staff of a former President, or aformer Vice President under section 4 of the Presidential Transition Act of 1963, as amended (78 Stat. 153), who immediately before the date of such appointment was an employee as defined under any other subparagraph of this paragraph;
 
 > &emsp;but does not include—
 
@@ -262,9 +262,13 @@ Amendment by Pub. L. 95–583 effective Nov. 2, 1978, see section 3 of Pub. L. 9
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 
+#### Short Title of 2000 Amendment
+
+Pub. L. 106–394, §1, Oct. 30, 2000, 114 Stat. 1629, provided that: “This Act \[amending sections 8421a and 8905 of this title and enacting provisions set out as a note under section 8421a of this title\] may be cited as the ‘Federal Employees Health Benefits Children's Equity Act of 2000’.”
+
 #### Short Title of 1998 Amendment
 
-Pub. L. 105–266, §1, Oct. 19, 1998, 112 Stat. 2363, provided that: “This Act \[enacting section 8903b of this title, amending this section and sections 5948, 8902 to 8903, and 8909 of this title, and enacting provisions set out as notes under this section and sections 5948, 8902, 8902a, 8903b, and 8909 of this title\] may be cited as the ‘Federal Employees Health Care Protection Act of 1998’.”
+Pub. L. 105–266, §1, Oct. 19, 1998, 112 Stat. 2363, provided that: “This Act \[enacting section 8903b of thistitle, amending this section and sections 5948, 8902 to 8903, and 8909 of this title, and enacting provisions set out as notes under this section and sections 5948, 8902, 8902a, 8903b, and 8909 of this title\] may be cited as the ‘Federal Employees Health Care Protection Act of 1998’.”
 
 #### Short Title of 1988 Amendment
 
@@ -346,7 +350,7 @@ Pub. L. 104–37, title VI, §601, Oct. 21, 1995, 109 Stat. 328, provided that:
 
 &emsp;“(A) shall be deemed to be entitled to continued coverage under section 8905a of title 5, United States Code, for the same period that would have been permitted under the plan administered by the Farm Credit Administration; and
 
-&emsp;“(B) may enroll in an approved health benefits plan described under sections 8903 or 8903a of such title inaccordance with section 8905A of such title for coverage effective on and after September 30, 1995.
+&emsp;“(B) may enroll in an approved health benefits plan described under sections 8903 or 8903a of such title in accordance with section 8905A of such title for coverage effective on and after September 30, 1995.
 
 “(3) An individual who, on September 30, 1995, is covered as an unmarried dependent child under a health benefits plan administered by the Farm Credit Administration and who is not a member of family as defined under section 8901(5) of title 5, United States Code—
 
@@ -416,15 +420,9 @@ Administration and Regulations.—The Office of Personnel Management—
 
 For provisions relating to treatment of certain Federal employees of Saint Elizabeths Hospital under certain Federal employee benefit programs, see section 207(<i>o</i>) of Pub. L. 99–335, set out as a note under section 8331 of this title.
 
-#### Cross References
-
-Annual report to Congress by the Office of Personnel Management on the operation of this chapter, see section 1308 of this title.
-
-United States magistrate judges and necessary clerical and secretarial assistants employed in the offices of such full-time magistrate judges deemed officers and employees in the Federal judicial branch within meaning of this chapter, see section 634 of Title 28, Judiciary and Judicial Procedure.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 8902, 8903, 8903a, 8905a, 8906, 8909, 8913 of this title; title 10 section 1108; title 40 section 214c; title 42 section 251.
+This section is referred to in sections 8902, 8903, 8903a, 8905, 8905a, 8906, 8909, 8913, 9001 of this title; title 2 section 162b; title 10 section 1108; title 40 section 214c; title 42 section 251.
 
 <i><sup>1</sup></i><i> See Change of Name note below.</i>
 

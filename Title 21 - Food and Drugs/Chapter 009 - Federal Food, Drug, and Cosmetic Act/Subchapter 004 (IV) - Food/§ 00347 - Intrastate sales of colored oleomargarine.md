@@ -12,7 +12,7 @@ No person shall sell, or offer for sale, colored oleomargarine or colored margar
 
 &emsp;(2) the net weight of the contents of any package sold in a retail establishment is one pound or less,
 
-&emsp;(3) there appears on the label of the package (A) the word “oleomargarine” or “margarine” in type or lettering at least as large as any other type or lettering on such label, and (B) a full and accurate statement of all the ingredients contained in such oleomargarine or margarine, and
+&emsp;(3) there appears on the label of the package (A) the word “oleomargarine” or “margarine”in type or lettering at least as large as any other type or lettering on such label, and (B) a full and accurate statement of all the ingredients contained in such oleomargarine or margarine, and
 
 &emsp;(4) each part of the contents of the package is contained in a wrapper which bears the word “oleomargarine” or “margarine” in type or lettering not smaller than 20-point type.
 

@@ -1,6 +1,6 @@
 ### §5702. Per diem; employees traveling on official business
 
-(a)(1) Under regulations prescribed pursuant to section 5707 of this title, an employee, when traveling on official business away from the employee's designated post of duty, or away from the employee's home or regular place of business (if the employee is described in section 5703 of this title), is entitled to any one of the following:
+(a)(1) Under regulations prescribed pursuant to section 5707 of this title, an employee, whentraveling on official business away from the employee's designated post of duty, or away from the employee's home or regular place of business (if the employee is described in section 5703 of this title), is entitled to any one of the following:
 
 &emsp;(A) a per diem allowance at a rate not to exceed that established by the Administrator of General Services for travel within the continental United States, and by the President or his designee for travel outside the continental United States;
 
@@ -156,5 +156,5 @@ Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5569, 5707, 5724a, 8474 of this title; title 2 section 476; title 7 sections 3128, 5843; title 12 section 1834a; title 15 sections 1341, 4603; title 16 sections 971a, 971b, 2443, 3608, 3641, 5608, 5709; title 18 section 4285; title 21 section 1544; title 22 sections 1474, 2396, 2704; title 24 section 415; title 25 sections 3006, 3505; title 26 section 4941; title 28 sections 456, 604, 1821; title 31 section 326; title 33 section 2732; title 36 section 2101; title 38 section 111; title 42 sections 1873, 2210, 2477, 7238, 10163, 10265, 11221, 13458, 14195.
+This section is referred to in sections 5569, 5707, 5724a, 8474 of this title; title 2 sections 476, 1723; title 7 sections 3128, 5843; title 12 section 1834a; title 15 sections 1341, 4603; title 16 sections 971a, 971b, 2443, 3608, 3641, 5608, 5709; title 18 section 4285; title 21 section 1544; title 22 sections 1474, 2396, 2704; title 24 section 415; title 25 sections 3006, 3505; title 26 section 4941; title 28 sections 456, 604, 1821; title 31 section 326; title 33 section 2732; title 36 sections 2101, 152403; title 38 section 111; title 42 sections 1873, 2210, 2477, 7238, 10163, 10265, 11221, 13458, 14195.
 

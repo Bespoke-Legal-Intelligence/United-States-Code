@@ -30,7 +30,7 @@ Allowable Cost Standards.—A project cost is allowable—
 
 (c)
 
-Certain Prior Costs as Allowable Costs.—The Secretary may decide that a project cost under subsection (b)(2)(A) of this section incurred after May 13, 1946, and before the date the grant agreement is executed is allowable if it is—
+Certain Prior Costs as Allowable Costs.—The Secretary may decide that a project cost under subsection (b)(2)(A) of this section incurred after May 13, 1946, and beforethe date the grant agreement is executed is allowable if it is—
 
 &emsp;(1) necessarily incurred in formulating an airport development project, including costs incurred for field surveys, plans and specifications, property interests in land or airspace, and administration or other incidental items that would not have been incurred except for the project; or
 
@@ -68,13 +68,15 @@ Letters of Intent.—(1) The Secretary may issue a letter of intent to the spons
 
 &emsp;(B) that will comply with all statutory and administrative requirements that would apply to the project if it were carried out with amounts made available under this subchapter; and
 
-&emsp;(C) the Secretary decides will enhance system-wide airport capacity significantly and meets the criteria of section 47115(d) of this title.
+&emsp;(C) that meets the criteria of section 47115(d) and, if for a project at a commercial service airport having at least 0.25 percent of the boardings each year at all such airports, the Secretary decides will enhance system-wide airport capacity significantly.
 
 (3) A letter of intent issued under paragraph (1) of this subsection is not an obligation of the Government under section 1501 of title 31, and the letter is not deemed to be an administrative commitment for financing. An obligation or administrative commitment may be made only as amounts are provided in authorization and appropriation laws.
 
 (4) The total estimated amount of future Government obligations covered by all outstanding letters of intent under paragraph (1) of this subsection may not be more than the amount authorized to carry out section 48103 of this title, less an amount reasonably estimated by the Secretary to be needed for grants under section 48103 that are not covered by a letter.
 
-(5) A letter of intent issued under paragraph (1) of this subsection may not condition the obligation of amounts on the imposition of a passenger facility fee.
+(5)
+
+Letters of intent.—The Secretary may not require an eligible agency to impose a passenger facility fee under section 40117 in order to obtain a letter of intent under this section.
 
 (6)
 
@@ -96,7 +98,7 @@ Nonallowable Costs.—Except as provided in subsection (d) of this section and s
 
 Use of Discretionary Funds.—A project for which cost reimbursement is provided under subsection (b)(2)(C) shall not receive priority consideration with respect to the use of discretionary funds made available under section 47115 of this title even if the amounts made available under paragraphs (1) and (2) of section 47114(c) are not sufficient to cover the Government's share of the cost of <sup>1</sup> project.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1264; Pub. L. 103–305, title I, §115, Aug. 23, 1994, 108Stat. 1579; Pub. L. 103–429, §6(64), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 104–264, title I, §144, Oct. 9, 1996, 110 Stat. 3222.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1264; Pub. L. 103–305, title I, §115, Aug. 23, 1994, 108 Stat. 1579; Pub. L. 103–429, §6(64), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 104–264, title I, §144, Oct. 9, 1996, 110 Stat. 3222; Pub. L. 106–181, title I, §127, Apr. 5, 2000, 114 Stat. 76.)
 
 Historical and Revision Notes
 
@@ -181,6 +183,10 @@ In subsection (b)(2)(C)(ii), the words “before the cost is incurred” are add
 
 #### Amendments
 
+2000—Subsec. (e)(2)(C). Pub. L. 106–181, §127(1), added subpar. (C) and struck out former subpar. (C) which read as follows: “the Secretary decides will enhance system-wide airport capacity significantly and meets the criteria of section 47115(d) of this title.”
+
+Subsec. (e)(5). Pub. L. 106–181, §127(2), added par. (5) and struck out former par. (5) which read as follows: “A letter of intent issued under paragraph (1) of this subsection may not condition the obligation of amounts on the imposition of a passenger facility fee.”
+
 1996—Subsec. (b)(2)(C). Pub. L. 104–264, §144(a), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “if the Government's share is paid only with amounts apportioned under section 47114(c)(1)(A) and (2) of this title and if the cost is incurred—
 
 &emsp;“(i) during the fiscal year ending September 30, 1994;
@@ -198,6 +204,10 @@ Subsec. (g). Pub. L. 104–264, §144(b), added subsec. (g).
 &emsp;“(B) after June 1, 1989, by the airport operator (regardless of when the grant agreement is executed) as part of a Government-approved noise compatibility program (including project formulation costs) and is consistent with all applicable statutory and administrative requirements;”.
 
 Subsec. (e)(6). Pub. L. 103–305 added par. (6).
+
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
 
 #### Effective Date of 1996 Amendment
 

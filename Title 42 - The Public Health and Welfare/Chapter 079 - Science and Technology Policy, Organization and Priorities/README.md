@@ -79,19 +79,7 @@
 
 |  |  |
 | :--- | ---: |
-| [6681\.](Subchapter%20006%20%28VI%29%20-%20National%20Critical%20Technologies%20Panel/%C2%A7%2006681%20-%20Establishment.md) | Establishment. |
-| [6682\.](Subchapter%20006%20%28VI%29%20-%20National%20Critical%20Technologies%20Panel/%C2%A7%2006682%20-%20Membership.md) | Membership. |
-| (a) | Composition and appointment. |
-| (b) | Term of office; vacancies. |
-| (c) | Chairman. |
-| [6683\.](Subchapter%20006%20%28VI%29%20-%20National%20Critical%20Technologies%20Panel/%C2%A7%2006683%20-%20Biennial%20national%20critical%20technologies%20report.md) | Biennial national critical technologies report. |
-| (a) | Report to President; identification of critical technologies; time for submission. |
-| (b) | Technologies considered national critical technologies. |
-| (c) | Contents of report. |
-| (d) | Types of research and development needed; technologies and markets targeted by trading partners. |
-| (e) | Submission to Congress. |
-| [6684\.](Subchapter%20006%20%28VI%29%20-%20National%20Critical%20Technologies%20Panel/%C2%A7%2006684%20-%20Administration%20and%20funding%20of%20panel.md) | Administration and funding of panel. |
-| [6685\.](Subchapter%20006%20%28VI%29%20-%20National%20Critical%20Technologies%20Panel/%C2%A7%2006685%20-%20Expiration.md) | Expiration. |
+| 6681 to 6685. Omitted. |  |
 | [6686\.](Subchapter%20006%20%28VI%29%20-%20National%20Critical%20Technologies%20Panel/%C2%A7%2006686%20-%20Science%20and%20Technology%20Policy%20Institute.md) | Science and Technology Policy Institute. |
 | (a) | Establishment. |
 | (b) | Incorporation. |

@@ -20,7 +20,7 @@
 
 #### (c) Withholding State funds
 
-Effective 1 year after December 20, 1993, the Attorney General may reduce, by up to 10 percent, the allocation to a State for a fiscal year under title I of the Omnibus Crime Control andSafe Streets Act of 1968 \[42 U.S.C. 3701 et seq.\] that is not in compliance with the requirements of this subchapter.
+Effective 1 year after December 20, 1993, the Attorney General may reduce, by up to 10 percent, the allocation to a State for a fiscal year under title I of the Omnibus Crime Control and Safe Streets Act of 1968 \[42 U.S.C. 3701 et seq.\] that is not in compliance with the requirements of this subchapter.
 
 (Pub. L. 103–209, §4, Dec. 20, 1993, 107 Stat. 2493; Pub. L. 103–322, title XXXII, §320928(d), Sept. 13, 1994, 108 Stat. 2132; Pub. L. 105–251, title II, §222(c), Oct. 9, 1998, 112 Stat. 1885.)
 

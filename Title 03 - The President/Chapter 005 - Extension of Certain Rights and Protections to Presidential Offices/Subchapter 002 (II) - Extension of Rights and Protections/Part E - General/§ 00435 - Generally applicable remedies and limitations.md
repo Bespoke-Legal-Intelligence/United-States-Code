@@ -2,7 +2,7 @@
 
 (a)
 
-Attorney's Fees.—If a covered employee, with respect to any claim under this chapter, or a qualified person with a disability, with respect to any claim under section 421, is a prevailing party in any proceeding under section 453(1), the administrative agency may award attorney's fees, expert fees, and any other costs as would be appropriate if awarded under section 706(k) of the Civil Rights Act of 1964.
+Attorney's Fees.—If a covered employee, with respect to any claim under this chapter, or a qualified person with a disability, with respect to any claim under section 421, is a prevailing party in any proceeding under section 453(1), the administrative agency may award attorney'sfees, expert fees, and any other costs as would be appropriate if awarded under section 706(k) of the Civil Rights Act of 1964.
 
 (b)
 

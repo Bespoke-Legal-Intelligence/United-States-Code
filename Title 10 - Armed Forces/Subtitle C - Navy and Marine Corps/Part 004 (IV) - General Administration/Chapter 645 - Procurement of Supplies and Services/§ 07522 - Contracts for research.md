@@ -42,7 +42,3 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
 
-#### Cross References
-
-Contracts for research and development generally, see section 2352 et seq. of this title.
-

@@ -30,7 +30,7 @@ In this chapter:
 
 1994—Pub. L. 103–355, §3031(c), substituted “In this chapter:” for “In this subchapter:” in introductory provisions.
 
-Par. (1). Pub. L. 103–355, §3031(b)(1)(C), which directed substitution of “section 40102 of title 49” for “section 101 of the Federal Aviation Act of 1958 (49 U.S.C. 1301)”,could not be executed because of the intervening amendment by Pub. L. 103–272 which substituted “section 40102(a) of title 49” for “section 101 of the Federal Aviation Act of 1958 (49 U.S.C. 1301)”, see below.
+Par. (1). Pub. L. 103–355, §3031(b)(1)(C), which directed substitution of “section 40102 of title 49” for “section 101 of the Federal Aviation Act of 1958 (49 U.S.C. 1301)”, could not be executed because of the intervening amendment by Pub. L. 103–272 which substituted “section 40102(a) of title 49” for “section 101 of the Federal Aviation Act of 1958 (49 U.S.C. 1301)”, see below.
 
 Pub. L. 103–355, §3031(b)(1)(A), (B), inserted “ ‘civil aircraft’,” before “ ‘person’,” and substituted “meanings” for “meaning”.
 

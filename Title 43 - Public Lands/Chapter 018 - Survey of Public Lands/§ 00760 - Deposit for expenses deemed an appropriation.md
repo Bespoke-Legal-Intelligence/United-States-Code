@@ -8,10 +8,6 @@ The deposit of money in a proper United States depository, under the provisions 
 
 R.S. §2402 derived from Res. July 1, 1864, No. 60, 13 Stat. 414.
 
-#### Cross References
-
-Classification as trust funds, appropriation and disbursement of funds for “Expenses, public survey work,” see section 1321 of Title 31, Money and Finance.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 763 of this title.

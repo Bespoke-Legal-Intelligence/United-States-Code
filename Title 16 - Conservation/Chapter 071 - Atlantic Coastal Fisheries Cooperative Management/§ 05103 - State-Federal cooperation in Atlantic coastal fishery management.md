@@ -16,7 +16,7 @@ The Secretary in cooperation with the Secretary of the Interior shall develop an
 
 (2) The provisions of sections 307, 308, 309, 310, and 311 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1857, 1858, 1859, 1860, and 1861) regarding prohibited acts, civil penalties, criminal offenses, civil forfeitures, and enforcement shall apply with respect to regulations issued under this subsection as if such regulations were issued under the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.).
 
-(Pub. L. 103–206, title VIII, §804, Dec. 20, 1993, 107 Stat. 2449; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 104–297, title IV, §404(b), Oct. 11, 1996, 110 Stat. 3619.)
+(Pub. L. 103–206, title VIII, §804, Dec. 20, 1993, 107 Stat. 2449; Pub. L. 104–297, title IV, §404(b), Oct. 11, 1996, 110 Stat. 3619; Pub. L. 106–555, title I, §122(b)(3), Dec. 21, 2000, 114 Stat. 2766.)
 
 #### References in Text
 
@@ -24,13 +24,9 @@ The Magnuson-Stevens Fishery Conservation and Management Act, referred to in sub
 
 #### Amendments
 
-1996—Subsec. (b). Pub. L. 104–208 substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery” wherever appearing.
+2000—Subsec. (b). Pub. L. 106–555 substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery” wherever appearing.
 
-Subsec. (b)(1)(A). Pub. L. 104–297 substituted “compatible with” for “necessary to support”.
-
-#### Effective Date of 1996 Amendment
-
-Section 101(a) \[title II, §211(b)\] of div. A of Pub. L. 104–208 provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
+1996—Subsec. (b)(1)(A). Pub. L. 104–297 substituted “compatible with” for “necessary to support”.
 
 #### Section Referred to in Other Sections
 

@@ -2,7 +2,7 @@
 
 #### (a) Compliance with financial principles
 
-(1) The Under Secretary of Energy for Nuclear Security shall ensure that the compliance with sound financial and fiscal management principles specified in section 2452 of this title is achieved not later than October 1, 2000.
+(1) The Under Secretary of Energy for Nuclear Security shall ensure that the compliance withsound financial and fiscal management principles specified in section 2452 of this title is achieved not later than October 1, 2000.
 
 (2) In carrying out paragraph (1), the Under Secretary of Energy for Nuclear Security shall conduct a review and develop a plan to bring applicable activities of the Administration into full compliance with those principles not later than such date.
 

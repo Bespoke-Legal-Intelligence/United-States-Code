@@ -58,7 +58,7 @@ The Secretary shall provide training to personnel of the Department, including c
 
 The provisions of section 3403(b) of this title shall not apply to Secretarial determinations made regarding the appropriate length of instruction for programs measured in clock hours.
 
-(Pub. L. 89–329, title IV, §498A, as added Pub. L. 102–325, title IV, §499, July 23, 1992, 106 Stat. 652; amended Pub. L. 103–208, §2(i)(15), Dec. 20, 1993, 107 Stat. 2480; Pub. L. 105–244, title IV, §494, Oct. 7, 1998, 112 Stat. 1763.)
+(Pub. L. 89–329, title IV, §498A, as added Pub. L. 102–325, title IV, §499, July 23, 1992, 106 Stat. 652; amended Pub. L. 103–208, §2(i)(15), Dec. 20, 1993,107 Stat. 2480; Pub. L. 105–244, title IV, §494, Oct. 7, 1998, 112 Stat. 1763.)
 
 #### Amendments
 

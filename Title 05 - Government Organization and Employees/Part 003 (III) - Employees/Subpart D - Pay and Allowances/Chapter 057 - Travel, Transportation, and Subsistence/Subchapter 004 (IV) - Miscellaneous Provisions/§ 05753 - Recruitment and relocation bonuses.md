@@ -1,12 +1,12 @@
 ### §5753. Recruitment and relocation bonuses
 
-(a) The Office of Personnel Management may authorize the head of an agency to pay a bonus to an employee who is newly appointed to a position under the General Schedule, or to an employee under the General Schedule or under any other pay authority in the executive, legislative, or judicial branch who must relocate to accept a position under the General Schedule, if the Office determines that the agency would be likely, in the absence of such a bonus, to encounter difficulty in filling the position.
+(a) The Office of Personnel Management may authorize the head of an agency to pay a bonusto an employee who is newly appointed to a position under the General Schedule, or to an employee under the General Schedule or under any other pay authority in the executive, legislative, or judicial branch who must relocate to accept a position under the General Schedule, if the Office determines that the agency would be likely, in the absence of such a bonus, to encounter difficulty in filling the position.
 
 (b)(1)(A) The amount of a bonus under this section shall be determined by regulations of the Office, but may not exceed 25 percent of the annual rate of basic pay of the position to which the employee is being appointed or relocated.
 
 (B) For purposes of computing a percentage of a rate of basic pay under subparagraph (A), the rate of basic pay used shall be determined without taking into account any comparability payment under section 5304.
 
-(2) Payment of a bonus under this section shall be contingent upon the employee entering into an agreement with the agency to complete a period of employment with the agency, with therequired period determined pursuant to regulations of the Office. If the employee voluntarily fails to complete such period of service or is separated from the service before completion of such period of service for cause on charges of misconduct or delinquency, the employee shall repay the bonus on a pro rata basis.
+(2) Payment of a bonus under this section shall be contingent upon the employee entering into an agreement with the agency to complete a period of employment with the agency, with the required period determined pursuant to regulations of the Office. If the employee voluntarily fails to complete such period of service or is separated from the service before completion of such period of service for cause on charges of misconduct or delinquency, the employee shall repay the bonus on a pro rata basis.
 
 (3) A bonus under this section shall be paid as a lump sum, and may not be considered to be part of the basic pay of an employee.
 

@@ -18,7 +18,7 @@ Where any lease has been or is hereafter terminated automatically by operation o
 
 #### (d) Additional grounds for reinstatement
 
-(1) Where any oil and gas lease issued pursuant to section 226(b) or (c) of this title or the Mineral Leasing Act for Acquired Lands (30 U.S.C. 351 et seq.) has been, or is hereafter, terminated automatically by operation of law under this section for failure to pay on or before the anniversary date the full amount of the rental due, and such rental is not paid or tendered within twenty days thereafter, and it is shown to the satisfaction of the Secretary of the Interior that such failure was justifiable or not due to lack of reasonable diligence on the part of the lessee, or, no matter when the rental is paid after termination, it is shown to the satisfaction of the Secretary that such failure was inadvertent, the Secretary may reinstate the lease as of the date of termination for the unexpired portion of the primary term of the original lease or any extension thereof remaining at the date of termination, and so long thereafter as oil or gas is produced in paying quantities. In any case where a lease is reinstated under this subsection and the Secretary finds that the reinstatement of such lease (A) occurs after the expiration of the primary term or any extension thereof, or (B) will not afford the lessee a reasonable opportunity to continue operations under the lease, the Secretary may, at his discretion, extend the term of such lease for such period as he deemsreasonable, but in no event for more than two years from the date the Secretary authorizes the reinstatement and so long thereafter as oil or gas is produced in paying quantities.
+(1) Where any oil and gas lease issued pursuant to section 226(b) or (c) of this title or the Mineral Leasing Act for Acquired Lands (30 U.S.C. 351 et seq.) has been, or is hereafter, terminated automatically by operation of law under this section for failure to pay on or before the anniversary date the full amount of the rental due, and such rental is not paid or tendered within twenty days thereafter, and it is shown to the satisfaction of the Secretary of the Interior that such failure was justifiable or not due to lack of reasonable diligence on the part of the lessee, or, no matter when the rental is paid after termination, it is shown to the satisfaction of the Secretary that such failure was inadvertent, the Secretary may reinstate the lease as of the date of termination for the unexpired portion of the primary term of the original lease or any extension thereof remaining at the date of termination, and so long thereafter as oil or gas is produced in paying quantities. In any case where a lease is reinstated under this subsection and the Secretary finds that the reinstatement of such lease (A) occurs after the expiration of the primary term or any extension thereof, or (B) will not afford the lessee a reasonable opportunity to continue operations under the lease, the Secretary may, at his discretion, extend the term of such lease for such period as he deems reasonable, but in no event for more than two years from the date the Secretary authorizes the reinstatement and so long thereafter as oil or gas is produced in paying quantities.
 
 (2) No lease shall be reinstated under paragraph (1) of this subsection unless—
 
@@ -26,7 +26,7 @@ Where any lease has been or is hereafter terminated automatically by operation o
 
 &emsp;&emsp;(i) the lessee tendered rental prior to January 12, 1983, and the final determination that the lease terminated was made by the Secretary or a court less than three years before January 12, 1983, and
 
-&emsp;&emsp;(ii) a petition for reinstatement together with the required back rental and royalty accruing from the date of termination, is filed with the Secretary on or before the one hundred and twentieth day after January 12, 1983, or
+&emsp;&emsp;(ii) a petition for reinstatement together with the required back rental and royaltyaccruing from the date of termination, is filed with the Secretary on or before the one hundred and twentieth day after January 12, 1983, or
 
 &emsp;(B) with respect to any lease that terminated under subsection (b) of this section on or after January 12, 1983, a petition for reinstatement together with the required back rental and royalty accruing from the date of termination is filed on or before the earlier of—
 
@@ -62,7 +62,7 @@ Where an unpatented oil placer mining claim validly located prior to February 24
 
 &emsp;(2) a valid lease not having been issued affecting any of the lands covered by the abandoned oil placer mining claim prior to the filing of such petition: <i>Provided, however</i>, That after the filing of a petition for issuance of a lease under this subsection, the Secretary shall not issue any new lease affecting any of the lands covered by such abandoned oil placer mining claim for a reasonable period, as determined in accordance with regulations issued by him;
 
-&emsp;(3) a requirement in the lease for payment of rental, including back rentals accruing from the statutory date of abandonment of the oil placer mining claim, of not less than $5 per acre per year;
+&emsp;(3) a requirement in the lease for payment of rental, including back rentals accruing from the statutory date of abandonment of the oilplacer mining claim, of not less than $5 per acre per year;
 
 &emsp;(4) a requirement in the lease for payment of royalty on production removed or sold from the oil placer mining claim, including all royalty on production made subsequent to the statutory date the claim was deemed conclusively abandoned, of not less than 121/2 percent; and
 
@@ -112,7 +112,7 @@ Subsec. (h). Pub. L. 100–203, §5102(d)(2), substituted “section 226(m)” f
 
 1970—Subsec. (b). Pub. L. 91–245, §1, inserted proviso authorizing continuance of a lease where timely paid rent is nominally deficient or miscalculated due to an error either in acreage figure stated in the lease, in any decision affecting the lease, or in a bill or decision rendered by the Secretary, except where a new lease was issued prior to May 12, 1970 or the lessee failed to pay the deficiency within the period allowed by the Secretary.
 
-Subsec. (c). Pub. L. 91–245, §2, inserted provisions allowing reinstatement of a lease despite a twenty-day delay in payment of rent, made the payment of back rental accruing from the date of termination of the lease a prerequisite to such reinstatement, restricted the Secretary's power to issue a new lease on the lands covered by the terminated lease, gave the Secretary discretion to extend the term of a reinstated lease so as to afford the lessee a reasonable opportunity to continue operations under the lease, and struck out requirement that the petition for reinstatement of any lease terminated prior to Oct. 15, 1962 be filed within 180 days after Oct. 15, 1962.
+Subsec. (c). Pub. L. 91–245, §2, inserted provisions allowing reinstatement of a lease despite a twenty-day delay in payment of rent, made the payment of back rental accruing from the date of termination of the lease a prerequisite to such reinstatement, restricted the Secretary's power to issue a new lease on the landscovered by the terminated lease, gave the Secretary discretion to extend the term of a reinstated lease so as to afford the lessee a reasonable opportunity to continue operations under the lease, and struck out requirement that the petition for reinstatement of any lease terminated prior to Oct. 15, 1962 be filed within 180 days after Oct. 15, 1962.
 
 1962—Pub. L. 87–822 designated existing pars. as subsecs. (a) and (b) and added subsecs. (c) and (d).
 
@@ -135,12 +135,6 @@ Section 2 of Pub. L. 87–822 provided that: “Nothing in this Act \[amending t
 #### Outer Continental Shelf; Cancellation of Leases
 
 Cancellation of mineral leases on submerged lands of outer Continental Shelf, see sections 1334 and 1337 of Title 43, Public Lands.
-
-#### Cross References
-
-Laws applicable, see sections 275 and 285 of this title.
-
-Surrender of leases, see section 188a of this title.
 
 #### Section Referred to in Other Sections
 

@@ -10,11 +10,11 @@
 
 (e) The Comptroller General may procure the services of experts and consultants under section 3109 of title 5 at rates not in excess of the maximum daily rate for GS–18 under section 5332 of such title, except that the services of not more than—
 
-&emsp;(1) 15 experts and consultants may be procured for not more than 3 years; and
+&emsp;(1) 15 experts and consultants may be procured for terms of not more than 3 years, but which shall be renewable; and
 
-&emsp;(2) 10 experts and consultants may be procured permanently, temporarily, or intermittently to carry out sections 717(b)–(d) and 719(b)(1)(A) of this title at rates that are not more than the rate for level V of the Executive Schedule.
+&emsp;(2) 10 experts and consultants may be procured permanently, temporarily, or intermittently to carry out sections 717(b)–(d) and 719(b)(1)(A) of this title at rates that are not more than the rate for level IV of the Executive Schedule.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 896; Pub. L. 98–326, §1(a), June 22, 1984, 98 Stat. 269; Pub. L. 98–615, title II, §204(b), Nov. 8, 1984, 98 Stat. 3216; Pub. L. 103–89, §3(b)(4), Sept. 30, 1993, 107 Stat. 983.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 896; Pub. L. 98–326, §1(a), June 22, 1984, 98 Stat. 269; Pub. L. 98–615, title II, §204(b), Nov. 8, 1984, 98 Stat. 3216; Pub. L. 103–89, §3(b)(4), Sept. 30, 1993, 107 Stat. 983; Pub. L. 106–303, §5, Oct. 13, 2000, 114 Stat. 1069.)
 
 Historical and Revision Notes
 
@@ -92,7 +92,13 @@ In subsection (e), before clause (1), the words “procure the services of” ar
 
 Section 5401 of title 5, referred to in subsec. (b), was repealed by Pub. L. 103–89, §3(a)(1), Sept. 30, 1993, 107 Stat. 981.
 
+Level IV of the Executive Schedule, referred to in subsecs. (c), (d), and (e)(2), is set out in section 5315 of Title 5, Government Organization and Employees.
+
 #### Amendments
+
+2000—Subsec. (e)(1). Pub. L. 106–303, §5(1), substituted “terms of not more than 3 years, but which shall be renewable” for “not more than 3 years”.
+
+Subsec. (e)(2). Pub. L. 106–303, §5(2), substituted “level IV” for “level V”.
 
 1993—Subsec. (b). Pub. L. 103–89 inserted before period at end “, as in effect on October 31, 1993”.
 
@@ -116,5 +122,5 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 719, 733, 735 of this title; title 2 section 356.
+This section is referred to in sections 719, 732a, 733, 735 of this title; title 2 section 356.
 

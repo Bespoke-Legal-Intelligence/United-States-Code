@@ -14,7 +14,7 @@ Any funds that were appropriated under the heading “Secretary of the Senate”
 
 #### (d) Regulations
 
-The Committee on Rules and Administration of the Senate may prescribe such regulations as may be necessary to carry out the provisions of this section.
+The Committee on Rules and Administration of the Senate may prescribe such regulations asmay be necessary to carry out the provisions of this section.
 
 #### (e) Effective date
 

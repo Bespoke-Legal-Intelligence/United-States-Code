@@ -14,15 +14,17 @@ The Secretary shall, not later than October 1, 1996, and annually thereafter, pr
 
 #### (c) Authorization of appropriations
 
-There are authorized to be appropriated to carry out this section, such sums as may be necessary for each of the fiscal years 1991 through 1995.
+There are authorized to be appropriated to carry out this section, such sums as may be necessary for each of the fiscal years 2001 through 2005.
 
 #### (d) Allocation of funds
 
 The Secretary shall carry out this section with amounts available under section 238j of this title. Such amounts are in addition to any other amounts that are available to the Secretary for such purpose.
 
-(July 1, 1944, ch. 373, title XXVI, §2674, as added Pub. L. 101–381, title IV, §401, Aug. 18, 1990, 104 Stat. 620; amended Pub. L. 104–146, §3(f), May 20, 1996, 110 Stat. 1362.)
+(July 1, 1944, ch. 373, title XXVI, §2674, as added Pub. L. 101–381, title IV, §401, Aug. 18, 1990, 104 Stat. 620; amended Pub. L. 104–146, §3(f), May 20, 1996, 110 Stat. 1362; Pub. L. 106–345, title IV, §411, Oct. 20, 2000, 114 Stat. 1350.)
 
 #### Amendments
+
+2000—Subsec. (c). Pub. L. 106–345 substituted “2001 through 2005” for “1991 through 1995”.
 
 1996—Subsec. (b). Pub. L. 104–146, §3(f)(1)(A), substituted “not later than October 1, 1996,” for “not later than 1 year after the date on which amounts are first appropriated under this subchapter,” in introductory provisions.
 

@@ -50,7 +50,7 @@ For purposes of subsection (a) of this section—
 
 #### (c) Increase or decrease in value of assets
 
-Any increase or decrease in the value of the assets of a single-employer plan occurring during the period beginning on the later of (1) the date a trustee is appointed under section 1342(b) of this title or (2) the date on which the plan is terminated is to be allocated between the plan and the corporation in the manner determined by the court (in the case of a court-appointed trustee) or as agreed upon by the corporation and the plan administrator in any other case. Any increase or decrease in the value of the assets of a single-employer plan occurring after the date on which the plan is terminated shall be credited to, or suffered by, the corporation.
+Any increase or decrease in the value of the assets of a single-employer plan occurring during the period beginning on the later of (1) the date a trustee is appointed under section 1342(b) of this title or (2) the date on which the plan is terminated is to be allocated between the plan and the corporation in the manner determined by the court (in the case of a court-appointed trustee) or as agreed upon by the corporationand the plan administrator in any other case. Any increase or decrease in the value of the assets of a single-employer plan occurring after the date on which the plan is terminated shall be credited to, or suffered by, the corporation.
 
 #### (d) Distribution of residual assets; restrictions on reversions pursuant to recently amended plans; assets attributable to employee contributions; calculation of remaining assets
 
@@ -66,7 +66,7 @@ Any increase or decrease in the value of the assets of a single-employer plan oc
 
 (B) A distribution to the employer from a plan shall not be treated as failing to satisfy the requirements of this paragraph if the plan has been in effect for fewer than 5 years and the plan has provided for such a distribution since the effective date of the plan.
 
-(C) Except as otherwise provided in regulations of the Secretary of the Treasury, in any case in which a transaction described in section 1058 of this title occurs, subparagraph (A) shallcontinue to apply separately with respect to the amount of any assets transferred in such transaction.
+(C) Except as otherwise provided in regulations of the Secretary of the Treasury, in any case in which a transaction described in section 1058 of this title occurs, subparagraph (A) shall continue to apply separately with respect to the amount of any assets transferred in such transaction.
 
 (D) For purposes of this subsection, the term “employer” includes any member of the controlled group of which the employer is a member. For purposes of the preceding sentence, the term “controlled group” means any group treated as a single employer under subsection (b), (c), (m) or (<i>o</i>) of section 414 of title 26.
 
@@ -114,7 +114,7 @@ Subsec. (d)(1). Pub. L. 100–203, §9311(b)(1), substituted “Subject to parag
 
 Subsec. (d)(2). Pub. L. 100–203, §9311(a)(1)(B), added par. (2). Former par. (2) redesignated (3).
 
-Subsec. (d)(3). Pub. L. 100–203, §9311(b)(2), as amended by Pub. L. 101–239, §7881(e)(3), added par. (3), and struck out former par. (3) which read as follows: “Notwithstanding the provisions of paragraph (1), if any assets of the plan attributable to employee contributions, remain after all liabilities of the plan to participants and their beneficiaries have been satisfied, such assets shall be equitably distributed to the employees who made such contributions (or their beneficiaries) in accordance with their rate of contributions.”
+Subsec. (d)(3). Pub. L. 100–203, §9311(b)(2), as amended by Pub. L. 101–239, §7881(e)(3), added par. (3), and struck out former par. (3) which read as follows: “Notwithstanding the provisions of paragraph (1), if any assets of the plan attributable to employee contributions, remain after all liabilities of the plan to participants and their beneficiaries have been satisfied, such assets shall be equitably distributed to the employees who madesuch contributions (or their beneficiaries) in accordance with their rate of contributions.”
 
 Pub. L. 100–203, §9311(a)(1)(A), redesignated former par. (2) as (3).
 
@@ -136,7 +136,7 @@ Amendment by Pub. L. 101–508 applicable to reversions occurring after Sept. 30
 
 #### Effective Date of 1989 Amendment
 
-Amendment by section 7881(e)(3) of Pub. L. 101–239 effective, except as otherwise provided, as if included inthe provision of the Pension Protection Act, Pub. L. 100–203, §§9302–9346, to which such amendment relates, see section 7882 of Pub. L. 101–239, set out as a note under section 401 of Title 26, Internal Revenue Code.
+Amendment by section 7881(e)(3) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Pension Protection Act, Pub. L. 100–203, §§9302–9346, to which such amendment relates, see section 7882 of Pub. L. 101–239, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 Amendment by section 7891(a)(1) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 

@@ -26,7 +26,7 @@ With the exception of grants awarded for the purpose of feasibility studies, the
 
 #### (e) Authorization of appropriations
 
-There are authorized to be appropriated such sums as are necessary for the development and implementation of the program established by this section.
+There are authorized to be appropriated such sums as are necessary for the development andimplementation of the program established by this section.
 
 (Pub. L. 102–486, title XXVI, §2606, Oct. 24, 1992, 106 Stat. 3118.)
 

@@ -152,7 +152,7 @@ Representation.—The policy board of a metropolitan planning organization desig
 
 &emsp;&emsp;&emsp;&emsp;(II)
 
-Funding.—In addition to funds made available to the metropolitan planning organization under other provisions of this title and under chapter 53 of title 49, not more than 1 percent of the funds allocated under section 202 may be used to carry out the transportation planning process for the Lake Tahoe region under this subparagraph.
+Funding.—In addition to funds made available to the metropolitan planning organization under other provisions of this title and under chapter 53 of title 49, not more than 1 percent of the funds allocated under section 202 may be used to carry out the transportation planningprocess for the Lake Tahoe region under this subparagraph.
 
 &emsp;&emsp;(D)
 
@@ -188,7 +188,7 @@ Scope of Planning Process.—
 
 &emsp;(1)
 
-In general.—The metropolitan transportation planning process for a metropolitanarea under this section shall provide for consideration of projects and strategies that will—
+In general.—The metropolitan transportation planning process for a metropolitan area under this section shall provide for consideration of projects and strategies that will—
 
 &emsp;&emsp;(A) support the economic vitality of the metropolitan area, especially by enabling global competitiveness, productivity, and efficiency;
 
@@ -362,7 +362,7 @@ Publication.—
 
 &emsp;&emsp;(A)
 
-Publication of transportation improvement programs.—A transportation improvement program involving Government participation shall be published or otherwise made readily available by themetropolitan planning organization for public review.
+Publication of transportation improvement programs.—A transportation improvement program involving Government participation shall be published or otherwise made readily available by the metropolitan planning organization for public review.
 
 &emsp;&emsp;(B)
 
@@ -504,7 +504,7 @@ The date of enactment of this paragraph, referred to in subsec. (c)(3), (4), is 
 
 Public Law 96–551, referred to in subsec. (d)(3)(A), is Pub. L. 96–551, Dec. 19, 1980, 94 Stat. 3233, which is not classified to the Code.
 
-The Federal-Aid Highway Act of 1991, referred to in subsec. (k), was not enacted into law. However, provisions referred to as the Federal-Aid Highway Act of 1991 were contained in several bills and are similar to those appearing in part A of title I of Pub. L. 102–240, Dec. 18, 1991, 105 Stat. 1914, which Act is known as the Intermodal Surface Transportation Efficiency Act of 1991. For classification of that Act to the Code, see Short Title of 1991 Amendment note set out under section 101 of Title 49, Transportation, and Tables.
+The Federal-Aid Highway Act of 1991, referred to in subsec. (k), was not enacted into law. However, provisions referred to as the Federal-Aid Highway Act of1991 were contained in several bills and are similar to those appearing in part A of title I of Pub. L. 102–240, Dec. 18, 1991, 105 Stat. 1914, which Act is known as the Intermodal Surface Transportation Efficiency Act of 1991. For classification of that Act to the Code, see Short Title of 1991 Amendment note set out under section 101 of Title 49, Transportation, and Tables.
 
 The National Environmental Policy Act of 1969, referred to in subsec. (<i>o</i>), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
@@ -568,7 +568,7 @@ Subsec. (h)(5)(A). Pub. L. 105–178, §1203(<i>o</i>), as added by Pub. L. 105�
 
 Subsec. (i)(1). Pub. L. 105–178, §1203(i)(1), reenacted heading without change and amended text of par. (1) generally. Prior to amendment, text read as follows: “The Secretary shall designate as transportation management areas all urbanized areas over 200,000 population. The Secretary shall designate any additional area as a transportation management area upon the request of the Governor and the metropolitan planning organization designated for such area or the affected local officials. Such additional areas shall include upon such a request the Lake Tahoe Basin as defined by Public Law 96–551.”
 
-Subsec. (i)(4). Pub. L. 105–178, §1203(i)(2), reenacted heading without change and amended text of par. (4) generally. Prior to amendment, text read as follows: “All projects carried out within the boundaries of a transportation management area with Federal participation pursuant to this title (excluding projects undertaken on the National Highway System and pursuant to the bridge and Interstate maintenance programs) or pursuant to chapter 53 of title 49 shall be selected by the metropolitan planning organization designated for such area in consultation with the State and in conformance with the transportation improvement program for such area and priorities established therein. Projects undertaken within the boundaries of a transportation management area on the National Highway System or pursuant to the bridge and Interstate maintenance programs shall be selected by the State in cooperation with the metropolitan planning organizationdesignated for such area and shall be in conformance with the transportation improvement program for such area.”
+Subsec. (i)(4). Pub. L. 105–178, §1203(i)(2), reenacted heading without change and amended text of par. (4) generally. Prior to amendment, text read as follows: “All projects carried out within the boundaries of a transportation management area with Federal participation pursuant to this title (excluding projects undertaken on the National Highway System and pursuant to the bridge and Interstate maintenance programs) or pursuant to chapter 53 of title 49 shall be selected by the metropolitan planning organization designated for such area in consultation with the State and in conformance with the transportation improvement program for such area and priorities established therein. Projects undertaken within the boundaries of a transportation management area on the National Highway System or pursuant to the bridge and Interstate maintenance programs shall be selected by the State in cooperation with the metropolitan planning organization designated for such area and shall be in conformance with the transportation improvement program for such area.”
 
 Subsec. (i)(5). Pub. L. 105–178, §1203(i)(3), reenacted heading without change and amended text of par. (5) generally. Prior to amendment, text read as follows: “The Secretary shall assure that each metropolitan planning organization in each transportation management area is carrying out its responsibilities under applicable provisions of Federal law, and shall so certify at least once every 3 years. The Secretary may make such certification only if (1) a metropolitan planning organization is complying with the requirements of this section and other applicable requirements of Federal law, and (2) there is a transportation improvement program for the area that has been approved by the metropolitan planning organization and the Governor. If after September 30, 1993, a metropolitan planning organization is not certified by the Secretary, the Secretary may withhold, in whole or in part, the apportionment under section 104(b)(3) attributed to the relevant metropolitan area pursuant to section 133(d)(3) and capital funds apportioned under the formula program under section 5336 of title 49. If a metropolitan planning organization remains uncertified for more than 2 consecutive years after September 30, 1994, 20 percent of the apportionment attributed to that metropolitan area under section 133(d)(3) and capital funds apportioned under the formula program under section 5336 of title 49 shall be withheld. The withheld apportionments shall be restored to the metropolitan area at such time as the metropolitan planning organization is certified by the Secretary. The Secretary shall not withhold certification under this section based upon the policies and criteria established by a metropolitan planning organization or transit grant recipient for determining the feasibility of private enterprise participation in accordance with section 5306(a) of title 49.”
 
@@ -598,7 +598,7 @@ Subsecs. (<i>l</i>), (m). Pub. L. 103–429, §3(5)(C), substituted “chapter 5
 
 Subsecs. (b), (c). Pub. L. 95–599, §169(b), added subsec. (b) and redesignated former subsec. (b) as (c).
 
-1970—Pub. L. 91–605 designated existing provisions as subsec. (a), inserted provision prohibiting a highway construction project in any urban area of 50,000 or more population unless responsible public officials of such area have been consulted and their views considered with respect to the corridor, the location, and the design of the project, and added subsec. (b).
+1970—Pub. L. 91–605 designated existing provisions as subsec. (a), inserted provision prohibiting a highway construction project in any urban area of 50,000 or morepopulation unless responsible public officials of such area have been consulted and their views considered with respect to the corridor, the location, and the design of the project, and added subsec. (b).
 
 #### Effective Date of 1998 Amendment
 

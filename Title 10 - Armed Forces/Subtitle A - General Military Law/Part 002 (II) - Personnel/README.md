@@ -24,6 +24,7 @@
 | [<b>53.</b>](Chapter%20053%20-%20Miscellaneous%20Rights%20and%20Benefits/README.md) | <b>Miscellaneous Rights and Benefits</b> | <b>1031</b> |
 | [<b>54.</b>](Chapter%20054%20-%20Commissary%20and%20Exchange%20Benefits/README.md) | <b>Commissary and Exchange Benefits</b> | <b>1061</b> |
 | [<b>55.</b>](Chapter%20055%20-%20Medical%20and%20Dental%20Care/README.md) | <b>Medical and Dental Care</b> | <b>1071</b> |
+| [<b>56.</b>](Chapter%20056%20-%20Department%20of%20Defense%20Medicare-Eligible%20Retiree%20Health%20Care%20Fund/README.md) | <b>Department of Defense Medicare-Eligible Retiree Health Care Fund</b> | <b>1111</b> |
 | [<b>57.</b>](Chapter%20057%20-%20Decorations%20and%20Awards/README.md) | <b>Decorations and Awards</b> | <b>1121</b> |
 | [<b>58.</b>](Chapter%20058%20-%20Benefits%20and%20Services%20for%20Members%20Being%20Separated%20or%20Recently%20Separated/README.md) | <b>Benefits and Services for Members Being Separated or Recently Separated</b> | <b>1141</b> |
 | [<b>59.</b>](Chapter%20059%20-%20Separation/README.md) | <b>Separation</b> | <b>1161</b> |
@@ -51,6 +52,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2000—Pub. L. 106–398, §1 \[\[div. A\], title VII, §713(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–184, added item for chapter 56.
 
 1999—Pub. L. 106–65, div. A, title V, §586(c)(1), title VII, §721(c)(2), Oct. 5, 1999, 113 Stat. 638, 694, added item for chapter 50 and substituted “Deceased Personnel” for “Death Benefits” and “1471” for “1475” in item for chapter 75.
 
@@ -98,16 +101,6 @@ Pub. L. 102–25, title VII, §701(e)(1), Apr. 6, 1991, 105 Stat. 114, added ite
 
 1958—Pub. L. 85–861, §§1(21), (26), (33), 33(a)(4)(B), Sept. 2, 1958, 72 Stat. 1443, 1450, 1455, 1564, substituted “General Service Requirements” for “Service Requirements for Reserves” in item for chapter 37, “971” for “\[No present sections\]” in item for chapter 49, “Medical and Dental Care” for “Voting by Members of Armed Forces” in item for chapter 55, and struck out “Care of the Dead” and substituted “1475” for “1481” in item for chapter 75.
 
-#### Cross References
-
-Particular provisions relating to personnel—
-
-&emsp;&emsp;Coast Guard, see section 211 et seq. of Title 14, Coast Guard.
-
-&emsp;&emsp;National Guard, see section 301 et seq. of Title 32, National Guard.
-
-&emsp;&emsp;Naval Reserve and Marine Corps Reserve, see section 5441 et seq. of this title.
-
 
 ---
 
@@ -135,6 +128,7 @@ Particular provisions relating to personnel—
 - [Chapter 053 - Miscellaneous Rights and Benefits](Chapter%20053%20-%20Miscellaneous%20Rights%20and%20Benefits/README.md)
 - [Chapter 054 - Commissary and Exchange Benefits](Chapter%20054%20-%20Commissary%20and%20Exchange%20Benefits/README.md)
 - [Chapter 055 - Medical and Dental Care](Chapter%20055%20-%20Medical%20and%20Dental%20Care/README.md)
+- [Chapter 056 - Department of Defense Medicare-Eligible Retiree Health Care Fund](Chapter%20056%20-%20Department%20of%20Defense%20Medicare-Eligible%20Retiree%20Health%20Care%20Fund/README.md)
 - [Chapter 057 - Decorations and Awards](Chapter%20057%20-%20Decorations%20and%20Awards/README.md)
 - [Chapter 058 - Benefits and Services for Members Being Separated or Recently Separated](Chapter%20058%20-%20Benefits%20and%20Services%20for%20Members%20Being%20Separated%20or%20Recently%20Separated/README.md)
 - [Chapter 059 - Separation](Chapter%20059%20-%20Separation/README.md)

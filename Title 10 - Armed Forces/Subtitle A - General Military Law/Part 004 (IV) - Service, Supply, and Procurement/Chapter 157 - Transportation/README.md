@@ -8,7 +8,7 @@
 | [2633\.](%C2%A7%2002633%20-%20Stevedoring%20and%20terminal%20services%20vessels%20carrying%20cargo%20or%20passengers%20sponsored%20by%20military%20department.md) | Stevedoring and terminal services: vessels carrying cargo or passengers sponsored by military department. |
 | [2634\.](%C2%A7%2002634%20-%20Motor%20vehicles%20transportation%20or%20storage%20for%20members%20on%20change%20of%20permanent%20station%20or%20extended%20deployment.md) | Motor vehicles: transportation or storage for members on change of permanent station or extended deployment. |
 | [2635\.](%C2%A7%2002635%20-%20Medical%20emergency%20helicopter%20transportation%20assistance%20and%20limitation%20of%20individual%20liability.md) | Medical emergency helicopter transportation assistance and limitation of individual liability. |
-| [2636\.](%C2%A7%2002636%20-%20Deductions%20from%20carriers%20because%20of%20loss%20or%20damage%20to%20material%20in%20transit.md) | Deductions from carriers because of loss or damage to material in transit. |
+| [2636\.](%C2%A7%2002636%20-%20Deductions%20from%20amounts%20due%20carriers.md) | Deductions from amounts due carriers. |
 | [2637\.](%C2%A7%2002637%20-%20Transportation%20in%20certain%20areas%20outside%20the%20United%20States.md) | Transportation in certain areas outside the United States. |
 | [2638\.](%C2%A7%2002638%20-%20Transportation%20of%20civilian%20clothing%20of%20enlisted%20members.md) | Transportation of civilian clothing of enlisted members. |
 | [2639\.](%C2%A7%2002639%20-%20Transportation%20to%20and%20from%20school%20for%20certain%20minor%20dependents.md) | Transportation to and from school for certain minor dependents. |
@@ -24,6 +24,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2000—Pub. L. 106–398, §1 \[\[div. A\], title X, §1009(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–251, substituted “Deductions from amounts due carriers” for “Deductions from carriers because of loss or damage to material in transit” in item 2636.
 
 1998—Pub. L. 105–262, title VIII, §8121(b), Oct. 17, 1998, 112 Stat. 2332, added item 2641a.
 
@@ -70,7 +72,7 @@ Pub. L. 99–550, §2(a)(2), Oct. 27, 1986, 100 Stat. 3070, struck out item 2637
 - [&sect; 02633 - Stevedoring and terminal services vessels carrying cargo or passengers sponsored by military department](%C2%A7%2002633%20-%20Stevedoring%20and%20terminal%20services%20vessels%20carrying%20cargo%20or%20passengers%20sponsored%20by%20military%20department.md)
 - [&sect; 02634 - Motor vehicles transportation or storage for members on change of permanent station or extended deployment](%C2%A7%2002634%20-%20Motor%20vehicles%20transportation%20or%20storage%20for%20members%20on%20change%20of%20permanent%20station%20or%20extended%20deployment.md)
 - [&sect; 02635 - Medical emergency helicopter transportation assistance and limitation of individual liability](%C2%A7%2002635%20-%20Medical%20emergency%20helicopter%20transportation%20assistance%20and%20limitation%20of%20individual%20liability.md)
-- [&sect; 02636 - Deductions from carriers because of loss or damage to material in transit](%C2%A7%2002636%20-%20Deductions%20from%20carriers%20because%20of%20loss%20or%20damage%20to%20material%20in%20transit.md)
+- [&sect; 02636 - Deductions from amounts due carriers](%C2%A7%2002636%20-%20Deductions%20from%20amounts%20due%20carriers.md)
 - [&sect; 02637 - Transportation in certain areas outside the United States](%C2%A7%2002637%20-%20Transportation%20in%20certain%20areas%20outside%20the%20United%20States.md)
 - [&sect; 02638 - Transportation of civilian clothing of enlisted members](%C2%A7%2002638%20-%20Transportation%20of%20civilian%20clothing%20of%20enlisted%20members.md)
 - [&sect; 02639 - Transportation to and from school for certain minor dependents](%C2%A7%2002639%20-%20Transportation%20to%20and%20from%20school%20for%20certain%20minor%20dependents.md)

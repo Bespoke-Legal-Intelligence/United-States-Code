@@ -16,7 +16,7 @@
 
 &emsp;&emsp;&emsp;(i) preparing and disseminating information explaining such programs; and
 
-&emsp;&emsp;&emsp;(ii) working in cooperation with other Federal, State, and private agencies and nonprofit organizations that serve disabled beneficiaries, and with agencies and organizations that focus on vocational rehabilitation and work-related training and counseling;
+&emsp;&emsp;&emsp;(ii) working in cooperation with other Federal, State, and private agencies and nonprofit organizations that serve disabledbeneficiaries, and with agencies and organizations that focus on vocational rehabilitation and work-related training and counseling;
 
 &emsp;&emsp;(C) establish a corps of trained, accessible, and responsive work incentives specialists within the Social Security Administration who will specialize in disability work incentives under subchapters II and XVI of this chapter for the purpose of disseminating accurate information with respect to inquiries and issues relating to work incentives to—
 
@@ -42,7 +42,7 @@
 
 #### (A) Application
 
-&emsp;&emsp;An entity shall submit an application for a grant, cooperative agreement, or contract toprovide benefits planning and assistance to the Commissioner at such time, in such manner, and containing such information as the Commissioner may determine is necessary to meet the requirements of this section.
+&emsp;&emsp;An entity shall submit an application for a grant, cooperative agreement, or contract to provide benefits planning and assistance to the Commissioner at such time, in such manner, and containing such information as the Commissioner may determine is necessary to meet the requirements of this section.
 
 #### (B) Statewideness
 
@@ -58,7 +58,7 @@
 
 &emsp;&emsp;&emsp;The agencies and entities described in this clause are the following:
 
-&emsp;&emsp;&emsp;&emsp;(I) Any public or private agency or organization (including Centers for Independent Living established under title VII of the Rehabilitation Act of 1973 (29 U.S.C. 796 et seq.), protection and advocacy organizations, client assistance programs established in accordance with section 112 of the Rehabilitation Act of 1973 (29 U.S.C. 732), and State Developmental Disabilities Councils established in accordance with section 6024 of this title) that the Commissioner determines satisfies the requirements of this section.
+&emsp;&emsp;&emsp;&emsp;(I) Any public or private agency or organization (including Centers for Independent Living established under title VII of the Rehabilitation Act of 1973 (29 U.S.C. 796 et seq.), protection and advocacy organizations, client assistance programs established in accordance with section 112 of the Rehabilitation Act of 1973 (29 U.S.C. 732), and State Developmental Disabilities Councils established in accordance with section 6024 <sup>2</sup> of this title) that the Commissioner determines satisfies the requirements of this section.
 
 &emsp;&emsp;&emsp;&emsp;(II) The State agency administering the State program funded under part A of subchapter IV of this chapter.
 
@@ -120,11 +120,15 @@ Section 101(f) of the Ticket to Work and Work Incentives Improvement Act of 1999
 
 The Individuals with Disabilities Education Act, referred to in subsec. (a)(3), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
-The Workforce Investment Act of 1998, referred to in subsec. (a)(3), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat.936, as amended. Subtitle B of title I of the Act is classified generally to subchapter II (§2811 et seq.) of chapter 30 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+The Workforce Investment Act of 1998, referred to in subsec. (a)(3), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Subtitle B of title I of the Act is classified generally to subchapter II (§2811 et seq.) of chapter 30 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
 The Rehabilitation Act of 1973, referred to in subsec. (b)(1)(C)(ii)(I), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended. Title VII of the Act is classified generally to subchapter VII (§796 et seq.) of chapter 16 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
+
+Section 6024 of this title, referred to in subsec. (b)(1)(C)(ii)(I), was repealed by Pub. L. 106–402, title IV, §401(a), Oct. 30, 2000, 114 Stat. 1737. See section 15025 of this title.
 
 Part A of subchapter IV of this chapter, referred to in subsec. (b)(1)(C)(ii)(II), is classified to section 601 et seq. of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subparagraph”.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

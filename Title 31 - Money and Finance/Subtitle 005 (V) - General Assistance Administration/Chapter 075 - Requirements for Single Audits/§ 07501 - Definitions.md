@@ -24,7 +24,7 @@
 
 &emsp;(9) “Indian tribe” means any Indian tribe, band, nation, or other organized group or community, including any Alaskan Native village or regional or village corporation (as defined in, or established under, the Alaskan Native Claims Settlement Act) that is recognized by the United States as eligible for the special programs and services provided by the United States to Indians because of their status as Indians;
 
-&emsp;(10) “internal controls” means a process, effected by an entity's management and otherpersonnel, designed to provide reasonable assurance regarding the achievement of objectives in the following categories:
+&emsp;(10) “internal controls” means a process, effected by an entity's management and other personnel, designed to provide reasonable assurance regarding the achievement of objectives in the following categories:
 
 &emsp;&emsp;(A) Effectiveness and efficiency of operations.<sup>1</sup>
 

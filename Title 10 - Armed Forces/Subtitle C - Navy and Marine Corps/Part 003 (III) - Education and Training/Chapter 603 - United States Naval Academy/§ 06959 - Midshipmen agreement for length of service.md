@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(B) will remain in that reserve component until completion of the commissioned service obligation of the midshipman.
 
-(b)(1) The Secretary of the Navy may transfer to the Naval Reserve or the Marine Corps Reserve, and may order to active duty for such period of time as the Secretary prescribes (but not to exceed four years), a midshipman who breaches an agreement under subsection (a). The period of time for which a midshipman is ordered to active duty under this paragraph may be determined without regard to section 651(a) of this title.
+(b)(1) The Secretary of the Navy may transfer to the Naval Reserve or the Marine Corps Reserve, and may order to active duty for such period of time as the Secretary prescribes (but not to exceed four years), a midshipman who breaches an agreement under subsection (a). Theperiod of time for which a midshipman is ordered to active duty under this paragraph may be determined without regard to section 651(a) of this title.
 
 (2) A midshipman who is transferred to the Naval Reserve or Marine Corps Reserve under paragraph (1) shall be transferred in an appropriate enlisted grade or rating, as determined by the Secretary.
 
@@ -72,7 +72,7 @@ The words “Hereafter” and “appointed to the United States Naval Academy”
 
 > If the midshipman is a minor and has parents or a guardian, he may sign the agreement only with the consent of the parents or guardian.
 
-“(b) A midshipman who does not fulfill his agreement under subsection (a) may be transferred by the Secretary of the Navy to the Naval Reserve or the MarineCorps Reserve in an appropriate enlisted grade or rating, and, notwithstanding section 651 of this title, may be ordered to active duty to serve in that grade or rating for such period of time as the Secretary prescribes but not for more than four years.”
+“(b) A midshipman who does not fulfill his agreement under subsection (a) may be transferred by the Secretary of the Navy to the Naval Reserve or the Marine Corps Reserve in an appropriate enlisted grade or rating, and, notwithstanding section 651 of this title, may be ordered to active duty to serve in that grade or rating for such period of time as the Secretary prescribes but not for more than four years.”
 
 1984—Subsec. (a). Pub. L. 98–525, §541(b), struck out “, unless sooner separated,” in introductory text preceding “he will”; inserted in cl. (1) “unless sooner separated from the Naval Academy,”; and inserted “, unless sooner separated from the naval service,” in cls. (2) and (3).
 
@@ -92,7 +92,7 @@ Amendment by Pub. L. 101–189 applicable to persons who are first admitted to o
 
 #### Effective Date of 1985 Amendment
 
-Amendment by Pub. L. 99–145 (other than with respect to the authority of the Secretary of the Navy to prescribe regulations) effective on the date on which regulations prescribed by the Secretary take effect and applicable to agreements entered into under this section on or after the effective date of such regulations and also with respect to each such agreement that was entered into before the effective date of such regulations by an individual who is a midshipman on such date, see section 512(e) of Pub. L. 99–145, set out as a note under section 4348 of this title.
+Amendment by Pub. L. 99–145 (other than with respect to the authority of the Secretary of the Navy toprescribe regulations) effective on the date on which regulations prescribed by the Secretary take effect and applicable to agreements entered into under this section on or after the effective date of such regulations and also with respect to each such agreement that was entered into before the effective date of such regulations by an individual who is a midshipman on such date, see section 512(e) of Pub. L. 99–145, set out as a note under section 4348 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -105,8 +105,4 @@ For effective date of amendment by Pub. L. 88–276, see section 5(c) of Pub. L.
 #### Regulations Implementing 1985 Amendment
 
 Secretary of the Navy to prescribe regulations required by subsec. (c) of this section as added by Pub. L. 99–145 not later than the end of the 90-day period beginning on Nov. 8, 1985, see section 512(d) of Pub. L. 99–145, set out as a note under section 4348 of this title.
-
-#### Cross References
-
-Effect upon enlisted status of acceptance of appointment as midshipman, see section 516 of this title.
 

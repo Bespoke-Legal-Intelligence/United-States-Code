@@ -16,7 +16,7 @@ Section is comprised of part of section 3 of act June 17, 1902. Remainder of suc
 
 #### Amendments
 
-1976—Pub. L. 94–579 struck out provisions that the Secretary of the Interior withdraw from public entry lands required for irrigation works contemplated under the Act of June 17, 1902, prior to the giving of the public notice provided for in section 419 of this title, that he restore such withdrawn lands to public entry when he deemed such lands unnecessary for the purposes of such Act, and that he withdraw from entry, except under the homestead laws, any public lands believed to be susceptible of irrigation from said works prior to the beginning of surveys for any contemplated irrigation works.
+1976—Pub. L. 94–579 struck out provisions that the Secretary of the Interior withdraw from public entry lands required for irrigation works contemplated under the Act of June 17, 1902, prior to the giving of the publicnotice provided for in section 419 of this title, that he restore such withdrawn lands to public entry when he deemed such lands unnecessary for the purposes of such Act, and that he withdraw from entry, except under the homestead laws, any public lands believed to be susceptible of irrigation from said works prior to the beginning of surveys for any contemplated irrigation works.
 
 #### Effective Date of 1976 Amendment
 
@@ -29,14 +29,6 @@ Amendment by Pub. L. 94–579 not to be construed as terminating any valid lease
 #### Section as Unaffected by Submerged Lands Act
 
 Provisions of this section as not amended, modified or repealed by the Submerged Lands Act, see section 1303 of this title.
-
-#### Cross References
-
-Entry on unreserved public lands withdrawn or classified as coal lands or valuable as coal, see section 83 of Title 30, Mineral Lands and Mining.
-
-Grand Teton National Park, withdrawn lands within exterior boundary, use for reclamation purposes, see section 406d–5 of Title 16, Conservation.
-
-Lands improved at expense of reclamation fund and not needed for reclamation projects to be appraised and sold at public auction for not less than appraised value, see section 375 of this title.
 
 #### Section Referred to in Other Sections
 

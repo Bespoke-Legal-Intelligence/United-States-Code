@@ -1,9 +1,5 @@
 ### <b>CHAPTER 3—RADIOTELEGRAPHS</b>
 
-#### Cross References
-
-Communications Act of 1934, see section 151 et seq. of this title.
-
 
 ---
 

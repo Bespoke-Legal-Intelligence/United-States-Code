@@ -1,8 +1,6 @@
 ### §80a–45. Reports by Commission; hiring and leasing authority
 
-#### (a) Annual report
-
-The Commission shall submit annually a report to the Congress covering the work of the Commission for the preceding year and including such information, data, and recommendations for further legislation in connection with the matters covered by this subchapter as it may find advisable.
+#### (a) Omitted
 
 #### (b) Hiring and leasing authority
 
@@ -13,6 +11,10 @@ The provisions of section 78d(b) of this title shall be applicable with respect 
 &emsp;(2) to lease and allocate such real property as may be necessary for carrying out its functions under this subchapter.
 
 (Aug. 22, 1940, ch. 686, title I, §46, 54 Stat. 845; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Pub. L. 101–550, title I, §104(c), Nov. 15, 1990, 104 Stat. 2714.)
+
+#### Codification
+
+Subsection (a), which required the Securities and Exchange Commission to submit an annual report to Congress on the work of the Commission, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 191 of House Document No. 103–7.
 
 #### Amendments
 

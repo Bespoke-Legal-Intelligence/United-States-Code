@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(A) The present value of the future benefits payable from the Fund for amounts attributable to increased amounts of educational assistance authorized under section 3015(d) of title 38 to persons who were not on active duty on July 1, 1985, and who during such period enter on active duty.
 
-&emsp;&emsp;(B) The present value of the future benefits payable from the Fund for amounts attributable to educational assistance authorized under subchapter III of chapter 30 of title 38 to persons who were not on active duty on July 1, 1985, and who during such period—
+&emsp;&emsp;(B) The present value of the future benefits payable from the Fund for amounts attributable to educational assistance authorized under subchapter III of chapter 30 of title 38 to persons who were not on activeduty on July 1, 1985, and who during such period—
 
 &emsp;&emsp;&emsp;(i) enter a fourth year of active duty, in the case of persons eligible for basic educational assistance under section 3011 of such title; or
 
@@ -30,7 +30,7 @@
 
 (e)(1)(A) There is established in the Department of Defense a Department of Defense Education Benefits Board of Actuaries (hereinafter in this section referred to as the “Board”). The Board shall consist of three members, who shall be appointed by the Secretary of Defense from among qualified professional actuaries who are members of the Society of Actuaries.
 
-(B)(i) Except as provided in clause (ii), the members of the Board shall serve for a term offifteen years, except that a member of the Board appointed to fill a vacancy occurring before the end of the term for which his predecessor was appointed shall only serve until the end of such term. A member may serve after the end of his term until his successor has taken office. A member of the Board may be removed by the Secretary of Defense for misconduct or failure to perform functions vested in the Board, and for no other reason.
+(B)(i) Except as provided in clause (ii), the members of the Board shall serve for a term of fifteen years, except that a member of the Board appointed to fill a vacancy occurring before the end of the term for which his predecessor was appointed shall only serve until the end of such term. A member may serve after the end of his term until his successor has taken office. A member of the Board may be removed by the Secretary of Defense for misconduct or failure to perform functions vested in the Board, and for no other reason.
 
 (ii) Of the members of the Board who are first appointed under this paragraph, one each shall be appointed for terms ending five, ten, and fifteen years, respectively, after the date of appointment, as designated by the Secretary of Defense at the time of appointment.
 
@@ -54,7 +54,7 @@
 
 (6) All determinations under this subsection shall be made using methods and assumptions approved by the Board of Actuaries (including assumptions of interest rates and inflation) and in accordance with generally accepted actuarial principles and practices.
 
-(g)(1) The Secretary of Defense and the Secretary of the Department in which the Coast Guard is operating shall pay into the Fund each month the amount that, based upon the most recent actuarial valuation of the education programs described in subsection (b)(1), is equal to the actual total normal cost for the preceding month.
+(g)(1) The Secretary of Defense and the Secretary of the Department in which the CoastGuard is operating shall pay into the Fund each month the amount that, based upon the most recent actuarial valuation of the education programs described in subsection (b)(1), is equal to the actual total normal cost for the preceding month.
 
 (2) The Secretary of Defense and the Secretary of the Department in which the Coast Guard is operating shall pay into the Fund at the beginning of each fiscal year (or as soon thereafter as appropriations are available for such purpose) the sum of the following:
 

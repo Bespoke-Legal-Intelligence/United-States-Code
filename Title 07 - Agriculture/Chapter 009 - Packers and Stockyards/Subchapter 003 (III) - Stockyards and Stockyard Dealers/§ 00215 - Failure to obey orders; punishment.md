@@ -10,7 +10,3 @@
 
 Act June 25, 1948, eff. Sept. 1, 1948, substituted “United States attorneys” for “district attorneys” in subsec. (a). See section 541 of Title 28, Judiciary and Judicial Procedure, and Historical and Revision Notes thereunder.
 
-#### Cross References
-
-Jurisdiction of district courts of actions for recovery of forfeitures, see section 1355 of Title 28, Judiciary and Judicial Procedure.
-

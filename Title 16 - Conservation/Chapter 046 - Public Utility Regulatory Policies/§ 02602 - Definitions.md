@@ -22,7 +22,7 @@ As used in this Act, except as otherwise specifically provided—
 
 &emsp;(7) The term “Federal agency” means an executive agency (as defined in section 105 of title 5).
 
-&emsp;(8) The term “load management technique” means any technique (other than a time-of-day or seasonal rate) to reduce the maximum kilowatt demand on the electric utility, including ripple or radio control mechanisms, and other types of interruptible electric service, energy storage devices, and load-limiting devices.
+&emsp;(8) The term “load management technique” means any technique (other than a time-of-day or seasonal rate) to reduce the maximumkilowatt demand on the electric utility, including ripple or radio control mechanisms, and other types of interruptible electric service, energy storage devices, and load-limiting devices.
 
 &emsp;(9) The term “nonregulated electric utility” means any electric utility other than a State regulated electric utility.
 

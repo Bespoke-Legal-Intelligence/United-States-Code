@@ -40,7 +40,3 @@ In subsection (a) the word “naval” is omitted as surplusage.
 
 In subsection (b) the words “except the authority to prescribe regulations” are omitted, since 34 U.S.C. 606 contains no authority for the Secretary of the Navy to prescribe regulations for the administration of that section.
 
-#### Cross References
-
-Expenses and rewards for apprehension and delivery of deserters, prisoners, and members absent without leave, see section 956 of this title.
-

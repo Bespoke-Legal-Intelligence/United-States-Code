@@ -98,7 +98,7 @@ Subsec. (b). Pub. L. 97–35, §2709(c)(2), substituted provisions relating to n
 
 Subsec. (c). Pub. L. 97–35, §2709(c)(3), (4), in par. (1) inserted reference to designation under subsec. (b)(3) or (4) of this section, and in par. (2) substituted “254n” for “294v”.
 
-Subsec. (d). Pub. L. 97–35, §2709(c)(5), inserted provision relating to individuals who are officers in the Service or civilian employees of the United States, and substituted reference to sections 254d to 254h, 254j, and 254k of this title, for reference to subpart II of part D of subchapter II of this chapter.
+Subsec. (d). Pub. L. 97–35, §2709(c)(5), inserted provision relating to individuals who are officers in the Service or civilian employees of the United States, and substituted reference to sections 254d to 254h, 254j, and254k of this title, for reference to subpart II of part D of subchapter II of this chapter.
 
 Subsec. (e). Pub. L. 97–35, §2709(c)(6), substituted provisions respecting mandatory determination of service requirement, for provisions respecting discretionary determination of service requirement.
 
@@ -110,7 +110,7 @@ Subsec. (b)(5)(B). Pub. L. 96–76, §202(b)(3), substituted “referred to in s
 
 #### Effective Date of 1981 Amendment
 
-Section 2709(h) of Pub. L. 97–35 provided that: “The amendments made by paragraphs (2), (3), and (5)(B) ofsubsection (c) \[amending this section\] shall apply with respect to contracts entered into under the National Health Service Corps scholarship program under subpart III of part C of title VII of the Public Health Service Act \[section 294r et seq. of this title\] after the date of the enactment of this Act \[Aug. 13, 1981\]. An individual who before such date has entered into such a contract and who has not begun the period of obligated service required under such contract shall be given the opportunity to revise such contract to permit the individual to serve such period as a member of the National Health Service Corps who is not an employee of the United States.”
+Section 2709(h) of Pub. L. 97–35 provided that: “The amendments made by paragraphs (2), (3), and (5)(B) of subsection (c) \[amending this section\] shall apply with respect to contracts entered into under the National Health Service Corps scholarship program under subpart III of part C of title VII of the Public Health Service Act \[section 294r et seq. of this title\] after the date of the enactment of this Act \[Aug. 13, 1981\]. An individual who before such date has entered into such a contract and who has not begun the period of obligated service required under such contract shall be given the opportunity to revise such contract to permit the individual to serve such period as a member of the National Health Service Corps who is not an employee of the United States.”
 
 #### Effective Date
 
@@ -134,7 +134,7 @@ Pub. L. 99–500, §101(h) \[title II\], Oct. 18, 1986, 100 Stat. 1783–242, 17
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 210, 242a, 254n, 254<i>o</i>, 254q, 288–2, 288–5, 293b, 11709 of this title; title 25 sections 1613a, 1616e, 1621p.
+This section is referred to in sections 254n, 254<i>o</i>, 287c–33, 288–2, 288–5, 288–5a, 288–6, 293b, 11709 of this title; title 25 sections 1613a, 1616e, 1621p.
 
 <i><sup>1</sup></i><i> See Codification note below.</i>
 

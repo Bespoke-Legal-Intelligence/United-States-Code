@@ -2,7 +2,7 @@
 
 #### (a) Authorized purposes; term; approval by Secretary
 
-Any restricted Indian lands, whether tribally, or individually owned, may be leased by the Indian owners, with the approval of the Secretary of the Interior, for public, religious, educational, recreational, residential, or business purposes, including the development or utilization of natural resources in connection with operations under such leases, for grazing purposes, and for those farming purposes which require the making of a substantial investment in the improvement of the land for the production of specialized crops as determined by said Secretary. All leases so granted shall be for a term of not to exceed twenty-five years, except leases of land located outside the boundaries of Indian reservations in the State of New Mexico, leases of land on the Agua Caliente (Palm Springs) Reservation, the Dania Reservation, the Pueblo of Santa Ana (with the exception of the lands known as the “Santa Ana Pueblo Spanish Grant”) <sup>1</sup> the Moapa Indian reservation, the Swinomish Indian Reservation, the Southern Ute Reservation, the Fort Mojave Reservation, the Burns Paiute Reservation, the Coeur d'Alene Indian Reservation, the Kalispel Indian Reservation, the pueblo of Cochiti, the pueblo of Pojoaque, the pueblo of Tesuque, the pueblo of Zuni, the Hualapai Reservation, the Spokane Reservation, the San Carlos Apache Reservation, Yavapai-Prescott <sup>2</sup> Community Reservation, the Pyramid Lake Reservation, the Gila River Reservation, the Soboba Indian Reservation, the Viejas Indian Reservation, the Tulalip Indian Reservation, the Navajo Reservation, the Cabazon Indian Reservation, the Mille Lacs Indian Reservation with respect to a lease between an entity established by the Mille Lacs Band of Chippewa Indians and the Minnesota Historical Society, leases of the lands comprising the Moses Allotment Numbered 10, Chelan County, Washington,,<sup>3</sup> and lands held in trust for the Las Vegas Paiute Tribe of Indians, and lands held in trust for theTwenty-nine Palms Band of Luiseno Mission Indians, and lands held in trust for the Reno Sparks Indian Colony,,,<sup>3</sup> lands held in trust for the Cherokee Nation of Oklahoma, lands held in trust for the Pueblo of Santa Clara, lands held in trust for the Confederated Tribes of the Colville Reservation, lands held in trust for the Cahuilla Band of Indians of California, lands held in trust for the Confederated Tribes of the Grand Ronde Community of Oregon, and the lands held in trust for the Confederated Salish and Kootenai Tribes of the Flathead Reservation, Montana, and leases to the Devils Lake Sioux Tribe, or any organization of such tribe, of land on the Devils Lake Sioux Reservation, which may be for a term of not to exceed ninety-nine years, and except leases of land for grazing purposes which may be for a term of not to exceed ten years. Leases for public, religious, educational, recreational, residential, or business purposes (except leases the initial term of which extends for more than seventy-four years) with the consent of both parties may include provisions authorizing their renewal for one additional term of not to exceed twenty-five years, and all leases and renewals shall be made under such terms and regulations as may be prescribed by the Secretary of the Interior. Prior to approval of any lease or extension of an existing lease pursuant to this section, the Secretary of the Interior shall first satisfy himself that adequate consideration has been given to the relationship between the use of the leased lands and the use of neighboring lands; the height, quality, and safety of any structures or other facilities to be constructed on such lands; the availability of police and fire protection and other services; the availability of judicial forums for all criminal and civil causes arising on the leased lands; and the effect on the environment of the uses to which the leased lands will be subject.
+Any restricted Indian lands, whether tribally, or individually owned, may be leased by the Indian owners, with the approval of the Secretary of the Interior, for public, religious, educational, recreational, residential, or business purposes, including the development or utilization of natural resources in connection with operations under such leases, for grazing purposes, and for those farming purposes which require the making of a substantial investment in the improvement of the land for the production of specialized crops as determined by said Secretary. All leases so granted shall be for a term of not to exceed twenty-five years, except leases of land located outside the boundaries of Indian reservations in the State of New Mexico, leases of land on the Agua Caliente (Palm Springs) Reservation, the Dania Reservation, the Pueblo of Santa Ana (with the exception of the lands known as the “Santa Ana Pueblo Spanish Grant”) <sup>1</sup> the Moapa Indian reservation, the Swinomish Indian Reservation, the Southern Ute Reservation, the Fort Mojave Reservation, the Burns Paiute Reservation, the Coeur d'Alene Indian Reservation, the Kalispel Indian Reservation, the pueblo of Cochiti, the pueblo of Pojoaque, the pueblo of Tesuque, the pueblo of Zuni, the Hualapai Reservation, the Spokane Reservation, the San Carlos Apache Reservation, Yavapai-Prescott <sup>2</sup> Community Reservation, the Pyramid Lake Reservation, the Gila River Reservation, the Soboba Indian Reservation, the Viejas Indian Reservation, the Tulalip Indian Reservation, the Navajo Reservation, the Cabazon Indian Reservation, the Mille Lacs Indian Reservation with respect to a lease between an entity established by the Mille Lacs Band of Chippewa Indians and the Minnesota Historical Society, leases of the lands comprising the Moses Allotment Numbered 10, Chelan County, Washington,,<sup>3</sup> and lands held in trust for the Las Vegas Paiute Tribe of Indians, and lands held in trust for the Twenty-nine Palms Band of Luiseno Mission Indians, and lands held in trust for the Reno Sparks Indian Colony, lands held in trust for the Torres Martinez Desert Cahuilla Indians, lands held in trust for the Guidiville Band of Pomo Indians of the Guidiville Indian Rancheria, lands held in trust for the Confederated Tribes of the Umatilla Indian Reservation,,<sup>3</sup> lands held in trust for the Cherokee Nation of Oklahoma, lands held in trust for the Pueblo of Santa Clara, lands held in trust for the Confederated Tribes of the Colville Reservation, lands held in trust for the Cahuilla Band of Indians of California, lands held in trust for the Confederated Tribes of the Grand Ronde Community of Oregon, and the lands held in trust for the Confederated Salish and Kootenai Tribes of the Flathead Reservation, Montana, and leases to the Devils Lake Sioux Tribe, or any organization of such tribe, of land on the Devils Lake Sioux Reservation, which may be for a term of not to exceed ninety-nine years, and except leases of land for grazing purposes which may be for a term of not to exceed ten years. Leases for public, religious, educational, recreational, residential, or business purposes (except leases the initial term of which extends for more than seventy-four years) with the consent of both parties may include provisions authorizing their renewal for one additional term of not to exceed twenty-five years, and all leases and renewals shall be made under such terms and regulations as may be prescribed by the Secretary of the Interior. Prior to approval of any lease or extension of an existing lease pursuant to this section, the Secretary of the Interior shall first satisfy himself that adequate consideration has been given to the relationship between the use of the leased lands and the use of neighboring lands; the height, quality, and safety of any structures or other facilities to be constructedon such lands; the availability of police and fire protection and other services; the availability of judicial forums for all criminal and civil causes arising on the leased lands; and the effect on the environment of the uses to which the leased lands will be subject.
 
 #### (b) Leases involving Tulalip Tribes
 
@@ -16,17 +16,75 @@ Notwithstanding subsection (a) of this section, a lease of land by the Hopi Trib
 
 For purposes of this section—
 
-&emsp;(1) the term “Hopi Partitioned Lands” means lands located in the Hopi Partitioned Area, as defined in section 168.1(g) of title 25, Code of Federal Regulations (as in effect on October 11, 1996); and
+&emsp;(1) the term “Hopi Partitioned Lands” means lands located in the Hopi Partitioned Area, as defined in section 168.1(g) of title 25, Code of Federal Regulations (as in effect on October 11, 1996);
 
-&emsp;(2) the term “Navajo Indians” means members of the Navajo Tribe.
+&emsp;(2) the term “Navajo Indians” means members of the Navajo Tribe;
 
-(Aug. 9, 1955, ch. 615, §1, 69 Stat. 539; Pub. L. 86–326, Sept. 21, 1959, 73 Stat. 597; Pub. L. 86–505, §2, June 11, 1960, 74 Stat. 199; Pub. L. 87–375, Oct. 4, 1961, 75 Stat. 804; Pub. L. 87–785, Oct. 10, 1962, 76 Stat. 805; Pub. L. 88–167, Nov. 4, 1963, 77 Stat. 301; Pub. L. 89–408, Apr. 27, 1966, 80 Stat. 132; Pub. L. 90–182, Dec. 8, 1967, 81 Stat. 559; Pub. L. 90–184, Dec. 10, 1967, 81 Stat. 560; Pub. L. 90–335, §1(f), June 10, 1968, 82 Stat. 175; Pub. L. 90–355, June 20, 1968, 82 Stat. 242; Pub. L. 90–534, §6, Sept. 28, 1968, 82 Stat. 884; Pub. L. 90–570, Oct. 12, 1968, 82 Stat. 1003; Pub. L. 91–274, §§2, 3, June 2, 1970, 84 Stat. 302; Pub. L. 91–275, §§1, 2, June 2, 1970, 84 Stat. 303; Pub. L. 91–557, §8, Dec. 17, 1970, 84 Stat. 1468; Pub. L. 92–182, §6, Dec. 15, 1971, 85 Stat. 626; Pub. L. 92–431, Sept. 26, 1972, 86 Stat. 723; Pub. L. 92–472, §7, Oct. 9, 1972, 86 Stat. 788; Pub. L. 92–488, §4, Oct. 13, 1972, 86 Stat. 806; Pub. L. 96–216, Mar. 27, 1980, 94 Stat. 125; Pub. L. 96–491, §3, Dec. 2, 1980, 94 Stat. 2564; Pub. L. 97–459, title I, §107, Jan. 12, 1983, 96 Stat. 2516; Pub. L. 98–70, Aug. 8, 1983, 97 Stat. 401; Pub. L. 98–203, §1(c), Dec. 2, 1983, 97 Stat. 1384; Pub. L. 99–221, §2, Dec. 26, 1985, 99 Stat. 1735; Pub. L. 99–389, §3(a), Aug. 23, 1986, 100 Stat. 829; Pub. L. 99–500, §101(h) \[title I, §122\], Oct. 18, 1986, 100 Stat. 1783–242, 1783–267, and Pub. L. 99–591, §101(h) \[title I, §122\], Oct. 30, 1986, 100 Stat. 3341–242, 3341–267; Pub. L. 99–575, §5, Oct. 28, 1986, 100 Stat. 3246; Pub. L. 101–630, title II, §201, Nov. 28, 1990, 104 Stat. 4532; Pub. L. 102–497, §5, Oct. 24, 1992, 106 Stat. 3255; Pub. L. 103–435, §5, Nov. 2, 1994, 108 Stat. 4569; Pub. L. 104–301, §9, Oct. 11, 1996, 110 Stat. 3652; Pub. L. 105–256, §1, Oct. 14, 1998, 112 Stat. 1896.)
+&emsp;(3) the term “individually owned Navajo Indian allotted land” means a single parcel of land that—
+
+&emsp;&emsp;(A) is located within the jurisdiction of the Navajo Nation;
+
+&emsp;&emsp;(B) is held in trust or restricted status by the United States for the benefit of Navajo Indians or members of another Indian tribe; and
+
+&emsp;&emsp;(C) was—
+
+&emsp;&emsp;&emsp;(i) allotted to a Navajo Indian; or
+
+&emsp;&emsp;&emsp;(ii) taken into trust or restricted status by the United States for an individual Indian;
+
+&emsp;(4) the term “interested party” means an Indian or non-Indian individual or corporation, or tribal or non-tribal government whose interests could be adversely affected by a tribal trust land leasing decision made by the Navajo Nation;
+
+&emsp;(5) the term “Navajo Nation” means the Navajo Nation government that is in existence on August 9, 1955, or its successor;
+
+&emsp;(6) the term “petition” means a written request submitted to the Secretary for the review of an action (or inaction) of the Navajo Nation that is claimed to be in violation of the approved tribal leasing regulations;
+
+&emsp;(7) the term “Secretary” means the Secretary of the Interior; and
+
+&emsp;(8) the term “tribal regulations” means the Navajo Nation regulations enacted in accordance with Navajo Nation law and approved by the Secretary.
+
+#### (e) Leases of restricted lands for the Navajo Nation
+
+(1) Any leases by the Navajo Nation for purposes authorized under subsection (a) of this section, and any amendments thereto, except a lease for the exploration, development, or extraction of any mineral resources, shall not require the approval of the Secretary if the lease is executed under the tribal regulations approved by the Secretary under this subsection and the term of the lease does not exceed—
+
+&emsp;(A) in the case of a business or agricultural lease, 25 years, except that any such lease may include an option to renew for up to two additional terms, each of which may not exceed 25 years; and
+
+&emsp;(B) in the case of a lease for public, religious, educational, recreational, or residential purposes, 75 years if such a term is provided for by the Navajo Nation through the promulgation of regulations.
+
+(2) Paragraph (1) shall not apply to individually owned Navajo Indian allotted land.
+
+(3) The Secretary shall have the authority to approve or disapprove tribal regulations referred to under paragraph (1). The Secretary shall approve such tribal regulations if such regulations are consistent with the regulations of the Secretary under subsection (a) of this section, and any amendments thereto, and provide for an environmental review process. The Secretary shall review and approve or disapprove the regulations of the Navajo Nation within 120 days of the submission of such regulations to the Secretary. Any disapproval of such regulations by the Secretary shall be accompanied by written documentation that sets forth the basis for the disapproval. Such 120-day period may be extended by the Secretary after consultation with the Navajo Nation.
+
+(4) If the Navajo Nation has executed a lease pursuant to tribal regulations under paragraph (1), the Navajo Nation shall provide the Secretary with—
+
+&emsp;(A) a copy of the lease and all amendments and renewals thereto; and
+
+&emsp;(B) in the case of regulations or a lease that permits payment to be made directly to the Navajo Nation, documentation of the lease payments sufficient to enable the Secretary to discharge the trust responsibility of the United States under paragraph (5).
+
+(5) The United States shall not be liable for losses sustained by any party to a lease executed pursuant to tribal regulations under paragraph (1), including the Navajo Nation. Nothing in this paragraph shall be construed to diminish the authority of the Secretary to take appropriate actions, including the cancellation of a lease, in furtherance of the trust obligation of the United States to the Navajo Nation.
+
+(6)(A) An interested party may, after exhaustion of tribal remedies, submit, in a timely manner, a petition to the Secretary to review the compliance of the Navajo Nation with any regulations approved under this subsection. If upon such review the Secretary determines that theregulations were violated, the Secretary may take such action as may be necessary to remedy the violation, including rescinding the approval of the tribal regulations and reassuming responsibility for the approval of leases for Navajo Nation tribal trust lands.
+
+(B) If the Secretary seeks to remedy a violation described in subparagraph (A), the Secretary shall—
+
+&emsp;(i) make a written determination with respect to the regulations that have been violated;
+
+&emsp;(ii) provide the Navajo Nation with a written notice of the alleged violation together with such written determination; and
+
+&emsp;(iii) prior to the exercise of any remedy or the rescission of the approval of the regulation involved and the reassumption of the lease approval responsibility, provide the Navajo Nation with a hearing on the record and a reasonable opportunity to cure the alleged violation.
+
+(Aug. 9, 1955, ch. 615, §1, 69 Stat. 539; Pub. L. 86–326, Sept. 21, 1959, 73 Stat. 597; Pub. L. 86–505, §2, June 11, 1960, 74 Stat. 199; Pub. L. 87–375, Oct. 4, 1961, 75 Stat. 804; Pub. L. 87–785, Oct. 10, 1962, 76 Stat. 805; Pub. L. 88–167, Nov. 4, 1963, 77 Stat. 301; Pub. L. 89–408, Apr. 27, 1966, 80 Stat. 132; Pub. L. 90–182, Dec. 8, 1967, 81 Stat. 559; Pub. L. 90–184, Dec. 10, 1967, 81 Stat. 560; Pub. L. 90–335, §1(f), June 10, 1968, 82 Stat. 175; Pub. L. 90–355, June 20, 1968, 82 Stat. 242; Pub. L. 90–534, §6, Sept. 28, 1968, 82 Stat. 884; Pub. L. 90–570, Oct. 12, 1968, 82 Stat. 1003; Pub. L. 91–274, §§2, 3, June 2, 1970, 84 Stat. 302; Pub. L. 91–275, §§1, 2, June 2, 1970, 84 Stat. 303; Pub. L. 91–557, §8, Dec. 17, 1970, 84 Stat. 1468; Pub. L. 92–182, §6, Dec. 15, 1971, 85 Stat. 626; Pub. L. 92–431, Sept. 26, 1972, 86 Stat. 723; Pub. L. 92–472, §7, Oct. 9, 1972, 86 Stat. 788; Pub. L. 92–488, §4, Oct. 13, 1972, 86 Stat. 806; Pub. L. 96–216, Mar. 27, 1980, 94 Stat. 125; Pub. L. 96–491, §3, Dec. 2, 1980, 94 Stat. 2564; Pub. L. 97–459, title I, §107, Jan. 12, 1983, 96 Stat. 2516; Pub. L. 98–70, Aug. 8, 1983, 97 Stat. 401; Pub. L. 98–203, §1(c), Dec. 2, 1983, 97 Stat. 1384; Pub. L. 99–221, §2, Dec. 26, 1985, 99 Stat. 1735; Pub. L. 99–389, §3(a), Aug. 23, 1986, 100 Stat. 829; Pub. L. 99–500, §101(h) \[title I, §122\], Oct. 18, 1986, 100 Stat. 1783–242, 1783–267, and Pub. L. 99–591, §101(h) \[title I, §122\], Oct. 30, 1986, 100 Stat. 3341–242, 3341–267; Pub. L. 99–575, §5, Oct. 28, 1986, 100 Stat. 3246; Pub. L. 101–630, title II, §201, Nov. 28, 1990, 104 Stat. 4532; Pub. L. 102–497, §5, Oct. 24, 1992, 106 Stat. 3255; Pub. L. 103–435, §5, Nov. 2, 1994, 108 Stat. 4569; Pub. L. 104–301, §9, Oct. 11, 1996, 110 Stat. 3652; Pub. L. 105–256, §1, Oct. 14, 1998, 112 Stat. 1896; Pub. L. 106–216, §1(a), June 20, 2000, 114 Stat. 343; Pub. L. 106–568, title XII, §1203, Dec. 27, 2000, 114 Stat. 2934.)
 
 #### Codification
 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+
+2000—Subsec. (a). Pub. L. 106–216 inserted “lands held in trust for the Torres Martinez Desert Cahuilla Indians, lands held in trust for the Guidiville Band of Pomo Indians of the Guidiville Indian Rancheria, lands held in trust for the Confederated Tribes of the Umatilla Indian Reservation” after “Sparks Indian Colony,”.
+
+Subsec. (d)(3) to (8). Pub. L. 106–568, §1203(1), added pars. (3) to (8).
+
+Subsec. (e). Pub. L. 106–568, §1203(2), added subsec. (e).
 
 1998—Subsec. (a). Pub. L. 105–256, in second sentence, inserted “the Cabazon Indian Reservation,” after “the Navajo Reservation,” and “lands held in trust for the Confederated Tribes of the Grand Ronde Community of Oregon,” after “lands held in trust for the Cahuilla Band of Indians of California,”.
 
@@ -96,13 +154,57 @@ Pub. L. 90–182 inserted “the Gila Reservation,” after “Pyramid Lake Rese
 
 1959—Pub. L. 86–326 substituted “except leases of land on the Agua Caliente (Palm Springs) Reservation which may be for a term of not to exceed ninety-nine years, and except leases of land for grazing purposes which may” for “excepting leases for grazing purposes, which shall”, in second sentence.
 
+#### Effective Date of 2000 Amendment
+
+Pub. L. 106–216, §1(b), June 20, 2000, 114 Stat. 343, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to any lease entered into or renewed after the date of the enactment of this Act \[June 20, 2000\].”
+
 #### Effective Date of 1986 Amendment
 
 Section 6(a) of Pub. L. 99–575 provided in part that the amendment made by Pub. L. 99–575 is effective Oct. 28, 1986.
 
+#### Short Title of 2000 Amendment
+
+Pub. L. 106–568, title XII, §1201, Dec. 27, 2000, 114 Stat. 2933, provided that: “This title \[amending this section and enacting provisions set out as a note under this section\] may be cited as the ‘Navajo Nation Trust Land Leasing Act of 2000’.”
+
 #### Short Title of 1985 Amendment
 
 Section 1 of Pub. L. 99–221 provided that: “This Act \[amending this section, section 450i of this title, section 3121 of Title 26, Internal Revenue Code, and section 410 of Title 42, The Public Health and Welfare, and enacting a provision set out as a note under section 410 of Title 42\] may be cited as the ‘Cherokee Leasing Act’.”
+
+#### Congressional Findings and Declaration of Purposes
+
+Pub. L. 106–568, title XII, §1202, Dec. 27, 2000, 114 Stat. 2933, provided that:
+
+“(a)
+
+Findings.—Recognizing the special relationship between the United States and the Navajo Nation and its members, and the Federal responsibility to the Navajo people, Congress finds that—
+
+&emsp;“(1) the third clause of section 8, Article I of the United States Constitution provides that ‘The Congress shall have Power \*  \*  \* to regulate Commerce \*  \*  \* with Indian tribes’, and, through this and other constitutional authority, Congress has plenary power over Indian affairs;
+
+&emsp;“(2) Congress, through statutes, treaties, and the general course of dealing with Indian tribes, has assumed the responsibility for the protection and preservation of Indian tribes and their resources;
+
+&emsp;“(3) the United States has a trust obligation to guard and preserve the sovereignty of Indian tribes in order to foster strong tribal governments, Indian self-determination, and economic self-sufficiency;
+
+&emsp;“(4) pursuant to the first section of the Act of August 9, 1955 (25 U.S.C. 415), Congress conferred upon the Secretary of the Interior the power to promulgate regulations governing tribal leases and to approve tribal leases for tribes according to regulations promulgated by the Secretary;
+
+&emsp;“(5) the Secretary of the Interior has promulgated the regulations described in paragraph (4) at part 162 of title 25, Code of Federal Regulations;
+
+&emsp;“(6) the requirement that the Secretary approve leases for the development of Navajo trust lands has added a level of review and regulation that does not apply to the development of non-Indian land; and
+
+&emsp;“(7) in the global economy of the 21st Century, it is crucial that individual leases of Navajo trust lands not be subject to Secretarial approval and that the Navajo Nation be able to make immediate decisions over the use of Navajo trust lands.
+
+“(b)
+
+Purposes.—The purposes of this title \[see Short Title of 2000 Amendment note above\] are as follows:
+
+&emsp;“(1) To establish a streamlined process for the Navajo Nation to lease trust lands without having to obtain the approval of the Secretary of the Interior for individual leases, except leases for exploration, development, or extraction of any mineral resources.
+
+&emsp;“(2) To authorize the Navajo Nation, pursuant to tribal regulations, which must be approved by the Secretary, to lease Navajo trust lands without the approval of the Secretary of the Interior for the individual leases, except leases for exploration, development, or extraction of any mineral resources.
+
+&emsp;“(3) To revitalize the distressed Navajo Reservation by promoting political self-determination, and encouraging economic self-sufficiency, including economic development that increases productivity and the standard of living for members of the Navajo Nation.
+
+&emsp;“(4) To maintain, strengthen, and protect the Navajo Nation's leasing power over Navajo trust lands.
+
+&emsp;“(5) To ensure that the United States is faithfully executing its trust obligation to the Navajo Nation by maintaining Federal supervision through oversight of and record keeping related to leases of Navajo Nation tribal trust lands.”
 
 #### Section Referred to in Other Sections
 

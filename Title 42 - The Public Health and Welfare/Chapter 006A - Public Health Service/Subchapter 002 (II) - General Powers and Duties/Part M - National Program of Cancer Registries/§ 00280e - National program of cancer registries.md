@@ -24,7 +24,7 @@ The Secretary, acting through the Director of the Centers for Disease Control, m
 
 &emsp;(A) Non-Federal contributions required in paragraph (1) may be in cash or in kind, fairly evaluated, including plant, equipment, or services. Amounts provided by the Federal Government, or services assisted or subsidized to any significant extent by the Federal Government, may not be included in determining the amount of such non-Federal contributions.
 
-&emsp;(B) With respect to a State in which the purpose described in subsection (a) of this section is to be carried out, the Secretary, in making a determination of the amount of non-Federal contributions provided under paragraph (1), may include only such contributions as are in excess of the amount of such contributions made by the State toward the collection of data on cancer for the fiscal year preceding the first year for which a grant under subsection (a) of this section is made with respect to the State. The Secretary may decrease theamount of non-Federal contributions that otherwise would have been required by this subsection in those cases in which the State can demonstrate that decreasing such amount is appropriate because of financial hardship.
+&emsp;(B) With respect to a State in which the purpose described in subsection (a) of this section is to be carried out, the Secretary, in making a determination of the amount of non-Federal contributions provided under paragraph (1), may include only such contributions as are in excess of the amount of such contributions made by the State toward the collection of data on cancer for the fiscal year preceding the first year for which a grant under subsection (a) of this section is made with respect to the State. The Secretary may decrease the amount of non-Federal contributions that otherwise would have been required by this subsection in those cases in which the State can demonstrate that decreasing such amount is appropriate because of financial hardship.
 
 #### (c) Eligibility for grants
 
@@ -80,17 +80,13 @@ The Secretary, acting through the Director of the Centers for Disease Control, m
 
 #### (e) Requirement regarding certain study on breast cancer
 
-In the case of a grant under subsection (a) of this section to any State specified in section 280e–3(b) of this title, the Secretary may establish such conditions regarding the receipt of the grant as the Secretary determines are necessary to facilitate the collection of data for the study carried out under section 399C.<sup>1</sup>
+In the case of a grant under subsection (a) of this section to any State specified in subsection (b) of section 280e–3 of this title, the Secretary may establish such conditions regarding the receipt of the grant as the Secretary determines are necessary to facilitate the collection of data for the study carried out under such section.
 
-(July 1, 1944, ch. 373, title III, §399H, as added Pub. L. 102–515, §3, Oct. 24, 1992, 106 Stat. 3372.)
+(July 1, 1944, ch. 373, title III, §399B, formerly §399H, as added Pub. L. 102–515, §3, Oct. 24, 1992, 106 Stat. 3372; renumbered §399B and amended Pub. L. 106–310, div. A, title V, §502(2)(A), (B), Oct. 17, 2000, 114 Stat. 1115.)
 
-#### References in Text
+#### Amendments
 
-Section 399C, included within the phrase “study carried out under section 399C”, referred to in subsec. (e), was not translated because title III of act July 1, 1944, which is classified to this subchapter, does not contain a section 399C. Provisions in this subchapter relating to a study are contained in section 399K which is classified to section 280e–3 of this title.
-
-#### Codification
-
-Another section 399H of act July 1, 1944, is classified to section 280f–1 of this title.
+2000—Subsec. (e). Pub. L. 106–310, §502(2)(B), substituted “subsection (b) of section 280e–3 of this title” for “section 280e–3(b) of this title” and “such section” for “section 399C”.
 
 #### Change of Name
 
@@ -121,6 +117,4 @@ Purpose.—It is the purpose of this Act \[enacting this part and provisions set
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 280e–1, 280e–3 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -4,7 +4,7 @@
 
 Subject to subsection (b) of this section, each packer required to report information to the Secretary under this subchapter shall maintain, and make available to the Secretary on request, for 2 years—
 
-&emsp;(1) the original contracts, agreements, receipts and other records associated with any transaction relating to the purchase, sale,pricing, transportation, delivery, weighing, slaughter, or carcass characteristics of all livestock; and
+&emsp;(1) the original contracts, agreements, receipts and other records associated with any transaction relating to the purchase, sale, pricing, transportation, delivery, weighing, slaughter, or carcass characteristics of all livestock; and
 
 &emsp;(2) such records or other information as is necessary or appropriate to verify the accuracy of the information required to be reported under this subchapter.
 

@@ -40,7 +40,7 @@ As used in this chapter—
 
 &emsp;(14) The term “stock” means a species, subspecies, race, geographical grouping, run, or other category of salmon or steelhead.
 
-&emsp;(15) The term “treaty” means any treaty between the United States and any treaty tribe that relates to the reserved right of such tribeto harvest salmon and steelhead within the Washington or Columbia River conservation areas.
+&emsp;(15) The term “treaty” means any treaty between the United States and any treaty tribe that relates to the reserved right of such tribe to harvest salmon and steelhead within the Washington or Columbia River conservation areas.
 
 &emsp;(16) The term “treaty tribe” means any Indian tribe recognized by the United States Government, with usual and accustomed fishing grounds in the Washington or Columbia River conservation areas, whose fishing right under a treaty has been recognized by a Federal court.
 

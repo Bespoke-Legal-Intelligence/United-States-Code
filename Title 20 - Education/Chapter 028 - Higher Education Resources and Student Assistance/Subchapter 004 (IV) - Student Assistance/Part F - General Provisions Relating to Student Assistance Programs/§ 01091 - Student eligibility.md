@@ -94,7 +94,7 @@ Each eligible institution may certify student eligibility for a loan by an eligi
 
 (1) No student shall be eligible to receive any grant, loan, or work assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 if the eligible institution determines that the student fraudulently borrowed in violation of the annual loan limits under part B, part C, or part D of this subchapter in the same academic year, or if the student fraudulently borrowed in excess of the aggregate maximum loan limits under such part B, part C, or part D.
 
-(2) If the institution determines that the student inadvertently borrowed amounts in excess of such annual or aggregate maximum loan limits, such institution shall allow the student to repay any amount borrowed in excess of such limits prior to certifying the student's eligibility for further assistance under this subchapter and part C of subchapter I of chapter 34 of title 42.
+(2) If the institution determines that the student inadvertently borrowed amounts in excessof such annual or aggregate maximum loan limits, such institution shall allow the student to repay any amount borrowed in excess of such limits prior to certifying the student's eligibility for further assistance under this subchapter and part C of subchapter I of chapter 34 of title 42.
 
 #### (g) Verification of immigration status
 
@@ -156,7 +156,7 @@ Notwithstanding subsection (h) <sup>5</sup> of this section, if—
 
 Notwithstanding any other provision of law, a student shall be eligible until September 30, 2004, for assistance under subparts 1 and 3 of part A of this subchapter, and part C of subchapter I of chapter 34 of title 42, if the student is otherwise qualified and—
 
-&emsp;(1) is a citizen of any one of the Freely Associated States and attends an institution of higher education in a State or a public or nonprofit private institution of higher education in the Freely Associated States; or
+&emsp;(1) is a citizen of any one of the Freely Associated States and attends an institution ofhigher education in a State or a public or nonprofit private institution of higher education in the Freely Associated States; or
 
 &emsp;(2) meets the requirements of subsection (a)(5) of this section and attends a public or nonprofit private institution of higher education in any one of the Freely Associated States.
 
@@ -273,7 +273,7 @@ Section 1078–1 of this title, referred to in subsec. (b)(2), was repealed by P
 
 Subsection (h) of this section, referred to in subsecs. (h)(2), (3) and (i), was redesignated subsec. (g) of this section by Pub. L. 103–208, §2(h)(25), Dec. 20, 1993, 107 Stat. 2477.
 
-Section 2471 of this title, referred to in subsec. (<i>l</i>)(1)(B)(i), was omitted in the general amendment ofchapter 44 (§2301 et seq.) of this title by Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3076.
+Section 2471 of this title, referred to in subsec. (<i>l</i>)(1)(B)(i), was omitted in the general amendment of chapter 44 (§2301 et seq.) of this title by Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3076.
 
 Section 1113 of Public Law 97–252, referred to in subsec. (n), amended section 462 of Title 50, Appendix, War and National Defense, and enacted provisions set out as a note under section 462 of Title 50, Appendix.
 
@@ -347,7 +347,7 @@ Subsec. (q). Pub. L. 103–208, §2(h)(25), redesignated subsec. (q) as (p).
 
 Pub. L. 103–208, §2(h)(24), substituted “documented evidence of a social security number that is determined by the institution to be correct” for “a correct social security number” in par. (2).
 
-1992—Subsec. (a)(1). Pub. L. 102–325, §484(a)(1), inserted “(including a program of study abroad approved for credit by the eligible institution at which such student is enrolled)” after “or other program”.
+1992—Subsec. (a)(1). Pub. L. 102–325, §484(a)(1), inserted “(including a program of study abroad approvedfor credit by the eligible institution at which such student is enrolled)” after “or other program”.
 
 Subsec. (a)(4). Pub. L. 102–325, §484(a)(2), added par. (4) and struck out former par. (4) which read as follows: “file with the institution of higher education which the student intends to attend, or is attending (or in the case of a loan or loan guarantee with the lender), a statement of educational purpose (which need not be notarized but which shall include such student's social security number or, if the student does not have a social security number, such student's student identification number) stating that the money attributable to such grant, loan, or loan guarantee will be used solely for expenses related to attendance or continued attendance at such institution; and”.
 
@@ -491,11 +491,11 @@ Section 1361 of Pub. L. 99–498 established in Department of Education the Alie
 
 #### Financial Aid to Students Not Deemed Income or Resources for Purposes of Certain Social Security Act Programs
 
-Pub. L. 90–575, title V, §507, Oct. 16, 1968, 82 Stat. 1063, as amended by Pub. L. 96–88, title III, §301(a)(1), Oct. 17, 1979, 93 Stat. 677, provided that: “For the purpose ofany program assisted under title I, IV, X, XIV, XVI, or XIX of the Social Security Act \[subchapters I, IV, X, XIV, XVI, or XIX of chapter 7 of Title 42, The Public Health and Welfare\], no grant or loan to any undergraduate student for educational purposes made or insured under any program administered by the Secretary of Education shall be considered to be income or resources.”
+Pub. L. 90–575, title V, §507, Oct. 16, 1968, 82 Stat. 1063, as amended by Pub. L. 96–88, title III, §301(a)(1), Oct. 17, 1979, 93 Stat. 677, provided that: “For the purpose of any program assisted under title I, IV, X, XIV, XVI, or XIX of the Social Security Act \[subchapters I, IV, X, XIV, XVI, or XIX of chapter 7 of Title 42, The Public Health and Welfare\], no grant or loan to any undergraduate student for educational purposes made or insured under any program administered by the Secretary of Education shall be considered to be income or resources.”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1002, 1070, 1070a, 1070a–24, 1070a–34, 1070b–1, 1070b–2, 1077, 1078, 1078–2, 1078–6, 1078–8, 1087d, 1087dd, 1092, 1093, 1094, 1096, 1134, 1135c of this title; title 26 section 25A; title 42 sections 2753, 3796d–4, 12591, 12602.
+This section is referred to in sections 1002, 1070, 1070a, 1070a–24, 1070a–34, 1070b–1, 1070b–2, 1077, 1078, 1078–2, 1078–6, 1078–8, 1087d, 1087dd, 1092, 1093, 1094, 1096, 1134,1135c of this title; title 26 section 25A; title 42 sections 2753, 3796d–4, 12591, 12602.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

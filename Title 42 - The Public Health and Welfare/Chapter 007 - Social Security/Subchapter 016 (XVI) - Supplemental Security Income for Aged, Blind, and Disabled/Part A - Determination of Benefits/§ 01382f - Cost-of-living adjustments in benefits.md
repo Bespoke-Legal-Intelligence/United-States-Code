@@ -10,7 +10,7 @@ Whenever benefit amounts under subchapter II of this chapter are increased by an
 
 &emsp;&emsp;(B) the amount in effect for such month under such subsection; and
 
-&emsp;(2) the amount obtained under paragraph (1) with respect to each subsection shall be further increased by the same percentage by which benefit amounts under subchapter II of this chapter are increased for such month, or, if greater (in any case where the increase under subchapter II of this chapter was determined on the basis of the wage increase percentage rather than the CPI increase percentage), the percentage by which benefit amounts under subchapter II of this chapter would be increased for such month if the increase had been determined on the basis of the CPI increase percentage, (and rounded, when not a multiple of $12, to the next lower multiple of $12), effective with respect to benefits for months after such month.
+&emsp;(2) the amount obtained under paragraph (1) with respect to each subsection shall be further increased by the same percentage bywhich benefit amounts under subchapter II of this chapter are increased for such month, or, if greater (in any case where the increase under subchapter II of this chapter was determined on the basis of the wage increase percentage rather than the CPI increase percentage), the percentage by which benefit amounts under subchapter II of this chapter would be increased for such month if the increase had been determined on the basis of the CPI increase percentage, (and rounded, when not a multiple of $12, to the next lower multiple of $12), effective with respect to benefits for months after such month.
 
 #### (b) Publication in Federal Register of new dollar amounts
 

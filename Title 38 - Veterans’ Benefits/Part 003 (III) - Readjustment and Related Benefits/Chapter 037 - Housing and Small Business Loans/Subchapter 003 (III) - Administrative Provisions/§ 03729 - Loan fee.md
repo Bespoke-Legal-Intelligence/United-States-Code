@@ -1,54 +1,84 @@
 ### §3729. Loan fee
 
-(a)(1) Except as provided in subsection (c) of this section, a fee shall be collected from each veteran obtaining a housing loan guaranteed, insured, or made under this chapter, and from each person obtaining a loan under section 3733(a) of this title, and no such loan may be guaranteed, insured, or made under this chapter until the fee payable under this section has been remitted to the Secretary.
+(a)
 
-(2) Except as provided in paragraphs (4) and (5) of this subsection, the amount of such fee shall be 1.25 percent of the total loan amount, except that—
+Requirement of Fee.—(1) Except as provided in subsection (c), a fee shall be collected from each person obtaining a housing loan guaranteed, insured, or made under this chapter, and each person assuming a loan to which section 3714 of this title applies. No such loan may be guaranteed, insured, made, or assumed until the fee payable under this section has been remitted to the Secretary.
 
-&emsp;(A) in the case of a loan made under section 3711 of this title or for any purpose specified in section 3712 (other than section 3712(a)(1)(F)) of this title, the amount of such fee shall be one percent of the total loan amount;
+(2) The fee may be included in the loan and paid from the proceeds thereof.
 
-&emsp;(B) in the case of a guaranteed or insured loan for a purchase (except for a purchase referred to in section 3712(a) of this title), or for construction, with respect to which the veteran has made a downpayment of 5 percent or more, but less than 10 percent, of the total purchase price or construction cost, the amount of such fee shall be 0.75 percent of the total loan amount;
+(b)
 
-&emsp;(C) in the case of a guaranteed or insured loan for a purchase (except for a purchase referred to in section 3712(a) of this title), or for construction, with respect to which the veteran has made a downpayment of 10 percent or more of the total purchase price or construction cost, the amount of such fee shall be 0.50 percent of the total loan amount;
+Determination of Fee.—(1) The amount of the fee shall be determined from the loan fee table in paragraph (2). The fee is expressed as a percentage of the total amount of the loan guaranteed, insured, or made, or, in the case of a loan assumption, the unpaid principal balance of the loan on the date of the transfer of the property.
 
-&emsp;(D) in the case of a loan made to, or guaranteed or insured on behalf of, a veteran described in section 3701(b)(5) of this title under this chapter, the amount of such fee shall be—
+(2) The loan fee table referred to in paragraph (1) is as follows:
 
-&emsp;&emsp;(i) two percent of the total loan amount;
+LOAN FEE TABLE
 
-&emsp;&emsp;(ii) in the case of a loan for any purpose specified in section 3712 of this title, one percent of such amount; or
+| Type of loan | Active duty veteran | Reservist | Other obligor |
+| --- | --- | --- | --- |
+| (A)(i) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed before October 1, 2008) | 2\.00 | 2\.75 | NA |
+|  |  |  |  |
+| (A)(ii) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after October 1, 2008) | 1\.25 | 2\.00 | NA |
+|  |  |  |  |
+| (B)(i) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed before October 1, 2008) | 3\.00 | 3\.00 | NA |
+|  |  |  |  |
+| (B)(ii) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed on or after October 1, 2008) | 1\.25 | 2\.00 | NA |
+|  |  |  |  |
+| (C)(i) Loan described in section 3710(a) to purchase or construct a dwelling with 5-down (closed before October 1, 2008) | 1\.50 | 2\.25 | NA |
+|  |  |  |  |
+| (C)(ii) Loan described in section 3710(a) to purchase or construct a dwelling with 5-down (closed on or after October 1, 2008) | 0\.75 | 1\.50 | NA |
+|  |  |  |  |
+| \(D)(i) Initial loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed before October 1, 2008) | 1\.25 | 2\.00 | NA |
+|  |  |  |  |
+| (D)(ii) Initial loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed on or after October 1, 2008) | 0\.50 | 1\.25 | NA |
+|  |  |  |  |
+| (E) Interest rate reduction refinancing loan | 0\.50 | 0\.50 | NA |
+|  |  |  |  |
+| (F) Direct loan under section 3711 | 1\.00 | 1\.00 | NA |
+|  |  |  |  |
+| (G) Manufactured home loan under section 3712 (other than an interest rate reduction refinancing loan) | 1\.00 | 1\.00 | NA |
+|  |  |  |  |
+| (H) Loan to Native American veteran under section 3762 (other than an interest rate reduction refinancing loan) | 1\.25 | 1\.25 | NA |
+|  |  |  |  |
+| (I) Loan assumption under section 3714 | 0\.50 | 0\.50 | 0\.50 |
+|  |  |  |  |
+| (J) Loan under section 3733(a) | 2\.25 | 2\.25 | 2\.25 |
 
-&emsp;&emsp;(iii) in the case of a loan for a purchase (other than a purchase referred to in section 3712 of this title) or for construction with respect to which the veteran has made a downpayment of 5 percent or more of the total purchase price or construction cost—
+(3) Any reference to a section in the “Type of loan” column in the loan fee table in paragraph (2) refers to a section of this title.
 
-&emsp;&emsp;&emsp;(I) 1.50 percent of the total loan amount if such downpayment is less than 10 percent of such price or cost; or
+(4) For the purposes of paragraph (2):
 
-&emsp;&emsp;&emsp;(II) 1.25 percent of the total loan amount if such downpayment is 10 percent or more of such price or cost;
+&emsp;(A) The term “active duty veteran” means any veteran eligible for the benefits of this chapter other than a Reservist.
 
-&emsp;(E) in the case of a loan guaranteed under section 3710(a)(8), 3710(a)(9)(B)(i), 3710(a)(11), 3712(a)(1)(F), or 3762(h) of this title, the amount of such fee shall be 0.5 percent of the total loan amount; and
+&emsp;(B) The term “Reservist” means a veteran described in section 3701(b)(5)(A) of this title.
 
-&emsp;(F) in the case of a loan made under section 3733(a) of this title, the amount of such fee shall be 2.25 percent of the total loan amount.
+&emsp;(C) The term “other obligor” means a person who is not a veteran, as defined in section 101 of this title or other provision of this chapter.
 
-(3) The amount of the fee to be collected under paragraph (1) of this subsection may be included in the loan and paid from the proceeds thereof.
+&emsp;(D) The term “initial loan” means a loan to a veteran guaranteed under section 3710 or made under section 3711 of this title if the veteran has never obtained a loan guaranteed under section 3710 or made under section 3711 of this title.
 
-(4)(A) With respect to a loan closed during the period specified in subparagraph (B) for which a fee is collected under paragraph (1), the amount of such fee, as computed under paragraph (2), shall be increased by 0.75 percent of the total loan amount other than in the case of a loan described in subparagraph (A), (D)(ii), (E), or (F) of paragraph (2).
+&emsp;(E) The term “subsequent loan” means a loan to a veteran, other than an interest rate reduction refinancing loan, guaranteed under section 3710 or made under section 3711 of this title if the veteran has previously obtained a loan guaranteed under section 3710 or made under section 3711 of this title.
 
-(B) The specified period for purposes of subparagraph (A) is the period beginning on October 1, 1993, and ending on September 30, 2002, except that in the case of a loan described in subparagraph (D) of paragraph (2), such period ends on September 30, 2003.
+&emsp;(F) The term “interest rate reduction refinancing loan” means a loan described in section 3710(a)(8), 3710(a)(9)(B)(i), 3710(a)(11), 3712(a)(1)(F), or 3762(h) of this title.
 
-(5)(A) Except as provided in subparagraph (B) of this paragraph, notwithstanding paragraphs (2) and (4) of this subsection, after a veteran has obtained an initial loan pursuant to section 3710 of this title, the amount of such fee with respect to any additional loan obtained under this chapter by such veteran shall be 3 percent of the total loan amount.
+&emsp;(G) The term “0-down” means a downpayment, if any, of less than 5 percent of the total purchase price or construction cost of the dwelling.
 
-(B) Subparagraph (A) of this paragraph does not apply with respect to (i) a loan obtained by a veteran with a downpayment described in paragraph (2)(B), (2)(C), or (2)(D)(iii) of this subsection, and (ii) loans described in paragraph (2)(E) of this subsection.
+&emsp;(H) The term “5-down” means a downpayment of at least 5 percent or more, but less than 10 percent, of the total purchase price or construction cost of the dwelling.
 
-(C) This paragraph applies with respect to a loan closed after September 30, 1993, and before October 1, 2002.
+&emsp;(I) The term “10-down” means a downpayment of 10 percent or more of the total purchase price or construction cost of the dwelling.
 
-(b) Except as provided in subsection (c) of this section, a fee shall be collected from a person assuming a loan to which section 3714 of this title applies. The amount of the fee shall be equal to 0.50 percent of the balance of the loan on the date of the transfer of the property.
+(c)
 
-(c) A fee may not be collected under this section from a veteran who is receiving compensation (or who but for the receipt of retirement pay would be entitled to receive compensation) or from a surviving spouse of any veteran (including a person who died in the active military, naval, or air service) who died from a service-connected disability.
+Waiver of Fee.—A fee may not be collected under this section from a veteran who is receiving compensation (or who, but for the receipt of retirement pay, would be entitled to receive compensation) or from a surviving spouse of any veteran (including a person who died in the active military, naval, or air service) who died from a service-connected disability.
 
-(Added Pub. L. 97–253, title IV, §406(a)(1), Sept. 8, 1982, 96 Stat. 805, §1829; amended Pub. L. 98–369, div. B, title V, §2511(a), July 18, 1984, 98 Stat. 1117; Pub. L. 100–198, §§2, 10(c), Dec. 21, 1987, 101 Stat. 1315, 1323; Pub. L. 100–203, title VII, §7002, Dec. 22, 1987, 101 Stat. 1330–279; Pub. L. 100–322, title IV, §415(c)(6), May 20, 1988, 102 Stat. 551; Pub. L. 101–237, title III, §§303(a), 313(b)(1), Dec. 18, 1989, 103 Stat. 2071, 2077; Pub. L. 101–239, title V, §5001, Dec. 19, 1989, 103 Stat. 2136; Pub. L. 101–508, title VIII, §8032, Nov. 5, 1990, 104 Stat. 1388–348; Pub. L. 102–54, §15(a)(3), (4), June 13, 1991, 105 Stat. 289; renumbered §3729 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–547, §§2(b)(1), 5, Oct. 28, 1992, 106 Stat. 3633, 3636; Pub. L. 103–66, title XII, §12007, Aug. 10, 1993, 107 Stat. 414; Pub. L. 103–446, title IX, §904(c), Nov. 2, 1994, 108 Stat. 4677; Pub. L. 104–275, title II, §202(b), Oct. 9, 1996, 110 Stat. 3330; Pub. L. 105–33, title VIII, §§8012, 8032, Aug. 5, 1997, 111 Stat. 664, 669; Pub. L. 105–368, title VI, §§602(e)(1)(D), 603(b), Nov. 11, 1998, 112 Stat. 3346, 3348.)
+(Added Pub. L. 97–253, title IV, §406(a)(1), Sept. 8, 1982, 96 Stat. 805, §1829; amended Pub. L. 98–369, div. B, title V, §2511(a), July 18, 1984, 98 Stat. 1117; Pub. L. 100–198, §§2, 10(c), Dec. 21, 1987, 101 Stat. 1315, 1323; Pub. L. 100–203, title VII, §7002, Dec. 22, 1987, 101 Stat. 1330–279; Pub. L. 100–322, title IV, §415(c)(6), May 20, 1988, 102 Stat. 551; Pub. L. 101–237, title III, §§303(a), 313(b)(1), Dec. 18, 1989, 103 Stat. 2071, 2077; Pub. L. 101–239, title V, §5001, Dec. 19, 1989, 103 Stat. 2136; Pub. L. 101–508, title VIII, §8032, Nov. 5, 1990, 104 Stat. 1388–348; Pub. L. 102–54, §15(a)(3), (4), June 13, 1991, 105 Stat. 289; renumbered §3729 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–547, §§2(b)(1), 5, Oct. 28, 1992, 106 Stat. 3633, 3636; Pub. L. 103–66, title XII, §12007, Aug. 10, 1993, 107 Stat. 414; Pub. L. 103–446, title IX, §904(c), Nov. 2, 1994, 108 Stat. 4677; Pub. L. 104–275, title II, §202(b), Oct. 9, 1996, 110 Stat. 3330; Pub. L. 105–33, title VIII, §§8012, 8032, Aug. 5, 1997, 111 Stat. 664, 669; Pub. L. 105–368, title VI, §§602(e)(1)(D), 603(b), Nov. 11, 1998, 112 Stat. 3346, 3348; Pub. L. 106–419, title IV, §402(b), Nov. 1, 2000, 114 Stat. 1861.)
 
 #### Amendments
 
+2000—Pub. L. 106–419 amended text generally, substituting present provisions for provisions which established loan fee, set fee as 1.25 percent of total loan amount, with exceptions, provided that amount of fee may be included in loan amount and paid from proceeds thereof, provided for increased loan fee percentage for loans closed during specified period, provided for fees on subsequent loans and assumed loans, and provided that fees may not be collected from veterans receiving compensation or from surviving spouses of any veterans who died from service-connected disability.
+
 1998—Subsec. (a)(1). Pub. L. 105–368, §602(e)(1)(D)(ii), substituted “(c)” for “(c)(1)”.
 
-Subsec. (a)(4). Pub. L. 105–368, §603(b), designated existing provisions as subpar. (A), substituted “during the period specified in subparagraph (B)” for “after September 30, 1993, and before October 1, 2002,”, and added subpar. (B).
+Subsec. (a)(4). Pub. L. 105–368, §603(b), designated existing provisions as subpar. (A), substituted “duringthe period specified in subparagraph (B)” for “after September 30, 1993, and before October 1, 2002,”, and added subpar. (B).
 
 Subsec. (c). Pub. L. 105–368, §603(e)(1)(D)(i), struck out “(1)” before “A fee may not” and struck out pars. (2) and (3) which read as follows:
 
@@ -138,7 +168,7 @@ Section 303(b) of Pub. L. 101–237 provided that: “The amendments made by thi
 
 Section 2511(c) of Pub. L. 98–369 provided that:
 
-“(1) The amendments made by subsection (a)(1) \[amending this section\] shall apply with respect to loans closed after the end of the 30-day period beginning on the date of the enactment of this Act \[July 18, 1984\].
+“(1) The amendments made by subsection (a)(1) \[amending this section\] shall apply with respect toloans closed after the end of the 30-day period beginning on the date of the enactment of this Act \[July 18, 1984\].
 
 “(2) The amendments made by subsections (a)(2) and (b) \[amending this section and section 1824 \[now 3724\] of this title\] shall apply with respect to loans closed on or after the date of the enactment of this Act \[July 18, 1984\].
 

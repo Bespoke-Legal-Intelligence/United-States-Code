@@ -6,7 +6,7 @@ The Governor or Governor's designee of each State shall, within 3 years of June 
 
 &emsp;(1) specify the duties of State agencies, local governmental entities, and public water supply systems with respect to the development and implementation of programs required by this section;
 
-&emsp;(2) for each wellhead, determine the wellhead protection area as defined in subsection (e) of this section based on all reasonably available hydrogeologic information on ground water flow, recharge and discharge and other information the State deems necessary to adequately determine the wellhead protection area;
+&emsp;(2) for each wellhead, determine the wellhead protection area as defined in subsection (e) of this section based on all reasonablyavailable hydrogeologic information on ground water flow, recharge and discharge and other information the State deems necessary to adequately determine the wellhead protection area;
 
 &emsp;(3) identify within each wellhead protection area all potential anthropogenic sources of contaminants which may have any adverse effect on the health of persons;
 

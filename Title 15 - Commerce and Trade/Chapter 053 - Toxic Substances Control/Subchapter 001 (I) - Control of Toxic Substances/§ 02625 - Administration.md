@@ -20,7 +20,7 @@ Upon request by the Administrator, each Federal department and agency is authori
 
 (2) For purposes of paragraph (1):
 
-&emsp;(A) The term “category of chemical substances” means a group of chemical substances the members of which are similar in molecular structure, in physical, chemical, or biological properties, in use, or in mode of entrance into the human body or into the environment, or the members of which are in some other way suitable for classification as such for purposes of this chapter, except that such term does not mean a group of chemical substances which are grouped together solely on the basis of their being new chemical substances.
+&emsp;(A) The term “category of chemical substances” means a group of chemical substances the members of which are similar inmolecular structure, in physical, chemical, or biological properties, in use, or in mode of entrance into the human body or into the environment, or the members of which are in some other way suitable for classification as such for purposes of this chapter, except that such term does not mean a group of chemical substances which are grouped together solely on the basis of their being new chemical substances.
 
 &emsp;(B) The term “category of mixtures” means a group of mixtures the members of which are similar in molecular structure, in physical, chemical, or biological properties, in use, or in the mode of entrance into the human body or into the environment, or the members of which are in some other way suitable for classification as such for purposes of this chapter.
 
@@ -56,7 +56,7 @@ The Administrator shall establish in the Environmental Protection Agency an iden
 
 #### (f) Statement of basis and purpose
 
-Any final order issued under this chapter shall be accompanied by a statement of its basis and purpose. The contents and adequacy of any suchstatement shall not be subject to judicial review in any respect.
+Any final order issued under this chapter shall be accompanied by a statement of its basis and purpose. The contents and adequacy of any such statement shall not be subject to judicial review in any respect.
 
 #### (g) Assistant Administrator
 
@@ -77,6 +77,10 @@ Reorganization Plan No. 3 of 1970, referred to in text, is set out in the Append
 #### Change of Name
 
 “Department of Health and Human Services” substituted for “Department of Health, Education, and Welfare” in subsec. (e)(1), (3), and “Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (e)(1), pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (e)(2)(B) of this section relating to annual reports to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and pages 93 and 164 of House Document No. 103–7.
 
 #### Section Referred to in Other Sections
 

@@ -32,7 +32,7 @@ The Rivers and Harbors Act of 1910, referred to in subsec. (b), probably means a
 
 The Supervisory Harbors Act of 1888, referred to in subsec. (b), probably means act June 29, 1888, ch. 496, 25 Stat. 209, as amended, which is classified generally to subchapter III (§441 et seq.) of chapter 9 of this title. For complete classification of this Act to the Code, see Tables.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (c), is Pub. L. 91–190, Jan. 1, 1970, 83Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (c), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 #### Amendments
 

@@ -62,3 +62,7 @@ Section was enacted as part of the Anti-Drug Abuse Act of 1986, and not as part 
 
 Section was formerly classified to section 4665, and subsequently section 3225, of this title.
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (f) of this section relating to submitting annual report and audit to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 185 of House Document No. 103–7 (specifying report under section 4665 of this title, subsequently transferred to this section).
+

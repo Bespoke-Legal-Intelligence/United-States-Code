@@ -138,7 +138,7 @@ Following the completion of a peer review process for grant proposals received u
 
 #### (23) Forestry research and extension
 
-&emsp;Research and extension grants may be made under this section to develop and distribute new, high-quality, science-based information for the purpose of improving the long-term productivity of forest resources and contributing to forest-based economic development by addressing such issues as—
+&emsp;Research and extension grants may be made under this section to develop and distributenew, high-quality, science-based information for the purpose of improving the long-term productivity of forest resources and contributing to forest-based economic development by addressing such issues as—
 
 &emsp;&emsp;(A) forest land use policies;
 
@@ -220,7 +220,7 @@ There are authorized to be appropriated such sums as are necessary to carry out 
 
 #### Amendments
 
-1998—Pub. L. 105–185 amended section catchline and text generally, substituting present provisions for provisions which in subsecs. (a) to (f) which authorized specialized research programs relating to, respectively,brown citrus aphid and citrus tristeza virus, ethanol, aflatoxin, mesquite, prickly pear, and deer tick ecology and related research, and for provisions in subsec. (g) subjecting research to peer review, setting limitation on use of funds, and providing for general eligibility to participate in programs.
+1998—Pub. L. 105–185 amended section catchline and text generally, substituting present provisions for provisions which in subsecs. (a) to (f) which authorized specialized research programs relating to, respectively, brown citrus aphid and citrus tristeza virus, ethanol, aflatoxin, mesquite, prickly pear, and deer tick ecology and related research, and for provisions in subsec. (g) subjecting research to peer review, setting limitation on use of funds, and providing for general eligibility to participate in programs.
 
 1996—Subsec. (a). Pub. L. 104–127, §§863(1), 888, added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The Secretary of Agriculture is encouraged to fund research for the development of technology which will ascertain the lean content of animal carcasses to be used for human consumption.”
 

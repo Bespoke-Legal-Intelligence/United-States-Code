@@ -6,7 +6,7 @@ Except as otherwise expressly provided by this section, in every civil action br
 
 #### (b) Direct appeals to Supreme Court
 
-An appeal from a final judgment pursuant to subsection (a) of this section shall lie directly to the Supreme Court, if, upon application of a party filed within fifteen days of the filing of a notice of appeal, the district judge who adjudicated the case enters an order stating that immediate consideration of the appeal by the Supreme Court is of general public importance in the administration of justice. Such order shall be filed within thirty days after the filing of a notice of appeal. When such an order is filed, theappeal and any cross appeal shall be docketed in the time and manner prescribed by the rules of the Supreme Court. The Supreme Court shall thereupon either (1) dispose of the appeal and any cross appeal in the same manner as any other direct appeal authorized by law, or (2) in its discretion, deny the direct appeal and remand the case to the court of appeals, which shall then have jurisdiction to hear and determine the same as if the appeal and any cross appeal therein had been docketed in the court of appeals in the first instance pursuant to subsection (a) of this section.
+An appeal from a final judgment pursuant to subsection (a) of this section shall lie directly to the Supreme Court, if, upon application of a party filed within fifteen days of the filing of a notice of appeal, the district judge who adjudicated the case enters an order stating that immediate consideration of the appeal by the Supreme Court is of general public importance in the administration of justice. Such order shall be filed within thirty days after the filing of a notice of appeal. When such an order is filed, the appeal and any cross appeal shall be docketed in the time and manner prescribed by the rules of the Supreme Court. The Supreme Court shall thereupon either (1) dispose of the appeal and any cross appeal in the same manner as any other direct appeal authorized by law, or (2) in its discretion, deny the direct appeal and remand the case to the court of appeals, which shall then have jurisdiction to hear and determine the same as if the appeal and any cross appeal therein had been docketed in the court of appeals in the first instance pursuant to subsection (a) of this section.
 
 (Feb. 11, 1903, ch. 544, §2, 32 Stat. 823; Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167; June 9, 1944, ch. 239, 58 Stat. 272; June 25, 1948, ch. 646, §17, 62 Stat. 989; Pub. L. 93–528, §5, Dec. 21, 1974, 88 Stat. 1709.)
 
@@ -24,7 +24,7 @@ Section was previously set out in both this section and in section 45 of former 
 
 1948—Act June 25, 1948, amended section generally to strike out provisions relating to time for appeal, procedure, etc. See sections 2101 and 2109 of Title 28, Judiciary and Judicial Procedure.
 
-1944—Act June 9, 1944, provided for certification of case to circuit court of appeals when there was no quorum of Justices of the Supreme Court qualified to participate in the consideration of the case and for designation of circuit judges in the event of disqualification from hearing the case.
+1944—Act June 9, 1944, provided for certification of case to circuit court of appeals when there was noquorum of Justices of the Supreme Court qualified to participate in the consideration of the case and for designation of circuit judges in the event of disqualification from hearing the case.
 
 #### Change of Name
 
@@ -45,10 +45,4 @@ The last paragraph of act June 9, 1944, provided: “This Act \[this section\] s
 #### Short Title
 
 Act Feb. 11, 1903, which enacted sections 28 and 29 of this title, is commonly known as the “Expediting Act”.
-
-#### Cross References
-
-Direct appeals from decisions of three-judge courts, see section 1253 of Title 28, Judiciary and Judicial Procedure.
-
-Time for appeal to Supreme Court, see section 2101 of Title 28.
 

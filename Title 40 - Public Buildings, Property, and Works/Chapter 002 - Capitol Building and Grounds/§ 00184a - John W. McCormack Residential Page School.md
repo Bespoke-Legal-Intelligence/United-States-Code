@@ -2,7 +2,7 @@
 
 #### (a) Construction authorization for dormitory and classroom facilities complex
 
-There is hereby authorized to be constructed, on a site jointly approved by the Senate Office Building Commission and the House Office Building Commission, in accordance with plans which shall be prepared by or under the direction of the Architect of the Capitol and which shall be submitted to and jointly approved by the Senate Office Building Commission and the House Office Building Commission, a fireproof building containing dormitory and classroom facilities, including necessary furnishings and equipment, for pages of the Senate, the House of Representatives, and the Supreme Court of the United States.
+There is hereby authorized to be constructed, on a site jointly approved by the Senate Office Building Commission and the House Office Building Commission, in accordance with plans which shall be prepared by or under the direction of the Architect of the Capitol and which shall be submitted to and jointly approved by the Senate Office Building Commission and the House Office Building Commission, a fireproofbuilding containing dormitory and classroom facilities, including necessary furnishings and equipment, for pages of the Senate, the House of Representatives, and the Supreme Court of the United States.
 
 #### (b) Acquisition of property in District of Columbia
 
@@ -60,7 +60,7 @@ Section effective immediately prior to noon on Jan. 3, 1971, see section 601(1) 
 
 #### Transfer of Functions
 
-Office of Commissioner of District of Columbia, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by Pub. L. 93–198, title VII, §711, Dec. 24, 1973, 87 Stat. 818, and replaced by office of Mayor of District of Columbia by section 421 of Pub. L. 93–198, classified to section 1–241 of the District of Columbia Code. Accordingly, “Mayor” substituted in subsec. (e) for “commissioners”.
+Office of Commissioner of District of Columbia, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by Pub. L. 93–198, title VII, §711, Dec. 24, 1973, 87 Stat. 818, and replaced by office of Mayor of District of Columbia by section 421 of Pub. L. 93–198. Accordingly, “Mayor” substituted in subsec. (e) for “commissioners”.
 
 #### Acquisition of Property as Site for John W. McCormack Residential Page School
 

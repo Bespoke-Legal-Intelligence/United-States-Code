@@ -24,7 +24,7 @@ The Secretary of Defense may by regulation identify classes of children who shal
 
 &emsp;(C) Children of other citizens or nationals of the United States or of foreign nationals, if the Secretary determines that enrollment of such children is in the national interest.
 
-(2) Notwithstanding subsection (c) of this section, the Secretary may not waive the tuitionrequirements of subsection (b)(1) of this section with respect to children referred to in paragraph (1).
+(2) Notwithstanding subsection (c) of this section, the Secretary may not waive the tuition requirements of subsection (b)(1) of this section with respect to children referred to in paragraph (1).
 
 (Pub. L. 95–561, title XIV, §1404, Nov. 1, 1978, 92 Stat. 2366; Pub. L. 99–145, title XII, §1205, Nov. 8, 1985, 99 Stat. 721; Pub. L. 101–189, div. A, title III, §325(b), Nov. 29, 1989, 103 Stat. 1415.)
 

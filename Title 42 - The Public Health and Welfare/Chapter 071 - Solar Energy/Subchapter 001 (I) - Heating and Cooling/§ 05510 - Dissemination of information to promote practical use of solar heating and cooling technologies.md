@@ -56,6 +56,10 @@ Each Federal officer and agency having functions under this subchapter shall inc
 
 Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsec. (d) of this section is listed in item 12 on page 102), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+
 #### Transfer of Functions
 
 “Secretary of Energy” substituted for “Director”, meaning Director of National Science Foundation, in subsec. (a) and for “National Science Foundation” in subsec. (c) pursuant to sections 104(f) and 301(h) of Pub. L. 93–438, which are classified to sections 5814(f) and 5871(h) of this title and which transferred functions of National Science Foundation relating to or utilized in connection with solar heating and cooling development to Administrator of Energy Research and Development Administration, and pursuant to sections 301(a), 703, and 707 of Pub. L. 95–91, which are classified to sections 7151(a), 7293, and 7297 of this title and which terminated Energy Research and Development Administration and transferred its functions and functions of Administrator thereof (with certain exceptions) to Secretary of Energy.

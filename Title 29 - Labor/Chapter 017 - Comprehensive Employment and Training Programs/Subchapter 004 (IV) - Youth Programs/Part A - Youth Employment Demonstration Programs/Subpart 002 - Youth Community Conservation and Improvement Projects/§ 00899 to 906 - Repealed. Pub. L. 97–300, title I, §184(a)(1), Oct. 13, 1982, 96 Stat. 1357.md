@@ -32,7 +32,3 @@ Section 906, Pub. L. 93–203, title IV, §428, as added Pub. L. 95–524, §2, 
 
 Provisions similar to those comprising this section were contained in former section 893g of this title prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
-#### Effective Date of Repeal
-
-Section 184(a) of Pub. L. 97–300 provided that the repeal of these sections is effective Oct. 13, 1982.
-

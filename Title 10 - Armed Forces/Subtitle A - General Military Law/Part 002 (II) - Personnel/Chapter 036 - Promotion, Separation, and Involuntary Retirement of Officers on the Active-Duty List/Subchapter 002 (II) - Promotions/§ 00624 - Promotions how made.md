@@ -32,7 +32,7 @@
 
 #### Amendments
 
-1984—Subsec. (d)(1), (2). Pub. L. 98–525 inserted provision for a determination by the Secretary concerned that the officer was unqualified for promotion for any part of the delay in the officer's promotion, with the inserted provision that if the Secretary made such a determination, the Secretary could adjust such date of rank, effective date of pay and allowances, and position on the active-duty list as the Secretary considered appropriate under the circumstances.
+1984—Subsec. (d)(1), (2). Pub. L. 98–525 inserted provision for a determination by the Secretary concerned that the officer was unqualified for promotion for anypart of the delay in the officer's promotion, with the inserted provision that if the Secretary made such a determination, the Secretary could adjust such date of rank, effective date of pay and allowances, and position on the active-duty list as the Secretary considered appropriate under the circumstances.
 
 1982—Subsec. (d)(4). Pub. L. 97–295 substituted “this subsection” for “the subsection”.
 

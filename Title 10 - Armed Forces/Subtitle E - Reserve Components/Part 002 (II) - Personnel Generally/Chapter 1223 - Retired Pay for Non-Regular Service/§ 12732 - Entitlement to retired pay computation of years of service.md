@@ -168,7 +168,7 @@ Subsection (b)(6) is inserted for clarity since 10:1036a and 34:440i were limite
 
 #### 1958 Act
 
-The word “full-time” is inserted for clarity. The other change reflects the opinion of the Judge Advocate General of the Army (JAGA 1956/1908, Feb. 13, 1956)that duty performed under section 92 of the National Defense Act, the source statute for section 502 of title 32, was creditable in determining entitlement to retired pay under section 302 of the Army and Air Force Vitalization and Retirement Equalization Act of 1948 (62 Stat. 1087), the source statute for section 1332 of title 10.
+The word “full-time” is inserted for clarity. The other change reflects the opinion of the Judge Advocate General of the Army (JAGA 1956/1908, Feb. 13, 1956) that duty performed under section 92 of the National Defense Act, the source statute for section 502 of title 32, was creditable in determining entitlement to retired pay under section 302 of the Army and Air Force Vitalization and Retirement Equalization Act of 1948 (62 Stat. 1087), the source statute for section 1332 of title 10.
 
 #### References in Text
 
@@ -240,7 +240,7 @@ Pub. L. 87–482, June 12, 1962, 76 Stat. 95, provided: “That any person who w
 
 “
 
-Sec. 2. Creditable constructive service for a person qualified under section 1 hereof shall be applied when providing retirement benefits under the Army and AirForce Vitalization and Retirement Equalization Act of 1948, as amended, or any other Act under which the individual may be entitled to retirement from the Armed Forces.
+Sec. 2. Creditable constructive service for a person qualified under section 1 hereof shall be applied when providing retirement benefits under the Army and Air Force Vitalization and Retirement Equalization Act of 1948, as amended, or any other Act under which the individual may be entitled to retirement from the Armed Forces.
 
 “
 
@@ -252,19 +252,7 @@ Section 15 of Pub. L. 85–861 provided that:
 
 “(a) Notwithstanding section 1332(b)(6) \[now 12732(b)(7)\] of title 10, United States Code, a person is entitled to count his service as an Army field clerk or as a field clerk, Quartermaster Corps, as active service in determining his entitlement to retired pay under chapter 67 \[now 1223\] of title 10, United States Code, and in computing his retired pay under that chapter.
 
-“(b) notwithstanding section 1332(b)(6) \[now 12732(b)(7)\] of title 10, United States Code, a warrant officer is entitled to count classified service as an Army headquarters clerk or as a clerk of the Army Quartermaster Corps that he performed under any law in effect before August 29, 1916, as active service in determining his entitlement to retired pay under chapter 67 \[now 1223\] of title 10, United States Code, and in computing his retired pay under that chapter.”
-
-#### Cross References
-
-Active duty, retention after becoming qualified for retired pay, see section 12308 of this title.
-
-Deferment of retirement of certain officers twice failing selection for promotion, see section 6389 of this title.
-
-Standards and qualifications for reserve commissioned officer to be retained in active status, see section 12642 of this title.
-
-Transfer to inactive status list instead of separation, see section 1209 of this title.
-
-Uniform allowance, see section 416 of Title 37, Pay and Allowances of the Uniformed Services.
+“(b) notwithstanding section 1332(b)(6) \[now 12732(b)(7)\] of title 10, United States Code, a warrant officer is entitled to count classified service as an Army headquarters clerk or as a clerk of the Army Quartermaster Corps that he performed under any law in effect before August 29, 1916, as active service in determininghis entitlement to retired pay under chapter 67 \[now 1223\] of title 10, United States Code, and in computing his retired pay under that chapter.”
 
 #### Section Referred to in Other Sections
 

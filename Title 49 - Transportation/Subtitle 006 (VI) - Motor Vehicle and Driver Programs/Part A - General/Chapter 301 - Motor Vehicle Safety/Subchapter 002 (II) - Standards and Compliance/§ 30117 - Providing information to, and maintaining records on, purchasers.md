@@ -10,7 +10,7 @@ Providing Information and Notice.—The Secretary of Transportation may require 
 
 (b)
 
-Maintaining Purchaser Records and Procedures.—(1) A manufacturer of a motor vehicle or tire (except a retreaded tire) shall cause to be maintained a record of the name and address of the first purchaser of each vehicle or tire it produces and, to the extent prescribed by regulations of the Secretary, shall cause to be maintained a record of the name and address of the first purchaser of replacement equipment (except a tire) that the manufacturer produces. The Secretary may prescribe by regulation the records to be maintained and reasonable procedures for maintaining the records under this subsection, including procedures to be followed by distributors and dealers to assist the manufacturer in obtaining the information requiredby this subsection. A procedure shall be reasonable for the type of vehicle or tire involved, and shall provide reasonable assurance that a customer list of a distributor or dealer, or similar information, will be made available to a person (except the distributor or dealer) only when necessary to carry out this subsection and sections 30118–30121, 30166(f), and 30167(a) and (b) of this title. Availability of assistance from a distributor or dealer does not affect an obligation of a manufacturer under this subsection.
+Maintaining Purchaser Records and Procedures.—(1) A manufacturer of a motor vehicle or tire (except a retreaded tire) shall cause to be maintained a record of the name and address of the first purchaser of each vehicle or tire it produces and, to the extent prescribed by regulations of the Secretary, shall cause to be maintained a record of the name and address of the first purchaser of replacement equipment (except a tire) that the manufacturer produces. The Secretary may prescribe by regulation the records to be maintained and reasonable procedures for maintaining the records under this subsection, including procedures to be followed by distributors and dealers to assist the manufacturer in obtaining the information required by this subsection. A procedure shall be reasonable for the type of vehicle or tire involved, and shall provide reasonable assurance that a customer list of a distributor or dealer, or similar information, will be made available to a person (except the distributor or dealer) only when necessary to carry out this subsection and sections 30118–30121, 30166(f), and 30167(a) and (b) of this title. Availability of assistance from a distributor or dealer does not affect an obligation of a manufacturer under this subsection.
 
 (2)(A) Except as provided in paragraph (3) of this subsection, the Secretary may require a distributor or dealer to maintain a record under paragraph (1) of this subsection only if the business of the distributor or dealer is owned or controlled by a manufacturer of tires.
 
@@ -36,7 +36,27 @@ Maintaining Purchaser Records and Procedures.—(1) A manufacturer of a motor ve
 
 (D) After making a decision under subparagraph (A) of this paragraph, the Secretary shall submit to each House of Congress a report containing a detailed statement of the decision and an explanation of the reasons for the decision.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 948.)
+(c)
+
+Rollover Tests.—
+
+&emsp;(1)
+
+Development.—Not later than 2 years from the date of the enactment of this subsection, the Secretary shall—
+
+&emsp;&emsp;(A) develop a dynamic test on rollovers by motor vehicles for the purposes of a consumer information program; and
+
+&emsp;&emsp;(B) carry out a program of conducting such tests.
+
+&emsp;(2)
+
+Test results.—As the Secretary develops a test under paragraph (1)(A), the Secretary shall conduct a rulemaking to determine how best to disseminate test results to the public.
+
+&emsp;(3)
+
+Motor vehicles covered.—This subsection applies to motor vehicles, including passenger cars, multipurpose passenger vehicles, and trucks, with a gross vehicle weight rating of 10,000 pounds or less. A motor vehicle designed to provide temporary residential accommodations is not covered.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 948; Pub. L. 106–414, §12, Nov. 1, 2000, 114 Stat. 1806.)
 
 Historical and Revision Notes
 
@@ -85,6 +105,14 @@ In subsection (b)(1), the word “cause to be maintained” is substituted for �
 In subsection (b)(3)(A), before clause (i), the words “At the end of the two-year period following the effective date of this paragraph” are omitted as expired. In clause (iii), the words “(or any combination of such groups)” are omitted as unnecessary.
 
 In subsection (b)(3)(B), before clause (i), the words “may prescribe a requirement” are substituted for “may order by rule the imposition of requirements” for consistency and to eliminate unnecessary words.
+
+#### References in Text
+
+The date of the enactment of this subsection, referred to in subsec. (c)(1), is the date of enactment of Pub. L. 106–414, which was approved Nov. 1, 2000.
+
+#### Amendments
+
+2000—Subsec. (c). Pub. L. 106–414 added subsec. (c).
 
 #### Section Referred to in Other Sections
 

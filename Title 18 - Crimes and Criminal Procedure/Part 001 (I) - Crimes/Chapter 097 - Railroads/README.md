@@ -13,10 +13,6 @@ This chapter does not include motor busses, interstate trucking facilities or ai
 
 Attention is directed to the consideration of the extension of the laws now applicable only to railroads to these other interstate facilities. 80th Congress House Report No. 304.
 
-#### Cross References
-
-Wire or oral communications, authorization for interception, to provide evidence of murder or robbery, see section 2516 of this title.
-
 #### Chapter Referred to in Other Sections
 
 This chapter is referred to in section 35 of this title.

@@ -38,7 +38,7 @@ In General.—
 
 &emsp;“(1)
 
-Liability.—Any withdrawal liability incurred by an employer pursuant to part 1 of subtitle E of title IV of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1381 et seq.) as a result of the complete or partial withdrawal of such employer from a multiemployer plan before September 26, 1980, shall be void.
+Liability.—Any withdrawal liability incurred by an employer pursuant to part 1 of subtitle E of title IV of the Employee Retirement Income SecurityAct of 1974 (29 U.S.C. 1381 et seq.) as a result of the complete or partial withdrawal of such employer from a multiemployer plan before September 26, 1980, shall be void.
 
 &emsp;“(2)
 
@@ -50,7 +50,7 @@ No Increase in Liability.—The amendments made by this section \[amending secti
 
 “(d)
 
-Special Rule for Certain Binding Agreements.—In the case of an employer who, on September 26, 1980, has a binding agreement to withdraw from a multiemployer plan, subsection (a)(1) shall be appliedby substituting ‘December 31, 1980’ for ‘September 26, 1980’.”
+Special Rule for Certain Binding Agreements.—In the case of an employer who, on September 26, 1980, has a binding agreement to withdraw from a multiemployer plan, subsection (a)(1) shall be applied by substituting ‘December 31, 1980’ for ‘September 26, 1980’.”
 
 #### Applicability to Certain Employers Withdrawn Before Sept. 26, 1980, From Multiemployer Plan Covering Employees in Seagoing Industry; Effective Date, Coverage, Etc.
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Procedures.—(1) The Secretary of Defense shall establish procedures in accordance withthis subsection under which States and units of local government may purchase law enforcement equipment suitable for counter-drug activities through the Department of Defense. The procedures shall require the following:
+Procedures.—(1) The Secretary of Defense shall establish procedures in accordance with this subsection under which States and units of local government may purchase law enforcement equipment suitable for counter-drug activities through the Department of Defense. The procedures shall require the following:
 
 &emsp;(A) Each State desiring to participate in a procurement of equipment suitable for counter-drug activities through the Department of Defense shall submit to the Department, in such form and manner and at such times as the Secretary prescribes, the following:
 

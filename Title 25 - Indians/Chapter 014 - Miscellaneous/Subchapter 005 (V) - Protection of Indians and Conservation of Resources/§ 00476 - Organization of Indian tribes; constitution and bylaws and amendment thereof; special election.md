@@ -10,7 +10,7 @@ Any Indian tribe shall have the right to organize for its common welfare, and ma
 
 #### (b) Revocation
 
-Any constitution or bylaws ratified and approved by the Secretary shall be revocable by an election open to the same voters and conducted in the same manner as provided in subsection (a) of this section for the adoption of a constitution or bylaws.
+Any constitution or bylaws ratified and approved by the Secretary shall be revocable by an election open to the same voters and conductedin the same manner as provided in subsection (a) of this section for the adoption of a constitution or bylaws.
 
 #### (c) Election procedure; technical assistance; review of proposals; notification of contrary-to-applicable law findings
 
@@ -36,7 +36,7 @@ Any constitution or bylaws ratified and approved by the Secretary shall be revoc
 
 #### (e) Vested rights and powers; advisement of presubmitted budget estimates
 
-In addition to all powers vested in any Indian tribe or tribal council by existing law, the constitution adopted by said tribe shall also vest in such tribe or its tribal council the following rights and powers: To employ legal counsel, the choice of counsel and fixing of fees to be subject to the approval of the Secretary; to prevent the sale, disposition, lease, or encumbrance of tribal lands, interests in lands, or other tribal assets without the consent of the tribe; and to negotiate with the Federal, State, and local governments. The Secretary shall advise such tribe or its tribal council of all appropriation estimates or Federal projects for the benefit of the tribe prior to the submission of such estimates to the Office of Management and Budget and the Congress.
+In addition to all powers vested in any Indian tribe or tribal council by existing law, the constitution adopted by said tribe shall also vest in such tribe or its tribal council the following rights and powers: To employ legal counsel; to prevent the sale, disposition, lease, or encumbrance of tribal lands, interests in lands, or other tribal assets without the consent of the tribe; and to negotiate with the Federal, State, and local governments. The Secretary shall advise such tribe or its tribal council of all appropriation estimates or Federal projects for the benefit of the tribe prior to the submission of such estimates to the Office of Management and Budget and the Congress.
 
 #### (f) Privileges and immunities of Indian tribes; prohibition on new regulations
 
@@ -46,7 +46,7 @@ Departments or agencies of the United States shall not promulgate any regulation
 
 Any regulation or administrative decision or determination of a department or agency of the United States that is in existence or effect on May 31, 1994, and that classifies, enhances, or diminishes the privileges and immunities available to a federally recognized Indian tribe relative to the privileges and immunities available to other federally recognized tribes by virtue of their status as Indian tribes shall have no force or effect.
 
-(June 18, 1934, ch. 576, §16, 48 Stat. 987; Pub. L. 100–581, title I, §101, Nov. 1, 1988, 102 Stat. 2938; Pub. L. 103–263, §5(b), May 31, 1994, 108 Stat. 709.)
+(June 18, 1934, ch. 576, §16, 48 Stat. 987; Pub. L. 100–581, title I, §101, Nov. 1, 1988, 102 Stat. 2938; Pub. L. 103–263, §5(b), May 31, 1994, 108 Stat. 709; Pub. L. 106–179, §3, Mar. 14, 2000, 114 Stat. 47.)
 
 #### References in Text
 
@@ -57,6 +57,8 @@ Act of June 18, 1934, referred to in subsec. (f), popularly known as the Indian 
 May 31, 1994, referred to in subsec. (g), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 103–263, which enacted subsec. (g) of this section, to reflect the probable intent of Congress.
 
 #### Amendments
+
+2000—Subsec. (e). Pub. L. 106–179 struck out “, the choice of counsel and fixing of fees to be subject to the approval of the Secretary” after “To employ legal counsel”.
 
 1994—Subsecs. (f), (g). Pub. L. 103–263 added subsecs. (f) and (g).
 
@@ -76,15 +78,7 @@ Section 102 of title I of Pub. L. 100–581 provided that: “For the purpose of
 
 Section 103 of title I of Pub. L. 100–581 provided that: “Nothing in this Act \[probably means title I of Pub. L. 100–581 which amended this section and enacted provisions set out above\] is intended to amend, revoke, or affect any tribal constitution, bylaw, or amendment ratified and approved prior to this Act.”
 
-#### Cross References
-
-Application to certain tribes, see sections 473, 473a and 478 of this title.
-
-Charges to licensees under Federal Power Act, see section 803 of Title 16, Conservation.
-
-Right-of-way grant, consent of tribal officials, see section 324 of this title.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 390, 396b, 450j–1, 450<i>l</i>, 458cc, 473, 473a, 566b, 711d, 713d, 714d, 715g, 734, 735, 765, 983f, 1300h–4, 1300j–4, 1300k–6, 1300<i>l</i>–5, 1300m–6, 1742, 1750a, 1772a, 2108 of this title; title 16 section 803.
+This section is referred to in sections 390, 396b, 450j–1, 450<i>l</i>, 458cc, 458aaa–10, 473, 473a, 566b, 711d, 713d, 714d, 715g, 734, 735, 765, 983f, 1300h–4, 1300j–4, 1300k–6, 1300<i>l</i>–5, 1300m–6, 1300n–6, 1742, 1750a, 1772a, 2108, 2213 of this title; title 16 section 803.
 

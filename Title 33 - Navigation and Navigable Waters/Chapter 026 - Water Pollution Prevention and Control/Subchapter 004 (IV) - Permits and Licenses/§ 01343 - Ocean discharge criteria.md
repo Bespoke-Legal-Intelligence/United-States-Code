@@ -34,13 +34,9 @@ The requirements of subsection (d) of section 1342 of this title may not be waiv
 
 Discharges from point sources in the United States Virgin Islands in existence on Aug. 5, 1983, attributable to the manufacture of rum not to be subject to the requirements of this section under certain conditions, see section 214(g) of Pub. L. 98–67, set out as a note under section 1311 of this title.
 
-#### Territorial Sea of United States
+#### Territorial Sea and Contiguous Zone of United States
 
-For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
-
-#### Contiguous Zone of United States
-
-For extension of contiguous zone of United States, see Proc. No. 7219, Sept. 2, 1999, 64 F.R. 48701, set out as a note under section 1331 of Title 43, Public Lands.
+For extension of territorial sea and contiguous zone of United States, see Proc. No. 5928 and Proc. No. 7219, respectively, set out as notes under section 1331 of Title 43, Public Lands.
 
 #### Section Referred to in Other Sections
 

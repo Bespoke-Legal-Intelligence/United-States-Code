@@ -38,7 +38,7 @@ The purpose of this section is to provide financial assistance to eligible entit
 
 #### (4) Special rule
 
-&emsp;A grant recipient, before carrying out a program assisted under this section, shall plan, train personnel, develop curriculum, and acquire or develop materials.
+&emsp;A grant recipient, before carrying out a program assisted under this section, shall plan,train personnel, develop curriculum, and acquire or develop materials.
 
 #### (c) “Eligible entity” defined
 
@@ -46,7 +46,7 @@ For the purpose of this section the term “eligible entity” means—
 
 &emsp;(1) one or more local educational agencies; or
 
-&emsp;(2) one or more local educational agencies in collaboration with an institution of highereducation, community-based organizations or a local or State educational agency.
+&emsp;(2) one or more local educational agencies in collaboration with an institution of higher education, community-based organizations or a local or State educational agency.
 
 (Pub. L. 89–10, title VII, §7114, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3721.)
 

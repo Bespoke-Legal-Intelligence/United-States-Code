@@ -16,7 +16,7 @@ A vessel engaged in fishing shall not impede the passage of any other vessel nav
 
 #### (d) Crossing narrow channels or fairways
 
-A vessel shall not cross a narrow channel or fairway if such crossing impedes the passage of a vessel which can safely navigate only within that channel or fairway. The latter vessel shall use the danger signal prescribed in Rule 34(d) if in doubt as to the intention of the crossing vessel.
+A vessel shall not cross a narrow channel or fairway if such crossing impedes the passage ofa vessel which can safely navigate only within that channel or fairway. The latter vessel shall use the danger signal prescribed in Rule 34(d) if in doubt as to the intention of the crossing vessel.
 
 #### (e) Overtaking vessels
 

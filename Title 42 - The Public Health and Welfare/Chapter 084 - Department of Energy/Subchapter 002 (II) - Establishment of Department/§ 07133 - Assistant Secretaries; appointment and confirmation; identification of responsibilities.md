@@ -50,7 +50,7 @@
 
 &emsp;(11) Public and congressional relations functions, including responsibilities for providing a continuing liaison between the Department and the Congress and the Department and the public.
 
-(b) At the time the name of any individual is submitted for confirmation to the position of Assistant Secretary, the President shall identify with particularity the function or functions described in subsection (a) of this section (or any portion thereof) for which such individual will be responsible.
+(b) At the time the name of any individual is submitted for confirmation to the position of Assistant Secretary, the President shall identifywith particularity the function or functions described in subsection (a) of this section (or any portion thereof) for which such individual will be responsible.
 
 (Pub. L. 95–91, title II, §203, Aug. 4, 1977, 91 Stat. 570; Pub. L. 106–65, div. C, title XXXII, §3294(a)(2), (b), Oct. 5, 1999, 113 Stat. 970.)
 

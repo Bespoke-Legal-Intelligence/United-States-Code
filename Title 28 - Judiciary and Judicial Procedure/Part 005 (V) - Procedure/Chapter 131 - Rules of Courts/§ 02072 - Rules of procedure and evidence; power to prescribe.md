@@ -1,12 +1,12 @@
 ### §2072. Rules of procedure and evidence; power to prescribe
 
-(a) The Supreme Court shall have the power to prescribe general rules of practice and procedure and rules of evidence for cases in the United States district courts (including proceedings before magistrates thereof) and courts of appeals.
+(a) The Supreme Court shall have the power to prescribe general rules of practice and procedure and rules of evidence for cases in the United States district courts (including proceedings before magistrate judges thereof) and courts of appeals.
 
 (b) Such rules shall not abridge, enlarge or modify any substantive right. All laws in conflict with such rules shall be of no further force or effect after such rules have taken effect.
 
 (c) Such rules may define when a ruling of a district court is final for the purposes of appeal under section 1291 of this title.
 
-(Added Pub. L. 100–702, title IV, §401(a), Nov. 19, 1988, 102 Stat. 4648; amended Pub. L. 101–650, title III, §315, Dec. 1, 1990, 104 Stat. 5115.)
+(Added Pub. L. 100–702, title IV, §401(a), Nov. 19, 1988, 102 Stat. 4648; amended Pub. L. 101–650, title III, §§315, 321, Dec. 1, 1990, 104 Stat. 5115, 5117.)
 
 #### Prior Provisions
 
@@ -14,11 +14,11 @@ A prior section 2072, acts June 25, 1948, ch. 646, 62 Stat. 961; May 24, 1949, c
 
 #### Amendments
 
-1990—Subsec. (c). Pub. L. 101–650 added subsec. (c).
+<b>1990</b>—Subsec. (c). Pub. L. 101–650 added subsec. (c).
 
 #### Change of Name
 
-Reference to United States magistrate or to magistrate deemed to refer to United States magistrate judge pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of this title.
+Words “magistrate judges” substituted for “magistrates” in subsec. (a) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of this title.
 
 #### Effective Date
 
@@ -31,14 +31,6 @@ Rules of civil procedure promulgated under this section as applicable to the Dis
 #### Admiralty Rules
 
 The Rules of Practice in Admiralty and Maritime Cases, promulgated by the Supreme Court on Dec. 20, 1920, effective Mar. 7, 1921, as revised, amended, and supplemented, were rescinded, effective July 1, 1966, in accordance with the general unification of civil and admiralty procedure which became effective July 1, 1966. Provision for certain distinctly maritime remedies were preserved however, in the Supplemental Rules for Certain Admiralty and Maritime Claims, Rules A to F, Federal Rules of Civil Procedure, Appendix to this title.
-
-#### Federal Rules of Civil Procedure
-
-Application of rules of procedure, see rules 1, 2, 35, 38, 81, Appendix to this title.
-
-Evidence, see rule 43.
-
-One form of action, see rules 1 and 2.
 
 #### Section Referred to in Other Sections
 

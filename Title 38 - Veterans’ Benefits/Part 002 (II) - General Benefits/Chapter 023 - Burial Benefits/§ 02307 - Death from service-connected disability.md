@@ -24,7 +24,7 @@ Amendment by Pub. L. 95–479 effective Oct. 1, 1978, see section 401(a) of Pub.
 
 #### Effective Date
 
-Section effective Sept. 1, 1973, or such earlier date as the President may prescribe and publish in the FederalRegister, see section 10(c) of Pub. L. 93–43, set out as a note under section 2306 of this title.
+Section effective Sept. 1, 1973, or such earlier date as the President may prescribe and publish in the Federal Register, see section 10(c) of Pub. L. 93–43, set out as a note under section 2306 of this title.
 
 #### Section Referred to in Other Sections
 

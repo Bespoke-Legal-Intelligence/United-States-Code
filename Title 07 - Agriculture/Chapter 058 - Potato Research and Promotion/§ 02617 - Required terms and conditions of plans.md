@@ -28,7 +28,7 @@ Providing that the board shall prepare and submit to the Secretary for his appro
 
 #### (e) Assessment rate per poundage handled; limitation
 
-Providing that the board shall recommend to the Secretary and the Secretary shall fix the assessment rate at not more than 2 cents per one hundred pounds of potatoes handled; except that if approved by producers, and importers when importers are subject to a plan, pursuant to section 2623 of this title, the rate of assessment shall not exceed one-half of 1 per centum of the immediate past ten-calendar-year United States average price received for potatoes by growers as reported by the Department of Agriculture.
+Providing that the board shall recommend to the Secretary and the Secretary shall fix the assessment rate at not more than 2 cents per onehundred pounds of potatoes handled; except that if approved by producers, and importers when importers are subject to a plan, pursuant to section 2623 of this title, the rate of assessment shall not exceed one-half of 1 per centum of the immediate past ten-calendar-year United States average price received for potatoes by growers as reported by the Department of Agriculture.
 
 #### (f) Restrictions
 
@@ -52,7 +52,7 @@ Providing the board with authority to enter into contracts or agreements, with t
 
 Providing that the board shall maintain books and records and prepare and submit to the Secretary such reports from time to time as may be prescribed for appropriate accounting with respect to the receipt and disbursement of funds entrusted to it and cause a complete audit report to be submitted to the Secretary at the end of each fiscal period.
 
-(Pub. L. 91–670, title III, §308, Jan. 11, 1971, 84 Stat. 2042; Pub. L. 97–244, §2, Aug. 26, 1982, 96 Stat. 310; Pub. L. 98–171, §2(a), Nov. 29, 1983, 97Stat. 1117; Pub. L. 101–624, title XIX, §1940, Nov. 28, 1990, 104 Stat. 3866.)
+(Pub. L. 91–670, title III, §308, Jan. 11, 1971, 84 Stat. 2042; Pub. L. 97–244, §2, Aug. 26, 1982, 96 Stat. 310; Pub. L. 98–171, §2(a), Nov. 29, 1983, 97 Stat. 1117; Pub. L. 101–624, title XIX, §1940, Nov. 28, 1990, 104 Stat. 3866.)
 
 #### Amendments
 

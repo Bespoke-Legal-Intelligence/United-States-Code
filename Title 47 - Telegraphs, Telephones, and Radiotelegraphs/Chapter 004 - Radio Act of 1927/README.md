@@ -1,9 +1,5 @@
 ### <b>CHAPTER 4—RADIO ACT OF 1927</b>
 
-#### Cross References
-
-Communications Act of 1934, see section 151 et seq. of this title.
-
 
 ---
 

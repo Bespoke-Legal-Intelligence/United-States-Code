@@ -66,7 +66,7 @@ Paragraphs (1), (6), (7), and (11) of subsection (b) of section 450i of this tit
 
 #### (f) Consultation with National Academy of Sciences
 
-The Secretary may use funds made available under this section to consult with the NationalAcademy of Sciences regarding the administration of the Agricultural Genome Initiative.
+The Secretary may use funds made available under this section to consult with the National Academy of Sciences regarding the administration of the Agricultural Genome Initiative.
 
 (Pub. L. 101–624, title XVI, §1671, Nov. 28, 1990, 104 Stat. 3769; Pub. L. 104–66, title I, §1011(s), Dec. 21, 1995, 109 Stat. 710; Pub. L. 104–127, title VIII, §835, Apr. 4, 1996, 110 Stat. 1169; Pub. L. 105–185, title II, §241, June 23, 1998, 112 Stat. 547.)
 

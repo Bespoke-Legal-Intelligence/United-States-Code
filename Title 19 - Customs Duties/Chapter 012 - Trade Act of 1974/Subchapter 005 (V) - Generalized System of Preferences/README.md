@@ -4,6 +4,8 @@
 
 This subchapter is referred to in sections 2253, 2703, 3105, 3203, 3331 of this title; title 22 sections 290k–3, 6062; title 26 section 871.
 
+<i><sup>1</sup></i><i> So in original. Probably should be “this”.</i>
+
 
 ---
 
@@ -15,4 +17,6 @@ This subchapter is referred to in sections 2253, 2703, 3105, 3203, 3331 of this 
 - [&sect; 02464 - Review and report to Congress](%C2%A7%2002464%20-%20Review%20and%20report%20to%20Congress.md)
 - [&sect; 02465 - Date of termination](%C2%A7%2002465%20-%20Date%20of%20termination.md)
 - [&sect; 02466 - Agricultural exports of beneficiary developing countries](%C2%A7%2002466%20-%20Agricultural%20exports%20of%20beneficiary%20developing%20countries.md)
+- [&sect; 02466a - Designation of sub-Saharan African countries for certain benefits](%C2%A7%2002466a%20-%20Designation%20of%20sub-Saharan%20African%20countries%20for%20certain%20benefits.md)
+- [&sect; 02466b - Termination of benefits for sub-Saharan African countries](%C2%A7%2002466b%20-%20Termination%20of%20benefits%20for%20sub-Saharan%20African%20countries.md)
 - [&sect; 02467 - Definitions](%C2%A7%2002467%20-%20Definitions.md)

@@ -26,10 +26,6 @@ As used in this section, the term “crime of violence” has the meaning given 
 
 (July 31, 1946, ch. 707, §9B, as added Pub. L. 102–397, title I, §101, Oct. 6, 1992, 106 Stat. 1949; amended Pub. L. 104–186, title II, §221(13), Aug. 20, 1996, 110 Stat. 1750.)
 
-#### Codification
-
-Section is also set out in D.C. Code, §9–115.2.
-
 #### Amendments
 
 1996—Subsec. (a). Pub. L. 104–186 substituted “House Oversight” for “House Administration”.

@@ -106,5 +106,9 @@ There are authorized to be appropriated for carrying out this section, $10,000,0
 
 The Intermodal Surface Transportation Efficiency Act of 1991, referred to in subsec. (a)(3)(K), is Pub. L. 102–240, Dec. 18, 1991, 105 Stat. 1914. For complete classification of this Act to the Code, see Short Title of 1991 Amendment note set out under section 101 of Title 49, Transportation, and Tables.
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (c)(2) of this section relating to annual reports to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 8th item on page 86 of House Document No. 103–7.
+
 <i><sup>1</sup></i><i> So in original. Probably should be “guidelines”.</i>
 

@@ -12,7 +12,7 @@ Of the amounts appropriated under subsection (a) of this section for each fiscal
 
 &emsp;(2) 11/2 percent for activities authorized in sections 9913 through 9918 of this title, of which—
 
-&emsp;&emsp;(A) not less than 1/2 of the amount reserved by the Secretary under this paragraph shall be distributed directly to eligible entities, organizations, or associations described in section 9913(c)(2) of this title for the purpose of carrying out activities described in section 9913(c) of this title; and
+&emsp;&emsp;(A) not less than 1/2 of the amount reserved by the Secretary under this paragraph shall be distributed directly to eligible entities, organizations, or associations described in section 9913(c)(2) of this title for the purposeof carrying out activities described in section 9913(c) of this title; and
 
 &emsp;&emsp;(B) 1/2 of the remainder of the amount reserved by the Secretary under this paragraph shall be used by the Secretary to carry out evaluation and to assist States in carrying out corrective action activities and monitoring (to correct programmatic deficiencies of eligible entities), as described in sections 9914(c) and 9913 of this title; and
 

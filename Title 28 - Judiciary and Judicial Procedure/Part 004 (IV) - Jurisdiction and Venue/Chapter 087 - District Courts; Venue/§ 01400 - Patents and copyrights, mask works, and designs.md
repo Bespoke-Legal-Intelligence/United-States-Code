@@ -30,25 +30,11 @@ Title 17 of the United States Code was enacted into positive law by act July 30,
 
 #### Amendments
 
-1999—Pub. L. 106–44 amended section catchline generally so as to read “Patents and copyrights, mask works, and designs”.
+<b>1999</b>—Pub. L. 106–44 amended section catchline generally so as to read “Patents and copyrights, mask works, and designs”.
 
-1998—Pub. L. 105–304, §503(c)(2), amended section catchline generally, substituting “Patents and copyrights, mask works, and designs” for “Patents and copyrights”.
+<b>1998</b>—Pub. L. 105–304, §503(c)(2), amended section catchline generally, substituting “Patents and copyrights, mask works, and designs” for “Patents and copyrights”.
 
 Subsec. (a). Pub. L. 105–304, §503(c)(1), inserted “or designs” after “mask works”.
 
-1988—Subsec. (a). Pub. L. 100–702 inserted “or exclusive rights in mask works” after “copyrights”.
-
-#### Federal Rules of Civil Procedure
-
-Process, see rule 4, Appendix to this title.
-
-#### Cross References
-
-Jurisdiction and venue of patent suits against residents of foreign countries or persons residing in plurality of districts, see sections 146 and 291 of Title 35, Patents.
-
-Jurisdiction of district courts in patent or copyright actions, see section 1338 of this title.
-
-Jurisdiction and legal remedy for unauthorized use or disclosure of patents and technical information, see section 2356 of Title 22, Foreign Relations and Intercourse.
-
-Process in patent infringement action, see section 1694 of this title.
+<b>1988</b>—Subsec. (a). Pub. L. 100–702 inserted “or exclusive rights in mask works” after “copyrights”.
 

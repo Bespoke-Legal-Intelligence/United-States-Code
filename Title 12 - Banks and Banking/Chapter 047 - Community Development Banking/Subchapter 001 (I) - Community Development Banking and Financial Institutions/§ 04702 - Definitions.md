@@ -146,5 +146,5 @@ The Alaska Native Claims Settlement Act, referred to in pars. (11) and (12), is 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1715z–2, 1757a, 1759, 1834a of this title.
+This section is referred to in sections 1715z–2, 1757a, 1759, 1834a of this title; title 15 section 6901.
 

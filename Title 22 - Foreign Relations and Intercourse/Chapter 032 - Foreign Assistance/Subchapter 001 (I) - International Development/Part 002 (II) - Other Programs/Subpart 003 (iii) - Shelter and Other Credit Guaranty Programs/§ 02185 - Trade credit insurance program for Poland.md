@@ -26,11 +26,11 @@ The agreement referred to in subsection (c) of this section shall also provide f
 
 #### (1) Funds which may be used
 
-&emsp;Such amounts of the funds made available to carry out part IV of subchapter II of this chapter (relating to the economic support fund) as the President determines are necessary may be made available to discharge liabilities under guarantees entered into under subsection (a) of this section.
+&emsp;Such amounts of the funds made available to carry out part IV of subchapter II of this chapter (relating to the economic support fund) as the President determines are necessary may be made available to discharge liabilitiesunder guarantees entered into under subsection (a) of this section.
 
 #### (2) Crediting of subsequent payments
 
-&emsp;To the extent that any of the funds made available pursuant to paragraph (1) are paidout for a claim arising out of liabilities guaranteed under subsection (a) of this section, amounts received after the date of such payment, with respect to such claim, shall be credited to the reserve fund established pursuant to subsection (d) of this section, shall be merged with the funds in such reserve, and shall be available for the purpose of payments by the Administrator to the Bank for guarantees under subsection (a) of this section.
+&emsp;To the extent that any of the funds made available pursuant to paragraph (1) are paid out for a claim arising out of liabilities guaranteed under subsection (a) of this section, amounts received after the date of such payment, with respect to such claim, shall be credited to the reserve fund established pursuant to subsection (d) of this section, shall be merged with the funds in such reserve, and shall be available for the purpose of payments by the Administrator to the Bank for guarantees under subsection (a) of this section.
 
 #### (f) Appropriations action required
 
@@ -40,9 +40,7 @@ Commitments to guarantee under subsection (a) of this section are authorized onl
 
 The aggregate amount of outstanding commitments under subsection (a) of this section may not exceed $200,000,000 of contingent liability for loan principal during any fiscal year.
 
-#### (h) Biannual reports to Congress
-
-Every 6 months, the Administrator and the President of the Bank shall prepare and transmit to the Speaker of the House of Representatives and the Chairman of the Committee on Foreign Relations of the Senate a report on the amount and extension of guarantees and insurance provided by the Bank and guaranteed under this section during the preceding 6-month period.
+#### (h) Omitted
 
 #### (i) Administrative and technical assistance
 
@@ -81,6 +79,10 @@ For purposes of this section—
 #### References in Text
 
 The Export-Import Bank Act of 1945, referred to in subsec. (a)(2), is act July 31, 1945, ch. 341, 59 Stat. 526, as amended, which is classified generally to subchapter I (§635 et seq.) of chapter 6A of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 635 of Title 12 and Tables.
+
+#### Codification
+
+Subsec. (h) of this section, which required the Administrator and the President of the Bank, every 6 months, to prepare and transmit to the Speaker of the House of Representatives and the Chairman of the Committee on Foreign Relations of the Senate a report on the amount and extension of guarantees and insurance provided by the Bank and guaranteed under this section during the preceding 6-month period, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 148 of House Document No. 103–7.
 
 #### Delegation of Functions
 

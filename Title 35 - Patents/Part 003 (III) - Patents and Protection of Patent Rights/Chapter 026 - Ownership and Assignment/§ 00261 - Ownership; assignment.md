@@ -30,9 +30,3 @@ Amendment by Pub. L. 97–247 effective Aug. 27, 1982, see section 17(a) of Pub.
 
 Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 93–596, set out as a note under section 1111 of Title 15, Commerce and Trade.
 
-#### Cross References
-
-Issue of patent to assignee, see section 152 of this title.
-
-Oaths, acknowledgments, affidavits and depositions before United States magistrate judges, see section 636 of Title 28, Judiciary and Judicial Procedure.
-

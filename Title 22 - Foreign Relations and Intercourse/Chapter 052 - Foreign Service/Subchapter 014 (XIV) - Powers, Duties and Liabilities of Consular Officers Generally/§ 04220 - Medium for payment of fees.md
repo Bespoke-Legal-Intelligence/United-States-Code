@@ -12,12 +12,6 @@ Section was not enacted as part of the Foreign Service Act of 1980 which compris
 
 Section was formerly classified to section 1202 of this title, and prior thereto to section 128 of this title.
 
-#### Cross References
-
-All coins and currencies of United States to be legal tender for all debts, see section 5103 of Title 31, Money and Finance.
-
-Valuation of foreign coins in payment of fees, see section 4208 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 4191 of this title.

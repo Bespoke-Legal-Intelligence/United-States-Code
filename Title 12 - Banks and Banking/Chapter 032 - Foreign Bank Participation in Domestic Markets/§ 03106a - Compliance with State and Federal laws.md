@@ -14,7 +14,7 @@
 
 &emsp;(B) prohibit discrimination against individuals or other persons on the basis of the race, color, religion, sex, marital status, age, or national origin of (i) such individual or other person or (ii) any officer, director, employee, or creditor of, or any owner of any interest in, such individual or other person; and
 
-&emsp;(C) apply to national banks or State-chartered banks doing business in the State inwhich the entity to be established is to do business.
+&emsp;(C) apply to national banks or State-chartered banks doing business in the State in which the entity to be established is to do business.
 
 (Pub. L. 95–369, §9(b), as added Pub. L. 95–630, title III, §311, Nov. 10, 1978, 92 Stat. 3678; amended Pub. L. 103–328, title I, §107(c), Sept. 29, 1994, 108 Stat. 2360.)
 

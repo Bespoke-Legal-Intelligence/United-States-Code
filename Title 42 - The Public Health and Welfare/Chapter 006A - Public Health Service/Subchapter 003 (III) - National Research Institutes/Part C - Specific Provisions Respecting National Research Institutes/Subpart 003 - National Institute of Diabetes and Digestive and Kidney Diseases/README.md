@@ -14,3 +14,4 @@ subpart 3—national institute of diabetes and digestive and kidney diseases
 - [&sect; 00285c&#8211;6 - Advisory council subcommittees](%C2%A7%2000285c%E2%80%936%20-%20Advisory%20council%20subcommittees.md)
 - [&sect; 00285c&#8211;7 - Biennial report](%C2%A7%2000285c%E2%80%937%20-%20Biennial%20report.md)
 - [&sect; 00285c&#8211;8 - Nutritional disorders program](%C2%A7%2000285c%E2%80%938%20-%20Nutritional%20disorders%20program.md)
+- [&sect; 00285c&#8211;9 - Juvenile diabetes](%C2%A7%2000285c%E2%80%939%20-%20Juvenile%20diabetes.md)

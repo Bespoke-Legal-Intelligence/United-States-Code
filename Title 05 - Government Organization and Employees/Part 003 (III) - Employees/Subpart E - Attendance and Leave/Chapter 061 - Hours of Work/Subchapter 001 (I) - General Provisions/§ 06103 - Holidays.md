@@ -168,7 +168,7 @@ Sec. 6. In administering the provisions of law relating to pay and leave of abse
 
 Sec. 7. The provisions of this order shall apply to officers and employees of the Post Office Department and the United States Postal Service (except that sections 3, 4, 5, and 6 shall not apply to the Postal Field Service) until changed by the Postal Service in accordance with the Postal Reorganization Act.
 
-Sec. 8. Executive Order No. 10358 of June 9, 1952, entitled <i>Observance of Holidays by Government Agencies</i> and amendatory Executive Orders No. 11226 of May 27, 1965, and No. 11272 of February 23, 1966, are revoked.
+Sec. 8. Executive Order No. 10358 of June 9, 1952, entitled <i>Observance of Holidays by Government Agencies</i> andamendatory Executive Orders No. 11226 of May 27, 1965, and No. 11272 of February 23, 1966, are revoked.
 
 Sec. 9. This order is effective as of January 1, 1971.
 

@@ -18,9 +18,9 @@ Prior to general amendment of act June 8, 1938, by act Apr. 29, 1942, section re
 
 Amendment by Pub. L. 89–486 effective ninety days after July 4, 1966, see section 9 of Pub. L. 89–486, set out as a note under section 611 of this title.
 
-#### Cross References
+#### Effective Date of 1942 Amendment
 
-Registration functions of the Secretary of State transferred to the Attorney General, see Ex. Ord. No. 9176, set out preceding section 611 of this title.
+Amendment by act Apr. 29, 1942, effective on the sixtieth day after Apr. 29, 1942, except that prior to such sixtieth day the Attorney General may make, prescribe, amend, and rescind such rules, regulations, and forms as may be necessary to carry out act Apr. 29, 1942, see section 3 of act Apr. 29, 1942, set out as a note under section 611 of this title.
 
 #### Section Referred to in Other Sections
 

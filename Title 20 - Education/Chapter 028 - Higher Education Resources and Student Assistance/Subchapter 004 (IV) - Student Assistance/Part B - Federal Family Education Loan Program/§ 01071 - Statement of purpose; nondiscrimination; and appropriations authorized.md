@@ -60,13 +60,9 @@ A prior section 1071, Pub. L. 89–329, title IV, §421, Nov. 8, 1965, 79 Stat. 
 
 Subsec. (d). Pub. L. 102–325, §411(c), added subsec. (d).
 
-1988—Subsec. (c). Pub. L. 100–369 substituted “shall be referred” for “may be referred” and inserted provision identifying loans made under this part as “Stafford Loans”.
+1988—Subsec. (c). Pub. L. 100–369 substituted “shall be referred” for “may be referred” and inserted provisionidentifying loans made under this part as “Stafford Loans”.
 
 Pub. L. 100–297 added subsec. (c).
-
-#### Effective Date of 1998 Amendment
-
-Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
 
 #### Effective Date of 1992 Amendment
 
@@ -74,7 +70,7 @@ Amendment by Pub. L. 102–325 effective July 23, 1992, with changes in the desi
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–297, title VI, §6303, Apr. 28, 1988, 102 Stat. 431, as amended by Pub. L. 100–351, June 27, 1988, 102 Stat. 661, provided that:
+Pub. L. 100–297, title VI, §6303, Apr. 28, 1988, 102 Stat. 431, as amended by Pub. L. 100–351, June 27, 1988, 102 Stat. 661; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675, provided that:
 
 “(a)
 
@@ -100,7 +96,7 @@ Special Rules.—(1) Any provision of this Act or any amendment made by this Act
 
 &emsp;“(D) Programs under title II of the Education for Economic Security Act \[formerly 20 U.S.C. 3961 et seq.\].
 
-&emsp;“(E) The program under section 702 of the Stewart B. McKinney Homeless Assistance Act \[formerly 42 U.S.C. 11421\].
+&emsp;“(E) The program under section 702 of the McKinney-Vento Homeless Assistance Act \[formerly 42 U.S.C. 11421\].
 
 “(6) The provisions of part A of title II of this Act \[§§2001 to 2034 of Pub. L. 100–297, amending sections 236 et seq. and 631 et seq. of this title\], excluding sections 2014(e) and 2018 \[amending section 238 of this title and enacting provisions set out as a note under section 238 of this title\], shall apply only with respect to amounts appropriated for fiscal years beginning after September 30, 1988.
 
@@ -132,7 +128,7 @@ Effective Dates.—The changes made in part B of title IV of the Act \[20 U.S.C.
 
 “(c)
 
-Changes Effective Without Regard to Regulations; Republication of Regulations.—The changes made in part B of title IV of the Act \[20 U.S.C. 1071 etseq.\] by the amendment made by subsection (a) of this section shall be effective in accordance with subsection (b) of this section without regard to whether such changes are reflected in the regulations prescribed by the Secretary of Education for the purpose of such part.
+Changes Effective Without Regard to Regulations; Republication of Regulations.—The changes made in part B of title IV of the Act \[20 U.S.C. 1071 et seq.\] by the amendment made by subsection (a) of this section shall be effective in accordance with subsection (b) of this section without regard to whether such changes are reflected in the regulations prescribed by the Secretary of Education for the purpose of such part.
 
 “(d)
 
@@ -140,7 +136,7 @@ New Borrowers.—For the purpose of this section, the term ‘new borrower’ me
 
 #### Study of Role of Guaranty Agencies
 
-Section 1401 of Pub. L. 102–325 directed Secretary of Education to review role of guaranty agencies within Federal Family Education Loan Program by examining administrative and financial operations of such agencies and the relationships between guaranty agencies and State governments and report to Congress within 1 year of July 23, 1992, on the review, prior to repeal by Pub. L. 105–332, §6(b)(2), Oct. 31, 1998, 112 Stat. 3128.
+Section 1401 of Pub. L. 102–325 directed Secretary of Education to review role of guaranty agencies within Federal Family Education Loan Program by examining administrative and financial operations of such agencies and the relationships between guaranty agencies and State governments and report to Congress within 1year of July 23, 1992, on the review, prior to repeal by Pub. L. 105–332, §6(b)(2), Oct. 31, 1998, 112 Stat. 3128.
 
 #### General Accounting Office Reports
 

@@ -70,7 +70,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–378 amended second sentence generally. Prior to amendment, second sentence read as follows: “In determining years of service, an employee is entitled to credit for all service creditable under section 8332 of this title for the purpose of an annuity under subchapter III of chapter 83 of this title and all service creditable under section 8411 of this title for the purpose of chapter 84 of this title.”
+1992—Subsec. (a). Pub. L. 102–378 amended second sentence generally. Prior to amendment, second sentenceread as follows: “In determining years of service, an employee is entitled to credit for all service creditable under section 8332 of this title for the purpose of an annuity under subchapter III of chapter 83 of this title and all service creditable under section 8411 of this title for the purpose of chapter 84 of this title.”
 
 1991—Subsec. (a)(A)(ii). Pub. L. 102–83 substituted reference to section 1101 of title 38 for reference to section 301 of title 38.
 
@@ -98,7 +98,7 @@ Exceptions.—(1) The amendment made by section 4(c) \[amending provisions set o
 
 “(5) The amendments made by section 2(25) \[amending section 5302 of this title\] shall be effective as of February 3, 1991.
 
-“(6) The provisions of section 8(a) and the amendments made by sections 2(57)(A), 2(60), 2(64), 2(67), 2(71),2(75)(A), 3(1), 3(4), 3(6), and 5(a) \[amending sections 5532, 8331, 8335, 8344, 8347, 8425, 8461, 8468, and 8901 of this title, repealing section 5380 of this title, enacting provisions set out as a note under section 5532 of this title, amending provisions set out as notes under sections 2105, 5304, 5305, 5378, and 8348 of this title, and repealing provisions set out as notes under sections 5380 and 5532 of this title\] shall be effective as of November 5, 1990.
+“(6) The provisions of section 8(a) and the amendments made by sections 2(57)(A), 2(60), 2(64), 2(67), 2(71), 2(75)(A), 3(1), 3(4), 3(6), and 5(a) \[amending sections 5532, 8331, 8335, 8344, 8347, 8425, 8461, 8468, and 8901 of this title, repealing section 5380 of this title, enacting provisions set out as a note under section 5532 of this title, amending provisions set out as notes under sections 2105, 5304, 5305, 5378, and 8348 of this title, and repealing provisions set out as notes under sections 5380 and 5532 of this title\] shall be effective as of November 5, 1990.
 
 “(7) The amendment made by section 2(52) \[amending this section\] shall be effective as of January 1, 1989, except that no amount shall become payable, as a result of the enactment of such amendment, under—
 
@@ -122,5 +122,5 @@ Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 6129, 6302, 6304, 6312, 6333, 6367 of this title; title 42 section 237.
+This section is referred to in sections 6129, 6302, 6304, 6305, 6312, 6333, 6367 of this title; title 42 section 237.
 

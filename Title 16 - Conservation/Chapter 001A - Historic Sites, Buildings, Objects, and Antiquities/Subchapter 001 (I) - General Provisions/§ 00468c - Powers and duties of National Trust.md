@@ -1,6 +1,6 @@
 ### §468c. Powers and duties of National Trust
 
-To the extent necessary to enable it to carry out the functions vested in it by sections 468 to 468e <sup>1</sup> of this title, the National Trust shall have the following general powers:
+To the extent necessary to enable it to carry out the functions vested in it by sections 468 to 468d of this title, the National Trust shall have the following general powers:
 
 (a) To have succession until dissolved by Act of Congress, in which event title to the properties of the National Trust, both real and personal, shall, insofar as consistent with existing contractual obligations and subject to all other legally enforceable claims or demands by or against the National Trust, pass to and become vested in the United States of America.
 
@@ -8,7 +8,7 @@ To the extent necessary to enable it to carry out the functions vested in it by 
 
 (c) To adopt, alter, and use a corporate seal which shall be judicially noticed.
 
-(d) To adopt a constitution and to make such bylaws, rules, and regulations, not inconsistent with the laws of the United States or of any State, as it deems necessary for the administration of its functions under sections 468 to 468e <sup>1</sup> of this title, including among other matter, bylaws, rules, and regulations governing visitation to historic properties, administration of corporate funds, and the organization and procedure of the board of trustees.
+(d) To adopt a constitution and to make such bylaws, rules, and regulations, not inconsistent with the laws of the United States or of any State, as it deems necessary for the administration of its functions under sections 468 to 468d of this title, including among other matter, bylaws, rules, and regulations governing visitation to historic properties, administration of corporate funds, and the organization and procedure of the board of trustees.
 
 (e) To accept, hold, and administer gifts and bequests of money, securities, or other personal property of whatsoever character, absolutely or on trust, for the purposes for which the National Trust is created. Unless otherwise restricted by the terms of the gift or bequest, the National Trust is authorized to sell, exchange, or otherwise dispose of and to invest or reinvest in such investments as it may determine from time to time the moneys, securities, or other property given or bequeathed to it. The principal of such corporate funds, together with the income therefrom and all other revenues received by it from any source whatsoever, shall be placed in such depositories as the National Trust shall determine and shall be subject to expenditure by the National Trust for its corporate purposes.
 
@@ -24,13 +24,7 @@ To the extent necessary to enable it to carry out the functions vested in it by 
 
 (Oct. 26, 1949, ch. 755, §4, 63 Stat. 928.)
 
-#### References in Text
-
-Section 468e of this title, referred to in text, was repealed by Pub. L. 86–533, §1(19), June 29, 1960, 74 Stat. 248.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 468, 468d, 470a of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

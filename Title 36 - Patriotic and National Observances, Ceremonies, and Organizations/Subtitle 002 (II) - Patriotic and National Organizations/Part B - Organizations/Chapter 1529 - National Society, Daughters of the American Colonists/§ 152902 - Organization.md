@@ -2,7 +2,7 @@
 
 (a)
 
-Federal Charter.—National Society, Daughters of the American Colonists (in this chapter, the “corporation”), incorporated in the District of Columbia, is a federally chartered corporation.
+Federal Charter.—National Society, Daughters of the American Colonists (in thischapter, the “corporation”), incorporated in the District of Columbia, is a federally chartered corporation.
 
 (b)
 

@@ -44,7 +44,7 @@ In the performance of its functions the Administration is authorized—
 
 &emsp;(10) when determined by the Administrator to be necessary, and subject to such security investigations as he may determine to be appropriate, to employ aliens without regard to statutory provisions prohibiting payment of compensation to aliens;
 
-&emsp;(11) to provide by concession, without regard to section 303b of title 40, on such terms as the Administrator may deem to be appropriate and to be necessary to protect the concessioner against loss of his investment in property (but not anticipated profits) resulting from the Administration's discretionary acts and decisions, for the construction, maintenance, and operation of all manner of facilities and equipment for visitors to the several installations of the Administration and, in connection therewith, to provide services incident to the dissemination of information concerning its activities to such visitors, without charge or with a reasonable charge therefor\(with this authority being in addition to any other authority which the Administration may have to provide facilities, equipment, and services for visitors to its installations). A concession agreement under this paragraph may be negotiated with any qualified proposer following due consideration of all proposals received after reasonable public notice of the intention to contract. The concessioner shall be afforded a reasonable opportunity to make a profit commensurate with the capital invested and the obligations assumed, and the consideration paid by him for the concession shall be based on the probable value of such opportunity and not on maximizing revenue to the United States. Each concession agreement shall specify the manner in which the concessioner's records are to be maintained, and shall provide for access to any such records by the Administration and the Comptroller General of the United States for a period of five years after the close of the business year to which such records relate. A concessioner may be accorded a possessory interest, consisting of all incidents of ownership except legal title (which shall vest in the United States), in any structure, fixture, or improvement he constructs or locates upon land owned by the United States; and, with the approval of the Administration, such possessory interest may be assigned, transferred, encumbered, or relinquished by him, and, unless otherwise provided by contract, shall not be extinguished by the expiration or other termination of the concession and may not be taken for public use without just compensation;
+&emsp;(11) to provide by concession, without regard to section 303b of title 40, on such terms as the Administrator may deem to be appropriate and to be necessary to protect the concessioner against loss of his investment in property (but not anticipated profits) resulting from the Administration's discretionary acts and decisions, for the construction, maintenance, and operation of all manner of facilities and equipment for visitors to the several installations of the Administration and, in connection therewith, to provide services incident to the dissemination of information concerning its activities to such visitors, without charge or with a reasonable charge therefor (with this authority being in addition to any other authority which the Administration may have to provide facilities, equipment, and services for visitors to its installations). A concession agreement under this paragraph may be negotiated with any qualified proposer following due consideration of all proposals received after reasonable public notice of the intention to contract. The concessioner shall be afforded a reasonable opportunity to make a profit commensurate with the capital invested and the obligations assumed, and the consideration paid by him for the concession shall be based on the probable value of such opportunity and not on maximizing revenue to the United States. Each concession agreement shall specify the manner in which the concessioner's records are to be maintained, and shall provide for access to any such records by the Administration and the Comptroller General of the United States for a period of five years after the close of the business year to which such records relate. A concessioner may be accorded a possessory interest, consisting of all incidents of ownership except legal title (which shall vest in the United States), in any structure, fixture, or improvement he constructs or locates upon land owned by the United States; and, with the approval of the Administration, such possessory interest may be assigned, transferred, encumbered, or relinquished by him, and, unless otherwise provided by contract, shall not be extinguished by the expiration or other termination of the concession and may not be taken for public use without just compensation;
 
 &emsp;(12) with the approval of the President, to enter into cooperative agreements under which members of the Army, Navy, Air Force, and Marine Corps may be detailed by the appropriate Secretary for services in the performance of functions under this chapter to the same extent as that to which they might be lawfully assigned in the Department of Defense;
 
@@ -92,7 +92,7 @@ Subsec. (c). Pub. L. 93–409 redesignated former subsec. (b) as (c).
 
 1973—Subsec. (b)(11). Pub. L. 93–74 added par. (11).
 
-1971—Subsec. (b)(14). Pub. L. 91–646 repealed provisions of paragraph for Administration authorization forreimbursement of owners and tenants of land and interests in land acquired on or after Nov. 1, 1961, by the United States for Administration use for expenses and damages incurred by such owners and tenants as result of moving themselves, their families, and their possessions because of said acquisition, limitation on amount, and time for submission of applications. See section 4601 et seq. of this title.
+1971—Subsec. (b)(14). Pub. L. 91–646 repealed provisions of paragraph for Administration authorization for reimbursement of owners and tenants of land and interests in land acquired on or after Nov. 1, 1961, by the United States for Administration use for expenses and damages incurred by such owners and tenants as result of moving themselves, their families, and their possessions because of said acquisition, limitation on amount, and time for submission of applications. See section 4601 et seq. of this title.
 
 1964—Subsec. (b)(2). Pub. L. 88–426 struck out provisions from cl. (A) which permitted the Administrator to fix compensation at not more than $21,000 for a maximum of thirty positions and provisions which related to the filling of positions prior to Mar. 1, 1962, and July 1, 1962.
 
@@ -133,6 +133,58 @@ Any rights or liabilities existing under provisions repealed by section 220(a) o
 #### Office of Inspector General
 
 Functions, powers, and duties of Management Audit Office and Office of Inspections and Security in National Aeronautics and Space Administration transferred to Office of Inspector General in National Aeronautics and Space Administration by section 9(a)(1)(L) of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, Government Organization and Employees, section 2 of which established such Office of Inspector General.
+
+#### Notice of Reprogramming or Reorganization
+
+Pub. L. 106–391, title III, §311, Oct. 30, 2000, 114 Stat. 1594, provided that:
+
+“(a)
+
+Notice of Reprogramming.—If any funds authorized by this Act \[see Tables for classification\] are subject to a reprogramming action that requires notice to be provided to the Appropriations Committees of the House of Representatives and the Senate, notice of such action shall concurrently be provided to the Committee on Science of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
+
+“(b)
+
+Notice of Reorganization.—The Administrator \[of the National Aeronautics and Space Administration\] shall provide notice to the Committees on Science and Appropriations of the House of Representatives, and the Committees on Commerce, Science, and Transportation and Appropriations of the Senate, not later than 30 days before any major reorganization of any program, project, or activity of the National Aeronautics and Space Administration.”
+
+#### Purchase of American-Made Equipment and Products
+
+Pub. L. 106–391, title III, §319, Oct. 30, 2000, 114 Stat. 1597, provided that:
+
+“(a)
+
+Purchase of American-Made Equipment and Products.—In the case of any equipment or products that may be authorized to be purchased with financial assistance provided under this Act \[see Tables for classification\], it is the sense of the Congress that entities receiving such assistance should, in expending the assistance, purchase only American-made equipment and products.
+
+“(b)
+
+Notice to Recipients of Assistance.—In providing financial assistance under this Act, the Administrator \[of the National Aeronautics and Space Administration\] shall provide to each recipient of the assistance a notice describing the statement made in subsection (a) by the Congress.”
+
+#### Enhancement of Science and Mathematics Programs
+
+Pub. L. 106–391, title III, §321, Oct. 30, 2000, 114 Stat. 1597, provided that:
+
+“(a)
+
+Definitions.—In this section:
+
+&emsp;“(1)
+
+Educationally useful federal equipment.—The term ‘educationally useful Federal equipment’ means computers and related peripheral tools and research equipment that is appropriate for use in schools.
+
+&emsp;“(2)
+
+School.—The term ‘school’ means a public or private educational institution that serves any of the grades of kindergarten through grade 12.
+
+“(b)
+
+Sense of the Congress.—
+
+&emsp;“(1)
+
+In general.—It is the sense of the Congress that the Administrator \[of the National Aeronautics and Space Administration\] should, to the greatest extent practicable and in a manner consistent with applicable Federal law (including Executive Order No. 12999 \[40 U.S.C. 484 note\]), donate educationally useful Federal equipment to schools in order to enhance the science and mathematics programs of those schools.
+
+&emsp;“(2)
+
+Reports.—Not later than 1 year after the date of the enactment of this Act \[Oct. 30, 2000\], and annually thereafter, the Administrator shall prepare and submit to Congress a report describing any donations of educationally useful Federal equipment to schools made during the period covered by the report.”
 
 #### NASA Mid-Range Procurement Test Program
 
@@ -190,11 +242,7 @@ Pub. L. 102–195, §11, Dec. 9, 1991, 105 Stat. 1612.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\]of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
-
-#### Cross References
-
-Restriction on employment of civilians generally, see section 3101 note of Title 5, Government Organization and Employees.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 #### Section Referred to in Other Sections
 

@@ -92,7 +92,7 @@ The programs established by this section shall apply to the acquisition workforc
 
 #### References in Text
 
-Section 5051(c) of the Federal Acquisition Streamlining Act of 1994, referred to in subsec. (b)(3), is section5051(c) of Pub. L. 103–355, which is set out as a note under section 263 of this title.
+Section 5051(c) of the Federal Acquisition Streamlining Act of 1994, referred to in subsec. (b)(3), is section 5051(c) of Pub. L. 103–355, which is set out as a note under section 263 of this title.
 
 #### Effective Date
 

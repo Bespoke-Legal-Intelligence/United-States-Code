@@ -30,7 +30,7 @@ Repayment requirements.—The Secretary may grant an exemption to a sponsor from
 
 &emsp;(3)
 
-Compensation from airport operations.—The Secretary may grant an exemption to a purchaser or lessee from the provisions of sections 47107(b) and 47133 of this title (and any other law, regulation, or grant assurance) to the extent necessary to permit the purchaser or lessee to earn compensation from the operations of the airport.
+Compensation from airport operations.—The Secretary may grant an exemption to a purchaser or lessee from the provisions of sections 47107(b) and 47133 of this title (and any other law, regulation, or grant assurance) to the extent necessary to permit thepurchaser or lessee to earn compensation from the operations of the airport.
 
 (c)
 

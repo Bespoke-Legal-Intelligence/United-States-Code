@@ -27,16 +27,6 @@
 
 1953—Act June 30, 1953, ch. 175, §1, 67 Stat. 133, added item 2157.
 
-#### Cross References
-
-Federal retirement benefits, forfeiture upon conviction of offenses described hereunder, see section 8312 of Title 5, Government Organization and Employees.
-
-Forfeiture of veterans’ benefits upon conviction under this chapter, see section 6105 of Title 38, Veterans’ Benefits.
-
-Security regulations and orders, penalty for violation of, see section 797 of Title 50, War and National Defense.
-
-Wire or oral communications, authorization for interception, to provide evidence of offenses under this chapter, see section 2516 of this title.
-
 #### Chapter Referred to in Other Sections
 
 This chapter is referred to in section 2516 of this title; title 5 section 8312; title 8 section 1227; title 22 section 2778; title 38 section 6105; title 42 section 402; title 50 section 1801.

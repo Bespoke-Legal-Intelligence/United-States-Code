@@ -108,7 +108,7 @@ The program shall provide for—
 
 (1) The Secretary and the Director may provide financial assistance and enter into contracts to conduct activities under the program.
 
-(2) The Secretary shall solicit contributions from non-Federal sources to offset at least 50 percent of the total funding for all activities under the program. The Secretary shall adopt procedures, including a mechanism for collecting contributions, that ensures that no contributor of non-Federal funds may influence the program.
+(2) The Secretary shall solicit contributions from non-Federal sources to offset at least 50percent of the total funding for all activities under the program. The Secretary shall adopt procedures, including a mechanism for collecting contributions, that ensures that no contributor of non-Federal funds may influence the program.
 
 (3) The Secretary may not obligate funds under this section in any fiscal year unless funds received from non-Federal sources under paragraph (2) are available to offset at least 50 percent of the appropriations made under subsection (j) of this section for such fiscal year.
 
@@ -182,7 +182,7 @@ For purposes of this section:
 
 #### (B) Administrative expenses of the Secretary and the Director
 
-&emsp;&emsp;Of the total amount of funds made available under this section for any fiscal year, not more than 10 percent of such funds may be used for authorized administrative expenses of the Secretary and the Director in carrying out this section.
+&emsp;&emsp;Of the total amount of funds made available under this section for any fiscal year,not more than 10 percent of such funds may be used for authorized administrative expenses of the Secretary and the Director in carrying out this section.
 
 #### (C) Construction and rehabilitation of facilities and equipment
 

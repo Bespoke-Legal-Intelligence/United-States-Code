@@ -6,7 +6,7 @@ The Secretary is directed to monitor timber supply and demand in southeastern Al
 
 #### (b) Status of Tongass National Forest in southeastern Alaska; contents
 
-Within five years from December 2, 1980, and every two years thereafter the Secretary shallreview and report to Congress on the status of the Tongass National Forest in southeastern Alaska. This report shall include, but not be limited to, (1) the timber harvest levels in the forest since December 2, 1980; (2) the impact of wilderness designation on the timber, fishing, and tourism industry in southeast Alaska; (3) measures instituted by the Forest Service to protect fish and wildlife in the forest; (4) the status of the small business set aside program in the Tongass Forest,<sup>1</sup> and (5) the impact of timber management on subsistence resources, wildlife, and fisheries habitats.
+Within five years from December 2, 1980, and every two years thereafter the Secretary shall review and report to Congress on the status of the Tongass National Forest in southeastern Alaska. This report shall include, but not be limited to, (1) the timber harvest levels in the forest since December 2, 1980; (2) the impact of wilderness designation on the timber, fishing, and tourism industry in southeast Alaska; (3) measures instituted by the Forest Service to protect fish and wildlife in the forest; (4) the status of the small business set aside program in the Tongass Forest,<sup>1</sup> and (5) the impact of timber management on subsistence resources, wildlife, and fisheries habitats.
 
 #### (c) Cooperation and consultation
 
@@ -27,6 +27,10 @@ Subsec. (c). Pub. L. 101–626, §104(b), substituted “the southeast Alaska co
 #### Change of Name
 
 Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (b) of this section relating to reporting to Congress, every two years, on the status of the Tongass National Forest, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 48 of House Document No. 103–7.
 
 #### Study Regarding Feasibility of Acquiring Previously Harvested Private Lands in Tongass National Forest
 

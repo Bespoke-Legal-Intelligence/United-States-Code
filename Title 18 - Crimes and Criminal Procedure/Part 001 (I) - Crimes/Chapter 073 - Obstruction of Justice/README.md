@@ -45,14 +45,6 @@
 
 1950—Act Sept. 23, 1950, ch. 1024, title I, §31(b), 64 Stat. 1019, added item 1507.
 
-#### Cross References
-
-Conspiracy to obstruct justice, see section 1985 of Title 42, The Public Health and Welfare.
-
-Obstructing administration of justice as criminal contempt, see section 401 of this title.
-
-Peonage, obstructing enforcement of law prohibiting, see section 1581 of this title.
-
 #### Chapter Referred to in Other Sections
 
 This chapter is referred to in section 3521 of this title.

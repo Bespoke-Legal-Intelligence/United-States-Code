@@ -28,10 +28,6 @@ Amendment by section 603(a)(16) of Pub. L. 101–649 applicable to individuals e
 
 Section 7346(b) of Pub. L. 100–690 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to any aid or assistance which occurs on or after the date of the enactment of this Act \[Nov. 18, 1988\].”
 
-#### Cross References
-
-Definition of alien, entry, and United States, see section 1101 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in title 10 section 374; title 18 sections 1961, 2516.

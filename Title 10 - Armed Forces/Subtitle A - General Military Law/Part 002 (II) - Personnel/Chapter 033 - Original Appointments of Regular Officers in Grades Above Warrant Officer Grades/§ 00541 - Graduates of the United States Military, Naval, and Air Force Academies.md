@@ -78,10 +78,6 @@ Section 44 of act Aug. 10, 1956, provided that:
 
 “(e) The authorized strength in any regular grade is automatically increased to the minimum extent necessary to give effect to each appointment made under this section. An authorized strength so increased is increased for no other purpose, and while he holds that grade the officer whose appointment caused the increase is counted for the purpose of determining when other appointments, not under this section, may be made in that grade.”
 
-#### Cross References
-
-Commission on graduation, cadets, see sections 4353, 9353 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 583 of this title.

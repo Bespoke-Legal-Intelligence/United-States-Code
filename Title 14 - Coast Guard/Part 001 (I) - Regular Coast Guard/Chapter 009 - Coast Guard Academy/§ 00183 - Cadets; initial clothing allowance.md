@@ -16,7 +16,3 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 1951—Act Aug. 22, 1951, substituted provision that the Secretary may prescribe the sum to be credited for the former prescribed sum of $250, and inserted second sentence.
 
-#### Cross References
-
-Mileage allowance for Coast Guard Academy candidates, see section 410 of Title 37, Pay and Allowances of the Uniformed Services.
-

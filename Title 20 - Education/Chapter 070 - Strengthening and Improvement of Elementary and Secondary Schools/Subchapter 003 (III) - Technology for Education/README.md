@@ -17,4 +17,4 @@ This subchapter is referred to in section 8893 of this title.
 - [Part C - Ready-to-Learn Television](Part%20C%20-%20Ready-to-Learn%20Television/README.md)
 - [Part D - Telecommunications Demonstration Project for Mathematics](Part%20D%20-%20Telecommunications%20Demonstration%20Project%20for%20Mathematics/README.md)
 - [Part E - Elementary Mathematics and Science Equipment Program](Part%20E%20-%20Elementary%20Mathematics%20and%20Science%20Equipment%20Program/README.md)
-- [Part F - Elementary and Secondary School Library Media Resources Program](Part%20F%20-%20Elementary%20and%20Secondary%20School%20Library%20Media%20Resources%20Program/README.md)
+- [Part F - Limitation on Availability of Certain Funds for Schools](Part%20F%20-%20Limitation%20on%20Availability%20of%20Certain%20Funds%20for%20Schools/README.md)

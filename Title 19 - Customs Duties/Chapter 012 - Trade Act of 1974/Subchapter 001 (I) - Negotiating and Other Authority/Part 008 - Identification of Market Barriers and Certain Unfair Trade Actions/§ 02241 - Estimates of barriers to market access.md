@@ -108,7 +108,7 @@ Subsec. (d). Pub. L. 105–277, §1202(3), added subsec. (d).
 
 1994—Subsec. (b)(2)(C). Pub. L. 103–465, §311(a)(1), added subpar. (C).
 
-Subsec. (b)(3). Pub. L. 103–465, §312, inserted at end “After the submission of the report required by paragraph (1), the Trade Representative shall also consult periodically with, and take into account the views of, the committees described in that paragraph regardingmeans to address the foreign trade barriers identified in the report, including the possible initiation of investigations under section 2412 of this title or other trade actions.”
+Subsec. (b)(3). Pub. L. 103–465, §312, inserted at end “After the submission of the report required by paragraph (1), the Trade Representative shall also consult periodically with, and take into account the views of, the committees described in that paragraph regarding means to address the foreign trade barriers identified in the report, including the possible initiation of investigations under section 2412 of this title or other trade actions.”
 
 Subsec. (c)(1). Pub. L. 103–465, §311(a)(2), inserted at end “In preparing the section of the report required by subsection (b)(2)(C) of this section, the Trade Representative shall consult in particular with the Attorney General.”
 

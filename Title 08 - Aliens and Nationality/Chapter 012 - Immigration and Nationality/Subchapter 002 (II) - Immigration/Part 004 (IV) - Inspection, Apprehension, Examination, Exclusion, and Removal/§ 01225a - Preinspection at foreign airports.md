@@ -28,7 +28,7 @@
 
 &emsp;Prior to the establishment of a preinspection station, the Attorney General, in consultation with the Secretary of State, shall ensure that—
 
-&emsp;&emsp;(A) employees of the United States stationed at the preinspection station and their accompanying family members will receive appropriate protection;
+&emsp;&emsp;(A) employees of the United States stationed at the preinspection station and theiraccompanying family members will receive appropriate protection;
 
 &emsp;&emsp;(B) such employees and their families will not be subject to unreasonable risks to their welfare and safety; and
 

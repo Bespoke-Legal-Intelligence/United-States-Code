@@ -6,7 +6,11 @@ Conveyance Authority.—The Secretary of a military department may convey a util
 
 (b)
 
-Selection of Conveyee.—If more than one utility or entity referred to in subsection (a) notifies the Secretary concerned of an interest in a conveyance under such subsection, the Secretary shall carry out the conveyance through the use of competitive procedures.
+Selection of Conveyee.—(1) If more than one utility or entity referred to in subsection (a) notifies the Secretary concerned of an interest in a conveyance under such subsection, the Secretary shall carry out the conveyance through the use of competitive procedures.
+
+(2) Notwithstanding paragraph (1), the Secretary concerned may use procedures other than competitive procedures, but only in accordance with subsections (c) through (f) of section 2304 of this title, to select the conveyee of a utility system (or part of a utility system) under subsection (a).
+
+(3) With respect to the solicitation process used in connection with the conveyance of a utility system (or part of a utility system) under subsection (a), the Secretary concerned shall ensure that the process is conducted in a manner consistent with the laws and regulations of the State in which the utility system is located to the extent necessary to ensure that all interested regulated and unregulated utility companies and other interested entities receive an opportunity to acquire and operate the utility system to be conveyed.
 
 (c)
 
@@ -46,13 +50,15 @@ Notice-and-Wait Requirement.—The Secretary concerned may not make a conveyance
 
 (f)
 
-Additional Terms and Conditions.—The Secretary concerned may require such additional terms and conditions in connection with a conveyance under subsection (a) as the Secretary considers appropriate to protect the interests of the United States.
+Additional Terms and Conditions.—(1) The Secretary concerned may require such additional terms and conditions in connection with a conveyance under subsection (a) as the Secretary considers appropriate to protect the interests of the United States.
+
+(2) The Secretary concerned shall require in any contract for the conveyance of a utility system (or part of a utility system) under subsection (a) that the conveyee manage and operate the utility system in a manner consistent with applicable Federal and State regulations pertaining to health, safety, fire, and environmental requirements.
 
 (g)
 
 Assistance for Construction, Repair, or Replacement of Utility Systems.—In lieu of carrying out a military construction project to construct, repair, or replace a utility system, the Secretary concerned may use funds authorized and appropriated for the project to facilitate the conveyance of the utility system under this section by making a contribution toward the cost of construction, repair, or replacement of the utility system by the entity to which the utility system is being conveyed. The Secretary concerned shall consider any such contribution in the economic analysis required under subsection (e).
 
-(i) <sup>1</sup>
+(h)
 
 Utility System Defined.—(1) In this section, the term “utility system” means any of the following:
 
@@ -74,17 +80,23 @@ Utility System Defined.—(1) In this section, the term “utility system” mea
 
 &emsp;(B) Real property, easements, and rights-of-way associated with a system referred to in that paragraph.
 
-(j) <sup>2</sup>
+(i)
 
 Limitation.—This section shall not apply to projects constructed or operated by the Army Corps of Engineers under its civil works authorities.
 
-(Added Pub. L. 105–85, div. B, title XXVIII, §2812(a), Nov. 18, 1997, 111 Stat. 1992; amended Pub. L. 106–65, div. A, title X, §1067(1), div. B, title XXVIII, §2812, Oct. 5, 1999, 113 Stat. 774, 851.)
+(Added Pub. L. 105–85, div. B, title XXVIII, §2812(a), Nov. 18, 1997, 111 Stat. 1992; amended Pub. L. 106–65, div. A, title X, §1067(1), div. B, title XXVIII, §2812, Oct. 5, 1999, 113 Stat. 774, 851; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(15), div. B, title XXVIII, §2813\], Oct. 30, 2000, 114 Stat. 1654, 1654A–291, 1654A–418.)
 
 #### Prior Provisions
 
 A prior section 2688, added Pub. L. 96–125, title VIII, §804(a)(1), Nov. 26, 1979, 93 Stat. 948; amended Pub. L. 96–418, title VIII, §804, Oct. 10, 1980, 94 Stat. 1777; Pub. L. 97–22, §11(a)(9), July 10, 1981, 95 Stat. 138; Pub. L. 97–99, title IX, §901, Dec. 23, 1981, 95 Stat. 1381, related to use of solar energy systems in new facilities, prior to repeal by Pub. L. 97–214, §§7(1), 12(a), July 12, 1982, 96 Stat. 173, 176, effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date. See section 2857 of this title.
 
 #### Amendments
+
+2000—Subsec. (b). Pub. L. 106–398, §1 \[div. B, title XXVIII, §2813(a)\], designated existing provisions as par. (1) and added pars. (2) and (3).
+
+Subsec. (f). Pub. L. 106–398, §1 \[div. B, title XXVIII, §2813(b)\], designated existing provisions as par. (1) and added par. (2).
+
+Subsecs. (h) to (j). Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(15)\], redesignated subsecs. (i) and (j) as (h) and (i), respectively.
 
 1999—Subsec. (c)(3). Pub. L. 106–65, §2812(a), added par. (3).
 
@@ -95,8 +107,4 @@ Subsec. (g). Pub. L. 106–65, §2812(c)(2), added subsec. (g). Former subsec. (
 Subsec. (g)(2)(B). Pub. L. 106–65, §2812(b), substituted “Real property, easements,” for “Easements”.
 
 Subsecs. (h) to (j). Pub. L. 106–65, §2812(c)(1), redesignated subsecs. (g) and (h) as (i) and (j), respectively.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “(h)”.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be “(i)”.</i>
 

@@ -82,7 +82,7 @@ Wheelchair.—The term “wheelchair” means a mobility aid, usable indoors, an
 
 Subsec. (e). Pub. L. 105–178, §1202(a)(2), struck out “, other than a highway access to which is fully controlled,” after “located on a highway”.
 
-Subsec. (g). Pub. L. 105–178, §1202(a)(3), added subsec. (g) and struck out heading and text of former subsec. (g). Text read as follows: “Pedestrian walkways and bicycle transportation facilities to be constructed under this section shall be located and designed pursuant to an overall plan to be developed by each metropolitan planning organization and State and incorporated into their comprehensive annual long-range plans in accordance with sections 134 and 135 of this title, respectively. Such plans shall provide due consideration for safety and contiguous routes.”
+Subsec. (g). Pub. L. 105–178, §1202(a)(3), added subsec. (g) and struck out heading and text of former subsec.\(g). Text read as follows: “Pedestrian walkways and bicycle transportation facilities to be constructed under this section shall be located and designed pursuant to an overall plan to be developed by each metropolitan planning organization and State and incorporated into their comprehensive annual long-range plans in accordance with sections 134 and 135 of this title, respectively. Such plans shall provide due consideration for safety and contiguous routes.”
 
 Subsec. (h). Pub. L. 105–178, §1202(a)(4), substituted “Motorized vehicles may not” for “No motorized vehicles shall” in introductory provisions.
 
@@ -120,7 +120,7 @@ Subsec. (h). Pub. L. 97–424 redesignated former subsec. (e) as (h), substitute
 
 #### Effective Date of 1991 Amendment
 
-Amendment by Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available after Sept. 30, 1991, and, with certainexceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as a note under section 104 of this title.
+Amendment by Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available after Sept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as a note under section 104 of this title.
 
 #### Design Guidance
 

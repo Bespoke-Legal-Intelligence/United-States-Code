@@ -14,7 +14,7 @@ The Board may not prescribe regulations, issue or seek entry of orders, impose r
 
 #### (b) Limitation on indirect action
 
-The Board may not prescribe regulations, issue or seek entry of orders, impose restraints,restrictions, guidelines, requirements, safeguards, or standards, or otherwise take any action under or pursuant to any provision of this chapter or section 1818 of this title against or with respect to a bank holding company that requires the bank holding company to require a functionally regulated subsidiary of the holding company to engage, or to refrain from engaging, in any conduct or activities unless the Board could take such action directly against or with respect to the functionally regulated subsidiary in accordance with subsection (a) of this section.
+The Board may not prescribe regulations, issue or seek entry of orders, impose restraints, restrictions, guidelines, requirements, safeguards, or standards, or otherwise take any action under or pursuant to any provision of this chapter or section 1818 of this title against or with respect to a bank holding company that requires the bank holding company to require a functionally regulated subsidiary of the holding company to engage, or to refrain from engaging, in any conduct or activities unless the Board could take such action directly against or with respect to the functionally regulated subsidiary in accordance with subsection (a) of this section.
 
 #### (c) Actions specifically authorized
 

@@ -8,9 +8,3 @@ The Secretary of the Interior is directed to prevent the improper appropriation 
 
 R.S. §1818 derived from Res. June 30, 1864, No. 56, 13 Stat. 412.
 
-Section is also set out in D.C. Code, §7–1409.
-
-#### Cross References
-
-Ejection of trespassers from public grounds, see section 19 of this title.
-

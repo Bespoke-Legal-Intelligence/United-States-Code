@@ -30,15 +30,3 @@ Authority formerly granted to Commissioner of Agriculture by section 1 of act of
 
 Functions of Bureau of Animal Industry of Agricultural Research Administration concerned primarily with regulatory activities consolidated with other agencies into Food Distribution Administration, which was consolidated into War Food Administration, which was terminated and its functions transferred to Secretary of Agriculture, by Ex. Ord. No. 9577.
 
-#### Cross References
-
-Importation of cattle and quarantine, see section 101 et seq. of Title 21, Food and Drugs.
-
-Improvement in the breeding of horses suitable to needs of United States, see section 437 of this title.
-
-Leave of absence of employees of the Bureau of Animal Industry, see section 6301 et seq. of Title 5, Government Organization and Employees.
-
-Penalty for interference with an officer or employee of the Bureau of Animal Industry in the execution of his duties, see section 111 of Title 18, Crimes and Criminal Procedure.
-
-Prevention of introduction and spread of contagion among livestock, see section 111 et seq. of Title 21.
-

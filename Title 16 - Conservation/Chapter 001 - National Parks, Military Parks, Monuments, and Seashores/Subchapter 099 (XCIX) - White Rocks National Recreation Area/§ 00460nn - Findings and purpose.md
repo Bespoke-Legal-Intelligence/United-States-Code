@@ -6,7 +6,7 @@
 
 &emsp;(2) geographic and topographic characteristics of Vermont provide opportunities for large numbers of people to experience the beauty of primitive areas, but also place unusual pressure to provide options to maximize the availability of such lands for a variety of forms of recreation;
 
-&emsp;(3) certain lands designated as the Big Branch and Peru Peak Wilderness Areas by title I of this Act are suitable for inclusion as part of the national recreation area; and
+&emsp;(3) certain lands designated as the Big Branch and Peru Peak Wilderness Areas bytitle I of this Act are suitable for inclusion as part of the national recreation area; and
 
 &emsp;(4) certain other lands in the Green Mountain National Forest not designated as wilderness by this Act are of a predominantly roadless nature and possess outstanding wild values that are important for primitive and semiprimitive recreation, watershed protection, wildlife habitat, ecological study, education, and historic and archeological resources, and are deemed suitable for preservation and protection as part of a national recreation area.
 

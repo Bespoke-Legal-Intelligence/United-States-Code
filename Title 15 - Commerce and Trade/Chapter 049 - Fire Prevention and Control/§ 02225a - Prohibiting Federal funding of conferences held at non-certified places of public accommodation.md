@@ -36,5 +36,5 @@ The provisions of this section shall take effect on the first day of the first f
 
 #### Codification
 
-Section was enacted as part of the Hotel and Motel Fire Safety Act of 1990, and not as part of the FederalFire Prevention and Control Act of 1974 which comprises this chapter.
+Section was enacted as part of the Hotel and Motel Fire Safety Act of 1990, and not as part of the Federal Fire Prevention and Control Act of 1974 which comprises this chapter.
 

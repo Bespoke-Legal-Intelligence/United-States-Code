@@ -20,7 +20,7 @@ A drug or device—
 
 &emsp;&emsp;(B) under section 360j(g) of this title is exempt from either such section; or
 
-&emsp;&emsp;(C) is a banned device under section 360f of this title, is adulterated, misbranded, and in violation of such sections or Act unless the export of the drug or device is, except as provided in subsection (f) of this section, authorized under subsection (b), (c), (d), or (e) of this section or section 381(e)(2) of this title. If a drug or device described in paragraphs (1) and (2) may be exported under subsection (b) of this section and if an application for such drug or device under section 355 or 360e of this title or section 262 of title 42 was disapproved, the Secretary shall notify the appropriate public health official of the country to which such drug will be exported of such disapproval.
+&emsp;&emsp;(C) is a banned device under section 360f of this title, is adulterated, misbranded, and inviolation of such sections or Act unless the export of the drug or device is, except as provided in subsection (f) of this section, authorized under subsection (b), (c), (d), or (e) of this section or section 381(e)(2) of this title. If a drug or device described in paragraphs (1) and (2) may be exported under subsection (b) of this section and if an application for such drug or device under section 355 or 360e of this title or section 262 of title 42 was disapproved, the Secretary shall notify the appropriate public health official of the country to which such drug will be exported of such disapproval.
 
 #### (b) List of eligible countries for export; criteria for addition to list; direct export; petition for exemption
 
@@ -108,7 +108,7 @@ A drug or device intended for formulation, filling, packaging, labeling, or furt
 
 > the Secretary may, after providing the holder of the application an opportunity for an informal hearing, withdraw the approved application.
 
-(B) If the Secretary determines that the holder of an approved application under paragraph (1) or an importer is exporting a drug or device from the United States to an importer and suchimporter is exporting the drug or device to a country for which the Secretary cannot make a finding under paragraph (1) and such export presents an imminent hazard, the Secretary shall immediately prohibit the export of the drug or device to such importer, provide the person exporting the drug or device from the United States prompt notice of the prohibition, and afford such person an opportunity for an expedited hearing.
+(B) If the Secretary determines that the holder of an approved application under paragraph (1) or an importer is exporting a drug or device from the United States to an importer and such importer is exporting the drug or device to a country for which the Secretary cannot make a finding under paragraph (1) and such export presents an imminent hazard, the Secretary shall immediately prohibit the export of the drug or device to such importer, provide the person exporting the drug or device from the United States prompt notice of the prohibition, and afford such person an opportunity for an expedited hearing.
 
 #### (f) Prohibition of export of drug or device
 
@@ -170,7 +170,7 @@ Subsec. (f)(5). Pub. L. 104–180 substituted “if the labeling of the drug or 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 321, 331, 381 of this title.
+This section is referred to in sections 321, 331, 381, 384 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be subsection “(b)(1)(A)”.</i>
 

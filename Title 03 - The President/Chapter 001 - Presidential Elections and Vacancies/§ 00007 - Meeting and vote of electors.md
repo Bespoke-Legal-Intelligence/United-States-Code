@@ -4,7 +4,7 @@ The electors of President and Vice President of each State shall meet and give t
 
 (June 25, 1948, ch. 644, 62 Stat. 673.)
 
-#### Cross References
+#### Constitutional Provisions
 
 Day of voting by electors, see Const. Art. II, §1, cl. 3.
 

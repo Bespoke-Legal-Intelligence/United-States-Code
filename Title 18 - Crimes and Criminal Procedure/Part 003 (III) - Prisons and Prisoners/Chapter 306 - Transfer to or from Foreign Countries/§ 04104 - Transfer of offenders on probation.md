@@ -6,7 +6,7 @@
 
 (c) The court shall place the offender under supervision of the probation officer of the court. The offender shall be supervised by a probation officer, under such conditions as are deemed appropriate by the court as though probation had been imposed by the United States district court.
 
-(d) The probation may be revoked in accordance with section 3653 of this title and rule 32(f) of the Federal Rules of Criminal Procedure. Aviolation of the conditions of probation shall constitute grounds for revocation. If probation is revoked the suspended sentence imposed by the sentencing court shall be executed.
+(d) The probation may be revoked in accordance with section 3653 of this title and rule 32(f) of the Federal Rules of Criminal Procedure. A violation of the conditions of probation shall constitute grounds for revocation. If probation is revoked the suspended sentence imposed by the sentencing court shall be executed.
 
 (e) The provisions of sections 4105 and 4106 of this title shall be applicable following a revocation of probation.
 

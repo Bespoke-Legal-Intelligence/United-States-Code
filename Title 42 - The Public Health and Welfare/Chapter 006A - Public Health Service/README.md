@@ -688,8 +688,55 @@ Definitions.
 |  |  |
 | :--- | ---: |
 | 238<i>o.</i> | Restriction on use of funds for assisted suicide, euthanasia, and mercy killing. |
+| [238p.](Subchapter%20001%20%28I%29%20-%20Administration%20and%20Miscellaneous%20Provisions/Part%20B%20-%20Miscellaneous%20Provisions/%C2%A7%2000238p%20-%20Recommendations%20and%20guidelines%20regarding%20automated%20external%20defibrillators%20for%20Federal%20buildings.md) | Recommendations and guidelines regarding automated external defibrillators for Federal buildings. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Guidelines on placement.
+
+(b)
+
+Related recommendations.
+
+(c)
+
+Consultations; consideration of certain recommendations.
+
+(d)
+
+Date certain for establishing guidelines and recommendations.
+
+(e)
+
+Definitions.
+
+|  |  |
+| :--- | ---: |
+| [238q.](Subchapter%20001%20%28I%29%20-%20Administration%20and%20Miscellaneous%20Provisions/Part%20B%20-%20Miscellaneous%20Provisions/%C2%A7%2000238q%20-%20Liability%20regarding%20emergency%20use%20of%20automated%20external%20defibrillators.md) | Liability regarding emergency use of automated external defibrillators. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Good Samaritan protections regarding AEDs.
+
+(b)
+
+Inapplicability of immunity.
+
+(c)
+
+Rules of construction.
+
+(d)
+
+Federal jurisdiction.
+
+(e)
+
+Definitions.
 
 #### SUBCHAPTER II—GENERAL POWERS AND DUTIES
 
@@ -720,28 +767,7 @@ Protection of privacy of individuals who are research subjects.
 |  |  |
 | :--- | ---: |
 | [242\.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20A%20-%20Research%20and%20Investigations/%C2%A7%2000242%20-%20Studies%20and%20investigations%20on%20use%20and%20misuse%20of%20narcotic%20drugs%20and%20other%20drugs%3B%20annual%20report%20to%20Attorney%20General%3B%20cooperation%20with%20States.md) | Studies and investigations on use and misuse of narcotic drugs and other drugs; annual report to Attorney General; cooperation with States. |
-| [242a.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20A%20-%20Research%20and%20Investigations/%C2%A7%2000242a%20-%20Mental%20health.md) | Mental health. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Clinical training and instruction and clinical traineeships; stipends and allowances; research projects.
-
-(b)
-
-Effect of treaties and other international agreements on confidentiality.
-
-(c)
-
-Grants to public and other nonprofit institutions.
-
-(d)
-
-Obligatory service for traineeships.
-
-|  |  |
-| :--- | ---: |
+| [242a.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20A%20-%20Research%20and%20Investigations/%C2%A7%2000242a%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93310%2C%20div.%20B%2C%20title%20XXXII%2C%20%C2%A73201%28b%29%281%29%2C%20Oct.%2017%2C%202000%2C%20114%20Stat.%201190.md) | Repealed. |
 | [242b.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20A%20-%20Research%20and%20Investigations/%C2%A7%2000242b%20-%20General%20authority%20respecting%20research%2C%20evaluations%2C%20and%20demonstrations%20in%20health%20statistics%2C%20health%20services%2C%20and%20health%20care%20technology.md) | General authority respecting research, evaluations, and demonstrations in health statistics, health services, and health care technology. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -1097,6 +1123,10 @@ Indian tribes.
 
 Funding.
 
+(m)
+
+Guidelines for standardized reporting.
+
 |  |  |
 | :--- | ---: |
 | 247b–2. | Repealed. |
@@ -1114,7 +1144,25 @@ Technology assessment and epidemiology.
 
 |  |  |
 | :--- | ---: |
-| 247b–4. | Programs regarding birth defects. |
+| 247b–3a. | Training and reports by the Health Resources and Services Administration. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Training.
+
+(b)
+
+Report.
+
+(c)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| 247b–4. | National Center on Birth Defects and Developmental Disabilities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1178,6 +1226,69 @@ Authorization of appropriations.
 
 |  |  |
 | :--- | ---: |
+| 247b–4b. | Developmental disabilities surveillance and research programs. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+National autism and pervasive developmental disabilities surveillance program.
+
+(b)
+
+Centers of excellence in autism and pervasive developmental disabilities epidemiology.
+
+(c)
+
+Clearinghouse.
+
+(d)
+
+Definition.
+
+(e)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| 247b–4c. | Information and education. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Stipends.
+
+(c)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| 247b–4d. | Inter-agency Autism Coordinating Committee. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Establishment.
+
+(b)
+
+Membership.
+
+(c)
+
+Administrative support; terms of service; other provisions.
+
+|  |  |
+| :--- | ---: |
+| 247b–4e. | Report to Congress. |
 | 247b–5. | Preventive health measures with respect to prostate cancer. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -1289,6 +1400,214 @@ Availability of appropriations.
 |  |  |
 | :--- | ---: |
 | 247b–8. | Fellowship and training programs. |
+| 247b–9. | Diabetes in children and youth. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Surveillance on juvenile diabetes.
+
+(b)
+
+Type 2 diabetes in youth.
+
+(c)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| 247b–10. | Compilation of data on asthma. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Surveillance activities.
+
+(c)
+
+Collaborative efforts.
+
+(d)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| 247b–11. | Effects of folic acid in prevention of birth defects. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Consultations with States and private entities.
+
+(c)
+
+Technical assistance.
+
+(d)
+
+Evaluations.
+
+(e)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| 247b–12. | Safe motherhood. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Surveillance.
+
+(b)
+
+Prevention research.
+
+(c)
+
+Prevention programs.
+
+(d)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| 247b–13. | Prenatal and postnatal health. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Grants.
+
+(c)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| 247b–14. | Oral health promotion and disease prevention. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Grants to increase resources for community water fluoridation.
+
+(b)
+
+Community water fluoridation.
+
+(c)
+
+School-based dental sealant program.
+
+(d)
+
+Definitions.
+
+(e)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| 247b–14a. | Identification of interventions that reduce the burden and transmission of oral, dental, and craniofacial diseases in high risk populations; development of approaches for pediatric oral and craniofacial assessment. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Compliance with State practice laws.
+
+(c)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| 247b–15. | Surveillance and education regarding hepatitis C virus. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Laboratory procedures.
+
+(c)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| 247b–16. | Grants for lead poisoning related activities. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Authority to make grants.
+
+(b)
+
+Coordination with other children's programs.
+
+(c)
+
+Performance measures.
+
+(d)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| 247b–17. | Human papillomavirus. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Surveillance.
+
+(b)
+
+Prevention activities; education program.
+
+(c)
+
+HPV education and prevention.
+
+|  |  |
+| :--- | ---: |
 | [247c.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20B%20-%20Federal-State%20Cooperation/%C2%A7%2000247c%20-%20Sexually%20transmitted%20diseases%3B%20prevention%20and%20control%20projects%20and%20programs.md) | Sexually transmitted diseases; prevention and control projects and programs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -1397,17 +1716,246 @@ Separate grants for research on delivery of services.
 
 |  |  |
 | :--- | ---: |
+| 247c–2. | Data collection regarding programs under subchapter XXIV. |
 | [247d.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20B%20-%20Federal-State%20Cooperation/%C2%A7%2000247d%20-%20Public%20health%20emergencies.md) | Public health emergencies. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 (a)
 
-Determination of existence of emergency; authorization to act.
+Emergencies.
 
 (b)
 
-Public Health Emergency Fund; authorization of appropriations; annual report to Congress.
+Public Health Emergency Fund.
+
+(c)
+
+Supplement not supplant.
+
+|  |  |
+| :--- | ---: |
+| 247d–1. | National needs to combat threats to public health. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Capacities.
+
+(b)
+
+Supplement not supplant.
+
+(c)
+
+Technical assistance.
+
+(d)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| 247d–2. | Assessment of public health needs. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Program authorized.
+
+(b)
+
+Procedure.
+
+(c)
+
+Report.
+
+(d)
+
+Supplement not supplant.
+
+(e)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| 247d–3. | Grants to improve State and local public health agencies. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Program authorized.
+
+(b)
+
+Eligible entities.
+
+(c)
+
+Use of funds.
+
+(d)
+
+Report.
+
+(e)
+
+Supplement not supplant.
+
+(f)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| 247d–4. | Revitalizing the Centers for Disease Control and Prevention. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Findings.
+
+(b)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| 247d–5. | Combating antimicrobial resistance. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Task force.
+
+(b)
+
+Research and development of new antimicrobial drugs and diagnostics.
+
+(c)
+
+Education of medical and public health personnel.
+
+(d)
+
+Grants.
+
+(e)
+
+Grants for demonstration programs.
+
+(f)
+
+Supplement not supplant.
+
+(g)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| 247d–6. | Public health countermeasures to a bioterrorist attack. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Working group on preparedness for acts of bioterrorism.
+
+(b)
+
+Working group on the public health and medical consequences of bioterrorism.
+
+(c)
+
+Grants.
+
+(d)
+
+Federal assistance.
+
+(e)
+
+Education.
+
+(f)
+
+Future resource development.
+
+(g)
+
+General Accounting Office report.
+
+(h)
+
+Supplement not supplant.
+
+(i)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| 247d–7. | Demonstration program to enhance bioterrorism training, coordination, and readiness. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Eligible entities.
+
+(c)
+
+Specific criteria.
+
+(d)
+
+Duration of award.
+
+(e)
+
+Supplement not supplant.
+
+(f)
+
+General Accounting Office report.
+
+(g)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| 247d–8. | Coordinated program to improve pediatric oral health. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Grants.
+
+(c)
+
+Distribution.
+
+(d)
+
+Authorization of appropriations.
 
 #### Part C—Hospitals, Medical Examinations, and Medical Care
 
@@ -1676,7 +2224,7 @@ Advisory Council functions.
 
 (e)
 
-Report.
+Omitted.
 
 (f)
 
@@ -1735,6 +2283,133 @@ Priority regarding infants and children.
 (d)
 
 Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| 254c–5. | Epilepsy; seizure disorder. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+National public health campaign.
+
+(b)
+
+Seizure disorder; demonstration projects in medically underserved areas.
+
+(c)
+
+Definitions.
+
+(d)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| 254c–6. | Certain services for pregnant women. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Infant adoption awareness.
+
+(b)
+
+Application for grant.
+
+(c)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| 254c–7. | Special needs adoption programs; public awareness campaign and other activities. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Special needs adoption awareness campaign.
+
+(b)
+
+National resources program.
+
+(c)
+
+Other programs.
+
+(d)
+
+Application for grant.
+
+(e)
+
+Funding.
+
+|  |  |
+| :--- | ---: |
+| 254c–8. | Healthy start for infants. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Requirements for making grants.
+
+(c)
+
+Coordination.
+
+(d)
+
+Rule of construction.
+
+(e)
+
+Additional services for at-risk pregnant women and infants.
+
+(f)
+
+Funding.
+
+|  |  |
+| :--- | ---: |
+| 254c–9. | Establishment of program of grants. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Recipients of grants.
+
+(c)
+
+Certain activities.
+
+(d)
+
+Integration with other programs.
+
+|  |  |
+| :--- | ---: |
+| 254c–10. | Certain requirements. |
+| 254c–11. | Technical assistance. |
+| 254c–12. | Definitions. |
+| 254c–13. | Authorization of appropriations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### subpart ii—national health service corps program
 
@@ -2025,10 +2700,6 @@ Scholarship provisions; contract with educational institution; increase in month
 
 Employment ceiling of Department unaffected.
 
-(i)
-
-Annual report to Congress; contents.
-
 |  |  |
 | :--- | ---: |
 | 254<i>l</i>–1. | National Health Service Corps Loan Repayment Program. |
@@ -2066,10 +2737,6 @@ Payments.
 (h)
 
 Employment ceiling.
-
-(i)
-
-Reports.
 
 |  |  |
 | :--- | ---: |
@@ -2205,7 +2872,7 @@ Breach of agreement; notice; determination of liability.
 
 (a)
 
-Report.
+Omitted.
 
 (b)
 
@@ -2523,101 +3190,9 @@ Definitions.
 
 #### Part E—Narcotic Addicts and Other Drug Abusers
 
-|  |  |
-| :--- | ---: |
-| [257\.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20E%20-%20Narcotic%20Addicts%20and%20Other%20Drug%20Abusers/%C2%A7%2000257%20-%20Care%20and%20treatment%20of%20narcotic%20addicts.md) | Care and treatment of narcotic addicts. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Surgeon General authorized to provide programs.
-
-(b)
-
-Furnishing of information relating to persons voluntarily undergoing care to Mayor of District of Columbia.
-
-(c)
-
-Agreements with other departments and agencies.
-
-|  |  |
-| :--- | ---: |
-| [257a.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20E%20-%20Narcotic%20Addicts%20and%20Other%20Drug%20Abusers/%C2%A7%2000257a%20-%20Medical%20treatment%20of%20narcotics%20addiction%3B%20report%20to%20Congress.md) | Medical treatment of narcotics addiction; report to Congress. |
-| [258\.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20E%20-%20Narcotic%20Addicts%20and%20Other%20Drug%20Abusers/%C2%A7%2000258%20-%20Employment%3B%20establishment%20of%20industries%2C%20plants%2C%20etc.%3B%20sale%20of%20commodities%3B%20disposition%20of%20proceeds.md) | Employment; establishment of industries, plants, etc.; sale of commodities; disposition of proceeds. |
-| [258a.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20E%20-%20Narcotic%20Addicts%20and%20Other%20Drug%20Abusers/%C2%A7%2000258a%20-%20Transfer%20of%20balances%20in%20working%20capital%20fund%2C%20narcotic%20hospitals%2C%20to%20surplus%20fund.md) | Transfer of balances in working capital fund, narcotic hospitals, to surplus fund. |
-| [259\.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20E%20-%20Narcotic%20Addicts%20and%20Other%20Drug%20Abusers/%C2%A7%2000259%20-%20Convict%20addicts%20or%20other%20persons%20with%20drug%20abuse%20or%20drug%20dependence%20problems.md) | Convict addicts or other persons with drug abuse or drug dependence problems. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Transfers to and from hospitals; duty of prosecuting officers to report convicted persons believed to be addicts.
-
-(b)
-
-Repealed.
-
-(c)
-
-Discharge; further treatment.
-
-(d)
-
-Gratuities and transportation furnished upon discharge or release on parole or supervised release.
-
-(e)
-
-Admission of probationers to hospitals for treatment.
-
-|  |  |
-| :--- | ---: |
-| [260\.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20E%20-%20Narcotic%20Addicts%20and%20Other%20Drug%20Abusers/%C2%A7%2000260%20-%20Addicts%20and%20persons%20with%20drug%20abuse%20or%20drug%20dependence%20problems.md) | Addicts and persons with drug abuse or drug dependence problems. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Application for admission.
-
-(b)
-
-Determination of addiction; conditions of admission; payment of subsistence, care, and treatment.
-
-(c)
-
-Period of confinement.
-
-(d)
-
-Other rights unaffected.
-
-|  |  |
-| :--- | ---: |
-| [260a.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20E%20-%20Narcotic%20Addicts%20and%20Other%20Drug%20Abusers/%C2%A7%2000260a%20-%20Admission%20of%20addicts%20committed%20from%20District%20of%20Columbia.md) | Admission of addicts committed from District of Columbia. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Conditions.
-
-(b)
-
-Discharge from hospitals; notice; delivery to court.
-
-(c)
-
-Authority of Surgeon General and other officers.
-
-(d)
-
-Payment of costs; determination; disposition of moneys; availability of appropriations.
-
-|  |  |
-| :--- | ---: |
-| [261\.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20E%20-%20Narcotic%20Addicts%20and%20Other%20Drug%20Abusers/%C2%A7%2000261%20-%20Penalties%20for%20introducing%20prohibited%20articles%20and%20substances%20into%20hospitals%3B%20escaping%20from%2C%20or%20aiding%20and%20abetting%20escape%20from%20hospitals.md) | Penalties for introducing prohibited articles and substances into hospitals; escaping from, or aiding and abetting escape from hospitals. |
-| [261a.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20E%20-%20Narcotic%20Addicts%20and%20Other%20Drug%20Abusers/%C2%A7%2000261a%20-%20Release%20of%20patients%3B%20determination%20by%20Surgeon%20General.md) | Release of patients; determination by Surgeon General. |
+|  |
+| :--- |
+| 257 to 261a. Repealed or Transferred. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -3248,6 +3823,29 @@ Coordination of activities.
 
 |  |  |
 | :--- | ---: |
+| 280b–1c. | Use of allotments for rape prevention education. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Permitted use.
+
+(b)
+
+Collection and dissemination of information on sexual assault.
+
+(c)
+
+Authorization of appropriations.
+
+(d)
+
+Limitations.
+
+|  |  |
+| :--- | ---: |
+| 280b–1d. | National program for traumatic brain injury registries. |
 | 280b–2. | General provisions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -3476,125 +4074,14 @@ Definitions.
 
 Authorization of appropriations.
 
-#### Part L—Services for Children of Substance Abusers
+#### Part L—\[Repealed\]
 
 |  |  |
 | :--- | ---: |
-| [280d.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20L%20-%20Services%20for%20Children%20of%20Substance%20Abusers/%C2%A7%2000280d%20-%20Grants%20for%20services%20for%20children%20of%20substance%20abusers.md) | Grants for services for children of substance abusers. |
+| [280d.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20L%20-%20%5BRepealed/%C2%A7%2000280d%20-%20Transferred.md) | Transferred. |
+| 280d–11. | Transferred. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Establishment.
-
-(b)
-
-Services for children of substance abusers.
-
-(c)
-
-Services for affected families.
-
-(d)
-
-Considerations in making grants.
-
-(e)
-
-Federal share.
-
-(f)
-
-Coordination with other providers.
-
-(g)
-
-Restrictions on use of grant.
-
-(h)
-
-Submission to Secretary of certain information.
-
-(i)
-
-Reports to Secretary.
-
-(j)
-
-Requirement of application.
-
-(k)
-
-Peer review.
-
-(<i>l</i>)
-
-Evaluations.
-
-(m)
-
-Report to Congress.
-
-(n)
-
-Data collection.
-
-(<i>o</i>)
-
-Definitions.
-
-(p)
-
-Funding.
-
-#### Part N—National Foundation for the Centers for Disease Control and Prevention
-
-|  |  |
-| :--- | ---: |
-| 280d–11. | Establishment and duties of Foundation. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-In general.
-
-(b)
-
-Purpose of Foundation.
-
-(c)
-
-Endowment fund.
-
-(d)
-
-Certain activities of Foundation.
-
-(e)
-
-General structure of Foundation; nonprofit status.
-
-(f)
-
-Board of directors.
-
-(g)
-
-Certain responsibilities of executive director.
-
-(h)
-
-General provisions.
-
-(i)
-
-Federal funding.
-
-(j)
-
-Committee for establishment of Foundation.
 
 #### Part M—National Program of Cancer Registries
 
@@ -3679,6 +4166,54 @@ Registries.
 
 Breast cancer study.
 
+#### Part N—National Foundation for the Centers for Disease Control and Prevention
+
+|  |  |
+| :--- | ---: |
+| 280e–11. | Establishment and duties of Foundation. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Purpose of Foundation.
+
+(c)
+
+Endowment fund.
+
+(d)
+
+Certain activities of Foundation.
+
+(e)
+
+General structure of Foundation; nonprofit status.
+
+(f)
+
+Board of directors.
+
+(g)
+
+Certain responsibilities of executive director.
+
+(h)
+
+General provisions.
+
+(i)
+
+Federal funding.
+
+(j)
+
+Committee for establishment of Foundation.
+
 #### Part O—Fetal Alcohol Syndrome Prevention and Services Program
 
 |  |  |
@@ -3723,6 +4258,168 @@ Task Force.
 | 280f–3. | Sunset provision. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part P—Additional Programs
+
+|  |  |
+| :--- | ---: |
+| [280g.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20P%20-%20Additional%20Programs/%C2%A7%2000280g%20-%20Children%27s%20asthma%20treatment%20grants%20program.md) | Children's asthma treatment grants program. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Authority to make grants.
+
+(b)
+
+Coordination with other children's programs.
+
+(c)
+
+Evaluation.
+
+(d)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| 280g–1. | Early detection, diagnosis, and treatment regarding hearing loss in infants. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Statewide newborn and infant hearing screening, evaluation and intervention programs and systems.
+
+(b)
+
+Technical assistance, data management, and applied research.
+
+(c)
+
+Coordination and collaboration.
+
+(d)
+
+Rule of construction; religious accommodation.
+
+(e)
+
+Definitions.
+
+(f)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| 280g–2. | Childhood malignancies. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Certain activities.
+
+(c)
+
+Coordination of activities.
+
+(d)
+
+Definition.
+
+(e)
+
+Authorization of appropriations.
+
+#### Part Q—Programs To Improve the Health of Children
+
+|  |  |
+| :--- | ---: |
+| [280h.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20Q%20-%20Programs%20to%20Improve%20the%20Health%20of%20Children/%C2%A7%2000280h%20-%20Grants%20to%20promote%20childhood%20nutrition%20and%20physical%20activity.md) | Grants to promote childhood nutrition and physical activity. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Eligibility.
+
+(c)
+
+Use of funds.
+
+(d)
+
+Technical assistance.
+
+(e)
+
+Limitation on administrative costs.
+
+(f)
+
+Term.
+
+(g)
+
+Definition.
+
+(h)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| 280h–1. | Applied research program. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| 280h–2. | Education campaign. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| 280h–3. | Health professional education and training. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Authorization of appropriations.
 
 #### SUBCHAPTER III—NATIONAL RESEARCH INSTITUTES
 
@@ -3833,20 +4530,7 @@ Authorization of appropriations.
 
 |  |  |
 | :--- | ---: |
-| [283b.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000283b%20-%20Office%20of%20Research%20on%20Minority%20Health.md) | Office of Research on Minority Health. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Establishment.
-
-(b)
-
-Purpose.
-
-|  |  |
-| :--- | ---: |
+| [283b.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000283b%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93525%2C%20title%20I%2C%20%C2%A7101%28b%29%282%29%2C%20Nov.%2022%2C%202000%2C%20114%20Stat.%202501.md) | Repealed. |
 | [283c.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000283c%20-%20Office%20of%20Behavioral%20and%20Social%20Sciences%20Research.md) | Office of Behavioral and Social Sciences Research. |
 | [283d.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000283d%20-%20Children%27s%20Vaccine%20Initiative.md) | Children's Vaccine Initiative. |
 
@@ -3959,7 +4643,20 @@ Advisory councils in existence; application of section to National Cancer Adviso
 | :--- | ---: |
 | [284b.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20B%20-%20General%20Provisions%20Respecting%20National%20Research%20Institutes/%C2%A7%2000284b%20-%20Biennial%20report.md) | Biennial report. |
 | [284c.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20B%20-%20General%20Provisions%20Respecting%20National%20Research%20Institutes/%C2%A7%2000284c%20-%20Certain%20uses%20of%20funds.md) | Certain uses of funds. |
-| [284d.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20B%20-%20General%20Provisions%20Respecting%20National%20Research%20Institutes/%C2%A7%2000284d%20-%20%E2%80%9CHealth%20services%20research%E2%80%9D%20defined.md) | “Health services research” defined. |
+| [284d.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20B%20-%20General%20Provisions%20Respecting%20National%20Research%20Institutes/%C2%A7%2000284d%20-%20Definitions.md) | Definitions. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Health service research.
+
+(b)
+
+Clinical research.
+
+|  |  |
+| :--- | ---: |
 | [284e.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20B%20-%20General%20Provisions%20Respecting%20National%20Research%20Institutes/%C2%A7%2000284e%20-%20Research%20on%20osteoporosis%2C%20Paget%27s%20disease%2C%20and%20related%20bone%20disorders.md) | Research on osteoporosis, Paget's disease, and related bone disorders. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -4005,6 +4702,146 @@ Morris K. Udall Awards for Excellence in Parkinson's Disease Research.
 (e)
 
 Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| [284g.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20B%20-%20General%20Provisions%20Respecting%20National%20Research%20Institutes/%C2%A7%2000284g%20-%20Expansion%2C%20intensification%2C%20and%20coordination%20of%20activities%20of%20National%20Institutes%20of%20Health%20with%20respect%20to%20research%20on%20autism.md) | Expansion, intensification, and coordination of activities of National Institutes of Health with respect to research on autism. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Centers of excellence.
+
+(c)
+
+Facilitation of research.
+
+(d)
+
+Public input.
+
+(e)
+
+Funding.
+
+|  |  |
+| :--- | ---: |
+| [284h.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20B%20-%20General%20Provisions%20Respecting%20National%20Research%20Institutes/%C2%A7%2000284h%20-%20Pediatric%20Research%20Initiative.md) | Pediatric Research Initiative. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Establishment.
+
+(b)
+
+Purpose.
+
+(c)
+
+Duties.
+
+(d)
+
+Authorization.
+
+(e)
+
+Transfer of funds.
+
+|  |  |
+| :--- | ---: |
+| [284i.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20B%20-%20General%20Provisions%20Respecting%20National%20Research%20Institutes/%C2%A7%2000284i%20-%20Autoimmune%20diseases.md) | Autoimmune diseases. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Expansion, intensification, and coordination of activities.
+
+(b)
+
+Coordinating Committee.
+
+(c)
+
+Plan for NIH activities.
+
+(d)
+
+Reports to Congress.
+
+(e)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| [284j.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20B%20-%20General%20Provisions%20Respecting%20National%20Research%20Institutes/%C2%A7%2000284j%20-%20Muscular%20dystrophy%20research.md) | Muscular dystrophy research. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Coordination of activities.
+
+(b)
+
+Administration of program; collaboration among agencies.
+
+(c)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| [284k.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20B%20-%20General%20Provisions%20Respecting%20National%20Research%20Institutes/%C2%A7%2000284k%20-%20Clinical%20research.md) | Clinical research. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Requirements.
+
+(c)
+
+Support for the diverse needs of clinical research.
+
+(d)
+
+Peer review.
+
+|  |  |
+| :--- | ---: |
+| 284<i>l</i>. | Enhancement awards. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Mentored Patient-Oriented Research Career Development Awards.
+
+(b)
+
+Mid-Career Investigator Awards in Patient-Oriented Research.
+
+(c)
+
+Graduate Training in Clinical Investigation Award.
+
+(d)
+
+Clinical Research Curriculum Awards.
 
 #### Part C—Specific Provisions Respecting National Research Institutes
 
@@ -4100,6 +4937,40 @@ Prostate cancer.
 
 Allocation regarding cancer control.
 
+|  |  |
+| :--- | ---: |
+| 285a–9. | Grants for education, prevention, and early detection of radiogenic cancers and diseases. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Definition.
+
+(b)
+
+In general.
+
+(c)
+
+Indian Health Service.
+
+(d)
+
+Grant and contract authority.
+
+(e)
+
+Health coverage unaffected.
+
+(f)
+
+Report to Congress.
+
+(g)
+
+Authorization of appropriations.
+
 #### subpart 2—national heart, lung, and blood institute
 
 |  |  |
@@ -4171,6 +5042,24 @@ Coordination with other institutes.
 Certain programs.
 
 (d)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| 285b–7b. | Coordination of Federal asthma activities. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Representation of the Department of Housing and Urban Development.
+
+(c)
 
 Authorization of appropriations.
 
@@ -4312,6 +5201,28 @@ Support of activities.
 
 Dissemination of information.
 
+|  |  |
+| :--- | ---: |
+| 285c–9. | Juvenile diabetes. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Long-term epidemiology studies.
+
+(b)
+
+Clinical trial infrastructure/innovative treatments for juvenile diabetes.
+
+(c)
+
+Prevention of type 1 diabetes.
+
+(d)
+
+Authorization of appropriations.
+
 #### subpart 4—national institute of arthritis and musculoskeletal and skin diseases
 
 |  |  |
@@ -4399,6 +5310,28 @@ Treatment and rehabilitation of children.
 
 |  |  |
 | :--- | ---: |
+| 285d–6a. | Lupus. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Coordination with other institutes.
+
+(c)
+
+Programs for lupus.
+
+(d)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
 | 285d–7. | Advisory Board. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -4446,6 +5379,24 @@ Annual report.
 (k)
 
 Termination of predecessor board; time within which to appoint members.
+
+|  |  |
+| :--- | ---: |
+| 285d–8. | Juvenile arthritis and related conditions. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Expansion and coordination of activities.
+
+(b)
+
+Coordination.
+
+(c)
+
+Authorization of appropriations.
 
 #### subpart 5—national institute on aging
 
@@ -4622,6 +5573,28 @@ Qualifications.
 |  |  |
 | :--- | ---: |
 | 285e–10. | Aging processes regarding women. |
+| 285e–10a. | Alzheimer's clinical research and training awards. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Support of promising clinicians.
+
+(c)
+
+Excellence in certain fields.
+
+(d)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
 | 285e–11. | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -4633,8 +5606,25 @@ Qualifications.
 | [285f.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20C%20-%20Specific%20Provisions%20Respecting%20National%20Research%20Institutes/Subpart%20006%20-%20National%20Institute%20of%20Allergy%20and%20Infectious%20Diseases/%C2%A7%2000285f%20-%20Purpose%20of%20Institute.md) | Purpose of Institute. |
 | 285f–1. | Research centers regarding chronic fatigue syndrome. |
 | 285f–2. | Research and research training regarding tuberculosis. |
+| 285f–3. | Sexually transmitted disease clinical research and training awards. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Support of promising clinicians.
+
+(c)
+
+Excellence in certain fields.
+
+(d)
+
+Authorization of appropriations.
 
 #### subpart 7—national institute of child health and human development
 
@@ -4726,6 +5716,34 @@ Design of study.
 
 Coordination with Women's Health Initiative.
 
+|  |  |
+| :--- | ---: |
+| 285g–9. | Fragile X. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Expansion and coordination of research activities.
+
+(b)
+
+Research centers.
+
+|  |  |
+| :--- | ---: |
+| 285g–10. | Investment in tomorrow's pediatric researchers. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Enhanced support.
+
+(b)
+
+Authorization.
+
 #### subpart 8—national institute of dental research
 
 |  |  |
@@ -4780,8 +5798,78 @@ Authorized expenditures.
 | :--- | ---: |
 | 285<i>l</i>. | Purpose of Institute. |
 | 285<i>l</i>–1. | Applied Toxicological Research and Testing Program. |
+| 285<i>l</i>–2. | Definitions. |
+| 285<i>l</i>–3. | Interagency Coordinating Committee on the Validation of Alternative Methods. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Purposes.
+
+(c)
+
+Composition.
+
+(d)
+
+Scientific Advisory Committee.
+
+(e)
+
+Duties.
+
+|  |  |
+| :--- | ---: |
+| 285<i>l</i>–4. | Federal agency action. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Identification of tests.
+
+(b)
+
+Alternatives.
+
+(c)
+
+Test method validation.
+
+(d)
+
+Review.
+
+(e)
+
+Recommendation adoption.
+
+|  |  |
+| :--- | ---: |
+| 285<i>l</i>–5. | Application. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Application.
+
+(b)
+
+Use of test methods.
+
+(c)
+
+Limitation.
+
+(d)
+
+Submission of tests and data.
 
 #### subpart 13—national institute on deafness and other communication disorders
 
@@ -5008,6 +6096,10 @@ Authority.
 
 Grants.
 
+(c)
+
+Methamphetamine research.
+
 |  |  |
 | :--- | ---: |
 | 285<i>o</i>–3. | Office on AIDS. |
@@ -5156,6 +6248,30 @@ Material for inclusion in biennial report; additional reports.
 | 285q–3. | Biennial report. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### subpart 18—national institute of biomedical imaging and bioengineering
+
+|  |  |
+| :--- | ---: |
+| [285r.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20C%20-%20Specific%20Provisions%20Respecting%20National%20Research%20Institutes/Subpart%20018%20-%20National%20Institute%20of%20Biomedical%20Imaging%20and%20Bioengineering/%C2%A7%2000285r%20-%20Purpose%20of%20the%20Institute.md) | Purpose of the Institute. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+National Biomedical Imaging and Bioengineering Program.
+
+(c)
+
+Membership.
+
+(d)
+
+Authorization of appropriations.
 
 #### Part D—National Library of Medicine
 
@@ -5415,13 +6531,64 @@ Guidelines.
 
 (h)
 
+Report to Congress.
+
+(i)
+
 Authorization of appropriations.
 
 |  |  |
 | :--- | ---: |
 | 287a–3. | Construction of regional centers for research on primates. |
+| 287a–3a. | Sanctuary system for surplus chimpanzees. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Administration of sanctuary system.
+
+(c)
+
+Acceptance of chimpanzees into system.
+
+(d)
+
+Standards for permanent retirement of surplus chimpanzees.
+
+(e)
+
+Award of contract for operation of system.
+
+(f)
+
+Definitions.
+
+(g)
+
+Funding.
+
+|  |  |
+| :--- | ---: |
+| 287a–4. | General clinical research centers. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Grants.
+
+(b)
+
+Activities.
+
+(c)
+
+Authorization of appropriations.
 
 #### subpart 2—john e. fogarty international center for advanced study in health sciences
 
@@ -5526,6 +6693,140 @@ Availability of resources.
 (j)
 
 Availability of appropriations.
+
+#### subpart 6—national center on minority health and health disparities
+
+|  |  |
+| :--- | ---: |
+| 287c–31. | Purpose of Center. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Priorities.
+
+(c)
+
+Minority health disparities research.
+
+(d)
+
+Health disparity populations.
+
+(e)
+
+Coordination of activities.
+
+(f)
+
+Collaborative comprehensive plan and budget.
+
+(g)
+
+Participation in clinical research.
+
+(h)
+
+Research endowments.
+
+(i)
+
+Certain activities.
+
+(j)
+
+Advisory council.
+
+(k)
+
+Annual report.
+
+(<i>l</i>)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| 287c–32. | Centers of excellence for research education and training. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Required use of funds.
+
+(c)
+
+Centers of excellence.
+
+(d)
+
+Duration of grant.
+
+(e)
+
+Maintenance of effort.
+
+(f)
+
+Certain expenditures.
+
+(g)
+
+Definitions.
+
+(h)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| 287c–33. | Loan repayment program for minority health disparities research. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Service provisions.
+
+(c)
+
+Requirement regarding health disparity populations.
+
+(d)
+
+Priority.
+
+(e)
+
+Funding.
+
+|  |  |
+| :--- | ---: |
+| 287c–34. | General provisions regarding the Center. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Administrative support for Center.
+
+(b)
+
+Evaluation and report.
 
 #### Part F—Research on Women's Health
 
@@ -5711,6 +7012,42 @@ Availability of authorization of appropriations.
 
 |  |  |
 | :--- | ---: |
+| 288–5a. | Loan repayment program regarding clinical researchers. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Application of provisions.
+
+(c)
+
+Funding.
+
+|  |  |
+| :--- | ---: |
+| 288–6. | Pediatric research loan repayment program. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Application of other provisions.
+
+(c)
+
+Funding.
+
+|  |  |
+| :--- | ---: |
 | [288a.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20G%20-%20Awards%20and%20Training/%C2%A7%2000288a%20-%20Visiting%20Scientist%20Awards.md) | Visiting Scientist Awards. |
 | [288b.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20G%20-%20Awards%20and%20Training/%C2%A7%2000288b%20-%20Studies%20respecting%20biomedical%20and%20behavioral%20research%20personnel.md) | Studies respecting biomedical and behavioral research personnel. |
 
@@ -5723,10 +7060,6 @@ Scope of undertaking.
 (b)
 
 Arrangement with National Academy of Sciences or other nonprofit private groups or associations.
-
-(c)
-
-Report to Congressional committees.
 
 #### Part H—General Provisions
 
@@ -6089,6 +7422,14 @@ Applications for grants and contracts.
 
 (m)
 
+Emergency response.
+
+(n)
+
+Limitation on the use of certain information.
+
+(<i>o</i>)
+
 Authorization of appropriations.
 
 |  |  |
@@ -6123,17 +7464,22 @@ Executive Secretary and staff.
 
 |  |  |
 | :--- | ---: |
-| 290aa–2. | Reports: health consequences, current research, recommendations. |
+| 290aa–2. | Omitted. |
+| 290aa–2a. | Report on individuals with co-occurring mental illness and substance abuse disorders. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 (a)
 
-Alcoholism and alcohol abuse.
+In general.
 
 (b)
 
-Drug abuse.
+Report content.
+
+(c)
+
+Funds for report.
 
 |  |  |
 | :--- | ---: |
@@ -6151,11 +7497,11 @@ Members.
 
 (c)
 
-Requirements.
+Advisory council review.
 
 (d)
 
-Recommendations.
+Conditions.
 
 |  |  |
 | :--- | ---: |
@@ -6182,17 +7528,17 @@ Development of uniform criteria for data collection.
 
 |  |  |
 | :--- | ---: |
-| 290aa–5. | Grants for benefit of homeless individuals. |
+| 290aa–5. | Grants for the benefit of homeless individuals. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 (a)
 
-Grants for benefit of homeless individuals.
+In general.
 
 (b)
 
-Preference.
+Preferences.
 
 (c)
 
@@ -6200,7 +7546,67 @@ Services for certain individuals.
 
 (d)
 
-Term of grant.
+Term of the awards.
+
+(e)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| 290aa–5a. | Alcohol and drug prevention or treatment services for Indians and Native Alaskans. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Priority.
+
+(c)
+
+Duration.
+
+(d)
+
+Application.
+
+(e)
+
+Evaluation.
+
+(f)
+
+Report.
+
+(g)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| 290aa–5b. | Grants for ecstasy and other club drugs abuse prevention. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Authority.
+
+(b)
+
+Use of funds.
+
+(c)
+
+Use of funds.
+
+(d)
+
+Allocation and report.
 
 (e)
 
@@ -6315,94 +7721,38 @@ Authorization of appropriations.
 |  |  |
 | :--- | ---: |
 | 290bb–1a. | Transferred. |
-| 290bb–2. | Outpatient treatment programs for pregnant and postpartum women. |
+| 290bb–2. | Priority substance abuse treatment needs of regional and national significance. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 (a)
 
-Grants.
+Projects.
 
 (b)
 
-Prevention.
+Priority substance abuse treatment needs.
 
 (c)
+
+Requirements.
+
+(d)
 
 Evaluation.
 
-|  |  |
-| :--- | ---: |
-| 290bb–3. | Demonstration projects of national significance. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Grants for treatment improvement.
-
-(b)
-
-Nature of projects.
-
-(c)
-
-Preferences in making grants.
-
-(d)
-
-Duration of grants.
-
 (e)
 
-Authorization of appropriations.
+Information and education.
+
+(f)
+
+Authorization of appropriation.
 
 |  |  |
 | :--- | ---: |
-| 290bb–4. | Grants for substance abuse treatment in State and local criminal justice systems. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-In general.
-
-(b)
-
-Eligibility.
-
-(c)
-
-Priority.
-
-(d)
-
-Authorization of appropriations.
-
-|  |  |
-| :--- | ---: |
-| 290bb–5. | Training in provision of treatment services. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-In general.
-
-(b)
-
-Priority.
-
-(c)
-
-Health professions education.
-
-(d)
-
-Authorization of appropriations.
-
-|  |  |
-| :--- | ---: |
+| 290bb–2a. | Medical treatment of narcotics addiction; report to Congress. |
+| 290bb–3 to 290bb–5. Repealed. |  |
 | 290bb–6. | Action by Center for Substance Abuse Treatment and States concerning military facilities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -6418,6 +7768,92 @@ States.
 (c)
 
 Reservation of space.
+
+|  |  |
+| :--- | ---: |
+| 290bb–7. | Substance abuse treatment services for children and adolescents. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Priority.
+
+(c)
+
+Duration of grants.
+
+(d)
+
+Application.
+
+(e)
+
+Evaluation.
+
+(f)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| 290bb–8. | Early intervention services for children and adolescents. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Priority.
+
+(c)
+
+Condition.
+
+(d)
+
+Duration of grants.
+
+(e)
+
+Application.
+
+(f)
+
+Evaluation.
+
+(g)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| 290bb–9. | Methamphetamine and amphetamine treatment initiative. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Grants.
+
+(b)
+
+Geographic distribution.
+
+(c)
+
+Additional activities.
+
+(d)
+
+Authorization of appropriations.
 
 #### subpart 2—center for substance abuse prevention
 
@@ -6445,21 +7881,33 @@ National data base.
 
 |  |  |
 | :--- | ---: |
-| 290bb–22. | Community programs. |
+| 290bb–22. | Priority substance abuse prevention needs of regional and national significance. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 (a)
 
-In general.
+Projects.
 
 (b)
 
-Strategies for reducing use.
+Priority substance abuse prevention needs.
 
 (c)
 
-Authorization of appropriations.
+Requirements.
+
+(d)
+
+Evaluation.
+
+(e)
+
+Information and education.
+
+(f)
+
+Authorization of appropriation.
 
 |  |  |
 | :--- | ---: |
@@ -6501,7 +7949,120 @@ Authorization of appropriations.
 
 |  |  |
 | :--- | ---: |
-| 290bb–24. | Employee assistance programs. |
+| 290bb–24. | Repealed. |
+| 290bb–25. | Grants for services for children of substance abusers. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Establishment.
+
+(b)
+
+Services for children of substance abusers.
+
+(c)
+
+Services for affected families.
+
+(d)
+
+Training for providers of services to children and families.
+
+(e)
+
+Eligible entities.
+
+(f)
+
+Federal share.
+
+(g)
+
+Restrictions on use of grant.
+
+(h)
+
+Submission to Secretary of certain information.
+
+(i)
+
+Reports to Secretary.
+
+(j)
+
+Requirement of application.
+
+(k)
+
+Evaluations.
+
+(<i>l</i>)
+
+Report to Congress.
+
+(m)
+
+Data collection.
+
+(n)
+
+Definitions.
+
+(<i>o</i>)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| 290bb–25a. | Grants for strengthening families. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Program authorized.
+
+(b)
+
+Priority.
+
+(c)
+
+Duration of grants.
+
+(d)
+
+Use of funds.
+
+(e)
+
+Application.
+
+(f)
+
+Matching funding.
+
+(g)
+
+Report to Secretary.
+
+(h)
+
+Evaluations.
+
+(i)
+
+High-risk families.
+
+(j)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| 290bb–25b. | Programs to reduce underage drinking. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -6511,15 +8072,109 @@ In general.
 
 (b)
 
-Certain requirements.
+Eligibility requirements.
 
 (c)
 
-Special consideration for certain small businesses.
+Evaluation.
 
 (d)
 
-Consultation and technical assistance.
+Geographical distribution.
+
+(e)
+
+Duration of award.
+
+(f)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| 290bb–25c. | Services for individuals with fetal alcohol syndrome. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Use of funds.
+
+(c)
+
+Requirements.
+
+(d)
+
+Relationship to payments under other programs.
+
+(e)
+
+Duration of awards.
+
+(f)
+
+Evaluation.
+
+(g)
+
+Funding.
+
+|  |  |
+| :--- | ---: |
+| 290bb–25d. | Centers of excellence on services for individuals with fetal alcohol syndrome and alcohol-related birth defects and treatment for individuals with such conditions and their families. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Use of funds.
+
+(c)
+
+Report.
+
+(d)
+
+Duration of awards.
+
+(e)
+
+Evaluation.
+
+(f)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| 290bb–25e. | Prevention of methamphetamine and inhalant abuse and addiction. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Grants.
+
+(b)
+
+Use of funds.
+
+(c)
+
+Prevention programs and activities.
+
+(d)
+
+Analyses and evaluation.
 
 (e)
 
@@ -6547,33 +8202,60 @@ Grants and contracts.
 
 |  |  |
 | :--- | ---: |
-| 290bb–32. | Establishment of grant programs for demonstration projects. |
+| 290bb–32. | Priority mental health needs of regional and national significance. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 (a)
 
-Seriously mentally ill individuals, and children and adolescents with serious emotional and mental disturbances.
+Projects.
 
 (b)
 
-Individuals at risk of mental illness.
+Priority mental health needs.
 
 (c)
 
-Limitation on duration of grant.
+Requirements.
 
 (d)
 
-Limitation on administrative expenses.
+Evaluation.
 
 (e)
 
-Authorizations of appropriations.
+Information and education.
+
+(f)
+
+Authorization of appropriation.
 
 |  |  |
 | :--- | ---: |
-| 290bb–33. | Demonstration projects for individuals with positive test results. |
+| 290bb–33. | Repealed. |
+| 290bb–34. | Youth interagency research, training, and technical assistance centers. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Program authorized.
+
+(b)
+
+Application.
+
+(c)
+
+Authorized activities.
+
+(d)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| 290bb–35. | Services for youth offenders. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -6583,39 +8265,247 @@ In general.
 
 (b)
 
-Preferences in making grants.
+Use of funds.
 
 (c)
 
-Requirement of provision of information on prevention.
+Application.
 
 (d)
 
-Authority for training.
+Report.
 
 (e)
 
-Requirement of identification of needs and objectives.
+Definitions.
 
 (f)
 
-Requirement of application.
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| 290bb–36. | Suicide prevention for children and adolescents. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Collaboration.
+
+(c)
+
+Requirements.
+
+(d)
+
+Use of funds.
+
+(e)
+
+Condition.
+
+(f)
+
+Special populations.
 
 (g)
 
-Requirement of minimum number of grants for fiscal year 1989.
+Application.
 
 (h)
 
-Technical assistance and administrative support.
+Distribution of awards.
 
 (i)
 
-“Mental health treatment” defined.
+Evaluation.
 
 (j)
 
+Dissemination and education.
+
+(k)
+
+Duration of projects.
+
+(<i>l</i>)
+
+Study.
+
+(m)
+
+Authorization of appropriation.
+
+|  |  |
+| :--- | ---: |
+| 290bb–37. | Grants for emergency mental health centers. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Program authorized.
+
+(b)
+
+Health center.
+
+(c)
+
+Distribution of awards.
+
+(d)
+
+Application.
+
+(e)
+
+Use of funds.
+
+(f)
+
+Evaluation.
+
+(g)
+
 Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| 290bb–38. | Grants for jail diversion programs. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Program authorized.
+
+(b)
+
+Administration.
+
+(c)
+
+Applications.
+
+(d)
+
+Use of funds.
+
+(e)
+
+Federal share.
+
+(f)
+
+Geographic distribution.
+
+(g)
+
+Training and technical assistance.
+
+(h)
+
+Evaluations.
+
+(i)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| 290bb–39. | Improving outcomes for children and adolescents through services integration between child welfare and mental health services. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Duration.
+
+(c)
+
+Application.
+
+(d)
+
+Use of funds.
+
+(e)
+
+Distribution of awards.
+
+(f)
+
+Evaluation.
+
+(g)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| 290bb–40. | Grants for the integrated treatment of serious mental illness and co-occurring substance abuse. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Priority.
+
+(c)
+
+Use of funds.
+
+(d)
+
+Condition.
+
+(e)
+
+Distribution of awards.
+
+(f)
+
+Duration.
+
+(g)
+
+Application.
+
+(h)
+
+Evaluation.
+
+(i)
+
+Authorization of appropriation.
+
+|  |  |
+| :--- | ---: |
+| 290bb–41. | Training grants. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Mental illness awareness training grants.
 
 |  |
 | :--- |
@@ -6663,6 +8553,10 @@ Maintenance of effort.
 (h)
 
 Restrictions on use of funds.
+
+(i)
+
+Waiver for territories.
 
 |  |  |
 | :--- | ---: |
@@ -6946,6 +8840,10 @@ General provisions regarding services of system.
 
 Restrictions on use of grant.
 
+(g)
+
+Waivers.
+
 |  |  |
 | :--- | ---: |
 | 290ff–2. | Individualized plan for services. |
@@ -7040,7 +8938,15 @@ Funding.
 
 |  |  |
 | :--- | ---: |
-| [290gg.](Subchapter%20003%E2%80%93A%20%28III%E2%80%93A%29%20-%20Substance%20Abuse%20and%20Mental%20Health%20Services%20Administration/Part%20F%20-%20Model%20Comprehensive%20Program%20for%20Treatment%20of%20Substance%20Abuse/%C2%A7%2000290gg%20-%20Demonstration%20program%20in%20national%20capital%20area.md) | Demonstration program in national capital area. |
+| [290gg.](Subchapter%20003%E2%80%93A%20%28III%E2%80%93A%29%20-%20Substance%20Abuse%20and%20Mental%20Health%20Services%20Administration/Part%20F%20-%20Model%20Comprehensive%20Program%20for%20Treatment%20of%20Substance%20Abuse/%C2%A7%2000290gg%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93310%2C%20div.%20B%2C%20title%20XXXIII%2C%20%C2%A73301%28c%29%284%29%2C%20Oct.%2017%2C%202000%2C%20114%20Stat.%201209.md) | Repealed. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part G—Projects for Children and Violence
+
+|  |  |
+| :--- | ---: |
+| [290hh.](Subchapter%20003%E2%80%93A%20%28III%E2%80%93A%29%20-%20Substance%20Abuse%20and%20Mental%20Health%20Services%20Administration/Part%20G%20-%20Projects%20for%20Children%20and%20Violence/%C2%A7%2000290hh%20-%20Children%20and%20violence.md) | Children and violence. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -7050,31 +8956,233 @@ In general.
 
 (b)
 
-Purposes.
+Activities.
 
 (c)
 
-Certain requirements.
+Requirements.
 
 (d)
 
-Requirement of non-Federal contributions.
+Geographical distribution.
 
 (e)
 
-Evaluations.
+Duration of awards.
 
 (f)
 
-Reports.
+Evaluation.
 
 (g)
 
-“National capital area” defined.
+Information and education.
 
 (h)
 
-Obligation of funds.
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| 290hh–1. | Grants to address the problems of persons who experience violence related stress. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Priorities.
+
+(c)
+
+Geographical distribution.
+
+(d)
+
+Evaluation.
+
+(e)
+
+Duration of awards.
+
+(f)
+
+Authorization of appropriations.
+
+#### Part H—Requirement Relating to the Rights of Residents of Certain Facilities
+
+|  |  |
+| :--- | ---: |
+| [290ii.](Subchapter%20003%E2%80%93A%20%28III%E2%80%93A%29%20-%20Substance%20Abuse%20and%20Mental%20Health%20Services%20Administration/Part%20H%20-%20Requirement%20Relating%20to%20the%20Rights%20of%20Residents%20of%20Certain%20Facilities/%C2%A7%2000290ii%20-%20Requirement%20relating%20to%20the%20rights%20of%20residents%20of%20certain%20facilities.md) | Requirement relating to the rights of residents of certain facilities. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Requirements.
+
+(c)
+
+Current law.
+
+(d)
+
+Definitions.
+
+|  |  |
+| :--- | ---: |
+| 290ii–1. | Reporting requirement. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Facility.
+
+|  |  |
+| :--- | ---: |
+| 290ii–2. | Regulations and enforcement. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Training.
+
+(b)
+
+Requirements.
+
+(c)
+
+Enforcement.
+
+#### Part I—Requirement Relating to the Rights of Residents of Certain Non-Medical, Community-Based Facilities for Children and Youth
+
+|  |  |
+| :--- | ---: |
+| [290jj.](Subchapter%20003%E2%80%93A%20%28III%E2%80%93A%29%20-%20Substance%20Abuse%20and%20Mental%20Health%20Services%20Administration/Part%20I%20-%20Requirement%20Relating%20to%20the%20Rights%20of%20Residents%20of%20Certain%20Non-Medical%2C%20Community-Based%20Facilities%20for%20Children%20and%20Youth/%C2%A7%2000290jj%20-%20Requirement%20relating%20to%20the%20rights%20of%20residents%20of%20certain%20non-medical%2C%20community-based%20facilities%20for%20children%20and%20youth.md) | Requirement relating to the rights of residents of certain non-medical, community-based facilities for children and youth. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Protection of rights.
+
+(b)
+
+Requirements.
+
+(c)
+
+Rule of construction.
+
+(d)
+
+Definitions.
+
+|  |  |
+| :--- | ---: |
+| 290jj–1. | Reporting requirement. |
+| 290jj–2. | Regulations and enforcement. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Training.
+
+(b)
+
+Requirements.
+
+(c)
+
+Enforcement.
+
+#### Part J—Services Provided Through Religious Organizations
+
+|  |  |
+| :--- | ---: |
+| [290kk.](Subchapter%20003%E2%80%93A%20%28III%E2%80%93A%29%20-%20Substance%20Abuse%20and%20Mental%20Health%20Services%20Administration/Part%20J%20-%20Services%20Provided%20Through%20Religious%20Organizations/%C2%A7%2000290kk%20-%20Applicability%20to%20designated%20programs.md) | Applicability to designated programs. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Designated programs.
+
+(b)
+
+Limitation.
+
+(c)
+
+Definitions.
+
+|  |  |
+| :--- | ---: |
+| 290kk–1. | Religious organizations as program participants. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Religious organizations.
+
+(c)
+
+Nondiscrimination against religious organizations.
+
+(d)
+
+Religious character and freedom.
+
+(e)
+
+Employment practices.
+
+(f)
+
+Rights of program beneficiaries.
+
+(g)
+
+Fiscal accountability.
+
+(h)
+
+Compliance.
+
+|  |  |
+| :--- | ---: |
+| 290kk–2. | Limitations on use of funds for certain purposes. |
+| 290kk–3. | Educational requirements for personnel in drug treatment programs. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Findings.
+
+(b)
+
+Nondiscrimination.
 
 #### SUBCHAPTER IV—CONSTRUCTION AND MODERNIZATION OF HOSPITALS AND OTHER MEDICAL FACILITIES
 
@@ -8011,6 +10119,20 @@ Educational assistance in health professions regarding individuals from disadvan
 
 Report.
 
+|  |  |
+| :--- | ---: |
+| [293e.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20B%20-%20Health%20Professions%20Training%20for%20Diversity/%C2%A7%2000293e%20-%20Grants%20for%20health%20professions%20education.md) | Grants for health professions education. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Grants for health professions education in health disparities and cultural competency.
+
+(b)
+
+Authorization of appropriations.
+
 #### Part C—Training in Family Medicine, General Internal Medicine, General Pediatrics, Physician Assistants, General Dentistry, and Pediatric Dentistry
 
 |  |  |
@@ -8309,6 +10431,24 @@ Termination.
 (<i>l</i>)
 
 Funding.
+
+|  |  |
+| :--- | ---: |
+| [294p.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20E%20-%20Health%20Professions%20and%20Public%20Health%20Workforce/Subpart%20001%20-%20Health%20Professions%20Workforce%20Information%20and%20Analysis/%C2%A7%2000294p%20-%20Pediatric%20rheumatology.md) | Pediatric rheumatology. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Report to Congress.
+
+(c)
+
+Authorization of appropriations.
 
 #### subpart 2—public health workforce
 
@@ -8639,6 +10779,20 @@ State and regional priorities.
 (h)
 
 Filing of applications.
+
+|  |  |
+| :--- | ---: |
+| 296e–1. | Grants for health professions education. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Grants for health professions education in health disparities and cultural competency.
+
+(b)
+
+Authorization of appropriations.
 
 |  |  |
 | :--- | ---: |
@@ -8988,9 +11142,27 @@ Disclaimer.
 
 Rule of construction.
 
-(g)
+|  |  |
+| :--- | ---: |
+| 299a–1. | Research on health disparities. |
 
-Annual report.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Research and demonstration projects.
+
+(c)
+
+Quality measurement development.
+
+(d)
+
+Definition.
 
 #### Part B—Health Care Improvement Research
 
@@ -9071,6 +11243,24 @@ Preventive Services Task Force.
 (b)
 
 Primary care research.
+
+|  |  |
+| :--- | ---: |
+| 299b–4a. | Studies on preventive interventions in primary care for older Americans. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Studies.
+
+(b)
+
+Mission statement.
+
+(c)
+
+Report.
 
 |  |  |
 | :--- | ---: |
@@ -9296,6 +11486,10 @@ Authorization of appropriations.
 
 Evaluations.
 
+(d)
+
+Health disparities research.
+
 |  |  |
 | :--- | ---: |
 | 299c–7. | Definitions. |
@@ -9452,9 +11646,99 @@ Considerations for grants and contracts under section 300b–1 of this title.
 | 300b–4. | Public Health Service facilities. |
 | 300b–5. | Repealed. |
 | 300b–6. | Applied technology. |
-| 300c to 300c–4. | Omitted. |
+| 300b–7. | Tourette Syndrome. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Certain activities.
+
+(c)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| 300b–8. | Improved newborn and child screening for heritable disorders. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Use of funds.
+
+(c)
+
+Eligible entities.
+
+(d)
+
+Limitation.
+
+(e)
+
+Voluntary participation.
+
+(f)
+
+Supplement not supplant.
+
+(g)
+
+Publication.
+
+(h)
+
+Technical assistance.
+
+(i)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| 300b–9. | Evaluating the effectiveness of newborn and child screening programs. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Demonstration programs.
+
+(c)
+
+Eligible entities.
+
+|  |  |
+| :--- | ---: |
+| 300b–10. | Advisory Committee on Heritable Disorders in Newborns and Children. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Establishment.
+
+(b)
+
+Duties.
+
+(c)
+
+Membership.
 
 #### Part B—Sudden Infant Death Syndrome
 
@@ -9855,7 +12139,7 @@ Authorization of appropriations.
 
 |  |  |
 | :--- | ---: |
-| 300d–52. | State grants for demonstration projects regarding traumatic brain injury. |
+| 300d–52. | State grants for projects regarding traumatic brain injury. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -9877,19 +12161,73 @@ Application for grant.
 
 (e)
 
-Coordination of activities.
+Continuation of previously awarded demonstration projects.
 
 (f)
 
-Report.
+Use of State grants.
 
 (g)
 
-“Traumatic brain injury” defined.
+Coordination of activities.
 
 (h)
 
+Report.
+
+(i)
+
+“Traumatic brain injury” defined.
+
+(j)
+
 Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| 300d–53. | State grants for protection and advocacy services. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Services provided.
+
+(c)
+
+Application.
+
+(d)
+
+Appropriations less than $2,700,000.
+
+(e)
+
+Appropriations of $2,700,000 or more.
+
+(f)
+
+Carryover.
+
+(g)
+
+Direct payment.
+
+(h)
+
+Annual report.
+
+(i)
+
+Authorization of appropriations.
+
+(j)
+
+Definitions.
 
 #### Part F—Interagency Program for Trauma Research
 
@@ -9930,6 +12268,10 @@ Coordinating Committee.
 (h)
 
 Definitions.
+
+(i)
+
+Authorization of appropriations.
 
 #### SUBCHAPTER XI—HEALTH MAINTENANCE ORGANIZATIONS
 
@@ -12140,33 +14482,9 @@ Authorization of appropriations.
 
 |  |  |
 | :--- | ---: |
-| 300w–10. | Use of allotments for rape prevention education. |
+| 300w–10. | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Permitted use.
-
-(b)
-
-Targeting of education programs.
-
-(c)
-
-Authorization of appropriations.
-
-(d)
-
-Limitation.
-
-(e)
-
-“Rape prevention and education” defined.
-
-(f)
-
-Terms.
 
 #### Part B—Block Grants Regarding Mental Health and Substance Abuse
 
@@ -12347,13 +14665,9 @@ Authorized activities.
 
 (a)
 
-Allocations regarding alcohol and other drugs.
-
-(b)
-
 Allocation regarding primary prevention programs.
 
-(c)
+(b)
 
 Allocations regarding women.
 
@@ -12486,9 +14800,13 @@ In general.
 
 (b)
 
-Waiver.
+Exclusion of certain funds.
 
 (c)
+
+Waiver.
+
+(d)
 
 Noncompliance by State.
 
@@ -12531,6 +14849,10 @@ Waivers regarding certain territories.
 (d)
 
 Issuance of regulations; precondition to making grants.
+
+(e)
+
+Waiver authority for certain requirements.
 
 |  |  |
 | :--- | ---: |
@@ -12696,23 +15018,31 @@ Provision of supplies and services in lieu of grant funds.
 
 |  |  |
 | :--- | ---: |
-| 300x–59. | Report by Secretary. |
-| 300x–60. | Rule of construction regarding delegation of authority to States. |
-| 300x–61. | Solicitation of views of certain entities. |
-| 300x–62. | Availability to States of grant payments. |
+| 300x–59. | Plans for performance partnerships. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 (a)
 
-In general.
+Development.
 
 (b)
 
-Exception regarding noncompliance of subgrantees.
+Submission.
+
+(c)
+
+Information.
+
+(d)
+
+Participants.
 
 |  |  |
 | :--- | ---: |
+| 300x–60. | Rule of construction regarding delegation of authority to States. |
+| 300x–61. | Solicitation of views of certain entities. |
+| 300x–62. | Availability to States of grant payments. |
 | 300x–63. | Continuation of certain programs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -12743,55 +15073,95 @@ Definitions for this subpart.
 
 Definitions for this part.
 
-#### Part C—Certain Programs Regarding Substance Abuse
-
-I74subpart i—expansion of capacity for providing treatment
-
 |  |  |
 | :--- | ---: |
-| [300y.](Subchapter%20017%20%28XVII%29%20-%20Block%20Grants/Part%20C%20-%20Certain%20Programs%20Regarding%20Substance%20Abuse/Subpart%20001%20%28i%29%20-%20Expansion%20of%20Capacity%20for%20Providing%20Treatment/%C2%A7%2000300y%20-%20Categorical%20grants%20to%20States.md) | Categorical grants to States. |
+| 300x–65. | Services provided by nongovernmental organizations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 (a)
 
-Grants for States with insufficient capacity.
+Purposes.
 
 (b)
 
-Priority in making grants.
+Religious organizations included as nongovernmental providers.
 
 (c)
 
-Requirement of matching funds.
+Religious character and independence.
 
 (d)
 
-Limitation regarding direct treatment services.
+Employment practices.
 
 (e)
 
-Requirement of application.
+Rights of beneficiaries of assistance.
 
 (f)
 
-Duration of grant.
+Nondiscrimination against beneficiaries.
 
 (g)
 
-Maintenance of effort.
+Fiscal accountability.
 
 (h)
 
-Restrictions on use of grant.
+Compliance.
 
 (i)
 
-Definitions.
+Limitations on use of funds for certain purposes.
 
 (j)
 
-Authorization of appropriations.
+Effect on State and local funds.
+
+(k)
+
+Treatment of intermediate contractors.
+
+|  |  |
+| :--- | ---: |
+| 300x–66. | Services for individuals with co-occurring disorders. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part C—Certain Programs Regarding Mental Health and Substance Abuse
+
+I74subpart i—data infrastructure development
+
+|  |  |
+| :--- | ---: |
+| [300y.](Subchapter%20017%20%28XVII%29%20-%20Block%20Grants/Part%20C%20-%20Certain%20Programs%20Regarding%20Mental%20Health%20and%20Substance%20Abuse/Subpart%20001%20%28i%29%20-%20Data%20Infrastructure%20Development/%C2%A7%2000300y%20-%20Data%20infrastructure%20development.md) | Data infrastructure development. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Projects.
+
+(c)
+
+Condition of receipt of funds.
+
+(d)
+
+Matching requirement.
+
+(e)
+
+Duration of support.
+
+(f)
+
+Authorization of appropriation.
 
 #### subpart ii—interim maintenance treatment of narcotics dependence
 
@@ -14298,6 +16668,14 @@ HIV health services planning council.
 
 Grievance procedures.
 
+(d)
+
+Process for establishing allocation priorities.
+
+(e)
+
+Training guidance and materials.
+
 |  |  |
 | :--- | ---: |
 | 300ff–13. | Type and distribution of grants. |
@@ -14332,17 +16710,21 @@ Primary purposes.
 
 (c)
 
-Limited expenditures for personnel needs.
+Quality management.
 
 (d)
 
-Requirement of status as medicaid provider.
+Limited expenditures for personnel needs.
 
 (e)
 
-Administration.
+Requirement of status as medicaid provider.
 
 (f)
+
+Administration.
+
+(g)
 
 Construction.
 
@@ -14401,6 +16783,27 @@ Priority for women, infants, and children.
 |  |  |
 | :--- | ---: |
 | 300ff–22. | General use of grants. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Support services; outreach.
+
+(c)
+
+Early intervention services.
+
+(d)
+
+Quality management.
+
+|  |  |
+| :--- | ---: |
 | 300ff–23. | Grants to establish HIV care consortia. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -14479,6 +16882,10 @@ State duties.
 
 Duties of Secretary.
 
+(e)
+
+Use of health insurance and plans.
+
 |  |  |
 | :--- | ---: |
 | 300ff–27. | State application. |
@@ -14523,29 +16930,50 @@ Definitions.
 
 (a)
 
-Repealed.
+Amount of grant to State.
 
 (b)
 
-Amount of grant to State.
+Allocation of assistance by States.
 
 (c)
 
-Allocation of assistance by States.
-
-(d)
-
 Expedited distribution.
 
-(e)
+(d)
 
 Reallocation.
 
 |  |  |
 | :--- | ---: |
 | 300ff–29. | Technical assistance. |
-| 300ff–30. | Repealed. |
-| 300ff–31. | Coordination. |
+| 300ff–30. | Supplemental grants. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Eligibility.
+
+(c)
+
+Reporting requirements.
+
+(d)
+
+Definition of emerging community.
+
+(e)
+
+Funding.
+
+|  |  |
+| :--- | ---: |
+| 300ff–31. | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -14587,237 +17015,59 @@ Causes of perinatal transmission.
 
 CDC reporting system.
 
-(d)
-
-Determination by Secretary.
-
-(e)
-
-Contingent applicability.
-
-(f)
-
-Limitation regarding availability of funds.
-
 |  |  |
 | :--- | ---: |
-| 300ff–35. | Testing of pregnant women and newborn infants. |
-| 300ff–36. | Report by Institute of Medicine. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-In general.
-
-(b)
-
-Report to Congress.
-
-|  |  |
-| :--- | ---: |
+| 300ff–35, 300ff–36. Repealed. |  |
 | 300ff–37. | State HIV testing programs established prior to or after May 20, 1996. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Part C—Early Intervention Services
-
-I74subpart i—formula grants for states
-
-|  |  |
-| :--- | ---: |
-| 300ff–41. | Establishment of program. |
+| 300ff–37a. | Recommendations for reducing incidence of perinatal transmission. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 (a)
 
-Allotments for States.
+Study by Institute of Medicine.
 
 (b)
 
-Purposes of grants.
-
-|  |  |
-| :--- | ---: |
-| 300ff–42. | Provision of services through medicaid providers. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-In general.
-
-(b)
-
-Waiver regarding certain secondary agreements.
-
-|  |  |
-| :--- | ---: |
-| 300ff–43. | Requirement of matching funds. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-In general.
-
-(b)
-
-Determination of amount of non-Federal contribution.
+Progress toward recommendations.
 
 (c)
 
-Applicability of matching requirement.
+Submission of reports to Congress.
+
+#### subpart iii—certain partner notification programs
+
+|  |  |
+| :--- | ---: |
+| 300ff–38. | Grants for partner notification programs. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Description of compliant State programs.
+
+(c)
+
+Reporting system for cases of HIV disease; preference in making grants.
 
 (d)
-
-Diminished State contribution.
-
-|  |  |
-| :--- | ---: |
-| 300ff–44. | Offering and encouraging early intervention services. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-In general.
-
-(b)
-
-Sufficiency of amount of grant.
-
-(c)
-
-Criteria for offering and encouraging.
-
-|  |  |
-| :--- | ---: |
-| 300ff–45. | Notification of certain individuals receiving blood transfusions. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-In general.
-
-(b)
-
-Rule of construction.
-
-|  |  |
-| :--- | ---: |
-| 300ff–46. | Reporting and partner notification. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Reporting.
-
-(b)
-
-Partner notification.
-
-(c)
-
-Rules of construction.
-
-|  |  |
-| :--- | ---: |
-| 300ff–47. | Requirement of State law protection against intentional transmission. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-In general.
-
-(b)
-
-Consent to risk of transmission.
-
-(c)
-
-State certification with respect to required laws.
-
-(d)
-
-Time limitations with respect to required laws.
-
-|  |  |
-| :--- | ---: |
-| 300ff–48. | Testing and other early intervention services for State prisoners. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-In general.
-
-(b)
-
-Requirement of matching funds.
-
-(c)
-
-Testing.
-
-(d)
-
-Determination of prisons subject to requirement.
-
-(e)
-
-Applicability of provisions regarding informed consent, counseling, and other matters.
-
-(f)
-
-Requirement of application.
-
-(g)
-
-Rule of construction.
-
-(g)
 
 Authorization of appropriations.
 
-|  |  |
-| :--- | ---: |
-| 300ff–49. | Determination of amount of allotments. |
+#### Part C—Early Intervention Services
+
+|  |
+| :--- |
+| 300ff–41 to 300ff–50. Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-(a)
-
-Minimum allotment.
-
-(b)
-
-Determination under formula.
-
-(c)
-
-Certain allocations by Secretary.
-
-(d)
-
-Disposition of certain funds appropriated for allotments.
-
-(e)
-
-Transition rules.
-
-|  |  |
-| :--- | ---: |
-| 300ff–49a. | Miscellaneous provisions. |
-| 300ff–50. | Authorization of appropriations. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### subpart ii—categorical grants.
+#### subpart i—categorical grants
 
 |  |  |
 | :--- | ---: |
@@ -14869,6 +17119,10 @@ Specification of factors.
 
 Equitable allocations.
 
+(d)
+
+Certain areas.
+
 |  |  |
 | :--- | ---: |
 | 300ff–54. | Miscellaneous provisions. |
@@ -14893,7 +17147,7 @@ Planning and development grants.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### subpart iii—general provisions
+#### subpart ii—general provisions
 
 |  |  |
 | :--- | ---: |
@@ -14974,10 +17228,6 @@ Relationship to items and services under other programs.
 
 Administration of grant.
 
-(h)
-
-Construction.
-
 |  |  |
 | :--- | ---: |
 | 300ff–65. | Requirement of submission of application containing certain agreements and assurances. |
@@ -15029,7 +17279,7 @@ Coordination with other entities.
 
 (f)
 
-Application.
+Administration.
 
 (g)
 
@@ -15041,9 +17291,13 @@ Annual review of programs; evaluations.
 
 (i)
 
-Training and technical assistance.
+Limitation on administrative expenses.
 
 (j)
+
+Training and technical assistance.
+
+(k)
 
 Authorization of appropriations.
 
@@ -15117,11 +17371,38 @@ Requirement.
 
 (b)
 
-Integration by State.
+Report.
 
 (c)
 
+Integration by State.
+
+(d)
+
 Integration by local or private entities.
+
+(e)
+
+Recommendations regarding release of prisoners.
+
+|  |  |
+| :--- | ---: |
+| 300ff–75a. | Audits. |
+| 300ff–75b. | Administrative simplification regarding parts A and B. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Coordinated disbursement.
+
+(b)
+
+Biennial applications.
+
+(c)
+
+Application simplification.
 
 |  |  |
 | :--- | ---: |
@@ -15132,11 +17413,11 @@ Integration by local or private entities.
 
 (a)
 
-In general.
+Part A.
 
 (b)
 
-Development of methodology.
+Part B.
 
 |  |  |
 | :--- | ---: |

@@ -4,7 +4,7 @@
 
 &emsp;(1) the reproduction or distribution is made without any purpose of direct or indirect commercial advantage;
 
-&emsp;(2) the collections of the library or archives are (i) open to the public, or (ii) available not only to researchers affiliated with the library or archives or with the institution of which it is a part, but also to other persons doing research in a specialized field; and
+&emsp;(2) the collections of the library or archives are (i) open to the public, or (ii) available not only to researchers affiliated with the library or archives or with the institution of which itis a part, but also to other persons doing research in a specialized field; and
 
 &emsp;(3) the reproduction or distribution of the work includes a notice of copyright that appears on the copy or phonorecord that is reproduced under the provisions of this section, or includes a legend stating that the work may be protected by copyright if no such notice can be found on the copy or phonorecord that is reproduced under the provisions of this section.
 
@@ -14,7 +14,7 @@
 
 &emsp;(2) any such copy or phonorecord that is reproduced in digital format is not otherwise distributed in that format and is not made available to the public in that format outside the premises of the library or archives.
 
-(c) The right of reproduction under this section applies to three copies or phonorecords of a published work duplicated solely for the purposeof replacement of a copy or phonorecord that is damaged, deteriorating, lost, or stolen, or if the existing format in which the work is stored has become obsolete, if—
+(c) The right of reproduction under this section applies to three copies or phonorecords of a published work duplicated solely for the purpose of replacement of a copy or phonorecord that is damaged, deteriorating, lost, or stolen, or if the existing format in which the work is stored has become obsolete, if—
 
 &emsp;(1) the library or archives has, after a reasonable effort, determined that an unused replacement cannot be obtained at a fair price; and
 
@@ -92,7 +92,7 @@ The rights of reproduction and distribution under section 108 apply in the follo
 
 <b>Archival Reproduction.</b> Subsection (b) authorizes the reproduction and distribution of a copy or phonorecord of an unpublished work duplicated in facsimile form solely for purposes of preservation and security, or for deposit for research use in another library or archives, if the copy or phonorecord reproduced is currently in the collections of the first library or archives. Only unpublished works could be reproduced under this exemption, but the right would extend to any type of work, including photographs, motion pictures and sound recordings. Under this exemption, for example, a repository could make photocopies of manuscripts by microfilm or electrostatic process, but could not reproduce the work in “machine-readable” language for storage in an information system.
 
-<b>Replacement of Damaged Copy.</b> Subsection (c) authorizes the reproduction of a published work duplicated in facsimile form solely for the purpose of replacement of a copy or phonorecord that is damaged, deteriorating, lost or stolen, if the library or archives has, after a reasonable effort, determined that an unused replacement cannot be obtained at a fair price. The scope and nature of a reasonable investigation to determine that an unused replacement cannot be obtained will vary according to the circumstances of a particular situation. It will always require recourse to commonly-known trade sources in the United States, and in the normal situation also to the publisher or other copyright owner (if such owner can be located at the address listed in the copyright registration), or an authorized reproducing service.
+<b>Replacement of Damaged Copy.</b> Subsection (c) authorizes the reproduction of a published work duplicated in facsimile form solely for the purpose of replacement of a copy or phonorecord that is damaged, deteriorating, lost or stolen, if the library or archives has, after a reasonable effort, determined that an unused replacement cannot be obtained at a fair price. The scope and nature of a reasonable investigation to determine that an unused replacement cannot be obtained will vary according to the circumstances of a particular situation. It will always require recourse tocommonly-known trade sources in the United States, and in the normal situation also to the publisher or other copyright owner (if such owner can be located at the address listed in the copyright registration), or an authorized reproducing service.
 
 <b>Articles and Small Excerpts.</b> Subsection (d) authorizes the reproduction and distribution of a copy of not more than one article or other contribution to a copyrighted collection or periodical issue, or of a copy or phonorecord of a small part of any other copyrighted work. The copy or phonorecord may be made by the library where the user makes his request or by another library pursuant to an interlibrary loan. It is further required that the copy become the property of the user, that the library or archives have no notice that the copy would be used for any purposes other than private study, scholarship or research, and that the library or archives display prominently at the place where reproduction requests are accepted, and includes in its order form, a warning of copyright in accordance with requirements that the Register of Copyrights shall prescribe by regulation.
 
@@ -118,11 +118,11 @@ In addition, the Committee added a new subsection (i) to section 108 \[this sect
 
 The key phrases in the Committee's amendment of section 108(g)(2) are “aggregate quantities” and “substitute for a subscription to or purchase of” a work. To be implemented effectively in practice, these provisions will require the development and implementation of more-or-less specific guidelines establishing criteria to govern various situations.
 
-The National Commission on New Technological Uses of Copyrighted Works (CONTU) offered to provide good offices in helping to develop these guidelines. This offer was accepted and, although the final text of guidelines has not yet been achieved, the Committee has reason to hope that, within the next month, some agreement can be reached on an initial set of guidelines covering practices under section 108(g)(2).
+The National Commission on New Technological Uses of Copyrighted Works (CONTU) offered to provide good offices in helping to develop these guidelines. This offer was accepted and, although the final text of guidelines has not yet been achieved, the Committee has reason tohope that, within the next month, some agreement can be reached on an initial set of guidelines covering practices under section 108(g)(2).
 
 <b>Works Excluded.</b> Subsection (h) provides that the rights of reproduction and distribution under this section do not apply to a musical work, a pictorial, graphic or sculptural work, or a motion picture or other audiovisual work other than “an audiovisual work dealing with news.” The latter term is intended as the equivalent in meaning of the phrase “audiovisual news program” in section 108(f)(3). The exclusions under subsection (h) do not apply to archival reproduction under subsection (b), to replacement of damaged or lost copies or phonorecords under subsection (c), or to “pictorial or graphic works published as illustrations, diagrams, or similar adjuncts to works of which copies are reproduced or distributed in accordance with subsections (d) and (e).”
 
-Although subsection (h) generally removes musical, graphic, and audiovisual works from the specific exemptions of section 108, it is important to recognize that the doctrine of fair use under section 107 remains fully applicable to the photocopying or other reproduction of such works. In the case of music, for example, it would be fair use for a scholar doing musicological research to have a library supply a copy of a portion of a score or to reproduce portions of a phonorecord of a work. Nothing in section 108 impairs the applicability of the fair use doctrine to a wide variety of situations involving photocopying or other reproduction by a library of copyrighted material in its collections, wherethe user requests the reproduction for legitimate scholarly or research purposes.
+Although subsection (h) generally removes musical, graphic, and audiovisual works from the specific exemptions of section 108, it is important to recognize that the doctrine of fair use under section 107 remains fully applicable to the photocopying or other reproduction of such works. In the case of music, for example, it would be fair use for a scholar doing musicological research to have a library supply a copy of a portion of a score or to reproduce portions of a phonorecord of a work. Nothing in section 108 impairs the applicability of the fair use doctrine to a wide variety of situations involving photocopying or other reproduction by a library of copyrighted material in its collections, where the user requests the reproduction for legitimate scholarly or research purposes.
 
 #### Amendments
 
@@ -157,18 +157,6 @@ Subsecs. (h), (i). Pub. L. 105–298 added subsec. (h) and redesignated former s
 Pub. L. 105–304, title IV, §407, Oct. 28, 1998, 112 Stat. 2905, provided that: “Except as otherwise provided in this title \[enacting section 4001 of Title 28, Judiciary and Judicial Procedure, amending this section, sections 112, 114, 701, and 801 to 803 of this title, section 5314 of Title 5, Government Organization and Employees, and section 3 of Title 35, Patents, and enacting provisions set out as notes under sections 112 and 114 of this title\], this title and the amendments made by this title shall take effect on the date of the enactment of this Act \[Oct. 28, 1998\].”
 
 Pub. L. 105–298, title I, §106, Oct. 27, 1998, 112 Stat. 2829, provided that: “This title \[amending this section and sections 203 and 301 to 304 of this title, enacting provisions set out as a note under section 101 of this title, and amending provisions set out as notes under sections 101 and 304 of this title\] and the amendments made by this title shall take effect on the date of the enactment of this Act \[Oct. 27, 1998\].”
-
-#### Cross References
-
-Action for infringement of copyright, see section 501 of this title.
-
-Exclusive rights in copyrighted works, see section 106 of this title.
-
-Importation of copies or phonorecords by organization operated for scholarly, educational, or religious purposes and not for private gain, see section 602 of this title.
-
-Reproduction and distribution of regularly scheduled newscasts or on-the-spot coverage of news event for research purposes by Librarian of Congress, see section 170 of Title 2, The Congress.
-
-Use of material in conjunction with computers and similar information systems, see section 117 of this title.
 
 #### Section Referred to in Other Sections
 

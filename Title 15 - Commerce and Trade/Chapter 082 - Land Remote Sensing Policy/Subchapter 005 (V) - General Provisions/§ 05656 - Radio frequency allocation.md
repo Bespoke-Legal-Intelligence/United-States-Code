@@ -2,7 +2,7 @@
 
 #### (a) Application to Federal Communications Commission
 
-To the extent required by the Communications Act of 1934 (47 U.S.C. 151 et seq.), an application shall be filed with the Federal Communications Commission for any radio facilities involved with commercial remote sensing space systems licensed under subchapter II of this chapter.
+To the extent required by the Communications Act of 1934 (47 U.S.C. 151 et seq.), an application shall be filed with the Federal Communications Commission for any radio facilities involved with commercial remote sensing spacesystems licensed under subchapter II of this chapter.
 
 #### (b) Deadline for FCC action
 

@@ -14,7 +14,7 @@ The Commission shall have an official seal, which shall be judicially noticed.
 
 Executive and administrative functions of Federal Trade Commission, with certain reservations, transferred to Chairman of such Commission by Reorg. Plan No. 8 of 1950, set out below.
 
-Functions of Federal Trade Commission (1) under Flammable Fabrics Act \[section 1191 et seq. of thistitle\] and under this subchapter to extent that such functions relate to administration of Flammable Fabrics Act, and (2) under Act of August 2, 1956, \[section 1211 et seq. of this title\], transferred to Consumer Product Safety Commission by section 30 of Act Oct. 27, 1972, Pub. L. 92–573 \[section 2079 of this title\].
+Functions of Federal Trade Commission (1) under Flammable Fabrics Act \[section 1191 et seq. of this title\] and under this subchapter to extent that such functions relate to administration of Flammable Fabrics Act, and (2) under Act of August 2, 1956, \[section 1211 et seq. of this title\], transferred to Consumer Product Safety Commission by section 30 of Act Oct. 27, 1972, Pub. L. 92–573 \[section 2079 of this title\].
 
 By section 3 of act Sept. 26, 1914, Bureau of Corporations abolished and all employees and functions of said Bureau transferred to Federal Trade Commission.
 
@@ -40,7 +40,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 #### Section 1. Transfer of Functions to the Chairman
 
-(a) Subject to the provisions of subsection (b) of this section, there are hereby transferred from the Federal Trade Commission, hereinafter referred to as the Commission, to the Chairman of the Commission, hereinafter referred to as the Chairman, the executive and administrative functions of the Commission, including functions of the Commission with respect to (1) the appointment and supervision of personnel employed under the Commission, (2) the distribution of business among such personnel and among administrative units of the Commission, and (3) the use and expenditure of funds.
+(a) Subject to the provisions of subsection (b) of this section, there are hereby transferred from the Federal Trade Commission, hereinafter referred to as the Commission, to the Chairman of the Commission, hereinafter referred to as the Chairman, the executive and administrative functions of the Commission, including functions of the Commission with respect to (1) the appointment and supervision of personnel employedunder the Commission, (2) the distribution of business among such personnel and among administrative units of the Commission, and (3) the use and expenditure of funds.
 
 (b)(1) In carrying out any of his functions under the provisions of this section the Chairman shall be governed by general policies of the Commission and by such regulatory decisions, findings, and determinations as the Commission may by law be authorized to make.
 
@@ -88,7 +88,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 #### Sec. 2. Transfer of Functions to the Chairman
 
-In addition to the functions transferred by the provisions of Reorganization Plan No. 8 of 1950 (64 Stat. 1264)\[set out as a note under this section\], there are hereby transferred from the Commission to the Chairman of the Commission the functions of the Commission with respect to the assignment of Commission personnel, including Commissioners, to perform such functions as may have been delegated by the Commission to Commission personnel, including Commissioners, pursuant to section 1 of this reorganization plan.
+In addition to the functions transferred by the provisions of Reorganization Plan No. 8 of 1950 (64 Stat. 1264) \[set out as a note under this section\], there are hereby transferred from the Commission to the Chairman of the Commission the functions of the Commission with respect to the assignment of Commission personnel, including Commissioners, to perform such functions as may have been delegated by the Commission to Commission personnel, including Commissioners, pursuant to section 1 of this reorganization plan.
 
 #### Message of the President
 
@@ -111,14 +111,4 @@ After investigation, I have found and hereby declare that each reorganization in
 I recommend that the Congress allow the reorganization plan to become effective.
 
 John F. Kennedy.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Cross References
-
-Applicability of this subchapter to the insurance business, see section 1011 et seq. of this title.
-
-Compensation of Chairman and members, see sections 5314 and 5315 of Title 5, Government Organization and Employees.
-
-Jurisdiction of Commission in enforcement of Clayton Act, see section 21 of this title.
-
-Power of Commission under the Packers and Stockyards Act as restricted, see section 227 of Title 7, Agriculture.
 

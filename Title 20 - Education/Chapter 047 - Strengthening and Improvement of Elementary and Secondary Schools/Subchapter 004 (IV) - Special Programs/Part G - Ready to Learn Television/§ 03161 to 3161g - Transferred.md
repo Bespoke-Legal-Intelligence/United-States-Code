@@ -8,7 +8,7 @@ Section 3161, Pub. L. 89–10, title IV, §4701, as added Pub. L. 102–545, §3
 
 Section 3161a, Pub. L. 89–10, title IV, §4702, as added Pub. L. 102–545, §3, Oct. 27, 1992, 106 Stat. 3586, which set forth purposes of contracts, cooperative agreements, and grants, eligibility requirements, and requirement that programming reflect cultural diversity and needs and experiences of both boys and girls, was renumbered section 472 of the General Education Provisions Act by Pub. L. 103–252, title I, §121(a)(1), May 18, 1994, 108 Stat. 649, and is classified to section 1235a of this title.
 
-Section 3161b, Pub. L. 89–10, title IV, §4703, as added Pub. L. 102–545, §3, Oct. 27, 1992, 106 Stat. 3587, which related to duties of Secretary, was renumbered section 473 of the General Education Provisions Act by Pub. L. 103–252, title I, §121(a)(1), May 18, 1994, 108 Stat. 649, and is classified to section 1235b of this title.
+Section 3161b, Pub. L. 89–10, title IV, §4703, as added Pub. L. 102–545, §3, Oct. 27, 1992, 106 Stat. 3587, which related to duties of Secretary, was renumbered section473 of the General Education Provisions Act by Pub. L. 103–252, title I, §121(a)(1), May 18, 1994, 108 Stat. 649, and is classified to section 1235b of this title.
 
 Section 3161c, Pub. L. 89–10, title IV, §4704, as added Pub. L. 102–545, §3, Oct. 27, 1992, 106 Stat. 3588, which related to applications, was renumbered section 474 of the General Education Provisions Act by Pub. L. 103–252, title I, §121(a)(1), May 18, 1994, 108 Stat. 649, and is classified to section 1235c of this title.
 

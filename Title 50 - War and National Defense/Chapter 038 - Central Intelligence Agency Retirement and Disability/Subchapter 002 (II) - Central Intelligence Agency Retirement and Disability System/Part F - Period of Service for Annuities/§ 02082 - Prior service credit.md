@@ -122,7 +122,7 @@ A participant may, subject to the provisions of this section, include in the par
 
 #### (3) Effect of entitlement before September 8, 1982
 
-&emsp;(A) The annuity recomputation required by paragraph (1) shall not apply to any participant who was entitled to an annuity under this subchapter on or before September 8, 1982, or who is entitled to a deferred annuity based on separation from the Agency occurring on or before such date. Instead of an annuity recomputation, the annuity of such participant shall be reduced at age 62 by an amount equal to a fraction of the participant's old-age or survivors’ insurance benefits under section 402 of title 42. The reduction shall be determined by multiplying the participant's monthly Social Security benefit by a fraction, the numerator of which is the participant's total military wages and deemed additional wages (within the meaning of section 429 of title 42) that were subject to Social Security deductions and the denominator of which is the total of all the participant's wages, including military wages, and all self-employment income that were subject to Social Security deductions before the calendar year in which the determination month occurs.
+&emsp;(A) The annuity recomputation required by paragraph (1) shall not apply to any participant who was entitled to an annuity underthis subchapter on or before September 8, 1982, or who is entitled to a deferred annuity based on separation from the Agency occurring on or before such date. Instead of an annuity recomputation, the annuity of such participant shall be reduced at age 62 by an amount equal to a fraction of the participant's old-age or survivors’ insurance benefits under section 402 of title 42. The reduction shall be determined by multiplying the participant's monthly Social Security benefit by a fraction, the numerator of which is the participant's total military wages and deemed additional wages (within the meaning of section 429 of title 42) that were subject to Social Security deductions and the denominator of which is the total of all the participant's wages, including military wages, and all self-employment income that were subject to Social Security deductions before the calendar year in which the determination month occurs.
 
 &emsp;(B) The reduction determined in accordance with subparagraph (A) shall not be greater than the reduction that would be required under paragraph (1) if such paragraph applied to the participant. The new formula shall be applicable to any annuity payment payable after October 1, 1982, including annuity payments to participants who had previously reached age 62 and whose annuities had already been recomputed.
 
@@ -138,7 +138,7 @@ For the purpose of survivor annuities, deposits authorized by subsections (b) an
 
 #### (h) Deposits for periods of military service
 
-(1)(A) Each participant who has performed military service before the date of separation on which entitlement to an annuity under this subchapter is based may pay to the Agency an amount equal to 7 percent of the amount of basic pay paid under section 204 of title 37 to the participant for each period of military service after December 1956; except, the amount to be paid for military service performed beginning on January 1, 1999, through December 31, 2002, shall be as follows:
+(1)(A) Each participant who has performed military service before the date of separation on which entitlement to an annuity under this subchapter is based may pay to the Agency an amount equal to 7 percent of the amount of basic pay paid under section 204 of title 37 to the participant for each period of military service after December 1956; except, the amount to be paid for military service performed beginning on January 1, 1999, through December 31, 2000, shall be as follows:
 
 &nbsp;
 
@@ -146,7 +146,6 @@ For the purpose of survivor annuities, deposits authorized by subsections (b) an
 | :--- | :---: | ---: |
 | &nbsp; | 7\.25 percent of basic pay | January 1, 1999, to December 31, 1999. |
 | &nbsp; | 7\.4 percent of basic pay | January 1, 2000, to December 31, 2000. |
-| &nbsp; | 7\.5 percent of basic pay | January 1, 2001, to December 31, 2002. |
 
 (B) The amount of such payments shall be based on such evidence of basic pay for military service as the participant may provide or, if the Director determines sufficient evidence has not been provided to adequately determine basic pay for military service, such payment shall be based upon estimates of such basic pay provided to the Director under paragraph (4).
 
@@ -162,7 +161,7 @@ For the purpose of survivor annuities, deposits authorized by subsections (b) an
 
 (4) The provisions of section 2031(k) of this title shall apply with respect to such information as the Director determines to be necessary for the administration of this subsection in the same manner that such section applies concerning information described in that section.
 
-(Pub. L. 88–643, title II, §252, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3229; amended Pub. L. 105–33, title VII, §7001(c)(3), Aug. 5, 1997, 111 Stat. 659.)
+(Pub. L. 88–643, title II, §252, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3229; amended Pub. L. 105–33, title VII, §7001(c)(3), Aug. 5, 1997, 111 Stat. 659; Pub. L. 106–346, §101(a) \[title V, §505(c)(2)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–53.)
 
 #### References in Text
 
@@ -174,7 +173,13 @@ A prior section 252 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1050;
 
 #### Amendments
 
+2000—Subsec. (h)(1)(A). Pub. L. 106–346, in introductory provisions, substituted “December 31, 2000” for “December 31, 2002” and in table struck out item at end relating to payment of 7.5 percent of basic pay for service period January 1, 2001, to December 31, 2002.
+
 1997—Subsec. (h)(1). Pub. L. 105–33 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Each participant who has performed military service before the date of separation on which entitlement to an annuity under this subchapter is based may pay to the Agency an amount equal to 7 percent of the amount of basic pay paid under section 204 of title 37 to the participant for each period of military service after December 1956. The amount of such payments shall be based on such evidence of basic pay for military service as the participant may provide or, if the Director determines sufficient evidence has not been provided to adequately determine basic pay for military service, such payment shall be based upon estimates of such basic pay provided to the Director under paragraph (4).”
+
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–346 effective upon the close of calendar year 2000 and applicable thereafter,see section 101(a) \[title V, §505(i)\] of Pub. L. 106–346, set out as a note under section 8334 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1997 Amendment
 

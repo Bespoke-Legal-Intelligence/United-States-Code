@@ -1,6 +1,6 @@
 ### §1422. Governor and Lieutenant Governor; term of office; qualifications; powers and duties; annual report to Congress
 
-The executive power of Guam shall be vested in an executive officer whose official title shall be the “Governor of Guam”. The Governor of Guam, together with the Lieutenant Governor,shall be elected by a majority of the votes cast by the people who are qualified to vote for the members of the Legislature of Guam. The Governor and Lieutenant Governor shall be chosen jointly, by the casting by each voter of a single vote applicable to both offices. If no candidates receive a majority of the votes cast in any election, on the fourteenth day thereafter a runoff election shall be held between the candidates for Governor and Lieutenant Governor receiving the highest and second highest number of votes cast. The first election for Governor and Lieutenant Governor shall be held on November 3, 1970. Thereafter, beginning with the year 1974, the Governor and Lieutenant Governor shall be elected every four years at the general election. The Governor and Lieutenant Governor shall hold office for a term of four years and until their successors are elected and qualified.
+The executive power of Guam shall be vested in an executive officer whose official title shall be the “Governor of Guam”. The Governor of Guam, together with the Lieutenant Governor, shall be elected by a majority of the votes cast by the people who are qualified to vote for the members of the Legislature of Guam. The Governor and Lieutenant Governor shall be chosen jointly, by the casting by each voter of a single vote applicable to both offices. If no candidates receive a majority of the votes cast in any election, on the fourteenth day thereafter a runoff election shall be held between the candidates for Governor and Lieutenant Governor receiving the highest and second highest number of votes cast. The first election for Governor and Lieutenant Governor shall be held on November 3, 1970. Thereafter, beginning with the year 1974, the Governor and Lieutenant Governor shall be elected every four years at the general election. The Governor and Lieutenant Governor shall hold office for a term of four years and until their successors are elected and qualified.
 
 No person who has been elected Governor for two full successive terms shall again be eligible to hold that office until one full term has intervened.
 
@@ -27,6 +27,10 @@ There is hereby established the office of Lieutenant Governor of Guam. The Lieut
 #### Effective Date of 1968 Amendment
 
 Section 13 of Pub. L. 90–497 provided that: “Those provisions necessary to authorize the holding of an election for Governor and Lieutenant Governor on November 3, 1970, shall be effective on January 1, 1970. All other provisions of this Act \[see Short Title of 1968 Amendment note set out under section 1421 of this title\], unless otherwise expressly provided herein, shall be effective January 4, 1971.”
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in the 1st sentence of the 6th paragraph of this section relating to the requirement that the Governor submit a comprehensive annual financial report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 9th item on page 115 of House Document No. 103–7.
 
 #### Submerged Lands, Conveyance to Territory
 

@@ -1,26 +1,56 @@
 ### §4165. Review and audit by Secretary
 
-#### (a) Annual review
+#### (a) Requirements under chapter 75 of title 31
 
-The Secretary shall, not less than on an annual basis, make such reviews and audits as may be necessary or appropriate to determine—
+An entity designated by an Indian tribe as a housing entity shall be treated, for purposes of chapter 75 of title 31, as a non-Federal entity that is subject to the audit requirements that apply to non-Federal entities under that chapter.
 
-&emsp;(1) whether the recipient has carried out its eligible activities in a timely manner, has carried out its eligible activities and certifications in accordance with the requirements and the primary objectives of this chapter and with other applicable laws, and has a continuing capacity to carry out those activities in a timely manner;
+#### (b) Additional reviews and audits
 
-&emsp;(2) whether the recipient has complied with the Indian housing plan of the grant beneficiary; and
+#### (1) In general
 
-&emsp;(3) whether the performance reports under section 4164 of this title of the recipient are accurate.
+&emsp;In addition to any audit or review under subsection (a) of this section, to the extent the Secretary determines such action to be appropriate, the Secretary may conduct an audit or review of a recipient in order to—
 
-> Reviews under this section shall include, insofar as practicable, onsite visits by employees of the Department of Housing and Urban Development.
+&emsp;&emsp;(A) determine whether the recipient—
 
-#### (b) Report by Secretary
+&emsp;&emsp;&emsp;(i) has carried out—
 
-The Secretary shall give a recipient not less than 30 days to review and comment on a report under this subsection. After taking into consideration the comments of the recipient, the Secretary may revise the report and shall make the comments of the recipient and the report, with any revisions, readily available to the public not later than 30 days after receipt of the comments of the recipient.
+&emsp;&emsp;&emsp;&emsp;(I) eligible activities in a timely manner; and
 
-#### (c) Effect of reviews
+&emsp;&emsp;&emsp;&emsp;(II) eligible activities and certification in accordance with this chapter and other applicable law;
 
-The Secretary may make appropriate adjustments in the amount of the annual grants under this chapter in accordance with the findings of the Secretary pursuant to reviews and audits under this section. The Secretary may adjust, reduce, or withdraw grant amounts, or take other action as appropriate in accordance with the reviews and audits of the Secretary under this section, except that grant amounts already expended on affordable housing activities may not be recaptured or deducted from future assistance provided on behalf of an Indian tribe.
+&emsp;&emsp;&emsp;(ii) has a continuing capacity to carry out eligible activities in a timely manner; and
 
-(Pub. L. 104–330, title IV, §405, Oct. 26, 1996, 110 Stat. 4040.)
+&emsp;&emsp;&emsp;(iii) is in compliance with the Indian housing plan of the recipient; and
+
+&emsp;&emsp;(B) verify the accuracy of information contained in any performance report submitted by the recipient under section 4164 of this title.
+
+#### (2) On-site visits
+
+&emsp;To the extent practicable, the reviews and audits conducted under this subsection shall include on-site visits by the appropriate official of the Department of Housing and Urban Development.
+
+#### (c) Review of reports
+
+#### (1) In general
+
+&emsp;The Secretary shall provide each recipient that is the subject of a report made by the Secretary under this section notice that the recipient may review and comment on the report during a period of not less than 30 days after the date on which notice is issued under this paragraph.
+
+#### (2) Public availability
+
+&emsp;After taking into consideration any comments of the recipient under paragraph (1), the Secretary—
+
+&emsp;&emsp;(A) may revise the report; and
+
+&emsp;&emsp;(B) not later than 30 days after the date on which those comments are received, shall make the comments and the report (with any revisions made under subparagraph (A)) readily available to the public.
+
+#### (d) Effect of reviews
+
+Subject to section 4161(a) of this title, after reviewing the reports and audits relating to a recipient that are submitted to the Secretary under this section, the Secretary may adjust the amount of a grant made to a recipient under this chapter in accordance with the findings of the Secretary with respect to those reports and audits.
+
+(Pub. L. 104–330, title IV, §405, Oct. 26, 1996, 110 Stat. 4040; Pub. L. 106–568, title X, §1003(f)(2), Dec. 27, 2000, 114 Stat. 2927; Pub. L. 106–569, title V, §503(e)(2), Dec. 27, 2000, 114 Stat. 2963.)
+
+#### Amendments
+
+2000—Pub. L. 106–568 and Pub. L. 106–569 amended section identically, reenacting section catchline without change and amending text generally. Prior to amendment, section required the Secretary to make reviews and audits of recipients’ activities and performance, to prepare reports, and to make adjustments in amounts of annual grants under this chapter based on the reviews and audits.
 
 #### Effective Date
 

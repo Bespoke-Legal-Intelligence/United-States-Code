@@ -2,7 +2,7 @@
 
 #### (a) Deputy Secretary, Assistant Secretaries, and General Counsel
 
-There shall be in the Department a Deputy Secretary, eight Assistant Secretaries, and a General Counsel, who shall be appointed by the President by and with the advice and consent of the Senate, and who shall perform such functions, powers, and duties as the Secretary shall prescribe from time to time.
+There shall be in the Department a Deputy Secretary, eight Assistant Secretaries, and aGeneral Counsel, who shall be appointed by the President by and with the advice and consent of the Senate, and who shall perform such functions, powers, and duties as the Secretary shall prescribe from time to time.
 
 #### (b) Federal Housing Commissioner
 
@@ -52,7 +52,7 @@ There shall be in the Department a Federal Housing Administration Comptroller, d
 
 #### References in Text
 
-The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (e)(1)(B), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
+The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (e)(1)(B),are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
 
 The Housing and Community Development Act of 1974, referred to in subsec. (e)(1)(C)(ii), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, as amended. Title I of the Act is classified principally to chapter 69 (§5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
@@ -122,9 +122,7 @@ Staff.—Not later than the expiration of the 1-year period beginning on the dat
 
 Functions, powers, and duties of Office of Inspector General in Department of Housing and Urban Development transferred to Office of Inspector General in Department of Housing and Urban Development, as established by Pub. L. 95–452, §2, Oct. 12, 1978, 92 Stat. 1101, set out in the Appendix to Title 5, Government Organization and Employees. See section 9(a)(1)(G) of Pub. L. 95–452, as amended, set out in Appendix to Title 5.
 
-#### Cross References
+#### Section Referred to in Other Sections
 
-Compensation of deputy secretaries, assistant secretaries, general counsels, and assistant secretaries for administration of Executive departments, see section 5311 et seq. of Title 5, Government Organization and Employees.
-
-Classification of civilian positions, see section 5101 et seq. of Title 5.
+This section is referred to in section 3536 of this title.
 

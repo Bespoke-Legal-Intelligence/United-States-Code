@@ -12,7 +12,7 @@ In the case of any open end consumer credit plan which provides for any extensio
 
 &emsp;In the case of a plan which provides for variable rates of interest on credit extended under the plan—
 
-&emsp;&emsp;(A) a description of the manner in which such rate will be computed and a statement that such rate does not include costs other than interest;
+&emsp;&emsp;(A) a description of the manner in which such rate will be computed and a statementthat such rate does not include costs other than interest;
 
 &emsp;&emsp;(B) a description of the manner in which any changes in the annual percentage rate will be made, including—
 
@@ -50,7 +50,7 @@ In the case of any open end consumer credit plan which provides for any extensio
 
 #### (3) Other fees imposed by the creditor
 
-&emsp;An itemization of any fees imposed by the creditor in connection with the availability or use of credit under such plan, including annual fees, application fees, transaction fees, andclosing costs (including costs commonly described as “points”), and the time when such fees are payable.
+&emsp;An itemization of any fees imposed by the creditor in connection with the availability or use of credit under such plan, including annual fees, application fees, transaction fees, and closing costs (including costs commonly described as “points”), and the time when such fees are payable.
 
 #### (4) Estimates of fees which may be imposed by third parties
 
@@ -190,7 +190,7 @@ In the case of any open end consumer credit plan which provides for any extensio
 
 #### (D) Special provision relating to variable interest rate information
 
-&emsp;&emsp;Whether or not the disclosures required under subsection (a) of this section are provided on the application form, the variable rate information described in subsection (a)(2) of this section may be provided separately from the other information required to be disclosed.
+&emsp;&emsp;Whether or not the disclosures required under subsection (a) of this section are provided on the application form, the variable rate information described in subsection\(a)(2) of this section may be provided separately from the other information required to be disclosed.
 
 #### (3) Requirement for historical table
 

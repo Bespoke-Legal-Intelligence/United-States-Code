@@ -4,7 +4,7 @@ The purposes of the corporation include—
 
 &emsp;(1) the presentation of theatrical productions of the highest type;
 
-&emsp;(2) the stimulation of public interest in the drama as an art belonging both to the theaterand to literature and to be enjoyed both on the stage and in the study;
+&emsp;(2) the stimulation of public interest in the drama as an art belonging both to the theater and to literature and to be enjoyed both on the stage and in the study;
 
 &emsp;(3) the advancement of interest in the drama throughout the United States by furthering the production of the best plays, interpreted by the best actors at a minimum cost;
 

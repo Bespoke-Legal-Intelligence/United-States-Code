@@ -4,10 +4,6 @@ The Secretary of the Interior shall cause to be established on the books of the 
 
 (Aug. 28, 1937, ch. 874, §1, 50 Stat. 872.)
 
-#### Cross References
-
-Transfer of certain judgment funds to capital reserve fund, see section 542 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 542, 564f of this title.

@@ -4,7 +4,3 @@ The consent of Congress is given to the States of Maryland and West Virginia and
 
 (July 11, 1940, ch. 579, 54 Stat. 748.)
 
-#### Codification
-
-Section is also set out in section 7–1301(a) of the District of Columbia Code.
-

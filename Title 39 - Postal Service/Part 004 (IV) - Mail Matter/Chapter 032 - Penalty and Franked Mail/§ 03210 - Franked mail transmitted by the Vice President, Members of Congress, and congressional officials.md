@@ -24,7 +24,7 @@
 
 &emsp;(I) mail matter which constitutes or includes a biography or autobiography of any Member of, or Member-elect to, Congress or any biographical or autobiographical material concerning such Member or Member-elect or the spouse or other members of the family of such Member or Member-elect, and which is so mailed as a part of a Federal publication or in response to a specific request therefor and is not included for publicity purposes in a newsletter or other general mass mailing of the Member or Member-elect under the franking privilege; or
 
-&emsp;(J) mail matter which contains a picture, sketch, or other likeness of any Member or Member-elect and which is so mailed as a part of a Federal publication or in response to a specific request therefor and, when contained in a newsletter or other general mass mailing of any Member or Member-elect, is not of such size, or does not occur with such frequency in the mail matter concerned, as to lead to the conclusion that the purpose of such picture, sketch, or likeness is to advertise the Member or Member-elect rather than to illustrate accompanying text.
+&emsp;(J) mail matter which contains a picture, sketch, or other likeness of any Member or Member-elect and which is so mailed as a part of a Federal publication or in response to a specific request therefor and, when contained in a newsletter or other general mass mailing of any Member or Member-elect, is not of such size, or does not occur with such frequency inthe mail matter concerned, as to lead to the conclusion that the purpose of such picture, sketch, or likeness is to advertise the Member or Member-elect rather than to illustrate accompanying text.
 
 (4) It is the intent of the Congress that the franking privilege under this section shall not permit, and may not be used for, the transmission through the mails as franked mail, of matter which in its nature is purely personal to the sender or to any other person and is unrelated to the official business, activities, and duties of the public officials covered by subsection (b)(1) of this section.
 
@@ -90,7 +90,7 @@
 
 (5) The Senate Committee on Rules and Administration and the House Commission on Congressional Mailing Standards shall prescribe for their respective Houses rules and regulations governing any franked mail which is mailed under this subsection and shall by regulation limit the number of such mailings allowed under this subsection
 
-(6)(A) Any Member of, or Member-elect to, the House of Representatives entitled to make anymailing as franked mail under this subsection shall, before making any mailing, submit a sample or description of the mail matter involved to the House Commission on Congressional Mailing Standards for an advisory opinion as to whether the proposed mailing is in compliance with the provisions of this subsection.
+(6)(A) Any Member of, or Member-elect to, the House of Representatives entitled to make any mailing as franked mail under this subsection shall, before making any mailing, submit a sample or description of the mail matter involved to the House Commission on Congressional Mailing Standards for an advisory opinion as to whether the proposed mailing is in compliance with the provisions of this subsection.
 
 (B) The Senate Select Committee on Ethics may require any Member of, or Member-elect to, the Senate entitled to make any mailings as franked mail under this subsection to submit a sample or description of the mail matter to the Committee for an advisory opinion as to whether the proposed mailing is in compliance with the provisions of this subsection.
 
@@ -114,7 +114,7 @@
 
 (g) Notwithstanding any other provision of Federal, State, or local law, or any regulation thereunder, the equivalent amount of postage determined under section 3216 of this title on franked mail mailed under the frank of the Vice President or a Member of Congress, and the cost of preparing or printing such frankable matter for such mailing under the frank, shall not be considered as a contribution to, or an expenditure by, the Vice President or a Member of Congress for the purpose of determining any limitation on expenditures or contributions with respect to any such official, imposed by any Federal, State, or local law or regulation, in connection with any campaign of such official for election to any Federal office.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 754; Pub. L. 92–51, §101, July 9, 1971, 85 Stat. 132; Pub. L. 93–191, §1(a), Dec. 18, 1973, 87 Stat. 737; Pub. L. 94–177, Dec. 23, 1975, 89 Stat. 1032; Pub. L. 95–521, title VII, §714(a), Oct. 26, 1978, 92 Stat. 1884; Pub. L. 97–69, §§1–3(a), 4, Oct. 26, 1981, 95 Stat. 1041–1043; Pub. L. 97–263, §1(1), (2), Sept. 24, 1982, 96 Stat. 1132; Pub. L. 101–163, title III, §318, Nov. 21, 1989, 103 Stat. 1067; Pub. L. 101–520, title III, §§311(h)(1), 316, Nov. 5, 1990, 104 Stat. 2280, 2283; Pub. L. 102–392, title III, §309(a), Oct. 6, 1992, 106 Stat. 1722; Pub. L. 104–197, title I, §102(a), Sept. 16, 1996, 110 Stat. 2401.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 754; Pub. L. 92–51, §101, July 9, 1971, 85 Stat. 132; Pub. L. 93–191, §1(a), Dec. 18, 1973, 87 Stat. 737; Pub. L. 94–177, Dec. 23, 1975, 89 Stat. 1032; Pub. L. 95–521,title VII, §714(a), Oct. 26, 1978, 92 Stat. 1884; Pub. L. 97–69, §§1–3(a), 4, Oct. 26, 1981, 95 Stat. 1041–1043; Pub. L. 97–263, §1(1), (2), Sept. 24, 1982, 96 Stat. 1132; Pub. L. 101–163, title III, §318, Nov. 21, 1989, 103 Stat. 1067; Pub. L. 101–520, title III, §§311(h)(1), 316, Nov. 5, 1990, 104 Stat. 2280, 2283; Pub. L. 102–392, title III, §309(a), Oct. 6, 1992, 106 Stat. 1722; Pub. L. 104–197, title I, §102(a), Sept. 16, 1996, 110 Stat. 2401.)
 
 #### Amendments
 
@@ -184,7 +184,7 @@ Section 309(b) of Pub. L. 102–392 provided that: “The amendments made by sub
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 311(h)(1) of Pub. L. 101–520 applicable with respect to sessions of Congress beginning with the first session of the One Hundred Second Congress, see section 59e(i) of Title 2, The Congress.
+Amendment by section 311(h)(1) of Pub. L. 101–520 applicable with respect to sessions of Congress beginningwith the first session of the One Hundred Second Congress, see section 59e(i) of Title 2, The Congress.
 
 #### Effective Date of 1981 Amendment
 

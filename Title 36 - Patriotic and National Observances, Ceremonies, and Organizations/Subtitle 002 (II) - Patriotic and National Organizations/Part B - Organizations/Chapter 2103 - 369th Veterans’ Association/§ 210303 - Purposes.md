@@ -6,7 +6,7 @@ The purposes of the corporation are as provided in the articles of incorporation
 
 &emsp;(2) engaging in social and civic activities that tend to enhance the welfare of its members and inculcate the true principles of good citizenship in its members; and
 
-&emsp;(3) memorializing, individually and collectively, the patriotic services of its members in the 369th antiaircraft artillery group and other units in the Armed Forces of the United States.
+&emsp;(3) memorializing, individually and collectively, the patriotic services of its members in the 369th antiaircraft artillery group andother units in the Armed Forces of the United States.
 
 (Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1457.)
 

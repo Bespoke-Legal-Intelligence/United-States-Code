@@ -6,7 +6,7 @@ For purposes of this section, the term “resolution of repository siting approv
 
 #### (b) State or Indian tribe petitions
 
-The designation of a site as suitable for application for a construction authorization for a repository shall be effective at the end of the 60-day period beginning on the date that the President recommends such site to the Congress under section 10134 of this title, unless the Governor and legislature of the State in which such site is located, or the governing body of an Indian tribe on whose reservation such site is located, as the case may be, has submitted to the Congress a notice of disapproval under section 10136 or 10138 of this title. If any such notice of disapproval has been submitted, the designation of such site shall not be effective except as provided under subsection (c) of this section.
+The designation of a site as suitable for application for a construction authorization for a repository shall be effective at the end of the 60-day period beginning on the date that the President recommends such site to the Congress under section 10134 of this title, unless the Governor and legislature of the State in which such site is located, or the governing body of an Indian tribe on whose reservation such site is located, as the case may be, has submitted to the Congress a notice of disapproval under section 10136 or 10138 of this title. If any such notice ofdisapproval has been submitted, the designation of such site shall not be effective except as provided under subsection (c) of this section.
 
 #### (c) Congressional review of petitions
 
@@ -30,7 +30,7 @@ If any notice of disapproval of a repository site designation has been submitted
 
 (B) Debate on a resolution of siting approval, and on all debatable motions and appeals in connection with such resolution, shall be limited to not more than 10 hours, which shall be divided equally between Members favoring and Members opposing such resolution. A motion further to limit debate shall be in order and shall not be debatable. Such motion shall not be subject to amendment, to a motion to postpone, or to a motion to proceed to the consideration of other business, and a motion to recommit such resolution shall not be in order. A motion to reconsider the vote by which such resolution is agreed to or disagreed to shall not be in order.
 
-(C) Immediately following the conclusion of the debate on a resolution of siting approval, and a single quorum call at the conclusion of such debate if requested in accordance with therules of the Senate, the vote on final approval of such resolution shall occur.
+(C) Immediately following the conclusion of the debate on a resolution of siting approval, and a single quorum call at the conclusion of such debate if requested in accordance with the rules of the Senate, the vote on final approval of such resolution shall occur.
 
 (D) Appeals from the decisions of the Chair relating to the application of the rules of the Senate to the procedure relating to a resolution of siting approval shall be decided without debate.
 
@@ -48,7 +48,7 @@ If any notice of disapproval of a repository site designation has been submitted
 
 (1) The provisions of this section are enacted by the Congress—
 
-&emsp;(A) as an exercise of the rulemaking power of the House of Representatives, and as such they are deemed a part of the rules of the House, but applicable only with respect to the procedure to be followed in the House in the case of resolutions of repository siting approval, and such provisions supersede other rules of the House only to the extent that they are inconsistent with such other rules; and
+&emsp;(A) as an exercise of the rulemaking power of the House of Representatives, and as such they are deemed a part of the rules of theHouse, but applicable only with respect to the procedure to be followed in the House in the case of resolutions of repository siting approval, and such provisions supersede other rules of the House only to the extent that they are inconsistent with such other rules; and
 
 &emsp;(B) with full recognition of the constitutional right of the House to change the rules (so far as relating to the procedure of the House) at any time, in the same manner and to the same extent as in the case of any other rule of the House.
 

@@ -12,7 +12,7 @@
 
 #### (b) No effect on SSI eligibility or benefit amount
 
-In any case in which the Commissioner of Social Security takes action in accordance withsubsection (a) of this section to recover an amount incorrectly paid to any person, neither that person, nor any individual whose eligibility for benefits under the supplemental security income program under subchapter XVI of this chapter, or whose amount of such benefits, is determined by considering any part of that person's income, shall, as a result of such action—
+In any case in which the Commissioner of Social Security takes action in accordance with subsection (a) of this section to recover an amount incorrectly paid to any person, neither that person, nor any individual whose eligibility for benefits under the supplemental security income program under subchapter XVI of this chapter, or whose amount of such benefits, is determined by considering any part of that person's income, shall, as a result of such action—
 
 &emsp;(1) become eligible for benefits under such program; or
 

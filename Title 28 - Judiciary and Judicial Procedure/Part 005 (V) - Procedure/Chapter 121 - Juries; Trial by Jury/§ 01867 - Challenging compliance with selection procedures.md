@@ -34,9 +34,9 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1968—Pub. L. 90–274 substituted provisions by which a defendant may assert noncompliance with the selection procedures of the jury for provisions covering the issuance of summonses for jurors and service thereof upon jurors.
+<b>1968</b>—Pub. L. 90–274 substituted provisions by which a defendant may assert noncompliance with the selection procedures of the jury for provisions covering the issuance of summonses for jurors and service thereof upon jurors.
 
-1957—Pub. L. 85–259 inserted “or certified” in second and third sentences.
+<b>1957</b>—Pub. L. 85–259 inserted “or certified” in second and third sentences.
 
 #### Effective Date of 1968 Amendment
 

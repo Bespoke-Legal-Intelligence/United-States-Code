@@ -2,7 +2,7 @@
 
 #### (a) General requirements
 
-For the purpose of all subchapters of this chapter, subject to the limitations of subsection (d) of this section, an eligible cooperative is an organization chartered or operated on a cooperative, not-for-profit basis for producing or furnishing goods, services or facilities, primarily for the benefit of its members or voting stockholders who are ultimate consumers of such goods, services, or facilities, or a legally chartered entity primarily owned and controlled by any such organization or organizations, if it—
+For the purpose of all subchapters of this chapter, subject to the limitations of subsection\(d) of this section, an eligible cooperative is an organization chartered or operated on a cooperative, not-for-profit basis for producing or furnishing goods, services or facilities, primarily for the benefit of its members or voting stockholders who are ultimate consumers of such goods, services, or facilities, or a legally chartered entity primarily owned and controlled by any such organization or organizations, if it—
 
 &emsp;(1) makes such goods, services or facilities directly or indirectly available to its members or voting stockholders on a not-for-profit basis;
 
@@ -30,7 +30,7 @@ An eligible cooperative which also has been determined to be eligible for credit
 
 #### (e) Credit unions eligible for technical assistance from Office of Self-Help Development and Technical Assistance
 
-Notwithstanding any other provision of this section, a credit union serving predominantlylow-income members (as defined by the Administrator of the National Credit Union Administration) may receive technical assistance under subchapter II of this chapter.
+Notwithstanding any other provision of this section, a credit union serving predominantly low-income members (as defined by the Administrator of the National Credit Union Administration) may receive technical assistance under subchapter II of this chapter.
 
 (Pub. L. 95–351, title I, §105, Aug. 20, 1978, 92 Stat. 506; Pub. L. 97–35, title III §394(e)(1), (f), Aug. 13, 1981, 95 Stat. 436, 437.)
 

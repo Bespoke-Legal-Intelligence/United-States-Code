@@ -26,7 +26,7 @@ To the extent that the right to use the registered mark has become incontestable
 
 &emsp;(9) That equitable principles, including laches, estoppel, and acquiescence, are applicable.
 
-(July 5, 1946, ch. 540, title VI, §33, 60 Stat. 438; Pub. L. 87–772, §18, Oct. 9, 1962, 76 Stat. 774; Pub. L. 100–667, title I, §128(a), (b), Nov. 16, 1988, 102Stat. 3944; Pub. L. 105–330, title II, §201(a)(9), Oct. 30, 1998, 112 Stat. 3070.)
+(July 5, 1946, ch. 540, title VI, §33, 60 Stat. 438; Pub. L. 87–772, §18, Oct. 9, 1962, 76 Stat. 774; Pub. L. 100–667, title I, §128(a), (b), Nov. 16, 1988, 102 Stat. 3944; Pub. L. 105–330, title II, §201(a)(9), Oct. 30, 1998, 112 Stat. 3070.)
 
 #### References in Text
 
@@ -71,12 +71,6 @@ Amendment by Pub. L. 100–667 effective one year after Nov. 16, 1988, see secti
 #### Repeal and Effect on Existing Rights
 
 Repeal of inconsistent provisions, effect of this chapter on pending proceedings and existing registrations and rights under prior acts, see notes set out under section 1051 of this title.
-
-#### Cross References
-
-Abandonment of mark, definition of, see section 1127 of this title.
-
-Supplemental register, section inapplicable to trademarks on, see section 1094 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -1,14 +1,8 @@
 ### SUBCHAPTER III—PROTECTION AND ADVOCACY OF INDIVIDUAL RIGHTS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 1320b–21, 1396r, 6006, 6022, 6024, 6082, 6083, 10802, 14404 of this title; title 29 sections 794e, 3002.
-
 
 ---
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 06041 - Purpose](%C2%A7%2006041%20-%20Purpose.md)
-- [&sect; 06042 - System required](%C2%A7%2006042%20-%20System%20required.md)
-- [&sect; 06043 - Authorization of appropriations](%C2%A7%2006043%20-%20Authorization%20of%20appropriations.md)
+- [&sect; 06041 to 6043 - Repealed. Pub. L. 106&#8211;402, title IV, &sect;401(a), Oct. 30, 2000, 114 Stat. 1737](%C2%A7%2006041%20to%206043%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93402%2C%20title%20IV%2C%20%C2%A7401%28a%29%2C%20Oct.%2030%2C%202000%2C%20114%20Stat.%201737.md)

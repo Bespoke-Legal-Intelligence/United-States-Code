@@ -2,7 +2,7 @@
 
 The President may prescribe rules which shall prohibit, as nearly as conditions of good administration warrant, discrimination because of handicapping condition in an Executive agency or in the competitive service with respect to a position the duties of which, in the opinion of the Office of Personnel Management, can be performed efficiently by an individual with a handicapping condition, except that the employment may not endanger the health or safety of the individual or others.
 
-(Pub. L. 89–544, Sept. 6, 1966, 80 Stat. 523, §7153; renumbered §7203 and amended Pub. L. 95–454, title I, §101(b)(2), title VII, §703(a)(1), title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1118, 1216, 1224.)
+(Pub. L. 89–544, Sept. 6, 1966, 80 Stat. 523, §7153; renumbered §7203 and amended Pub. L. 95–454,title I, §101(b)(2), title VII, §703(a)(1), title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1118, 1216, 1224.)
 
 Historical and Revision Notes
 
@@ -31,10 +31,6 @@ Pub. L. 95–454, §§101(b)(2), 906(a)(2), substituted “Handicapping conditio
 #### Effective Date of 1978 Amendment
 
 Amendment by sections 101(b)(2) and 906(a)(2) of Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
-
-#### Cross References
-
-President's power to grant exceptions from provisions of this section, see section 3302 of this title.
 
 #### Section Referred to in Other Sections
 

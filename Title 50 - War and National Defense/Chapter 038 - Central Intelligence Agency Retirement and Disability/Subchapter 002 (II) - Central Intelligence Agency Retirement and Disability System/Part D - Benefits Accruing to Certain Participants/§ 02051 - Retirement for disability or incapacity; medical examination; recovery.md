@@ -32,7 +32,7 @@
 
 #### (2) Coordination with military retired pay and veterans’ compensation and pension
 
-&emsp;If a participant retiring under this section is receiving retired pay or retainer pay for military service (except that specified in section 2082(e)(3) of this title) or Department of Veterans Affairs compensation or pension in lieu of such retired or retainer pay, the annuity of that participant shall be computed under section 2031(a) of this title, excluding credit for such military service from that computation. If the amount of the annuity so computed, plus the retired or retainer pay which is received, or which would be received but for the application of the limitation in section 5532 <sup>1</sup> of title 5, or the Department of Veterans Affairs compensation or pension in lieu of such retired or retainer pay, is less than the annuity that would be payable under this section in the absence of the previous sentence, an amount equal to the difference shall be added to the annuity payable under section 2031(a) of this title.
+&emsp;If a participant retiring under this section is receiving retired pay or retainer pay for military service (except that specified in section 2082(e)(3) of this title) or Department of Veterans Affairs compensation or pension in lieu of such retired or retainer pay, the annuity of that participant shall be computed under section 2031(a) of this title, excluding credit forsuch military service from that computation. If the amount of the annuity so computed, plus the retired or retainer pay which is received, or which would be received but for the application of the limitation in section 5532 <sup>1</sup> of title 5, or the Department of Veterans Affairs compensation or pension in lieu of such retired or retainer pay, is less than the annuity that would be payable under this section in the absence of the previous sentence, an amount equal to the difference shall be added to the annuity payable under section 2031(a) of this title.
 
 #### (c) Medical examinations
 
@@ -46,7 +46,7 @@
 
 #### (3) Reinstatement
 
-&emsp;Upon application, the Director may reinstate any such recovered disability annuitant in the grade held at time of retirement, or the Director may, taking into consideration theage, qualifications, and experience of such annuitant, and the present grade of the annuitant's contemporaries in the Agency, appoint the annuitant to a grade higher than the one held before retirement.
+&emsp;Upon application, the Director may reinstate any such recovered disability annuitant in the grade held at time of retirement, or the Director may, taking into consideration the age, qualifications, and experience of such annuitant, and the present grade of the annuitant's contemporaries in the Agency, appoint the annuitant to a grade higher than the one held before retirement.
 
 #### (4) Termination of disability annuity
 

@@ -66,15 +66,13 @@ Board of Directors.—(1) The Airports Authority shall be governed by a board of
 
 (B) In carrying out their duties on the board, members appointed by the President shall ensure that adequate consideration is given to the national interest.
 
-(C) The members to be appointed under paragraph (1)(D) of this subsection must be appointed before October 1, 1997. If the deadline is not met, the Secretary of Transportation and the Airports Authority are subject to the limitations of section 49108 of this title until all members referred to in paragraph (1)(D) are appointed.
-
-(D) A member appointed by the President may be removed by the President for cause.
+(C) A member appointed by the President may be removed by the President for cause.
 
 (7) Eight votes are required to approve bond issues and the annual budget.
 
 (d)
 
-Conflicts of Interest.—Members of the board and their immediate families may not be employed by or otherwise hold a substantial financial interest in any enterprise that has or is seeking a contract or agreement with the Airports Authority or is an aeronautical, aviation services, or airport services enterprise that otherwise has interests that can be directly affected by the Airports Authority. The official appointing a member may make an exception ifthe financial interest is completely disclosed when the member is appointed and the member does not participate in board decisions that directly affect the interest.
+Conflicts of Interest.—Members of the board and their immediate families may not be employed by or otherwise hold a substantial financial interest in any enterprise that has or is seeking a contract or agreement with the Airports Authority or is an aeronautical, aviation services, or airport services enterprise that otherwise has interests that can be directly affected by the Airports Authority. The official appointing a member may make an exception if the financial interest is completely disclosed when the member is appointed and the member does not participate in board decisions that directly affect the interest.
 
 (e)
 
@@ -88,7 +86,7 @@ Administrative.—To assist the Secretary in carrying out this chapter, the Secr
 
 Review of Contracting Procedures.—The Comptroller General shall review contracts of the Airports Authority to decide whether the contracts were awarded by procedures that follow sound Government contracting principles and comply with section 49104(a)(4) of this title. The Comptroller General shall submit periodic reports of the conclusions reached as a result of the review to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
 
-(Added Pub. L. 105–102, §2(26), Nov. 20, 1997, 111 Stat. 2210; amended Pub. L. 105–225, §7(c)(1)(A), (B), Aug. 12, 1998, 112 Stat. 1511.)
+(Added Pub. L. 105–102, §2(26), Nov. 20, 1997, 111 Stat. 2210; amended Pub. L. 105–225, §7(c)(1)(A), (B), Aug. 12, 1998, 112 Stat. 1511; Pub. L. 106–181, title II, §231(i), Apr. 5, 2000, 114 Stat. 115.)
 
 Historical and Revision Notes
 
@@ -194,9 +192,15 @@ In subsection (g), the words “Committee on Transportation and Infrastructure�
 
 #### Amendments
 
+2000—Subsec. (c)(6)(C), (D). Pub. L. 106–181 redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: “The members to be appointed under paragraph (1)(D) of this subsection must be appointed before October 1, 1997. If the deadline is not met, the Secretary of Transportation and the Airports Authority are subject to the limitations of section 49108 of this title until all members referred to in paragraph (1)(D) are appointed.”
+
 1998—Subsec. (b)(1)(F). Pub. L. 105–225, §7(c)(1)(A), substituted “1986” for “1996”.
 
 Subsec. (c)(3). Pub. L. 105–225, §7(c)(1)(B), substituted “to the board” for “by the board”.
+
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
 
 #### Effective Date of 1998 Amendment
 

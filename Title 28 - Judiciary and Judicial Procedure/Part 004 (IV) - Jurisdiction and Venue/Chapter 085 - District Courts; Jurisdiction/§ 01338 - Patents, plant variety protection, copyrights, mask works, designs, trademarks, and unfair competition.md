@@ -24,53 +24,23 @@ Subsection (b) is added and is intended to avoid “piecemeal” litigation to e
 
 #### Amendments
 
-1999—Pub. L. 106–113 substituted “trademarks” for “trade-marks” in section catchline and subsec. (a) and substituted “trademark” for “trade-mark” in subsec. (b).
+<b>1999</b>—Pub. L. 106–113 substituted “trademarks” for “trade-marks” in section catchline and subsec. (a) and substituted “trademark” for “trade-mark” in subsec. (b).
 
-1998—Pub. L. 105–304, §503(b)(2)(A), inserted “designs,” after “mask works,” in section catchline.
+<b>1998</b>—Pub. L. 105–304, §503(b)(2)(A), inserted “designs,” after “mask works,” in section catchline.
 
 Subsec. (c). Pub. L. 105–304, §503(b)(1), inserted “, and to exclusive rights in designs under chapter 13 of title 17,” after “title 17”.
 
-1988—Pub. L. 100–702, §1020(a)(4)(B), amended section catchline generally, inserting “mask works,” after “copyrights,”.
+<b>1988</b>—Pub. L. 100–702, §1020(a)(4)(B), amended section catchline generally, inserting “mask works,” after “copyrights,”.
 
 Subsec. (c). Pub. L. 100–702, §1020(a)(4)(A), added subsec. (c).
 
-1970—Pub. L. 91–577 inserted references to “plant variety protection” in section catchline and in subsecs. (a) and (b).
+<b>1970</b>—Pub. L. 91–577 inserted references to “plant variety protection” in section catchline and in subsecs. (a) and (b).
 
 #### Effective Date of 1970 Amendment
 
 Amendment by Pub. L. 91–577 effective Dec. 24, 1970, see section 141 of Pub. L. 91–577, set out as an Effective Date note under section 2321 of Title 7, Agriculture.
 
-#### Cross References
-
-Amount in controversy under this section, see Historical and Revision Notes under section 1331 of this title.
-
-Civil action to obtain patent or in case of interference, see sections 145 and 146 of Title 35, Patents.
-
-Court of Federal Claims, jurisdiction of claims against United States for patent infringement, see section 1498 of this title.
-
-Diversity of citizenship under this section, see Historical and Revision Notes under section 1332 of this title.
-
-Foreign Assistance Act of 1961, jurisdiction and legal remedy for unauthorized use or disclosure of patents and technical information, see section 2356 of Title 22, Foreign Relations and Intercourse.
-
-Infringements of—
-
-&emsp;&emsp;Copyrights and rights and remedies therefor, see section 501 et seq. of Title 17, Copyrights.
-
-&emsp;&emsp;Patents, see sections 271 et seq. and 281 et seq. of Title 35, Patents.
-
-&emsp;&emsp;Trademarks, see sections 1057, 1114, 1115, and 1117 of Title 15, Commerce and Trade.
-
-Jurisdiction of trademark actions, see section 1121 of Title 15.
-
-Pleading and proof in patent actions for infringement, see section 282 of Title 35, Patents.
-
-Venue—
-
-&emsp;&emsp;Patent or copyright actions, see section 1400 of this title.
-
-&emsp;&emsp;Trademark infringement action, see section 1391(b) of this title.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1295 of this title.
+This section is referred to in section 1295 of this title; title 35 sections 315, 317.
 

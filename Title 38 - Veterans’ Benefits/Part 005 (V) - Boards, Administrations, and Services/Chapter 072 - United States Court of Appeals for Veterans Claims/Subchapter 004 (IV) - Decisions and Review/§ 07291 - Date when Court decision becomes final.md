@@ -18,7 +18,7 @@
 
 &emsp;(C) the decision of the United States Court of Appeals for the Federal Circuit has been affirmed by the Supreme Court,
 
-> then the decision of the Court of Appeals for Veterans Claims rendered in accordance with the mandate of the United States Court of Appeals for the Federal Circuit shall become final upon the expiration of 30 days from the timesuch decision of the Court of Appeals for Veterans Claims was rendered, unless within such 30 days either the Secretary or the petitioner has instituted proceedings to have such decision corrected so that it will accord with the mandate, in which event the decision of the Court of Appeals for Veterans Claims shall become final when so corrected.
+> then the decision of the Court of Appeals for Veterans Claims rendered in accordance with the mandate of the United States Court of Appeals for the Federal Circuit shall become final upon the expiration of 30 days from the time such decision of the Court of Appeals for Veterans Claims was rendered, unless within such 30 days either the Secretary or the petitioner has instituted proceedings to have such decision corrected so that it will accord with the mandate, in which event the decision of the Court of Appeals for Veterans Claims shall become final when so corrected.
 
 (c) If the Supreme Court orders a rehearing, or if the case is remanded by the United States Court of Appeals for the Federal Circuit to the Court of Appeals for Veterans Claims for a rehearing, and if—
 

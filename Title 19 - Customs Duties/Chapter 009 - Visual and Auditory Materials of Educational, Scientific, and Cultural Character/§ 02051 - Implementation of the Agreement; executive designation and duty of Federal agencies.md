@@ -1,6 +1,6 @@
 ### §2051. Implementation of the Agreement; executive designation and duty of Federal agencies
 
-The President of the United States is authorized to designate a Federal agency or agencies which shall be responsible for carrying out the provisions of the Agreement for Facilitating the International Circulation of Visual and Auditory Materials of an Educational, Scientific, andCultural Character and a related protocol of signature, opened for signature at Lake Success on July 15, 1949 (hereinafter in this chapter referred to as the “Agreement”). It shall be the duty of the Federal agency or agencies so designated to take appropriate measures for the carrying out of the provisions of the Agreement including the issuance of regulations. In carrying out this section, such Federal agency or agencies may not consider visual or auditory material to fail to qualify as being of international educational character—
+The President of the United States is authorized to designate a Federal agency or agencies which shall be responsible for carrying out the provisions of the Agreement for Facilitating the International Circulation of Visual and Auditory Materials of an Educational, Scientific, and Cultural Character and a related protocol of signature, opened for signature at Lake Success on July 15, 1949 (hereinafter in this chapter referred to as the “Agreement”). It shall be the duty of the Federal agency or agencies so designated to take appropriate measures for the carrying out of the provisions of the Agreement including the issuance of regulations. In carrying out this section, such Federal agency or agencies may not consider visual or auditory material to fail to qualify as being of international educational character—
 
 &emsp;(1) because it advocates a particular position or viewpoint, whether or not it presents or acknowledges opposing viewpoints;
 
@@ -18,7 +18,7 @@ The President of the United States is authorized to designate a Federal agency o
 
 #### Amendments
 
-1991—Pub. L. 102–138 inserted provisions at end limiting the authority of a Federal agency or agencies to fail to qualify visual or auditory material as being of international educational character and providing that any material that receives a certificate of international educational character not be labeled as propaganda.
+1991—Pub. L. 102–138 inserted provisions at end limiting the authority of a Federal agency or agencies to fail to qualify visual or auditory material as being of international educational character and providing thatany material that receives a certificate of international educational character not be labeled as propaganda.
 
 #### Ex. Ord. No. 11311. Implementation of Beirut Agreement Relating to Audio-Visual Materials
 

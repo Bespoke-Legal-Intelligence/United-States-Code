@@ -18,10 +18,6 @@
 
 (Pub. L. 93–618, title II, §222, Jan. 3, 1975, 88 Stat. 2019; Pub. L. 97–35, title XXV, §2501, Aug. 13, 1981, 95 Stat. 881; Pub. L. 98–120, §3(a), Oct. 12, 1983, 97 Stat. 809; Pub. L. 99–272, title XIII, §13002(a), Apr. 7, 1986, 100 Stat. 300; Pub. L. 100–418, title I, §1421(a)(1)(A), (b)(1), Aug. 23, 1988, 102 Stat. 1242, 1243; Pub. L. 103–182, title V, §503(a), Dec. 8, 1993, 107 Stat. 2151.)
 
-#### Termination of Section
-
-<i>For termination of section by section 285 of Pub. L. 93–618, see Termination Date note set out preceding section 2271 of this title.</i>
-
 #### Amendments
 
 1993—Subsec. (a). Pub. L. 103–182 substituted “assistance under this subpart” for “assistance under this part”.
@@ -49,6 +45,10 @@ Section 3(b) of Pub. L. 98–120 provided that: “The amendments made by subsec
 #### Effective Date of 1981 Amendment and Transition Provisions
 
 Amendment by Pub. L. 97–35 applicable to petitions filed on or after Oct. 1, 1983, with transition provisions applicable, see section 2514 of Pub. L. 97–35, set out as a note under section 2291 of this title.
+
+#### Termination Date
+
+No assistance, vouchers, allowances, or other payments may be provided under subparts A to C of thispart after Sept. 30, 2001, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
 
 #### Workers Covered by Certification Notwithstanding Other Law
 

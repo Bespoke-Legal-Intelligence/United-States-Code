@@ -18,7 +18,3 @@ Historical and Revision Notes
 
 July 1, 1952, ch. 539, §11, 66 Stat. 320.
 
-#### Cross References
-
-Cataloging and standardization activities, coordination of Administrator of General Services with Secretary of Defense, see section 487 of Title 40, Public Buildings, Property, and Works.
-

@@ -38,10 +38,6 @@ Amendment by Pub. L. 89–601 effective Feb. 1, 1967, except as otherwise provid
 
 Secretary authorized to promulgate necessary rules, regulations, or orders on and after the date of the enactment of Pub. L. 89–601, Sept. 23, 1966, with regard to the amendments made by Pub. L. 89–601, see section 602 of Pub. L. 89–601, set out as a note under section 203 of this title.
 
-#### Cross References
-
-Time when action by Administrator of the Wage and Hour Division is deemed to be commenced for purposes of subsec. (a) of this section, see section 216 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 216, 217, 256, 257, 262 of this title.

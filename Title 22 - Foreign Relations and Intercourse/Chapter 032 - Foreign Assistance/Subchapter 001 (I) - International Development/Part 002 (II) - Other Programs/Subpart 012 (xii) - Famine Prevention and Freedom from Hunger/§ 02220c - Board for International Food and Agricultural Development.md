@@ -2,19 +2,11 @@
 
 #### (a) Establishment; terms and expenses of members
 
-To assist in the administration of the programs authorized by this subpart, the President shall establish a permanent Board for International Food and Agricultural Development (hereafter in this subpart referred to as the “Board”) consisting of seven members, not less than four to be selected from the universities. Terms of members shall be set by the President at the time of appointment. Members of the Board shall be entitled to such reimbursement for expenses incurred in the performance of their duties (including per diem in lieu of subsistence while away from their homes or regular place of business) as the President deems appropriate.
+To assist in the administration of the programs authorized by this subpart, the President shall establish a permanent Board for International Food and Agricultural Development (hereafter in this subpart referred to as the “Board”) consisting of seven members, not less than four to be selected from the universities. Terms of members shall be set by the President at the time of appointment. Members of the Board shall be entitled to such reimbursement for expenses incurred in the performance of their duties (including per diem in lieu of subsistence while away from their homes or regular place of business) as the President deems appropriate on a case-by-case basis.
 
 #### (b) General areas of responsibility
 
-The Board's general areas of responsibility shall include, but not be limited to—
-
-&emsp;(1) participating in the planning, development, and implementation of,
-
-&emsp;(2) initiating recommendations for, and
-
-&emsp;(3) monitoring of,
-
-> the activities described in section 2220b of this title.
+The Board's general areas of responsibility shall include participating in the planning, development, and implementation of, initiating recommendations for, and monitoring, the activities described in section 2220b of this title.
 
 #### (c) Specific, but not exclusive, duties
 
@@ -24,9 +16,9 @@ The Board's duties shall include, but not necessarily be limited to—
 
 &emsp;(2) developing and keeping current a roster of universities—
 
-&emsp;&emsp;(A) interested in exploring their potential for collaborative relationships with agricultural institutions, and with scientists working on significant programs designed to increase food production in developing countries,
+&emsp;&emsp;(A) interested in exploring their potential for collaborative relationships with agricultural institutions, and with scientists working on significant programs designed to improve agricultural production, trade, and natural resource management in developing countries, and with private organizations seeking to increase agricultural production and trade, natural resources management, and household food security in developing and transition countries; <sup>1</sup>
 
-&emsp;&emsp;(B) having capacity in the agricultural sciences,
+&emsp;&emsp;(B) having capacity in the agricultural, environmental, and related social sciences,
 
 &emsp;&emsp;(C) able to maintain an appropriate balance of teaching, research, and extension functions,
 
@@ -36,27 +28,67 @@ The Board's duties shall include, but not necessarily be limited to—
 
 &emsp;(3) recommending which developing nations could benefit from programs carried out under this subpart, and identifying those nations which have an interest in establishing or developing agricultural institutions which engage in teaching, research, or extension activities;
 
-&emsp;(4) reviewing and evaluating memorandums of understanding or other documents that detail the terms and conditions between the Administrator and universities participating in programs under this subpart;
+&emsp;(4) reviewing and evaluating memorandums of understanding or other documents that detail the terms and conditions between the Administrator and universities and their partners participating in programs under this subpart;
 
-&emsp;(5) reviewing and evaluating agreements and activities authorized by this subpart and undertaken by universities to assure compliance with the purposes of this subpart;
+&emsp;(5) reviewing and evaluating agreements and activities authorized by this subpart and undertaken by universities and public and private partners of universities to assure compliance with the purposes of this subpart;
 
-&emsp;(6) recommending to the Administrator the apportionment of funds under section 2220b of this title; and
+&emsp;(6) recommending to the Administrator the apportionment of funds under section 2220b of this title;
 
-&emsp;(7) assessing the impact of programs carried out under this subpart in solving agricultural problems in the developing nations.
+&emsp;(7) assessing the impact of programs carried out under this subpart in solving agricultural problems and natural resource issues in the developing nations, assuring efficiency in use of Federal resources, including in accordance with the Governmental Performance and Results Act of 1993 (Public Law 103–62; 107 Stat. 285), and the amendments made by that Act;
 
-#### (d) Subordinate units; creation of Joint Research Committee, Joint Committee on Country Programs, and other units
+&emsp;(8) developing information exchanges and consulting regularly with nongovernmental organizations, consumer groups, producers, agribusinesses and associations, agricultural cooperatives and commodity groups, State departments of agriculture, State agricultural research and extension agencies, and academic institutions;
+
+&emsp;(9) investigating and resolving issues concerning implementation of this subpart as requested by universities; and
+
+&emsp;(10) advising the Administrator on any and all issues as requested.
+
+#### (d) Subordinate units; creation of Joint Policy Committee, Joint Operations Committee, and other units
 
 The President may authorize the Board to create such subordinate units as may be necessary for the performance of its duties, including but not limited to the following:
 
-&emsp;(1) a Joint Research Committee to participate in the administration and development of the collaborative activities described in section 2220b(a)(3) of this title; and
+&emsp;(1) a Joint Policy Committee to participate in the design and development of the collaborative activities described in section 2220b of this title; and
 
-&emsp;(2) a Joint Committee on Country Programs which shall assist in the implementation of the bilateral activities described in sections 2220b(a)(2), 2220b(a)(4), and 2220b(a)(5) of this title.
+&emsp;(2) a Joint Operations Committee which shall assist in and advise on the mechanisms and processes for implementation of activities described in section 2220b of this title.
 
 #### (e) Consultations in preparation of annual report and on agricultural development activities
 
 In addition to any other functions assigned to and agreed to by the Board, the Board shall be consulted in the preparation of the annual report required by section 2220e of this title and on other agricultural development activities related to programs under this subpart.
 
-(Pub. L. 87–195, pt. I, §298, as added Pub. L. 94–161, title III, §312, Dec. 20, 1975, 89 Stat. 864.)
+(Pub. L. 87–195, pt. I, §298, as added Pub. L. 94–161, title III, §312, Dec. 20, 1975, 89 Stat. 864; amended Pub. L. 106–373, §4, Oct. 27, 2000, 114 Stat. 1432.)
+
+#### References in Text
+
+The Governmental Performance and Results Act of 1993, referred to in subsec. (c)(7), probably means the Government Performance and Results Act of 1993, Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 285, which enacted section 306 of Title 5, Government Organization and Employees, sections 1115 to 1119, 9703, and 9704 of Title 31, Money and Finance, and sections 2801 to 2805 of Title 39, Postal Service, amended section 1105 of Title 31, and enacted provisions set out as notes under sections 1101 and 1115 of Title 31. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under section 1101 of Title 31 and Tables.
+
+#### Amendments
+
+2000—Subsec. (a). Pub. L. 106–373, §4(a), inserted “on a case-by-case basis” before period at end of third sentence.
+
+Subsec. (b). Pub. L. 106–373, §4(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Board's general areas of responsibility shall include, but not be limited to—
+
+&emsp;“(1) participating in the planning, development, and implementation of,
+
+&emsp;“(2) initiating recommendations for, and
+
+&emsp;“(3) monitoring of,
+
+> the activities described in section 2220b of this title.”
+
+Subsec. (c)(2)(A). Pub. L. 106–373, §4(c)(1)(A), substituted “improve agricultural production, trade, and natural resource management in developing countries, and with private organizations seeking to increase agricultural production and trade, natural resources management, and household food security in developing and transition countries;” for “increase food production in developing countries,”.
+
+Subsec. (c)(2)(B). Pub. L. 106–373, §4(c)(1)(B), inserted “, environmental, and related social” before “sciences”.
+
+Subsec. (c)(4). Pub. L. 106–373, §4(c)(2), inserted “and their partners” after “Administrator and universities”.
+
+Subsec. (c)(5). Pub. L. 106–373, §4(c)(3), inserted “and public and private partners of universities” after “universities”.
+
+Subsec. (c)(7). Pub. L. 106–373, §4(c)(5), substituted “and natural resource issues in the developing nations, assuring efficiency in use of Federal resources, including in accordance with the Governmental Performance and Results Act of 1993 (Public Law 103–62; 107 Stat. 285), and the amendments made by that Act;” for “in the developing nations.”
+
+Subsec. (c)(8) to (10). Pub. L. 106–373, §4(c)(4), (6), added pars. (8) to (10).
+
+Subsec. (d)(1). Pub. L. 106–373, §4(d)(1), substituted “Policy” for “Research”, “design” for “administration”, and “section 2220b” for “section 2220b(a)(3)”.
+
+Subsec. (d)(2). Pub. L. 106–373, §4(d)(2), substituted “Joint Operations Committee which shall assist in and advise on the mechanisms and processes for implementation of activities described in section 2220b of this title.” for “Joint Committee on Country Programs which shall assist in the implementation of the bilateral activities described in sections 2220b(a)(2), 2220b(a)(4), and 2220b(a)(5) of this title.”
 
 #### Delegation of Functions
 
@@ -65,4 +97,6 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 #### Section Referred to in Other Sections
 
 This section is referred to in section 2220e of this title.
+
+<i><sup>1</sup></i><i> So in original. The semicolon probably should be a comma.</i>
 

@@ -6,7 +6,7 @@ There are established five schedules of controlled substances, to be known as sc
 
 #### (b) Placement on schedules; findings required
 
-Except where control is required by United States obligations under an international treaty, convention, or protocol, in effect on October27, 1970, and except in the case of an immediate precursor, a drug or other substance may not be placed in any schedule unless the findings required for such schedule are made with respect to such drug or other substance. The findings required for each of the schedules are as follows:
+Except where control is required by United States obligations under an international treaty, convention, or protocol, in effect on October 27, 1970, and except in the case of an immediate precursor, a drug or other substance may not be placed in any schedule unless the findings required for such schedule are made with respect to such drug or other substance. The findings required for each of the schedules are as follows:
 
 (1)
 
@@ -326,7 +326,7 @@ Schedule III
 
 (c) Nalorphine.
 
-(d) Unless specifically excepted or unless listed in another schedule, any material, compound, mixture, or preparation containing limitedquantities of any of the following narcotic drugs, or any salts thereof:
+(d) Unless specifically excepted or unless listed in another schedule, any material, compound, mixture, or preparation containing limited quantities of any of the following narcotic drugs, or any salts thereof:
 
 &emsp;(1) Not more than 1.8 grams of codeine per 100 milliliters or not more than 90 milligrams per dosage unit, with an equal or greater quantity of an isoquinoline alkaloid of opium.
 
@@ -338,7 +338,7 @@ Schedule III
 
 &emsp;(5) Not more than 1.8 grams of dihydrocodeine per 100 milliliters or not more than 90 milligrams per dosage unit, with one or more active, nonnarcotic ingredients in recognized therapeutic amounts.
 
-&emsp;(6) Not more than 300 milligrams of ethylmorphine per 100 milliliters or not more than 15 milligrams per dosage unit, with one or more active, nonnarcotic ingredients in recognized therapeutic amounts.
+&emsp;(6) Not more than 300 milligrams of ethylmorphine per 100 milliliters or not more than15 milligrams per dosage unit, with one or more active, nonnarcotic ingredients in recognized therapeutic amounts.
 
 &emsp;(7) Not more than 500 milligrams of opium per 100 milliliters or per 100 grams, or not more than 25 milligrams per dosage unit, with one or more active, nonnarcotic ingredients in recognized therapeutic amounts.
 
@@ -408,6 +408,44 @@ Amendment by Pub. L. 101–647 effective 90 days after Nov. 29, 1990, see sectio
 
 Amendment by Pub. L. 95–633 effective on date the Convention on Psychotropic Substances enters into force in the United States \[July 15, 1980\], see section 112 of Pub. L. 95–633, set out as an Effective Date note under section 801a of this title.
 
+#### Congressional Finding; Emergency Scheduling of GHB in Controlled Substances Act
+
+Pub. L. 106–172, §§2, 3(a), Feb. 18, 2000, 114 Stat. 7, 8, provided that:
+
+#### “SEC. 2. FINDINGS.
+
+“Congress finds as follows:
+
+&emsp;“(1) Gamma hydroxybutyric acid (also called G, Liquid X, Liquid Ecstasy, Grievous Bodily Harm, Georgia Home Boy, Scoop) has become a significant and growing problem in law enforcement. At least 20 States have scheduled such drug in their drug laws and law enforcement officials have been experiencing an increased presence of the drug in driving under the influence, sexual assault, and overdose cases especially at night clubs and parties.
+
+&emsp;“(2) A behavioral depressant and a hypnotic, gamma hydroxybutyric acid (‘GHB’) is being used in conjunction with alcohol and other drugs with detrimental effects in an increasing number of cases. It is difficult to isolate the impact of such drug's ingestion since it is so typically taken with an ever-changing array of other drugs and especially alcohol which potentiates its impact.
+
+&emsp;“(3) GHB takes the same path as alcohol, processes via alcohol dehydrogenase, and its symptoms at high levels of intake and as impact builds are comparable to alcohol ingestion/intoxication. Thus, aggression and violence can be expected in some individuals who use such drug.
+
+&emsp;“(4) If taken for human consumption, common industrial chemicals such as gamma butyrolactone and 1.4-butanediol are swiftly converted by the body into GHB. Illicit use of these and other GHB analogues and precursor chemicals is a significant and growing law enforcement problem.
+
+&emsp;“(5) A human pharmaceutical formulation of gamma hydroxybutyric acid is being developed as a treatment for cataplexy, a serious and debilitating disease. Cataplexy, which causes sudden and total loss of muscle control, affects about 65 percent of the estimated 180,000 Americans with narcolepsy, a sleep disorder. People with cataplexy often are unable to work, drive a car, hold their children or live a normal life.
+
+&emsp;“(6) Abuse of illicit GHB is an imminent hazard to public safety that requires immediate regulatory action under the Controlled Substances Act (21 U.S.C. 801 et seq.).
+
+#### “SEC. 3. EMERGENCY SCHEDULING OF GAMMA HYDROXYBUTYRIC ACID AND LISTING OF GAMMA BUTYROLACTONE AS LIST I CHEMICAL.
+
+“(a)
+
+Emergency Scheduling of GHB.—
+
+&emsp;“(1)
+
+In general.—The Congress finds that the abuse of illicit gamma hydroxybutyric acid is an imminent hazard to the public safety. Accordingly, the Attorney General, notwithstanding sections 201(a), 201(b), 201(c), and 202 of the Controlled Substances Act \[21 U.S.C. 811(a)–(c), 812\], shall issue, not later than 60 days after the date of the enactment of this Act \[Feb. 18, 2000\], a final order that schedules such drug (together with its salts, isomers, and salts of isomers) in the same schedule under section 202(c) of the Controlled Substances Act as would apply to a scheduling of a substance by the Attorney General under section 201(h)(1) of such Act (relating to imminent hazards to the public safety), except as follows:
+
+&emsp;&emsp;“(A) For purposes of any requirements that relate to the physical security of registered manufacturers and registered distributors, the final order shall treat such drug, when the drug is manufactured, distributed, or possessed in accordance with an exemption under section 505(i) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355(i)\] (whether the exemption involved is authorized before, on, or after the date of the enactment of this Act \[Feb. 18, 2000\]), as being in the same schedule as that recommended by the Secretary of Health and Human Services for the drug when the drug is the subject of an authorized investigational new drug application (relating to such section 505(i)). The recommendation referred to in the preceding sentence is contained in the first paragraph of the letter transmitted on May 19, 1999, by such Secretary (acting through the Assistant Secretary for Health) to the Attorney General (acting through the Deputy Administrator of the Drug Enforcement Administration), which letter was in response to the letter transmitted by the Attorney General (acting through such Deputy Administrator) on September 16, 1997. In publishing the final order in the Federal Register, the Attorney General shall publish a copy of the letter that was transmitted by the Secretary of Health and Human Services.
+
+&emsp;&emsp;“(B) In the case of gamma hydroxybutyric acid that is contained in a drug product for which an application is approved under section 505 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355\] (whether the application involved is approved before, on, or after the date of the enactment of this Act \[Feb. 18, 2000\]), the final order shall schedule such drug in the same schedule as that recommended by the Secretary of Health and Human Services for authorized formulations of the drug. The recommendation referred to in the preceding sentence is contained in the last sentence of the fourth paragraph of the letter referred to in subparagraph (A) with respect to May 19, 1999.
+
+&emsp;“(2)
+
+Failure to issue order.—If the final order is not issued within the period specified in paragraph (1), gamma hydroxybutyric acid (together with its salts, isomers, and salts of isomers) is deemed to be scheduled under section 202(c) of the Controlled Substances Act \[21 U.S.C. 812(c)\] in accordance with the policies described in paragraph (1), as if the Attorney General had issued a final order in accordance with such paragraph.”
+
 #### Placement of Pipradrol and SPA in Schedule IV To Carry Out Obligation Under Convention on Psychotropic Substances
 
 Section 102(c) of Pub. L. 95–633 provided that: “For the purpose of carrying out the minimum United States obligations under paragraph 7 of article 2 of the Convention on Psychotropic Substances, signed at Vienna, Austria, on February 21, 1971, with respect to pipradrol and SPA (also known as (-)-1-dimethylamino-1,2-diphenylethane), the Attorney General shall by order, made without regard to sections 201 and 202 of the Controlled Substances Act \[this section and section 811 of this title\], place such drugs in schedule IV of such Act \[see subsec. (c) of this section\].”
@@ -416,7 +454,7 @@ Provision of section 102(c) of Pub. L. 95–633, set out above, effective on the
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 811, 1115, 1523, 1703 of this title; title 10 section 912a; title 19 section 2484; title 20 section 1415; title 29 sections 705, 2006; title 41 section 706; title 42 sections 12111, 12210.
+This section is referred to in sections 384, 811, 1115, 1523, 1703 of this title; title 10 section 912a; title 19 section 2484; title 20 section 1415; title 29 sections 705, 2006; title 41 section 706; title 42 sections 12111, 12210.
 
 <i><sup>1</sup></i><i> Revised schedules are published in the Code of Federal Regulations, Part 1308 of Title 21, Food and Drugs.</i>
 

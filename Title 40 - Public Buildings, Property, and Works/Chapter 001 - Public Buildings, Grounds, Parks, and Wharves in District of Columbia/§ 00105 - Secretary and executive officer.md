@@ -8,7 +8,3 @@ The officer in charge of public buildings and grounds shall be the secretary and
 
 Section is based on Sundry Civil Appropriation Act June 25, 1910, fiscal year 1910.
 
-#### Cross References
-
-Supervision of public buildings and grounds in the District of Columbia not otherwise provided by law, see section 19 of this title and note thereunder.
-

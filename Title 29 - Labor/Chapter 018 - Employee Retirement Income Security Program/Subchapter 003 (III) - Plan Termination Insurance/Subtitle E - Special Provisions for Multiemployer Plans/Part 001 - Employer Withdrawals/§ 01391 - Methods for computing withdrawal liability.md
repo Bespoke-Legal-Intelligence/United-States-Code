@@ -166,7 +166,7 @@ The amount of the unfunded vested benefits allocable to an employer that withdra
 
 &emsp;&emsp;(I) the value of all nonforfeitable benefits under the plan at the end of such plan year, reduced by
 
-&emsp;&emsp;(II) the value of nonforfeitable benefits under the plan at the end of such plan yearwhich are attributable to participants’ service with employers who have an obligation to contribute under the plan for such plan year; reduced by
+&emsp;&emsp;(II) the value of nonforfeitable benefits under the plan at the end of such plan year which are attributable to participants’ service with employers who have an obligation to contribute under the plan for such plan year; reduced by
 
 &emsp;(ii) an amount equal to—
 
@@ -214,7 +214,7 @@ Subsec. (c)(2). Pub. L. 98–369, §558(b)(1)(A), (B), substituted “September 
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision ofthe Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
+Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 
 #### Section Referred to in Other Sections
 

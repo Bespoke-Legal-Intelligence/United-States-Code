@@ -1,9 +1,5 @@
 ### SUBCHAPTER I—JOB TRAINING AND EMPLOYMENT ASSISTANCE SYSTEM
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 1634 of this title.
-
 
 ---
 

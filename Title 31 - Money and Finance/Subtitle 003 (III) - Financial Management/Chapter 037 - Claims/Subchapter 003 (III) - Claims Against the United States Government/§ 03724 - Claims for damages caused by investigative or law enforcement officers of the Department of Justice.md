@@ -60,3 +60,19 @@ Section 2 of Pub. L. 101–203 provided that: “The amendments made by section 
 
 &emsp;“(3) any claim arising before such date which has not been settled if the time for presenting the claim to the Attorney General under the last sentence of section 3724(a) of title 31, United States Code, has not expired.”
 
+#### Settlement of Claims for Damage to or Loss of Privately Owned Property
+
+Pub. L. 106–185, §3(b), Apr. 25, 2000, 114 Stat. 211, provided that:
+
+“(1)
+
+In general.—With respect to a claim that cannot be settled under chapter 171 of title 28, United States Code, the Attorney General may settle, for not more than $50,000 in any case, a claim for damage to, or loss of, privately owned property caused by an investigative or law enforcement officer (as defined in section 2680(h) of title 28, United States Code) who is employed by the Department of Justice acting within the scope of his or her employment.
+
+“(2)
+
+Limitations.—The Attorney General may not pay a claim under paragraph (1) that—
+
+&emsp;“(A) is presented to the Attorney General more than 1 year after it accrues; or
+
+&emsp;“(B) is presented by an officer or employee of the Federal Government and arose within the scope of employment.”
+

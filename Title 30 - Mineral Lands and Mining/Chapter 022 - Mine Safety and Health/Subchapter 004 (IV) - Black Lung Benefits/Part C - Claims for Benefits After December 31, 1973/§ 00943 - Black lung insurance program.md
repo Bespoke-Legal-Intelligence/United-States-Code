@@ -62,9 +62,7 @@ The Secretary may undertake and carry out such studies and investigations, and r
 
 (3) If, after all outstanding current obligations of the insurance fund have been liquidated and any outstanding amounts which may have been advanced to the insurance fund from appropriations authorized under subsection (i) of this section have been credited to the appropriation from which advanced, the Secretary determines that the moneys of the insurance fund are in excess of current needs, he or she may request the investment of such amounts as he or she deems advisable by the Secretary of the Treasury in public debt securities with maturities suitable for the needs of the insurance fund and bearing interest at prevailing market rates.
 
-#### (h) Annual report to Congress
-
-The Secretary shall report to the Congress not later than the first day of April of each year on the financial condition of the insurance fund and the results of the operations of the insurance fund during the preceding fiscal year and on its expected condition and operations during the fiscal year in which the report is made.
+#### (h) Omitted
 
 #### (i) Authorization of appropriations
 
@@ -75,6 +73,10 @@ There are authorized to be appropriated to the insurance fund, as repayable adva
 #### References in Text
 
 Section 934a of this title, referred to in subsec. (i), was repealed by Pub. L. 97–119, title I, §103(b), Dec. 29, 1981, 95 Stat. 1638. See section 9501(c) of Title 26, Internal Revenue Code.
+
+#### Codification
+
+Subsec. (h) of this section, which required the Secretary to report to Congress not later than April 1 of each year on the financial condition and operation of the insurance fund, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 124 of House Document No. 103–7.
 
 #### Effective Date
 

@@ -36,11 +36,3 @@ Amendment by Pub. L. 102–232 effective 30 days after Dec. 12, 1991, see sectio
 
 Amendment by Pub. L. 101–649 not applicable to functions and duties respecting petitions filed before Oct. 1, 1991, see section 408(c) of Pub. L. 101–649, set out as a note under section 1421 of this title.
 
-#### Cross References
-
-Definition of the term—
-
-&emsp;&emsp;Attorney General, see section 1101(a)(5) of this title.
-
-&emsp;&emsp;Naturalization, see section 1101(a)(23) of this title.
-

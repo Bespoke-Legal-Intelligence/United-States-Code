@@ -14,7 +14,7 @@ Subject to the limitations hereinafter provided, the Secretary of the Treasury i
 
 Payments made pursuant to this subchapter shall be made only to the person or persons on behalf of whom the award is made, except that—
 
-&emsp;(1) if any person to whom any payment is to be made pursuant to this subchapter is deceased or is under a legal disability, payment shall be made to his legal representative, except that if any payment to be made is not over $1,000 and there is no qualified executor or administrator, payment may be made to the person or persons found by the Secretary of the Treasury to be entitled thereto, withoutthe necessity of compliance with the requirements of law with respect to the administration of estates;
+&emsp;(1) if any person to whom any payment is to be made pursuant to this subchapter is deceased or is under a legal disability, payment shall be made to his legal representative, except that if any payment to be made is not over $1,000 and there is no qualified executor or administrator, payment may be made to the person or persons found by the Secretary of the Treasury to be entitled thereto, without the necessity of compliance with the requirements of law with respect to the administration of estates;
 
 &emsp;(2) in the case of a partnership or corporation, the existence of which has been terminated and on behalf of which an award is made, payment shall be made, except as provided in paragraphs (3) and (4) of this subsection, to the person or persons found by the Secretary of the Treasury to be entitled thereto;
 
@@ -40,7 +40,7 @@ Nothing in this subchapter shall be construed as the assumption of any liability
 
 #### References to This Subchapter Deemed To Include Section 119 of H.R. 2076
 
-References to this subchapter deemed to include section 119 of H.R. 2076, see section 119(b) of H.R. 2076, as enacted into law by Pub. L. 104–91, set out as an Authority of Foreign Claims Settlement Commission note under section 1644 of this title.
+References to this subchapter deemed to include section 119 of H.R. 2076, see section 119(b) of H.R. 2076, asenacted into law by Pub. L. 104–91, set out as an Authority of Foreign Claims Settlement Commission note under section 1644 of this title.
 
 #### Amendments
 
@@ -63,18 +63,6 @@ Act Aug. 9, 1955, §2, substituted “subchapter” for “chapter”.
 International Claims Commission of the United States, including offices of its members, abolished and functions of Commission and of members, officers, and employees thereof transferred to Foreign Claims Settlement Commission of the United States by Reorg. Plan No. 1, of 1954, §§1, 2, 4, eff. July 1, 1954, 19 F.R. 3985, 68 Stat. 1279, set out as a note under section 1622 of this title.
 
 For provisions transferring Foreign Claims Settlement Commission of the United States as a separate agency within the Department of Justice, see section 1622a et seq. of this title.
-
-#### Cross References
-
-Claims against Bulgaria, Hungary, Rumania, Italy, and the Soviet Union, subsecs. (c) to (f) of section as applicable, see section 1641q of this title.
-
-Claims against Cuba and China, subsec. (f) as applicable, see section 1643h of this title.
-
-Claims against Czechoslovakia, subsecs. (c) to (f) of section as applicable, see section 1642<i>o</i> of this title.
-
-Claims against German Democratic Republic, subsecs. (c) to (f) of section as applicable, see section 1644m of this title.
-
-Claims against Vietnam, subsecs. (c) to (f) of section as applicable, see section 1645n of this title.
 
 #### Section Referred to in Other Sections
 

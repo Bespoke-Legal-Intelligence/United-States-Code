@@ -26,7 +26,7 @@
 
 &emsp;(2) The term “remuneration” means the receipt of any amount of monetary benefit from any non-Department source in payment for carrying out any professional responsibilities.
 
-(e)(1) The Secretary shall establish a leave transfer program for the benefit of health-care professionals in positions listed in section 7401(1) of this title. The Secretary may also establish a leave bank program for the benefit of such health-care professionals.
+(e)(1) The Secretary shall establish a leave transfer program for the benefit of health-care professionals in positions listed in section 7401(1) of this title. The Secretary may also establish aleave bank program for the benefit of such health-care professionals.
 
 (2) To the maximum extent feasible—
 
@@ -52,7 +52,7 @@ The Social Security Act, referred to in subsec. (b)(2), is act Aug. 14, 1935, ch
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in section 4108(a), (c), and (e) of this title priorto the repeal of that section as part of the complete revision of chapter 73 of this title by Pub. L. 102–40.
+Provisions similar to those in this section were contained in section 4108(a), (c), and (e) of this title prior to the repeal of that section as part of the complete revision of chapter 73 of this title by Pub. L. 102–40.
 
 #### Amendments
 

@@ -44,5 +44,5 @@ Except to the extent provided in this subchapter, the provisions of subchapter I
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1381, 1382 of this title.
+This section is referred to in sections 1301, 1381, 1382 of this title.
 

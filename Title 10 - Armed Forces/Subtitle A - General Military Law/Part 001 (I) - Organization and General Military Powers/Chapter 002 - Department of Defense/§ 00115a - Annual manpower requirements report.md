@@ -72,7 +72,7 @@
 
 &emsp;&emsp;(B) the number applicable to high-priority units and organizations (as specified in section 10216(a) of this title).
 
-(Added Pub. L. 101–510, div. A, title XIV, §1483(a), Nov. 5, 1990, 104 Stat. 1711; amended Pub. L. 102–190, div. A, title X, §1061(a)(1), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 104–106, div. A, title V, §513(e), title X, §1061(d), Feb. 10, 1996, 110 Stat. 307, 442; Pub. L. 105–85, div. A, title V, §522(i)(2), Nov. 18, 1997, 111 Stat. 1736; Pub. L. 105–261, div. A, title IV, §403, Oct. 17, 1998, 112 Stat. 1996.)
+(Added Pub. L. 101–510, div. A, title XIV, §1483(a), Nov. 5, 1990, 104 Stat. 1711; amendedPub. L. 102–190, div. A, title X, §1061(a)(1), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 104–106, div. A, title V, §513(e), title X, §1061(d), Feb. 10, 1996, 110 Stat. 307, 442; Pub. L. 105–85, div. A, title V, §522(i)(2), Nov. 18, 1997, 111 Stat. 1736; Pub. L. 105–261, div. A, title IV, §403, Oct. 17, 1998, 112 Stat. 1996.)
 
 #### Prior Provisions
 
@@ -130,7 +130,7 @@ Subsec. (h). Pub. L. 104–106, §513(e), added subsec. (h).
 
 #### Assessment of Structure and Mix of Active and Reserve Forces
 
-Section 402 of Pub. L. 102–190, as amended by Pub. L. 102–484, div. A, title V, §513(b), Oct. 23, 1992, 106 Stat. 2406, required Secretary of Defense to submit to Congress a report containing an assessment of alternatives relating to structure and mix of active and reserveforces appropriate for carrying out assigned missions in mid- to late-1990s and an evaluation and recommendations of Secretary and Chairman of Joint Chiefs of Staff as to mix or mixes of reserve and active forces considered acceptable to carry out expected future missions, and further provided for matters to be included in report and evaluation, commencement of assessment, submission of interim and final reports, and funding for assessment.
+Section 402 of Pub. L. 102–190, as amended by Pub. L. 102–484, div. A, title V, §513(b), Oct. 23, 1992, 106 Stat. 2406, required Secretary of Defense to submit to Congress a report containing an assessment of alternatives relating to structure and mix of active and reserve forces appropriate for carrying out assigned missions in mid- to late-1990s and an evaluation and recommendations of Secretary and Chairman of Joint Chiefs of Staff as to mix or mixes of reserve and active forces considered acceptable to carry out expected future missions, and further provided for matters to be included in report and evaluation, commencement of assessment, submission of interim and final reports, and funding for assessment.
 
 #### Section Referred to in Other Sections
 

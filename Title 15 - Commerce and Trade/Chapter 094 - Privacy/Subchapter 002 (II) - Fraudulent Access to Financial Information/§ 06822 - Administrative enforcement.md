@@ -24,7 +24,7 @@ Except as provided in subsection (b) of this section, compliance with this subch
 
 #### (2) Violations of this subchapter treated as violations of other laws
 
-&emsp;For the purpose of the exercise by any agency referred to in paragraph (1) of its powers under any Act referred to in that paragraph, a violation of this subchapter shall be deemed to be a violation of a requirement imposed under that Act. In addition to its powers under any provision of law specifically referred to in paragraph (1), each of the agencies referred to in that paragraph may exercise, for the purpose of enforcing compliance with this subchapter, any other authority conferred on such agency by law.
+&emsp;For the purpose of the exercise by any agency referred to in paragraph (1) of its powers under any Act referred to in that paragraph, a violation of this subchapter shall be deemed to be a violation of a requirement imposed under that Act. In addition to its powers under anyprovision of law specifically referred to in paragraph (1), each of the agencies referred to in that paragraph may exercise, for the purpose of enforcing compliance with this subchapter, any other authority conferred on such agency by law.
 
 (Pub. L. 106–102, title V, §522, Nov. 12, 1999, 113 Stat. 1447.)
 

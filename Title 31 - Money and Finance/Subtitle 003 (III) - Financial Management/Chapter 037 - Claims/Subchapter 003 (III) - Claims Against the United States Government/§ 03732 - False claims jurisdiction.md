@@ -16,5 +16,5 @@ The Federal Rules of Civil Procedure, referred to in subsec. (a), are set out in
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 3733 of this title; title 15 section 657a; title 20 section 1078–9; title 42 section 1395i.
+This section is referred to in section 3733 of this title; title 15 sections 637, 657a; title 20 section 1078–9; title 42 section 1395i.
 

@@ -16,10 +16,6 @@ For the first paragraph of the Resolution of June 11, 1906, see section 48 of th
 
 “Sierra National Forest” substituted in text for “Sierra Forest Reserve” on authority of act Mar. 4, 1907, ch. 2907, 34 Stat. 1269, which provided that forest reserves shall hereafter be known as national forests.
 
-#### Cross References
-
-Permit or authorization for transmission lines, etc., within limits of national parks, see, also, section 797 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 49 of this title.

@@ -10,7 +10,7 @@ This Act, referred to in text, means Pub. L. 91–383, Aug. 18, 1970, 84 Stat. 8
 
 #### Amendments
 
-1978—Pub. L. 95–250 provided that the promotion and regulation of the various areas of the National Park System, as defined in section 1c of this title, be consistent with and founded in the purpose established by section 1 of this title, to the common benefit of all the people of the United States, and that the authorization of activities be construed and the protection, management, and administration of these areas be conductedin light of the high public value and integrity of the National Park System and not be exercised in derogation of the values and purposes for which these various areas have been established, except as may have been or shall be directly and specifically provided by Congress.
+1978—Pub. L. 95–250 provided that the promotion and regulation of the various areas of the National ParkSystem, as defined in section 1c of this title, be consistent with and founded in the purpose established by section 1 of this title, to the common benefit of all the people of the United States, and that the authorization of activities be construed and the protection, management, and administration of these areas be conducted in light of the high public value and integrity of the National Park System and not be exercised in derogation of the values and purposes for which these various areas have been established, except as may have been or shall be directly and specifically provided by Congress.
 
 #### Short Title
 
@@ -42,7 +42,7 @@ Pub. L. 102–381, title I, Oct. 5, 1992, 106 Stat. 1384, provided in part: “T
 
 #### Study To Determine Appropriate Minimum Altitude for Aircraft Flying Over National Park System Units
 
-Pub. L. 100–91, Aug. 18, 1987, 101 Stat. 674, provided that:
+Pub. L. 100–91, Aug. 18, 1987, 101 Stat. 674, as amended by Pub. L. 106–510, §3(a)(2), (b)(2), Nov. 13, 2000, 114 Stat. 2363, provided that:
 
 #### “SECTION 1. STUDY OF PARK OVERFLIGHTS.
 
@@ -56,7 +56,7 @@ General Requirements of Study.—The study shall identify any problems associate
 
 “(c)
 
-Specific Requirements.—The study under this section shall include research at the following units of the National Park System: Cumberland Island National Seashore, Yosemite National Park, Hawaii Volcanoes National Park, Haleakala National Park, Glacier National Park, and Mount Rushmore National Memorial, and at no less than four additional units of the National Park System, excluding all National Park System units in the State of Alaska. The research at each such unit shall provide information and an evaluation regarding each of the following:
+Specific Requirements.—The study under this section shall include research at the following units of the National Park System: Cumberland Island National Seashore, Yosemite National Park, Hawai‘i Volcanoes National Park, Haleakala�AE8 National Park, Glacier National Park, and Mount Rushmore National Memorial, and at no less than four additional units of the National Park System, excluding all National Park System units in the State of Alaska. The research at each such unit shall provide information and an evaluation regarding each of the following:
 
 &emsp;“(1) the impacts of aircraft noise on the safety of the park system users, including hikers, rock-climbers, and boaters;
 
@@ -74,13 +74,13 @@ Report to Congress.—The Secretary shall submit a report to the Congress within
 
 “(e)
 
-FAA Review of Rules.—The Administrator shall review current rules and regulations pertaining to flights of aircraft over units of the National Park System at which research is conducted under subsection (c) and over any other such units at which such a review is determined necessary by the Administrator or is requested by the Secretary. In the review under this subsection, the Administrator shall determine whether changes are needed in such rules and regulations on the basis of aviation safety. Not later than 180 days after the identification of the units of the National Park System for which research is to be conducted under subsection (c), the Administrator shall submit a report to Congress containing the results of the review along with recommendations for legislative and regulatory action which are needed to implement any such changes.
+FAA Review of Rules.—The Administrator shall review current rules and regulations pertaining to flights of aircraft over units of the National Park System at which research is conducted under subsection (c) and over any other such units at which such a review is determined necessary by the Administrator or is requested by the Secretary. In the review under this subsection, the Administrator shall determine whether changes are needed in such rules and regulations on the basis of aviation safety. Not later than 180 days after the identification of the units of the National Park System for which research is to be conducted undersubsection (c), the Administrator shall submit a report to Congress containing the results of the review along with recommendations for legislative and regulatory action which are needed to implement any such changes.
 
 “(f)
 
 Authorization.—There are authorized to be appropriated such sums as may be necessary to carry out the studies and review under this section.
 
-#### “SEC. 2. FLIGHTS OVER YOSEMITE AND HALEAKALA DURING STUDY AND REVIEW.
+#### “SEC. 2. FLIGHTS OVER YOSEMITE AND HALEAKALA�AE8 DURING STUDY AND REVIEW.
 
 “(a)
 
@@ -88,7 +88,7 @@ Yosemite National Park.—During the study and review periods provided in subsec
 
 “(b)
 
-Haleakala National Park.—During the study and review periods provided in subsection (c), it shall be unlawful for any fixed wing aircraft or helicopter flying under visual flight rules to fly at an altitude below 9,500 feet above mean sea level over the surface of any of the following areas in Haleakala National Park: Haleakala Crater, Crater Cabins, the Scientific Research Reserve, Halemauu Trail, Kaupo Gap Trail, or any designated tourist viewpoint.
+Haleakala�AE8 National Park.—During the study and review periods provided in subsection (c), it shall be unlawful for any fixed wing aircraft or helicopter flying under visual flight rules to fly at an altitude below 9,500 feet above mean sea level over the surface of any of the following areas in Haleakala�AE8 National Park: Haleakala Crater, Crater Cabins, the Scientific Research Reserve, Halemauu Trail, Kaupo Gap Trail, or any designated tourist viewpoint.
 
 “(c)
 

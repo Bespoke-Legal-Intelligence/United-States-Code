@@ -10,10 +10,6 @@ Commencing July 1, 1936, the proceeds for each fiscal year derived by the Board 
 
 1935—Act Aug. 31, 1935, amended section generally.
 
-#### Cross References
-
-Consideration of budget programs, this section as not affected, see section 9104 of Title 31, Money and Finance.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 831n–4 of this title; title 31 section 9104.

@@ -16,10 +16,6 @@
 
 1964—Pub. L. 88–647, title III, §301(27), Oct. 13, 1964, 78 Stat. 1073, struck out chapter 905.
 
-#### Cross References
-
-Training, general military law provisions, see section 2001 et seq. of this title.
-
 
 ---
 

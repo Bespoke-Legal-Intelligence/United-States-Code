@@ -18,12 +18,6 @@ Section effective upon expiration of sixty days after Aug. 24, 1935, but not app
 
 Rights of laborers and material men under contracts entered into before Aug. 4, 1959, unaffected, see section 3 of Pub. L. 86–135, set out as a note under section 270b of this title.
 
-#### Federal Rules of Civil Procedure
-
-Proof of official records, see rule 44, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-Effect of rule 44 on this section, see note by Advisory Committee under that rule.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 270b, 270d, 270d–1, 270e, 270f of this title; title 10 section 2701; title 15 section 636; title 25 sections 47a, 1656; title 31 section 9303; title 39 section 410; title 42 sections 9619, 11707.

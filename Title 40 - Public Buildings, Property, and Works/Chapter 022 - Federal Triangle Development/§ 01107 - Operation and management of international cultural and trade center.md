@@ -4,7 +4,7 @@
 
 #### (1) Agreement
 
-&emsp;The Administrator and the Commission shall enter into an agreement for the Commission to lease from the Administrator not to exceed 500,000 square feet of occupiable spacein the building to be constructed under section 1104 of this title to serve as an international cultural and trade center.
+&emsp;The Administrator and the Commission shall enter into an agreement for the Commission to lease from the Administrator not to exceed 500,000 square feet of occupiable space in the building to be constructed under section 1104 of this title to serve as an international cultural and trade center.
 
 #### (2) Size
 
@@ -48,7 +48,7 @@
 
 #### (B) Terms and conditions
 
-&emsp;&emsp;An agreement entered into under this subsection shall be subject to such terms and conditions as the Commission determines are appropriate to carry out the objectives of this chapter. The rental rate per square foot of occupiable space for space subleased under this subsection shall be determined in accordance with subsection (c) of this section; except that the Commission may adjust such rate with respect to any space subleased to a foreign mission in accordance with the recommendations of the Secretary of State acting in accordance with section 204(b) of the State Department Basic Authorities Act of 1956 (22 U.S.C. 4304(b)). The Secretary of State may reimburse the Commission for any expenses which are incurred by the Commission as a result of making adjustments in the rental rate for space under this subparagraph.
+&emsp;&emsp;An agreement entered into under this subsection shall be subject to such terms and conditions as the Commission determines are appropriate to carry out the objectives of this chapter. The rental rate per square foot of occupiable space for space subleased under this subsection shall be determined in accordance with subsection (c) of this section; except that the Commission may adjust such rate with respect to any space subleased to a foreign mission in accordancewith the recommendations of the Secretary of State acting in accordance with section 204(b) of the State Department Basic Authorities Act of 1956 (22 U.S.C. 4304(b)). The Secretary of State may reimburse the Commission for any expenses which are incurred by the Commission as a result of making adjustments in the rental rate for space under this subparagraph.
 
 #### (4) Reference facility and cultural events
 
@@ -106,21 +106,15 @@
 
 &emsp;Periodically, but not less often than once per fiscal year, funds which the Commission determines are in excess of those needed to make the payments described in paragraph (4) shall be transferred by the Commission from the account established under this subsection to the fund established under section 210(f) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 490(f)).
 
-#### (h) <sup>2</sup> Annual report and budget
-
-The Commission shall prepare and transmit to the Committee on Environment and Public Works of the Senate and the Committee on Public Works and Transportation of the House of Representatives (1) an annual report in January of each calendar year on the operation and management of the space leased by the Commission under subsection (a) of this section and the international cultural and trade center, and (2) a budget for such fiscal year for operation, maintenance, and alteration of such center, including amounts received and projected to be received by the Commission in such fiscal year and expenses incurred and projected to be incurred by the Commission in such fiscal year.
-
 (Pub. L. 100–113, §8, Aug. 21, 1987, 101 Stat. 744.)
 
-#### Change of Name
+#### Codification
 
-Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Subsec. (h) of this section, which required the International Cultural and Trade Center Commission to prepare and transmit to certain committees of Congress an annual report and budget related to the international cultural and trade center, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 175 of House Document No. 103–7.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1103, 1105, 1106 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
-
-<i><sup>2</sup></i><i> So in original. There are no subsecs. (e), (f), and (g).</i>
 

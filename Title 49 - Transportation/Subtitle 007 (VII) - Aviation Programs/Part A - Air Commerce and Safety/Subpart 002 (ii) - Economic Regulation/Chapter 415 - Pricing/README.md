@@ -24,6 +24,8 @@
 
 This chapter is referred to in sections 40109, 46301 of this title.
 
+<i><sup>1</sup></i><i> So in original. The words “the foreign air carrier” probably should not appear.</i>
+
 
 ---
 

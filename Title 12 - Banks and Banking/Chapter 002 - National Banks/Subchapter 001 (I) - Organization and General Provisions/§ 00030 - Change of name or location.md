@@ -40,7 +40,3 @@ In the case of a national bank which relocates the main office of such bank from
 
 Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
 
-#### Cross References
-
-Conversion of national banks into State banks, see sections 214 to 214c of this title.
-

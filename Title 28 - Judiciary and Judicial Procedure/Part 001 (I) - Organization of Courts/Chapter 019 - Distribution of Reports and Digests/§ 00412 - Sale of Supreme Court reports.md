@@ -16,11 +16,7 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1952—Act July 10, 1952, permitted Superintendent of Documents to sell reports under same terms as other Government publications.
-
-#### Cross References
-
-Prices for bound volumes of its decisions, printed by a private printer, to be fixed by Supreme Court or Chief Justice, see section 676 of this title.
+<b>1952</b>—Act July 10, 1952, permitted Superintendent of Documents to sell reports under same terms as other Government publications.
 
 #### Section Referred to in Other Sections
 

@@ -1,5 +1,9 @@
 Part C—Projects for Assistance in Transition From Homelessness
 
+#### Part Referred to in Other Sections
+
+This part is referred to in sections 290aa, 290bb–31 of this title.
+
 
 ---
 

@@ -28,7 +28,3 @@ Oct. 15, 1966, Pub. L. 89–670, §6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub. L.
 
 In this section, the word “Administrator” in section 314(a) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 754) is retained on authority of 49:106(g). The words “services performed under a delegation to the person under section 44702(d) of this title” are substituted for “their services” because of the restatement.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 106 of this title.
-

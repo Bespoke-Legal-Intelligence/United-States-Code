@@ -20,9 +20,3 @@ June 10, 1921, ch. 18, §208(a)(related to employees), 42 Stat. 22; Reorg. Plan 
 
 The words “attorneys and other” are omitted as being included in “employees”.
 
-#### Cross References
-
-Appointments generally, see sections 3101 et seq., and 3301 et seq., of Title 5, Government Organization and Employees.
-
-Classification and pay rates generally, see sections 5101 et seq., and 5331 et seq., of Title 5.
-

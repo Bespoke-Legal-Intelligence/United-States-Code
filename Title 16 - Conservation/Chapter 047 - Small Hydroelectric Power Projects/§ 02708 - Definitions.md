@@ -24,7 +24,7 @@
 
 &emsp;(2) from any other provision of this chapter,
 
-> any project which utilizes or proposes to utilize natural water features for the generation ofelectricity, without the need for any dam or impoundment, in a manner which (as determined by the Commission) will achieve the purposes of this chapter and will do so without any adverse effect upon such natural water features.
+> any project which utilizes or proposes to utilize natural water features for the generation of electricity, without the need for any dam or impoundment, in a manner which (as determined by the Commission) will achieve the purposes of this chapter and will do so without any adverse effect upon such natural water features.
 
 (Pub. L. 95–617, title IV, §408, Nov. 9, 1978, 92 Stat. 3156; Pub. L. 96–294, title IV, §408(a), (c), June 30, 1980, 94 Stat. 718; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
 

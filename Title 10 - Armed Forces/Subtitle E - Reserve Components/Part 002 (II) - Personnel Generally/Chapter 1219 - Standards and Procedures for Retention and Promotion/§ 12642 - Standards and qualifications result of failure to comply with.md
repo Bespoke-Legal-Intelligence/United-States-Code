@@ -64,12 +64,6 @@ Subsec. (b). Pub. L. 103–337, §1675(d)(1)(B), substituted “12645” for “
 
 Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
 
-#### Cross References
-
-Adjutants general and assistant adjutants general, reference as applicable to other officers of National Guard, see section 10214 of this title.
-
-Grade of reserve commissioned officer on transfer to Retired Reserve, see sections 12771 and 12772 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 10214 of this title.

@@ -1,6 +1,6 @@
 ### §60d. Officers and employees paid by Chief Administrative Officer of House; payment of December salary
 
-The Chief Administrative Officer of the House of Representatives is authorized and directed to pay to the officers and employees of the House of Representatives, including the Capitol Police and Office of Legislative Counsel, and employees paid on vouchers under authority of resolutions, their respective salaries for the month of December on the 20th day of that month, each year, except when the 20th of the month falls on Sunday, in which case the said salaries shall be paid on the 19th of December.
+The Chief Administrative Officer of the House of Representatives is authorized and directed topay to the officers and employees of the House of Representatives, including the Capitol Police and Office of Legislative Counsel, and employees paid on vouchers under authority of resolutions, their respective salaries for the month of December on the 20th day of that month, each year, except when the 20th of the month falls on Sunday, in which case the said salaries shall be paid on the 19th of December.
 
 (May 21, 1937, ch. 236, §1, 50 Stat. 199; Pub. L. 86–426, §2(a), Apr. 20, 1960, 74 Stat. 53; Pub. L. 104–186, title II, §204(3), Aug. 20, 1996, 110 Stat. 1729.)
 

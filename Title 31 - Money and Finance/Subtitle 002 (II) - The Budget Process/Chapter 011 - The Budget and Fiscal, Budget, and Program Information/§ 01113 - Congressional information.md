@@ -130,6 +130,10 @@ June 10, 1921, ch. 18, 42 Stat. 20, §201(k)(2); added Sept. 8, 1982, Pub. L. 97
 
 1983—Subsec. (a). Pub. L. 97–452 redesignated existing provision as par. (1) and added par. (2).
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which certain reporting requirements under subsec. (e)(2)(A), (E), (3) of this section are listed on pages 9, 6, and 149, respectively), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set out as notes under section 1113 of this title.
+
 #### Oversight of Counterterrorism and Antiterrorism Activities; Report
 
 Pub. L. 105–85, div. A, title X, §1051, Nov. 18, 1997, 111 Stat. 1889, as amended by Pub. L. 105–261, div. A, title XIV, §1403, Oct. 17, 1998, 112 Stat. 2168, provided that:
@@ -138,7 +142,7 @@ Pub. L. 105–85, div. A, title X, §1051, Nov. 18, 1997, 111 Stat. 1889, as ame
 
 Oversight of Counterterrorism and Antiterrorism Activities.—Not later than 120 days after the date of the enactment of this Act \[Nov. 18, 1997\], the Director of the Office of Management and Budget shall—
 
-&emsp;“(1) establish a reporting system for executive agencies with respect to the budget and expenditureof funds by such agencies for the purpose of carrying out counterterrorism and antiterrorism programs and activities; and
+&emsp;“(1) establish a reporting system for executive agencies with respect to the budget and expenditure of funds by such agencies for the purpose of carrying out counterterrorism and antiterrorism programs and activities; and
 
 &emsp;“(2) using such reporting system, collect information on—
 
@@ -177,6 +181,346 @@ Annex on Domestic Emergency Preparedness Program.—As part of the annual report
 \[Memorandum of President of the United States, Mar. 5, 1998, 63 F.R. 12377, delegated to Director of the Office of Management and Budget reporting functions of President under section 1051(b) of Public Law 105–85 set out above.\]
 
 #### Termination of Reporting Requirements
+
+Pub. L. 106–569, title XI, §1102, Dec. 27, 2000, 114 Stat. 3029, provided that: “Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 \[Pub. L. 104–66\] (31 U.S.C. 1113 note) shall not apply to any report required to be submitted under any of the following provisions of law:
+
+&emsp;“(1) Section 3 of the Employment Act of 1946 (15 U.S.C. 1022).
+
+&emsp;“(2) Section 309 of the Defense Production Act of 1950 (50 U.S.C. App. 2099).
+
+&emsp;“(3) Section 603 of the Public Works and Economic Development Act of 1965 (42 U.S.C. 3213).
+
+&emsp;“(4) Section 7(<i>o</i>)(1) of the Department of Housing and Urban Development Act (42 U.S.C. 3535(<i>o</i>)(1)).
+
+&emsp;“(5) Section 540(c) of the National Housing Act (12 U.S.C. 1735f–18(c)).
+
+&emsp;“(6) Paragraphs (2) and (6) of section 808(e) of the Civil Rights Act of 1968 (42 U.S.C. 3608(e)\[(2), (6)\]).
+
+&emsp;“(7) Section 1061 of the Housing and Community Development Act of 1992 (42 U.S.C. 4856).
+
+&emsp;“(8) Section 203(v) \[now 203(w)\] of the National Housing Act (12 U.S.C. 1709(v) \[now 1709(w)\]), as added by section 504 of the Housing and Community Development Act of 1992 (Public Law 102–550; 106 Stat. 3780).
+
+&emsp;“(9) Section 802 of the Housing Act of 1954 (12 U.S.C. 1701<i>o</i>).
+
+&emsp;“(10) Section 8 of the Department of Housing and Urban Development Act (42 U.S.C. 3536).
+
+&emsp;“(11) Section 1320 of the National Flood Insurance Act of 1968 (42 U.S.C. 4027).
+
+&emsp;“(12) Section 4(e)(2) of the Department of Housing and Urban Development Act (42 U.S.C. 3533(e)(2)).
+
+&emsp;“(13) Section 205(g) of the National Housing Act (12 U.S.C. 1711(g)).
+
+&emsp;“(14) Section 701(c)(1) of the International Financial Institutions Act (22 U.S.C. 262d(c)(1)).
+
+&emsp;“(15) Paragraphs (1) and (2) of section 5302(c) of title 31, United States Code.
+
+&emsp;“(16) Section 18(f)(7) of the Federal Trade Commission Act (15 U.S.C. 57a(f)(7)).
+
+&emsp;“(17) Section 333 of the Revised Statutes of the United States (12 U.S.C. 14).
+
+&emsp;“(18) Section 3(g) of the Home Owners’ Loan Act (12 U.S.C. 1462a(g)).
+
+&emsp;“(19) Section 304 of the Appalachian Regional Development Act of 1965 (40 U.S.C. App. 304).
+
+&emsp;“(20) Sections 2(b)(1)(A), 8(a), 8(c) \[there is no 8(c)\], 10(g)(1), and 11(c) of the Export-Import Bank Act of 1945 (12 U.S.C. 635(b)(1)(A), 635g(a), 635g(c), 635i–3(g)\[1\], and 635i–5(c)).
+
+&emsp;“(21) Section 17(a) of the Federal Deposit Insurance Act (12 U.S.C. 1827(a)).
+
+&emsp;“(22) Section 13 of the Federal Financing Bank Act of 1973 (12 U.S.C. 2292).
+
+&emsp;“(23) Section 2B(d) of the Federal Home Loan Bank Act (12 U.S.C. 1422b(d)).
+
+&emsp;“(24) Section 1002(b) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 \[Pub. L. 101–73\] (12 U.S.C. 1811 note).
+
+&emsp;“(25) Section 8 of the Fair Credit and Charge Card Disclosure Act of 1988 \[Pub. L. 100–583\] (15 U.S.C. 1637 note).
+
+&emsp;“(26) Section 136(b)(4)(B) of the Truth in Lending Act (15 U.S.C. 1646(b)(4)(B)).
+
+&emsp;“(27) Section 707 of the Equal Credit Opportunity Act (15 U.S.C. 1691f).
+
+&emsp;“(28) Section 114 of the Truth in Lending Act (15 U.S.C. 1613).
+
+&emsp;“(29) The seventh undesignated paragraph of section 10 of the Federal Reserve Act (12 U.S.C. 247).
+
+&emsp;“(30) The tenth undesignated paragraph of section 10 of the Federal Reserve Act (12 U.S.C. 247a).
+
+&emsp;“(31) Section 815 of the Fair Debt Collection Practices Act (15 U.S.C. 1692m).
+
+&emsp;“(32) Section 102(d) of the Federal Credit Union Act (12 U.S.C. 1752a(d)).
+
+&emsp;“(33) Section 21B(i) of the Federal Home Loan Bank Act (12 U.S.C. 1441b(i)).
+
+&emsp;“(34) Section 607(a) of the Housing and Community Development Amendments of 1978 (42 U.S.C. 8106(a)).
+
+&emsp;“(35) Section 708(<i>l</i>) of the Defense Production Act of 1950 (50 U.S.C. App. 2158(<i>l</i>)).
+
+&emsp;“(36) Section 2546 of the Comprehensive Thrift and Bank Fraud Prosecution and Taxpayer Recovery Act of 1990 \[Pub. L. 101–647\] (28 U.S.C. 522 note).
+
+&emsp;“(37) Section 202(b)(8) of the National Housing Act (12 U.S.C. 1708(b)(8)).”
+
+Pub. L. 106–554, §1(a)(4) \[div. A, §1402\], Dec. 21, 2000, 114 Stat. 2763, 2763A–214, provided that: “Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 \[Pub. L. 104–66\] (31 U.S.C. 1113 note) does not apply to any report required to be submitted under any of the following provisions of law:
+
+&emsp;“(1) Sections 1105(a), 1106(a) and (b), and 1109(a) of title 31, United States Code, and any other law relating to the budget of the United States Government.
+
+&emsp;“(2) The Balanced Budget and Emergency Deficit Control Act of 1985 (2 U.S.C. 900 et seq.) \[see Short Title note set out under section 900 of Title 2, The Congress\].
+
+&emsp;“(3) Sections 202(e)(1) and (3) of the Congressional Budget Act of 1974 (2 U.S.C. 602(e)(1) and (3)).
+
+&emsp;“(4) Section 1014(e) of the Congressional Budget and Impoundment Control Act of 1974 (2 U.S.C. 685(e)).”
+
+Pub. L. 106–554, §1(a)(7) \[title III, §301\], Dec. 21, 2000, 114 Stat. 2763, 2763A–629, provided that: “Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 \[Pub. L. 104–66\] (31 U.S.C. 1113 note) shall not apply to any report required to be submitted under any of the following provisions of law:
+
+&emsp;“(1) Section 13031(f) of the Consolidated Omnibus Budget Reconciliation Act of 1985 (19 U.S.C. 58c(f)).
+
+&emsp;“(2) Section 16(c) of the Foreign Trade Zones Act (19 U.S.C. 81p(c)).
+
+&emsp;“(3) The following provisions of the Tariff Act of 1930:
+
+&emsp;&emsp;“(A) Section 330(c)(1) (19 U.S.C. 1330(c)(1)).
+
+&emsp;&emsp;“(B) Section 607(c) (19 U.S.C. 1607(c)).
+
+&emsp;“(4) Section 5 of the International Coffee Agreement Act of 1980 (\[former\] 19 U.S.C. 1356n).
+
+&emsp;“(5) Section 351(a)(2) of the Trade Expansion Act of 1962 (19 U.S.C. 1981(a)(2)).
+
+&emsp;“(6) Section 502 of the Automotive Products Trade Act of 1965 (19 U.S.C. 2032).
+
+&emsp;“(7) Section 3131 of the Customs Enforcement Act of 1986 (19 U.S.C. 2081).
+
+&emsp;“(8) The following provisions of the Trade Act of 1974 (19 U.S.C. 2101 et seq.):
+
+&emsp;&emsp;“(A) Section 102(b)(4)(A)(ii)(I) (19 U.S.C. 2112(b)(4)(A)(ii)(I)).
+
+&emsp;&emsp;“(B) Section 102(e)(1) (19 U.S.C. 2112(e)(1)).
+
+&emsp;&emsp;“(C) Section 102(e)(2) (19 U.S.C. 2112(e)(2)).
+
+&emsp;&emsp;“(D) Section 104(d) (19 U.S.C. 2114(d)).
+
+&emsp;&emsp;“(E) Section 125(e) (19 U.S.C. 2135(e)).
+
+&emsp;&emsp;“(F) Section 135(e)(1) (19 U.S.C. 2155(e)(1)).
+
+&emsp;&emsp;“(G) Section 141(c) (19 U.S.C. 2171(c)).
+
+&emsp;&emsp;“(H) Section 162 (19 U.S.C. 2212).
+
+&emsp;&emsp;“(I) Section 163(b) (19 U.S.C. 2213(b)).
+
+&emsp;&emsp;“(J) Section 163(c) (19 U.S.C. 2213(c)).
+
+&emsp;&emsp;“(K) Section 203(b) (19 U.S.C. 2253(b)).
+
+&emsp;&emsp;“(L) Section 302(b)(2)(C) (19 U.S.C. 2412(b)(2)(C)).
+
+&emsp;&emsp;“(M) Section 303 (19 U.S.C. 2413).
+
+&emsp;&emsp;“(N) Section 309 (19 U.S.C. 2419).
+
+&emsp;&emsp;“(O) Section 407(a) (19 U.S.C. 2437(a)).
+
+&emsp;&emsp;“(P) Section 502(f) (19 U.S.C. 2462(f)).
+
+&emsp;&emsp;“(Q) Section 504 (19 U.S.C. 2464).
+
+&emsp;“(9) The following provisions of the Trade Agreements Act of 1979 (19 U.S.C. 2501 et seq.):
+
+&emsp;&emsp;“(A) Section 2(b) (19 U.S.C. 2503(b)).
+
+&emsp;&emsp;“(B) Section 3(c) (19 U.S.C. 2504(c)).
+
+&emsp;&emsp;“(C) Section 305(c) (19 U.S.C. 2515(c)).
+
+&emsp;“(10) Section 303(g)(1) of the Convention on Cultural Property Implementation Act (19 U.S.C. 2602(g)(1)).
+
+&emsp;“(11) The following provisions of the Caribbean Basin Economic Recovery Act (19 U.S.C. 2701 et seq.):
+
+&emsp;&emsp;“(A) Section 212(a)(1)(A) (19 U.S.C. 2702(a)(1)(A)).
+
+&emsp;&emsp;“(B) Section 212(a)(2) (19 U.S.C. 2702(a)(2)).
+
+&emsp;“(12) The following provisions of the Omnibus Trade and Competitiveness Act of 1988 (19 U.S.C. 2901 et seq.):
+
+&emsp;&emsp;“(A) Section 1102 (19 U.S.C. 2902).
+
+&emsp;&emsp;“(B) Section 1103 (19 U.S.C. 2903).
+
+&emsp;&emsp;“(C) Section 1206(b) (19 U.S.C. 3006(b)).
+
+&emsp;“(13) Section 123(a) of the Customs and Trade Act of 1990 (Public Law 101–382) (19 U.S.C. 2083).
+
+&emsp;“(14) Section 243(b)(2) of the Caribbean Basin Economic Recovery Expansion Act of 1990 (Public Law 101–382) \[104 Stat. 665\].
+
+&emsp;“(15) The following provisions of the Internal Revenue Code of 1986 \[26 U.S.C. 1 et seq.\]:
+
+&emsp;&emsp;“(A) Section 6103(p)(5).
+
+&emsp;&emsp;“(B) Section 7608.
+
+&emsp;&emsp;“(C) Section 7802(f)(3).
+
+&emsp;&emsp;“(D) Section 8022(3).
+
+&emsp;&emsp;“(E) Section 9602(a).
+
+&emsp;“(16) The following provisions relating to the revenue laws of the United States:
+
+&emsp;&emsp;“(A) Section 1552(c) of the Tax Reform Act of 1986 \[Pub. L. 99–514, 26 U.S.C. 7441 note\] (100 Stat. 2753).
+
+&emsp;&emsp;“(B) Section 231 of the Deficit Reduction Act of 1984 \[Pub. L. 98–369\] (26 U.S.C. 801 note).
+
+&emsp;&emsp;“(C) Section 208 of the Tax Treatment Extension Act of 1977 \[Pub. L. 95–615\] (26 U.S.C. 911 note).
+
+&emsp;&emsp;“(D) Section 7105 of the Technical and Miscellaneous Revenue Act of 1988 (45 U.S.C. 369).
+
+&emsp;“(17) Section 4008 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1308).
+
+&emsp;“(18) Section 426 of the Black Lung Benefits Act (30 U.S.C. 936(b)).
+
+&emsp;“(19) Section 7502(g) of title 31, United States Code.
+
+&emsp;“(20) The following provisions of the Social Security Act:
+
+&emsp;&emsp;“(A) Section 215(i)(2)(C)(i) (42 U.S.C. 415(i)(2)(C)(i)).
+
+&emsp;&emsp;“(B) Section 221(i)(2) (42 U.S.C. 421(i)(2)).
+
+&emsp;&emsp;“(C) Section 221(i)(3) (42 U.S.C. 421(i)(3)).
+
+&emsp;&emsp;“(D) Section 233(e)(1) (42 U.S.C. 433(e)(1)).
+
+&emsp;&emsp;“(E) Section 452(a)(10) (42 U.S.C. 652(a)(10)).
+
+&emsp;&emsp;“(F) Section 452(g)(3)(B) (42 U.S.C. 652(g)(3)(B)).
+
+&emsp;&emsp;“(G) Section 506(a)(1) (42 U.S.C. 706(a)\[(1)\]).
+
+&emsp;&emsp;“(H) Section 908 (42 U.S.C. 1108).
+
+&emsp;&emsp;“(I) Section 1114(f) (42 U.S.C. 1314(f)).
+
+&emsp;&emsp;“(J) Section 1120 (42 U.S.C. 1320).
+
+&emsp;&emsp;“(K) Section 1161 (42 U.S.C. 1320c–10).
+
+&emsp;&emsp;“(L) Section 1875(b) (42 U.S.C. 1395<i>ll</i>(b)).
+
+&emsp;&emsp;“(M) Section 1881 (42 U.S.C. 1395rr).
+
+&emsp;&emsp;“(N) Section 1882 (42 U.S.C. 1395ss(f)(2)).
+
+&emsp;“(21) Section 104(b) of the Social Security Independence and Program Improvements Act of 1994 \[Pub. L. 103–296\] (42 USC \[sic\] 904 note).
+
+&emsp;“(22) Section 10 of the Railroad Retirement Act of 1937 \[probably means section 7 of the Railroad Retirement Act of 1974\] (45 U.S.C. 231f).
+
+&emsp;“(23) The following provisions of the Railroad Retirement Act of 1974:
+
+&emsp;&emsp;“(A) Section 22(a)(1) (45 U.S.C. 231u(a)(1)).
+
+&emsp;&emsp;“(B) Section 22(b)(1) (45 U.S.C. 231u(b)(1)).
+
+&emsp;“(24) Section 502 of the Railroad Retirement Solvency Act of 1983 (45 U.S.C. 231f–1).
+
+&emsp;“(25) Section 47121(c) of title 49, United States Code.
+
+&emsp;“(26) The following provisions of the Omnibus Budget Reconciliation Act of 1987 (Public Law 100–203; 101 Stat. 1330–182 \[101 Stat. 1330\]):
+
+&emsp;&emsp;“(A) Section 4007(c)(4) (42 U.S.C. 1395ww note).
+
+&emsp;&emsp;“(B) Section 4079 (42 U.S.C. 1395mm note).
+
+&emsp;&emsp;“(C) Section 4205 (42 U.S.C. 1395i–3 note).
+
+&emsp;&emsp;“(D) Section 4215 (42 U.S.C. 1396r note).
+
+&emsp;“(27) The following provisions of the Inspector General Act of 1978 \[5 App. U.S.C.\] (Public Law 95–452):
+
+&emsp;&emsp;“(A) Section 5(b).
+
+&emsp;&emsp;“(B) Section 5(d).
+
+&emsp;“(28) The following provisions of the Public Health Service Act:
+
+&emsp;&emsp;“(A) In section 308(a) (42 U.S.C. 242m(a)), subparagraphs (A), (B), (C), and (D) of paragraph (1).
+
+&emsp;&emsp;“(B) Section 403 (42 U.S.C. 283).
+
+&emsp;“(29) Section 404 of the Health Services and Centers Amendments of 1978 (42 U.S.C. 242p) (Public Law 95–626).
+
+&emsp;“(30) The following provisions of the Older Americans Act of 1965:
+
+&emsp;&emsp;“(A) Section 206(d) (42 U.S.C. 3017(d)).
+
+&emsp;&emsp;“(B) Section 207 (42 U.S.C. 3018).
+
+&emsp;“(31) Section 308 of the Age Discrimination Act of 1975 (42 U.S.C. 6106a(b)).
+
+&emsp;“(32) Section 509(c)(3) \[509(3)\] of the Americans with Disabilities Act 0f \[of\] 1990 (42 U.S.C. 12209(c)(3) \[12209(3)\]).
+
+&emsp;“(33) Section 4207(f) of the Omnibus Budget Reconciliation Act of 1990 \[Pub. L. 101–508\] (42 U.S.C. 1395b–1 note).”
+
+Pub. L. 106–476, title I, §1463, Nov. 9, 2000, 114 Stat. 2173, provided that: “Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 \[Pub. L. 104–66\] (31 U.S.C. 1113 note) does not apply to any report required to be submitted under any of the following provisions of law:
+
+&emsp;“(1) Section 163 of the Trade Act of 1974 (19 U.S.C. 2213).
+
+&emsp;“(2) Section 181 of the Trade Act of 1974 (19 U.S.C. 2241).”
+
+Pub. L. 106–419, title IV, §403(a), Nov. 1, 2000, 114 Stat. 1863, provided that: “Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 \[Pub. L. 104–66\] (31 U.S.C. 1113 note) does not apply to any report required to be submitted under any of the following: sections 503(c), 529, 541(c), 542(c), 3036, and 7312(d) of title 38, United States Code.”
+
+Pub. L. 106–197, §1, May 2, 2000, 114 Stat. 246, provided that: “Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 \[Pub. L. 104–66\] (31 U.S.C. 1113 note) does not apply to any report required to be submitted under any of the following provisions of law:
+
+&emsp;“(1) The following sections of title 18, United States Code: sections 2519(3), 2709(e), 3126, and 3525(b).
+
+&emsp;“(2) The following sections of title 28, United States Code: sections 522, 524(c)(6), 529, 589a(d), and 594.
+
+&emsp;“(3) Section 3718(c) of title 31, United States Code.
+
+&emsp;“(4) Section 9 of the Child Protection Act of 1984 \[Pub. L. 98–292\] (28 U.S.C. 522 note).
+
+&emsp;“(5) Section 8 of the Civil Rights of Institutionalized Persons Act (42 U.S.C. 1997f).
+
+&emsp;“(6) The following provisions of the Omnibus Crime Control and Safe Streets Act of 1968: sections 102(b) (42 U.S.C. 3712(b)), 520 (42 U.S.C. 3766), 522 (42 U.S.C. 3766b), and 810 (42 U.S.C. 3789e).
+
+&emsp;“(7) The following provisions of the Immigration and Nationality Act: sections 103 (8 U.S.C. 1103), 207(c)(3) (8 U.S.C. 1157(c)(3)), 412(b) (8 U.S.C. 1522(b)), and 413 (8 U.S.C. 1523), and subsections (h), (<i>l</i>), (<i>o</i>), (q), and (r) of section 286 (8 U.S.C. 1356).
+
+&emsp;“(8) Section 3 of the International Claims Settlement Act of 1949 (22 U.S.C. 1622).
+
+&emsp;“(9) Section 9 of the War Claims Act of 1948 (50 U.S.C. App. 2008).
+
+&emsp;“(10) Section 13(c) of the Act of September 11, 1957 (8 U.S.C. 1255b(c)).
+
+&emsp;“(11) Section 203(b) of the Aleutian and Pribilof Islands Restitution Act (50 U.S.C. App. 1989c–2(b)).
+
+&emsp;“(12) Section 801(e) of the Immigration Act of 1990 (29 U.S.C. 2920(e)).
+
+&emsp;“(13) Section 401 of the Immigration Reform and Control Act of 1986 (8 U.S.C. 1364).
+
+&emsp;“(14) Section 707 of the Equal Credit Opportunity Act (15 U.S.C. 1691f).
+
+&emsp;“(15) Section 201(b) of the Privacy Protection Act of 1980 (42 U.S.C. 2000aa–11(b)).
+
+&emsp;“(16) Section 609U of the Justice Assistance Act of 1984 (\[former\] 42 U.S.C. 10509).
+
+&emsp;“(17) Section 13(a) of the Classified Information Procedures Act (18 U.S.C. App.).
+
+&emsp;“(18) Section 1004 of the Civil Rights Act of 1964 (42 U.S.C. 2000g–3).
+
+&emsp;“(19) Section 1114 of the Right to Financial Privacy Act of 1978 (12 U.S.C. 3414).
+
+&emsp;“(20) Section 11 of the Foreign Agents Registration Act of 1938 (22 U.S.C. 621).
+
+&emsp;“(21) The following provisions of the Foreign Intelligence Surveillance Act of 1978: sections 107 (50 U.S.C. 1807) and 108 (50 U.S.C. 1808).
+
+&emsp;“(22) Section 102(b)(5) of the Department of Justice and Related Agencies Appropriations Act, 1993 \[Pub. L. 102–395\] (28 U.S.C. 533 note).”
+
+Pub. L. 106–181, title I, §163, Apr. 5, 2000, 114 Stat. 91, provided that: “Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 \[Pub. L. 104–66\] (31 U.S.C. 1113 note) does not apply to any report required to be submitted under any of the following provisions of law:
+
+&emsp;“(1) Section 44501 of title 49, United States Code.
+
+&emsp;“(2) Section 47103 of such title.
+
+&emsp;“(3) Section 47131 of such title.”
 
 Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §209(e)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–423, provided that: “Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 (Public Law 104–66; 31 U.S.C. 1113 note) does not apply to any report required to be submitted under any of the following provisions of law:
 
@@ -250,7 +594,7 @@ Pub. L. 106–65, div. A, title X, §1031, Oct. 5, 1999, 113 Stat. 749, provided
 
 &emsp;“(16) Section 165 of the Energy Policy and Conservation Act (42 U.S.C. 6245).
 
-&emsp;“(17) Section 603(e) of the National Science and Technology Policy, Organization, and Priorities Act of 1976 (42 U.S.C. 6683(e)).
+&emsp;“(17) Section 603(e) of the National Science and Technology Policy, Organization, and Priorities Act of 1976 (\[former\] 42 U.S.C. 6683(e)).
 
 &emsp;“(18) Section 822(b) of the National Defense Authorization Act for Fiscal Years 1992 and 1993 (42 U.S.C. 6687(b)).
 

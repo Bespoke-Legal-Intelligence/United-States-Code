@@ -12,7 +12,7 @@
 
 #### (b) Civil penalties; review and enforcement
 
-(1) Any person who violates section 1824 of this title shall be liable to the United States for a civil penalty of not more than $2,000 for each violation. No penalty shall be assessed unless such person is given notice and opportunity for a hearing before the Secretary with respect tosuch violation. The amount of such civil penalty shall be assessed by the Secretary by written order. In determining the amount of such penalty, the Secretary shall take into account all factors relevant to such determination, including the nature, circumstances, extent, and gravity of the prohibited conduct and, with respect to the person found to have engaged in such conduct, the degree of culpability, any history of prior offenses, ability to pay, effect on ability to continue to do business, and such other matters as justice may require.
+(1) Any person who violates section 1824 of this title shall be liable to the United States for a civil penalty of not more than $2,000 for each violation. No penalty shall be assessed unless such person is given notice and opportunity for a hearing before the Secretary with respect to such violation. The amount of such civil penalty shall be assessed by the Secretary by written order. In determining the amount of such penalty, the Secretary shall take into account all factors relevant to such determination, including the nature, circumstances, extent, and gravity of the prohibited conduct and, with respect to the person found to have engaged in such conduct, the degree of culpability, any history of prior offenses, ability to pay, effect on ability to continue to do business, and such other matters as justice may require.
 
 (2) Any person against whom a violation is found and a civil penalty assessed under paragraph (1) of this subsection may obtain review in the court of appeals of the United States for the circuit in which such person resides or has his place of business or in the United States Court of Appeals for the District of Columbia Circuit by filing a notice of appeal in such court within 30 days from the date of such order and by simultaneously sending a copy of such notice by certified mail to the Secretary. The Secretary shall promptly file in such court a certified copy of the record upon which such violation was found and such penalty assessed, as provided in section 2112 of title 28. The findings of the Secretary shall be set aside if found to be unsupported by substantial evidence.
 
@@ -53,8 +53,4 @@ In addition to any fine, imprisonment, or civil penalty authorized under this se
 Subsec. (b). Pub. L. 94–360 substituted provisions relating to imposition of civil penalties up to $2,000, criteria for imposition of particular amounts, and procedures for review and enforcement of civil penalties, for provisions authorizing fines up to $2,000 and/or imprisonment up to six months for intentional violations of provisions of this chapter or any regulation issued thereunder.
 
 Subsecs. (c) to (e). Pub. L. 94–360 added subsecs. (c) to (e).
-
-#### Federal Rules of Civil Procedure
-
-Admiralty and maritime rules of practice (which included libel procedures) were superseded, and civil and admiralty procedures in United States district courts were unified, effective July 1, 1966, see rule 1 and Supplemental Rules for Certain Admiralty and Maritime Claims, Title 28, Appendix, Judiciary and Judicial Procedure.
 

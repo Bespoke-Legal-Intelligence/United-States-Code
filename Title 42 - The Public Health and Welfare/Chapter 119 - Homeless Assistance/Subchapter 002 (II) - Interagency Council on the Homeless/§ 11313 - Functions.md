@@ -62,7 +62,7 @@ In carrying out subsection (a) of this section, the Council may—
 
 #### (d) Notification of other Federal agencies
 
-If, in monitoring and evaluating programs and activities to assist homeless individuals conducted by other Federal agencies, the Council determines that any significant problem, abuse, or deficiency exists in the administration of the program or activity of any Federal agency, the Council shall submit a notice of the determination of the Council to the Inspector General of the Federal agency (or the head of the Federal agency, in the case of a Federal agency that has no Inspector General).
+If, in monitoring and evaluating programs and activities to assist homeless individuals conducted by other Federal agencies, the Council determines that any significant problem, abuse, or deficiency exists in the administration of the program or activity of any Federal agency, the Council shall submit a notice of the determination of the Council to the Inspector General of the Federal agency (or the head of the Federalagency, in the case of a Federal agency that has no Inspector General).
 
 #### (e) Program timetables
 
@@ -76,7 +76,7 @@ This chapter, referred to in subsecs. (a)(4)(B) and (e), was in the original “
 
 #### Amendments
 
-1988—Subsec. (a)(4). Pub. L. 100–628, §202(1), substituted “(by at least 2, but in no case more than 5, regional coordinators employed by the Council, each having responsibility for interaction and coordination of the activities of the Council within the 10 standard Federal regions)” for “, through personnel employed bythe Council in each of the 10 standard Federal regions,” in introductory provisions.
+1988—Subsec. (a)(4). Pub. L. 100–628, §202(1), substituted “(by at least 2, but in no case more than 5, regional coordinators employed by the Council, each having responsibility for interaction and coordination of the activities of the Council within the 10 standard Federal regions)” for “, through personnel employed by the Council in each of the 10 standard Federal regions,” in introductory provisions.
 
 Subsec. (a)(4)(A) to (D). Pub. L. 100–628, §202(2), added subpars. (A) to (D) and struck out former subpars. (A) and (B) which read as follows:
 
@@ -87,6 +87,10 @@ Subsec. (a)(4)(A) to (D). Pub. L. 100–628, §202(2), added subpars. (A) to (D)
 Subsec. (a)(7). Pub. L. 100–628, §201, added par. (7).
 
 Subsec. (e). Pub. L. 100–628, §203, added subsec. (e).
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (c)(2) of this section relating to transmittal to Congress of annual report, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 5th item on page 175 of House Document No. 103–7.
 
 #### Personnel From Federal Departments and Agencies
 

@@ -18,7 +18,7 @@ Notwithstanding the provisions of sections 3544(b) and 8544(b) <sup>1</sup> of 
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
-The Renegotiation Act of 1951, as amended, referred to in subsec. (a), is act Mar. 23, 1951, ch. 15, 65 Stat. 7, as amended, which was classified principally to section 1211 et seq. of Title 50, Appendix, War and National Defense, prior to its omission from the Code. See note preceding section 1211 of Title 50, Appendix.
+The Renegotiation Act of 1951, as amended, referred to in subsec. (a), is act Mar. 23, 1951, ch. 15, 65 Stat. 7, as amended, which was classified principally to section1211 et seq. of Title 50, Appendix, War and National Defense, prior to its omission from the Code. See note preceding section 1211 of Title 50, Appendix.
 
 Sections 3544 and 8544 of title 10, referred to in subsec. (c), were repealed by Pub. L. 90–235, §4(a)(6), Jan. 2, 1968, 81 Stat. 759.
 
@@ -62,7 +62,7 @@ Section 1. With respect to functions authorized by the Foreign Assistance Act of
 
 (8) Section 304(c) of the Federal Property and Administrative Services Act of 1949, as added by the Act of October 31, 1951, 65 Stat. 700 (41 U.S.C. 254(c)), but only with respect to contracts entered into with foreign governments or agencies thereof for the rendering of services to the United States or an agency thereof within the continental limits of the United States.
 
-(9) Section 901(a) of the Merchant Marine Act, 1936, 49 Stat. 2015 as amended (46 U.S.C. 1241(a)).
+(9) Section 901(a) of the Merchant Marine Act, 1936, 49 Stat. 2015 as amended (46 \[App.\] U.S.C. 1241(a)).
 
 Sec. 2. With respect to purchases authorized to be made outside the limits of the United States or the District of Columbia under the Foreign Assistance Act of 1961, as amended \[this chapter\], and any predecessor legislation:
 

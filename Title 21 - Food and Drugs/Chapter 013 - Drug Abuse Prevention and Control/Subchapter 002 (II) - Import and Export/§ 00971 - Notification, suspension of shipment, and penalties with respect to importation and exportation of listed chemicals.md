@@ -28,7 +28,7 @@ A person located in the United States who is a broker or trader for an internati
 
 (3) The Attorney General may by regulation waive the 15-day notification requirement for the importation of a listed chemical if the Attorney General determines that such notification is not necessary for effective chemical diversion control. If the notification requirement is waived, importers of the listed chemical shall be required to submit to the Attorney General reports of individual importations or periodic reports of the importation of the listed chemical, at such time or times and containing such information as the Attorney General shall establish by regulation.
 
-(Pub. L. 91–513, title III, §1018, as added Pub. L. 100–690, title VI, §6053(a), Nov. 18, 1988, 102 Stat.4314; amended Pub. L. 103–200, §§4(a), 5(a), 9(b), Dec. 17, 1993, 107 Stat. 2338–2340; Pub. L. 103–322, title XXXIII, §330024(c), Sept. 13, 1994, 108 Stat. 2150.)
+(Pub. L. 91–513, title III, §1018, as added Pub. L. 100–690, title VI, §6053(a), Nov. 18, 1988, 102 Stat. 4314; amended Pub. L. 103–200, §§4(a), 5(a), 9(b), Dec. 17, 1993, 107 Stat. 2338–2340; Pub. L. 103–322, title XXXIII, §330024(c), Sept. 13, 1994, 108 Stat. 2150.)
 
 #### Amendments
 
@@ -88,5 +88,5 @@ Effect of Exception.—The exception made by paragraph (1) shall not limit the a
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 960, 961 of this title.
+This section is referred to in sections 830, 960, 961 of this title.
 

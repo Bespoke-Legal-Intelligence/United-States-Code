@@ -1,8 +1,4 @@
-Part <sup>1</sup> M—National Program of Cancer Registries
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>1</sup></i><i> So in original. Probably should be part “N”.</i>
+Part M—National Program of Cancer Registries
 
 
 ---

@@ -12,7 +12,3 @@ The Air National Guard of the United States is the reserve component of the Air 
 
 Provisions similar to those in this section were contained in section 8077 of this title, prior to repeal by Pub. L. 103–337, §1661(a)(3)(A).
 
-#### Cross References
-
-Air National Guard generally, see section 101 et seq. of Title 32, National Guard.
-

@@ -282,7 +282,7 @@
 | (e) | Investigations; hearings; orders; administrative procedure applicable; final orders; judicial review; civil action; intervention. |
 | (f) | Appointment of executive director, administrative law judges, and other personnel; provisions applicable to administrative law judges; authority and duties of executive director; finality of orders of compliance. |
 | (g) | Technical, administrative, or other assistance; appointment, compensation, and travel expenses of advisory and technical experts and consultants. |
-| (h) | Reports to Congress; reports on transportation barriers and housing needs. |
+| (h) | Reports on transportation barriers and housing needs. |
 | (i) | Grants and contracts to aid Access Board in carrying out its functions; acceptance of gifts, devises, and bequests of property; report to Congress on accessibility of federally funded buildings; joint transmittal. |
 | (j) | Authorization of appropriations. |
 | [793\.](Subchapter%20005%20%28V%29%20-%20Rights%20and%20Advocacy/%C2%A7%2000793%20-%20Employment%20under%20Federal%20contracts.md) | Employment under Federal contracts. |
@@ -492,7 +492,7 @@ I74subpart 1—general provisions
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 762a, 780a, 1533, 1605, 1792, 2841 of this title; title 2 sections 1302, 1311, 1371, 1434; title 3 sections 402, 411; title 5 section 8104; title 7 section 2279d; title 20 sections 107a, 107d–4, 1011, 1453, 2308, 3441, 4356, 6143; title 22 section 2102; title 26 section 51; title 38 sections 3117, 3118, 7462; title 42 sections 290dd, 1760, 1784, 3013, 3026, 6008, 6024, 6042, 6705, 11701, 12117, 12592.
+This chapter is referred to in sections 762a, 780a, 2841 of this title; title 2 sections 1302, 1311, 1371, 1434; title 3 sections 402, 411; title 5 section 8104; title 7 section 2279d; title 20 sections 107a, 107d–4, 1011, 1453, 2308, 3441, 4356, 6143; title 22 section 2102; title 26 section 51; title 38 sections 3117, 3118, 7462; title 42 sections 290dd, 1760, 1784, 3013, 3026, 6008, 6024, 6042, 6705, 11701, 12117, 12592.
 
 
 ---

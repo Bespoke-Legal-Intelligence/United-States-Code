@@ -27,12 +27,6 @@
 
 1990—Pub. L. 101–647, title XXXV, §3566, Nov. 29, 1990, 104 Stat. 4928, substituted “vessels” for “vessel” in item 2271.
 
-#### Cross References
-
-Special maritime and territorial jurisdiction of the United States defined, see section 7 of this title.
-
-Wrecking ships; false beacons; plundering wrecks; obstructing escape from shipwreck, see section 1658 of this title.
-
 #### Chapter Referred to in Other Sections
 
 This chapter is referred to in sections 35, 2516 of this title.

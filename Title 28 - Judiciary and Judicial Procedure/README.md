@@ -1,5 +1,5 @@
 
-28 U.S.C.<br>United States Code, 1999 Edition<br>Title 28 - JUDICIARY AND JUDICIAL PROCEDURE<br>From the U.S. Government Publishing Office, www.gpo.gov
+28 U.S.C.<br>United States Code, 2000 Edition<br>Title 28 - JUDICIARY AND JUDICIAL PROCEDURE<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 28—JUDICIARY AND JUDICIAL PROCEDURE
 
@@ -18,7 +18,7 @@
 
 #### Amendments
 
-1966—Pub. L. 89–554, §4(a), Sept. 6, 1966, 80 Stat. 611, substituted “Department of Justice” for “United States Attorneys and Marshals” in item for part II.
+<b>1966</b>—Pub. L. 89–554, §4(a), Sept. 6, 1966, 80 Stat. 611, substituted “Department of Justice” for “United States Attorneys and Marshals” in item for part II.
 
 Table Showing Disposition of All Sections of Former Title 28
 
@@ -2840,17 +2840,9 @@ Act Jan. 31, 1928, ch. 14, §1, 45 Stat. 54 \[section 861a of former Title 28, J
 
 Section 2(b) of act June 25, 1948, ch. 646, 62 Stat. 985, provided that: “The provisions of Title 28, Judiciary and Judicial Procedure, of the United States Code, set out in section 1 of this Act, with respect to the organization of each of the several courts therein provided for and of the Administrative Office of the United States Courts, shall be construed as continuations of existing law, and the tenure of the judges, officers, and employees thereof and of the United States attorneys and marshals and their deputies and assistants, in office on the effective date of this Act \[Sept. 1, 1948\], shall not be affected by its enactment, but each of them shall continue to serve in the same capacity under the appropriate provisions of title 28, as set out in section 1 of this Act, pursuant to his prior appointment: <i>Provided, however</i>, That each circuit court of appeals shall, as in said title 28 set out, hereafter be known as a United States court of appeals. No loss of rights, interruption of jurisdiction, or prejudice to matters pending in any of such courts on the effective date of this Act shall result from its enactment.”
 
-#### Cross References
-
-District of Columbia, organization of courts, see Title 11 of District of Columbia Code.
-
-Territorial courts, see Title 48, Territories and Insular Possessions.
-
-United States Tax Court, see section 7441 et seq. of Title 26, Internal Revenue Code.
-
 #### Title Referred to in Other Sections
 
-This title is referred to in title 5 section 8477; title 9 section 4; title 10 section 1054; title 11 section 105; title 12 section 2244; title 16 sections 18i, 558c, 742<i>l</i>, 823b, 3375; title 22 sections 2702, 4606, 6082; title 29 sections 1706, 2897; title 38 section 7316; title 42 sections 233, 300g–3, 300i–1, 300j–23, 3789h, 5055, 8433; title 43 section 1737; title 48 sections 1424–4, 1614, 1821, 1824.
+This title is referred to in title 5 section 8477; title 9 section 4; title 10 section 1054; title 11 section 105; title 12 section 2244; title 16 sections 18i, 558c, 742<i>l</i>, 823b, 3375; title 22 sections 2702, 4606, 6082; title 29 section 2897; title 38 section 7316; title 42 sections 233, 300g–3, 300i–1, 300j–23, 3789h, 5055, 8433; title 43 section 1737; title 48 sections 1424–4, 1614, 1821, 1824.
 
 
 ---

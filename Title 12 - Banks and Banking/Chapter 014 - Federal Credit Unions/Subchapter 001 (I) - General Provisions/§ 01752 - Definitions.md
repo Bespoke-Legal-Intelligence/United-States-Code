@@ -18,7 +18,7 @@ As used in this chapter—
 
 &emsp;(8) The term “Fund” means the National Credit Union Share Insurance Fund; and
 
-&emsp;(9) The term “branch” includes any branch credit union, branch office, branch agency, additional office, or any branch place of business located in any State of the United States, the District of Columbia, the several territories, including the trust territories, and possessions of the United States, the Panama Canal Zone, or the Commonwealth of Puerto Rico, at which member accounts are established or money lent. The term “branch” also includes a suboffice, operated by a Federal credit union or by a credit union authorized by the Department of Defense, located on an American military installation in a foreign country or in the trust territories of the United States.
+&emsp;(9) The term “branch” includes any branch credit union, branch office, branch agency, additional office, or any branch place of business located in any State of the United States, the District of Columbia, the several territories,including the trust territories, and possessions of the United States, the Panama Canal Zone, or the Commonwealth of Puerto Rico, at which member accounts are established or money lent. The term “branch” also includes a suboffice, operated by a Federal credit union or by a credit union authorized by the Department of Defense, located on an American military installation in a foreign country or in the trust territories of the United States.
 
 (June 26, 1934, ch. 750, title I, §101, formerly §2, 48 Stat. 1216; 1947 Reorg. Plan No. 1, §401, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 952; June 29, 1948, ch. 711, §§1, 2, 62 Stat. 1091; Pub. L. 86–354, §1, Sept. 22, 1959, 73 Stat. 628; Pub. L. 91–206, §1, Mar. 10, 1970, 84 Stat. 49, renumbered title I, §101, and amended Pub. L. 91–468, §§1(2), 2, Oct. 19, 1970, 84 Stat. 994, 1015; Pub. L. 95–22, title III, §308, Apr. 19, 1977, 91 Stat. 52; Pub. L. 95–630, title V, §§502(a), (b), 503, Nov. 10, 1978, 92 Stat. 3681; Pub. L. 96–161, title I, §103(a), Dec. 28, 1979, 93 Stat. 1233; Pub. L. 96–221, title III, §§305(a), 307, Mar. 31, 1980, 94 Stat. 146, 147; Pub. L. 97–320, title V, §501, Oct. 15, 1982, 96 Stat. 1528.)
 
@@ -82,7 +82,7 @@ Transfer of functions of Farm Credit Administration and Governor thereof, see no
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 461, 1422, 1735f–7a, 1786, 1818, 1831t, 3350, 4702, 4801 of this title; title 11 section 101; title 15 sections 78c, 1679a; title 18 section 2113; title 22 section 5426; title 26 sections 408, 501; title 31 section 3342; title 42 sections 669a, 6901.
+This section is referred to in sections 461, 1422, 1735f–7a, 1786, 1818, 1831t, 3350, 4702, 4801 of this title; title 7 sections 1a, 27; title 11 section 101; title 15 sections 78c, 1679a; title 18 section 2113; title 22 section 5426; title 26 sections 408, 501; title 31 section 3342; title 42 sections 669a, 6901.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “or share draft account”.</i>
 

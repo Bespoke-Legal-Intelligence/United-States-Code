@@ -2,21 +2,13 @@
 
 (a)
 
-In General.—There is authorized to be appropriated for the purposes of this chapter $37,580,000 for fiscal year 1994, $44,000,000 for fiscal year 1995, $45,100,000 for fiscal year 1996, $42,400,00 <sup>1</sup> for fiscal year 1997, $44,400,000 for fiscal year 1998, and $46,600,000 for fiscal year 1999..<sup>1</sup> Such sums shall remain available until expended.
+In General.—There are authorized to be appropriated for the purposes of this chapter $57,000,000 for fiscal year 2000, $65,000,000 for fiscal year 2001, and $72,000,000 for fiscal year 2002, such sums to remain available until expended.
 
 (b)
 
-Emergency Fund.—The Board has an emergency fund of $1,000,000 available for necessary expenses of the Board, not otherwise provided for, for accident investigations. The following amounts may be appropriated to the fund:
+Emergency Fund.—The Board has an emergency fund of $2,000,000 available for necessary expenses of the Board, not otherwise provided for, for accident investigations. Amounts equal to the amounts expended annually out of the fund are authorized to be appropriated to the emergency fund.
 
-&emsp;(1) $1,000,000 to establish the fund.
-
-&emsp;(2) amounts equal to amounts expended annually out of the fund.
-
-(c)
-
-Availability of Amounts.—Amounts appropriated under this section remain available until expended.
-
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 752; Pub. L. 103–411, §2, Oct. 25, 1994, 108 Stat. 4236; Pub. L. 104–291, title I, §105, Oct. 11, 1996, 110 Stat. 3453.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 752; Pub. L. 103–411, §2, Oct. 25, 1994, 108 Stat. 4236; Pub. L. 104–291, title I, §105, Oct. 11, 1996, 110 Stat. 3453; Pub. L. 106–424, §13, Nov. 1, 2000, 114 Stat. 1888.)
 
 Historical and Revision Notes
 
@@ -50,9 +42,25 @@ In subsection (b)(2), the words “amounts equal to amounts expended annually ou
 
 #### Amendments
 
+2000—Pub. L. 106–424 amended section catchline and text generally. Prior to amendment, text read as follows:
+
+“(a)
+
+In General.—There is authorized to be appropriated for the purposes of this chapter $37,580,000 for fiscal year 1994, $44,000,000 for fiscal year 1995, $45,100,000 for fiscal year 1996, $42,400,00 for fiscal year 1997, $44,400,000 for fiscal year 1998, and $46,600,000 for fiscal year 1999. Such sums shall remain available until expended.
+
+“(b)
+
+Emergency Fund.—The Board has an emergency fund of $1,000,000 available for necessary expenses of the Board, not otherwise provided for, for accident investigations. The following amounts may be appropriated to the fund:
+
+&emsp;“(1) $1,000,000 to establish the fund.
+
+&emsp;“(2) amounts equal to amounts expended annually out of the fund.
+
+“(c)
+
+Availability of Amounts.—Amounts appropriated under this section remain available until expended.”
+
 1996—Subsec. (a). Pub. L. 104–291 struck out “and” after “1995,” and inserted “, $42,400,00 for fiscal year 1997, $44,400,000 for fiscal year 1998, and $46,600,000 for fiscal year 1999.” before period at end of first sentence.
 
-1994—Subsec. (a). Pub. L. 103–411 reenacted heading without change and amended text generally. Prior toamendment, text read as follows: “Not more than $38,800,000 may be appropriated to the National Transportation Safety Board for the fiscal year ending September 30, 1993, to carry out this chapter.”
-
-<i><sup>1</sup></i><i> So in original.</i>
+1994—Subsec. (a). Pub. L. 103–411 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Not more than $38,800,000 may be appropriated to the National Transportation Safety Board for the fiscal year ending September 30, 1993, to carry out this chapter.”
 

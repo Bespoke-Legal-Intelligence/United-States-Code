@@ -1,0 +1,136 @@
+### §300ff–64. Additional required agreements
+
+#### (a) Reports to Secretary
+
+The Secretary may not make a grant under this part unless—
+
+&emsp;(1) the applicant submits to the Secretary—
+
+&emsp;&emsp;(A) a specification of the expenditures made by the applicant for early intervention services for the fiscal year preceding the fiscal year for which the applicant is applying to receive the grant; and
+
+&emsp;&emsp;(B) an estimate of the number of individuals to whom the applicant has provided such services for such fiscal year; and
+
+&emsp;(2) the applicant agrees to submit to the Secretary a report providing—
+
+&emsp;&emsp;(A) the number of individuals to whom the applicant provides early intervention services pursuant to the grant;
+
+&emsp;&emsp;(B) epidemiological and demographic data on the population of such individuals;
+
+&emsp;&emsp;(C) the extent to which the costs of HIV-related health care for such individuals are paid by third-party payors;
+
+&emsp;&emsp;(D) the average costs of providing each category of early intervention service; and
+
+&emsp;&emsp;(E) the aggregate amounts expended for each such category.
+
+#### (b) Provision of opportunities for anonymous counseling and testing
+
+The Secretary may not make a grant under this part unless the applicant for the grant agrees that, to the extent permitted under State law, regulation or rule, the applicant will offer substantial opportunities for an individual—
+
+&emsp;(1) to undergo counseling and testing regarding HIV disease without being required to provide any information relating to the identity of the individual; and
+
+&emsp;(2) to undergo such counseling and testing through the use of a pseudonym.
+
+#### (c) Prohibition against requiring testing as condition of receiving other health services
+
+The Secretary may not make a grant under this part unless the applicant for the grant agrees that, with respect to an individual seeking health services from the applicant, the applicant will not require the individual to undergo testing for HIV as a condition of receiving any health services unless such testing is medically indicated in the provision of the health services sought by the individual.
+
+#### (d) Maintenance of support
+
+The Secretary may not make a grant under this part unless the applicant for the grant agrees to maintain the expenditures of the applicant for early intervention services at a level equal to not less than the level of such expenditures maintained by the State for the fiscal year preceding the fiscal year for which the applicant is applying to receive the grant.
+
+#### (e) Requirements regarding imposition of charges for services
+
+#### (1) In general
+
+&emsp;The Secretary may not make a grant under this part unless, subject to paragraph (5), the applicant for the grant agrees that—
+
+&emsp;&emsp;(A) in the case of individuals with an income less than or equal to 100 percent of the official poverty line, the applicant will not impose a charge on any such individual for the provision of early intervention services under the grant;
+
+&emsp;&emsp;(B) in the case of individuals with an income greater than 100 percent of the official poverty line, the applicant—
+
+&emsp;&emsp;&emsp;(i) will impose a charge on each such individual for the provision of such services; and
+
+&emsp;&emsp;&emsp;(ii) will impose the charge according to a schedule of charges that is made available to the public.
+
+#### (2) Limitation on charges regarding individuals subject to charges
+
+&emsp;With respect to the imposition of a charge for purposes of paragraph (1)(B)(ii), the Secretary may not make a grant under this part unless, subject to paragraph (5), the applicant for the grant agrees that—
+
+&emsp;&emsp;(A) in the case of individuals with an income greater than 100 percent of the official poverty line and not exceeding 200 percent of such poverty line, the applicant will not, for any calendar year, impose charges in an amount exceeding 5 percent of the annual gross income of the individual involved;
+
+&emsp;&emsp;(B) in the case of individuals with an income greater than 200 percent of the official poverty line and not exceeding 300 percent of such poverty line, the applicant will not, for any calendar year, impose charges in an amount exceeding 7 percent of the annual gross income of the individual involved; and
+
+&emsp;&emsp;(C) in the case of individuals with an income greater than 300 percent of the official poverty line, the applicant will not, for any calendar year, impose charges in an amount exceeding 10 percent of the annual gross income of the individual involved.
+
+#### (3) Assessment of charge
+
+&emsp;With respect to compliance with the agreement made under paragraph (1), a grantee under this part may, in the case of individuals subject to a charge for purposes of such paragraph—
+
+&emsp;&emsp;(A) assess the amount of the charge in the discretion of the grantee, including imposing only a nominal charge for the provision of services, subject to the provisions of such paragraph regarding public schedules and of paragraph (2) regarding limitations on the maximum amount of charges; and
+
+&emsp;&emsp;(B) take into consideration the medical expenses of individuals in assessing the amount of the charge, subject to such provisions.
+
+#### (4) Applicability of limitation on amount of charge
+
+&emsp;The Secretary may not make a grant under this part unless the applicant for the grant agrees that the limitations established in paragraph (2) regarding the imposition of charges for services applies to the annual aggregate of charges imposed for such services, without regard to whether they are characterized as enrollment fees, premiums, deductibles, cost sharing, copayments, coinsurance, or similar charges.
+
+#### (5) Waiver regarding certain secondary agreements
+
+&emsp;The requirement established in paragraph (1)(B)(i) shall be waived by the Secretary in the case of any entity for whom the Secretary has granted a waiver under section 300ff–52(b)(2) of this title.
+
+#### (f) Relationship to items and services under other programs
+
+#### (1) In general
+
+&emsp;The Secretary may not make a grant under this part unless the applicant for the grant agrees that, subject to paragraph (2), the grant will not be expended by the applicant, or by any entity receiving amounts from the applicant for the provision of early intervention services, to make payment for any such service to the extent that payment has been made, or can reasonably be expected to be made, with respect to such service—
+
+&emsp;&emsp;(A) under any State compensation program, under an insurance policy, or under any Federal or State health benefits program; or
+
+&emsp;&emsp;(B) by an entity that provides health services on a prepaid basis.
+
+#### (2) Applicability to certain secondary agreements for provision of services
+
+&emsp;An agreement made under paragraph (1) shall not apply in the case of an entity through which a grantee under this part provides early intervention services if the Secretary has provided a waiver under section 300ff–52(b)(2) of this title regarding the entity.
+
+#### (g) Administration of grant
+
+The Secretary may not make a grant under this part unless the applicant for the grant agrees that—
+
+&emsp;(1) the applicant will not expend amounts received pursuant to this part for any purpose other than the purposes described in the subpart under which the grant involved is made;
+
+&emsp;(2) the applicant will establish such procedures for fiscal control and fund accounting as may be necessary to ensure proper disbursement and accounting with respect to the grant;
+
+&emsp;(3) the applicant will not expend more than 10 percent including planning and evaluation of the grant for administrative expenses with respect to the grant;
+
+&emsp;(4) the applicant will submit evidence that the proposed program is consistent with the statewide coordinated statement of need and agree to participate in the ongoing revision of such statement of need; and
+
+&emsp;(5) the applicant will provide for the establishment of a quality management program—
+
+&emsp;&emsp;(A) to assess the extent to which medical services funded under this subchapter that are provided to patients are consistent with the most recent Public Health Service guidelines for the treatment of HIV disease and related opportunistic infections, and as applicable, to develop strategies for ensuring that such services are consistent with the guidelines; and
+
+&emsp;&emsp;(B) to ensure that improvements in the access to and quality of HIV health services are addressed.
+
+(July 1, 1944, ch. 373, title XXVI, §2664, as added Pub. L. 101–381, title III, §301(a), Aug. 18, 1990, 104 Stat. 611; amended Pub. L. 104–146, §3(d)(5), May 20, 1996, 110 Stat. 1358; Pub. L. 106–345, title III, §§301(b)(3), 322, Oct. 20, 2000, 114 Stat. 1345, 1346.)
+
+#### Amendments
+
+2000—Subsecs. (e)(5), (f)(2). Pub. L. 106–345, §301(b)(3)(A), (B), struck out “300ff–42(b) or” after “a waiver under section”.
+
+Subsec. (g)(3). Pub. L. 106–345, §322(1)(A), substituted “10 percent” for “7.5 percent”.
+
+Subsec. (g)(5). Pub. L. 106–345, §322(1)(B), (2), (3), added par. (5).
+
+Subsec. (h). Pub. L. 106–345, §301(b)(3)(C), struck out heading and text of subsec. (h). Text read as follows: “A State may not use amounts received under a grant awarded under section 300ff–41 of this title to purchase or improve land, or to purchase, construct, or permanently improve (other than minor remodeling) any building or other facility, or to make cash payments to intended recipients of services.”
+
+1996—Subsec. (g)(3). Pub. L. 104–146, §3(d)(5)(B)(i), substituted “7.5 percent including planning and evaluation” for “5 percent”.
+
+Subsec. (g)(4). Pub. L. 104–146, §3(d)(5)(A), (B)(ii), (C), added par. (4).
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–146 effective Oct. 1, 1996, see section 13 of Pub. L. 104–146, set out as a note under section 300ff–11 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 300ff–61, 300ff–62, 300ff–65 of this title.
+

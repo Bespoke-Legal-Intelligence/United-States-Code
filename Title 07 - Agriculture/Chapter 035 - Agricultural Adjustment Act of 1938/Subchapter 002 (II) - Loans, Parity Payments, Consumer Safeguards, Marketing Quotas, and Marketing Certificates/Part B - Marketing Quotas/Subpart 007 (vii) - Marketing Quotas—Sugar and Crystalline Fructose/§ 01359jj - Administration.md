@@ -10,7 +10,7 @@ The Secretary shall use the services, facilities, funds, and authorities of the 
 
 #### (c) “United States” and “State” defined
 
-Notwithstanding section 1301 of this title, for purposes of this subpart, the terms “United States” and “State” means <sup>1</sup> the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico.
+Notwithstanding section 1301 of this title, for purposes of this subpart, the terms “UnitedStates” and “State” means <sup>1</sup> the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico.
 
 (Feb. 16, 1938, ch. 30, title III, §359j, as added Pub. L. 101–624, title IX, §902, Nov. 28, 1990, 104 Stat. 3488.)
 

@@ -102,7 +102,7 @@ The Secretary shall—
 
 &emsp;&emsp;&emsp;(iv) otherwise settle a debarment action at any time;
 
-> &emsp;&emsp;in conjunction with the participation of a local agency in a child nutrition program, if the Secretary determines there is good cause for the action, after taking into account factors set forth in paragraphs (1) through (6) of subsection (e) of this section.
+> &emsp;&emsp;in conjunction with the participation of a local agency in a child nutrition program, if the Secretary determines there is good causefor the action, after taking into account factors set forth in paragraphs (1) through (6) of subsection (e) of this section.
 
 #### (5) Information
 

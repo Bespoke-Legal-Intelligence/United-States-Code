@@ -38,10 +38,6 @@ Pub. L. 98–473, title II, §§1115, 1502(b), Oct. 12, 1984, 98 Stat. 2149, 217
 
 1961—Pub. L. 87–371, §4, Oct. 4, 1961, 75 Stat. 802, inserted “fraudulent State tax stamps,” in item 2314, and substituted “moneys, or fraudulent State tax stamps” for “or monies” in item 2315.
 
-#### Cross References
-
-Baggage, express and freight; thefts and other depredations including transportation of money or goods stolen in transit, see section 659 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be section “13(c)”.</i>
 
 

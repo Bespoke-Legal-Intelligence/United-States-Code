@@ -58,7 +58,7 @@ Transfer of excess amounts to the treasury.—
 
 &emsp;&emsp;(A)
 
-In general.—At such times as the Secretary determines to be appropriate, the Secretary shall transfer any amount in the Fund which the Secretary determines to be in excess of the amount required by the Fund to the Treasury for deposit as miscellaneous receipts.
+In general.—At such times as the Secretary determines to be appropriate, theSecretary shall transfer any amount in the Fund which the Secretary determines to be in excess of the amount required by the Fund to the Treasury for deposit as miscellaneous receipts.
 
 &emsp;&emsp;(B)
 
@@ -96,15 +96,21 @@ Annual financial statement required.—By the end of each calendar year, the Sec
 
 &emsp;(2)
 
-Contents of financial statement.—Each statement prepared pursuant to paragraph (1) shall, at a minimum, reflect—
+Contents of financial statement.—Each statement prepared pursuant to paragraph (1) shall, at a minimum, contain—
 
 &emsp;&emsp;(A) the overall financial position (including assets and liabilities) of the Fund as of the end of the fiscal year;
 
 &emsp;&emsp;(B) the results of the numismatic operations and programs of the Fund during the fiscal year;
 
-&emsp;&emsp;(C) the cash flows or the changes in financial position of the Fund; and
+&emsp;&emsp;(C) the cash flows or the changes in financial position of the Fund;
 
-&emsp;&emsp;(D) a reconciliation of the financial statement to the budget reports of the Fund.
+&emsp;&emsp;(D) a reconciliation of the financial statement to the budget reports of the Fund; and
+
+&emsp;&emsp;(E) a supplemental schedule detailing—
+
+&emsp;&emsp;&emsp;(i) the costs and expenses for the production, for the marketing, and for the distribution of each denomination of circulating coins produced by the Mint during the fiscal year and the per-unit cost of producing, of marketing, and of distributing each denomination of such coins; and
+
+&emsp;&emsp;&emsp;(ii) the gross revenue derived from the sales of each such denomination of coins.
 
 &emsp;(3)
 
@@ -126,7 +132,7 @@ In general.—Each annual financial statement prepared under paragraph (1) shall
 
 &emsp;&emsp;(B)
 
-Auditor's report required.—The auditor designated to audit any financialstatement of the Fund pursuant to subparagraph (A) shall submit a report—
+Auditor's report required.—The auditor designated to audit any financial statement of the Fund pursuant to subparagraph (A) shall submit a report—
 
 &emsp;&emsp;&emsp;(i) to the Secretary by March 31 of the year beginning after the end of the fiscal year covered by such financial statement; and
 
@@ -212,7 +218,7 @@ Minimum requirements for annual audits.—At a minimum, each audit of a designat
 
 &emsp;&emsp;(C)
 
-Responsibility of organization to account for expenditures of surcharges.—Each designated recipient organization that receives any payment from the fund <sup>2</sup> of any amount derived from the proceeds of any surcharge imposed on the sale of any numismatic item shall take appropriate steps, as a condition for receiving any such payment, to ensure that the receipt of the payment andthe expenditure of the proceeds of such surcharge by the organization in each fiscal year of the organization can be accounted for separately from all other revenues and expenditures of the organization.
+Responsibility of organization to account for expenditures of surcharges.—Each designated recipient organization that receives any payment from the fund <sup>2</sup> of any amount derived from the proceeds of any surcharge imposed on the sale of any numismatic item shall take appropriate steps, as a condition for receiving any such payment, to ensure that the receipt of the payment and the expenditure of the proceeds of such surcharge by the organization in each fiscal year of the organization can be accounted for separately from all other revenues and expenditures of the organization.
 
 &emsp;&emsp;(D)
 
@@ -240,7 +246,7 @@ Availability of books and records.—An organization that receives any payment f
 
 &emsp;(3)
 
-Use of agents or attorneys to influence commemorative coin legislation.—No portion of any payment from the fund <sup>2</sup> to any designated recipient organization of any amount derived from the proceeds of any surcharge imposed on the sale of any numismatic item may be used, directly or indirectly, by the organization to compensate any agent or attorney for services rendered to support or influence in any way legislative action of the Congress relating to such numismatic item.
+Use of agents or attorneys to influence commemorative coin legislation.—No portion of any payment from the fund <sup>2</sup> to any designated recipient organization of any amount derived from the proceeds of any surcharge imposed on the sale of any numismatic item may be used, directly or indirectly, bythe organization to compensate any agent or attorney for services rendered to support or influence in any way legislative action of the Congress relating to such numismatic item.
 
 &emsp;(4)
 
@@ -276,7 +282,7 @@ Requirements.—Each report submitted under paragraph (1) shall include, with re
 
 &emsp;&emsp;(D) a description of the efforts of the Mint in keeping the sale price of numismatic items as low as practicable.
 
-(Added Pub. L. 102–390, title II, §221(a), Oct. 6, 1992, 106 Stat. 1624; amended Pub. L. 104–208, div. A, title I, §101(f) \[title V, §529(b)(1), (2), (c)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–349, 3009–350, 3009–352.)
+(Added Pub. L. 102–390, title II, §221(a), Oct. 6, 1992, 106 Stat. 1624; amended Pub. L. 104–208, div. A, title I, §101(f) \[title V, §529(b)(1), (2), (c)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–349, 3009–350, 3009–352; Pub. L. 106–445, §3, Nov. 6, 2000, 114 Stat. 1931.)
 
 #### References in Text
 
@@ -286,6 +292,10 @@ The date of enactment of the Treasury, Postal Service, and General Government Ap
 
 #### Amendments
 
+2000—Subsec. (e)(2). Pub. L. 106–445, §3(1), substituted “contain” for “reflect” in introductory provisions.
+
+Subsec. (e)(2)(E). Pub. L. 106–445, §3(2)–(4), added subpar. (E).
+
 1996—Subsec. (c)(2). Pub. L. 104–208, §101(f) \[title V, §529(b)(1)\], inserted “, including amounts attributable to any surcharge imposed with respect to the sale of any numismatic item” before period at end.
 
 Subsec. (f). Pub. L. 104–208, §101(f) \[title V, §529(b)(2)\], added subsec. (f).
@@ -294,7 +304,7 @@ Subsec. (g). Pub. L. 104–208, §101(f) \[title V, §529(c)\], added subsec. (g
 
 #### Effective Date of 1996 Amendment
 
-Section 101(f) \[title V, §529(b)(3)\] of Pub. L. 104–208 provided that: “The amendments made by this section \[probably should be this subsection, amending this section\] shall apply with respect to the proceeds of anysurcharge imposed on the sale of any numismatic item that are deposited in the Numismatic Public Enterprise Fund after the date of the enactment of this Act \[Sept. 30, 1996\].”
+Section 101(f) \[title V, §529(b)(3)\] of Pub. L. 104–208 provided that: “The amendments made by this section \[probably should be this subsection, amending this section\] shall apply with respect to the proceeds of any surcharge imposed on the sale of any numismatic item that are deposited in the Numismatic Public Enterprise Fund after the date of the enactment of this Act \[Sept. 30, 1996\].”
 
 #### Effective Date
 

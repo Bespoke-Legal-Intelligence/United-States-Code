@@ -4,7 +4,7 @@
 
 The Secretary shall conduct a study—
 
-&emsp;(1) to ascertain if the use of energy futures and options contracts could provide cost-effective protection for Government entities (including Government purchases for military purposes and for the Strategic Petroleum Reserve) and consumer cooperatives (or any organization whose purpose is to purchase fuel in bulk) from unanticipated surges in the price of fuel; and
+&emsp;(1) to ascertain if the use of energy futures and options contracts could provide cost-effective protection for Government entities (including Government purchases for militarypurposes and for the Strategic Petroleum Reserve) and consumer cooperatives (or any organization whose purpose is to purchase fuel in bulk) from unanticipated surges in the price of fuel; and
 
 &emsp;(2) to ascertain how such Government entities or consumer cooperatives may be educated in the prudent use of energy futures and options contracts to maximize their purchasing effectiveness, protect themselves against unanticipated surges in the price of fuel, and minimize fuel costs.
 
@@ -24,7 +24,7 @@ Subsection (b) of this section, referred to in subsec. (b), was repealed and sub
 
 #### Amendments
 
-1998—Subsecs. (b) to (d). Pub. L. 105–362 redesignated subsecs. (c) and (d) as (b) and (c), respectively, andstruck out heading and text of former subsec. (b). Text read as follows: “The Secretary, no later than 12 months after October 24, 1992, shall transmit the study required in this section to the Committee on Energy and Commerce of the House of Representatives and the Committee on Energy and Natural Resources of the Senate.”
+1998—Subsecs. (b) to (d). Pub. L. 105–362 redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out heading and text of former subsec. (b). Text read as follows: “The Secretary, no later than 12 months after October 24, 1992, shall transmit the study required in this section to the Committee on Energy and Commerce of the House of Representatives and the Committee on Energy and Natural Resources of the Senate.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -4,7 +4,7 @@
 
 Whenever the Secretary of Agriculture has reason to believe that:
 
-&emsp;(a) The current average farm price for any basic agricultural commodity is less than thefair exchange value thereof, or the average farm price of such commodity is likely to be less than the fair exchange value thereof for the period in which the production of such commodity during the current or next succeeding marketing year is normally marketed, and
+&emsp;(a) The current average farm price for any basic agricultural commodity is less than the fair exchange value thereof, or the average farm price of such commodity is likely to be less than the fair exchange value thereof for the period in which the production of such commodity during the current or next succeeding marketing year is normally marketed, and
 
 &emsp;(b) The conditions of and factors relating to the production, marketing, and consumption of such commodity are such that the exercise of any one or more of the powers conferred upon the Secretary under subsections (2) and (3) of this section would tend to effectuate the declared policy of this chapter,
 
@@ -85,14 +85,6 @@ Act Apr. 7, 1934, amended subsec. (2) by striking out proviso.
 #### Validity of Agreements and Licenses Preserved Under 1935 Act
 
 Section 38 of act Aug. 24, 1935, which amended this chapter generally, provided as follows: “Nothing contained in this Act shall (a), invalidate any marketing agreement or license in existence on the date of the enactment hereof \[Aug. 24, 1935\], or any provision thereof, or any act done pursuant thereto, either before or after the enactment of this Act, or (b) impair any remedy provided for on the date of the enactment thereof for the enforcement of any such marketing agreement or license, or (c) invalidate any agreement entered into pursuant to section 8(1) of the Agricultural Adjustment Act prior to the enactment of this Act, or subsequent to the enactment of this Act in connection with a program the initiation of which has been formally approved by the Secretary of Agriculture under such section 8(1) prior to the enactment of this Act, or any act done or agreed to be done or any payment made or agreed to be made in pursuance of any such agreement, either before or after the enactment of this Act, or any change in the terms and conditions of any such agreement, or any voluntary arrangements or further agreements which the Secretary finds necessary or desirable in order to complete or terminate such program pursuant to the declared policy of the Agricultural Adjustment Act \[this chapter\]; <i>Provided</i>, That the Secretary shall not prescribe, pursuant to any such agreement or voluntary arrangement, any adjustment in the acreage or in the production for market of any basic agricultural commodity to be made after July 1, 1937, except pursuant to the provisions of section 8 of the Agricultural Adjustment Act as amended by this Act.”
-
-#### Cross References
-
-Delegation of regulatory functions of Secretary of Agriculture, see section 450c of this title.
-
-Marketing quotas for tobacco, corn, wheat, cotton, and rice, see section 1311 et seq. of this title.
-
-Parity payments to producers, see section 1303 of this title.
 
 #### Section Referred to in Other Sections
 

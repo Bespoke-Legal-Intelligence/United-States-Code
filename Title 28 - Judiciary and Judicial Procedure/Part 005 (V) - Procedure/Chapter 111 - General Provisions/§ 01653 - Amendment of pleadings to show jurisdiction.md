@@ -12,7 +12,3 @@ Section was extended to permit amendment of all jurisdictional allegations inste
 
 Changes were made in phraseology.
 
-#### Federal Rules of Civil Procedure
-
-Amended and supplemental pleadings, see rules 12 and 15, Appendix to this title.
-

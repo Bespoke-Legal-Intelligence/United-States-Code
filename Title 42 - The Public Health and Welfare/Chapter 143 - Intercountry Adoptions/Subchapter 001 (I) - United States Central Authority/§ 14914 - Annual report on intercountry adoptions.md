@@ -1,0 +1,36 @@
+### §14914. Annual report on intercountry adoptions
+
+#### (a) Reports required
+
+Beginning 1 year after the date of the entry into force of the Convention for the United States and each year thereafter, the Secretary, in consultation with the Attorney General and other appropriate agencies, shall submit a report describing the activities of the central authority of the United States under this chapter during the preceding year to the Committee on International Relations, the Committee on Ways and Means, and the Committee on the Judiciary of the House of Representatives and the Committee on Foreign Relations, the Committee on Finance, and the Committee on the Judiciary of the Senate.
+
+#### (b) Report elements
+
+Each report under subsection (a) of this section shall set forth with respect to the year concerned, the following:
+
+&emsp;(1) The number of intercountry adoptions involving immigration to the United States, regardless of whether the adoption occurred under the Convention, including the country from which each child emigrated, the State to which each child immigrated, and the country in which the adoption was finalized.
+
+&emsp;(2) The number of intercountry adoptions involving emigration from the United States, regardless of whether the adoption occurred under the Convention, including the country to which each child immigrated and the State from which each child emigrated.
+
+&emsp;(3) The number of Convention placements for adoption in the United States that were disrupted, including the country from which the child emigrated, the age of the child, the date of the placement for adoption, the reasons for the disruption, the resolution of the disruption, the agencies that handled the placement for adoption, and the plans for the child, and in addition, any information regarding disruption or dissolution of adoptions of children from other countries received pursuant to section 622(b)(14) of this title.
+
+&emsp;(4) The average time required for completion of a Convention adoption, set forth by country from which the child emigrated.
+
+&emsp;(5) The current list of agencies accredited and persons approved under this chapter to provide adoption services.
+
+&emsp;(6) The names of the agencies and persons temporarily or permanently debarred under this chapter, and the reasons for the debarment.
+
+&emsp;(7) The range of adoption fees charged in connection with Convention adoptions involving immigration to the United States and the median of such fees set forth by the country of origin.
+
+&emsp;(8) The range of fees charged for accreditation of agencies and the approval of persons in the United States engaged in providing adoption services under the Convention.
+
+(Pub. L. 106–279, title I, §104, Oct. 6, 2000, 114 Stat. 829.)
+
+#### Effective Date
+
+Section effective upon entry into force for the United States of the Convention on Protection of Children and Co-operation in Respect of Intercountry Adoption, pursuant to Article 46(2)(a) of the Convention, with transition rule, see section 505(a)(2), (b) of Pub. L. 106–279, set out as an Effective Dates; Transition Rule note under section 14901 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 14923, 14953 of this title.
+

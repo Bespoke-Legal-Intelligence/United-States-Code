@@ -42,7 +42,7 @@ Pub. L. 93–198, title II, §204(a), Dec. 24, 1973, 87 Stat. 783, provided that
 
 #### Recruitment and Distribution of Farm Labor
 
-Act July 3, 1948, ch. 823, §1, 62 Stat. 1238, authorized the Federal Security Administrator to recruit foreign workers within the Western Hemisphere and workers in Puerto Rico for temporary agricultural employment inthe continental United States and to direct, supervise, coordinate, and provide for the transportation of those workers from such places of recruitment to and between places of employment within the continental United States and return to the places of recruitment not later than June 30, 1949.
+Act July 3, 1948, ch. 823, §1, 62 Stat. 1238, authorized the Federal Security Administrator to recruit foreign workers within the Western Hemisphere and workers in Puerto Rico for temporary agricultural employment in the continental United States and to direct, supervise, coordinate, and provide for the transportation of those workers from such places of recruitment to and between places of employment within the continental United States and return to the places of recruitment not later than June 30, 1949.
 
 Section 2 of act July 3, 1948, appropriated $2,500,000, for fiscal year ending June 30, 1949, to carry out the purposes of section 1 of act July 3, 1948.
 

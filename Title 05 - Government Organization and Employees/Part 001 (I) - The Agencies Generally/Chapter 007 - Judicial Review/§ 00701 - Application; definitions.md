@@ -52,7 +52,7 @@ Subsection (b) is added on authority of section 2 of the Act of June 11, 1946, c
 
 In subsection (b)(1)(G), the words “or naval” are omitted as included in “military”.
 
-In subsection (b)(1)(H), the words “functions which by law expire on the termination of present hostilities, within any fixed period thereafter, or before July 1, 1947” are omitted as executed. Reference to the “Selective Training and Service Act of 1940” is omitted asthat Act expired on Mar. 31, 1947. Reference to the “Sugar Control Extension Act of 1947” is omitted as that Act expired on Mar. 31, 1948. References to the “Housing and Rent Act of 1947, as amended” and the “Veterans’ Emergency Housing Act of 1946” have been consolidated as they are related. The reference to former section 1641(b)(2) of title 50, appendix, is retained notwithstanding its repeal by §111(a)(1) of the Act of Sept. 21, 1961, Pub. L. 87–256, 75 Stat. 538, since §111(c) of the Act provides that a reference in other Acts to a provision of law repealed by §111(a) shall be considered to be a reference to the appropriate provisions of Pub. L. 87–256.
+In subsection (b)(1)(H), the words “functions which by law expire on the termination of present hostilities, within any fixed period thereafter, or before July 1, 1947” are omitted as executed. Reference to the “Selective Training and Service Act of 1940” is omitted as that Act expired on Mar. 31, 1947. Reference to the “Sugar Control Extension Act of 1947” is omitted as that Act expired on Mar. 31, 1948. References to the “Housing and Rent Act of 1947, as amended” and the “Veterans’ Emergency Housing Act of 1946” have been consolidated as they are related. The reference to former section 1641(b)(2) of title 50, appendix, is retained notwithstanding its repeal by §111(a)(1) of the Act of Sept. 21, 1961, Pub. L. 87–256, 75 Stat. 538, since §111(c) of the Act provides that a reference in other Acts to a provision of law repealed by §111(a) shall be considered to be a reference to the appropriate provisions of Pub. L. 87–256.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -63,10 +63,6 @@ Sections 1891–1902 of title 50, appendix, referred to in subsec. (b)(1)(H), we
 #### Amendments
 
 1994—Subsec. (b)(1)(H). Pub. L. 103–272 substituted “subchapter II of chapter 471 of title 49; or sections” for “or sections 1622,”.
-
-#### Cross References
-
-Atomic Energy Community Act of 1955, administrative review only, see section 2309 of Title 42, The Public Health and Welfare.
 
 #### Section Referred to in Other Sections
 

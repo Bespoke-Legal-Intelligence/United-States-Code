@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—WITHHOLDING PAY
 
-#### Cross References
-
-Enforcement of legal obligations to provide child support and make alimony payments, see section 659 of Title 42, The Public Health and Welfare.
-
 #### Subchapter Referred to in Other Sections
 
 This subchapter is referred to in title 15 section 78d.

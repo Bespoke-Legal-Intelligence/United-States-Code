@@ -32,3 +32,4 @@ Part D—Offenses and Penalties
 - [&sect; 00862a - Denial of assistance and benefits for certain drug-related convictions](%C2%A7%2000862a%20-%20Denial%20of%20assistance%20and%20benefits%20for%20certain%20drug-related%20convictions.md)
 - [&sect; 00862b - Sanctioning for testing positive for controlled substances](%C2%A7%2000862b%20-%20Sanctioning%20for%20testing%20positive%20for%20controlled%20substances.md)
 - [&sect; 00863 - Drug paraphernalia](%C2%A7%2000863%20-%20Drug%20paraphernalia.md)
+- [&sect; 00864 - Anhydrous ammonia](%C2%A7%2000864%20-%20Anhydrous%20ammonia.md)

@@ -1,0 +1,340 @@
+### §7802. Internal Revenue Service Oversight Board
+
+#### (a) Establishment
+
+There is established within the Department of the Treasury the Internal Revenue Service Oversight Board (hereafter in this subchapter referred to as the “Oversight Board”).
+
+#### (b) Membership
+
+#### (1) Composition
+
+&emsp;The Oversight Board shall be composed of nine members, as follows:
+
+&emsp;&emsp;(A) six members shall be individuals who are not otherwise Federal officers or employees and who are appointed by the President, by and with the advice and consent of the Senate.
+
+&emsp;&emsp;(B) one member shall be the Secretary of the Treasury or, if the Secretary so designates, the Deputy Secretary of the Treasury.
+
+&emsp;&emsp;(C) one member shall be the Commissioner of Internal Revenue.
+
+&emsp;&emsp;(D) one member shall be an individual who is a full-time Federal employee or a representative of employees and who is appointed by the President, by and with the advice and consent of the Senate.
+
+#### (2) Qualifications and terms
+
+#### (A) Qualifications
+
+&emsp;&emsp;Members of the Oversight Board described in paragraph (1)(A) shall be appointed without regard to political affiliation and solely on the basis of their professional experience and expertise in one or more of the following areas:
+
+&emsp;&emsp;&emsp;(i) Management of large service organizations.
+
+&emsp;&emsp;&emsp;(ii) Customer service.
+
+&emsp;&emsp;&emsp;(iii) Federal tax laws, including tax administration and compliance.
+
+&emsp;&emsp;&emsp;(iv) Information technology.
+
+&emsp;&emsp;&emsp;(v) Organization development.
+
+&emsp;&emsp;&emsp;(vi) The needs and concerns of taxpayers.
+
+&emsp;&emsp;&emsp;(vii) The needs and concerns of small businesses.
+
+> &emsp;&emsp;In the aggregate, the members of the Oversight Board described in paragraph (1)(A) should collectively bring to bear expertise in all of the areas described in the preceding sentence.
+
+#### (B) Terms
+
+&emsp;&emsp;Each member who is described in subparagraph (A) or (D) of paragraph (1) shall be appointed for a term of 5 years, except that of the members first appointed under paragraph (1)(A)—
+
+&emsp;&emsp;&emsp;(i) two members shall be appointed for a term of 3 years,
+
+&emsp;&emsp;&emsp;(ii) two members shall be appointed for a term of 4 years, and
+
+&emsp;&emsp;&emsp;(iii) two members shall be appointed for a term of 5 years.
+
+#### (C) Reappointment
+
+&emsp;&emsp;An individual who is described in subparagraph (A) or (D) of paragraph (1) may be appointed to no more than two 5-year terms on the Oversight Board.
+
+#### (D) Vacancy
+
+&emsp;&emsp;Any vacancy on the Oversight Board shall be filled in the same manner as the original appointment. Any member appointed to fill a vacancy occurring before the expiration of the term for which the member's predecessor was appointed shall be appointed for the remainder of that term.
+
+#### (3) Ethical considerations
+
+#### (A) Financial disclosure
+
+&emsp;&emsp;During the entire period that an individual appointed under subparagraph (A) or (D) of paragraph (1) is a member of the Oversight Board, such individual shall be treated as serving as an officer or employee referred to in section 101(f) of the Ethics in Government Act of 1978 for purposes of title I of such Act, except that section 101(d) of such Act shall apply without regard to the number of days of service in the position.
+
+#### (B) Restrictions on post-employment
+
+&emsp;&emsp;For purposes of section 207(c) of title 18, United States Code, an individual appointed under subparagraph (A) or (D) of paragraph (1) shall be treated as an employee referred to in section 207(c)(2)(A)(i) of such title during the entire period the individual is a member of the Board, except that subsections (c)(2)(B) and (f) of section 207 of such title shall not apply.
+
+#### (C) Members who are special Government employees
+
+&emsp;&emsp;If an individual appointed under subparagraph (A) or (D) of paragraph (1) is a special Government employee, the following additional rules apply for purposes of chapter 11 of title 18, United States Code:
+
+#### (i) Restriction on representation
+
+&emsp;&emsp;&emsp;In addition to any restriction under section 205(c) of title 18, United States Code, except as provided in subsections (d) through (i) of section 205 of such title, such individual (except in the proper discharge of official duties) shall not, with or without compensation, represent anyone to or before any officer or employee of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the Oversight Board or the Internal Revenue Service on any matter;
+
+&emsp;&emsp;&emsp;&emsp;(II) the Department of the Treasury on any matter involving the internal revenue laws or involving the management or operations of the Internal Revenue Service; or
+
+&emsp;&emsp;&emsp;&emsp;(III) the Department of Justice with respect to litigation involving a matter described in subclause (I) or (II).
+
+#### (ii) Compensation for services provided by another
+
+&emsp;&emsp;&emsp;For purposes of section 203 of such title—
+
+&emsp;&emsp;&emsp;&emsp;(I) such individual shall not be subject to the restrictions of subsection (a)(1) thereof for sharing in compensation earned by another for representations on matters covered by such section, and
+
+&emsp;&emsp;&emsp;&emsp;(II) a person shall not be subject to the restrictions of subsection (a)(2) thereof for sharing such compensation with such individual.
+
+#### (D) Waiver
+
+&emsp;&emsp;The President may, only at the time the President nominates the member of the Oversight Board described in paragraph (1)(D), waive for the term of the member any appropriate provision of chapter 11 of title 18, United States Code, to the extent such waiver is necessary to allow such member to participate in the decisions of the Board while continuing to serve as a full-time Federal employee or a representative of employees. Any such waiver shall not be effective unless a written intent of waiver to exempt such member (and actual waiver language) is submitted to the Senate with the nomination of such member.
+
+#### (4) Quorum
+
+&emsp;Five members of the Oversight Board shall constitute a quorum. A majority of members present and voting shall be required for the Oversight Board to take action.
+
+#### (5) Removal
+
+#### (A) In general
+
+&emsp;&emsp;Any member of the Oversight Board appointed under subparagraph (A) or (D) of paragraph (1) may be removed at the will of the President.
+
+#### (B) Secretary and Commissioner
+
+&emsp;&emsp;An individual described in subparagraph (B) or (C) of paragraph (1) shall be removed upon termination of service in the office described in such subparagraph.
+
+#### (6) Claims
+
+#### (A) In general
+
+&emsp;&emsp;Members of the Oversight Board who are described in subparagraph (A) or (D) of paragraph (1) shall have no personal liability under Federal law with respect to any claim arising out of or resulting from an act or omission by such member within the scope of service as a member.
+
+#### (B) Effect on other law
+
+&emsp;&emsp;This paragraph shall not be construed—
+
+&emsp;&emsp;&emsp;(i) to affect any other immunities and protections that may be available to such member under applicable law with respect to such transactions;
+
+&emsp;&emsp;&emsp;(ii) to affect any other right or remedy against the United States under applicable law; or
+
+&emsp;&emsp;&emsp;(iii) to limit or alter in any way the immunities that are available under applicable law for Federal officers and employees.
+
+#### (c) General responsibilities
+
+#### (1) Oversight
+
+#### (A) In general
+
+&emsp;&emsp;The Oversight Board shall oversee the Internal Revenue Service in its administration, management, conduct, direction, and supervision of the execution and application of the internal revenue laws or related statutes and tax conventions to which the United States is a party.
+
+#### (B) Mission of IRS
+
+&emsp;&emsp;As part of its oversight functions described in subparagraph (A), the Oversight Board shall ensure that the organization and operation of the Internal Revenue Service allows it to carry out its mission.
+
+#### (C) Confidentiality
+
+&emsp;&emsp;The Oversight Board shall ensure that appropriate confidentiality is maintained in the exercise of its duties.
+
+#### (2) Exceptions
+
+&emsp;The Oversight Board shall have no responsibilities or authority with respect to—
+
+&emsp;&emsp;(A) the development and formulation of Federal tax policy relating to existing or proposed internal revenue laws, related statutes, and tax conventions,
+
+&emsp;&emsp;(B) specific law enforcement activities of the Internal Revenue Service, including specific compliance activities such as examinations, collection activities, and criminal investigations,
+
+&emsp;&emsp;(C) specific procurement activities of the Internal Revenue Service, or
+
+&emsp;&emsp;(D) except as provided in subsection (d)(3), specific personnel actions.
+
+#### (d) Specific responsibilities
+
+The Oversight Board shall have the following specific responsibilities:
+
+#### (1) Strategic plans
+
+&emsp;To review and approve strategic plans of the Internal Revenue Service, including the establishment of—
+
+&emsp;&emsp;(A) mission and objectives, and standards of performance relative to either, and
+
+&emsp;&emsp;(B) annual and long-range strategic plans.
+
+#### (2) Operational plans
+
+&emsp;To review the operational functions of the Internal Revenue Service, including—
+
+&emsp;&emsp;(A) plans for modernization of the tax system,
+
+&emsp;&emsp;(B) plans for outsourcing or managed competition, and
+
+&emsp;&emsp;(C) plans for training and education.
+
+#### (3) Management
+
+&emsp;To—
+
+&emsp;&emsp;(A) recommend to the President candidates for appointment as the Commissioner of Internal Revenue and recommend to the President the removal of the Commissioner;
+
+&emsp;&emsp;(B) review the Commissioner's selection, evaluation, and compensation of Internal Revenue Service senior executives who have program management responsibility over significant functions of the Internal Revenue Service; and
+
+&emsp;&emsp;(C) review and approve the Commissioner's plans for any major reorganization of the Internal Revenue Service.
+
+#### (4) Budget
+
+&emsp;To—
+
+&emsp;&emsp;(A) review and approve the budget request of the Internal Revenue Service prepared by the Commissioner;
+
+&emsp;&emsp;(B) submit such budget request to the Secretary of the Treasury; and
+
+&emsp;&emsp;(C) ensure that the budget request supports the annual and long-range strategic plans.
+
+#### (5) Taxpayer protection
+
+&emsp;To ensure the proper treatment of taxpayers by the employees of the Internal Revenue Service.
+
+> The Secretary shall submit the budget request referred to in paragraph (4)(B) for any fiscal year to the President who shall submit such request, without revision, to Congress together with the President's annual budget request for the Internal Revenue Service for such fiscal year.
+
+#### (e) Board personnel matters
+
+#### (1) Compensation of members
+
+#### (A) In general
+
+&emsp;&emsp;Each member of the Oversight Board who—
+
+&emsp;&emsp;&emsp;(i) is described in subsection (b)(1)(A); or
+
+&emsp;&emsp;&emsp;(ii) is described in subsection (b)(1)(D) and is not otherwise a Federal officer or employee,
+
+> &emsp;&emsp;shall be compensated at a rate of $30,000 per year. All other members shall serve without compensation for such service.
+
+#### (B) Chairperson
+
+&emsp;&emsp;In lieu of the amount specified in subparagraph (A), the Chairperson of the Oversight Board shall be compensated at a rate of $50,000 per year.
+
+#### (2) Travel expenses
+
+#### (A) In general
+
+&emsp;&emsp;The members of the Oversight Board shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, to attend meetings of the Oversight Board and, with the advance approval of the Chairperson of the Oversight Board, while otherwise away from their homes or regular places of business for purposes of duties as a member of the Oversight Board.
+
+#### (B) Report
+
+&emsp;&emsp;The Oversight Board shall include in its annual report under subsection (f)(3)(A) information with respect to the travel expenses allowed for members of the Oversight Board under this paragraph.
+
+#### (3) Staff
+
+#### (A) In general
+
+&emsp;&emsp;The Chairperson of the Oversight Board may appoint and terminate any personnel that may be necessary to enable the Board to perform its duties.
+
+#### (B) Detail of Government employees
+
+&emsp;&emsp;Upon request of the Chairperson of the Oversight Board, a Federal agency shall detail a Federal Government employee to the Oversight Board without reimbursement. Such detail shall be without interruption or loss of civil service status or privilege.
+
+#### (4) Procurement of temporary and intermittent services
+
+&emsp;The Chairperson of the Oversight Board may procure temporary and intermittent services under section 3109(b) of title 5, United States Code.
+
+#### (f) Administrative matters
+
+#### (1) Chair
+
+#### (A) Term
+
+&emsp;&emsp;The members of the Oversight Board shall elect for a 2-year term a chairperson from among the members appointed under subsection (b)(1)(A).
+
+#### (B) Powers
+
+&emsp;&emsp;Except as otherwise provided by a majority vote of the Oversight Board, the powers of the Chairperson shall include—
+
+&emsp;&emsp;&emsp;(i) establishing committees;
+
+&emsp;&emsp;&emsp;(ii) setting meeting places and times;
+
+&emsp;&emsp;&emsp;(iii) establishing meeting agendas; and
+
+&emsp;&emsp;&emsp;(iv) developing rules for the conduct of business.
+
+#### (2) Meetings
+
+&emsp;The Oversight Board shall meet at least quarterly and at such other times as the Chairperson determines appropriate.
+
+#### (3) Reports
+
+#### (A) Annual
+
+&emsp;&emsp;The Oversight Board shall each year report with respect to the conduct of its responsibilities under this title to the President, the Committees on Ways and Means, Government Reform and Oversight, and Appropriations of the House of Representatives and the Committees on Finance, Governmental Affairs, and Appropriations of the Senate.
+
+#### (B) Additional report
+
+&emsp;&emsp;Upon a determination by the Oversight Board under subsection (c)(1)(B) that the organization and operation of the Internal Revenue Service are not allowing it to carry out its mission, the Oversight Board shall report such determination to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate.
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 915; Pub. L. 93–406, title II, §1051(a), Sept. 2, 1974, 88 Stat. 951; Pub. L. 94–455, title XIX, §1906(b)(13)(A), (B), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–258, §2(f)(2), Sept. 13, 1982, 96 Stat. 1059; Pub. L. 100–647, title VI, §6235(a), Nov. 10, 1988, 102 Stat. 3737; Pub. L. 104–168, title I, §101(a), (b)(2), July 30, 1996, 110 Stat. 1453, 1455; Pub. L. 105–206, title I, §1101(a), July 22, 1998, 112 Stat. 691; Pub. L. 106–554, §1(a)(7) \[title III, §319(27)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–648.)
+
+#### References in Text
+
+The Ethics in Government Act of 1978, referred to in subsec. (b)(3)(A), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824, as amended. Title I of the Act is set out in the Appendix to Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5 and Tables.
+
+#### Amendments
+
+<b>2000</b>—Subsec. (b)(2)(B)(ii). Pub. L. 106–554 substituted a comma for semicolon before “and”.
+
+<b>1998</b>—Pub. L. 105–206 amended section catchline and text of section generally, substituting present provisions for provisions which: in subsec. (a), declared that there shall be in the Department of the Treasury a Commissioner of Internal Revenue, appointed by the President, with such duties and powers as prescribed by Secretary of the Treasury; in subsec. (b), established Office of Employee Plans and Exempt Organizations to carry out functions with respect to organizations exempt from tax and with respect to plans to which part I of subchapter D of chapter 1 applied; in subsec. (c), established Office for Taxpayer Services such as telephone, walk-in, and taxpayer educational services, and design and production of forms; and in subsec. (d), established Office of Taxpayer Advocate and set forth functions of Office and responsibilities of Commissioner regarding response to recommendations of Office. See section 7803 of this title.
+
+<b>1996</b>—Pub. L. 104–168, §101(b)(2), substituted “Commissioners; Taxpayer Advocate.” for “Commissioner (Employee Plans and Exempt Organizations)” in section catchline.
+
+Subsec. (d). Pub. L. 104–168, §101(a), added subsec. (d).
+
+<b>1988</b>—Subsec. (c). Pub. L. 100–647 added subsec. (c).
+
+<b>1982</b>—Subsec. (b). Pub. L. 97–258 redesignated existing provisions as par. (1), added par. (1) heading, and added par. (2). Par. (2) is based on provisions that appeared in section 1037 of former Title 31, Money and Finance, prior to enactment of Title 31 by Pub. L. 97–258.
+
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(B), substituted “Secretary of the Treasury” for “Secretary” after “prescribed by the”.
+
+Subsec. (b). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+
+<b>1974</b>—Pub. L. 93–406 designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### Change of Name
+
+Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–206, title I, §1101(d), July 22, 1998, 112 Stat. 697, provided that:
+
+“(1)
+
+In general.—The amendments made by this section \[amending this section and sections 4946 and 6103 of this title\] shall take effect on the date of the enactment of this Act \[July 22, 1998\].
+
+“(2)
+
+Initial nominations to internal revenue service oversight board.—The President shall submit the initial nominations under section 7802 of the Internal Revenue Code of 1986, as added by this section, to the Senate not later than 6 months after the date of the enactment of this Act \[July 22, 1998\].
+
+“(3)
+
+Effect on actions prior to appointment of oversight board.—Nothing in this section shall be construed to invalidate the actions and authority of the Internal Revenue Service prior to the appointment of the members of the Internal Revenue Service Oversight Board.”
+
+#### Effective Date of 1996 Amendment
+
+Section 101(c) of Pub. L. 104–168 provided that: “The amendments made by this section \[amending this section and section 7811 of this title\] shall take effect on the date of the enactment of this Act \[July 30, 1996\].”
+
+#### Effective Date of 1988 Amendment
+
+Section 6235(c) of Pub. L. 100–647 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date 180 days after the date of the enactment of this Act \[Nov. 10, 1988\].”
+
+#### Effective Date of 1974 Amendment
+
+Section 1051(d) of Pub. L. 93–406 provided that: “The amendments made by this section \[amending this section and sections 5108 and 5109 of Title 5, Government Organization and Employees\] shall take effect on the 90th day after the date of the enactment of this Act \[Sept. 2, 1974\].”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 6103, 7803 of this title.
+

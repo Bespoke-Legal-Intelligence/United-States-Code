@@ -26,7 +26,7 @@ The Farm Credit Administration shall have the following powers, functions, and r
 
 &emsp;(C) Subparagraph (B) shall apply only in those geographic areas where, due to the failure of a Federal intermediate credit bank to merge in accordance with section 410(a) of the Agricultural Credit Act of 1987 (12 U.S.C. 2011 note), the Federal intermediate credit bank or its successor is chartered to provide short- and intermediate-term credit, and a neighboring Farm Credit Bank that is not the successor to the Federal intermediate credit bank is chartered to provide long-term credit, in the same geographic territory.
 
-&emsp;(3) Make annual reports directly to Congress on the condition of the System and its institutions, based on the examinations carried out under section 2254 of this title, and on the manner and extent to which the purposes and objectives of this chapter are being carried out and, from time to time, recommend directly legislative changes. The annual reports shall include a summary and analysis of the reports submitted to the Farm Credit Administration by the Farm Credit Banks under section 2207(b) of this title relating to programs for serving young, beginning, and small farmers and ranchers.
+&emsp;(3) Make annual reports directly to Congress on the condition of the System and its institutions, based on the examinations carried out under section 2254 of this title, and on the manner and extent to which the purposes and objectives of this chapter are being carried out and, from time to time, recommend directly legislative changes. The annual reports shall include a summary and analysis of the reports submitted to the Farm Credit Administrationby the Farm Credit Banks under section 2207(b) of this title relating to programs for serving young, beginning, and small farmers and ranchers.
 
 &emsp;(4) Approve the issuance of obligations of the System under subsections (c) and (d) of section 2153 of this title for the purpose of funding the authorized operations of the institutions of the System, and prescribe collateral therefor.
 
@@ -110,7 +110,7 @@ The Farm Credit Administration shall not have authority, either direct or indire
 
 (4) Congressional inaction on or rejection of a resolution of disapproval shall not be deemed an expression of approval of such regulation.
 
-(Pub. L. 92–181, title V, §5.17, formerly §5.18, Dec. 10, 1971, 85 Stat. 621; Pub. L. 96–592, title V, §§507, 508, Dec. 24, 1980, 94 Stat. 3449; renumbered§5.17 and amended Pub. L. 99–205, title II, §201(7), Dec. 23, 1985, 99 Stat. 1691; Pub. L. 99–509, title I, §1036, Oct. 21, 1986, 100 Stat. 1878; Pub. L. 100–233, title II, §207(a)(2), title IV, §417, formerly §414, §418(d), formerly §415(d), §§424(a), 431(e), title VIII, §§802(v), 805(z), Jan. 6, 1988, 101 Stat. 1607, 1653, 1656, 1660, 1713, 1717, renumbered §§417, 418(d), Pub. L. 100–399, title IV, §409(a), Aug. 17, 1988, 102 Stat. 1003; Pub. L. 100–399, title II, §205, title IV, §409(e), title IX, §901(m), (n), Aug. 17, 1988, 102 Stat. 993, 1003, 1008; Pub. L. 101–624, title XVIII, §1843(a)(1), Nov. 28, 1990, 104 Stat. 3836; Pub. L. 102–237, title V, §502(h), Dec. 13, 1991, 105 Stat. 1869; Pub. L. 102–552, title IV, §401(c), title V, §511, Oct. 28, 1992, 106 Stat. 4128, 4132; Pub. L. 104–105, title II, §§210, 211, Feb. 10, 1996, 110 Stat. 174.)
+(Pub. L. 92–181, title V, §5.17, formerly §5.18, Dec. 10, 1971, 85 Stat. 621; Pub. L. 96–592, title V, §§507, 508, Dec. 24, 1980, 94 Stat. 3449; renumbered §5.17 and amended Pub. L. 99–205, title II, §201(7), Dec. 23, 1985, 99 Stat. 1691; Pub. L. 99–509, title I, §1036, Oct. 21, 1986, 100 Stat. 1878; Pub. L. 100–233, title II, §207(a)(2), title IV, §417, formerly §414, §418(d), formerly §415(d), §§424(a), 431(e), title VIII, §§802(v), 805(z), Jan. 6, 1988, 101 Stat. 1607, 1653, 1656, 1660, 1713, 1717, renumbered §§417, 418(d), Pub. L. 100–399, title IV, §409(a), Aug. 17, 1988, 102 Stat. 1003; Pub. L. 100–399, title II, §205, title IV, §409(e), title IX, §901(m), (n), Aug. 17, 1988, 102 Stat. 993, 1003, 1008; Pub. L. 101–624, title XVIII, §1843(a)(1), Nov. 28, 1990, 104 Stat. 3836; Pub. L. 102–237, title V, §502(h), Dec. 13, 1991, 105 Stat. 1869; Pub. L. 102–552, title IV, §401(c), title V, §511, Oct. 28, 1992, 106 Stat. 4128, 4132; Pub. L. 104–105, title II, §§210, 211, Feb. 10, 1996, 110 Stat. 174.)
 
 #### Prior Provisions
 
@@ -198,7 +198,11 @@ Amendment by Pub. L. 99–205 effective thirty days after Dec. 23, 1985, see sec
 
 #### Regulations
 
-Section 424(b) of Pub. L. 100–233 provided that: “Within 30 days after the date of the enactment of this Act \[Jan. 6, 1988\], the Farm Credit Administration shall amend its regulations as necessary to implement the amendment made by subsection (a) \[amending this section\].”
+Section 424(b) of Pub. L. 100–233 provided that: “Within 30 days after the date of the enactment of this Act \[Jan. 6, 1988\], the Farm Credit Administration shallamend its regulations as necessary to implement the amendment made by subsection (a) \[amending this section\].”
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (a)(3) of this section relating to requirement to make annual reports to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 166 of House Document No. 103–7.
 
 #### Regulatory Review
 

@@ -4,9 +4,17 @@ This chapter may be cited as the “Tariff Act of 1930.”
 
 (June 17, 1930, ch. 497, title IV, §654, 46 Stat. 763.)
 
+#### Short Title of 2000 Amendments
+
+Pub. L. 106–476, §1, Nov. 9, 2000, 114 Stat. 2101, provided that: “This Act \[enacting subtitle V of this chapter and section 1308 of this title, amending sections 58c, 1313, 1433, 1434, 1441, 1484, 1505, and 1555 of this title, section 5314 of Title 5, Government Organization and Employees, section 69 of Title 15, Commerce and Trade, and sections 5704, 5754, and 5761 of Title 26, Internal Revenue Code, and section 91 of Title 46, Appendix, Shipping, and enacting provisions set out as notes under this section and sections 58c, 1308, 1313, 1484, 1681, and 2434 of this title, sections 1, 5704, and 5761 of Title 26, and section 1113 of Title 31, Money and Finance\] may be cited as the ‘Tariff Suspension and Trade Act of 2000’.”
+
+Pub. L. 106–476, title I, §1441, Nov. 9, 2000, 114 Stat. 2163, provided that: “This chapter \[chapter 3 (§§1441–1443) of subtitle B of title I of Pub. L. 106–476, enacting section 1308 of this title, amending section 69 of Title 15, Commerce and Trade, and enacting provisions set out as notes under section 1308 of this title\], may be cited as the ‘Dog and Cat Protection Act of 2000’.”
+
+Pub. L. 106–387, §1(a) \[title X, §1001\], Oct. 28, 2000, 114 Stat. 1549, 1549A–72, provided that: “This title \[enacting section 1675c of this title and provisions set out as notes under section 1675c of this title\] may be cited as the ‘Continued Dumping and Subsidy Offset Act of 2000’.”
+
 #### Short Title of 1999 Amendment
 
-Pub. L. 106–36, §1(a), June 25, 1999, 113 Stat. 127, provided that: “This Act \[enacting section 1484b of this title, amending sections 58c, 81c, 81i, 1304, 1313, 1411, 1441, 1505, 1514, 1515, 1520, 1555, 1557, 1558, 1584, 1592, 1631, 1675, 2171, 2194, 2293, 2436, 2463, 2492, 2494, and 2495 of thistitle, sections 620 and 620c of Title 16, Conservation, sections 262n–2, 286gg, 1978, and 5712 of Title 22, Foreign Relations and Intercourse, sections 351, 357, 358, 362, 368, 584, and 1031 of Title 26, Internal Revenue Code, section 891e of Title 33, Navigation and Navigable Waters, sections 2296b, 2296b–6, and 6374 of Title 42, The Public Health and Welfare, and section 50103 of Title 49, Transportation, repealing sections 1708 and 2441 of this title, and enacting provisions set out as notes under sections 58c, 1304, 1313, 1484b, 1514, and 2434 of this title and section 351 of Title 26\] may be cited as the ‘Miscellaneous Trade and Technical Corrections Act of 1999’.”
+Pub. L. 106–36, §1(a), June 25, 1999, 113 Stat. 127, provided that: “This Act \[enacting section 1484b of this title, amending sections 58c, 81c, 81i, 1304, 1313, 1411, 1441, 1505, 1514, 1515, 1520, 1555, 1557, 1558, 1584, 1592, 1631, 1675, 2171, 2194, 2293, 2436, 2463, 2492, 2494, and 2495 of this title, sections 620 and 620c of Title 16, Conservation, sections 262n–2, 286gg, 1978, and 5712 of Title 22, Foreign Relations and Intercourse, sections 351, 357, 358, 362, 368, 584, and 1031 of Title 26, Internal Revenue Code, section 891e of Title 33, Navigation and Navigable Waters, sections 2296b, 2296b–6, and 6374 of Title 42, The Public Health and Welfare, and section 50103 of Title 49, Transportation, repealing sections 1708 and 2441 of this title, and enacting provisions set out as notes under sections 58c, 1304, 1313, 1484b, 1514, and 2434 of this title and section 351 of Title 26\] may be cited as the ‘Miscellaneous Trade and Technical Corrections Act of 1999’.”
 
 #### Short Title of 1996 Amendment
 
@@ -48,7 +56,7 @@ Section 1 of Pub. L. 85–686, Aug. 20, 1958, 72 Stat. 673, provided: “That th
 
 #### Short Title of 1956 Amendment
 
-Section 1 of act Aug. 2, 1956, ch. 887, 70 Stat. 943, provided: “That this Act \[enacting section 1401a of this title, amending sections 1001, 1402, 1500, and 1583 of this title, and section 372 of former Title 31, Money and Finance, repealing sections 12 to 18, 21, 24, 26 to 28, 30, 40, 53 to 57, 59, 61, 62, 67, 376, 379, 390, 494, 526, 541, 542, 549, and 579 of this title, and section 711 of former Title 31, and enacting provisions set out as notes under sections 2, 160, 1351, 1401a, and 1402 of this title\] may be cited as the ‘Customs Simplification Act of 1956’.”
+Section 1 of act Aug. 2, 1956, ch. 887, 70 Stat. 943, provided: “That this Act \[enacting section 1401a of thistitle, amending sections 1001, 1402, 1500, and 1583 of this title, and section 372 of former Title 31, Money and Finance, repealing sections 12 to 18, 21, 24, 26 to 28, 30, 40, 53 to 57, 59, 61, 62, 67, 376, 379, 390, 494, 526, 541, 542, 549, and 579 of this title, and section 711 of former Title 31, and enacting provisions set out as notes under sections 2, 160, 1351, 1401a, and 1402 of this title\] may be cited as the ‘Customs Simplification Act of 1956’.”
 
 #### Short Title of 1955 Amendment
 

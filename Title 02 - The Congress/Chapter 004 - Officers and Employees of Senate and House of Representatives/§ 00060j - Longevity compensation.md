@@ -44,9 +44,9 @@ Subsecs. (a) and (b) of this section are from subsecs. (a) and (b) of section 10
 
 #### Amendments
 
-1982—Subsec. (b)(1). Figure “463” deemed to refer to the figure “482”, effective Oct. 1, 1982, pursuant to Pub. L. 91–656, §4, see section 10 of Salary Directive of President pro tempore of the Senate, Oct. 1, 1982, set out as a note under section 60a–1 of this title.
+1982—Subsec. (b)(1). Figure “463” deemed to refer to the figure “482”, effective Oct. 1, 1982, pursuant to Pub.L. 91–656, §4, see section 10 of Salary Directive of President pro tempore of the Senate, Oct. 1, 1982, set out as a note under section 60a–1 of this title.
 
-1981—Subsec. (b)(1). Figure “$441” deemed to refer to the figure “$463”, effective Oct. 1, 1981, pursuant toPub. L. 91–656, §4, see section 9 of Salary Directive of President pro tempore of the Senate, Oct. 5, 1981, set out as a note under section 60a–1 of this title.
+1981—Subsec. (b)(1). Figure “$441” deemed to refer to the figure “$463”, effective Oct. 1, 1981, pursuant to Pub. L. 91–656, §4, see section 9 of Salary Directive of President pro tempore of the Senate, Oct. 5, 1981, set out as a note under section 60a–1 of this title.
 
 1980—Subsec. (b)(1). Figure “404” deemed to refer to the figure “441”, effective Oct. 1, 1980, pursuant to Pub. L. 91–656, §4, see section 10 of Salary Directive of President pro tempore of the Senate, Oct. 1, 1980, set out as a note under section 60a–1 of this title.
 

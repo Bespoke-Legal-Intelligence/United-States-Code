@@ -24,7 +24,7 @@
 
 #### (3) Notice
 
-&emsp;Upon making a determination under paragraph (1) of this subsection or under section 4616 or 4617 of this title to appoint a conservator for an enterprise, or upon consent of the enterprise under paragraph (2) to such an appointment, the Director shall provide written notice to the enterprise, the Committee on Banking, Finance and Urban Affairs of the House of Representatives, and the Committee on Banking, Housing, and Urban Affairs of the Senate—
+&emsp;Upon making a determination under paragraph (1) of this subsection or under section4616 or 4617 of this title to appoint a conservator for an enterprise, or upon consent of the enterprise under paragraph (2) to such an appointment, the Director shall provide written notice to the enterprise, the Committee on Banking, Finance and Urban Affairs of the House of Representatives, and the Committee on Banking, Housing, and Urban Affairs of the Senate—
 
 &emsp;&emsp;(A) that a conservator will be appointed for the enterprise;
 
@@ -92,7 +92,7 @@ This chapter, referred to in subsec. (a)(1)(A), was in the original “this titl
 
 #### Change of Name
 
-Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Section Referred to in Other Sections
 

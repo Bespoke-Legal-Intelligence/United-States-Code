@@ -26,7 +26,7 @@ The National Council shall be comprised of regional representation from the Nort
 
 &emsp;(D) three members who reside in or do substantial fishing industry business in the Alaska region;
 
-&emsp;(E) two members-at-large with demonstrated expertise in fresh-water and inland commercial fisheries, at least one of whom is not aresident of the States of the Alaska, Pacific, Southeast, and Northeast regions; and
+&emsp;(E) two members-at-large with demonstrated expertise in fresh-water and inland commercial fisheries, at least one of whom is not a resident of the States of the Alaska, Pacific, Southeast, and Northeast regions; and
 
 &emsp;(F) one member-at-large who is either a person professionally engaged in the dissemination of information pertaining to the nutritional benefits and preparation of fish and fish products or a person who is a member of an organized labor union and has expertise in the United States fisheries.
 
@@ -34,7 +34,7 @@ The National Council shall be comprised of regional representation from the Nort
 
 #### (e) Term of office
 
-Members of the National Council shall be appointed for a term of 4 years. A vacancy in the National Council shall not affect its ability to function. The Secretary shall appoint a new member within sixty days to fill a vacancy in an unexpired term. Any member may remain on the National Council beyond that member's term until a successor is appointed.
+Members of the National Council shall be appointed for a term of 4 years. A vacancy in the National Council shall not affect its ability to function. The Secretary shall appoint a newmember within sixty days to fill a vacancy in an unexpired term. Any member may remain on the National Council beyond that member's term until a successor is appointed.
 
 #### (f) Chairman
 

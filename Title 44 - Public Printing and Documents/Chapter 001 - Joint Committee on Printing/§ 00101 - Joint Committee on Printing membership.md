@@ -20,6 +20,10 @@ Last seven words in the statute, “who shall have the powers hereinafter stated
 
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
+#### Short Title of 2000 Amendment
+
+Pub. L. 106–444, §1, Nov. 6, 2000, 114 Stat. 1929, provided that: “This Act \[enacting section 2910 of this title\] may be cited as the ‘Freedmen's Bureau Records Preservation Act of 2000’.”
+
 #### Short Title of 1995 Amendment
 
 Pub. L. 104–13, §1, May 22, 1995, 109 Stat. 163, provided that: “This Act \[enacting chapter 35 of this title, amending section 91 of Title 13, Census, and enacting provisions set out as a note under section 3501 of this title\] may be cited as the ‘Paperwork Reduction Act of 1995’.”
@@ -46,7 +50,7 @@ Pub. L. 98–497, §1, Oct. 19, 1984, 98 Stat. 2280, provided: “That this Act 
 
 #### Short Title of 1980 Amendment
 
-Pub. L. 96–511, §1, Dec. 11, 1980, 94 Stat. 2812, provided: “That this Act \[enacting sections 3501 to 3520 of this title, amending sections 2904 and 2905 of this title, section 5315 of Title 5, Government Organizations and Employees, section 1221–3 of Title 20, Education, section 1211 of Title 30, Mineral Lands and Mining, and section292h of Title 42, The Public Health and Welfare, omitting former sections 3501 to 3512 of this title, and enacting provisions set out as notes under sections 3501 and 3503 of this title\] may be cited as the ‘Paperwork Reduction Act of 1980’.”
+Pub. L. 96–511, §1, Dec. 11, 1980, 94 Stat. 2812, provided: “That this Act \[enacting sections 3501 to 3520 of this title, amending sections 2904 and 2905 of this title, section 5315 of Title 5, Government Organizations and Employees, section 1221–3 of Title 20, Education, section 1211 of Title 30, Mineral Lands and Mining, and section 292h of Title 42, The Public Health and Welfare, omitting former sections 3501 to 3512 of this title, and enacting provisions set out as notes under sections 3501 and 3503 of this title\] may be cited as the ‘Paperwork Reduction Act of 1980’.”
 
 #### Short Title of 1978 Amendment
 
@@ -59,4 +63,8 @@ Pub. L. 94–575, §1, Oct. 21, 1976, 90 Stat. 2723, provided that: “This Act 
 #### Short Title of 1974 Amendment
 
 Pub. L. 93–526, title II, §201, Dec. 19, 1974, 88 Stat. 1698, provided that: “This title \[enacting sections 3315 to 3324 of this title\] may be cited as the ‘Public Documents Act’.”
+
+#### Short Title
+
+Chapter 35 of this title is popularly known as the “Paperwork Reduction Act”.
 

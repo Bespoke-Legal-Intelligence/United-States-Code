@@ -10,18 +10,6 @@ Based on title 18, U.S.C., 1940 ed., §§618, 619 (June 15, 1917, ch. 30, title 
 
 Said sections 618 and 619 were consolidated with minor changes in phraseology but without change of substance.
 
-#### Canal Zone
-
-Applicability of section to Canal Zone, see section 14 of this title.
-
-#### Federal Rules of Criminal Procedure
-
-Search warrants and seizures, see rule 41, Appendix to this title.
-
-#### Cross References
-
-Authority, exceeding in executing warrant, see section 2234 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 14 of this title.

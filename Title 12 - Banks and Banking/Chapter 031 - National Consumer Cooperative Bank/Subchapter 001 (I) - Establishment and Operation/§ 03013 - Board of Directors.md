@@ -26,7 +26,7 @@ The Bank shall be governed by a Board of Directors (hereinafter in this chapter 
 
 > may continue to serve until their successors have been appointed and qualified.
 
-(2) Any member of the Board of Directors of the Bank who was elected by the holders of class B or class C stock before the Final GovernmentEquity Redemption Date shall serve the remainder of the term for which such member was elected.
+(2) Any member of the Board of Directors of the Bank who was elected by the holders of class B or class C stock before the Final Government Equity Redemption Date shall serve the remainder of the term for which such member was elected.
 
 (3) Any member appointed pursuant to subsection (b)(1) of this section shall be entitled to sit on any committee of the Board, but not more than one member so appointed may sit on any one committee.
 

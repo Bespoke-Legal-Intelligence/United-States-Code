@@ -18,7 +18,7 @@ Projects supported under this section shall include—
 
 &emsp;(5) programs which emphasize the development and demonstration of new and improved methods for the dissemination to the general public of information—
 
-&emsp;&emsp;(A) on the importance of early detection of arthritis and musculoskeletal diseases, ofseeking prompt treatment, and of following an appropriate regimen; and
+&emsp;&emsp;(A) on the importance of early detection of arthritis and musculoskeletal diseases, of seeking prompt treatment, and of following an appropriate regimen; and
 
 &emsp;&emsp;(B) to discourage the promotion and use of unapproved and ineffective diagnostic, preventive treatment, and control methods for arthritis and unapproved and ineffective drugs and devices for arthritis and musculoskeletal diseases; and
 

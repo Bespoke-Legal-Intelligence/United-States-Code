@@ -44,7 +44,7 @@ No origination fee or insurance premium shall be charged to the borrower on any 
 
 #### (i) Commencement of repayment
 
-Repayment of a combined payment plan shall commence within 60 days after the later of thedate of acceptance of the lender's offer to administer a combined payment plan, the making of the consolidation loan or the reissuance of any Health Education Assistance Loans pursuant to subsection (e) of this section.
+Repayment of a combined payment plan shall commence within 60 days after the later of the date of acceptance of the lender's offer to administer a combined payment plan, the making of the consolidation loan or the reissuance of any Health Education Assistance Loans pursuant to subsection (e) of this section.
 
 (Pub. L. 89–329, title IV, §485A, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1484; amended Pub. L. 100–50, §15(12), June 3, 1987, 101 Stat. 357.)
 

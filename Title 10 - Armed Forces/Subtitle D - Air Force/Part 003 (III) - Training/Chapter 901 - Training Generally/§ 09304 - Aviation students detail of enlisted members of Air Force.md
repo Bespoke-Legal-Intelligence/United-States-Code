@@ -20,7 +20,3 @@ June 3, 1941, ch. 167, 55 Stat. 241.
 
 The words “under such regulations as he may prescribe” are omitted, since the Secretary has inherent authority to issue regulations appropriate to exercising his statutory functions. 10:298a–1 (1st proviso) is omitted as impliedly repealed by section 10 of the Insurance Act of 1951, ch. 39, 65 Stat. 36. 10:298a–1 (last proviso) is omitted as surplusage. The words “active duty” are substituted for the words “active Federal service”.
 
-#### Cross References
-
-Discharge of aviation cadets at any time, see section 8817 of this title.
-

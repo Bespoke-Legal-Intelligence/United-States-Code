@@ -18,13 +18,5 @@ This section corrects a typographical error by eliminating from section 1449 of 
 
 #### Amendments
 
-1949—Act May 24, 1949, substituted “and the clerk of such State court, upon” for “any attachment or sequestration of the”.
-
-#### Federal Rules of Civil Procedure
-
-Continuation of former sections 78 and 82, see note by Advisory Committee under rule 81, Appendix to this title.
-
-#### Cross References
-
-Writs of certiorari to State courts, see section 1447 of this title.
+<b>1949</b>—Act May 24, 1949, substituted “and the clerk of such State court, upon” for “any attachment or sequestration of the”.
 

@@ -74,7 +74,7 @@ Subsec. (e). Pub. L. 102–321, §163(b)(1)(C), (D), in concluding provisions, s
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, andjurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Effective Date of 1992 Amendment
 
@@ -108,6 +108,10 @@ Prior fiscal years.—
 
 &emsp;&emsp;“(B) Subparagraph (A) does not apply with respect to the amendments made by this Act to part B of title XIX of the Public Health Service Act \[section 300x et seq. of this title\]. Section 205(a) \[set out as a note under section 300x of this title\] applies with respect to the program established in such part.”
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (e) of this section relating to the requirement to submit an annual report to certain committees of Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 101 of House Document No. 103–7.
+
 #### Use of “CDC” as Acronym for Centers for Disease Control and Prevention
 
 Section 312(i) of Pub. L. 102–531 provided that: “The amendments made by this section \[amending this section, sections 247d, 280b to 280b–2, 285c–4, 285d–7, 285m–4, 289c, 290aa–9, 290bb–1, 300u–5, 300aa–2, 300aa–19, 300aa–26, 300cc, 300cc–2, 300cc–15, 300cc–17, 300cc–20, 300cc–31, 300ee–1, 300ee–2, 300ee–31, 300ee–32, 300ee–34, 300ff–11 to 300ff–13, 300ff–17, 300ff–27, 300ff–28, 300ff–41, 300ff–43, 300ff–49, 300ff–75, 4841, and 9604 of this title, section 1341 of Title 15, Commerce and Trade, section 2001 of Title 25, Indians, and provisions set out as notes under sections 241 and 281 of this title and section 303 of Title 38, Veterans’ Benefits\] may not be construed as prohibiting the Director of the Centers for Disease Control and Prevention from utilizing for official purposes the term ‘CDC’ as an acronym for such Centers.”
@@ -122,7 +126,7 @@ Establishment.—There is established the National Commission on Orphan Diseases
 
 “(b)
 
-Duty.—The Commission shall assess the activities of the National Institutes of Health, the Food andDrug Administration, other public agencies, and private entities in connection with—
+Duty.—The Commission shall assess the activities of the National Institutes of Health, the Food and Drug Administration, other public agencies, and private entities in connection with—
 
 &emsp;“(1) basic research conducted on rare diseases;
 
@@ -164,7 +168,7 @@ Composition.—The Commission shall be composed of twenty members appointed by t
 
 &emsp;“(4) One nonvoting member shall be appointed from officers or employees of the Food and Drug Administration who the Secretary determines are involved with rare diseases.
 
-> A vacancy in the Commission shall be filled in the manner in which the original appointment was made. If any member of the Commission who was appointed to the Commission as a director of a national research institute or as an officer or employee of the Food and Drug Administration leaves that office or position, or if any member of the Commission who was appointed from persons who are not officers or employees of the Government becomes an officer or employee of the Government, such member may continue as a member of the Commission for not longer than the ninety-day period beginning on the date such member leaves that office or position or becomes such an officer or employee, as the case may be.
+> A vacancy in the Commission shall be filled in the manner in which the original appointment was made. If any member of the Commission who was appointed to the Commission as a director of a national research institute or as an officer or employee of the Food and Drug Administration leaves that office or position, or if any member of the Commission who was appointed from persons who are not officers or employees of the Government becomes an officer or employee of theGovernment, such member may continue as a member of the Commission for not longer than the ninety-day period beginning on the date such member leaves that office or position or becomes such an officer or employee, as the case may be.
 
 “(e)
 

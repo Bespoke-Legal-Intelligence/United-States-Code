@@ -104,10 +104,6 @@ In subsection (f), the word “considers” is substituted for the words “may 
 
 Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under section 101 of this title.
 
-#### Cross References
-
-Transfer, reassignment, consolidation or abolition of functions, powers and duties, see section 125 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 125 of this title.

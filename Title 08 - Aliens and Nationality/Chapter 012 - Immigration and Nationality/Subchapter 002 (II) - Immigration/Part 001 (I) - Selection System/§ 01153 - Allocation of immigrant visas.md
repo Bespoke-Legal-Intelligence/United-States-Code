@@ -92,7 +92,7 @@ Aliens subject to the worldwide level specified in section 1151(d) of this title
 
 #### (III) Statutory construction
 
-&emsp;&emsp;&emsp;&emsp;Nothing in this subparagraph may be construed to prevent the filing of a petition with the Attorney General for classification under section 1154(a) of this title, or the filing of an application foradjustment of status under section 1255 of this title, by an alien physician described in subclause (I) prior to the date by which such alien physician has completed the service described in subclause (II).
+&emsp;&emsp;&emsp;&emsp;Nothing in this subparagraph may be construed to prevent the filing of a petition with the Attorney General for classification under section 1154(a) of this title, or the filing of an application for adjustment of status under section 1255 of this title, by an alien physician described in subclause (I) prior to the date by which such alien physician has completed the service described in subclause (II).
 
 #### (IV) Effective date
 
@@ -130,7 +130,7 @@ Aliens subject to the worldwide level specified in section 1151(d) of this title
 
 #### (4) Certain special immigrants
 
-&emsp;Visas shall be made available, in a number not to exceed 7.1 percent of such worldwide level, to qualified special immigrants described in section 1101(a)(27) of this title (other than those described in subparagraph (A) or (B) thereof), of which not more than 5,000 may be made available in any fiscal year to special immigrants described in subclause (II) or (III) of section 1101(a)(27)(C)(ii) of this title.
+&emsp;Visas shall be made available, in a number not to exceed 7.1 percent of such worldwide level, to qualified special immigrants described in section 1101(a)(27) of this title (other than those described in subparagraph (A) or (B) thereof), of which not more than 5,000 may be made available in any fiscal year to special immigrants described in subclause (II) or (III) of section 1101(a)(27)(C)(ii) of this title, and not more than 100 may be made available in any fiscal year to special immigrants, excluding spouses and children, who are described in section 1101(a)(27)(M) of this title.
 
 #### (5) Employment creation
 
@@ -156,13 +156,13 @@ Aliens subject to the worldwide level specified in section 1151(d) of this title
 
 #### (iii) “Rural area” defined
 
-&emsp;&emsp;&emsp;In this paragraph, the term “rural area” means any area other than an area within a metropolitan statistical area or within the outer boundary of any city or town having a population of 20,000 or more\(based on the most recent decennial census of the United States).
+&emsp;&emsp;&emsp;In this paragraph, the term “rural area” means any area other than an area within a metropolitan statistical area or within the outer boundary of any city or town having a population of 20,000 or more (based on the most recent decennial census of the United States).
 
 #### (C) Amount of capital required
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as otherwise provided in this subparagraph, the amount of capital required under subparagraph (A) shall be $1,000,000. The Attorney General, in consultation with the Secretary of Labor and the Secretary of State, may from time to time prescribe regulations increasing the dollar amount specified under the previous sentence.
+&emsp;&emsp;&emsp;Except as otherwise provided in this subparagraph, the amount of capital requiredunder subparagraph (A) shall be $1,000,000. The Attorney General, in consultation with the Secretary of Labor and the Secretary of State, may from time to time prescribe regulations increasing the dollar amount specified under the previous sentence.
 
 #### (ii) Adjustment for targeted employment areas
 
@@ -232,7 +232,7 @@ Aliens subject to the worldwide level specified in section 1151(d) of this title
 
 &emsp;&emsp;The Attorney General shall determine—
 
-&emsp;&emsp;&emsp;(i) based on available estimates for each region, the total population of each region not including the population of any high-admission state;
+&emsp;&emsp;&emsp;(i) based on available estimates for each region, the total population of each regionnot including the population of any high-admission state;
 
 &emsp;&emsp;&emsp;(ii) for each low-admission region, the ratio of the population of the region determined under clause (i) to the total of the populations determined under such clause for all the low-admission regions; and
 
@@ -310,19 +310,21 @@ A spouse or child as defined in subparagraph (A), (B), (C), (D), or (E) of secti
 
 #### (f) Authorization for issuance
 
-In the case of any alien claiming in his application for an immigrant visa to be described in section 1151(b)(2) of this title or in subsection\(a), (b), or (c) of this section, the consular officer shall not grant such status until he has been authorized to do so as provided by section 1154 of this title.
+In the case of any alien claiming in his application for an immigrant visa to be described in section 1151(b)(2) of this title or in subsection (a), (b), or (c) of this section, the consular officer shall not grant such status until he has been authorized to do so as provided by section 1154 of this title.
 
 #### (g) Lists
 
-For purposes of carrying out the Secretary's responsibilities in the orderly administration of this section, the Secretary of State may make reasonable estimates of the anticipated numbers of visas to be issued during any quarter of any fiscal year within each of the categories under subsections (a), (b), and (c) of this section and to rely upon such estimates in authorizing the issuance of visas. The Secretary of State shall terminate the registration of any alien who fails to apply for an immigrant visa within one year following notification to the alien of the availability of such visa, but the Secretary shall reinstate the registration of any such alien who establishes within 2 years following the date of notification of the availability of such visa that such failure to apply was due to circumstances beyond the alien's control.
+For purposes of carrying out the Secretary's responsibilities in the orderly administration of this section, the Secretary of State may makereasonable estimates of the anticipated numbers of visas to be issued during any quarter of any fiscal year within each of the categories under subsections (a), (b), and (c) of this section and to rely upon such estimates in authorizing the issuance of visas. The Secretary of State shall terminate the registration of any alien who fails to apply for an immigrant visa within one year following notification to the alien of the availability of such visa, but the Secretary shall reinstate the registration of any such alien who establishes within 2 years following the date of notification of the availability of such visa that such failure to apply was due to circumstances beyond the alien's control.
 
-(June 27, 1952, ch. 477, title II, ch. 1, §203, 66 Stat. 178; Pub. L. 85–316, §3, Sept. 11, 1957, 71 Stat. 639; Pub. L. 86–363, §§1–3, Sept. 22, 1959, 73 Stat. 644; Pub. L. 89–236, §3, Oct. 3, 1965, 79 Stat. 912; Pub. L. 94–571, §4, Oct. 20, 1976, 90 Stat. 2705; Pub. L. 95–412, §3, Oct. 5, 1978, 92 Stat. 907; Pub. L. 95–417, §1, Oct. 5, 1978, 92 Stat. 917; Pub. L. 96–212, title II, §203(c), (i), Mar. 17, 1980, 94 Stat. 107, 108; Pub. L. 101–649, title I, §§111, 121(a), 131, 162(a)(1), title VI, §603(a)(3), Nov. 29, 1990, 104 Stat. 4986, 4987, 4997, 5009, 5082; Pub. L. 102–110, §2(b), Oct. 1, 1991, 105 Stat. 555; Pub. L. 102–232, title III, §302(b)(2), (e)(3), Dec. 12, 1991, 105 Stat. 1743, 1745; Pub. L. 103–416, title II, §§212(b), 219(c), Oct. 25, 1994, 108 Stat. 4314, 4316; Pub. L. 106–95, §5, Nov. 12, 1999, 113 Stat. 1318; Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §117\], Nov. 29, 1999, 113 Stat. 1535, 1501A–21.)
+(June 27, 1952, ch. 477, title II, ch. 1, §203, 66 Stat. 178; Pub. L. 85–316, §3, Sept. 11, 1957, 71 Stat. 639; Pub. L. 86–363, §§1–3, Sept. 22, 1959, 73 Stat. 644; Pub. L. 89–236, §3, Oct. 3, 1965, 79 Stat. 912; Pub. L. 94–571, §4, Oct. 20, 1976, 90 Stat. 2705; Pub. L. 95–412, §3, Oct. 5, 1978, 92 Stat. 907; Pub. L. 95–417, §1, Oct. 5, 1978, 92 Stat. 917; Pub. L. 96–212, title II, §203(c), (i), Mar. 17, 1980, 94 Stat. 107, 108; Pub. L. 101–649, title I, §§111, 121(a), 131, 162(a)(1), title VI, §603(a)(3), Nov. 29, 1990, 104 Stat. 4986, 4987, 4997, 5009, 5082; Pub. L. 102–110, §2(b), Oct. 1, 1991, 105 Stat. 555; Pub. L. 102–232, title III, §302(b)(2), (e)(3), Dec. 12, 1991, 105 Stat. 1743, 1745; Pub. L. 103–416, title II, §§212(b), 219(c), Oct. 25, 1994, 108 Stat. 4314, 4316; Pub. L. 106–95, §5, Nov. 12, 1999, 113 Stat. 1318; Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §117\], Nov. 29, 1999, 113 Stat. 1535, 1501A–21; Pub. L. 106–536, §1(b)(1), Nov. 22, 2000, 114 Stat. 2560.)
 
 #### References in Text
 
 The enactment date of this subsection, referred to in subsec. (b)(2)(B)(ii)(IV), probably means the date of enactment of Pub. L. 106–95, which amended subsec. (b)(2)(B) of this section generally, and which was approved Nov. 12, 1999.
 
 #### Amendments
+
+2000—Subsec. (b)(4). Pub. L. 106–536 inserted before period at end “, and not more than 100 may be made available in any fiscal year to special immigrants, excluding spouses and children, who are described in section 1101(a)(27)(M) of this title”.
 
 1999—Subsec. (b)(2)(B). Pub. L. 106–95 and Pub. L. 106–113 amended subpar. (B) generally in substantially identical manner. Pub. L. 106–95 provided headings. Text is based on Pub. L. 106–113. Prior to amendment, text read as follows: “The Attorney General may, when he deems it to be in the national interest, waive the requirement of subparagraph (A) that an alien's services in the sciences, arts, professions, or business be sought by an employer in the United States.”
 
@@ -380,7 +382,7 @@ Subsec. (g). Pub. L. 96–212, §203(c)(8), struck out subsec. (g) which set for
 
 Pub. L. 96–212, §203(i), substituted provisions relating to inspection and examination of refugees after one year for provisions relating to inspection and examination of refugees after two years.
 
-Subsec. (h). Pub. L. 96–212, §203(c)(8), struck out subsec. (h) which related to the retroactive readjustmentof refugee status as an alien lawfully admitted for permanent residence.
+Subsec. (h). Pub. L. 96–212, §203(c)(8), struck out subsec. (h) which related to the retroactive readjustment of refugee status as an alien lawfully admitted for permanent residence.
 
 1978—Subsec. (a)(1) to (7). Pub. L. 95–412 substituted “1151(a) of this title” for “1151(a)(1) or (2) of this title” wherever appearing.
 
@@ -410,6 +412,10 @@ Subsec. (a)(4). Pub. L. 86–363, §3, substituted “married sons or married da
 
 1957—Subsec. (a)(1). Pub. L. 85–316 substituted “or following to join him” for “him”.
 
+#### Effective Date of 2000 Amendment
+
+Pub. L. 106–536, §1(b)(2), Nov. 22, 2000, 114 Stat. 2561, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to visas made available in any fiscal year beginning on or after October 1, 2000.”
+
 #### Effective Date of 1994 Amendment
 
 Amendment by section 219(c) of Pub. L. 103–416 effective as if included in the enactment of the Immigration Act of 1990, Pub. L. 101–649, see section 219(dd) of Pub. L. 103–416, set out as a note under section 1101 of this title.
@@ -438,11 +444,39 @@ Amendment by Pub. L. 94–571 effective on first day of first month which begins
 
 For effective date of amendment by Pub. L. 89–236, see section 20 of Pub. L. 89–236, set out as a note under section 1151 of this title.
 
+#### Recapture of Unused Employment-Based Immigrant Visas
+
+Pub. L. 106–313, title I, §106(d), Oct. 17, 2000, 114 Stat. 1254, provided that:
+
+“(1)
+
+In general.—Notwithstanding any other provision of law, the number of employment-based visas (asdefined in paragraph (3)) made available for a fiscal year (beginning with fiscal year 2001) shall be increased by the number described in paragraph (2). Visas made available under this subsection shall only be available in a fiscal year to employment-based immigrants under paragraph (1), (2), or (3) of section 203(b) of the Immigration and Nationality Act \[8 U.S.C. 1153(b)\].
+
+“(2)
+
+Number available.—
+
+&emsp;“(A)
+
+In general.—Subject to subparagraph (B), the number described in this paragraph is the difference between the number of employment-based visas that were made available in fiscal years 1999 and 2000 and the number of such visas that were actually used in such fiscal years.
+
+&emsp;“(B)
+
+Reduction.—The number described in subparagraph (A) shall be reduced, for each fiscal year after fiscal year 2001, by the cumulative number of immigrant visas actually used under paragraph (1) for previous fiscal years.
+
+&emsp;“(C)
+
+Construction.—Nothing in this paragraph shall be construed as affecting the application of section 201(c)(3)(C) of the Immigration and Nationality Act (8 U.S.C. 1151(c)(3)(C)).
+
+“(3)
+
+Employment-based visas defined.—For purposes of this subsection, the term ‘employment-based visa’ means an immigrant visa which is issued pursuant to the numerical limitation under section 203(b) of the Immigration and Nationality Act (8 U.S.C. 1153(b)).”
+
 #### Temporary Reduction in Workers’ Visas
 
 Pub. L. 105–100, title II, §203(e), Nov. 19, 1997, 111 Stat. 2199, as amended by Pub. L. 105–139, §1(e), Dec. 2, 1997, 111 Stat. 2645, provided that:
 
-“(1) Beginning in the fiscal year following the fiscal year in which a visa has been made available under section 203(b)(3)(A)(iii) of the Immigration and NationalityAct \[8 U.S.C. 1153(b)(3)(A)(iii)\] for all aliens who are the beneficiary of a petition approved under section 204 of such Act \[8 U.S.C. 1154\] as of the date of the enactment of this Act \[Nov. 19, 1997\] for classification under section 203(b)(3)(A)(iii) of such Act, subject to paragraph (2), visas available under section 203(b)(3)(A)(iii) of that Act shall be reduced by 5,000 from the number of visas otherwise available under that section for such fiscal year.
+“(1) Beginning in the fiscal year following the fiscal year in which a visa has been made available under section 203(b)(3)(A)(iii) of the Immigration and Nationality Act \[8 U.S.C. 1153(b)(3)(A)(iii)\] for all aliens who are the beneficiary of a petition approved under section 204 of such Act \[8 U.S.C. 1154\] as of the date of the enactment of this Act \[Nov. 19, 1997\] for classification under section 203(b)(3)(A)(iii) of such Act, subject to paragraph (2), visas available under section 203(b)(3)(A)(iii) of that Act shall be reduced by 5,000 from the number of visas otherwise available under that section for such fiscal year.
 
 “(2) In no case shall the reduction under paragraph (1) for a fiscal year exceed the amount by which—
 
@@ -516,7 +550,7 @@ Regulations.—The Attorney General shall prescribe regulations to carry out sub
 
 “(c)
 
-Limitation.—Not more than 750 eligible independent states and Baltic scientists (excluding spouses and children if accompanying or following to join) within the class designated under subsection (a) may be allotted visas under section 203(b)(2)(A) of the Immigration and Nationality Act (8 U.S.C. 1153(b)(2)(A)).
+Limitation.—Not more than 750 eligible independent states and Baltic scientists (excluding spousesand children if accompanying or following to join) within the class designated under subsection (a) may be allotted visas under section 203(b)(2)(A) of the Immigration and Nationality Act (8 U.S.C. 1153(b)(2)(A)).
 
 “(d)
 
@@ -524,13 +558,13 @@ Termination.—The authority of subsection (a) shall terminate 4 years after the
 
 #### Pilot Immigration Program
 
-Pub. L. 102–395, title VI, §610, Oct. 6, 1992, 106 Stat. 1874, as amended by Pub. L. 105–119, title I, §116(a), Nov. 26, 1997, 111 Stat. 2467, provided that:
+Pub. L. 102–395, title VI, §610, Oct. 6, 1992, 106 Stat. 1874, as amended by Pub. L. 105–119, title I, §116(a), Nov. 26, 1997, 111 Stat. 2467; Pub. L. 106–396, §402, Oct. 30, 2000, 114 Stat. 1647, provided that:
 
 “(a) Of the visas otherwise available under section 203(b)(5) of the Immigration and Nationality Act (8 U.S.C. 1153(b)(5)), the Secretary of State, together with the Attorney General, shall set aside visas for a pilot program to implement the provisions of such section. Such pilot program shall involve a regional center in the United States for the promotion of economic growth, including increased export sales, improved regional productivity, job creation, and increased domestic capital investment.
 
-“(b) For purposes of the pilot program established in subsection (a), beginning on October 1, 1992, but no later than October 1, 1993, the Secretary of State, together with the Attorney General, shall set aside 3,000 visas annually for seven years to include such aliens as are eligible for admission under section 203(b)(5) of the Immigration and Nationality Act \[8 U.S.C. 1153(b)(5)\] and this section, as well as spouses or children which are eligible, under the terms of the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\], to accompany or follow to join such aliens.
+“(b) For purposes of the pilot program established in subsection (a), beginning on October 1, 1992, but no later than October 1, 1993, the Secretary of State, together with the Attorney General, shall set aside 3,000 visas annually for 10 years to include such aliens as are eligible for admission under section 203(b)(5) of the Immigration and Nationality Act \[8 U.S.C. 1153(b)(5)\] and this section, as well as spouses or children which are eligible, under the terms of the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\], to accompany or follow to join such aliens.
 
-“(c) In determining compliance with section 203(b)(5)(A)(iii) of the Immigration and Nationality Act\[8 U.S.C. 1153(b)(5)(A)(iii)\], and notwithstanding the requirements of 8 CFR 204.6, the Attorney General shall permit aliens admitted under the pilot program described in this section to establish reasonable methodologies for determining the number of jobs created by the pilot program, including such jobs which are estimated to have been created indirectly through revenues generated from increased exports resulting from the pilot program.”
+“(c) In determining compliance with section 203(b)(5)(A)(iii) of the Immigration and Nationality Act \[8 U.S.C. 1153(b)(5)(A)(iii)\], and notwithstanding the requirements of 8 CFR 204.6, the Attorney General shall permit aliens admitted under the pilot program described in this section to establish reasonable methodologies for determining the number of jobs created by the pilot program, including such jobs which are estimated to have been created indirectly through revenues generated from increased exports, improved regional productivity, job creation, or increased domestic capital investment resulting from the pilot program.”
 
 \[Section 116(b) of Pub. L. 105–119 provided that: “The amendment made by subsection (a)(2) \[amending section 610 of Pub. L. 102–395, set out above\] shall be deemed to have become effective on October 6, 1992.”\]
 
@@ -598,7 +632,7 @@ Employees of certain united states businesses operating in hong kong.—An alien
 
 “(b)
 
-Petitions.—Any employer desiring and intending to employ within the United States an alien described in subsection (a)(3) may file a petition with the Attorney General for such classification. No visa may be issued under subsection (a)(1) until such a petition has been approved.
+Petitions.—Any employer desiring and intending to employ within the United States an alien described in subsection (a)(3) may file a petition with the Attorney General for such classification. No visa maybe issued under subsection (a)(1) until such a petition has been approved.
 
 “(c)
 
@@ -626,7 +660,7 @@ Specialized knowledge.—The term ‘specialized knowledge’ has the meaning gi
 
 &emsp;“(5)
 
-Supervisor.—The term ‘supervisor’ means any individual having authority, in the interest of the employer, to hire, transfer, suspend, lay off, recall, promote, discharge, assign, reward, or disciplineother employees, or responsibility to direct them, or to adjust their grievances, or effectively recommend such action, if in connection with the foregoing the exercise of such authority is not merely of a routine or clerical nature, but requires the use of independent judgment.”
+Supervisor.—The term ‘supervisor’ means any individual having authority, in the interest of the employer, to hire, transfer, suspend, lay off, recall, promote, discharge, assign, reward, or discipline other employees, or responsibility to direct them, or to adjust their grievances, or effectively recommend such action, if in connection with the foregoing the exercise of such authority is not merely of a routine or clerical nature, but requires the use of independent judgment.”
 
 \[Section 124 of Pub. L. 101–649 effective Nov. 29, 1990, and (unless otherwise provided) applicable to fiscal year 1991, see section 161(b) of Pub. L. 101–649, set out as an Effective Date of 1990 Amendment note under section 1101 of this title.\]
 
@@ -738,7 +772,7 @@ Section 9 of Pub. L. 94–571 provided that:
 
 “(a) The amendments made by this Act \[see Short Title of 1976 Amendment note set out under section 1101 of this title\] shall not operate to effect the entitlement to immigrant status or the order of consideration for issuance of an immigrant visa of an alien entitled to a preference status, under section 203(a) of the Immigration and Nationality Act \[subsec. (a) of this section\] as in effect on the day before the effective date of this Act \[see Effective Date of 1976 Amendment note set out under section 1101 of this title\], on the basis of a petition filed with the Attorney General prior to such effective date.
 
-“(b) An alien chargeable to the numerical limitation contained in section 21(e) of the Act of October 3, 1965 (79 Stat. 921) \[which provided that unless legislation inconsistent therewith was enacted on or before June 30, 1968, the number of special immigrants within the meaning of section 1101(a)(27)(A) of this title, exclusive of special immigrants who were immediate relatives of United States citizens as described in section 1151(b) of this title, should not, in the fiscal year beginning July 1, 1968, or in any fiscal year thereafter, exceed a total of 120,000\] who established a priority date at a consular office on the basis of entitlement to immigrant status under statutory or regulatory provisions in existence on the day before the effective date of this Act \[see Effective Date of 1976 Amendment note under section 1101 of this title\] shall be deemed to be entitled to immigrant status under section 203(a)(8) of the Immigration and Nationality Act \[subsec. (a)(8) of this section\] and shall be accorded the priority date previously established by him. Nothing in this section shall be construed to preclude the acquisition by such an alien of a preference status under section 203(a) of the Immigration and Nationality Act \[subsec. (a) of this section\], as amended by section 4 of this Act. Any petition filed by, or in behalf of, such an alien to accord him a preference status under section 203(a) \[subsec. (a) of this section\] shall, upon approval, be deemed to have been filed as of the priority date previously established by such alien. The numerical limitation to which such an alien shall be chargeable shall be determined as provided in sections 201 and 202 of the Immigration and Nationality Act \[sections 1151 and 1152 of this title\], as amended by this Act \[see Short Title of 1976 Amendment note set out under section 1101 of this title\].”
+“(b) An alien chargeable to the numerical limitation contained in section 21(e) of the Act of October 3, 1965 (79 Stat. 921) \[which provided that unless legislation inconsistent therewith was enacted on or before June 30, 1968, the number of special immigrants within the meaning of section 1101(a)(27)(A) of this title, exclusive of special immigrants who were immediate relatives of United States citizens as described in section 1151(b) of this title, should not, in the fiscal year beginning July 1, 1968, or in any fiscal year thereafter, exceed a total of 120,000\] who established a priority date at a consular office on the basis of entitlement to immigrant status under statutory or regulatory provisions in existence on the day before the effective date of this Act \[see Effective Date of 1976 Amendment note under section 1101 of this title\] shall be deemed to be entitled to immigrant status under section 203(a)(8) of the Immigration and Nationality Act \[subsec. (a)(8) of this section\] andshall be accorded the priority date previously established by him. Nothing in this section shall be construed to preclude the acquisition by such an alien of a preference status under section 203(a) of the Immigration and Nationality Act \[subsec. (a) of this section\], as amended by section 4 of this Act. Any petition filed by, or in behalf of, such an alien to accord him a preference status under section 203(a) \[subsec. (a) of this section\] shall, upon approval, be deemed to have been filed as of the priority date previously established by such alien. The numerical limitation to which such an alien shall be chargeable shall be determined as provided in sections 201 and 202 of the Immigration and Nationality Act \[sections 1151 and 1152 of this title\], as amended by this Act \[see Short Title of 1976 Amendment note set out under section 1101 of this title\].”
 
 #### Nonquota Immigrant Status of Certain Relatives of United States Citizens; Issuance of Nonquota Immigrant Visas on Basis of Petitions Filed Prior to January 1, 1962
 
@@ -746,7 +780,7 @@ Pub. L. 87–885, §1, Oct. 24, 1962, 76 Stat. 1247, which provided that certain
 
 #### Nonquota Immigrant Status of Skilled Specialists; Issuance of Nonquota Immigrant Visas on Basis of Petitions Filed Prior to April 1, 1962
 
-Pub. L. 87–885, §2, Oct. 24, 1962, 76 Stat. 1247, which provided that certain alien skilled specialists eligiblefor a quota immigrant status on the basis of a petition filed with the Attorney General prior to April 1, 1962, be held to be nonquota immigrants and be issued nonquota immigrant visas, was repealed by Pub. L. 99–653, §11, Nov. 14, 1986, 100 Stat. 3657, as amended by Pub. L. 100–525, §8(j)(1), Oct. 24, 1988, 102 Stat. 2617, eff. Nov. 14, 1986.
+Pub. L. 87–885, §2, Oct. 24, 1962, 76 Stat. 1247, which provided that certain alien skilled specialists eligible for a quota immigrant status on the basis of a petition filed with the Attorney General prior to April 1, 1962, be held to be nonquota immigrants and be issued nonquota immigrant visas, was repealed by Pub. L. 99–653, §11, Nov. 14, 1986, 100 Stat. 3657, as amended by Pub. L. 100–525, §8(j)(1), Oct. 24, 1988, 102 Stat. 2617, eff. Nov. 14, 1986.
 
 #### Issuance of Nonquota Immigrant Visas to Certain Eligible Orphans
 
@@ -782,11 +816,7 @@ Section 4 of Pub. L. 86–363 providing that an alien registered on a consular w
 
 Repeal of section 4 of Pub. L. 86–363 effective upon expiration of the one hundred and eightieth day immediately following Sept. 26, 1961, see section 24(b) of Pub. L. 87–301, set out as a note under former section 1255a of this title.
 
-#### Cross References
-
-Definition of alien, application for admission, Attorney General, child, consular officer, immigrant, immigrant visa, immigration officer, lawfully admitted for permanent residence, parent, and spouse, see section 1101 of this title.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1151, 1152, 1154, 1182, 1183a, 1186a, 1186b, 1227, 1255, 1641 of this title; title 42 section 1382j.
+This section is referred to in sections 1101, 1151, 1152, 1154, 1182, 1183a, 1184, 1186a, 1186b, 1227, 1255, 1356, 1574, 1641 of this title; title 42 section 1382j.
 

@@ -42,7 +42,7 @@ Committee on Foreign Affairs of House of Representatives treated as referring to
 
 #### Appropriations for Expenses of Interparliamentary Groups
 
-Pub. L. 98–164, title I, §109(b), (c), Nov. 22, 1983, 97 Stat. 1019, as amended by Pub. L. 99–415, §7(b), Sept. 19,1986, 100 Stat. 949; Pub. L. 100–459, title III, §303(b), Oct. 1, 1988, 102 Stat. 2207; Pub. L. 101–515, title III, §304(b), Nov. 5, 1990, 104 Stat. 2128; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VII, §701(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–459, provided that:
+Pub. L. 98–164, title I, §109(b), (c), Nov. 22, 1983, 97 Stat. 1019, as amended by Pub. L. 99–415, §7(b), Sept. 19, 1986, 100 Stat. 949; Pub. L. 100–459, title III, §303(b), Oct. 1, 1988, 102 Stat. 2207; Pub. L. 101–515, title III, §304(b), Nov. 5, 1990, 104 Stat. 2128; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VII, §701(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–459, provided that:
 
 “(b) There are authorized to be appropriated each fiscal year $50,000, to be equally divided between delegations of the Senate and the House of Representatives, to assist in meeting the expenses of the United States Group of the British-American Parliamentary Group. Amounts appropriated under this section \[amending section 1928e of this title and enacting this note\] are authorized to remain available until expended.
 

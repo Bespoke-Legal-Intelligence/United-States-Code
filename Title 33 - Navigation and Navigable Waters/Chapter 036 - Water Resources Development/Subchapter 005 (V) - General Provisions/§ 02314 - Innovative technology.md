@@ -34,7 +34,7 @@ The Secretary shall, whenever feasible, seek to promote long- and short-term cos
 
 #### (c) Reports
 
-Within 2 years after November 17, 1988, and thereafter at the Secretary's discretion, the Secretary shall provide Congress with a report on the results of, and recommendations to increase, the development and use of innovative technology in water resources development projects under the Secretary's jurisdiction. Such report shall also contain information regarding innovative technologies which the Secretary has considered and rejected for use in water resourcesdevelopment projects under the Secretary's jurisdiction.
+Within 2 years after November 17, 1988, and thereafter at the Secretary's discretion, the Secretary shall provide Congress with a report on the results of, and recommendations to increase, the development and use of innovative technology in water resources development projects under the Secretary's jurisdiction. Such report shall also contain information regarding innovative technologies which the Secretary has considered and rejected for use in water resources development projects under the Secretary's jurisdiction.
 
 #### (d) “Innovative technology” defined
 
@@ -49,6 +49,22 @@ Section was enacted as part of the Water Resources Development Act of 1988, and 
 #### Amendments
 
 1999—Subsecs. (b) to (d). Pub. L. 106–53 added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
+
+#### Design-Build Contracting
+
+Pub. L. 106–541, title II, §221, Dec. 11, 2000, 114 Stat. 2596, provided that:
+
+“(a)
+
+Pilot Program.—The Secretary \[of the Army\] may conduct a pilot program consisting of not more than 5 authorized projects to test the design-build method of project delivery on various authorized civil works projects of the Corps of Engineers, including levees, pumping plants, revetments, dikes, dredging, weirs, dams, retaining walls, generation facilities, mattress laying, recreation facilities, and other water resources facilities.
+
+“(b)
+
+Design-Build Defined.—In this section, the term ‘design-build’ means an agreement between the Federal Government and a contractor that provides for both the design and construction of a project by a single contract.
+
+“(c)
+
+Report.—Not later than 4 years after the date of enactment of this Act \[Dec. 11, 2000\], the Secretary shall transmit to Congress a report on the results of the pilot program.”
 
 #### Review of Innovative Dredging Technologies
 

@@ -14,7 +14,7 @@ A prior section 963, Pub. L. 93–203, title VI, §603, as added Pub. L. 93–56
 
 Provisions similar to those comprising this section were contained in former section 962 of this title prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
-Section 964, Pub. L. 93–203, title VI, §604, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 2007; amended Pub. L. 96–583, §3(b), Dec. 23, 1980, 94 Stat. 3376, related to allocation of funds with regard to public service employment programs.
+Section 964, Pub. L. 93–203, title VI, §604, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 2007; amendedPub. L. 96–583, §3(b), Dec. 23, 1980, 94 Stat. 3376, related to allocation of funds with regard to public service employment programs.
 
 A prior section 964, Pub. L. 93–203, title VI, §604, as added Pub. L. 93–567, title I, §101, Dec. 31, 1974, 88 Stat. 1846, related to special provision for areas of excessively high unemployment and for expansion of job opportunities, prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
@@ -43,8 +43,4 @@ Section 969, Pub. L. 93–203, title VI, §609, as added Pub. L. 95–524, §2, 
 A prior section 969, Pub. L. 93–203, title VI, §609, as added Pub. L. 94–444, §5(a), Oct. 1, 1976, 90 Stat. 1479, related to approval of project applications, prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
 Section 970, Pub. L. 93–203, title VI, §610, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 2009, related to utilization of funds available under public service employment programs.
-
-#### Effective Date of Repeal
-
-Section 184(a) of Pub. L. 97–300 provided that the repeal of these sections is effective Oct. 13, 1982.
 

@@ -8,7 +8,3 @@ The Secretary may report any violation of this chapter to the Attorney General o
 
 1935—Act Aug. 15, 1921, title V, §503, as added Aug. 14, 1935, purported to insert “or any live poultry dealer or handler” after “packer” but word “packer” does not appear in this section.
 
-#### Cross References
-
-Enforcement by Secretary of Agriculture under this chapter, with respect to activities subject to this chapter, of requirements imposed under section 1601 et seq. of Title 15, Commerce and Trade, see section 1607 of Title 15.
-

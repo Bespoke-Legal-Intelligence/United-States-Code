@@ -38,7 +38,7 @@ Discretionary Transfer of Parts.—The Secretary may transfer from the inventory
 
 Limitation on Demilitarization of M–1
 
-Rifles.—After February 10, 1996, the Secretary may not demilitarize an M–1 Garand rifle in theinventory of the Army unless the Defense Logistics Agency decides the rifle is unserviceable.
+Rifles.—After February 10, 1996, the Secretary may not demilitarize an M–1 Garand rifle in the inventory of the Army unless the Defense Logistics Agency decides the rifle is unserviceable.
 
 (g)
 

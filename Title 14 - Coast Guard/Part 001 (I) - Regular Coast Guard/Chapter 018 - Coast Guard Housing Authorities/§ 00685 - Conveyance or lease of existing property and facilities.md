@@ -18,15 +18,19 @@ Inapplicability of Certain Property Management Laws.—The conveyance or lease o
 
 &emsp;(2) Section 321 of the Act of June 30, 1932 (commonly known as the Economy Act) (47 Stat. 412, chapter 314; 40 U.S.C. 303b).
 
-&emsp;(3) The Stewart B. McKinney Homeless Assistance Act (42 U.S.C. 11301 et seq.).
+&emsp;(3) The McKinney-Vento Homeless Assistance Act (42 U.S.C. 11301 et seq.).
 
-(Added Pub. L. 104–324, title II, §208(a), Oct. 19, 1996, 110 Stat. 3911.)
+(Added Pub. L. 104–324, title II, §208(a), Oct. 19, 1996, 110 Stat. 3911; amended Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675.)
 
 #### References in Text
 
 The Federal Property and Administrative Services Act of 1949, referred to in subsec. (c)(1), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. The provisions of that Act relating to management and disposal of government property are classified to chapter 10 (§471 et seq.) of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
 
-The Stewart B. McKinney Homeless Assistance Act, referred to in subsec. (c)(3), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended, which is classified principally to chapter 119 (§11301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
+The McKinney-Vento Homeless Assistance Act, referred to in subsec. (c)(3), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended, which is classified principally to chapter 119 (§11301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
+
+#### Amendments
+
+2000—Subsec. (c)(3). Pub. L. 106–400 substituted “McKinney-Vento Homeless Assistance Act” for “Stewart B. McKinney Homeless Assistance Act”.
 
 #### Section Referred to in Other Sections
 

@@ -22,7 +22,3 @@ Amendment by Pub. L. 98–369 applicable with respect to any solicitation for bi
 
 Section effective July 1, 1949, see section 605 of act June 30, 1949, set out as a note under section 471 of Title 40, Public Buildings, Property, and Works.
 
-#### Cross References
-
-Laws inapplicable to armed services contracts, see section 2314 of Title 10, Armed Forces.
-

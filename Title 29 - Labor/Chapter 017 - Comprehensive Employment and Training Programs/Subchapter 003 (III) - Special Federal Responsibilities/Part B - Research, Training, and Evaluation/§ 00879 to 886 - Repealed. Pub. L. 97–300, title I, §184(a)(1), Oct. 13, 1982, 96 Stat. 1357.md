@@ -38,7 +38,3 @@ A prior section 885, Pub. L. 93–203, title III, §315, Dec. 28, 1973, 87 Stat.
 
 Section 886, Pub. L. 93–203, title III, §318, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 1974, related to employment and training activities to stimulate local private economic development.
 
-#### Effective Date of Repeal
-
-Section 184(a) of Pub. L. 97–300 provided that the repeal of these sections is effective Oct. 13, 1982.
-

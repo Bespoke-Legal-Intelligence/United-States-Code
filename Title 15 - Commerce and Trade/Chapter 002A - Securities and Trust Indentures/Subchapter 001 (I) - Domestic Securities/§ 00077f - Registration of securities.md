@@ -2,7 +2,7 @@
 
 #### (a) Method of registration
 
-Any security may be registered with the Commission under the terms and conditions hereinafter provided, by filing a registration statement in triplicate, at least one of which shall be signed by each issuer, its principal executive officer or officers, its principal financial officer, its comptroller or principal accounting officer, and the majority of its board of directors or persons performing similar functions (or, if there is no board of directors or persons performing similar functions, by the majority of the persons or board having the power of management of the issuer), and in case the issuer is a foreign or Territorial person by its duly authorized representative in the United States; except that when such registration statement relates to a security issued by a foreign government, or political subdivision thereof, it need be signed only by the underwriter of such security. Signatures of all such persons when written on the said registration statements shall be presumed to have been so written by authority of the person whose signature is so affixed and the burden of proof, in the event such authority shall be denied, shall be upon the party denying the same. The affixing of any signature without the authority of the purported signer shall constitute a violation of this subchapter. A registration statement shall be deemed effective only as to the securities specified therein as proposed to be offered.
+Any security may be registered with the Commission under the terms and conditions hereinafter provided, by filing a registration statement in triplicate, at least one of which shall be signed by each issuer, its principal executive officer or officers, its principal financial officer, its comptroller or principal accounting officer,and the majority of its board of directors or persons performing similar functions (or, if there is no board of directors or persons performing similar functions, by the majority of the persons or board having the power of management of the issuer), and in case the issuer is a foreign or Territorial person by its duly authorized representative in the United States; except that when such registration statement relates to a security issued by a foreign government, or political subdivision thereof, it need be signed only by the underwriter of such security. Signatures of all such persons when written on the said registration statements shall be presumed to have been so written by authority of the person whose signature is so affixed and the burden of proof, in the event such authority shall be denied, shall be upon the party denying the same. The affixing of any signature without the authority of the purported signer shall constitute a violation of this subchapter. A registration statement shall be deemed effective only as to the securities specified therein as proposed to be offered.
 
 #### (b) Registration fee
 
@@ -48,7 +48,7 @@ Any security may be registered with the Commission under the terms and condition
 
 #### (C) Lapse of appropriations
 
-&emsp;&emsp;If on the first day of a fiscal year a regular appropriation to the Commission has notbeen enacted, the Commission shall continue to collect fees (as offsetting collections) under this paragraph at the rate in effect during the preceding fiscal year, until such a regular appropriation is enacted.
+&emsp;&emsp;If on the first day of a fiscal year a regular appropriation to the Commission has not been enacted, the Commission shall continue to collect fees (as offsetting collections) under this paragraph at the rate in effect during the preceding fiscal year, until such a regular appropriation is enacted.
 
 #### (5) Pro rata application of rates
 
@@ -74,7 +74,7 @@ The information contained in or filed with any registration statement shall be m
 
 #### Effective Date of 1965 Amendment
 
-Section 2 of Pub. L. 89–289 provided that: “The amendment made by the first section of this Act \[amending this section\] shall take effect January 1, 1966.”
+Section 2 of Pub. L. 89–289 provided that: “The amendment made by the first section of this Act\[amending this section\] shall take effect January 1, 1966.”
 
 #### Transfer of Functions
 
@@ -107,28 +107,6 @@ Pub. L. 102–140, title I, Oct. 28, 1991, 105 Stat. 798.
 Pub. L. 101–515, title V, Nov. 5, 1990, 104 Stat. 2139.
 
 Pub. L. 101–162, title V, Nov. 21, 1989, 103 Stat. 1022.
-
-#### Cross References
-
-Registration of—
-
-&emsp;&emsp;Brokers and dealers in over-the-counter markets, see section 78<i>o</i> of this title.
-
-&emsp;&emsp;Holding companies; registration statement, contents, see section 79e of this title.
-
-&emsp;&emsp;Investment advisers, see section 80b–3 of this title.
-
-&emsp;&emsp;Investment companies, see section 80a–8 of this title.
-
-&emsp;&emsp;National securities exchanges, see section 78f of this title.
-
-Registration requirements for securities under Securities Exchange Act of 1934, see section 78<i>l</i> of this title.
-
-Registration statement, defined, see section 77b of this title.
-
-Rules and regulations, authority of Commission to make, amend, and rescind, see section 77s of this title.
-
-Schedule of information required in registration statement, see section 77aa of this title.
 
 #### Section Referred to in Other Sections
 

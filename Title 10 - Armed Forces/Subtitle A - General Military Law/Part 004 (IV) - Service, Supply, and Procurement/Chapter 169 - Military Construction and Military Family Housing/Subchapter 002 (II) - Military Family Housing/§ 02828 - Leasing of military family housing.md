@@ -16,13 +16,19 @@
 
 (b)(1) Not more than 10,000 family housing units may be leased at any one time under subsection (a).
 
-(2) Except as provided in paragraphs (3) and (4), expenditures for the rental of housing units under subsection (a) (including the cost of utilities, maintenance, and operation) may not exceed $12,000 per unit per year.
+(2) Except as provided in paragraphs (3) and (4), expenditures for the rental of housing units under subsection (a) (including the cost of utilities, maintenance, and operation) may not exceed $12,000 per unit per year, as adjusted from time to under <sup>1</sup> paragraph (5).
 
-(3) Not more than 500 housing units may be leased under subsection (a) for which the expenditure for the rental of such units (including the cost of utilities, maintenance, and operation) exceeds $12,000 per unit per year but does not exceed $14,000 per unit per year.
+(3) Not more than 500 housing units may be leased under subsection (a) for which the expenditure for the rental of such units (including the cost of utilities, maintenance, and operation) exceeds the maximum amount per unit per year in effect under paragraph (2) but does not exceed $14,000 per unit per year, as adjusted from time to time under paragraph (5).
 
-(4) The Secretary of the Army may lease not more than eight housing units in the vicinity of Miami, Florida, for key and essential personnel, as designated by the Secretary, for the United States Southern Command for which the expenditure for the rental of such units (including the cost of utilities, maintenance, and operation, including security enhancements) exceeds the expenditure limitations in paragraphs (2) and (3). The total amount for all leases under this paragraph may not exceed $280,000 per year, and no lease on any individual housing unit may exceed $60,000 per year.
+(4)(A) The Secretary of the Army may lease not more than eight housing units in the vicinity of Miami, Florida, for key and essential personnel, as designated by the Secretary, for the United States Southern Command for which the expenditure for the rental of such units (including the cost of utilities, maintenance, and operation, including security enhancements) exceeds the expenditure limitations in paragraphs (2) and (3).
 
-(5) At the beginning of each fiscal year, the Secretary concerned shall adjust the maximum lease amount provided for under paragraphs (2), (3), and (4) for the previous fiscal year by the percentage (if any) by which the Consumer Price Index for All Urban Consumers, published by the Bureau of Labor Statistics, during the preceding fiscal year exceeds such Consumer Price Index for the fiscal year before such preceding fiscal year.
+(B) The amount of all leases under this paragraph may not exceed $280,000 per year, as adjusted from time to time under paragraph (6).
+
+(C) The term of any lease under this paragraph may not exceed 5 years.
+
+(5) At the beginning of each fiscal year, the Secretary concerned shall adjust the maximum lease amount provided for leases under paragraphs (2) and (3) for the previous fiscal year by the percentage (if any) by which the national average monthly cost of housing (as calculated for purposes of determining rates of basic allowance for housing under section 403 of title 37) for the preceding fiscal year exceeds the national average monthly cost of housing (as so calculated) for the fiscal year before such preceding fiscal year.
+
+(6) At the beginning of each fiscal year, the Secretary of the Army shall adjust the maximum aggregate amount for leases under paragraph (4) for the previous fiscal year by the percentage (if any) by which the annual average cost of housing for the Miami Military Housing Area (as calculated for purposes of determining rates of basic allowance for housing under section 403 of title 37) for the preceding fiscal year exceeds the annual average cost of housing for the Miami Military Housing Area (as so calculated) for the fiscal year before such preceding fiscal year.
 
 (c) The Secretary concerned may lease housing facilities in foreign countries for assignment, without rental charge, as family housing to members of the armed forces and for assignment, with or without rental charge, as family housing to civilian employees of the Department of Defense—
 
@@ -44,7 +50,7 @@
 
 &emsp;(C) shall include a provision that the obligation of the United States to make payments under the agreement in any fiscal year is subject to the availability of appropriations.
 
-(e)(1) Expenditures for the rental of family housing in foreign countries (including the costsof utilities, maintenance, and operation) may not exceed $20,000 per unit per year, except that 450 units may be leased in foreign countries for not more than $25,000 per unit per year. These maximum lease amounts may be waived by the Secretary concerned with respect to not more than a total of 350 such units that are leased for incumbents of special positions or for personnel assigned to Defense Attache Offices or that are leased in countries where excessive costs of housing would cause undue hardship on Department of Defense personnel.
+(e)(1) Expenditures for the rental of family housing in foreign countries (including the costs of utilities, maintenance, and operation) may not exceed $20,000 per unit per year, except that 450 units may be leased in foreign countries for not more than $25,000 per unit per year. These maximum lease amounts may be waived by the Secretary concerned with respect to not more than a total of 350 such units that are leased for incumbents of special positions or for personnel assigned to Defense Attache Offices or that are leased in countries where excessive costs of housing would cause undue hardship on Department of Defense personnel.
 
 (2) In addition to the 450 units of family housing referred to in paragraph (1) for which the maximum lease amount is $25,000 per unit per year, the Secretary of the Navy may lease not more than 2,000 units of family housing in Italy, and the Secretary of the Army may lease not more than 500 units of family housing in Italy, subject to that maximum lease amount.
 
@@ -62,7 +68,7 @@
 
 (g) Appropriations available to the Department of Defense for maintenance or construction may be used for the acquisition of interests in land under this section.
 
-(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 161; amended Pub. L. 97–321, title VIII, §805(b)(2), Oct. 15, 1982, 96 Stat. 1573; Pub. L. 98–115, title VIII, §801, Oct. 11, 1983, 97 Stat. 782; Pub. L. 98–407, title VIII, §806(a), Aug. 28, 1984, 98 Stat. 1521; Pub. L. 99–167, title VIII, §§801(b), 803, 805, Dec. 3, 1985, 99 Stat. 985, 987, 988; Pub. L. 99–661, div. B, title VII, §§2702(d)–(g), 2713(b), 2714, Nov. 14, 1986, 100 Stat. 4040–4042; Pub. L. 100–26, §7(j)(8), Apr. 21, 1987, 101 Stat. 283; Pub. L. 100–180, div. B, subdiv. 3, title I, §§2306(a), 2309, 2311, Dec. 4, 1987, 101 Stat. 1216, 1217; Pub. L. 100–370, §1(<i>l</i>)(2), July 19, 1988, 102 Stat. 849; Pub. L. 100–456, div. B, title XXVIII, §2802, Sept. 29, 1988, 102 Stat. 2115; Pub. L. 101–189, div. B, title XXVIII, §§2802, 2805, Nov. 29, 1989, 103 Stat. 1646, 1647; Pub. L. 102–190, div. B, title XXVIII, §2806(b), Dec. 5, 1991, 105 Stat. 1540; Pub. L. 103–35, title II, §201(d)(7), May 31, 1993, 107 Stat. 99; Pub. L. 103–160, div. B, title XXVIII, §2801, Nov. 30, 1993, 107 Stat. 1883; Pub. L. 104–106, div. B, title XXVIII, §2816, Feb. 10, 1996, 110 Stat. 553; Pub. L. 105–85, div. B, title XXVIII, §2803, Nov. 18, 1997, 111 Stat. 1990; Pub. L. 105–261, div. B, title XXVIII, §2802, Oct. 17, 1998, 112 Stat. 2202.)
+(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 161; amended Pub. L. 97–321, title VIII, §805(b)(2), Oct. 15, 1982, 96 Stat. 1573; Pub. L. 98–115, title VIII, §801, Oct. 11, 1983, 97 Stat. 782; Pub. L. 98–407, title VIII, §806(a), Aug. 28, 1984, 98 Stat. 1521; Pub. L. 99–167, title VIII, §§801(b), 803, 805, Dec. 3, 1985, 99 Stat. 985, 987, 988; Pub. L. 99–661, div. B, title VII, §§2702(d)–(g), 2713(b), 2714, Nov. 14, 1986, 100 Stat. 4040–4042; Pub. L. 100–26, §7(j)(8), Apr. 21, 1987, 101 Stat. 283; Pub. L. 100–180, div. B, subdiv. 3, title I, §§2306(a), 2309, 2311, Dec. 4, 1987, 101 Stat. 1216, 1217; Pub. L. 100–370, §1(<i>l</i>)(2), July 19, 1988, 102 Stat. 849; Pub. L. 100–456, div. B, title XXVIII, §2802, Sept. 29, 1988, 102 Stat. 2115; Pub. L. 101–189, div. B, title XXVIII, §§2802, 2805, Nov. 29, 1989, 103 Stat. 1646, 1647; Pub. L. 102–190, div. B, title XXVIII, §2806(b), Dec. 5, 1991, 105 Stat. 1540; Pub. L. 103–35, title II, §201(d)(7), May 31, 1993, 107 Stat. 99; Pub. L. 103–160, div. B, title XXVIII, §2801, Nov. 30, 1993, 107 Stat. 1883; Pub. L. 104–106, div. B, title XXVIII, §2816, Feb. 10, 1996, 110 Stat. 553; Pub. L. 105–85, div. B, title XXVIII, §2803, Nov. 18, 1997, 111 Stat. 1990; Pub. L. 105–261, div. B, title XXVIII, §2802, Oct. 17, 1998, 112 Stat. 2202; Pub. L. 106–398, §1 \[div. B, title XXVIII, §2804\], Oct. 30, 2000, 114 Stat. 1654, 1654A–414.)
 
 #### Historical and Revision Notes
 
@@ -71,6 +77,14 @@
 Subsection (h) of this section and section 2673 of this title are based on Pub. L. 98–212, title VII, §707, Dec. 8, 1983, 97 Stat. 1438.
 
 #### Amendments
+
+2000—Subsec. (b)(2). Pub. L. 106–398, §1 \[div. B, title XXVIII, §2804(c)(1)\], inserted “, as adjusted from time to under paragraph (5)” after “per year”.
+
+Subsec. (b)(3). Pub. L. 106–398, §1 \[div. B, title XXVIII, §2804(c)(2)\], substituted “the maximum amount per unit per year in effect under paragraph (2) but does not exceed $14,000 per unit per year, as adjusted from time to time under paragraph (5)” for “$12,000 per unit per year but does not exceed $14,000 per unit per year”.
+
+Subsec. (b)(4). Pub. L. 106–398, §1 \[div. B, title XXVIII, §2804(a)\], designated existing provisions as subpar. (A), struck out last sentence which read as follows: “The total amount for all leases under this paragraph may not exceed $280,000 per year, and no lease on any individual housing unit may exceed $60,000 per year.”, and added subpars. (B) and (C).
+
+Subsec. (b)(5), (6). Pub. L. 106–398, §1 \[div. B, title XXVIII, §2804(b)\], added pars. (5) and (6) and struck out former par. (5) which read as follows: “At the beginning of each fiscal year, the Secretary concerned shall adjust the maximum lease amount provided for under paragraphs (2), (3), and (4) for the previous fiscal year by the percentage (if any) by which the Consumer Price Index for All Urban Consumers, published by the Bureau of Labor Statistics, during the preceding fiscal year exceeds such Consumer Price Index for the fiscal year before such preceding fiscal year.”
 
 1998—Subsec. (e)(2). Pub. L. 105–261, §2802(a)(1), inserted “, and the Secretary of the Army may lease not more than 500 units of family housing in Italy,” after “family housing in Italy”.
 
@@ -108,7 +122,7 @@ Subsec. (e)(2) to (4). Pub. L. 103–160, §2801(b)(3), (4), added pars. (2) and
 
 1989—Subsec. (b)(2). Pub. L. 101–189, §2802(1), substituted “$12,000” for “$10,000”.
 
-Subsec. (b)(3). Pub. L. 101–189, §2802(2), substituted “Not” for “(A) Except as provided in subparagraph (B), not”, “$12,000” for “$10,000”, and “$14,000” for “$12,000” and struck out subpar. (B) which read as follows: “During fiscal years 1986 and 1987, the number of housing units that may be leased pursuant to the provisions of subparagraph (A) may be increased by 500 units foreach such fiscal year. The Secretary concerned shall provide written notification to the Committees on Armed Services of the Senate and House of Representatives concerning the location, purpose, and cost of the additional units permitted by this subparagraph. Such notification shall be made periodically as the leases are entered into.”
+Subsec. (b)(3). Pub. L. 101–189, §2802(2), substituted “Not” for “(A) Except as provided in subparagraph (B), not”, “$12,000” for “$10,000”, and “$14,000” for “$12,000” and struck out subpar. (B) which read as follows: “During fiscal years 1986 and 1987, the number of housing units that may be leased pursuant to the provisions of subparagraph (A) may be increased by 500 units for each such fiscal year. The Secretary concerned shall provide written notification to the Committees on Armed Services of the Senate and House of Representatives concerning the location, purpose, and cost of the additional units permitted by this subparagraph. Such notification shall be made periodically as the leases are entered into.”
 
 Subsec. (e)(1). Pub. L. 101–189, §2802(3), inserted “as adjusted for foreign currency fluctuation from October 1, 1987” after “$20,000 per unit per annum”.
 
@@ -197,4 +211,6 @@ For effective date and applicability of section, see section 12(a) of Pub. L. 97
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 2822, 2834 of this title.
+
+<i><sup>1</sup></i><i> So in original.</i>
 

@@ -24,7 +24,3 @@ Amendment by Pub. L. 98–426 effective Sept. 28, 1984, see section 28(e)(1) of 
 
 Previously, “Federal Security Administrator” and “Administrator” substituted for “United States Employees’ Compensation Commission” and “Commission” pursuant to Reorg. Plan No. 2 of 1946, §3, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095, which abolished United States Employees’ Compensation Commission and transferred its functions to Federal Security Administrator.
 
-#### Cross References
-
-Establishment of compensation districts under Longshore and Harbor Workers’ Compensation Act, see section 939 of Title 33, Navigation and Navigable Waters.
-

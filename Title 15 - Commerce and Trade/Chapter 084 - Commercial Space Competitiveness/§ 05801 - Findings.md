@@ -2,7 +2,7 @@
 
 The Congress finds that—
 
-&emsp;(1) commercial activities of the private sector have substantially contributed to the strength of both the United States space program and the national economy;
+&emsp;(1) commercial activities of the private sector have substantially contributed to thestrength of both the United States space program and the national economy;
 
 &emsp;(2) a robust United States space transportation capability remains a vital cornerstone of the United States space program;
 

@@ -4,9 +4,11 @@
 
 &emsp;(1) “agency” means—
 
-&emsp;&emsp;(A) an Executive agency; and
+&emsp;&emsp;(A) an Executive agency;
 
-&emsp;&emsp;(B) the Library of Congress;
+&emsp;&emsp;(B) the Library of Congress; and
+
+&emsp;&emsp;(C) an office, agency, or other establishment in the judicial branch;
 
 &emsp;(2) “handicapped employee” means an individual employed by an agency who is blind or deaf or who otherwise qualifies as a handicapped individual within the meaning of section 501 of the Rehabilitation Act of 1973 (29 U.S.C. 794); and
 
@@ -36,7 +38,7 @@
 
 (e) This section may not be held or considered to prevent or limit in any way the assignment to a handicapped employee (including a blind or deaf employee) by an agency of clerical or secretarial assistance, at the expense of the agency under statutes and regulations currently applicable at the time, if that assistance normally is provided, or authorized to be provided, in that manner under currently applicable statutes and regulations.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 414; Pub. L. 90–623, §1(3), Oct. 22, 1968, 82 Stat. 1312; Pub. L. 95–454, title III, §302(a), (b)(2), Oct. 13, 1978, 92 Stat. 1145, 1146; Pub. L. 96–54, §2(a)(11), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–523, §1(a), Dec. 12, 1980, 94 Stat. 3039; Pub. L. 97–258, §3(a)(3), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 414; Pub. L. 90–623, §1(3), Oct. 22, 1968, 82 Stat. 1312; Pub. L. 95–454, title III, §302(a), (b)(2), Oct. 13, 1978, 92 Stat. 1145, 1146; Pub. L. 96–54, §2(a)(11), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–523, §1(a), Dec. 12, 1980, 94 Stat. 3039; Pub. L. 97–258, §3(a)(3), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 106–518, title III, §311, Nov. 13, 2000, 114 Stat. 2421; Pub. L. 106–553, §1(a)(2) \[title III, §307\], Dec. 21, 2000, 114 Stat. 2762, 2762A–86.)
 
 Historical and Revision Notes
 
@@ -65,6 +67,8 @@ Standard changes are made to conform with the definitions applicable and the sty
 Section 501 of the Rehabilitation Act of 1973, referred to in subsec. (a)(2), is classified to section 791 of Title 29, Labor, rather than to section 794 of Title 29 as shown in text.
 
 #### Amendments
+
+2000—Subsec. (a)(1)(C). Pub. L. 106–518 and Pub. L. 106–553 amended par. (1) identically, adding subpar. (C).
 
 1986—Subsec. (a)(3). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 

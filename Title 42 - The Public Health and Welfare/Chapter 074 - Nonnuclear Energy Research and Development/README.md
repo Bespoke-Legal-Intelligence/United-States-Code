@@ -53,10 +53,7 @@
 | (e) | Inclusion of survey and analysis of regional and national water resource availability in biennial assessment by Water Resources Council. |
 | (f) | Secretary as member of Water Resources Council. |
 | [5913\.](%C2%A7%2005913%20-%20Evaluation%20by%20National%20Institute%20of%20Standards%20and%20Technology%20of%20energy-related%20inventions%20prior%20to%20awarding%20of%20grants%20by%20Secretary%E2%80%A6.md) | Evaluation by National Institute of Standards and Technology of energy-related inventions prior to awarding of grants by Secretary; promulgation of regulations. |
-| [5914\.](%C2%A7%2005914%20-%20Reports%20to%20Congress.md) | Reports to Congress. |
-| (a) | Required contents. |
-| (b) | Additional required contents. |
-| (c) | Satisfaction of requirements for reports relating to development of energy sources. |
+| [5914\.](%C2%A7%2005914%20-%20Omitted.md) | Omitted. |
 | [5915\.](%C2%A7%2005915%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [5915a.](%C2%A7%2005915a%20-%20Expiration%20of%20initial%20authorization%20to%20construct%20fossil%20energy%20demonstration%20plants.md) | Expiration of initial authorization to construct fossil energy demonstration plants. |
 | [5916\.](%C2%A7%2005916%20-%20Central%20source%20of%20nonnuclear%20energy%20information%3B%20acquisition%20of%20proprietary%20and%20other%20information%3B%20availability%20of%20information%20to%20public%E2%80%A6.md) | Central source of nonnuclear energy information; acquisition of proprietary and other information; availability of information to public, Government agencies, Federal agencies and agency heads for execution of duties and responsibilities, and chairmen of Congressional committees; disclosure restrictions. |
@@ -125,7 +122,7 @@ This chapter is referred to in sections 5903d, 5907a, 6981, 7135a, 7259a, 8837, 
 - [&sect; 05911 - Allocation or acquisition of essential materials and equipment pursuant to Presidential rule or order; transmission to Congress and&#8230;](%C2%A7%2005911%20-%20Allocation%20or%20acquisition%20of%20essential%20materials%20and%20equipment%20pursuant%20to%20Presidential%20rule%20or%20order%3B%20transmission%20to%20Congress%20and%E2%80%A6.md)
 - [&sect; 05912 - Water resource assessments](%C2%A7%2005912%20-%20Water%20resource%20assessments.md)
 - [&sect; 05913 - Evaluation by National Institute of Standards and Technology of energy-related inventions prior to awarding of grants by Secretary&#8230;](%C2%A7%2005913%20-%20Evaluation%20by%20National%20Institute%20of%20Standards%20and%20Technology%20of%20energy-related%20inventions%20prior%20to%20awarding%20of%20grants%20by%20Secretary%E2%80%A6.md)
-- [&sect; 05914 - Reports to Congress](%C2%A7%2005914%20-%20Reports%20to%20Congress.md)
+- [&sect; 05914 - Omitted](%C2%A7%2005914%20-%20Omitted.md)
 - [&sect; 05915 - Authorization of appropriations](%C2%A7%2005915%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 05915a - Expiration of initial authorization to construct fossil energy demonstration plants](%C2%A7%2005915a%20-%20Expiration%20of%20initial%20authorization%20to%20construct%20fossil%20energy%20demonstration%20plants.md)
 - [&sect; 05916 - Central source of nonnuclear energy information; acquisition of proprietary and other information; availability of information to public&#8230;](%C2%A7%2005916%20-%20Central%20source%20of%20nonnuclear%20energy%20information%3B%20acquisition%20of%20proprietary%20and%20other%20information%3B%20availability%20of%20information%20to%20public%E2%80%A6.md)

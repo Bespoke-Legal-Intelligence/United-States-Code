@@ -40,7 +40,7 @@ Section is from the Congressional Operations Appropriations Act, 1996, which is 
 
 #### Amendments
 
-1997—Subsec. (a). Pub. L. 105–55, §103(a)(1), (2), in introductory provisions, struck out “who is separated from employment,” after “House of Representatives” and substituted “of the employee or for any other purpose” for “of the employee”.
+1997—Subsec. (a). Pub. L. 105–55, §103(a)(1), (2), in introductory provisions, struck out “who is separated from employment,” after “House of Representatives”and substituted “of the employee or for any other purpose” for “of the employee”.
 
 Subsec. (a)(1)(B). Pub. L. 105–55, §103(a)(3), substituted “in the case of a lump sum payment for the accrued annual leave of the employee, the amount” for “the amount”.
 
@@ -52,7 +52,37 @@ Committee on House Oversight of House of Representatives changed to Committee on
 
 Section 103(b) of Pub. L. 105–55 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to fiscal years beginning on or after October 1, 1997.”
 
-#### Cross References
+#### Lump Sum Payment for Accrued Annual Leave of Senate Employees
 
-For provisions merging House Clerk Hire Allowance into Members’ Representational Allowance, see section 57b of this title.
+Pub. L. 106–554, §1(a)(2) \[title I, §6\], Dec. 21, 2000, 114 Stat. 2763, 2763A–97, provided that:
+
+“(a) The head of the employing office of an employee of the Senate may, upon termination of employment of the employee, authorize payment of a lump sum for the accrued annual leave of that employee if—
+
+&emsp;“(1) the head of the employing office—
+
+&emsp;&emsp;“(A) has approved a written leave policy authorizing employees to accrue leave and establishing the conditions upon which accrued leave may be paid; and
+
+&emsp;&emsp;“(B) submits written certification to the Financial Clerk of the Senate of the number of days of annual leave accrued by the employee for which payment is to be made under the written leave policy of the employing office; and
+
+&emsp;“(2) there are sufficient funds to cover the lump sum payment.
+
+“(b)(1) A lump sum payment under this section shall not exceed the lesser of—
+
+&emsp;“(A) twice the monthly rate of pay of the employee; or
+
+&emsp;“(B) the product of the daily rate of pay of the employee and the number of days of accrued annual leave of the employee.
+
+“(2) The Secretary of the Senate shall determine the rates of pay of an employee under paragraph (1)(A) and (B) on the basis of the annual rate of pay of the employee in effect on the date of termination of employment.
+
+“(c) Any payment under this section shall be paid from the appropriation account or fund used to pay the employee.
+
+“(d) If an individual who received a lump sum payment under this section is reemployed as an employee of the Senate before the end of the period covered by the lump sum payment, the individual shall refund an amount equal to the applicable pay covering the period between the date of reemployment and the expiration of the lump sum period. Such amount shall be deposited to the appropriation account or fund used to pay the lump sum payment.
+
+“(e) The Committee on Rules and Administration of the Senate may prescribe regulations to carry out this section.
+
+“(f) In this section, the term—
+
+&emsp;“(1) ‘employee of the Senate’ means any employee whose pay is disbursed by the Secretary of the Senate, except that the term does not include a member of the Capitol Police or a civilian employee of the Capitol Police; and
+
+&emsp;“(2) ‘head of the employing office’ means any person with the final authority to appoint, hire, discharge, and set the terms, conditions, or privileges of the employment of an individual whose pay is disbursed by the Secretary of the Senate.”
 

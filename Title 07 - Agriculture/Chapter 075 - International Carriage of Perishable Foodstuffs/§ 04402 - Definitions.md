@@ -6,7 +6,7 @@ As used in this chapter—
 
 &emsp;(2) The term “contracting party” means any country that is eligible under article 9 of the agreement and that has complied with the terms of such article.
 
-&emsp;(3) The term “equipment” means the special transport equipment that complies with the definitions and standards set forth in annex 1 to the agreement, including, but not limited to, railway cars, trucks, trailers, semitrailers, and intermodal freight containers that are insulated only, or insulated and equipped with a refrigerating, mechanically refrigerating, or heating appliance.
+&emsp;(3) The term “equipment” means the special transport equipment that complies with the definitions and standards set forth in annex 1 to the agreement, including, but not limited to, railway cars, trucks, trailers, semitrailers,and intermodal freight containers that are insulated only, or insulated and equipped with a refrigerating, mechanically refrigerating, or heating appliance.
 
 &emsp;(4) The term “perishable foodstuffs” means quick deep-frozen and frozen food products listed in annex 2 and food products listed in annex 3 to the agreement.
 
@@ -22,7 +22,7 @@ As used in this chapter—
 
 > &emsp;In the case of any transportation that involves one or more sea crossings other than as specified in clause (D) of this paragraph, each land journey shall be considered separately.
 
-&emsp;(6) The term “United States” means the fifty States of the United States, the Districtof Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands of the United States, the Commonwealth of the Northern Mariana Islands, and any other territory or possession of the United States.
+&emsp;(6) The term “United States” means the fifty States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands of the United States, the Commonwealth of the Northern Mariana Islands, and any other territory or possession of the United States.
 
 (Pub. L. 97–325, §3, Oct. 15, 1982, 96 Stat. 1603.)
 

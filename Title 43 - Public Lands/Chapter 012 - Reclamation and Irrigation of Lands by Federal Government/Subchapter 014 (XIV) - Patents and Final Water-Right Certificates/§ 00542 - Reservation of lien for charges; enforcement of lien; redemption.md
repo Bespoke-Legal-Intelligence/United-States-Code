@@ -6,10 +6,6 @@ Upon default of payment of any amount so due title to the land shall pass to the
 
 (Aug. 9, 1912, ch. 278, §2, 37 Stat. 266.)
 
-#### Cross References
-
-Release of Government liens after contract with irrigation districts, see section 512 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 593 of this title.

@@ -110,9 +110,7 @@ The Secretary shall establish a task force to—
 
 &emsp;Section 14 of the Federal Advisory Committee Act shall not apply to the task force.
 
-#### (i) Report
-
-The Secretary shall transmit annually to the Congress a report on the activities of regional centers established under this section, including the degree to which matching funds are being leveraged from private sources to establish and operate such centers.
+#### (i) Omitted
 
 #### (j) Authorization of appropriations
 
@@ -125,6 +123,8 @@ There is authorized to be appropriated for purposes of carrying out this section
 Section 14 of the Federal Advisory Committee Act, referred to in subsec. (h)(7), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
+
+Subsec. (i) of this section, which required the Secretary to transmit annually to Congress a report on the activities of regional centers established under this section, including the degree to which matching funds are being leveraged from private sources to establish and operate such centers, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, the 6th item on page 88 of House Document No. 103–7.
 
 Section was enacted as part of title I of the Energy Policy Act, and not as part of title XXI of that Act which comprises this subchapter.
 

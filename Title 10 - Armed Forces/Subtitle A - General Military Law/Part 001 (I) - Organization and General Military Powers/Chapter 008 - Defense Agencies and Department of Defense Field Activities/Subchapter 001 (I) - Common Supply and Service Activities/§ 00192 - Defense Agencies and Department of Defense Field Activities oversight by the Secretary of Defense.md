@@ -8,7 +8,7 @@ Overall Supervision.—(1) The Secretary of Defense shall assign responsibility 
 
 &emsp;(B) to the Chairman of the Joint Chiefs of Staff.
 
-(2) An official assigned such a responsibility with respect to a Defense Agency or Departmentof Defense Field Activity shall advise the Secretary of Defense on the extent to which the program recommendations and budget proposals of such agency or activity conform with the requirements of the military departments and of the unified and specified combatant commands.
+(2) An official assigned such a responsibility with respect to a Defense Agency or Department of Defense Field Activity shall advise the Secretary of Defense on the extent to which the program recommendations and budget proposals of such agency or activity conform with the requirements of the military departments and of the unified and specified combatant commands.
 
 (3) This subsection does not apply to the Defense Intelligence Agency or the National Security Agency.
 

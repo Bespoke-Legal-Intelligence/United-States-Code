@@ -34,7 +34,7 @@
 
 &emsp;(ii) has deposited in the eligible institution's endowment fund established under this section an amount which is equal to 1/2 of the amount of such grant.
 
-(C) An eligible institution of higher education that is awarded a grant under subparagraph (B) shall not be eligible to receive an additional grant under subparagraph (B) until 10 yearsafter the date on which the grant period terminates.
+(C) An eligible institution of higher education that is awarded a grant under subparagraph (B) shall not be eligible to receive an additional grant under subparagraph (B) until 10 years after the date on which the grant period terminates.
 
 (3) The period of a grant under this section shall be not more than 20 years. During the grant period, an institution may not withdraw or expend any of the endowment fund corpus. After the termination of the grant period, an institution may use the endowment fund corpus plus any endowment fund income for any educational purpose.
 
@@ -84,7 +84,7 @@ In selecting eligible institutions for grants under this section for any fiscal 
 
 &emsp;(1) give priority to an applicant that is receiving assistance under part A of this subchapter or part B of this subchapter or has received a grant under part A of this subchapter or part B of this subchapter within the 5 fiscal years preceding the fiscal year in which the applicant is applying for a grant under this section;
 
-&emsp;(2) give priority to an applicant with a greater need for such a grant, based on the current market value of the applicant's existing endowment in relation to the number offull-time equivalent students enrolled at such institution; and
+&emsp;(2) give priority to an applicant with a greater need for such a grant, based on the current market value of the applicant's existing endowment in relation to the number of full-time equivalent students enrolled at such institution; and
 
 &emsp;(3) consider—
 
@@ -154,7 +154,7 @@ Subsec. (b)(5). Pub. L. 102–325, §304(b)(6), amended par. (5) generally. Prio
 
 &emsp;“(B) not be more than (i) $250,000 for fiscal year 1987; or (ii) $500,000 for fiscal year 1988 or any succeeding fiscal year.”
 
-Subsec. (f)(1). Pub. L. 102–325, §304(b)(7), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “give priority to an applicant which is a recipient of a grant made under part A or B of this subchapter (or section 1069a of this title) during the academic year in which the applicant is applying for a grant under this section;”.
+Subsec. (f)(1). Pub. L. 102–325, §304(b)(7), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “give priority to an applicant which is a recipient of a grant made under part A or B of this subchapter\(or section 1069a of this title) during the academic year in which the applicant is applying for a grant under this section;”.
 
 Subsec. (g). Pub. L. 102–325, §304(b)(8), inserted “, including a description of the long- and short-term plans for raising and using the funds under this part” before period at end of first sentence.
 

@@ -124,12 +124,6 @@ Amendment by act July 15, 1949, effective June 30, 1949, see section 202 of that
 
 Section 2 of act Dec. 27, 1947, provided: “Title VI of the National Housing Act, as amended \[this subchapter\], shall be employed to assist in maintaining a high volume of new residential construction without supporting unnecessary or artificial costs. In estimating necessary current cost for the purposes of said title, the Federal Housing Commissioner shall therefore use every feasible means to assure that such estimates will approximate as closely as possible the actual costs of efficient building operations.”
 
-#### Cross References
-
-Administrative procedure, functions conferred hereunder not included as agency action, see section 551 of Title 5, Government Organization and Employees.
-
-Construction of act May 26, 1942, with Ex. Ord. No. 9070, consolidating various housing agencies into the National Housing Agency, see note under section 1743 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1739, 1743, 1744, 1745 of this title; title 5 sections 551, 701.

@@ -18,7 +18,6 @@
 | (d) | Investment of Fund. |
 | (e) | President's budget. |
 | (f) | Funds provided supplemental. |
-| (g) | Annual report. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -12,9 +12,3 @@ Words “any civil action” were substituted for “all suits,” in view of Ru
 
 Minor changes were made in phraseology.
 
-#### Cross References
-
-Amount in controversy immaterial in action under this section, see Historical and Revision Notes under section 1331 of this title.
-
-Diversity of citizenship immaterial in action under this section, see Historical and Revision Notes under section 1332 of this title.
-

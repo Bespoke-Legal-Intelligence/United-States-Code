@@ -14,7 +14,7 @@ Membership.—(A)(i) The Reform Board shall consist of 7 voting members appointe
 
 &emsp;(ii) Notwithstanding clause (i), if the Secretary of Transportation is appointed to the Reform Board, such appointment shall not be subject to the advice and consent of the Senate. If appointed, the Secretary may be represented at Board meetings by his designee.
 
-&emsp;(B) In selecting the individuals described in subparagraph (A) for nominations for appointments to the Reform Board, the President should consult with the Speaker of the House of Representatives, the Minority Leader of the House of Representatives, the Majority Leader of the Senate, and the Minority Leader of the Senate.
+&emsp;(B) In selecting the individuals described in subparagraph (A) for nominations for appointments to the Reform Board, the President should consult with the Speaker of the Houseof Representatives, the Minority Leader of the House of Representatives, the Majority Leader of the Senate, and the Minority Leader of the Senate.
 
 &emsp;(C) Appointments under subparagraph (A) shall be made from among individuals who—
 
@@ -132,7 +132,7 @@ In subsection (c), the words “direct or indirect” are omitted as surplus.
 
 In subsection (d), the word “performing” is substituted for “engaged in the actual performance of” to eliminate unnecessary words. The word “board” is added for clarity. The words “and powers” are added for consistency in the revised title and with other titles of the Code. The word “reasonable” is substituted for “which is reasonably required” to eliminate unnecessary words.
 
-In subsection (e), the words “the membership of” and “in the case of” are omitted as surplus. The words “occurring before the end of the term for which the predecessor of that individual was appointed is appointed for the remainder of the term” are substituted for “shall be appointed only for the unexpired term of the member he is appointed to succeed” for clarity and consistency in the revised title and with other titles of the Code. The words “under subsection (a)(1)(C)” the 2dtime they appear are substituted for “paragraph (1)(B) of this subsection” in 45:543(a)(8) to correct an erroneous cross-reference.
+In subsection (e), the words “the membership of” and “in the case of” are omitted as surplus. The words “occurring before the end of the term for which the predecessor of that individual was appointed is appointed for the remainder of the term” are substituted for “shall be appointed only for the unexpired term of the member he is appointed to succeed” for clarity and consistency in the revised title and with other titles of the Code. The words “under subsection (a)(1)(C)” the 2d time they appear are substituted for “paragraph (1)(B) of this subsection” in 45:543(a)(8) to correct an erroneous cross-reference.
 
 #### Amendments
 

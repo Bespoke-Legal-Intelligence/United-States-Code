@@ -18,13 +18,13 @@ Contract Work Hours and Safety Standards Act, referred to in section catchline a
 
 #### Amendments
 
-1992—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1992</b>—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-1990—Pub. L. 101–650 substituted “Hours and Safety Standards” for “Hours Standards” in text.
+<b>1990</b>—Pub. L. 101–650 substituted “Hours and Safety Standards” for “Hours Standards” in text.
 
-1982—Pub. L. 97–164 substituted “Contract Work Hours and Safety Standards Act” for “Contract Work Hours Standards Act” in section catchline and “United States Claims Court” for “Court of Claims” in text.
+<b>1982</b>—Pub. L. 97–164 substituted “Contract Work Hours and Safety Standards Act” for “Contract Work Hours Standards Act” in section catchline and “United States Claims Court” for “Court of Claims” in text.
 
-1962—Pub. L. 87–581 amended section generally, substituting “Liquidated damages withheld from contractors under Contract Work Hours Standards Act” for “Penalties imposed against contractors under eight hour law” in section catchline, and “liquidated damages withheld from a contractor or subcontractor under section 104 of the Contract Work Hours Standards Act” for “a penalty withheld from a contractor or subcontractor under section 324 of Title 40” in text.
+<b>1962</b>—Pub. L. 87–581 amended section generally, substituting “Liquidated damages withheld from contractors under Contract Work Hours Standards Act” for “Penalties imposed against contractors under eight hour law” in section catchline, and “liquidated damages withheld from a contractor or subcontractor under section 104 of the Contract Work Hours Standards Act” for “a penalty withheld from a contractor or subcontractor under section 324 of Title 40” in text.
 
 #### Effective Date of 1992 Amendment
 
@@ -40,9 +40,5 @@ Amendment by Pub. L. 87–581 effective 60 days after Aug. 13, 1962, but shall n
 
 #### Continued Jurisdiction Upon Claims Under Section 324 of Title 40
 
-Section 202(b) of Pub. L. 87–581 provided that: “The Court of Claims \[now United States Court of Federal Claims\] shall continue to have jurisdiction to render judgment upon any claim for a penalty withheld from a contractor or subcontractor under section 324 of title 40, United States Code, in connection with any contract subject to said section existing on the effective date of this Act \[see Effective Date note set out under section 327 of Title 40, Public Buildings, Property, and Works\], or thereafter entered into pursuant to invitations for bids that are outstanding at the time of the enactment of this Act \[Aug. 13, 1962\].”
-
-#### Cross References
-
-Time for filing claim, see section 330 of Title 40, Public Buildings, Property, and Works.
+Section 202(b) of Pub. L. 87–581 provided that: “The Court of Claims \[now United States Court of Federal Claims\] shall continue to have jurisdiction to render judgment upon any claim for a penalty withheld from a contractor or subcontractor under section 324 of title 40, United States Code, in connection with any contractsubject to said section existing on the effective date of this Act \[see Effective Date note set out under section 327 of Title 40, Public Buildings, Property, and Works\], or thereafter entered into pursuant to invitations for bids that are outstanding at the time of the enactment of this Act \[Aug. 13, 1962\].”
 

@@ -14,7 +14,3 @@ The Act of May eighth, nineteen hundred and fourteen, referred to in text, is ac
 
 Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, §1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
-#### Cross References
-
-Secretary of Agriculture as required to prescribe form of financial statement for agricultural experiment stations, see section 361e of this title.
-

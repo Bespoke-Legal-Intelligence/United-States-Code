@@ -52,11 +52,11 @@
 
 #### (5) “PACE program eligible individual” defined
 
-&emsp;For purposes of this section, the term “PACE program eligible individual” means, with respect to a PACE program, an individual who—
+&emsp;For purposes of this section, the term “PACE program eligible individual” means,with respect to a PACE program, an individual who—
 
 &emsp;&emsp;(A) is 55 years of age or older;
 
-&emsp;&emsp;(B) subject to subsection (c)(4) of this section, is determined under subsection (c) ofthis section to require the level of care required under the State medicaid plan for coverage of nursing facility services;
+&emsp;&emsp;(B) subject to subsection (c)(4) of this section, is determined under subsection (c) of this section to require the level of care required under the State medicaid plan for coverage of nursing facility services;
 
 &emsp;&emsp;(C) resides in the service area of the PACE program; and
 
@@ -130,7 +130,7 @@
 
 #### (2) Condition
 
-&emsp;An individual is not a PACE program eligible individual (with respect to payment under this section) unless the individual's health status has been determined by the Secretary or the State administering agency, in accordance with regulations, to be comparable to thehealth status of individuals who have participated in the PACE demonstration waiver programs. Such determination shall be based upon information on health status and related indicators (such as medical diagnoses and measures of activities of daily living, instrumental activities of daily living, and cognitive impairment) that are part of a uniform minimum data set collected by PACE providers on potential eligible individuals.
+&emsp;An individual is not a PACE program eligible individual (with respect to payment underthis section) unless the individual's health status has been determined by the Secretary or the State administering agency, in accordance with regulations, to be comparable to the health status of individuals who have participated in the PACE demonstration waiver programs. Such determination shall be based upon information on health status and related indicators (such as medical diagnoses and measures of activities of daily living, instrumental activities of daily living, and cognitive impairment) that are part of a uniform minimum data set collected by PACE providers on potential eligible individuals.
 
 #### (3) Annual eligibility recertifications
 
@@ -350,6 +350,10 @@
 
 &emsp;&emsp;&emsp;(v) The assumption by the provider of full financial risk.
 
+#### (C) Continuation of modifications or waivers of operational requirements under demonstration status
+
+&emsp;&emsp;If a PACE program operating under demonstration authority has contractual or other operating arrangements which are not otherwise recognized in regulation and which were in effect on July 1 <sup>1</sup> 2000, the Secretary (in close consultation with, and with the concurrence of, the State administering agency) shall permit any such program to continue such arrangements so long as such arrangements are found by the Secretary and the State to be reasonably consistent with the objectives of the PACE program.
+
 #### (3) Application of certain additional beneficiary and program protections
 
 #### (A) In general
@@ -408,7 +412,7 @@ A State may provide for post-eligibility treatment of income for individuals enr
 
 Nothing in this section or section 1395eee of this title shall be construed as preventing a PACE provider from entering into contracts with other governmental or nongovernmental payers for the care of PACE program eligible individuals who are not eligible for benefits under part A, or enrolled under part B, of subchapter XVIII of this chapter or eligible for medical assistance under this subchapter.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1934, as added Pub. L. 105–33, title IV, §4802(a)(3), Aug. 5, 1997, 111 Stat. 539.)
+(Aug. 14, 1935, ch. 531, title XIX, §1934, as added Pub. L. 105–33, title IV, §4802(a)(3), Aug. 5, 1997,111 Stat. 539; amended Pub. L. 106–554, §1(a)(6) \[title IX, §902(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–583.)
 
 #### References in Text
 
@@ -430,7 +434,17 @@ For the effective date of this section, referred to in subsec. (a)(9)(B), see se
 
 A prior section 1934 of act Aug. 14, 1935, was renumbered section 1935 and is classified to section 1396v of this title.
 
+#### Amendments
+
+2000—Subsec. (f)(2)(C). Pub. L. 106–554 added subpar. (C).
+
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–554 effective as if included in the enactment of Pub. L. 105–33, see section 1(a)(6) \[title IX, §902(c)\] of Pub. L. 106–554, set out as a note under section 1395eee of this title.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1395eee, 1396b, 1396d, 1396r–5 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

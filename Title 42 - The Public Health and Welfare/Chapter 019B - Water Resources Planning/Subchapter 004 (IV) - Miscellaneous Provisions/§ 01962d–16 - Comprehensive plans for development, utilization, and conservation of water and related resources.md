@@ -26,7 +26,7 @@ There is authorized to be appropriated not to exceed $10,000,000 annually to car
 
 For the purposes of this section, the term “State” means the several States of the United States, Indian tribes, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, the Commonwealth of the Northern Marianas, and the Trust Territory of the Pacific Islands.
 
-(Pub. L. 93–251, title I, §22, Mar. 7, 1974, 88 Stat. 20; Pub. L. 94–587, §168, Oct. 22, 1976, 90 Stat. 2936; Pub. L. 96–597, title VI, §605, Dec. 24, 1980, 94 Stat. 3482; Pub. L. 99–662, title IX, §921, Nov. 17, 1986, 100 Stat. 4194; Pub. L. 101–640, title III, §319, Nov. 28, 1990, 104 Stat. 4642; Pub. L. 102–580, title II, §208, Oct. 31, 1992, 106 Stat. 4829; Pub. L. 104–303, title II, §221, Oct. 12, 1996, 110 Stat. 3697.)
+(Pub. L. 93–251, title I, §22, Mar. 7, 1974, 88 Stat. 20; Pub. L. 94–587, §168, Oct. 22, 1976, 90 Stat. 2936; Pub. L. 96–597, title VI, §605, Dec. 24, 1980, 94Stat. 3482; Pub. L. 99–662, title IX, §921, Nov. 17, 1986, 100 Stat. 4194; Pub. L. 101–640, title III, §319, Nov. 28, 1990, 104 Stat. 4642; Pub. L. 102–580, title II, §208, Oct. 31, 1992, 106 Stat. 4829; Pub. L. 104–303, title II, §221, Oct. 12, 1996, 110 Stat. 3697.)
 
 #### Codification
 

@@ -10,14 +10,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Cross References
-
-General military law provisions, see section 2571 et seq. of this title.
-
-Management and disposal of Government property, see section 471 et seq. of Title 40, Public Buildings, Property, and Works.
-
-Property records, see section 2721 of this title.
-
 
 ---
 

@@ -24,7 +24,7 @@ Applications for assistance under this section shall—
 
 &emsp;(2) set forth the activities for which assistance is sought, including (A) an estimate of the costs and general location of the activities; (B) a summary of the public and private resources which are expected to be made available in connection with the activities, including how the activities will take advantage of unique opportunities to attract private investment; and (C) an analysis of the economic benefits which the activities are expected to produce;
 
-&emsp;(3) contain a certification satisfactory to the Secretary that the applicant, prior to submission of its application, (A) has held public hearings to obtain the views of citizens, particularly residents of the area in which the proposed activities are to be carried out; (B) has analyzed the impact of these proposed activities on the residents, particularly those of low and moderate income, of the residential neighborhood, and on the neighborhood in which they are to be carried out; and (C) has made available the analysis described in clause (B) to any interested person or organization residing or located in the neighborhood in which the proposed activities are to be carried out; and
+&emsp;(3) contain a certification satisfactory to the Secretary that the applicant, prior to submission of its application, (A) has held publichearings to obtain the views of citizens, particularly residents of the area in which the proposed activities are to be carried out; (B) has analyzed the impact of these proposed activities on the residents, particularly those of low and moderate income, of the residential neighborhood, and on the neighborhood in which they are to be carried out; and (C) has made available the analysis described in clause (B) to any interested person or organization residing or located in the neighborhood in which the proposed activities are to be carried out; and
 
 &emsp;(4) contain a certification satisfactory to the Secretary that the applicant, prior to submission of its application, (A) has identified all properties, if any, which are included on the National Register of Historic Places and which, as determined by the applicant, will be affected by the project for which the application is made; (B) has identified all other properties, if any, which will be affected by such project and which, as determined by the applicant, may meet the criteria established by the Secretary of the Interior for inclusion on such Register, together with documentation relating to the inclusion of such properties on the Register; (C) has determined the effect, as determined by the applicant, of the project on the properties identified pursuant to clauses (A) and (B); and (D) will comply with the requirements of section 5320 of this title.
 
@@ -70,7 +70,7 @@ Applications for assistance under this section shall—
 
 > &emsp;If a city or urban county has submitted and has pending more than one application, the additional consideration provided by subparagraph (D) of the preceding sentence shall be available only to the project in such city or urban county which received the highest number of points under subparagraph (C) of such sentence.
 
-(2) For the purpose of making grants with respect to areas described in subsection (b)(2) of this section, the Secretary shall establish selection criteria, which must include (A) factors determined to be relevant by the Secretary in assessing the comparative degree of economic deterioration among eligible areas, and (B) such other criteria as the Secretary may determine, including at a minimum the criteria listed in paragraph (1)(C) of this subsection.
+(2) For the purpose of making grants with respect to areas described in subsection (b)(2) ofthis section, the Secretary shall establish selection criteria, which must include (A) factors determined to be relevant by the Secretary in assessing the comparative degree of economic deterioration among eligible areas, and (B) such other criteria as the Secretary may determine, including at a minimum the criteria listed in paragraph (1)(C) of this subsection.
 
 (3) The Secretary shall award points to each application as follows:
 
@@ -122,7 +122,7 @@ Activities assisted under this section may include such activities, in addition 
 
 #### (g) Annual review and audit; adjustments, withdrawals and reduction permitted
 
-The Secretary shall, at least on an annual basis, make reviews and audits of recipients of grants under this section as necessary to determine the progress made in carrying out activities substantially in accordance with approved plans and timetables. The Secretary may adjust, reduce, or withdraw grant funds, or take other action as appropriate in accordance with the findings of these reviews and audits, except that funds already expended on eligible activities under this chapter shall not be recaptured or deducted from future grants made to the recipient.
+The Secretary shall, at least on an annual basis, make reviews and audits of recipients of grants under this section as necessary to determine the progress made in carrying out activities substantially in accordance with approved plans and timetables. The Secretary may adjust,reduce, or withdraw grant funds, or take other action as appropriate in accordance with the findings of these reviews and audits, except that funds already expended on eligible activities under this chapter shall not be recaptured or deducted from future grants made to the recipient.
 
 #### (h) Limitations on grants for industrial or commercial relocations or expansions; appeal of denial or cancellation of assistance; grants to adversely affected individuals
 
@@ -172,7 +172,7 @@ The Secretary shall, at least on an annual basis, make reviews and audits of rec
 
 #### (i) Minimum percentage of funds to be allocated to certain noncentral cities; application by consortia of cities of less than 50,000 population
 
-Not less than 25 per centum of the funds made available for grants under this section shall be used for cities with populations of less than fifty thousand persons which are not central cities of a metropolitan statistical area. The Secretary shall encourage cooperation by geographically proximate cities of less than 50,000 population by permitting consortia of such cities, which may also include county governments that are not urban counties, to apply for grants on behalf of a city that is otherwise eligible for assistance under this section. Any grants awarded to such consortia shall be administered in compliance with eligibility requirements applicable to individual cities.
+Not less than 25 per centum of the funds made available for grants under this section shall be used for cities with populations of less than fifty thousand persons which are not central cities of a metropolitan statistical area. The Secretary shall encourage cooperation by geographically proximate cities of less than 50,000 population by permitting consortia of such cities, which may also include county governments that are not urban counties, to apply for grants on behalf of a city that is otherwise eligible for assistance under this section. Any grants awarded to suchconsortia shall be administered in compliance with eligibility requirements applicable to individual cities.
 
 #### (j) Grant contingent on factors related to non-Federal funds
 
@@ -234,7 +234,7 @@ If a grant or a portion of a grant under this section remains unexpended upon th
 
 &emsp;&emsp;(B) except when waived by the Secretary in the case of a severely distressed jurisdiction, not more than one-half of the costs of such activities are derived from such unexpended amount.
 
-(Pub. L. 93–383, title I, §119, as added Pub. L. 95–128, title I, §110(b), Oct. 12, 1977, 91 Stat. 1125; amended Pub. L. 95–557, title I, §103(g), (h), Oct. 31, 1978, 92 Stat. 2084; Pub. L. 96–153, title I, §§104, 105, Dec. 21, 1979, 93 Stat. 1102, 1104; Pub. L. 96–399, title I, §§110(a), (b), 117(a), Oct. 8, 1980, 94Stat. 1619, 1623; Pub. L. 97–35, title III, §308(a), Aug. 13, 1981, 95 Stat. 392; Pub. L. 98–181, title I, §121, Nov. 30, 1983, 97 Stat. 1168; Pub. L. 98–454, title VI, §601(c), Oct. 5, 1984, 98 Stat. 1736; Pub. L. 98–479, title II, §203(<i>l</i>)(3), Oct. 17, 1984, 98 Stat. 2231; Pub. L. 99–272, title XIV, §14001(b)(6), Apr. 7, 1986, 100 Stat. 329; Pub. L. 99–500, §101(g), Oct. 18, 1986, 100 Stat. 1783–242, and Pub. L. 99–591, §101(g), Oct. 30, 1986, 100 Stat. 3341–242; Pub. L. 100–202, §§101(f) \[title I, §101\], 106, Dec. 22, 1987, 101 Stat. 1329–187, 1329–193, 1329–433; Pub. L. 100–242, title V, §§501(c), 515(a)–(d), (g)(2)–(i), 516(a), Feb. 5, 1988, 101 Stat. 1923, 1930–1934; Pub. L. 100–404, title I, Aug. 19, 1988, 102 Stat. 1020; Pub. L. 100–628, title X, §1084, Nov. 7, 1988, 102 Stat. 3277; Pub. L. 103–233, title II, §232(b), (c)(1), Apr. 11, 1994, 108 Stat. 367.)
+(Pub. L. 93–383, title I, §119, as added Pub. L. 95–128, title I, §110(b), Oct. 12, 1977, 91 Stat. 1125; amended Pub. L. 95–557, title I, §103(g), (h), Oct. 31, 1978, 92 Stat. 2084; Pub. L. 96–153, title I, §§104, 105, Dec. 21, 1979, 93 Stat. 1102, 1104; Pub. L. 96–399, title I, §§110(a), (b), 117(a), Oct. 8, 1980, 94 Stat. 1619, 1623; Pub. L. 97–35, title III, §308(a), Aug. 13, 1981, 95 Stat. 392; Pub. L. 98–181, title I, §121, Nov. 30, 1983, 97 Stat. 1168; Pub. L. 98–454, title VI, §601(c), Oct. 5, 1984, 98 Stat. 1736; Pub. L. 98–479, title II, §203(<i>l</i>)(3), Oct. 17, 1984, 98 Stat. 2231; Pub. L. 99–272, title XIV, §14001(b)(6), Apr. 7, 1986, 100 Stat. 329; Pub. L. 99–500, §101(g), Oct. 18, 1986, 100 Stat. 1783–242, and Pub. L. 99–591, §101(g), Oct. 30, 1986, 100 Stat. 3341–242; Pub. L. 100–202, §§101(f) \[title I, §101\], 106, Dec. 22, 1987, 101 Stat. 1329–187, 1329–193, 1329–433; Pub. L. 100–242, title V, §§501(c), 515(a)–(d), (g)(2)–(i), 516(a), Feb. 5, 1988, 101 Stat. 1923, 1930–1934; Pub. L. 100–404, title I, Aug. 19, 1988, 102 Stat. 1020; Pub. L. 100–628, title X, §1084, Nov. 7, 1988, 102 Stat. 3277; Pub. L. 103–233, title II, §232(b), (c)(1), Apr. 11, 1994, 108 Stat. 367.)
 
 #### References in Text
 
@@ -294,7 +294,7 @@ Subsec. (n)(2). Pub. L. 98–479 substituted “chapter 67 of title 31” for �
 
 1983—Subsec. (a). Pub. L. 98–181, §121(a), inserted authorizations for appropriations not to exceed $440,000,000 for each of the fiscal years 1984, 1985, and 1986.
 
-Subsec. (b)(1). Pub. L. 98–181, §121(b), substituted “the extent of unemployment, job lag, or surplus labor” for “where data are available, the extent of unemploymentand job lag”, and inserted provisions for continued eligibility for assistance of any city with a population of less than 50,000 persons, other than a central city of a metropolitan area, which until the Secretary revises the standards for eligibility for such cities and includes the extent of unemployment, job lag, or labor surplus as a standard of distress for such cities, and provisions requiring the Secretary to make such revision as soon as possible following Nov. 30, 1983.
+Subsec. (b)(1). Pub. L. 98–181, §121(b), substituted “the extent of unemployment, job lag, or surplus labor” for “where data are available, the extent of unemployment and job lag”, and inserted provisions for continued eligibility for assistance of any city with a population of less than 50,000 persons, other than a central city of a metropolitan area, which until the Secretary revises the standards for eligibility for such cities and includes the extent of unemployment, job lag, or labor surplus as a standard of distress for such cities, and provisions requiring the Secretary to make such revision as soon as possible following Nov. 30, 1983.
 
 Subsec. (b)(2)(A)(i), (B)(i). Pub. L. 98–181, §121(c), inserted “neighborhood statistics areas,” after “enumeration districts,”.
 
@@ -378,7 +378,7 @@ Pub. L. 102–550, title XI, Oct. 28, 1992, 106 Stat. 3927, as amended by Pub. L
 
 #### “SEC. 1101. AUTHORITY.
 
-“To provide for the revitalization and renewal of inner city neighborhoods in the areas of Los Angeles, California, that were damaged by the civil disturbances during April and May of 1992, and to demonstrate the effectiveness of new town developments in revitalizing and restoring depressed and underprivileged inner cityneighborhoods, the Secretary of Housing and Urban Development shall, to the extent or in such amounts as are provided in appropriation Acts, make any assistance authorized under this title available under this title to units of general local government, governing boards, and eligible mortgagors in accordance with the provisions of this title.
+“To provide for the revitalization and renewal of inner city neighborhoods in the areas of Los Angeles, California, that were damaged by the civil disturbances during April and May of 1992, and to demonstrate the effectiveness of new town developments in revitalizing and restoring depressed and underprivileged inner city neighborhoods, the Secretary of Housing and Urban Development shall, to the extent or in such amounts as are provided in appropriation Acts, make any assistance authorized under this title available under this title to units of general local government, governing boards, and eligible mortgagors in accordance with the provisions of this title.
 
 #### “SEC. 1102. NEW TOWN PLAN.
 
@@ -556,7 +556,7 @@ Board Approval.—The Secretary may provide insurance under this section for a m
 
 “(d)
 
-Insurance Authority.—To the extent provided in appropriation Acts, the Secretary shall use any authority provided pursuant to section 531(b) of the National Housing Act \[12 U.S.C. 1735f–9(b)\] to enter into commitments to insure loans and mortgages under this section in fiscal years 1993 and 1994 with an aggregate principal amount not exceeding such sums as may be necessary to carry out the demonstration under this title. Mortgages insured under this section shall not be considered for purposes of the aggregate limitation on the number of mortgages insured under section 251 of the National Housing Act \[12 U.S.C. 1715z–16\] specified in subsection (c) of such section.
+Insurance Authority.—To the extent provided in appropriation Acts, the Secretary shall use any authority provided pursuant to section 531(b) of the National Housing Act \[12 U.S.C. 1735f–9(b)\] to enter into commitments to insure loans and mortgages under this section in fiscal years 1993 and 1994 with an aggregate principal amount not exceeding such sums as may be necessary to carry out the demonstration under thistitle. Mortgages insured under this section shall not be considered for purposes of the aggregate limitation on the number of mortgages insured under section 251 of the National Housing Act \[12 U.S.C. 1715z–16\] specified in subsection (c) of such section.
 
 #### “SEC. 1105. SECONDARY SOFT MORTGAGE FINANCING FOR HOUSING.
 
@@ -650,7 +650,7 @@ Contents.—The residential antidisplacement and relocation assistance plan refe
 
 &emsp;&emsp;&emsp;“(ii) such comparable replacement dwellings shall be designed to remain affordable to persons of low- and moderate-income for 10 years from the time of initial occupancy;
 
-&emsp;&emsp;&emsp;“(iii) relocation benefits shall be provided for all low- or moderate-income persons who occupied housing demolished or converted to a use other than for low- or moderate-income housing, including reimbursement for actual and reasonable moving expenses, security deposits, credit checks, and other moving-related expenses, including any interim living costs; and in the case of displaced persons of low- and moderate-income, provide either—
+&emsp;&emsp;&emsp;“(iii) relocation benefits shall be provided for all low- or moderate-income persons who occupied housing demolished or converted to a use other than for low- or moderate-income housing, including reimbursement for actual and reasonable moving expenses, security deposits, creditchecks, and other moving-related expenses, including any interim living costs; and in the case of displaced persons of low- and moderate-income, provide either—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) compensation sufficient to ensure that, for a 5-year period, the displaced families shall not bear, after relocation, a ratio of shelter costs to income that exceeds 30 percent; or
 
@@ -666,7 +666,7 @@ Contents.—The residential antidisplacement and relocation assistance plan refe
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(IV) in an area not subject to unreasonably adverse environmental conditions; and
 
-&emsp;&emsp;“(B) provide that persons displaced shall have the right to elect, as an alternative to the benefits under this subsection, to receive benefits under theUniform Relocation Assistance and Real Property Acquisition Policies Act of 1970 \[42 U.S.C. 4601 et seq.\] if such persons determine that it is in their best interest to do so; and
+&emsp;&emsp;“(B) provide that persons displaced shall have the right to elect, as an alternative to the benefits under this subsection, to receive benefits under the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970 \[42 U.S.C. 4601 et seq.\] if such persons determine that it is in their best interest to do so; and
 
 &emsp;&emsp;“(C) provide that where a claim for assistance under subparagraph (A)(iv) is denied by the unit of general local government, the claimant may appeal to the Secretary, and that the decision of the Secretary shall be final unless a court determines the decision was arbitrary and capricious.
 
@@ -762,7 +762,7 @@ Organization.—A governing board may organize itself and conduct business in th
 
 #### “SEC. 1108. REPORTS.
 
-“Each governing board carrying out a new town development demonstration under this title shall submit to the Congress a copy of the new town plan of the governing board, upon the approval of that plan under section 1102(d).
+“Each governing board carrying out a new town development demonstration under this title shall submitto the Congress a copy of the new town plan of the governing board, upon the approval of that plan under section 1102(d).
 
 #### “SEC. 1109. DEFINITIONS.
 
@@ -786,29 +786,11 @@ New town plan.—The terms ‘new town plan’ and ‘plan’ mean a plan under 
 
 &emsp;“(5)
 
-Unit of general local government.—The term ‘unit of general local government’ means anycity, county, town, township, parish, village, or other general purpose political subdivision of the State of California.”
+Unit of general local government.—The term ‘unit of general local government’ means any city, county, town, township, parish, village, or other general purpose political subdivision of the State of California.”
 
 #### Reports of Comptroller General
 
-Section 515(e) of Pub. L. 100–242 provided that:
-
-“(1)(A) Not later than the expiration of the 1-year period following the date of enactment of this Act \[Feb. 5, 1988\] and every 3 years thereafter, the Comptroller General of the United States shall prepare and submit to the Congress a comprehensive report evaluating the eligibility standards and selection criteria applicable under section 119 of the Housing and Community Development Act of 1974 \[this section\].
-
-“(B) Such report shall evaluate in detail the standards and criteria specified in such section that measure the level or comparative degree of economic distress of cities and urban counties and the effect of the grants awarded on the basis of such standards and criteria on stimulating the maximum economic development activity.
-
-“(C) Such report shall also evaluate in detail the extent to which the economic and social data utilized by the Secretary in awarding grants under such section is current and accurate, and shall compare the data used by the Secretary with other available data. The Comptroller General shall make recommendations to the Congress on whether or not other data should be collected by the Federal Government in order to fairly and accurately distribute grants under such section based on the level or comparative degree of economic distress. The Comptroller General shall also make recommendations on whether or not existing data should be collected more frequently in order to ensure that timely data is used to evaluate grant applications under such section.
-
-“(2) Not later than the expiration of the 3-month period following the date of the final competition for grants for fiscal year 1988 under section 119 of the Housing and Community Development Act of 1974 \[this section\], the Comptroller General of the United States shall prepare and submit to the Congress a comprehensive report describing the effect of the amendments made by this section \[amending this section\] on—
-
-&emsp;“(A) the targeting of grant funds to cities and urban counties having the highest level or degree of economic distress;
-
-&emsp;“(B) the distribution of grants \[sic\] funds among regions of the United States;
-
-&emsp;“(C) the number and types of projects receiving grants;
-
-&emsp;“(D) the per capita funding levels for each city, urban county, or identifiable community described in subsection (p) of such section 119, receiving assistance under such section 119; and
-
-&emsp;“(E) the stimulation of the maximum economic development activity.”
+Pub. L. 100–242, title V, §515(e), Feb. 5, 1988, 101 Stat. 1933, which required the Comptroller General of the United States to triennially prepare and submit to Congress a comprehensive report evaluating the eligibility standards and selection criteria applicable under this section, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, item 14 on page 9 of House Document No. 103–7.
 
 #### Neighborhood Development Demonstration
 
@@ -816,7 +798,7 @@ Section 123 of Pub. L. 98–181, as amended, which provided for a demonstration 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5302, 5304, 5305, 5307, 5313, 5318a, 5320, 11501, 12705 of this title; title 12 section 1715z; title 26 section 144.
+This section is referred to in sections 5302, 5304, 5305, 5307, 5313, 5318a, 5320, 11501, 12705 of this title; title 12 section 1715z; title 26 sections 144, 1400E.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

@@ -16,10 +16,6 @@ Amendment by section 308(d)(4)(O) of Pub. L. 104–208 effective, with certain t
 
 Amendment by section 371(b)(9) of Pub. L. 104–208 effective Sept. 30, 1996, see section 371(d)(1) of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
-#### Cross References
-
-Definition of Attorney General and special inquiry officer, see section 1101 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1228 of this title.

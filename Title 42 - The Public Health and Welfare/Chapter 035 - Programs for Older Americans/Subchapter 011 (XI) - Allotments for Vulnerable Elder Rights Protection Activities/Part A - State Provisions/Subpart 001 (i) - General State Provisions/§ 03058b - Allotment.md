@@ -16,7 +16,7 @@
 
 #### (i) Minimum allotment for States
 
-&emsp;&emsp;&emsp;No State shall be allotted less than one-half of 1 percent of the funds appropriated under section 3058a of this title for the fiscal year for which the determination is made.
+&emsp;&emsp;&emsp;No State shall be allotted less than one-half of 1 percent of the funds appropriatedunder section 3058a of this title for the fiscal year for which the determination is made.
 
 #### (ii) Minimum allotment for territories
 
@@ -26,11 +26,11 @@
 
 #### (i) Ombudsman program
 
-&emsp;&emsp;&emsp;No State shall be allotted for a fiscal year, from the funds appropriated under section 3058a(a) of this title, less than the amount allotted to the State under section 3024 of this title in fiscal year 1991 to carry out the State Long-Term Care Ombudsman program under subchapter III of this chapter.
+&emsp;&emsp;&emsp;No State shall be allotted for a fiscal year, from the funds appropriated under section 3058a of this title and made available to carry out subpart II of this part, less than the amount allotted to the State under section 3024 of this title in fiscal year 2000 to carry out the State Long-Term Care Ombudsman program under subchapter III of this chapter.
 
 #### (ii) Elder abuse programs
 
-&emsp;&emsp;&emsp;No State shall be allotted for a fiscal year, from the funds appropriated under section 3058a(b) of this title, less than the amount allotted to the State under section 3024 of this title in fiscal year 1991 to carry out programs with respect to the prevention of elder abuse, neglect, and exploitation under subchapter III of this chapter.
+&emsp;&emsp;&emsp;No State shall be allotted for a fiscal year, from the funds appropriated under section 3058a of this title and made available to carry out subpart III of this part, less than the amount allotted to the State under section 3024 of this title in fiscal year 2000 to carry out programs with respect to the prevention of elder abuse, neglect, and exploitation under subchapter III of this chapter.
 
 #### (D) “State” defined
 
@@ -50,7 +50,7 @@
 
 If the Assistant Secretary finds that any State has failed to carry out this subchapter in accordance with the assurances made and description provided under section 3058d of this title, the Assistant Secretary shall withhold the allotment of funds to the State. The Assistant Secretary shall disburse the funds withheld directly to any public or nonprofit private institution or organization, agency, or political subdivision of the State submitting an approved plan containing the assurances and description.
 
-(Pub. L. 89–73, title VII, §703, as added Pub. L. 102–375, title VII, §701, Sept. 30, 1992, 106 Stat. 1271; amended Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990.)
+(Pub. L. 89–73, title VII, §703, as added Pub. L. 102–375, title VII, §701, Sept. 30, 1992, 106 Stat. 1271; amended Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990; Pub. L. 106–501, title VII, §702, title VIII, §801(e)(1), Nov. 13, 2000, 114 Stat. 2289, 2293.)
 
 #### Prior Provisions
 
@@ -60,6 +60,10 @@ A prior section 703 of Pub. L. 89–73 was classified to section 3045b of this t
 
 #### Amendments
 
+2000—Subsec. (a)(2)(C)(i). Pub. L. 106–501, §§702, 801(e)(1)(A), substituted “section 3058a of this title and made available to carry out subpart II of this part” for “section 3058a(a) of this title” and “2000” for “1991”.
+
+Subsec. (a)(2)(C)(ii). Pub. L. 106–501, §§702, 801(e)(1)(B), substituted “section 3058a of this title and made available to carry out subpart III of this part” for “section 3058a(b) of this title” and “2000” for “1991”.
+
 1993—Pub. L. 103–171 substituted “Assistant Secretary” for “Commissioner” wherever appearing.
 
 #### Termination of Trust Territory of the Pacific Islands
@@ -68,5 +72,5 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3058g, 3058i, 3058j, 3058k of this title.
+This section is referred to in sections 3058g, 3058i of this title.
 

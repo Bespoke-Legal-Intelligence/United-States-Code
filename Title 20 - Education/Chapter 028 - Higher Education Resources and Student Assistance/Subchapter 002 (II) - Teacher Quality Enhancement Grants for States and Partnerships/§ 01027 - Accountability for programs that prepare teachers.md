@@ -6,7 +6,7 @@ Within 9 months of October 7, 1998, the Commissioner of the National Center for 
 
 #### (b) State report card on quality of teacher preparation
 
-Each State that receives funds under this chapter shall provide to the Secretary, within 2 years of October 7, 1998, and annually thereafter,in a uniform and comprehensible manner that conforms with the definitions and methods established in subsection (a) of this section, a State report card on the quality of teacher preparation in the State, which shall include at least the following:
+Each State that receives funds under this chapter shall provide to the Secretary, within 2 years of October 7, 1998, and annually thereafter, in a uniform and comprehensible manner that conforms with the definitions and methods established in subsection (a) of this section, a State report card on the quality of teacher preparation in the State, which shall include at least the following:
 
 &emsp;(1) A description of the teacher certification and licensure assessments, and any other certification and licensure requirements, used by the State.
 

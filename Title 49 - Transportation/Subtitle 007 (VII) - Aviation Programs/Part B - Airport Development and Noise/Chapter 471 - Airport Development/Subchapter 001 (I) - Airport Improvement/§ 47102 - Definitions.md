@@ -36,15 +36,21 @@ In this subchapter—
 
 &emsp;&emsp;&emsp;(i) a navigation aid or another aid (including a precision approach system) used by aircraft for landing at or taking off from the airport, including preparing the site as required by the acquisition or installation;
 
-&emsp;&emsp;&emsp;(ii) safety or security equipment, including explosive detection devices and universal access systems, the Secretary requires by regulation for, or approves as contributing significantly to, the safety or security of individuals and property at the airport;
+&emsp;&emsp;&emsp;(ii) safety or security equipment, including explosive detection devices, universal access systems, and emergency call boxes, the Secretary requires by regulation for, or approves as contributing significantly to, the safety or security of individuals and property at the airport and integrated in-pavement lighting systems for runways and taxiways and other runway and taxiway incursion prevention devices;
 
-&emsp;&emsp;&emsp;(iii) equipment to remove snow, to measure runway surface friction, or for aviation-related weather reporting;
+&emsp;&emsp;&emsp;(iii) equipment to remove snow, to measure runway surface friction, or for aviation-related weather reporting, including closed circuit weather surveillance equipment if the airport is located in Alaska;
 
 &emsp;&emsp;&emsp;(iv) firefighting and rescue equipment at an airport that serves scheduled passenger operations of air carrier aircraft designed for more than 20 passenger seats;
 
-&emsp;&emsp;&emsp;(v) aircraft deicing equipment and structures (except aircraft deicing fluids and storage facilities for the equipment and fluids); and
+&emsp;&emsp;&emsp;(v) aircraft deicing equipment and structures (except aircraft deicing fluids and storage facilities for the equipment and fluids);
 
-&emsp;&emsp;&emsp;(vi) interactive training systems.
+&emsp;&emsp;&emsp;(vi) interactive training systems;
+
+&emsp;&emsp;&emsp;(vii) windshear detection equipment that is certified by the Administrator of the Federal Aviation Administration;
+
+&emsp;&emsp;&emsp;(viii) stainless steel adjustable lighting extensions approved by the Administrator; and
+
+&emsp;&emsp;&emsp;(ix) engineered materials arresting systems as described in the Advisory Circular No. 150/5220–22 published by the Federal Aviation Administration on August 21, 1998, including any revision to the circular.
 
 &emsp;&emsp;(C) acquiring an interest in land or airspace, including land for future airport development, that is needed—
 
@@ -59,6 +65,10 @@ In this subchapter—
 &emsp;&emsp;(F) constructing, reconstructing, repairing, or improving an airport, or purchasing capital equipment for an airport, if necessary for compliance with the responsibilities of the operator or owner of the airport under the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.), the Clean Air Act (42 U.S.C. 7401 et seq.), and the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.), except constructing or purchasing capital equipment that would benefit primarily a revenue-producing area of the airport used by a nonaeronautical business.
 
 &emsp;&emsp;(G) acquiring land for, or work necessary to construct, a pad suitable for deicing aircraft before takeoff at a commercial service airport, including constructing or reconstructing paved areas, drainage collection structures, treatment and discharge systems, appropriate lighting, paved access for deicing vehicles and aircraft, but not including acquiring aircraft deicing fluids or constructing or reconstructing storage facilities for aircraft deicing equipment or fluids.
+
+&emsp;&emsp;(H) routine work to preserve and extend the useful life of runways, taxiways, and aprons at airports that are not primary airports, under guidelines issued by the Administrator of the Federal Aviation Administration.
+
+&emsp;&emsp;(I) constructing, reconstructing, or improving an airport, or purchasing nonrevenue generating capital equipment to be owned by an airport, for the purpose of transferring passengers, cargo, or baggage between the aeronautical and ground transportation modes on airport property.
 
 &emsp;(4) “airport hazard” means a structure or object of natural growth located on or near a public-use airport, or a use of land near the airport, that obstructs or otherwise is hazardous to the landing or taking off of aircraft at or from the airport.
 
@@ -128,7 +138,7 @@ In this subchapter—
 
 &emsp;(20) “State” means a State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, American Samoa, the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and Guam.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1248; Pub. L. 103–305, title I, §105, Aug. 23, 1994, 108 Stat. 1572; Pub. L. 104–264, title I, §142(b)(1), Oct. 9, 1996, 110 Stat. 3221.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1248; Pub. L. 103–305, title I, §105, Aug. 23, 1994, 108 Stat. 1572; Pub. L. 104–264, title I, §142(b)(1), Oct. 9, 1996, 110 Stat. 3221; Pub. L. 106–181, title I, §§121(c), 122, 123(b), 137(b), title V, §514(a), Apr. 5, 2000, 114 Stat. 74, 75, 85, 144.)
 
 Historical and Revision Notes
 
@@ -246,7 +256,7 @@ In clause (2), before subclause (A), the text of 49 App.:2202(a)(21) is omitted 
 
 In clause (3)(A), before subclause (i), the words “any work involved in” and “or portion thereof” are eliminated as unnecessary. The word “reconstructing” is omitted as being included in “constructing”. In subclause (ii), the words “carrying out a field investigation” are substituted for “field investigations incidental thereto” for clarity.
 
-In clause (3)(B), before subclause (i), the word “for” is substituted for “by” for clarity. In subclause (i), the words “required by the acquisition or installation” are substituted for “thereby required” for clarity. In subclause (ii), the word “individuals” is substituted for “persons” for clarity and consistency in the revised title and with other titles of the Code.
+In clause (3)(B), before subclause (i), the word “for” is substituted for “by” for clarity. In subclause (i), thewords “required by the acquisition or installation” are substituted for “thereby required” for clarity. In subclause (ii), the word “individuals” is substituted for “persons” for clarity and consistency in the revised title and with other titles of the Code.
 
 In clause (3)(C), before subclause (i), the words “interest in land or airspace” are substituted for “land or of any interest therein, or of any easement through or other interest in airspace” to eliminate unnecessary words. In subclause (ii), the words “existing airport hazard . . . the creation of a new airport hazard” are added for clarity and consistency in this chapter.
 
@@ -280,11 +290,27 @@ The Federal Water Pollution Control Act, referred to in par. (3)(F), is act June
 
 #### Amendments
 
+2000—Par. (3)(B)(ii). Pub. L. 106–181, §121(c)(1), substituted “, universal access systems, and emergency call boxes,” for “and universal access systems,” and inserted “and integrated in-pavement lighting systems for runways and taxiways and other runway and taxiway incursion prevention devices” before semicolon at end.
+
+Par. (3)(B)(iii). Pub. L. 106–181, §121(c)(2), inserted before semicolon at end “, including closed circuit weather surveillance equipment if the airport is located in Alaska”.
+
+Par. (3)(B)(vii), (viii). Pub. L. 106–181, §122, added cls. (vii) and (viii).
+
+Par. (3)(B)(ix). Pub. L. 106–181, §514(a), added cl. (ix).
+
+Par. (3)(H). Pub. L. 106–181, §123(b), added subpar. (H).
+
+Par. (3)(I). Pub. L. 106–181, §137(b), added subpar. (I).
+
 1996—Par. (3)(E). Pub. L. 104–264, §142(b)(1)(A), inserted “or under section 40117” before period at end.
 
 Par. (3)(F). Pub. L. 104–264, §142(b)(1)(B), struck out “paid for by a grant under this subchapter and” after “airport, if”.
 
 1994—Par. (3)(B)(ii). Pub. L. 103–305 inserted “, including explosive detection devices and universal access systems,” after “or security equipment”.
+
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -296,5 +322,5 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 40117, 44502, 47134, 47151, 47501, 50104 of this title; title 19 section 1644a; title 50 App. section 1622.
+This section is referred to in sections 40117, 44502, 47134, 47151, 47501, 50104 of this title; title 18 section 1036; title 19 section 1644a; title 50 App. section 1622.
 

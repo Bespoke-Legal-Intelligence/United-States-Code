@@ -1,6 +1,6 @@
 ### §3626. Reduced rates
 
-(a)(1) Except as otherwise provided in this section, rates of postage for a class of mail or kind of mailer under former section 4358, 4452(b), 4452(c), 4454(b), or 4454(c) <sup>1</sup> of this title shall be established in accordance with the applicable provisions of this chapter.
+(a)(1) Except as otherwise provided in this section, rates of postage for a class of mail or kind of mailer under former section 4358, 4452(b), 4452(c), 4554(b), or 4554(c) of this title shall be established in accordance with the applicable provisions of this chapter.
 
 (2) For the purpose of this subsection—
 
@@ -10,7 +10,7 @@
 
 &emsp;(C) the term “institutional-costs contribution”, as used with respect to a class of mail or kind of mailer, means that portion of the estimated revenues to the Postal Service from such class of mail or kind of mailer which remains after subtracting an amount equal to the estimated costs attributable to such class of mail or kind of mailer.
 
-(3)(A) Except as provided in paragraph (4) or (5), rates of postage for a class of mail or kind of mailer under former section 4358, 4452(b), 4452(c), 4554(b), or 4554(c) of this title shall be established in a manner such that the estimated revenues to be received by the Postal Service from such class of mail or kind of mailer shall be equal to the sum of—
+(3)(A) Except as provided in paragraph (4) or (5), rates of postage for a class of mail or kind of mailer under former section 4358 of this title shall be established in a manner such that the estimated revenues to be received by the Postal Service from such class of mail or kind of mailer shall be equal to the sum of—
 
 &emsp;(i) the estimated costs attributable to such class of mail or kind of mailer; and
 
@@ -36,9 +36,21 @@
 
 (D) For purposes of establishing rates of postage under this subchapter for any of the classes of mail or kinds of mailers referred to in subparagraph (A), subclauses (I) through (V) of subparagraph (B)(ii) shall be deemed amended by striking the fraction specified in each such subclause and inserting “one-half”.
 
-(4) The rates for the advertising portion of any mail matter under former section 4358(d) or 4358(e) of this title shall be equal to the rates for the advertising portion of the most closely corresponding regular-rate category of mail, except that if the advertising portion does not exceed 10 percent of the issue of the publication involved, the advertising portion shall be subject to the same rates as apply to the nonadvertising portion.
+(4)(A) Except as specified in subparagraph (B), rates of postage for a class of mail or kind of mailer under former section 4358 (d) or (e) of this title shall be established so that postage on each mailing of such mail shall be as nearly as practicable 5 percent lower than the postage for a corresponding regular-rate category mailing.
+
+(B) With respect to the postage for the advertising pound portion of any mail matter under former section 4358 (d) or (e) of this title, the 5-percent discount specified in subparagraph (A) shall not apply if the advertising portion exceeds 10 percent of the publication involved.
 
 (5) The rates for any advertising under former section 4358(f) of this title shall be equal to 75 percent of the rates for advertising contained in the most closely corresponding regular-rate category of mail.
+
+(6) The rates for mail matter under former sections 4452 (b) and (c) of this title shall be established as follows:
+
+&emsp;(A) The estimated average revenue per piece to be received by the Postal Service from each subclass of mail under former sections 4452 (b) and (c) of this title shall be equal, as nearly as practicable, to 60 percent of the estimated average revenue per piece to be received from the most closely corresponding regular-rate subclass of mail.
+
+&emsp;(B) For purposes of subparagraph (A), the estimated average revenue per piece of each regular-rate subclass shall be calculated on the basis of expected volumes and mix of mail for such subclass at current rates in the test year of the proceeding.
+
+&emsp;(C) Rate differentials within each subclass of mail matter under former sections 4452 (b) and (c) shall reflect the policies of this title, including the factors set forth in section 3622(b) of this title.
+
+(7) The rates for mail matter under former sections 4554 (b) and (c) of this title shall be established so that postage on each mailing of such mail shall be as nearly as practicable 5 percent lower than the postage for a corresponding regular-rate mailing.
 
 (b)(1) For the purposes of this title, the term “periodical publications”, as used in former section 4351 of this title, includes (A) any catalog or other course listing, including mail announcements of legal texts which are part of post-bar admission education issued by any institution of higher education or by a nonprofit organization engaged in continuing legal education; and (B) any looseleaf page or report (including any index, instruction for filing, table, or sectional identifier which is an integral part of such report) which is designed as part of a looseleaf reporting service concerning developments in the law or public policy.
 
@@ -60,9 +72,9 @@
 
 &emsp;(B) the term “national committee” means the organization which, by virtue of the bylaws of a political party, is responsible for the day-to-day operation of such political party at the national level; and
 
-&emsp;(C) the term “State committee” means the organization which, by virtue of the bylaws ofa political party, is responsible for the day-to-day operation of such political party at the State level.
+&emsp;(C) the term “State committee” means the organization which, by virtue of the bylaws of a political party, is responsible for the day-to-day operation of such political party at the State level.
 
-(f) In the administration of this chapter, the rates for mail under former section 4358(g) of this title shall be established without regard to either the provisions of such former section 4358(g) or the provisions of this section.
+(f) In the administration of this chapter, the rates for mail under former section 4358(g) ofthis title shall be established without regard to either the provisions of such former section 4358(g) or the provisions of this section.
 
 (g)(1) In the administration of this section, the rates for mail under subsections (a), (b), and (c) of former section 4358 of this title shall not apply to an issue of a publication if the number of copies of such issue distributed within the county of publication is less than the number equal to the sum of 50 percent of the total paid circulation of such issue plus one.
 
@@ -104,9 +116,9 @@
 
 (B) The Postal Service shall establish procedures to carry out this paragraph, including procedures for mailer certification of compliance with the conditions specified in paragraph (1)(D) or subsection (m), as applicable, and verification of such compliance.
 
-(k)(1) No person or organization shall mail, or cause to be mailed by contractual agreement orotherwise, at the rates for mail under former section 4452(b) or 4452(c) of this title, any matter to which those rates do not apply.
+(k)(1) No person or organization shall mail, or cause to be mailed by contractual agreement or otherwise, at the rates for mail under former section 4452(b) or 4452(c) of this title, any matter to which those rates do not apply.
 
-(2) The Postal Service may assess a postage deficiency in the amount of the unpaid postage against any person or organization which violates paragraph (1) of this subsection. This assessment shall be deemed the final decision of the Postal Service, unless the party against whom the deficiency is assessed appeals it in writing within thirty days to the postmaster of the office where the mailing was entered. Such an appeal shall be considered by an official designated by the Postal Service, other than the postmaster of the office where the mailing was entered, who shall issue a decision as soon as practicable. This decision shall be deemed final unless the party against whom the deficiency was assessed appeals it in writing within thirty days to a further reviewing official designated by the Postal Service, who shall issue the final decision on the matter.
+(2) The Postal Service may assess a postage deficiency in the amount of the unpaid postageagainst any person or organization which violates paragraph (1) of this subsection. This assessment shall be deemed the final decision of the Postal Service, unless the party against whom the deficiency is assessed appeals it in writing within thirty days to the postmaster of the office where the mailing was entered. Such an appeal shall be considered by an official designated by the Postal Service, other than the postmaster of the office where the mailing was entered, who shall issue a decision as soon as practicable. This decision shall be deemed final unless the party against whom the deficiency was assessed appeals it in writing within thirty days to a further reviewing official designated by the Postal Service, who shall issue the final decision on the matter.
 
 (3) The Postal Service shall maintain procedures for the prompt collection of postage deficiencies arising from the violation of paragraph (1) of this subsection, and may in its discretion, follow the issuance of a final decision regarding a deficiency under paragraph (2) of this subsection deduct the amount of that deficiency incurred during the previous 12 months from any postage accounts or other monies of the violator in its possession.
 
@@ -120,7 +132,7 @@
 
 (2) Paragraph (1) shall not apply with respect to a periodical publication of a qualified nonprofit organization.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 762; Pub. L. 93–328, §1, June 30, 1974, 88 Stat. 287; Pub. L. 94–421, §11, Sept. 24, 1976, 90 Stat. 1311; Pub. L. 95–593, §11(c), Nov. 4, 1978, 92 Stat. 2538; Pub. L. 99–272, title XV, §§15102(b)(1), (c), 15104, 15105, Apr. 7, 1986, 100 Stat. 330, 331; Pub. L. 99–509, title VI, §6003(a), Oct. 21, 1986, 100 Stat. 1933; Pub. L. 101–509, title II, §§1(a), 3, Nov. 5, 1990, 104 Stat. 1397, 1399; Pub. L. 102–141, title II, Oct. 28, 1991, 105 Stat. 842, 843; Pub. L. 103–123, title VII, §§704(a)(1), (3)(A), 705(a)–(c), 708(e), Oct. 28, 1993, 107 Stat. 1267, 1269, 1271, 1273; Pub. L. 103–329, title VI, §639, Sept. 30, 1994, 108 Stat. 2432; Pub. L. 104–255, §2, Oct. 9, 1996, 110 Stat. 3169; Pub. L. 105–244, title I, §102(a)(12), Oct. 7, 1998, 112 Stat. 1620.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 762; Pub. L. 93–328, §1, June 30, 1974, 88 Stat. 287; Pub. L. 94–421, §11, Sept. 24, 1976, 90 Stat. 1311; Pub. L. 95–593, §11(c), Nov. 4, 1978, 92 Stat. 2538; Pub. L. 99–272, title XV, §§15102(b)(1), (c), 15104, 15105, Apr. 7, 1986, 100 Stat. 330, 331; Pub. L. 99–509, title VI, §6003(a), Oct. 21, 1986, 100 Stat. 1933; Pub. L. 101–509, title II, §§1(a), 3, Nov. 5, 1990, 104 Stat. 1397, 1399; Pub. L. 102–141, title II, Oct. 28, 1991, 105 Stat. 842, 843; Pub. L. 103–123, title VII, §§704(a)(1), (3)(A), 705(a)–(c), 708(e), Oct. 28, 1993, 107 Stat. 1267, 1269, 1271, 1273; Pub. L. 103–329, title VI, §639, Sept. 30, 1994, 108 Stat. 2432; Pub. L. 104–255, §2, Oct. 9, 1996, 110 Stat. 3169; Pub. L. 105–244, title I, §102(a)(12), Oct. 7, 1998, 112 Stat. 1620; Pub. L. 106–384, §§1(b)–(e), 2(b), Oct. 27, 2000, 114 Stat. 1460–1462.)
 
 #### References in Text
 
@@ -133,6 +145,20 @@ Section 513 of the Internal Revenue Code of 1986, referred to in subsecs. (j)(1)
 The phrase “shall take effect immediately and shall stay in effect hereafter”, referred to in subsec. (j)(1)(D)(III), probably means that the provision shall take effect Sept. 30, 1994, the date of enactment of Pub. L. 103–329, which enacted subsec. (j)(1)(D)(III), and shall stay in effect after that date.
 
 #### Amendments
+
+2000—Subsec. (a)(1). Pub. L. 106–384, §2(b), substituted “4554(b), or 4554(c)” for “4454(b), or 4454(c)”.
+
+Subsec. (a)(3)(A). Pub. L. 106–384, §1(b), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Except as provided in paragraph (4) or (5), rates of postage for a class of mail or kind of mailer under former section 4358, 4452(b), 4452(c), 4554(b), or 4554(c) of this title shall be established in a manner such that the estimated revenues to be received by the Postal Service from such class of mail or kind of mailer shall be equal to the sum of—
+
+&emsp;“(i) the estimated costs attributable to such class of mail or kind of mailer; and
+
+&emsp;“(ii) the product derived by multiplying the estimated costs referred to in clause (i) by the applicable percentage under subparagraph (B).”
+
+Subsec. (a)(4). Pub. L. 106–384, §1(c), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The rates for the advertising portion of any mail matter under former section 4358(d) or 4358(e) of this title shall be equal to the rates for the advertising portion of the most closely corresponding regular-rate category of mail, except that if the advertising portion does not exceed 10 percent of the issue of the publication involved, the advertising portion shall be subject to the same rates as apply to the nonadvertising portion.”
+
+Subsec. (a)(6). Pub. L. 106–384, §1(d), added par. (6).
+
+Subsec. (a)(7). Pub. L. 106–384, §1(e), added par. (7).
 
 1998—Subsec. (b)(3). Pub. L. 105–244 substituted “section 101” for “section 1201(a)” and struck out “(20 U.S.C. 1141(a))” after “Act of 1965”.
 
@@ -241,6 +267,4 @@ Section 2 of Pub. L. 93–328 provided that: “Nothing in section 1 of this Act
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 2401, 3629, 3642 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “4554(b), or 4554(c)”.</i>
 

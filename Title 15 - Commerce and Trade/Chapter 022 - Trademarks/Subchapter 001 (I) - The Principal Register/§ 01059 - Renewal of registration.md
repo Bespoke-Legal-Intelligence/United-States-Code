@@ -44,7 +44,7 @@ Amendment by Pub. L. 105–330 effective on the date that is 1 year after Oct. 3
 
 For provisions relating to applicability of amendment by Pub. L. 105–330 to applications for registration of trademarks, see section 109(b) of Pub. L. 105–330, set out as a note under section 1051 of this title.
 
-Pub. L. 105–330, title I, §109(d), Oct. 30, 1998, 112 Stat. 3069, provided that: “The amendment made by section 106 \[amending this section\] shall apply to the filing of an application for renewal of a registration if the expiration date of the registration for which the renewal application is filed is on or after the effective date of this Act \[probably should be “this title”, see section 110 of Pub. L. 105–330, set out as an Effective Date of 1998 Amendment note under section 1051 of this title\].”
+Pub. L. 105–330, title I, §109(d), Oct. 30, 1998, 112 Stat. 3069, provided that: “The amendment made by section 106 \[amending this section\] shall apply to the filing of an application for renewal of a registration if the expiration date of the registration for which the renewalapplication is filed is on or after the effective date of this Act \[probably should be “this title”, see section 110 of Pub. L. 105–330, set out as an Effective Date of 1998 Amendment note under section 1051 of this title\].”
 
 #### Effective Date of 1988 Amendment
 

@@ -44,7 +44,7 @@ Pub. L. 104–208, div. A, title II, §2401, Sept. 30, 1996, 110 Stat. 3009–42
 
 Pub. L. 104–29, §1, Sept. 30, 1995, 109 Stat. 271, provided that: “This Act \[enacting section 1649 of this title, amending sections 1605, 1631, 1635, 1640, and 1641 of this title, and enacting provisions set out as notes under section 1605 of this title\] may be cited as the ‘Truth in Lending Act Amendments of 1995’.”
 
-Pub. L. 104–12, §1, May 18, 1995, 109 Stat. 161, provided that: “This Act \[amending section 1640 of this title\] may be cited as the ‘Truth in Lending Class Action Relief Act of 1995’.”
+Pub. L. 104–12, §1, May 18, 1995, 109 Stat. 161, provided that: “This Act \[amending section 1640 of this title\]may be cited as the ‘Truth in Lending Class Action Relief Act of 1995’.”
 
 #### Short Title of 1994 Amendment
 
@@ -66,7 +66,7 @@ Pub. L. 97–25, §1, July 27, 1981, 95 Stat. 144, provided: “That this Act \[
 
 #### Short Title of 1980 Amendment
 
-Pub. L. 96–221, title VI, §601, Mar. 31, 1980, 94 Stat. 168, provided that: “This title \[enacting section 1646 of this title, amending sections 57a, 1602 to 1607, 1610, 1612, 1613,1631, 1632, 1635, 1637, 1638, 1640, 1641, 1643, 1663, 1664, 1665a, 1666, 1666d, 1667d, and 1691f of this title, repealing sections 1614, 1636, and 1639 of this title, and enacting provisions set out as notes under sections 1602 and 1607 of this title\] may be cited as the ‘Truth in Lending Simplification and Reform Act’.”
+Pub. L. 96–221, title VI, §601, Mar. 31, 1980, 94 Stat. 168, provided that: “This title \[enacting section 1646 of this title, amending sections 57a, 1602 to 1607, 1610, 1612, 1613, 1631, 1632, 1635, 1637, 1638, 1640, 1641, 1643, 1663, 1664, 1665a, 1666, 1666d, 1667d, and 1691f of this title, repealing sections 1614, 1636, and 1639 of this title, and enacting provisions set out as notes under sections 1602 and 1607 of this title\] may be cited as the ‘Truth in Lending Simplification and Reform Act’.”
 
 #### Short Title of 1976 Amendments
 
@@ -114,7 +114,7 @@ Pub. L. 103–325, title I, §158, Sept. 23, 1994, 108 Stat. 2197, provided that
 
 “(a)
 
-Hearings.—Not less than once during the 3-year period beginning on the date of enactment of this Act \[Sept. 23, 1994\], and regularly thereafter, the Board of Governors of the Federal Reserve System, in consultation with the Consumer Advisory Council of the Board, shall conduct a public hearing to examine the home equity loan market and the adequacy of existing regulatory and legislative provisions and the provisions of this subtitle \[see Short Title of 1994 Amendment note above\] in protecting the interests of consumers, and low-income consumers in particular.
+Hearings.—Not less than once during the 3-year period beginning on the date of enactment of this Act\[Sept. 23, 1994\], and regularly thereafter, the Board of Governors of the Federal Reserve System, in consultation with the Consumer Advisory Council of the Board, shall conduct a public hearing to examine the home equity loan market and the adequacy of existing regulatory and legislative provisions and the provisions of this subtitle \[see Short Title of 1994 Amendment note above\] in protecting the interests of consumers, and low-income consumers in particular.
 
 “(b)
 

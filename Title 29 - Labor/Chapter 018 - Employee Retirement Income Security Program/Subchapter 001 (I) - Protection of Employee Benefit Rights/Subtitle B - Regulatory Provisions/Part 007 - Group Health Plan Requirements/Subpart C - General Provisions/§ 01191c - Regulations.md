@@ -1,6 +1,6 @@
 ### §1191c. Regulations
 
-The Secretary, consistent with section 104 of the Health Care Portability and Accountability Act of 1996, may promulgate such regulations as may be necessary or appropriate to carry out the provisions of this part. The Secretary may promulgate any interim final rules as the Secretary determines are appropriate to carry out this part.
+The Secretary, consistent with section 104 of the Health Care Portability and AccountabilityAct of 1996, may promulgate such regulations as may be necessary or appropriate to carry out the provisions of this part. The Secretary may promulgate any interim final rules as the Secretary determines are appropriate to carry out this part.
 
 (Pub. L. 93–406, title I, §734, formerly §707, as added Pub. L. 104–191, title I, §101(a), Aug. 21, 1996, 110 Stat. 1951; renumbered §734, Pub. L. 104–204, title VI, §603(a)(3), Sept. 26, 1996, 110 Stat. 2935.)
 

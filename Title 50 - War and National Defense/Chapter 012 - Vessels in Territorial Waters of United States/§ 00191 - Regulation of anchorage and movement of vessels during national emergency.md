@@ -60,7 +60,7 @@ Section 4 of title XIII of act June 15, 1917, provided: “If any clause, senten
 
 #### Delegation of Functions
 
-For delegation to Secretary of the Treasury of authority vested in President by this section, see section 2(e) of Ex. Ord. No. 10289, Sept. 17, 1951, 16 F.R. 9499, as amended, and section 1(r) of Ex. Ord. No. 10637, Sept. 16, 1955, 20 F.R. 7025, set out as notes under section 301 of Title 3, The President.
+For delegation to Secretary of the Treasury of authority vested in President by this section, see section2(e) of Ex. Ord. No. 10289, Sept. 17, 1951, 16 F.R. 9499, as amended, and section 1(r) of Ex. Ord. No. 10637, Sept. 16, 1955, 20 F.R. 7025, set out as notes under section 301 of Title 3, The President.
 
 #### Proc. No. 6867. Declaration of National Emergency and Invocation of Emergency Authority Relating to Regulation of Anchorage and Movement of Vessels
 
@@ -76,7 +76,7 @@ WHEREAS the entry of U.S.-registered vessels into Cuban territorial waters could
 
 NOW, THEREFORE, I, WILLIAM J. CLINTON, President of the United States of America, by the authority vested in me by the Constitution and the laws of the United States of America, including section 1 of title II of Public Law 65-24, ch. 30, June 15, 1917, as amended (50 U.S.C. 191), sections 201 and 301 of the National Emergencies Act (50 U.S.C. 1601 <i>et seq</i>.) \[50 U.S.C. 1621, 1631\], and section 301 of title 3, United States Code, find and do hereby proclaim that a national emergency does exist by reason of a disturbance or threatened disturbance of international relations. In order to address this national emergency and to secure the observance of the rights and obligations of the United States, I hereby authorize and direct the Secretary of Transportation (the “Secretary”) to make and issue such rules and regulations as the Secretary may find appropriate to regulate the anchorage and movement of vessels, and delegate to the Secretary my authority to approve such rules and regulations, as authorized by the Act of June 15, 1917 \[see Tables for classification\].
 
-Section 1. The Secretary may make rules and regulations governing the anchorage and movement of anyvessel, foreign or domestic, in the territorial waters of the United States, which may be used, or is susceptible of being used, for voyage into Cuban territorial waters and that may create unsafe conditions and threaten a disturbance of international relations. Any rule or regulation issued pursuant to this proclamation may be effective immediately upon issuance as such rule or regulation shall involve a foreign affairs function of the United States.
+Section 1. The Secretary may make rules and regulations governing the anchorage and movement of any vessel, foreign or domestic, in the territorial waters of the United States, which may be used, or is susceptible of being used, for voyage into Cuban territorial waters and that may create unsafe conditions and threaten a disturbance of international relations. Any rule or regulation issued pursuant to this proclamation may be effective immediately upon issuance as such rule or regulation shall involve a foreign affairs function of the United States.
 
 Sec. 2. The Secretary is authorized to inspect any vessel, foreign or domestic, in the territorial waters of the United States, at any time; to place guards on any such vessel; and, with my consent expressly hereby granted, take full possession and control of any such vessel and remove the officers and crew, and all other persons not specifically authorized by the Secretary to go or remain on board the vessel when necessary to secure the rights and obligations of the United States.
 
@@ -109,10 +109,6 @@ Notice of President of the United States, dated Feb. 24, 1999, 64 F.R. 9903.
 Notice of President of the United States, dated Feb. 25, 1998, 63 F.R. 9923.
 
 Notice of President of the United States, dated Feb. 27, 1997, 62 F.R. 9347.
-
-#### Cross References
-
-Carrying or possessing explosives or dangerous weapons on vessels seized, forfeited, or upon which guard has been placed under this chapter, see section 2277 of Title 18, Crimes and Criminal Procedure.
 
 #### Section Referred to in Other Sections
 

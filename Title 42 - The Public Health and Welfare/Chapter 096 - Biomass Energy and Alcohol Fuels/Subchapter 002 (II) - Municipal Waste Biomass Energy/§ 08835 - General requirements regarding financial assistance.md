@@ -44,7 +44,7 @@ Financial assistance may not be provided under section 8832, 8833, or 8834 of th
 
 &emsp;(B) has been approved by the Secretary in accordance with such procedures.
 
-(2) Each such application shall include information regarding the construction costs of themunicipal waste energy project involved (if appropriate), and estimates of operating costs and income relating to that project (including the sale of any byproducts from that project). In addition, each applicant shall provide—
+(2) Each such application shall include information regarding the construction costs of the municipal waste energy project involved (if appropriate), and estimates of operating costs and income relating to that project (including the sale of any byproducts from that project). In addition, each applicant shall provide—
 
 &emsp;(A) access at reasonable times to such other information, and
 

@@ -4,7 +4,7 @@
 
 #### (1) Generally
 
-&emsp;(A) Personnel at the Federal Bureau of Investigation who perform DNA analyses shall undergo, at regular intervals of not to exceed 180 days, external proficiency testing by a DNA proficiency testing program meeting the standards issued under section 14131 of this title.
+&emsp;(A) Personnel at the Federal Bureau of Investigation who perform DNA analyses shall undergo semiannual external proficiency testing by a DNA proficiency testing program meeting the standards issued under section 14131 of this title.
 
 &emsp;(B) Within 1 year after September 13, 1994, the Director of the Federal Bureau of Investigation shall arrange for periodic blind external tests to determine the proficiency of DNA analysis performed at the Federal Bureau of Investigation laboratory.
 
@@ -42,7 +42,11 @@
 
 (2) A person who, without authorization, knowingly obtains DNA samples or individually identifiable DNA information indexed in a database created or maintained by any Federal law enforcement agency shall be fined not more than $100,000.
 
-(Pub. L. 103–322, title XXI, §210305, Sept. 13, 1994, 108 Stat. 2070.)
+(Pub. L. 103–322, title XXI, §210305, Sept. 13, 1994, 108 Stat. 2070; Pub. L. 106–546, §8(c), Dec. 19, 2000, 114 Stat. 2735.)
+
+#### Amendments
+
+2000—Subsec. (a)(1)(A). Pub. L. 106–546 substituted “semiannual” for “, at regular intervals of not to exceed 180 days,”.
 
 #### Section Referred to in Other Sections
 

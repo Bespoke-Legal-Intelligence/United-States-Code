@@ -14,18 +14,6 @@ Words “Except as otherwise provided,” were editorially supplied on authority
 
 Sections 22 to 24, 26 to 28, 29, 30, 33 to 35, 37, 39 to 43, and 47 of this title are based on sections of the Revised Statutes which are derived from act May 10, 1872, ch. 152, 17 Stat. 91, popularly known as the “General Mining Act of 1872”.
 
-#### Cross References
-
-Acquisition of mining lands within National Park System by Secretary of the Interior, see section 1911 of Title 16, Conservation.
-
-Disposition to citizens of the United States of deposits of coal, phosphate sodium, oil, oil shale or gas and lands containing such deposits, see section 181 et seq. of this title.
-
-Kansas and Missouri mineral deposits, see section 49 of this title.
-
-Michigan, Minnesota and Wisconsin mineral lands, see section 48 of this title.
-
-Preservation and management of National Park System mining areas, see section 1902 of Title 16, Conservation.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 24, 29, 33, 37, 38, 39, 40, 42, 46, 47, 48, 49, 102, 541b of this title; title 16 section 460mm–1; title 25 section 640d–10; title 43 sections 1712, 1714, 1732.

@@ -128,7 +128,3 @@ Section 18 of Pub. L. 96–180 as amended by Pub. L. 96–88, title V, §509(b),
 
 “(e) There are authorized to be appropriated for the purposes of this section $1,000,000 to remain available until the expiration of the Commission.”
 
-#### Cross References
-
-Appointments to advisory committees established to assist in implementing this chapter, without regard to political affiliations, see section 217a–1 of this title.
-

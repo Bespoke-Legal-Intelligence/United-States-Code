@@ -42,10 +42,6 @@ Unconstitutionality of processing and floor stock taxes, see note set out under 
 
 Appropriations for refunds, etc., see note set out under section 610 of this title.
 
-#### Cross References
-
-Processing and compensating taxes not to be levied or collected, see section 673 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 673 of this title.

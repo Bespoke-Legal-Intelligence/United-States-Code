@@ -132,7 +132,7 @@ As used in this section:
 
 &emsp;&emsp;(A) any act substantially contributing to the acquisition of unsafeguarded special nuclear material (as defined in paragraph (8) of section 6305 of this title) or any nuclear explosive device (as defined in paragraph (4) of that section) by an individual, group, or non-nuclear-weapon state (as defined in paragraph (5) of that section); and
 
-&emsp;&emsp;(B) any act, as determined by the Secretary, which materially supports the conduct of international terrorism, including the counterfeiting of United States currency or the illegal use of other monetary instruments by an individual, group, or country supporting international terrorism as determined for purposes of section 2405(j)(1)(A) of title 50, Appendix.
+&emsp;&emsp;(B) any act, as determined by the Secretary, which materially supports the conduct of international terrorism, including the counterfeiting of United States currencyor the illegal use of other monetary instruments by an individual, group, or country supporting international terrorism as determined for purposes of section 2405(j)(1)(A) of title 50, Appendix.
 
 #### (2) Appropriate congressional committees
 
@@ -208,9 +208,9 @@ Subsecs. (h), (i). Pub. L. 99–399, §502(d), added subsecs. (h) and (i).
 
 Amendment by section 827 of Pub. L. 103–236 effective 60 days after Apr. 30, 1994, see section 831 of Pub. L. 103–236, set out as an Effective Date note under section 6301 of this title.
 
-#### Rewards for Information Concerning Individuals Sought for Serious Violations of International Humanitarian Law Relating to Former Yugoslavia
+#### Rewards for Information Concerning Individuals Sought for Serious Violations of International Humanitarian Law Relating to Former Yugoslavia or Rwanda
 
-Pub. L. 105–323, title I, §102, Oct. 30, 1998, 112 Stat. 3032, provided that:
+Pub. L. 105–323, title I, §102, Oct. 30, 1998, 112 Stat. 3032, as amended by Pub. L. 106–277, §1, Oct. 2, 2000, 114 Stat. 813, provided that:
 
 “(a)
 
@@ -218,7 +218,7 @@ Authority.—In the sole discretion of the Secretary of State (except as provide
 
 &emsp;“(1) the arrest or conviction in any country; or
 
-&emsp;“(2) the transfer to, or conviction by, the International Criminal Tribunal for the Former Yugoslavia,
+&emsp;“(2) the transfer to, or conviction by, the International Criminal Tribunal for the Former Yugoslavia or the International Criminal Tribunal for Rwanda,
 
 > of any individual who is the subject of an indictment confirmed by a judge of such tribunal for serious violations of international humanitarian law as defined under the statute of such tribunal.
 
@@ -246,7 +246,9 @@ Procedures.—
 
 “(c)
 
-Reference.—For the purposes of subsection (a), the statute of the International Criminal Tribunal for the Former Yugoslavia means the Annex to the Report of the Secretary General of the United Nations pursuant to paragraph 2 of Security Council Resolution 827 (1993) (S/25704).
+Reference.—(1) For the purposes of subsection (a), the statute of the International Criminal Tribunal for the Former Yugoslavia means the Annex to the Report of the Secretary General of the United Nations pursuant to paragraph 2 of Security Council Resolution 827 (1993) (S/25704).
+
+“(2) For the purposes of subsection (a), the statute of the International Criminal Tribunal for Rwanda means the statute contained in the annex to Security Council Resolution 955 of November 8, 1994.
 
 “(d)
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-After the United States obtains a final judgment or settlement in any action referred to in section 4201 of this title, any person may file a declaration identifying specific assets whichmight be recovered by the United States in satisfaction of that judgment or settlement.
+After the United States obtains a final judgment or settlement in any action referred to in section 4201 of this title, any person may file a declaration identifying specific assets which might be recovered by the United States in satisfaction of that judgment or settlement.
 
 #### (b) Place of filing
 

@@ -10,15 +10,9 @@ This section, as originally enacted, related to receivers of public moneys for l
 
 #### Transfer of Functions
 
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under section 1451 of this title.
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2,eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under section 1451 of this title.
 
 Words “officer designated by the Secretary of the Interior” substituted for “register” on authority of section 403 of Reorg. Plan No. 3 of 1946. See note set out under section 1 of this title.
 
 “General Accounting Office” substituted for “proper officer of the Treasury Department” pursuant to act June 10, 1921, which transferred all powers and duties of the Comptroller, six auditors, and certain other employees of the Treasury to the General Accounting Office. See section 701 et seq. of Title 31, Money and Finance.
-
-#### Cross References
-
-Moneys received as “unearned moneys, lands,” to be deposited into Treasury and be available for refunds, see section 1323 of Title 31, Money and Finance.
-
-Unobligated balances under account for “outstanding liabilities,” to be covered into trust fund receipt account in Treasury designated as “Unclaimed Moneys of Individuals Whose Whereabouts Are Unknown,” see section 1322 of Title 31.
 

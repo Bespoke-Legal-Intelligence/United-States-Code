@@ -16,9 +16,3 @@ The last paragraph of this section, which permitted Members and Delegates of the
 
 1948—Act Feb. 18, 1948, added last two paragraphs to provide a way by which any Member of House of Representatives can establish by record evidence the fact that the Member took the oath of office and so became a Member.
 
-#### Cross References
-
-Provisions respecting representation in Congress by a delegate from District of Columbia to House of Representatives, see section 25a of this title.
-
-Provisions respecting representation in Congress by a Delegate from Guam and Virgin Islands to House of Representatives, see section 1711 et seq. of Title 48, Territories and Insular Possessions.
-

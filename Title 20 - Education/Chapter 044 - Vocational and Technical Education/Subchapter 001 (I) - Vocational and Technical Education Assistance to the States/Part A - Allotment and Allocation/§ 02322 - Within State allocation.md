@@ -26,13 +26,13 @@ From the amount allotted to each State under section 2321 of this title for a fi
 
 #### (b) Matching requirement
 
-Each eligible agency receiving funds made available under subsection (a)(3) of this section shall match, from non-Federal sources and on a dollar-for-dollar basis, the funds received under subsection (a)(3) of this section.
+Each eligible agency receiving funds made available under subsection (a)(3) of this sectionshall match, from non-Federal sources and on a dollar-for-dollar basis, the funds received under subsection (a)(3) of this section.
 
 #### (c) Reserve
 
 #### (1) In general
 
-&emsp;From amounts made available under subsection (a)(1) of this section to carry out thissubsection, an eligible agency may award grants to eligible recipients for vocational and technical education activities described in section 2355 of this title in—
+&emsp;From amounts made available under subsection (a)(1) of this section to carry out this subsection, an eligible agency may award grants to eligible recipients for vocational and technical education activities described in section 2355 of this title in—
 
 &emsp;&emsp;(A) rural areas;
 

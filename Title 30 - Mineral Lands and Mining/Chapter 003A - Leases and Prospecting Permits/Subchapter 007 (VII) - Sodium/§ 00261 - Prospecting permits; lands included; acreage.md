@@ -8,10 +8,6 @@ The Secretary of the Interior is hereby authorized, under such rules and regulat
 
 1928—Act Dec. 11, 1928, struck out “and directed” after “authorized”, “dissolved in and soluble in water, and accumulated by concentration, in lands belonging to the United States for a period not exceeding two years,” after “nitrates of sodium”, and last proviso which read “<i>Provided further</i>, That the provisions of this section shall not apply to lands in San Bernardino County, California.”
 
-#### Cross References
-
-Surrender of leases, see section 188a of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 262 of this title; title 10 sections 7421, 7435.

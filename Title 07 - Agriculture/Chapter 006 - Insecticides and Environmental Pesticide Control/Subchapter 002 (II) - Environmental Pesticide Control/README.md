@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 150dd, 450i, 511r, 5506, 6502, 6519, 7653 of this title; title 15 sections 1261, 1277, 1459, 2052, 2602; title 16 section 460<i>lll</i>; title 21 sections 321, 346a, 1401; title 42 sections 300g–1, 6905, 7412, 9603, 9604, 9607.
+This subchapter is referred to in sections 450i, 511r, 5506, 6502, 6519, 7653 of this title; title 15 sections 1261, 1277, 1459, 2052, 2602; title 16 section 460<i>lll</i>; title 21 sections 321, 346a, 1401; title 42 sections 300g–1, 6905, 7412, 9603, 9604, 9607.
 
 
 ---
@@ -41,7 +41,7 @@ This subchapter is referred to in sections 150dd, 450i, 511r, 5506, 6502, 6519, 
 - [&sect; 00136w&#8211;1 - State primary enforcement responsibility](%C2%A7%2000136w%E2%80%931%20-%20State%20primary%20enforcement%20responsibility.md)
 - [&sect; 00136w&#8211;2 - Failure by the State to assure enforcement of State pesticide use regulations](%C2%A7%2000136w%E2%80%932%20-%20Failure%20by%20the%20State%20to%20assure%20enforcement%20of%20State%20pesticide%20use%20regulations.md)
 - [&sect; 00136w&#8211;3 - Identification of pests; cooperation with Department of Agriculture's program](%C2%A7%2000136w%E2%80%933%20-%20Identification%20of%20pests%3B%20cooperation%20with%20Department%20of%20Agriculture%27s%20program.md)
-- [&sect; 00136w&#8211;4 - Annual report](%C2%A7%2000136w%E2%80%934%20-%20Annual%20report.md)
+- [&sect; 00136w&#8211;4 - Omitted](%C2%A7%2000136w%E2%80%934%20-%20Omitted.md)
 - [&sect; 00136w&#8211;5 - Minimum requirements for training of maintenance applicators and service technicians](%C2%A7%2000136w%E2%80%935%20-%20Minimum%20requirements%20for%20training%20of%20maintenance%20applicators%20and%20service%20technicians.md)
 - [&sect; 00136w&#8211;6 - Environmental Protection Agency minor use program](%C2%A7%2000136w%E2%80%936%20-%20Environmental%20Protection%20Agency%20minor%20use%20program.md)
 - [&sect; 00136w&#8211;7 - Department of Agriculture minor use program](%C2%A7%2000136w%E2%80%937%20-%20Department%20of%20Agriculture%20minor%20use%20program.md)

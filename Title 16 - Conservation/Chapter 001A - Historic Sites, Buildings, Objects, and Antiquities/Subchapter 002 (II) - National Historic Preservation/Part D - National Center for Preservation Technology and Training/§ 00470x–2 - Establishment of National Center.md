@@ -28,7 +28,7 @@ The Center shall be headed by an Executive Director with demonstrated expertise 
 
 #### (e) Assistance from Secretary
 
-The Secretary shall provide the Center assistance in obtaining such personnel, equipment,and facilities as may be needed by the Center to carry out its activities.
+The Secretary shall provide the Center assistance in obtaining such personnel, equipment, and facilities as may be needed by the Center to carry out its activities.
 
 (Pub. L. 89–665, title IV, §403, as added Pub. L. 102–575, title XL, §4022, Oct. 30, 1992, 106 Stat. 4766.)
 

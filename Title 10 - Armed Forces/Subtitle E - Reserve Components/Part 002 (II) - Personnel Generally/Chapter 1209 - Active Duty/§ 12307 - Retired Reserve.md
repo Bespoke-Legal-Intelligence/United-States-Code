@@ -38,12 +38,6 @@ Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer P
 
 Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
 
-#### Cross References
-
-Retired lists, see section 12774 of this title.
-
-Retired Reserve, composition of, see section 10154 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in title 38 section 3011; title 50 App. section 592.

@@ -10,7 +10,7 @@ As provided for in subsection (b) or (c) of section 2132 of this title, or where
 
 #### (c) Research and development activities
 
-The Commission is authorized to issue licenses to persons applying therefor for utilization andproduction facilities useful in the conduct of research and development activities of the types specified in section 2051 of this title and which are not facilities of the type specified in subsection (b) of this section. The Commission is directed to impose only such minimum amount of regulation of the licensee as the Commission finds will permit the Commission to fulfill its obligations under this chapter to promote the common defense and security and to protect the health and safety of the public and will permit the conduct of widespread and diverse research and development.
+The Commission is authorized to issue licenses to persons applying therefor for utilization and production facilities useful in the conduct of research and development activities of the types specified in section 2051 of this title and which are not facilities of the type specified in subsection (b) of this section. The Commission is directed to impose only such minimum amount of regulation of the licensee as the Commission finds will permit the Commission to fulfill its obligations under this chapter to promote the common defense and security and to protect the health and safety of the public and will permit the conduct of widespread and diverse research and development.
 
 #### (d) Limitations
 
@@ -25,10 +25,6 @@ No license under this section may be given to any person for activities which ar
 #### Transfer of Functions
 
 Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
-
-#### Cross References
-
-Nonprofit educational institution exempt from financial protection requirement, see section 2210 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -2,17 +2,17 @@
 
 (a)(1) The Assistant Secretary, in carrying out the objectives and provisions of this chapter, shall coordinate, advise, consult with, and cooperate with the head of each department, agency, or instrumentality of the Federal Government proposing or administering programs or services substantially related to the objectives of this chapter, with respect to such programs or services. In particular, the Assistant Secretary shall coordinate, advise, consult, and cooperate with the Secretary of Labor in carrying out subchapter IX of this chapter and with the Corporation for National and Community Service in carrying out this chapter.
 
-(2) The head of each department, agency, or instrumentality of the Federal Government proposing to establish programs and services substantially related to the objectives of this chapter shall consult with the Assistant Secretary prior to the establishment of such programs and services. To achieve appropriate coordination, the head of each department, agency, or instrumentality of the Federal Government administering any program substantially related to the objectives of this chapter, particularly administering any program referred to in subsection (b) of this section, shall consult and cooperate with the Assistant Secretary in carrying out such program. In particular, the Secretary of Labor shall consult and cooperate with the Assistant Secretary in carrying out the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\] and title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\].
+(2) The head of each department, agency, or instrumentality of the Federal Government proposing to establish programs and services substantially related to the objectives of this chapter shall consult with the Assistant Secretary prior to the establishment of such programs and services. To achieve appropriate coordination, the head of each department, agency, or instrumentality of the Federal Government administering any program substantially related to the objectives of this chapter, particularly administering any program referred to in subsection (b) of this section, shall consult and cooperate with the Assistant Secretary in carrying out such program. In particular, the Secretary of Labor shall consult and cooperate with the Assistant Secretary in carrying out title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\].
 
 (3) The head of each department, agency, or instrumentality of the Federal Government administering programs and services substantially related to the objectives of this chapter shall collaborate with the Assistant Secretary in carrying out this chapter, and shall develop a written analysis, for review and comment by the Assistant Secretary, of the impact of such programs and services on—
 
-&emsp;(A) older individuals (with particular attention to low-income minority older individuals) and eligible individuals (as defined in section 3056e of this title); and
+&emsp;(A) older individuals (with particular attention to low-income minority older individuals and older individuals residing in rural areas) and eligible individuals (as defined in section 3056e <sup>1</sup> of this title); and
 
 &emsp;(B) the functions and responsibilities of State agencies and area agencies on aging.
 
 (b) For the purposes of subsection (a) of this section, programs related to the objectives of this chapter shall include—
 
-&emsp;(1) the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\] or title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\],
+&emsp;(1) title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\],
 
 &emsp;(2) title II of the Domestic Volunteer Service Act of 1973 \[42 U.S.C. 5000 et seq.\],
 
@@ -44,27 +44,17 @@
 
 &emsp;(16) the Rehabilitation Act of 1973 \[29 U.S.C. 701 et seq.\],
 
-&emsp;(17) the Developmental Disabilities and Bill of Rights Act \[42 U.S.C. 6000 et seq.\], and
+&emsp;(17) the Developmental Disabilities Assistance and Bill of Rights Act of 2000 \[42 U.S.C. 15001 et seq.\], and
 
 &emsp;(18) the Edward Byrne Memorial State and Local Law Enforcement Assistance Programs, established under part E of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3750–3766b)).
 
-(Pub. L. 89–73, title II, §203, as added Pub. L. 93–29, title II, §201(c), May 3, 1973, 87 Stat. 32; amended Pub. L. 95–478, title I, §102(b), Oct. 18, 1978, 92 Stat. 1513; Pub. L. 97–115, §2(d), Dec. 29, 1981, 95 Stat. 1595; Pub. L. 98–459, title II, §203, Oct. 9, 1984, 98 Stat. 1768; Pub. L. 100–175, title I, §§104(a), 105(b), 106(b), Nov. 29, 1987, 101 Stat. 929, 930; Pub. L. 102–240, title III, §3003(b), Dec. 18, 1991, 105 Stat. 2088; Pub. L. 102–375, title II, §203, title IX, §904(a)(5), Sept. 30, 1992, 106 Stat. 1210, 1306; Pub. L. 103–82, title IV, §405(g)(2), Sept. 21, 1993, 107 Stat. 921; Pub. L. 103–171, §§2(4), 3(a)(13), Dec. 2, 1993, 107 Stat. 1988, 1990; Pub. L. 105–220, title II, §251(b)(3), Aug. 7, 1998, 112 Stat. 1080; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(33)(A), (f)(25)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–425, 2681–433.)
-
-#### Amendment of Section
-
-<i>Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(f)(25)(A), (g)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–433, 2681–435, provided that, effective July 1, 2000, this section is amended:</i>
-
-<i>(1) in subsection (a)(2) of this section, by striking “the Job Training Partnership Act and”; and</i>
-
-<i>(2) in subsection (b) of this section, by striking paragraph (1) and inserting the following:</i>
-
-“(1) title I of the Workforce Investment Act of 1998,”.
+(Pub. L. 89–73, title II, §203, as added Pub. L. 93–29, title II, §201(c), May 3, 1973, 87 Stat. 32; amended Pub. L. 95–478, title I, §102(b), Oct. 18, 1978, 92 Stat. 1513; Pub. L. 97–115, §2(d), Dec. 29, 1981, 95 Stat. 1595; Pub. L. 98–459, title II, §203, Oct. 9, 1984, 98 Stat. 1768; Pub. L. 100–175, title I, §§104(a), 105(b), 106(b), Nov. 29, 1987, 101 Stat. 929, 930; Pub. L. 102–240, title III, §3003(b), Dec. 18, 1991, 105 Stat. 2088; Pub. L. 102–375, title II, §203, title IX, §904(a)(5), Sept. 30, 1992, 106 Stat. 1210, 1306; Pub. L. 103–82, title IV, §405(g)(2), Sept. 21, 1993, 107 Stat. 921; Pub. L. 103–171, §§2(4), 3(a)(13), Dec. 2, 1993, 107 Stat. 1988, 1990; Pub. L. 105–220,title II, §251(b)(3), Aug. 7, 1998, 112 Stat. 1080; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(33)(A), (f)(25)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–425, 2681–433; Pub. L. 106–402, title IV, §401(b)(9)(A), Oct. 30, 2000, 114 Stat. 1739; Pub. L. 106–501, title II, §202(1), Nov. 13, 2000, 114 Stat. 2230.)
 
 #### References in Text
 
-The Job Training Partnership Act, referred to in subsecs. (a)(2) and (b)(1), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
-
 The Workforce Investment Act of 1998, referred to in subsecs. (a)(2) and (b)(1), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+
+Section 3056e of this title, referred to in subsec. (a)(3)(A), was amended generally by Pub. L. 106–501, title V, §501, Nov. 13, 2000, 114 Stat. 2280, and, as so amended, no longer relates to definitions. See section 3056n of this title.
 
 The Domestic Volunteer Service Act of 1973, referred to in subsec. (b)(2), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, as amended. Title II of the Domestic Volunteer Service Act of 1973 is classified generally to subchapter II (§5000 et seq.) of chapter 66 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
 
@@ -88,7 +78,7 @@ The Community Services Block Grant Act, referred to in subsec. (b)(13), is subti
 
 The Rehabilitation Act of 1973, referred to in subsec. (b)(16), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
-The Developmental Disabilities and Bill of Rights Act, referred to in subsec. (b)(17), probably means the Developmental Disabilities Assistance and Bill of Rights Act, which is title I of Pub. L. 88–164, as added by Pub. L. 94–103, Oct. 4, 1975, 89 Stat. 496, and amended, and is classified generally to chapter 75 (§6000 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6000 of this title and Tables.
+The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsec. (b)(17), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677, which is classified principally to chapter 144 (§15001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of this title and Tables.
 
 The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (b)(18), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197, as amended. Part E of title I of the Act is classified generally to subchapter V (§3750 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3711 of this title and Tables.
 
@@ -98,9 +88,17 @@ In subsec. (b)(9), “sections 5309 and 5310 of title 49” substituted for “s
 
 #### Amendments
 
-1998—Subsec. (a)(2). Pub. L. 105–277, §101(f) \[title VIII, §405(d)(33)(A)(i)\], substituted last sentence for former last sentence which read as follows: “In particular, the Secretary of Labor shall consult and cooperate with the Assistant Secretary in carrying out the Job Training Partnership Act (29 U.S.C. 1501 et seq.).”
+2000—Subsec. (a)(3)(A). Pub. L. 106–501 inserted “and older individuals residing in rural areas” after “low-income minority older individuals”.
 
-Subsec. (b)(1). Pub. L. 105–277, §101(f) \[title VIII, §405(d)(33)(A)(ii)\], added par. (1) and struck out former par. (1) which read as follows: “the Job Training Partnership Act,”.
+Subsec. (b)(17). Pub. L. 106–402 substituted “Developmental Disabilities Assistance and Bill of Rights Act of 2000” for “Developmental Disabilities and Bill of Rights Act”.
+
+1998—Subsec. (a)(2). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(25)(A)(i)\], struck out “the Job Training Partnership Act and” after “in carrying out”.
+
+Pub. L. 105–277, §101(f) \[title VIII, §405(d)(33)(A)(i)\], substituted last sentence for former last sentence which read as follows: “In particular, the Secretary of Labor shall consult and cooperate with the Assistant Secretary in carrying out the Job Training Partnership Act (29 U.S.C. 1501 et seq.).”
+
+Subsec. (b)(1). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(25)(A)(ii)\], added par. (1) and struck out former par. (1) which read as follows: “the Job Training Partnership Act or title I of the Workforce Investment Act of 1998,”.
+
+Pub. L. 105–277, §101(f) \[title VIII, §405(d)(33)(A)(ii)\], added par. (1) and struck out former par. (1) which read as follows: “the Job Training Partnership Act,”.
 
 Subsec. (b)(8). Pub. L. 105–220 substituted “Adult Education and Family Literacy Act” for “Adult Education Act”.
 
@@ -165,4 +163,6 @@ Amendment by Pub. L. 95–478 effective at close of Sept. 30, 1978, see section 
 #### Section Referred to in Other Sections
 
 This section is referred to in section 3026 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

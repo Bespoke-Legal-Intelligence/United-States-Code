@@ -1,34 +1,12 @@
 ### §13218. Reports
 
-#### (a) General Services Administration program report
-
-Not later than one year after October 24, 1992, and biennially thereafter, the Administrator of General Services shall report to the Congress on the General Services Administration's alternative fueled vehicle program under this Act. The report shall contain information on—
-
-&emsp;(1) the number and type of alternative fueled vehicles procured;
-
-&emsp;(2) the location of alternative fueled vehicles by standard Federal region;
-
-&emsp;(3) the total number of alternative fueled vehicles used by each Federal agency;
-
-&emsp;(4) arrangements with commercial entities for refueling and maintenance of alternative fueled vehicles;
-
-&emsp;(5) future alternative fueled vehicle procurement and placement strategy;
-
-&emsp;(6) the difference in cost between the purchase, maintenance, and operation of alternative fueled vehicles and the purchase, maintenance, and operation of comparable conventionally fueled motor vehicles;
-
-&emsp;(7) coordination among Federal, State, and local governments for alternative fueled vehicle procurement and placement;
-
-&emsp;(8) the percentage of alternative fuel use in dual-fueled vehicles procured by the Administrator of General Services as measured under section 13217 of this title;
-
-&emsp;(9) a description of the representative sample of alternative fueled vehicles as determined under section 6374(b)(1)(A) of this title; and
-
-&emsp;(10) award recipients under this subchapter.
+#### (a) Omitted
 
 #### (b) Compliance report
 
 #### (1) In general
 
-&emsp;Not later than 1 year after November 13, 1998, and annually thereafter for the next 14years, the head of each Federal agency which is subject to this Act and Executive Order No. 13031 shall prepare, and submit to Congress, a report that—
+&emsp;Not later than 1 year after November 13, 1998, and annually thereafter for the next 14 years, the head of each Federal agency which is subject to this Act and Executive Order No. 13031 shall prepare, and submit to Congress, a report that—
 
 &emsp;&emsp;(A) summarizes the compliance by such Federal agency with the alternative fuel purchasing requirements for Federal fleets under this Act and Executive Order No. 13031; and
 
@@ -64,11 +42,13 @@ Not later than one year after October 24, 1992, and biennially thereafter, the A
 
 #### References in Text
 
-This Act, referred to in text, is Pub. L. 102–486, Oct. 24, 1992, 102 Stat. 2776, known as the Energy Policy Act of 1992. For complete classification of this Act to the Code, see Short Title note set out under section 13201 of this title and Tables.
+This Act, referred to in subsec. (b)(1), is Pub. L. 102–486, Oct. 24, 1992, 102 Stat. 2776, known as the Energy Policy Act of 1992. For complete classification of this Act to the Code, see Short Title note set out under section 13201 of this title and Tables.
 
-This subchapter, referred to in subsec. (a)(10), was in the original “this title” meaning title III of Pub. L. 102–486, which enacted this subchapter, amended section 6374 of this title, and repealed provisions set out as a note under section 6374 of this title.
+Executive Order No. 13031, referred to in subsec. (b)(1), (2)(A), was Ex. Ord. No. 13031, Dec. 13, 1996, 61 F.R. 66529, which was set out as a note under section 13212 of this title prior to revocation by Ex. Ord. No. 13149, §501, Apr. 21, 2000, 65 F.R. 24610, set out as a note under section 13212 of this title.
 
-Executive Order No. 13031, referred to in subsec. (b)(1), (2)(A), is set out as a note under section 13212 of this title.
+#### Codification
+
+Subsec. (a) of this section, which required the Administrator of General Services to report biennially to Congress on the General Services Administration's alternative fueled vehicle program under the Energy Policy Act of 1992, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, the 4th item on page 173 of House Document No. 103–7.
 
 #### Amendments
 

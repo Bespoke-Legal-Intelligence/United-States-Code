@@ -14,7 +14,7 @@ Reference.—In this section, the term ‘OBRA’ refers to the Omnibus Budget R
 
 “(2)
 
-Effective date.—Except as specifically provided in this section, the amendments made by this section \[amending sections 254<i>o</i>, 294f, 300aa–12, 300aa–15, 300aa–21, 426, 704, 912, 1320a–7, 1320a–7a, 1320a–7b, 1320b–5,1320b–7, 1320b–8, 1320c–3, 1320c–5, 1320c–9, 1395e, 1395h, 1395i–2, 1395i–3, 1395k, 1395<i>l</i>, 1395m, 1395u, 1395w–1, 1395w–2, 1395x, 1395y, 1395aa, 1395bb, 1395cc, 1395dd, 1395gg, 1395mm, 1395ss, 1395tt, 1395ww, 1395aaa, 1395bbb, 1395ccc, 1396a, 1396b, 1396d, 1396j, 1396n, 1396<i>o</i>, 1396p, 1396r, 1396r–1, 1396r–3, 1396r–4, 1396s, and 1397d of Title 42, The Public Health and Welfare, amending provisions set out as notes under sections 426, 1320a–7a, 1320c–2, 1320c–3, 1395b–1, 1395h, 1395i–3, 1395<i>l</i>, 1395m, 1395n, 1395u, 1395w–1, 1395x, 1395aa, 1395dd, 1395mm, 1395ss, 1395ww, 1395bbb, 1396a, 1396b, and 1396r of Title 42, and repealing provisions set out as notes under section 1395<i>l</i> of Title 42\], as they relate to a provision in OBRA, shall be effective as if they were included in the enactment of that provision in OBRA.
+Effective date.—Except as specifically provided in this section, the amendments made by this section \[amending sections 254<i>o</i>, 294f, 300aa–12, 300aa–15, 300aa–21, 426, 704, 912, 1320a–7, 1320a–7a, 1320a–7b, 1320b–5, 1320b–7, 1320b–8, 1320c–3, 1320c–5, 1320c–9, 1395e, 1395h, 1395i–2, 1395i–3, 1395k, 1395<i>l</i>, 1395m, 1395u, 1395w–1, 1395w–2, 1395x, 1395y, 1395aa, 1395bb, 1395cc, 1395dd, 1395gg, 1395mm, 1395ss, 1395tt, 1395ww, 1395aaa, 1395bbb, 1395ccc, 1396a, 1396b, 1396d, 1396j, 1396n, 1396<i>o</i>, 1396p, 1396r, 1396r–1, 1396r–3, 1396r–4, 1396s, and 1397d of Title 42, The Public Health and Welfare, amending provisions set out as notes under sections 426, 1320a–7a, 1320c–2, 1320c–3, 1395b–1, 1395h, 1395i–3, 1395<i>l</i>, 1395m, 1395n, 1395u, 1395w–1, 1395x, 1395aa, 1395dd, 1395mm, 1395ss, 1395ww, 1395bbb, 1396a, 1396b, and 1396r of Title 42, and repealing provisions set out as notes under section 1395<i>l</i> of Title 42\], as they relate to a provision in OBRA, shall be effective as if they were included in the enactment of that provision in OBRA.
 
 “(3)
 
@@ -94,7 +94,7 @@ Continuing resolution.—The term ‘continuing resolution’ means a bill or jo
 
 &emsp;“(2)
 
-Debt limit extension measure.—The term ‘debt limit extension measure’ means a bill or jointresolution that includes provisions increasing or waiving (for a temporary period or otherwise) the public debt limit under section 3101(b) of title 31, United States Code.
+Debt limit extension measure.—The term ‘debt limit extension measure’ means a bill or joint resolution that includes provisions increasing or waiving (for a temporary period or otherwise) the public debt limit under section 3101(b) of title 31, United States Code.
 
 &emsp;“(3)
 
@@ -102,7 +102,7 @@ Reconciliation bill.—The term ‘reconciliation bill’ means a bill that is a
 
 Identical provisions were contained in Pub. L. 104–54, title II, §§201, 202, Nov. 19, 1995, 109 Stat. 545.
 
-Pub. L. 102–387, Oct. 6, 1992, 106 Stat. 1519, provided: “That the provisions of sections 106 and 107 of title 1, United States Code, are waived with respect to the printing (on parchment or otherwise) of the enrollment of any appropriation bill of the One Hundred Second Congress hereafter to be presented to the President. Such an enrollment shall be in such form as the Committee on House Administration of the House of Representatives certifies to be a true enrollment. As used in this resolution, the term ‘appropriation bill’ means a bill or joint resolution making or continuing appropriations for the fiscal year ending September 30, 1993.”
+Pub. L. 102–387, Oct. 6, 1992, 106 Stat. 1519, provided: “That the provisions of sections 106 and 107 of title 1, United States Code, are waived with respect to the printing (on parchment or otherwise) of the enrollmentof any appropriation bill of the One Hundred Second Congress hereafter to be presented to the President. Such an enrollment shall be in such form as the Committee on House Administration of the House of Representatives certifies to be a true enrollment. As used in this resolution, the term ‘appropriation bill’ means a bill or joint resolution making or continuing appropriations for the fiscal year ending September 30, 1993.”
 
 Pub. L. 102–260, Mar. 20, 1992, 106 Stat. 85, provided that:
 
@@ -216,7 +216,7 @@ Continuing resolution.—The term ‘continuing resolution’ means a joint reso
 
 &emsp;“(4)
 
-Hand enrollment.—The term ‘hand enrollment’ means the enrollment, as authorized by section 1, of a bill or joint resolution for presentment to the President in a form other than the printed form required by sections 106 and 107 of title 1, United States Code.”
+Hand enrollment.—The term ‘hand enrollment’ means the enrollment, as authorized by section1, of a bill or joint resolution for presentment to the President in a form other than the printed form required by sections 106 and 107 of title 1, United States Code.”
 
 Pub. L. 100–454, Sept. 29, 1988, 102 Stat. 1914, provided that:
 
@@ -292,7 +292,7 @@ Pub. L. 100–202, §101(n), Dec. 22, 1987, 101 Stat. 1329–432, provided that:
 
 “(3) A printed enrollment prepared pursuant to subsection (n)(1) shall be signed by the presiding officers of both Houses of Congress as a correct printing of the hand enrollment of this resolution and shall be transmitted to the President.
 
-“(4) Upon certification by the President that a printed enrollment transmitted pursuant to subsection (n)(3)is a correct printing of the hand enrollment of this resolution, such printed enrollment shall be considered for all purposes as the original enrollment of this resolution and as valid evidence of the enactment of this resolution.
+“(4) Upon certification by the President that a printed enrollment transmitted pursuant to subsection (n)(3) is a correct printing of the hand enrollment of this resolution, such printed enrollment shall be considered for all purposes as the original enrollment of this resolution and as valid evidence of the enactment of this resolution.
 
 “(5) A printed enrollment certified by the President under subsection (n)(4) shall be transmitted to the Archivist of the United States, who shall preserve it with the hand enrollment. In preparing this resolution for publication in slip form and in the United States Statutes at Large pursuant to section 112 of title 1, United States Code, the Archivist of the United States shall use the printed enrollment certified by the President under subsection (n)(4) in lieu of the hand enrollment.
 

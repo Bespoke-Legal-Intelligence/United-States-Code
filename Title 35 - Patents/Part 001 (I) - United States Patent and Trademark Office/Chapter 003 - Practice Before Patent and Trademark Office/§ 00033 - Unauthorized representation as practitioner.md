@@ -18,10 +18,6 @@ This is a criminal statute. The language has been considerably simplified and th
 
 Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 93–596, set out as a under section 1111 of Title 15, Commerce and Trade.
 
-#### Cross References
-
-Advertising practice before departments or offices of Government, see section 501 of Title 5, Government Organization and Employees.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in title 5 section 500.

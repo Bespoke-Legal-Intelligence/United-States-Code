@@ -10,15 +10,7 @@ Position and Manner of Display.—The display of an official flag of a State, te
 
 (Added Pub. L. 104–201, div. A, title X, §1071(a), Sept. 23, 1996, 110 Stat. 2656; amended Pub. L. 105–225, §4(a)(1), Aug. 12, 1998, 112 Stat. 1498.)
 
-2257\.
-
-Use of recruiting materials for public relations.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 #### Amendments
-
-1999—Pub. L. 106–65, div. A, title V, §574(b), Oct. 5, 1999, 113 Stat. 624, added item 2257.
 
 1998—Subsec. (b). Pub. L. 105–225 substituted “section 7 of title 4 and any modification of section 7 under section 10 of title 4” for “the provisions of section 3 of the Joint Resolution of June 22, 1942 (56 Stat. 378, chapter 435; 36 U.S.C. 175), and any modification of such provisions under section 8 of that Joint Resolution (36 U.S.C. 178)”.
 

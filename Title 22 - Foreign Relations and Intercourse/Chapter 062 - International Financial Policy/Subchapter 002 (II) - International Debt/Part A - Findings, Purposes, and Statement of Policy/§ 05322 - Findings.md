@@ -20,7 +20,7 @@ The Congress finds that—
 
 &emsp;(9) new international mechanisms to improve the management of the debt problem and to expand the range of financing options available to developing countries should be explored; and
 
-&emsp;(10) industrial countries with strong current account surpluses have a disproportionate share of the world's capital resources, and bear an additional responsibility for contributing to a viable long-term solution to the debt problem.
+&emsp;(10) industrial countries with strong current account surpluses have a disproportionateshare of the world's capital resources, and bear an additional responsibility for contributing to a viable long-term solution to the debt problem.
 
 (Pub. L. 100–418, title III, §3102, Aug. 23, 1988, 102 Stat. 1375.)
 

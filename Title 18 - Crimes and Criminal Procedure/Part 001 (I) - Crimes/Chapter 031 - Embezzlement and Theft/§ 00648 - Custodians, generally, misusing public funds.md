@@ -28,12 +28,6 @@ Pub. L. 103–322, §330016(1)(H), substituted “fined under this title” for 
 
 1990—Pub. L. 101–647 inserted “, including any branch or agency of a foreign bank (as such terms are defined in paragraphs (1) and (3) of section 1(b) of the International Banking Act of 1978),” after “or deposits in any bank”.
 
-#### Cross References
-
-Persons to whom section applicable, see section 649 of this title.
-
-Refusal to pay as evidence of embezzlement, see section 3487 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 649 of this title; title 8 section 1363a; title 19 section 2081; title 26 section 7608.

@@ -44,7 +44,7 @@
 | (a) | Purpose. |
 | (b) | Establishment. |
 | (c) | Faculty, students, and curriculum. |
-| (d) | Annual report. |
+| (d) | Omitted. |
 | (e) | Funding. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

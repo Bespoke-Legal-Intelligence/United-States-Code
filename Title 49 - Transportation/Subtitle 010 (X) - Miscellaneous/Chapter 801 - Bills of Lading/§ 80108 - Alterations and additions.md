@@ -1,6 +1,6 @@
 ### §80108. Alterations and additions
 
-An alteration or addition to a bill of lading after its issuance by a common carrier, without authorization from the carrier in writing or noted on the bill, is void. However, the original terms of the bill are enforceable.
+An alteration or addition to a bill of lading after its issuance by a common carrier, withoutauthorization from the carrier in writing or noted on the bill, is void. However, the original terms of the bill are enforceable.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1349.)
 

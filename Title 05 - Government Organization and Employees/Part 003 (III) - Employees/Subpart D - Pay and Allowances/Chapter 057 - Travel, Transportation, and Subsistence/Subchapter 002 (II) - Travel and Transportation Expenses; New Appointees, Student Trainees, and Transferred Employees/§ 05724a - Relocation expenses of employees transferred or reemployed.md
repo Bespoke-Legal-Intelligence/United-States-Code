@@ -52,7 +52,7 @@
 
 (8) Under regulations prescribed under section 5738, an agency may pay to or on behalf of an employee who transfers in the interest of the Government expenses of property management services, instead of expenses under paragraph (1) or (2) of this subsection for sale of the employee's residence, when the agency determines that such transfer is advantageous and cost-effective for the Government.
 
-(e) Under regulations prescribed under section 5738, an agency may pay to or on behalf of an employee who transfers in the interest of the Government, the expenses of property management services when the employee transfers to apost of duty outside the United States. Such payment shall terminate upon return of the employee to an official station within the United States.
+(e) Under regulations prescribed under section 5738, an agency may pay to or on behalf of an employee who transfers in the interest of the Government, the expenses of property management services when the employee transfers to a post of duty outside the United States. Such payment shall terminate upon return of the employee to an official station within the United States.
 
 (f)(1) Under regulations prescribed under section 5738 and subject to paragraph (2), an employee who is reimbursed under subsections (a) through (e) of this section or section 5724(a) of this title is entitled to an amount for miscellaneous expenses—
 
@@ -190,7 +190,7 @@ Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L.
 
 #### Extension of Payment of Relocation Expenses to Puerto Rico, Northern Mariana Islands, and Territories and Possessions of the United States
 
-Pub. L. 105–277, div. A, §101(b) \[title I, §125\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–74, provided that: “Effective with the enactment of this Act \[Oct. 21, 1998\], and in any fiscal year hereafter, the Attorney General and the Secretary of the Treasury may, for their respective agencies, extend the payment of relocation expenses listed in section 5724a(b)(1) of Title 5 of the United States Code to include the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, and the territories and possessions of the United States.”
+Pub. L. 105–277, div. A, §101(b) \[title I, §125\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–74, provided that: “Effective with the enactment of this Act \[Oct. 21, 1998\], and in any fiscal year hereafter, the Attorney General and the Secretary of the Treasury may, for their respectiveagencies, extend the payment of relocation expenses listed in section 5724a(b)(1) of Title 5 of the United States Code to include the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, and the territories and possessions of the United States.”
 
 #### Funding of Amendments by Pub. L. 98–151
 
@@ -198,5 +198,5 @@ Amendments by Pub. L. 98–151 to be carried out be agencies by use of funds app
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3375, 5724, 5724b, 5737, 9504 of this title; title 22 section 3691; title 38 section 707; title 42 sections 290aa, 299c–4; title 50 section 403e.
+This section is referred to in sections 3375, 5724, 5724b, 5737, 9504 of this title; title 22 section 3691; title 38 section 707; title 42 sections 290aa, 299c–5; title 50 section 403e.
 

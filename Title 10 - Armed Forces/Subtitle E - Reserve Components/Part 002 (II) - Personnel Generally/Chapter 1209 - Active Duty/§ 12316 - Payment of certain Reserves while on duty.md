@@ -36,7 +36,7 @@ Sept. 27, 1950, ch. 1053, §2, 64 Stat. 1067; July 12, 1955, ch. 337, §§2, 4, 
 
 In subsections (a) and (b), the words “retirement pay” are omitted as covered by the words “retired pay”.
 
-In subsection (a), the words “Except as provided by subsection (b)” are inserted for clarity. The words“who performs duty for which he is entitled to compensation, may elect to receive for that duty” are substituted for the words “may elect, with reference to periods of active duty, active duty for training, drill, training, instruction, or other duty for which they may be entitled to receive compensation pursuant to any provisions of law”. The words “Notwithstanding the provisions of any other law”, in 10 App.:369b, and “or relinquish” are omitted as surplusage.
+In subsection (a), the words “Except as provided by subsection (b)” are inserted for clarity. The words “who performs duty for which he is entitled to compensation, may elect to receive for that duty” are substituted for the words “may elect, with reference to periods of active duty, active duty for training, drill, training, instruction, or other duty for which they may be entitled to receive compensation pursuant to any provisions of law”. The words “Notwithstanding the provisions of any other law”, in 10 App.:369b, and “or relinquish” are omitted as surplusage.
 
 Subsection (a)(1) is substituted for clause (2) of 10 App.:369b, and clause (2) of 34 App.:853e–1.
 

@@ -16,7 +16,7 @@
 
 > Liability under this subsection is in lieu of any service obligation arising under the participant's agreement.
 
-(c)(1) If a participant in the Scholarship Program breaches the agreement by failing (for any reason) to complete such participant's period of obligated service, the United States shall be entitled to recover from the participant an amount determined in accordance with the following formula:
+(c)(1) If a participant in the Scholarship Program breaches the agreement by failing (for anyreason) to complete such participant's period of obligated service, the United States shall be entitled to recover from the participant an amount determined in accordance with the following formula:
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;t−s
 

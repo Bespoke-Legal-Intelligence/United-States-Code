@@ -1,6 +1,6 @@
 ### §1005. Bank entries, reports and transactions
 
-Whoever, being an officer, director, agent or employee of any Federal Reserve bank, member bank, depository institution holding company, national bank, insured bank, branch or agency of a foreign bank, or organization operating under section 25 or section 25(a) <sup>1</sup> of the Federal Reserve Act,,<sup>2</sup> without authority from the directors of such bank, branch, agency, or organization or company, issues or puts in circulation any notes of such bank, branch, agency, or organization or company; or
+Whoever, being an officer, director, agent or employee of any Federal Reserve bank, member bank, depository institution holding company, national bank, insured bank, branch or agency of a foreign bank, or organization operatingunder section 25 or section 25(a) <sup>1</sup> of the Federal Reserve Act,,<sup>2</sup> without authority from the directors of such bank, branch, agency, or organization or company, issues or puts in circulation any notes of such bank, branch, agency, or organization or company; or
 
 Whoever, without such authority, makes, draws, issues, puts forth, or assigns any certificate of deposit, draft, order, bill of exchange, acceptance, note, debenture, bond, or other obligation, or mortgage, judgment or decree; or
 
@@ -50,19 +50,7 @@ Pub. L. 101–647, §2595(a)(3)(C), inserted “For purposes of this section, th
 
 #### Exception as to Transfer of Functions
 
-Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, were not included in transfer of functions of officers, agencies and employees of Department of the Treasury to Secretary of the Treasury, made by Reorg. Plan No. 26 of 1950, §1, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Cross References
-
-Bank examinations, see section 481 et seq. of Title 12, Banks and Banking.
-
-Federal Reserve System, laws applicable on becoming member bank, see section 324 of Title 12.
-
-Liability of directors and officers of member banks, see section 503 of Title 12.
-
-Officers and employees of government, false entries and reports of moneys or securities, see section 2073 of this title.
-
-Reports to Comptroller of the Currency, see section 161 of Title 12, Banks and Banking.
+Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, werenot included in transfer of functions of officers, agencies and employees of Department of the Treasury to Secretary of the Treasury, made by Reorg. Plan No. 26 of 1950, §1, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Section Referred to in Other Sections
 

@@ -2,7 +2,7 @@
 
 #### (a) Documents required; admission under quotas before June 30, 1968
 
-Except as provided in subsection (b) and subsection (c) of this section no immigrant shall be admitted into the United States unless at the time of application for admission he (1) has a valid unexpired immigrant visa or was born subsequent to the issuance of such visa of the accompanying parent, and (2) presents a valid unexpired passport or other suitable travel document or document of identity and nationality, if such document is required under the regulations issued by the Attorney General. With respect to immigrants to be admitted under quotas of quota areas prior to June 30, 1968, no immigrant visa shall be deemed valid unless the immigrant is properly chargeable to the quota area under the quota of which the visa is issued.
+Except as provided in subsection (b) and subsection (c) of this section no immigrant shall be admitted into the United States unless at the time of application for admission he (1) has a valid unexpired immigrant visa or was born subsequent to the issuance of such visa of the accompanying parent, and (2) presents a valid unexpired passport or other suitable travel document or document of identity and nationality, ifsuch document is required under the regulations issued by the Attorney General. With respect to immigrants to be admitted under quotas of quota areas prior to June 30, 1968, no immigrant visa shall be deemed valid unless the immigrant is properly chargeable to the quota area under the quota of which the visa is issued.
 
 #### (b) Readmission without required documents; Attorney General's discretion
 
@@ -49,12 +49,6 @@ Amendment by Pub. L. 94–571 effective on first day of first month which begins
 #### Effective Date of 1965 Amendment
 
 For effective date of amendment by Pub. L. 89–236, see section 20 of Pub. L. 89–236, set out as a note under section 1151 of this title.
-
-#### Cross References
-
-Definition of alien, application for admission, Attorney General, immigrant, immigrant visa, lawfully admitted for permanent residence, national, parent, passport, and United States, see section 1101 of this title.
-
-Reentry permit, see section 1203 of this title.
 
 #### Section Referred to in Other Sections
 

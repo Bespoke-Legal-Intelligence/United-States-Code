@@ -130,16 +130,6 @@ Pub. L. 97–253, title III, §310(b), Sept. 8, 1982, 96 Stat. 799, as amended b
 
 \[Section 2 of Pub. L. 98–117 provided that: “The amendment made by this Act \[enacting par. (4) of this note\] shall be effective as of October 1, 1983.”\]
 
-#### Cross References
-
-Annual leave to include only work days exclusive of Sunday and holidays, see section 6302 of this title.
-
-Exemption of certain corporations under supervision of Farm Credit Administration, see section 6301 of this title.
-
-Permanent organization in customs service with definite terms of service and compensation for employees, see section 1 et seq. of Title 19, Customs Duties.
-
-Working hours of laborers and mechanics in military departments not to exceed forty hours weekly without overtime pay, see sections 4025 and 9025 of Title 10, Armed Forces.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 5332, 5505, 5545b of this title; title 2 sections 142e, 142f, 142g, 142<i>l</i>; title 38 section 7423; title 40 sections 166b–1d, 166b–1e.

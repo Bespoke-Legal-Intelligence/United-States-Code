@@ -10,5 +10,5 @@ For transfer of functions to Secretary of the Treasury, see note set out under s
 
 #### Application to District of Columbia
 
-Provisions of this section were made applicable to banks, etc., in the District of Columbia by act Mar. 4, 1933, ch. 274, §4, 47 Stat. 1567 (D.C. Code, §26–104).
+Provisions of this section were made applicable to banks, etc., in the District of Columbia by act Mar. 4, 1933, ch. 274, §4, 47 Stat. 1567.
 

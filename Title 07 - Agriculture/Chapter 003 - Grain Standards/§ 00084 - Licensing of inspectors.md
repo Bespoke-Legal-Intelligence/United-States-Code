@@ -2,7 +2,7 @@
 
 #### (a) Authorization
 
-The Secretary is authorized (1) to issue a license to any individual upon presentation to theSecretary of satisfactory evidence that such individual is competent, and is employed (or is supervised under a contractual arrangement) by an official agency or a State agency delegated authority under section 79 or 79a of this title, to perform all or specified functions involved in original inspection or reinspection functions involved in official inspection, or in the official weighing or the supervision of weighing, other than appeal weighing, of grain in the United States; (2) to authorize any competent employee of the Secretary to (A) perform all or specified original inspection, reinspection, or appeal inspection functions involved in official inspection of grain in the United States, or of United States grain in Canadian ports, (B) perform official weighing or supervision of weighing (including appeal weighing) of grain in the United States, or of United States grain in Canadian ports, (C) supervise the official inspection, official weighing, or supervision of weighing of grain in the United States and of United States grain in Canadian ports or the testing of equipment, and (D) perform monitoring activities in foreign ports with respect to grain officially inspected and officially weighed under this chapter; (3) to contract with any person or governmental agency to perform specified sampling, laboratory testing, and similar technical functions and to license competent persons to perform such functions pursuant to such contract; and (4) to contract with any competent person for the performance of monitoring activities in foreign ports with respect to grain officially inspected and officially weighed under this chapter. Except as otherwise provided in sections 79(i) and 79a(d) of this title, no person shall perform any official inspection or weighing function for purposes of this chapter unless such person holds an unsuspended and unrevoked license or authorization from the Secretary under this chapter.
+The Secretary is authorized (1) to issue a license to any individual upon presentation to the Secretary of satisfactory evidence that such individual is competent, and is employed (or is supervised under a contractual arrangement) by an official agency or a State agency delegated authority under section 79 or 79a of this title, to perform all or specified functions involved in original inspection or reinspection functions involved in official inspection, or in the official weighing or the supervision of weighing, other than appeal weighing, of grain in the United States; (2) to authorize any competent employee of the Secretary to (A) perform all or specified original inspection, reinspection, or appeal inspection functions involved in official inspection of grain in the United States, or of United States grain in Canadian ports, (B) perform official weighing or supervision of weighing (including appeal weighing) of grain in the United States, or of United States grain in Canadian ports, (C) supervise the official inspection, official weighing, or supervision of weighing of grain in the United States and of United States grain in Canadian ports or the testing of equipment, and (D) perform monitoring activities in foreign ports with respect to grain officially inspected and officially weighed under this chapter; (3) to contract with any person or governmental agency to perform specified sampling, laboratory testing, inspection, weighing, and similar technical functions and to license competent persons to perform such functions pursuant to such contract; and (4) to contract with any competent person for the performance of monitoring activities in foreign ports with respect to grain officially inspected and officially weighed under this chapter. Except as otherwise provided in sections 79(i) and 79a(d) of this title, no person shall perform any official inspection or weighing function for purposes of this chapter unless such person holds an unsuspended and unrevoked license or authorization from the Secretary under this chapter.
 
 #### (b) Duration of licenses; suspension; reinstatement
 
@@ -18,7 +18,7 @@ Persons employed or supervised under a contractual arrangement by an official ag
 
 #### (e) Hiring of official inspection personnel and supervisory personnel without regard to laws governing appointments to the competitive service
 
-The Secretary may hire (without regard to the provisions of title 5 governing appointments in the competitive service) as official inspection personnel any individual who is licensed (on October 21, 1976) to perform functions of official inspection under this chapter and as personnel to perform supervisory weighing or official weighing functions any individual who, on October 21, 1976, was performing similar functions: <i>Provided</i>, That the Secretary determines that such individual is of good moral character and is technically and professionally qualified for the duties to which the individual will be assigned. The Secretary may compensate such personnel at any rate within the appropriate grade of the General Schedule as the Secretary deems necessary without regard to section 5333 of title 5.
+The Secretary may hire (without regard to the provisions of title 5 governing appointments in the competitive service) as official inspection personnel any individual who is licensed (on October 21, 1976) to perform functions of official inspection under this chapter and as personnel toperform supervisory weighing or official weighing functions any individual who, on October 21, 1976, was performing similar functions: <i>Provided</i>, That the Secretary determines that such individual is of good moral character and is technically and professionally qualified for the duties to which the individual will be assigned. The Secretary may compensate such personnel at any rate within the appropriate grade of the General Schedule as the Secretary deems necessary without regard to section 5333 of title 5.
 
 #### (f) Periodic rotation of personnel
 
@@ -28,7 +28,7 @@ The Secretary shall provide for the periodic rotation of supervisory personnel a
 
 The Secretary shall develop and effectuate standards for the recruiting, training, and supervising of official inspection personnel and appropriate work production standards for such personnel, which shall be applicable to the Secretary, all State agencies under delegation of authority pursuant to this chapter, and all official agencies and all persons licensed or authorized to perform functions under this chapter: <i>Provided</i>, That persons licensed or authorized on October 21, 1976, to perform any official function under this chapter, shall be exempted from the uniform recruiting and training provisions of this subsection and regulations or standards issued pursuant thereto if the Secretary determines that such persons are technically and professionally qualified for the duties to which they will be assigned and they agree to complete whatever additional training the Secretary deems necessary.
 
-(Aug. 11, 1916, ch. 313, pt. B, §8, 39 Stat. 485; Pub. L. 90–487, §1, Aug. 15, 1968, 82 Stat. 764; Pub. L. 94–582, §10, Oct. 21, 1976, 90 Stat. 2877; Pub. L. 95–113, title XVI, §§1604(g), 1606(f), Sept. 29, 1977, 91 Stat. 1028, 1030; Pub. L. 103–156, §§6, 12(g), Nov. 24, 1993, 107 Stat. 1526, 1528; Pub. L. 103–354, title II, §293(a)(7), (8), Oct. 13, 1994, 108 Stat. 3237.)
+(Aug. 11, 1916, ch. 313, pt. B, §8, 39 Stat. 485; Pub. L. 90–487, §1, Aug. 15, 1968, 82 Stat. 764; Pub. L. 94–582, §10, Oct. 21, 1976, 90 Stat. 2877; Pub. L. 95–113, title XVI, §§1604(g), 1606(f), Sept. 29, 1977, 91 Stat. 1028, 1030; Pub. L. 103–156, §§6, 12(g), Nov. 24, 1993, 107 Stat. 1526, 1528; Pub. L. 103–354, title II, §293(a)(7), (8), Oct. 13, 1994, 108 Stat. 3237; Pub. L. 106–472, title I, §106, Nov. 9, 2000, 114 Stat. 2060.)
 
 #### References in Text
 
@@ -37,6 +37,8 @@ The provisions of title 5 governing appointments in the competitive service, ref
 The General Schedule, referred to in subsec. (e), is set out under section 5332 of Title 5.
 
 #### Amendments
+
+2000—Subsec. (a)(3). Pub. L. 106–472 inserted “inspection, weighing,” after “laboratory testing,”.
 
 1994—Pub. L. 103–354 substituted “Secretary” for “Administrator” and “Service” wherever appearing.
 
@@ -80,7 +82,7 @@ Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L
 
 #### Effective Date of 1976 Amendment
 
-For effective date of amendment by Pub. L. 94–582, see section 27 of Pub. L. 94–582, set out as a note under section 74 of this title.
+Amendment by Pub. L. 94–582 effective 30 days after Oct. 21, 1976, see section 27 of Pub. L. 94–582, as amended, set out as a note under section 74 of this title.
 
 #### Effective Date of 1968 Amendment
 

@@ -26,9 +26,3 @@ June 28, 1950, ch. 383, §309, 64 Stat. 270.
 
 The words “authorized by section 21f of this title”, “as now or hereafter provided by law”, and “and commissioned \* \* \* or in any component thereof” are omitted as surplusage.
 
-#### Cross References
-
-Appointment and duties of Chief of Chaplains, see section 3036 of this title.
-
-Secretary of the Army prohibited from assigning officers of Regular Army to Chaplains, see section 3064 of this title.
-

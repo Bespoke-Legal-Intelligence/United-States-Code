@@ -20,7 +20,7 @@ Amendment by act June 25, 1948, effective Sept. 1, 1948, see section 20 of that 
 
 #### Transfer of Functions
 
-Administration of program of Federal Crop Insurance Corporation transferred to Secretary of Agriculture by1946 Reorg. Plan No. 3, §501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100. See note set out under section 1503 of this title.
+Administration of program of Federal Crop Insurance Corporation transferred to Secretary of Agriculture by 1946 Reorg. Plan No. 3, §501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100. See note set out under section 1503 of this title.
 
 Wartime consolidation of Federal Crop Insurance Corporation into Agricultural Conservation and Adjustment Administration, see note set out under section 1503 of this title.
 

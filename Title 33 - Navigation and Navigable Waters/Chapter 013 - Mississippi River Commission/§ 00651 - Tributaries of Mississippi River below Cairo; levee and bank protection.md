@@ -1,6 +1,6 @@
 ### §651. Tributaries of Mississippi River below Cairo; levee and bank protection
 
-The jurisdiction of the Mississippi River Commission is extended, for the purposes of levee protection and bank protection, to the tributaries and outlets of the Mississippi River between Cairo, Illinois, and the Head of the Passes, in so far as these tributaries and outlets are affected by the flood waters of the Mississippi River.
+The jurisdiction of the Mississippi River Commission is extended, for the purposes of levee protection and bank protection, to the tributaries and outlets of the Mississippi River between Cairo, Illinois, and the Head of the Passes, in so far as these tributaries and outletsare affected by the flood waters of the Mississippi River.
 
 (Sept. 22, 1922, ch. 427, §13, 42 Stat. 1047.)
 

@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—(1) The Secretary of Labor, in conjunction with the Secretary of Defense, the Secretary of Transportation, and the Secretary of Veterans Affairs, shall establish and maintain a program to furnish counseling, assistance in identifying employment and training opportunities, help in obtaining such employment and training, and other related information and services to members of the armed forces under the jurisdiction of the Secretary concerned who are being separated from active duty and the spouses of such members. Such services shall be provided to a member duringthe 180-day period before the member is separated from active duty.
+In General.—(1) The Secretary of Labor, in conjunction with the Secretary of Defense, the Secretary of Transportation, and the Secretary of Veterans Affairs, shall establish and maintain a program to furnish counseling, assistance in identifying employment and training opportunities, help in obtaining such employment and training, and other related information and services to members of the armed forces under the jurisdiction of the Secretary concerned who are being separated from active duty and the spouses of such members. Such services shall be provided to a member during the 180-day period before the member is separated from active duty.
 
 (2) The Secretary of Defense, the Secretary of Transportation, and the Secretary of Veterans Affairs shall cooperate with the Secretary of Labor in establishing and maintaining the program under this section.
 
@@ -76,7 +76,7 @@ Subsec. (d)(2). Pub. L. 103–337, §543(b)(5), inserted “and the Department o
 
 1992—Subsec. (b)(8). Pub. L. 102–484, §4462(c), added par. (8).
 
-Subsec. (e)(1). Pub. L. 102–484, §4469(1), substituted “$11,000,000 for fiscal year 1993 and $8,000,000 for each offiscal years 1994 and 1995” for “$4,000,000 for fiscal year 1991 and $9,000,000 for each of fiscal years 1992 and 1993”.
+Subsec. (e)(1). Pub. L. 102–484, §4469(1), substituted “$11,000,000 for fiscal year 1993 and $8,000,000 for each of fiscal years 1994 and 1995” for “$4,000,000 for fiscal year 1991 and $9,000,000 for each of fiscal years 1992 and 1993”.
 
 Subsec. (e)(2). Pub. L. 102–484, §4469(2), substituted “$6,500,000 for each of fiscal years 1993, 1994, and 1995” for “$1,000,000 for fiscal year 1991 and $4,000,000 for each of fiscal years 1992 and 1993”.
 

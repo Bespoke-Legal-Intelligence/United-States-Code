@@ -32,18 +32,6 @@ This section \[section 28\] adds to section 1156 of title 18, U.S.C., a paragrap
 
 1949—Act May 24, 1949, inserted last par.
 
-#### Cross References
-
-Application of Indian liquor laws, see section 1161 of this title.
-
-Indian country defined, see section 1151 of this title.
-
-Possession as prima facie evidence, see section 3488 of this title.
-
-Searches, seizures, and forfeitures; Indians as competent witnesses, see section 3113 of this title.
-
-Seizure and forfeiture of vehicles, see section 3669 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1151, 1161, 3113 of this title; title 25 section 1725.

@@ -2,7 +2,7 @@
 
 #### (a) Construction grants
 
-(1) For the purpose of making construction grants under sections 640a to 640c–3 of this title, there are authorized to be appropriated $2,000,000 for fiscal year 1999 and such sums as may be necessary for each of the 4 succeeding fiscal years.
+(1) For the purpose of making construction grants under sections 640a to 640c–3 of this title, there are authorized to be appropriated $2,000,000for fiscal year 1999 and such sums as may be necessary for each of the 4 succeeding fiscal years.
 
 (2) Sums appropriated pursuant to this subsection for construction shall, unless otherwise provided in appropriations Acts, remain available until expended.
 

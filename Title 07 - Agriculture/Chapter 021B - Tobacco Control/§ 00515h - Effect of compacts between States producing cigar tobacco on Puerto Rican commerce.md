@@ -8,7 +8,7 @@ The Secretary shall determine for each crop year, by calculations from available
 
 #### (b) Determination of marketing quota for Puerto Rico
 
-The Secretary shall determine a marketing quota for Puerto Rico for cigar-filler tobacco for each crop year in which the provisions of this section are operative. Such quota shall be that quantity of cigar-filler tobacco which bears the same proportion (subject to such adjustment, which may be cumulative from one crop year to another, not exceeding 5 per centum of said proportion in any one year, as the Secretary determines is necessary to correct for any abnormal conditions of production during any three normal crop years during the last ten years for trends in production during such crop years and for trends in consumption since such crop years) to the total quantity of cigar-filler tobacco produced in the continental United States and Puerto Rico and required for world consumption (as determined pursuant to subsection (a) of this section) as the average production of cigar-filler tobacco in Puerto Rico in such crop years bore to the average of the total production of cigar-filler tobacco in the continental United States and Puerto Rico in such crop years.
+The Secretary shall determine a marketing quota for Puerto Rico for cigar-filler tobacco for each crop year in which the provisions of this section are operative. Such quota shall be that quantity of cigar-filler tobacco which bears the same proportion (subject to such adjustment, which may be cumulative from one crop year to another, not exceeding 5 per centum of said proportion in any one year, as the Secretary determines is necessary to correct for any abnormal conditions of production during any three normal crop years during the last ten years for trends in production during such crop years and for trends in consumption since such crop years) to the total quantity of cigar-filler tobacco produced in the continental United States andPuerto Rico and required for world consumption (as determined pursuant to subsection (a) of this section) as the average production of cigar-filler tobacco in Puerto Rico in such crop years bore to the average of the total production of cigar-filler tobacco in the continental United States and Puerto Rico in such crop years.
 
 #### (c) Establishment of marketing quota for each Puerto Rican farm
 
@@ -16,7 +16,7 @@ The Secretary shall establish for each farm in Puerto Rico for each crop year a 
 
 #### (d) Uniform adjustment of marketing quotas
 
-The marketing quota established for Puerto Rico and the marketing quotas established forfarms in Puerto Rico for any crop year pursuant to subsections (b) and (c) of this section shall be subject to such uniform adjustment during the crop year, not exceeding 10 per centum of said quotas, as the Secretary shall determine to be necessary to establish and maintain normal world stocks of cigar-filler tobacco produced in the continental United States and Puerto Rico and otherwise to effectuate the purposes of this chapter.
+The marketing quota established for Puerto Rico and the marketing quotas established for farms in Puerto Rico for any crop year pursuant to subsections (b) and (c) of this section shall be subject to such uniform adjustment during the crop year, not exceeding 10 per centum of said quotas, as the Secretary shall determine to be necessary to establish and maintain normal world stocks of cigar-filler tobacco produced in the continental United States and Puerto Rico and otherwise to effectuate the purposes of this chapter.
 
 #### (e) Issuance of marketing certificates
 
@@ -31,10 +31,6 @@ From the proceeds received from the sale of marketing certificates pursuant to s
 The sale, marketing, purchase, or transportation of any cigar-filler tobacco produced, sold, or marketed in Puerto Rico during any period of time when this section shall be in effect is prohibited unless a marketing certificate has been issued for such tobacco by the Secretary pursuant to the provisions of subsection (e) of this section.
 
 (Apr. 25, 1936, ch. 249, §9, 49 Stat. 1241.)
-
-#### Cross References
-
-Delegation of regulatory functions of Secretary of Agriculture, see section 450c of this title.
 
 #### Section Referred to in Other Sections
 

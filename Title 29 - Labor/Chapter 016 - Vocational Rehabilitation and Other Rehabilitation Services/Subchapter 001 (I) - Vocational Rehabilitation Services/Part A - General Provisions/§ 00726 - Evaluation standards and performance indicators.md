@@ -22,7 +22,7 @@
 
 #### (3) Comment
 
-&emsp;The standards and indicators shall be developed with input from State vocational rehabilitation agencies, related professional and consumer organizations, recipients of vocational rehabilitation services, and other interested parties. The Commissioner shall publishin the Federal Register a notice of intent to regulate regarding the development of proposed standards and indicators. Proposed standards and indicators shall be published in the Federal Register for review and comment. Final standards and indicators shall be published in the Federal Register.
+&emsp;The standards and indicators shall be developed with input from State vocational rehabilitation agencies, related professional and consumer organizations, recipients of vocational rehabilitation services, and other interested parties. The Commissioner shall publish in the Federal Register a notice of intent to regulate regarding the development of proposed standards and indicators. Proposed standards and indicators shall be published in the Federal Register for review and comment. Final standards and indicators shall be published in the Federal Register.
 
 #### (b) Compliance
 

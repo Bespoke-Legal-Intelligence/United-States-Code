@@ -24,7 +24,7 @@ In approving the Compact, the Congress understands that the Government of the Fe
 
 #### (2) Annual reports and recommendations
 
-&emsp;One year after January 14, 1986, and at one year intervals thereafter, the President shall report to the Congress with respect to the impact of the Compact on the United States territories and commonwealths and on the State of Hawaii. Reports submitted pursuant to this paragraph (hereafter in this subsection referred to as “reports”) shall identify any adverse consequences resulting from the Compact and shall make recommendations for corrective action to eliminate those consequences. The reports shall pay particular attention to matters relating to trade, taxation, immigration, labor laws, minimum wages, social systems and infrastructure, and environmental regulation. With regard to immigration, the reports shall include statistics concerning the number of persons availing themselves of the rights described in section 141(a) of the Compact during the year covered by each report. With regard to trade, the reports shall include an analysis of the impact on the economy of American Samoa resulting from imports of canned tuna into the United States from the Federated States of Micronesia and the Marshall Islands.
+&emsp;One year after January 14, 1986, and at one year intervals thereafter, the Governor of any of the United States territories or commonwealths or the State of Hawaii may report to the Secretary of the Interior by February 1 of each year with respect to the impacts of the compacts of free association on the Governor's respective jurisdiction. The Secretary of the Interior shall review and forward any such reports to the Congress with the comments of the Administration. The Secretary of the Interior shall, either directly or, subject to available technical assistance funds, through a grant to the affected jurisdiction, provide for a census of Micronesians at intervals no greater than 5 years from each decennial United States census using generally acceptable statistical methodologies for each of the impact jurisdictions where the Governor requests such assistance, except that the total expenditures to carry out this sentence may not exceed $300,000 in any year. Reports submitted pursuant to this paragraph (hereafter in this subsection referred to as “reports”) shall identify any adverse consequences resulting from the Compact and shall make recommendations for corrective action to eliminate those consequences. The reports shall pay particular attention to matters relating to trade, taxation, immigration, labor laws, minimum wages, social systems and infrastructure, and environmental regulation. With regard to immigration, the reports shall include statistics concerning the number of persons availing themselves of the rights described in section 141(a) of the Compact during the year covered by each report. With regard to trade, the reports shall include an analysis of the impact on the economy of American Samoa resulting from imports of canned tuna into the United States from the Federated States of Micronesia and the Marshall Islands.
 
 #### (3) Other views
 
@@ -64,7 +64,7 @@ In clarification of Title One, Article II, section 121(b)(1) of the Compact:
 
 &emsp;&emsp;(ii) that such an agreement should overcome existing jurisdictional differences and provide for a mutually beneficial relationship between the United States and the Pacific Island States that will promote the development of the tuna and other latent fisheries resources of the Central, Western, and South Pacific Ocean and the economic development of the region.
 
-&emsp;(B) At such time as an agreement referred to in subparagraph (A) is submitted to the Senate for advice and consent to ratification, the Secretary of State, after consultation with the Secretary of Commerce and other interested agencies and concerned governments, shall submit to the Congress a proposed long term regional fisheries development program which may include, but not be limited to—
+&emsp;(B) At such time as an agreement referred to in subparagraph (A) is submitted to the Senatefor advice and consent to ratification, the Secretary of State, after consultation with the Secretary of Commerce and other interested agencies and concerned governments, shall submit to the Congress a proposed long term regional fisheries development program which may include, but not be limited to—
 
 &emsp;&emsp;(i) exploration for, and stock assessment of, tuna and other fish;
 
@@ -82,7 +82,7 @@ In clarification of Title One, Article II, section 121(b)(1) of the Compact:
 
 The Congress hereby reaffirms the United States position that the United States Government is not responsible for foreign loans or debt obtained by the Governments of the Federated States of Micronesia and the Marshall Islands.
 
-(Pub. L. 99–239, title I, §104, Jan. 14, 1986, 99 Stat. 1788; (As amended Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41.)
+(Pub. L. 99–239, title I, §104, Jan. 14, 1986, 99 Stat. 1788; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 106–504, §2, Nov. 13, 2000, 114 Stat. 2311.)
 
 #### References in Text
 
@@ -103,6 +103,8 @@ Section 3 of the Magnuson-Stevens Fishery Conservation and Management Act \[16 U
 Section was formerly set out as a note under section 1681 of this title.
 
 #### Amendments
+
+2000—Subsec. (e)(2). Pub. L. 106–504 substituted “Governor of any of the United States territories or commonwealths or the State of Hawaii may report to the Secretary of the Interior by February 1 of each year with respect to the impacts of the compacts of free association on the Governor's respective jurisdiction. The Secretary of the Interior shall review and forward any such reports to the Congress with the comments of the Administration. The Secretary of the Interior shall, either directly or, subject to available technical assistance funds, through a grant to the affected jurisdiction, provide for a census of Micronesians at intervals no greater than 5 years from each decennial United States census using generally acceptable statistical methodologies for each of the impact jurisdictions where the Governor requests such assistance, except that the total expenditures to carry out this sentence may not exceed $300,000 in any year.” for “President shall report to the Congress with respect to the impact of the Compact on the United States territories and commonwealths and on the State of Hawaii.”.
 
 1996—Subsec. (f)(3), (4)(B). Pub. L. 104–208 substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
 

@@ -58,7 +58,7 @@ Notwithstanding section 1397d(a) of this title:
 
 &emsp;&emsp;(B) nonprofit organizations and community or junior colleges, for the purpose of enabling such entities to provide short-term training courses in entrepreneurism and self-employment, and other training that will promote individual self-sufficiency and the interests of the community.
 
-&emsp;(3) A State may use amounts paid under this section to make grants to, or enter into contracts with, nonprofit community-based organizations to enable such organizations to provide activities designed to promote and protect the interests of children and families, outside of school hours, including keeping schools open during evenings and weekends for mentoring and study.
+&emsp;(3) A State may use amounts paid under this section to make grants to, or enter into contracts with, nonprofit community-based organizations to enable such organizations to provide activities designed to promote and protect the interests of children and families,outside of school hours, including keeping schools open during evenings and weekends for mentoring and study.
 
 &emsp;(4) In order to assist disadvantaged adults and youths in achieving and maintaining economic self-support, a State may use amounts paid under this section to—
 
@@ -166,7 +166,7 @@ The Internal Revenue Code of 1986, referred to in subsecs. (a)(3), (d)(1), and (
 
 A prior section 1397f, act Aug. 14, 1935, ch. 531, title XX, §2007, as added Aug. 13, 1981, Pub. L. 97–35, title XXIII, §2352(a), 95 Stat. 871, related to child day care services, prior to repeal by Pub. L. 99–514, title XVIII, §1883(e)(2), Oct. 22, 1986, 100 Stat. 2919.
 
-Another prior section 1397f, act Aug. 14, 1935, ch. 531, title XX, §2008, formerly §2007, as added Jan. 4, 1975, Pub. L. 93–647, §2, 88 Stat. 2348; renumbered §2008, Jan.2, 1980, Pub. L. 96–178, §4(b), 93 Stat. 1296, defined “State supplementary payment” and “State”, prior to the general revision of this subchapter by section 2352(a) of Pub. L. 97–35.
+Another prior section 1397f, act Aug. 14, 1935, ch. 531, title XX, §2008, formerly §2007, as added Jan. 4, 1975, Pub. L. 93–647, §2, 88 Stat. 2348; renumbered §2008, Jan. 2, 1980, Pub. L. 96–178, §4(b), 93 Stat. 1296, defined “State supplementary payment” and “State”, prior to the general revision of this subchapter by section 2352(a) of Pub. L. 97–35.
 
 #### Amendments
 

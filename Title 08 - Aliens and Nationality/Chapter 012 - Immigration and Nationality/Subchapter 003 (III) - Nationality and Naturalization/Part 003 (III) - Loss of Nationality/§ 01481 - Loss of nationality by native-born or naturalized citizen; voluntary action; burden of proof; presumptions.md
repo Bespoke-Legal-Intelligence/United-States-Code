@@ -10,7 +10,7 @@
 
 &emsp;(4)(A) accepting, serving in, or performing the duties of any office, post, or employment under the government of a foreign state or a political subdivision thereof, after attaining the age of eighteen years if he has or acquires the nationality of such foreign state; or (B) accepting, serving in, or performing the duties of any office, post, or employment under the government of a foreign state or a political subdivision thereof, after attaining the age of eighteen years for which office, post, or employment an oath, affirmation, or declaration of allegiance is required; or
 
-&emsp;(5) making a formal renunciation of nationality before a diplomatic or consular officer of the United States in a foreign state, in such form as may be prescribed by the Secretary of State; or
+&emsp;(5) making a formal renunciation of nationality before a diplomatic or consular officer ofthe United States in a foreign state, in such form as may be prescribed by the Secretary of State; or
 
 &emsp;(6) making in the United States a formal written renunciation of nationality in such form as may be prescribed by, and before such officer as may be designated by, the Attorney General, whenever the United States shall be in a state of war and the Attorney General shall approve such renunciation as not contrary to the interests of national defense; or
 
@@ -81,30 +81,6 @@ Amendment by Pub. L. 94–412 not to affect any action taken or proceeding pendi
 #### Right of Expatriation
 
 R.S. §1999 provided that: “Whereas the right of expatriation is a natural and inherent right of all people, indispensable to the enjoyment of the rights of life, liberty, and the pursuit of happiness; and whereas in the recognition of this principle this Government has freely received emigrants from all nations, and invested them with the rights of citizenship; and whereas it is claimed that such American citizens, with their descendants, are subjects of foreign states, owing allegiance to the governments thereof; and whereas it is necessary to the maintenance of public peace that this claim of foreign allegiance should be promptly and finally disavowed: Therefore any declaration, instruction, opinion, order, or decision of any officer of the United States which denies, restricts, impairs, or questions the right of expatriation, is declared inconsistent with the fundamental principles of the Republic.”
-
-#### Cross References
-
-Definition of the term—
-
-&emsp;&emsp;Attorney General, see section 1101(a)(5) of this title.
-
-&emsp;&emsp;Consular officer, see section 1101(a)(9) of this title.
-
-&emsp;&emsp;Foreign state, see section 1101(a)(14) of this title.
-
-&emsp;&emsp;National, see section 1101(a)(21) of this title.
-
-&emsp;&emsp;National of the United States, see section 1101(a)(22) of this title.
-
-&emsp;&emsp;Naturalization, see section 1101(a)(23) of this title.
-
-&emsp;&emsp;Parent, as used in subchapters I and II of this chapter, see section 1101(b)(2) of this title.
-
-&emsp;&emsp;Parent, as used in this subchapter, see section 1101(c)(2) of this title.
-
-&emsp;&emsp;United States, see section 1101(a)(38) of this title.
-
-Treason, sedition and subversive activities, see section 2381 et seq. of Title 18, Crimes and Criminal Procedure.
 
 #### Section Referred to in Other Sections
 

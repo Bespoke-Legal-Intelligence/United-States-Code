@@ -16,7 +16,7 @@ Whenever necessary to meet the requirements of the Federal Water Pollution Contr
 
 #### (c) Joint plan requirement
 
-The Secretary may only remove and remediate contaminated sediments under subsection (b) of this section in accordance with a joint plan developed by the Secretary and interested Federal, State, and local government officials. Such plan must include an opportunity for public comment, a description of the work to be undertaken, the method to be used for dredged material disposal, the roles and responsibilities of the Secretary and non-Federal sponsors, and identification of sources of funding.
+The Secretary may only remove and remediate contaminated sediments under subsection (b) of this section in accordance with a joint plan developed by the Secretary and interestedFederal, State, and local government officials. Such plan must include an opportunity for public comment, a description of the work to be undertaken, the method to be used for dredged material disposal, the roles and responsibilities of the Secretary and non-Federal sponsors, and identification of sources of funding.
 
 #### (d) Disposal costs
 
@@ -46,7 +46,11 @@ In carrying out this section, the Secretary shall give priority to work in the f
 
 &emsp;(8) Willamette River, Oregon.
 
-(Pub. L. 101–640, title III, §312, Nov. 28, 1990, 104 Stat. 4639; Pub. L. 104–303, title II, §205, Oct. 12, 1996, 110 Stat. 3679; Pub. L. 106–53, title II, §224, Aug. 17, 1999, 113 Stat. 297.)
+#### (g) Nonprofit entities
+
+Notwithstanding section 1962d–5b of title 42, for any project carried out under this section, a non-Federal sponsor may include a nonprofit entity, with the consent of the affected local government.
+
+(Pub. L. 101–640, title III, §312, Nov. 28, 1990, 104 Stat. 4639; Pub. L. 104–303, title II, §205, Oct. 12, 1996, 110 Stat. 3679; Pub. L. 106–53, title II, §224, Aug. 17, 1999, 113 Stat. 297; Pub. L. 106–541, title II, §210(a), Dec. 11, 2000, 114 Stat. 2592.)
 
 #### References in Text
 
@@ -61,6 +65,8 @@ Section was formerly set out as a note under section 1252 of this title.
 Section was enacted as part of the Water Resources Development Act of 1990, and not as part of the Federal Water Pollution Control Act which comprises this chapter.
 
 #### Amendments
+
+2000—Subsec. (g). Pub. L. 106–541 added subsec. (g).
 
 1999—Subsec. (b)(1). Pub. L. 106–53, §224(1)(A), substituted “35 percent” for “50 percent”.
 
@@ -79,4 +85,6 @@ Subsec. (b)(2). Pub. L. 104–303, §205(2)(B), substituted “$20,000,000” fo
 Subsec. (c). Pub. L. 104–303, §205(1), inserted “and remediate” after “remove”.
 
 Subsec. (f). Pub. L. 104–303, §205(3), added subsec. (f) and struck out heading and text of former subsec. (f). Text read as follows: “This section shall not be effective after the last day of the 5-year period beginning on November 28, 1990; except that the Secretary may complete any project commenced under this section on or before such last day.”
+
+<i><sup>1</sup></i><i> So in original. The word “a” probably should not appear.</i>
 

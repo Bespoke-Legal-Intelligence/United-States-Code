@@ -37,7 +37,7 @@
 | (a) | Individuals at least 40 years of age. |
 | (b) | Employees or applicants for employment in Federal Government. |
 | (c) | Bona fide executives or high policymakers. |
-| [632\.](%C2%A7%2000632%20-%20Annual%20report%20to%20Congress.md) | Annual report to Congress. |
+| [632\.](%C2%A7%2000632%20-%20Omitted.md) | Omitted. |
 | [633\.](%C2%A7%2000633%20-%20Federal-State%20relationship.md) | Federal-State relationship. |
 | (a) | Federal action superseding State action. |
 | (b) | Limitation of Federal action upon commencement of State proceedings. |
@@ -52,12 +52,6 @@
 | [634\.](%C2%A7%2000634%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Cross References
-
-Age discrimination in federally assisted programs, see section 6101 et seq. of Title 42, The Public Health and Welfare.
-
-Civil rights, Federally assisted programs, see section 2000d et seq. of Title 42.
 
 #### Chapter Referred to in Other Sections
 
@@ -79,7 +73,7 @@ This chapter is referred to in title 2 sections 1302, 1311, 1371, 1434; title 3 
 - [&sect; 00629 - Criminal penalties](%C2%A7%2000629%20-%20Criminal%20penalties.md)
 - [&sect; 00630 - Definitions](%C2%A7%2000630%20-%20Definitions.md)
 - [&sect; 00631 - Age limits](%C2%A7%2000631%20-%20Age%20limits.md)
-- [&sect; 00632 - Annual report to Congress](%C2%A7%2000632%20-%20Annual%20report%20to%20Congress.md)
+- [&sect; 00632 - Omitted](%C2%A7%2000632%20-%20Omitted.md)
 - [&sect; 00633 - Federal-State relationship](%C2%A7%2000633%20-%20Federal-State%20relationship.md)
 - [&sect; 00633a - Nondiscrimination on account of age in Federal Government employment](%C2%A7%2000633a%20-%20Nondiscrimination%20on%20account%20of%20age%20in%20Federal%20Government%20employment.md)
 - [&sect; 00634 - Authorization of appropriations](%C2%A7%2000634%20-%20Authorization%20of%20appropriations.md)

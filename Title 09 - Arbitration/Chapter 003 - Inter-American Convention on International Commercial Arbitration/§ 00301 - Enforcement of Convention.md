@@ -1,6 +1,6 @@
 ### §301. Enforcement of Convention
 
-The Inter-American Convention on International Commercial Arbitration of January 30,1975, shall be enforced in United States courts in accordance with this chapter.
+The Inter-American Convention on International Commercial Arbitration of January 30, 1975, shall be enforced in United States courts in accordance with this chapter.
 
 (Added Pub. L. 101–369, §1, Aug. 15, 1990, 104 Stat. 448.)
 

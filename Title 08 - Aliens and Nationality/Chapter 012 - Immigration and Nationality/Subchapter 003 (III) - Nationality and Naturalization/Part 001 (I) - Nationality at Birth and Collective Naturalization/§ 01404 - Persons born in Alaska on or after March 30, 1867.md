@@ -8,7 +8,3 @@ A person born in Alaska on or after March 30, 1867, except a noncitizen Indian, 
 
 Alaska Statehood provisions as not repealing, amending, or modifying the provisions of this section, see section 24 of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as a note preceding former section 21 of Title 48, Territories and Insular Possessions.
 
-#### Cross References
-
-United States defined, see section 1101 of this title.
-

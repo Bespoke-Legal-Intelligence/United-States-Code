@@ -11,10 +11,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Cross References
-
-General provisions applicable to court officers and employees, see section 951 et seq. of this title.
-
 
 ---
 

@@ -2,7 +2,7 @@
 
 #### (a) Criteria
 
-The Secretary of the Treasury shall instruct the United States Executive Director of the International Bank for Reconstruction and Development to initiate discussions with other directors of such bank and to advocate and support the facilitation of voluntary market-based programs for the reduction of sovereign debt and the promotion of sustainable economic development, which, if implemented, would—
+The Secretary of the Treasury shall instruct the United States Executive Director of theInternational Bank for Reconstruction and Development to initiate discussions with other directors of such bank and to advocate and support the facilitation of voluntary market-based programs for the reduction of sovereign debt and the promotion of sustainable economic development, which, if implemented, would—
 
 &emsp;(1) not require any organization or government to participate in such a program;
 
@@ -42,7 +42,7 @@ Not later than March 1, 1989, March 1, 1991, and March 1, 1993, respectively, th
 
 #### (e) Review by House Banking Committee
 
-On receipt of each report required to be submitted pursuant to subsection (d) of this section, and after consultation with the Secretary of the Treasury, the Committee on Banking, Finance and Urban Affairs of the House of Representatives shall forward such report to theCommittee on Appropriations of the House of Representatives with an assessment by the Committee on Banking, Finance and Urban Affairs describing the effect on the international debt situation of funding the subscription of the United States to the shares of capital stock of the International Bank for Reconstruction and Development due for payment by the United States in the then next fiscal year.
+On receipt of each report required to be submitted pursuant to subsection (d) of this section, and after consultation with the Secretary of the Treasury, the Committee on Banking, Finance and Urban Affairs of the House of Representatives shall forward such report to the Committee on Appropriations of the House of Representatives with an assessment by the Committee on Banking, Finance and Urban Affairs describing the effect on the international debt situation of funding the subscription of the United States to the shares of capital stock of the International Bank for Reconstruction and Development due for payment by the United States in the then next fiscal year.
 
 (Pub. L. 100–461, title V, §555, Oct. 1, 1988, 102 Stat. 2268–36.)
 
@@ -54,7 +54,7 @@ Section was not enacted as part of act July 31, 1945, ch. 339, 59 Stat. 512, kno
 
 #### Change of Name
 
-Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Section Referred to in Other Sections
 

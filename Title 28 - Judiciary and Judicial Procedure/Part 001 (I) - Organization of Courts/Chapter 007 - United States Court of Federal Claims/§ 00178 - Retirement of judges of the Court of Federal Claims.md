@@ -48,7 +48,7 @@
 
 &emsp;(2) an annuity equal to the salary payable to Court of Federal Claims judges in regular active service, if before retirement such judge served at least 10 years.
 
-(d) A judge who retires under subsection (a) or (b) may, at or after such retirement, be called upon by the chief judge of the Court of Federal Claims to perform such judicial duties with theCourt of Federal Claims as may be requested of the retired judge for any period or periods specified by the chief judge, except that in the case of any such judge—
+(d) A judge who retires under subsection (a) or (b) may, at or after such retirement, be called upon by the chief judge of the Court of Federal Claims to perform such judicial duties with the Court of Federal Claims as may be requested of the retired judge for any period or periods specified by the chief judge, except that in the case of any such judge—
 
 &emsp;(1) the aggregate of such periods in any one calendar year shall not (without his or her consent) exceed 90 calendar days; and
 
@@ -76,7 +76,7 @@
 
 &emsp;(D) retired pay under section 7296 of title 38.
 
-(g) For purposes of calculating the years of service of an individual under subsections (a) and (c), only those years of service as a judge of the Court of Federal Claims or a commissioner of the United States Court of Claims shall be credited, and that portion of the aggregate number of years of such service that is a fractional part of 1 year shall not be credited if it is less than 6 months, and shall be credited if it is 6 months or more.
+(g) For purposes of calculating the years of service of an individual under subsections (a)and (c), only those years of service as a judge of the Court of Federal Claims or a commissioner of the United States Court of Claims shall be credited, and that portion of the aggregate number of years of such service that is a fractional part of 1 year shall not be credited if it is less than 6 months, and shall be credited if it is 6 months or more.
 
 (h) An annuity under this section shall be payable at the times and in the same manner as the salary of a Court of Federal Claims judge in regular active service. Such annuity shall begin to accrue on the day following the day on which the annuitant's salary as a judge in regular active service ceases to accrue.
 
@@ -102,7 +102,7 @@
 
 &emsp;(i) may be made by a judge only if such judge meets the age and service requirements for retirement under subsection (a),
 
-&emsp;(ii) may be made only during the period during which such judge may make an election to receive an annuity under this section or whilethe judge is receiving an annuity under this section, and
+&emsp;(ii) may be made only during the period during which such judge may make an election to receive an annuity under this section or while the judge is receiving an annuity under this section, and
 
 &emsp;(iii) shall be filed with the Director of the Administrative Office of the United States Courts.
 
@@ -128,7 +128,7 @@
 
 &emsp;(D) the Court of Federal Claims shall deposit in the Civil Service Retirement and Disability Fund an amount equal to the additional amount it would have contributed to such Fund but for the election under subsection (f), and
 
-&emsp;(E) if subparagraph (D) is complied with, service on the Court of Federal Claims or as a commissioner of the United States Court of Claims shall be treated as service with respect to which deductions and contributions had been made during the period of service.
+&emsp;(E) if subparagraph (D) is complied with, service on the Court of Federal Claims or as acommissioner of the United States Court of Claims shall be treated as service with respect to which deductions and contributions had been made during the period of service.
 
 (<i>l</i>)(1) There is established in the Treasury a fund which shall be known as the “Court of Federal Claims Judges Retirement Fund”. The Fund is appropriated for the payment of annuities and other payments under this section.
 
@@ -148,9 +148,9 @@ Section 7447 of the Internal Revenue Code of 1986, referred to in subsec. (f)(2)
 
 #### Amendments
 
-1992—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court” in subsec. (a) and “Court of Federal Claims” for “Claims Court” in section catchline and wherever appearing in text.
+<b>1992</b>—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court” in subsec. (a) and “Court of Federal Claims” for “Claims Court” in section catchline and wherever appearing in text.
 
-1991—Subsec. (f)(2)(A). Pub. L. 102–198, §7(a)(1), inserted “(except for subchapters III and VII)” after “chapter 84”.
+<b>1991</b>—Subsec. (f)(2)(A). Pub. L. 102–198, §7(a)(1), inserted “(except for subchapters III and VII)” after “chapter 84”.
 
 Subsec. (f)(2)(D). Pub. L. 102–40 substituted “section 7296 of title 38” for “section 4096 of title 38”.
 
@@ -170,7 +170,7 @@ Section applicable to judges of, and senior judges in active service with, the U
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 376, 604 of this title; title 5 sections 8334, 8402, 8440c.
+This section is referred to in sections 179, 376, 604, 797 of this title; title 5 sections 8334, 8402, 8440c.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “of the”.</i>
 

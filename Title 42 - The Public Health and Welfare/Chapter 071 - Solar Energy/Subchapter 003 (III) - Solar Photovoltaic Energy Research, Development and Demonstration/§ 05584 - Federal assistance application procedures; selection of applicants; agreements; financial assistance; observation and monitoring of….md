@@ -2,7 +2,7 @@
 
 (a) In carrying out the provisions of section 5583 of this title, the Secretary is authorized—
 
-&emsp;(1) to establish procedures whereby any public or private entity wishing to install solar photovoltaic components and systems in any new or existing facility may apply for Federal assistance in purchasing and installing, insuch facility, photovoltaic components or systems;
+&emsp;(1) to establish procedures whereby any public or private entity wishing to install solar photovoltaic components and systems in any new or existing facility may apply for Federal assistance in purchasing and installing, in such facility, photovoltaic components or systems;
 
 &emsp;(2) to select, as soon as he deems it feasible, a number of the applicants under paragraph (1) and enter into agreements with them for the design, purchase, fabrication, testing, installation, and demonstration of photovoltaic components and systems. Such selection shall be based on the need to obtain scientific, technological, and economic information from a variety of such systems under a variety of circumstances and conditions; and
 

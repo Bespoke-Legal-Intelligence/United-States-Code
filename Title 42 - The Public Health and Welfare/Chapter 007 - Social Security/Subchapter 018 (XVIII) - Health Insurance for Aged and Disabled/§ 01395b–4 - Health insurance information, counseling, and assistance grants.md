@@ -2,7 +2,7 @@
 
 #### (a) Grants
 
-The Secretary of Health and Human Services (in this section referred to as the “Secretary”) shall make grants to States, with approved State regulatory programs under section 1395ssof this title, that submit applications to the Secretary that meet the requirements of this section for the purpose of providing information, counseling, and assistance relating to the procurement of adequate and appropriate health insurance coverage to individuals who are eligible to receive benefits under this subchapter (in this section referred to as “eligible individuals”). The Secretary shall prescribe regulations to establish a minimum level of funding for a grant issued under this section.
+The Secretary of Health and Human Services (in this section referred to as the “Secretary”) shall make grants to States, with approved State regulatory programs under section 1395ss of this title, that submit applications to the Secretary that meet the requirements of this section for the purpose of providing information, counseling, and assistance relating to the procurement of adequate and appropriate health insurance coverage to individuals who are eligible to receive benefits under this subchapter (in this section referred to as “eligible individuals”). The Secretary shall prescribe regulations to establish a minimum level of funding for a grant issued under this section.
 
 #### (b) Grant applications
 
@@ -62,7 +62,7 @@ In issuing a grant under this section, the Secretary shall consider—
 
 &emsp;(2) the population of eligible individuals in such State as a percentage of the population of such State; and
 
-&emsp;(3) in order to ensure the needs of rural areas in such State, the relative costs and specialproblems associated with addressing the special problems of providing health care information, counseling, and assistance eligible <sup>1</sup> individuals residing in rural areas of such State.
+&emsp;(3) in order to ensure the needs of rural areas in such State, the relative costs and special problems associated with addressing the special problems of providing health care information, counseling, and assistance eligible <sup>1</sup> individuals residing in rural areas of such State.
 
 #### (e) Annual State report
 
@@ -94,7 +94,7 @@ There are authorized to be appropriated, in equal parts from the Federal Hospita
 
 #### References in Text
 
-The Older Americans Act, referred to in subsec. (d)(1)(C)(ii), probably means the Older Americans Act of 1965, which is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, as amended, and is classified generally to chapter 35 (§3001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
+The Older Americans Act, referred to in subsec. (d)(1)(C)(ii), probably means the Older Americans Act of1965, which is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, as amended, and is classified generally to chapter 35 (§3001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
 
 #### Codification
 
@@ -130,7 +130,7 @@ Subsec. (g). Pub. L. 103–432, §171(i)(8)(B), and Pub. L. 103–437, §15(b)(2
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Effective Date of 1994 Amendment
 
@@ -142,7 +142,7 @@ For provisions relating to changes required to conform State regulatory programs
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1395w–27, 3058k of this title.
+This section is referred to in section 1395w–27 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be preceded by “to”.</i>
 

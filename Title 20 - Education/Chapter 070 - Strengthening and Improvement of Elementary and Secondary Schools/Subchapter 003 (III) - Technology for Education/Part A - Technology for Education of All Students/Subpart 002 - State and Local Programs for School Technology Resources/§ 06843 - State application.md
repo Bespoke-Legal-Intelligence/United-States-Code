@@ -1,6 +1,6 @@
 ### §6843. State application
 
-To receive funds under this subpart, each State educational agency shall submit a statewide educational technology plan which may include plans submitted under the Goals 2000: Educate America Act \[20 U.S.C. 5801 et seq.\] or other statewide technology plans which meet the requirements of this section. Such application shall be submitted to the Secretary at such time, in such manner, and accompanied by such information as the Secretary may reasonably require. Each such application shall contain a systemic statewide plan that—
+To receive funds under this subpart, each State educational agency shall submit a statewide educational technology plan which may include plans submitted under the Goals 2000: Educate America Act \[20 U.S.C. 5801 et seq.\] or other statewide technology plans which meet the requirements of this section. Such application shall be submitted to the Secretary at such time, in such manner, and accompanied by such information as the Secretary may reasonablyrequire. Each such application shall contain a systemic statewide plan that—
 
 &emsp;(1) outlines long-term strategies for financing technology education in the State and describes how business, industry, and other public and private agencies, including libraries, library literacy programs, and institutions of higher education, can participate in the implementation, ongoing planning, and support of the plan; and
 

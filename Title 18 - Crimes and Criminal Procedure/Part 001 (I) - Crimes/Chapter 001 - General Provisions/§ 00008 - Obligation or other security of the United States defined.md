@@ -14,36 +14,6 @@ Words “Federal Reserve notes, Federal Reserve bank notes” were inserted befo
 
 Minor changes were made in phraseology.
 
-#### Canal Zone
-
-Applicability of section to Canal Zone, see section 14 of this title.
-
-#### Cross References
-
-Connecting parts of different notes, see section 484 of this title.
-
-Contraband articles, application to, see section 80302 of Title 49, Transportation.
-
-Dealing in counterfeit obligations or securities, see section 473 of this title.
-
-Embezzlement and theft of tools and materials for counterfeiting purposes, see section 642 of this title.
-
-Falsely making, forging, counterfeiting or altering obligation or security, see section 471 of this title.
-
-Forfeiture of counterfeit paraphernalia, see section 492 of this title.
-
-Imitating obligations or securities; advertisements, see section 475 of this title.
-
-Plates or stones for counterfeiting obligations or securities, see section 474 of this title.
-
-Possessing or selling impressions of tools used for obligations or securities, see section 477 of this title.
-
-Taking impressions of tools used for obligations or securities, see section 476 of this title.
-
-Transportation, sale or receipt of stolen securities, application to “obligation or other security of the United States,” see sections 2314, 2315 of this title.
-
-Uttering counterfeit obligations or securities, see section 472 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in title 7 section 2024; title 49 section 80302.

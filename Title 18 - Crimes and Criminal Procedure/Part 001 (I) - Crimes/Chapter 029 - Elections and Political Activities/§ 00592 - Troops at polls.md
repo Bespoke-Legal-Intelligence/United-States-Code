@@ -22,7 +22,3 @@ Changes in phraseology were also made.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
 
-#### Cross References
-
-Disqualification from holding any office of honor, trust, or profit, additional grounds for, see sections 204, 1901, 2071, 2381, 2385, and 2387 of this title.
-

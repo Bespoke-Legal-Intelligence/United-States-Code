@@ -22,7 +22,7 @@ The Secretary may prescribe the manner in which a mortgage may be accepted for i
 
 #### (d) Entitlement of mortgagee to benefits
 
-Any mortgagee under a mortgage insured under this section is entitled to the benefits ofthe insurance as provided in section 1710(a) of this title with respect to mortgages insured under section 1709 of this title.
+Any mortgagee under a mortgage insured under this section is entitled to the benefits of the insurance as provided in section 1710(a) of this title with respect to mortgages insured under section 1709 of this title.
 
 #### (e) Applicability of other provisions
 
@@ -30,7 +30,7 @@ The provisions of subsections (b), (c), (d), (e), (f), (g), (h),<sup>2</sup> (j)
 
 #### (f) Transfer of insurance on mortgages covering single-family dwellings or one-family units in condominium projects if mortgage is assumed by serviceman
 
-The Secretary is authorized to transfer to this section the insurance on any mortgage covering a single-family dwelling or a one-family unit in a condominium project insured under this chapter, if the mortgage indebtedness thereof has been assumed by a serviceman who at the time of assumption is the owner of the property and either occupies the property as a principal residence or certifies that his failure to do so is the result of his military assignment, or, in the case of the United States Coast Guard or the United States National Oceanic and Atmospheric Administration, other assignment.
+The Secretary is authorized to transfer to this section the insurance on any mortgage covering a single-family dwelling or a one-family unit in a condominium project insured under this chapter, if the mortgage indebtedness thereof has been assumed by a serviceman who at the time of assumption is the owner of the property and either occupies the property as a principal residence or certifies that his failure to do so is the result of his military assignment, or, in the case of the United States Coast Guard or the UnitedStates National Oceanic and Atmospheric Administration, other assignment.
 
 #### (g) Extension of period of ownership where serviceman dies while on active duty
 
@@ -80,7 +80,7 @@ Subsecs. (f), (g). Pub. L. 90–448, §301(2), added subsecs. (f) and (g). A pri
 
 1965—Subsec. (b)(2). Pub. L. 89–117, §212(1), substituted “$30,000” for “$20,000”.
 
-Subsec. (b)(3). Pub. L. 89–117, §212(2), substituted provisions prohibiting the mortgage to have a principal obligation in excess of the sum of (i) 97 per centum of $15,000 of the appraised value of the property as of thedate the mortgage is accepted for insurance, (ii) 90 per centum of such value in excess of $15,000 but not in excess of $20,000, and (iii) 85 per centum of such value in excess of $20,000 for provisions which prohibited the mortgage to have a principal obligation in an amount in excess of 95 per centum of the appraised value of the property or such higher amount as may be derived by applying the maximum ratio of loan to value prescribed in section 1709(b)(2) of this title.
+Subsec. (b)(3). Pub. L. 89–117, §212(2), substituted provisions prohibiting the mortgage to have a principal obligation in excess of the sum of (i) 97 per centum of $15,000 of the appraised value of the property as of the date the mortgage is accepted for insurance, (ii) 90 per centum of such value in excess of $15,000 but not in excess of $20,000, and (iii) 85 per centum of such value in excess of $20,000 for provisions which prohibited the mortgage to have a principal obligation in an amount in excess of 95 per centum of the appraised value of the property or such higher amount as may be derived by applying the maximum ratio of loan to value prescribed in section 1709(b)(2) of this title.
 
 Subsec. (e). Pub. L. 89–117, §1108(j)(1), substituted “General Insurance Fund” for “Servicemen's Mortgage Insurance Fund”.
 
@@ -96,7 +96,7 @@ Subsec. (b)(2). Pub. L. 86–372, §111(2), substituted “$20,000, except that 
 
 Subsec. (e). Pub. L. 86–372, §116(b), inserted reference to subsec. (k) of section 1710 of this title.
 
-1957—Subsec. (b). Pub. L. 85–104, §103, substituted cls. (1), (2), and (3), for former provision which read: “In addition to mortgages insured under section 1709 of this title, the Commissioner may, for the purpose of this section, insure any mortgage under this section which would be eligible for insurance under section 1709 of this title, except that as to mortgages so insured the maximum ratio of loan to value may, in the discretion of the Commissioner, exceed the maximum ratio of loan to value prescribed in said section but not to exceed in any event 95 per centum of the appraised value of the property and not to exceed $17,100:”, and which designated former proviso as cl. (4).
+1957—Subsec. (b). Pub. L. 85–104, §103, substituted cls. (1), (2), and (3), for former provision which read: “In addition to mortgages insured under section 1709 of this title, the Commissioner may, for the purpose of thissection, insure any mortgage under this section which would be eligible for insurance under section 1709 of this title, except that as to mortgages so insured the maximum ratio of loan to value may, in the discretion of the Commissioner, exceed the maximum ratio of loan to value prescribed in said section but not to exceed in any event 95 per centum of the appraised value of the property and not to exceed $17,100:”, and which designated former proviso as cl. (4).
 
 Subsec. (e). Pub. L. 85–104, §112, substituted “(h), and (j) of section 1710 of this title” for “and (h) of section 1710 of this title”.
 

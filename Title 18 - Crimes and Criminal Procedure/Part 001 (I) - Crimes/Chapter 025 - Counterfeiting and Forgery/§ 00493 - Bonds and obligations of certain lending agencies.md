@@ -10,7 +10,7 @@ Whoever passes, utters, or publishes, or attempts to pass, utter or publish any 
 
 Based on sections 264(t), 982, 1126, 1138d(b), 1316, 1441(b), 1467(b), 1731(b) of title 12, U.S.C., 1940 ed., Banks and Banking, and section 616(b) of title 15, U.S.C. 1940 ed., Commerce and Trade (Dec. 23, 1913, ch. 6, §12B(t), as added June 16, 1933, ch. 89, §8, 48 Stat. 178, and amended Aug. 23, 1935, ch. 614, §101, 49 Stat. 684; July 17, 1916, ch. 245, §31 (second paragraph), 39 Stat. 383; July 17, 1916, ch. 245, §211(f), as added Mar. 4, 1923, ch. 252, title I, §2, 42 Stat. 1460; Mar. 4, 1923, ch. 252, title II, §216(f), 42 Stat. 1472; Jan. 22, 1932, ch. 8, §16(b), 47 Stat. 11; July 22, 1932, ch. 522, §21(b), 47 Stat. 738; June 13, 1933, ch. 64, §8(b), 48 Stat. 134; June 16, 1933, ch. 98, §64(b), 48 Stat. 268; June 27, 1934, ch. 847, §512(b), 48 Stat. 1265).
 
-Each of the nine sections from which this section was derived contained similar provisions with respect to one or more named agencies or corporations. The punishment was the same in each section except that in sections 982, 1126, and 1316 of title 12, U.S.C., 1940 ed., Banks and Banking, the maximum fine was $5,000. This section adopts the $10,000 maximum fine provided in the other six former sections.
+Each of the nine sections from which this section was derived contained similar provisions with respect to one or more named agencies or corporations. The punishment was the same in each section except that in sections 982, 1126, and 1316 of title 12, U.S.C., 1940 ed.,Banks and Banking, the maximum fine was $5,000. This section adopts the $10,000 maximum fine provided in the other six former sections.
 
 This section condenses and simplifies the form of the former sections without change of substance, except where the maximum fine differs as noted above.
 
@@ -61,14 +61,6 @@ For dissolution and abolition of Home Owners’ Loan Corporation, referred to in
 #### Farm Credit Administration
 
 Establishment of Farm Credit Administration as independent agency, and other changes in status, function, etc., see Ex. Ord. No. 6084 set out prec. section 2241 of Title 12, Banks and Banking. See also section 2001 et seq. of Title 12.
-
-#### Canal Zone
-
-Applicability of section to Canal Zone, see section 14 of this title.
-
-#### Cross References
-
-Secret Service, detection, arrest and delivery into custody of any person violating this section in so far as the Federal Deposit Insurance Corporation, Federal land banks, Federal land bank associations are concerned, see section 3056 of this title.
 
 #### Section Referred to in Other Sections
 

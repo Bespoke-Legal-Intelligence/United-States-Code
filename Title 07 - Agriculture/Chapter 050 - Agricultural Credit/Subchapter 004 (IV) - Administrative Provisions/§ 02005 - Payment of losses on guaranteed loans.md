@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(A) the greatest net present value of a loan the borrower could reasonably be expected to repay; and
 
-&emsp;&emsp;(B) the greatest amount that the lender of the loan could reasonably expect to recover from the borrower through bankruptcy, or liquidation of the property securing the loan, less all reasonable and necessary costs and expenses that the lender of the loan could reasonably expect to incur to preserve or dispose of such property (including all associated legal and property management costs) in the course of such a bankruptcy or liquidation.
+&emsp;&emsp;(B) the greatest amount that the lender of the loan could reasonably expect to recover from the borrower through bankruptcy, or liquidation of the property securing the loan, less all reasonable and necessary costsand expenses that the lender of the loan could reasonably expect to incur to preserve or dispose of such property (including all associated legal and property management costs) in the course of such a bankruptcy or liquidation.
 
 #### (3) Construction of subsection
 

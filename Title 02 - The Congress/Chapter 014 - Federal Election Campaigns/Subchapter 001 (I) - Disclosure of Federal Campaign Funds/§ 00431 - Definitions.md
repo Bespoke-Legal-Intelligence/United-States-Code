@@ -44,7 +44,7 @@ When used in this Act:
 
 &emsp;(i) the value of services provided without compensation by any individual who volunteers on behalf of a candidate or political committee;
 
-&emsp;(ii) the use of real or personal property, including a church or community room used on a regular basis by members of a community for noncommercial purposes, and the cost of invitations, food, and beverages, voluntarily provided by an individual to any candidate or any political committee of a political party in rendering voluntary personal services on the individual's residential premises or in the church or community room for candidate-related or political party-related activities, to the extent that the cumulative value of such invitations, food, and beverages provided by such individual on behalf of any single candidate does not exceed $1,000 with respect to any single election, and on behalf of all political committees of a political party does not exceed $2,000 in any calendar year;
+&emsp;(ii) the use of real or personal property, including a church or community room used ona regular basis by members of a community for noncommercial purposes, and the cost of invitations, food, and beverages, voluntarily provided by an individual to any candidate or any political committee of a political party in rendering voluntary personal services on the individual's residential premises or in the church or community room for candidate-related or political party-related activities, to the extent that the cumulative value of such invitations, food, and beverages provided by such individual on behalf of any single candidate does not exceed $1,000 with respect to any single election, and on behalf of all political committees of a political party does not exceed $2,000 in any calendar year;
 
 &emsp;(iii) the sale of any food or beverage by a vendor for use in any candidate's campaign or for use by or on behalf of any political committee of a political party at a charge less than the normal comparable charge, if such charge is at least equal to the cost of such food or beverage to the vendor, to the extent that the cumulative value of such activity by such vendor on behalf of any single candidate does not exceed $1,000 with respect to any single election, and on behalf of all political committees of a political party does not exceed $2,000 in any calendar year;
 
@@ -80,7 +80,7 @@ When used in this Act:
 
 &emsp;&emsp;(3) such payments are not made from contributions designated to be spent on behalf of a particular candidate or particular candidates;
 
-&emsp;(xi) the payment by a candidate, for nomination or election to any public office (including State or local office), or authorized committee of a candidate, of the costs of campaign materials which include information on or referenced to any other candidate and which are used in connection with volunteer activities (including pins, bumper stickers, handbills, brochures, posters, and yard signs, but not including the use of broadcasting, newspapers, magazines, billboards, direct mail, or similar types of general public communication or political advertising): <i>Provided</i>, That such payments are made from contributions subject to the limitations and prohibitions of this Act;
+&emsp;(xi) the payment by a candidate, for nomination or election to any public office (including State or local office), or authorized committee of a candidate, of the costs of campaign materials which include information on or referenced to any other candidate and which are used in connection with volunteer activities (including pins, bumper stickers, handbills, brochures, posters, and yard signs, but not including the use of broadcasting, newspapers,magazines, billboards, direct mail, or similar types of general public communication or political advertising): <i>Provided</i>, That such payments are made from contributions subject to the limitations and prohibitions of this Act;
 
 &emsp;(xii) the payment by a State or local committee of a political party of the costs of voter registration and get-out-the-vote activities conducted by such committee on behalf of nominees of such party for President and Vice President: <i>Provided</i>, That—
 
@@ -90,9 +90,11 @@ When used in this Act:
 
 &emsp;&emsp;(3) such payments are not made from contributions designated to be spent on behalf of a particular candidate or candidates;
 
-&emsp;(xiii) payments made by a candidate or the authorized committee of a candidate as a condition of ballot access and payments received by any political party committee as a condition of ballot access; and
+&emsp;(xiii) payments made by a candidate or the authorized committee of a candidate as a condition of ballot access and payments received by any political party committee as a condition of ballot access;
 
-&emsp;(xiv) any honorarium (within the meaning of section 441i of this title).
+&emsp;(xiv) any honorarium (within the meaning of section 441i of this title); and
+
+&emsp;(xv) any loan of money derived from an advance on a candidate's brokerage account, credit card, home equity line of credit, or other line of credit available to the candidate, if such loan is made in accordance with applicable law and under commercially reasonable terms and if the person making such loan makes loans derived from an advance on the candidate's brokerage account, credit card, home equity line of credit, or other line of credit in the normal course of the person's business.
 
 (9)(A) The term “expenditure” includes—
 
@@ -106,7 +108,7 @@ When used in this Act:
 
 &emsp;(ii) nonpartisan activity designed to encourage individuals to vote or to register to vote;
 
-&emsp;(iii) any communication by any membership organization or corporation to its members, stockholders, or executive or administrative personnel, if such membership organization or corporation is not organized primarily for the purpose of influencing the nomination for election, or election, of any individual to Federal office, except that the costs incurred by amembership organization (including a labor organization) or by a corporation directly attributable to a communication expressly advocating the election or defeat of a clearly identified candidate (other than a communication primarily devoted to subjects other than the express advocacy of the election or defeat of a clearly identified candidate), shall, if such costs exceed $2,000 for any election, be reported to the Commission in accordance with section 434(a)(4)(A)(i) of this title, and in accordance with section 434(a)(4)(A)(ii) of this title with respect to any general election;
+&emsp;(iii) any communication by any membership organization or corporation to its members, stockholders, or executive or administrative personnel, if such membership organization or corporation is not organized primarily for the purpose of influencing the nomination for election, or election, of any individual to Federal office, except that the costs incurred by a membership organization (including a labor organization) or by a corporation directly attributable to a communication expressly advocating the election or defeat of a clearly identified candidate (other than a communication primarily devoted to subjects other than the express advocacy of the election or defeat of a clearly identified candidate), shall, if such costs exceed $2,000 for any election, be reported to the Commission in accordance with section 434(a)(4)(A)(i) of this title, and in accordance with section 434(a)(4)(A)(ii) of this title with respect to any general election;
 
 &emsp;(iv) the payment by a State or local committee of a political party of the costs of preparation, display, or mailing or other distribution incurred by such committee with respect to a printed slate card or sample ballot, or other printed listing, of 3 or more candidates for any public office for which an election is held in the State in which such committee is organized, except that this clause shall not apply to costs incurred by such committee with respect to a display of any such listing made on broadcasting stations, or in newspapers, magazines, or similar types of general public political advertising;
 
@@ -124,7 +126,7 @@ When used in this Act:
 
 &emsp;(viii) the payment by a State or local committee of a political party of the costs of campaign materials (such as pins, bumper stickers, handbills, brochures, posters, party tabloids, and yard signs) used by such committee in connection with volunteer activities on behalf of nominees of such party: <i>Provided</i>, That—
 
-&emsp;&emsp;(1) such payments are not for the costs of campaign materials or activities used in connection with any broadcasting, newspaper, magazine, billboard, direct mail, or similar type of general public communication or political advertising;
+&emsp;&emsp;(1) such payments are not for the costs of campaign materials or activities used inconnection with any broadcasting, newspaper, magazine, billboard, direct mail, or similar type of general public communication or political advertising;
 
 &emsp;&emsp;(2) such payments are made from contributions subject to the limitations and prohibitions of this Act; and
 
@@ -170,13 +172,15 @@ When used in this Act:
 
 (19) The term “Act” means the Federal Election Campaign Act of 1971 as amended.
 
-(Pub. L. 92–225, title III, §301, Feb. 7, 1972, 86 Stat. 11; Pub. L. 93–443, title II, §§201(a), 208(c)(1), Oct. 15, 1974, 88 Stat. 1272, 1286; Pub. L. 94–283, title I, §§102, 115(d), (h), May 11, 1976, 90 Stat. 478, 495, 496; Pub. L. 96–187, title I, §101, Jan. 8, 1980, 93 Stat. 1339; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
+(Pub. L. 92–225, title III, §301, Feb. 7, 1972, 86 Stat. 11; Pub. L. 93–443, title II, §§201(a), 208(c)(1), Oct. 15, 1974, 88 Stat. 1272, 1286; Pub. L. 94–283, title I, §§102, 115(d), (h), May 11, 1976, 90 Stat. 478, 495, 496; Pub. L. 96–187, title I, §101, Jan. 8, 1980, 93 Stat. 1339; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 106–346, §101(a) \[title V, §502(b)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–49.)
 
 #### References in Text
 
 The Federal Election Campaign Act of 1971, as amended, referred to in par. (19), is Pub. L. 92–225, Feb. 7, 1972, 86 Stat. 3, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title notes set out below and Tables.
 
 #### Amendments
+
+2000—Par. (8)(B)(xv). Pub. L. 106–346 added cl. (xv).
 
 1986—Pars. (8)(B)(ix)(II), (9)(A)(vii)(II). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
@@ -210,6 +214,10 @@ Subsec. (g). Pub. L. 93–443, §208(c)(1), substituted definition of “Commiss
 
 Subsecs. (j) to (n). Pub. L. 93–443, §201(a)(6)–(8), added subsecs. (j) to (n).
 
+#### Effective Date of 2000 Amendment
+
+Pub. L. 106–346, §101(a) \[title V, §502(d)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–50, provided that: “The amendments made by this section \[amending this section and section 434 of this title\] shall apply with respect to elections occurring after January 2001.”
+
 #### Effective Date of 1980 Amendment
 
 Section 301 of Pub. L. 96–187 provided that:
@@ -222,7 +230,7 @@ Section 301 of Pub. L. 96–187 provided that:
 
 Section 410 of Pub. L. 93–443 provided that:
 
-“(a) Except as provided by subsection (b) and subsection (c), the foregoing provisions of this Act \[enacting sections 437a to 437h, 439a to 439c, 455 and 456 of this title sections 614 to 617 of Title 18, Crimes and Criminal Procedure, and sections 9031 to 9042 of Title 26, Internal Revenue Code, amending sections 431 to 437, 438, 439, 451 to 453 of this title, sections 1501 to 1503 of Title 5, Government Organization and Employees, sections 591, 608, 610, 611, and 613 of Title 18, sections 276, 6012, and 9002 to 9012 of Title 26, and section 315 of Title 47, Telegraphs, Telephones, and Radiotelegraphs, repealing section 440 of this title, section 9021 of Title 26, and sections 801 to 805 of Title 47, and enacting provisions setout as notes under this section and sections 432, 434, 437c, and 438 of this title, sections 591 and 608 of Title 18, and section 9006 of Title 26\] shall become effective January 1, 1975.
+“(a) Except as provided by subsection (b) and subsection (c), the foregoing provisions of this Act \[enacting sections 437a to 437h, 439a to 439c, 455 and 456 of this title sections 614 to 617 of Title 18, Crimes and Criminal Procedure, and sections 9031 to 9042 of Title 26, Internal Revenue Code, amending sections 431 to 437, 438, 439, 451 to 453 of this title, sections 1501 to 1503 of Title 5, Government Organization and Employees, sections 591, 608, 610, 611, and 613 of Title 18, sections 276, 6012, and 9002 to 9012 of Title 26, and section 315 of Title 47, Telegraphs, Telephones, and Radiotelegraphs, repealing section 440 of this title, section 9021 of Title 26, and sections 801 to 805 of Title 47, and enacting provisions set out as notes under this section and sections 432, 434, 437c, and 438 of this title, sections 591 and 608 of Title 18, and section 9006 of Title 26\] shall become effective January 1, 1975.
 
 “(b) Section 104 \[set out as a note under section 591 of Title 18\] and the amendment made by section 301 \[amending section 453 of this title\] shall become effective on the date of the enactment of this Act \[Oct. 15, 1974\].
 
@@ -244,7 +252,7 @@ Section 1 of Pub. L. 94–283 provided that: “This Act \[enacting sections 441
 
 #### Short Title of 1974 Amendment
 
-Section 1 of Pub. L. 93–443 provided: “That this Act \[enacting sections 437a to 437h, 439a to 439c, 455, and 456 of this title, sections 614 to 617 of Title 18, Crimes and Criminal Procedure, and sections 9031 to 9042 of Title 26, Internal Revenue Code; amending this section and sections 432 to 437, 438, 439 and 451 to 453 of this title, sections 1501 to 1503 of Title 5, Government Organization and Employees, sections 591, 608, 610, 611, and 613 of Title 18, sections 276, 6012, 9002 to 9012 of Title 26, and section 315 of Title 47, Telegraphs, Telephones, and Radiotelegraphs; repealing section 440 of this title, section 9021 of Title 26, and sections 801 to 805 of Title 47; and enacting provisions set out as notes under this section and sections 434, 437c, and 438 of this title, sections 591 and 608 of Title 18, and section 9006 of Title 26\] may be cited as the ‘Federal Election Campaign Act Amendments of 1974’.”
+Section 1 of Pub. L. 93–443 provided: “That this Act \[enacting sections 437a to 437h, 439a to 439c, 455, and 456 of this title, sections 614 to 617 of Title 18, Crimes and Criminal Procedure, and sections 9031 to 9042 of Title 26, Internal Revenue Code; amending this section and sections 432 to 437, 438, 439 and 451 to 453 of this title, sections 1501 to 1503 of Title 5, Government Organization and Employees, sections 591, 608, 610, 611, and 613 of Title 18, sections 276, 6012, 9002 to 9012 of Title 26, and section 315 of Title 47, Telegraphs, Telephones, and Radiotelegraphs; repealing section 440 of this title, section 9021 of Title 26, and sections 801 to 805 of Title 47; and enacting provisions set out as notes under this section and sections 434, 437c, and 438 of this title, sections 591 and 608 of Title 18, and section 9006 of Title 26\] maybe cited as the ‘Federal Election Campaign Act Amendments of 1974’.”
 
 #### Short Title
 

@@ -28,7 +28,7 @@ The Administration shall develop an expedited procedure for processing a loan ap
 
 #### (1) In general
 
-&emsp;The designation of a qualified State or local development company as an accredited lendermay be suspended or revoked if the Administration determines that—
+&emsp;The designation of a qualified State or local development company as an accredited lender may be suspended or revoked if the Administration determines that—
 
 &emsp;&emsp;(A) the development company has not continued to meet the criteria for eligibility under subsection (b) of this section; or
 

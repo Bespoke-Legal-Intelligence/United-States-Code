@@ -42,7 +42,7 @@ The Administrator shall encourage waste treatment management which combines “o
 
 &emsp;(B) as appropriate, the works proposed for grant assistance will take into account and allow to the extent practicable the application of technology at a later date which will provide for the reclaiming or recycling of water or otherwise eliminate the discharge of pollutants.
 
-(3) The Administrator shall not approve any grant after July 1, 1973, for treatment works under this section unless the applicant shows tothe satisfaction of the Administrator that each sewer collection system discharging into such treatment works is not subject to excessive infiltration.
+(3) The Administrator shall not approve any grant after July 1, 1973, for treatment works under this section unless the applicant shows to the satisfaction of the Administrator that each sewer collection system discharging into such treatment works is not subject to excessive infiltration.
 
 (4) The Administrator is authorized to make grants to applicants for treatment works grants under this section for such sewer system evaluation studies as may be necessary to carry out the requirements of paragraph (3) of this subsection. Such grants shall be made in accordance with rules and regulations promulgated by the Administrator. Initial rules and regulations shall be promulgated under this paragraph not later than 120 days after October 18, 1972.
 
@@ -52,7 +52,7 @@ The Administrator shall encourage waste treatment management which combines “o
 
 #### (h) Grants to construct privately owned treatment works
 
-A grant may be made under this section to construct a privately owned treatment works serving one or more principal residences or small commercial establishments constructed prior to, and inhabited on, December 27, 1977, where the Administrator finds that—
+A grant may be made under this section to construct a privately owned treatment worksserving one or more principal residences or small commercial establishments constructed prior to, and inhabited on, December 27, 1977, where the Administrator finds that—
 
 &emsp;(1) a public body otherwise eligible for a grant under subsection (g) of this section has applied on behalf of a number of such units and certified that public ownership of such works is not feasible;
 
@@ -92,7 +92,7 @@ No grant made after November 15, 1981, for a publicly owned treatment works, oth
 
 #### (n) Water quality problems; funds, scope, etc.
 
-(1) On and after October 1, 1984, upon the request of the Governor of an affected State, the Administrator is authorized to use funds available to such State under section 1285 of this title to address water quality problems due to the impacts of discharges from combined storm water and sanitary sewer overflows, which are not otherwise eligible under this subsection, where correction of such discharges is a major priority for such State.
+(1) On and after October 1, 1984, upon the request of the Governor of an affected State, theAdministrator is authorized to use funds available to such State under section 1285 of this title to address water quality problems due to the impacts of discharges from combined storm water and sanitary sewer overflows, which are not otherwise eligible under this subsection, where correction of such discharges is a major priority for such State.
 
 (2) Beginning fiscal year 1983, the Administrator shall have available $200,000,000 per fiscal year in addition to those funds authorized in section 1287 of this title to be utilized to address water quality problems of marine bays and estuaries subject to lower levels of water quality due to the impacts of discharges from combined storm water and sanitary sewer overflows from adjacent urban complexes, not otherwise eligible under this subsection. Such sums may be used as deemed appropriate by the Administrator as provided in paragraphs (1) and (2) of this subsection, upon the request of and demonstration of water quality benefits by the Governor of an affected State.
 
@@ -130,7 +130,7 @@ Subsec. (n). Pub. L. 97–117, §5, added subsec. (n).
 
 Subsec. (<i>o</i>). Pub. L. 97–117, §6, added subsec. (<i>o</i>).
 
-1980—Subsec. (h). Pub. L. 96–483, §2(d), struck out text following par. (3), relating to payment to the United States by commercial users of that portion of the cost of construction applicable to treatment of commercialwastes to the extent attributable to the Federal share of the cost of construction.
+1980—Subsec. (h). Pub. L. 96–483, §2(d), struck out text following par. (3), relating to payment to the United States by commercial users of that portion of the cost of construction applicable to treatment of commercial wastes to the extent attributable to the Federal share of the cost of construction.
 
 Subsec. (k). Pub. L. 96–483, §3, added subsec. (k).
 
@@ -240,7 +240,7 @@ Pub. L. 102–139, title III, Oct. 28, 1991, 105 Stat. 762.
 
 Pub. L. 101–507, title III, Nov. 5, 1990, 104 Stat. 1372.
 
-Pub. L. 104–134, title I, §101(e) \[title III\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–299; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided inpart: “That beginning in fiscal year 1996 and each fiscal year thereafter, and notwithstanding any other provision of law, the Administrator is authorized to make grants annually from funds appropriated under this heading \[“
+Pub. L. 104–134, title I, §101(e) \[title III\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–299; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided in part: “That beginning in fiscal year 1996 and each fiscal year thereafter, and notwithstanding any other provision of law, the Administrator is authorized to make grants annually from funds appropriated under this heading \[“
 
 Environmental Protection Agency” and “
 
@@ -296,7 +296,7 @@ Section 12 of Pub. L. 92–500, as amended by Pub. L. 97–258, §4(b), Sept. 13
 
 &emsp;“(4) to conduct its business, carry on its operations, and have offices and exercise the powers granted by this section in any State without regard to any qualification or similar statute in any State;
 
-&emsp;“(5) to lease, purchase, or otherwise acquire, own, hold, improve, use, or otherwise deal in and with any property, real, personal, or mixed, or any interest therein, wherever situated;
+&emsp;“(5) to lease, purchase, or otherwise acquire, own, hold, improve, use, or otherwise deal in and with anyproperty, real, personal, or mixed, or any interest therein, wherever situated;
 
 &emsp;“(6) to accept gifts or donations of services, or of property, real, personal, or mixed, tangible or intangible, in aid of any of the purposes of the Authority;
 

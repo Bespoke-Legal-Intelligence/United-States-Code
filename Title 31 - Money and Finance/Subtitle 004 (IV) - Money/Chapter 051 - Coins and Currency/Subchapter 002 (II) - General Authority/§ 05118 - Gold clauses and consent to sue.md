@@ -84,7 +84,7 @@ In subsection (c)(1), before clause (A), the word “Government” is substitute
 
 In subsection (c)(2), the words “any suit commenced prior to August 27, 1935, or which may be commenced by January 1, 1936” are omitted as executed. The words “referred to in this section” are omitted as surplus.
 
-In subsection (c)(3), the words “may be expended” are substituted for “an amount appropriated or authorized to be expended” and “shall be available for or expended in”, and the words “dollar for dollar” are substituted for “on an equal and uniform dollar for dollar basis”, to eliminate unnecessary words.
+In subsection (c)(3), the words “may be expended” are substituted for “an amount appropriated or authorized to be expended” and “shall be available for or expendedin”, and the words “dollar for dollar” are substituted for “on an equal and uniform dollar for dollar basis”, to eliminate unnecessary words.
 
 In subsection (d)(1), the words “including every obligation of and to the United States” are omitted as surplus. The text of 31:463(b)(words after semicolon) is omitted as unnecessary because of the restatement.
 

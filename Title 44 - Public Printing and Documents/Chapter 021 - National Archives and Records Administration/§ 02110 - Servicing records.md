@@ -2,7 +2,7 @@
 
 The Archivist shall provide and maintain facilities he considers necessary or desirable for servicing records in his custody that are not exempt from examination by statutory or other restrictions.
 
-(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1288, §2106; renumbered §2110 and amended Pub. L. 98–497,title I, §§102(a)(1), 107(a)(4), Oct. 19, 1984, 98 Stat. 2280, 2286.)
+(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1288, §2106; renumbered §2110 and amended Pub. L. 98–497, title I, §§102(a)(1), 107(a)(4), Oct. 19, 1984, 98 Stat. 2280, 2286.)
 
 #### Historical and Revision Notes
 

@@ -12,7 +12,7 @@ Identification Requirements.—Not later than October 24, 1994, the Secretary of
 
 &emsp;&emsp;&emsp;(i) each hazardous liquid pipeline facility, whether otherwise subject to this chapter, that crosses waters where a substantial likelihood of commercial navigation exists or that is located in an area described in the criteria as a high-density population area; and
 
-&emsp;&emsp;&emsp;(ii) each hazardous liquid pipeline facility and gathering line, whether otherwise subject to this chapter, located in an area that the Secretary, in consultation with the Administrator of the Environmental Protection Agency, describes as unusually sensitive to environmental damage if there is a hazardous liquid pipeline accident; and
+&emsp;&emsp;&emsp;(ii) each hazardous liquid pipeline facility and gathering line, whether otherwisesubject to this chapter, located in an area that the Secretary, in consultation with the Administrator of the Environmental Protection Agency, describes as unusually sensitive to environmental damage if there is a hazardous liquid pipeline accident; and
 
 &emsp;(2) provide that the identification be carried out through the inventory required under section 60102(e) of this title.
 

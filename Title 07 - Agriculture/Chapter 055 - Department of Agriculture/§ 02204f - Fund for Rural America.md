@@ -174,7 +174,7 @@ There is established in the Treasury of the United States an account to be known
 
 Amounts in the Account may not be used for an activity described in subsection (c) of this section for a fiscal year if the program funding level for the fiscal year for the activity is less than 90 percent of the amount appropriated for the activity for fiscal year 1996, adjusted for inflation.
 
-(Pub. L. 104–127, title VII, §793, Apr. 4, 1996, 110 Stat. 1152; Pub. L. 105–185, title II, §252, June 23, 1998, 112 Stat. 557; Pub. L. 105–277, div. A, §101(a) \[title VII, §753(c)(1)\], Oct. 21, 1998, 112 Stat. 2681, 2681–33.)
+(Pub. L. 104–127, title VII, §793, Apr. 4, 1996, 110 Stat. 1152; Pub. L. 105–185, title II, §252, June 23,1998, 112 Stat. 557; Pub. L. 105–277, div. A, §101(a) \[title VII, §753(c)(1)\], Oct. 21, 1998, 112 Stat. 2681, 2681–33.)
 
 #### References in Text
 

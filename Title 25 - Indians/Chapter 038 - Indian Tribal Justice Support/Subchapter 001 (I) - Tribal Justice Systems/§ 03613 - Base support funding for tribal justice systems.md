@@ -62,7 +62,7 @@ Financial assistance provided through contracts, grants, or agreements entered i
 
 #### References in Text
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (a), is Pub. L. 93–638,Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (a), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
 #### Section Referred to in Other Sections
 

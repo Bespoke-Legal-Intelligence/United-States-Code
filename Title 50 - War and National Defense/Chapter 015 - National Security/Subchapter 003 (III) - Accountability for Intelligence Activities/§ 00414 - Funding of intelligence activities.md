@@ -76,7 +76,7 @@ Pub. L. 100–202, §101(b) \[title VIII, §8037\], Dec. 22, 1987, 101 Stat. 132
 
 #### Sense of Congress Regarding Disclosure of Annual Intelligence Budget
 
-Pub. L. 102–496, title III, §303, Oct. 24, 1992, 106 Stat. 3183, provided that: “It is the sense of Congress that, beginning in 1993, and in each year thereafter, the aggregate amount requested and authorized for, and spent on, intelligence and intelligence-related activitiesshould be disclosed to the public in an appropriate manner.” Similar provisions were contained in the following prior appropriation act: Pub. L. 102–183, title VII, §701, Dec. 4, 1991, 105 Stat. 1270.
+Pub. L. 102–496, title III, §303, Oct. 24, 1992, 106 Stat. 3183, provided that: “It is the sense of Congress that, beginning in 1993, and in each year thereafter, the aggregate amount requested and authorized for, and spent on, intelligence and intelligence-related activities should be disclosed to the public in an appropriate manner.” Similar provisions were contained in the following prior appropriation act: Pub. L. 102–183, title VII, §701, Dec. 4, 1991, 105 Stat. 1270.
 
 #### Limitation of Expenditure of Funds Appropriated for Department of Defense Intelligence Programs
 

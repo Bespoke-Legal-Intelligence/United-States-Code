@@ -10,7 +10,7 @@ Section 1321(k) of this title, referred to in text, was repealed by Pub. L. 101�
 
 #### Amendments
 
-1987—Pub. L. 100–4 struck out “and” after “1981,” and inserted “, such sums as may be necessary for fiscal years 1983 through 1985, and $135,000,000 per fiscal year for each of the fiscal years 1986 through 1990” after “1982”.
+1987—Pub. L. 100–4 struck out “and” after “1981,” and inserted “, such sums as may be necessary for fiscalyears 1983 through 1985, and $135,000,000 per fiscal year for each of the fiscal years 1986 through 1990” after “1982”.
 
 1980—Pub. L. 96–483 inserted authorization of $150,000,000 for fiscal year ending Sept. 30, 1981 and $161,000,000 for fiscal year ending Sept. 30, 1982.
 

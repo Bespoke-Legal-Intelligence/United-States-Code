@@ -40,7 +40,7 @@ For purposes of this title: <sup>1</sup>
 
 #### References in Text
 
-This title, referred to in text, is title VI of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3802, which enacted this chapter, amended sections 1437a, 1437c to 1437g, 1437<i>l</i>, 1437<i>o</i>, 1438, 8011 to 8013, 12705, 12901 to 12910, and 12912 of this title and section 1701q of Title 12, Banks and Banking, enacted provisions set out as notes under sections 1437a, 8011, and 12901 of this title and section 1701q of Title 12, and amended provisions set out as a note under section 1701q of Title 12. For complete classification of this title to the Code, see Short Title of 1992 Amendment note set out under section 5301 of this title and Tables.
+This title, referred to in text, is title VI of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3802, which enacted thischapter, amended sections 1437a, 1437c to 1437g, 1437<i>l</i>, 1437<i>o</i>, 1438, 8011 to 8013, 12705, 12901 to 12910, and 12912 of this title and section 1701q of Title 12, Banks and Banking, enacted provisions set out as notes under sections 1437a, 8011, and 12901 of this title and section 1701q of Title 12, and amended provisions set out as a note under section 1701q of Title 12. For complete classification of this title to the Code, see Short Title of 1992 Amendment note set out under section 5301 of this title and Tables.
 
 #### Section Referred to in Other Sections
 

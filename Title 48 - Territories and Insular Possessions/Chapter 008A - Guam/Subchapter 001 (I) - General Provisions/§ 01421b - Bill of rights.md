@@ -54,7 +54,3 @@ All laws enacted by Congress with respect to Guam and all laws enacted by the te
 
 Section 10 of Pub. L. 90–497 provided that the amendment made by that section is effective on date of enactment of Pub. L. 90–497, which was approved Sept. 11, 1968.
 
-#### Cross References
-
-Advocating overthrow of government, penalty for, see section 2385 of Title 18, Crimes and Criminal Procedure.
-

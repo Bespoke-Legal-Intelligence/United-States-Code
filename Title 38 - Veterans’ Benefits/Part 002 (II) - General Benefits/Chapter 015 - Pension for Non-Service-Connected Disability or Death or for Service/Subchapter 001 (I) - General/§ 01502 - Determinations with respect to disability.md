@@ -6,7 +6,7 @@
 
 &emsp;(2) any disease or disorder determined by the Secretary to be of such a nature or extent as to justify a determination that persons suffering therefrom are permanently and totally disabled.
 
-(b) For the purposes of this chapter, a person shall be considered to be in need of regular aid and attendance if such person is (1) a patient in a nursing home or (2) helpless or blind, or so nearly helpless or blind as to need or require the regular aid and attendance of another person.
+(b) For the purposes of this chapter, a person shall be considered to be in need of regular aidand attendance if such person is (1) a patient in a nursing home or (2) helpless or blind, or so nearly helpless or blind as to need or require the regular aid and attendance of another person.
 
 (c) For the purposes of this chapter, the requirement of “permanently housebound” will be considered to have been met when the veteran is substantially confined to such veteran's house (ward or clinical areas, if institutionalized) or immediate premises due to a disability or disabilities which it is reasonably certain will remain throughout such veteran's lifetime.
 

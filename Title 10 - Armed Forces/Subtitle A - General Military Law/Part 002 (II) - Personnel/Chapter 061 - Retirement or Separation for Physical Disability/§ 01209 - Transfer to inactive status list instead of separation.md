@@ -28,13 +28,7 @@ The words “Notwithstanding the foregoing provisions of this section”, “sat
 
 #### Effective Date of 1996 Amendment
 
-Section 1501(c) of Pub. L. 104–106 provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
-
-#### Cross References
-
-Members on active duty for 30 days or less, see section 1206 of this title.
-
-Regulars and members on active duty for more than 30 days, see section 1203 of this title.
+Section 1501(c) of Pub. L. 104–106 provided that the amendment made by that section is effective as of Dec.1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
 
 #### Section Referred to in Other Sections
 

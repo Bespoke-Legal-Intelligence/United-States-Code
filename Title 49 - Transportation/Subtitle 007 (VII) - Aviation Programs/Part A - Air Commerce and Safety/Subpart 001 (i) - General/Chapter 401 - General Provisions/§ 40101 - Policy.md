@@ -52,6 +52,8 @@ Economic Regulation.—In carrying out subpart II of this part and those provisi
 
 &emsp;(15) strengthening the competitive position of air carriers to at least ensure equality with foreign air carriers, including the attainment of the opportunity for air carriers to maintain and increase their profitability in foreign air transportation.
 
+&emsp;(16) ensuring that consumers in all regions of the United States, including those in small communities and rural and remote areas, have access to affordable, regularly scheduled air service.
+
 (b)
 
 All-Cargo Air Transportation Considerations.—In carrying out subpart II of this part and those provisions of subpart IV applicable in carrying out subpart II, the Secretary of Transportation shall consider the following matters, among others and in addition to the matters referred to in subsection (a) of this section, as being in the public interest for all-cargo air transportation:
@@ -132,7 +134,7 @@ International Air Transportation.—In formulating United States international a
 
 Strengthening Competition.—In selecting an air carrier to provide foreign air transportation from among competing applicants, the Secretary of Transportation shall consider, in addition to the matters specified in subsections (a) and (b) of this section, the strengthening of competition among air carriers operating in the United States to prevent unreasonable concentration in the air carrier industry.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1094; Pub. L. 104–264, title IV, §401(a), Oct. 9, 1996, 110 Stat. 3255.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1094; Pub. L. 104–264, title IV, §401(a), Oct. 9, 1996, 110 Stat. 3255; Pub. L. 106–181, title II, §201, Apr. 5, 2000, 114 Stat. 91.)
 
 Historical and Revision Notes
 
@@ -234,6 +236,8 @@ In subsection (e), before clause (1), the words “the Congress intends that” 
 
 #### Amendments
 
+2000—Subsec. (a)(16). Pub. L. 106–181 added par. (16).
+
 1996—Subsec. (d)(1). Pub. L. 104–264, §401(a)(1)(B), added par. (1). Former par. (1) redesignated (2).
 
 Subsec. (d)(2). Pub. L. 104–264, §401(a)(1)(A), (2)(A), redesignated par. (1) as (2) and struck out “its development and” after “best promotes”. Former par. (2) redesignated (3).
@@ -242,9 +246,19 @@ Subsec. (d)(3). Pub. L. 104–264, §401(a)(1)(A), (2)(B), redesignated par. (2)
 
 Subsec. (d)(4) to (7). Pub. L. 104–264, §401(a)(1)(A), redesignated pars. (3) to (6) as (4) to (7), respectively.
 
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
+
 #### Effective Date of 1996 Amendment
 
 Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
+
+#### Short Title of 2000 Amendments
+
+Pub. L. 106–528, §1, Nov. 22, 2000, 114 Stat. 2517, provided that: “This Act \[amending sections 106, 41104, 44903, 44935, and 44936 of this title, enacting provisions set out as notes under sections 106, 44903, and 44936 of this title, and amending provisions set out as notes under sections 40128 and 47501 of this title\] may be cited as the ‘Airport Security Improvement Act of 2000’.”
+
+Pub. L. 106–181, §1(a), Apr. 5, 2000, 114 Stat. 61, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Wendell H. Ford Aviation Investment and Reform Act for the 21st Century’.”
 
 #### Short Title of 1999 Amendment
 
@@ -278,9 +292,135 @@ Section 1101 of title XI of Pub. L. 104–264 provided that: “This title \[ame
 
 #### Short Title of 1994 Amendment
 
-Pub. L. 103–305, §1(a), Aug. 23, 1994, 108 Stat. 1569, provided that: “This Act \[enacting sections 41311, 41714,41715, 47129, 47130, and 47509 of this title, amending sections 106, 10521, 11501, 40102, 40113, 40116, 40117, 41713, 41734, 44502, 44505, 44938, 45301, 46301, 47101, 47102, 47104 to 47107, 47109 to 47111, 47115, 47117 to 47119, 47504, 48101 to 48104, and 48108 of this title and section 9502 of Title 26, Internal Revenue Code, renumbering former section 47129 of this title as section 47131 of this title, enacting provisions set out as notes under this section and sections 10521, 11501, 40102, 40105, 40117, 41311, 41715, 44502, 45102, 47101, 47107, 47124, and 49101 of this title, and repealing provisions set out as a note under section 1348 of former Title 49, Transportation\] may be cited as the ‘Federal Aviation Administration Authorization Act of 1994’.”
+Pub. L. 103–305, §1(a), Aug. 23, 1994, 108 Stat. 1569, provided that: “This Act \[enacting sections 41311, 41714, 41715, 47129, 47130, and 47509 of this title, amending sections 106, 10521, 11501, 40102, 40113, 40116, 40117, 41713, 41734, 44502, 44505, 44938, 45301, 46301, 47101, 47102, 47104 to 47107, 47109 to 47111, 47115, 47117 to 47119, 47504, 48101 to 48104, and 48108 of this title and section 9502 of Title 26, Internal Revenue Code, renumbering former section 47129 of this title as section 47131 of this title, enacting provisions set out as notes under this section and sections 10521, 11501, 40102, 40105, 40117, 41311, 41715, 44502, 45102, 47101, 47107, 47124, and 49101 of this title, and repealing provisions set out as a note under section 1348 of former Title 49, Transportation\] may be cited as the ‘Federal Aviation Administration Authorization Act of 1994’.”
 
 Pub. L. 103–305, title III, §301, Aug. 23, 1994, 108 Stat. 1589, provided that: “This title \[enacting section 47509 of this title, amending sections 44505 and 48102 of this title, and enacting provisions set out as notes under this section and section 49101 of this title\] may be cited as the ‘Federal Aviation Administration Research, Engineering, and Development Authorization Act of 1994’.”
+
+#### Independent Study of FAA Costs and Allocations
+
+Pub. L. 106–181, title III, §309, Apr. 5, 2000, 114 Stat. 127, provided that:
+
+“(a)
+
+Independent Assessment.—
+
+&emsp;“(1)
+
+In general.—The Inspector General of the Department of Transportation shall conduct the assessments described in this section. To conduct the assessments, the Inspector General may use the staff and resources of the Inspector General or contract with one or more independent entities.
+
+&emsp;“(2)
+
+Assessment of adequacy and accuracy of faa cost data and attributions.—
+
+&emsp;&emsp;“(A)
+
+In general.—The Inspector General shall conduct an assessment to ensure that the method for calculating the overall costs of the Federal Aviation Administration and attributing such costs to specific users is appropriate, reasonable, and understandable to the users.
+
+&emsp;&emsp;“(B)
+
+Components.—In conducting the assessment under this paragraph, the Inspector General shall assess the following:
+
+&emsp;&emsp;&emsp;“(i) The Administration's cost input data, including the reliability of the Administration's source documents and the integrity and reliability of the Administration's data collection process.
+
+&emsp;&emsp;&emsp;“(ii) The Administration's system for tracking assets.
+
+&emsp;&emsp;&emsp;“(iii) The Administration's bases for establishing asset values and depreciation rates.
+
+&emsp;&emsp;&emsp;“(iv) The Administration's system of internal controls for ensuring the consistency and reliability of reported data.
+
+&emsp;&emsp;&emsp;“(v) The Administration's definition of the services to which the Administration ultimately attributes its costs.
+
+&emsp;&emsp;&emsp;“(vi) The cost pools used by the Administration and the rationale for and reliability of the bases which the Administration proposes to use in allocating costs of services to users.
+
+&emsp;&emsp;“(C)
+
+Requirements for assessment of cost pools.—In carrying out subparagraph (B)(vi), the Inspector General shall—
+
+&emsp;&emsp;&emsp;“(i) review costs that cannot reliably be attributed to specific Administration services or activities (called ‘common and fixed costs’ in the Administration Cost Allocation Study) and consider alternative methods for allocating such costs; and
+
+&emsp;&emsp;&emsp;“(ii) perform appropriate tests to assess relationships between costs in the various cost pools and activities and services to which the costs are attributed by the Administration.
+
+&emsp;“(3)
+
+Cost effectiveness.—
+
+&emsp;&emsp;“(A)
+
+In general.—The Inspector General shall assess the progress of the Administration in cost and performance management, including use of internal and external benchmarking in improving the performance and productivity of the Administration.
+
+&emsp;&emsp;“(B)
+
+Annual reports.—Not later than December 31, 2000, and annually thereafter until December 31, 2004, the Inspector General shall transmit to Congress an updated report containing the results of the assessment conducted under this paragraph.
+
+&emsp;&emsp;“(C)
+
+Information to be included in faa financial report.—The Administrator \[of the Federal Aviation Administration\] shall include in the annual financial report of the Administration information on the performance of the Administration sufficient to permit users and others to make an informed evaluation of the progress of the Administration in increasing productivity.
+
+“(b)
+
+Funding.—There are authorized to be appropriated such sums as may be necessary to carry out this section.”
+
+#### Passenger Cabin Air Quality
+
+Pub. L. 106–181, title VII, §725, Apr. 5, 2000, 114 Stat. 166, provided that:
+
+“(a)
+
+Study of Air Quality in Passenger Cabins in Commercial Aircraft.—
+
+&emsp;“(1)
+
+In general.—Not later than 60 days after the date of the enactment of this Act \[Apr. 5, 2000\], the Administrator \[of the Federal Aviation Administration\] shall arrange for and provide necessary data to the National Academy of Sciences to conduct a 12-month, independent study of air quality in passenger cabins of aircraft used in air transportation and foreign air transportation, including the collection of new data, in coordination with the Federal Aviation Administration, to identify contaminants in the aircraft air and develop recommendations for means of reducing such contaminants.
+
+&emsp;“(2)
+
+Alternative air supply.—The study should examine whether contaminants would be reduced by the replacement of engine and auxiliary power unit bleed air with an alternative supply of air for the aircraft passengers and crew.
+
+&emsp;“(3)
+
+Scope.—The study shall include an assessment and quantitative analysis of each of the following:
+
+&emsp;&emsp;“(A) Contaminants of concern, as determined by the National Academy of Sciences.
+
+&emsp;&emsp;“(B) The systems of air supply on aircraft, including the identification of means by which contaminants may enter such systems.
+
+&emsp;&emsp;“(C) The toxicological and health effects of the contaminants of concern, their byproducts, and the products of their degradation.
+
+&emsp;&emsp;“(D) Any contaminant used in the maintenance, operation, or treatment of aircraft, if a passenger or a member of the air crew may be directly exposed to the contaminant.
+
+&emsp;&emsp;“(E) Actual measurements of the contaminants of concern in the air of passenger cabins during actual flights in air transportation or foreign air transportation, along with comparisons of such measurements to actual measurements taken in public buildings.
+
+&emsp;“(4)
+
+Provision of Current Data.—The Administrator shall collect all data of the Federal Aviation Administration that is relevant to the study and make the data available to the National Academy of Sciences in order to complete the study.
+
+“(b)
+
+Collection of Aircraft Air Quality Data.—
+
+&emsp;“(1)
+
+In general.—The Administrator may consider the feasibility of using the flight data recording system on aircraft to monitor and record appropriate data related to air inflow quality, including measurements of the exposure of persons aboard the aircraft to contaminants during normal aircraft operation and during incidents involving air quality problems.
+
+&emsp;“(2)
+
+Passenger cabins.—The Administrator may also consider the feasibility of using the flight data recording system to monitor and record data related to the air quality in passengers cabins of aircraft.”
+
+#### Operations of Air Taxi Industry
+
+Pub. L. 106–181, title VII, §735, Apr. 5, 2000, 114 Stat. 171, provided that:
+
+“(a)
+
+Study.—The Administrator \[of the Federal Aviation Administration\], in consultation with the National Transportation Safety Board and other interested persons, shall conduct a study of air taxi operators regulated under part 135 of title 14, Code of Federal Regulations.
+
+“(b)
+
+Contents.—The study shall include an analysis of the size and type of the aircraft fleet, relevant aircraft equipment, hours flown, utilization rates, safety record by various categories of use and aircraft type, sales revenues, and airports served by the air taxi fleet.
+
+“(c)
+
+Report.—Not later than 1 year after the date of the enactment of this Act \[Apr. 5, 2000\], the Administrator shall transmit to Congress a report on the results of the study.”
 
 #### Findings
 
@@ -334,7 +474,7 @@ Section 272 of title II of Pub. L. 104–264 provided that: “The purposes of t
 
 #### Independent Assessment of FAA Financial Requirements; Establishment of National Civil Aviation Review Commission
 
-Section 274 of Pub. L. 104–264 provided that:
+Section 274 of Pub. L. 104–264, as amended by Pub. L. 106–181, title III, §307(c)(3), Apr. 5, 2000, 114 Stat. 126, provided that:
 
 “(a)
 
@@ -434,7 +574,7 @@ Contents.—The report submitted by the aviation funding task force under clause
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) shall consider the independent assessment under subsection (a);
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) shall consider estimated cost savings, if any, resulting from the procurement and personnel reforms included in this Act \[see Tables for classification\] or in sections 347 and 348 of Public Law 104–50 \[49 U.S.C. 106 note, 40110 note\], and additional financial initiatives;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) shall consider estimated cost savings, if any, resulting from the procurement and personnel reforms included in this Act \[see Tables for classification\] or in sections 40110(d) and 40122(g) of title 49, United States Code, and additional financial initiatives;
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) shall include specific recommendations to Congress on how the Administration can reduce costs, raise additional revenue for the support of agency operations, and accelerate modernization efforts; and
 
@@ -680,7 +820,7 @@ Pub. L. 103–305, title V, §507, Aug. 23, 1994, 108 Stat. 1595, provided that:
 
 “(a)
 
-Availability of Information.—In the interest of protecting the health of air travelers, the Secretary shall publish a list of the countries (as determined by the Secretary) that require disinsection of aircraft landing in such countries while passengers and crew are on board such aircraft.
+Availability of Information.—In the interest of protecting the health of air travelers, the Secretaryshall publish a list of the countries (as determined by the Secretary) that require disinsection of aircraft landing in such countries while passengers and crew are on board such aircraft.
 
 “(b)
 

@@ -40,7 +40,3 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 Section 2 of Pub. L. 93–628 provided that: “The amendments made by the first section \[amending this section\] shall take effect on the date of the enactment of this Act \[Jan. 3, 1975\].”
 
-#### Cross References
-
-Coast Guard, disposal of materials to Boy Scouts, see section 641 of Title 14, Coast Guard.
-

@@ -6,7 +6,7 @@ The remedy against the United States provided by sections 1346(b) and 2672 of ti
 
 #### (b) Attorney General to defend any civil action or proceeding for malpractice or negligence; service of process
 
-The Attorney General shall defend any civil action or proceeding brought in any court against any person referred to in subsection (a) of this section (or the estate of such person) forany such injury. Any such person against whom such civil action or proceeding is brought shall deliver within such time after date of service or knowledge of service as determined by the Attorney General, all process served upon such person or an attested true copy thereof to such person's immediate superior or to whomever was designated by the Administrator to receive such papers and such person shall promptly furnish copies of the pleading and process therein to the United States Attorney for the district embracing the place wherein the proceeding is brought to the Attorney General and to the Administrator.
+The Attorney General shall defend any civil action or proceeding brought in any court against any person referred to in subsection (a) of this section (or the estate of such person) for any such injury. Any such person against whom such civil action or proceeding is brought shall deliver within such time after date of service or knowledge of service as determined by the Attorney General, all process served upon such person or an attested true copy thereof to such person's immediate superior or to whomever was designated by the Administrator to receive such papers and such person shall promptly furnish copies of the pleading and process therein to the United States Attorney for the district embracing the place wherein the proceeding is brought to the Attorney General and to the Administrator.
 
 #### (c) Removal of actions; certification by Attorney General; remand to State court
 
@@ -28,7 +28,7 @@ The Administrator or his designee may, to the extent that the Administrator or h
 
 #### Prior Provisions
 
-A prior section 307 of Pub. L. 85–568 was renumbered section 309 and is classified to section 2459 of this title.
+A prior section 307 of Pub. L. 85–568 was renumbered section 310 and is classified to section 2459 of this title.
 
 #### Effective Date
 

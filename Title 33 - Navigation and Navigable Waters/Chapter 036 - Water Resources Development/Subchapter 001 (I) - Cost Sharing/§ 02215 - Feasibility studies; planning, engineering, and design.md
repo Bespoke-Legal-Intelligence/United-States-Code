@@ -36,7 +36,7 @@
 
 #### (E) In-kind contributions
 
-&emsp;&emsp;Not more than 1/2 of the non-Federal share required under this paragraph may be satisfied by the provision of services, materials, supplies, or other in-kind services necessary to prepare the feasibility report.
+&emsp;&emsp;The non-Federal share required under this paragraph may be satisfied by the provision of services, materials, supplies, or other in-kind services necessary to prepare the feasibility report.
 
 #### (2) Applicability
 
@@ -50,13 +50,15 @@ The Secretary shall not initiate any planning or engineering authorized by this 
 
 Costs of design of a water resources project shall be shared in the same percentage as the purposes of such project.
 
-(Pub. L. 99–662, title I, §105, Nov. 17, 1986, 100 Stat. 4088; Pub. L. 101–640, title III, §301, Nov. 28, 1990, 104 Stat. 4633; Pub. L. 104–303, title II, §203(a), Oct. 12, 1996, 110 Stat. 3677.)
+(Pub. L. 99–662, title I, §105, Nov. 17, 1986, 100 Stat. 4088; Pub. L. 101–640, title III, §301, Nov. 28, 1990, 104 Stat. 4633; Pub. L. 104–303, title II, §203(a), Oct. 12, 1996, 110 Stat. 3677; Pub. L. 106–541, title II, §225, Dec. 11, 2000, 114 Stat. 2598.)
 
 #### References in Text
 
 This Act, referred to in subsec. (b), is Pub. L. 99–662, Nov. 17, 1986, 100 Stat. 4082, as amended, known as the Water Resources Development Act of 1986. For complete classification of this Act to the Code, see Short Title note set out under section 2201 of this title and Tables.
 
 #### Amendments
+
+2000—Subsec. (a)(1)(E). Pub. L. 106–541 substituted “The” for “Not more than 1/2 of the”.
 
 1996—Subsec. (a)(1). Pub. L. 104–303, §203(a)(1), inserted heading and amended text of par. (1) generally. Prior to amendment text read as follows: “The Secretary shall not initiate any feasibility study for a water resources project after November 17, 1986, until appropriate non-Federal interests agree, by contract, to contribute 50 percent of the cost for such study during the period of such study. Not more than one-half of such non-Federal contribution may be made by the provision of services, materials, supplies, or other in-kind services necessary to prepare the feasibility report.”
 

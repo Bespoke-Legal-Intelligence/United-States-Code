@@ -14,9 +14,5 @@ Section 223a of this title, referred to in text, was repealed by act Aug. 8, 194
 
 Section was not enacted as part of act Feb. 25, 1920, ch. 85, 41 Stat. 437, known as the Mineral Leasing Act, which comprises this chapter.
 
-#### Cross References
-
-Jurisdiction over naval petroleum reserves, see section 7421 of Title 10, Armed Forces.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

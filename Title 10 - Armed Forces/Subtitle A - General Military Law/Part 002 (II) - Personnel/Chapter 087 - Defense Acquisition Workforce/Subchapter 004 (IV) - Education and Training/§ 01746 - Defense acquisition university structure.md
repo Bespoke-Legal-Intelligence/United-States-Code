@@ -2,7 +2,7 @@
 
 (a)
 
-Defense Acquisition University Structure.The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition, Technology, and Logistics, shall establish and maintain a defense acquisition university structure to provide for—
+Defense Acquisition University Structure.—The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition, Technology, and Logistics, shall establish and maintain a defense acquisition university structure to provide for—
 
 &emsp;(1) the professional educational development and training of the acquisition workforce; and
 
@@ -20,7 +20,7 @@ Civilian Faculty Members.—(1) The Secretary of Defense may employ as many civi
 
 #### Amendments
 
-1999—Subsec. (a). Pub. L. 106–65 substituted “Under Secretary of Defense for Acquisition, Technology, andLogistics” for “Under Secretary of Defense for Acquisition and Technology” in introductory provisions.
+1999—Subsec. (a). Pub. L. 106–65 substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology” in introductory provisions.
 
 1996—Subsec. (a). Pub. L. 104–106 struck out “(1)” before “The Secretary of Defense” and redesignated subpars. (A) and (B) as pars. (1) and (2), respectively.
 

@@ -56,13 +56,45 @@ By the authority vested in me by the Constitution and the laws of the United Sta
 
 &emsp;1\. to the Secretary of State the authority and duty vested in the President under section 1203(d) of the Cooperative Threat Reduction Act of 1993, Title XII of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160) \[22 U.S.C. 5952(d)\];
 
-&emsp;2\. to the Secretary of Defense the authorities and duties vested in the President under sections 1203(a),1204, 1206, and 1207 of Public Law 103–160 \[22 U.S.C. 5952(a), 5953, 5955, 5956\].
+&emsp;2\. to the Secretary of Defense the authorities and duties vested in the President under sections 1203(a), 1204, 1206, and 1207 of Public Law 103–160 \[22 U.S.C. 5952(a), 5953, 5955, former 5956\].
 
 The Secretary of Defense shall not exercise authority delegated by number 2 hereof with respect to any former Soviet republic unless the Secretary of State has exercised his authority and performed the duty delegated by number 1 hereof, as applicable, with respect to that former Soviet republic. The Secretary of Defense shall not obligate funds in exercise of authority delegated by number 2 hereof unless the Director of the Office of Management and Budget has made the determination that expenditures are to be counted as discretionary spending in the national defense function (050), as applicable to the funds to be transferred.
 
 The Secretary of State is authorized and directed to publish this memorandum in the Federal Register.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Annual Report on Status of Nuclear Materials Protection, Control, and Accounting Program
+
+Pub. L. 106–398, §1 \[div. C, title XXXI, §3171\], Oct. 30, 2000, 114 Stat. 1654, 1654A–475, provided that:
+
+“(a)
+
+Report Required.—Not later than January 1 of each year, the Secretary of Energy shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the status of efforts during the preceding fiscal year under the Nuclear Materials Protection, Control, and Accounting Program of the Department of Energy to secure weapons-usable nuclear materials in Russia that have been identified as being at risk for theft or diversion.
+
+“(b)
+
+Contents.—Each report under subsection (a) shall include the following:
+
+&emsp;“(1) The number of buildings, including building locations, that received complete and integrated materials protection, control, and accounting systems for nuclear materials described in subsection (a) during the year covered by such report.
+
+&emsp;“(2) The amounts of highly enriched uranium and plutonium in Russia that have been secured under systems described in paragraph (1) as of the date of such report.
+
+&emsp;“(3) The amount of nuclear materials described in subsection (a) that continues to require securing under systems described in paragraph (1) as of the date of such report.
+
+&emsp;“(4) A plan for actions to secure the nuclear materials identified in paragraph (3) under systems described in paragraph (1), including an estimate of the cost of such actions.
+
+&emsp;“(5) The amounts expended through the fiscal year preceding the date of such report to secure nuclear materials described in subsection (a) under systems described in paragraph (1), set forth by total amount and by amount per fiscal year.
+
+“(c)
+
+Limitation on Use of Certain Funds.—(1) No amounts authorized to be appropriated for the Department of Energy by this Act or any other Act for purposes of the Nuclear Materials Protection, Control, and Accounting Program may be obligated or expended after September 30, 2000, for any project under the program at a site controlled by the Russian Ministry of Atomic Energy (MINATOM) in Russia until the Secretary submits to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the access policy established with respect to such project, including a certification that the access policy has been implemented.
+
+“(2) The access policy with respect to a project under this subsection shall—
+
+&emsp;“(A) permit appropriate determinations by United States officials regarding security requirements, including security upgrades, for the project; and
+
+&emsp;“(B) ensure verification by United States officials that Department of Energy assistance at the project is being used for the purposes intended.”
 
 #### Specification of Cooperative Threat Reduction Programs and Funds for Purposes of Pub. L. 106–65
 
@@ -79,6 +111,22 @@ Fiscal Year 2000
 Cooperative Threat Reduction Funds Defined.—As used in this title \[enacting provisions set out as notes under this section and section 5955 of this title\], the term ‘fiscal year 2000 Cooperative Threat Reduction funds’ means the funds appropriated pursuant to the authorization of appropriations in section 301 for Cooperative Threat Reduction programs.”
 
 #### Limitation on Use of Funds for Certain Purposes
+
+Pub. L. 106–398, §1 \[\[div. A\], title XIII, §1303\], Oct. 30, 2000, 114 Stat. 1654, 1654A–340, provided that: “No fiscal year 2001 Cooperative Threat Reduction funds and no funds appropriated for Cooperative Threat Reduction programs for any other fiscal year, may be obligated or expended for elimination of conventional weapons or the delivery vehicles primarily intended to deliver such weapons.” \[For definitions, see section 1 \[\[div. A\], title XIII, §1301(a)\] of Pub. L. 106–398, set out as a note under section 5959 of this title.\]
+
+Pub. L. 106–398, §1 \[\[div. A\], title XIII, §1304\], Oct. 30, 2000, 114 Stat. 1654, 1654A–340, provided that:
+
+“(a)
+
+Limitations.—No fiscal year 2001 Cooperative Threat Reduction funds \[for definition, see section 1 \[\[div. A\], title XIII, §1301(b)\] of Pub. L. 106–398, set out as a note under section 5959 of this title\] may be used—
+
+&emsp;“(1) for construction of a second wing for the storage facility for Russian fissile material referred to in section 1302(a)(5) \[114 Stat. 1654–339\]; or
+
+&emsp;“(2) for design or planning with respect to such facility until 15 days after the date that the Secretary of Defense submits to Congress notification that Russia and the United States have signed a written transparency agreement that provides for verification that material stored at the facility is of weapons origin.
+
+“(b)
+
+Establishment of Funding Cap for First Wing of Storage Facility.—Out of funds authorized to be appropriated for Cooperative Threat Reduction programs \[for definition, see section 1 \[\[div. A\], title XIII, §1301(a)\] of Pub. L. 106–398, set out as a note under section 5959 of this title\] for fiscal year 2001 or any other fiscal year, not more than $412,600,000 may be used for planning, design, or construction of the first wing for the storage facility for Russian fissile material referred to in section 1302(a)(5).”
 
 Pub. L. 106–65, div. A, title XIII, §§1303–1305, Oct. 5, 1999, 113 Stat. 793, 794, provided that:
 
@@ -142,7 +190,7 @@ Pub. L. 104–106, div. A, title XII, §1203, Feb. 10, 1996, 110 Stat. 470.
 
 #### Definition of Cooperative Threat Reduction Programs for Purposes of Pub. L. 105–261
 
-Pub. L. 105–261, div. A, title XIII, §1301(a)(1), Oct. 17, 1998, 112 Stat. 2161, provided that: “For purposes of section 301 \[112 Stat. 1960\] and other provisions of this Act \[see Tables for classification\], Cooperative Threat Reduction programs are the programs specified in section 1501(b) of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201; 110 Stat. 2731; 50 U.S.C. 2362 note) (as amended by paragraph (2)).”
+Pub. L. 105–261, div. A, title XIII, §1301(a)(1), Oct. 17, 1998, 112 Stat. 2161, provided that: “For purposes of section 301 \[112 Stat. 1960\] and other provisions of this Act \[see Tables for classification\], Cooperative Threat Reduction programs are the programs specified in section1501(b) of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201; 110 Stat. 2731; 50 U.S.C. 2362 note) (as amended by paragraph (2)).”
 
 #### Limitation on Use of Funds for Chemical Weapons Destruction Activities in Russia
 
@@ -244,6 +292,8 @@ Matters To Be Included in Annual Report.—The Secretary of Defense shall includ
 
 Subsequent Revisions to Report.—The Secretary of Defense shall submit an updated version of the report under subsection (a) for any fiscal year after fiscal year 1996 for which the budget of the President proposes that funds be appropriated to the Department of Defense for Cooperative Threat Reduction programs.”
 
+\[Pub. L. 106–398, §1 \[\[div. A\], title XIII, §1308(g)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–343, provided that, effective on the date the Secretary of Defense submits to Congress an updated version of the multiyear plan for fiscal year 2001 as described in section 5959(h) of this title, section 1205 of Pub. L. 103–337, set out in part above, is repealed.\]
+
 #### Condition on Assistance to Russia for Construction of Plutonium Storage Facility
 
 Section 1612 of Pub. L. 103–160 provided:
@@ -262,7 +312,7 @@ Certification of Russia's Commitment to Halt Chemical Separation of Weapon-Grade
 
 “(c)
 
-Sense of Congress on Plutonium Policy.—It is the sense of Congress that a key objective of the UnitedStates with respect to the nonproliferation of nuclear weapons should be to obtain a clear and unequivocal commitment from the Government of Russia that it will (1) cease all production and separation of weapon-grade plutonium, and (2) halt chemical separation of plutonium produced in civil nuclear power reactors.
+Sense of Congress on Plutonium Policy.—It is the sense of Congress that a key objective of the United States with respect to the nonproliferation of nuclear weapons should be to obtain a clear and unequivocal commitment from the Government of Russia that it will (1) cease all production and separation of weapon-grade plutonium, and (2) halt chemical separation of plutonium produced in civil nuclear power reactors.
 
 “(d)
 
@@ -272,5 +322,5 @@ Report.—Not later than June 1, 1994, the President shall submit to Congress a 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5954, 5955, 5956, 5957 of this title; title 10 section 115.
+This section is referred to in sections 5954, 5955, 5957 of this title; title 10 section 115.
 

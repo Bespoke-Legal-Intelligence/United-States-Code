@@ -28,49 +28,7 @@ The Federal Rules of Evidence, referred to in subsec. (c), are set out in the Ap
 
 #### Amendments
 
-1975—Subsec. (c). Pub. L. 93–595 added subsec. (c).
-
-#### Federal Rules of Civil Procedure
-
-Proof of official record, see rule 44, Appendix to this title.
-
-Subpoena for production of documentary evidence, see rule 45.
-
-#### Federal Rules of Criminal Procedure
-
-Proof of official record, see rule 27, Title 18, Appendix, Crimes and Criminal Procedure.
-
-Subpoena for production of documentary evidence, see rule 17.
-
-#### Cross References
-
-Authenticated and certified copy of Government record by Archivist admissible in evidence, see section 2116 of Title 44, Public Printing and Documents.
-
-Authentication—
-
-&emsp;&emsp;Copies of documents, etc., in the office of the Commissioner of Indian Affairs is made by section 6 of Title 25, Indians.
-
-&emsp;&emsp;Original papers on file in the Bureau of Land Management are provided for by section 13 of Title 43, Public Lands.
-
-&emsp;&emsp;Records by Secretary of the Interior, see section 1460 of Title 43.
-
-&emsp;&emsp;Records of the Postal Service, see section 207 of Title 39, Postal Service.
-
-Certified copies of schedules and tariffs of rates, etc., copies as evidence, see section 10303 of Title 49, Transportation.
-
-Judicial notice of seals—
-
-&emsp;&emsp;Departments of Commerce and Labor, see sections 1501 of Title 15, Commerce and Trade, and 551 of Title 29, Labor.
-
-&emsp;&emsp;Department of Defense, see section 112 of Title 10, Armed Forces.
-
-&emsp;&emsp;Departments of the Army, Air Force, and Navy, see sections 3012, 5012, and 8012 of Title 10.
-
-Provisions relating to the requisites of the certificates of national banks, and the acknowledgment and filing thereof, are made by sections 22 and 23 of Title 12, Banks and Banking.
-
-Secretary of the Interior is authorized to furnish transcripts of records in district land offices for individuals, and such transcripts, when duly certified, are made admissible as evidence by section 83 of Title 43, Public Lands.
-
-Verification of official documents by Secretary of Agriculture, see section 2203 of Title 7, Agriculture.
+<b>1975</b>—Subsec. (c). Pub. L. 93–595 added subsec. (c).
 
 #### Section Referred to in Other Sections
 

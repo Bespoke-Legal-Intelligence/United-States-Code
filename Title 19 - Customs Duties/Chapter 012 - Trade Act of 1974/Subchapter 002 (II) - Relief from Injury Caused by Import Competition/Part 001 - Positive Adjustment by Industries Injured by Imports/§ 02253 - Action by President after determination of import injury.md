@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-(1)(A) After receiving a report under section 2252(f) of this title containing an affirmative finding regarding serious injury, or the threat thereof, to a domestic industry, the President shall take all appropriate and feasible action within his power which the President determines will facilitate efforts by the domestic industry to make a positive adjustment to import competition and provide greater economic and social benefits than costs.
+(1)(A) After receiving a report under section 2252(f) of this title containing an affirmative finding regarding serious injury, or the threat thereof, to a domestic industry, the Presidentshall take all appropriate and feasible action within his power which the President determines will facilitate efforts by the domestic industry to make a positive adjustment to import competition and provide greater economic and social benefits than costs.
 
 (B) The action taken by the President under subparagraph (A) shall be to such extent, and for such duration, subject to subsection (e)(1) of this section, that the President determines to be appropriate and feasible under such subparagraph.
 
@@ -66,7 +66,7 @@
 
 (B) If a supplemental report is requested under paragraph (5), the President shall take action under paragraph (1) within 30 days after the supplemental report is received, except that, in a case in which the President has proclaimed provisional relief under section 2252(d)(2)(D) of this title with respect to the article concerned, action by the President under paragraph (1) may not be taken later than the 200th day after the provisional relief was proclaimed.
 
-(5) The President may, within 15 days after the date on which he receives a report from the Commission containing an affirmative determination under section 2252(b)(1) of this title, request additional information from the Commission. The Commission shall, as soon as practicable but in no event more than 30 days afterthe date on which it receives the President's request, furnish additional information with respect to the industry in a supplemental report.
+(5) The President may, within 15 days after the date on which he receives a report from the Commission containing an affirmative determination under section 2252(b)(1) of this title, request additional information from the Commission. The Commission shall, as soon as practicable but in no event more than 30 days after the date on which it receives the President's request, furnish additional information with respect to the industry in a supplemental report.
 
 #### (b) Reports to Congress
 
@@ -120,7 +120,7 @@ If the President reports under subsection (b)(1) or (2) of this section that—
 
 > shall be treated as an increase in duty.
 
-(B) No proclamation providing for a suspension referred to in subparagraph (A) with respect to any article may be made by the President, nor may any such suspension be recommended by the Commission under section 2252(e) of this title, unless the Commission, in addition to making an affirmative determination under section 2252(b)(1) of this title, determines in the course of its investigation under section 2252(b) of this title that the serious injury, or threat thereof, substantially caused by imports to thedomestic industry producing a like or directly competitive article results from, as the case may be—
+(B) No proclamation providing for a suspension referred to in subparagraph (A) with respect to any article may be made by the President, nor may any such suspension be recommended by the Commission under section 2252(e) of this title, unless the Commission, in addition to making an affirmative determination under section 2252(b)(1) of this title, determines in the course of its investigation under section 2252(b) of this title that the serious injury, or threat thereof, substantially caused by imports to the domestic industry producing a like or directly competitive article results from, as the case may be—
 
 &emsp;(i) the application of subheading 9802.00.60 or subheading 9802.00.80 of the Harmonized Tariff Schedule of the United States; or
 
@@ -250,7 +250,7 @@ Title VIII of Pub. L. 98–573, as amended by Pub. L. 100–418, title I, §1322
 
 #### Limitation on Meat Imports
 
-Pub. L. 88–482, §2, Aug. 22, 1964, 78 Stat. 594, as amended by Pub. L. 96–177, Dec. 31, 1979, 93 Stat. 1291; Pub. L.100–418, title I, §1214(u), Aug. 23, 1988, 102 Stat. 1162; Pub. L. 100–449, title III, §301(b), Sept. 28, 1988, 102 Stat. 1867; Pub. L. 103–182, title III, §321(a), Dec. 8, 1993, 107 Stat. 2108, provided that this section was to be cited as the “Meat Import Act of 1979”, defined terms for purposes of this section, limited with exception the aggregate quantity of meat articles which could enter the country in any calendar year after 1979, provided for adjustment of aggregate quantity for calendar years after 1979, required Secretary of Agriculture to estimate and publish yearly aggregate quantity, authorized President to increase or limit by proclamation the total quantity of meat articles entering this country under certain circumstances, and provided for suspension of such proclamations after providing notice in Federal Register and opportunity to comment, prior to repeal by Pub. L. 103–465, title IV, §403, Dec. 8, 1994, 108 Stat. 4959, effective on the date of entry into force of the WTO Agreement with respect to the United States (Jan. 1, 1995).
+Pub. L. 88–482, §2, Aug. 22, 1964, 78 Stat. 594, as amended by Pub. L. 96–177, Dec. 31, 1979, 93 Stat. 1291; Pub. L. 100–418, title I, §1214(u), Aug. 23, 1988, 102 Stat. 1162; Pub. L. 100–449, title III, §301(b), Sept. 28, 1988, 102 Stat. 1867; Pub. L. 103–182, title III, §321(a), Dec. 8, 1993, 107 Stat. 2108, provided that this section was to be cited as the “Meat Import Act of 1979”, defined terms for purposes of this section, limited with exception the aggregate quantity of meat articles which could enter the country in any calendar year after 1979, provided for adjustment of aggregate quantity for calendar years after 1979, required Secretary of Agriculture to estimate and publish yearly aggregate quantity, authorized President to increase or limit by proclamation the total quantity of meat articles entering this country under certain circumstances, and provided for suspension of such proclamations after providing notice in Federal Register and opportunity to comment, prior to repeal by Pub. L. 103–465, title IV, §403, Dec. 8, 1994, 108 Stat. 4959, effective on the date of entry into force of the WTO Agreement with respect to the United States (Jan. 1, 1995).
 
 #### Section Referred to in Other Sections
 

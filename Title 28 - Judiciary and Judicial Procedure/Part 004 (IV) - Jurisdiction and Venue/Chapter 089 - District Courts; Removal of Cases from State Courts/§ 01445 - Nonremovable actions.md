@@ -30,17 +30,17 @@ Section 40302 of the Violence Against Women Act of 1994, referred to in subsec. 
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–287 substituted “sections 1–4 and 5–10 of the Act of April 22, 1908 (45 U.S.C. 51–54, 55–60)” for “sections 51–60 of Title 45”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–287 substituted “sections 1–4 and 5–10 of the Act of April 22, 1908 (45 U.S.C. 51–54, 55–60)” for “sections 51–60 of Title 45”.
 
-1995—Subsec. (b). Pub. L. 104–88 substituted “carrier” for “common carrier” and “11706 or 14706” for “11707”.
+<b>1995</b>—Subsec. (b). Pub. L. 104–88 substituted “carrier” for “common carrier” and “11706 or 14706” for “11707”.
 
-1994—Subsec. (d). Pub. L. 103–322 added subsec. (d).
+<b>1994</b>—Subsec. (d). Pub. L. 103–322 added subsec. (d).
 
-1978—Subsec. (b). Pub. L. 95–486 substituted “$10,000” for “$3,000”.
+<b>1978</b>—Subsec. (b). Pub. L. 95–486 substituted “$10,000” for “$3,000”.
 
 Pub. L. 95–473 substituted “section 11707 of title 49” for “section 20 of Title 49”.
 
-1958—Pub. L. 85–554 substituted “Nonremovable actions” for “Carriers; nonremovable actions” in section catchline and added subsec. (c).
+<b>1958</b>—Pub. L. 85–554 substituted “Nonremovable actions” for “Carriers; nonremovable actions” in section catchline and added subsec. (c).
 
 #### Effective Date of 1996 Amendment
 
@@ -53,8 +53,4 @@ Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 1
 #### Effective Date of 1958 Amendment
 
 Amendment by Pub. L. 85–554 applicable only in the case of actions commenced after July 25, 1958, see section 3 of Pub. L. 85–554, set out as a note under section 1331 of this title.
-
-#### Cross References
-
-Stay of State court proceedings, see section 2283 of this title.
 

@@ -18,7 +18,7 @@ Section 603(c) of Pub. L. 95–242 provided that: “Except where otherwise prov
 
 #### Short Title
 
-Section 1 of Pub. L. 95–242 provided: “That this Act \[enacting this chapter and sections 2139a, 2141, 2153a to 2153e, 2153f, and 2155 to 2160a of Title 42, The Public Health and Welfare, amending sections 2074, 2075, 2077, 2094, 2139, and 2153 of Title 42, and enacting provisions set out as notes under sections 3201, 3222, and 3262 of this title and section 2139 of Title 42\] may be cited as the ‘Nuclear Non-Proliferation Act of 1978’.”
+Section 1 of Pub. L. 95–242 provided: “That this Act \[enacting this chapter and sections 2139a, 2141, 2153a to 2153e, 2153f, and 2155 to 2160a of Title 42, The PublicHealth and Welfare, amending sections 2074, 2075, 2077, 2094, 2139, and 2153 of Title 42, and enacting provisions set out as notes under sections 3201, 3222, and 3262 of this title and section 2139 of Title 42\] may be cited as the ‘Nuclear Non-Proliferation Act of 1978’.”
 
 #### Nuclear Proliferation Prevention; Effective and Termination Dates of 1994 Amendment
 

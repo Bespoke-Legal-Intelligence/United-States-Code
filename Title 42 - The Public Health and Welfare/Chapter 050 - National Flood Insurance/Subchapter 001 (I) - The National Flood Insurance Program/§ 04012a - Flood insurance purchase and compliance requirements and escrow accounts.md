@@ -12,7 +12,7 @@ After the expiration of sixty days following December 31, 1973, no Federal offic
 
 #### (2) Federal agency lenders
 
-&emsp;A Federal agency lender may not make, increase, extend, or renew any loan secured by improved real estate or a mobile home located or to be located in an area that has been identified by the Director as an area having special flood hazards and in which flood insurance has been made available under the National Flood Insurance Act of 1968, unless the building or mobile home and any personal property securing such loan is covered for the term of the loan by flood insurance in the amount provided in paragraph (1). Each Federal agency lender shall issue any regulations necessary to carry out this paragraph. Such regulations shall be consistent with and substantially identical to the regulations issued under paragraph (1).
+&emsp;A Federal agency lender may not make, increase, extend, or renew any loan secured by improved real estate or a mobile home located or to be located in an area that has been identified by the Director as an area having special flood hazards and in which flood insurance has been made available under the National Flood Insurance Act of 1968, unless the building or mobile home and any personal property securing such loan is covered for the term of the loan by flood insurance in the amount provided in paragraph (1). Each Federal agency lender shall issue any regulations necessary to carry out this paragraph. Such regulationsshall be consistent with and substantially identical to the regulations issued under paragraph (1).
 
 #### (3) Government-sponsored enterprises for housing
 
@@ -78,7 +78,7 @@ After the expiration of sixty days following December 31, 1973, no Federal offic
 
 #### (1) Notification to borrower of lack of coverage
 
-&emsp;If, at the time of origination or at any time during the term of a loan secured by improved real estate or by a mobile home located in an area that has been identified by the Director (at the time of the origination of the loan or at any time during the term of the loan) as an area having special flood hazards and in which flood insurance is available under the National Flood Insurance Act of 1968 \[42 U.S.C. 4001 et seq.\], the lender or servicer for the loan determines that the building or mobile home andany personal property securing the loan is not covered by flood insurance or is covered by such insurance in an amount less than the amount required for the property pursuant to paragraph (1), (2), or (3) of subsection (b) of this section, the lender or servicer shall notify the borrower under the loan that the borrower should obtain, at the borrower's expense, an amount of flood insurance for the building or mobile home and such personal property that is not less than the amount under subsection (b)(1) of this section, for the term of the loan.
+&emsp;If, at the time of origination or at any time during the term of a loan secured by improved real estate or by a mobile home located in an area that has been identified by the Director (at the time of the origination of the loan or at any time during the term of the loan) as an area having special flood hazards and in which flood insurance is available under the National Flood Insurance Act of 1968 \[42 U.S.C. 4001 et seq.\], the lender or servicer for the loan determines that the building or mobile home and any personal property securing the loan is not covered by flood insurance or is covered by such insurance in an amount less than the amount required for the property pursuant toparagraph (1), (2), or (3) of subsection (b) of this section, the lender or servicer shall notify the borrower under the loan that the borrower should obtain, at the borrower's expense, an amount of flood insurance for the building or mobile home and such personal property that is not less than the amount under subsection (b)(1) of this section, for the term of the loan.
 
 #### (2) Purchase of coverage on behalf of borrower
 
@@ -142,7 +142,7 @@ After the expiration of sixty days following December 31, 1973, no Federal offic
 
 #### (6) Lender compliance
 
-&emsp;Notwithstanding any State or local law, for purposes of this subsection, any regulated lending institution that purchases flood insurance or renews a contract for flood insurance on behalf of or as an agent of a borrower of aloan for which flood insurance is required shall be considered to have complied with the regulations issued under subsection (b) of this section.
+&emsp;Notwithstanding any State or local law, for purposes of this subsection, any regulated lending institution that purchases flood insurance or renews a contract for flood insurance on behalf of or as an agent of a borrower of a loan for which flood insurance is required shall be considered to have complied with the regulations issued under subsection (b) of this section.
 
 #### (7) Effect of transfer on liability
 
@@ -212,7 +212,7 @@ Section was enacted as part of Flood Disaster Protection Act of 1973, and not as
 
 1994—Pub. L. 103–325, §531, substituted section catchline for former section catchline.
 
-Subsec. (a). Pub. L. 103–325, §582(c), struck out “, during the anticipated economic or useful life of theproject,” before “covered by flood insurance” and inserted at end “The requirement of maintaining flood insurance shall apply during the life of the property, regardless of transfer of ownership of such property.”
+Subsec. (a). Pub. L. 103–325, §582(c), struck out “, during the anticipated economic or useful life of the project,” before “covered by flood insurance” and inserted at end “The requirement of maintaining floodinsurance shall apply during the life of the property, regardless of transfer of ownership of such property.”
 
 Subsec. (b). Pub. L. 103–325, §522(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Each Federal instrumentality responsible for the supervision, approval, regulation, or insuring of banks, savings and loan associations, or similar institutions shall by regulation direct such institutions not to make, increase, extend, or renew after the expiration of sixty days following December 31, 1973, any loan secured by improved real estate or a mobile home located or to be located in an area that has been identified by the Director as an area having special flood hazards and in which flood insurance has been made available under the National Flood Insurance Act of 1968, unless the building or mobile home and any personal property securing such loan is covered for the term of the loan by flood insurance in an amount at least equal to the outstanding principal balance of the loan or to the maximum limit of coverage made available with respect to the particular type of property under the Act, whichever is less.”
 

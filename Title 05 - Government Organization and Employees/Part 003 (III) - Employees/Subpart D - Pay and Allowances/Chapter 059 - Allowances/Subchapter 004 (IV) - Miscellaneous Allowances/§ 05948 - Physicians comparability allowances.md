@@ -20,9 +20,9 @@
 
 (c) The head of an agency, pursuant to such regulations, criteria, and conditions as the President or his designee may prescribe, shall determine categories of positions applicable to physicians in such agency with respect to which there is a significant recruitment and retention problem. Only physicians serving in such positions shall be eligible for an allowance pursuant to this section. The amounts of each such allowance shall be determined by the agency head, subject to such regulations, criteria, and conditions as the President or his designee may prescribe, and shall be the minimum amount necessary to deal with the recruitment and retention problem for each such category of physicians.
 
-(d) Any agreement entered into by a physician under this section shall be for a period of one year of service in the agency involved unless the physician requests an agreement for a longer period of service. No agreement shall be entered into under this section later than September 30, 2000, nor shall any agreement cover a period of service extending beyond September 30, 2002.
+(d) Any agreement entered into by a physician under this section shall be for a period of one year of service in the agency involved unless the physician requests an agreement for a longer period of service.
 
-(e) Unless otherwise provided for in the agreement under subsection (f) of this section, an agreement under this section shall provide that the physician, in the event that such physician voluntarily, or because of misconduct, fails to complete at least one year of service pursuant to such agreement, shall be required to refund the total amount received under this section, unless the head of the agency, pursuant to such regulations as may be prescribed under this section by the President or his designee, determines that such failure is necessitated by circumstances beyond the control of the physician.
+(e) Unless otherwise provided for in the agreement under subsection (f) of this section, an agreement under this section shall provide that the physician, in the event that such physicianvoluntarily, or because of misconduct, fails to complete at least one year of service pursuant to such agreement, shall be required to refund the total amount received under this section, unless the head of the agency, pursuant to such regulations as may be prescribed under this section by the President or his designee, determines that such failure is necessitated by circumstances beyond the control of the physician.
 
 (f) Any agreement under this section shall specify, subject to such regulations as the President or his designee may prescribe, the terms under which the head of the agency and the physician may elect to terminate such agreement, and the amounts, if any, required to be refunded by the physician for each reason for termination.
 
@@ -54,35 +54,25 @@
 
 &emsp;(2) “agency” means an Executive agency, as defined in section 105 of this title, the Library of Congress, and the District of Columbia government.
 
-(h)(1) Any allowance paid under this section shall not be considered as basic pay for the purposes of subchapter VI and section 5595 of chapter 55, chapter 81, 83, or 87 of this title, or other benefits related to basic pay.
+(h)(1) Any allowance paid under this section shall not be considered as basic pay for the purposes of subchapter VI and section 5595 of chapter 55, chapter 81 or 87 of this title, or other benefits related to basic pay.
 
 (2) Any allowance under this section for a Government physician shall be paid in the same manner and at the same time as the physician's basic pay is paid.
 
 (i) Any regulations, criteria, or conditions that may be prescribed under this section by the President or his designee shall not be applicable to the Tennessee Valley Authority, and the Tennessee Valley Authority shall have sole responsibility for administering the provisions of this section with respect to Government physicians employed by the Authority.
 
-(j)(1) Not later than June 30 of each year, the President shall submit to each House of Congress a written report on the operation of this section. Each report shall include, with respect to the year covered by such report, information as to—
+(j) Not later than June 30 of each year, the President shall submit to each House of Congress a written report on the operation of this section. Each report shall include, with respect to the year covered by such report, information as to—
 
-&emsp;(A) which agencies entered into agreements under this section;
+&emsp;(1) which agencies entered into agreements under this section;
 
-&emsp;(B) the nature and extent of the recruitment or retention problems justifying the use of authority by each agency under this section;
+&emsp;(2) the nature and extent of the recruitment or retention problems justifying the use of authority by each agency under this section;
 
-&emsp;(C) the number of physicians with whom agreements were entered into by each agency;
+&emsp;(3) the number of physicians with whom agreements were entered into by each agency;
 
-&emsp;(D) the size of the allowances and the duration of the agreements entered into; and
+&emsp;(4) the size of the allowances and the duration of the agreements entered into; and
 
-&emsp;(E) the degree to which the recruitment or retention problems referred to in subparagraph (B) were alleviated under this section.
+&emsp;(5) the degree to which the recruitment or retention problems referred to in paragraph (2) were alleviated under this section.
 
-(2) In addition to the information required under paragraph (1), the last report due under this subsection before the expiration of the authority to enter into agreements under this section shall include—
-
-&emsp;(A) recommendations as to whether or not such authority should be continued beyond September 30, 2000, and, if so, by what period of time; and
-
-&emsp;(B) the reasons for those recommendations.
-
-(Added Pub. L. 95–603, §2(a), Nov. 6, 1978, 92 Stat. 3018; amended Pub. L. 96–166, §2, Dec. 29, 1979, 93 Stat. 1273; Pub. L. 97–141, §2, Dec. 29, 1981, 95 Stat. 1719; Pub. L. 98–168, title I, §102(a), Nov. 29, 1983, 97 Stat. 1105; Pub. L. 98–615, title II, §204(a)(3), Nov. 8, 1984, 98 Stat. 3216; Pub. L. 100–140, §1, Oct. 26, 1987, 101 Stat. 830; Pub. L. 101–420, §1(a), formerly §1, Oct. 12, 1990, 104 Stat. 908, renumbered §1(a), Pub. L. 103–114, §1(b)(2)(A), Oct. 26, 1993, 107 Stat. 1115; Pub. L. 102–378, §2(51), Oct. 2, 1992, 106 Stat. 1353; Pub. L. 103–89, §3(b)(1)(M), Sept. 30, 1993, 107 Stat. 982; Pub. L. 103–114, §§1(a)(1), 2(a), Oct. 26, 1993, 107 Stat. 1115, 1116; Pub. L. 105–61, title V, §517(a), Oct. 10, 1997, 111 Stat. 1307; Pub. L. 105–266, §7(a), Oct. 19, 1998, 112 Stat. 2369.)
-
-#### Repeal of Section
-
-<i>For repeal of section by section 3 of Pub. L. 95–603, see Effective Date of Repeal note set out below.</i>
+(Added Pub. L. 95–603, §2(a), Nov. 6, 1978, 92 Stat. 3018; amended Pub. L. 96–166, §2, Dec. 29, 1979, 93 Stat. 1273; Pub. L. 97–141, §2, Dec. 29, 1981, 95 Stat. 1719; Pub. L. 98–168, title I, §102(a), Nov. 29, 1983, 97 Stat. 1105; Pub. L. 98–615, title II, §204(a)(3), Nov. 8, 1984, 98 Stat. 3216; Pub. L. 100–140, §1, Oct. 26, 1987, 101 Stat. 830; Pub. L. 101–420, §1(a), formerly §1, Oct. 12, 1990, 104 Stat. 908, renumbered §1(a), Pub. L. 103–114, §1(b)(2)(A), Oct. 26, 1993, 107 Stat. 1115; Pub. L. 102–378, §2(51), Oct. 2, 1992, 106 Stat. 1353; Pub. L. 103–89, §3(b)(1)(M), Sept. 30, 1993, 107 Stat. 982; Pub. L. 103–114, §§1(a)(1), 2(a), Oct. 26, 1993, 107 Stat. 1115, 1116; Pub. L. 105–61, title V, §517(a), Oct. 10, 1997, 111 Stat. 1307; Pub. L. 105–266, §7(a), Oct. 19, 1998, 112 Stat. 2369; Pub. L. 106–554, §1(a)(1) \[title II, §218(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–28; Pub. L. 106–571, §§2(a)(1), (b), 3(d), Dec. 28, 2000, 114 Stat. 3054, 3057.)
 
 #### References in Text
 
@@ -97,6 +87,18 @@ Section 1202 of the Panama Canal Act of 1979, referred to in subsec. (g)(1)(G), 
 Section 2 of the Act of May 29, 1959 (Public Law 86–36, as amended, 50 U.S.C. 402 note), referred to in subsec. (g)(1)(H), was repealed by Pub. L. 104–201, div. A, title XVI, §1633(b)(1), Sept. 23, 1996, 110 Stat. 2751.
 
 #### Amendments
+
+2000—Subsec. (d). Pub. L. 106–571, §2(a)(1), struck out second sentence which read as follows: “No agreementshall be entered into under this section later than September 30, 2005, nor shall any agreement cover a period of service extending beyond September 30, 2007.”
+
+Pub. L. 106–554 amended second sentence generally. Prior to amendment, second sentence read as follows: “No agreement shall be entered into under this section later than September 30, 2000, nor shall any agreement cover a period of service extending beyond September 30, 2002.”
+
+Subsec. (h)(1). Pub. L. 106–571, §3(d), substituted “chapter 81 or 87” for “chapter 81, 83, or 87”.
+
+Subsec. (j). Pub. L. 106–571, §2(b), in par. (1), substituted “(j)” for “(j)(1)”, redesignated subpars. (A) to (E) as pars. (1) to (5), respectively, in par. (5), substituted “paragraph (2)” for “subparagraph (B)”, and struck out former par. (2) which read as follows: “In addition to the information required under paragraph (1), the last report due under this subsection before the expiration of the authority to enter into agreements under this section shall include—
+
+&emsp;“(A) recommendations as to whether or not such authority should be continued beyond September 30, 2000, and, if so, by what period of time; and
+
+&emsp;“(B) the reasons for those recommendations.”
 
 1998—Subsec. (a)(2). Pub. L. 105–266 substituted “$30,000” for “$20,000”.
 
@@ -156,11 +158,11 @@ Section 205 of Pub. L. 98–615 provided that amendment by Pub. L. 98–615 was 
 
 #### Effective Date of Repeal
 
-Section 3 of Pub. L. 95–603, as amended by Pub. L. 96–166, §4, Dec. 29, 1979, 93 Stat. 1273; Pub. L. 97–141, §3, Dec. 29, 1981, 95 Stat. 1719; Pub. L. 98–168, title I, §102(b), Nov. 29, 1983, 97 Stat. 1105; Pub. L. 100–140, §1(c), as added Pub. L. 103–114, §1(b)(1), Oct. 26, 1993, 107 Stat. 1115; Pub. L. 101–420, §1(b), as added Pub. L. 103–114, §1(b)(2)(B), Oct. 26, 1993, 107 Stat. 1115; Pub. L. 103–114, §1(a)(2), Oct. 26, 1993, 107 Stat. 1115; Pub. L. 105–61, title V, §517(b), Oct. 10, 1997, 111 Stat. 1307, provided that: “The amendments made by this Act \[enacting this section\] are repealed, unless specifically extended by Act of Congress, effective on September 30, 2002.”
+Section 3 of Pub. L. 95–603, as amended by Pub. L. 96–166, §4, Dec. 29, 1979, 93 Stat. 1273; Pub. L. 97–141, §3, Dec. 29, 1981, 95 Stat. 1719; Pub. L. 98–168, title I, §102(b), Nov. 29, 1983, 97 Stat. 1105; Pub. L. 100–140, §1(c), as added Pub. L. 103–114, §1(b)(1), Oct. 26, 1993, 107 Stat. 1115; Pub. L. 101–420, §1(b), as added Pub. L. 103–114, §1(b)(2)(B), Oct. 26, 1993, 107 Stat. 1115; Pub. L. 103–114, §1(a)(2), Oct. 26, 1993, 107 Stat. 1115; Pub. L. 105–61, title V, §517(b), Oct. 10, 1997, 111 Stat. 1307; Pub. L. 106–554, §1(a)(1) \[title II, §218(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–28, which provided that this section would be repealed, unless specifically extended by Act of Congress, effective on Sept. 30, 2007, was repealed by Pub. L. 106–571, §2(a)(2), Dec. 28, 2000, 114 Stat. 3054.
 
-\[Section 1(b)(1) of Pub. L. 103–114 provided that amendment by that section \[adding subsec. (c) to section 1 of Pub. L. 100–140, which amended section 3 of Pub. L. 95–603, set out above\] is effective as of Oct. 27, 1987.\]
+#### Short Title of 2000 Amendment
 
-\[Section 1(b)(2) of Pub. L. 103–114 provided that amendment by that section \[adding subsec. (b) to section 1 of Pub. L. 101–420, which amended section 3 of Pub. L. 95–603, set out above\] is effective as of Oct. 13, 1990.\]
+Pub. L. 106–571, §1, Dec. 28, 2000, 114 Stat. 3054, provided that: “This Act \[amending this section and sections 8331, 8339, 8401, and 8415 of this title\] may be cited as the ‘Federal Physicians Comparability Allowance Amendments of 2000’.”
 
 #### Short Title of 1983 Amendment
 
@@ -242,5 +244,5 @@ Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 5307 of this title; title 24 section 225e; title 42 section 1395b–6.
+This section is referred to in sections 5307, 8331, 8401 of this title; title 24 section 225e; title 42 section 1395b–6.
 

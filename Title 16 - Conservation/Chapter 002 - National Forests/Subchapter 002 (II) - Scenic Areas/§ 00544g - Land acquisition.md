@@ -30,13 +30,13 @@ In exercising authority to acquire lands pursuant to this section the Secretary 
 
 #### (d) Land exchanges
 
-(1) The Secretary is authorized and directed, in conformance with the provisions of this subsection, to acquire by exchange any parcel of unimproved forest land at least forty acres in size within the boundaries of the special management areas which is owned by any private forest land owner if, after November 17, 1986, but within one hundred and eighty days after final adoption of the management plan, such private forest land owner offers to the United States such parcel of forest land.
+(1) The Secretary is authorized and directed, in conformance with the provisions of this subsection, to acquire by exchange any parcel of unimproved forest land at least forty acres in size within the boundaries of the special management areas which is owned by any private forest land owner if, after November 17, 1986, butwithin one hundred and eighty days after final adoption of the management plan, such private forest land owner offers to the United States such parcel of forest land.
 
 (2) In exercising this authority to acquire forest lands pursuant to this subsection, the Secretary may accept title to such lands and convey to the owner federally owned lands deemed appropriate by the Secretary within the States of Oregon and Washington, regardless of the State in which the transferred lands are located. Forest lands exchanged pursuant to this subsection shall be of approximately equal value: <i>Provided</i>, That the Secretary may accept cash from or pay cash to the grantor in such an exchange in order to equalize minor differences in the values of the properties exchanged: <i>Provided further</i>, That the Secretary may reserve in any conveyance pursuant to this subsection such easements, subsurface rights, and any other interests in land deemed necessary or desirable: <i>Provided further</i>, That the valuation of lands exchanged shall be determined in terms of forest uses for timber.
 
 (3) It is the intention of Congress that land exchanges pursuant to this subsection shall be completed no later than five years after November 17, 1986.
 
-(4) In the event that exchanges authorized by this section leave any private forest land ownerwith ownership of an uneconomic remnant of forest land contiguous to a special management area, the Secretary is authorized to acquire such forest lands as if they were within the boundaries of a special management area.
+(4) In the event that exchanges authorized by this section leave any private forest land owner with ownership of an uneconomic remnant of forest land contiguous to a special management area, the Secretary is authorized to acquire such forest lands as if they were within the boundaries of a special management area.
 
 (5) The following-described Federal lands and interests therein are hereby identified as candidate lands for exchanges conducted pursuant to this section: <i>Provided</i>, That the determination of which candidate lands will be exchanged, and in what sequence, shall be at the discretion of the Secretary. Subject to valid existing rights, such lands are hereby withdrawn from all forms of entry or appropriation or disposal under the public land laws, and from location, entry, and patent under the United States mining law, and from disposition under all laws pertaining to mineral and geothermal leasing and all amendments thereto until the Secretary determines such lands are no longer needed to complete exchanges authorized by this section: <i>Provided</i>, That such period shall not extend beyond five years:
 
@@ -156,25 +156,83 @@ Zig-Zag Area
 | Approx. 280 acres. |  |  |
 | Total acreage: 29,743. |  |  |
 
-#### (e) Boundaries
+#### (e) Appraisals
+
+#### (1) Definition of landowner
+
+&emsp;In this subsection, the term “landowner” means the owner of legal or equitable title as of September 1, 2000.
+
+#### (2) Appraisal standards
+
+&emsp;Except as provided in paragraph (3), land acquired or conveyed by purchase or exchange under this section shall be appraised in conformity with the Uniform Appraisal Standards for Federal Land Acquisitions.
+
+#### (3) Special management areas
+
+#### (A) Before April 1, 2001
+
+&emsp;&emsp;Land within a special management area for which the landowner, before April 1, 2001, makes a written bona fide offer to convey to the Secretary for fair market value shall be appraised—
+
+&emsp;&emsp;&emsp;(i) without regard to the effect of any zoning or land use restriction made in response to sections 544 to 544p of this title; but
+
+&emsp;&emsp;&emsp;(ii) subject to any other current zoning or land use restriction imposed by the State or locality in which the land is located on the date of the offer.
+
+#### (B) On or after April 1, 2001
+
+&emsp;&emsp;Land within a special management area for which the landowner, on or after April 1, 2001, makes a written bona fide offer to convey to the Secretary for fair market value shall be appraised subject to—
+
+&emsp;&emsp;&emsp;(i) any zoning or land use restriction made in response to sections 544 to 544p of this title; and
+
+&emsp;&emsp;&emsp;(ii) any other current zoning or land use restriction that applies to the land on the date of the offer.
+
+#### (f) Authorization for certain land exchanges
+
+#### (1) In general
+
+&emsp;To facilitate priority land exchanges through which land within the boundaries of the White Salmon Wild and Scenic River or within the scenic area is conveyed to the United States, the Secretary may accept title to such land as the Secretary determines to be appropriate within the States, regardless of the State in which the land conveyed by the Secretary in exchange is located, in accordance with land exchange authorities available to the Secretary under applicable law.
+
+#### (2) Special rule for land certain exchanges
+
+&emsp;Notwithstanding any other provision of law—
+
+&emsp;&emsp;(A) any exchange described in paragraph (1) for which an agreement to initiate has been executed as of September 30, 2000, shall continue; and
+
+&emsp;&emsp;(B) any timber stumpage proceeds collected under the exchange shall be retained by the Forest Service to complete the exchange.
+
+#### (g) Boundaries
 
 For the purposes of section 460<i>l</i>–9 of this title, the boundaries of the scenic area, including special management areas and the Dodson/Warrendale Special Purchase Unit shall be treated as if they were within the boundaries of the Mount Hood or Gifford Pinchot National Forests as of January 1, 1965.
 
-(Pub. L. 99–663, §9, Nov. 17, 1986, 100 Stat. 4287; Pub. L. 104–66, title I, §1011(n), Dec. 21, 1995, 109 Stat. 710.)
+(Pub. L. 99–663, §9, Nov. 17, 1986, 100 Stat. 4287; Pub. L. 104–66, title I, §1011(n), Dec. 21, 1995, 109 Stat. 710; Pub. L. 106–291, title III, §346(a), Oct. 11, 2000, 114 Stat. 999.)
 
 #### References in Text
 
 The public land laws, referred to in subsec. (d)(5), are classified generally to Title 43, Public Lands.
 
-The United States mining law, referred to in subsec. (d)(5), is classified generally to Title 30, Mineral Lands and Mining.
-
-Laws pertaining to mineral leasing, referred to in subsec. (d)(5), have been defined in sections 351, 505, 530, and 541e of Title 30 to mean acts Oct. 20, 1914, ch. 330, 38 Stat. 741; Feb. 25, 1920, ch. 85, 41 Stat. 437; Apr. 17, 1926, ch. 158, 44 Stat. 301; and Feb. 7, 1927, ch. 66, 44 Stat. 1057. The act of Oct. 20, 1914, was repealed by Pub. L. 86–252, §1, Sept. 9, 1959, 73 Stat. 490. The act of Feb. 25, 1920, is popularly known as the Mineral Lands Leasing Act and is classified principally to chapter 3A (§181 et seq.) of Title 30. The act of Apr. 17, 1926, is classified generally to subchapter VIII (§271 et seq.) of chapter 3A of Title 30. The act of Feb. 7, 1927, is classified principally to subchapter IX (§281 et seq.) of chapter 3A of Title 30. For complete classification of these Acts to the Code, see Tables.
+The United States mining law and the laws pertaining to mineral leasing, referred to in subsec. (d)(5), are classified generally to Title 30, Mineral Lands and Mining.
 
 Laws pertaining to geothermal leasing, referred to in subsec. (d)(5), are classified principally to chapter 23 (§1001 et seq.) of Title 30.
 
 #### Amendments
 
+2000—Subsecs. (e) to (g). Pub. L. 106–291 added subsecs. (e) and (f) and redesignated former subsec. (e) as (g).
+
 1995—Subsec. (d)(3). Pub. L. 104–66 struck out provision at end requiring Secretary to report to Congress on status of negotiations with owners of non-Federal lands regarding land exchanges.
+
+#### Publication of Notice
+
+Pub. L. 106–291, title III, §346(c), Oct. 11, 2000, 114 Stat. 1000, provided that:
+
+“(1) Not later than November 1, 2000, the Secretary of Agriculture shall provide notice of the provisions contained in the amendments made by subsections (a) and (b) \[amending this section and section 544f of this title\] through—
+
+&emsp;“(A) publication of a notice in the Federal Register and in newspapers of general circulation in the counties in the Columbia River Gorge National Scenic Area; and
+
+&emsp;“(B) posting of a notice in each facility of the United States Postal Service located in those counties.
+
+“(2) If the counties wherein special management areas are located provide the Forest Service administrator of the Columbia River Gorge National Scenic Area lists of the names and addresses of landowners within the special management areas as of September 1, 2000, the Forest Service shall send to such names and addresses by certified first class mail notice of the provisions contained in the amendments made by subsections (a) and (b);
+
+&emsp;“(A) The mailing shall occur within twenty working days of the receipt of the list; and
+
+&emsp;“(B) The mailing shall constitute constructive notice to landowners, and proof of receipt by the addressee shall not be required.”
 
 #### Conveyance of Lands Between Skamania County and the United States
 

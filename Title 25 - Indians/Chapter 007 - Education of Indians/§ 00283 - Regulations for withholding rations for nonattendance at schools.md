@@ -6,7 +6,3 @@ The amount and value of subsistence so withheld shall be credited to the tribe o
 
 (Mar. 3, 1893, ch. 209, §1, 27 Stat. 628, 635.)
 
-#### Cross References
-
-Withholding annuities from Osage Indians for nonattendance at schools, see section 285 of this title.
-

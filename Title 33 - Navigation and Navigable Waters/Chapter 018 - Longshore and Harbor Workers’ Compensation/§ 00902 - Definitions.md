@@ -26,7 +26,7 @@ When used in this chapter—
 
 > &emsp;if individuals described in clauses (A) through (F) are subject to coverage under a State workers’ compensation law.
 
-&emsp;(4) The term “employer” means an employer any of whose employees are employed in maritime employment, in whole or in part, upon the navigable waters of the United States (including any adjoining pier, wharf, dry dock, terminal, building way, marine railway, or other adjoining area customarily used by an employer in loading, unloading, repairing, or building a vessel).
+&emsp;(4) The term “employer” means an employer any of whose employees are employed in maritime employment, in whole or in part, uponthe navigable waters of the United States (including any adjoining pier, wharf, dry dock, terminal, building way, marine railway, or other adjoining area customarily used by an employer in loading, unloading, repairing, or building a vessel).
 
 &emsp;(5) The term “carrier” means any person or fund authorized under section 932 of this title to insure under this chapter and includes self-insurers.
 
@@ -64,7 +64,7 @@ When used in this chapter—
 
 &emsp;&emsp;(D) an additional type of educational or training institution as defined by the Secretary,
 
-> &emsp;but not after he reaches the age of twenty-three or has completed four years of educationbeyond the high school level, except that, where his twenty-third birthday occurs during a semester or other enrollment period, he shall continue to be considered a student until the end of such semester or other enrollment period. A child shall not be deemed to have ceased to be a student during any interim between school years if the interim does not exceed five months and if he shows to the satisfaction of the Secretary that he has a bona fide intention of continuing to pursue a full-time course of education or training during the semester or other enrollment period immediately following the interim or during periods of reasonable duration during which, in the judgment of the Secretary, he is prevented by factors beyond his control from pursuing his education. A child shall not be deemed to be a student under this chapter during a period of service in the Armed Forces of the United States.
+> &emsp;but not after he reaches the age of twenty-three or has completed four years of education beyond the high school level, except that, where his twenty-third birthday occurs during a semester or other enrollment period, he shall continue to be considered a student until the end of such semester or other enrollment period. A child shall not be deemed to have ceased to be a student during any interim between school years if the interim does not exceed five months and if he shows to the satisfaction of the Secretary that he has a bona fide intention of continuing to pursue a full-time course of education or training during the semester or other enrollment period immediately following the interim or during periods of reasonable duration during which, in the judgment of the Secretary, he is prevented by factors beyond his control from pursuing his education. A child shall not be deemed to be a student under this chapter during a period of service in the Armed Forces of the United States.
 
 &emsp;(19) The term “national average weekly wage” means the national average weekly earnings of production or nonsupervisory workers on private nonagricultural payrolls.
 
@@ -116,7 +116,7 @@ Par. (22). Pub. L. 92–576, §§3(a), 5(b), 15(c), 18(b), 20(c)(1), redesignate
 
 #### Effective Date of 1984 Amendment
 
-Amendment by sections 2(a) and 5(a)(2) of Pub. L. 98–426 applicable with respect to any injury after Sept. 28, 1984, amendment by section 2(b) of Pub. L. 98–426 effective Sept. 28, 1984, and applicable both with respect to claims filed after such date and to claims pending as of such date, and amendment by sections 2(c) and27(a)(1) of Pub. L. 98–426 effective Sept. 28, 1984, see section 28(a), (c), (e)(1) of Pub. L. 98–426, set out as a note under section 901 of this title.
+Amendment by sections 2(a) and 5(a)(2) of Pub. L. 98–426 applicable with respect to any injury after Sept. 28, 1984, amendment by section 2(b) of Pub. L. 98–426 effective Sept. 28, 1984, and applicable both with respect to claims filed after such date and to claims pending as of such date, and amendment by sections 2(c) and 27(a)(1) of Pub. L. 98–426 effective Sept. 28, 1984, see section 28(a), (c), (e)(1) of Pub. L. 98–426, set out as a note under section 901 of this title.
 
 #### Effective Date of 1972 Amendment
 
@@ -126,11 +126,7 @@ Section 22 of Pub. L. 92–576 provided that: “The amendments made by this Act
 
 #### Transfer of Functions
 
-Prior to the amendment of this chapter by Pub. L. 98–426 the word “Secretary” meaning the Secretary of Labor had been substituted for the word “commission” meaning the United States Employees’ Compensation Commission throughout this chapter even when not expressly so directed by statute in view of the transfer of the functions of the commission first to the Federal Security Administrator by Reorg. Plan No. 2 of 1946, §3, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095, and later to the Secretary of Labor by Reorg. Plan No. 19 of 1950, §1, eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1271. Where such substitution had thus been made the statutory substitution of terms by Pub. L. 98–426 required no change in text.
-
-#### Cross References
-
-Employees of nonappropriation fund instrumentalities of armed services, see section 8171 et seq. of Title 5, Government Organization and Employees.
+Prior to the amendment of this chapter by Pub. L. 98–426 the word “Secretary” meaning the Secretary of Labor had been substituted for the word “commission” meaning the United States Employees’ Compensation Commission throughout this chapter even when not expressly so directed by statute in view of the transfer of the functions of the commission first to the Federal Security Administrator by Reorg. Plan No. 2 of 1946, §3, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095, and later tothe Secretary of Labor by Reorg. Plan No. 19 of 1950, §1, eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1271. Where such substitution had thus been made the statutory substitution of terms by Pub. L. 98–426 required no change in text.
 
 #### Section Referred to in Other Sections
 

@@ -24,11 +24,15 @@ Exclusions.—The scenic area shall not include the approximately 29 acres of la
 
 (1) The following areas within the boundaries of the scenic area are hereby designated “Special Management Areas”: Gates of the Columbia River Gorge; Wind Mountain; Burdoin Mountain; and Rowena.
 
-(2) The boundaries of the special management areas designated in this section—
+(2) The boundaries of the special management areas designated by paragraph (1)—
 
 &emsp;(A) shall be generally depicted on the map entitled “Special Management Areas, Columbia River Gorge National Scenic Area”, numbered SMA–002 sheets 1 through 17, and dated September 1986, which shall be on file and available for public inspection in the offices of the Commission and of the Chief, Forest Service; and
 
 &emsp;(B) shall include all islands within the boundaries of the scenic area.
+
+(3)
+
+Modification of boundaries.—The boundaries of the special management areas are modified as depicted on a map dated September 20, 2000, which shall be on file and available for public inspection in the office of the Chief of the Forest Service in Washington, District of Columbia, and copies shall be available in the office of the Commission, and the headquarters of the scenic area.
 
 #### (c) Revision of special management area boundaries
 
@@ -60,13 +64,17 @@ The Secretary, in consultation with the Commission, may make minor revisions in 
 
 &emsp;(D) revision of urban area boundaries would not result in the significant reduction of agricultural lands, forest lands, or open spaces.
 
-(Pub. L. 99–663, §4, Nov. 17, 1986, 100 Stat. 4276; Pub. L. 103–437, §6(d)(34), Nov. 2, 1994, 108 Stat. 4585; Pub. L. 105–277, div. A, §101(e) \[title III, §354(a)\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–303; Pub. L. 106–31, title V, §5004(3), May 21, 1999, 113 Stat. 110.)
+(Pub. L. 99–663, §4, Nov. 17, 1986, 100 Stat. 4276; Pub. L. 103–437, §6(d)(34), Nov. 2, 1994, 108 Stat. 4585; Pub. L. 105–277, div. A, §101(e) \[title III, §354(a)\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–303; Pub. L. 106–31, title V, §5004(3), May 21, 1999, 113 Stat. 110; Pub. L. 106–291, title III, §346(d), Oct. 11, 2000, 114 Stat. 1000.)
 
 #### References in Text
 
 The Second Supplemental Appropriations Act, 1984, referred to in subsec. (a)(2)(B)(i), is Pub. L. 98–396, Aug. 22, 1984, 98 Stat. 1369. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+
+2000—Subsec. (b)(2). Pub. L. 106–291, §346(d)(1), substituted “by paragraph (1)” for “in this section” in introductory provisions.
+
+Subsec. (b)(3). Pub. L. 106–291, §346(d)(2), which directed amendment of subsec. (b)(2) by adding at the end a par. (3), was executed by adding par. (3) after subsec. (b)(2), to reflect the probable intent of Congress.
 
 1999—Subsec. (a)(2). Pub. L. 106–31 made technical correction to directory language of Pub. L. 105–277. See 1998 Amendment note below.
 

@@ -2,7 +2,7 @@
 
 #### (a) Public benefit
 
-Congress declares that, if a facility constructed with the aid of a grant under part A of subchapter VII of this chapter as such part A was in effect prior to October 7, 1998, or part B of such subchapter as part B was in effect prior to July 23, 1992, is used as an academic facility for 20 years following completion of such construction, the public benefit accruing to the United States will equal in value the amount of the grant. The period of 20 years after completion of such construction shall therefore bedeemed to be the period of Federal interest in such facility for the purposes of such subchapter as so in effect.
+Congress declares that, if a facility constructed with the aid of a grant under part A of subchapter VII of this chapter as such part A was in effect prior to October 7, 1998, or part B of such subchapter as part B was in effect prior to July 23, 1992, is used as an academic facility for 20 years following completion of such construction, the public benefit accruing to the United States will equal in value the amount of the grant. The period of 20 years after completion of such construction shall therefore be deemed to be the period of Federal interest in such facility for the purposes of such subchapter as so in effect.
 
 #### (b) Recovery upon cessation of public benefit
 
@@ -22,7 +22,7 @@ Notwithstanding the provisions of subsections (a) and (b) of this section, no pr
 
 #### References in Text
 
-Subchapter VII of this chapter, referred to in text, was amended, effective Oct. 1, 1992, by Pub. L. 102–325, title VII, §§703–707(a), July 23, 1992, 106 Stat. 738–753, by amending parts A to C generally, repealing part D, and redesignating former part E as D, and was further amended generally, effective Oct. 1, 1998, by Pub. L. 105–244, title VII, §701, Oct. 7, 1998, 112 Stat. 1786, by substituting provisions relating to graduate and post-secondary improvement programs for former provisions relating to construction, reconstruction, and renovation of academic facilities.
+Subchapter VII of this chapter, referred to in text, was amended, effective Oct. 1, 1992, by Pub. L. 102–325, title VII, §§703–707(a), July 23, 1992, 106 Stat. 738–753, by amending parts A to C generally, repealing part D, andredesignating former part E as D, and was further amended generally, effective Oct. 1, 1998, by Pub. L. 105–244, title VII, §701, Oct. 7, 1998, 112 Stat. 1786, by substituting provisions relating to graduate and post-secondary improvement programs for former provisions relating to construction, reconstruction, and renovation of academic facilities.
 
 #### Prior Provisions
 

@@ -123,6 +123,12 @@
 | [185a.](%C2%A7%2000185a%20-%20Senate%20Garage%3B%20control%2C%20supervision%2C%20servicing%20of%20official%20motor%20vehicles.md) | Senate Garage; control, supervision, servicing of official motor vehicles. |
 | [186\.](%C2%A7%2000186%20-%20Transfer%20of%20material%20and%20equipment%20to%20Architect.md) | Transfer of material and equipment to Architect. |
 | [187\.](%C2%A7%2000187%20-%20National%20Statuary%20Hall.md) | National Statuary Hall. |
+| [187a.](%C2%A7%2000187a%20-%20Replacement%20of%20statue%20in%20Statuary%20Hall.md) | Replacement of statue in Statuary Hall. |
+| (a) | Request by State. |
+| (b) | Agreement upon approval. |
+| (c) | Limitation on number of State statues. |
+| (d) | Ownership of replaced statue; removal. |
+| (e) | Relocation of statues. |
 | [188\.](%C2%A7%2000188%20-%20Works%20of%20fine%20arts.md) | Works of fine arts. |
 | [188a.](%C2%A7%2000188a%20-%20United%20States%20Capitol%20Preservation%20Commission.md) | United States Capitol Preservation Commission. |
 | (a) | Establishment and purposes. |
@@ -207,6 +213,14 @@
 | [206\.](%C2%A7%2000206%20-%20Capitol%20Police%3B%20appointment%3B%20Chief%20of%20the%20Capitol%20Police.md) | Capitol Police; appointment; Chief of the Capitol Police. |
 | 206–1. | Capitol Police; compensation of Chief. |
 | 206a to 206a–8. Omitted. |  |
+| 206a–9. | Chief Administrative Officer. |
+| (a) | In general. |
+| (b) | Responsibilities. |
+| (c) | Administrative provisions. |
+| (d) | Plan. |
+| (e) | Report. |
+| (f) | Submission to Committees. |
+| (g) | Termination of role. |
 | [206b.](%C2%A7%2000206b%20-%20Emergency%20duty%20overtime%20pay%20for%20Capitol%20Police%20from%20funds%20disbursed%20by%20the%20Chief%20Administrative%20Officer%20of%20the%20House%20of%20Representatives.md) | Emergency duty overtime pay for Capitol Police from funds disbursed by the Chief Administrative Officer of the House of Representatives. |
 | (a) | Entitlement of officer or member. |
 | (b) | Determination of rate of compensation. |
@@ -229,6 +243,10 @@
 | (b) | Treatment of payments from Fund. |
 | (c) | Exemption. |
 | 207c–3. | Administration by Capitol Police Board. |
+| [207d.](%C2%A7%2000207d%20-%20Certifying%20officers%20of%20Capitol%20Police.md) | Certifying officers of Capitol Police. |
+| (a) | Appointment of certifying officers of the Capitol Police. |
+| (b) | Responsibility and accountability of certifying officers. |
+| (c) | Enforcement of liability. |
 | [208\.](%C2%A7%2000208%20-%20Suspension%20of%20Capitol%20Police%20members.md) | Suspension of Capitol Police members. |
 | [209\.](%C2%A7%2000209%20-%20Pay%20of%20Capitol%20Police%20members%20under%20suspension.md) | Pay of Capitol Police members under suspension. |
 | [210\.](%C2%A7%2000210%20-%20Uniform%2C%20belts%20and%20arms%3B%20Capitol%20Police.md) | Uniform, belts and arms; Capitol Police. |
@@ -310,14 +328,6 @@
 | [224\.](%C2%A7%2000224%20-%20Transportation%20of%20House%20Pages%20by%20Capitol%20Grounds%20shuttle%20service.md) | Transportation of House Pages by Capitol Grounds shuttle service. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Cross References
-
-Operation of buildings and related activities by Administrator of General Services, general powers and duties, see section 490 of this title.
-
-Reorganization of Executive Agencies, see Executive Order No. 6166, §§1, 2, promulgated June 10, 1933, set out as a note under section 901 of Title 5, Government Organization and Employees.
-
-Right of action for death or personal injury within national park or other place under exclusive jurisdiction of United States or governed by State laws, see section 457 of Title 16, Conservation.
 
 
 ---
@@ -408,6 +418,7 @@ Right of action for death or personal injury within national park or other place
 - [&sect; 00185a - Senate Garage; control, supervision, servicing of official motor vehicles](%C2%A7%2000185a%20-%20Senate%20Garage%3B%20control%2C%20supervision%2C%20servicing%20of%20official%20motor%20vehicles.md)
 - [&sect; 00186 - Transfer of material and equipment to Architect](%C2%A7%2000186%20-%20Transfer%20of%20material%20and%20equipment%20to%20Architect.md)
 - [&sect; 00187 - National Statuary Hall](%C2%A7%2000187%20-%20National%20Statuary%20Hall.md)
+- [&sect; 00187a - Replacement of statue in Statuary Hall](%C2%A7%2000187a%20-%20Replacement%20of%20statue%20in%20Statuary%20Hall.md)
 - [&sect; 00188 - Works of fine arts](%C2%A7%2000188%20-%20Works%20of%20fine%20arts.md)
 - [&sect; 00188a - United States Capitol Preservation Commission](%C2%A7%2000188a%20-%20United%20States%20Capitol%20Preservation%20Commission.md)
 - [&sect; 00188a&#8211;1 - Authority of Commission to accept gifts and conduct other transactions relating to works of fine art and other property](%C2%A7%2000188a%E2%80%931%20-%20Authority%20of%20Commission%20to%20accept%20gifts%20and%20conduct%20other%20transactions%20relating%20to%20works%20of%20fine%20art%20and%20other%20property.md)
@@ -460,6 +471,7 @@ Right of action for death or personal injury within national park or other place
 - [&sect; 00206 - Capitol Police; appointment; Chief of the Capitol Police](%C2%A7%2000206%20-%20Capitol%20Police%3B%20appointment%3B%20Chief%20of%20the%20Capitol%20Police.md)
 - [&sect; 00206&#8211;1 - Capitol Police; compensation of Chief](%C2%A7%2000206%E2%80%931%20-%20Capitol%20Police%3B%20compensation%20of%20Chief.md)
 - [&sect; 00206a to 206a&#8211;8 - Omitted](%C2%A7%2000206a%20to%20206a%E2%80%938%20-%20Omitted.md)
+- [&sect; 00206a&#8211;9 - Chief Administrative Officer](%C2%A7%2000206a%E2%80%939%20-%20Chief%20Administrative%20Officer.md)
 - [&sect; 00206b - Emergency duty overtime pay for Capitol Police from funds disbursed by the Chief Administrative Officer of the House of Representatives](%C2%A7%2000206b%20-%20Emergency%20duty%20overtime%20pay%20for%20Capitol%20Police%20from%20funds%20disbursed%20by%20the%20Chief%20Administrative%20Officer%20of%20the%20House%20of%20Representatives.md)
 - [&sect; 00206c - Emergency duty overtime pay for Capitol Police from funds disbursed by Secretary of the Senate; compensatory time off in place of&#8230;](%C2%A7%2000206c%20-%20Emergency%20duty%20overtime%20pay%20for%20Capitol%20Police%20from%20funds%20disbursed%20by%20Secretary%20of%20the%20Senate%3B%20compensatory%20time%20off%20in%20place%20of%E2%80%A6.md)
 - [&sect; 00207 - Payment of Capitol Police](%C2%A7%2000207%20-%20Payment%20of%20Capitol%20Police.md)
@@ -469,6 +481,7 @@ Right of action for death or personal injury within national park or other place
 - [&sect; 00207c&#8211;1 - Payments from Fund for families of Detective Gibson and Private First Class Chestnut](%C2%A7%2000207c%E2%80%931%20-%20Payments%20from%20Fund%20for%20families%20of%20Detective%20Gibson%20and%20Private%20First%20Class%20Chestnut.md)
 - [&sect; 00207c&#8211;2 - Tax treatment of Fund](%C2%A7%2000207c%E2%80%932%20-%20Tax%20treatment%20of%20Fund.md)
 - [&sect; 00207c&#8211;3 - Administration by Capitol Police Board](%C2%A7%2000207c%E2%80%933%20-%20Administration%20by%20Capitol%20Police%20Board.md)
+- [&sect; 00207d - Certifying officers of Capitol Police](%C2%A7%2000207d%20-%20Certifying%20officers%20of%20Capitol%20Police.md)
 - [&sect; 00208 - Suspension of Capitol Police members](%C2%A7%2000208%20-%20Suspension%20of%20Capitol%20Police%20members.md)
 - [&sect; 00209 - Pay of Capitol Police members under suspension](%C2%A7%2000209%20-%20Pay%20of%20Capitol%20Police%20members%20under%20suspension.md)
 - [&sect; 00210 - Uniform, belts and arms; Capitol Police](%C2%A7%2000210%20-%20Uniform%2C%20belts%20and%20arms%3B%20Capitol%20Police.md)

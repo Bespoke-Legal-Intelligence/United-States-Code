@@ -26,7 +26,7 @@ As soon as practicable after the end of every 3 fiscal years, the Secretary shal
 
 #### (f) Utilization of capabilities of Department of Commerce
 
-In executing his responsibilities under this section, the Secretary shall, to the maximum extent practicable, enter into appropriate arrangements to utilize on a reimbursable basisthe capabilities of the Department of Commerce. In carrying out such arrangements, the Secretary of Commerce is authorized to enter into contracts or grants with any person, organization, or entity with funds appropriated to the Secretary of the Interior pursuant to this subchapter.
+In executing his responsibilities under this section, the Secretary shall, to the maximum extent practicable, enter into appropriate arrangements to utilize on a reimbursable basis the capabilities of the Department of Commerce. In carrying out such arrangements, the Secretary of Commerce is authorized to enter into contracts or grants with any person, organization, or entity with funds appropriated to the Secretary of the Interior pursuant to this subchapter.
 
 (Aug. 7, 1953, ch. 345, §20, as added Pub. L. 95–372, title II, §208, Sept. 18, 1978, 92 Stat. 653; amended Pub. L. 103–426, §1(b), Oct. 31, 1994, 108 Stat. 4371; Pub. L. 104–66, title I, §1082(b), Dec. 21, 1995, 109 Stat. 722.)
 
@@ -37,4 +37,8 @@ In executing his responsibilities under this section, the Secretary shall, to th
 1994—Subsec. (a)(1). Pub. L. 103–426, §1(b)(1), inserted “or other lease” after “any oil and gas lease sale” and “or other mineral” after “affected by oil and gas”.
 
 Subsec. (a)(2). Pub. L. 103–426, §1(b)(2), inserted before last sentence “In the case of an agreement under section 1337(k)(2) of this title, each study required by paragraph (1) of this subsection shall be commenced not later than 6 months prior to commencing negotiations for such agreement or the entering into the memorandum of agreement as the case may be.”
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the 15th item on page 111 identifies a reporting provision which, as subsequently amended, is contained in subsec. (e) of this section), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 

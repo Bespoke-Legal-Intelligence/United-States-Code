@@ -34,22 +34,6 @@ Section 323 of the Nationality Act of 1940, referred to in subsec. (c), which wa
 
 1990—Subsec. (a). Pub. L. 101–649 substituted “the Attorney General or before a court described in section 1421(b) of this title” for “any naturalization court specified in section 1421(a) of this title” and inserted “and by the Attorney General to the Secretary of State” before period at end.
 
-#### Cross References
-
-Definition of the term—
-
-&emsp;&emsp;Lawfully admitted for permanent residence, see section 1101(a)(20) of this title.
-
-&emsp;&emsp;Naturalization, see section 1101(a)(23) of this title.
-
-&emsp;&emsp;Person of good moral character, see section 1101(f) of this title.
-
-&emsp;&emsp;Residence, see section 1101(a)(33) of this title.
-
-&emsp;&emsp;United States, see section 1101(a)(38) of this title.
-
-Former citizens regaining citizenship, see section 1435 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1101 of this title.

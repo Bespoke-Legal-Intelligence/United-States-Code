@@ -20,7 +20,7 @@ The assistance made available under this section may be used for the housing pur
 
 #### (c) Eligibility
 
-Notwithstanding any other provision of this subchapter, assistance allocated under this section shall be available to units of general local government and their agencies and to local nonprofit organizations, agencies, and corporationsfor the construction or rehabilitation of housing for agricultural employees and their families.
+Notwithstanding any other provision of this subchapter, assistance allocated under this section shall be available to units of general local government and their agencies and to local nonprofit organizations, agencies, and corporations for the construction or rehabilitation of housing for agricultural employees and their families.
 
 #### (d) Waiver of rural area requirements
 

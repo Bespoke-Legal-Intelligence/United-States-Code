@@ -18,7 +18,7 @@
 
 &emsp;(2) if no special arrangement exists, by delivery of a copy of the summons and complaint either to an officer, a managing or general agent, or to any other agent authorized by appointment or by law to receive service of process in the United States; or in accordance with an applicable international convention on service of judicial documents; or
 
-&emsp;(3) if service cannot be made under paragraphs (1) or (2), and if reasonably calculatedto give actual notice, by delivery of a copy of the summons and complaint, together with a translation of each into the official language of the foreign state—
+&emsp;(3) if service cannot be made under paragraphs (1) or (2), and if reasonably calculated to give actual notice, by delivery of a copy of the summons and complaint, together with a translation of each into the official language of the foreign state—
 
 &emsp;&emsp;(A) as directed by an authority of the foreign state or political subdivision in response to a letter rogatory or request or
 
@@ -28,7 +28,7 @@
 
 (c) Service shall be deemed to have been made—
 
-&emsp;(1) in the case of service under subsection (a)(4), as of the date of transmittal indicated in the certified copy of the diplomatic note; and
+&emsp;(1) in the case of service under subsection (a)(4), as of the date of transmittal indicatedin the certified copy of the diplomatic note; and
 
 &emsp;(2) in any other case under this section, as of the date of receipt indicated in the certification, signed and returned postal receipt, or other proof of service applicable to the method of service employed.
 

@@ -124,7 +124,7 @@ Notwithstanding paragraphs (2) and (3) of subsection (f) of this section, no ins
 
 #### Amendments
 
-1998—Subsec. (a)(1). Pub. L. 105–244, §304(b)(1)(A)(i), inserted “in mathematics, engineering, or the physical or natural sciences” after “graduate education opportunities”.
+1998—Subsec. (a)(1). Pub. L. 105–244, §304(b)(1)(A)(i), inserted “in mathematics, engineering, or the physicalor natural sciences” after “graduate education opportunities”.
 
 Subsec. (a)(2). Pub. L. 105–244, §304(b)(1)(A)(ii), substituted “$1,000,000 may” for “$500,000 may” and “, except that no institution shall be required to match any portion of the first $1,000,000 of the institution's award from the Secretary. After funds are made available to each eligible institution under the funding rules described in subsection (f) of this section, the Secretary shall distribute, on a pro rata basis, any amounts which were not so made available (by reason of the failure of an institution to comply with the matching requirements of this paragraph) among the institutions that have complied with such matching requirement.” for “except that the Morehouse School of Medicine shall receive at least $3,000,000.”
 

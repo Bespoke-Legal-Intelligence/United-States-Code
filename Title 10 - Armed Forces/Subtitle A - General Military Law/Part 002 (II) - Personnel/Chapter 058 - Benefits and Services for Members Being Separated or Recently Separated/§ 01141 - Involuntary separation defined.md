@@ -24,5 +24,5 @@ Section 542(e) of Pub. L. 103–337 provided that: “This section \[amending th
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1174a, 1175 of this title; title 20 section 932; title 29 sections 1662d–1, 2918; title 37 sections 404, 406; title 38 section 3018A; title 42 section 3796dd.
+This section is referred to in sections 1174a, 1175 of this title; title 20 section 932; title 29 section 2918; title 37 sections 404, 406; title 38 section 3018A; title 42 section 3796dd.
 

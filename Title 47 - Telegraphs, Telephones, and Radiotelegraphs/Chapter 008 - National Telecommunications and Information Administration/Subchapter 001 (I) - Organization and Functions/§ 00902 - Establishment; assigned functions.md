@@ -32,7 +32,7 @@
 
 &emsp;&emsp;&emsp;(iii) coordinate, in consultation with the Secretary of State, the activities of governmental agencies with responsibilities in the field of telecommunications, so as to ensure that there is full and effective compliance at all times with the policies set forth in the Communications Satellite Act of 1962 \[47 U.S.C. 701 et seq.\];
 
-&emsp;&emsp;&emsp;(iv) make recommendations to the President and others as appropriate, with respect to steps necessary to ensure the availability and appropriate utilization of the communications satellite system for general governmental purposes in consonance with section 201(a)(6) of the Communications Satellite Act of 1962 (47 U.S.C. 721(a)(6));
+&emsp;&emsp;&emsp;(iv) make recommendations to the President and others as appropriate, with respect to steps necessary to ensure the availability and appropriate utilization of the communications satellite system for general governmental purposes in consonance with section 201(a)(6) of the Communications Satellite Act of 1962 (47 U.S.C. 721(a)(6)); <sup>1</sup>
 
 &emsp;&emsp;&emsp;(v) help attain coordinated and efficient use of the electromagnetic spectrum and the technical compatibility of the communications satellite system with existing communications facilities both in the United States and abroad;
 
@@ -106,9 +106,55 @@ Executive Order 12046, referred to in subsec. (b)(2), is set out as a note under
 
 The Communications Satellite Act of 1962, referred to in subsec. (b)(2)(C)(iii), (vi), is Pub. L. 87–624, Aug. 31, 1962, 76 Stat. 419, as amended, which is classified generally to chapter 6 (§701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
 
-Executive Order 11556, referred to in subsec. (b)(2)(S), which was formerly set out as a note under section 305 of this title was revoked by Ex. Ord. No. 12046, set out as a note under section 305 of this title. Section 10 of Ex. Ord. No. 11556 related to advisory committees established by the Director of the former Office of Telecommunications Policy.
+Section 201(a)(6) of the Communications Satellite Act of 1962, referred to in subsec. (b)(2)(C)(iv), was classified to section 721(a)(6) of this title and was omitted from the Code.
+
+Executive Order 11556, referred to in subsec. (b)(2)(S), which was formerly set out as a note under section 305 of this title was revoked by Ex. Ord. No. 12046, set outas a note under section 305 of this title. Section 10 of Ex. Ord. No. 11556 related to advisory committees established by the Director of the former Office of Telecommunications Policy.
+
+#### Study of Technology Protection Measures
+
+Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1703\], Dec. 21, 2000, 114 Stat. 2763, 2763A–336, provided that:
+
+“(a)
+
+In General.—Not later than 18 months after the date of the enactment of this Act \[Dec. 21, 2000\], the National Telecommunications and Information Administration shall initiate a notice and comment proceeding for purposes of—
+
+&emsp;“(1) evaluating whether or not currently available technology protection measures, including commercial Internet blocking and filtering software, adequately addresses the needs of educational institutions;
+
+&emsp;“(2) making recommendations on how to foster the development of measures that meet such needs; and
+
+&emsp;“(3) evaluating the development and effectiveness of local Internet safety policies that are currently in operation after community input.
+
+“(b)
+
+Definitions.—In this section:
+
+&emsp;“(1)
+
+Technology protection measure.—The term ‘technology protection measure’ means a specific technology that blocks or filters Internet access to visual depictions that are—
+
+&emsp;&emsp;“(A) obscene, as that term is defined in section 1460 of title 18, United States Code;
+
+&emsp;&emsp;“(B) child pornography, as that term is defined in section 2256 of title 18, United States Code; or
+
+&emsp;&emsp;“(C) harmful to minors.
+
+&emsp;“(2)
+
+Harmful to minors.—The term ‘harmful to minors’ means any picture, image, graphic image file, or other visual depiction that—
+
+&emsp;&emsp;“(A) taken as a whole and with respect to minors, appeals to a prurient interest in nudity, sex, or excretion;
+
+&emsp;&emsp;“(B) depicts, describes, or represents, in a patently offensive way with respect to what is suitable for minors, an actual or simulated sexual act or sexual contact, actual or simulated normal or perverted sexual acts, or a lewd exhibition of the genitals; and
+
+&emsp;&emsp;“(C) taken as a whole, lacks serious literary, artistic, political, or scientific value as to minors.
+
+&emsp;“(3)
+
+Sexual act; sexual contact.—The terms ‘sexual act’ and ‘sexual contact’ have the meanings given such terms in section 2246 of title 18, United States Code.”
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 903, 904 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -26,7 +26,7 @@
 
 &emsp;\[(3) Repealed. Pub. L. 99–661, div. A, title VI, §604(e)(3)(B), Nov. 14, 1986, 100 Stat. 3877.\]
 
-&emsp;(4) Any member of, or applicant for membership in, a reserve officers’ training corps whodies while (A) attending a training camp, (B) on an authorized practice cruise, (C) performing authorized travel to or from such a camp or cruise, or (D) hospitalized or undergoing treatment at the expense of the United States for injury incurred, or disease contracted, while attending such a camp, while on such a cruise, or while performing that travel.
+&emsp;(4) Any member of, or applicant for membership in, a reserve officers’ training corps who dies while (A) attending a training camp, (B) on an authorized practice cruise, (C) performing authorized travel to or from such a camp or cruise, or (D) hospitalized or undergoing treatment at the expense of the United States for injury incurred, or disease contracted, while attending such a camp, while on such a cruise, or while performing that travel.
 
 &emsp;(5) Any accepted applicant for enlistment in an armed force under his jurisdiction.
 
@@ -46,7 +46,7 @@
 
 (c) In this section, the term “dependent” has the meaning given such term in section 1072(2) of this title.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 112; Pub. L. 88–647, title III, §301(3), Oct. 13, 1964, 78 Stat. 1071; Pub. L. 99–661, div. A, title VI, §604(e)(3), Nov. 14, 1986, 100 Stat. 3877; Pub. L. 103–337, div. A, title VI, §652(a)(1), Oct. 5, 1994, 108 Stat. 2793; Pub. L. 104–106, div. A, title VII, §702(b), Feb. 10, 1996, 110 Stat. 371; Pub. L. 105–85, div. A, title V, §513(e), Nov. 18, 1997, 111 Stat. 1732; Pub. L. 105–261, div. A, title VI, §645(a), (b), Oct. 17, 1998, 112 Stat. 2049, 2050; Pub. L. 106–65, div. A, title V, §578(i)(5), Oct. 5, 1999, 113 Stat. 630.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 112; Pub. L. 88–647, title III, §301(3), Oct. 13, 1964, 78 Stat. 1071; Pub. L. 99–661, div. A, title VI, §604(e)(3), Nov. 14, 1986, 100 Stat. 3877; Pub. L. 103–337, div. A, title VI, §652(a)(1), Oct. 5, 1994, 108 Stat. 2793; Pub. L. 104–106, div. A, title VII, §702(b), Feb. 10, 1996, 110 Stat. 371; Pub. L. 105–85, div. A, title V, §513(e), Nov. 18, 1997, 111 Stat. 1732; Pub. L. 105–261, div. A, title VI, §645(a), (b), Oct. 17, 1998, 112 Stat. 2049, 2050; Pub. L. 106–65, div. A, title V, §578(i)(5), Oct. 5, 1999, 113 Stat. 630; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(d)(3)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–293.)
 
 Historical and Revision Notes
 
@@ -76,9 +76,11 @@ In subsection (b), the words “This section applies to each person \* \* \* e
 
 #### Amendments
 
+2000—Subsec. (a)(1). Pub. L. 106–398 amended directory language of Pub. L. 105–261, §645(b). See 1998 Amendment note below.
+
 1999—Subsec. (a)(2)(F). Pub. L. 106–65 added subpar. (F).
 
-1998—Subsec. (a)(1). Pub. L. 105–261, §645(b), which directed the amendment of par. (1) by striking out “, or a member of an armed force without component,”, was executed by striking out “, or member of an armed force without component,” after “Regular of an armed force”, to reflect the probable intent of Congress.
+1998—Subsec. (a)(1). Pub. L. 105–261, §645(b), as amended by Pub. L. 106–398, struck out “, or member of an armed force without component,” after “Regular of an armed force”.
 
 Subsec. (a)(7). Pub. L. 105–261, §645(a), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “Any retired member of an armed force under his jurisdiction who becomes a patient in a United States hospital while he is on active duty for a period of more than 30 days, and who continues to be such a patient until the date of his death.”
 
@@ -97,6 +99,10 @@ Subsec. (c). Pub. L. 103–337, §652(a)(1)(B), added subsec. (c).
 “(3) any member of the Army National Guard or Air National Guard who dies while entitled to pay from the United States and while (A) on active duty, (B) performing authorized travel to or from that duty, (C) on authorized inactive-duty training, or (D) hospitalized or undergoing treatment at the expense of the United States for injury incurred, or disease contracted, while on that duty or training or while performing that travel;”.
 
 1964—Subsec. (a)(4). Pub. L. 88–647 substituted “, or applicant for membership in, a reserve officers’ training corps” for “the Army Reserve Officers’ Training Corps, Naval Reserve Officers’ Training Corps, or Air Force Reserve Officers’ Training Corps”.
+
+#### Effective Date of 2000 Amendment
+
+Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–292, provided that the amendment made by section 1 \[\[div. A\], title X, §1087(d)(3)\] is effective Oct. 17, 1998, and as if included in the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999, Pub. L. 105–261, as enacted.
 
 #### Effective Date of 1998 Amendment
 

@@ -6,7 +6,7 @@ Except as otherwise provided in this chapter, the terms used in this chapter hav
 
 #### (b) Qualified alien
 
-For purposes of this chapter, the term “qualified alien” means an alien who, at the time thealien applies for, receives, or attempts to receive a Federal public benefit, is—
+For purposes of this chapter, the term “qualified alien” means an alien who, at the time the alien applies for, receives, or attempts to receive a Federal public benefit, is—
 
 &emsp;(1) an alien who is lawfully admitted for permanent residence under the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\],
 
@@ -36,7 +36,7 @@ For purposes of this chapter, the term “qualified alien” includes—
 
 &emsp;&emsp;&emsp;(ii) classification pursuant to clause (ii) or (iii) of section 204(a)(1)(B) of the Act \[8 U.S.C. 1154(a)(1)(B)(ii), (iii)\],
 
-&emsp;&emsp;&emsp;(iii) cancellation of removal under section 240A of such Act \[8 U.S.C. 1229b\] (as in effect prior to April 1, 1997),
+&emsp;&emsp;&emsp;(iii) suspension of deportation under section 244(a)(3) of the Immigration and Nationality Act \[8 U.S.C. 1254(a)(3)\] (as in effect before the title III–A effective date in section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996).
 
 &emsp;&emsp;&emsp;(iv) status as a spouse or child of a United States citizen pursuant to clause (i) of section 204(a)(1)(A) of such Act \[8 U.S.C. 1154(a)(1)(A)(i)\], or classification pursuant to clause (i) of section 204(a)(1)(B) of such Act \[8 U.S.C. 1154(a)(1)(B)(i)\]; <sup>2</sup>
 
@@ -58,7 +58,7 @@ For purposes of this chapter, the term “qualified alien” includes—
 
 After consultation with the Secretaries of Health and Human Services, Agriculture, and Housing and Urban Development, the Commissioner of Social Security, and with the heads of such Federal agencies administering benefits as the Attorney General considers appropriate, the Attorney General shall issue guidance (in the Attorney General's sole and unreviewable discretion) for purposes of this subsection and section 1631(f) of this title, concerning the meaning of the terms “battery” and “extreme cruelty”, and the standards and methods to be used for determining whether a substantial connection exists between battery or cruelty suffered and an individual's need for benefits under a specific Federal, State, or local program.
 
-(Pub. L. 104–193, title IV, §431, Aug. 22, 1996, 110 Stat. 2274; Pub. L. 104–208, div. C, title III, §308(g)(8)(E), title V, §501, Sept. 30, 1996, 110 Stat. 3009–624, 3009–670; Pub. L. 105–33, title V, §§5302(c)(3), 5562, 5571(a)–(c), 5581(b)(6), (7), Aug. 5, 1997, 111 Stat. 599, 638, 640, 643.)
+(Pub. L. 104–193, title IV, §431, Aug. 22, 1996, 110 Stat. 2274; Pub. L. 104–208, div. C, title III, §308(g)(8)(E), title V, §501, Sept. 30, 1996, 110 Stat. 3009–624, 3009–670; Pub. L. 105–33, title V, §§5302(c)(3), 5562, 5571(a)–(c), 5581(b)(6), (7), Aug. 5, 1997, 111 Stat. 599, 638, 640, 643; Pub. L. 106–386, div. B, title V, §1508, Oct. 28, 2000, 114 Stat. 1530.)
 
 #### References in Text
 
@@ -70,9 +70,13 @@ Section 243 of such Act, referred to in subsec. (b)(5), is section 243 of act Ju
 
 Section 203(a)(7) of such Act as in effect prior to April 1, 1980, referred to in subsec. (b)(6), means section 203(a)(7) of act June 27, 1952, which was classified to section 1153(a)(7) of this title. Section 1153(a)(7) of this title was repealed and section 1153(a)(8) was redesignated section 1153(a)(7) by Pub. L. 96–212, title II, §203(c)(3), (6), Mar. 17, 1980, 94 Stat. 107, effective Apr. 1, 1980.
 
-Section 501(e) of the Refugee Education Assistance Act of 1980, referred to in subsec. (b)(7), is section 501(e) of Pub. L. 96–422, as amended, which is set out in a note under section 1522 of this title.
+Section 501(e) of the Refugee Education Assistance Act of 1980, referred to in subsec. (b)(7), is section 501(e)of Pub. L. 96–422, as amended, which is set out in a note under section 1522 of this title.
+
+Section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996, referred to in subsec. (c)(1)(B)(iii), is section 309 of title III of div. C of Pub. L. 104–208, as amended, which is set out as a note under section 1101 of this title.
 
 #### Amendments
+
+2000—Subsec. (c)(1)(B)(iii). Pub. L. 106–386 amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “cancellation of removal under section 240A of such Act (as in effect prior to April 1, 1997),”.
 
 1997—Subsec. (b)(5). Pub. L. 105–33, §5562, substituted “section 243(h) of such Act (as in effect immediately before the effective date of section 307 of division C of Public Law 104–208) or section 241(b)(3) of such Act (as amended by section 305(a) of division C of Public Law 104–208)” for “section 243(h) of such Act”.
 
@@ -110,7 +114,7 @@ Amendment by section 501 of Pub. L. 104–208 effective Sept. 30, 1996, see sect
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1367, 1611, 1612, 1613, 1615, 1622 of this title.
+This section is referred to in sections 1182, 1367, 1611, 1612, 1613, 1615, 1621, 1622 of this title.
 
 <i><sup>1</sup></i><i> So in original. The semicolon probably should be a comma.</i>
 

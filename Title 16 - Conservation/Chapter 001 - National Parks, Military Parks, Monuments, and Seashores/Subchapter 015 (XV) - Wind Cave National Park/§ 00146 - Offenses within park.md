@@ -8,7 +8,3 @@ All persons who shall unlawfully intrude upon said park, or who shall without pe
 
 Hereunder, referred to in text, means act Jan. 9, 1903, ch. 63, 32 Stat. 765, which is classified to sections 141, and 142 to 146 of this title. For complete classification of this Act to the Code, see Tables.
 
-#### Cross References
-
-Violations of rules and regulations to be punishable by fine of not more than $500 or imprisonment not exceeding six months or both, see section 3 of this title.
-

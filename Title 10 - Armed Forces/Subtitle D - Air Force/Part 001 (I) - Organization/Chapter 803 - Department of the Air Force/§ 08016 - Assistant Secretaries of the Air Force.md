@@ -30,7 +30,3 @@ For order of succession in event of death, permanent disability, or resignation 
 
 For order of succession in event of death, permanent disability, or resignation of Secretary of the Air Force, see Ex. Ord. No. 12909, Apr. 22, 1994, 59 F.R. 21909, set out as a note under section 3345 of Title 5.
 
-#### Cross References
-
-Compensation of Assistant Secretaries, see section 5315 of Title 5, Government Organization and Employees.
-

@@ -1,0 +1,26 @@
+### §14135e. Privacy protection standards
+
+#### (a) In general
+
+Except as provided in subsection (b) of this section, any sample collected under, or any result of any analysis carried out under, section 14135, 14135a, or 14135b of this title may be used only for a purpose specified in such section.
+
+#### (b) Permissive uses
+
+A sample or result described in subsection (a) of this section may be disclosed under the circumstances under which disclosure of information included in the Combined DNA Index System is allowed, as specified in subparagraphs (A) through (D) of section 14132(b)(3) of this title.
+
+#### (c) Criminal penalty
+
+A person who knowingly—
+
+&emsp;(1) discloses a sample or result described in subsection (a) of this section in any manner to any person not authorized to receive it; or
+
+&emsp;(2) obtains, without authorization, a sample or result described in subsection (a) of this section,
+
+> shall be fined not more than $100,000.
+
+(Pub. L. 106–546, §10, Dec. 19, 2000, 114 Stat. 2735.)
+
+#### Codification
+
+Section was enacted as part of the DNA Analysis Backlog Elimination Act of 2000, and not as part of the Violent Crime Control and Law Enforcement Act of 1994 which enacted this chapter.
+

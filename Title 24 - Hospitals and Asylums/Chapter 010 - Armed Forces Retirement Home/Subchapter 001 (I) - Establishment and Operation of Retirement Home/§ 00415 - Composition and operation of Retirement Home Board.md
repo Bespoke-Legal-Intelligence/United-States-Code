@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is hereby established the Armed Forces Retirement Home Board. The Retirement Home Board shall exercise policy oversight over the Retirement Home and oversee the activities of any Local Boards of trustees.
+There is hereby established the Armed Forces Retirement Home Board. The Retirement HomeBoard shall exercise policy oversight over the Retirement Home and oversee the activities of any Local Boards of trustees.
 
 #### (b) Members
 
@@ -80,7 +80,7 @@ Each establishment of the Retirement Home shall have a Board of trustees which s
 
 #### (f) Early expiration of term
 
-A member of the Armed Forces or Federal civilian employee who is appointed as a member of the Retirement Home Board or a Local Board may serve as a board member only so long as the member of the Armed Forces or Federal civilian employee is assigned to or serving in the duty position that gave rise to the appointment as a board member.
+A member of the Armed Forces or Federal civilian employee who is appointed as a member of the Retirement Home Board or a Local Board may serve as a board member only so long asthe member of the Armed Forces or Federal civilian employee is assigned to or serving in the duty position that gave rise to the appointment as a board member.
 
 #### (g) Vacancies
 
@@ -142,7 +142,7 @@ Section 1051(b)(2) of Pub. L. 104–201 provided that: “The amendment made by 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 416 of this title.
+This section is referred to in sections 416, 424 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “or”.</i>
 

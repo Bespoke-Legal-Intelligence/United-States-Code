@@ -8,6 +8,10 @@ Whenever money is required for the payment of the debts or performance of the co
 
 R.S. §5593 derived from act Aug. 10, 1846, ch. 178, §3, 9 Stat. 103.
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in this section relating to submitting a report to Congress at each session of Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 192 of House Document No. 103–7.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 67 of this title.

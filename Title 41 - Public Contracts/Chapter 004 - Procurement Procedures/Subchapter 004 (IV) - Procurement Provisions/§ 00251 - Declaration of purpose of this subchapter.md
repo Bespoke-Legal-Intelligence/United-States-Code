@@ -78,7 +78,7 @@ Section effective July 1, 1949, see section 605 of act June 30, 1949, set out as
 
 #### Short Title of 1996 Amendment
 
-Pub. L. 104–106, div. D, §4001, Feb. 10, 1996, 110 Stat. 642, as amended by Pub. L. 104–208, div. A, title I, §101(f) \[title VIII, §808(a)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–393, provided that: “This division \[div. D (§§4001–4402) of Pub. L. 104–106, see Tables for classification\] and division E \[§§5001–5703 of Pub. L. 104–106, see Tables for classification\] may be cited as the ‘Clinger-Cohen Act of 1996’.”
+Pub. L. 104–106, div. D, §4001, Feb. 10, 1996, 110 Stat. 642, as amended by Pub. L. 104–208, div. A, title I, §101(f)\[title VIII, §808(a)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–393, provided that: “This division \[div. D (§§4001–4402) of Pub. L. 104–106, see Tables for classification\] and division E \[§§5001–5703 of Pub. L. 104–106, see Tables for classification\] may be cited as the ‘Clinger-Cohen Act of 1996’.”
 
 #### Short Title of 1994 Amendment
 
@@ -88,7 +88,7 @@ Pub. L. 103–355, §1, Oct. 13, 1994, 108 Stat. 3243, provided that: “This Ac
 
 Pub. L. 98–577, §1, Oct. 30, 1984, 98 Stat. 3066, provided that this Act \[enacting sections 253c to 253h, 414a, 418a, and 418b of this title, repealing section 2303a of Title 10, Armed Forces, amending sections 253, 253b, 259, 403, and 416 of this title, sections 2302, 2304, 2311, and 2320 of Title 10, and sections 637 and 644 of Title 15, Commerce and Trade, and enacting provisions set out as notes under this section, section 416 of this title, and sections 637 and 644 of Title 15\] may be cited as the “Small Business and Federal Procurement Competition Enhancement Act of 1984”.
 
-Pub. L. 98–369, title VII, §2701, July 18, 1984, 98 Stat. 1175, provided that: “This title \[enacting sections 253a, 253b, 416 to 419 of this title and sections 3551 to 3556 of Title 31, Money and Finance, amending sections 252, 253, 254, 257, 258, 259, 260, 403, 405, and 414 of this title, sections 2301 to 2306, 2310, 2311, 2313, and 2356 of Title 10, Armed Forces, and section 759 of Title 40, Public Buildings, Property, and Works, and enacting provisions set out as notes under this section, sections 253, 403, and 407 of this title, section 2304 of Title 10, and section 759 of Title 40\] may be cited as the ‘Competition in Contracting Act of 1984’.”
+Pub. L. 98–369, div. B, title VII, §2701, July 18, 1984, 98 Stat. 1175, provided that: “This title \[enacting sections 253a, 253b, 416 to 419 of this title and sections 3551 to 3556 of Title 31, Money and Finance, amending sections 252, 253, 254, 257, 258, 259, 260, 403, 405, and 414 of this title, sections 2301 to 2306, 2310, 2311, 2313, and 2356 of Title 10, Armed Forces, and section 759 of Title 40, Public Buildings, Property, and Works, and enacting provisions set out as notes under this section, sections 253, 403, and 407 of this title, section 2304 of Title 10, and section 759 of Title 40\] may be cited as the ‘Competition in Contracting Act of 1984’.”
 
 #### Regulations
 
@@ -134,7 +134,7 @@ Pub. L. 103–355, title X, §10002, Oct. 13, 1994, 108 Stat. 3404, provided tha
 
 “(a)
 
-Proposed Revisions.—Proposed revisions to the Federal Acquisition Regulation and such other proposed regulations (or revisions to existing regulations)as may be necessary to implement this Act \[see Short Title of 1994 Amendment note above\] shall be published in the Federal Register not later than 210 days after the date of the enactment of this Act \[Oct. 13, 1994\].
+Proposed Revisions.—Proposed revisions to the Federal Acquisition Regulation and such other proposed regulations (or revisions to existing regulations) as may be necessary to implement this Act \[see Short Title of 1994 Amendment note above\] shall be published in the Federal Register not later than 210 days after the date of the enactment of this Act \[Oct. 13, 1994\].
 
 “(b)
 
@@ -252,7 +252,7 @@ Sec. 5. <i>Definitions</i>. For purposes of this Executive order:
 
 Sec. 6. <i>Agency Authority</i>. Nothing in this Executive order shall be construed as displacing the agencies’ authority or responsibilities, as authorized by law, including specifically other programs designed to promote the development of small or disadvantaged businesses.
 
-Sec. 7. <i>Judicial Review</i>. This Executive order does not create any right or benefit, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
+Sec. 7. <i>Judicial Review</i>. This Executive order does not create any right or benefit, substantive or procedural,enforceable at law or equity by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

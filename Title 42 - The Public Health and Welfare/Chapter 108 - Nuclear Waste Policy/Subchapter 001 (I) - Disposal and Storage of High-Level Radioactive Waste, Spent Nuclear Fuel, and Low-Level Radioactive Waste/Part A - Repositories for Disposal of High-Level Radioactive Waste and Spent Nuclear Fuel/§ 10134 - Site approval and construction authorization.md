@@ -2,7 +2,7 @@
 
 #### (a) Hearings and Presidential recommendation
 
-(1) The Secretary shall hold public hearings in the vicinity of the Yucca Mountain site, for the purposes of informing the residents of the area of such consideration and receiving their comments regarding the possible recommendation of such site. If, upon completion of such hearings and completion of site characterization activities at the Yucca Mountain site, under section 10133 of this title, the Secretary decides to recommend approval of such site to the President, the Secretary shall notify the Governor and legislature of the State of Nevada, of such decision. No sooner than the expiration of the 30-day period following such notification, the Secretary shall submit to the President a recommendation that the President approve such site for the development of a repository. Any such recommendation by the Secretary shall be based on the record of information developed by the Secretary under section 10133 of this title and this section, including the information described in subparagraph (A) through subparagraph (G). Together with any recommendation of a site under this paragraph, the Secretary shall make available to the public, and submit to the President, a comprehensive statement of the basis of such recommendation, including the following:
+(1) The Secretary shall hold public hearings in the vicinity of the Yucca Mountain site, for the purposes of informing the residents of the area of such consideration and receiving their comments regarding the possible recommendation ofsuch site. If, upon completion of such hearings and completion of site characterization activities at the Yucca Mountain site, under section 10133 of this title, the Secretary decides to recommend approval of such site to the President, the Secretary shall notify the Governor and legislature of the State of Nevada, of such decision. No sooner than the expiration of the 30-day period following such notification, the Secretary shall submit to the President a recommendation that the President approve such site for the development of a repository. Any such recommendation by the Secretary shall be based on the record of information developed by the Secretary under section 10133 of this title and this section, including the information described in subparagraph (A) through subparagraph (G). Together with any recommendation of a site under this paragraph, the Secretary shall make available to the public, and submit to the President, a comprehensive statement of the basis of such recommendation, including the following:
 
 &emsp;(A) a description of the proposed repository, including preliminary engineering specifications for the facility;
 
@@ -30,7 +30,7 @@
 
 #### (b) Submission of application
 
-If the President recommends to the Congress the Yucca Mountain site under subsection (a) of this section and the site designation is permitted to take effect under section 10135 of this title, the Secretary shall submit to the Commission an application for a construction authorization for a repository at such site not later than90 days after the date on which the recommendation of the site designation is effective under such section and shall provide to the Governor and legislature of the State of Nevada a copy of such application.
+If the President recommends to the Congress the Yucca Mountain site under subsection (a) of this section and the site designation is permitted to take effect under section 10135 of this title, the Secretary shall submit to the Commission an application for a construction authorization for a repository at such site not later than 90 days after the date on which the recommendation of the site designation is effective under such section and shall provide to the Governor and legislature of the State of Nevada a copy of such application.
 
 #### (c) Status report on application
 
@@ -95,6 +95,10 @@ Subsec. (d). Pub. L. 100–202 and Pub. L. 100–203, §5011(j), amended subsec.
 Subsec. (e)(1). Pub. L. 100–202 and Pub. L. 100–203, §5011(k), amended par. (1) identically, substituting “operation of the repository” for “operation of the repository involved”.
 
 Subsec. (f). Pub. L. 100–202 and Pub. L. 100–203, §5011(<i>l</i>), generally amended subsec. (f) identically, substituting provisions consisting of pars. (1) to (6) for former provisions consisting of single unnumbered par.
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsec. (c) of this section is listed as the 17th item on page 186), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 
 #### Viability Assessment of Yucca Mountain Site
 

@@ -54,7 +54,7 @@ Plan Requirements.—A State drug interdiction and counter-drug activities plan 
 
 (d)
 
-Examination of Plan.—(1) Before funds are provided to the Governor of a State under this section and before members of the National Guard of that State are ordered to full-time National Guard duty as authorized in subsection (b), the Secretary of Defense shall examine the adequacy of the plan submitted by the Governor under subsection (c). The plan as approved by the Secretary may provide for the use of personnel and equipment of the National Guard of that State to assist the Immigration and Naturalization Service in the transportation of aliens who have violated a Federal or State law prohibiting or regulating the possession, use, or distribution of a controlled substance.
+Examination of Plan.—(1) Before funds are provided to the Governor of a State under thissection and before members of the National Guard of that State are ordered to full-time National Guard duty as authorized in subsection (b), the Secretary of Defense shall examine the adequacy of the plan submitted by the Governor under subsection (c). The plan as approved by the Secretary may provide for the use of personnel and equipment of the National Guard of that State to assist the Immigration and Naturalization Service in the transportation of aliens who have violated a Federal or State law prohibiting or regulating the possession, use, or distribution of a controlled substance.
 
 (2) Except as provided in paragraph (3), the Secretary shall carry out paragraph (1) in consultation with the Director of National Drug Control Policy.
 
@@ -120,7 +120,7 @@ Subsec. (a)(1). Pub. L. 105–261, §1022(e)(2), (3), substituted “The pay” 
 
 Subsec. (a)(2). Pub. L. 105–261, §1022(e)(2), (4), substituted “The operation” for “the operation” and “activities.” for “activities; and”.
 
-Subsec. (a)(3). Pub. L. 105–261, §1022(a), (e)(2), substituted “The procurement” for “the procurement” and “and equipment, and the leasing of equipment,” for “and leasing of equipment” and inserted at end “However, the use of such funds for the procurement of equipment may not exceed $5,000 per purchase order, unless approval for procurement of equipment in excess of that amount is granted in advance by the Secretary of Defense.”
+Subsec. (a)(3). Pub. L. 105–261, §1022(a), (e)(2), substituted “The procurement” for “the procurement” and “and equipment, and the leasing of equipment,” for “and leasing of equipment” and inserted at end “However, the use of such funds for the procurement of equipment may not exceed $5,000 per purchase order, unless approval for procurement of equipment in excessof that amount is granted in advance by the Secretary of Defense.”
 
 Subsec. (b)(2). Pub. L. 105–261, §1022(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “To ensure that the use of units and personnel of the National Guard of a State pursuant to a State drug interdiction and counter-drug activities plan is not detrimental to the training and readiness of such units and personnel, the requirements of section 2012(d) of title 10 shall apply in determining the drug interdiction and counter-drug activities that units and personnel of the National Guard of a State may perform.”
 

@@ -100,7 +100,7 @@ Section 701 of Pub. L. 100–175 provided that:
 
 “(a)
 
-General Effective Date.—Except as provided in subsections (b) and (c), this Act and the amendments made by this Act \[see Short Title of 1987 Amendment note below\] shall take effect on October 1, 1987.
+General Effective Date.—Except as provided in subsections (b) and (c), this Act and the amendmentsmade by this Act \[see Short Title of 1987 Amendment note below\] shall take effect on October 1, 1987.
 
 “(b)
 
@@ -132,7 +132,11 @@ Section 803 of Pub. L. 98–459 provided that:
 
 #### Effective Date of 1978 Amendment
 
-Section 504 of Pub. L. 95–478 provided that: “This Act \[see Short Title of 1978 Amendment note below\], andthe amendments made by this Act, shall take effect at the close of September 30, 1978.”
+Section 504 of Pub. L. 95–478 provided that: “This Act \[see Short Title of 1978 Amendment note below\], and the amendments made by this Act, shall take effect at the close of September 30, 1978.”
+
+#### Short Title of 2000 Amendment
+
+Pub. L. 106–501, §1, Nov. 13, 2000, 114 Stat. 2226, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Older Americans Act Amendments of 2000’.”
 
 #### Short Title of 1993 Amendment
 
@@ -166,8 +170,6 @@ Section 1(a) of Pub. L. 95–478 provided that: “This Act \[enacting sections 
 
 Pub. L. 94–135, §1, Nov. 28, 1975, 89 Stat. 713, provided: “That this Act \[enacting chapter 76 and sections 3002, 3020a, 3024, 3028, 3034, 3045f, and 3056 to 3056f of this title, amending sections 289k–5, 3002, 3012, 3014, 3015, 3022, 3023, 3024, 3025, 3026, 3028, 3033, 3034, 3037, 3037a, 3041d, 3041f, 3045b, 3045d, 3045e, 3045f, 3045g, 5011, 5012, and 5082 of this title and sections 1008a, 1208a, and 1341 of Title 20, Education, repealing sections 3061 to 3067 of this title, enacting provisions set out as notes under section 5001 of this title and section 871 of Title 29, Labor, and amending provisions set out as a note under section 2809 of this title\] may be cited as the ‘Older Americans Amendments of 1975’.”
 
-Pub. L. 89–73, title V, §501, formerly title IX, §901, as added by Pub. L. 94–135, title I, §113(a), Nov. 28, 1975, 89 Stat. 720, and renumbered by Pub. L. 95–478, title I, §105(a), Oct. 18, 1978, 92 Stat. 1547, provided that: “The provisions of this title \[enacting subchapter IX of this chapter\] may be cited as the ‘Older American Community Service Employment Act’.”
-
 #### Short Title of 1973 Amendment
 
 Section 1 of Pub. L. 93–29 provided: “That this Act \[enacting chapter 35A of this title, subchs. III to V of this chapter, sections 3003, 3012, 3013 to 3020, 3044, 3045 of this title, and sections 351, 351c, 361 to 364, 1008a, and 1208a of Title 20, Education, amending this section, sections 3011, 3012, 3044a, 3044b, 3044e, and 3045a to 3045f of this title, and sections 351c, 351d, 351e, 1211, 1504, and 1505 of Title 20, repealing former subchs. III (sections 3021 to 3024a, and 3025 of this title), IV (sections 3031 and 3032 of this title), V (sections 3041 to 3043 of this title), and VIII (sections 3051 to 3055 of this title) of this chapter, and enacting provisions set out as notes under sections 2809, 3044b, and 3061 of this title and section 361 of Title 20\] may be cited as the ‘Older Americans Comprehensive Services Amendments of 1973’.”
@@ -180,35 +182,19 @@ Pub. L. 90–42, §1, July 1, 1967, 81 Stat. 106, provided: “That this Act \[e
 
 Section 1 of Pub. L. 89–73 provided: “That this Act \[enacting this chapter\] may be cited as the ‘Older Americans Act of 1965’.”
 
+Pub. L. 89–73, title III, §371, as added Pub. L. 106–501, title III, §316(2), Nov. 13, 2000, 114 Stat. 2253, provided that: “This part \[part E (§§371–376) of title III of Pub. L. 89–73, enacting part E of subchapter III of this chapter\] may be cited as the ‘National Family Caregiver Support Act’.”
+
+Pub. L. 89–73, title V, §501, as added Pub. L. 106–501, title V, §501, Nov. 13, 2000, 114 Stat. 2267, provided that: “This title \[enacting subchapter IX of this chapter\] may be cited as the ‘Older American Community Service Employment Act’.”
+
+Pub. L. 89–73, title V, §501, formerly title IX, §901, as added by Pub. L. 94–135, title I, §113(a), Nov. 28, 1975, 89 Stat. 720, and renumbered by Pub. L. 95–478, title I, §105(a), Oct. 18, 1978, 92 Stat. 1547, provided that title V of Pub. L. 89–73, enacting former subchapter IX of this chapter, could be cited as the “Older American Community Service Employment Act”, prior to the general amendment of title V of Pub. L. 89–73 by Pub. L. 106–501, title V, §501, Nov. 13, 2000, 114 Stat. 2267.
+
 #### Regulations
 
 Section 902 of Pub. L. 102–375 provided that: “Except as otherwise specifically provided, the Secretary of Health and Human Services shall, not later than 120 days after the date of the enactment of this Act \[Sept. 30, 1992\], issue proposed regulations to carry out the amendments made by titles I through VII \[see Tables for classification\].”
 
 #### Study of Effectiveness of State Long-Term Care Ombudsman Programs
 
-Section 211 of Pub. L. 102–375, as amended by Pub. L. 103–171, §4(a)(2), Dec. 2, 1993, 107 Stat. 1991, provided that: “Not later than January 1, 1995, the Commissioner on Aging \[now Assistant Secretary for Aging\] shall, in consultation with State agencies, State Long-Term Care Ombudsmen, the National Ombudsman Resource Center established under section 202(a)(21) of the Older Americans Act of 1965 \[42 U.S.C. 3012(a)(21)\] (as added by section 202(b)(2) of this Act), and professional ombudsmen associations, directly, or by grant or contract, conduct a study, and submit a report to the committees specified in section 207(b)(2) of such Act \[42 U.S.C. 3018(b)(2)\], analyzing separately with respect to each State—
-
-&emsp;“(1) the availability of services, and the unmet need for services, under the State Long-Term Care Ombudsman programs in effect under sections 307(a)(12) and 712 \[42 U.S.C. 3027(a)(12), 3058g\] of the Older Americans Act of 1965 (42 U.S.C. 3001 et seq.) to residents of long-term care facilities (as defined in section 102 of such Act \[42 U.S.C. 3002\]);
-
-&emsp;“(2) the effectiveness of the programs in providing the services to the residents, including residents of board and care facilities (as defined in section 102 of such Act) and of similar adult care facilities;
-
-&emsp;“(3) the adequacy of Federal and other resources available to carry out the programs on a statewide basis in each State;
-
-&emsp;“(4) compliance and barriers to such compliance of the States in carrying out the programs;
-
-&emsp;“(5) any actual and potential conflicts of interest in the administration and operation of the programs; and
-
-&emsp;“(6) the need for and feasibility of providing ombudsman services to older individuals (as defined in section 102 of such Act) who are not in long-term care facilities and who use long-term care services and other health care services, by analyzing and assessing current State agency practices in programs in which the State Long-Term Care Ombudsmen provide services to older individuals in settings in addition to long-term care facilities, taking into account variations in—
-
-&emsp;&emsp;“(A) settings where services are provided;
-
-&emsp;&emsp;“(B) the types of clients served;
-
-&emsp;&emsp;“(C) the types of complaints and problems handled;
-
-&emsp;&emsp;“(D) State regulation of long-term care provided in settings other than long-term care facilities; and
-
-&emsp;&emsp;“(E) possible conflicts of interest between the State Long-Term Care Ombudsman programs under such Act \[42 U.S.C. 3001 et seq.\] and area agencies on aging (as defined in section 102 of such Act \[42 U.S.C. 3002\]) who provide to older individuals long-term care services both in such settings and in long-term care facilities.”
+Section 211 of Pub. L. 102–375, as amended by Pub. L. 103–171, §4(a)(2), Dec. 2, 1993, 107 Stat. 1991, provided that not later than Jan. 1, 1995, the Assistant Secretary for Aging, in consultation with State agencies, State Long-Term Care Ombudsmen, the National Ombudsman Resource Center, and professional ombudsmen associations, directly, or by grant or contract, was to conduct a study and submit a report to Congress analyzing separately with respect to each State effectiveness of State long-term care ombudsman programs.
 
 #### Study on Board and Care Facility Quality
 
@@ -316,7 +302,7 @@ Section 213 of Pub. L. 102–375 provided that:
 
 “(a)
 
-Establishment Study of Committee.—The Secretary of Health and Human Services shall enter into an arrangement, in accordance with subsection (d), to establish a study committee described in subsection (c)to conduct a study through the Institute of Medicine of the National Academy of Sciences on the quality of home care services for older individuals and disabled individuals.
+Establishment Study of Committee.—The Secretary of Health and Human Services shall enter into an arrangement, in accordance with subsection (d), to establish a study committee described in subsection (c) to conduct a study through the Institute of Medicine of the National Academy of Sciences on the quality of home care services for older individuals and disabled individuals.
 
 “(b)
 
@@ -510,7 +496,7 @@ Report to Congress.—The Commissioner on Aging \[now Assistant Secretary for Ag
 
 &emsp;“(2) the comments of the Commissioner on the reports; and
 
-&emsp;“(3) additional information, regarding the roles of nursing home nurse aides and home health care aides in providing long-term care, obtained through the State Long-Term Care Ombudsman program established under sections 307(a)(12) and 712 of the Older Americans Act of 1965 \[42 U.S.C. 3027(a)(12), 3058g\].
+&emsp;“(3) additional information, regarding the roles of nursing home nurse aides and home health care aides in providing long-term care, obtained through the State Long-Term Care Ombudsman program established under sections 307(a)(12) and 712 of the Older Americans Act of 1965 \[now 42 U.S.C. 3027(a)(9), 3058g\].
 
 #### “SEC. 804. OCCUPATIONAL CODE.
 
@@ -522,71 +508,27 @@ Section 901 of Pub. L. 102–375 provided that: “Any authority to enter into c
 
 #### White House Conference on Aging
 
-Title II of Pub. L. 100–175, as amended by Pub. L. 102–375, title VIII, §§831–836, 839(a), Sept. 30, 1992, 106 Stat. 1300–1305; Pub. L. 103–171, §6, Dec. 2, 1993, 107 Stat. 1992, provided that:
+Title II of Pub. L. 100–175, as amended by Pub. L. 102–375, title VIII, §§831–836, 839(a), Sept. 30, 1992, 106 Stat. 1300–1305; Pub. L. 103–171, §6, Dec. 2, 1993, 107 Stat. 1992; Pub. L. 106–501, §211, Nov. 13, 2000, 114 Stat. 2235, provided that:
 
-#### “SEC. 201. WHITE HOUSE CONFERENCE AUTHORIZED.
-
-“(a)
-
-Findings.—The Congress finds that—
-
-&emsp;“(1) the number of individuals 55 years of age or older was approximately 52,923,000 in 1990, and will, by the year 2040, be approximately 103,646,000,
-
-&emsp;“(2) more than 1 of every 8 persons 55 years of age or older will be hospitalized during the next year,
-
-&emsp;“(3) the out-of-pocket costs to older individuals for health care increased from 12.3 percent in 1977 to 18.2 percent in 1988,
-
-&emsp;“(4) there is a great need to ensure access and the quality of affordable health care to all older individuals,
-
-&emsp;“(5) the need for a comprehensive and responsive long-term care delivery system is great,
-
-&emsp;“(6) the availability and cost of suitable housing, together with suitable services needed for independent or semi-independent living, still cause concern to older individuals,
-
-&emsp;“(7) the ability to lead an independent or semi-independent life is contingent, in many cases, upon the availability of a comprehensive and effective social service system for older individuals,
-
-&emsp;“(8) the availability and access to opportunities for continued productivity and employment is of great importance to middle-aged and older individuals who want or need to work,
-
-&emsp;“(9) the fulfillment, dignity, and satisfaction of retirees still depend on the continuing development of a consistent national retirement policy,
-
-&emsp;“(10) there is a continuing need to maintain and preserve the national policy with respect to increasing, coordinating, and expediting biomedical and other appropriate research directed at determining the causes and effects of the aging process,
-
-&emsp;“(11) false stereotypes about aging and the process of aging continue to be prevalent throughout the United States and policies should be nurtured to overcome such stereotypes, and
-
-&emsp;“(12) the talents and experience of older individuals represent a valuable community resource which should be developed and more widely shared within the local community.
-
-“(b)
-
-Policy.—It is the policy of the Congress that—
-
-&emsp;“(1) the Federal Government should work jointly with the States and their citizens to develop recommendations and plans for action to meet the challenges and needs of older individuals, consistent with the objectives of this section, and
-
-&emsp;“(2) in developing programs for the aging pursuant to this section emphasis should be directed toward individual, private, and public initiatives and resources intended to enhance the economic security and self-sufficiency of elder Americans.
-
-#### “SEC. 202. AUTHORIZATION OF THE CONFERENCE.
+#### “SEC. 201. AUTHORIZATION OF THE CONFERENCE.
 
 “(a)
 
-Authority to Call Conference.—Not later than May 31, 1995, the President shall convene the White House Conference on Aging in order to develop recommendations for additional research and action in the field of aging which will further the policy set forth in subsection (b).
+Authority To Call Conference.—Not later than December 31, 2005, the President shall convene the White House Conference on Aging in order to fulfill the purpose set forth in subsection (c) and to make fundamental policy recommendations regarding programs that are important to older individuals and to the families and communities of such individuals.
 
 “(b)
 
-Planning and Direction.—The Conference shall be planned and conducted under the direction of the Secretary in cooperation with the Commissioner on Aging \[now Assistant Secretary for Aging\] and the Director of the National Institute on Aging, and the heads of such other Federal departments and agencies as are appropriate. Such assistance may include the assignment of personnel.
+Planning and Direction.—The Conference described in subsection (a) shall be planned and conducted under the direction of the Secretary, in cooperation with the Assistant Secretary for Aging, the Director of the National Institute on Aging, the Administrator of the Health Care Financing Administration, the Social Security Administrator, and the heads of such other Federal agencies serving older individuals as are appropriate. Planning and conducting the Conference includes the assignment of personnel.
 
 “(c)
 
-Purpose of the Conference.—The purpose of the Conference shall be—
+Purpose.—The purpose of the Conference described in subsection (a) shall be to gather individuals representing the spectrum of thought and experience in the field of aging to—
 
-&emsp;“(1) to increase the public awareness of the interdependence of generations and the essential contributions of older individuals to society for the well-being of all generations;
+&emsp;“(1) evaluate the manner in which the objectives of this Act \[probably means the Older Americans Act of 1965, Pub. L. 89–73, which enacted this chapter\] can be met by using the resources and talents of older individuals, of families and communities of such individuals, and of individuals from the public and private sectors;
 
-&emsp;“(2) to identify the problems facing older individuals and the commonalities of the problems with problems of younger generations;
+&emsp;“(2) evaluate the manner in which national policies that are related to economic security and health care are prepared so that such policies serve individuals born from 1946 to 1964 and later, as the individuals become older individuals, including an examination of the Social Security, Medicare, and Medicaid programs carried out under titles II, XVIII, and XIX of the Social Security Act (42 U.S.C. 401 et seq., 1395 et seq., and 1396 et seq.) in relation to providing services under this Act, and determine how well such policies respond to the needs of older individuals; and
 
-&emsp;“(3) to examine the well-being of older individuals, including the impact the wellness of older individuals has on our aging society;
-
-&emsp;“(4) to develop such specific and comprehensive recommendations for executive and legislative action as may be appropriate for maintaining and improving the well-being of the aging;
-
-&emsp;“(5) to develop recommendations for the coordination of Federal policy with State and local needs and the implementation of such recommendations; and
-
-&emsp;“(6) to review the status and multigenerational value of recommendations adopted at previous White House Conferences on Aging.
+&emsp;“(3) develop not more than 50 recommendations to guide the President, Congress, and Federal agencies in serving older individuals.
 
 “(d)
 
@@ -604,9 +546,9 @@ Participants.—In order to carry out the purposes of this section, the Conferen
 
 &emsp;“(2)
 
-Selection of delegates.—The delegates shall be selected without regard to political affiliation or past partisan activity and shall, to the best of the appointing authority's ability, be representative of the spectrum of thought in the field of aging. Delegates shall include individuals who are professionals, individuals who are nonprofessionals, minority individuals, and individuals from low-income families.
+Selection of delegates.—The delegates shall be selected without regard to political affiliation or past partisan activity and shall, to the best of the appointing authority's ability, be representative of the spectrum of thought in the field of aging. Delegates shall include individuals who are professionals, individuals who are nonprofessionals, minority individuals, individuals from low-income families, representatives of Federal, State, and local governments, and individuals from rural areas. A majority of such delegates shall be age 55 or older.
 
-#### “SEC. 203. CONFERENCE ADMINISTRATION.
+#### “SEC. 202. CONFERENCE ADMINISTRATION.
 
 “(a)
 
@@ -616,35 +558,27 @@ Administration.—In administering this section, the Secretary shall—
 
 &emsp;“(2) request the cooperation and assistance of the heads of such other Federal departments and agencies as may be appropriate in the carrying out of this section,
 
-&emsp;“(3) furnish all reasonable assistance, including financial assistance, to State agencies on the aging and to area agencies on the aging, and to other appropriate organizations (including organizations representing older Indians), to enable them to organize and conduct conferences in conjunction with the Conference,
+&emsp;“(3) make available for public comment a proposed agenda, prepared by the Policy Committee, for the Conference which will reflect to the greatest extent possible the major issues facing older individuals consistent with the provisions of subsection (a),
 
-&emsp;“(4) make available for public comment a proposed agenda, prepared by the Policy Committee, for the Conference which will reflect to the greatest extent possible the major issues facing older individuals consistent with the provisions of subsection (a),
+&emsp;“(4) prepare and make available background materials for the use of delegates to the Conference which the Secretary deems necessary, and
 
-&emsp;“(5) prepare and make available background materials for the use of delegates to the Conference which the Secretary deems necessary, and
-
-&emsp;“(6) engage such additional personnel as may be necessary to carry out the provisions of this section without regard to provisions of title 5, United States Code, governing appointments in the competitive service, and without regard to chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates.
+&emsp;“(5) engage such additional personnel as may be necessary to carry out the provisions of this section without regard to provisions of title 5, United States Code, governing appointments in the competitive service, and without regard to chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates.
 
 “(b)
 
 Duties.—The Secretary shall, in carrying out the Secretary's responsibilities and functions under this section, and as part of the White House Conference on Aging, ensure that—
 
-&emsp;“(1) the conferences under subsection (a)(3) shall—
+&emsp;“(1) the agenda prepared under subsection (a)(3) for the Conference is published in the Federal Register not later than 30 days after such agenda is approved by the Policy Committee, and the Secretary may republish such agenda together with the recommendations of the Secretary regarding such agenda, and
 
-&emsp;&emsp;“(A) include a conference on older Indians to identify conditions that adversely affect older Indians, to propose solutions to ameliorate such conditions, and to provide for the exchange of information relating to the delivery of services to older Indians, and
+&emsp;“(2) the personnel engaged under subsection (a)(5) shall be fairly balanced in terms of points of views represented and shall be appointed without regard to political affiliation or previous partisan activities, \[and\]
 
-&emsp;&emsp;“(B) be so conducted as to assure broad participation of older individuals,
+&emsp;“(3) the recommendations of the Conference are not inappropriately influenced by any appointing authority or by any special interest, but will instead be the result of the independent judgment of the Conference, and
 
-&emsp;“(2) the agenda prepared under subsection (a)(4) for the Conference is published in the Federal Register not later than 30 days after such agenda is approved by the Policy Committee, and the Secretary may republish such agenda together with the recommendations of the Secretary regarding such agenda,
-
-&emsp;“(3) the personnel engaged under subsection (a)(6) shall be fairly balanced in terms of points of views represented and shall be appointed without regard to political affiliation or previous partisan activities,
-
-&emsp;“(4) the recommendations of the Conference are not inappropriately influenced by any appointing authority or by any special interest, but will instead be the result of the independent judgment of the Conference, and
-
-&emsp;“(5) current and adequate statistical data, including decennial census data, and other information on the well-being of older individuals in the United States are readily available, in advance of the Conference, to the delegates of the Conference, together with such information as may be necessary to evaluate Federal programs and policies relating to aging. In carrying out this subparagraph, the Secretary is authorized to make grants to, and enter into cooperative agreements with, public agencies and nonprofit private organizations.
+&emsp;“(4) current and adequate statistical data, including decennial census data, and other information on the well-being of older individuals in the United States are readily available, in advance of the Conference, to the delegates of the Conference, together with such information as may be necessary to evaluate Federal programs and policies relating to aging. In carrying out this subparagraph, the Secretary is authorized to make grants to, and enter into cooperative agreements with, public agencies and nonprofit private organizations.
 
 “(c)
 
-Gifts.—The Secretary may accept, on behalf of the United States, gifts (in cash or in kind, including voluntary and uncompensated services), which shall be available to carry out this title. Gifts of cash shall be available in addition to amounts appropriated to carry out this title.
+Gifts.—The Secretary may accept, on behalf of the United States, gifts (in cash or in kind, including voluntary and uncompensated services), which shall be available to carry out this title. Gifts of cash shall be available in addition to amounts appropriated to carry out this title. Gifts may be earmarked by the donor or the executive committee for a specific purpose.
 
 “(d)
 
@@ -654,7 +588,7 @@ Records.—The Secretary shall maintain records regarding—
 
 &emsp;“(2) the identity of each person receiving assistance to carry out this title, and the amount of such assistance received by each such person.
 
-#### “SEC. 204. POLICY COMMITTEE; RELATED COMMITTEES.
+#### “SEC. 203. POLICY COMMITTEE; RELATED COMMITTEES.
 
 “(a)
 
@@ -662,27 +596,23 @@ Policy Committee.—
 
 &emsp;“(1)
 
-Establishment.—There is established a Policy Committee comprised of 25 members to be selected, not later than December 31, 1993, as follows:
+Establishment.—There is established a Policy Committee comprised of 17 members to be selected, not later than 2 years prior to the date on which the Conference convenes, as follows:
 
 &emsp;&emsp;“(A)
 
-Presidential appointees.—Thirteen members shall be selected by the President and shall include—
+Presidential appointees.—Nine members shall be selected by the President and shall include—
 
-&emsp;&emsp;&emsp;“(i) 3 members who are officers or employees of the United States; and
+&emsp;&emsp;&emsp;“(i) three members who are officers or employees of the United States; and
 
-&emsp;&emsp;&emsp;“(ii) 10 members with experience in the field of aging, who may include representatives of public aging agencies, institution-based organizations, and minority aging organizations.
+&emsp;&emsp;&emsp;“(ii) six members with experience in the field of aging, including providers and consumers of aging services.
 
 &emsp;&emsp;“(B)
 
-House appointees.—Four members shall be selected by the Speaker of the House of Representatives, after consultation with the Minority Leader of the House of Representatives, and shall include members of the Committee on Education and Labor of the House of Representatives, the Committee on Ways and Means of the House of Representatives, and the Select Committee on Aging of the House of Representatives. Not more than 3 members selected under this subparagraph may be associated or affiliated with the same political party.
+House appointees.—Two members shall be selected by the Speaker of the House of Representatives, after consultation with the Committee on Education and the Workforce and the Committee on Ways and Means of the House of Representatives, and two members shall be selected by the Minority Leader of the House of Representatives, after consultation with such committees.
 
 &emsp;&emsp;“(C)
 
-Senate appointees.—Four members shall be selected by the Majority Leader of the Senate, after consultation with the Minority Leader of the Senate, and shall include members of the Committee on Labor and Human Resources of the Senate, the Committee on Finance of the Senate, and the Special Committee on Aging of the Senate. Not more than 3 members selected under this subparagraph may be associated or affiliated with the same political party.
-
-&emsp;&emsp;“(D)
-
-Joint appointees.—Four members shall be selected jointly by the Speaker of the House of Representatives and the Majority Leader of the Senate, after consultation with the minority leaders of the House and Senate, and shall include representatives with experience in the field of aging, who may include representatives described in subsection (a)(1)(A)(ii). Not more than 2 members selected under this subparagraph may be associated or affiliated with the same political party.
+Senate appointees.—Two members shall be selected by the Majority Leader of the Senate, after consultation with members of the Committee on Health, Education, Labor, and Pensions and the Special Committee on Aging of the Senate, and two members shall be selected by the Minority Leader of the Senate, after consultation with members of such committees.
 
 &emsp;“(2)
 
@@ -690,29 +620,27 @@ Duties of the policy committee.—The Policy Committee shall initially meet at t
 
 &emsp;&emsp;“(A) make recommendations to the Secretary to facilitate the timely convening of the Conference;
 
-&emsp;&emsp;“(B) formulate and approve a proposed agenda for the Conference not later than 90 days after the first meeting of the Policy Committee;
+&emsp;&emsp;“(B) formulate and approve a proposed agenda for the Conference not later than 90 days after the first meeting of the Policy Committee for the Secretary;
 
 &emsp;&emsp;“(C) make recommendations for participants and delegates of the Conference;
 
-&emsp;&emsp;“(D) establish the number of delegates to be selected under section 202(d)(2); and
+&emsp;&emsp;“(D) establish the number of delegates to be selected under section 201(d)(2);
 
-&emsp;&emsp;“(E) formulate and approve the initial report of the Conference in accordance with section 205.
+&emsp;&emsp;“(E) establish an executive committee consisting of three to five members, with a majority of such members being age 55 or older, to work with Conference staff; and
+
+&emsp;&emsp;“(F) establish other committees as needed that have a majority of members who are age 55 or older.
 
 &emsp;“(3)
 
-Quorum; committee voting; chairperson.—
+Voting; chairperson.—
 
 &emsp;&emsp;“(A)
 
-Quorum.—Thirteen members shall constitute a quorum for the purpose of conducting the business of the Policy Committee, except that 17 members shall constitute a quorum for purposes of approving the agenda required by paragraph (2)(B) and the report required by paragraph (2)(E).
+Voting.—The Policy Committee shall act by the vote of a majority of the members present. A quorum of Committee members shall not be required to conduct Committee business.
 
 &emsp;&emsp;“(B)
 
-Voting.—The Policy Committee shall act by the vote of the majority of the members present.
-
-&emsp;&emsp;“(C)
-
-Chairperson.—The President shall select a chairperson from among the members of the Policy Committee. The chairperson may vote only to break a tie vote of the other members of the Policy Committee.
+Chairperson.—The President shall select the chairperson from among the members of the Policy Committee. The chairperson may vote only to break a tie vote of the other members of the Policy Committee.
 
 “(b)
 
@@ -734,31 +662,17 @@ Composition of Committees.—Each committee established under subsection (b) sha
 
 Compensation.—Appointed members of any such committee (other than any officers or employees of the Federal Government), while attending conferences or meetings of the committee or otherwise serving at the request of the Secretary, shall be entitled to receive compensation at a rate to be fixed by the Secretary, but not to exceed the daily equivalent of the maximum rate of pay payable under section 5376 of title 5, United States Code (including travel time). While away from their homes or regular places of business, such members may be allowed travel expenses, including per diem in lieu of subsistence, as authorized under section 5703 of such title for persons employed intermittently in Federal Government service.
 
-#### “SEC. 205. REPORT OF THE CONFERENCE.
+#### “SEC. 204. REPORT OF THE CONFERENCE.
 
 “(a)
 
-Proposed Report.—A proposed report of the Conference, which shall include a statement of comprehensive coherent national policy on aging together with recommendations for the implementation of the policy, shall be published and submitted to the chief executive officers of the States not later than 90 days following the date on which the Conference is adjourned. The findings and recommendations included in the published proposed report shall be immediately available to the public.
+Preliminary Report.—Not later than 100 days after the date on which the Conference adjourns, the Policy Committee shall publish and deliver to the chief executive officers of the States a preliminary report on the Conference. Comments on the preliminary report of the Conference shall be accepted by the Policy Committee.
 
 “(b)
 
-Response to Proposed Report.—The chief executive officers of the States, after reviewing and soliciting recommendations and comments on the report of the Conference, shall submit to the Policy Committee, not later than 90 days after receiving the report, their views and findings on the recommendations of the Conference.
+Final Report.—Not later than 6 months after the date on which the Conference adjourns, the Policy Committee shall publish and transmit to the President and to Congress recommendations resulting from the Conference and suggestions for any administrative action and legislation necessary to implement the recommendations contained within the report.
 
-“(c)
-
-Reports.—
-
-&emsp;“(1)
-
-Initial report.—The Policy Committee shall, after reviewing the views and recommendations of the chief executive officers of the States, prepare and approve an initial report of the Conference, which shall include a compilation of the actions of the chief executive officers of the States and take into consideration the views and findings of such officers.
-
-&emsp;“(2) Not later than 60 days after such initial report is transmitted by the Policy Committee, the Secretary shall publish such initial report in the Federal Register. The Secretary may republish a final report together with such additional views and recommendations as the Secretary considers to be appropriate.
-
-“(d)
-
-Recommendations of Policy Committee.—The Policy Committee shall, within 90 days after submission of the views of the chief executive officers of the States, publish and transmit to the President and to the Congress recommendations for the administrative action and the legislation necessary to implement the recommendations contained within the report.
-
-#### “SEC. 206. DEFINITIONS.
+#### “SEC. 205. DEFINITIONS.
 
 “For the purposes of this title—
 
@@ -772,7 +686,7 @@ Recommendations of Policy Committee.—The Policy Committee shall, within 90 day
 
 &emsp;“(5) the term ‘State’ means any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands of the United States, the Trust Territory of the Pacific Islands, or the Commonwealth of the Northern Mariana Islands.
 
-#### “SEC. 207. AUTHORIZATION OF APPROPRIATIONS.
+#### “SEC. 206. AUTHORIZATION OF APPROPRIATIONS.
 
 “(a)
 
@@ -780,7 +694,11 @@ Authorization.—
 
 &emsp;“(1)
 
-In general.—There are authorized to be appropriated such sums as may be necessary for fiscal years 1992 through 1996 to carry out this title.
+In general.—There are authorized to be appropriated to carry out this section \[title\]—
+
+&emsp;&emsp;“(A) such sums as may be necessary for the first fiscal year in which the Policy Committee plans the Conference and for the following fiscal year; and
+
+&emsp;&emsp;“(B) such sums as may be necessary for the fiscal year in which the Conference is held.
 
 &emsp;“(2)
 
@@ -792,7 +710,7 @@ Availability of Funds.—
 
 &emsp;“(1)
 
-In general.—Except as provided in paragraph (3), funds appropriated to carry out this title and funds received as gifts under section 203(c) shall remain available for obligation or expenditure until the expiration of the one-year period beginning on the date the Conference adjourns.
+In general.—Except as provided in paragraph (3), funds appropriated to carry out this title and funds received as gifts under section 202(c) shall remain available for obligation or expenditure until the expiration of the one-year period beginning on the date the Conference adjourns.
 
 &emsp;“(2)
 
@@ -800,11 +718,11 @@ Unobligated funds.—Except as provided in paragraph (3), any such funds neither
 
 &emsp;“(3)
 
-Conference not convened.—If the Conference is not convened before December 31, 1995, such funds neither expended nor obligated before such date shall be available to carry out the Older Americans Act of 1965.”
+Conference not convened.—If the Conference is not convened before December 31, 2005, such funds neither expended nor obligated before such date shall be available to carry out the Older Americans Act of 1965.”
 
 \[For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.\]
 
-\[Section 837 of Pub. L. 102–375 provided that: “All personnel assigned or engaged under section 202(b) or section 203(a)(5) of the Older Americans Act Amendments of 1987 \[Pub. L. 100–175, set out above\] (42 U.S.C. 3001 note) as in effect immediately before the date of the enactment of this Act \[Sept. 30, 1992\] shall continue to beassigned or engaged under such section after such date notwithstanding the amendments made by this subtitle \[amending title II of Pub. L. 100–175, set out above\].”\]
+\[Section 837 of Pub. L. 102–375 provided that: “All personnel assigned or engaged under \[former\] section 202(b) or section 203(a)(5) \[now section 202(a)(5)\] of the Older Americans Act Amendments of 1987 \[Pub. L. 100–175, set out above\] (42 U.S.C. 3001 note) as in effect immediately before the date of the enactment of this Act \[Sept. 30, 1992\] shall continue to be assigned or engaged under such section after such date notwithstanding the amendments made by this subtitle \[amending title II of Pub. L. 100–175, set out above\].”\]
 
 Pub. L. 95–478, title II, §§201–207, Oct. 18, 1978, 92 Stat. 1551–1554, as amended by Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, authorized the President to call a White House Conference on Aging in 1981 to develop recommendations relating to economic well-being, health care, housing, social services, and employment of the aging.
 

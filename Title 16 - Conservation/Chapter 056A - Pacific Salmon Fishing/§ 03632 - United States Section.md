@@ -44,17 +44,27 @@ The United States shall be represented on the Fraser River Panel by four Panel m
 
 &emsp;(4) one shall be appointed from the commercial sector of the salmon fishing industry concerned with fisheries for which the Fraser River Panel is responsible.
 
-#### (f) Panel appointments
+#### (f) Transboundary Panel
 
-Panel members described in subsections (c)(2), (c)(3), (d)(2), and (e)(2) of this section shall be appointed by the Governor of the applicable State. Panel members described in subsections (c)(4) and (e)(3) of this section shall be appointed by the Secretary of the Interior from lists of nominations provided by the appropriate treaty Indian tribes. All other Panel members shall be appointed by the Secretary: <i>Provided</i>, That at least one member of the northern Panel shall be a voting member of the North Pacific Fishery Management Council, at least one member of the southern Panel shall be a voting member of the Pacific Fishery Management Council; and the Panel members described in subsections (c)(5), (d)(3), and (e)(4) of this section shall be appointed from lists of nominations provided by the Governors of the applicable States. The appointing authorities listed above may also designate an alternate Panel member, meeting the same qualifications and having the same term of office, to service in the absence of a Panel member appointed under this subsection. Panel members and alternate Panel members, other than the southern Panel member described in subsection (c)(5) of this section, shall serve four-year terms; except that the Secretary of State shall designate one-half of the initial appointments to each Panel as serving two-year terms. The southern Panel member described in subsection (c)(5) of this section and the corresponding alternate shall each be appointed for one-year terms; the first such member shall be appointed from the commercial sector and an alternate shall be appointed from the recreational sector, with the alternate succeeding to the member position in the subsequent year; thereafter the member and alternate positions shall rotate between the commercial and recreational sectors on an annual basis. Any individual appointed to fill a vacancy occurring prior to the expiration of any term of office shall be appointed for the remainder of that term. Panel members and alternates shall be eligible for reappointment and may attend all meetings of the relevant United States Panel Section.
+The United States shall be represented on the Transboundary Panel by seven panel members, of whom—
 
-#### (g) Voting requirements
+&emsp;(1) one shall be an official of the United States Government, with salmon fishery management responsibility and expertise;
+
+&emsp;(2) one shall be an official of the State of Alaska, with salmon fishery management responsibility and expertise; and
+
+&emsp;(3) five shall be individuals knowledgeable and experienced in the salmon fisheries for which the Transboundary Panel is responsible.
+
+#### (g) Panel appointments
+
+Panel members described in subsections (c)(2), (c)(3), (d)(2), and (e)(2) of this section shall be appointed by the Governor of the applicable State. Panel members described in subsections (c)(4) and (e)(3) of this section shall be appointed by the Secretary of the Interior from lists of nominations provided by the appropriate treaty Indian tribes. All other Panel members shall be appointed by the Secretary: <i>Provided</i>, That at least one member of the northern Panel shall be a voting member of the North Pacific Fishery Management Council, at least one member of the southern Panel shall be a voting member of the Pacific Fishery Management Council; and the Panel members described in subsections (c)(5), (d)(3), and (e)(4) of this section shall be appointed from lists of nominations provided by the Governors of the applicable States. For the northern, southern, and Fraser River panels, the appointing authorities listed above may also designate an alternate Panel member, meeting the same qualifications and having the same term of office, to service in the absence of a Panel member appointed under this subsection. Panel members and alternate Panel members, other than the southern Panel member described in subsection (c)(5) of this section, shall serve four-year terms; except that the Secretary of State shall designate one-half of the initial appointments to each Panel as serving two-year terms. The southern Panel member described in subsection (c)(5) of this section and the corresponding alternate shall each be appointed for one-year terms; the first such member shall be appointed from the commercial sector and an alternate shall be appointed from the recreational sector, with the alternate succeeding to the member position in the subsequent year; thereafter the member and alternate positions shall rotate between the commercial and recreational sectors on an annual basis. Any individual appointed to fill a vacancy occurring prior to the expiration of any term of office shall be appointed for the remainder of that term. Panel members and alternates shall be eligible for reappointment and may attend all meetings of the relevant United States Panel Section.
+
+#### (h) Voting requirements
 
 (1) Except as provided in paragraph (2), the United States Section shall operate with the objective of attaining consensus decisions in the development and exercise of its single vote within the Commission. A decision of the United States Section shall be taken when there is no dissenting vote.
 
 (2) A decision of the United States Section with respect to any salmon fishery regime covered by chapter 1 or 2 (except paragraph 4 of chapter 2) of Annex IV to the Pacific Salmon Treaty of 1985 shall be taken upon the affirmative vote of the United States Commissioner appointed from the list submitted by the Governor of Alaska pursuant to subsection (a) of this section. A decision of the United States Section with respect to any salmon fishery regime covered by chapter 4, 5 (except paragraph 2(b) of chapter 5), or 6 of the Pacific Salmon Treaty of 1985 shall be taken upon the affirmative vote of both the United States Commissioner appointed from the list submitted by the Governors of Washington and Oregon pursuant to subsection (a) of this section and the United States Commissioner appointed from the list submitted by the treaty Indian tribes of the State of Idaho, Oregon, or Washington pursuant to subsection (a) of this section. Before a decision of the United States Section is made under this paragraph, the voting Commissioner or Commissioners shall consult with the Commissioner who is an official of the United States Government under subsection (a) of this section <sup>3</sup>
 
-(3) All decisions and recommendations of the United States Section of the northern and southern Panels shall require the concurring vote of a majority of the United States Panel members present and voting, except that decisions and recommendations of the southern Panel shall require the concurring vote of the members designated in subsections (c)(2) and (c)(3) of this section and one of those members designated in subsection (c)(4) of this section.
+(3) All decisions and recommendations of the United States Section of the northern, southern, and transboundary Panels shall require the concurring vote of a majority of the United States Panel members present and voting, except that decisions and recommendations of the southern Panel shall require the concurring vote of the members designated in subsections (c)(2) and (c)(3) of this section and one of those members designated in subsection (c)(4) of this section.
 
 (4) All decisions and recommendations of the United States Section of the Fraser River Panel shall require the concurring vote of all United States Panel members present and voting, except that orders referred to in article VI(6) of the Treaty may be agreed to on the basis of a majority, provided that the Panel members representing the State and Tribal fishery management authorities concur.
 
@@ -64,19 +74,29 @@ Panel members described in subsections (c)(2), (c)(3), (d)(2), and (e)(2) of thi
 
 (7) In any matter where the Fraser River Panel is unable to act because the United States Fraser River Panel members have been unable to reach a decision in accordance with paragraph (3) of this subsection, and upon a determination by the Chairman of the United States Section that an action of the Panel is required, the United States Section shall act for the United States Panel members in the Fraser River Panel.
 
-(8) In any matter where the Secretary of State determines that the United States is in jeopardy of not fulfilling its international obligations under the Treaty, the Secretary of State shall so certify to the United States Section. Such certification shall include the reasons for such determination and shall specify the date by whicha decision by the United States Section is desired. If the United States Section has not reached a decision by the date specified, the Secretary of State, after consultation with the Secretary and the Secretary of the Interior, shall report on the matter to the President.
+(8) In any matter where the Secretary of State determines that the United States is in jeopardy of not fulfilling its international obligations under the Treaty, the Secretary of State shall so certify to the United States Section. Such certification shall include the reasons for such determination and shall specify the date by which a decision by the United States Section is desired. If the United States Section has not reached a decision by the date specified, the Secretary of State, after consultation with the Secretary and the Secretary of the Interior, shall report on the matter to the President.
 
-#### (h) Consultation
+#### (i) Consultation
 
 In carrying out their functions under the Treaty, the Commissioners and Panel members may consult with such other interested parties as they consider appropriate. The Federal Advisory Committee Act \[5 U.S.C. App.\] shall not apply.
 
-(Pub. L. 99–5, §3, Mar. 15, 1985, 99 Stat. 8; Pub. L. 106–113, div. B, §1000(a)(1) \[title VI, §623(c)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–59.)
+(Pub. L. 99–5, §3, Mar. 15, 1985, 99 Stat. 8; Pub. L. 106–113, div. B, §1000(a)(1) \[title VI, §623(c)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–59; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(c)(5)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–239.)
 
 #### References in Text
 
-The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (i), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+
+2000—Subsec. (f). Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(c)(5)(A)\], added subsec. (f). Former subsec. (f) redesignated (g).
+
+Subsec. (g). Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(c)(5)(B), (C)\], redesignated subsec. (f) as (g) and substituted “For the northern, southern, and Fraser River panels, the appointing authorities” for “The appointing authorities”. Former subsec. (g) redesignated (h).
+
+Subsec. (h). Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(c)(5)(B)\], redesignated subsec. (g) as (h). Former subsec. (h) redesignated (i).
+
+Subsec. (h)(3). Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(c)(5)(D)\], substituted “northern, southern, and transboundary” for “northern and southern”.
+
+Subsec. (i). Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(c)(5)(B)\], redesignated subsec. (h) as (i).
 
 1999—Subsec. (g)(1). Pub. L. 106–113, §1000(a)(1) \[title II, §623(c)(1)\], substituted “Except as provided in paragraph (2), the” for “The”.
 

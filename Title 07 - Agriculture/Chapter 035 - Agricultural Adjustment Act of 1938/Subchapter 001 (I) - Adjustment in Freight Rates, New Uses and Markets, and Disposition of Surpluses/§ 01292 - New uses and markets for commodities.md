@@ -10,7 +10,7 @@ For the purposes of subsection (a) of this section, the Secretary is authorized 
 
 #### (c) Cooperation with governmental agencies, associations, etc.
 
-In carrying out the purposes of subsection (a) of this section, the Secretary is authorized anddirected to cooperate with other departments or agencies of the Federal Government, States, State agricultural experiment stations, and other State agencies and institutions, counties, municipalities, business or other organizations, corporations, associations, universities, scientific societies, and individuals, upon such terms and conditions as he may prescribe.
+In carrying out the purposes of subsection (a) of this section, the Secretary is authorized and directed to cooperate with other departments or agencies of the Federal Government, States, State agricultural experiment stations, and other State agencies and institutions, counties, municipalities, business or other organizations, corporations, associations, universities, scientific societies, and individuals, upon such terms and conditions as he may prescribe.
 
 #### (d) Appropriation for purposes of subsection (a)
 
@@ -41,12 +41,4 @@ Pub. L. 91–430, Sept. 26, 1970, 84 Stat. 885, provided:
 “
 
 Sec. 2 \[Contract authority; sale of export marketing certificates and pro rata share of such certificates for financing agreements; rules and regulations\]. The Secretary of Agriculture is authorized to enter into agreements with organizations of wheat growers, farm organizations, and such other organizations as he may deem appropriate to carry out a program of research and promotion designed to expand domestic and foreign markets and increase utilization for United States wheat and to carry out any other such program which he deems will benefit wheat producers in the United States. Notwithstanding any other provision of law, the Secretary shall use the total net proceeds from the sale of export marketing certificates during the marketing year ending June 30, 1969, to finance the cost of such agreements, except that he shall provide for the issuance of a pro rata share of export marketing certificates for such marketing year to any producer eligible therefor under section 379c of the Agricultural Adjustment Act of 1938, as amended \[section 1379c of this title\], who applies for such certificates not later than ninety days after the date of enactment of this Act \[Sept. 26, 1970\]. The Secretary is authorized to prescribe such rules and regulations as may be necessary to carry out the provisions of this Act.”
-
-#### Cross References
-
-Agricultural research generally, see sections 361a et seq. and 427 of this title.
-
-Development of new uses for cotton, see section 724 of this title.
-
-Marketing of agricultural products and control or eradication of plant and animal diseases and pests, cooperation with State agencies in administration and enforcement of laws relating to, see section 450 of this title.
 

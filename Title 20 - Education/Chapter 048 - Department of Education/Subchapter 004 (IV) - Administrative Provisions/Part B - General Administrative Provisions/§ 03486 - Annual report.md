@@ -18,6 +18,10 @@ The report required by subsection (a) of this section shall also include an esti
 
 (Pub. L. 96–88, title IV, §426, Oct. 17, 1979, 93 Stat. 688.)
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (a) of this section relating to transmission of report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 80 of House Document No. 103–7.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 3444, 4355 of this title.

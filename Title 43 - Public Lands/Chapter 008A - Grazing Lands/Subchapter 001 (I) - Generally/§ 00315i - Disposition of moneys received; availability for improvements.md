@@ -20,10 +20,6 @@ Section 315m of this title, referred to in text, was in the original “said sec
 
 Amendment by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under section 1701 of this title.
 
-#### Cross References
-
-Receipts from administration of lands leased from State, county, or private owner, see section 315m–4 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 315m–1, 315m–4, 1751 of this title; title 31 section 6903.

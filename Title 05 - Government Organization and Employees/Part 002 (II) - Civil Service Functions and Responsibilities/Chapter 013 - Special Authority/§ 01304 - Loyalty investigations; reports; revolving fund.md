@@ -6,7 +6,7 @@
 
 &emsp;(2) section 1874(c) of title 42; and
 
-&emsp;(3) section 1203(e) of title 6,<sup>1</sup> District of Columbia Code.
+&emsp;(3) section 1203(e) of title 6, District of Columbia Code.
 
 (b) When an investigation under subsection (a) of this section develops data indicating that the loyalty of the individual being investigated is questionable, the Office shall refer the matter to the Federal Bureau of Investigation for a full field investigation, a report of which shall be furnished to the Office for its information and appropriate action.
 
@@ -38,7 +38,7 @@
 
 (g) This section does not affect the responsibility of the Federal Bureau of Investigation to investigate espionage, sabotage, or subversive acts.
 
-(Pub. L. 89– 554, Sept. 6, 1966, 80 Stat. 401; Pub. L. 91–189, §1, Dec. 30, 1969, 83 Stat. 851; Pub. L. 91–648, title V, §510, Jan. 5, 1971, 84 Stat. 1928; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–60, title II, §203(a)(2), Aug. 15, 1979, 93 Stat. 398; Pub. L. 97–412, §1(a), Jan. 3, 1983, 96 Stat. 2047; Pub. L. 98–224, §5(b)(1), Mar. 2, 1984, 98 Stat. 48; Pub. L. 103–437, §3(a), Nov. 2, 1994, 108 Stat. 4581; Pub. L. 104–66, title II, §2182, Dec. 21, 1995, 109 Stat. 732; Pub. L. 104–208, div. A, title I, §101(f) \[title IV, §421\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–343.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 401; Pub. L. 91–189, §1, Dec. 30, 1969, 83 Stat. 851; Pub. L. 91–648, title V, §510, Jan. 5, 1971, 84 Stat. 1928; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–60, title II, §203(a)(2), Aug. 15, 1979, 93 Stat. 398; Pub. L. 97–412, §1(a), Jan. 3, 1983, 96 Stat. 2047; Pub. L. 98–224, §5(b)(1), Mar. 2, 1984, 98 Stat. 48; Pub. L. 103–437, §3(a), Nov. 2, 1994, 108 Stat. 4581; Pub. L. 104–66, title II, §2182, Dec. 21, 1995, 109 Stat. 732; Pub. L. 104–208, div. A, title I, §101(f) \[title IV, §421\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–343.)
 
 Historical and Revision Notes
 
@@ -90,8 +90,6 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 Section 1874(c) of title 42, referred to in subsec. (a)(2), which related to clearance of National Science Foundation personnel, was repealed by Pub. L. 96–516, §21(b)(1), Dec. 12, 1980, 94 Stat. 3010.
 
-Section 1203(e) of title 6, District of Columbia Code, referred to in subsec. (a)(3), was amended and transferred to section 6–1405(5) of Title 6, Health and Safety, of the District of Columbia Code, and, as so amended, does not contain provisions relating to investigations and reports by the Office of Personnel Management.
-
 #### Amendments
 
 1996—Subsec. (e)(1). Pub. L. 104–208 inserted “, including personnel management services performed at the request of individual agencies (which would otherwise be the responsibility of such agencies), or at the request of nonappropriated fund instrumentalities” before period at end of first sentence.
@@ -133,6 +131,4 @@ Committee on Post Office and Civil Service of House of Representatives abolished
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1104 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

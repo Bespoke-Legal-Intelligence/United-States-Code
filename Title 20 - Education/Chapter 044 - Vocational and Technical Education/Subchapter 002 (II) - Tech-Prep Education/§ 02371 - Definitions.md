@@ -10,7 +10,7 @@
 
 &emsp;The term “community college”—
 
-&emsp;&emsp;(A) means an institution of higher education, as defined in section 1001 of this title, that provides not less than a 2-year program that is acceptable for full credit toward a bachelor's degree; and
+&emsp;&emsp;(A) means an institution of higher education, as defined in section 1001 of thistitle, that provides not less than a 2-year program that is acceptable for full credit toward a bachelor's degree; and
 
 &emsp;&emsp;(B) includes tribally controlled colleges or universities.
 
@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(B) integrates academic, and vocational and technical, instruction, and utilizes work-based and worksite learning where appropriate and available;
 
-&emsp;&emsp;(C) provides technical preparation in a career field such as engineering technology,applied science, a mechanical, industrial, or practical art or trade, agriculture, health occupations, business, or applied economics;
+&emsp;&emsp;(C) provides technical preparation in a career field such as engineering technology, applied science, a mechanical, industrial, or practical art or trade, agriculture, health occupations, business, or applied economics;
 
 &emsp;&emsp;(D) builds student competence in mathematics, science, reading, writing, communications, economics, and workplace skills through applied, contextual academics, and integrated instruction, in a coherent sequence of courses;
 

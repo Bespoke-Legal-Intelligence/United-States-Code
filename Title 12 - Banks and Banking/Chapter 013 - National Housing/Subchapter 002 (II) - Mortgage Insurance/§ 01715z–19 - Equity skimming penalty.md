@@ -12,13 +12,9 @@ For purposes of subsection (a) of this section, a mortgage note is described in 
 
 &emsp;(2) is made pursuant to section 1701q of this title (including property still subject to section 1701q program requirements that existed before November 28, 1990); or
 
-&emsp;(3) is insured or held pursuant to section 542 of the Housing and Community Development Act of 1992, but is not reinsured under section 542 of the Housing and Community Development Act of 1992.
+&emsp;(3) is insured or held pursuant to section 1715z–22 of this title, but is not reinsured under section 1715z–22 of this title.
 
 (June 27, 1934, ch. 847, title II, §254, as added Pub. L. 100–242, title IV, §416(b), Feb. 5, 1988, 101 Stat. 1908; amended Pub. L. 105–65, title V, §552, Oct. 27, 1997, 111 Stat. 1412.)
-
-#### References in Text
-
-Section 542 of the Housing and Community Development Act of 1992, referred to in subsec. (b)(3), is section 542 of Pub. L. 102–550, which is set out as a note under section 1707 of this title.
 
 #### Amendments
 

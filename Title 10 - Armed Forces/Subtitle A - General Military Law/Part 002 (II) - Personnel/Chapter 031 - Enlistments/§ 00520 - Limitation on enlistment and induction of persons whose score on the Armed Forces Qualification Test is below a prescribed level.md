@@ -78,7 +78,7 @@ Report.—Not later than February 1, 2004, the Secretary of Defense shall submit
 
 “(g)
 
-State Defined.—For purposes of this section, the term ‘State’ includes the District of Columbia, theCommonwealth of Puerto Rico, and the territories of the United States.”
+State Defined.—For purposes of this section, the term ‘State’ includes the District of Columbia, the Commonwealth of Puerto Rico, and the territories of the United States.”
 
 #### Maximum Number of Army Enlistees and Inductees Who Are Not High School Graduates
 

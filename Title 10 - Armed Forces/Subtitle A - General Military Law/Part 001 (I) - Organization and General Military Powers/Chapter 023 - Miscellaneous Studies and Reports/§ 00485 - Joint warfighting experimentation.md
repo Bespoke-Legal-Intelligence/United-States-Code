@@ -74,7 +74,7 @@ Pub. L. 105–261, div. A, title IX, subtitle C, Oct. 17, 1998, 112 Stat. 2102, 
 
 “(a)
 
-Designation of Commander To Have Joint Warfighting Experimentation Mission.—It is the sense ofCongress that the initiative of the Secretary of Defense to designate the commander of a combatant command to have the mission of joint warfighting experimentation is a key step in exploiting the potential of advanced technologies, new organizational structures, and new joint operational concepts to transform the conduct of military operations by the Armed Forces.
+Designation of Commander To Have Joint Warfighting Experimentation Mission.—It is the sense of Congress that the initiative of the Secretary of Defense to designate the commander of a combatant command to have the mission of joint warfighting experimentation is a key step in exploiting the potential of advanced technologies, new organizational structures, and new joint operational concepts to transform the conduct of military operations by the Armed Forces.
 
 “(b)
 

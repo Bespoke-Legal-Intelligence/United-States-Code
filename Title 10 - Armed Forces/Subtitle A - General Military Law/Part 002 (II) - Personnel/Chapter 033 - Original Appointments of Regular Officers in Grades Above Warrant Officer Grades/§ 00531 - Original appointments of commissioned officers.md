@@ -16,7 +16,7 @@ Chapter effective Sept. 15, 1981, but the authority to prescribe regulations und
 
 #### Transition Provisions Under Defense Officer Personnel Management Act
 
-For provisions to prevent extinction or premature termination of rights, duties, penalties, or proceedings that existed or were begun prior to the effective date of Pub. L. 96–513 and otherwise to allow for an orderly transition to the system of officer personnel management put in place under Pub. L. 96–513, see section 601 et seq. of Pub. L. 96–513, set out as a note under section 611 of this title.
+For provisions to prevent extinction or premature termination of rights, duties, penalties, or proceedingsthat existed or were begun prior to the effective date of Pub. L. 96–513 and otherwise to allow for an orderly transition to the system of officer personnel management put in place under Pub. L. 96–513, see section 601 et seq. of Pub. L. 96–513, set out as a note under section 611 of this title.
 
 #### Program To Increase Use of Certain Nurses by Military Departments
 
@@ -30,7 +30,7 @@ Program Required.—(1) Not later than September 30, 1991, the Secretary of each
 
 “(b)
 
-Report on Implementation.—Not later than April 1, 1990, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on the actions takenby the Secretaries of the military departments to implement the program required by this section.”
+Report on Implementation.—Not later than April 1, 1990, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on the actions taken by the Secretaries of the military departments to implement the program required by this section.”
 
 #### Section Referred to in Other Sections
 

@@ -2,7 +2,7 @@
 
 #### (a) Program authorized
 
-The Secretary may make grants to, and enter into contracts and cooperative agreements with,parent organizations to support parent training and information centers to carry out activities under this section.
+The Secretary may make grants to, and enter into contracts and cooperative agreements with, parent organizations to support parent training and information centers to carry out activities under this section.
 
 #### (b) Required activities
 

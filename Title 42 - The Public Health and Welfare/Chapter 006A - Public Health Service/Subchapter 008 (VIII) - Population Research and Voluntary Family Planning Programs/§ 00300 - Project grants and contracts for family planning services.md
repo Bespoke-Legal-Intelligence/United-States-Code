@@ -96,7 +96,7 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 247c–1, 256b, 256d, 300a–1, 300a–4, 300ff–52 of this title.
+This section is referred to in sections 247c–1, 254c–6, 256b, 256d, 300a–1, 300a–4, 300ff–52 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “family”.</i>
 

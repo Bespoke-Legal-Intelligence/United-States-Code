@@ -14,5 +14,5 @@ Section 3066, Pub. L. 93–29, title IX, §907, May 3, 1973, 87 Stat. 64, relate
 
 Section 3067, Pub. L. 93–29, title IX, §908, May 8, 1973, 87 Stat. 64; Pub. L. 93–113, title VI, §604(b), Oct. 1, 1973, 87 Stat. 417, related to authorization of appropriations.
 
-Subject matter is covered by sections 3056 to 3056f of this title.
+Subject matter is covered by section 3056 et seq. of this title.
 

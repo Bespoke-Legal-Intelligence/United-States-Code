@@ -27,10 +27,6 @@
 
 Pub. L. 90–235, §5(a)(3), Jan. 2, 1968, 81 Stat. 761, struck out item 3576 “Command: when different commands of Army and Marine Corps join”, and item 3578 “Command: commissioned officers of Army in same grade on duty at same place”.
 
-#### Cross References
-
-General military law provisions, see section 741 et seq. of this title.
-
 
 ---
 

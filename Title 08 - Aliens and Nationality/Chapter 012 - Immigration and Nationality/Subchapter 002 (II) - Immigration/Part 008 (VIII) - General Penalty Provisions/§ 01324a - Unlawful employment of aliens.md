@@ -50,7 +50,7 @@
 
 #### (ii) Rebuttal of presumption
 
-&emsp;&emsp;&emsp;The presumption established by clause (i) may be rebutted by the employer only through the presentation of clear and convincing evidence that the employer did not know (and could not reasonably have known) that the individual at the time of hiring or afterward was an alien not authorized to work in the United States.
+&emsp;&emsp;&emsp;The presumption established by clause (i) may be rebutted by the employer onlythrough the presentation of clear and convincing evidence that the employer did not know (and could not reasonably have known) that the individual at the time of hiring or afterward was an alien not authorized to work in the United States.
 
 #### (iii) Exception
 
@@ -174,7 +174,7 @@ Nothing in this section shall be construed to authorize, directly or indirectly,
 
 #### (2) Restrictions on changes in system
 
-&emsp;Any change the President proposes to implement under paragraph (1) in the verificationsystem must be designed in a manner so the verification system, as so changed, meets the following requirements:
+&emsp;Any change the President proposes to implement under paragraph (1) in the verification system must be designed in a manner so the verification system, as so changed, meets the following requirements:
 
 #### (A) Reliable determination of identity
 
@@ -318,7 +318,7 @@ Nothing in this section shall be construed to authorize, directly or indirectly,
 
 &emsp;&emsp;&emsp;(ii) to take such other remedial action as is appropriate.
 
-> &emsp;&emsp;In applying this subsection in the case of a person or entity composed of distinct, physically separate subdivisions each of which provides separately for the hiring, recruiting, or referring for employment, without reference to the practices of, and not underthe control of or common control with, another subdivision, each such subdivision shall be considered a separate person or entity.
+> &emsp;&emsp;In applying this subsection in the case of a person or entity composed of distinct, physically separate subdivisions each of which provides separately for the hiring, recruiting, or referring for employment, without reference to the practices of, and not under the control of or common control with, another subdivision, each such subdivision shall be considered a separate person or entity.
 
 #### (5) Order for civil money penalty for paperwork violations
 
@@ -330,7 +330,7 @@ Nothing in this section shall be construed to authorize, directly or indirectly,
 
 #### (7) Administrative appellate review
 
-&emsp;The decision and order of an administrative law judge shall become the final agency decision and order of the Attorney General unless either (A) within 30 days, an official delegated by regulation to exercise review authority over the decision and order modifies or vacates the decision and order, or (B) within 30 days of the date of such a modification or vacation (or within 60 days of the date of decision and order of an administrative law judge if not so modified or vacated) the decision and order is referred to the Attorney General pursuant to regulations, in which case the decision and order of the Attorney General shall become the final agency decision and order under this subsection. The Attorney General may not delegate the Attorney General's authority under this paragraph to any entity which has review authority over immigration-related matters.
+&emsp;The decision and order of an administrative law judge shall become the final agency decision and order of the Attorney General unless either (A) within 30 days, an official delegated by regulation to exercise review authority over the decision and order modifies or vacates the decision and order, or (B) within 30 days of the date of such a modification or vacation (or within 60 days of the date of decision and order of an administrative law judge if not so modified or vacated) the decision and order is referred to the Attorney General pursuant to regulations, in which case the decision and order of the Attorney General shallbecome the final agency decision and order under this subsection. The Attorney General may not delegate the Attorney General's authority under this paragraph to any entity which has review authority over immigration-related matters.
 
 #### (8) Judicial review
 
@@ -676,7 +676,7 @@ Role of attorney general.—The Attorney General shall assist and coordinate ele
 
 &emsp;&emsp;“(B)
 
-Legislative branch.—Each Member of Congress, each officer of Congress, and the head of each agency of the legislative branch, that conducts hiring in a State in which a pilot program is operating shall elect to participate in a pilot program, mayspecify which pilot program or programs (if there is more than one) in which the Member, officer, or agency will participate, and shall comply with the terms and conditions of such an election.
+Legislative branch.—Each Member of Congress, each officer of Congress, and the head of each agency of the legislative branch, that conducts hiring in a State in which a pilot program is operating shall elect to participate in a pilot program, may specify which pilot program or programs (if there is more than one) in which the Member, officer, or agency will participate, and shall comply with the terms and conditions of such an election.
 
 &emsp;“(2)
 
@@ -774,7 +774,7 @@ Contest.—If the individual does contest the nonconfirmation, the individual sh
 
 &emsp;&emsp;&emsp;“(iv)
 
-Recording of conclusion on form.—If a final confirmation or nonconfirmation is providedby the confirmation system under section 404(c) of this division regarding an individual, the person or entity shall record on the I–9 or similar form an appropriate code that is provided under the system and that indicates a confirmation or nonconfirmation of identity and work eligibility of the individual.
+Recording of conclusion on form.—If a final confirmation or nonconfirmation is provided by the confirmation system under section 404(c) of this division regarding an individual, the person or entity shall record on the I–9 or similar form an appropriate code that is provided under the system and that indicates a confirmation or nonconfirmation of identity and work eligibility of the individual.
 
 &emsp;&emsp;“(C)
 
@@ -866,7 +866,7 @@ Protection From Liability for Actions Taken on the Basis of Information Provided
 
 In General.—The Attorney General shall establish a pilot program confirmation system through which the Attorney General (or a designee of the Attorney General, which may be a nongovernmental entity)—
 
-&emsp;“(1) responds to inquiries made by electing persons and other entities (including those made by thetransmittal of data from machine-readable documents under the machine-readable pilot program) at any time through a toll-free telephone line or other toll-free electronic media concerning an individual's identity and whether the individual is authorized to be employed, and
+&emsp;“(1) responds to inquiries made by electing persons and other entities (including those made by the transmittal of data from machine-readable documents under the machine-readable pilot program) at any time through a toll-free telephone line or other toll-free electronic media concerning an individual's identity and whether the individual is authorized to be employed, and
 
 &emsp;“(2) maintains records of the inquiries that were made, of confirmations provided (or not provided), and of the codes provided to inquirers as evidence of their compliance with their obligations under the pilot programs.
 
@@ -1016,7 +1016,7 @@ Section 402 of Pub. L. 99–603 provided that: “The President shall transmit t
 
 Ex. Ord. No. 12989, Feb. 13, 1996, 61 F.R. 6091, provided:
 
-This order is designed to promote economy and efficiency in Government procurement. Stability and dependability are important elements of economy and efficiency. A contractor whose work force is less stable will be less likely to produce goods and services economically and efficiently than a contractor whose work force is more stable. It remains the policy of this Administration to enforce the immigration laws to thefullest extent, including the detection and deportation of illegal aliens. In these circumstances, contractors cannot rely on the continuing availability and service of illegal aliens, and contractors that choose to employ unauthorized aliens inevitably will have a less stable and less dependable work force than contractors that do not employ such persons. Because of this Administration's vigorous enforcement policy, contractors that employ unauthorized alien workers are necessarily less stable and dependable procurement sources than contractors that do not hire such persons. I find, therefore, that adherence to the general policy of not contracting with providers that knowingly employ unauthorized alien workers will promote economy and efficiency in Federal procurement.
+This order is designed to promote economy and efficiency in Government procurement. Stability and dependability are important elements of economy and efficiency. A contractor whose work force is less stable will be less likely to produce goods and services economically and efficiently than a contractor whose work force is more stable. It remains the policy of this Administration to enforce the immigration laws to the fullest extent, including the detection and deportation of illegal aliens. In these circumstances, contractors cannot rely on the continuing availability and service of illegal aliens, and contractors that choose to employ unauthorized aliens inevitably will have a less stable and less dependable work force than contractors that do not employ such persons. Because of this Administration's vigorous enforcement policy, contractors that employ unauthorized alien workers are necessarily less stable and dependable procurement sources than contractors that do not hire such persons. I find, therefore, that adherence to the general policy of not contracting with providers that knowingly employ unauthorized alien workers will promote economy and efficiency in Federal procurement.
 
 NOW, THEREFORE, to ensure the economical and efficient administration and completion of Federal Government contracts, and by the authority vested in me as President by the Constitution and the laws of the United States of America, including 40 U.S.C. 486(a) and 3 U.S.C. 301, it is hereby ordered as follows:
 

@@ -20,6 +20,7 @@ part 5—administration and enforcement
 - [&sect; 01143 - Research, studies, and reports](%C2%A7%2001143%20-%20Research%2C%20studies%2C%20and%20reports.md)
 - [&sect; 01143a - Studies by Comptroller General](%C2%A7%2001143a%20-%20Studies%20by%20Comptroller%20General.md)
 - [&sect; 01144 - Other laws](%C2%A7%2001144%20-%20Other%20laws.md)
+- [&sect; 01144a - Clarification of church welfare plan status under State insurance law](%C2%A7%2001144a%20-%20Clarification%20of%20church%20welfare%20plan%20status%20under%20State%20insurance%20law.md)
 - [&sect; 01145 - Delinquent contributions](%C2%A7%2001145%20-%20Delinquent%20contributions.md)
 - [&sect; 01146 - Outreach to promote retirement income savings](%C2%A7%2001146%20-%20Outreach%20to%20promote%20retirement%20income%20savings.md)
 - [&sect; 01147 - National Summit on Retirement Savings](%C2%A7%2001147%20-%20National%20Summit%20on%20Retirement%20Savings.md)

@@ -184,5 +184,5 @@ Subsec. (f)(1). Pub. L. 105–178, §3014(a)(2), struck out “10 percent of the
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5302, 5310, 5319, 5323, 5327, 5331, 5333, 5334, 5336, 5338, 24305, 31138 of this title; title 42 section 3035<i>l.</i>
+This section is referred to in sections 5302, 5310, 5319, 5323, 5327, 5331, 5333, 5334, 5336, 5338, 24305, 31138 of this title.
 

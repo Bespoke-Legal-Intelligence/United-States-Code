@@ -16,7 +16,7 @@ Deposit for Copyright Registration.—Except as provided by subsection (c), the 
 
 &emsp;(4) in the case of a contribution to a collective work, one complete copy or phonorecord of the best edition of the collective work.
 
-> Copies or phonorecords deposited for the Library of Congress under section 407 may be used to satisfy the deposit provisions of this section, if they are accompanied by the prescribed application and fee, and by any additional identifyingmaterial that the Register may, by regulation, require. The Register shall also prescribe regulations establishing requirements under which copies or phonorecords acquired for the Library of Congress under subsection (e) of section 407, otherwise than by deposit, may be used to satisfy the deposit provisions of this section.
+> Copies or phonorecords deposited for the Library of Congress under section 407 may be used to satisfy the deposit provisions of this section, if they are accompanied by the prescribed application and fee, and by any additional identifying material that the Register may, by regulation, require. The Register shall also prescribe regulations establishing requirements under which copies or phonorecords acquired for the Library of Congress under subsection (e) of section 407, otherwise than by deposit, may be used to satisfy the deposit provisions of this section.
 
 (c)
 
@@ -54,7 +54,7 @@ Published Edition of Previously Registered Work.—Registration for the first pu
 
 I74house report no. 94–1476
 
-<b>Permissive Registration.</b> Under section 408(a), registration of a claim to copyright in any work whether published or unpublished, can be made voluntarily by “the owner of copyright or of any exclusive right in the work” at any time during the copyright term. The claim may be registered in the Copyright Office by depositing the copies, phonorecords, or other material specified by subsection (b) and (c), together with an application and fee. Except where, under section 405(a), registration is made to preserve a copyright that would otherwise be invalidated because of omission of the notice, registration is not a condition of copyright protection.
+<b>Permissive Registration.</b> Under section 408(a), registration of a claim to copyright in any work whether published or unpublished, can be made voluntarily by “the owner of copyright or of any exclusive right in the work” at any time during the copyright term. The claim may be registered in the Copyright Office by depositing the copies, phonorecords, or other material specified by subsection (b) and (c), together with an application and fee. Except where, under section 405(a),registration is made to preserve a copyright that would otherwise be invalidated because of omission of the notice, registration is not a condition of copyright protection.
 
 <b>Deposit for Purpose of Copyright Registration.</b> In general, and subject to various exceptions, the material to be deposited for copyright registration consists of one complete copy or phonorecord of an unpublished work, and two complete copies or phonorecords of the best edition in the case of a published work. Section 408(b) provides special deposit requirements in the case of a work first published abroad (“one complete copy or phonorecord as so published”) and in the case of a contribution to a collective work (“one complete copy or phonorecord of the best edition of the collective work”). As a general rule the deposit of more than a tear sheet or similar fraction of a collective work is needed to identify the contribution properly and to show the form in which it was published. Where appropriate as in the case of collective works such as multivolume encyclopedias, multipart newspaper editions, and works that are rare or out of print, the regulations issued by the Register under section 408(c) can be expected to make exceptions or special provisions.
 
@@ -72,7 +72,7 @@ The provision empowering the Register to allow a number of related works to be r
 
 Section 408(c)(3) provides under certain conditions an alternative to the separate renewal registrations of subsection (a). If the specified conditions are met, a single renewal registration may be made for a group of works by the same individual author, all first published as contributions to periodicals, including newspapers, upon the filing of a single application and fee. It is required that the renewal claimant or claimants, and the basis of claim or claims under section 304(a), is the same for each of the works; that the works were all copyrighted upon their first publication, either through separate copyright notice and registration or by virtue of a general copyright notice in the periodical issue as a whole; that the renewal application and fee are received not more than twenty-eight or less than twenty-seven years after December 31 of the calendar year in which all of the works were first published; and that the renewal application identifies each work separately, including the periodical containing it and its date of first publication.
 
-<b>Corrections and Amplifications.</b> Another unsatisfactory aspect of the present law is the lack of any provision for correcting or amplifying the information given in a completed registration. Subsection (d) of section 408 would remedy this by authorizing the Register to establish “formal procedures for the filing of an application for supplementary registration,” in order to correct an error or amplify the information in a copyright registration. The “error” to be corrected under subsection (d) is an error by the applicant that the Copyright Office could not have been expected to note during its examination of the claim; where the error in a registration is the result of the Copyright Office's own mistake or oversight, the Office can make the correction on its own initiative and without recourse to the “supplementary registration” procedure.
+<b>Corrections and Amplifications.</b> Another unsatisfactory aspect of the present law is the lack of any provision for correcting or amplifying the information given in a completed registration. Subsection (d) of section 408 would remedy this by authorizing the Register to establish “formal procedures for the filing of an application for supplementary registration,” in order to correct an error or amplify the information in a copyright registration. The “error” to be corrected under subsection (d) is an error by the applicant that the Copyright Office could not have been expected to note during its examination of the claim; where the error in a registration is the result of the Copyright Office's ownmistake or oversight, the Office can make the correction on its own initiative and without recourse to the “supplementary registration” procedure.
 
 Under subsection (d), a supplementary registration is subject to payment of a separate fee and would be maintained as an independent record, separate and apart from the record of the earlier registration it is intended to supplement. However, it would be required to identify clearly “the registration to be corrected or amplified” so that the two registrations could be tied together by appropriate means in the Copyright Office records. The original registration would not be expunged or cancelled; as stated in the subsection: “The information contained in a supplementary registration augments but does not supersede that contained in the earlier registration.”
 
@@ -82,7 +82,7 @@ On the other hand, there will be a number of cases where the copyright owner, al
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–307 substituted “At any time during the subsistence of the first term of copyright in any published or unpublished work in whichthe copyright was secured before January 1, 1978, and during the subsistence of any copyright secured on or after that date,” for “At any time during the subsistence of copyright in any published or unpublished work,”.
+1992—Subsec. (a). Pub. L. 102–307 substituted “At any time during the subsistence of the first term of copyright in any published or unpublished work in which the copyright was secured before January 1, 1978, and during the subsistence of any copyright secured on or after that date,” for “At any time during the subsistence of copyright in any published or unpublished work,”.
 
 1988—Subsec. (a). Pub. L. 100–568, §9(a)(1), substituted “Such” for “Subject to the provisions of section 405(a), such”.
 
@@ -96,17 +96,7 @@ Amendment by Pub. L. 102–307 effective June 26, 1992, but applicable only to c
 
 Amendment by Pub. L. 100–568 effective Mar. 1, 1989, with any cause of action arising under this title before such date being governed by provisions in effect when cause of action arose, see section 13 of Pub. L. 100–568, set out as a note under section 101 of this title.
 
-#### Cross References
-
-Fee for registration of copyright claim or supplementary registration, see section 708 of this title.
-
-Forms and procedures, reproduction for use of the blind and physically handicapped, see section 710 of this title.
-
-Issuance of importation statement, material not manufactured in United States or Canada, see section 601 of this title.
-
-Placement of copies and phonorecords acquired in accordance with this section in American Television and Radio Archives, see section 170 of Title 2, The Congress.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 302, 405, 601, 704, 708, 710 of this title; title 2 section 170; title 28 section 4001.
+This section is referred to in sections 302, 405, 601, 704, 708 of this title; title 2 section 170; title 28 section 4001.
 

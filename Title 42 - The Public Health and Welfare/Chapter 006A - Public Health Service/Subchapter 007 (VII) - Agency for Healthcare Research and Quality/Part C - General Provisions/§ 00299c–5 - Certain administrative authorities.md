@@ -30,7 +30,7 @@ The Director, in carrying out this subchapter, may make grants to public and non
 
 #### (2) Other agencies
 
-&emsp;The Director, in carrying out this subchapter, may use, with their consent, the services, equipment, personnel, information, and facilities of other Federal, State, or local public agencies, or of any foreign government, with or without reimbursement of such agencies.
+&emsp;The Director, in carrying out this subchapter, may use, with their consent, the services, equipment, personnel, information, andfacilities of other Federal, State, or local public agencies, or of any foreign government, with or without reimbursement of such agencies.
 
 #### (e) Consultants
 

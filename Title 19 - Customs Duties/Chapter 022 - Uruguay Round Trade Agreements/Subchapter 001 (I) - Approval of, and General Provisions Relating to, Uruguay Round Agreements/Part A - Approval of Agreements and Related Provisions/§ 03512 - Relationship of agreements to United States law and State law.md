@@ -4,7 +4,7 @@
 
 #### (1) United States law to prevail in conflict
 
-&emsp;No provision of any of the Uruguay Round Agreements, nor the application of any suchprovision to any person or circumstance, that is inconsistent with any law of the United States shall have effect.
+&emsp;No provision of any of the Uruguay Round Agreements, nor the application of any such provision to any person or circumstance, that is inconsistent with any law of the United States shall have effect.
 
 #### (2) Construction
 

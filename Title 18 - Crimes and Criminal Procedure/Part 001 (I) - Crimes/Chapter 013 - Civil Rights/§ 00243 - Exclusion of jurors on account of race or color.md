@@ -16,31 +16,3 @@ Minimum punishment provisions were omitted. (See reviser's note under section 20
 
 Minor changes in phraseology were made.
 
-#### Federal Rules of Civil Procedure
-
-Jurors, see rule 47, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-#### Federal Rules of Criminal Procedure
-
-Grand jury, see rule 6, Appendix to this title.
-
-Trial jurors, see rule 24.
-
-#### Cross References
-
-Bribery of public officials and witnesses, see section 201 of this title.
-
-Civil rights generally, see section 1981 et seq. of Title 42, The Public Health and Welfare.
-
-Exclusion or excuse from jury service, see section 1863 of Title 28, Judiciary and Judicial Procedure.
-
-Grand jurors, number of and summoning additional jurors, see section 3321 of this title.
-
-Juries generally, see section 1861 et seq. of Title 28, Judiciary and Judicial Procedure.
-
-Manner of drawing jurors, see section 1864 of Title 28.
-
-Qualifications of jurors, see section 1861 of Title 28.
-
-Summoning jurors, see section 1867 of Title 28.
-

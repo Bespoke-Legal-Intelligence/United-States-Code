@@ -12,27 +12,3 @@ Section 3044d, Pub. L. 89–73, title VI, §613, as added Pub. L. 91–69, §9, 
 
 Section 3044e, Pub. L. 89–73, title VI, §614, as added Pub. L. 91–69, §9, Sept. 17, 1969, 83 Stat. 114; amended Pub. L. 93–29, title VI, §604, May 3, 1973, 87 Stat. 55, related to authorization of appropriations.
 
-Such former provisions are covered by various sections as follows:
-
-&nbsp;
-
-| <i>Former Sections</i> | <i>Present Sections</i> |
-| :--- | ---: |
-| 3044(a)(1), (2) | 5001(a)(1), (2) |
-| 3044(a)(3) | 5044(a) |
-| 3044(a)(4), (5) | 5001(a)(3), (4) |
-| 3044(a)(6) | 5021 |
-| 3044(b) | 5022 |
-| 3044(c) | 5001(b) |
-| 3044(d) | 5058 |
-| 3044a | 5082(a) |
-| 3044b(a), (b) | 5011(a), (b) |
-| 3044b(c) | 5022 |
-| 3044b(d) | 5058 |
-| 3044c(a)(1)(A) | 5012(a)(1) |
-| 3044c(a)(1)(B) | 5044(a) |
-| 3044c(a)(2), (3) | 5012(a)(2), (3) |
-| 3044c(b) | 5012(b) |
-| 3044d | 5021 |
-| 3044e | 5082(b) |
-

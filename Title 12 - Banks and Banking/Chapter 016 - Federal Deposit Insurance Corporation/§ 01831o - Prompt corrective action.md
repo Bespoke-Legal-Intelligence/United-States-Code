@@ -52,7 +52,7 @@ For purposes of this section:
 
 &emsp;&emsp;The term “capital distribution” means—
 
-&emsp;&emsp;&emsp;(i) a distribution of cash or other property by any insured depository institutionor company to its owners made on account of that ownership, but not including—
+&emsp;&emsp;&emsp;(i) a distribution of cash or other property by any insured depository institution or company to its owners made on account of that ownership, but not including—
 
 &emsp;&emsp;&emsp;&emsp;(I) any dividend consisting only of shares of the institution or company or rights to purchase such shares; or
 
@@ -80,7 +80,7 @@ For purposes of this section:
 
 #### (G) Required minimum level
 
-&emsp;&emsp;The term “required minimum level” means, with respect to each relevant capital measure, the minimum acceptable capital level specified by the appropriate Federal banking agency by regulation.
+&emsp;&emsp;The term “required minimum level” means, with respect to each relevant capital measure, the minimum acceptable capitallevel specified by the appropriate Federal banking agency by regulation.
 
 #### (H) Senior executive officer
 
@@ -242,7 +242,7 @@ For purposes of this section:
 
 #### (3) Asset growth restricted
 
-&emsp;An undercapitalized insured depository institution shall not permit its average total assets during any calendar quarter to exceed itsaverage total assets during the preceding calendar quarter unless—
+&emsp;An undercapitalized insured depository institution shall not permit its average total assets during any calendar quarter to exceed its average total assets during the preceding calendar quarter unless—
 
 &emsp;&emsp;(A) the appropriate Federal banking agency has accepted the institution's capital restoration plan;
 
@@ -438,7 +438,7 @@ For purposes of this section:
 
 #### (A) In general
 
-&emsp;&emsp;The appropriate Federal banking agency shall, not later than 90 days after an insured depository institution becomes critically undercapitalized—
+&emsp;&emsp;The appropriate Federal banking agency shall, not later than 90 days after an insureddepository institution becomes critically undercapitalized—
 
 &emsp;&emsp;&emsp;(i) appoint a receiver (or, with the concurrence of the Corporation, a conservator) for the institution; or
 
@@ -688,41 +688,25 @@ This section does not limit any authority of an appropriate Federal banking agen
 
 (Sept. 21, 1950, ch. 967, §2\[38\], as added Pub. L. 102–242, title I, §131(a), Dec. 19, 1991, 105 Stat. 2253; amended Pub. L. 102–550, title XVI, §1603(d)(1), Oct. 28, 1992, 106 Stat. 4079; Pub. L. 103–325, title VI, §602(a)(64), Sept. 23, 1994, 108 Stat. 2291; Pub. L. 104–208, div. A, title II, §2704(d)(14)(AA)–(CC), Sept. 30, 1996, 110 Stat. 3009–494; Pub. L. 104–316, title I, §106(d), Oct. 19, 1996, 110 Stat. 3831.)
 
-#### Amendment of Section
-
-<i>Pub. L. 104–208, div. A, title II, §2704(c), (d)(14)(AA)–(CC), Sept. 30, 1996, 110 Stat. 3009–487, 3009–494, provided that, effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, this section is amended as follows:</i>
-
-<i>(1) In subsection (a), in the subsection heading, by striking “funds” and inserting “fund”;</i>
-
-<i>(2) In subsection (k)—</i>
-
-<i>(A) in paragraph (1), by striking “a deposit insurance fund” and inserting “the Deposit Insurance Fund”; and</i>
-
-<i>(B) in paragraph (2)(A)—</i>
-
-<i>(i) by striking “A deposit insurance fund” and inserting “The Deposit Insurance Fund”; and</i>
-
-<i>(ii) by striking “the deposit insurance fund's outlays” and inserting “the outlays of the Deposit Insurance Fund”; and</i>
-
-<i>(3) In subsection (o)—</i>
-
-<i>(A) by striking “(1) RTC's” and all that follows through “Subsections (e)(2)” and inserting “Subsections (e)(2)”;</i>
-
-<i>(B) by redesignating subparagraphs (A), (B), and (C) as paragraphs (1), (2), and (3), respectively, and moving the margins 2 ems to the left; and</i>
-
-<i>(C) in paragraph (1) (as redesignated), by redesignating clauses (i) and (ii) as subparagraphs (A) and (B), respectively, and moving the margins 2 ems to the left.</i>
-
 #### References in Text
 
 The Securities Exchange Act of 1934, referred to in subsec. (e)(2)(E)(ii)(III), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
 
 #### Amendments
 
-1996—Subsec. (k)(5). Pub. L. 104–316 amended heading and text of par. (5) generally. Prior to amendment, text read as follows: “The General Accounting Office shall annually—
+1996—Subsec. (a). Pub. L. 104–208, §2704(d)(14)(AA), which directed substitution of “fund” for “funds” in heading, was not executed. See Effective Date of 1996 Amendment note below.
+
+Subsec. (k)(1). Pub. L. 104–208, §2704(d)(14)(BB)(i), which directed substitution of “the Deposit Insurance Fund” for “a deposit insurance fund”, was not executed. See Effective Date of 1996 Amendment note below.
+
+Subsec. (k)(2)(A). Pub. L. 104–208, §2704(d)(14)(BB)(ii), which directed substitution of “The Deposit Insurance Fund” for “A deposit insurance fund” in introductory provisions and “the outlays of the Deposit Insurance Fund” for “the deposit insurance fund's outlays” in cl. (ii), was not executed. See Effective Date of 1996 Amendment note below.
+
+Subsec. (k)(5). Pub. L. 104–316 amended heading and text of par. (5) generally. Prior to amendment, text read as follows: “The General Accounting Office shall annually—
 
 &emsp;“(A) review reports made under paragraph (1) and recommend improvements in the supervision of insured depository institutions (including the implementation of this section); and
 
 &emsp;“(B) verify the accuracy of 1 or more of those reports.”
+
+Subsec. (<i>o</i>). Pub. L. 104–208, §2704(d)(14)(CC), which directed the amendment of subsec. (<i>o</i>) by striking par. (1) and the par. designation and heading of par. (2), redesignating subpars. (A) to (C) as pars. (1) to (3), respectively, and cls. (i) and (ii) as subpars. (A) and (B), respectively, and realigning margins, was not executed. See Effective Date of 1996 Amendment note below.
 
 1994—Subsec. (f)(6). Pub. L. 103–325 substituted “Commission” for “Commisssion”.
 

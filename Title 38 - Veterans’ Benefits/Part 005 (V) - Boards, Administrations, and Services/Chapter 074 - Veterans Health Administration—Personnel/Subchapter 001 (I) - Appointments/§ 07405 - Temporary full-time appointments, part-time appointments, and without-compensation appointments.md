@@ -28,9 +28,21 @@
 
 (c)(1) Temporary full-time appointments under this section of persons in positions listed in section 7401(1) of this title may be for a period in excess of 90 days only if the Under Secretary for Health finds that circumstances render it impracticable to obtain the necessary services through appointments under that section.
 
-(2) Temporary full-time appointments of persons who have successfully completed a full course of nursing in a recognized school of nursing, approved by the Secretary, or who have successfully completed a full course of training for any category of personnel described in paragraph (3) of section 7401 of this title in a recognized education or training institution approved by the Secretary, and who are pending registration or licensure in a State, or certification by a national board recognized by the Secretary, shall not exceed two years.
+(2) A temporary full-time appointment may not be made for a period in excess of two years in the case of a person who—
 
-(3) Temporary full-time appointments of other personnel may not be for a period in excess of one year except as authorized in subsection (f).
+&emsp;(A) has successfully completed—
+
+&emsp;&emsp;(i) a full course of nursing in a recognized school of nursing, approved by the Secretary; or
+
+&emsp;&emsp;(ii) a full course of training for any category of personnel described in paragraph (3) of section 7401 of this title, or as a physician assistant, in a recognized education or training institution approved by the Secretary; and
+
+&emsp;(B) is pending registration or licensure in a State or certification by a national board recognized by the Secretary.
+
+(3)(A) Temporary full-time appointments of persons in positions referred to in subsection (a)(1)(D) shall not exceed three years.
+
+(B) Temporary full-time appointments under this paragraph may be renewed for one or more additional periods not in excess of three years each.
+
+(4) Temporary full-time appointments of other personnel may not be for a period in excess of one year except as authorized in subsection (f).
 
 (d) A part-time appointment may not be for a period of more than one year, except for appointments of persons specified in subsection (a)(1)(A) and interns, residents, and other trainees in medical support programs and except as authorized in subsection (f).
 
@@ -42,13 +54,17 @@
 
 &emsp;(2) part-time appointments of personnel in such category may be for periods of more than one year.
 
-(Added Pub. L. 102–40, title IV, §401(b)(2), May 7, 1991, 105 Stat. 226; amended Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984.)
+(Added Pub. L. 102–40, title IV, §401(b)(2), May 7, 1991, 105 Stat. 226; amended Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 106–419, title II, §204, Nov. 1, 2000, 114 Stat. 1842.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 4114(a) of this title prior to the repeal of that section as part of the complete revision of chapter 73 of this title by Pub. L. 102–40.
 
 #### Amendments
+
+2000—Subsec. (c)(2). Pub. L. 106–419, §204(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Temporary full-time appointments of persons who have successfully completed a full course of nursing in a recognized school of nursing, approved by the Secretary, or who have successfully completed a full course of training for any category of personnel described in paragraph (3) of section 7401 of this title in a recognized education or training institution approved by the Secretary, and who are pending registration or licensure in a State, or certification by a national board recognized by the Secretary, shall not exceed two years.”
+
+Subsec. (c)(3), (4). Pub. L. 106–419, §204(b), added par. (3) and redesignated former par. (3) as (4).
 
 1992—Subsecs. (a), (c)(1), (f)(1). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
 

@@ -16,7 +16,3 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 The services of Indian agents have been dispensed with. See note set out under section 64 of this title.
 
-#### Cross References
-
-Mode of distribution of goods, see section 132 of this title.
-

@@ -27,13 +27,9 @@
 
 1958—Pub. L. 85–861, §33(a)(6), Sept. 2, 1958, 72 Stat. 1564, substituted 801, 807, 815, 816, 822, 830, 836, 855, 859, 877 and 935 for 1901, 1913, 1929, 1931, 1943, 1959, 1971, 2009, 2017, 2053 and 2169, respectively.
 
-#### Cross References
-
-Retirement benefits, forfeiture upon conviction of offenses described hereunder, see section 8312 of Title 5, Government Organization and Employees.
-
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 654, 951, 955, 1037, 1044a, 1058, 1059, 1094, 1167, 1552, 1553, 2783, 5148, 12687, 12740 of this title; title 5 sections 8312, 8313, 8331, 8401; title 18 sections 3551, 4247; title 28 section 535; title 37 section 559; title 42 sections 217, 10601; title 49 section 1155; title 50 App. section 473.
+This chapter is referred to in sections 654, 951, 955, 1037, 1044a, 1058, 1059, 1094, 1167, 1552, 1553, 1565, 2783, 5148, 12687, 12740 of this title; title 5 sections 8312, 8313, 8331, 8401; title 18 sections 3261, 3262, 3551, 4247; title 28 section 535; title 37 section 559; title 42 sections 217, 10601; title 49 section 1155; title 50 App. section 473.
 
 
 ---

@@ -14,7 +14,7 @@ In General.—No funds shall be apportioned in any fiscal year under section 104
 
 (b)
 
-Reasonable Access.—No State may enact or enforce any law denying reasonable access to motor vehicles subject to this title to and from the Interstate Highway System to terminals and facilities for food, fuel, repairs, and rest.
+Reasonable Access.—No State may enact or enforce any law denying reasonable access tomotor vehicles subject to this title to and from the Interstate Highway System to terminals and facilities for food, fuel, repairs, and rest.
 
 (c)
 
@@ -82,7 +82,7 @@ Limitation.—No statute or regulation shall be included on the list submitted b
 
 &emsp;&emsp;(D)
 
-Final list.—Except as modified pursuant to paragraph (1)(C) of this subsection, the list shall be published as final in the Federal Register not later than 180 days after the date of the enactment of this subsection. In publishing the final list, the Secretary shall make any revisions necessary to correct inaccuracies identified under subparagraph (B). After publication of the final list, longer combination vehicles may not operate on the Interstate System except as provided in the list.
+Final list.—Except as modified pursuant to paragraph (1)(C) of this subsection, the list shall be published as final in the Federal Register not later than 180 daysafter the date of the enactment of this subsection. In publishing the final list, the Secretary shall make any revisions necessary to correct inaccuracies identified under subparagraph (B). After publication of the final list, longer combination vehicles may not operate on the Interstate System except as provided in the list.
 
 &emsp;&emsp;(E)
 
@@ -128,7 +128,7 @@ The date of the enactment of this subsection, referred to in subsec. (g), is the
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–178, §1212(d)(1), inserted before penultimate sentence “With respect to the State of Colorado, vehicles designed to carry 2 or more precast concrete panels shall be considered a nondivisible load.” and inserted at end “The State of Louisiana may allow, by special permit, the operation of vehicles with a gross vehicle weight of up to 100,000 pounds for the hauling of sugarcane during the harvest season, not to exceed 100 days annually. With respect to Interstate Route 95 in the State of New Hampshire, State laws (including regulations) concerning vehicle weight limitations that were in effect on January 1, 1987, and are applicable to State highways other than the Interstate System, shall be applicable in lieu of the requirements of this subsection. With respect to that portion of the Maine Turnpike designated Interstate Route 95 and 495, and that portion of Interstate Route 95 from the southern terminus of the Maine Turnpike to the New Hampshire State line, laws (including regulations) of the State of Maine concerning vehicle weight limitations that were in effect on October 1, 1995, and are applicable to State highways other than the Interstate System, shall be applicable in lieu of the requirements of this subsection.”
+1998—Subsec. (a). Pub. L. 105–178, §1212(d)(1), inserted before penultimate sentence “With respect to the State of Colorado, vehicles designed to carry 2 or more precast concrete panels shall be considered a nondivisible load.” and inserted at end “The State of Louisiana may allow, by special permit, the operation of vehicles with a gross vehicle weight of up to 100,000 pounds for the hauling of sugarcane during the harvest season, not to exceed 100 days annually. With respect to Interstate Route 95 in the State of New Hampshire, State laws (including regulations) concerning vehicle weight limitations that were in effect on January 1, 1987, and are applicable to State highways other than the Interstate System, shall be applicable in lieu of the requirements of this subsection. With respect to that portion of the Maine Turnpike designated Interstate Route 95 and 495, and that portion of Interstate Route 95 from the southern terminus of the Maine Turnpike to the New Hampshire State line, laws (including regulations) of the State of Maine concerning vehicle weight limitationsthat were in effect on October 1, 1995, and are applicable to State highways other than the Interstate System, shall be applicable in lieu of the requirements of this subsection.”
 
 Subsec. (f). Pub. L. 105–178, §1106(c)(2)(B), substituted “section 103(c)(4)(A)” for “section 139(a)”.
 
@@ -210,7 +210,7 @@ Purpose.—The purpose of the study shall be to determine the effectiveness of S
 
 “(3)
 
-Report.—Not later than 2 years after the date of enactment of this Act \[June 9, 1998\], the Secretary shall transmit to Congress a report on the results of the study with any legislative recommendations of the Secretary.”
+Report.—Not later than 2 years after the date of enactment of this Act \[June 9, 1998\], the Secretaryshall transmit to Congress a report on the results of the study with any legislative recommendations of the Secretary.”
 
 #### Commercial Motor Vehicle Study
 
@@ -238,7 +238,7 @@ Recommendations.—Not later than 180 days after the date of receipt of the repo
 
 “(6)
 
-Funding.—There is authorized to be appropriated out of the Highway Trust Fund (other than the MassTransit Account) $250,000 for each of fiscal years 1999 and 2000 to carry out this subsection.
+Funding.—There is authorized to be appropriated out of the Highway Trust Fund (other than the Mass Transit Account) $250,000 for each of fiscal years 1999 and 2000 to carry out this subsection.
 
 “(7)
 

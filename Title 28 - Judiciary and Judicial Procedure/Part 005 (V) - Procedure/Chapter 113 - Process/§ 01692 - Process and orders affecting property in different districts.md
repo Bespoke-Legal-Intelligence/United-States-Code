@@ -14,7 +14,3 @@ For explanation of revision of section 117 of title 28, U.S.C., 1940 ed., and it
 
 Changes were made in phraseology.
 
-#### Cross References
-
-Receivers of property in different districts, see section 754 of this title.
-

@@ -18,7 +18,7 @@ Pub. L. 105–368, title V, §512(c), Nov. 11, 1998, 112 Stat. 3342, provided th
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–368, title V, §513, Nov. 11, 1998, 112 Stat. 3342, provided that: “This subtitle \[subtitle B\(§§511–513) of title V of Pub. L. 105–368, see Tables for classification\], and the amendments made by this subtitle, shall take effect on the first day of the first month beginning more than 90 days after the date of the enactment of this Act \[Nov. 11, 1998\].”
+Pub. L. 105–368, title V, §513, Nov. 11, 1998, 112 Stat. 3342, provided that: “This subtitle \[subtitle B (§§511–513) of title V of Pub. L. 105–368, see Tables for classification\], and the amendments made by this subtitle, shall take effect on the first day of the first month beginning more than 90 days after the date of the enactment of this Act \[Nov. 11, 1998\].”
 
 #### Effective Date
 

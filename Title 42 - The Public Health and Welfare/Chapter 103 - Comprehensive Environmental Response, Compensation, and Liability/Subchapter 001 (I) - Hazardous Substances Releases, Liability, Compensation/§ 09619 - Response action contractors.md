@@ -132,7 +132,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) person, public or nonprofit private entity, conducting a field demonstration pursuant to section 9660(b) of this title; and
 
-&emsp;&emsp;&emsp;(iii) Recipients <sup>2</sup> of grants (including sub-grantees) under section 9660a <sup>3</sup> of this title for the training and education of workerswho are or may be engaged in activities related to hazardous waste removal, containment, or emergency response under this chapter; and <sup>1</sup>
+&emsp;&emsp;&emsp;(iii) Recipients <sup>2</sup> of grants (including sub-grantees) under section 9660a <sup>3</sup> of this title for the training and education of workers who are or may be engaged in activities related to hazardous waste removal, containment, or emergency response under this chapter; and <sup>1</sup>
 
 &emsp;&emsp;(B) any person who is retained or hired by a person described in subparagraph (A) to provide any services relating to a response action; and
 
@@ -140,7 +140,7 @@ For purposes of this section—
 
 #### (3) Insurance
 
-&emsp;The term “insurance” means liability insurance which is fair and reasonably priced, as determined by the President, and which is made available at the time the contractor enters into the response action contract to provide response action.
+&emsp;The term “insurance” means liability insurance which is fair and reasonably priced, asdetermined by the President, and which is made available at the time the contractor enters into the response action contract to provide response action.
 
 #### (f) Competition
 

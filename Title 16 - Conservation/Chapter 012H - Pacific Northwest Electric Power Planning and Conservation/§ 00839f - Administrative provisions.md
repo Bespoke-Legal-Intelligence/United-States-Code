@@ -44,7 +44,7 @@ No restrictions contained in subsection (c) of this section shall limit or inter
 
 &emsp;(H) any rule prescribed by the Administrator under section 839e(m)(2) of this title.
 
-(2) The record upon review of such final actions shall be limited to the administrative record compiled in accordance with this chapter. The scope of review of such actions without a hearing or after a hearing shall be governed by section 706 of title 5, except that final determinations regarding rates under section 839e of this title shall be supported by substantial evidence in the rulemaking record required by section 839e(i) of this title considered as a whole. The scope of review of an action under section 839d(c) of this title shall be governed by section 706 of title 5. Nothing in this section shall be construed to require a hearing pursuant to section 554, 556, or 557 of title 5.
+(2) The record upon review of such final actions shall be limited to the administrative record compiled in accordance with this chapter. The scope of review of such actions without a hearing or after a hearing shall be governed bysection 706 of title 5, except that final determinations regarding rates under section 839e of this title shall be supported by substantial evidence in the rulemaking record required by section 839e(i) of this title considered as a whole. The scope of review of an action under section 839d(c) of this title shall be governed by section 706 of title 5. Nothing in this section shall be construed to require a hearing pursuant to section 554, 556, or 557 of title 5.
 
 (3) Nothing in this section shall be construed to preclude judicial review of other final actions and decisions by the Council or Administrator.
 
@@ -102,7 +102,7 @@ When reviewing rates for the sale of power to the Administrator by an investor-o
 
 (2) In implementing the provisions of subparagraphs (A) and (B) of paragraph (1), the Administrator may prescribe policies and conditions for the independent acquisition or disposition of electric power by any direct service industrial customer or group of such customers for the purpose of assuring each direct service industrial customer an opportunity to participate in such acquisition or disposition.
 
-(3) The Administrator shall furnish services including transmission, storage, and load factoring unless he determines such services cannot be furnished without substantial interference withhis power marketing program, applicable operating limitations or existing contractual obligations. The Administrator shall, to the extent practicable, give priority in making such services available for the marketing, within and without the Pacific Northwest, of capability from projects under construction on December 5, 1980, if such capability has been offered for sale at cost, including a reasonable rate of return, to the Administrator pursuant to this chapter and such offer is not accepted within one year.
+(3) The Administrator shall furnish services including transmission, storage, and load factoring unless he determines such services cannot be furnished without substantial interference with his power marketing program, applicable operating limitations or existing contractual obligations. The Administrator shall, to the extent practicable, give priority in making such services available for the marketing, within and without the Pacific Northwest, of capability from projects under construction on December 5, 1980, if such capability has been offered for sale at cost, including a reasonable rate of return, to the Administrator pursuant to this chapter and such offer is not accepted within one year.
 
 #### (j) Retail rate designs which encourage conservation and efficient use of electric energy, installation of consumer-owned renewable resources, and rate research and development
 
@@ -118,7 +118,7 @@ There is hereby established within the administration an executive position for 
 
 #### References in Text
 
-The Bonneville Project Act of 1937, referred to in subsecs. (b) and (e)(5), is act Aug. 20, 1937, ch. 720, 50 Stat. 731, as amended, which is classified generally to chapter 12B (§832 et seq.) of this title. For complete classification of this Act to the Code, see Short Title set out under section 832 of this title and Tables.
+The Bonneville Project Act of 1937, referred to in subsecs. (b) and (e)(5), is act Aug. 20, 1937, ch. 720, 50 Stat.731, as amended, which is classified generally to chapter 12B (§832 et seq.) of this title. For complete classification of this Act to the Code, see Short Title set out under section 832 of this title and Tables.
 
 Act of August 31, 1964, referred to in subsec. (e)(5), is Pub. L. 88–552, Aug. 31, 1964, 78 Stat. 756, as amended, which is classified generally to chapter 12F (§837 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
 

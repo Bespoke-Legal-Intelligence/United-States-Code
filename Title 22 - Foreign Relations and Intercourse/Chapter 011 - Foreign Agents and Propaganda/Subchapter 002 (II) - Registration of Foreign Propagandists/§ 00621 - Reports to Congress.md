@@ -12,3 +12,7 @@ The Attorney General shall every six months report to the Congress concerning ad
 
 Amendment by Pub. L. 104–65 effective Jan. 1, 1996, see section 24 of Pub. L. 104–65, set out as an Effective Date note under section 1601 of Title 2, The Congress.
 
+#### Effective Date
+
+Section effective on the sixtieth day after Apr. 29, 1942, except that prior to such sixtieth day the Attorney General may make, prescribe, amend, and rescind such rules, regulations, and forms as may be necessary to carry out act Apr. 29, 1942, see section 3 of act Apr. 29, 1942, set out as an Effective Date of 1942 Amendment note under section 611 of this title.
+

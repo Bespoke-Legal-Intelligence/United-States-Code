@@ -4,7 +4,7 @@
 
 Sections 161 to 170a, relating to Territory of Alaska, were omitted in view of admission of Alaska into the Union.
 
-Section 161, act Jan. 27, 1905, ch. 277, §3, 33 Stat. 617, named Governor as the ex officio superintendent of public instruction and empowered him to prescriberules and regulations for examination and qualification of teachers.
+Section 161, act Jan. 27, 1905, ch. 277, §3, 33 Stat. 617, named Governor as the ex officio superintendent of public instruction and empowered him to prescribe rules and regulations for examination and qualification of teachers.
 
 Section 162, acts Jan. 27, 1905, ch. 277, §4, 33 Stat. 617; Mar. 3, 1905, ch. 1491, 33 Stat. 1262, authorized establishment of school districts in towns.
 

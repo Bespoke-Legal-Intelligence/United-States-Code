@@ -14,7 +14,7 @@ Any individual director, officer, or employee of a firm constructing, or supplyi
 
 &emsp;(3) the capability to prevent or mitigate the consequences of accidents which could result in an unplanned offsite release of quantities of fission products in excess of the limits established by the Commission.
 
-> The provisions of this subsection shall be prominently posted at each site where a utilization facility required to be licensed under section 2133 or 2134(b) of this title is under construction and on the premises of each plant where components for such a facility are fabricated.
+> The provisions of this subsection shall be prominently posted at each site where a utilization facility required to be licensed under section 2133 or 2134(b) of this title is under construction andon the premises of each plant where components for such a facility are fabricated.
 
 #### (c) Criminal penalties
 
@@ -39,14 +39,6 @@ Amendment by Pub. L. 100–408 effective Aug. 20, 1988, but inapplicable to any 
 #### Transfer of Functions
 
 Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
-
-#### Cross References
-
-Conspiracy to commit offense, see section 371 of Title 18, Crimes and Criminal Procedure.
-
-Federal retirement benefits, forfeiture upon conviction of offense described hereunder, see section 8312 of Title 5, Government Organization and Employees.
-
-Forfeiture of veterans’ benefits upon conviction under this section, see section 6105 of Title 38, Veterans’ Benefits.
 
 #### Section Referred to in Other Sections
 

@@ -250,7 +250,7 @@ There are authorized to be appropriated to carry out this section such sums as m
 
 #### References in Text
 
-The Workforce Investment Act of 1998, referred to in subsec. (b)(5)(B)(viii), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified generally to chapter 30 (§2801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+The Workforce Investment Act of 1998, referred to in subsec. (b)(5)(B)(viii), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
 Sections 711 and 777a of this title (as in effect on the day before August 7, 1998), referred to in subsec. (b)(6), means section 711 of this title prior to repeal by Pub. L. 105–220, title IV, §403, Aug. 7, 1998, 112 Stat. 1093, and section 777a of this title prior to the general amendment of this subchapter by Pub. L. 105–220, title IV, §406, Aug. 7, 1998, 112 Stat. 1183.
 

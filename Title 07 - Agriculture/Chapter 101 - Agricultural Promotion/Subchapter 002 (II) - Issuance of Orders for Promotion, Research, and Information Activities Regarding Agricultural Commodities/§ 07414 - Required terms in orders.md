@@ -50,7 +50,7 @@ Each order shall contain the terms and conditions specified in this section.
 
 #### (A) In general
 
-&emsp;&emsp;The members and any alternates of a board shall each serve for a term of 3 years,except that the members and any alternates initially appointed to a board shall serve for terms of not more than 2, 3, and 4 years, as specified by the order.
+&emsp;&emsp;The members and any alternates of a board shall each serve for a term of 3 years, except that the members and any alternates initially appointed to a board shall serve for terms of not more than 2, 3, and 4 years, as specified by the order.
 
 #### (B) Limitation on consecutive terms
 
@@ -212,7 +212,7 @@ In accordance with section 7401(c) of this title, each order shall require the b
 
 #### (A) In general
 
-&emsp;&emsp;Except as otherwise provided in this subchapter, all information obtained under paragraph (1) or as part of a referendum under section 7417 of this title shall be kept confidential by all officers, employees, and agents of the Department and of the board.
+&emsp;&emsp;Except as otherwise provided in this subchapter, all information obtained underparagraph (1) or as part of a referendum under section 7417 of this title shall be kept confidential by all officers, employees, and agents of the Department and of the board.
 
 #### (B) Disclosure
 

@@ -16,11 +16,3 @@ Changes were made in phraseology.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
 
-#### Cross References
-
-Bribery of public officials, see section 201 of this title.
-
-Compromise of customs liabilities, penalty, see section 1915 of this title.
-
-Forfeitures, penalty for aiding unlawful importation, see section 1595a of Title 19, Customs Duties.
-

@@ -56,5 +56,5 @@ The Federal Property and Administrative Services Act, referred to in subsec. (j)
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1331, 1761, 1783, 1902 of this title; title 16 sections 410ii–3, 410ii–5, 460ccc, 5207; title 30 section 1028.
+This section is referred to in sections 1331, 1761, 1783, 1902, 2302 of this title; title 16 sections 410ii–3, 410ii–5, 460ccc, 460<i>ooo</i>, 460ppp–1, 5207; title 30 section 1028.
 

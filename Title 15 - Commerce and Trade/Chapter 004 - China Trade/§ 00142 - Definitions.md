@@ -8,7 +8,7 @@ When used in this chapter, unless the context otherwise indicates—
 
 (c) The terms “China Trade Act corporation” and “corporation” mean a corporation chartered under the provisions of this chapter;
 
-(d) The term “Federal district court” means any Federal district court, and the United States District Court for the District of Columbia;
+(d) The term “Federal district court” means any Federal district court, and the UnitedStates District Court for the District of Columbia;
 
 (e) The term “Secretary” means the Secretary of Commerce; and
 

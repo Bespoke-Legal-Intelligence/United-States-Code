@@ -140,12 +140,6 @@ Definition of lead free.—For purposes of paragraph (1) the term ‘lead free�
 
 Effective date.—Paragraph (1) shall become effective 24 months after the enactment of this Act \[June 19, 1986\].”
 
-#### Cross References
-
-Housing assistance by Secretary of Veterans Affairs, see section 3701 et seq. of Title 38, Veterans’ Benefits.
-
-Housing assistance by Secretary of Housing and Urban Development, see section 1701 et seq. of Title 12, Banks and Banking.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 300g–3 of this title.

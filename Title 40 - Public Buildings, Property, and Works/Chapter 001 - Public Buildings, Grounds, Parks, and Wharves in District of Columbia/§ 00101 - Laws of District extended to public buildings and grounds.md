@@ -4,10 +4,6 @@ The provisions of the several laws and regulations within the District of Columb
 
 (July 29, 1892, ch. 320, §15, 27 Stat. 325; Pub. L. 90–108, §2, Oct. 20, 1967, 81 Stat. 277.)
 
-#### Codification
-
-Section is also set out in D.C. Code, §§4–116, 22–3111.
-
 #### Prior Provisions
 
 Provisions similar to those comprising this section were contained in former section 192 of this title.
@@ -19,10 +15,6 @@ Provisions similar to those comprising this section were contained in former sec
 #### Violations Prior to 1967 Amendment
 
 For prosecution of violations of this section prior to enactment of Pub. L. 90–108, see section 3 of Pub. L. 90–108, set out as an Effective Date of 1967 Amendment note under section 193a of this title.
-
-#### Effect of Other Laws
-
-Section as unaffected by sections 193a to 193<i>l</i>, 212a, 212b of this title, see note set out under section 193a of this title.
 
 #### Board of Metropolitan Police
 

@@ -14,11 +14,3 @@ Based on title 28, U.S.C., 1940 ed., §79 (Mar. 3, 1911, ch. 231, §36, 36 Stat.
 
 Changes were made in phraseology.
 
-#### Federal Rules of Civil Procedure
-
-Attachment or sequestration in federal court after removal, see rule 64, Appendix to this title.
-
-Continuation of section, see note by Advisory Committee under rule 81.
-
-Jury trial in removal actions, see rule 81.
-

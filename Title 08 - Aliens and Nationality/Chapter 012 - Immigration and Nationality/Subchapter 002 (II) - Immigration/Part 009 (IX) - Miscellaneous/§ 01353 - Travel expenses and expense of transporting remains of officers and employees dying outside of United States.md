@@ -8,7 +8,3 @@ When officers, inspectors, or other employees of the Service are ordered to perf
 
 1988—Pub. L. 100–525 substituted “subchapter II of chapter 57 of title 5” for “the Act of August 2, 1946 (60 Stat. 806; 5 U.S.C., sec. 73b–1)”.
 
-#### Cross References
-
-Definition of Attorney General, Service, and United States, see section 1101 of this title.
-

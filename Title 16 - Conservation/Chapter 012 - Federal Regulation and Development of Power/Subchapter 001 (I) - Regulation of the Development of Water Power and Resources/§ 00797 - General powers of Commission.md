@@ -20,7 +20,7 @@ To make public from time to time the information secured hereunder, and to provi
 
 #### (e) Issue of licenses for construction, etc., of dams, conduits, reservoirs, etc.
 
-To issue licenses to citizens of the United States, or to any association of such citizens, or to any corporation organized under the laws of the United States or any State thereof, or to any State or municipality for the purpose of constructing, operating, and maintaining dams, water conduits, reservoirs, power houses, transmission lines, or other project works necessaryor convenient for the development and improvement of navigation and for the development, transmission, and utilization of power across, along, from, or in any of the streams or other bodies of water over which Congress has jurisdiction under its authority to regulate commerce with foreign nations and among the several States, or upon any part of the public lands and reservations of the United States (including the Territories), or for the purpose of utilizing the surplus water or water power from any Government dam, except as herein provided: <i>Provided</i>, That licenses shall be issued within any reservation only after a finding by the Commission that the license will not interfere or be inconsistent with the purpose for which such reservation was created or acquired, and shall be subject to and contain such conditions as the Secretary of the department under whose supervision such reservation falls shall deem necessary for the adequate protection and utilization of such reservations: <i>Provided further</i>, That no license affecting the navigable capacity of any navigable waters of the United States shall be issued until the plans of the dam or other structures affecting the navigation have been approved by the Chief of Engineers and the Secretary of the Army. Whenever the contemplated improvement is, in the judgment of the Commission, desirable and justified in the public interest for the purpose of improving or developing a waterway or waterways for the use or benefit of interstate or foreign commerce, a finding to that effect shall be made by the Commission and shall become a part of the records of the Commission: <i>Provided further</i>, That in case the Commission shall find that any Government dam may be advantageously used by the United States for public purposes in addition to navigation, no license therefor shall be issued until two years after it shall have reported to Congress the facts and conditions relating thereto, except that this provision shall not apply to any Government dam constructed prior to June 10, 1920: <i>And provided further</i>, That upon the filing of any application for a license which has not been preceded by a preliminary permit under subsection (f) of this section, notice shall be given and published as required by the proviso of said subsection. In deciding whether to issue any license under this subchapter for any project, the Commission, in addition to the power and development purposes for which licenses are issued, shall give equal consideration to the purposes of energy conservation, the protection, mitigation of damage to, and enhancement of, fish and wildlife (including related spawning grounds and habitat), the protection of recreational opportunities, and the preservation of other aspects of environmental quality.
+To issue licenses to citizens of the United States, or to any association of such citizens, or to any corporation organized under the laws of the United States or any State thereof, or to any State or municipality for the purpose of constructing, operating, and maintaining dams, water conduits, reservoirs, power houses, transmission lines, or other project works necessary or convenient for the development and improvement of navigation and for the development, transmission, and utilization of power across, along, from, or in any of the streams or other bodies of water over which Congress has jurisdiction under its authority to regulate commerce with foreign nations and among the several States, or upon any part of the public lands and reservations of the United States (including the Territories), or for the purpose of utilizing the surplus water or water power from any Government dam, except as herein provided: <i>Provided</i>, That licenses shall be issued within any reservation only after a finding by the Commission that the license will not interfere or be inconsistent with the purpose for which such reservation was created or acquired, and shall be subject to and contain such conditions as the Secretary of the department under whose supervision such reservation falls shall deem necessary for the adequate protection and utilization of such reservations: <i>Provided further</i>, That no license affecting the navigable capacity of any navigable waters of the United States shall be issued until the plans of the dam or other structures affecting the navigation have been approved by the Chief of Engineers and the Secretary of the Army. Whenever the contemplated improvement is, in the judgment of the Commission, desirable and justified in the public interest for the purpose of improving or developing a waterway or waterways for the use or benefit of interstate or foreign commerce, a finding to that effect shall be made by the Commission and shall become a part of the records of the Commission: <i>Provided further</i>, That in case the Commission shall find that any Government dam may be advantageously used by the United States for public purposes in addition to navigation, no license therefor shall be issued until two years after it shall have reported to Congress the facts and conditions relating thereto, except that this provision shall not apply to any Government dam constructed prior to June 10, 1920: <i>And provided further</i>, That upon the filing of any application for a license which has not been preceded by a preliminary permit under subsection (f) of this section, notice shall be given and published as required by the proviso of said subsection. In deciding whether to issue any license under this subchapter for any project, the Commission, in addition to the power and development purposes for which licenses are issued, shall give equal consideration to the purposes of energy conservation, the protection, mitigation of damage to, and enhancement of, fish and wildlife (including related spawning grounds and habitat), the protection of recreational opportunities, and the preservation of other aspects of environmental quality.
 
 #### (f) Preliminary permits; notice of application
 
@@ -80,6 +80,10 @@ Section 17(a) of Pub. L. 99–495 provided that: “Nothing in this Act \[see Sh
 
 &emsp;“(7) modify, supersede, or affect the Pacific Northwest Electric Power Planning and Conservation Act \[16 U.S.C. 839 et seq.\].”
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (d) of this section relating to submitting a classified annual report to Congress showing permits and licenses issued under this subchapter, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 91 of House Document No. 103–7.
+
 #### Transfer of Functions
 
 Federal Power Commission terminated and its functions with regard to licenses and permits for dams, reservoirs, or other works for development and improvement of navigation and for development and utilization of power across, along, from, or in navigable waters under this subchapter transferred to Federal Energy Regulatory Commission by sections 7172(a)(1)(A) and 7293 of Title 42, The Public Health and Welfare.
@@ -88,27 +92,7 @@ Executive and administrative functions of Federal Power Commission, with certain
 
 #### Improvement at Existing Federal Facilities
 
-Pub. L. 102–486, title XXIV, §2404, Oct. 24, 1992, 106 Stat. 3097, as amended by Pub. L. 103–437, §6(d)(37), Nov. 2, 1994, 108 Stat. 4585; Pub. L. 104–66, title I, §1052(h), Dec. 21, 1995, 109 Stat. 718, provided that:
-
-“(a)
-
-Studies of Opportunities for Increased Hydroelectric Generation.—The Secretary of the Interior and the Secretary of the Army, in consultation with the Secretary, shall perform reconnaissance level studies of cost effective opportunities to increase hydropower production at existing federally-owned or operated water regulation, storage, and conveyance facilities. Such studies shall be completed within 2 years after the date of enactment of this Act \[Oct. 24, 1992\] and transmitted to the Committee on Energy and Natural Resources and the Committee on Environment and Public Works of the United States Senate and to the Committee on Energy and Commerce \[now Committee on Commerce\], the Committee on Natural Resources \[now Committee on Resources\], and the Committee on Public Works and Transportation \[now Committee on Transportation and Infrastructure\] of the United States House of Representatives. An individual study shall be prepared for each of the Nation's principal river basins. Each such study shall identify and describe with specificity the following matters:
-
-&emsp;“(1) opportunities to improve the efficiency of hydroelectric generation at such facilities through, but not limited to, mechanical, structural, or operational changes;
-
-&emsp;“(2) opportunities to improve the efficiency of the use of water supplied or regulated by Federal projects where such improvement could, in the absence of legal or administrative constraints, make additional water supplies available for hydroelectric generation or reduce project energy use;
-
-&emsp;“(3) opportunities to create additional generating capacity at existing facilities through, but not limited to, the construction of additional generating units, the uprating of generators and turbines, and the construction of pumped storage facilities; and
-
-&emsp;“(4) preliminary assessment of the costs and the economic and environmental consequences of such measures.
-
-“(b)
-
-Exception for Previous Studies.—In those cases where studies of the type required by this section have been prepared by any agency of the United States and published within the ten years prior to the date of enactment of this Act \[Oct. 24, 1992\], the Secretary of the Interior, or the Secretary of the Army, may choose not to perform new studies but incorporate the information developed by such studies into the study reports required by this section.
-
-“(c)
-
-Authorization.—There is authorized to be appropriated in each of the fiscal years 1993, 1994, and 1995 such sums as may be necessary to carry out the purposes of this section.”
+Pub. L. 102–486, title XXIV, §2404, Oct. 24, 1992, 106 Stat. 3097, as amended by Pub. L. 103–437, §6(d)(37), Nov. 2, 1994, 108 Stat. 4585; Pub. L. 104–66, title I, §1052(h), Dec. 21, 1995, 109 Stat. 718, directed Secretary of the Interior and Secretary of the Army, in consultation with Secretary of Energy, to perform reconnaissance level studies, for each of the Nation's principal river basins, of cost effective opportunities to increase hydropower production at existing federally-owned or operated water regulation, storage, and conveyance facilities, with such studies to be completed within 2 years after Oct. 24, 1992, and transmitted to Congress, further provided that in cases where such studies had been prepared by any agency of the United States and published within ten years prior to Oct. 24, 1992, Secretary of the Interior, or Secretary of the Army, could choose to rely on information developed by prior studies rather than conduct new studies, and further provided for appropriations for fiscal years 1993 to 1995.
 
 #### Water Conservation and Energy Production
 
@@ -118,7 +102,7 @@ Pub. L. 102–486, title XXIV, §2405, Oct. 24, 1992, 106 Stat. 3098, provided t
 
 Studies.—The Secretary of the Interior, acting pursuant to the Federal reclamation laws (Act of June 17, 1902, 32 Stat. 388) \[43 U.S.C. 371 et seq.\], and Acts supplementary thereto and amendatory thereof, is authorized and directed to conduct feasibility investigations of opportunities to increase the amount of hydroelectric energy available for marketing by the Secretary from Federal hydroelectric power generation facilities resulting from a reduction in the consumptive use of such power for Federal reclamation project purposes or as a result of an increase in the amount of water available for such generation because of water conservation efforts on Federal reclamation projects or a combination thereof. The Secretary of the Interior is further authorized and directed to conduct feasibility investigations of opportunities to mitigate damages to or enhance fish and wildlife as a result of increasing the amount of water available for such purposes because of water conservation efforts on Federal reclamation projects. Such feasibility investigations shall include, but not be limited to—
 
-&emsp;“(1) an analysis of the technical, environmental, and economic feasibility of reducing the amount ofwater diverted upstream of such Federal hydroelectric power generation facilities by Federal reclamation projects;
+&emsp;“(1) an analysis of the technical, environmental, and economic feasibility of reducing the amount of water diverted upstream of such Federal hydroelectric power generation facilities by Federal reclamation projects;
 
 &emsp;“(2) an estimate of the reduction, if any, of project power consumed as a result of the decreased amount of diversion;
 
@@ -140,23 +124,9 @@ Authorization.—There is hereby authorized to be appropriated to the Secretary 
 
 #### Projects on Fresh Waters in State of Hawaii
 
-Pub. L. 102–486, title XXIV, §2408, Oct. 24, 1992, 106 Stat. 3100, provided that: “The Federal Energy Regulatory Commission, in consultation with the State of Hawaii, shall carry out a study of hydroelectric licensing in the State of Hawaii. For purposes of considering whether such licensing should be transferred to the State, within 18 months after the enactment of this Act \[Oct. 24, 1992\], the Commission shall complete the study and submit a report containing the results of the study to the Committee on Energy and Commerce of the United States House of Representatives and to the Committee on Energy and Natural Resources of the United States Senate. The study shall examine, and the report shall at a minimum contain an analysis of, each of the following:
-
-&emsp;“(1) The State regulatory programs applicable to hydroelectric power production and the extent to which such programs are suitable as a substitute for regulation of such projects under the Federal Power Act \[16 U.S.C. 791a et seq.\], taking into consideration all aspects of such regulation, including energy, environmental, and safety considerations.
-
-&emsp;“(2) Any unique geographical, hydrological, or other characteristics of waterways in Hawaii or any other aspects of hydroelectric power development and natural resource protection in Hawaii that would justify or not justify the permanent transfer of Federal Energy Regulatory Commission jurisdiction over hydroelectric power projects to that State.
-
-&emsp;“(3) The adequacy of mechanisms and procedures for consideration of fish and wildlife and other environmental values applicable in connection with hydroelectric power development in Hawaii under the State programs referred to in paragraph (1).
-
-&emsp;“(4) Any national policy considerations that would justify or not justify the removal of Federal Energy Regulatory Commission jurisdiction over hydroelectric power projects in Hawaii.
-
-&emsp;“(5) The precedent-setting effect, if any, of provisions of law adopted by the Congress removing Federal Energy Regulatory Commission jurisdiction over hydroelectric power projects in Hawaii.”
-
-#### Federal Rules of Civil Procedure
-
-Subpoena, see rule 45, Title 28, Appendix, Judiciary and Judicial Procedure.
+Pub. L. 102–486, title XXIV, §2408, Oct. 24, 1992, 106 Stat. 3100, directed Federal Energy Regulatory Commission, in consultation with State of Hawaii, to carry out study of hydroelectric licensing in State of Hawaii for purposes of considering whether such licensing should be transferred to State, and directed Commission to complete study and submit report containing results of study to Congress within 18 months after Oct. 24, 1992.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 796, 803, 828b of this title; title 42 section 7172.
+This section is referred to in sections 796, 803, 823c, 828b of this title; title 42 section 7172.
 

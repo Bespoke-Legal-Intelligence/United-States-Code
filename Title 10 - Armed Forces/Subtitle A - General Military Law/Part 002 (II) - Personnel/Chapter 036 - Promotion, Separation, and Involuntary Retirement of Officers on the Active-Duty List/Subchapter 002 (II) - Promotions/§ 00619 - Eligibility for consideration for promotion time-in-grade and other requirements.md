@@ -98,7 +98,7 @@ Subsec. (e)(3)(C). Pub. L. 100–456, §515(b)(2), substituted “paragraph (2) 
 
 Subsec. (e)(5). Pub. L. 100–456, §515(a)(1)(B), added par. (5).
 
-1987—Subsec. (e)(1). Pub. L. 100–180, §1305(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “An officer may not be selected for promotion to the grade of brigadier general or rear admiral (lower half) unless the officer has served in a joint duty assignment.”
+1987—Subsec. (e)(1). Pub. L. 100–180, §1305(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “An officer may not be selected for promotion to the grade of brigadier general or rear admiral (lowerhalf) unless the officer has served in a joint duty assignment.”
 
 Subsec. (e)(2)(D). Pub. L. 100–180, §1314(b)(4), substituted “October 1, 1986,” for “the date of the enactment of this subsection”.
 
@@ -144,7 +144,7 @@ Subchapter effective Sept. 15, 1981, but the authority to prescribe regulations 
 
 #### Transition Provisions Under Defense Officer Personnel Management Act
 
-For provisions to prevent extinction or premature termination of rights, duties, penalties, or proceedingsthat existed or were begun prior to the effective date of Pub. L. 96–513 and otherwise to allow for an orderly transition to the system of officer personnel management put in place under Pub. L. 96–513, see section 601 et seq. of Pub. L. 96–513, set out as a note under section 611 of this title.
+For provisions to prevent extinction or premature termination of rights, duties, penalties, or proceedings that existed or were begun prior to the effective date of Pub. L. 96–513 and otherwise to allow for an orderly transition to the system of officer personnel management put in place under Pub. L. 96–513, see section 601 et seq. of Pub. L. 96–513, set out as a note under section 611 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -216,6 +216,10 @@ Allocation of funds.
 
 Authorization of appropriations.
 
+(m)
+
+Authorization of appropriations.
+
 |  |  |
 | :--- | ---: |
 | 1701q–1. | Civil money penalties against mortgagors under section 1701q of this title. |
@@ -934,11 +938,11 @@ Actions to reduce losses under single family mortgage insurance program.
 
 Suspension or revocation of approval of mortgagee; notice and statement of reasons.
 
-(s)
+(t)
 
 Disclosure regarding interest due upon mortgage prepayment.
 
-(t)
+(u)
 
 Accountability of mortgage lenders.
 
@@ -946,7 +950,7 @@ Accountability of mortgage lenders.
 
 Use of FHA insurance with assistance under 42 U.S.C. 1437f.
 
-(v)
+(w)
 
 Annual report.
 
@@ -2108,7 +2112,20 @@ Inapplicability of State constitution, etc., provision limiting interest or requ
 |  |  |
 | :--- | ---: |
 | 1715z–11. | Sale to cooperatives of multifamily housing projects acquired by Secretary; acceptance of purchase money mortgage for sale or insurance of mortgage; principal amount of mortgage; expenditures for repairs, etc., prior to sale. |
-| 1715z–11a. | Flexible authority. |
+| 1715z–11a. | Disposition of HUD-owned properties. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Flexible authority for multifamily projects.
+
+(b)
+
+Transfer of unoccupied and substandard housing to local governments and community development corporations.
+
+|  |  |
+| :--- | ---: |
 | 1715z–12. | Single-family mortgage insurance on Hawaiian home lands. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -2227,13 +2244,67 @@ Definitions.
 
 |  |  |
 | :--- | ---: |
-| 1715z–14. | Reinsurance contracts. |
+| 1715z–13b. | Loan guarantees for Native Hawaiian housing. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 (a)
 
-Demonstration mortgage reinsurance program; areas; number of mortgages.
+Definitions.
+
+(b)
+
+Authority.
+
+(c)
+
+Eligible loans.
+
+(d)
+
+Certificate of guarantee.
+
+(e)
+
+Guarantee fee.
+
+(f)
+
+Liability under guarantee.
+
+(g)
+
+Transfer and assumption.
+
+(h)
+
+Disqualification of lenders and civil money penalties.
+
+(i)
+
+Payment under guarantee.
+
+(j)
+
+Hawaiian Housing Loan Guarantee Fund.
+
+(k)
+
+Requirements for standard housing.
+
+(<i>l</i>)
+
+Applicability of civil rights statutes.
+
+|  |  |
+| :--- | ---: |
+| 1715z–14. | Risk-sharing demonstration. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Demonstration mortgage risk-sharing program; areas; number of mortgages.
 
 (b)
 
@@ -2246,6 +2317,10 @@ Required contract provisions.
 (d)
 
 Mortgages offered for inclusion by Secretary.
+
+(e)
+
+Insured community development financial institution.
 
 |  |  |
 | :--- | ---: |
@@ -2409,6 +2484,14 @@ Safeguard to prevent displacement of homeowner.
 
 (k)
 
+Insurance authority for refinancings.
+
+(<i>l</i>)
+
+Waiver of up-front premiums for mortgages to fund long-term care insurance.
+
+(m)
+
 Funding for counseling and consumer education and outreach.
 
 |  |  |
@@ -2436,6 +2519,30 @@ Termination of mortgagee's authority.
 (e)
 
 Requirements and procedures.
+
+|  |  |
+| :--- | ---: |
+| 1715z–22. | Multifamily mortgage credit programs. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Risk-sharing program.
+
+(c)
+
+Housing finance agency program.
+
+|  |  |
+| :--- | ---: |
+| 1715z–22a. | Definitions. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### SUBCHAPTER III—NATIONAL MORTGAGE ASSOCIATIONS
 
@@ -3488,198 +3595,41 @@ Utilization of services and facilities of Federal agencies; payment; advances or
 
 #### SUBCHAPTER IX–C—NATIONAL INSURANCE DEVELOPMENT PROGRAM
 
-|  |  |
-| :--- | ---: |
-| [1749bbb.](Subchapter%20009%E2%80%93C%20%28IX%E2%80%93C%29%20-%20National%20Insurance%20Development%20Program/%C2%A7%2001749bbb%20-%20Program%20authority%3B%20termination%20date%3B%20report%20to%20the%20Congress.md) | Program authority; termination date; report to the Congress. |
-| 1749bbb–1. | Advisory Board. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Establishment; membership; Chairman and Vice Chairman; term; vacancies.
-
-(b)
-
-Meetings.
-
-(c)
-
-Functions.
-
-(d)
-
-Compensation and travel expenses.
-
-|  |  |
-| :--- | ---: |
-| 1749bbb–2. | Definitions. |
+|  |
+| :--- |
+| 1749bbb to 1749bbb–2. Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Part A—Statewide Plans to Assure Fair Access to Insurance Requirement
 
-|  |  |
-| :--- | ---: |
-| 1749bbb–3. | FAIR plans. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Cooperation by insurers with State insurance authorities.
-
-(b)
-
-Approval and administration of plans; provisions of plans.
-
-(c)
-
-Membership of board of directors, board, etc., for each plan.
-
-|  |  |
-| :--- | ---: |
-| 1749bbb–4. | All-industry placement facility. |
-| 1749bbb–5. | Industry cooperation. |
-| 1749bbb–6. | Plan evaluation; modification or waiver of plan criteria. |
-| 1749bbb–6a. | Office of Review and Compliance. |
+|  |
+| :--- |
+| 1749bbb–3 to 1749bbb–6a. Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Part B—Reinsurance Coverage
 
-|  |  |
-| :--- | ---: |
-| 1749bbb–7. | Reinsurance of losses from riots or civil disorders. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Authorization; lines of property insurance included.
-
-(b)
-
-Temporary coverage.
-
-(c)
-
-Participation in State plan or pool.
-
-|  |  |
-| :--- | ---: |
-| 1749bbb–8. | Reinsurance agreements and premiums. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Authorization to enter into contracts, agreements, treaties, or other arrangements for reinsurance coverage.
-
-(b)
-
-Reimbursement for total proved and approved claims for covered losses.
-
-(c)
-
-Terms and conditions of contracts, etc., uniformity of rates, terms and conditions.
-
-(d)
-
-Expiration date of contracts, etc.
-
-|  |  |
-| :--- | ---: |
-| 1749bbb–9. | Conditions of reinsurance. |
-| 1749bbb–10. | Recovery of premiums; jurisdiction; limitations. |
+|  |
+| :--- |
+| 1749bbb–7 to 1749bbb–10. Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Part C—Federal Insurance Against Burglary and Theft
 
-|  |  |
-| :--- | ---: |
-| 1749bbb–10a. | Review and program authority. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Review of market availability.
-
-(b)
-
-Government crime insurance.
-
-(c)
-
-Termination of insurance.
-
-|  |  |
-| :--- | ---: |
-| 1749bbb–10b. | Use of existing facilities and services. |
-| 1749bbb–10c. | Affordable rates; establishment; factors considered; uniform national rates; periodic modification. |
-| 1749bbb–10d. | Reports on operations. |
+|  |
+| :--- |
+| 1749bbb–10a to 1749bbb–10d. Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Part D—General Provisions
 
-|  |  |
-| :--- | ---: |
-| 1749bbb–11. | Submission of claims; judicial review; jurisdiction; limitations. |
-| 1749bbb–12. | Fiscal intermediaries and servicing agents. |
-| 1749bbb–13. | National Insurance Development Fund. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Establishment.
-
-(b)
-
-Credits to fund.
-
-(c)
-
-Investment in obligations issued or guaranteed by United States.
-
-(d)
-
-Annual budget.
-
-|  |  |
-| :--- | ---: |
-| 1749bbb–14. | Records, annual statement, and audits. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Information reports for Director.
-
-(b)
-
-Filing of annual statement.
-
-(c)
-
-Recordkeeping requirements.
-
-(d)
-
-Investigation and audit.
-
-|  |  |
-| :--- | ---: |
-| 1749bbb–15. | Study of reinsurance and other programs; report to the President and Congress. |
-| 1749bbb–16. | Other studies; cooperation with State insurance authorities and private insurance industry. |
-| 1749bbb–17. | General powers of Director. |
-| 1749bbb–18. | Utilization of services and facilities of other agencies. |
-| 1749bbb–19. | Advance payments. |
-| 1749bbb–20. | Taxation. |
-| 1749bbb–21. | Authorization of appropriations. |
+|  |
+| :--- |
+| 1749bbb–11 to 1749bbb–21. Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -3798,7 +3748,7 @@ Preferences.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1441a, 1454, 1464, 1701r–1, 1701z–7, 1701z–11, 1709a, 1715z–1a, 1715z–1c, 1715z–4a, 1735f–7a, 1735g, 1786, 1831q, 2710, 3802, 4901 of this title; title 7 section 1933; title 11 section 362; title 15 sections 77ddd, 2227; title 38 section 3704; title 40 section 474; title 40 App. section 213; title 42 sections 1382a, 1437f, 1490a, 1490p–2, 2322, 3012, 3535, 12709, 12852, 13632; title 48 section 1425.
+This chapter is referred to in sections 1441a, 1454, 1464, 1701r–1, 1701z–7, 1701z–11, 1709a, 1715z–1a, 1715z–1c, 1715z–4a, 1715z–13b, 1715z–22, 1735f–7a, 1735g, 1786, 1831q, 2710, 3802, 4901 of this title; title 7 section 1933; title 11 section 362; title 15 sections 77ddd, 2227; title 38 section 3704; title 40 section 474; title 40 App. section 213; title 42 sections 1382a, 1437f, 1490a, 1490p–2, 2322, 3012, 3535, 12709, 12852, 13632; title 48 section 1425.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -60,7 +60,7 @@ Subsection (c)(2) is substituted for the reference, in 5 U.S.C. 428, to courts-m
 
 1994—Subsec. (b). Pub. L. 103–337, §504(b)(1)(A), added last sentence and struck out former last sentence which read as follows: “While so serving, the Judge Advocate General of the Navy shall be entitled to the rank and grade of rear admiral or major general, as appropriate, unless entitled to a higher rank and grade under another provision of law.”
 
-Subsec. (c). Pub. L. 103–337, §504(b)(1)(B), added subsec. (c) and struck out former subsec. (c) which read as follows: “The Judge Advocate General of the Navy is entitled to the same rank and privileges of retirement as provided for chiefs of bureaus in section 5133 of this title.”
+Subsec. (c). Pub. L. 103–337, §504(b)(1)(B), added subsec. (c) and struck out former subsec. (c) which read as follows: “The Judge Advocate General of the Navy isentitled to the same rank and privileges of retirement as provided for chiefs of bureaus in section 5133 of this title.”
 
 1980—Subsec. (b). Pub. L. 96–513 inserted provision entitling Judge Advocate General of Navy to rank and grade of rear admiral or major general, as appropriate.
 
@@ -84,7 +84,7 @@ Section 8 of Pub. L. 90–179 provided that:
 
 “(a) In this section ‘law specialist’ means a line officer on the active or retired list of the Regular Navy or of the Naval Reserve designated for special duty (law) or a line officer of the Naval Reserve assigned a numerical designator indicating a special duty officer (law).
 
-“(b) All law specialists in the Navy are redesignated as judge advocates in the Judge Advocate General'sCorps of the Navy. Each law specialist of the Navy who is on a promotion list on the day before the effective date of this Act \[Dec. 8, 1967\] shall be placed on the appropriate promotion list for the Judge Advocate General's Corps and shall be eligible for promotion when the officer who is to be his running mate in the next higher grade becomes eligible for promotion in that grade.”
+“(b) All law specialists in the Navy are redesignated as judge advocates in the Judge Advocate General's Corps of the Navy. Each law specialist of the Navy who is on a promotion list on the day before the effective date of this Act \[Dec. 8, 1967\] shall be placed on the appropriate promotion list for the Judge Advocate General's Corps and shall be eligible for promotion when the officer who is to be his running mate in the next higher grade becomes eligible for promotion in that grade.”
 
 #### Savings Provision
 
@@ -93,18 +93,6 @@ Section 10 of Pub. L. 90–179 provided that: “This Act \[enacting sections 55
 #### Women Officers in Judge Advocate General's Corps of Navy
 
 Pub. L. 90–179, §11, Dec. 8, 1967, 81 Stat. 549, provided that all provisions of law applicable to male officers in the Navy Judge Advocate General's Corps, including Naval Reserve, were applicable to women Corps officers, prior to repeal by Pub. L. 97–295, §6(b), Oct. 12, 1982, 96 Stat. 1314.
-
-#### Cross References
-
-Judge Advocate—
-
-&emsp;&emsp;Air Force, see section 8037 of this title.
-
-&emsp;&emsp;Army, see sections 3037, 3072 of this title.
-
-&emsp;&emsp;Marine Corps, see section 5046 of this title.
-
-Pay and allowances, see Title 37, Pay and Allowances of the Uniformed Services.
 
 #### Section Referred to in Other Sections
 

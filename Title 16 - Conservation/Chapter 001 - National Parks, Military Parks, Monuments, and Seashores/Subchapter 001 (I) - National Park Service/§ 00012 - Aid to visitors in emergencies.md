@@ -4,10 +4,6 @@ The Secretary of the Interior is authorized to aid and assist visitors within th
 
 (July 3, 1926, ch. 792, §1, 44 Stat. 900.)
 
-#### Cross References
-
-Uniform application of this section to all areas of national park system when not in conflict with specific provisions applicable to an area, see section 1c of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1c of this title.

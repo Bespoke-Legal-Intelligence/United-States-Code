@@ -68,7 +68,7 @@ At its first meeting and at its first regular meeting in each calendar year ther
 
 #### (h) Meetings, bylaws, and regulations
 
-(1) The Council shall hold a regular meeting during each calendar quarter and shall meet atthe call of the President, the Director of the Peace Corps, the Council's Chair, or one-fourth of its members.
+(1) The Council shall hold a regular meeting during each calendar quarter and shall meet at the call of the President, the Director of the Peace Corps, the Council's Chair, or one-fourth of its members.
 
 (2) The Council shall prescribe such bylaws and regulations as it considers necessary to carry out its functions. Such bylaws and regulations shall include procedures for fixing the time and place of meetings, giving or waiving of notice of meetings, and keeping of minutes of meetings.
 
@@ -93,6 +93,10 @@ A prior section 2511, Pub. L. 87–293, title I, §12, Sept. 22, 1961, 75 Stat. 
 #### Effective Date
 
 Section effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as an Effective Date of 1985 Amendment note under section 2151–1 of this title.
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (i) of this section relating to requirement that the President submit to Congress a copy of each report received under subsec. (i), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 14 of House Document No. 103–7.
 
 #### Termination of Advisory Councils
 

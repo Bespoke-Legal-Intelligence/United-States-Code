@@ -16,7 +16,7 @@ Every employer shall pay to each of his employees who in any workweek is engaged
 
 #### (b) Additional applicability to employees pursuant to subsequent amendatory provisions
 
-Every employer shall pay to each of his employees (other than an employee to whom subsection (a)(5) of this section applies) who in any workweek is engaged in commerce or in the production of goods for commerce, or is employed in an enterprise engaged in commerce or in the production of goods for commerce, and who in such workweek is brought within the purview of this section by the amendments made to this chapter by the Fair Labor Standards Amendments of 1966; title IX of the Education Amendments of 1972 \[20 U.S.C. 1681 et seq.\], or the Fair Labor Standards Amendments of 1974, wages at the following rate: Effective after December 31, 1977, not less than the minimum wage rate in effect under subsection (a)(1) of this section.
+Every employer shall pay to each of his employees (other than an employee to whom subsection (a)(5) of this section applies) who in any workweek is engaged in commerce or in the production of goods for commerce, or is employed in an enterprise engaged in commerce or in the production of goods for commerce, and who in such workweek is brought within the purview of this section by the amendments made to thischapter by the Fair Labor Standards Amendments of 1966; title IX of the Education Amendments of 1972 \[20 U.S.C. 1681 et seq.\], or the Fair Labor Standards Amendments of 1974, wages at the following rate: Effective after December 31, 1977, not less than the minimum wage rate in effect under subsection (a)(1) of this section.
 
 #### (c) Repealed. Pub. L. 104–188, \[title II\], §2104(c), Aug. 20, 1996, 110 Stat. 1929
 
@@ -64,7 +64,7 @@ Any employee—
 
 #### References in Text
 
-The Fair Labor Standards Amendments of 1966, referred to in subsec. (b), is Pub. L. 89–601, Sept. 23, 1966, 80 Stat. 830. For complete classification of this Act to the Code, see Short Title of 1966 Amendment note set out under section 201 of this title and Tables.
+The Fair Labor Standards Amendments of 1966, referred to in subsec. (b), is Pub. L. 89–601, Sept. 23, 1966,80 Stat. 830. For complete classification of this Act to the Code, see Short Title of 1966 Amendment note set out under section 201 of this title and Tables.
 
 The Education Amendments of 1972, referred to in subsec. (b), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235, as amended, Title IX of the Education Amendments of 1972 is classified principally to chapter 38 (§1681 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title of 1972 Amendment note set out under section 1001 of Title 20 and Tables.
 
@@ -86,7 +86,7 @@ Subsec. (g). Pub. L. 104–188, §2105(c), added subsec. (g).
 
 Subsec. (a)(3). Pub. L. 101–157, §4(b)(1), substituted “pursuant to sections 205 and 208 of this title” for “in the same manner and pursuant to the same provisions as are applicable to the special industry committees provided for Puerto Rico and the Virgin Islands by this chapter as amended from time to time. Each such committee shall have the same powers and duties and shall apply the same standards with respect to the application of the provisions of this chapter to employees employed in American Samoa as pertain to special industry committees established under section 205 of this title with respect to employees employed in Puerto Rico or the Virgin Islands”.
 
-Subsec. (c). Pub. L. 101–157, §4(b)(2), amended subsec. (c) generally, substituting provisions relating to the application of wage rates under subsec. (a)(1) to employees in Puerto Rico for provisions relating to the superseding of subsec. (a)(1) wage rates by wage orders ofa special industry committee for employees in Puerto Rico and the Virgin Islands.
+Subsec. (c). Pub. L. 101–157, §4(b)(2), amended subsec. (c) generally, substituting provisions relating to the application of wage rates under subsec. (a)(1) to employees in Puerto Rico for provisions relating to the superseding of subsec. (a)(1) wage rates by wage orders of a special industry committee for employees in Puerto Rico and the Virgin Islands.
 
 Subsec. (f)(1). Pub. L. 101–239 substituted “209(a)(6)” for “209(g)”.
 
@@ -182,7 +182,7 @@ Amendment by Pub. L. 89–601 effective Feb. 1, 1967, except as otherwise provid
 
 #### Effective Date of 1963 Amendment
 
-Section 4 of Pub. L. 88–38 provided that: “The amendments made by this Act \[amending this section and enacting provisions set out below\] shall take effect upon the expiration of one year from the date of its enactment \[June 10, 1963\]: <i>Provided</i>, That in the case of employees covered by a bona fide collective bargaining agreement in effect at least thirty days prior to the date of enactment of this Act \[June 10, 1963\], entered into by a labor organization as defined in section 6(d)(4)of the Fair Labor Standards Act of 1938, as amended \[subsec. (d)(4) of this section\], the amendments made by this Act shall take effect upon the termination of such collective bargaining agreement or upon the expiration of two years from the date of enactment of this Act \[June 10, 1963\], whichever shall first occur.”
+Section 4 of Pub. L. 88–38 provided that: “The amendments made by this Act \[amending this section and enacting provisions set out below\] shall take effect upon the expiration of one year from the date of its enactment \[June 10, 1963\]: <i>Provided</i>, That in the case of employees covered by a bona fide collective bargaining agreement in effect at least thirty days prior to the date of enactment of this Act \[June 10, 1963\], entered into by a labor organization as defined in section 6(d)(4) of the Fair Labor Standards Act of 1938, as amended \[subsec. (d)(4) of this section\], the amendments made by this Act shall take effect upon the termination of such collective bargaining agreement or upon the expiration of two years from the date of enactment of this Act \[June 10, 1963\], whichever shall first occur.”
 
 #### Effective Date of 1961 Amendment
 
@@ -386,21 +386,7 @@ Section 2 of Pub. L. 88–38 provided that:
 
 The term “Administrator” as meaning the Administrator of the Wage and Hour Division, see section 204 of this title.
 
-#### Cross References
-
-Action by employee to recover unpaid minimum wages and liquidated damages, see section 216 of this title.
-
-Employees performing services within foreign country or certain territory under jurisdiction of United States as not subject to provisions of this section, see section 213 of this title.
-
-Hours worked defined, see section 203 of this title.
-
-Minimum wages for employees covered by Walsh-Healey Act, see section 35 of Title 41, Public Contracts.
-
-Minimum wages of employees of Government contractors prescribed by Davis-Bacon Act, see section 276a of Title 40, Public Buildings, Property, and Works.
-
-Overtime pay, see section 207 of this title.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 203, 205, 207, 208, 213, 214, 215, 216, 218, 721, 1552, 2617, 2931 of this title; title 2 sections 60k, 1313; title 3 section 413; title 5 sections 2302, 5343, 5349, 7702; title 7 sections 2015, 2026; title 10 section 1588; title 15 section 1673; title 20 section 1085; title 21 section 849; title 22 sections 2506, 3905, 3967, 3968, 3969, 4131; title 24 section 422; title 26 section 45B; title 38 sections 1720, 3485; title 41 section 351; title 42 sections 300e–9, 431, 2000e–2, 2753, 3056, 8009, 8011, 9848.
+This section is referred to in sections 203, 205, 207, 208, 213, 214, 215, 216, 218, 721, 2617, 2931 of this title; title 2 sections 60k, 1313; title 3 section 413; title 5 sections 2302, 5343, 5349, 7702; title 7 sections 2015, 2026; title 10 section 1588; title 15 section 1673; title 20 section 1085; title 21 section 849; title 22 sections 2506, 3905, 3967, 3968, 3969, 4131; title 24 section 422; title 26 section 45B; title 38 sections 1720, 3485; title 41 section 351; title 42 sections 300e–9, 431, 1320b–22, 1396d, 2000e–2, 2753, 3056, 8009, 8011, 9848.
 

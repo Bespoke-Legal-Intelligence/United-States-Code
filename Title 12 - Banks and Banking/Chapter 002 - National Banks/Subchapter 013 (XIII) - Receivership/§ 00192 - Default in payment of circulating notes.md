@@ -2,7 +2,7 @@
 
 On becoming satisfied, as specified in sections 131 and 132 <sup>1</sup> of this title, that any association is in default, the Comptroller of the Currency may forthwith appoint a receiver, and require of him such bond and security as he deems proper. Such receiver, under the direction of the comptroller, shall take possession of the books, records, and assets of every description of such association, collect all debts, dues, and claims belonging to it, and, upon the order of a court of record of competent jurisdiction, may sell or compound all bad or doubtful debts, and, on a like order, may sell all the real and personal property of such association, on such terms as the court shall direct. Such receiver shall pay over all money so made to the Treasurer of the United States, subject to the order of the Comptroller, and also make report to the Comptroller of all his acts and proceedings.
 
-<i>Provided</i>, That the Comptroller may, if he deems proper, deposit any of the money so made in any regular Government depositary, or in any State or national bank either of the city or town in which the insolvent bank was located or of a city or town as adjacent thereto as practicable; if such deposit is made he shall require the depositary to deposit United States bonds or other satisfactory securities with the Treasurer of the United States for the safekeeping and prompt payment of the money so deposited: <i>Provided</i>, That no security in the form of deposit of United States bonds, or otherwise, shall be required in the case of such parts of the deposits as are insured under section 12B of the Federal Reserve Act, as amended. Such depositary shall pay upon such money interest at such rate as the Comptroller may prescribe, not less, however, than 2per centum per annum upon the average monthly amount of such deposits.
+<i>Provided</i>, That the Comptroller may, if he deems proper, deposit any of the money so made in any regular Government depositary, or in any State or national bank either of the city or town in which the insolvent bank was located or of a city or town as adjacent thereto as practicable; if such deposit is made he shall require the depositary to deposit United States bonds or other satisfactory securities with the Treasurer of the United States for the safekeeping and prompt payment of the money so deposited: <i>Provided</i>, That no security in the form of deposit of United States bonds, or otherwise, shall be required in the case of such parts of the deposits as are insured under section 12B of the Federal Reserve Act, as amended. Such depositary shall pay upon such money interest at such rate as the Comptroller may prescribe, not less, however, than 2 per centum per annum upon the average monthly amount of such deposits.
 
 (R.S. §5234; May 15, 1916, ch. 121, 39 Stat. 121; Aug. 23, 1935, ch. 614, title III, §339, 49 Stat. 721; Pub. L. 86–230, §17, Sept. 8, 1959, 73 Stat. 458; Pub. L. 103–325, title VI, §602(g)(11), Sept. 23, 1994, 108 Stat. 2294.)
 
@@ -30,29 +30,15 @@ For transfer of functions to Secretary of the Treasury, see note set out under s
 
 #### Application to District of Columbia
 
-Provisions of this section were made applicable to banks, etc., in the District of Columbia by act Mar. 4, 1933, ch. 274, §4, 47 Stat. 1567 (D.C. Code, §26–104).
+Provisions of this section were made applicable to banks, etc., in the District of Columbia by act Mar. 4, 1933, ch. 274, §4, 47 Stat. 1567.
 
 #### Interest on Deposits
 
 So much of existing law requiring the payment of interest with respect to any funds deposited by the United States or by any public instrumentality, agency, or officer thereof, as is inconsistent with sections 371a, 371b, 374, 374a, 461, former sections 462 to 465, and section 466 of this title, repealed, see section 371a of this title.
 
-#### Cross References
-
-Certifying check when amount of deposit was inadequate, proceedings under this section, see section 501 of this title.
-
-Failure to pay up capital stock, appointment of receiver under this section, see section 55 of this title.
-
-Failure to sell or dispose of own capital stock acquired as security or by purchase, appointment of receiver under this section, see section 83 of this title.
-
-Individual liability of shareholders, limitation on liability, see section 64a of this title.
-
-Money reserve falling below required amount in banks in Alaska and insular possessions, appointment of receiver under this section, see section 143 of this title.
-
-Payment of interest on demand deposits, see section 371a of this title.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 55, 83, 143, 197, 481, 501, 1467 of this title.
+This section is referred to in sections 55, 143, 197, 481, 501, 1467 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

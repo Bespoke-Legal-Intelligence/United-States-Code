@@ -8,13 +8,19 @@ Entitlement to Allowance.—(1) Except as provided in paragraph (2) or otherwise
 
 (b)
 
-Rates of Allowance Based on Food Costs.—(1) The monthly rate of basic allowance for subsistence to be in effect for an enlisted member for a year (beginning on January 1 of that year) shall be the amount that is halfway between the following amounts, which are determined by the Secretary of Agriculture as of October 1 of the preceding year:
+Rates of Allowance Based on Food Costs.—(1) Through December 31, 2001, the monthly rate of basic allowance for subsistence to be in effect for an enlisted member for a year (beginning on January 1 of that year) shall be the amount that is halfway between the following amounts, which are determined by the Secretary of Agriculture as of October 1 of the preceding year:
 
 &emsp;(A) The amount equal to the monthly cost of a moderate-cost food plan for a male in the United States who is between 20 and 50 years of age.
 
 &emsp;(B) The amount equal to the monthly cost of a liberal food plan for a male in the United States who is between 20 and 50 years of age.
 
-(2) The monthly rate of basic allowance for subsistence to be in effect for an officer for a year (beginning on January 1 of that year) shall be the amount equal to the monthly rate of basic allowance for subsistence in effect for officers for the preceding year, increased by the same percentage by which the rate of basic allowance for subsistence for enlisted members for the preceding year is increased effective on such January 1.
+(2) On and after January 1, 2002, the monthly rate of basic allowance for subsistence to be in effect for an enlisted member for a year (beginning on January 1 of that year) shall be equal to the sum of—
+
+&emsp;(A) the monthly rate of basic allowance for subsistence that was in effect for an enlisted member for the preceding year; plus
+
+&emsp;(B) the product of the monthly rate under subparagraph (A) and the percentage increase in the monthly cost of a liberal food plan for a male in the United States who is between 20 and 50 years of age over the preceding fiscal year, as determined by the Secretary of Agriculture each October 1.
+
+(3) The monthly rate of basic allowance for subsistence to be in effect for an officer for a year (beginning on January 1 of that year) shall be the amount equal to the monthly rate of basic allowance for subsistence in effect for officers for the preceding year, increased by thesame percentage by which the rate of basic allowance for subsistence for enlisted members for the preceding year is increased effective on such January 1.
 
 (c)
 
@@ -22,7 +28,7 @@ Advance Payment.—The allowance to an enlisted member may be paid in advance fo
 
 (d)
 
-Special Rule for Members Authorized to Mess Separately.—(1) In areas prescribed by the Secretary of Defense, and the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy, an enlisted member described in paragraph (2) is entitled to not more than the pro rata allowance established under subsection (b)(1) for each meal the member buys from a source other than a messing facility of the United States.
+Special Rule for Members Authorized to Mess Separately.—(1) In areas prescribed by the Secretary of Defense, and the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy, an enlisted member described in paragraph (2) is entitled to not more than the pro rata allowance in effect under paragraph (1) or (2) of subsection (b) for each meal the member buys from a source other than a messing facility of the United States.
 
 (2) An enlisted member referred to in paragraph (1) is a member who is granted permission to mess separately and whose duties require the member to buy at least one meal from a source other than a messing facility of the United States.
 
@@ -40,7 +46,7 @@ Regulations.—(1) The Secretary of Defense shall prescribe regulations for the 
 
 (2) The regulations shall include the specific rates of basic allowance for subsistence required by subsection (b).
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 470; Pub. L. 89–444, §2(2), June 9, 1966, 80 Stat. 198; Pub. L. 93–419, §3(1)–(5), Sept. 19, 1974, 88 Stat. 1152; Pub. L. 96–513, title IV, §411, Dec. 12, 1980, 94 Stat. 2905; Pub. L. 98–94, title IX, §908(a), Sept. 24, 1983, 97 Stat. 637; Pub. L. 98–525, title VI, §605, Oct. 19, 1984, 98 Stat. 2537; Pub. L. 98–557, §17(d), Oct. 30, 1984, 98 Stat. 2868; Pub. L. 99–145, title XIII, §1303(b)(5), Nov. 8, 1985, 99 Stat. 740; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 104–106, div. A, title VI, §602(a)–(c)(1), Feb. 10, 1996, 110 Stat. 356, 357; Pub. L. 105–85, div. A, title VI, §602(a), Nov. 18, 1997, 111 Stat. 1771; Pub. L. 105–261, div. A, title VI, §604(a), Oct. 17, 1998, 112 Stat. 2037.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 470; Pub. L. 89–444, §2(2), June 9, 1966, 80 Stat. 198; Pub. L. 93–419, §3(1)–(5), Sept. 19, 1974, 88 Stat. 1152; Pub. L. 96–513, title IV, §411, Dec. 12, 1980, 94 Stat. 2905; Pub. L. 98–94, title IX, §908(a), Sept. 24, 1983, 97 Stat. 637; Pub. L. 98–525, title VI, §605, Oct. 19, 1984, 98 Stat. 2537; Pub. L. 98–557, §17(d), Oct. 30, 1984, 98 Stat. 2868; Pub. L. 99–145, title XIII, §1303(b)(5), Nov. 8, 1985, 99 Stat. 740; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 104–106, div. A, title VI, §602(a)–(c)(1), Feb. 10, 1996, 110 Stat. 356, 357; Pub. L. 105–85, div. A, title VI, §602(a), Nov. 18, 1997, 111 Stat. 1771; Pub. L. 105–261, div. A, title VI, §604(a), Oct. 17, 1998, 112 Stat. 2037; Pub. L. 106–398, §1 \[\[div. A\], title VI, §603(a), (b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–144, 1654A–145.)
 
 Historical and Revision Notes
 
@@ -120,11 +126,17 @@ In subsection (e), the words “Effective April 15, 1955,” are omitted as exec
 
 #### Amendments
 
+2000—Subsec. (b)(1). Pub. L. 106–398, §1 \[\[div. A\], title VI, §603(a)(1)\], substituted “Through December 31, 2001, the monthly rate” for “The monthly rate” in introductory provisions.
+
+Subsec. (b)(2), (3). Pub. L. 106–398, §1 \[\[div. A\], title VI, §603(a)(2), (3)\], added par. (2) and redesignated former par. (2) as (3).
+
+Subsec. (d)(1). Pub. L. 106–398, §1 \[\[div. A\], title VI, §603(b)\], substituted “in effect under paragraph (1) or (2) of subsection (b)” for “established under subsection (b)(1)”.
+
 1998—Subsecs. (e) to (g). Pub. L. 105–261 added subsec. (e) and redesignated former subsecs. (e) and (f) as (f) and (g), respectively.
 
 1997—Pub. L. 105–85 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (e) relating to basic allowance for subsistence for members of the uniformed services.
 
-1996—Subsec. (b). Pub. L. 104–106, §602(a), (b), designated first sentence as par. (1), redesignated former pars. (1), (2), and (3) as subpars. (A), (B), and (C), respectively, of par. (1), designated second to fourth sentences as par. (2), designated fifth and sixth sentences as par. (3), and added par. (4).
+1996—Subsec. (b). Pub. L. 104–106, §602(a), (b), designated first sentence as par. (1), redesignated former pars. (1), (2), and (3) as subpars. (A), (B), and (C), respectively, of par. (1), designated second to fourth sentencesas par. (2), designated fifth and sixth sentences as par. (3), and added par. (4).
 
 Subsec. (e)(1). Pub. L. 104–106, §602(c)(1)(A), substituted “subsection (b)(2)” for “the third sentence of subsection (b)”.
 
@@ -172,119 +184,7 @@ Amendment by Pub. L. 93–419 effective Sept. 19, 1974, see section 9 of Pub. L.
 
 #### Transitional Authority To Provide Basic Allowance for Subsistence
 
-Section 602(c)–(f) of Pub. L. 105–85, as amended by Pub. L. 105–261, div. A, title VI, §604(b), Oct. 17, 1998, 112 Stat. 2038, provided that:
-
-“(c)
-
-Transitional Authority To Provide Basic Allowance for Subsistence.—
-
-&emsp;“(1)
-
-Transitional authority.—Notwithstanding section 402 of title 37, United States Code, as amended by subsection (a), during the period beginning on January 1, 1998, and ending on the date determined under paragraph (2)—
-
-&emsp;&emsp;“(A) the basic allowance for subsistence shall not be paid under such section 402;
-
-&emsp;&emsp;“(B) a member of the uniformed services is entitled to the basic allowance for subsistence only as provided in subsection (d);
-
-&emsp;&emsp;“(C) an enlisted member of the uniformed services may be paid a partial basic allowance for subsistence as provided in subsection (e); and
-
-&emsp;&emsp;“(D) the rates of the basic allowance for subsistence are those rates determined under subsection (f).
-
-&emsp;“(2)
-
-Termination of transitional authority.—The transitional authority provided under paragraph (1) shall terminate on the first day of the month immediately following the first month for which the monthly equivalent of the rate of basic allowance for subsistence payable to enlisted members of the uniformed services (when permission to mess separately is granted), as determined under subsection (f)(2), is equal to or is exceeded by the amount that, except for paragraph (1)(A), would otherwise be the monthly rate of basic allowance for subsistence for enlisted members under section 402(b)(1) of title 37, United States Code, as amended by subsection (a).
-
-“(d)
-
-Transitional Entitlement to Allowance.—
-
-&emsp;“(1)
-
-Enlisted members.—
-
-&emsp;&emsp;“(A)
-
-Types of entitlement.—An enlisted member is entitled to the basic allowance for subsistence, on a daily basis, of \[sic\] under one or more of the following circumstances:
-
-&emsp;&emsp;&emsp;“(i) When rations in kind are not available.
-
-&emsp;&emsp;&emsp;“(ii) When permission to mess separately is granted.
-
-&emsp;&emsp;&emsp;“(iii) When assigned to duty under emergency conditions where no messing facilities of the United States are available.
-
-&emsp;&emsp;“(B)
-
-Other entitlement circumstances.—An enlisted member is entitled to the allowance while on an authorized leave of absence, while confined in a hospital, or while performing travel under orders away from the member's designated post of duty other than field duty or sea duty (as defined in regulations prescribed by the Secretary of Defense). For purposes of the preceding sentence, a member shall not be considered to be performing travel under orders away from his designated post of duty if such member—
-
-&emsp;&emsp;&emsp;“(i) is an enlisted member serving the member's first tour of active duty;
-
-&emsp;&emsp;&emsp;“(ii) has not actually reported to a permanent duty station pursuant to orders directing such assignment; and
-
-&emsp;&emsp;&emsp;“(iii) is not actually traveling between stations pursuant to orders directing a change of station.
-
-&emsp;&emsp;“(C)
-
-Advance payment.—The allowance to an enlisted member, when authorized, may be paid in advance for a period of not more than three months.
-
-&emsp;&emsp;“(D)
-
-Special rule for certain enlisted reserve members.—Unless entitled to basic pay under section 204 of title 37, United States Code, an enlisted member of a reserve component (as defined in section 101(24) of such title) may receive, at the discretion of the Secretary concerned (as defined in section 101(5) of such title), rations in kind, or a part thereof, when the member's instruction or duty periods (as described in section 206(a) of such title) total at least 8 hours in a calendar day. The Secretary concerned may provide an enlisted member who could be provided rations in kind under the preceding sentence with a commutation when rations in kind are not available.
-
-&emsp;“(2)
-
-Officers.—An officer of a uniformed service who is entitled to basic pay is, at all times, entitled to the basic allowances for subsistence. An aviation cadet of the Navy, Air Force, Marine Corps, or Coast Guard is entitled to the same basic allowance for subsistence as is provided for an officer of the Navy, Air Force, Marine Corps, or Coast Guard, respectively.
-
-“(e)
-
-Transitional Authority for Partial Allowance.—
-
-&emsp;“(1)
-
-Enlisted members furnished subsistence in kind.—The Secretary of Defense may provide in regulations for an enlisted member of a uniformed service to be paid a partial basic allowance for subsistence when—
-
-&emsp;&emsp;“(A) rations in kind are available to the member;
-
-&emsp;&emsp;“(B) the member is not granted permission to mess separately; or
-
-&emsp;&emsp;“(C) the member is assigned to duty under emergency conditions where messing facilities of the United States are available.
-
-&emsp;“(2)
-
-Monthly payment.—Any partial basic allowance for subsistence authorized under paragraph (1) shall be calculated on a daily basis and paid on a monthly basis.
-
-“(f)
-
-Transitional Rates.—
-
-&emsp;“(1)
-
-Allowance for officers.—The monthly rate of basic allowance for subsistence for a year (beginning on January 1 of that year) that is payable to officers of the uniformed services shall be the amountthat is equal to 101 percent of the rate of basic allowance for subsistence that was payable to officers of the uniformed services for the preceding year.
-
-&emsp;“(2)
-
-Allowance for enlisted member with permission to mess separately.—The monthly rate of basic allowance for subsistence for a year (beginning on January 1 of that year) that is payable to an enlisted member of the uniformed services entitled to the allowance under subsection (d)(1) shall be the amount that is equal to 101 percent of the rate of basic allowance for subsistence that was in effect for similarly situated enlisted members of the uniformed services for the preceding year.
-
-&emsp;“(3)
-
-Partial allowance for other enlisted members.—The monthly rate of any partial basic allowance for subsistence for a year (beginning on January 1 of that year) payable to an enlisted member of the uniformed services eligible for the allowance under the regulations prescribed under subsection (e)(1) shall be the amount equal to the lesser of the following:
-
-&emsp;&emsp;“(A) The sum of—
-
-&emsp;&emsp;&emsp;“(i) the partial basic allowance for subsistence in effect for the preceding year; and
-
-&emsp;&emsp;&emsp;“(ii) the amount equal to the difference, if any, between—
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) the monthly equivalent of the rate of basic allowance for subsistence that was in effect for the preceding year for members of the uniformed services above grade E–1 (when permission to mess separately is granted), increased by the same percentage by which the rates of basic pay for members of the uniformed services is increased for the current year; and
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) the amount equal to 101 percent of the monthly equivalent of the rate of basic allowance for subsistence that was in effect for the previous year for members of the uniformed services above grade E–1 (when permission to mess separately is granted),
-
-&emsp;&emsp;&nbsp;with the amount so determined under this clause multiplied by the number of members estimated to be entitled to receive basic allowance for subsistence under subsection (d) for the current year and then divided by the number of members estimated to be eligible for the partial allowance under the regulations prescribed under subsection (e)(1) for that year.
-
-&emsp;&emsp;“(B) The amount equal to the difference between—
-
-&emsp;&emsp;&emsp;“(i) the amount that, except for subsection (c)(1)(A), would otherwise be the monthly rate of basic allowance for subsistence for enlisted members under section 402(b)(1) of title 37, United States Code; and
-
-&emsp;&emsp;&emsp;“(ii) the amount equal to the monthly equivalent of the value of a daily ration, as determined by the Under Secretary of Defense (Comptroller) as of October 1 of the preceding year.”
+Pub. L. 105–85, div. A, title VI, §602(c)–(f), Nov. 18, 1997, 111 Stat. 1772, as amended by Pub. L. 105–261, div. A, title VI, §604(b), Oct. 17, 1998, 112 Stat. 2038; Pub. L. 106–398, §1 \[\[div. A, title X, §1087(e)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–293, which provided that a basic allowance for subsistence was to be paid to members of the uniformed services according to the conditions and at the rates provided in this note and not under the authority of this section during the period beginning on Jan. 1, 1998, and ending on the first day of the month immediately following the first month for which the monthly equivalent of the rate of basic allowance for subsistence payable to enlisted members of the uniformed services determined under this note was equal to or exceeded by the amount that would otherwise have been the monthly rate of basic allowance for subsistence under subsec. (b)(1) of this section, was repealed by Pub. L. 106–398, §1 \[\[div. A, title VI, §603(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–145, effective Oct. 1, 2001.
 
 #### Increase in Basic Allowance for Subsistence
 
@@ -298,13 +198,7 @@ Regulations relating to basic allowance for subsistence, see Ex. Ord. No. 11157,
 
 Ex. Ord. No. 10119, Mar. 30, 1950, 15 F.R. 1767, as amended by 1953 Reorg. Plan No. 1, §§5, 8, Apr. 11, 1953, 18 F.R. 2053; Ex. Ord. No. 10605, Apr. 22, 1955, 20 F.R. 2747, which related to regulations governing basic allowance for subsistence, was revoked by Ex. Ord. No. 11157, June 22, 1964, 29 F.R. 7973, set out as a note under section 301 of this title.
 
-#### Cross References
-
-Assimilation of pay and allowances, see section 1003 of this title.
-
-Aviation cadets, allowances, pensions, gratuities, and other benefits, see section 6912 of Title 10, Armed Forces.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 404, 420, 1003, 1009, 1012 of this title; title 10 sections 708, 6912; title 14 section 372; title 32 section 107.
+This section is referred to in sections 402a, 420, 1003, 1009, 1012 of this title; title 10 sections 708, 6912; title 14 section 372; title 32 section 107.
 

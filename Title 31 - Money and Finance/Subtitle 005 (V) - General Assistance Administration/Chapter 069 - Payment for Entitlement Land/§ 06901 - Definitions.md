@@ -124,5 +124,5 @@ Pub. L. 103–397, §1, Oct. 22, 1994, 108 Stat. 4156, provided that: “This Ac
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 6902 of this title.
+This section is referred to in section 6902 of this title; title 16 section 698v–3.
 

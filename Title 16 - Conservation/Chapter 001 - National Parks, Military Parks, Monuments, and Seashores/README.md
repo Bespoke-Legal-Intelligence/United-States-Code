@@ -117,7 +117,7 @@
 | [19k.](Subchapter%20003%20%28III%29%20-%20National%20Park%20Foundation/%C2%A7%2000019k%20-%20Bylaws%2C%20rules%2C%20and%20regulations%3B%20contracts%20for%20services.md) | Bylaws, rules, and regulations; contracts for services. |
 | 19<i>l.</i> | Tax exemptions; contributions toward costs of local government; contributions, gifts, or transfers to or for use of United States. |
 | [19m.](Subchapter%20003%20%28III%29%20-%20National%20Park%20Foundation/%C2%A7%2000019m%20-%20Liability%20of%20United%20States.md) | Liability of United States. |
-| [19n.](Subchapter%20003%20%28III%29%20-%20National%20Park%20Foundation/%C2%A7%2000019n%20-%20Annual%20reports%20to%20Congress.md) | Annual reports to Congress. |
+| [19n.](Subchapter%20003%20%28III%29%20-%20National%20Park%20Foundation/%C2%A7%2000019n%20-%20Omitted.md) | Omitted. |
 | 19<i>o</i>. | Promotion of local fundraising support. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -201,6 +201,7 @@
 | [45d.](Subchapter%20006%20%28VI%29%20-%20Sequoia%20and%20Yosemite%20National%20Parks/%C2%A7%2000045d%20-%20Exclusive%20privileges%20within%20park%20prohibited.md) | Exclusive privileges within park prohibited. |
 | [45e.](Subchapter%20006%20%28VI%29%20-%20Sequoia%20and%20Yosemite%20National%20Parks/%C2%A7%2000045e%20-%20Violations%20of%20park%20regulations%3B%20penalty.md) | Violations of park regulations; penalty. |
 | [45f.](Subchapter%20006%20%28VI%29%20-%20Sequoia%20and%20Yosemite%20National%20Parks/%C2%A7%2000045f%20-%20Mineral%20King%20Valley%20addition%20authorized.md) | Mineral King Valley addition authorized. |
+| [45g.](Subchapter%20006%20%28VI%29%20-%20Sequoia%20and%20Yosemite%20National%20Parks/%C2%A7%2000045g%20-%20Addition%20to%20Sequoia%20National%20Park.md) | Addition to Sequoia National Park. |
 | [46\.](Subchapter%20006%20%28VI%29%20-%20Sequoia%20and%20Yosemite%20National%20Parks/%C2%A7%2000046%20-%20Yosemite%20National%20Park%3B%20lands%20segregated%20from%20and%20included%20in%20Sierra%20National%20Forest%3B%20rights-of-way%20over.md) | Yosemite National Park; lands segregated from and included in Sierra National Forest; rights-of-way over. |
 | [47\.](Subchapter%20006%20%28VI%29%20-%20Sequoia%20and%20Yosemite%20National%20Parks/%C2%A7%2000047%20-%20Additional%20lands%20excluded%20from%20Yosemite%20National%20Park%20and%20added%20to%20Sierra%20National%20Forest.md) | Additional lands excluded from Yosemite National Park and added to Sierra National Forest. |
 | 47–1. | Administrative site for Yosemite National Park. |
@@ -930,7 +931,7 @@
 | [392\.](Subchapter%20041%20%28XLI%29%20-%20Hawaii%20National%20Park/%C2%A7%2000392%20-%20Acquisition%20of%20privately%20owned%20lands.md) | Acquisition of privately owned lands. |
 | [392a.](Subchapter%20041%20%28XLI%29%20-%20Hawaii%20National%20Park/%C2%A7%2000392a%20-%20Provisions%20of%20section%20392%20extended%20to%20additional%20lands.md) | Provisions of section 392 extended to additional lands. |
 | [392b.](Subchapter%20041%20%28XLI%29%20-%20Hawaii%20National%20Park/%C2%A7%2000392b%20-%20Conveyance%20of%20added%20lands%20to%20United%20States%20by%20Governor.md) | Conveyance of added lands to United States by Governor. |
-| [392c.](Subchapter%20041%20%28XLI%29%20-%20Hawaii%20National%20Park/%C2%A7%2000392c%20-%20Addition%20to%20Hawaii%20Volcanoes%20National%20Park.md) | Addition to Hawaii Volcanoes National Park. |
+| [392c.](Subchapter%20041%20%28XLI%29%20-%20Hawaii%20National%20Park/%C2%A7%2000392c%20-%20Addition%20to%20Hawai%E2%80%98i%20Volcanoes%20National%20Park.md) | Addition to Hawai‘i Volcanoes National Park. |
 | [393\.](Subchapter%20041%20%28XLI%29%20-%20Hawaii%20National%20Park/%C2%A7%2000393%20-%20Entries%20under%20land%20laws%3B%20rights-of-way%3B%20lands%20excluded.md) | Entries under land laws; rights-of-way; lands excluded. |
 | [394\.](Subchapter%20041%20%28XLI%29%20-%20Hawaii%20National%20Park/%C2%A7%2000394%20-%20Control%3B%20rules%20and%20regulations%3B%20leases%3B%20appropriations.md) | Control; rules and regulations; leases; appropriations. |
 | [395\.](Subchapter%20041%20%28XLI%29%20-%20Hawaii%20National%20Park/%C2%A7%2000395%20-%20Exclusive%20jurisdiction%20in%20United%20States%3B%20exceptions%3B%20laws%20applicable%3B%20fugitives%20from%20justice.md) | Exclusive jurisdiction in United States; exceptions; laws applicable; fugitives from justice. |
@@ -943,34 +944,34 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER XLII—HALEAKALA NATIONAL PARK
+#### SUBCHAPTER XLII—HALEAKALA�AE8 NATIONAL PARK
 
 |  |  |
 | :--- | ---: |
-| [396b.](Subchapter%20042%20%28XLII%29%20-%20Haleakala%20National%20Park/%C2%A7%2000396b%20-%20Establishment%3B%20boundaries%3B%20administration.md) | Establishment; boundaries; administration. |
-| [396c.](Subchapter%20042%20%28XLII%29%20-%20Haleakala%20National%20Park/%C2%A7%2000396c%20-%20Land%20acquisition%3B%20authorization%20of%20appropriations.md) | Land acquisition; authorization of appropriations. |
+| [396b.](Subchapter%20042%20%28XLII%29%20-%20Haleakala%EF%BF%BDAE8%20National%20Park/%C2%A7%2000396b%20-%20Establishment%3B%20boundaries%3B%20administration.md) | Establishment; boundaries; administration. |
+| [396c.](Subchapter%20042%20%28XLII%29%20-%20Haleakala%EF%BF%BDAE8%20National%20Park/%C2%A7%2000396c%20-%20Land%20acquisition%3B%20authorization%20of%20appropriations.md) | Land acquisition; authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER XLII–A—KALOKO-HONOKOHAU NATIONAL HISTORICAL PARK
+#### SUBCHAPTER XLII–A—KALOKO-HONOKŌHAU NATIONAL HISTORICAL PARK
 
 |  |  |
 | :--- | ---: |
-| [396d.](Subchapter%20042%E2%80%93A%20%28XLII%E2%80%93A%29%20-%20Kaloko-Honokohau%20National%20Historical%20Park/%C2%A7%2000396d%20-%20Establishment.md) | Establishment. |
-| [396e.](Subchapter%20042%E2%80%93A%20%28XLII%E2%80%93A%29%20-%20Kaloko-Honokohau%20National%20Historical%20Park/%C2%A7%2000396e%20-%20Exchange%20of%20lands.md) | Exchange of lands. |
-| [396f.](Subchapter%20042%E2%80%93A%20%28XLII%E2%80%93A%29%20-%20Kaloko-Honokohau%20National%20Historical%20Park/%C2%A7%2000396f%20-%20Acquisition%20of%20private%20lands%3B%20creation%20of%20surplus%20property%20accounts%3B%20transfer%20and%20sale%20of%20accounts.md) | Acquisition of private lands; creation of surplus property accounts; transfer and sale of accounts. |
+| [396d.](Subchapter%20042%E2%80%93A%20%28XLII%E2%80%93A%29%20-%20Kaloko-Honok%C5%8CHau%20National%20Historical%20Park/%C2%A7%2000396d%20-%20Establishment.md) | Establishment. |
+| [396e.](Subchapter%20042%E2%80%93A%20%28XLII%E2%80%93A%29%20-%20Kaloko-Honok%C5%8CHau%20National%20Historical%20Park/%C2%A7%2000396e%20-%20Exchange%20of%20lands.md) | Exchange of lands. |
+| [396f.](Subchapter%20042%E2%80%93A%20%28XLII%E2%80%93A%29%20-%20Kaloko-Honok%C5%8CHau%20National%20Historical%20Park/%C2%A7%2000396f%20-%20Acquisition%20of%20private%20lands%3B%20creation%20of%20surplus%20property%20accounts%3B%20transfer%20and%20sale%20of%20accounts.md) | Acquisition of private lands; creation of surplus property accounts; transfer and sale of accounts. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER XLIII—PUUHONUA o HONAUNAU NATIONAL HISTORICAL PARK
+#### SUBCHAPTER XLIII—PU‘UHONUA O HŌNAUNAU NATIONAL HISTORICAL PARK
 
 |  |  |
 | :--- | ---: |
-| [397\.](Subchapter%20043%20%28XLIII%29%20-%20Puuhonua%20o%20Honaunau%20National%20Historical%20Park/%C2%A7%2000397%20-%20Establishment%3B%20boundaries.md) | Establishment; boundaries. |
-| [397a.](Subchapter%20043%20%28XLIII%29%20-%20Puuhonua%20o%20Honaunau%20National%20Historical%20Park/%C2%A7%2000397a%20-%20Establishment%3B%20notice%20in%20Federal%20Register.md) | Establishment; notice in Federal Register. |
-| [397b.](Subchapter%20043%20%28XLIII%29%20-%20Puuhonua%20o%20Honaunau%20National%20Historical%20Park/%C2%A7%2000397b%20-%20Procurement%20of%20lands.md) | Procurement of lands. |
-| [397c.](Subchapter%20043%20%28XLIII%29%20-%20Puuhonua%20o%20Honaunau%20National%20Historical%20Park/%C2%A7%2000397c%20-%20Acquisition%20of%20lands%20by%20Governor%20of%20the%20Territory%20of%20Hawaii.md) | Acquisition of lands by Governor of the Territory of Hawaii. |
-| [397d.](Subchapter%20043%20%28XLIII%29%20-%20Puuhonua%20o%20Honaunau%20National%20Historical%20Park/%C2%A7%2000397d%20-%20Administration.md) | Administration. |
+| [397\.](Subchapter%20043%20%28XLIII%29%20-%20Pu%E2%80%98Uhonua%20O%20H%C5%8CNaunau%20National%20Historical%20Park/%C2%A7%2000397%20-%20Establishment%3B%20boundaries.md) | Establishment; boundaries. |
+| [397a.](Subchapter%20043%20%28XLIII%29%20-%20Pu%E2%80%98Uhonua%20O%20H%C5%8CNaunau%20National%20Historical%20Park/%C2%A7%2000397a%20-%20Establishment%3B%20notice%20in%20Federal%20Register.md) | Establishment; notice in Federal Register. |
+| [397b.](Subchapter%20043%20%28XLIII%29%20-%20Pu%E2%80%98Uhonua%20O%20H%C5%8CNaunau%20National%20Historical%20Park/%C2%A7%2000397b%20-%20Procurement%20of%20lands.md) | Procurement of lands. |
+| [397c.](Subchapter%20043%20%28XLIII%29%20-%20Pu%E2%80%98Uhonua%20O%20H%C5%8CNaunau%20National%20Historical%20Park/%C2%A7%2000397c%20-%20Acquisition%20of%20lands%20by%20Governor%20of%20the%20Territory%20of%20Hawaii.md) | Acquisition of lands by Governor of the Territory of Hawaii. |
+| [397d.](Subchapter%20043%20%28XLIII%29%20-%20Pu%E2%80%98Uhonua%20O%20H%C5%8CNaunau%20National%20Historical%20Park/%C2%A7%2000397d%20-%20Administration.md) | Administration. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1468,17 +1469,9 @@
 
 #### SUBCHAPTER LIX–N—ZUNI-CIBOLA NATIONAL HISTORICAL PARK
 
-|  |  |
-| :--- | ---: |
-| [410pp.](Subchapter%20059%E2%80%93N%20%28LIX%E2%80%93N%29%20-%20Zuni-Cibola%20National%20Historical%20Park/%C2%A7%2000410pp%20-%20Establishment.md) | Establishment. |
-| 410pp–1. | Acquisition of leasehold. |
-| 410pp–2. | Management. |
-| 410pp–3. | Federal consistency. |
-| 410pp–4. | Zuni-Cibola Advisory Commission. |
-| 410pp–5. | Park plan. |
-| 410pp–6. | Cultural and religious uses. |
-| 410pp–7. | Definitions. |
-| 410pp–8. | Authorization of appropriations. |
+|  |
+| :--- |
+| 410pp to 410pp–8. Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1750,7 +1743,7 @@
 
 |  |  |
 | :--- | ---: |
-| [410ddd.](Subchapter%20059%E2%80%93BB%20%28LIX%E2%80%93BB%29%20-%20New%20Bedford%20National%20Historical%20Park/%C2%A7%2000410ddd%20-%20New%20Bedford%20National%20Historic%20Landmark%20District.md) | New Bedford National Historic Landmark District. |
+| [410ddd.](Subchapter%20059%E2%80%93BB%20%28LIX%E2%80%93BB%29%20-%20New%20Bedford%20National%20Historical%20Park/%C2%A7%2000410ddd%20-%20New%20Bedford%20Whaling%20National%20Historical%20Park.md) | New Bedford Whaling National Historical Park. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1781,6 +1774,34 @@
 | 410fff–8. | Water rights. |
 | 410fff–9. | Study of lands within and adjacent to Curecanti National Recreation Area. |
 | 410fff–10. | Authorization of appropriations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER LIX–EE—ROSIE THE RIVETER/WORLD WAR II HOME FRONT NATIONAL HISTORICAL PARK
+
+|  |  |
+| :--- | ---: |
+| [410ggg.](Subchapter%20059%E2%80%93EE%20%28LIX%E2%80%93EE%29%20-%20Rosie%20the%20Riveter-World%20War%20II%20Home%20Front%20National%20Historical%20Park/%C2%A7%2000410ggg%20-%20Rosie%20the%20Riveter-World%20War%20II%20Home%20Front%20National%20Historical%20Park.md) | Rosie the Riveter/World War II Home Front National Historical Park. |
+| 410ggg–1. | Administration of the National Historical Park. |
+| 410ggg–2. | World War II home front study. |
+| 410ggg–3. | Authorization of appropriations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER LIX–FF—GREAT SAND DUNES NATIONAL PARK AND PRESERVE
+
+|  |  |
+| :--- | ---: |
+| [410hhh.](Subchapter%20059%E2%80%93FF%20%28LIX%E2%80%93FF%29%20-%20Great%20Sand%20Dunes%20National%20Park%20and%20Preserve/%C2%A7%2000410hhh%20-%20Findings.md) | Findings. |
+| 410hhh–1. | Definitions. |
+| 410hhh–2. | Great Sand Dunes National Park, Colorado. |
+| 410hhh–3. | Great Sand Dunes National Preserve, Colorado. |
+| 410hhh–4. | Baca National Wildlife Refuge, Colorado. |
+| 410hhh–5. | Administration of national park and preserve. |
+| 410hhh–6. | Acquisition of property and boundary adjustments. |
+| 410hhh–7. | Water rights. |
+| 410hhh–8. | Advisory Council. |
+| 410hhh–9. | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1818,10 +1839,13 @@
 | 423h–1. | Redesignation of park. |
 | 423h–2. | Acquisition of lands; publication in Federal Register; administration. |
 | 423h–3. | Authorization of appropriation. |
-| [423i.](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/%C2%A7%2000423i%20-%20Omitted.md) | Omitted. |
-| [423j.](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/%C2%A7%2000423j%20-%20Richmond%20National%20Battlefield%20Park%3B%20establishment.md) | Richmond National Battlefield Park; establishment. |
-| [423k.](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/%C2%A7%2000423k%20-%20Acceptance%20of%20donations%20of%20lands%20and%20funds%3B%20acquisition%20of%20lands.md) | Acceptance of donations of lands and funds; acquisition of lands. |
-| 423<i>l.</i> | Administration, protection, and development. |
+| 423i to 423<i>l.</i> | Omitted or Repealed. |
+| 423<i>l</i>–1. | Short title; definitions. |
+| 423<i>l</i>–2. | Findings and purpose. |
+| 423<i>l</i>–3. | Richmond National Battlefield Park; boundaries. |
+| 423<i>l</i>–4. | Land acquisition. |
+| 423<i>l</i>–5. | Park administration. |
+| 423<i>l</i>–6. | Authorization of appropriations. |
 | [423m.](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/%C2%A7%2000423m%20-%20Eutaw%20Springs%20Battlefield%20Site%3B%20establishment%3B%20purpose.md) | Eutaw Springs Battlefield Site; establishment; purpose. |
 | [423n.](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/%C2%A7%2000423n%20-%20Acceptance%20of%20lands%20and%20funds%3B%20acquisition%20of%20lands.md) | Acceptance of lands and funds; acquisition of lands. |
 | 423<i>o.</i> | Administration, protection, and development. |
@@ -1913,6 +1937,13 @@
 | 430f–3. | Conveyance of lands for recreational area; development and use. |
 | 430f–4. | Jurisdiction of lands. |
 | 430f–5. | Siege and Battle of Corinth. |
+| 430f–6. | Corinth Unit of the Shiloh National Military Park; findings and purposes. |
+| 430f–7. | Definitions. |
+| 430f–8. | Establishment of Unit. |
+| 430f–9. | Land acquisition. |
+| 430f–10. | Park management and administration. |
+| 430f–11. | Authorization of special resource study. |
+| 430f–12. | Authorization of appropriations. |
 | [430g.](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/%C2%A7%2000430g%20-%20Gettysburg%20National%20Military%20Park.md) | Gettysburg National Military Park. |
 | 430g–1. | Exchange of lands. |
 | 430g–2. | Exchange of lands. |
@@ -2260,11 +2291,11 @@
 | 459g–5. | Shore erosion control or beach protection measures. |
 | 459g–6. | Preservation and designation as wilderness; review of area by Secretary; report to President. |
 | 459g–7. | Authorization of appropriations; master plan to Congressional committees; time; contents. |
-| [459h.](Subchapter%20063%20%28LXIII%29%20-%20National%20Seashore%20Recreational%20Areas/%C2%A7%2000459h%20-%20Gulf%20Islands%20National%20Seashore%3B%20purposes%3B%20authorization%20for%20establishment%3B%20boundaries.md) | Gulf Islands National Seashore; purposes; authorization for establishment; boundaries. |
+| [459h.](Subchapter%20063%20%28LXIII%29%20-%20National%20Seashore%20Recreational%20Areas/%C2%A7%2000459h%20-%20Gulf%20Islands%20National%20Seashore.md) | Gulf Islands National Seashore. |
 | 459h–1. | Acquisition of property. |
-| 459h–2. | Designation by Secretary of hunting and fishing zones; consultation with appropriate State agencies. |
+| 459h–2. | Designation by Secretary of hunting and fishing zones; regulation of maritime activities. |
 | 459h–3. | Rights-of-way or easements for transportation of oil and gas minerals. |
-| 459h–4. | Administration of seashore; conservation and management of wildlife and natural resources; authority to designate areas as national historic sites. |
+| 459h–4. | Administration of seashore; conservation and management of wildlife and natural resources; authority to designate areas as national historic sites; agreements. |
 | 459h–5. | Beach erosion control and hurricane protection; study and formulation of plans; activities by Chief of Engineers, Department of Army. |
 | 459h–6. | Transfer of Horn Island and Petit Bois National Wildlife Refuges from National Wildlife Refuge System; administration. |
 | 459h–7. | Preservation of any area as wilderness; study and report to President; procedure for designation of any area as a wilderness. |
@@ -2386,6 +2417,7 @@
 | 460<i>l</i>–6a. | Admission and special recreation use fees. |
 | 460<i>l</i>–6b. | Repealed. |
 | 460<i>l</i>–6c. | Admission, entrance, and recreation fees. |
+| 460<i>l</i>–6d. | Commercial filming. |
 | 460<i>l</i>–7. | Allocation of land and water conservation fund for State and Federal purposes. |
 | 460<i>l</i>–8. | Financial assistance to States. |
 | 460<i>l</i>–9. | Allocation of land and water conservation fund moneys for Federal purposes. |
@@ -2795,15 +2827,15 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER XC—CUYAHOGA VALLEY NATIONAL RECREATION AREA
+#### SUBCHAPTER XC—CUYAHOGA VALLEY NATIONAL PARK
 
 |  |  |
 | :--- | ---: |
-| [460ff.](Subchapter%20090%20%28XC%29%20-%20Cuyahoga%20Valley%20National%20Recreation%20Area/%C2%A7%2000460ff%20-%20Establishment.md) | Establishment. |
+| [460ff.](Subchapter%20090%20%28XC%29%20-%20Cuyahoga%20Valley%20National%20Park/%C2%A7%2000460ff%20-%20Establishment.md) | Establishment. |
 | 460ff–1. | Acquisition of land. |
 | 460ff–2. | Land acquisition plan. |
 | 460ff–3. | Administration. |
-| 460ff–4. | Cuyahoga Valley National Recreation Area Advisory Commission. |
+| 460ff–4. | Repealed. |
 | 460ff–5. | Authorization of appropriations; master plan. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -3253,11 +3285,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER CXXII—BOSTON HARBOR ISLANDS RECREATION AREA
+#### SUBCHAPTER CXXII—BOSTON HARBOR ISLANDS NATIONAL RECREATION AREA
 
 |  |  |
 | :--- | ---: |
-| [460kkk.](Subchapter%20122%20%28CXXII%29%20-%20Boston%20Harbor%20Islands%20Recreation%20Area/%C2%A7%2000460kkk%20-%20Boston%20Harbor%20Islands%20Recreation%20Area.md) | Boston Harbor Islands Recreation Area. |
+| [460kkk.](Subchapter%20122%20%28CXXII%29%20-%20Boston%20Harbor%20Islands%20National%20Recreation%20Area/%C2%A7%2000460kkk%20-%20Boston%20Harbor%20Islands%20National%20Recreation%20Area.md) | Boston Harbor Islands National Recreation Area. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -3323,6 +3355,163 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER CXXIV—COLORADO CANYONS NATIONAL CONSERVATION AREA
+
+|  |  |
+| :--- | ---: |
+| [460mmm.](Subchapter%20124%20%28CXXIV%29%20-%20Colorado%20Canyons%20National%20Conservation%20Area/%C2%A7%2000460mmm%20-%20Findings%20and%20purpose.md) | Findings and purpose. |
+| 460mmm–1. | Definitions. |
+| 460mmm–2. | Colorado Canyons National Conservation Area. |
+| 460mmm–3. | Black Ridge Canyons Wilderness designation. |
+| 460mmm–4. | Management. |
+| 460mmm–5. | Maps and legal descriptions. |
+| 460mmm–6. | Advisory Council. |
+| 460mmm–7. | Public access. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER CXXV—STEENS MOUNTAIN COOPERATIVE MANAGEMENT AND PROTECTION AREA
+
+|  |  |
+| :--- | ---: |
+| [460nnn.](Subchapter%20125%20%28CXXV%29%20-%20Steens%20Mountain%20Cooperative%20Management%20and%20Protection%20Area/%C2%A7%2000460nnn%20-%20Definitions.md) | Definitions. |
+| 460nnn–1. | Maps and legal descriptions. |
+| 460nnn–2. | Valid existing rights. |
+| 460nnn–3. | Protection of tribal rights. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part A—Steens Mountain Cooperative Management and Protection Area
+
+I74subpart 1—designation and purposes
+
+|  |  |
+| :--- | ---: |
+| 460nnn–11. | Designation of Steens Mountain Cooperative Management and Protection Area. |
+| 460nnn–12. | Purpose and objectives of Cooperative Management and Protection Area. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### subpart 2—management of federal lands
+
+|  |  |
+| :--- | ---: |
+| 460nnn–21. | Management authorities and purposes. |
+| 460nnn–22. | Roads and travel access. |
+| 460nnn–23. | Land use authorities. |
+| 460nnn–24. | Land acquisition authority. |
+| 460nnn–25. | Special use permits. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### subpart 3—cooperative management
+
+|  |  |
+| :--- | ---: |
+| 460nnn–41. | Cooperative management agreements. |
+| 460nnn–42. | Cooperative efforts to control development and encourage conservation. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### subpart 4—advisory council
+
+|  |  |
+| :--- | ---: |
+| 460nnn–51. | Establishment of advisory council. |
+| 460nnn–52. | Advisory role in management activities. |
+| 460nnn–53. | Science committee. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part B—Steens Mountain Wilderness Area
+
+|  |  |
+| :--- | ---: |
+| 460nnn–61. | Designation of Steens Mountain Wilderness Area. |
+| 460nnn–62. | Administration of Wilderness Area. |
+| 460nnn–63. | Water rights. |
+| 460nnn–64. | Treatment of wilderness study areas. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part C—Wild and Scenic Rivers and Trout Reserve
+
+|  |  |
+| :--- | ---: |
+| 460nnn–71. | Designation of streams for wild and scenic river status in Steens Mountain Area. |
+| 460nnn–72. | Donner und Blitzen River Redband Trout Reserve. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part D—Mineral Withdrawal Area
+
+|  |  |
+| :--- | ---: |
+| 460nnn–81. | Designation of mineral withdrawal area. |
+| 460nnn–82. | Treatment of State lands and mineral interests. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part E—Establishment of Wildlands Juniper Management Area
+
+|  |  |
+| :--- | ---: |
+| 460nnn–91. | Wildlands Juniper Management Area. |
+| 460nnn–92. | Release from wilderness study area status. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part F—Land Exchanges
+
+|  |  |
+| :--- | ---: |
+| 460nnn–101. | Land exchange, Roaring Springs Ranch. |
+| 460nnn–102. | Land exchanges, C. M. Otley and Otley Brothers. |
+| 460nnn–103. | Land exchange, Tom J. Davis Livestock, Incorporated. |
+| 460nnn–104. | Land exchange, Lowther (Clemens) Ranch. |
+| 460nnn–105. | General provisions applicable to land exchanges. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part G—Funding Authorities
+
+|  |  |
+| :--- | ---: |
+| 460nnn–121. | Authorization of appropriations. |
+| 460nnn–122. | Use of land and water conservation fund. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER CXXVI—LAS CIENEGAS NATIONAL CONSERVATION AREA
+
+|  |  |
+| :--- | ---: |
+| 460<i>ooo.</i> | Definitions. |
+| 460<i>ooo</i>–1. | Establishment of the Sonoita Valley Acquisition Planning District. |
+| 460<i>ooo</i>–2. | Purposes of the Acquisition Planning District. |
+| 460<i>ooo</i>–3. | Establishment of the Las Cienegas National Conservation Area. |
+| 460<i>ooo</i>–4. | Management of the Las Cienegas National Conservation Area. |
+| 460<i>ooo</i>–5. | Management plan. |
+| 460<i>ooo</i>–6. | Land acquisition. |
+| 460<i>ooo</i>–7. | Reports to Congress. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER CXXVII—BLACK ROCK DESERT-HIGH ROCK CANYON EMIGRANT TRAILS NATIONAL CONSERVATION AREA
+
+|  |  |
+| :--- | ---: |
+| [460ppp.](Subchapter%20127%20%28CXXVII%29%20-%20Black%20Rock%20Desert-High%20Rock%20Canyon%20Emigrant%20Trails%20National%20Conservation%20Area/%C2%A7%2000460ppp%20-%20Findings.md) | Findings. |
+| 460ppp–1. | Definitions. |
+| 460ppp–2. | Establishment of the conservation area. |
+| 460ppp–3. | Management. |
+| 460ppp–4. | Withdrawal. |
+| 460ppp–5. | No buffer zones. |
+| 460ppp–6. | Wilderness. |
+| 460ppp–7. | Authorization of appropriations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 ---
 
@@ -3371,9 +3560,9 @@
 - [Subchapter 039 (XXXIX) - Denali National Park](Subchapter%20039%20%28XXXIX%29%20-%20Denali%20National%20Park/README.md)
 - [Subchapter 040 (XL) - Hot Springs National Park](Subchapter%20040%20%28XL%29%20-%20Hot%20Springs%20National%20Park/README.md)
 - [Subchapter 041 (XLI) - Hawaii National Park](Subchapter%20041%20%28XLI%29%20-%20Hawaii%20National%20Park/README.md)
-- [Subchapter 042 (XLII) - Haleakala National Park](Subchapter%20042%20%28XLII%29%20-%20Haleakala%20National%20Park/README.md)
-- [Subchapter 042&#8211;A (XLII&#8211;A) - Kaloko-Honokohau National Historical Park](Subchapter%20042%E2%80%93A%20%28XLII%E2%80%93A%29%20-%20Kaloko-Honokohau%20National%20Historical%20Park/README.md)
-- [Subchapter 043 (XLIII) - Puuhonua o Honaunau National Historical Park](Subchapter%20043%20%28XLIII%29%20-%20Puuhonua%20o%20Honaunau%20National%20Historical%20Park/README.md)
+- [Subchapter 042 (XLII) - Haleakala&#65533;AE8 National Park](Subchapter%20042%20%28XLII%29%20-%20Haleakala%EF%BF%BDAE8%20National%20Park/README.md)
+- [Subchapter 042&#8211;A (XLII&#8211;A) - Kaloko-Honok&#332;Hau National Historical Park](Subchapter%20042%E2%80%93A%20%28XLII%E2%80%93A%29%20-%20Kaloko-Honok%C5%8CHau%20National%20Historical%20Park/README.md)
+- [Subchapter 043 (XLIII) - Pu&#8216;Uhonua O H&#332;Naunau National Historical Park](Subchapter%20043%20%28XLIII%29%20-%20Pu%E2%80%98Uhonua%20O%20H%C5%8CNaunau%20National%20Historical%20Park/README.md)
 - [Subchapter 044 (XLIV) - Virgin Islands National Park](Subchapter%20044%20%28XLIV%29%20-%20Virgin%20Islands%20National%20Park/README.md)
 - [Subchapter 045 (XLV) - Bryce Canyon National Park](Subchapter%20045%20%28XLV%29%20-%20Bryce%20Canyon%20National%20Park/README.md)
 - [Subchapter 046 (XLVI) - Shenandoah National Park and Great Smoky Mountains National Park](Subchapter%20046%20%28XLVI%29%20-%20Shenandoah%20National%20Park%20and%20Great%20Smoky%20Mountains%20National%20Park/README.md)
@@ -3421,6 +3610,8 @@
 - [Subchapter 059&#8211;BB (LIX&#8211;BB) - New Bedford National Historical Park](Subchapter%20059%E2%80%93BB%20%28LIX%E2%80%93BB%29%20-%20New%20Bedford%20National%20Historical%20Park/README.md)
 - [Subchapter 059&#8211;CC (LIX&#8211;CC) - Adams National Historical Park](Subchapter%20059%E2%80%93CC%20%28LIX%E2%80%93CC%29%20-%20Adams%20National%20Historical%20Park/README.md)
 - [Subchapter 059&#8211;DD (LIX&#8211;DD) - Black Canyon of the Gunnison National Park and Gunnison Gorge National Conservation Area](Subchapter%20059%E2%80%93DD%20%28LIX%E2%80%93DD%29%20-%20Black%20Canyon%20of%20the%20Gunnison%20National%20Park%20and%20Gunnison%20Gorge%20National%20Conservation%20Area/README.md)
+- [Subchapter 059&#8211;EE (LIX&#8211;EE) - Rosie the Riveter-World War II Home Front National Historical Park](Subchapter%20059%E2%80%93EE%20%28LIX%E2%80%93EE%29%20-%20Rosie%20the%20Riveter-World%20War%20II%20Home%20Front%20National%20Historical%20Park/README.md)
+- [Subchapter 059&#8211;FF (LIX&#8211;FF) - Great Sand Dunes National Park and Preserve](Subchapter%20059%E2%80%93FF%20%28LIX%E2%80%93FF%29%20-%20Great%20Sand%20Dunes%20National%20Park%20and%20Preserve/README.md)
 - [Subchapter 060 (LX) - National Military Parks](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/README.md)
 - [Subchapter 061 (LXI) - National and International Monuments and Memorials](Subchapter%20061%20%28LXI%29%20-%20National%20and%20International%20Monuments%20and%20Memorials/README.md)
 - [Subchapter 062 (LXII) - Miscellaneous](Subchapter%20062%20%28LXII%29%20-%20Miscellaneous/README.md)
@@ -3452,7 +3643,7 @@
 - [Subchapter 087 (LXXXVII) - Gateway National Recreation Area](Subchapter%20087%20%28LXXXVII%29%20-%20Gateway%20National%20Recreation%20Area/README.md)
 - [Subchapter 088 (LXXXVIII) - Glen Canyon National Recreation Area](Subchapter%20088%20%28LXXXVIII%29%20-%20Glen%20Canyon%20National%20Recreation%20Area/README.md)
 - [Subchapter 089 (LXXXIX) - Big South Fork National River and Recreation Area](Subchapter%20089%20%28LXXXIX%29%20-%20Big%20South%20Fork%20National%20River%20and%20Recreation%20Area/README.md)
-- [Subchapter 090 (XC) - Cuyahoga Valley National Recreation Area](Subchapter%20090%20%28XC%29%20-%20Cuyahoga%20Valley%20National%20Recreation%20Area/README.md)
+- [Subchapter 090 (XC) - Cuyahoga Valley National Park](Subchapter%20090%20%28XC%29%20-%20Cuyahoga%20Valley%20National%20Park/README.md)
 - [Subchapter 091 (XCI) - Hells Canyon National Recreation Area](Subchapter%20091%20%28XCI%29%20-%20Hells%20Canyon%20National%20Recreation%20Area/README.md)
 - [Subchapter 092 (XCII) - Chickasaw National Recreation Area](Subchapter%20092%20%28XCII%29%20-%20Chickasaw%20National%20Recreation%20Area/README.md)
 - [Subchapter 093 (XCIII) - Chattahoochee River National Recreation Area](Subchapter%20093%20%28XCIII%29%20-%20Chattahoochee%20River%20National%20Recreation%20Area/README.md)
@@ -3484,5 +3675,9 @@
 - [Subchapter 119 (CXIX) - Spring Mountains National Recreation Area](Subchapter%20119%20%28CXIX%29%20-%20Spring%20Mountains%20National%20Recreation%20Area/README.md)
 - [Subchapter 120 (CXX) - Snake River Birds of Prey National Conservation Area](Subchapter%20120%20%28CXX%29%20-%20Snake%20River%20Birds%20of%20Prey%20National%20Conservation%20Area/README.md)
 - [Subchapter 121 (CXXI) - Jemez National Recreational Area](Subchapter%20121%20%28CXXI%29%20-%20Jemez%20National%20Recreational%20Area/README.md)
-- [Subchapter 122 (CXXII) - Boston Harbor Islands Recreation Area](Subchapter%20122%20%28CXXII%29%20-%20Boston%20Harbor%20Islands%20Recreation%20Area/README.md)
+- [Subchapter 122 (CXXII) - Boston Harbor Islands National Recreation Area](Subchapter%20122%20%28CXXII%29%20-%20Boston%20Harbor%20Islands%20National%20Recreation%20Area/README.md)
 - [Subchapter 123 (CXXIII) - Land Between the Lakes Protection](Subchapter%20123%20%28CXXIII%29%20-%20Land%20Between%20the%20Lakes%20Protection/README.md)
+- [Subchapter 124 (CXXIV) - Colorado Canyons National Conservation Area](Subchapter%20124%20%28CXXIV%29%20-%20Colorado%20Canyons%20National%20Conservation%20Area/README.md)
+- [Subchapter 125 (CXXV) - Steens Mountain Cooperative Management and Protection Area](Subchapter%20125%20%28CXXV%29%20-%20Steens%20Mountain%20Cooperative%20Management%20and%20Protection%20Area/README.md)
+- [Subchapter 126 (CXXVI) - Las Cienegas National Conservation Area](Subchapter%20126%20%28CXXVI%29%20-%20Las%20Cienegas%20National%20Conservation%20Area/README.md)
+- [Subchapter 127 (CXXVII) - Black Rock Desert-High Rock Canyon Emigrant Trails National Conservation Area](Subchapter%20127%20%28CXXVII%29%20-%20Black%20Rock%20Desert-High%20Rock%20Canyon%20Emigrant%20Trails%20National%20Conservation%20Area/README.md)

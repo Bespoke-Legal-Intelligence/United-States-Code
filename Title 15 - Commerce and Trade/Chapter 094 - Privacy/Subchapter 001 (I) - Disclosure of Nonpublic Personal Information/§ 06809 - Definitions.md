@@ -56,7 +56,7 @@ As used in this subchapter:
 
 &emsp;&emsp;(i) shall include any list, description, or other grouping of consumers (and publicly available information pertaining to them) that is derived using any nonpublic personal information other than publicly available information; but
 
-&emsp;&emsp;(ii) shall not include any list, description, or other grouping of consumers (and publicly available information pertaining to them) that is derived without using any nonpublic personal information.
+&emsp;&emsp;(ii) shall not include any list, description, or other grouping of consumers (and publiclyavailable information pertaining to them) that is derived without using any nonpublic personal information.
 
 #### (5) Nonaffiliated third party
 
@@ -111,4 +111,8 @@ As used in this subchapter:
 The Commodity Exchange Act, referred to in par. (3)(B), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
 The Farm Credit Act of 1971, referred to in par. (3)(C), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, as amended, which is classified generally to chapter 23 (§2001 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of Title 12 and Tables.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 7 section 7b–2.
 

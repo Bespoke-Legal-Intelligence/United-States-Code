@@ -42,7 +42,7 @@ Travel to primary office.—
 
 &emsp;&emsp;(A)
 
-In general.—After 1 year of service under this chapter, an independent counsel and persons appointed under subsection (c) shall not be entitled to the payment of travel, per diem, or subsistence expenses under subchapter I of chapter 57 of title 5, United States Code, for the purpose of commuting to or from the city in which the primary office of the independent counsel or person is located. The 1-year period may be extendedfor successive 6-month periods if the independent counsel and the division of the court certify that the payment is in the public interest to carry out the purposes of this chapter.
+In general.—After 1 year of service under this chapter, an independent counsel and persons appointed under subsection (c) shall not be entitled to the payment of travel, per diem, or subsistence expenses under subchapter I of chapter 57 of title 5, United States Code, for the purpose of commuting to or from the city in which the primary office of the independent counsel or person is located. The 1-year period may be extended for successive 6-month periods if the independent counsel and the division of thecourt certify that the payment is in the public interest to carry out the purposes of this chapter.
 
 &emsp;&emsp;(B)
 
@@ -102,7 +102,7 @@ Required reports.—An independent counsel shall—
 
 &emsp;&emsp;(A) file with the division of the court, with respect to the 6-month period beginning on the date of his or her appointment, and with respect to each 6-month period thereafter until the office of that independent counsel terminates, a report which identifies and explains major expenses, and summarizes all other expenses, incurred by that office during the 6-month period with respect to which the report is filed, and estimates future expenses of that office; and
 
-&emsp;&emsp;(B) before the termination of the independent counsel's office under section 596(b), filea final report with the division of the court, setting forth fully and completely a description of the work of the independent counsel, including the disposition of all cases brought.
+&emsp;&emsp;(B) before the termination of the independent counsel's office under section 596(b), file a final report with the division of the court, setting forth fully and completely a description of the work of the independent counsel, including the disposition of all cases brought.
 
 &emsp;(2)
 
@@ -236,17 +236,17 @@ The enactment of the Independent Counsel Reauthorization Act of 1987, referred t
 
 #### Amendments
 
-1996—Subsec. (b)(3)(A). Pub. L. 104–208, §101(a) \[title I, §118(a), (b)\], in second sentence substituted “for successive 6-month periods” for “by 6-months” and “independent counsel and the division of the court certify” for “employee assigned duties under subsection (<i>l</i>)(1)(A)(iii) certifies”.
+<b>1996</b>—Subsec. (b)(3)(A). Pub. L. 104–208, §101(a) \[title I, §118(a), (b)\], in second sentence substituted “for successive 6-month periods” for “by 6-months” and “independent counsel and the division of the court certify” for “employee assigned duties under subsection (<i>l</i>)(1)(A)(iii) certifies”.
 
 Subsec. (b)(3)(B). Pub. L. 104–208, §101(a) \[title I, §118(c)\], which directed the amendment of second sentence of subsec. (b)(3)(A) by striking “such employee” and inserting “the independent counsel” and “the division of the court”, was executed to introductory provisions of subsec. (b)(3)(B) by substituting “the independent counsel and the division of the court” for “such employee” to reflect the probable intent of Congress.
 
-1994—Subsec. (b). Pub. L. 103–270, §3(b), designated existing text as par. (1) and inserted heading, and added pars. (2) and (3).
+<b>1994</b>—Subsec. (b). Pub. L. 103–270, §3(b), designated existing text as par. (1) and inserted heading, and added pars. (2) and (3).
 
 Subsec. (c). Pub. L. 103–270, §3(c), substituted last sentence for former last sentence which read as follows: “No such employee may be compensated at a rate exceeding the maximum rate of pay payable for GS–18 of the General Schedule under section 5332 of title 5.”
 
 Subsec. (d)(1). Pub. L. 103–270, §3(m), inserted at end “At the request of an independent counsel, prosecutors, administrative personnel, and other employees of the Department of Justice may be detailed to the staff of the independent counsel.”
 
-Subsec. (f). Pub. L. 103–270, §3(e), designated existing provisions as par. (1) and inserted heading, substituted “shall, except to the extent that to do so would be inconsistent with the purposes of this chapter, comply” for “shall, except where not possible, comply”, inserted at end “To determine these policies and policies under subsection (<i>l</i>)(1)(B), the independent counsel shall, except to the extent that doing so would be inconsistent with the purposes of this chapter, consult with the Department of Justice.”, and added par. (2).
+Subsec. (f). Pub. L. 103–270, §3(e), designated existing provisions as par. (1) and inserted heading, substituted “shall, except to the extent that to do so would be inconsistent with the purposes of this chapter, comply” for “shall, except where not possible, comply”, insertedat end “To determine these policies and policies under subsection (<i>l</i>)(1)(B), the independent counsel shall, except to the extent that doing so would be inconsistent with the purposes of this chapter, consult with the Department of Justice.”, and added par. (2).
 
 Subsec. (h)(1)(B). Pub. L. 103–270, §3(<i>o</i>), struck out before period at end “, and the reasons for not prosecuting any matter within the prosecutorial jurisdiction of such independent counsel”.
 
@@ -256,11 +256,11 @@ Subsec. (j)(5). Pub. L. 103–270, §3(d), added par. (5).
 
 Subsec. (<i>l</i>). Pub. L. 103–270, §3(a), added subsec. (<i>l</i>).
 
-1987—Pub. L. 100–191 amended section generally, substituting subsecs. (a) to (k) for former subsecs. (a) to (g) which related to similar subject matter.
+<b>1987</b>—Pub. L. 100–191 amended section generally, substituting subsecs. (a) to (k) for former subsecs. (a) to (g) which related to similar subject matter.
 
-1986—Subsec. (a)(8). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+<b>1986</b>—Subsec. (a)(8). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-1983—Pub. L. 97–409, §2(a)(1)(A), substituted “independent counsel” for “special prosecutor” in section catchline.
+<b>1983</b>—Pub. L. 97–409, §2(a)(1)(A), substituted “independent counsel” for “special prosecutor” in section catchline.
 
 Subsec. (a). Pub. L. 97–409, §2(a)(1), substituted “independent counsel” for “special prosecutor” wherever appearing and “independent counsel's” for “special prosecutor's”.
 

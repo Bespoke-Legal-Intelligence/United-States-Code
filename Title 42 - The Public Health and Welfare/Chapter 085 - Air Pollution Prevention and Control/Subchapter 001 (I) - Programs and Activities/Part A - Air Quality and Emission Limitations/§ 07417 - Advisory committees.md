@@ -54,7 +54,7 @@ Subsecs. (d), (e). Pub. L. 91–604, §15(c)(2), substituted “Administrator”
 
 Subsec. (f). Pub. L. 91–604, §4(d), added subsec. (f).
 
-1967—Subsec. (a). Pub. L. 90–148 substituted provisions establishing in the Department of Health, Education, and Welfare an Air Quality Advisory Board and providing for the appointment and term of its members for provisions directing the Secretary to maintain liaison with manufacturers looking toward development of devices and fuels to reduce pollutants in automotive exhaust and to appoint a technical committee and callit together from time to time to evaluate progress and develop and recommend research programs.
+1967—Subsec. (a). Pub. L. 90–148 substituted provisions establishing in the Department of Health, Education, and Welfare an Air Quality Advisory Board and providing for the appointment and term of its members for provisions directing the Secretary to maintain liaison with manufacturers looking toward development of devices and fuels to reduce pollutants in automotive exhaust and to appoint a technical committee and call it together from time to time to evaluate progress and develop and recommend research programs.
 
 Subsec. (b). Pub. L. 90–148 substituted provision setting out the duties of the Air Quality Advisory Board for provisions requiring the Secretary to make semi-annual reports to Congress on measures being taken toward the resolution of vehicle exhaust pollution problems.
 

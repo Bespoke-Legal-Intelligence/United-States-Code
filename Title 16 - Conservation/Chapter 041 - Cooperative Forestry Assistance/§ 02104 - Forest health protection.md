@@ -94,6 +94,8 @@ A prior section 8 of Pub. L. 95–313 was renumbered section 11 and is classifie
 
 #### Stewardship End Result Contracting Demonstration Project
 
+Pub. L. 106–291, title III, §338, Oct. 11, 2000, 114 Stat. 998, provided that: “The authority to enter into stewardship and end result contracts provided to the Forest Service in accordance with section 347 of title III of section 101(e) of division A of Public Law 105–825 \[Pub. L. 105–277, set out below\] is hereby expanded to authorize the Forest Service to enter into an additional 28 contracts subject to the same terms and conditions as provided in that section: <i>Provided</i>, That of the additional contracts authorized by this section at least 9 shall be allocated to Region 1 and at least 3 to Region 6.”
+
 Pub. L. 105–277, div. A, §101(e) \[title III, §347\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–298, as amended by Pub. L. 106–113, div. B, §1000(a)(3) \[title III, §341\], Nov. 29, 1999, 113 Stat. 1535, 1501A–201, provided that:
 
 “(a)
@@ -236,7 +238,7 @@ Riparian protection.—
 
 &emsp;&emsp;“(A)
 
-In general.—The Scientific Analysis Team guidelines for riparian system protection described in subparagraph (B) shall apply to all resource management activities conducted under subsection (d)and all timber harvesting activities that occur in the pilot project area during the term of the pilot project.
+In general.—The Scientific Analysis Team guidelines for riparian system protection described in subparagraph (B) shall apply to all resource management activities conducted under subsection (d) and all timber harvesting activities that occur in the pilot project area during the term of the pilot project.
 
 &emsp;&emsp;“(B)
 
@@ -344,7 +346,7 @@ Corresponding Forest Plan Amendments.—Within 2 years after the date of the ena
 
 &emsp;“(1) incorporates the pilot project and area designations made by subsection (b), the resource management activities described in subsection (d), and other aspects of the Quincy Library Group-Community Stability Proposal; and
 
-&emsp;“(2) makes other changes warranted by the analyses conducted in compliance with section 102(2) of the National Environmental Policy Act of 1969 (42 U.S.C.4332(2)), section 6 of the Forest and Rangeland Renewable Resources Planning Act of 1974 (16 U.S.C. 1604), and other applicable laws.
+&emsp;“(2) makes other changes warranted by the analyses conducted in compliance with section 102(2) of the National Environmental Policy Act of 1969 (42 U.S.C. 4332(2)), section 6 of the Forest and Rangeland Renewable Resources Planning Act of 1974 (16 U.S.C. 1604), and other applicable laws.
 
 “(j)
 

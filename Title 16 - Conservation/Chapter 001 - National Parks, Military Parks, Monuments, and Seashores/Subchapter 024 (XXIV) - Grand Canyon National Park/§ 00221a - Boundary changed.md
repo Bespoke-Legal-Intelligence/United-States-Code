@@ -6,7 +6,3 @@ Beginning at a point on the present south boundary of Grand Canyon National Park
 
 (Feb. 25, 1927, ch. 197, §1, 44 Stat. 1238.)
 
-#### Cross References
-
-Further additions to Grand Canyon National Park, see section 221e of this title.
-

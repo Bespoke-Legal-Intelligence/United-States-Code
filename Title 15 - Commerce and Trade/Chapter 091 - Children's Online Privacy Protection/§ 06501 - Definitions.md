@@ -74,7 +74,7 @@ In this chapter:
 
 &emsp;&emsp;(F) any other identifier that the Commission determines permits the physical or online contacting of a specific individual; or
 
-&emsp;&emsp;(G) information concerning the child or the parents of that child that the website collects online from the child and combines with an identifier described in this paragraph.
+&emsp;&emsp;(G) information concerning the child or the parents of that child that the websitecollects online from the child and combines with an identifier described in this paragraph.
 
 #### (9) Verifiable parental consent
 

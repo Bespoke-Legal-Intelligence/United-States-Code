@@ -25,10 +25,6 @@
 
 1957—Pub. L. 85–155, title I, §101(6), Aug. 21, 1957, 71 Stat. 376, substituted “Army Medical Specialist Corps” for “Women's Medical Specialist Corps” in item 3207.
 
-#### Cross References
-
-Authorized strength generally, see section 521 et seq. of this title.
-
 
 ---
 

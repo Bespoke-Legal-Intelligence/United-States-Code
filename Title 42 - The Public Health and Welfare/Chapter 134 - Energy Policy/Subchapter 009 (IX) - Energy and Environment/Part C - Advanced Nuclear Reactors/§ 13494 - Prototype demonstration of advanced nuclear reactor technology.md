@@ -18,7 +18,7 @@ Within 3 years after October 24, 1992, the Secretary shall solicit proposals for
 
 > In developing the recommendations under this paragraph, the Secretary shall provide for public notice and an opportunity for comment, and shall solicit the views of the Commission and other parties with technical expertise the Secretary considers useful in the development of such recommendations.
 
-(2) The prototype demonstration program under this section shall be carried out to the maximum extent practicable with private sector funding. At least 50 percent of the funding for such program shall be non-Federal funding. The extent of non-Federal cost sharing proposed for any demonstration project shall be a criterion for the selection of the project.
+(2) The prototype demonstration program under this section shall be carried out to themaximum extent practicable with private sector funding. At least 50 percent of the funding for such program shall be non-Federal funding. The extent of non-Federal cost sharing proposed for any demonstration project shall be a criterion for the selection of the project.
 
 #### (c) Selection of technology
 

@@ -132,7 +132,15 @@ In this title—
 
 &emsp;&emsp;(D) with respect to any insured depository institution for which the Federal Deposit Insurance Corporation has been appointed conservator or receiver, the Federal Deposit Insurance Corporation;
 
-&emsp;(22) “financial institution” means a person that is a commercial or savings bank, industrial savings bank, savings and loan association, or trust company and, when any such person is acting as agent or custodian for a customer in connection with a securities contract, as defined in section 741 of this title, such customer;
+&emsp;(22) the term “financial institution”—
+
+&emsp;&emsp;(A) means—
+
+&emsp;&emsp;&emsp;(i) a Federal reserve bank or an entity (domestic or foreign) that is a commercial or savings bank, industrial savings bank, savings and loan association, trust company, or receiver or conservator for such entity and, when any such Federal reserve bank, receiver, conservator, or entity is acting as agent or custodian for a customer in connection with a securities contract, as defined in section 741 of this title, the customer; or
+
+&emsp;&emsp;&emsp;(ii) in connection with a securities contract, as defined in section 741 of this title, an investment company registered under the Investment Company Act of 1940; and
+
+&emsp;&emsp;(B) includes any person described in subparagraph (A) which operates, or operates as, a multilateral clearing organization pursuant to section 409 of the Federal Deposit Insurance Corporation Improvement Act of 1991;
 
 &emsp;(23) “foreign proceeding” means proceeding, whether judicial or administrative and whether or not under bankruptcy law, in a foreign country in which the debtor's domicile, residence, principal place of business, or principal assets were located at the commencement of such proceeding, for the purpose of liquidating an estate, adjusting debts by composition, extension, or discharge, or effecting a reorganization;
 
@@ -206,7 +214,7 @@ In this title—
 
 &emsp;&emsp;&emsp;(i) all of such partnership's property, exclusive of property of the kind specified in subparagraph (A)(i) of this paragraph; and
 
-&emsp;&emsp;&emsp;(ii) the sum of the excess of the value of each general partner's nonpartnership property, exclusive of property of the kind specified in subparagraph (A) of this paragraph, over such partner's nonpartnership debts; and
+&emsp;&emsp;&emsp;(ii) the sum of the excess of the value of each general partner's nonpartnershipproperty, exclusive of property of the kind specified in subparagraph (A) of this paragraph, over such partner's nonpartnership debts; and
 
 &emsp;&emsp;(C) with reference to a municipality, financial condition such that the municipality is—
 
@@ -216,7 +224,7 @@ In this title—
 
 &emsp;(33) “institution-affiliated party”—
 
-&emsp;&emsp;(A) with respect to an insured depository institution (as defined in section 3(c)(2) ofthe Federal Deposit Insurance Act), has the meaning given it in section 3(u) of the Federal Deposit Insurance Act; and
+&emsp;&emsp;(A) with respect to an insured depository institution (as defined in section 3(c)(2) of the Federal Deposit Insurance Act), has the meaning given it in section 3(u) of the Federal Deposit Insurance Act; and
 
 &emsp;&emsp;(B) with respect to an insured credit union, has the meaning given it in section 206(r) of the Federal Credit Union Act;
 
@@ -290,7 +298,7 @@ In this title—
 
 &emsp;(47) “repurchase agreement” (which definition also applies to a reverse repurchase agreement) means an agreement, including related terms, which provides for the transfer of certificates of deposit, eligible bankers’ acceptances, or securities that are direct obligations of, or that are fully guaranteed as to principal and interest by, the United States or any agency of the United States against the transfer of funds by the transferee of such certificates of deposit, eligible bankers’ acceptances, or securities with a simultaneous agreement by such transferee to transfer to the transferor thereof certificates of deposit, eligible bankers’ acceptances, or securities as described above, at a date certain not later than one year after such transfers or on demand, against the transfer of funds;
 
-&emsp;(48) “securities clearing agency” means person that is registered as a clearing agency under section 17A of the Securities Exchange Act of 1934 or whose business is confined to the performance of functions of a clearing agency with respect to exempted securities, as defined in section 3(a)(12) of such Act for the purposes of such section 17A;
+&emsp;(48) “securities clearing agency” means person that is registered as a clearing agencyunder section 17A of the Securities Exchange Act of 1934 or whose business is confined to the performance of functions of a clearing agency with respect to exempted securities, as defined in section 3(a)(12) of such Act for the purposes of such section 17A;
 
 &emsp;(49) “security”—
 
@@ -376,15 +384,17 @@ In this title—
 
 &emsp;(53C) “swap participant” means an entity that, at any time before the filing of the petition, has an outstanding swap agreement with the debtor;
 
-&emsp;(56A) <sup>3</sup> “term overriding royalty” means an interest in liquid or gaseous hydrocarbons in place or to be produced from particular real property that entitles the owner thereof to a share of production, or the value thereof, for a term limited by time, quantity, or value realized;
+&emsp;(56A) <sup>3</sup> “term overriding royalty” means an interest in liquid or gaseous hydrocarbons inplace or to be produced from particular real property that entitles the owner thereof to a share of production, or the value thereof, for a term limited by time, quantity, or value realized;
 
 &emsp;(53D) “timeshare plan” means and shall include that interest purchased in any arrangement, plan, scheme, or similar device, but not including exchange programs, whether by membership, agreement, tenancy in common, sale, lease, deed, rental agreement, license, right to use agreement, or by any other means, whereby a purchaser, in exchange for consideration, receives a right to use accommodations, facilities, or recreational sites, whether improved or unimproved, for a specific period of time less than a full year during any given year, but not necessarily for consecutive years, and which extends for a period of more than three years. A “timeshare interest” is that interest purchased in a timeshare plan which grants the purchaser the right to use and occupy accommodations, facilities, or recreational sites, whether improved or unimproved, pursuant to a timeshare plan;
 
 &emsp;(54) “transfer” means every mode, direct or indirect, absolute or conditional, voluntary or involuntary, of disposing of or parting with property or with an interest in property, including retention of title as a security interest and foreclosure of the debtor's equity of redemption;
 
+&emsp;(54A) the term “uninsured State member bank” means a State member bank (as defined in section 3 of the Federal Deposit Insurance Act) the deposits of which are not insured by the Federal Deposit Insurance Corporation; and
+
 &emsp;(55) “United States”, when used in a geographical sense, includes all locations where the judicial jurisdiction of the United States extends, including territories and possessions of the United States;
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2549; Pub. L. 97–222, §1, July 27, 1982, 96 Stat. 235; Pub. L. 98–353, title III, §§391, 401, 421, July 10, 1984, 98 Stat. 364, 366, 367; Pub. L. 99–554, title II, §§201, 251, 283(a), Oct. 27, 1986, 100 Stat. 3097, 3104, 3116; Pub. L. 100–506, §1(a), Oct. 18, 1988, 102 Stat. 2538; Pub. L. 100–597, §1, Nov. 3, 1988, 102 Stat. 3028; Pub. L. 101–311, title I, §101, title II, §201, June 25, 1990, 104 Stat. 267, 268; Pub. L. 101–647, title XXV, §2522(e), Nov. 29, 1990, 104 Stat. 4867; Pub. L. 102–486, title XXX, §3017(a), Oct. 24, 1992, 106 Stat. 3130; Pub. L. 103–394, title I, §106, title II, §§208(a), 215, 217(a), 218(a), title III, §304(a), title V, §501(a), (b)(1), (d)(1), Oct. 22, 1994, 108 Stat. 4111, 4124, 4126–4128, 4132, 4141–4143.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2549; Pub. L. 97–222, §1, July 27, 1982, 96 Stat. 235; Pub. L. 98–353, title III, §§391, 401, 421, July 10, 1984, 98 Stat. 364, 366, 367; Pub. L. 99–554, title II, §§201, 251, 283(a), Oct. 27, 1986, 100 Stat. 3097, 3104, 3116; Pub. L. 100–506, §1(a), Oct. 18, 1988, 102 Stat. 2538; Pub. L. 100–597, §1, Nov. 3, 1988, 102 Stat. 3028; Pub. L. 101–311, title I, §101, title II, §201, June 25, 1990, 104 Stat. 267, 268; Pub. L. 101–647, title XXV, §2522(e), Nov. 29, 1990, 104 Stat. 4867; Pub. L. 102–486, title XXX, §3017(a), Oct. 24, 1992, 106 Stat. 3130; Pub. L. 103–394, title I, §106, title II, §§208(a), 215, 217(a), 218(a), title III, §304(a), title V, §501(a), (b)(1), (d)(1), Oct. 22, 1994, 108 Stat. 4111, 4124, 4126–4128, 4132, 4141–4143; Pub. L. 106–554, §1(a)(5) \[title I, §112(c)(3), (4)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–393, 2763A–394.)
 
 #### Historical and Revision Notes
 
@@ -406,7 +416,7 @@ Section 101(7) of the House amendment contains a definition of consumer debt ide
 
 Section 101(9) of the Senate amendment contained a definition of “court.” The House amendment deletes the provision as unnecessary in light of the pervasive jurisdiction of a bankruptcy court under all chapters of title 11 as indicated in title II of the House amendment to H.R. 8200.
 
-Section 101(11) defines “debt” to mean liability on a claim, as was contained in the House-passed version of H.R. 8200. The Senate amendment contained language indicating that “debt” does not include a policy loan made by a life insurance company to the debtor. That language is deleted in the House amendment as unnecessary since a life insurance company clearly has no right to have a policy loan repaid by the debtor, although such company does have a right of offset with respect to such policy loan. Clearly, then, a “debt” does not include a policy loan made by a life insurance company. Inclusion of the language contained in the Senate amendment would have required elaboration of other legal relationships not arising by a liability on a claim. Further the language would have required clarification that interest on a policy loan made by a life insurance company is a debt, and that the insurance company does have right to payment to that interest.
+Section 101(11) defines “debt” to mean liability on a claim, as was contained in the House-passed version of H.R. 8200. The Senate amendment contained language indicating that “debt” does not include a policy loan made by a life insurance company to the debtor. That language is deleted in the House amendment as unnecessary since a life insurance company clearly has no right to have a policy loan repaid by the debtor, although such company does have a right of offset with respect to such policy loan. Clearly, then, a “debt” does not include a policy loan made by a life insurancecompany. Inclusion of the language contained in the Senate amendment would have required elaboration of other legal relationships not arising by a liability on a claim. Further the language would have required clarification that interest on a policy loan made by a life insurance company is a debt, and that the insurance company does have right to payment to that interest.
 
 Section 101(14) adopts the definition of “entity” contained in the Senate-passed version of H.R. 8200. Since the Senate amendment to H.R. 8200 deleted the U.S. trustee, a corresponding definitional change is made in chapter 15 of the House amendment for U.S. trustees under the pilot program. Adoption by the House amendment of a pilot program for U.S. trustees under chapter 15 requires insertion of “United States trustee” in many sections. Several provisions in chapter 15 of the House amendment that relate to the U.S. trustee were not contained in the Senate amendment in the nature of a substitute.
 
@@ -452,7 +462,7 @@ Paragraph (10) \[enacted as (9)\] defines “creditor” to include holders of p
 
 Paragraph (11) \[enacted as (10)\] defines “custodian.” There is no similar definition in current law. It is defined to facilitate drafting, and means a prepetition liquidator of the debtor's property, such as an assignee for the benefit of creditors, a receiver of the debtor's property, or administrator of the debtor's property. The definition of custodian to include a receiver or trustee is descriptive, and not meant to be limited to court officers with those titles. The definition is intended to include other officers of the court if their functions are substantially similar to those of a receiver or trustee.
 
-“Debt” is defined in paragraph (12) \[enacted as (11)\] as a liability on a claim. The terms “debt” and “claim” are coextensive: a creditor has a “claim” against the debtor; the debtor owes a “debt” to the creditor. This definition of “debt” and the definition of “claim” on which it is based, proposed 11 U.S.C. 101(4), does not include a transaction such as a policy loan on an insurance policy. Under that kind of transaction, the debtor is not liable to the insurance company for repayment; the amount owed is merely available to the company for setoff against any benefits that become payable under the policy. As such, the loan is not a claim (it is not a right to payment) that the company can assert against the estate; nor is the debtor's obligation a debt (a liability on a claim) that will be discharged under proposed 11 U.S.C. 523 or 524.
+“Debt” is defined in paragraph (12) \[enacted as (11)\] as a liability on a claim. The terms “debt” and “claim”are coextensive: a creditor has a “claim” against the debtor; the debtor owes a “debt” to the creditor. This definition of “debt” and the definition of “claim” on which it is based, proposed 11 U.S.C. 101(4), does not include a transaction such as a policy loan on an insurance policy. Under that kind of transaction, the debtor is not liable to the insurance company for repayment; the amount owed is merely available to the company for setoff against any benefits that become payable under the policy. As such, the loan is not a claim (it is not a right to payment) that the company can assert against the estate; nor is the debtor's obligation a debt (a liability on a claim) that will be discharged under proposed 11 U.S.C. 523 or 524.
 
 Paragraph (13) \[enacted as (12)\] defines “debtor.” Debtor means person or municipality concerning which a case under title II has been commenced. This is a change in terminology from present law, which identifies the person by or against whom a petition is filed in a straight bankruptcy liquidation case as the “bankrupt”, and a person or municipality that is proceeding under a debtor rehabilitation chapter (chapters VIII through XIII of the Bankruptcy Act) \[chapters 8 through 13 of former title 11\] as a “debtor.” The term “debtor” is used for both kinds of cases in this bill, for ease of reference in chapters 1, 3, and 5 (which apply to straight bankruptcy and reorganization cases).
 
@@ -486,7 +496,7 @@ Paragraph (27) defines “judicial lien.” It is one of three kinds of liens de
 
 Paragraph (28) defines “lien.” The definition is new and is very broad. A lien is defined as a charge against or interest in property to secure payment of a debt or performance of an obligation. It includes inchoate liens. In general, the concept of lien is divided into three kinds of liens: judicial liens, security interests, and statutory liens. Those three categories are mutually exclusive and are exhaustive except for certain common law liens.
 
-Paragraph (29) defines “municipality.” The definition is adapted from the terms used in the chapter IX (municipal bankruptcy) \[chapter 9 of former title 11\] amendment to the Bankruptcy Act enacted in 1976 (Pub. L. 94–260). That amendment spoke in terms of “political subdivision or public agency or instrumentality of a State”. Bankruptcy Act Sec. 84 \[section 404 of former title 11\]. The term municipality is defined by those three terms for convenience. It does not include the District of Columbia or any territories of the United States.
+Paragraph (29) defines “municipality.” The definition is adapted from the terms used in the chapter IX (municipal bankruptcy) \[chapter 9 of former title 11\] amendment to the Bankruptcy Act enacted in 1976 (Pub. L. 94–260). That amendment spoke in terms of“political subdivision or public agency or instrumentality of a State”. Bankruptcy Act Sec. 84 \[section 404 of former title 11\]. The term municipality is defined by those three terms for convenience. It does not include the District of Columbia or any territories of the United States.
 
 “Person” is defined in paragraph (30). The definition is a change in wording, but not in substance, from the definition in section 1(23) of the Bankruptcy Act \[section 1(23) of former title 11\]. The definition is also similar to the one contained in 1 U.S.C. sec. 1, but is repeated here for convenience and ease of reference. Person includes individual partnership, and corporation. The exclusion of governmental units is made explicit in order to avoid any confusion that may arise if, for example, a municipality is incorporated and thus is legally a corporation as well as governmental unit. The definition does not include an estate or a trust, which are included only in the definition of “entity” in proposed 11 U.S.C. 101(14).
 
@@ -510,7 +520,11 @@ Paragraph (40) defines “transfer.” It is derived and adapted, with stylistic
 
 #### References in Text
 
-Section 3 of the Federal Deposit Insurance Act, referred to in pars. (21B)(A), (33)(A), and (35)(A), is classified to section 1813 of Title 12, Banks and Banking.
+Section 3 of the Federal Deposit Insurance Act, referred to in pars. (21B)(A), (33)(A), (35)(A), and (54A), is classified to section 1813 of Title 12, Banks and Banking.
+
+The Investment Company Act of 1940, referred to in par. (22)(A)(ii), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
+
+Section 409 of the Federal Deposit Insurance Corporation Improvement Act of 1991, referred to in par. (22)(B), is classified to section 4422 of Title 12, Banks and Banking.
 
 Sections 101(7) and 206(r) of the Federal Credit Union Act, referred to in pars. (33)(B) and (34), are classified to sections 1752(7) and 1786(r), respectively, of Title 12.
 
@@ -518,9 +532,13 @@ Sections 414(d) and 457(b) of the Internal Revenue Code of 1986, referred to in 
 
 Sections 3(a)(12) and 17A of the Securities Exchange Act of 1934, referred to in par. (48), are classified to sections 78c(a)(12) and 78q–1, respectively, of Title 15, Commerce and Trade.
 
-The Securities Act of 1933, referred to in par. (49)(A)(xii), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of Title 15. Section 3(b) of the Act is classified to section 77c(b) of Title 15. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
+The Securities Act of 1933, referred to in par. (49)(A)(xii), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of Title 15. Section3(b) of the Act is classified to section 77c(b) of Title 15. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
 
 #### Amendments
+
+2000—Par. (22). Pub. L. 106–554, §1(a)(5) \[title I, §112(c)(3)\], amended par. (22) generally. Prior to amendment par. (22) read as follows: “ ‘financial institution’ means a person that is a commercial or savings bank, industrial savings bank, savings and loan association, or trust company and, when any such person is acting as agent or custodian for a customer in connection with a securities contract, as defined in section 741 of this title, such customer;”.
+
+Par. (54A). Pub. L. 106–554, §1(a)(5) \[title I, §112(c)(4)\], added par. (54A).
 
 1994—Par. (3). Pub. L. 103–394, §501(a)(1), redesignated par. (3) as (21B) and inserted it after par. (21A).
 
@@ -544,7 +562,7 @@ Par. (35A). Pub. L. 103–394, §501(a)(4), redesignated par. (56) defining “i
 
 Par. (39). Pub. L. 103–394, §501(a)(5), redesignated par. (57) defining “mask work” as (39) and inserted it after par. (38). Former par. (39) redesignated (51A).
 
-Par. (41). Pub. L. 103–394, §106, amended par. (41) generally. Prior to amendment, par. (41) read as follows: “ ‘person’ includes individual, partnership, and corporation, but does not include governmental unit, <i>Provided, however</i>, That any governmental unit that acquires an asset from a person as a result of operation of a loanguarantee agreement, or as receiver or liquidating agent of a person, will be considered a person for purposes of section 1102 of this title.”
+Par. (41). Pub. L. 103–394, §106, amended par. (41) generally. Prior to amendment, par. (41) read as follows: “ ‘person’ includes individual, partnership, and corporation, but does not include governmental unit, <i>Provided, however</i>, That any governmental unit that acquires an asset from a person as a result of operation of a loan guarantee agreement, or as receiver or liquidating agent of a person, will be considered a person for purposes of section 1102 of this title.”
 
 Par. (42A). Pub. L. 103–394, §208(a)(1), added par. (42A).
 

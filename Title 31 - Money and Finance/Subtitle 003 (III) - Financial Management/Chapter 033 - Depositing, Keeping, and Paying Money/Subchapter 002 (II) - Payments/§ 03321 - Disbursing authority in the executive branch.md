@@ -48,7 +48,7 @@ Exec. Order No. 6728, May 29, 1934.
 
 The section uses the defined term “executive agency” in section 102 of the revised title because the source provisions of this section are from a reorganization plan and executive orders that apply only to departments, agencies, and instrumentalities of the executive branch of the United States Government.
 
-In subsections (a) and (b), the words “Secretary of the Treasury” and “Secretary” are substituted for references to the Division of Disbursement and a ChiefDisbursing Officer because of the source provisions restated in section 321(c) of the revised title. The words “public money” are substituted for “moneys of the United States” for consistency with the other source provisions restated in the section and for consistency in the chapter.
+In subsections (a) and (b), the words “Secretary of the Treasury” and “Secretary” are substituted for references to the Division of Disbursement and a Chief Disbursing Officer because of the source provisions restated in section 321(c) of the revised title. The words “public money” are substituted for “moneys of the United States” for consistency with the other source provisions restated in the section and for consistency in the chapter.
 
 Subsection (a) is substituted for section 4(1st paragraph) of Executive Order No. 6166 to omit executed words.
 
@@ -63,10 +63,6 @@ In subsection (c), the text of 31:492–1(1st sentence) is applied only to the l
 Subsec. (c)(3). Pub. L. 104–201 added par. (3).
 
 1994—Subsec. (c)(2). Pub. L. 103–355 substituted “The Department of Defense” for “military departments of the Department of Defense”.
-
-#### Reimbursement of Financial Management Service for Postage Expenses
-
-Pub. L. 103–329, title I, §105, Sept. 30, 1994, 108 Stat. 2390, provided that: “Notwithstanding any other provision of law, beginning in fiscal year 1995 and thereafter, the Financial Management Service (FMS) shall be reimbursed, for postage incurred by FMS to make check payments on their behalf, by: the Department of Veterans Affairs, for the mailing of Compensation and Pension benefit payments; the Department of Health and Human Services, for the mailing of Supplemental Security Income payments; and the Office of Personnel Management, for the mailing of Retirement payments. Such reimbursement shall be due beginning with checks mailed on October 1, 1994, and such reimbursement shall occur on a monthly basis.”
 
 #### Section Referred to in Other Sections
 

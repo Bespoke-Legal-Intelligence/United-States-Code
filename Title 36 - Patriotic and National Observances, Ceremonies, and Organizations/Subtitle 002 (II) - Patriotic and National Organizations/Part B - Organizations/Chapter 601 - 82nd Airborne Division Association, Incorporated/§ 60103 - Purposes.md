@@ -6,7 +6,7 @@ The purposes of the corporation are as provided in the articles of incorporation
 
 &emsp;(2) furthering the common bond between retired and active members of the 82nd Airborne Division;
 
-&emsp;(3) providing educational assistance in the form of college scholarships and grants to thequalified children of current and former members of the 82nd Airborne Division;
+&emsp;(3) providing educational assistance in the form of college scholarships and grants to the qualified children of current and former members of the 82nd Airborne Division;
 
 &emsp;(4) promoting civic and patriotic activities; and
 

@@ -32,7 +32,7 @@ The guidelines for the model program shall generally comport with the additional
 
 #### Assistance for Self-Help Housing Providers
 
-Pub. L. 104–120, §11, Mar. 28, 1996, 110 Stat. 841, as amended by Pub. L. 105–276, title V, §599E(a), Oct. 21, 1998, 112 Stat. 2663, provided that:
+Pub. L. 104–120, §11, Mar. 28, 1996, 110 Stat. 841, as amended by Pub. L. 105–276, title V, §599E(a), Oct. 21, 1998, 112 Stat. 2663; Pub. L. 106–569, title II, §202, Dec. 27, 2000, 114 Stat. 2951, provided that:
 
 “(a)
 
@@ -74,7 +74,7 @@ Eligible expenses.—For purposes of paragraph (1), the term ‘eligible expense
 
 &emsp;&emsp;“(A)
 
-Land acquisition.—Acquiring land (including financing and closing costs).
+Land acquisition.—Acquiring land (including financing and closing costs), which may include reimbursing an organization, consortium, or affiliate, upon approval of any required environmental review, for nongrant amounts of the organization, consortium, or affiliate advanced before such review to acquire land.
 
 &emsp;&emsp;“(B)
 
@@ -88,11 +88,11 @@ Establishment of Grant Fund.—
 
 &emsp;“(1)
 
-In general.—Any amounts from any grant made under this section shall be deposited by the grantee organization or consortium in a fund that is established by such organization or consortium for such amounts, administered by such organization or consortium, and available for use only for the purposes under subsection (d). Any interest, fees, or other earnings of the fund shall be deposited in the fund and shall be considered grant amounts for purposes of this section.
+In general.—Any amounts from any grant made under this section shall be deposited by the grantee organization or consortium in a fund that is established by such organization or consortium for such amounts, administered by such organization orconsortium, and available for use only for the purposes under subsection (d). Any interest, fees, or other earnings of the fund shall be deposited in the fund and shall be considered grant amounts for purposes of this section.
 
 &emsp;“(2)
 
-Assistance to affiliates.—Any organization or consortia that receives a grant under this sectionmay use amounts in the fund established for such organization or consortia pursuant to paragraph (1) for the purposes under subsection (d) by providing assistance from the fund to local affiliates of such organization or consoria. \[sic\]
+Assistance to affiliates.—Any organization or consortia that receives a grant under this section may use amounts in the fund established for such organization or consortia pursuant to paragraph (1) for the purposes under subsection (d) by providing assistance from the fund to local affiliates of such organization or consortia.
 
 “(f)
 
@@ -126,13 +126,13 @@ Grant Agreement.—A grant under this section shall be made only pursuant to a g
 
 &emsp;“(4) require the organization or consortia to comply with the other provisions of this section;
 
-&emsp;“(5) provide that if the organization or consortia has not used any grant amounts within 24 months after such amounts are first disbursed to the organization or consortia (or, in the case of grant amounts from amounts made available for fiscal year 1996 to carry out this section, within 36 months), the Secretary shall recapture such unused amounts; and
+&emsp;“(5) provide that the Secretary shall recapture any grant amounts provided to the organization or consortia that are not used within 24 months after such amounts are first disbursed to the organization or consortia, except that such period shall be 36 months in the case of grant amounts from amounts made available for fiscal year 1996 to carry out this section, and in the case of a \[sic\] grant amounts provided to a local affiliate of the organization or consortia that is developing five or more dwellings in connection with such grant amounts; and
 
 &emsp;“(6) contain such other terms as the Secretary may require to provide for compliance with subsection (b) and the requirements of this section.
 
 “(j)
 
-Fulfillment of Grant Agreement.—If the Secretary determines that an organization or consortia awarded a grant under this section has not, within 24 months after grant amounts are first made available to the organization or consortia (or, in the case of grant amounts from amounts made available for fiscal year 1996 to carry out this section, within 36 months), substantially fulfilled the obligations under the grant agreement, including development of the appropriate number of dwellings under the agreement, the Secretary shall use any such undisbursed amounts remaining from such grant for other grants in accordance with this section.
+Fulfillment of Grant Agreement.—If the Secretary determines that an organization or consortia awarded a grant under this section has not, within 24 months after grant amounts are first made available to the organization or consortia (or, in the case of grant amounts from amounts made available for fiscal year 1996 to carry out this section and grant amounts provided to a local affiliate of the organization or consortia that is developing five or more dwellings in connection with such grant amounts, within 36 months), substantially fulfilled the obligations under the grant agreement, including development of the appropriate number of dwellings under the agreement, the Secretary shall use any such undisbursed amounts remaining from such grant for other grants in accordance with this section.
 
 “(k)
 
@@ -160,7 +160,7 @@ Definitions.—For purposes of this section, the following definitions shall app
 
 &emsp;“(1)
 
-Applicable committees.—The term ‘applicable Committees’ means the Committee on Banking and Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate.
+Applicable committees.—The term ‘applicable Committees’ means the Committee on Banking and Financial Services \[now Committee on Financial Services\] of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate.
 
 &emsp;“(2)
 
@@ -172,7 +172,7 @@ United states.—The term ‘United States’ includes the States of the United 
 
 “(p)
 
-Authorization of Appropriations.—To carry out this section, there are authorized to be appropriated for fiscal years 1999 and 2000 such sums as may be necessary.
+Authorization of Appropriations.—There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2001.
 
 “(q)
 

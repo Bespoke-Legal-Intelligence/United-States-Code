@@ -20,7 +20,7 @@ Within 360 days after October 22, 1986, the Governor of each State—
 
 &emsp;The Governor may disapprove a management plan within 90 days after the date of receipt of the plan if the plan—
 
-&emsp;&emsp;(A) does not conform with the regulations under section 2643(i) of this title (or with section 2644(d) of this title if there are no regulations),
+&emsp;&emsp;(A) does not conform with the regulations under section 2643(i) of this title (or withsection 2644(d) of this title if there are no regulations),
 
 &emsp;&emsp;(B) does not assure that contractors who are accredited pursuant to this subchapter will be used to carry out the plan, or
 
@@ -58,7 +58,7 @@ Within 360 days after October 22, 1986, the Governor of each State—
 
 &emsp;&emsp;&emsp;(iii) A statement giving assurance that the local educational agency has carried out the notification and, in the case of a public school, public meeting required by paragraph (2).
 
-&emsp;&emsp;&emsp;(iv) A proposed schedule outlining all significant activities leading up to submission of a management plan by May 9, 1989, including inspection of the school (if notcompleted at the time of the request) with a deadline of no later than December 22, 1988, for entering into a signed contract with an accredited asbestos contractor for inspection (unless such inspections are to be performed by school personnel), laboratory analysis of material from the school suspected of containing asbestos, and development of the management plan.
+&emsp;&emsp;&emsp;(iv) A proposed schedule outlining all significant activities leading up to submission of a management plan by May 9, 1989, including inspection of the school (if not completed at the time of the request) with a deadline of no later than December 22, 1988, for entering into a signed contract with an accredited asbestos contractor for inspection (unless such inspections are to be performed by school personnel), laboratory analysis of material from the school suspected of containing asbestos, and development of the management plan.
 
 #### (2) Notification and public meeting
 

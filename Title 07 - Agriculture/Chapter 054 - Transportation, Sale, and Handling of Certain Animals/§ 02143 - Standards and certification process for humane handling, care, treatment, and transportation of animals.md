@@ -14,7 +14,7 @@
 
 &emsp;(A) for animal care, treatment, and practices in experimental procedures to ensure that animal pain and distress are minimized, including adequate veterinary care with the appropriate use of anesthetic, analgesic, tranquilizing drugs, or euthanasia;
 
-&emsp;(B) that the principal investigator considers alternatives to any procedure likely to produce pain to or distress in an experimental animal;
+&emsp;(B) that the principal investigator considers alternatives to any procedure likely toproduce pain to or distress in an experimental animal;
 
 &emsp;(C) in any practice which could cause pain to animals—
 
@@ -144,7 +144,7 @@ In any case in which a Federal agency funding a research project determines that
 
 #### (f) <sup>3</sup> Veterinary certificate; contents; exceptions
 
-No dogs or cats, or additional kinds or classes of animals designated by regulation of the Secretary, shall be delivered by any dealer, research facility, exhibitor, operator of an auction sale, or department, agency, or instrumentality of the United States or of any State or local government, to any intermediate handler or carrier for transportation in commerce, or received by any such handler or carrier for such transportation from any such person, department, agency, or instrumentality, unless the animal is accompanied by a certificate issued by a veterinarian licensed to practice veterinary medicine, certifying that he inspected the animal on a specified date, which shall not be more than ten days before such delivery, and, when so inspected, the animal appeared free of any infectious disease or physical abnormality which would endanger the animal or animals or other animals or endanger public health: <i>Provided, however</i>, That the Secretary may by regulation provide exceptions to this certification requirement, under such conditions as he may prescribe in the regulations, for animals shipped to research facilities for purposes of research, testing or experimentation requiring animals not eligible for such certification. Such certificates received by the intermediate handlers and the carriers shall be retained by them, as provided by regulations of the Secretary, in accordance with section 2140 of this title.
+No dogs or cats, or additional kinds or classes of animals designated by regulation of the Secretary, shall be delivered by any dealer, research facility, exhibitor, operator of an auction sale, or department, agency, or instrumentality of the United States or of any State or local government, to any intermediate handler or carrierfor transportation in commerce, or received by any such handler or carrier for such transportation from any such person, department, agency, or instrumentality, unless the animal is accompanied by a certificate issued by a veterinarian licensed to practice veterinary medicine, certifying that he inspected the animal on a specified date, which shall not be more than ten days before such delivery, and, when so inspected, the animal appeared free of any infectious disease or physical abnormality which would endanger the animal or animals or other animals or endanger public health: <i>Provided, however</i>, That the Secretary may by regulation provide exceptions to this certification requirement, under such conditions as he may prescribe in the regulations, for animals shipped to research facilities for purposes of research, testing or experimentation requiring animals not eligible for such certification. Such certificates received by the intermediate handlers and the carriers shall be retained by them, as provided by regulations of the Secretary, in accordance with section 2140 of this title.
 
 #### (g) Age of animals delivered to registered research facilities; power of Secretary to designate additional classes of animals and age limits
 
@@ -180,7 +180,7 @@ Amendment by Pub. L. 91–579 effective one year after Dec. 24, 1970, see sectio
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2132, 2133, 2144, 2145, 2154, 2155 of this title.
+This section is referred to in sections 2132, 2133, 2144, 2145, 2154 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “paragraph”.</i>
 

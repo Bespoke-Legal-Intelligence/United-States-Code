@@ -8,6 +8,10 @@ This chapter may be cited as the “Communications Act of 1934.”
 
 This chapter, referred to in text, was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, as amended, known as the Communications Act of 1934, which enacted this chapter, amended section 35 of this title, section 21 of Title 15, Commerce and Trade, section 487 of former Title 46, Shipping, and sections 1, 2, 5, and 15 of former Title 49, Transportation, and repealed sections 484 to 487 of former Title 46. For complete classification of this Act to the Code, see Tables.
 
+#### Short Title of 2000 Amendment
+
+Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1731\], Dec. 21, 2000, 114 Stat. 2763, 2763A–350, provided that: “This subtitle \[subtitle C (§§1731–1733) of title XVII of div. B of H.R. 5666, as enacted by section 1(a)(4) of Pub. L. 106–554, amending section 254 of this title and enacting provisions set out as a note under section 254 of this title\] may be cited as the ‘Neighborhood Children's Internet Protection Act’.”
+
 #### Short Title of 1999 Amendments
 
 Pub. L. 106–113, div. B, §1000(a)(9) \[title V, §5008(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–594, provided that: “This section \[amending section 336 of this title and enacting provisions set out as a note under section 336 of this title\] may be cited as the ‘Community Broadcasters Protection Act of 1999’.”
@@ -32,13 +36,13 @@ Pub. L. 102–356, §1, Aug. 26, 1992, 106 Stat. 949, provided that: “This Act
 
 #### Short Title of 1991 Amendment
 
-Pub. L. 102–243, §1, Dec. 20, 1991, 105 Stat. 2394, provided that: “This Act \[enacting section 227 of this title,amending sections 152 and 331 of this title, and enacting provisions set out as notes under section 227 of this title\] may be cited as the ‘Telephone Consumer Protection Act of 1991’.”
+Pub. L. 102–243, §1, Dec. 20, 1991, 105 Stat. 2394, provided that: “This Act \[enacting section 227 of this title, amending sections 152 and 331 of this title, and enacting provisions set out as notes under section 227 of this title\] may be cited as the ‘Telephone Consumer Protection Act of 1991’.”
 
 #### Short Title of 1990 Amendments
 
-Pub. L. 101–437, §1, Oct. 18, 1990, 104 Stat. 996, provided that: “This Act \[enacting sections 303a, 303b, and 394 of this title, amending section 397 of this title, renumbering former section 394 of this title as section 393a, and enacting provisions set out as notes under this section and sections 303a and 394 of this title\] may be cited as the ‘Children's Television Act of 1990’.”
+Pub. L. 101–437, §1, Oct. 17, 1990, 104 Stat. 996, provided that: “This Act \[enacting sections 303a, 303b, and 394 of this title, amending section 397 of this title, renumbering former section 394 of this title as section 393a, and enacting provisions set out as notes under this section and sections 303a and 394 of this title\] may be cited as the ‘Children's Television Act of 1990’.”
 
-Pub. L. 101–437, title II, §201, Oct. 18, 1990, 104 Stat. 997, provided that: “This title \[enacting section 394 of this title, amending section 397 of this title, renumbering former section 394 of this title as section 393a, and enacting provisions set out as a note under section 394 of this title\] may be cited as the ‘National Endowment for Children's Educational Television Act of 1990’.”
+Pub. L. 101–437, title II, §201, Oct. 17, 1990, 104 Stat. 997, provided that: “This title \[enacting section 394 of this title, amending section 397 of this title, renumbering former section 394 of this title as section 393a, and enacting provisions set out as a note under section 394 of this title\] may be cited as the ‘National Endowment for Children's Educational Television Act of 1990’.”
 
 Pub. L. 101–435, §1, Oct. 17, 1990, 104 Stat. 986, provided that: “This Act \[enacting section 226 of this title and provisions set out as a note under section 226 of this title\] may be cited as the ‘Telephone Operator Consumer Services Improvement Act of 1990’.”
 
@@ -60,7 +64,7 @@ Pub. L. 98–549, §1(a), Oct. 30, 1984, 98 Stat. 2779, provided that: “This A
 
 #### Short Title of 1983 Amendments
 
-Pub. L. 98–214, §1, Dec. 8, 1983, 97 Stat. 1467, provided that: “This Act \[enacting section 157 of this title, amending sections 154, 156, 223, 310, 316, 396, and 503 of this title, and enacting provisions set out as notes under sections 156, 223, and 303 of this title\] may be cited as the ‘Federal Communications Commission Authorization Act of 1983’.”
+Pub. L. 98–214, §1, Dec. 8, 1983, 97 Stat. 1467, provided that: “This Act \[enacting section 157 of this title,amending sections 154, 156, 223, 310, 316, 396, and 503 of this title, and enacting provisions set out as notes under sections 156, 223, and 303 of this title\] may be cited as the ‘Federal Communications Commission Authorization Act of 1983’.”
 
 Pub. L. 97–410, §1, Jan. 3, 1983, 96 Stat. 2043, provided: “That this Act \[enacting section 610 of this title, amending section 734 of this title, enacting provisions set out as a note under section 610 of this title, and amending provisions set out as a note under section 396 of this title\] may be cited as the ‘Telecommunications for the Disabled Act of 1982’.”
 

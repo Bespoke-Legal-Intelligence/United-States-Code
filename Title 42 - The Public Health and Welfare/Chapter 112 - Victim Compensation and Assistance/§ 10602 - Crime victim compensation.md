@@ -36,7 +36,7 @@ A crime victim compensation program is an eligible crime victim compensation pro
 
 &emsp;(7) such program does not, except pursuant to rules issued by the program to prevent unjust enrichment of the offender, deny compensation to any victim because of that victim's familial relationship to the offender, or because of the sharing of a residence by the victim and the offender;
 
-&emsp;(8) such program does not provide compensation to any person who has been convicted of an offense under Federal law with respect to any time period during which the person is delinquent in paying a fine, other monetary penalty, or restitution imposed for the offense; and
+&emsp;(8) such program does not provide compensation to any person who has been convicted of an offense under Federal law with respect toany time period during which the person is delinquent in paying a fine, other monetary penalty, or restitution imposed for the offense; and
 
 &emsp;(9) such program provides such other information and assurances related to the purposes of this section as the Director may reasonably require.
 

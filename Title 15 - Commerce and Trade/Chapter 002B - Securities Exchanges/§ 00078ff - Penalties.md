@@ -2,7 +2,7 @@
 
 #### (a) Willful violations; false and misleading statements
 
-Any person who willfully violates any provision of this chapter (other than section 78dd–1 of this title), or any rule or regulation thereunder the violation of which is made unlawful or the observance of which is required under the terms of this chapter, or any person who willfully and knowingly makes, or causes to be made, any statement in any application, report, or document required to be filed under this chapter or any rule or regulation thereunder or any undertaking contained in a registration statement as provided in subsection (d) of section 78<i>o</i> of this title, or by any self-regulatory organization in connection with an application for membership or participation therein or to become associated with a member thereof which statement was false or misleading with respect to any material fact, shall upon conviction be fined not more than $1,000,000, or imprisoned not more than 10 years, or both, except that when such person is a person other than a natural person, a fine not exceeding $2,500,000 may be imposed; but no person shall be subject to imprisonment under this section for the violation of any rule or regulation if he proves that he had no knowledge of such rule or regulation.
+Any person who willfully violates any provision of this chapter (other than section 78dd–1 ofthis title), or any rule or regulation thereunder the violation of which is made unlawful or the observance of which is required under the terms of this chapter, or any person who willfully and knowingly makes, or causes to be made, any statement in any application, report, or document required to be filed under this chapter or any rule or regulation thereunder or any undertaking contained in a registration statement as provided in subsection (d) of section 78<i>o</i> of this title, or by any self-regulatory organization in connection with an application for membership or participation therein or to become associated with a member thereof which statement was false or misleading with respect to any material fact, shall upon conviction be fined not more than $1,000,000, or imprisoned not more than 10 years, or both, except that when such person is a person other than a natural person, a fine not exceeding $2,500,000 may be imposed; but no person shall be subject to imprisonment under this section for the violation of any rule or regulation if he proves that he had no knowledge of such rule or regulation.
 
 #### (b) Failure to file information, documents, or reports
 
@@ -58,7 +58,7 @@ Subsec. (c). Pub. L. 95–213, §103(b)(2), added subsec. (c).
 
 1975—Subsec. (a). Pub. L. 94–29, §§23(1), 27(b), inserted “or by any self-regulatory organization in connection with an application for membership or participation therein or to become associated with a member thereof,” and substituted “or imprisoned not more than five years” for “or imprisoned not more than two years”.
 
-Subsec. (c). Pub. L. 94–29, §23(2), struck out subsec. (c) which rendered this section inapplicable to violations of any rule or regulation prescribed pursuant to paragraph (3) of subsection (c) of section 78<i>o</i> of this title.
+Subsec. (c). Pub. L. 94–29, §23(2), struck out subsec. (c) which rendered this section inapplicable to violationsof any rule or regulation prescribed pursuant to paragraph (3) of subsection (c) of section 78<i>o</i> of this title.
 
 1964—Subsec. (b). Pub. L. 88–467 substituted “required to be filed under” for “pursuant to an undertaking contained in a registration statement as provided in” and inserted “or any rule or regulation thereunder” after “section 78<i>o</i> of this title.”
 
@@ -83,22 +83,6 @@ Amendment by Pub. L. 94–29 effective June 4, 1975, see section 31(a) of Pub. L
 #### Effective Date of 1964 Amendment
 
 Amendment by Pub. L. 88–467 effective Aug. 20, 1964, see section 13 of Pub. L. 88–467, set out as a note under section 78c of this title.
-
-#### Cross References
-
-Effective date, see section 78hh–1 of this title.
-
-Penalties under—
-
-&emsp;&emsp;Investment Advisers Act of 1940, see section 80b–17 of this title.
-
-&emsp;&emsp;Investment Company Act of 1940, see section 80a–48 of this title.
-
-&emsp;&emsp;Public Utility Holding Company Act of 1935, see section 79z–3 of this title.
-
-&emsp;&emsp;Securities Act of 1933, see section 77x of this title.
-
-&emsp;&emsp;Trust Indenture Act of 1939, see section 77yyy of this title.
 
 #### Section Referred to in Other Sections
 

@@ -22,7 +22,7 @@
 | (b) | Establishment and management. |
 | (c) | Delineation of location of Forest. |
 | (d) | Authorities of Secretary. |
-| [4503c.](%C2%A7%2004503c%20-%20Annual%20report%20on%20Institutes%20of%20Tropical%20Forestry.md) | Annual report on Institutes of Tropical Forestry. |
+| [4503c.](%C2%A7%2004503c%20-%20Omitted.md) | Omitted. |
 | [4503d.](%C2%A7%2004503d%20-%20Definitions.md) | Definitions. |
 | [4504\.](%C2%A7%2004504%20-%20Administrative%20provisions.md) | Administrative provisions. |
 | (a) | Coordination of activities. |
@@ -42,7 +42,7 @@
 - [&sect; 04503 - Institute of Tropical Forestry in Puerto Rico](%C2%A7%2004503%20-%20Institute%20of%20Tropical%20Forestry%20in%20Puerto%20Rico.md)
 - [&sect; 04503a - Institute of Pacific Islands Forestry](%C2%A7%2004503a%20-%20Institute%20of%20Pacific%20Islands%20Forestry.md)
 - [&sect; 04503b - Hawaii Experimental Tropical Forest](%C2%A7%2004503b%20-%20Hawaii%20Experimental%20Tropical%20Forest.md)
-- [&sect; 04503c - Annual report on Institutes of Tropical Forestry](%C2%A7%2004503c%20-%20Annual%20report%20on%20Institutes%20of%20Tropical%20Forestry.md)
+- [&sect; 04503c - Omitted](%C2%A7%2004503c%20-%20Omitted.md)
 - [&sect; 04503d - Definitions](%C2%A7%2004503d%20-%20Definitions.md)
 - [&sect; 04504 - Administrative provisions](%C2%A7%2004504%20-%20Administrative%20provisions.md)
 - [&sect; 04505 - Authorization of appropriations](%C2%A7%2004505%20-%20Authorization%20of%20appropriations.md)

@@ -140,9 +140,11 @@ Each State plan shall contain assurances that—
 
 &emsp;(4) the State educational agency will encourage the use of funds from other Federal, State, and local sources for schoolwide reform in schoolwide programs under section 6314 of this title;
 
-&emsp;(5) the Committee of Practitioners established under section 6513(b) of this title will be substantially involved in the development of the plan and will continue to be involved in monitoring the plan's implementation by the State; and
+&emsp;(5) the Committee of Practitioners established under section 6513(b) of this title will be substantially involved in the development of the plan and will continue to be involved in monitoring the plan's implementation by the State;
 
-&emsp;(6) the State will coordinate activities funded under this part with school-to-work, vocational education, cooperative education and mentoring programs, and apprenticeship programs involving business, labor, and industry, as appropriate.
+&emsp;(6) the State will coordinate activities funded under this part with school-to-work, vocational education, cooperative education and mentoring programs, and apprenticeship programs involving business, labor, and industry, as appropriate; and
+
+&emsp;(7) the State educational agency will encourage local educational agencies and individual schools participating in a program assisted under this part to offer family literacy services (using funds under this part), if the agency or school determines that a substantial number of students served under this part by the agency or school have parents who do not have a high school diploma or its recognized equivalent or who have low levels of literacy.
 
 #### (d) Peer review and secretarial approval
 
@@ -166,7 +168,7 @@ Each State plan shall contain assurances that—
 
 &emsp;&emsp;&emsp;(iii) providing a hearing; and
 
-&emsp;&emsp;(F) have the authority to disapprove a State plan for not meeting the requirements of this part, but shall not have the authority to require a State, as a condition of approval of the State plan, to include in, or delete from, such plan one or more specific elements of the State's content standards or to use specific assessment instruments or items.
+&emsp;&emsp;(F) have the authority to disapprove a State plan for not meeting the requirementsof this part, but shall not have the authority to require a State, as a condition of approval of the State plan, to include in, or delete from, such plan one or more specific elements of the State's content standards or to use specific assessment instruments or items.
 
 #### (2) Withholding
 
@@ -194,13 +196,15 @@ Nothing in this part shall be construed to authorize an officer or employee of t
 
 If the aggregate State expenditure by a State educational agency for the operation of elementary and secondary education programs in the State is less than such agency's aggregate Federal expenditure for the State operation of all Federal elementary and secondary education programs, then the State plan shall include assurances and specific provisions that such State will provide State expenditures for the operation of elementary and secondary education programs equal to or exceeding the level of Federal expenditures for such operation by October 1, 1998.
 
-(Pub. L. 89–10, title I, §1111, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3523; amended Pub. L. 104–134, title I, §101(d) \[title VII, §703(b)(1)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–254; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
+(Pub. L. 89–10, title I, §1111, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3523; amended Pub. L. 104–134, title I, §101(d) \[title VII, §703(b)(1)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–254; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 106–554, §1(a)(4) \[div. B, title XVI, §1603\], Dec. 21, 2000, 114 Stat. 2763, 2763A–328.)
 
 #### References in Text
 
 The Goals 2000: Educate America Act, referred to in subsecs. (a)(1) and (b)(1)(B), is Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended, which is classified principally to chapter 68 (§5801 et seq.) of this title (except subchapters V (§5931 et seq.) and IX (§6001 et seq.)). Title III of the Act was classified generally to subchapter III (§5881 et seq.) of chapter 68 of this title and was repealed by Pub. L. 106–113, div. B, §1000(a)(4) \[title III, §310(i)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–265. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
 #### Amendments
+
+2000—Subsec. (c)(7). Pub. L. 106–554 added par. (7).
 
 1996—Subsec. (b)(8)(B). Pub. L. 104–134, §101(d) \[title VII, §703(b)(1)(A)\], struck out “(which may include opportunity-to-learn standards or strategies developed under the Goals 2000: Educate America Act)” after “the State deems appropriate”.
 
@@ -210,7 +214,7 @@ Subsecs. (g), (h). Pub. L. 104–134, §101(d) \[title VII, §703(b)(1)(C), (D)\
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5891b, 6312, 6314, 6316, 6317, 6318, 6319, 6434, 7421, 7426, 7476, 7814, 8857 of this title.
+This section is referred to in sections 5891b, 6312, 6314, 6316, 6317, 6318, 6319, 6434, 7421, 7426, 7476, 7814, 8295, 8857 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

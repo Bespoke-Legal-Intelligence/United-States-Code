@@ -14,7 +14,7 @@ If the repeals required by subsection (a) of this section are implemented, the f
 
 #### (1) General appointment power
 
-&emsp;The President, with the advice and consent of the Senate, shall appoint the members ofthe Association's Board established under section 6756 of this title from lists of candidates recommended to the President by the NAIC.
+&emsp;The President, with the advice and consent of the Senate, shall appoint the members of the Association's Board established under section 6756 of this title from lists of candidates recommended to the President by the NAIC.
 
 #### (2) Procedures for obtaining NAIC appointment recommendations
 
@@ -44,7 +44,7 @@ As soon as practicable after the close of each fiscal year, the Association shal
 
 #### References in Text
 
-This Act, referred to in subsec. (a)(2), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338, known as the Gramm-Leach-Bliley Act. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of Title 12, Banks and Banking, and Tables.
+This Act, referred to in subsec. (a)(2), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338, known as theGramm-Leach-Bliley Act. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of Title 12, Banks and Banking, and Tables.
 
 #### Section Referred to in Other Sections
 

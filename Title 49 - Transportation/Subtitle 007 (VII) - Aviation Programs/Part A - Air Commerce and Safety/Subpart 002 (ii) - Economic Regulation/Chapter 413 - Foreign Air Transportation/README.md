@@ -30,6 +30,8 @@ Pub. L. 103–305, title II, §205(a)(2), Aug. 23, 1994, 108 Stat. 1583, added i
 
 This chapter is referred to in sections 40109, 46301 of this title; title 39 section 5402.
 
+<i><sup>1</sup></i><i> So in original. The words “the air carrier” probably should not appear.</i>
+
 
 ---
 

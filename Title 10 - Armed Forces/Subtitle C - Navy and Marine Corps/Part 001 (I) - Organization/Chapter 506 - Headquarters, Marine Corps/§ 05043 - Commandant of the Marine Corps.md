@@ -54,17 +54,3 @@ Provisions similar to those in this section were contained in section 5201 of th
 
 For provisions giving President temporary authority to waive requirements in subsec. (a)(2) of this section, see section 532(c) of Pub. L. 99–433, formerly set out as a note under section 3033 of this title.
 
-#### Cross References
-
-Armed Forces Policy Council, member of, see section 171 of this title.
-
-Courts-martial, authority to convene, see sections 822 to 824 of this title.
-
-Joint Chiefs of Staff, see section 151 et seq. of this title.
-
-Personal money allowance, see section 414 of Title 37, Pay and Allowances of the Uniformed Services.
-
-Rank, see section 743 of this title.
-
-Succession to duties of Secretary, see section 5017 of this title.
-

@@ -14,7 +14,7 @@
 
 &emsp;(iv) may request the assistance of such Director.
 
-(C) Such standards shall include as one of the measures of the performance of such a specialist the extent to which the specialist, in serving as a case manager under section 14(b)(1)(A) of the Veterans’ Job Training Act (29 U.S.C. 1721 note), facilitates rates of successful completion of training by veterans participating in programs of job training under the Act.
+(C) Such standards shall include as one of the measures of the performance of such a specialist the extent to which the specialist, in serving as a case manager under section 14(b)(1)(A) of the Veterans’ Job Training Act (29 U.S.C. 1721 note),<sup>1</sup> facilitates rates of successful completion of training by veterans participating in programs of job training under the Act.
 
 (3)(A) The Secretary, after consultation with State employment agencies or their representatives, or both, shall provide to such agencies a prototype of performance standards for use by such agencies in the development of performance standards under subsection (a)(1) of this section.
 
@@ -32,7 +32,7 @@
 
 #### References in Text
 
-The Veterans’ Job Training Act, referred to in subsec. (a)(2)(C), is Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended, which is set out as a note under section 1721 of Title 29, Labor. For complete classification of this Act to the Code, see Tables.
+The Veterans’ Job Training Act, referred to in subsec. (a)(2)(C), is Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended, which is set out as a note under section 2913 of Title 29, Labor. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
@@ -47,4 +47,6 @@ Section effective on 60th day after May 20, 1988, see section 16(b)(2) of Pub. L
 #### Standards
 
 Section 4(a)(2) of Pub. L. 100–323 provided that: “Each State employment agency (A) shall develop and promulgate standards under section 2004A \[now 4104A\] of title 38, United States Code, as added by paragraph (1) of this subsection, as soon as feasible, and in doing so (B) shall submit proposed standards to the Director for Veterans’ Employment and Training for the State not later than 12 months after the date on which the Secretary provides the agency with prototype standards under subsection (a)(3)(A) of such section, and (C) shall adopt final standards not later than 90 days after submitting the proposed standards to the Director for Veterans’ Employment and Training for comment under subsection (a)(3)(B)(ii) of such section.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -4,7 +4,7 @@
 
 The Secretary may make a grant under section 300x of this title only if—
 
-&emsp;(1) the State involved submits to the Secretary a plan for providing comprehensive community mental health services to adults with a serious mental illness and to children with a serious emotional disturbance;
+&emsp;(1) the State involved submits to the Secretary a plan for providing comprehensive community mental health services to adultswith a serious mental illness and to children with a serious emotional disturbance;
 
 &emsp;(2) the plan meets the criteria specified in subsection (b) of this section; and
 
@@ -14,37 +14,33 @@ The Secretary may make a grant under section 300x of this title only if—
 
 With respect to the provision of comprehensive community mental health services to individuals who are either adults with a serious mental illness or children with a serious emotional disturbance, the criteria referred to in subsection (a) of this section regarding a plan are as follows:
 
-&emsp;(1) The plan provides for the establishment and implementation of an organized community-based system of care for such individuals.
+#### (1) Comprehensive community-based mental health systems
 
-&emsp;(2) The plan contains quantitative targets to be achieved in the implementation of such system, including the numbers of such individuals residing in the areas to be served under such system.
+&emsp;The plan provides for an organized community-based system of care for individuals with mental illness and describes available services and resources in a comprehensive system of care, including services for dually diagnosed individuals. The description of the system of care shall include health and mental health services, rehabilitation services, employment services, housing services, educational services, substance abuse services, medical and dental care, and other support services to be provided to individuals with Federal, State and local public and private resources to enable such individuals to function outside of inpatient or residential institutions to the maximum extent of their capabilities, including services to be provided by local school systems under the Individuals with Disabilities Education Act \[20 U.S.C. 1400 et seq.\]. The plan shall include a separate description of case management services and provide for activities leading to reduction of hospitalization.
 
-&emsp;(3) The plan describes available services, available treatment options, and available resources (including Federal, State and local public services and resources, and to the extent practicable, private services and resources) to be provided such individuals.
+#### (2) Mental health system data and epidemiology
 
-&emsp;(4) The plan describes health and mental health services, rehabilitation services, employment services, housing services, educational services, medical and dental care, and other support services to be provided to such individuals with Federal, State and local public and private resources to enable such individuals to function outside of inpatient or residential institutions to the maximum extent of their capabilities, including services to be provided by local school systems under the Individuals with Disabilities Education Act \[20 U.S.C. 1400 et seq.\].
+&emsp;The plan contains an estimate of the incidence and prevalence in the State of serious mental illness among adults and serious emotional disturbance among children and presents quantitative targets to be achieved in the implementation of the system described in paragraph (1).
 
-&emsp;(5) The plan describes the financial resources and staffing necessary to implement the requirements of such plan, including programs to train individuals as providers of mental health services, and the plan emphasizes training of providers of emergency health services regarding mental health.
+#### (3) Children's services
 
-&emsp;(6) The plan provides for activities to reduce the rate of hospitalization of such individuals.
+&emsp;In the case of children with serious emotional disturbance, the plan—
 
-&emsp;(7)(A) Subject to subparagraph (B), the plan requires the provision of case management services to each such individual in the State who receives substantial amounts of public funds or services.
+&emsp;&emsp;(A) subject to subparagraph (B), provides for a system of integrated social services, educational services, juvenile services, and substance abuse services that, together with health and mental health services, will be provided in order for such children to receive care appropriate for their multiple needs (such system to include services provided under the Individuals with Disabilities Education Act \[20 U.S.C. 1400 et seq.\]);
 
-&emsp;(B) The plan may provide that the requirement of subparagraph (A) will not be substantially completed until the end of fiscal year 1993.
-
-&emsp;(8) The plan provides for the establishment and implementation of a program of outreach to, and services for, such individuals who are homeless.
-
-&emsp;(9) In the case of children with a serious emotional disturbance, the plan—
-
-&emsp;&emsp;(A) subject to subparagraph (B), provides for a system of integrated social services, educational services, juvenile services, and substance abuse services that, together with health and mental health services, will be provided in order for such children to receive care appropriate for their multiple needs (which system includes services provided under the Individuals with Disabilities Education Act \[20 U.S.C. 1400 et seq.\]);
-
-&emsp;&emsp;(B) provides that the grant under section 300x of this title for the fiscal year involved will not be expended to provide any service of such system other than comprehensive community mental health services; and
+&emsp;&emsp;(B) provides that the grant under section 300x of this title for the fiscal year involved will not be expended to provide any service under such system other than comprehensive community mental health services; and
 
 &emsp;&emsp;(C) provides for the establishment of a defined geographic area for the provision of the services of such system.
 
-&emsp;(10) The plan describes the manner in which mental health services will be provided to individuals residing in rural areas.
+#### (4) Targeted services to rural and homeless populations
 
-&emsp;(11) The plan contains an estimate of the incidence and prevalence in the State of serious mental illness among adults and serious emotional disturbance among children.
+&emsp;The plan describes the State's outreach to and services for individuals who are homeless and how community-based services will be provided to individuals residing in rural areas.
 
-&emsp;(12) The plan contains a description of the manner in which the State intends to expend the grant under section 300x of this title for the fiscal year involved to carry out the provisions of the plan required in paragraphs (1) through (11).
+#### (5) Management systems
+
+&emsp;The plan describes the financial resources, staffing and training for mental health providers that is necessary to implement the plan, and provides for the training of providers of emergency health services regarding mental health. The plan further describes the manner in which the State intends to expend the grant under section 300x of this title for the fiscal year involved.
+
+> Except as provided for in paragraph (3), the State plan shall contain the information required under this subsection with respect to both adults with serious mental illness and children with serious emotional disturbance.
 
 #### (c) Definitions regarding mental illness and emotional disturbance; methods for estimate of incidence and prevalence
 
@@ -54,7 +50,7 @@ With respect to the provision of comprehensive community mental health services 
 
 #### (2) Standardized methods
 
-&emsp;The Secretary shall establish standardized methods for making the estimates required in subsection (b)(11) of this section with respect to a State. A funding agreement for a grant under section 300x of this title for the State is that the State will utilize such methods in making the estimates.
+&emsp;The Secretary shall establish standardized methods for making the estimates required in subsection (b)(11) <sup>1</sup> of this section with respect to a State. A funding agreement for a grant under section 300x of this title for the State is that the State will utilize such methods in making the estimates.
 
 #### (3) Date certain for compliance by Secretary
 
@@ -70,13 +66,15 @@ With respect to the provision of comprehensive community mental health services 
 
 &emsp;(A) In making a grant under section 300x of this title to a State for fiscal year 1993, the Secretary shall make a determination of the extent to which the State has implemented the plan required in subsection (a) of this section. If the Secretary determines that the State has not substantially implemented the plan, the Secretary shall, subject to subparagraph (B), reduce the amount of the allotment under section 300x of this title for the State for such fiscal year by an amount equal to 10 percent of the amount determined under section 300x–7 of this title for the State for the fiscal year.
 
-&emsp;(B) In carrying out subparagraph (A), if the Secretary determines that the State is making a good faith effort to implement the plan required in subsection (a) of this section, the Secretary may make a reduction under such subparagraph in an amount that is less than the amount specified in such subparagraph, except that the reduction may not be made in an amount that is less than 5 percent of theamount determined under section 300x–7 of this title for the State for fiscal year 1993.
+&emsp;(B) In carrying out subparagraph (A), if the Secretary determines that the State is making a good faith effort to implement the plan required in subsection (a) of this section, the Secretary may make a reduction under such subparagraph in an amount that is less than the amount specified in such subparagraph, except that the reduction may not be made in an amount that is less than 5 percent of the amount determined under section 300x–7 of this title for the State for fiscal year 1993.
 
-(July 1, 1944, ch. 373, title XIX, §1912, as added Pub. L. 102–321, title II, §201(2), July 10, 1992, 106 Stat. 379.)
+(July 1, 1944, ch. 373, title XIX, §1912, as added Pub. L. 102–321, title II, §201(2), July 10, 1992, 106 Stat. 379; amended Pub. L. 106–310, div. B, title XXXII, §3204(a), Oct. 17, 2000, 114 Stat. 1192.)
 
 #### References in Text
 
-The Individuals with Disabilities Education Act, referred to in subsec. (b)(4), (9)(A), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (b)(1), (3)(A), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
+
+Subsection (b)(11) of this section, referred to in subsec. (c)(2), was repealed by Pub. L. 106–310, div. B, title XXXII, §3204(a), Oct. 17, 2000, 114 Stat. 1192. Provisions relating to estimates formerly contained in subsec. (b)(11) are now contained in subsec. (b)(2) of this section.
 
 #### Prior Provisions
 
@@ -92,7 +90,13 @@ Another prior section 300x–1a, act July 1, 1944, ch. 373, title XIX, §1913, a
 
 Section 300x–1b, act July 1, 1944, ch. 373, title XIX, §1913, as added Oct. 19, 1984, Pub. L. 98–509, title I, §102(a), 98 Stat. 2353; amended Nov. 18, 1988, Pub. L. 100–690, title II, §2022(d), 102 Stat. 4197; Aug. 16, 1989, Pub. L. 101–93, §2(b), 103 Stat. 605, related to allotments to States and Indian tribes or tribal organizations for alcohol, drug abuse, and mental health services.
 
+#### Amendments
+
+Subsec. (b). Pub. L. 106–310 added pars. (1) to (5) and concluding provisions and struck out former pars. (1) to (12) relating to criteria for plan.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 300x, 300x–2, 300x–4, 300x–6, 300x–8, 300x–51, 300x–54, 300x–55 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -2,15 +2,15 @@
 
 (a)
 
-Injurious Animals.—Any injurious animal, the importation or interstate shipment of which is prohibited pursuant to section 42 of title 18, constitutes nonmailable matter.
+Injurious Animals.—Any injurious animal, the importation or interstate shipment of whichis prohibited pursuant to section 42 of title 18, constitutes nonmailable matter.
 
 (b)
 
-Plant Pests.—Any plant pest, the movement of which is prohibited pursuant to section 103 or 104 of the Federal Plant Pest Act (7 U.S.C. 150bb or 150cc), constitutes nonmailable matter.
+Plant Pests.—Any plant pest, the movement of which is prohibited pursuant to section 103 or 104 of the Federal Plant Pest Act (7 U.S.C. 150bb or 150cc),<sup>1</sup> constitutes nonmailable matter.
 
 (c)
 
-Plants.—Any plant, article, or matter, the importation or interstate shipment of which is prohibited pursuant to the Act of August 20, 1912 (37 Stat. 315, chapter 308; 7 U.S.C. 151 et seq.) (commonly known as the “Plant Quarantine Act”), constitutes nonmailable matter.
+Plants.—Any plant, article, or matter, the importation or interstate shipment of which is prohibited pursuant to the Act of August 20, 1912 (37 Stat. 315, chapter 308; 7 U.S.C. 151 et seq.) (commonly known as the “Plant Quarantine Act”),<sup>1</sup> constitutes nonmailable matter.
 
 (d)
 
@@ -20,7 +20,9 @@ Illegally Taken Fish, Wildlife, or Plants.—Any fish, wildlife, or plant, the c
 
 #### References in Text
 
-The Plant Quarantine Act, referred to in subsec. (c), is act Aug. 20, 1912, ch. 308, 37 Stat. 315, as amended, which is classified generally to chapter 8 (§151 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 151 of Title 7 and Tables.
+Sections 103 and 104 of the Federal Plant Pest Act (7 U.S.C. 150bb, 150cc), referred to in subsec. (b), were repealed by Pub. L. 106–224, title IV, §438(a)(2), June 20, 2000, 114 Stat. 454.
+
+The Plant Quarantine Act, referred to in subsec. (c), is act Aug. 20, 1912, ch. 308, 37 Stat. 315, as amended, which was classified generally to chapter 8 (§151 et seq.) of Title 7, Agriculture, prior to repeal by Pub. L. 106–224, title IV, §438(a)(1), June 20, 2000, 114 Stat. 454. For complete classification of this Act to the Code, see Tables.
 
 #### Short Title
 
@@ -86,7 +88,7 @@ In general.—Not later than 90 days after the date of enactment of this Act \[O
 
 &emsp;&emsp;&emsp;“(iii) the matter under the heading ‘
 
-Enforcement of the plant-quarantine Act:’ of the Act of March 4, 1915 (38 Stat. 1113; 7 U.S.C. 166) (commonly known as the ‘Terminal Inspection Act’).
+Enforcement of the plant-quarantine Act:’ of the Act of March 4, 1915 (38 Stat. 1113; 7 U.S.C. 166 \[7760\]) (commonly known as the ‘Terminal Inspection Act’).
 
 &emsp;&emsp;“(B)
 
@@ -165,4 +167,6 @@ Study.—Not later than 1 year after the program established under subsection (a
 #### Section Referred to in Other Sections
 
 This section is referred to in title 18 section 1716D.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

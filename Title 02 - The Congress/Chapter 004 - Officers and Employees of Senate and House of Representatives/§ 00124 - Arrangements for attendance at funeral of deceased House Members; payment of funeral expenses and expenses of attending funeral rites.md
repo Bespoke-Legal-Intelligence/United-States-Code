@@ -26,7 +26,3 @@ Aug. 1, 1953, ch. 304, title I, 67 Stat. 325.
 
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
-#### Cross References
-
-Monuments to deceased House Members interred in Congressional Cemetery, see section 51 of this title.
-

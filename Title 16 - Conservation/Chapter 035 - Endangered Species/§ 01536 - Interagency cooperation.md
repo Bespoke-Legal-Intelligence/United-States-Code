@@ -88,7 +88,7 @@ After initiation of consultation required under subsection (a)(2) of this sectio
 
 (B) While away from their homes or regular places of business in the performance of services for the Committee, members of the Committee shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703 of title 5.
 
-(5)(A) Five members of the Committee or their representatives shall constitute a quorum for the transaction of any function of the Committee, except that, in no case shall any representative be considered in determining the existence of a quorum for the transaction of any function of the Committee if that function involves avote by the Committee on any matter before the Committee.
+(5)(A) Five members of the Committee or their representatives shall constitute a quorum for the transaction of any function of the Committee, except that, in no case shall any representative be considered in determining the existence of a quorum for the transaction of any function of the Committee if that function involves a vote by the Committee on any matter before the Committee.
 
 (B) The Secretary of the Interior shall be the Chairman of the Committee.
 
@@ -134,7 +134,7 @@ Not later than 90 days after November 10, 1978, the Secretary shall promulgate r
 
 &emsp;(A) determine that the Federal agency concerned and the exemption applicant have—
 
-&emsp;&emsp;(i) carried out the consultation responsibilities described in subsection (a) of this section in good faith and made a reasonable and responsible effort to develop and fairly consider modifications or reasonable andprudent alternatives to the proposed agency action which would not violate subsection (a)(2) of this section;
+&emsp;&emsp;(i) carried out the consultation responsibilities described in subsection (a) of this section in good faith and made a reasonable and responsible effort to develop and fairly consider modifications or reasonable and prudent alternatives to the proposed agency action which would not violate subsection (a)(2) of this section;
 
 &emsp;&emsp;(ii) conducted any biological assessment required by subsection (c) of this section; and
 
@@ -230,7 +230,7 @@ Notwithstanding sections 1533(d) and 1538(a)(1)(B) and (C) of this title, sectio
 
 #### (p) Exemptions in Presidentially declared disaster areas
 
-In any area which has been declared by the President to be a major disaster area under the Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5121 et seq.\], the President is authorized to make the determinations required by subsections (g) and (h) of this section for any project for the repair or replacement of a public facility substantially as it existed prior to the disaster under section 405 or 406 of the Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5171 or 5172\], and which the President determines\(1) is necessary to prevent the recurrence of such a natural disaster and to reduce the potential loss of human life, and (2) to involve an emergency situation which does not allow the ordinary procedures of this section to be followed. Notwithstanding any other provision of this section, the Committee shall accept the determinations of the President under this subsection.
+In any area which has been declared by the President to be a major disaster area under the Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5121 et seq.\], the President is authorized to make the determinations required by subsections (g) and (h) of this section for any project for the repair or replacement of a public facility substantially as it existed prior to the disaster under section 405 or 406 of the Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5171 or 5172\], and which the President determines (1) is necessary to prevent the recurrence of such a natural disaster and to reduce the potential loss of human life, and (2) to involve an emergency situation which does not allow the ordinary procedures of this section to be followed. Notwithstanding any other provision of this section, the Committee shall accept the determinations of the President under this subsection.
 
 (Pub. L. 93–205, §7, Dec. 28, 1973, 87 Stat. 892; Pub. L. 95–632, §3, Nov. 10, 1978, 92 Stat. 3752; Pub. L. 96–159, §4, Dec. 28, 1979, 93 Stat. 1226; Pub. L. 97–304, §§4(a), 8(b), Oct. 13, 1982, 96 Stat. 1417, 1426; Pub. L. 99–659, title IV, §411(b), (c), Nov. 14, 1986, 100 Stat. 3741, 3742; Pub. L. 100–707, title I, §109(g), Nov. 23, 1988, 102 Stat. 4709.)
 
@@ -294,7 +294,7 @@ Subsec. (<i>o</i>). Pub. L. 97–304, §4(a)(7), substituted “Notwithstanding 
 
 Subsec. (q). Pub. L. 97–304, §8(b), struck out subsec. (q) which authorized appropriations of $600,000 for each of fiscal years 1979, 1980, 1981, and 1982 in carrying out functions under subsecs. (e), (f), (g), and (h) of this section. See section 1542(c) of this title.
 
-1979—Subsec. (a). Pub. L. 96–159, §4(1), designated existing provisions as par. (1); struck out third sentence requirement that each Federal agency, in consultation with and with the assistance of the Secretary, insure that any action authorized, funded, or carried out by such agency (referred to as “agency action”) did not jeopardize the continued existence of any endangered species or threatened species or result in the destruction or adverse modification of habitat of such species which was determined by the Secretary, after consultation as appropriate with the affected States, to be critical, unless the agency was granted an exemption for such action by the Committee pursuant to subsec. (h) of this section; and added pars. (2) and (3), incorporating former third sentence provisions.
+1979—Subsec. (a). Pub. L. 96–159, §4(1), designated existing provisions as par. (1); struck out third sentencerequirement that each Federal agency, in consultation with and with the assistance of the Secretary, insure that any action authorized, funded, or carried out by such agency (referred to as “agency action”) did not jeopardize the continued existence of any endangered species or threatened species or result in the destruction or adverse modification of habitat of such species which was determined by the Secretary, after consultation as appropriate with the affected States, to be critical, unless the agency was granted an exemption for such action by the Committee pursuant to subsec. (h) of this section; and added pars. (2) and (3), incorporating former third sentence provisions.
 
 Subsec. (b). Pub. L. 96–159, §4(2), (3), substituted “he believes would not violate subsection (a)(2) of this section and” for “he believes would avoid jeopardizing the continued existence of any endangered or threatened species or adversely modifying the critical habitat of such species, and which” before “can be taken” and introductory “subsection (a)(2) of this section” for “subsection (a) of this section”.
 

@@ -1,6 +1,6 @@
 ### §12302. Ready Reserve
 
-(a) In time of national emergency declared by the President after January 1, 1953, or whenotherwise authorized by law, an authority designated by the Secretary concerned may, without the consent of the persons concerned, order any unit, and any member not assigned to a unit organized to serve as a unit, in the Ready Reserve under the jurisdiction of that Secretary to active duty (other than for training) for not more than 24 consecutive months.
+(a) In time of national emergency declared by the President after January 1, 1953, or when otherwise authorized by law, an authority designated by the Secretary concerned may, without the consent of the persons concerned, order any unit, and any member not assigned to a unit organized to serve as a unit, in the Ready Reserve under the jurisdiction of that Secretary to active duty (other than for training) for not more than 24 consecutive months.
 
 (b) To achieve fair treatment as between members in the Ready Reserve who are being considered for recall to duty without their consent, consideration shall be given to—
 
@@ -40,7 +40,7 @@ July 9, 1952, ch. 608, §233(b), 66 Stat. 489.
 
 In subsection (a), the words “after January 1, 1953” are substituted for the word “hereafter”, to reflect the effective date of the source statute. The words “without the consent of the persons concerned” are substituted for the word “involuntarily”.
 
-The words “under the jurisdiction of that Secretary” are inserted for clarity. The last sentence of the revised subsection is substituted for 50:961(b)(1) (proviso). The words “and the members thereof” and “and required to perform” are omitted as surplusage.
+The words “under the jurisdiction of that Secretary” are inserted for clarity. The last sentence of the revised subsection is substituted for 50:961(b)(1) (proviso). Thewords “and the members thereof” and “and required to perform” are omitted as surplusage.
 
 In subsection (b), the words “to achieve” are substituted for the words “in the interest of”. The words “without their consent” are substituted for the word “involuntarily”. The words “who are being considered for” are inserted for clarity. The words “prescribe such policies and procedures” are substituted for the words “promulgate such policies and establish such procedures”. The words “as he considers necessary” are substituted for the words “as may be required in his opinion”. The words “this subsection” are substituted for the words “our intent here declared”. The words “at least once a year” are substituted for the words “from time to time, and at least annually”. The words “Senate and the House of Representatives” are substituted for the word “Congress”. 50:961(b)(2) (1st 18 words) is omitted as surplusage. The words “with the objective” and “found to be” are omitted as surplusage.
 
@@ -111,14 +111,6 @@ Sec. 6. This order is intended to improve the internal management of the executi
 Sec. 7. This order is effective immediately, and shall be transmitted to the Congress and published in the Federal Register.
 
 George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Cross References
-
-Ready Reserve—
-
-&emsp;&emsp;Composition and authorized strength, see section 10142 of this title.
-
-&emsp;&emsp;Ordering to active duty during national emergencies, see section 10103 of this title.
 
 #### Section Referred to in Other Sections
 

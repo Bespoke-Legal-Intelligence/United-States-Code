@@ -14,7 +14,7 @@ Section 903(b) of Pub. L. 98–63 provided that: “The provisions of this secti
 
 #### Sale or Lease of Property, Supplies, or Services to Congressional Budget Office Deemed Sale or Lease to Congress
 
-Sale or lease of property, supplies, or services to the Congressional Budget Office deemed a sale or lease of such property, supplies, or services to the Congress, see section 605 of this title.
+Sale or lease of property, supplies, or services to the Congressional Budget Office deemed a sale or lease ofsuch property, supplies, or services to the Congress, see section 605 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -2,7 +2,7 @@
 
 #### (a) Exclusive charge and control of all vehicular and other traffic
 
-The Capitol Police Board, consisting of the Sergeant at Arms of the United States Senate, the Sergeant at Arms of the House of Representatives, and the Architect of the Capitol, shall have exclusive charge and control of the regulation and movement of all vehicular and other traffic, including the parking and impounding of vehicles and limiting the speed thereof, within the United States Capitol Grounds; and said Board is authorized and empowered to make and enforce all necessary regulations therefor and to prescribe penalties for violation of such regulations, such penalties not to exceed a fine of $300 or imprisonment for not more than ninety days. Notwithstanding the foregoing provisions of this section those provisions of the District of Columbia Traffic Act of 1925, as amended \[D.C. Code, §40–301 et seq. and 40–701 et seq.\], for the violation of which specific penalties are provided in said Act, as amended, shall be applicable to the United States Capitol Grounds. Prosecutions for violation of such regulations shall be in the Superior Court of the District of Columbia, upon information by the Corporation Counsel of the District of Columbia or any of his assistants.
+The Capitol Police Board, consisting of the Sergeant at Arms of the United States Senate, the Sergeant at Arms of the House of Representatives, and the Architect of the Capitol, shall have exclusive charge and control of the regulation and movement of all vehicular and other traffic, including the parking and impounding of vehicles and limiting the speed thereof, within the United States Capitol Grounds; and said Board is authorized and empowered to make and enforce all necessary regulations therefor and to prescribe penalties for violation of such regulations, such penalties not to exceed a fine of $300 or imprisonment for not more than ninety days. Notwithstanding the foregoing provisions of this section those provisions of the District of Columbia Traffic Act of 1925, as amended, for the violation of which specific penalties are provided in said Act, as amended, shall be applicable to the United States Capitol Grounds. Prosecutions for violation of such regulations shall be in the Superior Court of the District of Columbia, upon information by the Corporation Counsel of the District of Columbia or any of his assistants.
 
 #### (b) Promulgation of regulations
 
@@ -20,11 +20,7 @@ It shall be the duty of the Mayor of the District of Columbia, or any officer or
 
 #### References in Text
 
-The District of Columbia Traffic Act of 1925, as amended, referred to in subsec. (a), is act Mar. 3, 1925, ch. 443, 43 Stat. 1119, as amended, which appears in chapter 3 (§40–301 et seq.) and chapter 7 (§40–701 et seq.) of Title 40, Motor Vehicles, of the District of Columbia Code.
-
-#### Codification
-
-Section is also set out in D.C. Code, §9–127.
+The District of Columbia Traffic Act of 1925, as amended, referred to in subsec. (a), is act Mar. 3, 1925, ch. 443, 43 Stat. 1119, as amended, which is not classified to the Code.
 
 #### Amendments
 
@@ -46,7 +42,7 @@ Section 771 of Pub. L. 93–198 provided that the amendment made by Pub. L. 93�
 
 #### Transfer of Functions
 
-Except as otherwise provided in Reorg. Plan No. 3, of 1967, functions of Board of Commissioners of District of Columbia transferred to Commissioner of District of Columbia by section 401 of Reorg. Plan No. 3 of 1967. Office of Commissioner of District of Columbia, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by Pub. L. 93–198, title VII, §711, Dec. 24, 1973, 87 Stat. 818, and replaced by office of Mayor of District of Columbia by section 421 of Pub. L. 93–198, classified to section 1–241 of the District of Columbia Code. Accordingly, “Mayor” substituted in subsec. (d) for “commissioner”.
+Except as otherwise provided in Reorg. Plan No. 3, of 1967, functions of Board of Commissioners of District ofColumbia transferred to Commissioner of District of Columbia by section 401 of Reorg. Plan No. 3 of 1967. Office of Commissioner of District of Columbia, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by Pub. L. 93–198, title VII, §711, Dec. 24, 1973, 87 Stat. 818, and replaced by office of Mayor of District of Columbia by section 421 of Pub. L. 93–198. Accordingly, “Mayor” substituted in subsec. (d) for “commissioner”.
 
 #### Section Referred to in Other Sections
 

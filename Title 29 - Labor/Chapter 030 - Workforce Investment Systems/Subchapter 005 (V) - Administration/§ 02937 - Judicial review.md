@@ -4,7 +4,7 @@
 
 #### (1) Petition
 
-&emsp;With respect to any final order by the Secretary under section 2936 of this title by which the Secretary awards, declines to award, or only conditionally awards, financial assistance under his <sup>1</sup> chapter, or any final order ofthe Secretary under section 2936 of this title with respect to a corrective action or sanction imposed under section 2934 of this title, any party to a proceeding which resulted in such final order may obtain review of such final order in the United States Court of Appeals having jurisdiction over the applicant or recipient of funds involved, by filing a review petition within 30 days after the date of issuance of such final order.
+&emsp;With respect to any final order by the Secretary under section 2936 of this title by which the Secretary awards, declines to award, or only conditionally awards, financial assistance under his <sup>1</sup> chapter, or any final order of the Secretary under section 2936 of this title with respect to a corrective action or sanction imposed under section 2934 of this title, any party to a proceeding which resulted in such final order may obtain review of such final order in the United States Court of Appeals having jurisdiction over the applicant or recipient of funds involved, by filing a review petition within 30 days after the date of issuance of such final order.
 
 #### (2) Action on petition
 
@@ -19,6 +19,10 @@
 The court shall have jurisdiction to make and enter a decree affirming, modifying, or setting aside the order of the Secretary in whole or in part. The judgment of the court regarding the order shall be final, subject to certiorari review by the Supreme Court as provided in section 1254(1) of title 28.
 
 (Pub. L. 105–220, title I, §187, Aug. 7, 1998, 112 Stat. 1049.)
+
+#### Prior Provisions
+
+Provisions similar to this section were contained in section 1578 of this title prior to repeal by Pub. L. 105–220.
 
 #### Section Referred to in Other Sections
 

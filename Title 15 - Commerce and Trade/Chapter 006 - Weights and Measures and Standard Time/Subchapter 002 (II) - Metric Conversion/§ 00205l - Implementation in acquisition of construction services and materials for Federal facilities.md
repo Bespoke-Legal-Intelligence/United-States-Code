@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Construction services and materials for Federal facilities shall be procured in accordance with the policies and procedures set forth in chapter 137 of title 10, section 2377 of title 10, title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.), and section 205b(2) of this title. Determination of a design method shall be based upon preliminary market research as required under section 2377(c) of title 10 and section 314B(c) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 264b(c)). If the requirements of this subchapter conflict with the provisions of section 2377 of title 10 or section 314B of the Federal Property and Administrative Services Act of 1949, then the provisions of <sup>1</sup> 2377 or 314B shall take precedence.
+Construction services and materials for Federal facilities shall be procured in accordance with the policies and procedures set forth inchapter 137 of title 10, section 2377 of title 10, title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.), and section 205b(2) of this title. Determination of a design method shall be based upon preliminary market research as required under section 2377(c) of title 10 and section 314B(c) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 264b(c)). If the requirements of this subchapter conflict with the provisions of section 2377 of title 10 or section 314B of the Federal Property and Administrative Services Act of 1949, then the provisions of <sup>1</sup> 2377 or 314B shall take precedence.
 
 #### (b) Concrete masonry units
 
@@ -66,7 +66,7 @@ The provisions contained in subsections (b) and (c) of this section shall expire
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (a), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title III of the act is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts. Forcomplete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40, Public Buildings, Property, and Works, and Tables.
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (a), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title III of the act is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40, Public Buildings, Property, and Works, and Tables.
 
 The effective date of the Savings in Construction Act of 1996, referred to in subsecs. (b)(1), (c)(2), and (e), is 90 days after Oct. 11, 1996. See Effective Date of 1996 Amendment; Savings Provision note set out under section 205c of this title.
 

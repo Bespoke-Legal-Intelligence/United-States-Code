@@ -2,11 +2,11 @@
 
 #### (a) Ascertainment of entitlement
 
-On or about the first day of October in each year after June 26, 1953, the Secretary of Agriculture shall ascertain as to each State whether it is entitled to receive its share of the annual appropriation for cooperative agricultural extension work under this subchapter and the amount which it is entitled to receive. Before the funds herein provided shall become available to any college for any fiscal year, plans for the work to be carried on under this subchapter shall be submitted by the proper officials of each college and approved by the Secretary of Agriculture. The Secretary shall ensure that each college seeking to receive funds under this subchapter has in place appropriate guidelines, as determined by the Secretary, to minimize actual or potential conflicts of interest among employees of such college whose salaries are funded in whole or in part with such funds.
+On or about the first day of October in each year after June 26, 1953, the Secretary of Agriculture shall ascertain as to each State whether it is entitled to receive its share of the annual appropriation for cooperative agricultural extension work under this subchapter and the amount which it is entitled to receive. Before the funds herein provided shall become available to any college for any fiscal year, plans for thework to be carried on under this subchapter shall be submitted by the proper officials of each college and approved by the Secretary of Agriculture. The Secretary shall ensure that each college seeking to receive funds under this subchapter has in place appropriate guidelines, as determined by the Secretary, to minimize actual or potential conflicts of interest among employees of such college whose salaries are funded in whole or in part with such funds.
 
 #### (b) Time and manner of payment; related reports
 
-The amount to which a State is entitled shall be paid in equal quarterly payments in or aboutJuly, October, January, and April of each year to the treasurer or other officer of the State duly authorized by the laws of the State to receive the same, and such officer shall be required to report to the Secretary of Agriculture on or about the first day of April of each year, a detailed statement of the amount so received during the previous fiscal year and its disbursement, on forms prescribed by the Secretary of Agriculture.
+The amount to which a State is entitled shall be paid in equal quarterly payments in or about July, October, January, and April of each year to the treasurer or other officer of the State duly authorized by the laws of the State to receive the same, and such officer shall be required to report to the Secretary of Agriculture on or about the first day of April of each year, a detailed statement of the amount so received during the previous fiscal year and its disbursement, on forms prescribed by the Secretary of Agriculture.
 
 #### (c) Requirements related to plan of work
 
@@ -53,10 +53,6 @@ To the maximum extent practicable, the Secretary shall consider a plan of work s
 #### Effective Date of 1998 Amendment
 
 Pub. L. 105–185, title II, §202(c), June 23, 1998, 112 Stat. 533, provided that: “The amendments made by this section \[amending this section and section 361g of this title\] take effect on October 1, 1999.”
-
-#### Cross References
-
-Penalty mail, authorization to use, see section 3202 of Title 39, Postal Service.
 
 #### Section Referred to in Other Sections
 

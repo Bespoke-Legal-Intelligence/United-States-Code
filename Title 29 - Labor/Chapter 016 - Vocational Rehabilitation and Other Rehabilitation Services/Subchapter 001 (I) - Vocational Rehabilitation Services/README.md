@@ -6,7 +6,7 @@ Title I of the Rehabilitation Act of 1973, comprising this subchapter, was origi
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 705, 718, 764, 795g, 795i, 795j, 795k, 795<i>l</i>, 796, 796c, 2822, 2841, 2864, 3011 of this title; title 20 sections 1413, 9271; title 42 sections 422, 1382d.
+This subchapter is referred to in sections 705, 718, 764, 795g, 795i, 795j, 795k, 795<i>l</i>, 796, 796c, 2822, 2841, 2864, 3011 of this title; title 20 sections 1413, 9271; title 42 sections 422, 1320b–19, 1382d.
 
 
 ---

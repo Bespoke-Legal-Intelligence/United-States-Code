@@ -42,7 +42,7 @@ Subject to valid existing rights, all Federal lands within the conservation area
 
 (3) In order to better implement the management plan, the Secretary may enter into cooperative agreements with appropriate State and local agencies pursuant to section 307(b) of the Federal Land Policy and Management Act of 1976 \[43 U.S.C. 1737(b)\].
 
-(4) In order to assist in the development and implementation of the management plan, the Secretary may authorize appropriate research,including research concerning the environmental, biological, hydrological, cultural, and other characteristics, resources, and values of the conservation area, pursuant to section 307(a) of the Federal Land Policy and Management Act of 1976 \[43 U.S.C. 1737(a)\].
+(4) In order to assist in the development and implementation of the management plan, the Secretary may authorize appropriate research, including research concerning the environmental, biological, hydrological, cultural, and other characteristics, resources, and values of the conservation area, pursuant to section 307(a) of the Federal Land Policy and Management Act of 1976 \[43 U.S.C. 1737(a)\].
 
 #### (h) Acquisition and boundary adjustments
 
@@ -58,7 +58,7 @@ The Congress does not intend for the establishment of the conservation area to l
 
 #### (j) Advisory committee
 
-The Secretary shall establish an advisory committee to advise the Secretary with respect to the preparation and implementation of the management plan. Such advisory committee shall consist of seven members appointed by the Secretary. One member shall be appointed from among recommendations submitted by the Governor of Arizona, one member shall be appointed from among recommendations submitted by the Graham County Board of Supervisors and one member shall be appointed from among recommendations submitted by the Greenlee County Board of Supervisors. The remaining members shall be persons recognized as experts in wildlife conservation, riparian ecology, archeology, paleontology, or other disciplines directly related to the purposes for which the conservation area is established.
+The Secretary shall establish an advisory committee to advise the Secretary with respectto the preparation and implementation of the management plan. Such advisory committee shall consist of seven members appointed by the Secretary. One member shall be appointed from among recommendations submitted by the Governor of Arizona, one member shall be appointed from among recommendations submitted by the Graham County Board of Supervisors and one member shall be appointed from among recommendations submitted by the Greenlee County Board of Supervisors. The remaining members shall be persons recognized as experts in wildlife conservation, riparian ecology, archeology, paleontology, or other disciplines directly related to the purposes for which the conservation area is established.
 
 #### (k) Report
 
@@ -80,9 +80,7 @@ The Federal Land Policy and Management Act of 1976, referred to in subsec. (d)(1
 
 The public land laws, referred to in subsec. (e), are classified generally to Title 43.
 
-The United States mining laws, referred to in subsec. (e), are classified generally to Title 30, Mineral Lands and Mining.
-
-Mineral leasing laws, referred to in subsec. (e), have been defined in sections 351, 505, 530, and 541e of Title 30 to mean acts Oct. 20, 1914, ch. 330, 38 Stat. 741; Feb. 25, 1920, ch. 85, 41 Stat. 437; Apr. 17, 1926, ch. 158, 44 Stat. 301; and Feb. 7, 1927, ch. 66, 44 Stat. 1057. The act of Oct. 20, 1914, was repealed by Pub. L. 86–252, §1, Sept. 9, 1959, 73 Stat. 490. The act of Feb. 25, 1920, is known as the Mineral Leasing Act and is classified generally to chapter 3A (§181 et seq.) of Title 30. The act of Apr. 17, 1926, is classified generally to subchapter VIII (§271 et seq.) of chapter 3A of Title 30. The act of Feb. 7, 1927, is classified principally to subchapter IX (§281 et seq.) of chapter 3A of Title 30. For complete classification of these Acts to the Code, see Tables.
+The United States mining laws and the mineral leasing laws, referred to in subsec. (e), are classified generally to Title 30, Mineral Lands and Mining.
 
 Geothermal leasing laws, referred to in subsec. (e), are classified principally to chapter 23 (§1001 et seq.) of Title 30.
 
@@ -98,7 +96,7 @@ Committee on Natural Resources of House of Representatives treated as referring 
 
 #### Short Title
 
-Section 1 of Pub. L. 101–628 provided that: “Titles I through III of this Act \[enacting this subchapter andprovisions listed in a table of Wilderness Areas set out under section 1132 of this title\] may be cited as the ‘Arizona Desert Wilderness Act of 1990’.”
+Section 1 of Pub. L. 101–628 provided that: “Titles I through III of this Act \[enacting this subchapter and provisions listed in a table of Wilderness Areas set out under section 1132 of this title\] may be cited as the ‘Arizona Desert Wilderness Act of 1990’.”
 
 #### Termination of Advisory Committees
 

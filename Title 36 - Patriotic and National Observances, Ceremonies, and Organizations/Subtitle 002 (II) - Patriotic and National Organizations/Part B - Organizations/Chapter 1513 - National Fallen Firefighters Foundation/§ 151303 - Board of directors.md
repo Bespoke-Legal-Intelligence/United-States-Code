@@ -36,17 +36,17 @@ Meetings.—The board shall meet at the call of the chairman at least once a yea
 
 (f)
 
-Status.—Appointment to the board does not constitute appointment as an officer or employee of the United States Government for the purpose of any law of the United States.
+Status and Compensation.—
+
+&emsp;(1) Appointment to the board shall not constitute employment by or the holding of an office of the United States.
+
+&emsp;(2) Members of the board shall serve without compensation.
 
 (g)
 
-Compensation.—Members of the board serve without compensation.
-
-(h)
-
 Liability.—Members of the board are not personally liable, except for gross negligence.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1399; Pub. L. 105–354, §1(8), Nov. 3, 1998, 112 Stat. 3244.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1399; Pub. L. 105–354, §1(8), Nov. 3, 1998, 112 Stat. 3244; Pub. L. 106–503, title I, §113(b), Nov. 13, 2000, 114 Stat. 2304.)
 
 Historical and Revision Notes
 
@@ -102,7 +102,7 @@ Oct. 26, 1992, Pub. L. 102–522, title II, §§203(a)–(f), 204(c)(2) (words a
 
 &nbsp;
 
-Subsection (a) is substituted for “The Foundation shall have a governing Board of Directors (hereafter inthis chapter referred to as the ‘Board’)” for consistency in the revised title and to eliminate unnecessary words.
+Subsection (a) is substituted for “The Foundation shall have a governing Board of Directors (hereafter in this chapter referred to as the ‘Board’)” for consistency in the revised title and to eliminate unnecessary words.
 
 In subsection (b)(1), the words “(hereafter in this chapter referred to as the ‘Administrator’)” in 36:5202(a)(2) are omitted as unnecessary. The words “Within 3 months after October 26, 1992” in 36:5202(b) are omitted as obsolete.
 
@@ -117,6 +117,10 @@ Subsection (f)(1) is substituted for “Appointment to the Board shall not const
 This amends subsections (f) and (g) of section 151303 of title 36, as enacted by section 1 of Public Law 105–225 (Aug. 12, 1998, 112 Stat. 1400). The amendment clarifies the restatement of 36:5202(a)(3) by making it clear that appointment to the board of directors of the National Fallen Firefighters Foundation does not constitute appointment as an officer or employee of the United States Government for the purpose of any law of the United States.
 
 #### Amendments
+
+2000—Subsec. (f). Pub. L. 106–503, §113(b)(1), added subsec. (f) and struck out heading and text of former subsec. (f). Text read as follows: “Appointment to the board does not constitute appointment as an officer or employee of the United States Government for the purpose of any law of the United States.”
+
+Subsecs. (g), (h). Pub. L. 106–503, §113(b), redesignated subsec. (h) as (g) and struck out heading and text of former subsec. (g). Text read as follows: “Members of the board serve without compensation.”
 
 1998—Subsecs. (f) to (h). Pub. L. 105–354 amended subsecs. (f) and (g) generally and added subsec. (h). Prior to amendment, subsecs. (f) and (g) read as follows:
 

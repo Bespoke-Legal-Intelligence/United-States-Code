@@ -4,6 +4,10 @@ The flag of the United States shall be thirteen horizontal stripes, alternate re
 
 (July 30, 1947, ch. 389, 61 Stat. 642.)
 
+#### Short Title of 2000 Amendment
+
+Pub. L. 106–252, §1, July 28, 2000, 114 Stat. 626, provided that: “This Act \[enacting sections 116 to 126 of this title and provisions set out as a note under section 116 of this title\] may be cited as the ‘Mobile Telecommunications Sourcing Act’.”
+
 #### Executive Order No. 10798
 
 Ex. Ord. No. 10798, Jan. 3, 1959, 24 F.R. 79, which prescribed proportions and sizes of flags until July 4, 1960, was revoked by section 33 of Ex. Ord. No. 10834, set out as a note under this section.

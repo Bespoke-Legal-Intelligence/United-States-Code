@@ -14,7 +14,7 @@
 
 #### (1) In general
 
-&emsp;Any State that receives a grant under this section shall use the funds made available through the grant to carry out the activitiesdescribed in paragraph (2) and may use the funds to carry out the activities described in paragraph (3).
+&emsp;Any State that receives a grant under this section shall use the funds made available through the grant to carry out the activities described in paragraph (2) and may use the funds to carry out the activities described in paragraph (3).
 
 #### (2) Required activities
 
@@ -212,7 +212,7 @@
 
 #### (ii) Fifth year
 
-&emsp;&emsp;&emsp;An eligible State that would have been in the fifth year of a second extension grant made under section 103 of the Technology-Related Assistance for Individuals With Disabilities Act of 1988 during a fiscal year, if that Act had been reauthorized for that fiscal year, shall receive under paragraph (2) a grant in an amount equal to 50 percent of the funding that the State received in the third year of a second extension grant under section 103 of that Act or under this section, as appropriate.
+&emsp;&emsp;&emsp;An eligible State that would have been in the fifth year of a second extensiongrant made under section 103 of the Technology-Related Assistance for Individuals With Disabilities Act of 1988 during a fiscal year, if that Act had been reauthorized for that fiscal year, shall receive under paragraph (2) a grant in an amount equal to 50 percent of the funding that the State received in the third year of a second extension grant under section 103 of that Act or under this section, as appropriate.
 
 #### (C) Prohibition on funds after fifth year of a second extension grant
 

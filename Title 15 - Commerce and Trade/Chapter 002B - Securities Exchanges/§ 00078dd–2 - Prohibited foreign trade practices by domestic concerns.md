@@ -56,7 +56,7 @@ It shall be an affirmative defense to actions under subsection (a) or (i) of thi
 
 Not later than 6 months after August 23, 1988, the Attorney General, after consultation with the Securities and Exchange Commission, the Secretary of Commerce, the United States Trade Representative, the Secretary of State, and the Secretary of the Treasury, and after obtaining the views of all interested persons through public notice and comment procedures, shall determine to what extent compliance with this section would be enhanced and the business community would be assisted by further clarification of the preceding provisions of this section and may, based on such determination and to the extent necessary and appropriate, issue—
 
-&emsp;(1) guidelines describing specific types of conduct, associated with common types of export sales arrangements and business contracts, which for purposes of the Department of Justice's present enforcement policy, the Attorney General determines would be in conformance with the preceding provisions of this section; and
+&emsp;(1) guidelines describing specific types of conduct, associated with common types of export sales arrangements and business contracts, which for purposes of the Departmentof Justice's present enforcement policy, the Attorney General determines would be in conformance with the preceding provisions of this section; and
 
 &emsp;(2) general precautionary procedures which domestic concerns may use on a voluntary basis to conform their conduct to the Department of Justice's present enforcement policy regarding the preceding provisions of this section.
 
@@ -70,7 +70,7 @@ Not later than 6 months after August 23, 1988, the Attorney General, after consu
 
 (3) Any domestic concern who has made a request to the Attorney General under paragraph (1) may withdraw such request prior to the time the Attorney General issues an opinion in response to such request. Any request so withdrawn shall have no force or effect.
 
-(4) The Attorney General shall, to the maximum extent practicable, provide timely guidance concerning the Department of Justice's present enforcement policy with respect to the preceding provisions of this section to potential exporters and small businesses that are unable to obtain specialized counsel on issues pertaining to such provisions. Such guidance shall be limited to responses to requests under paragraph (1) concerning conformity of specified prospective conduct with the Department of Justice's present enforcement policy regarding the preceding provisions of this section and generalexplanations of compliance responsibilities and of potential liabilities under the preceding provisions of this section.
+(4) The Attorney General shall, to the maximum extent practicable, provide timely guidance concerning the Department of Justice's present enforcement policy with respect to the preceding provisions of this section to potential exporters and small businesses that are unable to obtain specialized counsel on issues pertaining to such provisions. Such guidance shall be limited to responses to requests under paragraph (1) concerning conformity of specified prospective conduct with the Department of Justice's present enforcement policy regarding the preceding provisions of this section and general explanations of compliance responsibilities and of potential liabilities under the preceding provisions of this section.
 
 #### (g) Penalties
 
@@ -94,7 +94,7 @@ For purposes of this section:
 
 &emsp;&emsp;(B) any corporation, partnership, association, joint-stock company, business trust, unincorporated organization, or sole proprietorship which has its principal place of business in the United States, or which is organized under the laws of a State of the United States or a territory, possession, or commonwealth of the United States.
 
-&emsp;(2)(A) The term “foreign official” means any officer or employee of a foreign government or any department, agency, or instrumentality thereof, or of a public international organization, or any person acting in an official capacity for or on behalf of any such government or department, agency, or instrumentality, or for or on behalf of any such public international organization.
+&emsp;(2)(A) The term “foreign official” means any officer or employee of a foreign government orany department, agency, or instrumentality thereof, or of a public international organization, or any person acting in an official capacity for or on behalf of any such government or department, agency, or instrumentality, or for or on behalf of any such public international organization.
 
 &emsp;(B) For purposes of subparagraph (A), the term “public international organization” means—
 
@@ -134,7 +134,7 @@ For purposes of this section:
 
 (1) It shall also be unlawful for any United States person to corruptly do any act outside the United States in furtherance of an offer, payment, promise to pay, or authorization of the payment of any money, or offer, gift, promise to give, or authorization of the giving of anything of value to any of the persons or entities set forth in paragraphs (1), (2), and (3) of subsection (a) of this section, for the purposes set forth therein, irrespective of whether such United States person makes use of the mails or any means or instrumentality of interstate commerce in furtherance of such offer, gift, payment, promise, or authorization.
 
-(2) As used in this subsection, the term “United States person” means a national of the United States (as defined in section 1101 of title 8) or any corporation, partnership, association,joint-stock company, business trust, unincorporated organization, or sole proprietorship organized under the laws of the United States or any State, territory, possession, or commonwealth of the United States, or any political subdivision thereof.
+(2) As used in this subsection, the term “United States person” means a national of the United States (as defined in section 1101 of title 8) or any corporation, partnership, association, joint-stock company, business trust, unincorporated organization, or sole proprietorship organized under the laws of the United States or any State, territory, possession, or commonwealth of the United States, or any political subdivision thereof.
 
 (Pub. L. 95–213, title I, §104, Dec. 19, 1977, 91 Stat. 1496; Pub. L. 100–418, title V, §5003(c), Aug. 23, 1988, 102 Stat. 1419; Pub. L. 103–322, title XXXIII, §330005, Sept. 13, 1994, 108 Stat. 2142; Pub. L. 105–366, §3, Nov. 10, 1998, 112 Stat. 3304.)
 

@@ -6,7 +6,7 @@
 
 &emsp;(2) an employee of a State or local government to his agency;
 
-> for work of mutual concern to his agency and the State or local government that he determines will be beneficial to both. The period of an assignment under this subchapter may not exceed two years. However, the head of a Federal agency may extend the period of assignment for not more than two additional years. In the case of assignments made to Indian tribes or tribal organizations as defined in section 3371(2)(C) of this subchapter,<sup>1</sup> the head of an executive agency may extend the period of assignment for any period of time where it is determined that this will continue to benefit both the executive agency and the Indian tribe or tribal organization. If the assigned employee fails to complete the period of assignment and there is another employee willing and available to do so, the Secretary may assign the employee to complete the period of assignment and may execute an agreement with the tribal organization with respect to the replacement employee. That agreement may provide for a different period of assignment as may be agreed to by the Secretary and the tribal organization.
+> for work of mutual concern to his agency and the State or local government that he determines will be beneficial to both. The period of an assignment under this subchapter may not exceed two years. However, the head of a Federal agency may extend the period of assignment for not more than two additional years. In the case of assignments made to Indian tribes or tribal organizations as defined in section 3371(2)(C) of this subchapter, the head of an executive agency may extend the period of assignment for any period of time where it is determined that this will continue to benefit both the executive agency and the Indian tribe or tribal organization. If the assigned employee fails to complete the period of assignment and there is another employee willing and available to do so, the Secretary may assign the employee to complete the period of assignment and may execute an agreement with the tribal organization with respect to the replacement employee. That agreement may provide for a different period of assignment as may be agreed to by the Secretary and the tribal organization.
 
 (b) This subchapter is authority for and applies to the assignment of—
 
@@ -63,6 +63,4 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 #### Section Referred to in Other Sections
 
 This section is referred to in title 16 sections 1a–2, 471j; title 25 section 450i.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “this title,”.</i>
 

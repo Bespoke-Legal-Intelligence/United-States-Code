@@ -2,7 +2,7 @@
 
 (a)(1) Upon receipt of the report of a selection board submitted to him under section 617(a) of this title, the Secretary of the military department concerned shall review the report to determine whether the board has acted contrary to law or regulation or to guidelines furnished the board under section 615(b) of this title. Following such review, unless the Secretary concerned makes a determination as described in paragraph (2), the Secretary shall submit the report as required by subsection (b) or (c), as appropriate.
 
-(2) If, on the basis of a review of the report under paragraph (1), the Secretary of the military department concerned determines that the board acted contrary to law or regulation or to guidelines furnished the board under section 615(b) of this title, the Secretary shall return the report, together with a written explanationof the basis for such determination, to the board for further proceedings. Upon receipt of a report returned by the Secretary concerned under this paragraph, the selection board (or a subsequent selection board convened under section 611(a) of this title for the same grade and competitive category) shall conduct such proceedings as may be necessary in order to revise the report to be consistent with law, regulation, and such guidelines and shall resubmit the report, as revised, to the Secretary in accordance with section 617 of this title.
+(2) If, on the basis of a review of the report under paragraph (1), the Secretary of the military department concerned determines that the board acted contrary to law or regulation or to guidelines furnished the board under section 615(b) of this title, the Secretary shall return the report, together with a written explanation of the basis for such determination, to the board for further proceedings. Upon receipt of a report returned by the Secretary concerned under this paragraph, the selection board (or a subsequent selection board convened under section 611(a) of this title for the same grade and competitive category) shall conduct such proceedings as may be necessary in order to revise the report to be consistent with law, regulation, and such guidelines and shall resubmit the report, as revised, to the Secretary in accordance with section 617 of this title.
 
 (b)(1) After completing the requirements of subsection (a), the Secretary concerned, in the case of the report of a selection board that considered officers who are serving, or have served, in joint duty assignments, shall submit the report to the Chairman of the Joint Chiefs of Staff.
 
@@ -30,15 +30,29 @@
 
 (d) The name of an officer recommended for promotion by a selection board may be removed from the report of the selection board only by the President.
 
-(e) Upon approval by the President of the report of a selection board, the names of the officers recommended for promotion by the selection board (other than any name removed by the President) may be disseminated to the armed force concerned. If such names have not been sooner disseminated, such names (other than the name of any officer whose promotion the Senate failed to confirm) shall be promptly disseminated to the armed force concerned upon confirmation by the Senate.
+(e)(1) The names of the officers recommended for promotion in the report of a selection board shall be disseminated to the armed force concerned as follows:
+
+&emsp;(A) In the case of officers recommended for promotion to a grade below brigadier general or rear admiral (lower half), such names may be disseminated upon, or at any time after, the transmittal of the report to the President.
+
+&emsp;(B) In the case of officers recommended for promotion to a grade above colonel or, in the case of the Navy, captain, such names may be disseminated upon, or at any time after, the approval of the report by the President.
+
+&emsp;(C) In the case of officers whose names have not been sooner disseminated, such names shall be promptly disseminated upon confirmation by the Senate.
+
+(2) A list of names of officers disseminated under paragraph (1) may not include—
+
+&emsp;(A) any name removed by the President from the report of the selection board containing that name, if dissemination is under the authority of subparagraph (B) of such paragraph; or
+
+&emsp;(B) the name of any officer whose promotion the Senate failed to confirm, if dissemination is under the authority of subparagraph (C) of such paragraph.
 
 (f) Except as authorized or required by this section, proceedings of a selection board convened under section 611(a) of this title may not be disclosed to any person not a member of the board.
 
 (g) If the Secretary of a military department or the Secretary of Defense makes a recommendation under this section that the name of an officer be removed from a report of a selection board and the recommendation is accompanied by information that was not presented to that selection board, that information shall be made available to that officer. The officer shall then be afforded a reasonable opportunity to submit comments on that information to the officials making the recommendation and the officials reviewing the recommendation. If an eligible officer cannot be given access to such information because of its classification status, the officer shall, to the maximum extent practicable, be provided with an appropriate summary of the information.
 
-(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2853; amended Pub. L. 98–525, title V, §524(a), Oct. 19, 1984, 98 Stat. 2524; Pub. L. 99–433, title IV, §402(c), Oct. 1, 1986, 100 Stat. 1030; Pub. L. 100–456, div. A, title V, §501(d), Sept. 29, 1988, 102 Stat. 1966; Pub. L. 102–190, div. A, title V, §504(c), Dec. 5, 1991, 105 Stat. 1357; Pub. L. 102–484, div. A, title X, §1052(8), (9), Oct. 23, 1992, 106 Stat. 2499.)
+(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2853; amended Pub. L. 98–525, title V, §524(a), Oct. 19, 1984, 98 Stat. 2524; Pub. L. 99–433, title IV, §402(c), Oct. 1, 1986, 100 Stat. 1030; Pub. L. 100–456, div. A, title V, §501(d), Sept. 29, 1988, 102 Stat. 1966; Pub. L. 102–190, div. A, title V, §504(c), Dec. 5, 1991, 105 Stat. 1357; Pub. L. 102–484, div. A, title X, §1052(8), (9), Oct. 23, 1992, 106 Stat. 2499; Pub. L. 106–398, §1 \[\[div. A\], title V, §503(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–100.)
 
 #### Amendments
+
+2000—Subsec. (e). Pub. L. 106–398 amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Upon approval by the President of the report of a selection board, the names of the officers recommended for promotion by the selection board (other than any name removed by the President) may be disseminated to the armed force concerned. If such names have not been sooner disseminated, such names (other than the name of any officer whose promotion the Senate failed to confirm) shall be promptly disseminated to the armed force concerned upon confirmation by the Senate.”
 
 1992—Subsec. (a)(1), (2). Pub. L. 102–484, §1052(8), substituted “section 615(b)” for “section 615(a)”.
 

@@ -1,6 +1,6 @@
 ### §8131. Subrogation of the United States
 
-(a) If an injury or death for which compensation is payable under this subchapter is caused under circumstances creating a legal liability on a person other than the United States to pay damages, the Secretary of Labor may require the beneficiary to—
+(a) If an injury or death for which compensation is payable under this subchapter is causedunder circumstances creating a legal liability on a person other than the United States to pay damages, the Secretary of Labor may require the beneficiary to—
 
 &emsp;(1) assign to the United States any right of action he may have to enforce the liability or any right he may have to share in money or other property received in satisfaction of that liability; or
 
@@ -77,10 +77,6 @@ For definition of Panama Canal Company, referred to in text, see section 3602(b)
 #### Personnel Not Affected by 1967 Increase
 
 Increases authorized under amendment by Pub. L. 90–83 not applicable to specified personnel, see section 7 of Pub. L. 90–83, set out as a note under section 8103 of this title.
-
-#### Cross References
-
-Third party tort liability to United States for hospital and medical care, see section 2651 et seq. of Title 42, The Public Health and Welfare.
 
 #### Section Referred to in Other Sections
 

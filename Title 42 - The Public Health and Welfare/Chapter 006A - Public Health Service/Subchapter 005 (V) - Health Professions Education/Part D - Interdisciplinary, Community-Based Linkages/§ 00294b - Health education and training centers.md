@@ -26,7 +26,7 @@ This section, referred to in subsec. (b), was in the original “section 752” 
 
 #### Prior Provisions
 
-A prior section 294b, act July 1, 1944, ch. 373, title VII, §763, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2047, authorized grants and contracts for development of preventive medicine and dental public health programs, prior to the general amendment of this part by Pub. L. 105–392.
+A prior section 294b, act July 1, 1944, ch. 373, title VII, §763, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992,106 Stat. 2047, authorized grants and contracts for development of preventive medicine and dental public health programs, prior to the general amendment of this part by Pub. L. 105–392.
 
 Another prior section 294b, act July 1, 1944, ch. 373, title VII, §729, as added Oct. 12, 1976, Pub. L. 94–484, title IV, §401(b)(3), 90 Stat. 2258; amended Dec. 19, 1977, Pub. L. 95–215, §4(e)(5), 91 Stat. 1506; Sept. 29, 1979, Pub. L. 96–76, title II, §201, 93 Stat. 582; Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2727, 95 Stat. 917; Oct. 22, 1985, Pub. L. 99–129, title II, §208(g)(1), 99 Stat. 531; Nov. 4, 1988, Pub. L. 100–607, title VI, §§628(5), 629(b)(2), 102 Stat. 3145, 3146, related to limitations on individually insured loans and loan insurance, prior to the general revision of this subchapter by Pub. L. 102–408. See section 292b of this title.
 

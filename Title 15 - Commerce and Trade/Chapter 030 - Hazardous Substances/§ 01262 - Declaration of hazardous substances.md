@@ -16,7 +16,7 @@ If the Commission finds that the requirements of section 1261(p)(1) of this titl
 
 #### (c) Exemption from requirements by regulation
 
-If the Commission finds that, because of the size of the package involved or because of the minor hazard presented by the substance contained therein, or for other good and sufficient reasons, full compliance with the labeling requirements otherwise applicable under this chapter is impracticable or is not necessary for the adequate protection of the public health andsafety, the Commission shall promulgate regulations exempting such substance from these requirements to the extent it determines to be consistent with adequate protection of the public health and safety.
+If the Commission finds that, because of the size of the package involved or because of the minor hazard presented by the substance contained therein, or for other good and sufficient reasons, full compliance with the labeling requirements otherwise applicable under this chapter is impracticable or is not necessary for the adequate protection of the public health and safety, the Commission shall promulgate regulations exempting such substance from these requirements to the extent it determines to be consistent with adequate protection of the public health and safety.
 
 #### (d) Exemption from requirements of this chapter of substances or containers adequately regulated by other provisions of law
 
@@ -90,7 +90,7 @@ No regulation under section 1261(q)(1) of this title classifying an article or s
 
 #### (i) Publication of final regulatory analysis with regulation; required findings; judicial review
 
-(1) The Commission shall not promulgate a regulation under section 1261(q)(1) of this titleclassifying an article or substance as a banned hazardous substance or a regulation under subsection (e) of this section unless it has prepared a final regulatory analysis of the regulation containing the following information:
+(1) The Commission shall not promulgate a regulation under section 1261(q)(1) of this title classifying an article or substance as a banned hazardous substance or a regulation under subsection (e) of this section unless it has prepared a final regulatory analysis of the regulation containing the following information:
 
 &emsp;(A) A description of the potential benefits and potential costs of the regulation, including costs and benefits that cannot be quantified in monetary terms, and the identification of those likely to receive the benefits and bear the costs.
 
@@ -140,7 +140,7 @@ Subsec. (d). Pub. L. 89–756, §2(e), inserted “hazardous substance or” bef
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Effective Date of 1981 Amendment
 
@@ -152,7 +152,7 @@ Amendment by Pub. L. 91–113 effective on sixtieth day following Nov. 6, 1969, 
 
 #### Transfer of Functions
 
-“Commission” substituted for “Secretary”, “Commission's” for “Secretary's”, “it” for “he”, and “it” or“its” for “him” wherever appearing in subsecs. (a) to (e) pursuant to section 30(a) of Pub. L. 92–573, which is classified to section 2079(a) of this title and which transferred functions of Secretary of Health, Education, and Welfare under this chapter to Consumer Product Safety Commission.
+“Commission” substituted for “Secretary”, “Commission's” for “Secretary's”, “it” for “he”, and “it” or “its” for “him” wherever appearing in subsecs. (a) to (e) pursuant to section 30(a) of Pub. L. 92–573, which is classified to section 2079(a) of this title and which transferred functions of Secretary of Health, Education, and Welfare under this chapter to Consumer Product Safety Commission.
 
 #### National Commission on Product Safety
 

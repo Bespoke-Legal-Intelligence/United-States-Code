@@ -52,12 +52,6 @@ Sec. 2. A former retired officer covered by this Act is subject to the penal, pr
 
 Sec. 3. Appropriations available for the payment of retired pay to members of the Armed Forces are available for payments under this Act.”
 
-#### Cross References
-
-Dismissed officer's right to trial by court-martial, see section 804 of this title.
-
-Forfeiture of pay when dropped from rolls, see section 803 of Title 37, Pay and Allowances of the Uniformed Services.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 12683 of this title; title 37 section 803; title 38 section 4304.

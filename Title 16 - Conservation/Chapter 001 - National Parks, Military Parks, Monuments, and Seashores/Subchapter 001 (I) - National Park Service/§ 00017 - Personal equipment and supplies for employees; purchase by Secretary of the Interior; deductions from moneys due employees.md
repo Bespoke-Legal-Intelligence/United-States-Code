@@ -1,6 +1,6 @@
 ### §17. Personal equipment and supplies for employees; purchase by Secretary of the Interior; deductions from moneys due employees
 
-The Secretary of the Interior is authorized to purchase personal equipment and supplies for employees of the National Park Service, and to make deductions therefor from moneys appropriated for salary payments or otherwise due such employees.
+The Secretary of the Interior is authorized to purchase personal equipment and supplies for employees of the National Park Service, and tomake deductions therefor from moneys appropriated for salary payments or otherwise due such employees.
 
 (May 26, 1930, ch. 324, §1, 46 Stat. 381.)
 

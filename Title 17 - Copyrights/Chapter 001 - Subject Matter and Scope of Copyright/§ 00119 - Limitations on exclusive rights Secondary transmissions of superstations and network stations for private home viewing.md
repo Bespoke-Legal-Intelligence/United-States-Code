@@ -92,7 +92,7 @@ Burden of proof.—In any action brought under this paragraph, the satellite car
 
 Exception.—The secondary transmission by a satellite carrier of a performance or display of a work embodied in a primary transmission made by a network station to subscribers who do not reside in unserved households shall not be an act of infringement if—
 
-&emsp;&emsp;&emsp;(i) the station on May 1, 1991, was retransmitted by a satellite carrier and wasnot on that date owned or operated by or affiliated with a television network that offered interconnected program service on a regular basis for 15 or more hours per week to at least 25 affiliated television licensees in 10 or more States;
+&emsp;&emsp;&emsp;(i) the station on May 1, 1991, was retransmitted by a satellite carrier and was not on that date owned or operated by or affiliated with a television network that offered interconnected program service on a regular basis for 15 or more hours per week to at least 25 affiliated television licensees in 10 or more States;
 
 &emsp;&emsp;&emsp;(ii) as of July 1, 1998, such station was retransmitted by a satellite carrier under the statutory license of this section; and
 
@@ -144,7 +144,7 @@ Outside the predicted grade b contour.—(i) If a network station challenges whe
 
 &emsp;(9)
 
-Loser pays for signal intensity measurement; recovery of measurement costs ina civil action.—In any civil action filed relating to the eligibility of subscribing households as unserved households—
+Loser pays for signal intensity measurement; recovery of measurement costs in a civil action.—In any civil action filed relating to the eligibility of subscribing households as unserved households—
 
 &emsp;&emsp;(A) a network station challenging such eligibility shall, within 60 days after receipt of the measurement results and a statement of such costs, reimburse the satellite carrier for any signal intensity measurement that is conducted by that carrier in response to a challenge by the network station and that establishes the household is an unserved household; and
 
@@ -172,7 +172,7 @@ In general.—For purposes of this subsection, and subject to clauses (ii) and (
 
 &emsp;&emsp;&emsp;(ii)
 
-Limitation.—Clause (i) shall apply only to a recreational vehicle or commercial truck if any satellite carrier that proposes to make a secondary transmission of a network station to the operator of such a recreational vehicle or commercial truck complies with the documentation requirements under subparagraphs (B) and (C).
+Limitation.—Clause (i) shall apply only to a recreational vehicle or commercial truck if any satellite carrier that proposes to make a secondary transmission of a network station to the operator of sucha recreational vehicle or commercial truck complies with the documentation requirements under subparagraphs (B) and (C).
 
 &emsp;&emsp;&emsp;(iii)
 
@@ -282,7 +282,7 @@ Fee set by compulsory arbitration.—
 
 &emsp;&emsp;(A)
 
-Notice of initiation of proceedings.—On or before January 1, 1997, the Librarian ofCongress shall cause notice to be published in the Federal Register of the initiation of arbitration proceedings for the purpose of determining a reasonable royalty fee to be paid under subsection (b)(1)(B) by satellite carriers who are not parties to a voluntary agreement filed with the Copyright Office in accordance with paragraph (2). Such arbitration proceeding shall be conducted under chapter 8.
+Notice of initiation of proceedings.—On or before January 1, 1997, the Librarian of Congress shall cause notice to be published in the Federal Register of the initiation of arbitration proceedings for the purpose of determining a reasonable royalty fee to be paid under subsection (b)(1)(B) by satellite carriers who are not parties to a voluntary agreement filed with the Copyright Office in accordance with paragraph (2). Such arbitration proceeding shall be conducted under chapter 8.
 
 &emsp;&emsp;(B)
 
@@ -306,7 +306,7 @@ Period during which decision of arbitration panel or order of librarian effectiv
 
 &emsp;&emsp;(D)
 
-Persons subject to royalty fee.—The royalty fee referred to in subparagraph (C) shall be binding on all satellite carriers, distributors, and copyright owners, who are not party to a voluntary agreement filed with the Copyright Office under paragraph (2).
+Persons subject to royalty fee.—The royalty fee referred to in subparagraph (C) shall be binding on all satellite carriers,distributors, and copyright owners, who are not party to a voluntary agreement filed with the Copyright Office under paragraph (2).
 
 &emsp;(4)
 
@@ -394,7 +394,7 @@ Local market.—The term “local market” has the meaning given such term unde
 
 &emsp;(12)
 
-Public broadcasting service satellite feed.—The term “Public Broadcasting Service satellite feed” means the national satellite feed distributed and designated for purposes of this section by the Public Broadcasting Service consisting of educational and informational programming intended for private home viewing, to which the Public Broadcasting Service holds national terrestrial broadcast rights.
+Public broadcasting service satellite feed.—The term “Public Broadcasting Service satellite feed” means the national satellite feed distributed and designated for purposes of this section by the Public Broadcasting Service consisting of educational and informational programming intended for private homeviewing, to which the Public Broadcasting Service holds national terrestrial broadcast rights.
 
 (e)
 
@@ -596,7 +596,7 @@ Section 5 of Pub. L. 103–369 provided that: “The amendments made by this sec
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 106, 111, 122, 501, 511, 801, 802, 803 of this title; title 18 section 2319; title 47 sections 325, 548.
+This section is referred to in sections 106, 111, 122, 501, 511, 801, 802, 803 of this title; title 18 section 2319; title 47 sections 325, 338, 339, 548.
 
-<i><sup>1</sup></i><i> So in original. Probably should be preceded by “a”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by “a”.</i>
 

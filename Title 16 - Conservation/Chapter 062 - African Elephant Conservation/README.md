@@ -23,7 +23,7 @@
 | (b) | Deposits into Fund. |
 | (c) | Use. |
 | (d) | Acceptance and use of donations. |
-| [4213\.](Subchapter%20001%20%28I%29%20-%20African%20Elephant%20Conservation%20Assistance/%C2%A7%2004213%20-%20Annual%20reports.md) | Annual reports. |
+| [4213\.](Subchapter%20001%20%28I%29%20-%20African%20Elephant%20Conservation%20Assistance/%C2%A7%2004213%20-%20Omitted.md) | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

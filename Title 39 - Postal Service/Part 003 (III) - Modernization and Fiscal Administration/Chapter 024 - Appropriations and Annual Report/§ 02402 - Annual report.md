@@ -8,7 +8,11 @@ The Postmaster General shall render an annual report to the Board concerning the
 
 Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in this section relating to the requirement that the Board transmit annual reports to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 195 of House Document No. 103–7.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in section 414 of this title.
+This section is referred to in sections 414, 416 of this title.
 

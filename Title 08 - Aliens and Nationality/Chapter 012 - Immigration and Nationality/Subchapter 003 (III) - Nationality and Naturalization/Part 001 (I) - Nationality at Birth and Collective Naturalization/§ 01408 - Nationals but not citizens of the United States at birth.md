@@ -36,20 +36,6 @@ Section 15(b) of Pub. L. 99–396 provided that: “The amendment made by subsec
 
 &emsp;“(2) the person shall not be eligible to vote in any general election in American Samoa earlier than January 1, 1987.”
 
-#### Cross References
-
-Definition of the term—
-
-&emsp;&emsp;National of the United States, see section 1101(a)(22) of this title.
-
-&emsp;&emsp;Parent, as used in subchapters I and II of this chapter, see section 1101(b)(2) of this title.
-
-&emsp;&emsp;Parent, as used in this subchapter, see section 1101(c)(2) of this title.
-
-&emsp;&emsp;Residence, see section 1101(a)(33) of this title.
-
-&emsp;&emsp;United States, see section 1101(a)(38) of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1409 of this title.

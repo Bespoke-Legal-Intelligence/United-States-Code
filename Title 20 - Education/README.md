@@ -1,5 +1,5 @@
 
-20 U.S.C.<br>United States Code, 1999 Edition<br>Title 20 - EDUCATION<br>From the U.S. Government Publishing Office, www.gpo.gov
+20 U.S.C.<br>United States Code, 2000 Edition<br>Title 20 - EDUCATION<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 20—EDUCATION
 
@@ -85,80 +85,9 @@
 | [<b>72.</b>](Chapter%20072%20-%20Museum%20and%20Library%20Services/README.md) | <b>Museum and Library Services</b> | <b>9101</b> |
 | [<b>73.</b>](Chapter%20073%20-%20Adult%20Education%20and%20Literacy/README.md) | <b>Adult Education and Literacy</b> | <b>9201</b> |
 | [<b>74.</b>](Chapter%20074%20-%20Troops-to-Teachers%20Program/README.md) | <b>Troops-to-Teachers Program</b> | <b>9301</b> |
+| [<b>75.</b>](Chapter%20075%20-%20Early%20Learning%20Opportunities/README.md) | <b>Early Learning Opportunities</b> | <b>9401</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Cross References
-
-Agricultural and mechanical colleges, see section 301 et seq. of Title 7, Agriculture.
-
-Armed forces, Air Force—
-
-&emsp;&emsp;Civil Air Patrol, see section 9441 et seq. of Title 10, Armed Forces.
-
-&emsp;&emsp;Junior Reserve Officers’ Training Corps, see section 2031 et seq. of Title 10.
-
-&emsp;&emsp;Schools and camps, see section 9411 et seq. of Title 10.
-
-&emsp;&emsp;Senior Reserve Officers’ Training Corps, see section 2101 et seq. of Title 10.
-
-&emsp;&emsp;Training generally, see section 9301 et seq. of Title 10.
-
-&emsp;&emsp;United States Air Force Academy, see section 9331 et seq. of Title 10.
-
-Armed forces, Army—
-
-&emsp;&emsp;Junior Reserve Officers’ Training Corps, see section 2031 et seq. of Title 10.
-
-&emsp;&emsp;Schools and camps, see section 4411 et seq. of Title 10.
-
-&emsp;&emsp;Senior Reserve Officers’ Training Corps, see section 2101 et seq. of Title 10.
-
-&emsp;&emsp;Training generally, see section 4301 et seq. of Title 10.
-
-&emsp;&emsp;United States Military Academy, see section 4331 et seq. of Title 10.
-
-Armed forces, Coast Guard—
-
-&emsp;&emsp;Coast Guard Academy, see section 181 et seq. of Title 14, Coast Guard.
-
-&emsp;&emsp;Navy schools, see section 145 of Title 14.
-
-&emsp;&emsp;School instruction and training, see sections 92, 93, 470 of Title 14.
-
-&emsp;&emsp;Training, see section 469 of Title 14.
-
-Armed forces, Navy—
-
-&emsp;&emsp;Junior Reserve Officers’ Training Corps, see section 2031 et seq. of Title 10, Armed Forces.
-
-&emsp;&emsp;Officer procurement programs, see section 6911 et seq. of Title 10.
-
-&emsp;&emsp;Schools near naval activities; financial aid; transportation of dependents, see section 7204 of Title 10.
-
-&emsp;&emsp;Senior Reserve Officers’ Training Corps, see section 2101 et seq. of Title 10.
-
-&emsp;&emsp;United States Naval Academy, see section 6951 et seq. of Title 10.
-
-&emsp;&emsp;United States Naval Postgraduate School, see section 7041 et seq. of Title 10.
-
-Armed forces, training generally, see section 10141 of Title 10.
-
-Cultural and Technical Interchange Center Between East and West, see section 2054 et seq. of Title 22, Foreign Relations and Intercourse.
-
-Foreign Service Institute, see section 4021 et seq. of Title 22.
-
-Indians, see sections 271 et seq., 2601 et seq., 3301 et seq., 3401 et seq. of Title 25, Indians.
-
-Maritime Education and Training, see section 1295 et seq. of Title 46, Appendix, Shipping.
-
-Mutual educational and cultural exchange program, see section 2451 et seq. of Title 22, Foreign Relations and Intercourse.
-
-School lunch programs, see section 1751 et seq. of Title 42, The Public Health and Welfare.
-
-United Nations Educational, Scientific, and Cultural Organization, see section 287m et seq. of Title 22, Foreign Relations and Intercourse.
-
-United States information and educational exchange programs, see section 1431 et seq. of Title 22.
 
 
 ---
@@ -245,3 +174,4 @@ United States information and educational exchange programs, see section 1431 et
 - [Chapter 072 - Museum and Library Services](Chapter%20072%20-%20Museum%20and%20Library%20Services/README.md)
 - [Chapter 073 - Adult Education and Literacy](Chapter%20073%20-%20Adult%20Education%20and%20Literacy/README.md)
 - [Chapter 074 - Troops-to-Teachers Program](Chapter%20074%20-%20Troops-to-Teachers%20Program/README.md)
+- [Chapter 075 - Early Learning Opportunities](Chapter%20075%20-%20Early%20Learning%20Opportunities/README.md)

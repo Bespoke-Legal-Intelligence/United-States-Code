@@ -20,7 +20,7 @@ There are hereby authorized to be appropriated for each fiscal year such sums as
 
 (2) The demonstration projects conducted under this section may include—
 
-&emsp;(A) multidisciplinary projects designed to prevent the inappropriate hospitalization of infants and to allow infants described in paragraph (1) to remain with or return to a parent in a residential setting, where appropriatecare for the infant and suitable treatment for the parent (including treatment for drug or alcohol addiction) may be assured, with the goal (where possible) of rehabilitating the parent and eliminating the need for such care for the infant;
+&emsp;(A) multidisciplinary projects designed to prevent the inappropriate hospitalization of infants and to allow infants described in paragraph (1) to remain with or return to a parent in a residential setting, where appropriate care for the infant and suitable treatment for the parent (including treatment for drug or alcohol addiction) may be assured, with the goal (where possible) of rehabilitating the parent and eliminating the need for such care for the infant;
 
 &emsp;(B) multidisciplinary projects that assure appropriate, individualized care for such infants in a foster home or other non-medical residential setting in cases where such infant does not require hospitalization and would otherwise remain in inappropriate hospital settings, including projects to demonstrate methods to recruit, train, and retain foster care families; and
 
@@ -48,7 +48,7 @@ There are hereby authorized to be appropriated for each fiscal year such sums as
 
 #### (c) Payments; advances or reimbursements; installments; conditions
 
-Payments of grants or under contracts or cooperative arrangements under this section may be made in advance or by way of reimbursement, and in such installments, as the Secretary may determine; and shall be made on such conditions as the Secretary finds necessary to carry out the purposes of the grants, contracts, or other arrangements.
+Payments of grants or under contracts or cooperative arrangements under this section maybe made in advance or by way of reimbursement, and in such installments, as the Secretary may determine; and shall be made on such conditions as the Secretary finds necessary to carry out the purposes of the grants, contracts, or other arrangements.
 
 (Aug. 14, 1935, ch. 531, title IV, §426, as added Pub. L. 90–248, title II, §240(c), Jan. 2, 1968, 81 Stat. 915; amended Pub. L. 100–203, title IX, §9137, Dec. 22, 1987, 101 Stat. 1330–319; Pub. L. 103–432, title II, §205(b), Oct. 31, 1994, 108 Stat. 4457.)
 

@@ -24,12 +24,6 @@ Pub. L. 93–469, Oct. 24, 1974, 88 Stat. 1422, authorized award, not later than
 
 Act Aug. 2, 1956, ch. 877, 70 Stat. 933, authorized award, not later than Aug. 2, 1957, of a decoration or device in lieu of decoration which, prior to Aug. 2, 1956, has been authorized by Congress to be awarded to any person for an act or service performed while on active duty in military or naval forces of United States, or while serving with such forces, for any such act or service performed between June 27, 1950, and July 27, 1953, inclusive, if written recommendation for decoration or device in lieu of decoration has been submitted to appropriate office in a military department at seat of Government before Aug. 2, 1956.
 
-#### Cross References
-
-General military law provisions, see section 1121 et seq. of this title.
-
-Meritorious Service Medal, establishment of, see Ex. Ord. No. 11448, set out as a note preceding section 1121 of this title.
-
 
 ---
 

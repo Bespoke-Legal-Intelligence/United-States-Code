@@ -66,7 +66,7 @@ For purposes of this part—
 
 &emsp;(8) The term “small commercial package air conditioning and heating equipment” means air-cooled, water-cooled, evaporatively-cooled, or water source (not including ground water source) electrically operated, unitary central air conditioners and central air conditioning heat pumps for commercial application which are rated below 135,000 Btu per hour (cooling capacity).
 
-&emsp;(9) The term “large commercial package air conditioning and heating equipment” means air-cooled, water-cooled, evaporatively-cooled, or water source (not including ground water source) electrically operated, unitary central air conditioners and central air conditioning heat pumps for commercial application which are rated at or above 135,000 Btu per hour and below 240,000 Btu per hour (cooling capacity).
+&emsp;(9) The term “large commercial package air conditioning and heating equipment” means air-cooled, water-cooled, evaporatively-cooled, or water source (not including ground watersource) electrically operated, unitary central air conditioners and central air conditioning heat pumps for commercial application which are rated at or above 135,000 Btu per hour and below 240,000 Btu per hour (cooling capacity).
 
 &emsp;(10)(A) The term “packaged terminal air conditioner” means a wall sleeve and a separate unencased combination of heating and cooling assemblies specified by the builder and intended for mounting through the wall. It includes a prime source of refrigeration, separable outdoor louvers, forced ventilation, and heating availability by builder's choice of hot water, steam, or electricity.
 
@@ -84,7 +84,7 @@ For purposes of this part—
 
 &emsp;(13)(A) The term “electric motor” means any motor which is a general purpose T-frame, single-speed, foot-mounting, polyphase squirrel-cage induction motor of the National Electrical Manufacturers Association, Design A and B, continuous rated, operating on 230/460 volts and constant 60 Hertz line power as defined in NEMA Standards Publication MG1–1987.
 
-&emsp;(B) The term “definite purpose motor” means any motor designed in standard ratings with standard operating characteristics or standard mechanical construction for useunder service conditions other than usual or for use on a particular type of application and which cannot be used in most general purpose applications.
+&emsp;(B) The term “definite purpose motor” means any motor designed in standard ratings with standard operating characteristics or standard mechanical construction for use under service conditions other than usual or for use on a particular type of application and which cannot be used in most general purpose applications.
 
 &emsp;(C) The term “special purpose motor” means any motor, other than a general purpose motor or definite purpose motor, which has special operating characteristics or special mechanical construction, or both, designed for a particular application.
 

@@ -10,5 +10,5 @@ This Act, referred to in text, means Pub. L. 88–352, July 2, 1964, 78 Stat. 24
 
 #### Amendments
 
-1972—Pub. L. 92–261 inserted provisions which made section 1114 of title 18 applicable to officers, etc., of the Commission and set forth punishment for violation of such section 1114.
+1972—Pub. L. 92–261 inserted provisions which made section 1114 of title 18 applicable to officers, etc., of theCommission and set forth punishment for violation of such section 1114.
 

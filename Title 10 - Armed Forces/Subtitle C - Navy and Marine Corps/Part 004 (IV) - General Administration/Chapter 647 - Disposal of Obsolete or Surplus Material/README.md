@@ -19,12 +19,6 @@
 
 1965—Pub. L. 89–266, §1(2), Oct. 19, 1965, 79 Stat. 990, added item 7541a.
 
-#### Cross References
-
-Management and disposal of government property generally, see section 471 et seq. of Title 40, Public Buildings, Property, and Works.
-
-General military law provisions, see section 2541 et seq. of this title.
-
 
 ---
 

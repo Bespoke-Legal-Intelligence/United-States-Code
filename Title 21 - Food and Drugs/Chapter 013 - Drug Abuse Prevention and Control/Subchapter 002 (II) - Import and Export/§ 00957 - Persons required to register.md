@@ -18,7 +18,7 @@ No person may—
 
 &emsp;(B) A common or contract carrier or warehouseman, or an employee thereof, whose possession of any controlled substance or list I chemical is in the usual course of his business or employment.
 
-&emsp;(C) An ultimate user who possesses such substance for a purpose specified in section 802(25) <sup>1</sup> of this title and in conformity with an exemption granted under section 956(a) of this title.
+&emsp;(C) An ultimate user who possesses such substance for a purpose specified in section802(25) <sup>1</sup> of this title and in conformity with an exemption granted under section 956(a) of this title.
 
 (2) The Attorney General may, by regulation, waive the requirement for registration of certain importers and exporters if he finds it consistent with the public health and safety; and may authorize any such importer or exporter to possess controlled substances or list I chemicals for purposes of importation and exportation.
 
@@ -26,7 +26,7 @@ No person may—
 
 #### References in Text
 
-Section 802(25) of this title, referred to in subsec. (b)(1)(C), was redesignated section 802(26) of this title by Pub. L. 98–473, title II, §507(a), Oct. 12, 1984, 98 Stat. 2071, and was further redesignated section 802(27) of thistitle by Pub. L. 99–570, title I, §1003(b)(2), Oct. 27, 1986, 100 Stat. 3207–6.
+Section 802(25) of this title, referred to in subsec. (b)(1)(C), was redesignated section 802(26) of this title by Pub. L. 98–473, title II, §507(a), Oct. 12, 1984, 98 Stat. 2071, and was further redesignated section 802(27) of this title by Pub. L. 99–570, title I, §1003(b)(2), Oct. 27, 1986, 100 Stat. 3207–6.
 
 #### Amendments
 

@@ -18,3 +18,7 @@ The Secretary may provide such services as the Secretary determines to be approp
 
 (Pub. L. 105–220, title I, §149, Aug. 7, 1998, 112 Stat. 1012.)
 
+#### Prior Provisions
+
+Provisions similar to this section were contained in section 1702 of this title prior to repeal by Pub. L. 105–220.
+

@@ -22,5 +22,5 @@ Subsection (a)(5) of this section does not include a system that is to be used f
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 10 section 2223; title 29 section 794d; title 44 section 3502.
+This section is referred to in title 10 section 2223; title 29 section 794d; title 44 sections 3502, 3532.
 

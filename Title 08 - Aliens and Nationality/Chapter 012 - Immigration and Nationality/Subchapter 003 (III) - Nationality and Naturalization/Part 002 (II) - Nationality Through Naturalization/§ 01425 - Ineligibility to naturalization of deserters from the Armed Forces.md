@@ -4,15 +4,3 @@ A person who, at any time during which the United States has been or shall be at
 
 (June 27, 1952, ch. 477, title III, ch. 2, §314, 66 Stat. 241.)
 
-#### Cross References
-
-Definition of the term—
-
-&emsp;&emsp;Ineligible to citizenship, see section 1101(a)(19) of this title.
-
-&emsp;&emsp;Naturalization, see section 1101(a)(23) of this title.
-
-&emsp;&emsp;United States, see section 1101(a)(38) of this title.
-
-Loss of nationality by deserting military, air or naval forces, see section 1481 of this title.
-

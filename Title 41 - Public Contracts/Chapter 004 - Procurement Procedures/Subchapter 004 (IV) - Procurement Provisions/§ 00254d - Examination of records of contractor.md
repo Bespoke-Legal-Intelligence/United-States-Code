@@ -20,7 +20,7 @@
 
 #### (b) Subpoena power
 
-(1) The Inspector General of an executive agency appointed under section 3 or 8G <sup>1</sup> of the Inspector General Act of 1978 (5 U.S.C. App.) or, upon request of the head of an executive agency, the Director of the Defense Contract Audit Agency (or any successor agency) of the Department of Defense or the Inspector General of the General Services Administration may require by subpoena the production of records of a contractor, access to which is provided for that executive agency by subsection (a) of this section.
+(1) The Inspector General of an executive agency appointed under section 3 or 8G <sup>1</sup> of the Inspector General Act of 1978 (5 U.S.C. App.) or,upon request of the head of an executive agency, the Director of the Defense Contract Audit Agency (or any successor agency) of the Department of Defense or the Inspector General of the General Services Administration may require by subpoena the production of records of a contractor, access to which is provided for that executive agency by subsection (a) of this section.
 
 (2) Any such subpoena, in the case of contumacy or refusal to obey, shall be enforceable by order of an appropriate United States district court.
 

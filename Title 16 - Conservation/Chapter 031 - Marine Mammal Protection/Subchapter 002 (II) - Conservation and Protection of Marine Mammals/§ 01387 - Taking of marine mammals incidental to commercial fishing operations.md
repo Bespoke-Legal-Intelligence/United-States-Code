@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-(1) Effective on April 30, 1994, and except as provided in section 1383a of this title and in paragraphs (2), (3), and (4) of this subsection, the provisions of this section shall govern the incidental taking of marine mammals in the course of commercial fishing operations by persons using vessels of the United States or vessels which have valid fishing permits issued by the Secretary in accordance with section 1824(b) of this title. In any event it shall be the immediate goal that the incidental mortality or serious injury of marine mammals occurring in the course of commercial fishing operations be reduced to insignificant levels approaching a zero mortality and serious injury rate within 7 years after April 30, 1994.
+(1) Effective on April 30, 1994, and except as provided in section 1383a of this title and in paragraphs (2), (3), and (4) of this subsection, the provisions of this section shall govern the incidental taking of marine mammals in the course of commercial fishing operations by persons using vessels of the United States or vessels which have valid fishing permits issued by the Secretary in accordance with section 1824(b) ofthis title. In any event it shall be the immediate goal that the incidental mortality or serious injury of marine mammals occurring in the course of commercial fishing operations be reduced to insignificant levels approaching a zero mortality and serious injury rate within 7 years after April 30, 1994.
 
 (2) In the case of the incidental taking of marine mammals from species or stocks designated under this chapter as depleted on the basis of their listing as threatened species or endangered species under the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.), both this section and section 1371(a)(5)(E) of this chapter shall apply.
 
@@ -50,7 +50,7 @@
 
 (C) Except as provided in subsection (a) of this section, an authorization granted under this section shall allow the incidental taking of all species and stocks of marine mammals to which this chapter applies.
 
-(3)(A) An owner of a vessel engaged in any fishery listed under paragraph (1)(A)(i) or (ii) shall, in order to engage in the lawful incidental taking of marine mammals in a commercial fishery—
+(3)(A) An owner of a vessel engaged in any fishery listed under paragraph (1)(A)(i) or (ii) shall, in order to engage in the lawful incidentaltaking of marine mammals in a commercial fishery—
 
 &emsp;(i) have registered as required under paragraph (2) with the Secretary in order to obtain for each such vessel owned and used in the fishery an authorization for the purpose of incidentally taking marine mammals in accordance with this section, except that owners of vessels holding valid certificates of exemption under section 1383a of this title are deemed to have registered for purposes of this subsection for the period during which such exemption is valid;
 
@@ -60,7 +60,7 @@
 
 &emsp;(iv) comply with any applicable take reduction plan and emergency regulations issued under this section.
 
-(B) Any owner of a vessel receiving an authorization under this section for any fishery listedunder paragraph (1)(A)(i) or (ii) shall, as a condition of that authorization, take on board an observer if requested to do so by the Secretary.
+(B) Any owner of a vessel receiving an authorization under this section for any fishery listed under paragraph (1)(A)(i) or (ii) shall, as a condition of that authorization, take on board an observer if requested to do so by the Secretary.
 
 (C) An owner of a vessel engaged in a fishery listed under paragraph (1)(A)(i) or (ii) who—
 
@@ -106,7 +106,7 @@
 
 &emsp;(C) perform other scientific investigations.
 
-(3) In determining the distribution of observers among commercial fisheries and vessels within a fishery, the Secretary shall be guided by the following standards:
+(3) In determining the distribution of observers among commercial fisheries and vesselswithin a fishery, the Secretary shall be guided by the following standards:
 
 &emsp;(A) The requirement to obtain statistically reliable information.
 
@@ -120,7 +120,7 @@
 
 &emsp;(A) The highest priority for allocation shall be for commercial fisheries that have incidental mortality or serious injury of marine mammals from stocks listed as endangered species or threatened species under the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.).
 
-&emsp;(B) The second highest priority for allocation shall be for commercial fisheries thathave incidental mortality and serious injury of marine mammals from strategic stocks.
+&emsp;(B) The second highest priority for allocation shall be for commercial fisheries that have incidental mortality and serious injury of marine mammals from strategic stocks.
 
 &emsp;(C) The third highest priority for allocation shall be for commercial fisheries that have incidental mortality or serious injury of marine mammals from stocks for which the level of incidental mortality and serious injury is uncertain.
 
@@ -212,7 +212,7 @@ The owner or operator of a commercial fishing vessel subject to this chapter sha
 
 &emsp;(E) The Secretary and the take reduction team shall meet every 6 months, or at such other intervals as the Secretary determines are necessary, to monitor the implementation of the final take reduction plan until such time that the Secretary determines that the objectives of such plan have been met.
 
-&emsp;(F) The Secretary shall amend the take reduction plan and implementing regulations asnecessary to meet the requirements of this section, in accordance with the procedures in this section for the issuance of such plans and regulations.
+&emsp;(F) The Secretary shall amend the take reduction plan and implementing regulations as necessary to meet the requirements of this section, in accordance with the procedures in this section for the issuance of such plans and regulations.
 
 (8) Where the human-caused mortality and serious injury from a strategic stock is estimated to be less than the potential biological removal level established under section 1386 of this title for such stock and such stock interacts with a fishery listed under subsection (c)(1)(A)(i) or (ii) of this section, or for any marine mammal stocks which interact with a commercial fishery listed under subsection (c)(1)(A)(i) of this section for which the Secretary has made a determination under paragraph (1), the following procedures shall apply in the development of the take reduction plan for such stock:
 
@@ -244,7 +244,7 @@ The owner or operator of a commercial fishing vessel subject to this chapter sha
 
 (10)(A) Notwithstanding paragraph (6), in the case of any stock to which paragraph (1) applies for which a final stock assessment has not been published under section 1386(b)(3) of this title by April 1, 1995, due to a proceeding under section 1386(b)(2) of this title, or any Federal court review of such proceeding, the Secretary shall establish a take reduction team under paragraph (6) for such stock as if a final stock assessment had been published.
 
-(B) The draft stock assessment published for such stock under section 1386(b)(1) of this title shall be deemed the final stock assessment for purposes of preparing and implementing a take reduction plan for such stock under this section.
+(B) The draft stock assessment published for such stock under section 1386(b)(1) of this title shall be deemed the final stock assessment forpurposes of preparing and implementing a take reduction plan for such stock under this section.
 
 (C) Upon publication of a final stock assessment for such stock under section 1386(b)(3) of this title the Secretary shall immediately reconvene the take reduction team for such stock for the purpose of amending the take reduction plan, and any regulations issued to implement such plan, if necessary, to reflect the final stock assessment or court action. Such amendments shall be made in accordance with paragraph (7)(F) or (8)(F), as appropriate.
 
@@ -316,7 +316,7 @@ As used in this section and section 1371(a)(5)(E) of this title, each of the ter
 
 The Endangered Species Act of 1973, referred to in subsecs. (a)(2), (d)(4)(A), (f)(11), and (g)(1)(C)(iii), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified principally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
-Act of November 7, 1986, referred to in subsec. (a)(4), is Pub. L. 99–625, Nov. 7, 1986, 100 Stat. 3500, whichamended section 718b of this title and provisions set out as a table of National Wildlife Refuges under section 668dd of this title and enacted provisions set out as a note under section 1536 of this title. For complete classification of this Act to the Code, see Tables.
+Act of November 7, 1986, referred to in subsec. (a)(4), is Pub. L. 99–625, Nov. 7, 1986, 100 Stat. 3500, which amended section 718b of this title and provisions set out as a table of National Wildlife Refuges under section 668dd of this title and enacted provisions set out as a note under section 1536 of this title. For complete classification of this Act to the Code, see Tables.
 
 The Federal Advisory Committee Act, referred to in subsec. (f)(6)(D), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 

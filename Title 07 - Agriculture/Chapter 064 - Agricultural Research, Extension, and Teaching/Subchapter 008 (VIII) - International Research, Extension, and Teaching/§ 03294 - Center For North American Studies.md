@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary of Agriculture shall establish a center, to be known as the Center For North American Studies, whose primary purpose shall be to promote better agricultural relationships among Canada, Mexico, and the United Statesthrough cooperative study, training, and research.
+The Secretary of Agriculture shall establish a center, to be known as the Center For North American Studies, whose primary purpose shall be to promote better agricultural relationships among Canada, Mexico, and the United States through cooperative study, training, and research.
 
 #### (b) Location
 

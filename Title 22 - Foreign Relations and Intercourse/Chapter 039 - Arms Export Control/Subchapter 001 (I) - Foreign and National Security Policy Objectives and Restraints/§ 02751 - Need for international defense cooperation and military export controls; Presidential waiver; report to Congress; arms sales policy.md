@@ -1,6 +1,6 @@
 ### §2751. Need for international defense cooperation and military export controls; Presidential waiver; report to Congress; arms sales policy
 
-As declared by the Congress in the Arms Control and Disarmament Act \[22 U.S.C. 2551 et seq.\], an ultimate goal of the United States continues to be a world which is free from the scourge of war and the dangers and burdens of armaments; in which the use of force has been subordinated to the rule of law; and in which international adjustments to a changing world are achieved peacefully. In furtherance of that goal, it remains the policy of the United States to encourage regional arms control and disarmament agreements and to discourage arms races.
+As declared by the Congress in the Arms Control and Disarmament Act \[22 U.S.C. 2551 etseq.\], an ultimate goal of the United States continues to be a world which is free from the scourge of war and the dangers and burdens of armaments; in which the use of force has been subordinated to the rule of law; and in which international adjustments to a changing world are achieved peacefully. In furtherance of that goal, it remains the policy of the United States to encourage regional arms control and disarmament agreements and to discourage arms races.
 
 The Congress recognizes, however, that the United States and other free and independent countries continue to have valid requirements for effective and mutually beneficial defense relationships in order to maintain and foster the environment of international peace and security essential to social, economic, and political progress. Because of the growing cost and complexity of defense equipment, it is increasingly difficult and uneconomic for any country, particularly a developing country, to fill all of its legitimate defense requirements from its own design and production base. The need for international defense cooperation among the United States and those friendly countries to which it is allied by mutual defense treaties is especially important, since the effectiveness of their armed forces to act in concert to deter or defeat aggression is directly related to the operational compatibility of their defense equipment.
 
@@ -94,7 +94,7 @@ Content of Report.—Each report under subsection (a) shall include the followin
 
 &emsp;“(3) A comprehensive discussion of the near-term, mid-term, and long-term programmatic options formulated by the Review Committee for meeting requirements prescribed by the Review Committee and for eliminating deficiencies identified by the Review Committee, including the annual funding requirements and completion dates established for each such option.
 
-&emsp;“(4) An explanation of the recommendations made pursuant to subsection (c) of the Review Committeecharter, together with a full discussion of the actions taken to implement such recommendations or otherwise taken on the recommendations.
+&emsp;“(4) An explanation of the recommendations made pursuant to subsection (c) of the Review Committee charter, together with a full discussion of the actions taken to implement such recommendations or otherwise taken on the recommendations.
 
 &emsp;“(5) A discussion and assessment of the status of each Review Committee recommendation during the fiscal year preceding the fiscal year in which the report is submitted, including, particularly, the status of recommendations made during such preceding fiscal year that were reflected in the budget submitted to Congress pursuant to section 1105(a) of title 31, United States Code, in the fiscal year of the report.
 
@@ -196,7 +196,7 @@ Report.—Not later than April 30 of each year, the Secretary of Defense shall s
 
 &emsp;“(3) The organizations that conducted the studies and analysis.
 
-&emsp;“(4) An explanation of the extent to which such studies and analysis contribute to the counterproliferation policy of the United States and United States military capabilities to deter and respond toterrorism, theft, and proliferation involving weapons of mass destruction.
+&emsp;“(4) An explanation of the extent to which such studies and analysis contribute to the counterproliferation policy of the United States and United States military capabilities to deter and respond to terrorism, theft, and proliferation involving weapons of mass destruction.
 
 &emsp;“(5) A description of the measures being taken to ensure that such studies and analysis within the Department of Defense are managed effectively and coordinated comprehensively.
 
@@ -382,7 +382,7 @@ Pub. L. 99–83, title I, §129, Aug. 8, 1985, 99 Stat. 206, directed President,
 
 #### Termination of Nonrecurring Activities Under Foreign Assistance Act of 1961 and This Chapter and Removal From Law
 
-Section 734(c) of Pub. L. 97–113 provided that: “Except as otherwise explicitly provided by their terms, amendments to the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\] and the Arms Export Control Act \[this chapter\] which are applicable only to a single fiscal or calendar year or which require reports or other actions on a nonrecurring basis shall be deemed to have expired and shall be removed from law upon the expiration of the applicable time periods for the fulfillment of the required actions.”
+Section 734(c) of Pub. L. 97–113 provided that: “Except as otherwise explicitly provided by their terms, amendments to the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\] and the Arms Export Control Act \[thischapter\] which are applicable only to a single fiscal or calendar year or which require reports or other actions on a nonrecurring basis shall be deemed to have expired and shall be removed from law upon the expiration of the applicable time periods for the fulfillment of the required actions.”
 
 #### Report to Congress by President on Multilateral Discussions Concerning Arms Transfer Policy
 
@@ -430,7 +430,7 @@ Pub. L. 94–329, title VI, §605(a), June 30, 1976, 90 Stat. 768, provided that
 
 #### Sales to the Middle East; Requests for Additional Appropriations
 
-Section 5 of Pub. L. 91–672 provided that: “It is the sense of Congress that (1) the President should continue to press forward urgently with his efforts to negotiate with the Soviet Union and other powers a limitation on arms shipments to the Middle East, (2) the President should be supported in his position that arms will be made available and credits provided to Israel and other friendly states, to the extent that the President determines such assistance to be needed in order to meet threats to the security and independence of such states, and (3) if the authorization provided in the Foreign Military Sales Act, as amended \[this chapter\], should prove to be insufficient to effectuate this stated policy, the President should promptly submit to theCongress requests for an appropriate supplementary authorization and appropriation.”
+Section 5 of Pub. L. 91–672 provided that: “It is the sense of Congress that (1) the President should continue to press forward urgently with his efforts to negotiate with the Soviet Union and other powers a limitation on arms shipments to the Middle East, (2) the President should be supported in his position that arms will be made available and credits provided to Israel and other friendly states, to the extent that the President determines such assistance to be needed in order to meet threats to the security and independence of such states, and (3) if the authorization provided in the Foreign Military Sales Act, as amended \[this chapter\], should prove to be insufficient to effectuate this stated policy, the President should promptly submit to the Congress requests for an appropriate supplementary authorization and appropriation.”
 
 #### Review of Military Aid Programs and Efforts for Regulation of Conventional Arms Trade
 
@@ -486,11 +486,11 @@ Section 1. <i>Delegation of Functions</i>. The following functions conferred upo
 
 (2) to the Secretary of the Treasury, to the extent they relate to the control of the import of defense articles and defense services. In carrying out such functions, the Secretary of the Treasury shall be guided by the views of the Secretary of State on matters affecting world peace, and the external security and foreign policy of the United States. Designations including changes in designations, by the Secretary of the Treasury of items or categories of items which shall be considered as defense articles and defense services subject to import control under Section 38 of the Act \[22 U.S.C. 2778\] shall have the concurrence of the Secretary of State and the Secretary of Defense;
 
-(3) to the Secretary of Commerce, to carry out on behalf of the Secretary of State, to the extent such functions involve Section 38(e) of the Act \[22 U.S.C. 2778(e)\]and are agreed to by the Secretary of State and the Secretary of Commerce.
+(3) to the Secretary of Commerce, to carry out on behalf of the Secretary of State, to the extent such functions involve Section 38(e) of the Act \[22 U.S.C. 2778(e)\] and are agreed to by the Secretary of State and the Secretary of Commerce.
 
 (m) Those under Section 39(b) of the Act \[22 U.S.C. 2779(b)\] to the Secretary of State. In carrying out such functions, the Secretary of State shall consult with the Secretary of Defense as may be necessary to avoid interference in the application of Department of Defense regulations to sales made under Section 22 of the Act \[22 U.S.C. 2762\].
 
-(n) Those under Section 40A of the Act \[22 U.S.C. 2785\], as added by Public Law 104–164, to the Secretary of State insofar as they relate to commercial exports licensed under the Act, and to the Secretary of Defense insofar as they relate to defense articles and defense services sold, leased, or transferred under the Foreign Military Sales Program.
+(n) Those under Section 40A of the Act \[22 U.S.C. 2785\], as added by Public Law 104–164, to the Secretaryof State insofar as they relate to commercial exports licensed under the Act, and to the Secretary of Defense insofar as they relate to defense articles and defense services sold, leased, or transferred under the Foreign Military Sales Program.
 
 (<i>o</i>) Those under Section 40A of the Act \[22 U.S.C. 2781\], as added by the Antiterrorism and Effective Death Penalty Act of 1996 (Public Law 104–132), to the Secretary of State.
 

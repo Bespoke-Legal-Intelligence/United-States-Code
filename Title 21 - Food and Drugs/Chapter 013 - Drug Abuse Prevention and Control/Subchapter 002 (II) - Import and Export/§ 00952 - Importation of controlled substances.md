@@ -14,7 +14,7 @@ It shall be unlawful to import into the customs territory of the United States f
 
 &emsp;&emsp;(C) in any case in which the Attorney General finds that such controlled substance is in limited quantities exclusively for scientific, analytical, or research uses,
 
-> may be so imported under such regulations as the Attorney General shall prescribe. No crude opium may be so imported for the purpose of manufacturing heroin or smoking opium.
+> may be so imported under such regulations as the Attorney General shall prescribe. No crudeopium may be so imported for the purpose of manufacturing heroin or smoking opium.
 
 #### (b) Nonnarcotic controlled substances in schedule III, IV, or V
 
@@ -22,7 +22,7 @@ It shall be unlawful to import into the customs territory of the United States f
 
 &emsp;(1) is imported for medical, scientific, or other legitimate uses, and
 
-&emsp;(2) is imported pursuant to such notification, or declaration, or in the case of any nonnarcotic controlled substance in schedule III, such import permit, notification, or declaration, as the Attorney General may by regulation prescribe, except that if a nonnarcotic controlled substance in schedule IV or V isalso listed in schedule I or II of the Convention on Psychotropic Substances it shall be imported pursuant to such import permit requirements, prescribed by regulation of the Attorney General, as are required by the Convention.
+&emsp;(2) is imported pursuant to such notification, or declaration, or in the case of any nonnarcotic controlled substance in schedule III, such import permit, notification, or declaration, as the Attorney General may by regulation prescribe, except that if a nonnarcotic controlled substance in schedule IV or V is also listed in schedule I or II of the Convention on Psychotropic Substances it shall be imported pursuant to such import permit requirements, prescribed by regulation of the Attorney General, as are required by the Convention.
 
 #### (c) Coca leaves
 

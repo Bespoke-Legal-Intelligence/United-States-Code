@@ -1,7 +1,5 @@
 ### <b>CHAPTER 47—JUVENILE DELINQUENCY PREVENTION AND CONTROL</b>
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
 
 ---
 

@@ -20,6 +20,7 @@
 | (e) | Confidentiality. |
 | (f) | Financial records. |
 | (g) | Administrative expenses. |
+| (h) | Environmental review. |
 | [12906\.](%C2%A7%2012906%20-%20Grants%20for%20AIDS%20housing%20information%20and%20coordination%20services.md) | Grants for AIDS housing information and coordination services. |
 | [12907\.](%C2%A7%2012907%20-%20AIDS%20short-term%20supported%20housing%20and%20services.md) | AIDS short-term supported housing and services. |
 | (a) | Use of grants. |

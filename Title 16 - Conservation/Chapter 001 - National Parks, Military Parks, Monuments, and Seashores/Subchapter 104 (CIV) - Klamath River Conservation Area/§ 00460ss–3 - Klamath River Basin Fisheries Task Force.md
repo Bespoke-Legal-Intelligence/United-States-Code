@@ -118,7 +118,7 @@ At such time as the program is expanded to include portions of the Klamath River
 
 &emsp;(2) A representative of the Klamath Tribe, who shall be appointed by the governing body of the Tribe.
 
-(Pub. L. 99–552, §4, Oct. 27, 1986, 100 Stat. 3084; Pub. L. 100–580, §12(a), Oct. 31, 1988, 102 Stat.2935; Pub. L. 100–653, title VI, §§601, 602(b), 603(1), Nov. 14, 1988, 102 Stat. 3829, 3830; Pub. L. 102–570, §2, Oct. 29, 1992, 106 Stat. 4490.)
+(Pub. L. 99–552, §4, Oct. 27, 1986, 100 Stat. 3084; Pub. L. 100–580, §12(a), Oct. 31, 1988, 102 Stat. 2935; Pub. L. 100–653, title VI, §§601, 602(b), 603(1), Nov. 14, 1988, 102 Stat. 3829, 3830; Pub. L. 102–570, §2, Oct. 29, 1992, 106 Stat. 4490.)
 
 #### Amendments
 

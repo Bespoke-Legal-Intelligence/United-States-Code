@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Each eligible student desiring a scholarship under this division shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may reasonably require.
+Each eligible student desiring a scholarship under this division shall submit an applicationto the Secretary at such time, in such manner, and containing such information as the Secretary may reasonably require.
 
 #### (b) Continuing eligibility
 

@@ -2,7 +2,7 @@
 
 (a)(1) Notwithstanding any other provision of law, when sentencing a defendant convicted of an offense described in subsection (c), the court shall order, in addition to, or in the case of a misdemeanor, in addition to or in lieu of, any other penalty authorized by law, that the defendant make restitution to the victim of the offense or, if the victim is deceased, to the victim's estate.
 
-(2) For the purposes of this section, the term “victim” means a person directly and proximately harmed as a result of the commission of an offense for which restitution may be ordered including, in the case of an offense that involves as an element a scheme, conspiracy, or pattern of criminal activity, any person directly harmed by the defendant's criminal conduct in the course of the scheme, conspiracy, or pattern. In the case of a victim who is under 18 years of age, incompetent, incapacitated, or deceased, the legal guardian of the victim or representative ofthe victim's estate, another family member, or any other person appointed as suitable by the court, may assume the victim's rights under this section, but in no event shall the defendant be named as such representative or guardian.
+(2) For the purposes of this section, the term “victim” means a person directly and proximately harmed as a result of the commission of an offense for which restitution may be ordered including, in the case of an offense that involves as an element a scheme, conspiracy, or pattern of criminal activity, any person directly harmed by the defendant's criminal conduct in the course of the scheme, conspiracy, or pattern. In the case of a victim who is under 18 years of age, incompetent, incapacitated, or deceased, the legal guardian of the victim or representative of the victim's estate, another family member, or any other person appointed as suitable by the court, may assume the victim's rights under this section, but in no event shall the defendant be named as such representative or guardian.
 
 (3) The court shall also order, if agreed to by the parties in a plea agreement, restitution to persons other than the victim of the offense.
 
@@ -40,7 +40,7 @@
 
 &emsp;&emsp;(i) a crime of violence, as defined in section 16;
 
-&emsp;&emsp;(ii) an offense against property under this title, including any offense committed by fraud or deceit; or
+&emsp;&emsp;(ii) an offense against property under this title, or under section 416(a) of the Controlled Substances Act (21 U.S.C. 856(a)), including any offense committed by fraud or deceit; or
 
 &emsp;&emsp;(iii) an offense described in section 1365 (relating to tampering with consumer products); and
 
@@ -56,7 +56,11 @@
 
 (d) An order of restitution under this section shall be issued and enforced in accordance with section 3664.
 
-(Added Pub. L. 104–132, title II, §204(a), Apr. 24, 1996, 110 Stat. 1227.)
+(Added Pub. L. 104–132, title II, §204(a), Apr. 24, 1996, 110 Stat. 1227; amended Pub. L. 106–310, div. B, title XXXVI, §3613(d), Oct. 17, 2000, 114 Stat. 1230.)
+
+#### Amendments
+
+2000—Subsec. (c)(1)(A)(ii). Pub. L. 106–310 inserted “or under section 416(a) of the Controlled Substances Act (21 U.S.C. 856(a)),” after “under this title,”.
 
 #### Effective Date
 
@@ -64,5 +68,5 @@ Section to be effective, to extent constitutionally permissible, for sentencing 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 43, 228, 2248, 2259, 2264, 2327, 3556, 3563, 3613, 3663, 3664 of this title.
+This section is referred to in sections 43, 228, 1593, 2248, 2259, 2264, 2327, 3556, 3563, 3613, 3663, 3664, 4048 of this title; title 21 sections 853, 856.
 

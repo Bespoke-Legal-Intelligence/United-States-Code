@@ -1,6 +1,6 @@
 ### §486. Uttering coins of gold, silver or other metal
 
-Whoever, except as authorized by law, makes or utters or passes, or attempts to utter or pass,any coins of gold or silver or other metal, or alloys of metals, intended for use as current money, whether in the resemblance of coins of the United States or of foreign countries, or of original design, shall be fined under this title <sup>1</sup> or imprisoned not more than five years, or both.
+Whoever, except as authorized by law, makes or utters or passes, or attempts to utter or pass, any coins of gold or silver or other metal, or alloys of metals, intended for use as current money, whether in the resemblance of coins of the United States or of foreign countries, or of original design, shall be fined under this title <sup>1</sup> or imprisoned not more than five years, or both.
 
 (June 25, 1948, ch. 645, 62 Stat. 709; Pub. L. 103–322, title XXXIII, §330016(1)(I), Sept. 13, 1994, 108 Stat. 2147.)
 
@@ -14,11 +14,7 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1994—Pub. L. 103–322, which directed the amendment of this section by substituting “fined under this title” for “fined not more than $2,000”, was executed by making the substitution for “fined not more than $3,000”, to reflect the probable intent of Congress.
-
-#### Canal Zone
-
-Applicability of section to Canal Zone, see section 14 of this title.
+1994—Pub. L. 103–322, which directed the amendment of this section by substituting “fined under this title”for “fined not more than $2,000”, was executed by making the substitution for “fined not more than $3,000”, to reflect the probable intent of Congress.
 
 #### Section Referred to in Other Sections
 

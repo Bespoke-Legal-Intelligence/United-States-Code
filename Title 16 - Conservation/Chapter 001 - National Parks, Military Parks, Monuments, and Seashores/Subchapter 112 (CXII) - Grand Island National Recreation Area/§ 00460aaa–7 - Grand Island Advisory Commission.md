@@ -30,7 +30,7 @@ Subject to appointments as provided in subsection (b) of this section, there is 
 
 #### (c) Quorum
 
-A quorum shall be six members. The operations of the Commission shall not be impaired by the fact that a member has not been appointed as long as a quorum has been attained.
+A quorum shall be six members. The operations of the Commission shall not be impairedby the fact that a member has not been appointed as long as a quorum has been attained.
 
 #### (d) Procedures
 

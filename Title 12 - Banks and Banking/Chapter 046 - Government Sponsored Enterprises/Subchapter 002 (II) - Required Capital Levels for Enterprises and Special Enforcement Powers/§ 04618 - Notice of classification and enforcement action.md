@@ -2,7 +2,7 @@
 
 #### (a) Notice
 
-Before taking any action referred to in subsection (b) of this section, the Director shall provide to the enterprise written notice of the proposed action, which states the reasons for the proposed action and the information on which the proposed action is based.
+Before taking any action referred to in subsection (b) of this section, the Director shallprovide to the enterprise written notice of the proposed action, which states the reasons for the proposed action and the information on which the proposed action is based.
 
 #### (b) Applicability
 
@@ -36,7 +36,7 @@ The requirements of subsection (a) of this section shall apply to the following 
 
 #### (d) Consideration of information and determination
 
-After the expiration of the response period under subsection (c) of this section or upon receipt of information provided during such period by the enterprise, whichever occurs earlier, the Director shall determine whether to take the action proposed, taking into consideration any relevant information submitted by the enterprise during the response period. The Director shall provide written notice of a determination totake action and the reasons for such determination to the enterprise, the Committee on Banking, Finance and Urban Affairs of the House of Representatives, and the Committee on Banking, Housing, and Urban Affairs of the Senate. Such notice shall respond to any information submitted during the response period.
+After the expiration of the response period under subsection (c) of this section or upon receipt of information provided during such period by the enterprise, whichever occurs earlier, the Director shall determine whether to take the action proposed, taking into consideration any relevant information submitted by the enterprise during the response period. The Director shall provide written notice of a determination to take action and the reasons for such determination to the enterprise, the Committee on Banking, Finance and Urban Affairs of the House of Representatives, and the Committee on Banking, Housing, and Urban Affairs of the Senate. Such notice shall respond to any information submitted during the response period.
 
 #### (e) Effective date of actions
 
@@ -46,7 +46,7 @@ An action referred to in subsection (b) of this section shall take effect upon r
 
 #### Change of Name
 
-Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Section Referred to in Other Sections
 

@@ -6,9 +6,9 @@ In order to provide for the District of Columbia facilities for the holding of c
 
 #### (b) Plan, design, and costs of civic center; administrative approval and review; filing plats showing opening, extension, widening, or closing of streets, roads, highways, and alleys
 
-(1) Such civic center shall be in accordance with a plan, indicating the design and estimated costs, approved by the Mayor and the Council of the District of Columbia, and approved by the National Capital Planning Commission pursuant to section 71d of this title and section 16 of the Act approved June 20, 1938 \[D.C. Code, §5–432\], and reviewed by the Commissioner of Fine Arts to the extent required by section 1 of the Act approved May 16, 1930 \[D.C. Code, §5–410\].
+(1) Such civic center shall be in accordance with a plan, indicating the design and estimated costs, approved by the Mayor and the Council of the District of Columbia, and approved by the National Capital Planning Commission pursuant to section 71d of this title and section 16 of the Act approved June 20, 1938, and reviewed by the Commissioner of Fine Arts to the extent required by section 121 of this title.
 
-(2) Notwithstanding the provisions of section 12 of the District of Columbia Redevelopment Act of 1945, as amended \[D.C. Code, §5–811\], the urban renewal plan, approved pursuant to section 6(b)(2) of such Act \[D.C. Code, §5–805(b)(2)\], for an urban renewal area in which the civic center is located shall be deemed to be modified by the plan approved pursuant to this subsection and the National Capital Planning Commission shall certify such urban renewal plan, as modified, to the District of Columbia Redevelopment Land Agency.
+(2) Notwithstanding the provisions of section 12 of the District of Columbia Redevelopment Act of 1945, as amended, the urban renewal plan, approved pursuant to section 6(b)(2) of such Act, for an urban renewal area in which the civic center is located shall be deemed to be modified by the plan approved pursuant to this subsection and the National Capital Planning Commission shall certify such urban renewal plan, as modified, to the District of Columbia Redevelopment Land Agency.
 
 (3) In the development of the civic center in accordance with the plan approved pursuant to this subsection, the Mayor, notwithstanding any other provision of law, may open, extend, widen, or close any street, road, highway, or alley, or part thereof, by the filing of a plat or plats in the Office of the Surveyor of the District of Columbia showing such opening, extension, widening, or closing.
 
@@ -32,7 +32,7 @@ The Mayor shall acquire by purchase, gift, condemnation, or otherwise, all real 
 
 (3) For the purpose of the purchase contracts provided by this subsection for the erection of the civic center, the Mayor is authorized to enter into agreements with any person, copartnership, corporation, or other public or private entity to effectuate any of the purposes of this subsection.
 
-(4) No purchase contract for the construction of such civic center shall be entered into, pursuant to the authority of this section, until thirty legislative days following submittal to and approval by the Senate and House Committees forthe District of Columbia, and the Senate and House Committees on Appropriations, of the design, plans, and specifications, including detailed cost estimates, of such civic center.
+(4) No purchase contract for the construction of such civic center shall be entered into, pursuant to the authority of this section, until thirty legislative days following submittal to and approval by the Senate and House Committees for the District of Columbia, and the Senate and House Committees on Appropriations, of the design, plans, and specifications, including detailed cost estimates, of such civic center.
 
 #### (e) Full faith and credit of the District of Columbia
 
@@ -48,6 +48,10 @@ The full faith and credit of the Government of the District of Columbia is hereb
 
 #### References in Text
 
+The Act approved June 20, 1938, referred to in subsec. (b)(1), is act June 20, 1938, ch. 534, 52 Stat. 797, as amended, which is not classified to the Code.
+
+The District of Columbia Redevelopment Act of 1945, referred to in subsec. (b)(2), is act Aug. 2, 1946, ch. 736, 60 Stat. 790, as amended, which is not classified to the Code.
+
 The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, referred to in subsec. (d)(2)(A), is Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, as amended, which is classified principally to chapter 61 (§4601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4601 of Title 42 and Tables.
 
 #### Effective Date
@@ -56,11 +60,9 @@ Section 41(a) of Pub. L. 92–520 provided that this section and provisions set 
 
 #### Transfer of Functions
 
-Office of Commissioner of District of Columbia, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by Pub. L. 93–198, title VII, §711, Dec. 24, 1973, 87 Stat. 818, and replaced by office of Mayor of District of Columbia by section 421 of Pub. L. 93–198, classified to section 1–241 of District of Columbia Code. Accordingly, “Mayor” substituted in text for “commissioner”.
+Office of Commissioner of District of Columbia, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by Pub. L. 93–198, title VII, §711, Dec. 24, 1973, 87 Stat. 818, and replaced by office of Mayor of District of Columbia by section 421 of Pub. L. 93–198. Accordingly, “Mayor” substituted in text for “commissioner”.
 
-“Council of the District of Columbia” substituted in text for “District of Columbia Council” pursuant to section 401 of Pub. L. 93–198. District of Columbia Council, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by Pub. L. 93–198, title VII, §711, Dec. 24, 1973, 87 Stat. 818, classified to section 1–211 of the District of Columbia Code, and replaced by Council of District of Columbia, as provided by section 401 of Pub. L. 93–198, classified to section 1–221 of the District of Columbia Code.
-
-For transfer of powers, duties, and functions of District of Columbia Land Redevelopment Agency, as set forth in sections 5–801 to 5–840 of the District of Columbia Code, to Director of Department of Housing and Community Development, with certain exceptions, see part 4 of Reorg. Plan No. 3 of 1975, eff. July 3, 1975, 21 DCR 2793, set out in the Appendix to Title I of the District of Columbia Code, Administration.
+“Council of the District of Columbia” substituted in text for “District of Columbia Council” pursuant tosection 401 of Pub. L. 93–198. District of Columbia Council, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by Pub. L. 93–198, title VII, §711, Dec. 24, 1973, 87 Stat. 818, and replaced by Council of District of Columbia, as provided by section 401 of Pub. L. 93–198.
 
 #### Abolition of Committees on the District of Columbia
 

@@ -10,11 +10,11 @@ Aircraft accident.—The term “aircraft accident” means any aviation disaste
 
 &emsp;(2)
 
-Passenger.—The term “passenger” includes an employee of a foreign air carrier or air carrier aboard an aircraft.
+Passenger.—The term “passenger” has the meaning given such term by section 1136.
 
 (b)
 
-Submission of Plans.—A foreign air carrier providing foreign air transportation under this chapter shall transmit to the Secretary of Transportation and the Chairman of the National Transportation Safety Board a plan for addressing the needs of the families of passengers involved in an aircraft accident that involves an aircraft under the control of the foreign air carrier and results in a significant loss of life.
+Submission of Plans.—A foreign air carrier providing foreign air transportation under this chapter shall transmit to the Secretary of Transportation and the Chairman of the National Transportation Safety Board a plan for addressing the needs of the families of passengers involved in an aircraft accident that involves an aircraft under the control of the foreign air carrier and results in a major loss of life.
 
 (c)
 
@@ -26,7 +26,7 @@ Telephone number.—A plan for publicizing a reliable, toll-free telephone numbe
 
 &emsp;(2)
 
-Notification of families.—A process for notifying, in person to the extent practicable,the families of passengers involved in an aircraft accident that involves an aircraft under the control of the foreign air carrier and results in a significant loss of life before providing any public notice of the names of such passengers. Such notice shall be provided by using the services of—
+Notification of families.—A process for notifying, in person to the extent practicable, the families of passengers involved in an aircraft accident that involves an aircraft under the control of the foreign air carrier and results in a significant loss of life before providing any public notice of the names of such passengers. Such notice shall be provided by using the services of—
 
 &emsp;&emsp;(A) the organization designated for the accident under section 1136(a)(2); or
 
@@ -70,7 +70,7 @@ Service and assistance to families of passengers.—An assurance that the foreig
 
 &emsp;(11)
 
-Compensation to service organizations.—An assurance that the foreign air carrier will provide reasonable compensation to any organization designated under section 1136(a)(2) for services and assistance provided by the organization.
+Compensation to service organizations.—An assurance that the foreign air carrier will provide reasonable compensation toany organization designated under section 1136(a)(2) for services and assistance provided by the organization.
 
 &emsp;(12)
 
@@ -84,6 +84,14 @@ Resources for plan.—An assurance that the foreign air carrier will commit suff
 
 Substitute measures.—If a foreign air carrier does not wish to comply with paragraph (10), (11), or (12), a description of proposed adequate substitute measures for the requirements of each paragraph with which the foreign air carrier does not wish to comply.
 
+&emsp;(15)
+
+Training of employees and agents.—An assurance that the foreign air carrier will provide adequate training to the employees and agents of the carrier to meet the needs of survivors and family members following an accident.
+
+&emsp;(16)
+
+Consultation on carrier response not covered by plan.—An assurance that the foreign air carrier, in the event that the foreign air carrier volunteers assistance to United States citizens within the United States with respect to an aircraft accident outside the United States involving major loss of life, the foreign air carrier <sup>1</sup> will consult with the Board and the Department of State on the provision of the assistance.
+
 (d)
 
 Permit and Exemption Requirement.—The Secretary shall not approve an application for a permit under section 41302 unless the applicant has included as part of the application or request for exemption a plan that meets the requirements of subsection (c).
@@ -92,11 +100,25 @@ Permit and Exemption Requirement.—The Secretary shall not approve an applicati
 
 Limitation on Liability.—A foreign air carrier shall not be liable for damages in any action brought in a Federal or State court arising out of the performance of the foreign air carrier in preparing or providing a passenger list pursuant to a plan submitted by the foreign air carrier under subsection (c), unless the liability was caused by conduct of the foreign air carrier which was grossly negligent or which constituted intentional misconduct.
 
-(Added Pub. L. 105–148, §1(a), Dec. 16, 1997, 111 Stat. 2681.)
+(Added Pub. L. 105–148, §1(a), Dec. 16, 1997, 111 Stat. 2681; amended Pub. L. 106–181, title IV, §403(a)–(c)(1), Apr. 5, 2000, 114 Stat. 130.)
 
 #### References in Text
 
 The date of the enactment of this section, referred to in subsec. (c), is the date of enactment of Pub. L. 105–148, which was approved Dec. 16, 1997.
+
+#### Amendments
+
+2000—Subsec. (a)(2). Pub. L. 106–181, §403(a), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “The term ‘passenger’ includes an employee of a foreign air carrier or air carrier aboard an aircraft.”
+
+Subsec. (b). Pub. L. 106–181, §403(b), substituted “major” for “significant”.
+
+Subsec. (c)(15), (16). Pub. L. 106–181, §403(c)(1), added pars. (15) and (16).
+
+#### Effective Date of 2000 Amendment
+
+Amendment by section 403(a) and (b) of Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
+
+Pub. L. 106–181, title IV, §403(c)(2), Apr. 5, 2000, 114 Stat. 131, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on the 180th day following the date of the enactment of this Act \[Apr. 5, 2000\]. On or before such 180th day, each foreign air carrier providing foreign air transportation under chapter 413 of title 49, United States Code, shall submit to the Secretary \[of Transportation\] and the Chairman of the National Transportation Safety Board an updated plan under section 41313 of such title that meets the requirements of the amendment made by paragraph (1).”
 
 #### Effective Date
 

@@ -1,0 +1,56 @@
+### §4304. Native American trade and export promotion
+
+#### (a) In general
+
+The Secretary, acting through the Director, shall carry out a Native American export and trade promotion program (referred to in this section as the “program”).
+
+#### (b) Coordination of Federal programs and services
+
+In carrying out the program, the Secretary, acting through the Director, and in cooperation with the heads of appropriate Federal agencies, shall ensure the coordination of Federal programs and services designed to—
+
+&emsp;(1) develop the economies of Indian tribes; and
+
+&emsp;(2) stimulate the demand for Indian goods and services that are available from eligible entities.
+
+#### (c) Activities
+
+In carrying out the duties described in subsection (b) of this section, the Secretary, acting through the Director, shall ensure the coordination of, or, as appropriate, carry out—
+
+&emsp;(1) Federal programs designed to provide technical or financial assistance to eligible entities;
+
+&emsp;(2) the development of promotional materials;
+
+&emsp;(3) the financing of appropriate trade missions;
+
+&emsp;(4) the marketing of Indian goods and services;
+
+&emsp;(5) the participation of appropriate Federal agencies or eligible entities in international trade fairs; and
+
+&emsp;(6) any other activity related to the development of markets for Indian goods and services.
+
+#### (d) Technical assistance
+
+In conjunction with the activities described in subsection (c) of this section, the Secretary, acting through the Director, shall provide technical assistance and administrative services to eligible entities to assist those entities with—
+
+&emsp;(1) the identification of appropriate markets for Indian goods and services;
+
+&emsp;(2) entering the markets referred to in paragraph (1);
+
+&emsp;(3) compliance with foreign or domestic laws and practices with respect to financial institutions with respect to the export and import of Indian goods and services; and
+
+&emsp;(4) entering into financial arrangements to provide for the export and import of Indian goods and services.
+
+#### (e) Priorities
+
+In carrying out the duties and activities described in subsections (b) and (c) of this section, the Secretary, acting through the Director, shall give priority to activities that—
+
+&emsp;(1) provide the greatest degree of economic benefits to Indians; and
+
+&emsp;(2) foster long-term stable international markets for Indian goods and services.
+
+(Pub. L. 106–464, §5, Nov. 7, 2000, 114 Stat. 2016.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 4306 of this title.
+

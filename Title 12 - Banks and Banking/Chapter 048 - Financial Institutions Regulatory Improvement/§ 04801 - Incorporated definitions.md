@@ -28,7 +28,7 @@ Study Required.—The Board of Governors of the Federal Reserve System and the S
 
 “(b)
 
-Report.—Before the end of the 18-month period beginning on the date of the enactment of this Act \[Nov. 12, 1999\], the Board of Governors of the Federal Reserve System and the Secretary of the Treasury shall submit a report to the Congress containing the findings and conclusions of the Board and the Secretary in connection with the study required under subsection (a), together with such legislative and administrative proposals as the Board and the Secretary may determine to be appropriate.
+Report.—Before the end of the 18-month period beginning on the date of the enactment of this Act\[Nov. 12, 1999\], the Board of Governors of the Federal Reserve System and the Secretary of the Treasury shall submit a report to the Congress containing the findings and conclusions of the Board and the Secretary in connection with the study required under subsection (a), together with such legislative and administrative proposals as the Board and the Secretary may determine to be appropriate.
 
 “(c)
 
@@ -142,7 +142,7 @@ Study.—The Secretary of the Treasury, in consultation with the Board of Govern
 
 &emsp;“(1) reducing the amount of credit available for such purposes or the number of persons eligible for such credit;
 
-&emsp;“(2) increasing the level of consumer inconvenience, cost, and time delays in connection with the extension of consumer and small business credit without corresponding benefit with respect to the protection of consumers or small businesses or the safety and soundness of insured depository institutions; and
+&emsp;“(2) increasing the level of consumer inconvenience, cost, and time delays in connection with theextension of consumer and small business credit without corresponding benefit with respect to the protection of consumers or small businesses or the safety and soundness of insured depository institutions; and
 
 &emsp;“(3) increasing costs and burdens on insured depository institutions, insured credit unions, and other lenders without corresponding benefit with respect to the protection of consumers or small business concerns or to the safety and soundness of insured institutions.
 

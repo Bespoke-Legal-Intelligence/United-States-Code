@@ -15,18 +15,6 @@
 
 1980—Pub. L. 96–513, title I, §104(a), Dec. 12, 1980, 94 Stat. 2845, inserted an analysis of subchapters immediately following chapter heading, added subchapter I heading, and, in analysis of sections following subchapter I heading, added items 531, 532, and 533 preceding item 541, re-enacted item 541 without change, and struck out, following item 541, items 555 to 565. The items 555 to 565 formerly set out in the analysis of sections immediately following chapter heading were transferred to a position following a new heading for subchapter II preceding section 555.
 
-#### Cross References
-
-Particular provisions relating to appointments—
-
-&emsp;&emsp;Regular Air Force, see section 8281 et seq. of this title.
-
-&emsp;&emsp;Regular Army, see section 3281 et seq. of this title.
-
-&emsp;&emsp;Regular Coast Guard, see sections 212, 214 of Title 14, Coast Guard.
-
-&emsp;&emsp;Regular Navy and Regular Marine Corps, see section 5582 et seq. of this title.
-
 
 ---
 

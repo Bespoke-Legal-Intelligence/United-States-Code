@@ -74,7 +74,7 @@ During the time in which a moratorium under this section is in effect, it is unl
 
 A person authorized by the Secretary or the Secretary of the department in which the Coast Guard is operating may take any action to enforce a moratorium declared under subsection (c) of this section that an officer authorized by the Secretary under section 311(b) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1861(b)) may take to enforce that Act \[16 U.S.C. 1801 et seq.\]. The Secretary may, by agreement, on a reimbursable basis or otherwise, utilize the personnel, services, equipment (including aircraft and vessels), and facilities of any other Federal department or agency and of any agency of a State in carrying out that enforcement.
 
-(Pub. L. 103–206, title VIII, §807, Dec. 20, 1993, 107 Stat. 2451; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41.)
+(Pub. L. 103–206, title VIII, §807, Dec. 20, 1993, 107 Stat. 2451; Pub. L. 106–555, title I, §122(b)(3), Dec. 21, 2000, 114 Stat. 2766.)
 
 #### References in Text
 
@@ -82,9 +82,5 @@ The Magnuson-Stevens Fishery Conservation and Management Act, referred to in sub
 
 #### Amendments
 
-1996—Subsecs. (f) to (h). Pub. L. 104–208 substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery” wherever appearing.
-
-#### Effective Date of 1996 Amendment
-
-Section 101(a) \[title II, §211(b)\] of div. A of Pub. L. 104–208 provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
+2000—Subsecs. (f) to (h). Pub. L. 106—555 substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery” wherever appearing.
 

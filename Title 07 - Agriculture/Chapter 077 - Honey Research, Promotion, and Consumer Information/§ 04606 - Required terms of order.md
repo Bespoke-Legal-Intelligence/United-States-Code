@@ -192,7 +192,7 @@ Nonmembers.—As a condition of certification under this paragraph, an organizat
 
 (7)
 
-Minimum percentage of honey producers.—Notwithstanding any other provision ofthis subsection, at least 50 percent of the members of the Honey Board shall be honey producers.
+Minimum percentage of honey producers.—Notwithstanding any other provision of this subsection, at least 50 percent of the members of the Honey Board shall be honey producers.
 
 (8) Members of the Honey Board shall serve for three-year terms with no member serving more than two consecutive three-year terms except that appointments to the Honey Board may be staggered periodically, as determined by the Secretary, to maintain continuity of the Honey Board with respect to all members and with respect to members representing particular groups..<sup>1</sup>
 

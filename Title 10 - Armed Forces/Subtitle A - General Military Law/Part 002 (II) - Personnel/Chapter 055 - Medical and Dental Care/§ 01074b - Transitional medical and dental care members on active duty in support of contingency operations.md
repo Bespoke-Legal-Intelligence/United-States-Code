@@ -2,7 +2,7 @@
 
 (a)
 
-Health Care Provided.—A member of the armed forces described in subsection (b), and the dependents of the member, shall be entitled to receive health care described in subsection (c)upon the release of the member from active duty in support of a contingency operation until the earlier of—
+Health Care Provided.—A member of the armed forces described in subsection (b), and the dependents of the member, shall be entitled to receive health care described in subsection (c) upon the release of the member from active duty in support of a contingency operation until the earlier of—
 
 &emsp;(1) 30 days after the date of the release of the member from active duty; or
 

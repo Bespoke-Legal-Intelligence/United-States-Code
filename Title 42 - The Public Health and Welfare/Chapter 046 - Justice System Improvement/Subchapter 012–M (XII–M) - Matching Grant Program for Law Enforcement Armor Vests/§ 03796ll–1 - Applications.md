@@ -12,11 +12,23 @@ Not later than 90 days after June 16, 1998, the Director of the Bureau of Justic
 
 A unit of local government that receives funding under the Local Law Enforcement Block Grant program (described under the heading “Violent Crime Reduction Programs, State and Local Law Enforcement Assistance” of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1998 (Public Law 105–119)) during a fiscal year in which it submits an application under this subchapter shall not be eligible for a grant under this subchapter unless the chief executive officer of such unit of local government certifies and provides an explanation to the Director that the unit of local government considered or will consider using funding received under the block grant program for any or all of the costs relating to the purchase of armor vests, but did not, or does not expect to use such funds for such purpose.
 
-(Pub. L. 90–351, title I, §2502, as added Pub. L. 105–181, §3(a)(3), June 16, 1998, 112 Stat. 514.)
+#### (d) Applications in conjunction with purchases
+
+If an application under this section is submitted in conjunction with a transaction for the purchase of armor vests, grant amounts under this section may not be used to fund any portion of that purchase unless, before the application is submitted, the applicant—
+
+&emsp;(1) receives clear and conspicuous notice that receipt of the grant amounts requested in the application is uncertain; and
+
+&emsp;(2) expressly assumes the obligation to carry out the transaction, regardless of whether such amounts are received.
+
+(Pub. L. 90–351, title I, §2502, as added Pub. L. 105–181, §3(a)(3), June 16, 1998, 112 Stat. 514; amended Pub. L. 106–517, §3(c), Nov. 13, 2000, 114 Stat. 2408.)
 
 #### References in Text
 
 The Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1998, referred to in subsec. (c), is Pub. L. 105–119, Nov. 26, 1997, 111 Stat. 2440. Provisions under the heading “Violent Crime Reduction Programs, State and Local Law Enforcement Assistance”, 111 Stat. 2452, are not classified to the Code.
+
+#### Amendments
+
+2000—Subsec. (d). Pub. L. 106–517 added subsec. (d).
 
 #### Transfer of Functions
 

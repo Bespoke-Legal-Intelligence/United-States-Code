@@ -4,7 +4,3 @@ If the Secretary of the Interior shall find that any inherited trust allotment o
 
 (May 18, 1916, ch. 125, §1, 39 Stat. 127.)
 
-#### Cross References
-
-Certain lands not to be allotted in severalty to any Indian, see section 461 of this title.
-

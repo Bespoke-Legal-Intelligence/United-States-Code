@@ -2,7 +2,7 @@
 
 #### (a) Terms and conditions for Federal assistance
 
-The Secretary is authorized and directed to enter into a cooperative agreement with theFoundation respecting the presentation of performing arts and related educational and cultural programs at the Center, and in such other areas of the park as may be agreed to. The Secretary may provide technical and financial assistance under such a cooperative agreement for such purposes, pursuant to such terms and conditions as he deems appropriate.
+The Secretary is authorized and directed to enter into a cooperative agreement with the Foundation respecting the presentation of performing arts and related educational and cultural programs at the Center, and in such other areas of the park as may be agreed to. The Secretary may provide technical and financial assistance under such a cooperative agreement for such purposes, pursuant to such terms and conditions as he deems appropriate.
 
 #### (b) Prerequisite conditions
 
@@ -37,6 +37,10 @@ A cooperative agreement under this section shall provide that—
 #### Effective Date of 1990 Amendment
 
 Amendment by Pub. L. 101–636 effective on the date on which the Wolf Trap Foundation for the Performing Arts modifies its agreements entered into pursuant to this subchapter, see section 4(a) of Pub. L. 101–636, set out as a note under section 284c of this title.
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (c)(2) of this section relating to submitting annual report to appropriate committees of Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 116 of House Document No. 103–7.
 
 #### Section Referred to in Other Sections
 

@@ -32,7 +32,7 @@ For payment by the Secretary of the Treasury of the subscription of the United S
 
 #### (d) Disposition of net income distributions by Bank
 
-Any payment made to the United States by the Bank as a distribution of net income shall be covered into the Treasury as a miscellaneous receipt.
+Any payment made to the United States by the Bank as a distribution of net income shallbe covered into the Treasury as a miscellaneous receipt.
 
 (Pub. L. 104–208, div. A, title I, §101(c) \[title VII, §706\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–179.)
 

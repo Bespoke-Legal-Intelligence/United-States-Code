@@ -26,10 +26,6 @@ Amendment by Pub. L. 104–208 effective, with certain transitional provisions, 
 
 For effective date of amendment by Pub. L. 89–236, see section 20 of Pub. L. 89–236, set out as a note under section 1151 of this title.
 
-#### Cross References
-
-Definition of alien, Attorney General, child, consular officer, entry, immigrant, immigrant visa, lawfully admitted for permanent residence, parent, and spouse, see section 1101 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1154 of this title.

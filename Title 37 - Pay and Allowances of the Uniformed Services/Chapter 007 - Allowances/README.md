@@ -4,6 +4,7 @@
 | :--- | ---: |
 | [401\.](%C2%A7%2000401%20-%20Definitions.md) | Definitions. |
 | [402\.](%C2%A7%2000402%20-%20Basic%20allowance%20for%20subsistence.md) | Basic allowance for subsistence. |
+| [402a.](%C2%A7%2000402a%20-%20Supplemental%20subsistence%20allowance%20for%20low-income%20members%20with%20dependents.md) | Supplemental subsistence allowance for low-income members with dependents. |
 | [403\.](%C2%A7%2000403%20-%20Basic%20allowance%20for%20housing.md) | Basic allowance for housing. |
 | \[403a. | Repealed.\] |
 | [403b.](%C2%A7%2000403b%20-%20Cost-of-living%20allowance%20in%20the%20continental%20United%20States.md) | Cost-of-living allowance in the continental United States. |
@@ -33,6 +34,7 @@
 | [411f.](%C2%A7%2000411f%20-%20Travel%20and%20transportation%20allowances%20transportation%20for%20survivors%20of%20deceased%20member%20to%20attend%20the%20member%27s%20burial%20ceremonies.md) | Travel and transportation allowances: transportation for survivors of deceased member to attend the member's burial ceremonies. |
 | [411g.](%C2%A7%2000411g%20-%20Travel%20and%20transportation%20allowances%20transportation%20incident%20to%20voluntary%20extensions%20of%20overseas%20tours%20of%20duty.md) | Travel and transportation allowances: transportation incident to voluntary extensions of overseas tours of duty. |
 | [411h.](%C2%A7%2000411h%20-%20Travel%20and%20transportation%20allowances%20transportation%20of%20family%20members%20incident%20to%20the%20serious%20illness%20or%20injury%20of%20members.md) | Travel and transportation allowances: transportation of family members incident to the serious illness or injury of members. |
+| [411i.](%C2%A7%2000411i%20-%20Travel%20and%20transportation%20allowances%20parking%20expenses.md) | Travel and transportation allowances: parking expenses. |
 | [412\.](%C2%A7%2000412%20-%20Appropriations%20for%20travel%20may%20not%20be%20used%20for%20attendance%20at%20certain%20meetings.md) | Appropriations for travel: may not be used for attendance at certain meetings. |
 | [413\.](%C2%A7%2000413%20-%20Chairman%20and%20Vice%20Chairman%20of%20the%20Joint%20Chiefs%20of%20Staff.md) | Chairman and Vice Chairman of the Joint Chiefs of Staff. |
 | [414\.](%C2%A7%2000414%20-%20Personal%20money%20allowance.md) | Personal money allowance. |
@@ -56,21 +58,22 @@
 | [432\.](%C2%A7%2000432%20-%20Travel%20and%20transportation%20members%20escorting%20certain%20dependents.md) | Travel and transportation: members escorting certain dependents. |
 | [433\.](%C2%A7%2000433%20-%20Allowance%20for%20muster%20duty.md) | Allowance for muster duty. |
 | [434\.](%C2%A7%2000434%20-%20Subsistence%20reimbursement%20relating%20to%20escorts%20of%20foreign%20arms%20control%20inspection%20teams.md) | Subsistence reimbursement relating to escorts of foreign arms control inspection teams. |
-| 435\.<sup>2</sup> | Per diem allowance for lengthy or numerous deployments. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
-| 435\.<sup>2</sup> | Funeral honors duty: allowance. |
+| [435\.](%C2%A7%2000435%20-%20Funeral%20honors%20duty%20allowance.md) | Funeral honors duty: allowance. |
+| [436\.](%C2%A7%2000436%20-%20Per%20diem%20allowance%20for%20lengthy%20or%20numerous%20deployments.md) | Per diem allowance for lengthy or numerous deployments. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
-1999—Pub. L. 106–65, div. A, title V, §586(c)(2), Oct. 5, 1999, 113 Stat. 639, added item 435 “Per diem allowance for lengthy or numerous deployments”.
+2000—Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(c)(1)(B)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–292, made technical amendment to directory language of Pub. L. 106–65, §586(c)(2). See 1999 Amendment note below.
 
-Pub. L. 106–65, div. A, title V, §578(k)(4), Oct. 5, 1999, 113 Stat. 631, which directed amendment of the table of sections at the beginning of chapter 4 of this title by adding item 435 “Funeral honors duty: allowance”, was executed by adding that item 435 to the table of sections of this chapter to reflect the probable intent of Congress.
+Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(c)(1)(A)(ii)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–292, made technical amendment to directory language of Pub. L. 106–65, §578(k)(4). See 1999 Amendment note below.
+
+Pub. L. 106–398, §1 \[\[div. A\], title VI, §§604(a)(2), 645(b), title X, §1087(b)(4)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–147, 1654A–162, 1654A–292, added items 402a and 411i and redesignated item 435 “Per diem allowance for lengthy or numerous deployments” as 436.
+
+1999—Pub. L. 106–65, div. A, title V, §586(c)(2), Oct. 5, 1999, 113 Stat. 639, as amended by Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(c)(1)(B)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–292, added item 435 “Per diem allowance for lengthy or numerous deployments”.
+
+Pub. L. 106–65, div. A, title V, §578(k)(4), Oct. 5, 1999, 113 Stat. 631, as amended by Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(c)(1)(A)(ii)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–292, added item 435 “Funeral honors duty: allowance”.
 
 1998—Pub. L. 105–261, div. A, title VI, §633(b)(2), Oct. 17, 1998, 112 Stat. 2044, substituted “rest and recuperative leave from certain stations” for “leave from certain stations” in item 411c.
 
@@ -132,8 +135,6 @@ This chapter is referred to in section 907 of this title; title 10 sections 1051
 
 <i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
-<i><sup>2</sup></i><i> So in original. Two sections 435 have been enacted and appear in a different order in this chapter.</i>
-
 
 ---
 
@@ -141,6 +142,7 @@ This chapter is referred to in section 907 of this title; title 10 sections 1051
 
 - [&sect; 00401 - Definitions](%C2%A7%2000401%20-%20Definitions.md)
 - [&sect; 00402 - Basic allowance for subsistence](%C2%A7%2000402%20-%20Basic%20allowance%20for%20subsistence.md)
+- [&sect; 00402a - Supplemental subsistence allowance for low-income members with dependents](%C2%A7%2000402a%20-%20Supplemental%20subsistence%20allowance%20for%20low-income%20members%20with%20dependents.md)
 - [&sect; 00403 - Basic allowance for housing](%C2%A7%2000403%20-%20Basic%20allowance%20for%20housing.md)
 - [&sect; 00403a - Repealed. Pub. L. 105&#8211;85, div. A, title VI, &sect;603(c)(1), Nov. 18, 1997, 111 Stat. 1781](%C2%A7%2000403a%20-%20Repealed.%20Pub.%20L.%20105%E2%80%9385%2C%20div.%20A%2C%20title%20VI%2C%20%C2%A7603%28c%29%281%29%2C%20Nov.%2018%2C%201997%2C%20111%20Stat.%201781.md)
 - [&sect; 00403b - Cost-of-living allowance in the continental United States](%C2%A7%2000403b%20-%20Cost-of-living%20allowance%20in%20the%20continental%20United%20States.md)
@@ -165,6 +167,7 @@ This chapter is referred to in section 907 of this title; title 10 sections 1051
 - [&sect; 00411f - Travel and transportation allowances transportation for survivors of deceased member to attend the member's burial ceremonies](%C2%A7%2000411f%20-%20Travel%20and%20transportation%20allowances%20transportation%20for%20survivors%20of%20deceased%20member%20to%20attend%20the%20member%27s%20burial%20ceremonies.md)
 - [&sect; 00411g - Travel and transportation allowances transportation incident to voluntary extensions of overseas tours of duty](%C2%A7%2000411g%20-%20Travel%20and%20transportation%20allowances%20transportation%20incident%20to%20voluntary%20extensions%20of%20overseas%20tours%20of%20duty.md)
 - [&sect; 00411h - Travel and transportation allowances transportation of family members incident to the serious illness or injury of members](%C2%A7%2000411h%20-%20Travel%20and%20transportation%20allowances%20transportation%20of%20family%20members%20incident%20to%20the%20serious%20illness%20or%20injury%20of%20members.md)
+- [&sect; 00411i - Travel and transportation allowances parking expenses](%C2%A7%2000411i%20-%20Travel%20and%20transportation%20allowances%20parking%20expenses.md)
 - [&sect; 00412 - Appropriations for travel may not be used for attendance at certain meetings](%C2%A7%2000412%20-%20Appropriations%20for%20travel%20may%20not%20be%20used%20for%20attendance%20at%20certain%20meetings.md)
 - [&sect; 00413 - Chairman and Vice Chairman of the Joint Chiefs of Staff](%C2%A7%2000413%20-%20Chairman%20and%20Vice%20Chairman%20of%20the%20Joint%20Chiefs%20of%20Staff.md)
 - [&sect; 00414 - Personal money allowance](%C2%A7%2000414%20-%20Personal%20money%20allowance.md)
@@ -188,5 +191,5 @@ This chapter is referred to in section 907 of this title; title 10 sections 1051
 - [&sect; 00432 - Travel and transportation members escorting certain dependents](%C2%A7%2000432%20-%20Travel%20and%20transportation%20members%20escorting%20certain%20dependents.md)
 - [&sect; 00433 - Allowance for muster duty](%C2%A7%2000433%20-%20Allowance%20for%20muster%20duty.md)
 - [&sect; 00434 - Subsistence reimbursement relating to escorts of foreign arms control inspection teams](%C2%A7%2000434%20-%20Subsistence%20reimbursement%20relating%20to%20escorts%20of%20foreign%20arms%20control%20inspection%20teams.md)
-- [&sect; 00435 - 1 Funeral honors duty allowance](%C2%A7%2000435%20-%201%20Funeral%20honors%20duty%20allowance.md)
-- [&sect; 00435 - 1 Per diem allowance for lengthy or numerous deployments](%C2%A7%2000435%20-%201%20Per%20diem%20allowance%20for%20lengthy%20or%20numerous%20deployments.md)
+- [&sect; 00435 - Funeral honors duty allowance](%C2%A7%2000435%20-%20Funeral%20honors%20duty%20allowance.md)
+- [&sect; 00436 - Per diem allowance for lengthy or numerous deployments](%C2%A7%2000436%20-%20Per%20diem%20allowance%20for%20lengthy%20or%20numerous%20deployments.md)

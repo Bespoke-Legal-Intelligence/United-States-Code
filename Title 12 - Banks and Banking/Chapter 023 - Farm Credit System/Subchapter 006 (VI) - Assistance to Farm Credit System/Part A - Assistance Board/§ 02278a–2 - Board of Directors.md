@@ -8,7 +8,7 @@ The Board of Directors of the Assistance Board (hereinafter referred to in this 
 
 &emsp;(2) one of which shall be the Secretary of Agriculture; and
 
-&emsp;(3) one of which shall be an agricultural producer experienced in financial matters, and appointed by the President, by and with the advice and consent of the Senate.
+&emsp;(3) one of which shall be an agricultural producer experienced in financial matters, andappointed by the President, by and with the advice and consent of the Senate.
 
 #### (b) Chairman
 

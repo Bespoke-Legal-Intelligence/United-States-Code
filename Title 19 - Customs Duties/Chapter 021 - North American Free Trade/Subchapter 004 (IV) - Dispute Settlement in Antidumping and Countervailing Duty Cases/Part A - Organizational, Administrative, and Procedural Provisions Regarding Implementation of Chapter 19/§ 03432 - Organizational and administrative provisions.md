@@ -30,7 +30,7 @@
 
 #### (2) Consultation with chief judges
 
-&emsp;The Trade Representative shall consult, from time to time, with the chief judges of theFederal judicial circuits regarding the interest in, and availability for, participation in binational panels, extraordinary challenge committees, and special committees, of judges within their respective circuits. If the chief judge of a Federal judicial circuit determines that it is appropriate for one or more judges within that circuit to be included on a roster described in subsection (a)(1)(D) of this section, the chief judge shall identify all such judges for the Chief Justice of the United States who may, upon his or her approval, submit the names of such judges to the Trade Representative. The Trade Representative shall include the names of such judges on the roster.
+&emsp;The Trade Representative shall consult, from time to time, with the chief judges of the Federal judicial circuits regarding the interest in, and availability for, participation in binational panels, extraordinary challenge committees, and special committees, of judges within their respective circuits. If the chief judge of a Federal judicial circuit determines that it is appropriate for one or more judges within that circuit to be included on a roster described in subsection (a)(1)(D) of this section, the chief judge shall identify all such judges for the Chief Justice of the United States who may, upon his or her approval, submit the names of such judges to the Trade Representative. The Trade Representative shall include the names of such judges on the roster.
 
 #### (3) Submission of lists to Congress
 
@@ -120,7 +120,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) select individuals from the list prepared by the interagency group under paragraph (2)(B)(ii) to be included in a proposed amendment to such final candidate list; and
 
-&emsp;&emsp;&emsp;&emsp;(III) by no later than July 1 of such calendar year, submit to the appropriate Congressional Committees the proposed amendments to such final candidate list developed by the Trade Representative under subclause (II), along with the information described in paragraph (3)(B)(ii).
+&emsp;&emsp;&emsp;&emsp;(III) by no later than July 1 of such calendar year, submit to the appropriate Congressional Committees the proposedamendments to such final candidate list developed by the Trade Representative under subclause (II), along with the information described in paragraph (3)(B)(ii).
 
 #### (ii) Consultation with Congressional Committees
 
@@ -150,7 +150,7 @@
 
 #### (5) Treatment of responses
 
-&emsp;For purposes of applying section 1001 of title 18, the written or oral responses of individuals to inquiries of the interagency group established under paragraph (2)(A) or of the Trade Representative regarding their personal and professional qualifications, and financial and other relevant interests, that bear on theirsuitability for the placements and appointments described in subsection (a)(1) of this section, shall be treated as matters within the jurisdiction of an agency of the United States.
+&emsp;For purposes of applying section 1001 of title 18, the written or oral responses of individuals to inquiries of the interagency group established under paragraph (2)(A) or of the Trade Representative regarding their personal and professional qualifications, and financial and other relevant interests, that bear on their suitability for the placements and appointments described in subsection (a)(1) of this section, shall be treated as matters within the jurisdiction of an agency of the United States.
 
 #### (d) Selection and appointment
 
@@ -184,7 +184,7 @@
 
 &emsp;&emsp;&emsp;(ii) be appointed solely or jointly by the United States Government to serve as a member of a panel or committee convened under chapter 19;
 
-> &emsp;&emsp;during the 1-year period beginning on April 1 of any calendar year for which the Trade Representative has not met the requirements of subsection (a) of this section, and of subsection (b) or (c) of this section (as the case may be).
+> &emsp;&emsp;during the 1-year period beginning on April 1 of any calendar year for which the TradeRepresentative has not met the requirements of subsection (a) of this section, and of subsection (b) or (c) of this section (as the case may be).
 
 #### (3) Exceptions
 

@@ -14,10 +14,6 @@ A provision making the section applicable to pending proceedings was deleted as 
 
 Changes were made in phraseology.
 
-#### Federal Rules of Civil Procedure
-
-Execution, see rule 69, Appendix to this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 3202 of this title.

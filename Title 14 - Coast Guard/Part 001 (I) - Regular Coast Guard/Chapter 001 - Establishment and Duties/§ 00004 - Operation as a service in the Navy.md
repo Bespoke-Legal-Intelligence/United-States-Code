@@ -8,7 +8,7 @@ Whenever the Coast Guard operates as a service in the Navy:
 
 &emsp;(c) precedence between commissioned officers of corresponding grades in the Coast Guard and the Navy shall be determined by the date of rank stated by their commissions in those grades;
 
-&emsp;(d) personnel of the Coast Guard shall be eligible to receive gratuities, medals, and other insignia of honor on the same basis as personnel in the naval service or serving in any capacity with the Navy; and
+&emsp;(d) personnel of the Coast Guard shall be eligible to receive gratuities, medals, and otherinsignia of honor on the same basis as personnel in the naval service or serving in any capacity with the Navy; and
 
 &emsp;(e) the Secretary may place on furlough any officer of the Coast Guard and officers on furlough shall receive one half of the pay to which they would be entitled if on leave of absence, but officers of the Coast Guard Reserve shall not be so placed on furlough.
 
@@ -47,18 +47,4 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 #### Effective Date of 1950 Amendment
 
 Section 5 of act May 5, 1950, provided that the amendment made by that section is effective May 31, 1951.
-
-#### Cross References
-
-Armed Forces as including Coast Guard, see section 101 of Title 10, Armed Forces.
-
-Cooperation with Navy Department, see section 145 of this title.
-
-Interchange of supplies between Navy and Coast Guard, see section 2571 of Title 10, Armed Forces.
-
-Secretary of the Navy, powers with respect to Coast Guard, see section 5013a of Title 10.
-
-Service in Navy to be counted, see section 467 of this title.
-
-Uniform Code of Military Justice, see section 801 et seq. of Title 10, Armed Forces.
 

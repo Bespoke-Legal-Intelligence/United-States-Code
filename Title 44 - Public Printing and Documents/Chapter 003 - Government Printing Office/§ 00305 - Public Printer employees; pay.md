@@ -1,6 +1,6 @@
 ### §305. Public Printer: employees; pay
 
-(a) The Public Printer may employ journeymen, apprentices, laborers, and other personsnecessary for the work of the Government Printing Office at rates of wages and salaries, including compensation for night and overtime work, he considers for the interest of the Government and just to the persons employed, except as otherwise provided by this section. He may not employ more persons than the necessities of the public work require nor more than four hundred apprentices at one time. The minimum pay of journeymen printers, pressmen, and bookbinders employed in the Government Printing Office shall be at the rate of 90 cents an hour for the time actually employed. Except as provided by the preceding part of this section the rate of wages, including compensation for night and overtime work, for more than ten employees of the same occupation shall be determined by a conference between the Public Printer and a committee selected by the trades affected, and the rates and compensation so agreed upon shall become effective upon approval by the Joint Committee on Printing. When the Public Printer and the committee representing the trade fail to agree as to wages, salaries, and compensation, either party may appeal to the Joint Committee on Printing, and the decision of the Joint Committee is final. The wages, salaries, and compensation so determined are not subject to change oftener than once a year.
+(a) The Public Printer may employ journeymen, apprentices, laborers, and other persons necessary for the work of the Government Printing Office at rates of wages and salaries, including compensation for night and overtime work, he considers for the interest of the Government and just to the persons employed, except as otherwise provided by this section. He may not employ more persons than the necessities of the public work require nor more than four hundred apprentices at one time. The minimum pay of journeymen printers, pressmen, and bookbinders employed in the Government Printing Office shall be at the rate of 90 cents an hour for the time actually employed. Except as provided by the preceding part of this section the rate of wages, including compensation for night and overtime work, for more than ten employees of the same occupation shall be determined by a conference between the Public Printer and a committee selected by the trades affected, and the rates and compensation so agreed upon shall become effective upon approval by the Joint Committee on Printing. When the Public Printer and the committee representing the trade fail to agree as to wages, salaries, and compensation, either party may appeal to the Joint Committee on Printing, and the decision of the Joint Committee is final. The wages, salaries, and compensation so determined are not subject to change oftener than once a year.
 
 (b) The Public Printer may grant an employee paid on an annual basis compensatory time off from duty instead of overtime pay for overtime work.
 
@@ -127,18 +127,6 @@ Administrative Provisions.—(1) The Public Printer—
 “(2) Funds to carry out subsections (a) and (c) may be expended only from funds available for the basic pay of the employee who is receiving the applicable payment.
 
 “(3) Funds to carry out subsection (d) may be expended from any funds made available to the Public Printer.”
-
-#### Cross References
-
-Classification of government employees and pay rates and systems, including General Schedule, see sections 5101 et seq., 5301 et seq., and section 5332 of Title 5, Government Organization and Employees.
-
-Classification of positions, provisions inapplicable to employees of Government Printing Office with pay fixed hereunder, see section 5102 of Title 5.
-
-Fair Labor Standards Act minimum wage and maximum hours provisions, see sections 206 and 207 of Title 29, Labor.
-
-Performance rating of employees of Government Printing Office, see chapter 43 of Title 5, Government Organization and Employees.
-
-Superintendent of Documents, additional pay of employees for night, Sunday, holiday, and overtime work as determined hereunder, see section 1704 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -58,11 +58,13 @@
 
 (c) Under regulations prescribed by the Secretary of the Navy, an officer of the naval service who is not on active duty on the last day of a nuclear service year or who, on or before the last day of a nuclear service year, loses his technical qualifications or advances from the pay grade of O–6 to a higher pay grade may be paid a bonus in accordance with subsection (a) or (b) on a pro rata basis, if otherwise qualified, unless termination of active duty or loss of technical qualifications was voluntary or was the result of his own misconduct.
 
-(d) For the purposes of this section, a “nuclear service year” is any fiscal year beginning before December 31, 2000.
+(d) For the purposes of this section, a “nuclear service year” is any fiscal year beginning before December 31, 2001.
 
-(Added Pub. L. 94–356, §3, July 12, 1976, 90 Stat. 901; amended Pub. L. 96–513, title V, §516(9), Dec. 12, 1980, 94 Stat. 2938; Pub. L. 96–579, §2(c), Dec. 23, 1980, 94 Stat. 3359; Pub. L. 99–145, title VI, §632(c), Nov. 8, 1985, 99 Stat. 645; Pub. L. 101–189, div. A, title VI, §614(c), Nov. 29, 1989, 103 Stat. 1446; Pub. L. 101–510, div. A, title XIII, §1322(c)(8), Nov. 5, 1990, 104 Stat. 1672; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 103–337, div. A, title VI, §613(i), Oct. 5, 1994, 108 Stat. 2784; Pub. L. 104–106, div. A, title VI, §613(g), Feb. 10, 1996, 110 Stat. 360; Pub. L. 104–201, div. A, title VI, §613(f), Sept. 23, 1996, 110 Stat. 2544; Pub. L. 105–85, div. A, title VI, §§613(f), 624(c), Nov. 18, 1997, 111 Stat. 1786, 1793; Pub. L. 105–261, div. A, title VI, §613(f), Oct. 17, 1998, 112 Stat. 2039; Pub. L. 106–65, div. A, title VI, §§613(g), 624(c), Oct. 5, 1999, 113 Stat. 650, 654.)
+(Added Pub. L. 94–356, §3, July 12, 1976, 90 Stat. 901; amended Pub. L. 96–513, title V, §516(9), Dec. 12, 1980, 94 Stat. 2938; Pub. L. 96–579, §2(c), Dec. 23, 1980, 94 Stat. 3359; Pub. L. 99–145, title VI, §632(c), Nov. 8, 1985, 99 Stat. 645; Pub. L. 101–189, div. A, title VI, §614(c), Nov. 29, 1989, 103 Stat. 1446; Pub. L. 101–510, div. A, title XIII, §1322(c)(8), Nov. 5, 1990, 104 Stat. 1672; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 103–337, div. A, title VI, §613(i), Oct. 5, 1994, 108 Stat. 2784; Pub. L. 104–106, div. A, title VI, §613(g), Feb. 10, 1996, 110 Stat. 360; Pub. L. 104–201, div. A, title VI, §613(f), Sept. 23, 1996, 110 Stat. 2544; Pub. L. 105–85, div. A, title VI, §§613(f), 624(c), Nov. 18, 1997, 111 Stat. 1786, 1793; Pub. L. 105–261, div. A, title VI, §613(f), Oct. 17, 1998, 112 Stat. 2039; Pub. L. 106–65, div. A, title VI, §§613(g), 624(c), Oct. 5, 1999, 113 Stat. 650, 654; Pub. L. 106–398, §1 \[\[div. A\], title VI, §623(e)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–152.)
 
 #### Amendments
+
+2000—Subsec. (d). Pub. L. 106–398 substituted “December 31, 2001” for “December 31, 2000”.
 
 1999—Subsec. (a)(1). Pub. L. 106–65, §624(c)(1), substituted “$22,000” for “$12,000” in concluding provisions.
 
@@ -110,7 +112,7 @@ Subsec. (e). Pub. L. 96–579, §2(c)(3), substituted as definition for “nucle
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–65, div. A, title VI, §624(d)(2), Oct. 5, 1999, 113 Stat. 654, provided that: “The amendments made bysubsection (c) \[amending this section\] shall take effect on October 1, 1999, and shall apply with respect to nuclear service years beginning on or after that date.”
+Pub. L. 106–65, div. A, title VI, §624(d)(2), Oct. 5, 1999, 113 Stat. 654, provided that: “The amendments made by subsection (c) \[amending this section\] shall take effect on October 1, 1999, and shall apply with respect to nuclear service years beginning on or after that date.”
 
 #### Effective Date of 1997 Amendment
 

@@ -8,11 +8,11 @@
 
 #### (2) Claims not certified
 
-&emsp;If in an action under this subchapter a claim has not been so certified by the ForeignClaims Settlement Commission, the court may appoint a special master, including the Foreign Claims Settlement Commission, to make determinations regarding the amount and ownership of the claim. Such determinations are only for evidentiary purposes in civil actions brought under this subchapter and do not constitute certifications under title V of the International Claims Settlement Act of 1949.
+&emsp;If in an action under this subchapter a claim has not been so certified by the Foreign Claims Settlement Commission, the court may appoint a special master, including the Foreign Claims Settlement Commission, to make determinations regarding the amount and ownership of the claim. Such determinations are only for evidentiary purposes in civil actions brought under this subchapter and do not constitute certifications under title V of the International Claims Settlement Act of 1949.
 
 #### (3) Effect of determinations of foreign or international entities
 
-&emsp;In determining the amount or ownership of a claim in an action under this subchapter, the court shall not accept as conclusive evidence any findings, orders, judgments, or decrees from administrative agencies or courts of foreign countries or international organizations that declare the value of or invalidate the claim, unless the declaration of value or invalidation was found pursuant to binding international arbitration to which the United States or the claimant submitted the claim.
+&emsp;In determining the amount or ownership of a claim in an action under this subchapter, thecourt shall not accept as conclusive evidence any findings, orders, judgments, or decrees from administrative agencies or courts of foreign countries or international organizations that declare the value of or invalidate the claim, unless the declaration of value or invalidation was found pursuant to binding international arbitration to which the United States or the claimant submitted the claim.
 
 #### (b) Omitted
 

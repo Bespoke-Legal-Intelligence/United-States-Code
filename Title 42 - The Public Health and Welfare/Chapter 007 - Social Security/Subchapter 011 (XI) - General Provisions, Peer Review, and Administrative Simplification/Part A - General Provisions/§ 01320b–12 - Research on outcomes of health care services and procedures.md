@@ -106,9 +106,7 @@ The Secretary shall conduct and support evaluations of the activities carried ou
 
 The Secretary may conduct or support research with respect to improving methods of disseminating information on the effectiveness and appropriateness of health care services and procedures.
 
-#### (h) Report to Congress
-
-Not later than February 1 of each of the years 1991 and 1992, and of each second year thereafter, the Secretary shall report to the Congress on the progress of the activities under this section during the preceding fiscal year (or preceding 2 fiscal years, as appropriate), including the impact of such activities on medical care (particularly medical care for individuals receiving benefits under subchapter XVIII of this chapter).
+#### (h) Omitted
 
 #### (i) Authorization of appropriations
 
@@ -136,7 +134,7 @@ Not later than February 1 of each of the years 1991 and 1992, and of each second
 
 #### (3) Allocations
 
-&emsp;(A) For each fiscal year, of the amounts transferred or otherwise appropriated to carryout this section, the Secretary shall reserve appropriate amounts for each of the purposes specified in clauses (i) through (iv) of subparagraph (B).
+&emsp;(A) For each fiscal year, of the amounts transferred or otherwise appropriated to carry out this section, the Secretary shall reserve appropriate amounts for each of the purposes specified in clauses (i) through (iv) of subparagraph (B).
 
 &emsp;(B) The purposes referred to in subparagraph (A) are—
 
@@ -155,6 +153,8 @@ Not later than February 1 of each of the years 1991 and 1992, and of each second
 Sections 299b–1 to 299b–3 of this title, referred to in subsecs. (a) and (b), were in the original references to sections 912 to 914 of act July 1, 1944, which were omitted in the general amendment of subchapter VII of chapter 6A of this title by Pub. L. 106–129, §2(a), Dec. 6, 1999, 113 Stat. 1653. Section 2(a) of Pub. L. 106–129 enacted new sections 912 to 914 of act July 1, 1944, which are classified to sections 299b–1 to 299b–3, respectively, of this title.
 
 #### Codification
+
+Subsec. (h) of this section, which required the Secretary to report biennially to Congress on the progress of the activities under this section during the preceding 2 fiscal years, including the impact of such activities on medical care (particularly medical care for individuals receiving benefits under subchapter XVIII of this chapter), terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, item 10 on page 94 of House Document No. 103–7.
 
 Another section 1142 of act Aug. 14, 1935, was renumbered section 1143 by Pub. L. 101–508, title V, §5111(a)(1), Nov. 5, 1990, 104 Stat. 1388–272, and is classified to section 1320b–13 of this title.
 

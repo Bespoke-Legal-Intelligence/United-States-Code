@@ -24,11 +24,11 @@
 
 &emsp;(3) The carrying out of outreach activities to locate such veterans through contacts with local veterans organizations, the Department of Veterans Affairs, the State employment service agency and local employment service offices, and community-based organizations.
 
-&emsp;(4) Provision of appropriate assistance to community-based groups and organizations and appropriate grantees under other Federal and federally funded employment and training programs including part C of title IV of the Job Training Partnership Act and title I of the Workforce Investment Act of 1998 in providing services to such veterans.
+&emsp;(4) Provision of appropriate assistance to community-based groups and organizations and appropriate grantees under other Federal and federally funded employment and training programs including title I of the Workforce Investment Act of 1998 in providing services to such veterans.
 
 &emsp;(5) Provision of appropriate assistance to local employment service office employees with responsibility for veterans in carrying out their responsibilities pursuant to this chapter.
 
-&emsp;(6) Consultation and coordination with other appropriate representatives of Federal, State, and local programs (including the program conducted under the Veterans’ Job Training Act (Public Law 98–77; 29 U.S.C. 1721 note)) for the purpose of developing maximum linkages to promote employment opportunities for and provide maximum employment assistance to such veterans.
+&emsp;(6) Consultation and coordination with other appropriate representatives of Federal, State, and local programs (including the program conducted under the Veterans’ Job Training Act (Public Law 98–77; 29 U.S.C. 1721 note)) <sup>1</sup> for the purpose of developing maximum linkages to promote employment opportunities for and provide maximum employment assistance to such veterans.
 
 &emsp;(7) The carrying out of such other duties as will promote the development of entry-level and career job opportunities for such veterans.
 
@@ -36,27 +36,23 @@
 
 &emsp;(9) Provision of vocational guidance or vocational counseling services, or both, to veterans with respect to veterans’ selection of and changes in vocations and veterans’ vocational adjustment.
 
-&emsp;(10) Provision of services as a case manager under section 14(b)(1)(A) of the Veterans’ Job Training Act (Public Law 98–77; 29 U.S.C. 1721 note).
+&emsp;(10) Provision of services as a case manager under section 14(b)(1)(A) of the Veterans’ Job Training Act (Public Law 98–77; 29 U.S.C. 1721 note).<sup>1</sup>
 
 (Added Pub. L. 96–466, title V, §506(a), Oct. 17, 1980, 94 Stat. 2204, §2003A; amended Pub. L. 97–306, title III, §305, Oct. 14, 1982, 96 Stat. 1439; Pub. L. 100–323, §§2(e)(1), 7(b), 15(c)(1), May 20, 1988, 102 Stat. 559, 565, 574; Pub. L. 101–237, title IV, §423(b)(8), Dec. 18, 1989, 103 Stat. 2093; renumbered §4103A and amended Pub. L. 102–83, §§2(c)(4), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 402, 406; Pub. L. 102–568, title V, §§501, 503, Oct. 29, 1992, 106 Stat. 4340; Pub. L. 103–446, title VII, §701(b), Nov. 2, 1994, 108 Stat. 4674; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(29)(B), (f)(21)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–424, 2681–432; Pub. L. 105–368, title X, §1004(a), Nov. 11, 1998, 112 Stat. 3364.)
 
-#### Amendment of Subsection (c)(4)
-
-<i>Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(f)(21)(B), (g)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–432, 2681–435, provided that, effective July 1, 2000, subsection (c)(4) is amended by striking “part C of title IV of the Job Training Partnership Act and”.</i>
-
 #### References in Text
 
-The Job Training Partnership Act, referred to in subsec. (c)(4), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended. Part C of title IV of the Job Training Partnership Act is classified generally to part C (§1721) of subchapter IV of chapter 19 of Title 29, Labor. For complete classification of this Act to the Code, see ShortTitle note set out under section 1501 of Title 29 and Tables.
+The Workforce Investment Act of 1998, referred to in subsec. (c)(4), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
-The Workforce Investment Act of 1998, referred to in subsec. (c)(4), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified generally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
-
-The Veterans’ Job Training Act, referred to in subsec. (c)(6), (10), is Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended, which is set out as a note under section 1721 of Title 29, Labor. For complete classification of this Act to the Code, see Tables.
+The Veterans’ Job Training Act, referred to in subsec. (c)(6), (10), is Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended, which is set out as a note under section 2913 of Title 29, Labor. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
 1998—Subsec. (a)(1). Pub. L. 105–368, in first sentence, substituted “for each 7,400 veterans who are between the ages of 20 and 64 residing in such State.” for “for each 6,900 veterans residing in such State who are either veterans of the Vietnam era, veterans who first entered on active duty as a member of the Armed Forces after May 7, 1975, or disabled veterans.”, in third sentence, struck out “of the Vietnam era” after “disabled veterans”, and struck out after third sentence “If the Secretary finds that a qualified disabled veteran of the Vietnam era is not available for any such appointment, preference for such appointment shall be given to other qualified disabled veterans.”
 
-Subsec. (c)(4). Pub. L. 105–277, §101(f) \[title VIII, §405(d)(29)(B)\], substituted “including part C of title IV of the Job Training Partnership Act and title I of the Workforce Investment Act of 1998” for “(including part C of title IV of the Job Training Partnership Act (29 U.S.C. 1501 et seq.))”.
+Subsec. (c)(4). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(21)(B)\], struck out “part C of title IV of the Job Training Partnership Act and” after “training programs including”.
+
+Pub. L. 105–277, §101(f) \[title VIII, §405(d)(29)(B)\], substituted “including part C of title IV of the Job Training Partnership Act and title I of the Workforce Investment Act of 1998” for “(including part C of title IV of the Job Training Partnership Act (29 U.S.C. 1501 et seq.))”.
 
 1994—Subsec. (a)(1). Pub. L. 103–446 substituted “rates comparable to those paid other professionals performing essentially similar duties” for “a rate not less than the rate prescribed for an entry level professional”.
 
@@ -126,11 +122,9 @@ Amendment by sections 2(e)(1)(B) and 15(c)(1) of Pub. L. 100–323 effective May
 
 Section effective Oct. 1, 1980, see section 802(e) of Pub. L. 96–466, set out as an Effective Date of 1980 Amendment note under section 4101 of this title.
 
-#### Cross References
-
-Workforce investment programs for disabled veterans under the Workforce Investment Act of 1998, see section 2913 of Title 29, Labor.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3117, 3672, 4102A, 4104A, 4106, 4107 of this title; title 29 sections 1721, 2913.
+This section is referred to in sections 3117, 3672, 4102A, 4104A, 4106, 4107 of this title; title 29 section 2913.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -2,67 +2,93 @@
 
 #### (a) Congressional objectives and findings
 
-The Congress declares that, in order to prevent famine and establish freedom from hunger, the United States should strengthen the capacities of the United States land-grant and other eligible universities in program-related agricultural institutional development and research, consistent with sections 2151a and 2151a–1 of this title, should improve their participation in the United States Government's international efforts to apply more effective agricultural sciences to the goal of increasing world food production, and in general should provide increased and longer term support to the application of science to solving food and nutrition problems of the developing countries.
+The Congress declares that, in order to achieve the mutual goals among nations of ensuring food security, human health, agricultural growth, trade expansion, and the wise and sustainable use of natural resources, the United States should mobilize the capacities of the United States land-grant universities, other eligible universities, and public and private partners of universities in the United States andother countries, consistent with sections 2151a and 2151a–1 of this title, for: (1) global research on problems affecting food, agriculture, forestry, and fisheries; (2) improved human capacity and institutional resource development for the global application of agricultural and related environmental sciences; (3) agricultural development and trade research and extension services in the United States and other countries to support the entry of rural industries into world markets; and (4) providing for the application of agricultural sciences to solving food, health, nutrition, rural income, and environmental problems, especially such problems in low-income, food deficit countries.
 
 The Congress so declares because it finds—
 
-&emsp;(1) that the establishment, endowment, and continuing support of land-grant universities in the United States by Federal, State, and county governments has led to agricultural progress in this country;
+&emsp;(A) that the establishment, endowment, and continuing support of land-grant universities in the United States by Federal, State, and county governments has led to agricultural progress with and through the private sector in this country and to understanding processes of economic development;
 
-&emsp;(2) that land-grant and other universities in the United States have demonstrated over many years their ability to cooperate with foreign agricultural institutions in expanding indigenous food production for both domestic and international markets;
+&emsp;(B) that land-grant and other universities in the United States have demonstrated over many years their ability to cooperate with international agencies, educational and research institutions in other countries, the private sector, and nongovernmental organizations worldwide, in expanding global agricultural production, processing, business and trade, to the benefit of aid recipient countries and of the United States;
 
-&emsp;(3) that, in a world of growing population with rising expectations, increased food production and improved distribution, storage, and marketing in the developing countries is necessary not only to prevent hunger but to build the economic base for growth, and moreover, that the greatest potential for increasing world food supplies is in the developing countries where the gap between food need and food supply is the greatest and current yields are lowest;
+&emsp;(C) that, in a world of growing populations with rising expectations, increased food production and improved distribution, storage, and marketing in the developing countries is necessary not only to prevent hunger and ensure human health and child survival, but to build the basis for economic growth and trade, and the social security in which democracy and a market economy can thrive, and moreover, that the greatest potential for increasing world food supplies and incomes to purchase food is in the developing countries where the gap between food need and food supply is the greatest and current incomes are lowest;
 
-&emsp;(4) that increasing and making more secure the supply of food is of greatest benefit to the poorest majority in the developing world;
+&emsp;(D) that increasing and making more secure the supply of food is of greatest benefit to the poorest majority in the developing world;
 
-&emsp;(5) that research, teaching, and extension activities, and appropriate institutional development therefor are prime factors in increasing agricultural production abroad (as well as in the United States) and in improving food distribution, storage, and marketing;
+&emsp;(E) that, with expanding global markets and increasing imports into many countries, including the United States, food safety and quality, as well as secure supply, have emerged as mutual concerns of all countries;
 
-&emsp;(6) moreover, that agricultural research abroad has in the past and will continue in the future to provide benefits for agriculture in the United States and that increasing the availability of food of higher nutritional quality is of benefit to all; and
+&emsp;(F) that research, teaching, and extension activities, and appropriate institutional and policy development therefore are prime factors in improving agricultural production, food distribution, processing, storage, and marketing abroad (as well as in the United States);
 
-&emsp;(7) that universities need a dependable source of Federal funding, as well as other financing, in order to expand, or in some cases to continue, their efforts to assist in increasing agricultural production in developing countries.
+&emsp;(G) moreover, that agricultural research abroad has in the past and will continue in the future to provide benefits for agriculture and the broader economy of the United States and that increasing the availability of food of higher nutritional quality is of benefit to all;
 
-#### (b) Congressional objectives and declaration for collation of components to increase world food production
+&emsp;(H) that there is a need to responsibly manage the world's agricultural and natural resources for sustained productivity, health and resilience to climate variability; and
 
-Accordingly, the Congress declares that, in order to prevent famine and establish freedom from hunger, various components must be brought together in order to increase world food production, including—
+&emsp;(I) that universities and public and private partners of universities need a dependable source of funding in order to increase the impact of their own investments and those of their State governments and constituencies, in order to continue and expand their efforts to advance agricultural development in cooperating countries, to translate development into economic growth and trade for the United States and cooperating countries, and to prepare future teachers, researchers, extension specialists, entrepreneurs, managers, and decisionmakers for the world economy.
 
-&emsp;(1) strengthening the capabilities of universities to assist in increasing agricultural production in developing countries;
+#### (b) Congressional declaration for collation of components to increase world food production
 
-&emsp;(2) institution-building programs for development of national and regional agricultural research and extension capacities in developing countries which need assistance;
+Accordingly, the Congress declares that, in order to prevent famine and establish freedom from hunger, the following components must be brought together in a coordinated program to increase world food and fiber production, agricultural trade, and responsible management of natural resources, including—
 
-&emsp;(3) international agricultural research centers;
+&emsp;(1) continued efforts by the international agricultural research centers and other international research entities to provide a global network, including United States universities, for international scientific collaboration on crops, livestock, forests, fisheries, farming resources, and food systems of worldwide importance;
 
-&emsp;(4) contract research; and
+&emsp;(2) contract research and the implementation of collaborative research support programs and other research collaboration led by United States universities, and involving research systems in other countries focused on crops, livestock, forests, fisheries, farming resources, and food systems, with benefits to the United States and partner countries;
 
-&emsp;(5) research program grants.
+&emsp;(3) broadly disseminating the benefits of global agricultural research and development including increased benefits for United States agriculturally related industries through establishment of development and trade information and service centers, for rural as well as urban communities, through extension, cooperatively with, and supportive of, existing public and private trade and development related organizations;
+
+&emsp;(4) facilitation of participation by universities and public and private partners of universities in programs of multilateral banks and agencies which receive United States funds;
+
+&emsp;(5) expanding learning opportunities about global agriculture for students, teachers, community leaders, entrepreneurs, and the general public through international internships and exchanges, graduate assistantships, faculty positions, and other means of education and extension through long-term recurring Federal funds matched by State funds; and
+
+&emsp;(6) competitive grants through universities to United States agriculturalists and public and private partners of universities from other countries for research, institution and policy development, extension, training, and other programs for global agricultural development, trade, and responsible management of natural resources.
 
 #### (c) University involvement, participation, and cooperation
 
 The United States should—
 
-&emsp;(1) effectively involve the United States land-grant and other eligible universities more extensively in each component;
+&emsp;(1) effectively involve the United States land-grant and other eligible universities more extensively in each of the program components described in paragraphs (1) through (6) of subsection (b) of this section;
 
-&emsp;(2) provide mechanisms for the universities to participate and advise in the planning, development, implementation, and administration of each component; and
+&emsp;(2) provide mechanisms for the universities and public and private partners of universities to participate and advise in the planning, development, implementation, and administration of each component;
 
-&emsp;(3) assist such universities in cooperative joint efforts with—
+&emsp;(3) assist such universities and public and private partners of universities in cooperative joint efforts with—
 
-&emsp;&emsp;(A) agricultural institutions in developing nations, and
+&emsp;&emsp;(A) agricultural institutions in developing nations;
 
-&emsp;&emsp;(B) regional and international agricultural research centers,
+&emsp;&emsp;(B) regional and international agricultural research centers;
 
-> &emsp;directed to strengthening their joint and respective capabilities and to engage them more effectively in research, teaching, and extension activities for solving problems in food production, distribution, storage, marketing, and consumption in agriculturally underdeveloped nations.
+&emsp;&emsp;(C) multilateral banks and agencies receiving United States funds;
+
+&emsp;&emsp;(D) development agencies of other countries; and
+
+&emsp;&emsp;(E) United States Government foreign assistance and economic cooperation programs;
+
+&emsp;(4) generally engage the United States university community more extensively in the agricultural research, trade, and development initiatives undertaken outside the United States, with the objectives of strengthening its capacity to carry out research, teaching, and extension activities for solving problems in food production, processing, marketing, and consumption in agriculturally developing nations, and for transforming progress in global agricultural research and development into economic growth, trade, and trade benefits for aid recipient countries and United States communities and industries, and for the wise use of natural resources; and
+
+&emsp;(5) ensure that all federally funded support to universities and public and private partners of universities relating to the goals of this subpart is periodically reviewed for its performance.
 
 #### (d) Universities
 
-As used in this subpart, the term “universities” means those colleges or universities in each State, territory, or possession of the United States, or the District of Columbia, now receiving, or which may hereafter receive, benefits under the Act of July 2, 1862 (known as the First Morrill Act) \[7 U.S.C. 301 et seq.\], or the Act of August 30, 1890 (known as the Second Morrill Act) \[7 U.S.C. 321 et seq.\], which are commonly known as “land-grant” universities; institutions now designated or which may hereafter be designated as sea-grant colleges under the Act of October 15, 1966 (known as the National Sea Grant College and Program Act) \[33 U.S.C. 1121 et seq.\], which are commonly known as sea-grant colleges; and other United States colleges and universities which—
+As used in this subpart, the term “universities” means those colleges or universities in each State, territory, or possession of the United States, or the District of Columbia, now receiving, or which may hereafter receive, benefits under the Act of July 2, 1862 (known as the First Morrill Act) \[7 U.S.C. 301 et seq.\], or the Act of August 30, 1890 (known as the Second Morrill Act) \[7 U.S.C. 321 et seq.\], which are commonly known as “land-grant” universities; institutions now designated or which may hereafter be designated as sea-grant colleges under the Act of October 15, 1966 (known as the National Sea Grant College and Program Act) \[33 U.S.C. 1121 et seq.\], which are commonly known as sea-grant colleges; Native American land-grant colleges as authorized under the Equity in Educational Land-Grant Status Act of 1994 (7 U.S.C. 301 note); and other United States colleges and universities which—
 
-&emsp;(1) have demonstrable capacity in teaching, research, and extension activities in the agricultural sciences; and
+&emsp;(1) have demonstrable capacity in teaching, research, and extension (including outreach) activities in the agricultural sciences; and
 
 &emsp;(2) can contribute effectively to the attainment of the objectives of this subpart.
 
 #### (e) Administrator
 
-As used in this subpart, the term “Administrator” means the Administrator of the Agency for International Development.
+As used in this subpart, the term “Administrator” means the Administrator of the United States Agency for International Development.
 
-(Pub. L. 87–195, pt. I, §296, as added Pub. L. 94–161, title III, §312, Dec. 20, 1975, 89 Stat. 861; amended Pub. L. 95–424, title I, §103(c), Oct. 6, 1978, 92 Stat. 945.)
+#### (f) Public and private partners of universities
+
+As used in this subpart, the term “public and private partners of universities” includes entities that have cooperative or contractual agreements with universities, which may include formal or informal associations of universities, other education institutions, United States Government and State agencies, private voluntary organizations, nongovernmental organizations, firms operated for profit, nonprofit organizations, multinational banks, and, as designated by the Administrator, any organization, institution, or agency incorporated in other countries.
+
+#### (g) Agriculture
+
+As used in this subpart, the term “agriculture” includes the science and practice of activity related to food, feed, and fiber production, processing, marketing, distribution, utilization, and trade, and also includes family and consumer sciences, nutrition, food science and engineering, agricultural economics and other social sciences, forestry, wildlife, fisheries, aquaculture, floraculture, veterinary medicine, and other environmental and natural resources sciences.
+
+#### (h) Agriculturists
+
+As used in this subpart, the term “agriculturists” includes farmers, herders, and livestock producers, individuals who fish and others employed in cultivating and harvesting food resources from salt and fresh waters, individuals who cultivate trees and shrubs and harvest nontimber forest products, as well as the processors, managers, teachers, extension specialists, researchers, policymakers, and others who are engaged in the food, feed, and fiber system and its relationships to natural resources.
+
+(Pub. L. 87–195, pt. I, §296, as added Pub. L. 94–161, title III, §312, Dec. 20, 1975, 89 Stat. 861; amended Pub. L. 95–424, title I, §103(c), Oct. 6, 1978, 92 Stat. 945; Pub. L. 106–373, §2, Oct. 27, 2000, 114 Stat. 1427.)
 
 #### References in Text
 
@@ -70,7 +96,45 @@ The First Morrill Act and the Second Morrill Act, referred to in subsec. (d), re
 
 The National Sea Grant College and Program Act, referred to in subsec. (d), is title II of Pub. L. 89–454, as added Pub. L. 89–688, §1, Oct. 15, 1966, 80 Stat. 998, as amended, which is classified generally to subchapter II (§1121 et seq.) of chapter 22 of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1121 of Title 33 and Tables.
 
+The Equity in Educational Land-Grant Status Act of 1994, referred to in subsec. (d), is Pub. L. 103–382, title V, part C, Oct. 20, 1994, 108 Stat. 4048, as amended, which is set out as a note under section 301 of Title 7,Agriculture. For complete classification of this Act to the Code, see Tables.
+
 #### Amendments
+
+2000—Subsec. (a). Pub. L. 106–373, §2(a)(2)(A), in second sentence, redesignated pars. (1) to (7) as subpars. (A) to (G), respectively.
+
+Pub. L. 106–373, §2(a)(1), amended first sentence generally. Prior to amendment, first sentence read as follows: “The Congress declares that, in order to prevent famine and establish freedom from hunger, the United States should strengthen the capacities of the United States land-grant and other eligible universities in program-related agricultural institutional development and research, consistent with sections 2151a and 2151a–1 of this title, should improve their participation in the United States Government's international efforts to apply more effective agricultural sciences to the goal of increasing world food production, and in general should provide increased and longer term support to the application of science to solving food and nutrition problems of the developing countries.”
+
+Subsec. (a)(A). Pub. L. 106–373, §2(a)(2)(B), substituted “with and through the private sector in this country and to understanding processes of economic development” for “in this country”.
+
+Subsec. (a)(B). Pub. L. 106–373, §2(a)(2)(C), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “that land-grant and other universities in the United States have demonstrated over many years their ability to cooperate with foreign agricultural institutions in expanding indigenous food production for both domestic and international markets;”.
+
+Subsec. (a)(C). Pub. L. 106–373, §2(a)(2)(D), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “that, in a world of growing population with rising expectations, increased food production and improved distribution, storage, and marketing in the developing countries is necessary not only to prevent hunger but to build the economic base for growth, and moreover, that the greatest potential for increasing world food supplies is in the developing countries where the gap between food need and food supply is the greatest and current yields are lowest;”.
+
+Subsec. (a)(E). Pub. L. 106–373, §2(a)(2)(E), (H), added subpar. (E) and struck out former subpar. (E) which read as follows: “that research, teaching, and extension activities, and appropriate institutional development therefor are prime factors in increasing agricultural production abroad (as well as in the United States) and in improving food distribution, storage, and marketing;”.
+
+Subsec. (a)(F). Pub. L. 106–373, §2(a)(2)(H), added subpar. (F). Former subpar. (F) redesignated (G).
+
+Subsec. (a)(G). Pub. L. 106–373, §2(a)(2)(E), (G), (I), redesignated subpar. (F) as (G), substituted “and the broader economy of the United States” for “in the United States”, and struck out former subpar. (G) which read as follows: “that universities need a dependable source of Federal funding, as well as other financing, in order to expand, or in some cases to continue, their efforts to assist in increasing agricultural production in developing countries.”
+
+Subsec. (a)(H), (I). Pub. L. 106–373, §2(a)(2)(F), (J), added subpars. (H) and (I).
+
+Subsec. (b). Pub. L. 106–373, §2(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) contained declaration of Congress that various components had to be brought together in order to increase world food production.
+
+Subsec. (c)(1). Pub. L. 106–373, §2(c)(1), substituted “each of the program components described in paragraphs (1) through (6) of subsection (b) of this section” for “each component”.
+
+Subsec. (c)(2). Pub. L. 106–373, §2(c)(2)(A), inserted “and public and private partners of universities” after “for the universities”.
+
+Subsec. (c)(3). Pub. L. 106–373, §2(c)(3), inserted “and public and private partners of universities” after “such universities” in introductory provisions, added subpars. (C) to (E), and struck out concluding provisions which read as follows: “directed to strengthening their joint and respective capabilities and to engage them more effectively in research, teaching, and extension activities for solving problems in food production, distribution, storage, marketing, and consumption in agriculturally underdeveloped nations.”
+
+Subsec. (c)(4), (5). Pub. L. 106–373, §2(c)(2)(B), (4), added pars. (4) and (5).
+
+Subsec. (d). Pub. L. 106–373, §2(d)(1), inserted “Native American land-grant colleges as authorized under the Equity in Educational Land-Grant Status Act of 1994 (7 U.S.C. 301 note);” after “sea-grant colleges;” in introductory provisions.
+
+Subsec. (d)(1). Pub. L. 106–373, §2(d)(2), substituted “extension (including outreach)” for “extension”.
+
+Subsec. (e). Pub. L. 106–373, §2(e), inserted “United States” before “Agency”.
+
+Subsecs. (f) to (h). Pub. L. 106–373, §2(f)—(h), added subsecs. (f) to (h).
 
 1978—Subsecs. (f), (g). Pub. L. 95–424 struck out subsecs. (f) defining “agriculture”, and (g) defining “farmers”.
 
@@ -108,7 +172,7 @@ Pub. L. 95–105, title V, §510, Aug. 17, 1977, 91 Stat. 860.
 
 #### Commission on Hunger and Malnutrition
 
-Pub. L. 95–426, title VII, §711, Oct. 7, 1978, 92 Stat. 994, which authorized funds to be appropriated for fiscal years 1979 and 1980 for a commission to conduct studies on global hunger and malnutrition, which commission was to make recommendations to the President and Congress on policies to increase the capacity of the United States to reduce hunger and malnutrition, was repealed by Pub. L. 97–241, title V, §505(a)(2), Aug. 24, 1982, 96 Stat. 299.
+Pub. L. 95–426, title VII, §711, Oct. 7, 1978, 92 Stat. 994, which authorized funds to be appropriated for fiscal years 1979 and 1980 for a commission to conduct studies on global hunger and malnutrition, which commissionwas to make recommendations to the President and Congress on policies to increase the capacity of the United States to reduce hunger and malnutrition, was repealed by Pub. L. 97–241, title V, §505(a)(2), Aug. 24, 1982, 96 Stat. 299.
 
 #### Settlement of Debt Owed the United States
 

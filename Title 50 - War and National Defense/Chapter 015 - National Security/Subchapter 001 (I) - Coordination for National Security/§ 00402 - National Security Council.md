@@ -104,7 +104,7 @@ The President shall establish within the National Security Council a board to be
 
 &emsp;(F) Such other members as the President may designate.
 
-(3) The function of the Committee shall be to coordinate and direct the activities of the United States Government relating to combatting transnational threats.
+(3) The function of the Committee shall be to coordinate and direct the activities of theUnited States Government relating to combatting transnational threats.
 
 (4) In carrying out its function, the Committee shall—
 
@@ -174,7 +174,7 @@ Subsec. (f). Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 amended se
 
 1951—Subsec. (a). Act Oct. 10, 1951, inserted cl. (5) relating to Director for Mutual Security, in fourth paragraph, and renumbered former cls. (5) and (6) thereof as cls. (6) and (7), respectively.
 
-1949—Subsec. (a). Act Aug. 10, 1949, added the Vice President to the Council, removed the Secretaries of the military departments, to authorize the President to add, with the consent of the Senate, Secretaries and Under Secretaries of other executive departments and of the military department, and the Chairmen of the Munitions Board and the Research and Development Board.
+1949—Subsec. (a). Act Aug. 10, 1949, added the Vice President to the Council, removed the Secretaries of the military departments, to authorize the President to add, with the consent of the Senate, Secretaries andUnder Secretaries of other executive departments and of the military department, and the Chairmen of the Munitions Board and the Research and Development Board.
 
 Subsec. (c). Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923, as amended”.
 
@@ -242,7 +242,7 @@ Sec. 8. The foregoing provisions of this Act shall take effect on the first day 
 
 “
 
-Sec. 9. (a) Notwithstanding section 322 of the Act of June 30, 1932 (40 U.S.C. 278a), section 5536 of title 5, United States Code, and section 2675 of title 10, United States Code, the Director of the National Security Agency, on behalf of the Secretary of Defense, may lease real property outside the United States, for periods not exceeding ten years, for the use of the National Security Agency for special cryptologic activities and for housing for personnel assigned to such activities.
+Sec. 9. (a) Notwithstanding section 322 of the Act of June 30, 1932 (40 U.S.C. 278a), section 5536 of title 5, United States Code, and section 2675 of title 10, United States Code, the Director of the National Security Agency, on behalf of the Secretary of Defense, may lease real property outside the United States, for periods not exceeding ten years, for the use of the NationalSecurity Agency for special cryptologic activities and for housing for personnel assigned to such activities.
 
 “(b) The Director of the National Security Agency, on behalf of the Secretary of Defense, may provide to certain civilian and military personnel of the Department of Defense who are assigned to special cryptologic activities outside the United States and who are designated by the Secretary of Defense for the purposes of this subsection—
 
@@ -306,7 +306,7 @@ Sec. 10. (a) The Director of the National Security Agency shall arrange for, and
 
 &emsp;“(A) in the case of current employees, pertains to continuation of service of the employee, and repayment of the expenses of such training for failure to fulfill the agreement, consistent with the provisions of section 4108 of title 5, United States Code; and
 
-&emsp;“(B) in the case of individuals accepted for membership in the cryptologic linguist reserve, pertains to return to service when requested, and repayment of the expenses of such training for failure to fulfill the agreement, consistent with the provisions of section 4108 of title 5, United States Code.
+&emsp;“(B) in the case of individuals accepted for membership in the cryptologic linguist reserve, pertains toreturn to service when requested, and repayment of the expenses of such training for failure to fulfill the agreement, consistent with the provisions of section 4108 of title 5, United States Code.
 
 “(2) The Director, under regulations prescribed under this section, may waive, in whole or in part, a right of recovery under an agreement made under this subsection if it is shown that the recovery would be against equity and good conscience or against the public interest.
 
@@ -428,7 +428,7 @@ Ex. Ord. No. 10483, Sept. 2, 1953, 18 F.R. 5379, as amended by Ex. Ord. No. 1059
 
 #### Executive Order No. 10700
 
-Ex. Ord. No. 10700, Feb. 25, 1957, 22 F.R. 1111, as amended by Ex. Ord. No. 10773, July 1, 1958, 23 F.R. 5061; Ex. Ord. No. 10782, Sept. 6, 1958, 23 F.R. 6971; Ex. Ord. 10838, Sept. 16, 1959, 24 F.R. 7519, which provided for the Operations Coordinating Board, was revoked by Ex. Ord. No. 10920, Feb. 18, 1961, 26 F.R. 1463.
+Ex. Ord. No. 10700, Feb. 25, 1957, 22 F.R. 1111, as amended by Ex. Ord. No. 10773, July 1, 1958, 23 F.R. 5061;Ex. Ord. No. 10782, Sept. 6, 1958, 23 F.R. 6971; Ex. Ord. 10838, Sept. 16, 1959, 24 F.R. 7519, which provided for the Operations Coordinating Board, was revoked by Ex. Ord. No. 10920, Feb. 18, 1961, 26 F.R. 1463.
 
 #### Section Referred to in Other Sections
 

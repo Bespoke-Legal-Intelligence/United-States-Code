@@ -52,7 +52,7 @@ The Secretary may not, except as provided in subsection (b) of this section, mak
 
 &emsp;&emsp;(C) there is a significant risk of becoming infected with the etiologic agent for such syndrome;
 
-&emsp;(8) the State will establish reasonable criteria to evaluate the effective performance of entities that receive funds from payments made to the State under section 300ee–11(a) of this title and will establish procedures for procedural and substantive independent State review of the failure by the State to provide funds for any such entity;
+&emsp;(8) the State will establish reasonable criteria to evaluate the effective performance ofentities that receive funds from payments made to the State under section 300ee–11(a) of this title and will establish procedures for procedural and substantive independent State review of the failure by the State to provide funds for any such entity;
 
 &emsp;(9) the State will permit and cooperate with Federal investigations undertaken in accordance with section 300ee–18(e) of this title;
 
@@ -86,7 +86,7 @@ Subsec. (b). Pub. L. 100–690, §2619(d)(5) \[(e)(5)\], added subsec. (b).
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–690 effective immediately after enactment of Pub. L. 100–607, which was approvedNov. 4, 1988, see section 2600 of Pub. L. 100–690, set out as a note under section 242m of this title.
+Amendment by Pub. L. 100–690 effective immediately after enactment of Pub. L. 100–607, which was approved Nov. 4, 1988, see section 2600 of Pub. L. 100–690, set out as a note under section 242m of this title.
 
 #### Reference to Community, Migrant, Public Housing, or Homeless Health Center Considered Reference to Health Center
 

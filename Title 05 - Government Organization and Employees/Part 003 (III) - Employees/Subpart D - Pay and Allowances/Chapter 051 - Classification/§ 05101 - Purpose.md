@@ -6,7 +6,7 @@ It is the purpose of this chapter to provide a plan for classification of positi
 
 &emsp;&emsp;(A) the principle of equal pay for substantially equal work will be followed; and
 
-&emsp;&emsp;(B) variations in rates of basic pay paid to different employees will be in proportion to substantial differences in the difficulty, responsibility, and qualification requirements of the work performed and to the contributions of employees to efficiency and economy in the service; and
+&emsp;&emsp;(B) variations in rates of basic pay paid to different employees will be in proportion to substantial differences in the difficulty, responsibility, and qualification requirementsof the work performed and to the contributions of employees to efficiency and economy in the service; and
 
 &emsp;(2) individual positions will, in accordance with their duties, responsibilities, and qualification requirements, be so grouped and identified by classes and grades, as defined by section 5102 of this title, and the various classes will be so described in published standards, as provided by section 5105 of this title, that the resulting position-classification system can be used in all phases of personnel administration.
 
@@ -33,10 +33,4 @@ Standard changes are made to conform with the definitions applicable and the sty
 #### References in Other Laws to Chapter 51 and Subchapter III of Chapter 53
 
 References in laws to fix pay in accordance with this chapter and subchapter III of chapter 53 of this title considered to include authority under section 5376 of this title, if applicable, but not to include any authority under section 5304 of this title or section 529 \[title III, §302\] of Pub. L. 101–509, set out as a note under section 5304 of this title, see section 529 \[title I, §101(c)(2)\] of Pub. L. 101–509, set out in a References in Other Laws to GS–16, 17, or 18 Pay Rates; Regulations note under section 5376 of this title.
-
-#### Cross References
-
-Employment of reading assistants for blind employees without regard to the provisions of this chapter, see section 3102 of this title.
-
-General authority for employment, see section 3101 of this title.
 

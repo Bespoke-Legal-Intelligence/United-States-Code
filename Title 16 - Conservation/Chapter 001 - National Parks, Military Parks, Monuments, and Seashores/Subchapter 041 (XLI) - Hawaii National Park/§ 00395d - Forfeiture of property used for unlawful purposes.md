@@ -8,11 +8,11 @@ All guns, traps, teams, horses, or means of transportation of every nature or de
 
 This Act, referred to in text, is act Apr. 19, 1930, which is classified to section 395 to 395j of this title. For complete classification of this Act to the Code, see Tables.
 
-#### Hawaii Volcanoes National Park
+#### Hawai‘i Volcanoes National Park
 
-Designation of portion of Hawaii National Park situated on island of Hawaii as Hawaii Volcanoes National Park, effective Sept. 22, 1961, see section 391d of this title.
+Designation of portion of Hawaii National Park situated on island of Hawaii as Hawai‘i Volcanoes National Park, effective Sept. 22, 1961, see section 391d of this title.
 
-#### Haleakala National Park
+#### Haleakala�AE8 National Park
 
-Establishment of detached portion of Hawaii National Park lying on island of Maui as Haleakala National Park, effective July 1, 1961, see section 396b of this title.
+Establishment of detached portion of Hawaii National Park lying on island of Maui as Haleakala�AE8 National Park, effective July 1, 1961, see section 396b of this title.
 

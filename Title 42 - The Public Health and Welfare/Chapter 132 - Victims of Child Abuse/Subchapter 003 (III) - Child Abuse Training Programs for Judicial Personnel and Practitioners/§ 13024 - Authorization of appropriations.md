@@ -2,17 +2,7 @@
 
 #### (a) Authorization
 
-There are authorized to be appropriated to carry out this subchapter—
-
-&emsp;(1) $750,000 for fiscal year 1996;
-
-&emsp;(2) $1,000,000 for fiscal year 1997;
-
-&emsp;(3) $2,000,000 for fiscal year 1998;
-
-&emsp;(4) $2,000,000 for fiscal year 1999; and
-
-&emsp;(5) $2,300,000 for fiscal year 2000.
+There is authorized to be appropriated to carry out this subchapter $2,300,000 for each of fiscal years 2001 through 2005.
 
 #### (b) Use of funds
 
@@ -22,13 +12,25 @@ Of the amounts appropriated in subsection (a) of this section, not less than 80 
 
 No funds are authorized to be appropriated for a fiscal year to carry out this subchapter unless the aggregate amount appropriated to carry out title II of the Juvenile Justice and Delinquency Prevention Act of 1974 (42 U.S.C. 5611 et seq.) for such fiscal year is not less than the aggregate amount appropriated to carry out such title for the preceding fiscal year.
 
-(Pub. L. 101–647, title II, §224, Nov. 29, 1990, 104 Stat. 4798; Pub. L. 103–322, title IV, §40156(b)(1), Sept. 13, 1994, 108 Stat. 1923.)
+(Pub. L. 101–647, title II, §224, Nov. 29, 1990, 104 Stat. 4798; Pub. L. 103–322, title IV, §40156(b)(1), Sept. 13, 1994, 108 Stat. 1923; Pub. L. 106–386, div. B, title III, §1302(b), Oct. 28, 2000, 114 Stat. 1511.)
 
 #### References in Text
 
 The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in subsec. (c), is Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, as amended. Title II of the Act is classified principally to subchapter II (§5611 et seq.) of chapter 72 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+
+2000—Subsec. (a). Pub. L. 106–386 added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “There are authorized to be appropriated to carry out this subchapter—
+
+&emsp;“(1) $750,000 for fiscal year 1996;
+
+&emsp;“(2) $1,000,000 for fiscal year 1997;
+
+&emsp;“(3) $2,000,000 for fiscal year 1998;
+
+&emsp;“(4) $2,000,000 for fiscal year 1999; and
+
+&emsp;“(5) $2,300,000 for fiscal year 2000.”
 
 1994—Subsec. (a). Pub. L. 103–322 amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this chapter—
 

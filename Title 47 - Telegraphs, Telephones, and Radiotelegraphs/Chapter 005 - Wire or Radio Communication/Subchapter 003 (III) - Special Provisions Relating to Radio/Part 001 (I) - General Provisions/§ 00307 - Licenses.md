@@ -12,7 +12,7 @@ In considering applications for licenses, and modifications and renewals thereof
 
 #### (1) Initial and renewal licenses
 
-&emsp;Each license granted for the operation of a broadcasting station shall be for a term of not to exceed 8 years. Upon application therefor, a renewal of such license may be granted from time to time for a term of not to exceed 8 years from the date of expiration of the preceding license, if the Commission finds that public interest, convenience, and necessity would be served thereby. Consistent with the foregoing provisions of this subsection, the Commission may by rule prescribe the period or periods for which licenses shall be granted and renewed for particular classes of stations, but the Commission may not adopt or follow any rule which would preclude it, in any case involving a station of a particular class, from granting or renewing a license for a shorter period than that prescribed for stations of such class if, in its judgment, the public interest, convenience, or necessity would be served by such action.
+&emsp;Each license granted for the operation of a broadcasting station shall be for a term of notto exceed 8 years. Upon application therefor, a renewal of such license may be granted from time to time for a term of not to exceed 8 years from the date of expiration of the preceding license, if the Commission finds that public interest, convenience, and necessity would be served thereby. Consistent with the foregoing provisions of this subsection, the Commission may by rule prescribe the period or periods for which licenses shall be granted and renewed for particular classes of stations, but the Commission may not adopt or follow any rule which would preclude it, in any case involving a station of a particular class, from granting or renewing a license for a shorter period than that prescribed for stations of such class if, in its judgment, the public interest, convenience, or necessity would be served by such action.
 
 #### (2) Materials in application
 
@@ -32,7 +32,7 @@ No renewal of an existing station license in the broadcast or the common carrier
 
 (2) Any radio station operator who is authorized by the Commission to operate without an individual license shall comply with all other provisions of this chapter and with rules prescribed by the Commission under this chapter.
 
-(3) For purposes of this subsection, the terms “citizens band radio service”, “radio control service”, “aircraft station” and “ship station”shall have the meanings given them by the Commission by rule.
+(3) For purposes of this subsection, the terms “citizens band radio service”, “radio control service”, “aircraft station” and “ship station” shall have the meanings given them by the Commission by rule.
 
 (June 19, 1934, ch. 652, title III, §307, 48 Stat. 1083; June 5, 1936, ch. 511, §2, 49 Stat. 1475; July 16, 1952, ch. 879, §5, 66 Stat. 714; Pub. L. 86–752, §3, Sept. 13, 1960, 74 Stat. 889; Pub. L. 87–439, Apr. 27, 1962, 76 Stat. 58; Pub. L. 97–35, title XII, §1241(a), Aug. 13, 1981, 95 Stat. 736; Pub. L. 97–259, title I, §§112, 113(a), Sept. 13, 1982, 96 Stat. 1093; Pub. L. 104–104, title II, §203, title IV, §403(i), Feb. 8, 1996, 110 Stat. 112, 131.)
 
@@ -60,7 +60,7 @@ Subsec. (e). Pub. L. 97–259, §§112(a), 113(a), added subsec. (e) and redesig
 
 1960—Subsec. (d). Pub. L. 86–752 inserted last sentence dealing with the Commission's authority to grant licenses for periods shorter than 3 years.
 
-1952—Subsec. (d). Act July 16, 1952, provided that upon the expiration of any license, any renewal applied for may be granted “if the Commission finds that public interest, convenience, and necessity would be served thereby”, and provided that pending a hearing and final decision on an application for renewal and the disposition of any petition for a rehearing the Commission shall continue the license in effect.
+1952—Subsec. (d). Act July 16, 1952, provided that upon the expiration of any license, any renewal applied for may be granted “if the Commission finds that public interest, convenience, and necessity would be servedthereby”, and provided that pending a hearing and final decision on an application for renewal and the disposition of any petition for a rehearing the Commission shall continue the license in effect.
 
 1936—Subsec. (b). Act June 5, 1936, amended subsec. (b) generally.
 

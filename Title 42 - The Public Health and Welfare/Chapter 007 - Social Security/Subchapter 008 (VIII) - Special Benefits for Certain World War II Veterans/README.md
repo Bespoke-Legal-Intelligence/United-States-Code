@@ -23,6 +23,7 @@ This subchapter is referred to in sections 401, 405, 659, 903, 909, 1008, 1320aâ
 - [&sect; 01008 - Overpayments and underpayments](%C2%A7%2001008%20-%20Overpayments%20and%20underpayments.md)
 - [&sect; 01009 - Hearings and review](%C2%A7%2001009%20-%20Hearings%20and%20review.md)
 - [&sect; 01010 - Other administrative provisions](%C2%A7%2001010%20-%20Other%20administrative%20provisions.md)
+- [&sect; 01010a - Optional Federal administration of State recognition payments](%C2%A7%2001010a%20-%20Optional%20Federal%20administration%20of%20State%20recognition%20payments.md)
 - [&sect; 01011 - Penalties for fraud](%C2%A7%2001011%20-%20Penalties%20for%20fraud.md)
 - [&sect; 01012 - Definitions](%C2%A7%2001012%20-%20Definitions.md)
 - [&sect; 01013 - Appropriations](%C2%A7%2001013%20-%20Appropriations.md)

@@ -16,3 +16,7 @@ Committee on Foreign Affairs of House of Representatives treated as referring to
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in this section relating to the requirement that every two years the Chairman of the Board transmit to Congress a report detailing the progress the Institute has made in carrying out the purposes of this chapter, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 207 of House Document No. 103–7.
+

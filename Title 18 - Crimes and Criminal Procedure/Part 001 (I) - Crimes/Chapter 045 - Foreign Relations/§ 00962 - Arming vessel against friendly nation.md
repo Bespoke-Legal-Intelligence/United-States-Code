@@ -26,14 +26,6 @@ Minor change was made in phraseology.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000” in third par.
 
-#### Canal Zone
-
-Applicability of section to Canal Zone, see section 14 of this title.
-
-#### Cross References
-
-Limitation on informer's right to recover, see section 3730 of Title 31, Money and Finance.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 14 of this title; title 22 section 461.

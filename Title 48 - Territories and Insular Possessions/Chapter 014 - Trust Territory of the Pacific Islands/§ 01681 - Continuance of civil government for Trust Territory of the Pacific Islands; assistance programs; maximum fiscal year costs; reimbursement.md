@@ -24,7 +24,7 @@ For provisions relating to the Northern Mariana Islands, formerly set out as not
 
 #### Similar Provisions
 
-Similar provisions continuing the civil government for the Trust Territory of the Pacific Islands until June 30, 1954, were contained in act Aug. 8, 1953, ch. 383, §§1, 2, 67 Stat. 494, 495.
+Similar provisions continuing the civil government for the Trust Territory of the Pacific Islands until June30, 1954, were contained in act Aug. 8, 1953, ch. 383, §§1, 2, 67 Stat. 494, 495.
 
 #### Authorization of Appropriations
 
@@ -34,7 +34,7 @@ Section 2 of act June 30, 1954, as amended July 19, 1962, Pub. L. 87–541, 76 S
 
 #### Inventory and Study of Most Unique and Significant Natural, Historical, etc., Resources of Trust Territory of the Pacific Islands
 
-Pub. L. 97–357, title II, §205, Oct. 19, 1982, 96 Stat. 1708, directed Secretary of the Interior to conduct a comprehensive inventory and study of the most unique and significant natural, historical, cultural and recreational resources of Trust Territory of the Pacific Islands with objective of preservation of their values andtheir careful use and appreciation by the public, along with a determination of their potential for attracting tourism, further provided that such inventory and study was to be conducted in full cooperation and consultation with affected governmental officials and the interested public, and was to identify areas or sites which qualified to be listed on Registry of Natural Landmarks and National Register of Historic Places, and further provided that a full report on such inventory and study was to be transmitted to the respectively involved governments and Congress no later than two complete calendar years after Oct. 19, 1982.
+Pub. L. 97–357, title II, §205, Oct. 19, 1982, 96 Stat. 1708, directed Secretary of the Interior to conduct a comprehensive inventory and study of the most unique and significant natural, historical, cultural and recreational resources of Trust Territory of the Pacific Islands with objective of preservation of their values and their careful use and appreciation by the public, along with a determination of their potential for attracting tourism, further provided that such inventory and study was to be conducted in full cooperation and consultation with affected governmental officials and the interested public, and was to identify areas or sites which qualified to be listed on Registry of Natural Landmarks and National Register of Historic Places, and further provided that a full report on such inventory and study was to be transmitted to the respectively involved governments and Congress no later than two complete calendar years after Oct. 19, 1982.
 
 #### Establishment of Permanent Location for Displaced People of Bikini Island; Progress Report to Congress; Contents
 
@@ -42,7 +42,7 @@ Pub. L. 95–348, §2(c), Aug. 18, 1978, 92 Stat. 488, directed Secretary of the
 
 #### Disaster Relief
 
-Section 3 of act June 30, 1954, ch. 423, as added Pub. L. 90–617, §2, Oct. 21, 1968, 82 Stat. 1213, and amended Pub. L. 91–606, title III, §301(k), Dec. 31, 1970, 84 Stat. 1759; Pub. L. 93–288, title VI, §602(k), May 22, 1974, 88 Stat. 164; Pub. L. 100–707, title I, §109(w), Nov. 23, 1988, 102 Stat. 4710, provided that: “There are hereby authorized to be appropriated such sums as the Secretary of the Interior may find necessary, but not to exceed $10,000,000 for any one year, to alleviate suffering and damage resulting from major disasters that occur in the Trust Territory of the Pacific Islands. Such sums shall be in addition to those authorized in section 2 of this Act \[set out as a note above\] and shall not be subject to the limitations imposed by section 2 of this Act. The Secretary of the Interior shall determine whether or not a major disaster has occurred in accordance with the principles and policies of sections 102(2) and 401 of the \[Robert T. Stafford\] Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5122(2), 5170\].”
+Section 3 of act June 30, 1954, ch. 423, as added Pub. L. 90–617, §2, Oct. 21, 1968, 82 Stat. 1213, and amended Pub. L. 91–606, title III, §301(k), Dec. 31, 1970, 84 Stat. 1759; Pub. L. 93–288, title VII, §702(k), formerly title VI, §602(k), May 22, 1974, 88 Stat. 164, renumbered Pub. L. 103–337, div. C, title XXXIV, §3411(a)(1), (2), Oct. 5, 1994, 108 Stat. 3100; Pub. L. 100–707, title I, §109(w), Nov. 23, 1988, 102 Stat. 4710, provided that: “There are hereby authorized to be appropriated such sums as the Secretary of the Interior may find necessary, but not to exceed $10,000,000 for any one year, to alleviate suffering and damage resulting from major disasters that occur in the Trust Territory of the Pacific Islands. Such sums shall be in addition to those authorized in section 2 of this Act \[set out as a note above\] and shall not be subject to the limitations imposed by section 2 of this Act. The Secretary of the Interior shall determine whether or not a major disaster has occurred in accordance with the principles and policies of sections 102(2) and 401 of the \[Robert T. Stafford\] Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5122(2), 5170\].”
 
 #### Island Trading Company of Micronesia
 

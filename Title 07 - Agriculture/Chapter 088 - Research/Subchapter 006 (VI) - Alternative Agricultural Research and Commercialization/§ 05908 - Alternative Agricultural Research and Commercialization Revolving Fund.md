@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established in the Treasury of the United States a revolving fund to be known as the Alternative Agricultural Research and Commercialization Revolving Fund. The Fund shall be available to the Corporation, without fiscal year limitation, to carry out this subchapter.
+There is established in the Treasury of the United States a revolving fund to be known asthe Alternative Agricultural Research and Commercialization Revolving Fund. The Fund shall be available to the Corporation, without fiscal year limitation, to carry out this subchapter.
 
 #### (b) Contents of Fund
 

@@ -24,7 +24,7 @@ No person shall engage in the business of insurance in a State as principal or a
 
 &emsp;&emsp;&emsp;(ii) exercising authority granted under applicable State law to collect information concerning any proposed acquisition of, or a change or continuation of control of, an insurer engaged in the business of insurance in, and regulated as an insurer by, such State;
 
-> &emsp;&emsp;during the 60-day period preceding the effective date of the acquisition or change or continuation of control, so long as the collecting, reviewing, taking actions, or exercising authority by the State does not have the effect of discriminating, intentionally or unintentionally, against a depository institution or an affiliate thereof, or against any other person based upon an association of such person with a depository institution;
+> &emsp;&emsp;during the 60-day period preceding the effective date of the acquisition or change or continuation of control, so long as the collecting, reviewing, taking actions, or exercising authority by the State does not have the effect of discriminating, intentionally or unintentionally, against a depository institution or an affiliate thereof, or against any otherperson based upon an association of such person with a depository institution;
 
 &emsp;&emsp;(B) any State from requiring any person that is acquiring control of an insurer domiciled in that State to maintain or restore the capital requirements of that insurer to the level required under the capital regulations of general applicability in that State to avoid the requirement of preparing and filing with the insurance regulatory authority of that State a plan to increase the capital of the insurer, except that any determination by the State insurance regulatory authority with respect to such requirement shall be made not later than 60 days after the date of notification under subparagraph (A); or
 
@@ -46,7 +46,7 @@ No person shall engage in the business of insurance in a State as principal or a
 
 &emsp;&emsp;Notwithstanding subparagraph (A), a State may impose any of the following restrictions, or restrictions that are substantially the same as but no more burdensome or restrictive than those in each of the following clauses:
 
-&emsp;&emsp;&emsp;(i) Restrictions prohibiting the rejection of an insurance policy by a depository institution or an affiliate of a depository institution, solely because the policy hasbeen issued or underwritten by any person who is not associated with such depository institution or affiliate when the insurance is required in connection with a loan or extension of credit.
+&emsp;&emsp;&emsp;(i) Restrictions prohibiting the rejection of an insurance policy by a depository institution or an affiliate of a depository institution, solely because the policy has been issued or underwritten by any person who is not associated with such depository institution or affiliate when the insurance is required in connection with a loan or extension of credit.
 
 &emsp;&emsp;&emsp;(ii) Restrictions prohibiting a requirement for any debtor, insurer, or insurance agent or broker to pay a separate charge in connection with the handling of insurance that is required in connection with a loan or other extension of credit or the provision of another traditional banking product by a depository institution, or any affiliate of a depository institution, unless such charge would be required when the depository institution or affiliate is the licensed insurance agent or broker providing the insurance.
 
@@ -108,7 +108,7 @@ No person shall engage in the business of insurance in a State as principal or a
 
 &emsp;&emsp;&emsp;&emsp;(I) to limit the applicability of the decision of the Supreme Court in Barnett Bank of Marion County N.A. v. Nelson, 517 U.S. 25 (1996) with respect to any State statute, regulation, order, interpretation, or other action that is not referred to or described in subparagraph (B); or
 
-&emsp;&emsp;&emsp;&emsp;(II) to create any inference with respect to any State statute, regulation, order, interpretation, or other action that is not described in this paragraph.
+&emsp;&emsp;&emsp;&emsp;(II) to create any inference with respect to any State statute, regulation,order, interpretation, or other action that is not described in this paragraph.
 
 #### (3) Insurance activities other than sales
 
@@ -138,7 +138,7 @@ No person shall engage in the business of insurance in a State as principal or a
 
 &emsp;&emsp;&emsp;(ii) as interpreted or applied, does not have, and will not have, an impact on depository institutions, or affiliates thereof, engaged in the activity at issue, or any person who has an association with any such depository institution or affiliate, that is substantially more adverse than its impact on other persons engaged in the same activity that are not depository institutions or affiliates thereof, or persons who do not have an association with any such depository institution or affiliate;
 
-&emsp;&emsp;&emsp;(iii) does not effectively prevent a depository institution or affiliate thereof fromengaging in activities authorized or permitted by this Act or any other provision of Federal law; and
+&emsp;&emsp;&emsp;(iii) does not effectively prevent a depository institution or affiliate thereof from engaging in activities authorized or permitted by this Act or any other provision of Federal law; and
 
 &emsp;&emsp;&emsp;(iv) does not conflict with the intent of this Act generally to permit affiliations that are authorized or permitted by Federal law.
 
@@ -164,7 +164,7 @@ Subsections (c) and (d) of this section shall not be construed to affect—
 
 &emsp;&emsp;(B) to require the registration of securities or the licensure or registration of brokers, dealers, or investment advisers (consistent with section 80b–3a of this title), or the associated persons of a broker, dealer, or investment adviser (consistent with such section 80b–3a of this title); or
 
-&emsp;(2) State laws, regulations, orders, interpretations, or other actions of general applicability relating to the governance of corporations, partnerships, limited liability companies, or other business associations incorporated or formed under the laws of that State or domiciled in that State, or the applicability of the antitrust laws of any State or any State law that is similar to the antitrust laws if such laws, regulations, orders, interpretations, or other actions are not inconsistent with the purposes of this Act to authorize or permit certain affiliations and to remove barriers to such affiliations.
+&emsp;(2) State laws, regulations, orders, interpretations, or other actions of general applicability relating to the governance of corporations, partnerships, limited liability companies, or other business associations incorporated or formed under the laws of that State or domiciled in that State, or the applicability of the antitrust laws of any State or any State law that is similar to the antitrust laws if such laws, regulations, orders, interpretations, orother actions are not inconsistent with the purposes of this Act to authorize or permit certain affiliations and to remove barriers to such affiliations.
 
 #### (g) Definitions
 

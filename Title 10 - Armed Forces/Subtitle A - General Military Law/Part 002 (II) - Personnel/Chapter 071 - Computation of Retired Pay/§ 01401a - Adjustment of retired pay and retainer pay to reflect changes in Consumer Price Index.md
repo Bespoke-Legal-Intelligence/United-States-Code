@@ -62,7 +62,7 @@ Members covered.—Paragraphs (1) and (2) apply to a member or former member of 
 
 (d)
 
-First COLA Adjustment for Members With Retired Pay Computed Using High-Three.—Notwithstanding subsection (b), the retired pay of a member or former member of an armed force who first became a member of a uniformed service before August 1, 1986, and whoseretired pay base is determined under section 1407 of this title shall be increased on the effective date of the first adjustment of retired pay under subsection (b) after the member or former member becomes entitled to retired pay by the percent (adjusted to the nearest one-tenth of 1 percent) equal to the difference between the percent by which—
+First COLA Adjustment for Members With Retired Pay Computed Using High-Three.—Notwithstanding subsection (b), the retired pay of a member or former member of an armed force who first became a member of a uniformed service before August 1, 1986, and whose retired pay base is determined under section 1407 of this title shall be increased on the effective date of the first adjustment of retired pay under subsection (b) after the member or former member becomes entitled to retired pay by the percent (adjusted to the nearest one-tenth of 1 percent) equal to the difference between the percent by which—
 
 &emsp;(1) the price index for the base quarter of that year, exceeds
 
@@ -302,7 +302,7 @@ Section 921(a)(2) of Pub. L. 98–94 provided that:
 
 “(A) Notwithstanding the repeal of such subsection \[subsec. (e) of this section\], the provisions of such subsection shall apply in the case of any member or former member of the Armed Forces eligible to retire on the date of the enactment of this Act \[Sept. 24, 1983\] for a period of three years after such date in the same manner such provisions would have applied had they not been repealed.
 
-“(B) The amount of retired or retainer pay of any member or former member of the Armed Forces who was eligible to retire on the date of the enactment of this Act \[Sept. 24, 1983\] and who becomes entitled to such pay at any time after the end of the three-year period beginning on the date of the enactment of this Act may not be less than it would have been had he become entitled to retired or retainer pay on the day before the end of such three-year period.”
+“(B) The amount of retired or retainer pay of any member or former member of the Armed Forces whowas eligible to retire on the date of the enactment of this Act \[Sept. 24, 1983\] and who becomes entitled to such pay at any time after the end of the three-year period beginning on the date of the enactment of this Act may not be less than it would have been had he become entitled to retired or retainer pay on the day before the end of such three-year period.”
 
 Amendment by section 922 of Pub. L. 98–94 effective Oct. 1, 1983, see section 922(e) of Pub. L. 98–94, set out as a note under section 1401 of this title.
 
@@ -458,7 +458,7 @@ Pub. L. 96–342, title VIII, §812, Sept. 8, 1980, 94 Stat. 1098, as amended by
 
 “(3) The President shall by Executive order provide for only one cost-of-living adjustment in the annuities paid under the Central Intelligence Agency \[Retirement\] Act of 1964 for Certain Employees (50 U.S.C. 403 note) during the period beginning on September 1, 1980, and ending on August 31, 1981. Such adjustment shall be effective March 1, 1981, and shall be made in the same manner and percentage as the adjustment provided for in paragraphs (1) and (2) for the retired and retainer pay of members and former members of the uniformed services.
 
-“(4) Paragraphs (1), (2), and (3) shall not take effect unless similar legislation is enacted which provides for only one cost-of-living increase in annuities paid undersubchapter III of chapter 83 of title 5, United States Code, during the period beginning on September 1, 1980, and ending on August 31, 1981.
+“(4) Paragraphs (1), (2), and (3) shall not take effect unless similar legislation is enacted which provides for only one cost-of-living increase in annuities paid under subchapter III of chapter 83 of title 5, United States Code, during the period beginning on September 1, 1980, and ending on August 31, 1981.
 
 “(b)(1) Effective August 31, 1981, but subject to paragraph (2), section 1401a(b), of title 10, United States Code, relating to adjustment of retired pay and retainer pay to reflect changes in the Consumer Price Index, is amended to read as follows:
 
@@ -500,7 +500,7 @@ Section 801(c) of Pub. L. 94–361 provided that:
 
 “(3) The provisions of paragraphs (1) and (2) relating to any change in the method of computing the cost-of-living adjustment of the retired pay or retainer pay of members and former members of the Armed Forces shall be applicable to the computation of cost-of-living adjustments of the retired pay of commissioned officers of the National Oceanic and Atmospheric Administration and the retired pay of commissioned officers of the Public Health Service.”
 
-\[The Central Intelligence Agency Retirement Act of 1964 for Certain Employees, referred to in Pub. L. 94–361, set out above, is Pub. L. 88–643, Oct. 13, 1964, 78 Stat. 1043, which was revised generally by Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3196, is known as the Central Intelligence Agency RetirementAct and is classified generally to chapter 38 (§2001 et seq.) of Title 50, War and National Defense.\]
+\[The Central Intelligence Agency Retirement Act of 1964 for Certain Employees, referred to in Pub. L. 94–361, set out above, is Pub. L. 88–643, Oct. 13, 1964, 78 Stat. 1043, which was revised generally by Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3196, is known as the Central Intelligence Agency Retirement Act and is classified generally to chapter 38 (§2001 et seq.) of Title 50, War and National Defense.\]
 
 #### Increase in Certain Armed Force Members’ Pay and Allowances Not Otherwise Tied to Consumer Price Index
 
@@ -520,17 +520,7 @@ Pub. L. 93–210, §2, Dec. 28, 1973, 87 Stat. 908, provided that:
 
 Section 2(b) of Pub. L. 90–207 provided that: “Notwithstanding section 1401a(d) of title 10, United States Code, a person who is a member or former member of an armed force on the date of enactment of this Act \[Dec. 16, 1967\] and who initially became, or hereafter initially becomes, entitled to retired pay or retainer pay after November 30, 1966, but before the effective date of the next increase after July 1, 1966, in the rates of monthly basic pay prescribed by section 203 of title 37, United States Code, is entitled to have his retired pay or retainer pay increased by 3.7 percent, effective as of the date of his entitlement to that pay.”
 
-#### Cross References
-
-Employment of retired officers, reduction in retired pay, see section 5532 of Title 5, Government Organization and Employees.
-
-Survivor benefit plan—
-
-&emsp;&emsp;Annuity increases, see section 1451 of this title.
-
-&emsp;&emsp;Base amount increases, see section 1447 of this title.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1402, 1402a, 1408, 1410, 1434, 1451, 1452 of this title; title 5 section 5532.
+This section is referred to in sections 1402, 1402a, 1408, 1410, 1434, 1451, 1452 of this title; title 37 section 322.
 

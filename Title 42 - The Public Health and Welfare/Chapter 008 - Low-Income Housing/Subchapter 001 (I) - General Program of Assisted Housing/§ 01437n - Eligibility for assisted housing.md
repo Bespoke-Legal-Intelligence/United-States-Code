@@ -56,7 +56,7 @@ Targeting.—Except as provided in paragraph (4), of the public housing dwelling
 
 &emsp;&emsp;&emsp;&emsp;(I) are in projects that are located in census tracts having a poverty rate of 30 percent or more; and
 
-&emsp;&emsp;&emsp;&emsp;(II) are made available for occupancy during such fiscal year and are actually filled only by families whose incomes atthe time of commencement of such occupancy exceed 30 percent of the area median income, as determined by the Secretary with adjustments for smaller and larger families.
+&emsp;&emsp;&emsp;&emsp;(II) are made available for occupancy during such fiscal year and are actually filled only by families whose incomes at the time of commencement of such occupancy exceed 30 percent of the area median income, as determined by the Secretary with adjustments for smaller and larger families.
 
 #### (D) Fungibility floor
 
@@ -84,7 +84,7 @@ Targeting.—Except as provided in paragraph (4), of the public housing dwelling
 
 #### (2) Post-1981 act projects
 
-&emsp;Not more than 15 percent of the dwelling units which become available for occupancy under section 8 \[42 U.S.C. 1437f\] housing assistance payments contracts under this chapter on or after October 1, 1981, shall be available for leasing by low-income families other than very low-income families.
+&emsp;Not more than 15 percent of the dwelling units which become available for occupancyunder section 8 \[42 U.S.C. 1437f\] housing assistance payments contracts under this chapter on or after October 1, 1981, shall be available for leasing by low-income families other than very low-income families.
 
 #### (3) Targeting
 
@@ -198,7 +198,7 @@ Pub. L. 105–276, title V, §513(b), Oct. 21, 1998, 112 Stat. 2547, provided th
 
 #### Effective and Termination Dates of 1996 Amendments
 
-Amendment by Pub. L. 104–330 effective Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as an Effective Date note under section 4101 of Title 25, Indians.
+Amendment by Pub. L. 104–330 effective Oct. 1, 1997, except as otherwise expressly provided, see section 107of Pub. L. 104–330, set out as an Effective Date note under section 4101 of Title 25, Indians.
 
 Amendment by Pub. L. 104–120 to be construed to have become effective Oct. 1, 1995, notwithstanding the effective date of any regulations issued by Secretary of Housing and Urban Development to implement amendments by sections 9 and 10 of Pub. L. 104–120 or any failure by Secretary to issue any such regulations, see section 13 of Pub. L. 104–120, set out as a note under section 1437d of this title.
 
@@ -210,7 +210,7 @@ Section effective Oct. 1, 1981, see section 371 of Pub. L. 97–35, set out as a
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1437c–1, 1437e, 1437r, 1437bbb–4 of this title; title 12 section 1715z–1a.
+This section is referred to in sections 1437c–1, 1437e, 1437f, 1437r, 1437bbb–4 of this title; title 12 section 1715z–1a.
 
 <i><sup>1</sup></i><i> So in original. No subpar. (B) has been enacted.</i>
 

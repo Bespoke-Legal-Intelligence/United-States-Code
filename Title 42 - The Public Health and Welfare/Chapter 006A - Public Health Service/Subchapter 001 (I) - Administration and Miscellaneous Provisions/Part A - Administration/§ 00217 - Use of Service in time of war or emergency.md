@@ -18,7 +18,7 @@ Section 6 of Joint Res. July 3, 1952, ch. 570, 66 Stat. 334, repealed Joint Res.
 
 #### Transfer of Functions
 
-Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under section 202 of this title.Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
 #### Executive Order No. 9575
 
@@ -39,10 +39,6 @@ Ex. Ord. No. 10362, eff. June 14, 1952, 17 F.R. 5413, amended Ex. Ord. No. 10356
 #### Executive Order No. 10367
 
 Ex. Ord. No. 10367, eff. June 30, 1952, 17 F.R. 5929, amended Ex. Ord. No. 10362, and extended from June 30, 1952, to July 3, 1952, the period during which the Commissioned Corps of the Public Health Service was subject to the Uniform Code of Military Justice.
-
-#### Cross References
-
-Personnel of Public Health Service serving with armed forces as subject to Uniform Code of Military Justice, see section 802 of Title 10, Armed Forces.
 
 #### Section Referred to in Other Sections
 

@@ -1,10 +1,10 @@
 ### §8334. Deductions, contributions, and deposits
 
-(a)(1) The employing agency shall deduct and withhold from the basic pay of an employee, Member, Congressional employee, law enforcement officer, firefighter, bankruptcy judge, judge of the United States Court of Appeals for the Armed Forces, United States magistrate, Court of Federal Claims judge, member of the Capitol Police, or nuclear materials courier, as the case may be, the percentage of basic pay applicable under subsection (c). An equal amount shall be contributed from the appropriation or fund used to pay the employee or, in the case of an elected official, from an appropriation or fund available for payment of other salaries of the same office or establishment. When an employee in the legislative branch is paid by the Chief Administrative Officer of the House of Representatives, the Chief Administrative Officer may pay from the applicable accounts of the House of Representatives the contribution that otherwise would be contributed from the appropriation or fund used to pay the employee.
+(a)(1) The employing agency shall deduct and withhold from the basic pay of an employee, Member, Congressional employee, law enforcement officer, firefighter, bankruptcy judge, judge of the United States Court of Appeals for the Armed Forces, United States magistrate,<sup>1</sup> Court of Federal Claims judge, member of the Capitol Police, member of the Supreme Court Police, or nuclear materials courier, as the case may be, the percentage of basic pay applicable under subsection (c). An equal amount shall be contributed from the appropriation or fund used to pay the employee or, in the case of an elected official, from an appropriation or fund available for payment of other salaries of the same office or establishment. When an employee in the legislative branch is paid by the Chief Administrative Officer of the House of Representatives, the Chief Administrative Officer may pay from the applicable accounts of the House of Representatives the contribution that otherwise would be contributed from the appropriation or fund used to pay the employee.
 
 (2) The amounts so deducted and withheld, together with the amounts so contributed, shall be deposited in the Treasury of the United States to the credit of the Fund under such procedures as the Secretary of the Treasury may prescribe. Deposits made by an employee or Member also shall be credited to the Fund.
 
-(b) Each employee or Member is deemed to consent and agree to these deductions from basic pay. Notwithstanding any law or regulation affecting the pay of an employee or Member, payment less these deductions is a full and complete discharge and acquittance of all claims and demands for regular services during the period covered by the payment, except the right to the benefits to which the employee or Member is entitled under this subchapter.
+(b) Each employee or Member is deemed to consent and agree to these deductions frombasic pay. Notwithstanding any law or regulation affecting the pay of an employee or Member, payment less these deductions is a full and complete discharge and acquittance of all claims and demands for regular services during the period covered by the payment, except the right to the benefits to which the employee or Member is entitled under this subchapter.
 
 (c) Each employee or Member credited with civilian service after July 31, 1920, for which retirement deductions or deposits have not been made, may deposit with interest an amount equal to the following percentages of his basic pay received for that service:
 
@@ -20,15 +20,13 @@
 | &nbsp; | 7 | January 1, 1970, to December 31, 1998. |
 | &nbsp; | 7\.25 | January 1, 1999, to December 31, 1999. |
 | &nbsp; | 7\.4 | January 1, 2000, to December 31, 2000. |
-| &nbsp; | 7\.5 | January 1, 2001, to December 31, 2002. |
-| &nbsp; | 7 | After December 31, 2002. |
+| &nbsp; | 7 | After December 31, 2000. |
 | Member or employee for Congressional employee service | 21/231/256 | August 1, 1920, to June 30, 1926.July 1, 1926, to June 30, 1942.July 1, 1942, to June 30, 1948.July 1, 1948, to October 31, 1956. |
 | &nbsp; | 61/2 | November 1, 1956, to December 31, 1969. |
 | &nbsp; | 7\.5 | January 1, 1970, to December 31, 1998. |
 | &nbsp; | 7\.75 | January 1, 1999, to December 31, 1999. |
 | &nbsp; | 7\.9 | January 1, 2000, to December 31, 2000. |
-| &nbsp; | 8 | January 1, 2001, to December 31, 2002. |
-| &nbsp; | 7\.5 | After December 31, 2002. |
+| &nbsp; | 7\.5 | After December 31, 2000. |
 | Member for Member service | 21/231/2 | August 1, 1920, to June 30, 1926.July 1, 1926, to June 30, 1942. |
 | &nbsp; | 5 | July 1, 1942, to August 1, 1946. |
 | &nbsp; | 6 | August 2, 1946, to October 31, 1956. |
@@ -38,12 +36,11 @@
 | &nbsp; | 8\.4 | January 1, 2000, to December 31, 2000. |
 | &nbsp; | 8\.5 | January 1, 2001, to December 31, 2002. |
 | &nbsp; | 8 | After December 31, 2002. |
-| Law enforcement officer for law enforcement service and firefighter for firefighter service | 21/231/25661/2 7 | August 1, 1920, to June 30, 1926.July 1, 1926, to June 30, 1942.July 1, 1942, to June 30, 1948.July 1, 1948, to October 31, 1956.November 1, 1956, to December 31, 1969.January 1, 1970, to December 31, 1974. |
+| Law enforcement officer for law enforcement service, member of the Supreme Court Police for Supreme Court Police service, and firefighter for firefighter service | 21/231/25661/2 7 | August 1, 1920, to June 30, 1926.July 1, 1926, to June 30, 1942.July 1, 1942, to June 30, 1948.July 1, 1948, to October 31, 1956.November 1, 1956, to December 31, 1969.January 1, 1970, to December 31, 1974. |
 | &nbsp; | 7\.5 | January 1, 1975, to December 31, 1998. |
 | &nbsp; | 7\.75 | January 1, 1999, to December 31, 1999. |
 | &nbsp; | 7\.9 | January 1, 2000, to December 31, 2000. |
-| &nbsp; | 8 | January 1, 2001, to December 31, 2002. |
-| &nbsp; | 7\.5 | After December 31, 2002. |
+| &nbsp; | 7\.5 | After December 31, 2000. |
 | Bankruptcy judge | 21/2 31/2 | August 1, 1920, to June 30, 1926.July 3, 1926, to June 30, 1942. |
 | &nbsp; | 5 | July 1, 1942, to June 30, 1948. |
 | &nbsp; | 6 | July 1, 1948, to October 31, 1956. |
@@ -52,15 +49,13 @@
 | &nbsp; | 8 | January 1, 1984, to December 31, 1998. |
 | &nbsp; | 8\.25 | January 1, 1999, to December 31, 1999. |
 | &nbsp; | 8\.4 | January 1, 2000, to December 31, 2000. |
-| &nbsp; | 8\.5 | January 1, 2001, to December 31, 2002. |
-| &nbsp; | 8 | After December 31, 2002. |
+| &nbsp; | 8 | After December 31, 2000. |
 | Judge of the United States Court of Appeals for the Armed Forces for service as a judge of that court | 661/2 7&nbsp;&nbsp;&nbsp;&nbsp; | May 5, 1950, to October 31, 1956.November 1, 1956, to December 31, 1969.January 1, 1970, to (but not including) the date of the enactment of the Department of Defense Authorization Act, 1984. |
 | &nbsp; | 8 | The date of enactment of the Department of Defense Authorization Act, 1984, to December 31, 1998. |
 | &nbsp; | 8\.25 | January 1, 1999, to December 31, 1999. |
 | &nbsp; | 8\.4 | January 1, 2000, to December 31, 2000. |
-| &nbsp; | 8\.5 | January 1, 2001, to December 31, 2002. |
-| &nbsp; | 8 | After December 31, 2002. |
-| United States magistrate | 21/2 31/2 | August 1, 1920, to June 30, 1926.July 1, 1926, to June 30, 1942. |
+| &nbsp; | 8 | After December 31, 2000. |
+| United States magistrate judge | 21/2 31/2 | August 1, 1920, to June 30, 1926.July 1, 1926, to June 30, 1942. |
 | &nbsp; | 5 | July 1, 1942, to June 30, 1948. |
 | &nbsp; | 6 | July 1, 1948, to October 31, 1956. |
 | &nbsp; | 61/2 | November 1, 1956, to December 31, 1969. |
@@ -68,8 +63,7 @@
 | &nbsp; | 8 | October 1, 1987, to December 31, 1998. |
 | &nbsp; | 8\.25 | January 1, 1999, to December 31, 1999. |
 | &nbsp; | 8\.4 | January 1, 2000, to December 31, 2000. |
-| &nbsp; | 8\.5 | January 1, 2001, to December 31, 2002. |
-| &nbsp; | 8 | After December 31, 2002. |
+| &nbsp; | 8 | After December 31, 2000. |
 | Court of Federal Claims Judge | 21/2 31/2 | August 1, 1920, to June 30, 1926.July 1, 1926, to June 30, 1942. |
 | &nbsp; | 5 | July 1, 1942, to June 30, 1948. |
 | &nbsp; | 6 | July 1, 1948, to October 31, 1956. |
@@ -78,8 +72,7 @@
 | &nbsp; | 8 | October 1, 1988, to December 31, 1998. |
 | &nbsp; | 8\.25 | January 1, 1999, to December 31, 1999. |
 | &nbsp; | 8\.4 | January 1, 2000, to December 31, 2000. |
-| &nbsp; | 8\.5 | January 1, 2001, to December 31, 2002. |
-| &nbsp; | 8 | After December 31, 2002. |
+| &nbsp; | 8 | After December 31, 2000. |
 | Member of the Capitol Police | 2\.5 3.5 | August 1, 1920, to June 30, 1926. July 1, 1926, to June 30, 1942. |
 | &nbsp; | 5 | July 1, 1942, to June 30, 1948. |
 | &nbsp; | 6 | July 1, 1948, to October 31, 1956. |
@@ -87,14 +80,12 @@
 | &nbsp; | 7\.5 | January 1, 1970, to December 31, 1998. |
 | &nbsp; | 7\.75 | January 1, 1999, to December 31, 1999. |
 | &nbsp; | 7\.9 | January 1, 2000, to December 31, 2000. |
-| &nbsp; | 8 | January 1, 2001, to December 31, 2002. |
-| &nbsp; | 7\.5 | After December 31, 2002. |
+| &nbsp; | 7\.5 | After December 31, 2000. |
 | Nuclear materials courier | 7 | October 1, 1977 to October 16, 1998. |
 | &nbsp; | 7\.5 | October 17, 1998 to December 31, 1998. |
 | &nbsp; | 7\.75 | January 1, 1999 to December 31, 1999. |
 | &nbsp; | 7\.9 | January 1, 2000 to December 31, 2000. |
-| &nbsp; | 8 | January 1, 2001 to December 31, 2002. |
-| &nbsp; | 7\.5 | After December 31, 2002. |
+| &nbsp; | 7\.5 | After December 31, 2000. |
 
 > Notwithstanding the preceding provisions of this subsection and any provision of section 206(b)(3) of the Federal Employees’ Retirement Contribution Temporary Adjustment Act of 1983, the percentage of basic pay required under this subsection in the case of an individual described in section 8402(b)(2) shall, with respect to any covered service (as defined by section 203(a)(3) of such Act) performed by such individual after December 31, 1983, and before January 1, 1987, be equal to 1.3 percent, and, with respect to any such service performed after December 31, 1986, be equal to the amount that would have been deducted from the employee's basic pay under subsection (k) of this section if the employee's pay had been subject to that subsection during such period.
 
@@ -128,7 +119,7 @@
 
 &emsp;(3) service for the Panama Railroad Company before January 1, 1924;
 
-&emsp;(4) service performed before October 29, 1983,,<sup>1</sup> by natives of the Pribilof Islands in the taking and curing of fur seal skins and other activities in connection with the administration of the Pribilof Islands except where deductions, contributions, and deposits were made before October 29, 1983;
+&emsp;(4) service performed before October 29, 1983,,<sup>2</sup> by natives of the Pribilof Islands in the taking and curing of fur seal skins and other activities in connection with the administration of the Pribilof Islands except where deductions, contributions, and deposits were made before October 29, 1983;
 
 &emsp;(5) days of unused sick leave credited under section 8339(m) of this title; or
 
@@ -142,9 +133,9 @@
 
 (3) Notwithstanding any other provision of law, the amount the Director pays under this subsection shall constitute an employer contribution to the Fund, excludable under section 402 of the Internal Revenue Code of 1986 from the employee's gross income until such time as the contribution is distributed or made available to the employee, and shall not be subject to refund or to lump-sum payment to the employee.
 
-(4) Notwithstanding any other provision of law, a bankruptcy judge or magistrate who is covered by section 377 of title 28 or section 2(c) of the Retirement and Survivors’ Annuities for Bankruptcy Judges and Magistrates Act of 1988 shall not be subject to deductions and contributions to the Fund, if the judge or magistrate notifies the Director of the Administrative Office of the United States Courts of an election of a retirement annuity under those provisions. Upon such an election, the judge or magistrate shall be entitled to a lump-sum credit under section 8342(a) of this title.
+(4) Notwithstanding any other provision of law, a bankruptcy judge or magistrate judge who is covered by section 377 of title 28 or section 2(c) of the Retirement and Survivors’ Annuities for Bankruptcy Judges and Magistrates Act of 1988 shall not be subject to deductions and contributions to the Fund, if the judge or magistrate judge notifies the Director of the Administrative Office of the United States Courts of an election of a retirement annuity under those provisions. Upon such an election, the judge or magistrate judge shall be entitled to a lump-sum credit under section 8342(a) of this title.
 
-(5) Notwithstanding any other provision of law, a judge who is covered by section 7296 of title 38 shall not be subject to deductions and contributions to the Fund, if the judge notifies the Director of the Office of Personnel Management of an election of a retirement annuity under that section. Upon such an election, the judge shall be entitled to a lump-sum credit under section 8342(a) of this title.
+(5) Notwithstanding any other provision of law, a judge who is covered by section 7296 of title 38 shall not be subject to deductions andcontributions to the Fund, if the judge notifies the Director of the Office of Personnel Management of an election of a retirement annuity under that section. Upon such an election, the judge shall be entitled to a lump-sum credit under section 8342(a) of this title.
 
 (6) Notwithstanding any other provision of law, a judge of the United States Court of Federal Claims who is covered by section 178 of title 28 shall not be subject to deductions and contributions to the Fund if the judge notifies the Director of the Administrative Office of the United States Courts of an election of a retirement annuity under those provisions. Upon such an election, the judge shall be entitled to a lump-sum credit under section 8342(a) of this title.
 
@@ -218,7 +209,7 @@
 
 (m) A Member who has served in a position in the executive branch for which the rate of basic pay was reduced for the duration of the service of the Member to remove the impediment to the appointment of the Member imposed by article I, section 6, clause 2 of the Constitution, or the survivor of such a Member, may deposit to the credit of the Fund an amount equal to the difference between the amount deducted from the basic pay of the Member during that period of service and the amount that would have been deducted if the rate of basic pay which would otherwise have been in effect during that period had been in effect, plus interest computed under subsection (e).
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 569; Pub. L. 90–83, §1(74), Sept. 11, 1967, 81 Stat. 214; Pub. L. 90–486, §5(b), Aug. 13, 1968, 82 Stat. 757; Pub. L. 91–93, title I, §102(a), title II, §202, Oct. 20, 1969, 83 Stat. 136, 138; Pub. L. 92–297, §7(2), May 16, 1972, 86 Stat. 144; Pub. L. 93–350, §3, July 12, 1974, 88 Stat. 356; Pub. L. 94–126, §§1(a), 2(a), Nov. 12, 1975, 89 Stat. 679; Pub. L. 95–382, §1(b), Sept. 22, 1978, 92 Stat. 727; Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 95–598, title III, §338(b), Nov. 6, 1978, 92 Stat. 2681; Pub. L. 97–164, title II, §207(b), Apr. 2, 1982, 96 Stat. 54; Pub. L. 97–253, title III, §§303(a)(1), 306(d), (e), Sept. 8, 1982, 96 Stat. 793, 796, 797; Pub. L. 97–346, §3(a), (c)–(e)(1), Oct. 15, 1982, 96 Stat. 1647, 1648; Pub. L. 98–94, title XII, §§1256(a), 1257, Sept. 24, 1983, 97 Stat. 701, 702; Pub. L. 89–702, title II, §209(f), as added Pub. L. 98–129, §2, Oct. 14, 1983, 97 Stat. 843; Pub. L. 98–353, title I, §116(b), July 10, 1984, 98 Stat. 344; Pub. L. 98–615, §2(2), Nov. 8, 1984, 98 Stat. 3195; Pub. L. 99–335, title II, §201(a), (c), June 6, 1986, 100 Stat. 588, 591; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–53, §2(b), June 18, 1987, 101 Stat. 367; Pub. L. 100–238, title I, §§102, 108(b)(1), Jan. 8, 1988, 101 Stat. 1744, 1748; Pub. L. 100–659, §6(b), Nov. 15, 1988, 102 Stat. 3919; Pub. L. 101–94, title I, §102(a), Aug. 16, 1989, 103 Stat. 626; Pub. L. 101–508, title VII, §7001(b)(1), (2)(A), (B), Nov. 5, 1990, 104 Stat. 1388–328, 1388–329; Pub. L. 101–650, title III, §306(c)(2), (e)(2), Dec. 1, 1990, 104 Stat. 5110, 5112; Pub. L. 102–40, title IV, §402(d)(2), May 7, 1991, 105 Stat. 239; Pub. L. 102–378, §2(59), Oct. 2, 1992, 106 Stat. 1354; Pub. L. 102–572, title IX, §902(b), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–66, title XI, §11004(a)(3), Aug. 10, 1993, 107 Stat. 412; Pub. L. 103–82, title III, §371(a)(2), Sept. 21, 1993, 107 Stat. 910; Pub. L. 103–337, div. A, title IX, §924(d)(1)(A), Oct. 5, 1994, 108 Stat. 2832; Pub. L. 103–353, §5(b), Oct. 13, 1994, 108 Stat. 3173; Pub. L. 104–186, title II, §215(12), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 104–316, title I, §103(g), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 105–33, title VII, §7001(a)(3), (4), Aug. 5, 1997, 111 Stat. 653, 657; Pub. L. 105–61, title V, §516(a)(1), Oct. 10, 1997, 111 Stat. 1306; Pub. L. 105–261, div. C, title XXXI, §3154(c)(1), (2), Oct. 17, 1998, 112 Stat. 2254; Pub. L. 106–65, div. A, title X, §1066(d)(3), Oct. 5, 1999, 113 Stat. 773.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 569; Pub. L. 90–83, §1(74), Sept. 11, 1967, 81 Stat. 214; Pub. L. 90–486, §5(b), Aug. 13, 1968, 82 Stat. 757; Pub. L. 91–93, title I, §102(a), title II, §202, Oct. 20, 1969, 83 Stat. 136, 138; Pub. L. 92–297, §7(2), May 16, 1972, 86 Stat. 144; Pub. L. 93–350, §3, July 12, 1974, 88 Stat. 356; Pub. L. 94–126, §§1(a), 2(a), Nov. 12, 1975, 89 Stat. 679; Pub. L. 95–382, §1(b), Sept. 22, 1978, 92 Stat. 727; Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 95–598, title III, §338(b), Nov. 6, 1978, 92 Stat. 2681; Pub. L. 97–164, title II, §207(b), Apr. 2, 1982, 96 Stat. 54; Pub. L. 97–253, title III, §§303(a)(1), 306(d), (e), Sept. 8, 1982, 96 Stat. 793, 796, 797; Pub. L. 97–346, §3(a), (c)–(e)(1), Oct. 15, 1982, 96 Stat. 1647, 1648; Pub. L. 98–94, title XII, §§1256(a), 1257, Sept. 24, 1983, 97 Stat. 701, 702; Pub. L. 89–702, title II, §209(f), as added Pub. L. 98–129, §2, Oct. 14, 1983, 97 Stat. 843; Pub. L. 98–353, title I, §116(b), July 10, 1984, 98 Stat. 344; Pub. L. 98–615, §2(2), Nov. 8, 1984, 98 Stat. 3195; Pub. L. 99–335, title II, §201(a), (c), June 6, 1986, 100 Stat. 588, 591; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–53, §2(b), June 18, 1987, 101 Stat. 367; Pub. L. 100–238, title I, §§102, 108(b)(1), Jan. 8, 1988, 101 Stat. 1744, 1748; Pub. L. 100–659, §6(b), Nov. 15, 1988, 102 Stat. 3919; Pub. L. 101–94, title I, §102(a), Aug. 16, 1989, 103 Stat. 626; Pub. L. 101–508, title VII, §7001(b)(1), (2)(A), (B), Nov. 5, 1990, 104 Stat. 1388–328, 1388–329; Pub. L. 101–650, title III, §§306(c)(2), (e)(2), 321, Dec. 1, 1990, 104 Stat. 5110, 5112, 5117; Pub. L. 102–40, title IV, §402(d)(2), May 7, 1991, 105 Stat. 239; Pub. L. 102–378, §2(59), Oct. 2, 1992, 106 Stat. 1354; Pub. L. 102–572, title IX, §902(b), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–66, title XI, §11004(a)(3), Aug. 10, 1993, 107 Stat. 412; Pub. L. 103–82, title III, §371(a)(2), Sept. 21, 1993, 107 Stat. 910; Pub. L. 103–337, div. A, title IX, §924(d)(1)(A), Oct. 5, 1994, 108 Stat. 2832; Pub. L. 103–353, §5(b), Oct. 13, 1994, 108 Stat. 3173; Pub. L. 104–186, title II, §215(12), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 104–316, title I, §103(g), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 105–33, title VII, §7001(a)(3), (4), Aug. 5, 1997, 111 Stat. 653, 657; Pub. L. 105–61, title V, §516(a)(1), Oct. 10, 1997, 111 Stat. 1306; Pub. L. 105–261, div. C, title XXXI, §3154(c)(1), (2), Oct. 17, 1998, 112 Stat. 2254; Pub. L. 106–65, div. A, title X, §1066(d)(3), Oct. 5, 1999, 113 Stat. 773; Pub. L. 106–346, §101(a) \[title V, §505(a)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–50; Pub. L. 106–553, §1(a)(2) \[title III, §308(b)(1)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–86.)
 
 Historical and Revision Notes<br>1966
 
@@ -294,7 +285,13 @@ The Peace Corps Act, referred to in subsec. (<i>l</i>)(1), is Pub. L. 87–293, 
 
 #### Amendments
 
-1999—Subsec. (c). Pub. L. 106–65, in table relating to nuclear materials courier, substituted “October 16, 1998” for “the day before the date of the enactment of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999” and “October 17, 1998” for “The date of the enactment of the Strom ThurmondNational Defense Authorization Act for Fiscal Year 1999”.
+2000—Subsec. (a)(1). Pub. L. 106–553, §1(a)(2) \[title III, §308(b)(1)(A)\], inserted “member of the Supreme Court Police,” after “member of the Capitol Police,”.
+
+Subsec. (c). Pub. L. 106–553, §1(a)(2) \[title III, §308(b)(1)(B)\], in table relating to law enforcement officer for law enforcement service and firefighter for firefighter service, inserted “, member of the Supreme Court Police for Supreme Court Police service,” after “law enforcement service”.
+
+Pub. L. 106–346, in tables relating to an employee, a Member or employee for Congressional employee service, a law enforcement officer for law enforcement service and firefighter for firefighter service, a bankruptcy judge, a judge of the United States Court of Appeals for the Armed Forces for service as a judge of that court, a United States magistrate judge, a Court of Federal Claims judge, a member of the Capitol Police, and a nuclear materials courier, substituted item relating to service period after December 31, 2000, for former items relating to service periods January 1, 2001, to December 31, 2002, and after December 31, 2002.
+
+1999—Subsec. (c). Pub. L. 106–65, in table relating to nuclear materials courier, substituted “October 16, 1998” for “the day before the date of the enactment of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999” and “October 17, 1998” for “The date of the enactment of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999”.
 
 1998—Subsec. (a)(1). Pub. L. 105–261, §3154(c)(1), substituted “member of the Capitol Police, or nuclear materials courier,” for “or member of the Capitol Police,”.
 
@@ -308,7 +305,7 @@ Pub. L. 105–33, §7001(a)(3)(B)(viii), in table relating to a Court of Federal
 
 Pub. L. 105–33, §7001(a)(3)(B)(vii), in table relating to a United States magistrate, substituted items relating to service periods October 1, 1987, to after December 31, 2002, for former item relating to service period after September 30, 1987.
 
-Pub. L. 105–33, §7001(a)(3)(B)(vi), in table relating to a judge of the United States Court of Appeals for the Armed Forces for service as a judge of that court, substituted items relating to service periods on and after the date of enactment of the Department of Defense Authorization Act, 1984, to after December 31, 2002, for former item relating to service period on and after the date of the enactment of the Department of Defense Authorization Act, 1984.
+Pub. L. 105–33, §7001(a)(3)(B)(vi), in table relating to a judge of the United States Court of Appeals for the Armed Forces for service as a judge of that court, substituted items relating to service periods on and afterthe date of enactment of the Department of Defense Authorization Act, 1984, to after December 31, 2002, for former item relating to service period on and after the date of the enactment of the Department of Defense Authorization Act, 1984.
 
 Pub. L. 105–33, §7001(a)(3)(B)(v), in table relating to a bankruptcy judge, substituted items relating to service periods January 1, 1984, to after December 31, 2002, for former item relating to service period after December 31, 1983.
 
@@ -408,7 +405,7 @@ Subsec. (h). Pub. L. 98–615 substituted “annuities, deposits authorized by s
 
 Subsec. (c). Pub. L. 98–94, §1256(a)(2), added to the table items covering a judge of the United States Court of Military Appeals for service as a judge of that court.
 
-Subsec. (g)(4). Pub. L. 98–129 substituted “October 29, 1983,” for “January 1, 1950”, and directed that the phrase “except where deductions, contributions, and deposits were made before October 29, 1983” be inserted after “the Pribilof Islands” which amendment was executed by inserting that phrase after “the Pribilof Islands” the second time those words appear, as the probable intent of Congress.
+Subsec. (g)(4). Pub. L. 98–129 substituted “October 29, 1983,” for “January 1, 1950”, and directed that thephrase “except where deductions, contributions, and deposits were made before October 29, 1983” be inserted after “the Pribilof Islands” which amendment was executed by inserting that phrase after “the Pribilof Islands” the second time those words appear, as the probable intent of Congress.
 
 Subsec. (j)(2)(A). Pub. L. 98–94, §1257, substituted “October 1, 1983” for “October 1, 1982”.
 
@@ -456,7 +453,13 @@ Subsec. (g)(5). Pub. L. 91–93, §202, added par. (5).
 
 #### Change of Name
 
-Reference to United States magistrate or to magistrate deemed to refer to United States magistrate judge pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+“United States magistrate judge” and “magistrate judge” substituted for “United States magistrate” and “magistrate”, respectively, wherever appearing in subsecs. (c) and (i)(4) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+
+#### Effective Date of 2000 Amendments
+
+Amendment by Pub. L. 106–553 effective on the first day of the first applicable pay period that begins on Dec. 21, 2000, and applicable only to an individual who is employed as a member of the Supreme Court Police after Dec. 21, 2000, see section 1(a)(2) \[title III, §308(i), (j)\] of Pub. L. 106–553, set out in a Supreme Court Police Retirement note under section 8331 of this title.
+
+Pub. L. 106–346, §101(a) \[title V, §505(i)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–54, provided that: “The amendments made by this section \[amending this section, section 8422 of this title, sections 4045, 4071c, and 4071e of Title 22, Foreign Relations and Intercourse, and section 2082 of Title 50, War and National Defense, enacting provisions set out as notes under this section, section 4045 of Title 22, and section 2021 of Title 50, and amending provisions set out as notes under section 4045 of Title 22 and section 2021 of Title 50\] shall take effect upon the close of calendar year 2000, and shall apply thereafter.”
 
 #### Effective Date of 1998 Amendment
 
@@ -502,7 +505,7 @@ Section 7001(b)(3) of Pub. L. 101–508 provided that: “The amendments made by
 
 #### Effective Date of 1988 Amendments
 
-Amendment by Pub. L. 100–659 effective Nov. 15, 1988, and applicable to bankruptcy judges and magistrates \[now United States magistrate judges\] who retire on or after Nov. 15, 1988, with exception for judges and magistrates retiring on or after July 31, 1987, see section 9 of Pub. L. 100–659, set out as an Effective Date note under section 377 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 100–659 effective Nov. 15, 1988, and applicable to bankruptcy judges and magistrate judges who retire on or after Nov. 15, 1988, with exception for judges and magistrate judges retiring on or after July 31, 1987, see section 9 of Pub. L. 100–659, as amended, set out as an Effective Date note under section 377 of Title 28, Judiciary and Judicial Procedure.
 
 Section 108(b)(3) of Pub. L. 100–238 provided that: “The amendments made by this subsection \[amending this section and section 8349 of this title\] shall be effective as of January 1, 1987.”
 
@@ -544,7 +547,7 @@ Amendment by Pub. L. 95–382 effective Oct 1, 1978, and applicable to specified
 
 #### Effective Date of 1975 Amendment
 
-Section 3 of Pub. L. 94–126 provided that: “The amendments made by the first section of this Act \[amending this section and sections 8339 and 8345 of this title\] shall become effective as of January 1, 1969, except that such amendments shall not apply to a person who, on the date of enactment of this Act \[Nov. 12, 1975\], is receiving or is entitled to receive benefits under any retirement system established by the United States or any instrumentality thereof, unless such person requests, in writing, the office which administers his retirement system to apply such amendments to him. Any additional benefits payable pursuant to such a written request shall commence on the first day of the month \[December\] following the date of the enactment of this Act.”
+Section 3 of Pub. L. 94–126 provided that: “The amendments made by the first section of this Act \[amending this section and sections 8339 and 8345 of this title\] shall become effective as of January 1, 1969, except that such amendments shall not apply to a personwho, on the date of enactment of this Act \[Nov. 12, 1975\], is receiving or is entitled to receive benefits under any retirement system established by the United States or any instrumentality thereof, unless such person requests, in writing, the office which administers his retirement system to apply such amendments to him. Any additional benefits payable pursuant to such a written request shall commence on the first day of the month \[December\] following the date of the enactment of this Act.”
 
 #### Effective Date of 1974 Amendment
 
@@ -564,11 +567,19 @@ Amendment by Pub. L. 91–93 inapplicable in cases of persons retired or otherwi
 
 Amendment by Pub. L. 90–486 effective Jan. 1, 1969, except that no deductions or withholding from salary which result therefrom shall commence before first day of first pay period that begins on or after Jan. 1, 1968, see section 11 of Pub. L. 90–486, set out as a note under section 709 of Title 32, National Guard.
 
-#### Contributions to Civil Service Retirement and Disability Fund on Behalf of Nuclear Materials Couriers
+#### Contributions to Federal Civil Service Retirement System
+
+Pub. L. 106–346, §101(a) \[title V, §505(f)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–54, provided that: “Notwithstanding section 8334(a)(1) or (k)(1) of title 5, United States Code, during the period beginning on October 1, 2002, through December 31, 2002, each employing agency (other than the United States Postal Service or the Metropolitan Washington Airports Authority) shall contribute—
+
+&emsp;“(1) 7.5 percent of the basic pay of an employee;
+
+&emsp;“(2) 8 percent of the basic pay of a congressional employee, a law enforcement officer, a member of the Capitol Police, a firefighter, or a nuclear materials courier; and
+
+&emsp;“(3) 8.5 percent of the basic pay of a Member of Congress, a Court of Federal Claims judge, a United States magistrate \[now United States magistrate judge\], a judge of the United States Court of Appeals for the Armed Forces, or a bankruptcy judge,
+
+> in lieu of the agency contributions otherwise required under section 8334(a)(1) of such title 5.”
 
 Pub. L. 105–261, div. C, title XXXI, §3154(c)(3), Oct. 17, 1998, 112 Stat. 2255, provided that: “Notwithstanding subsection (a)(1) or (k)(1) of section 8334 of title 5, United States Code, or section 7001(a) of Public Law 105–33 \[set out as a note below\], during the period beginning on the effective date provided for under subsection (n)(1) \[set out as an Effective Date of 1998 Amendment note under section 8331 of this title\] and ending on September 30, 2002, the Department of Energy shall deposit in the Treasury of the United States to the credit of the Civil Service Retirement and Disability Fund on behalf of each nuclear materials courier from whose basic pay a deduction is made under such subsection (a)(1) during that period an amount equal to 9.01 percent of such basic pay, in lieu of the agency contributions otherwise required under such subsection (a)(1) during that period.”
-
-#### Increased Contributions to Federal Civilian Retirement Systems
 
 Section 7001(a)(1), (2) of Pub. L. 105–33 provided that:
 
@@ -584,7 +595,7 @@ In general.—Notwithstanding section 8334(a)(1) or (k)(1) of title 5, United St
 
 &emsp;&emsp;“(ii) 9.01 percent of the basic pay of a congressional employee, a law enforcement officer, a member of the Capitol police, or a firefighter; and
 
-&emsp;&emsp;“(iii) 9.51 percent of the basic pay of a Member of Congress, a Court of Federal Claims judge, a United States magistrate, a judge of the United States Court of Appeals for the Armed Forces, or a bankruptcy judge;
+&emsp;&emsp;“(iii) 9.51 percent of the basic pay of a Member of Congress, a Court of Federal Claims judge, a United States magistrate \[now United States magistrate judge\], a judge of the United States Court of Appeals for the Armed Forces, or a bankruptcy judge;
 
 > &emsp;in lieu of the agency contributions otherwise required under section 8334(a)(1) of title 5, United States Code.
 
@@ -646,15 +657,11 @@ Interest Computation.—A refund under this section shall be computed with inter
 
 Amendment by Pub. L. 90–486 not applicable to persons employed prior to Jan. 1, 1969, whose employment was covered by the civil service retirement provisions of section 8331 et seq. of this title, see section 5(d) of Pub. L. 90–486, set out as a note under section 709 of Title 32, National Guard.
 
-#### Cross References
-
-Civil Service Retirement and Disability Fund as trust fund, see section 1321 of Title 31, Money and Finance.
-
-Contributions by Postal Service, see section 1005 of Title 39, Postal Service.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 8331, 8332, 8333, 8339, 8342, 8344, 8348, 8411, 8422, 8432 of this title; title 10 sections 942, 945; title 12 section 1723a; title 22 sections 3671, 3681, 3968, 4045; title 26 section 3121; title 28 sections 611, 627; title 40 section 881; title 42 sections 410, 2297h–8; title 45 section 1206; title 50 sections 2021, 2031, 2082, 2121.
 
-<i><sup>1</sup></i><i> So in original.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “United States magistrate judge,”.</i>
+
+<i><sup>2</sup></i><i> So in original.</i>
 

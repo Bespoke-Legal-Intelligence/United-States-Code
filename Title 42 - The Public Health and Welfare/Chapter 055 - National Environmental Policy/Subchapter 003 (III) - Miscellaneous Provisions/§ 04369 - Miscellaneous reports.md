@@ -6,7 +6,7 @@ All reports to or by the Administrator relevant to the Agency's program of resea
 
 #### (b) Transmittal of jurisdictional information
 
-The Administrator shall keep the Committee on Science, Space, and Technology of the Houseof Representatives and the Committee on Environment and Public Works of the Senate fully and currently informed with respect to matters falling within or related to the jurisdiction of the committees.
+The Administrator shall keep the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Environment and Public Works of the Senate fully and currently informed with respect to matters falling within or related to the jurisdiction of the committees.
 
 #### (c) Comment by Government agencies and the public
 

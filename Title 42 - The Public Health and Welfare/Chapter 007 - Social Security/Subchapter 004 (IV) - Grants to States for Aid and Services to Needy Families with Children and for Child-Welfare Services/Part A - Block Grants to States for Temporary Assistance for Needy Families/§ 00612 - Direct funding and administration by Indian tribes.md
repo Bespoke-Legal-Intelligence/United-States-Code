@@ -36,7 +36,7 @@
 
 #### (C) Use of grant
 
-&emsp;&emsp;Each Indian tribe to which a grant is made under this paragraph shall use the grant for the purpose of operating a program to make work activities available to such population and such service area or areas as the tribe specifies.
+&emsp;&emsp;Each Indian tribe to which a grant is made under this paragraph shall use the grant forthe purpose of operating a program to make work activities available to such population and such service area or areas as the tribe specifies.
 
 #### (D) Appropriation
 
@@ -46,7 +46,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary of Labor shall award a grant in accordance with this paragraph to an Indian tribe for each fiscal year specified in section 603(a)(5)(I) of this title for which the Indian tribe is a welfare-to-work tribe, in such amount as the Secretary of Labor deems appropriate, subject to subparagraph (B) of this paragraph.
+&emsp;&emsp;The Secretary of Labor shall award a grant in accordance with this paragraph to an Indian tribe for each fiscal year specified in section 603(a)(5)(H) of this title for which the Indian tribe is a welfare-to-work tribe, in such amount as the Secretary of Labor deems appropriate, subject to subparagraph (B) of this paragraph.
 
 #### (B) Welfare-to-work tribe
 
@@ -56,7 +56,7 @@
 
 &emsp;&emsp;&emsp;(ii) The Indian tribe is operating a program under a tribal family assistance plan approved by the Secretary of Health and Human Services, a program described in paragraph (2)(C), or an employment program funded through other sources under which substantial services are provided to recipients of assistance under a program funded under this part.
 
-&emsp;&emsp;&emsp;(iii) The Indian tribe has provided the Secretary of Labor with an estimate of theamount that the Indian tribe intends to expend during the fiscal year (excluding tribal expenditures described in section 609(a)(7)(B)(iv) (other than subclause (III) thereof) of this title) pursuant to this paragraph.
+&emsp;&emsp;&emsp;(iii) The Indian tribe has provided the Secretary of Labor with an estimate of the amount that the Indian tribe intends to expend during the fiscal year (excluding tribal expenditures described in section 609(a)(7)(B)(iv) (other than subclause (III) thereof) of this title) pursuant to this paragraph.
 
 &emsp;&emsp;&emsp;(iv) The Indian tribe has agreed to negotiate in good faith with the Secretary of Health and Human Services with respect to the substance and funding of any evaluation under section 613(j) of this title, and to cooperate with the conduct of any such evaluation.
 
@@ -140,13 +140,13 @@ Section 611 of this title shall apply to an Indian tribe with an approved tribal
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of this section, and except as provided in paragraph\(2), an Indian tribe in the State of Alaska that receives a tribal family assistance grant under this section shall use the grant to operate a program in accordance with requirements comparable to the requirements applicable to the program of the State of Alaska funded under this part. Comparability of programs shall be established on the basis of program criteria developed by the Secretary in consultation with the State of Alaska and such Indian tribes.
+&emsp;Notwithstanding any other provision of this section, and except as provided in paragraph (2), an Indian tribe in the State of Alaska that receives a tribal family assistance grant under this section shall use the grant to operate a program in accordance with requirements comparable to the requirements applicable to the program of the State of Alaska funded under this part. Comparability of programs shall be established on the basis of program criteria developed by the Secretary in consultation with the State of Alaska and such Indian tribes.
 
 #### (2) Waiver
 
 &emsp;An Indian tribe described in paragraph (1) may apply to the appropriate State authority to receive a waiver of the requirement of paragraph (1).
 
-(Aug. 14, 1935, ch. 531, title IV, §412, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2150; amended Pub. L. 105–33, title V, §§5001(c), 5508, 5514(c), Aug. 5, 1997, 111 Stat. 589, 617, 620; Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §801(b)(2)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–283.)
+(Aug. 14, 1935, ch. 531, title IV, §412, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2150; amended Pub. L. 105–33, title V, §§5001(c), 5508, 5514(c), Aug. 5, 1997, 111 Stat. 589, 617, 620; Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §801(b)(2)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–283; Pub. L. 106–554, §1(a)(1) \[title I, §107(b)(5)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–12.)
 
 #### References in Text
 
@@ -161,6 +161,8 @@ The Indian Self-Determination and Education Assistance Act, referred to in subse
 A prior section 612, act Aug. 14, 1935, ch. 531, title IV, §412, as added June 17, 1980, Pub. L. 96–272, title III, §303, 94 Stat. 528; amended Aug. 13, 1981, Pub. L. 97–35, title XXIII, §2306(b), 95 Stat. 846; Sept. 3, 1982, Pub. L. 97–248, title I, §155(a), 96 Stat. 397, related to prorating shelter allowance for AFDC family living with another household, prior to repeal by Pub. L. 104–193, §103(a)(1), as amended by Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620.
 
 #### Amendments
+
+2000—Subsec. (a)(3)(A). Pub. L. 106–554 substituted “603(a)(5)(H)” for “603(a)(5)(I)”.
 
 1999—Subsec. (a)(3)(C)(ii). Pub. L. 106–113 substituted “clause (viii)” for “clause (vii)”.
 
@@ -181,6 +183,10 @@ Subsec. (f). Pub. L. 105–33, §5508(f), added subsec. (f). Former subsec. (f) 
 Subsec. (f)(1). Pub. L. 105–33, §5508(e), substituted “(b), and (c)” for “and (b)”.
 
 Subsecs. (g) to (i). Pub. L. 105–33, §5508(f), redesignated subsecs. (f) to (h) as (g) to (i), respectively.
+
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–554 effective Oct. 1, 2000, see section 1(a)(1) \[title I, §107(d)\] of Pub. L. 106–554, set out as a note under section 603 of this title.
 
 #### Effective Date of 1999 Amendment
 

@@ -58,7 +58,7 @@ Section 1(a) of Pub. L. 104–235 provided that: “This Act \[enacting sections
 
 #### Short Title of 1994 Amendment
 
-For short title of subpart 1 of part E of title V of Pub. L. 103–381, which enacted section 5115a of this title, as the “Howard M. Metzenbaum Multiethnic Placement Act of 1994”, see section 551 of Pub. L. 103–382, set out as a Short Title note under section 5115a of this title.
+For short title of subpart 1 of part E of title V of Pub. L. 103–381, which enacted section 5115a of this title, as the “Howard M. Metzenbaum Multiethnic Placement Act of 1994”, see section 551 of Pub. L. 103–382, set out as a note under section 1305 of this title.
 
 #### Short Title of 1993 Amendment
 

@@ -38,25 +38,27 @@ In this chapter—
 
 &emsp;&emsp;(B) a suborbital rocket.
 
-&emsp;(8) “payload” means an object that a person undertakes to place in outer space by means of a launch vehicle or reentry vehicle, including components of the vehicle specifically designed or adapted for that object.
+&emsp;(8) “obtrusive space advertising” means advertising in outer space that is capable of being recognized by a human being on the surface of the Earth without the aid of a telescope or other technological device.
 
-&emsp;(9) “person” means an individual and an entity organized or existing under the laws of a State or country.
+&emsp;(9) “payload” means an object that a person undertakes to place in outer space by means of a launch vehicle or reentry vehicle, including components of the vehicle specifically designed or adapted for that object.
 
-&emsp;(10) “reenter” and “reentry” mean to return or attempt to return, purposefully, a reentry vehicle and its payload, if any, from Earth orbit or from outer space to Earth.
+&emsp;(10) “person” means an individual and an entity organized or existing under the laws of a State or country.
 
-&emsp;(11) “reentry services” means—
+&emsp;(11) “reenter” and “reentry” mean to return or attempt to return, purposefully, a reentry vehicle and its payload, if any, from Earth orbit or from outer space to Earth.
+
+&emsp;(12) “reentry services” means—
 
 &emsp;&emsp;(A) activities involved in the preparation of a reentry vehicle and its payload, if any, for reentry; and
 
 &emsp;&emsp;(B) the conduct of a reentry.
 
-&emsp;(12) “reentry site” means the location on Earth to which a reentry vehicle is intended to return (as defined in a license the Secretary issues or transfers under this chapter).
+&emsp;(13) “reentry site” means the location on Earth to which a reentry vehicle is intended to return (as defined in a license the Secretary issues or transfers under this chapter).
 
-&emsp;(13) “reentry vehicle” means a vehicle designed to return from Earth orbit or outer space to Earth, or a reusable launch vehicle designed to return from Earth orbit or outer space to Earth, substantially intact.
+&emsp;(14) “reentry vehicle” means a vehicle designed to return from Earth orbit or outer space to Earth, or a reusable launch vehicle designed to return from Earth orbit or outer space to Earth, substantially intact.
 
-&emsp;(14) “State” means a State of the United States, the District of Columbia, and a territory or possession of the United States.
+&emsp;(15) “State” means a State of the United States, the District of Columbia, and a territory or possession of the United States.
 
-&emsp;(15) “third party” means a person except—
+&emsp;(16) “third party” means a person except—
 
 &emsp;&emsp;(A) the United States Government or the Government's contractors or subcontractors involved in launch services or reentry services;
 
@@ -66,9 +68,9 @@ In this chapter—
 
 &emsp;&emsp;(D) the customer's contractors or subcontractors involved in launch services or reentry services.
 
-&emsp;(16) “United States” means the States of the United States, the District of Columbia, and the territories and possessions of the United States.
+&emsp;(17) “United States” means the States of the United States, the District of Columbia, and the territories and possessions of the United States.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1331; Pub. L. 104–287, §5(92), Oct. 11, 1996, 110 Stat. 3398; Pub. L. 105–303, title I, §102(a)(3), Oct. 28, 1998, 112 Stat. 2846.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1331; Pub. L. 104–287, §5(92), Oct. 11, 1996, 110 Stat. 3398; Pub. L. 105–303, title I, §102(a)(3), Oct. 28, 1998, 112 Stat. 2846; Pub. L. 106–391, title III, §322(a), Oct. 30, 2000, 114 Stat. 1598.)
 
 Historical and Revision Notes
 
@@ -133,6 +135,8 @@ In clause (11), before subclause (A), the words “or entity” are omitted as s
 This amends 49:70102(6) to correct an error in the codification enacted by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 1331).
 
 #### Amendments
+
+2000—Pars. (8) to (17). Pub. L. 106–391 added par. (8) and redesignated former pars. (8) to (16) as (9) to (17), respectively.
 
 1998—Par. (3). Pub. L. 105–303, §102(a)(3)(A), substituted “or reentry vehicle and any payload from Earth” for “and any payload” in introductory provisions and a comma for the period at end of subpar. (C) and inserted concluding provisions.
 

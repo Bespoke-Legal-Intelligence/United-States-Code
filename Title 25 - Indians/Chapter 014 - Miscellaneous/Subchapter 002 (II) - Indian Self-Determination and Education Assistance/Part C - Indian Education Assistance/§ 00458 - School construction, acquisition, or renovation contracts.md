@@ -2,7 +2,7 @@
 
 #### (a) Authorization; prerequisites
 
-The Secretary is authorized to enter into a contract or contracts with any State education agency or school district for the purpose of assisting such agency or district in the acquisitionof sites for, or the construction, acquisition, or renovation of facilities (including all necessary equipment) in school districts on or adjacent to or in close proximity to any Indian reservation or other lands held in trust by the United States for Indians, if such facilities are necessary for the education of Indians residing on any such reservation or lands.
+The Secretary is authorized to enter into a contract or contracts with any State education agency or school district for the purpose of assisting such agency or district in the acquisition of sites for, or the construction, acquisition, or renovation of facilities (including all necessary equipment) in school districts on or adjacent to or in close proximity to any Indian reservation or other lands held in trust by the United States for Indians, if such facilities are necessary for the education of Indians residing on any such reservation or lands.
 
 #### (b) Eligibility requirements for assistance in federally-affected areas; applicability to projects in determining maximum amount, allocation, of funds, etc.
 
@@ -26,7 +26,7 @@ The Secretary shall consult with the entity designated pursuant to section 456 o
 
 #### (f) Evaluation and report to Congress of effectiveness of construction, etc., programs; scope and content of report
 
-Within ninety days following the expiration of the three year period following January 4, 1975, the Secretary shall evaluate the effectiveness of the program pursuant to this section and transmit a report of such evaluation to the Congress. Such report shall include—
+Within ninety days following the expiration of the three year period following January 4, 1975,the Secretary shall evaluate the effectiveness of the program pursuant to this section and transmit a report of such evaluation to the Congress. Such report shall include—
 
 &emsp;(1) an analysis of construction costs and the impact on such costs of the provisions of subsection (f) of this section and the Act of March 3, 1921 (46 Stat. 1491), as amended \[40 U.S.C. 276a et seq\];
 

@@ -6,7 +6,7 @@
 
 &emsp;(2) resolve questions of common interest to those States and local governments before making application.
 
-(b) Subject to regulations prescribed under subsection (a) of this section and other law, thehead of an executive agency may do the following by an order of the agency head or by agreement with another executive agency:
+(b) Subject to regulations prescribed under subsection (a) of this section and other law, the head of an executive agency may do the following by an order of the agency head or by agreement with another executive agency:
 
 &emsp;(1) identify related programs likely to be particularly suitable in providing joint financing for specific kinds of projects.
 
@@ -80,7 +80,7 @@ Section 1. There are hereby transferred to the Director of the Office of Managem
 
 Sec. 2. The Director of the Office of Management and Budget shall continue to perform policy formulation and general oversight functions with regard to the other transfers made by Executive Order No. 11717 and Executive Order No. 11867. No function vested by statute in the Administrator shall be deemed to be affected by the provisions of this order.
 
-Sec. 3. So much of the personnel, property and records attendant to the functions transferred by this order as the Director of the Office of Management and Budget shall determine, shall be transferred to the Office of Management and Budget, at such times as the Director shall specify.
+Sec. 3. So much of the personnel, property and records attendant to the functions transferred by thisorder as the Director of the Office of Management and Budget shall determine, shall be transferred to the Office of Management and Budget, at such times as the Director shall specify.
 
 Sec. 4. Executive Order No. 11717 of May 9, 1973, and Executive Order No. 11867 of June 19, 1975, are hereby superseded to the extent that they are inconsistent with this order. Any circulars, directives, or regulations issued pursuant to functions transferred by this order shall remain in effect until modified or rescinded by the Office of Management and Budget.
 

@@ -26,11 +26,23 @@ A funding agreement for a grant under section 300x–21 of this title is that th
 
 &emsp;Any waiver provided by the Secretary under paragraph (1) shall be applicable only to the fiscal year involved.
 
-(July 1, 1944, ch. 373, title XIX, §1928, as added Pub. L. 102–321, title II, §202, July 10, 1992, 106 Stat. 396.)
+(July 1, 1944, ch. 373, title XIX, §1928, as added Pub. L. 102–321, title II, §202, July 10, 1992, 106 Stat. 396; amended Pub. L. 106–310, div. B, title XXXIII, §3303(f)(2)(B), Oct. 17, 2000, 114 Stat. 1211.)
+
+#### Repeal of Subsection (d)
+
+<i>Pub. L. 106–310, div. B, title XXXIII, §3303(f)(2), Oct. 17, 2000, 114 Stat. 1211, provided that, effective upon publication of regulations developed in accordance with section 300x–32(e)(1) of this title, subsection (d) of this section is repealed.</i>
 
 #### Prior Provisions
 
 A prior section 1928 of act July 1, 1944, was classified to section 300y–7 of this title prior to repeal by Pub. L. 99–280.
+
+#### Effective Date of 2000 Amendment
+
+Pub. L. 106–310, div. B, title XXXIII, §3303(f)(2), Oct. 17, 2000, 114 Stat. 1211, provided that the amendment made by section 3303(f)(2) is effective upon the publication of the regulations developed in accordance with section 300x–32(e)(1) of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 300x–32 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “activities”.</i>
 

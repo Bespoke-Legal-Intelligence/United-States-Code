@@ -12,7 +12,7 @@ There shall be, in the Department, an Office of Bilingual Education and Minority
 
 #### (2) Organization
 
-&emsp;The Office shall be organized as the Director determines to be appropriate in order to carry out such functions and responsibilities effectively.
+&emsp;The Office shall be organized as the Director determines to be appropriate in order to carryout such functions and responsibilities effectively.
 
 #### (3) Inclusion
 
@@ -23,8 +23,4 @@ There shall be, in the Department, an Office of Bilingual Education and Minority
 #### Codification
 
 Another section 216 of Pub. L. 96–88 was enacted by Pub. L. 103–227 and is classified to section 3425 of this title.
-
-#### Cross References
-
-For similar provisions relating to Office of Bilingual Education and Minority Languages Affairs, see section 3420 of this title.
 

@@ -42,7 +42,7 @@
 
 (f) Agencies affected by legal process under this section shall not be required to vary their normal pay and disbursement cycles in order to comply with any such legal process.
 
-(g) Neither the United States, an agency, nor any disbursing officer shall be liable with respect to any payment made from payments due or payable to an employee pursuant to legalprocess regular on its face, provided such payment is made in accordance with this section and the regulations issued to carry out this section. In determining the amount of any payment due from, or payable by, an agency to an employee, there shall be excluded those amounts which would be excluded under section 462(g) of the Social Security Act (42 U.S.C. 662(g)).
+(g) Neither the United States, an agency, nor any disbursing officer shall be liable with respect to any payment made from payments due or payable to an employee pursuant to legal process regular on its face, provided such payment is made in accordance with this section and the regulations issued to carry out this section. In determining the amount of any payment due from, or payable by, an agency to an employee, there shall be excluded those amounts which would be excluded under section 462(g) of the Social Security Act (42 U.S.C. 662(g)).
 
 (h)(1) Subject to the provisions of paragraph (2), if an agency is served under this section with more than one legal process with respect to the same payments due or payable to an employee, then such payments shall be available, subject to section 303 of the Consumer Credit Protection Act (15 U.S.C. 1673), to satisfy such processes in priority based on the time of service, with any such process being satisfied out of such amounts as remain after satisfaction of all such processes which have been previously served.
 
@@ -82,7 +82,7 @@ The Soldiers’ and Sailors’ Relief Act of 1940, referred to in subsec. (k)(2)
 
 1997—Subsec. (j)(2). Pub. L. 105–85, §1105(1), added par. (2) and struck out former par. (2) which read as follows: “Such regulations shall provide that an agency's administrative costs incurred in executing legal process to which the agency is subject under this section shall be deducted from the amount withheld from the pay of the employee concerned pursuant to the legal process.”
 
-Subsec. (k)(3), (4). Pub. L. 105–85, §1105(2), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “Regulations under this subsection may also provide that the administrative costs incurred in establishing and maintaining an involuntary allotment be deducted from the amount withheld from the pay of the member of the uniformed services concerned pursuant to such regulations.”
+Subsec. (k)(3), (4). Pub. L. 105–85, §1105(2), redesignated par. (4) as (3) and struck out former par. (3) whichread as follows: “Regulations under this subsection may also provide that the administrative costs incurred in establishing and maintaining an involuntary allotment be deducted from the amount withheld from the pay of the member of the uniformed services concerned pursuant to such regulations.”
 
 Subsec. (<i>l</i>). Pub. L. 105–85, §1105(3), struck out subsec. (<i>l</i>) which read as follows: “The amount of an agency's administrative costs deducted under regulations prescribed pursuant to subsection (j)(2) or (k)(3) shall be credited to the appropriation, fund, or account from which such administrative costs were paid.”
 

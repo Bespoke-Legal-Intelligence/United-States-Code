@@ -16,11 +16,11 @@ For each fiscal year, the Secretary shall (to the extent amounts are made availa
 
 #### (2) Waiver
 
-&emsp;The Secretary may waive the applicability of the requirements under paragraph (1), in whole or in part, if the Secretary finds that an Indian tribe has not complied or cannot comply with such requirements due to circumstances beyond the control of the tribe.
+&emsp;The Secretary may waive the applicability of the requirements under paragraph (1), in whole or in part, for a period of not more than 90 days, if the Secretary determines that an Indian tribe has not complied with, or is unable to comply with, those requirements due to exigent circumstances beyond the control of the Indian tribe.
 
 #### (c) Local cooperation agreement
 
-Notwithstanding any other provision of this chapter, grant amounts provided under this chapter on behalf of an Indian tribe may not be used for rental or lease-purchase homeownership units that are owned by the recipient for the tribe unless the governing body of the locality within which the property subject to the development activities to be assisted with the grant amounts is or will be situated has entered into an agreement with the recipient for the tribe providing for local cooperation required by the Secretary pursuant to this chapter.
+Notwithstanding any other provision of this chapter, grant amounts provided under this chapter on behalf of an Indian tribe may not be used for rental or lease-purchase homeownership units that are owned by the recipient for the tribe unless the governing body of the locality within which the property subject to the development activities to be assisted with the grant amounts is or will be situated has entered into an agreement with the recipient for the tribe providing for local cooperation required by the Secretary pursuant to this chapter. The Secretary may waive the requirements of this subsection and subsection (d) of this section if the recipient has made a good faith effort to fulfill the requirements of this subsection and subsection (d) of this section and agrees to make payments in lieu of taxes to the appropriate taxing authority in an amount consistent with the requirements of subsection (d)(2) of this section until such time as the matter of making such payments has been resolved in accordance with subsection (d) of this section.
 
 #### (d) Exemption from taxation
 
@@ -60,15 +60,19 @@ The Secretary shall, by regulation, authorize each recipient to use a percentage
 
 Each recipient shall make all reasonable efforts, consistent with the purposes of this chapter, to maximize participation by the private sector, including nonprofit organizations and for-profit entities, in implementing the approved Indian housing plan.
 
-(Pub. L. 104–330, title I, §101, Oct. 26, 1996, 110 Stat. 4022; Pub. L. 105–276, title V, §595(e)(3), (4), Oct. 21, 1998, 112 Stat. 2656, 2657.)
+(Pub. L. 104–330, title I, §101, Oct. 26, 1996, 110 Stat. 4022; Pub. L. 105–276, title V, §595(e)(3), (4), Oct. 21, 1998, 112 Stat. 2656, 2657; Pub. L. 106–568, title X, §1003(a), Dec. 27, 2000, 114 Stat. 2925; Pub. L. 106–569, title V, §503(a), Dec. 27, 2000, 114 Stat. 2961.)
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, known as the Native American Housing Assistance and Self-Determination Act of 1996. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, as amended, known as the Native American Housing Assistance and Self-Determination Act of 1996. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
 
 The United States Housing Act of 1937, referred to in subsec. (d), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
 
 #### Amendments
+
+2000—Subsec. (b)(2). Pub. L. 106–568, §1003(a)(1), and Pub. L. 106–569, §503(a)(1), amended par. (2) identically, substituting “for a period of not more than 90 days, if the Secretary determines that an Indian tribe has not complied with, or is unable to comply with, those requirements due to exigent circumstances beyond the control of the Indian tribe.” for “if the Secretary finds that an Indian tribe has not complied or cannot comply with such requirements due to circumstances beyond the control of the tribe.”
+
+Subsec. (c). Pub. L. 106–568, §1003(a)(2), and Pub. L. 106–569, §503(a)(2), amended subsec. (c) identically, inserting at end “The Secretary may waive the requirements of this subsection and subsection (d) of this section if the recipient has made a good faith effort to fulfill the requirements of this subsection and subsection (d) of this section and agrees to make payments in lieu of taxes to the appropriate taxing authority in an amount consistent with the requirements of subsection (d)(2) of this section until such time as the matter of making such payments has been resolved in accordance with subsection (d) of this section.”
 
 1998—Subsec. (c). Pub. L. 105–276, §595(e)(3), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The Secretary may not make any grant under this chapter on behalf of an Indian tribe unless the governing body of the locality within which any affordable housing to be assisted with the grant amounts will be situated has entered into an agreement with the recipient for the tribe providing for local cooperation required by the Secretary pursuant to this chapter.”
 

@@ -43,6 +43,7 @@
 | [6723\.](Subchapter%20002%20%28II%29%20-%20Inspections/%C2%A7%2006723%20-%20Authority%20to%20conduct%20inspections.md) | Authority to conduct inspections. |
 | (a) | Prohibition. |
 | (b) | Authority. |
+| (c) | Exception. |
 | [6724\.](Subchapter%20002%20%28II%29%20-%20Inspections/%C2%A7%2006724%20-%20Procedures%20for%20inspections.md) | Procedures for inspections. |
 | (a) | Types of inspections. |
 | (b) | Notice. |

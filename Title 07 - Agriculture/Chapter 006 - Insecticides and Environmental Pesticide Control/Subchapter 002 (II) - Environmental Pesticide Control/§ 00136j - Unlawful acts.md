@@ -30,7 +30,7 @@
 
 &emsp;(C) to give a guaranty or undertaking provided for in subsection (b) of this section which is false in any particular, except that a person who receives and relies upon a guaranty authorized under subsection (b) of this section may give a guaranty to the same effect, which guaranty shall contain, in addition to the person's own name and address, the name and address of the person residing in the United States from whom the person received the guaranty or undertaking;
 
-&emsp;(D) to use for the person's own advantage or to reveal, other than to the Administrator, or officials or employees of the Environmental Protection Agency or other Federal executive agencies, or to the courts, or to physicians, pharmacists, and other qualified persons, needing such information for the performance of their duties, in accordance with such directions as the Administrator may prescribe, any information acquired by authority of this subchapter which is confidential under this subchapter;
+&emsp;(D) to use for the person's own advantage or to reveal, other than to the Administrator, or officials or employees of the EnvironmentalProtection Agency or other Federal executive agencies, or to the courts, or to physicians, pharmacists, and other qualified persons, needing such information for the performance of their duties, in accordance with such directions as the Administrator may prescribe, any information acquired by authority of this subchapter which is confidential under this subchapter;
 
 &emsp;(E) who is a registrant, wholesaler, dealer, retailer, or other distributor to advertise a product registered under this subchapter for restricted use without giving the classification of the product assigned to it under section 136a of this title;
 
@@ -102,7 +102,7 @@ Subsec. (b)(3). Pub. L. 102–237, §1006(b)(3)(O), substituted “the official 
 
 Subsec. (a)(1)(A). Pub. L. 100–532, §603(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “any pesticide which is not registered under section 136a of this title, except as provided by section 136d(a)(1) of this title;”.
 
-Subsec. (a)(2)(B). Pub. L. 100–532, §603(2)(A), added subpar. (B) and struck out former subpar. (B) whichread as follows: “to refuse to keep any records required pursuant to section 136f of this title, or to refuse to allow inspection of any records or establishment pursuant to section 136f or 136g of this title, or to refuse to allow an officer or employee of the Environmental Protection Agency to take a sample of any pesticide pursuant to section 136g of this title;”.
+Subsec. (a)(2)(B). Pub. L. 100–532, §603(2)(A), added subpar. (B) and struck out former subpar. (B) which read as follows: “to refuse to keep any records required pursuant to section 136f of this title, or to refuse to allow inspection of any records or establishment pursuant to section 136f or 136g of this title, or to refuse to allow an officer or employee of the Environmental Protection Agency to take a sample of any pesticide pursuant to section 136g of this title;”.
 
 Subsec. (a)(2)(F). Pub. L. 100–532, §§601(b)(2)(B), 801(g), substituted “to distribute or sell, or to make” for “to make” and “thereunder, It” for “thereunder: <i>Provided</i>, That it”.
 

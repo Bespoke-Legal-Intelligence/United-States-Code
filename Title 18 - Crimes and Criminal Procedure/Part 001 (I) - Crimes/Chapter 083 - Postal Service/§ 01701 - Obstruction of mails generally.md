@@ -18,10 +18,6 @@ The punishment provision is derived from said section 324 rather than from secti
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $100”.
 
-#### Cross References
-
-Temporary employees of the postal service or carriers with custody, see section 1008 of Title 39, Postal Service.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in title 39 section 1008.

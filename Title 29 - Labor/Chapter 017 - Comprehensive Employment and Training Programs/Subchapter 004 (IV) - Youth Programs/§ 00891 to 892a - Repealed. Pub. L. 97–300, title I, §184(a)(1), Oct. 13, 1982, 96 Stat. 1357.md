@@ -26,7 +26,3 @@ Section 892c, Pub. L. 93–203, title III, §328, as added Pub. L. 95–93, titl
 
 Section 892d, Pub. L. 93–203, title III, §329, as added Pub. L. 95–93, title II, §201, Aug. 5, 1977, 91 Stat. 635, related to reports to Congress.
 
-#### Effective Date of Repeal
-
-Section 184(a) of Pub. L. 97–300 provided that the repeal of these sections is effective Oct. 13, 1982.
-

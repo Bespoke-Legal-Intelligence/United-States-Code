@@ -2,7 +2,7 @@
 
 Subject to section 2343 of this title and subject to the availability of appropriations, the Secretary of Defense may—
 
-&emsp;(1) acquire from the Governments of North Atlantic Treaty Organization countries, from North Atlantic Treaty Organization subsidiary bodies, and from the United Nations Organization or any regional international organization of which the United States is a member logistic support, supplies, and services for elements of the armed forces deployed outside the United States; and
+&emsp;(1) acquire from the Governments of North Atlantic Treaty Organization countries, from North Atlantic Treaty Organization subsidiary bodies, and from the United Nations Organization or any regional international organization of which the United States is a memberlogistic support, supplies, and services for elements of the armed forces deployed outside the United States; and
 
 &emsp;(2) acquire from any government not a member of the North Atlantic Treaty Organization logistic support, supplies, and services for elements of the armed forces deployed (or to be deployed) outside the United States if that country—
 

@@ -10,9 +10,9 @@ The Federal Bureau of Investigation of the Department of Justice shall investiga
 
 #### (c) Violations of this chapter
 
-No action shall be brought against any individual or person for any violation under this chapter unless and until the Attorney General of the United States has advised the Commission with respect to such action and no such actionshall be commenced except by the Attorney General of the United States: <i>Provided, however</i>, That nothing in this subsection shall be construed as applying to administrative action taken by the Commission.
+No action shall be brought against any individual or person for any violation under this chapter unless and until the Attorney General of the United States has advised the Commission with respect to such action and no such action shall be commenced except by the Attorney General of the United States: <i>Provided, however</i>, That nothing in this subsection shall be construed as applying to administrative action taken by the Commission.
 
-(Aug. 1, 1946, ch. 724, title I, §221, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 958; amended Pub. L. 91–161, §5, Dec. 24, 1969, 83 Stat. 445; Pub. L. 101–647, title XII, §1211, Nov. 29, 1990, 104 Stat. 4833; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
+(Aug. 1, 1946, ch. 724, title I, §221, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 958; amended Pub.L. 91–161, §5, Dec. 24, 1969, 83 Stat. 445; Pub. L. 101–647, title XII, §1211, Nov. 29, 1990, 104 Stat. 4833; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 
 #### Amendments
 

@@ -48,7 +48,7 @@ Subsec. (b). Pub. L. 104–106, §312(b), redesignated subsec. (b) as section 24
 
 1994—Subsec. (a). Pub. L. 103–337, §332(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows:
 
-“(1) Except as provided in paragraph (2), the Secretary of a military department and, with respect to a Defense Agency, the Secretary of Defense, may not contract for the performance by non-Federal Government personnel of more than 40 percent of the depot-level maintenance workload for the military department or the Defense Agency.
+“(1) Except as provided in paragraph (2), the Secretary of a military department and, with respect to a Defense Agency, the Secretary of Defense, may notcontract for the performance by non-Federal Government personnel of more than 40 percent of the depot-level maintenance workload for the military department or the Defense Agency.
 
 “(2) The Secretary of the Army shall provide for the performance by employees of the Department of Defense of not less than the following percentages of Army aviation depot-level maintenance workload:
 

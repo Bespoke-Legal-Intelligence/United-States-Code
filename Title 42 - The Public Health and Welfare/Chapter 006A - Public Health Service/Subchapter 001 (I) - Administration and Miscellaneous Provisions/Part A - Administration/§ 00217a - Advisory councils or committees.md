@@ -16,7 +16,7 @@ Upon appointment of any such council or committee, the Secretary may delegate to
 
 #### References in Text
 
-The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (a), are classified to section 3301 et seq. of Title 5, Government Organization and Employees.
+The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (a), areclassified to section 3301 et seq. of Title 5, Government Organization and Employees.
 
 The General Schedule, referred to in subsec. (a), is set out under section 5332 of Title 5.
 

@@ -22,7 +22,7 @@
 
 #### (E) Cost effectiveness
 
-&emsp;&emsp;Criteria for the approval of a system under section 2025(g) of this title shall include the cost effectiveness of the proposed system. Onimplementation of the approved system, a State shall document the actual cost and benefits of the system.
+&emsp;&emsp;Criteria for the approval of a system under section 2025(g) of this title shall include the cost effectiveness of the proposed system. On implementation of the approved system, a State shall document the actual cost and benefits of the system.
 
 #### (2) Operational reviews
 

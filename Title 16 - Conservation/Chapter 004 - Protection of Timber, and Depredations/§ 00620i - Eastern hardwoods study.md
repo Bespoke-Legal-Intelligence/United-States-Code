@@ -2,7 +2,7 @@
 
 #### (a) Study
 
-The Secretary of Commerce, in conjunction with the Secretary of Agriculture and the Secretary of the Interior, shall conduct a study of the export from the United States, during the 2-year period beginning on January 1, 1991, of unprocessed hardwood timber harvested from Federal lands or public lands east of the 100th meridian. In order to carry out the provisions of this section—
+The Secretary of Commerce, in conjunction with the Secretary of Agriculture and the Secretary of the Interior, shall conduct a study ofthe export from the United States, during the 2-year period beginning on January 1, 1991, of unprocessed hardwood timber harvested from Federal lands or public lands east of the 100th meridian. In order to carry out the provisions of this section—
 
 &emsp;(1) the Secretary of Commerce shall require each person exporting such timber from the United States to declare, in addition to the information normally required in the Shipper's Export Declarations, the State in which the timber was grown and harvested; and
 

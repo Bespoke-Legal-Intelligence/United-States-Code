@@ -14,7 +14,7 @@ Upon the request of the Board, the Secretary of the Treasury may invest and rein
 
 #### (d) Reversion to Treasury of unexpended funds
 
-Funds not expended by the Board as of the date when it ceases to exist, in accordance with section 205d(d) of this title, shall revert to the Treasury of the United States as of such date.
+Funds not expended by the Board as of the date when it ceases to exist, in accordance withsection 205d(d) of this title, shall revert to the Treasury of the United States as of such date.
 
 (Pub. L. 94–168, §8, Dec. 23, 1975, 89 Stat. 1011.)
 

@@ -6,11 +6,11 @@
 
 (2) The interim consumer product safety standard established in paragraph (1) shall provide that any cellulose insulation which is produced or distributed for sale or use as a consumer product shall have a flame spread rating of 0 to 25, as such rating is set forth in the General Services Administration's specification for cellulose insulation, HH–I–515C.
 
-(3) During the period for which the interim consumer product safety standard established in subsection (a) of this section is in effect, in addition to complying with any labeling requirement established by the Commission under this chapter, each manufacturer or private labeler of cellulose insulation shall include the following statement on any container of such cellulose insulation: “ATTENTION: This material meets the applicable minimum Federal flammability standard. This standard is based upon laboratory tests only, which do not represent actual conditions which may occur in the home.” Such statement shall be located in a conspicuous place on such container and shall appear in conspicuous and legible type in contrast by typography, layout, and color with other printed matter on such container.
+(3) During the period for which the interim consumer product safety standard established in subsection (a) of this section is in effect, in addition to complying with any labeling requirement established by the Commission under thischapter, each manufacturer or private labeler of cellulose insulation shall include the following statement on any container of such cellulose insulation: “ATTENTION: This material meets the applicable minimum Federal flammability standard. This standard is based upon laboratory tests only, which do not represent actual conditions which may occur in the home.” Such statement shall be located in a conspicuous place on such container and shall appear in conspicuous and legible type in contrast by typography, layout, and color with other printed matter on such container.
 
 #### (b) Scope of judicial review
 
-Judicial review of the interim consumer product safety standard established in subsection (a) of this section, as such standard is in effect on and after the last day of the 60-day period specified in such subsection, shall be limited solely to the issue of whether any changes made by the Commission under paragraph (1) are technical, nonsubstantive changes. For purposes of such review, any change made by the Commission under paragraph (1) which requires that any test to determine the flame spread rating of cellulose insulation shall include a correction forvariations in test results caused by equipment used in the test shall be considered a technical, nonsubstantive change.
+Judicial review of the interim consumer product safety standard established in subsection (a) of this section, as such standard is in effect on and after the last day of the 60-day period specified in such subsection, shall be limited solely to the issue of whether any changes made by the Commission under paragraph (1) are technical, nonsubstantive changes. For purposes of such review, any change made by the Commission under paragraph (1) which requires that any test to determine the flame spread rating of cellulose insulation shall include a correction for variations in test results caused by equipment used in the test shall be considered a technical, nonsubstantive change.
 
 #### (c) Enforcement; violations; promulgation of final standard; procedures applicable to promulgation; revision of interim standard; procedures applicable to revision
 
@@ -80,7 +80,7 @@ There are authorized to be appropriated, for each of the fiscal years 1978, 1979
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Congressional Statement of Findings and Purpose
 

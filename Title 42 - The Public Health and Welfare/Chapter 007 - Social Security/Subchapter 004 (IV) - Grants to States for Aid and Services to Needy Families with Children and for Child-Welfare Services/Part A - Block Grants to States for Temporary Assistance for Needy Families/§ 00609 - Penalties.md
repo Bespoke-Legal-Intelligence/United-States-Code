@@ -56,7 +56,7 @@ Subject to this section:
 
 #### (5) Failure to comply with paternity establishment and child support enforcement requirements under part D
 
-&emsp;Notwithstanding any other provision of this chapter, if the Secretary determines that the State agency that administers a program funded under this part does not enforce the penalties requested by the agency administering part D of this subchapter against recipients of assistance under the State programwho fail to cooperate in establishing paternity or in establishing, modifying, or enforcing a child support order in accordance with such part and who do not qualify for any good cause or other exception established by the State under section 654(29) of this title, the Secretary shall reduce the grant payable to the State under section 603(a)(1) of this title for the immediately succeeding fiscal year (without regard to this section) by not more than 5 percent.
+&emsp;Notwithstanding any other provision of this chapter, if the Secretary determines that the State agency that administers a program funded under this part does not enforce the penalties requested by the agency administering part D of this subchapter against recipients of assistance under the State program who fail to cooperate in establishing paternity or in establishing, modifying, or enforcing a child support order in accordance with such part and who do not qualify for any good cause or other exception established by the State under section 654(29) of this title, the Secretary shall reduce the grant payable to the State under section 603(a)(1) of this title for the immediately succeeding fiscal year (without regard to this section) by not more than 5 percent.
 
 #### (6) Failure to timely repay a Federal Loan Fund for State Welfare Programs
 
@@ -116,7 +116,7 @@ Subject to this section:
 
 &emsp;&emsp;&emsp;&emsp;(II) the amount which bears the same ratio to the amount described in subclause (I) as—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the State family assistance grant, plus the total amount required to be paid to the State under former section 603 of this title for fiscal year1994 with respect to amounts expended by the State for child care under subsection (g) or (i) of section 602 of this title (as in effect during fiscal year 1994); bears to
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the State family assistance grant, plus the total amount required to be paid to the State under former section 603 of this title for fiscal year 1994 with respect to amounts expended by the State for child care under subsection (g) or (i) of section 602 of this title (as in effect during fiscal year 1994); bears to
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) the total amount required to be paid to the State under former section 603 of this title (as in effect during fiscal year 1994) for fiscal year 1994.
 
@@ -158,7 +158,7 @@ Subject to this section:
 
 &emsp;&emsp;&emsp;&emsp;(II) the data submitted by the State pursuant to section 654(15)(B) of this title is incomplete or unreliable;
 
-> &emsp;&emsp;the amounts otherwise payable to the State under this part for quarters following the end of such succeeding fiscal year, prior to quarters following the end of the first quarter throughout which the State program has achieved the paternity establishment percentages or other performance measures as described in subparagraph (A)(i)(I), or is in substantial compliance with 1 or more of the requirements of part D of this subchapter as described in subparagraph (A)(i)(III), as appropriate, shall be reduced by the percentage specified in subparagraph (B).
+> &emsp;&emsp;the amounts otherwise payable to the State under this part for quarters following the end of such succeeding fiscal year, prior to quarters following the end of the first quarter throughout which the State program hasachieved the paternity establishment percentages or other performance measures as described in subparagraph (A)(i)(I), or is in substantial compliance with 1 or more of the requirements of part D of this subchapter as described in subparagraph (A)(i)(III), as appropriate, shall be reduced by the percentage specified in subparagraph (B).
 
 #### (B) Amount of reductions
 
@@ -176,7 +176,7 @@ Subject to this section:
 
 &emsp;&emsp;&emsp;(i) to have failed to have substantially complied with 1 or more of the requirements of part D of this subchapter shall be determined to have achieved substantial compliance only if the Secretary determines that the extent of the noncompliance is of a technical nature which does not adversely affect the performance of the State's program under part D of this subchapter; or
 
-&emsp;&emsp;&emsp;(ii) to have submitted incomplete or unreliable data pursuant to section 654(15)(B) of this title shall be determined to have submitted adequate data only if the Secretary determines that the extent of the incompleteness or unreliability of the datais of a technical nature which does not adversely affect the determination of the level of the State's paternity establishment percentages (as defined under section 652(g)(2) of this title) or other performance measures that may be established by the Secretary.
+&emsp;&emsp;&emsp;(ii) to have submitted incomplete or unreliable data pursuant to section 654(15)(B) of this title shall be determined to have submitted adequate data only if the Secretary determines that the extent of the incompleteness or unreliability of the data is of a technical nature which does not adversely affect the determination of the level of the State's paternity establishment percentages (as defined under section 652(g)(2) of this title) or other performance measures that may be established by the Secretary.
 
 #### (9) Failure to comply with 5-year limit on assistance
 
@@ -234,7 +234,7 @@ Subject to this section:
 
 #### (A) Notification of violation
 
-&emsp;&emsp;Before imposing a penalty against a State under subsection (a) of this section with respect to a violation of this part, the Secretary shall notify the State of the violation and allow the State the opportunity to enterinto a corrective compliance plan in accordance with this subsection which outlines how the State will correct or discontinue, as appropriate, the violation and how the State will insure continuing compliance with this part.
+&emsp;&emsp;Before imposing a penalty against a State under subsection (a) of this section with respect to a violation of this part, the Secretary shall notify the State of the violation and allow the State the opportunity to enter into a corrective compliance plan in accordance with this subsection which outlines how the State will correct or discontinue, as appropriate, the violation and how the State will insure continuing compliance with this part.
 
 #### (B) 60-day period to propose a corrective compliance plan
 
@@ -302,7 +302,7 @@ Subsec. (a)(2)(A). Pub. L. 105–33, §5506(a), substituted “45 days” for �
 
 Subsec. (a)(3)(A). Pub. L. 105–33, §5506(n)(1), struck out “not more than” after “an amount equal to”.
 
-Subsec. (a)(3)(C). Pub. L. 105–33, §5506(n)(2), inserted before period at end “or if the noncompliance is due toextraordinary circumstances such as a natural disaster or regional recession. The Secretary shall provide a written report to Congress to justify any waiver or penalty reduction due to such extraordinary circumstances”.
+Subsec. (a)(3)(C). Pub. L. 105–33, §5506(n)(2), inserted before period at end “or if the noncompliance is due to extraordinary circumstances such as a natural disaster or regional recession. The Secretary shall provide a written report to Congress to justify any waiver or penalty reduction due to such extraordinary circumstances”.
 
 Subsec. (a)(7)(B)(i)(I)(aa). Pub. L. 105–33, §5506(b), inserted before period at end “, including any amount collected by the State as support pursuant to a plan approved under part D of this subchapter, on behalf of a family receiving assistance under the State program funded under this part, that is distributed to the family under section 657(a)(1)(B) of this title and disregarded in determining the eligibility of the family for, and the amount of, such assistance”.
 
@@ -374,7 +374,7 @@ Amendment by section 5514(c) of Pub. L. 105–33 effective as if included in the
 
 #### Effective Date
 
-Section effective July 1, 1997, with delayed effective date for subsec. (a)(2)–(5), (8), (10) of this section, and with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisionsrelating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as a note under section 601 of this title.
+Section effective July 1, 1997, with delayed effective date for subsec. (a)(2)–(5), (8), (10) of this section, and with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as a note under section 601 of this title.
 
 #### Section Referred to in Other Sections
 

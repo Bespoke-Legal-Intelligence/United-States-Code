@@ -30,9 +30,9 @@
 
 &emsp;(2) who died before attaining age 60 and at the time of his death would have been eligible for retired pay under chapter 1223 of this title (or under chapter 67 of this title as in effect before December 1, 1994) but for the fact that he was under 60 years of age;
 
-> may, upon request, be given the medical and dental care prescribed by section 1077 of thistitle in facilities of the uniformed services, subject to the availability of space and facilities and the capabilities of the medical and dental staff, except that a dependent of a member or former member described in paragraph (2) may not be given such medical or dental care until the date on which such member or former member would have attained age 60.
+> may, upon request, be given the medical and dental care prescribed by section 1077 of this title in facilities of the uniformed services, subject to the availability of space and facilities and the capabilities of the medical and dental staff, except that a dependent of a member or former member described in paragraph (2) may not be given such medical or dental care until the date on which such member or former member would have attained age 60.
 
-(c) A determination by the medical or dental officer in charge, or the contract surgeon in charge, or his designee, as to the availability of space and facilities and to the capabilities of the medical and dental staff is conclusive. Care under this section may not be permitted to interfere with the primary mission of those facilities.
+(c) A determination by the medical or dental officer in charge, or the contract surgeon incharge, or his designee, as to the availability of space and facilities and to the capabilities of the medical and dental staff is conclusive. Care under this section may not be permitted to interfere with the primary mission of those facilities.
 
 (d) To utilize more effectively the medical and dental facilities of the uniformed services, the administering Secretaries shall prescribe joint regulations to assure that dependents entitled to medical or dental care under this section will not be denied equal opportunity for that care because the facility concerned is that of a uniformed service other than that of the member.
 
@@ -54,7 +54,17 @@
 
 (B) A determination of whether an offense involved abuse of a dependent of the member shall be made in accordance with regulations prescribed by the administering Secretary for such uniformed service.
 
-(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1447; amended Pub. L. 89–614, §2(3), Sept. 30, 1966, 80 Stat. 862; Pub. L. 95–397, title III, §301, Sept. 30, 1978, 92 Stat. 849; Pub. L. 96–513, title V, §511(36), Dec. 12, 1980, 94 Stat. 2923; Pub. L. 97–252, title X, §1004(b), Sept. 8, 1982, 96 Stat. 737; Pub. L. 98–557, §19(5), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 99–145, title VI, §652(a), Nov. 8, 1985, 99 Stat. 656; Pub. L. 99–661, div. A, title VI, §§604(f)(1)(C), 652(c), Nov. 14, 1986, 100 Stat. 3877, 3889; Pub. L. 100–456, div. A, title VI, §651(a), Sept. 29, 1988, 102 Stat. 1990; Pub. L. 101–189, div. A, title VI, §653(a)(4), title VII, §731(c)(1), Nov. 29, 1989, 103 Stat. 1462, 1482; Pub. L. 103–337, div. A, title VII, §§704(a), (b), title XVI, §1671(c)(7)(A), Oct. 5, 1994, 108 Stat. 2798, 2799, 3014; Pub. L. 104–106, div. A, title VII, §703, title XV, §1501(c)(11), Feb. 10, 1996, 110 Stat. 372, 499; Pub. L. 105–85, div. A, title V, §513(b), title X, §1073(d)(1)(D), Nov. 18, 1997, 111 Stat. 1730, 1905; Pub. L. 105–261, div. A, title VII, §732, Oct. 17, 1998, 112 Stat. 2071; Pub. L. 106–65, div. A, title V, §578(i)(2), title VII, §705(c), Oct. 5, 1999, 113 Stat. 629, 684.)
+(f)(1) The administering Secretaries shall furnish an eligible dependent a physical examination that is required by a school in connection with the enrollment of the dependent as a student in that school.
+
+(2) A dependent is eligible for a physical examination under paragraph (1) if the dependent—
+
+&emsp;(A) is entitled to receive medical care under subsection (a) or is authorized to receive medical care under subsection (b); and
+
+&emsp;(B) is at least 5 years of age and less than 12 years of age.
+
+(3) Nothing in paragraph (2) may be construed to prohibit the furnishing of a school-required physical examination to any dependent who, except for not satisfying the age requirement under that paragraph, would otherwise be eligible for a physical examination required to be furnished under this subsection.
+
+(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1447; amended Pub. L. 89–614, §2(3), Sept. 30, 1966, 80 Stat. 862; Pub. L. 95–397, title III, §301, Sept. 30, 1978, 92 Stat. 849; Pub. L. 96–513, title V, §511(36), Dec. 12, 1980, 94 Stat. 2923; Pub. L. 97–252, title X, §1004(b), Sept. 8, 1982, 96 Stat. 737; Pub. L. 98–557, §19(5), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 99–145, title VI, §652(a), Nov. 8, 1985, 99 Stat. 656; Pub. L. 99–661, div. A, title VI, §§604(f)(1)(C), 652(c), Nov. 14, 1986, 100 Stat. 3877, 3889; Pub. L. 100–456, div. A, title VI, §651(a), Sept. 29, 1988, 102 Stat. 1990; Pub. L. 101–189, div. A, title VI, §653(a)(4), title VII, §731(c)(1), Nov. 29, 1989, 103 Stat. 1462, 1482; Pub. L. 103–337, div. A, title VII, §§704(a), (b), title XVI, §1671(c)(7)(A), Oct. 5, 1994, 108 Stat. 2798, 2799, 3014; Pub. L. 104–106, div. A, title VII, §703, title XV, §1501(c)(11), Feb. 10, 1996, 110 Stat. 372, 499; Pub. L. 105–85, div. A, title V, §513(b), title X, §1073(d)(1)(D), Nov. 18, 1997, 111 Stat. 1730, 1905; Pub. L. 105–261, div. A, title VII, §732, Oct. 17, 1998, 112 Stat. 2071; Pub. L. 106–65, div. A, title V, §578(i)(2), title VII, §705(c), Oct. 5, 1999, 113 Stat. 629, 684; Pub. L. 106–398, §1 \[\[div. A\], title VII, §703\], Oct. 30, 2000, 114 Stat. 1654, 1654A–174.)
 
 Historical and Revision Notes
 
@@ -113,6 +123,8 @@ Chapter 67 of this title as in effect before December 1, 1994, referred to in su
 A prior section 1076, act Aug. 10, 1956, ch. 1041, 70A Stat. 84, related to use of post cards, waiver of registration, and voting by discharged persons, prior to repeal by Pub. L. 85–861, §36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+2000—Subsec. (f). Pub. L. 106–398 added subsec. (f).
 
 1999—Subsec. (a)(2)(D). Pub. L. 106–65, §705(c), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “A member who incurred or aggravated an injury, illness, or disease in the line of duty while serving on active duty for a period of 30 days or less (or while traveling to or from the place of such duty) and the member's orders are modified or extended, while the member is being treated for (or recovering from) the injury, illness, or disease, so as to result in active duty for a period of more than 30 days. However, this subparagraph entitles the dependent to medical and dental care only while the member remains on active duty.”
 
@@ -174,7 +186,7 @@ Subsec. (e). Pub. L. 99–661, §652(c), added subsec. (e).
 
 1985—Subsec. (a). Pub. L. 99–145 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “A dependent of a member of a uniformed service who is on active duty for a period of more than 30 days, or of such a member who died while on that duty, is entitled, upon request, to the medical and dental care prescribed by section 1077 of this title in facilities of the uniformed services, subject to the availability of space and facilities and the capabilities of the medical and dental staff.”
 
-1984—Subsecs. (b), (d). Pub. L. 98–557 substituted reference to administering Secretaries for reference to Secretary of Defense and Secretary of Health and Human Services.
+1984—Subsecs. (b), (d). Pub. L. 98–557 substituted reference to administering Secretaries for reference toSecretary of Defense and Secretary of Health and Human Services.
 
 1982—Subsec. (b). Pub. L. 97–252 provided for medical and dental care, for a dependent described in section 1072(2)(F) of this title, pursuant to clause (2) without regard to subclause (B) of such clause.
 
@@ -256,7 +268,7 @@ Eligible Member Described.—A member of the Armed Forces referred to in subsect
 
 Health Care Described.—The health care referred to in subsection (a) is—
 
-&emsp;“(1) medical and dental care under section 1076 of title 10, United States Code, in the same manner as a dependent described in subsection (a)(2) of that section; and
+&emsp;“(1) medical and dental care under section 1076 of title 10, United States Code, in the same manner asa dependent described in subsection (a)(2) of that section; and
 
 &emsp;“(2) health benefits contracted under the authority of section 1079(a) of that title and subject to the same rates and conditions as apply to persons covered under that section.
 
@@ -270,5 +282,5 @@ Section 651(c) of Pub. L. 100–456 provided that: “Any person who qualified a
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1074b, 1077, 1078, 1079, 1080, 1086, 1086a, 1087, 1095a, 1097, 1097a, 1108, 1145 of this title; title 42 section 1395ggg.
+This section is referred to in sections 1074b, 1077, 1078, 1079, 1080, 1086, 1086a, 1087, 1095a, 1097, 1097a, 1108, 1111, 1145 of this title; title 42 section 1395ggg.
 

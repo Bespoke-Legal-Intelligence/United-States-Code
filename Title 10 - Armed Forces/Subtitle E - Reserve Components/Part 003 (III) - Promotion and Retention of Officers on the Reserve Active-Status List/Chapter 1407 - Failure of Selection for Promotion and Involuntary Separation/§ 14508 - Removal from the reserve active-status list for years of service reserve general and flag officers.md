@@ -36,10 +36,6 @@ Provisions similar to those in this section were contained in sections 3851, 385
 
 Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under section 113 of this title.
 
-#### Cross References
-
-Adjutants general and assistant adjutants general, reference as applicable to other officers of National Guard, see section 10214 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 10214, 14514, 14702 of this title.

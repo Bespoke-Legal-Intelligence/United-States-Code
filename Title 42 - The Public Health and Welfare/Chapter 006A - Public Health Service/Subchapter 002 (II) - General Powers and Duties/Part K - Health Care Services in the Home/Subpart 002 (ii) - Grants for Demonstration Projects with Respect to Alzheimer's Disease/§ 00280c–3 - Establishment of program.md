@@ -6,7 +6,7 @@ The Secretary shall make grants to States for the purpose of assisting grantees 
 
 &emsp;(1) to coordinate the development and operation with public and private organizations of diagnostic, treatment, care management, respite care, legal counseling, and education services provided within the State to individuals with Alzheimer's disease or related disorders and to the families and care providers of such individuals;
 
-&emsp;(2) to provide home health care, personal care, day care, companion services, short-term care in health facilities, and other respite care to individuals with Alzheimer's disease or related disorders who are living in single family homes or in congregate settings;
+&emsp;(2) to provide home health care, personal care, day care, companion services, short-termcare in health facilities, and other respite care to individuals with Alzheimer's disease or related disorders who are living in single family homes or in congregate settings;
 
 &emsp;(3) to improve the access of such individuals to home-based or community-based long-term care services (subject to the services being provided by entities that were providing such services in the State involved as of October 1, 1995), particularly such individuals who are members of racial or ethnic minority groups, who have limited proficiency in speaking the English language, or who live in rural areas; and
 
@@ -34,7 +34,7 @@ A State may not make payments from a grant under subsection (a) of this section 
 
 #### Prior Provisions
 
-A prior section 398 of act July 1, 1944, ch. 373, title III, formerly §399a, as added Oct. 22, 1965, Pub. L. 89–291, §2,79 Stat. 1066; renumbered §399, Mar. 13, 1970, Pub. L. 91–212, §10(c)(3), 84 Stat. 67; renumbered §398, July 23, 1974, Pub. L. 93–353, title II, §204, 88 Stat. 373, which related to the continuing availability of appropriated funds, was classified to section 280b–10 of this title, prior to repeal by Pub. L. 99–158, §3(b), Nov. 20, 1985, 99 Stat. 879.
+A prior section 398 of act July 1, 1944, ch. 373, title III, formerly §399a, as added Oct. 22, 1965, Pub. L. 89–291, §2, 79 Stat. 1066; renumbered §399, Mar. 13, 1970, Pub. L. 91–212, §10(c)(3), 84 Stat. 67; renumbered §398, July 23, 1974, Pub. L. 93–353, title II, §204, 88 Stat. 373, which related to the continuing availability of appropriated funds, was classified to section 280b–10 of this title, prior to repeal by Pub. L. 99–158, §3(b), Nov. 20, 1985, 99 Stat. 879.
 
 #### Amendments
 

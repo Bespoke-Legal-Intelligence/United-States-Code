@@ -10,7 +10,7 @@
 
 &emsp;(A) is separated from the service involuntarily, except by removal for cause on charges of misconduct or delinquency; or
 
-&emsp;(B) while serving in a geographic area designated by the Director, is separated from the service voluntarily during a period in which (as determined by the Director)—
+&emsp;(B) except in the case of an employee who is separated from the service under a program carried out under subsection (d), while serving in a geographic area designated by the Director, is separated from the service voluntarily during a period in which (as determined by the Director)—
 
 &emsp;&emsp;(i) the agency in which the employee is serving is undergoing a major reorganization, a major reduction in force, or a major transfer of function; and
 
@@ -32,7 +32,71 @@
 
 > is entitled to an annuity.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 526; amended Pub. L. 100–325, §2(m), May 30, 1988, 102 Stat. 583; Pub. L. 101–194, title V, §506(b)(9), Nov. 30, 1989, 103 Stat. 1759; Pub. L. 105–261, div. A, title XI, §1109(b), Oct. 17, 1998, 112 Stat. 2144; Pub. L. 106–58, title VI, §651(b), Sept. 29, 1999, 113 Stat. 480; Pub. L. 106–65, div. A, title V, §522(b), Oct. 5, 1999, 113 Stat. 597.)
+(d)(1) The Secretary of Defense may, during fiscal years 2002 and 2003, carry out a program under which an employee of the Department of Defense may be separated from the service entitled to an immediate annuity under this subchapter if the employee—
+
+&emsp;(A) has—
+
+&emsp;&emsp;(i) completed 25 years of service; or
+
+&emsp;&emsp;(ii) become 50 years of age and completed 20 years of service; and
+
+&emsp;(B) is eligible for the annuity under paragraph (2) or (3).
+
+(2)(A) For the purposes of paragraph (1), an employee referred to in that paragraph is eligible for an immediate annuity under this paragraph if the employee—
+
+&emsp;(i) is separated from the service involuntarily other than for cause; and
+
+&emsp;(ii) has not declined a reasonable offer of another position in the Department of Defense for which the employee is qualified, which is not lower than 2 grades (or pay levels) below the employee's grade (or pay level), and which is within the employee's commuting area.
+
+(B) For the purposes of paragraph (2)(A)(i), a separation for failure to accept a directed reassignment to a position outside the commuting area of the employee concerned or to accompany a position outside of such area pursuant to a transfer of function may not be considered to be a removal for cause.
+
+(3) For the purposes of paragraph (1), an employee referred to in that paragraph is eligible for an immediate annuity under this paragraph if the employee satisfies all of the following conditions:
+
+&emsp;(A) The employee is separated from the service voluntarily during a period in which the organization within the Department of Defense in which the employee is serving is undergoing a major organizational adjustment.
+
+&emsp;(B) The employee has been employed continuously by the Department of Defense for more than 30 days before the date on which the head of the employee's organization requests the determinations required under subparagraph (A).
+
+&emsp;(C) The employee is serving under an appointment that is not limited by time.
+
+&emsp;(D) The employee is not in receipt of a decision notice of involuntary separation for misconduct or unacceptable performance.
+
+&emsp;(E) The employee is within the scope of an offer of voluntary early retirement, as defined on the basis of one or more of the following objective criteria:
+
+&emsp;&emsp;(i) One or more organizational units.
+
+&emsp;&emsp;(ii) One or more occupational groups, series, or levels.
+
+&emsp;&emsp;(iii) One or more geographical locations.
+
+&emsp;&emsp;(iv) Any other similar objective and nonpersonal criteria that the Office of Personnel Management determines appropriate.
+
+(4) Under regulations prescribed by the Office of Personnel Management, the determinations of whether an employee meets—
+
+&emsp;(A) the requirements of subparagraph (A) of paragraph (3) shall be made by the Office upon the request of the Secretary of Defense; and
+
+&emsp;(B) the requirements of subparagraph (E) of such paragraph shall be made by the Secretary of Defense.
+
+(5) A determination of which employees are within the scope of an offer of early retirement shall be made only on the basis of consistent and well-documented application of the relevant criteria.
+
+(6) In this subsection, the term “major organizational adjustment” means any of the following:
+
+&emsp;(A) A major reorganization.
+
+&emsp;(B) A major reduction in force.
+
+&emsp;(C) A major transfer of function.
+
+&emsp;(D) A workforce restructuring—
+
+&emsp;&emsp;(i) to meet mission needs;
+
+&emsp;&emsp;(ii) to achieve one or more reductions in strength;
+
+&emsp;&emsp;(iii) to correct skill imbalances; or
+
+&emsp;&emsp;(iv) to reduce the number of high-grade, managerial, supervisory, or similar positions.
+
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 526; amended Pub. L. 100–325, §2(m), May 30, 1988, 102 Stat. 583; Pub. L. 101–194, title V, §506(b)(9), Nov. 30, 1989, 103 Stat. 1759; Pub. L. 105–261, div. A, title XI, §1109(b), Oct. 17, 1998, 112 Stat. 2144; Pub. L. 106–58, title VI, §651(b), Sept. 29, 1999, 113 Stat. 480; Pub. L. 106–65, div. A, title V, §522(b), Oct. 5, 1999, 113 Stat. 597; Pub. L. 106–398, §1 \[\[div. A\], title XI, §1152(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–321.)
 
 #### Application of Subsection (b)(1)(B)
 
@@ -64,6 +128,10 @@
 
 #### Amendments
 
+2000—Subsec. (b)(1)(B). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1152(b)(1)\], inserted “except in the case of an employee who is separated from the service under a program carried out under subsection (d),” before “while serving” in introductory provisions.
+
+Subsec. (d). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1152(b)(2)\], added subsec. (d).
+
 1999—Subsec. (b)(1)(B). Pub. L. 106–58 repealed Pub. L. 105–261, §1109(b)(1). See 1998 Amendment note below.
 
 Subsec. (c). Pub. L. 106–65 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “A military reserve technician who is separated from technician service, after becoming 50 years of age and completing 25 years of service, by reason of ceasing to satisfy the condition described in section 8401(30)(B) is entitled to an annuity.”
@@ -84,7 +152,11 @@ Subsec. (a)(2), (3). Pub. L. 101–194, §506(b)(9)(B), (C), substituted “for 
 
 Amendment by Pub. L. 101–194 effective Jan. 1, 1991, see section 506(d) of Pub. L. 101–194, set out as a note under section 3151 of this title.
 
+#### General Accounting Office: Voluntary Early Retirement
+
+For provisions relating to the application of subsection (b)(1)(B) of this section to officers and employees of the General Accounting Office during the period beginning on Oct. 13, 2000 and ending on Dec. 31, 2003, see section 1 of Pub. L. 106-303, set out as a note under section 8336 of this title.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 6302, 8420, 8421, 8421a, 8456, 8462, 8464, 8901 of this title; title 50 section 2053.
+This section is referred to in sections 5597, 6302, 8420, 8421, 8421a, 8456, 8462, 8464, 8901 of this title; title 10 section 10218; title 50 sections 2053, 2442.
 

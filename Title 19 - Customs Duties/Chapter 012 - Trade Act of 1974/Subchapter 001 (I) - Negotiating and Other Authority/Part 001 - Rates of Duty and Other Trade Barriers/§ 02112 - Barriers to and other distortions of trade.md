@@ -300,7 +300,7 @@ Tariff Modifications Specified in the Agreement.—The President may proclaim—
 
 &emsp;“(3) such additional duties;
 
-> as the President determines to be necessary or appropriate to carry out article 401 of the Agreement and the schedule of duty reductions with respect to Canada set forth in Annexes 401.2 and 401.7 to the Agreement, as approved under section 101(a)(1). For purposes of proclaiming necessary modifications under such Annex 401.2, any article covered under subheading 9813.00.05 (contained in the United States Schedule in such Annex) shall, unless such article is a drawback eligible good under section 204(a), be treated as being subject to any otherwise applicable customs duty if the article, or merchandise incorporating such article, is exported to Canada.
+> as the President determines to be necessary or appropriate to carry out article 401 of the Agreement and the schedule of duty reductions with respect to Canada set forth in Annexes 401.2 and 401.7 to the Agreement, asapproved under section 101(a)(1). For purposes of proclaiming necessary modifications under such Annex 401.2, any article covered under subheading 9813.00.05 (contained in the United States Schedule in such Annex) shall, unless such article is a drawback eligible good under section 204(a), be treated as being subject to any otherwise applicable customs duty if the article, or merchandise incorporating such article, is exported to Canada.
 
 “(b)
 
@@ -488,7 +488,7 @@ Definitions.—For purposes of this section:
 
 &emsp;&emsp;&emsp;“(ii) the foreign trade zones located in the United States, and the Commonwealth of Puerto Rico, and
 
-&emsp;&emsp;&emsp;“(iii) any area beyond the territorial seas of the United States within which, in accordance withinternational law and its domestic laws, the United States may exercise rights with respect to the seabed and subsoil and their natural resources.
+&emsp;&emsp;&emsp;“(iii) any area beyond the territorial seas of the United States within which, in accordance with international law and its domestic laws, the United States may exercise rights with respect to the seabed and subsoil and their natural resources.
 
 &emsp;“(8) The term ‘third country’ means any country other than Canada or the United States or any territory not a part of the territory of either.
 
@@ -504,7 +504,7 @@ Definitions.—For purposes of this section:
 
 &emsp;&emsp;&emsp;“(iii) the cost of waste or spoilage resulting from the use or consumption of such materials, less the value of renewable scrap or byproduct; and
 
-&emsp;&emsp;&emsp;“(iv) the value of goods and services relating to such materials determined in accordance with subparagraph 1(b) of article 8 of the Agreement on Implementation of article VII of the General Agreement on Tariffs and Trade.
+&emsp;&emsp;&emsp;“(iv) the value of goods and services relating to such materials determined in accordance withsubparagraph 1(b) of article 8 of the Agreement on Implementation of article VII of the General Agreement on Tariffs and Trade.
 
 &emsp;“(10) The term ‘value of the goods when exported to the territory of the other Party’ means the aggregate of—
 
@@ -980,7 +980,7 @@ Nonimmigrant Professionals.—\[Amended section 1184 of Title 8, Aliens and Nati
 
 #### “SEC. 309. STEEL PRODUCTS.
 
-“Nothing in this Act shall preclude any discussion or negotiation between the United States and Canada inorder to conclude voluntary restraint agreements or mutually agreed quantitative restrictions on the volume of steel products entering the United States from Canada.
+“Nothing in this Act shall preclude any discussion or negotiation between the United States and Canada in order to conclude voluntary restraint agreements or mutually agreed quantitative restrictions on the volume of steel products entering the United States from Canada.
 
 #### “TITLE IV—BINATIONAL PANEL DISPUTE SETTLEMENT IN ANTIDUMPING AND COUNTERVAILING DUTY CASES.
 
@@ -1074,7 +1074,7 @@ Appointment of Individuals to Panels and Committees.—
 
 &emsp;“(C) The Trade Representative may add or delete individuals from the preliminary candidate lists submitted under subparagraph (A) after consulting the appropriate Congressional Committees with regard to such addition or deletion. The Trade Representative shall provide to the appropriate Congressional Committees written notice of any addition or deletion of an individual from the preliminary candidate lists.
 
-&emsp;“(4)(A) By no later than March 31 of each calendar year, the Trade Representative shall submit to the appropriate Congressional Committees the final candidate lists of those individuals selected by the Trade Representative to be candidates eligible to serve on binational panels and extraordinary challenge committees convened pursuant to chapter 19 of the Agreement during the 1-year period beginning on April 1 of such calendar year. An individual may be included on a final candidate list only if written notice of the addition of such individual to the preliminary candidate list was submitted to the appropriate Congressional Committees at least 15 days before the date on which that final candidate list is submittedto the appropriate Congressional Committees under this subparagraph.
+&emsp;“(4)(A) By no later than March 31 of each calendar year, the Trade Representative shall submit to the appropriate Congressional Committees the final candidate lists of those individuals selected by the Trade Representative to be candidates eligible to serve on binational panels and extraordinary challenge committees convened pursuant to chapter 19 of the Agreement during the 1-year period beginning on April 1 of such calendar year. An individual may be included on a final candidate list only if written notice of the addition of such individual to the preliminary candidate list was submitted to the appropriate Congressional Committees at least 15 days before the date on which that final candidate list is submitted to the appropriate Congressional Committees under this subparagraph.
 
 &emsp;“(B) Except as provided in paragraph (5), no additions may be made to the final candidate lists after the final candidate lists are submitted to the appropriate Congressional Committees under subparagraph (A).
 
@@ -1142,7 +1142,7 @@ Status of Panelists.—Notwithstanding any other provision of law, individuals a
 
 “(c)
 
-Immunity of Panelists.—With the exception of acts described in section 777f(d)(3) \[777(d)(3)\] of the Tariff Act of 1930, as added by this Act \[19 U.S.C. 1677f(d)(3)\], individuals serving on panels or committeesconvened pursuant to chapter 19 of the Agreement, and individuals designated to assist the individuals serving on such panels or committees, shall be immune from suit and legal process relating to acts performed by such individuals in their official capacity and within the scope of their functions as such panelists or committee members or assistants to such panelists or committee members.
+Immunity of Panelists.—With the exception of acts described in section 777f(d)(3) \[777(d)(3)\] of the Tariff Act of 1930, as added by this Act \[19 U.S.C. 1677f(d)(3)\], individuals serving on panels or committees convened pursuant to chapter 19 of the Agreement, and individuals designated to assist the individuals serving on such panels or committees, shall be immune from suit and legal process relating to acts performed by such individuals in their official capacity and within the scope of their functions as such panelists or committee members or assistants to such panelists or committee members.
 
 “(d)
 
@@ -1286,7 +1286,7 @@ Identification of Industries Facing Subsidized Imports.—
 
 &emsp;“(4)(A) The Trade Representative and the Secretary of Commerce shall review information obtained under paragraph (3) and consult with the industry identified under paragraph (2) with a view to deciding whether any action is appropriate under section 301 of the Trade Act of 1974 \[19 U.S.C. 2411\], including the initiation of an investigation under section 302(c) of that Act \[19 U.S.C. 2412(c)\] (in the case of the Trade Representative), or under subtitle A of title VII of the Tariff Act of 1930 \[19 U.S.C. 1671 et seq.\], including the initiation of an investigation under section 702(a) of that Act \[19 U.S.C. 1671a(a)\] (in the case of the Secretary of Commerce).
 
-&emsp;“(B) In determining whether to initiate any investigation under section 301 of the Trade Act of 1974 \[19U.S.C. 2411\] or any other trade law, other than title VII of the Tariff Act of 1930 \[19 U.S.C. 1671 et seq.\], the Trade Representative, after consultation with the Secretary of Commerce—
+&emsp;“(B) In determining whether to initiate any investigation under section 301 of the Trade Act of 1974 \[19 U.S.C. 2411\] or any other trade law, other than title VII of the Tariff Act of 1930 \[19 U.S.C. 1671 et seq.\], the Trade Representative, after consultation with the Secretary of Commerce—
 
 &emsp;&emsp;“(i) shall seek the advice of the advisory committees established under section 135 of the Trade Act of 1974 \[19 U.S.C. 2155\];
 
@@ -1372,7 +1372,7 @@ Suspension resulting from nafta.—On the date the United States and Canada agre
 
 \[Section 308(b) of Pub. L. 103–182 provided that: “The amendments made by subsection (a) \[amending section 301(a) of Pub. L. 100–449, set out above\] take effect on the date of the enactment of this Act \[Dec. 8, 1993\].”\]
 
-\[Amendment by section 413 of Pub. L. 103–182 to section 410(a) of Pub. L. 100–449, set out above, effective onthe date the North American Free Trade Agreement enters into force with respect to the United States \[Jan. 1, 1994\], but not applicable to any final determination described in section 1516a(a)(1)(B) or (2)(B)(i) to (iii) of this title, notice of which is published in the Federal Register before such date, or to a determination described in section 1516a(a)(2)(B)(vi) of this title, notice of which is received by the Government of Canada before such date, or to any binational panel review under the United States-Canada Free-Trade Agreement, or any extraordinary challenge arising out of such review, that was commenced before such date, see section 416 of Pub. L. 103–182, set out as an Effective Date note under section 3431 of this title.\]
+\[Amendment by section 413 of Pub. L. 103–182 to section 410(a) of Pub. L. 100–449, set out above, effective on the date the North American Free Trade Agreement enters into force with respect to the United States \[Jan. 1, 1994\], but not applicable to any final determination described in section 1516a(a)(1)(B) or (2)(B)(i) to (iii) of this title, notice of which is published in the Federal Register before such date, or to a determination described in section 1516a(a)(2)(B)(vi) of this title, notice of which is received by the Government of Canada before such date, or to any binational panel review under the United States-Canada Free-Trade Agreement, or any extraordinary challenge arising out of such review, that was commenced before such date, see section 416 of Pub. L. 103–182, set out as an Effective Date note under section 3431 of this title.\]
 
 \[For provisions relating to effect of termination of NAFTA country status on the provisions of sections 401 to 416 of Pub. L. 103–182, see section 3451 of this title.\]
 
@@ -1510,7 +1510,7 @@ Elimination or Modifications of Duties.—The President is authorized to proclai
 
 > &emsp;is not less than 35 percent of the appraised value of the product at the time it is entered into the United States.
 
-> For purposes of determining the 35 percent content requirement contained in paragraph (3), the cost or value of materials which are used in the production of an article in the West Bank, the Gaza Strip, or a qualifying industrial zone, and are the products of the United States, may be counted in an amount up to 15 percent of the appraised value of the article.
+> For purposes of determining the 35 percent content requirement contained in paragraph (3), the cost or valueof materials which are used in the production of an article in the West Bank, the Gaza Strip, or a qualifying industrial zone, and are the products of the United States, may be counted in an amount up to 15 percent of the appraised value of the article.
 
 “(b)
 
@@ -1606,7 +1606,7 @@ Documentation required.—An article is eligible for the duty exemption under th
 
 “(c)
 
-Shipment of Articles of Israel Through West Bank or Gaza Strip.—The President is authorized to proclaim that articles of Israel may be treated as though they were articles directly shipped from Israel for the purposes of the Agreement even if shipped to the United States from the West Bank, the Gaza Strip, or a qualifying industrial zone, if the articles otherwise meet the requirements of the Agreement.
+Shipment of Articles of Israel Through West Bank or Gaza Strip.—The President is authorized to proclaim that articles of Israel may be treated asthough they were articles directly shipped from Israel for the purposes of the Agreement even if shipped to the United States from the West Bank, the Gaza Strip, or a qualifying industrial zone, if the articles otherwise meet the requirements of the Agreement.
 
 “(d)
 
@@ -1674,7 +1674,7 @@ ITC Reports.—In any report by the United States International Trade Commission
 
 “(c) For purposes of section 203 of the Trade Act of 1974 \[19 U.S.C. 2253\], the suspension of the reduction or elimination of a duty under subsection (a) shall be treated as an increase in duty.
 
-“(d) No proclamation which provides solely for a suspension referred to in subsection (a) with respect toany article shall be made under section 203 of the Trade Act of 1974 \[19 U.S.C. 2253\], unless the Commission, in addition to making an affirmative determination with respect to such article under section 202(b) of the Trade Act of 1974 \[19 U.S.C. 2252(b)\], determines in the course of its investigation under that section that the serious injury (or threat thereof) substantially caused by imports to the domestic industry producing a like or directly competitive article results from the reduction or elimination of any duty provided under any trade agreement provision entered into with Israel under section 102(b)(1) of the Trade Act of 1974 \[19 U.S.C. 2112(b)(1)\].
+“(d) No proclamation which provides solely for a suspension referred to in subsection (a) with respect to any article shall be made under section 203 of the Trade Act of 1974 \[19 U.S.C. 2253\], unless the Commission, in addition to making an affirmative determination with respect to such article under section 202(b) of the Trade Act of 1974 \[19 U.S.C. 2252(b)\], determines in the course of its investigation under that section that the serious injury (or threat thereof) substantially caused by imports to the domestic industry producing a like or directly competitive article results from the reduction or elimination of any duty provided under any trade agreement provision entered into with Israel under section 102(b)(1) of the Trade Act of 1974 \[19 U.S.C. 2112(b)(1)\].
 
 “(e)(1) Any proclamation issued under section 203 of the Trade Act of 1974 \[19 U.S.C. 2253\] that is in effect when an agreement with Israel is entered into under section 102(b)(1) of the Trade Act of 1974 \[19 U.S.C. 2112(b)(1)\] shall remain in effect until modified or terminated.
 
@@ -1682,7 +1682,7 @@ ITC Reports.—In any report by the United States International Trade Commission
 
 #### “SEC. 404. FAST TRACK PROCEDURES FOR PERISHABLE ARTICLES.
 
-“(a) If a petition is filed with the Commission under the provisions of section 202(a) of the Trade Act of 1974 \[19 U.S.C. 2252(a)\] regarding a perishable product which is subject to any reduction or elimination of a duty imposed by the United States under a trade agreement entered into with Israel under section 102(b)(1) of the Trade Act of 1974 \[19 U.S.C. 2112(b)(1)\] and alleges injury from imports of that product, then the petition may also be filed with the Secretary of Agriculture with a request that emergency relief be granted under subsection (c) with respect to such article.
+“(a) If a petition is filed with the Commission under the provisions of section 202(a) of the Trade Act of 1974 \[19 U.S.C. 2252(a)\] regarding a perishable product which is subject to any reduction or elimination of a duty imposed by the United States under a trade agreement entered into with Israel under section 102(b)(1) of theTrade Act of 1974 \[19 U.S.C. 2112(b)(1)\] and alleges injury from imports of that product, then the petition may also be filed with the Secretary of Agriculture with a request that emergency relief be granted under subsection (c) with respect to such article.
 
 “(b) Within 14 days after the filing of a petition under subsection (a)—
 

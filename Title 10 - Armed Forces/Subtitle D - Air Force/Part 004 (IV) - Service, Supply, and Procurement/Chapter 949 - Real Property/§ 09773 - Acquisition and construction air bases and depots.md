@@ -28,7 +28,7 @@
 
 &emsp;(4) to afford the maximum warning against surprise attack by enemy aircraft upon aviation of the United States and its necessary installations consistent with maintaining, in connection with existing or contemplated landing fields, the full power of the Air Force for operations necessary in the defense of the United States, and in the defense and reinforcement of the Territories, Commonwealths, possessions, and holdings.
 
-(d) In carrying out this section, the Secretary, on behalf of the United States, may acquiretitle, in fee simple and free of encumbrance, to any land that he considers necessary—
+(d) In carrying out this section, the Secretary, on behalf of the United States, may acquire title, in fee simple and free of encumbrance, to any land that he considers necessary—
 
 &emsp;(1) by accepting title without cost to the United States;
 

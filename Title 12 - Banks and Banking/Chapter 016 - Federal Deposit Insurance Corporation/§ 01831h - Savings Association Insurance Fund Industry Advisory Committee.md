@@ -52,11 +52,7 @@ The Federal Advisory Committee Act shall not apply to the Committee.
 
 The Committee shall cease to exist 10 years after August 9, 1989.
 
-(Sept. 21, 1950, ch. 967, §2\[31\], as added Pub. L. 101–73, title II, §226, Aug. 9, 1989, 103 Stat. 276; amended Pub. L. 103–325, title VI, §602(a)(60), Sept. 23, 1994, 108 Stat. 2291.)
-
-#### Repeal of Section
-
-<i>Pub. L. 104–208, div. A, title II, §2704(c), (d)(14)(Y), Sept. 30, 1996, 110 Stat. 3009–487, 3009–494, provided that, effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, this section is repealed.</i>
+(Sept. 21, 1950, ch. 967, §2\[31\], as added Pub. L. 101–73, title II, §226, Aug. 9, 1989, 103 Stat. 276; amended Pub. L. 103–325, title VI, §602(a)(60), Sept. 23, 1994, 108 Stat. 2291; Pub. L. 104–208, div. A, title II, §2704(d)(14)(Y), Sept. 30, 1996, 110 Stat. 3009–494.
 
 #### References in Text
 
@@ -64,9 +60,15 @@ The Federal Advisory Committee Act, referred to in subsec. (j), is Pub. L. 92–
 
 #### Amendments
 
+1996—Pub. L. 104–208, which directed repeal of section, was not executed. See Effective Date of 1996 Amendment note below.
+
 1994—Subsec. (b)(1). Pub. L. 103–325 substituted “board of directors” for “Board of Directors”.
 
 #### Change of Name
 
-Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–208, repealing this section, effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, see section 2704(c) of Pub. L. 104–208, set out as a note under section 1821 of this title.
 

@@ -6,7 +6,7 @@ Whenever the Secretary finds that the exercise of the powers conferred in this s
 
 #### (b) Advances for premiums
 
-The Secretary is authorized to make advances to producers for the purpose of assisting them to insure their crops with the Federal Crop Insurance Corporation. The Secretary shall remit the amount of any such advances to a producer directly to such Corporation in payment of the premium on the insurance for which the producer has made application. Advances shall only be made to producers who are participating or who agree to participate in a program formulated pursuant to section 590h of this title. Except as otherwise provided in this subsection, the terms and conditions of such advances shall be fixed by the Secretary. In carrying out the provisions of this subsection, the Secretary may transfer to the Federal Crop Insurance Corporation, prior to the execution of applications for insurance or requests for advances by producers, the funds estimated as necessary to cover the advances which will be requested for the payment of premiums under a crop-insurance program, and any portion of such funds not used for advances to producers under such program shall be returned to the Secretary by the Federal Crop Insurance Corporation.
+The Secretary is authorized to make advances to producers for the purpose of assisting them to insure their crops with the Federal Crop Insurance Corporation. The Secretary shall remit the amount of any such advances to a producer directly to such Corporation in payment of the premium on the insurance for which the producer has made application. Advances shall only be made to producers who are participating or who agree to participate in a program formulated pursuant to section 590h of this title. Except as otherwise provided in this subsection, the terms and conditions of such advances shallbe fixed by the Secretary. In carrying out the provisions of this subsection, the Secretary may transfer to the Federal Crop Insurance Corporation, prior to the execution of applications for insurance or requests for advances by producers, the funds estimated as necessary to cover the advances which will be requested for the payment of premiums under a crop-insurance program, and any portion of such funds not used for advances to producers under such program shall be returned to the Secretary by the Federal Crop Insurance Corporation.
 
 (Apr. 27, 1935, ch. 85, §12, as added Feb. 29, 1936, ch. 104, §1, 49 Stat. 1151; amended Mar. 25, 1939, ch. 15, 53 Stat. 550; July 2, 1940, ch. 521, §1, 54 Stat. 727.)
 
@@ -20,17 +20,9 @@ The Secretary is authorized to make advances to producers for the purpose of ass
 
 Administration of program of Federal Crop Insurance Corporation transferred to Secretary of Agriculture by Reorg. Plan No. 3 of 1946, §501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100, set out in the Appendix to Title 5, Government Organization and Employees.
 
-Federal Crop Insurance Corporation consolidated with other agencies into Agricultural Conservation andAdjustment Administration for duration of World War II, see Ex. Ord. No. 9069, Feb. 23, 1942.
+Federal Crop Insurance Corporation consolidated with other agencies into Agricultural Conservation and Adjustment Administration for duration of World War II, see Ex. Ord. No. 9069, Feb. 23, 1942.
 
 Functions respecting lands under jurisdiction of Department of the Interior, see Transfer of Functions note set out under section 590a of this title.
-
-#### Cross References
-
-Commodity Credit Corporation loans, see section 1391 of Title 7, Agriculture.
-
-Utilization of local agencies, see section 1388 of Title 7.
-
-Wheat marketing quotas, penalty provisions, see section 1340 of Title 7.
 
 #### Section Referred to in Other Sections
 

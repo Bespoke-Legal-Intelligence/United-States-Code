@@ -12,7 +12,7 @@ Section 1274b, act Apr. 30, 1946, ch. 244, title V, §503, 60 Stat. 156, related
 
 Section 1274c, act Apr. 30, 1946, ch. 244, title V, §504, 60 Stat. 156, related to quotas on Philippine articles, and was transferred to section 1354 of Title 22.
 
-Section 1274d, act Apr. 30, 1946, ch. 244, title V, §505(b), 60 Stat. 157, related to suspension of processingtax on coconut oil, and was transferred to section 1355 of Title 22.
+Section 1274d, act Apr. 30, 1946, ch. 244, title V, §505(b), 60 Stat. 157, related to suspension of processing tax on coconut oil, and was transferred to section 1355 of Title 22.
 
 Section 1274e, act Apr. 30, 1946, ch. 244, title V, §506(a), 60 Stat. 157, related to termination of payments into Philippine treasury, and was transferred to section 1356 of Title 22.
 

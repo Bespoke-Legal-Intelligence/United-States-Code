@@ -14,7 +14,7 @@
 
 (d) The punishment for a violation of subsection (a) of this section shall be—
 
-&emsp;(1) if death results from acts committed in violation of this section or if such acts includekidnapping or an attempt to kidnap, aggravated sexual abuse or an attempt to commit aggravated sexual abuse, or an attempt to kill, a fine in accordance with this title and imprisonment for any term of years or for life, or both, or may be sentenced to death;
+&emsp;(1) if death results from acts committed in violation of this section or if such acts include kidnapping or an attempt to kidnap, aggravated sexual abuse or an attempt to commit aggravated sexual abuse, or an attempt to kill, a fine in accordance with this title and imprisonment for any term of years or for life, or both, or may be sentenced to death;
 
 &emsp;(2) if bodily injury results to any person, including any public safety officer performing duties as a direct or proximate result of conduct prohibited by this section, and the violation is by means of fire or an explosive, a fine under this title or imprisonment for not more that 40 years, or both;
 

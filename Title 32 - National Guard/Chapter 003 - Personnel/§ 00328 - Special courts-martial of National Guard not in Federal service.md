@@ -38,15 +38,3 @@ In subsection (b), the positive authority of a special court-martial to try any 
 
 In subsection (c), the words “for a single offense” are inserted for clarity.
 
-#### Cross References
-
-Uniform Code of Military Justice—
-
-&emsp;&emsp;Generally, see section 801 et seq. of Title 10, Armed Forces.
-
-&emsp;&emsp;Convening special courts-martial, see section 823 of Title 10.
-
-&emsp;&emsp;Jurisdiction of special courts-martial, see section 819 of Title 10.
-
-&emsp;&emsp;Sentences, generally, see sections 855 to 858a of Title 10.
-

@@ -18,10 +18,6 @@ Mandatory-punishment provisions were rephrased in the alternative.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
 
-#### Cross References
-
-Slavery abolished, see Const. Amend. 13.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1961 of this title; title 8 section 1101.

@@ -1,6 +1,6 @@
 ### §1340. Internal revenue; customs duties
 
-The district courts shall have original jurisdiction of any civil action arising under any Actof Congress providing for internal revenue, or revenue from imports or tonnage except matters within the jurisdiction of the Court of International Trade.
+The district courts shall have original jurisdiction of any civil action arising under any Act of Congress providing for internal revenue, or revenue from imports or tonnage except matters within the jurisdiction of the Court of International Trade.
 
 (June 25, 1948, ch. 646, 62 Stat. 932; Pub. L. 96–417, title V, §501(21), Oct. 10, 1980, 94 Stat. 1742.)
 
@@ -16,47 +16,11 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1980—Pub. L. 96–417 redesignated the Customs Court as the Court of International Trade.
+<b>1980</b>—Pub. L. 96–417 redesignated the Customs Court as the Court of International Trade.
 
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respect to civil actions pending on or commenced on or after such date, see section 701(a) of Pub. L. 96–417, set out as a note under section 251 of this title.
-
-#### Cross References
-
-Action by the United States—
-
-&emsp;&emsp;Collection of unpaid estate tax, see section 7404 of Title 26, Internal Revenue Code.
-
-&emsp;&emsp;Enforcement of tax lien or subjection of property to payment of tax, see section 7403 of Title 26.
-
-&emsp;&emsp;Recovery of erroneous tax refund, see section 7405 of Title 26.
-
-Action to clear title to property upon which tax lien filed by United States, see section 7424 of Title 26.
-
-Amount in controversy immaterial in action under this section, see Historical and Revision Notes under section 1331 of this title.
-
-Court of International Trade jurisdiction, see section 1581 et seq. of this title.
-
-Customs officers’ immunity from liability, see section 1513 of Title 19, Customs Duties.
-
-Diversity of citizenship immaterial in action under this section, see Historical and Revision Notes under section 1332 of this title.
-
-Jurisdiction of action for refund by taxpayer against United States, see section 1346 of this title.
-
-Prohibition of suits to restrain tax assessment or collection, see section 7421 of Title 26, Internal Revenue Code.
-
-Venue—
-
-&emsp;&emsp;Action for collection of internal revenue taxes, see section 1396 of this title.
-
-&emsp;&emsp;Action for refund brought by taxpayer against collection officer, see section 1391 of this title.
-
-&emsp;&emsp;Action for refund brought by taxpayer against United States, see section 1402 of this title.
-
-&emsp;&emsp;Fines, penalties or forfeitures, generally, see section 1395 of this title.
-
-&emsp;&emsp;Judicial action to enforce forfeiture under internal revenue laws, see section 7323 of Title 26, Internal Revenue Code.
 
 #### Section Referred to in Other Sections
 

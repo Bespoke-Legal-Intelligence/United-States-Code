@@ -78,7 +78,7 @@ In subsection (c), the word “employees” is substituted for “officers and e
 
 #### References in Text
 
-The Foreign Service Act of 1980, referred to in subsec. (b)(1)(A)(ii), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071. Chapter 11 of title I of the Act is classified generally to subchapter XI (§4131 et seq.) of chapter 52 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
+The Foreign Service Act of 1980, referred to in subsec. (b)(1)(A)(ii), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071. Chapter 11 of title I of the Act is classified generally to subchapter XI (§4131 et seq.) of chapter 52 of Title 22,Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
 
 Section 6621(a)(1) of the Internal Revenue Code of 1986, referred to in subsec. (b)(2)(B)(ii), is classified to section 6621(a)(1) of Title 26, Internal Revenue Code.
 
@@ -160,11 +160,11 @@ Section 2 of Pub. L. 94–172 provided that: “With respect to former employee 
 
 Section 3 of Pub. L. 94–172 provided that:
 
-“(a) With respect to a former employee of the Post Office Department or a former employee of the United States Postal Service who had prior civilian service with the Post Office Department or other Federal agency, who is not on the rolls on the date of the enactment of this Act \[Dec. 23, 1975\], annual leave which was accrued before July 1, 1971, but was not credited under section 5596 of title 5, United States Code, because it was in an amount that would have caused the amount of leave to his credit to exceed the maximum amount of the leave authorized for the employee by law or regulation, is subject to credit and, liquidation by lump-sum payment only if a claim therefor is filed within 3 years immediately following the date of enactment of this Act with the Postal Service. Payment shall be by the Postal Service at the salary rate in effect on the date the lump-sum payment provisions of section 5551 of title 5, United States Code, or comparable provisions of regulations of the Postal Service, as appropriate, last became applicable to the former employee.
+“(a) With respect to a former employee of the Post Office Department or a former employee of the United States Postal Service who had prior civilian servicewith the Post Office Department or other Federal agency, who is not on the rolls on the date of the enactment of this Act \[Dec. 23, 1975\], annual leave which was accrued before July 1, 1971, but was not credited under section 5596 of title 5, United States Code, because it was in an amount that would have caused the amount of leave to his credit to exceed the maximum amount of the leave authorized for the employee by law or regulation, is subject to credit and, liquidation by lump-sum payment only if a claim therefor is filed within 3 years immediately following the date of enactment of this Act with the Postal Service. Payment shall be by the Postal Service at the salary rate in effect on the date the lump-sum payment provisions of section 5551 of title 5, United States Code, or comparable provisions of regulations of the Postal Service, as appropriate, last became applicable to the former employee.
 
 “(b) With respect to a present employee of the Postal Service who had prior Federal civilian service with the Post Office Department or other Federal agency, annual leave which was accrued before July 1, 1971, but was not credited under section 5596 of title 5, United States Code, because it was in an amount that would have caused the amount of leave to the employee's credit to exceed the maximum amount of the leave authorized for the employee by law or regulation, is subject to credit and liquidation by lump-sum payment only if a claim therefor is filed with the Postal Service within three years immediately following the date of the enactment of this Act \[Dec. 23, 1975\]. Payment shall be by the Postal Service at the salary rate in effect on the date of the enactment of this Act.”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5307, 7118, 7121, 7122 of this title; title 22 sections 4116, 4137.
+This section is referred to in sections 5307, 7118, 7121, 7122, 7371 of this title; title 22 sections 4116, 4137.
 

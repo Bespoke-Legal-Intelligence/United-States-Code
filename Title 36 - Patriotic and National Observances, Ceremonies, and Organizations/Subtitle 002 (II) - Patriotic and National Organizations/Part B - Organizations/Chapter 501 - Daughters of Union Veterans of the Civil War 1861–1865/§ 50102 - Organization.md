@@ -2,7 +2,7 @@
 
 (a)
 
-Federal Charter.—Daughters of Union Veterans of the Civil War 1861–1865 (in this chapter, the “corporation”), a nonprofit corporationincorporated in Ohio, is a federally chartered corporation.
+Federal Charter.—Daughters of Union Veterans of the Civil War 1861–1865 (in this chapter, the “corporation”), a nonprofit corporation incorporated in Ohio, is a federally chartered corporation.
 
 (b)
 

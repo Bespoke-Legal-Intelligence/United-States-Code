@@ -66,7 +66,7 @@
 
 (3)(A) Repealed. Pub. L. 101–549, title I, §101(d)(1), Nov. 15, 1990, 104 Stat. 2409.
 
-(B) As soon as practicable, the Administrator shall, consistent with the purposes of this chapter and the Energy Supply and Environmental Coordination Act of 1974 \[15 U.S.C. 791 et seq.\], review each State's applicable implementation plans and report to the State on whether such plans can be revised in relation to fuel burning stationary sources (or persons supplying fuel to such sources) without interfering with the attainment and maintenance of any national ambient air quality standard within the period permitted in this section. If the Administrator determines that any such plan can be revised, he shall notify the State that a plan revision may be submitted by the State. Any plan revision which is submitted by the State shall, after public notice and opportunity for public hearing, be approved by the Administrator if the revision relates only to fuel burning stationary sources\(or persons supplying fuel to such sources), and the plan as revised complies with paragraph (2) of this subsection. The Administrator shall approve or disapprove any revision no later than three months after its submission.
+(B) As soon as practicable, the Administrator shall, consistent with the purposes of this chapter and the Energy Supply and Environmental Coordination Act of 1974 \[15 U.S.C. 791 et seq.\], review each State's applicable implementation plans and report to the State on whether such plans can be revised in relation to fuel burning stationary sources (or persons supplying fuel to such sources) without interfering with the attainment and maintenance of any national ambient air quality standard within the period permitted in this section. If the Administrator determines that any such plan can be revised, he shall notify the State that a plan revision may be submitted by the State. Any plan revision which is submitted by the State shall, after public notice and opportunity for public hearing, be approved by the Administrator if the revision relates only to fuel burning stationary sources (or persons supplying fuel to such sources), and the plan as revised complies with paragraph (2) of this subsection. The Administrator shall approve or disapprove any revision no later than three months after its submission.
 
 (C) Neither the State, in the case of a plan (or portion thereof) approved under this subsection, nor the Administrator, in the case of a plan (or portion thereof) promulgated under subsection (c) of this section, shall be required to revise an applicable implementation plan because one or more exemptions under section 7418 of this title (relating to Federal facilities), enforcement orders under section 7413(d) <sup>1</sup> of this title, suspensions under subsection (f) or (g) of this section (relating to temporary energy or economic authority), orders under section 7419 of this title (relating to primary nonferrous smelters), or extensions of compliance in decrees entered under section 7413(e) <sup>1</sup> of this title (relating to iron- and steel-producing operations) have been granted, if such plan would have met the requirements of this section if no such exemptions, orders, or extensions had been granted.
 
@@ -108,7 +108,7 @@ The Administrator may, wherever he determines necessary, extend the period for s
 
 (2)(A) Repealed. Pub. L. 101–549, title I, §101(d)(3)(A), Nov. 15, 1990, 104 Stat. 2409.
 
-(B) No parking surcharge regulation may be required by the Administrator under paragraph (1) of this subsection as a part of an applicable implementation plan. All parking surcharge regulations previously required by the Administrator shall be void upon June 22, 1974. This subparagraph shall not prevent the Administrator from approving parking surcharges if they are adopted and submitted by a State as part of an applicable implementation plan. The Administrator may not condition approval of any implementation plan submitted by a State on such plan's including a parking surcharge regulation.
+(B) No parking surcharge regulation may be required by the Administrator under paragraph (1) of this subsection as a part of an applicableimplementation plan. All parking surcharge regulations previously required by the Administrator shall be void upon June 22, 1974. This subparagraph shall not prevent the Administrator from approving parking surcharges if they are adopted and submitted by a State as part of an applicable implementation plan. The Administrator may not condition approval of any implementation plan submitted by a State on such plan's including a parking surcharge regulation.
 
 (C) Repealed. Pub. L. 101–549, title I, §101(d)(3)(B), Nov. 15, 1990, 104 Stat. 2409.
 
@@ -156,7 +156,7 @@ The Administrator may, wherever he determines necessary, extend the period for s
 
 &emsp;(B) such unemployment or loss can be totally or partially alleviated by such emergency suspension.
 
-> Not more than one such suspension may be issued for any source on the basis of the same set of circumstances or on the basis of the same emergency.
+> Not more than one such suspension may be issued for any source on the basis of the same setof circumstances or on the basis of the same emergency.
 
 (3) A temporary emergency suspension issued by a Governor under this subsection shall remain in effect for a maximum of four months or such lesser period as may be specified in a disapproval order of the Administrator, if any. The Administrator may disapprove such suspension if he determines that it does not meet the requirements of paragraph (2).
 
@@ -202,7 +202,7 @@ As a condition for issuance of any permit required under this subchapter, the ow
 
 #### (B) Completeness finding
 
-&emsp;&emsp;Within 60 days of the Administrator's receipt of a plan or plan revision, but no later than 6 months after the date, if any, by which a State is required to submit the plan or revision, the Administrator shall determine whether the minimum criteria established pursuant to subparagraph (A) have been met. Any plan or plan revision that a State submits to the Administrator, and that has not been determined by the Administrator (by the date 6 months after receiptof the submission) to have failed to meet the minimum criteria established pursuant to subparagraph (A), shall on that date be deemed by operation of law to meet such minimum criteria.
+&emsp;&emsp;Within 60 days of the Administrator's receipt of a plan or plan revision, but no laterthan 6 months after the date, if any, by which a State is required to submit the plan or revision, the Administrator shall determine whether the minimum criteria established pursuant to subparagraph (A) have been met. Any plan or plan revision that a State submits to the Administrator, and that has not been determined by the Administrator (by the date 6 months after receipt of the submission) to have failed to meet the minimum criteria established pursuant to subparagraph (A), shall on that date be deemed by operation of law to meet such minimum criteria.
 
 #### (C) Effect of finding of incompleteness
 
@@ -410,7 +410,7 @@ Federal Energy Administration terminated and functions vested by law in Administ
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 6211, 6215, 7405, 7407, 7411, 7414, 7415, 7419, 7420, 7425, 7426, 7475, 7476, 7491, 7492, 7502, 7503, 7506, 7506a, 7509, 7511, 7511a, 7511c, 7512, 7545, 7586, 7589, 7590, 7602, 7607, 7619, 7625–1, 7651g, 7651j, 7661f, 8374, 9601 of this title.
+This section is referred to in sections 6215, 7405, 7407, 7411, 7414, 7415, 7419, 7420, 7425, 7426, 7475, 7476, 7491, 7492, 7502, 7503, 7506, 7506a, 7509, 7511, 7511a, 7511c, 7512, 7545, 7586, 7589, 7590, 7602, 7607, 7619, 7625–1, 7651g, 7651j, 7661f, 8374, 9601 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -10,7 +10,7 @@ The Secretary shall provide technical assistance on a nonreimbursable basis to c
 
 &emsp;(A) not less than 50 per centum shall be expended for the benefit of the public schools of the county which has adopted implementation measures pursuant to sections 544 to 544p of this title; and
 
-&emsp;(B) the remainder shall be expended for the benefit of public roads or any public purposes of any county which has adopted implementation measures pursuant to sections 544 to 544p of this title.
+&emsp;(B) the remainder shall be expended for the benefit of public roads or any public purposesof any county which has adopted implementation measures pursuant to sections 544 to 544p of this title.
 
 (2) Paragraph (1) of this subsection shall not apply—
 
@@ -24,7 +24,17 @@ The Secretary shall provide technical assistance on a nonreimbursable basis to c
 
 (2) Notwithstanding paragraph (1) of this subsection, any payment made for any fiscal year to a county pursuant to this subsection shall not exceed the amount of real property taxes assessed and levied on such property during the last full fiscal year before the fiscal year in which such land or interest therein was acquired by the Secretary.
 
-(3) No payment shall be made under this subsection with respect to any land or interest therein after the fifth full fiscal year beginning after the first fiscal year in which such a payment was made with respect to such land or interest therein.
+(3)
+
+Limitation.—
+
+&emsp;(A)
+
+In general.—Except as provided in subparagraph (B), no payment shall be made under this subsection with respect to any land or interest therein after the eighth full fiscal year beginning after the first fiscal year in which such a payment was made with respect to such land or interest therein.
+
+&emsp;(B)
+
+Continuation of certain payments.—For any land or interest in land for which the Secretary is making a payment in fiscal year 2000, such payment shall be continued for a total of eight fiscal years.
 
 #### (d) Federal consistency
 
@@ -54,7 +64,7 @@ Except as otherwise provided in subsection (e) of this section or in section 544
 
 &emsp;(D) Any of the following actions or projects, but only if the making available of expenditures or assistance therefor is consistent with the standards in section 544d(b) of this title and the purposes of sections 544 to 544p of this title:
 
-&emsp;&emsp;(i) Projects for the study, management, protection and enhancement of fish and wildlife resources and habitats, including, but not limited to, acquisition of fish and wildlife habitats and related lands, stabilization projects for fish and wildlife habitats, and recreational projects.
+&emsp;&emsp;(i) Projects for the study, management, protection and enhancement of fish and wildlife resources and habitats, including,but not limited to, acquisition of fish and wildlife habitats and related lands, stabilization projects for fish and wildlife habitats, and recreational projects.
 
 &emsp;&emsp;(ii) The establishment, operation, and maintenance of air and water navigation aids and devices, and for access thereto.
 
@@ -76,7 +86,7 @@ Except as otherwise provided in subsection (e) of this section or in section 544
 
 Subject to valid existing rights, all public lands within the scenic area administered by the Secretary of the Interior through the Bureau of Land Management are hereby transferred without consideration to the jurisdiction of the Secretary to be managed as National Forest lands in accordance with the provisions of sections 544 to 544p of this title.
 
-(Pub. L. 99–663, §14, Nov. 17, 1986, 100 Stat. 4294.)
+(Pub. L. 99–663, §14, Nov. 17, 1986, 100 Stat. 4294; Pub. L. 106–291, title III, §346(e), Oct. 11, 2000, 114 Stat. 1000.)
 
 #### References in Text
 
@@ -95,6 +105,10 @@ The Disaster Relief Act of 1974, referred to in subsec. (e)(3)(D)(v), was rename
 Section 1362 of the National Flood Insurance Act of 1968 (42 U.S.C. 4103), referred to in subsec. (e)(3)(D)(v), was repealed by Pub. L. 103–325, title V, §551(a), Sept. 23, 1994, 108 Stat. 2269.
 
 The Congressional Budget and Impoundment Control Act of 1974, referred to in subsec. (e)(4), is Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2, The Congress, and Tables.
+
+#### Amendments
+
+2000—Subsec. (c)(3). Pub. L. 106–291 inserted par. heading, designated existing provisions as subpar. (A), inserted subpar. heading, substituted “Except as provided in subparagraph (B), no payment” for “No payment”, substituted “eighth full fiscal year” for “fifth full fiscal year”, and added subpar. (B).
 
 #### Section Referred to in Other Sections
 

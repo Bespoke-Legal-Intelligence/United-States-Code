@@ -32,7 +32,7 @@ In awarding grants under subsection (b) of this section, the Secretary shall giv
 
 #### (1) In general
 
-&emsp;To be eligible for a grant under subsection (b) of this section, a recipient institution musthave a significant demonstrable commitment to higher education teaching programs in the food and agricultural sciences and to each specific subject area for which the grant is to be used.
+&emsp;To be eligible for a grant under subsection (b) of this section, a recipient institution must have a significant demonstrable commitment to higher education teaching programs in the food and agricultural sciences and to each specific subject area for which the grant is to be used.
 
 #### (2) Minority groups
 
@@ -84,7 +84,7 @@ Funds authorized in section 22 of the Act of June 29, 1935 (49 Stat. 439, chapte
 
 #### (B) Secondary school
 
-&emsp;&emsp;The term “secondary school” has the meaning given the term in section 8801(25) of title 20.
+&emsp;&emsp;The term “secondary school” has the meaning given the term in section 8801(25) <sup>1</sup> of title 20.
 
 #### (2) Agriscience and agribusiness education
 
@@ -106,7 +106,7 @@ Funds authorized in section 22 of the Act of June 29, 1935 (49 Stat. 439, chapte
 
 &emsp;&emsp;(D) to promote the incorporation of agriscience and agribusiness subject matter into other instructional programs, particularly classes in science, business, and consumer education;
 
-&emsp;&emsp;(E) to facilitate joint initiatives by the grant recipient with other secondaryschools, institutions of higher education that award an associate's degree, and institutions of higher education that award a bachelor's degree to maximize the development and use of resources, such as faculty, facilities, and equipment, to improve agriscience and agribusiness education; and
+&emsp;&emsp;(E) to facilitate joint initiatives by the grant recipient with other secondary schools, institutions of higher education that award an associate's degree, and institutions of higher education that award a bachelor's degree to maximize the development and use of resources, such as faculty, facilities, and equipment, to improve agriscience and agribusiness education; and
 
 &emsp;&emsp;(F) to support other initiatives designed to meet local, State, regional, or national needs related to promoting excellence in agriscience and agribusiness education.
 
@@ -123,6 +123,8 @@ There are authorized to be appropriated for carrying out this section $60,000,00
 #### References in Text
 
 Act of June 29, 1935, referred to in subsec. (h), is act June 29, 1935, ch. 338, 49 Stat. 436, as amended, known as the Bankhead-Jones Act, which was classified principally to sections 329 and 427 to 427j of this title, and was repealed by act Aug. 11, 1966, ch. 790, §2, 69 Stat. 674, except for sections 1, 10, and 22 of the Act, which are classified to sections 427, 427i, and 329 of this title, respectively. For complete classification of this Act to the Code, see Tables.
+
+Section 8801(25) of title 20, referred to in subsec. (j)(1)(B), was redesignated section 8801(26) by Pub. L. 106–554, §1(a)(4) \[div. B, title XVI, §1606(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–334.
 
 The Federal Advisory Committee Act, referred to in subsec. (k), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -166,7 +168,7 @@ Subsec. (j). Pub. L. 104–127, §805(d)(1), redesignated subsec. (i) as (j).
 
 Subsec. (a)(3). Pub. L. 99–198, §1412(a)(2), substituted “Each recipient institution shall have a significant ongoing commitment to the food and agricultural sciences generally and to the specific subject area for which such grant is to be used.” for “Such grants shall be made without regard to matching funds provided by recipients.”
 
-Subsec. (d). Pub. L. 99–198, §1412(b), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “There are hereby authorized to be appropriated for the purposes of carrying out the provisions of this section $25,000,000 for the fiscal year ending September 30, 1978, $30,000,000 for the fiscal year ending September 30, 1979, $35,000,000 for the fiscal year ending September 30, 1980, $40,000,000 for the fiscal year ending September 30, 1981, and $50,000,000 for each of the fiscal years ending September 30, 1982, September 30, 1983, September 30, 1984, and September 30, 1985, and not in excess of such sums as may after the date of enactment of this title be authorized by law for any subsequent fiscal year.”
+Subsec. (d). Pub. L. 99–198, §1412(b), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “There are hereby authorized to be appropriated for the purposes of carrying out the provisions of this section $25,000,000 for the fiscal year ending September 30, 1978, $30,000,000 for the fiscal year ending September 30, 1979, $35,000,000 for the fiscal year ending September 30, 1980, $40,000,000 for the fiscal year ending September 30, 1981, and $50,000,000 for each of the fiscal years ending September 30, 1982, September 30, 1983, September 30, 1984, and September 30, 1985, and not inexcess of such sums as may after the date of enactment of this title be authorized by law for any subsequent fiscal year.”
 
 Subsec. (e). Pub. L. 99–198, §1412(c), added subsec. (e).
 
@@ -187,4 +189,6 @@ Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L
 #### Section Referred to in Other Sections
 
 This section is referred to in section 3311 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

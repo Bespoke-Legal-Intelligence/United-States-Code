@@ -12,7 +12,3 @@ Title 28 of the Revised Statutes, referred to in text, was in the original “th
 
 R.S. §2124 derived from act June 30, 1834, ch. 161, §27, 4 Stat. 733.
 
-#### Federal Rules of Civil Procedure
-
-Parties, see rule 17, Title 28, Appendix, Judiciary and Judicial Procedure.
-

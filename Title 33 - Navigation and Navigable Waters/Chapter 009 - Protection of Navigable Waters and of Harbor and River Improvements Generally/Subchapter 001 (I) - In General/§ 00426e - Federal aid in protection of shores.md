@@ -2,7 +2,7 @@
 
 #### (a) Declaration of policy
 
-With the purpose of preventing damage to the shores and beaches of the United States, its Territories and possessions and promoting and encouraging the healthful recreation of the people, it is declared to be the policy of the United States, subject to sections 426e to 426h–1 of this title, to promote shore protection projects and related research that encourage the protection, restoration, and enhancement of sandy beaches, including beach restoration and periodic beach nourishment, on a comprehensive and coordinated basis by the Federal Government, States, localities, and private enterprises. In carrying out this policy, preference shall be given toareas in which there has been a Federal investment of funds and areas with respect to which the need for prevention or mitigation of damage to shores and beaches is attributable to Federal navigation projects or other Federal activities.
+With the purpose of preventing damage to the shores and beaches of the United States, its Territories and possessions and promoting and encouraging the healthful recreation of the people, it is declared to be the policy of the United States, subject to sections 426e to 426h–1 of this title, to promote shore protection projects and related research that encourage the protection, restoration, and enhancement of sandy beaches, including beach restoration and periodic beach nourishment, on a comprehensive and coordinated basis by the Federal Government, States, localities, and private enterprises. In carrying out this policy, preference shall be given to areas in which there has been a Federal investment of funds and areas with respect to which the need for prevention or mitigation of damage to shores and beaches is attributable to Federal navigation projects or other Federal activities.
 
 #### (b) Federal contribution; maximum amount; exceptions
 
@@ -70,11 +70,11 @@ Shores other than public will be eligible for Federal assistance if there is ben
 
 &emsp;&emsp;&emsp;&emsp;(I) specify the life of the project; and
 
-&emsp;&emsp;&emsp;&emsp;(II) ensure that the Federal Government and the non-Federal interest willcooperate in carrying out the project or separable element.
+&emsp;&emsp;&emsp;&emsp;(II) ensure that the Federal Government and the non-Federal interest will cooperate in carrying out the project or separable element.
 
 #### (C) Coordination of projects
 
-&emsp;&emsp;In constructing a shore protection project or separable element under this paragraph, the Secretary shall, to the extent practicable, coordinate the project or element with any complementary project identified under paragraph (2)(C).
+&emsp;&emsp;In constructing a shore protection project or separable element under this paragraph,the Secretary shall, to the extent practicable, coordinate the project or element with any complementary project identified under paragraph (2)(C).
 
 (Aug. 13, 1946, ch. 960, §1, 60 Stat. 1056; July 28, 1956, ch. 768, 70 Stat. 702; Pub. L. 87–874, title I, §103(a)(1)–(3), Oct. 23, 1962, 76 Stat. 1178; Pub. L. 88–172, §1, Nov. 7, 1963, 77 Stat. 304; Pub. L. 91–611, title II, §208, Dec. 31, 1970, 84 Stat. 1829; Pub. L. 104–303, title II, §227(a), (b), (e)(2)(A), (B), Oct. 12, 1996, 110 Stat. 3698, 3703.)
 
@@ -97,6 +97,10 @@ Subsec. (e). Pub. L. 104–303, §227(b), (e)(2)(B), inserted subsec. heading, d
 Subsec. (e). Pub. L. 87–874, §103(a)(3), required approval of plans by Chief of Engineers in case of a small project under section 426g of this title.
 
 1956—Act July 28, 1956, extended assistance to privately owned shores, to include shores of Territories and possessions, substituted “restoration” for “improvement”, defined “construction”, and struck out provisions which authorized Federal aid toward the repair and protection of seawalls constructed by political subdivisions to protect important public highways.
+
+#### Beach Recreation
+
+Pub. L. 106–541, title II, §220, Dec. 11, 2000, 114 Stat. 2596, provided that: “Not later than 1 year after the date of enactment of this Act \[Dec. 11, 2000\], the Secretary shall develop and implement procedures to ensure that all of the benefits of a beach restoration project, including those benefits attributable to recreation, hurricane and storm damage reduction, and environmental protection and restoration, are displayed in reports for such projects.”
 
 #### Shore Management Program
 
@@ -152,7 +156,7 @@ Pub. L. 101–640, title III, §309, Nov. 28, 1990, 104 Stat. 4638, provided tha
 
 &emsp;“(1) restrictions on new development seaward of an erosion setback line (based on preproject beach size) of at least 30 times the annual erosion rate;
 
-&emsp;“(2) restrictions on construction of new structural stabilization projects, such as seawalls and groins,and their reconstruction if damaged by 50 percent or more;
+&emsp;“(2) restrictions on construction of new structural stabilization projects, such as seawalls and groins, and their reconstruction if damaged by 50 percent or more;
 
 &emsp;“(3) provisions for the relocation of structures in erosion-prone areas;
 

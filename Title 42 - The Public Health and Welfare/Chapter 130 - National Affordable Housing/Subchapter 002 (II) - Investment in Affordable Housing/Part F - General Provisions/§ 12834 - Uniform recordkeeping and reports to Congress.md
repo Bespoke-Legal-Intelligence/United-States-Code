@@ -4,9 +4,11 @@
 
 The Secretary shall develop and establish uniform recordkeeping, performance reporting, and auditing requirements for use by participating jurisdictions.
 
-#### (b) Report to Congress
-
-Not later than 120 days after the end of each fiscal year, the Secretary shall make an annual report to the Congress that summarizes and assesses the results of reports provided under this section. Such report shall include a description of actions taken by each participating jurisdiction pursuant to section 12831(a) of this title and such recommendations for administrative and legislative action as may be appropriate to carry out the purposes of such section.
+#### (b) Omitted
 
 (Pub. L. 101–625, title II, §284, Nov. 28, 1990, 104 Stat. 4126.)
+
+#### Codification
+
+Subsec. (b) of this section, which required the Secretary to make an annual report to Congress that summarizes and assesses the results of reports provided under this section, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, the 3rd item on page 102 of House Document No. 103–7.
 

@@ -12,10 +12,6 @@ The mining laws of the United States, referred to in text, are classified genera
 
 First two sentences of this section are from section 1 and last sentence of this section is from section 3 of act Aug. 4, 1892.
 
-#### Cross References
-
-Placer-mineral claims provisions, see sections 35 to 38 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in title 16 section 1907; title 43 section 299.

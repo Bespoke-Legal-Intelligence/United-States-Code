@@ -26,7 +26,7 @@ Pub. L. 99–190, §101(d) \[title I\], Dec. 19, 1985, 99 Stat. 1224, 1235, prov
 
 #### Act Referred to in Other Sections
 
-The Johnson-O'Malley Act is referred to in sections 13–1, 13e, 292b, 304a, 450d, 450e, 450f, 458d, 458cc, 2010, 2432 of this title; title 20 sections 2302, 7816; title 43 section 1620.
+The Johnson-O'Malley Act is referred to in sections 13–1, 13e, 292b, 304a, 450d, 450e, 450f, 458d, 458cc, 458aaa–4, 2010, 2432 of this title; title 20 sections 2302, 7816; title 43 section 1620.
 
 #### Section Referred to in Other Sections
 

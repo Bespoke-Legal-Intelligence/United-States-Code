@@ -92,7 +92,7 @@ Subsec. (b)(2), (3). Pub. L. 99–661, §3203(a)(2), added pars. (2) and (3) and
 
 “(3) Moneys in the fund, when appropriated, shall remain available until expended, unless otherwise provided in appropriation Acts.”
 
-1981—Subsec. (b). Pub. L. 97–35 in par. (1) struck out provisions relating to moneys remaining in the fund at the end of the third fiscal year following the fiscal year in which received, and in par. (3) substituted provisions respecting funds remaining available until expended, for provisions relating to funds remaining available for a period of five fiscal years.
+1981—Subsec. (b). Pub. L. 97–35 in par. (1) struck out provisions relating to moneys remaining in the fund at the end of the third fiscal year following the fiscal year in which received, and in par. (3) substituted provisions respecting funds remaining available until expended,for provisions relating to funds remaining available for a period of five fiscal years.
 
 #### Use of Funds From National Defense Stockpile Transaction Fund To Meet National Defense Stockpile Goals and Specifications in Effect on October 1, 1984
 

@@ -28,7 +28,7 @@
 
 (h) The Court of International Trade shall have exclusive jurisdiction of any civil action commenced to review, prior to the importation of the goods involved, a ruling issued by the Secretary of the Treasury, or a refusal to issue or change such a ruling, relating to classification, valuation, rate of duty, marking, restricted merchandise, entry requirements, drawbacks, vessel repairs, or similar matters, but only if the party commencing the civil action demonstrates to the court that he would be irreparably harmed unless given an opportunity to obtain judicial review prior to such importation.
 
-(i) In addition to the jurisdiction conferred upon the Court of International Trade by subsections (a)–(h) of this section and subject to the exception set forth in subsection (j) of this section, the Court of International Trade shall have exclusive jurisdiction of any civil action commenced against the United States, its agencies, or its officers, that arises out of any law of the United States providing for—
+(i) In addition to the jurisdiction conferred upon the Court of International Trade by subsections (a)–(h) of this section and subject to the exception set forth in subsection (j) of this section, the Court of International Trade shall have exclusive jurisdiction of any civil action commenced against the United States, its agencies,or its officers, that arises out of any law of the United States providing for—
 
 &emsp;(1) revenue from imports or tonnage;
 
@@ -62,7 +62,7 @@ Section 516 of the Tariff Act of 1930, referred to in subsec. (b), is classified
 
 Section 516A of the Tariff Act of 1930, referred to in subsecs. (c) and (i), is classified to section 1516a of Title 19.
 
-The Trade Act of 1974, referred to in subsec. (d)(1) to (3), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended, which is classified principally to chapter 12 (§2101 et seq.) of Title 19. Sections 223, 251, and 271 of the Trade Act of 1974 are classified to sections 2273, 2341, and 2371, respectively, of Title 19. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of Title 19 and Tables.
+The Trade Act of 1974, referred to in subsec. (d)(1) to (3), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended, which is classified principally to chapter 12 (§2101 et seq.) of Title 19. Sections 223, 251, and 271 of the Trade Act of 1974 are classified to sections 2273, 2341, and 2371, respectively, of Title 19. Section 2371 of Title 19 was omitted from the Code as terminated Sept. 30, 1982. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of Title 19 and Tables.
 
 Section 305(b)(1) of the Trade Agreements Act of 1979, referred to in subsec. (e), is classified to section 2515(b)(1) of Title 19.
 
@@ -80,15 +80,15 @@ A prior section 1581, act June 25, 1948, ch. 646, 62 Stat. 943, related to power
 
 #### Amendments
 
-1993—Subsec. (g)(3). Pub. L. 103–182, §684(a)(1), added par. (3).
+<b>1993</b>—Subsec. (g)(3). Pub. L. 103–182, §684(a)(1), added par. (3).
 
 Subsec. (i). Pub. L. 103–182, §414(a)(1), inserted “the North American Free Trade Agreement or” before “the United States-Canada Free-Trade Agreement” in last sentence.
 
-1988—Subsec. (i). Pub. L. 100–449 inserted at end “This subsection shall not confer jurisdiction over an antidumping or countervailing duty determination which is reviewable either by the Court of International Trade under section 516A(a) of the Tariff Act of 1930 or by a binational panel under article 1904 of the United States-Canada Free-Trade Agreement and section 516A(g) of the Tariff Act of 1930.”
+<b>1988</b>—Subsec. (i). Pub. L. 100–449 inserted at end “This subsection shall not confer jurisdiction over an antidumping or countervailing duty determination which is reviewable either by the Court of International Trade under section 516A(a) of the Tariff Act of 1930 or by a binational panel under article 1904 of the United States-Canada Free-Trade Agreement and section 516A(g) of the Tariff Act of 1930.”
 
-1986—Subsec. (g)(1). Pub. L. 99–514 substituted “(3)” for “(3) or (c)”.
+<b>1986</b>—Subsec. (g)(1). Pub. L. 99–514 substituted “(3)” for “(3) or (c)”.
 
-1984—Subsec. (g)(1). Pub. L. 98–573 amended par. (1) generally, substituting “a customs broker's license under section 641(b)(2) or (3) or (c) of the Tariff Act of 1930, or to deny a customs broker's permit under section 641(c)(1) of such Act, or to revoke a license or permit under section 641(b)(5) or (c)(2) of such Act” for “or revoke a customhouse broker's license under section 641(a) of the Tariff Act of 1930”.
+<b>1984</b>—Subsec. (g)(1). Pub. L. 98–573 amended par. (1) generally, substituting “a customs broker's license under section 641(b)(2) or (3) or (c) of the Tariff Act of 1930, or to deny a customs broker's permit under section 641(c)(1) of such Act, or to revoke a license or permit under section 641(b)(5) or (c)(2) of such Act” for “or revoke a customhouse broker's license under section 641(a) of the Tariff Act of 1930”.
 
 Subsec. (g)(2). Pub. L. 98–573 amended par. (2) generally, substituting “any decision of the Secretary of the Treasury to revoke or suspend a customs broker's license or permit, or impose a monetary penalty in lieu thereof, under section 641(d)(2)(B) of the Tariff Act of 1930” for “any order of the Secretary of the Treasury to revoke or suspend a customhouse broker's license under section 641(b) of the Tariff Act of 1930”.
 
@@ -98,7 +98,7 @@ Amendment by section 414(a)(1) of Pub. L. 103–182 effective on the date the No
 
 #### Effective and Termination Dates of 1988 Amendment
 
-Amendment by Pub. L. 100–449 effective on date United States-Canada Free-Trade Agreement enters into force (Jan. 1, 1989), and to cease to have effect on date Agreement ceases to be in force, see section 501(a), (c) of Pub. L. 100–449, set out in a note under section 2112 of Title 19, Customs Duties.
+Amendment by Pub. L. 100–449 effective on date United States-Canada Free-Trade Agreement enters into force (Jan. 1, 1989), and to cease to have effect ondate Agreement ceases to be in force, see section 501(a), (c) of Pub. L. 100–449, set out in a note under section 2112 of Title 19, Customs Duties.
 
 #### Effective Date of 1984 Amendment
 
@@ -117,24 +117,6 @@ Section 684(b) of Pub. L. 103–182 provided that: “For purposes of applying t
 #### Effect of Termination of NAFTA Country Status
 
 For provisions relating to effect of termination of NAFTA country status on sections 401 to 416 of Pub. L. 103–182, see section 3451 of Title 19, Customs Duties.
-
-#### Cross References
-
-Additional duties for failure to mark article or container of foreign origin, see section 1304 of Title 19, Customs Duties.
-
-Appeals—
-
-&emsp;&emsp;By American manufacturers, producers, or wholesalers on value of classification, see section 1516 of Title 19.
-
-&emsp;&emsp;Decisions of Court of International Trade, see section 1295 of this title.
-
-&emsp;&emsp;Procedure on appeal, see section 2631 et seq. of this title.
-
-&emsp;&emsp;Protests from determination of appropriate customs officer under Anti-Dumping Law, see section 1516a of Title 19, Customs Duties.
-
-Finality of decision of Court of International Trade, see section 2645 of this title.
-
-Liability of consignee for additional or increased duties, see section 1485 of Title 19, Customs Duties.
 
 #### Section Referred to in Other Sections
 

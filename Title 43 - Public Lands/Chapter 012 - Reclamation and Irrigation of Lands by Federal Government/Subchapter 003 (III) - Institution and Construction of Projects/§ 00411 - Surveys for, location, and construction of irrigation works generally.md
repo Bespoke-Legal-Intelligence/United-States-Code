@@ -20,7 +20,3 @@ Provisions similar to those in this section were contained in acts Mar. 2, 1889,
 
 Provisions of this section as not amended, modified or repealed by the Submerged Lands Act, see section 1303 of this title.
 
-#### Cross References
-
-Grand Teton National Park, withdrawn lands within exterior boundary, use for reclamation purposes, see section 406d–5 of Title 16, Conservation.
-

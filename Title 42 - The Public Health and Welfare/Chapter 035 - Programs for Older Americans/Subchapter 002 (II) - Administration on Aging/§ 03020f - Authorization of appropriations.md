@@ -1,20 +1,36 @@
 ### §3020f. Authorization of appropriations
 
-#### (a) Administration
+#### (a) In general
 
-For purposes of carrying out this chapter, there are authorized to be appropriated for the Administration such sums as may be necessary for fiscal years 1992, 1993, 1994, and 1995.
+For purposes of carrying out this chapter, there are authorized to be appropriated for administration, salaries, and expenses of the Administration such sums as may be necessary for fiscal years 2001, 2002, 2003, 2004, and 2005 <sup>1</sup>
 
-#### (b) Salaries and expenses
+#### (b) Eldercare Locator Service
 
-There are authorized to be appropriated for salaries and expenses of the Administration on Aging—
+There are authorized to be appropriated to carry out section 3012(a)(24) <sup>2</sup> of this title (relating to the National Eldercare Locator Service) such sums as may be necessary for fiscal year 2001, and such sums as may be necessary for each of the 4 succeeding fiscal years.
 
-&emsp;(1) $17,000,000 for fiscal year 1992, $20,000,000 for fiscal year 1993, $24,000,000 for fiscal year 1994, and $29,000,000 for fiscal year 1995; and
+#### (c) Pension counseling and information programs
 
-&emsp;(2) such additional sums as may be necessary for each such fiscal year to enable the Assistant Secretary to provide for not fewer than 300 full-time employees (or the equivalent thereof) in the Administration on Aging.
+There are authorized to be appropriated to carry out section 3020e–1 of this title, such sums as may be necessary for fiscal year 2001 and for each of the 4 succeeding fiscal years.
 
-(Pub. L. 89–73, title II, §215, as added Pub. L. 102–375, title II, §210, Sept. 30, 1992, 106 Stat. 1215; amended Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990.)
+(Pub. L. 89–73, title II, §216, formerly §215, as added Pub. L. 102–375, title II, §210, Sept. 30, 1992, 106 Stat. 1215; amended Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990; renumbered §216 andamended Pub. L. 106–501, title II, §§202(4), 205, Nov. 13, 2000, 114 Stat. 2231, 2234.)
+
+#### References in Text
+
+Section 3012(a)(24) of this title, referred to in subsec. (b), does not relate to the National Eldercare Locator Service. Provisions relating to that Service are found elsewhere in section 3012.
 
 #### Amendments
 
+2000—Subsec. (a). Pub. L. 106–501, §205(1), in heading, substituted “In general” for “Administration”, and in text, inserted “administration, salaries, and expenses of” after “appropriated for” and substituted “2001, 2002, 2003, 2004, and 2005” for “1992, 1993, 1994, and 1995.”
+
+Subsecs. (b), (c). Pub. L. 106–501, §205(2), added subsecs. (b) and (c) and struck out heading and text of former subsec. (b). Text read as follows: “There are authorized to be appropriated for salaries and expenses of the Administration on Aging—
+
+&emsp;“(1) $17,000,000 for fiscal year 1992, $20,000,000 for fiscal year 1993, $24,000,000 for fiscal year 1994, and $29,000,000 for fiscal year 1995; and
+
+&emsp;“(2) such additional sums as may be necessary for each such fiscal year to enable the Assistant Secretary to provide for not fewer than 300 full-time employees (or the equivalent thereof) in the Administration on Aging.”
+
 1993—Subsec. (b)(2). Pub. L. 103–171 substituted “Assistant Secretary” for “Commissioner”.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 3020e–1 of this title.
 

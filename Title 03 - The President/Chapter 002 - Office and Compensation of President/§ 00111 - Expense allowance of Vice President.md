@@ -18,7 +18,7 @@ Section effective noon, Jan. 20, 1949, see section 3 of act Jan. 19, 1949.
 
 #### Official Temporary Residence of the Vice President
 
-Pub. L. 93–346, July 12, 1974, 88 Stat. 340, as amended by Pub. L. 93–552, title VI, §609(a), Dec. 27, 1974, 88 Stat.1764, provided: “That effective July 1, 1974, the Government-owned house together with furnishings, associated grounds (consisting of twelve acres, more or less), and related facilities which have heretofore been used as the residence of the Chief of Naval Operations, Department of the Navy, shall, on and after such date be available for, and are hereby designated as, the temporary official residence of the Vice President of the United States.
+Pub. L. 93–346, July 12, 1974, 88 Stat. 340, as amended by Pub. L. 93–552, title VI, §609(a), Dec. 27, 1974, 88 Stat. 1764, provided: “That effective July 1, 1974, the Government-owned house together with furnishings, associated grounds (consisting of twelve acres, more or less), and related facilities which have heretofore been used as the residence of the Chief of Naval Operations, Department of the Navy, shall, on and after such date be available for, and are hereby designated as, the temporary official residence of the Vice President of the United States.
 
 “
 
@@ -70,7 +70,7 @@ Sec. 4. The Administrator of General Services is further authorized to accept ca
 
 “
 
-Sec. 5. There is authorized to be appropriated to the General Services Administration, the sum of $750,000 for planning, design, construction, and costs incidental thereto, including the cost of initial furnishings.
+Sec. 5. There is authorized to be appropriated to the General Services Administration, the sum of $750,000for planning, design, construction, and costs incidental thereto, including the cost of initial furnishings.
 
 “
 

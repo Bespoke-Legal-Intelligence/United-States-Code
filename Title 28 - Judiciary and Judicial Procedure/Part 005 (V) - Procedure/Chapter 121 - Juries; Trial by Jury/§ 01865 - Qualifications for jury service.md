@@ -1,8 +1,8 @@
 ### §1865. Qualifications for jury service
 
-(a) The chief judge of the district court, or such other district court judge as the plan may provide, on his initiative or upon recommendation of the clerk or jury commission, shall determine solely on the basis of information provided on the juror qualification form and other competent evidence whether a person is unqualified for, or exempt, or to be excused from jury service. The clerk shall enter such determination in the space provided on the juror qualification form and in any alphabetical list of names drawn from the master jury wheel. If a person did not appear in response to a summons, such fact shall be noted on said list.
+(a) The chief judge of the district court, or such other district court judge as the plan may provide, on his initiative or upon recommendation of the clerk or jury commission, or the clerk under supervision of the court if the court's jury selection plan so authorizes, shall determine solely on the basis of information provided on the juror qualification form and other competent evidence whether a person is unqualified for, or exempt, or to be excused from jury service. The clerk shall enter such determination in the space provided on the juror qualification form and in any alphabetical list of names drawn from the master jury wheel. If a person did not appear in response to a summons, such fact shall be noted on said list.
 
-(b) In making such determination the chief judge of the district court, or such other district court judge as the plan may provide, shall deem any person qualified to serve on grand and petit juries in the district court unless he—
+(b) In making such determination the chief judge of the district court, or such other district court judge as the plan may provide, or the clerk if the court's jury selection plan so provides, shall deem any person qualified to serve on grand and petit juries in the district court unless he—
 
 &emsp;(1) is not a citizen of the United States eighteen years old who has resided for a period of one year within the judicial district;
 
@@ -14,7 +14,7 @@
 
 &emsp;(5) has a charge pending against him for the commission of, or has been convicted in a State or Federal court of record of, a crime punishable by imprisonment for more than one year and his civil rights have not been restored.
 
-(June 25, 1948, ch. 646, 62 Stat. 952; Pub. L. 90–274, §101, Mar. 27, 1968, 82 Stat. 58; Pub. L. 92–269, §1, Apr. 6, 1972, 86 Stat. 117; Pub. L. 95–572, §3(a), Nov. 2, 1978, 92 Stat. 2453; Pub. L. 100–702, title VIII, §803(b), Nov. 19, 1988, 102 Stat. 4658.)
+(June 25, 1948, ch. 646, 62 Stat. 952; Pub. L. 90–274, §101, Mar. 27, 1968, 82 Stat. 58; Pub. L. 92–269, §1, Apr. 6, 1972, 86 Stat. 117; Pub. L. 95–572, §3(a), Nov. 2, 1978, 92 Stat. 2453; Pub. L. 100–702, title VIII, §803(b), Nov. 19, 1988, 102 Stat. 4658; Pub. L. 106–518, title III, §305, Nov. 13, 2000, 114 Stat. 2418.)
 
 #### Historical and Revision Notes
 
@@ -30,13 +30,17 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1988—Subsec. (a). Pub. L. 100–702 substituted “in any alphabetical” for “the alphabetical”.
+<b>2000</b>—Subsec. (a). Pub. L. 106–518, §305(1), inserted “or the clerk under supervision of the court if the court's jury selection plan so authorizes,” after “jury commission,”.
 
-1978—Subsec. (b)(5). Pub. L. 95–572 struck out “by pardon or amnesty” after “civil rights have not been restored”.
+Subsec. (b). Pub. L. 106–518, §305(2), inserted “or the clerk if the court's jury selection plan so provides,” after “may provide,” in introductory provisions.
 
-1972—Subsec. (b)(1). Pub. L. 92–269 substituted “eighteen years old” for “twenty-one years old”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–702 substituted “in any alphabetical” for “the alphabetical”.
 
-1968—Subsec. (a). Pub. L. 90–274 substituted provisions for the excusing of persons from jury service by the chief judge of the district court or by other district court judge for provisions requiring the selection of jurors so as to be most favorable to an impartial trial and so as to minimize the expense and burden of jury service.
+<b>1978</b>—Subsec. (b)(5). Pub. L. 95–572 struck out “by pardon or amnesty” after “civil rights have not been restored”.
+
+<b>1972</b>—Subsec. (b)(1). Pub. L. 92–269 substituted “eighteen years old” for “twenty-one years old”.
+
+<b>1968</b>—Subsec. (a). Pub. L. 90–274 substituted provisions for the excusing of persons from jury service by the chief judge of the district court or by other district court judge for provisions requiring the selection of jurors so as to be most favorable to an impartial trial and so as to minimize the expense and burden of jury service.
 
 Subsec. (b). Pub. L. 90–274 substituted provisions setting out the conditions of ineligibility for jury service for provisions authorizing the service of jurors in a place within the district other than the place for which the jurors were summoned.
 

@@ -72,14 +72,6 @@ Sec. 6. To the extent that this order conflicts with any previous Executive orde
 
 Sec. 7. \[Revoked by Ex. Ord. No. 12318, Aug. 21, 1981, 46 F.R. 42833\]
 
-#### Federal Rules of Civil Procedure
-
-Subpoena, see rule 45, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-#### Cross References
-
-Punishment for contempt, see section 402 of Title 18, Crimes and Criminal Procedure.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 286z of this title; title 31 section 5315.

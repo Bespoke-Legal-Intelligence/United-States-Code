@@ -48,10 +48,6 @@ Pub. L. 92–576, §1, Oct. 27, 1972, 86 Stat. 1251, provided: “That this Act 
 
 Section 27(d)(2) of Pub. L. 98–426 provided that: “Reference in any other statute, regulation, order, or other document to the Longshoremen's and Harbor Workers’ Compensation Act shall be deemed to refer to the Longshore and Harbor Workers’ Compensation Act.”
 
-#### Federal Rules of Civil Procedure
-
-Application of chapter, see rule 81, Title 28, Appendix, Judiciary and Judicial Procedure.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in title 30 section 932.

@@ -18,7 +18,7 @@ Eligible Projects.—Except as provided in subsection (c), a State may obligate 
 
 &emsp;(2) if the project or program is included in a State implementation plan that has been approved pursuant to the Clean Air Act and the project will have air quality benefits;
 
-&emsp;(3) the Secretary, after consultation with the Administrator of the Environmental Protection Agency, determines that the project or program is likely to contribute to the attainment of a national ambient air quality standard, whether through reductions in vehicle miles traveled, fuel consumption, or through other factors;
+&emsp;(3) the Secretary, after consultation with the Administrator of the Environmental Protection Agency, determines that the project or program is likely to contribute to the attainment of a national ambient air quality standard, whether through reductions in vehiclemiles traveled, fuel consumption, or through other factors;
 
 &emsp;(4) to establish or operate a traffic monitoring, management, and control facility or program if the Secretary, after consultation with the Administrator of the Environmental Protection Agency, determines that the facility or program is likely to contribute to the attainment of a national ambient air quality standard; or
 

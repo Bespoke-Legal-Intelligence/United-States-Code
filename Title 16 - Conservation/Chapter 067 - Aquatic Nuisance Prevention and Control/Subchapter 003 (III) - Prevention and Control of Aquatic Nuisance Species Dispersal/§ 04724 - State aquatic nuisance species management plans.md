@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;After providing notice and opportunity for public comment, the Governor of each State may prepare and submit, or the Governors of the States and the governments of the Indian tribes involved in an interstate organization, may jointly prepare and submit—
+&emsp;After providing notice and opportunity for public comment, the Governor of each Statemay prepare and submit, or the Governors of the States and the governments of the Indian tribes involved in an interstate organization, may jointly prepare and submit—
 
 &emsp;&emsp;(A) a comprehensive management plan to the Task Force for approval which identifies those areas or activities within the State or within the interstate region involved, other than those related to public facilities, for which technical, enforcement, or financial assistance (or any combination thereof) is needed to eliminate or reduce the environmental, public health, and safety risks associated with aquatic nuisance species, particularly the zebra mussel; and
 
@@ -58,7 +58,7 @@
 
 #### (c) Enforcement assistance
 
-Upon request of a State or Indian tribe, the Director or the Under Secretary, to the extentallowable by law and in a manner consistent with section 141 of title 14, may provide assistance to a State or Indian tribe in enforcing an approved State or interstate invasive species management plan.
+Upon request of a State or Indian tribe, the Director or the Under Secretary, to the extent allowable by law and in a manner consistent with section 141 of title 14, may provide assistance to a State or Indian tribe in enforcing an approved State or interstate invasive species management plan.
 
 (Pub. L. 101–646, title I, §1204, Nov. 29, 1990, 104 Stat. 4770; Pub. L. 104–332, §2(e)(6), (h)(1), Oct. 26, 1996, 110 Stat. 4089, 4091.)
 

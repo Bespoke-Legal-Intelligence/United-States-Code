@@ -14,7 +14,7 @@ When used in this subchapter—
 
 &emsp;(6) The term “commerce” means trade, traffic, commerce, transportation, or communication among the several States, or between the District of Columbia or any Territory of the United States and any State or other Territory, or between any foreign country and any State, Territory, or the District of Columbia, or within the District of Columbia or any Territory, or between points in the same State but through any other State or any Territory or the District of Columbia or any foreign country.
 
-&emsp;(7) The term “affecting commerce” means in commerce, or burdening or obstructing commerce or the free flow of commerce, or having led or tending to lead to a labor dispute burdening or obstructing commerce or the free flow of commerce.
+&emsp;(7) The term “affecting commerce” means in commerce, or burdening or obstructing commerce or the free flow of commerce, or havingled or tending to lead to a labor dispute burdening or obstructing commerce or the free flow of commerce.
 
 &emsp;(8) The term “unfair labor practice” means any unfair labor practice listed in section 158 of this title.
 
@@ -61,10 +61,6 @@ Amendment by Pub. L. 93–360 effective on thirtieth day after July 26, 1974, se
 #### Effective Date of 1947 Amendment
 
 For effective date of amendment by act June 23, 1947, see section 104 of act June 23, 1947, set out as a note under section 151 of this title.
-
-#### Communist Organizations and Members
-
-Prohibitions placed on Communist organizations, and members thereof, with respect to labor, see section 781 et seq. of Title 50, War and National Defense, particularly sections 782(4A), 784, 792a, and 841 to 844 of that title.
 
 #### Section Referred to in Other Sections
 

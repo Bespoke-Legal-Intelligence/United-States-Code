@@ -8,3 +8,7 @@ Not later than two years after the date on which funds are obligated under secti
 
 1992—Pub. L. 102–295 inserted “and every two years thereafter,” and substituted “documentation” for “assurances” and “10402(a)(2)(B) through 10402(a)(2)(F)” for “10402(a)(2)(F)”.
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions of this section relating to biennial report to appropriate committees of Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 6th item on page 93 of House Document No. 103–7.
+

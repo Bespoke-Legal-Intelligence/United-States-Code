@@ -50,7 +50,7 @@ Irrigation districts.—An irrigation district in existence prior to May 18, 199
 
 &emsp;&emsp;(C)
 
-Transition period.—A water supplier that would be a public water system only as a result of modifications made to this paragraph by the Safe Drinking Water Act Amendments of 1996 shall not be considereda public water system for purposes of the Act until the date that is two years after August 6, 1996. If a water supplier does not serve 15 service connections (as defined in subparagraphs (A) and (B)) or 25 people at any time after the conclusion of the 2-year period, the water supplier shall not be considered a public water system.
+Transition period.—A water supplier that would be a public water system only as a result of modifications made to this paragraph by the Safe Drinking Water Act Amendments of 1996 shall not be considered a public water system for purposes of the Act until the date that is two years after August 6, 1996. If a water supplier does not serve 15 service connections (as defined in subparagraphs (A) and (B)) or 25 people at any time after the conclusion of the 2-year period, the water supplier shall not be considered a public water system.
 
 &emsp;(5) The term “supplier of water” means any person who owns or operates a public water system.
 
@@ -200,7 +200,7 @@ For provisions relating to the responsibility of the head of each Executive agen
 
 #### Termination of Advisory Committees
 
-Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
+Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time asmay be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 
 #### Section Referred to in Other Sections
 

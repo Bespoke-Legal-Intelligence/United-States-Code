@@ -22,7 +22,7 @@ The corporation may order the partition of a plan notwithstanding the pendency o
 
 #### (d) Scope of partition order
 
-The corporation's partition order shall provide for a transfer of no more than the nonforfeitablebenefits directly attributable to service with the employer referred to in subsection (b)(1) of this section and an equitable share of assets.
+The corporation's partition order shall provide for a transfer of no more than the nonforfeitable benefits directly attributable to service with the employer referred to in subsection (b)(1) of this section and an equitable share of assets.
 
 #### (e) Nature of plan created by partition
 

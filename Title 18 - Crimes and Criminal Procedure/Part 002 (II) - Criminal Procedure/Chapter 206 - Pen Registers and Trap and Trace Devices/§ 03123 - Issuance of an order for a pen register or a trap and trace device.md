@@ -14,7 +14,7 @@ Contents of Order.—An order issued under this section—
 
 &emsp;&emsp;(B) the identity, if known, of the person who is the subject of the criminal investigation;
 
-&emsp;&emsp;(C) the number and, if known, physical location of the telephone line to which the pen register or trap and trace device is to be attached and, in the case of a trap and trace device, the geographic limits of the trap and trace order; and
+&emsp;&emsp;(C) the number and, if known, physical location of the telephone line to which the pen register or trap and trace device is to be attached and, in the case of a trap and tracedevice, the geographic limits of the trap and trace order; and
 
 &emsp;&emsp;(D) a statement of the offense to which the information likely to be obtained by the pen register or trap and trace device relates; and
 

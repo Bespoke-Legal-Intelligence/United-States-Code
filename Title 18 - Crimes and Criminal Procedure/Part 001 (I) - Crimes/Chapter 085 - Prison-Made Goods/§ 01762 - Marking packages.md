@@ -28,9 +28,3 @@ Minor changes were made in translations and phraseology.
 
 1992—Subsec. (b). Pub. L. 102–393 substituted “$50,000” for “$1,000”.
 
-#### Cross References
-
-Divesting prison made goods of interstate character, see section 11507 of Title 49, Transportation.
-
-Jurisdiction and venue of offenses begun in one district and completed in another, see section 3237 of this title.
-

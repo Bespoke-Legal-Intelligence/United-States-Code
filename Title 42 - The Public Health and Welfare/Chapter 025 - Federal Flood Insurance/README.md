@@ -2,11 +2,11 @@
 
 | Sec. |  |
 | :--- | ---: |
-| 2401 to 2413. Repealed. |  |
+| 2401 to 2413. Repealed. |  |
 | [2414\.](%C2%A7%2002414%20-%20Issuance%20of%20notes%20by%20Director%20of%20Federal%20Emergency%20Management%20Agency%3B%20terms%20and%20conditions.md) | Issuance of notes by Director of Federal Emergency Management Agency; terms and conditions. |
 | (a) | to (d) Repealed. |
 | (e) | Issuance of notes by Director of Federal Emergency Management Agency; form, terms and conditions; purchase and sale by Secretary of the Treasury; public debt transactions. |
-| 2415 to 2421. Repealed. |  |
+| 2415 to 2421. Repealed. |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

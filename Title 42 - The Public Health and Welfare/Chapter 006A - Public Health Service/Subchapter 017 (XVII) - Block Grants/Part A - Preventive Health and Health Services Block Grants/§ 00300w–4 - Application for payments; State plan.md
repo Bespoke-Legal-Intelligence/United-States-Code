@@ -106,7 +106,7 @@ The certification referred to in subsection (a)(3) of this section for a fiscal 
 
 #### (3) Composition
 
-&emsp;(A) A condition under paragraph (1) for a State is that the Committee is composed of such members of the general public, and such officials of the health departments of political subdivisions of the State, as may be necessary to provide adequate representation of the general public and of such health departments.
+&emsp;(A) A condition under paragraph (1) for a State is that the Committee is composed ofsuch members of the general public, and such officials of the health departments of political subdivisions of the State, as may be necessary to provide adequate representation of the general public and of such health departments.
 
 &emsp;(B) With respect to compliance with subparagraph (A), the membership of advisory committees established pursuant to subsection (c)(2) of this section may include representatives of community-based organizations (including minority community-based organizations), schools of public health, and entities to which the State involved awards grants or contracts to carry out activities authorized in section 300w–3 of this title.
 
@@ -146,5 +146,5 @@ Section 103(b) of Pub. L. 102–531 provided that: “With respect to compliance
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 300w–1, 300w–5, 300w–6, 300w–10 of this title.
+This section is referred to in sections 300w–1, 300w–5, 300w–6 of this title.
 

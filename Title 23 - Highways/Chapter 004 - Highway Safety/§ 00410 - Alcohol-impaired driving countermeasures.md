@@ -42,7 +42,7 @@ Administrative license revocation.—An administrative driver's license suspensi
 
 &emsp;&emsp;&emsp;&emsp;(I) shall suspend the driver's license of such individual for a period of not less than 90 days if such individual is a first offender in such 5-year period; and
 
-&emsp;&emsp;&emsp;&emsp;(II) shall suspend the driver's license of such individual for a period of not lessthan 1 year, or revoke such license, if such individual is a repeat offender in such 5-year period; and
+&emsp;&emsp;&emsp;&emsp;(II) shall suspend the driver's license of such individual for a period of not less than 1 year, or revoke such license, if such individual is a repeat offender in such 5-year period; and
 
 &emsp;&emsp;&emsp;(ii) the suspension and revocation referred to under clause (i) shall take effect not later than 30 days after the day on which the individual refused to submit to a chemical test or received notice of having been determined to be driving under the influence of alcohol, in accordance with the procedures of the State.
 

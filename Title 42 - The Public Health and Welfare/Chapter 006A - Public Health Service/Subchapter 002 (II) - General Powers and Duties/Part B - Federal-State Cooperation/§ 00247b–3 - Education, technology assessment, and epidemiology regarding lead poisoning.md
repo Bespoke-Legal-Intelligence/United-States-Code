@@ -8,7 +8,7 @@
 
 #### (2) Interagency Task Force
 
-&emsp;(A) Not later than 6 months after October 27, 1992, the Secretary shall establish a council to be known as the Interagency Task Force on the Prevention of Lead Poisoning (in thisparagraph referred to as the “Task Force”). The Task Force shall coordinate the efforts of Federal agencies to prevent lead poisoning.
+&emsp;(A) Not later than 6 months after October 27, 1992, the Secretary shall establish a council to be known as the Interagency Task Force on the Prevention of Lead Poisoning (in this paragraph referred to as the “Task Force”). The Task Force shall coordinate the efforts of Federal agencies to prevent lead poisoning.
 
 &emsp;(B) The Task Force shall be composed of—
 
@@ -62,5 +62,5 @@ The Secretary, acting through the Director of the Centers for Disease Control an
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 

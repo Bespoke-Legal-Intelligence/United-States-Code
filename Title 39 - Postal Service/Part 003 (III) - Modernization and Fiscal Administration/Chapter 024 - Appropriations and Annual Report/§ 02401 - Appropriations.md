@@ -34,13 +34,13 @@
 
 &emsp;(4) such other matters as the committees may determine necessary to ensure that the Congress is fully and currently consulted and informed on postal operations, plans, and policies.
 
-> Not later than March 15 of each year, the Postal Service shall appear before the Committee on Governmental Affairs of the Senate and the Committee on Post Office and Civil Service of the House of Representatives to submit information which any such committee considers necessary to determine the amount of funds to be appropriated for the operation of the Postal Service, and to present testimony and respond to questions with respect to such budget and statement. Each such committee shall take such action as it considers appropriate and shall advise the Postal Service of such action.
+> Not later than March 15 of each year, the Postal Service shall appear before the Committee on Governmental Affairs of the Senate and the Committee on Post Office and Civil Service ofthe House of Representatives to submit information which any such committee considers necessary to determine the amount of funds to be appropriated for the operation of the Postal Service, and to present testimony and respond to questions with respect to such budget and statement. Each such committee shall take such action as it considers appropriate and shall advise the Postal Service of such action.
 
 (f) The failure of the President to request the appropriation of any part of the funds authorized by this section may not be deemed a failure of appropriations.
 
 (g) The rates established under chapter 36 of this title for zone-rated parcels formerly entered under former chapter 67 of this title shall not be more than 10 percent less than the rates for such mail would be if the funds authorized under subsection (b) were not appropriated.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 743; Pub. L. 94–421, §2(a), (b), Sept. 24, 1976, 90 Stat. 1303; Pub. L. 95–593, §11(a), Nov. 4, 1978, 92 Stat. 2538; Pub. L. 96–499, title IV, §§411, 414(a), Dec. 5, 1980, 94 Stat. 2607; Pub. L. 97–35, title XVII, §1721, Aug. 13, 1981, 95 Stat. 759; Pub. L. 99–410, title II, §201(b)(2), Aug. 28, 1986, 100 Stat. 928; Pub. L. 99–509, title VI, §6003(b), Oct. 21, 1986, 100 Stat. 1933; Pub. L. 101–509, title II, §1(b), Nov. 5, 1990, 104 Stat. 1398; Pub. L. 102–141, title II, Oct. 28, 1991, 105 Stat. 842; Pub. L. 103–31, §8(h)(2), May 20, 1993, 107 Stat. 86; Pub. L. 103–123, title VII, §§703(a), 704(b)(1), Oct. 28, 1993, 107 Stat. 1267,1270; Pub. L. 103–437, §13, Nov. 2, 1994, 108 Stat. 4590.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 743; Pub. L. 94–421, §2(a), (b), Sept. 24, 1976, 90 Stat. 1303; Pub. L. 95–593, §11(a), Nov. 4, 1978, 92 Stat. 2538; Pub. L. 96–499, title IV, §§411, 414(a), Dec. 5, 1980, 94 Stat. 2607; Pub. L. 97–35, title XVII, §1721, Aug. 13, 1981, 95 Stat. 759; Pub. L. 99–410, title II, §201(b)(2), Aug. 28, 1986, 100 Stat. 928; Pub. L. 99–509, title VI, §6003(b), Oct. 21, 1986, 100 Stat. 1933; Pub. L. 101–509, title II, §1(b), Nov. 5, 1990, 104 Stat. 1398; Pub. L. 102–141, title II, Oct. 28, 1991, 105 Stat. 842; Pub. L. 103–31, §8(h)(2), May 20, 1993, 107 Stat. 86; Pub. L. 103–123, title VII, §§703(a), 704(b)(1), Oct. 28, 1993, 107 Stat. 1267, 1270; Pub. L. 103–437, §13, Nov. 2, 1994, 108 Stat. 4590.)
 
 #### References in Text
 
@@ -121,6 +121,10 @@ Subsec. (a) of this section effective July 1, 1971, pursuant to Resolution No. 7
 #### Abolition of House Committee on Post Office and Civil Service
 
 Committee on Post Office and Civil Service of House of Representatives abolished by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. References to Committee on Post Office and Civil Service treated as referring to Committee on Government Reform and Oversight of House of Representatives, see section 1(b) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a “Comprehensive statement of current and planned operations, policies, financial expenditures and obligations” as required under subsec. (e) of this section is listed on page 194), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set out as notes under section 1113 of Title 31, Money and Finance.
 
 #### Reduction of Authorization for Revenue Foregone
 

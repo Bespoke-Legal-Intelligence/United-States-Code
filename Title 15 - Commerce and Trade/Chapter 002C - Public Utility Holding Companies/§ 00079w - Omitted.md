@@ -1,0 +1,6 @@
+### §79w. Omitted
+
+#### Codification
+
+Section, act Aug. 26, 1935, ch. 687, title I, §23, 49 Stat. 834, which required the Securities and Exchange Commission to submit an annual report to Congress on the work of the Commission, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 191 of House Document No. 103–7.
+

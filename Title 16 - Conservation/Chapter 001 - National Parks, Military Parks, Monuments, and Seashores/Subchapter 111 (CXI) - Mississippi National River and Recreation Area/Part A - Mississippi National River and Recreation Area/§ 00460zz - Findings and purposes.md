@@ -10,7 +10,7 @@ The Congress finds that:
 
 &emsp;(3) State and local planning efforts along the River Corridor provide a unique foundation for coordinating Federal, State, and local planning and management processes.
 
-&emsp;(4) Existing Federal agency programs lack sufficient coordination and financial participation with State and local planning and regulatory authorities to provide for adequate andcomprehensive resource management and economic development consistent with the protection of the Mississippi River Corridor's nationally significant resources, and the public use and enjoyment of the area.
+&emsp;(4) Existing Federal agency programs lack sufficient coordination and financial participation with State and local planning and regulatory authorities to provide for adequate and comprehensive resource management and economic development consistent with the protection of the Mississippi River Corridor's nationally significant resources, and the public use and enjoyment of the area.
 
 &emsp;(5) The preservation, enhancement, enjoyment, and utilization of the nationally significant resources of the Mississippi River Corridor can be accomplished by a cooperative Federal, State, and local comprehensive planning and management effort.
 

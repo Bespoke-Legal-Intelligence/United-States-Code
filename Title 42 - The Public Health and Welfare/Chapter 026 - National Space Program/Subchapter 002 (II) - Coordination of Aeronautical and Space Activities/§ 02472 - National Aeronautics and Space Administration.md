@@ -6,7 +6,7 @@ There is established the National Aeronautics and Space Administration (hereinaf
 
 #### (b) Deputy Administrator; appointment and duties
 
-There shall be in the Administration a Deputy Administrator, who shall be appointed from civilian life by the President by and with the advice and consent of the Senate and shall perform such duties and exercise such powers as the Administrator may prescribe. The Deputy Administrator shall act for, and exercise the powers of, the Administrator during his absence or disability.
+There shall be in the Administration a Deputy Administrator, who shall be appointed from civilian life by the President by and with the advice and consent of the Senate and shall performsuch duties and exercise such powers as the Administrator may prescribe. The Deputy Administrator shall act for, and exercise the powers of, the Administrator during his absence or disability.
 
 #### (c) Restriction on engaging in any other business, vocation, or employment
 
@@ -26,7 +26,7 @@ Amendment by Pub. L. 88–426 effective on the first day of the first pay period
 
 #### Emergency Preparedness Functions
 
-For assignment of certain emergency preparedness functions to Administrator of National Aeronauticsand Space Administration, see Parts 1, 2, and 19 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 5195 of this title.
+For assignment of certain emergency preparedness functions to Administrator of National Aeronautics and Space Administration, see Parts 1, 2, and 19 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 5195 of this title.
 
 #### Termination of National Advisory Committee for Aeronautics; Transfer of Functions
 
@@ -57,8 +57,4 @@ On a disc of the blue sky strewn with white stars, to dexter a larger yellow sph
 AND WHEREAS it appears that such seal is of suitable design and appropriate for establishment as the official seal of the National Aeronautics and Space Administration:
 
 NOW, THEREFORE, by virtue of the authority vested in me as President of the United States, I hereby approve such seal as the official seal of the National Aeronautics and Space Administration.
-
-#### Cross References
-
-Compensation of Administrator and Deputy Administrator, see sections 5313 and 5314, respectively, of Title 5, Government Organization and Employees.
 

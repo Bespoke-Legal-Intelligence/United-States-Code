@@ -38,7 +38,7 @@ The purpose of this section is to provide homeownership and rental housing oppor
 
 #### (ii) Realizable disposition value
 
-&emsp;&emsp;&emsp;The term “realizable disposition value” means the estimated sale price that the Corporation reasonably would be able toobtain upon the sale of a property by the Corporation under the provisions of this chapter, not including this section, and any other applicable laws. Not later than the expiration of the 120-day period beginning upon the commencement of the first fiscal year for which amounts are provided pursuant to paragraph (2)(A), the Corporation shall establish, and publish in the Federal Register, procedures for determining the realizable disposition value of a property transferred under this section, which shall take into consideration such factors as the Corporation considers appropriate, including the actual sale prices of properties disposed of by the Resolution Trust Corporation under section 1441a(c) of this title, the prices of other properties sold under similar programs, and the appraised value of the property transferred under this section. Until such procedures are established, the Corporation may consider the realizable disposition value of any eligible residential or condominium property to be equal to the appraised value of the property.
+&emsp;&emsp;&emsp;The term “realizable disposition value” means the estimated sale price that the Corporation reasonably would be able to obtain upon the sale of a property by the Corporation under the provisions of this chapter, not including this section, and any other applicable laws. Not later than the expiration of the 120-day period beginning upon the commencement of the first fiscal year for which amounts are provided pursuant to paragraph (2)(A), the Corporation shall establish, and publish in the Federal Register, procedures for determining the realizable disposition value of a property transferred under this section, which shall take into consideration such factors as the Corporation considers appropriate, including the actual sale prices of properties disposed of by the Resolution Trust Corporation under section 1441a(c) of this title, the prices of other properties sold under similar programs, and the appraised value of the property transferred under this section. Until such procedures are established, the Corporation may consider the realizable disposition value of any eligible residential or condominium property to be equal to the appraised value of the property.
 
 #### (3) Existing contracts
 
@@ -182,15 +182,15 @@ The purpose of this section is to provide homeownership and rental housing oppor
 
 #### (A) Sale price
 
-&emsp;&emsp;The Corporation shall establish a market value for each eligible multifamily housing property. The Corporation shall sell eligible multifamily housing property at the net realizable market value, except that the Corporation may agree to sell eligible multifamily housing property at a price below the net realizable market value to the extentnecessary to facilitate an expedited sale of such property and enable a public agency or nonprofit organization to comply with the low-income occupancy requirements applicable to such property under subsection (d)(7) of this section. The Corporation may sell eligible single family property or eligible condominium property to qualifying households, nonprofit organizations, and public agencies without regard to any minimum sale price.
+&emsp;&emsp;The Corporation shall establish a market value for each eligible multifamily housing property. The Corporation shall sell eligible multifamily housing property at the net realizable market value, except that the Corporation may agree to sell eligible multifamily housing property at a price below the net realizable market value to the extent necessary to facilitate an expedited sale of such property and enable a public agency or nonprofit organization to comply with the low-income occupancy requirements applicable to such property under subsection (d)(7) of this section. The Corporation may sell eligible single family property or eligible condominium property to qualifying households, nonprofit organizations, and public agencies without regard to any minimum sale price.
 
 #### (B) Purchase loan
 
-&emsp;&emsp;The Corporation may provide a loan at market interest rates to any purchaser of eligible residential property for all or a portion of the purchase price, which loan shall be secured by a first or second mortgage on the property. The Corporation may provide the loan at below market interest rates to the extent necessary to facilitate an expedited sale of eligible residential property and permit (i) a low-income family to purchase an eligible single family property under subsection (c) of this section, or (ii) a public agency or nonprofit organization to comply with the low-income occupancy requirements applicable to the purchase of an eligible residential property under subsection (c) or (d) of this section. The Corporation shall provide loans under this subparagraph in a form permitting sale or transfer of the loan to a subsequent holder. In providing financing for combinations of eligible multifamily housing properties under this section, the Corporation may hold a participating share, including a subordinate participation. The Corporation shall periodically provide, to a wide range of minority- and women-owned businesses engaged in providing affordable housing and to nonprofit organizations, more than 50 percent of the control of which is held by 1 or more minority individuals, that are engaged in providing affordable housing, information that is sufficient to inform such businesses and organizations of the availability and terms of financing under this subparagraph; such information may be provided directly, by notices published in periodicals and other publications that regularly provide information to such businesses or organizations, and through persons and organizations that regularly provide information or services to such businesses or organizations. For purposes of this subparagraph, the terms “women-owned business” and “minority-owned business” have the meanings given such terms in section 1441a(r) of this title, and the term “minority” has the meaning given such term in section 1204(c)(3) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989.
+&emsp;&emsp;The Corporation may provide a loan at market interest rates to any purchaser of eligible residential property for all or a portion of the purchase price, which loan shall be secured by a first or second mortgage on the property. The Corporation may provide the loan at below market interest rates to the extent necessary to facilitate an expedited sale of eligible residential property and permit (i) a low-income family to purchase an eligible single family property under subsection (c) of this section, or (ii) a public agency or nonprofit organization to comply with the low-income occupancy requirements applicable to the purchase of an eligible residential property under subsection (c) or (d) of this section. The Corporation shall provide loans under this subparagraph in a form permitting sale or transfer of the loan to a subsequent holder. In providing financing for combinations of eligible multifamily housing properties under this section, the Corporation may hold a participating share, including a subordinate participation. The Corporation shall periodically provide, to a wide range of minority- and women-owned businesses engaged in providing affordable housing and to nonprofit organizations, more than 50 percent of the control of which is held by 1 or more minority individuals, that are engaged in providing affordable housing, information that is sufficient to inform such businesses and organizations of the availability and terms of financing under this subparagraph; such information may be provided directly, by notices published in periodicals and other publications that regularly provide information to such businesses or organizations, and through persons and organizations that regularly provide information or services to such businesses or organizations. For purposes of this subparagraph, the terms “women-owned business” and “minority-owned business”have the meanings given such terms in section 1441a(r) of this title, and the term “minority” has the meaning given such term in section 1204(c)(3) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989.
 
 #### (2) Assistance by HUD
 
-&emsp;The Secretary shall take such action as may be necessary to expedite the processing of applications for assistance under section 202 of the Housing Act of 1959 \[12 U.S.C. 1701q\], the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\], title IV of the Stewart B. McKinney Homeless Assistance Act \[42 U.S.C. 11361 et seq.\], and the National Housing Act \[12 U.S.C. 1701 et seq.\], to enable any organization or individual to purchase eligible residential property.
+&emsp;The Secretary shall take such action as may be necessary to expedite the processing of applications for assistance under section 202 of the Housing Act of 1959 \[12 U.S.C. 1701q\], the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\], title IV of the McKinney-Vento Homeless Assistance Act \[42 U.S.C. 11361 et seq.\], and the National Housing Act \[12 U.S.C. 1701 et seq.\], to enable any organization or individual to purchase eligible residential property.
 
 #### (3) Assistance by FMHA
 
@@ -224,7 +224,7 @@ The purpose of this section is to provide homeownership and rental housing oppor
 
 #### (A) In general
 
-&emsp;&emsp;With respect to such properties, the Secretary may, consistent with statutory authorities, work through the Federal Housing Administration, the Government National Mortgage Association, the Federal NationalMortgage Association, the Federal Home Loan Mortgage Corporation, and other secondary market entities to develop risk-sharing structures, mortgage insurance, and other credit enhancements to assist in the provision of property ownership, rental, and cooperative housing opportunities for low- and moderate-income families.
+&emsp;&emsp;With respect to such properties, the Secretary may, consistent with statutory authorities, work through the Federal Housing Administration, the Government National Mortgage Association, the Federal National Mortgage Association, the Federal Home Loan Mortgage Corporation, and other secondary market entities to develop risk-sharing structures, mortgage insurance, and other credit enhancements to assist in the provision of property ownership, rental, and cooperative housing opportunities for low- and moderate-income families.
 
 #### (B) Certain tax-exempt bonds
 
@@ -322,7 +322,7 @@ Notwithstanding subsections (c), (d), (f), and (g) of this section, the Corporat
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), any nonprofit organization, public agency, or for-profit entity that purchases an eligible condominium property shall (i) make the property available for occupancy by and maintain it as affordable for low-income families for the remaining useful life of the property, or (ii) make the property available for purchase by any such family who, except as provided in paragraph (5), agrees to occupy the property as a principal residence for at least 12 months and certifies in writing that the family intends to occupy the property for at least 12 months. The restriction described in clause (i) of the preceding sentence shall be contained in the deed or other recorded instrument.
+&emsp;&emsp;Except as provided in subparagraph (B), any nonprofit organization, public agency, or for-profit entity that purchases an eligible condominium property shall (i) make the property available for occupancy by and maintain it as affordable for low-income families for the remaining useful life of the property, or (ii) make the property availablefor purchase by any such family who, except as provided in paragraph (5), agrees to occupy the property as a principal residence for at least 12 months and certifies in writing that the family intends to occupy the property for at least 12 months. The restriction described in clause (i) of the preceding sentence shall be contained in the deed or other recorded instrument.
 
 #### (B) Multiple-unit purchases
 
@@ -496,7 +496,7 @@ For purposes of this section:
 
 &emsp;&emsp;(B) a nonprofit organization; or
 
-&emsp;&emsp;(C) a for-profit entity, which makes a commitment (for itself or any related entity) to comply with the low-income occupancy requirements under subsection (d)(7) of thissection for any eligible multifamily housing property for which an offer to purchase is made during or after the periods specified under subsection (d) of this section.
+&emsp;&emsp;(C) a for-profit entity, which makes a commitment (for itself or any related entity) to comply with the low-income occupancy requirements under subsection (d)(7) of this section for any eligible multifamily housing property for which an offer to purchase is made during or after the periods specified under subsection (d) of this section.
 
 #### (14) Secretary
 
@@ -544,7 +544,7 @@ For purposes of this section:
 
 &emsp;&emsp;The term “ineligible residential property” includes ineligible single family properties, ineligible multifamily housing properties, and ineligible condominium properties.
 
-(Sept. 21, 1950, ch. 967, §2\[40\], as added Pub. L. 102–242, title II, §241(a), Dec. 19, 1991, 105 Stat. 2317; amended Pub. L. 102–389, title II, Oct. 6, 1992, 106 Stat. 1592, 1593; Pub. L. 102–550, title V, §503(c)(4), Oct. 28, 1992, 106 Stat. 3780; Pub. L. 103–204, §§13, 14(a)(2), (d)(2), (e)(2), (f)(2), Dec. 17, 1993, 107 Stat. 2391, 2393, 2396, 2398; Pub. L. 103–325, title VI, §602(a)(65), (66), Sept. 23, 1994, 108 Stat. 2291.)
+(Sept. 21, 1950, ch. 967, §2\[40\], as added Pub. L. 102–242, title II, §241(a), Dec. 19, 1991, 105 Stat. 2317; amended Pub. L. 102–389, title II, Oct. 6, 1992, 106 Stat. 1592, 1593; Pub. L. 102–550, title V, §503(c)(4), Oct. 28, 1992, 106 Stat. 3780; Pub. L. 103–204, §§13, 14(a)(2), (d)(2), (e)(2), (f)(2), Dec. 17, 1993, 107 Stat. 2391, 2393, 2396, 2398; Pub. L. 103–325, title VI, §602(a)(65), (66), Sept. 23, 1994, 108 Stat. 2291; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675.)
 
 #### References in Text
 
@@ -552,7 +552,7 @@ Section 1204(c)(3) of the Financial Institutions Reform, Recovery, and Enforceme
 
 The United States Housing Act of 1937, referred to in subsec. (g)(2), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
 
-The Stewart B. McKinney Homeless Assistance Act, referred to in subsec. (g)(2), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended. Title IV of the Act is classified principally to subchapter IV (§11361 et seq.) of chapter 119 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
+The McKinney-Vento Homeless Assistance Act, referred to in subsec. (g)(2), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended. Title IV of the Act is classified principally to subchapter IV (§11361 et seq.) of chapter 119 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
 
 The National Housing Act, referred to in subsec. (g)(2), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to chapter 13 (§1701 et seq.) of this title. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
 
@@ -569,6 +569,8 @@ The Housing and Community Development Act of 1968, referred to in subsec. (p)(2)
 Another section 2\[40\] of act Sept. 21, 1950, was renumbered section 2\[43\] and is classified to section 1831t of this title.
 
 #### Amendments
+
+2000—Subsec. (g)(2). Pub. L. 106–400 substituted “McKinney-Vento Homeless Assistance Act” for “Stewart B. McKinney Homeless Assistance Act”.
 
 1994—Subsec. (c)(4)(A). Pub. L. 103–325, §602(a)(65), substituted “subparagraphs (B) and (C) of subsection (p)(12) of this section” for “subsections (p)(12)(B) and (C) of this section”.
 
@@ -626,7 +628,7 @@ Terms of initial appointees.—
 
 &emsp;“(A)
 
-Permanent positions.—As designated by the Secretary of Housing and Urban Development at thetime of appointment, of the members first appointed under paragraph (2)(D)—
+Permanent positions.—As designated by the Secretary of Housing and Urban Development at the time of appointment, of the members first appointed under paragraph (2)(D)—
 
 &emsp;&emsp;“(i) 1 shall be appointed for a term of 1 year;
 
@@ -676,5 +678,5 @@ Section 241(b) of Pub. L. 102–242, as amended by Pub. L. 102–550, title XVI,
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1441a, 1701q, 1821 of this title; title 15 section 2227.
+This section is referred to in sections 1441a, 1821 of this title; title 15 section 2227.
 

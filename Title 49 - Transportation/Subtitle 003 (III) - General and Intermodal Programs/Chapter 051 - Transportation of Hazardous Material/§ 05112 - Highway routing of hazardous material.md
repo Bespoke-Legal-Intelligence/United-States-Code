@@ -26,7 +26,7 @@ Standards for States and Indian Tribes.—(1) The Secretary, in consultation wit
 
 &emsp;(D) a requirement that a highway routing designation, limitation, or requirement of a State or Indian tribe shall ensure through highway routing for the transportation of hazardous material between adjacent areas;
 
-&emsp;(E) a requirement that a highway routing designation, limitation, or requirement of one State or Indian tribe affecting the transportation of hazardous material in another State or tribe may be established, maintained, and enforced by the State or tribe establishing the designation, limitation, or requirement only if—
+&emsp;(E) a requirement that a highway routing designation, limitation, or requirement of one State or Indian tribe affecting the transportation of hazardous material in another Stateor tribe may be established, maintained, and enforced by the State or tribe establishing the designation, limitation, or requirement only if—
 
 &emsp;&emsp;(i) the designation, limitation, or requirement is agreed to by the other State or tribe within a reasonable period or is approved by the Secretary under subsection (d) of this section; and
 

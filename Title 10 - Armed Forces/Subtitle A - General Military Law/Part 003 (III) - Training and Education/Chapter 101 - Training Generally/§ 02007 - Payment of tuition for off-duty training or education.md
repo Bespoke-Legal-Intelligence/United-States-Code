@@ -1,16 +1,8 @@
 ### §2007. Payment of tuition for off-duty training or education
 
-(a) The Secretary of a military department may not pay more than 75 percent of the charges of an educational institution for the tuition or expenses of a member of the armed forces enrolled in such institution for education or training during his off-duty periods, except that—
+(a) Subject to subsection (b), the Secretary of a military department may pay all or a portion of the charges of an educational institution for the tuition or expenses of a member of the armed forces enrolled in such educational institution for education or training during the member's off-duty periods.
 
-&emsp;(1) in the case of an enlisted member in the pay grade of E–5 or higher with less than 14 years’ service, not more than 90 percent of the charges may be paid;
-
-&emsp;(2) in the case of a member enrolled in a high school completion program, all of the charges may be paid;
-
-&emsp;(3) in the case of a commissioned officer on active duty, no part of the charges may be paid unless the officer agrees to remain on active duty for a period of at least two years after the completion of the training or education; and
-
-&emsp;(4) in the case of a member serving in a contingency operation or similar operational mission (other than for training) designated by the Secretary concerned, all of the charges may be paid.
-
-(b) The limitation in subsection (a) does not apply to the Program for Afloat College Education.
+(b) In the case of a commissioned officer on active duty, the Secretary of the military department concerned may not pay charges under subsection (a) unless the officer agrees to remain on active duty for a period of at least two years after the completion of the training or education for which the charges are paid.
 
 (c)(1) Subject to paragraphs (2) and (3), the Secretary of the Army may pay not more than 75 percent of the charges of an educational institution for the tuition or expenses of an officer in the Selected Reserve of the Army National Guard or the Army Reserve for education or training of such officer in a program leading to a baccalaureate degree.
 
@@ -22,15 +14,19 @@
 
 &emsp;(B) for an officer on active duty or full-time National Guard duty.
 
-(d) Subsection (c)(3) may not be construed to prohibit the Secretary of a military department from exercising any authority that the Secretary may have to pay charges of an educational institution (within the limits set forth in subsection (a)) in the case of—
+(d) Subsection (c)(3) may not be construed to prohibit the Secretary of a military department from exercising any authority that the Secretary may have to pay charges of an educational institution in the case of—
 
 &emsp;(1) a warrant officer on active duty or full-time National Guard duty;
 
 &emsp;(2) a commissioned officer on full-time National Guard duty; or
 
-&emsp;(3) a commissioned officer on active duty who satisfies the condition in subsection (a)(3) relating to an agreement to remain on active duty.
+&emsp;(3) a commissioned officer on active duty who satisfies the condition in subsection (b) relating to an agreement to remain on active duty.
 
-(Added Pub. L. 98–525, title XIV, §1401(g)(1), Oct. 19, 1984, 98 Stat. 2618; amended Pub. L. 99–661, div. A, title VI, §651(a), Nov. 14, 1986, 100 Stat. 3887; Pub. L. 100–26, §3(4), Apr. 21, 1987, 101 Stat. 273; Pub. L. 101–510, div. A, title XIV, §1484(i)(4)(A), Nov. 5, 1990, 104 Stat. 1718; Pub. L. 103–160, div. A, title VI, §632, Nov. 30, 1993, 107 Stat. 1684; Pub. L. 106–65, div. A, title VI, §675, Oct. 5, 1999, 113 Stat. 675.)
+(e)(1) A member of the armed forces who is entitled to basic educational assistance under chapter 30 of title 38 may use such entitlement for purposes of paying any portion of the charges described in subsection (a) or (c) that are not paid for by the Secretary of the military department concerned under such subsection.
+
+(2) The use of entitlement under paragraph (1) shall be governed by the provisions of section 3014(b) of title 38.
+
+(Added Pub. L. 98–525, title XIV, §1401(g)(1), Oct. 19, 1984, 98 Stat. 2618; amended Pub. L. 99–661, div. A, title VI, §651(a), Nov. 14, 1986, 100 Stat. 3887; Pub. L. 100–26, §3(4), Apr. 21, 1987, 101 Stat. 273; Pub. L. 101–510, div. A, title XIV, §1484(i)(4)(A), Nov. 5, 1990, 104 Stat. 1718; Pub. L. 103–160, div. A, title VI, §632, Nov. 30, 1993, 107 Stat. 1684; Pub. L. 106–65, div. A, title VI, §675, Oct. 5, 1999, 113 Stat. 675; Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1602(a), (b)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–358, 1654A–359.)
 
 #### Prior Provisions
 
@@ -99,6 +95,24 @@ July 13, 1955, ch. 358, title VI, §628, 69 Stat. 320.
 June 30, 1954, ch. 432, title VII, §730, 68 Stat. 355.
 
 #### Amendments
+
+2000—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1602(a)(1)\], added subsec. (a) and struck out former subsec. (a) which read as follows: “The Secretary of a military department may not pay more than 75 percent of the charges of an educational institution for the tuition or expenses of a member of the armed forces enrolled in such institution for education or training during his off-duty periods, except that—
+
+&emsp;“(1) in the case of an enlisted member in the pay grade of E–5 or higher with less than 14 years’ service, not more than 90 percent of the charges may be paid;
+
+&emsp;“(2) in the case of a member enrolled in a high school completion program, all of the charges may be paid;
+
+&emsp;“(3) in the case of a commissioned officer on active duty, no part of the charges may be paid unless the officer agrees to remain on active duty for a period of at least two years after the completion of the training or education; and
+
+&emsp;“(4) in the case of a member serving in a contingency operation or similar operational mission (other than for training) designated by the Secretary concerned, all of the charges may be paid.”
+
+Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1602(a)(1)\], added subsec. (b) and struck out former subsec. (b) which read as follows: “The limitation in subsection (a) does not apply to the Program for Afloat College Education.”
+
+Subsec. (d). Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1602(a)(2)(A)\], struck out “(within the limits set forth in subsection (a))” after “educational institution” in introductory provisions.
+
+Subsec. (d)(3). Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1602(a)(2)(B)\], substituted “subsection (b)” for “subsection (a)(3)”.
+
+Subsec. (e). Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1602(b)(1)\], added subsec. (e).
 
 1999—Subsec. (a)(4). Pub. L. 106–65 added par. (4).
 

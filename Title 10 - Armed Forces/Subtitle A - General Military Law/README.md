@@ -51,6 +51,7 @@
 | [<b>53.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20053%20-%20Miscellaneous%20Rights%20and%20Benefits/README.md) | <b>Miscellaneous Rights and Benefits</b> | <b>1031</b> |
 | [<b>54.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20054%20-%20Commissary%20and%20Exchange%20Benefits/README.md) | <b>Commissary and Exchange Benefits</b> | <b>1061</b> |
 | [<b>55.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20055%20-%20Medical%20and%20Dental%20Care/README.md) | <b>Medical and Dental Care</b> | <b>1071</b> |
+| [<b>56.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20056%20-%20Department%20of%20Defense%20Medicare-Eligible%20Retiree%20Health%20Care%20Fund/README.md) | <b>Department of Defense Medicare-Eligible Retiree Health Care Fund</b> | <b>1111</b> |
 | [<b>57.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20057%20-%20Decorations%20and%20Awards/README.md) | <b>Decorations and Awards</b> | <b>1121</b> |
 | [<b>58.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20058%20-%20Benefits%20and%20Services%20for%20Members%20Being%20Separated%20or%20Recently%20Separated/README.md) | <b>Benefits and Services for Members Being Separated or Recently Separated</b> | <b>1141</b> |
 | [<b>59.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20059%20-%20Separation/README.md) | <b>Separation</b> | <b>1161</b> |
@@ -92,6 +93,7 @@
 | [<b>109.</b>](Part%20003%20%28III%29%20-%20Training%20and%20Education/Chapter%20109%20-%20Educational%20Loan%20Repayment%20Programs/README.md) | <b>Educational Loan Repayment Programs</b> | <b>2171</b> |
 | [<b>110.</b>](Part%20003%20%28III%29%20-%20Training%20and%20Education/Chapter%20110%20-%20Educational%20Assistance%20for%20Members%20Held%20as%20Captives%20and%20Their%20Dependents/README.md) | <b>Educational Assistance for Members Held as Captives and Their Dependents</b> | <b>2181</b> |
 | [<b>111.</b>](Part%20003%20%28III%29%20-%20Training%20and%20Education/Chapter%20111%20-%20Support%20of%20Science%2C%20Mathematics%2C%20and%20Engineering%20Education/README.md) | <b>Support of Science, Mathematics, and Engineering Education</b> | <b>2191</b> |
+| [<b>112.</b>](Part%20003%20%28III%29%20-%20Training%20and%20Education/Chapter%20112%20-%20Information%20Security%20Scholarship%20Program/README.md) | <b>Information Security Scholarship Program</b> | <b>2200</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -136,6 +138,8 @@
 
 #### Amendments
 
+2000—Pub. L. 106–398, §1 \[\[div. A\], title VII, §713(a)(2), title IX, §922(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–184, 1654A–236, added items for chapters 56 and 112.
+
 1999—Pub. L. 106–65, div. A, title V, §586(c)(1), title VII, §721(c)(2), Oct. 5, 1999, 113 Stat. 638, 694, added item for chapter 50 and substituted “Deceased Personnel” for “Death Benefits” and “1471” for “1475” in item for chapter 75.
 
 1997—Pub. L. 105–85, div. A, title III, §§355(c)(2), 371(a)(2), (c)(5), title V, §591(a)(2), title X, §§1073(a)(1), (2), 1074(d)(2), Nov. 18, 1997, 111 Stat. 1694, 1705, 1762, 1900, 1910, substituted “481” for “471” in item for chapter 23, added items for chapters 80 and 136, and substituted “2460” for “2461” in item for chapter 146, “Commissaries and Exchanges and Other Morale, Welfare, and Recreation Activities” for “Utilities and Services” in item for chapter 147, “2500” for “2491” in item for chapter 148, and “2541” for “2540” in item for chapter 152.
@@ -164,7 +168,7 @@ Pub. L. 102–25, title VII, §701(e)(1), (2), Apr. 6, 1991, 105 Stat. 114, adde
 
 1989—Pub. L. 101–189, div. A, title VIII, §843(d)(2), title IX, §931(e)(2), title XVI, §1622(d)(2), Nov. 29, 1989, 103 Stat. 1517, 1535, 1605, substituted “Training and Education” for “Training” in item for part III, added item for chapter 111, and substituted “Cooperative Agreements” for “Acquisition and Cross-Servicing Agreements” in item for chapter 138.
 
-1988—Pub. L. 100–456, div. A, title III, §§342(a)(2), 344(b)(2), title VIII, §821(b)(2), title XI, §1104(b), Sept. 29, 1988, 102 Stat. 1961, 1962, 2016, 2046, substituted “Support for” for “Cooperation With” and “Agencies” for “Officials” in item for chapter 18, substituted “Defense Industrial Base” for “Buy American Requirements” in item for chapter 148, substituted “Property Records and Report of Theft or Loss of Certain Property” for “Property Records” in item for chapter 161, and added item for chapter 171.
+1988—Pub. L. 100–456, div. A, title III, §§342(a)(2), 344(b)(2), title VIII, §821(b)(2), title XI, §1104(b), Sept. 29, 1988, 102 Stat. 1961, 1962, 2016, 2046, substituted “Supportfor” for “Cooperation With” and “Agencies” for “Officials” in item for chapter 18, substituted “Defense Industrial Base” for “Buy American Requirements” in item for chapter 148, substituted “Property Records and Report of Theft or Loss of Certain Property” for “Property Records” in item for chapter 161, and added item for chapter 171.
 
 Pub. L. 100–370, §§1(c)(3), (e)(2), 2(a)(2), 3(a)(2), July 19, 1988, 102 Stat. 841, 845, 854, 855, added items for chapters 54, 134, 146, and 148.
 

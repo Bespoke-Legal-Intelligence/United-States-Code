@@ -6,11 +6,7 @@ The Director of the National Park Service is authorized to grant permission to t
 
 #### References in Text
 
-Section 86 of this title, referred to in text, was omitted from the Code. See D.C. Code, §8–147.
-
-#### Codification
-
-Section is also set out in D.C. Code, §8–150.
+Section 86 of this title, referred to in text, was omitted from the Code.
 
 #### Transfer of Functions
 

@@ -12,7 +12,7 @@
 
 (1) The Comptroller General of the United States shall evaluate the expenditures by States of funds received under this chapter in order to assure that expenditures are consistent with the provisions of this chapter and to determine the effectiveness of the State in accomplishing the purposes of this chapter. The Comptroller General shall conduct evaluations whenever determined necessary and shall periodically report to the Congress on the findings of such evaluations.
 
-(2) Nothing in this chapter shall be deemed to relieve the Inspector General of the Departmentof Labor of his responsibilities under the Inspector General Act.
+(2) Nothing in this chapter shall be deemed to relieve the Inspector General of the Department of Labor of his responsibilities under the Inspector General Act.
 
 (3) For the purpose of evaluating and reviewing programs established or provided for by this chapter, the Comptroller General shall have access to and the right to copy any books, accounts, records, correspondence, or other documents pertinent to such programs that are in the possession, custody, or control of the State.
 
@@ -33,6 +33,10 @@ The Inspector General Act, referred to in subsec. (b)(2), probably means the Ins
 #### Effective Date of 1982 Amendment
 
 Amendment by Pub. L. 97–300 effective Oct. 1, 1983, but with Secretary authorized to use funds appropriated for fiscal 1983 to plan for orderly implementation of amendment, see section 181(i) of Pub. L. 97–300, which was formerly classified to section 1591(i) of this title.
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsec. (b)(1) of this section is listed on page 8), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 
 #### Section Referred to in Other Sections
 

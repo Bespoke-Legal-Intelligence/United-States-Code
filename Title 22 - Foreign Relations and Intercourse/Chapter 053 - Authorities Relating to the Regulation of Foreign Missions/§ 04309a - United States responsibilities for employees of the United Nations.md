@@ -40,10 +40,6 @@ For purposes of this section, the term “United Nations Headquarters District�
 
 Public Law 80–357, referred to in subsec. (a)(1), is act Aug. 4, 1947, ch. 482, 61 Stat. 756, which is set out as a note under section 287 of this title.
 
-#### Codification
-
-Section is also set out in D.C. Code, §5–1209.1.
-
 #### Amendments
 
 1994—Subsec. (b)(2). Pub. L. 103–236 struck out par. (2) which read as follows: “The Secretary shall apply to those employees of the United Nations Secretariat who are nationals of a foreign country or members of a foreign mission all terms, limitations, restrictions, and conditions which are applicable pursuant to this chapter to the members of that country's mission or of any other mission to the United Nations unless the Secretary determines and reports to the Congress that national security and foreign policy circumstances require that this paragraph be waived in specific circumstances.”

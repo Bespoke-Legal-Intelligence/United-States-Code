@@ -20,7 +20,3 @@ Punishment provision was rephrased in the alternative.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $300”.
 
-#### Cross References
-
-Extradition of fugitives, see section 3181 et seq. of this title.
-

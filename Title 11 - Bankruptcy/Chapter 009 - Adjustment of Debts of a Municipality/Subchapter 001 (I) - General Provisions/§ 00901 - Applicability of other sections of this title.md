@@ -2,7 +2,7 @@
 
 (a) Sections 301, 344, 347(b), 349, 350(b), 361, 362, 364(c), 364(d), 364(e), 364(f), 365, 366, 501, 502, 503, 504, 506, 507(a)(1), 509, 510, 524(a)(1), 524(a)(2), 544, 545, 546, 547, 548, 549(a), 549(c), 549(d), 550, 551, 552, 553, 557, 1102, 1103, 1109, 1111(b), 1122, 1123(a)(1), 1123(a)(2), 1123(a)(3), 1123(a)(4), 1123(a)(5), 1123(b), 1124, 1125, 1126(a), 1126(b), 1126(c), 1126(e), 1126(f), 1126(g), 1127(d), 1128, 1129(a)(2), 1129(a)(3), 1129(a)(6), 1129(a)(8), 1129(a)(10), 1129(b)(1), 1129(b)(2)(A), 1129(b)(2)(B), 1142(b), 1143, 1144, and 1145 of this title apply in a case under this chapter.
 
-(b) A term used in a section of this title made applicable in a case under this chapter by subsection (a) of this section or section 103(e) of this title has the meaning defined for such term for the purpose of such applicable section, unless such term is otherwise defined in section 902 of this title.
+(b) A term used in a section of this title made applicable in a case under this chapter by subsection (a) of this section or section 103(e) <sup>1</sup> of this title has the meaning defined for such term for the purpose of such applicable section, unless such term is otherwise defined in section 902 of this title.
 
 (c) A section made applicable in a case under this chapter by subsection (a) of this section that is operative if the business of the debtor is authorized to be operated is operative in a case under this chapter.
 
@@ -16,7 +16,7 @@ Chapter 9 of the House amendment represents a compromise between chapter 9 of th
 
 #### house report no. 95–595
 
-Section 901 makes applicable appropriate provisions of other chapters of proposed title 11. The general rule set out in section 103(e) is that only the provisions of chapters 1 and 9 apply in a chapter 9 case. Section 901 is the exception, and specifies other provisions that do apply. They are as follows:
+Section 901 makes applicable appropriate provisions of other chapters of proposed title 11. The general rule set out in section 103(e) is that only the provisions of chapters 1 and 9 apply in a chapter 9 case. Section 901is the exception, and specifies other provisions that do apply. They are as follows:
 
 <i>§301. Voluntary cases</i>. Application of this section makes clear, as under current chapter IX \[chapter 9 of former title 11\], that a municipal case can be commenced only by the municipality itself. There are no involuntary chapter 9 cases.
 
@@ -84,6 +84,10 @@ Section 901 makes applicable appropriate provisions of other chapters of propose
 
 <i>§1144. Revocation of order of confirmation</i>. This section permits the court to revoke the order of confirmation and the discharge if the confirmation of the plan was procured by fraud. There is no comparable provision in current chapter IX \[chapter 9 of former title 11\].
 
+#### References in Text
+
+Section 103(e) of this title, referred to in subsec. (b), was redesignated section 103(f) and a new section 103(e) was added by Pub. L. 106–554, §1(a)(5) \[title I, §112(c)(5)(A)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–394.
+
 #### Amendments
 
 1988—Subsec. (a). Pub. L. 100–597 inserted “1129(a)(6),” after “1129(a)(3),”.
@@ -101,4 +105,6 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 103, 106, 902, 943 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

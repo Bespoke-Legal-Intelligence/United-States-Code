@@ -2,7 +2,7 @@
 
 #### (a) Withdrawal of American sovereignty
 
-On the 4th day of July immediately following the expiration of a period of ten years from the date of the inauguration of the new government under the constitution provided for in this Act, the President of the United States shall by proclamation withdraw and surrender all right of possession, supervision, jurisdiction, control, or sovereignty then existing and exercised by the United States in and over the territory and people of the Philippine Islands, including all military and other reservations of the Government of the United States in the Philippines (except such naval reservations and fueling stations as are reserved under section 1391 of this title), and, on behalf of the United States, shall recognize the independence of the Philippine Islands as a separate and self-governing nation and acknowledge the authority and control over the same of the government instituted by the people thereof, under the constitution then in force.
+On the 4th day of July immediately following the expiration of a period of ten years from thedate of the inauguration of the new government under the constitution provided for in this Act, the President of the United States shall by proclamation withdraw and surrender all right of possession, supervision, jurisdiction, control, or sovereignty then existing and exercised by the United States in and over the territory and people of the Philippine Islands, including all military and other reservations of the Government of the United States in the Philippines (except such naval reservations and fueling stations as are reserved under section 1391 of this title), and, on behalf of the United States, shall recognize the independence of the Philippine Islands as a separate and self-governing nation and acknowledge the authority and control over the same of the government instituted by the people thereof, under the constitution then in force.
 
 #### (b) Naval reservations and fueling stations
 
@@ -47,10 +47,6 @@ Proc. No. 2695, July 4, 1946, 11 F.R. 7517, 60 Stat. 1352, provided:
 The United States of America hereby withdraws and surrenders all rights of possession, supervision, jurisdiction, control, or sovereignty now existing and exercised by the United States of America in and over the territory and people of the Philippines; and,
 
 On behalf of the United States of America, I do hereby recognize the independence of the Philippines as a separate and self-governing nation and acknowledge the authority and control over the same of the government instituted by the people thereof, under the constitution now in force.
-
-#### Cross References
-
-Trade relations between United States and Philippines after independence, see sections 1354 to 1358, 1360 of this title.
 
 #### Section Referred to in Other Sections
 

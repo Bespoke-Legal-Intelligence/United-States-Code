@@ -14,15 +14,13 @@
 
 > is entitled to be paid the lump-sum credit. Except as provided in section 8420a, payment of the lump-sum credit to an employee or Member voids all annuity rights under this subchapter, and subchapters IV and V of this chapter, based on the service on which the lump-sum credit is based.
 
-(b)(1) Payment of the lump-sum credit under subsection (a)—
+(b)(1)(A) Payment of the lump-sum credit under subsection (a) may be made only if the spouse, if any, and any former spouse of the employee or Member are notified of the employee or Member's application.
 
-&emsp;(A) may be made only if any current spouse and any former spouse of the employee or Member are notified of the application by the employee or Member; and
+(B) The Office shall prescribe regulations under which the lump-sum credit shall not be paid without the consent of a spouse or former spouse of the employee or Member where the Office has received such additional information or documentation as the Office may require that—
 
-&emsp;(B) in any case in which there is a former spouse, shall be subject to the terms of a court decree of divorce, annulment, or legal separation issued with respect to such former spouse if—
+&emsp;(i) a court order bars payment of the lump-sum credit in order to preserve the court's ability to award an annuity under section 8445 or 8467; or
 
-&emsp;&emsp;(i) the decree expressly relates to any portion of the lump-sum credit involved; and
-
-&emsp;&emsp;(ii) payment of the lump-sum credit would affect any right or interest of the former spouse with respect to a survivor annuity under section 8445, or to any portion of an annuity under section 8467.
+&emsp;(ii) payment of the lump-sum credit would extinguish the entitlement of the spouse or former spouse, under a court order on file with the Office, to a survivor annuity under section 8445 or to any portion of an annuity under section 8467.
 
 (2)(A) Notification of a spouse or former spouse under this subsection shall be made in accordance with such requirements as the Office shall by regulation prescribe.
 
@@ -66,7 +64,19 @@
 
 &emsp;Second, if there is no executor or administrator, payment may be made, after 30 days from the date of death of the survivor, to such next of kin of the survivor as the Office determines to be entitled under the laws of the domicile of the survivor at the date of death.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 539.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 539; amended Pub. L. 106–361, §3(b), Oct. 27, 2000, 114 Stat. 1402.)
+
+#### Amendments
+
+2000—Subsec. (b)(1). Pub. L. 106–361 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Payment of the lump-sum credit under subsection (a)—
+
+&emsp;“(A) may be made only if any current spouse and any former spouse of the employee or Member are notified of the application by the employee or Member; and
+
+&emsp;“(B) in any case in which there is a former spouse, shall be subject to the terms of a court decree of divorce, annulment, or legal separation issued with respect to such former spouse if—
+
+&emsp;&emsp;“(i) the decree expressly relates to any portion of the lump-sum credit involved; and
+
+&emsp;&emsp;“(ii) payment of the lump-sum credit would affect any right or interest of the former spouse with respect to a survivor annuity under section 8445, or to any portion of an annuity under section 8467.”
 
 #### Section Referred to in Other Sections
 

@@ -14,7 +14,7 @@ For purposes of this subchapter—
 
 &emsp;(6) The term “information services”—
 
-&emsp;&emsp;(A) means the offering of a capability for generating, acquiring, storing, transforming,processing, retrieving, utilizing, or making available information via telecommunications; and
+&emsp;&emsp;(A) means the offering of a capability for generating, acquiring, storing, transforming, processing, retrieving, utilizing, or making available information via telecommunications; and
 
 &emsp;&emsp;(B) includes—
 
@@ -30,7 +30,7 @@ For purposes of this subchapter—
 
 &emsp;(8) The term “telecommunications carrier”—
 
-&emsp;&emsp;(A) means a person or entity engaged in the transmission or switching of wire or electronic communications as a common carrier for hire; and
+&emsp;&emsp;(A) means a person or entity engaged in the transmission or switching of wire orelectronic communications as a common carrier for hire; and
 
 &emsp;&emsp;(B) includes—
 

@@ -120,7 +120,7 @@
 
 #### (B) Set-aside for farms with no quota
 
-&emsp;&emsp;Not more than 25 percent of the total amount of farm poundage quota to be allocated in the State under subparagraph (A) shall be allocated to farms in the State for which no farm poundage quota was established for the immediately preceding year's crop. The allocation to any such farm shall not exceed the average farm production of peanuts for the 3 immediately preceding years during which peanuts were produced on the farm.
+&emsp;&emsp;Not more than 25 percent of the total amount of farm poundage quota to be allocated in the State under subparagraph (A) shall be allocated to farms in the State for which no farm poundage quota was established for the immediately preceding year's crop. The allocation to any such farm shall not exceed the average farm production of peanuts for the 3 immediately precedingyears during which peanuts were produced on the farm.
 
 #### (C) Allocation of quotas reduced or released in Texas
 
@@ -188,7 +188,7 @@
 
 #### (3) Appraised yields
 
-&emsp;If peanuts were not produced on the farm in at least 3 years during the 5-year period or there was a substantial change in the operation of the farm during the period (including a change in operator, lessee who is an operator, or irrigation practices), the Secretary shall have a yield appraised for the farm. The appraised yield shall be that quantity determined to be fair and reasonable on the basis of yields established for similar farms that are located in the area of the farm and on which peanuts were produced, taking into consideration land, labor, and equipment available for the production of peanuts, crop rotation practices, soil and water, and other relevant factors.
+&emsp;If peanuts were not produced on the farm in at least 3 years during the 5-year period or there was a substantial change in the operation of the farm during the period (includinga change in operator, lessee who is an operator, or irrigation practices), the Secretary shall have a yield appraised for the farm. The appraised yield shall be that quantity determined to be fair and reasonable on the basis of yields established for similar farms that are located in the area of the farm and on which peanuts were produced, taking into consideration land, labor, and equipment available for the production of peanuts, crop rotation practices, soil and water, and other relevant factors.
 
 #### (d) Referendum respecting poundage quotas
 
@@ -242,7 +242,7 @@ Notwithstanding any other provision of law, this section shall be effective only
 
 #### References in Text
 
-The Agricultural Act of 1949, as amended, referred to in subsec. (e), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051,as amended. Title I of the Act is classified generally to subchapter II (§1441 et seq.) of chapter 35A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+The Agricultural Act of 1949, as amended, referred to in subsec. (e), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended. Title I of the Act is classified generally to subchapter II (§1441 et seq.) of chapter 35A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
 #### Amendments
 

@@ -1,6 +1,6 @@
 ### §287m. Acceptance of membership by the United States
 
-The President is hereby authorized to accept membership for the United States in the United Nations Educational, Scientific, and Cultural Organization (hereinafter referred to as the “Organization”), the constitution of which was approved in London on November 16, 1945, by the United Nations Conference for the establishment of an Educational, Scientific, and Cultural Organization, and deposited in the Archives of the Government of the United Kingdom.
+The President is hereby authorized to accept membership for the United States in the United Nations Educational, Scientific, and CulturalOrganization (hereinafter referred to as the “Organization”), the constitution of which was approved in London on November 16, 1945, by the United Nations Conference for the establishment of an Educational, Scientific, and Cultural Organization, and deposited in the Archives of the Government of the United Kingdom.
 
 (July 30, 1946, ch. 700, §1, 60 Stat. 712.)
 
@@ -30,7 +30,7 @@ I74the governments of the states parties to this constitution on behalf of their
 
 #### <i>Purposes and Functions</i>
 
-1\. The purpose of the Organisation is to contribute to peace and security by promoting collaboration amongthe nations through education, science, and culture in order to further universal respect for justice, for the rule of law and for the human rights and fundamental freedoms which are affirmed for the peoples of the world, without distinction of race, sex, language or religion, by the Charter of the United Nations.
+1\. The purpose of the Organisation is to contribute to peace and security by promoting collaboration among the nations through education, science, and culture in order to further universal respect for justice, for the rule of law and for the human rights and fundamental freedoms which are affirmed for the peoples of the world, without distinction of race, sex, language or religion, by the Charter of the United Nations.
 
 2\. To realise this purpose the Organisation will:
 
@@ -118,7 +118,7 @@ The Organisation shall include a General Conference, an Executive Board and a Se
 
 1\. The Executive Board shall consist of eighteen members elected by the General Conference from among the delegates appointed by the Member States, together with the President of the Conference who shall sit <i>ex officio</i> in an advisory capacity.
 
-2\. In electing the members of the Executive Board the General Conference shall endeavour to include personscompetent in the arts, the humanities, the sciences, education and the diffusion of ideas, and qualified by their experience and capacity to fulfill the administrative and executive duties of the Board. It shall also have regard to the diversity of cultures and a balanced geographical distribution. Not more than one national of any Member State shall serve on the Board at any one time, the President of the Conference excepted.
+2\. In electing the members of the Executive Board the General Conference shall endeavour to include persons competent in the arts, the humanities, the sciences, education and the diffusion of ideas, and qualified by their experience and capacity to fulfill the administrative and executive duties of the Board. It shall also have regard to the diversity of cultures and a balanced geographical distribution. Not more than one national of any Member State shall serve on the Board at any one time, the President of the Conference excepted.
 
 3\. The elected members of the Executive Board shall serve for a term of three years, and shall be immediately eligible for a second term, but shall not serve consecutively for more than two terms. At the first election eighteen members shall be elected of whom one third shall retire at the end of the first year and one third at the end of the second year, the order of retirement being determined immediately after the election by the drawing of lots. Thereafter six members shall be elected each year.
 
@@ -154,7 +154,7 @@ The Organisation shall include a General Conference, an Executive Board and a Se
 
 5\. The responsibilities of the Director-General and of the staff shall be exclusively international in character. In the discharge of their duties they shall not seek or receive instructions from any government or from any authority external to the Organisation. They shall refrain from any action which might prejudice their position as international officials. Each State Member of the Organisation undertakes to respect the international character of the responsibilities of the Director-General and the staff, and not to seek to influence them in the discharge of their duties.
 
-6\. Nothing in this Article shall preclude the Organisation from entering into special arrangements within the United Nations Organisation for common services and staff and for the interchange of personnel.
+6\. Nothing in this Article shall preclude the Organisation from entering into special arrangements withinthe United Nations Organisation for common services and staff and for the interchange of personnel.
 
 #### article vii.
 

@@ -87,7 +87,10 @@
 | (a) | Revocation of authority. |
 | (b) | Charging allotment against statutory grant. |
 | (c) | Relocation of allotment. |
-| [1618\.](%C2%A7%2001618%20-%20Reservations%3B%20revocation%3B%20excepted%20reserve%3B%20acquisition%20of%20title%20to%20surface%20and%20subsurface%20estates%20in%20reserve%3B%20election%20of%20Village%E2%80%A6.md) | Reservations; revocation; excepted reserve; acquisition of title to surface and subsurface estates in reserve; election of Village Corporations. |
+| [1618\.](%C2%A7%2001618%20-%20Revocation%20of%20reserved%20rights%3B%20excepted%20reserve%3B%20acquisition%20of%20title%20to%20surface%20and%20subsurface%20estates%20in%20reserve%3B%20election%20of%20Village%E2%80%A6.md) | Revocation of reserved rights; excepted reserve; acquisition of title to surface and subsurface estates in reserve; election of Village Corporations; restoration of land to Elim Native Corporation. |
+| (a) | Revocation of reserved rights; excepted reserve. |
+| (b) | Acquisition of title to surface and subsurface estates in reserve; election of Village Corporations. |
+| (c) | Restoration of land to Elim Native Corporation. |
 | [1619\.](%C2%A7%2001619%20-%20Attorney%20and%20consultant%20fees.md) | Attorney and consultant fees. |
 | (a) | Holding moneys in Fund for authorized payments. |
 | (b) | Claims; submission. |
@@ -120,6 +123,7 @@
 | (j) | Interim conveyances and underselections. |
 | (k) | National forest land patents; conditions. |
 | (<i>l</i>) | Land selection limitation; proximity to home rule or first class city and Ketchikan. |
+| (m) | Licenses held by Alaska Native regional corporations. |
 | [1622\.](%C2%A7%2001622%20-%20Annual%20reports%20to%20Congress%20until%201984%3B%20submission%20in%201985%20of%20report%20of%20status%20of%20Natives%2C%20summary%20of%20actions%20taken%2C%20and%20recommendations.md) | Annual reports to Congress until 1984; submission in 1985 of report of status of Natives, summary of actions taken, and recommendations. |
 | [1623\.](%C2%A7%2001623%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [1624\.](%C2%A7%2001624%20-%20Regulations%3B%20issuance%3B%20publication%20in%20Federal%20Register.md) | Regulations; issuance; publication in Federal Register. |
@@ -191,12 +195,22 @@
 | (c) | Study and report. |
 | (d) | Definitions. |
 | (e) | Regulations. |
+| [1629h.](%C2%A7%2001629h%20-%20Kake%20Tribal%20Corporation%20land%20transfer.md) | Kake Tribal Corporation land transfer. |
+| (a) | In general. |
+| (b) | Effect on selection totals. |
+| (c) | Lands subject to exchange. |
+| (d) | Withdrawal. |
+| (e) | Maps. |
+| (f) | Watershed management. |
+| (g) | Effective date. |
+| (h) | Timber manufacturing; export restriction. |
+| (i) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1631, 1632, 1633, 1634, 1635, 1636, 1637, 1638, 1639, 1641, 1642 of this title; title 2 section 658; title 5 section 3371; title 12 sections 1715z–13, 1715z–13a, 4702; title 15 section 637; title 16 sections 410hh, 410hh–3, 470bb, 1279, 1722, 1855, 3102, 3111, 3120, 3141, 3164, 3215, 4302, 4702; title 18 section 208; title 20 sections 1087uu–1, 1401, 4402, 6103, 7404, 7713, 9122; title 25 sections 450b, 1452, 1603, 1801, 2026, 2403, 2511, 3001, 3002, 3112, 3202, 3501, 3703, 3802, 3902, 4001, 4103; title 26 section 45A; title 29 sections 705, 741, 1671; title 30 section 1306; title 31 section 7501; title 33 sections 1263, 1377; title 38 section 3115; title 42 sections 280d, 1996a, 2991b, 2992c, 3002, 3122, 3796dd–8, 3796gg–2, 4368b, 4762, 5061, 6502, 8011, 8802, 9832, 10101, 12584, 13743, 13791, 13801, 13868, 13911, 13971, 14151; title 45 section 1212.
+This chapter is referred to in sections 1631, 1632, 1633, 1634, 1635, 1636, 1637, 1638, 1639, 1641, 1642 of this title; title 2 section 658; title 5 section 3371; title 12 sections 1715z–13, 1715z–13a, 4702; title 15 section 637; title 16 sections 410hh, 410hh–3, 470bb, 1279, 1722, 1855, 3102, 3111, 3120, 3141, 3164, 3215, 4302, 4702; title 18 section 208; title 20 sections 1087uu–1, 1401, 4402, 6103, 7404, 7713, 9122; title 25 sections 450b, 1452, 1603, 1801, 2026, 2403, 2511, 3001, 3002, 3112, 3202, 3501, 3703, 3802, 3902, 4001, 4103; title 26 section 45A; title 29 sections 705, 741; title 30 section 1306; title 31 section 7501; title 33 sections 1263, 1377; title 38 section 3115; title 42 sections 290bb–25, 1490p–2, 1996a, 2991b, 2992c, 3002, 3122, 3796dd–8, 3796gg–2, 4368b, 4762, 5061, 6502, 8011, 8802, 9832, 10101, 12584, 13743, 13791, 13801, 13868, 13911, 13971, 14151; title 45 section 1212.
 
 
 ---
@@ -220,7 +234,7 @@ This chapter is referred to in sections 1631, 1632, 1633, 1634, 1635, 1636, 1637
 - [&sect; 01615 - Withdrawal and selection of public lands; funds in lieu of acreage](%C2%A7%2001615%20-%20Withdrawal%20and%20selection%20of%20public%20lands%3B%20funds%20in%20lieu%20of%20acreage.md)
 - [&sect; 01616 - Joint Federal-State Land Use Planning Commission for Alaska](%C2%A7%2001616%20-%20Joint%20Federal-State%20Land%20Use%20Planning%20Commission%20for%20Alaska.md)
 - [&sect; 01617 - Indian allotment authority in Alaska; revocation; charging allotments on pending application against statutory acreage grant; relocation&#8230;](%C2%A7%2001617%20-%20Indian%20allotment%20authority%20in%20Alaska%3B%20revocation%3B%20charging%20allotments%20on%20pending%20application%20against%20statutory%20acreage%20grant%3B%20relocation%E2%80%A6.md)
-- [&sect; 01618 - Reservations; revocation; excepted reserve; acquisition of title to surface and subsurface estates in reserve; election of Village&#8230;](%C2%A7%2001618%20-%20Reservations%3B%20revocation%3B%20excepted%20reserve%3B%20acquisition%20of%20title%20to%20surface%20and%20subsurface%20estates%20in%20reserve%3B%20election%20of%20Village%E2%80%A6.md)
+- [&sect; 01618 - Revocation of reserved rights; excepted reserve; acquisition of title to surface and subsurface estates in reserve; election of Village&#8230;](%C2%A7%2001618%20-%20Revocation%20of%20reserved%20rights%3B%20excepted%20reserve%3B%20acquisition%20of%20title%20to%20surface%20and%20subsurface%20estates%20in%20reserve%3B%20election%20of%20Village%E2%80%A6.md)
 - [&sect; 01619 - Attorney and consultant fees](%C2%A7%2001619%20-%20Attorney%20and%20consultant%20fees.md)
 - [&sect; 01620 - Taxation](%C2%A7%2001620%20-%20Taxation.md)
 - [&sect; 01621 - Miscellaneous provisions](%C2%A7%2001621%20-%20Miscellaneous%20provisions.md)
@@ -239,3 +253,4 @@ This chapter is referred to in sections 1631, 1632, 1633, 1634, 1635, 1636, 1637
 - [&sect; 01629e - Settlement Trust option](%C2%A7%2001629e%20-%20Settlement%20Trust%20option.md)
 - [&sect; 01629f - Claims arising from contamination of transferred lands](%C2%A7%2001629f%20-%20Claims%20arising%20from%20contamination%20of%20transferred%20lands.md)
 - [&sect; 01629g - Open season for certain Alaska Native veterans for allotments](%C2%A7%2001629g%20-%20Open%20season%20for%20certain%20Alaska%20Native%20veterans%20for%20allotments.md)
+- [&sect; 01629h - Kake Tribal Corporation land transfer](%C2%A7%2001629h%20-%20Kake%20Tribal%20Corporation%20land%20transfer.md)

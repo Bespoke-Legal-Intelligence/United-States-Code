@@ -33,20 +33,18 @@
 | [1165\.](Subchapter%20002%20%28II%29%20-%20Administration%20of%20Pribilof%20Islands/%C2%A7%2001165%20-%20Disposal%20of%20Federal%20property%20on%20Pribilof%20Islands.md) | Disposal of Federal property on Pribilof Islands. |
 | (a) | Submission to Congress of property transfer document. |
 | (b) | Contents of property transfer document. |
-| (c) | Report to Congress of fair market value of transferred property. |
+| (c) | Report to Congress on conveyed and retained properties. |
 | (d) | Memorandum of Understanding. |
 | (e) | Taxation. |
 | (f) | Agreements with governmental agencies and third parties. |
-| (g) | Report to Congress on status of negotiations. |
-| [1166\.](Subchapter%20002%20%28II%29%20-%20Administration%20of%20Pribilof%20Islands/%C2%A7%2001166%20-%20Pribilof%20Islands%20Trust.md) | Pribilof Islands Trust. |
-| (a) | Establishment; funding; distributions; investments. |
-| (b) | Administration of Trust. |
-| (c) | Trust instruments. |
-| (d) | Separate portions of Trust for independent benefit of community of St. Paul and community of St. George. |
-| (e) | Authorization of appropriation; interim distributions. |
-| (f) | Interest and proceeds from Trust. |
-| (g) | Annual report to Congress. |
-| (h) | Exemption from taxation. |
+| [1166\.](Subchapter%20002%20%28II%29%20-%20Administration%20of%20Pribilof%20Islands/%C2%A7%2001166%20-%20Financial%20assistance.md) | Financial assistance. |
+| (a) | Grant authority. |
+| (b) | Solid waste assistance. |
+| (c) | Authorization of appropriations. |
+| (d) | Limitation on use of assistance for lobbying activities. |
+| (e) | Immunity from liability. |
+| (f) | Report on expenditures. |
+| (g) | Congressional intent. |
 | [1167\.](Subchapter%20002%20%28II%29%20-%20Administration%20of%20Pribilof%20Islands/%C2%A7%2001167%20-%20Leases%2C%20permits%2C%20agreements%2C%20and%20contracts%20with%20public%20or%20private%20agencies%20or%20persons.md) | Leases, permits, agreements, and contracts with public or private agencies or persons. |
 | [1168\.](Subchapter%20002%20%28II%29%20-%20Administration%20of%20Pribilof%20Islands/%C2%A7%2001168%20-%20Civil%20service%20retirement%20benefits.md) | Civil service retirement benefits. |
 | (a) | Credit for services performed by natives. |
@@ -55,6 +53,7 @@
 | (d) | Reimbursement from Operations, Research, and Facilities Account of National Oceanic and Atmospheric Administration in Department of Commerce. |
 | [1169\.](Subchapter%20002%20%28II%29%20-%20Administration%20of%20Pribilof%20Islands/%C2%A7%2001169%20-%20Regulations.md) | Regulations. |
 | [1169a.](Subchapter%20002%20%28II%29%20-%20Administration%20of%20Pribilof%20Islands/%C2%A7%2001169a%20-%20Annuities%20and%20survivor%20annuities%3B%20recomputation.md) | Annuities and survivor annuities; recomputation. |
+| [1169b.](Subchapter%20002%20%28II%29%20-%20Administration%20of%20Pribilof%20Islands/%C2%A7%2001169b%20-%20Use%20of%20local%20entities.md) | Use of local entities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

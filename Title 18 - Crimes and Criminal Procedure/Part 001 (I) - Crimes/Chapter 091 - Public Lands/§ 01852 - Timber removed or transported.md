@@ -26,35 +26,3 @@ Minor changes were made in phraseology.
 
 1996—Pub. L. 104–294 substituted “fined under this title” for “fined not more than $1,000” in fourth par.
 
-#### Cross References
-
-Cutting, destroying, or removing timber—
-
-&emsp;&emsp;Crater Lake National Park, see section 123 of Title 16, Conservation.
-
-&emsp;&emsp;Glacier National Park, see sections 162, 162a, and 167 of Title 16.
-
-&emsp;&emsp;Indian lands, removal from, see section 196 of Title 25, Indians.
-
-&emsp;&emsp;Mineral lands, see sections 604 to 606 of Title 16, Conservation.
-
-&emsp;&emsp;National parks in general, see section 3 of Title 16.
-
-&emsp;&emsp;Notice of unlawful cutting, see section 605 of Title 16.
-
-&emsp;&emsp;Penalty for unlawful cutting, see section 606 of Title 16.
-
-&emsp;&emsp;Permits to cut for agricultural, mining or domestic purposes, see sections 45c, 604, 607 to 613 of Title 16.
-
-&emsp;&emsp;Purpose of cutting, effect on criminality of act, see section 607 of Title 16.
-
-&emsp;&emsp;Transferee of functions of register and receiver of local land office as required to ascertain legality of cutting or use, see section 605 of Title 16.
-
-&emsp;&emsp;Yellowstone National Park, see section 38 of Title 16.
-
-&emsp;&emsp;Yosemite National Park, regulations, see section 53 of Title 16.
-
-Seizure of timber exported from Territories of United States, see section 602 of Title 16.
-
-Transportation of timber produced by railroad not forbidden, see section 10746 of Title 49, Transportation.
-

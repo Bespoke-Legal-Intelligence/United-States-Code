@@ -20,7 +20,3 @@ R.S. §3126 derived from act May 27, 1848, ch. 48, §1, 9 Stat. 232.
 
 For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 91–271, set out as an Effective Date of 1970 Amendment note under section 1500 of this title.
 
-#### Transfer of Functions
-
-Functions of all officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of those officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. Customs officers, referred to in this section, are under Department of the Treasury.
-

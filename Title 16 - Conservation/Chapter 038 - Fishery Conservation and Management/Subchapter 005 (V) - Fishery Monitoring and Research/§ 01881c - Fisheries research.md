@@ -6,7 +6,7 @@ The Secretary shall initiate and maintain, in cooperation with the Councils, a c
 
 #### (b) Strategic plan
 
-Within one year after October 11, 1996, and at least every 3 years thereafter, the Secretary shall develop and publish in the Federal Register a strategic plan for fisheries research for the 5 years immediately following such publication. The plan shall—
+Within one year after October 11, 1996, and at least every 3 years thereafter, the Secretaryshall develop and publish in the Federal Register a strategic plan for fisheries research for the 5 years immediately following such publication. The plan shall—
 
 &emsp;(1) identify and describe a comprehensive program with a limited number of priority objectives for research in each of the areas specified in subsection (c) of this section;
 

@@ -78,7 +78,7 @@ A person whose application for naturalization under this subchapter is denied, a
 
 #### (d) Sole procedure
 
-A person may only be naturalized as a citizen of the United States in the manner and under the conditions prescribed in this subchapter and not otherwise.
+A person may only be naturalized as a citizen of the United States in the manner and underthe conditions prescribed in this subchapter and not otherwise.
 
 (June 27, 1952, ch. 477, title III, ch. 2, §310, 66 Stat. 239; Pub. L. 85–508, §25, July 7, 1958, 72 Stat. 351; Pub. L. 86–3, §20(c), Mar. 18, 1959, 73 Stat. 13; Pub. L. 87–301, §17, Sept. 26, 1961, 75 Stat. 656; Pub. L. 100–525, §9(s), Oct. 24, 1988, 102 Stat. 2621; Pub. L. 101–649, title IV, §401(a), Nov. 29, 1990, 104 Stat. 5038; Pub. L. 102–232, title I, §102(a), title III, §305(a), Dec. 12, 1991, 105 Stat. 1734, 1749; Pub. L. 103–416, title II, §219(u), Oct. 25, 1994, 108 Stat. 4318.)
 
@@ -158,25 +158,11 @@ Treatment of Service in Armed Forces of Foreign Country.—The amendments made b
 
 “(f)
 
-Filipino War Veterans.—Section 405 \[enacting provisions set out as a note under section 1440 of this title\] (relating to naturalization of natives of the Philippines through active-duty service under UnitedStates command during World War II) shall become effective on May 1, 1991, without regard to whether regulations to implement such section have been issued by such date.”
+Filipino War Veterans.—Section 405 \[enacting provisions set out as a note under section 1440 of this title\] (relating to naturalization of natives of the Philippines through active-duty service under United States command during World War II) shall become effective on May 1, 1991, without regard to whether regulations to implement such section have been issued by such date.”
 
 #### Admission of Alaska and Hawaii to Statehood
 
-Alaska was admitted into the Union on Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, and Hawaii was admitted into the Union on Aug. 21, 1959, on issuance of Proc. No. 3309, Aug. 21, 1959, 24 F.R. 6868, 73 Stat. c74. For Alaska Statehood Law, see Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as a note preceding former section 21 of Title 48, Territories and Insular Possessions. For Hawaii Statehood Law, see Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as a note preceding former section 491 of Title 48.
-
-#### Cross References
-
-Definition of the term—
-
-&emsp;&emsp;Attorney General, see section 1101(a)(5) of this title.
-
-&emsp;&emsp;Naturalization, see section 1101(a)(23) of this title.
-
-&emsp;&emsp;Residence, see section 1101(a)(33) of this title.
-
-&emsp;&emsp;State, see section 1101(a)(36) of this title.
-
-&emsp;&emsp;United States, see section 1101(a)(38) of this title.
+Alaska was admitted into the Union on Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, and Hawaii was admitted into the Union onAug. 21, 1959, on issuance of Proc. No. 3309, Aug. 21, 1959, 24 F.R. 6868, 73 Stat. c74. For Alaska Statehood Law, see Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as a note preceding former section 21 of Title 48, Territories and Insular Possessions. For Hawaii Statehood Law, see Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as a note preceding former section 491 of Title 48.
 
 #### Section Referred to in Other Sections
 

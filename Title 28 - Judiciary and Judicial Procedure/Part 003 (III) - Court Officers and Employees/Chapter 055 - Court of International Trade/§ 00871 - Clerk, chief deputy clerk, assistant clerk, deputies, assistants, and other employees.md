@@ -14,9 +14,9 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1980—Pub. L. 96–417 redesignated the Customs Court as the Court of International Trade.
+<b>1980</b>—Pub. L. 96–417 redesignated the Customs Court as the Court of International Trade.
 
-1959—Pub. L. 86–243 included chief deputy clerk and assistant clerk in section catchline, transferred the appointing authority from the chief judge to the Customs Court, provided for appointment of a chief deputy clerk, an assistant clerk and deputy clerks and for power of removal and deleted reference to the civil service laws with respect to appointments.
+<b>1959</b>—Pub. L. 86–243 included chief deputy clerk and assistant clerk in section catchline, transferred the appointing authority from the chief judge to the Customs Court, provided for appointment of a chief deputy clerk, an assistant clerk and deputy clerks and for power of removal and deleted reference to the civil service laws with respect to appointments.
 
 #### Effective Date of 1980 Amendment
 
@@ -25,10 +25,4 @@ Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respec
 #### Savings Provision
 
 Section 4 of Pub. L. 86–243 provided that: “Nothing contained in the amendments made by this Act \[enacting section 873 and amending this section and sections 253, 550, and 872 of this title\] shall be construed to deprive any person serving on the date of enactment of this Act \[Sept. 9, 1959\] as an officer or employee of the Customs Court of any rights, privileges, or civil service status, if any, to which such person is entitled under the laws of the United States or regulations thereunder.”
-
-#### Cross References
-
-Compensation and expenses of clerks of court, their deputies, etc., see section 604 of this title.
-
-Oath and bond of clerks and deputies, see section 951 of this title.
 

@@ -9,13 +9,13 @@
 | [4154a.](%C2%A7%2004154a%20-%20Standards%20for%20design%2C%20construction%2C%20and%20alteration%20of%20buildings%3B%20United%20States%20Postal%20Service.md) | Standards for design, construction, and alteration of buildings; United States Postal Service. |
 | [4155\.](%C2%A7%2004155%20-%20Effective%20date%20of%20standards.md) | Effective date of standards. |
 | [4156\.](%C2%A7%2004156%20-%20Waiver%20and%20modification%20of%20standards.md) | Waiver and modification of standards. |
-| [4157\.](%C2%A7%2004157%20-%20Reports%20to%20Congress%20and%20Congressional%20committees.md) | Reports to Congress and Congressional committees. |
+| [4157\.](%C2%A7%2004157%20-%20Omitted.md) | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 3027, 6705 of this title; title 29 sections 721, 792; title 39 section 410.
+This chapter is referred to in section 6705 of this title; title 29 sections 721, 792; title 39 section 410.
 
 
 ---
@@ -29,4 +29,4 @@ This chapter is referred to in sections 3027, 6705 of this title; title 29 secti
 - [&sect; 04154a - Standards for design, construction, and alteration of buildings; United States Postal Service](%C2%A7%2004154a%20-%20Standards%20for%20design%2C%20construction%2C%20and%20alteration%20of%20buildings%3B%20United%20States%20Postal%20Service.md)
 - [&sect; 04155 - Effective date of standards](%C2%A7%2004155%20-%20Effective%20date%20of%20standards.md)
 - [&sect; 04156 - Waiver and modification of standards](%C2%A7%2004156%20-%20Waiver%20and%20modification%20of%20standards.md)
-- [&sect; 04157 - Reports to Congress and Congressional committees](%C2%A7%2004157%20-%20Reports%20to%20Congress%20and%20Congressional%20committees.md)
+- [&sect; 04157 - Omitted](%C2%A7%2004157%20-%20Omitted.md)

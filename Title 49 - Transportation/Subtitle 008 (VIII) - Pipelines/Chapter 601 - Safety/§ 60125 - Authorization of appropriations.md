@@ -10,7 +10,7 @@ Gas and Hazardous Liquid.—To carry out this chapter (except for sections 60107
 
 &emsp;(3) $20,729,000 for fiscal year 1998, of which $15,100,000 is to be derived from user fees for fiscal year 1998 collected under section 60301 of this title;
 
-&emsp;(4) $21,442,000 for fiscal year 1999, of which $15,700,000 is to be derived from user fees for fiscal year 1999 collected under section 60301 of this title; and
+&emsp;(4) $21,442,000 for fiscal year 1999, of which $15,700,000 is to be derived from user fees forfiscal year 1999 collected under section 60301 of this title; and
 
 &emsp;(5) $22,194,000 for fiscal year 2000, of which $16,300,000 is to be derived from user fees for fiscal year 2000 collected under section 60301 of this title.
 
@@ -36,7 +36,7 @@ State Grants.—(1) Not more than the following amounts may be appropriated to t
 
 &emsp;(D) $12,000,000 for fiscal year 1996.
 
-&emsp;(E) $14,000,000 for fiscal year 1997, of which $12,500,000 is to be derived from user fees forfiscal year 1997 collected under section 60301 of this title.
+&emsp;(E) $14,000,000 for fiscal year 1997, of which $12,500,000 is to be derived from user fees for fiscal year 1997 collected under section 60301 of this title.
 
 &emsp;(F) $14,490,000 for fiscal year 1998, of which $12,900,000 is to be derived from user fees for fiscal year 1998 collected under section 60301 of this title.
 

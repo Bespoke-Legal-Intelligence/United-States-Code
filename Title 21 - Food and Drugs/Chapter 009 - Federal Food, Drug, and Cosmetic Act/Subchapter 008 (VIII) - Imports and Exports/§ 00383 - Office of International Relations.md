@@ -20,7 +20,7 @@ In carrying out the functions of the office under subsection (a) of this section
 
 (3) The Secretary shall regularly participate in meetings with representatives of other foreign governments to discuss and reach agreement on methods and approaches to harmonize regulatory requirements.
 
-(4) The Secretary shall, not later than 180 days after November 21, 1997, make public a plan that establishes a framework for achieving mutual recognition of good manufacturing practices inspections.
+(4) The Secretary shall, not later than 180 days after November 21, 1997, make public a plan thatestablishes a framework for achieving mutual recognition of good manufacturing practices inspections.
 
 (5) Paragraphs (1) through (4) shall not apply with respect to products defined in section 321(ff) of this title.
 

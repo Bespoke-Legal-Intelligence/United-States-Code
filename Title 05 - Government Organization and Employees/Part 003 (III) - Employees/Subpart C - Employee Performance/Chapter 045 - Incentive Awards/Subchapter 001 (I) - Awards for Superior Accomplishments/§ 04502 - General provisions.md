@@ -10,7 +10,9 @@
 
 (e) The Office of Personnel Management may by regulation permit agencies to grant employees time off from duty, without loss of pay or charge to leave, as an award in recognition of superior accomplishment or other personal effort that contributes to the quality, efficiency, or economy of Government operations.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 442; Pub. L. 95–454, title V, §503(b), (c), Oct. 13, 1978, 92 Stat. 1183; Pub. L. 97–35, title XVII, §1703(b)(2), Aug. 13, 1981, 95 Stat. 756; Pub. L. 101–509, title V, §529 \[title II, §201\], Nov. 5, 1990, 104 Stat. 1427, 1455; Pub. L. 103–89, §3(b)(1)(D), Sept. 30, 1993, 107 Stat. 981.)
+(f) The Secretary of Defense may grant a cash award under subsection (b) of this section without regard to the requirements for certification and approval provided in that subsection.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 442; Pub. L. 95–454, title V, §503(b), (c), Oct. 13, 1978, 92 Stat. 1183; Pub. L. 97–35, title XVII, §1703(b)(2), Aug. 13, 1981, 95 Stat. 756; Pub. L. 101–509, title V, §529 \[title II, §201\], Nov. 5, 1990, 104 Stat. 1427, 1455; Pub. L. 103–89, §3(b)(1)(D), Sept. 30, 1993, 107 Stat. 981; Pub. L. 106–398, §1 \[\[div. A\], title XI, §1132\], Oct. 30, 2000, 114 Stat. 1654, 1654A–318.)
 
 Historical and Revision Notes
 
@@ -33,6 +35,8 @@ In subsection (c), the word “Government” is substituted for “Government of
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
 #### Amendments
+
+2000—Subsec. (f). Pub. L. 106–398 added subsec. (f).
 
 1993—Subsec. (e). Pub. L. 103–89 struck out par. (2) designation and struck out par. (1) which read as follows: “Notwithstanding section 4501(2), for the purpose of this subsection, ‘employee’ includes an employee covered by the performance management and recognition system established under chapter 54.”
 
@@ -58,15 +62,11 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 1703(c) of Pub.
 
 #### Effective Date of 1978 Amendment
 
-Section 504(a) of Pub. L. 95–454 provided that amendment by Pub. L. 95–454 was effective on first day of first applicable pay period which began on or after Oct. 1, 1981, except it could take effect with respect to any category or categories of positions before such day to extent prescribed by Director of Office of Personnel Management.
+Section 504(a) of Pub. L. 95–454 provided that amendment by Pub. L. 95–454 was effective on first day of firstapplicable pay period which began on or after Oct. 1, 1981, except it could take effect with respect to any category or categories of positions before such day to extent prescribed by Director of Office of Personnel Management.
 
 #### Delegation of Functions
 
 Functions of President under former section 2123(e) \[now subsec. (d)\] of this section delegated to Director of Office of Personnel Management, see section 2 of Ex. Ord. No. 11228, June 14, 1965, 30 F.R. 7739, set out as a note under section 301 of Title 3, The President.
-
-#### Cross References
-
-Weight to be accorded incentive awards under this chapter in selecting employees for promotions, see section 3362 of this title.
 
 #### Section Referred to in Other Sections
 

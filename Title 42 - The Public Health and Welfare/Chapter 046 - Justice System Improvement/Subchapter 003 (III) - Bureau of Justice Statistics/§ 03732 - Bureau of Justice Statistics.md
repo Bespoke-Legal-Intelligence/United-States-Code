@@ -118,9 +118,49 @@ Subsec. (d)(5). Pub. L. 98–473, §605(b)(3)(B)–(D), added par. (5).
 
 Amendment by Pub. L. 98–473 effective Oct. 12, 1984, see section 609AA(a) of Pub. L. 98–473, set out as an Effective Date note under section 3711 of this title.
 
+#### Study of Crimes Against Seniors
+
+Pub. L. 106–534, §5, Nov. 22, 2000, 114 Stat. 2557, provided that:
+
+“(a)
+
+In General.—The Attorney General shall conduct a study relating to crimes against seniors, in order to assist in developing new strategies to prevent and otherwise reduce the incidence of those crimes.
+
+“(b)
+
+Issues Addressed.—The study conducted under this section shall include an analysis of—
+
+&emsp;“(1) the nature and type of crimes perpetrated against seniors, with special focus on—
+
+&emsp;&emsp;“(A) the most common types of crimes that affect seniors;
+
+&emsp;&emsp;“(B) the nature and extent of telemarketing, sweepstakes, and repair fraud against seniors; and
+
+&emsp;&emsp;“(C) the nature and extent of financial and material fraud targeted at seniors;
+
+&emsp;“(2) the risk factors associated with seniors who have been victimized;
+
+&emsp;“(3) the manner in which the Federal and State criminal justice systems respond to crimes against seniors;
+
+&emsp;“(4) the feasibility of States establishing and maintaining a centralized computer database on the incidence of crimes against seniors that will promote the uniform identification and reporting of such crimes;
+
+&emsp;“(5) the effectiveness of damage awards in court actions and other means by which seniors receive reimbursement and other damages after fraud has been established; and
+
+&emsp;“(6) other effective ways to prevent or reduce the occurrence of crimes against seniors.”
+
+#### Inclusion of Seniors in National Crime Victimization Survey
+
+Pub. L. 106–534, §6, Nov. 22, 2000, 114 Stat. 2557, provided that: “Beginning not later than 2 years after the date of enactment of this Act \[Nov. 22, 2000\], as part of each National Crime Victimization Survey, the Attorney General shall include statistics relating to—
+
+&emsp;“(1) crimes targeting or disproportionately affecting seniors;
+
+&emsp;“(2) crime risk factors for seniors, including the times and locations at which crimes victimizing seniors are most likely to occur; and
+
+&emsp;“(3) specific characteristics of the victims of crimes who are seniors, including age, gender, race or ethnicity, and socioeconomic status.”
+
 #### Crime Victims With Disabilities Awareness
 
-Pub. L. 105–301, Oct. 27, 1998, 112 Stat. 2838, provided that:
+Pub. L. 105–301, Oct. 27, 1998, 112 Stat. 2838, as amended by Pub. L. 106–402, title IV, §401(b)(10), Oct. 30, 2000, 114 Stat. 1739, provided that:
 
 #### “SECTION 1. SHORT TITLE.
 
@@ -160,7 +200,7 @@ Purposes.—The purposes of this Act are—
 
 #### “SEC. 3. DEFINITION OF DEVELOPMENTAL DISABILITY.
 
-“In this Act, the term ‘developmental disability’ has the meaning given the term in section 102 of the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6001).
+“In this Act, the term ‘developmental disability’ has the meaning given the term in section 102 of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 \[42 U.S.C. 15002\].
 
 #### “SEC. 4. STUDY.
 

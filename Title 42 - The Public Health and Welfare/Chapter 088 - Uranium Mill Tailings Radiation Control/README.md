@@ -17,6 +17,7 @@
 | (c) | Notification. |
 | (d) | Finality of determinations. |
 | (e) | Certain real property or improved areas. |
+| (f) | Designation of Moab Site as processing site. |
 | [7913\.](Subchapter%20001%20%28I%29%20-%20Remedial%20Action%20Program/%C2%A7%2007913%20-%20State%20cooperative%20agreements.md) | State cooperative agreements. |
 | (a) | Authority of Secretary; prompt commencement of preparations. |
 | (b) | Terms and conditions; limitation of Federal assistance. |

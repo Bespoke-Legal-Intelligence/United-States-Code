@@ -74,7 +74,7 @@ The Congress finds as follows:
 
 The purposes of this subpart are to ensure that—
 
-&emsp;(1) children with disabilities, and their parents, receive training and information on their rights and protections under this chapter, in order to develop the skills necessary to effectively participate in planning and decisionmaking relating to early intervention, educational, and transitional services and in systemic-change activities;
+&emsp;(1) children with disabilities, and their parents, receive training and information on theirrights and protections under this chapter, in order to develop the skills necessary to effectively participate in planning and decisionmaking relating to early intervention, educational, and transitional services and in systemic-change activities;
 
 &emsp;(2) parents, teachers, administrators, early intervention personnel, related services personnel, and transition personnel receive coordinated and accessible technical assistance and information to assist such persons, through systemic-change activities and other efforts, to improve early intervention, educational, and transitional services and results for children with disabilities and their families;
 

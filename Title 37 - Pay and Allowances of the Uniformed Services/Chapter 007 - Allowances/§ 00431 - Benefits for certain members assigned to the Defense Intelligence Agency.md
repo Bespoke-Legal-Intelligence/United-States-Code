@@ -44,7 +44,3 @@ Section 1302(b)(3) of Pub. L. 99–145, as amended by Pub. L. 100–180, div. A,
 
 \[Amendment to section 1302(b)(3) of Pub. L. 99–145 by Pub. L. 100–180 effective Oct. 1, 1986, see section 1314(e)(2) of Pub. L. 100–180, set out as a note under section 413 of this title.\]
 
-#### Cross References
-
-Civilian personnel of Defense Intelligence Agency, entitlement to benefits similar to those provided by this section, see section 1605 of Title 10, Armed Forces.
-

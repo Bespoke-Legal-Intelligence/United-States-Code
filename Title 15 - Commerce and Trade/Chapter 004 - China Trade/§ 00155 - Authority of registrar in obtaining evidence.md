@@ -6,7 +6,7 @@ For the efficient administration of the functions vested in the registrar by thi
 
 #### (b) Aid of Federal district court
 
-In the case of failure to comply with any subpoena or in the case of the contumacy of any witness before the registrar or any individual so authorized by him, the registrar or such individual may invoke the aid of any Federal district court. Such court may thereupon order the witness to comply with the requirements of such subpoena and to give evidence touching the matter in question. Any failure to obey such order may be punished by such court as a contempt thereof.
+In the case of failure to comply with any subpoena or in the case of the contumacy of anywitness before the registrar or any individual so authorized by him, the registrar or such individual may invoke the aid of any Federal district court. Such court may thereupon order the witness to comply with the requirements of such subpoena and to give evidence touching the matter in question. Any failure to obey such order may be punished by such court as a contempt thereof.
 
 #### (c) Repealed. Pub. L. 91–452, title II, §217, Oct. 15, 1970, 84 Stat. 929
 
@@ -27,14 +27,4 @@ Amendment by Pub. L. 91–452 effective on sixtieth day following Oct. 15, 1970,
 #### Savings Provision
 
 Amendment by Pub. L. 91–452 not to affect any immunity to which any individual is entitled under this section by reason of any testimony given before the sixtieth day following Oct. 15, 1970, see section 260 of Pub. L. 91–452, set out as an Effective Date; Savings Provision note under section 6001 of Title 18, Crimes and Criminal Procedure.
-
-#### Federal Rules of Criminal Procedure
-
-Application of section under rule 42, see Notes of Advisory Committee on Rules set out under rule 42, Title 18, Appendix, Crimes and Criminal Procedure.
-
-#### Cross References
-
-Immunity of witnesses, see section 6001 et seq. of Title 18, Crimes and Criminal Procedure.
-
-Treaty between United States and China nullifying extraterritorial rights, see Codification note set out under section 142 of this title.
 

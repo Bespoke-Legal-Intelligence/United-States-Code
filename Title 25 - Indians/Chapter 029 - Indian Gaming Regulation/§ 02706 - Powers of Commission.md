@@ -38,23 +38,13 @@ The Commission—
 
 &emsp;(10) shall promulgate such regulations and guidelines as it deems appropriate to implement the provisions of this chapter.
 
-#### (c) Report
-
-The Commission shall submit a report with minority views, if any, to the Congress on December 31, 1989, and every two years thereafter. The report shall include information on—
-
-&emsp;(1) whether the associate commissioners should continue as full or part-time officials;
-
-&emsp;(2) funding, including income and expenses, of the Commission;
-
-&emsp;(3) recommendations for amendments to the <sup>1</sup> chapter; and
-
-&emsp;(4) any other matter considered appropriate by the Commission.
-
 (Pub. L. 100–497, §7, Oct. 17, 1988, 102 Stat. 2470.)
+
+#### Codification
+
+Subsec. (c) of this section, which required the Commission to submit a report to Congress every two yearson various matters relating to the operation of the Commission, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104-66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 114 of House Document No. 103-7.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in section 2710 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “this”.</i>
 

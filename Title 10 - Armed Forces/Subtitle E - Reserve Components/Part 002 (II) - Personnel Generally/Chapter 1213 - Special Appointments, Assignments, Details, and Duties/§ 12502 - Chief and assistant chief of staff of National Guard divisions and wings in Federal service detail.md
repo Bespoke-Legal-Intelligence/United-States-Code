@@ -10,11 +10,3 @@
 
 Provisions similar to those in this section were contained in sections 3542 and 8542 of this title, prior to repeal by Pub. L. 103–337, §1662(g)(2).
 
-#### Cross References
-
-Air Staff, see section 8031 et seq. of this title.
-
-Army Staff, see section 3031 et seq. of this title.
-
-Organization of National Guard, see section 104 of Title 32, National Guard.
-

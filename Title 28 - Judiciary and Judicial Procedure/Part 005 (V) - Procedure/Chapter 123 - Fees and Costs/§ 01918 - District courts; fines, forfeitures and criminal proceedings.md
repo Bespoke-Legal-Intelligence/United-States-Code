@@ -12,14 +12,6 @@ Based on title 28, U.S.C., 1940 ed., §822 (R.S. §974).
 
 Changes were made in phraseology.
 
-#### Cross References
-
-Docket fees and costs of briefs, see notes under section 1923 of this title.
-
-Particular items taxable as costs, see section 1920 of this title and notes thereto.
-
-Witness fees, see notes under sections 1821 and 1825 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in title 21 section 844.

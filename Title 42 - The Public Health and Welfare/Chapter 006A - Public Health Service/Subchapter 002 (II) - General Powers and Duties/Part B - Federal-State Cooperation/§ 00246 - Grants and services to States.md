@@ -16,7 +16,7 @@
 
 &emsp;(E) contain or be supported by assurances satisfactory to the Secretary that the funds paid under this subsection will be used to supplement and, to the extent practicable, to increase the level of funds that would otherwise be made available by the State for the purpose of comprehensive health planning and not to supplant such non-Federal funds;
 
-&emsp;(F) provide such methods of administration (including methods relating to the establishment and maintenance of personnel standards on a merit basis, except that the Secretary shall exercise no authority with respect to the selection, tenure of office, and compensation of any individual employed in accordance with such methods) as are found by the Secretary to be necessary for the proper and efficient operation of the plan;
+&emsp;(F) provide such methods of administration (including methods relating to the establishment and maintenance of personnel standards on a merit basis, except that the Secretary shall exercise no authority with respect to theselection, tenure of office, and compensation of any individual employed in accordance with such methods) as are found by the Secretary to be necessary for the proper and efficient operation of the plan;
 
 &emsp;(G) provide that the State agency will make such reports, in such form and containing such information, as the Secretary may from time to time reasonably require, and will keep such records and afford such access thereto as the Secretary finds necessary to assure the correctness and verification of such reports;
 
@@ -110,7 +110,7 @@ Subsec. (a)(2)(B). Pub. L. 91–515, §220(b), (c), inserted provisions authoriz
 
 Subsec. (a)(2)(C). Pub. L. 91–515, §220(d), inserted “and including home health care” after “private” and “and including environmental considerations as they relate to public health” after “people of the State”.
 
-Subsec. (b). Pub. L. 91–515, §230, redesignated existing provisions as subsec. (b)(1)(A), and, as so redesignated, extended period for making project grants from June30, 1970 to June 30, 1973, inserted “and including the provision of such services through home health care” after “such services”, and authorized appropriations for the fiscal years ending June 30, 1971, June 30, 1972, and June 30, 1973, and added subsec. (b)(1)(B) and (b)(2).
+Subsec. (b). Pub. L. 91–515, §230, redesignated existing provisions as subsec. (b)(1)(A), and, as so redesignated, extended period for making project grants from June 30, 1970 to June 30, 1973, inserted “and including the provision of such services through home health care” after “such services”, and authorized appropriations for the fiscal years ending June 30, 1971, June 30, 1972, and June 30, 1973, and added subsec. (b)(1)(B) and (b)(2).
 
 Pub. L. 91–296, §111(b), inserted provisions requiring that before grants be made to agencies or organizations to develop or revise health plans for an area the Secretary determine that the agency or organization provides means for appropriate representation of the interests of the hospitals, practicing physicians, and the general public.
 
@@ -126,7 +126,7 @@ Subsec. (d)(2)(K). Pub. L. 91–513 added subpar. (K).
 
 Subsec. (d)(2)(L). Pub. L. 91–616 added subpar. (L).
 
-Subsec. (e). Pub. L. 91–515, §260(a), (b), (c)(1), inserted provisions authorizing appropriations for fiscal years ending June 30, 1971, June 30, 1972, and June 30, 1973, provisions authorizing grants to cover part of cost of equity requirements and amortization of loans on facilities acquired from the Office of Economic Opportunity or construction in connection with any program or project transferred from the Office of Economic Opportunity, and provisions requiring the application for any grant made under this subsection to be referred for review and comment to the appropriate areawide health planning agency, or, if no such agency is in the area, then to such other public or nonprofit private agency or organization (if any) which performs similar functions.
+Subsec. (e). Pub. L. 91–515, §260(a), (b), (c)(1), inserted provisions authorizing appropriations for fiscal years ending June 30, 1971, June 30, 1972, and June 30, 1973, provisions authorizing grants to cover part of cost ofequity requirements and amortization of loans on facilities acquired from the Office of Economic Opportunity or construction in connection with any program or project transferred from the Office of Economic Opportunity, and provisions requiring the application for any grant made under this subsection to be referred for review and comment to the appropriate areawide health planning agency, or, if no such agency is in the area, then to such other public or nonprofit private agency or organization (if any) which performs similar functions.
 
 Pub. L. 91–296, §401(b)(1)(D), struck out provision for use of up to 1 per centum of appropriation for grants under subsec. (e) by the Secretary for evaluation.
 
@@ -168,7 +168,7 @@ Subsec. (f). Pub. L. 89–749 substituted provisions covering the interchange of
 
 Subsec. (g). Pub. L. 89–749 substituted provisions for consultation with State health planning agencies concerning regulations and amendments with respect to grants to States, the reduction of payments, cessation of payments for non-compliance, and definitions, for provisions limiting the expending of grant funds for purposes specified by statute and by the agency, organization, or institution to which payment was made.
 
-Subsecs. (h) to (m). Pub. L. 89–749 struck out subsecs. (h) to (m) which dealt, respectively, with requirement that State funds be provided for same purpose as that for which allotted funds are spent, cessation of Federal aid and procedures in connection therewith, promulgation of rules and regulations and consultation with State health authorities precedent thereto, availability of appropriated funds for administrative expenses including printing and travel expenses, applicability of section to Guam and Samoa, and reduction of payments commensurate to expense of detailing of Public Health Service personnel to States.
+Subsecs. (h) to (m). Pub. L. 89–749 struck out subsecs. (h) to (m) which dealt, respectively, with requirement that State funds be provided for same purpose as that for which allotted funds are spent, cessation of Federal aid and procedures in connection therewith, promulgation of rules and regulations and consultation with State health authorities precedent thereto, availability of appropriated funds for administrative expenses including printing and travel expenses, applicability ofsection to Guam and Samoa, and reduction of payments commensurate to expense of detailing of Public Health Service personnel to States.
 
 1965—Subsec. (c). Pub. L. 89–109 substituted “first six fiscal years ending after June 30, 1961” for “first five fiscal years ending after June 30, 1961” and “$5,000,000” for “$2,500,000”.
 

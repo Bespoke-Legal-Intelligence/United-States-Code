@@ -12,10 +12,6 @@ Section was not enacted as part of the Foreign Service Act of 1980 which compris
 
 Section was formerly classified to section 1182 of this title, and prior thereto to section 85 of this title.
 
-#### Cross References
-
-Refunding excessive fees, with a penalty for the collection thereof, see section 4209 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 4191 of this title.

@@ -13,3 +13,4 @@
 - [&sect; 02406 - Deputy Administrator for Naval Reactors](%C2%A7%2002406%20-%20Deputy%20Administrator%20for%20Naval%20Reactors.md)
 - [&sect; 02407 - General Counsel](%C2%A7%2002407%20-%20General%20Counsel.md)
 - [&sect; 02408 - Staff of Administration](%C2%A7%2002408%20-%20Staff%20of%20Administration.md)
+- [&sect; 02409 - Scope of authority of Secretary of Energy to modify organization of Administration](%C2%A7%2002409%20-%20Scope%20of%20authority%20of%20Secretary%20of%20Energy%20to%20modify%20organization%20of%20Administration.md)

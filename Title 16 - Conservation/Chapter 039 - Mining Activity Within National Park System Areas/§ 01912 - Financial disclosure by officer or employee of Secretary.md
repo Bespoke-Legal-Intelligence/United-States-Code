@@ -34,5 +34,9 @@ Any officer or employee who is subject to, and knowingly violates, this section 
 
 #### References in Text
 
-This Act, referred to in subsec. (a)(1), is Pub. L. 94–429, which enacted this chapter, amended sections 123 and 450y–2 of this title, and repealed sections 350, 350a, 447, and 450z of this title. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsec. (a)(1), is Pub. L. 94–429, which enacted this chapter, amended sections123 and 450y–2 of this title, and repealed sections 350, 350a, 447, and 450z of this title. For complete classification of this Act to the Code, see Tables.
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of reporting provisions in subsec. (b)(2) of this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 110 of House Document No. 103–7.
 

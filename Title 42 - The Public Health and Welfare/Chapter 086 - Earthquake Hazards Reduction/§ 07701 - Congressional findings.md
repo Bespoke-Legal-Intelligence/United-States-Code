@@ -34,6 +34,10 @@ The Congress finds and declares the following:
 
 “(6) There is a scientific basis for hypothesizing that major earthquakes may be moderated, in at least some seismic areas, by application of the findings of earthquake control and seismological research.”
 
+#### Short Title of 2000 Amendment
+
+Pub. L. 106–503, title II, §201, Nov. 13, 2000, 114 Stat. 2304, provided that: “This title \[enacting sections 7707 to 7709 of this title, amending sections 7703, 7704, and 7706 of this title, repealing section 7705d of this title, enacting provisions set out as a note under this section, and amending provisions set out as a note under section 7704 of this title\] may be cited as the ‘Earthquake Hazards Reduction Authorization Act of 2000’.”
+
 #### Short Title of 1990 Amendment
 
 Section 1 of Pub. L. 101–614 provided that: “This Act \[enacting sections 7705a to 7705e, amending this section and sections 7702 to 7705, and 7706 of this title, and enacting provisions set out as notes under sections 7704, 7705b, and 7705e of this title\] may be cited as the ‘National Earthquake Hazards Reduction Program Reauthorization Act’.”
@@ -45,4 +49,8 @@ Section 1 of Pub. L. 95–124 provided: “That this Act \[enacting this chapter
 #### Delegation of Functions
 
 Functions of President under Earthquake Hazards Reduction Act of 1977 delegated, transferred, or reassigned to Director of Federal Emergency Management Agency pursuant to sections 1–104 and 4–204 of Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43239, set out as a note under section 5195 of this title.
+
+#### Report on At-Risk Populations
+
+Pub. L. 106–503, title II, §207, Nov. 13, 2000, 114 Stat. 2307, provided that: “Not later than 1 year after the date of the enactment of this Act \[Nov. 13, 2000\], and after a period for public comment, the Director of the Federal Emergency Management Agency shall transmit to the Congress a report describing the elements of the Program that specifically address the needs of at-risk populations, including the elderly, persons with disabilities, non-English-speaking families, single-parent households, and the poor. Such report shall also identify additional actions that could be taken to address those needs and make recommendations for any additional legislative authority required to take such actions.”
 

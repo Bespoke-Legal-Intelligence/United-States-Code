@@ -8,3 +8,7 @@ The Attorney General may at any time make, prescribe, amend, and rescind such ru
 
 Provisions on this subject were contained in section 616 of this title prior to general amendment of act June 8, 1938, by act Apr. 29, 1942.
 
+#### Effective Date
+
+Section effective on the sixtieth day after Apr. 29, 1942, except that prior to such sixtieth day the Attorney General may make, prescribe, amend, and rescind such rules, regulations, and forms as may be necessary to carry out act Apr. 29, 1942, see section 3 of act Apr. 29, 1942, set out as an Effective Date of 1942 Amendment note under section 611 of this title.
+

@@ -342,7 +342,7 @@ In this chapter:
 
 &emsp;The term “youth council” means a council established under section 2832(h) of this title.
 
-(Pub. L. 105–220, title I, §101, Aug. 7, 1998, 112 Stat. 939; Pub. L. 105–244, title I, §102(d)(1), Oct. 7, 1998, 112 Stat. 1622; Pub. L. 105–332, §3(f), Oct. 31, 1998, 112 Stat. 3126.)
+(Pub. L. 105–220, title I, §101, Aug. 7, 1998, 112 Stat. 939; Pub. L. 105–244, title I, §102(d)(1), Oct. 7, 1998, 112 Stat. 1622; Pub. L. 105–332, §3(f), Oct. 31, 1998, 112 Stat. 3126; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675.)
 
 #### References in Text
 
@@ -356,7 +356,13 @@ This Act, referred to in par. (27)(A), is Pub. L. 105–220, Aug. 7, 1998, 112 S
 
 Section 2471 of title 20, referred to in par. (50), was omitted in the general amendment of chapter 44 (§2301 et seq.) of Title 20, Education, by Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3076.
 
+#### Prior Provisions
+
+Provisions similar to this section were contained in section 1503 of this title prior to repeal by Pub. L. 105–220.
+
 #### Amendments
+
+2000—Par. (25)(D). Pub. L. 106–400 made technical amendment to reference in original act which appears in text as reference to section 11302 of title 42.
 
 1998—Par. (3). Pub. L. 105–332 substituted “section 2302 of title 20” for “section 2471 of title 20”.
 
@@ -366,9 +372,57 @@ Par. (35). Pub. L. 105–244 substituted “section 1002 of title 20” for “s
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
 
+#### Declaration of Policy
+
+Pub. L. 102–367, title I, §101(a), Sept. 7, 1992, 106 Stat. 1022, provided that: “In recognition of the training needs of low-income adults and youth, the Congress declares it to be the policy of the United States to—
+
+&emsp;“(1) provide financial assistance to States and local service delivery areas to meet the training needs of such low-income adults and youth, and to assist such individuals in obtaining unsubsidized employment;
+
+&emsp;“(2) increase the funds available for programs under title II of the Job Training Partnership Act (\[former\] 29 U.S.C. 1601 et seq.) by not less than 10 percent of the baseline each fiscal year to provide for growth in the percentage of eligible adults and youth served above the 5 percent of the eligible population that is currently served; and
+
+&emsp;“(3) encourage the provision of longer, more comprehensive, education, training, and employment services to the eligible population, which also requires increased funding in order to maintain current service levels.”
+
 #### Transitional Provisions
 
 For provisions relating to transition from authority under the Job Training Partnership Act (29 U.S.C. 1501 et seq.) to the workforce investment systems established under this chapter, including provisions relating to regulations, expenditures, and reorganization of functions in the Department of Labor, see section 9276 of Title 20, Education.
+
+#### Ex. Ord. No. 13174. Commission on Workers, Communities, and Economic Change in the New Economy
+
+Ex. Ord. No. 13174, Oct. 27, 2000, 65 F.R. 65705, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Advisory Committee Act, as amended (5 U.S.C. App.), it is hereby ordered as follows:
+
+Section 1. <i>Establishment</i>. There is established the “Commission on Workers, Communities, and Economic Change in the New Economy” (Commission). The Commission shall be composed of up to 14 persons to be appointed by the President from individuals who represent State or local agencies relating to workforce or community development, economists or other workforce development experts, labor organizations, business leaders, and Members of Congress. The President shall designate a Chairperson from among the members of the Commission.
+
+Sec. 2. <i>Functions</i>. The Commission shall conduct a study of matters relating to economic dislocation, and worker and community adjustment to such dislocations. In carrying out this study, the Commission shall examine:
+
+&emsp;(a) the impact of international trade, technology, globalization, and the changing nature of work on both workers and their communities;
+
+&emsp;(b) the effectiveness of existing Federal programs in assisting workers and communities in adjusting to economic change, including the adequacy of the design of such programs;
+
+&emsp;(c) the strategies for providing workplace education and training to assist workers in acquiring new skills;
+
+&emsp;(d) the strategies for assisting communities to adjust to changing economic conditions and changes in the mix of employment opportunities in those communities;
+
+&emsp;(e) the role of public-private partnerships in implementing job training and community assistance; and
+
+&emsp;(f) the role of income support and economic security programs in facilitating worker adjustment to rapidly changing economic circumstances.
+
+Sec. 3. <i>Report</i>. Not later than 12 months after the first meeting of the Commission, the Commission shall prepare and submit to the President and the Congress a report that contains a detailed statement of the findings and conclusions of the Commission's study carried out under section 2 of this order, and includes:
+
+&emsp;(1) a summary of best practices and policies carried out by employers and public-private partnerships in providing workers with the education and training needed to effectively adjust to economic change;
+
+&emsp;(2) a summary of best practices and policies carried out by or on behalf of communities in responding to large-scale economic changes; and
+
+&emsp;(3) any recommendations relating to legislative and administrative actions that the Commission determines to be appropriate.
+
+Sec. 4. <i>Administration</i>. (a) Members of the Commission shall serve without compensation for their work on the Commission. While engaged in the work of the Commission, members appointed from among private citizens of the United States may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the Government service (5 U.S.C. 5701–5707).
+
+(b) The Department of Labor shall provide the Commission with funding and administrative support. The Commission may have paid staff. In addition, appropriate Federal agencies may be requested to designate staff to assist with the work of the Commission. The Secretary of Labor shall perform the functions of the President under the Federal Advisory Committee Act, as amended (5 U.S.C. App.), except that of reporting to the Congress, in accordance with the guidelines and procedures established by the Administrator of General Services.
+
+Sec. 5. <i>General Provisions</i>. The Commission shall terminate 30 days after submitting its report.
+
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 

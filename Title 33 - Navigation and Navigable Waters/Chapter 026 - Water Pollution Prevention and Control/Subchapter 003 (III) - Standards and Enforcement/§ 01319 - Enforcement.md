@@ -10,7 +10,7 @@
 
 &emsp;(B) by bringing a civil action under subsection (b) of this section.
 
-(3) Whenever on the basis of any information available to him the Administrator finds thatany person is in violation of section 1311, 1312, 1316, 1317, 1318, 1328, or 1345 of this title, or is in violation of any permit condition or limitation implementing any of such sections in a permit issued under section 1342 of this title by him or by a State or in a permit issued under section 1344 of this title by a State, he shall issue an order requiring such person to comply with such section or requirement, or he shall bring a civil action in accordance with subsection (b) of this section.
+(3) Whenever on the basis of any information available to him the Administrator finds that any person is in violation of section 1311, 1312, 1316, 1317, 1318, 1328, or 1345 of this title, or is in violation of any permit condition or limitation implementing any of such sections in a permit issued under section 1342 of this title by him or by a State or in a permit issued under section 1344 of this title by a State, he shall issue an order requiring such person to comply with such section or requirement, or he shall bring a civil action in accordance with subsection (b) of this section.
 
 (4) A copy of any order issued under this subsection shall be sent immediately by the Administrator to the State in which the violation occurs and other affected States. In any case in which an order under this subsection (or notice to a violator under paragraph (1) of this subsection) is issued to a corporation, a copy of such order (or notice) shall be served on any appropriate corporate officers. An order issued under this subsection relating to a violation of section 1318 of this title shall not take effect until the person to whom it is issued has had an opportunity to confer with the Administrator concerning the alleged violation.
 
@@ -68,7 +68,7 @@ The Administrator is authorized to commence a civil action for appropriate relie
 
 &emsp;&emsp;&emsp;&emsp;(I) an occupation, a business, or a profession; or
 
-&emsp;&emsp;&emsp;&emsp;(II) medical treatment or medical or scientific experimentation conducted by professionally approved methods and such other person had been made aware of the risks involved prior to giving consent;
+&emsp;&emsp;&emsp;&emsp;(II) medical treatment or medical or scientific experimentation conducted byprofessionally approved methods and such other person had been made aware of the risks involved prior to giving consent;
 
 &emsp;&emsp;&nbsp;and such defense may be established under this subparagraph by a preponderance of the evidence;
 
@@ -90,7 +90,7 @@ The Administrator is authorized to commence a civil action for appropriate relie
 
 #### (7) Hazardous substance defined
 
-&emsp;For the purpose of this subsection, the term “hazardous substance” means (A) any substance designated pursuant to section 1321(b)(2)(A) of this title, (B) any element, compound, mixture, solution, or substance designated pursuant to section 9602 of title 42, (C) any hazardous waste having the characteristics identified under or listed pursuant to section 3001 of the Solid Waste Disposal Act \[42 U.S.C. 6921\] (but not including any wastethe regulation of which under the Solid Waste Disposal Act \[42 U.S.C. 6901 et seq.\] has been suspended by Act of Congress), (D) any toxic pollutant listed under section 1317(a) of this title, and (E) any imminently hazardous chemical substance or mixture with respect to which the Administrator has taken action pursuant to section 2606 of title 15.
+&emsp;For the purpose of this subsection, the term “hazardous substance” means (A) any substance designated pursuant to section 1321(b)(2)(A) of this title, (B) any element, compound, mixture, solution, or substance designated pursuant to section 9602 of title 42, (C) any hazardous waste having the characteristics identified under or listed pursuant to section 3001 of the Solid Waste Disposal Act \[42 U.S.C. 6921\] (but not including any waste the regulation of which under the Solid Waste Disposal Act \[42 U.S.C. 6901 et seq.\] has been suspended by Act of Congress), (D) any toxic pollutant listed under section 1317(a) of this title, and (E) any imminently hazardous chemical substance or mixture with respect to which the Administrator has taken action pursuant to section 2606 of title 15.
 
 #### (d) Civil penalties; factors considered in determining amount
 
@@ -102,7 +102,7 @@ Whenever a municipality is a party to a civil action brought by the United State
 
 #### (f) Wrongful introduction of pollutant into treatment works
 
-Whenever, on the basis of any information available to him, the Administrator finds that an owner or operator of any source is introducing a pollutant into a treatment works in violation of subsection (d) of section 1317 of this title, the Administrator may notify the owner or operator of such treatment works and the State of such violation. If the owner or operator of the treatment works does not commence appropriate enforcement action within 30 days of the date of such notification, the Administrator may commence a civil action for appropriate relief, including but not limited to, a permanent or temporary injunction, against the owner or operator of such treatment works. In any such civil action the Administrator shall join the owner or operator of such source as a party to the action. Such action shall be brought in the district court of the United States in the district in which the treatment works is located. Such court shall have jurisdiction to restrain such violation and to require the owner or operator of the treatment works and the owner or operator of the source to take such action as may be necessary to come into compliance with this chapter. Notice of commencement of any such action shall be given to the State. Nothing in this subsection shall be construed to limit or prohibit any other authority the Administrator may have under this chapter.
+Whenever, on the basis of any information available to him, the Administrator finds that an owner or operator of any source is introducing a pollutant into a treatment works in violation of subsection (d) of section 1317 of this title, the Administrator may notify the owner or operator of such treatment works and the State of such violation. If the owner or operator of the treatment works does not commence appropriate enforcement action within 30 days of the date of such notification, the Administrator may commence a civil action for appropriate relief, including but not limited to, a permanent or temporary injunction, against the owner or operator of such treatment works. In any such civil action the Administrator shall join the owner or operator of such source as a party to the action. Such action shall be brought in the district court of the United States in the district in which the treatment works is located. Such court shall have jurisdiction to restrain such violation and to require the owner or operator of the treatment works and the owner or operator of the source to take such action as may be necessary to come into compliance with this chapter. Notice of commencement of anysuch action shall be given to the State. Nothing in this subsection shall be construed to limit or prohibit any other authority the Administrator may have under this chapter.
 
 #### (g) Administrative penalties
 
@@ -124,7 +124,7 @@ Whenever, on the basis of any information available to him, the Administrator fi
 
 #### (B) Class II
 
-&emsp;&emsp;The amount of a class II civil penalty under paragraph (1) may not exceed $10,000 per day for each day during which the violation continues; except that the maximum amount of any class II civil penalty under this subparagraph shall not exceed $125,000. Except as otherwise provided in this subsection, a class II civil penalty shall be assessed and collected in the same manner, and subject to the same provisions, as in the case of civil penalties assessed and collected after notice and opportunity for a hearing onthe record in accordance with section 554 of title 5. The Administrator and the Secretary may issue rules for discovery procedures for hearings under this subparagraph.
+&emsp;&emsp;The amount of a class II civil penalty under paragraph (1) may not exceed $10,000 per day for each day during which the violation continues; except that the maximum amount of any class II civil penalty under this subparagraph shall not exceed $125,000. Except as otherwise provided in this subsection, a class II civil penalty shall be assessed and collected in the same manner, and subject to the same provisions, as in the case of civil penalties assessed and collected after notice and opportunity for a hearing on the record in accordance with section 554 of title 5. The Administrator and the Secretary may issue rules for discovery procedures for hearings under this subparagraph.
 
 #### (3) Determining amount
 
@@ -200,7 +200,7 @@ Whenever, on the basis of any information available to him, the Administrator fi
 
 #### (11) Protection of existing procedures
 
-&emsp;Nothing in this subsection shall change the procedures existing on the day before February 4, 1987, under other subsections of this section for issuance and enforcement of orders by the Administrator.
+&emsp;Nothing in this subsection shall change the procedures existing on the day before February 4, 1987, under other subsections of thissection for issuance and enforcement of orders by the Administrator.
 
 (June 30, 1948, ch. 758, title III, §309, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 859; amended Pub. L. 95–217, §§54(b), 55, 56, 67(c)(2), Dec. 27, 1977, 91 Stat. 1591, 1592, 1606; Pub. L. 100–4, title III, §§312, 313(a)(1), (b)(1), (c), 314(a), Feb. 4, 1987, 101 Stat. 42, 45, 46; Pub. L. 101–380, title IV, §4301(c), Aug. 18, 1990, 104 Stat. 537.)
 

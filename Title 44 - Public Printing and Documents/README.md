@@ -1,5 +1,5 @@
 
-44 U.S.C.<br>United States Code, 1999 Edition<br>Title 44 - PUBLIC PRINTING AND DOCUMENTS<br>From the U.S. Government Publishing Office, www.gpo.gov
+44 U.S.C.<br>United States Code, 2000 Edition<br>Title 44 - PUBLIC PRINTING AND DOCUMENTS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 44—PUBLIC PRINTING AND DOCUMENTS
 
@@ -1443,56 +1443,6 @@ Section 2(f) of Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1306, provided that: �
 #### Repeals
 
 Section 3 of Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1306, repealed the sections or parts thereof of the Revised Statutes or Statutes at Large codified in this title, except with respect to rights and duties that matured, penalties that were incurred, and proceedings that were begun, before October 22, 1968, and except as provided by section 2 of Pub. L. 90–620.
-
-#### Cross References
-
-Acts and resolutions: formalities of enactment, repeals, and sealing of instruments, see section 101 et seq. of Title 1, General Provisions.
-
-Administrative procedure, public information: agency rules, opinions, orders, records, and proceedings, see section 552 of Title 5, Government Organization and Employees.
-
-American Printing House for the Blind, see section 101 et seq. of Title 20, Education.
-
-Cataloging and standardization, coordination of Administrator of General Services and Secretary of Defense, see section 2456 of Title 10, Armed Forces.
-
-Code of Laws of United States and Supplements, District of Columbia Code and Supplements, see section 201 et seq. of Title 1, General Provisions; section 285b of Title 2, The Congress.
-
-Collections of Government Printing Office accessible to investigators and students, see section 91 of Title 20, Education.
-
-Congressional provisions: elections, organization, compensation, officers and employees, Library of Congress, and procedures, see generally Title 2, The Congress.
-
-Crimes—
-
-&emsp;&emsp;Printing contracts, see section 442 of Title 18, Crimes and Criminal Procedure.
-
-&emsp;&emsp;Printing obligations, securities, and postage stamps of United States and foreign countries, authorization notwithstanding counterfeiting and forgery prohibitions, see section 504 of Title 18.
-
-&emsp;&emsp;Public officers and employees, see section 1901 et seq. of Title 18.
-
-&emsp;&emsp;Records and reports, see section 2071 et seq. of Title 18.
-
-Employees: employment, retention and performance, see Title 5, Government Organization and Employees.
-
-Executive provisions generally, see Title 3, The President.
-
-Executive reorganization, general provisions and effective date and publication of reorganization plans, see chapter 9 of Title 5, Government Organization and Employees.
-
-Food stamp program, printing of coupons for, see section 2016 of Title 7, Agriculture.
-
-General Services Administration, see section 751 et seq. of Title 40, Public Buildings, Property, and Works.
-
-Library of Congress, see section 131 et seq. of Title 2, The Congress.
-
-Management and disposal of Government property, see chapter 10 of Title 40, Public Buildings, Property, and Works.
-
-Official territorial papers, see section 141 et seq. of Title 4, Flag and Seal, Seat of Government, and the States.
-
-Patent and Trademark Office library, see section 8 of Title 35, Patents.
-
-Prints defined under Foreign Agents Registration Act, see section 611 of Title 22, Foreign Relations and Intercourse.
-
-Standard reference data program, see section 201 et seq. of Title 15, Commerce and Trade.
-
-Walsh-Healey Act, see sections 35–45 of Title 41, Public Contracts.
 
 #### Title Referred to in Other Sections
 

@@ -76,9 +76,3 @@ Section 46 of act Aug. 10, 1956, provided that:
 
 “(b) The separation of any person who, on November 1, 1954, was a female permanent warrant officer of a regular component of an armed force, and who upon attaining the age of 55 has completed less than 20 years of active service that could be credited to her under section 511 of the Career Compensation Act of 1949 (37 U.S.C. 311) \[act Oct. 12, 1949, ch. 681, title V, §511, 63 Stat. 829, set out as a note under section 580 of this title\] may be deferred by the Secretary concerned until she completes 20 years of that service, but not later than that date which is 60 days after the date on which she attains the age of 60.”
 
-#### Cross References
-
-Retirement of warrant officers for age, see section 1263 of this title.
-
-Suspension during war or emergency, see sections 644, 12243 of this title.
-

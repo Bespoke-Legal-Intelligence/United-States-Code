@@ -14,7 +14,7 @@ As used in this chapter, the term “building” means any building or facility 
 
 #### References in Text
 
-The National Capital Transportation Act of 1960, referred to in par. (4), is Pub. L. 86–669, July 14, 1960, 74 Stat. 537, which enacted sections 651, 652, 661 to 665, and 671 of Title 40, Public Buildings, Property, and Works,and enacted provisions set out as notes under section 651 of Title 40 and which was repealed by Pub. L. 91–143, §8(a)(1), Dec. 9, 1969, 83 Stat. 322. See provisions of the Washington Metropolitan Area Transit Regulation Compact, set out under D.C. Code §§1–2411, 1–2431.
+The National Capital Transportation Act of 1960, referred to in par. (4), is Pub. L. 86–669, July 14, 1960, 74 Stat. 537, which enacted sections 651, 652, 661 to 665, and 671 of Title 40, Public Buildings, Property, and Works, and enacted provisions set out as notes under section 651 of Title 40 and which was repealed by Pub. L. 91–143, §8(a)(1), Dec. 9, 1969, 83 Stat. 322.
 
 The National Capital Transportation Act of 1965, referred to in par. (4), is Pub. L. 89–173, Sept. 8, 1965, 79 Stat. 663, as amended, which enacted sections 681 to 685 of Title 40, amended section 662 of Title 40, and enacted provisions set out as notes under section 681 of Title 40. Sections 681, 684, and 685 of Title 40 have been omitted from the Code. Sections 682 and 683 of Title 40 were repealed by Pub. L. 91–143, §8(a)(2), Dec. 9, 1969, 83 Stat. 323.
 

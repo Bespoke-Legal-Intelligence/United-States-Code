@@ -22,6 +22,50 @@ A prior section 191 was renumbered section 202 of this title and subsequently re
 
 1987—Subsec. (b). Pub. L. 100–26 substituted “October 1, 1986” for “the date of the enactment of the Goldwater-Nichols Department of Defense Reorganization Act of 1986”.
 
+#### Comptroller General Review of Operations of Defense Logistics Agency
+
+Pub. L. 106–398, §1 \[\[div. A\], title IX, §917\], Oct. 30, 2000, 114 Stat. 1654, 1654A–232, provided that:
+
+“(a)
+
+Comptroller General Review Required.—The Comptroller General shall review the operations of the Defense Logistics Agency—
+
+&emsp;“(1) to assess—
+
+&emsp;&emsp;“(A) the efficiency of those operations;
+
+&emsp;&emsp;“(B) the effectiveness of those operations in meeting customer requirements; and
+
+&emsp;&emsp;“(C) the flexibility of those operations to adopt best business practices; and
+
+&emsp;“(2) to identify alternative approaches for improving the operations of that agency.
+
+“(b)
+
+Report.—Not later than February 1, 2002, the Comptroller General shall submit to the Committees on Armed Services of the Senate and the House of Representatives one or more reports setting forth the Comptroller General's findings resulting from the review under subsection (a).”
+
+#### Comptroller General Review of Operations of Defense Information Systems Agency
+
+Pub. L. 106–398, §1 \[\[div. A\], title IX, §918\], Oct. 30, 2000, 114 Stat. 1654, 1654A–232, provided that:
+
+“(a)
+
+Comptroller General Review Required.—The Comptroller General shall review the operations of the Defense Information Systems Agency—
+
+&emsp;“(1) to assess—
+
+&emsp;&emsp;“(A) the efficiency of those operations;
+
+&emsp;&emsp;“(B) the effectiveness of those operations in meeting customer requirements; and
+
+&emsp;&emsp;“(C) the flexibility of those operations to adopt best business practices; and
+
+&emsp;“(2) to identify alternative approaches for improving the operations of that agency.
+
+“(b)
+
+Report.—Not later than February 1, 2002, the Comptroller General shall submit to the Committees on Armed Services of the Senate and the House of Representatives one or more reports setting forth the Comptroller General's findings resulting from the review under subsection (a).”
+
 #### Reassessment of Defense Agencies and Department of Defense Field Activities
 
 Section 303 of Pub. L. 99–433 directed Secretary of Defense to conduct a study of functions and organizational structure of Defense Agencies and Department of Defense Field Activities to determine the most effective, economical, or efficient means of providing supply or service activities common to more than one military department, with Secretary to submit a report to Congress not later than Oct. 1, 1987. The report was to include a study of improved application of computer systems to functions of Defense Agencies and Department of Defense Field Activities, including a plan for rapid replacement, where necessary, of existing automated data processing equipment with new equipment, and plans to achieve reductions in total number of members of Armed Forces and civilian employees assigned or detailed to permanent duty in Defense Agencies and Department of Defense Field Activities (other than National Security Agency) by 5 percent, 10 percent, and 15 percent of total number of such members and employees projected to be assigned or detailed to such duty on Sept. 30, 1988, together with a discussion of implications of each such reduction and a draft of any legislation that would be required to implement each such plan.

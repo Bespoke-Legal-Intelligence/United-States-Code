@@ -36,6 +36,10 @@ The report described in subsection (c) of this section shall also include those 
 
 Section was enacted as part of the National Aeronautics and Space Administration Authorization Act, Fiscal Year 1991, and not as part of the National Aeronautics and Space Act of 1958 which is classified principally to this chapter.
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (c) of this section relating to submittal to Congress at least annually of a report certifying that the payloads scheduled to be launched on the space shuttle for the next four years are consistent with the policy set forth in subsec. (a)(1) of this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and item 6 on page 179 of House Document No. 103–7.
+
 #### Definition of “Administrator”
 
 Section 127 of title I of Pub. L. 101–611 provided that: “For purposes of this title \[enacting this section and sections 2459a and 2471a of this title and section 1535 of Title 15, Commerce and Trade, amending section 2473 of this title and sections 2601, 2602, 2604, 2614, and 2623 of former Title 49, Transportation, and enacting provisions set out as notes under sections 2451, 2459, and 2471 of this title\], the term ‘Administrator’ means the Administrator of the National Aeronautics and Space Administration.”

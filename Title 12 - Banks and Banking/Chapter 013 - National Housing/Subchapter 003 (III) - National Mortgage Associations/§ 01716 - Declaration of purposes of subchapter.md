@@ -12,7 +12,7 @@ The Congress declares that the purposes of this subchapter are to establish seco
 
 &emsp;(5) manage and liquidate federally owned mortgage portfolios in an orderly manner, with a minimum of adverse effect upon the residential mortgage market and minimum loss to the Federal Government.
 
-(June 27, 1934, ch. 847, title III, §301, 48 Stat. 1252; May 28, 1935, ch. 150, §30, 49 Stat. 300; Feb. 3, 1938, ch. 13, §§4, 5, 52 Stat. 23; June 3, 1939, ch. 175, §§15, 16, 53 Stat. 808; Mar. 28, 1941, ch. 31, §5, 55 Stat. 62; July 1, 1948, ch. 784, §1, 62 Stat. 1206; Aug. 10, 1948, ch. 832, title II, §§201, 202, 62 Stat. 1275; Aug. 8, 1949, ch. 403, §4, 63 Stat. 576; Oct. 25, 1949, ch. 729, §7, 63 Stat. 906; Apr. 20, 1950, ch. 94, title I, §§116, 122, 64 Stat. 57, 59; Sept. 1, 1951, ch. 378, title II, §205, title VI, §608(b), 65 Stat. 303, 315; Apr. 9, 1952, ch. 173, 66 Stat. 51; July 14, 1952, ch. 723, §§3(a), 10(a)(2), 66 Stat. 602, 603; June 30, 1953, ch. 170, §§12, 13(a), 67 Stat. 125; June 29, 1954, ch. 410, §1(1), 68 Stat. 320; Aug. 2, 1954, ch. 649, title II, §201, 68 Stat. 612; Pub. L. 90–448, title VIII, §802(b), Aug. 1, 1968, 82 Stat. 536; Pub. L. 101–73, title VII, §731(m)(1), Aug. 9, 1989, 103 Stat.435; Pub. L. 102–550, title XIII, §1381(a), Oct. 28, 1992, 106 Stat. 3994.)
+(June 27, 1934, ch. 847, title III, §301, 48 Stat. 1252; May 28, 1935, ch. 150, §30, 49 Stat. 300; Feb. 3, 1938, ch. 13, §§4, 5, 52 Stat. 23; June 3, 1939, ch. 175, §§15, 16, 53 Stat. 808; Mar. 28, 1941, ch. 31, §5, 55 Stat. 62; July 1, 1948, ch. 784, §1, 62 Stat. 1206; Aug. 10, 1948, ch. 832, title II, §§201, 202, 62 Stat. 1275; Aug. 8, 1949, ch. 403, §4, 63 Stat. 576; Oct. 25, 1949, ch. 729, §7, 63 Stat. 906; Apr. 20, 1950, ch. 94, title I, §§116, 122, 64 Stat. 57, 59; Sept. 1, 1951, ch. 378, title II, §205, title VI, §608(b), 65 Stat. 303, 315; Apr. 9, 1952, ch. 173, 66 Stat. 51; July 14, 1952, ch. 723, §§3(a), 10(a)(2), 66 Stat. 602, 603; June 30, 1953, ch. 170, §§12, 13(a), 67 Stat. 125; June 29, 1954, ch. 410, §1(1), 68 Stat. 320; Aug. 2, 1954, ch. 649, title II, §201, 68 Stat. 612; Pub. L. 90–448, title VIII, §802(b), Aug. 1, 1968, 82 Stat. 536; Pub. L. 101–73, title VII, §731(m)(1), Aug. 9, 1989, 103 Stat. 435; Pub. L. 102–550, title XIII, §1381(a), Oct. 28, 1992, 106 Stat. 3994.)
 
 #### Amendments
 
@@ -20,7 +20,7 @@ The Congress declares that the purposes of this subchapter are to establish seco
 
 Par. (1). Pub. L. 102–550, §1381(a)(1), substituted “residential” for “home”.
 
-Par. (3). Pub. L. 102–550, §1381(a)(1), (2), substituted “residential” for “home” in two places, substituted “(including activities relating to mortgages on housing for low- and moderate-income families involving a reasonable economic return that may be less than the return earned on other activities)” for “(including mortgages securing housing for low- and moderate-income families involving a reasonable economic return)”, and struck out “and” at end.
+Par. (3). Pub. L. 102–550, §1381(a)(1), (2), substituted “residential” for “home” in two places, substituted“(including activities relating to mortgages on housing for low- and moderate-income families involving a reasonable economic return that may be less than the return earned on other activities)” for “(including mortgages securing housing for low- and moderate-income families involving a reasonable economic return)”, and struck out “and” at end.
 
 Par. (4). Pub. L. 102–550, §1381(a)(3), (4), added par. (4) and redesignated former par. (4) as (5).
 
@@ -96,11 +96,11 @@ Section 312 of title III of act June 27, 1934, as added Aug. 2, 1954, ch. 649, �
 
 #### Delegation of Functions
 
-Functions of President under this section delegated to Secretary of Housing and Urban Development, seeEx. Ord. No. 11732, July 30, 1973, 38 F.R. 20429, set out as a note under section 301 of Title 3, The President.
+Functions of President under this section delegated to Secretary of Housing and Urban Development, see Ex. Ord. No. 11732, July 30, 1973, 38 F.R. 20429, set out as a note under section 301 of Title 3, The President.
 
 #### Service or Sale of Mortgages Purchased Prior to July 1, 1948; Fulfillment of Prior Commitments
 
-Section 2 of act July 1, 1948, provided that: “Nothing in the amendment made by the first section of this Act \[amending sections 1716, 1717 to 1721 of this title\] shall limit the authority of the Federal National Mortgage Association to service or sell any mortgage purchased prior to the date of the enactment of this Act \[July 1, 1948\], or to purchase, service, or sell any mortgage with respect to which a commitment to purchase was made prior to the date of the enactment of this Act \[July 1, 1948\].”
+Section 2 of act July 1, 1948, provided that: “Nothing in the amendment made by the first section of this Act \[amending sections 1716, 1717 to 1721 of this title\] shall limit the authority of the Federal National Mortgage Association to service or sell any mortgage purchasedprior to the date of the enactment of this Act \[July 1, 1948\], or to purchase, service, or sell any mortgage with respect to which a commitment to purchase was made prior to the date of the enactment of this Act \[July 1, 1948\].”
 
 #### Section Referred to in Other Sections
 

@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(i) use technical data pertaining to the item or process; or
 
-&emsp;&emsp;(ii) release or disclose the technical data to persons outside the government or permit the use of the technical data by such persons.
+&emsp;&emsp;(ii) release or disclose the technical data to persons outside the government or permitthe use of the technical data by such persons.
 
 &emsp;(B) Except as provided in subparagraphs (C) and (D), in the case of an item or process that is developed by a contractor or subcontractor exclusively at private expense, the contractor or subcontractor may restrict the right of the United States to release or disclose technical data pertaining to the item or process to persons outside the government or permit the use of the technical data by such persons.
 
@@ -62,7 +62,7 @@
 
 &emsp;&emsp;(iii) permit a contractor or subcontractor to license directly to a third party the use of technical data which the contractor is otherwise allowed to restrict, if necessary to develop alternative sources of supply and manufacture.
 
-(3) The Secretary of Defense shall define the terms “developed”, “exclusively with Federalfunds”, and “exclusively at private expense” in regulations prescribed under paragraph (1). In defining such terms, the Secretary shall specify the manner in which indirect costs shall be treated and shall specify that amounts spent for independent research and development and bid and proposal costs shall not be considered to be Federal funds for the purposes of definitions under this paragraph.
+(3) The Secretary of Defense shall define the terms “developed”, “exclusively with Federal funds”, and “exclusively at private expense” in regulations prescribed under paragraph (1). In defining such terms, the Secretary shall specify the manner in which indirect costs shall be treated and shall specify that amounts spent for independent research and development and bid and proposal costs shall not be considered to be Federal funds for the purposes of definitions under this paragraph.
 
 (b) Regulations prescribed under subsection (a) shall require that, whenever practicable, a contract for supplies or services entered into by an agency named in section 2303 of this title contain appropriate provisions relating to technical data, including provisions—
 

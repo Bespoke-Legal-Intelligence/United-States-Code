@@ -4,7 +4,7 @@
 
 &emsp;(1) Donation, sale, or other disposition for disaster or other relief purposes outside the United States pursuant to and subject to the limitations of subchapter III of chapter 41 of this title;
 
-&emsp;(2) Sale or barter (including barter for strategic materials) to develop new or expandedmarkets for American agricultural commodities, including but not limited to disposition pursuant to and subject to the limitations of subchapter II of chapter 41 of this title;
+&emsp;(2) Sale or barter (including barter for strategic materials) to develop new or expanded markets for American agricultural commodities, including but not limited to disposition pursuant to and subject to the limitations of subchapter II of chapter 41 of this title;
 
 &emsp;(3) Donation to school-lunch programs;
 

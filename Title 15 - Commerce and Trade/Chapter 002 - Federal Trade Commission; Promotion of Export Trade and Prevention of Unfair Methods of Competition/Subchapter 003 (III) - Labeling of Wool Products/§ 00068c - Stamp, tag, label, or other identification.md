@@ -30,10 +30,6 @@ Section 68b of this title, the second time it appears in subsec. (c), was in the
 
 Amendment by Pub. L. 98–417 effective 90 days after Sept. 24, 1984, see section 307 of Pub. L. 98–417, set out as a note under section 68b of this title.
 
-#### Cross References
-
-Prevention of unfair methods of competition and unfair or deceptive acts or practices, see section 45 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 68b, 68e, 68h of this title.

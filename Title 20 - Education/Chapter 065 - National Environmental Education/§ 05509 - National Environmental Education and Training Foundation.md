@@ -20,7 +20,7 @@
 
 #### (3) Programs
 
-&emsp;The Foundation will develop, support, and/or operate programs and projects to educate and train educational and environmental professionals, and to assist them in the development and delivery of environmental education and training programs and studies.
+&emsp;The Foundation will develop, support, and/or operate programs and projects to educate and train educational and environmental professionals, and to assist them in the developmentand delivery of environmental education and training programs and studies.
 
 #### (b) Board of Directors
 
@@ -68,7 +68,7 @@
 
 &emsp;(B) The following limitations apply with respect to the appointment of officers and employees of the Foundation:
 
-&emsp;&emsp;(i) Officers and employees may not be appointed until the Foundation has sufficient funds to pay for their service. Officers and employees of the Foundation shall be appointed without regard to the provisions of title 5 governing appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 or subchapter III of chapter 53 of title 5 relating toclassification and General Schedule pay rates, except that no individual so appointed may receive pay in excess of the annual rate of basic pay in effect for grade GS–18 of the General Schedule.
+&emsp;&emsp;(i) Officers and employees may not be appointed until the Foundation has sufficient funds to pay for their service. Officers and employees of the Foundation shall be appointed without regard to the provisions of title 5 governing appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 or subchapter III of chapter 53 of title 5 relating to classification and General Schedule pay rates, except that no individual so appointed may receive pay in excess of the annual rate of basic pay in effect for grade GS–18 of the General Schedule.
 
 &emsp;&emsp;(ii) The first officer or employee appointed by the Board shall be the Executive Director of the Foundation who—
 
@@ -128,9 +128,7 @@
 
 Subject to the requirements of this subsection, the Administrator may provide personnel, facilities, and other administrative services to the Foundation, including reimbursement of expenses under subsection (b)(6) of this section, not to exceed then current Federal Government per diem rates, for a period of up to 4 years from November 16, 1990, and may accept reimbursement therefor, to be deposited in the Treasury to the credit of the appropriations then current and chargeable for the costs of providing such services. With respect to personnel, the Administrator may provide no more than 1 full-time employee to serve the Foundation in a policy capacity, and may provide clerical and other support staff at a level equivalent to 2 full-time equivalent employees to the Foundation, for a period not to exceed 2 years from the date of initial assignment of any personnel for this purpose.
 
-#### (f) Report
-
-The Foundation shall, as soon as practicable after the end of each fiscal year, transmit to Congress a report of its proceedings and activities during the year, including a full and complete statement of its receipts, expenditures, and investments.
+#### (f) Omitted
 
 #### (g) Volunteer status
 
@@ -158,13 +156,15 @@ The civil service classification laws, referred to in subsec. (g), probably shou
 
 #### Codification
 
-In subsec. (h), “section 10101 of title 36” substituted for “the Act entitled ‘An Act for audit of accounts of private corporations established under Federal law’, approved August 30, 1964 (Public Law 88–504; 36 U.S.C. 1101–1103)” and “a corporation in part B of subtitle II of title 36” substituted for “a private corporation established under Federal law” on authority of Pub. L. 105–225, §5(b), Aug. 12, 1998, 112 Stat. 1499, the first section of which enacted Title 36, Patriotic and National Observances, Ceremonies, and Organizations.
+Subsec. (f) of this section, which required the Foundation, as soon as practicable after the end of each fiscal year, to transmit to Congress a report of its proceedings and activities, including a full and complete statement of its receipts, expenditures, and investments, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 183 of House Document No. 103–7.
+
+In subsec. (h), “section 10101 of title 36” substituted for “the Act entitled ‘An Act for audit of accounts ofprivate corporations established under Federal law’, approved August 30, 1964 (Public Law 88–504; 36 U.S.C. 1101–1103)” and “a corporation in part B of subtitle II of title 36” substituted for “a private corporation established under Federal law” on authority of Pub. L. 105–225, §5(b), Aug. 12, 1998, 112 Stat. 1499, the first section of which enacted Title 36, Patriotic and National Observances, Ceremonies, and Organizations.
 
 #### Change of Name
 
 Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

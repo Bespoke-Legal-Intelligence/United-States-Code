@@ -4,11 +4,7 @@
 
 The Export-Import Bank of the United States shall transmit to the Congress annually a complete and detailed report of its operations. Such report shall be as of the close of business on the last day of each fiscal year.
 
-#### (b) Actions taken by Bank to aid small business
-
-The report shall contain a description of actions taken by the Bank in pursuance of the policy of aiding, counseling, assisting, and protecting, insofar as is possible, the interests of small business concerns and of the activities of the member of the Board appointed to represent the interest of small business. In addition, the Bank shall include in the report a description of specific activities and programs undertaken by it to achieve the policy of section 3261 of title 22, and section 2151q of title 22, as required by section 635(b)(1)(C) of this title.
-
-#### (c) Report on allocation of sums set aside for small business exports
+#### (b) Report on allocation of sums set aside for small business exports
 
 (1) The Bank shall include in its annual report to the Congress a report on the allocation of the sums set aside for small business exports pursuant to section 635(b)(1)(E) of this title.
 
@@ -28,33 +24,21 @@ The report shall contain a description of actions taken by the Bank in pursuance
 
 (3) For the purpose of this subsection, the Bank's report shall be transmitted to the Committee on Small Business of the Senate and the Committee on Small Business of the House of Representatives.
 
-#### (d) Actions taken by Bank to aid industries, preserve and create highly skilled jobs, and enhance opportunity for business growth and expansion; comments of Advisory Committee
-
-(1) The report shall include a detailed description of all actions which have been taken by the Bank or which will be taken by the Bank—
-
-&emsp;(A) to maintain the competitive position of key linkage industries in the United States;
-
-&emsp;(B) to support industries which are engaged in the export of high value added products;
-
-&emsp;(C) to support industries which are engaged in the development of new capital goods technology;
-
-&emsp;(D) to preserve and create high skilled jobs in the United States economy; and
-
-&emsp;(E) to enhance the opportunity for growth and expansion of small businesses and entrepreneurial enterprises.
-
-(2) Such report shall include the comments of the Advisory Committee regarding the objectives specified in paragraph (1).
-
-(July 31, 1945, ch. 341, §8, formerly §9, 59 Stat. 529; Pub. L. 90–267, §1(a), Mar. 13, 1968, 82 Stat. 47; Pub. L. 93–646, §10, Jan. 4, 1975, 88 Stat. 2336; Pub. L. 95–630, title XIX, §1907(b), Nov. 10, 1978, 92 Stat. 3725; Pub. L. 98–181, title VI, §§618(b), 623, Nov. 30, 1983, 97 Stat. 1259, 1262; Pub. L. 99–472, §20(b), (c), Oct. 15, 1986, 100 Stat. 1209, 1210; renumbered §8, Pub. L. 102–429, title I, §121(c)(2), Oct. 21, 1992, 106 Stat. 2199.)
-
-#### References in Text
-
-Section 2151q of title 22, referred to in subsec. (b), was repealed by Pub. L. 96–533, title III, §304(g), Dec. 16, 1980, 94 Stat. 3147. See section 2151d(a)(2), (b)(2), (c) of Title 22, Foreign Relations and Intercourse.
+(July 31, 1945, ch. 341, §8, formerly §9, 59 Stat. 529; Pub. L. 90–267, §1(a), Mar. 13, 1968, 82 Stat. 47; Pub. L. 93–646, §10, Jan. 4, 1975, 88 Stat. 2336; Pub. L. 95–630, title XIX, §1907(b), Nov. 10, 1978, 92 Stat. 3725; Pub. L. 98–181, title VI, §§618(b), 623, Nov. 30, 1983, 97 Stat. 1259, 1262; Pub. L. 99–472, §20(b), (c), Oct. 15, 1986, 100 Stat. 1209,1210; renumbered §8, Pub. L. 102–429, title I, §121(c)(2), Oct. 21, 1992, 106 Stat. 2199; Pub. L. 106–569, title XI, §1104(a)(4), Dec. 27, 2000, 114 Stat. 3032.)
 
 #### Prior Provisions
 
 A prior section 8 of act July 31, 1945, ch. 341, was renumbered section 7 and is classified to section 635f of this title.
 
 #### Amendments
+
+2000—Subsec. (b). Pub. L. 106–569 redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “The report shall contain a description of actions taken by the Bank in pursuance of the policy of aiding, counseling, assisting, and protecting, insofar as is possible, the interests of small business concerns and of the activities of the member of the Board appointed to represent the interest of small business. In addition, the Bank shall include in the report a description of specific activities and programs undertaken by it to achieve the policy of section 3261 of title 22, and section 2151q of title 22, as required by section 635(b)(1)(C) of this title.”
+
+Subsec. (c). Pub. L. 106–569 redesignated subsec. (c) as (b) and directed redesignation of subsec. (e) as (c).
+
+Subsec. (d). Pub. L. 106–569 struck out subsec. (d) which required report to include actions taken by Bank to aid industries, preserve and create highly skilled jobs, and enhance opportunity for business growth and expansion and comments of Advisory Committee.
+
+Subsec. (e). Pub. L. 106–569, which directed redesignation of subsec. (e) as (c), could not be executed. See 1986 Amendment note and Termination Date of 1986 Amendment note below.
 
 1986—Subsec. (e). Pub. L. 99–472 temporarily added subsec. (e). See Termination Date of 1986 Amendment note below.
 
@@ -91,8 +75,4 @@ Pub. L. 101–167, title V, §534(d), Nov. 21, 1989, 103 Stat. 1231, provided th
 #### Submission of Annual Report
 
 Pub. L. 89–348, §2(9), Nov. 8, 1965, 79 Stat. 1312, modified requirement relating to submission of reports to Congress by providing for annual reports instead of semiannual reports.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 635 of this title.
 

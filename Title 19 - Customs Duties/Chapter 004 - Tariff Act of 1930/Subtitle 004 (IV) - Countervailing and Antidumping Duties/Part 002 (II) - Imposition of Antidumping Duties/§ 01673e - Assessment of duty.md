@@ -54,7 +54,7 @@ Within 7 days after being notified by the Commission of an affirmative determina
 
 #### (2) Notice; hearing
 
-&emsp;If the administering authority permits the posting of a bond or other security in lieu ofthe deposit of estimated antidumping duties under paragraph (1), it shall—
+&emsp;If the administering authority permits the posting of a bond or other security in lieu of the deposit of estimated antidumping duties under paragraph (1), it shall—
 
 &emsp;&emsp;(A) publish notice of its action in the Federal Register, and
 

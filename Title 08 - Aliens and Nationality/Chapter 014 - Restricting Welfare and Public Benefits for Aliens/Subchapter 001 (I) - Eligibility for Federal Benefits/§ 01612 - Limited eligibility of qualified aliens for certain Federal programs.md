@@ -10,7 +10,7 @@
 
 #### (A) Time-limited exception for refugees and asylees
 
-&emsp;&emsp;With respect to the specified Federal programs described in paragraph (3), paragraph (1) shall not apply to an alien until 7 years after the date—
+&emsp;&emsp;With respect to the specified Federal programs described in paragraph (3), paragraph\(1) shall not apply to an alien until 7 years after the date—
 
 &emsp;&emsp;&emsp;(i) an alien is admitted to the United States as a refugee under section 207 of the Immigration and Nationality Act \[8 U.S.C. 1157\];
 
@@ -70,7 +70,7 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 #### (II) Recertification criteria
 
-&emsp;&emsp;&emsp;&emsp;With respect to any recertification under subclause (I), the State agencyshall apply the eligibility criteria for applicants for benefits under such program.
+&emsp;&emsp;&emsp;&emsp;With respect to any recertification under subclause (I), the State agency shall apply the eligibility criteria for applicants for benefits under such program.
 
 #### (III) Grandfather provision
 
@@ -224,7 +224,7 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 #### (A) Temporary assistance for needy families
 
-&emsp;&emsp;The program of block grants to States for temporary assistance for needy familiesunder part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\].
+&emsp;&emsp;The program of block grants to States for temporary assistance for needy families under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\].
 
 #### (B) Social services block grant
 
@@ -234,7 +234,7 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 &emsp;&emsp;A State plan approved under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\], other than medical assistance described in section 1611(b)(1)(A) of this title.
 
-(Pub. L. 104–193, title IV, §402, Aug. 22, 1996, 110 Stat. 2262; Pub. L. 104–208, div. C, title V, §510, Sept. 30, 1996, 110 Stat. 3009–673; Pub. L. 105–18, title II, §6005(a), June 12, 1997, 111 Stat. 191; Pub. L. 105–33, title V, §§5301–5302(b), 5303(a), (b), 5304, 5305(b), 5306(a), (b), 5562, 5563, Aug. 5, 1997, 111 Stat. 597, 598, 600–602, 638; Pub. L. 105–185, title V, §§503–508, June 23, 1998, 112 Stat. 578, 579.)
+(Pub. L. 104–193, title IV, §402, Aug. 22, 1996, 110 Stat. 2262; Pub. L. 104–208, div. C, title V, §510,Sept. 30, 1996, 110 Stat. 3009–673; Pub. L. 105–18, title II, §6005(a), June 12, 1997, 111 Stat. 191; Pub. L. 105–33, title V, §§5301–5302(b), 5303(a), (b), 5304, 5305(b), 5306(a), (b), 5562, 5563, Aug. 5, 1997, 111 Stat. 597, 598, 600–602, 638; Pub. L. 105–185, title V, §§503–508, June 23, 1998, 112 Stat. 578, 579.)
 
 #### References in Text
 

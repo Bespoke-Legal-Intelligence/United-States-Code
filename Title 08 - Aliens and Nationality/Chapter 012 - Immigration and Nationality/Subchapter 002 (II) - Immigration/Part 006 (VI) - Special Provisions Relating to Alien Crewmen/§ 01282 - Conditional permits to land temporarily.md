@@ -10,7 +10,7 @@ No alien crewman shall be permitted to land temporarily in the United States exc
 
 #### (b) Revocation; expenses of detention
 
-Pursuant to regulations prescribed by the Attorney General, any immigration officer may, in his discretion, if he determines that an alien is not a bona fide crewman, or does not intend to depart on the vessel or aircraft which brought him, revoke the conditional permit to land which was granted such crewman under the provisions of subsection (a)(1) of this section, take such crewman into custody, and require the master or commanding officer of the vessel or aircraft on which the crewman arrived to receive and detain him on board such vessel or aircraft, if practicable, and such crewman shall be removed from the United States at the expense of the transportation line which brought him to the United States. Until such alien is so removed, any expenses of his detention shall be borne by such transportation company. Nothing in this section shall be construed to require the procedure prescribed in section 1229a of this title to cases falling within the provisions of this subsection.
+Pursuant to regulations prescribed by the Attorney General, any immigration officer may, in his discretion, if he determines that an alien is not a bona fide crewman, or does not intend to depart on the vessel or aircraft which brought him, revoke the conditional permit to land which was granted such crewman under the provisions of subsection (a)(1) of this section, take such crewman into custody, and require the master or commanding officer of the vessel or aircraft on which the crewman arrived to receive and detain him on board such vessel or aircraft, if practicable, and such crewman shall be removed from the United States at the expense of the transportation line which brought him to the United States. Until such alien is so removed, any expenses of his detention shall be borne by such transportation company. Nothing in this section shall be construed to require theprocedure prescribed in section 1229a of this title to cases falling within the provisions of this subsection.
 
 #### (c) Penalties
 
@@ -39,10 +39,6 @@ Amendment by Pub. L. 102–232 effective as if included in the enactment of the 
 #### Effective Date of 1990 Amendment
 
 Amendment by Pub. L. 101–649 applicable to actions taken after Nov. 29, 1990, see section 543(c) of Pub. L. 101–649, set out as a note under section 1221 of this title.
-
-#### Cross References
-
-Definition of alien, Attorney General, crewman, immigration officer, nonimmigrant alien, and United States, see section 1101 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -10,10 +10,6 @@ Section was formerly classified to section 563 of Title 5 prior to the general r
 
 A prior section 450b, Pub. L. 89–106, §2, Aug. 4, 1965, 79 Stat. 431, which related to research grants, duration, records, and audit, was transferred to section 450i of this title.
 
-#### Cross References
-
-Application to cooperative work by Fish and Wildlife Service, see section 753 of Title 16, Conservation.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 2220 of this title; title 16 section 743.

@@ -1,24 +1,18 @@
 ### §300ff–77. Authorization of appropriations
 
-#### (a) In general
+#### (a) Part A
 
-Subject to subsection (b) of this section, there are authorized to be appropriated to make grants under parts A and B of this subchapter, such sums as may be necessary for each of the fiscal years 1996 through 2000.
+For the purpose of carrying out part A of this subchapter, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005.
 
-#### (b) Development of methodology
+#### (b) Part B
 
-#### (1) In general
+For the purpose of carrying out part B of this subchapter, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005.
 
-&emsp;With respect to each of the fiscal years 1997 through 2000, the Secretary shall develop andimplement a methodology for adjusting the percentages allocated to part A of this subchapter and part B of this subchapter to account for grants to new eligible areas under part A of this subchapter and other relevant factors. Not later than July 1, 1996, the Secretary shall prepare and submit to the appropriate committees of Congress a report regarding the findings with respect to the methodology developed under this paragraph.
+(July 1, 1944, ch. 373, title XXVI, §2677, as added Pub. L. 104–146, §6(a), May 20, 1996, 110 Stat. 1367; amended Pub. L. 106–345, title IV, §417, Oct. 20, 2000, 114 Stat. 1352.)
 
-#### (2) Failure to implement
+#### Amendments
 
-&emsp;If the Secretary determines that such a methodology under paragraph (1) cannot be developed, there are authorized to be appropriated—
-
-&emsp;&emsp;(A) such sums as may be necessary to carry out part A of this subchapter for each of the fiscal years 1997 through 2000; and
-
-&emsp;&emsp;(B) such sums as may be necessary to carry out part B of this subchapter for each of the fiscal years 1997 through 2000.
-
-(July 1, 1944, ch. 373, title XXVI, §2677, as added Pub. L. 104–146, §6(a), May 20, 1996, 110 Stat. 1367.)
+2000—Pub. L. 106–345 amended section catchline and text generally, substituting provisions authorizing appropriations for parts A and B of this subchapter for fiscal years 2001 through 2005 for provisions authorizing appropriations to make grants under parts A and B of this subchapter for fiscal years 1996 through 2000 and directing the Secretary to develop a methodology, to be implemented if possible, for adjusting allocations to account for grants to new eligible areas under part A of this subchapter and other relevant factors and to report to Congress on the methodology.
 
 #### Effective Date
 
@@ -26,5 +20,5 @@ Section effective May 20, 1996, see section 13(b) of Pub. L. 104–146, set out 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 300ff–13, 300ff–15, 300ff–16, 300ff–28, 300ff–33 of this title.
+This section is referred to in sections 300ff–13, 300ff–15, 300ff–16, 300ff–28, 300ff–30, 300ff–33 of this title.
 

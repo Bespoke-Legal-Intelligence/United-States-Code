@@ -34,10 +34,6 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 Section 504(a) of Pub. L. 95–454 provided that amendment by Pub. L. 95–454 was effective on first day of first applicable pay period which began on or after Oct. 1, 1981, except it could take effect with respect to any category or categories of positions before such day to extent prescribed by Director of Office of Personnel Management.
 
-#### Cross References
-
-Cash awards for suggestions, inventions or scientific achievements, see section 1124 of Title 10, Armed Forces.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 4502, 4504 of this title; title 12 section 1441a; title 50 section 403e–1.

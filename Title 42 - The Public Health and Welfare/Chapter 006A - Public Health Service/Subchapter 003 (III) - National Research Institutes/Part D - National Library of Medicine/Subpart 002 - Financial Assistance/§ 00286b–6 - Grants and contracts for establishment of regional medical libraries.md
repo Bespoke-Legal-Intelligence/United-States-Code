@@ -14,7 +14,7 @@ The uses for which grants and contracts under this section may be employed inclu
 
 &emsp;(3) acquisition of duplicating devices and other equipment to facilitate the use of the resources of the library by those who are served by it;
 
-&emsp;(4) acquisition of mechanisms and employment of personnel for the speedy transmission of materials from the regional library to locallibraries in the geographic area served by the regional library; and
+&emsp;(4) acquisition of mechanisms and employment of personnel for the speedy transmission of materials from the regional library to local libraries in the geographic area served by the regional library; and
 
 &emsp;(5) planning for services and activities under this section.
 

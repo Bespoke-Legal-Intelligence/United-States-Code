@@ -26,7 +26,7 @@
 
 &emsp;&emsp;&emsp;(i) any judgment regarding the granting of relief under section 1182(h), 1182(i), 1229b, 1229c, or 1255 of this title, or
 
-&emsp;&emsp;&emsp;(ii) any other decision or action of the Attorney General the authority for which is specified under this subchapter to be in the discretion of the Attorney General, other than the granting of relief under section 1158(a) of this title.
+&emsp;&emsp;&emsp;(ii) any other decision or action of the Attorney General the authority for which is specified under this subchapter to be in the discretion of the Attorney General,other than the granting of relief under section 1158(a) of this title.
 
 #### (C) Orders against criminal aliens
 
@@ -144,7 +144,7 @@ A court may review a final order of removal only if—
 
 &emsp;(1) the alien has exhausted all administrative remedies available to the alien as of right, and
 
-&emsp;(2) another court has not decided the validity of the order, unless the reviewing courtfinds that the petition presents grounds that could not have been presented in the prior judicial proceeding or that the remedy provided by the prior proceeding was inadequate or ineffective to test the validity of the order.
+&emsp;(2) another court has not decided the validity of the order, unless the reviewing court finds that the petition presents grounds that could not have been presented in the prior judicial proceeding or that the remedy provided by the prior proceeding was inadequate or ineffective to test the validity of the order.
 
 #### (e) Judicial review of orders under section 1225(b)(1)
 
@@ -212,7 +212,7 @@ A court may review a final order of removal only if—
 
 #### (g) Exclusive jurisdiction
 
-Except as provided in this section and notwithstanding any other provision of law, nocourt shall have jurisdiction to hear any cause or claim by or on behalf of any alien arising from the decision or action by the Attorney General to commence proceedings, adjudicate cases, or execute removal orders against any alien under this chapter.
+Except as provided in this section and notwithstanding any other provision of law, no court shall have jurisdiction to hear any cause or claim by or on behalf of any alien arising from the decision or action by the Attorney General to commence proceedings, adjudicate cases, or execute removal orders against any alien under this chapter.
 
 (June 27, 1952, ch. 477, title II, ch. 5, §242, 66 Stat. 208; Sept. 3, 1954, ch. 1263, §17, 68 Stat. 1232; Pub. L. 97–116, §18(h)(1), Dec. 29, 1981, 95 Stat. 1620; Pub. L. 98–473, title II, §220(b), Oct. 12, 1984, 98 Stat. 2028; Pub. L. 99–603, title VII, §701, Nov. 6, 1986, 100 Stat. 3445; Pub. L. 100–525, §9(n), Oct. 24, 1988, 102 Stat. 2620; Pub. L. 100–690, title VII, §7343(a), Nov. 18, 1988, 102 Stat. 4470; Pub. L. 101–649, title V, §§504(a), 545(e), title VI, §603(b)(2), Nov. 29, 1990, 104 Stat. 5049, 5066, 5085; Pub. L. 102–232, title III, §§306(a)(4), (c)(7), 307(m)(2), 309(b)(9), Dec. 12, 1991, 105 Stat. 1751, 1753, 1757, 1759; Pub. L. 103–322, title II, §20301(a), title XIII, §130001(a), Sept. 13, 1994, 108 Stat. 1823, 2023; Pub. L. 103–416, title II, §§219(h), 224(b), Oct. 25, 1994, 108 Stat. 4317, 4324; Pub. L. 104–132, title IV, §§436(a), (b)(1), 438(a), 440(c), (h), Apr. 24, 1996, 110 Stat. 1275, 1277, 1279; Pub. L. 104–208, div. C, title III, §§306(a), (d), 308(g)(10)(H), 371(b)(6), Sept. 30, 1996, 110 Stat. 3009–607, 3009–612, 3009–625, 3009–645.)
 
@@ -318,7 +318,7 @@ Amendment by section 371(b)(6) of Pub. L. 104–208 effective Sept. 30, 1996, se
 
 For delayed effective date of amendment by section 440(c) of Pub. L. 104–132, see section 303(b)(2) of Pub. L. 104–208, set out as a note under section 1226 of this title.
 
-Section 436(b)(3) of Pub. L. 104–132 provided that: “The amendments made by this subsection \[amending this section and provisions set out as a note under section 1101 of this title\] shall take effect as if included in the enactment of the Immigration and Nationality Technical Corrections Act of 1994 (Public Law 103–416).”
+Section 436(b)(3) of Pub. L. 104–132 provided that: “The amendments made by this subsection \[amendingthis section and provisions set out as a note under section 1101 of this title\] shall take effect as if included in the enactment of the Immigration and Nationality Technical Corrections Act of 1994 (Public Law 103–416).”
 
 #### Effective Date of 1994 Amendments
 
@@ -399,38 +399,6 @@ In General.—Subject to subsection (b) and notwithstanding any other provision 
 “(b)
 
 Limitation.—The Attorney General shall terminate or rescind the exercise of the authority under subsection (a) if the Attorney General determines that the exercise of such authority has resulted in discrimination by law enforcement officials on the basis of race, color, or national origin.”
-
-#### Cross References
-
-Conspiracy, see section 371 et seq. of Title 18, Crimes and Criminal Procedure.
-
-Definition of the term—
-
-&emsp;&emsp;Alien, see section 1101(a)(3) of this title.
-
-&emsp;&emsp;Alien deported in pursuance of law, see section 1101(g) of this title.
-
-&emsp;&emsp;Attorney General, see section 1101(a)(5) of this title.
-
-&emsp;&emsp;Immigration laws, see section 1101(a)(17) of this title.
-
-&emsp;&emsp;Immigration officer, see section 1101(a)(18) of this title.
-
-&emsp;&emsp;National, see section 1101(a)(21) of this title.
-
-&emsp;&emsp;Passport, see section 1101(a)(30) of this title.
-
-&emsp;&emsp;Special inquiry officer, see section 1101(b)(4) of this title.
-
-&emsp;&emsp;United States, see section 1101(a)(38) of this title.
-
-Habeas corpus, see section 2241 et seq. of Title 28, Judiciary and Judicial Procedure.
-
-Judicial review of orders of deportation, see section 1105a of this title.
-
-Peace Corps programs, deportation of foreign participants pursuant to provisions of this section, see section 2508 of Title 22, Foreign Relations and Intercourse.
-
-Sentences, see section 3551 et seq. of Title 18, Crimes and Criminal Procedure.
 
 #### Section Referred to in Other Sections
 

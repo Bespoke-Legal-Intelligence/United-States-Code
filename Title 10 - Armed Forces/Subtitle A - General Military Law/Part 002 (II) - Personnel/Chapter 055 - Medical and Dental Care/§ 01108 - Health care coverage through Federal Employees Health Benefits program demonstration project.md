@@ -14,7 +14,7 @@ Eligible Beneficiaries; Coverage.—(1) An eligible beneficiary under this subse
 
 &emsp;(C) an individual who is—
 
-&emsp;&emsp;(i) a dependent of a deceased member or former member described in section 1076(b) or 1076(a)(2)(B) of this title or of a member who died while on active duty for a period of more than 30 days; and
+&emsp;&emsp;(i) a dependent of a deceased member or former member described in section 1076(b)or 1076(a)(2)(B) of this title or of a member who died while on active duty for a period of more than 30 days; and
 
 &emsp;&emsp;(ii) a member of family as defined in section 8901(5) of title 5; or
 
@@ -78,7 +78,7 @@ Government Contributions.—The Secretary of Defense shall be responsible for th
 
 (j)
 
-Report Requirements.—(1) The Secretary of Defense and the Director of the Office of Personnel Management shall jointly submit to Congress two reports containing the information described in paragraph (2). The first report shall be submitted not later than the date that is 15 months after the date that the Secretary begins to implement the demonstration project. The second report shall be submitted not later than December 31, 2002.
+Report Requirements.—(1) The Secretary of Defense and the Director of the Office of Personnel Management shall jointly submit to Congress two reports containing the information described in paragraph (2). The first report shall be submitted not later than the date that is 15 months after the date that the Secretary beginsto implement the demonstration project. The second report shall be submitted not later than December 31, 2002.
 
 (2) The reports required by paragraph (1) shall include the following:
 

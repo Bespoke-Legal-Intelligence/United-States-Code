@@ -10,7 +10,7 @@
 
 Indian Employment and Contracting.—Consistent with section 703(i) of the Civil Rights Act of 1964 (42 U.S.C. 2000e–2(i)), nothing in this section shall preclude the preferential employment of Indians living on or near a reservation on projects and contracts on Indian reservation roads. States may implement a preference for employment of Indians on projects carried out under this title near Indian reservations. The Secretary shall cooperate with Indian tribal governments and the States to implement this subsection.
 
-(Added Pub. L. 90–495, §22(a), Aug. 23, 1968, 82 Stat. 826; amended Pub. L. 91–605, title I, §110,Dec. 31, 1970, 84 Stat. 1719; Pub. L. 93–87, title I, §120, Aug. 13, 1973, 87 Stat. 259; Pub. L. 94–280, title I, §126, May 5, 1976, 90 Stat. 440; Pub. L. 97–424, title I, §119, Jan. 6, 1983, 96 Stat. 2110; Pub. L. 100–17, title I, §122, Apr. 2, 1987, 101 Stat. 160; Pub. L. 102–240, title I, §1026, Dec. 18, 1991, 105 Stat. 1965; Pub. L. 102–388, title IV, §412, Oct. 6, 1992, 106 Stat. 1565; Pub. L. 105–178, title I, §§1208, 1212(a)(2)(A), June 9, 1998, 112 Stat. 186, 193.)
+(Added Pub. L. 90–495, §22(a), Aug. 23, 1968, 82 Stat. 826; amended Pub. L. 91–605, title I, §110, Dec. 31, 1970, 84 Stat. 1719; Pub. L. 93–87, title I, §120, Aug. 13, 1973, 87 Stat. 259; Pub. L. 94–280, title I, §126, May 5, 1976, 90 Stat. 440; Pub. L. 97–424, title I, §119, Jan. 6, 1983, 96 Stat. 2110; Pub. L. 100–17, title I, §122, Apr. 2, 1987, 101 Stat. 160; Pub. L. 102–240, title I, §1026, Dec. 18, 1991, 105 Stat. 1965; Pub. L. 102–388, title IV, §412, Oct. 6, 1992, 106 Stat. 1565; Pub. L. 105–178, title I, §§1208, 1212(a)(2)(A), June 9, 1998, 112 Stat. 186, 193.)
 
 #### References in Text
 

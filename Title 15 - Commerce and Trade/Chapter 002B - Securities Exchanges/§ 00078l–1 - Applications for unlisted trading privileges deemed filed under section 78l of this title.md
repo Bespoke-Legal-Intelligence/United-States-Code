@@ -8,7 +8,3 @@ Any application to continue unlisted trading privileges for any security heretof
 
 Section was not enacted as a part of the Securities Exchange Act of 1934 which comprises this chapter.
 
-#### Cross References
-
-Effective date, see section 78hh–1 of this title.
-

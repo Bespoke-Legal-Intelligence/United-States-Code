@@ -32,6 +32,26 @@ The civil service laws, referred to in subsec. (a)(1), are set forth in Title 5,
 
 1988—Subsecs. (b), (c). Pub. L. 100–689 added subsec. (b) and redesignated former subsec. (b) as (c).
 
+#### Pilot Program
+
+Pub. L. 106–488, §2, Nov. 9, 2000, 114 Stat. 2205, provided that:
+
+“(a) In furtherance of the goals of sections 1307 and 1308 of the Alaska National Interest Lands Conservation Act \[16 U.S.C. 3197, 3198\] and the provisions of the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 450 et seq.\], the Secretary \[of the Interior\] shall—
+
+&emsp;“(1) implement pilot programs to employ residents of local communities at the following units of the National Park System located in northwest Alaska—
+
+&emsp;&emsp;“(A) Bering Land Bridge National Preserve,
+
+&emsp;&emsp;“(B) Cape Krusenstern National Monument,
+
+&emsp;&emsp;“(C) Kobuk Valley National Park, and
+
+&emsp;&emsp;“(D) Noatak National Preserve; and
+
+&emsp;“(2) report on the results of the programs within one year to the Committee on Energy and Natural Resources of the United States \[Senate\] and the Committee on Resources of the House of Representatives.
+
+“(b) In implementing the programs, the Secretary shall consult with the Native Corporations, nonprofitorganizations, and Tribal entities in the immediate vicinity of such units and shall also, to the extent practicable, involve such groups in the development of interpretive materials and the pilot programs relating to such units.”
+
 #### Local Hire Report
 
 Pub. L. 105–333, §11, Oct. 31, 1998, 112 Stat. 3135, provided that:

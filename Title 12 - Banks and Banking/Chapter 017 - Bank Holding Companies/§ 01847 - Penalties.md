@@ -16,7 +16,7 @@
 
 #### (2) Assessment; etc.
 
-&emsp;Any penalty imposed under paragraph (1) may be assessed and collected by the Board in the manner provided in subparagraphs (E), (F),\(G), and (I) of section 1818(i)(2) of this title for penalties imposed (under such section) and any such assessment shall be subject to the provisions of such section.
+&emsp;Any penalty imposed under paragraph (1) may be assessed and collected by the Board in the manner provided in subparagraphs (E), (F), (G), and (I) of section 1818(i)(2) of this title for penalties imposed (under such section) and any such assessment shall be subject to the provisions of such section.
 
 #### (3) Hearing
 
@@ -84,7 +84,7 @@ The resignation, termination of employment or participation, or separation of an
 
 Subsec. (b). Pub. L. 101–73, §907(j)(2), added headings and amended text generally. Prior to amendment, subsec. (b) read as follows:
 
-“(1) Any company which violates or any individual who participates in a violation of any provision of this chapter, or any regulation or order issued pursuant thereto, shall forfeit and pay a civil penalty of notmore than $1,000 per day for each day during which such violation continues: <i>Provided</i>, That the Board may, in its discretion, compromise, modify, or remit any civil money penalty which is subject to imposition or has been imposed under authority of this subsection. The penalty may be assessed and collected by the Board by written notice. As used in the section, the term ‘violates’ includes without any limitation any action (alone or with another or others) for or toward causing, bringing about, participating in, counseling, or aiding or abetting a violation.
+“(1) Any company which violates or any individual who participates in a violation of any provision of this chapter, or any regulation or order issued pursuant thereto, shall forfeit and pay a civil penalty of not more than $1,000 per day for each day during which such violation continues: <i>Provided</i>, That the Board may, in its discretion, compromise, modify, or remit any civil money penalty which is subject to imposition or has been imposed under authority of this subsection. The penalty may be assessed and collected by the Board by written notice. As used in the section, the term ‘violates’ includes without any limitation any action (alone or with another or others) for or toward causing, bringing about, participating in, counseling, or aiding or abetting a violation.
 
 “(2) In determining the amount of the penalty the Board shall take into account the appropriateness of the penalty with respect to the size of financial resources and good faith of the company or person charged, the gravity of the violation, the history of previous violations, and such other matters as justice may require.
 
@@ -106,7 +106,7 @@ Subsec. (d). Pub. L. 101–73, §911(e), added subsec. (d).
 
 #### Effective Date of 1989 Amendment
 
-Amendment by section 907(j) of Pub. L. 101–73 applicable to conduct engaged in after Aug. 9, 1989, except that increased maximum penalties of $5,000 and $25,000 may apply to conduct engaged in before such date if such conduct is not already subject to a notice issued by the appropriate agency and occurred after completion of the last report of the examination of the institution by the appropriate agency occurring before Aug. 9, 1989, see section 907(<i>l</i>) of Pub. L. 101–73, set out as a note under section 93 of this title.
+Amendment by section 907(j) of Pub. L. 101–73 applicable to conduct engaged in after Aug. 9, 1989, except thatincreased maximum penalties of $5,000 and $25,000 may apply to conduct engaged in before such date if such conduct is not already subject to a notice issued by the appropriate agency and occurred after completion of the last report of the examination of the institution by the appropriate agency occurring before Aug. 9, 1989, see section 907(<i>l</i>) of Pub. L. 101–73, set out as a note under section 93 of this title.
 
 Amendment by section 911(e) of Pub. L. 101–73 applicable with respect to reports filed or required to be filed after Aug. 9, 1989, see section 911(i) of Pub. L. 101–73, set out as a note under section 161 of this title.
 

@@ -6,7 +6,7 @@
 
 &emsp;(1) an employee or group of employees solely on the basis of the hazardous nature of employment;
 
-&emsp;(2) a teacher in the employ of the Board of Education of the District of Columbia, whose pay is fixed by section 1501 of title 31, District of Columbia Code, on the basis of the fact that the teacher is serving under a temporary appointment if the teacher has been so employed by the Board for a period or periods totaling not less than two school years;
+&emsp;(2) a teacher in the employ of the Board of Education of the District of Columbia, whosepay is fixed by section 1501 of title 31, District of Columbia Code, on the basis of the fact that the teacher is serving under a temporary appointment if the teacher has been so employed by the Board for a period or periods totaling not less than two school years;
 
 &emsp;(3) an employee who is occupying a position on a part-time career employment basis (as defined in section 3401(2) of this title); or
 
@@ -62,17 +62,13 @@ In subsection (b)(2), the words “section 1501 of title 31, District of Columbi
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
-#### References in Text
-
-Section 1501 of title 31, District of Columbia Code, referred to in subsec. (b)(2), was transferred to section 31–1101 of Title 31, Education and Cultural Institutions, of the District of Columbia Code.
-
 #### Amendments
 
 1988—Subsec. (b)(4). Pub. L. 100–654 added par. (4).
 
 1985—Subsec. (b). Pub. L. 99–53 inserted reference to section 8903a of this title.
 
-1984—Subsec. (c). Pub. L. 98–615, §3(7), substituted “employees, annuitants, members of their families, andformer spouses” for “employees and annuitants and members of their families”, and “in which an annuitant or former spouse” for “in which an annuitant”.
+1984—Subsec. (c). Pub. L. 98–615, §3(7), substituted “employees, annuitants, members of their families, and former spouses” for “employees and annuitants and members of their families”, and “in which an annuitant or former spouse” for “in which an annuitant”.
 
 1978—Subsecs. (a), (b). Pub. L. 95–454, §906(a)(2), (3), substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission” wherever appearing.
 

@@ -1,5 +1,5 @@
 
-47 U.S.C.<br>United States Code, 1999 Edition<br>Title 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS<br>From the U.S. Government Publishing Office, www.gpo.gov
+47 U.S.C.<br>United States Code, 2000 Edition<br>Title 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 47—TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
 
@@ -14,6 +14,7 @@
 | [<b>7.</b>](Chapter%20007%20-%20Campaign%20Communications/README.md) | <b>Campaign Communications \[Repealed\]</b> | <b>801</b> |
 | [<b>8.</b>](Chapter%20008%20-%20National%20Telecommunications%20and%20Information%20Administration/README.md) | <b>National Telecommunications and Information Administration</b> | <b>901</b> |
 | [<b>9.</b>](Chapter%20009%20-%20Interception%20of%20Digital%20and%20Other%20Communications/README.md) | <b>Interception of Digital and Other Communications</b> | <b>1001</b> |
+| [<b>10.</b>](Chapter%20010%20-%20Local%20TV/README.md) | <b>LOCAL TV</b> | <b>1101</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -31,3 +32,4 @@
 - [Chapter 007 - Campaign Communications](Chapter%20007%20-%20Campaign%20Communications/README.md)
 - [Chapter 008 - National Telecommunications and Information Administration](Chapter%20008%20-%20National%20Telecommunications%20and%20Information%20Administration/README.md)
 - [Chapter 009 - Interception of Digital and Other Communications](Chapter%20009%20-%20Interception%20of%20Digital%20and%20Other%20Communications/README.md)
+- [Chapter 010 - Local TV](Chapter%20010%20-%20Local%20TV/README.md)

@@ -22,7 +22,7 @@ The service projects carried out by the Civilian Community Corps shall—
 
 #### (B) Other sources
 
-&emsp;&emsp;Other public and private organizations and agencies, including representatives of local communities in the vicinity of a Corps camp, may develop proposals for projects for a Corps camp. Corps members shall also be encouraged to identify projects for the Corps.
+&emsp;&emsp;Other public and private organizations and agencies, including representatives of localcommunities in the vicinity of a Corps camp, may develop proposals for projects for a Corps camp. Corps members shall also be encouraged to identify projects for the Corps.
 
 #### (2) Consultation requirements
 

@@ -18,9 +18,3 @@ Changes were made in phraseology. The first sentence was incorporated in section
 
 1978—Pub. L. 95–624 substituted “Attorney General” for “Director of the Bureau of Prisons”.
 
-#### Cross References
-
-Bureau of Prisons, see section 4041 et seq. of this title.
-
-Employment in Federal prisons, see section 4121 et seq. of this title.
-

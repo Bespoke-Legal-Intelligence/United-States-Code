@@ -2,7 +2,7 @@
 
 After notice, the court shall hold a hearing on confirmation of the plan. A party in interest may object to confirmation of the plan.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2649; Pub. L. 98–353, title III, §529, July 10, 1984, 98 Stat. 389;Pub. L. 99–554, title II, §283(x), Oct. 27, 1986, 100 Stat. 3118.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2649; Pub. L. 98–353, title III, §529, July 10, 1984, 98 Stat. 389; Pub. L. 99–554, title II, §283(x), Oct. 27, 1986, 100 Stat. 3118.)
 
 #### Historical and Revision Notes
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Attorney General is authorized to provide grants to States and units of local government to improve processes for entering data regarding stalking and domestic violence into local, State, and national crime information databases.
+The Attorney General is authorized to provide grants to States and units of local government to improve and implement processes for entering data regarding stalking and domestic violence into local, State, and national crime information databases.
 
 #### (b) Eligibility
 
@@ -14,7 +14,11 @@ To be eligible to receive a grant under subsection (a) of this section, a State 
 
 &emsp;(3) protection orders for the protection of persons from stalking or domestic violence.
 
-(Pub. L. 103–322, title IV, §40602, Sept. 13, 1994, 108 Stat. 1951.)
+(Pub. L. 103–322, title IV, §40602, Sept. 13, 1994, 108 Stat. 1951; Pub. L. 106–386, div. B, title I, §1106(b), Oct. 28, 2000, 114 Stat. 1497.)
+
+#### Amendments
+
+2000—Subsec. (a). Pub. L. 106–386 inserted “and implement” after “improve”.
 
 #### Section Referred to in Other Sections
 

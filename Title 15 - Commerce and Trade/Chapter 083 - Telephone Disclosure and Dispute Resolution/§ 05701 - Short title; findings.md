@@ -16,7 +16,7 @@ The Congress finds the following:
 
 &emsp;(4) The lack of nationally uniform regulatory guidelines has led to confusion for callers, subscribers, industry participants, and regulatory agencies as to the rights of callers and the oversight responsibilities of regulatory authorities, and has allowed some pay-per-call businesses to engage in practices that abuse the rights of consumers.
 
-&emsp;(5) Some interstate pay-per-call businesses have engaged in practices which are misleading to the consumer, harmful to the public interest, or contrary to accepted standards of business practices and thus cause harm to the many reputable businesses that are serving the public.
+&emsp;(5) Some interstate pay-per-call businesses have engaged in practices which are misleading to the consumer, harmful to the public interest, or contrary to accepted standards of business practices and thus cause harm to themany reputable businesses that are serving the public.
 
 &emsp;(6) Because the consumer most often incurs a financial obligation as soon as a pay-per-call transaction is completed, the accuracy and descriptiveness of vendor advertisements become crucial in avoiding consumer abuse. The obligation for accuracy should include price-per-call and duration-of-call information, odds disclosure for lotteries, games, and sweepstakes, and obligations for obtaining parental consent from callers under 18.
 

@@ -142,11 +142,7 @@ Section 245(a) of Pub. L. 104–127 provided that the amendment made by that sec
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–465 effective on the date of entry into force of the WTO Agreement with respect tothe United States (Jan. 1, 1995), except as otherwise provided, see section 451 of Pub. L. 103–465, set out as an Effective Date note under section 3601 of Title 19, Customs Duties.
-
-#### Cross References
-
-Uruguay Round Agreements, see section 3501 et seq. of Title 19, Customs Duties.
+Amendment by Pub. L. 103–465 effective on the date of entry into force of the WTO Agreement with respect to the United States (Jan. 1, 1995), except as otherwise provided, see section 451 of Pub. L. 103–465, set out as an Effective Date note under section 3601 of Title 19, Customs Duties.
 
 #### Section Referred to in Other Sections
 

@@ -14,7 +14,7 @@ In order to prevent the waste of commodities whether in private stocks or acquir
 
 &emsp;(B) such other edible agricultural commodities as may be acquired by the Secretary or the Commodity Credit Corporation in the normal course of operations and that are available for disposition under this subsection, except that no such commodities may be acquired for the purpose of their use under this subsection.
 
-(3)(A) Commodities may not be made available for disposition under this subsection in amountsthat (i) will, in any way, reduce the amounts of commodities that traditionally are made available through donations to domestic feeding programs or agencies, or (ii) will prevent the Secretary from fulfilling any agreement entered into by the Secretary under a payment-in-kind program under this Act or other Acts administered by the Secretary.
+(3)(A) Commodities may not be made available for disposition under this subsection in amounts that (i) will, in any way, reduce the amounts of commodities that traditionally are made available through donations to domestic feeding programs or agencies, or (ii) will prevent the Secretary from fulfilling any agreement entered into by the Secretary under a payment-in-kind program under this Act or other Acts administered by the Secretary.
 
 (B)(i) The requirements of section 403(a) of the Agricultural Trade Development and Assistance Act of 1954 \[7 U.S.C. 1733(a)\] shall apply with respect to commodities furnished under this subsection. Commodities may not be furnished for disposition to any country under this subsection except on determinations by the Secretary that—
 
@@ -64,7 +64,7 @@ In order to prevent the waste of commodities whether in private stocks or acquir
 
 &emsp;&emsp;(I) any project undertaken in Poland under the auspices of the Charitable Commission of the Polish Catholic Episcopate for the benefit of handicapped or orphaned children;
 
-&emsp;&emsp;(II) any project for the reconstruction, renovation, or maintenance of the Research Center on Jewish History and Culture of the Jagiellonian University of Krakow, Poland,established for the study of events related to the Holocaust in Poland;
+&emsp;&emsp;(II) any project for the reconstruction, renovation, or maintenance of the Research Center on Jewish History and Culture of the Jagiellonian University of Krakow, Poland, established for the study of events related to the Holocaust in Poland;
 
 &emsp;&emsp;(III) any other project or activity which strengthens and supports private and independent sectors of the Polish economy, especially independent farming and agriculture; and
 
@@ -92,33 +92,9 @@ In order to prevent the waste of commodities whether in private stocks or acquir
 
 (9)(A) Each recipient of commodities and products approved for sale or barter under paragraph (7) shall report to the Secretary information with respect to the items required to be included in the Secretary's report pursuant to clauses (i) through (iv) of subparagraph (B). Reports pursuant to this subparagraph shall be submitted in accordance with regulations of the Secretary. Such regulations shall require at least one report annually, to be submitted not later than December 31 following the end of the fiscal year in which the commodities and products are received; except that a report shall not be required with respect to fiscal year 1985.
 
-(B) Not later than February 15, 1987, and annually thereafter, the Secretary shall report to the Congress on sales and barter, and use of foreign currency proceeds, under paragraph (7) during the preceding fiscal year. Such report shall include information on—
+(B) Omitted.
 
-&emsp;(i) the quantity of commodities furnished for such sale or barter;
-
-&emsp;(ii) the amount of funds (including dollar equivalents for foreign currencies) and value of services generated from such sales and barter in such fiscal year;
-
-&emsp;(iii) how such funds and services were used;
-
-&emsp;(iv) the amount of foreign currency proceeds that were used under agreements under subparagraph (D) of paragraph (7) in such fiscal year, and the percentage of the quantity of all commodities and products furnished under this subsection in such fiscal year such use represented;
-
-&emsp;(v) the Secretary's best estimate of the amount of foreign currency proceeds that will be used, under agreements under subparagraph (D) of paragraph (7), in the then current fiscal year and the next following fiscal year (if all requests for such use are agreed to), and the percentage that such estimated use represents of the quantity of all commodities and products that the Secretary estimates will be furnished under this subsection in each such fiscal year;
-
-&emsp;(vi) the effectiveness of such sales, barter, and use during such fiscal year in facilitating the distribution of commodities and products under this subsection;
-
-&emsp;(vii) the extent to which sales, barter, or uses—
-
-&emsp;&emsp;(I) displace or interfere with commercial sales of United States agricultural commodities and products that otherwise would be made,
-
-&emsp;&emsp;(II) affect usual marketings of the United States,
-
-&emsp;&emsp;(III) disrupt world prices of agricultural commodities or normal patterns of trade with friendly countries, or
-
-&emsp;&emsp;(IV) discourage local production and marketing of agricultural commodities in the countries in which commodities and products are distributed under this subsection; and
-
-&emsp;(viii) the Secretary's recommendations, if any, for changes to improve the conduct of sales, barter, or use activities under paragraph (7).
-
-(Oct. 31, 1949, ch. 792, title IV, §416, 63 Stat. 1058; July 10, 1954, ch. 469, title III, §309, formerly §302, 68 Stat. 458, renumbered §309, Pub. L. 95–88, title II, §211(a)(1), Aug. 3, 1977, 91 Stat. 548; amended May 28, 1956, ch. 327, title II, §212, 70 Stat. 203; Pub. L. 85–483, §1, July 2, 1958, 72 Stat. 286; Aug. 26, 1954, ch. 937, title IV, §402, 68 Stat. 843, as amended Pub. L. 86–108, ch. II, §205(c), July 24, 1959, 73 Stat. 250; Pub. L. 87–703, title II, §202, Sept. 27, 1962, 76 Stat. 611; Pub. L. 88–638, §4, Oct. 8, 1964, 78 Stat. 1038; Pub. L. 89–808, §3(c), Nov. 11, 1966, 80 Stat. 1538; Pub. L. 91–233, Apr. 17, 1970, 84 Stat. 199; Pub. L. 92–603, title IV, §411(g), Oct. 30, 1972, 86 Stat. 1492; Pub. L. 95–113, title XIII, §1302(a)(2), Sept. 29, 1977, 91 Stat. 979; Pub. L. 97–253, title I, §110, Sept. 8, 1982, 96 Stat. 766; Pub. L. 98–258, title V, §502, Apr. 10, 1984, 98 Stat. 137; Pub. L. 99–83, title X, §1007, Aug. 8, 1985, 99 Stat. 271; Pub. L. 99–198, title XI, §§1109, 1129, Dec. 23, 1985, 99 Stat. 1467, 1486; Pub. L. 99–260, §16, Mar. 20, 1986, 100 Stat. 55; Pub. L. 100–203, title I, §1503, Dec. 22, 1987, 101 Stat. 1330–28; Pub. L. 100–277, §§1–5, Apr. 4, 1988, 102 Stat. 67, 68; Pub. L. 100–418, title II, §2225, Aug. 23, 1988, 102 Stat. 1337; Pub. L. 101–513, title V, §562(part), Nov. 5, 1990, 104 Stat. 2032; Pub. L. 101–624, title XV, §§1514, 1575, title XVII, §1771(b)(2), Nov. 28, 1990, 104 Stat. 3662, 3702, 3807; Pub. L. 102–237, title III, §333, Dec. 13, 1991, 105 Stat. 1859; Pub. L. 102–289, §1, May 20, 1992, 106 Stat. 176; Pub. L. 103–306, title V, §576(c), Aug. 23, 1994, 108 Stat. 1654; Pub. L. 104–127, title II, §264, Apr. 4, 1996, 110 Stat. 974.)
+(Oct. 31, 1949, ch. 792, title IV, §416, 63 Stat. 1058; July 10, 1954, ch. 469, title III, §309, formerly §302, 68 Stat. 458, renumbered §309, Pub. L. 95–88, title II, §211(a)(1), Aug. 3, 1977, 91 Stat. 548; amended May 28, 1956, ch. 327, title II, §212, 70 Stat. 203; Pub. L. 85–483, §1, July 2, 1958, 72 Stat. 286; Aug. 26, 1954, ch. 937, title IV, §402, 68 Stat. 843, as amended Pub. L. 86–108, ch. II, §205(c), July 24, 1959, 73 Stat. 250; Pub. L. 87–703, title II, §202, Sept. 27, 1962, 76 Stat. 611; Pub. L. 88–638, §4, Oct. 8, 1964, 78 Stat. 1038; Pub. L. 89–808, §3(c), Nov. 11, 1966, 80 Stat. 1538; Pub. L. 91–233, Apr. 17, 1970, 84 Stat. 199; Pub. L. 92–603, title IV, §411(g), Oct. 30, 1972, 86 Stat. 1492; Pub. L. 95–113, title XIII, §1302(a)(2), Sept. 29, 1977, 91 Stat. 979; Pub. L. 97–253, title I, §110, Sept. 8, 1982, 96 Stat. 766; Pub. L. 98–258, title V, §502, Apr. 10, 1984, 98 Stat. 137; Pub. L. 99–83, title X, §1007, Aug. 8, 1985, 99 Stat. 271; Pub. L. 99–198, title XI, §§1109, 1129, Dec. 23, 1985, 99 Stat. 1467, 1486; Pub. L. 99–260, §16, Mar. 20, 1986, 100 Stat. 55; Pub. L. 100–203, title I, §1503, Dec. 22, 1987, 101 Stat. 1330–28; Pub. L. 100–277, §§1–5, Apr. 4, 1988, 102 Stat. 67, 68; Pub. L. 100–418, title II, §2225, Aug. 23, 1988, 102 Stat. 1337; Pub. L. 101–513, title V, §562(part), Nov. 5, 1990, 104 Stat. 2032; Pub. L. 101–624, title XV, §§1514, 1575, title XVII, §1771(b)(2), Nov. 28, 1990, 104 Stat. 3662, 3702, 3807; Pub. L. 102–237, title III, §333, Dec. 13, 1991, 105 Stat. 1859; Pub. L. 102–289,§1, May 20, 1992, 106 Stat. 176; Pub. L. 103–306, title V, §576(c), Aug. 23, 1994, 108 Stat. 1654; Pub. L. 104–127, title II, §264, Apr. 4, 1996, 110 Stat. 974.)
 
 #### References in Text
 
@@ -133,6 +109,10 @@ This Act, referred to in subsec. (b)(3)(A), is act Oct. 31, 1949, ch. 792, 63 St
 Section 2226 of the American Aid to Poland Act of 1988, referred to in subsec. (b)(7)(D)(ii), is section 2226 of Pub. L. 100–418, which is set out as a note below.
 
 Section 407(c) of the Agricultural Trade Development and Assistance Act of 1954 \[7 U.S.C. 1736a(c)\], referred to in subsec. (b)(7)(F), was redesignated section 407(b) of that Act \[7 U.S.C. 1736a(b)\] by Pub. L. 104–66, title I, §1011(e)(2), Dec. 21, 1995, 109 Stat. 709.
+
+#### Codification
+
+Subsection (b)(9)(B), which required the Secretary to submit an annual report to Congress on sales and barter, and use of foreign currency proceeds, under subsection (b)(7) of this section, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 46 of House Document No. 103–7.
 
 #### Amendments
 
@@ -316,7 +296,7 @@ Pub. L. 98–180, title III, §302, Nov. 29, 1983, 97 Stat. 1151, provided that:
 
 #### Minimum Level of Food Assistance
 
-Annual minimum of food assistance made available to foreign countries to be not less than one-third of total amount of foreign economic assistance provided for each fiscal year, see section 4310 of Pub. L. 100–418, set out as a note under section 1691 of this title.
+Annual minimum of food assistance made available to foreign countries to be not less than one-third of total amount of foreign economic assistance providedfor each fiscal year, see section 4310 of Pub. L. 100–418, set out as a note under section 1691 of this title.
 
 #### Additional Levels of Flour, Cornmeal, Wheat, Soybeans, and Dairy Products for Friendly Countries in Fiscal Years 1987, 1988, and 1989
 
@@ -406,7 +386,7 @@ Pub. L. 86–756, Sept. 13, 1960, 74 Stat. 899, as amended by Pub. L. 87–179, 
 
 #### Authorization for Commodity Credit Corporation To Purchase and Donate Flour, Cornmeal and Processed Food Grain Products
 
-Pub. L. 85–683, Aug. 19, 1958, 72 Stat. 635, as amended by Pub. L. 88–550, Aug. 31, 1964, 78 Stat. 755; Pub. L. 97–98, title XII, §1209, Dec. 22, 1981, 95 Stat. 1280, provided: “That at any time Commodity Credit Corporation has any grain available for donation pursuant to clause (3) or (4) \[now deleted\] of section 416 of the Agricultural Act of 1949, as amended \[this section\], section 210 of the Agricultural Act of 1956 \[section 1859 of this title\], or title II of the Agricultural Trade Development and Assistance Act, as amended \[sections 1721 to 1726 of this title\], the Corporation, in lieu of processing all or any part of such grain into human food products, may purchase such processed food products in quantities not to exceed the equivalent of the respective grain available for donation on the date of such purchase and donate such processed food products pursuant to clause (3) or (4) of such section 416, and to such section 210, and make such processed food products available to the President pursuant to such title II, and may sell, without regard to the provisions of section 407 of the Agricultural Act of 1949, as amended \[section 1427 of this title\], a quantity of the grain equivalent to the processed food products so purchased: <i>Provided</i>, That no food product purchased pursuant to the authority contained herein shall constitute less than 50 per centum by weight of the grain from which processed (except that this limitation does not apply in the case of the protein byproduct resulting from the production of fuel alcohol from agricultural commodities), or contain any additive other than for normal vitamin enrichment, preservative, and bleaching purposes.”
+Pub. L. 85–683, Aug. 19, 1958, 72 Stat. 635, as amended by Pub. L. 88–550, Aug. 31, 1964, 78 Stat. 755; Pub. L. 97–98, title XII, §1209, Dec. 22, 1981, 95 Stat. 1280; Pub. L. 106–387, §1(a) \[title VII, §758\], Oct. 28, 2000, 114 Stat. 1549, 1549A–43, provided: “That at any time Commodity Credit Corporation has any grain available for donation pursuant to the Food for Progress Act of 1985 \[7 U.S.C. 1736<i>o</i>\], section 416 of the Agricultural Act of 1949, as amended \[this section\], section 210 of the Agricultural Act of 1956 \[section 1859 of this title\], or title II of the Agricultural Trade Development and Assistance Act, as amended \[sections 1721 to 1726 of this title\], the Corporation, in lieu of processing all or any part of such grain into human food products, may purchase such processed food products in quantities not to exceed the equivalent of the respective grain available for donation on the date of such purchase and donate such processed food products pursuant to the Food for Progress Act of 1985, such section 416, and to such section 210, and make such processed food products available pursuant to such title II, and may sell, without regard to the provisions of section 407 of the Agricultural Act of 1949, as amended \[section 1427 of this title\], a quantity of the grain equivalent to the processed food products so purchased: <i>Provided</i>, That no food product purchased pursuant to the authority contained herein shall constitute less than 50 per centum by weight of the grain from which processed (except that this limitation does not apply in the case of the protein byproduct resulting from the production of fuel alcohol from agricultural commodities), or contain any additive other than for normal vitamin enrichment, preservative, and bleaching purposes.”
 
 #### Irish Potatoes Acquired Under 1949 Price Support Program
 
@@ -416,15 +396,9 @@ Section 3 of act Mar. 31, 1950, ch. 81, 64 Stat. 41, made Irish potatoes acquire
 
 Bartering authority of Secretary of Agriculture, exchange of agricultural commodities for strategic materials and materials for other purposes, cooperation of agencies, and assistance to cooperatives, see section 1692 of this title.
 
-#### Cross References
-
-Donations for school feeding programs abroad; student financing; and priorities, see section 1431d of this title.
-
-Sale of surplus agricultural commodities for foreign currencies, see section 1691 et seq., of this title.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1428, 1431b, 1431c, 1431d, 1444, 1446a, 1736a, 1736<i>o</i>, 4004, 5201, 7301 of this title; title 22 sections 5413, 5425; title 42 sections 1761, 1762a, 1766, 1777, 1786, 3030a, 3045f; title 46 App. section 1241f.
+This section is referred to in sections 1428, 1431b, 1431c, 1431d, 1444, 1446a, 1736a, 1736<i>o</i>, 4004, 5201, 7301 of this title; title 22 sections 5413, 5425, 7201; title 42 sections 1761, 1762a, 1766, 1777, 1786, 3030a, 3045f; title 46 App. section 1241f.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

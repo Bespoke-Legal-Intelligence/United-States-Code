@@ -18,7 +18,3 @@ Title to records of Indian tribes heretofore placed with the Oklahoma Historical
 
 Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L. 98–497, set out as a note under section 2102 of Title 44, Public Printing and Documents.
 
-#### Cross References
-
-Management and disposition of records, see sections 3101 et seq. and 3301 et seq. of Title 44, Public Printing and Documents.
-

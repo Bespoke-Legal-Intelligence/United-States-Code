@@ -28,7 +28,7 @@ A housing strategy submitted under this section shall be in a form that the Secr
 
 &emsp;(6) indicate resources from private and non-Federal public sources that are reasonably expected to be made available to carry out the purposes of this Act, explaining how funds made available will leverage those additional resources and identifying, where the jurisdiction deems it appropriate, publicly owned land or property located within the jurisdiction that may be utilized to carry out the purposes of this Act;
 
-&emsp;(7) set forth the jurisdiction's plan for investment or other use of housing funds made available under subchapter II of this chapter, the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\], the Housing and Community Development Act of 1974, and the Stewart B. McKinney Homeless Assistance Act \[42 U.S.C. 11301 et seq.\], during the ensuing year or such longer period as the Secretary determines to be appropriate, indicating the general priorities for allocating investment geographically within the jurisdiction and among different activities and housing needs;
+&emsp;(7) set forth the jurisdiction's plan for investment or other use of housing funds made available under subchapter II of this chapter, the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\], the Housing and Community Development Act of 1974, and the McKinney-Vento Homeless Assistance Act \[42 U.S.C. 11301 et seq.\], during the ensuing year or such longer period as the Secretary determines to be appropriate, indicating the general priorities for allocating investment geographically within the jurisdiction and among different activities and housing needs;
 
 &emsp;(8) describe how the jurisdiction's plan will address the housing needs identified pursuant to subparagraphs <sup>1</sup> (1) and (2), describe the reasons for allocation priorities, and identify any obstacles to addressing underserved needs;
 
@@ -100,7 +100,7 @@ Not later than 4 months after completion of the final report of the Secretary's 
 
 &emsp;For purposes of this subsection, the term “troubled public housing agency” means a public housing agency that, upon the effective date of the Quality Housing and Work Responsibility Act of 1998, is designated under section 6(j)(2) of the United States Housing Act of 1937 \[42 U.S.C. 1437d(j)(2)\] as a troubled public housing agency.
 
-(Pub. L. 101–625, title I, §105, Nov. 28, 1990, 104 Stat. 4088; Pub. L. 102–550, title II, §220, title VI, §681, title X, §1014, title XII, §1206, Oct. 28, 1992, 106 Stat. 3761, 3830, 3908, 3940; Pub. L. 105–276, title V, §§568, 583, Oct. 21, 1998, 112 Stat. 2634, 2644.)
+(Pub. L. 101–625, title I, §105, Nov. 28, 1990, 104 Stat. 4088; Pub. L. 102–550, title II, §220, title VI, §681, title X, §1014, title XII, §1206, Oct. 28, 1992, 106 Stat. 3761, 3830, 3908, 3940; Pub. L. 105–276, title V, §§568, 583, Oct. 21, 1998, 112 Stat. 2634, 2644; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675.)
 
 #### References in Text
 
@@ -110,11 +110,13 @@ The United States Housing Act of 1937, referred to in subsec. (b)(7), is act Sep
 
 The Housing and Community Development Act of 1974, referred to in subsec. (b)(7), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-The Stewart B. McKinney Homeless Assistance Act, referred to in subsec. (b)(7), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended, which is classified principally to chapter 119 (§11301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of this title and Tables.
+The McKinney-Vento Homeless Assistance Act, referred to in subsec. (b)(7), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended, which is classified principally to chapter 119 (§11301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of this title and Tables.
 
 The effective date of the Quality Housing and Work Responsibility Act of 1998, referred to in subsec. (g)(2), probably means the general effective date for title V of Pub. L. 105–276, included in section 503 of Pub. L. 105–276 which is set out as an Effective Date of 1998 Amendment note under section 1437 of this title.
 
 #### Amendments
+
+2000—Subsec. (b)(7). Pub. L. 106–400 substituted “McKinney-Vento Homeless Assistance Act” for “Stewart B. McKinney Homeless Assistance Act”.
 
 1998—Subsec. (b). Pub. L. 105–276, §583(1), transferred flush provisions relating to abbreviated housing strategies to end of subsection to follow last numbered paragraph.
 
@@ -140,7 +142,7 @@ Subsec. (g). Pub. L. 105–276, §568, added subsec. (g).
 
 Subsec. (b)(2). Pub. L. 102–550, §220(a), inserted “, including rural homelessness,” after “extent of homelessness” and “including tabular representation of such information,” after “with homelessness,”.
 
-Subsec. (b)(4). Pub. L. 102–550, §1206, inserted before semicolon at end “, except that, if a State requires a unit of general local government to submit a regulatory barrier assessment that is substantially equivalent to the information required under this paragraph, as determined by the Secretary, the unit of general local government may submit its assessment submitted to the State to the Secretary and shall be considered to have complied with this paragraph”.
+Subsec. (b)(4). Pub. L. 102–550, §1206, inserted before semicolon at end “, except that, if a State requires a unit of general local government to submit a regulatory barrier assessment that is substantially equivalent to the information required under this paragraph, as determined by the Secretary, the unit of general local government may submit its assessment submittedto the State to the Secretary and shall be considered to have complied with this paragraph”.
 
 Subsec. (b)(8). Pub. L. 102–550, §220(c)(2), added par. (8). Former par. (8) redesignated (9).
 
@@ -176,7 +178,7 @@ Amendment by subtitles B through F of title VI \[§§621–685\] of Pub. L. 102�
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1437e, 1437f, 1437aaa–1, 1437aaa–2, 1439, 1485, 1490<i>l</i>, 3035i, 4852, 5304, 5318a, 8013, 11361, 11375, 11386, 11394, 11403c, 11432, 12705b, 12708, 12746, 12747, 12752, 12872, 12873, 12892, 12893, 12899b, 12899c, 12903 of this title; title 12 sections 1456, 1701q, 1723a, 4117.
+This section is referred to in sections 1437e, 1437f, 1437aaa–1, 1437aaa–2, 1439, 1485, 1490<i>l</i>, 4852, 5304, 5318a, 8013, 11361, 11375, 11386, 11394, 11403c, 11432, 12705b, 12705c, 12708, 12746, 12747, 12752, 12872, 12873, 12892, 12893, 12899b, 12899c, 12903 of this title; title 12 sections 1456, 1701q, 1723a, 4117.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “paragraphs”.</i>
 

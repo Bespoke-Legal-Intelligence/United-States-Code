@@ -164,9 +164,9 @@ In no case shall any person be denied the right to vote or otherwise participate
 
 #### References in Text
 
-The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (c), are classified to section 3301 et seq. of Title 5, Government Organization and Employees.
+The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (c), areclassified to section 3301 et seq. of Title 5, Government Organization and Employees.
 
-This Act, referred to in subsecs. (g)(1) and (h)(2), means the District of Columbia Self-Government and Governmental Reorganization Act, Pub. L. 93–198, Dec. 24, 1973, 87 Stat. 774, which is classified principally to the District of Columbia Code. See chapter 2 (§1–201 et seq.) of Title 1, Administration, of the District of Columbia Code. For classification of this Act to the U.S. Code, see Tables.
+This Act, referred to in subsecs. (g)(1) and (h)(2), means the District of Columbia Home Rule Act, Pub. L. 93–198, Dec. 24, 1973, 87 Stat. 774, as amended. For classification of this Act to the U.S. Code, see Tables.
 
 The amendments made by this section, referred to in subsecs. (h)(1) and (i), means the amendments made by section 739(d) and (g)(3) to (9) of Pub. L. 93–198, which amended sections 13n, 193a, 212a, and 212b of this title and section 167h of Title 2, The Congress, and enacted provision set out as a note under section 193a of this title.
 
@@ -176,15 +176,13 @@ Subsecs. (d) and (g)(3) to (9) of this section made the amendments specified in 
 
 In subsec. (h)(2), “section 1537 of title 31” substituted for “section 731 of this Act \[31 U.S.C. 685a\]” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
-Section is also set out in section 9–142 of the District of Columbia Code.
-
 #### Change of Name
 
 Reference to Executive Protective Service held to refer to United States Secret Service Uniformed Division pursuant to Pub. L. 95–179, set out as a note under section 202 of Title 3, The President.
 
 #### Definitions
 
-The definitions in section 103 of Pub. L. 93–198 (which is classified to section 1–202 of the District of Columbia Code) apply to this section.
+The definitions in section 103 of Pub. L. 93–198, title I, Dec. 24, 1973, 87 Stat. 777 (which is classified to the District of Columbia Code), apply to this section.
 
 <i><sup>1</sup></i><i> So in original. Probably should be section “5315”.</i>
 

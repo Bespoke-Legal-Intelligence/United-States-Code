@@ -2,11 +2,15 @@
 
 (a)
 
-In General.—Except as provided in subsection (b), a State department of motor vehicles, and any officer, employee, or contractor, thereof, shall not knowingly disclose or otherwise make available to any person or entity personal information about any individual obtainedby the department in connection with a motor vehicle record.
+In General.—A State department of motor vehicles, and any officer, employee, or contractor thereof, shall not knowingly disclose or otherwise make available to any person or entity:
+
+&emsp;(1) personal information, as defined in 18 U.S.C. 2725(3), about any individual obtained by the department in connection with a motor vehicle record, except as provided in subsection (b) of this section; or
+
+&emsp;(2) highly restricted personal information, as defined in 18 U.S.C. 2725(4), about any individual obtained by the department in connection with a motor vehicle record, without the express consent of the person to whom such information applies, except uses permitted in subsections (b)(1), (b)(4), (b)(6), and (b)(9): <i>Provided</i>, That subsection (a)(2) shall not in any way affect the use of organ donation information on an individual's driver's license or affect the administration of organ donation initiatives in the States.
 
 (b)
 
-Permissible Uses.—Personal information referred to in subsection (a) shall be disclosed for use in connection with matters of motor vehicle or driver safety and theft, motor vehicle emissions, motor vehicle product alterations, recalls, or advisories, performance monitoring of motor vehicles and dealers by motor vehicle manufacturers, and removal of non-owner records from the original owner records of motor vehicle manufacturers to carry out the purposes of titles I and IV of the Anti Car Theft Act of 1992, the Automobile Information Disclosure Act (15 U.S.C. 1231 et seq.), the Clean Air Act (42 U.S.C. 7401 et seq.), and chapters 301, 305, and 321–331 of title 49, and may be disclosed as follows:
+Permissible Uses.—Personal information referred to in subsection (a) shall be disclosed for use in connection with matters of motor vehicle or driver safety and theft, motor vehicle emissions, motor vehicle product alterations, recalls, or advisories, performance monitoring of motor vehicles and dealers by motor vehicle manufacturers, and removal of non-owner records from the original owner records of motor vehicle manufacturers to carry out the purposes of titles I and IV of the Anti Car Theft Act of 1992, the Automobile Information Disclosure Act (15 U.S.C. 1231 et seq.), the Clean Air Act (42 U.S.C. 7401 et seq.), and chapters 301, 305, and 321–331 of title 49, and, subject to subsection (a)(2), may be disclosed as follows:
 
 &emsp;(1) For use by any government agency, including any court or law enforcement agency, in carrying out its functions, or any private person or entity acting on behalf of a Federal, State, or local agency in carrying out its functions.
 
@@ -46,19 +50,29 @@ Resale or Redisclosure.—An authorized recipient of personal information (excep
 
 (d)
 
-Waiver Procedures.—A State motor vehicle department may establish and carry out procedures under which the department or its agents, upon receiving a request for personal information that does not fall within one of the exceptions in subsection (b), may mail a copy of the request to the individual about whom the information was requested, informing such individual of the request, together with a statement to the effect that the information will not be released unless the individual waives such individual's right to privacy under this section.
+Waiver Procedures.—A State motor vehicle department may establish and carry out procedures under which the department or its agents, upon receiving a request for personal information that does not fall within one of theexceptions in subsection (b), may mail a copy of the request to the individual about whom the information was requested, informing such individual of the request, together with a statement to the effect that the information will not be released unless the individual waives such individual's right to privacy under this section.
 
-(Added Pub. L. 103–322, title XXX, §300002(a), Sept. 13, 1994, 108 Stat. 2099; amended Pub. L. 104–287, §1, Oct. 11, 1996, 110 Stat. 3388; Pub. L. 104–294, title VI, §604(b)(46), Oct. 11, 1996, 110 Stat. 3509; Pub. L. 106–69, title III, §350(c), (d), Oct. 9, 1999, 113 Stat. 1025.)
+(e)
+
+Prohibition on Conditions.—No State may condition or burden in any way the issuance of an individual's motor vehicle record as defined in 18 U.S.C. 2725(1) to obtain express consent. Nothing in this paragraph shall be construed to prohibit a State from charging an administrative fee for issuance of a motor vehicle record.
+
+(Added Pub. L. 103–322, title XXX, §300002(a), Sept. 13, 1994, 108 Stat. 2099; amended Pub. L. 104–287, §1, Oct. 11, 1996, 110 Stat. 3388; Pub. L. 104–294, title VI, §604(b)(46), Oct. 11, 1996, 110 Stat. 3509; Pub. L. 106–69, title III, §350(c), (d), Oct. 9, 1999, 113 Stat. 1025; Pub. L. 106–346, §101(a) \[title III, §309(c)–(e)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–24.)
 
 #### References in Text
 
 The Anti Car Theft Act of 1992, referred to in subsec. (b), is Pub. L. 102–519, Oct. 25, 1992, 106 Stat. 3384. For complete classification of titles I and IV of the Act to the Code, see Tables.
 
-The Automobile Information Disclosure Act, referred to in subsec. (b), is Pub. L. 85–506, July 7, 1958, 72 Stat. 325, as amended, which is classified generally to chapter 28 (§1231 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, seeShort Title note set out under section 1231 of Title 15 and Tables.
+The Automobile Information Disclosure Act, referred to in subsec. (b), is Pub. L. 85–506, July 7, 1958, 72 Stat. 325, as amended, which is classified generally to chapter 28 (§1231 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1231 of Title 15 and Tables.
 
 The Clean Air Act, referred to in subsec. (b), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 
 #### Amendments
+
+2000—Subsec. (a). Pub. L. 106–346, §101(a) \[title III, §309(c)\], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Except as provided in subsection (b), a State department of motor vehicles, and any officer, employee, or contractor, thereof, shall not knowingly disclose or otherwise make available to any person or entity personal information about any individual obtained by the department in connection with a motor vehicle record.”
+
+Subsec. (b). Pub. L. 106–346, §101(a) \[title III, §309(d)\], inserted “, subject to subsection (a)(2),” before “may be disclosed” in introductory provisions.
+
+Subsec. (e). Pub. L. 106–346, §101(a) \[title III, §309(e)\], added subsec. (e).
 
 1999—Subsec. (b)(11). Pub. L. 106–69, §350(c), substituted “if the State has obtained the express consent of the person to whom such personal information pertains” for “if the motor vehicle department has provided in a clear and conspicuous manner on forms for issuance or renewal of operator's permits, titles, registrations, or identification cards, notice that personal information collected by the department may be disclosed to any business or person, and has provided in a clear and conspicuous manner on such forms an opportunity to prohibit such disclosures”.
 

@@ -62,7 +62,7 @@ A prior section 290aa–4, act July 1, 1944, ch. 373, title V, §506, formerly �
 
 A prior section 505 of act July 1, 1944, was renumbered section 502 by section 102 of Pub. L. 102–321 and is classified to section 290aa–1 of this title.
 
-Another prior section 505 of act July 1, 1944, which was classified to section 223 of this title, was renumbered section 2105 of act July 1, 1944, by Pub. L. 98–24 and transferred to section 300aa–4 of this title, renumbered section 2305 of act July 1, 1944, by Pub. L. 99–660 and transferred to section 300cc–4 of this title, prior to repeal by Pub. L. 99–117, §12(f), Oct. 7, 1985, 99 Stat. 495.
+Another prior section 505 of act July 1, 1944, which was classified to section 223 of this title, was renumbered section 2105 of act July 1, 1944, by Pub. L. 98–24and transferred to section 300aa–4 of this title, renumbered section 2305 of act July 1, 1944, by Pub. L. 99–660 and transferred to section 300cc–4 of this title, prior to repeal by Pub. L. 99–117, §12(f), Oct. 7, 1985, 99 Stat. 495.
 
 #### Amendments
 
@@ -72,11 +72,15 @@ Another prior section 505 of act July 1, 1944, which was classified to section 2
 
 Subsec. (c)(2). Pub. L. 101–93, §3(b)(2), substituted “this subsection” for “this section”.
 
+#### Reports on Consumption of Methamphetamine and Other Illicit Drugs
+
+Pub. L. 106–310, div. B, title XXXVI, §3641, Oct. 17, 2000, 114 Stat. 1237, provided that: “The Secretary of Health and Human Services shall include in each National Household Survey on Drug Abuse appropriate prevalence data and information on the consumption of methamphetamine and other illicit drugs in rural areas, metropolitan areas, and consolidated metropolitan areas.”
+
 #### Public Health Monitoring of Methamphetamine Abuse
 
-Pub. L. 104–237, title V, §502, Oct. 3, 1996, 110 Stat. 3112, provided that: “The Secretary of Health andHuman Services shall develop a public health monitoring program to monitor methamphetamine abuse in the United States. The program shall include the collection and dissemination of data related to methamphetamine abuse which can be used by public health officials in policy development.”
+Pub. L. 104–237, title V, §502, Oct. 3, 1996, 110 Stat. 3112, provided that: “The Secretary of Health and Human Services shall develop a public health monitoring program to monitor methamphetamine abuse in the United States. The program shall include the collection and dissemination of data related to methamphetamine abuse which can be used by public health officials in policy development.”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 300x–9, 300x–35, 300x–53 of this title.
+This section is referred to in sections 290aa, 300x–9, 300x–35, 300x–53 of this title.
 

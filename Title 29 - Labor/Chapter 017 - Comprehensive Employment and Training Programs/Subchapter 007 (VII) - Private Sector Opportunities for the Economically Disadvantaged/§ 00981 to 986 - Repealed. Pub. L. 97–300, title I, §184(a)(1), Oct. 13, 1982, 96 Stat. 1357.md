@@ -34,7 +34,3 @@ Section 989, Pub. L. 93–203, title VII, §709, formerly title VI, §609, Dec. 
 
 Section 990, Pub. L. 93–203, title VII, §710, formerly title VI, §610, Dec. 28, 1973, 87 Stat. 881; renumbered title VII, §710, Pub. L. 93–567, title I, §101, Dec. 31, 1974, 88 Stat. 1845, related to prohibition concerning political activities.
 
-#### Effective Date of Repeal
-
-Section 184(a) of Pub. L. 97–300 provided that the repeal of these sections is effective Oct. 13, 1982.
-

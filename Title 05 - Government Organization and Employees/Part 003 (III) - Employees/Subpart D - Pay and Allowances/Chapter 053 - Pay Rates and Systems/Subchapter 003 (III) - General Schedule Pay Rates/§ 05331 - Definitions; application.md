@@ -30,10 +30,6 @@ Amendment by Pub. L. 95–454 effective 9 months after Oct. 13, 1978, and congre
 
 References in laws to fix pay in accordance with this subchapter and chapter 51 of this title considered to include authority under section 5376 of this title, if applicable, but not to include any authority under section 5304 of this title or section 529 \[title III, §302\] of Pub. L. 101–509, set out as a note under section 5304 of this title, see section 529 \[title I, §101(c)(2)\] of Pub. L. 101–509, set out in a References in Other Laws to GS–16, 17, or 18 Pay Rates; Regulations note under section 5376 of this title.
 
-#### Cross References
-
-Employment of reading assistants for blind employees without regard to the provisions of this subchapter, see section 3102 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in title 50 App. section 2153.

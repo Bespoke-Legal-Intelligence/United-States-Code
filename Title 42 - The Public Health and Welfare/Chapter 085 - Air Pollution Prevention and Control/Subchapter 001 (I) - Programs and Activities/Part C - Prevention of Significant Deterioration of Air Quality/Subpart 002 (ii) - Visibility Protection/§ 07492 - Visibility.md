@@ -12,7 +12,7 @@
 
 &emsp;(D) studies of atmospheric chemistry and physics of visibility.
 
-(2) Based on the findings available from the research required in subsection (a)(1) of this section as well as other available scientific and technical data, studies, and other available information pertaining to visibility source-receptor relationships, the Administrator shall conduct an assessment and evaluation that identifies, to the extent possible, sources and source regions of visibility impairment including natural sources as well as source regions of clear air for class I areas. The Administrator shallproduce interim findings from this study within 3 years after November 15, 1990.
+(2) Based on the findings available from the research required in subsection (a)(1) of this section as well as other available scientific and technical data, studies, and other available information pertaining to visibility source-receptor relationships, the Administrator shall conduct an assessment and evaluation that identifies, to the extent possible, sources and source regions of visibility impairment including natural sources as well as source regions of clear air for class I areas. The Administrator shall produce interim findings from this study within 3 years after November 15, 1990.
 
 #### (b) Impacts of other provisions
 
@@ -62,7 +62,7 @@ A Visibility Transport Commission—
 
 #### (e) Duties of Administrator
 
-(1) The Administrator shall, taking into account the studies pursuant to subsection (a)(1) of this section and the reports pursuant to subsection (d)(2) of this section and any other relevant information, within eighteen months of receipt of the report referred to in subsection (d)(2) of this section, carry out the Administrator's regulatory responsibilities under section 7491 of this title, including criteria for measuring “reasonable progress” toward the national goal.
+(1) The Administrator shall, taking into account the studies pursuant to subsection (a)(1)of this section and the reports pursuant to subsection (d)(2) of this section and any other relevant information, within eighteen months of receipt of the report referred to in subsection (d)(2) of this section, carry out the Administrator's regulatory responsibilities under section 7491 of this title, including criteria for measuring “reasonable progress” toward the national goal.
 
 (2) Any regulations promulgated under section 7491 of this title pursuant to this subsection shall require affected States to revise within 12 months their implementation plans under section 7410 of this title to contain such emission limits, schedules of compliance, and other measures as may be necessary to carry out regulations promulgated pursuant to this subsection.
 

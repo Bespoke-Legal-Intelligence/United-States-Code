@@ -152,7 +152,7 @@ For purposes of this chapter, the following definitions shall apply:
 
 &emsp;&emsp;&emsp;(iii) is of such a nature that such ability could be improved by more suitable housing conditions; or
 
-&emsp;&emsp;(C) has a developmental disability as defined in section 6001 of title 42.
+&emsp;&emsp;(C) has a developmental disability as defined in section 15002 of title 42.
 
 > &emsp;Such term shall not exclude persons who have the disease of acquired immunodeficiency syndrome or any conditions arising from the etiologic agent for acquired immunodeficiency syndrome. Notwithstanding any other provision of law, no individual shall be considered a person with disabilities, for purposes of eligibility for housing assisted under this chapter, solely on the basis of any drug or alcohol dependence. The Secretary shall consult with other appropriate Federal agencies to implement the preceding sentence.
 
@@ -198,7 +198,7 @@ For purposes of this chapter, the following definitions shall apply:
 
 &emsp;&emsp;A tribally designated housing entity may be authorized or established by one or more Indian tribes to act on behalf of each such tribe authorizing or establishing the housing entity.
 
-(Pub. L. 104–330, §4, Oct. 26, 1996, 110 Stat. 4018; Pub. L. 105–256, §13(b), Oct. 14, 1998, 112 Stat. 1900; Pub. L. 105–276, title V, §595(e)(1), (2), Oct. 21, 1998, 112 Stat. 2656.)
+(Pub. L. 104–330, §4, Oct. 26, 1996, 110 Stat. 4018; Pub. L. 105–256, §13(b), Oct. 14, 1998, 112 Stat. 1900; Pub. L. 105–276, title V, §595(e)(1), (2), Oct. 21, 1998, 112 Stat. 2656; Pub. L. 106–402, title IV, §401(b)(2), Oct. 30, 2000, 114 Stat. 1737.)
 
 #### References in Text
 
@@ -211,6 +211,8 @@ For the effective date under section 705, referred to in par. (12)(C)(i)(II), as
 The United States Housing Act of 1937, referred to in pars. (12)(C)(i)(II) and (21)(A)(i), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
 
 #### Amendments
+
+2000—Par. (17)(C). Pub. L. 106–402 substituted “as defined in section 15002 of title 42” for “as defined in section 6001 of title 42”.
 
 1998—Par. (10). Pub. L. 105–276, §595(e)(1), amended heading and text of par. (10) generally. Prior to amendment, text read as follows: “The term ‘Indian area’ means the area within which a tribally designated housing entity is authorized by one or more Indian tribes to provide assistance under this chapter for affordable housing.”
 

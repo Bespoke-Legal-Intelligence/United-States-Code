@@ -1,6 +1,6 @@
 ### §566. Powers and duties
 
-(a) It is the primary role and mission of the United States Marshals Service to provide forthe security and to obey, execute, and enforce all orders of the United States District Courts, the United States Courts of Appeals and the Court of International Trade.
+(a) It is the primary role and mission of the United States Marshals Service to provide for the security and to obey, execute, and enforce all orders of the United States District Courts, the United States Courts of Appeals and the Court of International Trade.
 
 (b) The United States marshal of each district is the marshal of the district court and of the court of appeals when sitting in that district, and of the Court of International Trade holding sessions in that district, and may, in the discretion of the respective courts, be required to attend any session of court.
 
@@ -10,7 +10,7 @@
 
 (e)(1) The United States Marshals Service is authorized to—
 
-&emsp;(A) provide for the personal protection of Federal jurists, court officers, witnesses, and other threatened persons in the interests of justice where criminal intimidation impedes on the functioning of the judicial process or any other official proceeding; and
+&emsp;(A) provide for the personal protection of Federal jurists, court officers, witnesses, and other threatened persons in the interests ofjustice where criminal intimidation impedes on the functioning of the judicial process or any other official proceeding; and
 
 &emsp;(B) investigate such fugitive matters, both within and outside the United States, as directed by the Attorney General.
 
@@ -31,4 +31,20 @@
 #### Prior Provisions
 
 A prior section 566, added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 620; amended Pub. L. 92–310, title II, §206(b), June 6, 1972, 86 Stat. 203, provided that upon death of a marshal his deputy or deputies perform his duties until a successor is appointed and qualifies, prior to repeal by Pub. L. 100–690, §7608(a)(1).
+
+#### Fugitive Apprehension Task Forces
+
+Pub. L. 106–544, §6, Dec. 19, 2000, 114 Stat. 2718, provided that:
+
+“(a)
+
+In General.—The Attorney General shall, upon consultation with appropriate Department of Justice and Department of the Treasury law enforcement components, establish permanent Fugitive Apprehension Task Forces consisting of Federal, State, and local law enforcement authorities in designated regions of the United States, to be directed and coordinated by the United States Marshals Service, for the purpose of locating and apprehending fugitives.
+
+“(b)
+
+Authorization of Appropriations.—There are authorized to be appropriated to the Attorney General for the United States Marshals Service to carry out the provisions of this section $30,000,000 for the fiscal year 2001, $5,000,000 for fiscal year 2002, and $5,000,000 for fiscal year 2003.
+
+“(c)
+
+Other Existing Applicable Law.—Nothing in this section shall be construed to limit any existing authority under any other provision of Federal or State law for law enforcement agencies to locate or apprehend fugitives through task forces or any other means.”
 

@@ -14,4 +14,5 @@ subpart 2—national heart, lung, and blood institute
 - [&sect; 00285b&#8211;6 - Associate Director for Prevention; appointment; function](%C2%A7%2000285b%E2%80%936%20-%20Associate%20Director%20for%20Prevention%3B%20appointment%3B%20function.md)
 - [&sect; 00285b&#8211;7 - National Center on Sleep Disorders Research](%C2%A7%2000285b%E2%80%937%20-%20National%20Center%20on%20Sleep%20Disorders%20Research.md)
 - [&sect; 00285b&#8211;7a - Heart attack, stroke, and other cardiovascular diseases in women](%C2%A7%2000285b%E2%80%937a%20-%20Heart%20attack%2C%20stroke%2C%20and%20other%20cardiovascular%20diseases%20in%20women.md)
+- [&sect; 00285b&#8211;7b - Coordination of Federal asthma activities](%C2%A7%2000285b%E2%80%937b%20-%20Coordination%20of%20Federal%20asthma%20activities.md)
 - [&sect; 00285b&#8211;8 - Authorization of appropriations](%C2%A7%2000285b%E2%80%938%20-%20Authorization%20of%20appropriations.md)

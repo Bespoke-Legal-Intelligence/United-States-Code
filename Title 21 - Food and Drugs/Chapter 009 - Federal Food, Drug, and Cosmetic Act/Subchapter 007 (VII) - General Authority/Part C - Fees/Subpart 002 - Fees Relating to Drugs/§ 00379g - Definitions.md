@@ -32,7 +32,7 @@ For purposes of this part:
 
 &emsp;(5) The term “prescription drug establishment” means a foreign or domestic place of business which is at one general physical location consisting of one or more buildings all of which are within five miles of each other and at which one or more prescription drug products are manufactured in final dosage form. For purposes of this paragraph, the term “manufactured” does not include packaging.
 
-&emsp;(6) The term “process for the review of human drug applications” means the following activities of the Secretary with respect to the review of human drug applications and supplements:
+&emsp;(6) The term “process for the review of human drug applications” means the following activities of the Secretary with respect to thereview of human drug applications and supplements:
 
 &emsp;&emsp;(A) The activities necessary for the review of human drug applications and supplements.
 
@@ -162,37 +162,9 @@ Section 102 of title I of Pub. L. 102–571 provided that: “The Congress finds
 
 #### Annual Reports
 
-Section 104 of Pub. L. 102–571 provided that:
-
-“(a)
-
-First Report.—Within 60 days after the end of each fiscal year during which fees are collected under part 2 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[this subpart\], the Secretary of Health and Human Services shall submit a report stating the Food and Drug Administration's progress in achieving the goals identified in section 102(3) of this Act \[set out as a note above\] during such fiscal year and that agency's future plans for meeting such goals.
-
-“(b)
-
-Second Report.—Within 120 days after the end of each fiscal year during which such fees are collected, the Secretary of Health and Human Services shall submit a report on the implementation of the authority for such fees during such fiscal year and on the use the Food and Drug Administration made of the fees collected during such fiscal year for which the report is made.
-
-“(c)
-
-Committees.—The reports described in subsections (a) and (b) shall be submitted to the Committee on Energy and Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate.”
+Pub. L. 102–571, title I, §104, Oct. 29, 1992, 106 Stat. 4498, which provided that the Secretary of Health and Human Services submit to Committee on Energy and Commerce of the House of Representatives and Committee on Labor and Human Resources of the Senate, within 60 days after the end of each fiscal year during which fees were collected under this subpart, a report stating the Food and Drug Administration's progress in achieving the goals identified in section 102(3) of Pub. L. 102–571, set out as a note above, during such fiscal year and that agency's future plans for meeting such goals, and within 120 days after the end of each fiscal year during which such fees were collected, a report on the implementation of the authority for such fees during such fiscal year and on the use the Food and Drug Administration made of the fees collected during such fiscal year, ceased to be in effect 120 days after Oct. 1, 1997. See Termination Date note above.
 
 #### Animal Drug User Fee Study
 
-Section 108 of Pub. L. 102–571 provided that:
-
-“(a)
-
-Study.—The Secretary, in consultation with manufacturers of animal drug products and other interested persons, shall undertake a study to evaluate whether, and under what conditions, to impose user fees to supplement appropriated funds in order to improve the process of reviewing applications (including abbreviated and supplemental applications) for new animal drugs under section 512 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 360b\]. The study shall include—
-
-&emsp;“(1) an assessment of the overall review process for animal drugs at the Center for Veterinary Medicine, including the number of applications received, and the average times for interim and final decisions on each type of application,
-
-&emsp;“(2) the current allocation of funds to the animal drug review process,
-
-&emsp;“(3) recommendations for goals for decision making times on applications submitted to the Center for Veterinary Medicine and for additional resources required to meet the goals, and
-
-&emsp;“(4) recommendations for supplementing the resources for the animal drug review process through user fees.
-
-“(b)
-
-Completion.—The results of the study required by subsection (a) shall be presented no later than January 4, 1994, to the Committee on Energy and Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate.”
+Section 108 of Pub. L. 102–571 directed Secretary, in consultation with manufacturers of animal drug products and other interested persons, to undertake study to evaluate whether, and under what conditions, to impose user fees to supplement appropriated funds in order to improve process of reviewing applications (including abbreviated and supplemental applications) for new animal drugs under section 360b of this title, and further provided for submission of study to Congress no later than Jan. 4, 1994.
 

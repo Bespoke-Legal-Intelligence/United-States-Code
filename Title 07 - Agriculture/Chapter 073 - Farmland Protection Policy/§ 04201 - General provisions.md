@@ -14,7 +14,7 @@ Congress finds that—
 
 &emsp;(5) Federal actions, in many cases, result in the conversion of farmland to nonagricultural uses where alternative actions would be preferred;
 
-&emsp;(6) the Department of Agriculture is the agency primarily responsible for the implementation of Federal policy with respect to United States farmland, assuring the maintenance of the agricultural production capacity of the United States, and has the personnel and other resources needed to implement national farmland protection policy; and
+&emsp;(6) the Department of Agriculture is the agency primarily responsible for the implementation of Federal policy with respect to United States farmland, assuring the maintenance of the agricultural production capacityof the United States, and has the personnel and other resources needed to implement national farmland protection policy; and
 
 &emsp;(7) the Department of Agriculture and other Federal agencies should take steps to assure that the actions of the Federal Government do not cause United States farmland to be irreversibly converted to nonagricultural uses in cases in which other national interests do not override the importance of the protection of farmland nor otherwise outweigh the benefits of maintaining farmland resources.
 
@@ -204,7 +204,7 @@ In general.—Funds from eligible loans (including proceeds from the sale of bon
 
 &emsp;&emsp;“(D) to cover the costs of complying with any regulations issued by the Secretary under this program and the costs of implementing the farmland plan of operation, except that the guaranteed loan proceeds shall not be used to pay overhead expenses of the State trust fund (rent, utilities, salaries, wages, insurance premiums, and the like); and
 
-&emsp;&emsp;“(E) to generate earnings (including through investments not exceeding 10 years in duration foreach eligible loan), to be used for future farmland preservation efforts, through investments in direct obligations of the United States or obligations guaranteed by the United States or an agency thereof or by depositing funds in any member bank of the Federal Reserve System or any federally insured State nonmember bank.
+&emsp;&emsp;“(E) to generate earnings (including through investments not exceeding 10 years in duration for each eligible loan), to be used for future farmland preservation efforts, through investments in direct obligations of the United States or obligations guaranteed by the United States or an agency thereof or by depositing funds in any member bank of the Federal Reserve System or any federally insured State nonmember bank.
 
 &emsp;“(2)
 
@@ -278,7 +278,7 @@ Match and Maximum Amount.—
 
 &emsp;“(1)
 
-In general.—The total amount of any guarantees provided by the Secretary under this program for each eligible State shall equal an amount that is equal to double the amount that is, or shall be, made available to the trust fund (including matching funds described in paragraphs (2) through (4)) in each such eligible State by the State, political subdivisions thereof, charitable organizations, private persons, or any other entity, for acquiring interests in land to protect and preserve important farmlands for future agricultural use but in no event shall the total Federal share exceed $10,000,000 in any fiscal year for any given State.
+In general.—The total amount of any guarantees provided by the Secretary under this program foreach eligible State shall equal an amount that is equal to double the amount that is, or shall be, made available to the trust fund (including matching funds described in paragraphs (2) through (4)) in each such eligible State by the State, political subdivisions thereof, charitable organizations, private persons, or any other entity, for acquiring interests in land to protect and preserve important farmlands for future agricultural use but in no event shall the total Federal share exceed $10,000,000 in any fiscal year for any given State.
 
 &emsp;“(2)
 

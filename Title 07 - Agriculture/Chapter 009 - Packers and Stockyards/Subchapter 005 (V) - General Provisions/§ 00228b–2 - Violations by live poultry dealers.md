@@ -20,7 +20,7 @@ Complaints, orders, and other processes of the Secretary under this section may 
 
 #### Prior Provisions
 
-A prior section 411 of act Aug. 15, 1921, was renumbered section 415 and is classified to section 229 of this title.
+A prior section 411 of act Aug. 15, 1921, was renumbered section 416 and is classified to section 229 of this title.
 
 #### Effective Date
 

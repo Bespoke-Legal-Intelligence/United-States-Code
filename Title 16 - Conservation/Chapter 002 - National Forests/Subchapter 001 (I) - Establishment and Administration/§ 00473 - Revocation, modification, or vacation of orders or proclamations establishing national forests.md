@@ -16,10 +16,6 @@ The first sentence is a portion of the third paragraph and was prefaced by the w
 
 The second sentence is a portion of the seventh paragraph the whole of which reads as follows: “The President is hereby authorized at any time to modify any Executive order that has been or may hereafter be made establishing any forest reserve, and by such modification may reduce the area or change the boundary lines of such reserve, or may vacate altogether any order creating such reserve.”
 
-#### Cross References
-
-Prohibition on return to public domain of land reserved or withdrawn from the public domain as national forests except by act of Congress, see section 1609 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 478, 482, 551, 1609 of this title.

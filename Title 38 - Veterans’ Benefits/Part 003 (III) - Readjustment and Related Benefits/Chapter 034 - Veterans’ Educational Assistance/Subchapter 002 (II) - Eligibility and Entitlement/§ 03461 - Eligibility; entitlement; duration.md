@@ -42,7 +42,7 @@ Subsec. (b). Pub. L. 90–631, §1(b)(2), (3), redesignated subsec. (c) as (b). 
 
 Subsec. (c). Pub. L. 90–631, §1(b), (3), (4), added subsec. (c). Former subsec. (c) redesignated (b).
 
-Subsec. (d). Pub. L. 90–631, §1(b)(2), struck out subsec. (d) which required an eligible veteran to elect eithereducational assistance or vocational rehabilitation when such veteran is entitled to both, or becomes entitled to vocational rehabilitation after receiving educational assistance.
+Subsec. (d). Pub. L. 90–631, §1(b)(2), struck out subsec. (d) which required an eligible veteran to elect either educational assistance or vocational rehabilitation when such veteran is entitled to both, or becomes entitled to vocational rehabilitation after receiving educational assistance.
 
 1967—Subsec. (b). Pub. L. 90–77 inserted “and in section 1678 of this chapter” after “subsection (c)”.
 

@@ -54,7 +54,7 @@ The Violent Crime Control and Law Enforcement Act of 1994, referred to in subsec
 
 The United States Housing Act of 1937, referred to in subsec. (b)(1)(E), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§1437 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of this title and Tables.
 
-The Native American Housing Assistance and Self-Determination Act of 1996, referred to in subsec. (b)(1)(F), is Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, which is classified principally to chapter 43 (§4101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of Title 25 and Tables.
+The Native American Housing Assistance and Self-Determination Act of 1996, referred to in subsec. (b)(1)(F), is Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, as amended, which is classified principally to chapter 43 (§4101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of Title 25 and Tables.
 
 The Departments of State, Justice, and Commerce, the Judiciary, and Related Agencies Appropriation Act, 1973, referred to in subsec. (c), is Pub. L. 92–544, Oct. 25, 1972, 86 Stat. 1109, as amended. For complete classification of this Act to the Code, see Tables.
 

@@ -1,6 +1,6 @@
 ### §2160d. Further restrictions on exports
 
-(a) The Commission may issue a license for the export of highly enriched uranium to beused as a fuel or target in a nuclear research or test reactor only if, in addition to any other requirement of this chapter, the Commission determines that—
+(a) The Commission may issue a license for the export of highly enriched uranium to be used as a fuel or target in a nuclear research or test reactor only if, in addition to any other requirement of this chapter, the Commission determines that—
 
 &emsp;(1) there is no alternative nuclear reactor fuel or target enriched in the isotope 235 to a lesser percent than the proposed export, that can be used in that reactor;
 

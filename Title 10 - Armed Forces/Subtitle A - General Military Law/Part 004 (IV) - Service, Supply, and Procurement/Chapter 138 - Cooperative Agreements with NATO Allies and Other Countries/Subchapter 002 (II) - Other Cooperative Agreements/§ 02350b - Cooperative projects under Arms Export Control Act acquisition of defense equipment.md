@@ -6,7 +6,7 @@
 
 (b) When contracting or incurring obligations under section 27(d) of the Arms Export Control Act for cooperative projects, the Secretary of Defense may require subcontracts to be awarded to particular subcontractors in furtherance of the cooperative project.
 
-(c)(1) Subject to paragraph (2), when entering into contracts or incurring obligations under section 27(d) of the Arms Export Control Act outside the United States, the Secretary of Defense may waive with respect to any such contract or subcontract the application of any provision of law, other than a provision of the Arms Export Control Act or section 2304 of this title, that specifically prescribes—
+(c)(1) Subject to paragraph (2), when entering into contracts or incurring obligations under section 27(d) of the Arms Export Control Act outside the United States, the Secretary of Defense may waive with respect to any such contract or subcontract the application of any provision of law, other than a provision of the ArmsExport Control Act or section 2304 of this title, that specifically prescribes—
 
 &emsp;(A) procedures to be followed in the formation of contracts;
 
@@ -68,5 +68,5 @@ Subsec. (g)(2). Pub. L. 99–661, §1343(a)(15), substituted “section 2631 of 
 
 #### Effective Date of 1996 Amendment
 
-For effective date and applicability of amendment by section 4321(b)(10) of Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 251 of Title 41, Public Contracts.
+For effective date and applicability of amendment by section 4321(b)(10) of Pub. L. 104–106, see section 4401 ofPub. L. 104–106, set out as a note under section 251 of Title 41, Public Contracts.
 

@@ -22,7 +22,7 @@
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–599 effective with respect to obligations incurred after Nov. 6, 1978, see section 129(h) of Pub. L. 95–599, set out as a note under section 120 of this title.
+Amendment by Pub. L. 95–599 effective with respect to obligations incurred after Nov. 6, 1978, see section129(h) of Pub. L. 95–599, set out as a note under section 120 of this title.
 
 #### Appropriations; Rescission of Appropriations Authorization
 

@@ -30,7 +30,7 @@
 
 (2) Notice under paragraph (1) of this subsection is not required if, after search satisfactory to the court, the person entitled to the notice has not been found in the United States.
 
-(3) Failure to give notice required by this subsection does not affect the jurisdiction of the court in which the civil action is brought. However, unless notice is not required under paragraph (2) of this subsection, the party required to give notice is liable to the person not notified for damages in the amount of that person's interest in the vessel terminated by the action brought under subsection (b)(1) of this section. A civil action may be brought to recover the amount of the terminated interest. The district courts have original jurisdiction of the action, regardless of the amount in controversy or the citizenship of the parties. If the plaintiff prevails, the court may award costs and attorney fees to the plaintiff.
+(3) Failure to give notice required by this subsection does not affect the jurisdiction of thecourt in which the civil action is brought. However, unless notice is not required under paragraph (2) of this subsection, the party required to give notice is liable to the person not notified for damages in the amount of that person's interest in the vessel terminated by the action brought under subsection (b)(1) of this section. A civil action may be brought to recover the amount of the terminated interest. The district courts have original jurisdiction of the action, regardless of the amount in controversy or the citizenship of the parties. If the plaintiff prevails, the court may award costs and attorney fees to the plaintiff.
 
 (e) In a civil action brought under subsection (b)(1) of this section—
 
@@ -122,7 +122,7 @@ Subsec. (f). Pub. L. 104–324, §1124(b), added subsec. (f).
 
 #### Construction of 1996 Amendments
 
-Section 1124(c) of Pub. L. 104–324 provided that: “The amendments made by subsections (a) and (b) \[amending this section\] may not be construed to imply that remedies other than judicial remedies were not available before the date of enactment of this section \[Oct. 19,1996\] to enforce claims for outstanding indebtedness secured by mortgaged vessels.”
+Section 1124(c) of Pub. L. 104–324 provided that: “The amendments made by subsections (a) and (b) \[amending this section\] may not be construed to imply that remedies other than judicial remedies were not available before the date of enactment of this section \[Oct. 19, 1996\] to enforce claims for outstanding indebtedness secured by mortgaged vessels.”
 
 #### Section Referred to in Other Sections
 

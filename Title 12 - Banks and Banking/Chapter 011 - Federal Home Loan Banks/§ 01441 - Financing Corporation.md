@@ -190,7 +190,7 @@ The Financing Corporation shall have only the following powers, subject to the o
 
 #### (E) Transfer to account for purchase of stock required
 
-&emsp;&emsp;Of the net earnings for any year of a bank on whose behalf an investment is made under subparagraph (A)(i), such amount as is necessary to make the purchases of stock required under subparagraph (A)(ii) shall be placed in a reserve account (established in such manner as the Federal Housing Finance Board shall prescribe by regulations) the balance in which shall be available only for such purchases.
+&emsp;&emsp;Of the net earnings for any year of a bank on whose behalf an investment is made under subparagraph (A)(i), such amount as is necessary to make the purchases of stock required under subparagraph (A)(ii) shall be placed in a reserve account (established in such manner as the Federal Housing FinanceBoard shall prescribe by regulations) the balance in which shall be available only for such purchases.
 
 #### (7) Undivided profits defined
 
@@ -268,7 +268,7 @@ The Financing Corporation shall have only the following powers, subject to the o
 
 #### (8) Obligations are exempt securities
 
-&emsp;Notwithstanding paragraph (7),<sup>1</sup> obligations of the Financing Corporation shall be deemedto be exempt securities (within the meaning of laws administered by the Securities and Exchange Commission) to the same extent as securities which are direct obligations of the United States or are guaranteed as to principal or interest by the United States.
+&emsp;Notwithstanding paragraph (7),<sup>1</sup> obligations of the Financing Corporation shall be deemed to be exempt securities (within the meaning of laws administered by the Securities and Exchange Commission) to the same extent as securities which are direct obligations of the United States or are guaranteed as to principal or interest by the United States.
 
 #### (9) Minority participation in public offerings
 
@@ -280,7 +280,7 @@ The Financing Corporation shall obtain funds for anticipated interest payments, 
 
 #### (1) Preenactment assessments
 
-&emsp;The Financing Corporation assessments which were assessed on insured institutions pursuant to this section as in effect prior to August 9, 1989.
+&emsp;The Financing Corporation assessments which were assessed on insured institutionspursuant to this section as in effect prior to August 9, 1989.
 
 #### (2) New assessment authority
 
@@ -350,7 +350,7 @@ The Financing Corporation shall obtain funds for anticipated interest payments, 
 
 &emsp;&emsp;&emsp;(i) any fee incurred by the Financing Corporation in connection with the transfer of any security to, or the maintenance of any security in, the segregated account established under paragraph (2); and
 
-&emsp;&emsp;&emsp;(ii) any other expense incurred by the Financing Corporation in connection with the establishment or maintenance of such account.
+&emsp;&emsp;&emsp;(ii) any other expense incurred by the Financing Corporation in connection withthe establishment or maintenance of such account.
 
 #### (h) Miscellaneous provisions relating to Financing Corporation
 
@@ -416,7 +416,7 @@ For purposes of this section, the following definitions shall apply:
 
 Section 1725 of this title, referred to in subsecs. (c)(2), (e)(2)(A), and (g)(1), was repealed by Pub. L. 101–73, title IV, §407, Aug. 9, 1989, 103 Stat. 363.
 
-Section 9105 of title 31, referred to in subsec. (h)(3), was amended generally by Pub. L. 101–576, title III, §305, Nov. 15, 1990, 104 Stat. 2853, and, as so amended, nolonger contains provisions relating to mixed-ownership Government corporations having capital of the Government.
+Section 9105 of title 31, referred to in subsec. (h)(3), was amended generally by Pub. L. 101–576, title III, §305, Nov. 15, 1990, 104 Stat. 2853, and, as so amended, no longer contains provisions relating to mixed-ownership Government corporations having capital of the Government.
 
 The Federal Deposit Insurance Act, referred to in subsec. (k)(4)(A), is act Sept. 21, 1950, ch. 967, §2, 64 Stat. 873, as amended, which is classified generally to chapter 16 (§1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of this title and Tables.
 
@@ -506,7 +506,7 @@ Pub. L. 101–73, §512(2), substituted “Federal Housing Finance Board” for 
 
 Subsec. (e)(3). Pub. L. 101–73, §512(12)(A), redesignated par. (4) as (3). Former par. (3) redesignated (2).
 
-Subsec. (e)(4). Pub. L. 101–73, §512(2), (12)(A), redesignated par. (5) as (4) and substituted “Federal HousingFinance Board” for “Board”. Former par. (4) redesignated (3).
+Subsec. (e)(4). Pub. L. 101–73, §512(2), (12)(A), redesignated par. (5) as (4) and substituted “Federal Housing Finance Board” for “Board”. Former par. (4) redesignated (3).
 
 Subsec. (e)(5). Pub. L. 101–73, §512(12)(A), redesignated par. (6) as (5). Former par. (5) redesignated (4).
 
@@ -586,7 +586,7 @@ In general.—Effective as of the date of the enactment of this Act \[Sept. 30, 
 
 “(2)
 
-Regulations.—The Board of Directors of the Federal Deposit Insurance Corporation may issue regulations, including regulations defining terms used inparagraph (1), to prevent the shifting of deposits described in such paragraph.
+Regulations.—The Board of Directors of the Federal Deposit Insurance Corporation may issue regulations, including regulations defining terms used in paragraph (1), to prevent the shifting of deposits described in such paragraph.
 
 “(3)
 

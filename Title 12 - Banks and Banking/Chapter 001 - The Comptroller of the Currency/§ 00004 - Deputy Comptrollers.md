@@ -1,6 +1,6 @@
 ### §4. Deputy Comptrollers
 
-The Secretary of the Treasury shall appoint no more than four Deputy Comptrollers of the Currency, one of whom shall be designated First Deputy Comptroller of the Currency, and shall fix their salaries. Each Deputy Comptroller shall take the oath of office and shall perform such duties as the Comptroller shall direct. During a vacancy in the office or during the absence or disability of the Comptroller, each Deputy Comptroller shall possess the power and performthe duties attached by law to the office of the Comptroller under such order of succession following the First Deputy Comptroller as the Comptroller shall direct.
+The Secretary of the Treasury shall appoint no more than four Deputy Comptrollers of the Currency, one of whom shall be designated First Deputy Comptroller of the Currency, and shall fix their salaries. Each Deputy Comptroller shall take the oath of office and shall perform such duties as the Comptroller shall direct. During a vacancy in the office or during the absence or disability of the Comptroller, each Deputy Comptroller shall possess the power and perform the duties attached by law to the office of the Comptroller under such order of succession following the First Deputy Comptroller as the Comptroller shall direct.
 
 (R.S. §327; Mar. 4, 1923, ch. 252, §209(b), 42 Stat. 1467; Pub. L. 86–251, §1(a), Sept. 9, 1959, 73 Stat. 487; Pub. L. 92–310, title II, §223(b), June 6, 1972, 86 Stat. 206.)
 
@@ -19,10 +19,6 @@ R.S. §327, contained after the word “Secretary” the following “who shall 
 #### Exception as to Transfer of Functions
 
 Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
-
-#### Cross References
-
-Oath of office, see Const. Art. VI, cl. 3; section 3331 of Title 5, Government Organization and Employees.
 
 #### Section Referred to in Other Sections
 

@@ -10,10 +10,6 @@ Said Commission is authorized to acquire, for and in behalf of the United States
 
 Former provisions of section 71 of this title, referred to in text, established the National Capital Park and Planning Commission, to which such clause originally referred. For transfer of functions, powers, etc., of that Commission to the National Capital Planning Commission, see Transfer of Functions note set out below, and for creation of the latter Commission, see section 71a of this title.
 
-#### Codification
-
-Section is also set out in D.C. Code, §8–101.
-
 #### Transfer of Functions
 
 In opening clause, “National Capital Planning Commission” substituted for “National Capital Park and Planning Commission”, on authority of act June 6, 1924, ch. 270, §9, as added July 19, 1952, which transferred functions of latter to former. See section 71h of this title and Transfer of Functions note thereunder.

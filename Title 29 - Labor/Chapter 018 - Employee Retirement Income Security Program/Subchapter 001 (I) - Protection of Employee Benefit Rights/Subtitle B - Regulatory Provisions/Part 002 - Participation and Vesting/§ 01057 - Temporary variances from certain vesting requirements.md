@@ -16,7 +16,3 @@ In the case of any plan maintained on January 1, 1974, if not later than 2 years
 
 Secretary authorized, effective Sept. 2, 1974, to promulgate regulations wherever provisions of this subchapter call for the promulgation of regulations, see section 1031 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1143 of this title.
-

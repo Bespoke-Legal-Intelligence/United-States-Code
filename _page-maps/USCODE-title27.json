@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title27",
- "package": "USCODE-1999-title27",
+ "package": "USCODE-2000-title27",
  "pieces": [
   {
    "id": "27_",
@@ -51,10 +51,10 @@
    "marks": [
     [
      "I",
-     10,
+     12,
      [
       [
-       110,
+       224,
        "[Page 2]"
       ]
      ]
@@ -88,14 +88,10 @@
    "id": "27_43a,_43b",
    "marks": [
     [
-     "I",
-     4,
-     [
-      [
-       117,
-       "[Page 3]"
-      ]
-     ]
+     "L",
+     8,
+     "[Page 3]",
+     true
     ]
    ],
    "path": "Chapter 002 - Prohibition of Intoxicating Beverages/§ 00043a, 43b - Omitted.md",
@@ -172,7 +168,7 @@
    "marks": [
     [
      "L",
-     6,
+     10,
      "[Page 4]",
      true
     ]
@@ -205,14 +201,10 @@
    "id": "27_71_to_90a",
    "marks": [
     [
-     "I",
-     42,
-     [
-      [
-       115,
-       "[Page 5]"
-      ]
-     ]
+     "L",
+     46,
+     "[Page 5]",
+     true
     ]
    ],
    "path": "Chapter 003 - Industrial Alcohol/§ 00071 to 90a - Omitted.md",
@@ -285,12 +277,47 @@
    ]
   },
   {
+   "id": "27_122a",
+   "marks": [
+    [
+     "L",
+     8,
+     "[Page 6]",
+     true
+    ],
+    [
+     "I",
+     100,
+     [
+      [
+       227,
+       "[Page 7]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 006 - Transportation in Interstate Commerce/§ 00122a - Injunctive relief in Federal district court.md",
+   "printed_pages": [
+    5,
+    7
+   ]
+  },
+  {
+   "id": "27_122b",
+   "marks": [],
+   "path": "Chapter 006 - Transportation in Interstate Commerce/§ 00122b - General provisions.md",
+   "printed_pages": [
+    7,
+    7
+   ]
+  },
+  {
    "id": "27_123",
    "marks": [],
    "path": "Chapter 006 - Transportation in Interstate Commerce/§ 00123 - Repealed. June 25, 1936, ch. 815, §9, 49 Stat. 1930.md",
    "printed_pages": [
-    5,
-    5
+    7,
+    7
    ]
   },
   {
@@ -298,48 +325,33 @@
    "marks": [],
    "path": "Chapter 007 - Liquor Law Repeal and Enforcement Act/README.md",
    "printed_pages": [
-    5,
-    5
+    7,
+    7
    ]
   },
   {
    "id": "27_151_to_167",
    "marks": [
     [
-     "I",
-     4,
-     [
-      [
-       97,
-       "[Page 6]"
-      ]
-     ]
+     "L",
+     36,
+     "[Page 8]",
+     true
     ]
    ],
    "path": "Chapter 007 - Liquor Law Repeal and Enforcement Act/§ 00151 to 167 - Omitted.md",
    "printed_pages": [
-    5,
-    6
+    7,
+    8
    ]
   },
   {
    "id": "27_-ch8",
-   "marks": [
-    [
-     "I",
-     64,
-     [
-      [
-       26,
-       "[Page 7]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 008 - Federal Alcohol Administration Act/README.md",
    "printed_pages": [
-    6,
-    7
+    8,
+    8
    ]
   },
   {
@@ -347,8 +359,8 @@
    "marks": [],
    "path": "Chapter 008 - Federal Alcohol Administration Act/Subchapter 001 (I) - Federal Alcohol Administration/README.md",
    "printed_pages": [
-    7,
-    7
+    8,
+    8
    ]
   },
   {
@@ -356,17 +368,28 @@
    "marks": [],
    "path": "Chapter 008 - Federal Alcohol Administration Act/Subchapter 001 (I) - Federal Alcohol Administration/§ 00201 - Short title.md",
    "printed_pages": [
-    7,
-    7
+    8,
+    8
    ]
   },
   {
    "id": "27_202",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     10,
+     [
+      [
+       180,
+       "[Page 9]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 008 - Federal Alcohol Administration Act/Subchapter 001 (I) - Federal Alcohol Administration/§ 00202 - General provisions.md",
    "printed_pages": [
-    7,
-    7
+    8,
+    9
    ]
   },
   {
@@ -374,8 +397,8 @@
    "marks": [],
    "path": "Chapter 008 - Federal Alcohol Administration Act/Subchapter 001 (I) - Federal Alcohol Administration/§ 00202a, 202b - Repealed. Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 649.md",
    "printed_pages": [
-    7,
-    7
+    9,
+    9
    ]
   },
   {
@@ -383,8 +406,8 @@
    "marks": [],
    "path": "Chapter 008 - Federal Alcohol Administration Act/Subchapter 001 (I) - Federal Alcohol Administration/§ 00202c - Omitted.md",
    "printed_pages": [
-    7,
-    7
+    9,
+    9
    ]
   },
   {
@@ -392,19 +415,19 @@
    "marks": [
     [
      "I",
-     2,
+     40,
      [
       [
-       96,
-       "[Page 8]"
+       105,
+       "[Page 10]"
       ]
      ]
     ]
    ],
    "path": "Chapter 008 - Federal Alcohol Administration Act/Subchapter 001 (I) - Federal Alcohol Administration/§ 00203 - Unlawful businesses without permit; application to State agency.md",
    "printed_pages": [
-    7,
-    8
+    9,
+    10
    ]
   },
   {
@@ -412,29 +435,19 @@
    "marks": [
     [
      "I",
-     20,
+     36,
      [
       [
-       91,
-       "[Page 9]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     46,
-     [
-      [
-       116,
-       "[Page 10]"
+       522,
+       "[Page 11]"
       ]
      ]
     ]
    ],
    "path": "Chapter 008 - Federal Alcohol Administration Act/Subchapter 001 (I) - Federal Alcohol Administration/§ 00204 - Permits.md",
    "printed_pages": [
-    8,
-    10
+    10,
+    11
    ]
   },
   {
@@ -442,88 +455,84 @@
    "marks": [
     [
      "I",
-     18,
+     10,
      [
       [
-       286,
-       "[Page 11]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     26,
-     [
-      [
-       1199,
+       142,
        "[Page 12]"
       ]
      ]
     ],
     [
      "I",
-     42,
+     22,
      [
       [
-       325,
+       2239,
        "[Page 13]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     30,
+     [
+      [
+       1976,
+       "[Page 14]"
       ]
      ]
     ]
    ],
    "path": "Chapter 008 - Federal Alcohol Administration Act/Subchapter 001 (I) - Federal Alcohol Administration/§ 00205 - Unfair competition and unlawful practices.md",
    "printed_pages": [
-    10,
-    13
+    11,
+    14
    ]
   },
   {
    "id": "27_206",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     6,
+     [
+      [
+       563,
+       "[Page 15]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 008 - Federal Alcohol Administration Act/Subchapter 001 (I) - Federal Alcohol Administration/§ 00206 - Bulk sales and bottling.md",
    "printed_pages": [
-    13,
-    13
+    14,
+    15
    ]
   },
   {
    "id": "27_207",
    "marks": [
     [
-     "I",
-     2,
-     [
-      [
-       867,
-       "[Page 14]"
-      ]
-     ]
+     "L",
+     20,
+     "[Page 16]",
+     true
     ]
    ],
    "path": "Chapter 008 - Federal Alcohol Administration Act/Subchapter 001 (I) - Federal Alcohol Administration/§ 00207 - Penalties; jurisdiction; compromise of liability.md",
    "printed_pages": [
-    13,
-    14
+    15,
+    16
    ]
   },
   {
    "id": "27_208",
-   "marks": [
-    [
-     "I",
-     20,
-     [
-      [
-       90,
-       "[Page 15]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 008 - Federal Alcohol Administration Act/Subchapter 001 (I) - Federal Alcohol Administration/§ 00208 - Interlocking directorates.md",
    "printed_pages": [
-    14,
-    15
+    16,
+    16
    ]
   },
   {
@@ -531,59 +540,12 @@
    "marks": [],
    "path": "Chapter 008 - Federal Alcohol Administration Act/Subchapter 001 (I) - Federal Alcohol Administration/§ 00209, 210 - Omitted.md",
    "printed_pages": [
-    15,
-    15
+    16,
+    16
    ]
   },
   {
    "id": "27_211",
-   "marks": [
-    [
-     "I",
-     28,
-     [
-      [
-       94,
-       "[Page 16]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Chapter 008 - Federal Alcohol Administration Act/Subchapter 001 (I) - Federal Alcohol Administration/§ 00211 - Miscellaneous provisions.md",
-   "printed_pages": [
-    15,
-    16
-   ]
-  },
-  {
-   "id": "27_212",
-   "marks": [],
-   "path": "Chapter 008 - Federal Alcohol Administration Act/Subchapter 001 (I) - Federal Alcohol Administration/§ 00212 - Omitted.md",
-   "printed_pages": [
-    16,
-    16
-   ]
-  },
-  {
-   "id": "27_-ch8-scII",
-   "marks": [],
-   "path": "Chapter 008 - Federal Alcohol Administration Act/Subchapter 002 (II) - Alcoholic Beverage Labeling/README.md",
-   "printed_pages": [
-    16,
-    16
-   ]
-  },
-  {
-   "id": "27_213",
-   "marks": [],
-   "path": "Chapter 008 - Federal Alcohol Administration Act/Subchapter 002 (II) - Alcoholic Beverage Labeling/§ 00213 - Declaration of policy and purpose.md",
-   "printed_pages": [
-    16,
-    16
-   ]
-  },
-  {
-   "id": "27_214",
    "marks": [
     [
      "L",
@@ -592,26 +554,73 @@
      true
     ]
    ],
-   "path": "Chapter 008 - Federal Alcohol Administration Act/Subchapter 002 (II) - Alcoholic Beverage Labeling/§ 00214 - Definitions.md",
+   "path": "Chapter 008 - Federal Alcohol Administration Act/Subchapter 001 (I) - Federal Alcohol Administration/§ 00211 - Miscellaneous provisions.md",
    "printed_pages": [
     16,
     17
    ]
   },
   {
-   "id": "27_215",
+   "id": "27_212",
+   "marks": [],
+   "path": "Chapter 008 - Federal Alcohol Administration Act/Subchapter 001 (I) - Federal Alcohol Administration/§ 00212 - Omitted.md",
+   "printed_pages": [
+    17,
+    17
+   ]
+  },
+  {
+   "id": "27_-ch8-scII",
+   "marks": [],
+   "path": "Chapter 008 - Federal Alcohol Administration Act/Subchapter 002 (II) - Alcoholic Beverage Labeling/README.md",
+   "printed_pages": [
+    17,
+    17
+   ]
+  },
+  {
+   "id": "27_213",
    "marks": [
     [
-     "L",
-     38,
-     "[Page 18]",
-     true
+     "I",
+     2,
+     [
+      [
+       87,
+       "[Page 18]"
+      ]
+     ]
     ]
    ],
-   "path": "Chapter 008 - Federal Alcohol Administration Act/Subchapter 002 (II) - Alcoholic Beverage Labeling/§ 00215 - Labeling requirement.md",
+   "path": "Chapter 008 - Federal Alcohol Administration Act/Subchapter 002 (II) - Alcoholic Beverage Labeling/§ 00213 - Declaration of policy and purpose.md",
    "printed_pages": [
     17,
     18
+   ]
+  },
+  {
+   "id": "27_214",
+   "marks": [
+    [
+     "L",
+     36,
+     "[Page 19]",
+     true
+    ]
+   ],
+   "path": "Chapter 008 - Federal Alcohol Administration Act/Subchapter 002 (II) - Alcoholic Beverage Labeling/§ 00214 - Definitions.md",
+   "printed_pages": [
+    18,
+    19
+   ]
+  },
+  {
+   "id": "27_215",
+   "marks": [],
+   "path": "Chapter 008 - Federal Alcohol Administration Act/Subchapter 002 (II) - Alcoholic Beverage Labeling/§ 00215 - Labeling requirement.md",
+   "printed_pages": [
+    19,
+    19
    ]
   },
   {
@@ -619,8 +628,8 @@
    "marks": [],
    "path": "Chapter 008 - Federal Alcohol Administration Act/Subchapter 002 (II) - Alcoholic Beverage Labeling/§ 00216 - Preemption.md",
    "printed_pages": [
-    18,
-    18
+    19,
+    19
    ]
   },
   {
@@ -628,8 +637,8 @@
    "marks": [],
    "path": "Chapter 008 - Federal Alcohol Administration Act/Subchapter 002 (II) - Alcoholic Beverage Labeling/§ 00217 - Report to Congress.md",
    "printed_pages": [
-    18,
-    18
+    19,
+    19
    ]
   },
   {
@@ -637,8 +646,8 @@
    "marks": [],
    "path": "Chapter 008 - Federal Alcohol Administration Act/Subchapter 002 (II) - Alcoholic Beverage Labeling/§ 00218 - Civil penalties.md",
    "printed_pages": [
-    18,
-    18
+    19,
+    19
    ]
   },
   {
@@ -646,17 +655,24 @@
    "marks": [],
    "path": "Chapter 008 - Federal Alcohol Administration Act/Subchapter 002 (II) - Alcoholic Beverage Labeling/§ 00219 - Injunction proceedings; compromise of liability.md",
    "printed_pages": [
-    18,
-    18
+    19,
+    19
    ]
   },
   {
    "id": "27_219a",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 20]",
+     true
+    ]
+   ],
    "path": "Chapter 008 - Federal Alcohol Administration Act/Subchapter 002 (II) - Alcoholic Beverage Labeling/§ 00219a - Severability.md",
    "printed_pages": [
-    18,
-    18
+    19,
+    20
    ]
   },
   {
@@ -664,8 +680,8 @@
    "marks": [],
    "path": "Chapter 009 - Liquor Enforcement Act of 1936/README.md",
    "printed_pages": [
-    18,
-    18
+    20,
+    20
    ]
   },
   {
@@ -673,11 +689,11 @@
    "marks": [],
    "path": "Chapter 009 - Liquor Enforcement Act of 1936/§ 00221 to 228 - Repealed. June 25, 1948, ch. 645, §21, 62 Stat. 862.md",
    "printed_pages": [
-    18,
-    18
+    20,
+    20
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-1999-title27 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2000-title27 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 27 - Intoxicating Liquors"
 }

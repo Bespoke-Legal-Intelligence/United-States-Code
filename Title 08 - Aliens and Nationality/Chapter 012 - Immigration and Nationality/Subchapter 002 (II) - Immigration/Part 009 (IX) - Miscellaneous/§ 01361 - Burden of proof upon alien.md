@@ -22,23 +22,3 @@ Amendment by Pub. L. 104–208 effective, with certain transitional provisions, 
 
 Amendment by Pub. L. 97–116 effective Dec. 29, 1981, see section 21(a) of Pub. L. 97–116, set out as a note under section 1101 of this title.
 
-#### Cross References
-
-Definition of the term—
-
-&emsp;&emsp;Alien, see section 1101(a)(3) of this title.
-
-&emsp;&emsp;Attorney General, see section 1101(a)(5) of this title.
-
-&emsp;&emsp;Consular officer, see section 1101(a)(9) of this title.
-
-&emsp;&emsp;Entry, see section 1101(a)(13) of this title.
-
-&emsp;&emsp;Nonimmigrant alien, see section 1101(a)(15) of this title.
-
-&emsp;&emsp;Profession, see section 1101(a)(32) of this title.
-
-&emsp;&emsp;Service, see section 1101(a)(34) of this title.
-
-&emsp;&emsp;United States, see section 1101(a)(38) of this title.
-

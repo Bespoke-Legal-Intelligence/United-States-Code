@@ -48,7 +48,7 @@ Jurisdiction.—There is jurisdiction over the activity prohibited in subsection
 
 &emsp;&emsp;(C) the offender is later found in the United States after such activity is committed;
 
-&emsp;(2) in the case of a ship navigating or scheduled to navigate solely within the territorial sea or internal waters of a country other than the United States, if the offender is later found in the United States after such activity is committed; and
+&emsp;(2) in the case of a ship navigating or scheduled to navigate solely within the territorial sea or internal waters of a country other thanthe United States, if the offender is later found in the United States after such activity is committed; and
 
 &emsp;(3) in the case of any vessel, if such activity is committed in an attempt to compel the United States to do or abstain from doing any act.
 
@@ -95,6 +95,10 @@ Section 60019(c) of Pub. L. 103–322 provided that: “This section \[enacting 
 &emsp;“(B) in the case of section 2281 of title 18, United States Code, the date the Protocol for the Suppression of Unlawful Acts Against the Safety of Fixed Platforms Located on the Continental Shelf has come into force and the United States has become a party to that Protocol.”
 
 > \[Convention and Protocol came into force Mar. 1, 1992, and entered into force with respect to the United States Mar. 6, 1995, Treaty Doc. 101–1.\]
+
+#### Territorial Sea of United States
+
+For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
 
 #### Section Referred to in Other Sections
 

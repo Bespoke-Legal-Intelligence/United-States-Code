@@ -4,7 +4,7 @@
 
 (b) It is the objective of this chapter to continue to encourage farmer- and rancher-borrowers participation in the management, control, and ownership of a permanent system of credit for agriculture which will be responsive to the credit needs of all types of agricultural producers having a basis for credit, and to modernize and improve the authorizations and means for furnishing such credit and credit for housing in rural areas made available through the institutions constituting the Farm Credit System as herein provided.
 
-(c) It is declared to be the policy of Congress that the credit needs of farmers, ranchers, and their cooperatives are best served if the institutions of the Farm Credit System provide equitable and competitive interest rates to eligible borrowers, taking into consideration the creditworthiness and access to alternative sources of credit for borrowers, the cost of funds, including any costs of defeasance under section 2159(b) of this title, the operating costs of the institution, including the costs of any loan loss amortization under section 2254(b) of this title, the cost of servicing loans, the need to retain earnings to protect borrowers’ stock, and the volume of net new borrowing. Further, it is declared to be the policy of Congress that Farm Credit System institutions take action in accordance with the Farm Credit Act Amendments of 1986 in such manner that borrowers from the institutions derive the greatest benefit practicable from that Act: <i>Provided</i>, That in no case is any borrower to be charged a rate of interest that is below competitive market rates for similar loans made by private lenders to borrowers of equivalent creditworthiness and access to alternative credit.
+(c) It is declared to be the policy of Congress that the credit needs of farmers, ranchers, and their cooperatives are best served if the institutions of the Farm Credit System provide equitable and competitive interest rates to eligible borrowers, taking into consideration the creditworthiness and access to alternative sources of credit for borrowers, the cost of funds, including any costs of defeasance under section 2159(b) of this title, the operating costs of the institution, including the costs of any loan loss amortization under section 2254(b) of this title, the cost of servicing loans, the need to retain earnings to protect borrowers’ stock, and the volume of net new borrowing. Further, it is declared to be the policy of Congress that Farm Credit System institutions take action in accordance with theFarm Credit Act Amendments of 1986 in such manner that borrowers from the institutions derive the greatest benefit practicable from that Act: <i>Provided</i>, That in no case is any borrower to be charged a rate of interest that is below competitive market rates for similar loans made by private lenders to borrowers of equivalent creditworthiness and access to alternative credit.
 
 (Pub. L. 92–181, §1.1, Dec. 10, 1971, 85 Stat. 583; Pub. L. 99–509, title I, §1032, Oct. 21, 1986, 100 Stat. 1877.)
 
@@ -44,7 +44,7 @@ Section 1031 of title I of Pub. L. 99–509 provided that: “This subtitle \[su
 
 #### Short Title of 1985 Amendment
 
-Pub. L. 99–205, §1, Dec. 23, 1985, 99 Stat. 1678, provided: “That this Act \[enacting sections 2152, 2161, 2199, 2200, 2216 to 2216k, 2219, 2219a, 2253, 2261 to 2273 of this title and provisions set out as notes under this section and section 2241 of this title, amending sections 2002, 2012, 2013, 2031, 2033, 2034, 2051, 2052, 2054, 2072 to 2074, 2077, 2078, 2091, 2093 to 2096, 2098, 2122 to 2126, 2132 to 2134, 2151, 2153 to 2156, 2182, 2183, 2201, 2202, 2205, 2206, 2211 to2213, 2221 to 2223, 2227, 2241 to 2246, 2248 to 2252, and 2254 of this title, and repealing sections 2152, 2247, and 2253 of this title\] may be cited as the ‘Farm Credit Amendments Act of 1985’.”
+Pub. L. 99–205, §1, Dec. 23, 1985, 99 Stat. 1678, provided: “That this Act \[enacting sections 2152, 2161, 2199, 2200, 2216 to 2216k, 2219, 2219a, 2253, 2261 to 2273 of this title and provisions set out as notes under this section and section 2241 of this title, amending sections 2002, 2012, 2013, 2031, 2033, 2034, 2051, 2052, 2054, 2072 to 2074, 2077, 2078, 2091, 2093 to 2096, 2098, 2122 to 2126, 2132 to 2134, 2151, 2153 to 2156, 2182, 2183, 2201, 2202, 2205, 2206, 2211 to 2213, 2221 to 2223, 2227, 2241 to 2246, 2248 to 2252, and 2254 of this title, and repealing sections 2152, 2247, and 2253 of this title\] may be cited as the ‘Farm Credit Amendments Act of 1985’.”
 
 #### Short Title of 1980 Amendment
 
@@ -108,7 +108,7 @@ Section 5.40(a), formerly §5.26(a), of Pub. L. 92–181, as renumbered by Pub. 
 
 #### Reservation of Right To Amend or Repeal
 
-Section 5.43, formerly §5.29, of Pub. L. 92–181, as renumbered by Pub. L. 99–205, title II, §205(a)(2), Dec. 23,1985, 99 Stat. 1703, provided that: “The right to alter, amend, or repeal any provision or all of this Act \[this chapter\] is expressly reserved.”
+Section 5.43, formerly §5.29, of Pub. L. 92–181, as renumbered by Pub. L. 99–205, title II, §205(a)(2), Dec. 23, 1985, 99 Stat. 1703, provided that: “The right to alter, amend, or repeal any provision or all of this Act \[this chapter\] is expressly reserved.”
 
 #### Study on Demand for and Availability of Credit in Rural Areas for Agriculture, Housing, and Rural Development
 
@@ -142,7 +142,7 @@ Items in Study.—In conducting the study, the Secretary shall base the study on
 
 &emsp;&emsp;“(A) any added risk to the safety and soundness of the Farm Credit System that may result from approval of a proposal; and
 
-&emsp;&emsp;“(B) any positive or adverse impacts on competition between the Farm Credit System and the banks of the United States in providing credit to rural users;
+&emsp;&emsp;“(B) any positive or adverse impacts on competition between the Farm Credit System and thebanks of the United States in providing credit to rural users;
 
 &emsp;“(8) the nature and extent of the unsatisfied rural credit need that the Farm Credit System proposals are supposed to address and what aspects of the present Farm Credit System prevent the Farm Credit System from meeting the need;
 

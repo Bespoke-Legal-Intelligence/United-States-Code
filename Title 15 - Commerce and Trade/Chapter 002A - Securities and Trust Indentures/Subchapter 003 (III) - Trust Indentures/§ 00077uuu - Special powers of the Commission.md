@@ -18,7 +18,7 @@ Any investigation of a prospective trustee, or any proceeding or requirement for
 
 &emsp;(2) to requiring the inclusion in the registration statement or application of information with respect to the eligibility of such prospective trustee under paragraph (1) of subsection (a) of section 77jjj of this title; and
 
-&emsp;(3) to requiring the inclusion in the registration statement or application of the most recent published report of condition of such prospective trustee, as described in paragraph (2) of subsection (a) of section 77jjj of this title, or, if the indenture does not contain the provision with respect to combined capital and surplus authorized by the last sentence of paragraph (2) of subsection (a) of section 77jjj of this title, to determining whether such prospective trustee is eligible to act as such under paragraph (2) of subsection (a) of section 77jjj of this title.
+&emsp;(3) to requiring the inclusion in the registration statement or application of the most recent published report of condition of such prospective trustee, as described in paragraph (2) of subsection (a) of section 77jjj of this title,or, if the indenture does not contain the provision with respect to combined capital and surplus authorized by the last sentence of paragraph (2) of subsection (a) of section 77jjj of this title, to determining whether such prospective trustee is eligible to act as such under paragraph (2) of subsection (a) of section 77jjj of this title.
 
 #### (d) Appointment and compensation of employees; lease and allocation of real property
 
@@ -36,27 +36,11 @@ The provisions section 78d(b) of this title shall be applicable with respect to 
 
 #### Transfer of Functions
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman ofsuch Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
 #### Exception as to Transfer of Functions
 
 Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions of officers, agencies and employees of Department of the Treasury to Secretary of the Treasury, made by Reorg. Plan No. 26 of 1950, §1, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280. See section 321(c)(2) of Title 31, Money and Finance.
-
-#### Cross References
-
-Administration of oaths, etc., under—
-
-&emsp;&emsp;Investment Advisers Act of 1940, see section 80b–9 of this title.
-
-&emsp;&emsp;Investment Company Act of 1940, see section 80a–41 of this title.
-
-&emsp;&emsp;Public Utility Holding Company Act of 1935, see section 79r of this title.
-
-&emsp;&emsp;Securities Act of 1933, see section 77s of this title.
-
-&emsp;&emsp;Securities Exchange Act of 1934, see section 78u of this title.
-
-Availability of information and documents contained in application for qualification of indenture as subject to this section, see section 77ggg of this title.
 
 #### Section Referred to in Other Sections
 

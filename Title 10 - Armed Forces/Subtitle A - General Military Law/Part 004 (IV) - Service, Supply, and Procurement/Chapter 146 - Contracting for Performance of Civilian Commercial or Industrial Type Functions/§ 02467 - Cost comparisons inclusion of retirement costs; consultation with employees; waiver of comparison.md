@@ -20,7 +20,7 @@ Requirement To Include Retirement Costs.—(1) In any comparison conducted by th
 
 Requirement To Consult DOD Employees.—(1) Each officer or employee of the Department of Defense responsible for determining under Office of Management and Budget Circular A–76 whether to convert to contractor performance any commercial activity of the Department—
 
-&emsp;(A) shall, at least monthly during the development and preparation of the performancework statement and the management efficiency study used in making that determination, consult with civilian employees who will be affected by that determination and consider the views of such employees on the development and preparation of that statement and that study; and
+&emsp;(A) shall, at least monthly during the development and preparation of the performance work statement and the management efficiency study used in making that determination, consult with civilian employees who will be affected by that determination and consider the views of such employees on the development and preparation of that statement and that study; and
 
 &emsp;(B) may consult with such employees on other matters relating to that determination.
 

@@ -58,7 +58,7 @@
 
 (3) The total number of general officers assigned or detailed to permanent duty in the Office of the Secretary of the Army and on the Army Staff may not exceed the number equal to 85 percent of the number of general officers assigned or detailed to such duty on the date of the enactment of this subsection.
 
-(4) The limitations in paragraphs (1), (2), and (3) do not apply in time of war or during a national emergency declared by the President or Congress. The limitation in paragraph (2) does not apply whenever the President determines that it is in the national interest to increase the number of officers assigned or detailed to permanent duty in the Office of the Secretary of the Army or on the Army Staff.
+(4) The limitations in paragraphs (1), (2), and (3) do not apply in time of war or during a national emergency declared by the President or Congress. The limitation in paragraph (2) does not apply whenever the President determinesthat it is in the national interest to increase the number of officers assigned or detailed to permanent duty in the Office of the Secretary of the Army or on the Army Staff.
 
 (Added Pub. L. 99–433, title V, §501(a)(5), Oct. 1, 1986, 100 Stat. 1036; amended Pub. L. 100–180, div. A, title XIII, §1314(b)(7), Dec. 4, 1987, 101 Stat. 1175; Pub. L. 100–456, div. A, title III, §325(a), Sept. 29, 1988, 102 Stat. 1955; Pub. L. 101–189, div. A, title VI, §652(a)(4), Nov. 29, 1989, 103 Stat. 1461.)
 
@@ -68,7 +68,7 @@ The date of the enactment of this subsection, referred to in subsec. (f)(3), is 
 
 #### Prior Provisions
 
-A prior section 3014, acts Aug. 10, 1956, ch. 1041, 70A Stat. 158, §3013; Aug. 6, 1958, Pub. L. 85–599, §8(a), 72Stat. 519; Sept. 2, 1958, Pub. L. 85–861, §1(58), 72 Stat. 1462; Aug. 14, 1964, Pub. L. 88–426, title III, §305(3), 78 Stat. 422; Dec. 1, 1967, Pub. L. 90–168, §2(12), 81 Stat. 523; Dec. 31, 1970, Pub. L. 91–611, title II, §211(a), 84 Stat. 1829; Nov. 9, 1979, Pub. L. 96–107, title VIII, §820(b), 93 Stat. 819; Sept. 24, 1983, Pub. L. 98–94, title XII, §1212(c)(1), 97 Stat. 687; renumbered §3014, Oct. 1, 1986, Pub. L. 99–433, title V, §501(a)(2), 100 Stat. 1034, related to Under Secretary and Assistant Secretaries of the Army, appointment, and duties, prior to repeal by Pub. L. 99–433, §501(a)(5). See sections 3015 and 3016 of this title.
+A prior section 3014, acts Aug. 10, 1956, ch. 1041, 70A Stat. 158, §3013; Aug. 6, 1958, Pub. L. 85–599, §8(a), 72 Stat. 519; Sept. 2, 1958, Pub. L. 85–861, §1(58), 72 Stat. 1462; Aug. 14, 1964, Pub. L. 88–426, title III, §305(3), 78 Stat. 422; Dec. 1, 1967, Pub. L. 90–168, §2(12), 81 Stat. 523; Dec. 31, 1970, Pub. L. 91–611, title II, §211(a), 84 Stat. 1829; Nov. 9, 1979, Pub. L. 96–107, title VIII, §820(b), 93 Stat. 819; Sept. 24, 1983, Pub. L. 98–94, title XII, §1212(c)(1), 97 Stat. 687; renumbered §3014, Oct. 1, 1986, Pub. L. 99–433, title V, §501(a)(2), 100 Stat. 1034, related to Under Secretary and Assistant Secretaries of the Army, appointment, and duties, prior to repeal by Pub. L. 99–433, §501(a)(5). See sections 3015 and 3016 of this title.
 
 Another prior section 3014 was renumbered section 3015 of this title and subsequently repealed.
 

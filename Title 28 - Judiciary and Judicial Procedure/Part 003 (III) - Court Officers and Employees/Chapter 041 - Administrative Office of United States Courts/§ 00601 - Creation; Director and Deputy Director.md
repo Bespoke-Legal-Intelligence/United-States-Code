@@ -14,11 +14,11 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1996—Pub. L. 104–317 inserted at end “The Director and Deputy Director shall be deemed to be officers for purposes of title 5, United States Code.”
+<b>1996</b>—Pub. L. 104–317 inserted at end “The Director and Deputy Director shall be deemed to be officers for purposes of title 5, United States Code.”
 
-1990—Pub. L. 101–650 substituted “Chief Justice of the United States, after consulting with the Judicial Conference” for “Supreme Court”.
+<b>1990</b>—Pub. L. 101–650 substituted “Chief Justice of the United States, after consulting with the Judicial Conference” for “Supreme Court”.
 
-1959—Pub. L. 86–370 substituted “Deputy Director” for “Assistant Director”.
+<b>1959</b>—Pub. L. 86–370 substituted “Deputy Director” for “Assistant Director”.
 
 #### Effective Date of 1959 Amendment
 

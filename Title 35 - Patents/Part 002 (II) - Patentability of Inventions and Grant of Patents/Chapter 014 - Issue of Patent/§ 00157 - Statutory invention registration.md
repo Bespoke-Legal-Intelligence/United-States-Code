@@ -34,6 +34,10 @@ Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see secti
 
 Section 102(c) of Pub. L. 98–622 provided that: “The amendments made by this section \[enacting this section and item 157 in the table of sections of this chapter\] shall take effect six months after the date of enactment of this Act \[Nov. 8, 1984\].”
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (d) of this section relating to annual reports to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 51 of House Document No. 103–7.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 111 of this title.

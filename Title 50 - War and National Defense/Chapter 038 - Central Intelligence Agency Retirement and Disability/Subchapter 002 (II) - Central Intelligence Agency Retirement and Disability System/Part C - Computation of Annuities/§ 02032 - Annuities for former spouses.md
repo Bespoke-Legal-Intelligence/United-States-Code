@@ -132,7 +132,7 @@
 
 #### (C) Effect of former spouse's death or disqualification
 
-&emsp;&emsp;If a former spouse predeceases the participant or remarries before attaining age 55 (or, in the case of a spouse, the spouse predeceases the participant or does not qualifyas a former spouse upon dissolution of the marriage)—
+&emsp;&emsp;If a former spouse predeceases the participant or remarries before attaining age 55 (or, in the case of a spouse, the spouse predeceases the participant or does not qualify as a former spouse upon dissolution of the marriage)—
 
 &emsp;&emsp;&emsp;(i) if an annuity reduction or pay allotment under subparagraph (A) is in effect for that spouse or former spouse, the annuity shall be recomputed and paid as if it had not been reduced or the pay allotment terminated, as the case may be; and
 
@@ -226,7 +226,7 @@ Commencement of annuity.—The entitlement of a former wife or husband to a surv
 
 &emsp;&emsp;“(B)
 
-Termination of annuity.—The entitlement of a former wife or husband to a survivor annuityunder this subsection terminates on the last day of the month before the former wife's or husband's death or remarriage before attaining age 55. The entitlement of a former wife or husband to such a survivor annuity shall be restored on the date such remarriage is dissolved by death, annulment, or divorce.
+Termination of annuity.—The entitlement of a former wife or husband to a survivor annuity under this subsection terminates on the last day of the month before the former wife's or husband's death or remarriage before attaining age 55. The entitlement of a former wife or husband to such a survivor annuity shall be restored on the date such remarriage is dissolved by death, annulment, or divorce.
 
 &emsp;“(4)
 
@@ -338,7 +338,7 @@ Disability annuities.—Notwithstanding subparagraph (A)(i)(II), in the case of 
 
 &emsp;&emsp;“(C)
 
-Election of benefits.—A former wife or husband of a participant or retired participant shall not become entitled under this subsection to an annuity or to the restoration of an annuity unless the former wife or husband elects to receive it instead of any survivor annuity to which the former wife or husband may be entitled under the Central Intelligence Agency Retirement and Disability Systemor any other retirement system for Government employees on the basis of a marriage to someone other than the participant.
+Election of benefits.—A former wife or husband of a participant or retired participant shall not become entitled under this subsection to an annuity or to the restoration of an annuity unless the former wife or husband elects to receive it instead of any survivor annuity to which the former wife or husband may be entitled under the Central Intelligence Agency Retirement and Disability System or any other retirement system for Government employees on the basis of a marriage to someone other than the participant.
 
 &emsp;&emsp;“(D)
 

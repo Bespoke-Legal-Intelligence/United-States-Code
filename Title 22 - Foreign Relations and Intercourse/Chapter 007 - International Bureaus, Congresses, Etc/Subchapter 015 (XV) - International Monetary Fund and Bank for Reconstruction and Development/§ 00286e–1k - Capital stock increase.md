@@ -10,7 +10,7 @@ The United States Governor of the Bank is authorized—
 
 #### (b) Authorization of appropriations
 
-In order to pay for the increase in the United States subscription to the Bank provided for in this section, there are authorized to be appropriated, without fiscal year limitation, $14,025,266,370, for payment by the Secretary of the Treasury.
+In order to pay for the increase in the United States subscription to the Bank provided for inthis section, there are authorized to be appropriated, without fiscal year limitation, $14,025,266,370, for payment by the Secretary of the Treasury.
 
 (July 31, 1945, ch. 339, §53, as added Pub. L. 100–461, title V, §555, Oct. 1, 1988, 102 Stat. 2268–36.)
 

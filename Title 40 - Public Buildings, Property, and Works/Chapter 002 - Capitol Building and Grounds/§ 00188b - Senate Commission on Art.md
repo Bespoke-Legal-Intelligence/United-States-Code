@@ -38,11 +38,7 @@ Section 901(d) of Pub. L. 100–696 provided that: “The provisions of this sec
 
 #### Increases in Compensation
 
-Increases in compensation for officers and employees of the Senate under authority of the Federal Pay Comparability Act of 1970 (Pub. L. 91–656), see Salary Directives of the President pro tempore of the Senate, setout as notes under section 60a–1 of Title 2, The Congress.
-
-#### Cross References
-
-Authority of Secretary of Senate to fix compensation of certain positions, see section 61a–11 of Title 2, The Congress.
+Increases in compensation for officers and employees of the Senate under authority of the Federal Pay Comparability Act of 1970 (Pub. L. 91–656), see Salary Directives of the President pro tempore of the Senate, set out as notes under section 60a–1 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

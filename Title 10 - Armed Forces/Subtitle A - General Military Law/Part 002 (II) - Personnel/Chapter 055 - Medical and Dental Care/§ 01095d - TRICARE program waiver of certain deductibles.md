@@ -10,9 +10,11 @@ Waiver Authorized.—The Secretary of Defense may waive the deductible payable f
 
 (b)
 
-Eligible Dependent.—As used in this section, the term “eligible dependent” means a dependent described in subparagraphs <sup>1</sup> (A), (D), or (I) of section 1072(2) of this title.
+Eligible Dependent.—As used in this section, the term “eligible dependent” means a dependent described in subparagraph (A), (D), or (I) of section 1072(2) of this title.
 
-(Added Pub. L. 106–65, div. A, title VII, §714(a), Oct. 5, 1999, 113 Stat. 689.)
+(Added Pub. L. 106–65, div. A, title VII, §714(a), Oct. 5, 1999, 113 Stat. 689; amended Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(7)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–290.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subparagraph”.</i>
+#### Amendments
+
+2000—Subsec. (b). Pub. L. 106–398 substituted “subparagraph” for “subparagraphs”.
 

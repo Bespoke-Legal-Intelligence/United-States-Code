@@ -8,7 +8,7 @@
 
 #### (b) Participants or annuitants having former spouses
 
-(1)(A) In the case of any participant or annuitant who has a former spouse who is covered bya court order or who is a party to a spousal agreement—
+(1)(A) In the case of any participant or annuitant who has a former spouse who is covered by a court order or who is a party to a spousal agreement—
 
 &emsp;(i) any right of the former spouse to any annuity under section 4054(a) of this title in connection with any retirement or disability annuity of the participant, and the amount of any such annuity;
 

@@ -30,7 +30,7 @@ The program under this section shall be conducted on an annual basis during the 
 
 #### (e) Means of accomplishing goals
 
-The program shall provide for teachers’ participation in activities at the laboratory facilities of the Institute, or shall utilize other meansof accomplishing the goals of the program as determined by the Director, which may include the Internet, video conferencing and recording, and workshops and conferences.
+The program shall provide for teachers’ participation in activities at the laboratory facilities of the Institute, or shall utilize other means of accomplishing the goals of the program as determined by the Director, which may include the Internet, video conferencing and recording, and workshops and conferences.
 
 (Mar. 3, 1901, ch. 872, §19A, as added Pub. L. 105–309, §7, Oct. 30, 1998, 112 Stat. 2937.)
 

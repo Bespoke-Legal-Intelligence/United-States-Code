@@ -54,7 +54,7 @@ To qualify for a grant under subsection (a) of this section, a qualified organiz
 
 &emsp;&emsp;(D) demographic characteristics of the population to be served, including age, disability, race, ethnicity, and languages used; and
 
-&emsp;(2) contain assurances satisfactory to the Attorney General that the program for which a grant is made will meet the applicable requirements of the program guidelines prescribed by the Attorney General under subsection (i) of this section.
+&emsp;(2) contain assurances satisfactory to the Attorney General that the program for whicha grant is made will meet the applicable requirements of the program guidelines prescribed by the Attorney General under subsection (i) of this section.
 
 #### (e) Action by Attorney General
 

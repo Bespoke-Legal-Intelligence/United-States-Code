@@ -144,7 +144,7 @@ Sec. 8. <i>Membership of the Interagency Committee</i>. The Interagency Committe
 
 Sec. 9. <i>Functions of the Interagency Committee</i>. (a) The Interagency Committee shall:
 
-(1) survey Arctic research conducted by Federal, State, and local agencies, universities, and other public and private institutions to help determine priorities for future Arctic research, including natural resources andmaterials, physical and biological sciences, and social and behavioral sciences;
+(1) survey Arctic research conducted by Federal, State, and local agencies, universities, and other public and private institutions to help determine priorities for future Arctic research, including natural resources and materials, physical and biological sciences, and social and behavioral sciences;
 
 (2) work with the Commission to develop and establish an integrated national Arctic research policy that will guide Federal agencies in developing and implementing their research programs in the Arctic;
 
@@ -164,7 +164,7 @@ Sec. 9. <i>Functions of the Interagency Committee</i>. (a) The Interagency Commi
 
 (6) facilitate cooperation between the Federal government and State and local governments in Arctic research, and recommend the undertaking of neglected areas of research;
 
-(7) coordinate and promote cooperative Arctic scientific research programs with other nations, subject to the foreign policy guidance of the Secretary of State;
+(7) coordinate and promote cooperative Arctic scientific research programs with other nations, subjectto the foreign policy guidance of the Secretary of State;
 
 (8) cooperate with the Governor of the State of Alaska in fulfilling its responsibilities under the Act; and
 

@@ -20,7 +20,7 @@ Cost Sharing.—Each cooperative research and development project entered into u
 
 Restrictions on Procurement of Equipment and Services.—(1) In order to assure substantial participation on the part of the major allies of the United States in cooperative research and development projects, funds made available for such projects may not be used to procure equipment or services from any foreign government, foreign research organization, or other foreign entity.
 
-(2) A major ally of the United States may not use any military or economic assistance grant, loan, or other funds provided by the United States for the purpose of making that ally's contribution to a cooperative research and development program entered into with the United States under this section.
+(2) A major ally of the United States may not use any military or economic assistance grant, loan, or other funds provided by the UnitedStates for the purpose of making that ally's contribution to a cooperative research and development program entered into with the United States under this section.
 
 (e)
 
@@ -60,7 +60,7 @@ Side-by-Side Testing.—(1) It is the sense of Congress—
 
 &emsp;(B) that while the testing of nondevelopmental items and items in the late state of the development process are preferred, the testing of equipment, munitions, and technologies may be conducted to determine procurement alternatives.
 
-(2) The Secretary of Defense may acquire equipment, munitions, and technologies of thetype described in paragraph (1) for the purpose of conducting the testing described in that paragraph.
+(2) The Secretary of Defense may acquire equipment, munitions, and technologies of the type described in paragraph (1) for the purpose of conducting the testing described in that paragraph.
 
 (3) The Deputy Director, Defense Research and Engineering (Test and Evaluation) shall notify the Speaker of the House of Representatives and the Committees on Armed Services and on Appropriations of the Senate of the Deputy Director's intent to obligate funds made available to carry out this subsection not less than 30 days before such funds are obligated.
 

@@ -28,7 +28,7 @@ Upon submission by a sponsor or a physician of a protocol intended to provide wi
 
 &emsp;(B) all clinical trials necessary for approval of that use of the investigational drug or investigational device have been completed;
 
-&emsp;(4) the sponsor of the controlled clinical trials is actively pursuing marketing approval of the investigational drug or investigational device for the use described in paragraph (1) with due diligence;
+&emsp;(4) the sponsor of the controlled clinical trials is actively pursuing marketing approvalof the investigational drug or investigational device for the use described in paragraph (1) with due diligence;
 
 &emsp;(5) in the case of an investigational drug or investigational device described in paragraph (3)(A), the provision of the investigational drug or investigational device will not interfere with the enrollment of patients in ongoing clinical investigations under section 355(i) or 360j(g) of this title;
 

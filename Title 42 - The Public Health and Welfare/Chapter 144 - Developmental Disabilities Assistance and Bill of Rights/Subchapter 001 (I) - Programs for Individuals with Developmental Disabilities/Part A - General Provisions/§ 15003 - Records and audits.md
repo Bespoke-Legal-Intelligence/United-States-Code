@@ -1,0 +1,22 @@
+### §15003. Records and audits
+
+#### (a) Records
+
+Each recipient of assistance under this subchapter shall keep such records as the Secretary shall prescribe, including—
+
+&emsp;(1) records that fully disclose—
+
+&emsp;&emsp;(A) the amount and disposition by such recipient of the assistance;
+
+&emsp;&emsp;(B) the total cost of the project or undertaking in connection with which such assistance is given or used; and
+
+&emsp;&emsp;(C) the amount of that portion of the cost of the project or undertaking that is supplied by other sources; and
+
+&emsp;(2) such other records as will facilitate an effective audit.
+
+#### (b) Access
+
+The Secretary and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access for the purpose of audit and examination to any books, documents, papers, and records of the recipients of assistance under this subchapter that are pertinent to such assistance.
+
+(Pub. L. 106–402, title I, §103, Oct. 30, 2000, 114 Stat. 1688.)
+

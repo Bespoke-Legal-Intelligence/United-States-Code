@@ -34,7 +34,7 @@
 
 (f) A person named in subsection (a) may accept for the United States a gift of any property named in subsection (b), including temporary use, for any purpose named in subsection (a).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 148; Pub. L. 85–861, §33(a)(15), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 96–513, title V, §511(90), Dec. 12, 1980, 94 Stat. 2928; Pub. L. 97–31, §12(3)(A), Aug. 6, 1981, 95 Stat. 153; Pub. L. 97–295, §1(32), Oct. 12, 1982, 96 Stat.1296; Pub. L. 100–26, §7(d)(6), Apr. 21, 1987, 101 Stat. 281.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 148; Pub. L. 85–861, §33(a)(15), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 96–513, title V, §511(90), Dec. 12, 1980, 94 Stat. 2928; Pub. L. 97–31, §12(3)(A), Aug. 6, 1981, 95 Stat. 153; Pub. L. 97–295, §1(32), Oct. 12, 1982, 96 Stat. 1296; Pub. L. 100–26, §7(d)(6), Apr. 21, 1987, 101 Stat. 281.)
 
 Historical and Revision Notes<br>1956
 
@@ -100,7 +100,7 @@ This corrects an error in an amendment to 10:2664(a) made by section 12(3)(A) of
 
 1981—Subsec. (a). Pub. L. 97–31, in introductory text and par. (3), substituted references to Secretary of Transportation for references to Secretary of Commerce and Maritime Commission. Amendment was executed to text in accordance with the probable intent of Congress, notwithstanding amendment of section by Pub. L. 96–513 which substituted different language than language contained in amendatory provisions of Pub. L. 97–31.
 
-1980—Subsec. (a). Pub. L. 96–513 substituted “Federal Maritime Commission” for “Federal Maritime Board” in two places, and substituted “under Reorganization Plan No. 7 of 1961, effective August 12, 1961 (75 Stat. 840)” for “by 1950 Reorganization Plan No. 21, effective May 24, 1950 (64 Stat. 1273)”.
+1980—Subsec. (a). Pub. L. 96–513 substituted “Federal Maritime Commission” for “Federal Maritime Board” in two places, and substituted “under Reorganization Plan No. 7 of 1961, effective August 12, 1961 (75 Stat.840)” for “by 1950 Reorganization Plan No. 21, effective May 24, 1950 (64 Stat. 1273)”.
 
 1958—Subsec. (a). Pub. L. 85–861, §33(a)(15)(A), (B), inserted “, including temporary use,” after “subsection (b)”, and struck out provisions requiring all proceedings under this subsection to be in accordance with the laws of the State in which the suit is brought.
 
@@ -115,10 +115,6 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 #### Effective Date of 1958 Amendment
 
 Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub. L. 85–861, set out as a note under section 101 of this title.
-
-#### Cross References
-
-Original jurisdiction of district courts in condemnation proceedings, see section 1358 of Title 28, Judiciary and Judicial Procedure.
 
 #### Section Referred to in Other Sections
 

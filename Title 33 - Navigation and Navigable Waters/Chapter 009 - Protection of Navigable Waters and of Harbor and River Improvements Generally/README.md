@@ -96,6 +96,9 @@
 | (f) | Authorization of appropriations. |
 | [426n.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000426n%20-%20Technical%20assistance%20to%20States%20and%20local%20governments%3B%20cost%20sharing.md) | Technical assistance to States and local governments; cost sharing. |
 | 426<i>o.</i> | Great Lakes material disposal. |
+| 426<i>o</i>–1. | Great Lakes dredging levels adjustment. |
+| (a) | Definition of Great Lake. |
+| (b) | Dredging levels. |
 | [426p.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000426p%20-%20Corps%20of%20Engineers.md) | Corps of Engineers. |
 | (a) | Technical and other assistance. |
 | (b) | Issuance of permits. |

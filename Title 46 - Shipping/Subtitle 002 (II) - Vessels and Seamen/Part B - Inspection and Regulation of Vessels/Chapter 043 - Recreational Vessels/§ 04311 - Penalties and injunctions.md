@@ -10,7 +10,7 @@
 
 (c) A person violating any other provision of this chapter or other regulation prescribed under this chapter is liable to the Government for a civil penalty of not more than $1,000. If the violation involves the operation of a vessel, the vessel also is liable in rem for the penalty.
 
-(d) When a civil penalty of not more than $200 has been assessed under this chapter, the Secretary may refer the matter of collection of the penalty directly to the United States magistrate of the jurisdiction in which the person liable may be found for collection procedures under supervision of the district court and under an order issued by the court delegating this authority under section 636(b) of title 28.
+(d) When a civil penalty of not more than $200 has been assessed under this chapter, the Secretary may refer the matter of collection of the penalty directly to the United States magistrate judge of the jurisdiction in which the person liable may be found for collection procedures under supervision of the district court and under an order issued by the court delegating this authority under section 636(b) of title 28.
 
 (e) The district courts of the United States have jurisdiction to restrain a violation of this chapter, or to restrain the sale, offer for sale, introduction or delivery for introduction into interstate commerce, or importation into the United States, of a recreational vessel or associated equipment that the court decides does not conform to safety standards of the Government. A civil action under this subsection shall be brought by filing a petition by the Attorney General for the Government. When practicable, the Secretary shall give notice to a person against whom an action for injunctive relief is contemplated and provide the person with an opportunity to present views and, except for a knowing and willful violation, shall provide the person with a reasonable opportunity to achieve compliance. The failure to give notice and provide the opportunity does not preclude the granting of appropriate relief by the district court.
 
@@ -22,7 +22,7 @@
 
 (g) Compliance with this chapter or standards, regulations, or orders prescribed under this chapter does not relieve a person from liability at common law or under State law.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 534; Pub. L. 98–557, §8(b), (c), Oct. 30, 1984, 98 Stat. 2862.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 534; Pub. L. 98–557, §8(b), (c), Oct. 30, 1984, 98 Stat. 2862; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
 
 Historical and Revision Notes
 
@@ -72,5 +72,5 @@ Subsec. (f)(1). Pub. L. 98–557, §8(c), inserted provisions relating to advice
 
 #### Change of Name
 
-Reference to United States magistrate or to magistrate deemed to refer to United States magistrate judge pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+“United States magistrate judge” substituted for “United States magistrate” in subsec. (d) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 

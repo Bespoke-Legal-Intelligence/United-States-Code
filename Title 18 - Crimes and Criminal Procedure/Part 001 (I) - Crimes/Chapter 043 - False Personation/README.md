@@ -12,12 +12,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Cross References
-
-Naturalization proceedings; false personation or misuse of papers, see section 1424 of this title.
-
-Visas and permits; false personation, see section 1546 of this title.
-
 
 ---
 

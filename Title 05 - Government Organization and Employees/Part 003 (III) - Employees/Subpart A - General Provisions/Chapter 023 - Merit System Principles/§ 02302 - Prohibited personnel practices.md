@@ -40,7 +40,7 @@
 
 &emsp;&emsp;(i) a Government corporation, except in the case of an alleged prohibited personnel practice described under subsection (b)(8);
 
-&emsp;&emsp;(ii) the Federal Bureau of Investigation, the Central Intelligence Agency, the Defense Intelligence Agency, the National Imageryand Mapping Agency, the National Security Agency, and, as determined by the President, any Executive agency or unit thereof the principal function of which is the conduct of foreign intelligence or counterintelligence activities; or
+&emsp;&emsp;(ii) the Federal Bureau of Investigation, the Central Intelligence Agency, the Defense Intelligence Agency, the National Imagery and Mapping Agency, the National Security Agency, and, as determined by the President, any Executive agency or unit thereof the principal function of which is the conduct of foreign intelligence or counterintelligence activities; or
 
 &emsp;&emsp;(iii) the General Accounting Office.
 
@@ -100,13 +100,13 @@
 
 &emsp;&emsp;(D) for refusing to obey an order that would require the individual to violate a law;
 
-&emsp;(10) discriminate for or against any employee or applicant for employment on the basis of conduct which does not adversely affect the performance of the employee or applicant or the performance of others; except that nothing in this paragraph shall prohibit an agency from taking into account in determining suitability or fitness any conviction of the employee or applicant for any crime under the laws of any State, of the District of Columbia, or of the United States;
+&emsp;(10) discriminate for or against any employee or applicant for employment on thebasis of conduct which does not adversely affect the performance of the employee or applicant or the performance of others; except that nothing in this paragraph shall prohibit an agency from taking into account in determining suitability or fitness any conviction of the employee or applicant for any crime under the laws of any State, of the District of Columbia, or of the United States;
 
 &emsp;(11)(A) knowingly take, recommend, or approve any personnel action if the taking of such action would violate a veterans’ preference requirement; or
 
 &emsp;(B) knowingly fail to take, recommend, or approve any personnel action if the failure to take such action would violate a veterans’ preference requirement; or
 
-&emsp;(12) take or fail to take any other personnel action if the taking of or failure to take suchaction violates any law, rule, or regulation implementing, or directly concerning, the merit system principles contained in section 2301 of this title.
+&emsp;(12) take or fail to take any other personnel action if the taking of or failure to take such action violates any law, rule, or regulation implementing, or directly concerning, the merit system principles contained in section 2301 of this title.
 
 > This subsection shall not be construed to authorize the withholding of information from the Congress or the taking of any personnel action against an employee who discloses information to the Congress.
 
@@ -176,7 +176,7 @@ Subsec. (b)(2). Pub. L. 104–197 amended par. (2) generally. Prior to amendment
 
 Subsec. (a)(2)(A)(x), (xi). Pub. L. 103–424, §5(a)(1), (2), added cls. (x) and (xi) and struck out former cl. (x) which read as follows: “any other significant change in duties or responsibilities which is inconsistent with the employee's salary or grade level;”.
 
-Subsec. (a)(2)(B). Pub. L. 103–424, §5(b), amended subpar. (B) generally. Prior to amendment, subpar. (B)read as follows: “ ‘covered position’ means any position in the competitive service, a career appointee position in the Senior Executive Service, or a position in the excepted service, but does not include—
+Subsec. (a)(2)(B). Pub. L. 103–424, §5(b), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “ ‘covered position’ means any position in the competitive service, a career appointee position in the Senior Executive Service, or a position in the excepted service, but does not include—
 
 &emsp;“(i) a position which is excepted from the competitive service because of its confidential, policy-determining, policy-making, or policy-advocating character; or
 

@@ -22,23 +22,23 @@ The Secretary of Agriculture shall charge a rental charge for all ski area permi
 
 (2) In cases where ski areas are only partially located on national forest lands, the slope transport feet percentage on national forest land referred to in this subsection shall be calculated as generally described in the Forest Service Manual in effect as of January 1, 1992. Revenues from Nordic ski operations shall be included or excluded from the rental charge calculation according to the percentage of trails physically located on national forest land.
 
-(3) In order to ensure that the rental charge remains fair and equitable to both the United States and the ski area permittees, the adjusted gross revenue figures for each revenue bracket in paragraph (1) shall be adjusted annually by the percent increase or decrease in the national Consumer Price Index for the preceding calendar year. No later than 3 years after November 12, 1996, and every 5 years thereafter the Secretary shall submit to the Committee on Energy and Natural Resources of the United States Senate and the Committee on Resources of the United States House of Representatives a report analyzing whether the ski area permit rental charge legislated by this Act is returning a fair market value rental to the United States together with any recommendations the Secretary may have for modifications of the system.
+(3) In order to ensure that the rental charge remains fair and equitable to both the United States and the ski area permittees, the adjusted gross revenue figures for each revenue bracket in paragraph (1) shall be adjusted annually by the percent increase or decrease in the national Consumer Price Index for the preceding calendar year. No later than 3 years after November 12, 1996, and every 5 years thereafter the Secretary shall submit to the Committee on Energy and Natural Resources of the United States Senate and the Committee on Resources of the United States House of Representatives a report analyzing whether the ski area permit rental charge required by this section is returning a fair market value rental to the United States together with any recommendations the Secretary may have for modifications of the system.
 
 #### (c) Payment
 
-The rental charge set forth in subsection (b) of this section shall be due on June 1 of each year and shall be paid or prepaid by the permittee on a monthly, quarterly, annual or other schedule as determined appropriate by the Secretary in consultation with the permittee. Unless mutually agreed otherwise by the Secretary and the permittee, the payment or prepayment schedule shall conform to the permittee's schedule in effect prior to November 12, 1996. To reduce costs to the permittee and the Forest Service, the Secretary shall each year provide the permittee with a standardized form and worksheets (including annual rental charge calculation brackets and rates) to be used for rental charge calculation and submitted with the rental charge payment. Information provided on such forms shall be compiled by the Secretary annually and kept in the Office of the Chief, United States Forest Service.
+The rental charge set forth in subsection (b) of this section shall be due on June 1 of each year and shall be paid or prepaid by the permittee on a monthly, quarterly, annual or other schedule as determined appropriate by the Secretary in consultation with the permittee. Unless mutually agreed otherwise by the Secretary and the permittee, the payment or prepayment schedule shall conform to the permittee's schedule in effect prior to November 12, 1996. To reduce costs to the permittee and the Forest Service, theSecretary shall each year provide the permittee with a standardized form and worksheets (including annual rental charge calculation brackets and rates) to be used for rental charge calculation and submitted with the rental charge payment. Information provided on such forms shall be compiled by the Secretary annually and kept in the Office of the Chief, United States Forest Service.
 
 #### (d) Effective date
 
-The ski area permit rental charge set forth in this section shall become effective on June 1, 1996 and cover receipts retroactive to June 1, 1995: <i>Provided</i>, That if a permittee has paid rental charges for the period June 1, 1995, to June 1, 1996, under the graduated rate rental charge system formula in effect prior to November 12, 1996, such rental charges shall be credited toward the new rental charge due on June 1, 1996. In order to ensure increasing rental charge receipt levels to the United States during transition from the graduated rate rental charge system formula to the formula of this Act, the rental charge paid by any individual permittee shall be—
+The ski area permit rental charge set forth in this section shall become effective on June 1, 1996 and cover receipts retroactive to June 1, 1995: <i>Provided</i>, That if a permittee has paid rental charges for the period June 1, 1995, to June 1, 1996, under the graduated rate rental charge system formula in effect prior to November 12, 1996, such rental charges shall be credited toward the new rental charge due on June 1, 1996. In order to ensure increasing rental charge receipt levels to the United States during transition from the graduated rate rental charge system formula to the formula of this section, the rental charge paid by any individual permittee shall be—
 
-&emsp;(1) for the 1995–1996 permit year, either the rental charge paid for the preceding 1994–1995 base year or the rental charge calculated pursuant to this Act, whichever is higher;
+&emsp;(1) for the 1995–1996 permit year, either the rental charge paid for the preceding 1994–1995 base year or the rental charge calculated pursuant to this section, whichever is higher;
 
-&emsp;(2) for the 1996–1997 permit year, either the rental charge paid for the 1994–1995 base year or the rental charge calculated pursuant to this Act, whichever is higher; and
+&emsp;(2) for the 1996–1997 permit year, either the rental charge paid for the 1994–1995 base year or the rental charge calculated pursuant to this section, whichever is higher; and
 
-&emsp;(3) for the 1997–1998 permit year, either the rental charge for the 1994–1995 base year or therental charge calculated pursuant to this Act, whichever is higher.
+&emsp;(3) for the 1997–1998 permit year, either the rental charge for the 1994–1995 base year or the rental charge calculated pursuant to this section, whichever is higher.
 
-> If an individual permittee's adjusted gross revenue for the 1995–1996, 1996–1997, or 1997–1998 permit years falls more than 10 percent below the 1994–1995 base year, the rental charge paid shall be the rental charge calculated pursuant to this Act.
+> If an individual permittee's adjusted gross revenue for the 1995–1996, 1996–1997, or 1997–1998 permit years falls more than 10 percent below the adjusted gross revenue for the 1994–1995 base year, the rental charge paid shall be the rental charge calculated pursuant to this section.
 
 #### (e) Non-national forest land operations
 
@@ -46,7 +46,7 @@ Under no circumstances shall revenue, or subpermittee revenue (other than lift t
 
 #### (f) “Revenue” and “sales” defined; limitations
 
-To reduce administrative costs of ski area permittees and the Forest Service the terms “revenue” and “sales”, as used in this section, shall mean actual income from sales and shall not include sales of operating equipment, refunds, rent paid to the permittee by sublessees, sponsor contributions to special events or any amounts attributable to employee gratuities or employee lift tickets, discounts, or other goods or services (except for bartered goods and complimentary lift tickets) for which the permittee does not receive money.
+To reduce administrative costs of ski area permittees and the Forest Service the terms “revenue” and “sales”, as used in this section, shall mean actual income from sales and shall not include sales of operating equipment, refunds, rent paid to the permittee by sublessees, sponsor contributions to special events or any amounts attributable to employee gratuities or employee lift tickets, discounts, or other goods or services (except for bartered goods and complimentary lift tickets offered for commercial or other promotional purposes) for which the permittee does not receive money.
 
 #### (g) Minimum rental charge
 
@@ -58,13 +58,13 @@ Where the new rental charge provided for in subsection (b)(1) of this section re
 
 #### (i) Construction with National Environmental Policy Act of 1969
 
-To reduce Federal costs in administering the provisions of this Act, the reissuance of a ski area permit to provide activities similar in nature and amount to the activities provided under the previous permit shall not constitute a major Federal action for the purposes of the National Environmental Policy Act of 1969 (42 U.S.C. 4331 et seq.).
+To reduce Federal costs in administering the provisions of this section, the reissuance of a ski area permit to provide activities similar in nature and amount to the activities provided under the previous permit shall not constitute a major Federal action for the purposes of the National Environmental Policy Act of 1969 (42 U.S.C. 4331 et seq.).
 
 #### (j) Withdrawal from mining laws
 
 Subject to valid existing rights, all lands located within the boundaries of ski area permits issued prior to, on or after November 12, 1996, pursuant to authority of the Act of March 4, 1915 (38 Stat. 1101, chapter 144; 16 U.S.C. 497), and the Act of June 4, 1897, or the National Forest Ski Area Permit Act of 1986 (16 U.S.C. 497b) are hereby and henceforth automatically withdrawn from all forms of appropriation under the mining laws and from disposition under all laws pertaining to mineral and geothermal leasing and all amendments thereto. Such withdrawal shall continue for the full term of the permit and any modification, reissuance, or renewal thereof. Unless the Secretary requests otherwise of the Secretary of the Interior, such withdrawal shall be canceled automatically upon expiration or other termination of the permit and the land automatically restored to all appropriation not otherwise restricted under the public land laws.
 
-(Pub. L. 104–333, div. I, title VII, §701, Nov. 12, 1996, 110 Stat. 4182.)
+(Pub. L. 104–333, div. I, title VII, §701, Nov. 12, 1996, 110 Stat. 4182; Pub. L. 106–176, title I, §117, Mar. 10, 2000, 114 Stat. 27.)
 
 #### References in Text
 
@@ -74,15 +74,21 @@ Act of June 4, 1897, referred to in subsecs. (a) and (j), is act June 4, 1897, c
 
 The National Forest Ski Area Permit Act of 1986, referred to in subsecs. (a) and (j), is Pub. L. 99–522, Oct. 22, 1986, 100 Stat. 3000, which enacted section 497b of this title and provisions set out as a note under section 497b of this title. For complete classification of this Act to the Code, see Short Title note set out under section 497b of this title and Tables.
 
-This Act, referred to in subsecs. (b)(3), (d), and (i), is Pub. L. 104–333, Nov. 12, 1996, 110 Stat. 4093, known as the Omnibus Parks and Public Lands Management Act. For complete classification of this Act to the Code, see Short Title note set out under section 1 of this title and Tables.
-
 The National Environmental Policy Act of 1969, referred to in subsec. (i), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
-The mining laws, referred to in subsec. (j), are classified generally to Title 30, Mineral Lands and Mining.
-
-Laws pertaining to mineral leasing, referred to in subsec. (j), have been defined in sections 351, 505, 530, and 541e of Title 30 to mean acts Oct. 20, 1914, ch. 330, 38 Stat. 741; Feb. 25, 1920, ch. 85, 41 Stat. 437; Apr. 17, 1926, ch. 158, 44 Stat. 301; and Feb. 7, 1927, ch. 66, 44 Stat. 1057. The act of Oct. 20, 1914, was repealed by Pub. L. 86–252, §1, Sept. 9, 1959, 73 Stat. 490. The act of Feb. 25, 1920, is popularly known as the Mineral Lands Leasing Act and is classified principally to chapter 3A (§181 et seq.) of Title 30. The act of Apr. 17, 1926, is classified generally to subchapter VIII (§271 et seq.) of chapter 3A of Title 30. The act of Feb. 7, 1927, is classified principally to subchapter IX (§281 et seq.) of chapter 3A of Title 30. For complete classification of these Acts to the Code, see Tables.
+The mining laws and the laws pertaining to mineral leasing, referred to in subsec. (j), are classified generally to Title 30, Mineral Lands and Mining.
 
 Laws pertaining to geothermal leasing, referred to in subsec. (j), are classified principally to chapter 23 (§1001 et seq.) of Title 30.
 
 The public land laws, referred to in subsec. (j), are classified generally to Title 43, Public Lands.
+
+#### Amendments
+
+2000—Subsec. (b)(3). Pub. L. 106–176, §117(1), substituted “required by this section” for “legislated by this Act”.
+
+Subsec. (d). Pub. L. 106–176, §117(2), in introductory provisions, substituted “formula of this section” for “formula of this Act”, in pars. (1) to (3), substituted “this section” for “this Act”, and, in concluding provisions, inserted “adjusted gross revenue for the” before “1994–1995 base year” and substituted “this section” for “this Act”.
+
+Subsec. (f). Pub. L. 106–176, §117(3), inserted “offered for commercial or other promotional purposes” after “complimentary lift tickets”.
+
+Subsec. (i). Pub. L. 106–176, §117(4), substituted “this section” for “this Act”.
 

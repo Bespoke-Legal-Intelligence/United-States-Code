@@ -78,7 +78,7 @@ Permissible range.—For purposes of this subparagraph—
 
 &emsp;&emsp;&emsp;(I)
 
-In general.—Except as provided in subclause (II), the term “permissible range” means a rate of interest which is not more than 10 percent above, and not more than 10 percent below, the the <sup>1</sup> weighted average of the rates of interest on 30-year Treasury securities during the4-year period ending on the last day before the beginning of the plan year.
+In general.—Except as provided in subclause (II), the term “permissible range” means a rate of interest which is not more than 10 percent above, and not more than 10 percent below, the the <sup>1</sup> weighted average of the rates of interest on 30-year Treasury securities during the 4-year period ending on the last day before the beginning of the plan year.
 
 &emsp;&emsp;&emsp;(II)
 
@@ -132,7 +132,7 @@ Assumptions.—Notwithstanding subsection (c)(3)(A)(i) of this section, the inte
 
 (2)(A) For purposes of this part, the value of the plan's assets shall be determined on the basis of any reasonable actuarial method of valuation which takes into account fair market value and which is permitted under regulations prescribed by the Secretary of the Treasury.
 
-(B) For purposes of this part, the value of a bond or other evidence of indebtedness which is not in default as to principal or interest may, at the election of the plan administrator, be determined on an amortized basis running from initial cost at purchase to par value at maturity or earliest call date. Any election under this subparagraph shall be made at such time and in such manner as the Secretary of the Treasury shall by regulations provide, shall apply to all such evidences of indebtedness, and may be revoked only with the consent of the Secretary of the Treasury. In the case of a plan other than amultiemployer plan, this subparagraph shall not apply, but the Secretary of the Treasury may by regulations provide that the value of any dedicated bond portfolio of such plan shall be determined by using the interest rate under subsection (b)(5) of this section.
+(B) For purposes of this part, the value of a bond or other evidence of indebtedness which is not in default as to principal or interest may, at the election of the plan administrator, be determined on an amortized basis running from initial cost at purchase to par value at maturity or earliest call date. Any election under this subparagraph shall be made at such time and in such manner as the Secretary of the Treasury shall by regulations provide, shall apply to all such evidences of indebtedness, and may be revoked only with the consent of the Secretary of the Treasury. In the case of a plan other than a multiemployer plan, this subparagraph shall not apply, but the Secretary of the Treasury may by regulations provide that the value of any dedicated bond portfolio of such plan shall be determined by using the interest rate under subsection (b)(5) of this section.
 
 (3) For purposes of this section, all costs, liabilities, rates of interest, and other factors under the plan shall be determined on the basis of actuarial assumptions and methods—
 
@@ -320,11 +320,11 @@ Anticipation of benefit increases effective in the future.—In determining proj
 
 &emsp;&emsp;&emsp;(i) the deficit reduction contribution determined under paragraph (2) for such plan year, over
 
-&emsp;&emsp;&emsp;(ii) the sum of the charges for such plan year under subsection (b)(2) of this section, reduced by the sum of the credits for suchplan year under subparagraph (B) of subsection (b)(3) of this section, plus
+&emsp;&emsp;&emsp;(ii) the sum of the charges for such plan year under subsection (b)(2) of this section, reduced by the sum of the credits for such plan year under subparagraph (B) of subsection (b)(3) of this section, plus
 
 &emsp;&emsp;(B) the unpredictable contingent event amount (if any) for such plan year.
 
-> &emsp;Such increase shall not exceed the amount which, after taking into account charges (other than the additional charge under this subsection) and credits under subsection (b) of this section, is necessary to increase the funded current liability percentage (taking into account the expected increase in current liability due to benefits accruing during the plan year) to 100 percent.
+> &emsp;Such increase shall not exceed the amount which, after taking into account charges (other than the additional charge under this subsection) and credits under subsection (b) of this section, is necessary to increase the funded current liability percentage (taking intoaccount the expected increase in current liability due to benefits accruing during the plan year) to 100 percent.
 
 #### (2) Deficit reduction contribution
 
@@ -628,7 +628,7 @@ Anticipation of benefit increases effective in the future.—In determining proj
 
 #### (II) Special rule for disabilities occurring after 1994
 
-&emsp;&emsp;&emsp;&emsp;In the case of disabilities occurring in plan years beginning after December 31, 1994, the tables under subclause (I) shall apply only with respect to individualsdescribed in such subclause who are disabled within the meaning of title II of the Social Security Act \[42 U.S.C. 401 et seq.\] and the regulations thereunder.
+&emsp;&emsp;&emsp;&emsp;In the case of disabilities occurring in plan years beginning after December 31, 1994, the tables under subclause (I) shall apply only with respect to individuals described in such subclause who are disabled within the meaning of title II of the Social Security Act \[42 U.S.C. 401 et seq.\] and the regulations thereunder.
 
 #### (III) Plan years beginning in 1995
 
@@ -758,7 +758,7 @@ Anticipation of benefit increases effective in the future.—In determining proj
 
 #### (ii) Special rule for 1995 and 1996
 
-&emsp;&emsp;&emsp;For purposes of determining whether subparagraph (B) applies to any plan year beginning in 1995 or 1996, a plan shall be treated as meeting the requirements of subparagraph (B)(ii) if the plan met the requirements of clause (i) of this subparagraph for any two of the plan years beginning in 1992, 1993, and 1994 (whether or not consecutive).
+&emsp;&emsp;&emsp;For purposes of determining whether subparagraph (B) applies to any plan yearbeginning in 1995 or 1996, a plan shall be treated as meeting the requirements of subparagraph (B)(ii) if the plan met the requirements of clause (i) of this subparagraph for any two of the plan years beginning in 1992, 1993, and 1994 (whether or not consecutive).
 
 #### (10) Unfunded mortality increase amount
 
@@ -872,7 +872,7 @@ Anticipation of benefit increases effective in the future.—In determining proj
 
 #### (1) In general
 
-&emsp;If a defined benefit plan (other than a multiemployer plan) which has a funded current liability percentage (as defined in subsection (d)(8) of this section) for the preceding plan year of less than 100 percent fails to pay the full amount of a required installment for the plan year, then the rate of interest charged to the funding standard account under subsection (b)(5) of this section with respect to the amount of the underpayment for the period of the underpayment shall be equal to the greater of—
+&emsp;If a defined benefit plan (other than a multiemployer plan) which has a funded current liability percentage (as defined in subsection (d)(8) of this section) for the preceding plan year of less than 100 percent fails to pay the full amount of a required installment for theplan year, then the rate of interest charged to the funding standard account under subsection (b)(5) of this section with respect to the amount of the underpayment for the period of the underpayment shall be equal to the greater of—
 
 &emsp;&emsp;(A) 175 percent of the Federal mid-term rate (as in effect under section 1274 of title 26 for the 1st month of such plan year), or
 
@@ -997,11 +997,11 @@ Anticipation of benefit increases effective in the future.—In determining proj
 
 #### (A) In general
 
-&emsp;&emsp;A plan to which this paragraph applies shall be treated as failing to pay the fullamount of any required installment to the extent that the value of the liquid assets paid in such installment is less than the liquidity shortfall (whether or not such liquidity shortfall exceeds the amount of such installment required to be paid but for this paragraph).
+&emsp;&emsp;A plan to which this paragraph applies shall be treated as failing to pay the full amount of any required installment to the extent that the value of the liquid assets paid in such installment is less than the liquidity shortfall (whether or not such liquidity shortfall exceeds the amount of such installment required to be paid but for this paragraph).
 
 #### (B) Plans to which paragraph applies
 
-&emsp;&emsp;This paragraph shall apply to a defined benefit plan (other than a multiemployer plan or a plan described in subsection (d)(6)(A) of this section) which—
+&emsp;&emsp;This paragraph shall apply to a defined benefit plan (other than a multiemployerplan or a plan described in subsection (d)(6)(A) of this section) which—
 
 &emsp;&emsp;&emsp;(i) is required to pay installments under this subsection for a plan year, and
 
@@ -1077,7 +1077,7 @@ Anticipation of benefit increases effective in the future.—In determining proj
 
 &emsp;&emsp;(B) the unpaid balance of such installment or other payment (including interest), when added to the aggregate unpaid balance of all preceding such installments or other payments for which payment was not made before the due date (including interest), exceeds $1,000,000,
 
-> &emsp;then there shall be a lien in favor of the plan in the amount determined under paragraph (3) upon all property and rights to property,whether real or personal, belonging to such person and any other person who is a member of the same controlled group of which such person is a member.
+> &emsp;then there shall be a lien in favor of the plan in the amount determined under paragraph (3) upon all property and rights to property, whether real or personal, belonging to such person and any other person who is a member of the same controlled group of which such person is a member.
 
 #### (2) Plans to which subsection applies
 
@@ -1145,7 +1145,7 @@ Section 1013(d) of this Act, referred to in subsec. (h), is section 1013(d) of P
 
 #### Codification
 
-Section 2005(d)(2) of Pub. L. 100–647, which directed that subsec. (d)(3)(B) of this section be amended bystriking out “October 17, 1987” in cl. (i) and inserting in lieu thereof “October 29, 1987”, and by striking out “October 16, 1987” in cl. (iii) and inserting in lieu thereof “October 28, 1987”, could not be executed because it did not contain cls. (i) and (iii).
+Section 2005(d)(2) of Pub. L. 100–647, which directed that subsec. (d)(3)(B) of this section be amended by striking out “October 17, 1987” in cl. (i) and inserting in lieu thereof “October 29, 1987”, and by striking out “October 16, 1987” in cl. (iii) and inserting in lieu thereof “October 28, 1987”, could not be executed because it did not contain cls. (i) and (iii).
 
 #### Amendments
 
@@ -1339,7 +1339,7 @@ Section 763(b) of Pub. L. 103–465 provided that: “The amendment made by this
 
 Section 764(b) of Pub. L. 103–465 provided that: “The amendment made by this section \[amending this section\] shall apply to plan years beginning after the date of enactment of this Act \[Dec. 8, 1994\].
 
-Amendment by section 768(b) of Pub. L. 103–465 effective for installments and other payments required under section 412 of Title 26, Internal Revenue Code, or under this part, that become due on or after Dec. 8, 1994, see section 768(c) of Pub. L. 103–465, set out as a note under section 412 of Title 26.
+Amendment by section 768(b) of Pub. L. 103–465 effective for installments and other payments required under section 412 of Title 26, Internal Revenue Code, or under this part, that become due on or after Dec. 8,1994, see section 768(c) of Pub. L. 103–465, set out as a note under section 412 of Title 26.
 
 #### Effective Date of 1990 Amendment
 

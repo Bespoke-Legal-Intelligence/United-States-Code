@@ -2,7 +2,7 @@
 
 #### (a) Grounds for issuance against adequately capitalized enterprises
 
-The Director may issue and serve a notice of charges under this section upon an enterprise that is classified (for purposes of subchapter II of this chapter) as adequately capitalized or upon any executive officer or director of such an enterprise, if in the determination of the Director, the enterprise, executive officer, or director is engaging or has engaged, or the Director has reasonable cause to believe that the enterprise, executive officer, or director is about to engage, in—
+The Director may issue and serve a notice of charges under this section upon an enterprise that is classified (for purposes of subchapter II of this chapter) as adequately capitalized orupon any executive officer or director of such an enterprise, if in the determination of the Director, the enterprise, executive officer, or director is engaging or has engaged, or the Director has reasonable cause to believe that the enterprise, executive officer, or director is about to engage, in—
 
 &emsp;(1) any conduct that threatens to cause a significant depletion of the core capital of the enterprise;
 

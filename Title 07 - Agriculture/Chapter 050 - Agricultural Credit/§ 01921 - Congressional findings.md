@@ -16,6 +16,10 @@ Section is comprised of subsec. (b) of section 301 of Pub. L. 87–128. Subsec. 
 
 Former section 300.1 of Title 6, Code of Federal Regulations, promulgated on Oct. 15, 1961, by the Administrator of the Farmers Home Administration, published in 26 F.R. 10031, provided: “The Consolidated Farmers Home Administration Act of 1961 (7 U.S.C. 1921) \[this chapter\], is hereby made effective on October 15, 1961, except (a) as to its authorizations to make and sell insured loans with 41/2 percent yield to the lender and a three-year repurchase agreement which was made effective by regulations issued on September 13, 1961 (26 F.R. 9307), pursuant to assignment of functions contained in 26 F.R. 7888, and (b) that the provisions of Title IV of the Bankhead-Jones Farm Tenant Act which requires mineral reservations in lands disposed of under Title III of that Act \[sections 1010 to 1012 and 1013a of this title\] shall not become effective until December 7, 1961.” See section 341(a) of Pub. L. 87–128, set out as a note under this section.
 
+#### Short Title of 2000 Amendment
+
+Pub. L. 106–554, §1(a)(4) \[div. B, title V, §501\], Dec. 21, 2000, 114 Stat. 2763, 2763A–268, provided that: “This title \[enacting subchapter VI of this chapter and amending provisions set out as a note under section 3121 of Title 42, The Public Health and Welfare\] may be cited as the ‘Delta Regional Authority Act of 2000’.”
+
 #### Short Title of 1994 Amendment
 
 Pub. L. 103–248, §1, May 11, 1994, 108 Stat. 619, provided that: “This Act \[amending section 1981 of this title\] may be cited as the ‘Farmers Home Administration Improvement Act of 1994’.”
@@ -34,7 +38,7 @@ Pub. L. 99–409, §1, Aug. 28, 1986, 100 Stat. 923, provided: “That this Act 
 
 #### Short Title of 1984 Amendment
 
-Pub. L. 98–258, title VI, §601, Apr. 10, 1984, 98 Stat. 138, provided that: “This title \[enacting section 1981b of this title, amending sections 1943, 1946, 1961, 1964, 1986, and 1994 of this title, enacting provisions set out as notes under sections 1961 and 1981 of this title, and amending provisions set out as a note preceding section 1961 of this title\] may be cited as the ‘Emergency Agricultural Credit Act of 1984’.”
+Pub. L. 98–258, title VI, §601, Apr. 10, 1984, 98 Stat. 138, provided that: “This title \[enacting section 1981b of this title, amending sections 1943, 1946, 1961, 1964, 1986, and 1994 of this title, enacting provisions set out as notes under sections 1961 and 1981 of this title, and amending provisions set out as a note preceding section1961 of this title\] may be cited as the ‘Emergency Agricultural Credit Act of 1984’.”
 
 #### Short Title of 1978 Amendment
 

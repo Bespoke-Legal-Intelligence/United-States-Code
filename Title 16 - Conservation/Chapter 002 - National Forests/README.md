@@ -56,6 +56,12 @@
 | [478\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000478%20-%20Egress%20or%20ingress%20of%20actual%20settlers%3B%20prospecting.md) | Egress or ingress of actual settlers; prospecting. |
 | [478a.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000478a%20-%20Townsites.md) | Townsites. |
 | [479\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000479%20-%20Sites%20for%20schools%20and%20churches.md) | Sites for schools and churches. |
+| [479a.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000479a%20-%20Conveyance%20of%20National%20Forest%20System%20lands%20for%20educational%20purposes.md) | Conveyance of National Forest System lands for educational purposes. |
+| (a) | Authority to convey. |
+| (b) | Acreage limitation. |
+| (c) | Costs and mineral rights. |
+| (d) | Review of applications. |
+| (e) | Reversionary interest. |
 | [480\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000480%20-%20Civil%20and%20criminal%20jurisdiction.md) | Civil and criminal jurisdiction. |
 | [481\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000481%20-%20Use%20of%20waters.md) | Use of waters. |
 | [482\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000482%20-%20Mineral%20lands%3B%20restoration%20to%20public%20domain%3B%20location%20and%20entry.md) | Mineral lands; restoration to public domain; location and entry. |
@@ -352,7 +358,9 @@
 | (b) | Limitations on eminent domain. |
 | (c) | Hardship cases. |
 | (d) | Land exchanges. |
-| (e) | Boundaries. |
+| (e) | Appraisals. |
+| (f) | Authorization for certain land exchanges. |
+| (g) | Boundaries. |
 | [544h.](Subchapter%20002%20%28II%29%20-%20Scenic%20Areas/%C2%A7%2000544h%20-%20Interim%20management.md) | Interim management. |
 | (a) | Interim guidelines. |
 | (b) | Interim acquisition authority and injunctive relief. |
@@ -409,6 +417,26 @@
 | (g) | Rosboro land exchange. |
 | (h) | Omitted. |
 | (i) | Economic development. |
+| [546\.](Subchapter%20002%20%28II%29%20-%20Scenic%20Areas/%C2%A7%2000546%20-%20Establishment%20of%20Saint%20Helena%20Island%20National%20Scenic%20Area%2C%20Michigan.md) | Establishment of Saint Helena Island National Scenic Area, Michigan. |
+| (a) | Purpose. |
+| (b) | Establishment. |
+| (c) | Effective upon conveyance. |
+| [546a.](Subchapter%20002%20%28II%29%20-%20Scenic%20Areas/%C2%A7%2000546a%20-%20Boundaries.md) | Boundaries. |
+| (a) | Saint Helena Island. |
+| (b) | Boundaries of Hiawatha National Forest extended. |
+| (c) | Payments to local governments. |
+| 546a–1. | Administration and management. |
+| (a) | Administration. |
+| (b) | Special management requirements. |
+| (c) | Consultation. |
+| 546a–2. | Fish and game. |
+| 546a–3. | Minerals. |
+| 546a–4. | Acquisition. |
+| (a) | Acquisition of lands within the scenic area. |
+| (b) | Acquisition of other lands. |
+| 546a–5. | Authorization of appropriations. |
+| (a) | Acquisition of lands. |
+| (b) | Other purposes. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

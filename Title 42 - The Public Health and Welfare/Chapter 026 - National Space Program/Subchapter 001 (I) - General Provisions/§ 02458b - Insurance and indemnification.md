@@ -22,7 +22,7 @@ No payment may be made under subsection (b) of this section unless the Administr
 
 #### (e) Payments
 
-Upon the approval by the Administrator, payments under subsection (b) of this section may be made, at the Administrator's election, eitherfrom funds available for research and development not otherwise obligated or from funds appropriated for such payments.
+Upon the approval by the Administrator, payments under subsection (b) of this section may be made, at the Administrator's election, either from funds available for research and development not otherwise obligated or from funds appropriated for such payments.
 
 #### (f) Definitions
 
@@ -38,7 +38,7 @@ As used in this section—
 
 #### Prior Provisions
 
-A prior section 308 of Pub. L. 85–568 was renumbered section 309 and is classified to section 2459 of this title.
+A prior section 308 of Pub. L. 85–568 was renumbered section 310 and is classified to section 2459 of this title.
 
 #### Effective Date
 

@@ -18,7 +18,7 @@ The excess of the number so fixed for any grade in any category over the number 
 
 #### (e) Absence of vacancy in grade as affecting promotion
 
-The absence of a vacancy in a grade in a category shall not prevent an appointment to such grade pursuant to section 209 of this title, a permanent length of service promotion, or the recall of a retired officer to active duty; but the making of such an appointment, promotion, or recall shall be deemed to fill a vacancy if one exists.
+The absence of a vacancy in a grade in a category shall not prevent an appointment to such grade pursuant to section 209 of this title, a permanent length of service promotion, or the recall of a retired officer to active duty; but themaking of such an appointment, promotion, or recall shall be deemed to fill a vacancy if one exists.
 
 #### (f) Vacancy in grade as affecting maximum number for each category
 

@@ -1,6 +1,6 @@
 ### §1259. Training grants and contracts
 
-(a) The Administrator is authorized to make grants to or contracts with institutions of higher education, or combinations of such institutions, to assist them in planning, developing, strengthening, improving, or carrying out programs or projects for the preparation of undergraduate students to enter an occupation which involves the design, operation, and maintenance of treatment works, and other facilities whosepurpose is water quality control. Such grants or contracts may include payment of all or part of the cost of programs or projects such as—
+(a) The Administrator is authorized to make grants to or contracts with institutions of higher education, or combinations of such institutions, to assist them in planning, developing, strengthening, improving, or carrying out programs or projects for the preparation of undergraduate students to enter an occupation which involves the design, operation, and maintenance of treatment works, and other facilities whose purpose is water quality control. Such grants or contracts may include payment of all or part of the cost of programs or projects such as—
 
 &emsp;(A) planning for the development or expansion of programs or projects for training persons in the operation and maintenance of treatment works;
 
@@ -24,7 +24,7 @@
 
 #### References in Text
 
-Prior to the date of enactment of the Clean Water Act of 1977, referred to in subsec. (b)(4), means prior to the enactment of Pub. L. 95–217, Dec. 27, 1977, 91 Stat. 1566, which was approved Dec. 27, 1977.
+Prior to the date of enactment of the Clean Water Act of 1977, referred to in subsec. (b)(4), means prior tothe enactment of Pub. L. 95–217, Dec. 27, 1977, 91 Stat. 1566, which was approved Dec. 27, 1977.
 
 Such Act, referred to in subsec. (b)(4), means Pub. L. 95–217, Dec. 27, 1977, 91 Stat. 1566, as amended, known as the Clean Water Act of 1977. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under section 1251 of this title and Tables.
 

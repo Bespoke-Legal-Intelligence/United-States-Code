@@ -2,7 +2,7 @@
 
 #### (a) Establishment; designation; supervision of Capitol Guide Board; membership of Board
 
-There is hereby established an organization under the Congress of the United States, to be designated the “Capitol Guide Service”, which shall be subject to the direction, supervision, and control of a Capitol Guide Board consisting of the Architect of the Capitol, the Sergeant at Arms of the Senate, and the Sergeant at Arms of the House of Representatives.
+There is hereby established an organization under the Congress of the United States, to bedesignated the “Capitol Guide Service”, which shall be subject to the direction, supervision, and control of a Capitol Guide Board consisting of the Architect of the Capitol, the Sergeant at Arms of the Senate, and the Sergeant at Arms of the House of Representatives.
 
 #### (b) Guided tours; regulations
 
@@ -72,7 +72,7 @@ Section was not enacted as part of the National Visitor Center Facilities Act of
 
 Subsec. (j). Pub. L. 104–279 added subsec. (j).
 
-Pub. L. 104–186, §221(17)(B), struck out subsec. (j) which read as follows: “The expenses of the Capitol Guide Service shall be paid from the contingent fund of the House of Representatives, until appropriations are available for the payment of such expenses.”
+Pub. L. 104–186, §221(17)(B), struck out subsec. (j) which read as follows: “The expenses of the CapitolGuide Service shall be paid from the contingent fund of the House of Representatives, until appropriations are available for the payment of such expenses.”
 
 1977—Subsec. (c)(2). Pub. L. 95–94 inserted reference to Deputy Chief Guide.
 

@@ -20,13 +20,13 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1992—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1992</b>—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-1982—Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims”.
+<b>1982</b>—Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims”.
 
-1954—Act Sept. 3, 1954, struck out “United States” from name of Court of Claims.
+<b>1954</b>—Act Sept. 3, 1954, struck out “United States” from name of Court of Claims.
 
-1953—Act July 28, 1953, substituted “United States Court of Claims” for “Court of Claims”, inserted “to or from” after “due”, and inserted “and to render judgment thereon,”.
+<b>1953</b>—Act July 28, 1953, substituted “United States Court of Claims” for “Court of Claims”, inserted “to or from” after “due”, and inserted “and to render judgment thereon,”.
 
 #### Effective Date of 1992 Amendment
 
@@ -35,10 +35,6 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 #### Effective Date of 1982 Amendment
 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of this title.
-
-#### Cross References
-
-Procedure on accounts of officers, agents, or contractors, see section 2511 of this title.
 
 #### Section Referred to in Other Sections
 

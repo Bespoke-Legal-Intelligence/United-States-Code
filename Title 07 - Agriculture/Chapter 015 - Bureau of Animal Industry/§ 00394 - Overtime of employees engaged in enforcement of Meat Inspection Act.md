@@ -12,10 +12,6 @@ Act of June 30, 1906, referred to in text, is act June 30, 1906, ch. 3913, 34 St
 
 Functions of Bureau of Animal Industry transferred to Secretary of Agriculture by 1947 Reorg. Plan No. 1, §301, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 952. See note set out under section 391 of this title.
 
-#### Cross References
-
-Payment of overtime services or for Sunday or holiday work under this section not prevented by generally applicable premium pay provisions covering government employees, see section 5549 of Title 5, Government Organization and Employees.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in title 5 section 5549; title 21 section 695.

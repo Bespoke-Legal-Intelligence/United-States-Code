@@ -60,7 +60,7 @@ The Secretary shall ensure that each individual participating in any program or 
 
 #### (2) Special rule regarding designated areas
 
-&emsp;A State that has enacted, not later than December 31, 1997, a State law providing for the designation of service delivery areas for the delivery of workforce investment activities, may use such areas as local areas under this chapter, notwithstanding section 2831 of this title.
+&emsp;A State that has enacted, not later than December 31, 1997, a State law providing for thedesignation of service delivery areas for the delivery of workforce investment activities, may use such areas as local areas under this chapter, notwithstanding section 2831 of this title.
 
 #### (3) Special rule regarding sanctions
 
@@ -94,7 +94,7 @@ The Secretary shall ensure that each individual participating in any program or 
 
 &emsp;&emsp;Not later than 90 days after the date of the original submission of a request for a waiver under subparagraph (A), the Secretary shall provide a waiver under this paragraph if and only to the extent that—
 
-&emsp;&emsp;&emsp;(i) the Secretary determines that the requirements requested to be waived impedethe ability of the State or local area, as appropriate, to implement the plan described in subparagraph (B); and
+&emsp;&emsp;&emsp;(i) the Secretary determines that the requirements requested to be waived impede the ability of the State or local area, as appropriate, to implement the plan described in subparagraph (B); and
 
 &emsp;&emsp;&emsp;(ii) the State has executed a memorandum of understanding with the Secretary requiring such State to meet, or ensure that the local area meets, agreed-upon outcomes and to implement other appropriate measures to ensure accountability.
 
@@ -107,6 +107,10 @@ Title I of the Departments of Labor, Health and Human Services, and Education, a
 #### Codification
 
 In subsec. (a), “section 6504 of title 31” substituted for “section 204 of the Intergovernmental Cooperation Act of 1968” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+
+#### Prior Provisions
+
+Provisions similar to this section were contained in sections 1504, 1571, and 1579 to 1581 of this title prior to repeal by Pub. L. 105–220.
 
 #### Amendments
 

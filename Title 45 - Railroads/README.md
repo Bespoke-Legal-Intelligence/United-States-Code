@@ -1,5 +1,5 @@
 
-45 U.S.C.<br>United States Code, 1999 Edition<br>Title 45 - RAILROADS<br>From the U.S. Government Publishing Office, www.gpo.gov
+45 U.S.C.<br>United States Code, 2000 Edition<br>Title 45 - RAILROADS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 45—RAILROADS
 
@@ -29,10 +29,6 @@
 | [<b>22.</b>](Chapter%20022%20-%20Conrail%20Privatization/README.md) | <b>Conrail Privatization</b> | <b>1301</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Cross References
-
-Land grant in aid of railroads, see section 881 et seq. of Title 43, Public Lands.
 
 
 ---

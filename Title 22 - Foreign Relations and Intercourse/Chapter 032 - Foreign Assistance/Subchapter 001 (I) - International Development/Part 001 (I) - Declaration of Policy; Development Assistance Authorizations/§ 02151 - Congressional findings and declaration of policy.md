@@ -6,15 +6,17 @@ The Congress finds that fundamental political, economic, and technological chang
 
 Therefore, the Congress declares that a principal objective of the foreign policy of the United States is the encouragement and sustained support of the people of developing countries in their efforts to acquire the knowledge and resources essential to development and to build the economic, political, and social institutions which will improve the quality of their lives.
 
-United States development cooperation policy should emphasize four principal goals:
+United States development cooperation policy should emphasize five principal goals:
 
 &emsp;(1) the alleviation of the worst physical manifestations of poverty among the world's poor majority;
 
 &emsp;(2) the promotion of conditions enabling developing countries to achieve self-sustaining economic growth with equitable distribution of benefits;
 
-&emsp;(3) the encouragement of development processes in which individual civil and economic rights are respected and enhanced; and
+&emsp;(3) the encouragement of development processes in which individual civil and economic rights are respected and enhanced;
 
-&emsp;(4) the integration of the developing countries into an open and equitable international economic system.
+&emsp;(4) the integration of the developing countries into an open and equitable international economic system; and
+
+&emsp;(5) the promotion of good governance through combating corruption and improving transparency and accountability.
 
 The Congress declares that pursuit of these goals requires that development concerns be fully reflected in United States foreign policy and that United States development resources be effectively and efficiently utilized.
 
@@ -22,13 +24,15 @@ The Congress declares that pursuit of these goals requires that development conc
 
 Under the policy guidance of the Secretary of State, the agency primarily responsible for administering subchapter I of this chapter should have the responsibility for coordinating all United States development-related activities.
 
-(Pub. L. 87–195, pt. I, §101, formerly §102, Sept. 4, 1961, 75 Stat. 424; Pub. L. 87–565, pt. I, §101, Aug. 1, 1962, 76 Stat. 255; Pub. L. 88–205, pt. I, §101(c), Dec. 16, 1963, 77 Stat. 379; Pub. L. 89–171, pt. I, §101, Sept. 6, 1965, 79 Stat. 653; Pub. L. 89–583, pt. I, §101, Sept. 19, 1966, 80 Stat. 796; Pub. L. 90–137, pt. I, §101, Nov. 14, 1967, 81 Stat. 445; Pub. L. 93–189, §2(2), Dec. 17, 1973, 87 Stat. 714; Pub. L. 94–161, title III, §301, Dec. 20, 1975, 89 Stat. 855; Pub. L. 95–88, title I, §§101, 113(b), Aug. 3, 1977, 91 Stat. 533, 538; renumbered and amended Pub. L. 95–424, title I, §101, Oct. 6, 1978, 92 Stat. 937.)
+(Pub. L. 87–195, pt. I, §101, formerly §102, Sept. 4, 1961, 75 Stat. 424; Pub. L. 87–565, pt. I, §101, Aug. 1, 1962, 76 Stat. 255; Pub. L. 88–205, pt. I, §101(c), Dec. 16, 1963, 77 Stat. 379; Pub. L. 89–171, pt. I, §101, Sept. 6, 1965, 79 Stat. 653; Pub. L. 89–583, pt. I, §101, Sept. 19, 1966, 80 Stat. 796; Pub. L. 90–137, pt. I, §101, Nov. 14, 1967, 81 Stat. 445; Pub. L. 93–189, §2(2), Dec. 17, 1973, 87 Stat. 714; Pub. L. 94–161, title III, §301, Dec. 20, 1975, 89 Stat. 855; Pub. L. 95–88, title I, §§101, 113(b), Aug. 3, 1977, 91 Stat. 533, 538; renumbered and amended Pub. L. 95–424, title I, §101, Oct. 6, 1978, 92 Stat. 937; Pub. L. 106–309, title II, §203(a), Oct. 17, 2000, 114 Stat. 1091.)
 
 #### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
 
 References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
 
 #### Amendments
+
+2000—Subsec. (a). Pub. L. 106–309 substituted “five principal goals” for “four principal goals” in introductory provisions of third paragraph and added par. (5).
 
 1978—Subsec. (a). Pub. L. 95–424, in setting forth a new declaration of policy generally substituted four principal goals of development cooperation policy, they being (1) the alleviation of the worst manifestations of poverty, (2) self-sustained economic growth, (3) respect for civil and economic rights, and (4) the integration of the developing countries into an open and equitable economic system, for former seven pars. relating to: (1) primary responsibility for development being in the less developed countries themselves; (2) the active involvement of many countries; (3) the encouragement of regional cooperation; (5) assistance being of such nature as to help United States balance of payments; (6) furnishing of assistance in such manner as to promote efficiency, and (7) the furnishing of agricultural commodities, etc., to complement assistance under this subchapter.
 
@@ -48,7 +52,7 @@ Subsec. (e). Pub. L. 95–88, §101(b), added subsec. (e).
 
 1973—Pub. L. 93–189 designated existing provisions as subsec. (a) and added subsec. (b).
 
-1967—Pub. L. 90–137, in providing a new statement of policy, reaffirming basic foreign assistance principles, and recognizing new problems and need for new priorities, substituted five pars. concerned with (1) freedom, security, prosperity, aggression, subversion, ignorance, want, despair, and national security; (2) economic cooperation and trade among countries, etc. (a reenactment of former sixth par. less provision for resort to international law procedures in adjudication of issues among friendly countries in support of such economic cooperation, etc.); (3) seven principles pertaining to: self-help efforts and responsibility of the country, multilateral basis of involvement and cooperation, regional cooperation, food production and voluntary family planning, balance of payments, maximum dollar effectiveness, and coordination of overall assistance; (4) Permanent Peace in the Middle East; and (5) suspension of assistance after severance of diplomatic relations for former sixteen pars. relating to: (1) dignity and interdependence of man, and freedom; (2) resources development, living standards improvement, and aspirations for justice, education, etc., now covered in par. (1); (4) free economic institutions and flow of private investment capital; (5) investment guaranties; (6) economic cooperation and trade among countries, etc., as described for par. (2); (7) long-range continuity and disposal of surplus property and agricultural crops; (8) world peace, national security, and dangers of international communism; (9) countries sharing United States views on world crisis; (10) loan guarantees and related technical assistance and development program; (11) regional organizations for mutual assistance; (12) prohibition of assistance for short-term emergency purposes; (13) common undertaking of countries to meet goals; (14) discretionary assistance by the President to South Vietnam to gain victory in the war against communism and return to homeland of Americans from that struggle; (15) damage or destruction by mob action of United States property and termination of assistance, now covered in section 2370(j) of this title; and (16) use of United States Armed Forces, now covered in section 2409 of this title.
+1967—Pub. L. 90–137, in providing a new statement of policy, reaffirming basic foreign assistance principles, and recognizing new problems and need for new priorities, substituted five pars. concerned with (1) freedom, security, prosperity, aggression, subversion, ignorance, want, despair, and national security; (2) economic cooperation and trade among countries, etc. (a reenactment of former sixth par. less provision for resort to international law procedures in adjudication of issuesamong friendly countries in support of such economic cooperation, etc.); (3) seven principles pertaining to: self-help efforts and responsibility of the country, multilateral basis of involvement and cooperation, regional cooperation, food production and voluntary family planning, balance of payments, maximum dollar effectiveness, and coordination of overall assistance; (4) Permanent Peace in the Middle East; and (5) suspension of assistance after severance of diplomatic relations for former sixteen pars. relating to: (1) dignity and interdependence of man, and freedom; (2) resources development, living standards improvement, and aspirations for justice, education, etc., now covered in par. (1); (4) free economic institutions and flow of private investment capital; (5) investment guaranties; (6) economic cooperation and trade among countries, etc., as described for par. (2); (7) long-range continuity and disposal of surplus property and agricultural crops; (8) world peace, national security, and dangers of international communism; (9) countries sharing United States views on world crisis; (10) loan guarantees and related technical assistance and development program; (11) regional organizations for mutual assistance; (12) prohibition of assistance for short-term emergency purposes; (13) common undertaking of countries to meet goals; (14) discretionary assistance by the President to South Vietnam to gain victory in the war against communism and return to homeland of Americans from that struggle; (15) damage or destruction by mob action of United States property and termination of assistance, now covered in section 2370(j) of this title; and (16) use of United States Armed Forces, now covered in section 2409 of this title.
 
 1966—Pub. L. 89–583 provided for termination of assistance to any foreign country which does not take appropriate measures to provide compensation for damage or destruction by mob action of United States property within such country and declared that furnishing assistance shall not be construed as creating a new commitment or as affecting any existing commitment to use armed forces of the United States for the defense of any foreign country.
 
@@ -56,7 +60,7 @@ Subsec. (e). Pub. L. 95–88, §101(b), added subsec. (e).
 
 1963—Pub. L. 88–205 declared that institution of full investment guaranty programs with all recipient countries would be regarded as a significant measure of self-help by such countries improving investment climate, that assistance to maintain freedom from communism “shall” rather than “should” emphasize long-range development, that in the administration of programs of assistance, every precaution be taken to assure that assistance is not diverted to any short-term emergency purpose or any purpose not essential to long-range economic development, that other industrialized free-world countries increase their contributions and assistance to more equitably share the burden, and the President should in his discretion, extend or withhold assistance from South Vietnam to further victory and the return home of Americans involved in the struggle there.
 
-1962—Pub. L. 87–565 declared distinctions made by foreign nations between American citizens because ofrace, color, or religion, relating to rights available to such citizens, to be repugnant to our principals, required in the administration of these funds, that consideration be given those countries sharing our world views and which do not divert their resources to military or propaganda efforts, supported by the Soviet Union or Communist China, against the United States or countries receiving aid under this chapter, that the highest emphasis be given to programs for loans or loan guarantees for use by organizations in making low-interest loans to individuals in friendly countries for the purchase of small farms, purchase of homes, aiding or establishing small businesses, purchase of tools and equipment for an occupation or trade, or to obtain practical education in vocational skills, and to programs of technical assistance and development, each assisted country should be encouraged to recognize needs of the people in the preparation of national development programs, and declared that friendly nations are to be invited, where possible, to join in missions to consult with countries receiving assistance on the possibilities of joint action to assure effective development of economic development plans and effective use of assistance provided them, and that the President may request international financial institutions to assist in establishing such missions.
+1962—Pub. L. 87–565 declared distinctions made by foreign nations between American citizens because of race, color, or religion, relating to rights available to such citizens, to be repugnant to our principals, required in the administration of these funds, that consideration be given those countries sharing our world views and which do not divert their resources to military or propaganda efforts, supported by the Soviet Union or Communist China, against the United States or countries receiving aid under this chapter, that the highest emphasis be given to programs for loans or loan guarantees for use by organizations in making low-interest loans to individuals in friendly countries for the purchase of small farms, purchase of homes, aiding or establishing small businesses, purchase of tools and equipment for an occupation or trade, or to obtain practical education in vocational skills, and to programs of technical assistance and development, each assisted country should be encouraged to recognize needs of the people in the preparation of national development programs, and declared that friendly nations are to be invited, where possible, to join in missions to consult with countries receiving assistance on the possibilities of joint action to assure effective development of economic development plans and effective use of assistance provided them, and that the President may request international financial institutions to assist in establishing such missions.
 
 #### Effective Date of 1979 Amendment
 
@@ -69,6 +73,26 @@ Pub. L. 96–53, title V, §512, Aug. 14, 1979, 93 Stat. 380, provided that:
 #### Effective Date of 1978 Amendment
 
 Section 605 of Pub. L. 95–424 provided that: “The amendments made by this Act \[see Short Title of 1978 Amendment note below\] shall take effect on October 1, 1978.”
+
+#### Short Title of 2000 Amendments
+
+Pub. L. 106–570, §1, Dec. 27, 2000, 114 Stat. 3038, provided that: “This Act \[enacting section 2151b–1 of this title and enacting provisions set out as notes under this section and sections 2151b–1, 2517, 2656, and 6901 of this title, section 1701 of Title 50, War and National Defense, and preceding section 28101 of Title 49, Transportation\] may be cited as the ‘Assistance for International Malaria Control Act’.”
+
+Pub. L. 106–570, title I, §101, Dec. 27, 2000, 114 Stat. 3039, provided that: “This title \[enacting section 2151b–1 of this title and provisions set out as a note under section 2151b–1 of this title\] may be cited as the ‘International Malaria Control Act of 2000’.”
+
+Pub. L. 106–373, §1, Oct. 27, 2000, 114 Stat. 1427, provided that: “This Act \[amending sections 2220a to 2220c and 2220e of this title\] may be cited as the ‘Famine Prevention and Freedom From Hunger Improvement Act of 2000’.”
+
+Pub. L. 106–309, §1, Oct. 17, 2000, 114 Stat. 1078, provided that: “This Act \[enacting sections 2152a to 2152c and 2462 of this title, amending this section and sections 287e–1, 2151–1, 2151f, 2151i, 2151aa, and 2395 of this title, and enacting provisions set out as notes under this section and sections 2151f, 2151i, 2152b, 2152c, 2462, and 2517 of this title and section 402 of Title 10, Armed Forces\] may be cited as the ‘Microenterprise for Self-Reliance and International Anti-Corruption Act of 2000’.”
+
+Pub. L. 106–309, title I, §101, Oct. 17, 2000, 114 Stat. 1079, provided that: “This title \[enacting sections 2152a and 2152b of this title, amending section 2151f of this title, and enacting provisions set out as notes under sections 2151f and 2152b of this title\] may be cited as the ‘Microenterprise for Self-Reliance Act of 2000’.”
+
+Pub. L. 106–309, title II, §201, Oct. 17, 2000, 114 Stat. 1090, provided that: “This title \[enacting section 2152c of this title, amending this section and sections 2151–1 and 2151aa of this title, and enacting provisions set out as notes under section 2152c of this title\] may be cited as the ‘International Anti-Corruption and Good Governance Act of 2000’.”
+
+Pub. L. 106–309, title IV, §401(a), Oct. 17, 2000, 114 Stat. 1096, provided that: “This section \[amending section 2151i of this title and enacting provisions set out as notes under section 2151i of this title\] may be cited as the ‘Support for Overseas Cooperative Development Act’.”
+
+Pub. L. 106–280, §1(a), Oct. 6, 2000, 114 Stat. 845, provided that: “This Act \[enacting part IX (§2349bb et seq.) of subchapter II of this chapter and sections 2305, 2347f, and 2347g of this title, amending sections 2302, 2318, 2321h, 2321j, 2349aa–4, 2415, 2776, 2778, 2797, and 6723 of this title, and enacting provisions set out as notes under sections 2305, 2797, and 2797b of this title\] may be cited as the ‘Security Assistance Act of 2000’.”
+
+Pub. L. 106–264, title II, §201, Aug. 19, 2000, 114 Stat. 758, provided that: “This title \[amending section 2151b of this title and enacting provisions set out as a note under section 2151b of this title\] may be cited as the ‘International Tuberculosis Control Act of 2000’.”
 
 #### Short Title of 1999 Amendments
 
@@ -104,13 +128,13 @@ Pub. L. 101–623, §1(a), Nov. 21, 1990, 104 Stat. 3350, provided that: “This
 
 #### Short Title of 1989 Amendments
 
-Pub. L. 101–240, §1(a), Dec. 19, 1989, 103 Stat. 2492, provided that: “This Act \[enacting sections 262m–7, 262p–4g to 262p–4k, 262r to 262r–2, 262s–1, 262t, 283z–5 to 283z–8, 286e–12, 286kk, and 2281 to 2286 of this title and section 3904a of Title 12, Banks and Banking, amending sections 262d, 262m–7, 262p–1, 262p–5, 262s–2, 282b, 283b,283cc, 284b, 285b, 286b, 286e–9, 286k–1, 286s, 290g–2, 290i–3, and 290k–5 of this title and sections 635 and 635i–3 of Title 12, transferring former section 262q of this title to section 262s of this title, and former section 4722 of Title 15, Commerce and Trade, to section 262s–2 of this title, repealing sections 262i, 262m–6, 276c–3, 283i, 286b–1, and 286b–2 of this title, enacting provisions set out as notes under this section, sections 262d, 283z–6, and 2291 of this title, and sections 635, 3901, and 3904a of Title 12, amending provisions set out as a note under section 262<i>l</i> of this title, and repealing provisions set out as notes under sections 262g–2 and 283 of this title\] may be cited as the ‘International Development and Finance Act of 1989’.”
+Pub. L. 101–240, §1(a), Dec. 19, 1989, 103 Stat. 2492, provided that: “This Act \[enacting sections 262m–7, 262p–4g to 262p–4k, 262r to 262r–2, 262s–1, 262t, 283z–5 to 283z–8, 286e–12, 286kk, and 2281 to 2286 of this title and section 3904a of Title 12, Banks and Banking, amending sections 262d, 262m–7, 262p–1, 262p–5, 262s–2, 282b, 283b, 283cc, 284b, 285b, 286b, 286e–9, 286k–1, 286s, 290g–2, 290i–3, and 290k–5 of this title and sections 635 and 635i–3 of Title 12, transferring former section 262q of this title to section 262s of this title, and former section 4722 of Title 15, Commerce and Trade, to section 262s–2 of this title, repealing sections 262i, 262m–6, 276c–3, 283i, 286b–1, and 286b–2 of this title, enacting provisions set out as notes under this section, sections 262d, 283z–6, and 2291 of this title, and sections 635, 3901, and 3904a of Title 12, amending provisions set out as a note under section 262<i>l</i> of this title, and repealing provisions set out as notes under sections 262g–2 and 283 of this title\] may be cited as the ‘International Development and Finance Act of 1989’.”
 
 Pub. L. 101–240, title VII, §701, Dec. 19, 1989, 103 Stat. 2521, provided that: “This title \[enacting sections 2281 to 2286 of this title\] may be cited as the ‘Global Environmental Protection Assistance Act of 1989’.”
 
 Pub. L. 101–231, §1(a), Dec. 13, 1989, 103 Stat. 1954, provided that: “This Act \[enacting section 2321k of this title, amending sections 2291, 2291a, 2708, and 2795 of this title and sections 2492 and 2495 of Title 19, Customs Duties, and enacting provisions set out as notes under sections 2291 and 2708 of this title\] may be cited as the ‘International Narcotics Control Act of 1989’.”
 
-Pub. L. 101–222, §1(a), Dec. 12, 1989, 103 Stat. 1892, provided that: “This Act \[amending sections 1732, 2364, 2371, 2753, 2776, 2778, and 2780 of this title and section 2405 of Title 50, Appendix, War and National Defense, and enacting provisions set out as a note under section 2371 of this title\] may be cited as the ‘Anti-Terrorism and Arms Export Amendments Act of 1989’.”
+Pub. L. 101–222, §1(a), Dec. 12, 1989, 103 Stat. 1892, provided that: “This Act \[amending sections 1732, 2364,2371, 2753, 2776, 2778, and 2780 of this title and section 2405 of Title 50, Appendix, War and National Defense, and enacting provisions set out as a note under section 2371 of this title\] may be cited as the ‘Anti-Terrorism and Arms Export Amendments Act of 1989’.”
 
 #### Short Title of 1988 Amendments
 
@@ -131,8 +155,6 @@ Pub. L. 99–204, §1, Dec. 23, 1985, 99 Stat. 1669, provided that: “This Act 
 Pub. L. 99–83, §1(a), Aug. 8, 1985, 99 Stat. 190, provided that: “This Act \[enacting sections 2227, 2271 to 2276, 2291b, 2346 to 2346c, 2347c, 2347d, 2349aa–7 to 2349aa–9, 2511, 2521a, and 2770a of this title, section 469j of Title 16, Conservation, and sections 1356b and 1515a of former Title 49, Transportation, amending sections 290f, 290h–8, 290h–9, 2151–1, 2151a to 2151d, 2151f, 2151h, 2151s, 2151u, 2151x, 2151z, 2174, 2182, 2182a, 2184, 2201, 2222, 2291, 2291a, 2292a, 2304, 2311, 2312, 2314, 2321h, 2321i, 2346b, 2347a, 2348a, 2349aa–2, 2349aa–4, 2354, 2361, 2364, 2370, 2371, 2375, 2394, 2394–1, 2396, 2411, 2413, 2420, 2421, 2427, 2429a, 2501, 2502, 2504, 2506, 2510, 2522, 2523, 2752, 2753, 2761, 2763 to 2767, 2771, 2776, 2778, 2791, 2792, 2794, and 2795 of this title, sections 1431, 1721, 1722, 1727a, and 1736b of Title 7, Agriculture, section 7307 of Title 10, Armed Forces, and sections 1356, 1471, and 1515 of former Title 49, repealing sections 2293, 2294, 2346 to 2346c, 2346e to 2346i, and 2349aa–6 of this title, enacting provisions set out as notes under this section and sections 2151–1, 2151b, 2151u, 2291, 2346, 2374, 2429a, 2506, 2511, 2751, and 2778 of this title, section 4011 of Title 15, Commerce and Trade, and section 1515 of former Title 49, amending provisions set out as notes under sections 2370 and 2501 of this title, and repealing provisions set out as a note under section 2293 of this title\] may be cited as the ‘International Security and Development Cooperation Act of 1985’.”
 
 Pub. L. 99–83, title VI, §601, Aug. 8, 1985, 99 Stat. 228, provided that: “This title \[enacting section 2291b of this title, amending sections 2151x, 2291, and 2291a of this title, and enacting provisions set out as a note under section 2291 of this title\] may be cited as the ‘International Narcotics Control Act of 1985’.”
-
-Pub. L. 99–8 which enacted section 2292q of this title and provisions set out as a note under that section is known as the “African Famine Relief and Recovery Act of 1985”, see section 1 of Pub. L. 99–8, set out as a note under section 2292q of this title.
 
 #### Short Title of 1983 Amendments
 
@@ -160,7 +182,7 @@ Pub. L. 96–53, §1, Aug. 14, 1979, 93 Stat. 359, provided that: “This Act \[
 
 #### Short Title of 1978 Amendments
 
-Section 1 of Pub. L. 95–424 provided that: “This Act \[enacting sections 2151–1, 2151t, 2151u, 2151v, 2151w, 2201, 2292<i>l</i>, 2335a, 2393a, 2394–1, 2394–1a and 2395a of this title, amending this section and sections 2151a, 2151a–1, 2151b, 2151c, 2151d, 2151e, 2151g, 2151h, 2151k, 2151n, 2151p, 2151q, 2151r, 2174, 2181, 2182, 2182a, 2183, 2213, 2220a, 2220d, 2221, 2222, 2292, 2292a, 2292i, 2292k, 2351, 2357, 2358, 2361, 2370, 2381a, 2384, 2394, 2395, 2396, 2397, 2399c, 2403, 2421, and 2427 of this title and sections 1703, 1706, 1727c, and 1727d of Title 7, Agriculture, repealing sections 2151f, 2151<i>l</i>, 2151m, 2151<i>o</i>, 2161, 2162, 2164, 2167, 2168, 2171, 2172, 2175, 2176, 2177, 2178, 2180, 2180a, 2211, 2212, 2213, 2216, 2217, 2217a, 2219, 2219a, 2220, 2224, 2271, 2281, 2292d, 2292g, 2368, 2369, 2408, 2410, 2415, 2416, 2417, 2418, and 2425 of this title, and enacting provisions set out as notes under this section and sections 2151v, 2151u, 2222, 2292d, and 2395 of this title and section 1711 of Title 7\] may be cited as the ‘International Development and Food Assistance Act of 1978’.”
+Section 1 of Pub. L. 95–424 provided that: “This Act \[enacting sections 2151–1, 2151t, 2151u, 2151v, 2151w, 2201,2292<i>l</i>, 2335a, 2393a, 2394–1, 2394–1a and 2395a of this title, amending this section and sections 2151a, 2151a–1, 2151b, 2151c, 2151d, 2151e, 2151g, 2151h, 2151k, 2151n, 2151p, 2151q, 2151r, 2174, 2181, 2182, 2182a, 2183, 2213, 2220a, 2220d, 2221, 2222, 2292, 2292a, 2292i, 2292k, 2351, 2357, 2358, 2361, 2370, 2381a, 2384, 2394, 2395, 2396, 2397, 2399c, 2403, 2421, and 2427 of this title and sections 1703, 1706, 1727c, and 1727d of Title 7, Agriculture, repealing sections 2151f, 2151<i>l</i>, 2151m, 2151<i>o</i>, 2161, 2162, 2164, 2167, 2168, 2171, 2172, 2175, 2176, 2177, 2178, 2180, 2180a, 2211, 2212, 2213, 2216, 2217, 2217a, 2219, 2219a, 2220, 2224, 2271, 2281, 2292d, 2292g, 2368, 2369, 2408, 2410, 2415, 2416, 2417, 2418, and 2425 of this title, and enacting provisions set out as notes under this section and sections 2151v, 2151u, 2222, 2292d, and 2395 of this title and section 1711 of Title 7\] may be cited as the ‘International Development and Food Assistance Act of 1978’.”
 
 Pub. L. 95–384, §1, Sept. 26, 1978, 92 Stat. 730, provided that: “This Act \[enacting sections 2348 to 2348c, 2373, 2417, 2428b, and 2766 of this title, amending sections 1754, 2261, 2291, 2291a, 2304, 2312, 2321b, 2321h to 2321j, 2346 to 2346c, 2347a, 2347b, 2360, 2372, 2413, 2429, 2429a, 2751, 2761, 2762, 2765, 2771, and 2776 of this title and section 2403 of Title 50, Appendix, War and National Defense, repealing sections 2441 to 2443 of this title, and enacting provisions set out as notes under this section and sections 287c, 1754, 2291, 2311, 2346, 2346a, 2370, and 2751 of this title\] may be cited as the ‘International Security Assistance Act of 1978’.”
 
@@ -190,7 +212,7 @@ Pub. L. 93–333, §1, July 8, 1974, 88 Stat. 290, provided: “That this Act \[
 
 #### Short Title of 1973 Amendment
 
-Section 1 of Pub. L. 93–189 provided: “That this Act \[enacting sections 2151a to 2151<i>l</i>, 2303, 2399–1a, 2399–1b, 2399c, 2399d, 2431 to 2434 and 2794 of this title, amending this section and sections 285n, 1934, 2163, 2171, 2174, 2181,2183, 2195, 2199, 2200, 2212, 2219a, 2221, 2222, 2261, 2291, 2291a, 2311, 2312, 2314, 2318, 2321b, 2321f, 2346a, 2367, 2370, 2385, 2394, and section 2397 of this title, repealing sections 2314a, 2319 to 2321, 2321e, 2321g, and 2346a, of this title, and enacting provisions set out as notes under this section and sections 1942, 2163, 2220, 2415, and 2431 of this title\] may be cited as the ‘Foreign Assistance Act of 1973’.”
+Section 1 of Pub. L. 93–189 provided: “That this Act \[enacting sections 2151a to 2151<i>l</i>, 2303, 2399–1a, 2399–1b, 2399c, 2399d, 2431 to 2434 and 2794 of this title, amending this section and sections 285n, 1934, 2163, 2171, 2174, 2181, 2183, 2195, 2199, 2200, 2212, 2219a, 2221, 2222, 2261, 2291, 2291a, 2311, 2312, 2314, 2318, 2321b, 2321f, 2346a, 2367, 2370, 2385, 2394, and section 2397 of this title, repealing sections 2314a, 2319 to 2321, 2321e, 2321g, and 2346a, of this title, and enacting provisions set out as notes under this section and sections 1942, 2163, 2220, 2415, and 2431 of this title\] may be cited as the ‘Foreign Assistance Act of 1973’.”
 
 #### Short Title of 1972 Amendment
 
@@ -202,7 +224,7 @@ Pub. L. 91–652, §1, Jan. 5, 1971, 84 Stat. 1942, provided: “That this Act \
 
 #### Short Title of 1969 Amendment
 
-Pub. L. 91–175, §1, Dec. 30, 1969, 83 Stat. 805, provided that: “This Act \[enacting sections 290f, 2179, 2180, 2194 to 2200a and 2321a of this title, amending sections 2162, 2163, 2172, 2174, 2181 to 2183, 2191 to 2193, 2212, 2219a, 2221, 2222, 2242, 2261, 2312, 2318, 2360, 2362, 2370, 2384, 2394, 2396, 2397 and 2402 of this title, section 846 of former Title 31, Money and Finance, and sections 3343, 3581, 3582 and 5314 to 5316 of Title 5, Government Organization and Employees, and enacting provision set out as a note under this section\], may be cited as the ‘Foreign Assistance Act of 1969’.”
+Pub. L. 91–175, §1, Dec. 30, 1969, 83 Stat. 805, provided that: “This Act \[enacting sections 290f, 2179, 2180, 2194 to 2200a and 2321a of this title, amending sections 2162,2163, 2172, 2174, 2181 to 2183, 2191 to 2193, 2212, 2219a, 2221, 2222, 2242, 2261, 2312, 2318, 2360, 2362, 2370, 2384, 2394, 2396, 2397 and 2402 of this title, section 846 of former Title 31, Money and Finance, and sections 3343, 3581, 3582 and 5314 to 5316 of Title 5, Government Organization and Employees, and enacting provision set out as a note under this section\], may be cited as the ‘Foreign Assistance Act of 1969’.”
 
 #### Short Title of 1968 Amendment
 
@@ -408,7 +430,7 @@ Notification Requirement.—At least 15 days in advance of designating an Iraqi 
 
 #### “SEC. 8. RULE OF CONSTRUCTION.
 
-“Nothing in this Act shall be construed to authorize or otherwise speak to the use of United States ArmedForces (except as provided in section 4(a)(2)) in carrying out this Act.”
+“Nothing in this Act shall be construed to authorize or otherwise speak to the use of United States Armed Forces (except as provided in section 4(a)(2)) in carrying out this Act.”
 
 #### Designations Under the Iraq Liberation Act of 1998
 
@@ -512,7 +534,7 @@ Findings.—The Congress makes the following findings:
 
 &emsp;“(8) Conflict prevention, mediation, and demobilization are prerequisites to the success of development assistance programs. Nutrition and education programs, for example, cannot succeed in a nation at war. Billions of dollars of development assistance have been virtually wasted in war-ravaged countries such as Liberia, Somalia, and Sudan.
 
-&emsp;“(9) Africans have a long tradition of informal mediation. This tradition should be built upon to createeffective institutions through which Africans can resolve African conflicts.
+&emsp;“(9) Africans have a long tradition of informal mediation. This tradition should be built upon to create effective institutions through which Africans can resolve African conflicts.
 
 &emsp;“(10) The effectiveness of U.S. support for conflict resolution programs requires coordination and collaboration with multilateral institutions and other bilateral donors.
 
@@ -642,7 +664,7 @@ Date of Submission.—The first report submitted under subsection (a) shall be s
 
 #### Waiver of Restrictions for Narcotics-Related Economic Assistance
 
-Pub. L. 104–164, title I, §133, July 21, 1996, 110 Stat. 1430, provided that: “For each of the fiscal years 1996 and 1997, narcotics-related assistance under part I of the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.) may be provided notwithstanding any other provision of law that restricts assistance to foreign countries (other than section 490(e) or section 502B of that Act (22 U.S.C. 2291j(e) and 2304)) if, at least 15 days before obligating funds for such assistance, the President notifies the appropriate congressional committees (as defined in section 481(e) of that Act (22 U.S.C. 2291(e))) in accordance with the procedures applicable to reprogramming notifications under section 634A of that Act (22 U.S.C. 2394–1).”
+Pub. L. 104–164, title I, §133, July 21, 1996, 110 Stat. 1430, provided that: “For each of the fiscal years 1996 and 1997, narcotics-related assistance under part I of the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.) may be provided notwithstanding any other provision of law that restricts assistance to foreign countries (other than section 490(e) or section 502B of that Act (22 U.S.C. 2291j(e) and 2304)) if, at least 15 days before obligating funds for such assistance, the President notifies the appropriate congressional committees (as defined in section 481(e) of that Act (22 U.S.C. 2291(e)))in accordance with the procedures applicable to reprogramming notifications under section 634A of that Act (22 U.S.C. 2394–1).”
 
 #### Similar Provisions
 
@@ -666,7 +688,7 @@ Pub. L. 102–549, title VIII, §802, Oct. 28, 1992, 106 Stat. 3671, provided th
 
 #### Horn of Africa Recovery and Food Security
 
-Pub. L. 102–274, Apr. 21, 1992, 106 Stat. 115, known as the Horn of Africa Recovery and Food Security Act, provided findings of Congress concerning the Horn of Africa (the region comprised of Ethiopia, Somalia, Sudan, and Djibouti), stated policy regarding individual countries, authorized a relief and rehabilitation program, provided for a peace initiative and a food security and recovery strategy, prohibited security assistance to Ethiopia, Somalia, or Sudan for fiscal year 1992 or 1993 absent a certification by the President, and required the President to submit a report to Congress on the efforts and progress in carrying out Pub. L. 102–274 not later than 180 days after Apr. 21, 1992, and each 180 days thereafter.
+Pub. L. 102–274, Apr. 21, 1992, 106 Stat. 115, known as the Horn of Africa Recovery and Food Security Act, provided findings of Congress concerning the Horn of Africa (the region comprised of Ethiopia, Somalia, Sudan, and Djibouti), stated policy regarding individual countries, authorized a relief and rehabilitation program, provided for a peace initiative and a food security and recovery strategy, prohibited security assistance to Ethiopia, Somalia, or Sudan for fiscal year 1992 or 1993 absent a certification by the President, required the President to submit a report to Congress on the efforts and progress in carrying out Pub. L. 102–274 not later than 180 days after Apr. 21, 1992, and required additional reports.
 
 #### Peace Process in Liberia
 
@@ -704,7 +726,7 @@ Overseas private investment corporation.—The Overseas Private Investment Corpo
 
 &emsp;“(2)
 
-Trade and development agency.—The President shall suspend the obligation of funds under the Foreign Assistance Act of 1961 \[see Short Title noteabove\] for any new activities of the Trade and Development Agency with respect to the People's Republic of China, unless the President makes a report under subsection (b)(1) or (2) of this section.
+Trade and development agency.—The President shall suspend the obligation of funds under the Foreign Assistance Act of 1961 \[see Short Title note above\] for any new activities of the Trade and Development Agency with respect to the People's Republic of China, unless the President makes a report under subsection (b)(1) or (2) of this section.
 
 &emsp;“(3)
 
@@ -724,7 +746,7 @@ Export of satellites for launch by the people's republic of china.—Exports of 
 
 Nuclear cooperation with the people's republic of china.—(A) Any—
 
-&emsp;&emsp;“(i) application for a license under the Export Administration Act of 1979 \[50 App. U.S.C. 2401 et seq.\] for the export to the People's Republic of China for use in a nuclear production or utilization facility of any goods or technology which, as determined under section 309(c) of the Nuclear Non-Proliferation Act of 1978 \[42 U.S.C. 2139a(c)\], could be of significance for nuclear explosive purposes, or which, in the judgment of the President, is likely to be diverted for use in such a facility, for any nuclear explosive device, or for research on or development of any nuclear explosive device, shall be suspended,
+&emsp;&emsp;“(i) application for a license under the Export Administration Act of 1979 \[50 App. U.S.C. 2401 et seq.\]for the export to the People's Republic of China for use in a nuclear production or utilization facility of any goods or technology which, as determined under section 309(c) of the Nuclear Non-Proliferation Act of 1978 \[42 U.S.C. 2139a(c)\], could be of significance for nuclear explosive purposes, or which, in the judgment of the President, is likely to be diverted for use in such a facility, for any nuclear explosive device, or for research on or development of any nuclear explosive device, shall be suspended,
 
 &emsp;&emsp;“(ii) application for a license for the export to the People's Republic of China of any nuclear material, facilities, or components subject to the Agreement shall be suspended,
 
@@ -872,7 +894,7 @@ Pub. L. 101–167, title V, §561, Nov. 21, 1989, 103 Stat. 1239, provided that:
 
 &emsp;“(4) freedom of the press and other constitutional guarantees, including due process of law, are being restored to the Panamanian people;
 
-> then no United States assistance (including any such assistance appropriated and previously obligated) shall be obligated or expended for programs, projects, or activities which assist or lend support for the Noriega regime, or ministries of government under the control of the Noriega regime, or any successor regime that does not meet the criteria specified in subsection (a) of this section in this fiscal year and any fiscal year thereafter, and none of the funds appropriated or otherwisemade available in this Act, or any other Act, shall be used to finance any participation of the United States in joint military exercises conducted in Panama during the fiscal year 1990.
+> then no United States assistance (including any such assistance appropriated and previously obligated) shall be obligated or expended for programs, projects, or activities which assist or lend support for the Noriega regime, or ministries of government under the control of the Noriega regime, or any successor regime that does not meet the criteria specified in subsection (a) of this section in this fiscal year and any fiscal year thereafter, and none of the funds appropriated or otherwise made available in this Act, or any other Act, shall be used to finance any participation of the United States in joint military exercises conducted in Panama during the fiscal year 1990.
 
 “(b) It is the sense of the Congress that if the conditions described in paragraphs (1) through (4) of subsection (a) have been certified as having been met, then not only will United States assistance be restored, but increased levels of such assistance should be considered for Panama.
 
@@ -956,7 +978,7 @@ Section 133 of Pub. L. 95–88, as amended by Pub. L. 96–53, title I, §123, A
 
 “(B) Socially disadvantaged individuals are those who have been subjected to racial or ethnic prejudice or cultural bias because of their identity as a member of a group without regard to their individual qualities.
 
-“(C) Economically disadvantaged individuals are those socially disadvantaged individuals whose ability to compete in the free enterprise system has been impaired due to diminished capital and credit opportunities as compared to others in the same business area who are not socially disadvantaged. In determining the degree of diminished credit and capital opportunities, the Administrator of the agency shall consider, but not be limited to, the assets and net worth of the socially disadvantaged individual.
+“(C) Economically disadvantaged individuals are those socially disadvantaged individuals whose abilityto compete in the free enterprise system has been impaired due to diminished capital and credit opportunities as compared to others in the same business area who are not socially disadvantaged. In determining the degree of diminished credit and capital opportunities, the Administrator of the agency shall consider, but not be limited to, the assets and net worth of the socially disadvantaged individual.
 
 “(6) \[Repealed. Pub. L. 97–113, title VII, §734(a)(6), Dec. 29, 1981, 95 Stat. 1560.\]
 

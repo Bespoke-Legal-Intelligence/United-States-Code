@@ -6,5 +6,5 @@ On the hearing of an application for a writ of habeas corpus to inquire into the
 
 #### Historical and Revision Notes
 
-This section makes no substantive change in existing law. It is derived from H.R. 4232 introduced in the first session of the Seventy-ninth Congress by Chairman Sumners of the House Committee on the Judiciary. It clarifies existing law and promotes uniform procedure.
+This section makes no substantive change in existing law. It is derived from H.R. 4232 introduced in the firstsession of the Seventy-ninth Congress by Chairman Sumners of the House Committee on the Judiciary. It clarifies existing law and promotes uniform procedure.
 

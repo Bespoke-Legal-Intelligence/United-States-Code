@@ -2,11 +2,11 @@
 
 #### (a) Practices adversely affecting public
 
-Upon the basis of facts disclosed by the reports of the Securities and Exchange Commission made to the Congress pursuant to section 78jj of this title and otherwise disclosed and ascertained, it is hereby declared that the national public interest and the interest of investors in notes, bonds, debentures, evidences of indebtedness, and certificates of interest or participation therein, which are offered to the public, are adversely affected—
+Upon the basis of facts disclosed by the reports of the Securities and Exchange Commission made to the Congress pursuant to section 78jj of this title and otherwise disclosed and ascertained, it is hereby declared that the national public interest and the interest of investors innotes, bonds, debentures, evidences of indebtedness, and certificates of interest or participation therein, which are offered to the public, are adversely affected—
 
 &emsp;(1) when the obligor fails to provide a trustee to protect and enforce the rights and to represent the interests of such investors, notwithstanding the fact that (A) individual action by such investors for the purpose of protecting and enforcing their rights is rendered impracticable by reason of the disproportionate expense of taking such action, and (B) concerted action by such investors in their common interest through representatives of their own selection is impeded by reason of the wide dispersion of such investors through many States, and by reason of the fact that information as to the names and addresses of such investors generally is not available to such investors;
 
-&emsp;(2) when the trustee does not have adequate rights and powers, or adequate duties and responsibilities, in connection with matters relating to the protection and enforcement of the rights of such investors; when, notwithstanding the obstacles to concerted action by such investors, and the general and reasonable assumption by such investors that the trustee is under an affirmative duty to take action for the protection and enforcement of their rights, trust indentures (A) generally provide that the trustee shall be under no duty to takeany such action, even in the event of default, unless it receives notice of default, demand for action, and indemnity, from the holders of substantial percentages of the securities outstanding thereunder, and (B) generally relieve the trustee from liability even for its own negligent action or failure to act;
+&emsp;(2) when the trustee does not have adequate rights and powers, or adequate duties and responsibilities, in connection with matters relating to the protection and enforcement of the rights of such investors; when, notwithstanding the obstacles to concerted action by such investors, and the general and reasonable assumption by such investors that the trustee is under an affirmative duty to take action for the protection and enforcement of their rights, trust indentures (A) generally provide that the trustee shall be under no duty to take any such action, even in the event of default, unless it receives notice of default, demand for action, and indemnity, from the holders of substantial percentages of the securities outstanding thereunder, and (B) generally relieve the trustee from liability even for its own negligent action or failure to act;
 
 &emsp;(3) when the trustee does not have resources commensurate with its responsibilities, or has any relationship to or connection with the obligor or any underwriter of any securities of the obligor, or holds, beneficially or otherwise, any interest in the obligor or any such underwriter, which relationship, connection, or interest involves a material conflict with the interests of such investors;
 
@@ -29,16 +29,4 @@ Section 78jj of this title, referred to in subsec. (a), was omitted from the Cod
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
-#### Cross References
-
-Findings and declaration of policy under Investment Company Act of 1940, see section 80a–1 of this title.
-
-Findings under Investment Advisers Act of 1940, see section 80b–1 of this title.
-
-Necessity for—
-
-&emsp;&emsp;Control of holding companies, see section 79a of this title.
-
-&emsp;&emsp;Regulation under Securities Exchange Act of 1934, see section 78b of this title.
 

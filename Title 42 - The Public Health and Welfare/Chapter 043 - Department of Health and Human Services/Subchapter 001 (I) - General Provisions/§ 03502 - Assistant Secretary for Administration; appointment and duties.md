@@ -26,7 +26,3 @@ Amendment by Pub. L. 88–426 effective on the first day of the first pay period
 
 Section effective on the first day of the first pay period which begins on or after July 1, 1960, see section 122 of Pub. L. 86–568.
 
-#### Cross References
-
-Compensation of Assistant Secretary, see section 5316 of Title 5, Government Organization and Employees.
-

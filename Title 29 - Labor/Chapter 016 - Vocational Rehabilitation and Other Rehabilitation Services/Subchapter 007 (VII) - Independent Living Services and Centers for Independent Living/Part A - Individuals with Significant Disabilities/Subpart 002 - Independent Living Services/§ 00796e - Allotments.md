@@ -6,7 +6,7 @@
 
 #### (A) Population basis
 
-&emsp;&emsp;Except as provided in subparagraphs (B) and (C), from sums appropriated for each fiscal year to carry out this subpart, the Commissioner shall make an allotment to each State whose State plan has been approvedunder section 796d–1 of this title of an amount bearing the same ratio to such sums as the population of the State bears to the population of all States.
+&emsp;&emsp;Except as provided in subparagraphs (B) and (C), from sums appropriated for each fiscal year to carry out this subpart, the Commissioner shall make an allotment to each State whose State plan has been approved under section 796d–1 of this title of an amount bearing the same ratio to such sums as the population of the State bears to the population of all States.
 
 #### (B) Maintenance of 1992 amounts
 

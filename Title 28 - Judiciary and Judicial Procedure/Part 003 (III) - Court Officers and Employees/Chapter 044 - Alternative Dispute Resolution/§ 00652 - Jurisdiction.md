@@ -20,7 +20,7 @@ Confidentiality Provisions.—Until such time as rules are adopted under chapter
 
 #### Amendments
 
-1998—Pub. L. 105–315 amended section generally, substituting provisions relating to alternative dispute resolution jurisdiction for provisions relating to arbitration jurisdiction.
+<b>1998</b>—Pub. L. 105–315 amended section generally, substituting provisions relating to alternative dispute resolution jurisdiction for provisions relating to arbitration jurisdiction.
 
 #### Exception to Limitation on Money Damages
 

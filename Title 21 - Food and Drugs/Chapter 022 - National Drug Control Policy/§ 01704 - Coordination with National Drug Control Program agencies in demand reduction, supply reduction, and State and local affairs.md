@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Upon the request of the Director, the head of any National Drug Control Program agency shall cooperate with and provide to the Director any statistics, studies, reports, and other information prepared or collected by the agency concerning the responsibilities of the agency under the National Drug Control Strategy that relate to—
+&emsp;Upon the request of the Director, the head of any National Drug Control Program agencyshall cooperate with and provide to the Director any statistics, studies, reports, and other information prepared or collected by the agency concerning the responsibilities of the agency under the National Drug Control Strategy that relate to—
 
 &emsp;&emsp;(A) drug abuse control; or
 
@@ -46,7 +46,7 @@ The Administrator of General Services shall provide to the Director, in <sup>1<
 
 The Director shall—
 
-&emsp;(A) require the National Drug Control Program agencies to submit to the Director notlater than February 1 of each year a detailed accounting of all funds expended by the agencies for National Drug Control Program activities during the previous fiscal year, and require such accounting to be authenticated by the Inspector General for each agency prior to submission to the Director; and
+&emsp;(A) require the National Drug Control Program agencies to submit to the Director not later than February 1 of each year a detailed accounting of all funds expended by the agencies for National Drug Control Program activities during the previous fiscal year, and require such accounting to be authenticated by the Inspector General for each agency prior to submission to the Director; and
 
 &emsp;(B) submit to Congress not later than April 1 of each year the information submitted to the Director under subparagraph (A).
 

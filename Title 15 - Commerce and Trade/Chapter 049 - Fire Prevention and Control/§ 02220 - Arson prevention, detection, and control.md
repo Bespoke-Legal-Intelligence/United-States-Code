@@ -1,7 +1,5 @@
 ### §2220. Arson prevention, detection, and control
 
-#### (a) Duties of Administrator
-
 The Administrator shall—
 
 &emsp;(1) develop arson detection techniques to assist Federal agencies and States and local jurisdictions in improving arson prevention, detection, and control;
@@ -16,27 +14,11 @@ The Administrator shall—
 
 &emsp;(6) develop handbooks to assist Federal, State, and local fire service and law enforcement personnel in arson prevention and detection.
 
-#### (b) Report to Congress on manner of assistance to States and local jurisdictions
-
-(1) The Administrator shall prepare and submit to Congress, not later than March 15, 1979, a report on ways in which the Federal Government may better assist the States and local jurisdictions in providing for more effective arson prevention, detection, and control. Such report shall include, but need not be limited to—
-
-&emsp;(A)(i) an assessment of State and local capabilities in regard to arson investigation and detection; and
-
-&emsp;(ii) an evaluation of the necessity for and the desirability of Federal supplementation of such State and local capabilities or other Federal assistance in arson detection;
-
-&emsp;(B) a summary of Federal programs which seek to reduce arson;
-
-&emsp;(C) an identification and analysis of existing Federal and State laws which may contribute to the incidence of arson;
-
-&emsp;(D) recommendations for additional legislation or other programs, including research programs, or policies which may be required to assist in reducing arson in the United States; and
-
-&emsp;(E) an assessment, where practical, of the costs and benefits of those programs and activities cited in paragraphs (1) through (4) of subsection (a) of this section or recommended by the Administration.
-
-(2) Of the funds authorized to be appropriated in section 2216 of this title, $100,000 shall be available in fiscal year 1979 for carrying out the purposes of paragraph (1) of this subsection.
-
-(Pub. L. 93–498, §24, as added Pub. L. 95–422, §3(a), Oct. 5, 1978, 92 Stat. 932; amended Pub. L. 103–254, §4, May 19, 1994, 108 Stat. 682.)
+(Pub. L. 93–498, §24, as added Pub. L. 95–422, §3(a), Oct. 5, 1978, 92 Stat. 932; amended Pub. L. 103–254, §4, May 19, 1994, 108 Stat. 682; Pub. L. 106–503, title I, §110(a)(1)(C), (D), Nov. 13, 2000, 114 Stat. 2302.)
 
 #### Amendments
+
+2000—Pub. L. 106–503 struck out subsec. (a) designation and struck out subsec. (b) which required the Administrator to submit a report to Congress by Mar. 15, 1979, on ways to assist the States and local jurisdictions with arson control.
 
 1994—Subsec. (a)(2). Pub. L. 103–254 inserted before semicolon at end “, with particular emphasis on the needs of volunteer firefighters for improved and more widely available arson training courses”.
 

@@ -1,8 +1,8 @@
 ### §7428. Agreements and leases: provision for change
 
-Every unit or cooperative plan of development and operation, except a plan authorized by section 7426 of this title, and every lease affecting lands owned by the United States within Naval Petroleum Reserve Numbered 2 and the oil shale reserves shall contain a provision authorizing the Secretary, subject to approval by the President and to any limitation in the plan or lease, to change from time to time the rate of prospecting and development on, and the quantity and rate of production from, lands of the United States under the plan or lease, notwithstanding any other provision of law.
+Every unit or cooperative plan of development and operation and every lease affecting lands owned by the United States within Naval Petroleum Reserve Numbered 2 and the oil shale reserves shall contain a provision authorizing the Secretary, subject to approval by the President and to any limitation in the plan or lease, to change from time to time the rate of prospecting and development on, and the quantity and rate of production from, lands of the United States under the plan or lease, notwithstanding any other provision of law.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 460; Pub. L. 87–796, §1(5), Oct. 11, 1962, 76 Stat. 905; Pub. L. 94–258, title II, §201(9), Apr. 5, 1976, 90 Stat. 309.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 460; Pub. L. 87–796, §1(5), Oct. 11, 1962, 76 Stat. 905; Pub. L. 94–258, title II, §201(9), Apr. 5, 1976, 90 Stat. 309; Pub. L. 106–398, §1 \[div. C, title XXXIV, §3402(b)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–484.)
 
 Historical and Revision Notes
 
@@ -21,6 +21,8 @@ June 4, 1920, ch. 228 (6th par., proviso, of amended 3d and 4th provisos), 41 St
 The words “entered into after July 1, 1937” and “entered into subsequent to July 1, 1937” are omitted as surplusage. The words “in his discretion” are omitted as surplusage.
 
 #### Amendments
+
+2000—Pub. L. 106–398 struck out “, except a plan authorized by section 7426 of this title,” after “development and operation”.
 
 1976—Pub. L. 94–258 substituted “within Naval Petroleum Reserve Numbered 2 and the oil shale reserves shall contain a provision authorizing the Secretary” for “within the naval petroleum and oil shale reserves shall contain a provision authorizing the Secretary of the Navy”.
 

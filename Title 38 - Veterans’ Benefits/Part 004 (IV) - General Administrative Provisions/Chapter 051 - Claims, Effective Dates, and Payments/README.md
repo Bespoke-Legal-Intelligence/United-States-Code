@@ -4,13 +4,15 @@
 
 | Sec. |  |
 | :--- | ---: |
+| [5100\.](Subchapter%20001%20%28I%29%20-%20Claims/%C2%A7%2005100%20-%20Definition%20of%20%E2%80%9Cclaimant%E2%80%9D.md) | Definition of “claimant”. |
 | [5101\.](Subchapter%20001%20%28I%29%20-%20Claims/%C2%A7%2005101%20-%20Claims%20and%20forms.md) | Claims and forms. |
-| [5102\.](Subchapter%20001%20%28I%29%20-%20Claims/%C2%A7%2005102%20-%20Application%20forms%20furnished%20upon%20request.md) | Application forms furnished upon request. |
-| [5103\.](Subchapter%20001%20%28I%29%20-%20Claims/%C2%A7%2005103%20-%20Incomplete%20applications.md) | Incomplete applications. |
+| [5102\.](Subchapter%20001%20%28I%29%20-%20Claims/%C2%A7%2005102%20-%20Application%20forms%20furnished%20upon%20request%3B%20notice%20to%20claimants%20of%20incomplete%20applications.md) | Application forms furnished upon request; notice to claimants of incomplete applications. |
+| [5103\.](Subchapter%20001%20%28I%29%20-%20Claims/%C2%A7%2005103%20-%20Notice%20to%20claimants%20of%20required%20information%20and%20evidence.md) | Notice to claimants of required information and evidence. |
+| [5103A.](Subchapter%20001%20%28I%29%20-%20Claims/%C2%A7%2005103A%20-%20Duty%20to%20assist%20claimants.md) | Duty to assist claimants. |
 | [5104\.](Subchapter%20001%20%28I%29%20-%20Claims/%C2%A7%2005104%20-%20Decisions%20and%20notices%20of%20decisions.md) | Decisions and notices of decisions. |
 | [5105\.](Subchapter%20001%20%28I%29%20-%20Claims/%C2%A7%2005105%20-%20Joint%20applications%20for%20social%20security%20and%20dependency%20and%20indemnity%20compensation.md) | Joint applications for social security and dependency and indemnity compensation. |
 | [5106\.](Subchapter%20001%20%28I%29%20-%20Claims/%C2%A7%2005106%20-%20Furnishing%20of%20information%20by%20other%20agencies.md) | Furnishing of information by other agencies. |
-| [5107\.](Subchapter%20001%20%28I%29%20-%20Claims/%C2%A7%2005107%20-%20Burden%20of%20proof%3B%20benefit%20of%20the%20doubt.md) | Burden of proof; benefit of the doubt. |
+| [5107\.](Subchapter%20001%20%28I%29%20-%20Claims/%C2%A7%2005107%20-%20Claimant%20responsibility%3B%20benefit%20of%20the%20doubt.md) | Claimant responsibility; benefit of the doubt. |
 | [5108\.](Subchapter%20001%20%28I%29%20-%20Claims/%C2%A7%2005108%20-%20Reopening%20disallowed%20claims.md) | Reopening disallowed claims. |
 | [5109\.](Subchapter%20001%20%28I%29%20-%20Claims/%C2%A7%2005109%20-%20Independent%20medical%20opinions.md) | Independent medical opinions. |
 | [5109A.](Subchapter%20001%20%28I%29%20-%20Claims/%C2%A7%2005109A%20-%20Revision%20of%20decisions%20on%20grounds%20of%20clear%20and%20unmistakable%20error.md) | Revision of decisions on grounds of clear and unmistakable error. |
@@ -43,10 +45,15 @@
 | [5123\.](Subchapter%20003%20%28III%29%20-%20Payment%20of%20Benefits/%C2%A7%2005123%20-%20Rounding%20down%20of%20pension%20rates.md) | Rounding down of pension rates. |
 | [5124\.](Subchapter%20003%20%28III%29%20-%20Payment%20of%20Benefits/%C2%A7%2005124%20-%20Acceptance%20of%20claimant%27s%20statement%20as%20proof%20of%20relationship.md) | Acceptance of claimant's statement as proof of relationship. |
 | [5125\.](Subchapter%20003%20%28III%29%20-%20Payment%20of%20Benefits/%C2%A7%2005125%20-%20Acceptance%20of%20reports%20of%20private%20physician%20examinations.md) | Acceptance of reports of private physician examinations. |
+| [5126\.](Subchapter%20003%20%28III%29%20-%20Payment%20of%20Benefits/%C2%A7%2005126%20-%20Benefits%20not%20to%20be%20denied%20based%20on%20lack%20of%20mailing%20address.md) | Benefits not to be denied based on lack of mailing address. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2000—Pub. L. 106–475, §6, Nov. 9, 2000, 114 Stat. 2099, added items 5100, 5102 to 5103A, 5107, and 5126, and struck out former items 5102 “Application forms furnished upon request”, 5103 “Incomplete applications”, and 5107 “Burden of proof; benefit of the doubt”.
+
+Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1611(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–360, directed amendment of table of sections by striking the item relating to section 5017 and inserting item 5107 “Assistance to claimants; benefit of the doubt; burden of proof”. Pub. L. 106–419, title I, §104(c)(2), Nov. 1, 2000, 114 Stat. 1828, provided that, as of the enactment of Pub. L. 106–419, the amendments made by Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1611(b)\], were deemed for all purposes not to have taken effect and that Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1611(b)\], ceased to be in effect.
 
 1997—Pub. L. 105–111, §1(a)(2), Nov. 21, 1997, 111 Stat. 2271, added item 5109A.
 

@@ -32,13 +32,13 @@ Accountability for hazardous wastes.—(A) A provision specifying the following:
 
 Renegotiation of Contract.—The Secretary of the Navy shall renegotiate a contract described in subsection (a) if—
 
-&emsp;(1) the contractor, during the performance of work under the contract, discovers hazardouswastes different in type or amount from those identified in the contract; and
+&emsp;(1) the contractor, during the performance of work under the contract, discovers hazardous wastes different in type or amount from those identified in the contract; and
 
 &emsp;(2) those hazardous wastes originated on, or resulted from material furnished by the Government for, the naval vessel on which the work is being performed.
 
 (c)
 
-Removal of Wastes.—The Secretary of the Navy shall remove known hazardous wastes from a vessel before the vessel's arrival at a contractor's facility for performance of a contract, to the extent such removal is feasible.
+Removal of Wastes.—The Secretary of the Navy shall remove known hazardous wastesfrom a vessel before the vessel's arrival at a contractor's facility for performance of a contract, to the extent such removal is feasible.
 
 (d)
 

@@ -2,7 +2,7 @@
 
 #### (a) Procurement through full and open competition; competitive procedures
 
-(1) Except as provided in subsections (b), (c), and (g) of this section and except in the case of procurement procedures otherwise expressly authorized by statute, an executive agency in conducting a procurement for property or services—
+(1) Except as provided in subsections (b), (c), and (g) of this section and except in the case ofprocurement procedures otherwise expressly authorized by statute, an executive agency in conducting a procurement for property or services—
 
 &emsp;(A) shall obtain full and open competition through the use of competitive procedures in accordance with the requirements of this title and the Federal Acquisition Regulation; and
 
@@ -134,7 +134,7 @@ An executive agency using procedures other than competitive procedures to procur
 
 (1) In order to promote efficiency and economy in contracting and to avoid unnecessary burdens for agencies and contractors, the Federal Acquisition Regulation shall provide for—
 
-&emsp;(A) special simplified procedures for purchases of property and services for amounts not greater than the simplified acquisition threshold; and
+&emsp;(A) special simplified procedures for purchases of property and services for amountsnot greater than the simplified acquisition threshold; and
 
 &emsp;(B) special simplified procedures for purchases of property and services for amounts greater than the simplified acquisition threshold but not greater than $5,000,000 with respect to which the contracting officer reasonably expects, based on the nature of the property or services sought and on market research, that offers will include only commercial items.
 
@@ -288,23 +288,9 @@ Section 2711(c) of Pub. L. 98–369 provided that: “The amendments made by thi
 
 The definitions in section 472 of Title 40, Public Buildings, Property, and Works, apply to this subchapter.
 
-#### Cross References
-
-Advertising for proposals for purchases and contracts for supplies or services, see section 5 of this title.
-
-Agency head, definition of, see section 259 of this title.
-
-Armed services—
-
-&emsp;&emsp;Contracts; regulations for bids, see section 2381 of Title 10, Armed Forces.
-
-&emsp;&emsp;Formal advertisements for bids; time; opening; award; rejection, see section 2305 of Title 10.
-
-&emsp;&emsp;Purchases and contracts; formal advertising; exceptions, see section 2304 of Title 10.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 252, 253h, 253i, 253j, 257, 416, 417, 427 of this title; title 15 section 637; title 20 section 1018a; title 22 section 2669; title 29 section 2887; title 38 section 8153; title 40 section 618; title 49 section 40110; title 50 App. section 2077.
+This section is referred to in sections 252, 253h, 253i, 253j, 257, 416, 417, 427 of this title; title 15 section 637;title 20 section 1018a; title 22 section 2669; title 29 section 2887; title 38 section 8153; title 40 section 618; title 49 section 40110; title 50 App. section 2077.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -20,7 +20,7 @@ Section 2101 of Pub. L. 100–297 provided that part B (§§2101, 2102) of title
 
 #### Short Title
 
-Pub. L. 89–750, title III, §301, as added by Pub. L. 100–297, title II, §2102, Apr. 28, 1988, 102 Stat. 302, provided that title III of Pub. L. 89–750, enacting this chapter, was to be cited as the “Adult Education Act”, priorto repeal by Pub. L. 105–220, title II, §251(a)(1), Aug. 7, 1998, 112 Stat. 1079.
+Pub. L. 89–750, title III, §301, as added by Pub. L. 100–297, title II, §2102, Apr. 28, 1988, 102 Stat. 302, provided that title III of Pub. L. 89–750, enacting this chapter, was to be cited as the “Adult Education Act”, prior to repeal by Pub. L. 105–220, title II, §251(a)(1), Aug. 7, 1998, 112 Stat. 1079.
 
 #### Congressional Findings Regarding National Literacy Act of 1991
 

@@ -14,11 +14,23 @@ The Secretary shall consult with the State of Alaska on a method of prioritizing
 
 #### (d) Authorization of appropriations
 
-There are authorized to be appropriated to carry out this section $20,000,000 for each of fiscal years 1996 through 2002.
+#### (1) In general
 
-(Pub. L. 87–128, title III, §306D, as added Pub. L. 104–127, title VII, §757, Apr. 4, 1996, 110 Stat. 1131; amended Pub. L. 105–277, div. A, §101(a) \[title VII, §745\], Oct. 21, 1998, 112 Stat. 2681, 2681–32.)
+&emsp;There are authorized to be appropriated to carry out this section $30,000,000 for each of fiscal years 2001 and 2002.
+
+#### (2) Training and technical assistance
+
+&emsp;Not more than 2 percent of the amount made available under paragraph (1) for a fiscal year may be used by the State of Alaska for training and technical assistance programs relating to the operation and management of water and waste disposal services in rural and Native villages.
+
+#### (3) Availability
+
+&emsp;Funds appropriated pursuant to the authorization of appropriations in paragraph (1) shall be available until expended.
+
+(Pub. L. 87–128, title III, §306D, as added Pub. L. 104–127, title VII, §757, Apr. 4, 1996, 110 Stat. 1131; amended Pub. L. 105–277, div. A, §101(a) \[title VII, §745\], Oct. 21, 1998, 112 Stat. 2681, 2681–32; Pub. L. 106–224, title II, §256, June 20, 2000, 114 Stat. 424.)
 
 #### Amendments
+
+2000—Subsec. (d). Pub. L. 106–224 added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: “There are authorized to be appropriated to carry out this section $20,000,000 for each of fiscal years 1996 through 2002.”
 
 1998—Subsec. (b). Pub. L. 105–277 substituted “25 percent in matching” for “equal matching”.
 

@@ -4,7 +4,3 @@ For the purpose of allowing any Indian allottee to sell for townsite purposes an
 
 (June 21, 1906, ch. 3504, 34 Stat. 373.)
 
-#### Cross References
-
-Certain lands not to be allotted in severalty to any Indian, see section 461 of this title.
-

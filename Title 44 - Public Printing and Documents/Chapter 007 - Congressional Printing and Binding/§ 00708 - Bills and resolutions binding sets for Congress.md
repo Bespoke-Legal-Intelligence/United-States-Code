@@ -1,6 +1,6 @@
 ### §708. Bills and resolutions: binding sets for Congress
 
-The Public Printer shall bind four sets of Senate and House of Representatives bills, joint and concurrent resolutions of each Congress, two for the Senate and two for the House, to be furnished him from the files of the Senate and House document room, the volumes when bound to be kept there for reference.
+The Public Printer shall bind four sets of Senate and House of Representatives bills, joint andconcurrent resolutions of each Congress, two for the Senate and two for the House, to be furnished him from the files of the Senate and House document room, the volumes when bound to be kept there for reference.
 
 (Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1249.)
 

@@ -20,7 +20,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 2006, 2131 of this title; title 26 section 25A.
+This chapter is referred to in sections 2006, 2131 of this title; title 20 section 9305; title 26 section 25A; title 38 section 3695.
 
 
 ---

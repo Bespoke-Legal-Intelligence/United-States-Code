@@ -14,7 +14,7 @@ In the event of a default on any guarantee under this subchapter, the Secretary 
 
 #### (d) Contracts to pay, and payment, from Geothermal Resources Development Fund of principal and interest of unpaid balance of obligation; preconditions
 
-With respect to any obligation guaranteed under this subchapter, the Secretary of Energy is authorized to enter into a contract to pay, and to pay, holders of the obligation, for and on behalf of the borrower, from the Geothermal Resources Development Fund, the principal and interest payments which become due and payable on the unpaid balance of such obligation if the Secretary of Energy finds that—
+With respect to any obligation guaranteed under this subchapter, the Secretary of Energy is authorized to enter into a contract to pay, and to pay, holders of the obligation, for and onbehalf of the borrower, from the Geothermal Resources Development Fund, the principal and interest payments which become due and payable on the unpaid balance of such obligation if the Secretary of Energy finds that—
 
 &emsp;(1) the borrower is unable to meet such payments and is not in default; it is in the public interest to permit the borrower to continue to pursue the purposes of such project; and the probable net benefit to the Federal Government in paying such principal and interest will be greater than that which would result in the event of a default;
 

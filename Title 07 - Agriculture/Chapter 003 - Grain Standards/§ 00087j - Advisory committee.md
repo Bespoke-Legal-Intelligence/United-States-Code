@@ -2,7 +2,7 @@
 
 #### (a) Establishment; number and terms of members
 
-Not later than ninety days after October 24, 1988, the Secretary shall establish an advisory committee to provide advice to the Secretary with respect to implementation of this chapter consistent with the declarations of policy in section 74 of this title. The advisory committee shall consist of fifteen members, appointed by the Secretary, who represent the interests of all segments of the grain producing, processing, storing, merchandising, consuming, and exporting industries, including grain inspection and weighing agencies and scientists with expertise in research related to the policies established in section 74 of this title. Members of the advisory committee shall be appointed to three-year terms, except that of the initial fifteen members of the advisory committee first appointed following the enactment of this section, five shall be appointed for terms of one year and five shall be appointed for terms of two years. No member of the advisory committee may serve successive terms.
+Not later than ninety days after October 24, 1988, the Secretary shall establish an advisorycommittee to provide advice to the Secretary with respect to implementation of this chapter consistent with the declarations of policy in section 74 of this title. The advisory committee shall consist of fifteen members, appointed by the Secretary, who represent the interests of all segments of the grain producing, processing, storing, merchandising, consuming, and exporting industries, including grain inspection and weighing agencies and scientists with expertise in research related to the policies established in section 74 of this title. Members of the advisory committee shall be appointed to three-year terms, except that of the initial fifteen members of the advisory committee first appointed following the enactment of this section, five shall be appointed for terms of one year and five shall be appointed for terms of two years. No member of the advisory committee may serve successive terms.
 
 #### (b) Federal Advisory Committee Act as governing
 
@@ -18,9 +18,9 @@ Members of the advisory committee shall serve without compensation, if not other
 
 #### (e) Expiration of Secretary's authority
 
-The authority provided to the Secretary for the establishment and maintenance of an advisory committee under this section shall expire on September 30, 2000.
+The authority provided to the Secretary for the establishment and maintenance of an advisory committee under this section shall expire on September 30, 2005.
 
-(Aug. 11, 1916, ch. 313, pt. B, §21, as added Pub. L. 100–518, §2(5), Oct. 24, 1988, 102 Stat. 2586; amended Pub. L. 103–156, §§13(b)(1), 14(c), Nov. 24, 1993, 107 Stat. 1529, 1530; Pub. L. 103–354, title II, §293(a)(7), Oct. 13, 1994, 108 Stat. 3237.)
+(Aug. 11, 1916, ch. 313, pt. B, §21, as added Pub. L. 100–518, §2(5), Oct. 24, 1988, 102 Stat. 2586; amended Pub. L. 103–156, §§13(b)(1), 14(c), Nov. 24, 1993, 107 Stat. 1529, 1530; Pub. L. 103–354, title II, §293(a)(7), Oct. 13, 1994, 108 Stat. 3237; Pub. L. 106–472, title I, §109, Nov. 9, 2000, 114 Stat. 2060.)
 
 #### References in Text
 
@@ -30,11 +30,17 @@ The Federal Advisory Committee Act, referred to in subsec. (b), is Pub. L. 92–
 
 #### Amendments
 
+2000—Subsec. (e). Pub. L. 106–472 substituted “2005” for “2000”.
+
 1994—Subsecs. (a), (c). Pub. L. 103–354 substituted “Secretary” for “Administrator”.
 
 1993—Subsec. (a). Pub. L. 103–156, §13(b)(1), struck out “(1)” before “Not later than” and struck out par. (2) which read as follows: “To ensure a smooth transition, the advisory committee established under section 87i of this title (as in effect prior to October 1, 1988) shall continue in existence until all members of the advisory committee established under this section are appointed; and the Secretary may appoint members of the advisory committee established under section 87i of this title to serve on the advisory committee established under this section, without regard to the time of service of such members on the advisory committee established under section 87i of this title.”
 
 Subsec. (e). Pub. L. 103–156, §14(c), added subsec. (e).
+
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–472 effective as if enacted Sept. 30, 2000, see section 111 of Pub. L. 106–472, set out as a note under section 79 of this title.
 
 #### Effective and Termination Dates
 

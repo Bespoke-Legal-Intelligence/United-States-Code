@@ -32,7 +32,7 @@ The Secretary shall formulate and administer a farmer owned reserve program unde
 
 #### (1) Levying of interest
 
-&emsp;The Secretary may charge interest on loans under this section whenever the price of wheator feed grains is equal to or exceeds 105 percent of the then current established price for the commodity.
+&emsp;The Secretary may charge interest on loans under this section whenever the price of wheat or feed grains is equal to or exceeds 105 percent of the then current established price for the commodity.
 
 #### (2) 90-day period
 
@@ -54,7 +54,7 @@ The Secretary shall formulate and administer a farmer owned reserve program unde
 
 #### (3) Duration
 
-&emsp;The Secretary shall cease making storage payments whenever the price of wheat or feed grains is equal to or exceeds 95 percent of the then current established price for the commodities, and for any 90-day period immediately following the last day on which the price of wheat or feed grains was equal to or in excess of 95 percent of the then current established price for the commodities.
+&emsp;The Secretary shall cease making storage payments whenever the price of wheat or feedgrains is equal to or exceeds 95 percent of the then current established price for the commodities, and for any 90-day period immediately following the last day on which the price of wheat or feed grains was equal to or in excess of 95 percent of the then current established price for the commodities.
 
 #### (e) Emergencies
 
@@ -108,7 +108,7 @@ The Secretary may, with the concurrence of the owner of grain stored under this 
 
 #### (j) Management of grain
 
-Whenever grain is stored under this section, the Secretary may buy and sell at an equivalentprice, allowing for the customary location and grade differentials, substantially equivalent quantities of grain in different locations or warehouses to the extent needed to properly handle, rotate, distribute, and locate the commodities that the Commodity Credit Corporation owns or controls. The purchases to offset sales shall be made within 2 market days following the sales. The Secretary shall make a daily list available showing the price, location, and quantity of the transactions.
+Whenever grain is stored under this section, the Secretary may buy and sell at an equivalent price, allowing for the customary location and grade differentials, substantially equivalent quantities of grain in different locations or warehouses to the extent needed to properly handle, rotate, distribute, and locate the commodities that the Commodity Credit Corporation owns or controls. The purchases to offset sales shall be made within 2 market days following the sales. The Secretary shall make a daily list available showing the price, location, and quantity of the transactions.
 
 #### (k) Use of Commodity Credit Corporation
 
@@ -120,7 +120,7 @@ Notwithstanding any other provision of law, if a producer has substituted purcha
 
 #### (m) Additional authority
 
-The authority provided by this section shall be in addition to other authorities available to the Secretary for carrying out producer loan and storage operations.
+The authority provided by this section shall be in addition to other authorities available to theSecretary for carrying out producer loan and storage operations.
 
 #### (n) Regulations
 
@@ -162,7 +162,7 @@ Subsec. (b)(A)(ii). Pub. L. 100–203, §1108(2), substituted “450 million bus
 
 Subsec. (b). Pub. L. 99–198 in third sentence substituted “, with extensions as warranted by market conditions” for “nor more than five years” in cl. (1), substituted “when the total amount of wheat or feed grains in storage under programs under this section is below the upper limits for such storage as set forth in clauses (A) and (B) of subsection (e)(2) of this section and the market price for wheat or feed grains is below” for “before the market price for wheat or feed grains has reached” in cl. (4), substituted “the higher of 140 percent of the nonrecourse loan rate for the commodity or the established price for such commodity, as determined under this subchapter” for “a specified level, as determined by the Secretary” in cl. (5), and at end inserted provisions requiring Secretary to encourage participation in the programs authorized under this section by offering producers increased storage payments and loan levels, interest waivers, or such other incentives as the Secretary determines necessary to maintain total amount of storage at specified levels, whenever the total quantity of wheat and feed grains stored under this section is less than 17 and 7 percent, respectively, of the estimated total usage thereof during the then current marketing year, and the marketing price does not exceed 140 percent of the nonrecourse loan rate for the commodity, and inserted provision requiring Secretary to ensure than producers are afforded a fair and equitable opportunity to participate in each producer storage program.
 
-Subsec. (e). Pub. L. 99–198 designated existing provisions as par. (1), inserted “, subject to the upper limits on the total quantity of wheat and feed grains that may be stored under storage programs establishedunder this section set out in paragraph (2)” in second sentence, struck out third sentence which authorized the Secretary to place an upper limit of not less than seven hundred million bushels for wheat and one billion bushels for feed grains placed in the reserve, and added par. (2).
+Subsec. (e). Pub. L. 99–198 designated existing provisions as par. (1), inserted “, subject to the upper limits on the total quantity of wheat and feed grains that may be stored under storage programs established under this section set out in paragraph (2)” in second sentence, struck out third sentence which authorized the Secretary to place an upper limit of not less than seven hundred million bushels for wheat and one billion bushels for feed grains placed in the reserve, and added par. (2).
 
 1981—Subsec. (a). Pub. L. 97–98 struck out discretionary authority of Secretary with regard to permitting producers of feed grains to store wheat and feed grains.
 
@@ -206,7 +206,7 @@ Subsec. (e). Pub. L. 96–494, §205(1), (2), substituted “except as otherwise
 
 Pub. L. 96–234, §1(1), (2), redesignated former subsec. (d) as (e) and added cl. (3). Former subsec. (e) redesignated (f).
 
-Subsec. (e)(3). Pub. L. 96–494, §205(3), in provisions preceding subpar. (A), substituted “sales of corn” for “sales of corn when sold at not less than the release level under the extended loan program”, and inserted “when sold at not less than the price at which producers may repay producer storage loans and redeem corn prior to the maturity dates of loans, as determinedunder clause (5) of the second sentence of subsection (b) of this section, or, whenever the fuel conversion price (as defined in section 4005 of this title) for corn exceeds such price, at not less than the fuel conversion price”.
+Subsec. (e)(3). Pub. L. 96–494, §205(3), in provisions preceding subpar. (A), substituted “sales of corn” for “sales of corn when sold at not less than the release level under the extended loan program”, and inserted “when sold at not less than the price at which producers may repay producer storage loans and redeem corn prior to the maturity dates of loans, as determined under clause (5) of the second sentence of subsection (b) of this section, or, whenever the fuel conversion price (as defined in section 4005 of this title) for corn exceeds such price, at not less than the fuel conversion price”.
 
 Subsecs. (f) to (h). Pub. L. 96–234, §1(1), redesignated former subsecs. (e) to (g) as (f) to (h), respectively.
 
@@ -230,7 +230,7 @@ Section 1001 of Pub. L. 97–98 provided that the amendment made by that section
 
 #### Effective Date of 1980 Amendment
 
-Section 203(b) of Pub. L. 96–494 provided that: “Subsection (a) of this section \[amending this section\] shall become effective October 1, 1980, and any producers who, prior to such date, receive loans on the 1980 crop of the commodity as computed under the Agricultural Act of 1949, as \[see Short Title note set out under section 1421 of this title\] amended prior to the enactment of this Act \[see Short Title note set out under section 4001 of this title\], may elect after September 30, 1980, to receive loans as authorized under subsection (a) of this section.”
+Section 203(b) of Pub. L. 96–494 provided that: “Subsection (a) of this section \[amending this section\] shall become effective October 1, 1980, and any producers who, prior to such date, receive loans on the 1980 cropof the commodity as computed under the Agricultural Act of 1949, as \[see Short Title note set out under section 1421 of this title\] amended prior to the enactment of this Act \[see Short Title note set out under section 4001 of this title\], may elect after September 30, 1980, to receive loans as authorized under subsection (a) of this section.”
 
 Amendment by sections 204 and 205 of Pub. L. 96–494 effective Dec. 3, 1980, see section 213 of Pub. L. 96–494, set out as an Effective Date note under section 4001 of this title.
 

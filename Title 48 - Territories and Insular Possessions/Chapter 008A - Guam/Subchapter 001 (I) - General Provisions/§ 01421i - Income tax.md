@@ -2,7 +2,7 @@
 
 #### (a) Applicability of Federal laws; separate tax
 
-The income-tax laws in force in the United States of America and those which may hereafter be enacted shall be held to be likewise in force in Guam: <i>Provided</i>, That notwithstanding any other provision of law, the Legislature of Guam may levy a separate tax on all taxpayers in an amount not to exceed 10 per centum of their annual income tax obligation to the Government of Guam.
+The income-tax laws in force in the United States of America and those which may hereafter be enacted shall be held to be likewise in force in Guam: <i>Provided</i>, That notwithstanding any other provision of law, the Legislature of Guam may levy a separate tax on all taxpayers in an amount not to exceed 10 per centum oftheir annual income tax obligation to the Government of Guam.
 
 #### (b) Guam Territorial income tax
 
@@ -24,7 +24,7 @@ In applying as the Guam Territorial income tax the income-tax laws in force in G
 
 #### (f) Criminal offenses; prosecution
 
-Any act or failure to act with respect to the Guam Territorial income tax which constitutes a criminal offense under chapter 75 of subtitle F of the Internal Revenue Code of 1986 \[26 U.S.C. 7201 et seq.\], or the corresponding provisions of the Internal Revenue Code of 1939, as included inthe income-tax laws in force in Guam pursuant to subsection (a) of this section, shall be an offense against the government of Guam and may be prosecuted in the name of the government of Guam by the appropriate officers thereof.
+Any act or failure to act with respect to the Guam Territorial income tax which constitutes a criminal offense under chapter 75 of subtitle F of the Internal Revenue Code of 1986 \[26 U.S.C. 7201 et seq.\], or the corresponding provisions of the Internal Revenue Code of 1939, as included in the income-tax laws in force in Guam pursuant to subsection (a) of this section, shall be an offense against the government of Guam and may be prosecuted in the name of the government of Guam by the appropriate officers thereof.
 
 #### (g) Liens
 
@@ -87,10 +87,4 @@ See section 1271 of Pub. L. 99–514, set out as a note under section 931 of Tit
 #### Ratification of Assessments and Collections Made Before August 20, 1958
 
 Section 2 of Pub. L. 85–688 provided that income taxes assessed prior to Aug. 20, 1958, by the authorities of the government of Guam pursuant to, or under color of, this section, the collection of such taxes, and all acts done to effectuate such assessment and collection were legalized, ratified and confirmed as fully, to all intents and purposes, as if subsecs. (b) to (h) of this section, had then been in full force and effect.
-
-#### Cross References
-
-All provisions of laws of the United States applicable to assessment and collection of taxes imposed by Internal Revenue Code as applicable to possessions, see section 7651 of Title 26, Internal Revenue Code.
-
-Articles, goods, wares, or merchandise going into Guam as exempt from payment of any tax imposed by the internal revenue laws of the United States, see section 7653 of Title 26.
 

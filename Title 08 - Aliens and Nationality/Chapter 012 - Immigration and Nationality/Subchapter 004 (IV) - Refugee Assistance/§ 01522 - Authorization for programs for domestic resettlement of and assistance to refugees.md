@@ -788,10 +788,6 @@ The Secretary of Defense is authorized and directed to publish this determinatio
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Cross References
-
-Reimbursement of States for costs of incarcerating illegal aliens and certain Cuban nationals, see section 1365 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1523 of this title; title 42 sections 1382, 1396v.

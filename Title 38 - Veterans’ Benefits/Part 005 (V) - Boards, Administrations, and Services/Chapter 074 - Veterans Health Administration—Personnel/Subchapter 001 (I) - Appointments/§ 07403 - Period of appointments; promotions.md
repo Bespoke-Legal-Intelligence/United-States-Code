@@ -20,7 +20,7 @@
 
 (b)(1) Appointments described in subsection (a) shall be for a probationary period of two years.
 
-(2) The record of each person serving under such an appointment in the Medical, Dental, and Nursing Services shall be reviewed from time to time by a board, appointed in accordance with regulations of the Secretary. If such a board finds that such person is not fully qualified andsatisfactory, such person shall be separated from the service.
+(2) The record of each person serving under such an appointment in the Medical, Dental, and Nursing Services shall be reviewed from time to time by a board, appointed in accordance with regulations of the Secretary. If such a board finds that such person is not fully qualified and satisfactory, such person shall be separated from the service.
 
 (c) Promotions of persons to whom this section applies shall be made only after examination given in accordance with regulations prescribed by the Secretary. Advancement within grade may be made in increments of the minimum rate of basic pay of the grade in accordance with regulations prescribed by the Secretary.
 

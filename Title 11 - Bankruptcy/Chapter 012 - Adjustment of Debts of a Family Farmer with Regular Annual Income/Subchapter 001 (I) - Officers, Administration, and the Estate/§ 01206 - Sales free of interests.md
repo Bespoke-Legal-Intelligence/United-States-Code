@@ -10,7 +10,7 @@ After notice and a hearing, in addition to the authorization contained in sectio
 
 #### Codification
 
-Section repealed effective Oct. 1, 1998, by Pub. L. 99–554, title III, §302(f), Oct. 27, 1986, 100 Stat. 3124, as amended by Pub. L. 103–65, §1, Aug. 6, 1993, 107 Stat. 311. Section, as in effect on Sept. 30, 1998, reenacted by Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610, for the period beginning on Oct. 1, 1998, and ending on Apr. 1, 1999. Pub. L. 105–277, §149(a), as subsequently amended by Pub. L. 106–5 and Pub. L. 106–70, provided that this section, as in effect on Sept. 30, 1999, is reenacted for the period beginning on Oct. 1, 1999, and ending on July 1, 2000. See Repeal, Reenactment, and Termination of Chapter note set out under section 1201 of this title.
+For repeal of section effective Oct. 1, 1998, and subsequent reenactment of section for specific periods, see note set out preceding section 1201 of this title.
 
 #### Section Referred to in Other Sections
 

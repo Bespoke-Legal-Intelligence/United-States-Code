@@ -20,7 +20,7 @@ Matters To Be Included.—In each report under subsection (a) or (b), the Secret
 
 &emsp;&emsp;(C) the net amount of transfers into, or out of, funds available for that activity.
 
-&emsp;(2) A detailed explanation of the transfers into, and out of, funds available for that activity during the period covered by the report.
+&emsp;(2) A detailed explanation of the transfers into, and out of, funds available for that activity during the period covered by the report, including identification of the sources from which funds were transferred into that activity and identification of the recipients of the funds transferred out of that activity.
 
 (d)
 
@@ -84,15 +84,21 @@ Covered Budget Activity Defined.—In this section, the term “covered budget a
 
 &emsp;&emsp;(F) Maintenance of Real Property.
 
+&emsp;&emsp;(G) Combat Enhancement Forces.
+
+&emsp;&emsp;(H) Combat Communications.
+
 &emsp;(6) The Mobility Operations budget activity group (known as a “subactivity”) within the Mobilization budget activity of the annual Operation and Maintenance, Air Force, appropriation that is designated as Airlift Operations.
 
-(e)
-
-Termination.—The requirements specified in subsections (a) and (b) shall terminate upon the submission of the annual report under subsection (a) covering fiscal year 2000.
-
-(Added Pub. L. 105–85, div. A, title III, §323(a), Nov. 18, 1997, 111 Stat. 1675; amended Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774.)
+(Added Pub. L. 105–85, div. A, title III, §323(a), Nov. 18, 1997, 111 Stat. 1675; amended Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, §1 \[\[div. A\], title III, §372\], Oct. 30, 2000, 114 Stat. 1654, 1654A–80.)
 
 #### Amendments
+
+2000—Subsec. (c)(2). Pub. L. 106–398, §1 \[\[div. A\], title III, §372(b)\], inserted before period “, including identification of the sources from which funds were transferred into that activity and identification of the recipients of the funds transferred out of that activity”.
+
+Subsec. (d)(5)(G), (H). Pub. L. 106–398, §1 \[\[div. A\], title III, §372(c)\], added subpars. (G) and (H).
+
+Subsec. (e). Pub. L. 106–398, §1 \[\[div. A\], title III, §372(a)\], struck out heading and text of subsec. (e). Text read as follows: “The requirements specified in subsections (a) and (b) shall terminate upon the submission of the annual report under subsection (a) covering fiscal year 2000.”
 
 1999—Subsec. (a). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 

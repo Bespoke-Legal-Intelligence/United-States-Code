@@ -8,7 +8,7 @@
 
 #### (b) Administration
 
-The Secretary of Agriculture shall administer the recreation management area in accordancewith this section and the laws and regulations generally applicable to the National Forest System.
+The Secretary of Agriculture shall administer the recreation management area in accordance with this section and the laws and regulations generally applicable to the National Forest System.
 
 #### (c) Withdrawal
 
@@ -36,13 +36,15 @@ Motorized travel shall be permitted within the recreation management area only o
 
 The public land laws, referred to in subsec. (c), are classified generally to Title 43, Public Lands.
 
-The mining laws, referred to in subsec. (c), are classified generally to Title 30, Mineral Lands and Mining.
-
-Mineral leasing laws, referred to in subsec. (c), have been defined in sections 351, 505, 530, and 541e of Title 30, to mean acts Oct. 20, 1914, ch. 330, 38 Stat. 741; Feb. 25, 1920, ch. 85, 41 Stat. 437; Apr. 17, 1926, ch. 158, 44 Stat. 301; and Feb. 7, 1927, ch. 66, 44 Stat. 1057. The act of Oct. 20, 1914, was repealed by Pub. L. 86–252, §1, Sept. 9, 1959, 73 Stat. 490. The act of Feb. 25, 1920, is known as the Mineral Leasing Act and is classified generally to chapter 3A (§181 et seq.) of Title 30. The act of Apr. 17, 1926, is classified generally to subchapter VIII (§271 et seq.) of chapter 3A of Title 30. The act of Feb. 7, 1927, is classified principally to subchapter IX (§281 et seq.) of chapter 3A of Title 30. For complete classification of these Acts to the Code, see Tables.
+The mining laws and the mineral leasing laws, referred to in subsec. (c), are classified generally to Title 30, Mineral Lands and Mining.
 
 Geothermal leasing laws, referred to in subsec. (c), are classified principally to chapter 23 (§1001 et seq.) of Title 30.
 
 #### Short Title
 
 Section 1(a) of Pub. L. 103–77 provided that: “This Act \[enacting this section and section 539j of this title, enacting provisions set out as a note under section 539j of this title, and enacting and amending provisions listed in a table of Wilderness Areas set out under section 1132 of this title\] may be cited as the ‘Colorado Wilderness Act of 1993’.”
+
+#### Act Referred to in Other Sections
+
+The Colorado Wilderness Act of 1993 is referred to in sections 410hhh–3, 410hhh–5 of this title.
 

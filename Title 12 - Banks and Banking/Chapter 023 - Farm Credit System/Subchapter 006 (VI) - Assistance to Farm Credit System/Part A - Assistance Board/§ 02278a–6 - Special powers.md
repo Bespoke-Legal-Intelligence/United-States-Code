@@ -6,7 +6,7 @@ In the case of a System institution that requests certification under section 22
 
 &emsp;(1) require the institution to obtain approval from the Assistance Board before implementing business, operating, and investment plans and policies;
 
-&emsp;(2) if one or more of the conditions described in section 2183(b) of this title are met, as determined by the Farm Credit Administration, direct the Farm Credit Administration Board to appoint a conservator for the institution, inaccordance with such section, and to instruct the conservator to evaluate the operations of the institution and report to the Farm Credit Administration Board and the Assistance Board on the possibility of restoring the institution to sound financial condition;
+&emsp;(2) if one or more of the conditions described in section 2183(b) of this title are met, as determined by the Farm Credit Administration, direct the Farm Credit Administration Board to appoint a conservator for the institution, in accordance with such section, and to instruct the conservator to evaluate the operations of the institution and report to the Farm Credit Administration Board and the Assistance Board on the possibility of restoring the institution to sound financial condition;
 
 &emsp;(3) request that the Farm Credit Administration Board or the Farm Credit Administration, as appropriate—
 
@@ -76,7 +76,7 @@ Subsec. (b)(2). Pub. L. 100–399, §201(i), struck out “the appropriate provi
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, whichwas approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of this title.
+Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, which was approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of this title.
 
 #### Section Referred to in Other Sections
 

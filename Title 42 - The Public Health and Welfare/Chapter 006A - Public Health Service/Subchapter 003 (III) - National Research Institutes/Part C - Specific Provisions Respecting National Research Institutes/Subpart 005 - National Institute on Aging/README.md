@@ -16,4 +16,5 @@ subpart 5—national institute on aging
 - [&sect; 00285e&#8211;8 - Dissemination project](%C2%A7%2000285e%E2%80%938%20-%20Dissemination%20project.md)
 - [&sect; 00285e&#8211;9 - Alzheimer's disease registry](%C2%A7%2000285e%E2%80%939%20-%20Alzheimer%27s%20disease%20registry.md)
 - [&sect; 00285e&#8211;10 - Aging processes regarding women](%C2%A7%2000285e%E2%80%9310%20-%20Aging%20processes%20regarding%20women.md)
+- [&sect; 00285e&#8211;10a - Alzheimer's clinical research and training awards](%C2%A7%2000285e%E2%80%9310a%20-%20Alzheimer%27s%20clinical%20research%20and%20training%20awards.md)
 - [&sect; 00285e&#8211;11 - Authorization of appropriations](%C2%A7%2000285e%E2%80%9311%20-%20Authorization%20of%20appropriations.md)

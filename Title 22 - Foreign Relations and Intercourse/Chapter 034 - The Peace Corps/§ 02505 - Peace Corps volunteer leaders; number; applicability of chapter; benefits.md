@@ -1,6 +1,6 @@
 ### §2505. Peace Corps volunteer leaders; number; applicability of chapter; benefits
 
-The President may enroll in the Peace Corps qualified citizens or nationals of the United States whose services are required for supervisory or other special duties or responsibilities in connection with programs under this chapter (referred to in this chapter as “volunteer leaders”). The ratio of the total number of volunteer leaders to the total number of volunteers in service at any one time shall not exceed one to twenty-five. Except as otherwise provided in this chapter, all of the provisions of this chapter applicable to volunteers shall be applicable to volunteer leaders, and the term “volunteers”shall include “volunteer leaders”: <i>Provided, however</i>, That—
+The President may enroll in the Peace Corps qualified citizens or nationals of the United States whose services are required for supervisory or other special duties or responsibilities in connection with programs under this chapter (referred to in this chapter as “volunteer leaders”). The ratio of the total number of volunteer leaders to the total number of volunteers in service at any one time shall not exceed one to twenty-five. Except as otherwise provided in this chapter, all of the provisions of this chapter applicable to volunteers shall be applicable to volunteer leaders, and the term “volunteers” shall include “volunteer leaders”: <i>Provided, however</i>, That—
 
 &emsp;(1) volunteer leaders shall be entitled to receive a readjustment allowance at a rate not less than $125 for each month of satisfactory service as determined by the President;
 
@@ -32,7 +32,7 @@ Section 1(b) of Pub. L. 97–387 provided that: “This amendment \[amending thi
 
 #### Delegation of Functions
 
-Functions of President under this section delegated to Director of Peace Corps with functions relating to providing health care in government facilities under clause (3) to be exercised in consultation with head of agency responsible for facility by sections 1–103 and 1–106 of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, eff. May 16, 1979, set out as a note under section 2501 of this title.
+Functions of President under this section delegated to Director of Peace Corps with functions relating to providing health care in government facilities under clause (3) to be exercised in consultation with head ofagency responsible for facility by sections 1–103 and 1–106 of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, eff. May 16, 1979, set out as a note under section 2501 of this title.
 
 #### Appointment to Civilian Career Services
 

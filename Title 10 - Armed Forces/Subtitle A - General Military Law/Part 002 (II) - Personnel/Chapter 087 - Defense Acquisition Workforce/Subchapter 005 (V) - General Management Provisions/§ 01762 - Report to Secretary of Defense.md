@@ -24,7 +24,7 @@ Information.—The following information shall be included in the report transmi
 
 &emsp;(C) If the promotion rates fail to meet the objective of section 1731(b) of this title, the Secretary of Defense shall notify Congress of such failures and of what actions the Secretary has taken or plans to take in reaction to such failures.
 
-&emsp;(5) The number of employees who met the requirement of section 1724(a)(3) or section 1724(b) of this title by passing an exam as described in section 1724(a)(3)(C), set forth separately for contracting officers and persons in the GS–1102 occupational series.
+&emsp;(5) The number of employees who met the requirement of section 1724(a)(3) or section 1724(b) of this title by passing an exam as described in section 1724(a)(3)(C),<sup>1</sup> set forth separately for contracting officers and persons in the GS–1102 occupational series.
 
 &emsp;(6) The number of employees to whom the requirements of subsections (b)(2)(A) and (b)(2)(B) of section 1732 of this title did not apply because of the exceptions provided in paragraphs (1) and (2) of section 1732(c) of this title, set forth separately by type of exception.
 
@@ -40,7 +40,7 @@ Information.—The following information shall be included in the report transmi
 
 &emsp;(12) The number of persons participating in each of the programs described in sections 1742 through 1745 of this title, as of December 1 of the period covered by the report.
 
-&emsp;(13) The number of persons paid a bonus under section 317 of title 37 and the number of years of service agreed to, for each such bonus, by category.
+&emsp;(13) The number of persons paid a bonus under section 317 of title 37 and the number ofyears of service agreed to, for each such bonus, by category.
 
 &emsp;(14) Such other information and comparative data as the Secretary of Defense considers appropriate to demonstrate the performance of the Department of Defense and the performance of each military department in carrying out this chapter.
 
@@ -49,6 +49,10 @@ Information.—The following information shall be included in the report transmi
 Effective Date.—The requirements of this section shall apply to the years 1991 through 1998.
 
 (Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1654; amended Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 106–65, div. A, title IX, §911(a)(1), Oct. 5, 1999, 113 Stat. 717.)
+
+#### References in Text
+
+Section 1724(a)(3) of this title, referred to in subsec. (c)(5), was amended by Pub. L. 106–398, §1 \[\[div. A\], title VIII, §808(b)(1)(B)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–208, and, as so amended, no longer contains a subpar. (C).
 
 #### Amendments
 
@@ -63,4 +67,6 @@ Section 1209(j) of Pub. L. 101–510 provided that: “Each of the first three a
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1761 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

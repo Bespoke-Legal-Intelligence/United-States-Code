@@ -34,7 +34,7 @@ Findings.—Congress finds that—
 
 &emsp;“(5) the corridor located within the 100-year floodplain includes the area of national concern;
 
-&emsp;“(6) since establishment of the Chattahoochee River National Recreation Area, visitor use of therecreation area has shifted dramatically from waterborne to water-related and land-based activities;
+&emsp;“(6) since establishment of the Chattahoochee River National Recreation Area, visitor use of the recreation area has shifted dramatically from waterborne to water-related and land-based activities;
 
 &emsp;“(7) the State of Georgia and political subdivisions of the State along the Chattahoochee River have indicated willingness to join in a cooperative effort with the United States to link existing units of the recreation area through a series of linear corridors to be established within the area of national concern and elsewhere on the river; and
 

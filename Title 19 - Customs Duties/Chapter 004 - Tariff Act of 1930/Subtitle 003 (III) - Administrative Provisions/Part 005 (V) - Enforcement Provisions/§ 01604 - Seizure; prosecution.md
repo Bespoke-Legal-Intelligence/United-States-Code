@@ -6,7 +6,7 @@ It shall be the duty of the Attorney General of the United States immediately to
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §604, 42Stat. 984. That section was superseded by section 604 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §604, 42 Stat. 984. That section was superseded by section 604 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 Prior provisions substantially similar in effect, with a further provision for an allowance for expenses and services, were contained in R.S. §3085. Provisions requiring district attorneys to cause investigations to be made before a United States commissioner and to initiate and prosecute proper proceedings to recover fines and penalties were contained in act June 22, 1874, ch. 391, §15, 18 Stat. 189. Both of these sections were repealed by act Sept. 21, 1922, ch. 356, title IV, §§642, 643, 42 Stat. 989.
 
@@ -25,10 +25,6 @@ Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respec
 #### Effective Date of 1970 Amendment
 
 For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 91–271, set out as a note under section 1500 of this title.
-
-#### Cross References
-
-Limitations of suits for recovery of penalties and forfeitures, see section 1621 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -12,7 +12,3 @@
 
 (Pub. L. 92–578, §9, Oct. 27, 1972, 86 Stat. 1273.)
 
-#### References in Text
-
-Section 428 of title 5 of the District of Columbia Code, referred to in subsec. (b), was transferred to section 5–432 of Title 5, Building Restrictions and Regulations, of the District of Columbia Code.
-

@@ -26,7 +26,7 @@ Each recipient of a grant provided under this chapter shall submit to the Secret
 
 &emsp;&emsp;(I) The school is certified or accredited by a State or regional accrediting association as recognized by the Secretary of Education, or is a candidate in good standing for such accreditation under the rules of the State or regional accrediting association, showing that credits achieved by students within the education programs are, or will be, accepted at grade level by a State certified or regionally accredited institution.
 
-&emsp;&emsp;(II) A determination made by the Secretary that there is a reasonable expectation that the accreditation described in subclause (I), or the candidacy in good standing for such accreditation, will be reached by the school within 3 years and that the program offered by the school is beneficial to the Indian students.
+&emsp;&emsp;(II) A determination made by the Secretary that there is a reasonable expectation that the accreditation described in subclause (I), or the candidacy in good standing for such accreditation, will be reached by theschool within 3 years and that the program offered by the school is beneficial to the Indian students.
 
 &emsp;&emsp;(III) The school is accredited by a tribal department of education if such accreditation is accepted by a generally recognized regional or State accreditation agency.
 

@@ -38,7 +38,7 @@ The Secretary is authorized—
 
 &emsp;&emsp;&emsp;(iii) leadership training for women and girls to develop professional and marketable skills to compete in the global marketplace, improve self-esteem, and benefit from exposure to positive role models;
 
-&emsp;&emsp;&emsp;(iv) school-to-work transition programs, guidance and counseling activities, and other programs to increase opportunities for women and girls to enter a technologically demanding workplace and, in particular, to enter highly skilled, high paying careers in which women and girls have been underrepresented;
+&emsp;&emsp;&emsp;(iv) school-to-work transition programs, guidance and counseling activities, and other programs to increase opportunities for women and girls to enter a technologically demanding workplace and, inparticular, to enter highly skilled, high paying careers in which women and girls have been underrepresented;
 
 &emsp;&emsp;&emsp;(v) enhancing educational and career opportunities for those women and girls who suffer multiple forms of discrimination, based on sex and on race, ethnic origin, limited-English proficiency, disability, socioeconomic status, or age;
 
@@ -48,7 +48,7 @@ The Secretary is authorized—
 
 &emsp;&emsp;&emsp;(viii) introduction into the classroom of textbooks, curricula, and other materials designed to achieve equity for women and girls;
 
-&emsp;&emsp;&emsp;(ix) programs and policies to address sexual harassment and violence againstwomen and girls and to ensure that educational institutions are free from threats to the safety of students and personnel;
+&emsp;&emsp;&emsp;(ix) programs and policies to address sexual harassment and violence against women and girls and to ensure that educational institutions are free from threats to the safety of students and personnel;
 
 &emsp;&emsp;&emsp;(x) nondiscriminatory tests of aptitude and achievement and of alternative assessments that eliminate biased assessment instruments from use;
 

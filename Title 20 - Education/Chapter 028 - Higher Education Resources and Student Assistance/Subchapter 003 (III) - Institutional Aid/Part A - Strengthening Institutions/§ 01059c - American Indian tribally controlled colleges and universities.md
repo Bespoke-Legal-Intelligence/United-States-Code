@@ -84,17 +84,27 @@ In this section:
 
 #### (2) Application
 
-&emsp;Any Tribal College or University desiring to receive assistance under this section shall submit an application to the Secretary at such time, and in such manner, as the Secretary may by regulation reasonably require. Each such application shall include—
+&emsp;Any Tribal College or University desiring to receive assistance under this section shall submit an application to the Secretary at such time, and in such manner, as the Secretary may by regulation reasonably require. The Secretary shall, to the extent possible, prescribe a simplified and streamlined format for such applications that takes into account the limited number of institutions that are eligible for assistance under this section. Each such application shall include—
 
 &emsp;&emsp;(A) a 5-year plan for improving the assistance provided by the Tribal College or University to Indian students, increasing the rates at which Indian secondary school students enroll in higher education, and increasing overall postsecondary retention rates for Indian students; and
 
 &emsp;&emsp;(B) such enrollment data and other information and assurances as the Secretary may require to demonstrate compliance with paragraph (1).
 
-#### (3) Special rule
+#### (3) Special rules
 
-&emsp;For the purposes of this part, no Tribal College or University that is eligible for and receives funds under this section may concurrently receive other funds under this part or part B of this subchapter.
+#### (A) Eligibility
 
-(Pub. L. 89–329, title III, §316, as added Pub. L. 102–325, title III, §302(d)(1), July 23, 1992, 106 Stat. 473; amended Pub. L. 103–208, §2(a)(7), Dec. 20, 1993, 107 Stat. 2457; Pub. L. 105–244, title III, §303(e), Oct. 7, 1998, 112 Stat. 1639.)
+&emsp;&emsp;No Tribal College or University that receives funds under this section shall concurrently receive funds under other provisions of this part or part B of this subchapter.
+
+#### (B) Exemption
+
+&emsp;&emsp;Section 1059(d) of this title shall not apply to institutions that are eligible to receive funds under this section.
+
+#### (C) Distribution
+
+&emsp;&emsp;In awarding grants under this section, the Secretary shall, to the extent possible and consistent with the competitive process under which such grants are awarded, ensure maximum and equitable distribution among all eligible institutions.
+
+(Pub. L. 89–329, title III, §316, as added Pub. L. 102–325, title III, §302(d)(1), July 23, 1992, 106 Stat. 473; amended Pub. L. 103–208, §2(a)(7), Dec. 20, 1993, 107 Stat. 2457; Pub. L. 105–244, title III, §303(e), Oct. 7, 1998, 112 Stat. 1639; Pub. L. 106–211, §1(a), (b)(1), May 26, 2000, 114 Stat. 330.)
 
 #### References in Text
 
@@ -102,11 +112,19 @@ The Equity in Educational Land Grant Status Act of 1994, referred to in subsec. 
 
 #### Amendments
 
+2000—Subsec. (d)(2). Pub. L. 106–211, §1(a), inserted after first sentence “The Secretary shall, to the extent possible, prescribe a simplified and streamlined format for such applications that takes into account the limited number of institutions that are eligible for assistance under this section.”
+
+Subsec. (d)(3). Pub. L. 106–211, §1(b)(1), added par. (3) and struck out heading and text of former par. (3). Text read as follows: “For the purposes of this part, no Tribal College or University that is eligible for and receives funds under this section may concurrently receive other funds under this part or part B of this subchapter.”
+
 1998—Pub. L. 105–244 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) to (e) authorizing grants and related assistance to Hispanic-serving institutions to enable such institutions to improve and expand their capacity to serve Hispanic and other low-income students.
 
 1993—Subsec. (c). Pub. L. 103–208 substituted “(2)
 
 Examples of authorized activities.—Such programs may include—” for “Such programs may include—”.
+
+#### Effective Date of 2000 Amendment
+
+Pub. L. 106–211, §1(c), May 26, 2000, 114 Stat. 331, provided that: “The amendments made by this Act \[amending this section and section 1059d of this title\] shall be effective on the date of the enactment of this Act \[May 26, 2000\].”
 
 #### Effective Date of 1998 Amendment
 

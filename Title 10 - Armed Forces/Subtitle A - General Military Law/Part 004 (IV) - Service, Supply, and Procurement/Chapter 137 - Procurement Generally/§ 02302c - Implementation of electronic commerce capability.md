@@ -12,7 +12,7 @@ Implementation of Electronic Commerce Capability.—(1) The head of each agency 
 
 Designation of Agency Official.—The head of each agency named in paragraph (5) or (6) of section 2303(a) of this title shall designate a program manager to implement the electronic commerce capability for that agency. The program manager shall report directly to an official at a level not lower than the senior procurement executive designated for the agency under section 16(3) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(3)).
 
-(Added Pub. L. 103–355, title IX, §9002(a), Oct. 13, 1994, 108 Stat. 3402; amended Pub. L. 105–85, div. A, title VIII, §850(f)(3)(A), Nov. 18, 1997, 111 Stat. 1850; Pub. L. 105–129, §1(a)(1), Dec. 1, 1997, 111 Stat. 2551; Pub. L. 106–65, div. A, title IX,§911(a)(1), title X, §1066(a)(18), Oct. 5, 1999, 113 Stat. 717, 771.)
+(Added Pub. L. 103–355, title IX, §9002(a), Oct. 13, 1994, 108 Stat. 3402; amended Pub. L. 105–85, div. A, title VIII, §850(f)(3)(A), Nov. 18, 1997, 111 Stat. 1850; Pub. L. 105–129, §1(a)(1), Dec. 1, 1997, 111 Stat. 2551; Pub. L. 106–65, div. A, title IX, §911(a)(1), title X, §1066(a)(18), Oct. 5, 1999, 113 Stat. 717, 771.)
 
 #### Amendments
 

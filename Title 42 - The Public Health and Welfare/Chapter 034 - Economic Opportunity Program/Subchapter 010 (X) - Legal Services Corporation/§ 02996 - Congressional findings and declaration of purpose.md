@@ -32,5 +32,5 @@ Section 1 of Pub. L. 95–222 provided that: “This Act \[amending this section
 
 Pub. L. 93–355, §1, July 25, 1974, 88 Stat. 378, provided: “That this Act \[enacting this subchapter and section 2971e of this title, amending section 2809 of this title, and enacting provisions set out as notes under this section and sections 2809 and 2996b of this title\] may be cited as the ‘Legal Services Corporation Act of 1974’.”
 
-Pub. L. 88–452, title X, §1014, as added by Pub. L. 93–355, §2, July 25, 1974, 88 Stat. 378, provided that: “This title \[enacting this subchapter\] may be cited as the ‘Legal Services Corporation Act’.”
+Pub. L. 88–452, title X, §1014, as added by Pub. L. 93–355, §2, July 25, 1974, 88 Stat. 389, provided that: “This title \[enacting this subchapter\] may be cited as the ‘Legal Services Corporation Act’.”
 

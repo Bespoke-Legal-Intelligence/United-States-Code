@@ -15,10 +15,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Cross References
-
-Submerged lands, mineral rights generally, see section 1301 et seq. of Title 43, Public Lands.
-
 #### Chapter Referred to in Other Sections
 
 This chapter is referred to in sections 188, 192c, 541d, 1003, 1005 of this title; title 16 sections 90c–1, 283b, 460q–5, 460v–4, 460dd–2; title 33 section 701c–3.

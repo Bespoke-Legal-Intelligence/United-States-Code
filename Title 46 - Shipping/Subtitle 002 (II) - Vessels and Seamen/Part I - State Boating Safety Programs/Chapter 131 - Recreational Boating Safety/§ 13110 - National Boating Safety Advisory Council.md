@@ -8,7 +8,7 @@
 
 &emsp;(B) 7 representatives of recreational vessel manufacturers and associated equipment manufacturers; and
 
-&emsp;(C) 7 representatives of national recreational boating organizations and from the general public, at least 5 of whom shall be representatives of national recreational boating organizations.
+&emsp;(C) 7 representatives of national recreational boating organizations and from the generalpublic, at least 5 of whom shall be representatives of national recreational boating organizations.
 
 (2) Additional individuals from the sources referred to in paragraph (1) of this subsection may be appointed to panels of the Council to assist the Council in performing its duties.
 

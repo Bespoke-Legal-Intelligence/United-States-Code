@@ -76,7 +76,7 @@ The following are declared to be the national goals for the wind, photovoltaics,
 
 #### (b) Amended goals
 
-Whenever the Secretary determines that any of the goals established under this section is no longer appropriate, the Secretary shall notify Congress, as part of a report submitted under section 12006 of this title, of the reason for the determination and provide an amended goal that is consistent with the purpose stated in section 12001(b) of this title.
+Whenever the Secretary determines that any of the goals established under this section is no longer appropriate, the Secretary shall notifyCongress, as part of a report submitted under section 12006 of this title, of the reason for the determination and provide an amended goal that is consistent with the purpose stated in section 12001(b) of this title.
 
 #### (c) Authorizations
 

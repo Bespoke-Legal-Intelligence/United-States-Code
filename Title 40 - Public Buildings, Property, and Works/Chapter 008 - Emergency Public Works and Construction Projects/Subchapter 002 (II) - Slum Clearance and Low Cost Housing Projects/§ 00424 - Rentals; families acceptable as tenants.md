@@ -10,7 +10,7 @@
 
 Functions of Federal Works Agency and of all agencies thereof, together with functions of Federal Works Administrator transferred to Administrator of General Services by section 103(a) of act June 30, 1949, which is classified to section 753(a) of this title. Federal Works Agency and office of Federal Works Administrator abolished by section 103(b) of act June 30, 1949.
 
-Federal Emergency Administration of Public Works consolidated into Federal Works Agency to be administered as Public Works Administration by Reorg. Plan No. I of 1939. Functions of Public Works Administration and Commissioner of Public Works Agency transferred to Federal Works Administrator by Ex. Ord. No. 9357.
+Federal Emergency Administration of Public Works consolidated into Federal Works Agency to be administered as Public Works Administration by Reorg. Plan No. I of 1939. Functions of Public Works Administrationand Commissioner of Public Works Agency transferred to Federal Works Administrator by Ex. Ord. No. 9357.
 
 #### Effective Date of Transfer of Functions
 

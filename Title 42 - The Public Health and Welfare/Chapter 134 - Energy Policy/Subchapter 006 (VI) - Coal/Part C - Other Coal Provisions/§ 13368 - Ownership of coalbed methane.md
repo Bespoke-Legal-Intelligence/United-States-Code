@@ -30,7 +30,7 @@ In implementing this section, the Secretary of the Interior, with the participat
 
 &emsp;(B) preserve the mineability of coal seams, and
 
-&emsp;(C) provide for the prevention of waste and maximization of recovery of coal and coalbed methane gas in a manner which will protect the rights of all entities owning an interest in such coalbed methane resource.
+&emsp;(C) provide for the prevention of waste and maximization of recovery of coal and coalbedmethane gas in a manner which will protect the rights of all entities owning an interest in such coalbed methane resource.
 
 #### (e) Spacing
 
@@ -78,7 +78,7 @@ No entity may drill any well for the production of coalbed methane gas from a co
 
 #### (j) Authorization to stimulate coal seam
 
-(1) No operator of a coalbed methane well may stimulate a coal seam without the written consent of each entity which, at the time that the coalbed methane operator applies for a drilling permit, is operating a coal mine, or has by virtue of his property rights in the coal the ability to operate a coal mine, located within a horizontal or vertical distance from the point ofstimulation as established by the Secretary of the Interior pursuant to paragraph (3) of this subsection. In seeking the coal operator's consent, a coalbed methane well operator shall provide the coal operator with necessary information about such stimulation, including relevant information to ensure compliance with coal mine safety laws and rules.
+(1) No operator of a coalbed methane well may stimulate a coal seam without the written consent of each entity which, at the time that the coalbed methane operator applies for a drilling permit, is operating a coal mine, or has by virtue of his property rights in the coal the ability to operate a coal mine, located within a horizontal or vertical distance from the point of stimulation as established by the Secretary of the Interior pursuant to paragraph (3) of this subsection. In seeking the coal operator's consent, a coalbed methane well operator shall provide the coal operator with necessary information about such stimulation, including relevant information to ensure compliance with coal mine safety laws and rules.
 
 (2) In the absence of a written consent pursuant to paragraph (1) and at the request of a coalbed methane operator, the Secretary of the Interior shall make a determination regarding stimulation of a coal seam. Such request shall include an affidavit which shall—
 

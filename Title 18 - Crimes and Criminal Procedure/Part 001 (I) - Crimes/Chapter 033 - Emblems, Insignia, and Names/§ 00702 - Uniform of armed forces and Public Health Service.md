@@ -36,9 +36,3 @@ Secretary of Health, Education, and Welfare redesignated Secretary of Health and
 
 Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out in the Appendix to Title 5, Government Organization and Employees.
 
-#### Cross References
-
-Authority to wear uniform of officers or enlisted men of armed forces, see section 771 et seq. of Title 10, Armed Forces.
-
-Wearing of uniforms and insignia of Public Health Service, see section 238g of Title 42, The Public Health and Welfare.
-

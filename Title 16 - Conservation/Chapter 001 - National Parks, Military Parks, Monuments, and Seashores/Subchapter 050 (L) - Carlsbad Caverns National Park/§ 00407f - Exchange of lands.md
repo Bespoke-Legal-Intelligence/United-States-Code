@@ -14,7 +14,7 @@ Township 24 south, range 25 east: section 32.
 
 Township 25 south, range 24 east: lots 1, 2, 3, and 4, south half north half, southwest quarter section 2.
 
-Township 26 south, range 22 east: south half section 2, the Secretary of the Interior may, subject to such terms, conditions, and reservations as may be necessary or are in the public interest, including the reservation of surface rights-of-way across Federal lands situated in township 25 south, range 24 east, New Mexico principal meridian, for the construction of roadsand utility lines between park headquarters and Rattlesnake Springs, exchange the following described 2,719.80 acres of public land of approximately equal value:
+Township 26 south, range 22 east: south half section 2, the Secretary of the Interior may, subject to such terms, conditions, and reservations as may be necessary or are in the public interest, including the reservation of surface rights-of-way across Federal lands situated in township 25 south, range 24 east, New Mexico principal meridian, for the construction of roads and utility lines between park headquarters and Rattlesnake Springs, exchange the following described 2,719.80 acres of public land of approximately equal value:
 
 new mexico principal meridian, new mexico
 

@@ -10,24 +10,6 @@ No action shall be maintained to enforce any liability created under section 77k
 
 1934—Act June 6, 1934, substituted “one year” for “two years”, “three years” for “ten years”, and inserted “or under section 77<i>l</i>(2) of this title more than three years after the sale”.
 
-#### Federal Rules of Civil Procedure
-
-General rules of pleading, affirmative defenses, see rule 8, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-#### Cross References
-
-Damages from manipulation of security prices, see section 78i of this title.
-
-Liability for misleading statements under—
-
-&emsp;&emsp;Public Utility Holding Company Act of 1935, see section 79p of this title.
-
-&emsp;&emsp;Securities Exchange Act of 1934, see section 78r of this title.
-
-&emsp;&emsp;Trust Indenture Act of 1939, see section 77www of this title.
-
-Offer of securities deemed as of effective date of latest amendment to registration statement, see section 80a–24 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 80a–24 of this title.

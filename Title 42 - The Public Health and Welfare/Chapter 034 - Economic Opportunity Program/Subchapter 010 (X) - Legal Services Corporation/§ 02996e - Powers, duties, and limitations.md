@@ -74,7 +74,7 @@ If an action is commenced by the Corporation or by a recipient and a final order
 
 #### References in Text
 
-The District of Columbia Nonprofit Corporation Act, referred to in subsec. (a), is Pub. L. 87–569, Aug. 6, 1962, 76 Stat. 265, as amended, which appears in chapter 5 (§29–501 et seq.) of Title 29, Corporations, of the District of Columbia Code. Section 1005(<i>o</i>) of title 29 of the District of Columbia Code, referred to in subsec. (a), means section 5(<i>o</i>) of the District of Columbia Nonprofit Corporation Act which now appears in section 29–505(15) of such Title 29.
+The District of Columbia Nonprofit Corporation Act, referred to in subsec. (a), is Pub. L. 87–569, Aug. 6, 1962, 76 Stat. 265, as amended, which is not classified to the Code.
 
 #### Amendments
 

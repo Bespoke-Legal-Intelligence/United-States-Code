@@ -26,10 +26,6 @@ Minor changes were made in translation and phraseology.
 
 Section 53(b) of Pub. L. 99–646 provided that: “The amendment made by this section \[amending this section\] shall take effect 30 days after the enactment of this Act \[Nov. 10, 1986\].”
 
-#### Cross References
-
-Bureau of Prisons employees, power to arrest without warrant for violations of this section, see section 3050 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 3050 of this title.

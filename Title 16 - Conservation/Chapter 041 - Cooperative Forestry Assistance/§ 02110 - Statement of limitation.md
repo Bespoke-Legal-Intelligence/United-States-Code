@@ -2,7 +2,7 @@
 
 This chapter shall not authorize the Federal Government to regulate the use of private land or to deprive owners of land of their rights to property or to income from the sale of property, unless such property rights are voluntarily conveyed or limited by contract or other agreement. This chapter does not diminish in any way the rights and responsibilities of the States and political subdivisions of States.
 
-(Pub. L. 95–313, §14, formerly §11, July 1, 1978, 92 Stat. 374; renumbered §14 and amended Pub. L. 101–624, title XII, §§1215(1), 1221, Nov. 28, 1990, 104 Stat. 3525, 3540.)
+(Pub. L. 95–313, §14, formerly §11, July 1, 1978, 92 Stat. 374; renumbered §14 and amended Pub. L.101–624, title XII, §§1215(1), 1221, Nov. 28, 1990, 104 Stat. 3525, 3540.)
 
 #### Prior Provisions
 

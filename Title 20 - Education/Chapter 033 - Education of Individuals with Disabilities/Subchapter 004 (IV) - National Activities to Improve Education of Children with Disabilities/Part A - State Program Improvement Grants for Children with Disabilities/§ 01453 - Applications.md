@@ -56,7 +56,7 @@ Each State improvement plan shall—
 
 &emsp;&emsp;(B) is in effect for the period of the grant;
 
-&emsp;(2) describe how grant funds will be used in undertaking the systemic-change activities, and the amount and nature of funds from any other sources, including part B \[subchapter II\] funds retained for use at the State level under sections 1411(f) and 1419(d) of this title, that will be committed to the systemic-change activities;
+&emsp;(2) describe how grant funds will be used in undertaking the systemic-change activities, and the amount and nature of funds from any other sources, including part B \[subchapter II\] funds retained for use at the State level undersections 1411(f) and 1419(d) of this title, that will be committed to the systemic-change activities;
 
 &emsp;(3) describe the strategies the State will use to address the needs identified under subsection (b) of this section, including—
 

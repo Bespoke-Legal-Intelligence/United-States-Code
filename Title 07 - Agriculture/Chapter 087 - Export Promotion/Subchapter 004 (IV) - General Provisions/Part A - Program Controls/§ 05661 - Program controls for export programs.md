@@ -6,7 +6,7 @@ With respect to a commodity provided, or for which financing or a credit guarant
 
 #### (b) Diversion
 
-The unauthorized diversion of commodities under the programs authorized in sections 5621, 5622, and 5651 of this title is prohibited. The Commodity Credit Corporation shall establish procedures providing for the annual audit of a sufficient number of export transactions under such programs to ensure that the agricultural commodities that were the subject of such transactions arrived in the country of destination as provided in the sales agreement.
+The unauthorized diversion of commodities under the programs authorized in sections 5621, 5622, and 5651 of this title is prohibited. The Commodity Credit Corporation shall establish procedures providing for the annual audit of a sufficient number of export transactions under such programs to ensure that the agriculturalcommodities that were the subject of such transactions arrived in the country of destination as provided in the sales agreement.
 
 #### (c) Good faith
 

@@ -2,7 +2,7 @@
 
 #### (a) Petition for assumption of exclusive jurisdiction; approval by Secretary
 
-The Passamaquoddy Tribe or the Penobscot Nation may assume exclusive jurisdiction overIndian child custody proceedings pursuant to the Indian Child Welfare Act of 1978 (92 Stat. 3069) \[25 U.S.C. 1901 et seq.\]. Before the respective tribe or nation may assume such jurisdiction over Indian child custody proceedings, the respective tribe or nation shall present to the Secretary for approval a petition to assume such jurisdiction and the Secretary shall approve that petition in the manner prescribed by sections 108(a)–(c) of said Act \[25 U.S.C. 1918(a)–(c)\].
+The Passamaquoddy Tribe or the Penobscot Nation may assume exclusive jurisdiction over Indian child custody proceedings pursuant to the Indian Child Welfare Act of 1978 (92 Stat. 3069) \[25 U.S.C. 1901 et seq.\]. Before the respective tribe or nation may assume such jurisdiction over Indian child custody proceedings, the respective tribe or nation shall present to the Secretary for approval a petition to assume such jurisdiction and the Secretary shall approve that petition in the manner prescribed by sections 108(a)–(c) of said Act \[25 U.S.C. 1918(a)–(c)\].
 
 #### (b) Consideration and determination of petition by Secretary
 
@@ -14,7 +14,7 @@ Assumption or jurisdiction under this section shall not affect any action or pro
 
 #### (d) Reservations within section 1903(10) of this title
 
-For the purposes of this section, the Passamaquoddy Indian Reservation and the Penobscot Indian Reservation are “reservations” within section 4(10) of the Act \[25 U.S.C. 1903(10)\].
+For the purposes of this section, the Passamaquoddy Indian Reservation and the PenobscotIndian Reservation are “reservations” within section 4(10) of the Act \[25 U.S.C. 1903(10)\].
 
 #### (e) Indian tribe within section 1903(8) of this title; State jurisdiction over child welfare unaffected
 

@@ -14,7 +14,7 @@ The head of an executive agency authorized to carry out the pilot program may, u
 
 #### (c) Selection of projects
 
-The projects shall be selected by the Administrator, in consultation with the Administrator for the Office of Information and Regulatory Affairs.
+The projects shall be selected by the Administrator, in consultation with the Administratorfor the Office of Information and Regulatory Affairs.
 
 (Pub. L. 104–106, div. E, title LIII, §5311, Feb. 10, 1996, 110 Stat. 692.)
 

@@ -12,7 +12,7 @@ The Secretary of Defense may—
 
 Ex. Ord. 11545, July 9, 1970, 35 F.R. 11161, provided:
 
-By virtue of the authority vested in me as President of the United States and as Commander in Chief of theArmed Forces of the United States, it is ordered as follows:
+By virtue of the authority vested in me as President of the United States and as Commander in Chief of the Armed Forces of the United States, it is ordered as follows:
 
 Section 1. There is hereby established a Defense Distinguished Service Medal, with accompanying ribbons and appurtenances, for award by the Secretary of Defense to a military officer who performed exceptionally meritorious service in a duty of great responsibility with the Office of the Secretary of Defense, the Organization of the Joint Chiefs of Staff, a specified or unified command, a Defense agency, or such other joint activity as may be designated by the Secretary of Defense.
 

@@ -20,7 +20,7 @@ The level of price support for any commodity shall be determined upon the basis 
 
 (1) Whenever any price support or surplus removal operation for any agricultural commodity is carried out through purchases from or loans or payments to processors, the Secretary shall, to the extent practicable, obtain from the processors such assurances as he deems adequate that the producers of the agricultural commodity involved have received or will receive maximum benefits from the price support or surplus removal operation.
 
-(2)(A) If the assurances under paragraph (1) are not adequate to cause the producers of sugar beets and sugarcane, because of the bankruptcy or other insolvency of the processor, to receive maximum benefits from the price support program within 30 days after the final settlement date provided for in the contract between such producers and processor, the Secretary, on demand made by such producers and on such assurances as to nonpayment as the Secretary shall require, shall pay such producers suchmaximum benefits less benefits previously received by such producers.
+(2)(A) If the assurances under paragraph (1) are not adequate to cause the producers of sugar beets and sugarcane, because of the bankruptcy or other insolvency of the processor, to receive maximum benefits from the price support program within 30 days after the final settlement date provided for in the contract between such producers and processor, the Secretary, on demand made by such producers and on such assurances as to nonpayment as the Secretary shall require, shall pay such producers such maximum benefits less benefits previously received by such producers.
 
 (B) On such payment, the Secretary shall—
 
@@ -204,6 +204,24 @@ Section 1 of act Oct. 31, 1949, provided that: “This Act \[enacting this secti
 
 Section 414 of act Oct. 31, 1949, provided in part that: “any provision of law in conflict with the provisions of this Act \[see Short Title note set out above\] are hereby repealed.”
 
+#### Regulations
+
+Pub. L. 106–224, title II, §263, June 20, 2000, 114 Stat. 427, provided that:
+
+“(a)
+
+Promulgation.—As soon as practicable after the date of the enactment of this Act \[June 20, 2000\], the Secretary and the Commodity Credit Corporation, as appropriate, shall promulgate such regulations as are necessary to implement this title and the amendments made by this title \[see Tables for classification\]. The promulgation of the regulations and administration of this title shall be made without regard to—
+
+&emsp;“(1) the notice and comment provisions of section 553 of title 5, United States Code;
+
+&emsp;“(2) the Statement of Policy of the Secretary of Agriculture effective July 24, 1971 (36 Fed. Reg. 13804), relating to notices of proposed rulemaking and public participation in rulemaking; and
+
+&emsp;“(3) chapter 35 of title 44, United States Code (commonly known as the ‘Paperwork Reduction Act’).
+
+“(b)
+
+Congressional Review of Agency Rulemaking.—In carrying out this section, the Secretary shall use the authority provided under section 808 of title 5, United States Code.”
+
 #### Separability Provision for Pub. L. 101–624
 
 Pub. L. 101–624, title XXV, §2518, formerly §2519, Nov. 28, 1990, 104 Stat. 4078; renumbered §2518 by Pub. L. 104–66, title I, §1101(h), Dec. 21, 1995, 109 Stat. 710, provided that: “If any provision of this Act \[see Short Title of 1990 Amendment note above\] or the application thereof to any person or circumstance is held invalid, the invalidity shall not affect other provisions or applications of this Act which can be given effect without regard to the invalid provision or application, and to this end the provisions of this Act are severable.”
@@ -220,11 +238,454 @@ Functions of Corporations of Department of Agriculture, boards of directors and 
 
 Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(b)(1)(J) of this title.
 
+#### Crop and Pasture Flood Compensation Program
+
+Pub. L. 106–224, title II, §257(a)–(d), June 20, 2000, 114 Stat. 424, 425, provided that:
+
+“(a)
+
+Definition of Covered Land.—In this section:
+
+&emsp;“(1)
+
+In general.—The term ‘covered land’ means land that—
+
+&emsp;&emsp;“(A) was unusable for agricultural production during the 2000 crop year as the result of flooding;
+
+&emsp;&emsp;“(B) was used for agricultural production during at least one of the 1992 through 1999 crop years;
+
+&emsp;&emsp;“(C) is a contiguous parcel of land of at least 1 acre; and
+
+&emsp;&emsp;“(D) is located in a county in which producers were eligible for assistance under the 1998 Flood Compensation Program established under part 1439 of title 7, Code of Federal Regulations.
+
+&emsp;“(2)
+
+Exclusions.—The term ‘covered land’ excludes any land for which a producer is insured, enrolled, or assisted during the 2000 crop year under—
+
+&emsp;&emsp;“(A) a policy or plan of insurance authorized under the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.);
+
+&emsp;&emsp;“(B) the noninsured crop assistance program operated under section 196 of the Agricultural Market Transition Act (7 U.S.C. 7333);
+
+&emsp;&emsp;“(C) any crop disaster program established for the 2000 crop year;
+
+&emsp;&emsp;“(D) the conservation reserve program established under subchapter B of chapter 1 of subtitle D of the Food Security Act of 1985 (16 U.S.C. 3831 et seq.);
+
+&emsp;&emsp;“(E) the wetlands reserve program established under subchapter C of chapter 1 of subtitle D of the Food Security Act of 1985 (16 U.S.C. 3837 et seq.);
+
+&emsp;&emsp;“(F) any emergency watershed protection program or Federal easement program that prohibits crop production or grazing; or
+
+&emsp;&emsp;“(G) any other Federal or State water storage program, as determined by the Secretary.
+
+“(b)
+
+Compensation.—The Secretary shall use not more than $24,000,000 of funds of the Commodity Credit Corporation to compensate producers with covered land described with respect to losses from long-term flooding.
+
+“(c)
+
+Payment Rate.—The payment rate for compensation provided to a producer under this section shall equal the average county cash rental rate per acre established by the National Agricultural Statistics Service for the 2000 crop year.
+
+“(d)
+
+Payment Limitation.—The total amount of payments made to a person (as defined in section 1001(5) of the Food Security Act (7 U.S.C. 1308(5))) under this section may not exceed $40,000.”
+
+#### Restoration of Eligibility for Crop Loss Assistance
+
+Pub. L. 106–224, title II, §259, June 20, 2000, 114 Stat. 426, as amended by Pub. L. 106–472, title III, §315, Nov. 9, 2000, 114 Stat. 2081, provided that:
+
+“(a)
+
+Effect of Change in Legal Structure.—In the case of an individual or entity that was not eligible for a payment pursuant to subsection (c) of section 1102 of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 1999 (as contained in section 101(a) of division A of Public Law 105–277; 7 U.S.C. 1421 note), solely because the individual or entity changed the legal structure of the individual's or entity's farming operation, the individual or entity shall be eligible for the payment the individual or entity would have received pursuant to that subsection had the individual or entity not changed the legal structure, less the amount of any payment received by the individual or entity pursuant to subsection (b) of that section.
+
+“(b)
+
+Multiple Farming Operations.—
+
+&emsp;“(1)
+
+Eligible individuals.—In the case of an individual not described in subsection (a) that farmed acreage as a producer as a part of more than one farming operation, none of which received a payment pursuant to subsection (c) of section 1102 of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 1999, the individual shall be eligible for a payment pursuant to that subsection for losses that the Secretary determines would have been eligible for compensation with respect to that acreage based on the individual's interest in the production from that acreage.
+
+&emsp;“(2)
+
+Reduction.—A payment made pursuant to paragraph (1) to an individual shall be reduced by the amount of a payment made pursuant to subsection (b) of that section 1102 attributed directly or indirectly to the individual with respect to the acreage described in paragraph (1).
+
+“(c)
+
+Commodity Credit Corporation.—The Secretary shall use the funds, facilities, and authorities of the Commodity Credit Corporation to carry out this section.”
+
 #### Emergency and Disaster Assistance for Producers
+
+Pub. L. 106–224, title II, subtitle A, June 20, 2000, 114 Stat. 398, as amended by Pub. L. 106–387, §1(a) \[title VIII, §816\], Oct. 28, 2000, 114 Stat. 1549, 1549A–57, provided that:
+
+#### “SEC. 201. MARKET LOSS ASSISTANCE.
+
+“(a)
+
+In General.—The Secretary of Agriculture (referred to in this title \[see Tables for classification\] as the ‘Secretary’) shall use funds of the Commodity Credit Corporation to provide assistance in the form of a market loss assistance payment to owners and producers on a farm that are eligible for a final payment for fiscal year 2000 under a production flexibility contract for the farm under the Agricultural Market Transition Act (7 U.S.C. 7201 et seq.).
+
+“(b)
+
+Amount and Manner.—In providing payments under this section, the Secretary shall—
+
+&emsp;“(1) use the same contract payment rates as are used under section 802(b) of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2000 (7 U.S.C. 1421 note; Public Law 106–78); and
+
+&emsp;“(2) provide the payments in a manner that is consistent with section 802(c) of that Act.
+
+“(c)
+
+Timing.—The Secretary shall make the payments required by this section not earlier than September 1, 2000, and not later than September 30, 2000.
+
+#### “SEC. 202. OILSEEDS.
+
+“(a)
+
+In General.—The Secretary shall use $500,000,000 of funds of the Commodity Credit Corporation to make payments to producers of the 2000 crop of oilseeds that are eligible to obtain a marketing assistance loan under section 131 of the Agricultural Market Transition Act (7 U.S.C. 7231).
+
+“(b)
+
+Computation.—A payment to producers on a farm under this section for an oilseed shall be equal to the product obtained by multiplying—
+
+&emsp;“(1) a payment rate determined by the Secretary;
+
+&emsp;“(2) the acreage of the producers on the farm for the oilseed, as determined under subsection (c); and
+
+&emsp;“(3) the yield of the producers on the farm for the oilseed, as determined under subsection (d).
+
+“(c)
+
+Acreage.—
+
+&emsp;“(1)
+
+In general.—Except as provided in paragraph (2), the acreage of the producers on the farm for an oilseed under subsection (b)(2) shall be equal to the number of acres planted to the oilseed by the producers on the farm during the 1997, 1998, or 1999 crop year, whichever is greatest, as reported by the producers on the farm to the Secretary (including any acreage reports that are filed late).
+
+&emsp;“(2)
+
+New producers.—In the case of producers on a farm that planted acreage to an oilseed during the 2000 crop year but not the 1997, 1998, or 1999 crop year, the acreage of the producers for the oilseed under subsection (b)(2) shall be equal to the number of acres planted to the oilseed by the producers on the farm during the 2000 crop year, as reported by the producers on the farm to the Secretary (including any acreage reports that are filed late).
+
+“(d)
+
+Yield.—
+
+&emsp;“(1)
+
+Soybeans.—Except as provided in paragraph (3), in the case of soybeans, the yield of the producers on a farm under subsection (b)(3) shall be equal to the greatest of—
+
+&emsp;&emsp;“(A) the average county yield per harvested acre for each of the 1995 through 1999 crop years, excluding the crop year with the highest yield per harvested acre and the crop year with the lowest yield per harvested acre; or
+
+&emsp;&emsp;“(B) the actual yield of the producers on the farm for the 1997, 1998, or 1999 crop year.
+
+&emsp;“(2)
+
+Other oilseeds.—Except as provided in paragraph (3), in the case of oilseeds other than soybeans, the yield of the producers on a farm under subsection (b)(3) shall be equal to the greatest of—
+
+&emsp;&emsp;“(A) the average national yield per harvested acre for each of the 1995 through 1999 crop years, excluding the crop year with the highest yield per harvested acre and the crop year with the lowest yield per harvested acre; or
+
+&emsp;&emsp;“(B) the actual yield of the producers on the farm for the 1997, 1998, or 1999 crop year.
+
+&emsp;“(3)
+
+New producers.—In the case of producers on a farm that planted acreage to an oilseed during the 2000 crop year but not the 1997, 1998, or 1999 crop year, the yield of the producers on a farm under subsection (b)(3) shall be equal to the greater of—
+
+&emsp;&emsp;“(A) the average county yield per harvested acre for each of the 1995 through 1999 crop years, excluding the crop year with the highest yield per harvested acre and the crop year with the lowest yield per harvested acre; or
+
+&emsp;&emsp;“(B) the actual yield of the producers on the farm for the 2000 crop.
+
+&emsp;“(4)
+
+Data source.—To the maximum extent available, the Secretary shall use data provided by the National Agricultural Statistics Service to carry out this subsection.
+
+#### “SEC. 203. SPECIALTY CROPS.
+
+“(a)
+
+Replenishment of Perishable Agricultural Commodities Act Fund.—Of the amount made available under section 261(a)(2) \[114 Stat. 427\], $30,450,000 shall—
+
+&emsp;“(1) be deposited in the Perishable Agricultural Commodities Act Fund established by section 3(b)(5) of the Perishable Agricultural Commodities Act, 1930 (7 U.S.C. 499c(b)(5));
+
+&emsp;“(2) be merged with other amounts in the Perishable Agricultural Commodities Act Fund; and
+
+&emsp;“(3) be available for the same purposes and for the same time period as other amounts in the Perishable Agricultural Commodities Act Fund.
+
+“(b)
+
+Replenishment of Trust Funds for Services under Agricultural Marketing Act of 1946.—Of the amount made available under section 261(a)(2) \[114 Stat. 427\], $29,000,000 shall—
+
+&emsp;“(1) be deposited in the trust fund account established to cover the cost of inspection, certification, and identification services provided under section 203(h) of the Agricultural Marketing Act of 1946 (7 U.S.C. 1622(h));
+
+&emsp;“(2) be merged with other amounts in the trust fund account; and
+
+&emsp;“(3) be available for the same purposes and for the same time period as other amounts in the trust fund account.
+
+“(c)
+
+Inspection Services Improvements.—Of the amount made available under section 261(a)(2) \[114 Stat. 427\], $11,550,000 shall be used by the Secretary to improve the infrastructure and system used for inspecting fruits and vegetables, including improving—
+
+&emsp;“(1) the program used to train inspectors, including the establishment of an inspector training center;
+
+&emsp;“(2) the technological resources used by inspectors;
+
+&emsp;“(3) the use of digital imaging by inspectors; and
+
+&emsp;“(4) the office space and grading tables used by inspectors.
+
+“(d)
+
+Surplus Crop Purchases.—
+
+&emsp;“(1)
+
+Purchases.—Of the amount made available under section 261(a)(2) \[114 Stat. 427\], $200,000,000 shall be used by the Secretary to purchase specialty crops that have experienced low prices during the 1998 or 1999 crop years, including apples, black-eyed peas, cherries, citrus, cranberries or cranberry products (including cranberry juice concentrate and frozen cranberry fruit), onions, melons, peaches, and potatoes.
+
+&emsp;“(2)
+
+Displacement.—The Secretary shall ensure that purchases of specialty crops under this subsection will not displace purchases by the Secretary under any other law.
+
+“(e)
+
+Grower Compensation.—
+
+&emsp;“(1)
+
+Compensation.—Of the amount made available under section 261(a)(2) \[114 Stat. 427\], $25,000,000 shall be used by the Secretary to compensate—
+
+&emsp;&emsp;“(A) growers covered by the Secretary's Declaration of Extraordinary Emergency published onMarch 2, 2000 (65 Fed. Reg. 11280), regarding the plum pox virus;
+
+&emsp;&emsp;“(B) growers for losses due to Pierce's disease; and
+
+&emsp;&emsp;“(C) commercial producers for losses due to citrus canker.
+
+&emsp;“(2)
+
+Report.—Not later than July 19, 2000, the Secretary, in coordination with the Inspector General of the Department of Agriculture, shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that analyzes—
+
+&emsp;&emsp;“(A) the economic losses to the produce industry as a result of allegations of false inspection certificates prepared by graders of the Department of Agriculture at Hunts Point Terminal Market, Bronx, New York; and
+
+&emsp;&emsp;“(B) the restitution by the Secretary for persons damaged as a result of losses described in subparagraph (A).
+
+“(f)
+
+Apple Loans.—
+
+&emsp;“(1)
+
+Requirement.—The Secretary, acting through the Farm Service Agency, shall use funds of the Commodity Credit Corporation to make loans to producers of apples that are suffering economic loss as the result of low prices for apples.
+
+&emsp;“(2)
+
+Term.—The term of a loan made under this subsection shall be not more than 3 years.
+
+&emsp;“(3)
+
+Interest rate.—The interest rate for a loan made under this subsection shall be at a rate equal to the then current cost of money to the Government of the United States for loans of similar maturity.
+
+&emsp;“(4)
+
+Security.—The Secretary may require a loan made under this subsection to be secured by real property or such other collateral as the Secretary considers appropriate and protects the interests of the Federal Government.
+
+&emsp;“(5)
+
+Limitation.—The cost of all loans made under this subsection shall not exceed $5,000,000.
+
+#### “SEC. 204. OTHER COMMODITIES.
+
+“(a)
+
+Peanuts.—
+
+&emsp;“(1)
+
+In general.—The Secretary shall use funds of the Commodity Credit Corporation to provide payments to producers of quota peanuts or additional peanuts to partially compensate the producers for continuing low commodity prices, and increasing costs of production, for the 2000 crop year.
+
+&emsp;“(2)
+
+Amount.—The amount of a payment made to producers on a farm of quota peanuts or additional peanuts under paragraph (1) shall be equal to the product obtained by multiplying—
+
+&emsp;&emsp;“(A) the quantity of quota peanuts or additional peanuts produced or considered produced by the producers; and
+
+&emsp;&emsp;“(B) a payment rate equal to—
+
+&emsp;&emsp;&emsp;“(i) in the case of quota peanuts, $30.50 per ton; and
+
+&emsp;&emsp;&emsp;“(ii) in the case of additional peanuts, $16.00 per ton.
+
+“(b)
+
+Tobacco.—
+
+&emsp;“(1)
+
+Definitions.—In this subsection:
+
+&emsp;&emsp;“(A)
+
+Eligible person.—The term ‘eligible person’ means a person that owns or operates, or produces eligible tobacco on, a farm—
+
+&emsp;&emsp;&emsp;“(i) for which the quantity of quota of eligible tobacco allotted to the farm under part I of subtitle B of title III of the Agricultural Adjustment Act of 1938 (7 U.S.C. 1311 et seq.) was reduced from the 1999 crop year to the 2000 crop year; and
+
+&emsp;&emsp;&emsp;“(ii) that is used for the production of eligible tobacco during the 2000 crop year.
+
+&emsp;&emsp;“(B)
+
+Eligible tobacco.—The term ‘eligible tobacco’ means each of the following kinds of tobacco:
+
+&emsp;&emsp;&emsp;“(i) Flue-cured tobacco, comprising types 11, 12, 13, and 14.
+
+&emsp;&emsp;&emsp;“(ii) Fire-cured tobacco, comprising type 21.
+
+&emsp;&emsp;&emsp;“(iii) Burley tobacco, comprising type 31.
+
+&emsp;&emsp;&emsp;“(iv) Cigar-filler and cigar-binder tobacco, comprising types 42, 43, 44, 54, and 55.
+
+&emsp;“(2)
+
+Payments.—Effective beginning October 1, 2000, the Secretary shall use $340,000,000 of funds of the Commodity Credit Corporation to make payments to eligible persons.
+
+&emsp;“(3)
+
+Allocation of funds among states.—The funds made available for eligible persons under paragraph (2) shall be allocated among States in the following dollar amounts:
+
+&nbsp;
+
+| &nbsp; | &nbsp; |
+| :--- | ---: |
+| &nbsp;Alabama | $100,000&nbsp; |
+| &nbsp;Arkansas | $1,000&nbsp; |
+| &nbsp;Florida | $2,500,000&nbsp; |
+| &nbsp;Georgia | $13,000,000&nbsp; |
+| &nbsp;Indiana | $5,400,000&nbsp; |
+| &nbsp;Kansas | $23,000&nbsp; |
+| &nbsp;Kentucky | $140,000,000&nbsp; |
+| &nbsp;Missouri | $2,000,000&nbsp; |
+| &nbsp;North Carolina | $100,000,000&nbsp; |
+| &nbsp;Ohio | $6,000,000&nbsp; |
+| &nbsp;Oklahoma | $1,000&nbsp; |
+| &nbsp;South Carolina | $15,000,000&nbsp; |
+| &nbsp;Tennessee | $35,000,000&nbsp; |
+| &nbsp;Virginia | $19,000,000&nbsp; |
+| &nbsp;Wisconsin | $675,000&nbsp; |
+| &nbsp;West Virginia | $1,300,000. |
+
+&emsp;“(4)
+
+Allocation of funds among farms in a state.—The Secretary shall divide the amount allocated to a State under paragraph (3) among farms in the State based on the quota of eligible tobacco available to each farm of an eligible person for the 2000 crop year.
+
+&emsp;“(5)
+
+Division of farm payments among eligible persons in a state.—Not later than October 20, 2000, the Secretary shall divide amounts made available to farms in a State under paragraph (4) among eligible persons who are quota owners, quota lessees, and tobacco producers on farms in the State, and make payments to the eligible persons, on the basis of—
+
+&emsp;&emsp;“(A) in the case of a State that is a party to the National Tobacco Grower Settlement Trust, the formula in the Trust used to allocate funds among quota owners, quota lessees, and tobacco producers on farms in the State, with such adjustments as the Secretary determines are necessary to enable the payments to be made by October 20, 2000; or
+
+&emsp;&emsp;“(B) in the case of a State that is not a party to the National Tobacco Grower Settlement Trust, a formula established by the Secretary.
+
+&emsp;“(6)
+
+Payments to eligible persons in georgia.—The Secretary shall use the amount allocated to the State of Georgia under paragraph (3) to make payments to eligible persons in Georgia only if the State of Georgia agrees to use an equal amount (not to exceed $13,000,000) to make payments at the same time, or subsequently, to the same eligible persons in the same manner as provided for the Federal payment under paragraphs (4) and (5).
+
+&emsp;“(7)
+
+Use for administrative costs.—None of the funds made available under paragraphs (1) through (7) may be used to pay administrative costs incurred in carrying out those paragraphs.
+
+&emsp;“(8)
+
+Transfer of allotments.—\[Amended section 1314d of this title.\]
+
+&emsp;“(9)
+
+Burley tobacco inventories of producer associations.—\[Amended section 1314e of this title.\]
+
+&emsp;“(10)
+
+Limitations on burley tobacco quota adjustments.—\[Amended section 1314e of this title.\]
+
+&emsp;“(11)
+
+Lease and transfer of burley tobacco quota.—\[Amended section 1314e of this title.\]
+
+&emsp;“(12)
+
+Recordkeeping and sale of burley tobacco quota and acreage.—\[Amended section 1314e of this title.\]
+
+“(c)
+
+Honey.—
+
+&emsp;“(1)
+
+In general.—The Secretary shall use funds of the Commodity Credit Corporation to make available recourse loans to producers of the 2000 crop of honey on fair and reasonable terms and conditions, as determined by the Secretary.
+
+&emsp;“(2)
+
+Loan rate.—The loan rate for a loan under paragraph (1) shall be equal to 85 percent of the average price of honey during the 5-crop year period preceding the 2000 crop year, excluding the crop year in which the average price of honey was the highest and the crop year in which the average price of honey was the lowest in the period.
+
+“(d)
+
+Wool and Mohair.—
+
+&emsp;“(1)
+
+In general.—The Secretary shall use funds of the Commodity Credit Corporation to make payments to producers of wool, and producers of mohair, for the 1999 marketing year.
+
+&emsp;“(2)
+
+Payment rate.—The payment rate for payments made to producers under paragraph (1) shall be equal to—
+
+&emsp;&emsp;“(A) in the case of wool, 20 cents per pound; and
+
+&emsp;&emsp;“(B) in the case of mohair, 40 cents per pound.
+
+“(e)
+
+Cottonseed.—The Secretary shall use $100,000,000 of funds of the Commodity Credit Corporation to provide assistance to producers and first-handlers of the 2000 crop of cottonseed.
+
+#### “SEC. 205. PAYMENTS IN LIEU OF LOAN DEFICIENCY PAYMENTS.
+
+“(a)
+
+Eligible Producers.—Effective for the 2001 crop year, in the case of a producer that would be eligible for a loan deficiency payment under section 135 of the Agricultural Market Transition Act (7 U.S.C. 7235) for wheat, barley, or oats, but that elects to use acreage planted to the wheat, barley, or oats for the grazing of livestock, the Secretary shall make a payment to the producer under this section if the producer enters into an agreement with the Secretary to forgo any other harvesting of the wheat, barley, or oats on that acreage.
+
+“(b)
+
+Payment Amount.—The amount of a payment made to a producer on a farm under this section shall be equal to the amount determined by multiplying—
+
+&emsp;“(1) the loan deficiency payment rate determined under section 135(c) of the Agricultural Market Transition Act (7 U.S.C. 7235(c)) in effect, as of the date of the agreement, for the county in which the farm is located; by
+
+&emsp;“(2) the payment quantity determined by multiplying—
+
+&emsp;&emsp;“(A) the quantity of the grazed acreage on the farm with respect to which the producer elects to forgo harvesting of wheat, barley, or oats; and
+
+&emsp;&emsp;“(B) the greater of—
+
+&emsp;&emsp;&emsp;“(i) the established yield for the crop on the farm; or
+
+&emsp;&emsp;&emsp;“(ii) the average county yield per harvested acre of the crop, as determined by the Secretary.
+
+“(c)
+
+Time, Manner, and Availability of Payment.—
+
+&emsp;“(1)
+
+Time and manner.—A payment under this section shall be made at the same time and in the same manner as loan deficiency payments are made under section 135 of the Agricultural Market Transition Act (7 U.S.C. 7235), except that the payment shall be made not later than September 30, 2001.
+
+&emsp;“(2)
+
+Availability.—The Secretary shall establish an availability period for the payment authorized by this section that is consistent with the availability period for wheat, barley, and oats established by the Secretary for marketing assistance loans authorized by subtitle C of the Agricultural Market Transition Act (7 U.S.C. 7231 et seq.).
+
+“(d)
+
+Regulations.—The Secretary shall promulgate under section 263 \[set out as a note above\] such regulations as are necessary to administer the payments authorized by this section in a fair and equitable manner with respect to producers of wheat and feed grains that do not receive a payment under this section.
+
+“(e)
+
+Funding.—The Secretary shall use funds of the Commodity Credit Corporation to carry out this section.
+
+#### “SEC. 206. EXPANSION OF PRODUCERS ELIGIBLE FOR LOAN DEFICIENCY PAYMENTS.
+
+“\[Amended section 7235 of this title.\]”
 
 Pub. L. 106–113, div. B, §1000(a)(5) \[title I\], Nov. 29, 1999, 113 Stat. 1536, 1501A–290, provided in part that: “For an additional amount for specialty crop assistance authorized by section 803(c)(1) of Public Law 106–78 \[set out below\], $2,800,000: <i>Provided</i>, That the definition of eligible persons in section 803(c)(2) of Public Law 106–78 shall include producers who have suffered quality or quantity losses due to natural disasters on crops harvested and placed in a warehouse and not sold.”
 
-Pub. L. 106–113, div. B, §1000(a)(5) \[title I\], Nov. 29, 1999, 113 Stat. 1536, 1501A–290, provided in part that: “For an additional amount for livestock assistance authorized by section 805 of Public Law 106–78 \[set out below\], $10,000,000: <i>Provided</i>, That the Secretary of Agriculture may use this additional amount to provide assistance to persons who raise livestock owned by other persons for income losses sustained with respect to livestock during 1999 if the Secretary finds that such losses are the result of natural disasters.”
+Pub. L. 106–113, div. B, §1000(a)(5) \[title I\], Nov. 29, 1999, 113 Stat. 1536, 1501A–290, as amended by Pub. L. 106–387, §1(a) \[title VIII, §802\], Oct. 28, 2000, 114 Stat. 1549, 1549A–49, provided in part that: “For an additional amount for livestock assistance authorized by section 805 of Public Law 106–78 \[set out below\], $10,000,000: <i>Provided</i>, That the Secretary of Agriculture may use this additional amount to provide assistance to persons who raise livestock owned by other persons for income losses sustained with respect to livestock from January 1, 1999, through February 7, 2000 if the Secretary finds that such losses are the result of natural disasters.”
 
 Pub. L. 106–78, title VIII, Oct. 22, 1999, 113 Stat. 1175, as amended by Pub. L. 106–113, div. B, §1000(a)(5) \[title I, §102\], Nov. 29, 1999, 113 Stat. 1536, 1501A–291, provided that:
 
@@ -272,7 +733,7 @@ Honey Recourse Loans.—
 
 &emsp;“(1)
 
-In general.—Notwithstanding any other provision of law, in order to assist producers of honey to market their honey in an orderly manner during a period of disastrously low prices, the Secretary may usefunds made available under this section to make available recourse loans to producers of the 1999 crop of honey on fair and reasonable terms and conditions, as determined by the Secretary.
+In general.—Notwithstanding any other provision of law, in order to assist producers of honey to market their honey in an orderly manner during a period of disastrously low prices, the Secretary may use funds made available under this section to make available recourse loans to producers of the 1999 cropof honey on fair and reasonable terms and conditions, as determined by the Secretary.
 
 &emsp;“(2)
 
@@ -640,8 +1101,6 @@ Dairy Assistance.—Of the funds provided in section 805, no less than $125,000,
 
 Form of Assistance.—Assistance for livestock losses shall be in the form of grants and or other in-kind assistance, but shall not include loans.”
 
-#### Emergency and Market Loss Assistance
-
 Pub. L. 106–31, title I, §101, May 21, 1999, 113 Stat. 61, provided that:
 
 “(a)
@@ -674,7 +1133,7 @@ Designation as Emergency Requirement.—Such sums as are necessary to carry out 
 
 Pub. L. 106–31, title I, §104, May 21, 1999, 113 Stat. 62, provided that: “For an additional amount for the Livestock Assistance Program under Public Law 105–277 \[see section 101(a) \[title XI\] of Pub. L. 105–277, set out below\], $70,000,000: <i>Provided</i>, That for the purposes of section 1103 of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 1999 (Public Law 105–277) \[set out below\], notwithstanding any other provision of law or regulation, the definition of ‘livestock’ shall include ‘reindeer’: <i>Provided further</i>, That the entire amount shall be available only to the extent an official budget request for $70,000,000, that includes designation of the entire amount of the request as an emergency requirement as defined in the Balanced Budget and Emergency Deficit Control Act of 1985, as amended \[see Short Title note set out under section 900 of Title 2, The Congress\], is transmitted by the President to the Congress: <i>Provided further</i>, That the entire amount is designated by the Congress as an emergency requirement pursuant to section 251(b)(2)(A) of such Act \[2 U.S.C. 901(b)(2)(A)\].”
 
-Pub. L. 105–277, div. A, §101(a) \[title XI\], Oct. 21, 1998, 112 Stat. 2681, 2681–42, as amended by Pub. L. 106–31, title III, §3018, May 21, 1999, 113 Stat. 99; Pub. L. 106–78, title VIII, §817(a)(2), title IX, §913(b), Oct. 22, 1999, 113 Stat. 1184, 1205, provided that:
+Pub. L. 105–277, div. A, §101(a) \[title XI\], Oct. 21, 1998, 112 Stat. 2681, 2681–42, as amended by Pub. L. 106–31, title III, §3018, May 21, 1999, 113 Stat. 99; Pub. L. 106–78, title VIII, §817(a)(2), title IX, §913(b), Oct. 22, 1999, 113 Stat. 1184, 1205; Pub. L. 106–387, §1(a) \[title VII, §754\], Oct. 28, 2000, 114 Stat. 1549, 1549A–42, provided that:
 
 #### “Subtitle A—Emergency Assistance for Crop and Livestock Feed Losses Due to Disasters
 
@@ -768,7 +1227,7 @@ Notice of damages.—The amount of the liquidated damages shall be established b
 
 &emsp;“(5)
 
-Funding for crop insurance purchase requirement.—Subject to section 1132, such sums as may be necessary, to remain available until expended, shall be available to the Federal Crop Insurance Corporation to cover costs incurred by the Corporation as a result of the crop insurance purchase requirement of paragraph (3). Funds made available under subsections (b) and (c) may not be used to cover such costs.
+Funding for crop insurance purchase requirement.—Subject to section 1132, such sums asmay be necessary, to remain available until expended, shall be available to the Federal Crop Insurance Corporation to cover costs incurred by the Corporation as a result of the crop insurance purchase requirement of paragraph (3). Funds made available under subsections (b) and (c) may not be used to cover such costs.
 
 #### “SEC. 1103. EMERGENCY LIVESTOCK FEED ASSISTANCE.
 
@@ -802,11 +1261,31 @@ Federal Contribution.—Subject to subsection (b), the Secretary of Agriculture 
 
 “(b)
 
-Conditions on Payment to State.—The Secretary of Agriculture shall make the payment to the State of Georgia under subsection (a) only if the State also contributes $5,000,000 to the indemnity fund and agrees to expend all amounts in the indemnity fund by not later than January 1, 2000, to provide compensation to cotton producers as provided in such subsection. If the State of Georgia fails to make its contribution of $5,000,000 to the indemnity fund by July 1, 1999, the funds that would otherwise be paid to the State shall be available to the Secretary for the purpose of providing partial compensation to cotton producers as provided in such subsection.
+Conditions on Payment to State.—The Secretary of Agriculture shall make the payment to the State of Georgia under subsection (a) only if the State also contributes $5,000,000 to the indemnity fund and agrees to expend all amounts in the indemnity fund by not later than January 1, 2001, to provide compensation to cotton producers as provided in such subsection. If the State of Georgia fails to make its contribution of $5,000,000 to the indemnity fund by July 1, 1999, the funds that would otherwise be paid to the State shall be available to the Secretary for the purpose of providing partial compensation to cotton producers as provided in such subsection.
 
 “(c)
 
 Reporting Requirements.—Upon the establishment of the indemnity fund, and not later than October 1, 1999, the State of Georgia shall submit a report to the Secretary of Agriculture and the Congress describing the State's efforts to use the indemnity fund to provide compensation to injured cotton producers.
+
+“(d)
+
+Additional Disbursement.—
+
+&emsp;“(1)
+
+Cotton stored in georgia.—The State of Georgia may use funds remaining in the indemnity fund established in accordance with this section to compensate cotton producers in other States who stored cotton in the State of Georgia and incurred losses in 1998 or 1999 as the result of the events described in subsection (a).
+
+&emsp;“(2)
+
+Ginners and others.—The State of Georgia may also use funds remaining in the indemnity fund established in accordance with this section to compensate cotton ginners and others in the business of producing, ginning, warehousing, buying, or selling cotton for losses they incurred in 1998 or 1999 as the result of the events described in subsection (a), if—
+
+&emsp;&emsp;“(A) as of March 1, 2000, the indemnity fund has not been exhausted,
+
+&emsp;&emsp;“(B) the State of Georgia provides cotton producers an additional time period prior to May 1, 2000, in which to establish eligibility for compensation under this section;
+
+&emsp;&emsp;“(C) the State of Georgia determines during calendar year 2000 that all cotton producers in that State and cotton producers in other States as described in paragraph (d)(1) have been appropriately compensated for losses incurred in 1998 or 1999 as described in subsection (a); and
+
+&emsp;&emsp;“(D) such additional compensation is not made available until May 1, 2000.
 
 #### “SEC. 1122. HONEY RECOURSE LOANS.
 
@@ -860,7 +1339,7 @@ Funding. —An amount of $250,000 is hereby appropriated to carry out subsection
 
 #### “SEC. 1131. COMMODITY CREDIT CORPORATION.
 
-“Subject to section 1132, the Secretary shall use the funds, facilities, and authorities of the CommodityCredit Corporation to carry out subtitles A, B, and C of this title.
+“Subject to section 1132, the Secretary shall use the funds, facilities, and authorities of the Commodity Credit Corporation to carry out subtitles A, B, and C of this title.
 
 #### “SEC. 1132. EMERGENCY REQUIREMENT.
 
@@ -914,7 +1393,7 @@ Pub. L. 101–624, title XXV, §2516, Nov. 28, 1990, 104 Stat. 4075, which provi
 
 #### Readjustment of Support Levels
 
-Pub. L. 101–508, title I, §1302, Nov. 5, 1990, 104 Stat. 1388–12, as amended by Pub. L. 103–66, title I, §1301(b), Aug. 10, 1993, 107 Stat. 330, provided that, if by June 30, 1992, and by June 30, 1993, the United States had not entered into agricultural trade agreement in Uruguay Round of multilateral trade negotiations under General Agreement on Tariffs and Trade (GATT) the Secretary of Agriculture was to reconsider and adjust agricultural acreage limitation and price support and production adjustment programs and export promotion levels, as appropriate to protect interests of American agricultural producers and ensure international competitiveness of United States agriculture and that such provisions were to cease to be effective if President certified to Congress that failure to enter into such agreement was result in whole or in part of provisions of 19 U.S.C. 2191, or essentially similar provisions, not applying or in effect not applying during period ending May 31, 1991\(or during period June 1, 1991, through May 31, 1993, if condition of 19 U.S.C. 2903(b)(1)(B)(i) was satisfied) to implementing bills submitted with respect to such an agreement entered into during applicable period under 19 U.S.C. 2902(b), prior to repeal by Pub. L. 104–127, title II, §263(a), Apr. 4, 1996, 110 Stat. 974.
+Pub. L. 101–508, title I, §1302, Nov. 5, 1990, 104 Stat. 1388–12, as amended by Pub. L. 103–66, title I, §1301(b), Aug. 10, 1993, 107 Stat. 330, provided that, if by June 30, 1992, and by June 30, 1993, the United States had not entered into agricultural trade agreement in Uruguay Round of multilateral trade negotiations under General Agreement on Tariffs and Trade (GATT) the Secretary of Agriculture was to reconsider and adjust agricultural acreage limitation and price support and production adjustment programs and export promotion levels, as appropriate to protect interests of American agricultural producers and ensure international competitiveness of United States agriculture and that such provisions were to cease to be effective if President certified to Congress that failure to enter into such agreement was result in whole or in part of provisions of 19 U.S.C. 2191, or essentially similar provisions, not applying or in effect not applying during period ending May 31, 1991 (or during period June 1, 1991, through May 31, 1993, if condition of 19 U.S.C. 2903(b)(1)(B)(i) was satisfied) to implementing bills submitted with respect to such an agreement entered into during applicable period under 19 U.S.C. 2902(b), prior to repeal by Pub. L. 104–127, title II, §263(a), Apr. 4, 1996, 110 Stat. 974.
 
 #### Repayment of Advance Deficiency Payments
 

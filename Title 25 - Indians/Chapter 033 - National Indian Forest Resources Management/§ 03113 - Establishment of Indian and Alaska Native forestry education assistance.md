@@ -36,7 +36,7 @@
 
 (1) The Secretary is authorized to grant forestry scholarships to Indians and Alaska Natives enrolled in accredited programs for post-secondary and graduate forestry and forestry-related programs of study as full-time students.
 
-(2) A recipient of a scholarship under paragraph (1) shall be required to enter into an obligated service agreement with the Secretary in which the recipient agrees to accept employment for one year for each year the recipient received a scholarship, following completion of the recipient's forestry or forestry-related course of study, with
+(2) A recipient of a scholarship under paragraph (1) shall be required to enter into an obligated service agreement with the Secretary inwhich the recipient agrees to accept employment for one year for each year the recipient received a scholarship, following completion of the recipient's forestry or forestry-related course of study, with
 
 &emsp;(A) the Bureau of Indian Affairs;
 

@@ -10,7 +10,7 @@ Findings.—Congress finds that—
 
 &emsp;(3) new and innovative equipment and services are being sought, produced, and offered by entrepreneurs in telecommunications, information services, microgravity research, and remote sensing technologies;
 
-&emsp;(4) the private sector in the United States has the capability of developing and providingprivate satellite launching, reentry, and associated services that would complement the launching, reentry, and associated services now available from the United States Government;
+&emsp;(4) the private sector in the United States has the capability of developing and providing private satellite launching, reentry, and associated services that would complement the launching, reentry, and associated services now available from the United States Government;
 
 &emsp;(5) the development of commercial launch vehicles, reentry vehicles, and associated services would enable the United States to retain its competitive position internationally, contributing to the national interest and economic well-being of the United States;
 
@@ -87,4 +87,30 @@ Subsec. (b)(2)(A). Pub. L. 105–303, §102(a)(2)(K), struck out “launch” be
 Subsec. (b)(3). Pub. L. 105–303, §102(a)(2)(L), (M), inserted “and reentry” after “conduct of commercial launch” and struck out “launch” before “licenses”.
 
 Subsec. (b)(4). Pub. L. 105–303, §102(a)(2)(N), inserted “and development of reentry sites,” after “launch-site support facilities,”.
+
+#### Short Title of 2000 Amendment
+
+Pub. L. 106–405, §1, Nov. 1, 2000, 114 Stat. 1751, provided that: “This Act \[amending sections 70113 and 70119 of this title and enacting provisions set out as notes under this section and sections 70112 and 70113 of this title and section 2281 of Title 10, Armed Forces\] may be cited as the ‘Commercial Space Transportation Competitiveness Act of 2000’.”
+
+#### Findings
+
+Pub. L. 106–405, §2, Nov. 1, 2000, 114 Stat. 1751, provided that: “The Congress finds that—
+
+&emsp;“(1) a robust United States space transportation industry is vital to the Nation's economic well-being and national security;
+
+&emsp;“(2) enactment of a 5-year extension of the excess third party claims payment provision of chapter 701 of title 49, United States Code (Commercial Space Launch Activities), will have a beneficial impact on the international competitiveness of the United States space transportation industry;
+
+&emsp;“(3) space transportation may evolve into airplane-style operations;
+
+&emsp;“(4) during the next 3 years the Federal Government and the private sector should analyze the liability risk-sharing regime to determine its appropriateness and effectiveness, and, if needed, develop and propose a new regime to Congress at least 2 years prior to the expiration of the extension contained in this Act \[see Short Title of 2000 Amendment note above\];
+
+&emsp;“(5) the areas of responsibility of the Office of the Associate Administrator for Commercial Space Transportation have significantly increased as a result of—
+
+&emsp;&emsp;“(A) the rapidly expanding commercial space transportation industry and associated government licensing requirements;
+
+&emsp;&emsp;“(B) regulatory activity as a result of the emerging commercial reusable launch vehicle industry; and
+
+&emsp;&emsp;“(C) the increased regulatory activity associated with commercial operation of launch and reentry sites; and
+
+&emsp;“(6) the Office of the Associate Administrator for Commercial Space Transportation should continue to limit its promotional activities to those which support its regulatory mission.”
 

@@ -8,6 +8,18 @@ Whenever suitable arrangements can be made from time to time for their reception
 
 R.S. §5586 derived from act Aug. 10, 1846, ch. 178, §6, 9 Stat. 105.
 
+#### Smithsonian Astrophysical Observatory Submillimeter Array; Authorization of Construction and Appropriations
+
+Pub. L. 106–383, Oct. 27, 2000, 114 Stat. 1459, provided that:
+
+#### “SECTION 1. FACILITY AUTHORIZED.
+
+“The Board of Regents of the Smithsonian Institution is authorized to plan, design, construct, and equip laboratory, administrative, and support space to house base operations for the Smithsonian Astrophysical Observatory Submillimeter Array located on Mauna Kea at Hilo, Hawaii.
+
+#### “SEC. 2. AUTHORIZATION OF APPROPRIATIONS.
+
+“There are authorized to be appropriated to the Board of Regents of the Smithsonian Institution to carry out this Act, $2,000,000 for fiscal year 2001, and $2,500,000 for fiscal year 2002, which shall remain available until expended.”
+
 #### Smithsonian Institution Transportation Program
 
 Pub. L. 105–178, title I, §1214(b), June 9, 1998, 112 Stat. 204, provided that:
@@ -102,7 +114,7 @@ Chairperson.—The President shall designate one member as the Chairperson of th
 
 “(a)
 
-Study.—It shall be the duty of the Commission to conduct a comprehensive study of the appropriateFederal role in the planning and operation of the National Health Museum, as well as any other issues deemed appropriate to the development of the National Health Museum.
+Study.—It shall be the duty of the Commission to conduct a comprehensive study of the appropriate Federal role in the planning and operation of the National Health Museum, as well as any other issues deemed appropriate to the development of the National Health Museum.
 
 “(b)
 
@@ -150,7 +162,7 @@ Pub. L. 101–455, Oct. 24, 1990, 104 Stat. 1067, as amended by Pub. L. 103–98
 
 “There is authorized to be appropriated to the Smithsonian Institution for fiscal year 1991 and succeeding fiscal years not to exceed $30,000,000 to carry out this Act.”
 
-\[Section 1(b) of Pub. L. 103–98 provided that: “The amendment made by subsection (a) \[amending section 2 of Pub. L. 101–455, set out above\] shall take effect as of October 24, 1990.”\]
+\[Section 1(b) of Pub. L. 103–98 provided that: “The amendment made by subsection (a) \[amending section2 of Pub. L. 101–455, set out above\] shall take effect as of October 24, 1990.”\]
 
 #### Charles McC. Mathias, Jr. Laboratory for Environmental Research
 
@@ -200,7 +212,7 @@ Pub. L. 97–203, June 24, 1982, 96 Stat. 129, provided: “That the Board of Re
 
 “Sec. 2. Effective October 1, 1982, there is authorized to be appropriated to the Board of Regents of the Smithsonian Institution $36,500,000 to carry out the purposes of this Act \[this note\]. Except for funds obligated or expended for planning, administration, and management expenses, and architectural or other consulting services, no funds appropriated pursuant to this section shall be obligated or expended until such time as there is available to such Board, from private donations or from other non-Federal sources, a sum which, when combined with the funds so appropriated, is sufficient to carry out the purposes of this Act.
 
-“Sec. 3. Any portion of the sums appropriated to carry out the purposes of this Act \[this note\] may betransferred to the General Services Administration which, in consultation with the Smithsonian Institution, is authorized to enter into contracts and take such other action, to the extent of the sums so transferred to it, as may be necessary to carry out such purposes.”
+“Sec. 3. Any portion of the sums appropriated to carry out the purposes of this Act \[this note\] may be transferred to the General Services Administration which, in consultation with the Smithsonian Institution, is authorized to enter into contracts and take such other action, to the extent of the sums so transferred to it, as may be necessary to carry out such purposes.”
 
 #### Smithsonian Institution; Development of Property Adjacent to Original Building
 

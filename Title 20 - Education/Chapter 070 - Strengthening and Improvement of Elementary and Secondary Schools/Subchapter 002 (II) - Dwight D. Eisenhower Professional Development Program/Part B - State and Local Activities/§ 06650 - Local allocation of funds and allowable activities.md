@@ -60,7 +60,7 @@ Each local educational agency that receives funds under this part for any fiscal
 
 &emsp;&emsp;&emsp;(i) to increase the number of minorities, individuals with disabilities, and females teaching in the core academic subjects in which such individuals are underrepresented; and
 
-&emsp;&emsp;&emsp;(ii) to increase the numbers of women and members of other underrepresented groups who are science and mathematics teachers, through such programs as career ladder programs that assist educationalparaprofessionals to obtain teaching credentials in the core academic subjects;
+&emsp;&emsp;&emsp;(ii) to increase the numbers of women and members of other underrepresented groups who are science and mathematics teachers, through such programs as career ladder programs that assist educational paraprofessionals to obtain teaching credentials in the core academic subjects;
 
 &emsp;&emsp;(I) providing financial or other incentives for teachers to become certified by nationally recognized professional teacher enhancement programs;
 
@@ -84,5 +84,5 @@ Each local educational agency that receives funds under this part for any fiscal
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 6643 of this title.
+This section is referred to in sections 6643, 8293, 8294 of this title.
 

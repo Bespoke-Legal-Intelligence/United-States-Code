@@ -4,7 +4,7 @@
 
 #### (1) Requirements
 
-&emsp;The United States National Authority shall ensure that regulations are prescribed that require each person located in the United Stateswho produces, processes, consumes, exports, or imports, or proposes to produce, process, consume, export, or import, a chemical substance that is subject to the Convention to—
+&emsp;The United States National Authority shall ensure that regulations are prescribed that require each person located in the United States who produces, processes, consumes, exports, or imports, or proposes to produce, process, consume, export, or import, a chemical substance that is subject to the Convention to—
 
 &emsp;&emsp;(A) maintain and permit access to records related to that production, processing, consumption, export, or import of such substance; and
 
@@ -32,5 +32,5 @@ This chapter, referred to in subsec. (b)(1), was in the original “this Act” 
 
 #### Regulations
 
-Regulations under subsec. (a) to be issued by Department of Commerce by a date specified by Department of State as United States National Authority (USNA) and to be reviewed and approved by USNA in coordination with an interagency group, see section 3 of Ex. Ord. No. 13128, June 25, 1999, 64 Stat. 34703, set out as a note under section 6711 of this title.
+Regulations under subsec. (a) to be issued by Department of Commerce by a date specified by Department of State as United States National Authority (USNA) and to be reviewed and approved by USNA in coordination with an interagency group, see section 3 of Ex. Ord. No. 13128, June 25, 1999, 64 F.R. 34703, set out as a note under section 6711 of this title.
 

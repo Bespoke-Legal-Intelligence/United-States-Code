@@ -12,11 +12,3 @@ Words “as a basis for comparison by witnesses, or by the jury, court, or offic
 
 Changes were made in phraseology.
 
-#### Federal Rules of Civil Procedure
-
-Evidence, civil actions, see rule 43, Appendix to this title.
-
-#### Federal Rules of Criminal Procedure
-
-Criminal proceedings, see rule 26, Title 18, Appendix, Crimes and Criminal Procedure.
-

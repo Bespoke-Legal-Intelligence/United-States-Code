@@ -64,7 +64,7 @@ Location.—The Institute shall be located in the vicinity of Carlsbad Caverns N
 
 “(a)
 
-Management.—The Institute shall be jointly administered by the National Park Service and a publicor private agency, organization, or institution, as determined by the Secretary.
+Management.—The Institute shall be jointly administered by the National Park Service and a public or private agency, organization, or institution, as determined by the Secretary.
 
 “(b)
 

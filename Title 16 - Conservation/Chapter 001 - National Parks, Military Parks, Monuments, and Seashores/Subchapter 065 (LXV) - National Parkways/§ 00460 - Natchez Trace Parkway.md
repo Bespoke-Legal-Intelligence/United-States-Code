@@ -1,6 +1,6 @@
 ### §460. Natchez Trace Parkway
 
-All lands and easements heretofore and hereafter conveyed to the United States by the States of Mississippi, Alabama, and Tennessee for the right-of-way for the projected parkway between Natchez, Mississippi, and Nashville, Tennessee, together with sites acquired or to be acquired for recreational areas in connection therewith, and a right-of-way for said parkway of a width sufficient to include the highway and all bridges, ditches, cuts, and fills appurtenant thereto, but not exceeding a maximum of two hundred feet through Government-owned lands (except that where small parcels of Government-owned lands would otherwise be isolated, or where topographic conditions or scenic requirements are such that bridges, ditches, cuts, fills, parking overlooks, and landscape development could not reasonably be confined to a width of two hundred feet, the said maximum may be increased to such width as may be necessary, with the written approval of the department or agency having jurisdiction over such lands) as designated on maps heretofore or hereafter approved by the Secretary of the Interior, shall be known as the Natchez Trace Parkway and shall be administered and maintained by the Secretary of the Interior through the National Park Service, subject to the provisions of sections 1, 2, 3, and 4 of this title, the provisions of which sections, as amended and supplemented, are extended over and made applicable to said parkway: <i>Provided</i>, That the Secretary of Agriculture is authorized, with the concurrence of the Secretary of the Interior, to connect with said parkway such roads and trails as may be necessary for the protection, administration, or utilization of adjacent and nearby national forests and the resources thereof: <i>And provided further</i>, That the Forest Service and the National Park Service shall, insofar as practicable, coordinate and correlate such recreational developments as each may plan, construct, or permit to be constructed, on lands within their respective jurisdictions, which, by mutual agreement, should be given special treatment for recreational purposes.
+All lands and easements heretofore and hereafter conveyed to the United States by the States of Mississippi, Alabama, and Tennessee for the right-of-way for the projected parkway between Natchez, Mississippi, and Nashville, Tennessee, together with sites acquired or to be acquired for recreational areas in connection therewith, and a right-of-way for said parkway of a width sufficient to include the highway and all bridges, ditches, cuts, and fills appurtenant thereto, but not exceeding a maximum of two hundred feet through Government-owned lands (except that where small parcels of Government-owned lands would otherwise be isolated, or where topographic conditions or scenic requirements are such that bridges, ditches, cuts, fills, parking overlooks, and landscape development could not reasonably be confined to a width of two hundred feet, the said maximum may be increased to such width as may be necessary, with the written approval of the department or agency having jurisdiction over such lands) as designated on maps heretofore or hereafter approved by the Secretary of the Interior, shall be known as the Natchez Trace Parkway and shall be administered and maintained by the Secretary of the Interior through the National Park Service, subject to the provisions of sections 1, 2, 3, and 4 of this title, the provisions of which sections, as amended and supplemented, are extended over and made applicable to said parkway: <i>Provided</i>, That the Secretary of Agriculture is authorized, with the concurrence of the Secretary of the Interior, to connect with said parkway such roads and trails as may be necessary for the protection, administration, or utilization of adjacent and nearby national forests and the resources thereof: <i>And provided further</i>, That the Forest Service and the National Park Serviceshall, insofar as practicable, coordinate and correlate such recreational developments as each may plan, construct, or permit to be constructed, on lands within their respective jurisdictions, which, by mutual agreement, should be given special treatment for recreational purposes.
 
 (May 18, 1938, ch. 251, §1, 52 Stat. 407.)
 
@@ -17,6 +17,52 @@ Functions of Federal Works Agency and of all agencies thereof, together with fun
 #### Effective Date of Transfer of Functions
 
 Transfer of functions by act June 30, 1949, as effective July 1, 1949, see note set out under section 471 of Title 40, Public Buildings, Property, and Works.
+
+#### Adjustment of Boundary of Parkway
+
+Pub. L. 106–527, Nov. 22, 2000, 114 Stat. 2515, provided that:
+
+#### “SECTION 1. DEFINITIONS.
+
+“In this Act:
+
+&emsp;“(1)
+
+Parkway.—The term ‘Parkway’ means the Natchez Trace Parkway, Mississippi.
+
+&emsp;“(2)
+
+Secretary.—The term ‘Secretary’ means the Secretary of the Interior.
+
+#### “SEC. 2. BOUNDARY ADJUSTMENT AND LAND ACQUISITION.
+
+“(a)
+
+In General.—The Secretary shall adjust the boundary of the Parkway to include approximately—
+
+&emsp;“(1) 150 acres of land, as generally depicted on the map entitled ‘Alternative Alignments/Area’, numbered 604–20062A and dated May 1998; and
+
+&emsp;“(2) 80 acres of land, as generally depicted on the map entitled ‘Emerald Mound Development Concept Plan’, numbered 604–20042E and dated August 1987.
+
+“(b)
+
+Maps.—The maps referred to in subsection (a) shall be on file and available for public inspection in the office of the Director of the National Park Service.
+
+“(c)
+
+Acquisition.—The Secretary may acquire the land described in subsection (a) by donation, purchase with donated or appropriated funds, or exchange (including exchange with the State of Mississippi, local governments, and private persons).
+
+“(d)
+
+Administration.—Land acquired under this section shall be administered by the Secretary as part of the Parkway.
+
+#### “SEC. 3. AUTHORIZATION OF LEASING.
+
+“The Secretary, acting through the Superintendent of the Parkway, may lease land within the boundary of the Parkway to the city of Natchez, Mississippi, for any purpose compatible with the Parkway.
+
+#### “SEC. 4. AUTHORIZATION OF APPROPRIATIONS.
+
+“There are authorized to be appropriated such sums as are necessary to carry out this Act.”
 
 #### Relocation of Portions of Parkway
 

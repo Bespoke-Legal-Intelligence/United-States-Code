@@ -38,7 +38,7 @@ A vessel engaged in dredging or underwater operations, when restricted in her ab
 
 #### (e) Vessels engaged in diving operations
 
-Whenever the size of a vessel engaged in diving operations makes it impracticable to exhibit all lights and shapes prescribed in paragraph (d) of this Rule, the following shall instead be exhibited:
+Whenever the size of a vessel engaged in diving operations makes it impracticable to exhibit alllights and shapes prescribed in paragraph (d) of this Rule, the following shall instead be exhibited:
 
 &emsp;(i) Three all-round lights in a vertical line where they can best be seen. The highest and lowest of these lights shall be red and the middle light shall be white.
 

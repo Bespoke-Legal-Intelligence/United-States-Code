@@ -8,7 +8,7 @@ There are authorized to be appropriated to the President to carry out the purpos
 
 1985—Pub. L. 99–83 amended section generally, substituting provisions authorizing appropriations of $56,221,000 for fiscal years 1986 and 1987, for provisions authorizing appropriations of $42,000,000 for fiscal years 1982 and 1983.
 
-1981—Pub. L. 97–113, §§113, 734(a)(1), substituted appropriations authorization of $42,000,000 for fiscal years 1982 and 1983 for appropriation of $34,000,000 for fiscalyear 1981 and deleted prohibition against any training after June 30, 1976, outside the United States without a prior Presidential report to the Speaker of the House and the Senate Foreign Relations Committee and justification for the training.
+1981—Pub. L. 97–113, §§113, 734(a)(1), substituted appropriations authorization of $42,000,000 for fiscal years 1982 and 1983 for appropriation of $34,000,000 for fiscal year 1981 and deleted prohibition against any training after June 30, 1976, outside the United States without a prior Presidential report to the Speaker of the House and the Senate Foreign Relations Committee and justification for the training.
 
 1980—Pub. L. 96–533 substituted appropriations authorization of $34,000,000 for fiscal year 1981 for authorization of $31,800,000 for fiscal year 1980, including prohibition against availability of any amount for Inter-American regional programs unless the foreign country participants collectively contribute an equivalent amount to carry out the programs.
 

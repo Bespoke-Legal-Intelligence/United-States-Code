@@ -22,14 +22,6 @@ A prior section 211, act June 25, 1948, ch. 645, 62 Stat. 693, related to an off
 
 1951—Act Sept. 13, 1951, inserted second paragraph.
 
-#### Canal Zone
-
-Applicability of section to Canal Zone, see section 14 of this title.
-
-#### Cross References
-
-Minor offenses tried by United States magistrate judges as excluding offenses punishable under this section, see section 3401 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 14 of this title.

@@ -10,7 +10,7 @@ Any competitor, customer, or competitor of a customer of any person in violation
 
 #### (c) Suits by jewelry trade associations for injunctive relief; damages and costs
 
-Any duly organized and existing jewelry trade association shall be entitled to injunctive relief restraining any person in violation of section 294, 295, 296, or 297 of this title from further violation of sections 294 to 300 of this title and may sue therefor as the real party in interest in any district court of the United States in the district in which the defendant resides or has an agent, without respect to the amount in controversy, and if successful shall recover the cost of suit, including a reasonable attorney's fee. If the court determines that the action has been brought frivolously, for purposes of harassment, or in implementation of any scheme in restraint of trade, it may award punitive damages to the defendant.
+Any duly organized and existing jewelry trade association shall be entitled to injunctive relief restraining any person in violation of section 294, 295, 296, or 297 of this title from further violation of sections 294 to 300 of this title and maysue therefor as the real party in interest in any district court of the United States in the district in which the defendant resides or has an agent, without respect to the amount in controversy, and if successful shall recover the cost of suit, including a reasonable attorney's fee. If the court determines that the action has been brought frivolously, for purposes of harassment, or in implementation of any scheme in restraint of trade, it may award punitive damages to the defendant.
 
 #### (d) Award of costs to defendant
 
@@ -37,16 +37,6 @@ For separability provision of Pub. L. 91–366, see section 2 of Pub. L. 91–36
 #### Construction of 1970 Amendment
 
 Amendment by Pub. L. 91–366 to be held to be in addition to and not in substitution for or limitation of the provisions of any other Act of the United States, see section 3 of Pub. L. 91–366, set out as a note under section 297 of this title.
-
-#### Federal Rules of Criminal Procedure
-
-Special venue provisions of section as unaffected by rule 18, see Notes of Advisory Committee on Rules set out under rule 18, Title 18, Appendix, Crimes and Criminal Procedure.
-
-#### Cross References
-
-Jurisdiction of district courts of the United States of all offenses against the laws of the United States, see section 3231 of Title 18, Crimes and Criminal Procedure.
-
-Offenses begun in one district and completed in another, see section 3237 of Title 18.
 
 #### Section Referred to in Other Sections
 

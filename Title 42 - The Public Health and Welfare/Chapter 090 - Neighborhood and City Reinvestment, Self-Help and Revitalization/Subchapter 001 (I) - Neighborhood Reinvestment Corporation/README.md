@@ -8,19 +8,13 @@ This subchapter is referred to in title 12 section 1834a.
 
 <i><sup>2</sup></i><i> So in original. The word “opportunity” probably should be followed by a period.</i>
 
-<i><sup>3</sup></i><i> See References in Text note below.</i>
+<i><sup>3</sup></i><i> So in original. No subsec. (h)(6) has been enacted.</i>
 
-<i><sup>4</sup></i><i> So in original. No subsec. (h)(6) has been enacted.</i>
+<i><sup>4</sup></i><i> So in original. Probably should be subsection “(d)(1)”.</i>
 
-<i><sup>5</sup></i><i> So in original. Probably should be subsection “(b)(2)”.</i>
+<i><sup>5</sup></i><i> See Codification note below.</i>
 
-<i><sup>6</sup></i><i> So in original. Probably should be subsection “(b)(1)”.</i>
-
-<i><sup>7</sup></i><i> So in original. Probably should be subsection “(d)(1)”.</i>
-
-<i><sup>8</sup></i><i> See Codification note below.</i>
-
-<i><sup>9</sup></i><i> So in original. Probably should be subsection “(d)(2)”.</i>
+<i><sup>6</sup></i><i> So in original. Probably should be subsection “(d)(2)”.</i>
 
 
 ---

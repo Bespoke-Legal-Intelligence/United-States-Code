@@ -8,16 +8,12 @@
 | [213\.](%C2%A7%2000213%20-%20Application%20for%20passport%3B%20verification%20by%20oath%20of%20initial%20passport.md) | Application for passport; verification by oath of initial passport. |
 | [214\.](%C2%A7%2000214%20-%20Fees%20for%20execution%20and%20issuance%20of%20passports%3B%20persons%20excused%20from%20payment.md) | Fees for execution and issuance of passports; persons excused from payment. |
 | [214a.](%C2%A7%2000214a%20-%20Fees%20erroneously%20charged%20and%20paid%3B%20refund.md) | Fees erroneously charged and paid; refund. |
-| 215 to 217. | Omitted or Repealed. |
+| 215 to 217. Omitted or Repealed. |  |
 | [217a.](%C2%A7%2000217a%20-%20Validity%20of%20passport%3B%20limitation%20of%20time.md) | Validity of passport; limitation of time. |
 | [218\.](%C2%A7%2000218%20-%20Returns%20as%20to%20passports%20issued%2C%20etc.md) | Returns as to passports issued, etc. |
 | 219 to 229. Repealed. |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Cross References
-
-Immigration and Nationality Act, see section 1101 et seq. of Title 8, Aliens and Nationality.
 
 
 ---

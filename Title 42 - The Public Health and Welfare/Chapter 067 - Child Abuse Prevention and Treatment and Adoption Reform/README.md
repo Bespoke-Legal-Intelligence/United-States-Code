@@ -48,7 +48,7 @@
 | (c) | Limitation. |
 | [5106e.](Subchapter%20001%20%28I%29%20-%20General%20Program/%C2%A7%2005106e%20-%20Coordination%20of%20child%20abuse%20and%20neglect%20programs.md) | Coordination of child abuse and neglect programs. |
 | [5106f.](Subchapter%20001%20%28I%29%20-%20General%20Program/%C2%A7%2005106f%20-%20Reports.md) | Reports. |
-| (a) | Coordination efforts. |
+| (a) | Omitted. |
 | (b) | Effectiveness of State programs. |
 | 5106f–1. | Report concerning voluntary reporting system. |
 | [5106g.](Subchapter%20001%20%28I%29%20-%20General%20Program/%C2%A7%2005106g%20-%20Definitions.md) | Definitions. |

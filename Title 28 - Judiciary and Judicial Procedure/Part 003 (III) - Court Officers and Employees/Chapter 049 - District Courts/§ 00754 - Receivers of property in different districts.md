@@ -24,13 +24,3 @@ Under section 117 of title 28, U.S.C., 1940 ed., failure to file copies of the c
 
 Changes were made in phraseology.
 
-#### Federal Rules of Civil Procedure
-
-Capacity to sue or be sued, see rule 17, Appendix to this title.
-
-#### Cross References
-
-Mismanagement of property by receiver, criminal penalty, see section 1911 of Title 18, Crimes and Criminal Procedure.
-
-Process and orders affecting property in different districts, see section 1692 of this title.
-

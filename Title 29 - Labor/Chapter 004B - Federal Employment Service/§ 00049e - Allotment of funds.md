@@ -1,6 +1,6 @@
 ### §49e. Allotment of funds
 
-(a) From the amounts appropriated pursuant to section 49d of this title for each fiscal year, the Secretary shall first allot to Guam and the Virgin Islands an amount which, in relation to the total amount available for the fiscal year, is equal to the allotment percentage which each received of amounts available under this chapter in fiscal year 1983.
+(a) From the amounts appropriated pursuant to section 49d of this title for each fiscal year,the Secretary shall first allot to Guam and the Virgin Islands an amount which, in relation to the total amount available for the fiscal year, is equal to the allotment percentage which each received of amounts available under this chapter in fiscal year 1983.
 
 (b)(1) Subject to paragraphs (2), (3), and (4) of this subsection, the Secretary shall allot the remainder of the sums appropriated and certified pursuant to section 49d of this title for each fiscal year among the States as follows:
 

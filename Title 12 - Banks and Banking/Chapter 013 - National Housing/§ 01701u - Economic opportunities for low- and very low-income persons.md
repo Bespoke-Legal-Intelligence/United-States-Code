@@ -74,7 +74,7 @@ It is the policy of the Congress and the purpose of this section to ensure that 
 
 #### (B) Priority
 
-&emsp;&emsp;Where feasible, priority should be given to business concerns which provide economic opportunities for low- and very low-income persons residing within the service area of the project or the neighborhood in which the project is located and to Youthbuild programs receiving assistance under subtitle D of title IV of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12899 et seq.\].
+&emsp;&emsp;Where feasible, priority should be given to business concerns which provide economic opportunities for low- and very low-incomepersons residing within the service area of the project or the neighborhood in which the project is located and to Youthbuild programs receiving assistance under subtitle D of title IV of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12899 et seq.\].
 
 #### (e) Definitions
 
@@ -130,7 +130,7 @@ Par. (2). Pub. L. 96–399, §329(2), substituted “residing in the same metrop
 
 1974—Pub. L. 93–383 inserted reference to community development block grants under title I of the Housing and Community Development Act of 1974.
 
-1969—Pub. L. 91–152 substituted provisions making applicable programs providing direct financial assistance in aid of housing, urban planning, development, redevelopment, or renewal, public or community facilities, and new community development, for provisions making applicable programs authorized by sections 1715<i>l</i>(d)(3), 1715z, and 1715z–1 of this title, the low-rentpublic housing program under the United States Housing Act of 1937, and the rent supplement program under section 101 of the Housing and Urban Development Act of 1965.
+1969—Pub. L. 91–152 substituted provisions making applicable programs providing direct financial assistance in aid of housing, urban planning, development, redevelopment, or renewal, public or community facilities, and new community development, for provisions making applicable programs authorized by sections 1715<i>l</i>(d)(3), 1715z, and 1715z–1 of this title, the low-rent public housing program under the United States Housing Act of 1937, and the rent supplement program under section 101 of the Housing and Urban Development Act of 1965.
 
 #### Effectiveness Study
 

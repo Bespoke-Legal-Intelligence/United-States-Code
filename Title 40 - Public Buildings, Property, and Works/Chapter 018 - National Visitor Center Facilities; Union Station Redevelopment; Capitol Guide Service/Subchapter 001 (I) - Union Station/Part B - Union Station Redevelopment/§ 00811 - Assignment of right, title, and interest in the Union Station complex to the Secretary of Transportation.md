@@ -2,7 +2,7 @@
 
 #### (a) Reservation of certain rights by the Secretary; definition
 
-Upon the request of the Secretary of Transportation, the Secretary shall assign to the Secretary of Transportation all of the Secretary's right, title, and interest in the Union Station complex, including all agreements and leases entered into under part A of this subchapter. Such assignment may reserve to the Secretary the right to lease space for visitor services, to theextent the Secretary and the Secretary of Transportation may agree. For purposes of this subchapter, the “Union Station complex” shall include all the real property, air rights, and improvements leased by the Secretary under part A of this subchapter, together with any property acquired and all improvements made in accordance with this part.
+Upon the request of the Secretary of Transportation, the Secretary shall assign to the Secretary of Transportation all of the Secretary's right, title, and interest in the Union Station complex, including all agreements and leases entered into under part A of this subchapter. Such assignment may reserve to the Secretary the right to lease space for visitor services, to the extent the Secretary and the Secretary of Transportation may agree. For purposes of this subchapter, the “Union Station complex” shall include all the real property, air rights, and improvements leased by the Secretary under part A of this subchapter, together with any property acquired and all improvements made in accordance with this part.
 
 #### (b) Installation of new roofs and drainage systems
 

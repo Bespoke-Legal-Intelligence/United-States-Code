@@ -76,3 +76,7 @@ In subsection (c), the words “Secretary of Defense” are substituted for “D
 
 In subsection (d), the words “Not later than two years after September 3, 1982” are omitted as executed.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in section 47114 of this title.
+

@@ -8,10 +8,6 @@ No purchase, grant, lease, or other conveyance of lands, or of any title or clai
 
 R.S. §2116 derived from act June 30, 1834, ch. 161, §12, 4 Stat. 730.
 
-#### Cross References
-
-Patents to be held in trust, descent and partition, see section 348 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 941k, 1724, 1757, 1772c, 1774f of this title.

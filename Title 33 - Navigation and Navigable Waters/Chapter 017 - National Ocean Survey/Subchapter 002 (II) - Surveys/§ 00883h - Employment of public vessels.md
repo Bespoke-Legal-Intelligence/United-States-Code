@@ -8,7 +8,3 @@ The President is authorized to cause to be employed such of the public vessels a
 
 Functions of President under this section delegated to Secretary of Commerce, see section 1(<i>l</i>) of Ex. Ord. No. 11023, May 28, 1962, 27 F.R. 5131, set out as a note under section 301 of Title 3, The President.
 
-#### Cross References
-
-Authority to place vessels of Bureau of Fisheries on the same footing as those of the National Ocean Survey, see section 746 of Title 16, Conservation.
-

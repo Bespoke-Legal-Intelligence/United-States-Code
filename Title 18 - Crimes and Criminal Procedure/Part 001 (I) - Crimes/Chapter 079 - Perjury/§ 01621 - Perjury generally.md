@@ -30,22 +30,6 @@ Minor verbal changes were made.
 
 1964—Pub. L. 88–619 inserted at end “This section is applicable whether the statement or subscription is made within or without the United States.”
 
-#### Canal Zone
-
-Applicability of section to Canal Zone, see section 14 of this title.
-
-#### Cross References
-
-Census employees; false statements as perjury; punishment, see section 213 of Title 13, Census.
-
-False tax return, statements or document as perjury, see section 7206 of Title 26, Internal Revenue Code.
-
-Federal employee's disability compensation, false statements to obtain as perjury; punishment, see section 1920 of this title.
-
-Federal retirement benefits, forfeiture upon conviction of offenses described under this section committed in connection with certain national security offenses, see section 8312 of Title 5, Government Organization and Employees.
-
-Jurisdiction of offenses, see section 3241 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 14 of this title; title 8 sections 1324a, 1357; title 30 section 49e; title 42 section 5197a; title 50 App. section 19.

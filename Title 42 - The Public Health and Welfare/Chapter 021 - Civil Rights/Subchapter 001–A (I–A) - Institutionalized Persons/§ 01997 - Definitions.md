@@ -50,5 +50,5 @@ Section 1 of Pub. L. 96–247 provided: “That this Act \[enacting this subchap
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1997a of this title.
+This section is referred to in sections 1997a, 2000cc–1 of this title.
 

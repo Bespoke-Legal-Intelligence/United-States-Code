@@ -1,6 +1,6 @@
 ### §740. Duties and taxes to constitute fund for benefit of Puerto Rico; ports of entry
 
-The duties and taxes collected in Puerto Rico in pursuance of the provisions of this Act, less the cost of collecting the same, and the gross amount of all collections of duties and taxes in the United States upon articles of merchandise coming from Puerto Rico, shall be paid into the treasury of Puerto Rico to be expended as required by law for the government and benefit thereof, and the Secretary of the Treasury shall designate the several ports and subports of entryin Puerto Rico and shall make such rules and regulations and appoint such agents as may be necessary to collect the duties and taxes authorized to be levied, collected, and paid in Puerto Rico by the provisions of this Act, and he shall fix the compensation and provide for the payment thereof of all such officers, agents, and assistants as he may find it necessary to employ to carry out the provisions of law.
+The duties and taxes collected in Puerto Rico in pursuance of the provisions of this Act, less the cost of collecting the same, and the gross amount of all collections of duties and taxes inthe United States upon articles of merchandise coming from Puerto Rico, shall be paid into the treasury of Puerto Rico to be expended as required by law for the government and benefit thereof, and the Secretary of the Treasury shall designate the several ports and subports of entry in Puerto Rico and shall make such rules and regulations and appoint such agents as may be necessary to collect the duties and taxes authorized to be levied, collected, and paid in Puerto Rico by the provisions of this Act, and he shall fix the compensation and provide for the payment thereof of all such officers, agents, and assistants as he may find it necessary to employ to carry out the provisions of law.
 
 (Apr. 12, 1900, ch. 191, §4, 31 Stat. 78; May 17, 1932, ch. 190, 47 Stat. 158.)
 
@@ -25,8 +25,4 @@ All offices of collector of customs, comptroller of customs, surveyor of customs
 #### Expenditures for Governmental and Public Purposes
 
 The amount of customs revenue received by the United States on importations from Puerto Rico since its evacuation by the Spanish forces together with all that should thereafter be collected under the existing law were placed at the disposal of the President to be used for governmental and public purposes in Puerto Rico, by act Mar. 24, 1900, ch. 91, 31 Stat. 51.
-
-#### Cross References
-
-All taxes collected on articles produced in Puerto Rico and transported to the United States to be covered into the treasury of Puerto Rico, see section 7652 of Title 26, Internal Revenue Code.
 

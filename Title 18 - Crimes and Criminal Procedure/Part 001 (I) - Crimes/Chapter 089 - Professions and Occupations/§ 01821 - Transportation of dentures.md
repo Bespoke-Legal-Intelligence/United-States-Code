@@ -6,7 +6,7 @@ Whoever transports by mail or otherwise to or within the District of Columbia, t
 
 &emsp;(2) the construction or supply of dentures by a person other than, or without the authorization or prescription of, a person licensed under such laws to practice dentistry; or
 
-&emsp;(3) the construction or supply of dentures from impressions or casts made by a personnot licensed under such laws to practice dentistry—
+&emsp;(3) the construction or supply of dentures from impressions or casts made by a person not licensed under such laws to practice dentistry—
 
 Shall be fined under this title or imprisoned not more than one year, or both.
 
@@ -33,14 +33,6 @@ For definition of Canal Zone, referred to in text, see section 3602(b) of Title 
 #### Amendments
 
 1996—Pub. L. 104–294 substituted “fined under this title” for “fined not more than $1,000” in last par.
-
-#### Canal Zone
-
-Applicability of section to Canal Zone, see section 14 of this title.
-
-#### Cross References
-
-Jurisdiction and venue of offenses begun in one district and completed in another, see section 3237 of this title.
 
 #### Section Referred to in Other Sections
 

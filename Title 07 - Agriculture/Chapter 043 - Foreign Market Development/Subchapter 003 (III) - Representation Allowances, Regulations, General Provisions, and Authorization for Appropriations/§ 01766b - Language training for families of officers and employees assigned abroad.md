@@ -10,7 +10,7 @@ The Agricultural Trade Development and Assistance Act of 1954, as amended, refer
 
 #### Codification
 
-Amendment by section 102(f) of Pub. L. 96–470 was executed to this section which is section 606C of act Aug. 28, 1954, instead of section 602(f) of act Aug. 28, 1954, as directed by section 102(f) of Pub. L. 96–470, as the probable intent of Congress, in view of the renumbering of section 602(f) of act Aug. 28, 1954 as section 606C of act Aug. 28, 1954 by section 401(3) of Pub. L. 95–501.
+Amendment by section 102(f) of Pub. L. 96–470 was executed to this section which is section 606C of act Aug.28, 1954, instead of section 602(f) of act Aug. 28, 1954, as directed by section 102(f) of Pub. L. 96–470, as the probable intent of Congress, in view of the renumbering of section 602(f) of act Aug. 28, 1954 as section 606C of act Aug. 28, 1954 by section 401(3) of Pub. L. 95–501.
 
 Provisions comprising this section were formerly classified to section 1762(f) of this title prior to redesignation by section 401(3) of Pub. L. 95–501.
 

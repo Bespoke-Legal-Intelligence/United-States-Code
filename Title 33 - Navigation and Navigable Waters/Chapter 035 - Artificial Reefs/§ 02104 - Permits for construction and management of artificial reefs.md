@@ -26,7 +26,7 @@ In issuing a permit for artificial reefs under section 403 of this title, sectio
 
 (3) The Secretary may not issue a permit subject to this section to a person unless that person demonstrates to the Secretary the financial ability to assume liability for all damages that may arise with respect to an artificial reef and for which such permittee may be liable.
 
-(4) Any person who has transferred title to artificial reef construction materials to a person to whom a permit is issued in accordance withsubsection (a) of this section shall not be liable for damages arising from the use of such materials in an artificial reef, if such materials meet applicable requirements of the plan published under section 2103 of this title and are not otherwise defective at the time title is transferred.
+(4) Any person who has transferred title to artificial reef construction materials to a person to whom a permit is issued in accordance with subsection (a) of this section shall not be liable for damages arising from the use of such materials in an artificial reef, if such materials meet applicable requirements of the plan published under section 2103 of this title and are not otherwise defective at the time title is transferred.
 
 #### (d) Liability of the United States
 

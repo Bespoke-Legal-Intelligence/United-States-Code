@@ -36,10 +36,13 @@
 | [1033\.](%C2%A7%2001033%20-%20Crimes%20by%20or%20affecting%20persons%20engaged%20in%20the%20business%20of%20insurance%20whose%20activities%20affect%20interstate%20commerce.md) | Crimes by or affecting persons engaged in the business of insurance whose activities affect interstate commerce. |
 | [1034\.](%C2%A7%2001034%20-%20Civil%20penalties%20and%20injunctions%20for%20violations%20of%20section%201033.md) | Civil penalties and injunctions for violations of section 1033. |
 | [1035\.](%C2%A7%2001035%20-%20False%20statements%20relating%20to%20health%20care%20matters.md) | False statements relating to health care matters. |
+| [1036\.](%C2%A7%2001036%20-%20Entry%20by%20false%20pretenses%20to%20any%20real%20property%2C%20vessel%2C%20or%20aircraft%20of%20the%20United%20States%20or%20secure%20area%20of%20any%20airport.md) | Entry by false pretenses to any real property, vessel, or aircraft of the United States or secure area of any airport. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2000—Pub. L. 106–547, §2(b), Dec. 19, 2000, 114 Stat. 2739, added item 1036.
 
 1998—Pub. L. 105–318, §3(h)(2), Oct. 30, 1998, 112 Stat. 3009, inserted “and information” at end of item 1028.
 
@@ -69,19 +72,11 @@ Pub. L. 104–191, title II, §244(b), Aug. 21, 1996, 110 Stat. 2017, added item
 
 1949—Act May 24, 1949, ch. 139, §§18, 19, 63 Stat. 92, corrected spelling in item 1012 and substituted “officers” for “offices” in item 1019.
 
-#### Cross References
-
-Alien registration, fraud and false statements, see section 1306 of Title 8, Aliens and Nationality.
-
-Carriers’ reports to Secretary of Transportation or Surface Transportation Board, false entries, see sections 11903, 14907, and 16102 of Title 49, Transportation.
-
-China Trade, false or fraudulent statements prohibited, see section 158 of Title 15, Commerce and Trade.
-
 #### Chapter Referred to in Other Sections
 
 This chapter is referred to in title 7 section 12a; title 15 sections 78<i>o</i>, 80b–3; title 29 section 1031.
 
-<i><sup>1</sup></i><i> So in original. There is no section 985.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 
 
 ---
@@ -122,3 +117,4 @@ This chapter is referred to in title 7 section 12a; title 15 sections 78<i>o</i>
 - [&sect; 01033 - Crimes by or affecting persons engaged in the business of insurance whose activities affect interstate commerce](%C2%A7%2001033%20-%20Crimes%20by%20or%20affecting%20persons%20engaged%20in%20the%20business%20of%20insurance%20whose%20activities%20affect%20interstate%20commerce.md)
 - [&sect; 01034 - Civil penalties and injunctions for violations of section 1033](%C2%A7%2001034%20-%20Civil%20penalties%20and%20injunctions%20for%20violations%20of%20section%201033.md)
 - [&sect; 01035 - False statements relating to health care matters](%C2%A7%2001035%20-%20False%20statements%20relating%20to%20health%20care%20matters.md)
+- [&sect; 01036 - Entry by false pretenses to any real property, vessel, or aircraft of the United States or secure area of any airport](%C2%A7%2001036%20-%20Entry%20by%20false%20pretenses%20to%20any%20real%20property%2C%20vessel%2C%20or%20aircraft%20of%20the%20United%20States%20or%20secure%20area%20of%20any%20airport.md)

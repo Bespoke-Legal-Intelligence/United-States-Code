@@ -6,7 +6,7 @@ Upon the written request of the Majority or Minority Leader of the Senate, the S
 
 #### (b) Authority to incur expenses
 
-The Majority and Minority Leaders of the Senate are each authorized to incur such expenses as may be necessary or appropriate. Expenses incurred by either such leader shall be paid from the amount transferred pursuant tosubsection (a) of this section by such leader and upon vouchers approved by such leader.
+The Majority and Minority Leaders of the Senate are each authorized to incur such expenses as may be necessary or appropriate. Expenses incurred by either such leader shall be paid from the amount transferred pursuant to subsection (a) of this section by such leader and upon vouchers approved by such leader.
 
 #### (c) Authority to advance sums
 

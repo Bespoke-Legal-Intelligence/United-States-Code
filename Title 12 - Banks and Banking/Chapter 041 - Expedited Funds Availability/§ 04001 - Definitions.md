@@ -62,7 +62,7 @@ For purposes of this chapter—
 
 #### (12) Depository institution
 
-&emsp;The term “depository institution” has the meaning given such term in clauses (i) through (vi) of section 461(b)(1)(A) of this title. Such term also includes an office, branch, or agency of a foreign bank located in the United States.
+&emsp;The term “depository institution” has the meaning given such term in clauses (i)through (vi) of section 461(b)(1)(A) of this title. Such term also includes an office, branch, or agency of a foreign bank located in the United States.
 
 #### (13) Local originating depository institution
 
@@ -138,7 +138,7 @@ For purposes of this chapter—
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this title”, meaning title VI of Pub. L. 100–86, Aug. 10, 1987, 101 Stat. 635, known as the Expedited Funds Availability Act, which enacted this chapter, amended section 248a of this title, and enacted provisions set out as notes under sections 248a and 4001 of this title. Forcomplete classification of this Act to the Code, see Short Title note below and Tables.
+This chapter, referred to in text, was in the original “this title”, meaning title VI of Pub. L. 100–86, Aug. 10, 1987, 101 Stat. 635, known as the Expedited Funds Availability Act, which enacted this chapter, amended section 248a of this title, and enacted provisions set out as notes under sections 248a and 4001 of this title. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 #### Effective Date
 

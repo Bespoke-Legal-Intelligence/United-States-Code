@@ -85,6 +85,16 @@
 | (b) | Revocation orders. |
 | (c) | Civil penalty. |
 | (d) | Assessment. |
+| [823c.](Subchapter%20001%20%28I%29%20-%20Regulation%20of%20the%20Development%20of%20Water%20Power%20and%20Resources/%C2%A7%2000823c%20-%20Alaska%20State%20jurisdiction%20over%20small%20hydroelectric%20projects.md) | Alaska State jurisdiction over small hydroelectric projects. |
+| (a) | Discontinuance of regulation by the Commission. |
+| (b) | Definition of “qualifying project works”. |
+| (c) | Election of State licensing. |
+| (d) | Project works on Federal lands. |
+| (e) | Consultation with affected agencies. |
+| (f) | Application of Federal laws. |
+| (g) | Oversight by the Commission. |
+| (h) | Resumption of Commission authority. |
+| (i) | Determination by the Commission. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -134,7 +144,6 @@
 | (c) | Timely acquisition by other means. |
 | (d) | Payments by permittees. |
 | (e) | Federal law governing Federal lands. |
-| (f) | Reports. |
 | [824b.](Subchapter%20002%20%28II%29%20-%20Regulation%20of%20Electric%20Utility%20Companies%20Engaged%20in%20Interstate%20Commerce/%C2%A7%2000824b%20-%20Disposition%20of%20property%3B%20consolidations%3B%20purchase%20of%20securities.md) | Disposition of property; consolidations; purchase of securities. |
 | (a) | Authorizations. |
 | (b) | Orders of Commission. |
@@ -195,6 +204,7 @@
 | (a) | Requests for wholesale transmission services. |
 | (b) | Transmission capacity and constraints. |
 | [824m.](Subchapter%20002%20%28II%29%20-%20Regulation%20of%20Electric%20Utility%20Companies%20Engaged%20in%20Interstate%20Commerce/%C2%A7%2000824m%20-%20Sales%20by%20exempt%20wholesale%20generators.md) | Sales by exempt wholesale generators. |
+| [824n.](Subchapter%20002%20%28II%29%20-%20Regulation%20of%20Electric%20Utility%20Companies%20Engaged%20in%20Interstate%20Commerce/%C2%A7%2000824n%20-%20Authority%20relating%20to%20formation%20and%20operation%20of%20regional%20transmission%20organizations.md) | Authority relating to formation and operation of regional transmission organizations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -269,45 +279,9 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Application to National Parks
-
-Acadia National Park, see section 342b of this title.
-
-Big Bend National Park, see section 158 of this title.
-
-Bryce Canyon National Park, see section 402e of this title.
-
-Carlsbad Caverns National Park, see section 407b of this title.
-
-Everglades National Park, see section 410b of this title.
-
-Grand Canyon National Park, see section 221b of this title.
-
-Great Smoky Mountains National Park, see section 403b of this title.
-
-Hawaii National Park, see sections 391, 391b–1 of this title.
-
-Isle Royale National Park, see section 408b of this title.
-
-Lands reserved for park purposes in Coos County, Oregon, see section 405 of this title.
-
-Lassen Volcanic National Park, see sections 201b, 204<i>l</i>, 205a, and 207a of this title.
-
-Mammoth Cave National Park, see section 404b of this title.
-
-Mount Rainier National Park, see section 108 of this title.
-
-Rocky Mountain National Park, see section 197 of this title.
-
-Shenandoah National Park, see section 403b of this title.
-
-Yellowstone National Park, see section 21b of this title.
-
-Yosemite National Park, see sections 47b, 47f of this title.
-
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 21b, 47b, 47f, 90d–4, 108, 158, 197, 201b, 204<i>l</i>, 205a, 207a, 221b, 342b, 391, 391b–1, 402e, 403b, 404b, 405, 407b, 408b, 410b, 435, 459a–1, 460m–11, 460m–21, 460ee, 460gg–2, 460ii–3, 460iii–3, 545b, 577b, 824a–1, 824a–3, 832h, 833g, 836, 839e, 1278, 2603, 2705, 3215 of this title; title 15 section 790a; title 25 section 326; title 30 section 621; title 33 section 467a; title 42 sections 2019, 7172, 7173, 7473, 7651b; title 43 sections 617d, 617e, 617k, 617<i>l</i>, 1634, 1761.
+This chapter is referred to in sections 21b, 47b, 47f, 90d–4, 108, 158, 197, 201b, 204<i>l</i>, 205a, 207a, 221b, 342b, 391, 391b–1, 402e, 403b, 404b, 405, 407b, 408b, 410b, 435, 459a–1, 460m–11, 460m–21, 460ee, 460gg–2, 460ii–3, 460iii–3, 545b, 577b, 698v–7, 824a–1, 824a–3, 832h, 833g, 836, 839e, 1278, 2603, 2705, 3215 of this title; title 15 section 790a; title 25 section 326; title 30 section 621; title 33 section 467a; title 42 sections 2019, 7172, 7173, 7473, 7651b; title 43 sections 617d, 617e, 617k, 617<i>l</i>, 1634, 1761.
 
 
 ---

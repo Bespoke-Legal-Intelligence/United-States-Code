@@ -22,12 +22,6 @@ Minor changes were made in phraseology.
 
 Pub. L. 103–322, §330016(1)(H), substituted “fined under this title” for “fined not more than $1,000” after “he shall be”.
 
-#### Cross References
-
-Embezzlement by bankruptcy court officer, see section 153 of this title.
-
-Refusal to pay as evidence of embezzlement, see section 3487 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in title 22 section 3622.

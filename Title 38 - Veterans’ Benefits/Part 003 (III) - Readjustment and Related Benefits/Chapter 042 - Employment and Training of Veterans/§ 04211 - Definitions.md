@@ -22,9 +22,13 @@ As used in this chapter—
 
 (5) The term “department or agency” means any agency of the Federal Government or the District of Columbia, including any Executive agency as defined in section 105 of title 5 and the United States Postal Service and the Postal Rate Commission, and the term “department, agency, or instrumentality in the executive branch” includes the United States Postal Service and the Postal Rate Commission.
 
-(Added Pub. L. 92–540, title V, §503(a), Oct. 24, 1972, 86 Stat. 1097, §2011; amended Pub. L. 94–502, title VI, §607(1), Oct. 15, 1976, 90 Stat. 2405; Pub. L. 96–466, title V, §508, Oct. 17, 1980, 94 Stat. 2206; Pub. L. 97–306, title III, §309, Oct. 14, 1982, 96 Stat. 1441; Pub. L. 98–223, title II, §206, Mar. 2, 1984, 98 Stat. 43; Pub. L. 101–237, title IV, §407(a)(2), Dec. 18, 1989, 103 Stat. 2082; Pub. L. 102–16, §1, Mar. 22, 1991, 105 Stat. 48; Pub. L. 102–54, §14(c)(9), June 13, 1991, 105 Stat. 285; renumbered §4211 and amended Pub. L. 102–83, §§4(a)(1), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403, 406; Pub. L. 102–127, §5, Oct. 10, 1991, 105 Stat. 622; Pub. L. 102–568, title V, §502, Oct. 29, 1992, 106 Stat. 4340; Pub. L. 104–106, div. A, title XV, §1501(e)(2)(D), Feb. 10, 1996, 110 Stat. 501.)
+(6) The term “recently separated veteran” means any veteran during the one-year period beginning on the date of such veteran's discharge or release from active duty.
+
+(Added Pub. L. 92–540, title V, §503(a), Oct. 24, 1972, 86 Stat. 1097, §2011; amended Pub. L. 94–502, title VI, §607(1), Oct. 15, 1976, 90 Stat. 2405; Pub. L. 96–466, title V, §508, Oct. 17, 1980, 94 Stat. 2206; Pub. L. 97–306, title III, §309, Oct. 14, 1982, 96 Stat. 1441; Pub. L. 98–223, title II, §206, Mar. 2, 1984, 98 Stat. 43; Pub. L. 101–237, title IV, §407(a)(2), Dec. 18, 1989, 103 Stat. 2082; Pub. L. 102–16, §1, Mar. 22, 1991, 105 Stat. 48; Pub. L. 102–54, §14(c)(9), June 13, 1991, 105 Stat. 285; renumbered §4211 and amended Pub. L. 102–83, §§4(a)(1), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403, 406; Pub. L. 102–127, §5, Oct. 10, 1991, 105 Stat. 622; Pub. L. 102–568, title V, §502, Oct. 29, 1992, 106 Stat. 4340; Pub. L. 104–106, div. A, title XV, §1501(e)(2)(D), Feb. 10, 1996, 110 Stat. 501; Pub. L. 106–419, title III, §322(c), Nov. 1, 2000, 114 Stat. 1855.)
 
 #### Amendments
+
+2000—Par. (6). Pub. L. 106–419 added par. (6).
 
 1996—Par. (4)(C). Pub. L. 104–106 substituted “section 12301(a), (d), or (g), 12302, or 12304 of title 10” for “section 672(a), (d), or (g), 673, or 673b of title 10”.
 

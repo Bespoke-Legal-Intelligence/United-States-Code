@@ -1,8 +1,8 @@
 ### §280b–3. Authorization of appropriations
 
-For the purpose of carrying out this part, there are authorized to be appropriated $50,000,000 for fiscal year 1994, and such sums as may be necessary for each of the fiscal years 1995 through 1998.
+For the purpose of carrying out this part, there are authorized to be appropriated $50,000,000 for fiscal year 1994, such sums as may be necessary for each of the fiscal years 1995 through 1998, and such sums as may be necessary for each of the fiscal years 2001 through 2005..<sup>1</sup>
 
-(July 1, 1944, ch. 373, title III, §394A, formerly §394, as added Pub. L. 99–649, §3, Nov. 10, 1986, 100 Stat. 3634; amended Pub. L. 101–558, §2(d), Nov. 15, 1990, 104 Stat. 2773; renumbered §394A and amended Pub. L. 103–183, title II, §§201(1), 204, Dec. 14, 1993, 107 Stat. 2231, 2233.)
+(July 1, 1944, ch. 373, title III, §394A, formerly §394, as added Pub. L. 99–649, §3, Nov. 10, 1986, 100 Stat. 3634; amended Pub. L. 101–558, §2(d), Nov. 15, 1990, 104 Stat. 2773; renumbered §394A and amended Pub. L. 103–183, title II, §§201(1), 204, Dec. 14, 1993, 107 Stat. 2231, 2233; Pub. L. 106–310, div. A, title XIII, §1306, Oct. 17, 2000, 114 Stat. 1143.)
 
 #### Prior Provisions
 
@@ -29,6 +29,10 @@ Section 280b–11, act July 1, 1944, ch. 373, title III, §399, formerly §399b,
 A prior section 280b–12, act July 1, 1944, ch. 373, title III, §399b, as added Mar. 13, 1970, Pub. L. 91–212, §9, 84 Stat. 65, related to transfer of funds, prior to repeal by Pub. L. 93–353, title II, §204, July 23, 1974, 88 Stat. 373, applicable with respect to fiscal years beginning after June 30, 1974.
 
 #### Amendments
+
+2000—Pub. L. 106–310, which directed the amendment of this section by striking out “and” after “1994”, was executed by striking “and” after “1994,” to reflect the probable intent of Congress.
+
+Pub. L. 106–310 inserted before period at end “, and such sums as may be necessary for each of the fiscal years 2001 through 2005.”
 
 1993—Pub. L. 103–183, §204, amended section generally. Prior to amendment, section read as follows: “To carry out sections 280b and 280b–1 of this title, there are authorized to be appropriated $10,000,000 for each of the fiscal years 1988, 1989, and 1990, $30,000,000 for fiscal year 1991, and such sums as may be necessary for each of the fiscal years 1992 and 1993.”
 

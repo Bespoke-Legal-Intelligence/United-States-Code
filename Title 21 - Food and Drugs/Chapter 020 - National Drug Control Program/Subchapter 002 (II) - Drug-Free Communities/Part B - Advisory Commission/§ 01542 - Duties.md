@@ -14,7 +14,7 @@ The Advisory Commission—
 
 &emsp;(5) may—
 
-&emsp;&emsp;(A) collect, by correspondence or by personal investigation, information concerning initiatives, studies, services, programs, or other activities of coalitions or organizations working in the field of substance abuse in the United States or any other country; and
+&emsp;&emsp;(A) collect, by correspondence or by personal investigation, information concerning initiatives, studies, services, programs, or other activities of coalitions or organizations working in the field of substance abusein the United States or any other country; and
 
 &emsp;&emsp;(B) with the approval of the Director, make the information referred to in subparagraph (A) available through appropriate publications or other methods for the benefit of eligible coalitions and the general public; and
 

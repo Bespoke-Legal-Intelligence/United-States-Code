@@ -44,7 +44,3 @@ The words “former” and “as an enlisted member” are inserted for clarity.
 
 Section 520(c) of Pub. L. 102–484 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 8258 of this title\] shall apply to persons discharged or released from active duty as commissioned officers in the Army Reserve or the Air Force Reserve, respectively, after the date of the enactment of this Act \[Oct. 23, 1992\].”
 
-#### Cross References
-
-Service credit: regular enlisted members; service as an officer to be counted as enlisted service, see section 3684 of this title.
-

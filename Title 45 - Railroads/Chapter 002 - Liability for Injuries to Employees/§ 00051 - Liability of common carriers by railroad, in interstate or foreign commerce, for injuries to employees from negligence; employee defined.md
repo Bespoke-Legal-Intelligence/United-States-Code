@@ -22,7 +22,3 @@ Apr. 5, 1910, ch. 143, 36 Stat. 291. See sections 56 and 59 of this title.
 
 Aug. 11, 1939, ch. 685, 53 Stat. 1404. See sections 51, 54, 56, and 60 of this title.
 
-#### Federal Rules of Civil Procedure
-
-Form of complaint, see Form 14, Title 28, Appendix, Judiciary and Judicial Procedure.
-

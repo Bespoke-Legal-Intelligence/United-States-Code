@@ -4,3 +4,7 @@ A tribal government participating in a demonstration program under this chapter 
 
 (Pub. L. 102–477, §10, Oct. 23, 1992, 106 Stat. 2304.)
 
+#### Section Referred to in Other Sections
+
+This section is referred to in section 3408 of this title.
+

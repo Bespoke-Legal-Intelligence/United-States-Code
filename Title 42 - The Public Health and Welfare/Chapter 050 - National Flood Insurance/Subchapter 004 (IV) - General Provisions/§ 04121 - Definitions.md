@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(B) ancillary beneficial functions, including maintenance of water quality and recharge of ground water, that reduce flood related damage;
 
-&emsp;(13) the term “regulated lending institution” means any bank, savings and loan association,credit union, farm credit bank, Federal land bank association, production credit association, or similar institution subject to the supervision of a Federal entity for lending regulation; and
+&emsp;(13) the term “regulated lending institution” means any bank, savings and loan association, credit union, farm credit bank, Federal land bank association, production credit association, or similar institution subject to the supervision of a Federal entity for lending regulation; and
 
 &emsp;(14) the term “servicer” means the person responsible for receiving any scheduled periodic payments from a borrower pursuant to the terms of a loan, including amounts for taxes, insurance premiums, and other charges with respect to the property securing the loan, and making the payments of principal and interest and such other payments with respect to the amounts received from the borrower as may be required pursuant to the terms of the loan.
 

@@ -40,7 +40,7 @@ Provisions of this section creating exemptions to Federal regulations on marketa
 
 #### Exceptions and Exemptions
 
-7 F.R. 9399 (amending Exemption Order Apr. 21, 1942, 7 F.R. 3003), which exempted female persons under 18 years of age from the provisions of subsec. (d) of this section, was superseded by 10 F.R. 10438.
+7 F.R. 9399 (amending Exemption Order Apr. 21, 1942, 7 F.R. 3003), which exempted female persons under 18years of age from the provisions of subsec. (d) of this section, was superseded by 10 F.R. 10438.
 
 #### Contracting Authority of Government Agencies in Connection With National Defense Functions
 

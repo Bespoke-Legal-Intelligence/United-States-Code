@@ -4,11 +4,11 @@
 
 (1) As provided in subsections (b), (c), (d), and (e) of this section, a person who arranged for recycling of recyclable material shall not be liable under sections 9607(a)(3) and 9607(a)(4) of this title with respect to such material.
 
-(2) A determination whether or not any person shall be liable under section 9607(a)(3) of this title or section 9607(a)(4) of this title for any material that is not a recyclable material as that term is used in subsections (b) and (c), (d), or (e) of this section shall be made, without regard to subsections (b), (c), (d), or (e) of this section.
+(2) A determination whether or not any person shall be liable under section 9607(a)(3) of this title or section 9607(a)(4) of this title for any material that is not a recyclable material as that term is used in subsections (b) and (c), (d), or (e) of this section shall be made, without regard to subsections <sup>1</sup> (b), (c), (d), or (e) of this section.
 
 #### (b) Recyclable material defined
 
-For purposes of this section, the term “recyclable material” means scrap paper, scrapplastic, scrap glass, scrap textiles, scrap rubber (other than whole tires), scrap metal, or spent lead-acid, spent nickel-cadmium, and other spent batteries, as well as minor amounts of material incident to or adhering to the scrap material as a result of its normal and customary use prior to becoming scrap; except that such term shall not include—
+For purposes of this section, the term “recyclable material” means scrap paper, scrap plastic, scrap glass, scrap textiles, scrap rubber (other than whole tires), scrap metal, or spent lead-acid, spent nickel-cadmium, and other spent batteries, as well as minor amounts of material incident to or adhering to the scrap material as a result of its normal and customary use prior to becoming scrap; except that such term shall not include—
 
 &emsp;(1) shipping containers of a capacity from 30 liters to 3,000 liters, whether intact or not, having any hazardous substance (but not metal bits and pieces or hazardous substance that form an integral part of the container) contained in or adhering thereto; or
 
@@ -54,7 +54,7 @@ Transactions involving scrap paper, scrap plastic, scrap glass, scrap textiles, 
 
 Transactions involving spent lead-acid batteries, spent nickel-cadmium batteries, or other spent batteries shall be deemed to be arranging for recycling if the person who arranged for the transaction (by selling recyclable material or otherwise arranging for the recycling of recyclable material) can demonstrate by a preponderance of the evidence that at the time of the transaction—
 
-&emsp;(1) the person met the criteria set forth in subsection (c) of this section with respect to the spent lead-acid batteries, spent nickel-cadmium batteries, or other spent batteries, but the person did not recover the valuable components of such batteries; and
+&emsp;(1) the person met the criteria set forth in subsection (c) of this section with respect tothe spent lead-acid batteries, spent nickel-cadmium batteries, or other spent batteries, but the person did not recover the valuable components of such batteries; and
 
 &emsp;(2)(A) with respect to transactions involving lead-acid batteries, the person was in compliance with applicable Federal environmental regulations or standards, and any amendments thereto, regarding the storage, transport, management, or other activities associated with the recycling of spent lead-acid batteries;
 

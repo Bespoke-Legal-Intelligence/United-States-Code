@@ -20,7 +20,3 @@ Pub. L. 103–349, §13(d)(2)(A), which directed that second sentence be amended
 
 Amendment by Pub. L. 103–349 effective 180 days after Oct. 6, 1994, see section 15 of Pub. L. 103–349, set out as a note under section 2401 of this title.
 
-#### Federal Rules of Civil Procedure
-
-Subpoena, see rule 45, Title 28, Appendix, Judiciary and Judicial Procedure.
-

@@ -11,6 +11,7 @@
 | [1705\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001705%20-%20Management%20of%20health%20care%20patient%20enrollment%20system.md) | Management of health care: patient enrollment system. |
 | [1706\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001706%20-%20Management%20of%20health%20care%20other%20requirements.md) | Management of health care: other requirements. |
 | [1707\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001707%20-%20Restriction%20on%20use%20of%20funds%20for%20assisted%20suicide%2C%20euthanasia%2C%20or%20mercy%20killing.md) | Restriction on use of funds for assisted suicide, euthanasia, or mercy killing. |
+| [1708\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001708%20-%20Temporary%20lodging.md) | Temporary lodging. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -108,6 +109,8 @@
 
 #### Amendments
 
+2000—Pub. L. 106–419, title II, §221(b), Nov. 1, 2000, 114 Stat. 1845, added item 1708.
+
 1999—Pub. L. 106–117, title I, §§101(a)(2), (c)(2), 111(b)(2), title II, §202(b), Nov. 30, 1999, 113 Stat. 1548, 1549, 1556, 1561, added items 1710A, 1710B, 1725, and 1729B.
 
 1998—Pub. L. 105–368, title IX, §901(b), Nov. 11, 1998, 112 Stat. 3360, added item 1720E.
@@ -171,10 +174,6 @@ Pub. L. 93–43, §4(c)(2), June 18, 1973, 87 Stat. 79, struck out item 625 “A
 Pub. L. 87–574, §2(2), Aug. 6, 1962, 76 Stat. 308, added item 618.
 
 1959—Pub. L. 86–211, §7(b), Aug. 29, 1959, 73 Stat. 436, added item 617.
-
-#### Cross References
-
-Third party tort liability to United States for hospital and medical care, except for treatment of veterans under this chapter, see section 2651 et seq. of Title 42, The Public Health and Welfare.
 
 #### Chapter Referred to in Other Sections
 

@@ -26,15 +26,17 @@ Employment Authorities.—The authorities referred to in subsection (a) are the 
 
 Permanent Limitations on Number.—(1) Effective October 1, 2007, the total number of non-dual status technicians employed by the Army Reserve and Air Force Reserve may not exceed 175. If at any time after the preceding sentence takes effect the number of non-dual status technicians employed by the Army Reserve and Air Force Reserve exceeds the number specified in the limitation in the preceding sentence, the Secretary of Defense shall require that the Secretary of the Army or the Secretary of the Air Force, or both, take immediate steps to reduce the number of such technicians in order to comply with such limitation.
 
-(2) Effective October 1, 2001, the total number of non-dual status technicians employed by the National Guard may not exceed 1,950. If at any time after the preceding sentence takes effect the number of non-dual status technicians employed by the National Guard exceeds the number specified in the limitation in the preceding sentence, the Secretary of Defense shall require that the Secretary of the Army or the Secretary of the Air Force, or both, take immediate steps to reduce the number of such technicians in order to comply with such limitation.
+(2) Effective October 1, 2002, the total number of non-dual status technicians employed by the National Guard may not exceed 1,950. If at any time after the preceding sentence takes effect the number of non-dual status technicians employed by the National Guard exceeds the number specified in the limitation in the preceding sentence, the Secretary of Defense shall require that the Secretary of the Army or the Secretary of the Air Force, or both, take immediate steps to reduce the number of such technicians in order to comply with such limitation.
 
-(Added Pub. L. 105–85, div. A, title V, §523(a)(1), Nov. 18, 1997, 111 Stat. 1736; amended Pub. L. 106–65, div. A, title V, §523, Oct. 5, 1999, 113 Stat. 598.)
+(Added Pub. L. 105–85, div. A, title V, §523(a)(1), Nov. 18, 1997, 111 Stat. 1736; amended Pub. L. 106–65, div. A, title V, §523, Oct. 5, 1999, 113 Stat. 598; Pub. L. 106–398, §1 \[\[div. A\], title IV, §414(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–94.)
 
 #### References in Text
 
 Section 8016 of the Department of Defense Appropriations Act, 1996 (Public Law 104–61; 109 Stat. 654), referred to in subsec. (b)(4), was set out as a note under section 10101 of this title prior to repeal by Pub. L. 105–85, div. A, title V, §522(e), Nov. 18, 1997, 111 Stat. 1735.
 
 #### Amendments
+
+2000—Subsec. (c)(2). Pub. L. 106–398 substituted “October 1, 2002” for “October 1, 2001”.
 
 1999—Pub. L. 106–65, §523(b), struck out “military” after “status” in section catchline.
 

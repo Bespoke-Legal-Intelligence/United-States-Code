@@ -44,7 +44,3 @@ Nothing in this chapter shall be construed to require an individual employee to 
 
 As originally enacted, pars. Fifth and Sixth contained references to the “circuit court of appeals”. Act June 25, 1948, as amended by act May 24, 1949, substituted “court of appeals” for “circuit court of appeals”.
 
-#### Federal Rules of Civil Procedure
-
-Application of rules, see rule 81, Title 28, Appendix, Judiciary and Judicial Procedure.
-

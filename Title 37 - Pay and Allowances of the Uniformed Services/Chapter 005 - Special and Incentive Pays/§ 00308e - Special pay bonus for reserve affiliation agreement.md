@@ -38,15 +38,17 @@
 
 (3) A discharge in bankruptcy under title 11 that is entered less than 5 years after the termination of an agreement under this section does not discharge the person signing such agreement from a debt arising under such agreement or under paragraph (1). This paragraph applies to any case commenced under title 11 after September 30, 1980.
 
-(e) No bonus may be paid under this section to any person for a reserve obligation agreement entered into after December 31, 2000.
+(e) No bonus may be paid under this section to any person for a reserve obligation agreement entered into after December 31, 2001.
 
 (f) This section shall be administered under regulations prescribed by the Secretary of Defense for the armed forces under the jurisdiction of the Secretary of Defense and by the Secretary of Transportation for the Coast Guard when the Coast Guard is not operating as a service in the Navy.
 
 (g) The authority in subsection (a) does not apply to the Secretary of Commerce and the Secretary of Health and Human Services.
 
-(Added Pub. L. 96–342, title VIII, §805(a)(1), Sept. 8, 1980, 94 Stat. 1093; amended Pub. L. 97–86, title V, §505, Dec. 1, 1981, 95 Stat. 1109; Pub. L. 99–145, title VI, §645(a), Nov. 8, 1985, 99 Stat. 654; Pub. L. 100–180, div. A, title VI, §626(b), Dec. 4, 1987, 101 Stat. 1104; Pub. L. 101–189, div. A, title VI, §613, Nov. 29, 1989, 103 Stat. 1446; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §612(d), Oct. 23, 1992, 106 Stat. 2421; Pub. L. 103–160, div. A, title VI, §612(c), Nov. 30, 1993, 107 Stat. 1680; Pub. L. 103–337, div. A, title VI, §611(c), Oct. 5, 1994, 108 Stat. 2782; Pub. L. 104–106, div. A, title VI, §611(c), Feb. 10, 1996, 110 Stat. 359; Pub. L. 104–201, div. A, title VI, §611(e), Sept. 23, 1996, 110 Stat. 2543; Pub. L. 105–85, div. A, title VI, §§611(e), 623, Nov. 18, 1997, 111 Stat. 1785, 1793; Pub. L. 105–261, div. A, title VI, §611(e), Oct. 17, 1998, 112 Stat. 2038; Pub. L. 106–65, div. A, title VI, §611(e), Oct. 5, 1999, 113 Stat. 650.)
+(Added Pub. L. 96–342, title VIII, §805(a)(1), Sept. 8, 1980, 94 Stat. 1093; amended Pub. L. 97–86, title V, §505, Dec. 1, 1981, 95 Stat. 1109; Pub. L. 99–145, title VI, §645(a), Nov. 8, 1985, 99 Stat. 654; Pub. L. 100–180, div. A, title VI, §626(b), Dec. 4, 1987, 101 Stat. 1104; Pub. L. 101–189, div. A, title VI, §613, Nov. 29, 1989, 103 Stat. 1446; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §612(d), Oct. 23, 1992, 106 Stat. 2421; Pub. L. 103–160, div. A, title VI, §612(c), Nov. 30, 1993, 107 Stat. 1680; Pub. L. 103–337, div. A, title VI, §611(c), Oct. 5, 1994, 108 Stat. 2782; Pub. L. 104–106, div. A, title VI, §611(c), Feb. 10, 1996, 110 Stat. 359; Pub. L. 104–201, div. A, title VI, §611(e), Sept. 23, 1996, 110 Stat. 2543; Pub. L. 105–85, div. A, title VI, §§611(e), 623, Nov. 18, 1997, 111 Stat. 1785, 1793; Pub. L. 105–261, div. A, title VI, §611(e), Oct. 17, 1998, 112 Stat. 2038; Pub. L. 106–65, div. A, title VI, §611(e), Oct. 5, 1999, 113 Stat. 650; Pub. L. 106–398, §1 \[\[div. A\], title VI, §621(e)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–151.)
 
 #### Amendments
+
+2000—Subsec. (e). Pub. L. 106–398 substituted “December 31, 2001” for “December 31, 2000”.
 
 1999—Subsec. (e). Pub. L. 106–65 substituted “December 31, 2000” for “December 31, 1999”.
 

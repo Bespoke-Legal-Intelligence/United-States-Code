@@ -254,12 +254,6 @@ Amendment by Pub. L. 106–102 effective 120 days after Nov. 12, 1999, see secti
 
 Section 410(c) of Pub. L. 97–320 provided that: “Section 23A of the Federal Reserve Act, as amended by this section \[this section\], shall apply to any transaction entered into after the date of enactment of this Act \[Oct. 15, 1982\], except for transactions which are the subject of a binding written contract or commitment entered into on or before July 28, 1982, and except that any renewal of a participation in a loan outstanding on July 28, 1982, to a company that becomes an affiliate as a result of the enactment of this Act \[see section 1 of Pub. L. 97–320, set out as a Short Title of 1982 Amendments note under section 226 of this title\], or any participation in a loan to such an affiliate emanating from the renewal of a binding written contract or commitment outstanding on July 28, 1982, shall not be subject to the collateral requirements of this Act.”
 
-#### Cross References
-
-Holding company affiliate, definition of, see section 221a of this title.
-
-Section not to be affected by fact that transaction takes place outside the United States or that a company is organized or operates outside the United States, see section 1841 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 371c–1, 504, 601, 1468, 1815, 1828, 1831<i>o</i>, 1831w, 1841, 1843, 3909 of this title.

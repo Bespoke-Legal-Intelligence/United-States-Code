@@ -13,39 +13,15 @@
 
 #### Amendments
 
-1996—Pub. L. 104–331, §3(a)(2), Oct. 26, 1996, 110 Stat. 4069, added item 1296.
+<b>1996</b>—Pub. L. 104–331, §3(a)(2), Oct. 26, 1996, 110 Stat. 4069, added item 1296.
 
-1984—Pub. L. 98–620, title IV, §402(29)(C), Nov. 8, 1984, 98 Stat. 3359, struck out item 1296 “Precedence of casesin the United States Court of Appeals for the Federal Circuit”.
+<b>1984</b>—Pub. L. 98–620, title IV, §402(29)(C), Nov. 8, 1984, 98 Stat. 3359, struck out item 1296 “Precedence of cases in the United States Court of Appeals for the Federal Circuit”.
 
-1982—Pub. L. 97–164, title I, §127(b), Apr. 2, 1982, 96 Stat. 39, added items 1295 and 1296.
+<b>1982</b>—Pub. L. 97–164, title I, §127(b), Apr. 2, 1982, 96 Stat. 39, added items 1295 and 1296.
 
-1978—Pub. L. 95–598, title II, §236(b), Nov. 6, 1978, 92 Stat. 2667, directed the addition of item 1293, “Bankruptcy appeals”, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+<b>1978</b>—Pub. L. 95–598, title II, §236(b), Nov. 6, 1978, 92 Stat. 2667, directed the addition of item 1293, “Bankruptcy appeals”, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
-1961—Pub. L. 87–189, §4, Aug. 30, 1961, 75 Stat. 417, struck out item 1293 “Final decisions of Puerto Rico and Hawaii Supreme Courts”.
-
-#### Federal Rules of Appellate Procedure
-
-Appeal to a court of appeals, see rules 3 and 4, Appendix to this title.
-
-Joint or consolidated appeals to a court of appeals, see rule 3.
-
-Record on appeal to a court of appeals, see rule 10.
-
-#### Federal Rules of Criminal Procedure
-
-Application of rules, see note by Advisory Committee under rule 54, Title 18, Appendix, Crimes and Criminal Procedure.
-
-Bail upon review, see rule 46.
-
-Stay of execution and relief pending review, see rule 38.
-
-#### Cross References
-
-Jurisdiction of courts and appeals in particular matters, see Historical and Revision Notes under section 1291 of this title.
-
-Procedure and particular proceedings, generally, see sections 1651 et seq. and 2201 et seq. of this title.
-
-Vesting and liquidation of Bulgarian, Hungarian, and Rumanian property, final orders or decrees of district courts of the United States reviewable as provided in this chapter, see section 1631e of Title 22, Foreign Relations and Intercourse.
+<b>1961</b>—Pub. L. 87–189, §4, Aug. 30, 1961, 75 Stat. 417, struck out item 1293 “Final decisions of Puerto Rico and Hawaii Supreme Courts”.
 
 #### Chapter Referred to in Other Sections
 

@@ -2,7 +2,7 @@
 
 #### (a) Authority to conduct hearings or other inquiries
 
-The Commission may, by one or more of its members or by such agents or agency as it may designate, conduct any hearing or other inquiry necessary or appropriate to its functions anywhere in the United States. A Commissioner who participates in such a hearing or other inquiry shall not be disqualified solely by reason of such participation from subsequently participating in a decision of the Commission in the same manner. The Commission shall publish notice of any proposed hearing in the Federal Register and shall afford a reasonable opportunity for interested persons to present relevant testimony and data.
+The Commission may, by one or more of its members or by such agents or agency as it maydesignate, conduct any hearing or other inquiry necessary or appropriate to its functions anywhere in the United States. A Commissioner who participates in such a hearing or other inquiry shall not be disqualified solely by reason of such participation from subsequently participating in a decision of the Commission in the same manner. The Commission shall publish notice of any proposed hearing in the Federal Register and shall afford a reasonable opportunity for interested persons to present relevant testimony and data.
 
 #### (b) Commission powers; orders
 
@@ -60,13 +60,13 @@ The Commission may plan, construct, and operate a facility or facilities suitabl
 
 #### (i) Recordkeeping; audit
 
-(1) Each recipient of assistance under this chapter pursuant to grants or contracts entered into under other than competitive bidding procedures shall keep such records as the Commission by rule shall prescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of such assistance, the total cost of the project undertaken in connection with which such assistance is given or used, and the amount of that portion of the cost of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit.
+(1) Each recipient of assistance under this chapter pursuant to grants or contracts entered into under other than competitive bidding procedures shall keep such records as the Commission by rule shall prescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of such assistance, the total cost of the project undertaken in connection with which such assistance is given or used, and the amount of that portion of the cost of the project or undertaking supplied byother sources, and such other records as will facilitate an effective audit.
 
 (2) The Commission and the Comptroller General of the United States, or their duly authorized representatives, shall have access for the purpose of audit and examination to any books, documents, papers, and records of the recipients that are pertinent to the grants or contracts entered into under this chapter under other than competitive bidding procedures.
 
 #### (j) Report to President and Congress
 
-The Commission shall prepare and submit to the President and the Congress at the beginningof each regular session of Congress a comprehensive report on the administration of this chapter for the preceding fiscal year. Such report shall include—
+The Commission shall prepare and submit to the President and the Congress at the beginning of each regular session of Congress a comprehensive report on the administration of this chapter for the preceding fiscal year. Such report shall include—
 
 &emsp;(1) a thorough appraisal, including statistical analyses, estimates, and long-term projections, of the incidence of injury and effects to the population resulting from consumer products, with a breakdown, insofar as practicable, among the various sources of such injury;
 
@@ -139,6 +139,10 @@ Subsec. (<i>l</i>). Pub. L. 94–284, §14, added subsec. (<i>l</i>).
 #### Effective Date of 1981 Amendment
 
 Amendment by section 1207(b) of Pub. L. 97–35 applicable with respect to consumer product safety rules under this chapter and regulations under chapters 25 and 30 of this title promulgated after Aug. 13, 1981, and amendment by sections 1208, 1209(c), and 1211(d) of Pub. L. 97–35 effective Aug. 13, 1981, see section 1215 of Pub. L. 97–35, set out as a note under section 2052 of this title.
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (j) of this section relating to submittal of report to Congress at the beginning of each regular session of Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 158 of House Document No. 103–7.
 
 #### User Fee Study
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Existence and Amounts in Fund.—The Secretary of Transportation has a small airport fund. The fund consists of 87.5 percent of amounts not apportioned under section 47114 of this title because of section 47114(f).
+Existence and Amounts in Fund.—The Secretary of Transportation has a small airportfund. The fund consists of 87.5 percent of amounts not apportioned under section 47114 of this title because of section 47114(f).
 
 (b)
 
@@ -22,9 +22,25 @@ Authority To Receive Grant Not Dependent on Participation in Block Grant Pilot P
 
 (d)
 
-Priority Consideration for Certain Projects.—In making grants to sponsors described in subsection (b)(2), the Secretary shall give priority consideration to multi-year projects for construction of new runways that the Secretary finds are cost beneficial and would increase capacity in a region of the United States.
+Priority Consideration for Certain Projects.—
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1271; Pub. L. 104–264, title I, §146, Oct. 9, 1996, 110 Stat. 3223; Pub. L. 106–6, §8(b), Mar. 31, 1999, 113 Stat. 11.)
+&emsp;(1)
+
+Construction of new runways.—In making grants to sponsors described in subsection (b)(2), the Secretary shall give priority consideration to multi-year projects for construction of new runways that the Secretary finds are cost beneficial and would increase capacity in a region of the United States.
+
+&emsp;(2)
+
+Airport development for turbine powered aircraft.—In making grants to sponsors described in subsection (b)(1), the Secretary shall give priority consideration to airport development projects to support operations by turbine powered aircraft if the non-Federal share of the project is at least 40 percent.
+
+(e)
+
+Set-Aside for Meeting Safety Terms in Airport Operating Certificates.—In the first fiscal year beginning after the effective date of regulations issued to carry out section 44706(b) with respect to airports described in section 44706(a)(2), and in each of the next 4 fiscal years, the lesser of $15,000,000 or 20 percent of the amounts that would otherwise be distributed to sponsors of airports under subsection (b)(2) shall be used to assist the airports in meeting the terms established by the regulations. If the Secretary publishes in the Federal Register a finding that all the terms established by the regulations have been met, this subsection shall cease to be effective as of the date of such publication.
+
+(f)
+
+Notification of Source of Grant.—Whenever the Secretary makes a grant under this section, the Secretary shall notify the recipient of the grant, in writing, that the source of the grant is from the small airport fund.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1271; Pub. L. 104–264, title I, §146, Oct. 9, 1996, 110 Stat. 3223; Pub. L. 106–6, §8(b), Mar. 31, 1999, 113 Stat. 11; Pub. L. 106–181, title I, §128, Apr. 5, 2000, 114 Stat. 76.)
 
 Historical and Revision Notes
 
@@ -58,11 +74,21 @@ In subsection (c), the word “pilot” is added for consistency with section 47
 
 #### Amendments
 
+2000—Subsec. (d). Pub. L. 106–181, §128(c), designated existing provisions as par. (1), inserted heading, realigned margins, and added par. (2).
+
+Subsec. (e). Pub. L. 106–181, §128(a), added subsec. (e).
+
+Subsec. (f). Pub. L. 106–181, §128(b), added subsec. (f).
+
 1999—Subsec. (a). Pub. L. 106–6, §8(b)(1), substituted “87.5” for “75”.
 
 Subsec. (b). Pub. L. 106–6, §8(b)(2), added pars. (1) and (2) and redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (2).
 
 1996—Subsec. (d). Pub. L. 104–264 added subsec. (d).
+
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
 
 #### Effective Date of 1996 Amendment
 

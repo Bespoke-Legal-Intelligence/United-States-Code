@@ -102,25 +102,9 @@ Authority of President under subsec. (e) of this section to grant exemptions or 
 
 Exemptions from former section 283 of this title deemed to be exemptions from this section, see section 2 of Pub. L. 87–849, set out as a note under section 203 of this title.
 
-#### Canal Zone
-
-Applicability of section to Canal Zone, see section 14 of this title.
-
-#### Cross References
-
-Claims generally, see section 3721 et seq. of Title 31, Money and Finance.
-
-Definitions, see section 202 of this title.
-
-Disqualification from holding any office of honor, trust, or profit, additional grounds for, see sections 204, 592, 593, 1901, 2071, 2381, 2385, 2387 of this title.
-
-Exemption of retired officers of the uniformed services, see section 206 of this title.
-
-Memorandum of Attorney General regarding conflict of interest provisions, see note under section 201 of this title.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 14, 202, 206, 216 of this title; title 5 sections 568, 3374; title 10 section 942; title 12 section 2245; title 15 section 4805; title 16 section 459b–7; title 22 sections 3507, 3508, 3613; title 25 section 450i; title 26 section 7802; title 28 section 594; title 30 section 663; title 38 section 5902; title 40 App. section 108; title 41 section 120; title 42 sections 1314, 2297h–3; title 50 section 405; title 50 App. section 463.
+This section is referred to in sections 14, 202, 206, 216 of this title; title 5 sections 568, 3374; title 7 section 2009aa–1; title 10 section 942; title 12 section 2245; title 15 section 4805; title 16 section 459b–7; title 22 sections 3507, 3508, 3613; title 25 section 450i; title 26 section 7802; title 28 section 594; title 30 section 663; title 38 section 5902; title 40 App. section 108; title 41 section 120; title 42 sections 1314, 2297h–3; title 50 section 405; title 50 App. section 463.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “group's”.</i>
 

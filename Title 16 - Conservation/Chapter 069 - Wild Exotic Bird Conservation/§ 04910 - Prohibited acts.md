@@ -18,7 +18,7 @@
 
 #### (b) Burden of proof for exemptions
 
-Any person claiming the benefit of any exemption or permit under this chapter shall have theburden of proving that the exemption or permit is applicable or has been granted, and was valid and in force at the time of the alleged violation.
+Any person claiming the benefit of any exemption or permit under this chapter shall have the burden of proving that the exemption or permit is applicable or has been granted, and was valid and in force at the time of the alleged violation.
 
 (Pub. L. 102–440, title I, §111, Oct. 23, 1992, 106 Stat. 2230.)
 

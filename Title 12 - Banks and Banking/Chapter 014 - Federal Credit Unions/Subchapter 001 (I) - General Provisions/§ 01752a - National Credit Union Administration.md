@@ -18,7 +18,7 @@ There is established in the executive branch of the Government an independent ag
 
 #### (B) Limit on appointment of credit union officers
 
-&emsp;&emsp;Not more than one member of the Board may be appointed to the Board from amongindividuals who, at the time of the appointment, are, or have recently been, involved with any insured credit union as a committee member, director, officer, employee, or other institution-affiliated party.
+&emsp;&emsp;Not more than one member of the Board may be appointed to the Board from among individuals who, at the time of the appointment, are, or have recently been, involved with any insured credit union as a committee member, director, officer, employee, or other institution-affiliated party.
 
 #### (c) Term of office
 
@@ -44,7 +44,7 @@ Section 2 of act June 29, 1948, ch. 711, 62 Stat. 1091, which was formerly class
 
 Section 1 of act June 29, 1948 transferred to the Federal Security Agency all functions, powers, and duties of the Farm Credit Administration and of the Governor thereof under the Federal Credit Union Act, as amended \[this chapter\], together with the functions of the Secretary of Agriculture with respect thereto, which were transferred to the Federal Deposit Insurance Corporation by Reorganization Plan Numbered 1 of 1947, part IV, section 401 \[set out in the Appendix to Title 5, Government Organization and Employees\].
 
-Section 3 of act June 29, 1948 transferred to the Federal Security Agency, to be used in the administration of the functions, transferred, (a) all property, including office equipment, transferred to the Federal Deposit Insurance Corporation pursuant to Executive Order 9148 of April 27, 1942 \[see note under section 1751 of this title\], and in use on the effective date of this Act \[see section 5 of act June 29, 1948, set out as a note below\]; (b) all property, including office equipment, purchased by the Corporation for use exclusively in connection with the administration of the Federal Credit Union Act, as amended \[this chapter\], the cost of which had been charged to such functions and which were in use on the effective date of this Act; (c) all records and files pertaining exclusively to the supervision of Federal Credit Unions; and (d) all personnel employed primarily in the administration of the Federal Credit Union Act, as amended \[this chapter\], on the effective date of this Act.
+Section 3 of act June 29, 1948 transferred to the Federal Security Agency, to be used in the administration of the functions, transferred, (a) all property, including office equipment, transferred to the Federal Deposit Insurance Corporation pursuant to Executive Order 9148 of April 27, 1942 \[see note under section 1751 of this title\], and in use on the effective date of this Act \[see section 5 of act June 29, 1948, set out as a note below\];\(b) all property, including office equipment, purchased by the Corporation for use exclusively in connection with the administration of the Federal Credit Union Act, as amended \[this chapter\], the cost of which had been charged to such functions and which were in use on the effective date of this Act; (c) all records and files pertaining exclusively to the supervision of Federal Credit Unions; and (d) all personnel employed primarily in the administration of the Federal Credit Union Act, as amended \[this chapter\], on the effective date of this Act.
 
 Section 4 of act June 29, 1948 transferred all funds allocated, specifically or otherwise, in the budget of the Federal Deposit Insurance Corporation for the administration of the Federal Credit Union Act, as amended \[this chapter\], during the fiscal year ending June 30, 1949, which were unexpended on the effective date of this Act \[see section 5 of act June 29, 1948, set out as a note below\], to the Federal Security Agency for use in the administration of the Federal Credit Union Act, as amended \[this chapter\]. The Corporation was to be reimbursed for the funds so transferred and for all other funds expended by it prior to the effective date of this Act in the administration of the Federal Credit Union Act, as amended \[this chapter\], in excess of fees from Federal Credit unions received by the Corporation, by deducting such amounts from the first moneys payable to the Secretary of the Treasury on account of the retirement of the stock of the Federal Deposit Insurance Corporation owned by the United States, and the Corporation was to have a charge on such stock for such amounts.
 
@@ -56,7 +56,7 @@ Section 5 of act June 29, 1948 provided that the Act was to become effective on 
 
 1982—Subsec. (f). Pub. L. 97–320 struck out “on a calendar year basis” after “subject to audit”.
 
-1978—Pub. L. 95–630 generally revised section to eliminate the position of Administrator and to vest themanagement of the National Credit Union Administration in the National Credit Union Administration Board.
+1978—Pub. L. 95–630 generally revised section to eliminate the position of Administrator and to vest the management of the National Credit Union Administration in the National Credit Union Administration Board.
 
 1970—Pub. L. 91–206 designated existing provisions as subsec. (a), substituted provisions establishing an independent agency known as the National Credit Union Administration and an Administrator of such National Credit Union Administration for provisions establishing a Bureau of Federal Credit Unions under the supervision of a Director, which Director was appointed by, and, under the general direction and supervision of, the Secretary of Health, Education, and Welfare, and added subsecs. (b) to (f).
 
@@ -157,10 +157,6 @@ Pub. L. 101–73, title XII, §1201, Aug. 9, 1989, 103 Stat. 519, directed Compt
 #### Federally Chartered Central Credit Unions; Report to Congress
 
 Section 3 of Pub. L. 86–354 directed Director of Bureau of Federal Credit Unions to make a study of desirability of providing for federally chartered central credit unions and to submit to Secretary of Health, Education, and Welfare, for transmission to Congress on or before Apr. 15, 1960, a report of results thereof and such recommendations for legislation thereon as Director deemed appropriate.
-
-#### Cross References
-
-Independence of financial regulatory agencies with respect to submission of views to Congress, see section 250 of this title.
 
 #### Section Referred to in Other Sections
 

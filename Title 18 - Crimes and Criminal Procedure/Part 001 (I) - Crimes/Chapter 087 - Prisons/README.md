@@ -14,10 +14,6 @@
 
 1984—Pub. L. 98–473, title II, §1109(c), Oct. 12, 1984, 98 Stat. 2148, amended analysis generally by revising items 1791 and 1792, and by inserting a second chapter heading which was not executed to text as redundant.
 
-#### Cross References
-
-Escape and rescue, see section 751 et seq. of this title.
-
 
 ---
 

@@ -11,7 +11,7 @@
 | [707\.](%C2%A7%2000707%20-%20Copyright%20Office%20forms%20and%20publications.md) | Copyright Office forms and publications. |
 | [708\.](%C2%A7%2000708%20-%20Copyright%20Office%20fees.md) | Copyright Office fees. |
 | [709\.](%C2%A7%2000709%20-%20Delay%20in%20delivery%20caused%20by%20disruption%20of%20postal%20or%20other%20services.md) | Delay in delivery caused by disruption of postal or other services. |
-| [710\.](%C2%A7%2000710%20-%20Reproduction%20for%20use%20of%20the%20blind%20and%20physically%20handicapped%20Voluntary%20licensing%20forms%20and%20procedures.md) | Reproduction for use of the blind and physically handicapped: Voluntary licensing forms and procedures. |
+| \[710. | Repealed.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -41,11 +41,13 @@ Subsection (e) of section 704 establishes a new procedure under which a copyrigh
 
 <b>Copyright Office Fees.</b> The schedule of fees set out in section 708 reflects a general increase in the fees of the Copyright Office from those established by the Congress in 1965. The basic fees are $10 for registration, $6 for renewal registration, $10 for recordation of documents and $10 per hour for searching. The section also contains new fee provisions needed because of new requirements or services established under the bill, and subsection (a)(11) authorizes the Register to fix additional fees, on the “basis of the cost of providing the service,” “for any other special services requiring a substantial amount of time or expense.” Subsection (b) makes clear that, except for the possibility of waivers in “occasional or isolated cases involving relatively small amounts,” the Register is to charge fees for services rendered to other Government agencies.
 
-<b>Postal Interruptions.</b> Section 709 authorizes the Register of Copyrights to issue regulation to permit the acceptance by the Copyright Office of documents which are delivered after the close of the prescribed period if the delay was caused by a general disruption or suspension of postal or other transportation or communications services.
+<b>Postal Interruptions.</b> Section 709 authorizes the Register of Copyrights to issue regulation to permit the acceptance by the Copyright Office of documents whichare delivered after the close of the prescribed period if the delay was caused by a general disruption or suspension of postal or other transportation or communications services.
 
 <b>Reproductions for the Blind and Handicapped.</b> Section 710 directs the Register of Copyrights to establish by regulation forms and procedures by which the copyright owners of certain categories of works may voluntarily grant to the Library of Congress a license to reproduce and distribute copies or phonorecords of the work solely for the use of the blind and physically handicapped.
 
 #### Amendments
+
+2000—Pub. L. 106–379, §3(a)(1), Oct. 27, 2000, 114 Stat. 1445, struck out item 710 “Reproduction for use of the blind and physically handicapped: Voluntary licensing forms and procedures.”
 
 1997—Pub. L. 105–80, §12(a)(17), Nov. 13, 1997, 111 Stat. 1535, substituted “Reproduction” for “Reproductions” in item 710.
 
@@ -67,4 +69,4 @@ This chapter is referred to in sections 908, 912 of this title.
 - [&sect; 00707 - Copyright Office forms and publications](%C2%A7%2000707%20-%20Copyright%20Office%20forms%20and%20publications.md)
 - [&sect; 00708 - Copyright Office fees](%C2%A7%2000708%20-%20Copyright%20Office%20fees.md)
 - [&sect; 00709 - Delay in delivery caused by disruption of postal or other services](%C2%A7%2000709%20-%20Delay%20in%20delivery%20caused%20by%20disruption%20of%20postal%20or%20other%20services.md)
-- [&sect; 00710 - Reproduction for use of the blind and physically handicapped Voluntary licensing forms and procedures](%C2%A7%2000710%20-%20Reproduction%20for%20use%20of%20the%20blind%20and%20physically%20handicapped%20Voluntary%20licensing%20forms%20and%20procedures.md)
+- [&sect; 00710 - Repealed. Pub. L. 106&#8211;379, &sect;3(a)(1), Oct. 27, 2000, 114 Stat. 1445](%C2%A7%2000710%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93379%2C%20%C2%A73%28a%29%281%29%2C%20Oct.%2027%2C%202000%2C%20114%20Stat.%201445.md)

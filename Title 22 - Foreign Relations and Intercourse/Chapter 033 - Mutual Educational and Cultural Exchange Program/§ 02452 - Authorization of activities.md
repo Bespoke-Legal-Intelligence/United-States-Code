@@ -16,7 +16,7 @@ The Director of the United States Information Agency is authorized, when he cons
 
 &emsp;&emsp;(i) visits and interchanges between the United States and other countries of leaders, experts in fields of specialized knowledge or skill, and other influential or distinguished persons;
 
-&emsp;&emsp;(ii) tours in countries abroad by creative and performing artists and athletes from the United States, individually and in groups,representing any field of the arts, sports, or any other form of cultural attainment;
+&emsp;&emsp;(ii) tours in countries abroad by creative and performing artists and athletes from the United States, individually and in groups, representing any field of the arts, sports, or any other form of cultural attainment;
 
 &emsp;&emsp;(iii) United States representation in international artistic, dramatic, musical, sports, and other cultural festivals, competitions, meetings, and like exhibitions and assemblies;
 
@@ -70,7 +70,7 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 
 #### Effective Date of 1962 Amendment
 
-Section 403 of Pub. L. 87–565 provided in part that: “The amendment made by this section \[amending thissection\] shall not be applicable with respect to any fair or exposition within the United States for which an appropriation has been provided.”
+Section 403 of Pub. L. 87–565 provided in part that: “The amendment made by this section \[amending this section\] shall not be applicable with respect to any fair or exposition within the United States for which an appropriation has been provided.”
 
 #### Transfer of Functions
 
@@ -83,6 +83,242 @@ Functions of President under this section delegated to Secretary of State, Direc
 #### Performance of Functions
 
 Authorization of performance of functions under subsec. (a)(2) and (3) of this section by departments or other executive agencies, see Ex. Ord. No. 11380, §2, Nov. 8, 1967, 32 F.R. 15627, set out as a note under section 2454 of this title.
+
+#### Vietnam Education Foundation
+
+Pub. L. 106–554, §1(a)(4) \[div. B, title II\], Dec. 21, 2000, 114 Stat. 2763, 2763A–254, provided that:
+
+#### “SEC. 201. SHORT TITLE.
+
+“This title may be cited as the ‘Vietnam Education Foundation Act of 2000’.
+
+#### “SEC. 202. PURPOSES.
+
+“The purposes of this title are the following:
+
+&emsp;“(1) To establish an international fellowship program under which—
+
+&emsp;&emsp;“(A) Vietnamese nationals can undertake graduate and post-graduate level studies in the sciences (natural, physical, and environmental), mathematics, medicine, and technology (including information technology); and
+
+&emsp;&emsp;“(B) United States citizens can teach in the fields specified in subparagraph (A) in appropriate Vietnamese institutions.
+
+&emsp;“(2) To further the process of reconciliation between the United States and Vietnam and the building of a bilateral relationship serving the interests of both countries.
+
+#### “SEC. 203. DEFINITIONS.
+
+“In this title:
+
+&emsp;“(1)
+
+Board.—The term ‘Board’ means the Board of Directors of the Foundation.
+
+&emsp;“(2)
+
+Foundation.—The term ‘Foundation’ means the Vietnam Education Foundation established in section 204.
+
+&emsp;“(3)
+
+Institution of higher education.—The term ‘institution of higher education’ has the meaning given the term in section 101(a) of the Higher Education Act of 1965 (20 U.S.C. 1001(a)).
+
+&emsp;“(4)
+
+United states-vietnam debt agreement.—The term ‘United States-Vietnam debt agreement’ means the Agreement Between the Government of the United States of America and the Government of the Socialist Republic of Vietnam Regarding the Consolidation and Rescheduling of Certain Debts Owed to, Guaranteed by, or Insured by the United States Government and the Agency for International Development, dated April 7, 1997.
+
+#### “SEC. 204. ESTABLISHMENT.
+
+“There is established the Vietnam Education Foundation as an independent establishment of the executive branch under section 104 of title 5, United States Code.
+
+#### “SEC. 205. BOARD OF DIRECTORS.
+
+“(a)
+
+In General.—The Foundation shall be subject to the supervision and direction of the Board of Directors, which shall consist of 13 members, as follows:
+
+&emsp;“(1) Two members of the House of Representatives appointed by the Speaker of the House of Representatives, one of whom shall be appointed upon the recommendation of the Majority Leader and one of whom shall be appointed upon the recommendation of the Minority Leader, and who shall serve as ex officio, nonvoting members.
+
+&emsp;“(2) Two members of the Senate, appointed by the President pro tempore, one of whom shall be appointed upon the recommendation of the Majority Leader and one of whom shall be appointed upon the recommendation of the Minority Leader, and who shall serve as ex officio, nonvoting members.
+
+&emsp;“(3) Secretary of State.
+
+&emsp;“(4) Secretary of Education.
+
+&emsp;“(5) Secretary of Treasury.
+
+&emsp;“(6) Six members to be appointed by the President from among individuals in the nongovernmental sector who have academic excellence or experience in the fields of concentration specified in section 202(1)(A) or a general knowledge of Vietnam, not less than three of whom shall be drawn from academic life.
+
+“(b)
+
+Rotation of Membership.—(1) The term of office of each member appointed under subsection (a)(6) shall be 3 years, except that of the members initially appointed under that subsection, two shall serve for terms of 1 year, two shall serve for terms of 2 years, and two shall serve for terms of 3 years.
+
+“(2) A member of Congress appointed under subsection (a)(1) or (2) shall not serve as a member of the Board for more than a total of 6 years.
+
+“(c)
+
+Chair.—The Board shall elect one of the members appointed under subsection (a)(6) to serve as Chair.
+
+“(d)
+
+Meetings.—The Board shall meet upon the call of the Chair but not less frequently than twice each year. A majority of the voting members of the Board shall constitute a quorum.
+
+“(e)
+
+Duties.—The Board shall—
+
+&emsp;“(1) select the individuals who will be eligible to serve as Fellows; and
+
+&emsp;“(2) provide overall supervision and direction of the Foundation.
+
+“(f)
+
+Compensation.—
+
+&emsp;“(1)
+
+In general.—Except as provided in paragraph (2), each member of the Board shall serve without compensation, and members who are officers or employees of the United States shall serve without compensation in addition to that received for their services as officers or employees of the United States.
+
+&emsp;“(2)
+
+Travel expenses.—The members of the Board shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, while away from their homes or regular places of business in the performance of service for the Board.
+
+#### “SEC. 206. FELLOWSHIP PROGRAM.
+
+“(a) Award of Fellowships.—
+
+&emsp;“(1)
+
+In general.—To carry out the purposes of this title, the Foundation shall award fellowships to—
+
+&emsp;&emsp;“(A) Vietnamese nationals to study at institutions of higher education in the United States at graduate and post-graduate levels in the following fields: physical sciences, natural sciences, mathematics, environmental sciences, medicine, technology, and computer sciences; and
+
+&emsp;&emsp;“(B) United States citizens to teach in Vietnam in appropriate Vietnamese institutions in the fields of study described in subparagraph (A).
+
+&emsp;“(2)
+
+Special emphasis on scientific and technical vocabulary in english.—Fellowships awarded under paragraph (1) may include funding for the study of scientific and technical vocabulary in English.
+
+“(b)
+
+Criteria for Selection.—Fellowships under this title shall be awarded to persons who meet the minimum criteria established by the Foundation, including the following:
+
+&emsp;“(1)
+
+Vietnamese nationals.—Vietnamese candidates for fellowships shall have basic English proficiency and must have the ability to meet the criteria for admission into graduate or post-graduate programs in United States institutions of higher learning.
+
+&emsp;“(2)
+
+United states citizen teachers.—American teaching candidates shall be highly competent in their fields and be experienced and proficient teachers.
+
+“(c)
+
+Implementation.—The Foundation may provide, directly or by contract, for the conduct of nationwide competition for the purpose of selecting recipients of fellowships awarded under this section.
+
+“(d)
+
+Authority To Award Fellowships on a Matching Basis.—The Foundation may require, as a condition of the availability of funds for the award of a fellowship under this title, that an institution of higher education make available funds for such fellowship on a matching basis.
+
+“(e)
+
+Fellowship Conditions.—A person awarded a fellowship under this title may receive payments authorized under this title only during such periods as the Foundation finds that the person is maintaining satisfactory proficiency and devoting full time to study or teaching, as appropriate, and is not engaging in gainful employment other than employment approved by the Foundation pursuant to regulations of the Board.
+
+“(f)
+
+Funding.—
+
+&emsp;“(1)
+
+Fiscal year 2001.—
+
+&emsp;&emsp;“(A)
+
+Authorization of appropriations.—There are authorized to be appropriated to the Foundation $5,000,000 for fiscal year 2001 to carry out the activities of the Foundation.
+
+&emsp;&emsp;“(B)
+
+Availability of funds.—Amounts appropriated pursuant to subparagraph (A) are authorized to remain available until expended.
+
+&emsp;“(2)
+
+Fiscal year 2002 and subsequent fiscal years.—Effective October 1, 2001, the Foundation shall utilize funds transferred to the Foundation under section 207.
+
+#### “SEC. 207. VIETNAM DEBT REPAYMENT FUND.
+
+“(a)
+
+Establishment.—Notwithstanding any other provision of law, there is established in the Treasury a separate account which shall be known as the Vietnam Debt Repayment Fund (in this subsection referred to as the ‘Fund’).
+
+“(b)
+
+Deposits.—There shall be deposited as offsetting receipts into the Fund all payments (including interest payments) made by the Socialist Republic of Vietnam under the United States-Vietnam debt agreement.
+
+“(c)
+
+Availability of the Funds.—
+
+&emsp;“(1)
+
+Fiscal year limitation.—Beginning with fiscal year 2002, and each subsequent fiscal year through fiscal year 2018, $5,000,000 of the amounts deposited into the Fund (or accrued interest) each fiscal year shall be available to the Foundation, without fiscal year limitation, under paragraph (2).
+
+&emsp;“(2)
+
+Disbursement of funds.—The Secretary of the Treasury, at least on a quarterly basis, shall transfer to the Foundation amounts allotted to the Foundation under paragraph (1) for the purpose of carrying out its activities.
+
+&emsp;“(3)
+
+Transfer of excess funds to miscellaneous receipts.—Beginning with fiscal year 2002, and each subsequent fiscal year through fiscal year 2018, the Secretary of the Treasury shall withdraw from the Fund and deposit in the Treasury of the United States as miscellaneous receipts all moneys in the Fund in excess of amounts made available to the Foundation under paragraph (1).
+
+“(d)
+
+Annual Report.—The Board shall prepare and submit annually to Congress statements of financial condition of the Fund, including the beginning balance, receipts, refunds to appropriations, transfers to the general fund, and the ending balance.
+
+#### “SEC. 208. FOUNDATION PERSONNEL MATTERS.
+
+“(a)
+
+Appointment by Board.—There shall be an Executive Secretary of the Foundation who shall be appointed by the Board without regard to the provisions of title 5, United States Code, or any regulation thereunder, governing appointment in the competitive service. The Executive Director shall be the Chief Executive Officer of the Foundation and shall carry out the functions of the Foundation subject to the supervision and direction of the Board. The Executive Director shall carry out such other functions consistent with the provisions of this title as the Board shall prescribe. The decision to employ or terminate an Executive Director shall be made by an affirmative vote of at least six of the nine voting members of the Board.
+
+“(b)
+
+Professional Staff.—The Executive Director shall hire Foundation staff on the basis of professional and nonpartisan qualifications.
+
+“(c)
+
+Experts and Consultants.—The Executive Director may procure temporary and intermittent services of experts and consultants as are necessary to the extent authorized by section 3109 of title 5, United States Code\[,\] to carry out the purposes of the Foundation.
+
+“(d)
+
+Compensation.—The Board may fix the compensation of the Executive Director and other personnel without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title V, United States Code, relating to classification of positions and General Schedule pay rates, except that the rate of pay for the Executive Director and other personnel may not exceed the rate payable for level V of the Executive Schedule under section 5316 of such title.
+
+#### “SEC. 209. ADMINISTRATIVE PROVISIONS.
+
+“(a)
+
+In General.—In order to carry out this title, the Foundation may—
+
+&emsp;“(1) prescribe such regulations as it considers necessary governing the manner in which its functions shall be carried out;
+
+&emsp;“(2) receive money and other property donated, bequeathed, or devised, without condition or restriction other than it be used for the purposes of the Foundation, and to use, sell, or otherwise dispose of such property for the purpose of carrying out its functions;
+
+&emsp;“(3) accept and use the services of voluntary and noncompensated personnel;
+
+&emsp;“(4) enter into contracts or other arrangements, or make grants, to carry out the provisions of this title, and enter into such contracts or other arrangements, or make such grants, with the concurrence of a majority of the members of the Board, without performance or other bonds and without regard to section 3709 of the Revised Statutes (41 U.S.C. 5);
+
+&emsp;“(5) rent office space in the District of Columbia; and
+
+&emsp;“(6) make other necessary expenditures.
+
+“(b)
+
+Annual Report.—The Foundation shall submit to the President and to the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives an annual report of its operations under this title.
+
+#### “SEC. 210. TERMINATION.
+
+“(a)
+
+In General.—The Foundation may not award any new fellowship, or extend any existing fellowship, after September 30, 2016.
+
+“(b)
+
+Abolishment.—Effective 120 days after the expiration of the last fellowship in effect under this title, the Foundation is abolished.”
 
 #### Conduct of Certain Educational and Cultural Exchange Programs
 
@@ -136,7 +372,7 @@ Pub. L. 102–138, title II, §214, Oct. 28, 1991, 105 Stat. 696, established Is
 
 Pub. L. 102–138, title II, §225, Oct. 28, 1991, 105 Stat. 699, authorized establishment of an endowment fund to support an exchange program among secondary school students from United States and former Warsaw Pact countries, prior to repeal, eff. 6 months after Oct. 24, 1992, by Pub. L. 102–511, title VIII, §807(c), Oct. 24, 1992, 106 Stat. 3354.
 
-Pub. L. 102–138, title II, §226, Oct. 28, 1991, 105 Stat. 699, authorized scholarships for foreign and UnitedStates students and scholars awarded by Bureau of Educational and Cultural Affairs of United States Information Agency to facilitate study, research, and teaching within United States.
+Pub. L. 102–138, title II, §226, Oct. 28, 1991, 105 Stat. 699, authorized scholarships for foreign and United States students and scholars awarded by Bureau of Educational and Cultural Affairs of United States Information Agency to facilitate study, research, and teaching within United States.
 
 Pub. L. 102–138, title II, §227, Oct. 28, 1991, 105 Stat. 700, as amended by Pub. L. 102–511, title VIII, §801, Oct. 24, 1992, 106 Stat. 3352; Pub. L. 105–277, div. G, subdiv. B, title XXIV, §2413, Oct. 21, 1998, 112 Stat. 2681–832, established Muskie Fellowship Program to award scholarships to graduate students from independent states of the former Soviet Union, Lithuania, Latvia, and Estonia for study within United States.
 
@@ -150,7 +386,7 @@ Pub. L. 89–698, title III, §301, Oct. 29, 1966, 80 Stat. 1072, authorized Sec
 
 #### Executive Order No. 10716
 
-Ex. Ord. No. 10716, June 18, 1957, 22 F.R. 4345, as amended by Ex. Ord. No. 10912, Jan. 19, 1961, 26 F.R. 509, which related to administration of programs under this chapter, was superseded by Ex. Ord. No. 11034, June 25, 1962, 27 F.R. 6071, set out as a note under section 2454 of this title.
+Ex. Ord. No. 10716, June 18, 1957, 22 F.R. 4345, as amended by Ex. Ord. No. 10912, Jan. 19, 1961, 26 F.R. 509,which related to administration of programs under this chapter, was superseded by Ex. Ord. No. 11034, June 25, 1962, 27 F.R. 6071, set out as a note under section 2454 of this title.
 
 #### Section Referred to in Other Sections
 

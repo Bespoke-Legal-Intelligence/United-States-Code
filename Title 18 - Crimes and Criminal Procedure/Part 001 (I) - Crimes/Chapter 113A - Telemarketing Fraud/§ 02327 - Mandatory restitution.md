@@ -34,7 +34,7 @@ Order mandatory.—(A) The issuance of a restitution order under this section is
 
 Victim Defined.—In this section, the term “victim” has the meaning given that term in section 3663A(a)(2).
 
-(Added Pub. L. 103–322, title XXV, §250002(a)(2), Sept. 13, 1994, 108 Stat. 2082; amended Pub. L. 104–132, title II, §205(e), Apr. 24, 1996, 110 Stat. 1232; Pub. L. 104–294, title VI, §601(n), Oct. 11, 1996, 110 Stat. 3502; Pub. L. 105–184, §5, June 23, 1998, 112 Stat. 520.)
+(Added Pub. L. 103–322, title XXV, §250002(a)(2), Sept. 13, 1994, 108 Stat. 2082; amended Pub. L.104–132, title II, §205(e), Apr. 24, 1996, 110 Stat. 1232; Pub. L. 104–294, title VI, §601(n), Oct. 11, 1996, 110 Stat. 3502; Pub. L. 105–184, §5, June 23, 1998, 112 Stat. 520.)
 
 #### Amendments
 
@@ -54,7 +54,7 @@ Subsec. (b)(1). Pub. L. 104–132, §205(e)(2)(A), reenacted heading without cha
 
 &emsp;“(B) the United States Attorney enforce the restitution order by all available and reasonable means.”
 
-Subsec. (b)(2). Pub. L. 104–132, §205(e)(2)(B), struck out “by victim” after “Enforcement” in heading andamended text generally. Prior to amendment, text read as follows: “An order of restitution may be enforced by a victim named in the order to receive the restitution as well as by the United States Attorney, in the same manner as a judgment in a civil action.”
+Subsec. (b)(2). Pub. L. 104–132, §205(e)(2)(B), struck out “by victim” after “Enforcement” in heading and amended text generally. Prior to amendment, text read as follows: “An order of restitution may be enforced by a victim named in the order to receive the restitution as well as by the United States Attorney, in the same manner as a judgment in a civil action.”
 
 Subsec. (b)(4)(C), (D). Pub. L. 104–132, §205(e)(2)(C), struck out subpars. (C) and (D), which related to court's consideration of economic circumstances of defendant in determining schedule of payment of restitution orders, and court's entry of nominal restitution awards where economic circumstances of defendant do not allow for payment of restitution, respectively.
 

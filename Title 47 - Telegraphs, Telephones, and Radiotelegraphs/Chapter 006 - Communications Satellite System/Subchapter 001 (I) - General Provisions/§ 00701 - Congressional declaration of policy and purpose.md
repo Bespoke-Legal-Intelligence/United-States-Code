@@ -6,7 +6,7 @@ The Congress declares that it is the policy of the United States to establish, i
 
 #### (b) Availability of telecommunication services
 
-The new and expanded telecommunication services are to be made available as promptly as possible and are to be extended to provide global coverage at the earliest practicable date. In effectuating this program, care and attention will be directed toward providing such services to economically less developed countries and areas as well as those more highly developed, toward efficient and economical use of the electromagnetic frequency spectrum, and toward the reflection of the benefits of this new technology in both quality of services and charges for such services.
+The new and expanded telecommunication services are to be made available as promptly aspossible and are to be extended to provide global coverage at the earliest practicable date. In effectuating this program, care and attention will be directed toward providing such services to economically less developed countries and areas as well as those more highly developed, toward efficient and economical use of the electromagnetic frequency spectrum, and toward the reflection of the benefits of this new technology in both quality of services and charges for such services.
 
 #### (c) Private enterprise; access; competition
 
@@ -18,19 +18,27 @@ It is not the intent of Congress by this chapter to preclude the use of the comm
 
 (Pub. L. 87–624, title I, §102, Aug. 31, 1962, 76 Stat. 419.)
 
+#### Termination of Section
+
+<i>Section to cease to be effective on the effective date of a Commission order determining under section 761(b)(2) of this title that INTELSAT privatization is consistent with criteria in sections 763 and 763a of this title, see section 765d(4) of this title.</i>
+
 #### References in Text
 
 The Federal antitrust laws, referred to in subsec. (c), are classified generally to chapter 1 (§1 et seq.) of Title 15, Commerce and Trade.
+
+#### Short Title of 2000 Amendment
+
+Pub. L. 106–180, §1, Mar. 17, 2000, 114 Stat. 48, provided that: “This Act \[enacting subchapter VI of this chapter\] may be cited as the ‘Open-market Reorganization for the Betterment of International Telecommunications Act’ or the ‘ORBIT Act’.”
 
 #### Short Title
 
 Section 101 of Pub. L. 87–624 provided that: “This Act \[enacting this chapter\] may be cited as the ‘Communications Satellite Act of 1962’.”
 
-For short title of title V of Pub. L. 87–624, as added by Pub. L. 95–564, Nov. 1, 1978, 92 Stat. 2392, which enacted subchapter V of this chapter, see note set out under section 751 of this title.
+Pub. L. 87–624, title V, §501, as added by Pub. L. 95–564, Nov. 1, 1978, 92 Stat. 2392, provided that: “This title \[enacting subchapter V of this chapter\] may be cited as the ‘International Maritime Satellite Telecommunications Act’.”
 
 #### Stylistic Consistency
 
-Pub. L. 103–414, title III, §303(f), Oct. 25, 1994, 108 Stat. 4296, provided that: “The Communications Act of 1934\[47 U.S.C. 151 et seq.\] and the Communications Satellite Act of 1962 \[47 U.S.C. 701 et seq.\] are amended so that the section designation and section heading of each section of such Acts shall be in the form and typeface of the section designation and heading of this section \[108 Stat. 4294\].”
+Pub. L. 103–414, title III, §303(f), Oct. 25, 1994, 108 Stat. 4296, provided that: “The Communications Act of 1934 \[47 U.S.C. 151 et seq.\] and the Communications Satellite Act of 1962 \[47 U.S.C. 701 et seq.\] are amended so that the section designation and section heading of each section of such Acts shall be in the form and typeface of the section designation and heading of this section \[108 Stat. 4294\].”
 
 #### International Telecommunications Satellite Organization
 
@@ -70,7 +78,7 @@ Amendment of Intelsat Agreement.—(1) The Secretary of State shall consult with
 
 “(d)
 
-Congressional Consultation.—In the event that, after United States consultation with Intelsat for the purposes of coordination under article XIV(d) of the Intelsat Agreement for the establishment of a separate international telecommunications satellite system, the Assembly of Parties of Intelsat fails to recommend such a separate system, and the President determines to pursue the establishment of a separate system notwithstanding the Assembly's failure to approve such system, the Secretary of State, after consultation with the Secretary of Commerce, shall submit to the Congress a detailed report which shall set forth—
+Congressional Consultation.—In the event that, after United States consultation with Intelsat forthe purposes of coordination under article XIV(d) of the Intelsat Agreement for the establishment of a separate international telecommunications satellite system, the Assembly of Parties of Intelsat fails to recommend such a separate system, and the President determines to pursue the establishment of a separate system notwithstanding the Assembly's failure to approve such system, the Secretary of State, after consultation with the Secretary of Commerce, shall submit to the Congress a detailed report which shall set forth—
 
 &emsp;“(1) the foreign policy reasons for the President's determination, and
 
@@ -94,5 +102,5 @@ Definition.—For the purposes of this section, the term ‘separate internation
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 743 of this title.
+This section is referred to in sections 743, 765d of this title.
 

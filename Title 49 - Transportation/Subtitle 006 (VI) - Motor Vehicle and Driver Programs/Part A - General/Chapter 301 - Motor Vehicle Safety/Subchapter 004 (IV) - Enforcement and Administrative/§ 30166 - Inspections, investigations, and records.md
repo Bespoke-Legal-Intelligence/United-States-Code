@@ -38,7 +38,7 @@ Reasonable Compensation.—When a motor vehicle (except a vehicle subject to sub
 
 (e)
 
-Records and Making Reports.—The Secretary of Transportation reasonably may require a manufacturer of a motor vehicle or motor vehicle equipment to keep records, and a manufacturer, distributor, or dealer to make reports, to enable the Secretary to decide whether the manufacturer, distributor, or dealer has complied or is complying with this chapter or a regulation prescribed or order issued under this chapter. This subsection does not impose a recordkeeping requirement on a distributor or dealer in addition to those imposed under subsection (f) of this section and section 30117(b) of this title or a regulation prescribed or order issued under subsection (f) or section 30117(b).
+Records and Making Reports.—The Secretary of Transportation reasonably may require a manufacturer of a motor vehicle or motor vehicle equipment to keep records, and a manufacturer, distributor, or dealer to make reports, to enable the Secretary to decide whetherthe manufacturer, distributor, or dealer has complied or is complying with this chapter or a regulation prescribed or order issued under this chapter. This subsection does not impose a recordkeeping requirement on a distributor or dealer in addition to those imposed under subsection (f) of this section and section 30117(b) of this title or a regulation prescribed or order issued under subsection (f) or section 30117(b).
 
 (f)
 
@@ -70,7 +70,101 @@ Cooperation of Secretary.—The Secretary of Transportation may advise, assist, 
 
 Providing Information.—The Secretary of Transportation shall provide the Attorney General and, when appropriate, the Secretary of the Treasury, information obtained that indicates a violation of this chapter or a regulation prescribed or order issued under this chapter.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 969; Pub. L. 103–429, §6(24), Oct. 31, 1994, 108 Stat. 4380; Pub. L. 104–88, title III, §308(j), Dec. 29, 1995, 109 Stat. 947; Pub. L. 104–287, §6(f)(3), Oct. 11, 1996, 110 Stat. 3399.)
+(<i>l</i>)
+
+Reporting of Defects in Motor Vehicles and Products in Foreign Countries.—
+
+&emsp;(1)
+
+Reporting of defects, manufacturer determination.—Not later than 5 working days after determining to conduct a safety recall or other safety campaign in a foreign country on a motor vehicle or motor vehicle equipment that is identical or substantially similar to a motor vehicle or motor vehicle equipment offered for sale in the United States, the manufacturer shall report the determination to the Secretary.
+
+&emsp;(2)
+
+Reporting of defects, foreign government determination.—Not later than 5 working days after receiving notification that the government of a foreign country has determined that a safety recall or other safety campaign must be conducted in the foreign country on a motor vehicle or motor vehicle equipment that is identical or substantially similar to a motor vehicle or motor vehicle equipment offered for sale in the United States, the manufacturer of the motor vehicle or motor vehicle equipment shall report the determination to the Secretary.
+
+&emsp;(3)
+
+Reporting requirements.—The Secretary shall prescribe the contents of the notification required by this subsection.
+
+(m)
+
+Early Warning Reporting Requirements.—
+
+&emsp;(1)
+
+Rulemaking required.—Not later than 120 days after the date of the enactment of the Transportation Recall Enhancement, Accountability, and Documentation (TREAD) Act, the Secretary shall initiate a rulemaking proceeding to establish early warning reporting requirements for manufacturers of motor vehicles and motor vehicle equipment to enhance the Secretary's ability to carry out the provisions of this chapter.
+
+&emsp;(2)
+
+Deadline.—The Secretary shall issue a final rule under paragraph (1) not later than June 30, 2002.
+
+&emsp;(3)
+
+Reporting elements.—
+
+&emsp;&emsp;(A)
+
+Warranty and claims data.—As part of the final rule promulgated under paragraph (1), the Secretary shall require manufacturers of motor vehicles and motor vehicle equipment to report, periodically or upon request by the Secretary, information which is received by the manufacturer derived from foreign and domestic sources to the extent that such information may assist in the identification of defects related to motor vehicle safety in motor vehicles and motor vehicle equipment in the United States and which concerns—
+
+&emsp;&emsp;&emsp;(i) data on claims submitted to the manufacturer for serious injuries (including death) and aggregate statistical data on property damage from alleged defects in a motor vehicle or in motor vehicle equipment; or
+
+&emsp;&emsp;&emsp;(ii) customer satisfaction campaigns, consumer advisories, recalls, or other activity involving the repair or replacement of motor vehicles or items of motor vehicle equipment.
+
+&emsp;&emsp;(B)
+
+Other data.—As part of the final rule promulgated under paragraph (1), the Secretary may, to the extent that such information may assist in the identification of defects related to motor vehicle safety in motor vehicles and motor vehicle equipment in the United States, require manufacturers of motor vehicles or motor vehicle equipment to report, periodically or upon request of the Secretary, such information as the Secretary may request.
+
+&emsp;&emsp;(C)
+
+Reporting of possible defects.—The manufacturer of a motor vehicle or motor vehicle equipment shall report to the Secretary, in such manner as the Secretary establishes by regulation, all incidents of which the manufacturer receives actual notice which involve fatalities or serious injuries which are alleged or proven to have been caused by a possible defect in such manufacturer's motor vehicle or motor vehicle equipment in the United States, or in a foreign country when the possible defect is in a motor vehicle or motor vehicle equipment that is identical or substantially similar to a motor vehicle or motor vehicle equipment offered for sale in the United States.
+
+&emsp;(4)
+
+Handling and utilization of reporting elements.—
+
+&emsp;&emsp;(A)
+
+Secretary's specifications.—In requiring the reporting of any information requested by the Secretary under this subsection, the Secretary shall specify in the final rule promulgated under paragraph (1)—
+
+&emsp;&emsp;&emsp;(i) how such information will be reviewed and utilized to assist in the identification of defects related to motor vehicle safety;
+
+&emsp;&emsp;&emsp;(ii) the systems and processes the Secretary will employ or establish to review and utilize such information; and
+
+&emsp;&emsp;&emsp;(iii) the manner and form of reporting such information, including in electronic form.
+
+&emsp;&emsp;(B)
+
+Information in possession of manufacturer.—The regulations promulgated by the Secretary under paragraph (1) may not require a manufacturer of a motor vehicle or motor vehicle equipment to maintain or submit records respecting information not in the possession of the manufacturer.
+
+&emsp;&emsp;(C)
+
+Disclosure.—None of the information collected pursuant to the final rule promulgated under paragraph (1) shall be disclosed pursuant to section 30167(b) unless the Secretary determines the disclosure of such information will assist in carrying out sections 30117(b) and 30118 through 30121.
+
+&emsp;&emsp;(D)
+
+Burdensome requirements.—In promulgating the final rule under paragraph (1), the Secretary shall not impose requirements unduly burdensome to a manufacturer of a motor vehicle or motor vehicle equipment, taking into account the manufacturer's cost of complying with such requirements and the Secretary's ability to use the information sought in a meaningful manner to assist in the identification of defects related to motor vehicle safety.
+
+&emsp;(5)
+
+Periodic review.—As part of the final rule promulgated pursuant to paragraph (1), the Secretary shall specify procedures for the periodic review and update of such rule.
+
+(n)
+
+Sale or Lease of Defective or Noncompliant Tire.—
+
+&emsp;(1)
+
+In general.—The Secretary shall, within 90 days of the date of the enactment of the Transportation Recall Enhancement, Accountability, and Documentation (TREAD) Act, issue a final rule requiring any person who knowingly and willfully sells or leases for use on a motor vehicle a defective tire or a tire which is not compliant with an applicable tire safety standard with actual knowledge that the manufacturer of such tire has notified its dealers of such defect or noncompliance as required under section 30118(c) or as required by an order under section 30118(b) to report such sale or lease to the Secretary.
+
+&emsp;(2)
+
+Defect or noncompliance remedied or order not in effect.—Regulations under paragraph (1) shall not require the reporting described in paragraph (1) where before delivery under a sale or lease of a tire—
+
+&emsp;&emsp;(A) the defect or noncompliance of the tire is remedied as required by section 30120; or
+
+&emsp;&emsp;(B) notification of the defect or noncompliance is required under section 30118(b) but enforcement of the order is restrained or the order is set aside in a civil action to which section 30121(d) applies.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 969; Pub. L. 103–429, §6(24), Oct. 31, 1994, 108 Stat. 4380; Pub. L. 104–88, title III, §308(j), Dec. 29, 1995, 109 Stat. 947; Pub. L. 104–287, §6(f)(3), Oct. 11, 1996, 110 Stat. 3399; Pub. L. 106–414, §3(a)–(c), Nov. 1, 2000, 114 Stat. 1800–1802.)
 
 Historical and Revision Notes
 
@@ -192,7 +286,7 @@ In subsection (d), the words “for the purpose of inspection” and “the auth
 
 In subsection (e), the words “establish and” are omitted as surplus. The words “This subsection does not impose” are substituted for “Nothing in this subsection shall be construed as imposing” for consistency and to eliminate unnecessary words.
 
-In subsection (f), the words “notices, bulletins, and other” are omitted as surplus. The words “with a motor vehicle safety standard prescribed under this chapter” are added for clarity. The text of15:1397(a)(1)(D) (related to 15:1418(a)(1)) is omitted as surplus.
+In subsection (f), the words “notices, bulletins, and other” are omitted as surplus. The words “with a motor vehicle safety standard prescribed under this chapter” are added for clarity. The text of 15:1397(a)(1)(D) (related to 15:1418(a)(1)) is omitted as surplus.
 
 In subsection (g)(1), before clause (A), the words “or on the authorization of the Secretary, any officer or employee of the Department of Transportation” are omitted as surplus because of 49:322(b). In clause (A), the words “in writing”, “in such form as the Secretary may prescribe”, “relating to any function of the Secretary under this subchapter”, and “shall be filed with the Secretary within such reasonable period as the Secretary may prescribe” are omitted as surplus. In clause (B), the words “sit and act at such times and places” are omitted as being included in “conduct hearings”. The word “records” is substituted for “such books, papers, correspondence, memorandums, contracts, agreements, or other records” for consistency in the revised title and with other titles of the United States Code.
 
@@ -208,7 +302,13 @@ In subsection (k), the words “for appropriate action” are omitted as surplus
 
 This amends 49:30166(h) to clarify the restatement of 15:1401(c)(4) by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 970).
 
+#### References in Text
+
+The date of the enactment of the Transportation Recall Enhancement, Accountability, and Documentation\(TREAD) Act, referred to in subsecs. (m)(1) and (n)(1), is the date of enactment of Pub. L. 106–414, which was approved Nov. 1, 2000.
+
 #### Amendments
+
+2000—Subsecs. (<i>l</i>) to (n). Pub. L. 106–414 added subsecs. (<i>l</i>) to (n).
 
 1996—Subsec. (d). Pub. L. 104–287 made technical amendment to directory language of Pub. L. 104–88, §308(j). See 1995 Amendment note below.
 
@@ -230,5 +330,5 @@ Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 30102, 30103, 30117, 30118, 30141, 30147, 30165 of this title.
+This section is referred to in sections 30102, 30103, 30117, 30118, 30141, 30147, 30165, 30170 of this title.
 

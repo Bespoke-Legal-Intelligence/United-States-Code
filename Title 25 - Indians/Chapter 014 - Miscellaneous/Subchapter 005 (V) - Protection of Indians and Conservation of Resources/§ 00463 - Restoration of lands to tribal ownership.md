@@ -32,7 +32,7 @@ Subsec. (b)(4). Act May 27, 1955, struck out provisions relating to authority to
 
 1937—Subsec. (a). Act Aug. 28, 1937, designated existing provisions of first par. as subsec. (a).
 
-Subsec. (b)(1). Act Aug. 28, 1937, designated existing provisions of first par. as par. (1), substituted “damages shall be paid to the superintendent or other officer in charge of the reservation for the credit of the owner thereof” for “damages shall be paid to the Papago Tribe” and “to be the fair and reasonable value of such improvement” for “but not to exceed the cost of said improvements” and struck out “and payments derived from damages or rentals shall be deposited in the Treasury of the United States to the credit of the Papago Tribe” after “mining operations,”.
+Subsec. (b)(1). Act Aug. 28, 1937, designated existing provisions of first par. as par. (1), substituted “damages shall be paid to the superintendent or other officer in charge of the reservation for the credit of the owner thereof” for “damages shall be paid to the Papago Tribe” and “to be the fair and reasonable value of suchimprovement” for “but not to exceed the cost of said improvements” and struck out “and payments derived from damages or rentals shall be deposited in the Treasury of the United States to the credit of the Papago Tribe” after “mining operations,”.
 
 Subsec. (b)(2). Act Aug. 28, 1937, designated existing provisions of first par. as par. (2), inserted “pay to the superintendent or other officer in charge of the reservation, for” before “deposit”, substituted “<i>Provided</i>, That an applicant for patent shall also pay to the Secretary or other officer in charge of the said reservation for the credit of the owner” for “<i>Provided further</i>, That patentee shall also pay into the Treasury of the United States to the credit of the Papago Tribe” substituted “but the sum thus deposited, except for a deduction of rental at the annual rate hereinbefore provided, shall be refunded to the applicant in the event that patent is not acquired” for “the payment of $1.00 per acre for surface use to be refunded to patentee in the event that patent is not acquired” after “determination by the Secretary of the Interior, but not to exceed the cost thereof”.
 
@@ -71,12 +71,4 @@ Sec. 3. The lands restored to tribal ownership by this Act may be sold or exchan
 #### Papago Indian Reservation
 
 Section 1 of act May 27, 1955, provided: “That the provisions with respect to subjection of mineral lands within the Papago Indian Reservation to exploration, location, and entry under the mining laws of the United States in the Executive order dated February 1, 1917, creating the Papago Indian Reservation, and in the third proviso in section 1 of the Act of February 21, 1931 (46 Stat. 1202), and the provisions of subsection (b)(1) and (2) and of the remainder, following the word ‘purposes’, of subsection (b)(4) of section 3 of the Act of June 18, 1934 (48 Stat. 984; 25 U.S.C. 461–479), as amended by the Act of August 28, 1937 (50 Stat. 862, 863; 25 U.S.C. 463) \[this section\], are hereby repealed, all tribal lands within the Papago Indian Reservation are hereby withdrawn from all forms of exploration, location, and entry under such laws, the minerals underlying such lands are hereby made a part of the reservation to be held in trust by the United States for the Papago Indian Tribe, and such minerals shall be subject to lease for mining purposes pursuant to the provisions of the Act of May 11, 1938 (52 Stat. 347) \[sections 396a to 396g of this title\]: <i>Provided</i>, That the provisions of this Act shall not be applicable to lands within the Papago Indian Reservation for which a mineral patent has heretofore been issued or to a claim that has been validly initiated before the date of this Act and thereafter maintained under the mining laws of the United States.”
-
-#### Cross References
-
-Right-of-way grant, consent of tribal officials, see section 324 of this title.
-
-Territories, colonies, or insular possessions of United States, application to, see section 473 of this title.
-
-Umatilla Indian Reservation lands restored, see sections 463d to 463g of this title.
 

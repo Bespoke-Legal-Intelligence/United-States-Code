@@ -46,7 +46,7 @@ Any person designated in subsection (b) of this section as entitled to the benef
 
 #### (i) Citizens or residents of United States entitled to benefits of section
 
-Citizens or residents of the United States shall have the same benefits as are granted by this section to persons described in subsection (b) of this section.
+Citizens or residents of the United States shall have the same benefits as are granted by thissection to persons described in subsection (b) of this section.
 
 (July 5, 1946, ch. 540, title IX, §44, 60 Stat. 441; Pub. L. 87–333, §2, Oct. 3, 1961, 75 Stat. 748; Pub. L. 87–772, §20, Oct. 9, 1962, 76 Stat. 774; Pub. L. 100–667, title I, §133, Nov. 16, 1988, 102 Stat. 3946; Pub. L. 105–330, title I, §108, Oct. 30, 1998, 112 Stat. 3068; Pub. L. 106–43, §6(b), Aug. 5, 1999, 113 Stat. 220; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583.)
 
@@ -84,7 +84,7 @@ Subsec. (f). Pub. L. 100–667, §133(1), (7), made technical amendment to refer
 
 Subsecs. (g) to (i). Pub. L. 100–667, §133(1), (8), made technical amendment to references in the original act to subsection (b) of this section, resulting in no change in text.
 
-1962—Subsec. (b). Pub. L. 87–772 inserted “or extends reciprocal rights to nationals of the United States bylaw,” and substituted provisions requiring the person's country of origin to be a party to any convention or treaty, for provisions which required such persons to be nationals of, domiciled in, or have a bona fide and effective business or commercial establishment in a foreign country which was a party to the International Convention for the Protection of Industrial Property, or the General Inter-American Convention for Trade Mark and Commercial Protection, or any other convention or treaty relating to trademarks, trade, or commercial names.
+1962—Subsec. (b). Pub. L. 87–772 inserted “or extends reciprocal rights to nationals of the United States by law,” and substituted provisions requiring the person's country of origin to be a party to any convention or treaty, for provisions which required such persons to be nationals of, domiciled in, or have a bona fide and effective business or commercial establishment in a foreign country which was a party to the International Convention for the Protection of Industrial Property, or the General Inter-American Convention for Trade Mark and Commercial Protection, or any other convention or treaty relating to trademarks, trade, or commercial names.
 
 Subsec. (e). Pub. L. 87–772 inserted “certification or a” after “accompanied by a” and struck out “application for or” before “registration”.
 

@@ -50,10 +50,6 @@ Administration of this subchapter was transferred to the Secretary of Labor by s
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface of the report.
 
-#### Federal Rules of Civil Procedure
-
-Writ of mandamus abolished in United States district courts, but relief available by appropriate action or motion, see rule 81, Title 28, Appendix, Judiciary and Judicial Procedure.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 8113, 8124, 8146 of this title.

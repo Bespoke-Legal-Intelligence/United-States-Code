@@ -6,7 +6,7 @@ As recommended by the personnel board—
 
 &emsp;(1) an officer in the permanent grade of captain or commander may be transferred to the retired list; and
 
-&emsp;(2) an officer in the permanent grade of lieutenant commander, lieutenant, or lieutenant\(junior grade) who is not qualified for retirement may be separated from the service.
+&emsp;(2) an officer in the permanent grade of lieutenant commander, lieutenant, or lieutenant (junior grade) who is not qualified for retirement may be separated from the service.
 
 #### (b) Computations
 

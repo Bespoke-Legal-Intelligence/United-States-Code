@@ -2,7 +2,7 @@
 
 The district courts shall have original jurisdiction of any civil action involving the right of any person, in whole or in part of Indian blood or descent, to any allotment of land under any Act of Congress or treaty.
 
-The judgment in favor of any claimant to an allotment of land shall have the same effect, when properly certified to the Secretary of the Interior, as if such allotment had been allowed and approved by him; but this provision shall not apply to any lands held on or before December 21, 1911, by either of the Five CivilizedTribes, the Osage Nation of Indians, nor to any of the lands within the Quapaw Indian Agency.
+The judgment in favor of any claimant to an allotment of land shall have the same effect, when properly certified to the Secretary of theInterior, as if such allotment had been allowed and approved by him; but this provision shall not apply to any lands held on or before December 21, 1911, by either of the Five Civilized Tribes, the Osage Nation of Indians, nor to any of the lands within the Quapaw Indian Agency.
 
 (June 25, 1948, ch. 646, 62 Stat. 934.)
 
@@ -15,10 +15,4 @@ Words “any civil action” were substituted for “all actions, suits, or proc
 The sentence “The right of appeal shall be allowed to either party as in other cases” was omitted as covered by section 1291 of this title, relating to appeals to the court of appeals.
 
 Changes in phraseology were made.
-
-#### Cross References
-
-Amount in controversy immaterial in action under this section, see Historical and Revision Notes under section 1331 of this title.
-
-Jurisdiction of action for allotment, see section 345 of Title 25, Indians.
 

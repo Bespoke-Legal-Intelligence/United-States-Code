@@ -24,19 +24,15 @@ Duties.—The board shall, on an annual basis—
 
 (d)
 
-Administrative Provisions.—(1) Each member of the board who is not an officer or employee of the Federal Government shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for Executive Schedule Level IV under section 5376 of title 5,<sup>1</sup> for each day (including travel time) during which such member is engaged in the performance of the duties of the board. Members of the board who are officers or employees of the United States shall serve without compensation in addition to that received for their services as officers or employees of the United States.
+Administrative Provisions.—(1) Each member of the board who is not an officer or employee of the Federal Government shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for Executive Schedule Level IV under section 5315 of title 5, for each day (including travel time) during which such member is engaged in the performance of the duties of the board. Members of the board who are officers or employees of the United States shall serve without compensation in addition to that received for their services as officers or employees of the United States.
 
-(2) The members of the board shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, while away from their homes or regular places of business in the performance of services for the board.
+(2) The members of the board shall be allowed travel expenses, including per diem in lieu ofsubsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, while away from their homes or regular places of business in the performance of services for the board.
 
-(Added Pub. L. 102–190, div. A, title V, §513(a), Dec. 5, 1991, 105 Stat. 1360; amended Pub. L. 106–65, div. A, title X, §1066(a)(2), Oct. 5, 1999, 113 Stat. 770.)
-
-#### References in Text
-
-Level IV of the Executive Schedule, referred to in subsec. (d)(1), is set out in section 5315 of Title 5, Government Organization and Employees.
+(Added Pub. L. 102–190, div. A, title V, §513(a), Dec. 5, 1991, 105 Stat. 1360; amended Pub. L. 106–65, div. A, title X, §1066(a)(2), Oct. 5, 1999, 113 Stat. 770; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–290.)
 
 #### Amendments
 
-1999—Subsec. (d)(1). Pub. L. 106–65 substituted “Executive Schedule Level IV under section 5376 of title 5” for “grade GS–18 of the General Schedule under section 5332 of title 5”.
+2000—Subsec. (d). Pub. L. 106–398 substituted “section 5315” for “section 5376”.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+1999—Subsec. (d)(1). Pub. L. 106–65 substituted “Executive Schedule Level IV under section 5376 of title 5” for “grade GS–18 of the General Schedule under section 5332 of title 5”.
 

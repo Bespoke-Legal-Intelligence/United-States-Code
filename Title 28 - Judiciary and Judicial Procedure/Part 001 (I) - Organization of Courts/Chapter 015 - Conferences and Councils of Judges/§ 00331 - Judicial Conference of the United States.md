@@ -42,29 +42,29 @@ Rule 45(c) of the Federal Rules of Civil Procedure, referred to in fourth paragr
 
 #### Amendments
 
-1996—Pub. L. 104–317 added second par. and struck out former second par. which read as follows: “The district judge to be summoned from each judicial circuit shall be chosen by the circuit and district judges of the circuit at the annual judicial conference of the circuit held pursuant to section 333 of this title and shall serve as a member of the conference for three successive years, except that in the year following the enactment of this amended section the judges in the first, fourth, seventh, and tenth circuits shall choose a district judge to serve for one year, the judges in the second, fifth, and eighth circuits shall choose a district judge to serve for two years and the judges in the third, sixth, ninth, and District of Columbia circuits shall choose a district judge to serve for three years.”
+<b>1996</b>—Pub. L. 104–317 added second par. and struck out former second par. which read as follows: “The district judge to be summoned from each judicial circuit shall be chosen by the circuit and district judges of the circuit at the annual judicial conference of the circuit held pursuant to section 333 of this title and shall serve as a member of the conference for three successive years, except that in the year following the enactment of this amended section the judges in the first, fourth, seventh, and tenth circuits shall choose a district judge to serve for one year, the judges in the second, fifth, and eighth circuits shall choose a district judge to serve for two years and the judges in the third, sixth, ninth, and District of Columbia circuits shall choose a district judge to serve for three years.”
 
-1988—Pub. L. 100–702 inserted paragraph requiring Judicial Conference review of section 2071 rules prescribed by courts other than Supreme court or district courts for consistency with Federal law.
+<b>1988</b>—Pub. L. 100–702 inserted paragraph requiring Judicial Conference review of section 2071 rules prescribed by courts other than Supreme court or district courts for consistency with Federal law.
 
-1986—Pub. L. 99–466, §1(a), inserted “, the chief judge of the Court of International Trade,” and substituted “Conference may” for “conference may” in first par.
+<b>1986</b>—Pub. L. 99–466, §1(a), inserted “, the chief judge of the Court of International Trade,” and substituted “Conference may” for “conference may” in first par.
 
 Pub. L. 99–466, §1(b), inserted “, the chief judge of the Court of International Trade,” and “or any other judge of the Court of International Trade, as the case may be” in first sentence of third par.
 
 Pub. L. 99–466, §1(c), substituted “Conference” for “conference” in sixth par.
 
-1982—Pub. L. 97–164, in first par., struck out references to the chief judge of the Court of Claims and to the chief judge of the Court of Customs and Patent Appeals in the enumeration of judges which the Chief Justice must summon each year for a conference and, in third par., struck out provision that authorized the Chief Justice to summon an associate judge of the Court of Claims or the Court of Customs and Patent Appeals if the chief judge of either of those courts could not attend.
+<b>1982</b>—Pub. L. 97–164, in first par., struck out references to the chief judge of the Court of Claims and to the chief judge of the Court of Customs and Patent Appeals in the enumeration of judges which the Chief Justice must summon each year for a conference and, in third par., struck out provision that authorized the Chief Justice to summon an associate judge of the Court of Claims or the Court of Customs and Patent Appeals if the chief judge of either of those courts could not attend.
 
-1980—Pub. L. 96–458, in fourth par., substituted “It shall also submit suggestions and recommendations to the various courts to promote uniformity of management procedures and the expeditious conduct of court business.” for “and shall submit suggestions to the various courts, in the interest of uniformity and expedition of business.”, and inserted provisions relating to exercise of authority under section 372(c) as the Conference or through standing committee, the holding of hearings, taking of testimony, and the issuance of subpoenas pursuant to rule 45(c) of the Federal Rules of Civil Procedure.
+<b>1980</b>—Pub. L. 96–458, in fourth par., substituted “It shall also submit suggestions and recommendations to the various courts to promote uniformity of management procedures and the expeditious conduct of court business.” for “and shall submit suggestions to the various courts, in the interest of uniformity and expedition of business.”, and inserted provisions relating to exercise of authority under section 372(c) as the Conference or through standing committee, the holding of hearings, taking of testimony, and the issuance of subpoenas pursuant to rule 45(c) of the Federal Rules of Civil Procedure.
 
-1978—Pub. L. 95–598 directed the amendment of section by inserting references to bankruptcy judges, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+<b>1978</b>—Pub. L. 95–598 directed the amendment of section by inserting references to bankruptcy judges, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
-1961—Pub. L. 87–253 provided for the summoning to the judicial conference of the chief judge of the Court of Customs and Patent Appeals, and if he is unable to attend, for the summoning of an associate judge of such court.
+<b>1961</b>—Pub. L. 87–253 provided for the summoning to the judicial conference of the chief judge of the Court of Customs and Patent Appeals, and if he is unable to attend, for the summoning of an associate judge of such court.
 
-1958—Pub. L. 85–513 inserted paragraph requiring a continuous study of the operation and effect of the general rules of practice and procedure.
+<b>1958</b>—Pub. L. 85–513 inserted paragraph requiring a continuous study of the operation and effect of the general rules of practice and procedure.
 
-1957—Pub. L. 85–202 provided generally in first three paragraphs for the representation of district judges on the Judicial Conference.
+<b>1957</b>—Pub. L. 85–202 provided generally in first three paragraphs for the representation of district judges on the Judicial Conference.
 
-1956—Act July 9, 1956, inserted provisions relating to participation of Court of Claims judges.
+<b>1956</b>—Act July 9, 1956, inserted provisions relating to participation of Court of Claims judges.
 
 #### Effective Date of 1988 Amendment
 
@@ -81,6 +81,10 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 #### Effective Date of 1980 Amendment
 
 Section 7 of Pub. L. 96–458 provided that: “This Act \[amending this section and sections 332, 372, and 604 of this title and enacting provisions set out as notes under this section and section 1 of this title\] shall become effective on October 1, 1981.”
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in this section relating to requirement that the Chief Justice submit to Congress an annual report of proceedings of the Judicial Conference and recommendations for legislation, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 13 of House Document No. 103–7.
 
 #### Policies, Procedures, and Methodologies Used in Recommendation for Creation of Additional Federal Judgeships; Study by General Accounting Office and Report to Congress
 
@@ -102,119 +106,7 @@ Report to Congress.—The Comptroller General shall, not later than 18 months af
 
 #### Federal Courts Study Committee
 
-Title I of Pub. L. 100–702 provided that:
-
-#### TITLE I—FEDERAL COURTS STUDY COMMITTEE
-
-#### “SEC. 101. SHORT TITLE.
-
-“This title may be cited as the ‘Federal Courts Study Act’.
-
-#### “SEC. 102. ESTABLISHMENT AND PURPOSES.
-
-“(a)
-
-Establishment.—There is hereby established within the Judicial Conference of the United States, a Federal Courts Study Committee on the future of the Federal Judiciary (hereafter referred to as the ‘Committee’).
-
-“(b)
-
-Purposes.—The purposes of the Committee are to—
-
-&emsp;“(1) examine problems and issues currently facing the courts of the United States;
-
-&emsp;“(2) develop a long-range plan for the future of the Federal Judiciary, including assessments involving—
-
-&emsp;&emsp;“(A) alternative methods of dispute resolution;
-
-&emsp;&emsp;“(B) the structure and administration of the Federal court system;
-
-&emsp;&emsp;“(C) methods of resolving intracircuit and intercircuit conflicts in the courts of appeals; and
-
-&emsp;&emsp;“(D) the types of disputes resolved by the Federal courts; and
-
-&emsp;“(3) report to the Judicial Conference of the United States, the President, the Congress, the Conference of Chief Justices, and the State Justice Institute on the revisions, if any, in the laws of the United States which the Committee, based on its study and evaluation, deems advisable.
-
-#### “SEC. 103. MEMBERSHIP OF THE COMMITTEE.
-
-“(a)
-
-Appointments.—The Committee shall be composed of fifteen members to be appointed by the Chief Justice of the United States, within ten days after the effective date of this title.
-
-“(b)
-
-Selection.—The membership of the Committee shall be selected in such a manner as to be representative of the various interests, needs and concerns which may be affected by the jurisdiction of the Federal courts. The Chief Justice shall designate one of the members of the Committee to serve as Chairman.
-
-“(c)
-
-Term of Office.—The Committee members shall serve at the pleasure of the Chief Justice.
-
-“(d)
-
-Rules of Procedure.—Rules of procedure shall be promulgated by vote of a majority of the Committee.
-
-#### “SEC. 104. POWERS OF THE COMMITTEE.
-
-“(a)
-
-Hearings.—The Committee or, on the authorization of the Committee, any subcommittee thereof may, for the purpose of carrying out its functions and duties, hold such hearings and sit and act at such times and places, as the Committee or any such subcommittee may deem advisable.
-
-“(b)
-
-Information and Assistance.—The Administrative Office of the United States Courts, the Federal Judicial Center, and each department, agency, and instrumentality of the executive branch of the Government, including the National Institute of Justice and independent agencies, shall furnish to the Committee, upon request made by the Chairman, such information and assistance as the Committee may reasonably deem necessary to carry out its functions under this title, consistent with other applicable provisions of law governing the release of such information.
-
-“(c)
-
-Personnel.—(1) Subject to such rules and regulations as may be adopted by the Committee, the Director of the Administrative Office shall furnish to the Committee necessary staff and technical assistance in response to needs specified.
-
-“(2) \[Amended section 5108(c)(1) of Title 5, Government Organization and Employees.\]
-
-“(d)
-
-Advisory Panels.—The Committee is authorized, for the purpose of carrying out its functions and duties pursuant to the provisions of this title, to establish advisory panels consisting of Committee members or members of the public. Such panels shall be established to provide expertise and assistance in specific areas, as the Committee deems necessary.
-
-#### “SEC. 105. FUNCTIONS AND DUTIES.
-
-“The Committee shall—
-
-&emsp;“(1) make a complete study of the courts of the United States and of the several States and transmit a report to the President, the Chief Justice of the United States, the Congress, the Judicial Conference of the United States, the Conference of Chief Justices, and the State Justice Institute on such study, within fifteen months after the effective date of this title;
-
-&emsp;“(2) recommend revisions to be made to laws of the United States as the Committee, on the basis of such study, deems advisable;
-
-&emsp;“(3) develop a long-range plan for the judicial system; and
-
-&emsp;“(4) make such other recommendations and conclusions it deems advisable.
-
-#### “SEC. 106. COMPENSATION OF MEMBERS.
-
-“(a)
-
-Employees of the Government.—A member of the Committee who is an officer or full-time employee of the United States shall receive no additional compensation for his or her services, but shall be reimbursed for travel, subsistence, and other necessary expenses incurred in the performance of duties vested in the Committee, not to exceed the maximum amounts authorized under section 456 of title 28.
-
-“(b)
-
-Private Sector.—A member of the Committee who is from the private sector shall receive $200 per diem for each day (including travel time) during which he or she is engaged in the actual performance of duties vested in the Committee, plus reimbursement for travel, subsistence, and other necessary expenses incurred in the performance of such duties, not to exceed the maximum amounts authorized under section 456 of title 28.
-
-#### “SEC. 107. EXPIRATION OF THE COMMITTEE.
-
-“The Committee shall cease to exist on the date 60 days after it transmits the report pursuant to section 105.
-
-#### “SEC. 108. AUTHORIZATION OF APPROPRIATIONS.
-
-“To carry out the purposes of this title there are authorized to be appropriated $300,000 for each of the fiscal years 1989 and 1990.
-
-#### “SEC. 109. EFFECTIVE DATE.
-
-“This title shall become effective on January 1, 1989.”
-
-#### Authorization of Appropriations
-
-Section 6 of Pub. L. 96–458 provided that: “There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this Act \[amending this section and sections 332, 372, and 604 of this title and enacting provisions set out as notes under this section and section 1 of this title\].”
-
-#### Cross References
-
-Annuities to widows and surviving dependent children of judges, review by Judicial Conference of the United States of questions of dependency and disability, see section 376 of this title.
-
-Pretermission of regular term or session of court of appeals with consent of Judicial Conference of the United States, see section 48 of this title.
+Title I of Pub. L. 100–702, known as the “Federal Courts Study Act”, established within the Judicial Conference of the United States, a Federal Courts Study Committee on the future of the Federal Judiciary, which was directed to examine problems and issues currently facing the courts of the United States, develop a long-range plan for the future of the Federal Judiciary, including assessments involving alternative methods of dispute resolution, the structure and administration of the Federal court system, methods of resolving intracircuit and intercircuit conflicts in the courts of appeals, and the types of disputes resolved by the Federal courts, and to submit, within 15 months after Jan. 1, 1989, a report to the Judicial Conference of the United States, the President, the Congress, the Conference of Chief Justices, and the State Justice Institute on the revisions, if any, in the laws of the United States which the Committee, based on its study and evaluation, deemed advisable, and further provided for membership of the Committee, duties, powers and functions, compensation of members, appropriations, and expiration of the Committee 60 days after submission of report.
 
 #### Section Referred to in Other Sections
 

@@ -30,7 +30,7 @@ Included in the activities authorized to the corporation for the accomplishment 
 
 #### (c) Exercise of powers conferred upon stock corporation by District of Columbia Business Corporation Act
 
-To carry out the foregoing purposes and engaged in the foregoing activities, the corporation shall have the usual powers conferred upon a stock corporation by the District of Columbia Business Corporation Act \[D.C. Code, §29–301 et seq.\].
+To carry out the foregoing purposes and engaged in the foregoing activities, the corporation shall have the usual powers conferred upon a stock corporation by the District of Columbia Business Corporation Act.
 
 #### (d) Labor standards
 
@@ -44,7 +44,7 @@ The combined outstanding equity commitment of the corporation and the partnershi
 
 #### References in Text
 
-The District of Columbia Business Corporation Act, referred to in subsec. (c), is act June 8, 1954, ch. 269, 68 Stat. 179, as amended, which appears in chapter 3 (§29–301 et seq.) of Title 29, Corporations, of the District of Columbia Code.
+The District of Columbia Business Corporation Act, referred to in subsec. (c), is act June 8, 1954, ch. 269, 68 Stat. 179, as amended, which is not classified to the Code.
 
 The Davis-Bacon Act, referred to in subsec. (d), is act Mar. 3, 1931, ch. 411, 46 Stat. 1494, as amended, which is classified generally to sections 276a to 276a–5 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 276a of Title 40 and Tables.
 

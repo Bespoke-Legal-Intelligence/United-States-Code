@@ -40,6 +40,10 @@ In subsection (a)(4), the word “ensure” is substituted for “assure” as b
 
 In subsection (b), the words “The Secretaries shall report on April 1 of each year” are substituted for “They shall, within one year after the effective date of the Act, and annually thereafter, report” to omit executed words and to specify the date of April 1 because the President prescribed April 1, 1967, as the effective date of the Department of Transportation Act (Pub. L. 89–670, 80 Stat. 931) by Executive Order No. 11340, March 30, 1967 (32 F.R. 5443). The word “consider” is substituted for “determine” for consistency.
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (b) of this section relating to the requirement to submit an annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 4th item on page 150 of House Document No. 103–7.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 305 of this title.

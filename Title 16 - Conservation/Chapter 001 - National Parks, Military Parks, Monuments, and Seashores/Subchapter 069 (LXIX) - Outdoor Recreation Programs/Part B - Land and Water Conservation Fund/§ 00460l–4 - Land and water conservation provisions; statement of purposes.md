@@ -16,7 +16,3 @@ Section 1(a) of Pub. L. 88–578 provided in part that: “This Act \[enacting t
 
 Secretary of the Interior required by section 4 of Pub. L. 91–308, July 7, 1970, 84 Stat. 410 to complete a survey as to policy to be implemented with regard to entrance and user fees and to report his findings to Senate and House Committees on Interior and Insular Affairs on or before Feb. l, 1971.
 
-#### Cross References
-
-Uniform application of sections 460<i>l</i>–4 to 460<i>l</i>–11 of this title to all areas of national park system when not in conflict with specific provisions applicable to an area, see section lc of this title.
-

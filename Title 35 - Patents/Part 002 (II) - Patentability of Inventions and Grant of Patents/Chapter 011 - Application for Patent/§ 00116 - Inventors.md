@@ -18,7 +18,7 @@ The first paragraph is implied in the present statutes, and the part of the last
 
 1984—Pub. L. 98–622 amended first par. generally, striking out “and each sign the application” after “patent jointly” and inserting sentence beginning “Inventors may apply”.
 
-1982—Pub. L. 97–247 substituted “Inventors” for “Joint inventors” as section catchline, and substituted “through error a person is named in an application for patent as the inventor, or through error an inventor is not named in an application” for “a person is joined in an application for patent as joint inventor through error, or a joint inventor is not included in an application through error”.
+1982—Pub. L. 97–247 substituted “Inventors” for “Joint inventors” as section catchline, and substituted“through error a person is named in an application for patent as the inventor, or through error an inventor is not named in an application” for “a person is joined in an application for patent as joint inventor through error, or a joint inventor is not included in an application through error”.
 
 #### Effective Date of 1999 Amendment
 
@@ -31,8 +31,4 @@ Amendment by Pub. L. 98–622 applicable to all United States patents granted be
 #### Effective Date of 1982 Amendment
 
 Amendment by Pub. L. 97–247 effective six months after Aug. 27, 1982, see section 17(c) of Pub. L. 97–247, set out as an Effective Date note under section 294 of this title.
-
-#### Cross References
-
-Joint owners, see section 262 of this title.
 

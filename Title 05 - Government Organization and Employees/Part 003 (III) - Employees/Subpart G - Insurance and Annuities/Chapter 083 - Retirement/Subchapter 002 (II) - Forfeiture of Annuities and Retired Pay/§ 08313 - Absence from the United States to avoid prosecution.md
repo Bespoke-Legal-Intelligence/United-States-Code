@@ -46,7 +46,7 @@ Pub. L. 104–201, div. A, title VI, §633, Sept. 23, 1996, 110 Stat. 2550, prov
 
 “(a)
 
-Development of Procedures for Suspension.—The Secretary of Defense shall develop uniform procedures under which the Secretary of a military department may suspend the payment of the retired pay of amember or former member of the Armed Forces during periods in which the member willfully remains outside the United States to avoid criminal prosecution or civil liability. The procedures shall address the types of criminal offenses and civil proceedings for which the procedures may be used, including the offenses specified in section 8312 of title 5, United States Code, and the manner by which a member, upon the return of the member to the United States, may obtain retired pay withheld during the member's absence.
+Development of Procedures for Suspension.—The Secretary of Defense shall develop uniform procedures under which the Secretary of a military department may suspend the payment of the retired pay of a member or former member of the Armed Forces during periods in which the member willfully remains outside the United States to avoid criminal prosecution or civil liability. The procedures shall address the types of criminal offenses and civil proceedings for which the procedures may be used, including the offenses specified in section 8312 of title 5, United States Code, and the manner by which a member, upon the return of the member to the United States, may obtain retired pay withheld during the member's absence.
 
 “(b)
 

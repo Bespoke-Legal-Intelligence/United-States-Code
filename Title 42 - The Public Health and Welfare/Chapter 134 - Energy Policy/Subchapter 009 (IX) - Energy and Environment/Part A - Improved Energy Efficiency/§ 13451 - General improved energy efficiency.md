@@ -88,7 +88,7 @@ Procedure.—In carrying out such study, the Secretary shall—
 
 &emsp;“(1) estimate the potential for conserving energy and the economic and environmental benefits that may result from implementing active noise and vibration abatement technologies in demand side management; and
 
-&emsp;“(2) evaluate the cost-effectiveness of active noise and vibration cancellation technologies as comparedto other alternatives for reducing noise and vibration.
+&emsp;“(2) evaluate the cost-effectiveness of active noise and vibration cancellation technologies as compared to other alternatives for reducing noise and vibration.
 
 “(c)
 

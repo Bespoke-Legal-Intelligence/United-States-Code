@@ -4,7 +4,3 @@ Nothing in section 122 of this title shall be construed to repeal the provisions
 
 (May 20, 1932, ch. 197, §2, 47 Stat. 162.)
 
-#### Codification
-
-Section is also set out in D.C. Code, §8–112.
-

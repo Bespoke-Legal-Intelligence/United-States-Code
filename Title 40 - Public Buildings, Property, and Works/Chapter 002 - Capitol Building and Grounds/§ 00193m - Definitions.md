@@ -18,13 +18,13 @@ As used in sections 193a to 193m, 207a, 212a, 212a–2, 212a–3, and 212b of th
 
 Section 901(3) of title 15, referred to in par. (2), was repealed by Pub. L. 90–351, title IX, §906, June 19, 1968, 82 Stat. 234. For regulation of firearms, see chapter 44 (§921 et seq.) of Title 18, Crimes and Criminal Procedure.
 
+The Act of July 8, 1932, referred to in par. (3), is act July 8, 1932, ch. 465, 47 Stat. 650, as amended, which is not classified to the Code.
+
 Section 121 of title 50, referred to in par. (4), was repealed by Pub. L. 91–452, title XI, §1106(a), Oct. 15, 1970, 84 Stat. 960. For regulation of explosives, see chapter 40 (§841 et seq.) of Title 18.
 
 #### Codification
 
 Section is comprised of subsection (a) of section 16 of act of July 31, 1946. Subsection (b) of section 16 is set out as a note under section 193a of this title.
-
-Section is also set out in D.C. Code, §9–128.
 
 #### Amendments
 

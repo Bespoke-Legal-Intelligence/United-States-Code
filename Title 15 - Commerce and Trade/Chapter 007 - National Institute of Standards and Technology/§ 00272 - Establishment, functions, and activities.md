@@ -10,7 +10,7 @@ The Secretary of Commerce (hereafter in this chapter referred to as the “Secre
 
 &emsp;(1) to assist industry in the development of technology and procedures needed to improve quality, to modernize manufacturing processes, to ensure product reliability, manufacturability, functionality, and cost-effectiveness, and to facilitate the more rapid commercialization, especially by small- and medium-sized companies throughout the United States, of products based on new scientific discoveries in fields such as automation, electronics, advanced materials, biotechnology, and optical technologies;
 
-&emsp;(2) to develop, maintain, and retain custody of the national standards of measurement, and provide the means and methods for making measurements consistent with those standards;
+&emsp;(2) to develop, maintain, and retain custody of the national standards of measurement, and provide the means and methods for makingmeasurements consistent with those standards;
 
 &emsp;(3) to compare standards used in scientific investigations, engineering, manufacturing, commerce, industry, and educational institutions with the standards adopted or recognized by the Federal Government and to coordinate the use by Federal agencies of private sector standards, emphasizing where possible the use of standards developed by private, consensus organizations;
 
@@ -160,7 +160,7 @@ Consultation; participation.—In carrying out paragraph (1) of this subsection,
 
 “(3)
 
-Exception.—If compliance with paragraph (1) of this subsection is inconsistent with applicable law or otherwise impractical, a Federal agency or department may elect to use technical standards that are not developed or adopted by voluntary consensus standards bodies if the head of each such agency or department transmits to the Office of Management and Budget an explanation of the reasons for using such standards. Each year, beginning with fiscal year 1997, the Office of Management and Budget shall transmit to Congress and its committees a report summarizing all explanations received in the preceding year under this paragraph.
+Exception.—If compliance with paragraph (1) of this subsection is inconsistent with applicable law orotherwise impractical, a Federal agency or department may elect to use technical standards that are not developed or adopted by voluntary consensus standards bodies if the head of each such agency or department transmits to the Office of Management and Budget an explanation of the reasons for using such standards. Each year, beginning with fiscal year 1997, the Office of Management and Budget shall transmit to Congress and its committees a report summarizing all explanations received in the preceding year under this paragraph.
 
 “(4)
 

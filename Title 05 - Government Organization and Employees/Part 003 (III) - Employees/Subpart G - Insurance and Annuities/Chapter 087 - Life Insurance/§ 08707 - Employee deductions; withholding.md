@@ -10,7 +10,7 @@
 
 (2) An employee who is subject to withholdings under this section and whose pay, annuity, or compensation is insufficient to cover such withholdings may nevertheless continue insurance if the employee arranges to pay currently into the Employees’ Life Insurance Fund, through the agency or retirement system that administers pay, annuity, or compensation, an amount equal to the withholdings that would otherwise be required under this section.
 
-(d) If an agency fails to withhold the proper amount of life insurance deductions from an individual's salary, compensation, or retirement annuity, the collection of unpaid deductions may be waived by the agency if, in the judgment of the agency, the individual is without fault and recovery would be against equity and good conscience. However, if the agency so waives the collection of unpaid deductions, the agency shall submit an amount equal to the sum of the uncollected deductions and related agency contributions required under section 8708 of this title to the Office for deposit to the Employees’ Life Insurance Fund.
+(d) If an agency fails to withhold the proper amount of life insurance deductions from an individual's salary, compensation, or retirement annuity, the collection of unpaid deductions may be waived by the agency if, in the judgmentof the agency, the individual is without fault and recovery would be against equity and good conscience. However, if the agency so waives the collection of unpaid deductions, the agency shall submit an amount equal to the sum of the uncollected deductions and related agency contributions required under section 8708 of this title to the Office for deposit to the Employees’ Life Insurance Fund.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 595; Pub. L. 90–206, title IV, §402, Dec. 16, 1967, 81 Stat. 647; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–427, §4(a), Oct. 10, 1980, 94 Stat. 1833; Pub. L. 105–311, §6(1), Oct. 30, 1998, 112 Stat. 2951.)
 
@@ -74,5 +74,5 @@ Amendment by Pub. L. 90–206 to have no effect in case of an employee who died,
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 8706, 8708, 8714, 8714a, 8714d of this title; title 40 section 214d.
+This section is referred to in sections 8706, 8708, 8714, 8714a, 8714d of this title; title 2 section 162b; title 40 section 214d.
 

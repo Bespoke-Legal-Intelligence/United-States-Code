@@ -62,7 +62,7 @@ Defense Retail Systems Defined.—For purposes of this section, the term ‘defe
 
 “(b)
 
-Prohibition.—The operation and administration of the defense retail systems may not be consolidated or otherwise merged unless the consolidation or merger is specifically authorized by a law enacted after the date of the enactment of this Act \[Oct. 17, 1998\].
+Prohibition.—The operation and administration of the defense retail systems may not be consolidatedor otherwise merged unless the consolidation or merger is specifically authorized by a law enacted after the date of the enactment of this Act \[Oct. 17, 1998\].
 
 “(c)
 
@@ -101,8 +101,4 @@ Report.—Not later than the expiration of the one-year period beginning on the 
 “(f)
 
 Definition.—In this section, the term ‘nonappropriated fund instrumentality’ means an instrumentality of the United States under the jurisdiction of the Department of the Army or the Department of the Air Force (including the Army and Air Force Exchange Service) which is conducted for the comfort, pleasure, contentment, or physical or mental improvement of members of the Armed Forces.”
-
-#### Cross References
-
-Naval commissary stores, see section 7601 et seq. of this title.
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Policy.—It is the policy of the United States that projects selected under this chapter shall provide for the protection and enhancement of the natural resources and the quality of the environment of the United States. In carrying out this policy, the Secretary of Transportation shall consult with the Secretary of the Interior and the Administrator of the Environmental Protection Agency about a project that may have a significant effect on natural resources, including fish and wildlife, natural, scenic, and recreational assets, water and air quality, and other factors affecting the environment. If the Secretary of Transportation finds that a project will have a significant adverse effect, the Secretary may approve the application for the project only if, after a complete review that is a matter of public record, the Secretary makes a written finding that no feasible and prudent alternative to the project exists and that all reasonable steps have been taken to minimize the adverse effect.
+Policy.—It is the policy of the United States that projects selected under this chapter shall provide for the protection and enhancement of the natural resources and the quality of the environment of the United States. In carrying out this policy, the Secretary of Transportation shall consult with the Secretary of the Interior and the Administrator of the Environmental Protection Agency about a project that may have a significant effect on natural resources, including fish and wildlife, natural, scenic, and recreational assets, water and air quality, and other factors affecting the environment. If the Secretary of Transportation finds that a project will have a significant adverse effect, the Secretary may approve the application for the project only if, after a complete review that is a matter of public record, the Secretary makes a written finding that no feasible and prudent alternative to the project exists andthat all reasonable steps have been taken to minimize the adverse effect.
 
 (b)
 
@@ -56,7 +56,7 @@ In subsection (d), before clause (1), the words “in connection with any projec
 
 #### References in Text
 
-The Civil Rights Act of 1964, referred to in subsec. (d)(2), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified to subchapter V (§2000d et seq.) of chapter 21 of Title 42, The PublicHealth and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (d)(2), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified to subchapter V (§2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
 Title VIII of the Act of April 11, 1968, referred to in subsec. (d)(3), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, as amended, known as the Fair Housing Act, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of Title 42 and Tables.
 

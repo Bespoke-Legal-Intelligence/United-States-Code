@@ -8,7 +8,7 @@
 
 #### (2) Corporate powers
 
-&emsp;The Corporation shall be subject to the provisions of this section, and, to the extent notinconsistent with this section, to the District of Columbia Business Corporation Act (or the comparable law of another State, if applicable). The Corporation shall have the powers conferred upon a corporation by the District of Columbia Business Corporation Act (or such other applicable State law) as from time to time in effect in order to conduct the Corporation's affairs as a private, for-profit corporation and to carry out the Corporation's purposes and activities incidental thereto. The Corporation shall have the power to enter into contracts, to execute instruments, to incur liabilities, to provide products and services, and to do all things as are necessary or incidental to the proper management of the Corporation's affairs and the efficient operation of a private, for-profit business.
+&emsp;The Corporation shall be subject to the provisions of this section, and, to the extent not inconsistent with this section, to the District of Columbia Business Corporation Act (or the comparable law of another State, if applicable). The Corporation shall have the powers conferred upon a corporation by the District of Columbia Business Corporation Act (or such other applicable State law) as from time to time in effect in order to conduct the Corporation's affairs as a private, for-profit corporation and to carry out the Corporation's purposes and activities incidental thereto. The Corporation shall have the power to enter into contracts, to execute instruments, to incur liabilities, to provide products and services, and to do all things as are necessary or incidental to the proper management of the Corporation's affairs and the efficient operation of a private, for-profit business.
 
 #### (3) Limitation on ownership of stock
 
@@ -124,17 +124,75 @@
 
 #### (B) Amounts and proceeds relating to Connie Lee
 
-&emsp;&emsp;The amounts and proceeds described in subparagraph (C) of paragraph (1) shall be used to finance public and public charter elementary and secondary school facility construction and repair within the District of Columbia. Of such amounts and proceeds, $5,000,000 shall be set aside for use as a credit enhancement fund for public charter schools in the District of Columbia, with the administration of the fund (including the making of loans) to be carried out by the Mayor through a committee consisting of three individuals appointed by the Mayor of the District of Columbia and two individuals appointed by the Public Charter School Board established under section 2214 of the District of Columbia School Reform Act of 1995.
+&emsp;&emsp;The amounts and proceeds described in subparagraph (C) of paragraph (1) shall be used to finance public and public charter elementary and secondary school facility construction and repair within the District of Columbia. Of such amounts and proceeds, $5,000,000 shall be set aside for a credit enhancement fund for public charter schools in the District of Columbia, to be administered and disbursed in accordance with paragraph (3).
 
-(Pub. L. 104–208, div. A, title I, §101(e) \[title VI, §603\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–290; Pub. L. 106–113, div. A, title I, §153, Nov. 29, 1999, 113 Stat. 1526.)
+#### (3) Credit enhancement fund for public charter schools
+
+#### (A) Distribution of amounts
+
+&emsp;&emsp;Of the amounts in the credit enhancement fund established under paragraph (2)(B)—
+
+&emsp;&emsp;&emsp;(i) 50 percent shall be used to make grants under subparagraph (B); and
+
+&emsp;&emsp;&emsp;(ii) 50 percent shall be used to make grants under subparagraph (C).
+
+#### (B) Grants to eligible nonprofit corporations
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Using the amounts described in subparagraph (A)(i), not later than 1 year after November 22, 2000, the Mayor of the District of Columbia shall make and disburse grants to eligible nonprofit corporations to carry out the purposes described in subparagraph (E).
+
+#### (ii) Administration
+
+&emsp;&emsp;&emsp;The Mayor shall administer the program of grants under this subparagraph, except that if the committee described in subparagraph (C)(iii) is in operation and is fully functional prior to the date the Mayor makes the grants, the Mayor may delegate the administration of the program to the committee.
+
+#### (C) Other grants
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Using the amounts described in subparagraph (A)(ii), the Mayor of the District of Columbia shall make grants to entities to carry out the purposes described in subparagraph (E).
+
+#### (ii) Participation of schools
+
+&emsp;&emsp;&emsp;A public charter school in the District of Columbia may receive a grant under this subparagraph to carry out the purposes described in subparagraph (E) in the same manner as other entities receiving grants to carry out such activities.
+
+#### (iii) Administration through committee
+
+&emsp;&emsp;&emsp;The Mayor shall carry out this subparagraph through the committee appointed by the Mayor under the second sentence of paragraph (2)(B) (as in effect prior to November 22, 2000). The committee may enter into an agreement with a third party to carry out its responsibilities under this subparagraph.
+
+#### (iv) Cap on administrative costs
+
+&emsp;&emsp;&emsp;Not more than 10 percent of the funds available for grants under this subparagraph may be used to cover the administrative costs of making grants under this subparagraph.
+
+#### (D) Special rule regarding eligibility of nonprofit corporations
+
+&emsp;&emsp;In order to be eligible to receive a grant under this paragraph, a nonprofit corporation must provide appropriate certification to the Mayor or to the committee described in subparagraph (C)(iii) (as the case may be) that it is duly authorized by two or more public charter schools in the District of Columbia to act on their behalf in obtaining financing (or in assisting them in obtaining financing) to cover the costs of activities described in subparagraph (E)(i).
+
+#### (E) Purposes of grants
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The recipient of a grant under this paragraph shall use the funds provided under the grant to carry out activities to assist public charter schools in the District of Columbia in—
+
+&emsp;&emsp;&emsp;&emsp;(I) obtaining financing to acquire interests in real property (including by purchase, lease, or donation), including financing to cover planning, development, and other incidental costs;
+
+&emsp;&emsp;&emsp;&emsp;(II) obtaining financing for construction of facilities or the renovation, repair, or alteration of existing property or facilities (including the purchase or replacement of fixtures and equipment), including financing to cover planning, development, and other incidental costs; and
+
+&emsp;&emsp;&emsp;&emsp;(III) enhancing the availability of loans (including mortgages) and bonds.
+
+#### (ii) No direct funding for schools
+
+&emsp;&emsp;&emsp;Funds provided under a grant under this subparagraph may not be used by a recipient to make direct loans or grants to public charter schools.
+
+(Pub. L. 104–208, div. A, title I, §101(e) \[title VI, §603\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–290; Pub. L. 106–113, div. A, title I, §153, Nov. 29, 1999, 113 Stat. 1526; Pub. L. 106–522, §161, Nov. 22, 2000, 114 Stat. 2483; Pub. L. 106–553, §1(a)(1) \[§161\], Dec. 21, 2000, 114 Stat. 2762, 2762A–45; Pub. L. 106–554, §1(a)(4) \[div. A, §406(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–189.)
 
 #### References in Text
 
-The District of Columbia Business Corporation Act, referred to in subsec. (a)(2), is act June 8, 1954, ch. 269, 68 Stat. 179, as amended, which appears in chapter 3 (§29–301 et seq.) of Title 29, Corporations, of the District of Columbia Code.
+The District of Columbia Business Corporation Act, referred to in subsec. (a)(2), is act June 8, 1954, ch. 269, 68 Stat. 179, as amended, which is not classified to the Code.
 
 Sections 1132f–3 and 1132f–9 of this title, referred to in subsecs. (a)(3)(A) and (b)(5), were repealed by subsec. (d) of this section.
 
-The District of Columbia School Reform Act of 1995, referred to in subsec. (e)(2), is Pub. L. 104–134, title I,§101(b) \[title II\], Apr. 26, 1996, 110 Stat. 1321–77, 1321–107, as amended, which appears in subchapter II (§31–2851 et seq.) of chapter 28 of Title 31, Education and Cultural Institutions, of the District of Columbia Code.
+The District of Columbia School Reform Act of 1995, referred to in subsec. (e)(2)(A), is Pub. L. 104–134, title I, §101(b) \[title II\], Apr. 26, 1996, 110 Stat. 1321–77, 1321–107, as amended, which amended sections 6322, 6364, and 6365 of this title and enacted provisions set out as a note under section 6322 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 
@@ -146,7 +204,23 @@ Section is comprised of section 101(e) \[title VI, §603\] of div. A of Pub. L. 
 
 #### Amendments
 
+2000—Subsec. (e)(2)(B). Pub. L. 106–553, §1(a)(1) \[§161(1)\], which directed amendment identical to amendment by Pub. L. 106–522, §161(1), below, was repealed by Pub. L. 106–554, §1(a)(4) \[div. A, §406(a)\]. See Effective Date and Construction of 2000 Amendment note below.
+
+Pub. L. 106–522, §161(1), amended second sentence generally. Prior to amendment, second sentence read as follows: “Of such amounts and proceeds, $5,000,000 shall be set aside for use as a credit enhancement fund for public charter schools in the District of Columbia, with the administration of the fund (including the making of loans) to be carried out by the Mayor through a committee consisting of three individuals appointed by the Mayor of the District of Columbia and two individuals appointed by the Public Charter School Board established under section 2214 of the District of Columbia School Reform Act of 1995.”
+
+Subsec. (e)(3). Pub. L. 106–553, §1(a)(1) \[§161(2)\], which directed amendment identical to amendment by Pub. L. 106–522, §161(2), below, was repealed by Pub. L. 106–554, §1(a)(4) \[div. A, §406(a)\]. See Effective Date and Construction of 2000 Amendment note below.
+
+Pub. L. 106–522, §161(2), added par. (3).
+
 1999—Subsec. (e)(2)(B). Pub. L. 106–113 inserted “and public charter” after “public” and inserted at end “Of such amounts and proceeds, $5,000,000 shall be set aside for use as a credit enhancement fund for public charter schools in the District of Columbia, with the administration of the fund (including the making of loans) to be carried out by the Mayor through a committee consisting of three individuals appointed by the Mayor of the District of Columbia and two individuals appointed by the Public Charter School Board established under section 2214 of the District of Columbia School Reform Act of 1995.”
+
+#### Effective Date and Construction of 2000 Amendment
+
+Pub. L. 106–554, §1(a)(4) \[div. A, §406\], Dec. 21, 2000, 114 Stat. 2763, 2763A–189, provided that:
+
+“(a) The provisions of H.R. 5547 (as enacted into law by H.R. 4942 of the 106th Congress) \[H.R. 5547 as enacted by section 1(a)(1) of Pub. L. 106–553, amending this section and enacting provisions set out as a note under section 6301 of Title 31, Money and Finance\] are repealed and shall be deemed for all purposes (including section 1(b) of H.R. 4942 \[Pub. L. 106–553, 1 U.S.C. 112 note\]) to have never been enacted.
+
+“(b) The repeal made by this section shall take effect as if included in H.R. 4942 of the 106th Congress \[Pub. L. 106–553\] on the date of its enactment \[Dec. 21, 2000\].”
 
 #### Section Referred to in Other Sections
 

@@ -18,7 +18,7 @@
 
 (c) A disbursing official is not liable for an overpayment provided under a United States Government bill of lading or transportation request when the overpayment is caused by the—
 
-&emsp;(1) use of improper transportation rates or classifications; or
+&emsp;(1) use of improper transportation rates or classifications if the Administrator of General Services has determined that verification by a prepayment audit conducted pursuant to section 3726(a) of this title for a particular mode or modes of transportation, or for an agency or subagency, will not adequately protect the interests of the Government; or
 
 &emsp;(2) failure to deduct the proper amount under—
 
@@ -27,10 +27,6 @@
 &emsp;&emsp;(B) an equalization or other agreement.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 950; Pub. L. 98–216, §1(3), Feb. 14, 1984, 98 Stat. 3; Pub. L. 104–134, title III, §31001(g)(1)(A), Apr. 26, 1996, 110 Stat. 1321–363; Pub. L. 105–264, §3(a)(1), Oct. 19, 1998, 112 Stat. 2352.)
-
-#### Amendment of Subsection (c)(1)
-
-<i>Pub. L. 105–264, §3(a)(1), (b), Oct. 19, 1998, 112 Stat. 2352, 2354, provided that, effective 18 months after Oct. 19, 1998, subsection (c)(1) of this section is amended by inserting “if the Administrator of General Services has determined that verification by a prepayment audit conducted pursuant to section 3726(a) of this title for a particular mode or modes of transportation, or for an agency or subagency, will not adequately protect the interests of the Government” after “classifications”.</i>
 
 Historical and Revision Notes<br>1982
 
@@ -56,9 +52,9 @@ June 1, 1942, ch. 320(related to disbursing officers), 56 Stat. 306.
 
 In the section, the words “disbursing official” are substituted for “disbursing officer” for consistency in the revised title.
 
-In subsection (a), before clause (1), the words “Secretary of the Treasury” are substituted for “Treasurer of the United States” because of the source provisionsrestated in section 321(c) of the revised title. The words “or an assistant treasurer of the United States” in section 3620(a) of the Revised Statutes are omitted as obsolete because of the 1st–4th pars. under the heading “Independent Treasury” in the Act of May 29, 1920 (ch. 214, 41 Stat. 654). In clause (1), the words “as required by section 3302 of this title” are substituted for “with the Treasurer or some one of the assistant treasurers of the United States (subsequently changed to ‘or with one of the depositaries of the United States mentioned in section 476 of this title’)” because of 31:476. In clause (2), the words “in pursuance of law” are omitted as surplus. The text of 31:492(a)(last sentence) is omitted because of section 3323(a) of the revised title.
+In subsection (a), before clause (1), the words “Secretary of the Treasury” are substituted for “Treasurer of the United States” because of the source provisions restated in section 321(c) of the revised title. The words “or an assistant treasurer of the United States” in section 3620(a) of the Revised Statutes are omitted as obsolete because of the 1st–4th pars. under the heading “Independent Treasury” in the Act of May 29, 1920 (ch. 214, 41 Stat. 654). In clause (1), the words “as required by section 3302 of this title” are substituted for “with the Treasurer or some one of the assistant treasurers of the United States (subsequently changed to ‘or with one of the depositaries of the United States mentioned in section 476 of this title’)” because of 31:476. In clause (2), the words “in pursuance of law” are omitted as surplus. The text of 31:492(a)(last sentence) is omitted because of section 3323(a) of the revised title.
 
-In subsection (b), before clause (1), the words “On and after June 1, 1942” are omitted as executed. The words “of the United States” are omitted as unnecessary. The words “for transportation” are omitted as surplus.
+In subsection (b), before clause (1), the words “On and after June 1, 1942” are omitted as executed. The words“of the United States” are omitted as unnecessary. The words “for transportation” are omitted as surplus.
 
 #### 1984 Act
 
@@ -69,6 +65,8 @@ In subsection (a), before clause (1), the words “Except as provided in subsect
 In subsection (b), before clause (1), the word “however” is omitted as surplus. The words “treasurer or” are omitted as obsolete because of the 1st–4th pars. under the heading “Independent Treasury” in the Act of May 29, 1920 (ch. 214, 41 Stat. 654). In clause (2), the words “rules and” are omitted as surplus.
 
 #### Amendments
+
+1998—Subsec. (c)(1). Pub. L. 105–264 inserted “if the Administrator of General Services has determined that verification by a prepayment audit conducted pursuant to section 3726(a) of this title for a particular mode or modes of transportation, or for an agency or subagency, will not adequately protect the interests of the Government” after “classifications”.
 
 1996—Subsec. (a). Pub. L. 104–134 inserted “section 3716 and section 3720A of this title and” after “Except as provided in” in introductory provisions.
 

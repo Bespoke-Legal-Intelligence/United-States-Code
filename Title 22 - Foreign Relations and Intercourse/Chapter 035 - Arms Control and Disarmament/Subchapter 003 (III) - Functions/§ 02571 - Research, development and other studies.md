@@ -58,7 +58,7 @@ such related problems as the Secretary of State may determine to be in need of r
 
 #### Amendments
 
-1998—Pub. L. 105–277, §1223(6)(A)–(E), in introductory provisions, inserted “this subchapter in” after “powers in”, substituted “Secretary of State” for “Director” wherever appearing and “ensure” for “insure” in two places, struck out “in accordance with procedures established under section 2575 of this title” after “other Government agencies”, and substituted “The authorityof the Secretary under this chapter with respect to research, development, and other studies concerning arms control, nonproliferation, and disarmament shall be limited to participation in the following:” for “The authority of the Director with respect to research, development, and other studies shall be limited to participation in the following insofar as they relate to arms control, nonproliferation, and disarmament:”.
+1998—Pub. L. 105–277, §1223(6)(A)–(E), in introductory provisions, inserted “this subchapter in” after “powers in”, substituted “Secretary of State” for “Director” wherever appearing and “ensure” for “insure” in two places, struck out “in accordance with procedures established under section 2575 of this title” after “other Government agencies”, and substituted “The authority of the Secretary under this chapter with respect to research, development, and other studies concerning arms control, nonproliferation, and disarmament shall be limited to participation in the following:” for “The authority of the Director with respect to research, development, and other studies shall be limited to participation in the following insofar as they relate to arms control, nonproliferation, and disarmament:”.
 
 Subsec. (<i>l</i>). Pub. L. 105–277, §1223(6)(F), inserted “and” at end.
 
@@ -78,11 +78,7 @@ Amendment by Pub. L. 105–277 effective Apr. 1, 1999, see section 1201 of Pub. 
 
 #### Report on International Transfer of Conventional Arms
 
-Pub. L. 92–352, title III, §302, July 13, 1972, 86 Stat. 495, directed Arms Control and Disarmament Agency, with cooperation of other agencies, to prepare a comprehensive report on international transfer of conventional arms and submit this report no later than one year after July 13, 1972, with an interim report submitted no later than six months after July 13, 1972.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2579 of this title.
+Pub. L. 92–352, title III, §302, July 13, 1972, 86 Stat. 495, directed Arms Control and Disarmament Agency, withcooperation of other agencies, to prepare a comprehensive report on international transfer of conventional arms and submit this report no later than one year after July 13, 1972, with an interim report submitted no later than six months after July 13, 1972.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

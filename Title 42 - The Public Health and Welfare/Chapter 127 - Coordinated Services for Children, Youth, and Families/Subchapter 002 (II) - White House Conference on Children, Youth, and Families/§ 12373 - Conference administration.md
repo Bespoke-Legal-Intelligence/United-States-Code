@@ -28,7 +28,7 @@ The Secretary shall, in carrying out the Secretary's responsibilities and functi
 
 &emsp;(5) the recommendations of the Conference are not inappropriately influenced by any appointing authority or by any special interest, but will instead be the result of the independent judgment of the Conference; and
 
-&emsp;(6) to the extent practicable, current and adequate statistical data (including decennial census data) and other information on the well-being of young individuals in the United States are readily available, in advance of the Conference, to the delegates of the Conference, together with such information as may be necessary to evaluate Federal programs and policies relating to children and youth. In carrying out this subparagraph, the Secretary may make grants to, and enter into contracts with, public agencies and nonprofit private organizations.
+&emsp;(6) to the extent practicable, current and adequate statistical data (including decennialcensus data) and other information on the well-being of young individuals in the United States are readily available, in advance of the Conference, to the delegates of the Conference, together with such information as may be necessary to evaluate Federal programs and policies relating to children and youth. In carrying out this subparagraph, the Secretary may make grants to, and enter into contracts with, public agencies and nonprofit private organizations.
 
 (Pub. L. 101–501, title IX, §984, Nov. 3, 1990, 104 Stat. 1281.)
 

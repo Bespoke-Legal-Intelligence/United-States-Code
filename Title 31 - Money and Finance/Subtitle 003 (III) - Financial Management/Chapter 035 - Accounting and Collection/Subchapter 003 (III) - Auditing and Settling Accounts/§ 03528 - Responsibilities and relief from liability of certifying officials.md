@@ -6,7 +6,7 @@
 
 &emsp;(2) the computation of a certified voucher under this section and section 3325 of this title;
 
-&emsp;(3) the legality of a proposed payment under the appropriation or fund involved; and
+&emsp;(3) the legality of a proposed payment under the appropriation or fund involved;
 
 &emsp;(4) repaying a payment—
 
@@ -14,7 +14,9 @@
 
 &emsp;&emsp;(B) prohibited by law; or
 
-&emsp;&emsp;(C) that does not represent a legal obligation under the appropriation or fund involved.
+&emsp;&emsp;(C) that does not represent a legal obligation under the appropriation or fund involved; and
+
+&emsp;(5) verifying transportation rates, freight classifications, and other information provided on a Government bill of lading or transportation request, unless the Administrator of General Services has determined that verification by a prepayment audit conducted pursuant to section 3726(a) of this title for a particular mode or modes of transportation, or for an agency or subagency, will not adequately protect the interests of the Government.
 
 (b)(1) The Comptroller General may relieve a certifying official from liability when the Comptroller General decides that—
 
@@ -30,23 +32,11 @@
 
 (c) The Comptroller General shall relieve a certifying official from liability for an overpayment—
 
-&emsp;(1) to a common carrier under section 3726 of this title when the Comptroller General decides the overpayment occurred only because the administrative audit before payment did not verify transportation rates, freight classifications, or land-grant deductions; or
+&emsp;(1) to a common carrier under section 3726 of this title when the Comptroller General decides the overpayment occurred only because the administrative audit before payment did not verify transportation rates, freight classifications, or land-grant deductions and the Administrator of General Services has determined that verification by a prepayment audit conducted pursuant to section 3726(a) of this title for a particular mode or modes of transportation, or for an agency or subagency, will not adequately protect the interests of the Government; or
 
-&emsp;(2) provided under a Government bill of lading or transportation request when the overpayment was the result of using improper transportation rates or classifications or the failure to deduct the proper amount under a land-grant law or agreement.
+&emsp;(2) provided under a Government bill of lading or transportation request when the overpayment was the result of using improper transportation rates or classifications or the failure to deduct the proper amount under a land-grant law or agreement and the Administrator of General Services has determined that verification by a prepayment audit conducted pursuant to section 3726(a) of this title for a particular mode or modes of transportation, or for an agency or subagency, will not adequately protect the interests of the Government.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 966; Pub. L. 98–216, §1(4), Feb. 14, 1984, 98 Stat. 4; Pub. L. 104–106, div. A, title IX, §913(c)(5), Feb. 10, 1996, 110 Stat. 412; Pub. L. 105–264, §3(a)(2), Oct. 19, 1998, 112 Stat. 2352.)
-
-#### Amendment of Subsections (a) and (c)
-
-<i>Pub. L. 105–264, §3(a)(2), (b), Oct. 19, 1998, 112 Stat. 2352, 2354, provided that, effective 18 months after Oct. 19, 1998, this section is amended as follows:</i>
-
-<i>(1) in subsection (a), by striking “and” at end of paragraph (3), by substituting “; and” for period at end of paragraph (4)(C), and by adding at the end paragraph (5) to read as follows:</i>
-
-(5) verifying transportation rates, freight classifications, and other information provided on a Government bill of lading or transportation request, unless the Administrator of General Services has determined that verification by a prepayment audit conducted pursuant to section 3726(a) of this title for a particular mode or modes of transportation, or for an agency or subagency, will not adequately protect the interests of the Government.
-
-<i>(2) in subsection (c)(1), by inserting “and the Administrator of General Services has determined that verification by a prepayment audit conducted pursuant to section 3726(a) of this title for a particular mode or modes of transportation, or for an agency or subagency, will not adequately protect the interests of the Government” after “deductions”.</i>
-
-<i>(3) in subsection (c)(2), by inserting “and the Administrator of General Services has determined that verification by a prepayment audit conducted pursuant to section 3726(a) of this title for a particular mode or modes of transportation, or for an agency or subagency, will not adequately protect the interests of the Government” after “agreement”.</i>
 
 Historical and Revision Notes<br>1982
 
@@ -105,6 +95,12 @@ In subsection (d), the words “under the jurisdiction” are omitted as surplus
 This clarifies section 3528(b) by restoring the authority of the Comptroller General to deny relief to certifying officials in the same way relief may be denied to disbursing officials.
 
 #### Amendments
+
+1998—Subsec. (a)(5). Pub. L. 105–264, §3(a)(2)(A), added par. (5).
+
+Subsec. (c)(1). Pub. L. 105–264, §3(a)(2)(B), inserted “and the Administrator of General Services has determined that verification by a prepayment audit conducted pursuant to section 3726(a) of this title for a particular mode or modes of transportation, or for an agency or subagency, will not adequately protect the interests of the Government” after “deductions”.
+
+Subsec. (c)(2). Pub. L. 105–264, §3(a)(2)(C), inserted “and the Administrator of General Services has determined that verification by a prepayment audit conducted pursuant to section 3726(a) of this title for a particular mode or modes of transportation, or for an agency or subagency, will not adequately protect the interests of the Government” after “agreement”.
 
 1996—Subsec. (d). Pub. L. 104–106 struck out subsec. (d) which read as follows: “This section does not apply to disbursements of a military department of the Department of Defense, except disbursements for departmental pay and expenses in the District of Columbia.”
 

@@ -20,10 +20,6 @@ Words “subject to the jurisdiction of” which appeared twice in this section 
 
 Amendment by Pub. L. 104–208 applicable with respect to offenses occurring on or after Sept. 30, 1996, see section 218(d) of Pub. L. 104–208, set out as a note under section 1581 of this title.
 
-#### Cross References
-
-Slavery abolished, see Const. Amend. 13.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1961 of this title; title 8 section 1101.

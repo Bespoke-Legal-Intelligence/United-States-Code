@@ -96,10 +96,6 @@ Section 401 of title IV of Pub. L. 100–17 provided that: “This title \[enact
 
 Section 1 of Pub. L. 91–646 provided: “That this Act \[enacting this chapter, amending sections 1415, 2473, and 3307 of this title and section 1606 of former Title 49, Transportation, repealing sections 1465 and 3071 to 3074 of this title, section 2680 of Title 10, Armed Forces, sections 141 and 501 to 512 of Title 23, Highways, section 596 of Title 33, Navigation and Navigable Waters, sections 1231 to 1234 of Title 43, Public Lands, and enacting provisions set out as notes under this section and sections 4621 and 4651 of this title, and repealing provisions set out as notes under sections 501 and 510 of Title 23\] may be cited as the ‘Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970’.”
 
-#### Transfer of Functions
-
-For transfer of powers, duties, and functions of District of Columbia Land Redevelopment Agency, as set forth in section 5–801 et seq. of the District of Columbia Code, to Director of Department of Housing and Community Development, with certain exceptions, see part 4 of Reorg. Plan No. 3 of 1975, eff. July 3, 1975, 21 DCR 2793, set out in the first volume of the District of Columbia Code.
-
 #### Termination of Trust Territory of the Pacific Islands
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.

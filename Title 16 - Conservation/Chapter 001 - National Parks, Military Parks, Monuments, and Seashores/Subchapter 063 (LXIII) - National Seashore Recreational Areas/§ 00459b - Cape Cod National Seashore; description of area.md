@@ -32,7 +32,7 @@
 
 &emsp;thence in a generally southwesterly direction paralleling the general alinement of North Pamet Road and generally distant 300 feet northerly therefrom to a point approximately two-tenths of a mile east of the easterly right-of-way line of United States Route 6;
 
-&emsp;thence in a southerly direction paralleling the alinement of United States Route 6 and generally distant two-tenths of a mile easterly therefrom to a point three-tenths of a mile south of South Pamet Road;
+&emsp;thence in a southerly direction paralleling the alinement of United States Route 6 andgenerally distant two-tenths of a mile easterly therefrom to a point three-tenths of a mile south of South Pamet Road;
 
 &emsp;thence west to the intersection of Old County Road and Mill Pond Road;
 

@@ -10,9 +10,3 @@ Section was not enacted as part of the Foreign Service Act of 1980 which compris
 
 Section was formerly classified to section 1179 of this title, and prior thereto to section 79 of this title.
 
-#### Cross References
-
-Embezzlement and theft, see section 641 et seq. of Title 18, Crimes and Criminal Procedure.
-
-Embezzlement of fees or of effects of American citizens, see section 4217 of this title.
-

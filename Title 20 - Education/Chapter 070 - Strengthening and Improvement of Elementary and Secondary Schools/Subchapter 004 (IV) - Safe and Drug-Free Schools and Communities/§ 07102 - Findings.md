@@ -4,7 +4,7 @@ The Congress finds as follows:
 
 &emsp;(1) The seventh National Education Goal provides that by the year 2000, all schools in America will be free of drugs and violence and the unauthorized presence of firearms and alcohol, and offer a disciplined environment that is conducive to learning.
 
-&emsp;(2) The widespread illegal use of alcohol and other drugs among the Nation's secondary school students, and increasingly by students in elementary schools as well, constitutes a grave threat to such students’ physical andmental well-being, and significantly impedes the learning process. For example, data show that students who drink tend to receive lower grades and are more likely to miss school because of illness than students who do not drink.
+&emsp;(2) The widespread illegal use of alcohol and other drugs among the Nation's secondary school students, and increasingly by students in elementary schools as well, constitutes a grave threat to such students’ physical and mental well-being, and significantly impedes the learning process. For example, data show that students who drink tend to receive lower grades and are more likely to miss school because of illness than students who do not drink.
 
 &emsp;(3) Our Nation's schools and communities are increasingly plagued by violence and crime. Approximately 3,000,000 thefts and violent crimes occur in or near our Nation's schools every year, the equivalent of more than 16,000 incidents per school day.
 

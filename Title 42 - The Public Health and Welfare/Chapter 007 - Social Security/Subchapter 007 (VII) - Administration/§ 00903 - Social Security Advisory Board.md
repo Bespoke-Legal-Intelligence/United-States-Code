@@ -60,7 +60,7 @@ Each member of the Board shall serve for a term of 6 years, except that—
 
 &emsp;&emsp;&emsp;(ii) 6 years.
 
-&emsp;&emsp;(C) The terms of service of members initially appointed by the Speaker of the Houseof Representatives shall expire as designated by the Speaker of the House of Representatives at the time of nomination, 1 each at the end of—
+&emsp;&emsp;(C) The terms of service of members initially appointed by the Speaker of the House of Representatives shall expire as designated by the Speaker of the House of Representatives at the time of nomination, 1 each at the end of—
 
 &emsp;&emsp;&emsp;(i) 4 years; and
 
@@ -140,7 +140,7 @@ In general.—The amendments made by subsections (a) and (b) of section 5525 of 
 
 &emsp;“(2)
 
-Repeals.—The repeals made by section 5525(c) \[repealing provisions set out as notes under sections 425 and 1382 of this title\] shall take effect on the date of the enactment of this Act \[Aug. 5, 1997\].
+Repeals.—The repeals made by section 5525(c) \[repealing provisions set out as notes under sections425 and 1382 of this title\] shall take effect on the date of the enactment of this Act \[Aug. 5, 1997\].
 
 “(d)
 
@@ -154,5 +154,5 @@ Section 5227.—Section 5227 \[probably means section 5527 of this Act which is 
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting anyright, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
+Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
 

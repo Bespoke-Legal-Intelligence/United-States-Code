@@ -26,11 +26,21 @@ The Corporation shall be entitled to the use of the United States mails in the s
 
 #### (g) Assistance
 
-The Corporation, with the consent of any board, commission, independent establishment, or executive department of the Government, including any field service thereof, may avail itself of the use of information, services, facilities, officials, and employees thereof in carrying out the provisions of this chapter.
+The Corporation, with the consent of any board, commission, independent establishment,or executive department of the Government, including any field service thereof, may avail itself of the use of information, services, facilities, officials, and employees thereof in carrying out the provisions of this chapter.
 
-#### (h) Data collection
+#### (h) Collection and sharing of information
 
-The Corporation shall assemble data for the purpose of establishing sound actuarial bases for insurance on agricultural commodities.
+#### (1) Surveys and investigations
+
+&emsp;The Corporation may conduct surveys and investigations relating to crop insurance, agriculture-related risks and losses, and other issues related to carrying out this chapter.
+
+#### (2) Data collection
+
+&emsp;The Corporation shall assemble data for the purpose of establishing sound actuarial bases for insurance on agricultural commodities.
+
+#### (3) Sharing of records
+
+&emsp;Notwithstanding section 1502(c) of this title, records submitted in accordance with this chapter and section 7333 of this title shall be available to agencies and local offices of the Department, appropriate State and Federal agencies and divisions, and approved insurance providers for use in carrying out this chapter, such section 7333 of this title, and other agricultural programs.
 
 #### (i) Expenditures
 
@@ -88,9 +98,9 @@ The Corporation may enter into and carry out contracts or agreements, and issue 
 
 &emsp;&emsp;(A) instituting appropriate requirements for documentation of the actual production history of insured producers to establish recorded or appraised yields for Federal crop insurance coverage that more accurately reflect the associated actuarial risk, except that the Corporation may not carry out this paragraph in a manner that would prevent beginning farmers (as defined by the Secretary) from obtaining Federal crop insurance;
 
-&emsp;&emsp;(B) establishing in counties, to the extent practicable, a crop insurance option based on area yields in a manner that allows an insured producer to qualify for an indemnity if a loss has occurred in a specified area in which the farm of the insured producer is located;
+&emsp;&emsp;(B) establishing in counties, to the extent practicable, a crop insurance option based on area yields in a manner that allows an insured producer to qualify for an indemnity ifa loss has occurred in a specified area in which the farm of the insured producer is located;
 
-&emsp;&emsp;(C) establishing a database that contains the social security account and employee identification numbers of participating producers, agents, and loss adjusters and using the numbers to identify insured producers,agents, and loss adjusters who are high risk for actuarial purposes and insured producers who have not documented at least 4 years of production history, to assess the performance of insurance providers, and for other purposes permitted by law; and
+&emsp;&emsp;(C) establishing a database that contains the social security account and employee identification numbers of participating producers, agents, and loss adjusters and using the numbers to identify insured producers, agents, and loss adjusters who are high risk for actuarial purposes and insured producers who have not documented at least 4 years of production history, to assess the performance of insurance providers, and for other purposes permitted by law; and
 
 &emsp;&emsp;(D) taking any other measures authorized by law to improve the actuarial soundness of the Federal crop insurance program while maintaining fairness and effective coverage for agricultural producers.
 
@@ -106,17 +116,7 @@ The Corporation may enter into and carry out contracts or agreements, and issue 
 
 The Secretary and the Corporation are each authorized to issue such regulations as are necessary to carry out this chapter.
 
-#### (q) Program compliance
-
-#### (1) Timeliness
-
-&emsp;The Corporation shall work actively with approved insurance providers to address program compliance and integrity issues as the issues develop.
-
-#### (2) Notification of compliance problems
-
-&emsp;The Corporation shall notify in writing any approved insurance provider with whom the Corporation has an agreement under this chapter of any error, omission, or failure to follow Corporation regulations or procedures for which the approved insurance provider may be responsible and which may result in a debt owed the Corporation. The notice shall be given within 3 years of the end of the insurance period during which the error, omission, or failure is alleged to have occurred, except that this time limit shall not apply with respect to errors, omissions, or procedural violations that are willful or intentional. The failure to timely provide the notice required under this subsection shall relieve the approved insurance provider from the debt owed the Corporation.
-
-#### (r) Purchase of American-made equipment and products
+#### (q) Purchase of American-made equipment and products
 
 #### (1) Sense of Congress
 
@@ -126,7 +126,7 @@ The Secretary and the Corporation are each authorized to issue such regulations 
 
 &emsp;In providing financial assistance to, or entering into any contract with, any entity for the purchase of equipment and products to carry out this chapter, the Corporation, to the greatest extent practicable, shall provide to the entity a notice describing the statement made in paragraph (1).
 
-#### (s) Procedures for responding to certain inquiries
+#### (r) Procedures for responding to certain inquiries
 
 #### (1) Procedures required
 
@@ -144,13 +144,17 @@ The Secretary and the Corporation are each authorized to issue such regulations 
 
 &emsp;If the Corporation fails to respond to an inquiry in accordance with the procedures established pursuant to this subsection, the person requesting the interpretation of this chapter or regulation may assume the interpretation is correct for the applicable reinsurance year.
 
-(Feb. 16, 1938, ch. 30, title V, §506, 52 Stat. 73; June 21, 1941, ch. 214, §2, 55 Stat. 255; Aug. 1, 1947, ch. 440, §7, 61 Stat. 719; Aug. 25, 1949, ch. 512, §8, 63 Stat. 665; Pub. L. 96–365, title I, §§103, 107(a), Sept. 26, 1980, 94 Stat. 1313, 1317; Pub. L. 101–624, title XXII, §§2201(a), 2202, Nov. 28, 1990, 104 Stat. 3951, 3954; Pub. L. 102–237, title VI, §601(1), (2), Dec. 13, 1991, 105 Stat. 1878; Pub. L. 103–66, title XIV, §1403(a), Aug. 10, 1993, 107 Stat. 333; Pub. L. 103–354, title I, §§104, 119(f)(1), Oct. 13, 1994, 108 Stat. 3181, 3208; Pub. L. 105–185, title V, §533, June 23, 1998, 112 Stat. 583.)
+(Feb. 16, 1938, ch. 30, title V, §506, 52 Stat. 73; June 21, 1941, ch. 214, §2, 55 Stat. 255; Aug. 1, 1947, ch. 440, §7, 61 Stat. 719; Aug. 25, 1949, ch. 512, §8, 63 Stat. 665; Pub. L. 96–365, title I, §§103, 107(a), Sept. 26, 1980, 94 Stat. 1313, 1317; Pub. L. 101–624, title XXII, §§2201(a), 2202, Nov. 28, 1990, 104 Stat. 3951, 3954; Pub. L. 102–237, title VI, §601(1), (2), Dec. 13, 1991, 105 Stat. 1878; Pub. L. 103–66, title XIV, §1403(a), Aug. 10, 1993, 107 Stat. 333; Pub. L. 103–354, title I, §§104, 119(f)(1), Oct. 13, 1994, 108 Stat. 3181, 3208; Pub. L. 105–185, title V, §533, June 23, 1998, 112 Stat. 583; Pub. L. 106–224, title I, §§121(b), 124(b), June 20, 2000, 114 Stat. 377, 378.)
 
 #### References in Text
 
 Section 405(c)(2)(C)(iii) of title 42, referred to in subsec. (m)(1), was redesignated section 405(c)(2)(C)(iv) of title 42 by Pub. L. 103–296, title III, §321(a)(9)(B), Aug. 15, 1994, 108 Stat. 1536.
 
 #### Amendments
+
+2000—Subsec. (h). Pub. L. 106–224, §124(b), added subsec. (h) and struck out heading and text of former subsec. (h). Text read as follows: “The Corporation shall assemble data for the purpose of establishing sound actuarial bases for insurance on agricultural commodities.”
+
+Subsecs. (q) to (s). Pub. L. 106–224, §121(b), redesignated subsecs. (r) and (s) as (q) and (r), respectively, and struck out former subsec. (q), which related to program compliance by insurance providers and required notice to any provider of any error, omission, or failure to follow Corporation regulations or procedures for which provider may be responsible and which may result in a debt owed the Corporation.
 
 1998—Subsec. (s). Pub. L. 105–185 added subsec. (s).
 
@@ -166,7 +170,7 @@ Subsec. (m). Pub. L. 103–354, §104(1), redesignated subsec. (<i>l</i>) as (m)
 
 Subsec. (n). Pub. L. 103–354, §104(1), redesignated subsec. (m) as (n). Former subsec. (n) redesignated (<i>o</i>).
 
-Subsec. (n)(1)(B). Pub. L. 103–354, §104(4), added subpar. (B) and struck out former subpar. (B) which read as follows: “disqualify the person from receiving anybenefit under this chapter for a period of not to exceed 10 years.”
+Subsec. (n)(1)(B). Pub. L. 103–354, §104(4), added subpar. (B) and struck out former subpar. (B) which read as follows: “disqualify the person from receiving any benefit under this chapter for a period of not to exceed 10 years.”
 
 Subsec. (<i>o</i>). Pub. L. 103–354, §104(1), (5)(B), redesignated subsec. (n) as (<i>o</i>) and reenacted heading without change.
 
@@ -261,6 +265,8 @@ Administration of program of Federal Crop Insurance Corporation transferred to S
 Wartime consolidation of Federal Crop Insurance Corporation into Agricultural Conservation and Adjustment Administration, see note set out under section 1503 of this title.
 
 #### Required Terms and Conditions of Standard Reinsurance Agreements
+
+Pub. L. 106–224, title I, §148, June 20, 2000, 114 Stat. 394, provided that: “Notwithstanding section 536 of the Agricultural Research, Extension, and Education Reform Act of 1998 (7 U.S.C. 1506 note; Public Law 105–185),the Federal Crop Insurance Corporation may renegotiate the Standard Reinsurance Agreement once during the 2001 through 2005 reinsurance years.”
 
 Pub. L. 105–185, title V, §536, June 23, 1998, 112 Stat. 584, provided that:
 
@@ -360,17 +366,9 @@ Privacy.—In conducting the evaluation required by this section, the Comptrolle
 
 Subpoenas.—The Comptroller General shall have the power to subpoena information relevant to the evaluation required by this section from any private insurance provider. The Comptroller General shall allow the Corporation access to the information subpoenaed taking into consideration the necessity of preserving the privacy of proprietary information.”
 
-#### Cross References
-
-Amount in controversy, generally, see section 1332 of Title 28, Judiciary and Judicial Procedure.
-
-Amount in controversy immaterial in action arising under Act regulating commerce, see section 1337 of Title 28.
-
-Jurisdiction of district court of action by corporation organized under federal law, see section 1349 of Title 28.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1521 of this title; title 26 section 6109; title 42 section 405.
+This section is referred to in sections 1505, 1515, 1521 of this title; title 26 section 6109; title 42 section 405.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

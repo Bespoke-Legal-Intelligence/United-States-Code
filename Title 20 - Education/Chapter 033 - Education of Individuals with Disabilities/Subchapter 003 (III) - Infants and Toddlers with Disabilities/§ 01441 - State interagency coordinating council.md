@@ -38,7 +38,7 @@
 
 #### (E) Agency for early intervention services
 
-&emsp;&emsp;At least one member shall be from each of the State agencies involved in the provisionof, or payment for, early intervention services to infants and toddlers with disabilities and their families and shall have sufficient authority to engage in policy planning and implementation on behalf of such agencies.
+&emsp;&emsp;At least one member shall be from each of the State agencies involved in the provision of, or payment for, early intervention services to infants and toddlers with disabilities and their families and shall have sufficient authority to engage in policy planning and implementation on behalf of such agencies.
 
 #### (F) Agency for preschool services
 

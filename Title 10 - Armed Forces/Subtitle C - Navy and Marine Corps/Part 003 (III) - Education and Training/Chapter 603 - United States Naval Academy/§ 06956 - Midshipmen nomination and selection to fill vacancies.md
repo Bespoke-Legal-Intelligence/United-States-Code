@@ -58,7 +58,7 @@ In subsection (f) the word “admission” is changed to the word “appointment
 
 #### Amendments
 
-1990—Subsec. (a). Pub. L. 101–510, §1322(a)(14), redesignated subsec. (b) as (a) and struck out former subsec.\(a) which read as follows: “The Secretary of the Navy shall, as soon as possible after the first of June of each year, notify in writing each Senator, Representative, and delegate in Congress of any vacancy that will exist at the Naval Academy because of graduation in the following year, or that may occur for other reasons, for which the member or delegate is entitled to nominate a candidate and nine alternates.”
+1990—Subsec. (a). Pub. L. 101–510, §1322(a)(14), redesignated subsec. (b) as (a) and struck out former subsec. (a) which read as follows: “The Secretary of the Navy shall, as soon as possible after the first of June of each year, notify in writing each Senator, Representative, and delegate in Congress of any vacancy that will exist at the Naval Academy because of graduation in the following year, or that may occur for other reasons, for which the member or delegate is entitled to nominate a candidate and nine alternates.”
 
 Subsec. (b). Pub. L. 101–510, §1322(a)(14)(B), redesignated subsec. (c) as (b). Former subsec. (b) redesignated (a).
 

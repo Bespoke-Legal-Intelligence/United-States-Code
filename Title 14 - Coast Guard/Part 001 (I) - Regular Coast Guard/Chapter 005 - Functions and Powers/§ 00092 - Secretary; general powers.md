@@ -120,7 +120,7 @@ In general.—Subject to paragraph (2) of this subsection, the Secretary may aut
 
 Authorized pay.—(A) Retired members employed under paragraph (1) of this subsection are entitled to receive their retired or retainer pay and an additional amount of not more than the difference between—
 
-&emsp;&emsp;“(i) the amount the individual would be paid as pay and allowance if they were considered to havebeen ordered to active duty during that period of employment; and
+&emsp;&emsp;“(i) the amount the individual would be paid as pay and allowance if they were considered to have been ordered to active duty during that period of employment; and
 
 &emsp;&emsp;“(ii) the amount of retired pay the individual is entitled to receive during that period.
 
@@ -249,22 +249,4 @@ July 12, 1946, ch. 569, §1, 60 Stat. 531.
 #### Appropriation Authorization for Construction of Shore or Offshore Establishments or for Procurement of Vessels or Aircraft
 
 Pub. L. 88–45, §1, June 21, 1963, 77 Stat. 68, provided that after fiscal year 1964, funds could not be appropriated to or for the use of the Coast Guard for the construction of shore or offshore establishments, or for the procurement of vessels or aircraft, unless the appropriation of such funds had been authorized by legislation enacted after Dec. 31, 1963, prior to repeal by Pub. L. 99–640, §10(a)(9), Nov. 10, 1986, 100 Stat. 3549.
-
-#### Cross References
-
-Acceptance of gifts to and administration of Coast Guard General Gift Fund, see section 2601 of Title 10, Armed Forces.
-
-Delegation of powers, see section 631 of this title.
-
-Proceeds from transfer, sale, etc., of property, see section 485 of Title 40, Public Buildings, Property, and Works.
-
-Regulations and orders, power to promulgate, see section 633 of this title.
-
-Report of expenditures and operations, see section 651 of this title.
-
-Secretary defined, see section 5 of this title.
-
-Supervision of Commandant's execution of powers and functions, see section 632 of this title.
-
-Warrant officers, appointment, see section 571 et seq. of Title 10, Armed Forces.
 

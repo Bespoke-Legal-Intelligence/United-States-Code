@@ -10,7 +10,3 @@ Based on Title 35, U.S.C., 1946 ed., §46 (R.S. 4896, amended (1) Feb. 28, 1899,
 
 The language has been considerably simplified.
 
-#### Cross References
-
-Fees for application for original or reissue of patent, see section 41 of this title.
-

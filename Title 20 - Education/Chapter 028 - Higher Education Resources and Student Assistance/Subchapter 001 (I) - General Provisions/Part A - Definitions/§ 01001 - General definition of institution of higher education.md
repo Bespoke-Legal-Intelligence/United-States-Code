@@ -18,7 +18,7 @@ For purposes of this chapter, other than subchapter IV, the term “institution 
 
 For purposes of this chapter, other than subchapter IV, the term “institution of higher education” also includes—
 
-&emsp;(1) any school that provides not less than a 1-year program of training to prepare studentsfor gainful employment in a recognized occupation and that meets the provision of paragraphs (1), (2), (4), and (5) of subsection (a) of this section; and
+&emsp;(1) any school that provides not less than a 1-year program of training to prepare students for gainful employment in a recognized occupation and that meets the provision of paragraphs (1), (2), (4), and (5) of subsection (a) of this section; and
 
 &emsp;(2) a public or nonprofit private educational institution in any State that, in lieu of the requirement in subsection (a)(1) of this section, admits as regular students persons who are beyond the age of compulsory school attendance in the State in which the institution is located.
 
@@ -88,6 +88,12 @@ Pub. L. 94–482, title V, §532, Oct. 12, 1976, 90 Stat. 2241, provided that: �
 
 &emsp;“(2) that each amendment made by this Act (not subject to clause (1) of this section) providing for authorization of appropriations shall take effect July 1, 1976.”
 
+#### Short Title of 2000 Amendments
+
+Pub. L. 106–420, §1, Nov. 1, 2000, 114 Stat. 1867, provided that: “This Act \[enacting section 1092d of this title, amending section 522 of Title 11, Bankruptcy, and enacting provisions set out as notes under section 1092d of this title and section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘College Scholarship Fraud Prevention Act of 2000’.”
+
+Pub. L. 106–386, div. B, title VI, §1601(a), Oct. 28, 2000, 114 Stat. 1537, provided that: “This section \[amending sections 1092 and 1232g of this title and section 14071 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under section 1092 of this title and section 14071 of Title 42\] may be cited as the ‘Campus Sex Crimes Prevention Act’.”
+
 #### Short Title of 1998 Amendment
 
 Pub. L. 105–244, §1(a), Oct. 7, 1998, 112 Stat. 1581, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Higher Education Amendments of 1998’.”
@@ -116,7 +122,7 @@ Pub. L. 102–325, §1(a), July 23, 1992, 106 Stat. 448, provided that: “This 
 
 #### Short Title of 1991 Amendment
 
-Pub. L. 102–26, §1(a), Apr. 9, 1991, 105 Stat. 123, provided that: “This Act \[enacting section 1211b of this title, amending sections 1078, 1078–1, 1085, 1087ss, 1088, 1091, 1091a, 1092, 1094, and 1141 of this title, enacting provisions set out as notes under sections 1070, 1078–1, 1088, and 1091a of this title, amending provisions set out as a note under section 1092 of this title, and repealing provisions set out as a note under section 1088 of this title\] may be cited as the ‘Higher Education Technical Amendments of 1991’.”
+Pub. L. 102–26, §1(a), Apr. 9, 1991, 105 Stat. 123, provided that: “This Act \[enacting section 1211b of this title, amending sections 1078, 1078–1, 1085, 1087ss, 1088, 1091, 1091a, 1092, 1094, and 1141 of this title, enactingprovisions set out as notes under sections 1070, 1078–1, 1088, and 1091a of this title, amending provisions set out as a note under section 1092 of this title, and repealing provisions set out as a note under section 1088 of this title\] may be cited as the ‘Higher Education Technical Amendments of 1991’.”
 
 #### Short Title of 1990 Amendments
 
@@ -146,7 +152,7 @@ Pub. L. 99–272, title XVI, §16001(a), Apr. 7, 1986, 100 Stat. 339, provided t
 
 #### Short Title of 1983 Amendments
 
-Pub. L. 98–95, §1, Sept. 26, 1983, 97 Stat. 708, provided: “That this Act \[enacting section 1065a of this title, amending section 1069c of this title, enacting provisions set out as a note under section 1132a–1 of this title, andamending provisions set out as notes under sections 123 and 1069c of this title\] may be cited as the ‘Challenge Grant Amendments of 1983’.”
+Pub. L. 98–95, §1, Sept. 26, 1983, 97 Stat. 708, provided: “That this Act \[enacting section 1065a of this title, amending section 1069c of this title, enacting provisions set out as a note under section 1132a–1 of this title, and amending provisions set out as notes under sections 123 and 1069c of this title\] may be cited as the ‘Challenge Grant Amendments of 1983’.”
 
 Pub. L. 98–79, §1, Aug. 15, 1983, 97 Stat. 476, provided: “That this Act \[amending sections 1071, 1077, 1077a, 1078, 1078–2, 1083a, 1087–1, 1087–2, 1087cc–1, and 1098 of this title, repealing section 1087–1a of this title, enacting provisions set out as notes under sections 1077, 1077a, 1078, and 1087–1 of this title, and amending provisions set out as notes under sections 1070a, 1078, and 1089 of this title\] may be cited as the ‘Student Loan Consolidation and Technical Amendments Act of 1983’.”
 
@@ -280,7 +286,7 @@ Pub. L. 92–318, §2, June 23, 1972, 86 Stat. 236, provided that:
 
 “(2) Unless otherwise specified, in any case where an amendment made by this Act is to become effective after a date set herein, it shall be effective with the beginning of the day which immediately follows the date after which such amendment is effective.
 
-“(3) In any case where the effective date for an amendment made by this Act is expressly stated to beeffective after June 30, 1971, such amendment shall be deemed to have been enacted on July 1, 1971.”
+“(3) In any case where the effective date for an amendment made by this Act is expressly stated to be effective after June 30, 1971, such amendment shall be deemed to have been enacted on July 1, 1971.”
 
 #### Rulemaking Requirements; Publication in Federal Register
 
@@ -292,5 +298,5 @@ Pub. L. 90–575, title V, §508, Oct. 16, 1968, 82 Stat. 1063, authorized the P
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1002, 1059c, 1078–11, 1099c, 1132, 1228c, 2002, 2302, 2324, 2371, 3902, 4514, 4702, 5602, 7601, 8801, 9001, 9202 of this title; title 7 sections 2279c, 3152; title 8 section 1182; title 10 sections 2193, 2199, 16401; title 15 section 6604; title 16 section 698u–5; title 18 section 207; title 22 sections 2460, 4502, 4703; title 25 sections 13, 1801, 1813; title 29 sections 623, 705; title 30 section 1291; title 33 section 1262; title 39 section 3626; title 42 sections 1862i, 1869c, 3002, 3791, 6322, 7274e, 9844, 9877, 11851, 12511, 12626, 12899f, 13791, 14092, 14111; title 47 section 223; title 50 section 1908.
+This section is referred to in sections 1002, 1059c, 1078–11, 1099c, 1132, 1228c, 2002, 2302, 2324, 2371, 3902, 4514, 4702, 5602, 7601, 8801, 9001, 9202 of this title; title 7 sections 2279c, 3152; title 8 sections 1182, 1184; title 10 sections 2193, 2199, 2200e, 16401; title 11 section 522; title 15 section 6604; title 16 section 698u–5; title 18 section 207; title 22 sections 2460, 2462, 4502, 4703; title 25 sections 13, 1801, 1813; title 29 sections 623, 705; title 30 section 1291; title 33 section 1262; title 39 section 3626; title 42 sections 1862i, 1869c, 3002, 3791, 6322, 7274e, 9844, 9877, 11851, 12511, 12626, 12899f, 13791, 14092, 14111; title 47 section 223; title 50 section 1908.
 

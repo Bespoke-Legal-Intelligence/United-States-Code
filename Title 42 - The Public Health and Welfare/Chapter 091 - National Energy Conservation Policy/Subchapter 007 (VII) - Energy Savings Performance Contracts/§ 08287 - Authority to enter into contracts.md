@@ -16,13 +16,13 @@
 
 &emsp;(ii) funds are available and adequate for payment of the costs of such contract for the first fiscal year;
 
-&emsp;(iii) 30 days before the award of any such contract that contains a clause setting forth a cancellation ceiling in excess of $750,000, the head of such agency gives written notification of such proposed contract and of the proposed cancellation ceiling for such contract to the appropriate authorizing and appropriating committees of the Congress; and
+&emsp;(iii) 30 days before the award of any such contract that contains a clause setting forth a cancellation ceiling in excess of $10,000,000, the head of such agency gives written notification of such proposed contract and of the proposed cancellation ceiling for such contract to the appropriate authorizing and appropriating committees of the Congress; and
 
 &emsp;(iv) such contract is governed by part 17.1 of the Federal Acquisition Regulation promulgated under section 421 of title 41 or the applicable rules promulgated under this subchapter.
 
 #### (b) Implementation
 
-(1)(A) The Secretary, with the concurrence of the Federal Acquisition Regulatory Council established under section 421(a) of title 41, not later than 180 days after October 24, 1992, shall, by rule, establish appropriate procedures and methods for use by Federal agencies to select, monitor, and terminate contracts with energy service contractors in accordance with laws governing Federal procurement that will achieve the intent of this section in a cost-effectivemanner. In developing such procedures and methods, the Secretary, with the concurrence of the Federal Acquisition Regulatory Council, shall determine which existing regulations are inconsistent with the intent of this section and shall formulate substitute regulations consistent with laws governing Federal procurement.
+(1)(A) The Secretary, with the concurrence of the Federal Acquisition Regulatory Council established under section 421(a) of title 41, not later than 180 days after October 24, 1992, shall, by rule, establish appropriate procedures and methods for use by Federal agencies to select, monitor, and terminate contracts with energy service contractors in accordance with laws governing Federal procurement that will achieve the intent of this section in a cost-effective manner. In developing such procedures and methods, the Secretary, with the concurrence of the Federal Acquisition Regulatory Council, shall determine which existing regulations are inconsistent with the intent of this section and shall formulate substitute regulations consistent with laws governing Federal procurement.
 
 (B) The procedures and methods established pursuant to subparagraph (A) shall be the procedures and contracting methods for selection, by an agency, of a contractor to provide energy savings performance services. Such procedures and methods shall provide for the calculation of energy savings based on sound engineering and financial practices.
 
@@ -52,9 +52,11 @@
 
 The authority to enter into new contracts under this section shall cease to be effective on October 1, 2003.
 
-(Pub. L. 95–619, title VIII, §801, as added Pub. L. 99–272, title VII, §7201(a), Apr. 7, 1986, 100 Stat. 142; amended Pub. L. 102–486, title I, §155(a), Oct. 24, 1992, 106 Stat. 2852; Pub. L. 104–106, div. E, title LVI, §5607(e), Feb. 10, 1996, 110 Stat. 702; Pub. L. 104–316, title I, §122(s), Oct. 19, 1996, 110 Stat. 3838; Pub. L. 105–388, §4(a), Nov. 13, 1998, 112 Stat. 3477.)
+(Pub. L. 95–619, title VIII, §801, as added Pub. L. 99–272, title VII, §7201(a), Apr. 7, 1986, 100 Stat. 142; amended Pub. L. 102–486, title I, §155(a), Oct. 24, 1992, 106 Stat. 2852; Pub. L. 104–106, div. E, title LVI, §5607(e), Feb. 10, 1996, 110 Stat. 702; Pub. L. 104–316, title I, §122(s), Oct. 19, 1996, 110 Stat. 3838; Pub. L. 105–388, §4(a), Nov. 13, 1998, 112Stat. 3477; Pub. L. 106–291, title III, §335, Oct. 11, 2000, 114 Stat. 997; Pub. L. 106–469, title IV, §401, Nov. 9, 2000, 114 Stat. 2037.)
 
 #### Amendments
+
+2000—Subsec. (a)(2)(D)(iii). Pub. L. 106–291 and Pub. L. 106–469 amended cl. (iii) identically, substituting “$10,000,000” for “$750,000”.
 
 1998—Subsec. (c). Pub. L. 105–388 substituted “on October 1, 2003” for “five years after the date procedures and methods are established under subsection (b) of this section”.
 
@@ -84,7 +86,7 @@ Energy Conservation Incentive.—In order to provide additional incentive for th
 
 Authorized Uses of Savings.—The energy cost savings realized by the United States in each of the first five years under a contract may be used as follows:
 
-&emsp;“(1) One-half of the amount of such savings may be used for the acquisition of energy conserving measures for military installations, and such measures may be in addition to any such energy conservingmeasures acquired for military installations under contracts entered into under title VIII of the National Energy Conservation Policy Act.
+&emsp;“(1) One-half of the amount of such savings may be used for the acquisition of energy conserving measures for military installations, and such measures may be in addition to any such energy conserving measures acquired for military installations under contracts entered into under title VIII of the National Energy Conservation Policy Act.
 
 &emsp;“(2) One-half of the amount of such savings may be used for any morale, welfare, or recreation facility or service that is normally provided with appropriated funds, or for any minor military construction project (as defined in section 2805(a) of title 10, United States Code), that will enhance the quality of life of members of the Armed Forces at the military installation at which the energy cost savings were realized.
 

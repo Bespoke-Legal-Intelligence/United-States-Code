@@ -8,10 +8,6 @@ Whenever consistent with the primary purposes of Grand Canyon National Park, sec
 
 Section 79 of this title, referred to in text, was in the original a reference to act Feb. 15, 1901, ch. 372, 31 Stat. 790. For further details, see Codification note set out under section 79 of this title.
 
-#### Cross References
-
-Issuance of licenses for construction, operation, and maintenance of transmission lines, for development, transmission, and utilization of power, across public lands and reservations, see section 797 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 221b of this title.

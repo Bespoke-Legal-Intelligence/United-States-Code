@@ -10,9 +10,3 @@ The word “former” was inserted in text before “surveyor general” because
 
 R.S. §2225 derived from act Mar. 3, 1831, ch. 116, §5, 4 Stat. 493.
 
-#### Federal Rules of Civil Procedure
-
-Proof of official records, see rule 44, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-Effect of rule 44 on this section, see note by Advisory Committee set out under that rule.
-

@@ -1,0 +1,56 @@
+### §2232. Burn research
+
+#### (a) Office
+
+The Director of the Federal Emergency Management Agency shall establish an office in the Agency to establish specific criteria of grant recipients and to administer grants under this section.
+
+#### (b) Safety organization grants
+
+The Director may make grants, on a competitive basis, to safety organizations that have experience in conducting burn safety programs for the purpose of assisting those organizations in conducting burn prevention programs or augmenting existing burn prevention programs.
+
+#### (c) Hospital grants
+
+The Director may make grants, on a competitive basis, to hospitals that serve as regional burn centers to conduct acute burn care research.
+
+#### (d) Other grants
+
+The Director may make grants, on a competitive basis, to governmental and nongovernmental entities to provide after-burn treatment and counseling to individuals that are burn victims.
+
+#### (e) Report
+
+#### (1) In general
+
+&emsp;The Director of the Federal Emergency Management Agency shall submit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives on the results of the grants provided under this section.
+
+#### (2) Content
+
+&emsp;The report shall contain the following:
+
+&emsp;&emsp;(A) A list of the organizations, hospitals, or other entities to which the grants were provided and the purpose for which those entities were provided grants.
+
+&emsp;&emsp;(B) Efforts taken to ensure that potential grant applicants are provided with information necessary to develop an effective application.
+
+&emsp;&emsp;(C) The Director's assessment regarding the appropriate level of funding that should be provided annually through the grant program.
+
+&emsp;&emsp;(D) The Director's assessment regarding the appropriate purposes for such grants.
+
+&emsp;&emsp;(E) Any other information the Director determines necessary.
+
+#### (3) Submission date
+
+&emsp;The report shall be submitted not later than February 1, 2002.
+
+#### (f) Authorization of appropriations
+
+There are authorized to be appropriated for the purposes of this section amounts as follows:
+
+&emsp;(1) $10,000,000 for fiscal year 2001.
+
+&emsp;(2) $20,000,000 for fiscal year 2002.
+
+(Pub. L. 106–398, §1 \[\[div. A\], title XVII, §1703\], Oct. 30, 2000, 114 Stat. 1654, 1654A–364.)
+
+#### Codification
+
+Section was enacted as part of the Floyd D. Spence National Defense Authorization Act for Fiscal Year2001, and not as part of the Federal Fire Prevention and Control Act of 1974 which comprises this chapter.
+

@@ -50,7 +50,7 @@ Subsec. (g). Pub. L. 94–582, §19(d), struck out subsec. (g) which made unlawf
 
 #### Effective Date of 1976 Amendment
 
-For effective date of amendment by Pub. L. 94–582, see section 27 of Pub. L. 94–582, set out as a note under section 74 of this title.
+Amendment by Pub. L. 94–582 effective 30 days after Oct. 21, 1976, see section 27 of Pub. L. 94–582, as amended, set out as a note under section 74 of this title.
 
 #### Effective Date of 1970 Amendment
 
@@ -59,10 +59,6 @@ For effective date of amendment by Pub. L. 91–452, and amendment not to affect
 #### Effective Date
 
 For effective date of section, see section 2 of Pub. L. 90–487, set out as an Effective Date of 1968 Amendment note under section 78 of this title.
-
-#### Cross References
-
-Immunity of witnesses, see section 6001 et seq. of Title 18, Crimes and Criminal Procedure.
 
 #### Section Referred to in Other Sections
 

@@ -25,7 +25,7 @@
 | (a) | Proprietary rights. |
 | (b) | Commercial information. |
 | (c) | Patent rights. |
-| [5309\.](%C2%A7%2005309%20-%20Reporting.md) | Reporting. |
+| [5309\.](%C2%A7%2005309%20-%20Omitted.md) | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -46,4 +46,4 @@ This chapter is referred to in title 42 section 13451.
 - [&sect; 05306 - Industrial Advisory Board](%C2%A7%2005306%20-%20Industrial%20Advisory%20Board.md)
 - [&sect; 05307 - Authorization of appropriations](%C2%A7%2005307%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 05308 - Protection of proprietary rights](%C2%A7%2005308%20-%20Protection%20of%20proprietary%20rights.md)
-- [&sect; 05309 - Reporting](%C2%A7%2005309%20-%20Reporting.md)
+- [&sect; 05309 - Omitted](%C2%A7%2005309%20-%20Omitted.md)

@@ -12,6 +12,12 @@
 
 (5) One of the Assistant Secretaries shall be the Assistant Secretary of Defense for Legislative Affairs. He shall have as his principal duty the overall supervision of legislative affairs of the Department of Defense.
 
+(6)(A) One of the Assistant Secretaries, as designated by the Secretary of Defense from among those Assistant Secretaries with responsibilities that include responsibilities related to combating terrorism, shall have, among that Assistant Secretary's duties, the duty to provide overall direction and supervision for policy, program planning and execution, and allocation and use of resources for the activities of the Department of Defense for combating terrorism, including antiterrorism activities, counterterrorism activities, terrorism consequences management activities, and terrorism-related intelligence support activities.
+
+(B) The Assistant Secretary designated under subparagraph (A) shall be the principal civilian adviser to the Secretary of Defense on combating terrorism and (after the Secretary and Deputy Secretary) shall be the principal official within the senior management of the Department of Defense responsible for combating terrorism.
+
+(C) If the Secretary of Defense designates under subparagraph (A) an Assistant Secretary other than the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict, then the responsibilities of the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict related to combating terrorism shall be exercised subject to subparagraph (B).
+
 (c) Except as otherwise specifically provided by law, an Assistant Secretary may not issue an order to a military department unless—
 
 &emsp;(1) the Secretary of Defense has specifically delegated that authority to the Assistant Secretary in writing; and
@@ -20,7 +26,7 @@
 
 (d) The Assistant Secretaries take precedence in the Department of Defense after the Secretary of Defense, the Deputy Secretary of Defense, the Secretaries of the military departments, the Under Secretaries of Defense, and the Director of Defense Research and Engineering. The Assistant Secretaries take precedence among themselves in the order prescribed by the Secretary of Defense.
 
-(Added Pub. L. 87–651, title II, §202, Sept. 7, 1962, 76 Stat. 518, §136; amended Pub. L. 90–168, §2(1), (2), Dec. 1, 1967, 81 Stat. 521; Pub. L. 91–121, title IV, §404(a), Nov. 19, 1969, 83 Stat. 207; Pub. L. 92–215, §1, Dec. 22, 1971, 85 Stat. 777; Pub. L. 92–596, §4(2), Oct. 27, 1972, 86 Stat. 1318; Pub. L. 95–140, §3(a), Oct. 21, 1977, 91 Stat. 1173; Pub. L. 96–107, title VIII, §820(a), Nov. 9, 1979, 93 Stat. 819; Pub. L. 98–94, title XII, §1212(a), Sept. 24, 1983, 97 Stat. 686; Pub. L. 99–433, title I, §§106, 110(d)(9), Oct. 1, 1986, 100 Stat. 997, 1003; Pub. L. 99–500, §101(c) \[title IX, §9115(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–122, and Pub. L. 99–591, §101(c) \[title IX, §9115(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–122; Pub. L. 99–661, div. A, title XIII, §1311(a), Nov. 14, 1986, 100 Stat. 3983; Pub. L. 100–180, div. A, title XII, §1211(a)(1), Dec. 4, 1987, 101 Stat. 1154; Pub. L. 100–453, title VII, §702, Sept. 29, 1988, 102 Stat. 1912; Pub. L. 100–456, div. A, title VII, §701, Sept. 29, 1988, 102 Stat. 1992; renumbered §138 and amended Pub. L. 103–160, div. A, title IX, §§901(a)(1), (c), 903(c)(1), 905, Nov. 30, 1993, 107 Stat. 1726, 1727, 1729; Pub. L. 103–337, div. A, title IX, §§901(a), 903(b)(2), Oct. 5, 1994, 108 Stat. 2822, 2823; Pub. L. 104–106, div. A, title IX, §§902(a), 903(b), (e)(2), Feb. 10, 1996, 110 Stat. 401, 402; Pub. L. 104–201, div. A, title IX, §901, Sept. 23, 1996, 110 Stat. 2617; Pub. L. 105–261, div. A, title IX, §§901(a), 902, Oct. 17, 1998, 112 Stat. 2091.)
+(Added Pub. L. 87–651, title II, §202, Sept. 7, 1962, 76 Stat. 518, §136; amended Pub. L. 90–168, §2(1), (2), Dec. 1, 1967, 81 Stat. 521; Pub. L. 91–121, title IV, §404(a), Nov. 19, 1969, 83 Stat. 207; Pub. L. 92–215, §1, Dec. 22, 1971, 85 Stat. 777; Pub. L. 92–596, §4(2), Oct. 27, 1972, 86 Stat. 1318; Pub. L. 95–140, §3(a), Oct. 21, 1977, 91 Stat. 1173; Pub. L. 96–107, title VIII, §820(a), Nov. 9, 1979, 93 Stat. 819; Pub. L. 98–94, title XII, §1212(a), Sept. 24, 1983, 97 Stat. 686; Pub. L. 99–433, title I, §§106, 110(d)(9), Oct. 1, 1986, 100 Stat. 997, 1003; Pub. L. 99–500, §101(c) \[title IX, §9115(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–122, and Pub. L. 99–591, §101(c) \[title IX, §9115(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–122; Pub. L. 99–661, div. A, title XIII, §1311(a), Nov. 14, 1986, 100 Stat. 3983; Pub. L. 100–180, div. A, title XII, §1211(a)(1), Dec. 4, 1987, 101 Stat. 1154; Pub. L. 100–453, title VII, §702, Sept. 29, 1988, 102 Stat. 1912; Pub. L. 100–456, div. A, title VII, §701, Sept. 29, 1988, 102 Stat. 1992; renumbered §138 and amended Pub. L. 103–160, div. A, title IX, §§901(a)(1), (c), 903(c)(1), 905, Nov. 30, 1993, 107 Stat. 1726, 1727, 1729; Pub. L. 103–337, div. A, title IX, §§901(a), 903(b)(2), Oct. 5, 1994, 108 Stat. 2822, 2823; Pub. L. 104–106, div. A, title IX, §§902(a), 903(b), (e)(2), Feb. 10, 1996, 110 Stat. 401, 402; Pub. L. 104–201, div. A, title IX, §901, Sept. 23, 1996, 110 Stat. 2617; Pub. L. 105–261, div. A, title IX, §§901(a), 902, Oct. 17, 1998, 112 Stat. 2091; Pub. L. 106–398, §1 \[\[div. A\], title IX, §901\], Oct. 30, 2000, 114 Stat. 1654, 1654A–223.)
 
 Historical and Revision Notes
 
@@ -124,6 +130,8 @@ Section 138(i) was renumbered successively as section 114(i) and section 114(d) 
 
 #### Amendments
 
+2000—Subsec. (b)(6). Pub. L. 106–398 added par. (6).
+
 1998—Subsec. (a). Pub. L. 105–261, §901(a), substituted “nine” for “ten”.
 
 Subsec. (b)(3). Pub. L. 105–261, §902, struck out par. (3) which read as follows:
@@ -152,7 +160,7 @@ Subsec. (b)(5). Pub. L. 103–160, §905, added par. (5).
 
 Subsec. (d). Pub. L. 103–160, §901(c), inserted “and Comptroller” after “Under Secretaries of Defense”.
 
-1988—Subsec. (b)(3). Pub. L. 100–453 and Pub. L. 100–456 generally amended par. (3) identically. Prior to amendment, par. (3) read as follows: “One of the Assistant Secretaries shall be the Assistant Secretary of Defensefor Command, Control, Communications, and Intelligence. He shall have as his principal duty the overall supervision of command, control, communications, and intelligence affairs of the Department of Defense.”
+1988—Subsec. (b)(3). Pub. L. 100–453 and Pub. L. 100–456 generally amended par. (3) identically. Prior to amendment, par. (3) read as follows: “One of the Assistant Secretaries shall be the Assistant Secretary of Defense for Command, Control, Communications, and Intelligence. He shall have as his principal duty the overall supervision of command, control, communications, and intelligence affairs of the Department of Defense.”
 
 1987—Subsec. (b)(4). Pub. L. 100–180 inserted at end “The Assistant Secretary is the principal civilian adviser to the Secretary of Defense on special operations and low intensity conflict matters and (after the Secretary and Deputy Secretary) is the principal special operations and low intensity conflict official within the senior management of the Department of Defense.”
 
@@ -172,7 +180,7 @@ Subsec. (c)(1). Pub. L. 99–433, §106(c)(1)(A), substituted “the Assistant S
 
 Subsec. (c)(2). Pub. L. 99–433, §106(c)(1)(B), struck out “, or his designee” after “concerned”.
 
-Subsecs. (d), (e). Pub. L. 99–433, §106(b), (c)(2), (3), redesignated subsec. (e) as (d), substituted “the Under Secretaries of Defense, and the Director of Defense Research and Engineering” for “and the Under Secretaries of Defense”, inserted sentence directing that the Assistant Secretaries take precedence among themselves in the order prescribed by the Secretary of Defense, and struck out former subsec. (d) which directed the Secretary of each military department, his civilian assistants, and members of the armed forces under the jurisdiction of his department to cooperate fully with personnel of the Office of the Secretary of Defense to achieve efficient administration of the Department of Defense and to carry out effectively the authority, direction, and control of the Secretary of Defense.
+Subsecs. (d), (e). Pub. L. 99–433, §106(b), (c)(2), (3), redesignated subsec. (e) as (d), substituted “the Under Secretaries of Defense, and the Director of Defense Research and Engineering” for “and the Under Secretaries of Defense”, inserted sentence directing that the Assistant Secretaries take precedence among themselves in the order prescribed by the Secretary of Defense, and struck out former subsec. (d) which directed the Secretary of each military department, his civilian assistants, and members of the armed forces under the jurisdiction of his department to cooperate fully withpersonnel of the Office of the Secretary of Defense to achieve efficient administration of the Department of Defense and to carry out effectively the authority, direction, and control of the Secretary of Defense.
 
 1983—Subsec. (a). Pub. L. 98–94, §1212(a)(1), substituted “eleven” for “seven”.
 

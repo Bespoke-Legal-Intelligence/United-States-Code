@@ -12,7 +12,7 @@
 
 (f) Whoever, without lawful authority, possesses any blank certificate of arrival, blank declaration of intention or blank certificate of naturalization or citizenship provided by the Immigration and Naturalization Service, with intent unlawfully to use the same; or
 
-(g) Whoever, with intent unlawfully to use the same, possesses a distinctive paper adopted bythe proper officer or agency of the United States for the printing or engraving of a declaration of intention to become a citizen, or certificate of naturalization or certificate of citizenship; or
+(g) Whoever, with intent unlawfully to use the same, possesses a distinctive paper adopted by the proper officer or agency of the United States for the printing or engraving of a declaration of intention to become a citizen, or certificate of naturalization or certificate of citizenship; or
 
 (h) Whoever, without lawful authority, prints, photographs, makes or executes any print or impression in the likeness of a certificate of arrival, declaration of intention to become a citizen, or certificate of naturalization or citizenship, or any part thereof—
 
@@ -41,10 +41,6 @@ Amendment by Pub. L. 104–208 applicable with respect to offenses occurring on 
 #### Transfer of Functions
 
 Functions of all other officers of Department of Justice and functions of all agencies and employees of such Department, with a few exceptions, transferred to Attorney General, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by Reorg. Plan No. 2 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3173, 64 Stat. 1261, set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Cross References
-
-Limitations, period of, see section 3291 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -82,7 +82,7 @@ Nonmetropolitan areas.—With respect to each nonmetropolitan area, the long-ran
 
 &emsp;&emsp;(C)
 
-Indian tribal areas.—With respect to each area of the State under the jurisdictionof an Indian tribal government, the long-range transportation plan shall be developed in consultation with the tribal government and the Secretary of the Interior.
+Indian tribal areas.—With respect to each area of the State under the jurisdiction of an Indian tribal government, the long-range transportation plan shall be developed in consultation with the tribal government and the Secretary of the Interior.
 
 &emsp;(3)
 
@@ -154,7 +154,7 @@ Chapter 2 projects.—
 
 &emsp;&emsp;&emsp;(i)
 
-Regionally significant projects.—Regionally significant projects proposed for funding under chapter 2 shall be identified individually in the transportation improvement program.
+Regionally significant projects.—Regionally significant projects proposedfor funding under chapter 2 shall be identified individually in the transportation improvement program.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -226,7 +226,7 @@ Treatment of Certain State Laws as Congestion Management Systems.—For purposes
 
 Continuation of Current Review Practice.—Since plans and programs described in this section are subject to a reasonable opportunity for public comment, since individual projects included in the plans and programs are subject to review under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), and since decisions by the Secretary concerning plans and programs described in this section have not been reviewed under such Act as of January 1, 1997, any decision by the Secretary concerning a plan or program described in this section shall not be considered to be a Federal action subject to review under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
 
-(Added Pub. L. 90–495, §10(a), Aug. 23, 1968, 82 Stat. 820; amended Pub. L. 91–605, title I, §§106(g), 125, Dec. 31, 1970, 84 Stat. 1718, 1729; Pub. L. 93–87, title I, §119, Aug. 13, 1973, 87 Stat. 259; Pub. L. 94–280, title I, §123(a), May 5, 1976, 90 Stat. 439; Pub. L. 102–240, title I, §1025(a), Dec. 18, 1991, 105 Stat. 1962; Pub. L. 103–429, §3(6), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 105–178, title I, §1204(a)–(h), June 9, 1998, 112 Stat. 180–184.)
+(Added Pub. L. 90–495, §10(a), Aug. 23, 1968, 82 Stat. 820; amended Pub. L. 91–605, title I,§§106(g), 125, Dec. 31, 1970, 84 Stat. 1718, 1729; Pub. L. 93–87, title I, §119, Aug. 13, 1973, 87 Stat. 259; Pub. L. 94–280, title I, §123(a), May 5, 1976, 90 Stat. 439; Pub. L. 102–240, title I, §1025(a), Dec. 18, 1991, 105 Stat. 1962; Pub. L. 103–429, §3(6), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 105–178, title I, §1204(a)–(h), June 9, 1998, 112 Stat. 180–184.)
 
 #### References in Text
 
@@ -246,7 +246,7 @@ A prior section 135, Pub. L. 89–139, §4(a), Aug. 28, 1965, 79 Stat. 578, call
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–178, §1204(a), reenacted heading without change and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “It is in the national interest to encourage and promote the development of transportation systems embracing various modes of transportation in a mannerthat will serve all areas of the State efficiently and effectively. Subject to section 134 of this title, the State shall develop transportation plans and programs for all areas of the State. Such plans and programs shall provide for development of transportation facilities (including pedestrian walkways and bicycle transportation facilities) which will function as an intermodal State transportation system. The process for developing such plans and programs shall provide for consideration of all modes of transportation and shall be continuing, cooperative, and comprehensive to the degree appropriate, based on the complexity of the transportation problems.”
+1998—Subsec. (a). Pub. L. 105–178, §1204(a), reenacted heading without change and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “It is in the national interest to encourage and promote the development of transportation systems embracing various modes of transportation in a manner that will serve all areas of the State efficiently and effectively. Subject to section 134 of this title, the State shall develop transportation plans and programs for all areas of the State. Such plans and programs shall provide for development of transportation facilities (including pedestrian walkways and bicycle transportation facilities) which will function as an intermodal State transportation system. The process for developing such plans and programs shall provide for consideration of all modes of transportation and shall be continuing, cooperative, and comprehensive to the degree appropriate, based on the complexity of the transportation problems.”
 
 Subsec. (b). Pub. L. 105–178, §1204(b), inserted “and sections 5303 through 5305 of title 49” after “section 134 of this title”.
 
@@ -282,7 +282,7 @@ Subsec. (h). Pub. L. 103–429, §3(6)(B), substituted “sections 5303–5306 a
 
 Subsec. (a). Pub. L. 94–280 struck out “within the designated boundaries of urban areas of the State” and “in the urban areas” after “continuing program” and “flow of traffic”, respectively.
 
-Subsec. (b). Pub. L. 94–280 substituted “any project for improvements on any public road which project will directly facilitate and control traffic flow on any of the Federal-aid systems” for “any project on an extension of the Federal-aid primary or secondary system in urban areas and on the Federal-aid urban system for improvements which directly facilitate and control traffic flow, such as grade separation of intersections, widening of lanes, channelization of traffic, traffic control systems, and loading and unloading ramps. If such project is located in an urban area of more than fifty thousand population, such project shall be based on a continuing comprehensive transportation planning process carried on in accordance with section 134 of this title”.
+Subsec. (b). Pub. L. 94–280 substituted “any project for improvements on any public road which project will directly facilitate and control traffic flow on any of the Federal-aid systems” for “any project on an extensionof the Federal-aid primary or secondary system in urban areas and on the Federal-aid urban system for improvements which directly facilitate and control traffic flow, such as grade separation of intersections, widening of lanes, channelization of traffic, traffic control systems, and loading and unloading ramps. If such project is located in an urban area of more than fifty thousand population, such project shall be based on a continuing comprehensive transportation planning process carried on in accordance with section 134 of this title”.
 
 Subsec. (c). Pub. L. 94–280 struck out subsec. (c) which provided for an annual report by the Secretary on projects approved under this section with recommendations for further improvement of traffic operations in accordance with this section.
 
@@ -308,7 +308,7 @@ Study.—The Secretary shall conduct a study on the effectiveness of the partici
 
 “(2)
 
-Report.—Not later than 2 years after the date of enactment of this Act \[June 9, 1998\], the Secretaryshall transmit to Congress a report containing the results of the study with any recommendations the Secretary determines appropriate as a result of the study.”
+Report.—Not later than 2 years after the date of enactment of this Act \[June 9, 1998\], the Secretary shall transmit to Congress a report containing the results of the study with any recommendations the Secretary determines appropriate as a result of the study.”
 
 #### Advanced Travel Forecasting Procedures Program
 

@@ -6,7 +6,7 @@ Every alien applying for an immigrant visa and for alien registration shall make
 
 #### (b) Other documentary evidence for immigrant visa
 
-Every alien applying for an immigrant visa shall present a valid unexpired passport or other suitable travel document, or document of identity and nationality, if such document is required under the regulations issued by the Secretary of State. The immigrant shall furnish to the consular officer with his application a copy of a certification by the appropriate police authorities stating what their records show concerning the immigrant; a certified copy of any existing prison record, military record, and record of his birth; and a certified copy of all other records or documents concerning him or his case which may be required by the consular officer. The copy of each document so furnished shall be permanently attached to the application and become a part thereof. In the event that the immigrant establishes to the satisfaction of the consular officer that any document or record required by this subsection is unobtainable, the consular officer may permit the immigrant to submit in lieu of such document or record other satisfactory evidence of the fact to which such document or record would, if obtainable, pertain.
+Every alien applying for an immigrant visa shall present a valid unexpired passport or othersuitable travel document, or document of identity and nationality, if such document is required under the regulations issued by the Secretary of State. The immigrant shall furnish to the consular officer with his application a copy of a certification by the appropriate police authorities stating what their records show concerning the immigrant; a certified copy of any existing prison record, military record, and record of his birth; and a certified copy of all other records or documents concerning him or his case which may be required by the consular officer. The copy of each document so furnished shall be permanently attached to the application and become a part thereof. In the event that the immigrant establishes to the satisfaction of the consular officer that any document or record required by this subsection is unobtainable, the consular officer may permit the immigrant to submit in lieu of such document or record other satisfactory evidence of the fact to which such document or record would, if obtainable, pertain.
 
 #### (c) Nonimmigrant visas; nonimmigrant registration; form, manner and contents of application
 
@@ -44,7 +44,7 @@ Subsec. (e). Pub. L. 104–208, §634(b), in first sentence, substituted “for 
 
 Subsec. (g). Pub. L. 104–208, §632(a), added subsec. (g).
 
-1994—Subsec. (a). Pub. L. 103–416, §205(a), in second sentence substituted “the alien” for “the immigrant” after “In the application” and struck out “present address and places of previous residence; whether married or single, and the names and places of residence of spouse and children, if any; calling or occupation; personal description (including height, complexion, color of hair and eyes, and marks of identification); languages he can speak, read, or write; names and addresses of parents, and if neither parent living then the name and address of his next of kin in the country from which he comes; port of entry into the United States; final destination, if any, beyond the port of entry; whether he has a ticket through to such final destination; whether going to join a relative or friend, and, if so, the name and complete address of such relative or friend; the purpose for which he is going to the United States; the length of time he intends to remain in the United States; whether or not he intends to remain in the United States permanently; whether he was ever arrested, convicted or was ever in prison or almshouse; whether he has ever been the beneficiary of a pardon or an amnesty; whether he has ever been treated in an institution or hospital or other place for insanity or other mental disease; if he claims to be an immediate relative within the meaning of section 1151(b) of this title or a preference or special immigrant, the facts on which he bases such claim; whether or not he is a member of any class of individuals excluded from admission into the United States, or whether he claims to be exempt from exclusion under the immigration laws;” before “and such additional information”.
+1994—Subsec. (a). Pub. L. 103–416, §205(a), in second sentence substituted “the alien” for “the immigrant” after “In the application” and struck out “present address and places of previous residence; whether married or single, and the names and places of residence of spouse and children, if any; calling or occupation; personal description (including height, complexion, color of hair and eyes, and marks of identification); languages he can speak, read, or write; names and addresses of parents, and if neither parent living then the name and address of his next of kin in the country from which he comes; port of entry into the United States;final destination, if any, beyond the port of entry; whether he has a ticket through to such final destination; whether going to join a relative or friend, and, if so, the name and complete address of such relative or friend; the purpose for which he is going to the United States; the length of time he intends to remain in the United States; whether or not he intends to remain in the United States permanently; whether he was ever arrested, convicted or was ever in prison or almshouse; whether he has ever been the beneficiary of a pardon or an amnesty; whether he has ever been treated in an institution or hospital or other place for insanity or other mental disease; if he claims to be an immediate relative within the meaning of section 1151(b) of this title or a preference or special immigrant, the facts on which he bases such claim; whether or not he is a member of any class of individuals excluded from admission into the United States, or whether he claims to be exempt from exclusion under the immigration laws;” before “and such additional information”.
 
 1988—Subsec. (a). Pub. L. 100–525, §9(j), substituted “whether or not he intends” for “whether or not be intends”.
 
@@ -90,55 +90,9 @@ Amendment by Pub. L. 99–653 applicable to applications for immigrant visas mad
 
 For effective date of amendment by Pub. L. 89–236, see section 20 of Pub. L. 89–236, set out as a note under section 1151 of this title.
 
-#### Cross References
-
-Definition of the term—
-
-&emsp;&emsp;Alien, see section 1101(a)(3) of this title.
-
-&emsp;&emsp;Child, as used in subchapter III of this chapter, see section 1101(c)(1) of this title.
-
-&emsp;&emsp;Child, as used in this subchapter and subchapter I of this chapter, see section 1101(b)(1) of this title.
-
-&emsp;&emsp;Consular officer, see section 1101(a)(9) of this title.
-
-&emsp;&emsp;Entry, see section 1101(a)(13) of this title.
-
-&emsp;&emsp;Immigrant, see section 1101(a)(15) of this title.
-
-&emsp;&emsp;Immigrant visa, see section 1101(a)(16) of this title.
-
-&emsp;&emsp;Immigration laws, see section 1101(a)(17) of this title.
-
-&emsp;&emsp;National, see section 1101(a)(21) of this title.
-
-&emsp;&emsp;Nonimmigrant visa, see section 1101(a)(26) of this title.
-
-&emsp;&emsp;Parent, as used in subchapter III of this chapter, see section 1101(c)(2) of this title.
-
-&emsp;&emsp;Parent, as used in this subchapter and subchapter I of this title, see section 1101(b)(2) of this title.
-
-&emsp;&emsp;Passport, see section 1101(a)(30) of this title.
-
-&emsp;&emsp;Permits to enter, as used in section 1185, see section 1185(f) of this title.
-
-&emsp;&emsp;Residence, see section 1101(a)(33) of this title.
-
-&emsp;&emsp;Special immigrant, see section 1101(a)(27) of this title.
-
-&emsp;&emsp;Spouse, see section 1101(a)(35) of this title.
-
-&emsp;&emsp;Unmarried, see section 1101(a)(39) of this title.
-
-Detention of aliens for observation and examination, see section 1222 of this title.
-
-Registration and fingerprinting of alien applying for a visa, see section 1201 of this title.
-
-Submission of alien seeking immigrant or nonimmigrant visa to physical and mental examination, see section 1201 of this title.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1201 of this title; title 22 section 4355.
+This section is referred to in sections 1201, 1372 of this title; title 22 section 4355.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

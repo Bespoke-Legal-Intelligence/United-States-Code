@@ -112,7 +112,7 @@ Subsec. (a)(2)(A), (B). Pub. L. 105–244, §406(c)(1)(B)(i), substituted “199
 
 Subsec. (a)(2)(C)(i). Pub. L. 105–244, §406(c)(1)(B)(ii), substituted “2000” for “1986”.
 
-Subsec. (b). Pub. L. 105–244, §406(c)(2)(A), (D), redesignated subsec. (c) as (b) and struck out heading and text of former subsec. (b). Text read as follows: “From one-quarter of the remainder of the amount appropriated pursuant to section 1070b(b) of this title for any fiscal year (after making the allocations required by subsection (a) of this section), the Secretary shall allocate to each eligible institution an amount which bears the same ratio to such one-quarter as the amount the eligible institution receives for such fiscal year under subsection (a) of this section bears to the amount all such institutions receive under such subsection (a) of this section.”
+Subsec. (b). Pub. L. 105–244, §406(c)(2)(A), (D), redesignated subsec. (c) as (b) and struck out heading and textof former subsec. (b). Text read as follows: “From one-quarter of the remainder of the amount appropriated pursuant to section 1070b(b) of this title for any fiscal year (after making the allocations required by subsection (a) of this section), the Secretary shall allocate to each eligible institution an amount which bears the same ratio to such one-quarter as the amount the eligible institution receives for such fiscal year under subsection (a) of this section bears to the amount all such institutions receive under such subsection (a) of this section.”
 
 Subsec. (c). Pub. L. 105–244, §406(c)(2)(D), redesignated subsec. (d) as (c). Former subsec. (c) redesignated (b).
 

@@ -28,7 +28,7 @@ Effect of Unavailability of Policies.—(1) If the Secretary of Defense is unabl
 
 (2) The amount paid by a person who purchases a conversion health policy from the Secretary of Defense under paragraph (1) may not exceed the payment required under section 8905a(d)(1)(A) of title 5 for comparable coverage.
 
-(3) In order to reduce premiums required under paragraph (1), the Secretary of Defense may offer a program of coverage that, with respect to mental health services, offers reduced coverage and increased cost-sharing by the purchaser.
+(3) In order to reduce premiums required under paragraph (1), the Secretary of Defense mayoffer a program of coverage that, with respect to mental health services, offers reduced coverage and increased cost-sharing by the purchaser.
 
 (d)
 

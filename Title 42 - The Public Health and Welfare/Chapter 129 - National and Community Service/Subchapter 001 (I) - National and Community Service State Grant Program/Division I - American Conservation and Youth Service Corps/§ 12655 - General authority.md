@@ -1,6 +1,6 @@
 ### §12655. General authority
 
-The Corporation may make grants to States or local applicants and may transfer funds to the Secretary of Agriculture or to the Secretary of the Interior for the creation or expansion of full-time, part-time, year-round, or summer, youth corps programs <sup>1</sup> To the extent practicable, the Corporation shall apply the provisions of division C of this subchapter in making grants under this section.
+The Corporation may make grants to States or local applicants and may transfer funds tothe Secretary of Agriculture or to the Secretary of the Interior for the creation or expansion of full-time, part-time, year-round, or summer, youth corps programs <sup>1</sup> To the extent practicable, the Corporation shall apply the provisions of division C of this subchapter in making grants under this section.
 
 (Pub. L. 101–610, title I, §199A, formerly §121, Nov. 16, 1990, 104 Stat. 3140; Pub. L. 102–384, §5, Oct. 5, 1992, 106 Stat. 1455; renumbered §199A and amended Pub. L. 103–82, title I, §101(a), (e)(1), (2), Sept. 21, 1993, 107 Stat. 788, 815.)
 

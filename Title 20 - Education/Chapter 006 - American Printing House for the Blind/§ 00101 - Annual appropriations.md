@@ -34,7 +34,7 @@ Section 5 of Pub. L. 87–294 provided that: “The amendments made by this Act 
 
 #### Short Title of 1988 Amendment
 
-Section 401 of title IV of Pub. L. 100–630 provided that: “This title \[amending this section and enacting provisions set out as notes under this section\] may be cited as the ‘American Printing House for the Blind Amendments of 1988’.”
+Section 401 of title IV of Pub. L. 100–630 provided that: “This title \[amending this section and enactingprovisions set out as notes under this section\] may be cited as the ‘American Printing House for the Blind Amendments of 1988’.”
 
 #### Transfer of Functions
 
@@ -51,10 +51,6 @@ Section 404 of Pub. L. 100–630 provided that: “Any and all rights of the Ame
 #### Ineffectiveness of References to Perpetual Trust Fund and Annual Appropriations
 
 Section 405 of Pub. L. 100–630 provided that: “Notwithstanding any Federal law, reference to the perpetual trust fund and permanent annual appropriations thereof established by the Act of March 3, 1879 \[see Codification note above\], shall not be given any effect.”
-
-#### Cross References
-
-Classification of fund for education of the blind as a trust fund, see section 1321 of Title 31, Money and Finance.
 
 #### Section Referred to in Other Sections
 

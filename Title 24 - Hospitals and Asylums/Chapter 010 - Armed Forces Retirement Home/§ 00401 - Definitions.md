@@ -22,7 +22,7 @@ For purposes of this chapter:
 
 &emsp;&emsp;(C) the Deputy Chief of Staff, Manpower and Personnel of the Air Force; and
 
-&emsp;&emsp;(D) the Deputy Chief of Staff for Manpower of the Marine Corps.
+&emsp;&emsp;(D) the Deputy Commandant of the Marine Corps with responsibility for personnel matters.
 
 &emsp;(8) The term “senior noncommissioned officers” means the following:
 
@@ -34,11 +34,15 @@ For purposes of this chapter:
 
 &emsp;&emsp;(D) The Sergeant Major of the Marine Corps.
 
-(Pub. L. 101–510, div. A, title XV, §1502, Nov. 5, 1990, 104 Stat. 1722.)
+(Pub. L. 101–510, div. A, title XV, §1502, Nov. 5, 1990, 104 Stat. 1722; Pub. L. 106–398, §1 \[\[div. A\], title IX, §902(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–224.)
 
 #### References in Text
 
 This chapter, referred to in text, was in the original “this title”, meaning title XV of Pub. L. 101–510, div. A, Nov. 5, 1990, 104 Stat. 1722, as amended, which is classified principally to this chapter. For complete classification of title XV to the Code, see Short Title note below and Tables.
+
+#### Amendments
+
+2000—Par. (7)(D). Pub. L. 106–398 amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “the Deputy Chief of Staff for Manpower of the Marine Corps.”
 
 #### Effective Date
 

@@ -2,11 +2,11 @@
 
 #### (a) Establishment
 
-The Secretary shall establish, at the earliest practicable date, a National Academy for Fire Prevention and Control. The purpose of the Academy shall be to advance the professional development of fire service personnel and of other persons engaged in fire prevention and control activities.
+The Director shall establish, at the earliest practicable date, a National Academy for Fire Prevention and Control. The purpose of the Academy shall be to advance the professional development of fire service personnel and of other persons engaged in fire prevention and control activities.
 
 #### (b) Superintendent
 
-The Academy shall be headed by a Superintendent, who shall be appointed by the Secretary. In exercising the powers and authority contained in this section the Superintendent shall be subject to the direction of the Administrator.
+The Academy shall be headed by a Superintendent, who shall be appointed by the Director. In exercising the powers and authority contained in this section the Superintendent shall be subject to the direction of the Administrator.
 
 #### (c) Powers of Superintendent
 
@@ -18,7 +18,7 @@ The Superintendent is authorized to—
 
 &emsp;(3) conduct courses and programs of training and education, as defined in subsection (d) of this section;
 
-&emsp;(4) appoint faculty members and consultants without regard to the provisions of title 5, governing appointments in the competitive service, and, with respect to temporary and intermittent services, to make appointments to the same extent as is authorized by section 3109 of title 5;
+&emsp;(4) appoint faculty members and consultants without regard to the provisions of title 5, governing appointments in the competitive service, and, with respect to temporary andintermittent services, to make appointments to the same extent as is authorized by section 3109 of title 5;
 
 &emsp;(5) establish fees and other charges for attendance at, and subscription to, courses and programs offered by the Academy. Such fees may be modified or waived as determined by the Superintendent;
 
@@ -70,11 +70,11 @@ The Administrator is authorized to provide assistance to State and local fire se
 
 #### (g) Site selection
 
-The Academy shall be located on such site as the Secretary selects, subject to the following provisions:
+The Academy shall be located on such site as the Director selects, subject to the following provisions:
 
-&emsp;(1) The Secretary is authorized to appoint a Site Selection Board consisting of the Academy Superintendent and two other members to survey the most suitable sites for the location of the Academy and to make recommendations to the Secretary.
+&emsp;(1) The Director is authorized to appoint a Site Selection Board consisting of the Academy Superintendent and two other members to survey the most suitable sites for the location of the Academy and to make recommendations to the Director.
 
-&emsp;(2) The Site Selection Board in making its recommendations and the Secretary in making his final selection, shall give consideration to the training and facility needs of the Academy, environmental effects, the possibility of using a surplus Government facility, and such other factors as are deemed important and relevant. The Secretary shall make a final site selection not later than 2 years after October 29, 1974.
+&emsp;(2) The Site Selection Board in making its recommendations and the Director in making his final selection, shall give consideration to the training and facility needs of the Academy, environmental effects, the possibility of using a surplus Government facility, and such other factors as are deemed important and relevant. The Director shall make a final site selection not later than 2 years after October 29, 1974.
 
 #### (h) Construction costs
 
@@ -90,11 +90,11 @@ The Administrator is authorized to—
 
 &emsp;(3) make or enter into contracts to make payments to institutions of higher education for loans, not to exceed $2,500 per academic year for any individual who is enrolled on a full-time basis in an undergraduate or graduate program of fire research or engineering which is certified by the Superintendent. Loans under this paragraph shall be made on such terms and subject to such conditions as the Superintendent and each institution involved may jointly determine; and
 
-&emsp;(4) establish and maintain a placement and promotion opportunities center in cooperation with the fire services, for firefighters who wish to learn and take advantage of different or better career opportunities. Such center shall not limit such assistance to students and graduates of the Academy, but shall undertake to assist all fire service personnel.
+&emsp;(4) establish and maintain a placement and promotion opportunities center in cooperation with the fire services, for firefighters who wish to learn and take advantage of different orbetter career opportunities. Such center shall not limit such assistance to students and graduates of the Academy, but shall undertake to assist all fire service personnel.
 
 #### (j) Board of Visitors
 
-Upon establishment of the Academy, the Secretary shall establish a procedure for the selection of professionals in the field of fire safety, fire prevention, fire control, research and development in fire protection, treatment and rehabilitation of fire victims, or local government services management to serve as members of a Board of Visitors for the Academy. Pursuant to such procedure, the Secretary shall select eight such persons to serve as members of such Board of Visitors to serve such terms as the Secretary may prescribe. The function of such Board shall be to review annually the program of the Academy and to make comments and recommendations to the Secretary regarding the operation of the Academy and any improvements therein which such Board deems appropriate. Each member of such Board shall be reimbursed for any expenses actually incurred by him in the performance of his duties as a member of such Board.
+Upon establishment of the Academy, the Director shall establish a procedure for the selection of professionals in the field of fire safety, fire prevention, fire control, research and development in fire protection, treatment and rehabilitation of fire victims, or local government services management to serve as members of a Board of Visitors for the Academy. Pursuant to such procedure, the Director shall select eight such persons to serve as members of such Board of Visitors to serve such terms as the Director may prescribe. The function of such Board shall be to review annually the program of the Academy and to make comments and recommendations to the Director regarding the operation of the Academy and any improvements therein which such Board deems appropriate. Each member of such Board shall be reimbursed for any expenses actually incurred by him in the performance of his duties as a member of such Board.
 
 #### (k) Accreditation
 
@@ -104,11 +104,15 @@ The Superintendent is authorized to establish a Committee on Fire Training and E
 
 The Superintendent is authorized to admit to the courses and programs of the Academy individuals who are members of the firefighting, rescue, and civil defense forces of the Nation and such other individuals, including candidates for membership in these forces, as he determines can benefit from attendance. Students shall be admitted from any State, with due regard to adequate representation in the student body of all geographic regions of the Nation. In selecting students, the Superintendent may seek nominations and advice from the fire services and other organizations which wish to send students to the Academy.
 
-(Pub. L. 93–498, §7, Oct. 29, 1974, 88 Stat. 1537.)
+(Pub. L. 93–498, §7, Oct. 29, 1974, 88 Stat. 1537; Pub. L. 106–503, title I, §110(a)(2)(B)(ii), Nov. 13, 2000, 114 Stat. 2302.)
 
 #### References in Text
 
 The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (c)(4), are classified to section 3301 et seq. of Title 5, Government Organization and Employees.
+
+#### Amendments
+
+2000—Subsecs. (a), (b), (g), (j). Pub. L. 106–503 substituted “Director” for “Secretary” wherever appearing.
 
 #### Transfer of Functions
 

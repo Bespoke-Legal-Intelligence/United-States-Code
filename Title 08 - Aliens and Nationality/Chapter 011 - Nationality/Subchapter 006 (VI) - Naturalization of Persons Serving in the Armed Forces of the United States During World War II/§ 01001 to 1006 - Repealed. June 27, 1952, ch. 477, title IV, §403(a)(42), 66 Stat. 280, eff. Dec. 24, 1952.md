@@ -1,6 +1,6 @@
 ### §§1001 to 1006. Repealed. June 27, 1952, ch. 477, title IV, §403(a)(42), 66 Stat. 280, eff. Dec. 24, 1952
 
-Section 1001, act Oct. 14, 1940, ch. 876, title III, §701, as added Mar. 27, 1942, ch. 199, title X, §1001, 56 Stat. 182;amended Dec. 22, 1944, ch. 662, §1, 58 Stat. 886; Dec. 28, 1945, ch. 590, §1(c)(1), 59 Stat. 658, related to exceptions from certain requirements of naturalization of persons serving in the armed forces during World War II. See section 1440 of this title.
+Section 1001, act Oct. 14, 1940, ch. 876, title III, §701, as added Mar. 27, 1942, ch. 199, title X, §1001, 56 Stat. 182; amended Dec. 22, 1944, ch. 662, §1, 58 Stat. 886; Dec. 28, 1945, ch. 590, §1(c)(1), 59 Stat. 658, related to exceptions from certain requirements of naturalization of persons serving in the armed forces during World War II. See section 1440 of this title.
 
 Section 1002, act Oct. 14, 1940, ch. 876, title III, §702, as added Mar. 27, 1942, ch. 199, title X, §1001, 56 Stat. 182; amended Dec. 22, 1944, ch. 662, §2, 58 Stat. 887, related to alien serving outside of jurisdiction of naturalization court. See section 1440 of this title.
 

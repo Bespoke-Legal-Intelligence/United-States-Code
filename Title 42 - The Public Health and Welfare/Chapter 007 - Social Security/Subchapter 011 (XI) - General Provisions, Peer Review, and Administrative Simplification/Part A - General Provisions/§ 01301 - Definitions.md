@@ -18,7 +18,7 @@
 
 &emsp;(8)(A) The “Federal percentage” for any State (other than Puerto Rico, the Virgin Islands, and Guam) shall be 100 per centum less the State percentage; and the State percentage shall be that percentage which bears the same ratio to 50 per centum as the square of the per capita income of such State bears to the square of the per capita income of the United States; except that the Federal percentage shall in no case be less than 50 per centum or more than 65 per centum.
 
-&emsp;(B) The Federal percentage for each State (other than Puerto Rico, the Virgin Islands, and Guam) shall be promulgated by the Secretary between October 1 and November 30 of each year, on the basis of the average per capita income of each State and of the United States for the three most recent calendar years for which satisfactory data are available from the Department of Commerce. Such promulgation shall be conclusive for each of the four quarters in the period beginning October 1 next succeeding such promulgation: <i>Provided</i>, That the Secretary shall promulgate such percentages as soon as possible after August 28, 1958, which promulgation shall be conclusive for each of the eleven quarters in the period beginning October 1, 1958, and ending with the close of June 30, 1961.
+&emsp;(B) The Federal percentage for each State (other than Puerto Rico, the Virgin Islands, and Guam) shall be promulgated by the Secretary between October 1 and November 30 of each year, on the basis of the average per capita income of each State and of the UnitedStates for the three most recent calendar years for which satisfactory data are available from the Department of Commerce. Such promulgation shall be conclusive for each of the four quarters in the period beginning October 1 next succeeding such promulgation: <i>Provided</i>, That the Secretary shall promulgate such percentages as soon as possible after August 28, 1958, which promulgation shall be conclusive for each of the eleven quarters in the period beginning October 1, 1958, and ending with the close of June 30, 1961.
 
 &emsp;(C) The term “United States” means (but only for purposes of subparagraphs (A) and (B) of this paragraph) the fifty States and the District of Columbia.
 
@@ -56,7 +56,7 @@
 
 Part B of subchapter IV of this chapter, referred to in subsec. (a)(1), is classified to section 620 et seq. of this title.
 
-Section 301 of the Social Security Amendments of 1972, referred to in subsec. (a)(1), is section 301 of Pub. L. 92–603, title III, Oct. 30, 1972, 86 Stat. 1465, which enacted sections 1381 to 1382e and 1383 to 1383c of this title.
+Section 301 of the Social Security Amendments of 1972, referred to in subsec. (a)(1), is section 301 of Pub.L. 92–603, title III, Oct. 30, 1972, 86 Stat. 1465, which enacted sections 1381 to 1382e and 1383 to 1383c of this title.
 
 The Internal Revenue Code of 1986, referred to in subsec. (a)(9), is classified generally to Title 26, Internal Revenue Code.
 
@@ -238,7 +238,7 @@ Section 403(b) of act Aug. 28, 1950, provided that the amendment made by that se
 
 #### Effective Date of 1948 Amendment
 
-Section 2(b) of act June 14, 1948, provided that: “The amendment made by subsection (a) \[amending this section\] shall have the same effect as if included in the Social Security Act \[this chapter\] on August 14, 1935, the date of its enactment, but shall not have the effect of voiding any (1) wage credits reported to the Bureau of Internal Revenue \[now Internal Revenue Service\] with respect to services performed prior to the enactment of this Act \[June 14, 1948\] or (2) wage credits with respect to services performed prior to the close of the first calendar quarter which begins after the date of the enactment of this Act in the case of individuals who have attained age sixty-five or who have died, prior to the close of such quarter, and with respect to whom prior to the date of enactment of this Act wage credits were established which would not have been established had the amendment made by subsection (a) been in effect on and after August 14, 1935.”
+Section 2(b) of act June 14, 1948, provided that: “The amendment made by subsection (a) \[amending this section\] shall have the same effect as if included in the Social Security Act \[this chapter\] on August 14, 1935, the date of its enactment, but shall not have the effect of voiding any (1) wage credits reported to the Bureau of Internal Revenue \[now Internal Revenue Service\] withrespect to services performed prior to the enactment of this Act \[June 14, 1948\] or (2) wage credits with respect to services performed prior to the close of the first calendar quarter which begins after the date of the enactment of this Act in the case of individuals who have attained age sixty-five or who have died, prior to the close of such quarter, and with respect to whom prior to the date of enactment of this Act wage credits were established which would not have been established had the amendment made by subsection (a) been in effect on and after August 14, 1935.”
 
 #### Effective Date of 1946 Amendment
 
@@ -293,18 +293,6 @@ Section 702 of Pub. L. 85–840, as amended by Pub. L. 96–88, title V, §509(b
 Section 119 of act Aug. 1, 1956, ch. 836, as amended Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695, provided that: “As used in this Act and in the provisions of the Social Security Act set forth in this Act \[see Short Title of 1956 Amendment note set out under section 1305 of this title\], the term ‘Secretary’ means the Secretary of Health and Human Services.”
 
 Section 114 of title I of act Sept. 1, 1954, as amended Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695, provided that: “As used in the provisions of the Social Security Act amended by this title \[sections 402, 403, 415, and 421 of this title\], the term ‘Secretary’ means the Secretary of Health and Human Services.”
-
-#### Cross References
-
-Aid to the blind, see section 1206 of this title.
-
-Aid to the permanently and totally disabled, see section 1355 of this title.
-
-Employment security administrative expenses, see section 1101 of this title.
-
-Governor, see section 1324 of this title.
-
-Unemployment administrative expenses, see section 1104 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -42,7 +42,7 @@ De minimis countervailable subsidy.—
 
 &emsp;(A)
 
-General rule.—In making a determination under this subsection, the administering authority shall disregard any de minimis countervailable subsidy. For purposes of the preceding sentence, a countervailable subsidy is de minimis if the administering authority determines that the aggregate of the net countervailable subsidies is less than 1 percent ad valorem or the equivalent specific rate for the subject merchandise.
+General rule.—In making a determination under this subsection, the administering authority shall disregard any de minimis countervailable subsidy. For purposes of thepreceding sentence, a countervailable subsidy is de minimis if the administering authority determines that the aggregate of the net countervailable subsidies is less than 1 percent ad valorem or the equivalent specific rate for the subject merchandise.
 
 &emsp;(B)
 
@@ -134,7 +134,7 @@ If the preliminary determination of the administering authority under subsection
 
 #### (1) In general
 
-&emsp;If a petitioner alleges critical circumstances in its original petition, or by amendment at any time more than 20 days before the date of a final determination by the administering authority, then the administering authorityshall promptly (at any time after the initiation of the investigation under this part) determine, on the basis of the information available to it at that time, whether there is a reasonable basis to believe or suspect that—
+&emsp;If a petitioner alleges critical circumstances in its original petition, or by amendment at any time more than 20 days before the date of a final determination by the administering authority, then the administering authority shall promptly (at any time after the initiation of the investigation under this part) determine, on the basis of the information available to it at that time, whether there is a reasonable basis to believe or suspect that—
 
 &emsp;&emsp;(A) the alleged countervailable subsidy is inconsistent with the Subsidies Agreement, and
 
@@ -172,7 +172,7 @@ Whenever the Commission or the administering authority makes a determination und
 
 > &emsp;There may be an extension of time for the making of a final determination under this subsection only if the administering authority determines that such additional time is necessary to make the required determination concerning upstream subsidization.
 
-(June 17, 1930, ch. 497, title VII, §703, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 152; amended Pub. L. 98–181, title VI, §650(b), Nov. 30, 1983, 97 Stat. 1266; Pub. L. 98–573, title VI, §§603, 613(c), Oct. 30, 1984, 98 Stat. 3024, 3036; Pub. L. 99–514, title XVIII, §1886(a)(3), Oct. 22, 1986, 100 Stat. 2921; Pub. L. 100–418, title I, §§1324(a)(2), 1326(d)(1), Aug. 23, 1988, 102 Stat. 1200, 1204; Pub. L. 103–465, title II, §§212(b)(1)(A), (C), (D), (F), 214(a)(1), 215(a), 233(a)(5)(C), (6)(A)(iii), (iv), (B), 263(a), 264(a), (c)(1), (2), 270(a)(1)(B)–(D), (b)(1)(B), 283(a), Dec. 8, 1994, 108 Stat. 4847, 4848, 4850, 4852, 4899, 4901, 4911, 4912, 4914, 4917, 4930; Pub. L. 104–295, §20(b)(5), Oct. 11, 1996, 110 Stat. 3527.)
+(June 17, 1930, ch. 497, title VII, §703, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 152; amended Pub. L. 98–181, title VI, §650(b), Nov. 30, 1983, 97 Stat. 1266; Pub. L. 98–573, title VI, §§603, 613(c), Oct. 30, 1984, 98 Stat. 3024, 3036; Pub. L. 99–514, title XVIII, §1886(a)(3), Oct. 22, 1986, 100 Stat. 2921; Pub. L. 100–418, title I, §§1324(a)(2), 1326(d)(1), Aug. 23, 1988, 102 Stat.1200, 1204; Pub. L. 103–465, title II, §§212(b)(1)(A), (C), (D), (F), 214(a)(1), 215(a), 233(a)(5)(C), (6)(A)(iii), (iv), (B), 263(a), 264(a), (c)(1), (2), 270(a)(1)(B)–(D), (b)(1)(B), 283(a), Dec. 8, 1994, 108 Stat. 4847, 4848, 4850, 4852, 4899, 4901, 4911, 4912, 4914, 4917, 4930; Pub. L. 104–295, §20(b)(5), Oct. 11, 1996, 110 Stat. 3527.)
 
 #### Amendments
 
@@ -250,7 +250,7 @@ Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the d
 
 #### Effective Date of 1988 Amendment
 
-Amendment by section 1324(a)(2) of Pub. L. 100–418 applicable with respect to investigations initiated after Aug. 23, 1988, and amendment by section 1326(d)(1) of Pub. L. 100–418 applicable with respect to investigations initiated after Aug. 23, 1988, and to reviews initiated under section 1673e(c) or 1675 of this title after Aug. 23, 1988, see section 1337(b), (c) of Pub. L. 100–418, set out as a note under section 1671 of this title.
+Amendment by section 1324(a)(2) of Pub. L. 100–418 applicable with respect to investigations initiated after Aug. 23, 1988, and amendment by section 1326(d)(1) of Pub. L. 100–418 applicable with respect to investigations initiated after Aug. 23, 1988, and to reviews initiated under section 1673e(c) or 1675 of this title after Aug. 23,1988, see section 1337(b), (c) of Pub. L. 100–418, set out as a note under section 1671 of this title.
 
 #### Effective Date of 1984 Amendment
 

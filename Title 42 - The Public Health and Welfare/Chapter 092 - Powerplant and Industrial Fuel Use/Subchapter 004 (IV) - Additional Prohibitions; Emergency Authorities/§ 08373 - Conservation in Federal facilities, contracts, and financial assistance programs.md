@@ -38,11 +38,15 @@ The effective date of this chapter, referred to in subsec. (b)(1), is the effect
 
 1992—Subsec. (c). Pub. L. 102–486 struck out subsec. (c), which read as follows: “The President shall annually submit a detailed report to each House of the Congress on the actions taken by the President and each Federal agency to implement this section, including the progress and problems associated with implementation of this section.”
 
-1987—Subsec. (a)(1). Pub. L. 100–42, §1(c)(14)(A), struck out “, major fuel-burning installation, or other unit” after “electric powerplant” and “, installation, or unit” after “such powerplant”.
+1987—Subsec. (a)(1). Pub. L. 100–42, §1(c)(14)(A), struck out “, major fuel-burning installation, or other unit”after “electric powerplant” and “, installation, or unit” after “such powerplant”.
 
 Subsec. (a)(2). Pub. L. 100–42, §1(c)(14)(B), (C), struck out “, installation, or other unit” after “powerplant” in introductory provisions, “, installation, or unit” after “powerplant” in subpar. (A), and last sentence which read as follows: “Any powerplant, installation, or other unit permitted to use natural gas or petroleum under an exemption under this paragraph shall establish and carry out effective fuel conservation measures, as determined by the Secretary.”
 
 Subsec. (a)(3). Pub. L. 100–42, §1(c)(14)(D), struck out par. (3) which read as follows: “Any powerplant, installation, or unit owned or operated by any such Federal agency shall be entitled to any exemption by the Secretary to the same extent, in the same manner, and under the same terms and conditions as would apply if it were owned or operated by a nongovernmental person.”
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the report under the last sentence of subsec. (a)(2) of this section is listed as the 16th item on page 19), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 
 #### Ex. Ord. No. 12185. Effectuation of Conservation of Petroleum and Natural Gas by Recipients of Federal Financial Assistance
 

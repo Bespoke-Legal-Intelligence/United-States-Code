@@ -1,6 +1,6 @@
 ### §326. Maintenance of printing office in Washington, D.C.
 
-When so specified in appropriation Acts, the National Weather Service is authorized to maintain a printing office in the city of Washington for the printing of weather maps, bulletins, circulars, forms, and other publications: <i>Provided</i>, That no printing shall be done by the National Weather Service which could be done at the Government Printing Office without impairing the service of said Service.
+When so specified in appropriation Acts, the National Weather Service is authorized to maintain a printing office in the city of Washington for the printing of weather maps, bulletins, circulars, forms, and other publications: <i>Provided</i>, That no printing shall be done by the NationalWeather Service which could be done at the Government Printing Office without impairing the service of said Service.
 
 (June 2, 1948, ch. 373, §2, 62 Stat. 286; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
 

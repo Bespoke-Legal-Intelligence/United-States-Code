@@ -4,7 +4,3 @@ Any duties devolving upon the Secretary of Agriculture by virtue of the provisio
 
 (Aug. 23, 1935, ch. 623, §17, 49 Stat. 735.)
 
-#### Cross References
-
-Delegation of regulatory functions of Secretary of Agriculture, see section 450c of this title.
-

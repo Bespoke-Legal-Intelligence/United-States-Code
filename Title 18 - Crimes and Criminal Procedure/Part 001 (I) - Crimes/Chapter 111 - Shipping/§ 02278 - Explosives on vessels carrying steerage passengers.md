@@ -24,12 +24,6 @@ Section 151 of Title 46, referred to in text, which was based on section 1 of ac
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000”.
 
-#### Cross References
-
-Regulations for carriage of explosives, see section 3306 of Title 46, Shipping.
-
-Vessels carrying explosives and steerage passengers, fine as lien, see section 3671 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 3671 of this title.

@@ -18,7 +18,7 @@ Project Agreement.—No payment shall be made under this chapter except for a pr
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–178, §1302(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “The Secretary may, in his discretion, from time to time as the work progresses, make payments to a State for costs of construction incurred by it on a project. These payments shall at no time exceed the Federal share of the costs of construction incurred to the date of the voucher covering such payment plus the Federal share of the value of the materials which have been stockpiled in the vicinity of such construction in conformity to plans and specifications for the project. Such payments may also be made in the case of any such materials not in the vicinity of such construction if the Secretary determines that because of required fabrication at an off-site location the materials cannot be stockpiled in such vicinity.”
+1998—Subsec. (a). Pub. L. 105–178, §1302(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “The Secretary may, in his discretion, from time to time as the work progresses, make payments to a State for costs of construction incurred by it on aproject. These payments shall at no time exceed the Federal share of the costs of construction incurred to the date of the voucher covering such payment plus the Federal share of the value of the materials which have been stockpiled in the vicinity of such construction in conformity to plans and specifications for the project. Such payments may also be made in the case of any such materials not in the vicinity of such construction if the Secretary determines that because of required fabrication at an off-site location the materials cannot be stockpiled in such vicinity.”
 
 Subsec. (b). Pub. L. 105–178, §1302(1), added subsec. (b) and struck out former subsec. (b) which read as follows: “After completion of a project in accordance with the plans and specifications, and approval of the final voucher by the Secretary, a State shall be entitled to payment out of the appropriate sums apportioned to it of the unpaid balance of the Federal share payable on account of such project.”
 
@@ -30,7 +30,7 @@ Subsec. (e). Pub. L. 105–178, §1302(3), redesignated subsec. (e) as (c).
 
 Pub. L. 105–178, §1212(a)(2)(A)(i), substituted “State transportation department” for “State highway department”.
 
-1991—Subsec. (d). Pub. L. 102–240 substituted “106(c), 120,” for “120” and struck out at end “Payments forconstruction engineering on any project financed with Federal-aid highway funds shall not exceed 15 percent of the Federal share of the cost of construction of such project after excluding from the cost of construction the costs of rights-of-way, preliminary engineering, and construction engineering.”
+1991—Subsec. (d). Pub. L. 102–240 substituted “106(c), 120,” for “120” and struck out at end “Payments for construction engineering on any project financed with Federal-aid highway funds shall not exceed 15 percent of the Federal share of the cost of construction of such project after excluding from the cost of construction the costs of rights-of-way, preliminary engineering, and construction engineering.”
 
 1987—Subsec. (d). Pub. L. 100–17 substituted “15 percent” for “10 per centum” and struck out at end “However, this limitation shall be 15 per centum in any State with respect to which the Secretary finds such higher limitation to be necessary.”
 

@@ -24,19 +24,9 @@ This section corrects a typographical error in section 1741 of title 28, U.S.C.
 
 #### Amendments
 
-1964—Pub. L. 88–619 substituted “An official record or document of a foreign country may be evidenced by a copy, summary, or excerpt authenticated as provided in the Federal Rules of Civil Procedure” for “A copy of any foreign document of record or on file in a public office of a foreign country or political subdivision thereof, certified by the lawful custodian thereof, shall be admissible in evidence when authenticated by a certificate of a consular officer of the United States resident in such foreign country, under the seal of his office, that the copy has been certified by the lawful custodian” in text, and “official documents” for “documents, generally; copies” in section catchline.
+<b>1964</b>—Pub. L. 88–619 substituted “An official record or document of a foreign country may be evidenced by a copy, summary, or excerpt authenticated as provided in the Federal Rules of Civil Procedure” for “A copy of any foreign document of record or on file in a public office of a foreign country or political subdivision thereof, certified by the lawful custodian thereof, shall be admissible in evidence when authenticated by a certificate of a consular officer of the United States resident in such foreign country, under the seal of his office, that the copy has been certified by the lawful custodian” in text, and “official documents” for “documents, generally; copies” in section catchline.
 
-1949—Act May 24, 1949, corrected spelling of “admissible”.
-
-#### Federal Rules of Civil Procedure
-
-Authentication of copy of official record, see rule 44 Appendix to this title.
-
-Effect of rule 44 on former section 695e of this title, see note by Advisory Committee under rule 44.
-
-#### Federal Rules of Criminal Procedure
-
-Criminal cases, proof of official record, see rule 27, Title 18, Appendix, Crimes and Criminal Procedure.
+<b>1949</b>—Act May 24, 1949, corrected spelling of “admissible”.
 
 #### Section Referred to in Other Sections
 

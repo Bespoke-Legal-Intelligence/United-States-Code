@@ -10,9 +10,9 @@ The Corporation shall be a for-profit corporation established under the laws of 
 
 #### (c) Incorporators
 
-(1) The members of the executive committee of the Association shall be the incorporators ofthe Corporation and shall take whatever steps are necessary to establish the Corporation, including the filing of articles of incorporation.
+(1) The members of the executive committee of the Association shall be the incorporators of the Corporation and shall take whatever steps are necessary to establish the Corporation, including the filing of articles of incorporation.
 
-(2) Notwithstanding any provision of State law, after February 5, 1976, the members of the executive committee of the Association (including duly authorized representatives of members who are authorized by this chapter to be represented) and the chief executive officer and chief operating officer of the Corporation shall adopt the bylaws of the Corporation and serve as the Board of Directors of the Corporation until all members of the Board of Directors of the Corporation have been selected in accordance with subsection (d) of this section. The chief executive officer shall serve as chairman of such Board until a chairman thereof is selected pursuant to subsection (d) of this section, after which time such chairman shall serve at the pleasure of such Board.
+(2) Notwithstanding any provision of State law, after February 5, 1976, the members of the executive committee of the Association (including duly authorized representatives of members who are authorized by this chapter to be represented) and the chief executive officer and chief operating officer of the Corporation shall adopt the bylaws of the Corporation and serve as the Board of Directors of the Corporation until all members of the Board of Directors of the Corporation have been selected in accordance with subsection (d) of this section. The chief executive officer shall serve as chairman of suchBoard until a chairman thereof is selected pursuant to subsection (d) of this section, after which time such chairman shall serve at the pleasure of such Board.
 
 #### (d) Board of Directors
 
@@ -46,7 +46,7 @@ The Corporation shall transmit to the Congress and the President, not later than
 
 #### (i) Liability of directors
 
-No director of the Corporation shall be liable, for money damages or otherwise, to any party by reason of the fact that such person is or was a director, if, with respect to the subject matter of the action, suit, or proceeding, such person was fulfilling a duty which he in good faith reasonably believed to be required by law or vested in him in his capacity as a director of the Association or as an officer of the United States. The United States shall indemnify such person against all judgments, amounts paid in settlement, and costs and expenses (including fees of accountants, experts, and attorneys), actually and reasonably incurred in connection with anysuch action, suit, or proceeding in which such person is determined to have met such standard of conduct. This subsection shall not be construed to grant any immunity from any criminal law of the United States.
+No director of the Corporation shall be liable, for money damages or otherwise, to any party by reason of the fact that such person is or was a director, if, with respect to the subject matter of the action, suit, or proceeding, such person was fulfilling a duty which he in good faith reasonably believed to be required by law or vested in him in his capacity as a director of the Association or as an officer of the United States. The United States shall indemnify such person against all judgments, amounts paid in settlement, and costs and expenses (including fees of accountants, experts, and attorneys), actually and reasonably incurred in connection with any such action, suit, or proceeding in which such person is determined to have met such standard of conduct. This subsection shall not be construed to grant any immunity from any criminal law of the United States.
 
 #### (j) Signal systems
 
@@ -54,7 +54,7 @@ If, within two years after August 13, 1981, the Corporation applies for the perm
 
 #### (k) Governing provisions after sale
 
-The provisions of this chapter shall not apply to the Corporation and to activities and other actions and responsibilities of the Corporation and its directors and employees after the sale date, other than with regard to—
+The provisions of this chapter shall not apply to the Corporation and to activities and otheractions and responsibilities of the Corporation and its directors and employees after the sale date, other than with regard to—
 
 &emsp;(1) section 702 of this title;
 
@@ -173,6 +173,10 @@ Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 1
 #### Effective Date of 1981 Amendment
 
 Amendment by Pub. L. 97–35 effective Aug. 13, 1981, see section 1169 of Pub. L. 97–35, set out as an Effective Date note under section 1101 of this title.
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (h) of this section relating to the requirement that the Corporation transmit an annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 7th item on page 199 of House Document No. 103–7.
 
 #### Abolition of Special Court, Regional Rail Reorganization Act of 1973, and Transfer of Functions
 

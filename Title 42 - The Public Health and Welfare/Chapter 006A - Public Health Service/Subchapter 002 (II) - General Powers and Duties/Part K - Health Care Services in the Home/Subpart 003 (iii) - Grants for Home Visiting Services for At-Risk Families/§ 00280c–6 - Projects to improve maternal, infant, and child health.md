@@ -24,7 +24,7 @@
 
 &emsp;(A) Subject to subparagraph (B), the Secretary may make a grant under paragraph (1) only if, in the case of any service under such paragraph that is covered in the State plan approved under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] for the State involved—
 
-&emsp;&emsp;(i) the entity involved will provide the service directly, and the entity has entered into a participation agreement under the State plan and is qualified to receive payments under such plan; or
+&emsp;&emsp;(i) the entity involved will provide the service directly, and the entity has enteredinto a participation agreement under the State plan and is qualified to receive payments under such plan; or
 
 &emsp;&emsp;(ii) the entity will enter into an agreement with an organization under which the organization will provide the service, and the organization has entered into such a participation agreement and is qualified to receive such payments.
 
@@ -120,7 +120,7 @@ Each grantee under subsection (a) of this section shall provide outreach and cas
 
 #### (h) Confidentiality
 
-In accordance with applicable State law, an entity receiving a grant under subsection (a) ofthis section shall maintain confidentiality with respect to services provided to families under this section.
+In accordance with applicable State law, an entity receiving a grant under subsection (a) of this section shall maintain confidentiality with respect to services provided to families under this section.
 
 #### (i) Certain assurances
 
@@ -280,7 +280,7 @@ Amendment by Pub. L. 103–448 effective Oct. 1, 1994, see section 401 of Pub. L
 
 #### Effective Date
 
-Section effective July 10, 1992, with programs making awards providing financial assistance in fiscal year 1993 and subsequent years effective for awards made on or after Oct. 1, 1992, see section 801(b), (d)(1) of Pub. L.102–321, set out as an Effective Date of 1992 Amendment note under section 236 of this title.
+Section effective July 10, 1992, with programs making awards providing financial assistance in fiscal year 1993 and subsequent years effective for awards made on or after Oct. 1, 1992, see section 801(b), (d)(1) of Pub. L. 102–321, set out as an Effective Date of 1992 Amendment note under section 236 of this title.
 
 #### Reference to Community, Migrant, Public Housing, or Homeless Health Center Considered Reference to Health Center
 

@@ -14,6 +14,32 @@ As used in this subchapter:
 
 The Communications Act of 1934, referred to in par. (3), is act June 19, 1934, ch. 652, 48 Stat. 1064, as amended, which is classified principally to chapter 5 (§151 et seq.) of this title. For complete classification of this Act to the Code, see section 609 of this title and Tables.
 
+#### Study and Report on Current and Future Spectrum Use
+
+Pub. L. 106–553, §1(a)(2) \[title II\], Dec. 21, 2000, 114 Stat. 2762, 2762A–73, provided in part: “That the Administrator shall, after consultation with other federal departments and agencies responsible for regulating the core operations of entities engaged in the provision of energy, water and railroad services, complete and submit to Congress, not later than twelve months after date of enactment of this subsection, a study of the current and future use of spectrum by these entities to protect and maintain the nation's critical infrastructure: <i>Provided further</i>, That within six months after the release of this study, the Chairman of the Federal Communications Commission shall submit a report to Congress on the actions that could be taken by the Commission to address any needs identified in the Administrator's study.”
+
+#### Report on Progress on Spectrum Sharing
+
+Pub. L. 106–398, §1 \[\[div. A\], title XVII, §1705\], Oct. 30, 2000, 114 Stat. 1654, 1654A–366, provided that:
+
+“(a)
+
+Study Required.—The Secretary of Defense, in consultation with the Attorney General and the Secretary of Commerce, shall provide for the conduct of an engineering study to identify—
+
+&emsp;“(1) any portion of the 138–144 megahertz band that the Department of Defense can share in various geographic regions with public safety radio services;
+
+&emsp;“(2) any measures required to prevent harmful interference between Department of Defense systems and the public safety systems proposed for operation on those frequencies; and
+
+&emsp;“(3) a reasonable schedule for implementation of such sharing of frequencies.
+
+“(b)
+
+Submission of Interim Report.—Within one year after the date of the enactment of this Act \[Oct. 30, 2000\], the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives an interim report on the progress of the study conducted pursuant to subsection (a).
+
+“(c)
+
+Report.—Not later than January 1, 2002, the Secretary of Commerce and the Chairman of the Federal Communications Commission shall jointly submit a report to Congress on alternative frequencies available for use by public safety systems.”
+
 #### Surrender of Department of Defense Spectrum
 
 Pub. L. 106–65, div. A, title X, §1062(b), Oct. 5, 1999, 113 Stat. 768, provided that:
@@ -24,7 +50,7 @@ In general.—If, in order to make available for other use a band of frequencies
 
 &emsp;“(A) the National Telecommunications and Information Administration, in consultation with the Federal Communications Commission, identifies and makes available to the Department for its primary use, if necessary, an alternative band or bands of frequencies as a replacement for the band to be so surrendered; and
 
-&emsp;“(B) the Secretary of Commerce, the Secretary of Defense, and the Chairman of the Joint Chiefs of Staff jointly certify to the Committee on Armed Services and the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Armed Services and the Committee on Commerce of the House of Representatives, that such alternative band or bands provides comparable technical characteristics to restore essential military capability that will be lost as a result of the band of frequencies to be so surrendered.
+&emsp;“(B) the Secretary of Commerce, the Secretary of Defense, and the Chairman of the Joint Chiefs of Staff jointly certify to the Committee on Armed Services and the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Armed Services and the Committee on Commerce \[now Committee on Energy and Commerce\] of the House of Representatives, that such alternative band or bands provides comparable technical characteristics to restore essential military capability that will be lost as a result of the band of frequencies to be so surrendered.
 
 “(2)
 
@@ -76,5 +102,5 @@ Attention to particular subjects required.—In the conduct of the review and as
 
 “(b)
 
-Submission of Report.—The Secretary of Commerce, in coordination with the heads of the affected Federal executive agencies, and the Chairman of the Federal Communications Commission shall submit to the President, the Committee on Armed Services and the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Armed Services, the Committee on Commerce, and the Committee on Science of the House of Representatives, not later than October 1, 2000, a report providing the results of the assessment required by subsection (a).”
+Submission of Report.—The Secretary of Commerce, in coordination with the heads of the affected Federal executive agencies, and the Chairman of the Federal Communications Commission shall submit to the President, the Committee on Armed Services and the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Armed Services, the Committee on Commerce \[now Committee on Energy and Commerce\], and the Committee on Science of the House of Representatives, not later than October 1, 2000, a report providing the results of the assessment required by subsection (a).”
 

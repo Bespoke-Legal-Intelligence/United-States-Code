@@ -42,7 +42,7 @@ Section 13 of Pub. L. 91–375 provided that:
 
 “(a) \[<i>Methods of Appointment; Order of precedence; Status of Postmasters in Office</i>\] Between the date of enactment of this Act \[Aug. 12, 1970\] and the date on which the Board of Governors of the United States Postal Service determines that section 1001 of title 39, United States Code (as enacted by section 2 of this Act), is effective, the Postmaster General shall appoint postmasters at offices of all classes in the competitive civil service by one of the three following methods which shall be applied in the following order of precedence:
 
-&emsp;“(1) by selection of a qualified employee serving at the post office where the vacancy occurs, including an acting postmaster who was serving on January 1, 1969, who shall acquire a competitive status upon being appointed postmaster;
+&emsp;“(1) by selection of a qualified employee serving at the post office where the vacancy occurs, includingan acting postmaster who was serving on January 1, 1969, who shall acquire a competitive status upon being appointed postmaster;
 
 &emsp;“(2) if no qualified employee serving at the post office where the vacancy occurs is available for, and willing to accept, appointment by the method described in subparagraph (1), by selection of a qualified employee serving in the postal field service; or
 

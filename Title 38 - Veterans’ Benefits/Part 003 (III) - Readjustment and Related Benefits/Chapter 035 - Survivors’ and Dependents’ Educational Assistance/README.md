@@ -64,6 +64,7 @@
 | [3561\.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous%20Provisions/%C2%A7%2003561%20-%20Authority%20and%20duties%20of%20Secretary.md) | Authority and duties of Secretary. |
 | [3562\.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous%20Provisions/%C2%A7%2003562%20-%20Nonduplication%20of%20benefits.md) | Nonduplication of benefits. |
 | [3563\.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous%20Provisions/%C2%A7%2003563%20-%20Notification%20of%20eligibility.md) | Notification of eligibility. |
+| [3564\.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous%20Provisions/%C2%A7%2003564%20-%20Annual%20adjustment%20of%20amounts%20of%20educational%20assistance.md) | Annual adjustment of amounts of educational assistance. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -77,6 +78,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2000—Pub. L. 106–419, title I, §111(f)(1)(B), Nov. 1, 2000, 114 Stat. 1831, added item 3564.
 
 1991—Pub. L. 102–83, §5(b)(1), Aug. 6, 1991, 105 Stat. 406, renumbered items 1700 to 1766 as 3500 to 3566, respectively.
 
@@ -106,7 +109,7 @@ Pub. L. 89–358, §3(a)(10), Mar. 3, 1966, 80 Stat. 21, struck out items 1726, 
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 101, 103, 104, 111, 113, 1718, 1804, 3033, 3485, 3670, 3671, 3672, 3673, 3674, 3680, 3680A, 3681, 3682, 3683, 3684, 3685, 3687, 3688, 3690, 3692, 3693, 3694, 3695, 3696, 3697, 4213, 5113 of this title; title 2 section 905; title 5 sections 5569, 8525; title 10 sections 2182, 2185; title 20 section 1087vv; title 26 sections 25A, 135, 6334.
+This chapter is referred to in sections 101, 103, 104, 111, 113, 1718, 1804, 3033, 3485, 3670, 3671, 3672, 3673, 3674, 3680, 3680A, 3681, 3682, 3683, 3684, 3685, 3687, 3688, 3689, 3690, 3692, 3693, 3694, 3695, 3696, 3697, 4213, 5113 of this title; title 2 section 905; title 5 sections 5569, 8525; title 10 sections 2182, 2185; title 20 section 1087vv; title 26 sections 25A, 135, 6334.
 
 
 ---

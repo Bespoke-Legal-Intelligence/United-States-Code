@@ -14,7 +14,7 @@ Act Sept. 19, 1890, ch. 907, §10, 26 Stat. 454, was probably omitted from the C
 
 “The creation of any obstruction, not affirmatively authorized by law, to the navigable capacity of any waters, in respect of which the United States has jurisdiction, is hereby prohibited. The continuance of any such obstruction, except bridges, piers, docks, and wharves, and similar structures erected for business purposes, whether heretofore or hereafter created, shall constitute an offense and each week's continuance of any such obstruction shall be deemed a separate offense. Every person and every corporation which shall be guilty of creating or continuing any such unlawful obstruction in this act mentioned, or who shall violate the provisions of the last four preceding sections of this act, shall be deemed guilty of a misdemeanor, and on conviction thereof shall be punished by a fine not exceeding five thousand dollars, or by imprisonment (in the case of a natural person) not exceeding one year, or by both such punishments, in the discretion of the court, the creating or continuing of any unlawful obstruction in this act mentioned may be prevented and such obstruction may be caused to be removed by the injunction of any circuit court \[district court\] exercising jurisdiction in any district in which such obstruction may be threatened or may exist; and proper proceedings in equity to this end may be instituted under the direction of the Attorney-General of the United States.”
 
-This section and section 9 of act Mar. 3, 1899 (section 401 of this title), superseded provisions of act Sept. 19,1890, ch. 907, §7, 26 Stat. 454, as amended by act July 13, 1892, ch. 158, §3, 27 Stat. 110, which prohibited the erection of obstructions to navigation, and prohibited the erection of bridges over navigable waters under State legislation before the approval of the plans by the Secretary of War, and prohibited the alteration of channels unless authorized by said Secretary.
+This section and section 9 of act Mar. 3, 1899 (section 401 of this title), superseded provisions of act Sept. 19, 1890, ch. 907, §7, 26 Stat. 454, as amended by act July 13, 1892, ch. 158, §3, 27 Stat. 110, which prohibited the erection of obstructions to navigation, and prohibited the erection of bridges over navigable waters under State legislation before the approval of the plans by the Secretary of War, and prohibited the alteration of channels unless authorized by said Secretary.
 
 #### Change of Name
 
@@ -26,23 +26,7 @@ Enforcement functions of Secretary of the Army, Chief of Engineers, or other off
 
 Functions, powers, and duties of Secretary of the Army and other offices and officers of Department of the Army under section 401 of this title to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670 §6(g)(6)(A), Oct. 15, 1966, 80 Stat. 941. Pub. L. 97–449 amended section 401 of this title to reflect transfer made by section 6(g)(6)(A) of Pub. L. 89–670, and repealed section 6(g)(6)(A).
 
-#### Cross References
-
-Bridges over navigable waters, see section 491 et seq. of this title.
-
-Expenses of investigations by Department of the Army, see section 417 of this title.
-
-Portion of west arm of South Fork of the South Branch of Chicago River in city of Chicago not to be subject to this section, see section 27 of this title.
-
-Secretary of the Army to make navigation rules for—
-
-&emsp;&emsp;Ambrose channel, see section 453 of this title.
-
-&emsp;&emsp;South and Southwest Passes of Mississippi River, see section 2 of this title.
-
-Violations as misdemeanors, see section 406 of this title.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 27, 59c–3, 59j–1, 59y, 59bb, 59cc, 59dd, 59ff, 59gg, 59hh, 403b, 406, 412, 413, 418, 426p, 465, 1371, 1503, 2104, 2317 of this title.
+This section is referred to in sections 27, 59c–3, 59j–1, 59y, 59bb, 59bb–1, 59cc, 59dd, 59ff, 59gg, 59hh, 403b, 406, 412, 413, 418, 426p, 465, 1371, 1503, 2104, 2317 of this title.
 

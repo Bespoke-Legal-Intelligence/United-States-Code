@@ -145,7 +145,7 @@ The Trade-Mark Act of 1905 superseded the Trade-Mark Act of Mar. 3, 1881, ch. 13
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in section 1129 of this title; title 18 section 2320; title 19 section 1337; title 22 section 2141c; title 36 section 220506; title 48 section 1643.
+This chapter is referred to in section 1129 of this title; title 18 section 2320; title 19 section 1337; title 36 section 220506; title 48 section 1643.
 
 
 ---

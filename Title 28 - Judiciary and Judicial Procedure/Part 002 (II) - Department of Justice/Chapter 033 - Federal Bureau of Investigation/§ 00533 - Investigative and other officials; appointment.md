@@ -26,7 +26,7 @@ Historical and Revision Notes
 
 Aug. 31, 1964, Pub. L. 88–527, §201 (1st 105 words of 1st par. under “Federal Bureau of Investigation”, less applicability to acquisition etc. of identification and other records), 78 Stat. 717.
 
-The section is from the Department of Justice Appropriation Act, 1965. Similar provisions were contained ineach appropriation Act for the Department running back to 1921, which Acts are identified in a note under sections 299 and 300 of title 5, U.S.C. 1964 ed.
+The section is from the Department of Justice Appropriation Act, 1965. Similar provisions were contained in each appropriation Act for the Department running back to 1921, which Acts are identified in a note under sections 299 and 300 of title 5, U.S.C. 1964 ed.
 
 The section is reorganized for clarity. The authority to appoint officials for the cited purposes is implied. The word “may” is substituted for “is authorized to”. The words “who shall be vested with the authority necessary for the execution of such duties” are omitted as unnecessary as the appointment of the officials for the purposes indicated carries with it the authority necessary to perform their duties.
 

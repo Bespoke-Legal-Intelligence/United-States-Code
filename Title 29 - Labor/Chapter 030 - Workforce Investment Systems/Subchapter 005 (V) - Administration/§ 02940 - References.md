@@ -4,13 +4,13 @@
 
 Except as otherwise specified, a reference in a Federal law (other than a reference in a provision amended by the Reading Excellence Act) to a provision of the Comprehensive Employment and Training Act—
 
-&emsp;(1) effective on August 7, 1998, shall be deemed to refer to the corresponding provision of the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\] or of the Workforce Investment Act of 1998; and
+&emsp;(1) effective on August 7, 1998, shall be deemed to refer to the corresponding provision of the Job Training Partnership Act or of the Workforce Investment Act of 1998; and
 
 &emsp;(2) effective on July 1, 2000, shall be deemed to refer to the corresponding provision of the Workforce Investment Act of 1998.
 
 #### (b) References to Job Training Partnership Act
 
-Except as otherwise specified, a reference in a Federal law (other than a reference in this Act or a reference in a provision amended by the Reading Excellence Act) to a provision of the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\]—
+Except as otherwise specified, a reference in a Federal law (other than a reference in this Act or a reference in a provision amended by theReading Excellence Act) to a provision of the Job Training Partnership Act—
 
 &emsp;(1) effective on August 7, 1998, shall be deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998; and
 
@@ -24,7 +24,7 @@ The Comprehensive Employment and Training Act, referred to in subsec. (a), is Pu
 
 The Reading Excellence Act, referred to in text, is section 101(f) \[title VIII\] of Pub. L. 105–277, div. A, Oct. 21, 1998, 112 Stat. 2681–337, 2681–391. The provisions of title VIII of section 101(f) appear at 112 Stat. 2681–391 to 2681–435. For complete classification of this Act to the Code, see Tables.
 
-The Job Training Partnership Act, referred to in text, is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of this title and Tables.
+The Job Training Partnership Act, referred to in subsecs. (a)(1) and (b), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which was classified generally to chapter 19 (§1501 et seq.) of this title, prior to repeal by Pub. L. 105–220, title I, §199(b)(2), Aug. 7, 1998, 112 Stat. 1059. For complete classification of this Act to the Code, see Tables.
 
 The Workforce Investment Act of 1998, referred to in text, is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 

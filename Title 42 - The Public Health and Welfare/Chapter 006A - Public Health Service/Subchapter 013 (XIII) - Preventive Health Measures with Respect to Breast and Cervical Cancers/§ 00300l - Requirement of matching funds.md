@@ -12,7 +12,7 @@ The Secretary may not make a grant under section 300k of this title unless the S
 
 #### (2) Maintenance of effort
 
-&emsp;In making a determination of the amount of non-Federal contributions for purposes of subsection (a) of this section, the Secretary may include only non-Federal contributions in excess of the average amount of non-Federalcontributions made by the State involved toward the purpose described in section 300k of this title for the 2-year period preceding the first fiscal year for which the State is applying to receive a grant under such section.
+&emsp;In making a determination of the amount of non-Federal contributions for purposes of subsection (a) of this section, the Secretary may include only non-Federal contributions in excess of the average amount of non-Federal contributions made by the State involved toward the purpose described in section 300k of this title for the 2-year period preceding the first fiscal year for which the State is applying to receive a grant under such section.
 
 #### (3) Inclusion of relevant non-Federal contributions for medicaid
 

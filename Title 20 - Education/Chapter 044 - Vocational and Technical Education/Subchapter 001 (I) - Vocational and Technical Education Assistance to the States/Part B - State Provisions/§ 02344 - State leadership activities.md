@@ -24,7 +24,7 @@ The State leadership activities described in subsection (a) of this section shal
 
 &emsp;&emsp;(B) will help teachers and personnel to assist students in meeting the State adjusted levels of performance established under section 2323 of this title;
 
-&emsp;&emsp;(C) will support education programs for teachers of vocational and technical education in public schools and other public school personnel who are involved in the direct delivery of educational services to vocational and technical education students to ensure that such teachers stay current with the needs, expectations, and methods of industry; and
+&emsp;&emsp;(C) will support education programs for teachers of vocational and technical education in public schools and other public school personnel who are involved in the direct delivery of educational services to vocational and technical education students toensure that such teachers stay current with the needs, expectations, and methods of industry; and
 
 &emsp;&emsp;(D) is integrated with the professional development activities that the State carries out under title II of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6601 et seq.) and title II of the Higher Education Act of 1965 \[20 U.S.C. 1021 et seq.\];
 

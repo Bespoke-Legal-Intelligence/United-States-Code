@@ -1,6 +1,6 @@
 ### §3019. General Counsel
 
-(a) There is a General Counsel of the Department of the Army, appointed from civilian lifeby the President, by and with the advice and consent of the Senate.
+(a) There is a General Counsel of the Department of the Army, appointed from civilian life by the President, by and with the advice and consent of the Senate.
 
 (b) The General Counsel shall perform such functions as the Secretary of the Army may prescribe.
 
@@ -17,8 +17,4 @@ A prior section 3019 was renumbered section 3038 of this title.
 #### Effective Date of 1988 Amendment
 
 Section 703(c) of Pub. L. 100–456 provided that: “The amendments made by this section \[amending this section and sections 5019 and 8019 of this title\] shall apply to appointments made under sections 3019, 5019, and 8019, respectively, of title 10, United States Code, on and after the date of the enactment of this Act \[Sept. 29, 1988\].”
-
-#### Cross References
-
-Compensation of General Counsel of Department of the Army, see section 5316 of Title 5, Government Organization and Employees.
 

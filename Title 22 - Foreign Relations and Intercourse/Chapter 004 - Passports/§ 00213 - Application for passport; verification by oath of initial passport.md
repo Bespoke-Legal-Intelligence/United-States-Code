@@ -46,14 +46,6 @@ Requirements.—
 
 Exceptions.—The regulations required by subsection (a) may provide for exceptions in exigent circumstances, such as those involving the health or welfare of the child, or when the Secretary determines that issuance of a passport is warranted by special family circumstances.”
 
-#### Cross References
-
-Definition of United States as used in this section, see section 408a of this title.
-
-False statement in application and use of passport, penalty, see section 1542 of Title 18, Crimes and Criminal Procedure.
-
-Letters or writings nonmailable, see section 1717 of Title 18.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 408a of this title.

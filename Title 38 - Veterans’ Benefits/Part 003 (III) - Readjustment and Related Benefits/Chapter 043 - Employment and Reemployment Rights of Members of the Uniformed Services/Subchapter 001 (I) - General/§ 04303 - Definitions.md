@@ -4,7 +4,7 @@ For the purposes of this chapter—
 
 &emsp;(1) The term “Attorney General” means the Attorney General of the United States or any person designated by the Attorney General to carry out a responsibility of the Attorney General under this chapter.
 
-&emsp;(2) The term “benefit”, “benefit of employment”, or “rights and benefits” means any advantage, profit, privilege, gain, status, account, or interest (other than wages or salary for work performed) that accrues by reason of an employment contract or agreement or an employer policy, plan, or practice and includes rights and benefits under a pension plan, a health plan, an employee stock ownership plan, insurance coverage and awards, bonuses, severance pay, supplemental unemployment benefits, vacations, and the opportunity to select work hours or location of employment.
+&emsp;(2) The term “benefit”, “benefit of employment”, or “rights and benefits” means any advantage, profit, privilege, gain, status, account, or interest (other than wages or salary for work performed) that accrues by reason of an employment contract or agreement or an employer policy, plan, or practice and includes rights and benefits under a pension plan, a health plan, an employee stock ownership plan, insurance coverage and awards, bonuses, severance pay, supplemental unemploymentbenefits, vacations, and the opportunity to select work hours or location of employment.
 
 &emsp;(3) The term “employee” means any person employed by an employer. Such term includes any person who is a citizen, national, or permanent resident alien of the United States employed in a workplace in a foreign country by an employer that is an entity incorporated or otherwise organized in the United States or that is controlled by an entity organized in the United States, within the meaning of section 4319(c) of this title.
 
@@ -40,7 +40,7 @@ For the purposes of this chapter—
 
 &emsp;(12) The term “seniority” means longevity in employment together with any benefits of employment which accrue with, or are determined by, longevity in employment.
 
-&emsp;(13) The term “service in the uniformed services” means the performance of duty on a voluntary or involuntary basis in a uniformed service under competent authority and includes active duty, active duty for training, initial active duty for training, inactive duty training, full-time National Guard duty, and a period for which a person is absent from a position of employment for the purpose of an examination to determine the fitness of the person to perform any such duty.
+&emsp;(13) The term “service in the uniformed services” means the performance of duty on a voluntary or involuntary basis in a uniformed service under competent authority and includes active duty, active duty for training, initial active duty for training, inactive duty training, full-time National Guard duty, a period for which a person is absent from a position of employment for the purpose of an examination to determine the fitness of the person to perform any such duty, and a period for which a person is absent from employment for the purpose of performing funeral honors duty as authorized by section 12503 of title 10 or section 115 of title 32..<sup>1</sup>
 
 &emsp;(14) The term “State” means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands, and other territories of the United States (including the agencies and political subdivisions thereof).
 
@@ -52,23 +52,31 @@ For the purposes of this chapter—
 
 &emsp;&emsp;(C) the overall financial resources of the employer; the overall size of the business of an employer with respect to the number of its employees; the number, type, and location of its facilities; and
 
-&emsp;&emsp;(D) the type of operation or operations of the employer, including the composition,structure, and functions of the work force of such employer; the geographic separateness, administrative, or fiscal relationship of the facility or facilities in question to the employer.
+&emsp;&emsp;(D) the type of operation or operations of the employer, including the composition, structure, and functions of the work force of such employer; the geographic separateness, administrative, or fiscal relationship of the facility or facilities in question to the employer.
 
 &emsp;(16) The term “uniformed services” means the Armed Forces, the Army National Guard and the Air National Guard when engaged in active duty for training, inactive duty training, or full-time National Guard duty, the commissioned corps of the Public Health Service, and any other category of persons designated by the President in time of war or national emergency.
 
-(Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3150; amended Pub. L. 104–275, title III, §311(2), Oct. 9, 1996, 110 Stat. 3334; Pub. L. 105–368, title II, §212(a), Nov. 11, 1998, 112 Stat. 3331.)
+(Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3150; amended Pub. L. 104–275, title III, §311(2), Oct. 9, 1996, 110 Stat. 3334; Pub. L. 105–368, title II, §212(a), Nov. 11, 1998, 112 Stat. 3331; Pub. L. 106–419, title III, §323(a), Nov. 1, 2000, 114 Stat. 1855.)
 
 #### Prior Provisions
 
-A prior section 4303, applicable to reemployments initiated before the end of the 60-day period beginning Oct. 13, 1994, is contained in chapter 43 set out as a note preceding this subchapter.
+A prior section 4303, added Pub. L. 93–508, title IV, §404(a), Dec. 3, 1974, 88 Stat. 1596, §2023; amended Pub. L. 97–295, §4(72), Oct. 12, 1982, 96 Stat. 1310; renumbered §4303 and amended Pub. L. 102–568, title V, §506(a), (c)(2), Oct. 29, 1992, 106 Stat. 4340, 4341, related to reemployment by the United States, by any territory, possession, or political subdivision thereof, or by the District of Columbia, prior to the general amendment of this chapter by Pub. L. 103–353. This section, as in effect on the day before Oct. 13, 1994, continues to apply to reemployments initiated before the end of the 60-day period beginning Oct. 13, 1994, see section 8 of Pub. L. 103–353, as amended, set out as an Effective Date under section 4301 of this title.
 
 Another prior section 4303 was renumbered section 7603 of this title.
 
 #### Amendments
 
+2000—Par. (13). Pub. L. 106–419, §323(a)(2), inserted before period at end “, and a period for which a person is absent from employment for the purpose of performing funeral honors duty as authorized by section 12503 of title 10 or section 115 of title 32.”
+
+Pub. L. 106–419, §323(a)(1), which directed the amendment of par. (13) by striking out “and” after “National Guard duty”, was executed by striking out “and” after “National Guard duty,” to reflect the probable intent of Congress.
+
 1998—Par. (3). Pub. L. 105–368 inserted at end “Such term includes any person who is a citizen, national, or permanent resident alien of the United States employed in a workplace in a foreign country by an employer that is an entity incorporated or otherwise organized in the United States or that is controlled by an entity organized in the United States, within the meaning of section 4319(c) of this title.”
 
 1996—Par. (16). Pub. L. 104–275 inserted “national” before “emergency”.
+
+#### Effective Date of 2000 Amendment
+
+Pub. L. 106–419, title III, §323(c), Nov. 1, 2000, 114 Stat. 1856, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 4316 of this title\] shall take effect 180 days after the date of the enactment of this Act \[Nov. 1, 2000\].”
 
 #### Effective Date of 1998 Amendment
 
@@ -85,4 +93,6 @@ Section effective with respect to reemployments initiated on or after the first 
 #### Section Referred to in Other Sections
 
 This section is referred to in title 2 section 1316; title 3 section 416.
+
+<i><sup>1</sup></i><i> So in original.</i>
 

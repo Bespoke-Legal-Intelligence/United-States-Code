@@ -8,7 +8,3 @@
 
 (June 27, 1952, ch. 477, title II, ch. 9, §285, 66 Stat. 232.)
 
-#### Cross References
-
-Definition of alien, Attorney General, Service, and United States, see section 1101 of this title.
-

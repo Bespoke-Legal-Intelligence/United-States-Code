@@ -26,11 +26,7 @@ July 26, 1947, ch. 343, §206(c) (less last 32 words of 1st sentence), 61 Stat. 
 
 A prior section 5063, act Aug. 10, 1956, ch. 1041, 70A Stat. 281, related to establishment and duties of Office of Budget and Reports, prior to repeal by Pub. L. 99–433, §511(a).
 
-A prior section 5064, acts Aug. 10, 1956, ch. 1041, 70A Stat. 281; Sept. 7, 1962, Pub. L. 87–649, §14(c)(12), (13), 76 Stat. 501; Dec. 12, 1980, Pub. L. 96–513, title III, §341, title V, §503(3), 94 Stat. 2901, 2911, related to Director and Assistant of Office of Budget and Reports, prior to repeal by Pub. L. 99–433, §511(a).
-
-#### Cross References
-
-Transfer, reassignment, consolidation or abolition of functions, powers and duties, see section 125 of this title.
+A prior section 5064, acts Aug. 10, 1956, ch. 1041, 70A Stat. 281; Sept. 7, 1962, Pub. L. 87–649, §14(c)(12), (13), 76 Stat. 501; Dec. 12, 1980, Pub. L. 96–513, title III, §341, title V, §503(3), 94 Stat. 2901, 2911, related to Directorand Assistant of Office of Budget and Reports, prior to repeal by Pub. L. 99–433, §511(a).
 
 #### Section Referred to in Other Sections
 

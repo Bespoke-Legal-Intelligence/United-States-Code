@@ -12,7 +12,7 @@ The Director shall give notice to the parties or their attorneys of record, a re
 
 Any discretionary action of the Director under this subsection shall be reviewable under section 10 of the Administrative Procedure Act.
 
-(d) Parties to a patent interference, within such time as may be specified by the Director byregulation, may determine such contest or any aspect thereof by arbitration. Such arbitration shall be governed by the provisions of title 9 to the extent such title is not inconsistent with this section. The parties shall give notice of any arbitration award to the Director, and such award shall, as between the parties to the arbitration, be dispositive of the issues to which it relates. The arbitration award shall be unenforceable until such notice is given. Nothing in this subsection shall preclude the Director from determining patentability of the invention involved in the interference.
+(d) Parties to a patent interference, within such time as may be specified by the Director by regulation, may determine such contest or any aspect thereof by arbitration. Such arbitration shall be governed by the provisions of title 9 to the extent such title is not inconsistent with this section. The parties shall give notice of any arbitration award to the Director, and such award shall, as between the parties to the arbitration, be dispositive of the issues to which it relates. The arbitration award shall be unenforceable until such notice is given. Nothing in this subsection shall preclude the Director from determining patentability of the invention involved in the interference.
 
 (July 19, 1952, ch. 950, 66 Stat. 801; Pub. L. 87–831, Oct. 15, 1962, 76 Stat. 958; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 98–622, title I, §105, title II, §202, Nov. 8, 1984, 98 Stat. 3385, 3386; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4507(11), 4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–566, 1501A–582.)
 
@@ -59,16 +59,6 @@ Amendment by section 202 of Pub. L. 98–622 effective three months after Nov. 8
 #### Effective Date of 1975 Amendment
 
 Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 93–596, set out as a note under section 1111 of Title 15, Commerce and Trade.
-
-#### Cross References
-
-Decision of board of patent interferences—
-
-&emsp;&emsp;Appeal to the United States Court of Customs and Patent Appeals, see section 141 of this title.
-
-&emsp;&emsp;Civil action, see section 146 of this title.
-
-Equitable relief against interfering patents, see section 291 of this title.
 
 #### Section Referred to in Other Sections
 

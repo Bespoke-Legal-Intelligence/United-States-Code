@@ -8,7 +8,7 @@ All government publications and law books furnished to justices, judges, clerks 
 
 Based on section 90 of title 5, U.S.C., 1940 ed., Executive Departments and Government Officers and Employees, section 530 of title 28, U.S.C., 1940 ed., and section 92 of title 44, U.S.C., 1940 ed., Public Printing and Documents (Aug. 7, 1882, ch. 433, §1, 22 Stat. 336; Jan. 12, 1895, ch. 23, §74, 28 Stat. 620; June 20, 1936, ch. 630, §§11, 12, 49 Stat. 1552, 1553; May 14, 1940, ch. 189, title IV, 54 Stat. 210; June 28, 1941, ch. 258, title IV, 55 Stat. 301; July 2, 1942, ch. 472, title IV, 56 Stat. 504; June 28, 1943, ch. 173, title II, §201, 57 Stat. 243; June 26, 1944, ch. 277, §203, 58 Stat. 358; May 21, 1945, ch. 129, title IV, 59 Stat. 200; July 5, 1946, ch. 541, title IV, 60 Stat. 480).
 
-Section consolidates section 90 of title 5, U.S.C., 1940 ed., providing that “statutes” shall be delivered to successors of United States attorneys and clerks and provisions of section 530 of title 28, U.S.C., 1940 ed., requiring that all lawbooks for judges and others shall be marked as property of the United States and shall betransmitted to their successors, with section 92 of title 44, U.S.C., 1940 ed., relating to transmittal of “Government publications.”
+Section consolidates section 90 of title 5, U.S.C., 1940 ed., providing that “statutes” shall be delivered to successors of United States attorneys and clerks and provisions of section 530 of title 28, U.S.C., 1940 ed., requiring that all lawbooks for judges and others shall be marked as property of the United States and shall be transmitted to their successors, with section 92 of title 44, U.S.C., 1940 ed., relating to transmittal of “Government publications.”
 
 Words “All Government publications and lawbooks” and “furnished under this chapter” were used to cover “all statutes” and “The Federal Reporter and continuations thereto.”
 
@@ -26,7 +26,7 @@ As finally enacted, part of act July 9, 1947, ch. 211, title IV, 61 Stat. 306, w
 
 #### Amendments
 
-1962—Pub. L. 87–845 substituted “furnished to justices, judges, clerks of courts, and United States attorneys of the United States and its territories and possessions, and other officers of the United States or an agency thereof” for “furnished to justices and judges of the United States and of the Territorial Courts, United States attorneys, clerks of courts, and other officers of the United States”.
+<b>1962</b>—Pub. L. 87–845 substituted “furnished to justices, judges, clerks of courts, and United States attorneys of the United States and its territories and possessions, and other officers of the United States or anagency thereof” for “furnished to justices and judges of the United States and of the Territorial Courts, United States attorneys, clerks of courts, and other officers of the United States”.
 
 #### Effective Date of 1962 Amendment
 

@@ -10,7 +10,7 @@ It is declared to be the policy of Congress, as a measure of national security, 
 
 #### Effective Date of 1989 Amendment
 
-Section 2 of Pub. L. 101–147 provided that: “Except as otherwise provided in this Act, the amendments madeby this Act \[see Short Title of 1989 Amendment note below\] shall take effect on the date of the enactment of this Act \[Nov. 10, 1989\].”
+Section 2 of Pub. L. 101–147 provided that: “Except as otherwise provided in this Act, the amendments made by this Act \[see Short Title of 1989 Amendment note below\] shall take effect on the date of the enactment of this Act \[Nov. 10, 1989\].”
 
 #### Short Title of 1998 Amendment
 
@@ -52,7 +52,7 @@ Pub. L. 94–105, §1, Oct. 7, 1975, 89 Stat. 511, provided: “That this Act \[
 
 #### Short Title of 1974 Amendment
 
-Pub. L. 93–326, §1, June 30, 1974, 88 Stat. 286, provided: “That this Act \[enacting section 1762a of this title and amending sections 1752, 1755, 1758, 1763, 1774, and 1786 of this title\] may be cited as the ‘National School Lunch and Child Nutrition Act Amendments of 1974’.”
+Pub. L. 93–326, §1, June 30, 1974, 88 Stat. 286, provided: “That this Act \[enacting section 1762a of this title and amending sections 1752, 1755, 1758, 1763, 1774, and 1786 ofthis title\] may be cited as the ‘National School Lunch and Child Nutrition Act Amendments of 1974’.”
 
 #### Short Title of 1973 Amendment
 
@@ -76,7 +76,7 @@ In general.—The Secretary of Agriculture shall develop proposed changes to the
 
 &emsp;“(2)
 
-Consultation.—In developing proposed changes to the regulations under paragraph (1), theSecretary of Agriculture shall consult with local, State, and regional administrators of the programs described in such paragraph.
+Consultation.—In developing proposed changes to the regulations under paragraph (1), the Secretary of Agriculture shall consult with local, State, and regional administrators of the programs described in such paragraph.
 
 “(b)
 

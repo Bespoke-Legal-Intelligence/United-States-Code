@@ -18,7 +18,7 @@ There are authorized to be appropriated such amounts as may be necessary from ti
 
 (2) There is established a United States Emergency Refugee and Migration Assistance Fund to carry out the purposes of this section. There is authorized to be appropriated to the President from time to time such amounts as may be necessary for the fund to carry out the purposes of this section, except that no amount of funds may be appropriated which, when added to amounts previously appropriated but not yet obligated, would cause such amounts to exceed $100,000,000. Amounts appropriated hereunder shall remain available until expended.
 
-(3) Whenever the President requests appropriations pursuant to this authorization he shall justify such requests to the Committee on Foreign Relations of the Senate and to the Speakerof the House of Representatives, as well as to the Committees on Appropriations.
+(3) Whenever the President requests appropriations pursuant to this authorization he shall justify such requests to the Committee on Foreign Relations of the Senate and to the Speaker of the House of Representatives, as well as to the Committees on Appropriations.
 
 #### (d) Information to Congressional committees
 
@@ -76,7 +76,7 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §251\], Nov. 29, 19
 
 “(a)
 
-In General.—None of the funds made available by this Act \[see Short Title of 1999 Amendment note set out under section 2651 of this title\] or by section 2(c) of the Migration and Refugee Assistance Act of 1962 (22 U.S.C. 2601(c)) shall be available to effect the involuntary return by the United States of any person to a country in which the person has a well-founded fear ofpersecution on account of race, religion, nationality, membership in a particular social group, or political opinion, except on grounds recognized as precluding protection as a refugee under the United Nations Convention Relating to the Status of Refugees of July 28, 1951, and the Protocol Relating to the Status of Refugees of January 31, 1967, subject to the reservations contained in the United States Senate Resolution of Ratification.
+In General.—None of the funds made available by this Act \[see Short Title of 1999 Amendment note set out under section 2651 of this title\] or by section 2(c) of the Migration and Refugee Assistance Act of 1962 (22 U.S.C. 2601(c)) shall be available to effect the involuntary return by the United States of any person to a country in which the person has a well-founded fear of persecution on account of race, religion, nationality, membership in a particular social group, or political opinion, except on grounds recognized as precluding protection as a refugee under the United Nations Convention Relating to the Status of Refugees of July 28, 1951, and the Protocol Relating to the Status of Refugees of January 31, 1967, subject to the reservations contained in the United States Senate Resolution of Ratification.
 
 “(b)
 

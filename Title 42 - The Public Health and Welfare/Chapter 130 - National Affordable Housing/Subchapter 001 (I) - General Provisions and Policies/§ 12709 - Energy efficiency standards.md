@@ -20,7 +20,7 @@ If the Secretaries have not, within 1 year after October 24, 1992, established e
 
 #### (c) Revisions of Model Energy Code
 
-If the requirements of CABO Model Energy Code, 1992, or, in the case of multifamily high rises, ASHRAE Standard 90.1–1989, are revised at any time, the Secretaries shall, not later than 1 year after such revision, amend the standards established under subsection (a) of this section to meet or exceed the requirements of such revised code or standard unless the Secretaries determine that compliance with such revised code or standard would not result in a significant increase in energy efficiency or would not be technologically feasible or economically justified.
+If the requirements of CABO Model Energy Code, 1992, or, in the case of multifamily high rises, ASHRAE Standard 90.1–1989, are revised at any time, the Secretaries shall, not later than 1year after such revision, amend the standards established under subsection (a) of this section to meet or exceed the requirements of such revised code or standard unless the Secretaries determine that compliance with such revised code or standard would not result in a significant increase in energy efficiency or would not be technologically feasible or economically justified.
 
 (Pub. L. 101–625, title I, §109, Nov. 28, 1990, 104 Stat. 4093; Pub. L. 102–486, title I, §101(c)(1), Oct. 24, 1992, 106 Stat. 2786.)
 

@@ -16,17 +16,27 @@ Each boxer shall register with—
 
 &emsp;&emsp;(A) A recent photograph of the boxer.
 
-&emsp;&emsp;(B) The social security number of the boxer (or, in the case of a foreign boxer, anysimilar citizen identification number or professional boxer number from the country of residence of the boxer).
+&emsp;&emsp;(B) The social security number of the boxer (or, in the case of a foreign boxer, any similar citizen identification number or professional boxer number from the country of residence of the boxer).
 
 &emsp;&emsp;(C) A personal identification number assigned to the boxer by a boxing registry.
 
 #### (2) Renewal
 
-&emsp;Each professional boxer shall renew his or her identification card at least once every 2 years.
+&emsp;Each professional boxer shall renew his or her identification card at least once every 4 years.
 
 #### (3) Presentation
 
 &emsp;Each professional boxer shall present his or her identification card to the appropriate boxing commission not later than the time of the weigh-in for a professional boxing match.
 
-(Pub. L. 104–272, §6, Oct. 9, 1996, 110 Stat. 3310.)
+#### (c) Health and safety disclosures
+
+It is the sense of the Congress that a boxing commission should, upon issuing an identification card to a boxer under subsection (b)(1) of this section, make a health and safety disclosure to that boxer as that commission considers appropriate. The health and safety disclosure should include the health and safety risks associated with boxing, and, in particular, the risk and frequency of brain injury and the advisability that a boxer periodically undergo medical procedures designed to detect brain injury.
+
+(Pub. L. 104–272, §6, Oct. 9, 1996, 110 Stat. 3310; Pub. L. 106–210, §7(c), (f), May 26, 2000, 114 Stat. 328.)
+
+#### Amendments
+
+2000—Subsec. (b)(2). Pub. L. 106–210, §7(c), substituted “4 years” for “2 years”.
+
+Subsec. (c). Pub. L. 106–210, §7(f), added subsec. (c).
 

@@ -14,4 +14,4 @@
 - [&sect; 02577 - Verification of compliance](%C2%A7%2002577%20-%20Verification%20of%20compliance.md)
 - [&sect; 02577a - Arms control verification](%C2%A7%2002577a%20-%20Arms%20control%20verification.md)
 - [&sect; 02578 - Negotiating records](%C2%A7%2002578%20-%20Negotiating%20records.md)
-- [&sect; 02579 - Comprehensive compilation of arms control, nonproliferation, and disarmament studies](%C2%A7%2002579%20-%20Comprehensive%20compilation%20of%20arms%20control%2C%20nonproliferation%2C%20and%20disarmament%20studies.md)
+- [&sect; 02579 - Omitted](%C2%A7%2002579%20-%20Omitted.md)

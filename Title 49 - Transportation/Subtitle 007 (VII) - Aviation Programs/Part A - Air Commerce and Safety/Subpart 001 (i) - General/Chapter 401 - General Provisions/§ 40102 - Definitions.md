@@ -98,7 +98,7 @@ General Definitions.—In this part—
 
 &emsp;&emsp;(B) when any part of the transportation or operation is by aircraft.
 
-&emsp;(25) “interstate air transportation” means the transportation of passengers or property by aircraft as a common carrier for compensation, or the transportation of mail by aircraft—
+&emsp;(25) “interstate air transportation” means the transportation of passengers or propertyby aircraft as a common carrier for compensation, or the transportation of mail by aircraft—
 
 &emsp;&emsp;(A) between a place in—
 
@@ -138,27 +138,17 @@ General Definitions.—In this part—
 
 &emsp;(36) “propeller” includes a part, appurtenance, and accessory of a propeller.
 
-&emsp;(37) “public aircraft”—
+&emsp;(37) “public aircraft” means any of the following:
 
-&emsp;&emsp;(A) means an aircraft—
+&emsp;&emsp;(A) Except with respect to an aircraft described in subparagraph (E), an aircraft used only for the United States Government, except as provided in section 40125(b).
 
-&emsp;&emsp;&emsp;(i) used only for the United States Government;
+&emsp;&emsp;(B) An aircraft owned by the Government and operated by any person for purposes related to crew training, equipment development, or demonstration, except as provided in section 40125(b).
 
-&emsp;&emsp;&emsp;(ii) owned by the United States Government and operated by any person for purposes related to crew training, equipment development, or demonstration; or
+&emsp;&emsp;(C) An aircraft owned and operated by the government of a State, the District of Columbia, or a territory or possession of the United States or a political subdivision of one of these governments, except as provided in section 40125(b).
 
-&emsp;&emsp;&emsp;(iii) owned and operated (except for commercial purposes), or exclusively leased for at least 90 continuous days, by a government (except the United States Government), including a State, the District of Columbia, or a territory or possession of the United States, or political subdivision of that government; but
+&emsp;&emsp;(D) An aircraft exclusively leased for at least 90 continuous days by the government of a State, the District of Columbia, or a territory or possession of the United States or a political subdivision of one of these governments, except as provided in section 40125(b).
 
-&emsp;&emsp;(B) does not include a government-owned aircraft—
-
-&emsp;&emsp;&emsp;(i) transporting property for commercial purposes; or
-
-&emsp;&emsp;&emsp;(ii) transporting passengers other than—
-
-&emsp;&emsp;&emsp;&emsp;(I) transporting (for other than commercial purposes) crewmembers or other persons aboard the aircraft whose presence is required to perform, or is associated with the performance of, a governmental function such as firefighting, search and rescue, law enforcement, aeronautical research, or biological or geological resource management; or
-
-&emsp;&emsp;&emsp;&emsp;(II) transporting (for other than commercial purposes) persons aboard the aircraft if the aircraft is operated by the Armed Forces or an intelligence agency of the United States.
-
-> &emsp;&emsp;An aircraft described in the preceding sentence shall, notwithstanding any limitation relating to use of the aircraft for commercial purposes, be considered to be a public aircraft for the purposes of this part without regard to whether the aircraft is operated by a unit of government on behalf of another unit of government, pursuant to a cost reimbursement agreement between such units of government, if the unit of government on whose behalf the operation is conducted certifies to the Administrator of the Federal Aviation Administration that the operation was necessary to respond to a significant and imminent threat to life or property (including natural resources) and that no service by a private operator was reasonably available to meet the threat.
+&emsp;&emsp;(E) An aircraft owned or operated by the armed forces or chartered to provide transportation to the armed forces under the conditions specified by section 40125(c).
 
 &emsp;(38) “spare part” means an accessory, appurtenance, or part of an aircraft (except an aircraft engine or propeller), aircraft engine (except a propeller), propeller, or appliance, that is to be installed at a later time in an aircraft, aircraft engine, propeller, or appliance.
 
@@ -172,11 +162,21 @@ General Definitions.—In this part—
 
 &emsp;(41) “United States” means the States of the United States, the District of Columbia, and the territories and possessions of the United States, including the territorial sea and the overlying airspace.
 
+&emsp;(42) “air traffic control system” means the combination of elements used to safely and efficiently monitor, direct, control, and guide aircraft in the United States and United States-assigned airspace, including—
+
+&emsp;&emsp;(A) allocated electromagnetic spectrum and physical, real, personal, and intellectual property assets making up facilities, equipment, and systems employed to detect, track, and guide aircraft movement;
+
+&emsp;&emsp;(B) laws, regulations, orders, directives, agreements, and licenses;
+
+&emsp;&emsp;(C) published procedures that explain required actions, activities, and techniques used to ensure adequate aircraft separation; and
+
+&emsp;&emsp;(D) trained personnel with specific technical capabilities to satisfy the operational, engineering, management, and planning requirements for air traffic control.
+
 (b)
 
 Limited Definition.—In subpart II of this part, “control” means control by any means.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1097; Pub. L. 103–305, title VI, §601(b)(2)(B), Aug. 23, 1994, 108 Stat. 1606; Pub. L. 103–411, §3(a), Oct. 25, 1994, 108 Stat. 4236; Pub. L. 103–429, §6(46), Oct. 31, 1994, 108 Stat. 4384; Pub. L. 105–137, §6, Dec. 2, 1997, 111 Stat. 2641.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1097; Pub. L. 103–305, title VI, §601(b)(2)(B), Aug. 23, 1994, 108 Stat. 1606; Pub. L. 103–411, §3(a), Oct. 25, 1994, 108 Stat. 4236; Pub. L. 103–429, §6(46), Oct. 31, 1994, 108 Stat. 4384; Pub. L. 105–137, §6, Dec. 2, 1997, 111 Stat. 2641; Pub. L. 106–181, title III, §301, title VII, §702(a), Apr. 5, 2000, 114 Stat. 115, 155.)
 
 Historical and Revision Notes
 
@@ -442,6 +442,10 @@ This makes a conforming amendment for consistency with the style of title 49.
 
 #### Amendments
 
+2000—Subsec. (a)(37). Pub. L. 106–181, §702(a), amended par. (37) generally, revising and restating provisions defining “public aircraft” to include references to qualifications found in section 40125(b) and (c).
+
+Subsec. (a)(42). Pub. L. 106–181, §301, added par. (42).
+
 1997—Subsec. (a)(37)(A). Pub. L. 105–137 struck out “or” at end of cl. (i), added cl. (ii), and redesignated former cl. (ii) as (iii).
 
 1994—Subsec. (a)(30). Pub. L. 103–429 substituted “this subpart and subpart III” for “subparts I and III”.
@@ -450,6 +454,10 @@ Subsec. (a)(35). Pub. L. 103–305 struck out “for air transportation” after
 
 Subsec. (a)(37)(B). Pub. L. 103–411 added subpar. (B) and struck out former subpar. (B) which read as follows: “does not include a government-owned aircraft transporting passengers or property for commercial purposes.”
 
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
+
 #### Effective Date of 1994 Amendments
 
 Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under section 321 of this title.
@@ -457,6 +465,22 @@ Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 
 Amendment by Pub. L. 103–411 effective on the 180th day following Oct. 25, 1994, see section 3(d) of Pub. L. 103–411, set out as a note under section 1131 of this title.
 
 Amendment by Pub. L. 103–305 effective Jan. 1, 1995, see section 601(d) of Pub. L. 103–305, set out as a note under section 10521 of this title.
+
+#### Territorial Sea of United States
+
+For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
+
+#### Definitions Applicable to Pub. L. 106–181
+
+Pub. L. 106–181, §4, Apr. 5, 2000, 114 Stat. 64, provided that: “Except as otherwise provided in this Act \[see Tables for classification\], the following definitions apply:
+
+&emsp;“(1)
+
+Administrator.—The term ‘Administrator’ means the Administrator of the Federal Aviation Administration.
+
+&emsp;“(2)
+
+Secretary.—The term ‘Secretary’ means the Secretary of Transportation.”
 
 #### Definitions Applicable to Pub. L. 103–305
 
@@ -472,5 +496,5 @@ Secretary.—The term ‘Secretary’ means the Secretary of Transportation.”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 321, 1101, 1131, 5114, 47129, 47302, 47522 of this title; title 8 section 1184; title 10 sections 2640, 9511; title 11 sections 365, 1110; title 15 section 2052; title 18 sections 31, 229F, 553; title 19 sections 1627a, 1644a, 2492; title 22 sections 5605, 6701; title 29 section 1301; title 31 section 3726; title 39 sections 5005, 5007, 5402; title 42 sections 4902, 7574.
+This section is referred to in sections 106, 321, 1101, 1131, 5114, 40125, 47129, 47302, 47522 of this title; title 8 section 1184; title 10 sections 2640, 9511; title 11 sections 365, 1110; title 15 section 2052; title 18 sections 31, 229F, 553; title 19 sections 1627a, 1644a, 2492; title 22 sections 5605, 6701; title 29 section 1301; title 31 section 3726; title 39 sections 5005, 5007, 5402; title 42 sections 4902, 7574.
 

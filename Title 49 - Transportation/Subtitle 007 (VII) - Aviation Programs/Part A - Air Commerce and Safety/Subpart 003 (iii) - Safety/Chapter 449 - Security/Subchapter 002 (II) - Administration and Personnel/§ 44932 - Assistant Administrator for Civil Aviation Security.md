@@ -66,3 +66,7 @@ In subsection (a), the words “There is an” are substituted for “There is e
 
 In subsection (b)(1), the words “as provided by section 44933 of this title” are added for clarity and because of the restatement. In clause (5), the words “duties and powers” are substituted for “responsibilities” for consistency in the revised title and with other titles of the United States Code. In clause (7), the words “carry out duties and powers” are substituted for “such other functions” for consistency in the revised title and with other titles of the Code. The word “necessary” is omitted as being included in “appropriate”.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in section 106 of this title.
+

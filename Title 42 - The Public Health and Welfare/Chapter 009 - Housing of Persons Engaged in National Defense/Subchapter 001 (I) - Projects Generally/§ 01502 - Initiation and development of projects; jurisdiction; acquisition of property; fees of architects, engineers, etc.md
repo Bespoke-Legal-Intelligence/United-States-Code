@@ -10,7 +10,7 @@
 
 The United States Housing Act of 1937 and said Act, referred to in subsec. (a), are act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§1437 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of this title and Tables.
 
-Sections 361 to 386 of title 40, referred to in subsec. (b), were repealed by Pub. L. 88–241, §21(b), Dec. 23, 1963, 77 Stat. 627. See chapter 13 (§16–1301 et seq.) of Title 16, Particular Actions, Proceedings and Matters, of the District of Columbia Code.
+Sections 361 to 386 of title 40, referred to in subsec. (b), were repealed by Pub. L. 88–241, §21(b), Dec. 23, 1963, 77 Stat. 627.
 
 #### Change of Name
 

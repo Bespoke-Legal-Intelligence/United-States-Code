@@ -22,7 +22,7 @@ Section 104 represents a compromise between the House bill and the Senate amendm
 
 #### senate report no. 95–989
 
-This section requires that the Director of the Administrative Office of the U. S. Courts report to Congress and the President before Oct. 1, 1985, and before May 1 every 6 years thereafter a recommendation for adjustment in dollar amounts found in this title. The Committee feels that regular adjustment of the dollaramounts by the Director will conserve congressional time and yet assure that the relative dollar amounts used in the bill are maintained. Changes in the cost of living should be a significant, but not necessarily the only, factor considered by the Director. The fact that there has been an increase in the cost of living does not necessarily mean that an adjustment of dollar amounts would be needed or warranted.
+This section requires that the Director of the Administrative Office of the U. S. Courts report to Congress and the President before Oct. 1, 1985, and before May 1 every 6 years thereafter a recommendation for adjustment in dollar amounts found in this title. The Committee feels that regular adjustment of the dollar amounts by the Director will conserve congressional time and yet assure that the relative dollar amounts used in the bill are maintained. Changes in the cost of living should be a significant, but not necessarily the only, factor considered by the Director. The fact that there has been an increase in the cost of living does not necessarily mean that an adjustment of dollar amounts would be needed or warranted.
 
 #### house report no. 95–595
 
@@ -37,6 +37,10 @@ If the Judicial Conference has policy recommendations concerning the appropriate
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsection (a) of this section is listed on page 12), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 
 #### Adjustment of Dollar Amounts
 

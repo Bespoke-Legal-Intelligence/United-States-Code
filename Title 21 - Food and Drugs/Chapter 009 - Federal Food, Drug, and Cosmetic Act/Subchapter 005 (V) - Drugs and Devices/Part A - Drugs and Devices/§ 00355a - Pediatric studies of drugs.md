@@ -32,7 +32,7 @@ If the Secretary makes a written request to the holder of an approved applicatio
 
 &emsp;(ii) the period referred to in clauses (iii) and (iv) of subsection (c)(3)(D) of such section, and in clauses (iii) and (iv) of subsection (j)(4)(D) of such section, is deemed to be three years and six months rather than three years; and
 
-&emsp;(B) if the drug is designated under section 360bb of this title for a rare disease or condition, the period referred to in section 360cc(a)of this title is deemed to be seven years and six months rather than seven years; and
+&emsp;(B) if the drug is designated under section 360bb of this title for a rare disease or condition, the period referred to in section 360cc(a) of this title is deemed to be seven years and six months rather than seven years; and
 
 &emsp;(2)(A) if the drug is the subject of—
 
@@ -60,7 +60,7 @@ If the Secretary makes a written request to the holder of an approved applicatio
 
 #### (2) Written protocols to meet the studies requirement
 
-&emsp;If the sponsor or holder and the Secretary agree upon written protocols for the studies, the studies requirement of subsection (a) or (c) of this section is satisfied upon the completion of the studies and submission of the reports thereof in accordance with the original written request and the written agreement referred to in paragraph (1). Not later than 60 days after the submission of the report of the studies, the Secretary shall determine if such studies were or were not conducted in accordance with the original written request and the written agreement and reported in accordance with the requirements of the Secretary for filing and so notify the sponsor or holder.
+&emsp;If the sponsor or holder and the Secretary agree upon written protocols for the studies, the studies requirement of subsection (a) or (c) of this section is satisfied upon the completion of the studies and submission of the reports thereof in accordance with the original written request and the written agreement referred to in paragraph (1). Not later than 60 days after the submission of the report of the studies, the Secretary shall determine if such studies were or were not conducted in accordance with the original written request and the written agreement and reported in accordancewith the requirements of the Secretary for filing and so notify the sponsor or holder.
 
 #### (3) Other methods to meet the studies requirement
 

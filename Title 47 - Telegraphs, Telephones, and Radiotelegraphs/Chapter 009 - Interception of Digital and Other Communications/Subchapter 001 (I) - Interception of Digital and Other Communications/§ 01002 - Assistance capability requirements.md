@@ -28,7 +28,7 @@ Except as provided in subsections (b), (c), and (d) of this section and sections
 
 &emsp;This subchapter does not authorize any law enforcement agency or officer—
 
-&emsp;&emsp;(A) to require any specific design of equipment, facilities, services, features, or system configurations to be adopted by any providerof a wire or electronic communication service, any manufacturer of telecommunications equipment, or any provider of telecommunications support services; or
+&emsp;&emsp;(A) to require any specific design of equipment, facilities, services, features, or system configurations to be adopted by any provider of a wire or electronic communication service, any manufacturer of telecommunications equipment, or any provider of telecommunications support services; or
 
 &emsp;&emsp;(B) to prohibit the adoption of any equipment, facility, service, or feature by any provider of a wire or electronic communication service, any manufacturer of telecommunications equipment, or any provider of telecommunications support services.
 
@@ -42,17 +42,21 @@ Except as provided in subsections (b), (c), and (d) of this section and sections
 
 #### (3) Encryption
 
-&emsp;A telecommunications carrier shall not be responsible for decrypting, or ensuring the government's ability to decrypt, any communication encrypted by a subscriber or customer, unless the encryption was provided by the carrier and the carrier possesses the information necessary to decrypt the communication.
+&emsp;A telecommunications carrier shall not be responsible for decrypting, or ensuring thegovernment's ability to decrypt, any communication encrypted by a subscriber or customer, unless the encryption was provided by the carrier and the carrier possesses the information necessary to decrypt the communication.
 
 #### (c) Emergency or exigent circumstances
 
-In emergency or exigent circumstances (including those described in sections 2518(7) or (11)(b) and 3125 of title 18 and section 1805(e) of title 50), a carrier at its discretion may comply with subsection (a)(3) of this section by allowing monitoring at its premises if that is the only means of accomplishing the interception or access.
+In emergency or exigent circumstances (including those described in sections 2518(7) or (11)(b) and 3125 of title 18 and section 1805(e) <sup>1</sup> of title 50), a carrier at its discretion may comply with subsection (a)(3) of this section by allowing monitoring at its premises if that is the only means of accomplishing the interception or access.
 
 #### (d) Mobile service assistance requirements
 
 A telecommunications carrier that is a provider of commercial mobile service (as defined in section 332(d) of this title) offering a feature or service that allows subscribers to redirect, hand off, or assign their wire or electronic communications to another service area or another service provider or to utilize facilities in another service area or of another service provider shall ensure that, when the carrier that had been providing assistance for the interception of wire or electronic communications or access to call-identifying information pursuant to a court order or lawful authorization no longer has access to the content of such communications or call-identifying information within the service area in which interception has been occurring as a result of the subscriber's use of such a feature or service, information is made available to the government (before, during, or immediately after the transfer of such communications) identifying the provider of a wire or electronic communication service that has acquired access to the communications.
 
 (Pub. L. 103–414, title I, §103, Oct. 25, 1994, 108 Stat. 4280.)
+
+#### References in Text
+
+Section 1805(e) of title 50, referred to in subsec. (c), was redesignated section 1805(f) of title 50 by Pub. L. 106–567, title VI, §602(b)(1), Dec. 27, 2000, 114 Stat. 2851.
 
 #### Effective Date
 
@@ -61,4 +65,6 @@ Section effective on the date that is 4 years after Oct. 25, 1994, see section 1
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 229, 1005, 1006, 1007, 1008, 1010 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(iii) owned or generated as a result of any research, development, testing, or production of any atomic weapon; and
 
-&emsp;(C) low-level radioactive waste described in subparagraphs (A) and (B) that is generated outside of the State and accepted for disposal in accordance with sections <sup>1</sup> 2021e or 2021f of this title.
+&emsp;(C) low-level radioactive waste described in subparagraphs (A) and (B) that is generatedoutside of the State and accepted for disposal in accordance with sections <sup>1</sup> 2021e or 2021f of this title.
 
 (2) No regional disposal facility may be required to accept for disposal any material—
 

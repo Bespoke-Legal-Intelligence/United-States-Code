@@ -12,7 +12,7 @@ Acts Feb. 20, 1905, ch. 592, §20, 33 Stat. 729; Mar. 3, 1911, ch. 231, §291, 3
 
 1999—Pub. L. 106–43, in first sentence, substituted “a violation under section 1125(a) of this title, or a willful violation under section 1125(c) of this title,” for “or a violation under section 1125(a) of this title,” and inserted “or a willful violation under section 1125(c) of this title” before “, the word,”.
 
-1988—Pub. L. 100–667 inserted in first sentence “, or a violation under section 1125(a) of this title,” after “Office” and “or, in the case of a violation of section 1125(a) of this title, the word, term, name, symbol, device, combination thereof, designation, description, orrepresentation that is the subject of the violation,” after “registered mark”.
+1988—Pub. L. 100–667 inserted in first sentence “, or a violation under section 1125(a) of this title,” after “Office” and “or, in the case of a violation of section 1125(a) of this title, the word, term, name, symbol, device, combination thereof, designation, description, or representation that is the subject of the violation,” after “registered mark”.
 
 1984—Pub. L. 98–473 inserted “The party seeking an order under this section for destruction of articles seized under section 1116(d) of this title shall give ten days’ notice to the United States attorney for the judicial district in which such order is sought (unless good cause is shown for lesser notice) and such United States attorney may, if such destruction may affect evidence of an offense against the United States, seek a hearing on such destruction or participate in any hearing otherwise to be held with respect to such destruction.”
 
@@ -33,10 +33,6 @@ Repeal of inconsistent provisions, effect of this chapter on pending proceedings
 #### Transfer of Functions
 
 For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Federal Rules of Criminal Procedure
-
-Criminal contempt, see rule 42, Title 18, Appendix, Crimes and Criminal Procedure.
 
 #### Section Referred to in Other Sections
 

@@ -10,7 +10,7 @@
 
 &emsp;(C) carry out such other activities that are necessary to make the reports and recommendations referred to in subsection (f) of this section.
 
-(b) The Secretary of Labor shall, on a regular basis, consult with and seek the advice of the advisory committee with respect to the matters referred to in subsection (a)(2) of this section.
+(b) The Secretary of Labor shall, on a regular basis, consult with and seek the advice of theadvisory committee with respect to the matters referred to in subsection (a)(2) of this section.
 
 (c)(1) The Secretary of Labor shall appoint at least 12, but no more than 18, individuals to serve as members of the advisory committee consisting of—
 
@@ -109,6 +109,10 @@ Subsec. (b)(1)(D) to (I). Pub. L. 100–323, §10, added subpars. (D), (H), and 
 #### Effective Date of 1988 Amendment
 
 Amendment by section 10 of Pub. L. 100–323 effective on 60th day after May 20, 1988, and amendment by section 15(a)(2), (3), (b)(1) of Pub. L. 100–323 effective May 20, 1988, see section 16(b)(2) of Pub. L. 100–323, set out as a note under section 3104 of this title.
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of reporting provisions in subsec. (g) of this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 125 of House Document No. 103–7.
 
 #### Termination of Advisory Committees
 

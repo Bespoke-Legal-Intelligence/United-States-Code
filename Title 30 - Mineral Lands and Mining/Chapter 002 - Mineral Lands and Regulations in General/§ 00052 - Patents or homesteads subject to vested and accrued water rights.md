@@ -22,10 +22,6 @@ Repeal by Pub. L. 94–579, title VII, §706(a), Oct. 21, 1976, 90 Stat. 2793, i
 
 Provisions of this section as not amended, modified or repealed by the Submerged Lands Act, see section 1303 of Title 43, Public Lands.
 
-#### Cross References
-
-Michigan, Minnesota and Wisconsin mineral lands, see section 48 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 24, 29, 33, 37, 38, 39, 40, 42, 46, 47, 48, 102 of this title; title 16 section 460mm–1.

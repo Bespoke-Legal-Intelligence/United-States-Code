@@ -8,7 +8,7 @@ As used in this chapter—
 
 &emsp;(3) The term “high seas” means the waters beyond the territorial sea or exclusive economic zone (or the equivalent) of any nation, to the extent that such territorial sea or exclusive economic zone (or the equivalent) is recognized by the United States.
 
-&emsp;(4) The term “high seas fishing vessel” means any vessel of the United States used or intended for use—
+&emsp;(4) The term “high seas fishing vessel” means any vessel of the United States or subject to the jurisdiction of the United States used or intended for use—
 
 &emsp;&emsp;(A) on the high seas;
 
@@ -40,15 +40,19 @@ As used in this chapter—
 
 &emsp;&emsp;&emsp;(iii) a citizen or national of the United States; or
 
-&emsp;&emsp;&emsp;(iv) a corporation created under the laws of the United States or any State, the District of Columbia, or any territory, commonwealth, or possession of the UnitedStates; unless the vessel has been granted the nationality of a foreign nation in accordance with article 92 of the 1982 United Nations Convention on the Law of the Sea and a claim of nationality or registry for the vessel is made by the master or individual in charge at the time of the enforcement action by an officer or employee of the United States authorized to enforce applicable provisions of the United States law; and
+&emsp;&emsp;&emsp;(iv) a corporation created under the laws of the United States or any State, the District of Columbia, or any territory, commonwealth, or possession of the United States; unless the vessel has been granted the nationality of a foreign nation in accordance with article 92 of the 1982 United Nations Convention on the Law of the Sea and a claim of nationality or registry for the vessel is made by the master or individual in charge at the time of the enforcement action by an officer or employee of the United States authorized to enforce applicable provisions of the United States law; and
 
-&emsp;&emsp;(C) a vessel that was once documented under the laws of the United States and, in violation of the laws of the United States, was either sold to a person not a citizen of the United States or placed under foreign registry or a foreign flag, whether or not the vessel has been granted the nationality of a foreign nation.
+&emsp;&emsp;(C) a vessel that was once documented under the laws of the United States and, in violation of the laws of the United States, was either sold to a person not a citizen ofthe United States or placed under foreign registry or a foreign flag, whether or not the vessel has been granted the nationality of a foreign nation.
 
 &emsp;(10) The terms “vessel subject to the jurisdiction of the United States” and “vessel without nationality” have the same meaning as in section 1903(c) of title 46, Appendix.
 
-(Pub. L. 104–43, title I, §103, Nov. 3, 1995, 109 Stat. 367.)
+(Pub. L. 104–43, title I, §103, Nov. 3, 1995, 109 Stat. 367; Pub. L. 106–562, title III, §305, Dec. 23, 2000, 114 Stat. 2807.)
 
 #### References in Text
 
 This chapter, referred to in text, was in the original “this Act”, and was translated as reading “this title”, meaning title I of Pub. L. 104–43, to reflect the probable intent of Congress.
+
+#### Amendments
+
+2000—Par. (4). Pub. L. 106–562 inserted “or subject to the jurisdiction of the United States” after “United States” in introductory provisions.
 

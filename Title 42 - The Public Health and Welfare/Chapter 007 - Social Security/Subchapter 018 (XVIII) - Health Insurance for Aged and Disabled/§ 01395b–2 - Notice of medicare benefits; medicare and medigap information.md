@@ -70,5 +70,5 @@ Section 424 of Pub. L. 100–360, which directed Secretary of Health and Human S
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1395w–21 of this title.
+This section is referred to in sections 1395w–21, 1395ff of this title.
 

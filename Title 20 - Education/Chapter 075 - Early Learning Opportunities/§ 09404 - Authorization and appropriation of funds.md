@@ -1,0 +1,18 @@
+### §9404. Authorization and appropriation of funds
+
+There are authorized to be appropriated to the Department of Health and Human Services to carry out this chapter—
+
+&emsp;(1) $750,000,000 for fiscal year 2001;
+
+&emsp;(2) $1,000,000,000 for fiscal year 2002;
+
+&emsp;(3) $1,500,000,000 for fiscal year 2003; and
+
+&emsp;(4) such sums as may be necessary for each of the fiscal years 2004 and 2005.
+
+(Pub. L. 106–554, §1(a)(1) \[title VIII, §805\], Dec. 21, 2000, 114 Stat. 2763, 2763A–82.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 9406, 9408, 9409 of this title.
+

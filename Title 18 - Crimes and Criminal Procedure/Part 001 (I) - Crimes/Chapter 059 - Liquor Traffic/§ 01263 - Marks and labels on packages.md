@@ -1,6 +1,6 @@
 ### §1263. Marks and labels on packages
 
-Whoever knowingly ships into any place within the United States any package containing any spirituous, vinous, malted, or other fermented liquor, or any compound containing any spirituous, vinous, malted, or other fermented liquor fit for use for beverage purposes, unlesssuch shipment is accompanied by copy of a bill of lading, or other document showing the name of the consignee, the nature of its contents, and the quantity contained therein, shall be fined under this title or imprisoned not more than one year, or both.
+Whoever knowingly ships into any place within the United States any package containing any spirituous, vinous, malted, or other fermented liquor, or any compound containing any spirituous, vinous, malted, or other fermented liquor fit for use for beverage purposes, unless such shipment is accompanied by copy of a bill of lading, or other document showing the name of the consignee, the nature of its contents, and the quantity contained therein, shall be fined under this title or imprisoned not more than one year, or both.
 
 (June 25, 1948, ch. 645, 62 Stat. 761; Pub. L. 90–518, §1, Sept. 26, 1968, 82 Stat. 872; Pub. L. 103–322, title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
 
@@ -29,10 +29,6 @@ Section 3 of Pub. L. 90–518 provided that: “This Act \[amending this section
 #### Congressional Disclaimer of Intent To Preempt State Regulation of Shipments of Intoxicating Liquor
 
 Section 2 of Pub. L. 90–518 provided that: “Nothing contained in this Act \[amending this section\] shall be construed as indicating an intent on the part of Congress to deprive any State of the power to enact additional prohibitions with respect to the shipment of intoxicating liquors.”
-
-#### Cross References
-
-Forfeiture of liquors and related property, see section 3667 of this title.
 
 #### Section Referred to in Other Sections
 

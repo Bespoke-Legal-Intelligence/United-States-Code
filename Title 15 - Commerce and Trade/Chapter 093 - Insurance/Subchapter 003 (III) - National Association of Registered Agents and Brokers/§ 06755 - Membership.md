@@ -34,7 +34,7 @@ The Association shall have the authority to establish membership criteria thatâ€
 
 #### (2) Categories
 
-&emsp;The Association may establish separate categories of membership for individuals and for other persons. The establishment of any suchcategories of membership shall be based either on the types of licensing categories that exist under State laws or on the aggregate amount of business handled by an insurance producer. No special categories of membership, and no distinct membership criteria, shall be established for members which are depository institutions or for their employees, agents, or affiliates.
+&emsp;The Association may establish separate categories of membership for individuals and for other persons. The establishment of any such categories of membership shall be based either on the types of licensing categories that exist under State laws or on the aggregate amount of business handled by an insurance producer. No special categories of membership, and no distinct membership criteria, shall be established for members which are depository institutions or for their employees, agents, or affiliates.
 
 #### (d) Membership criteria
 

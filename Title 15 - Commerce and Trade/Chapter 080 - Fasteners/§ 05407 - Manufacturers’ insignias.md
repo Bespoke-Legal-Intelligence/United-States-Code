@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-Unless the specifications provide otherwise, fasteners that are required by the applicableconsensus standard or standards to bear an insignia identifying their manufacturer shall not be offered for sale or sold in commerce unless—
+Unless the specifications provide otherwise, fasteners that are required by the applicable consensus standard or standards to bear an insignia identifying their manufacturer shall not be offered for sale or sold in commerce unless—
 
 &emsp;(1) the fasteners bear such insignia; and
 

@@ -38,7 +38,7 @@ Whenever a Board finds reasonable cause to believe that an individual described 
 
 #### (2) Personnel recommendations
 
-&emsp;In any case in which a Board transmits a finding of reasonable cause under subsection\(c) of this section, the head of the Federal agency or instrumentality receiving the information shall review the evidence and recommendations and shall, not later than 30 days after the receipt of that finding, transmit to the Congress a report specifying—
+&emsp;In any case in which a Board transmits a finding of reasonable cause under subsection (c) of this section, the head of the Federal agency or instrumentality receiving the information shall review the evidence and recommendations and shall, not later than 30 days after the receipt of that finding, transmit to the Congress a report specifying—
 
 &emsp;&emsp;(A) the nature of the case and a summary of the evidence transmitted by the Board; and
 

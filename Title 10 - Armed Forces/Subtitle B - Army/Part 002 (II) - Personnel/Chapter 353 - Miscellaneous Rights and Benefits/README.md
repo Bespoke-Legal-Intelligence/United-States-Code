@@ -29,12 +29,6 @@
 
 1958—Pub. L. 85–861, §1(91), Sept. 2, 1958, 72 Stat. 1482, struck out items 3681 “Army Register: regular officers; service to be listed” and 3688 “Death Gratuity”.
 
-#### Cross References
-
-General military law provisions, see section 1031 et seq. of this title.
-
-Leave allowances for officers and enlisted personnel of the Army, see section 501 et seq. of Title 37, Pay and Allowances of the Uniformed Services.
-
 
 ---
 

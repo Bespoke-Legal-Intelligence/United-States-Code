@@ -68,5 +68,5 @@ Amendment by Pub. L. 102–325 applicable with respect to determinations of need
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1015, 1070a, 1078, 1078–8, 1087vv, 1093 of this title; title 10 sections 1598, 2145, 2193, 2410c; title 26 sections 221, 529; title 42 section 12604.
+This section is referred to in sections 1015, 1070a, 1070a–14, 1078, 1078–8, 1087vv, 1093 of this title; title 10 sections 1598, 2145, 2193, 2410c; title 26 sections 221, 529; title 42 section 12604.
 

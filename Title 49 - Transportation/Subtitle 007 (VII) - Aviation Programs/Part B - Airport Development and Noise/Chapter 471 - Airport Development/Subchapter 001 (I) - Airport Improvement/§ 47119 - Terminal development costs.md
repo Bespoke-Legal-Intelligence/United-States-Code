@@ -34,7 +34,11 @@ Availability of Amounts.—In a fiscal year, the Secretary may make available—
 
 Nonhub Airports.—With respect to a project at a commercial service airport which annually has less than 0.05 percent of the total enplanements in the United States, the Secretary may approve the use of the amounts described in subsection (a) notwithstanding the requirements of sections 47107(a)(17), 47112, and 47113.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1274; Pub. L. 103–305, title I, §117, Aug. 23, 1994, 108 Stat. 1579; Pub. L. 103–429, §6(69), Oct. 31, 1994, 108 Stat. 4387.)
+(d)
+
+Determination of Passenger Boarding at Commercial Service Airports.—For the purpose of determining whether an amount may be distributed for a fiscal year from the discretionary fund in accordance with subsection (b)(2)(A) to a commercial service airport, the Secretary shall make the determination of whether or not a public airport is a commercial service airport on the basis of the number of passenger boardings and type of air service at the public airport in the calendar year that includes the first day of such fiscal year or the preceding calendar year, whichever is more beneficial to the airport.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1274; Pub. L. 103–305, title I, §117, Aug. 23, 1994, 108 Stat. 1579; Pub. L. 103–429, §6(69), Oct. 31, 1994, 108 Stat. 4387; Pub. L. 106–181, title I, §152(b), Apr. 5, 2000, 114 Stat. 87.)
 
 Historical and Revision Notes
 
@@ -68,7 +72,7 @@ Sept. 3, 1982, Pub. L. 97–248, §513(b)(3), 96 Stat. 690.
 
 In subsection (a), before clause (1), the words “(within the meaning of section 11(1) of the Airport and Airway Development Act of 1970 \[49 App. U.S.C. 1711(1)\] as in effect immediately before September 3, 1982)” are omitted because of the definition of “air carrier airport” in section 47102 of the revised title. The words “after June 30, 1970” are substituted for “on or after July 1, 1970” for consistency in the revised title and with other titles of the United States Code and to eliminate unnecessary words. The words “to repay immediately money borrowed and used to pay the costs for terminal development at the airport, if those costs would be allowable project costs under section 47110(d) of this title” are substituted for “for the immediate retirement of the principal of bonds or other evidences of indebtedness the proceeds of which were used for that part of the terminal development at such airport the cost of which would be allowable under paragraph (1) of this subsection” for clarity and to eliminate unnecessary words.
 
-In subsection (b), before clause (1), the words “In a fiscal year” are added for clarity. In clause (2), thewords “from the discretionary fund” are substituted for “sums to be distributed at the discretion of the Secretary under section 2206(c) of this Appendix” for clarity and consistency in this chapter. In clause (3), the words “for projects” are added for clarity.
+In subsection (b), before clause (1), the words “In a fiscal year” are added for clarity. In clause (2), the words “from the discretionary fund” are substituted for “sums to be distributed at the discretion of the Secretary under section 2206(c) of this Appendix” for clarity and consistency in this chapter. In clause (3), the words “for projects” are added for clarity.
 
 Pub. L. 103–429
 
@@ -94,6 +98,8 @@ Section 20(b) of the Airport and Airway Development Act of 1970, referred to in 
 
 #### Amendments
 
+2000—Subsec. (d). Pub. L. 106–181 added subsec. (d).
+
 1994—Subsec. (a). Pub. L. 103–305, §117(1), inserted “or, in the case of a commercial service airport which annually had less than 0.05 percent of the total enplanements in the United States, between January 1, 1992, and October 31, 1992,” after “July 12, 1976,”.
 
 Subsec. (b)(2). Pub. L. 103–429, §6(69)(B), added par. (2) and struck out former par. (2) which read as follows: “to a sponsor of a nonprimary commercial service airport, not more than $200,000 of the amount that may be distributed for the fiscal year from the discretionary fund to pay project costs allowable under section 47110(d) of this title; or”.
@@ -103,4 +109,8 @@ Subsec. (b)(3). Pub. L. 103–429, §6(69)(B), added par. (3). Former par. (3) r
 Subsec. (b)(4). Pub. L. 103–429, §6(69)(A), redesignated par. (3) as (4).
 
 Subsec. (c). Pub. L. 103–305, §117(2), added subsec. (c).
+
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
 

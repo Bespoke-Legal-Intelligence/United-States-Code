@@ -16,7 +16,7 @@ Amounts in the Trust shall be available—
 
 #### (1) Application by eligible individuals
 
-&emsp;An eligible individual under section 12602 of this title who desires to apply the nationalservice educational award of the individual to the repayment of qualified student loans shall submit, in a manner prescribed by the Corporation, an application to the Corporation that—
+&emsp;An eligible individual under section 12602 of this title who desires to apply the national service educational award of the individual to the repayment of qualified student loans shall submit, in a manner prescribed by the Corporation, an application to the Corporation that—
 
 &emsp;&emsp;(A) identifies, or permits the Corporation to identify readily, the holder or holders of such loans;
 
@@ -78,7 +78,7 @@ Amounts in the Trust shall be available—
 
 &emsp;&emsp;&emsp;(ii) the institution's eligibility to participate in any of the programs under title IV of such Act (20 U.S.C. 1070 et seq. \[and 42 U.S.C. 2751 et seq.\]) has not been limited, suspended, or terminated; and
 
-&emsp;&emsp;&emsp;(iii) individuals using national service educational awards received under this division to pay for educational costs do not comprise more than 15 percent of the total student population of the institution; and
+&emsp;&emsp;&emsp;(iii) individuals using national service educational awards received under this division to pay for educational costs do notcomprise more than 15 percent of the total student population of the institution; and
 
 &emsp;&emsp;(D) contains such provisions concerning financial compliance as the Corporation may require.
 
@@ -88,7 +88,7 @@ Amounts in the Trust shall be available—
 
 #### (4) Multiple disbursements required
 
-&emsp;The total amount required to be disbursed to an institution of higher education under paragraph (3) for any period of enrollment shall bedisbursed by the Corporation in 2 or more installments, none of which exceeds 1/2 of such total amount. The interval between the first and second such installment shall not be less than 1/2 of such period of enrollment, except as necessary to permit the second installment to be paid at the beginning of the second semester, quarter, or similar division of such period of enrollment.
+&emsp;The total amount required to be disbursed to an institution of higher education under paragraph (3) for any period of enrollment shall be disbursed by the Corporation in 2 or more installments, none of which exceeds 1/2 of such total amount. The interval between the first and second such installment shall not be less than 1/2 of such period of enrollment, except as necessary to permit the second installment to be paid at the beginning of the second semester, quarter, or similar division of such period of enrollment.
 
 #### (5) Refund rules
 
@@ -136,7 +136,7 @@ A prior section 148 of Pub. L. 101–610 was classified to section 12578 of this
 
 #### Amendments
 
-1998—Subsec. (g). Pub. L. 105–244 substituted “section 102 of the Higher Education Act of 1965” for “section 481(a) of the Higher Education Act of 1965 (20 U.S.C. 1088(a))”.
+1998—Subsec. (g). Pub. L. 105–244 substituted “section 102 of the Higher Education Act of 1965” for “section481(a) of the Higher Education Act of 1965 (20 U.S.C. 1088(a))”.
 
 #### Effective Date of 1998 Amendment
 

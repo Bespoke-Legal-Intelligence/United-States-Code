@@ -24,7 +24,7 @@ For definition of Canal Zone, referred to in subsec. (e), see section 3602(b) of
 
 #### Effective Date
 
-Section 14 of act Sept. 7, 1950, provided: “This Act \[this chapter\] shall take effect with respect to each of the conventions upon the entry into force of that convention, unless such entry into force shall be prior to the date of approval of this Act \[Sept. 7, 1950\] in which case this Act \[this chapter\] shall take effect immediately.” The Costa Rican convention was ratified on March 3, 1950, and the Mexican convention on July 11, 1950. Therefore, the act took effect upon its approval on Sept. 7, 1950.
+Section 14 of act Sept. 7, 1950, provided: “This Act \[this chapter\] shall take effect with respect to each of the conventions upon the entry into force of that convention, unless such entry into force shall be prior tothe date of approval of this Act \[Sept. 7, 1950\] in which case this Act \[this chapter\] shall take effect immediately.” The Costa Rican convention was ratified on March 3, 1950, and the Mexican convention on July 11, 1950. Therefore, the act took effect upon its approval on Sept. 7, 1950.
 
 #### Short Title
 

@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 153, 332, 503, 504, 522, 541, 571, 572, 573, 741, 753 of this title.
+This subchapter is referred to in sections 153, 332, 503, 504, 522, 541, 571, 572, 573, 741 of this title.
 
 
 ---

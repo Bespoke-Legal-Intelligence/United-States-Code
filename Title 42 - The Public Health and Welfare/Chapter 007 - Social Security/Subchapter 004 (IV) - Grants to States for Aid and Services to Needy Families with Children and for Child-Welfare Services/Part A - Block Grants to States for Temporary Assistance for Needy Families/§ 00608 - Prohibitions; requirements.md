@@ -28,7 +28,7 @@
 
 #### (B) Limitation
 
-&emsp;&emsp;A State to which a grant is made under section 603 of this title shall not require, as a condition of providing assistance to any family under the State program funded under this part, that a member of the family assign to the State any rights to support described in subparagraph (A) which accrue after the date the family ceases to receive assistance under the program.
+&emsp;&emsp;A State to which a grant is made under section 603 of this title shall not require, asa condition of providing assistance to any family under the State program funded under this part, that a member of the family assign to the State any rights to support described in subparagraph (A) which accrue after the date the family ceases to receive assistance under the program.
 
 #### (4) No assistance for teenage parents who do not attend high school or other equivalent training program
 
@@ -44,7 +44,7 @@
 
 #### (i) Requirement
 
-&emsp;&emsp;&emsp;Except as provided in subparagraph (B), a State to which a grant is made under section 603 of this title shall not use any part of the grant to provide assistance to an individual described in clause (ii) ofthis subparagraph if the individual and the minor child referred to in clause (ii)(II) do not reside in a place of residence maintained by a parent, legal guardian, or other adult relative of the individual as such parent's, guardian's, or adult relative's own home.
+&emsp;&emsp;&emsp;Except as provided in subparagraph (B), a State to which a grant is made under section 603 of this title shall not use any part of the grant to provide assistance to an individual described in clause (ii) of this subparagraph if the individual and the minor child referred to in clause (ii)(II) do not reside in a place of residence maintained by a parent, legal guardian, or other adult relative of the individual as such parent's, guardian's, or adult relative's own home.
 
 #### (ii) Individual described
 
@@ -94,7 +94,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;A State to which a grant is made under section 603 of this title shall not use any part of the grant to provide assistance to a family that includes an adult who has received assistance under any State program funded under this part attributable to funds provided by the Federal Government, for 60 months (whether or not consecutive) after the date the State program funded under this part commences, subject to this paragraph.
+&emsp;&emsp;A State to which a grant is made under section 603 of this title shall not use anypart of the grant to provide assistance to a family that includes an adult who has received assistance under any State program funded under this part attributable to funds provided by the Federal Government, for 60 months (whether or not consecutive) after the date the State program funded under this part commences, subject to this paragraph.
 
 #### (B) Minor child exception
 
@@ -112,7 +112,7 @@
 
 #### (ii) Limitation
 
-&emsp;&emsp;&emsp;The average monthly number of families with respect to which an exemption made by a State under clause (i) is in effect for a fiscal year shall not exceed 20 percent ofthe average monthly number of families to which assistance is provided under the State program funded under this part during the fiscal year or the immediately preceding fiscal year (but not both), as the State may elect.
+&emsp;&emsp;&emsp;The average monthly number of families with respect to which an exemption made by a State under clause (i) is in effect for a fiscal year shall not exceed 20 percent of the average monthly number of families to which assistance is provided under the State program funded under this part during the fiscal year or the immediately preceding fiscal year (but not both), as the State may elect.
 
 #### (iii) Battered or subject to extreme cruelty defined
 
@@ -210,7 +210,7 @@
 
 #### (1) Assessment
 
-&emsp;The State agency responsible for administering the State program funded under this part shall make an initial assessment of the skills, prior work experience, and employability of each recipient of assistance under the program who—
+&emsp;The State agency responsible for administering the State program funded under this part shall make an initial assessment of the skills, prior work experience, and employability ofeach recipient of assistance under the program who—
 
 &emsp;&emsp;(A) has attained 18 years of age; or
 
@@ -302,7 +302,7 @@ The following rules shall apply if a State elects to take the income or resource
 
 #### (2) Ineligibility of non-213A aliens sponsored by agencies; exception
 
-&emsp;A non-213A alien whose sponsor is or was a public or private agency shall be ineligible for assistance under a State program funded under this part, during a period of 3 years after the alien enters the United States, unlessthe State agency administering the program determines that the sponsor either no longer exists or has become unable to meet the alien's needs.
+&emsp;A non-213A alien whose sponsor is or was a public or private agency shall be ineligible for assistance under a State program funded under this part, during a period of 3 years after the alien enters the United States, unless the State agency administering the program determines that the sponsor either no longer exists or has become unable to meet the alien's needs.
 
 #### (3) Information provisions
 
@@ -354,7 +354,7 @@ The Age Discrimination Act of 1975, referred to in subsec. (d)(1), is title III 
 
 The Americans with Disabilities Act of 1990, referred to in subsec. (d)(3), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§12101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
 
-The Civil Rights Act of 1964, referred to in subsec. (d)(4), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (d)(4), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, asamended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
 
 Title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, referred to in subsec. (e), is title IV (§400 et seq.) of Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2260. For complete classification of title IV to the Code, see Tables.
 

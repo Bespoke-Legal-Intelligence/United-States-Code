@@ -4,12 +4,6 @@ It shall be unlawful for any person engaged in commerce, in the course of such c
 
 (Oct. 15, 1914, ch. 323, §3, 38 Stat. 731.)
 
-#### Cross References
-
-Administrative authority to enforce compliance with this section, see section 21 of this title.
-
-Monopolizing trade, see section 2 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 21, 26 of this title.

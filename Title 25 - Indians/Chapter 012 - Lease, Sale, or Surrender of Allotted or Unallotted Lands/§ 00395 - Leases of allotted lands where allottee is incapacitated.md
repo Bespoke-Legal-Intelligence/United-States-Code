@@ -22,9 +22,3 @@ Special provisions for leasing allotted lands on certain reservations named in U
 
 Special provisions permitting Indians to whom lands have been allotted on the Yakima Indian reservation in the State of Washington, to lease such lands for agricultural purposes for a term not exceeding 5 years, or unimproved lands for a term not exceeding 10 years were made by acts May 31, 1900, ch. 598, 31 Stat. 246; Mar. 1, 1899, ch. 324, 30 Stat. 941.
 
-#### Cross References
-
-Lands held in trust may be leased by allottee for period not to exceed five years under rules and regulations of the Secretary of the Interior, see section 403 of this title.
-
-Leases of arid allotted lands susceptible of irrigation where Indian is unable personally to occupy and improve his allotment, see section 394 of this title.
-

@@ -16,7 +16,7 @@ Notwithstanding any other provision of this part, variances from national primar
 
 &emsp;(C) Before a variance proposed to be granted by a State under subparagraph (A) or (B) may take effect, such State shall provide notice and opportunity for public hearing on the proposed variance. A notice given pursuant to the preceding sentence may cover the granting of more than one variance and a hearing held pursuant to such notice shall include each of the variances covered by the notice. The State shall promptly notify the Administrator of all variances granted by it. Such notification shall contain the reason for the variance (and in the case of a variance under subparagraph (A), the basis for the finding required by that subparagraph before the granting of the variance) and documentation of the need for the variance.
 
-&emsp;(D) Each public water system's variance granted by a State under subparagraph (A) shall be conditioned by the State upon compliance by the public water system with the schedule prescribed by the State pursuant to that subparagraph. The requirements of each schedule prescribed by a State pursuant to that subparagraph shall be enforceable by the State under its laws. Any requirement of a schedule on which a variance granted under that subparagraph is conditioned may be enforced under section 300g–3 of this title as ifsuch requirement was part of a national primary drinking water regulation.
+&emsp;(D) Each public water system's variance granted by a State under subparagraph (A) shall be conditioned by the State upon compliance by the public water system with the schedule prescribed by the State pursuant to that subparagraph. The requirements of each schedule prescribed by a State pursuant to that subparagraph shall be enforceable by the State under its laws. Any requirement of a schedule on which a variance granted under that subparagraph is conditioned may be enforced under section 300g–3 of this title as if such requirement was part of a national primary drinking water regulation.
 
 &emsp;(E) Each schedule prescribed by a State pursuant to subparagraph (A) shall be deemed approved by the Administrator unless the variance for which it was prescribed is revoked by the Administrator under subparagraph (G) or the schedule is revised by the Administrator under such subparagraph.
 
@@ -54,7 +54,7 @@ For purposes of this section, the term “treatment technique requirement” mea
 
 #### (1) In general
 
-&emsp;A State exercising primary enforcement responsibility for public water systems under section 300g–2 of this title (or the Administrator in nonprimacy States) may grant a variance under this subsection for compliance with a requirement specifying a maximum contaminant level or treatment technique contained in a national primary drinking water regulation to—
+&emsp;A State exercising primary enforcement responsibility for public water systems undersection 300g–2 of this title (or the Administrator in nonprimacy States) may grant a variance under this subsection for compliance with a requirement specifying a maximum contaminant level or treatment technique contained in a national primary drinking water regulation to—
 
 &emsp;&emsp;(A) public water systems serving 3,300 or fewer persons; and
 
@@ -118,7 +118,7 @@ For purposes of this section, the term “treatment technique requirement” mea
 
 #### (B) Affordability criteria
 
-&emsp;&emsp;Not later than 18 months after August 6, 1996, the Administrator, in consultation with the States and the Rural Utilities Service of the Department of Agriculture, shall publish information to assist the States in developing affordability criteria. The affordability criteria shall be reviewed by the States not less often than every 5 years to determine if changes are needed to the criteria.
+&emsp;&emsp;Not later than 18 months after August 6, 1996, the Administrator, in consultation withthe States and the Rural Utilities Service of the Department of Agriculture, shall publish information to assist the States in developing affordability criteria. The affordability criteria shall be reviewed by the States not less often than every 5 years to determine if changes are needed to the criteria.
 
 #### (8) Review by the Administrator
 

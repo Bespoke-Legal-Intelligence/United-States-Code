@@ -20,7 +20,7 @@ As a condition to a partial claim payment under this section, the mortgagor shal
 
 #### References in Text
 
-The Multifamily Assisted Housing Reform and Affordability Act of 1997, referred to in subsec. (b), is title V of Pub. L. 105–65, Oct. 27, 1997, 111 Stat. 1384. Sections 514 and 517(a) of the Act are set out as a note under section 1437f of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title of 1997 Amendment note set out under section 1701 of this title and Tables.
+The Multifamily Assisted Housing Reform and Affordability Act of 1997, referred to in subsec. (b), is titleV of Pub. L. 105–65, Oct. 27, 1997, 111 Stat. 1384. Sections 514 and 517(a) of the Act are set out as a note under section 1437f of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title of 1997 Amendment note set out under section 1701 of this title and Tables.
 
 #### Amendments
 

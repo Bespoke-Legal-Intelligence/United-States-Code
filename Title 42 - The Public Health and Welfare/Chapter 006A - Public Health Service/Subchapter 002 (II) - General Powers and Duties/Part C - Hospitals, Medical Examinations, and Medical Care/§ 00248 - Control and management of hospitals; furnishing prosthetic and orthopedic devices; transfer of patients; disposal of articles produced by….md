@@ -28,9 +28,9 @@ Functions of Public Health Service, Surgeon General of Public Health Service, an
 
 #### Delegation of Functions
 
-Functions of President delegated to Secretary of Health and Human Services, see Ex. Ord. No. 11140, Jan.30, 1964, 29 F.R. 1637, as amended, set out as a note under section 202 of this title.
+Functions of President delegated to Secretary of Health and Human Services, see Ex. Ord. No. 11140, Jan. 30, 1964, 29 F.R. 1637, as amended, set out as a note under section 202 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 254e, 260a of this title.
+This section is referred to in section 254e of this title.
 

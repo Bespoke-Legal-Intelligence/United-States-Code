@@ -38,7 +38,7 @@ The Council shall be composed of the following members:
 
 #### (b) Chairperson
 
-The Council shall elect a Chairperson and a Vice Chairperson from among its members.
+The Council shall elect a Chairperson and a Vice Chairperson from among its members. The positions of Chairperson and Vice Chairperson shall rotate among its members on an annual basis.
 
 #### (c) Meetings
 
@@ -48,11 +48,13 @@ The Council shall meet at the call of its Chairperson or a majority of its membe
 
 Members of the Council shall receive no additional pay, allowances, or benefits by reason of their service on the Council.
 
-(Pub. L. 100–77, title II, §202, July 22, 1987, 101 Stat. 486; Pub. L. 101–645, title I, §101, Nov. 29, 1990, 104 Stat. 4674; Pub. L. 103–82, title IV, §405(m), Sept. 21, 1993, 107 Stat. 922.)
+(Pub. L. 100–77, title II, §202, July 22, 1987, 101 Stat. 486; Pub. L. 101–645, title I, §101, Nov. 29, 1990, 104 Stat. 4674; Pub. L. 103–82, title IV, §405(m), Sept. 21, 1993, 107 Stat. 922; Pub. L. 106–377, §1(a)(1) \[title II, §231(1)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–31.)
 
 #### Amendments
 
-1993—Subsec. (a)(12). Pub. L. 103–82 added par. (12) and struck out former par. (12) which read as follows: “The Director of the ACTION Agency, or the designee of the Director.”
+2000—Subsec. (b). Pub. L. 106–377 inserted at end “The positions of Chairperson and Vice Chairperson shall rotate among its members on an annual basis.”
+
+1993—Subsec. (a)(12). Pub. L. 103–82 added par. (12) and struck out former par. (12) which read as follows: “TheDirector of the ACTION Agency, or the designee of the Director.”
 
 1990—Subsec. (a)(11) to (15). Pub. L. 101–645 added par. (11), redesignated former pars. (11) to (14) as (12) to (15), respectively, and struck out former par. (15) which read as follows: “The Administrator of Veterans’ Affairs, or the designee of the Administrator.”
 

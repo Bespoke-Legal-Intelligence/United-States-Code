@@ -38,7 +38,7 @@ The Chairperson, with the advice of the National Council on the Arts, is authori
 
 #### (d) Application for payment; regulations and procedures
 
-No payment shall be made under this section except upon application therefor which is submitted to the National Endowment for the Artsin accordance with regulations issued and procedures established by the Chairperson. In establishing such regulations and procedures, the Chairperson shall ensure that—
+No payment shall be made under this section except upon application therefor which is submitted to the National Endowment for the Arts in accordance with regulations issued and procedures established by the Chairperson. In establishing such regulations and procedures, the Chairperson shall ensure that—
 
 &emsp;(1) artistic excellence and artistic merit are the criteria by which applications are judged, taking into consideration general standards of decency and respect for the diverse beliefs and values of the American public; and
 
@@ -112,7 +112,7 @@ Whenever the Chairperson, after reasonable notice and opportunity for hearing, f
 
 &emsp;(3) any funds granted to a group or State agency under this section have been diverted from the purposes for which they were allotted or paid,
 
-> the Chairperson shall immediately notify the Secretary of the Treasury and the group or State agency with respect to which such finding was made that no further grants will be made under this section to such group or agency until there is no longer any default or failure to comply or the diversion has been corrected, or, if compliance or correction is impossible, until such group or agency repays or arranges the repayment of the Federal funds which have been improperly diverted or expended.
+> the Chairperson shall immediately notify the Secretary of the Treasury and the group or State agency with respect to which such findingwas made that no further grants will be made under this section to such group or agency until there is no longer any default or failure to comply or the diversion has been corrected, or, if compliance or correction is impossible, until such group or agency repays or arranges the repayment of the Federal funds which have been improperly diverted or expended.
 
 #### (i) Application for financial assistance; requirements
 
@@ -152,7 +152,7 @@ The Chairperson shall issue regulations to provide for the distribution of finan
 
 &emsp;(1) not more than two-thirds of such assistance may be provided at the time such application is approved; and
 
-&emsp;(2) the remainder of such assistance may not be provided until the Chairperson finds thatthe recipient of such assistance is complying substantially with this section and with the conditions under which such assistance is provided to such recipient.
+&emsp;(2) the remainder of such assistance may not be provided until the Chairperson finds that the recipient of such assistance is complying substantially with this section and with the conditions under which such assistance is provided to such recipient.
 
 #### (k) Reviews to ensure compliance with regulations
 
@@ -170,7 +170,7 @@ The Inspector General of the Endowment shall conduct appropriate reviews to ensu
 
 #### (m) Labor standards of professional performers and personnel; healthy and safe working conditions
 
-It shall be a condition of the receipt of any grant under this section that the group or individual of exceptional talent or the State or State agency receiving such grant furnish adequate assurances to the Secretary of Labor that (1) all professional performers and related or supporting professional personnel (other than laborers and mechanics with respect to whom labor standards are prescribed in subsection (n) of this section) employed on projects or productions which are financed in whole or in part under this section will be paid, without subsequent deduction or rebate on any account, not less than the minimum compensation as determined by the Secretary of Labor to be the prevailing minimum compensation for persons employed in similar activities; and (2) no part of any project or production which is financed in whole or in part under this section will be performed or engaged in under working conditions which are unsanitary or hazardous or dangerous to the health and safety of the employees engaged in such project or production. Compliance with the safety and sanitary laws of the State in which the performance or part thereof is to take place shall be prima facie evidence of compliance. The Secretary of Labor shall have the authority to prescribe standards, regulations, and procedures as the Secretary of Labor may deem necessary or appropriate to carry out the provisions of this subsection.
+It shall be a condition of the receipt of any grant under this section that the group or individual of exceptional talent or the State or State agency receiving such grant furnish adequate assurances to the Secretary of Labor that (1) all professional performers and related or supporting professional personnel (other than laborers and mechanics with respect to whom labor standards are prescribed in subsection (n) of this section) employed on projects or productions which are financed in whole or in part under this section will be paid, without subsequent deduction or rebate on any account, not less than the minimum compensation as determined by the Secretary of Labor to be the prevailing minimum compensation for persons employed in similar activities; and (2) no part of any project or production which is financed in whole or in part under this section will be performed or engaged in under working conditions which are unsanitary or hazardous or dangerous to the health and safety of the employees engaged in such project or production. Compliancewith the safety and sanitary laws of the State in which the performance or part thereof is to take place shall be prima facie evidence of compliance. The Secretary of Labor shall have the authority to prescribe standards, regulations, and procedures as the Secretary of Labor may deem necessary or appropriate to carry out the provisions of this subsection.
 
 #### (n) Labor standards of laborers and mechanics
 
@@ -188,7 +188,7 @@ The Chairperson shall correlate the programs of the National Endowment for the A
 
 &emsp;(B) providing administrative and management improvements for cultural organizations and institutions, particularly in the field of long-range financial planning;
 
-&emsp;(C) enabling cultural organizations and institutions to increase audience participationin, and appreciation of, programs sponsored by such organizations and institutions;
+&emsp;(C) enabling cultural organizations and institutions to increase audience participation in, and appreciation of, programs sponsored by such organizations and institutions;
 
 &emsp;(D) providing additional support for cooperative efforts undertaken by State arts agencies with local arts groups and local arts agencies to promote effective arts activity at the State and local level, including—
 
@@ -244,7 +244,7 @@ Reorganization Plan Numbered 14 of 1950, referred to in subsec. (n), is set out 
 
 1990—Subsec. (c). Pub. L. 101–512, §318 \[title I, §103(a)(7)\], substituted “paragraph (10)” for “clause (8)” in concluding provisions.
 
-Subsec. (c)(1). Pub. L. 101–512, §318 \[title I, §103(a)(1)\], amended par. (1) generally. Prior to amendment, par.\(1) read as follows: “projects and productions which have substantial artistic and cultural significance, giving emphasis to American creativity and cultural diversity and the maintenance and encouragement of professional excellence;”.
+Subsec. (c)(1). Pub. L. 101–512, §318 \[title I, §103(a)(1)\], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “projects and productions which have substantial artistic and cultural significance, giving emphasis to American creativity and cultural diversity and the maintenance and encouragement of professional excellence;”.
 
 Subsec. (c)(2). Pub. L. 101–512, §318 \[title I, §103(a)(2)\], inserted “or tradition” after “authenticity”.
 
@@ -288,7 +288,7 @@ Subsec. (p)(2) to (4). Pub. L. 101–512, §318 \[title I, §104\], added par. (
 
 Subsec. (q). Pub. L. 101–512, §318 \[title I, §103(h)(1)\], redesignated subsec. (p) as (q).
 
-Pub. L. 101–512, §318 \[title I, §103(f)\], inserted “ongoing” after “shall, in”, substituted “continue to develop and implement” for “develop”, inserted “and public dissemination” after “collection”, struck out “Not later than one year after December 20, 1985, the Chairperson shall submit to the Committee on Education and Labor of the House of Representatives and the Committee on Labor and Human Resources of the Senate a plan for the development and implementation of such system, including a recommendation regarding the need for any additional funds to be appropriated to develop and implement such system.” after “including rural communities.”, and substituted “1992, and quadrennially” for “1988, and biennially”.
+Pub. L. 101–512, §318 \[title I, §103(f)\], inserted “ongoing” after “shall, in”, substituted “continue to develop and implement” for “develop”, inserted “and public dissemination” after “collection”, struck out “Not later than one year after December 20, 1985, the Chairperson shall submit to the Committee on Education and Labor of the House of Representatives and the Committee on Labor and Human Resources of the Senate a plan for the development and implementation of such system, including a recommendation regardingthe need for any additional funds to be appropriated to develop and implement such system.” after “including rural communities.”, and substituted “1992, and quadrennially” for “1988, and biennially”.
 
 1985—Subsec. (b)(1). Pub. L. 99–194, §105(1), (6), substituted “chairperson” for “chairman” and “Chairperson” for “Chairman”.
 
@@ -356,7 +356,7 @@ Subsec. (c)(3). Pub. L. 91–346, §4, expanded grants-in-aid program to enable 
 
 Subsecs. (d) to (<i>l</i>). Pub. L. 91–346, §5(a)(2), struck out subsec. (d) which provided for the individual appointed as Chairman of the National Council on the Arts to also serve as the Chairman of the National Endowment for the Arts, and redesignated subsecs. (e) to (<i>l</i>), and all references thereto, as subsecs. (d) to (k), respectively.
 
-Subsec. (g)(2)(A). Pub. L. 91–346, §6, permitted the Commissioner of the District of Columbia to designate a successor to the Recreation Board for the purpose of this chapter.
+Subsec. (g)(2)(A). Pub. L. 91–346, §6, permitted the Commissioner of the District of Columbia to designatea successor to the Recreation Board for the purpose of this chapter.
 
 Subsec. (g)(3). Pub. L. 91–346, §7, provided minimum of $65,000 allotment to each State from sums appropriated for this subsec., authorized remaining funds to be equally allotted among the States, excluded Guam and American Samoa from term “State”, and provided for equal allotments to States if the sums appropriated are insufficient to satisfy the minimum allotment.
 
@@ -392,6 +392,10 @@ Amendment by Pub. L. 93–133 effective on and after July 1, 1973, see section 2
 
 Amendment by section 5(a)(1), (2) of Pub. L. 91–346 effective after June 30, 1970, see section 5(d)(3)(A) of Pub. L. 91–346, set out as a note under section 955 of this title.
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (q) of this section relating to quadrennially submitting the state of the arts report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 183 of House Document No. 103–7.
+
 #### GAO Study Regarding Federal, State, and Local Funding of the Arts
 
 Section 318 \[title I, §111\] of Pub. L. 101–512 provided that:
@@ -413,10 +417,6 @@ Report Required.—Not later than October 1, 1992, the Comptroller General shall
 #### Temporary Independent Commission To Review Grant Making Procedures and Consider Standards for Publicly Funded Art
 
 Pub. L. 101–121, title III, §304(a)–(c), Oct. 23, 1989, 103 Stat. 741, 742, prohibited use of funds for National Endowment for the Arts or National Endowment for the Humanities to promote, disseminate, or produce materials which in judgment of National Endowment for the Arts or National Endowment for the Humanities may be considered obscene; stated the sense of Congress concerning present procedures employed for awarding National Endowment for the Arts grants; and established Independent Commission, to expire Sept. 30, 1990, for purpose of reviewing National Endowment for the Arts grant making procedures, and considering whether standard for publicly funded art should be different than standard for privately funded art.
-
-#### Cross References
-
-Compensation of Director of the National Endowment for the Arts, see section 5314 of Title 5, Government Organization and Employees.
 
 #### Section Referred to in Other Sections
 

@@ -104,7 +104,7 @@ As used in this chapter, the term—
 
 &emsp;(15) “Secretary” means the Secretary of Commerce;
 
-&emsp;(16) “specifications” means the required characteristics identified in the contractualagreement with the manufacturer or to which a fastener is otherwise produced, except that the term does not include proprietary standards; and
+&emsp;(16) “specifications” means the required characteristics identified in the contractual agreement with the manufacturer or to which a fastener is otherwise produced, except that the term does not include proprietary standards; and
 
 &emsp;(17) “through-harden” means heating above the transformation temperature followed by quenching and tempering for the purpose of achieving uniform hardness.
 
@@ -126,7 +126,7 @@ Par. (8). Pub. L. 104–113, §11(b)(5), substituted “Standards” for “Stan
 
 Pars. (11), (12). Pub. L. 104–113, §11(b)(6), redesignated pars. (12) and (13) as (11) and (12), respectively, and struck out former par. (11) which read as follows: “ ‘original equipment manufacturer’ means a person who uses fasteners in the manufacture or assembly of its products and sells fasteners to authorized dealers as replacement or service parts for its products;”.
 
-Par. (13). Pub. L. 104–113, §11(b)(7), substituted “or a government agency” for “, a government agency, or a major end-user of fasteners which defines or describes dimensional characteristics, limits of size, acceptable materials, processing, functional behavior, plating, baking, inspecting, testing, packaging, and required markings of any fastener”.
+Par. (13). Pub. L. 104–113, §11(b)(7), substituted “or a government agency” for “, a government agency, or a major end-user of fasteners which defines or describesdimensional characteristics, limits of size, acceptable materials, processing, functional behavior, plating, baking, inspecting, testing, packaging, and required markings of any fastener”.
 
 Pub. L. 104–113, §11(b)(6), redesignated par. (14) as (13). Former par. (13) redesignated (12).
 

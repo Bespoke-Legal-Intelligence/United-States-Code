@@ -20,21 +20,25 @@ No grant may be made under this part unless the eligible tribal organization sub
 
 &emsp;(8) provide assurances that either directly or by way of grant or contract with appropriate entities nutrition services will be delivered to older individuals who are Indians represented by the tribal organization substantially in compliance with the provisions of part C of subchapter III of this chapter, except that in any case in which the need for nutritional services for older individuals who are Indians represented by the tribal organization is already met from other sources, the tribal organization may use the funds otherwise required to be expended under this paragraph for supportive services;
 
-&emsp;(9) contain assurances that the provisions of sections 3027(a)(14)(A)(i) and (iii), 3027(a)(14)(B), and 3027(a)(14)(C) of this title will be complied with whenever the application contains provisions for the acquisition, alteration, or renovation of facilities to serve as multipurpose senior centers;
+&emsp;(9) provide that any legal or ombudsman services made available to older individuals who are Indians represented by the tribal organization will be substantially in compliance with the provisions of subchapter III of this chapter relating to the furnishing of similar services;
 
-&emsp;(10) provide that any legal or ombudsman services made available to older individuals who are Indians represented by the tribal organization will be substantially in compliance with the provisions of subchapter III of this chapter relating to the furnishing of similar services;
+&emsp;(10) provide satisfactory assurance that fiscal control and fund accounting procedures will be adopted as may be necessary to assure proper disbursement of, and accounting for, Federal funds paid under this part to the tribal organization, including any funds paid by the tribal organization to a recipient of a grant or contract; and
 
-&emsp;(11) provide satisfactory assurance that fiscal control and fund accounting procedures will be adopted as may be necessary to assure proper disbursement of, and accounting for, Federal funds paid under this part to the tribal organization, including any funds paid by the tribal organization to a recipient of a grant or contract; and
-
-&emsp;(12) contain assurances that the tribal organization will coordinate services provided under this part with services provided under subchapter III of this chapter in the same geographical area.
+&emsp;(11) contain assurances that the tribal organization will coordinate services provided under this part with services provided under subchapter III of this chapter in the same geographical area.
 
 #### (b) Population statistics development
 
-For the purpose of any application submitted under this part, the tribal organization may develop its own population statistics, with certification from the Bureau of Indian Affairs, in order to establish eligibility.
+For the purpose of any application submitted under this part, the tribal organization may develop its own population statistics, with approval from the Bureau of Indian Affairs, in order to establish eligibility.
 
 #### (c) Approval by Assistant Secretary
 
-The Assistant Secretary shall approve any application which complies with the provisions of subsection (a) of this section.
+(1) The Assistant Secretary shall approve any application which complies with the provisions of subsection (a) of this section.
+
+(2) The Assistant Secretary shall provide waivers and exemptions of the reporting requirements of subsection (a)(3) of this section for applicants that serve Indian populations in geographically isolated areas, or applicants that serve small Indian populations, where the small scale of the project, the nature of the applicant, or other factors make the reporting requirements unreasonable under the circumstances. The Assistant Secretary shall consult with such applicants in establishing appropriate waivers and exemptions.
+
+(3) The Assistant Secretary shall approve any application that complies with the provisions of subsection (a) of this section, except that in determining whether an application complies with the requirements of subsection (a)(8) of this section, the Assistant Secretary shall provide maximum flexibility to an applicant that seeks to take into account subsistence needs, local customs, and other characteristics that are appropriate to the unique cultural, regional, and geographic needs of the Indian populations to be served.
+
+(4) In determining whether an application complies with the requirements of subsection (a)(12) <sup>1</sup> of this section, the Assistant Secretary shall require only that an applicant provide an appropriate narrative description of the geographic area to be served and an assurance that procedures will be adopted to ensure against duplicate services being provided to the same recipients.
 
 #### (d) Disapproval by Assistant Secretary
 
@@ -50,13 +54,23 @@ Whenever the Assistant Secretary determines not to approve an application submit
 
 Whenever the Assistant Secretary approves an application of a tribal organization under this part, funds shall be awarded for not less than 12 months.
 
-(Pub. L. 89–73, title VI, §614, as added Pub. L. 100–175, title I, §171, Nov. 29, 1987, 101 Stat. 960; amended Pub. L. 102–375, title I, §102(b)(4), title VI, §601, title IX, §904(a)(23), Sept. 30, 1992, 106 Stat. 1201, 1269, 1309; Pub. L. 103–171, §§2(21), 3(a)(13), Dec. 2, 1993, 107 Stat. 1989, 1990.)
+(Pub. L. 89–73, title VI, §614, as added Pub. L. 100–175, title I, §171, Nov. 29, 1987, 101 Stat. 960; amended Pub. L. 102–375, title I, §102(b)(4), title VI, §601, title IX, §904(a)(23), Sept. 30, 1992, 106 Stat. 1201, 1269, 1309; Pub. L. 103–171, §§2(21), 3(a)(13), Dec. 2, 1993, 107 Stat. 1989, 1990; Pub. L. 106–501, title VI, §602, title VIII, §801(d), Nov. 13, 2000, 114 Stat. 2287, 2292.)
+
+#### References in Text
+
+Subsection (a)(12) of this section, referred to in subsec. (c)(4), was redesignated subsec. (a)(11) of this section by Pub. L. 106–501, title VIII, §801(d)(2), Nov. 13, 2000, 114 Stat. 2292.
 
 #### Prior Provisions
 
-A prior section 3057e, Pub. L. 89–73, title VI, §606, as added Pub. L. 95–478, title I, §106, Oct. 18, 1978, 92 Stat. 1551; amended Pub. L. 97–115, §3(d), Dec. 29, 1981, 95 Stat. 1597, related to surplus educational facilities, prior to the general amendment of this subchapter by Pub. L. 100–175. See section 3057f of this title.
+A prior section 3057e, Pub. L. 89–73, title VI, §606, as added Pub. L. 95–478, title I, §106, Oct. 18, 1978, 92 Stat.1551; amended Pub. L. 97–115, §3(d), Dec. 29, 1981, 95 Stat. 1597, related to surplus educational facilities, prior to the general amendment of this subchapter by Pub. L. 100–175. See section 3057f of this title.
 
 #### Amendments
+
+2000—Subsec. (a)(9) to (12). Pub. L. 106–501, §801(d), redesignated pars. (10) to (12) as (9) to (11), respectively, and struck out former par. (9) which read as follows: “contain assurances that the provisions of sections 3027(a)(14)(A)(i) and (iii), 3027(a)(14)(B), and 3027(a)(14)(C) of this title will be complied with whenever the application contains provisions for the acquisition, alteration, or renovation of facilities to serve as multipurpose senior centers;”.
+
+Subsec. (b). Pub. L. 106–501, §602(1), substituted “approval” for “certification”.
+
+Subsec. (c). Pub. L. 106–501, §602(2), designated existing provisions as par. (1) and added pars. (2) to (4).
 
 1993—Subsec. (a). Pub. L. 103–171, §3(a)(13), substituted “Assistant Secretary” for “Commissioner” wherever appearing in introductory provisions and in par. (3).
 
@@ -81,4 +95,6 @@ Subsec. (a)(12). Pub. L. 102–375, §601, added par. (12).
 #### Effective Date of 1992 Amendment
 
 Amendment by section 601 of Pub. L. 102–375 inapplicable to fiscal year 1992, see section 905(b)(5) of Pub. L. 102–375, set out as a note under section 3001 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

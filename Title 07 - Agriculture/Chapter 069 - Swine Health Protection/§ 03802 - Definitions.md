@@ -8,7 +8,7 @@ For purposes of this chapter—
 
 &emsp;(3) the term “person” means any individual, corporation, company, association, firm, partnership, society, or joint stock company or other legal entity; and
 
-&emsp;(4) the term “State” means the fifty States, the District of Columbia, Guam, Puerto Rico, the Virgin Islands of the United States, American Samoa, the Commonwealth of the Northern Mariana Islands, and the territories and possessions of the United States.
+&emsp;(4) the term “State” means the fifty States, the District of Columbia, Guam, Puerto Rico,the Virgin Islands of the United States, American Samoa, the Commonwealth of the Northern Mariana Islands, and the territories and possessions of the United States.
 
 (Pub. L. 96–468, §3, Oct 17, 1980, 94 Stat. 2229; Pub. L. 96–592, title V, §511, Dec. 24, 1980, 94 Stat. 3451.)
 

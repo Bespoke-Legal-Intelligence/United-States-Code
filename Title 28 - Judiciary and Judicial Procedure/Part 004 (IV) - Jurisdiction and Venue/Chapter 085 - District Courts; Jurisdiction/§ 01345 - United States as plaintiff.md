@@ -14,33 +14,9 @@ Words “civil actions, suits or proceedings” were substituted for “suits of
 
 Word “agency” was inserted in order that this section shall apply to actions by agencies of the Government and to conform with special acts authorizing such actions. (See definitive section 451 of this title.)
 
-The phrase “Except as otherwise provided by Act of Congress,” at the beginning of the section was insertedto make clear that jurisdiction exists generally in district courts in the absence of special provisions conferring it elsewhere.
+The phrase “Except as otherwise provided by Act of Congress,” at the beginning of the section was inserted to make clear that jurisdiction exists generally in district courts in the absence of special provisions conferring it elsewhere.
 
 Changes were made in phraseology.
-
-#### Cross References
-
-Amount in controversy immaterial in action under this section, see Historical and Revision Notes under section 1331 of this title.
-
-Diversity of citizenship immaterial in action under this section, see Historical and Revision Notes under section 1332 of this title.
-
-Jurisdiction of—
-
-&emsp;&emsp;Action against national banking association, see section 1348 of this title.
-
-&emsp;&emsp;Action for enforcement of fines, penalties, or forfeitures, see section 1355 of this title.
-
-&emsp;&emsp;Bonds executed under federal law, see section 1352 of this title.
-
-&emsp;&emsp;District courts in postal matters, see section 1339 of this title.
-
-Third party tort liability for hospital and medical care, see section 2651 et seq. of Title 42, The Public Health and Welfare.
-
-United States as party—
-
-&emsp;&emsp;Generally, see section 2401 et seq. of this title.
-
-&emsp;&emsp;Surface Transportation Board orders, see section 2322 of this title.
 
 #### Section Referred to in Other Sections
 

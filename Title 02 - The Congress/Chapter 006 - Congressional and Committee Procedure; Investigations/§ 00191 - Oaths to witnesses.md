@@ -16,9 +16,3 @@ R.S. §101 constitutes first sentence, and act June 26, 1884, constitutes second
 
 1938—Act June 22, 1938, reenacted section without change.
 
-#### Cross References
-
-Presiding officer of Senate, power to administer oaths, see section 23 of this title.
-
-Secretary of Senate or assistant secretary, power to administer oaths, see section 24 of this title.
-

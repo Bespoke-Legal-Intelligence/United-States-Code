@@ -10,7 +10,7 @@ For the purposes of sections 13f to 13p of this title the Supreme Court grounds 
 
 #### United States Supreme Court Building; Acquisition of Certain Real Property
 
-Pub. L. 96–532, Dec. 15, 1980, 94 Stat. 3130, as amended by Pub. L. 97–390, §3, Dec. 29, 1982, 96 Stat. 1958, provided: “That the Architect of the Capitol is authorized to acquire on behalf of the United States by purchase, condemnation, transfer, or otherwise, as an addition to the grounds of the United States Supreme Court Building, all privately owned real property contained in lots 2, 3, 800, 801, and 802 in square 758 in the District of Columbia, as such lots appear on the records in the office of the Surveyor of the District of Columbia as of the date of the enactment of this Act \[Dec. 15, 1980\].
+Pub. L. 96–532, Dec. 15, 1980, 94 Stat. 3130, as amended by Pub. L. 97–390, §3, Dec. 29, 1982, 96 Stat. 1958, provided: “That the Architect of the Capitol is authorized to acquire on behalf of the United States by purchase,condemnation, transfer, or otherwise, as an addition to the grounds of the United States Supreme Court Building, all privately owned real property contained in lots 2, 3, 800, 801, and 802 in square 758 in the District of Columbia, as such lots appear on the records in the office of the Surveyor of the District of Columbia as of the date of the enactment of this Act \[Dec. 15, 1980\].
 
 “
 

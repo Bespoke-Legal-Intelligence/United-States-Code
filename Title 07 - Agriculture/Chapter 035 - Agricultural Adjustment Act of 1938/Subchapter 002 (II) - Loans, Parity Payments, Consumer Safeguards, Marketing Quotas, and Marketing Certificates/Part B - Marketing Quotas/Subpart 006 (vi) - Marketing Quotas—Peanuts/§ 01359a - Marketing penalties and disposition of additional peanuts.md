@@ -40,7 +40,7 @@
 
 #### (6) Unintentional violations
 
-&emsp;The Secretary shall authorize, under such regulations as the Secretary shall issue, the county committees established under section 590h(b) of title 16 to waive or reduce marketing penalties provided for under this subsection in cases which the committees determine that the violations that were the basis of the penalties were unintentional or without knowledge on the part of the parties concerned.
+&emsp;The Secretary shall authorize, under such regulations as the Secretary shall issue, thecounty committees established under section 590h(b) of title 16 to waive or reduce marketing penalties provided for under this subsection in cases which the committees determine that the violations that were the basis of the penalties were unintentional or without knowledge on the part of the parties concerned.
 
 #### (7) De minimis violations
 
@@ -112,7 +112,7 @@ On a finding by the Secretary that the peanuts marketed from any crop for domest
 
 #### (II) Common industry practices
 
-&emsp;&emsp;&emsp;&emsp;The Secretary may provide a lower shrinkage allowance for a handler who fails to comply with restrictions on the use of peanuts, as may be specified by the Commodity Credit Corporation, to take into account common industry practices.
+&emsp;&emsp;&emsp;&emsp;The Secretary may provide a lower shrinkage allowance for a handler whofails to comply with restrictions on the use of peanuts, as may be specified by the Commodity Credit Corporation, to take into account common industry practices.
 
 #### (3) Adequate finances and facilities
 
@@ -170,7 +170,7 @@ On a finding by the Secretary that the peanuts marketed from any crop for domest
 
 #### (B) Extension of deadline
 
-&emsp;&emsp;The Secretary may extend the deadline under subparagraph (A) by up to 15 days inresponse to damaging weather or related condition (as defined in section 112 of the Disaster Assistance Act of 1989 <sup>2</sup> (7 U.S.C. 1421 et seq.)). The Secretary shall announce the extension no later than September 5 of the year in which the crop is produced.
+&emsp;&emsp;The Secretary may extend the deadline under subparagraph (A) by up to 15 days in response to damaging weather or related condition (as defined in section 112 of the Disaster Assistance Act of 1989 <sup>2</sup> (7 U.S.C. 1421 et seq.)). The Secretary shall announce the extension no later than September 5 of the year in which the crop is produced.
 
 #### (3) Form
 
@@ -178,7 +178,7 @@ On a finding by the Secretary that the peanuts marketed from any crop for domest
 
 #### (4) Information for handling and processing additional peanuts
 
-&emsp;Notwithstanding any other provision of this section, any person wishing to handle and process additional peanuts as a handler shall submit to the Secretary (or if designated by the Secretary, the area marketing association), such information as may be required under subsection (d) of this section by such date as prescribed by the Secretary so as to permit final action to be taken on the application by July 1 of each marketing year.
+&emsp;Notwithstanding any other provision of this section, any person wishing to handle and process additional peanuts as a handler shall submit to the Secretary (or if designated by the Secretary, the area marketing association), such information as may be required under subsection (d) of this section by such date as prescribed by the Secretary so as topermit final action to be taken on the application by July 1 of each marketing year.
 
 #### (5) Terms
 

@@ -42,7 +42,7 @@
 | (b) | Terms and conditions for destruction. |
 | (c) | Payment of storage, cartage, and labor charges by owner or consignee; liens. |
 | (d) | Prohibition. |
-| (e) | Reports to Congressional committees. |
+| (e) | Omitted. |
 | (f) | Inspection and other standards; applicability, enforcement, etc.; certifications. |
 | (g) | Administration of animal drugs or antibiotics; terms and conditions; entry order violations. |
 | (h) | Reciprocal meat inspection requirement. |
@@ -120,7 +120,7 @@
 
 |  |  |
 | :--- | ---: |
-| [691\.](Subchapter%20005%20%28V%29%20-%20Miscellaneous%20Provisions/%C2%A7%2000691%20-%20Reports%20to%20Congressional%20committees.md) | Reports to Congressional committees. |
+| [691\.](Subchapter%20005%20%28V%29%20-%20Miscellaneous%20Provisions/%C2%A7%2000691%20-%20Omitted.md) | Omitted. |
 | [692\.](Subchapter%20005%20%28V%29%20-%20Miscellaneous%20Provisions/%C2%A7%2000692%20-%20Inspection%20extended%20to%20reindeer.md) | Inspection extended to reindeer. |
 | [693\.](Subchapter%20005%20%28V%29%20-%20Miscellaneous%20Provisions/%C2%A7%2000693%20-%20Inspection%20of%20dairy%20products%20for%20export.md) | Inspection of dairy products for export. |
 | [694\.](Subchapter%20005%20%28V%29%20-%20Miscellaneous%20Provisions/%C2%A7%2000694%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |

@@ -22,7 +22,7 @@ Section 410, act June 16, 1933, ch. 90, title II, §210, 48 Stat. 206, relating 
 
 Section 411, act June 16, 1933, ch. 90, title II, §220, 48 Stat. 210, related to appropriations for public works programs.
 
-Section 411a, act Feb. 15, 1934, ch. 13, 48 Stat. 351, provided for an additional appropriation for expenditurefor purposes of section 721 et seq. of Title 15, Commerce and Trade, and this chapter.
+Section 411a, act Feb. 15, 1934, ch. 13, 48 Stat. 351, provided for an additional appropriation for expenditure for purposes of section 721 et seq. of Title 15, Commerce and Trade, and this subchapter.
 
 #### Repeals
 

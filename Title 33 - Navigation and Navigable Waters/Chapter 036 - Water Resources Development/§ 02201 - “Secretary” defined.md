@@ -8,6 +8,10 @@ For purposes of this Act, the term “Secretary” means the Secretary of the Ar
 
 This Act, referred to in text, is Pub. L. 99–662, Nov. 17, 1986, 100 Stat. 4082, as amended, known as the Water Resources Development Act of 1986. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
+#### Short Title of 2000 Amendment
+
+Pub. L. 106–541, §1(a), Dec. 11, 2000, 114 Stat. 2572, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Water Resources Development Act of 2000’.”
+
 #### Short Title of 1999 Amendment
 
 Pub. L. 106–53, §1(a), Aug. 17, 1999, 113 Stat. 269, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Water Resources Development Act of 1999’.”
@@ -34,6 +38,50 @@ Section 1(a) of Pub. L. 99–662 provided that: “This Act \[enacting this chap
 
 Section 215 of title II of Pub. L. 99–662 provided that: “This title \[enacting subchapter II of this chapter\] may be cited as the ‘Harbor Development and Navigation Improvement Act of 1986’.”
 
+#### Funding to Process Permits
+
+Pub. L. 106–541, title II, §214, Dec. 11, 2000, 114 Stat. 2594, provided that:
+
+“(a)
+
+In General.—In fiscal years 2001 through 2003, the Secretary, after public notice, may accept and expend funds contributed by non-Federal public entities to expedite the evaluation of permits under the jurisdiction of the Department of the Army.
+
+“(b)
+
+Effect on Permitting.—In carrying out this section, the Secretary shall ensure that the use of funds accepted under subsection (a) will not impact impartial decisionmaking with respect to permits, either substantively or procedurally.”
+
+#### Monitoring
+
+Pub. L. 106–541, title II, §223, Dec. 11, 2000, 114 Stat. 2597, provided that:
+
+“(a)
+
+In General.—The Secretary shall conduct a monitoring program of the economic and environmental results of up to 5 eligible projects selected by the Secretary.
+
+“(b)
+
+Duration.—The monitoring of a project selected by the Secretary under this section shall be for a period of not less than 12 years beginning on the date of its selection.
+
+“(c)
+
+Reports.—The Secretary shall transmit to Congress every 3 years a report on the performance of each project selected under this section.
+
+“(d)
+
+Eligible Project Defined.—In this section, the term ‘eligible project’ means a water resources project, or separable element thereof—
+
+&emsp;“(1) for which a contract for physical construction has not been awarded before the date of enactment of this Act \[Dec. 11, 2000\];
+
+&emsp;“(2) that has a total cost of more than $25,000,000; and
+
+&emsp;“(3)(A) that has as a benefit-to-cost ratio of less than 1.5 to 1; or
+
+&emsp;“(B) that has significant environmental benefits or significant environmental mitigation components.
+
+“(e)
+
+Costs.—The cost of conducting monitoring under this section shall be a Federal expense.”
+
 #### Water Control Management
 
 Pub. L. 106–53, title V, §511, Aug. 17, 1999, 113 Stat. 341, provided that:
@@ -44,7 +92,7 @@ In General.—In evaluating potential improvements for water control management 
 
 “(b)
 
-Report.—Not later than 180 days after the date of enactment of this Act \[Aug. 17, 1999\], the Secretary shall submit to the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives and the Committee onEnvironment and Public Works and the Committee on Appropriations of the Senate a report containing—
+Report.—Not later than 180 days after the date of enactment of this Act \[Aug. 17, 1999\], the Secretaryshall submit to the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives and the Committee on Environment and Public Works and the Committee on Appropriations of the Senate a report containing—
 
 &emsp;“(1) a description of the primary objectives of streamlining water control management activities;
 
@@ -83,6 +131,8 @@ Notice to Recipients of Assistance.—In providing financial assistance under th
 Section 948 of Pub. L. 99–662 provided that: “Any spending authority under this Act \[see Short Title note above\] shall be effective only to such extent and in such amounts as are provided in appropriation Acts. For purposes of this Act, the term ‘spending authority’ has the meaning provided in section 401(c)(2) of the Congressional Budget Act of 1974 \[2 U.S.C. 651(c)(2)\], except that such term does not include spending authority for which an exception is made under section 401(d) of such Act.”
 
 #### “Secretary” Defined
+
+Pub. L. 106–541, §2, Dec. 11, 2000, 114 Stat. 2575, provided that: “In this Act \[see Tables for classification\], the term ‘Secretary’ means the Secretary of the Army.”
 
 Pub. L. 106–53, §2, Aug. 17, 1999, 113 Stat. 273, provided that: “In this Act \[see Tables for classification\], the term ‘Secretary’ means the Secretary of the Army.”
 

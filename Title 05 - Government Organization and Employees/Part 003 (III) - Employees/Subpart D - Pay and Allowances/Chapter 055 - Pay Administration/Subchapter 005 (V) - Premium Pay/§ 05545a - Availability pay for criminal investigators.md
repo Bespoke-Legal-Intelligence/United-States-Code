@@ -142,7 +142,7 @@ Section 633(e) of Pub. L. 103–329 provided that: “The amendments made by thi
 
 &emsp;“(1) Criminal investigators, employed in Offices of Inspectors General, who are not receiving administratively uncontrollable overtime compensation or who are receiving such premium pay at a rate less than 25 percent prior to the date of enactment of this Act, may implement availability pay at any time prior to September 30, 1995, after which date availability pay as authorized under this section shall be provided to such criminal investigators.
 
-&emsp;“(2) Criminal investigators, employed by Offices of Inspectors General, who are receiving administratively uncontrollable overtime at a rate less than 25 percent, shall continue to receive this compensation at the same rate or higher until availability pay compensation is provided, which shall be no later than the last pay period ending on or before September 30, 1995.”
+&emsp;“(2) Criminal investigators, employed by Offices of Inspectors General, who are receiving administratively uncontrollable overtime at a rate less than 25 percent, shall continue to receive this compensationat the same rate or higher until availability pay compensation is provided, which shall be no later than the last pay period ending on or before September 30, 1995.”
 
 #### Implementation
 

@@ -2,7 +2,7 @@
 
 Under regulations to be prescribed by the Secretary of Defense, a member of a uniformed service whose permanent station is outside the United States may be allowed transportation in kind for any minor dependent (or reimbursement therefor), or a monetary allowance in place of such transportation in kind, to a school operated by the Department of Defense under the Defense Dependents’ Education Act of 1978 (20 U.S.C. 921 et seq.) for dependents in an overseas area which is operated, and which such dependent attends, on a 5-day-a-week dormitory basis or on a 7-day-a-week dormitory basis. In the case of a dependent attending a school on a 5-day-a-week dormitory basis, the transportation in kind or allowance authorized by this section shall be for weekly trips to and from such school, and in the case of a dependent attending a school on a 7-day-a-week dormitory basis, such transportation in kind or allowances shall be for not less than three trips to and from such school during the school year.
 
-(Added Pub. L. 95–561, title XIV, §1407(d)(1)(A), formerly §1407(c)(1)(A), Nov. 1, 1978, 92 Stat. 2367, renumbered §1407(d)(i)(A), Pub. L. 101–510, div. A, title V, §504(a)(1), Nov. 5, 1990, 104 Stat. 1559; amended Pub. L. 99–145, title XIII, §1303(b)(10), Nov. 8, 1985, 99 Stat. 741.)
+(Added Pub. L. 95–561, title XIV, §1407(d)(1)(A), formerly §1407(c)(1)(A), Nov. 1, 1978, 92 Stat. 2367, renumbered §1407(d)(1)(A), Pub. L. 101–510, div. A, title V, §504(a)(1), Nov. 5, 1990, 104 Stat. 1559; amended Pub. L. 99–145, title XIII, §1303(b)(10), Nov. 8, 1985, 99 Stat. 741.)
 
 #### References in Text
 

@@ -4,7 +4,7 @@
 
 As used in this section:
 
-(1) The term “utility” means any person who is a local exchange carrier or an electric, gas, water, steam, or other public utility, and who owns or controls poles, ducts, conduits, orrights-of-way used, in whole or in part, for any wire communications. Such term does not include any railroad, any person who is cooperatively organized, or any person owned by the Federal Government or any State.
+(1) The term “utility” means any person who is a local exchange carrier or an electric, gas, water, steam, or other public utility, and who owns or controls poles, ducts, conduits, or rights-of-way used, in whole or in part, for any wire communications. Such term does not include any railroad, any person who is cooperatively organized, or any person owned by the Federal Government or any State.
 
 (2) The term “Federal Government” means the Government of the United States or any agency or instrumentality thereof.
 
@@ -80,7 +80,7 @@ An entity that obtains an attachment to a pole, conduit, or right-of-way shall n
 
 #### Amendments
 
-1996—Subsec. (a)(1). Pub. L. 104–104, §703(1), inserted first sentence and struck out former first sentence which read as follows: “The term ‘utility’ means any person whose rates or charges are regulated by the Federal Government or a State and who owns or controls poles, ducts, conduits, or rights-of-way used, in whole or in part, for wire communication.”
+1996—Subsec. (a)(1). Pub. L. 104–104, §703(1), inserted first sentence and struck out former first sentencewhich read as follows: “The term ‘utility’ means any person whose rates or charges are regulated by the Federal Government or a State and who owns or controls poles, ducts, conduits, or rights-of-way used, in whole or in part, for wire communication.”
 
 Subsec. (a)(4). Pub. L. 104–104, §703(2), inserted “or provider of telecommunications service” after “system”.
 

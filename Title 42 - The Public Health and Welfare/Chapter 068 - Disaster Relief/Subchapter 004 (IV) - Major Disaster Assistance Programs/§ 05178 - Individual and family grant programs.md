@@ -28,9 +28,13 @@ The Governor of a State shall administer the grant program authorized by this se
 
 #### (f) Limit on grants to individual
 
-No individual or family shall receive grants under this section aggregating more than $10,000 with respect to any single major disaster. Such$10,000 limit shall annually be adjusted to reflect changes in the Consumer Price Index for All Urban Consumers published by the Department of Labor.
+No individual or family shall receive grants under this section aggregating more than $10,000 with respect to any single major disaster. Such $10,000 limit shall annually be adjusted to reflect changes in the Consumer Price Index for All Urban Consumers published by the Department of Labor.
 
 (Pub. L. 93–288, title IV, §411, as added Pub. L. 100–707, title I, §106(g), Nov. 23, 1988, 102 Stat. 4704.)
+
+#### Repeal of Section
+
+<i>Pub. L. 106–390, title II, §206(c), (d), Oct. 30, 2000, 114 Stat. 1571, provided that, effective 18 months after Oct. 30, 2000, this section is repealed.</i>
 
 #### Prior Provisions
 

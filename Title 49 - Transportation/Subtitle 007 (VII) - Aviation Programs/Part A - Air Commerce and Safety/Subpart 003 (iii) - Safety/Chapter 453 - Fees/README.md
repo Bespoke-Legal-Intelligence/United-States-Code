@@ -13,6 +13,10 @@
 
 1996—Pub. L. 104–264, title II, §§273(b), 276(b), Oct. 9, 1996, 110 Stat. 3240, 3248, substituted “General provisions” for “Authority to impose fees” in item 45301, added items 45303 and 45304, and struck out former item 45303 “Maximum fees for private person services”.
 
+#### Chapter Referred to in Other Sections
+
+This chapter is referred to in section 106 of this title.
+
 
 ---
 

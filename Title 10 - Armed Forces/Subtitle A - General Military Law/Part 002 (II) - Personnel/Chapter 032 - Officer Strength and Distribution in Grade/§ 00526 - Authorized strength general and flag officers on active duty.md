@@ -16,7 +16,7 @@ Limitations.—The number of general officers on active duty in the Army, Air Fo
 
 Limited Exclusion for Joint Duty Requirements.—(1) The Chairman of the Joint Chiefs of Staff may designate up to 12 general officer and flag officer positions that are joint duty assignments for purposes of chapter 38 of this title for exclusion from the limitations in subsection (a). Officers in positions so designated shall not be counted for the purposes of those limitations.
 
-(2)(A) The Chairman of the Joint Chiefs of Staff may designate up to 10 general and flag officer positions on the staffs of the commanders of the unified and specified combatant commands as positions to be held only by reserve component officers who are in a general or flagofficer grade below lieutenant general or vice admiral. Each position so designated shall be considered to be a joint duty assignment position for purposes of chapter 38 of this title.
+(2)(A) The Chairman of the Joint Chiefs of Staff may designate up to 10 general and flag officer positions on the staffs of the commanders of the unified and specified combatant commands as positions to be held only by reserve component officers who are in a general or flag officer grade below lieutenant general or vice admiral. Each position so designated shall be considered to be a joint duty assignment position for purposes of chapter 38 of this title.
 
 (B) A reserve component officer serving in a position designated under subparagraph (A) while on active duty under a call or order to active duty that does not specify a period of 180 days or less shall not be counted for the purposes of the limitations under subsection (a) and under section 525 of this title if the officer was selected for service in that position in accordance with the procedures specified in subparagraph (C).
 
@@ -54,7 +54,7 @@ Exclusion of Certain Officers.—The limitations of this section do not apply to
 
 Section is based on Pub. L. 95–79, title VIII, §811(a), July 30, 1977, 91 Stat. 335, as amended by Pub. L. 96–107, title VIII, §817, Nov. 9, 1979, 93 Stat. 818; Pub. L. 96–342, title X, §1003, Sept. 8, 1980, 94 Stat. 1120; Pub. L. 97–86, title VI, §602, Dec. 1, 1981, 95 Stat. 1110.
 
-Present law (section 811(a) of Public Law 95–79, as amended) provides that the authority to suspend the limitation on the number of general and flag officers who may be serving on active duty applies during war or national emergency. In codifying the limitation (in section 526 of title 10 as proposed to be added by section 1(b) of the bill), the committee determined that the same war and emergency waiver authority as applies to other limitations on the number of officers on active duty under the existing 10 U.S.C. 526 (redesignated as 10 U.S.C. 527 by the bill) should apply with respect to this limitation and accordingly amended the suspension authority in present law to include the codified general and flag officer limitation. This authority is slightly different from the waiver authority in the source law in that the suspension would expire 2 years after it takes effect or 1 year after the end of the war or national emergency, whichever occurs first, rather than upon termination of the war or emergency.
+Present law (section 811(a) of Public Law 95–79, as amended) provides that the authority to suspend thelimitation on the number of general and flag officers who may be serving on active duty applies during war or national emergency. In codifying the limitation (in section 526 of title 10 as proposed to be added by section 1(b) of the bill), the committee determined that the same war and emergency waiver authority as applies to other limitations on the number of officers on active duty under the existing 10 U.S.C. 526 (redesignated as 10 U.S.C. 527 by the bill) should apply with respect to this limitation and accordingly amended the suspension authority in present law to include the codified general and flag officer limitation. This authority is slightly different from the waiver authority in the source law in that the suspension would expire 2 years after it takes effect or 1 year after the end of the war or national emergency, whichever occurs first, rather than upon termination of the war or emergency.
 
 #### Prior Provisions
 
@@ -106,5 +106,5 @@ Section 403(a) of Pub. L. 101–510 provided that the amendment made by that sec
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 525, 527, 721, 3210, 4335, 5150, 8210, 9335, 12004, 12505 of this title.
+This section is referred to in sections 517, 525, 527, 721, 3038, 3210, 4335, 5143, 5144, 5150, 8038, 8210, 9335, 10506, 12004, 12011, 12012 of this title.
 

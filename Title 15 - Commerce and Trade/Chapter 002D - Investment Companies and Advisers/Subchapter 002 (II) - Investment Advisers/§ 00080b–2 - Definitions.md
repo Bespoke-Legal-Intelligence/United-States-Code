@@ -2,7 +2,7 @@
 
 (a) When used in this subchapter, unless the context otherwise requires, the following definitions shall apply:
 
-&emsp;(1) “Assignment” includes any direct or indirect transfer or hypothecation of an investment advisory contract by the assignor or of a controlling block of the assignor's outstanding voting securities by a security holder of the assignor; but if the investment adviser is a partnership, no assignment of an investment advisory contract shall be deemed to result from the death or withdrawal of a minority of the members of the investment adviser having only a minority interest in the business of theinvestment adviser, or from the admission to the investment adviser of one or more members who, after such admission, shall be only a minority of the members and shall have only a minority interest in the business.
+&emsp;(1) “Assignment” includes any direct or indirect transfer or hypothecation of an investment advisory contract by the assignor or of a controlling block of the assignor's outstanding voting securities by a security holder of the assignor; but if the investment adviser is a partnership, no assignment of an investment advisory contract shall be deemed to result from the death or withdrawal of a minority of the members of the investment adviser having only a minority interest in the business of the investment adviser, or from the admission to the investment adviser of one or more members who, after such admission, shall be only aminority of the members and shall have only a minority interest in the business.
 
 &emsp;(2) “Bank” means (A) a banking institution organized under the laws of the United States, (B) a member bank of the Federal Reserve System, (C) any other banking institution or trust company, whether incorporated or not, doing business under the laws of any State or of the United States, a substantial portion of the business of which consists of receiving deposits or exercising fiduciary powers similar to those permitted to national banks under the authority of the Comptroller of the Currency, and which is supervised and examined by State or Federal authority having supervision over banks, and which is not operated for the purpose of evading the provisions of this subchapter, and (D) a receiver, conservator, or other liquidating agent of any institution or firm included in clauses (A), (B), or (C) of this paragraph.
 
@@ -34,9 +34,9 @@
 
 &emsp;(16) “Person” means a natural person or a company.
 
-&emsp;(17) The term “person associated with an investment adviser” means any partner, officer, or director of such investment adviser (or any person performing similar functions), or any person directly or indirectly controlling or controlled by such investment adviser, including any employee of such investment adviser, except that for the purposes of section 80b–3 of this title (other than subsection (f) thereof), persons associated with an investment adviserwhose functions are clerical or ministerial shall not be included in the meaning of such term. The Commission may by rules and regulations classify, for the purposes of any portion of portions of this subchapter, persons, including employees controlled by an investment adviser.
+&emsp;(17) The term “person associated with an investment adviser” means any partner, officer, or director of such investment adviser (or any person performing similar functions), or any person directly or indirectly controlling or controlled by such investment adviser, including any employee of such investment adviser, except that for the purposes of section 80b–3 of this title (other than subsection (f) thereof), persons associated with an investment adviser whose functions are clerical or ministerial shall not be included in the meaning of such term. The Commission may by rules and regulations classify, for the purposes of any portion of portions of this subchapter, persons, including employees controlled by an investment adviser.
 
-&emsp;(18) “Security” means any note, stock, treasury stock, bond, debenture, evidence of indebtedness, certificate of interest or participation in any profit-sharing agreement, collateral-trust certificate, preorganization certificate or subscription, transferable share, investment contract, voting-trust certificate, certificate of deposit for a security, fractional undivided interest in oil, gas, or other mineral rights, any put, call, straddle, option, or privilege on any security (including a certificate of deposit) or on any group or index of securities (including any interest therein or based on the value thereof), or any put, call, straddle, option, or privilege entered into on a national securities exchange relating to foreign currency, or, in general, any interest or instrument commonly known as a “security”, or any certificate of interest or participation in, temporary or interim certificate for, receipt for, guaranty of, or warrant or right to subscribe to or purchase any of the foregoing.
+&emsp;(18) “Security” means any note, stock, treasury stock, security future, bond, debenture, evidence of indebtedness, certificate of interest or participation in any profit-sharing agreement, collateral-trust certificate, preorganization certificate or subscription, transferable share, investment contract, voting-trust certificate, certificate of deposit for a security, fractional undivided interest in oil, gas, or other mineral rights, any put, call, straddle, option, or privilege on any security (including a certificate of deposit) or on any group or index of securities (including any interest therein or based on the value thereof), or any put, call, straddle, option, or privilege entered into on a national securities exchange relating to foreign currency, or, in general, any interest or instrument commonly known as a “security”, or any certificate of interest or participation in, temporary or interim certificate for, receipt for, guaranty of, or warrant or right to subscribe to or purchase any of the foregoing.
 
 &emsp;(19) “State” means any State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, or any other possession of the United States.
 
@@ -60,13 +60,21 @@
 
 &emsp;(25) “Supervised person” means any partner, officer, director (or other person occupying a similar status or performing similar functions), or employee of an investment adviser, or other person who provides investment advice on behalf of the investment adviser and is subject to the supervision and control of the investment adviser.
 
+&emsp;(26) The term “separately identifiable department or division” of a bank means a unit—
+
+&emsp;&emsp;(A) that is under the direct supervision of an officer or officers designated by the board of directors of the bank as responsible for the day-to-day conduct of the bank's investment adviser activities for one or more investment companies, including the supervision of all bank employees engaged in the performance of such activities; and
+
+&emsp;&emsp;(B) for which all of the records relating to its investment adviser activities are separately maintained in or extractable from such unit's own facilities or the facilities of the bank, and such records are so maintained or otherwise accessible as to permit independent examination and enforcement by the Commission of this subchapter or the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\] and rules and regulations promulgated under this subchapter or the Investment Company Act of 1940.
+
+&emsp;(27) The terms “security future” and “narrow-based security index” have the same meanings as provided in section 3(a)(55) of theSecurities Exchange Act of 1934 \[15 U.S.C. 78c(a)(55)\].
+
 (b) No provision in this subchapter shall apply to, or be deemed to include, the United States, a State, or any political subdivision of a State, or any agency, authority, or instrumentality of any one or more of the foregoing, or any corporation which is wholly owned directly or indirectly by any one or more of the foregoing, or any officer, agent, or employee of any of the foregoing acting as such in the course of his official duty, unless such provision makes specific reference thereto.
 
-(Aug. 22, 1940, ch. 686, title II, §202, 54 Stat. 847; Pub. L. 86–70, §12(c), June 25, 1959, 73 Stat. 143; Pub. L. 86–624, §7(d), July 12, 1960, 74 Stat. 412; Pub. L. 86–750, §1, Sept. 13, 1960, 74 Stat. 885; Pub. L. 89–485, §13(j), July 1, 1966, 80 Stat. 243; Pub. L. 91–547, §23, Dec. 14, 1970, 84 Stat. 1430; Pub. L. 95–598, title III, §311, Nov. 6, 1978, 92 Stat. 2676; Pub. L. 96–477, title II, §201, Oct. 21, 1980, 94 Stat. 2289; Pub. L. 97–303, §6, Oct. 13, 1982, 96 Stat. 1410; Pub. L. 100–181, title VII, §701, Dec. 4, 1987, 101 Stat. 1263; Pub. L. 101–550, title II, §206(b), Nov. 15, 1990, 104 Stat. 2720; Pub. L. 104–290, title III, §303(c), Oct. 11, 1996, 110 Stat. 3438; Pub. L. 106–102, title II, §§217–219, 224, Nov. 12, 1999, 113 Stat. 1399, 1400, 1402.)
+(Aug. 22, 1940, ch. 686, title II, §202, 54 Stat. 847; Pub. L. 86–70, §12(c), June 25, 1959, 73 Stat. 143; Pub. L. 86–624, §7(d), July 12, 1960, 74 Stat. 412; Pub. L. 86–750, §1, Sept. 13, 1960, 74 Stat. 885; Pub. L. 89–485, §13(j), July 1, 1966, 80 Stat. 243; Pub. L. 91–547, §23, Dec. 14, 1970, 84 Stat. 1430; Pub. L. 95–598, title III, §311, Nov. 6, 1978, 92 Stat. 2676; Pub. L. 96–477, title II, §201, Oct. 21, 1980, 94 Stat. 2289; Pub. L. 97–303, §6, Oct. 13, 1982, 96 Stat. 1410; Pub. L. 100–181, title VII, §701, Dec. 4, 1987, 101 Stat. 1263; Pub. L. 101–550, title II, §206(b), Nov. 15, 1990, 104 Stat. 2720; Pub. L. 104–290, title III, §303(c), Oct. 11, 1996, 110 Stat. 3438; Pub. L. 106–102, title II, §§217–219, 224, Nov. 12, 1999, 113 Stat. 1399, 1400, 1402; Pub. L. 106–554, §1(a)(5) \[title II, §209(a)(2), (4)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–435, 2763A–436.)
 
 #### Amendment of Section
 
-<i>Pub. L. 106–102, title II, §§217–219, 224, 225, Nov. 12, 1999, 113 Stat. 1399, 1400, 1402, provided that, effective 18 months after Nov. 12, 1999—</i>
+<i>Pub. L. 106–102, title II, §§217(a), 218, 219, 224, 225, Nov. 12, 1999, 113 Stat. 1399, 1400, 1402, provided that, effective 18 months after Nov. 12, 1999—</i>
 
 <i>(1) Subsection (a)(3) of this section is amended to read as follows:</i>
 
@@ -78,15 +86,7 @@
 
 <i>(3) Subsection (a)(11)(A) of this section is amended by striking “investment company” and inserting “investment company, except that the term ‘investment adviser’ includes any bank or bank holding company to the extent that such bank or bank holding company serves or acts as an investment adviser to a registered investment company, but if, in the case of a bank, such services or actions are performed through a separately identifiable department or division, the department or division, and not the bank itself, shall be deemed to be the investment adviser”.</i>
 
-<i>(4) Subsection (a) of this section is amended by adding at the end the following new paragraph:</i>
-
-(26) The term “separately identifiable department or division” of a bank means a unit—
-
-&emsp;(A) that is under the direct supervision of an officer or officers designated by the board of directors of the bank as responsible for the day-to-day conduct of the bank's investment adviser activities for one or more investment companies, including the supervision of all bank employees engaged in the performance of such activities; and
-
-&emsp;(B) for which all of the records relating to its investment adviser activities are separately maintained in or extractable from such unit's own facilities or the facilities of the bank, and such records are so maintained or otherwise accessible as to permit independent examination and enforcement by the Commission of this subchapter or the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\] and rules and regulations promulgated under this subchapter or the Investment Company Act of 1940.
-
-<i>(5) This section is amended by adding at the end the following new subsection:</i>
+<i>(4) This section is amended by adding at the end the following new subsection:</i>
 
 #### (c) Consideration of promotion of efficiency, competition, and capital formation
 
@@ -96,7 +96,7 @@ Whenever pursuant to this subchapter the Commission is engaged in rulemaking and
 
 The Bank Holding Company Act of 1956, referred to in subsec. (a)(11)(A), is act May 9, 1956, ch. 240, 70 Stat. 133, as amended, which is classified principally to chapter 17 (§1841 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 1841 of Title 12 and Tables.
 
-The Investment Company Act of 1940, referred to in subsec. (a)(12), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of this chapter. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
+The Investment Company Act of 1940, referred to in subsec. (a)(12), (26)(B), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of this chapter. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
 
 The Securities Act of 1933, referred to in subsec. (a)(21), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
 
@@ -107,6 +107,12 @@ The Public Utility Holding Company Act of 1935, referred to in subsec. (a)(21), 
 The Trust Indenture Act of 1939, referred to in subsec. (a)(21), is title III of act May 27, 1933, ch. 38, as added Aug. 3, 1939, ch. 411, 53 Stat. 1149, and amended, which is classified generally to subchapter III (§77aaa et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77aaa of this title and Tables.
 
 #### Amendments
+
+2000—Subsec. (a)(18). Pub. L. 106–554, §1(a)(5) \[title II, §209(a)(2)\], inserted “security future,” after “treasury stock,”.
+
+Subsec. (a)(27). Pub. L. 106–554, §1(a)(5) \[title II, §209(a)(4)\], added par. (27).
+
+1999—Subsec. (a)(26). Pub. L. 106–102, §217(b), added par. (26).
 
 1996—Subsec. (a). Pub. L. 104–290, §303(c)(1), substituted “requires, the following definitions shall apply:” for “requires—” in introductory provisions.
 
@@ -156,31 +162,7 @@ Amendment by Pub. L. 91–547 effective Dec. 14, 1970, see section 30 of Pub. L.
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
-#### Cross References
-
-Applicability to United States, or their governmental agencies of—
-
-&emsp;&emsp;Investment Company Act of 1940, see section 80a–2 of this title.
-
-&emsp;&emsp;Public Utility Holding Company Act of 1935, see section 79b of this title.
-
-&emsp;&emsp;Securities Exchange Act of 1934, see section 78c of this title.
-
-Definition of terms—
-
-&emsp;&emsp;Assignment, bank, broker, company, convicted, dealer, director, exchange, investment adviser, national securities exchange, person, security, and underwriter under Investment Company Act of 1940, see section 80a–2 of this title.
-
-&emsp;&emsp;Bank, broker, dealer, director, exchange, person, security, and underwriter under Securities Exchange Act of 1934, see section 78c of this title.
-
-&emsp;&emsp;Company, director, person, and security under Public Utility Holding Company Act of 1935, see section 79b of this title.
-
-&emsp;&emsp;Dealer, person, security, and underwriter under Securities Act of 1933, see section 77b of this title.
-
-&emsp;&emsp;Director and underwriter under Trust Indenture Act of 1939, see section 77ccc of this title.
-
-&emsp;&emsp;Investment advisory contract, see section 80b–5 of this title.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 80b–3a, 6102, 6827 of this title; title 5 section 8438; title 10 sections 4357, 6975, 9356.
+This section is referred to in sections 80b–3, 80b–3a, 6102, 6827 of this title; title 5 section 8438; title 7 section 2; title 10 sections 4357, 6975, 9356.
 

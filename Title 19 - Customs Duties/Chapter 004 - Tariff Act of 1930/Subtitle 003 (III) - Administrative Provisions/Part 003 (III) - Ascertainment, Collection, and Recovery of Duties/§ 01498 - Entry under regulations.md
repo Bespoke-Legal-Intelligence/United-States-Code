@@ -96,10 +96,6 @@ Amendment by Pub. L. 98–573 effective on 15th day after Oct. 30, 1984, see sec
 
 Amendment by act Aug. 8, 1953, effective on and after thirtieth day following Aug. 8, 1953, and savings provision, see notes set out under section 1304 of this title.
 
-#### Cross References
-
-Baggage in transit to foreign country, see section 1553 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1484 of this title.

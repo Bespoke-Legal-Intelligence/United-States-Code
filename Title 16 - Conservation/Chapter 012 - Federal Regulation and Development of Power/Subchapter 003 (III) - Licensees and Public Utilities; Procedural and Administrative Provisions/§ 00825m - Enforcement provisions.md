@@ -6,7 +6,7 @@ Whenever it shall appear to the Commission that any person is engaged or about t
 
 #### (b) Writs of mandamus
 
-Upon application of the Commission the district courts of the United States and the United States courts of any Territory or other place subject to the jurisdiction of the United States shall have jurisdiction to issue writs of mandamus commanding any person to comply with the provisions of this chapter or any rule, regulation, or order of the Commission thereunder.
+Upon application of the Commission the district courts of the United States and the United States courts of any Territory or other placesubject to the jurisdiction of the United States shall have jurisdiction to issue writs of mandamus commanding any person to comply with the provisions of this chapter or any rule, regulation, or order of the Commission thereunder.
 
 #### (c) Employment of attorneys
 
@@ -23,10 +23,6 @@ As originally enacted subsecs. (a) and (b) contained references to the Supreme C
 Federal Power Commission terminated and its functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42, The Public Health and Welfare.
 
 Executive and administrative functions of Federal Power Commission, with certain reservations, transferred to Chairman of such Commission, with authority vested in him to authorize their performance by any officer, employee, or administrative unit under his jurisdiction, by Reorg. Plan No. 9 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out as a note under section 792 of this title.
-
-#### Federal Rules of Civil Procedure
-
-Writ of mandamus abolished, see rule 81, Title 28, Appendix, Judiciary and Judicial Procedure.
 
 #### Section Referred to in Other Sections
 

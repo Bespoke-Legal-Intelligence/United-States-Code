@@ -92,7 +92,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) a quantity of an eligible article having an appraised value in excess of the applicable amount for the calendar year, or
 
-&emsp;&emsp;&emsp;&emsp;(II) a quantity of an eligible article equal to or exceeding 50 percent of theappraised value of the total imports of that article into the United States during any calendar year,
+&emsp;&emsp;&emsp;&emsp;(II) a quantity of an eligible article equal to or exceeding 50 percent of the appraised value of the total imports of that article into the United States during any calendar year,
 
 &emsp;&emsp;&nbsp;the President shall, not later than July 1 of the next calendar year, terminate the duty-free treatment for that article from that beneficiary developing country.
 
@@ -112,9 +112,9 @@
 
 &emsp;&emsp;A country which is no longer treated as a beneficiary developing country with respect to an eligible article by reason of subparagraph (A) may, subject to the considerations set forth in sections 2461 and 2462 of this title, be redesignated a beneficiary developing country with respect to such article if imports of such article from such country did not exceed the limitations in subparagraph (A) during the preceding calendar year.
 
-#### (D) Least-developed beneficiary developing countries
+#### (D) Least-developed beneficiary developing countries and beneficiary sub-Saharan African countries
 
-&emsp;&emsp;Subparagraph (A) shall not apply to any least-developed beneficiary developing country.
+&emsp;&emsp;Subparagraph (A) shall not apply to any least-developed beneficiary developing country or any beneficiary sub-Saharan African country.
 
 #### (E) Articles not produced in the United States excluded
 
@@ -174,7 +174,7 @@
 
 #### (B) Other waiver limits
 
-&emsp;&emsp;The President may not exercise the waiver authority provided under this subsectionwith respect to a quantity of an eligible article entered during any calendar year beginning after 1995, the aggregate appraised value of which exceeds 15 percent of the aggregate appraised value of all articles that have entered duty-free under this subchapter during the preceding calendar year from those beneficiary developing countries which for the preceding calendar year—
+&emsp;&emsp;The President may not exercise the waiver authority provided under this subsection with respect to a quantity of an eligible article entered during any calendar year beginning after 1995, the aggregate appraised value of which exceeds 15 percent of the aggregate appraised value of all articles that have entered duty-free under this subchapter during the preceding calendar year from those beneficiary developing countries which for the preceding calendar year—
 
 &emsp;&emsp;&emsp;(i) had a per capita gross national product (calculated on the basis of the best available information, including that of the International Bank for Reconstruction and Development) of $5,000 or more; or
 
@@ -194,13 +194,13 @@
 
 #### (e) International Trade Commission advice
 
-Before designating articles as eligible articles under subsection (a)(1) of this section, the President shall publish and furnish the International Trade Commission with lists of articles which may be considered for designation as eligible articles for purposes of this subchapter. The provisions of sections 2151, 2152, 2153, and 2154 of this title shall be complied with as though action under section 2461 of this title and this section were action under section 2133 of this title to carry out a trade agreement entered into under section 2133 of this title.
+Before designating articles as eligible articles under subsection (a)(1) of this section, the President shall publish and furnish the International Trade Commission with lists of articles which may be considered for designation as eligible articles for purposes of this subchapter. The provisions of sections 2151, 2152, 2153, and 2154 of this title shall be complied with as though action under section 2461 of this title and this sectionwere action under section 2133 of this title to carry out a trade agreement entered into under section 2133 of this title.
 
 #### (f) Special rule concerning Puerto Rico
 
 No action under this subchapter may affect any tariff duty imposed by the Legislature of Puerto Rico pursuant to section 1319 of this title on coffee imported into Puerto Rico.
 
-(Pub. L. 93–618, title V, §503, as added Pub. L. 104–188, title I, §1952(a), Aug. 20, 1996, 110 Stat. 1921; amended Pub. L. 106–36, title I, §1001(a)(7), June 25, 1999, 113 Stat. 130.)
+(Pub. L. 93–618, title V, §503, as added Pub. L. 104–188, title I, §1952(a), Aug. 20, 1996, 110 Stat. 1921; amended Pub. L. 106–36, title I, §1001(a)(7), June 25, 1999, 113 Stat. 130; Pub. L. 106–200, title I, §111(b), May 18, 2000, 114 Stat. 258.)
 
 #### Prior Provisions
 
@@ -208,9 +208,11 @@ A prior section 2463, Pub. L. 93–618, title V, §503, Jan. 3, 1975, 88 Stat. 2
 
 #### Amendments
 
+2000—Subsec. (c)(2)(D). Pub. L. 106–200 amended heading and text of subpar. (D) generally. Prior to amendment, text read as follows: “Subparagraph (A) shall not apply to any least-developed beneficiary developing country.”
+
 1999—Subsec. (a)(2)(A)(ii). Pub. L. 106–36 added subcl. (II) and concluding provisions and struck out former subcl. (II) which read as follows: “the direct costs of processing operations performed in such beneficiary developing country or such member countries, is not less than 35 percent of the appraised value of such article at the time it is entered.”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 3011 of this title; title 7 section 7236.
+This section is referred to in sections 2466a, 3011 of this title; title 7 section 7236.
 

@@ -14,5 +14,5 @@ Section 2806, Pub. L. 88–452, title II, §217, Aug. 20, 1964, 78 Stat. 522, pr
 
 Section 2806a, Pub. L. 88–452, title II, §218, as added Pub. L. 89–253, §19(2), Oct. 9, 1965, 79 Stat. 976, made provision for teacher training projects.
 
-Section 2807, Pub. L. 88–452, title II, §219, formerly §218, Aug. 20, 1964, 78 Stat. 523, renumbered Pub. L. 89–253, §19(2), Oct. 9, 1965, 79 Stat. 976, set out the definitions of terms.
+Section 2807, Pub. L. 88–452, title II, §219, formerly §218, Aug. 20, 1964, 78 Stat. 523, renumbered Pub. L.89–253, §19(2), Oct. 9, 1965, 79 Stat. 976, set out the definitions of terms.
 

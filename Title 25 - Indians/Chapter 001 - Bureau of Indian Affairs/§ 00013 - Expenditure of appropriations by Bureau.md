@@ -40,7 +40,7 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 #### Effective Date of 1976 Amendment
 
-Amendment by Pub. L. 94–482 effective 30 days after Oct. 12, 1976, except either as specifically otherwise provided or, if not so specifically otherwise provided, effective July 1, 1976, for those amendments providing for authorization of appropriations, see section 532 of Pub. L. 94–482, set out as a note under section 1001 of Title 20, Education.
+Amendment by Pub. L. 94–482 effective 30 days after Oct. 12, 1976, except either as specifically otherwise provided or, if not so specifically otherwise provided, effective July 1, 1976, for those amendments providing for authorization of appropriations, see section 532 of Pub.L. 94–482, set out as a note under section 1001 of Title 20, Education.
 
 #### Short Title
 
@@ -68,5 +68,5 @@ Pub. L. 95–561, title XI, §1103(a), Nov. 1, 1978, 92 Stat. 2316, as amended b
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 13–1, 13a, 155b, 458cc, 861c, 903a, 1300i–1, 1616, 1616<i>l</i>, 1621, 1621a, 1621h, 1631, 1652, 1653, 1654, 1661, 1665c, 1809, 1813, 1912, 1933, 2306, 2808, 3303, 3322 of this title; title 20 section 2327; title 40 App. section 214; title 42 section 1382.
+This section is referred to in sections 13–1, 13a, 155b, 458cc, 458aaa–4, 861c, 903a, 1300i–1, 1616, 1616<i>l</i>, 1621, 1621a, 1621h, 1631, 1652, 1653, 1654, 1661, 1665c, 1809, 1813, 1912, 1933, 2306, 2808, 3303, 3322 of this title; title 20 section 2327; title 40 App. section 214; title 42 section 1382.
 

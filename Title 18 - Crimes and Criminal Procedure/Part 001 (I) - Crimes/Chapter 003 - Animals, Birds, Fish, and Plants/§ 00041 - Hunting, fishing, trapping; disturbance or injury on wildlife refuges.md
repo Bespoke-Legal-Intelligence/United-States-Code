@@ -24,9 +24,3 @@ Words “in any United States court of competent jurisdiction”, in sections 67
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $500”.
 
-#### Cross References
-
-Game and bird preserves, see section 671 et seq. of Title 16, Conservation.
-
-Protection of migratory game and birds, see section 701 et seq. of Title 16.
-

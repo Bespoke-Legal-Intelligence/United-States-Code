@@ -2,9 +2,9 @@
 
 (a) Any justice or judge of the United States appointed to hold office during good behavior may retire from the office after attaining the age and meeting the service requirements, whether continuous or otherwise, of subsection (c) and shall, during the remainder of his lifetime, receive an annuity equal to the salary he was receiving at the time he retired.
 
-(b)(1) Any justice or judge of the United States appointed to hold office during good behavior may retain the office but retire from regular active service after attaining the age and meeting the service requirements, whether continuous or otherwise, of subsection (c) of this section and shall, during the remainder of his or her lifetime, continue to receive the salary of the office if he or she meets the requirements of subsection (f).
+(b)(1) Any justice or judge of the United States appointed to hold office during good behavior may retain the office but retire from regular active service after attaining the age and meeting the service requirements, whether continuous or otherwise, of subsection (c) of this section and shall, during the remainder of his or her lifetime, continue to receive the salary of the office if he or she meets the requirements of subsection (e).
 
-(2) In a case in which a justice or judge who retires under paragraph (1) does not meet the requirements of subsection (f), the justice or judge shall continue to receive the salary that he or she was receiving when he or she was last in active service or, if a certification under subsection (f) was made for such justice or judge, when such a certification was last in effect. The salary of such justice or judge shall be adjusted under section 461 of this title.
+(2) In a case in which a justice or judge who retires under paragraph (1) does not meet the requirements of subsection (e), the justice or judge shall continue to receive the salary that he or she was receiving when he or she was last in active service or, if a certification under subsection (e) was made for such justice or judge, when such a certification was last in effect. The salary of such justice or judge shall be adjusted under section 461 of this title.
 
 (c) The age and service requirements for retirement under this section are as follows:
 
@@ -40,9 +40,7 @@ Years of service:
 
 (d) The President shall appoint, by and with the advice and consent of the Senate, a successor to a justice or judge who retires under this section.
 
-(e) Notwithstanding subsection (c) of section 5532 <sup>1</sup> of title 5, if a regular or reserve member or former member of a uniformed service who is receiving retired or retainer pay becomes employed as a justice or judge of the United States, as defined by section 451, or becomes eligible therefor while so employed, such retired or retainer pay shall not be paid during regular active service as a justice or judge, but shall be resumed or commenced without reduction upon retirement from the judicial office or from regular active service (into senior status) as such justice or judge.
-
-(f)(1) In order to continue receiving the salary of the office under subsection (b), a justice must be certified in each calendar year by the Chief Justice, and a judge must be certified by the chief judge of the circuit in which the judge sits, as having met the requirements set forth in at least one of the following subparagraphs:
+(e)(1) In order to continue receiving the salary of the office under subsection (b), a justice must be certified in each calendar year by the Chief Justice, and a judge must be certified by the chief judge of the circuit in which the judge sits, as having met the requirements set forth in at least one of the following subparagraphs:
 
 &emsp;(A) The justice or judge must have carried in the preceding calendar year a caseload involving courtroom participation which is equal to or greater than the amount of work involving courtroom participation which an average judge in active service would perform in three months. In the instance of a justice or judge who has sat on both district courts and courts of appeals, the caseload of appellate work and trial work shall be determined separately and the results of those determinations added together for purposes of this paragraph.
 
@@ -60,7 +58,7 @@ Years of service:
 
 (4) In the case of any justice or judge who retires under subsection (b) during a calendar year, there shall be included in the determination under this subsection of work performed during that calendar year all work performed by that justice or judge (as described in subparagraphs (A), (B), (C), and (D) of paragraph (1)) during that calendar year before such retirement.
 
-(June 25, 1948, ch. 646, 62 Stat. 903; Oct. 31, 1951, ch. 655, §39, 65 Stat. 724; Feb. 10, 1954, ch. 6, §4(a), 68 Stat. 12; Pub. L. 98–353, title II, §204(a), July 10, 1984, 98 Stat. 350; Pub. L. 100–702, title X, §1005(a), Nov. 19, 1988, 102 Stat. 4666; Pub. L. 101–194, title VII, §705(a), Nov. 30, 1989, 103 Stat. 1770; Pub. L. 104–317, title III, §301, Oct. 19, 1996, 110 Stat. 3851.)
+(June 25, 1948, ch. 646, 62 Stat. 903; Oct. 31, 1951, ch. 655, §39, 65 Stat. 724; Feb. 10, 1954, ch. 6, §4(a), 68 Stat. 12; Pub. L. 98–353, title II, §204(a), July 10, 1984, 98 Stat. 350; Pub. L. 100–702, title X, §1005(a), Nov. 19, 1988, 102 Stat. 4666; Pub. L. 101–194, title VII, §705(a), Nov. 30, 1989, 103 Stat. 1770; Pub. L. 104–317, title III, §301, Oct. 19, 1996, 110 Stat. 3851; Pub. L. 106–398, §1 \[\[div. A\], title VI, §654(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–165; Pub. L. 106–518, title III, §303, Nov. 13, 2000, 114 Stat. 2417.)
 
 #### Historical and Revision Notes
 
@@ -74,23 +72,27 @@ Terms “judge of the United States” and “justice of the United States” ar
 
 The revised section continues the provision respecting the salary of a resigned judge but changes such provision for retired judges and makes them eligible to receive any increases provided by Congress for the office from which they retired. This change is in harmony with the clear line of distinction drawn by Congress between retirement and resignation.
 
-#### References in Text
-
-Section 5532 of title 5, referred to in subsec. (e), was repealed by Pub. L. 106–65, div. A, title VI, §651(a)(1), Oct. 5, 1999, 113 Stat. 664.
-
 #### Amendments
 
-1996—Subsec. (f)(1)(D). Pub. L. 104–317, §301(b), inserted at end “In any year in which a justice or judge performs work described under this subparagraph for less than the full year, one-half of such work may be aggregated with work described under subparagraph (A), (B), or (C) of this paragraph for the purpose of the justice or judge satisfying the requirements of such subparagraph.”
+<b>2000</b>—Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title VI, §654(a)(2)\], substituted “subsection (e)” for “subsection (f)” wherever appearing.
+
+Subsec. (e). Pub. L. 106–518, which directed amendment of subsec. (e) by inserting “, except such pay as is deductible from the retired or retainer pay as a result of participation in any survivor's benefits plan in connection with the retired pay,” after “such retired or retainer pay”, could not be executed because of amendment by Pub. L. 106–398. See below.
+
+Pub. L. 106–398, §1 \[\[div. A\], title VI, §654(a)(1)\], redesignated subsec. (f) as (e) and struck out former subsec. (e) which read as follows: “Notwithstanding subsection (c) of section 5532 of title 5, if a regular or reserve member or former member of a uniformed service who is receiving retired or retainer pay becomes employed as a justice or judge of the United States, as defined by section 451, or becomes eligible therefor while so employed, such retired or retainer pay shall not be paid during regular active service as a justice or judge, but shall be resumed or commenced without reduction upon retirement from the judicial office or from regular active service (into senior status) as such justice or judge.”
+
+Subsec. (f). Pub. L. 106–398, §1 \[\[div. A\], title VI, §654(a)(1)(B)\], redesignated subsec. (f) as (e).
+
+<b>1996</b>—Subsec. (f)(1)(D). Pub. L. 104–317, §301(b), inserted at end “In any year in which a justice or judge performs work described under this subparagraph for less than the full year, one-half of such work may be aggregated with work described under subparagraph (A), (B), or (C) of this paragraph for the purpose of the justice or judge satisfying the requirements of such subparagraph.”
 
 Subsec. (f)(3). Pub. L. 104–317, §301(a), substituted “may thereafter receive a certification for that year by satisfying the requirements of subparagraph (A), (B), (C), or (D) of paragraph (1) of this subsection in a subsequent year and attributing a sufficient part of the work performed in such subsequent year to the earlier year so that the work so attributed, when added to the work performed during such earlier year, satisfies the requirements for certification for that year. However, a justice or judge may not receive credit for the same work for purposes of certification for more than 1 year.” for “is thereafter ineligible to receive such a certification.”
 
-1989—Subsec. (b). Pub. L. 101–194, §705(a)(1), designated existing provisions as par. (1), inserted “or her” after “his”, substituted “of the office if he or she meets the requirements of subsection (f)” for “of the office”, and added par. (2).
+<b>1989</b>—Subsec. (b). Pub. L. 101–194, §705(a)(1), designated existing provisions as par. (1), inserted “or her” after “his”, substituted “of the office if he or she meets the requirements of subsection (f)” for “of the office”, and added par. (2).
 
 Subsec. (f). Pub. L. 101–194, §705(a)(2), added subsec. (f).
 
-1988—Subsec. (e). Pub. L. 100–702 added subsec. (e).
+<b>1988</b>—Subsec. (e). Pub. L. 100–702 added subsec. (e).
 
-1984—Pub. L. 98–353 substituted “Retirement on salary; retirement in senior status” for “Resignation or retirement for age” in section catchline.
+<b>1984</b>—Pub. L. 98–353 substituted “Retirement on salary; retirement in senior status” for “Resignation or retirement for age” in section catchline.
 
 Subsec. (a). Pub. L. 98–353 amended subsec. (a) generally, substituting “may retire from the office after attaining the age and meeting the service requirements, whether continuous or otherwise, of subsection (c) and shall, during the remainder of his lifetime, receive an annuity equal to the salary he was receiving at the time he retired” for “who resigns after attaining the age of seventy years and after serving at least ten years continuously or otherwise shall, during the remainder of his lifetime, continue to receive the salary which he was receiving when he resigned”.
 
@@ -98,7 +100,7 @@ Subsec. (b). Pub. L. 98–353 amended subsec. (b) generally, substituting “may
 
 Subsecs. (c), (d). Pub. L. 98–353 added subsecs. (c) and (d).
 
-1954—Act Feb. 10, 1954, struck out “; substitute judge on failure to retire” in section catchline.
+<b>1954</b>—Act Feb. 10, 1954, struck out “; substitute judge on failure to retire” in section catchline.
 
 Subsec. (a). Act Feb. 10, 1954, reenacted subsec. (a) without change.
 
@@ -106,7 +108,11 @@ Subsec. (b). Act Feb. 10, 1954, in first sentence, inserted provision for retire
 
 Subsec. (c). Act Feb. 10, 1954, in general amendment of section, omitted subsec. (c) which related to appointment of substitute judges for disabled judges eligible to resign or retire where the latter fail to resign or retire, and to precedence of such disabled judges who remain on the active list after the appointment of substitutes.
 
-1951—Act Oct. 31, 1951, subdivided section into subsections, and limited second par. of subsec. (c) (as so designated) to judges who remain on the active list but whose disabilities cause the appointment of additional judges as authorized by first par. of such subsec.
+<b>1951</b>—Act Oct. 31, 1951, subdivided section into subsections, and limited second par. of subsec. (c) (as so designated) to judges who remain on the active list but whose disabilities cause the appointment of additional judges as authorized by first par. of such subsec.
+
+#### Effective Date of 2000 Amendment
+
+Pub. L. 106–398, §1 \[\[div. A\], title VI, §654(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–165, provided that: “The amendments made by this section \[amending this section and repealing section 180 of this title\] shall take effect as of October 1, 1999.”
 
 #### Effective Date of 1989 Amendment
 
@@ -132,7 +138,7 @@ Section 1005(b) of Pub. L. 100–702 provided that: “The amendment made by thi
 
 #### Effective Date of 1984 Amendment
 
-Section 204(c) of Pub. L. 98–353 provided that: “The amendments made by this section \[amending this section\] shall apply with respect to any justice or judge of the United States appointed to hold office during good behavior who retires on or after the date of enactment of this Act \[July 10, 1984\].”
+Section 204(c) of Pub. L. 98–353 provided that: “The amendments made by this section \[amending this section\] shall apply with respect to any justice or judge ofthe United States appointed to hold office during good behavior who retires on or after the date of enactment of this Act \[July 10, 1984\].”
 
 #### Computation of Judicial Service, District of Alaska
 
@@ -142,25 +148,7 @@ Pub. L. 89–70, July 8, 1965, 79 Stat. 213, provided: “That, notwithstanding 
 
 Pub. L. 86–3, §14(d), Mar. 18, 1959, 73 Stat. 10, provided in part: “That service as a judge of the District Court for the Territory of Hawaii or as a judge of the United States District Court for the District of Hawaii or as a justice of the Supreme Court of the Territory of Hawaii or as a judge of the circuit courts of the Territory of Hawaii shall be included in computing under section 371, 372, or 373 of title 28, United States Code, the aggregate years of judicial service of any person who is in office as a district judge for the District of Hawaii on the date of enactment of this Act \[Mar. 18, 1959\].”
 
-#### Cross References
-
-Assignment of retired justices or judges to active duty, see section 294 of this title.
-
-Justices and judges appointed to hold office during good behavior—
-
-&emsp;&emsp;Court of International Trade, see section 252 of this title.
-
-&emsp;&emsp;Courts of Appeals, see Const., Art. 3, §1.
-
-&emsp;&emsp;District Courts, see Const., Art. 3, §1.
-
-&emsp;&emsp;Supreme Court, see Const., Art. 3, §1.
-
-Tax court judges, retirement, see section 7447 of Title 26, Internal Revenue Code.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 178, 180, 294, 331, 372, 375, 376, 377, 458, 621 of this title; title 5 sections 8440a, 8701, 8714a, 8714b; title 26 section 3121; title 42 section 409.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+This section is referred to in sections 178, 294, 331, 332, 372, 375, 376, 377, 458, 621 of this title; title 5 sections 8440a, 8701, 8714a, 8714b; title 26 section 3121; title 42 section 409.
 

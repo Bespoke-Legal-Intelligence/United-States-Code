@@ -12,16 +12,6 @@ Every combination, conspiracy, trust, agreement, or contract is declared to be c
 
 Section 78 of act Aug. 27, 1894, as added by Pub. L. 94–435, title III, §305(d), Sept. 30, 1976, 90 Stat. 1397, provided that: “Sections 73, 74, 75, 76, and 77 of this Act \[sections 8 to 11 of this title\] may be cited as the ‘Wilson Tariff Act’.”
 
-#### Cross References
-
-Combinations in restraint of trade or commerce, see section 1 of this title.
-
-Immunity of witnesses, see section 6001 of Title 18, Crimes and Criminal Procedure.
-
-Monopolies in restraint of trade or commerce, see section 2 of this title.
-
-Panama Canal closed to violators of antitrust laws, see section 31 of this title.
-
 #### Wilson Tariff Act Referred to in Other Sections
 
 The Wilson Tariff Act \[15 U.S.C. 8 to 11\] is referred to in sections 12, 31, 44 of this title; title 7 section 225; title 16 section 2602, title 30 section 1413; title 42 section 2135; title 43 section 1331; title 49 section 10706.

@@ -4,13 +4,3 @@ Authorization is granted for the publication and distribution of the citizenship
 
 (June 27, 1952, ch. 477, title III, ch. 2, §346, 66 Stat. 266.)
 
-#### Cross References
-
-Definition of the term—
-
-&emsp;&emsp;Attorney General, see section 1101(a)(5) of this title.
-
-&emsp;&emsp;Naturalization, see section 1101(a)(23) of this title.
-
-&emsp;&emsp;Service, see section 1101(a)(34) of this title.
-

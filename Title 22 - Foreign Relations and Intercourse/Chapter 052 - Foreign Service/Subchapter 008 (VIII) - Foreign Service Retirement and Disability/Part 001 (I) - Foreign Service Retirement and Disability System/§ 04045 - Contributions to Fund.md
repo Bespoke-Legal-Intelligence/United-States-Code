@@ -42,8 +42,7 @@ Each participant shall be deemed to consent and agree to such deductions from ba
 | January 1, 1970, through December 31, 1998, inclusive | 7&nbsp;&nbsp;&nbsp; |
 | January 1, 1999, through December 31, 1999, inclusive | 7\.25 |
 | January 1, 2000, through December 31, 2000, inclusive | 7\.4&nbsp; |
-| January 1, 2001, through December 31, 2002, inclusive | 7\.5&nbsp; |
-| After December 31, 2002 | 7&nbsp;&nbsp;&nbsp; |
+| After December 31, 2000 | 7&nbsp;&nbsp;&nbsp; |
 
 > Special contributions for refunds under subparagraph (B) shall equal the amount of the refund received by the participant.
 
@@ -51,7 +50,7 @@ Each participant shall be deemed to consent and agree to such deductions from ba
 
 (3) Special contributions under this subsection shall include interest computed from the midpoint of each service period included in the computation, or from the date refund was paid, to the date of payment of the special contribution or commencing date of annuity, whichever is earlier. <sup>2</sup> Interest shall be compounded at the annual rate of 4 percent to December 31, 1976, and 3 percent thereafter. No interest shall be charged on special contributions for any period of separation from Government service which began before October 1, 1956. Special contributions may be paid in installments (including by allotment of pay) when authorized by the Secretary of State.
 
-(4) Notwithstanding the preceding provisions of this subsection and any provision of section 206(b)(3) of the Federal Employees’ Retirement Contribution Temporary Adjustment Act of 1983, the percentage of basic pay required under this subsection in the case of a participant described in section 4071b(c) of this title shall, with respect to any covered service (as defined by section 203(a)(3) of such Act) performed by such individual after December 31, 1983, and before January 1, 1987, be equal to 1.3 percent.
+(4) Notwithstanding the preceding provisions of this subsection and any provision of section206(b)(3) of the Federal Employees’ Retirement Contribution Temporary Adjustment Act of 1983, the percentage of basic pay required under this subsection in the case of a participant described in section 4071b(c) of this title shall, with respect to any covered service (as defined by section 203(a)(3) of such Act) performed by such individual after December 31, 1983, and before January 1, 1987, be equal to 1.3 percent.
 
 (5) Notwithstanding paragraph (1), a special contribution for past service as a Foreign Service criminal investigator/inspector of the Office of the Inspector General, Agency for International Development which would have been creditable toward retirement under either section 8336(c) or 8412(d) of title 5, and for which a special contribution has not been made shall be equal to the difference between the amount actually contributed pursuant to either this section or section 4071e of this title and the amount that should have been contributed pursuant to either section 8334 or 8422 of title 5.
 
@@ -87,7 +86,7 @@ A participant or survivor may make a special contribution at any time before rec
 
 Effective with respect to pay periods beginning after December 31, 1986, in administering this section with respect to a participant described in section 4071b(c) of this title whose service is employment for the purposes of title II of the Social Security Act \[42 U.S.C. 401 et seq.\] and chapter 21 of title 26, contributions to the Fund and interest thereon shall be computed as if section 8334(k) of title 5 were applicable.
 
-(Pub. L. 96–465, title I, §805, Oct. 17, 1980, 94 Stat. 2104; Ex. Ord. No. 12446, §4(a), Oct. 17, 1983, 48 F.R. 48444; Pub. L. 99–335, title IV, §§402(a)(2), 405, June 6, 1986, 100 Stat. 609, 610; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–238, title II, §212, Jan. 8, 1988, 101 Stat. 1773; Pub. L. 102–499, §4(a), (b), Oct. 24, 1992, 106 Stat. 3265; Pub. L. 105–33, title VII, §7001(d)(2)(C), (D), Aug. 5, 1997, 111 Stat. 660, 661; Pub. L. 105–382, §2(b), (c), Nov. 13, 1998, 112 Stat. 3407.)
+(Pub. L. 96–465, title I, §805, Oct. 17, 1980, 94 Stat. 2104; Ex. Ord. No. 12446, §4(a), Oct. 17, 1983, 48 F.R. 48444; Pub. L. 99–335, title IV, §§402(a)(2), 405, June 6, 1986, 100 Stat. 609, 610; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–238, title II, §212, Jan. 8, 1988, 101 Stat. 1773; Pub. L. 102–499, §4(a), (b), Oct. 24, 1992, 106 Stat. 3265; Pub. L. 105–33, title VII, §7001(d)(2)(C), (D), Aug. 5, 1997, 111 Stat. 660, 661; Pub. L. 105–382, §2(b), (c), Nov. 13, 1998, 112 Stat. 3407; Pub. L. 106–346, §101(a) \[title V, §505(d)(2)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–53.)
 
 #### Amendment of Section
 
@@ -95,7 +94,7 @@ Effective with respect to pay periods beginning after December 31, 1986, in admi
 
 #### References in Text
 
-Section 8422(a)(2) of title 5, referred to in subsec. (a)(2)(B), was amended by Pub. L. 105–33, title VII, §7001(b)(1)(A), Aug. 5, 1997, 111 Stat. 657, by striking outpar. (2) and adding a new par. (2). As so amended, section 8422(a)(2)(B) of Title 5, Government Organization and Employees, no longer specifies the amount to be withheld from the basic pay of a law enforcement officer. However, provisions relating to the amount to be withheld from the basic pay of a law enforcement officer are contained elsewhere in section 8422.
+Section 8422(a)(2) of title 5, referred to in subsec. (a)(2)(B), was amended by Pub. L. 105–33, title VII, §7001(b)(1)(A), Aug. 5, 1997, 111 Stat. 657, by striking out par. (2) and adding a new par. (2). As so amended, section 8422(a)(2)(B) of Title 5, Government Organization and Employees, no longer specifies the amount to be withheld from the basic pay of a law enforcement officer. However, provisions relating to the amount to be withheld from the basic pay of a law enforcement officer are contained elsewhere in section 8422.
 
 Sections 206(b)(3) and 203(a)(3) of the Federal Employees’ Retirement Contribution Temporary Adjustment Act of 1983, referred to in subsec. (d)(4), are set out as a note under section 8331 of Title 5, Government Organization and Employees.
 
@@ -103,13 +102,15 @@ The Social Security Act, referred to in subsec. (h), is act Aug. 14, 1935, ch. 5
 
 #### Amendments
 
+2000—Subsec. (d)(1). Pub. L. 106–346, in table in concluding provisions, substituted item relating to service period after December 31, 2000, for items relating to service periods January 1, 2001, through December 31, 2002; and after December 31, 2002.
+
 1998—Subsec. (a)(1). Pub. L. 105–382, §2(b)(2), substituted “Except as otherwise provided in this section,” for “Except as provided in subsection (h) of this section,”.
 
 Subsec. (a)(3). Pub. L. 105–382, §2(b)(1), added par. (3).
 
 Subsec. (d)(6). Pub. L. 105–382, §2(c), added par. (6).
 
-1997—Subsec. (d). Pub. L. 105–33, §7001(d)(2)(C), in table in concluding provisions, inserted items relating to service periods January 1, 1970, through December 31, 1998; January 1, 1999, through December 31, 1999; January 1, 2000, through December 31, 2000; January 1, 2001, through December 31, 2002; and after December 31, 2002, and struck out former item relating to service period on and after January 1, 1970.
+1997—Subsec. (d)(1). Pub. L. 105–33, §7001(d)(2)(C), in table in concluding provisions, inserted items relating to service periods January 1, 1970, through December 31, 1998; January 1, 1999, through December 31, 1999; January 1, 2000, through December 31, 2000; January 1, 2001, through December 31, 2002; and after December 31, 2002, and struck out former item relating to service period on and after January 1, 1970.
 
 Subsec. (e)(1). Pub. L. 105–33, §7001(d)(2)(D)(i), substituted “Subject to paragraph (5), each” for “Each”.
 
@@ -133,9 +134,13 @@ Pub. L. 99–335, §405(a)(2), added subsec. (h).
 
 1983—Subsecs. (e) to (g). Ex. Ord. No. 12446 added subsecs. (e) and (f), struck out former subsec. (e), and redesignated former subsec. (f) as (g). Prior to amendment, subsec. (e) read as follows: “Contributions shall not be required for any period of military and naval service or for any period for which credit is allowed to individuals of Japanese ancestry under section 4056 of this title for periods of internment during World War II.”
 
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–346 effective upon the close of calendar year 2000 and applicable thereafter, see section 101(a) \[title V, §505(i)\] of Pub. L. 106–346, set out as a note under section 8334 of Title 5, Government Organization and Employees.
+
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–382 effective Nov. 13, 1998, with provisions relating to applicability with respect to certain individuals, see section 4 of Pub. L. 105–382, set out as a note under section 4044 of this title.
+Amendment by Pub. L. 105–382 effective Nov. 13, 1998, with provisions relating to applicability with respect to certain individuals, see section 4 of Pub. L. 105–382, as amended, set out as a note under section 4044 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -155,7 +160,15 @@ Amendment by Ex. Ord. No. 12446 effective Oct. 17, 1983, see section 4(e) of Ex.
 
 #### Foreign Service Retirement and Disability System Contributions, Deductions, and Withholdings
 
-Section 7001(d)(1)–(2)(B) of Pub. L. 105–33 provided that:
+Pub. L. 106–346, §101(a) \[title V, §505(h)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–54, provided that: “Notwithstanding any provision of section 805(a) of the Foreign Service Act of 1980 (22 U.S.C. 4045(a)), during the period beginning on October 1, 2002, through December 31, 2002, each agency employing a participant in the Foreign Service Retirement and Disability System shall contribute to the Foreign Service Retirement and Disability Fund—
+
+&emsp;“(1) 7.5 percent of the basic pay of each participant covered under section 805(a)(1) of such Act participating in the Foreign Service Retirement and Disability System; and
+
+&emsp;“(2) 8 percent of the basic pay of each participant covered under paragraph (2) or (3) of section 805(a) of such Act participating in the Foreign Service Retirement and Disability System,
+
+> in lieu of the agency contribution otherwise required under section 805(a) of such Act.”
+
+Section 7001(d)(1)–(2)(B) of Pub. L. 105–33, as amended by Pub. L. 106–346, §101(a) \[title V, §505(d)(1)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–53, provided that:
 
 “(1)
 
@@ -173,7 +186,7 @@ Individual deductions, withholdings, and deposits.—
 
 &emsp;“(A)
 
-In general.—Notwithstanding section 805(a)(1) of the Foreign Service Act of 1980 (22 U.S.C. 4045(a)(1)), beginning on January 1, 1999, through December 31, 2002, the amount withheld and deducted from the basic pay of a participant in the Foreign Service Retirement and Disability System shall be as follows:
+In general.—Notwithstanding section 805(a)(1) of the Foreign Service Act of 1980 (22 U.S.C.4045(a)(1)), beginning on January 1, 1999, through December 31, 2000, the amount withheld and deducted from the basic pay of a participant in the Foreign Service Retirement and Disability System shall be as follows:
 
 &nbsp;
 
@@ -181,19 +194,17 @@ In general.—Notwithstanding section 805(a)(1) of the Foreign Service Act of 19
 | :--- | :---: | ---: |
 | &nbsp; | “7.25 | January 1, 1999, to December 31, 1999. |
 | &nbsp; | “7.4 | January 1, 2000, to December 31, 2000. |
-| &nbsp; | “7.5 | January 1, 2001, to December 31, 2002. |
 
 &emsp;“(B)
 
-Foreign service criminal investigators/inspectors of the office of the inspector general, agency for international development.—Notwithstanding section 805(a)(2) of the Foreign Service Act of 1980 (22 U.S.C. 4045(a)(2)), beginning on January 1, 1999, through December 31, 2002, the amount withheld and deducted from the basic pay of an eligible Foreign Service criminal investigator/inspector of the Office of the Inspector General, Agency for International Development participating in the Foreign Service Retirement and Disability System shall be as follows:
+Foreign service criminal investigators/inspectors of the office of the inspector general, agency for international development.—Notwithstanding section 805(a)(2) of the Foreign Service Act of 1980 (22 U.S.C. 4045(a)(2)), beginning on January 1, 1999, through December 31, 2000, the amount withheld and deducted from the basic pay of an eligible Foreign Service criminal investigator/inspector of the Office of the Inspector General, Agency for International Development participating in the Foreign Service Retirement and Disability System shall be as follows:
 
 &nbsp;
 
 | &nbsp; | &nbsp; | &nbsp; |
 | :--- | :---: | ---: |
 | &nbsp; | “7.75 | January 1, 1999, to December 31, 1999. |
-| &nbsp; | “7.9 | January 1, 2000, to December 31, 2000. |
-| &nbsp; | “8 | January 1, 2001, to December 31, 2002.” |
+| &nbsp; | “7.9 | January 1, 2000, to December 31, 2000.” |
 
 #### Section Referred to in Other Sections
 

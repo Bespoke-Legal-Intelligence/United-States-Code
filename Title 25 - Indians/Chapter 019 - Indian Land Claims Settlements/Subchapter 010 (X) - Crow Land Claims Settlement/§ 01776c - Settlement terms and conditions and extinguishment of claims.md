@@ -68,7 +68,7 @@
 
 &emsp;&emsp;(A) A disclaimer and relinquishment by the Crow Tribe of all right, jurisdiction, title, claim, or interest in the lands and minerals situated within parcel number 3 and parcel number 4.
 
-&emsp;&emsp;(B) A release by the Crow Tribe of all persons and entities, including the UnitedStates, from any liability arising from, or related to, the 1891 survey and the subsequent occupancy and use of parcel number 3 and parcel number 4.
+&emsp;&emsp;(B) A release by the Crow Tribe of all persons and entities, including the United States, from any liability arising from, or related to, the 1891 survey and the subsequent occupancy and use of parcel number 3 and parcel number 4.
 
 #### (d) Exchange of public lands
 

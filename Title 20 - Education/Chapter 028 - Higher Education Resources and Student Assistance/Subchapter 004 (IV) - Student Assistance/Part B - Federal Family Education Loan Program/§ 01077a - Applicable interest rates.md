@@ -22,7 +22,7 @@ If for any 12-month period beginning on or after January 1, 1981, the Secretary,
 
 #### (2) Reduction of rate after decline in Treasury bill rates
 
-&emsp;If for any 12-month period beginning on or after October 1, 1981, the Secretary, after consultation with the Secretary of the Treasury, determines that the average of the bond equivalent rates of 91-day Treasury bills auctioned for such 12-month period is equal to or less than 14 percent, the applicable rate of interestfor loans made pursuant to section 1078–1 <sup>1</sup> or 1078–2 of this title on and after the first day of the first month beginning after the date of publication of such determination shall be 12 percent per year on the unpaid principal balance of the loan.
+&emsp;If for any 12-month period beginning on or after October 1, 1981, the Secretary, after consultation with the Secretary of the Treasury, determines that the average of the bond equivalent rates of 91-day Treasury bills auctioned for such 12-month period is equal to or less than 14 percent, the applicable rate of interest for loans made pursuant to section 1078–1 <sup>1</sup> or 1078–2 of this title on and after the first day of the first month beginning after the date of publication of such determination shall be 12 percent per year on the unpaid principal balance of the loan.
 
 #### (3) Increase of rate after increase in Treasury bill rates
 
@@ -32,11 +32,17 @@ If for any 12-month period beginning on or after January 1, 1981, the Secretary,
 
 &emsp;(A) For any loan made pursuant to section 1078–1 <sup>1</sup> or 1078–2 of this title and disbursed on or after July 1, 1987, or any loan made pursuant to such section prior to such date that is refinanced pursuant to section 1078–1(d) <sup>1</sup> or 1078–2(d) of this title, the applicable rate of interest during any 12-month period beginning on July 1 and ending on June 30 shall be determined under subparagraph (B), except that such rate shall not exceed 12 percent.
 
-&emsp;(B) For any 12-month period beginning on July 1 and ending on June 30, the rate determined under this subparagraph is determined on the preceding June 1 and is equal to—
+&emsp;(B)(i) For any 12-month period beginning on July 1 and ending on or before June 30, 2001, the rate determined under this subparagraph is determined on the preceding June 1 and is equal to—
 
-&emsp;&emsp;(i) the bond equivalent rate of 52-week Treasury bills auctioned at the final auction held prior to such June 1; plus
+&emsp;&emsp;(I) the bond equivalent rate of 52-week Treasury bills auctioned at the final auction held prior to such June 1; plus
 
-&emsp;&emsp;(ii) 3.25 percent.
+&emsp;&emsp;(II) 3.25 percent.
+
+&emsp;(ii) For any 12-month period beginning on July 1 of 2001 or any succeeding year, the rate determined under this subparagraph is determined on the preceding June 26 and is equal to—
+
+&emsp;&emsp;(I) the weekly average 1-year constant maturity Treasury yield, as published by the Board of Governors of the Federal Reserve System, for the last calendar week ending on or before such June 26; plus
+
+&emsp;&emsp;(II) 3.25 percent.
 
 &emsp;(C) The Secretary shall determine the applicable rate of interest under subparagraph (B) after consultation with the Secretary of the Treasury and shall publish such rate in the Federal Register as soon as practicable after the date of determination.
 
@@ -88,7 +94,7 @@ Notwithstanding subsections (a) and (b) of this section, with respect to any loa
 
 #### (1) In general
 
-&emsp;Notwithstanding subsections (a), (b), (d), and (e) of this section, with respect to any loan made, insured, or guaranteed under this part (other than a loan made pursuant to section 1078–2 or 1078–3 of this title) for which the first disbursement is made on or after July 1, 1994, the applicable rate of interest shall, duringany 12-month period beginning on July 1 and ending on June 30, be determined on the preceding June 1 and be equal to—
+&emsp;Notwithstanding subsections (a), (b), (d), and (e) of this section, with respect to any loan made, insured, or guaranteed under this part (other than a loan made pursuant to section 1078–2 or 1078–3 of this title) for which the first disbursement is made on or after July 1, 1994, the applicable rate of interest shall, during any 12-month period beginning on July 1 and ending on June 30, be determined on the preceding June 1 and be equal to—
 
 &emsp;&emsp;(A) the bond equivalent rate of 91-day Treasury bills auctioned at the final auction held prior to such June 1; plus
 
@@ -174,7 +180,7 @@ Notwithstanding subsections (a) and (b) of this section, with respect to any loa
 
 #### (3) Excess interest on loans after 1992 amendments, to borrowers with outstanding balances
 
-&emsp;If, with respect to a loan made on or after July 23, 1992, to a borrower, who on the date of entering into the note or other written evidence of the loan, has an outstanding balance of principal or interest on any other loan made, insured, or guaranteed under this part, the sum of the average of the bond equivalent rates of 91-day Treasury bills auctioned for that quarter and 3.1 percent is less than the applicable interest rate, then an adjustment shall be made—
+&emsp;If, with respect to a loan made on or after July 23, 1992, to a borrower, who on the date of entering into the note or other written evidence of the loan, has an outstanding balance of principal or interest on any other loan made, insured, or guaranteed under this part, the sum of the average of the bond equivalentrates of 91-day Treasury bills auctioned for that quarter and 3.1 percent is less than the applicable interest rate, then an adjustment shall be made—
 
 &emsp;&emsp;(A) by calculating excess interest in the amount computed under paragraph (4) of this subsection; and
 
@@ -292,7 +298,7 @@ Notwithstanding subsections (a) and (b) of this section, with respect to any loa
 
 #### (<i>l</i>) Lesser rates permitted
 
-Nothing in this section or section 1078–3 of this title shall be construed to prohibit a lender fromcharging a borrower interest at a rate less than the rate which is applicable under this part.
+Nothing in this section or section 1078–3 of this title shall be construed to prohibit a lender from charging a borrower interest at a rate less than the rate which is applicable under this part.
 
 #### (m) Definitions
 
@@ -302,7 +308,7 @@ For the purpose of subsections (a) and (d) of this section—
 
 &emsp;(2) the term “period of enrollment” shall be the period for which the loan is made as determined by the institution of higher education and shall coincide with academic terms such as academic year, semester, trimester, quarter, or other academic period as defined by such institution.
 
-(Pub. L. 89–329, title IV, §427A, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1364; amended Pub. L. 100–50, §10(d)(1), June 3, 1987, 101 Stat. 342; Pub. L. 102–325, title IV, §415, July 23, 1992, 106 Stat. 514; Pub. L. 103–66, title IV, §4101, Aug. 10, 1993, 107 Stat. 364; Pub. L. 103–208, §2(c)(5)–(10), Dec. 20, 1993, 107 Stat. 2461; Pub. L. 105–178, title VIII, §8301(a)(1), June 9, 1998, 112 Stat. 496; Pub. L. 105–244, title IV, §416(a)(1), Oct. 7, 1998, 112 Stat. 1679.)
+(Pub. L. 89–329, title IV, §427A, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1364; amended Pub. L. 100–50, §10(d)(1), June 3, 1987, 101 Stat. 342; Pub. L. 102–325, title IV, §415, July 23, 1992, 106 Stat. 514; Pub. L. 103–66, title IV, §4101, Aug. 10, 1993, 107 Stat. 364; Pub. L. 103–208, §2(c)(5)–(10), Dec. 20, 1993, 107 Stat. 2461; Pub. L. 105–178, title VIII, §8301(a)(1), June 9, 1998, 112 Stat. 496; Pub. L. 105–244, title IV, §416(a)(1), Oct. 7, 1998, 112 Stat. 1679; Pub. L. 106–554, §1(a)(1) \[title III, §318(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–49.)
 
 #### References in Text
 
@@ -317,6 +323,12 @@ Amendments by section 2(c)(6)–(10) of Pub. L. 103–208 (which were effective 
 A prior section 1077a, Pub. L. 89–329, title IV, §427A, as added Pub. L. 96–374, title IV, §415(a)(1), Oct. 3, 1980, 94 Stat. 1419; amended Pub. L. 97–35, title V, §534(a)(1), Aug. 13, 1981, 95 Stat. 454; Pub. L. 98–79, §5(a), (b)(1), Aug. 15, 1983, 97 Stat. 481, 482, prescribed applicable interest rates on loans, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
+
+2000—Subsec. (c)(4)(B). Pub. L. 106–554 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “For any 12-month period beginning on July 1 and ending on June 30, the rate determined under this subparagraph is determined on the preceding June 1 and is equal to—
+
+&emsp;“(i) the bond equivalent rate of 52-week Treasury bills auctioned at the final auction held prior to such June 1; plus
+
+&emsp;“(ii) 3.25 percent.”
 
 1998—Subsec. (j). Pub. L. 105–178, §8301(a)(1)(B), added subsec. (j). Former subsec. (j) redesignated (k).
 
@@ -370,7 +382,7 @@ Subsec. (c)(4)(B). Pub. L. 100–50, §10(d)(1)(C), added subpar. (B) and struck
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–244, title IV, §416(c), Oct. 7, 1998, 112 Stat. 1682, provided that: “The amendments made by this section \[amending this section and sections 1078–2, 1078–3, and 1087–1 of this title\] shall apply with respect to any loan made, insured, or guaranteed under part B of title IV of the Higher Education Act of 1965 \[20 U.S.C. 1071 et seq.\] for which the first disbursement is made on or after October 1, 1998, and before July 1, 2003, except that such amendments shall apply with respect to any loan made under section 428C of such Act \[20 U.S.C. 1078–3\] for which the application is received by an eligible lender on or after October 1, 1998, and before July 1, 2003.”
+Pub. L. 105–244, title IV, §416(c), Oct. 7, 1998, 112 Stat. 1682, provided that: “The amendments made by thissection \[amending this section and sections 1078–2, 1078–3, and 1087–1 of this title\] shall apply with respect to any loan made, insured, or guaranteed under part B of title IV of the Higher Education Act of 1965 \[20 U.S.C. 1071 et seq.\] for which the first disbursement is made on or after October 1, 1998, and before July 1, 2003, except that such amendments shall apply with respect to any loan made under section 428C of such Act \[20 U.S.C. 1078–3\] for which the application is received by an eligible lender on or after October 1, 1998, and before July 1, 2003.”
 
 #### Effective Date of 1993 Amendment
 

@@ -1,6 +1,6 @@
 ### §1743. Demand on postmaster
 
-The certificate of the Postmaster General or the General Accounting Office of the mailing toa postmaster of a statement of his account and that payment of the balance stated has not been received shall be sufficient evidence of a demand notwithstanding any allowances or credits subsequently made. A copy of such statement shall be attached to the certificate.
+The certificate of the Postmaster General or the General Accounting Office of the mailing to a postmaster of a statement of his account and that payment of the balance stated has not been received shall be sufficient evidence of a demand notwithstanding any allowances or credits subsequently made. A copy of such statement shall be attached to the certificate.
 
 (June 25, 1948, ch. 646, 62 Stat. 948.)
 
@@ -17,14 +17,4 @@ Changes were made in phraseology.
 #### Transfer of Functions
 
 The office of Postmaster General of the Post Office Department was abolished and all functions, powers, and duties of the Postmaster General were transferred to the United States Postal Service by Pub. L. 91–375, §4(a), Aug. 12, 1970, 84 Stat. 773, set out as a note under section 201 of Title 39, Postal Service.
-
-#### Federal Rules of Civil Procedure
-
-Proof of official records, see rule 44, Appendix to this title.
-
-Effect of rule 44 on former section 670 of this title, see note by Advisory Committee under rule 44.
-
-#### Federal Rules of Criminal Procedure
-
-Proof of official records, see rule 27, and note of the Advisory Committee under rule 27, Title 18, Appendix, Crimes and Criminal Procedure.
 

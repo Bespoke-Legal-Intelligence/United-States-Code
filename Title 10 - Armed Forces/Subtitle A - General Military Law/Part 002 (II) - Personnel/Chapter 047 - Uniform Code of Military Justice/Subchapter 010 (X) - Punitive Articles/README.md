@@ -80,10 +80,6 @@
 
 1961—Pub. L. 87–385, §1(2), Oct. 4, 1961, 75 Stat. 814, added item 923a.
 
-#### Cross References
-
-Federal retirement benefits, forfeiture upon conviction of offenses described hereunder, see section 8312 of Title 5, Government Organization and Employees.
-
 
 ---
 

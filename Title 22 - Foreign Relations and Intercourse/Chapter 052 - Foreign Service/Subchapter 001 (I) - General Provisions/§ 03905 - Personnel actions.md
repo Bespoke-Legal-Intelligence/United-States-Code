@@ -40,11 +40,11 @@ The Secretary shall administer the provisions of this chapter and shall prescrib
 
 This section shall not be construed as authorizing the withholding of information from the Congress or the taking of any action against a member of the Service who discloses information to the Congress.
 
-#### (d) Minority recruitment program; report to Congress
+#### (d) Minority recruitment program
 
 (1) The Secretary shall establish a minority recruitment program for the Service consistent with section 7201 of title 5.
 
-(2) The Secretary shall transmit, to the Chairman of the Committee on Foreign Relations of the Senate and the Speaker of the House of Representatives, the Department's reports on its equal employment opportunity and affirmative action programs and its minority recruitment programs, which reports are required by law, regulation, or directive to be submitted to the Equal Employment Opportunity Commission (EEOC) or the Office of Personnel Management (OPM). Each such report shall be transmitted tothe Congress at least once annually, and shall be received by the Congress not later than 30 days after its original submission to the Equal Employment Opportunity Commission or the Office of Personnel Management.
+(2) Omitted.
 
 #### (e) Applicability to other judicial or statutory rights or remedies
 
@@ -61,6 +61,10 @@ This section shall not be construed to extinguish or lessen any effort to achiev
 &emsp;(5) any provision of law, rule, or regulation prohibiting discrimination on the basis of marital status or political affiliation.
 
 (Pub. L. 96–465, title I, §105, Oct. 17, 1980, 94 Stat. 2077; Pub. L. 100–204, title I, §185(a), Dec. 22, 1987, 101 Stat. 1365; Pub. L. 101–246, title I, §153(d), Feb. 16, 1990, 104 Stat. 43.)
+
+#### Codification
+
+Subsec. (d)(2) of this section, which required the Secretary to transmit at least once annually to the Chairman of the Committee on Foreign Relations of the Senate and the Speaker of the House of Representatives the Department's reports on equal employment opportunity, affirmative action, and minority recruitment programs, which reports are required by law, regulation, or directive to be submitted to the Equal Employment Opportunity Commission (EEOC) or the Office of Personnel Management (OPM), terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 129 of House Document No. 103–7.
 
 #### Amendments
 

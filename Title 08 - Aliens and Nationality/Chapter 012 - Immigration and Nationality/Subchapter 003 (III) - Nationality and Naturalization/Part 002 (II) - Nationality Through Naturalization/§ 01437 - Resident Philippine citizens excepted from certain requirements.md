@@ -8,17 +8,3 @@ Any person who (1) was a citizen of the Commonwealth of the Philippines on July 
 
 1990—Pub. L. 101–649 substituted “applying” for “petitioning”.
 
-#### Cross References
-
-Definition of the term—
-
-&emsp;&emsp;Entry, see section 1101(a)(13) of this title.
-
-&emsp;&emsp;Lawfully admitted for permanent residence, see section 1101(a)(20) of this title.
-
-&emsp;&emsp;Naturalization, see section 1101(a)(23) of this title.
-
-&emsp;&emsp;Residence, see section 1101(a)(33) of this title.
-
-&emsp;&emsp;United States, see section 1101(a)(38) of this title.
-

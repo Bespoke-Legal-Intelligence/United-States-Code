@@ -18,7 +18,7 @@ The Secretary shall transmit the comprehensive program management plan to the Co
 
 #### (c) Subsequent transmittals to Congress; descriptive statement: current plan, changes, justification for changes, progress, interagency cooperation, and recommendations for achievement of goals
 
-Concurrently with the submission of the President's annual budget to the Congress for each year after the year in which the comprehensive plan is initially transmitted under subsection (b) of this section, the Secretary shall transmit to the Congress a detailed description of the comprehensive plan as then in effect, setting forth the modifications which may be necessary to appropriately revise such plan and any changes in circumstances which may have occurred since the plan or the last previous modification thereof was transmitted in accordance with this section. The detailed description of the comprehensive plan under this subsection shall include but need not be limited to a statement setting forth with respect to each of the programs under this chapter any changes in—
+Concurrently with the submission of the President's annual budget to the Congress for each year after the year in which the comprehensive plan is initially transmitted under subsection (b) of this section, the Secretary shall transmit to the Congress a detailed description of the comprehensive plan as then in effect, setting forth the modifications which may be necessary to appropriately revise such plan and any changes in circumstances which may have occurred since the plan or the last previous modification thereof was transmitted in accordancewith this section. The detailed description of the comprehensive plan under this subsection shall include but need not be limited to a statement setting forth with respect to each of the programs under this chapter any changes in—
 
 &emsp;(1) the anticipated research, development, demonstration, and technology application objectives to be achieved by the program;
 
@@ -39,6 +39,10 @@ Concurrently with the submission of the President's annual budget to the Congres
 #### Change of Name
 
 Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundredth Congress, Jan. 6, 1987. Committee on Science, Space, and Technology of House of Representatives treated as referring to Committee on Science of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsec. (c) of this section is listed as the 6th item on page 87), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set out as notes under section 1113 of Title 31, Money and Finance.
 
 #### Section Referred to in Other Sections
 

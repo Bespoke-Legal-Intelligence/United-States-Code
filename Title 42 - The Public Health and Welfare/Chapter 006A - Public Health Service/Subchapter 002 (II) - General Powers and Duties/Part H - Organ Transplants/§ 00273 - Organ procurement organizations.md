@@ -18,13 +18,31 @@
 
 &emsp;(C) has an agreement with the Secretary to be reimbursed under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] for the procurement of kidneys,
 
-&emsp;(D) has procedures to obtain payment for non-renal organs provided to transplant centers,
+&emsp;(D) notwithstanding any other provision of law, has met the other requirements of this section and has been certified or recertified by the Secretary within the previous 4-year period as meeting the performance standards to be a qualified organ procurement organization through a process that either—
 
-&emsp;(E) has a defined service area that is of sufficient size to assure maximum effectiveness in the procurement and equitable distribution of organs, and that either includes an entire metropolitan statistical area (as specified by the Director of the Office of Management and Budget) or does not include any part of the area,
+&emsp;&emsp;(i) granted certification or recertification within such 4-year period with such certification or recertification in effect as of January 1, 2000, and remaining in effect through the earlier of—
 
-&emsp;(F) has a director and such other staff, including the organ donation coordinators and organ procurement specialists necessary to effectively obtain organs from donors in its service area, and
+&emsp;&emsp;&emsp;(I) January 1, 2002; or
 
-&emsp;(G) has a board of directors or an advisory board which—
+&emsp;&emsp;&emsp;(II) the completion of recertification under the requirements of clause (ii); or
+
+&emsp;&emsp;(ii) is defined through regulations that are promulgated by the Secretary by not later than January 1, 2002, that—
+
+&emsp;&emsp;&emsp;(I) require recertifications of qualified organ procurement organizations not more frequently than once every 4 years;
+
+&emsp;&emsp;&emsp;(II) rely on outcome and process performance measures that are based on empirical evidence, obtained through reasonable efforts, of organ donor potential and other related factors in each service area of qualified organ procurement organizations;
+
+&emsp;&emsp;&emsp;(III) use multiple outcome measures as part of the certification process; and
+
+&emsp;&emsp;&emsp;(IV) provide for a qualified organ procurement organization to appeal a decertification to the Secretary on substantive and procedural grounds; <sup>2</sup>
+
+&emsp;(E) has procedures to obtain payment for non-renal organs provided to transplant centers,
+
+&emsp;(F) has a defined service area that is of sufficient size to assure maximum effectiveness in the procurement and equitable distribution of organs, and that either includes an entire metropolitan statistical area (as specified by the Director of the Office of Management and Budget) or does not include any part of the area,
+
+&emsp;(G) has a director and such other staff, including the organ donation coordinators and organ procurement specialists necessary to effectively obtain organs from donors in its service area, and
+
+&emsp;(H) has a board of directors or an advisory board which—
 
 &emsp;&emsp;(i) is composed of—
 
@@ -32,7 +50,7 @@
 
 &emsp;&emsp;&emsp;(II) members who represent the public residing in such area,
 
-&emsp;&emsp;&emsp;(III) a physician with knowledge, experience, or skill in the field of histocompatability <sup>2</sup> or an individual with a doctorate degree in a biological science with knowledge, experience, or skill in the field of histocompatibility,
+&emsp;&emsp;&emsp;(III) a physician with knowledge, experience, or skill in the field of histocompatability <sup>3</sup> or an individual with a doctorate degree in a biological science with knowledge, experience, or skill in the field of histocompatibility,
 
 &emsp;&emsp;&emsp;(IV) a physician with knowledge or skill in the field of neurology, and
 
@@ -42,7 +60,7 @@
 
 &emsp;&emsp;(iii) has no authority over any other activity of the organization.
 
-(2)(A) Not later than 90 days after November 16, 1990, the Secretary shall publish in the Federal Register a notice of proposed rulemaking to establish criteria for determining whether an entity meets the requirement established in paragraph (1)(E).
+(2)(A) Not later than 90 days after November 16, 1990, the Secretary shall publish in the Federal Register a notice of proposed rulemaking to establish criteria for determining whether anentity meets the requirement established in paragraph (1)(E).<sup>1</sup>
 
 (B) Not later than 1 year after November 16, 1990, the Secretary shall publish in the Federal Register a final rule to establish the criteria described in subparagraph (A).
 
@@ -70,13 +88,15 @@
 
 &emsp;(K) assist hospitals in establishing and implementing protocols for making routine inquiries about organ donations by potential donors.
 
-(July 1, 1944, ch. 373, title III, §371, as added Pub. L. 98–507, title II, §201, Oct. 19, 1984, 98 Stat. 2342; amended Pub. L. 100–607, title IV, §402(a), (c)(1), (2), (d), Nov. 4, 1988, 102 Stat. 3114, 3115; Pub. L. 101–616, title II, §§201(a)–(c)(1), (d), (e), 206(b), Nov. 16, 1990, 104 Stat. 3283, 3285.)
+(July 1, 1944, ch. 373, title III, §371, as added Pub. L. 98–507, title II, §201, Oct. 19, 1984, 98 Stat. 2342; amended Pub. L. 100–607, title IV, §402(a), (c)(1), (2), (d), Nov. 4, 1988, 102 Stat. 3114, 3115; Pub. L. 101–616, title II, §§201(a)–(c)(1), (d), (e), 206(b), Nov. 16, 1990, 104 Stat. 3283, 3285; Pub. L. 106–505, title VII, §701(c), Nov. 13, 2000, 114 Stat. 2347; Pub. L. 106–554, §1(a)(1) \[title II, §219(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–29.)
 
 #### References in Text
 
 Paragraph (2), referred to in subsec. (b)(1), meaning paragraph (2) of subsec. (b) of this section, was redesignated paragraph (3) by section 201(d)(1) of Pub. L. 101–616. See 1990 Amendment note below.
 
 The Social Security Act, referred to in subsec. (b)(1)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Social Security Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+
+Paragraph (1)(E), referred to in subsec. (b)(2)(A), meaning paragraph (1)(E) of subsec. (b) of this section, was redesignated paragraph (1)(F) by section 701(c)(1) of Pub. L. 106–505 and section 1(a)(1) \[title II, §219(b)(1)\] of Pub. L. 106–554. See 2000 Amendment note below.
 
 #### Prior Provisions
 
@@ -85,6 +105,8 @@ A prior section 273, act July 1, 1944, ch. 373, title III, §371, as added July 
 A prior section 371 of act July 1, 1944, added by act Aug. 3, 1956, ch. 907, §1, 70 Stat. 960, was renumbered section 381 and classified to section 275 of this title, prior to repeal by Pub. L. 99–158, §3(b), Nov. 20, 1985, 99 Stat. 879.
 
 #### Amendments
+
+2000—Subsec. (b)(1)(D) to (H). Pub. L. 106–505 and Pub. L. 106–554 amended par. (1) identically, adding subpar. (D), redesignating former subpars. (D) to (G) as (E) to (H), respectively, and realigning margins of subpar. (F).
 
 1990—Pub. L. 101–616, §201(a), substituted “Organ procurement organizations” for “Assistance for organ procurement organizations” in section catchline.
 
@@ -136,21 +158,61 @@ For short title of Pub. L. 98–507, which enacted this part as the “National 
 
 Section 301 of Pub. L. 101–616 provided that: “If any provision of this Act \[enacting sections 274f, 274g, 274k, and 274<i>l</i> of this title, amending this section and sections 274 to 274d of this title, enacting provisions set out as notes under this section and sections 274 and 274k of this title, and repealing provisions set out as a note above\], amendment made by this Act, or application of the provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this Act, the amendments made by this Act, and the application of the provisions or amendments to any person or circumstance shall not be affected.”
 
-#### Study on Hospital Agreements With Organ Procurement Agencies
+#### Certification of Organ Procurement Organizations
 
-Pub. L. 103–432, title I, §155(b), Oct. 31, 1994, 108 Stat. 4439, provided that:
+Pub. L. 106–505, title VII, §701(b), Nov. 13, 2000, 114 Stat. 2346, and Pub. L. 106–554, §1(a)(1) \[title II, §219(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–28, provided that: “Congress makes the following findings:
+
+&emsp;“(1) Organ procurement organizations play an important role in the effort to increase organ donation in the United States.
+
+&emsp;“(2) The current process for the certification and recertification of organ procurement organizations conducted by the Department of Health and Human Services has created a level of uncertainty that is interfering with the effectiveness of organ procurement organizations in raising the level of organ donation.
+
+&emsp;“(3) The General Accounting Office, the Institute of Medicine, and the Harvard School of Public Health have identified substantial limitations in the organ procurement organization certification and recertification process and have recommended changes in that process.
+
+&emsp;“(4) The limitations in the recertification process include:
+
+&emsp;&emsp;“(A) An exclusive reliance on population-based measures of performance that do not account for the potential in the population for organ donation and do not permit consideration of other outcome and process standards that would more accurately reflect the relative capability and performance of each organ procurement organization.
+
+&emsp;&emsp;“(B) A lack of due process to appeal to the Secretary of Health and Human Services for recertification on either substantive or procedural grounds.
+
+&emsp;“(5) The Secretary of Health and Human Services has the authority under section 1138(b)(1)(A)(i) of the Social Security Act (42 U.S.C. 1320b–8(b)(1)(A)(i)) to extend the period for recertification of an organ procurement organization from 2 to 4 years on the basis of its past practices in order to avoid the inappropriate disruption of the nation's organ system.
+
+&emsp;“(6) The Secretary of Health and Human Services can use the extended period described in paragraph (5) for recertification of all organ procurement organizations to—
+
+&emsp;&emsp;“(A) develop improved performance measures that would reflect organ donor potential and interim outcomes, and to test these measures to ensure that they accurately measure performance differences among the organ procurement organizations; and
+
+&emsp;&emsp;“(B) improve the overall certification process by incorporating process as well as outcome performance measures, and developing equitable processes for appeals.”
+
+#### Study Regarding Immunosuppressive Drugs
+
+Pub. L. 106–310, div. A, title XXI, §2101(b), Oct. 17, 2000, 114 Stat. 1156, provided that:
 
 “(1)
 
-In general.—The Office of Technology Assessment (referred to in this section as the ‘OTA’) shall, pursuant to the approval of the Technology Assessment Board of the OTA, conduct a study to determine the efficacy and fairness of requiring a hospital to enter into an agreement under section 371(b)(3)(A) of the Public Health Service Act \[subsec. (b)(3)(A) of this section\] with the organ procurement agency designated pursuant to section 1138(b) of the Social Security Act \[section 1320b–8(b) of this title\] for the service area in which such hospital is located and the impact of such requirement on the efficacy and fairness of organ procurement and distribution.
+In general.—The Secretary of Health and Human Services (referred to in this subsection as the ‘Secretary’) shall provide for a study to determine the costs of immunosuppressive drugs that are provided to children pursuant to organ transplants and to determine the extent to which health plans and health insurance cover such costs. The Secretary may carry out the study directly or through a grant to the Institute of Medicine (or other public or nonprofit private entity).
 
 “(2)
 
-Report.—Not later than 2 years after the date of the enactment of this Act \[Oct. 31, 1994\], the OTA shall complete the study required under paragraph (1) and prepare and submit to the Committee on Finance and the Committee on Labor and Human Resources of the Senate and the Committee on Ways and Means and the Committee on Energy and Commerce \[now Committee on Commerce\] of the House of Representatives a report containing the findings of such study and the implications of such findings with respect to policies affecting organ procurement and distribution.”
+Recommendations regarding certain issues.—The Secretary shall ensure that, in addition to making determinations under paragraph (1), the study under such paragraph makes recommendations regarding the following issues:
+
+&emsp;“(A) The costs of immunosuppressive drugs that are provided to children pursuant to organ transplants and to determine the extent to which health plans, health insurance and government programs cover such costs.
+
+&emsp;“(B) The extent of denial of organs to be released for transplant by coroners and medical examiners.
+
+&emsp;“(C) The special growth and developmental issues that children have pre- and post-organ transplantation.
+
+&emsp;“(D) Other issues that are particular to the special health and transplantation needs of children.
+
+“(3)
+
+Report.—The Secretary shall ensure that, not later than December 31, 2001, the study under paragraph (1) is completed and a report describing the findings of the study is submitted to the Congress.”
+
+#### Study on Hospital Agreements With Organ Procurement Agencies
+
+Pub. L. 103–432, title I, §155(b), Oct. 31, 1994, 108 Stat. 4439, directed Office of Technology Assessment to conduct study to determine efficacy and fairness of requiring a hospital to enter into agreement under subsec. (b)(3)(A) of this section with organ procurement agency for service area in which such hospital is located and impact of such requirement on efficacy and fairness of organ procurement and distribution, and to submit to Congress, not later than 2 years after Oct. 31, 1994, report containing findings of such study and implications of such findings with respect to policies affecting organ procurement and distribution.
 
 #### Task Force on Organ Procurement and Transplantation
 
-Pub. L. 98–507, title I, §§101–105, Oct. 19, 1984, 98 Stat. 2339–2342, directed Secretary of Health and Human Services, not later than 90 days after Oct. 19, 1984, to establish a Task Force on Organ Transplantation to conduct comprehensive examinations, prepare an assessment and report, and submit advice as to regulation of the medical, legal, ethical, economic, and social issues presented by human organ procurement and transplantation, with the final report due not later than 12 months after the Task Force is established and the Task Force to terminate 3 months thereafter.
+Pub. L. 98–507, title I, §§101–105, Oct. 19, 1984, 98 Stat. 2339–2342, directed Secretary of Health and HumanServices, not later than 90 days after Oct. 19, 1984, to establish a Task Force on Organ Transplantation to conduct comprehensive examinations, prepare an assessment and report, and submit advice as to regulation of the medical, legal, ethical, economic, and social issues presented by human organ procurement and transplantation, with the final report due not later than 12 months after the Task Force is established and the Task Force to terminate 3 months thereafter.
 
 #### Bone Marrow Registry Demonstration and Study
 
@@ -162,5 +224,7 @@ This section is referred to in sections 274, 274b, 1320b–8 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “histocompatibility”.</i>
+<i><sup>2</sup></i><i> So in original. The semicolon probably should be a comma.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be “histocompatibility”.</i>
 

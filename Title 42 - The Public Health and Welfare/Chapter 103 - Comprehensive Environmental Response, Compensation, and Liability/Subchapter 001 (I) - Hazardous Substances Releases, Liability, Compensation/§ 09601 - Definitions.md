@@ -2,7 +2,7 @@
 
 For purpose of this subchapter—
 
-&emsp;(1) The term “act of God” means an unanticipated grave natural disaster or other natural phenomenon of an exceptional, inevitable, and irresistible character, the effects of which could not have been prevented or avoided by the exercise of due care or foresight.
+&emsp;(1) The term “act of God” means an unanticipated grave natural disaster or other natural phenomenon of an exceptional, inevitable,and irresistible character, the effects of which could not have been prevented or avoided by the exercise of due care or foresight.
 
 &emsp;(2) The term “Administrator” means the Administrator of the United States Environmental Protection Agency.
 
@@ -28,7 +28,7 @@ For purpose of this subchapter—
 
 &emsp;(13) The term “guarantor” means any person, other than the owner or operator, who provides evidence of financial responsibility for an owner or operator under this chapter.
 
-&emsp;(14) The term “hazardous substance” means (A) any substance designated pursuant to section 1321(b)(2)(A) of title 33, (B) any element, compound, mixture, solution, or substance designated pursuant to section 9602 of this title, (C) any hazardous waste having the characteristics identified under or listed pursuant to section 3001 of the Solid Waste Disposal Act \[42 U.S.C. 6921\] (but not including any waste the regulation of which under the Solid Waste Disposal Act \[42 U.S.C. 6901 et seq.\] has been suspended by Act of Congress), (D) any toxic pollutant listed under section 1317(a) of title 33, (E) any hazardous air pollutant listed under section 112 of the Clean Air Act \[42 U.S.C. 7412\], and (F) any imminently hazardous chemical substance or mixture with respect to which the Administrator has taken action pursuant to section 2606 of title 15. The term does not include petroleum, including crude oil or any fraction thereof which is not otherwise specifically listed or designated as a hazardous substance under subparagraphs (A) through (F) of this paragraph, and the term does not include natural gas, natural gas liquids, liquefied natural gas, or synthetic gas usable for fuel (or mixtures of natural gas and such synthetic gas).
+&emsp;(14) The term “hazardous substance” means (A) any substance designated pursuant to section 1321(b)(2)(A) of title 33, (B) any element, compound, mixture, solution, or substance designated pursuant to section 9602 of this title, (C) any hazardous waste having the characteristics identified under or listed pursuant to section 3001 of the Solid Waste Disposal Act \[42 U.S.C. 6921\] (but not including any waste the regulation of which under the Solid Waste Disposal Act \[42 U.S.C. 6901 et seq.\] has been suspended by Act of Congress), (D) any toxic pollutant listed under section 1317(a) of title33, (E) any hazardous air pollutant listed under section 112 of the Clean Air Act \[42 U.S.C. 7412\], and (F) any imminently hazardous chemical substance or mixture with respect to which the Administrator has taken action pursuant to section 2606 of title 15. The term does not include petroleum, including crude oil or any fraction thereof which is not otherwise specifically listed or designated as a hazardous substance under subparagraphs (A) through (F) of this paragraph, and the term does not include natural gas, natural gas liquids, liquefied natural gas, or synthetic gas usable for fuel (or mixtures of natural gas and such synthetic gas).
 
 &emsp;(15) The term “navigable waters” or “navigable waters of the United States” means the waters of the United States, including the territorial seas.
 
@@ -64,7 +64,7 @@ Foreclosure.—The term “owner or operator” does not include a person that i
 
 &emsp;&emsp;&emsp;(II) after foreclosure, sells, re-leases (in the case of a lease finance transaction), or liquidates the vessel or facility, maintains business activities, winds up operations, undertakes a response action under section 9607(d)(1) of this title or under the direction of an on-scene coordinator appointed under the National Contingency Plan, with respect to the vessel or facility, or takes any other measure to preserve, protect, or prepare the vessel or facility prior to sale or disposition,
 
-> &emsp;&emsp;if the person seeks to sell, re-lease (in the case of a lease finance transaction), or otherwise divest the person of the vessel or facility at the earliest practicable, commercially reasonable time, on commercially reasonable terms, taking into account market conditions and legal and regulatory requirements.
+> &emsp;&emsp;if the person seeks to sell, re-lease (in the case of a lease finance transaction), orotherwise divest the person of the vessel or facility at the earliest practicable, commercially reasonable time, on commercially reasonable terms, taking into account market conditions and legal and regulatory requirements.
 
 &emsp;(F)
 
@@ -200,7 +200,7 @@ Security interest.—The term “security interest” includes a right under a m
 
 &emsp;(35)(A) The term “contractual relationship”, for the purpose of section 9607(b)(3) of this title, includes, but is not limited to, land contracts, deeds or other instruments transferring title or possession, unless the real property on which the facility concerned is located was acquired by the defendant after the disposal or placement of the hazardous substance on, in, or at the facility, and one or more of the circumstances described in clause (i), (ii), or (iii) is also established by the defendant by a preponderance of the evidence:
 
-&emsp;&emsp;(i) At the time the defendant acquired the facility the defendant did not know and had no reason to know that any hazardous substance which is the subject of the release orthreatened release was disposed of on, in, or at the facility.
+&emsp;&emsp;(i) At the time the defendant acquired the facility the defendant did not know and had no reason to know that any hazardous substance which is the subject of the release or threatened release was disposed of on, in, or at the facility.
 
 &emsp;&emsp;(ii) The defendant is a government entity which acquired the facility by escheat, or through any other involuntary transfer or acquisition, or through the exercise of eminent domain authority by purchase or condemnation.
 
@@ -212,7 +212,7 @@ Security interest.—The term “security interest” includes a right under a m
 
 &emsp;(C) Nothing in this paragraph or in section 9607(b)(3) of this title shall diminish the liability of any previous owner or operator of such facility who would otherwise be liable under this chapter. Notwithstanding this paragraph, if the defendant obtained actual knowledge of the release or threatened release of a hazardous substance at such facility when the defendant owned the real property and then subsequently transferred ownership of the property to another person without disclosing such knowledge, such defendant shall be treated as liable under section 9607(a)(1) of this title and no defense under section 9607(b)(3) of this title shall be available to such defendant.
 
-&emsp;(D) Nothing in this paragraph shall affect the liability under this chapter of a defendant who, by any act or omission, caused or contributed to the release or threatened release of a hazardous substance which is the subject of the action relating to the facility.
+&emsp;(D) Nothing in this paragraph shall affect the liability under this chapter of a defendant who, by any act or omission, caused or contributed to the release or threatened release ofa hazardous substance which is the subject of the action relating to the facility.
 
 &emsp;(36) The term “Indian tribe” means any Indian tribe, band, nation, or other organized group or community, including any Alaska Native village but not including any Alaska Native regional or village corporation, which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
 
@@ -236,7 +236,7 @@ This chapter, referred to in pars. (5), (13), (20)(D), (G), and (35)(C), (D), wa
 
 The Safe Drinking Water Act, referred to in pars. (7) and (10), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1660, as amended, which is classified generally to subchapter XII (§300f et seq.) of chapter 6A of this title. Part C of the Safe Drinking Water Act is classified generally to part C (§300h et seq.) of subchapter XII of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in pars. (8) and (16), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§1801 et seq.) of Title 16, Conservation. The fishery conservation zone established by this Act, referred to in par. (16), was established by section 101 of this Act (16 U.S.C. 1811), which as amended generally by Pub. L. 99–659,title I, §101(b), Nov. 14, 1986, 100 Stat. 3706, relates to United States sovereign rights and fishery management authority over fish within the exclusive economic zone as defined in section 1802 of Title 16. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 16 and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in pars. (8) and (16), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§1801 et seq.) of Title 16, Conservation. The fishery conservation zone established by this Act, referred to in par. (16), was established by section 101 of this Act (16 U.S.C. 1811), which as amended generally by Pub. L. 99–659, title I, §101(b), Nov. 14, 1986, 100 Stat. 3706, relates to United States sovereign rights and fishery management authority over fish within the exclusive economic zone as defined in section 1802 of Title 16. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 16 and Tables.
 
 The Clean Air Act, referred to in par. (10), is act July 14, 1955, ch. 360, as amended generally by Pub. L. 88–206, Dec. 17, 1963, 77 Stat. 392, and later by Pub. L. 95–95, Aug. 7, 1977, 91 Stat. 685. The Clean Air Act was originally classified to chapter 15B (§1857 et seq.) of this title. On enactment of Pub. L. 95–95, the Act was reclassified to chapter 85 (§7401 et seq.) of this title. Parts C and D of title I of the Clean Air Act are classified generally to parts C (§7470 et seq.) and D (§7501 et seq.), respectively, of subchapter I of chapter 85 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
 
@@ -354,13 +354,9 @@ Section 1 of Pub. L. 96–510 provided: “That this Act \[enacting this chapter
 
 For transfer of certain functions from Nuclear Regulatory Commission to Chairman thereof, see Reorg. Plan No. 1 of 1980, 45 F.R. 40561, 94 Stat. 3585, set out as a note under section 5841 of this title.
 
-#### Territorial Sea of United States
+#### Territorial Sea and Contiguous Zone of United States
 
-For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
-
-#### Contiguous Zone of United States
-
-For extension of contiguous zone of United States, see Proc. No. 7219, Sept. 2, 1999, 64 F.R. 48701, set out as a note under section 1331 of Title 43, Public Lands.
+For extension of territorial sea and contiguous zone of United States, see Proc. No. 5928 and Proc. No. 7219, respectively, set out as notes under section 1331 of Title 43, Public Lands.
 
 #### Definitions
 
@@ -374,7 +370,7 @@ Administrator.—The term ‘Administrator’ means the Administrator of the Env
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 300g–1, 6991, 6991b, 7274q, 9602, 9603, 9607, 9613, 9624, 9656, 11004 of this title; title 7 section 1985; title 10 sections 2692, 2701, 2707, 2708, 2810; title 14 section 690; title 16 section 460<i>lll</i>; title 26 section 198; title 33 section 2701.
+This section is referred to in sections 300g–1, 6991, 6991b, 7274q, 9602, 9603, 9607, 9613, 9624, 9656, 11004 of this title; title 7 section 1985; title 10 sections 2692, 2701, 2703, 2707, 2708, 2810; title 14 section 690; title 16 section 460<i>lll</i>; title 26 section 198; title 33 section 2701.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “or”.</i>
 

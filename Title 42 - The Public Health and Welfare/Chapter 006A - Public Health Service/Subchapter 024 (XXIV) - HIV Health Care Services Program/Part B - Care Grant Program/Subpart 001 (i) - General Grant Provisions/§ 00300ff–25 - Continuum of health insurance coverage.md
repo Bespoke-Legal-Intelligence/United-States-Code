@@ -20,7 +20,7 @@ Assistance shall not be utilized under subsection (a) of this section—
 
 #### References in Text
 
-Section 300ff–22 of this title, referred to in subsec. (a), was amended by Pub. L. 104–146, §3(c)(2)(A)(i), May 20, 1996, 110 Stat. 1354, and, as so amended, no longer contains a subsec. (a).
+Section 300ff–22 of this title, referred to in subsec. (a), was amended by Pub. L. 104–146, §3(c)(2)(A)(i), (ii), May 20, 1996, 110 Stat. 1354, and Pub. L. 106–345, title II, §202(1), Oct. 20, 2000, 114 Stat. 1330, and as so amended, provisions formerly contained in section 300ff–22(a)(3) are now contained in section 300ff–22(a)(4).
 
 The Social Security Act, referred to in subsec. (b)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Social Security Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 

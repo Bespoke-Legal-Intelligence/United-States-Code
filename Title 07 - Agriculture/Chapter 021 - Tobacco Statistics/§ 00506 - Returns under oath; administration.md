@@ -8,9 +8,3 @@ The returns provided for in this chapter shall be made under oath before a colle
 
 See note under section 505 of this title.
 
-#### Cross References
-
-Authorization to administer oaths, see section 7622 of Title 26, Internal Revenue Code.
-
-Notary public authorized to take oath, see section 2903 of Title 5, Government Organization and Employees, and section 636 of Title 28, Judiciary and Judicial Procedure.
-

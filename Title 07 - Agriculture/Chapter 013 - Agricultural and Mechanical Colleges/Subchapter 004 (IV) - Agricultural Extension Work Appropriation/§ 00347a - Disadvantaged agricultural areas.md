@@ -30,7 +30,3 @@ A prior section 8 of act May 8, 1914, was renumbered section 9 and is classified
 
 1962—Subsec. (b). Pub. L. 87–749 struck out “, Alaska, Hawaii, and Puerto Rico” before “on the basis of”.
 
-#### Cross References
-
-Penalty mail, authorization to use, see section 3202 of Title 39, Postal Service.
-

@@ -16,7 +16,7 @@ Minor changes were made in phraseology.
 
 1988—Pub. L. 100–690 amended section generally. Prior to amendment, section read as follows: “The board of directors of Federal Prison Industries shall make annual reports to Congress on the conduct of the business of the corporation and on the condition of its funds.”
 
-#### Cross References
+#### Termination of Reporting Requirements
 
-Annual management reports to Congress by Government corporations, see section 9106 of Title 31, Money and Finance.
+For termination, effective May 15, 2000, of reporting provisions in this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 117 of House Document No. 103–7.
 

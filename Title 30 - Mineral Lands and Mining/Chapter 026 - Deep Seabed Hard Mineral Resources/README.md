@@ -130,9 +130,7 @@
 | (b) | Final regulations. |
 | (c) | Amendments. |
 | (d) | Consistency. |
-| [1469\.](Subchapter%20003%20%28III%29%20-%20Enforcement%20and%20Miscellaneous%20Provisions/%C2%A7%2001469%20-%20Biennial%20report.md) | Biennial report. |
-| (a) | Submission of reports. |
-| (b) | Contents. |
+| [1469\.](Subchapter%20003%20%28III%29%20-%20Enforcement%20and%20Miscellaneous%20Provisions/%C2%A7%2001469%20-%20Omitted.md) | Omitted. |
 | [1470\.](Subchapter%20003%20%28III%29%20-%20Enforcement%20and%20Miscellaneous%20Provisions/%C2%A7%2001470%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [1471\.](Subchapter%20003%20%28III%29%20-%20Enforcement%20and%20Miscellaneous%20Provisions/%C2%A7%2001471%20-%20Severability.md) | Severability. |
 | [1472\.](Subchapter%20003%20%28III%29%20-%20Enforcement%20and%20Miscellaneous%20Provisions/%C2%A7%2001472%20-%20Deep%20Seabed%20Revenue%20Sharing%20Trust%20Fund%3B%20establishment.md) | Deep Seabed Revenue Sharing Trust Fund; establishment. |

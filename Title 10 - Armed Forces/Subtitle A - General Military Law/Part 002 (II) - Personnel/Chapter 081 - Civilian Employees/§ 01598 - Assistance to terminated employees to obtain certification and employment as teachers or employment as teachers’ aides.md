@@ -30,7 +30,7 @@ Eligible Employees.—(1) A civilian employee of the Department of Defense or th
 
 &emsp;(C) satisfies such other criteria for selection as the Secretary of Defense may prescribe.
 
-(2) The Secretary of Defense may accept an application from a civilian employee referred to inparagraph (1) who was terminated during the period beginning on October 1, 1990, and ending on October 1, 1992, if the employee otherwise satisfies the eligibility criteria specified in that paragraph.
+(2) The Secretary of Defense may accept an application from a civilian employee referred to in paragraph (1) who was terminated during the period beginning on October 1, 1990, and ending on October 1, 1992, if the employee otherwise satisfies the eligibility criteria specified in that paragraph.
 
 (c)
 
@@ -52,9 +52,9 @@ Agreement.—A civilian employee selected to participate in the placement progra
 
 &emsp;(2) to accept—
 
-&emsp;&emsp;(A) in the case of an employee selected for assistance for placement as a teacher, an offer of full-time employment as an elementary or secondary school teacher for not less than two school years with a local educational agency identified under section 1151(b)(2) <sup>1</sup> of this title, to begin the school year after obtaining that certification or licensure; or
+&emsp;&emsp;(A) in the case of an employee selected for assistance for placement as a teacher, an offer of full-time employment as an elementary or secondary school teacher for not less than two school years with a local educational agency identified under section 1151(b)(2) of this title, as in effect on October 4, 1999, to begin the school year after obtaining that certification or licensure; or
 
-&emsp;&emsp;(B) in the case of an employee selected for assistance for placement as a teacher's aide, an offer of full-time employment as a teacher's aide in an elementary or secondary school for not less than two school years with a local educational agency identified under section 1151(b)(3) <sup>1</sup> of this title, to begin the school year after obtaining the necessary credentials.
+&emsp;&emsp;(B) in the case of an employee selected for assistance for placement as a teacher's aide, an offer of full-time employment as a teacher's aide in an elementary or secondary school for not less than two school years with a local educational agency identified under section 1151(b)(3) of this title, as in effect on October 4, 1999, to begin the school year after obtaining the necessary credentials.
 
 (e)
 
@@ -70,9 +70,9 @@ Stipend for Participants.—(1) Except as provided in paragraph (2), the Secreta
 
 (f)
 
-Placement of Participants as Teachers and Teachers’ Aides.—Subsections (h) through (k) of section 1151 <sup>1</sup> of this title shall apply with respect to the placement program authorized by this section.
+Placement of Participants as Teachers and Teachers’ Aides.—Subsections (h) through (k) of section 1151 of this title, as in effect on October 4, 1999, shall apply with respect to the placement program authorized by this section.
 
-(Added Pub. L. 102–484, div. D, title XLIV, §4442(a), Oct. 23, 1992, 106 Stat. 2730; amended Pub. L. 103–35, title II, §201(h)(1), May 31, 1993, 107 Stat. 100; Pub. L. 103–160, div. A, title XIII, §1331(c)(2), Nov. 30, 1993, 107 Stat. 1792; Pub. L. 103–382, title III, §391(b)(3), Oct. 20, 1994, 108 Stat. 4021; Pub. L. 104–106, div. A, title XV, §1503(a)(14), Feb. 10, 1996, 110 Stat. 511; Pub. L. 104–201, div. A, title V, §576(b), Sept. 23, 1996, 110 Stat. 2535.)
+(Added Pub. L. 102–484, div. D, title XLIV, §4442(a), Oct. 23, 1992, 106 Stat. 2730; amended Pub. L. 103–35, title II, §201(h)(1), May 31, 1993, 107 Stat. 100; Pub. L. 103–160, div. A, title XIII, §1331(c)(2), Nov. 30, 1993, 107 Stat. 1792; Pub. L. 103–382, title III, §391(b)(3), Oct. 20, 1994, 108 Stat. 4021; Pub. L. 104–106, div. A, title XV, §1503(a)(14), Feb. 10, 1996, 110 Stat. 511; Pub. L. 104–201, div. A, title V, §576(b), Sept. 23, 1996, 110 Stat. 2535; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(11)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–290.)
 
 #### References in Text
 
@@ -84,6 +84,10 @@ The Higher Education Act of 1965, referred to in subsec. (e)(3), is Pub. L. 89�
 
 #### Amendments
 
+2000—Subsec. (d)(2). Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(11)(A)\], inserted “as in effect on October 4, 1999,” after “of this title,” in subpars. (A) and (B).
+
+Subsec. (f). Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(11)(B)\], inserted “, as in effect on October 4, 1999,” after “of this title”.
+
 1996—Subsec. (a)(2)(A). Pub. L. 104–106 substituted “6301” for “2701”.
 
 Subsec. (d)(2)(A), (B). Pub. L. 104–201 substituted “two school years” for “five school years”.
@@ -92,7 +96,7 @@ Subsec. (d)(2)(A), (B). Pub. L. 104–201 substituted “two school years” for
 
 1993—Subsec. (d)(2)(A), (B). Pub. L. 103–160 substituted “five school years” for “two school years”.
 
-Subsec. (e)(4). Pub. L. 103–35 struck out par. (4) which read as follows: “A person who receives a stipend under section 4436 of this title shall not be paid a stipend pursuant to paragraph (1).”
+Subsec. (e)(4). Pub. L. 103–35 struck out par. (4) which read as follows: “A person who receives a stipend undersection 4436 of this title shall not be paid a stipend pursuant to paragraph (1).”
 
 #### Effective Date of 1993 Amendment
 
@@ -105,6 +109,4 @@ Pub. L. 103–160, div. A, title XIII, §1331(h), Nov. 30, 1993, 107 Stat. 1793,
 #### Savings Provision
 
 Pub. L. 104–201, div. A, title V, §576(d), Sept. 23, 1996, 110 Stat. 2535, provided that: “The amendments made by this section \[amending this section and sections 1151 and 2410j of this title\] do not affect obligations under agreements entered into in accordance with section 1151, 1598, or 2410j of title 10, United States Code, before the date of the enactment of this Act \[Sept. 23, 1996\].”
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

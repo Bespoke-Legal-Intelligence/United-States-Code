@@ -36,7 +36,7 @@ July 3, 1944, ch. 399, §7, 58 Stat. 726.
 
 July 3, 1944, ch. 399, §9; added Aug. 2, 1946, ch. 739, 60 Stat. 803.
 
-In subsection (a) the words “consider, ascertain, adjust, determine” are omitted as covered by the word“settle”, as defined in §7621(b) of this title. The words “vessel in the naval service” are substituted for the words “vessels of the Navy or in the naval service”, in view of the definition in §7621(a) of this title. The words “pay in an amount not more than $1,000,000, a claim” are substituted for the words “pay the amount of any claim, so determined, compromised, or settled” and for the words “the payment of any claim on which a net amount exceeding $1,000,000 is determined to be due from the United States, or which is compromised or settled at a net amount exceeding $1,000,000 payable by the United States, shall not be authorized by this section”.
+In subsection (a) the words “consider, ascertain, adjust, determine” are omitted as covered by the word “settle”, as defined in §7621(b) of this title. The words “vessel in the naval service” are substituted for the words “vessels of the Navy or in the naval service”, in view of the definition in §7621(a) of this title. The words “pay in an amount not more than $1,000,000, a claim” are substituted for the words “pay the amount of any claim, so determined, compromised, or settled” and for the words “the payment of any claim on which a net amount exceeding $1,000,000 is determined to be due from the United States, or which is compromised or settled at a net amount exceeding $1,000,000 payable by the United States, shall not be authorized by this section”.
 
 In subsection (c) the words “In any case where the amount to be paid is not more than” are substituted for the words “When the net amount paid in settlement does not exceed” for clarity, since the delegation necessarily precedes payment. The words “the Secretary may delegate his authority” are substituted for the words “the authority of the Secretary of the Navy \* \* \* may be exercised by” for clarity.
 
@@ -51,14 +51,4 @@ The first proviso in 46 U.S.C. 797, stating that this section is supplementary t
 1972—Subsec. (a). Pub. L. 92–417 substituted “an admiralty claim against the United States” for “a claim against the United States” in text preceding par. (1), in par. (1) inserted “or by other property under the jurisdiction of the Department of the Navy”, in par. (2) inserted “or to other property under the jurisdiction of the Department of the Navy”, and added par. (3).
 
 1965—Subsec. (c). Pub. L. 89–67 substituted “$10,000” for “$1,000”.
-
-#### Cross References
-
-Nuclear incident involving nuclear reactor of United States warship, payment or claims or judgments for bodily injury, death, or damage resulting from, see section 2211 of Title 42, The Public Health and Welfare.
-
-Suits in admiralty—
-
-&emsp;&emsp;Against United States for damages caused by or for towage or salvage services, see section 781 et seq. of Title 46, Appendix, Shipping.
-
-&emsp;&emsp;By or against vessels or cargoes of United States, see section 741 et seq. of Title 46, Appendix.
 

@@ -68,9 +68,3 @@ In subsection (c), the words “Proceedings under this section are” are insert
 
 1984—Subsec. (c). Pub. L. 98–525 substituted “section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486)” for “section 486 of title 40” and “section 201(a) of that Act (40 U.S.C. 481(a))” for “section 481(a) of this title”.
 
-#### Cross References
-
-Contracts for national defense, see section 1431 et seq. of Title 50, War and National Defense.
-
-Procurement procedures, see section 251 et seq. of Title 41, Public Contracts.
-

@@ -34,7 +34,7 @@ The Commissioner or the Secretary (as applicable) may, pursuant to regulations, 
 
 #### (d) Enforcement
 
-The preceding provisions of this section may be enforced through the Office of the Inspector General of the Social Security Administrationor the Office of the Inspector General of the Department of Health and Human Services (as appropriate).
+The preceding provisions of this section may be enforced through the Office of the Inspector General of the Social Security Administration or the Office of the Inspector General of the Department of Health and Human Services (as appropriate).
 
 (Aug. 14, 1935, ch. 531, title XI, §1140, as added Pub. L. 100–360, title IV, §428(a), July 1, 1988, 102 Stat. 815; amended Pub. L. 100–485, title VI, §608(d)(30)(A), Oct. 13, 1988, 102 Stat. 2424; Pub. L. 103–296, title I, §108(b)(12), title III, §§304(b), 312(a)–(j), Aug. 15, 1994, 108 Stat. 1484, 1520, 1526, 1527.)
 
@@ -114,7 +114,7 @@ When due.—The reports required by paragraph (1) shall be submitted not later t
 
 #### Consultation by United States Postal Service Regarding Prevention of Deceptive Mailings
 
-United States Postal Service to consult and coordinate functions of Secretary of Department of Health and Human Services in administration of this section, see section 4 of Pub. L. 101–524, set out as a Coordination of Functions With Department of Health and Human Services note under section 3001 of Title 39, Postal Service.
+United States Postal Service to consult and coordinate functions of Secretary of Department of Health and Human Services in administration of this section, see section 4 of Pub. L. 101–524, set out as a Coordination of Functions With Department of Health andHuman Services note under section 3001 of Title 39, Postal Service.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

@@ -28,6 +28,10 @@ The words “authorized under section 1227(a) of this title” are omitted as su
 
 Amendment by Pub. L. 103–337 effective Oct. 1, 1996, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of Title 10, Armed Forces.
 
+#### Suspension of This Section
+
+For authority of the President to suspend this section in time of war or emergency declared by Congress, see section 111 of this title.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 111, 310 of this title.

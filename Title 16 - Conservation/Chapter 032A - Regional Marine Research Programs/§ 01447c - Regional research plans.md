@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Each Board shall develop a comprehensive 4-year marine research plan for the region for which the Board is responsible, and shallamend the plan at such times as the Board considers necessary to reflect changing conditions, but no less frequently than once every 4 years.
+&emsp;Each Board shall develop a comprehensive 4-year marine research plan for the region for which the Board is responsible, and shall amend the plan at such times as the Board considers necessary to reflect changing conditions, but no less frequently than once every 4 years.
 
 #### (2) Review and consideration of national plan
 
@@ -36,7 +36,7 @@ Such marine research plan shall include—
 
 #### (3) Action after disapproval
 
-&emsp;In the case of disapproval of such research plan, the Administrator of the National Oceanic and Atmospheric Administration and the Administrator of the Environmental Protection Agency shall jointly notify the appropriate Board in writing, stating in detail the revisions necessary to obtain approval of the plan. Such Administrators shall approve or disapprove the revised plan within 90 days after receiving the revised plan from the Board.
+&emsp;In the case of disapproval of such research plan, the Administrator of the National Oceanic and Atmospheric Administration and the Administrator of the Environmental Protection Agency shall jointly notify the appropriate Board in writing, stating in detail the revisions necessary to obtain approval of the plan. Such Administrators shall approve ordisapprove the revised plan within 90 days after receiving the revised plan from the Board.
 
 (Pub. L. 92–532, title IV, §404, as added Pub. L. 101–593, title III, §301, Nov. 16, 1990, 104 Stat. 2966.)
 

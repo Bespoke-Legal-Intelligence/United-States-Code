@@ -22,7 +22,7 @@
 
 &emsp;(I) the economic impact of taxing coal-derived substances and recycled metals.
 
-(2) The Administrator of the Environmental Protection Agency (in consultation with the Secretary of the Treasury) shall submit to the Congress (i) within four years after December 11, 1980, a report identifying additional wastes designated by rule as hazardous after the effective date of this chapter and pursuant to section 3001 of the Solid Waste Disposal Act \[42 U.S.C. 6921\] and recommendations on appropriate tax rates for such wastes for the Post-closure LiabilityTrust Fund. The report shall, in addition, recommend a tax rate, considering the quantity and potential danger to human health and the environment posed by the disposal of any wastes which the Administrator, pursuant to subsection 3001(b)(2)(B) and subsection 3001(b)(3)(A) of the Solid Waste Disposal Act of 1980 \[42 U.S.C. 6921(b)(2)(B) and 6921(b)(3)(A)\], has determined should be subject to regulation under subtitle C of such Act \[42 U.S.C. 6921 et seq.\], (ii) within three years after December 11, 1980, a report on the necessity for and the adequacy of the revenue raised, in relation to estimated future requirements, of the Post-closure Liability Trust Fund.
+(2) The Administrator of the Environmental Protection Agency (in consultation with the Secretary of the Treasury) shall submit to the Congress (i) within four years after December 11,1980, a report identifying additional wastes designated by rule as hazardous after the effective date of this chapter and pursuant to section 3001 of the Solid Waste Disposal Act \[42 U.S.C. 6921\] and recommendations on appropriate tax rates for such wastes for the Post-closure Liability Trust Fund. The report shall, in addition, recommend a tax rate, considering the quantity and potential danger to human health and the environment posed by the disposal of any wastes which the Administrator, pursuant to subsection 3001(b)(2)(B) and subsection 3001(b)(3)(A) of the Solid Waste Disposal Act of 1980 \[42 U.S.C. 6921(b)(2)(B) and 6921(b)(3)(A)\], has determined should be subject to regulation under subtitle C of such Act \[42 U.S.C. 6921 et seq.\], (ii) within three years after December 11, 1980, a report on the necessity for and the adequacy of the revenue raised, in relation to estimated future requirements, of the Post-closure Liability Trust Fund.
 
 #### (b) Private insurance protection
 
@@ -140,39 +140,11 @@ The President, acting through the Administrator of the Environmental Protection 
 
 &emsp;The Comptroller General shall submit a report on the results of the study to Congress with appropriate recommendations within 12 months after October 17, 1986.
 
-#### (h) Report and oversight requirements
-
-#### (1) Annual report by EPA
-
-&emsp;On January 1 of each year the Administrator of the Environmental Protection Agency shall submit an annual report to Congress of such Agency on the progress achieved in implementing this chapter during the preceding fiscal year. In addition such report shall specifically include each of the following:
-
-&emsp;&emsp;(A) A detailed description of each feasibility study carried out at a facility under subchapter I of this chapter.
-
-&emsp;&emsp;(B) The status and estimated date of completion of each such study.
-
-&emsp;&emsp;(C) Notice of each such study which will not meet a previously published schedule for completion and the new estimated date for completion.
-
-&emsp;&emsp;(D) An evaluation of newly developed feasible and achievable permanent treatment technologies.
-
-&emsp;&emsp;(E) Progress made in reducing the number of facilities subject to review under section 9621(c) of this title.
-
-&emsp;&emsp;(F) A report on the status of all remedial and enforcement actions undertaken during the prior fiscal year, including a comparison to remedial and enforcement actions undertaken in prior fiscal years.
-
-&emsp;&emsp;(G) An estimate of the amount of resources, including the number of work years or personnel, which would be necessary for each department, agency, or instrumentality which is carrying out any activities of this chapter to complete the implementation of all duties vested in the department, agency, or instrumentality under this chapter.
-
-#### (2) Review by Inspector General
-
-&emsp;Consistent with the authorities of the Inspector General Act of 1978 the Inspector General of the Environmental Protection Agency shall review any report submitted under paragraph (1) related to EPA's activities for reasonableness and accuracy and submit to Congress, as a part of such report a report on the results of such review.
-
-#### (3) Congressional oversight
-
-&emsp;After receiving the reports under paragraphs (1) and (2) of this subsection in any calendar year, the appropriate authorizing committees of Congress shall conduct oversight hearings to ensure that this chapter is being implemented according to the purposes of this chapter and congressional intent in enacting this chapter.
-
-(Pub. L. 96–510, title III, §301, Dec. 11, 1980, 94 Stat. 2805; Pub. L. 99–499, title I, §107(d)(3), title II, §§208, 212, Oct. 17, 1986, 100 Stat. 1630, 1707, 1726; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
+(Pub. L. 96–510, title III, §301, Dec. 11, 1980, 94 Stat. 2805; Pub. L. 99–499, title I, §107(d)(3), titleII, §§208, 212, Oct. 17, 1986, 100 Stat. 1630, 1707, 1726; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(1)(A), (E), (G), (c)(1), (g), and (h), was in the original “this Act”, meaning Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, which enacted this chapter, section 6911a of this title, and sections 4611, 4612, 4661, 4662, 4681, and 4682 of Title 26, Internal Revenue Code, amended section 6911 of this title, section 1364 of Title 33, Navigation and Navigable Waters, and section 11901 of Title 49, Transportation, and enacted provisions set out as notes under section 6911 of this title and sections 1 and 4611 of Title 26. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of this title and Tables.
+This chapter, referred to in subsecs. (a)(1)(A), (E), (G), (c)(1), and (g), was in the original “this Act”, meaning Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, which enacted this chapter, section 6911a of this title, and sections 4611, 4612, 4661, 4662, 4681, and 4682 of Title 26, Internal Revenue Code, amended section 6911 of this title, section 1364 of Title 33, Navigation and Navigable Waters, and section 11901 of Title 49, Transportation, and enacted provisions set out as notes under section 6911 of this title and sections 1 and 4611 of Title 26. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of this title and Tables.
 
 Subchapter II of this chapter, referred to in subsec. (a)(1)(F), was in the original “title II of this Act”, meaning title II of Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2796, known as the Hazardous Substance Response Revenue Act of 1980, which enacted subchapter II of this chapter and sections 4611, 4612, 4661, 4662, 4681, and 4682 of Title 26. Sections 221 to 223 and 232 of Pub. L. 96–510, which were classified to sections 9631 to 9633 and 9641 of this title, comprising subchapter II of this chapter, were repealed by Pub. L. 99–499, title V, §§514(b), 517(c)(1), Oct. 17, 1986, 100 Stat. 1767, 1774. For complete classification of title II to the Code, see Short Title of 1980 Amendment note set out under section 1 of Title 26 and Tables.
 
@@ -182,7 +154,9 @@ Subsection 3001(b)(2)(B) and subsection 3001(b)(3)(A) of the Solid Waste Disposa
 
 The Solid Waste Disposal Act, referred to in subsecs. (a)(2) and (d)(C), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795. Subtitle C of the Solid Waste Disposal Act is classified generally to subchapter III (§6921 et seq.) of chapter 82 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
 
-The Inspector General Act of 1978, referred to in subsec. (h)(2), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+#### Codification
+
+Subsec. (h) of this section, which required the Administrator of the Environmental Protection Agency to submit an annual report to Congress of such Agency on the progress achieved in implementing this chapter during the preceding fiscal year, required the Inspector General of the Agency to review the report for reasonableness and accuracy and submit to Congress, as a part of that report, a report on the results of the review, and required the appropriate authorizing committees of Congress, after receiving those reports, to conduct oversight hearings to ensure that this chapter is being implemented according to the purposes of this chapter and congressional intent in enacting this chapter, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, the 5th item on page 164 of House Document No. 103–7.
 
 #### Amendments
 

@@ -18,7 +18,7 @@ The Secretary shall make grants to the States, based on the population of childr
 
 &emsp;(4) enhancing the general child protective system by improving risk and safety assessment tools and protocols, automation systems that support the program and track reports of child abuse and neglect from intake through final disposition and information referral systems;
 
-&emsp;(5) developing, strengthening, and facilitating training opportunities and requirements for individuals overseeing and providing services to children and their families through the child protection system;
+&emsp;(5) developing, strengthening, and facilitating training opportunities and requirementsfor individuals overseeing and providing services to children and their families through the child protection system;
 
 &emsp;(6) developing and facilitating training protocols for individuals mandated to report child abuse or neglect;
 
@@ -142,7 +142,7 @@ The Secretary shall make grants to the States, based on the population of childr
 
 &emsp;&emsp;(A) the term “near fatality” means an act that, as certified by a physician, places the child in serious or critical condition; and
 
-&emsp;&emsp;(B) the term “serious bodily injury” means bodily injury which involves substantial risk of death, extreme physical pain, protracted and obvious disfigurement, or protracted loss or impairment of the function of a bodily member, organ, or mental faculty.
+&emsp;&emsp;(B) the term “serious bodily injury” means bodily injury which involves substantial riskof death, extreme physical pain, protracted and obvious disfigurement, or protracted loss or impairment of the function of a bodily member, organ, or mental faculty.
 
 #### (c) Citizen review panels
 
@@ -156,7 +156,7 @@ The Secretary shall make grants to the States, based on the population of childr
 
 #### (i) Establishment of panels by States receiving minimum allotment
 
-&emsp;&emsp;&emsp;A State that receives the minimum allotment of $175,000 under section5116b(b)(1)(A) of this title for a fiscal year shall establish not less than 1 citizen review panel.
+&emsp;&emsp;&emsp;A State that receives the minimum allotment of $175,000 under section 5116b(b)(1)(A) of this title for a fiscal year shall establish not less than 1 citizen review panel.
 
 #### (ii) Designation of existing entities
 
@@ -248,7 +248,7 @@ Each State to which a grant is made under this section shall annually work with 
 
 &emsp;(10) The number of child protective services workers responsible for intake, assessment, and investigation of child abuse and neglect reports relative to the number of reports investigated in the previous year.
 
-&emsp;(11) The number of children reunited with their families or receiving family preservationservices that, within five years, result in subsequent substantiated reports of child abuse and neglect, including the death of the child.
+&emsp;(11) The number of children reunited with their families or receiving family preservation services that, within five years, result in subsequent substantiated reports of child abuse and neglect, including the death of the child.
 
 &emsp;(12) The number of children for whom individuals were appointed by the court to represent the best interests of such children and the average number of out of court contacts between such individuals and children.
 

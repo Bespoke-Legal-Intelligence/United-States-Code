@@ -22,7 +22,7 @@ In order that the Congress and the American people may be better and more curren
 
 &emsp;&emsp;(E) as proposed for the fiscal year following the year in which the report is presented; and
 
-&emsp;&emsp;(F) of any contract in excess of $100,000 administered by the Agency for International Development which was entered into in the preceding fiscal year without competitive selection procedures, and the reasons for doing so;
+&emsp;&emsp;(F) of any contract in excess of $100,000 administered by the Agency for InternationalDevelopment which was entered into in the preceding fiscal year without competitive selection procedures, and the reasons for doing so;
 
 &emsp;(3) a summary of repayments, by country, to the United States from previous foreign assistance loans;
 
@@ -102,7 +102,7 @@ Subsec. (c). Pub. L. 95–424, §502(a)(1), struck out “(c)” at beginning of
 
 Subsecs. (d) to (h). Pub. L. 95–424, §502(a)(2), struck out subsecs. (d), relating to presentation of programs to Congressional committees; (e), relating to inclusion of a specific plan in the President's recommendations to Congress; (f), relating to a report by the President to Congress showing the status of each outstanding loan; (g), relating to a report by the President to Congress showing debt-servicing problems; and (h), relating to military assistance to South Vietnam, Thailand, and Laos.
 
-1976—Subsec. (d). Pub. L. 94–329 struck out provisions under which sales pursuant to the Foreign AssistanceAct of 1961 or any other Act were included in the enumeration of factors used in developing, for purpose of presentation material, a chart showing the full extent of United States assistance planned or expected for each such country for the next fiscal year.
+1976—Subsec. (d). Pub. L. 94–329 struck out provisions under which sales pursuant to the Foreign Assistance Act of 1961 or any other Act were included in the enumeration of factors used in developing, for purpose of presentation material, a chart showing the full extent of United States assistance planned or expected for each such country for the next fiscal year.
 
 Subsec. (f). Pub. L. 94–273 substituted “September” for “June” and “March” for “December”.
 
@@ -174,7 +174,7 @@ Consultation.—The Secretary of State shall submit the report required by subse
 
 #### Progress Report of Implementation of Immunization and Oral Rehydration Promotion Programs
 
-Annual report under this section to describe progress achieved during preceding fiscal year in carrying out section 2151b(c)(3) of this title, see section 305(b) of Pub.L. 99–83, set out as a note under section 2151b of this title.
+Annual report under this section to describe progress achieved during preceding fiscal year in carrying out section 2151b(c)(3) of this title, see section 305(b) of Pub. L. 99–83, set out as a note under section 2151b of this title.
 
 #### Negotiating Efforts Concerning Accelerated Loan Repayments To Be Included in Annual Reports for Foreign Assistance for 1980 and 1981
 

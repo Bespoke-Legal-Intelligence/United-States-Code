@@ -46,7 +46,7 @@ The Alaska Native Claims Settlement Act, referred to in subsec. (b)(4)(A), is Pu
 
 #### Prior Provisions
 
-A prior section 208, act June 25, 1948, ch. 645, 62 Stat. 693, related to the acceptance of solicitation of a bribe by a judicial officer, prior to the general amendment of this chapter by Pub. L. 87–849 and is substantially covered by revised section 201.
+A prior section 208, act June 25, 1948, ch. 645, 62 Stat. 693, related to the acceptance of solicitation of a bribeby a judicial officer, prior to the general amendment of this chapter by Pub. L. 87–849 and is substantially covered by revised section 201.
 
 Provisions similar to those comprising this section were contained in section 434 of this title prior to the repeal of such section and the general amendment of this chapter by Pub. L. 87–849.
 
@@ -98,23 +98,7 @@ Pub. L. 100–446, title III, §319, Sept. 27, 1988, 102 Stat. 1826, which provi
 
 Similar provisions were contained in Pub. L. 100–202, §101(g) \[title III, §318\], Dec. 22, 1987, 101 Stat. 1329–213, 1329–255.
 
-#### Canal Zone
-
-Applicability of section to Canal Zone, see section 14 of this title.
-
-#### Cross References
-
-Definitions, see section 202 of this title.
-
-Mail contracts, conflict of interest, see section 440 of this title.
-
-Memorandum of Attorney General regarding conflict of interest provisions, see note under section 201 of this title.
-
-Purchase of certain claims against United States forbidden, see section 291 of this title.
-
-Salary of Government officials and employees payable only by the United States, see section 209 of this title.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 14, 202, 216 of this title; title 5 sections 568, 3374; title 12 section 2245; title 15 section 4805; title 16 section 1852; title 20 section 5508; title 22 sections 3507, 3508, 3613, 3622; title 26 section 1043; title 28 section 594; title 28 App. section 302; title 40 App. section 108; title 41 section 423; title 42 section 1396a; title 47 section 154.
+This section is referred to in sections 14, 202, 216 of this title; title 5 sections 568, 3374; title 7 section 2009aa–1; title 10 section 9447; title 12 section 2245; title 15 section 4805; title 16 section 1852; title 20 section 5508; title 22 sections 3507, 3508, 3613, 3622; title 26 section 1043; title 28 section 594; title 28 App. section 302; title 40 App. section 108; title 41 section 423; title 42 section 1396a; title 47 section 154.
 

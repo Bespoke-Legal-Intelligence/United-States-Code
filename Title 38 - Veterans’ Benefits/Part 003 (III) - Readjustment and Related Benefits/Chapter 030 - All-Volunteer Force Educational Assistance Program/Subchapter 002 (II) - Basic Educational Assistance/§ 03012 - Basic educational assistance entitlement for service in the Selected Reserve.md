@@ -6,7 +6,7 @@
 
 &emsp;&emsp;(A) after June 30, 1985, first becomes a member of the Armed Forces or first enters on active duty as a member of the Armed Forces and—
 
-&emsp;&emsp;&emsp;(i) serves, as the individual's initial obligated period of active duty, at least two years of continuous active duty in the Armed Forces, subject to subsection (b) of this section, characterized by the Secretary concerned as honorable service; and
+&emsp;&emsp;&emsp;(i) serves an obligated period of active duty of at least two years of continuous active duty in the Armed Forces, subject to subsection (b) of this section, characterized by the Secretary concerned as honorable service; and
 
 &emsp;&emsp;&emsp;(ii) subject to subsection (b) of this section and beginning within one year after completion of the service on active duty described in subclause (i) of this clause, serves at least four years of continuous duty in the Selected Reserve during which the individual participates satisfactorily in training as required by the Secretary concerned; or
 
@@ -16,7 +16,7 @@
 
 &emsp;&emsp;&emsp;(ii) after June 30, 1985, subject to subsection (b) of this section and beginning within one year after completion of such two years of service, serves at least four continuous years in the Selected Reserve during which the individual participates satisfactorily in training as prescribed by the Secretary concerned;
 
-&emsp;(2) who, except as provided in subsection (f) of this section, before completion of the service described in clause (1) of this subsection, has completed the requirements of a secondary school diploma (or an equivalency certificate), except that (i) an individual described in clause (1)(B) of this subsection may meet the requirement of this clause by having successfully completed (or otherwise received academic credit for) the equivalent of 12 semester hours in a program of education leading to a standard college degree, and (ii) an individual described in clause (1)(A) of this subsection may meet such requirement by having successfully completed (or otherwise received academic credit for) the equivalent of such 12 semester hours before the end of the individual's initial obligated period of active duty; and
+&emsp;(2) who completes the requirements of a secondary school diploma (or equivalency certificate), or successfully completes (or otherwise receives academic credit for) the equivalent of 12 semester hours in a program of education leading to a standard college degree, before applying for benefits under this section; and
 
 &emsp;(3) who, after completion of the service described in clause (1) of this subsection—
 
@@ -54,23 +54,41 @@
 
 &emsp;(B) after September 30, 1996, and while participating in such program received more than $2,000 for each year of such participation.
 
-(e)(1) An individual described in subclause (I) or (III) of subsection (b)(1)(B)(ii) of this section may elect entitlement to basic educational assistance under section 3011 of this title, based on an initial obligated period of active duty of two years, in lieu of entitlement to assistance under this section.
+(e)(1) An individual described in subclause (I) or (III) of subsection (b)(1)(B)(ii) of this section may elect entitlement to basic educational assistance under section 3011 of this title, based on an obligated period of active duty of two years, in lieu of entitlement to assistance under this section.
 
 (2) An individual who makes the election described in paragraph (1) of this subsection shall, for all purposes of this chapter, be considered entitled to educational assistance under section 3011 of this title and not under this section. Such an election is irrevocable.
 
-(f) For the purposes of subsection (a)(2) of this section, an individual who was on active duty on August 2, 1990, and who completes the requirements of a secondary school diploma (or equivalency certificate) before October 28, 1994, shall be considered to have completed such requirements within the individual's initial obligated period of active duty.
+(f)(1) Any individual eligible for educational assistance under this section who does not make an election under subsection (d)(1) may contribute amounts for purposes of receiving an increased amount of basic educational assistance as provided for under section 3015(g) of this title. Such contributions shall be in addition to any reductions in the basic pay of such individual under subsection (c).
+
+(2) An individual covered by paragraph (1) may make the contributions authorized by that paragraph at any time while on active duty.
+
+(3) The total amount of the contributions made by an individual under paragraph (1) may not exceed $600. Such contributions shall be made in multiples of $4.
+
+(4) Contributions under this subsection shall be made to the Secretary. The Secretary shall deposit any amounts received by the Secretary as contributions under this subsection into the Treasury as miscellaneous receipts.
 
 (g)(1) The Secretary concerned shall inform any member of the Armed Forces who has not completed that member's initial service (as described in paragraph (2)) and who indicates the intent to be discharged or released from such service for the convenience of the Government of the minimum service requirements for entitlement to educational assistance benefits under this chapter. Such information shall be provided to the member in a timely manner.
 
-(2) The initial service referred to in paragraph (1) is the initial obligated period of active duty (described in subparagraphs <sup>1</sup> (A)(i) or (B)(i) of subsection (a)(1)) or the period of service in the Selected Reserve (described in subparagraphs <sup>1</sup> (A)(ii) or (B)(ii) of subsection (a)(1)).
+(2) The initial service referred to in paragraph (1) is the initial obligated period of active duty (described in subparagraph (A)(i) or (B)(i) of subsection (a)(1)) or the period of service in the Selected Reserve (described in subparagraphs (A)(ii) or (B)(ii) of subsection (a)(1)).
 
-(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2555, §1412; amended Pub. L. 99–145, title VI, §674(2), Nov. 8, 1985, 99 Stat. 665; Pub. L. 99–576, title III, §§303(a)(2), 307(a)(2), 321(2), Oct. 28, 1986, 100 Stat. 3269, 3277; Pub. L. 100–48, §3(b), June 1, 1987, 101 Stat. 331; Pub. L. 100–689, title I, §§102(b)(1), 103(b)(1), 104(b), 105, 111(a)(2)(B), Nov. 18, 1988, 102 Stat. 4162, 4165, 4166, 4171; Pub. L. 101–237, title IV, §§409, 423(a)(1), (b)(1)(A), Dec. 18, 1989, 103 Stat. 2084, 2090, 2092; Pub. L. 101–510, div. A, title V, §562(a)(3), Nov. 5, 1990, 104 Stat. 1574; renumbered §3012 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–484, div. D, title XLIV, §4419(b), Oct. 23, 1992, 106 Stat. 2718; Pub. L. 102–568, title III, §§302(a)(2), 303(a)(2), Oct. 29, 1992, 106 Stat. 4326, 4327; Pub. L. 103–160, div. A, title V, §561(m), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 103–446, title XII, §1201(f)(2), Nov. 2, 1994, 108 Stat. 4687; Pub. L. 104–106, div. A, title XV, §1501(e)(2)(B), Feb. 10, 1996, 110 Stat. 501; Pub. L. 104–201, div. A, title V, §556(b), Sept. 23, 1996, 110 Stat. 2528; Pub. L. 105–368, title II, §§203(a), 207(b), Nov. 11, 1998, 112 Stat. 3326, 3328; Pub. L. 106–117, title VII, §704, Nov. 30, 1999, 113 Stat. 1584.)
+(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2555, §1412; amended Pub. L. 99–145, title VI, §674(2), Nov. 8, 1985, 99 Stat. 665; Pub. L. 99–576, title III, §§303(a)(2), 307(a)(2), 321(2), Oct. 28, 1986, 100 Stat. 3269, 3277; Pub. L. 100–48, §3(b), June 1, 1987, 101 Stat. 331; Pub. L. 100–689, title I, §§102(b)(1), 103(b)(1), 104(b), 105, 111(a)(2)(B), Nov. 18, 1988, 102 Stat. 4162, 4165, 4166, 4171; Pub. L. 101–237, title IV, §§409, 423(a)(1), (b)(1)(A), Dec. 18, 1989, 103 Stat. 2084, 2090, 2092; Pub. L. 101–510, div. A, title V, §562(a)(3), Nov. 5, 1990, 104 Stat. 1574; renumbered §3012 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–484, div. D, title XLIV, §4419(b), Oct. 23, 1992, 106 Stat. 2718; Pub. L. 102–568, title III, §§302(a)(2), 303(a)(2), Oct. 29, 1992, 106 Stat. 4326, 4327; Pub. L. 103–160, div. A, title V, §561(m), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 103–446, title XII, §1201(f)(2), Nov. 2, 1994, 108 Stat. 4687; Pub. L. 104–106, div. A, title XV, §1501(e)(2)(B), Feb. 10, 1996, 110 Stat. 501; Pub. L. 104–201, div. A, title V, §556(b), Sept. 23, 1996, 110 Stat. 2528; Pub. L. 105–368, title II, §§203(a), 207(b), Nov. 11, 1998, 112 Stat. 3326, 3328; Pub. L. 106–117, title VII, §704, Nov. 30, 1999, 113 Stat. 1584; Pub. L. 106–419, title I, §§102(b), 103(b), 105(a)(2), title IV, §404(a)(6), Nov. 1, 2000, 114 Stat. 1824, 1826, 1829, 1865.)
 
 #### Prior Provisions
 
 Prior section 3012 was renumbered section 5112 of this title.
 
 #### Amendments
+
+2000—Subsec. (a)(1)(A)(i). Pub. L. 106–419, §103(b)(1), substituted “an obligated period of active duty of at least two years of continuous active duty in the Armed Forces” for “, as the individual's initial obligated period of active duty, at least two years of continuous active duty in the Armed Forces”.
+
+Subsec. (a)(2). Pub. L. 106–419, §102(b)(1), added par. (2) and struck out former par. (2) which read as follows: “who, except as provided in subsection (f) of this section, before completion of the service described in clause (1) of this subsection, has completed the requirements of a secondary school diploma (or an equivalency certificate), except that (i) an individual described in clause (1)(B) of this subsection may meet the requirement of this clause by having successfully completed (or otherwise received academic credit for) the equivalent of 12 semester hours in a program of education leading to a standard college degree, and (ii) an individual described in clause (1)(A) of this subsection may meet such requirement by having successfully completed (or otherwise received academic credit for) theequivalent of such 12 semester hours before the end of the individual's initial obligated period of active duty; and”.
+
+Subsec. (e)(1). Pub. L. 106–419, §103(b)(2), struck out “initial” before “obligated period”.
+
+Subsec. (f). Pub. L. 106–419, §105(a)(2), added subsec. (f).
+
+Pub. L. 106–419, §102(b)(2), struck out subsec. (f) which read as follows: “For the purposes of subsection (a)(2) of this section, an individual who was on active duty on August 2, 1990, and who completes the requirements of a secondary school diploma (or equivalency certificate) before October 28, 1994, shall be considered to have completed such requirements within the individual's initial obligated period of active duty.”
+
+Subsec. (g)(2). Pub. L. 106–419, §404(a)(6), substituted “subparagraph” for “subparagraphs” in two places.
 
 1999—Subsec. (g)(1). Pub. L. 106–117 struck out “Federal” before “Government”.
 
@@ -142,6 +160,10 @@ Subsec. (c). Pub. L. 99–576, §303(a)(2), substituted “Any amount by which t
 
 1985—Subsec. (a)(1)(B). Pub. L. 99–145 struck out “and without a break in service on active duty since December 31, 1976,” after “chapter 34 of this title”.
 
+#### Effective Date of 2000 Amendment
+
+Amendment by section 105(a)(2) of Pub. L. 106–419 effective May 1, 2001, see section 105(c) of Pub. L. 106–419, set out as a note under section 3011 of this title.
+
 #### Effective Date of 1998 Amendment
 
 Amendment by section 203(a) of Pub. L. 105–368 effective Oct. 1, 1998, see section 203(b) of Pub. L. 105–368, set out as a note under section 3011 of this title.
@@ -174,7 +196,5 @@ For requirement of notification of individuals on active duty in Armed Forces on
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3013, 3016, 3017, 3018, 3018A, 3018B, 3018C, 3021, 3031, 3034, 3036, 5303A of this title; title 10 sections 2006, 16131.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “subparagraph”.</i>
+This section is referred to in sections 3013, 3015, 3016, 3017, 3018, 3018A, 3018B, 3018C, 3021, 3031, 3034, 3036, 5303A of this title; title 10 sections 2006, 16131.
 

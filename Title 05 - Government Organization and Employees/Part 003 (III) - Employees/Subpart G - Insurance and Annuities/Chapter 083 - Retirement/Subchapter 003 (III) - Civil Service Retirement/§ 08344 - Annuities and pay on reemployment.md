@@ -12,11 +12,11 @@
 
 > becomes employed in an appointive or elective position, his service on and after the date he is so employed is covered by this subchapter. Deductions for the Fund may not be withheld from his pay unless the individual elects to have such deductions withheld under subparagraph (A). An amount equal to the annuity allocable to the period of actual employment shall be deducted from his pay, except for lump-sum leave payment purposes under section 5551 of this title. The amounts so deducted shall be deposited in the Treasury of the United States to the credit of the Fund. If the annuitant serves on a full-time basis, except as President, for at least 1 year, on a part-time basis for periods equivalent to at least 1 year of full-time service, in employment not excluding him from coverage under section 8331(1)(i) or (ii) of this title—
 
-&emsp;(A) deductions for the Fund may be withheld from his pay (if the employee so elects), and his annuity on termination of employment is increased by an annuity computed under section 8339(a), (b), (d), (e), (h), (i), (n), (q), and (r) as may apply based on the period of employment and the basic pay, before deduction, averaged during that employment; and
+&emsp;(A) deductions for the Fund may be withheld from his pay (if the employee so elects), and his annuity on termination of employment is increased by an annuity computed under section 8339(a), (b), (d), (e), (h), (i), (n), (q), (r), and (s) as may apply based on the period of employment and the basic pay, before deduction, averaged during that employment; and
 
 &emsp;(B) his lump-sum credit may not be reduced by annuity paid during that employment.
 
-> If the annuitant is receiving a reduced annuity as provided in section 8339(j) or section 8339(k)(2) of this title, the increase in annuity payable under subparagraph (A) of this subsection is reduced by 10 percent and the survivor annuity payable under section 8341(b) of this title is increased by 55 percent of the increase in annuity payable under such subparagraph (A), unless, at the time of claiming the increase payable under such subparagraph (A), the annuitant notifies the Office of Personnel Management in writing that he does not desire the survivor annuity to be increased. If the annuitant dies while still reemployed, the survivor annuity payable is increased as though the reemployment had otherwise terminated. If the described employment of the annuitant continues for at least 5 years, or the equivalent of 5 years in the case of part-time employment, he may elect, instead of the benefit provided by subparagraph (A) of this subsection, to deposit in the Fund (to the extent deposits or deductions have not otherwise been made) an amount computed under section 8334(c) of this title covering that employment and have his rights redetermined under this subchapter. If the annuitant dies while still reemployed and the described employment had continued for at least 5 years, or the equivalent of 5 years in the case of part-time employment, the person entitled to survivor annuity under section 8341(b) of this title may elect to deposit in the Fund and have his rights redetermined under this subchapter.
+> If the annuitant is receiving a reduced annuity as provided in section 8339(j) or section 8339(k)(2) of this title, the increase in annuity payable under subparagraph (A) of this subsection is reduced by 10 percent and the survivor annuity payable under section 8341(b) of this title is increased by 55 percent of the increase in annuity payable under such subparagraph (A), unless, at the time of claiming the increase payable under such subparagraph (A), the annuitant notifies the Office of Personnel Management in writingthat he does not desire the survivor annuity to be increased. If the annuitant dies while still reemployed, the survivor annuity payable is increased as though the reemployment had otherwise terminated. If the described employment of the annuitant continues for at least 5 years, or the equivalent of 5 years in the case of part-time employment, he may elect, instead of the benefit provided by subparagraph (A) of this subsection, to deposit in the Fund (to the extent deposits or deductions have not otherwise been made) an amount computed under section 8334(c) of this title covering that employment and have his rights redetermined under this subchapter. If the annuitant dies while still reemployed and the described employment had continued for at least 5 years, or the equivalent of 5 years in the case of part-time employment, the person entitled to survivor annuity under section 8341(b) of this title may elect to deposit in the Fund and have his rights redetermined under this subchapter.
 
 (b) If an annuitant, other than a Member receiving an annuity from the Fund, whose annuity is based on an involuntary separation (other than an automatic separation or an involuntary separation for cause or charges on misconduct or delinquency) is reemployed in a position in which he is subject to this subchapter, payment of the annuity terminates on reemployment.
 
@@ -52,7 +52,7 @@
 
 (g) A former employee or a former Member who becomes employed as a justice or judge of the United States, as defined by section 451 of title 28, may, at any time prior to resignation or retirement from regular active service as such a justice or judge, apply for and be paid, in accordance with section 8342(a) of this title, the amount (if any) by which the lump-sum credit exceeds the total annuity paid, notwithstanding the time limitation contained in such section for filing an application for payment.
 
-(h)(1) Subject to paragraph (2) of this subsection, subsections (a), (b), (c), and (d) of this section shall not apply to any annuitant receiving an annuity from the Fund while such annuitant is employed, during any period described in section 5532(f)(2) <sup>1</sup> of this title or any portion thereof, under the administrative authority of the Administrator, Federal Aviation Administration, or the Secretary of Defense to perform duties in the operation of the air traffic control system or to train other individuals to perform such duties: <i>Provided, however</i>, That the amount such an annuitant may receive in pay, excluding premium pay, in any pay period when aggregated with the annuity payable during that same period shall not exceed the rate payable for level V of the Executive Schedule.
+(h)(1) Subject to paragraph (2) of this subsection, subsections (a), (b), (c), and (d) of this section shall not apply to any annuitant receiving an annuity from the Fund while such annuitant is employed, during any period described in section 5532(f) of this title (as in effect before the repeal of that section by section 651(a) of Public Law 106–65) or any portion thereof, under the administrative authority of the Administrator, Federal Aviation Administration, or the Secretary of Defense to perform duties in the operation of the air traffic control system or to train other individuals to perform such duties: <i>Provided, however</i>, That the amount such an annuitant may receive in pay, excluding premiumpay, in any pay period when aggregated with the annuity payable during that same period shall not exceed the rate payable for level V of the Executive Schedule.
 
 (2) Paragraph (1) of this subsection shall apply only in the case of any annuitant receiving an annuity from the Fund who, before December 31, 1987, applied for retirement or separated from the service while being entitled to an annuity under this chapter.
 
@@ -86,7 +86,7 @@
 
 (2) An employee as to whom a waiver under subsection (i), (j), or (k) is in effect shall not be considered an employee for purposes of this chapter or chapter 84 of this title.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 581; Pub. L. 90–83, §1(83), Sept. 11, 1967, 81 Stat. 217; Pub. L. 91–375, §6(c)(20), Aug. 12, 1970, 84 Stat. 776; Pub. L. 91–658, §4, Jan. 8, 1971, 84 Stat. 1962; Pub. L. 92–297, §7(5), May 16, 1972, 86 Stat. 145; Pub. L. 94–397, §1(a)–(c), Sept. 3, 1976, 90 Stat. 1202, 1303; Pub. L. 95–454, title IX, §906(a)(14), Oct. 13, 1978, 92 Stat. 1226; Pub. L. 95–598, title III, §338(d), Nov. 6, 1978, 92 Stat. 2681; Pub. L. 96–179, §4, Jan. 2, 1980, 93 Stat. 1299; Pub. L. 96–504, §1, Dec. 5, 1980, 94 Stat. 2741; Pub. L. 97–141, §5(a), Dec. 29, 1981, 95 Stat. 1719; Pub. L. 97–276, §151(g), Oct. 2, 1982, 96 Stat. 1202; Pub. L. 97–346, §3(j)(2), Oct. 15, 1982, 96 Stat. 1649; Pub. L. 98–353, title I, §112, July 10, 1984, 98 Stat. 343; Pub. L. 98–396, title I, Aug. 22, 1984, 98 Stat. 1403; Pub. L. 98–525, titleXV, §1537(e), Oct. 19, 1984, 98 Stat. 2636; Pub. L. 99–88, title I, §100, Aug. 15, 1985, 99 Stat. 351; Pub. L. 99–500, §101(<i>l</i>), Oct. 18, 1986, 100 Stat. 1783–308, and Pub. L. 99–591, §101(<i>l</i>), Oct. 30, 1986, 100 Stat. 3341–308; Pub. L. 100–202, §§101(<i>l</i>) \[title I\], 106, Dec. 22, 1987, 101 Stat. 1329–358, 1329–362, 1329–433; Pub. L. 100–457, title I, Sept. 30, 1988, 102 Stat. 2129; Pub. L. 101–428, §2(d)(8), Oct. 15, 1990, 104 Stat. 929; Pub. L. 101–509, title V, §529 \[title I, §108(b)\], Nov. 5, 1990, 104 Stat. 1427, 1450; Pub. L. 101–510, div. A, title XII, §1206(j)(2), Nov. 5, 1990, 104 Stat. 1664; Pub. L. 102–190, div. A, title VI, §655(b), Dec. 5, 1991, 105 Stat. 1391; Pub. L. 102–378, §8(a), Oct. 2, 1992, 106 Stat. 1359; Pub. L. 105–55, title I, §107, Oct. 7, 1997, 111 Stat. 1184; Pub. L. 105–61, title V, §516(a)(6), Oct. 10, 1997, 111 Stat. 1306.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 581; Pub. L. 90–83, §1(83), Sept. 11, 1967, 81 Stat. 217; Pub. L. 91–375, §6(c)(20), Aug. 12, 1970, 84 Stat. 776; Pub. L. 91–658, §4, Jan. 8, 1971, 84 Stat. 1962; Pub. L. 92–297, §7(5), May 16, 1972, 86 Stat. 145; Pub. L. 94–397, §1(a)–(c), Sept. 3, 1976, 90 Stat. 1202, 1303; Pub. L. 95–454, title IX, §906(a)(14), Oct. 13, 1978, 92 Stat. 1226; Pub. L. 95–598, title III, §338(d), Nov. 6, 1978, 92 Stat. 2681; Pub. L. 96–179, §4, Jan. 2, 1980, 93 Stat. 1299; Pub. L. 96–504, §1, Dec. 5, 1980, 94 Stat. 2741; Pub. L. 97–141, §5(a), Dec. 29, 1981, 95 Stat. 1719; Pub. L. 97–276, §151(g), Oct. 2, 1982, 96 Stat. 1202; Pub. L. 97–346, §3(j)(2), Oct. 15, 1982, 96 Stat. 1649; Pub. L. 98–353, title I, §112, July 10, 1984, 98 Stat. 343; Pub. L. 98–396, title I, Aug. 22, 1984, 98 Stat. 1403; Pub. L. 98–525, title XV, §1537(e), Oct. 19, 1984, 98 Stat. 2636; Pub. L. 99–88, title I, §100, Aug. 15, 1985, 99 Stat. 351; Pub. L. 99–500, §101(<i>l</i>), Oct. 18, 1986, 100 Stat. 1783–308, and Pub. L. 99–591, §101(<i>l</i>), Oct. 30, 1986, 100 Stat. 3341–308; Pub. L. 100–202, §§101(<i>l</i>) \[title I\], 106, Dec. 22, 1987, 101 Stat. 1329–358, 1329–362, 1329–433; Pub. L. 100–457, title I, Sept. 30, 1988, 102 Stat. 2129; Pub. L. 101–428, §2(d)(8), Oct. 15, 1990, 104 Stat. 929; Pub. L. 101–509, title V, §529 \[title I, §108(b)\], Nov. 5, 1990, 104 Stat. 1427, 1450; Pub. L. 101–510, div. A, title XII, §1206(j)(2), Nov. 5, 1990, 104 Stat. 1664; Pub. L. 102–190, div. A, title VI, §655(b), Dec. 5, 1991, 105 Stat. 1391; Pub. L. 102–378, §8(a), Oct. 2, 1992, 106 Stat. 1359; Pub. L. 105–55, title I, §107, Oct. 7, 1997, 111 Stat. 1184; Pub. L. 105–61, title V, §516(a)(6), Oct. 10, 1997, 111 Stat. 1306; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(f)(5)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–293; Pub. L. 106–553, §1(a)(2) \[title III, §308(h)(8)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–89.)
 
 Historical and Revision Notes<br>1966
 
@@ -116,7 +116,7 @@ July 12, 1960, Pub. L. 86–622, §3(a), 74 Stat. 410.
 
 Oct. 4, 1961, Pub. L. 87–350, §5, 75 Stat. 771.
 
-In subsections (a) and (b), the words “except for lump-sum leave payment purposes under section 61b of this title” are omitted as unnecessary as section 5551(a) provides that a “lump-sum leave payment is considered pay for taxation purposes only”.
+In subsections (a) and (b), the words “except for lump-sum leave payment purposes under section 61b of this title” are omitted as unnecessary as section 5551(a)provides that a “lump-sum leave payment is considered pay for taxation purposes only”.
 
 In subsection (a), the words “after September 30, 1956” are substituted for “hereafter” on authority of §406 of the Act of July 31, 1956, ch. 804, 70 Stat. 761. In paragraph (2), the words “other than an automatic separation” are substituted for “excluding a separation under the automatic separation provisions of this chapter”. In the third sentence, the words “and this provision concerning the lump-sum leave payments shall also be effective in the case of each retired employee separated from reemployment after December 15, 1953, and before the effective date of the Civil Service Retirement Act Amendments of 1956” are omitted as executed, and any existing rights are preserved by technical section 8. In the fourth sentence, the words “except as President” are added to preserve the exception stated in former section 2252(b). In the penultimate sentence, the words “after October 3, 1961” are substituted for “on or after October 4, 1961”. In the last sentence, the words “in any manner” are omitted as unnecessary.
 
@@ -146,8 +146,6 @@ In the codification of 5 U.S.C. 8344 by Public Law 89–554, the words “except
 
 #### References in Text
 
-Section 5532 of this title, referred to in subsec. (h)(1), was repealed by Pub. L. 106–65, div. A, title VI, §651(a)(1), Oct. 5, 1999, 113 Stat. 664.
-
 Level V of the Executive Schedule, referred to in subsec. (h)(1), is set out in section 5316 of this title.
 
 #### Codification
@@ -157,6 +155,10 @@ Amendment of subsec. (h)(2) by Pub. L. 99–500 and 99–591 is based on provisi
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+
+2000—Subsec. (a)(A). Pub. L. 106–553 substituted “(q), (r), and (s)” for “(q), and (r)”.
+
+Subsec. (h)(1). Pub. L. 106–398 inserted “(as in effect before the repeal of that section by section 651(a) of Public Law 106–65)” after “section 5532(f)(2) of this title”.
 
 1997—Subsec. (a)(A). Pub. L. 105–61 substituted “(q), and (r)” for “and (q) of this title”.
 
@@ -226,6 +228,10 @@ Subsec. (e). Pub. L. 94–397, §1(b), redesignated former subsec. (c) as (e).
 
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–553 effective on the first day of the first applicable pay period that begins on Dec. 21, 2000, and applicable only to an individual who is employed as a member of the Supreme Court Police after Dec. 21, 2000, see section 1(a)(2) \[title III, §308(i), (j)\] of Pub. L. 106–553, set out in a Supreme Court Police Retirement note under section 8331 of this title.
+
 #### Effective Date of 1997 Amendment
 
 Amendment by Pub. L. 105–61 applicable to any annuity commencing before, on, or after Oct. 10, 1997, and effective with regard to any payment made after the first month following Oct. 10, 1997, see section 516(b) of Pub. L. 105–61, set out as a note under section 8334 of this title.
@@ -284,7 +290,7 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 Section 2 of Pub. L. 94–397 provided that:
 
-“(a) Except as provided under subsection (b) of this section, the amendments made by this Act \[amending this section and section 8339 of this title\] shall become effective on the date of the enactment of this Act \[Sept. 3, 1976\] or October 1, 1976, whichever is later, and shall apply to annuitants serving in appointive or elective positions on and after such date.
+“(a) Except as provided under subsection (b) of this section, the amendments made by this Act \[amending this section and section 8339 of this title\] shall becomeeffective on the date of the enactment of this Act \[Sept. 3, 1976\] or October 1, 1976, whichever is later, and shall apply to annuitants serving in appointive or elective positions on and after such date.
 
 “(b) The amendment made by subsection (c) of the first section of this Act \[amending this section\] shall become effective on the date of the enactment of this Act \[Sept. 3, 1976\] or October 1, 1976, whichever is later, but shall not apply to any annuitant reemployed before such date.”
 
@@ -329,6 +335,4 @@ Pub. L. 94–252, Mar. 30, 1976, 90 Stat. 294, provided that: “On and after th
 #### Section Referred to in Other Sections
 
 This section is referred to in section 8339 of this title; title 16 sections 463, 5958; title 20 section 4512; title 22 section 2512; title 28 sections 625, 634; title 39 section 1005.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

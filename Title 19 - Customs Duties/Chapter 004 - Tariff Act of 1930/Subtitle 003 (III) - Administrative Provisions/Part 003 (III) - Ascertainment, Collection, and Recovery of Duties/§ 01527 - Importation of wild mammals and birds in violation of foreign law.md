@@ -22,7 +22,7 @@ The provisions of this section shall not apply in the case of—
 
 #### (3) Certain migratory game birds
 
-&emsp;Migratory game birds (for which an open season is provided by the laws of the United States and any foreign country which is a party to a treaty with the United States, in effect on the date of importation, relating to the protection of such migratory game birds) brought into the United States by bona fide sportsmen returning from hunting trips in such country, if at the time of importation the possession of such birds is not prohibited by the laws of such country or of the United States.
+&emsp;Migratory game birds (for which an open season is provided by the laws of the UnitedStates and any foreign country which is a party to a treaty with the United States, in effect on the date of importation, relating to the protection of such migratory game birds) brought into the United States by bona fide sportsmen returning from hunting trips in such country, if at the time of importation the possession of such birds is not prohibited by the laws of such country or of the United States.
 
 (June 17, 1930, ch. 497, title IV, §527, 46 Stat. 741.)
 

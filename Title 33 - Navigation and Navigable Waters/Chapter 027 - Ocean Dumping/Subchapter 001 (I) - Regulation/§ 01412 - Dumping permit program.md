@@ -38,7 +38,7 @@ The Administrator may establish and issue various categories of permits, includi
 
 #### (1) In general
 
-&emsp;The Administrator shall, in a manner consistent with the criteria established pursuant to subsection (a) of this section, designate sites or time periods for dumping. The Administrator shall designate sites or time periods for dumping that will mitigate adverse impact on the environment to the greatest extent practicable.
+&emsp;The Administrator shall, in a manner consistent with the criteria established pursuantto subsection (a) of this section, designate sites or time periods for dumping. The Administrator shall designate sites or time periods for dumping that will mitigate adverse impact on the environment to the greatest extent practicable.
 
 #### (2) Prohibitions regarding site or time period
 
@@ -100,7 +100,7 @@ Subsec. (e). Pub. L. 93–254, §1(4)(B), added subsec. (e).
 
 #### Effective Date of 1974 Amendment
 
-Section 2 of Pub. L. 93–254 provided in part that: “The amendments made by subparagraph 1(4)(A)(iii) and paragraph 1(4)(B) of this Act \[enacting provision of subsec. (a) respecting application of standards by Administrator and subsec. (e) of this section\] shall become effective on the date that the Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matters enters into force for the United States.”\[The Convention entered into force for the United States Aug. 30, 1975.\]
+Section 2 of Pub. L. 93–254 provided in part that: “The amendments made by subparagraph 1(4)(A)(iii) and paragraph 1(4)(B) of this Act \[enacting provision of subsec. (a) respecting application of standards by Administrator and subsec. (e) of this section\] shall become effective on the date that the Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matters enters into force for the United States.” \[The Convention entered into force for the United States Aug. 30, 1975.\]
 
 Amendment of subsec. (a) of this section, other than last sentence, by Pub. L. 93–254 effective Mar. 22, 1974, see section 2 of Pub. L. 93–254, set out in part as a note under section 1401 of this title.
 

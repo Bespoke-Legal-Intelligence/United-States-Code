@@ -44,7 +44,3 @@ In subsection (b) the words “an increase in basic pay of 25 percent” are sub
 
 In subsection (c) the term “enlistment contract” is substituted for the term “shipping-articles” to conform to present terminology.
 
-#### Cross References
-
-Basic pay, see section 203 of Title 37, Pay and Allowances of the Uniformed Services.
-

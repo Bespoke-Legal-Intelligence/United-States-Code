@@ -6,7 +6,7 @@ Title V of the Higher Education Act of 1965, comprising this subchapter, was ori
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in section 1124 of this title; title 8 section 1613.
+This subchapter is referred to in sections 1070a–14, 1124 of this title; title 8 section 1613.
 
 
 ---

@@ -60,18 +60,6 @@ Subsec. (f). Pub. L. 103–199, §803(2)(A), struck out subsec. (f) which read a
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-#### Cross References
-
-Classified information, penalty for disclosure, see section 798A of Title 18, Crimes and Criminal Procedure.
-
-Diplomatic codes and correspondence, disclosure of matters relating thereto, penalty for, see section 952 of Title 18.
-
-Federal retirement benefits, forfeiture upon conviction of offense described hereunder, see section 8312 of Title 5, Government Organization and Employees.
-
-Forfeiture of veterans’ benefits upon conviction under this section, see section 6105 of Title 38, Veterans’ Benefits.
-
-Limitation periods generally, see section 3281 et seq. of Title 18, Crimes and Criminal Procedure.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 2410 of Appendix to this title; title 5 section 8312; title 18 sections 3077, 3239; title 22 section 2778; title 38 section 6105; title 42 sections 402, 2000aa.

@@ -10,7 +10,7 @@ In the event that the Secretary withdraws a utility and transportation corridor 
 
 (1) Public Land Order Numbered 4582, 34 Federal Register 1025, as amended, is hereby revoked. For a period of ninety days after December 18, 1971, all unreserved public lands in Alaska are hereby withdrawn from all forms of appropriation under the public land laws, including the mining (except locations for metalliferous minerals) and the mineral leasing laws. During this period of time the Secretary shall review the public lands in Alaska and determine whether any portion of these lands should be withdrawn under authority provided for in existing law to insure that the public interest in these lands is properly protected. Any further withdrawal shall require an affirmative act by the Secretary under his existing authority, and the Secretary is authorized to classify or reclassify any lands so withdrawn and to open such lands to appropriation under the public land laws in accord with his classifications. Withdrawals pursuant to this paragraph shall not affect the authority of the Village Corporations, the Regional Corporations, and the State to make selections and obtain patents within the areas withdrawn pursuant to section 1610 of this title.
 
-(2)(A) The Secretary, acting under authority provided for in existing law, is directed to withdraw from all forms of appropriation under the public land laws, including the mining and mineral leasing laws, and from selection under the Alaska Statehood Act, and from selection by Regional Corporations pursuant to section 1610 of this title, up to, but not to exceed, eighty million acres of unreserved public lands in the State of Alaska, including previously classified lands, which the Secretary deems are suitablefor addition to or creation as units of the National Park, Forest, Wildlife Refuge, and Wild and Scenic Rivers Systems: <i>Provided</i>, That such withdrawals shall not affect the authority of the State and the Regional and Village Corporations to make selections and obtain patents within the areas withdrawn pursuant to section 1610 of this title.
+(2)(A) The Secretary, acting under authority provided for in existing law, is directed to withdraw from all forms of appropriation under the public land laws, including the mining and mineral leasing laws, and from selection under the Alaska Statehood Act, and from selection by Regional Corporations pursuant to section 1610 of this title, up to, but not to exceed, eighty million acres of unreserved public lands in the State of Alaska, including previously classified lands, which the Secretary deems are suitable for addition to or creation as units of the National Park, Forest, Wildlife Refuge, and Wild and Scenic Rivers Systems: <i>Provided</i>, That such withdrawals shall not affect the authority of theState and the Regional and Village Corporations to make selections and obtain patents within the areas withdrawn pursuant to section 1610 of this title.
 
 (B) Lands withdrawn pursuant to paragraph (A) hereof must be withdrawn within nine months of December 18, 1971. All unreserved public lands not withdrawn under paragraph (A) or subsection (d)(1) of this section shall be available for selection by the State and for appropriation under the public land laws.
 
@@ -30,9 +30,7 @@ Alaska Statehood Act, referred to in subsec. (d)(2)(A), (E), is Pub. L. 85–508
 
 The public land laws, referred to in subsec. (d)(1), (2)(B) to (D), are classified generally to this title.
 
-The mining laws, referred to in subsec. (d)(1), are classified generally to Title 30, Mineral Lands and Mining.
-
-The mineral leasing laws, referred to in subsec. (d)(1), have been defined in sections 351, 505, 530, and 541e of Title 30 to mean acts Oct. 20, 1914, ch. 330, 38 Stat. 741; Feb. 25, 1920, ch. 85, 41 Stat. 437; Apr. 17, 1926, ch. 158, 44 Stat. 301; and Feb. 7, 1927, ch. 66, 44 Stat. 1057. The act of Oct. 20, 1914, was repealed by Pub. L. 86–252, §1, Sept. 9, 1959, 73 Stat. 490. The act of Feb. 25, 1920, is known as the Mineral Leasing Act and is classified generally to chapter 3A (§181 et seq.) of Title 30. The act of Apr. 17, 1926, is classified generally to subchapter VIII (§271 et seq.) of chapter 3A of Title 30. The act of Feb. 7, 1927, is classified principally to subchapter IX (§281 et seq.) of chapter 3A of Title 30. For complete classification of these Acts to the Code, see Tables.
+The mining laws and the mineral leasing laws, referred to in subsec. (d)(1), are classified generally to Title 30, Mineral Lands and Mining.
 
 #### Codification
 
@@ -44,5 +42,5 @@ Subsecs. (a) and (b) of this section, which related to the establishment, member
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1602, 1610, 1611, 1613, 1621, 1633, 1635, 1641 of this title; title 16 section 410hh–3.
+This section is referred to in sections 1602, 1610, 1611, 1613, 1618, 1621, 1633, 1635, 1641 of this title; title 16 section 410hh–3.
 

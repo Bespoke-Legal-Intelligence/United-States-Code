@@ -28,7 +28,7 @@ A State child health plan shall include a description, consistent with the requi
 
 #### (A) In general
 
-&emsp;&emsp;The plan shall include a description of the standards used to determine the eligibility of targeted low-income children for child health assistance under the plan. Such standards may include (to the extent consistent with this subchapter) those relating to the geographic areas to be served by the plan, age, income and resources (including any standards relating to spenddowns and disposition of resources), residency, disability status (so long as any standard relating to such status does not restrict eligibility), access to or coverage under other health coverage, and duration of eligibility. Such standards may not discriminate on the basis of diagnosis.
+&emsp;&emsp;The plan shall include a description of the standards used to determine the eligibilityof targeted low-income children for child health assistance under the plan. Such standards may include (to the extent consistent with this subchapter) those relating to the geographic areas to be served by the plan, age, income and resources (including any standards relating to spenddowns and disposition of resources), residency, disability status (so long as any standard relating to such status does not restrict eligibility), access to or coverage under other health coverage, and duration of eligibility. Such standards may not discriminate on the basis of diagnosis.
 
 #### (B) Limitations on eligibility standards
 

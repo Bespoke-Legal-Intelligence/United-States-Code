@@ -32,15 +32,11 @@ Changes in phraseology were made.
 
 #### Amendments
 
-1998—Pub. L. 105–300 designated existing provisions as subsec. (a)(1) and added subsecs. (a)(2) and (b).
+<b>1998</b>—Pub. L. 105–300 designated existing provisions as subsec. (a)(1) and added subsecs. (a)(2) and (b).
 
 #### Effective Date of 1998 Amendment
 
 Pub. L. 105–300, §1(b), Oct. 27, 1998, 112 Stat. 2837, provided that: “This Act \[amending this section\] shall take effect on the date of enactment of this Act \[Oct. 27, 1998\] and shall apply only to any individual whose nomination is submitted to the Senate on or after such date.”
-
-#### Cross References
-
-Nepotism in appointment of receiver or trustee, see section 1910 of Title 18, Crimes and Criminal Procedure.
 
 #### Section Referred to in Other Sections
 

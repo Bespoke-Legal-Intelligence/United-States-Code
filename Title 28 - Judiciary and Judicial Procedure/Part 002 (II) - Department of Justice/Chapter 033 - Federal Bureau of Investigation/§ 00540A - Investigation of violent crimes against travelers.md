@@ -6,7 +6,7 @@ In General.—At the request of an appropriate law enforcement official of a Sta
 
 (b)
 
-Foreign Travelers.—In a case in which the traveler who is a victim of a crime described in subsection (a) is from a foreign nation, theAttorney General and Director of the Federal Bureau of Investigation, and, when appropriate, the Secretary of State shall assist the prosecuting and law enforcement officials of a State or political subdivision to the fullest extent possible in securing from abroad such evidence or other information as may be needed for the effective investigation and prosecution of the crime.
+Foreign Travelers.—In a case in which the traveler who is a victim of a crime described in subsection (a) is from a foreign nation, the Attorney General and Director of the Federal Bureau of Investigation, and, when appropriate,the Secretary of State shall assist the prosecuting and law enforcement officials of a State or political subdivision to the fullest extent possible in securing from abroad such evidence or other information as may be needed for the effective investigation and prosecution of the crime.
 
 (c)
 
@@ -22,7 +22,7 @@ Definitions.—In this section—
 
 #### Amendments
 
-1996—Subsec. (c). Pub. L. 104–294 designated three undesignated pars. as pars. (1) to (3).
+<b>1996</b>—Subsec. (c). Pub. L. 104–294 designated three undesignated pars. as pars. (1) to (3).
 
 #### Effective Date of 1996 Amendment
 

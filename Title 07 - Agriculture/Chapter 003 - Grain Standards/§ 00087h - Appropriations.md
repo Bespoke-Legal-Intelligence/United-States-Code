@@ -1,10 +1,12 @@
 ### §87h. Appropriations
 
-There are hereby authorized to be appropriated such sums as are necessary for standardization and compliance activities, monitoring in foreign ports grain officially inspected and weighed under this chapter, and any other expenses necessary to carry out the provisions of this chapter for each of the fiscal years 1988 through 2000, to the extent that financing is not obtained from fees and sales of samples as provided for in sections 79, 79a, 79b, 87e, and 87f–1 of this title.
+There are hereby authorized to be appropriated such sums as are necessary for standardization and compliance activities, monitoring in foreign ports grain officially inspected and weighed under this chapter, and any other expenses necessary to carry out the provisions of this chapter for each of the fiscal years 1988 through 2005, to the extent that financing is not obtained from fees and sales of samples as provided for in sections 79, 79a, 79b, 87e, and 87f–1 of this title.
 
-(Aug. 11, 1916, ch. 313, pt. B, §19, as added Pub. L. 90–487, §1, Aug. 15, 1968, 82 Stat. 769; amended Pub. L. 94–582, §21, Oct. 21, 1976, 90 Stat. 2886; Pub. L. 95–113, title XVI, §§1602(c), 1604(n), Sept. 29, 1977, 91 Stat. 1025, 1029; Pub. L. 97–35, title I, §155(4), Aug. 13, 1981, 95 Stat. 372; Pub. L. 98–469, §2(3), Oct. 11, 1984, 98 Stat. 1832; Pub. L. 100–518, §2(4), Oct. 24, 1988, 102 Stat. 2586; Pub. L. 103–156, §3, Nov. 24, 1993, 107 Stat. 1525.)
+(Aug. 11, 1916, ch. 313, pt. B, §19, as added Pub. L. 90–487, §1, Aug. 15, 1968, 82 Stat. 769; amended Pub. L. 94–582, §21, Oct. 21, 1976, 90 Stat. 2886; Pub. L. 95–113, title XVI, §§1602(c), 1604(n), Sept. 29, 1977, 91 Stat. 1025, 1029; Pub. L. 97–35, title I, §155(4), Aug. 13, 1981, 95 Stat. 372; Pub. L. 98–469, §2(3), Oct. 11, 1984, 98 Stat. 1832; Pub. L. 100–518, §2(4), Oct. 24, 1988, 102 Stat. 2586; Pub. L. 103–156, §3, Nov. 24, 1993, 107 Stat. 1525; Pub. L. 106–472, title I, §108, Nov. 9, 2000, 114 Stat. 2060.)
 
 #### Amendments
+
+2000—Pub. L. 106–472 substituted “2005” for “2000”.
 
 1993—Pub. L. 103–156 substituted “1988 through 2000” for “during the period beginning October 1, 1988, and ending September 30, 1993” and inserted references to sections 79b and 87e of this title.
 
@@ -17,6 +19,10 @@ There are hereby authorized to be appropriated such sums as are necessary for st
 1977—Pub. L. 95–113 substituted “Federal administrative and supervisory costs related to the official inspection or the provision of weighing services for grain” for “those Federal administrative and supervisory costs incurred within the Service's Washington office or not directly related to the official inspection or the provision of weighing services for grain” and renumbered this section as section 19 of the United States Grain Standards Act, thereby correcting an error in the 1976 amendment of this section by Pub. L. 94–582 under which this section had inadvertently been renumbered from section 19 of the United States Grain Standards Act to section 21 thereof.
 
 1976—Pub. L. 94–582 enumerated specific items for which appropriations are authorized and provided for financing obtained from fees and sales of samples as provided in sections 79a and 87f–1 of this title.
+
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–472 effective as if enacted Sept. 30, 2000, see section 111 of Pub. L. 106–472, set out as a note under section 79 of this title.
 
 #### Effective Date of 1993 Amendment
 
@@ -40,7 +46,7 @@ Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L
 
 #### Effective Date of 1976 Amendment
 
-For effective date of amendment by Pub. L. 94–582, see section 27 of Pub. L. 94–582, set out as a note under section 74 of this title.
+Amendment by Pub. L. 94–582 effective 30 days after Oct. 21, 1976, see section 27 of Pub. L. 94–582, as amended, set out as a note under section 74 of this title.
 
 #### Effective Date
 

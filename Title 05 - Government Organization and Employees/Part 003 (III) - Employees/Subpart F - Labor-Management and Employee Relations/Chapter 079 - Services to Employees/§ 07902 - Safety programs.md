@@ -18,7 +18,7 @@
 
 (e) Each agency shall—
 
-&emsp;(1) keep a record of injuries and accidents to its employees whether or not they result in loss of time or in the payment or furnishing of benefits; and
+&emsp;(1) keep a record of injuries and accidents to its employees whether or not they result inloss of time or in the payment or furnishing of benefits; and
 
 &emsp;(2) make such statistical or other reports on such forms as the Secretary may prescribe by regulation.
 
@@ -76,7 +76,7 @@ Ex. Ord. No. 11807, Sept. 28, 1974, 39 F.R. 35559, which related to occupational
 
 #### Ex. Ord. No. 12196. Occupational Safety and Health Programs for Federal Employees
 
-Ex. Ord. No. 12196, Feb. 26, 1980, 45 F.R. 12769, as amended by Ex. Ord. No. 12223, June 30, 1980, 45 F.R.45235; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617, provided:
+Ex. Ord. No. 12196, Feb. 26, 1980, 45 F.R. 12769, as amended by Ex. Ord. No. 12223, June 30, 1980, 45 F.R. 45235; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617, provided:
 
 By the authority vested in me as President by the Constitution and statutes of the United States of America, including Section 7902(c) of Title 5 of the United States Code and in accord with Section 19 of the Occupational Safety and Health Act of 1970, as amended (29 U.S.C 668), it is ordered:
 
@@ -216,7 +216,7 @@ Term of the Federal Advisory Council on Occupational Safety and Health extended 
 
 Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 1985, by Ex. Ord. No. 12489, Sept. 28, 1984, 49 F.R. 38927, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
 
-Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 1987,by Ex. Ord. No. 12534, Sept. 30, 1985, 50 F.R. 40319, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
+Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 1987, by Ex. Ord. No. 12534, Sept. 30, 1985, 50 F.R. 40319, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
 
 Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 1989, by Ex. Ord. No. 12610, Sept. 30, 1987, 52 F.R. 36901, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
 

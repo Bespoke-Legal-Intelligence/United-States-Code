@@ -10,17 +10,23 @@
 
 &emsp;&emsp;(ii) place an order, expected to exceed $25,000, under a basic agreement, basic ordering agreement, or similar arrangement,
 
-> &emsp;shall furnish for publication by the Secretary of Commerce a notice of solicitation described in subsection (b) of this section;
+> &emsp;shall publish a notice of solicitation described in subsection (b) of this section;
 
 &emsp;(B) an executive agency intending to solicit bids or proposals for a contract for property or services for a price expected to exceed $10,000, but not to exceed $25,000, shall post, for a period of not less than ten days, in a public place at the contracting office issuing the solicitation a notice of solicitation described in subsection (b) of this section; and
 
 &emsp;(C) an executive agency awarding a contract for property or services for a price exceeding $25,000, or placing an order referred to in clause (A)(ii) exceeding $25,000, shall furnish for publication by the Secretary of Commerce a notice announcing the award or order if there is likely to be any subcontract under such contract or order.
 
-(2) The Secretary of Commerce shall publish promptly in the Commerce Business Daily each notice required by paragraph (1).
+(2)(A) A notice of solicitation required to be published under paragraph (1) may be published—
 
-(3) Whenever an executive agency is required by paragraph (1)(A) to furnish a notice to the Secretary of Commerce, such executive agency may not—
+&emsp;(i) by electronic means that meets the requirements for accessibility under paragraph (7); or
 
-&emsp;(A) issue the solicitation earlier than 15 days after the date on which the notice is published by the Secretary of Commerce; or
+&emsp;(ii) by the Secretary of Commerce in the Commerce Business Daily.
+
+(B) The Secretary of Commerce shall promptly publish in the Commerce Business Daily each notice or announcement received under this subsection for publication by that means.
+
+(3) Whenever an executive agency is required by paragraph (1)(A) to publish a notice of solicitation, such executive agency may not—
+
+&emsp;(A) issue the solicitation earlier than 15 days after the date on which the notice is published; or
 
 &emsp;(B) in the case of a contract or order expected to be greater than the simplified acquisition threshold, establish a deadline for the submission of all bids or proposals in response to the notice required by paragraph (1)(A) that—
 
@@ -36,11 +42,13 @@
 
 (6) The Administrator shall prescribe regulations defining limited circumstances in which flexible deadlines can be used under paragraph (3) for the issuance of solicitations and the submission of bids or proposals for the procurement of commercial items.
 
+(7) A publication of a notice of solicitation by electronic means meets the requirements for accessibility under this paragraph if the notice is electronically accessible in a form that allows convenient and universal user access through the single Government-wide point of entry designated in the Federal Acquisition Regulation.
+
 #### (b) Contents of notice
 
 Each notice of solicitation required by subparagraph (A) or (B) of subsection (a)(1) shall include—
 
-&emsp;(1) an accurate description of the property or services to be contracted for, which description (A) shall not be unnecessarily restrictive of competition, and (B) shall include, as appropriate, the agency nomenclature, National Stock Number or other part number, and a brief description of the item's form, fit, or function, physical dimensions, predominant material of manufacture, or similar information that will assist a prospective contractor to make an informed business judgment as to whether a copy of the solicitation should be requested;
+&emsp;(1) an accurate description of the property or services to be contracted for, which description (A) shall not be unnecessarily restrictive of competition, and (B) shall include, as appropriate, the agency nomenclature, National Stock Number or other part number, and abrief description of the item's form, fit, or function, physical dimensions, predominant material of manufacture, or similar information that will assist a prospective contractor to make an informed business judgment as to whether a copy of the solicitation should be requested;
 
 &emsp;(2) provisions that—
 
@@ -52,7 +60,7 @@ Each notice of solicitation required by subparagraph (A) or (B) of subsection (a
 
 &emsp;(4) a statement that all responsible sources may submit a bid, proposal, or quotation (as appropriate) which shall be considered by the agency;
 
-&emsp;(5) in the case of a procurement using procedures other than competitive procedures, a statement of the reason justifying the use ofsuch procedures and the identity of the intended source; and
+&emsp;(5) in the case of a procurement using procedures other than competitive procedures, a statement of the reason justifying the use of such procedures and the identity of the intended source; and
 
 &emsp;(6) in the case of a contract in an amount estimated to be greater than $25,000 but not greater than the simplified acquisition threshold, or a contract for the procurement of commercial items using special simplified procedures—
 
@@ -94,13 +102,21 @@ Each notice of solicitation required by subparagraph (A) or (B) of subsection (a
 
 An executive agency shall make available to any business concern, or the authorized representative of such concern, the complete solicitation package for any on-going procurement announced pursuant to a notice of solicitation under subsection (a) of this section. An executive agency may require the payment of a fee, not exceeding the actual cost of duplication, for a copy of such package.
 
-(Pub. L. 93–400, §18, as added Pub. L. 98–369, div. B, title VII, §2732(a), July 18, 1984, 98 Stat. 1195; amended Pub. L. 98–577, title III, §303(a), Oct. 30, 1984, 98 Stat. 3077; Pub. L. 99–500, §101(c) \[title X, §922(b), (d)(2)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–151, 1783–152, and Pub. L. 99–591, §101(c) \[title X, §922(b), (d)(2)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–151, 3341–152; Pub. L. 99–661, div. A, title IX, formerly title IV, §922(b), (d)(2), Nov. 14, 1986, 100 Stat. 3931, 3932; renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 101–510, div. A, title VIII, §806(d), Nov. 5, 1990, 104 Stat. 1592; Pub. L. 103–355, title I, §1055(b)(1), title IV, §§4201(b), (c), 4202(a)–(c), title VIII, §8302, title IX, §9001(b), Oct. 13, 1994, 108 Stat. 3265, 3344, 3398, 3402; Pub. L. 104–106, div. D, title XLI, §4101(c), title XLII, §4202(d), title XLIII, §§4310, 4321(h)(3), Feb. 10, 1996, 110 Stat. 642, 654, 670, 675; Pub. L. 105–85, div. A, title VIII, §850(e)(2), Nov. 18, 1997, 111 Stat. 1849; Pub. L. 105–261, div. A, title X, §1069(d)(1), Oct. 17, 1998, 112 Stat. 2136.)
+(Pub. L. 93–400, §18, as added Pub. L. 98–369, div. B, title VII, §2732(a), July 18, 1984, 98 Stat. 1195; amended Pub. L. 98–577, title III, §303(a), Oct. 30, 1984, 98 Stat. 3077; Pub. L. 99–500, §101(c) \[title X, §922(b), (d)(2)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–151, 1783–152, and Pub. L. 99–591, §101(c) \[title X, §922(b), (d)(2)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–151, 3341–152; Pub. L. 99–661, div. A, title IX, formerly title IV, §922(b), (d)(2), Nov. 14, 1986, 100 Stat. 3931, 3932; renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 101–510, div. A, title VIII, §806(d), Nov. 5, 1990, 104 Stat. 1592; Pub. L. 103–355, title I, §1055(b)(1), title IV, §§4201(b), (c), 4202(a)–(c), title VIII, §8302, title IX, §9001(b), Oct. 13, 1994, 108 Stat. 3265, 3344, 3398, 3402; Pub. L. 104–106, div. D, title XLI, §4101(c), title XLII, §4202(d), title XLIII, §§4310, 4321(h)(3), Feb. 10, 1996, 110 Stat. 642, 654, 670, 675; Pub. L. 105–85, div. A, title VIII, §850(e)(2), Nov. 18, 1997, 111 Stat. 1849; Pub. L. 105–261, div. A, title X, §1069(d)(1), Oct. 17, 1998, 112 Stat. 2136; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §810(a), (b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–209.)
 
 #### Codification
 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+
+2000—Subsec. (a)(1)(A). Pub. L. 106–398, §1 \[\[div. A\], title VIII, §810(a)(1)\], substituted “publish” for “furnish for publication by the Secretary of Commerce” in concluding provisions.
+
+Subsec. (a)(2). Pub. L. 106–398, §1 \[\[div. A\], title VIII, §810(a)(2)\], added par. (2) and struck out former par. (2) which read as follows: “The Secretary of Commerce shall publish promptly in the Commerce Business Daily each notice required by paragraph (1).”
+
+Subsec. (a)(3). Pub. L. 106–398, §1 \[\[div. A\], title VIII, §810(b)\], substituted “publish a notice of solicitation” for “furnish a notice to the Secretary of Commerce” in introductory provisions and struck out “by the Secretary of Commerce” after “notice is published” in subpar. (A).
+
+Subsec. (a)(7). Pub. L. 106–398, §1 \[\[div. A\], title VIII, §810(a)(3)\], added par. (7).
 
 1998—Subsec. (c)(1)(A)(ii). Pub. L. 105–261 substituted a semicolon for period at end.
 
@@ -176,6 +192,10 @@ Subsec. (c)(1)(E). Pub. L. 98–577 added subpar. (E).
 
 Subsec. (d). Pub. L. 98–577 added subsec. (d).
 
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–398 effective Oct. 1, 2000, and applicable with respect to solicitations issued on or after that date, see section 1 \[\[div. A\], title VIII, §810(e)\] of Pub. L. 106–398, set out as a note under section 637 of Title 15, Commerce and Trade.
+
 #### Effective Date of 1997 Amendment
 
 Amendment by Pub. L. 105–85 effective 180 days after Nov. 18, 1997, see section 850(g) of Pub. L. 105–85, set out as a note under section 2302c of Title 10, Armed Forces.
@@ -206,5 +226,5 @@ Section 303(c) of Pub. L. 98–577 provided that: “The provisions of the amend
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 253, 253i, 253j, 427 of this title; title 10 sections 2304, 2304b, 2304c; title 20 section 1018a.
+This section is referred to in sections 253, 253i, 253j, 427 of this title; title 10 sections 2304, 2304b, 2304c; title 15 section 637; title 20 section 1018a.
 

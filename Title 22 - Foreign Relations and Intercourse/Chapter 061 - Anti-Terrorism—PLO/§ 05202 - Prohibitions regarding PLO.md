@@ -2,7 +2,7 @@
 
 It shall be unlawful, if the purpose be to further the interests of the Palestine Liberation Organization or any of its constituent groups, any successor to any of those, or any agents thereof, on or after the effective date of this chapter—
 
-&emsp;(1) to receive anything of value except informational material from the PLO or any of itsconstituent groups, any successor thereto, or any agents thereof;
+&emsp;(1) to receive anything of value except informational material from the PLO or any of its constituent groups, any successor thereto, or any agents thereof;
 
 &emsp;(2) to expend funds from the PLO or any of its constituent groups, any successor thereto, or any agents thereof; or
 

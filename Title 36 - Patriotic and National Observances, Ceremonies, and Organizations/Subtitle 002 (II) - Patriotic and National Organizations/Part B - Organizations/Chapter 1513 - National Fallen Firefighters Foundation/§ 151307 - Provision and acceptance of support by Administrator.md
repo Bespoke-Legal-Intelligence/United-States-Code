@@ -2,11 +2,11 @@
 
 (a)
 
-Provision by Administrator.—(1) The Administrator of the United States Fire Administration of the Federal Emergency Management Agency—
+Provision by Administrator.—(1) During the 10-year period beginning on the date of the enactment of the Fire Administration Authorization Act of 2000, the Administrator of the United States Fire Administration of the Federal Emergency Management Agency—
 
 &emsp;(A) may provide personnel, facilities, and other administrative services to the corporation; and
 
-&emsp;(B) shall require and accept reimbursements for these personnel, facilities, and services.
+&emsp;(B) may require and accept reimbursements for these personnel, facilities, and services.
 
 (2) Reimbursements under paragraph (1) of this subsection shall be deposited in the Treasury to the credit of the appropriations then current and chargeable for the cost of providing the services.
 
@@ -16,29 +16,11 @@ Provision by Administrator.—(1) The Administrator of the United States Fire Ad
 
 Acceptance by Administrator.—The Administrator may accept, without regard to chapters 33 and 51 and subchapter III of chapter 53 of title 5 and related regulations, the services of the corporation and its directors, officers, and employees as volunteers in performing functions authorized under this chapter, without compensation from the Administration.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1401.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1401; Pub. L. 106–503, title I, §113(d), Nov. 13, 2000, 114 Stat. 2304.)
 
 #### Amendment Subsequent to August 15, 1997
 
-<i>Section 5204 of former Title 36, from which this section was derived, was amended generally by Pub. L. 105–276, title IV, §427(c), Oct. 21, 1998, 112 Stat. 2511, see section 5(a) of Pub. L. 105–225, set out as a Legislative Purpose and Construction note preceding section 101 of this title. Section 5204 of former Title 36 was amended to read as follows:</i>
-
-#### §5204. Administrative services and support
-
-#### (a) In general
-
-During the 10-year period beginning on the date of the enactment of the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1999 \[Oct. 21, 1998\], the Administrator may—
-
-&emsp;(1) provide personnel, facilities, and other required services for the operation of the Foundation; and
-
-&emsp;(2) accept reimbursement for the assistance provided under paragraph (1).
-
-#### (b) Reimbursement
-
-Any amounts received under subsection (a)(2) as reimbursement for assistance shall be deposited in the Treasury to the credit of the appropriations then current and chargeable for the cost of providing that assistance.
-
-#### (c) Prohibition
-
-Notwithstanding any other provision of law, no Federal personnel or stationery may be used to solicit funding for the Foundation.
+<i>Section 5204 of former Title 36, from which subsec. (a) of this section was derived, was amended generally by Pub. L. 105–276, title IV, §427(c), Oct. 21, 1998, 112 Stat. 2511, see section 5(a) of Pub. L. 105–225, set out as a Legislative Purpose and Construction note preceding section 101 of this title. As subsequently amended by Pub. L. 106–503 subsec. (a) of this section restated the provisions of section 5204 of former Title 36, as amended by Pub. L. 105–276, §427(c), with the following exceptions—(1) in the introductory provisions of subsec. (a)(1), the words “During the 10-year period beginning on the date of the enactment of the Fire Administration Authorization Act of 2000” were used instead of “During the 10-year period beginning on the date of the enactment of the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1999”, (2) in subsec. (a)(1)(A), the words “other administrative services to” were used instead of “other required services for the operation of”, and (3) in subsec. (a)(1)(B), the words “may require and accept reimbursements” were used instead of “may accept reimbursement”.</i>
 
 Historical and Revision Notes
 
@@ -63,4 +45,14 @@ Oct. 26, 1992, Pub. L. 102–522, title II, §§205, 206, 106 Stat. 3419.
 &nbsp;
 
 In subsection (b), the words “chapters 33 and 51 and subchapter III of chapter 53 of title 5 and related regulations” are substituted for “the Federal civil service classification laws, rules, or regulations” for consistency in the revised title and with other titles of the United States Code.
+
+#### References in Text
+
+The date of the enactment of the Fire Administration Authorization Act of 2000, referred to in subsec. (a)(1), is the date of enactment of Pub. L. 106–503, which was approved Nov. 13, 2000.
+
+#### Amendments
+
+2000—Subsec. (a)(1). Pub. L. 106–503, §113(d)(1), substituted “During the 10-year period beginning on the date of the enactment of the Fire Administration Authorization Act of 2000, the Administrator” for “The Administrator” in introductory provisions.
+
+Subsec. (a)(1)(B). Pub. L. 106–503, §113(d)(2), substituted “may” for “shall”.
 

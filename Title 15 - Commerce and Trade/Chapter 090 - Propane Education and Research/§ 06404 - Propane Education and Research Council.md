@@ -56,7 +56,7 @@ Before August 1 each year, the Council shall publish for public review and comme
 
 #### (<i>l</i>) Records; audits
 
-The Council shall keep minutes, books, and records that clearly reflect all of the acts andtransactions of the Council and make public such information. The books of the Council shall be audited by a certified public accountant at least once each fiscal year and at such other times as the Council may designate. Copies of such audit shall be provided to all members of the Council, all qualified industry organizations, and to other members of the industry upon request. The Secretary shall receive notice of meetings and may require reports on the activities of the Council, as well as reports on compliance, violations, and complaints regarding the implementation of this chapter.
+The Council shall keep minutes, books, and records that clearly reflect all of the acts and transactions of the Council and make public such information. The books of the Council shall be audited by a certified public accountant at least once each fiscal year and at such other times as the Council may designate. Copies of such audit shall be provided to all members of the Council, all qualified industry organizations, and to other members of the industry upon request. The Secretary shall receive notice of meetings and may require reports on the activities of the Council, as well as reports on compliance, violations, and complaints regarding the implementation of this chapter.
 
 #### (m) Public access to Council proceedings
 

@@ -56,7 +56,7 @@ Division between urbanized areas of over 200,000 population and other areas.—
 
 &emsp;&emsp;(A)
 
-General rule.—Except as provided in subparagraphs (C) and (D), 62.5 percent of the remaining 80 percent of the funds apportioned to a State under section 104(b)(3) fora fiscal year shall be obligated under this section—
+General rule.—Except as provided in subparagraphs (C) and (D), 62.5 percent of the remaining 80 percent of the funds apportioned to a State under section 104(b)(3) for a fiscal year shall be obligated under this section—
 
 &emsp;&emsp;&emsp;(i) in urbanized areas of the State with an urbanized area population of over 200,000, and
 
@@ -270,7 +270,7 @@ Allocation of Obligation Authority.—A State which is required to obligate in a
 
 &emsp;“(1) the aggregate amount of funds which the State is required to obligate in such area under subsection (d) during such period; by
 
-&emsp;“(2) the ratio of the aggregate amount of obligation authority distributed to the State for Federal-aid highways and highway safety construction during such period to the total sums apportioned to the State for Federal-aid highways and highway safety construction (excluding sums not subject to an obligation limitation) during such period.”
+&emsp;“(2) the ratio of the aggregate amount of obligation authority distributed to the State for Federal-aid highways and highway safety construction duringsuch period to the total sums apportioned to the State for Federal-aid highways and highway safety construction (excluding sums not subject to an obligation limitation) during such period.”
 
 1995—Subsec. (d)(5). Pub. L. 104–59, §315, added par. (5).
 

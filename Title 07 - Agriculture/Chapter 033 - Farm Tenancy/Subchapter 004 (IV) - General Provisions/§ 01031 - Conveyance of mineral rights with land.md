@@ -10,13 +10,9 @@ This Act, referred to in text, is act Aug. 14, 1946, ch. 964, 60 Stat. 1062, as 
 
 #### Codification
 
-Section was enacted as part of the Farmers’ Home Administration Act of 1946, and not as part of the Bankhead-Jones Farm Tenant Act which constitutes a major part of this chapter.
+Section was enacted as part of the Farmers’ Home Administration Act of 1946, and not as part of theBankhead-Jones Farm Tenant Act which constitutes a major part of this chapter.
 
 #### Transfer of Functions
 
 Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, §1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
-
-#### Cross References
-
-Sale of reserved mineral interests, see sections 1033 to 1035, 1037 to 1039 of this title.
 

@@ -4,17 +4,16 @@
 | :--- | ---: |
 | [981\.](%C2%A7%2000981%20-%20Civil%20forfeiture.md) | Civil forfeiture. |
 | [982\.](%C2%A7%2000982%20-%20Criminal%20forfeiture.md) | Criminal forfeiture. |
-| 984\.<sup>1</sup> | Civil forfeiture of fungible property. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
-| 986\.<sup>1</sup> | Subpoenas for bank records. |
+| [983\.](%C2%A7%2000983%20-%20General%20rules%20for%20civil%20forfeiture%20proceedings.md) | General rules for civil forfeiture proceedings. |
+| [984\.](%C2%A7%2000984%20-%20Civil%20forfeiture%20of%20fungible%20property.md) | Civil forfeiture of fungible property. |
+| [985\.](%C2%A7%2000985%20-%20Civil%20forfeiture%20of%20real%20property.md) | Civil forfeiture of real property. |
+| [986\.](%C2%A7%2000986%20-%20Subpoenas%20for%20bank%20records.md) | Subpoenas for bank records. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2000—Pub. L. 106–185, §§2(b), 7(b), Apr. 25, 2000, 114 Stat. 210, 215, added items 983 and 985.
 
 1992—Pub. L. 102–550, title XV, §§1522(b), 1523(b), Oct. 28, 1992, 106 Stat. 4063, 4064, added items 984 and 986.
 
@@ -22,9 +21,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in section 3663 of this title; title 31 section 5352.
-
-<i><sup>1</sup></i><i> So in original. There is no section 983 or 985.</i>
+This chapter is referred to in sections 1594, 3663 of this title; title 8 section 1324; title 31 section 5352.
 
 
 ---
@@ -33,5 +30,7 @@ This chapter is referred to in section 3663 of this title; title 31 section 5352
 
 - [&sect; 00981 - Civil forfeiture](%C2%A7%2000981%20-%20Civil%20forfeiture.md)
 - [&sect; 00982 - Criminal forfeiture](%C2%A7%2000982%20-%20Criminal%20forfeiture.md)
-- [&sect; 00984 - 1 Civil forfeiture of fungible property](%C2%A7%2000984%20-%201%20Civil%20forfeiture%20of%20fungible%20property.md)
-- [&sect; 00986 - 1 Subpoenas for bank records](%C2%A7%2000986%20-%201%20Subpoenas%20for%20bank%20records.md)
+- [&sect; 00983 - General rules for civil forfeiture proceedings](%C2%A7%2000983%20-%20General%20rules%20for%20civil%20forfeiture%20proceedings.md)
+- [&sect; 00984 - Civil forfeiture of fungible property](%C2%A7%2000984%20-%20Civil%20forfeiture%20of%20fungible%20property.md)
+- [&sect; 00985 - Civil forfeiture of real property](%C2%A7%2000985%20-%20Civil%20forfeiture%20of%20real%20property.md)
+- [&sect; 00986 - Subpoenas for bank records](%C2%A7%2000986%20-%20Subpoenas%20for%20bank%20records.md)

@@ -6,7 +6,7 @@ The Secretary may make such investigations as the Secretary considers necessaryâ
 
 &emsp;(1) for the effective administration of this subchapter; or
 
-&emsp;(2) to determine whether any person subject to this subchapter has engaged, or is about to engage, in any action that constitutes or will constitute a violation of this subchapter orany order or regulation issued under this subchapter.
+&emsp;(2) to determine whether any person subject to this subchapter has engaged, or is about to engage, in any action that constitutes or will constitute a violation of this subchapter or any order or regulation issued under this subchapter.
 
 #### (b) Subpoenas, oaths, and affirmations
 

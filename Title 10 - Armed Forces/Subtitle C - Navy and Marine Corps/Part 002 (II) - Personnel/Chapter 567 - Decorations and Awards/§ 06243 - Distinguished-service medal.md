@@ -20,7 +20,3 @@ Feb. 4, 1919, ch. 14, §2, 40 Stat. 1056; renumbered §3 and amended Aug. 7, 194
 
 The word “award” is substituted for the word “present” to cover the determination of the recipient as well as the actual presenting of the decoration. The words “but not in the name of Congress” are omitted as surplusage, since a decoration is presented in the name of Congress only if Congress so directs. The words “Navy or the Marine Corps” are substituted for the words “Navy of the United States” because the provision is interpreted as authorizing the award of the medal to persons serving with the Marine Corps as well as with the Navy. The words “since the sixth day of April 1917 has distinguished” are omitted as executed. The words “United States” are substituted for the word “Government” for uniformity.
 
-#### Cross References
-
-Award of distinguished-service medal to members of Army and Air Force, see sections 3743 and 8743 of this title.
-

@@ -2,7 +2,7 @@
 
 (a) Notwithstanding sections 307 and 309 of this title, if a second lieutenant of the National Guard is promoted to the grade of first lieutenant to fill a vacancy in a federally recognized unit in the National Guard, Federal recognition is automatically extended to that officer in the grade of first lieutenant, effective as of the date on which that officer has completed the service in the grade specified in section 14303(a)(1) of title 10 and has met such other requirements as prescribed by the Secretary concerned under section 14308(b) of that title, if the officer has remained in an active status since the officer was so recommended.
 
-(b) Notwithstanding sections 307 and 309 of this title, if an officer of the Army Reserve or the Air Force Reserve in a reserve grade above second lieutenant is appointed in the next higher grade in the National Guard to fill a vacancy in a federally recognized unit in the National Guard, Federal recognition is automatically extended to that officer in the grade in which the officer is so appointed in the National Guard if the officer has been recommended for promotion under chapter 1405 of title 10 and has remained in an active status since the officer was so recommended. The extension of Federal recognition under this subsection is effective as of the date when the officer is appointed in the National Guard.
+(b) Notwithstanding sections 307 and 309 of this title, if an officer of the Army Reserve or the Air Force Reserve in a reserve grade above second lieutenant is appointed in the next higher grade in the National Guard to fill a vacancy in a federally recognized unit in the National Guard, Federal recognition is automatically extended to that officer in the grade in which the officer is so appointed in the National Guard ifthe officer has been recommended for promotion under chapter 1405 of title 10 and has remained in an active status since the officer was so recommended. The extension of Federal recognition under this subsection is effective as of the date when the officer is appointed in the National Guard.
 
 (Added Pub. L. 85–861, §2(7), Sept. 2, 1958, 72 Stat. 1544; amended Pub. L. 103–337, div. A, title XVI, §1630(1), Oct. 5, 1994, 108 Stat. 2964.)
 
@@ -39,6 +39,10 @@ In subsection (a), the words “or the date of the promotion, whichever is later
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–337 effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as an Effective Date note under section 10001 of Title 10, Armed Forces.
+
+#### Suspension of This Section
+
+For authority of the President to suspend this section in time of war or emergency declared by Congress, see section 111 of this title.
 
 #### Section Referred to in Other Sections
 

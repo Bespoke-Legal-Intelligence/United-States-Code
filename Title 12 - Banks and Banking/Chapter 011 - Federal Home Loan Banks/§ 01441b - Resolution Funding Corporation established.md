@@ -164,11 +164,11 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (ii) Decrease in limit
 
-&emsp;&emsp;&emsp;If the aggregate amount for all Federal Home Loan Banks determined under subparagraph (B)(i) is more than $300,000,000 per year, the limit for each Bank shall be decreased by an amount determined by the Thrift Depositor Protection Oversight Board by multiplying the aggregate excess by the percentage applicable to such Bank arrived at in the manner described in paragraph (5).
+&emsp;&emsp;&emsp;If the aggregate amount for all Federal Home Loan Banks determined under subparagraph (B)(i) is more than $300,000,000 per year, the limit for each Bank shall bedecreased by an amount determined by the Thrift Depositor Protection Oversight Board by multiplying the aggregate excess by the percentage applicable to such Bank arrived at in the manner described in paragraph (5).
 
 #### (4) Pro rata distribution of first $1,000,000,000 invested in Funding Corporation by Federal Home Loan Banks
 
-&emsp;Of the first $1,000,000,000 of the aggregate that the Federal Housing Finance Board (pursuant to section 1441 of this title) or the Thrift Depositor Protection Oversight Board (under this section) may require the Federal Home Loan Banks collectively to invest in the capital stock of the Financing Corporation or invest in the capital stock of the Funding Corporation, respectively, the amount which each Federal Home Loan Bank (or any successor tothe Bank) shall invest shall be determined by the Federal Housing Finance Board or the Thrift Depositor Protection Oversight Board (as the case may be) by multiplying the aggregate amount of such investment by all Banks by the percentage appearing in the following table for each such Bank:
+&emsp;Of the first $1,000,000,000 of the aggregate that the Federal Housing Finance Board (pursuant to section 1441 of this title) or the Thrift Depositor Protection Oversight Board (under this section) may require the Federal Home Loan Banks collectively to invest in the capital stock of the Financing Corporation or invest in the capital stock of the Funding Corporation, respectively, the amount which each Federal Home Loan Bank (or any successor to the Bank) shall invest shall be determined by the Federal Housing Finance Board or the Thrift Depositor Protection Oversight Board (as the case may be) by multiplying the aggregate amount of such investment by all Banks by the percentage appearing in the following table for each such Bank:
 
 <b>   Bank</b>
 
@@ -260,7 +260,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;A Bank on whose behalf stock is purchased under subparagraph (A)(i) shall make payments annually from amounts, if any, in its reserve account (as described in subparagraph (D)) to each Bank that made payments on its behalf until a full reimbursement has been completed. A full reimbursement shall require repayment of the excess amounts invested by other Banks plus interest which shall accrue at a rate equal to the annual average cost of funds in the most recent year to all Federal Home Loan Banks and which shall begin to accrue 2 years after the investments under subparagraph (A)(i) are made.
+&emsp;&emsp;&emsp;A Bank on whose behalf stock is purchased under subparagraph (A)(i) shall make payments annually from amounts, if any, in its reserve account (as described in subparagraph (D)) to each Bank that made payments on its behalf until a full reimbursement has been completed. A full reimbursement shall require repayment of the excess amounts invested by other Banks plus interest which shall accrue at a rate equal to the annual average cost offunds in the most recent year to all Federal Home Loan Banks and which shall begin to accrue 2 years after the investments under subparagraph (A)(i) are made.
 
 #### (ii) Determination of amounts
 
@@ -270,7 +270,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Of the net earnings for any year of a Bank on whose behalf a purchase is madeunder subparagraph (A)(i) and any reimbursements received from other Banks, the amount necessary to make the reimbursements required under subparagraph (A)(ii) shall be placed in a reserve account (established in the manner prescribed by the Thrift Depositor Protection Oversight Board), which shall be available only for such reimbursements.
+&emsp;&emsp;&emsp;Of the net earnings for any year of a Bank on whose behalf a purchase is made under subparagraph (A)(i) and any reimbursements received from other Banks, the amount necessary to make the reimbursements required under subparagraph (A)(ii) shall be placed in a reserve account (established in the manner prescribed by the Thrift Depositor Protection Oversight Board), which shall be available only for such reimbursements.
 
 #### (ii) Limitation
 
@@ -402,7 +402,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 &emsp;&emsp;&emsp;(i) shall not be considered to be securities issued or guaranteed by a person controlled or supervised by, or acting as an instrumentality of, the Government of the United States; and
 
-&emsp;&emsp;&emsp;(ii) shall not be considered to be “exempted securities” within the meaning of section 78c(a)(12)(A)(i) of title 15, exceptthat such obligations shall be considered to be exempted securities for purposes of section 78<i>o</i> of title 15.
+&emsp;&emsp;&emsp;(ii) shall not be considered to be “exempted securities” within the meaning of section 78c(a)(12)(A)(i) of title 15, except that such obligations shall be considered to be exempted securities for purposes of section 78<i>o</i> of title 15.
 
 #### (B) Authority of Commission
 
@@ -560,30 +560,6 @@ The Thrift Depositor Protection Oversight Board may prescribe any regulations ne
 
 (July 22, 1932, ch. 522, §21B, as added Pub. L. 101–73, title V, §511(a), Aug. 9, 1989, 103 Stat. 394; amended Pub. L. 102–233, title III, §302(b), Dec. 12, 1991, 105 Stat. 1767; Pub. L. 102–550, title XVI, §1613(a)(7), (9), Oct. 28, 1992, 106 Stat. 4092; Pub. L. 104–208, div. A, title II, §2704(d)(5), (11)(E), (F), Sept. 30, 1996, 110 Stat. 3009–488, 3009–489; Pub. L. 106–102, title VI, §607(a), Nov. 12, 1999, 113 Stat. 1455.)
 
-#### Amendment of Section
-
-<i>Pub. L. 104–208, div. A, title II, §2704(c), (d)(5), (11)(E), (F), Sept. 30, 1996, 110 Stat. 3009–487 to 3009–489, provided that, effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, this section is amended as follows:</i>
-
-<i>(1) In subsection (e)—</i>
-
-<i>(A) in paragraph (5), by inserting “as of the date of funding” after “Savings Association Insurance Fund members” each place such term appears;</i>
-
-<i>(B) by striking paragraph (7); and</i>
-
-<i>(C) by redesignating paragraph (8) as paragraph (7);</i>
-
-<i>(2) In subsection (f)(2)(C)(ii)—</i>
-
-<i>(A) in subclause (I), by striking “to Savings Associations Insurance Fund members” and inserting “to insured depository institutions, and their successors, which were Savings Association Insurance Fund members on September 1, 1995”; and</i>
-
-<i>(B) in subclause (II), by striking “to Savings Associations Insurance Fund members” and inserting “to insured depository institutions, and their successors, which were Savings Association Insurance Fund members on September 1, 1995”; and</i>
-
-<i>(3) In subsection (k)—</i>
-
-<i>(i) by striking paragraph (8); and</i>
-
-<i>(ii) by redesignating paragraphs (9) and (10) as paragraphs (8) and (9), respectively.</i>
-
 #### References in Text
 
 The Securities Act of 1933, referred to in subsec. (f)(8)(B), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
@@ -593,6 +569,12 @@ Section 9105 of title 31, referred to in subsec. (h)(3), was amended generally b
 #### Amendments
 
 1999—Subsec. (f)(2)(C). Pub. L. 106–102 amended subpar. (C) generally, substituting present provisions for provisions requiring Federal Home Loan Banks to pay to the Funding Corporation each calendar year an amount sufficient to cover amount of interest payments made by the Corporation in that year, and provisions relating to determination of each Bank's individual share of such annual amount.
+
+1996—Subsec. (e). Pub. L. 104–208, §2704(d)(11)(E), which directed the amendment of subsec. (e) by inserting, in par. (5), “as of the date of funding” after “Savings Association Insurance Fund members” in two places and by striking par. (7) and redesignating par. (8) as (7), was not executed. See Effective Date of 1996 Amendment note below.
+
+Subsec. (f)(2)(C)(ii)(I), (II). Pub. L. 104–208, §2704(d)(5), which directed the amendment of subcls. (I) and (II) by substituting “to insured depository institutions, and their successors, which were Savings Association Insurance Fund members on September 1, 1995” for “to Savings Associations Insurance Fund members”, was not executed. See Effective Date of 1996 Amendment note below.
+
+Subsec. (k)(8) to (10). Pub. L. 104–208, §2704(d)(11)(F), which directed the amendment of subsec. (k) by striking par. (8) and redesignating pars. (9) and (10) as (8) and (9), respectively, was not executed. See Effective Date of 1996 Amendment note below.
 
 1992—Subsecs. (c)(8), (j)(2). Pub. L. 102–550, §1613(a)(7), inserted “Thrift Depositor Protection” before “Oversight” in headings.
 

@@ -6,7 +6,7 @@ There are authorized to be appropriated, such sums as may be necessary, but not 
 
 #### Codification
 
-“October 27, 1986,” substituted in text for “the date of enactment of this Act”, meaning the date of enactment of Pub. L. 99–546, which amended this section, rather than August 6, 1956, the date of enactment of this section, as the probable intent of Congress.
+“October 27, 1986,” substituted in text for “the date of enactment of this Act”, meaning the date of enactmentof Pub. L. 99–546, which amended this section, rather than August 6, 1956, the date of enactment of this section, as the probable intent of Congress.
 
 #### Amendments
 

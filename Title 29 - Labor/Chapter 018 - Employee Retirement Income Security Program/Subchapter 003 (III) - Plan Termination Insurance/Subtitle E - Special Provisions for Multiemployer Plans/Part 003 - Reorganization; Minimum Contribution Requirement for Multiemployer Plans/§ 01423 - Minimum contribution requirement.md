@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(i) the sum of the minimum contribution requirement for such plan year (taking into account any overburden credit under section 1424(a) of this title) plus the plan's accumulated funding deficiency for the preceding plan year (determined under this section if the plan was in reorganization during such year or under section 1082(a) of this title if the plan was not in reorganization), over
 
-&emsp;&emsp;(ii) amounts considered contributed by employers to or under the plan for the planyear (increased by any amount waived under subsection (f) of this section for the plan year).
+&emsp;&emsp;(ii) amounts considered contributed by employers to or under the plan for the plan year (increased by any amount waived under subsection (f) of this section for the plan year).
 
 (2) For purposes of paragraph (1), withdrawal liability payments (whether or not received) which are due with respect to withdrawals before the end of the base plan year shall be considered amounts contributed by the employer to or under the plan if, as of the adjustment date, it was reasonable for the plan sponsor to anticipate that such payments would be made during the plan year.
 
@@ -60,7 +60,7 @@
 
 &emsp;(ii) beginning with the first plan year beginning after the expiration of all relevant collective bargaining agreements which were in effect in the plan year in which the plan became insolvent,
 
-> the plan's valuation contribution base is the greater of the number of contribution base units for which contributions were received for the first or second plan year preceding the first plan year in which the plan is insolvent, adjusted as provided in clause (ii) or (iii) of subparagraph (A).
+> the plan's valuation contribution base is the greater of the number of contribution base units for which contributions were received for the first or second plan year preceding the first planyear in which the plan is insolvent, adjusted as provided in clause (ii) or (iii) of subparagraph (A).
 
 #### (d) Maximum amount; amount of funding standard requirement; applicability to plan amendments increasing benefits
 
@@ -78,7 +78,7 @@
 
 &emsp;(B) if for the plan year a change in benefits is first required to be considered in computing the charges under section 412(b)(2)(A) or (B) of title 26, the sum of—
 
-&emsp;&emsp;(i) the increase in normal cost for a plan year determined under the entry age normalfunding method due to increases in benefits described in section 1421(b)(4)(A)(ii) of this title (determined without regard to section 1421(b)(4)(B)(i) of this title), and
+&emsp;&emsp;(i) the increase in normal cost for a plan year determined under the entry age normal funding method due to increases in benefits described in section 1421(b)(4)(A)(ii) of this title (determined without regard to section 1421(b)(4)(B)(i) of this title), and
 
 &emsp;&emsp;(ii) the amount necessary to amortize in equal annual installments the increase in the value of vested benefits under the plan due to increases in benefits described in clause (i) over—
 

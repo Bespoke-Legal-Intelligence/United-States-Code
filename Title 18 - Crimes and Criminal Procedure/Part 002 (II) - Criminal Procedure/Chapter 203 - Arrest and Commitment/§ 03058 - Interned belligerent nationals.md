@@ -16,10 +16,6 @@ Minor verbal changes were made.
 
 1990—Pub. L. 101–647 substituted “belligerent” for “beligerent” before “nation”.
 
-#### Cross References
-
-Jurisdiction, see section 3241 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in title 22 section 465.

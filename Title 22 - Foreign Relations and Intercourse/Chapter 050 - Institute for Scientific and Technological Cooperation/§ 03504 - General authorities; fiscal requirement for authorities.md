@@ -26,7 +26,7 @@
 
 &emsp;(12) take such other actions as may be necessary and incident to carrying out the functions of the Institute.
 
-(b) Any authority provided by this section involving the expenditure of appropriated fundsshall be effective for a fiscal year only to such extent or in such amounts as are provided in appropriation Acts.
+(b) Any authority provided by this section involving the expenditure of appropriated funds shall be effective for a fiscal year only to such extent or in such amounts as are provided in appropriation Acts.
 
 (Pub. L. 96–53, title IV, §404, Aug. 14, 1979, 93 Stat. 373.)
 

@@ -110,7 +110,7 @@ The following security requirements shall apply with respect to United States di
 
 #### (iii) Authority to lease aircraft to respond to a terrorist attack abroad
 
-&emsp;&emsp;&emsp;Subject to the availability of appropriations, when the Attorney General of theDepartment of Justice exercises the Attorney General's authority to lease commercial aircraft to transport equipment and personnel in response to a terrorist attack abroad if there have been reasonable efforts to obtain appropriate Department of Defense aircraft and such aircraft are unavailable, the Attorney General shall have the authority to obtain indemnification insurance or guarantees if necessary and appropriate.
+&emsp;&emsp;&emsp;Subject to the availability of appropriations, when the Attorney General of the Department of Justice exercises the Attorney General's authority to lease commercial aircraft to transport equipment and personnel in response to a terrorist attack abroad if there have been reasonable efforts to obtain appropriate Department of Defense aircraft and such aircraft are unavailable, the Attorney General shall have the authority to obtain indemnification insurance or guarantees if necessary and appropriate.
 
 #### (7) Rapid response procedures
 
@@ -129,6 +129,18 @@ Nothing in this section alters or amends existing security requirements not addr
 #### Codification
 
 Section was enacted as part of the Secure Embassy Construction and Counterterrorism Act of 1999, and also as part of the Admiral James W. Nance and Meg Donovan Foreign Relations Authorization Act, Fiscal Years 2000 and 2001, and not as part of the Diplomatic Security Act which comprises this chapter.
+
+#### Delegation of Authority
+
+Memorandum of President of the United States, July 17, 2000, 65 F.R. 45511, provided:
+
+Memorandum for the Secretary of Defense
+
+By the authority vested in me by the Constitution and laws of the United States of America, I hereby delegate to the Secretary of Defense the responsibility of the President, under section 606 of the Foreign Relations Authorization Act for Fiscal Years 2000 and 2001 (Public Law 106–113) \[22 U.S.C. 4865\], to submit the required report to the Congress.
+
+You are hereby authorized and directed to publish this delegation in the Federal Register.
+
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Findings
 
@@ -206,7 +218,7 @@ Report and Priority of Obligations.—
 
 &emsp;“(1)
 
-Report.—Not later than February 1 of the year 2000 and each of the four subsequent years, the Secretary of State shall submit a classified report to the appropriate congressional committees identifying each diplomatic facility or each diplomatic or consular post composed of such facilities that is a priority for replacement or for any major security enhancement because of its vulnerability to terroristattack (by reason of the terrorist threat and the current condition of the facility). The report shall list such facilities in groups of 20. The groups shall be ranked in order from most vulnerable to least vulnerable to such an attack.
+Report.—Not later than February 1 of the year 2000 and each of the four subsequent years, the Secretary of State shall submit a classified report to the appropriate congressional committees identifying each diplomatic facility or each diplomatic or consular post composed of such facilities that is a priority for replacement or for any major security enhancement because of its vulnerability to terrorist attack (by reason of the terrorist threat and the current condition of the facility). The report shall list such facilities in groups of 20. The groups shall be ranked in order from most vulnerable to least vulnerable to such an attack.
 
 &emsp;“(2)
 

@@ -22,6 +22,22 @@ Contents.—(1) An airman certificate shall—
 
 (c)
 
+Public Information.—
+
+&emsp;(1)
+
+In general.—Subject to paragraph (2) and notwithstanding any other provision of law, the information contained in the records of contents of any airman certificate issued under this section that is limited to an airman's name, address, and ratings held shall be made available to the public after the 120th day following the date of the enactment of the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century.
+
+&emsp;(2)
+
+Opportunity to withhold information.—Before making any information concerning an airman available to the public under paragraph (1), the airman shall be given an opportunity to elect that the information not be made available to the public.
+
+&emsp;(3)
+
+Development and implementation of program.—Not later than 60 days after the date of the enactment of the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century, the Administrator shall develop and implement, in cooperation with representatives of the aviation industry, a one-time written notification to airmen to set forth the implications of making information concerning an airman available to the public under paragraph (1) and to carry out paragraph (2). The Administrator shall also provide such written notification to each individual who becomes an airman after such date of enactment.
+
+(d)
+
 Appeals.—(1) An individual whose application for the issuance or renewal of an airman certificate has been denied may appeal the denial to the National Transportation Safety Board, except if the individual holds a certificate that—
 
 &emsp;(A) is suspended at the time of denial; or
@@ -30,15 +46,15 @@ Appeals.—(1) An individual whose application for the issuance or renewal of an
 
 (2) The Board shall conduct a hearing on the appeal at a place convenient to the place of residence or employment of the applicant. The Board is not bound by findings of fact of the Administrator of the Federal Aviation Administration but is bound by all validly adopted interpretations of laws and regulations the Administrator carries out unless the Board finds an interpretation is arbitrary, capricious, or otherwise not according to law. At the end of the hearing, the Board shall decide whether the individual meets the applicable regulations and standards. The Administrator is bound by that decision.
 
-(d)
+(e)
 
 Restrictions and Prohibitions.—The Administrator of the Federal Aviation Administration may—
 
 &emsp;(1) restrict or prohibit issuing an airman certificate to an alien; or
 
-&emsp;(2) make issuing the certificate to an alien dependent   on a reciprocal agreement with the government of a foreign country.
+&emsp;(2) make issuing the certificate to an alien dependent on a reciprocal agreement with the government of a foreign country.
 
-(e)
+(f)
 
 Controlled Substance Violations.—The Administrator of the Federal Aviation Administration may not issue an airman certificate to an individual whose certificate is revoked under section 44710 of this title except—
 
@@ -46,9 +62,9 @@ Controlled Substance Violations.—The Administrator of the Federal Aviation Adm
 
 &emsp;(2) as provided in section 44710(e)(2) of this title.
 
-(f)
+(g)
 
-Modifications in System.—(1) The Administrator of the Federal Aviation Administration shall make modifications in the system for issuing airman certificates necessary to make the system more effective in serving the needs of pilots and officials responsible for enforcing laws related to the regulation of controlled substances (as defined in section 102 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 802)). The modifications shall ensure positive and verifiable identification of each individual applying for or holding a certificate and shall address at least each of the following deficiencies in, and abuses of, the existing system:
+Modifications in System.—(1) The Administrator of the Federal Aviation Administrationshall make modifications in the system for issuing airman certificates necessary to make the system more effective in serving the needs of pilots and officials responsible for enforcing laws related to the regulation of controlled substances (as defined in section 102 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 802)). The modifications shall ensure positive and verifiable identification of each individual applying for or holding a certificate and shall address at least each of the following deficiencies in, and abuses of, the existing system:
 
 &emsp;(A) the use of fictitious names and addresses by applicants for those certificates.
 
@@ -62,7 +78,7 @@ Modifications in System.—(1) The Administrator of the Federal Aviation Adminis
 
 (2) The Administrator of the Federal Aviation Administration shall prescribe regulations to carry out paragraph (1) of this subsection and provide a written explanation of how the regulations address each of the deficiencies and abuses described in paragraph (1). In prescribing the regulations, the Administrator of the Federal Aviation Administration shall consult with the Administrator of Drug Enforcement, the Commissioner of Customs, other law enforcement officials of the United States Government, representatives of State and local law enforcement officials, representatives of the general aviation aircraft industry, representatives of users of general aviation aircraft, and other interested persons.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1186.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1186; Pub. L. 106–181, title VII, §715, Apr. 5, 2000, 114 Stat. 162.)
 
 Historical and Revision Notes
 
@@ -156,7 +172,27 @@ In subsection (f)(1), before clause (A), the words “established under this cha
 
 In subsection (f)(2), the words “Not later than September 18, 1989” and “final” are omitted as obsolete. The words “Administrator of Drug Enforcement” are substituted for “Drug Enforcement Administration of the Department of Justice” because of section 5(a) of Reorganization Plan No. 2 of 1973 (eff. July 1, 1973, 87 Stat. 1092). The words “Commissioner of Customs” are substituted for “United States Customs Service” because of 19:2071.
 
+#### References in Text
+
+The date of the enactment of the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century, referred to in subsec. (c)(1), (3), is the date of enactment of Pub. L. 106–181, which was approved Apr. 5, 2000.
+
+#### Amendments
+
+2000—Subsecs. (c) to (g). Pub. L. 106–181 added subsec. (c) and redesignated former subsecs. (c) to (f) as (d) to (g), respectively.
+
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
+
+#### Crediting of Law Enforcement Flight Time
+
+Pub. L. 106–424, §14, Nov. 1, 2000, 114 Stat. 1888, provided that: “In determining whether an individual meets the aeronautical experience requirements imposed under section 44703 of title 49, United States Code, for an airman certificate or rating, the Secretary of Transportation shall take into account any time spent by that individual operating a public aircraft as defined in section 40102 of title 49, United States Code, if that aircraft is—
+
+&emsp;“(1) identifiable by category and class; and
+
+&emsp;“(2) used in law enforcement activities.”
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 106, 1133, 44701, 44709, 44710, 44711, 44724, 45302, 46310, 47531 of this title.
+This section is referred to in sections 1133, 44701, 44709, 44710, 44711, 44724, 45302, 46310, 47531 of this title.
 

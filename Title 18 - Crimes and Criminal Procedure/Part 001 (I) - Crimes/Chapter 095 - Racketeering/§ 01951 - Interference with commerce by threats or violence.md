@@ -48,10 +48,6 @@ Section 186 of Title 45, included within the reference in subsec. (c) to section
 
 This section is popularly known as the “Hobbs Act”.
 
-#### Cross References
-
-Wire or oral communications, authorization for interception, to provide evidence of offenses under this section, see section 2516 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1961, 2516 of this title; title 26 section 6050I; title 29 section 1111.

@@ -14,7 +14,7 @@
 
 #### (A) Demonstration
 
-&emsp;&emsp;For purposes of this section, an individual shall be presumed to be an individual that can benefit in terms of an employment outcome from vocational rehabilitation services under section 705(20)(A) of this title, unless the designated State unit involved can demonstrate by clear and convincing evidence that such individual is incapable of benefiting in terms of an employment outcome from vocational rehabilitation services due to the severity of the disability of the individual.
+&emsp;&emsp;For purposes of this section, an individual shall be presumed to be an individual thatcan benefit in terms of an employment outcome from vocational rehabilitation services under section 705(20)(A) of this title, unless the designated State unit involved can demonstrate by clear and convincing evidence that such individual is incapable of benefiting in terms of an employment outcome from vocational rehabilitation services due to the severity of the disability of the individual.
 
 #### (B) Methods
 
@@ -62,7 +62,7 @@
 
 &emsp;&emsp;&emsp;(i) the reasons for the determination; and
 
-&emsp;&emsp;&emsp;(ii) a description of the means by which the individual may express, and seek a remedy for, any dissatisfaction with the determination, including the procedures for review by an impartial hearing officer under subsection (c) of this section;
+&emsp;&emsp;&emsp;(ii) a description of the means by which the individual may express, and seek a remedy for, any dissatisfaction with thedetermination, including the procedures for review by an impartial hearing officer under subsection (c) of this section;
 
 &emsp;&emsp;(C) the individual shall be provided with a description of services available from the client assistance program under section 732 of this title and information on how to contact that program; and
 
@@ -294,7 +294,7 @@
 
 &emsp;&emsp;The reviewing official described in subparagraph (D) shall—
 
-&emsp;&emsp;&emsp;(i) in conducting the review, provide an opportunity for the submission of additional evidence and information relevant to a final decision concerning the matter under review;
+&emsp;&emsp;&emsp;(i) in conducting the review, provide an opportunity for the submission of additional evidence and information relevantto a final decision concerning the matter under review;
 
 &emsp;&emsp;&emsp;(ii) not overturn or modify the decision of the hearing officer, or part of the decision, that supports the position of the applicant or eligible individual unless the reviewing official concludes, based on clear and convincing evidence, that the decision of the impartial hearing officer is clearly erroneous on the basis of being contrary to the approved State plan, this chapter (including regulations implementing this chapter) or any State regulation or policy that is consistent with the Federal requirements specified in this subchapter;
 
@@ -360,7 +360,7 @@
 
 &emsp;&emsp;&emsp;(iii) information on the number of hearing decisions made under this subsection that were not reviewed by the State reviewing officials; and
 
-&emsp;&emsp;&emsp;(iv) information on the number of the hearing decisions that were reviewed by the State reviewing officials, and, based on such reviews, the number of hearing decisions that were—
+&emsp;&emsp;&emsp;(iv) information on the number of the hearing decisions that were reviewed bythe State reviewing officials, and, based on such reviews, the number of hearing decisions that were—
 
 &emsp;&emsp;&emsp;&emsp;(I) sustained in favor of an applicant or eligible individual;
 

@@ -35,12 +35,6 @@
 
 1958—Pub. L. 85–861, §2(13), Sept. 2, 1958, 72 Stat. 1546, added item 714.
 
-#### Cross References
-
-Fraud, purchase or receipt of National Guard property, see section 1024 of Title 18, Crimes and Criminal Procedure.
-
-General military law, see section 2202 et seq. of Title 10, Armed Forces.
-
 
 ---
 

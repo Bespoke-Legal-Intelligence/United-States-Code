@@ -2,7 +2,7 @@
 
 (a) In time of peace, a State or Territory, Puerto Rico, the Virgin Islands, or the District of Columbia may maintain no troops other than those of its National Guard and defense forces authorized by subsection (c).
 
-(b) Nothing in this title limits the right of a State or Territory, Puerto Rico, the Virgin Islands, or the District of Columbia to use its National Guard or its defense forces authorized by subsection (c) within its borders in time of peace, or prevents it from organizing and maintaining police or constabulary.
+(b) Nothing in this title limits the right of a State or Territory, Puerto Rico, the Virgin Islands, or the District of Columbia to use its National Guard or its defense forces authorized by subsection (c) within its borders in time ofpeace, or prevents it from organizing and maintaining police or constabulary.
 
 (c) In addition to its National Guard, if any, a State or Territory, Puerto Rico, the Virgin Islands, or the District of Columbia may, as provided by its laws, organize and maintain defense forces. A defense force established under this section may be used within the jurisdiction concerned, as its chief executive (or commanding general in the case of the District of Columbia) considers necessary, but it may not be called, ordered, or drafted into the armed forces.
 

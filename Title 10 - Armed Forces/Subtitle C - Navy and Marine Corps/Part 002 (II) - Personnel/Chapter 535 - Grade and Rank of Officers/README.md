@@ -20,10 +20,6 @@
 
 1958—Pub. L. 85–861, §1(114)(B), Sept. 2, 1958, 72 Stat. 1493, added item 5506.
 
-#### Cross References
-
-General military law provisions relating to rank, see section 741 et seq. of this title.
-
 
 ---
 

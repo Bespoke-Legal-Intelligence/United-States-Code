@@ -8,7 +8,7 @@
 
 #### (2) Post-1992 and pre-1998 part C of subchapter VII
 
-&emsp;There are authorized to be appropriated such sums as may be necessary for fiscal year 1999 and for each of the 4 succeeding fiscal years to pay obligations incurred prior to October 7, 1998, under part C of subchapter VII of this chapter, as such part was in effect during the period—
+&emsp;There are authorized to be appropriated such sums as may be necessary for fiscal year 1999and for each of the 4 succeeding fiscal years to pay obligations incurred prior to October 7, 1998, under part C of subchapter VII of this chapter, as such part was in effect during the period—
 
 &emsp;&emsp;(A) after the effective date of the Higher Education Amendments of 1992; and
 

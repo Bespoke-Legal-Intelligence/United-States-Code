@@ -14,16 +14,6 @@ The facts constituting the bases for any payment or grant or the amount thereof 
 
 Functions respecting lands under jurisdiction of Department of the Interior, see Transfer of Functions note set out under section 590a of this title.
 
-#### Cross References
-
-Commodity Credit Corporation loans, see section 1391 of Title 7, Agriculture.
-
-Finality of payments and loans under this chapter, see section 1385 of Title 7.
-
-Utilization of local agencies, see section 1388 of Title 7.
-
-Wheat marketing quotas, penalty provisions, see section 1340 of Title 7.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 590g of this title; title 7 sections 1388, 1391, 1392; title 12 section 1150a.

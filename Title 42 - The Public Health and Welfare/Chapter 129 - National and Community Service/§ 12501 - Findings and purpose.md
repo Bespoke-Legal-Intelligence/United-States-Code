@@ -84,7 +84,7 @@ Section 502 of Pub. L. 103–82 provided that:
 
 “(a)
 
-Purchase of American-Made Equipment and Products.—In the case of any equipment or productthat may be authorized to be purchased with financial assistance provided under this Act \[see Tables for classification\] (including the amendments made by this Act), it is the sense of the Congress that entities receiving such assistance should, in expending the assistance, purchase only American-made equipment and products.
+Purchase of American-Made Equipment and Products.—In the case of any equipment or product that may be authorized to be purchased with financial assistance provided under this Act \[see Tables for classification\] (including the amendments made by this Act), it is the sense of the Congress that entities receiving such assistance should, in expending the assistance, purchase only American-made equipment and products.
 
 “(b)
 

@@ -24,7 +24,7 @@ The words “sections 5315–5317 of title 5” are substituted for “subsectio
 
 #### 1948 Act
 
-<i>Prior section 508.—</i>Based on section 312 of title 5, U.S.C., 1940 ed., Executive Departments and Government Officers and Employees, and title 28, U.S.C., 1940 ed., §§579 and 580 (R.S. §363; May 28, 1896, ch. 252, §§8, 24, 29 Stat. 181, 186; Mar. 3, 1903, ch. 1007, §1, 32 Stat. 1141; Mar. 4, 1907, ch. 2918, §1, 34 Stat. 1360; May 27, 1908, ch. 200, §1, 35 Stat. 375; July 19, 1919, ch. 24, §1, 41 Stat. 209; June 1, 1922, ch. 204, title II (part), 42 Stat. 616; Jan. 3,1923, ch. 21, title II, 42 Stat. 1083; Mar. 4, 1923, ch. 295, 42 Stat. 1560; May 28, 1924, ch. 204, title II (part), 43 Stat. 220).
+<i>Prior section 508.—</i>Based on section 312 of title 5, U.S.C., 1940 ed., Executive Departments and Government Officers and Employees, and title 28, U.S.C., 1940 ed., §§579 and 580 (R.S. §363; May 28, 1896, ch. 252, §§8, 24, 29 Stat. 181, 186; Mar. 3, 1903, ch. 1007, §1, 32 Stat. 1141; Mar. 4, 1907, ch. 2918, §1, 34 Stat. 1360; May 27, 1908, ch. 200, §1, 35 Stat. 375; July 19, 1919, ch. 24, §1, 41 Stat. 209; June 1, 1922, ch. 204, title II (part), 42 Stat. 616; Jan. 3, 1923, ch. 21, title II, 42 Stat. 1083; Mar. 4, 1923, ch. 295, 42 Stat. 1560; May 28, 1924, ch. 204, title II (part), 43 Stat. 220).
 
 Section consolidates part of section 312 of title 5, U.S.C., 1940 ed., and part of section 579 of title 28, U.S.C., 1940 ed., with section 580 of title 28, U.S.C., 1940 ed.
 
@@ -44,23 +44,23 @@ A prior section 548, act June 25, 1948, ch. 646, 62 Stat. 912, related to admini
 
 #### Amendments
 
-1984—Pub. L. 98–473 amended section generally, substituting “rate of basic compensation provided for Executive Level IV of the Executive Schedule set forth in section 5315 of title 5, United States Code” for “highest rate of GS–18 of the General Schedule set forth in section 5332 of title 5”.
+<b>1984</b>—Pub. L. 98–473 amended section generally, substituting “rate of basic compensation provided for Executive Level IV of the Executive Schedule set forth in section 5315 of title 5, United States Code” for “highest rate of GS–18 of the General Schedule set forth in section 5332 of title 5”.
 
 #### Salary Increases
 
-1969—Increase in the rates of pay of United States Attorneys and Assistant United States Attorneys whose annual salaries are fixed pursuant to this section, effective on the first day of the first pay period which begins on or after Dec. 27, 1969, by amounts equal, as nearly as may be practicable, to the increases provided pursuant to section 2 of Pub. L. 91–231, which raised corresponding rates by 6 percent, see Pub. L. 91–231, set out as a note under section 5332 of Title 5, Government Organization and Employees.
+<b>1969</b>—Increase in the rates of pay of United States Attorneys and Assistant United States Attorneys whose annual salaries are fixed pursuant to this section, effective on the first day of the first pay period which begins on or after Dec. 27, 1969, by amounts equal, as nearly as may be practicable, to the increases provided pursuant to section 2 of Pub. L. 91–231, which raised corresponding rates by 6 percent, see Pub. L. 91–231, set out as a note under section 5332 of Title 5, Government Organization and Employees.
 
-1967—Pub. L. 90–206, title II, §211(a), Dec. 16, 1967, 81 Stat. 633, provided that: “The rates of basic pay of United States attorneys and assistant United States attorneys whose annual salaries are fixed pursuant to section 548 of title 28, United States Code shall be increased, effective on the effective date of section 202 of this title \[see Effective Date of 1967 Amendment note set out under section 5332 of Title 5\] by amounts equal, as nearly as may be practicable, to the increases provided by section 202(a) of this title \[see section 5332(a) of Title 5\] for corresponding rates of basic pay.”
+<b>1967</b>—Pub. L. 90–206, title II, §211(a), Dec. 16, 1967, 81 Stat. 633, provided that: “The rates of basic pay of United States attorneys and assistant United States attorneys whose annual salaries are fixed pursuant to section 548 of title 28, United States Code shall be increased, effective on the effective date of section 202 of this title \[see Effective Date of 1967 Amendment note set out under section 5332 of Title 5\] by amounts equal, as nearly as may be practicable, to the increases provided by section 202(a) of this title \[see section 5332(a) of Title 5\] for corresponding rates of basic pay.”
 
 Section 211(a) of Pub. L. 90–206 effective as of the beginning of the first pay period which begins on or after Oct. 1, 1967, see section 220(a)(2) of Pub. L. 90–206, set out as a note under section 5332 of Title 5.
 
-1966—Pub. L. 89–504, title I, §108(a), July 18, 1966, 80 Stat. 293, provided that: “The rates of basic compensation of assistant United States attorneys whose basic salaries are fixed pursuant to section 508 of title 28, United States Code \[now this section\] shall be increased, effective on the effective date of section 102 of this title \[first day of the first pay period beginning on or after July 1, 1966\], by amounts equal, as nearly as may be practicable, to the increases provided by section 102(a) of this title \[see section 5332(a) of Title 5\], for corresponding rates of compensation.”
+<b>1966</b>—Pub. L. 89–504, title I, §108(a), July 18, 1966, 80 Stat. 293, provided that: “The rates of basic compensation of assistant United States attorneys whose basic salaries are fixed pursuant to section 508 of title 28, United States Code \[now this section\] shall be increased, effective on the effective date of section 102 of this title \[first day of the first pay period beginning on or after July 1, 1966\], by amounts equal, as nearly as may be practicable, to the increases provided by section 102(a) of this title \[see section 5332(a) of Title 5\], for corresponding rates of compensation.”
 
 Provision effective July 18, 1966, see section 109(1) of Pub. L. 89–504.
 
-1965—Pub. L. 89–301, §15(a), Oct. 29, 1965, 79 Stat. 1122, provided that: “The rates of basic compensation of assistant United States attorneys whose basic salaries are fixed pursuant to section 508 of title 28, United States Code, \[now this section\], shall be increased by 3.6 per centum effective on the first day of the first pay period which begins on or after October 1, 1965.”
+<b>1965</b>—Pub. L. 89–301, §15(a), Oct. 29, 1965, 79 Stat. 1122, provided that: “The rates of basic compensation of assistant United States attorneys whose basic salaries are fixed pursuant to section 508 of title 28, United States Code, \[now this section\], shall be increased by 3.6 per centum effective on the first day of the first pay period which begins on or after October 1, 1965.”
 
-1962—Pub. L. 87–793, §1003(b), Oct. 11, 1962, 76 Stat. 866, provided that: “The rates of basic compensation of assistant United States attorneys whose basic salaries are fixed by section 508 of title 28, United States Code, \[now this section\], shall be increased by 71/2 per centum effective on the first day of the first pay period which begins on or after the date of enactment of this Act \[Oct. 11, 1962\].”
+<b>1962</b>—Pub. L. 87–793, §1003(b), Oct. 11, 1962, 76 Stat. 866, provided that: “The rates of basic compensation of assistant United States attorneys whose basic salaries are fixed by section 508 of title 28, United States Code, \[now this section\], shall be increased by 71/2 per centum effective on the first day of the first pay period which begins on or after the date of enactment of this Act \[Oct. 11, 1962\].”
 
 #### Compensation of Incumbent United States Attorneys and Assistant United States Attorneys
 

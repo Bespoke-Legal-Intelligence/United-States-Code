@@ -58,7 +58,3 @@ Section 6912 is amended by eliminating subsections (a) (less clause (4)) and (b)
 
 Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 87–649, set out as an Effective Date note preceding section 101 of Title 37, Pay and Allowances of the Uniformed Services.
 
-#### Cross References
-
-Allowance for quarters for cadets with dependents, see section 403(g) of Title 37, Pay and Allowances.
-

@@ -1,6 +1,6 @@
 ### §373. General authority of Secretary of the Interior
 
-The Secretary of the Interior is authorized to perform any and all acts and to make such rulesand regulations as may be necessary and proper for the purpose of carrying out the provisions of this Act into full force and effect.
+The Secretary of the Interior is authorized to perform any and all acts and to make such rules and regulations as may be necessary and proper for the purpose of carrying out the provisions of this Act into full force and effect.
 
 (June 17, 1902, ch. 1093, §10, 32 Stat. 390; Aug. 13, 1914, ch. 247, §15, 38 Stat. 690.)
 
@@ -15,12 +15,6 @@ Act Aug. 13, 1914, cited as a credit to this section, did not amend act July 17,
 #### Section as Unaffected by Submerged Lands Act
 
 Provisions of this section as not amended, modified or repealed by the Submerged Lands Act, see section 1303 of this title.
-
-#### Cross References
-
-Delegation of powers and duties of Secretary of the Interior under reclamation laws, see section 590z–11 of Title 16, Conservation.
-
-Grand Teton National Park, withdrawn lands within exterior boundary, use for reclamation purposes, see section 406d–5 of Title 16.
 
 #### Section Referred to in Other Sections
 

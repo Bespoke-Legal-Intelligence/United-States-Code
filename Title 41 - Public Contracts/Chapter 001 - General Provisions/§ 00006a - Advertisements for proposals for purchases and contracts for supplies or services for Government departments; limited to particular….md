@@ -10,7 +10,7 @@ Section 5 of this title shall not be construed to apply under any appropriation 
 
 (g) Repealed. Oct. 31, 1951, ch. 654, §1(107), 65 Stat. 705.
 
-(h) Department of State—when the purchase or service relates to the packing of personal and household effects of Diplomatic, Consular, and Foreign Service officers and clerks for foreign shipment.
+(h) Department of State—when the purchase or service relates to the packing of personal andhousehold effects of Diplomatic, Consular, and Foreign Service officers and clerks for foreign shipment.
 
 (i) Repealed. Oct. 31, 1951, ch. 654, §1(107), 65 Stat. 705.
 
@@ -84,11 +84,5 @@ Act July 30, 1947, ch. 359, title I, 61 Stat. 594, provided in part: “That rem
 
 #### Section Inapplicable to Armed Services and National Aeronautics and Space Administration
 
-Section inapplicable to procurement of supplies or services by Armed Services and National Aeronautics and Space Administration, see section 2314 of Title 10, Armed Forces.
-
-#### Cross References
-
-Exemption of all purchases and contracts when the amount involved does not exceed specified amount, see section 5 of this title.
-
-General Services Administration, section inapplicable to procurement of property or services by, see section 260 of this title.
+Section inapplicable to procurement or sale of property or services by Armed Services and National Aeronautics and Space Administration, see section 2314 of Title 10, Armed Forces.
 

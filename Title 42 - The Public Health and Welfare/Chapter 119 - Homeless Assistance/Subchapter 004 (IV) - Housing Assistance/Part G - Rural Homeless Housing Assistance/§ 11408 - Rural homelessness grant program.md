@@ -100,7 +100,7 @@ In order to be eligible to receive a grant under subsection (a) of this section,
 
 &emsp;(5) an agreement by the organization that the organization will collect data on the projects conducted by the organization, including assistance provided, number and characteristics of persons served, and causes of homelessness for persons served; and
 
-&emsp;(6) an agreement by the organization that, to the maximum extent practicable, the organization will involve homeless individuals andfamilies through employment, volunteer services, and otherwise, in providing, operating, and rehabilitating housing assisted under this section and in providing services assisted under this section and services for occupants of housing assisted under this section.
+&emsp;(6) an agreement by the organization that, to the maximum extent practicable, the organization will involve homeless individuals and families through employment, volunteer services, and otherwise, in providing, operating, and rehabilitating housing assisted under this section and in providing services assisted under this section and services for occupants of housing assisted under this section.
 
 #### (e) Eligible organizations
 
@@ -118,7 +118,7 @@ Organizations eligible to receive a grant under subsection (a) of this section s
 
 #### (g) Participation of homeless individuals
 
-The Secretary shall, by regulation, require each eligible organization receiving a grant under this section to provide for the participation of not less than 1 homeless individual or former homeless individual on the board of directors or other equivalent policy making entity of the recipient, to the extent that such entity considers and makes policies and decisions regarding any housing, services, or other assistance of the eligible organization receiving the grant under this section. The Secretary may grant waivers to recipients unable to meet the requirement under the preceding sentence if the recipient agrees to otherwise consult with homeless or formerly homeless individuals in considering and making such policies and decisions.
+The Secretary shall, by regulation, require each eligible organization receiving a grant under this section to provide for the participation of not less than 1 homeless individual orformer homeless individual on the board of directors or other equivalent policy making entity of the recipient, to the extent that such entity considers and makes policies and decisions regarding any housing, services, or other assistance of the eligible organization receiving the grant under this section. The Secretary may grant waivers to recipients unable to meet the requirement under the preceding sentence if the recipient agrees to otherwise consult with homeless or formerly homeless individuals in considering and making such policies and decisions.
 
 #### (h) Evaluation
 
@@ -180,7 +180,7 @@ For purposes of this section:
 
 #### References in Text
 
-This chapter, referred to in subsec. (c)(2), was in the original “this Act”, meaning Pub. L. 100–77, July 22, 1987, 101 Stat. 482, known as the Stewart B. McKinney Homeless Assistance Act. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of this title and Tables.
+This chapter, referred to in subsec. (c)(2), was in the original “this Act”, meaning Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended, known as the McKinney-Vento Homeless Assistance Act. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of this title and Tables.
 
 #### Amendments
 

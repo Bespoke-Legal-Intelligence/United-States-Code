@@ -34,6 +34,7 @@
 | [1134\.](Subchapter%20003%20%28III%29%20-%20Authority/%C2%A7%2001134%20-%20Inspections%20and%20autopsies.md) | Inspections and autopsies. |
 | [1135\.](Subchapter%20003%20%28III%29%20-%20Authority/%C2%A7%2001135%20-%20Secretary%20of%20Transportation%27s%20responses%20to%20safety%20recommendations.md) | Secretary of Transportation's responses to safety recommendations. |
 | [1136\.](Subchapter%20003%20%28III%29%20-%20Authority/%C2%A7%2001136%20-%20Assistance%20to%20families%20of%20passengers%20involved%20in%20aircraft%20accidents.md) | Assistance to families of passengers involved in aircraft accidents. |
+| [1137\.](Subchapter%20003%20%28III%29%20-%20Authority/%C2%A7%2001137%20-%20Authority%20of%20the%20Inspector%20General.md) | Authority of the Inspector General. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -44,12 +45,14 @@
 | [1151\.](Subchapter%20004%20%28IV%29%20-%20Enforcement%20and%20Penalties/%C2%A7%2001151%20-%20Aviation%20enforcement.md) | Aviation enforcement. |
 | [1152\.](Subchapter%20004%20%28IV%29%20-%20Enforcement%20and%20Penalties/%C2%A7%2001152%20-%20Joinder%20and%20intervention%20in%20aviation%20proceedings.md) | Joinder and intervention in aviation proceedings. |
 | [1153\.](Subchapter%20004%20%28IV%29%20-%20Enforcement%20and%20Penalties/%C2%A7%2001153%20-%20Judicial%20review.md) | Judicial review. |
-| [1154\.](Subchapter%20004%20%28IV%29%20-%20Enforcement%20and%20Penalties/%C2%A7%2001154%20-%20Discovery%20and%20use%20of%20cockpit%20voice%20and%20other%20material.md) | Discovery and use of cockpit voice and other material. |
+| [1154\.](Subchapter%20004%20%28IV%29%20-%20Enforcement%20and%20Penalties/%C2%A7%2001154%20-%20Discovery%20and%20use%20of%20cockpit%20and%20surface%20vehicle%20recordings%20and%20transcripts.md) | Discovery and use of cockpit and surface vehicle recordings and transcripts. |
 | [1155\.](Subchapter%20004%20%28IV%29%20-%20Enforcement%20and%20Penalties/%C2%A7%2001155%20-%20Aviation%20penalties.md) | Aviation penalties. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2000—Pub. L. 106–424, §§5(c)(2), 12(b), Nov. 1, 2000, 114 Stat. 1885, 1887, added item 1137 and substituted “and surface vehicle recordings and transcripts” for “voice and other material” in item 1154.
 
 1996—Pub. L. 104–264, title IV, §407(a)(2), title VII, §702(a)(2), Oct. 9, 1996, 110 Stat. 3258, 3267, added items 1119 and 1136.
 

@@ -6,6 +6,8 @@ Part C—Hospitals, Medical Examinations, and Medical Care
 
 1976—Pub. L. 94–484, title IV, §407(a), Oct. 12, 1976, 90 Stat. 2268, added heading “Subpart I—General Provisions”.
 
+<i><sup>1</sup></i><i> So in original. Probably should be followed by “of”.</i>
+
 
 ---
 

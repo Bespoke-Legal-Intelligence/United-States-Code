@@ -6,11 +6,23 @@ The Secretary, directly or through grants, shall provide for research into the p
 
 #### (b) Funding
 
-Notwithstanding section 1397dd(a) of this title, from the amounts appropriated in such section for each of fiscal years 1998 through 2002, $30,000,000 is hereby transferred and made available in such fiscal year for grants under this section.
+#### (1) Transferred funds
 
-(July 1, 1944, ch. 373, title III, §330B, as added Pub. L. 105–33, title IV, §4921, Aug. 5, 1997, 111 Stat. 574; amended Pub. L. 105–34, title XVI, §1604(f)(1)(B), (C), Aug. 5, 1997, 111 Stat. 1098.)
+&emsp;Notwithstanding section 1397dd(a) of this title, from the amounts appropriated in such section for each of fiscal years 1998 through2002, $30,000,000 is hereby transferred and made available in such fiscal year for grants under this section.
+
+#### (2) Appropriations
+
+&emsp;For the purpose of making grants under this section, there is appropriated, out of any funds in the Treasury not otherwise appropriated—
+
+&emsp;&emsp;(A) $70,000,000 for each of fiscal years 2001 and 2002 (which shall be combined with amounts transferred under paragraph (1) for each such fiscal years); and
+
+&emsp;&emsp;(B) $100,000,000 for fiscal year 2003.
+
+(July 1, 1944, ch. 373, title III, §330B, as added Pub. L. 105–33, title IV, §4921, Aug. 5, 1997, 111 Stat. 574; amended Pub. L. 105–34, title XVI, §1604(f)(1)(B), (C), Aug. 5, 1997, 111 Stat. 1098; Pub. L. 106–554, §1(a)(6) \[title IX, §931(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–585.)
 
 #### Amendments
+
+2000—Subsec. (b). Pub. L. 106–554 designated existing provisions as par. (1), inserted par. heading, and added par. (2).
 
 1997—Pub. L. 105–34, §1604(f)(1)(B), amended directory language of Pub. L. 105–33, §4921, which enacted this section.
 
@@ -24,7 +36,7 @@ Section 1604(f)(4) of Pub. L. 105–34 provided that: “The provisions of, and 
 
 #### Report on Diabetes Grant Programs
 
-Section 4923 of title IV of Pub. L. 105–33 provided that:
+Section 4923 of title IV of Pub. L. 105–33, as amended by Pub. L. 106–554, §1(a)(6) \[title IX, §931(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–585, provided that:
 
 “(a)
 
@@ -36,7 +48,7 @@ Reports.—The Secretary shall submit to the appropriate committees of Congress�
 
 &emsp;“(1) an interim report on the evaluation conducted under subsection (a) not later than January 1, 2000, and
 
-&emsp;“(2) a final report on such evaluation not later than January 1, 2002.”
+&emsp;“(2) a final report on such evaluation not later than January 1, 2003.”
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

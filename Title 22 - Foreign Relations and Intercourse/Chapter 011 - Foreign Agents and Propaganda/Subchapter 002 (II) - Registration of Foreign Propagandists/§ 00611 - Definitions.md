@@ -30,7 +30,7 @@ As used in and for the purposes of this subchapter—
 
 (e) The term “government of a foreign country” includes any person or group of persons exercising sovereign de facto or de jure political jurisdiction over any country, other than the United States, or over any part of such country, and includes any subdivision of any such group and any group or agency to which such sovereign de facto or de jure authority or functions are directly or indirectly delegated. Such term shall include any faction or body of insurgents within a country assuming to exercise governmental authority whether such faction or body of insurgents has or has not been recognized by the United States;
 
-(f) The term “foreign political party” includes any organization or any other combination ofindividuals in a country other than the United States, or any unit or branch thereof, having for an aim or purpose, or which is engaged in any activity devoted in whole or in part to, the establishment, administration, control, or acquisition of administration or control, of a government of a foreign country or a subdivision thereof, or the furtherance or influencing of the political or public interests, policies, or relations of a government of a foreign country or a subdivision thereof;
+(f) The term “foreign political party” includes any organization or any other combination of individuals in a country other than the United States, or any unit or branch thereof, having for an aim or purpose, or which is engaged in any activity devoted in whole or in part to, the establishment, administration, control, or acquisition of administration or control, of a government of a foreign country or a subdivision thereof, or the furtherance or influencing of the political or public interests, policies, or relations of a government of a foreign country or a subdivision thereof;
 
 (g) The term “public-relations counsel” includes any person who engages directly or indirectly in informing, advising, or in any way representing a principal in any public relations matter pertaining to political or public interests, policies, or relations of such principal;
 
@@ -52,7 +52,7 @@ As used in and for the purposes of this subchapter—
 
 (p) The term “political consultant” means any person who engages in informing or advising any other person with reference to the domestic or foreign policies of the United States or the political or public interest, policies, or relations of a foreign country or of a foreign political party.
 
-(June 8, 1938, ch. 327, §1, 52 Stat. 631; Aug. 7, 1939, ch. 521, §1, 53 Stat. 1244; Apr. 29, 1942, ch. 263, §1, 56 Stat. 249; Proc. No. 2695, July 4, 1946, 11 F.R. 7517, 60 Stat. 1352; Sept. 23, 1950, ch. 1024, title I, §20(a), 64 Stat. 1005; Aug. 1, 1956, ch. 849, §1, 70 Stat. 899; Pub. L. 87–366, §1, Oct. 4, 1961, 75 Stat. 784; Pub. L. 89–486, §1, July 4, 1966, 80 Stat. 244; Pub. L. 91–375, §6(k), Aug. 12, 1970, 84 Stat. 782; Pub. L. 104–65, §9(1), Dec. 19, 1995, 109 Stat. 699.)
+(June 8, 1938, ch. 327, §1, 52 Stat. 631; Aug. 7, 1939, ch. 521, §1, 53 Stat. 1244; Apr. 29, 1942, ch. 263, §1, 56 Stat. 249; Proc. No. 2695, July 4, 1946, 11 F.R. 7517, 60 Stat. 1352; Sept. 23, 1950, ch. 1024, title I, §20(a), 64 Stat. 1005; Aug. 1, 1956, ch. 849, §1, 70 Stat. 899; Pub. L. 87–366, §1, Oct. 4, 1961, 75 Stat. 784; Pub. L. 89–486, §1, July 4, 1966, 80 Stat. 244;Pub. L. 91–375, §6(k), Aug. 12, 1970, 84 Stat. 782; Pub. L. 104–65, §9(1), Dec. 19, 1995, 109 Stat. 699.)
 
 #### References in Text
 
@@ -66,7 +66,7 @@ Words “including the Philippine Islands,” omitted from definition of “Unit
 
 1995—Subsec. (j). Pub. L. 104–65, §9(1)(A), struck out subsec. (j) which read as follows: “The term ‘political propaganda’ includes any oral, visual, graphic, written, pictorial, or other communication or expression by any person (1) which is reasonably adapted to, or which the person disseminating the same believes will, or which he intends to, prevail upon, indoctrinate, convert, induce, or in any other way influence a recipient or any section of the public within the United States with reference to the political or public interests, policies, or relations of a government of a foreign country or a foreign political party or with reference to the foreign policies of the United States or promote in the United States racial, religious, or social dissensions, or (2) which advocates, advises, instigates, or promotes any racial, social, political, or religious disorder, civil riot, or other conflict involving the use of force or violence in any other American republic or the overthrow of any government or political subdivision of any other American republic by any means involving the use of force or violence. As used in this subsection the term ‘disseminating’ includes transmitting or causing to be transmitted in the United States mails or by any means or instrumentality of interstate or foreign commerce or offering or causing to be offered in the United States mails;”.
 
-Subsec. (<i>o</i>). Pub. L. 104–65, §9(1)(B), substituted “any activity that the person engaging in believes will, or that the person intends to, in any way influence” for “the dissemination of political propaganda and anyother activity which the person engaging therein believes will, or which he intends to, prevail upon, indoctrinate, convert, induce, persuade, or in any other way influence”.
+Subsec. (<i>o</i>). Pub. L. 104–65, §9(1)(B), substituted “any activity that the person engaging in believes will, or that the person intends to, in any way influence” for “the dissemination of political propaganda and any other activity which the person engaging therein believes will, or which he intends to, prevail upon, indoctrinate, convert, induce, persuade, or in any other way influence”.
 
 Subsec. (p). Pub. L. 104–65, §9(1)(C), substituted a period for semicolon at end.
 
@@ -137,10 +137,6 @@ Section 2 of act Apr. 29, 1942, provided that: “Upon the effective date of thi
 #### Policy and Purpose of Subchapter
 
 Act Apr. 29, 1942, amending generally act June 8, 1938, added an opening paragraph preceding section 1 of the latter act and reading as follows: “It is hereby declared to be the policy and purpose of this Act \[enacting this subchapter\] to protect the national defense, internal security, and foreign relations of the United States by requiring public disclosure by persons engaging in propaganda activities and other activities for or on behalf of foreign governments, foreign political parties, and other foreign principals so that the Government and the people of the United States may be informed of the identity of such persons and may appraise their statements and actions in the light of their associations and activities.”
-
-#### Cross References
-
-Registration functions of the Secretary of State transferred to the Attorney General, see Ex. Ord. No. 9176, set out preceding this section.
 
 #### Section Referred to in Other Sections
 

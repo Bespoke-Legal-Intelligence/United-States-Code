@@ -8,7 +8,7 @@ Not later than 60 days after receipt of a plan of action, the Secretary shall no
 
 #### (1) In general
 
-&emsp;Not later than 180 days after receipt of a plan of action, or such longer period as the owner requests, the Secretary shall notify the owner in writing whether the plan of action, including any revisions, is approved. If approval is withheld, the notice shall describe—
+&emsp;Not later than 180 days after receipt of a plan of action, or such longer period as theowner requests, the Secretary shall notify the owner in writing whether the plan of action, including any revisions, is approved. If approval is withheld, the notice shall describe—
 
 &emsp;&emsp;(A) the reasons for withholding approval; and
 

@@ -20,7 +20,7 @@ The head of the lead agency shall—
 
 The head of the lead agency is authorized to issue such regulations and establish such procedures as he may determine to be necessary to assure—
 
-&emsp;(1) that the payments and assistance authorized by this chapter shall be administered in amanner which is fair and reasonable and as uniform as practicable;
+&emsp;(1) that the payments and assistance authorized by this chapter shall be administered in a manner which is fair and reasonable and as uniform as practicable;
 
 &emsp;(2) that a displaced person who makes proper application for a payment authorized for such person by this subchapter shall be paid promptly after a move or, in hardship cases, be paid in advance; and
 
@@ -28,7 +28,7 @@ The head of the lead agency is authorized to issue such regulations and establis
 
 #### (c) Applicability to Tennessee Valley Authority and Rural Electrification Administration
 
-The regulations and procedures issued pursuant to this section shall apply to the Tennessee Valley Authority and the Rural Electrification Administration only with respect to relocation assistance under this subchapter and subchapter I of this chapter.
+The regulations and procedures issued pursuant to this section shall apply to the TennesseeValley Authority and the Rural Electrification Administration only with respect to relocation assistance under this subchapter and subchapter I of this chapter.
 
 (Pub. L. 91–646, title II, §213, Jan. 2, 1971, 84 Stat. 1900; Pub. L. 100–17, title IV, §412, Apr. 2, 1987, 101 Stat. 254; Pub. L. 102–240, title I, §1055, Dec. 18, 1991, 105 Stat. 2002; Pub. L. 105–117, §2, Nov. 21, 1997, 111 Stat. 2385.)
 

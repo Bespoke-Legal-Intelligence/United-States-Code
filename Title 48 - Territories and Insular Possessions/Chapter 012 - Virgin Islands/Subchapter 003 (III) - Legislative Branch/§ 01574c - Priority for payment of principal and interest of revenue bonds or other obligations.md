@@ -16,7 +16,7 @@ Section was not enacted as part of the Revised Organic Act of the Virgin Islands
 
 #### Effective Date of 1997 Amendment
 
-Section 124(b) of Pub. L. 105–83 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to obligations issued on or after the date of enactment of this section \[Nov. 14, 1997\].”
+Section 124(b) of Pub. L. 105–83 provided that: “The amendments made by subsection (a) \[amending thissection\] shall apply to obligations issued on or after the date of enactment of this section \[Nov. 14, 1997\].”
 
 #### Section Referred to in Other Sections
 

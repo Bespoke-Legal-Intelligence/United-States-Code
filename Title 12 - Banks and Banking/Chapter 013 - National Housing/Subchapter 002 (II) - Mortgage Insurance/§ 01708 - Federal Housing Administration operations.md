@@ -6,7 +6,7 @@ There is created a Mutual Mortgage Insurance Fund (hereinafter referred to as th
 
 #### (b) Advisory Board
 
-There is created a Federal Housing Administration Advisory Board (“Board”) that shall review operation of the Federal Housing Administration, including the activities of the Mortgagee Review Board, and shall provide advice to the Federal Housing Commissioner with respect to the formulation of general policies of the Federal Housing Administration and such other matters as the Federal Housing Commissioner may deem appropriate. The Advisory Board shall, in all other respects, be subject to the provisions of the Federal Advisory Committee Act.
+There is created a Federal Housing Administration Advisory Board (“Board”) that shall review operation of the Federal Housing Administration, including the activities of the Mortgagee Review Board, and shall provide advice to the Federal Housing Commissioner with respect to the formulation of general policies of theFederal Housing Administration and such other matters as the Federal Housing Commissioner may deem appropriate. The Advisory Board shall, in all other respects, be subject to the provisions of the Federal Advisory Committee Act.
 
 &emsp;(1) The Advisory Board shall be composed of 15 members to be appointed from among individuals who have substantial expertise and broad experience in housing and mortgage lending of whom—
 
@@ -40,7 +40,7 @@ There is created a Federal Housing Administration Advisory Board (“Board”) t
 
 &emsp;(8) The Board shall, not later than December 31 of each year, submit to the Secretary and the Congress a report of its assessment of the activities of the Federal Housing Administration, including the soundness of underwriting procedures, the adequacy of information systems, the appropriateness of staffing patterns, the effectiveness of the Mortgagee Review Board, and other matters related to the Federal Housing Administration's ability to serve the nation's homebuyers and renters. Such report shall contain the Board's recommendations for improvement and include any minority views.
 
-&emsp;(9) The Board shall meet in Washington, D.C., not less than twice annually, or morefrequently if requested by the Federal Housing Commissioner or a majority of the members. The Board shall elect a chair, vice-chair and secretary and adopt methods of procedure. The Board may establish committees and subcommittees as needed.
+&emsp;(9) The Board shall meet in Washington, D.C., not less than twice annually, or more frequently if requested by the Federal Housing Commissioner or a majority of the members. The Board shall elect a chair, vice-chair and secretary and adopt methods of procedure. The Board may establish committees and subcommittees as needed.
 
 &emsp;(10) Subject to the provisions of Section 7 of the Federal Advisory Committee Act, all members of the Board may be compensated and shall be entitled to reimbursement from the Department for traveling expenses incurred in attendance at meetings of the Board.
 
@@ -64,11 +64,11 @@ There is created a Federal Housing Administration Advisory Board (“Board”) t
 
 &emsp;&emsp;(D) the Assistant Secretary for Administration;
 
-&emsp;&emsp;(E) the Assistant Secretary for Fair Housing Enforcement (in cases involving violations of nondiscrimination requirements); and
+&emsp;&emsp;(E) the Assistant Secretary for Fair Housing Enforcement (in cases involving violations of nondiscrimination requirements);
 
-&emsp;&emsp;(F) the Chief Financial Officer of the Department;
+&emsp;&emsp;(F) the Chief Financial Officer of the Department; and
 
-> &emsp;or their designees.
+&emsp;&emsp;(G) the Director of the Enforcement Center; or their designees.
 
 #### (3) Actions authorized
 
@@ -124,7 +124,7 @@ There is created a Federal Housing Administration Advisory Board (“Board”) t
 
 #### (6) Cease-and-desist orders
 
-&emsp;(A) Whenever the Secretary, upon request of the Mortgagee Review Board, determines that there is reasonable cause to believe that a mortgagee is violating, has violated, or is about to violate, a law, rule or regulation or any condition imposed in writing by the Secretary or the Board, and that such violation could result in significant cost to the Federal Government or the public, the Secretary may issue a temporary order requiring the mortgagee to cease and desist from any such violation and to take affirmative action to prevent such violation or a continuation of such violation pending completion of proceedings of the Board with respect to such violation. Such order shall include a notice of charges in respect thereof and shall become effective upon service to the mortgagee. Such order shall remain effective and enforceable for a period not to exceed 30 days pending the completion of proceedings of the Board with respect to such violation, unless such order is set aside, limited, or suspended by a court in proceedings authorized by subparagraph (B) of this paragraph. The Board shall provide the mortgagee an opportunity for a hearing on the record, as soon as practicable but not later than 20 days after the temporary cease-and-desist order has been served.
+&emsp;(A) Whenever the Secretary, upon request of the Mortgagee Review Board, determines that there is reasonable cause to believe that a mortgagee is violating, has violated, or isabout to violate, a law, rule or regulation or any condition imposed in writing by the Secretary or the Board, and that such violation could result in significant cost to the Federal Government or the public, the Secretary may issue a temporary order requiring the mortgagee to cease and desist from any such violation and to take affirmative action to prevent such violation or a continuation of such violation pending completion of proceedings of the Board with respect to such violation. Such order shall include a notice of charges in respect thereof and shall become effective upon service to the mortgagee. Such order shall remain effective and enforceable for a period not to exceed 30 days pending the completion of proceedings of the Board with respect to such violation, unless such order is set aside, limited, or suspended by a court in proceedings authorized by subparagraph (B) of this paragraph. The Board shall provide the mortgagee an opportunity for a hearing on the record, as soon as practicable but not later than 20 days after the temporary cease-and-desist order has been served.
 
 &emsp;(B) Within 10 days after the mortgagee has been served with a temporary cease-and-desist order, the mortgagee may apply to the United States district court for the judicial district in which the home office of the mortgagee is located, or the United States District Court for the District of Columbia, for an injunction setting aside, limiting of suspending the enforcement, operation, or effectiveness of such order pending the completion of the administrative proceedings pursuant to the notice of charges served upon the mortgagee, and such court shall have jurisdiction to issue such injunction.
 
@@ -156,7 +156,7 @@ There is created a Federal Housing Administration Advisory Board (“Board”) t
 
 &emsp;(C) if a mortgagee is withdrawn, publish its decision in the Federal Register.
 
-(2) Within 60 days of receipt of a notification of action that could lead to withdrawal undersubsection <sup>3</sup> (1), the Federal Housing Administration or the Government National Mortgage Association shall—
+(2) Within 60 days of receipt of a notification of action that could lead to withdrawal under subsection <sup>3</sup> (1), the Federal Housing Administration or the Government National Mortgage Association shall—
 
 &emsp;(A) conduct and complete its own investigation;
 
@@ -178,7 +178,7 @@ There is created a Federal Housing Administration Advisory Board (“Board”) t
 
 Direct Endorsement Program.—
 
-&emsp;(A) Any mortgagee that is authorized by the Secretary to process mortgages as a direct endorsement mortgagee (pursuant to the single-family home mortgage direct endorsement program established by the Secretary) may contract with an appraiser chosen at the discretion of the mortgagee for the performance of appraisals in connection with such mortgages. Such appraisers may include appraisal companies organized as corporations, partnerships, or sole proprietorships.
+&emsp;(A) Any mortgagee that is authorized by the Secretary to process mortgages as a direct endorsement mortgagee (pursuant to the single-family home mortgage direct endorsement program established by the Secretary) may contract with an appraiser chosen at the discretion of the mortgagee for the performance of appraisals in connection with such mortgages. Such appraisers may include appraisalcompanies organized as corporations, partnerships, or sole proprietorships.
 
 &emsp;(B) Any appraisal conducted pursuant to subparagraph (A) shall be conducted by an individual who complies with the qualifications or standards for appraisers established by the Secretary pursuant to this subsection.
 
@@ -192,7 +192,7 @@ Fee Panel Appraisers.—
 
 &emsp;(B) With respect to any employee of an appraisal company described in subparagraph (A) who is offered an appraisal assignment in connection with a mortgage under this subchapter, the person utilizing the appraiser may contract directly with the appraisal company employing the appraiser for the furnishing of the appraisal services.
 
-(June 27, 1934, ch. 847, title II, §202, 48 Stat. 1248; Feb. 3, 1938, ch. 13, §3, 52 Stat. 10; June 3, 1939, ch. 175, §5, 53 Stat. 805; Apr. 20, 1950, ch. 94, title I, §122, 64 Stat. 59; Pub. L. 90–19, §1(a)(3), May 25, 1967, 81 Stat. 17; Pub. L. 101–235, title I, §142, Dec. 15, 1989, 103 Stat. 2030; Pub. L. 101–625, title III, §322, Nov. 28, 1990, 104 Stat. 4134; Pub. L. 102–550, title V, §§502, 518, 519, Oct. 28, 1992, 106 Stat. 3778, 3792; Pub. L. 105–65, title V, §551, Oct. 27, 1997, 111 Stat. 1412.)
+(June 27, 1934, ch. 847, title II, §202, 48 Stat. 1248; Feb. 3, 1938, ch. 13, §3, 52 Stat. 10; June 3, 1939, ch. 175, §5, 53 Stat. 805; Apr. 20, 1950, ch. 94, title I, §122, 64 Stat. 59; Pub. L. 90–19, §1(a)(3), May 25, 1967, 81 Stat. 17; Pub. L. 101–235, title I, §142, Dec. 15, 1989, 103 Stat. 2030; Pub. L. 101–625, title III, §322, Nov. 28, 1990, 104 Stat. 4134; Pub. L. 102–550, title V, §§502, 518, 519, Oct. 28, 1992, 106 Stat. 3778, 3792; Pub. L. 105–65, title V, §551, Oct. 27, 1997, 111 Stat. 1412; Pub. L. 106–377, §1(a)(1) \[title II, §209(c)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–25.)
 
 #### References in Text
 
@@ -207,6 +207,12 @@ The Fair Housing Act, referred to in subsec. (c)(1), (3)(B), is title VIII of Pu
 Executive Order 11063, referred to in subsec. (c)(1), (3)(B), is set out as a note under section 1982 of Title 42.
 
 #### Amendments
+
+2000—Subsec. (c)(2)(E). Pub. L. 106–377, §1(a)(1) \[title II, §209(c)(1)\], struck out “and” at end.
+
+Subsec. (c)(2)(F). Pub. L. 106–377, §1(a)(1) \[title II, §209(c)(2)\], which directed substitution of “and” for “or their designees.”, was executed by inserting “and” after semicolon to reflect the probable intent of Congress, because the phrase “or their designees.” appeared at end of par. (2) and did not appear in subpar. (F).
+
+Subsec. (c)(2)(G). Pub. L. 106–377, §1(a)(1) \[title II, §209(c)(3)\], added subpar. (G).
 
 1997—Subsec. (c)(3)(C). Pub. L. 105–65 inserted after first sentence “Notwithstanding paragraph (4)(A), a suspension shall be effective upon issuance by the Board if the Board determines that there exists adequate evidence that immediate action is required to protect the financial interests of the Department or the public.”
 
@@ -232,13 +238,7 @@ Subsec. (c)(7), (8). Pub. L. 102–550, §519(2), added par. (7) and redesignate
 
 #### Change of Name
 
-Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
-#### Cross References
-
-Establishment of the General Insurance Fund, see section 1735c of this title.
-
-General Surplus and Participating Reserve Accounts established in the Mutual Mortgage Insurance Fund, see section 1711 of this title.
+Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Section Referred to in Other Sections
 

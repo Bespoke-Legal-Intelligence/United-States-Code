@@ -38,10 +38,6 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 Section 558 of former Title 5, Executive Departments and Government Officers and Employees, was transferred to section 2209 of Title 7, Agriculture.
 
-#### Cross References
-
-Federal Communications Commission, issuance of cease and desist orders in connection with revocation of licenses or permits by, see section 312 of Title 47, Telegraphs, Telephones, and Radiotelegraphs.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in title 2 sections 501, 502; title 16 section 1824; title 30 section 185; title 41 section 422; title 42 sections 2236, 7651g; title 45 section 312; title 46 sections 7702, 9303; title 50 App. sections 2159, 2412.

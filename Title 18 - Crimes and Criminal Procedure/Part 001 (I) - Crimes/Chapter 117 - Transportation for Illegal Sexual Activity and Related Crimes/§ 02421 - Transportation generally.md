@@ -48,11 +48,7 @@ This section \[section 47\] corrects a typographical error in section 2421 of ti
 
 1949—Act May 24, 1949, corrected spelling of “induce”.
 
-#### Canal Zone
-
-Applicability of section to Canal Zone, see section 14 of this title.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 14, 1961, 2253, 2254, 2255, 3486A of this title; title 8 section 1101.
+This section is referred to in sections 14, 1961, 2253, 2254, 2255, 3486 of this title; title 8 section 1101.
 

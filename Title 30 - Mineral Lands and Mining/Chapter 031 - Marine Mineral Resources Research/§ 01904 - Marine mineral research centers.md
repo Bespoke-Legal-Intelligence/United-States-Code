@@ -58,5 +58,9 @@ In distributing funds to the centers designated under subsection (a) of this sec
 
 (Pub. L. 91–631, title II, §204, as added Pub. L. 104–325, §2(3), Oct. 19, 1996, 110 Stat. 3998.)
 
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1901 of this title.
+
 <i><sup>1</sup></i><i> So in original. The semicolon probably should be a colon.</i>
 

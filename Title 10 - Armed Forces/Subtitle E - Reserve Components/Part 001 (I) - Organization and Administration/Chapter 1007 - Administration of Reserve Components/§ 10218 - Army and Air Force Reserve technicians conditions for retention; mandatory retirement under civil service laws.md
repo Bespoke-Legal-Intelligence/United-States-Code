@@ -2,11 +2,11 @@
 
 (a)
 
-Separation and Retirement of Military Technicians (Dual Status).—(1) An individual employed by the Army Reserve or the Air Force Reserve as a military technician (dual status) who after the date of the enactment of this section loses dual status is subject to paragraph (2) or (3), as the case may be.
+Separation and Retirement of Military Technicians (Dual Status).—(1) An individual employed by the Army Reserve or the Air Force Reserve as a military technician (dual status) who after October 5, 1999, loses dual status is subject to paragraph (2) or (3), as the case may be.
 
-(2) If a technician described in paragraph (1) is eligible at the time dual status is lost for an unreduced annuity, the technician shall be separated not later than 30 days after the date on which dual status is lost.
+(2) If a technician described in paragraph (1) is eligible at the time dual status is lost for an unreduced annuity and is age 60 or older at that time, the technician shall be separated not later than 30 days after the date on which dual status is lost.
 
-(3)(A) If a technician described in paragraph (1) is not eligible at the time dual status is lost for an unreduced annuity, the technician shall be offered the opportunity to—
+(3)(A) If a technician described in paragraph (1) is not eligible at the time dual status is lost for an unreduced annuity or is under age 60 at that time, the technician shall be offered the opportunity to—
 
 &emsp;(i) reapply for, and if qualified be appointed to, a position as a military technician (dual status); or
 
@@ -14,11 +14,11 @@ Separation and Retirement of Military Technicians (Dual Status).—(1) An indivi
 
 (B) If such a technician continues employment with the Army Reserve or the Air Force Reserve as a non-dual status technician, the technician—
 
-&emsp;(i) shall not be permitted, after the end of the one-year period beginning on the date of the enactment of this subsection, to apply for any voluntary personnel action; and
+&emsp;(i) shall not be permitted, after October 5, 2000, to apply for any voluntary personnel action; and
 
 &emsp;(ii) shall be separated or retired—
 
-&emsp;&emsp;(I) in the case of a technician first hired as a military technician (dual status) on or before February 10, 1996, not later than 30 days after becoming eligible for an unreduced annuity; and
+&emsp;&emsp;(I) in the case of a technician first hired as a military technician (dual status) on or before February 10, 1996, not later than 30 days after becoming eligible for an unreduced annuity and becoming 60 years of age; and
 
 &emsp;&emsp;(II) in the case of a technician first hired as a military technician (dual status) after February 10, 1996, not later than one year after the date on which dual status is lost.
 
@@ -30,9 +30,9 @@ Separation and Retirement of Military Technicians (Dual Status).—(1) An indivi
 
 (b)
 
-Non-Dual Status Technicians.—(1) An individual who on the date of the enactment of this section is employed by the Army Reserve or the Air Force Reserve as a non-dual status technician and who on that date is eligible for an unreduced annuity shall be separated not later than six months after the date of the enactment of this section.
+Non-Dual Status Technicians.—(1) An individual who on October 5, 1999, is employed by the Army Reserve or the Air Force Reserve as a non-dual status technician and who on that date is eligible for an unreduced annuity and is age 60 or older shall be separated not later than April 5, 2000.
 
-(2)(A) An individual who on the date of the enactment of this section is employed by the Army Reserve or the Air Force Reserve as a non-dual status technician and who on that date is not eligible for an unreduced annuity shall be offered the opportunity to—
+(2)(A) An individual who on October 5, 1999, is employed by the Army Reserve or the Air Force Reserve as a non-dual status technician and who on that date is not eligible for an unreduced annuity or is under age 60 shall be offered the opportunity to—
 
 &emsp;(i) reapply for, and if qualified be appointed to, a position as a military technician (dual status); or
 
@@ -40,15 +40,15 @@ Non-Dual Status Technicians.—(1) An individual who on the date of the enactmen
 
 (B) If such a technician continues employment with the Army Reserve or the Air Force Reserve as a non-dual status technician, the technician—
 
-&emsp;(i) shall not be permitted, after the end of the one-year period beginning on the date of the enactment of this subsection, to apply for any voluntary personnel action; and
+&emsp;(i) shall not be permitted, after October 5, 2000, to apply for any voluntary personnel action; and
 
 &emsp;(ii) shall be separated or retired—
 
-&emsp;&emsp;(I) in the case of a technician first hired as a technician on or before February 10, 1996,and who on the date of the enactment of this section is a non-dual status technician, not later than 30 days after becoming eligible for an unreduced annuity; and
+&emsp;&emsp;(I) in the case of a technician first hired as a technician on or before February 10, 1996, and who on October 5, 1999, is a non-dual status technician, not later than 30 days after becoming eligible for an unreduced annuity and becoming 60 years of age; and
 
-&emsp;&emsp;(II) in the case of a technician first hired as a technician after February 10, 1996, and who on the date of the enactment of this section is a non-dual status technician, not later than one year after the date on which dual status is lost.
+&emsp;&emsp;(II) in the case of a technician first hired as a technician after February 10, 1996, and who on October 5, 1999, is a non-dual status technician, not later than one year after the date on which dual status is lost.
 
-(3) An individual employed by the Army Reserve or the Air Force Reserve as a non-dual status technician who is ineligible for appointment to a military technician (dual status) position, or who decides not to apply for appointment to such a position, or who, within six months of the date of the enactment of this section is not appointed to such a position, shall for reduction-in-force purposes be in a separate competitive category from employees who are military technicians (dual status).
+(3) An individual employed by the Army Reserve or the Air Force Reserve as a non-dual status technician who is ineligible for appointment to a military technician (dual status) position, or who decides not to apply for appointment to such a position, or who, during the period beginning on October 5, 1999, and ending on April 5, 2000, is not appointed to such a position, shall for reduction-in-force purposes be in a separate competitive category from employees who are military technicians (dual status).
 
 (c)
 
@@ -62,11 +62,43 @@ Voluntary Personnel Action Defined.—In this section, the term “voluntary per
 
 &emsp;(2) Promotion to a higher grade if the technician is in a position for which the Secretary concerned has established a requirement that the person occupying the position be a military technician (dual status).
 
-(Added Pub. L. 106–65, div. A, title V, §522(a)(1), Oct. 5, 1999, 113 Stat. 595.)
+(Added Pub. L. 106–65, div. A, title V, §522(a)(1), Oct. 5, 1999, 113 Stat. 595; amended Pub. L. 106–398, §1 \[\[div. A\], title V, §525(a), title X, §1087(a)(20)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–108, 1654A–291.)
 
-#### References in Text
+#### Amendments
 
-The date of the enactment of this section, referred to in subsecs. (a)(1), (3)(B)(i) and (b), is the date of enactment of Pub. L. 106–65, which was approved Oct. 5, 1999.
+2000—Subsec. (a)(1). Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(20)(A)\], substituted “October 5, 1999,” for “the date of the enactment of this section”.
+
+Subsec. (a)(2). Pub. L. 106–398, §1 \[\[div. A\], title V, §525(a)(1)(A)\], inserted “and is age 60 or older at that time” after “unreduced annuity”.
+
+Subsec. (a)(3)(A). Pub. L. 106–398, §1 \[\[div. A\], title V, §525(a)(1)(B)\], inserted “or is under age 60 at that time” after “unreduced annuity” in introductory provisions.
+
+Subsec. (a)(3)(B)(i). Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(20)(B)\], substituted “October 5, 2000” for “the end of the one-year period beginning on the date of the enactment of this subsection”.
+
+Subsec. (a)(3)(B)(ii)(I). Pub. L. 106–398, §1 \[\[div. A\], title V, §525(a)(1)(C)\], inserted “and becoming 60 years of age” after “unreduced annuity”.
+
+Subsec. (b)(1). Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(20)(A), (C)\], substituted “October 5, 1999,” for “the date of the enactment of this section” and “April 5, 2000” for “six months after the date of the enactment of this section”.
+
+Pub. L. 106–398, §1 \[\[div. A\], title V, §525(a)(2)(A)\], inserted “and is age 60 or older” after “unreduced annuity”.
+
+Subsec. (b)(2)(A). Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(20)(A)\], substituted “October 5, 1999,” for “the date of the enactment of this section” in introductory provisions.
+
+Pub. L. 106–398, §1 \[\[div. A\], title V, §525(a)(2)(B)\], inserted “or is under age 60” after “unreduced annuity” in introductory provisions.
+
+Subsec. (b)(2)(B)(i). Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(20)(B)\], substituted “October 5, 2000” for “the end of the one-year period beginning on the date of the enactment of this subsection”.
+
+Subsec. (b)(2)(B)(ii). Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(20)(A)\], substituted “October 5, 1999,” for “the date of the enactment of this section” in subcls. (I) and (II).
+
+Subsec. (b)(2)(B)(ii)(I). Pub. L. 106–398, §1 \[\[div. A\], title V, §525(a)(2)(C)\], inserted “and becoming 60 years of age” after “unreduced annuity”.
+
+Subsec. (b)(3). Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(20)(D)\], substituted “during the period beginning on October 5, 1999, and ending on April 5, 2000,” for “within six months of the date of the enactment of this section”.
+
+#### Transition Provision
+
+Pub. L. 106–398, §1 \[\[div. A\], title V, §525(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–109, provided that:
+
+“(1) An individual who before the date of the enactment of this Act \[Oct. 30, 2000\] was involuntarily separated or retired from employment as an Army Reserve or Air Force Reserve technician under section 10218 of title 10, United States Code, and who would not have been so separated if the provisions of subsection (c) of that section, as amended by subsection (a), had been in effect at the time of such separation may, with the approval of the Secretary concerned, be reinstated to the technician status held by that individual immediately before that separation. The effective date of any such reinstatement is the date the employee resumes technician status.
+
+“(2) The authority under paragraph (1) applies only to reinstatement for which an application is received by the Secretary concerned before the end of the one-year period beginning on the date of the enactment of this Act \[Oct. 30, 2000\].”
 
 #### Temporary Provision for Extension of Time for Separation or Retirement
 

@@ -14,7 +14,7 @@ Any individual filing a grievance under this subchapter (hereinafter in this sub
 
 #### (c) Administrative leave for witnesses
 
-Any witness who is a member of the Service or employee of the Department shall be granted reasonable periods of administrative leave to appear and testify at any proceedings under this subchapter.
+Any witness who is a member of the Service or employee of the Department shall be grantedreasonable periods of administrative leave to appear and testify at any proceedings under this subchapter.
 
 #### (d) Records
 

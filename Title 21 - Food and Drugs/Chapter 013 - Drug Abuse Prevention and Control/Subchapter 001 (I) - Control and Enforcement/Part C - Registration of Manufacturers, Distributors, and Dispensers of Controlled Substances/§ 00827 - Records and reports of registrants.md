@@ -26,9 +26,9 @@ The foregoing provisions of this section shall not apply—
 
 &emsp;(B) to the use of controlled substances, at establishments registered under this subchapter which keep records with respect to such substances, in preclinical research or in teaching; or
 
-&emsp;(3) to the extent of any exemption granted to any person, with respect to all or part of such provisions, by the Attorney General by or pursuant to regulation on the basis of a finding that the application of such provisions (or part thereof) to such person is not necessary for carrying out the purposes of this subchapter.
+&emsp;(3) to the extent of any exemption granted to any person, with respect to all or part of such provisions, by the Attorney General by or pursuant to regulation on the basis of a finding that the application of such provisions (or partthereof) to such person is not necessary for carrying out the purposes of this subchapter.
 
-> Nothing in the Convention on Psychotropic Substances shall be construed as superseding orotherwise affecting the provisions of paragraph (1)(B), (2), or (3) of this subsection.
+> Nothing in the Convention on Psychotropic Substances shall be construed as superseding or otherwise affecting the provisions of paragraph (1)(B), (2), or (3) of this subsection.
 
 #### (d) Periodic reports to Attorney General
 
@@ -46,7 +46,23 @@ Regulations under sections 355(i) and 360(j) of this title, relating to investig
 
 Every registrant under this subchapter shall be required to report any change of professional or business address in such manner as the Attorney General shall by regulation require.
 
-(Pub. L. 91–513, title II, §307, Oct. 27, 1970, 84 Stat. 1258; Pub. L. 93–281, §5, May 14, 1974, 88 Stat. 125; Pub. L. 95–633, title I, §§104, 110, Nov. 10, 1978, 92 Stat. 3772, 3773; Pub. L. 98–473, title II, §§514, 515, Oct. 12, 1984, 98 Stat. 2074.)
+#### (h) Reporting requirements for GHB
+
+In the case of a drug product containing gamma hydroxybutyric acid for which an application has been approved under section 355 of this title, the Attorney General may, in addition to any other requirements that apply under this section with respect to such a drug product, establish any of the following as reporting requirements:
+
+&emsp;(1) That every person who is registered as a manufacturer of bulk or dosage form, as a packager, repackager, labeler, relabeler, or distributor shall report acquisition and distribution transactions quarterly, not later than the 15th day of the month succeeding the quarter for which the report is submitted, and annually report end-of-year inventories.
+
+&emsp;(2) That all annual inventory reports shall be filed no later than January 15 of the year following that for which the report is submitted and include data on the stocks of the drug product, drug substance, bulk drug, and dosage forms on hand as of the close of business December 31, indicating whether materials reported are in storage or in process of manufacturing.
+
+&emsp;(3) That every person who is registered as a manufacturer of bulk or dosage form shall report all manufacturing transactions both inventory increases, including purchases, transfers, and returns, and reductions from inventory, including sales, transfers, theft, destruction, and seizure, and shall provide data on material manufactured, manufactured from other material, use in manufacturing other material, and use in manufacturing dosage forms.
+
+&emsp;(4) That all reports under this section must include the registered person's registration number as well as the registration numbers, names, and other identifying information of vendors, suppliers, and customers, sufficient to allow the Attorney General to track the receipt and distribution of the drug.
+
+&emsp;(5) That each dispensing practitioner shall maintain for each prescription the name of the prescribing practitioner, the prescribing practitioner's Federal and State registration numbers, with the expiration dates of these registrations, verification that the prescribing practitioner possesses the appropriate registration to prescribe this controlled substance, the patient's name and address, the name of the patient's insurance provider and documentation by a medical practitioner licensed and registered to prescribe the drug of the patient's medical need for the drug. Such information shall be available for inspection and copying by the Attorney General.
+
+&emsp;(6) That section 830(b)(3) of this title (relating to mail order reporting) applies with respect to gamma hydroxybutyric acid to the same extent and in the same manner as such section applies with respect to the chemicals and drug products specified in subparagraph (A)(i) of such section.
+
+(Pub. L. 91–513, title II, §307, Oct. 27, 1970, 84 Stat. 1258; Pub. L. 93–281, §5, May 14, 1974, 88 Stat. 125; Pub. L. 95–633, title I, §§104, 110, Nov. 10, 1978, 92 Stat. 3772, 3773; Pub. L. 98–473, title II, §§514, 515, Oct. 12, 1984, 98 Stat. 2074; Pub. L. 106–172, §4, Feb. 18, 2000, 114 Stat. 9.)
 
 #### References in Text
 
@@ -54,7 +70,9 @@ Schedules II, III, IV, and V, referred to in subsec. (c), are set out in section
 
 #### Amendments
 
-1984—Subsec. (c)(1)(A). Pub. L. 98–473, §514(a), substituted “to the prescribing of controlled substances in schedule II, III, IV, or V by practitioners acting in the lawful course of their professional practice unless such substance is prescribed in the course of maintenance or detoxification treatment of an individual” for “with respect to any narcotic controlled substance in schedule II, III, IV, or V, to the prescribing or administering of such substance by a practitioner in the lawful course of his professional practice unless such substance was prescribed or administered in the course of maintenance treatment or detoxification treatment of an individual”.
+2000—Subsec. (h). Pub. L. 106–172 added subsec. (h).
+
+1984—Subsec. (c)(1)(A). Pub. L. 98–473, §514(a), substituted “to the prescribing of controlled substances in schedule II, III, IV, or V by practitioners acting in the lawful course of their professional practice unless such substance is prescribed in the course of maintenance or detoxification treatment of an individual” for “with respect to any narcotic controlled substance in scheduleII, III, IV, or V, to the prescribing or administering of such substance by a practitioner in the lawful course of his professional practice unless such substance was prescribed or administered in the course of maintenance treatment or detoxification treatment of an individual”.
 
 Subsec. (c)(1)(B). Pub. L. 98–473, §514(b), substituted “to the administering of a controlled substance in schedule II, III, IV, or V unless the practitioner regularly engages in the dispensing or administering of controlled substances and charges his patients, either separately or together with charges for other professional services, for substances so dispensed or administered or unless such substance is administered in the course of maintenance treatment or detoxification treatment of an individual” for “with respect to nonnarcotic controlled substances in schedule II, III, IV, or V, to any practitioner who dispenses such substances to his patients, unless the practitioner is regularly engaged in charging his patients, either separately or together with charges for other professional services, for substances so dispensed”.
 

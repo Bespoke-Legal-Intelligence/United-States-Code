@@ -44,10 +44,6 @@
 
 &emsp;&emsp;Develop and prescribe regulations which require that all assets and liabilities, including contingent assets and liabilities, of insured depository institutions be reported in, or otherwise taken into account in the preparation of any balance sheet, financial statement, report of condition, or other report of such institution, required to be filed with a Federal banking agency.
 
-#### (D) Market value disclosure
-
-&emsp;&emsp;Develop jointly with the other appropriate Federal banking agencies a method for insured depository institutions to provide supplemental disclosure of the estimated fair market value of assets and liabilities, to the extent feasible and practicable, in any balance sheet, financial statement, report of condition, or other report of any insured depository institution required to be filed with a Federal banking agency.
-
 #### (b) Uniform accounting of capital standards
 
 #### (1) In general
@@ -62,25 +58,33 @@
 
 #### (1) Annual reports required
 
-&emsp;Each appropriate Federal banking agency shall annually submit a report to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate containing a description of any difference between any accounting or capital standard used by such agency and any accounting or capital standard used by any other agency.
+&emsp;The Federal banking agencies shall jointly submit an annual report to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate containing a description of any difference between any accounting or capital standard used by any such agency and any accounting or capital standard used by any other agency.
 
 #### (2) Explanation of reasons for discrepancy
 
-&emsp;Each report submitted under paragraph (1) shall contain an explanation of the reasons for any discrepancy between any accounting or capital standard used by such agency and any accounting or capital standard used by any other agency.
+&emsp;Each report submitted under paragraph (1) shall contain an explanation of the reasons for any discrepancy between any accounting or capital standard used by any such agency and any accounting or capital standard used by any other agency.
 
 #### (3) Publication
 
 &emsp;Each report under this subsection shall be published in the Federal Register.
 
-(Sept. 21, 1950, ch. 967, §2\[37\], as added Pub. L. 102–242, title I, §121(a), Dec. 19, 1991, 105 Stat. 2250.)
+(Sept. 21, 1950, ch. 967, §2\[37\], as added Pub. L. 102–242, title I, §121(a), Dec. 19, 1991, 105 Stat. 2250; amended Pub. L. 106–569, title XII, §§1221, 1223, Dec. 27, 2000, 114 Stat. 3036.)
 
 #### References in Text
 
 Section 1833d, referred to in subsec. (b)(2), was repealed by Pub. L. 102–242, title I, §121(b), Dec. 19, 1991, 105 Stat. 2251.
 
+#### Amendments
+
+2000—Subsec. (a)(3)(D). Pub. L. 106–569, §1221, struck out heading and text of subpar. (D). Text read as follows: “Develop jointly with the other appropriate Federal banking agencies a method for insured depository institutions to provide supplemental disclosure of the estimated fair market value of assets and liabilities, to the extent feasible and practicable, in any balance sheet, financial statement, report of condition, or other report of any insured depository institution required to be filed with a Federal banking agency.”
+
+Subsec. (c)(1). Pub. L. 106–569, §1223, substituted “The Federal banking agencies shall jointly submit an annual report” for “Each appropriate Federal bankingagency shall annually submit a report” and inserted “any” before “such agency”.
+
+Subsec. (c)(2). Pub. L. 106–569, §1223(2), inserted “any” before “such agency”.
+
 #### Change of Name
 
-Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Risk-Weighting of Housing Loans for Purposes of Capital Requirements
 
@@ -142,7 +146,7 @@ Requirements.—Subparagraph (A) shall apply to any loan—
 
 &emsp;&emsp;&emsp;“(ii) under which—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) the rate of interest does not change over the term of the loan, (b) the principal obligation does not exceed 80 percent of the appraised value of the property, and (c) the ratio of annual net operating income generated by theproperty (before payment of any debt service on the loan) to annual debt service on the loan is not less than 120 percent; or
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) the rate of interest does not change over the term of the loan, (b) the principal obligation does not exceed 80 percent of the appraised value of the property, and (c) the ratio of annual net operating income generated by the property (before payment of any debt service on the loan) to annual debt service on the loan is not less than 120 percent; or
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) the rate of interest changes over the term of the loan, (b) the principal obligation does not exceed 75 percent of the appraised value of the property, and (c) the ratio of annual net operating income generated by the property (before payment of any debt service on the loan) to annual debt service on the loan is not less than 115 percent;
 
@@ -162,7 +166,7 @@ Sale pursuant to pro rata loss sharing arrangements.—Not later than the expira
 
 &emsp;“(3)
 
-Sale pursuant to other arrangements for loss.—Not later than the expiration of the 180-day period beginning on the date of the enactment of this Act \[Dec. 12, 1991\], each Federal banking agency shall amend the regulations and guidelines of the agency establishing minimum acceptable capital levels to take into account other loss sharing arrangements, in connection with the sale by an institution subject to the jurisdiction of the agency of any loan that is fully secured by a first lien on multifamily housing property, for purposes of determining the extent to which such loans shall be treated as sold. For purposes of this paragraph, the term ‘other loss sharing arrangement’ means an agreement providing that the purchaser of a loan shares in any loss incurred on the loan with the selling institution on other than a pro rata basis.
+Sale pursuant to other arrangements for loss.—Not later than the expiration of the 180-day period beginning on the date of the enactment of this Act \[Dec. 12, 1991\], each Federal banking agency shall amend the regulations and guidelines of the agency establishing minimum acceptable capital levels to take into account other loss sharing arrangements, in connection with the sale by an institution subjectto the jurisdiction of the agency of any loan that is fully secured by a first lien on multifamily housing property, for purposes of determining the extent to which such loans shall be treated as sold. For purposes of this paragraph, the term ‘other loss sharing arrangement’ means an agreement providing that the purchaser of a loan shares in any loss incurred on the loan with the selling institution on other than a pro rata basis.
 
 “(c)
 

@@ -26,7 +26,7 @@ In the case of any study or design documents for a flood control project that we
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;A non-Federal interest may carry out construction for which studies and designdocuments are prepared under subsection (b) of this section only if the Secretary approves the project for construction.
+&emsp;&emsp;&emsp;A non-Federal interest may carry out construction for which studies and design documents are prepared under subsection (b) of this section only if the Secretary approves the project for construction.
 
 #### (ii) Criteria for approval
 

@@ -28,7 +28,7 @@ Before issuing or transferring a license for exploration or permit for commercia
 
 &emsp;(A) to avoid unreasonable interference with the interests of other states in their exercise of the freedoms of the high seas, as recognized under general principles of international law;
 
-&emsp;(B) if relevant data and other information (including, but not limited to, data resultingfrom exploration or commercial recovery activities under the license or permit) indicate that modification is required to protect the quality of the environment or to promote the safety of life and property at sea and if such modification is consistent with the regulations issued to carry out section 1419(b) of this title;
+&emsp;(B) if relevant data and other information (including, but not limited to, data resulting from exploration or commercial recovery activities under the license or permit) indicate that modification is required to protect the quality of the environment or to promote the safety of life and property at sea and if such modification is consistent with the regulations issued to carry out section 1419(b) of this title;
 
 &emsp;(C) to avoid a conflict with any international obligation of the United States, established by any treaty or convention in force with respect to the United States, as determined in writing by the President; or
 
@@ -44,7 +44,7 @@ Before issuing or transferring a license for exploration or permit for commercia
 
 Prior to making a determination to issue, transfer, modify, or renew a license or permit under this section, the Administrator shall consult with any affected Regional Fishery Management Council established pursuant to section 1852 of title 16, if the activities undertaken pursuant to such license or permit could adversely affect any fishery within the Fishery Conservation Zone, or any anadromous species or Continental Shelf fishery resource subject to the exclusive management authority of the United States beyond such zone.
 
-(Pub. L. 96–283, title I, §105, June 28, 1980, 94 Stat. 563; Pub. L. 96–561, title II, §238(b), Dec. 22, 1980, 94 Stat. 3300; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41.)
+(Pub. L. 96–283, title I, §105, June 28, 1980, 94 Stat. 563; Pub. L. 96–561, title II, §238(b), Dec. 22,1980, 94 Stat. 3300; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41.)
 
 #### References in Text
 

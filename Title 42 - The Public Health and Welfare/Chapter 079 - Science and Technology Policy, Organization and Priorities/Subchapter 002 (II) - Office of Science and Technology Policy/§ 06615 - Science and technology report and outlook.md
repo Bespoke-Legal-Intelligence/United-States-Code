@@ -34,6 +34,10 @@ Provisions similar to those in this section were contained in section 6618 of th
 
 1982—Pub. L. 97–375 substituted provisions requiring the President to submit to Congress in odd numbered years a science and technology report and outlook for provisions which required the Office of Science and Technology Policy to create a five-year science and technology outlook, dealing with current and emerging problems and with opportunities for and constraints on new and existing capabilities, to be revised annually, composed with the consultation of officials of departments and agencies having related programs and responsibilities, and with officials of the Office of Management and Budget and other appropriate elements of the Executive Office of the President.
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (a) of this section relating to submission of biennial report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 16th item on page 42 of House Document No. 103–7.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 6615 of this title.

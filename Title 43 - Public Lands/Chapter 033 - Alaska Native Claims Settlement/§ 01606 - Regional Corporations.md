@@ -108,7 +108,7 @@ The management of the Regional Corporation shall be vested in a board of directo
 
 &emsp;&emsp;&emsp;(I) Natives who have attained the age of sixty-five;
 
-&emsp;&emsp;&emsp;(II) other identifiable groups of Natives or identifiable groups of descendants of Natives defined in terms of general applicability and not in any way by reference to place of residence or family;
+&emsp;&emsp;&emsp;(II) other identifiable groups of Natives or identifiable groups of descendants ofNatives defined in terms of general applicability and not in any way by reference to place of residence or family;
 
 &emsp;&emsp;&emsp;(III) Settlement Trusts; or
 
@@ -188,7 +188,7 @@ The management of the Regional Corporation shall be vested in a board of directo
 
 &emsp;&emsp;(ii) by a holder who is a member of a professional organization, association, or board that limits his or her ability to practice his or her profession because he or she holds Settlement Common Stock; or
 
-&emsp;&emsp;(iii) as an inter vivos gift from a holder to his or her child, grandchild, great-grandchild, niece, nephew, or (if the holder has reached the age of majority as defined by the laws of the State of Alaska) brother or sister.
+&emsp;&emsp;(iii) as an inter vivos gift from a holder to his or her child, grandchild, great-grandchild, niece, nephew, or (if the holder has reached the age of majority as defined by the laws of the State of Alaska) brother or sister, notwithstanding an adoption, relinquishment, or termination of parental rights that may have altered or severed the legal relationship between the gift donor and recipient.
 
 #### (2) Inheritance of Settlement Common Stock
 
@@ -232,7 +232,7 @@ The management of the Regional Corporation shall be vested in a board of directo
 
 &emsp;&emsp;(i) a restriction denying voting rights to any holder of Replacement Common Stock who is not a Native or a descendant of a Native;
 
-&emsp;&emsp;(ii) a restriction granting the Regional Corporation, or the Regional Corporation and members of the shareholder's immediate family who are Natives or descendants of Natives, the first right to purchase, on reasonable terms, the Replacement Common Stock of the shareholder prior to the sale or transfer of such stock (other than a transfer by will or intestate succession) to any other party, including a transfer in satisfaction of a lien, writ of attachment, judgment execution, pledge, or other encumbrance; and
+&emsp;&emsp;(ii) a restriction granting the Regional Corporation, or the Regional Corporation and members of the shareholder's immediate family who are Natives or descendants of Natives, the first right to purchase, on reasonable terms, the Replacement CommonStock of the shareholder prior to the sale or transfer of such stock (other than a transfer by will or intestate succession) to any other party, including a transfer in satisfaction of a lien, writ of attachment, judgment execution, pledge, or other encumbrance; and
 
 &emsp;&emsp;(iii) any other term, restriction, limitation, or provision authorized by the laws of the State.
 
@@ -330,7 +330,7 @@ Funds distributed to a Village Corporation may be withheld until the village has
 
 #### (m) Distributions among Village Corporations in a region; computation of dividends for nonresidents of village; financing regional projects with equitably withheld dividends and Village Corporation funds
 
-When funds are distributed among Village Corporations in a region, an amount computed as follows shall be distributed as dividends to the class of stockholders who are not residents of those villages: The amount distributed as dividends shall bear the same ratio to the amount distributed among the Village Corporations that the number of shares of stock registered on the books of the Regional Corporation in the names of nonresidents of villages bears to the number of shares of stock registered in the names of village residents: <i>Provided</i>, That an equitable portion of the amount distributed as dividends may be withheld and combined with Village Corporation funds to finance projects that will benefit the region generally.
+When funds are distributed among Village Corporations in a region, an amount computed asfollows shall be distributed as dividends to the class of stockholders who are not residents of those villages: The amount distributed as dividends shall bear the same ratio to the amount distributed among the Village Corporations that the number of shares of stock registered on the books of the Regional Corporation in the names of nonresidents of villages bears to the number of shares of stock registered in the names of village residents: <i>Provided</i>, That an equitable portion of the amount distributed as dividends may be withheld and combined with Village Corporation funds to finance projects that will benefit the region generally.
 
 #### (n) Projects for Village Corporations
 
@@ -338,7 +338,7 @@ The Regional Corporation may undertake on behalf of one or more of the Village C
 
 #### (<i>o</i>) Annual audit; place; availability of papers, things, or property to auditors to facilitate audits; verification of transactions; report to stockholders
 
-The accounts of the Regional Corporation shall be audited annually in accordance with generally accepted auditing standards by independent certified public accountants or independent licensed public accountants, certified or licensed by a regulatory authority of the State or the United States. The audits shall be conducted at the place or places where the accountsof the Regional Corporation are normally kept. All books, accounts, financial records, reports, files, and other papers, things, or property belonging to or in use by the Regional Corporation and necessary to facilitate the audits shall be available to the person or persons conducting the audits; and full facilities for verifying transactions with the balances or securities held by depositories, fiscal agent, and custodians shall be afforded to such person or persons. Each audit report or a fair and reasonably detailed summary thereof shall be transmitted to each stockholder.
+The accounts of the Regional Corporation shall be audited annually in accordance with generally accepted auditing standards by independent certified public accountants or independent licensed public accountants, certified or licensed by a regulatory authority of the State or the United States. The audits shall be conducted at the place or places where the accounts of the Regional Corporation are normally kept. All books, accounts, financial records, reports, files, and other papers, things, or property belonging to or in use by the Regional Corporation and necessary to facilitate the audits shall be available to the person or persons conducting the audits; and full facilities for verifying transactions with the balances or securities held by depositories, fiscal agent, and custodians shall be afforded to such person or persons. Each audit report or a fair and reasonably detailed summary thereof shall be transmitted to each stockholder.
 
 #### (p) Federal-State conflict of laws
 
@@ -352,9 +352,11 @@ Two or more Regional Corporations may contract with the same business management
 
 The authority of a Native Corporation to provide benefits to its shareholders who are Natives or descendants of Natives or to its shareholders’ immediate family members who are Natives or descendants of Natives to promote the health, education, or welfare of such shareholders or family members is expressly authorized and confirmed. Eligibility for such benefits need not be based on share ownership in the Native Corporation and such benefits may be provided on a basis other than pro rata based on share ownership.
 
-(Pub. L. 92–203, §7, Dec. 18, 1971, 85 Stat. 691; Pub. L. 96–487, title XIV, §1401(a), (c), Dec. 2, 1980, 94 Stat. 2491, 2492; Pub. L. 100–241, §§4, 5, 12(a), Feb. 3, 1988, 101 Stat. 1790, 1792, 1810; Pub. L. 102–415, §§4, 8, Oct. 14, 1992, 106 Stat. 2113, 2114; Pub. L. 104–10, §1(a), May 18, 1995, 109 Stat. 155; Pub. L. 104–42, title I, §109(a), Nov. 2, 1995, 109 Stat. 357; Pub. L. 105–333, §§8, 12, Oct. 31, 1998, 112 Stat. 3134, 3135.)
+(Pub. L. 92–203, §7, Dec. 18, 1971, 85 Stat. 691; Pub. L. 96–487, title XIV, §1401(a), (c), Dec. 2, 1980, 94 Stat. 2491, 2492; Pub. L. 100–241, §§4, 5, 12(a), Feb. 3, 1988, 101 Stat. 1790, 1792, 1810; Pub. L. 102–415, §§4, 8, Oct. 14, 1992, 106 Stat. 2113, 2114; Pub. L. 104–10, §1(a), May 18, 1995, 109 Stat. 155; Pub. L. 104–42, title I, §109(a), Nov. 2, 1995, 109 Stat. 357; Pub. L. 105–333, §§8, 12, Oct. 31, 1998, 112 Stat. 3134, 3135; Pub. L. 106–194, §2, May 2, 2000, 114 Stat. 242.)
 
 #### Amendments
+
+2000—Subsec. (h)(1)(C)(iii). Pub. L. 106–194 inserted before period at end “, notwithstanding an adoption, relinquishment, or termination of parental rights that may have altered or severed the legal relationship between the gift donor and recipient”.
 
 1998—Subsec. (i)(1). Pub. L. 105–333, §8(1), substituted “(A) Except as provided by subparagraph (B), 70 percent” for “Seventy per centum”.
 
@@ -388,7 +390,7 @@ Section 109(b) of Pub. L. 104–42 provided that: “This amendment \[amending t
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1602, 1604, 1605, 1607, 1618, 1620, 1621, 1625, 1626, 1627, 1628, 1629b, 1629c, 1629d, 1629e, 1636 of this title; title 16 section 3181; title 25 section 1903; title 42 section 1382b; title 50 App. section 1989c–1.
+This section is referred to in sections 1602, 1604, 1605, 1607, 1618, 1620, 1621, 1625, 1626, 1627, 1628, 1629, 1629b, 1629c, 1629d, 1629e, 1636 of this title; title 16 section 3181; title 25 section 1903; title 42 section 1382b; title 50 App. section 1989c–1.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “paragraph”.</i>
 

@@ -16,7 +16,7 @@ The Secretary of Transportation shall—
 
 &emsp;(7) consult with the heads of other departments, agencies, and instrumentalities of the United States Government on the transportation requirements of the Government, including encouraging them to establish and observe policies consistent with maintaining a coordinated transportation system in procuring transportation or in operating their own transport services;
 
-&emsp;(8) consult and cooperate with State and local governments, carriers, labor, and otherinterested persons, including, when appropriate, holding informal public hearings; and
+&emsp;(8) consult and cooperate with State and local governments, carriers, labor, and other interested persons, including, when appropriate, holding informal public hearings; and
 
 &emsp;(9) develop and coordinate Federal policy on financing transportation infrastructure, including the provision of direct Federal credit assistance and other techniques used to leverage Federal transportation funds.
 

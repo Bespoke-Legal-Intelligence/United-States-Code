@@ -4,12 +4,6 @@ It shall be unlawful for any person, partnership, association, or corporation en
 
 (Feb. 21, 1905, ch. 720, §1, 33 Stat. 732.)
 
-#### Cross References
-
-Forfeiture, see section 292 of this title.
-
-Penalty for violating provisions of this section, see section 293 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 292, 293 of this title.

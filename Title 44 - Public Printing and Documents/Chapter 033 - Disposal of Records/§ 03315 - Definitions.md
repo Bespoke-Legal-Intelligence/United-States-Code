@@ -6,7 +6,7 @@ For purposes of this section and section 3316 through section 3324 of this title
 
 &emsp;(2) the term “Commission” means the National Study Commission on Records and Documents of Federal Officials; and
 
-&emsp;(3) the term “records and documents” shall include handwritten and typewritten documents, motion pictures, television tapes and recordings, magnetic tapes, automated data processing documentation in various forms, and other records that reveal the history of the Nation.
+&emsp;(3) the term “records and documents” shall include handwritten and typewritten documents, motion pictures, television tapes andrecordings, magnetic tapes, automated data processing documentation in various forms, and other records that reveal the history of the Nation.
 
 (Added Pub. L. 93–526, title II, §202, Dec. 19, 1974, 88 Stat. 1698.)
 

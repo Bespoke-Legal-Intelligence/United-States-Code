@@ -6,10 +6,6 @@ Any person violating any of the provisions of this section shall, upon convictio
 
 (June 19, 1936, ch. 592, §3, 49 Stat. 1528.)
 
-#### Cross References
-
-Exemption on non-profit institutions from provisions of this section, see section 13c of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in title 10 section 7430; title 28 section 1407; title 30 section 184; title 42 sections 6202, 8235f; title 49 section 10706.

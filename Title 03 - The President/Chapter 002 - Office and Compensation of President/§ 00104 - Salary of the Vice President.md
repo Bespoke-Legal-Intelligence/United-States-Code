@@ -46,7 +46,7 @@ Amendment by Pub. L. 101–194 effective Jan. 1, 1991, see section 704(b) of Pub
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–257 effective in the case of compensation payable for months after December 1981,see section 105(c) of Pub. L. 97–257, set out as a note under section 60c–1 of Title 2, The Congress.
+Amendment by Pub. L. 97–257 effective in the case of compensation payable for months after December 1981, see section 105(c) of Pub. L. 97–257, set out as a note under section 60c–1 of Title 2, The Congress.
 
 #### Effective Date of 1969 Amendment
 
@@ -66,9 +66,11 @@ Amendment by act Jan. 19, 1949, effective noon, Jan. 20, 1949, see section 3 of 
 
 #### Salary Increases
 
-2000—Ex. Ord. No. 13144, Dec. 21, 1999, 64 F.R. 72237, set out as a note under section 5332 of Title 5, Government Organization and Employees, provided for the adjustment of pay rates effective Jan. 1, 2000.
+2001—Ex. Ord. No. 13182, Dec. 23, 2000, 65 F.R. 82879, 66 F.R. 10057, set out as a note under section 5332 of Title 5, Government Organization and Employees, provided for the adjustment of pay rates effective Jan. 1, 2001.
 
-1999—Ex. Ord. No. 13106, Dec. 7, 1998, 63 F.R. 68151, which provided for the adjustment of pay rates effective Jan. 1, 1999, was substantially superseded by Ex. Ord. No. 13144, Dec. 21, 1999, 64 F.R. 72237, set out as a note under section 5332 of Title 5.
+2000—Ex. Ord. No. 13144, Dec. 21, 1999, 64 F.R. 72237, which provided for the adjustment of pay rates effective Jan. 1, 2000, was superseded by Ex. Ord. No. 13182, Dec. 23, 2000, 65 F.R. 82879, set out as a note under section 5332 of Title 5.
+
+1999—Ex. Ord. No. 13106, Dec. 7, 1998, 63 F.R. 68151, which provided for the adjustment of pay rates effective Jan. 1, 1999, was substantially superseded by Ex. Ord. No. 13144, Dec. 21, 1999, 64 F.R. 72237, formerly set out as a note under section 5332 of Title 5.
 
 1998—Ex. Ord. No. 13071, Dec. 29, 1997, 62 F.R. 68521, which provided for the adjustment of pay rates effective Jan. 1, 1998, was superseded by Ex. Ord. No. 13106, Dec. 7, 1998, 63 F.R. 68151, formerly set out as a note under section 5332 of Title 5.
 
@@ -130,15 +132,7 @@ Pub. L. 95–66, §1(1), July 11, 1977, 91 Stat. 270, set out as a note under se
 
 1975—Ex. Ord. No. 11883, Oct. 6, 1975, 40 F.R. 47091, which provided for the adjustment of pay rates effective Oct. 1, 1975, was superseded by Ex. Ord. No. 11941, Oct. 1, 1976, 41 F.R. 43899, as amended by Ex. Ord. No. 11943, Oct. 25, 1976, 41 F.R. 47213, formerly set out as a note under section 5332 of Title 5.
 
-#### Long-Distance Telephone Calls
-
-Section 58 of Title 2, The Congress, relating to long-distance telephone calls for Senators is made applicable to the Vice President under the provisions of section 46d–1 of Title 2.
-
-#### Cross References
-
-Claims for overpayment of pay or allowances to the Vice President, see section 130c of Title 2, The Congress.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in title 5 sections 9502, 9503, 9505.
+This section is referred to in title 5 sections 9502, 9503, 9505; title 35 section 3.
 

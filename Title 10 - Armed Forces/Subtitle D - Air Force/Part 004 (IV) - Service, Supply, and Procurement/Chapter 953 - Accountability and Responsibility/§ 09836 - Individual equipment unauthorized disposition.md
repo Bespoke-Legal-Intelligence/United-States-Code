@@ -50,13 +50,3 @@ In subsection (b), the first 16 words of the first sentence are inserted for cla
 
 In subsection (c), the first 19 words are inserted for clarity. The words “person who is authorized to retain it” are substituted for the words “quartermaster \[,\] or other officer authorized to receive the same”, in 10:1316 and 1317.
 
-#### Cross References
-
-Federal offenses—
-
-&emsp;&emsp;Embezzlement and theft of public property, see section 641 of Title 18, Crimes and Criminal Procedure.
-
-&emsp;&emsp;Malicious mischief, government property, see section 1361 of Title 18.
-
-&emsp;&emsp;Purchase or receipt of military property, see section 1024 of Title 18.
-

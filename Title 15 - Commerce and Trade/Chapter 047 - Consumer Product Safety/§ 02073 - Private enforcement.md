@@ -6,7 +6,7 @@ Any interested person (including any individual or nonprofit, business, or other
 
 #### Amendments
 
-1981—Pub. L. 97–35 substituted “Any interested person (including any individual or nonprofit, business, or other entity)” for “Any interested person”, and “section 2060(f) of this title” for “2059(e)(4) of this title”.
+1981—Pub. L. 97–35 substituted “Any interested person (including any individual or nonprofit, business, orother entity)” for “Any interested person”, and “section 2060(f) of this title” for “2059(e)(4) of this title”.
 
 1976—Pub. L. 94–284 substituted provision permitting the court to award costs in the interest of justice for the provision which permitted costs to be demanded as part of the complaint and the court to award them to the prevailing party.
 

@@ -8,7 +8,7 @@
 
 &emsp;(3) public lands not previously designated for any specific use and all existing classifications of public lands that were effected by executive action or statute before October 21, 1976, be reviewed in accordance with the provisions of this Act;
 
-&emsp;(4) the Congress exercise its constitutional authority to withdraw or otherwise designate or dedicate Federal lands for specified purposes and that Congress delineate the extentto which the Executive may withdraw lands without legislative action;
+&emsp;(4) the Congress exercise its constitutional authority to withdraw or otherwise designate or dedicate Federal lands for specified purposes and that Congress delineate the extent to which the Executive may withdraw lands without legislative action;
 
 &emsp;(5) in administering public land statutes and exercising discretionary authority granted by them, the Secretary be required to establish comprehensive rules and regulations after considering the views of the general public; and to structure adjudication procedures to assure adequate third party participation, objective administrative review of initial decisions, and expeditious decisionmaking;
 
@@ -85,6 +85,10 @@ Section 701 of Pub. L. 94–579 provided that:
 #### Severability
 
 Section 707 of Pub. L. 94–579 provided that: “If any provision of this Act \[see Short Title note set out above\] or the application thereof is held invalid, the remainder of the Act and the application thereof shall not be affected thereby.”
+
+#### Agency-Wide Joint Permitting and Leasing Programs
+
+Pub. L. 106–291, title III, §330, Oct. 11, 2000, 114 Stat. 996, provided that: “In fiscal years 2001 through 2005, the Secretaries of the Interior and Agriculture may pilot test agency-wide joint permitting and leasing programs, subject to annual review of Congress, and promulgate special rules as needed to test the feasibility of issuing unified permits, applications, and leases. The Secretaries of the Interior and Agriculture may make reciprocal delegations of their respective authorities, duties and responsibilities in support of the ‘Service First’ initiative agency-wide to promote customer service and efficiency. Nothing herein shall alter, expand or limit the applicability of any public law or regulation to lands administered by the Bureau of Land Management or the Forest Service.”
 
 #### Existing Rights-of-Way
 

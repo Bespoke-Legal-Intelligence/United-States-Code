@@ -10,7 +10,7 @@
 
 &emsp;(4) that such shelter facility used to carry out such project shall have the capacity to accommodate not more than 20 individuals (excluding staff);
 
-&emsp;(5) to provide a number of staff sufficient to ensure that all homeless youth participating in such project receive adequate supervision and services;
+&emsp;(5) to provide a number of staff sufficient to ensure that all homeless youth participatingin such project receive adequate supervision and services;
 
 &emsp;(6) to provide a written transitional living plan to each youth based on an assessment of such youth's needs, designed to help the transition from supervised participation in such project to independent living or another appropriate living arrangement;
 

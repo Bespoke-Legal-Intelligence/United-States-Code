@@ -24,7 +24,7 @@ As used in this chapter—
 
 (k) The term “person” means any individual, corporation, partnership, firm, association, trust, estate, or other entity.
 
-(<i>l</i>) The term “termination inventory” means any materials (including a proper part of anycommon materials), properly allocable to the terminated portion of a war contract, except any machinery or equipment subject to a separate contract specifically governing the use or disposition thereof.
+(<i>l</i>) The term “termination inventory” means any materials (including a proper part of any common materials), properly allocable to the terminated portion of a war contract, except any machinery or equipment subject to a separate contract specifically governing the use or disposition thereof.
 
 (m) The term “final and conclusive”, as applied to any settlement, finding, or decision, means that such settlement, finding, or decision shall not be reopened, annulled, modified, set aside, or disregarded by any officer, employee, or agent of the United States or in any suit, action, or proceeding except as provided in this chapter.
 
@@ -42,7 +42,7 @@ In subsec. (g), the Smaller War Plants Corporation was omitted from the definiti
 
 #### Transfer of Functions
 
-In subsec. (g), “Secretary of Commerce” substituted for “War Production Board” in view of transfer of War Production Board functions to Civilian Production Administration, then to Office of Temporary Controls, and then to Secretary of Commerce by Ex. Ord. Nos. 9638, 9809, and 9841.
+In subsec. (g), “Secretary of Commerce” substituted for “War Production Board” in view of transfer of WarProduction Board functions to Civilian Production Administration, then to Office of Temporary Controls, and then to Secretary of Commerce by Ex. Ord. Nos. 9638, 9809, and 9841.
 
 In subsec. (j), functions of Director of Contract Settlement transferred to Secretary of the Treasury by Ex. Ord. No. 9809, §8, and Reorg. Plan No. 1 of 1947, §201, were retransferred to Administrator of General Services by section 102(b) of act June 30, 1949, which is classified to section 752(b) of Title 40, Public Buildings, Property, and Works.
 
@@ -53,12 +53,6 @@ Transfer of functions by act June 30, 1949, effective July 1, 1949, see section 
 #### Abolition of Reconstruction Finance Corporation
 
 Reorg. Plan No. 1 of 1957, §6(a), eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647, set out in the Appendix to Title 5, Government Organization and Employees, abolished Reconstruction Finance Corporation.
-
-#### Cross References
-
-War contracts penal provision comprehending the definitions of terms used in this section, see section 443 of Title 18, Crimes and Criminal Procedure.
-
-War-time suspension of limitations, applicability of definitions, see section 3287 of Title 18.
 
 #### Section Referred to in Other Sections
 

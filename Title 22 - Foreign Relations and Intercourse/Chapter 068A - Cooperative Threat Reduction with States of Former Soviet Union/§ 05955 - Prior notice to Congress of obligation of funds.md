@@ -32,39 +32,17 @@ For delegation of certain authorities and duties of the President under this sec
 
 #### Russian Nonstrategic Nuclear Arms
 
-Pub. L. 106–65, div. A, title XIII, §1312, Oct. 5, 1999, 113 Stat. 796, provided that:
-
-“(a)
-
-Sense of Congress.—It is the sense of Congress that—
+Pub. L. 106–65, div. A, title XIII, §1312, Oct. 5, 1999, 113 Stat. 796, as amended by Pub. L. 106–398, §1 \[\[div. A\], title XIII, §1308(g)(3)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–343, provided that: “It is the sense of Congress that—
 
 &emsp;“(1) it is in the interest of Russia to fully implement the Presidential Nuclear Initiatives announced in 1991 and 1992 by then-President of the Soviet Union Gorbachev and then-President of Russia Yeltsin;
 
 &emsp;“(2) the President of the United States should call on Russia to match the unilateral reductions in the United States inventory of tactical nuclear weapons, which have reduced the inventory by nearly 90 percent; and
 
-&emsp;“(3) if the re-certification under section 1310 \[113 Stat. 795\] is made, the President should emphasize the continued interest of the United States in working cooperatively with Russia to reduce the dangers associated with Russia's tactical nuclear arsenal.
-
-“(b)
-
-Annual Reporting Requirement.—(1) Each annual report on accounting for United States assistance under Cooperative Threat Reduction programs \[for definition, see section 1301(a) of Pub. L. 106–65, set out as a note under section 5952 of this title\] that is submitted to Congress under section 1206 of the National Defense Authorization Act for Fiscal Year 1996 (Public Law 104–106; 110 Stat. 471; 22 U.S.C. 5955 note) after fiscal year 1999 shall include, regarding Russia's arsenal of tactical nuclear warheads, the following:
-
-&emsp;“(A) Estimates regarding current types, numbers, yields, viability, locations, and deployment status of the warheads.
-
-&emsp;“(B) An assessment of the strategic relevance of the warheads.
-
-&emsp;“(C) An assessment of the current and projected threat of theft, sale, or unauthorized use of the warheads.
-
-&emsp;“(D) A summary of past, current, and planned United States efforts to work cooperatively with Russia to account for, secure, and reduce Russia's stockpile of tactical nuclear warheads and associated fissile material.
-
-“(2) The Secretary of Defense shall include in the annual report described in paragraph (1) the views on the report provided under subsection (c).
-
-“(c)
-
-Views of the Director of Central Intelligence.—The Director of Central Intelligence shall submit to the Secretary of Defense, for inclusion as an appendix in the annual report described in subsection (b), the Director's views on the matters described in paragraph (1) of that subsection regarding Russia's tactical nuclear weapons.”
+&emsp;“(3) if the re-certification under section 1310 \[113 Stat. 795\] is made, the President should emphasize the continued interest of the United States in working cooperatively with Russia to reduce the dangers associated with Russia's tactical nuclear arsenal.”
 
 #### Congressional Reports on Cooperative Threat Reduction Programs
 
-Pub. L. 104–106, div. A, title XII, §§1201, 1205, 1206, Feb. 10, 1996, 110 Stat. 469, 470, 471, as amended by Pub. L. 104–201, div. A, title XIV, §1431, Sept. 23, 1996, 110 Stat. 2726; Pub. L. 106–65, div. A, title X, §1067(6), title XIII, §1311, Oct. 5, 1999, 113 Stat. 774, 796, provided that:
+Pub. L. 104–106, div. A, title XII, §§1201, 1205, 1206, Feb. 10, 1996, 110 Stat. 469, 470, 471, as amended by Pub. L. 104–201, div. A, title XIV, §1431, Sept. 23, 1996, 110 Stat. 2726; Pub. L. 106–65, div. A, title X, §1067(6), title XIII, §1311, Oct. 5, 1999, 113 Stat. 774, 796; Pub. L. 106–398, §1 \[\[div. A\], title XIII, §1308(g)(1)(C)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–343, provided that:
 
 #### “SEC. 1201. SPECIFICATION OF COOPERATIVE THREAT REDUCTION PROGRAMS.
 
@@ -106,27 +84,5 @@ Matters To Be Specified in Reports.—Each such report shall specify—
 
 &emsp;“(3) the projected involvement (if any) of any department or agency of the United States (in addition to the Department of Defense) and of the private sector of the United States in the activities and forms of assistance for which the Secretary of Defense plans to obligate such funds.
 
-#### “SEC. 1206. REPORT ON ACCOUNTING FOR UNITED STATES ASSISTANCE.
-
-“(a)
-
-Report.—(1) The Secretary of Defense shall submit to Congress an annual report on the efforts made by the United States (including efforts through the use of audits, examinations, and on-site inspections) to ensure that assistance provided under Cooperative Threat Reduction programs is fully accounted for and that such assistance is being used for its intended purposes.
-
-“(2) The report shall be submitted under this section not later than January 31 of each year and shall cover the fiscal year ending in the preceding calendar year. No report is required under this section after the completion of the Cooperative Threat Reduction programs.
-
-“(b)
-
-Information To Be Included.—Each report under this section shall include the following:
-
-&emsp;“(1) A list of cooperative threat reduction assistance that has been provided before the date of the report.
-
-&emsp;“(2) A description of the current location of the assistance provided and the current condition of such assistance.
-
-&emsp;“(3) A determination of whether the assistance has been used for its intended purpose.
-
-&emsp;“(4) A description of the activities planned to be carried out during the next fiscal year to ensure that cooperative threat reduction assistance provided during that fiscal year is fully accounted for and is used for its intended purpose.
-
-“(c)
-
-Comptroller General Assessment.—Not later than 30 days after the date on which a report of the Secretary under subsection (a) is submitted to Congress, the Comptroller General of the United States shall submit to Congress a report giving the Comptroller General's assessment of the report and making any recommendations that the Comptroller General considers appropriate.”
+#### “\[SEC. 1206. Repealed. Pub. L. 106–398, §1 \[\[div. A\], title XIII, §1308(g)(1)(C)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–343.\]”
 

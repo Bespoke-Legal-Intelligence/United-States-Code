@@ -6,7 +6,7 @@ Section 6d, acts June 22, 1936, ch. 689, 49 Stat. 1605; June 28, 1937, ch. 396, 
 
 Section 6e, acts May 14, 1937, ch. 180, title I, 50 Stat. 139; Mar. 28, 1938, ch. 55, 52 Stat. 123; May 6, 1939, ch. 115, title I, 53 Stat. 656; Mar. 25, 1940, ch. 71, title I, 54 Stat. 56, excepted Treasury Department from provisions of section 5 of this title when aggregate amount involved did not exceed $50.
 
-Section 6f, acts June 16, 1937, ch. 359, title I, 50 Stat. 273; Apr. 27, 1938, ch. 180, title I, 52 Stat. 258; June 29, 1939, ch. 248, title I, 53 Stat. 896; May 14, 1940, ch. 189, title I, 54 Stat. 192, excepted Department of State from provisions of section 5 of this title when aggregate amount involved did not exceed certain specified amounts.
+Section 6f, acts June 16, 1937, ch. 359, title I, 50 Stat. 273; Apr. 27, 1938, ch. 180, title I, 52 Stat. 258; June 29, 1939, ch. 248, title I, 53 Stat. 896; May 14, 1940, ch. 189,title I, 54 Stat. 192, excepted Department of State from provisions of section 5 of this title when aggregate amount involved did not exceed certain specified amounts.
 
 Section 6g, acts June 16, 1937, ch. 359, title II, 50 Stat. 275; Apr. 27, 1938, ch. 180, title II, 52 Stat. 260; June 29, 1939, ch. 248, title II, 53 Stat. 898; May 14, 1940, ch. 189, title III, 54 Stat. 201, 202, excepted Federal Bureau of Investigation from provisions of section 5 of this title when aggregate amount did not exceed $50.
 

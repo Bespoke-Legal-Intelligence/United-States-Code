@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Except as otherwise provided, this chapter shall be enforced by the Commission under the Federal Trade Commission Act (15 U.S.C. 41 et seq.).
+Except as otherwise provided, this chapter shall be enforced by the Commission under theFederal Trade Commission Act (15 U.S.C. 41 et seq.).
 
 #### (b) Provisions
 

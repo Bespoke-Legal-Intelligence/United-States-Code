@@ -1,6 +1,6 @@
 ### §2197. Misuse of Federal certificate, license or document
 
-Whoever, not being lawfully entitled thereto, uses, exhibits, or attempts to use or exhibit, or, with intent unlawfully to use the same, receives or possesses any certificate, license, or document issued to vessels, or officers or seamen by any officer or employee of the United States authorized by law to issue the same; or
+Whoever, not being lawfully entitled thereto, uses, exhibits, or attempts to use or exhibit, or,with intent unlawfully to use the same, receives or possesses any certificate, license, or document issued to vessels, or officers or seamen by any officer or employee of the United States authorized by law to issue the same; or
 
 Whoever, without authority, alters or attempts to alter any such certificate, license, or document by addition, interpolation, deletion, or erasure; or
 
@@ -33,8 +33,4 @@ Changes were made in phraseology and arrangement.
 #### Amendments
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000” in last par.
-
-#### Cross References
-
-Enforcement and regulations, see section 2103 of Title 46, Shipping.
 

@@ -64,5 +64,5 @@ Section applicable with respect to group health plans, and health insurance cove
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 300gg–11, 300gg–91, 1395w–22 of this title.
+This section is referred to in sections 300gg–11, 300gg–91, 1395w–22, 1395cc–2 of this title.
 

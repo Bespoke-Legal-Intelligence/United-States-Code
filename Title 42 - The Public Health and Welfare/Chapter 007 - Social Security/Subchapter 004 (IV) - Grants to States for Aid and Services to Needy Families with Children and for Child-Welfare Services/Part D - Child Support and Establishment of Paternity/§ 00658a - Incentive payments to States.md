@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In addition to any other payment under this part, the Secretary shall, subject to subsection\(f) of this section, make an incentive payment to each State for each fiscal year in an amount determined under subsection (b) of this section.
+In addition to any other payment under this part, the Secretary shall, subject to subsection (f) of this section, make an incentive payment to each State for each fiscal year in an amount determined under subsection (b) of this section.
 
 #### (b) Amount of incentive payment
 
@@ -406,7 +406,7 @@ Interim report.—Not later than March 1, 2001, the Secretary shall submit to th
 
 &emsp;&emsp;“(iii)
 
-Final report.—Not later than October 1, 2003, the Secretary shall submit to the Congress a final report that contains the final findings of the study required by subparagraph (A). The report shall include any recommendations for changes inthe system that the Secretary determines would improve the operation of the child support enforcement program.
+Final report.—Not later than October 1, 2003, the Secretary shall submit to the Congress a final report that contains the final findings of the study required by subparagraph (A). The report shall include any recommendations for changes in the system that the Secretary determines would improve the operation of the child support enforcement program.
 
 “(2)
 

@@ -12,7 +12,7 @@ Amending Regulations.—Notwithstanding subsection (a) of this section, the Admi
 
 Exemptions and Advising Congress on Regulations.—The Administrator—
 
-&emsp;(1) may exempt from this section air transportation operations, except scheduled passenger operations of an air carrier providing air transportation under a certificate issuedunder section 41102 of this title or a permit issued under section 41302 of this title; and
+&emsp;(1) may exempt from this section air transportation operations, except scheduled passenger operations of an air carrier providing air transportation under a certificate issued under section 41102 of this title or a permit issued under section 41302 of this title; and
 
 &emsp;(2) shall advise Congress of a regulation to be prescribed under this section at least 30 days before the effective date of the regulation, unless the Administrator decides an emergency exists requiring the regulation to become effective in fewer than 30 days and notifies Congress of that decision.
 
@@ -90,5 +90,5 @@ Pub. L. 100–649, §2(d), Nov. 10, 1988, 102 Stat. 3817, provided that: “The 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 106, 40109, 40119, 44902, 44915, 44936, 44938, 46314 of this title.
+This section is referred to in sections 106, 40109, 40119, 44902, 44915, 44935, 44936, 44938, 46314 of this title.
 

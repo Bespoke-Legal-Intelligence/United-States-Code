@@ -24,7 +24,7 @@
 
 #### (i) Payments in lieu of vaccines
 
-&emsp;&emsp;&emsp;In the case of a State that manufactures a pediatric vaccine the Secretary, instead of providing the vaccine on behalf of a State under subparagraph (A), shall provide to the State an amount equal to the value of the quantity of such vaccine thatotherwise would have been delivered on behalf of the State under such subparagraph, but only if the State agrees that such payments will only be used for purposes relating to pediatric immunizations.
+&emsp;&emsp;&emsp;In the case of a State that manufactures a pediatric vaccine the Secretary, instead of providing the vaccine on behalf of a State under subparagraph (A), shall provide to the State an amount equal to the value of the quantity of such vaccine that otherwise would have been delivered on behalf of the State under such subparagraph, but only if the State agrees that such payments will only be used for purposes relating to pediatric immunizations.
 
 #### (ii) Determination of value
 
@@ -48,7 +48,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(ii) A child who is not insured.
 
-&emsp;&emsp;&emsp;(iii) A child who (I) is administered a qualified pediatric vaccine by a federally-qualified health center (as defined in section 1396d(<i>l</i>)(2)(B) of this title) or a rural health clinic (as defined in section 1396d(<i>l</i>)(1) of this title), and (II) is not insured with respect to the vaccine.
+&emsp;&emsp;&emsp;(iii) A child who (I) is administered a qualified pediatric vaccine by a federally-qualified health center (as defined in section 1396d(<i>l</i>)(2)(B) of this title) or a ruralhealth clinic (as defined in section 1396d(<i>l</i>)(1) of this title), and (II) is not insured with respect to the vaccine.
 
 &emsp;&emsp;&emsp;(iv) A child who is an Indian (as defined in subsection (h)(3) of this section).
 
@@ -110,7 +110,7 @@ For purposes of this section:
 
 #### (4) State requirements
 
-&emsp;Except as the Secretary may permit in order to prevent fraud and abuse and for related purposes, a State may not impose additional qualifications or conditions, in addition to the requirements of paragraph (1), in order that a provider qualify as a program-registered provider under this section. This subsection does not limit the exercise of State authority under section 1396n(b) of this title.
+&emsp;Except as the Secretary may permit in order to prevent fraud and abuse and for related purposes, a State may not impose additional qualifications or conditions, in addition to the requirements of paragraph (1), in order that aprovider qualify as a program-registered provider under this section. This subsection does not limit the exercise of State authority under section 1396n(b) of this title.
 
 #### (d) Negotiation of contracts with manufacturers
 
@@ -156,7 +156,7 @@ For purposes of this section:
 
 #### (7) Multiple suppliers
 
-&emsp;In the case of the pediatric vaccine involved, the Secretary shall, as appropriate, enter into a contract referred to in paragraph (1) with each manufacturer of the vaccine that meets the terms and conditions of the Secretary for an award of such a contract (including terms and conditions regarding safety and quality). With respect to multiple contracts entered into pursuant to this paragraph, the Secretary may have in effect different prices under each of such contracts and, with respect to a purchase by States pursuant to paragraph (4)(B), the Secretary shall determine which of such contracts will be applicable to the purchase.
+&emsp;In the case of the pediatric vaccine involved, the Secretary shall, as appropriate, enter into a contract referred to in paragraph (1) with each manufacturer of the vaccine that meets the terms and conditions of the Secretary for an award of such a contract (including termsand conditions regarding safety and quality). With respect to multiple contracts entered into pursuant to this paragraph, the Secretary may have in effect different prices under each of such contracts and, with respect to a purchase by States pursuant to paragraph (4)(B), the Secretary shall determine which of such contracts will be applicable to the purchase.
 
 #### (e) Use of pediatric vaccines list
 
@@ -204,7 +204,7 @@ The Internal Revenue Code of 1986, referred to in subsec. (d)(3)(B), is classifi
 
 #### Prior Provisions
 
-A prior section 1396s, act Aug. 14, 1935, ch. 531, title XIX, §1928, formerly §1920, as added Apr. 7, 1986, Pub. L. 99–272, title IX, §9526, 100 Stat. 218, and renumbered and amended, which related to references to laws directlyaffecting medicaid program, was renumbered section 1931 of act Aug. 14, 1935, by Pub. L. 103–66, title XIII, §13631(b)(1), Aug. 10, 1993, 107 Stat. 637, and transferred to section 1396v of this title.
+A prior section 1396s, act Aug. 14, 1935, ch. 531, title XIX, §1928, formerly §1920, as added Apr. 7, 1986, Pub. L. 99–272, title IX, §9526, 100 Stat. 218, and renumbered and amended, which related to references to laws directly affecting medicaid program, was renumbered section 1931 of act Aug. 14, 1935, by Pub. L. 103–66, title XIII, §13631(b)(1), Aug. 10, 1993, 107 Stat. 637, and transferred to section 1396v of this title.
 
 #### Effective Date
 

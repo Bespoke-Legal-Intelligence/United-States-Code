@@ -32,7 +32,7 @@ The Attorney General shall serve as Chairman of the Council. The Administrator o
 
 #### (c) Functions
 
-(1) The function of the Council shall be to coordinate all Federal juvenile delinquency programs (in cooperation with State and local juvenile justice programs) all Federal programs and activities that detain or care for unaccompanied juveniles, and all Federal programs relating to missing and exploited children. The Council shall examine how the separate programs can be coordinated among Federal, State, and local governments to better serve at-risk children and juveniles and shall make recommendations to the President, and to the Congress, at least annually with respect to the coordination of overall policy and development of objectives and priorities for all Federal juvenile delinquency programs and activities and all Federal programs and activities that detain or care for unaccompanied juveniles. The Council shall review the programs and practices of Federal agencies and report on the degree to which Federal agency funds are used for purposes which are consistent or inconsistent with the mandates of paragraphs (12)(A), (13), and (14) of section 5633(a) of this title. The Council shall review, and make recommendations with respect to, any joint funding proposal undertaken by the Office of Juvenile Justice and Delinquency Prevention and any agency represented on the Council. The Council shall review the reasons why Federal agencies take juveniles into custody and shall make recommendations regarding how to improve Federal practices and facilities for holding juveniles in custody.
+(1) The function of the Council shall be to coordinate all Federal juvenile delinquency programs (in cooperation with State and local juvenile justice programs) all Federal programs and activities that detain or care for unaccompanied juveniles, and all Federal programs relating to missing and exploited children. The Council shall examine how the separate programs can be coordinated among Federal, State, and local governments to better serve at-risk children and juveniles and shall make recommendations to the President, and to the Congress, at least annually with respect to the coordination of overall policy and development of objectives and priorities for all Federal juvenile delinquency programs and activities and all Federal programs and activities that detain or care for unaccompanied juveniles. The Council shall review the programs and practices of Federal agencies and report on the degree to which Federal agency funds are used for purposes which are consistentor inconsistent with the mandates of paragraphs (12)(A), (13), and (14) of section 5633(a) of this title. The Council shall review, and make recommendations with respect to, any joint funding proposal undertaken by the Office of Juvenile Justice and Delinquency Prevention and any agency represented on the Council. The Council shall review the reasons why Federal agencies take juveniles into custody and shall make recommendations regarding how to improve Federal practices and facilities for holding juveniles in custody.
 
 (2) In addition to performing their functions as members of the Council, the members appointed under subsection (a)(2) of this section shall collectively—
 
@@ -56,7 +56,7 @@ Members appointed under subsection (a)(2) of this section shall serve without co
 
 Of sums available to carry out this part, not more than $200,000 shall be available to carry out this section.
 
-(Pub. L. 93–415, title II, §206, Sept. 7, 1974, 88 Stat. 1116; Pub. L. 94–237, §4(c)(5)(D), Mar. 19, 1976, 90 Stat. 244; Pub. L. 95–115, §3(a)(3)(A), (5), (d), Oct. 3, 1977, 91 Stat. 1048–1050; Pub. L. 96–509, §§8, 19(f), Dec. 8, 1980, 94 Stat. 2753, 2763; Pub. L.98–473, title II, §623, Oct. 12, 1984, 98 Stat. 2110; Pub. L. 100–690, title VII, §§7251(b), 7252(b)(2), 7254, Nov. 18, 1988, 102 Stat. 4435–4437; Pub. L. 102–586, §2(d), Nov. 4, 1992, 106 Stat. 4985; Pub. L. 103–82, title IV, §405(k), Sept. 21, 1993, 107 Stat. 922.)
+(Pub. L. 93–415, title II, §206, Sept. 7, 1974, 88 Stat. 1116; Pub. L. 94–237, §4(c)(5)(D), Mar. 19, 1976, 90 Stat. 244; Pub. L. 95–115, §3(a)(3)(A), (5), (d), Oct. 3, 1977, 91 Stat. 1048–1050; Pub. L. 96–509, §§8, 19(f), Dec. 8, 1980, 94 Stat. 2753, 2763; Pub. L. 98–473, title II, §623, Oct. 12, 1984, 98 Stat. 2110; Pub. L. 100–690, title VII, §§7251(b), 7252(b)(2), 7254, Nov. 18, 1988, 102 Stat. 4435–4437; Pub. L. 102–586, §2(d), Nov. 4, 1992, 106 Stat. 4985; Pub. L. 103–82, title IV, §405(k), Sept. 21, 1993, 107 Stat. 922.)
 
 #### Amendments
 
@@ -80,7 +80,7 @@ Subsec. (g). Pub. L. 100–690, §7254(c), amended subsec. (g) generally. Prior 
 
 1984—Subsec. (a)(1). Pub. L. 98–473, §623(a), substituted “Office of Community Services” for “Community Services Administration”, “Assistant Attorney General who heads the Office of Justice Programs” for “Director of the Office of Justice Assistance, Research, and Statistics”, and “Director of the Bureau of Justice Assistance” for “Administrator of the Law Enforcement Assistance Administration”.
 
-Subsec. (c). Pub. L. 98–473, §623(b), substituted “delinquency programs and, in consultation with the Advisory Board on Missing Children, all Federal programs relating to missing and exploited children” for “delinquency programs”.
+Subsec. (c). Pub. L. 98–473, §623(b), substituted “delinquency programs and, in consultation with the Advisory Board on Missing Children, all Federal programsrelating to missing and exploited children” for “delinquency programs”.
 
 Subsec. (e). Pub. L. 98–473, §623(c), substituted “the Administrator” for “he” before “considers necessary”.
 
@@ -129,6 +129,10 @@ Amendment by Pub. L. 98–473 effective Oct. 12, 1984, see section 670(a) of Pub
 #### Effective Date of 1977 Amendment
 
 Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub. L. 93–415, as added by Pub. L. 95–115, set out as a note under section 5601 of this title.
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (c)(1) of this section relating to the Council making recommendations to Congress at least annually, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and item 1 on page 159 of House Document No. 103–7.
 
 #### Section Referred to in Other Sections
 

@@ -2,7 +2,7 @@
 
 #### (a) Authorization of appropriations
 
-For the purpose of carrying out this subpart, subpart III and section 290aa–4 of this title with respect to substance abuse, and section 290bb–21(d) of this title, there are authorized to be appropriated $1,500,000,000 for fiscal year 1993, and such sums as may be necessary for fiscal year 1994.
+For the purpose of carrying out this subpart, subpart III and section 290aa–4 of this title with respect to substance abuse, and section 290bb–21(d) of this title, there are authorized to be appropriated $2,000,000,000 for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 and 2003.
 
 #### (b) Allocations for technical assistance, national data base, data collection, and program evaluations
 
@@ -10,23 +10,33 @@ For the purpose of carrying out this subpart, subpart III and section 290aa–4 
 
 &emsp;(A) For the purpose of carrying out section 300x–58(a) of this title with respect to substance abuse, section 290bb–21(d) of this title, and the purposes specified in subparagraphs (B) and (C), the Secretary shall obligate 5 percent of the amounts appropriated under subsection (a) of this section each fiscal year.
 
-&emsp;(B) The purpose specified in this subparagraph is the collection of data in this paragraph <sup>1</sup> is carrying out section 290aa–4 of this title with respect to substance abuse.
+&emsp;(B) The purpose specified in this subparagraph is the collection of data in this paragraph <sup>1</sup> is carrying out sections 290aa–4 and 300y of this title with respect to substance abuse.
 
 &emsp;(C) The purpose specified in this subparagraph is the conduct of evaluations of authorized activities to determine methods for improving the availability and quality of such activities.
 
 #### (2) Activities of Center for Substance Abuse Prevention
 
-&emsp;Of the amounts reserved under paragraph (1) for a fiscal year, the Secretary, acting through the Director of the Center for Substance Abuse Prevention, shall obligate 20 percent for carrying out paragraph (1)(C), section 300x–58(a) <sup>2</sup> of this title with respect to prevention activities, and section 290bb–21(d) of this title.
+&emsp;Of the amounts reserved under paragraph (1) for a fiscal year, the Secretary, acting through the Director of the Center for Substance Abuse Prevention, shall obligate 20 percent for carrying out paragraph (1)(C), section 300x–58(a) of this title with respect to prevention activities, and section 290bb–21(d) of this title.
 
-(July 1, 1944, ch. 373, title XIX, §1935, as added Pub. L. 102–321, title II, §202, July 10, 1992, 106 Stat. 403.)
+#### (3) Core data set
 
-#### References in Text
+&emsp;A State that receives a new grant, contract, or cooperative agreement from amounts available to the Secretary under paragraph (1), for the purposes of improving the data collection, analysis and reporting capabilities of the State, shall be required, as a condition of receipt of funds, to collect, analyze, and report to the Secretary for each fiscal year subsequent to receiving such funds a core data set to be determined by the Secretary in conjunction with the States.
 
-Section 300x–58(a) of this title, referred to in subsec. (b)(2), was in the original “section 1949(a)”, meaning section 1949(a) of act July 1, 1944, which is classified to section 300x–59 of this title, and was translated as reading “section 1948(a)” to reflect the probable intent of Congress because of context and because section 300x–59 does not contain a subsec. (a).
+(July 1, 1944, ch. 373, title XIX, §1935, as added Pub. L. 102–321, title II, §202, July 10, 1992, 106 Stat. 403; amended Pub. L. 106–310, div. B, title XXXIII, §3303(g), Oct. 17, 2000, 114 Stat. 1211.)
 
 #### Prior Provisions
 
 A prior section 1935 of act July 1, 1944, was classified to section 300y–25 of this title and subsequently omitted from the Code.
+
+#### Amendments
+
+2000—Subsec. (a). Pub. L. 106–310, §3303(g)(1), substituted “$2,000,000,000 for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 and 2003” for “$1,500,000,000 for fiscal year 1993, and such sums as may be necessary for fiscal year 1994”.
+
+Subsec. (b)(1)(B). Pub. L. 106–310, §3303(g)(2), substituted “sections 290aa–4 and 300y of this title” for “section 290aa–4 of this title”.
+
+Subsec. (b)(2). Pub. L. 106–310, §3303(g)(3), made technical amendment to reference in original act which appears in text as reference to section 300x–58(a) of this title.
+
+Subsec. (b)(3). Pub. L. 106–310, §3303(g)(4), added par. (3).
 
 #### Section Referred to in Other Sections
 

@@ -32,10 +32,6 @@ Act Aug. 10, 1939, ch. 666, title IX, §902(a)–(d), (h), 53 Stat. 1399, provid
 
 Act May 28, 1938, ch. 289, §810, 52 Stat. 576, related to credits against Social Security Tax for 1936. It was affected by act Sept. 20, 1941, ch. 412, title VII, §701(c), 55 Stat. 728, relating to credit against Federal unemployment taxes.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in title 29 section 1732.
-
 
 ---
 

@@ -10,7 +10,7 @@
 
 &emsp;(B) are based upon the Administrator's total system costs, and
 
-&emsp;(C) insofar as transmission rates are concerned, equitably allocate the costs of theFederal transmission system between Federal and non-Federal power utilizing such system.
+&emsp;(C) insofar as transmission rates are concerned, equitably allocate the costs of the Federal transmission system between Federal and non-Federal power utilizing such system.
 
 #### (b) General application of rates to meet general requirements
 
@@ -60,7 +60,7 @@
 
 &emsp;(A) for the period prior to July 1, 1985, at a level which the Administrator estimates will be sufficient to recover the cost of resources the Administrator determines are required to serve such customers’ load and the net costs incurred by the Administrator pursuant to section 839c(c) of this title, based upon the Administrator's projected ability to make power available to such customers pursuant to their contracts, to the extent that such costs are not recovered through rates applicable to other customers; and
 
-&emsp;(B) for the period beginning July 1, 1985, at a level which the Administrator determines tobe equitable in relation to the retail rates charged by the public body and cooperative customers to their industrial consumers in the region.
+&emsp;(B) for the period beginning July 1, 1985, at a level which the Administrator determines to be equitable in relation to the retail rates charged by the public body and cooperative customers to their industrial consumers in the region.
 
 (2) The determination under paragraph (1)(B) of this subsection shall be based upon the Administrator's applicable wholesale rates to such public body and cooperative customers and the typical margins included by such public body and cooperative customers in their retail industrial rates but shall take into account—
 
@@ -86,7 +86,7 @@ Nothing in this chapter prohibits the Administrator from establishing, in rate s
 
 #### (f) Basis for rates
 
-Rates for all other firm power sold by the Administrator for use in the Pacific Northwest shall be based upon the cost of the portions of Federal base system resources, purchases of power under section 839c(c) of this title and additional resources which, in the determination of the Administrator, are applicable to such sales.
+Rates for all other firm power sold by the Administrator for use in the Pacific Northwestshall be based upon the cost of the portions of Federal base system resources, purchases of power under section 839c(c) of this title and additional resources which, in the determination of the Administrator, are applicable to such sales.
 
 #### (g) Allocation of costs and benefits
 

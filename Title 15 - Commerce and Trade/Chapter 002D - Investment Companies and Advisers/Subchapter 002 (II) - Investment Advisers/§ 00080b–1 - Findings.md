@@ -14,15 +14,3 @@ Upon the basis of facts disclosed by the record and report of the Securities and
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
-#### Cross References
-
-Findings and declaration of policy under Investment Company Act of 1940, see section 80a–1 of this title.
-
-Necessity for control of holding companies, see section 79a of this title.
-
-Necessity for regulation under—
-
-&emsp;&emsp;Securities Exchange Act of 1934, see section 78b of this title.
-
-&emsp;&emsp;Trust Indenture Act of 1939, see section 77bbb of this title.
-

@@ -18,7 +18,7 @@
 
 (4) If a State makes a determination under paragraph (1) that it is not appropriate for such State to revise its residential building code, such State shall submit to the Secretary, in writing, the reasons for such determination, and such statement shall be available to the public.
 
-(5)(A) Whenever CABO Model Energy Code, 1992,<sup>1</sup> (or any successor of such code) is revised, the Secretary shall, not later than 12 months after such revision, determine whether such revision would improve energy efficiency in residential buildings. The Secretary shall publish notice of such determination in the Federal Register.
+(5)(A) Whenever CABO Model Energy Code, 1992,<sup>1</sup> (or any successor of such code) is revised, the Secretary shall, not later than 12 monthsafter such revision, determine whether such revision would improve energy efficiency in residential buildings. The Secretary shall publish notice of such determination in the Federal Register.
 
 (B) If the Secretary makes an affirmative determination under subparagraph (A), each State shall, not later than 2 years after the date of the publication of such determination, certify that it has reviewed the provisions of its residential building code regarding energy efficiency and made a determination as to whether it is appropriate for such State to revise such residential building code provisions to meet or exceed the revised code for which the Secretary made such determination.
 

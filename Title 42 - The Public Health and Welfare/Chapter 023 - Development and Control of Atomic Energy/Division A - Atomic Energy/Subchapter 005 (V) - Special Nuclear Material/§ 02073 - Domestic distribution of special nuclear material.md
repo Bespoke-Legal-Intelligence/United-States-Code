@@ -2,7 +2,7 @@
 
 #### (a) Licenses
 
-The Commission is authorized (i) to issue licenses to transfer or receive in interstate commerce, transfer, deliver, acquire, possess, own, receive possession of or title to, import, or export under the terms of an agreement for cooperation arranged pursuant to section 2153 of this title, special nuclear material, (ii) to make special nuclear material available for the periodof the license, and, (iii) to distribute special nuclear material within the United States to qualified applicants requesting such material—
+The Commission is authorized (i) to issue licenses to transfer or receive in interstate commerce, transfer, deliver, acquire, possess, own, receive possession of or title to, import, or export under the terms of an agreement for cooperation arranged pursuant to section 2153 of this title, special nuclear material, (ii) to make special nuclear material available for the period of the license, and, (iii) to distribute special nuclear material within the United States to qualified applicants requesting such material—
 
 &emsp;(1) for the conduct of research and development activities of the types specified in section 2051 of this title;
 
@@ -58,7 +58,7 @@ Each license issued pursuant to this section shall contain and be subject to the
 
 &emsp;(4) all special nuclear material shall be subject to the right of recapture or control reserved by section 2138 of this title and to all other provisions of this chapter;
 
-&emsp;(5) no special nuclear material may be used in any utilization or production facility exceptin accordance with the provisions of this chapter;
+&emsp;(5) no special nuclear material may be used in any utilization or production facility except in accordance with the provisions of this chapter;
 
 &emsp;(6) special nuclear material shall be distributed only on terms, as may be established by rule of the Commission, such that no user will be permitted to construct an atomic weapon;
 
@@ -101,10 +101,6 @@ Subsec. (c). Pub. L. 85–681, §2, substituted “subsections (a)(1), (2) or (4
 #### Transfer of Functions
 
 Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
-
-#### Cross References
-
-Nonprofit educational institution exempt from financial protection requirement, see section 2210 of this title.
 
 #### Section Referred to in Other Sections
 

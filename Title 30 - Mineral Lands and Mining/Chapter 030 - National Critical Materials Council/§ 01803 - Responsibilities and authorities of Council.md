@@ -20,7 +20,7 @@ It shall be the primary responsibility of the Council—
 
 &emsp;(8)(A) to prepare a report providing a domestic inventory of critical materials with projections on the prospective needs of Government and industry for these materials, including a long-range assessment, prepared in conjunction with the Office of Science and Technology Policy in accordance with the National Materials and Minerals Policy, Research and Development Act of 1980, and in conjunction with such other Government departments or agencies as may be considered necessary, of the prospective major critical materials problems which the United States is likely to confront in the immediate years ahead and providing advice as to how these problems may best be addressed, with the first such report being due on April 1, 1985, and (B) review and update such report and assessment as appropriate and report thereon to the Congress at least biennially; and
 
-&emsp;(9) to recommend to the Congress such changes in current policies, activities, andregulations of the Federal Government, and such legislation, as may be considered necessary to carry out the intent of this chapter and the National Materials and Minerals Policy, Research and Development Act of 1980.
+&emsp;(9) to recommend to the Congress such changes in current policies, activities, and regulations of the Federal Government, and such legislation, as may be considered necessary to carry out the intent of this chapter and the National Materials and Minerals Policy, Research and Development Act of 1980.
 
 #### (b) Specific authorities of Council
 

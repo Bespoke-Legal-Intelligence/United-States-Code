@@ -12,7 +12,7 @@ In order to assure (1) that the limitation on interest payments or other conditi
 
 #### (2) Rate of special allowance
 
-&emsp;(A) Subject to subparagraphs (B), (C), (D), (E), (F), (G), (H), and (I) and paragraph (4), the special allowance paid pursuant to this subsection on loans shall be computed (i) by determining the average of the bond equivalent rates of 91-day Treasury bills auctioned for such 3-month period, (ii) by subtracting the applicable interest rate on such loans from such average, (iii) by adding 3.10 percent to the resultant percent, and (iv) by dividing the resultant percent by 4. If such computation produces a number less than zero, such loans shall be subject to section 1077a(f) of this title.
+&emsp;(A) Subject to subparagraphs (B), (C), (D), (E), (F), (G), (H), and (I) and paragraph (4), the special allowance paid pursuant to this subsection on loans shall be computed (i) by determining the average of the bond equivalent rates of 91-day Treasury bills auctioned for such 3-month period, (ii) by subtracting theapplicable interest rate on such loans from such average, (iii) by adding 3.10 percent to the resultant percent, and (iv) by dividing the resultant percent by 4. If such computation produces a number less than zero, such loans shall be subject to section 1077a(f) of this title.
 
 &emsp;(B)(i) The quarterly rate of the special allowance for holders of loans which were made or purchased with funds obtained by the holder from the issuance of obligations, the income from which is exempt from taxation under title 26 shall be one-half the quarterly rate of the special allowance established under subparagraph (A), except that, in determining the rate for the purpose of this division, subparagraph (A)(iii) shall be applied by substituting “3.5 percent” for “3.10 percent”. Such rate shall also apply to holders of loans which were made or purchased with funds obtained by the holder from collections or default reimbursements on, or interests or other income pertaining to, eligible loans made or purchased with funds described in the preceding sentence of this subparagraph or from income on the investment of such funds. This subparagraph shall not apply to loans which were made or insured prior to October 1, 1980.
 
@@ -34,7 +34,7 @@ In order to assure (1) that the limitation on interest payments or other conditi
 
 &emsp;(ii) For the purpose of division (i) of this subparagraph, the term “qualified State obligation” means—
 
-&emsp;&emsp;(I) an obligation of the Maine Educational Loan Marketing Corporation to the StudentLoan Marketing Association pursuant to an agreement entered into on January 31, 1984; or
+&emsp;&emsp;(I) an obligation of the Maine Educational Loan Marketing Corporation to the Student Loan Marketing Association pursuant to an agreement entered into on January 31, 1984; or
 
 &emsp;&emsp;(II) an obligation of the South Carolina Student Loan Corporation to the South Carolina National Bank pursuant to an agreement entered into on July 30, 1986.
 
@@ -202,7 +202,7 @@ Limitation on special allowances for consolidation loans.—In the case of conso
 
 #### (7) Use of average quarterly balance
 
-&emsp;The Secretary shall permit lenders to calculate interest benefits and special allowance through the use of the average quarterly balance method until July 1, 1988.
+&emsp;The Secretary shall permit lenders to calculate interest benefits and special allowancethrough the use of the average quarterly balance method until July 1, 1988.
 
 #### (c) Origination fees from students
 
@@ -234,7 +234,7 @@ Limitation on special allowances for consolidation loans.—In the case of conso
 
 #### (6) SLS and PLUS loans
 
-&emsp;With respect to any loans made under section 1078–1 <sup>4</sup> or 1078–2 of this title on or after October 1, 1992, each eligible lender under this part shall charge the borrower an origination fee of 3.0 percent of the principal amount ofthe loan, to be deducted proportionately from each installment payment of the proceeds of the loan prior to payments to the borrower.
+&emsp;With respect to any loans made under section 1078–1 <sup>4</sup> or 1078–2 of this title on or after October 1, 1992, each eligible lender under this part shall charge the borrower an origination fee of 3.0 percent of the principal amount of the loan, to be deducted proportionately from each installment payment of the proceeds of the loan prior to payments to the borrower.
 
 #### (7) Distribution of origination fees
 
@@ -266,7 +266,7 @@ Limitation on special allowances for consolidation loans.—In the case of conso
 
 #### (2) Amount of loan fees
 
-&emsp;With respect to any loan under this part for which the first disbursement was made on or after October 1, 1993, the amount of the loan fee which shall be deducted under paragraph (1) shall be equal to 0.50 percent of the principal amount of the loan.
+&emsp;With respect to any loan under this part for which the first disbursement was made on orafter October 1, 1993, the amount of the loan fee which shall be deducted under paragraph (1) shall be equal to 0.50 percent of the principal amount of the loan.
 
 #### (3) Distribution of loan fees
 

@@ -14,7 +14,7 @@
 
 > However, an officer who was ordered to active duty (other than for training) in the grade that he holds on the retired list under former section 6150 of this title, or under any other law that authorized advancement on the retired list based upon a special commendation for the performance of duty in actual combat, may have his retired pay recomputed under this subsection on the basis of the rate of basic pay applicable to that grade upon his release from that active duty only if he has been entitled, for a continuous period of at least three years, to basic pay at that rate. If, upon his release from that active duty, he has been entitled to the basic pay of that grade for a continuous period of at least three years, but he does not qualify under the preceding sentence, he may have his retired pay recomputed under this subsection on the basis of the rate of basic pay prescribed for that grade by the rates of basic pay replaced by those in effect upon his release from that duty.
 
-(b) A member of an armed force who first became a member of a uniformed service before September 8, 1980, and who has been retired other than for physical disability, and who while on active duty incurs a physical disability of at least 30 percent for which he would otherwise be eligible for retired pay under chapter 61 of thistitle, is entitled, upon his release from active duty, to retired pay under subsection (d).
+(b) A member of an armed force who first became a member of a uniformed service before September 8, 1980, and who has been retired other than for physical disability, and who while on active duty incurs a physical disability of at least 30 percent for which he would otherwise be eligible for retired pay under chapter 61 of this title, is entitled, upon his release from active duty, to retired pay under subsection (d).
 
 (c) A member of an armed force who first became a member of a uniformed service before September 8, 1980, and who—
 
@@ -102,7 +102,7 @@ Subsec. (d). Pub. L. 99–348, §201(b)(3), struck out provision that if the amo
 
 1983—Subsec. (a). Pub. L. 98–94, §922(a)(3), substituted “according to the following table. The amount recomputed, if not a multiple of $1, shall be rounded to the next lower multiple of $1.” for “as follows:”.
 
-Pub. L. 98–94, §923(a)(1), (2)(B), in footnote 2 of table, substituted “Before applying percentage factor, credit each full month of service that is in addition to the number of full years of service creditable to the member as one-twelfth of a year and disregard any remaining fractional part of a month” for “Before applying percentage factor, credit a part of a year that is six months or more as a whole year, and disregard a part of a year that is less than six months”.
+Pub. L. 98–94, §923(a)(1), (2)(B), in footnote 2 of table, substituted “Before applying percentage factor, credit each full month of service that is in addition to thenumber of full years of service creditable to the member as one-twelfth of a year and disregard any remaining fractional part of a month” for “Before applying percentage factor, credit a part of a year that is six months or more as a whole year, and disregard a part of a year that is less than six months”.
 
 Subsec. (d). Pub. L. 98–94, §922(a)(4), substituted “according to the following table. The amount computed, if not a multiple of $1, shall be rounded to the next lower multiple of $1.” for “as follows:”.
 
@@ -220,15 +220,7 @@ Section 5(j) of Pub. L. 88–132 provided that: “A member or former member of 
 
 #### Savings Provision
 
-Section 5(<i>l</i>)(2) of Pub. L. 88–132 provided that: “Notwithstanding paragraph (1) of this subsection \[amending this section\], and unless otherwise entitled to higher retired pay or retainer pay, a member of a uniformed service who is on active duty (other than for training) on the effective date of this Act \[Oct. 1, 1963\], who was entitled to retired pay or retainer pay before he entered on that duty, and who is released from that duty on orafter the effective date of this Act after having served on that duty for a continuous period of at least one year shall, upon that release from active duty, be entitled to recompute his retired pay or retainer pay under the table in section 1402 of title 10, United States Code \[this section\], subject to section 6483(c) of title 10, as that table and that section were in effect on the day before the effective date of this Act, using rates of basic pay prescribed by this Act \[section 203 of Title 37\].”
-
-#### Cross References
-
-Exclusion of certain periods of service in recomputing retired or retainer pay, see section 205 of Title 37, Pay and Allowances of the Uniformed Services.
-
-Higher grade for later physical disability: retired officers recalled to active duty, see section 1373 of this title.
-
-Transfer to Fleet Reserve and Fleet Marine Corps Reserve, recomputation of retainer pay, see section 6330 of this title.
+Section 5(<i>l</i>)(2) of Pub. L. 88–132 provided that: “Notwithstanding paragraph (1) of this subsection \[amending this section\], and unless otherwise entitled to higher retired pay or retainer pay, a member of a uniformed service who is on active duty (other than for training) on the effective date of this Act \[Oct. 1, 1963\], who was entitled to retired pay or retainer pay before he entered on that duty, and who is released from that duty on or after the effective date of this Act after having served on that duty for a continuous period of at least one year shall, upon that release from active duty, be entitled to recompute his retired pay or retainer pay under the table in section 1402 of title 10, United States Code \[this section\], subject to section 6483(c) of title 10, as that table and that section were in effect on the day before the effective date of this Act, using rates of basic pay prescribed by this Act \[section 203 of Title 37\].”
 
 #### Section Referred to in Other Sections
 

@@ -1,6 +1,6 @@
 ### §505. Solicitor General
 
-The President shall appoint in the Department of Justice, by and with the advice and consent ofthe Senate, a Solicitor General, learned in the law, to assist the Attorney General in the performance of his duties.
+The President shall appoint in the Department of Justice, by and with the advice and consent of the Senate, a Solicitor General, learned in the law, to assist the Attorney General in the performance of his duties.
 
 (Added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 612.)
 
@@ -23,8 +23,4 @@ So much of R.S. §347 as relates to the pay of the Solicitor General is omitted 
 #### Prior Provisions
 
 A prior section 505, act June 25, 1948, ch. 646, 62 Stat. 909, related to residence of United States attorneys, prior to repeal by Pub. L. 89–554, §8(a), and reenactment in section 545 of this title by section 4(c) of Pub. L. 89–554.
-
-#### Cross References
-
-Compensation of Solicitor General, see section 5314 of Title 5, Government Organization and Employees.
 

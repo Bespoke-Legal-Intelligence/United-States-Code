@@ -4,9 +4,9 @@
 
 (b) A person violating this chapter or a regulation prescribed under this chapter is liable to the United States Government for a civil penalty of not more than $1,000. If the violation involves the operation of a vessel, the vessel also is liable in rem for the penalty.
 
-(c) When a civil penalty of not more than $200 has been assessed under this chapter, the Secretary may refer the matter of collection of the penalty directly to the United States magistrate of the jurisdiction in which the person liable may be found for collection procedures under supervision of the district court and under an order issued by the court delegating this authority under section 636(b) of title 28.
+(c) When a civil penalty of not more than $200 has been assessed under this chapter, the Secretary may refer the matter of collection of the penalty directly to the United States magistrate judge of the jurisdiction in which the person liable may be found for collection procedures under supervision of the district court and under an order issued by the court delegating this authority under section 636(b) of title 28.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 592.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 592; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
 
 Historical and Revision Notes
 
@@ -30,5 +30,5 @@ Section 12309 provides for civil and criminal penalties for violation of the ves
 
 #### Change of Name
 
-Reference to United States magistrate or to magistrate deemed to refer to United States magistrate judge pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+“United States magistrate judge” substituted for “United States magistrate” in subsec. (c) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 

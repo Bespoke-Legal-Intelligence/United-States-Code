@@ -14,7 +14,3 @@ Bill of exceptions unnecessary, Rule 37(a)(1).
 
 Rules 37 and 39 of the Federal Rules of Criminal Procedure were abrogated Dec. 4, 1967, eff. July 1, 1968, and are covered by Rule 10, Federal Rules of Appellate Procedure, set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-#### Cross References
-
-Poor persons, costs of printing transcript and record on appeal in criminal cases to be paid by United States, see sections 753 and 1915 of Title 28, Judiciary and Judicial Procedure.
-

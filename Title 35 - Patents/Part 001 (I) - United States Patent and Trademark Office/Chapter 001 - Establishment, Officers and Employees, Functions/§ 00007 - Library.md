@@ -28,7 +28,3 @@ Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see secti
 
 Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 93–596, set out as a note under section 1111 of Title 15, Commerce and Trade.
 
-#### Fees for Use of Search Rooms and Libraries Prohibited
-
-For provisions prohibiting Commissioner of Patents and Trademarks from imposing fee for use of publicpatent or trademark search rooms and libraries, and providing that costs of such rooms and libraries come from amounts appropriated by Congress, see section 4 of Pub. L. 99–607, set out as a note under section 41 of this title.
-

@@ -88,7 +88,7 @@ Section is comprised of section 602 of act June 30, 1949. Subsec. (a) of section
 
 In subsec. (c), “chapter 91 of title 31” substituted for “the Government Corporation Control Act (59 Stat. 597; 31 U.S.C. 841)” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
-In subsec. (d)(3), “chapter 137 of title 10” and “said chapter” substituted for “Armed Services ProcurementAct of 1947” and “said Act”, respectively, on authority of act Aug. 10, 1956, ch. 1041, §49(b), 70A Stat. 640, the first section of which enacted Title 10, Armed Forces. Prior to the enactment of Title 10, the Armed Services Procurement Act of 1947 (act Feb. 19, 1948, ch. 65, 62 Stat. 21, as amended) was classified principally to chapter 3 (§151 et seq.) of Title 41, Public Contracts.
+In subsec. (d)(3), “chapter 137 of title 10” and “said chapter” substituted for “Armed Services Procurement Act of 1947” and “said Act”, respectively, on authority of act Aug. 10, 1956, ch. 1041, §49(b), 70A Stat. 640, the first section of which enacted Title 10, Armed Forces. Prior to the enactment of Title 10, the Armed Services Procurement Act of 1947 (act Feb. 19, 1948, ch. 65, 62 Stat. 21, as amended) was classified principally to chapter 3 (§151 et seq.) of Title 41, Public Contracts.
 
 In subsec. (d)(4), “Department of Defense” substituted for “National Military Establishment” on authority of act Aug. 10, 1949, ch. 412, §12(a), (g), 63 Stat. 591.
 
@@ -114,7 +114,7 @@ Subsec. (d)(21). Pub. L. 96–60 added par. (21).
 
 1974—Subsec. (c). Pub. L. 93–400 substituted “inconsistent herewith, except as provided by the Office of Federal Procurement Policy Act, and except” for “inconsistent herewith, except”.
 
-1970—Subsec. (d)(15). Pub. L. 91–375 substituted “the United States Postal Service” for “the Postmaster General or the Postal Establishment with respect to the means and methods of distribution and transportation of the mails, and contracts, negotiations, and proceedings before Federal and State regulatory and rate-making bodies, relating to the transportation of the mails, and the leasing and acquisition of real property, as authorized by law”.
+1970—Subsec. (d)(15). Pub. L. 91–375 substituted “the United States Postal Service” for “the Postmaster General or the Postal Establishment with respect to the means and methods of distribution and transportation of the mails, and contracts, negotiations, and proceedings before Federal and State regulatory andrate-making bodies, relating to the transportation of the mails, and the leasing and acquisition of real property, as authorized by law”.
 
 1967—Subsec. (d)(11). Pub. L. 90–19 substituted “the Department of Housing and Urban Development or any officer thereof” for “the Housing and Home Finance Agency, or any officer or constituent agency therein,”.
 
@@ -154,7 +154,7 @@ In subsec. (d)(14), “Federal Aviation Administration” substituted for “Fed
 
 Office of Chief of Weather Bureau abolished, and Weather Bureau consolidated with Coast and Geodetic Survey to form a new agency in Department of Commerce to be known as Environmental Science Services Administration by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, set out in the Appendix to Title 5, Government Organization and Employees. Functions of Chief of Bureau and of Bureau transferred to Secretary of Commerce by the Plan.
 
-Environmental Science Services Administration abolished by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to Title 5, Government Organization and Employees, which created National Oceanic and Atmospheric Administration in Department of Commerce. By Department Organization Order 25–5A, republished 39 F.R. 27486, Secretary of Commerce delegated to NOAA his functions relating to Weather Bureau. By order of Acting Associate Administrator of NOAA, organization name of Weather Bureau changed to National WeatherService. For further details, see the Codification note under section 311 of Title 15, Commerce and Trade.
+Environmental Science Services Administration abolished by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to Title 5, Government Organization and Employees, which created National Oceanic and Atmospheric Administration in Department of Commerce. By Department Organization Order 25–5A, republished 39 F.R. 27486, Secretary of Commerce delegated to NOAA his functions relating to Weather Bureau. By order of Acting Associate Administrator of NOAA, organization name of Weather Bureau changed to National Weather Service. For further details, see the Codification note under section 311 of Title 15, Commerce and Trade.
 
 Munitions Board, together with Office of Chairman, abolished and Board's functions transferred to Secretary of Defense by Reorg. Plan No. 6 of 1953, eff. June 30, 1953, 18 F.R. 3743, set out in the Appendix to Title 5, Government Organization and Employees.
 

@@ -56,7 +56,7 @@ The limitation under subsection (a) of this section shall not apply to the follo
 
 &emsp;(J) Benefits under the Head Start Act \[42 U.S.C. 9831 et seq.\].
 
-&emsp;(K) Benefits under the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\] or title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\].
+&emsp;(K) Benefits under the <sup>3</sup> title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\].
 
 #### (d) Benefits for certain groups
 
@@ -68,10 +68,6 @@ Notwithstanding any other provision of law, the limitations under section 1611(a
 
 (Pub. L. 104–193, title IV, §403, Aug. 22, 1996, 110 Stat. 2265; Pub. L. 105–33, title V, §§5302(c)(1), 5303(c), 5306(c), 5562, 5563, Aug. 5, 1997, 111 Stat. 599, 600, 602, 638; Pub. L. 105–185, title V, §509, June 23, 1998, 112 Stat. 580; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(3)(A), (f)(3)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419, 2681–429; Pub. L. 106–78, title VII, §752(b)(6), Oct. 22, 1999, 113 Stat. 1169.)
 
-#### Amendment of Subsection (c)(2)(K)
-
-<i>Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(f)(3)(A), (g)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–429, 2681–435, provided that, effective July 1, 2000, subsection (c)(2)(K) of this section is amended by striking “Job Training Partnership Act or”.</i>
-
 #### References in Text
 
 Section 243 of such Act, referred to in subsec. (b)(1)(C), is section 243 of act June 27, 1952, which is classified to section 1253 of this title. Section 1253 of this title was amended generally by Pub. L. 104–208, div. C, title III, §307(a), Sept. 30, 1996, 110 Stat. 3009–612, and, as so amended, no longer contains a subsec. (h). For effective date of section 307 of Pub. L. 104–208, see section 309 of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
@@ -82,19 +78,17 @@ Section 1612(a)(2)(A)(i)(V) of this title, referred to in subsec. (b)(1)(E), was
 
 The Richard B. Russell National School Lunch Act, referred to in subsec. (c)(2)(C), is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
 
-The Child Nutrition Act of 1966, referred to in subsec. (c)(2)(D), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, asamended, which is classified generally to chapter 13A (§1771 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of Title 42 and Tables.
+The Child Nutrition Act of 1966, referred to in subsec. (c)(2)(D), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, as amended, which is classified generally to chapter 13A (§1771 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of Title 42 and Tables.
 
 The Social Security Act, referred to in subsec. (c)(2)(E), (F), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Parts B and E of title IV and title XIX of the Act are classified generally to parts B (§620 et seq.) and E (§670 et seq.) of subchapter IV and subchapter XIX (§1396 et seq.), respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The Higher Education Act of 1965, referred to in subsec. (c)(2)(H), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42. Titles V, IX, and X of the Act are classified generally to subchapters V (§1101 et seq.), IX (§1134 et seq.), and X (§1135 et seq.), respectively, of chapter 28 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
-The Public Health Service Act, referred to in subsec. (c)(2)(H), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Titles III, VII, and VIII of the Act are classified generally to subchapters II (§241 et seq.), V (§292 et seq.), and VI (§296 et seq.), respectively, of chapter 6A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The Public Health Service Act, referred to in subsec. (c)(2)(H), is act July 1, 1944, ch. 373, 58 Stat. 682, asamended. Titles III, VII, and VIII of the Act are classified generally to subchapters II (§241 et seq.), V (§292 et seq.), and VI (§296 et seq.), respectively, of chapter 6A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (c)(2)(I), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519, which is classified generally to chapter 70 (§6301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
 The Head Start Act, referred to in subsec. (c)(2)(J), is subchapter B (§§635–657) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, as amended, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
-
-The Job Training Partnership Act, referred to in subsec. (c)(2)(K), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
 
 The Workforce Investment Act of 1998, referred to in subsec. (c)(2)(K), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
@@ -102,7 +96,9 @@ The Workforce Investment Act of 1998, referred to in subsec. (c)(2)(K), is Pub. 
 
 1999—Subsec. (c)(2)(C). Pub. L. 106–78 substituted “Richard B. Russell National School Lunch Act” for “National School Lunch Act”.
 
-1998—Subsec. (c)(2)(K). Pub. L. 105–277, §101(f) \[title VIII, §405(d)(3)(A)\], substituted “Job Training Partnership Act or title I of the Workforce Investment Act of 1998” for “Job Training Partnership Act”.
+1998—Subsec. (c)(2)(K). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(3)(A)\], struck out “Job Training Partnership Act or” before “title I of”.
+
+Pub. L. 105–277, §101(f) \[title VIII, §405(d)(3)(A)\], substituted “Job Training Partnership Act or title I of the Workforce Investment Act of 1998” for “Job Training Partnership Act”.
 
 Subsec. (d). Pub. L. 105–185 substituted “Benefits for certain groups” for “SSI and medicaid benefits for certain Indians” in heading, designated provisions beginning “an individual” as par. (1), substituted “to—” for “to”, “(a)(3)” for “(a)(3)(A)”, and “; or” for period at end, and added par. (2).
 
@@ -141,4 +137,6 @@ This section is referred to in sections 1183a, 1612, 1614, 1622, 1631, 1645 of t
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be “subparagraph (A) or (B)”.</i>
+
+<i><sup>3</sup></i><i> So in original. The word “the” probably should not appear.</i>
 

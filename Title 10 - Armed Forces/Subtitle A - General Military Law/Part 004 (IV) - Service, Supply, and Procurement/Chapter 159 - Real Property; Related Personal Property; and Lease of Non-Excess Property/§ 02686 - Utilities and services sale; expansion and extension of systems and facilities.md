@@ -1,6 +1,6 @@
 ### §2686. Utilities and services: sale; expansion and extension of systems and facilities
 
-(a) Under such regulations and for such periods and at such prices as he may prescribe, the Secretary concerned or his designee may sell or contract to sell to purchasers within or in the immediate vicinity of an activity of the Army, Navy, Air Force, Marine Corps, or Coast Guard,as the case may be, any of the following utilities and related services, if it is determined that they are not available from another local source and that the sale is in the interest of national defense or in the public interest:
+(a) Under such regulations and for such periods and at such prices as he may prescribe, the Secretary concerned or his designee may sell or contract to sell to purchasers within or in the immediate vicinity of an activity of the Army, Navy, Air Force, Marine Corps, or Coast Guard, as the case may be, any of the following utilities and related services, if it is determined that they are not available from another local source and that the sale is in the interest of national defense or in the public interest:
 
 &emsp;(1) Electric power.
 
@@ -95,12 +95,6 @@ A prior section 2686, added Pub. L. 95–82, title V, §504(a)(1), Aug. 1, 1977,
 1959—Subsec. (a). Pub. L. 86–156, §1(1), substituted “concerned” for “of a military department” and inserted “or Coast Guard,” after “Marine Corps,”.
 
 Subsec. (c). Pub. L. 86–156, §1(2), struck out “of the military department” after “Secretary”.
-
-#### Cross References
-
-Extension telephones in naval quarters, see section 7576 of this title.
-
-Young Men's Christian Association buildings, heat and light furnished by Secretary of the Navy, see section 7580 of this title.
 
 #### Section Referred to in Other Sections
 

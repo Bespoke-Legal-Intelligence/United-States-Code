@@ -2,7 +2,7 @@
 
 #### (a) Establishment; membership; Chairman and Vice Chairman; quorum; terms of office; vacancies; per diem and expense reimbursement; meetings
 
-(1) There is established a commission to be known as the National Commission on SocialSecurity (hereinafter referred to as the “Commission”).
+(1) There is established a commission to be known as the National Commission on Social Security (hereinafter referred to as the “Commission”).
 
 (2)(A) The Commission shall consist of—
 

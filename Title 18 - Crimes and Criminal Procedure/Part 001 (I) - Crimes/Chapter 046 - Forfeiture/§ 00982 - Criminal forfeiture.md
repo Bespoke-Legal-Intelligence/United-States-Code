@@ -1,6 +1,6 @@
 ### §982. Criminal forfeiture
 
-(a)(1) The court, in imposing sentence on a person convicted of an offense in violation of section 5313(a), 5316, or 5324 of title 31, or of section 1956, 1957, or 1960 of this title, shall order that the person forfeit to the United States any property, real or personal, involved in such offense, or any property traceable to such property. However, no property shall be seized or forfeited in the case of a violation of section 5313(a) of title 31 by a domestic financial institution examined by a Federal bank supervisory agency or a financial institution regulated by the Securities and Exchange Commission or a partner, director, or employee thereof.
+(a)(1) The court, in imposing sentence on a person convicted of an offense in violation of section 5313(a), 5316, or 5324 of title 31, or of section 1956, 1957, or 1960 of this title, shall orderthat the person forfeit to the United States any property, real or personal, involved in such offense, or any property traceable to such property. However, no property shall be seized or forfeited in the case of a violation of section 5313(a) of title 31 by a domestic financial institution examined by a Federal bank supervisory agency or a financial institution regulated by the Securities and Exchange Commission or a partner, director, or employee thereof.
 
 (2) The court, in imposing sentence on a person convicted of a violation of, or a conspiracy to violate—
 
@@ -42,19 +42,17 @@
 
 > shall order that the person forfeit to the United States any property, real or personal, which represents or is traceable to the gross proceeds obtained, directly or indirectly, as a result of such violation.
 
-(6)(A) The court, in imposing sentence on a person convicted of a violation of, or conspiracy to violate, section 1425, 1426, 1427, 1541, 1542, 1543, 1544, or 1546 of this title, or a violation of, or conspiracy to violate, section 1028 of this title if committed in connection with passport or visa issuance or use, shall order that the person forfeit to the United States, regardless of any provision of State law—
+(6)(A) The court, in imposing sentence on a person convicted of a violation of, or conspiracy to violate, section 274(a), 274A(a)(1), or 274A(a)(2) of the Immigration and Nationality Act or section 1425, 1426, 1427, 1541, 1542, 1543, 1544, or 1546 of this title, or a violation of, or conspiracy to violate, section 1028 of this title if committed in connection with passport or visa issuance or use, shall order that the person forfeit to the United States, regardless of any provision of State law—
 
-&emsp;(i) any conveyance, including any vessel, vehicle, or aircraft used in the commission of a violation of, or a conspiracy to violate, subsection (a); and
+&emsp;(i) any conveyance, including any vessel, vehicle, or aircraft used in the commission of the offense of which the person is convicted; and
 
 &emsp;(ii) any property real or personal—
 
-&emsp;&emsp;(I) that constitutes, or is derived from or is traceable to the proceeds obtained directly or indirectly from the commission of a violation of, or a conspiracy to violate, subsection (a), section 274A(a)(1) or 274A(a)(2) of the Immigration and Nationality Act, or section 1028, 1425, 1426, 1427, 1541, 1542, 1543, 1544, or 1546 of this title; or
+&emsp;&emsp;(I) that constitutes, or is derived from or is traceable to the proceeds obtained directly or indirectly from the commission of the offense of which the person is convicted; or
 
-&emsp;&emsp;(II) that is used to facilitate, or is intended to be used to facilitate, the commission of a violation of, or a conspiracy to violate, subsection (a), section 274A(a)(1) or 274A(a)(2) of the Immigration and Nationality Act, or section 1028, 1425, 1426, 1427, 1541, 1542, 1543, 1544, or 1546 of this title.
+&emsp;&emsp;(II) that is used to facilitate, or is intended to be used to facilitate, the commission of the offense of which the person is convicted.
 
-> The court, in imposing sentence on such person, shall order that the person forfeit to the United States all property described in this subparagraph.
-
-(B) The criminal forfeiture of property under subparagraph (A), including any seizure and disposition of the property and any related administrative or judicial proceeding, shall be governed by the provisions of section 413 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 853), other than subsections (a) and (d) of such section 413.
+(B) The court, in imposing sentence on a person described in subparagraph (A), shall order that the person forfeit to the United States all property described in that subparagraph.
 
 (7) The court, in imposing sentence on a person convicted of a Federal health care offense, shall order the person to forfeit property, real or personal, that constitutes or is derived, directly or indirectly, from gross proceeds traceable to the commission of the offense.
 
@@ -66,15 +64,23 @@
 
 (b)(1) The forfeiture of property under this section, including any seizure and disposition of the property and any related judicial or administrative proceeding, shall be governed by the provisions of section 413 (other than subsection (d) of that section) of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 853).
 
-(2) The substitution of assets provisions of subsection 413(p) shall not be used to order a defendant to forfeit assets in place of the actual property laundered where such defendant acted merely as an intermediary who handled but didnot retain the property in the course of the money laundering offense unless the defendant, in committing the offense or offenses giving rise to the forfeiture, conducted three or more separate transactions involving a total of $100,000 or more in any twelve month period.
+(2) The substitution of assets provisions of subsection 413(p) shall not be used to order a defendant to forfeit assets in place of the actual property laundered where such defendant actedmerely as an intermediary who handled but did not retain the property in the course of the money laundering offense unless the defendant, in committing the offense or offenses giving rise to the forfeiture, conducted three or more separate transactions involving a total of $100,000 or more in any twelve month period.
 
-(Added Pub. L. 99–570, title I, §1366(a), Oct. 27, 1986, 100 Stat. 3207–39; amended Pub. L. 100–690, title VI, §§6463(c), 6464, Nov. 18, 1988, 102 Stat. 4374, 4375; Pub. L. 101–73, title IX, §963(c), Aug. 9, 1989, 103 Stat. 504; Pub. L. 101–647, title XIV, §§1401, 1403, title XXV, §2525(b), Nov. 29, 1990, 104 Stat. 4835, 4874; Pub. L. 102–393, title VI, §638(e), Oct. 6, 1992, 106 Stat. 1788; Pub. L. 102–519, title I, §104(b), Oct. 25, 1992, 106 Stat. 3385; Pub. L. 102–550, title XV, §1512(c), Oct. 28, 1992, 106 Stat. 4058; Pub. L. 103–322, title XXXIII, §330011(s)(1), Sept. 13, 1994, 108 Stat. 2145; Pub. L. 104–191, title II, §249(a), (b), Aug. 21, 1996, 110 Stat. 2020; Pub. L. 104–208, div. C, title II, §217, Sept. 30, 1996, 110 Stat. 3009–573; Pub. L. 105–184, §2, June 23, 1998, 112 Stat. 520; Pub. L. 105–318, §6(a), Oct. 30, 1998, 112 Stat. 3010.)
+(Added Pub. L. 99–570, title I, §1366(a), Oct. 27, 1986, 100 Stat. 3207–39; amended Pub. L. 100–690, title VI, §§6463(c), 6464, Nov. 18, 1988, 102 Stat. 4374, 4375; Pub. L. 101–73, title IX, §963(c), Aug. 9, 1989, 103 Stat. 504; Pub. L. 101–647, title XIV, §§1401, 1403, title XXV, §2525(b), Nov. 29, 1990, 104 Stat. 4835, 4874; Pub. L. 102–393, title VI, §638(e), Oct. 6, 1992, 106 Stat. 1788; Pub. L. 102–519, title I, §104(b), Oct. 25, 1992, 106 Stat. 3385; Pub. L. 102–550, title XV, §1512(c), Oct. 28, 1992, 106 Stat. 4058; Pub. L. 103–322, title XXXIII, §330011(s)(1), Sept. 13, 1994, 108 Stat. 2145; Pub. L. 104–191, title II, §249(a), (b), Aug. 21, 1996, 110 Stat. 2020; Pub. L. 104–208, div. C, title II, §217, Sept. 30, 1996, 110 Stat. 3009–573; Pub. L. 105–184, §2, June 23, 1998, 112 Stat. 520; Pub. L. 105–318, §6(a), Oct. 30, 1998, 112 Stat. 3010; Pub. L. 106–185, §18(b), Apr. 25, 2000, 114 Stat. 223.)
 
 #### References in Text
 
-Section 274A of the Immigration and Nationality Act, referred to in subsec. (a)(6)(A)(ii), is classified to section 1324a of Title 8, Aliens and Nationality.
+Sections 274 and 274A of the Immigration and Nationality Act, referred to in subsec. (a)(6)(A), are classified to sections 1324 and 1324a, respectively, of Title 8, Aliens and Nationality.
 
 #### Amendments
+
+2000—Subsec. (a)(6). Pub. L. 106–185, §18(b)(2), (3), designated concluding provisions of subpar. (A) as subpar. (B), substituted “The court, in imposing sentence on a person described in subparagraph (A)” for “The court, in imposing sentence on such person” and “that subparagraph” for “this subparagraph”, and struck out former subpar. (B), which read as follows: “The criminal forfeiture of property under subparagraph (A), including any seizure and disposition of the property and any related administrative or judicial proceeding, shall be governed by the provisions of section 413 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 853), other than subsections (a) and (d) of such section 413.”
+
+Subsec. (a)(6)(A). Pub. L. 106–185, §18(b)(1)(A), inserted “section 274(a), 274A(a)(1), or 274A(a)(2) of the Immigration and Nationality Act or” after “a person convicted of a violation of, or conspiracy to violate,” in introductory provisions.
+
+Subsec. (a)(6)(A)(i). Pub. L. 106–185, §18(b)(1)(B), substituted “the offense of which the person is convicted” for “a violation of, or a conspiracy to violate, subsection (a)”.
+
+Subsec. (a)(6)(A)(ii)(I), (II). Pub. L. 106–185, §18(b)(1)(C), substituted “the offense of which the person is convicted” for “a violation of, or a conspiracy to violate, subsection (a), section 274A(a)(1) or 274A(a)(2) of the Immigration and Nationality Act, or section 1028, 1425, 1426, 1427, 1541, 1542, 1543, 1544, or 1546 of this title”.
 
 1998—Subsec. (a)(6), (7). Pub. L. 105–184, §2(1)(A), which directed the amendment of subsec. (a) “by redesignating the second paragraph designated as paragraph (6) as paragraph (7)”, was executed by redesignating par. (6), relating to forfeitures for Federal health care offenses, as (7), to reflect the probable intent of Congress.
 
@@ -116,13 +122,17 @@ Subsec. (b). Pub. L. 101–73, §963(c)(2), struck out “The provisions of subs
 
 Subsec. (b). Pub. L. 100–690, §6464, substituted “(p)” for “(<i>o</i>)” in two places and inserted at end “However, the substitution of assets provisions of subsection 413(p) not be used to order a defendant to forfeit assets in place of the actual property laundered where such defendant acted merely as an intermediary who handled but did not retain the property in the course of the money laundering offense.”
 
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–185 applicable to any forfeiture proceeding commenced on or after the date that is 120 days after Apr. 25, 2000, see section 21 of Pub. L. 106–185, set out as a note under section 1324 of Title 8, Aliens and Nationality.
+
 #### Effective Date of 1994 Amendment
 
-Section 330011(s)(1) of Pub. L. 103–322 provided that the amendment made by that section is effective as of the date on which section 1401 of Pub. L. 101–647 took effect.
+Section 330011(s)(1) of Pub. L. 103–322 provided that the amendment made by that section is effective as ofthe date on which section 1401 of Pub. L. 101–647 took effect.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 12 sections 1831k, 3412; title 31 section 9703; title 42 section 1395i.
+This section is referred to in title 12 sections 1831k, 3412; title 31 section 9703.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

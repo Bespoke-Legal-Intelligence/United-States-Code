@@ -1,6 +1,6 @@
 ### §330. Compensation of officers
 
-(a)(1) After notice to the parties in interest and the United States Trustee and a hearing, and subject to sections 326, 328, and 329, the court may award to a trustee, an examiner, a professional person employed under section 327 or 1103—
+(a)(1) After notice to the parties in interest and the United States Trustee and a hearing,and subject to sections 326, 328, and 329, the court may award to a trustee, an examiner, a professional person employed under section 327 or 1103—
 
 &emsp;(A) reasonable compensation for actual, necessary services rendered by the trustee, examiner, professional person, or attorney and by any paraprofessional person employed by any such person; and
 
@@ -8,7 +8,7 @@
 
 (2) The court may, on its own motion or on the motion of the United States Trustee, the United States Trustee for the District or Region, the trustee for the estate, or any other party in interest, award compensation that is less than the amount of compensation that is requested.
 
-(3)(A) In determining the amount of reasonable compensation to be awarded, the court shall consider the nature, the extent, and the value of such services, taking into account all relevant factors, including—
+(3)(A) <sup>1</sup> In determining the amount of reasonable compensation to be awarded, the court shall consider the nature, the extent, and the value of such services, taking into account all relevant factors, including—
 
 &emsp;(A) the time spent on such services;
 
@@ -56,7 +56,7 @@
 
 I74legislative statements
 
-Section 330(a) contains the standard of compensation adopted in H.R. 8200 as passed by the House rather than the contrary standard contained in the Senate amendment. Attorneys’ fees in bankruptcy cases can be quite large and should be closely examined by the court. However bankruptcy legal services are entitled to command the same competency of counsel as other cases. In that light, the policy of this section is to compensate attorneys and other professionals serving in a case under title 11 at the same rate as the attorney or other professional would be compensated for performing comparable services other than in a case under title 11. Contrary language in the Senate report accompanying S. 2266 is rejected, and <i>Massachusetts Mutual Life Insurance Company v. Brock</i>, 405 F.2d 429, 432 (5th Cir. 1968) is overruled. Notions of economy of the estate in fixingfees are outdated and have no place in a bankruptcy code.
+Section 330(a) contains the standard of compensation adopted in H.R. 8200 as passed by the House rather than the contrary standard contained in the Senate amendment. Attorneys’ fees in bankruptcy cases can be quite large and should be closely examined by the court. However bankruptcy legal services are entitled to command the same competency of counsel as other cases. In that light, the policy of this section is to compensate attorneys and other professionals serving in a case under title 11 at the same rate as the attorney or other professional would be compensated for performing comparable services other than in a case under title 11. Contrary language in the Senate report accompanying S. 2266 is rejected, and <i>Massachusetts Mutual Life Insurance Company v. Brock</i>, 405 F.2d 429, 432 (5th Cir. 1968) is overruled. Notions of economy of the estate in fixing fees are outdated and have no place in a bankruptcy code.
 
 Section 330(a)(2) of the Senate amendment is deleted although the Securities and Exchange Commission retains a right to file an advisory report under section 1109.
 
@@ -133,4 +133,6 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 326, 331, 503, 1107, 1203 of this title; title 28 sections 586, 589a.
+
+<i><sup>1</sup></i><i> So in original.</i>
 

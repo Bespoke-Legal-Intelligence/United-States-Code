@@ -114,7 +114,7 @@ Amendment by Pub. L. 97–116 effective Dec. 29, 1981, see section 21(a) of Pub.
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–212 effective Mar. 17, 1980, and applicable to fiscal years beginning with the fiscal year beginning Oct. 1, 1979, see section 204 of Pub. L. 96–212, set out as a note under section 1101 of this title.
+Amendment by Pub. L. 96–212 effective Mar. 17, 1980, and applicable to fiscal years beginning with the fiscalyear beginning Oct. 1, 1979, see section 204 of Pub. L. 96–212, set out as a note under section 1101 of this title.
 
 #### Effective Date of 1965 Amendment
 
@@ -127,32 +127,6 @@ For purposes of carrying out this chapter, any reference in law to an order of r
 #### Sense of Congress Respecting Treatment of Cuban Political Prisoners
 
 Pub. L. 99–603, title III, §315(c), Nov. 6, 1986, 100 Stat. 3440, as amended by Pub. L. 104–208, div. C, title III, §308(g)(7)(C)(i), Sept. 30, 1996, 110 Stat. 3009–623, provided that: “It is the sense of the Congress that the Secretary of State should provide for the issuance of visas to nationals of Cuba who are or were imprisoned in Cuba for political activities without regard to section 243(d) of the Immigration and Nationality Act (8 U.S.C. 1253(d)).”
-
-#### Cross References
-
-Definition of the term—
-
-&emsp;&emsp;Adjacent islands, section 1101(b)(5) of this title.
-
-&emsp;&emsp;Alien, see section 1101(a)(3) of this title.
-
-&emsp;&emsp;Attorney General, see section 1101(a)(5) of this title.
-
-&emsp;&emsp;Consular officer, see section 1101(a)(9) of this title.
-
-&emsp;&emsp;Crewman, see section 1101(a)(10) of this title.
-
-&emsp;&emsp;Immigrant visa, see section 1101(a)(16) of this title.
-
-&emsp;&emsp;National, see section 1101(a)(21) of this title.
-
-&emsp;&emsp;Permanent, see section 1101(a)(31) of this title.
-
-&emsp;&emsp;Residence, see section 1101(a)(33) of this title.
-
-&emsp;&emsp;United States, see section 1101(a)(38) of this title.
-
-Peace Corps programs, deportation of foreign participants pursuant to provisions of this section, see section 2508 of Title 22, Foreign Relations and Intercourse.
 
 #### Section Referred to in Other Sections
 

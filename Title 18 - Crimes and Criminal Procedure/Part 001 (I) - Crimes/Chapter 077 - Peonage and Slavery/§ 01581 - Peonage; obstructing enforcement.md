@@ -1,10 +1,10 @@
 ### §1581. Peonage; obstructing enforcement
 
-(a) Whoever holds or returns any person to a condition of peonage, or arrests any person with the intent of placing him in or returning him to a condition of peonage, shall be fined under this title or imprisoned not more than 10 years, or both.
+(a) Whoever holds or returns any person to a condition of peonage, or arrests any person with the intent of placing him in or returning him to a condition of peonage, shall be fined under this title or imprisoned not more than 20 years, or both. If death results from the violation of this section, or if the violation includes kidnapping or an attempt to kidnap, aggravated sexual abuse or the attempt to commit aggravated sexual abuse, or an attempt to kill, the defendant shall be fined under this title or imprisoned for any term of years or life, or both.
 
 (b) Whoever obstructs, or attempts to obstruct, or in any way interferes with or prevents the enforcement of this section, shall be liable to the penalties prescribed in subsection (a).
 
-(June 25, 1948, ch. 645, 62 Stat. 772; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–208, div. C, title II, §218(a), Sept. 30, 1996, 110 Stat. 3009–573.)
+(June 25, 1948, ch. 645, 62 Stat. 772; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–208, div. C, title II, §218(a), Sept. 30, 1996, 110 Stat. 3009–573; Pub. L. 106–386, div. A, §112(a)(1), Oct. 28, 2000, 114 Stat. 1486.)
 
 #### Historical and Revision Notes
 
@@ -16,6 +16,8 @@ Reference to persons causing or procuring was omitted as unnecessary in view of 
 
 #### Amendments
 
+2000—Subsec. (a). Pub. L. 106–386 substituted “20 years” for “10 years” and inserted at end “If death results from the violation of this section, or if the violation includes kidnapping or an attempt to kidnap, aggravated sexual abuse or the attempt to commit aggravated sexual abuse, or an attempt to kill, the defendant shall be fined under this title or imprisoned for any term of years or life, or both.”
+
 1996—Subsec. (a). Pub. L. 104–208 substituted “10 years” for “five years”.
 
 1994—Subsec. (a). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
@@ -24,13 +26,7 @@ Reference to persons causing or procuring was omitted as unnecessary in view of 
 
 Section 218(d) of div. C of Pub. L. 104–208 provided that: “This section \[amending this section and sections 1583, 1584, and 1588 of this title and enacting provisions set out as notes under section 994 of Title 28, Judiciary and Judicial Procedure\] and the amendments made by this section shall apply with respect to offenses occurring on or after the date of the enactment of this Act \[Sept. 30, 1996\].”
 
-#### Cross References
-
-Peonage abolished in States and Territories, see section 1994 of Title 42, The Public Health and Welfare.
-
-Slavery abolished, see Const. Amend. 13.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1961 of this title; title 8 section 1101.
+This section is referred to in sections 1592, 1594, 1961 of this title; title 8 section 1101.
 

@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(B) an individual serving in the armed forces at a distant station if the President decides the advance is necessary to disburse regularly pay and allowances.
 
-(c) Before the Secretary of the Treasury acts on a requisition for an advance, the Comptroller General shall act on the requisition under section 3522 of this title. The Comptroller General does not countersign a requisition for an advance.
+(c) Before the Secretary of the Treasury acts on a requisition for an advance, the ComptrollerGeneral shall act on the requisition under section 3522 of this title. The Comptroller General does not countersign a requisition for an advance.
 
 (d) The head of an agency may pay in advance from appropriations available for the purpose—
 
@@ -98,5 +98,5 @@ Funds available for expenditure without regard to this section, see section 289c
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 781, 3726 of this title; title 2 sections 68e, 95c, 475; title 5 sections 3381, 4109, 5923, 5924; title 7 sections 427i, 1624, 3318; title 8 section 1363a; title 10 sections 2013, 2127, 2371, 2388, 2852, 6154, 18239; title 12 sections 1701c, 1701z–2, 3012; title 15 sections 196, 634, 2056, 2451, 2609, 2626; title 16 sections 460<i>l</i>–1, 565a–1, 581i–1, 1645, 2107; title 18 sections 4109, 4204; title 19 sections 2076, 2080, 2081; title 20 sections 959, 2012, 2106, 4414, 4513, 5708; title 21 sections 360j, 360ii; title 22 sections 287e–1, 289c, 294, 2103, 2179; title 25 sections 3115, 3733; title 26 section 7608; title 28 section 995; title 29 section 1774; title 33 section 1254; title 37 section 1006; title 38 sections 7613, 7673; title 40 section 462; title 42 sections 242m, 254<i>l</i>, 285a–2, 285b–3, 285n, 299c–3, 300c–22, 300u, 300cc–41, 1870, 2473, 3105, 4101, 4372, 7403, 7404; title 49 section 44505; title 50 sections 491, 502, 522; title 50 App. section 1918.
+This section is referred to in sections 781, 3726 of this title; title 2 sections 68e, 95c, 475; title 5 sections 3381, 4109, 5923, 5924; title 7 sections 427i, 1624, 3318; title 8 section 1363a; title 10 sections 2013, 2127, 2371, 2388, 2852, 6154, 18239; title 12 sections 1701c, 1701z–2, 3012; title 15 sections 196, 634, 2056, 2451, 2609, 2626; title 16 sections 460<i>l</i>–1, 565a–1, 581i–1, 1645, 2107; title 18 sections 4109, 4204; title 19 sections 2076, 2080, 2081; title 20 sections 959, 2012, 2106, 4414, 4513, 5708; title 21 sections 360j, 360ii; title 22 sections 287e–1, 289c, 294, 2103, 2179; title 25 sections 3115, 3733; title 26 section 7608; title 28 section 995; title 33 section 1254; title 37 section 1006; title 38 sections 7613, 7673; title 40 section 462; title 42 sections 242m, 254<i>l</i>, 285a–2, 285b–3, 285n, 299c–4, 300c–22, 300u, 300cc–41, 1870, 2473, 3105, 4101, 4372, 7403, 7404; title 49 section 44505; title 50 sections 491, 502, 522; title 50 App. section 1918.
 

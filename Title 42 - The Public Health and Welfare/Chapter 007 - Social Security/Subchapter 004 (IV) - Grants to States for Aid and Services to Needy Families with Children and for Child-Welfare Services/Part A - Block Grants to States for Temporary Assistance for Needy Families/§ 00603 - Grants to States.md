@@ -272,7 +272,7 @@
 
 #### (i) Entitlement
 
-&emsp;&emsp;&emsp;A State shall be entitled to receive from the Secretary of Labor a grant for each fiscal year specified in subparagraph (I) of this paragraph for which the State is a welfare-to-work State, in an amount that does not exceed the lesser of—
+&emsp;&emsp;&emsp;A State shall be entitled to receive from the Secretary of Labor a grant for each fiscal year specified in subparagraph (H) of this paragraph for which the State is a welfare-to-work State, in an amount that does not exceed the lesser of—
 
 &emsp;&emsp;&emsp;&emsp;(I) 2 times the total of the expenditures by the State (excluding qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title) and any expenditure described in subclause (I), (II), or (IV) of section 609(a)(7)(B)(iv) of this title) during the period permitted under subparagraph (C)(vii) of this paragraph for the expenditure of funds under the grant for activities described in subparagraph (C)(i) of this paragraph; or
 
@@ -294,7 +294,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(ee) if the Governor of the State desires to have an agency other than a private industry council administer the funds provided under this subparagraph for the benefit of 1 or more service delivery areas in the State, contains an application to the Secretary of Labor for a waiver of clause (vii)(I) with respect to the area or areas in order to permit an alternate agency designated by the Governor to so administer the funds; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(ff) describes how the State will ensure that a private industry council to which information is disclosed pursuant to section 603(a)(5)(K) or 654A(f)(5) of this title has procedures for safeguarding the information and for ensuring that the information is used solely for the purpose described in that section.
+&emsp;&emsp;&emsp;&emsp;&emsp;(ff) describes how the State will ensure that a private industry council to which information is disclosed pursuant to section 603(a)(5)(K) <sup>1</sup> or 654A(f)(5) of this title has procedures for safeguarding the information and for ensuring that the information is used solely for the purpose described in that section.
 
 &emsp;&emsp;&emsp;&emsp;(II) The State has provided to the Secretary of Labor an estimate of the amount that the State intends to expend during the period permitted under subparagraph (C)(vii) of this paragraph for the expenditure of funds under the grant (excluding expenditures described in section 609(a)(7)(B)(iv) of this title (other than subclause (III) thereof)) pursuant to this paragraph.
 
@@ -324,9 +324,9 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) 75 percent of the sum of—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the amount specified in subparagraph (I) for the fiscal year, minus the total of the amounts reserved pursuant to subparagraphs (E), (F), (G), and (H) for the fiscal year; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the amount specified in subparagraph (H) for the fiscal year, minus the total of the amounts reserved pursuant to subparagraphs (E), (F), and (G) for the fiscal year; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) any amount reserved pursuant to subparagraph (F) for the immediately preceding fiscal year that has not been obligated; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) any amount reserved pursuant to subparagraph (E) for the immediately preceding fiscal year that has not been obligated; and
 
 &emsp;&emsp;&emsp;&emsp;(II) any available amount for the immediately preceding fiscal year that has not been obligated by a State, other than funds reserved by the State for distribution under clause (vi)(III) and funds distributed pursuant to clause (vi)(I) in any State in which the service delivery area is the State.
 
@@ -346,9 +346,9 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) determines the amount to be allocated for the benefit of a service delivery area in proportion to the number (if any) by which the population of the area with an income that is less than the poverty line exceeds 7.5 percent of the total population of the area, relative to such number for all such areas in the State with such an excess, and accords a weight of not less than 50 percent to this factor;
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) may determine the amount to be allocated for the benefit of such an area in proportion to the number of adults residing in the area who have been recipients of assistance under the State program funded under this part (whether in effect before or after the amendments made by section 103(a) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 first applied to the State) for at least 30 months (whether or not consecutive) relative to the number of such adults residing in the State; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) may determine the amount to be allocated for the benefit of such an area in proportion to the number of adults residing in the area who have been recipients of assistance under the State program funded under this part (whether in effect before or after the amendments made by section 103(a) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 first applied to the State) for at least30 months (whether or not consecutive) relative to the number of such adults residing in the State; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(cc) may determine the amount to be allocated for the benefit of such anarea in proportion to the number of unemployed individuals residing in the area relative to the number of such individuals residing in the State.
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) may determine the amount to be allocated for the benefit of such an area in proportion to the number of unemployed individuals residing in the area relative to the number of such individuals residing in the State.
 
 #### (II) Distribution of funds
 
@@ -368,7 +368,7 @@
 
 #### (I) Private industry councils
 
-&emsp;&emsp;&emsp;&emsp;The private industry council for a service delivery area in a State shall have sole authority, in coordination with the chief elected official (as described in section 103(c) of the Job Training Partnership Act \[29 U.S.C. 1513(c)\] or defined in section 101 of the Workforce Investment Act of 1998 \[29 U.S.C. 2801\]) of the area, to expend the amounts distributed under clause (vi)(II)(aa) for the benefit of the service delivery area, in accordance with the assurances described in clause (ii)(I)(dd) provided by the Governor of the State.
+&emsp;&emsp;&emsp;&emsp;The private industry council for a service delivery area in a State shall have sole authority, in coordination with the chief elected official (as defined in section 101 of the Workforce Investment Act of 1998 \[29 U.S.C. 2801\]) of the area, to expend the amounts distributed under clause (vi)(II)(aa) for the benefit of the service delivery area, in accordance with the assurances described in clause (ii)(I)(dd) provided by the Governor of the State.
 
 #### (II) Enforcement of coordination of expenditures with other expenditures under this part
 
@@ -430,13 +430,13 @@
 
 #### (v) Funding
 
-&emsp;&emsp;&emsp;For grants under this subparagraph for each fiscal year specified in subparagraph (I), there shall be available to the Secretary of Labor an amount equal to the sum of—
+&emsp;&emsp;&emsp;For grants under this subparagraph for each fiscal year specified in subparagraph (H), there shall be available to the Secretary of Labor an amount equal to the sum of—
 
 &emsp;&emsp;&emsp;&emsp;(I) 25 percent of the sum of—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the amount specified in subparagraph (I) for the fiscal year, minus the total of the amounts reserved pursuant to subparagraphs (E), (F), (G), and (H) for the fiscal year; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the amount specified in subparagraph (H) for the fiscal year, minus the total of the amounts reserved pursuant to subparagraphs (E), (F), and (G) for the fiscal year; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) any amount reserved pursuant to subparagraph (F) for the immediately preceding fiscal year that has not been obligated; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) any amount reserved pursuant to subparagraph (E) for the immediately preceding fiscal year that has not been obligated; and
 
 &emsp;&emsp;&emsp;&emsp;(II) any amount available for grants under this subparagraph for the immediately preceding fiscal year that has not been obligated.
 
@@ -540,7 +540,7 @@
 
 #### (viii) Deadline for expenditure
 
-&emsp;&emsp;&emsp;An entity to which funds are provided under this paragraph shall remit to the Secretary of Labor any part of the funds that are not expended within 3 years after the date the funds are so provided.
+&emsp;&emsp;&emsp;An entity to which funds are provided under this paragraph shall remit to the Secretary of Labor any part of the funds that are not expended within 5 years after the date the funds are so provided.
 
 #### (ix) Regulations
 
@@ -562,71 +562,25 @@
 
 #### (ii) Private industry council
 
-&emsp;&emsp;&emsp;As used in this paragraph, the term “private industry council” means, with respect to a service delivery area, the private industry council or local workforce investment board established for the service delivery area pursuant to the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\] or title I of the Workforce Investment Area <sup>1</sup> of 1998 \[29 U.S.C. 2801 et seq.\], as appropriate.
+&emsp;&emsp;&emsp;As used in this paragraph, the term “private industry council” means, with respect to a service delivery area, the private industry council or local workforce investment board established for the service delivery area pursuant to title I of the Workforce Investment Area <sup>2</sup> of 1998 \[29 U.S.C. 2801 et seq.\], as appropriate.
 
 #### (iii) Service delivery area
 
-&emsp;&emsp;&emsp;As used in this paragraph, the term “service delivery area” shall have the meaning given such term for purposes of the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\] or shall mean a local area as defined in section 101 of the Workforce Investment Act of 1998 \[29 U.S.C. 2801\], as appropriate.
+&emsp;&emsp;&emsp;As used in this paragraph, the term “service delivery area” shall have the meaning given such term for purposes of the Job Training Partnership Act or.<sup>3</sup>
 
-#### (E) Set-aside for successful performance bonus
+#### (E) Funding for Indian tribes
 
-#### (i) In general
+&emsp;&emsp;1 percent of the amount specified in subparagraph (H) for fiscal year 1998 and $15,000,000 of the amount so specified for fiscal year 1999 shall be reserved for grants to Indian tribes under section 612(a)(3) of this title.
 
-&emsp;&emsp;&emsp;The Secretary of Labor shall award a grant in accordance with this subparagraph to each successful performance State in fiscal year 2000, but shall not make any outlay to pay any such grant before October 1, 2000.
+#### (F) Funding for evaluations of welfare-to-work programs
 
-#### (ii) Amount of grant
+&emsp;&emsp;0\.6 percent of the amount specified in subparagraph (H) for fiscal year 1998 and $9,000,000 of the amount so specified for fiscal year 1999 shall be reserved for use by the Secretary to carry out section 613(j) of this title.
 
-&emsp;&emsp;&emsp;The Secretary of Labor shall determine the amount of the grant payable underthis subparagraph to a successful performance State, which shall be based on the score assigned to the State under clause (iv)(I)(aa) for such prior period as the Secretary of Labor deems appropriate.
-
-#### (iii) Formula for measuring State performance
-
-&emsp;&emsp;&emsp;Not later than 1 year after August 5, 1997, the Secretary of Labor, in consultation with the Secretary of Health and Human Services, the National Governors’ Association, and the American Public Welfare Association, shall develop a formula for measuring—
-
-&emsp;&emsp;&emsp;&emsp;(I) the success of States in placing individuals in private sector employment or in any kind of employment, through programs operated with funds provided under subparagraph (A);
-
-&emsp;&emsp;&emsp;&emsp;(II) the duration of such placements;
-
-&emsp;&emsp;&emsp;&emsp;(III) any increase in the earnings of such individuals; and
-
-&emsp;&emsp;&emsp;&emsp;(IV) such other factors as the Secretary of Labor deems appropriate concerning the activities of the States with respect to such individuals.
-
-&emsp;&emsp;&nbsp;The formula may take into account general economic conditions on a State-by-State basis.
-
-#### (iv) Scoring of State performance; setting of performance thresholds
-
-#### (I) In general
-
-&emsp;&emsp;&emsp;&emsp;The Secretary of Labor shall—
-
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) use the formula developed under clause (iii) to assign a score to each State that was a welfare-to-work State for fiscal years 1998 and 1999; and
-
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) prescribe a performance threshold in such a manner so as to ensure that the total amount of grants to be made under this paragraph equals $50,000,000.
-
-#### (II) Availability of welfare-to-work data submitted to the Secretary of HHS
-
-&emsp;&emsp;&emsp;&emsp;The Secretary of Health and Human Services shall provide the Secretary of Labor with the data reported by States under this part with respect to programs operated with funds provided under subparagraph (A).
-
-#### (v) “Successful performance State” defined
-
-&emsp;&emsp;&emsp;As used in this subparagraph, the term “successful performance State” means a State whose score assigned pursuant to clause (iv)(I)(aa) equals or exceeds the performance threshold prescribed under clause (iv)(I)(bb).
-
-#### (vi) Set-aside
-
-&emsp;&emsp;&emsp;$50,000,000 of the amount specified in subparagraph (I) for fiscal year 1999 shall be reserved for grants under this subparagraph.
-
-#### (F) Funding for Indian tribes
-
-&emsp;&emsp;1 percent of the amount specified in subparagraph (I) for fiscal year 1998 and $1,500,000 of the amount so specified for fiscal year 1999 shall be reserved for grants to Indian tribes under section 612(a)(3) of this title.
-
-#### (G) Funding for evaluations of welfare-to-work programs
-
-&emsp;&emsp;0\.6 percent of the amount specified in subparagraph (I) for fiscal year 1998 and $900,000 of the amount so specified for fiscal year 1999 shall be reserved for use by the Secretary to carry out section 613(j) of this title.
-
-#### (H) Funding for evaluation of abstinence education programs
+#### (G) Funding for evaluation of abstinence education programs
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;0\.2 percent of the amount specified in subparagraph (I) for fiscal year 1998 and $300,000 of the amount so specified for fiscal year 1999 shall be reserved for use by the Secretary to evaluate programs under section 710 of this title, directly or through grants, contracts, or interagency agreements.
+&emsp;&emsp;&emsp;0\.2 percent of the amount specified in subparagraph (H) for fiscal year 1998 and $3,000,000 of the amount so specified for fiscal year 1999 shall be reserved for use by the Secretary to evaluate programs under section 710 of this title, directly or through grants, contracts, or interagency agreements.
 
 #### (ii) Authority to use funds for evaluations of welfare-to-work programs
 
@@ -634,9 +588,13 @@
 
 #### (iii) Deadline for outlays
 
-&emsp;&emsp;&emsp;Outlays from funds used pursuant to clause (i) for evaluation of programs under section 710 of this title shall not be made after fiscal year 2001.
+&emsp;&emsp;&emsp;Outlays from funds used pursuant to clause (i) for evaluation of programs under section 710 of this title shall not be made after fiscal year 2005.
 
-#### (I) Appropriations
+#### (iv) Interim report
+
+&emsp;&emsp;&emsp;Not later than January 1, 2002, the Secretary shall submit to the Congress an interim report on the evaluations referred to in clause (i).
+
+#### (H) Appropriations
 
 #### (i) In general
 
@@ -644,13 +602,13 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) $1,500,000,000 for fiscal year 1998; and
 
-&emsp;&emsp;&emsp;&emsp;(II) $1,450,000,000 for fiscal year 1999.
+&emsp;&emsp;&emsp;&emsp;(II) $1,400,000,000 for fiscal year 1999.
 
 #### (ii) Availability
 
 &emsp;&emsp;&emsp;The amounts made available pursuant to clause (i) shall remain available for such period as is necessary to make the grants provided for in this paragraph.
 
-#### (J) Worker protections
+#### (I) Worker protections
 
 #### (i) Nondisplacement in work activities
 
@@ -720,7 +678,7 @@
 
 &emsp;&emsp;&emsp;The provisions of this subparagraph shall not be construed to preempt any provision of State law that affords greater protections to employees or to other participants engaged in work activities under a program funded under this part than is afforded by such provisions of this subparagraph.
 
-#### (K) Information disclosure
+#### (J) Information disclosure
 
 &emsp;&emsp;If a State to which a grant is made under this section establishes safeguards against the use or disclosure of information about applicants or recipients of assistance under the State program funded under this part, the safeguards shall not prevent the State agency administering the program from furnishing to a private industry council the names, addresses, telephone numbers, and identifying case number information in the State program funded under this part, of noncustodial parents residing in the service delivery area of the private industry council, for the purpose of identifying and contacting noncustodial parents regarding participation in the program under this paragraph.
 
@@ -856,23 +814,13 @@
 
 &emsp;The Secretary shall annually report to the Congress on the status of the Fund.
 
-(Aug. 14, 1935, ch. 531, title IV, §403, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2115; amended Pub. L. 104–327, §1(b), Oct. 19, 1996, 110 Stat. 4002; Pub. L. 105–33, title V, §§5001(a)(1), 5502, 5514(c), Aug. 5, 1997, 111 Stat. 577, 606, 620; Pub. L. 105–78, title VI, §608, Nov. 13, 1997, 111 Stat. 1522; Pub. L. 105–89, title IV, §404(a), (b), Nov. 19, 1997, 111 Stat. 2134; Pub. L. 105–200, title IV, §408, July 16, 1998, 112 Stat. 672; Pub. L. 105–277, div. A, §101(f) \[title I, §102, title VIII, §405(d)(30), (f)(22)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–346, 2681–425, 2681–432; Pub. L. 105–306, §6(a), Oct. 28, 1998, 112 Stat. 2928; Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §§801(a), (b)(1), (c), 802, 803, 804(b), 805(a)(2), (b), 806\], Nov. 29, 1999, 113 Stat. 1535, 1501A–280, 1501A–281, 1501A–283 to 1501A–286.)
-
-#### Amendment of Subsection (a)(5)
-
-<i>Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(f)(22), (g)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–432, 2681–435, provided that, effective July 1, 2000, subsection (a)(5) of this section is amended as follows:</i>
-
-<i>(1) in subparagraph (A)(vii)(I), by striking “described in section 103(c) of the Job Training Partnership Act or”; and</i>
-
-<i>(2) in subparagraph (D)—</i>
-
-<i>(A) in clause (ii), by striking “the Job Training Partnership Act or”; and</i>
-
-<i>(B) in clause (iii), by striking “shall mean a local area as defined in section 101 of the Workforce Investment Act of 1998, as appropriate”.</i>
+(Aug. 14, 1935, ch. 531, title IV, §403, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2115; amended Pub. L. 104–327, §1(b), Oct. 19, 1996, 110 Stat. 4002; Pub. L. 105–33, title V, §§5001(a)(1), 5502, 5514(c), Aug. 5, 1997, 111 Stat. 577, 606, 620; Pub. L. 105–78, title VI, §608, Nov. 13, 1997, 111 Stat. 1522; Pub. L. 105–89, title IV, §404(a), (b), Nov. 19, 1997, 111 Stat. 2134; Pub. L. 105–200, title IV, §408, July 16, 1998, 112 Stat. 672; Pub. L. 105–277, div. A, §101(f) \[title I, §102, title VIII, §405(d)(30), (f)(22)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–346, 2681–425, 2681–432; Pub. L. 105–306, §6(a), Oct. 28, 1998, 112 Stat. 2928; Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §§801(a), (b)(1), (c), 802, 803, 804(b), 805(a)(2), (b), 806\], Nov. 29, 1999, 113 Stat. 1535, 1501A–280, 1501A–281, 1501A–283 to 1501A–286; Pub. L. 106–246, div. B, title II, §2402, July 13, 2000, 114 Stat. 555; Pub. L. 106–554, §1(a)(1) \[title I, §§103, 107(a)–(b)(4), (c), title V, §513\], Dec. 21, 2000, 114 Stat. 2763, 2763A–11, 2763A–12, 2763A–71.)
 
 #### References in Text
 
 Part F of this subchapter, referred to in subsec. (a)(1)(B)(iii), (C)(i)(V), was classified to section 681 et seq. of this title, prior to repeal by Pub. L. 104–193, title I, §108(e), Aug. 22, 1996, 110 Stat. 2167.
+
+Section 603(a)(5)(K) of this title, referred to in subsec. (a)(5)(A)(ii)(I)(ff), was redesignated as section 603(a)(5)(J) by Pub. L. 106–554, §1(a)(1) \[title I, §107(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–12.
 
 Section 103 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, referred to in subsec. (a)(5)(A)(vi)(I)(bb), (III), (C)(ii)(I), is section 103 of Pub. L. 104–193, which enacted this part, amended sections 602, 603, and 1308 of this title, and repealed provisions formerly set out as this part. For complete classification of section 103 to the Code, see Tables.
 
@@ -880,21 +828,53 @@ The Food Stamp Act of 1977, referred to in subsec. (a)(5)(C)(iii)(II)(dd), is Pu
 
 Parts D and E of this subchapter, referred to in subsec. (a)(5)(C)(iii)(III), (iv)(II)(bb), are classified to sections 651 et seq. and 670 et seq., respectively, of this title.
 
-The Job Training Partnership Act, referred to in subsec. (a)(5)(D)(ii), (iii), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
+The Job Training Partnership Act, referred to in subsec. (a)(5)(D)(iii), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which was classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor, prior to repeal by Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. For complete classification of this Act to the Code, see Tables.
 
-The Workforce Investment Act of 1998, referred to in subsec. (a)(5)(D)(ii), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified generally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+The Workforce Investment Act of 1998, referred to in subsec. (a)(5)(D)(ii), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
 Titles IV and VIII of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, referred to in subsec. (b)(5)(B), are titles IV (§400 et seq.) and VIII (§801 et seq.) of Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2260, 2308. For complete classification of these titles to the Code, see Tables.
 
 #### Prior Provisions
 
-A prior section 603, acts Aug. 14, 1935, ch. 531, title IV, §403, 49 Stat. 628; Aug. 10, 1939, ch. 666, title IV, §402, 53 Stat. 1380; Aug. 10, 1946, ch. 951, title V, §502, 60 Stat. 992; June 14, 1948, ch. 468, §3(b), 62 Stat. 439; Aug. 28, 1950, ch. 809, title III, pt. 2, §322(a), pt. 6, §361(c), (d), 64 Stat. 550, 558; July 18, 1952, ch. 945, §8(b), 66 Stat. 778; Sept. 1, 1954, ch. 1206, title III, §303(a), 68 Stat. 1097; Aug. 1, 1956, ch. 836, title III, §§302, 312(c), 342, 351(a), 70 Stat. 847, 849, 852, 854; Aug. 28, 1958, Pub. L. 85–840, title V, §502, 72 Stat. 1048; July 25, 1962, Pub. L. 87–543, title I, §§101(a)(2), (b)(2)(A)–(C), 104(a)(3)(C), 108(b), (c), 76 Stat. 174, 180, 185, 190; July 30, 1965, Pub. L. 89–97, title I, §122, title IV, §401(c), 79 Stat. 353, 415; Jan. 2, 1968, Pub. L. 90–248, title II, §§201(c)–(e)(3), 205(b), 206(a), 207(b), 208, 241(b)(2), (3), 81 Stat. 879, 880, 892–894, 916; June 28, 1968, Pub. L. 90–364, title III, §301, 82 Stat. 273;July 9, 1969, Pub. L. 91–41, §3, 83 Stat. 45; Dec. 28, 1971, Pub. L. 92–223, §3(a)(8), (9), 85 Stat. 805; Oct. 20, 1972, Pub. L. 92–512, title III, §301(b)–(d), 86 Stat. 946, 947; Oct. 30, 1972, Pub. L. 92–603, title II, §§299E(d), 299F, 86 Stat. 1462, 1463; Jan. 4, 1975, Pub. L. 93–647, §§3(a)(3), (4), (e)(2), 5(b), 101(c)(6)(A), 88 Stat. 2348–2350, 2360; Aug. 9, 1975, Pub. L. 94–88, title II, §204, 89 Stat. 435; Nov. 12, 1977, Pub. L. 95–171, §3(a)(1), 91 Stat. 1354; Dec. 20, 1977, Pub. L. 95–216, title IV, §§401, 402(a), 91 Stat. 1559, 1560; June 9, 1980, Pub. L. 96–265, title IV, §§401(g), (h), 406(a), 407(c), 94 Stat. 462, 465, 467; Aug. 13, 1981, Pub. L. 97–35, title XXI, §§2181(a)(1), 2184(b)(1), title XXIII, §§2307(b), 2315(b), 2317(a), 2319(a)–(c), 2353(b)(1), (d), 95 Stat. 815, 817, 848, 855–857, 872; Sept. 3, 1982, Pub. L. 97–248, title I, §§154(b), 156(a)–(c), 157(a), 96 Stat. 397–399; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2663(c)(2), (j)(2)(B)(i), (3)(B)(i), 98 Stat. 1166, 1170, 1171; Aug. 16, 1984, Pub. L. 98–378, §9(b), 98 Stat. 1316; Nov. 6, 1986, Pub. L. 99–603, title I, §121(b)(1), 100 Stat. 3390; Dec. 22, 1987, Pub. L. 100–203, title IX, §9102(c), 101 Stat. 1330–300; Oct. 13, 1988, Pub. L. 100–485, title II, §§201(c), (d), 202(b)(4)–(6), 204(b)(2), title III, §§302(b)(2), 304(b)(2), title VI, §§601(c)(1), 606, 609(a), 102 Stat. 2372, 2377, 2381, 2384, 2393, 2407, 2410, 2424; Dec. 19, 1989, Pub. L. 101–239, title VIII, §8004(b), 103 Stat. 2460; Nov. 5, 1990, Pub. L. 101–508, title V, §5081(b), 104 Stat. 1388–235; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13741(a), 107 Stat. 663; July 27, 1995, Pub. L. 104–19, title I, 109 Stat. 215; Apr. 26, 1996, Pub. L. 104–134, title III, 110 Stat. 1321–355; Aug. 22, 1996, Pub. L. 104–193, title I, §103(c)(2)(B), 110 Stat. 2161; June 12, 1997, Pub. L. 105–18, title II, 111 Stat. 204, related to payments to States with approved plans for aid and services to needy families with children, prior to repeal by Pub. L. 104–193, §103(a)(1), as amended by Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620, effective July 1, 1997.
+A prior section 603, acts Aug. 14, 1935, ch. 531, title IV, §403, 49 Stat. 628; Aug. 10, 1939, ch. 666, title IV, §402, 53 Stat. 1380; Aug. 10, 1946, ch. 951, title V, §502, 60 Stat. 992; June 14, 1948, ch. 468, §3(b), 62 Stat. 439; Aug. 28, 1950, ch. 809, title III, pt. 2, §322(a), pt. 6, §361(c), (d), 64 Stat. 550, 558; July 18, 1952, ch. 945, §8(b), 66 Stat. 778; Sept. 1, 1954, ch. 1206, title III, §303(a), 68 Stat. 1097; Aug. 1, 1956, ch. 836, title III, §§302, 312(c), 342, 351(a), 70 Stat. 847, 849, 852, 854; Aug. 28, 1958, Pub. L. 85–840, title V, §502, 72 Stat. 1048; July 25, 1962, Pub. L. 87–543, title I, §§101(a)(2), (b)(2)(A)–(C), 104(a)(3)(C), 108(b), (c), 76 Stat. 174, 180, 185, 190; July 30, 1965, Pub. L. 89–97, title I, §122, title IV, §401(c), 79 Stat. 353, 415; Jan. 2, 1968, Pub. L. 90–248, title II, §§201(c)–(e)(3), 205(b), 206(a), 207(b), 208, 241(b)(2), (3), 81 Stat. 879, 880, 892–894, 916; June 28, 1968, Pub. L. 90–364, title III, §301, 82 Stat. 273; July 9, 1969, Pub. L. 91–41, §3, 83 Stat. 45; Dec. 28, 1971, Pub. L. 92–223, §3(a)(8), (9), 85 Stat. 805; Oct. 20, 1972, Pub. L. 92–512, title III, §301(b)–(d), 86 Stat. 946, 947; Oct. 30, 1972, Pub. L. 92–603, title II, §§299E(d), 299F, 86 Stat. 1462, 1463; Jan. 4, 1975, Pub. L. 93–647, §§3(a)(3), (4), (e)(2), 5(b), 101(c)(6)(A), 88 Stat. 2348–2350, 2360; Aug. 9, 1975, Pub. L. 94–88, title II, §204, 89 Stat. 435; Nov. 12, 1977, Pub. L. 95–171, §3(a)(1), 91 Stat. 1354; Dec. 20, 1977, Pub. L. 95–216, title IV, §§401, 402(a), 91 Stat. 1559, 1560; June 9, 1980, Pub. L. 96–265, title IV, §§401(g), (h), 406(a), 407(c), 94 Stat. 462, 465, 467; Aug. 13, 1981, Pub. L. 97–35, title XXI, §§2181(a)(1), 2184(b)(1), title XXIII, §§2307(b), 2315(b), 2317(a), 2319(a)–(c), 2353(b)(1), (d), 95 Stat. 815, 817, 848, 855–857, 872; Sept. 3, 1982, Pub. L. 97–248, title I, §§154(b), 156(a)–(c), 157(a), 96 Stat. 397–399; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2663(c)(2), (j)(2)(B)(i), (3)(B)(i), 98 Stat. 1166, 1170, 1171; Aug. 16, 1984, Pub. L. 98–378, §9(b), 98 Stat. 1316; Nov. 6, 1986, Pub. L. 99–603, title I, §121(b)(1), 100 Stat. 3390; Dec. 22, 1987, Pub. L. 100–203, title IX, §9102(c), 101 Stat. 1330–300; Oct. 13, 1988, Pub. L. 100–485, title II, §§201(c), (d), 202(b)(4)–(6), 204(b)(2), title III, §§302(b)(2), 304(b)(2), title VI, §§601(c)(1), 606, 609(a), 102 Stat. 2372, 2377, 2381, 2384, 2393, 2407, 2410, 2424; Dec. 19, 1989, Pub. L. 101–239, title VIII, §8004(b), 103 Stat. 2460; Nov. 5, 1990, Pub. L. 101–508, title V, §5081(b), 104 Stat. 1388–235; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13741(a), 107 Stat. 663; July 27, 1995, Pub. L. 104–19, title I, 109 Stat. 215; Apr. 26, 1996, Pub. L. 104–134, title III, 110 Stat. 1321–355; Aug. 22, 1996, Pub. L. 104–193, title I, §103(c)(2)(B), 110 Stat. 2161; June 12, 1997, Pub. L. 105–18, title II, 111 Stat. 204, related to payments to States with approved plans for aid and services to needy families with children, prior to repeal by Pub. L. 104–193, §103(a)(1), as amended by Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620, effective July 1, 1997.
 
 #### Amendments
 
+2000—Subsec. (a)(5)(A)(i). Pub. L. 106–554, §1(a)(1) \[title I, §107(b)(1)\], substituted “subparagraph (H)” for “subparagraph (I)” in introductory provisions.
+
+Subsec. (a)(5)(A)(iv)(I)(aa). Pub. L. 106–554, §1(a)(1) \[title I, §107(b)(2)(A)\], substituted “(H)” for “(I)” and “and (G)” for “(G), and (H)”.
+
+Subsec. (a)(5)(A)(iv)(I)(bb). Pub. L. 106–554, §1(a)(1) \[title I, §107(b)(2)(B)\], substituted “subparagraph (E)” for “subparagraph (F)”.
+
+Subsec. (a)(5)(B)(v). Pub. L. 106–554, §1(a)(1) \[title I, §107(b)(3)\], substituted “subparagraph (H)” for “subparagraph (I) ” in introductory provisions.
+
+Subsec. (a)(5)(B)(v)(I)(aa). Pub. L. 106–554, §1(a)(1) \[title I, §107(b)(2)(A)\], substituted “(H)” for “(I)” and “and (G)” for “(G), and (H)”.
+
+Subsec. (a)(5)(B)(v)(I)(bb). Pub. L. 106–554, §1(a)(1) \[title I, §107(b)(2)(B)\], substituted “subparagraph (E)” for “subparagraph (F)”.
+
+Subsec. (a)(5)(C)(viii). Pub. L. 106–554, §1(a)(1) \[title I, §103)\], substituted “5 years” for “3 years”.
+
+Subsec. (a)(5)(E). Pub. L. 106–554, §1(a)(1) \[title I, §107(a), (b)(4)\], redesignated subpar. (F) as (E), substituted “subparagraph (H)” for “subparagraph (I)”, and struck out former subpar. (E), which established a set-aside for successful performance bonuses.
+
+Subsec. (a)(5)(F). Pub. L. 106–554, §1(a)(1) \[title I, §107(a), (b)(4)\], redesignated subpar. (G) as (F) and substituted “subparagraph (H)” for “subparagraph (I)”. Former subpar. (F) redesignated (E).
+
+Pub. L. 106–246, §2402(1), substituted “$15,000,000” for “$1,500,000”.
+
+Subsec. (a)(5)(G). Pub. L. 106–554, §1(a)(1) \[title V, §513\], which directed the amendment of subpar. (H) by substituting “2005” for “2001” in cl. (iii) and adding cl. (iv), was executed by making amendments to subpar. (G), to reflect the probable intent of Congress and the redesignation of subpar. (H) as (G) by Pub. L. 106–554, §1(a)(1) \[title V, §107(a)\]. See below.
+
+Pub. L. 106–554, §1(a)(1) \[title I, §107(a), (b)(4)\], redesignated subpar. (H) as (G) and substituted “subparagraph (H)” for “subparagraph (I)” in cl. (i). Former subpar. (G) redesignated (F).
+
+Pub. L. 106–246, §2402(2), substituted “$9,000,000” for “$900,000”.
+
+Subsec. (a)(5)(H). Pub. L. 106–554, §1(a)(1) \[title I, §107(a), (c)\], redesignated subpar. (I) as (H) and substituted “$1,400,000,000” for “$1,450,000,000” in cl. (i)(II). Former subpar. (H) redesignated (G).
+
+Pub. L. 106–246, §2402(3), substituted “$3,000,000” for “$300,000” in cl. (i).
+
+Subsec. (a)(5)(I) to (K). Pub. L. 106–554, §1(a)(1) \[title I, §107(a)\], redesignated subpars. (J) and (K) as (I) and (J), respectively. Former subpar. (I) redesignated (H).
+
 1999—Subsec. (a)(5)(A)(ii)(I)(ff). Pub. L. 106–113, §1000(a)(4) \[title VIII, §805(b)\], added item (ff).
 
-Subsec. (a)(5)(C)(i)(IV). Pub. L. 106–113, §1000(a)(4) \[title VIII, §803\], inserted before period at end “, or if the entity is not a private industry council or workforce investment board, the direct provision of such services”.
+Subsec. (a)(5)(C)(i)(IV). Pub. L. 106–113, §1000(a)(4) \[title VIII, §803\], inserted before period at end “, or ifthe entity is not a private industry council or workforce investment board, the direct provision of such services”.
 
 Subsec. (a)(5)(C)(i)(VII). Pub. L. 106–113, §1000(a)(4) \[title VIII, §802\], added subcl. (VII).
 
@@ -930,7 +910,9 @@ Subsec. (a)(5)(K). Pub. L. 106–113, §1000(a)(4) \[title VIII, §805(a)(2)\], 
 
 1998—Subsec. (a)(5)(A)(iv)(II). Pub. L. 105–306 substituted “, other than funds reserved by the State for distribution under clause (vi)(III) and funds distributed pursuant to clause (vi)(I) in any State in which the service delivery area is the State” for “or sub-State entity”.
 
-Subsec. (a)(5)(A)(vii)(I). Pub. L. 105–277, §101(f) \[title VIII, §405(d)(30)(A)\], substituted “(as described in section 103(c) of the Job Training Partnership Act or defined in section 101 of the Workforce Investment Act of 1998)” for “(as described in section 103(c) of the Job Training Partnership Act)”.
+Subsec. (a)(5)(A)(vii)(I). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(22)(A)\], struck out “described in section 103(c) of the Job Training Partnership Act or” before “defined in section 101 of the Workforce”.
+
+Pub. L. 105–277, §101(f) \[title VIII, §405(d)(30)(A)\], substituted “(as described in section 103(c) of the Job Training Partnership Act or defined in section 101 of the Workforce Investment Act of 1998)” for “(as described in section 103(c) of the Job Training Partnership Act)”.
 
 Subsec. (a)(5)(A)(ix). Pub. L. 105–277, §101(f) \[title I, §102\], added cl. (ix).
 
@@ -940,9 +922,13 @@ Subsec. (a)(5)(C)(ii)(I). Pub. L. 105–200, §408(2), inserted “or the noncus
 
 Subsec. (a)(5)(C)(ii)(II). Pub. L. 105–200, §408(3), substituted “The recipient or the minor children of the noncustodial parent—” for “The individual—” in introductory provisions.
 
-Subsec. (a)(5)(D)(ii). Pub. L. 105–277, §101(f) \[title VIII, §405(d)(30)(B)(i)\], substituted “means, with respect to a service delivery area, the private industry council or local workforce investment board established for the service delivery area pursuant to the Job Training Partnership Act or title I of the Workforce Investment Area of 1998, as appropriate” for “means, with respect to a service delivery area, the private industry council (or successor entity) established for the service delivery area pursuant to the Job Training Partnership Act”.
+Subsec. (a)(5)(D)(ii). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(22)(B)(i)\], struck out “the Job Training Partnership Act or” before “title I of the Workforce Investment”.
 
-Subsec. (a)(5)(D)(iii). Pub. L. 105–277, §101(f) \[title VIII, §405(d)(30)(B)(ii)\], substituted “shall have the meaning given such term for purposes of the Job Training Partnership Act or shall mean a local area as defined in section 101 of the Workforce Investment Act of 1998, as appropriate” for “shall have the meaning given such term (or the successor to such term) for purposes of the Job Training Partnership Act”.
+Pub. L. 105–277, §101(f) \[title VIII, §405(d)(30)(B)(i)\], substituted “means, with respect to a service delivery area, the private industry council or local workforce investment board established for the service delivery area pursuant to the Job Training Partnership Act or title I of the Workforce Investment Area of 1998, as appropriate” for “means, with respect to a service delivery area, the private industry council (or successor entity) established for the service delivery area pursuant to the Job Training Partnership Act”.
+
+Subsec. (a)(5)(D)(iii). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(22)(B)(ii)\], struck out before period at end “shall mean a local area as defined in section 101 of the Workforce Investment Act of 1998, as appropriate”.
+
+Pub. L. 105–277, §101(f) \[title VIII, §405(d)(30)(B)(ii)\], substituted “shall have the meaning given such term for purposes of the Job Training Partnership Act or shall mean a local area as defined in section 101 of the Workforce Investment Act of 1998, as appropriate” for “shall have the meaning given such term (or the successor to such term) for purposes of the Job Training Partnership Act”.
 
 1997—Pub. L. 105–33, §5514(c), made technical amendment to directory language of Pub. L. 104–193, §103(a)(1), which enacted this section.
 
@@ -1006,6 +992,10 @@ Secretary.—The term ‘Secretary’ means the Secretary of the Treasury.”
 
 Subsec. (b)(4)(A)(ii)(I). Pub. L. 104–327, §1(b)(2), inserted “the sum of” before “the expenditures” and “, and any additional qualified State expenditures, as defined in section 609(a)(7)(B)(i) of this title, for child care assistance made under the Child Care and Development Block Grant Act of 1990” before “; exceeds”.
 
+#### Effective Date of 2000 Amendment
+
+Pub. L. 106–554, §1(a)(1) \[title I, §107(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–12, provided that: “The amendments made by subsections (a), (b), and (c) of this section \[amending this section and section 612 of this title\] shall take effect on October 1, 2000.”
+
 #### Effective Date of 1999 Amendment
 
 Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §801(e)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–283, provided that: “The amendments made by this section \[amending this section and sections 604 and 612 of this title\]—
@@ -1048,5 +1038,9 @@ Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §801(f)\], Nov. 29, 1999,
 
 This section is referred to in sections 602, 604, 605, 606, 607, 608, 609, 611, 611a, 612, 613, 615, 618, 654a, 673, 1308 of this title; title 7 section 2025; title 29 sections 2841, 2864.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Act”.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “Act”.</i>
+
+<i><sup>3</sup></i><i> So in original.</i>
 

@@ -36,5 +36,5 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5473, 5475 of this title.
+This section is referred to in section 5473 of this title.
 

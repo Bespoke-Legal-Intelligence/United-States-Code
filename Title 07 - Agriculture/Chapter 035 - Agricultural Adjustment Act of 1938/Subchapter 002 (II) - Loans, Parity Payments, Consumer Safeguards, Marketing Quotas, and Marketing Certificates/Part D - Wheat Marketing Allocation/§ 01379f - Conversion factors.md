@@ -1,6 +1,6 @@
 ### §1379f. Conversion factors
 
-The Secretary shall establish conversion factors which shall be used to determine the amount of wheat contained in any food product. The conversion factor for any such food product shall be determined upon the basis of the weight of wheat used in the manufacture of such product.
+The Secretary shall establish conversion factors which shall be used to determine the amount of wheat contained in any food product. The conversion factor for any such food productshall be determined upon the basis of the weight of wheat used in the manufacture of such product.
 
 (Feb. 16, 1938, ch. 30, title III, §379f, as added Pub. L. 87–703, title III, §324(2), Sept. 27, 1962, 76 Stat. 629.)
 

@@ -34,7 +34,7 @@
 
 #### (B) Limitation on national bank
 
-&emsp;&emsp;It shall be unlawful for any national bank which is indebted to any Farm Credit Bank,on paper discounted or purchased under paragraph (1), to incur any additional indebtedness, if by virtue of such additional indebtedness its aggregate liabilities direct or contingent, will exceed the limitation described in subparagraph (A).
+&emsp;&emsp;It shall be unlawful for any national bank which is indebted to any Farm Credit Bank, on paper discounted or purchased under paragraph (1), to incur any additional indebtedness, if by virtue of such additional indebtedness its aggregate liabilities direct or contingent, will exceed the limitation described in subparagraph (A).
 
 #### (4) FCA regulations
 

@@ -68,15 +68,13 @@
 
 > is entitled to the benefits of subsection (h) of this section.
 
-(j)(1) Payment of the lump-sum credit under subsection (a) of this section—
+(j)(1)(A) Payment of the lump-sum credit under subsection (a) may be made only if the spouse, if any, and any former spouse of the employee or Member are notified of the employee or Member's application.
 
-&emsp;(A) may be made only if any current spouse and any former spouse of the employee orMember are notified of the employee or Member's application; and
+(B) The Office shall prescribe regulations under which the lump-sum credit shall not be paid without the consent of a spouse or former spouse of the employee or Member where the Office has received such additional information and documentation as the Office may require that—
 
-&emsp;(B) shall be subject to the terms of a court decree of divorce, annulment, or legal separation or any court order or court approved property settlement agreement incident to such decree if—
+&emsp;(i) a court order bars payment of the lump-sum credit in order to preserve the court's ability to award an annuity under section 8341(h) or section 8345(j); or
 
-&emsp;&emsp;(i) the decree, order, or agreement expressly relates to any portion of the lump-sum credit involved; and
-
-&emsp;&emsp;(ii) payment of the lump-sum credit would extinguish entitlement of the employee's or Member's spouse or former spouse to a survivor annuity under section 8341(h) of this title or to any portion of an annuity under section 8345(j) of this title.
+&emsp;(ii) payment of the lump-sum credit would extinguish the entitlement of the spouse or former spouse, under a court order on file with the Office, to a survivor annuity under section 8341(h) or to any portion of an annuity under section 8345(j).
 
 (2)(A) Notification of a spouse or former spouse under this subsection shall be made in accordance with such requirements as the Office shall by regulation prescribe.
 
@@ -84,7 +82,7 @@
 
 (3) The Office shall prescribe regulations under which this subsection shall be applied in any case in which the Office receives two or more such orders or decrees.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 579; Pub. L. 90–83, §1(81), Sept. 11, 1967, 81 Stat. 217; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 97–253, title III, §303(c), Sept. 8, 1982, 96 Stat. 794; Pub. L. 97–346, §3(f), Oct. 15, 1982, 96 Stat. 1648; Pub. L. 98–615, §2(5), Nov. 8, 1984, 98 Stat. 3201; Pub. L. 99–251, title II, §208, Feb. 27, 1986, 100 Stat. 25; Pub. L. 99–335, title II, §§204(b)(2), 207(h), June 6, 1986, 100 Stat. 592, 596; Pub. L. 100–238, title I, §105(b), Jan. 8, 1988, 101 Stat. 1746; Pub. L. 101–508, title VII, §7001(b)(2)(D), Nov. 5, 1990, 104 Stat. 1388–329.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 579; Pub. L. 90–83, §1(81), Sept. 11, 1967, 81 Stat. 217; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 97–253, title III, §303(c), Sept. 8, 1982, 96 Stat. 794; Pub. L. 97–346, §3(f), Oct. 15, 1982, 96 Stat. 1648; Pub. L. 98–615, §2(5), Nov. 8, 1984, 98 Stat. 3201; Pub. L. 99–251, title II, §208, Feb. 27, 1986, 100 Stat. 25; Pub. L. 99–335, title II, §§204(b)(2), 207(h), June 6, 1986, 100 Stat. 592, 596; Pub. L. 100–238, title I, §105(b), Jan. 8, 1988, 101 Stat. 1746; Pub. L. 101–508, title VII, §7001(b)(2)(D), Nov. 5, 1990, 104 Stat. 1388–329; Pub. L. 106–361, §3(a), Oct. 27, 2000, 114 Stat. 1402.)
 
 Historical and Revision Notes<br>1966
 
@@ -154,6 +152,16 @@ The Federal Employees’ Retirement System Act of 1986, referred to in subsec. (
 
 #### Amendments
 
+2000—Subsec. (j)(1). Pub. L. 106–361 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Payment of the lump-sum credit under subsection (a) of this section—
+
+&emsp;“(A) may be made only if any current spouse and any former spouse of the employee or Member are notified of the employee or Member's application; and
+
+&emsp;“(B) shall be subject to the terms of a court decree of divorce, annulment, or legal separation or any court order or court approved property settlement agreement incident to such decree if—
+
+&emsp;&emsp;“(i) the decree, order, or agreement expressly relates to any portion of the lump-sum credit involved; and
+
+&emsp;&emsp;“(ii) payment of the lump-sum credit would extinguish entitlement of the employee's or Member's spouse or former spouse to a survivor annuity under section 8341(h) of this title or to any portion of an annuity under section 8345(j) of this title.”
+
 1990—Subsec. (a). Pub. L. 101–508 inserted “or 8334(d)(2)” after “8343a” in second sentence.
 
 1988—Subsec. (a). Pub. L. 100–238 amended last sentence of subsec. (a) generally. Prior to amendment, last sentence read as follows: “In applying this subsection with respect to an employee or Member who becomes subject to chapter 84 of this title, entitlement to payment of the lump-sum credit shall be determined without regard to paragraph (1) or (3) if, and to the extent that, such lump-sum credit relates to service of a type described in clauses (i) through (iii) of section 302(a)(1)(C) of the Federal Employees’ Retirement System Act of 1986.”
@@ -172,7 +180,7 @@ Subsec. (j). Pub. L. 98–615, §2(5)(B), added subsec. (j).
 
 1982—Subsec. (a). Pub. L. 97–346 substituted “such a position” for “such position” in par. (1)(B).
 
-Pub. L. 97–253, §303(c), substituted provisions that an employee or Member who is separated from the service for at least 31 consecutive days or is transferred to a position in which he is not subject to this subchapter for 31 days, and who files an application with the Office of Personnel Management for payment of a lump-sum credit, is not reemployed in a position subject to this subchapter at the time of filing, and will not be eligiblefor an annuity within 31 days of filing, is entitled to be paid the lump-sum credit and upon receipt of such payment, all annuity rights based on the service upon which the credit is based are voided until reemployment under this subchapter occurs for provisions that such employee or Member who was separated from the service, or was transferred to a position in which he did not continue subject to this subchapter, was entitled to be paid the lump-sum credit if his separation or transfer occurred and application for payment was filed with the Office of Personnel Management at least 31 days before the earliest commencing date of any annuity for which he was eligible, that the receipt of payment of the lump-sum credit by the individual voided all annuity rights under this subchapter until he was reemployed in the service subject to this subchapter, and that this subsection also applied to an employee or Member separated before October 1, 1956, after completing at least 20 years of civilian service.
+Pub. L. 97–253, §303(c), substituted provisions that an employee or Member who is separated from the service for at least 31 consecutive days or is transferred to a position in which he is not subject to this subchapter for 31 days, and who files an application with the Office of Personnel Management for payment of a lump-sum credit, is not reemployed in a position subject to this subchapter at the time of filing, and will not be eligible for an annuity within 31 days of filing, is entitled to be paid the lump-sum credit and upon receipt of such payment, all annuity rights based on the service upon which the credit is based are voided until reemployment under this subchapter occurs for provisions that such employee or Member who was separated from the service, or was transferred to a position in which he did not continue subject to this subchapter, was entitled to be paid the lump-sum credit if his separation or transfer occurred and application for payment was filed with the Office of Personnel Management at least 31 days before the earliest commencing date of any annuity for which he was eligible, that the receipt of payment of the lump-sum credit by the individual voided all annuity rights under this subchapter until he was reemployed in the service subject to this subchapter, and that this subsection also applied to an employee or Member separated before October 1, 1956, after completing at least 20 years of civilian service.
 
 1978—Subsecs. (a) to (c), (g). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission”.
 
@@ -198,7 +206,7 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 #### Reestablishment of Right To Receive Annuity by Judges Who Received Lump-sum Credit
 
-Pub. L. 96–504, §2, Dec. 5, 1980, 94 Stat. 2741, provided that: “A present or former justice or judge of the United States, as defined by section 451 of title 28, United States Code, who, prior to the effective date of this section \[Dec. 5, 1980\], voided his right to receive an annuity under subchapter III of chapter 83 of title 5, United States Code, by applying for and receiving a refund of his lump-sum credit while serving as such a justice or judge may, upon application filed with the Office of Personnel Management within one year following the effective date of this section, redeposit such refund with interest computed under section 8334(e) of such title 5 and thereby reestablish his right to receive an annuity under such subchapter effective on the date he otherwise was eligible to receive an annuity. The surviving spouse of any such justice or judge who dies before the effective date of this section may apply to make such redeposit within one year following the effective date of this section and receive both (1) the amount of the annuity which the justice or judge would have been entitled to receive before his death had application been made by him for the annuity and (2) any survivor annuity the justice or judge could have provided under the provisions of law in effect at the time of separation from the service on which title to the annuity is based.”
+Pub. L. 96–504, §2, Dec. 5, 1980, 94 Stat. 2741, provided that: “A present or former justice or judge of the United States, as defined by section 451 of title 28, United States Code, who, prior to the effective date ofthis section \[Dec. 5, 1980\], voided his right to receive an annuity under subchapter III of chapter 83 of title 5, United States Code, by applying for and receiving a refund of his lump-sum credit while serving as such a justice or judge may, upon application filed with the Office of Personnel Management within one year following the effective date of this section, redeposit such refund with interest computed under section 8334(e) of such title 5 and thereby reestablish his right to receive an annuity under such subchapter effective on the date he otherwise was eligible to receive an annuity. The surviving spouse of any such justice or judge who dies before the effective date of this section may apply to make such redeposit within one year following the effective date of this section and receive both (1) the amount of the annuity which the justice or judge would have been entitled to receive before his death had application been made by him for the annuity and (2) any survivor annuity the justice or judge could have provided under the provisions of law in effect at the time of separation from the service on which title to the annuity is based.”
 
 #### Section Referred to in Other Sections
 

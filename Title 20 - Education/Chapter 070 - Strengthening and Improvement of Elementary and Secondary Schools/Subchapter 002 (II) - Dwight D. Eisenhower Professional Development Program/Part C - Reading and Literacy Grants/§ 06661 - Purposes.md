@@ -10,7 +10,7 @@ The purposes of this part are as follows:
 
 &emsp;&emsp;(B) as soon as possible once the child enters school, but not later than 3d grade.
 
-&emsp;(3) To improve the reading skills of students, and the instructional practices for current teachers (and, as appropriate, other instructional staff) who teach reading, through the use of findings from scientifically based reading research, including findings relating to phonemic awareness, systematic phonics, fluency, and reading comprehension.
+&emsp;(3) To improve the reading skills of students, and the instructional practices for current teachers (and, as appropriate, other instructional staff) who teach reading, through theuse of findings from scientifically based reading research, including findings relating to phonemic awareness, systematic phonics, fluency, and reading comprehension.
 
 &emsp;(4) To expand the number of high-quality family literacy programs.
 

@@ -6,7 +6,7 @@ A funding agreement for a grant under section 290ff(a) of this title is that a s
 
 #### (b) Multidisciplinary team
 
-A funding agreement for a grant under section 290ff(a) of this title is that the plan required in subsection (a) of this section will be developed, and reviewed and as appropriate revised not less than once each year, by a multidisciplinary team of appropriately qualified individuals who provide services through the system, including as appropriate mental health services, other health services, educational services, social services, and vocational counseling and rehabilitation; <sup>1</sup>
+A funding agreement for a grant under section 290ff(a) of this title is that the plan required in subsection (a) of this section will be developed, and reviewed and as appropriate revised not less than once each year, by a multidisciplinary team of appropriately qualified individuals who provide services through the system, including as appropriate mental health services, other health services, educational services, socialservices, and vocational counseling and rehabilitation; <sup>1</sup>
 
 #### (c) Coordination with services under Individuals with Disabilities Education Act
 

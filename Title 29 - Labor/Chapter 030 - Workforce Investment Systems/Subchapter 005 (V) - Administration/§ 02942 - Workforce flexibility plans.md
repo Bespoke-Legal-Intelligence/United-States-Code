@@ -8,7 +8,7 @@ A State may submit to the Secretary, and the Secretary may approve, a workforce 
 
 &emsp;(2) any of the statutory or regulatory requirements applicable under sections 49g through 49i of this title to the State, except for requirements relating to the provision of services to unemployment insurance claimants and veterans, and to universal access to basic labor exchange services without cost to jobseekers; and
 
-&emsp;(3) any of the statutory or regulatory requirements applicable under the Older Americans Act of 1965 (42 U.S.C. 3001 et seq.) to State agencies on aging with respect to activities carried out using funds allotted under section 506(a)(3) of such Act (42 U.S.C. 3056d(a)(3)), except for requirements relating to the basic purposes of such Act, wage and labor standards, eligibility of participants in the activities, and standards for agreements.
+&emsp;(3) any of the statutory or regulatory requirements applicable under the Older Americans Act of 1965 (42 U.S.C. 3001 et seq.) to Stateagencies on aging with respect to activities carried out using funds allotted under section 506(a)(3) of such Act (42 U.S.C. 3056d(a)(3)), except for requirements relating to the basic purposes of such Act, wage and labor standards, eligibility of participants in the activities, and standards for agreements.
 
 #### (b) Content of plans
 
@@ -45,4 +45,14 @@ The Older Americans Act of 1965, referred to in subsecs. (a)(3) and (b)(3), is P
 1998—Subsec. (a)(2). Pub. L. 105–277 struck out comma before “to the State, except”.
 
 Subsec. (a)(3). Pub. L. 105–277 substituted “) to” for “), to”.
+
+#### Workforce Flexibility Partnership Demonstration Program
+
+Pub. L. 105–78, title I, Nov. 13, 1997, 111 Stat. 1469, provided in part: “That the Secretary of Labor shall establish a workforce flexibility (work-flex) partnership demonstration program under which the Secretary shall authorize not more than six States, of which at least three States shall each have populations not in excess of 3,500,000, with a preference given to those States that have been designated Ed-Flex Partnership States under section 311(e) of Public Law 103–227 \[20 U.S.C. 5891(e)\], to waive any statutory or regulatory requirement applicable to service delivery areas or substate areas within the State under titles I–III of the Job Training Partnership Act \[former 29 U.S.C. 1511 et seq., 1601 et seq., 1651 et seq.\] (except for requirements relating to wage and labor standards, grievance procedures and judicial review, nondiscrimination, allotment of funds, and eligibility), and any of the statutory or regulatory requirements of sections 8–10 of the Wagner-Peyser Act \[29 U.S.C. 49g–49i\] (except for requirements relating to the provision of services to unemployment insurance claimants and veterans, and to universal access to basic labor exchange services without cost to job seekers), for a duration not to exceed the waiver period authorized under section 311(e) of Public Law 103–227, pursuant to a plan submitted by such States and approved by the Secretary for the provision of workforce employment and training activities in the States, which includes a description of the process by which service delivery areas and substate areas may apply for and have waivers approved by the State, the requirements of the Wagner-Peyser Act \[29 U.S.C. 49 et seq.\] to be waived, the outcomes to be achieved and other measures to be taken to ensure appropriate accountability for Federal funds.”
+
+\[References to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, are deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and effective July 1, 2000, are deemed to refer to the corresponding provision of the Workforce Investment Act of 1998, see section 2940(b) of this title. For complete classification of the Workforce Investment Act of 1998 to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.\]
+
+Similar provisions were contained in the following prior appropriations act:
+
+Pub. L. 104–208, div. A, title I, §101(e) \[title I\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–234.
 

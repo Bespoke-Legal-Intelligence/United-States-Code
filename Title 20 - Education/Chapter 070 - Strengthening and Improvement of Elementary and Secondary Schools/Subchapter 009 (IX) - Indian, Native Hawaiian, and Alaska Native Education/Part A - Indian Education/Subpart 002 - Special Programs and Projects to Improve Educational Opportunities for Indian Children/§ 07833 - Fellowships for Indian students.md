@@ -42,7 +42,7 @@ The Secretary shall pay to the institution of higher education at which a fellow
 
 #### (3) Priority
 
-&emsp;Not more than 10 percent of the fellowships awarded under subsection (a) of this section shall be awarded, on a priority basis, to persons receiving training in guidance counseling with a speciality in the area of alcohol and substance abuse counseling and education.
+&emsp;Not more than 10 percent of the fellowships awarded under subsection (a) of this section shall be awarded, on a priority basis, to persons receiving training in guidance counselingwith a speciality in the area of alcohol and substance abuse counseling and education.
 
 #### (e) Service obligation
 

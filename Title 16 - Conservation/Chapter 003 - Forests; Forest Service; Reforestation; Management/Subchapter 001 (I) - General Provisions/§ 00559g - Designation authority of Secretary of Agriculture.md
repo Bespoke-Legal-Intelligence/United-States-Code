@@ -16,5 +16,5 @@ The Forest Service is authorized to accept law enforcement designation from any 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 460<i>lll</i>–12 of this title.
+This section is referred to in sections 460<i>lll</i>–12, 698v–6 of this title.
 

@@ -4,7 +4,3 @@ If any provision of this chapter or the application thereof to any person or cir
 
 (Aug. 1, 1956, ch. 841, title II, §213, as added Pub. L. 97–241, title II, §202(b), Aug. 24, 1982, 96 Stat. 290.)
 
-#### Codification
-
-Section is also set out as a note under D.C. Code, §5–1201.
-

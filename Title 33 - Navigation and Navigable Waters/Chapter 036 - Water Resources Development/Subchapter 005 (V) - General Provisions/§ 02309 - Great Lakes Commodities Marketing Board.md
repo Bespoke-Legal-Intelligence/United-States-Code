@@ -78,7 +78,7 @@ To ensure the coordinated economic revitalization and environmental enhancement 
 
 (E) The Administrator of General Services shall provide to the Board on a reimbursable basis such administrative support services as the Board may request.
 
-(7) Not later than September 30, 1989, the Board shall transmit to the President and to each House of the Congress a report stating the strategy developed under this subsection and the results of each analysis conducted under this subsection. Such report shall contain a detailed statement of the findings and conclusions of the Board together with its recommendations for such legislative and administrative actions as it considers appropriate to carry out such strategy and to assure maximum economic benefits to the users of the Great Lakes and to the Great Lakes region.
+(7) Not later than September 30, 1989, the Board shall transmit to the President and toeach House of the Congress a report stating the strategy developed under this subsection and the results of each analysis conducted under this subsection. Such report shall contain a detailed statement of the findings and conclusions of the Board together with its recommendations for such legislative and administrative actions as it considers appropriate to carry out such strategy and to assure maximum economic benefits to the users of the Great Lakes and to the Great Lakes region.
 
 (8) The Board shall cease to exist 180 days after submitting its report pursuant to this subsection.
 
@@ -101,6 +101,10 @@ The Secretary and the Administrator of the Environmental Protection Agency, in c
 #### References in Text
 
 Section 5311(b) of title 5, referred to in subsec. (b)(5)(A), (B), was repealed by Pub. L. 101–509, title V, §529 \[title I, §104(c)(1)\], Nov. 5, 1990, 104 Stat. 1427, 1447.
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (c)(3) of this section relating to the requirement that the international advisory group report biennially to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 193 of House Document No. 103–7.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

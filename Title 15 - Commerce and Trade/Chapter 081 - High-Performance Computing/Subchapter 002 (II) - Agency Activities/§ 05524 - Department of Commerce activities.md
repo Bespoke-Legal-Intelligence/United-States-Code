@@ -22,7 +22,7 @@ Pursuant to the Computer Security Act of 1987 (Public Law 100–235; 101 Stat. 1
 
 (1) The Secretary of Commerce shall conduct a study to—
 
-&emsp;(A) evaluate the impact of Federal procurement regulations that require that contractors providing software to the Federal Government share the rights to proprietary software development tools that the contractors use to develop the software; and
+&emsp;(A) evaluate the impact of Federal procurement regulations that require that contractors providing software to the Federal Government share the rights to proprietary softwaredevelopment tools that the contractors use to develop the software; and
 
 &emsp;(B) determine whether such regulations discourage development of improved software development tools and techniques.
 

@@ -26,7 +26,7 @@
 
 (c) An eligible veteran shall be entitled to a loan under this subchapter if such veteran—
 
-&emsp;(1) is in attendance at an educational institution on at least a half-time basis and (A) is enrolled in a course leading to a standard college degree, or (B) is enrolled in a course, the completion of which requires six months or longer, leading to an identified and predetermined professional or vocational objective, except that the Secretary may waive the requirements of subclause (B) of this clause, in whole or in part, if the Secretary determines, pursuant to regulations which the Secretary shall prescribe, it to be in the interest of the eligible veteran and the Federal Government;
+&emsp;(1) is in attendance at an educational institution on at least a half-time basis and (A) is enrolled in a course leading to a standard college degree, or (B) is enrolled in a course, the completion of which requires six months or longer, leading to an identified and predetermined professional or vocational objective, except that the Secretary may waive the requirements of subclause (B) of this clause, inwhole or in part, if the Secretary determines, pursuant to regulations which the Secretary shall prescribe, it to be in the interest of the eligible veteran and the Federal Government;
 
 &emsp;(2) enters into an agreement with the Secretary meeting the requirements of subsection (d) of this section; and
 
@@ -62,7 +62,7 @@
 
 #### References in Text
 
-The Higher Education Act of 1965, referred to in subsecs. (b)(2)(B)(iii) and (d)(3), is Pub. L. 89–329, Nov. 8,1965, 79 Stat. 1219, as amended. Title IV of the Higher Education Act of 1965 is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. Part B of title IV of the Higher Education Act of 1965, is classified generally to Part B of subchapter IV (§1071 et seq.) of chapter 28 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsecs. (b)(2)(B)(iii) and (d)(3), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title IV of the Higher Education Act of 1965 is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. Part B of title IV of the Higher Education Act of 1965, is classified generally to Part B of subchapter IV (§1071 et seq.) of chapter 28 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 #### Amendments
 

@@ -6,7 +6,7 @@
 | :--- | ---: |
 | [551\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000551%20-%20Protection%20of%20national%20forests%3B%20rules%20and%20regulations.md) | Protection of national forests; rules and regulations. |
 | [551a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000551a%20-%20Cooperation%20by%20Secretary%20of%20Agriculture%20with%20States%20and%20political%20subdivisions%20in%20law%20enforcement.md) | Cooperation by Secretary of Agriculture with States and political subdivisions in law enforcement. |
-| [551b.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000551b%20-%20Report%20on%20rehabilitation%20needs.md) | Report on rehabilitation needs. |
+| [551b.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000551b%20-%20Omitted.md) | Omitted. |
 | [551c.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000551c%20-%20Planning%20for%20fire%20protection.md) | Planning for fire protection. |
 | (a) | Volunteer firefighters. |
 | (b) | “Educational institutions” defined. |
@@ -240,10 +240,6 @@
 | 583j–9. | Federal funds. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Cross References
-
-Contracts for sale of forest products, use of national-forest lands, etc., exempt from requirements of section 20 of title 41 where amount involved is less than $300, see section 20a of Title 41, Public Contracts.
 
 
 ---

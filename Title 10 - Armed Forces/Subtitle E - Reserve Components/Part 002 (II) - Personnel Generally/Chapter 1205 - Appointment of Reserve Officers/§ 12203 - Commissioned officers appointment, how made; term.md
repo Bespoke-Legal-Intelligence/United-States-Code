@@ -86,12 +86,6 @@ Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. 
 
 Section 41 of act Aug. 10, 1956, provided that: “Each person who was a reserve officer on July 9, 1952, and who did not hold an appointment for an indefinite term on that date, shall be given an appointment for an indefinite term in place of the appointment he then held, if after written notification by competent authority before July 2, 1953, the officer agrees in writing to have that appointment continued for an indefinite term. In the event such officer does not agree in writing, the term of his current appointment shall not be changed by this section.”
 
-#### Cross References
-
-Coast Guard Reserve officers, appointment as prescribed in this section, see section 271 of Title 14, Coast Guard.
-
-Reserve warrant officers, appointment, see section 12241 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 14308 of this title; title 14 section 271.

@@ -28,7 +28,7 @@ For purposes of this chapter:
 
 &emsp;&emsp;(A) means 1 or more voltaic or galvanic cells, electrically connected to produce electric energy, that is designed to be recharged for repeated uses; and
 
-&emsp;&emsp;(B) includes any type of enclosed device or sealed container consisting of 1 or more such cells, including what is commonly called a battery pack (and in the case of a batterypack, for the purposes of the requirements of easy removability and labeling under section 14322 of this title, means the battery pack as a whole rather than each component individually); but
+&emsp;&emsp;(B) includes any type of enclosed device or sealed container consisting of 1 or more such cells, including what is commonly called a battery pack (and in the case of a battery pack, for the purposes of the requirements of easy removability and labeling under section 14322 of this title, means the battery pack as a whole rather than each component individually); but
 
 &emsp;&emsp;(C) does not include—
 

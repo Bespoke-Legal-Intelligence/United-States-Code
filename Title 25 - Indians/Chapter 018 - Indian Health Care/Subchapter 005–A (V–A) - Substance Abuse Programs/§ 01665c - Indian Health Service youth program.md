@@ -12,7 +12,7 @@ The Secretary shall develop and implement a program for acute detoxification and
 
 (3) A youth treatment center constructed or purchased under this subsection shall be constructed or purchased at a location within the area described in paragraph (1) agreed upon (by appropriate tribal resolution) by a majority of the tribes to be served by such center.
 
-(4)(A) Notwithstanding any other provision of this subchapter, the Secretary may, from amounts authorized to be appropriated for thepurposes of carrying out this section, make funds available to—
+(4)(A) Notwithstanding any other provision of this subchapter, the Secretary may, from amounts authorized to be appropriated for the purposes of carrying out this section, make funds available to—
 
 &emsp;(i) the Tanana Chiefs Conference, Incorporated, for the purpose of leasing, constructing, renovating, operating and maintaining a residential youth treatment facility in Fairbanks, Alaska; and
 

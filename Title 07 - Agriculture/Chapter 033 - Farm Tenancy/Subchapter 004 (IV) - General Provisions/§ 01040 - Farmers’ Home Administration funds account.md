@@ -6,5 +6,5 @@ When authorized by appropriation or other law, funds of the Farmers’ Home Admi
 
 #### Codification
 
-Section was enacted as part of the Department of Agriculture Organic Act of 1956, and not as part of the Bankhead-Jones Farm Tenant Act which constitutes a major part of this chapter.
+Section was enacted as part of the Department of Agriculture Organic Act of 1956, and not as part of theBankhead-Jones Farm Tenant Act which constitutes a major part of this chapter.
 

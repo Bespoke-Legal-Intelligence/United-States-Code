@@ -2,7 +2,7 @@
 
 #### (a) Formula
 
-Except as provided in section 1811 of this title, the Secretary shall, subject to appropriations,grant for each academic year to each tribally controlled college or university having an application approved by him an amount equal to the product of—
+Except as provided in section 1811 of this title, the Secretary shall, subject to appropriations, grant for each academic year to each tribally controlled college or university having an application approved by him an amount equal to the product of—
 
 &emsp;(1) the Indian student count at such college or university during the academic year preceding the academic year for which such funds are being made available, as determined by the Secretary in accordance with section 1801(a)(7) of this title; and
 
@@ -46,7 +46,7 @@ Subsec. (b)(3), (4). Pub. L. 105–244, §901(b)(5), substituted “college or u
 
 Subsec. (c)(2). Pub. L. 105–244, §901(b)(6), substituted “colleges or universities” for “community colleges”.
 
-1990—Subsec. (a)(1). Pub. L. 101–477, §1(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “the Indian student count at such college during such academic year, as determined by the Secretary in accordance with section 1801(a)(7) of this title; and”.
+1990—Subsec. (a)(1). Pub. L. 101–477, §1(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read asfollows: “the Indian student count at such college during such academic year, as determined by the Secretary in accordance with section 1801(a)(7) of this title; and”.
 
 Subsec. (b)(1). Pub. L. 101–477, §1(a)(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Secretary shall make payments, pursuant to grants under this subchapter, in advance installments of not less than 40 per centum of the funds available for allotment, based on anticipated or actual numbers of full-time equivalent Indian students or such other factors as determined by the Secretary. Adjustments for overpayments and underpayments shall be applied to the remainder of such funds and such remainder shall be delivered no later than July 1 of each year.”
 
@@ -66,7 +66,7 @@ Subsec. (c). Pub. L. 100–427 added subsec. (c) relating to construction of sec
 
 &emsp;“(D) $5,820 for fiscal year 1987,”.
 
-1983—Subsec. (a). Pub. L. 98–192 amended subsec. (a) generally, substituting provision establishing a formula premised on Indian student count at each tribally controlled community college on which funding is to bebased for provision which directing the Secretary to grant an amount equal to $4,000 for each full-time equivalent Indian student in attendance during the academic year to each tribally controlled community college having an application approved by the Secretary.
+1983—Subsec. (a). Pub. L. 98–192 amended subsec. (a) generally, substituting provision establishing a formula premised on Indian student count at each tribally controlled community college on which funding is to be based for provision which directing the Secretary to grant an amount equal to $4,000 for each full-time equivalent Indian student in attendance during the academic year to each tribally controlled community college having an application approved by the Secretary.
 
 1982—Subsec. (c)(2). Pub. L. 97–375 struck out provision directing Secretary to report annually to Congress on needs of tribally controlled community colleges.
 

@@ -14,7 +14,7 @@ Section was enacted as a part of the National Mental Health Act, and not as a pa
 
 #### Transfer of Functions
 
-Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg.Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
 Functions of Federal Works Agency and of all agencies thereof, together with functions of Federal Works Administrator transferred to Administrator of General Services by section 103(a) of act June 30, 1949, which is classified to section 753(a) of Title 40, Public Buildings, Property, and Works. Both Federal Works Agency and office of Federal Works Administrator abolished by section 103(b) of that act.
 

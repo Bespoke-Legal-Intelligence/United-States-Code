@@ -28,13 +28,13 @@ Notification and Analysis.—(1) A rail carrier intending to downgrade or dispos
 
 &emsp;(E) economic characteristics of rail passenger transportation related to the facility and the extent to which the characteristics are consistent with sound economic principles of short haul or long haul rail transportation; and
 
-&emsp;(F) the feasibility of applying effective internal cost controls to the facility and route served by the facility to improve the ratio of passenger revenue to transportation expenses (excluding maintenance of tracks, structures, and equipment and depreciation).
+&emsp;(F) the feasibility of applying effective internal cost controls to the facility and routeserved by the facility to improve the ratio of passenger revenue to transportation expenses (excluding maintenance of tracks, structures, and equipment and depreciation).
 
 (d)
 
 Approval of Application and Payment of Avoidable Costs.—(1) If Amtrak does not object to an application not later than 30 days after it is submitted, the Secretary shall approve the application promptly.
 
-(2) If Amtrak objects to an application, the Secretary shall decide by not later than 180 days after the objection those costs the rail carrier may avoid if it does not have to retain or maintain a facility in the condition Amtrak requests. If Amtrak does not agree by not later than 60 days after the decision to pay the carrier these avoidable costs, the Secretary shall approve the application. When deciding whether to pay acarrier the avoidable costs of retaining or maintaining a facility, Amtrak shall consider—
+(2) If Amtrak objects to an application, the Secretary shall decide by not later than 180 days after the objection those costs the rail carrier may avoid if it does not have to retain or maintain a facility in the condition Amtrak requests. If Amtrak does not agree by not later than 60 days after the decision to pay the carrier these avoidable costs, the Secretary shall approve the application. When deciding whether to pay a carrier the avoidable costs of retaining or maintaining a facility, Amtrak shall consider—
 
 &emsp;(A) the potential importance of restoring rail passenger transportation on the route on which the facility is located;
 

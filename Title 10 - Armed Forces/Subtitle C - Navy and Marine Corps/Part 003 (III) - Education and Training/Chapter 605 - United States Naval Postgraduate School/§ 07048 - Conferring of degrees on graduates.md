@@ -28,3 +28,7 @@ In subsection (b) the words “from time to time” are omitted as surplusage.
 
 1992—Pub. L. 102–484 renumbered section 7047 of this title as this section.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in section 7049 of this title.
+

@@ -34,7 +34,7 @@ Notwithstanding paragraphs (1), (2), and (3) of subsection (a) of this section, 
 
 It shall be unlawful for any person who is related to a business development company in the manner described in subsection (e) of this section and who is not subject to the prohibitions of subsection (a) of this section, acting as principal—
 
-&emsp;(1) knowingly to sell any security or other property to such business development company or to any company controlled by such business development company, unless such sale involves solely (A) securities of which the buyer is the issuer, or (B) securities of which the seller is the issuer and which are part of a general offering to the holders of a class of its securities;
+&emsp;(1) knowingly to sell any security or other property to such business development company or to any company controlled by suchbusiness development company, unless such sale involves solely (A) securities of which the buyer is the issuer, or (B) securities of which the seller is the issuer and which are part of a general offering to the holders of a class of its securities;
 
 &emsp;(2) knowingly to purchase from such business development company or from any company controlled by such business development company, any security or other property (except securities of which the seller is the issuer);
 
@@ -132,7 +132,7 @@ For purposes of subsections (a) and (d) of this section, a person who is a direc
 
 &emsp;(A)(i) in the case of a profit-sharing plan for officers and employees of the business development company (including any officer or employee who is also a director of such company), such profit-sharing plan is approved by the required majority (as defined in subsection (<i>o</i>) of this section) of the directors of or general partners in such company on the basis that such plan is reasonable and fair to the shareholders or partners of such company, does not involve overreaching of such company or its shareholders or partners on the part of any person concerned, and is consistent with the interests of the shareholders or partners of such company; or
 
-&emsp;(ii) in the case of a profit-sharing plan which includes one or more directors of the business development company who are not also officers or employees of such company, or one or more general partners in such company, such profit-sharing plan is approved by order of the Commission, upon application, on the basis that such plan is reasonable and fair to the shareholders or partners of such company,does not involve overreaching of such company or its shareholders or partners on the part of any person concerned, and is consistent with the interests of the shareholders or partners of such company; and
+&emsp;(ii) in the case of a profit-sharing plan which includes one or more directors of the businessdevelopment company who are not also officers or employees of such company, or one or more general partners in such company, such profit-sharing plan is approved by order of the Commission, upon application, on the basis that such plan is reasonable and fair to the shareholders or partners of such company, does not involve overreaching of such company or its shareholders or partners on the part of any person concerned, and is consistent with the interests of the shareholders or partners of such company; and
 
 &emsp;(B) the aggregate amount of benefits which would be paid or accrued under such plan shall not exceed 20 per centum of the business development company's net income after taxes in any fiscal year.
 

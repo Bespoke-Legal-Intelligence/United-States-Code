@@ -22,7 +22,7 @@
 
 #### (2) Other students
 
-&emsp;The proceeds of any loan made, insured, or guaranteed under this part that is made to any student other than a student described in paragraph (1) shall not be disbursed more than 30 days prior to the beginning of the period of enrollment for which the loan is made.
+&emsp;The proceeds of any loan made, insured, or guaranteed under this part that is made to any student other than a student described in paragraph (1) shall not be disbursed more than30 days prior to the beginning of the period of enrollment for which the loan is made.
 
 #### (c) Method of multiple disbursement
 
@@ -30,7 +30,7 @@ Disbursements under subsection (a) of this section—
 
 &emsp;(1) shall be made in accordance with a schedule provided by the institution (under section 1078(a)(2)(A)(i)(III) <sup>1</sup> of this title) that complies with the requirements of this section;
 
-&emsp;(2) may be made directly by the lender or, in the case of a loan under sections 1078 and 1078–1 <sup>1</sup> of this title, may be disbursed pursuantto the escrow provisions of section 1078(i) of this title; and
+&emsp;(2) may be made directly by the lender or, in the case of a loan under sections 1078 and 1078–1 <sup>1</sup> of this title, may be disbursed pursuant to the escrow provisions of section 1078(i) of this title; and
 
 &emsp;(3) notwithstanding subsection (a)(2) of this section, may, with the permission of the borrower, be disbursed by the lender on a weekly or monthly basis, provided that the proceeds of the loan are disbursed in substantially equal weekly or monthly installments, as the case may be, over the period of enrollment for which the loan is made.
 
@@ -86,7 +86,7 @@ Subsec. (e). Pub. L. 103–66 substituted “consolidation” for “PLUS, conso
 
 1992—Subsec. (c)(3). Pub. L. 102–325, §421(a), added par. (3).
 
-Subsec. (d)(2). Pub. L. 102–325, §421(b), inserted “, except that overawards permitted pursuant to section 2753(b)(4) of title 42 shall not be construed to be overawards for purposes of this paragraph” before period at end of first sentence.
+Subsec. (d)(2). Pub. L. 102–325, §421(b), inserted “, except that overawards permitted pursuant to section 2753(b)(4) of title 42 shall not be construed to beoverawards for purposes of this paragraph” before period at end of first sentence.
 
 Subsec. (g). Pub. L. 102–325, §421(c), added subsec. (g).
 

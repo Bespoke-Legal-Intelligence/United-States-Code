@@ -2,7 +2,7 @@
 
 #### (a) Terms and conditions of application
 
-A State, unit of local government, or combination of such units desiring to receive assistance under this subchapter for a correctional facilityproject shall submit to the Director an application which shall include—
+A State, unit of local government, or combination of such units desiring to receive assistance under this subchapter for a correctional facility project shall submit to the Director an application which shall include—
 
 &emsp;(1) reasonable assurance that the applicant has developed an acceptable plan for reducing overcrowding and improving conditions of confinement in its correctional facilities and has implemented, or is in the process of implementing, such plan through legislative, executive, or judicial initiatives;
 

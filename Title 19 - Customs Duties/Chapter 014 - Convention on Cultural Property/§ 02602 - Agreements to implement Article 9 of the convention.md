@@ -136,7 +136,7 @@ Section 1. <i>United States Information Agency</i>. The following functions conf
 
 (e) The functions conferred by section 303(g)(1)(B) relating to the notification of Presidential action and the furnishing of reports to the Congress.
 
-(f) The functions conferred by section 304(b) \[19 U.S.C. 2603(b)\] to the extent that they involve determinations by the President that an emergency condition applies with respect to any archaeological or ethnological material of any State Party to the Convention, subject to the limitations of sections 304(c)(1), 304(c)(2), and 304(c)(3).
+(f) The functions conferred by section 304(b) \[19 U.S.C. 2603(b)\] to the extent that they involve determinationsby the President that an emergency condition applies with respect to any archaeological or ethnological material of any State Party to the Convention, subject to the limitations of sections 304(c)(1), 304(c)(2), and 304(c)(3).
 
 (g) The functions conferred by section 304(c)(3) to the extent that they involve determinations to be made and the receipt and consideration of an advisory report from the Cultural Property Advisory Committee by the President prior to extensions of emergency import restrictions.
 

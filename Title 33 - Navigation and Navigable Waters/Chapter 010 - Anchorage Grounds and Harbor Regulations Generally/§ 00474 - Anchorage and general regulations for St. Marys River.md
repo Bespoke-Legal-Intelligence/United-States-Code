@@ -10,7 +10,7 @@ In the event of the violation of any such regulations or rules of the Commandant
 
 #### References in Text
 
-Chapter 4 of this title, referred to in last par., was in the original “the Act entitled ‘An Act to regulate navigation on the Great Lakes, and their connecting and tributary waters as far east as Montreal,’ approved February eighth, eighteen hundred and ninety-five”, which was classified generally to chapter 4 (§241 et seq.) of this title and was repealed by Pub. L. 96–591, §8(b), Dec. 24, 1980, 94 Stat. 3435, eff. Mar. 1, 1983, pursuant to 47 F.R. 15135, Apr. 8, 1982. See section 7 of Pub. L. 96–591, set out as an Effective Date note under section 2001 of this title.
+Chapter 4 of this title, referred to in last par., was in the original “the Act entitled ‘An Act to regulate navigation on the Great Lakes, and their connecting and tributary waters as far east as Montreal,’ approved February eighth, eighteen hundred and ninety-five”, which was classified generally to chapter 4 (§241 et seq.) of this title and was repealed by Pub. L. 96–591, §8(b), Dec. 24, 1980, 94 Stat. 3435, eff. Mar. 1, 1983, pursuant to47 F.R. 15135, Apr. 8, 1982. See section 7 of Pub. L. 96–591, set out as an Effective Date note under section 2001 of this title.
 
 #### Transfer of Functions
 
@@ -23,10 +23,6 @@ Functions of Secretary of Commerce under this section transferred to Commandant 
 For transfer of functions of other officers, employees, and agencies of Department of the Treasury, with certain exceptions, to Secretary of the Treasury with power to delegate, see Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. Functions of Coast Guard, and Commandant of Coast Guard, excepted from transfer when Coast Guard is operating as part of Navy under sections 1 and 3 of Title 14, Coast Guard.
 
 Coast Guard transferred to Department of Transportation, and functions, powers, and duties relating to Coast Guard of Secretary of the Treasury and of other officers and offices of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, §6(b)(1), Oct. 15, 1966, 80 Stat. 938. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in section 3 of Title 14, Coast Guard. See section 108 of Title 49, Transportation.
-
-#### Cross References
-
-Anchorage grounds and regulations generally, see section 471 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

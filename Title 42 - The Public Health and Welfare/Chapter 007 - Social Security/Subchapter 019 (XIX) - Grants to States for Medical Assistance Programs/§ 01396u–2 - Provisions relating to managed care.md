@@ -108,13 +108,13 @@
 
 &emsp;&emsp;In carrying out paragraph (1)(A), the State shall establish a default enrollment process—
 
-&emsp;&emsp;&emsp;(i) under which any such individual who does not enroll with a managed care entity during the enrollment period specified bythe State shall be enrolled by the State with such an entity which has not been found to be out of substantial compliance with the applicable requirements of this section and of section 1396b(m) of this title or section 1396d(t) of this title; and
+&emsp;&emsp;&emsp;(i) under which any such individual who does not enroll with a managed care entity during the enrollment period specified by the State shall be enrolled by the State with such an entity which has not been found to be out of substantial compliance with the applicable requirements of this section and of section 1396b(m) of this title or section 1396d(t) of this title; and
 
 &emsp;&emsp;&emsp;(ii) that takes into consideration—
 
 &emsp;&emsp;&emsp;&emsp;(I) maintaining existing provider-individual relationships or relationships with providers that have traditionally served beneficiaries under this subchapter; and
 
-&emsp;&emsp;&emsp;&emsp;(II) if maintaining such provider relationships is not possible, the equitable distribution of such individuals among qualified managed care entities available to enroll such individuals, consistent with the enrollment capacities of the entities.
+&emsp;&emsp;&emsp;&emsp;(II) if maintaining such provider relationships is not possible, the equitable distribution of such individuals among qualified managed care entities available to enroll such individuals, consistentwith the enrollment capacities of the entities.
 
 #### (5) Provision of information
 
@@ -182,7 +182,7 @@
 
 #### (B) “Emergency services” defined
 
-&emsp;&emsp;In subparagraph (A)(i), the term “emergency services” means, with respect to an individual enrolled with an organization,covered inpatient and outpatient services that—
+&emsp;&emsp;In subparagraph (A)(i), the term “emergency services” means, with respect to an individual enrolled with an organization, covered inpatient and outpatient services that—
 
 &emsp;&emsp;&emsp;(i) are furnished by a provider that is qualified to furnish such services under this subchapter, and
 
@@ -246,11 +246,11 @@
 
 #### (7) Antidiscrimination
 
-&emsp;A medicaid managed care organization shall not discriminate with respect to participation,reimbursement, or indemnification as to any provider who is acting within the scope of the provider's license or certification under applicable State law, solely on the basis of such license or certification. This paragraph shall not be construed to prohibit an organization from including providers only to the extent necessary to meet the needs of the organization's enrollees or from establishing any measure designed to maintain quality and control costs consistent with the responsibilities of the organization.
+&emsp;A medicaid managed care organization shall not discriminate with respect to participation, reimbursement, or indemnification as to any provider who is acting within the scope of the provider's license or certification under applicable State law, solely on the basis of such license or certification. This paragraph shall not be construed to prohibit an organization from including providers only to the extent necessary to meet the needs of the organization's enrollees or from establishing any measure designed to maintain quality and control costs consistent with the responsibilities of the organization.
 
 #### (8) Compliance with certain maternity and mental health requirements
 
-&emsp;Each medicaid managed care organization shall comply with the requirements of subpart 2 of part A of title XXVII of the Public Health Service Act \[42 U.S.C. 300gg–4 et seq.\] insofar as such requirements apply and are effective with respect to a health insurance issuer that offers group health insurance coverage.
+&emsp;Each medicaid managed care organization shall comply with the requirements of subpart2 of part A of title XXVII of the Public Health Service Act \[42 U.S.C. 300gg–4 et seq.\] insofar as such requirements apply and are effective with respect to a health insurance issuer that offers group health insurance coverage.
 
 #### (c) Quality assurance standards
 
@@ -310,7 +310,7 @@
 
 #### (B) Nonduplication of accreditation
 
-&emsp;&emsp;A State may provide that, in the case of a medicaid managed care organization that is accredited by a private independent entity (such as those described in section 1395w–22(e)(4) of this title) or that has an external review conducted under section 1395w–22(e)(3) of this title, the external review activities conducted under subparagraph (A) with respect to the organizationshall not be duplicative of review activities conducted as part of the accreditation process or the external review conducted under such section.
+&emsp;&emsp;A State may provide that, in the case of a medicaid managed care organization that is accredited by a private independent entity (such as those described in section 1395w–22(e)(4) of this title) or that has an external review conducted under section 1395w–22(e)(3) of this title, the external review activities conducted under subparagraph (A) with respect to the organization shall not be duplicative of review activities conducted as part of the accreditation process or the external review conducted under such section.
 
 #### (C) Deemed compliance for medicare managed care organizations
 
@@ -478,7 +478,15 @@
 
 A contract under section 1396b(m) of this title with a medicaid managed care organization shall provide that the organization shall make payment to health care providers for items and services which are subject to the contract and that are furnished to individuals eligible for medical assistance under the State plan under this subchapter who are enrolled with the organization on a timely basis consistent with the claims payment procedures described in section 1396a(a)(37)(A) of this title, unless the health care provider and the organization agree to an alternate payment schedule.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1932, as added and amended Pub. L. 105–33, title IV, §§4701(a), 4704(a), 4705(a), 4707(a), 4708(c), Aug. 5, 1997, 111 Stat. 489, 495, 498, 501, 506; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(w)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–398.)
+#### (g) Identification of patients for purposes of making DSH payments
+
+Each contract with a managed care entity under section 1396b(m) of this title or under section 1396d(t)(3) of this title shall require the entity either—
+
+&emsp;(1) to report to the State information necessary to determine the hospital services provided under the contract (and the identity of hospitals providing such services) for purposes of applying sections 1395ww(d)(5)(F) and 1396r–4 of this title; or
+
+&emsp;(2) to include a sponsorship code in the identification card issued to individuals covered under this subchapter in order that a hospital may identify a patient as being entitled to benefits under this subchapter.
+
+(Aug. 14, 1935, ch. 531, title XIX, §1932, as added and amended Pub. L. 105–33, title IV, §§4701(a), 4704(a), 4705(a), 4707(a), 4708(c), Aug. 5, 1997, 111 Stat. 489, 495, 498, 501, 506; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(w)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–398; Pub. L. 106–554, §1(a)(6) \[title VII, §701(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–570.)
 
 #### References in Text
 
@@ -504,6 +512,8 @@ A prior section 1932 of act Aug. 14, 1935, was renumbered section 1935 and is cl
 
 #### Amendments
 
+2000—Subsec. (g). Pub. L. 106–554 added subsec. (g).
+
 1999—Subsec. (c)(2)(C). Pub. L. 106–113, §1000(a)(6) \[title VI, §608(w)(1)\], inserted “part” before “C of subchapter XVIII”.
 
 Subsec. (d)(1)(C)(ii). Pub. L. 106–113, §1000(a)(6) \[title VI, §608(w)(2)(A)\], substituted “Regulation” for “Act”.
@@ -517,6 +527,10 @@ Subsec. (c). Pub. L. 105–33, §4705(a), added subsec. (c).
 Subsecs. (d), (e). Pub. L. 105–33, §4707(a), added subsecs. (d) and (e).
 
 Subsec. (f). Pub. L. 105–33, §4708(c), added subsec. (f).
+
+#### Effective Date of 2000 Amendment
+
+Pub. L. 106–554, §1(a)(6) \[title VII, §701(b)(3)(A)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–570, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to contracts as of January 1, 2001.”
 
 #### Effective Date
 
@@ -532,7 +546,7 @@ GAO study and report on quality assurance and accreditation standards.—
 
 &emsp;“(A)
 
-Study.—The Comptroller General of the United States shall conduct a study and analysis ofthe quality assurance programs and accreditation standards applicable to managed care entities operating in the private sector, or to such entities that operate under contracts under the medicare program under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.). Such study shall determine—
+Study.—The Comptroller General of the United States shall conduct a study and analysis of the quality assurance programs and accreditation standards applicable to managed care entities operating in the private sector, or to such entities that operate under contracts under the medicare program under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.). Such study shall determine—
 
 &emsp;&emsp;“(i) if such programs and standards include consideration of the accessibility and quality of the health care items and services delivered under such contracts to low-income individuals; and
 
@@ -540,7 +554,7 @@ Study.—The Comptroller General of the United States shall conduct a study and 
 
 &emsp;“(B)
 
-Report.—The Comptroller General shall submit a report to the Committee on Commerce of the House of Representatives and the Committee on Finance of the Senate on the study conducted under subparagraph (A).
+Report.—The Comptroller General shall submit a report to the Committee on Commerce \[now Committee on Energy and Commerce\] of the House of Representatives and the Committee on Finance of the Senate on the study conducted under subparagraph (A).
 
 “(2)
 

@@ -2,7 +2,7 @@
 
 #### (a) Appointment
 
-The President may appoint, by and with the advice and consent of the Senate, twelve officersin the agency primarily responsible for administering subchapter I of this chapter, and in the selection of one of such persons due consideration shall be given to persons qualified as professional engineers.
+The President may appoint, by and with the advice and consent of the Senate, twelve officers in the agency primarily responsible for administering subchapter I of this chapter, and in the selection of one of such persons due consideration shall be given to persons qualified as professional engineers.
 
 #### (b) Rate of compensation; title of officers; order of succession
 
@@ -26,7 +26,7 @@ Section 642(a), referred to in subsec. (c), means section 642(a) of Pub. L. 87�
 
 #### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
 
-References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
+References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), andVIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
 
 #### Amendments
 
@@ -109,10 +109,6 @@ Section 124(a)(2) of Pub. L. 95–88, which provided that the President (A) may 
 #### Agency for International Development
 
 For appointments under subsec. (a) to United States Agency for International Development, see section 1–200(b) and (c) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
-
-#### Cross References
-
-Compensation of officers, see chapter 53 of Title 5, Government Organization and Employees.
 
 #### Section Referred to in Other Sections
 

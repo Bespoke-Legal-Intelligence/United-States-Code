@@ -2,7 +2,7 @@
 
 #### (a) Application for adjustment assistance
 
-A firm certified under section 2341 of this title as eligible to apply for adjustment assistance may, at any time within 2 years after the dateof such certification, file an application with the Secretary for adjustment assistance under this part. Such application shall include a proposal for the economic adjustment of such firm.
+A firm certified under section 2341 of this title as eligible to apply for adjustment assistance may, at any time within 2 years after the date of such certification, file an application with the Secretary for adjustment assistance under this part. Such application shall include a proposal for the economic adjustment of such firm.
 
 #### (b) Technical assistance
 
@@ -22,10 +22,6 @@ Whenever the Secretary determines that any firm no longer requires assistance un
 
 (Pub. L. 93–618, title II, §252, Jan. 3, 1975, 88 Stat. 2030; Pub. L. 99–272, title XIII, §13006(a)(1), (2), Apr. 7, 1986, 100 Stat. 304.)
 
-#### Termination of Section
-
-<i>For termination of section by section 285 of Pub. L. 93–618, see Termination Date note set out preceding section 2271 of this title.</i>
-
 #### Amendments
 
 1986—Subsec. (b)(1). Pub. L. 99–272, §13006(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Adjustment assistance under this part consists of technical assistance and financial assistance, which may be furnished singly or in combination. The Secretary shall approve a firm's application for adjustment assistance only if he determines—
@@ -41,6 +37,10 @@ Whenever the Secretary determines that any firm no longer requires assistance un
 &emsp;&emsp;“(iii) demonstrates that the firm will make all reasonable efforts to use its own resources for economic development.”
 
 Subsecs. (c), (d). Pub. L. 99–272, §13006(a)(2), redesignated subsec. (d) as (c) and struck out former subsec. (c) which authorized the Secretary to assist an eligible firm in the preparation of a viable adjustment proposal.
+
+#### Termination Date
+
+No technical assistance to be provided under this part after Sept. 30, 2001, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
 
 #### Section Referred to in Other Sections
 

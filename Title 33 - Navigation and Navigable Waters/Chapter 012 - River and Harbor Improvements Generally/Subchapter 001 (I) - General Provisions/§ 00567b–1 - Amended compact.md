@@ -8,7 +8,3 @@ The consent of Congress is hereby given to the States of Maryland and West Virgi
 
 The amended compact, referred to in text, is set out in 84 Stat. 856 to 860.
 
-#### Codification
-
-Section is also set out in section 7–1302(a) of the District of Columbia Code.
-

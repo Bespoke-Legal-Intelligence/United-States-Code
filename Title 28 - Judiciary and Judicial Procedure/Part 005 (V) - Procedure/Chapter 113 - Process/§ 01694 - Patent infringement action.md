@@ -1,6 +1,6 @@
 ### §1694. Patent infringement action
 
-In a patent infringement action commenced in a district where the defendant is not a residentbut has a regular and established place of business, service of process, summons or subpoena upon such defendant may be made upon his agent or agents conducting such business.
+In a patent infringement action commenced in a district where the defendant is not a resident but has a regular and established place of business, service of process, summons or subpoena upon such defendant may be made upon his agent or agents conducting such business.
 
 (June 25, 1948, ch. 646, 62 Stat. 945.)
 
@@ -11,8 +11,4 @@ Based on title 28, U.S.C., 1940 ed., §109 (Mar. 3, 1911, ch. 231, §48, 36 Stat
 Venue provisions of section 109 of title 28, U.S.C., 1940 ed., appear in section 1400 of this title.
 
 Changes were made in phraseology.
-
-#### Cross References
-
-Venue in patent infringement action, see section 1400 of this title.
 

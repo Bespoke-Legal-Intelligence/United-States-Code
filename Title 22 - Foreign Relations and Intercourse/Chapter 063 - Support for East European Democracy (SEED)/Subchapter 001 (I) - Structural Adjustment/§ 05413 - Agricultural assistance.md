@@ -12,7 +12,7 @@
 
 #### (3) Avoiding disincentives to private agricultural production and marketing
 
-&emsp;In participating in such multilateral agricultural assistance, the United States shall seek to strike a balance wherein agriculturalcommodities and products are supplied in such quantities as will be effective in overcoming severe shortages and dampening inflation but without impeding the development of incentives for private agricultural production and marketing in the recipient country.
+&emsp;In participating in such multilateral agricultural assistance, the United States shall seek to strike a balance wherein agricultural commodities and products are supplied in such quantities as will be effective in overcoming severe shortages and dampening inflation but without impeding the development of incentives for private agricultural production and marketing in the recipient country.
 
 #### (b) Agricultural assistance for Poland
 

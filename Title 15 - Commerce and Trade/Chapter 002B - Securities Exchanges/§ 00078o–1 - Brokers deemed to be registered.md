@@ -12,9 +12,3 @@ Section was not enacted as a part of the Securities Exchange Act of 1934 which c
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
-#### Cross References
-
-Effective date, see section 78hh–1 of this title.
-
-Rules and regulations, power of Commission to make, see section 78w of this title.
-

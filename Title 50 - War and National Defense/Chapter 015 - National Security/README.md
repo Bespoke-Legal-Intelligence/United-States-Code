@@ -96,6 +96,9 @@
 | (c) | Exercise of authority with respect to members of Armed Forces assigned to foreign intelligence duties. |
 | (d) | Payment and acceptance of award. |
 | [403f.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2000403f%20-%20General%20authorities%20of%20Agency.md) | General authorities of Agency. |
+| (a) | In general. |
+| (b) | Scope of authority for expenditure. |
+| (c) | Transfers for acquisition of land. |
 | [403g.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2000403g%20-%20Protection%20of%20nature%20of%20Agency%27s%20functions.md) | Protection of nature of Agency's functions. |
 | [403h.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2000403h%20-%20Admission%20of%20essential%20aliens%3B%20limitation%20on%20number.md) | Admission of essential aliens; limitation on number. |
 | [403i.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2000403i%20-%20Repealed.%20Sept.%201%2C%201954%2C%20ch.%201208%2C%20title%20VI%2C%20%C2%A7601%28b%29%2C%2068%20Stat.%201115.md) | Repealed. |
@@ -156,6 +159,7 @@
 | (f) | Fees. |
 | (g) | Audit. |
 | (h) | Termination. |
+| [403v.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2000403v%20-%20Detail%20of%20employees.md) | Detail of employees. |
 | [404\.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2000404%20-%20Emergency%20preparedness.md) | Emergency preparedness. |
 | (a) | Employment of personnel. |
 | (b) | Functions. |
@@ -204,6 +208,12 @@
 | (b) | Prohibition of use of appropriations. |
 | (c) | Definitions. |
 | (d) | Termination. |
+| [404k.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2000404k%20-%20Travel%20on%20any%20common%20carrier%20for%20certain%20intelligence%20collection%20personnel.md) | Travel on any common carrier for certain intelligence collection personnel. |
+| (a) | In general. |
+| (b) | Authorized delegation of duty. |
+| 404<i>l.</i> | POW/MIA analytic capability. |
+| (a) | Requirement. |
+| (b) | Unaccounted for United States personnel. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -216,6 +226,18 @@
 | [407\.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20and%20Conforming%20Provisions/%C2%A7%2000407%20-%20Study%20or%20plan%20of%20surrender%3B%20use%20of%20appropriations.md) | Study or plan of surrender; use of appropriations. |
 | [408\.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20and%20Conforming%20Provisions/%C2%A7%2000408%20-%20Applicable%20laws.md) | Applicable laws. |
 | [409\.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20and%20Conforming%20Provisions/%C2%A7%2000409%20-%20Definitions%20of%20military%20departments.md) | Definitions of military departments. |
+| [409a.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20and%20Conforming%20Provisions/%C2%A7%2000409a%20-%20National%20Security%20Agency%20voluntary%20separation.md) | National Security Agency voluntary separation. |
+| (a) | Short title. |
+| (b) | Definitions. |
+| (c) | Establishment of program. |
+| (d) | Early retirement. |
+| (e) | Amount of separation pay and treatment for other purposes. |
+| (f) | Reemployment restrictions. |
+| (g) | Bar on certain employment. |
+| (h) | Limitations. |
+| (i) | Regulations. |
+| (j) | Reporting requirements. |
+| (k) | Remittance of funds. |
 | [410\.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20and%20Conforming%20Provisions/%C2%A7%2000410%20-%20%E2%80%9CFunction%E2%80%9D%20and%20%E2%80%9CDepartment%20of%20Defense%E2%80%9D%20defined.md) | “Function” and “Department of Defense” defined. |
 | [411\.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20and%20Conforming%20Provisions/%C2%A7%2000411%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [412\.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20and%20Conforming%20Provisions/%C2%A7%2000412%20-%20Repealing%20and%20savings%20provisions.md) | Repealing and savings provisions. |
@@ -297,6 +319,13 @@
 |  |  |
 | :--- | ---: |
 | [435\.](Subchapter%20006%20%28VI%29%20-%20Access%20to%20Classified%20Information/%C2%A7%2000435%20-%20Procedures.md) | Procedures. |
+| [435a.](Subchapter%20006%20%28VI%29%20-%20Access%20to%20Classified%20Information/%C2%A7%2000435a%20-%20Limitation%20on%20handling%2C%20retention%2C%20and%20storage%20of%20certain%20classified%20materials%20by%20the%20Department%20of%20State.md) | Limitation on handling, retention, and storage of certain classified materials by the Department of State. |
+| (a) | Certification regarding full compliance with requirements. |
+| (b) | Limitation on certification. |
+| (c) | Report on noncompliance. |
+| (d) | Effects of certification of non-full compliance. |
+| (e) | Waiver by Director of Central Intelligence. |
+| (f) | Definitions. |
 | [436\.](Subchapter%20006%20%28VI%29%20-%20Access%20to%20Classified%20Information/%C2%A7%2000436%20-%20Requests%20by%20authorized%20investigative%20agencies.md) | Requests by authorized investigative agencies. |
 | (a) | Generally. |
 | (b) | Disclosure of requests. |
@@ -311,13 +340,19 @@
 
 #### SUBCHAPTER VII—APPLICATION OF SANCTIONS LAWS TO INTELLIGENCE ACTIVITIES
 
+|  |
+| :--- |
+| 441 to 441d. Omitted. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER VIII—ADDITIONAL MISCELLANEOUS PROVISIONS
+
 |  |  |
 | :--- | ---: |
-| [441\.](Subchapter%20007%20%28VII%29%20-%20Application%20of%20Sanctions%20Laws%20to%20Intelligence%20Activities/%C2%A7%2000441%20-%20Stay%20of%20sanctions.md) | Stay of sanctions. |
-| [441a.](Subchapter%20007%20%28VII%29%20-%20Application%20of%20Sanctions%20Laws%20to%20Intelligence%20Activities/%C2%A7%2000441a%20-%20Extension%20of%20stay.md) | Extension of stay. |
-| [441b.](Subchapter%20007%20%28VII%29%20-%20Application%20of%20Sanctions%20Laws%20to%20Intelligence%20Activities/%C2%A7%2000441b%20-%20Reports.md) | Reports. |
-| [441c.](Subchapter%20007%20%28VII%29%20-%20Application%20of%20Sanctions%20Laws%20to%20Intelligence%20Activities/%C2%A7%2000441c%20-%20Laws%20subject%20to%20stay.md) | Laws subject to stay. |
-| [441d.](Subchapter%20007%20%28VII%29%20-%20Application%20of%20Sanctions%20Laws%20to%20Intelligence%20Activities/%C2%A7%2000441d%20-%20Application.md) | Application. |
+| [442\.](Subchapter%20008%20%28VIII%29%20-%20Additional%20Miscellaneous%20Provisions/%C2%A7%2000442%20-%20Applicability%20to%20United%20States%20intelligence%20activities%20of%20Federal%20laws%20implementing%20international%20treaties%20and%20agreements.md) | Applicability to United States intelligence activities of Federal laws implementing international treaties and agreements. |
+| (a) | In general. |
+| (b) | Authorized intelligence activities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -335,3 +370,4 @@
 - [Subchapter 005 (V) - Protection of Operational Files of the Central Intelligence Agency](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Operational%20Files%20of%20the%20Central%20Intelligence%20Agency/README.md)
 - [Subchapter 006 (VI) - Access to Classified Information](Subchapter%20006%20%28VI%29%20-%20Access%20to%20Classified%20Information/README.md)
 - [Subchapter 007 (VII) - Application of Sanctions Laws to Intelligence Activities](Subchapter%20007%20%28VII%29%20-%20Application%20of%20Sanctions%20Laws%20to%20Intelligence%20Activities/README.md)
+- [Subchapter 008 (VIII) - Additional Miscellaneous Provisions](Subchapter%20008%20%28VIII%29%20-%20Additional%20Miscellaneous%20Provisions/README.md)

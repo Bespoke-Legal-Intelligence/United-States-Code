@@ -58,7 +58,7 @@ Pub. L. 102–240, title I, §1050, Dec. 18, 1991, 105 Stat. 2000, provided that
 
 “(a)
 
-In General.—Not later than 12 months after the date of the enactment of this Act \[Dec. 18, 1991\], the Secretary, in consultation with the Secretary of the Interior, shall conduct and transmit to Congress a study of alternative transportation modes for use in the National Park System. In conducting such study, the Secretary shall consider (1) the economic and technical feasibility, environmental effects, projected costs and benefits as compared to the costs and benefits of existing transportation systems, and general suitability of transportation modes that would provide efficient andenvironmentally sound ingress to and egress from National Park lands; and (2) methods to obtain private capital for the construction of such transportation modes and related infrastructure.
+In General.—Not later than 12 months after the date of the enactment of this Act \[Dec. 18, 1991\], the Secretary, in consultation with the Secretary of the Interior, shall conduct and transmit to Congress a study of alternative transportation modes for use in the National Park System. In conducting such study, the Secretary shall consider (1) the economic and technical feasibility, environmental effects, projected costs and benefits as compared to the costs and benefits of existing transportation systems, and general suitability of transportation modes that would provide efficient and environmentally sound ingress to and egress from National Park lands; and (2) methods to obtain private capital for the construction of such transportation modes and related infrastructure.
 
 “(b)
 

@@ -25,10 +25,6 @@
 
 1992—Pub. L. 102–484, div. A, title X, §1052(6), Oct. 23, 1992, 106 Stat. 2499, inserted “to be” after “Information” in item 576 and substituted “Promotions:” for “Promotions;” in item 578.
 
-#### Cross References
-
-Suspension of officer personnel laws during war or national emergency, see section 123 of this title.
-
 
 ---
 

@@ -10,7 +10,7 @@ Limitation on Value of Investment in Limited Partnership.—(1) The cash amount 
 
 (2) If the Secretary conveys land or facilities to a nongovernmental entity as all or part of an investment in the entity under this section, the total value of the investment by the Secretary under this section may not exceed an amount equal to 45 percent of the capital cost (as determined by the Secretary) of the project or projects that the entity proposes to carry out under this section with the investment.
 
-(3) In this subsection, the term “capital cost”, with respect to a project for the acquisition or construction of housing, means the total amount of the costs included in the basis of the housing for Federal income tax purposes.
+(3) In this subsection, the term “capital cost”, with respect to a project for the acquisition orconstruction of housing, means the total amount of the costs included in the basis of the housing for Federal income tax purposes.
 
 (c)
 

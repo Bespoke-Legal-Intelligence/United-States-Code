@@ -7,3 +7,4 @@
 
 - [&sect; 03711 - Establishment of Office of Justice Programs](%C2%A7%2003711%20-%20Establishment%20of%20Office%20of%20Justice%20Programs.md)
 - [&sect; 03712 - Duties and functions of Assistant Attorney General](%C2%A7%2003712%20-%20Duties%20and%20functions%20of%20Assistant%20Attorney%20General.md)
+- [&sect; 03713 - State grant program for training and prosecution of computer crimes](%C2%A7%2003713%20-%20State%20grant%20program%20for%20training%20and%20prosecution%20of%20computer%20crimes.md)

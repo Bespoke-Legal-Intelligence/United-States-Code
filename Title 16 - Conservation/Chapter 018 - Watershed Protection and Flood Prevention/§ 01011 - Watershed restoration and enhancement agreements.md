@@ -22,9 +22,9 @@ In order for the Secretary to enter into a watershed restoration and enhancement
 
 &emsp;&emsp;(B) improve the viability of and otherwise benefit the fish, wildlife, and other biotic resources on public land in the watershed;
 
-&emsp;&emsp;(C) authorize the provision of technical assistance by the Secretary in the planning of management activities that will further the purposes of the agreement;
+&emsp;&emsp;(C) authorize the provision of technical assistance by the Secretary in the planning ofmanagement activities that will further the purposes of the agreement;
 
-&emsp;&emsp;(D) provide for the sharing of costs of implementing the agreement among the Federal government,<sup>1</sup> the landowner, and otherentities, as mutually agreed on by the affected interests; and
+&emsp;&emsp;(D) provide for the sharing of costs of implementing the agreement among the Federal government,<sup>1</sup> the landowner, and other entities, as mutually agreed on by the affected interests; and
 
 &emsp;&emsp;(E) ensure that any expenditure by the Secretary pursuant to the agreement is determined by the Secretary to be in the public interest; and
 
@@ -85,4 +85,6 @@ Reporting Requirements.—Not later than December 31, 1999, the Secretary shall 
 Similar provisions were contained in the following prior appropriation act:
 
 Pub. L. 105–83, title III, §334, Nov. 14, 1997, 111 Stat. 1601.
+
+<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

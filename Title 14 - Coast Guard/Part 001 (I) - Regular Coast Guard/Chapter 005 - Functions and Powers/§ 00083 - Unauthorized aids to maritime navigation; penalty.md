@@ -18,17 +18,7 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-#### Cross References
-
-Aids to navigation—
-
-&emsp;&emsp;Authorized, see section 81 of this title.
-
-&emsp;&emsp;Damages for injuring or destroying, deposit of payments, see section 642 of this title.
-
-&emsp;&emsp;Rewards for apprehension and conviction of persons interfering with, see section 643 of this title.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in section 84 of this title.
+This section is referred to in section 84 of this title; title 16 section 470w–7.
 

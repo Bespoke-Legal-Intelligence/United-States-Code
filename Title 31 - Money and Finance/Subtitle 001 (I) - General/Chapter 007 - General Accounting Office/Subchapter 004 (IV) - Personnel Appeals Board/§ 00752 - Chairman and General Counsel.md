@@ -8,7 +8,7 @@
 
 (3) The General Counsel shall—
 
-&emsp;(A) investigate an allegation about a prohibited personnel practice under section 732(b)(2) of this title to decide if there are reasonable grounds to believe the practice has occurred, exists, or will be taken by an officer or an employee of the General Accounting Office;
+&emsp;(A) investigate an allegation about a prohibited personnel practice under section 732(b)(2) of this title to decide if there are reasonablegrounds to believe the practice has occurred, exists, or will be taken by an officer or an employee of the General Accounting Office;
 
 &emsp;(B) investigate an allegation about a prohibited political activity under section 732(b)(3) of this title;
 
@@ -48,7 +48,7 @@ In subsection (b)(3)(D), the word “otherwise” is omitted as surplus. The wor
 
 #### Amendments
 
-1988—Subsec. (b)(2). Pub. L. 100–426 substituted “The rate of basic pay of the General Counsel may be notmore than the maximum rate of basic pay payable for grade GS–16 of the General Schedule” for “The annual rate of basic pay of the General Counsel may be not more than the maximum rate for GS–15”.
+1988—Subsec. (b)(2). Pub. L. 100–426 substituted “The rate of basic pay of the General Counsel may be not more than the maximum rate of basic pay payable for grade GS–16 of the General Schedule” for “The annual rate of basic pay of the General Counsel may be not more than the maximum rate for GS–15”.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

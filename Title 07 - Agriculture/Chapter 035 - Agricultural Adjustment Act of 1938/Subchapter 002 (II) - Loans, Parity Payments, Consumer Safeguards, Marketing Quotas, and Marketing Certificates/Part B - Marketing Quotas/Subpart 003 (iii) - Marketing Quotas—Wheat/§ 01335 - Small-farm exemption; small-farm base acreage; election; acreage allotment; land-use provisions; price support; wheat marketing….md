@@ -10,7 +10,7 @@ Notwithstanding any other provision of this subpart, no farm marketing quota for
 
 1965—Pub. L. 89–321 made section inapplicable to crops planted for harvest in 1967 and subsequent years.
 
-1962—Pub. L. 87–703 substituted provisions for small-farm exemption from marketing quotas for provisions of subsecs. (a), (b), (c), (e), and (f), respecting the establishment of marketing quotas, the amount of national and farm marketing quotas, designation of States outside commercial wheat-producing areas (now covered by section 1334b of this title), and feed wheat exemption permitting any producer to harvest up to 30 acres ofwheat without penalty if the entire crop is used on the farm where produced.
+1962—Pub. L. 87–703 substituted provisions for small-farm exemption from marketing quotas for provisions of subsecs. (a), (b), (c), (e), and (f), respecting the establishment of marketing quotas, the amount of national and farm marketing quotas, designation of States outside commercial wheat-producing areas (now covered by section 1334b of this title), and feed wheat exemption permitting any producer to harvest up to 30 acres of wheat without penalty if the entire crop is used on the farm where produced.
 
 1961—Subsec. (d). Pub. L. 87–128 repealed subsec. (d) which provided that no farm marketing quota with respect to wheat shall be applicable in any marketing year to any farm on which the normal production of the acreage planted to wheat of the current crop is less than 200 bushels.
 
@@ -57,16 +57,6 @@ Section inapplicable to 1982 through 1985 crops of wheat, see section 303 of Pub
 Section inapplicable to 1978 through 1981 crops of wheat, see section 404 of Pub. L. 95–113, set out as a note under section 1331 of this title.
 
 Pub. L. 91–524, title IV, §404(1), Nov. 30, 1970, 84 Stat. 1366, as amended by Pub. L. 93–86, §1(11), Aug. 10, 1973, 87 Stat. 229, provided that this section is not applicable to 1971 through 1977 crops of wheat.
-
-#### Cross References
-
-Agreements for adjustment of acreage or production of basic agricultural commodities, see section 608 et seq. of this title.
-
-Delegation of regulatory functions of Secretary of Agriculture, see section 450c et seq. of this title.
-
-Price support levels, see section 1441 of this title.
-
-Supplemental provisions relating to corn and wheat marketing quotas, see section 1340 of this title.
 
 #### Section Referred to in Other Sections
 

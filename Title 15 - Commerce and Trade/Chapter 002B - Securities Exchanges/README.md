@@ -12,6 +12,9 @@
 | (e) | Charitable organizations. |
 | (f) | Consideration of promotion of efficiency, competition, and capital formation. |
 | (g) | Church plans. |
+| 78c–1. | Swap agreements. |
+| (a) | Non-security-based swap agreements. |
+| (b) | Security-based swap agreements. |
 | [78d.](%C2%A7%2000078d%20-%20Securities%20and%20Exchange%20Commission.md) | Securities and Exchange Commission. |
 | (a) | Establishment; composition; limitations on commissioners; terms of office. |
 | (b) | Appointment and compensation of staff and leasing authority. |
@@ -32,6 +35,11 @@
 | (d) | Discipline of national securities exchange members and persons associated with members; summary proceedings. |
 | (e) | Commissions, allowances, discounts, and other fees. |
 | (f) | Compliance of non-members with exchange rules. |
+| (g) | Notice registration of security futures product exchanges. |
+| (h) | Trading in security futures products. |
+| (i) | Rules to avoid duplicative regulation of dual registrants. |
+| (j) | Procedures and rules for security future products. |
+| (k) | Rules relating to security futures products traded on foreign boards of trade. |
 | [78g.](%C2%A7%2000078g%20-%20Margin%20requirements.md) | Margin requirements. |
 | (a) | Rules and regulations for extension of credit; standard for initial extension; undermargined accounts. |
 | (b) | Lower and higher margin requirements. |
@@ -48,8 +56,9 @@
 | (d) | Registered warrant, right, or convertible security not included in “put”, “call”, “straddle”, or “option”. |
 | (e) | Persons liable; suits at law or in equity. |
 | (f) | Subsection (a) not applicable to exempted securities. |
-| (g) | Foreign currencies. |
+| (g) | Foreign currencies and security futures products. |
 | (h) | Limitations on practices that affect market volatility. |
+| (i) | Limitation on Commission authority. |
 | [78j.](%C2%A7%2000078j%20-%20Manipulative%20and%20deceptive%20devices.md) | Manipulative and deceptive devices. |
 | 78j–1. | Audit requirements. |
 | (a) | In general. |
@@ -68,6 +77,7 @@
 | (b) | Securities information processors; registration; withdrawal of registration; access to services; censure; suspension or revocation of registration. |
 | (c) | Rules and regulations covering use of mails or other means or instrumentalities of interstate commerce; reports of purchase or sale of qualified securities; limiting registered securities transactions to national securities exchanges. |
 | (d) | National Market Advisory Board. |
+| (e) | National markets system for security futures products. |
 | 78<i>l.</i> | Registration requirements for securities. |
 | (a) | General requirement of registration. |
 | (b) | Procedure for registration; information. |
@@ -110,6 +120,7 @@
 | (g) | Requirements for transactions in penny stocks. |
 | (h) | Limitations on State law. |
 | (i) | Rulemaking to extend requirements to new hybrid products. |
+| (i) | Limitation on Commission authority. |
 | 78<i>o</i>–1. | Brokers deemed to be registered. |
 | 78<i>o</i>–2. | Liabilities arising prior to amendment unaffected. |
 | 78<i>o</i>–3. | Registered securities associations. |
@@ -123,6 +134,9 @@
 | (h) | Discipline of registered securities association members and persons associated with members; summary proceedings. |
 | (i) | Broker-dealer disciplinary history. |
 | (j) | Registration for sales of private securities offerings. |
+| (k) | Limited purpose national securities association. |
+| (<i>l</i>) | Rules to avoid duplicative regulation of dual registrants. |
+| (m) | Procedures and rules for security future products. |
 | 78<i>o</i>–4. | Municipal securities. |
 | (a) | Registration of municipal securities dealers. |
 | (b) | Municipal Securities Rulemaking Board; rules and regulations. |
@@ -142,9 +156,11 @@
 | (c) | Conditions for sale of security by beneficial owner, director, or officer. |
 | (d) | Securities held in investment account, transactions in ordinary course of business, and establishment of primary or secondary market. |
 | (e) | Application of section to foreign or domestic arbitrage transactions. |
+| (f) | Treatment of transactions in security futures products. |
+| (g) | Limitation on Commission authority. |
 | [78q.](%C2%A7%2000078q%20-%20Records%20and%20reports.md) | Records and reports. |
 | (a) | Rules and regulations. |
-| (b) | Examination of records; notice; avoidance of duplication and undue regulatory burden. |
+| (b) | Records subject to examination. |
 | (c) | Copies of reports filed with other regulatory agencies. |
 | (d) | Self-regulatory organizations. |
 | (e) | Balance sheet and income statement; other financial statements and information. |
@@ -156,7 +172,7 @@
 | (k) | Coordination of examining authorities. |
 | 78q–1. | National system for clearance and settlement of securities transactions. |
 | (a) | Congressional findings; facilitating establishment of system. |
-| (b) | Registration of clearing agencies; application; determinations by Commission requisite to registration of applicant as clearing agency; denial of participation; discipline; summary proceedings. |
+| (b) | Registration of clearing agencies; application; determinations by Commission requisite to registration of applicant as clearing agency; denial of participation; discipline; summary proceedings; exemption; facilities for handling derivatives. |
 | (c) | Registration of transfer agents. |
 | (d) | Activities of clearing agencies and transfer agents; enforcement by appropriate regulatory agencies. |
 | (e) | Physical movement of securities certificates. |
@@ -186,6 +202,7 @@
 | (c) | Hindering, delaying, or obstructing the making or filing of any document, report, or information. |
 | (d) | Liability for trading in securities while in possession of material nonpublic information. |
 | (e) | Prosecution of persons who aid and abet violations. |
+| (f) | Limitation on Commission authority. |
 | 78t–1. | Liability to contemporaneous traders for insider trading. |
 | (a) | Private rights of action based on contemporaneous trading. |
 | (b) | Limitations on liability. |
@@ -201,6 +218,7 @@
 | (f) | Rules of self-regulatory organizations. |
 | (g) | Consolidation of actions; consent of Commission. |
 | (h) | Access to records. |
+| (i) | Information to CFTC. |
 | 78u–1. | Civil penalties for insider trading. |
 | (a) | Authority to impose civil penalties. |
 | (b) | Limitations on liability. |
@@ -208,6 +226,7 @@
 | (d) | Procedures for collection. |
 | (e) | Authority to award bounties to informants. |
 | (f) | Definition. |
+| (g) | Limitation on Commission authority. |
 | 78u–2. | Civil remedies in administrative proceedings. |
 | (a) | Commission authority to assess money penalties. |
 | (b) | Maximum amount of penalty. |
@@ -240,7 +259,7 @@
 | [78v.](%C2%A7%2000078v%20-%20Hearings%20by%20Commission.md) | Hearings by Commission. |
 | [78w.](%C2%A7%2000078w%20-%20Rules%2C%20regulations%2C%20and%20orders%3B%20annual%20reports.md) | Rules, regulations, and orders; annual reports. |
 | (a) | Power to make rules and regulations; considerations; public disclosure. |
-| (b) | Reports to Congress. |
+| (b) | Omitted. |
 | (c) | Procedure for adjudication. |
 | (d) | Cease-and-desist procedures. |
 | [78x.](%C2%A7%2000078x%20-%20Public%20availability%20of%20information.md) | Public availability of information. |
@@ -301,9 +320,10 @@
 | (b) | Exchange-traded securities. |
 | (c) | Off-exchange trades of exchange registered securities. |
 | (d) | Off-exchange trades of last-sale-reported securities. |
-| (e) | Dates for payment of fees. |
-| (f) | Exemptions. |
-| (g) | Publication. |
+| (e) | Assessments on security futures transactions. |
+| (f) | Dates for payment of fees. |
+| (g) | Exemptions. |
+| (h) | Publication. |
 | [78ff.](%C2%A7%2000078ff%20-%20Penalties.md) | Penalties. |
 | (a) | Willful violations; false and misleading statements. |
 | (b) | Failure to file information, documents, or reports. |
@@ -324,7 +344,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 77ccc, 77hhh, 77www, 77zzz, 78bbb, 78eee, 79p, 79t, 79u, 80a–2, 80a–8, 80a–9, 80a–12, 80a–17, 80a–29, 80a–34, 80a–37, 80a–49, 80a–56, 80b–2, 80b–3, 80b–4a, 80b–8, 631b, 1691c, 1693<i>o</i>, 6805 of this title; title 2 section 1602; title 7 sections 6, 6m, 12a; title 11 section 741; title 12 sections 1465, 1831<i>o</i>, 1844, 2279aa–12, 3422, 4402; title 25 section 646; title 26 sections 162, 277; title 29 sections 432, 1343; title 31 section 5312; title 42 sections 2297h–2, 2297h–7; title 43 sections 1625, 1629b; title 45 section 1342; title 47 section 274.
+This chapter is referred to in sections 77ccc, 77hhh, 77www, 77zzz, 78bbb, 78eee, 79p, 79t, 79u, 80a–2, 80a–8, 80a–9, 80a–12, 80a–17, 80a–29, 80a–34, 80a–37, 80a–49, 80a–56, 80b–2, 80b–3, 80b–4a, 80b–8, 631b, 1691c, 1693<i>o</i>, 6805 of thistitle; title 2 section 1602; title 7 sections 1a, 2, 6, 6m, 7a, 7a–1, 12a; title 11 section 741; title 12 sections 1831<i>o</i>, 1844, 2279aa–12, 3422, 4402, 4422; title 25 section 646; title 26 sections 162, 277; title 29 sections 432, 1343; title 31 section 5312; title 42 sections 2297h–2, 2297h–7; title 43 sections 1625, 1629b; title 45 section 1342; title 47 section 274.
 
 
 ---
@@ -334,6 +354,7 @@ This chapter is referred to in sections 77ccc, 77hhh, 77www, 77zzz, 78bbb, 78eee
 - [&sect; 00078a - Short title](%C2%A7%2000078a%20-%20Short%20title.md)
 - [&sect; 00078b - Necessity for regulation](%C2%A7%2000078b%20-%20Necessity%20for%20regulation.md)
 - [&sect; 00078c - Definitions and application](%C2%A7%2000078c%20-%20Definitions%20and%20application.md)
+- [&sect; 00078c&#8211;1 - Swap agreements](%C2%A7%2000078c%E2%80%931%20-%20Swap%20agreements.md)
 - [&sect; 00078d - Securities and Exchange Commission](%C2%A7%2000078d%20-%20Securities%20and%20Exchange%20Commission.md)
 - [&sect; 00078d&#8211;1 - Delegation of functions by Commission](%C2%A7%2000078d%E2%80%931%20-%20Delegation%20of%20functions%20by%20Commission.md)
 - [&sect; 00078d&#8211;2 - Transfer of functions with respect to assignment of personnel to chairman](%C2%A7%2000078d%E2%80%932%20-%20Transfer%20of%20functions%20with%20respect%20to%20assignment%20of%20personnel%20to%20chairman.md)

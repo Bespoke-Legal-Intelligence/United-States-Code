@@ -8,9 +8,3 @@ The Secretary may report any violation of this chapter for which a civil penalty
 
 Section was formerly classified to section 562 of this title.
 
-#### Cross References
-
-Exclusive jurisdiction of district courts of actions to recover penalties, see section 1355 of Title 28, Judiciary and Judicial Procedure.
-
-Venue of action for penalty, see section 1395 of Title 28.
-

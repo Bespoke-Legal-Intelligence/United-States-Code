@@ -8,10 +8,6 @@ Purchasers of national-forest timber may be required by the Secretary of Agricul
 
 1950—Act Apr. 24, 1950, covered excess deposits into miscellaneous receipts instead of returning them to the depositors as was formerly the practice.
 
-#### Cross References
-
-Classification, appropriation and disbursement of trust funds on the books of the Government, see section 1321 of Title 31, Money and Finance.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 580k of this title.

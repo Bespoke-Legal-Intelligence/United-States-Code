@@ -1,6 +1,6 @@
 ### §556e. Emergency appropriations for rehabilitation and wildfire suppression
 
-Beginning in fiscal year 1993, and in each year thereafter, only amounts for emergency rehabilitation and wildfire suppression activities that are in excess of the average of such costs for the previous ten years shall be considered “emergency requirements” pursuant to section 901(b)(2)(D) <sup>1</sup> of title 2, and such amounts shall on and after November 13, 1991, be so designated.
+Beginning in fiscal year 1993, and in each year thereafter, only amounts for emergency rehabilitation and wildfire suppression activities that are in excess of the average of such costs for the previous ten years shall be considered “emergency requirements” pursuant to section901(b)(2)(D) <sup>1</sup> of title 2, and such amounts shall on and after November 13, 1991, be so designated.
 
 (Pub. L. 102–154, title II, Nov. 13, 1991, 105 Stat. 1015.)
 

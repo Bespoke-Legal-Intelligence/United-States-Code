@@ -28,7 +28,7 @@ For the purposes of this chapter, the term—
 
 (m) “Native Corporation” means any Regional Corporation, any Village Corporation, any Urban Corporation, and any Group Corporation;
 
-(n) “Group Corporation” means an Alaska Native Group Corporation organized under the laws of the State of Alaska as a business for profit or nonprofit corporation to hold, invest, manage and/or distribute lands, property, funds, and other rights and assets for and on behalf of members of a Native group in accordance with the terms of this chapter;
+(n) “Group Corporation” means an Alaska Native Group Corporation organized under the laws of the State of Alaska as a business for profit or nonprofit corporation to hold, invest, manageand/or distribute lands, property, funds, and other rights and assets for and on behalf of members of a Native group in accordance with the terms of this chapter;
 
 (<i>o</i>) “Urban Corporation” means an Alaska Native Urban Corporation organized under the laws of the State of Alaska as a business for profit or nonprofit corporation to hold, invest, manage and/or distribute lands, property, funds, and other rights and assets for and on behalf of members of an urban community of Natives in accordance with the terms of this chapter;
 
@@ -52,15 +52,17 @@ For the purposes of this chapter, the term—
 
 &emsp;(1) established and registered by a Native Corporation under the laws of the State of Alaska pursuant to a resolution of its shareholders, and
 
-&emsp;(2) operated for the sole benefit of the holders of the corporation's Settlement Common Stock in accordance with section 1629e of this title and the laws of the State of Alaska.
+&emsp;(2) operated for the benefit of shareholders, Natives, and descendants of Natives, in accordance with section 1629e of this title and the laws of the State of Alaska.
 
-(Pub. L. 92–203, §3, Dec. 18, 1971, 85 Stat. 689; Pub. L. 96–487, title XIV, §1401(d), Dec. 2, 1980, 94 Stat. 2492; Pub. L. 100–241, §3, Feb. 3, 1988, 101 Stat. 1789.)
+(Pub. L. 92–203, §3, Dec. 18, 1971, 85 Stat. 689; Pub. L. 96–487, title XIV, §1401(d), Dec. 2, 1980, 94 Stat. 2492; Pub. L. 100–241, §3, Feb. 3, 1988, 101 Stat. 1789; Pub. L. 106–194, §3, May 2, 2000, 114 Stat. 243.)
 
 #### References in Text
 
 Section 6(g) of the Alaska Statehood Act, as amended, referred to in subsec. (e), is section 6(g) of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, which is set out as a note preceding section 21 of Title 48, Territories and Insular Possessions.
 
 #### Amendments
+
+2000—Subsec. (t)(2). Pub. L. 106–194 substituted “benefit of shareholders, Natives, and descendants of Natives,” for “sole benefit of the holders of the corporation's Settlement Common Stock”.
 
 1988—Subsec. (h). Pub. L. 100–241, §3(1), inserted “group,” after “individual,”.
 
@@ -76,7 +78,7 @@ Subsecs. (n) to (t). Pub. L. 100–241, §3(5), added subsecs. (n) to (t).
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1615, 1626, 1641 of this title; title 16 sections 470w, 620e, 1722, 3102; title 20 sections 2326, 7938; title 25 sections 472a, 1903, 2012, 3103; title 29 section 2911; title 38 section 3764; title 42 sections 300f, 6949a, 9832, 10101, 12511, 12584; title 45 section 1202.
+This section is referred to in sections 1615, 1626, 1641 of this title; title 15 section 632; title 16 sections 470w, 620e, 1722, 3102; title 20 sections 2326, 7938; title 25 sections 472a, 1903, 2012, 3103; title 29 section 2911; title 38 section 3764; title 42 sections 300f, 6949a, 9832, 10101, 12511, 12584; title 45 section 1202.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Metlakatla”.</i>
 

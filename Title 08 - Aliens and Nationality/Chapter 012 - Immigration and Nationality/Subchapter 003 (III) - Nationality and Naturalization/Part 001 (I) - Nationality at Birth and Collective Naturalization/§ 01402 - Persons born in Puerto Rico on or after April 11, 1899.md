@@ -4,7 +4,3 @@ All persons born in Puerto Rico on or after April 11, 1899, and prior to January
 
 (June 27, 1952, ch. 477, title III, ch. 1, §302, 66 Stat. 236.)
 
-#### Cross References
-
-United States defined, see section 1101 of this title.
-

@@ -4,7 +4,3 @@ The loss of nationality under this part shall result solely from the performance
 
 (June 27, 1952, ch. 477, title III, ch. 3, §356, 66 Stat. 272.)
 
-#### Cross References
-
-Definition of national, see section 1101 of this title.
-

@@ -20,10 +20,13 @@
 | [130\.](%C2%A7%2000130%20-%20Authority%20to%20withhold%20from%20public%20disclosure%20certain%20technical%20data.md) | Authority to withhold from public disclosure certain technical data. |
 | [130a.](%C2%A7%2000130a%20-%20Major%20Department%20of%20Defense%20headquarters%20activities%20personnel%20limitation.md) | Major Department of Defense headquarters activities personnel: limitation. |
 | [130b.](%C2%A7%2000130b%20-%20Personnel%20in%20overseas%2C%20sensitive%2C%20or%20routinely%20deployable%20units%20nondisclosure%20of%20personally%20identifying%20information.md) | Personnel in overseas, sensitive, or routinely deployable units: nondisclosure of personally identifying information. |
+| [130c.](%C2%A7%2000130c%20-%20Nondisclosure%20of%20information%20certain%20sensitive%20information%20of%20foreign%20governments%20and%20international%20organizations.md) | Nondisclosure of information: certain sensitive information of foreign governments and international organizations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2000—Pub. L. 106–398, §1 \[\[div. A\], title X, §1073(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–280, added item 130c.
 
 1999—Pub. L. 106–65, div. A, title IX, §921(a)(2), title X, §1044(b), Oct. 5, 1999, 113 Stat. 723, 762, substituted “Major Department of Defense headquarters activities personnel: limitation” for “Management headquarters and headquarters support activities personnel: limitation” in item 130a and added item 130b.
 
@@ -76,3 +79,4 @@ Pub. L. 100–26, §9(b)(1), Apr. 21, 1987, 101 Stat. 287, struck out item 128 �
 - [&sect; 00130 - Authority to withhold from public disclosure certain technical data](%C2%A7%2000130%20-%20Authority%20to%20withhold%20from%20public%20disclosure%20certain%20technical%20data.md)
 - [&sect; 00130a - Major Department of Defense headquarters activities personnel limitation](%C2%A7%2000130a%20-%20Major%20Department%20of%20Defense%20headquarters%20activities%20personnel%20limitation.md)
 - [&sect; 00130b - Personnel in overseas, sensitive, or routinely deployable units nondisclosure of personally identifying information](%C2%A7%2000130b%20-%20Personnel%20in%20overseas%2C%20sensitive%2C%20or%20routinely%20deployable%20units%20nondisclosure%20of%20personally%20identifying%20information.md)
+- [&sect; 00130c - Nondisclosure of information certain sensitive information of foreign governments and international organizations](%C2%A7%2000130c%20-%20Nondisclosure%20of%20information%20certain%20sensitive%20information%20of%20foreign%20governments%20and%20international%20organizations.md)

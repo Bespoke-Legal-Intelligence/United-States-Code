@@ -4,12 +4,6 @@ No contract shall be made for the rent of any building, or part of any building,
 
 (Mar. 3, 1877, ch. 106, 19 Stat. 370.)
 
-#### Cross References
-
-Operation of buildings and related activities by Administrator of General Services, general powers and duties, see section 490 of this title.
-
-Section inapplicable to lease-purchase contracts, see section 356 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 356 of this title; title 8 section 1363a; title 15 section 2076; title 19 section 2081; title 26 section 7608; title 42 sections 242b, 282, 285a–2, 285b–3, 299c–5, 300cc–41, 1532, 2473.

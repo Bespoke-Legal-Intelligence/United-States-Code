@@ -34,7 +34,19 @@ Increasing Government's Share Under Airport and Airway Development Act of 1970.�
 
 Changing Workscope.—With the consent of the sponsor, the Secretary may amend a grant agreement made under this subchapter to change the workscope of a project financed under the grant if the amendment does not result in an increase in the maximum amount the Government may pay under subsection (b) of this section.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1262.)
+(e)
+
+Change in Airport Status.—
+
+&emsp;(1)
+
+Changes to nonprimary airport status.—If the status of a primary airport changes to a nonprimary airport at a time when a development project under a multiyear agreement under subsection (a) is not yet completed, the project shall remain eligible for funding from discretionary funds under section 47115 at the funding level and under the terms provided by the agreement, subject to the availability of funds.
+
+&emsp;(2)
+
+Changes to noncommercial service airport status.—If the status of a commercial service airport changes to a noncommercial service airport at a time when a terminal development project under a phased-funding arrangement is not yet completed, the project shall remain eligible for funding from discretionary funds under section 47115 at the funding level and under the terms provided by the arrangement subject to the availability of funds.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1262; Pub. L. 106–181, title I, §135(c), Apr. 5, 2000, 114 Stat. 84.)
 
 Historical and Revision Notes
 
@@ -85,6 +97,14 @@ In subsection (d), the word “sponsor” is substituted for “grant recipient�
 The Airport and Airway Improvement Act of 1982, referred to in subsec. (b)(2)(A), (3), is title V of Pub. L. 97–248, Sept. 3, 1982, 96 Stat. 671, as amended, which was classified principally to chapter 31 (§2201 et seq.) of former Title 49, Transportation, and was substantially repealed by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, and reenacted by the first section thereof as this subchapter.
 
 The Airport and Airway Development Act of 1970, referred to in subsec. (c), is title I of Pub. L. 91–258, May 21, 1970, 84 Stat. 219, as amended, which was classified principally to chapter 25 (§1701 et seq.) of former Title 49. Sections 1 through 30 of title I of Pub. L. 91–258, which enacted sections 1701 to 1703, 1711 to 1713, and 1714 to 1730 of former Title 49, and a provision set out as a note under section 1701 of former Title 49, were repealed by Pub. L. 97–248, title V, §523(a), Sept. 3, 1982, 96 Stat. 695. Sections 31, 51, 52(a), (b)(4), (6), (c), (d), and 53 of title I of Pub. L. 91–258 were repealed by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation. For complete classification of this Act to the Code, see Tables. For disposition of sections of former Title 49, see table at the beginning of Title 49.
+
+#### Amendments
+
+2000—Subsec. (e). Pub. L. 106–181 added subsec. (e).
+
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
 
 #### Section Referred to in Other Sections
 

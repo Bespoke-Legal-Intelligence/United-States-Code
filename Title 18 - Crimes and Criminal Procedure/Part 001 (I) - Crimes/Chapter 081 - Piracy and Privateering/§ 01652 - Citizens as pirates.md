@@ -10,7 +10,3 @@ Based on title 18, U.S.C., 1940 ed., §495 (Mar. 4, 1909, ch. 321, §304, 35 Sta
 
 Words “Notwithstanding the pretense of such authority,” were omitted as surplusage.
 
-#### Cross References
-
-Wire or oral communications, authorization for interception, to provide evidence of murder or robbery, see section 2516 of this title.
-

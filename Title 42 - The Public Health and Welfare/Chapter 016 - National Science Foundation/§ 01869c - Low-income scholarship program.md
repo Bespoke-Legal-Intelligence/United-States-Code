@@ -22,13 +22,13 @@ The Director of the National Science Foundation (referred to in this section as 
 
 #### (3) Limitation
 
-The amount of a scholarship awarded under this section shall be determined by the Director, except that the Director shall not award a scholarship in an amount exceeding $2,500 per year.
+The amount of a scholarship awarded under this section shall be determined by the Director, except that the Director shall not award a scholarship in an amount exceeding $3,125 per year. The Director may renew scholarships for up to 4 years.
 
 #### (4) Funding
 
 The Director shall carry out this section only with funds made available under section 1356(s)(3) of title 8.
 
-(Pub. L. 105–277, div. C, title IV, §414(d), Oct. 21, 1998, 112 Stat. 2681–653.)
+(Pub. L. 105–277, div. C, title IV, §414(d), Oct. 21, 1998, 112 Stat. 2681–653; Pub. L. 106–313, title I, §110(b), Oct. 17, 2000, 114 Stat. 1256.)
 
 #### References in Text
 
@@ -37,6 +37,10 @@ Section 1157 of title 8, referred to in par. (2)(A)(i), was in the original “s
 #### Codification
 
 Section was enacted as part of the American Competitiveness and Workforce Improvement Act of 1998, and also as part of the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
+
+#### Amendments
+
+2000—Par. (3). Pub. L. 106–313 substituted “$3,125 per year. The Director may renew scholarships for up to 4 years” for “$2,500 per year.”
 
 #### Section Referred to in Other Sections
 

@@ -16,14 +16,6 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 Federal Power Commission terminated and its functions with regard to licenses and permits for dams, reservoirs, or other works for development and improvement of navigation and for development and utilization of power across, along, from, or in navigable waters under this subchapter transferred to Federal Energy Regulatory Commission by sections 7172(a)(1)(A) and 7293 of Title 42, The Public Health and Welfare.
 
-#### Federal Rules of Civil Procedure
-
-Application of rules, see rule 81, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-One form of action to be known as “civil action,” see rule 2.
-
-Writ of mandamus abolished, see rule 81(b).
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 806 of this title.

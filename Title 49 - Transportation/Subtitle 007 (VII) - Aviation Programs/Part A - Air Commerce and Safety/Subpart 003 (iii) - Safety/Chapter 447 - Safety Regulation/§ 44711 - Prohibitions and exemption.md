@@ -30,7 +30,11 @@ Prohibitions.—A person may not—
 
 Exemption.—On terms the Administrator of the Federal Aviation Administration prescribes as being in the public interest, the Administrator may exempt a foreign aircraft and airmen serving on the aircraft from subsection (a) of this section. However, an exemption from observing air traffic regulations may not be granted.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1193; Pub. L. 103–429, §6(56), Oct. 31, 1994, 108 Stat. 4385.)
+(c)
+
+Prohibition on Employment of Convicted Counterfeit Part Traffickers.—No person subject to this chapter may knowingly employ anyone to perform a function related to the procurement, sale, production, or repair of a part or material, or the installation of a part into a civil aircraft, who has been convicted in a court of law of a violation of any Federal law relating to the installation, production, repair, or sale ofa counterfeit or fraudulently-represented aviation part or material.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1193; Pub. L. 103–429, §6(56), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 106–181, title V, §505(b), Apr. 5, 2000, 114 Stat. 136.)
 
 Historical and Revision Notes
 
@@ -126,7 +130,13 @@ This amends 49:44711(a)(2)(B), (5), and (7) and 46310(b) to correct erroneous cr
 
 #### Amendments
 
+2000—Subsec. (c). Pub. L. 106–181 added subsec. (c).
+
 1994—Subsec. (a)(2)(B), (5), (7). Pub. L. 103–429 inserted “any of sections” before “44702–44716”.
+
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -134,5 +144,5 @@ Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 106, 44701, 44711, 45302, 46310, 47531 of this title.
+This section is referred to in sections 44701, 44711, 45302, 46310, 47531 of this title.
 

@@ -128,7 +128,7 @@
 | [9164\.](Subchapter%20004%20%28IV%29%20-%20Miscellaneous%20Provisions/%C2%A7%2009164%20-%20Submarine%20electric%20transmission%20cable%20and%20equipment%20safety.md) | Submarine electric transmission cable and equipment safety. |
 | (a) | Standards and regulations. |
 | (b) | Report to Congress on appropriation and staffing needs. |
-| [9165\.](Subchapter%20004%20%28IV%29%20-%20Miscellaneous%20Provisions/%C2%A7%2009165%20-%20Annual%20report.md) | Annual report. |
+| [9165\.](Subchapter%20004%20%28IV%29%20-%20Miscellaneous%20Provisions/%C2%A7%2009165%20-%20Omitted.md) | Omitted. |
 | [9166\.](Subchapter%20004%20%28IV%29%20-%20Miscellaneous%20Provisions/%C2%A7%2009166%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [9167\.](Subchapter%20004%20%28IV%29%20-%20Miscellaneous%20Provisions/%C2%A7%2009167%20-%20Severability.md) | Severability. |
 | [9168\.](Subchapter%20004%20%28IV%29%20-%20Miscellaneous%20Provisions/%C2%A7%2009168%20-%20Report%20to%20Congress%20on%20promotion%20and%20enhancement%20of%20export%20potential%20of%20ocean%20thermal%20energy%20conversion%20components%2C%20facilities%2C%20and%E2%80%A6.md) | Report to Congress on promotion and enhancement of export potential of ocean thermal energy conversion components, facilities, and plantships. |

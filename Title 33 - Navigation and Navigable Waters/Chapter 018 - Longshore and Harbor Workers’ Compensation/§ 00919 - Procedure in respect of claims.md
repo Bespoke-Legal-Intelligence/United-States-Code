@@ -18,7 +18,7 @@ Notwithstanding any other provisions of this chapter, any hearing held under thi
 
 #### (e) Filing and mailing of order rejecting claim or making award
 
-The order rejecting the claim or making the award (referred to in this chapter as a compensation order) shall be filed in the office of the deputy commissioner, and a copy thereof shall be sent by registered mail or by certified mail to the claimant and to the employer at the last known address of each.
+The order rejecting the claim or making the award (referred to in this chapter as a compensation order) shall be filed in the office of the deputy commissioner, and a copy thereof shallbe sent by registered mail or by certified mail to the claimant and to the employer at the last known address of each.
 
 #### (f) Awards after death of employee
 
@@ -32,7 +32,7 @@ At any time after a claim has been filed with him, the deputy commissioner may, 
 
 An injured employee claiming or entitled to compensation shall submit to such physical examination by a medical officer of the United States or by a duly qualified physician designated or approved by the Secretary as the deputy commissioner may require. The place or places shall be reasonably convenient for the employee. Such physician or physicians as the employee, employer, or carrier may select and pay for may participate in an examination if the employee, employer, or carrier so requests. Proceedings shall be suspended and no compensation be payable for any period during which the employee may refuse to submit to examination.
 
-(Mar. 4, 1927, ch. 509, §19, 44 Stat. 1435; June 25, 1938, ch. 685, §9, 52 Stat. 1167; Pub. L. 86–507,§1(30), (31), June 11, 1960, 74 Stat. 202; Pub. L. 92–576, §14, Oct. 27, 1972, 86 Stat. 1261; Pub. L. 95–251, §2(a)(10), Mar. 27, 1978, 92 Stat. 183; Pub. L. 98–426, §27(a)(2), Sept. 28, 1984, 98 Stat. 1654.)
+(Mar. 4, 1927, ch. 509, §19, 44 Stat. 1435; June 25, 1938, ch. 685, §9, 52 Stat. 1167; Pub. L. 86–507, §1(30), (31), June 11, 1960, 74 Stat. 202; Pub. L. 92–576, §14, Oct. 27, 1972, 86 Stat. 1261; Pub. L. 95–251, §2(a)(10), Mar. 27, 1978, 92 Stat. 183; Pub. L. 98–426, §27(a)(2), Sept. 28, 1984, 98 Stat. 1654.)
 
 #### Amendments
 
@@ -53,10 +53,6 @@ Amendment by Pub. L. 98–426 effective Sept. 28, 1984, see section 28(e)(1) of 
 #### Effective Date of 1972 Amendment
 
 Amendment by Pub. L. 92–576 effective 30 days after Oct. 27, 1972, see section 22 of Pub. L. 92–576, set out as a note under section 902 of this title.
-
-#### Cross References
-
-Review of compensation orders, see section 921 of this title.
 
 #### Section Referred to in Other Sections
 

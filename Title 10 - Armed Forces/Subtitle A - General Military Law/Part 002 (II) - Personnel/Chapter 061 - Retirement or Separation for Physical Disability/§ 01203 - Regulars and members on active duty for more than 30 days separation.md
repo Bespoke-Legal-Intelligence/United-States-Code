@@ -122,10 +122,6 @@ Section 3 of Pub. L. 95–377 provided that the amendment made by that section i
 
 For provisions relating to the suspension of certain promotion and disability separation limitations, see Ex. Ord. No. 12239, Sept. 21, 1980, 45 F.R. 62967, set out as a note under section 1201 of this title.
 
-#### Cross References
-
-Members on temporary disability retired list, separation under this section, see section 1210 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1201, 1204, 1205, 1206, 1207a, 1210, 1212 of this title; title 42 section 213a.

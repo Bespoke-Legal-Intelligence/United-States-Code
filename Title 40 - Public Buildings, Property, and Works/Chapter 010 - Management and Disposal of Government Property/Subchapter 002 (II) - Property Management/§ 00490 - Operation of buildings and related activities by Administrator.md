@@ -22,7 +22,7 @@ Whenever and to the extent that the Administrator has been or hereafter may be a
 
 &emsp;(9) to pay sums in lieu of taxes on real property declared surplus by Government corporations, pursuant to the Surplus Property Act of 1944, where legal title to such property remains in any such Government corporation;
 
-&emsp;(10) to furnish utilities and other services where such utilities and other services are not provided from other sources to persons, firms, or corporations occupying or utilizing plants or portions of plants which constitute (A) a part of the National Industrial Reserve pursuant to the National Industrial Reserve Act of 1948 \[50 U.S.C. 451 et seq.\], or (B) surplus real property, and to credit the amounts received therefrom to the applicable appropriation of the General Services Administration;
+&emsp;(10) to furnish utilities and other services where such utilities and other services are notprovided from other sources to persons, firms, or corporations occupying or utilizing plants or portions of plants which constitute (A) a part of the National Industrial Reserve pursuant to the National Industrial Reserve Act of 1948 \[50 U.S.C. 451 et seq.\], or (B) surplus real property, and to credit the amounts received therefrom to the applicable appropriation of the General Services Administration;
 
 &emsp;(11) at the direction of the Secretary of Defense, to use proceeds received from insurance against damage to properties of the National Industrial Reserve for repair or restoration of the damaged properties;
 
@@ -36,7 +36,7 @@ Whenever and to the extent that the Administrator has been or hereafter may be a
 
 &emsp;(16) to enter into leases of space on major pedestrian access levels and courtyards and rooftops of any public building with persons, firms, or organizations engaged in commercial, cultural, educational, or recreational activities (as defined in section 612a of this title). The Administrator shall establish a rental rate for such leased space equivalent to the prevailing commercial rate for comparable space devoted to a similar purpose in the vicinity of the public building. Such leases may be negotiated without competitive bids, but shall contain such terms and conditions and be negotiated pursuant to such procedures as the Administrator deems necessary to promote competition and to protect the public interest;
 
-&emsp;(17) to make available, on occasion, or to lease at such rates and on such other termsand conditions as the Administrator deems to be in the public interest, auditoriums, meeting rooms, courtyards, rooftops, and lobbies of public buildings to persons, firms, or organizations engaged in cultural, educational, or recreational activities (as defined in section 612a of this title) that will not disrupt the operation of the building;
+&emsp;(17) to make available, on occasion, or to lease at such rates and on such other terms and conditions as the Administrator deems to be in the public interest, auditoriums, meeting rooms, courtyards, rooftops, and lobbies of public buildings to persons, firms, or organizations engaged in cultural, educational, or recreational activities (as defined in section 612a of this title) that will not disrupt the operation of the building;
 
 &emsp;(18) to deposit into the fund established by subsection (f) of this section all sums received under leases or rentals executed pursuant to paragraphs (16) and (17) of this subsection, and each sum shall be credited to the appropriation made for such fund applicable to the operation of such building; and
 
@@ -92,7 +92,7 @@ Notwithstanding any other provision of law, the Administrator is authorized, in 
 
 (B) The Administrator may accept, from a utility, goods or services which enhance the energy efficiency of Federal facilities.
 
-(C) In the administration of any real property for which the Administrator leases and pays utility costs, the Administrator may assign all or a portion of energy rebates to the lessor to underwrite the costs incurred in undertaking energy efficiency improvements in such real property if the payback period for such improvement is at least 2 years less than the remainder of the term of the lease.
+(C) In the administration of any real property for which the Administrator leases and pays utility costs, the Administrator may assign all or a portion of energy rebates to the lessor to underwrite the costs incurred in undertaking energy efficiency improvements in such realproperty if the payback period for such improvement is at least 2 years less than the remainder of the term of the lease.
 
 (D) The Administrator may, in addition to amounts appropriated for such purposes and without regard to paragraph (2), obligate for energy management improvement programs—
 
@@ -226,7 +226,7 @@ Amendment by Pub. L. 92–313 effective June 16, 1972, and effective date of app
 
 #### Transfer of Functions
 
-Functions vested by law (including reorganization plan) in Bureau of the Budget or Director of Bureau ofthe Budget transferred to President of the United States by section 101 of Reorg. Plan No. 2 of 1970, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085, set out in the Appendix to Title 5, Government Organization and Employees. Section 102 of Reorg. Plan No. 2 of 1970, redesignated Bureau of the Budget as Office of Management and Budget.
+Functions vested by law (including reorganization plan) in Bureau of the Budget or Director of Bureau of the Budget transferred to President of the United States by section 101 of Reorg. Plan No. 2 of 1970, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085, set out in the Appendix to Title 5, Government Organization and Employees. Section 102 of Reorg. Plan No. 2 of 1970, redesignated Bureau of the Budget as Office of Management and Budget.
 
 #### Delegation of Functions
 
@@ -258,7 +258,7 @@ Pub. L. 100–202, §101(b) \[title VIII, §8093\], Dec. 22, 1987, 101 Stat. 132
 
 #### Lease and Assignment of Space; Management
 
-All functions with respect to acquiring space in buildings by lease, all functions with respect to assigning and reassigning space in buildings for use by agencies (including both space acquired by lease and space in Government-owned buildings), and all functions with respect to the operation, maintenance, and custody of office buildings owned by the Government and of office buildings or parts thereof acquired by lease, including those post-office buildings which, as determined by the Director of the Bureau of the Budget, are not used predominantly for post-office purposes, were, with certain exceptions, transferred from the respective agencies in which theretofore vested to the Administrator of General Services by sections 1 and 2 of Reorg. Plan No. 18 of 1950, eff. July 1, 1950, 15 F.R. 3177, 64 Stat. 1270, set out below. For delegation of those transferred functions to other personnel of the General Services Administration, or to the heads and personnel of other agencies, and for transfer of personnel, property, records, and funds, see sections 3 and 4 of that Plan.
+All functions with respect to acquiring space in buildings by lease, all functions with respect to assigning and reassigning space in buildings for use by agencies (including both space acquired by lease and space in Government-owned buildings), and all functions withrespect to the operation, maintenance, and custody of office buildings owned by the Government and of office buildings or parts thereof acquired by lease, including those post-office buildings which, as determined by the Director of the Bureau of the Budget, are not used predominantly for post-office purposes, were, with certain exceptions, transferred from the respective agencies in which theretofore vested to the Administrator of General Services by sections 1 and 2 of Reorg. Plan No. 18 of 1950, eff. July 1, 1950, 15 F.R. 3177, 64 Stat. 1270, set out below. For delegation of those transferred functions to other personnel of the General Services Administration, or to the heads and personnel of other agencies, and for transfer of personnel, property, records, and funds, see sections 3 and 4 of that Plan.
 
 #### Issuance of Regulations Pursuant to Public Buildings Amendments of 1972; Approval of Rates for Space and Services Furnished
 
@@ -292,7 +292,7 @@ All functions with respect to acquiring space in buildings by lease, and all fun
 
 Transfer of Office Building Management Functions
 
-All functions with respect to the operation, maintenance, and custody of office buildings owned by the Government and of office buildings or parts thereof acquired by lease, including those post-office buildings which, as determined by the Director of the Bureau of the Budget, are not used predominantly for post-officepurposes, are hereby transferred from the respective agencies in which now vested to the Administrator of General Services, exclusive, however, of all such functions with respect to—
+All functions with respect to the operation, maintenance, and custody of office buildings owned by the Government and of office buildings or parts thereof acquired by lease, including those post-office buildings which, as determined by the Director of the Bureau of the Budget, are not used predominantly for post-office purposes, are hereby transferred from the respective agencies in which now vested to the Administrator of General Services, exclusive, however, of all such functions with respect to—
 
 (a) any building located in any foreign country;
 
@@ -344,7 +344,7 @@ The assignment of space in Government-owned buildings outside of Washington is a
 
 This plan concentrates in the General Services Administration the responsibility for the leasing and assignment of what is termed general-purpose building space; that is, space which is suitable for the uses of a number of Federal agencies. It specifically excludes space in buildings at military posts, arsenals, navy yards, and similar defense installations and space in hospitals, laboratories, factories, and other special-purpose buildings.
 
-Also, the plan excludes the Post Office Department from the transfer of leasing authority since the Department has a highly developed organization for this purpose, and it limits the transfer of space assignment authority in post-office buildings to the space not occupied by the Department. Further, it gives the needs of the Post Office Department priority in the assignment of space in post-office buildings. Thus, the plan amplysafeguards the interests of the Post Office Department while making it possible to include the general office space in post-office buildings in any given city with other similar space under Federal control in planning and executing an efficient program for housing Government agencies in that area.
+Also, the plan excludes the Post Office Department from the transfer of leasing authority since the Department has a highly developed organization for this purpose, and it limits the transfer of space assignment authority in post-office buildings to the space not occupied by the Department. Further, it gives the needs of the Post Office Department priority in the assignment of space in post-office buildings. Thus, the plan amply safeguards the interests of the Post Office Department while making it possible to include the general office space in post-office buildings in any given city with other similar space under Federal control in planning and executing an efficient program for housing Government agencies in that area.
 
 In addition, the plan transfers to the General Services Administration the operation, maintenance, and custody of office buildings owned or leased by the Government, including those post-office buildings which are not used predominantly for post-office purposes. This will make it possible to establish a single organization for the operation and maintenance of Government office buildings in principal cities in the field as has proved desirable in the National Capital. Since many post offices are in fact primarily large office buildings, the plan includes in this transfer the post-office buildings which are not used predominantly for post-office purposes. This will relieve the Post Office Department of a considerable expenditure for building operation and maintenance which properly should not be charged against postal revenues.
 
@@ -416,7 +416,7 @@ Administrator of General Services
 
 1–201. The Administrator of General Services shall develop programs to implement the policies of this Order through the efficient acquisition and utilization of Federally owned and leased space. In particular, the Administrator shall:
 
-(a) Select, acquire, and manage Federal space in a manner which will foster the policies and programs ofthe Federal government and improve the management and administration of government activities.
+(a) Select, acquire, and manage Federal space in a manner which will foster the policies and programs of the Federal government and improve the management and administration of government activities.
 
 (b) Issue regulations, standards, and criteria for the selection, acquisition, and management of Federally owned and leased space.
 
@@ -490,13 +490,9 @@ This memorandum shall be published in the Federal Register.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Cross References
-
-Control and allotment of space in public buildings, see section 19 et seq. of this title. See, also, section 304c of this title.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 490a, 490c, 490e, 490f, 490g, 618, 1104, 1105, 1107 of this title; title 7 section 87e–1; title 20 sections 80q–5, 80q–6; title 22 section 3712a.
+This section is referred to in sections 490a, 490c, 490e, 490f, 490g, 618, 1104, 1105, 1107 of this title; title 20 sections 80q–5, 80q–6; title 22 section 3712a.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

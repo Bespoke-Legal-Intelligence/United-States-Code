@@ -12,20 +12,6 @@ Every person who shall monopolize, or attempt to monopolize, or combine or consp
 
 1955—Act July 7, 1955, substituted “fifty thousand dollars” for “five thousand dollars”.
 
-#### Cross References
-
-Antitrust laws inapplicable to labor organizations, see section 17 of this title.
-
-Carriers relieved from operation of this chapter, see section 11341 of Title 49, Transportation.
-
-Combinations in restraint of import trade, see section 8 of this title.
-
-Conspiracy to commit offense or to defraud United States, see section 371 of Title 18, Crimes and Criminal Procedure.
-
-Discrimination in price, services or facilities, see section 13 of this title.
-
-Fishing industry, monopolies in, see section 522 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 18a of this title; title 12 section 1849.

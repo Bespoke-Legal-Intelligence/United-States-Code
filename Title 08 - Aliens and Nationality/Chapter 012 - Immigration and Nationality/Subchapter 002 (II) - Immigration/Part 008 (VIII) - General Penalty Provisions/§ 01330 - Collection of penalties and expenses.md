@@ -66,7 +66,3 @@ Amendment by Pub. L. 103–416 effective as if included in the enactment of the 
 
 Section 542(b) of Pub. L. 101–649 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to fines and penalties collected on or after January 1, 1991.”
 
-#### Cross References
-
-Definition of Attorney General and United States, see section 1101 of this title.
-

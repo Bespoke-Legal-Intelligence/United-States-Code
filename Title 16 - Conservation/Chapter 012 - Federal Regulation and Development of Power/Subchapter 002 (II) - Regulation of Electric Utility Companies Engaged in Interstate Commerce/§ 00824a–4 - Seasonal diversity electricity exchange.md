@@ -14,7 +14,7 @@ The Secretary may acquire rights-of-way by purchase, including eminent domain, t
 
 &emsp;(2) after consultation with the Secretary of the Interior and the heads of other affected Federal agencies, that the Secretary of the Interior and the heads of such,<sup>1</sup> other agencies concur in writing in the location of such portion of the transmission facilities as crosses Federal land under the jurisdiction of such Secretary or such other Federal agency, as the case may be.
 
-> The Secretary shall provide to any State such cooperation and technical assistance as theState may request and as he determines appropriate in the selection of a transmission route. If the transmission route approved by any State does not appear to be feasible and in the public interest, the Secretary shall encourage such State to review such route and to develop a route that is feasible and in the public interest. Any exercise by the Secretary of the power of eminent domain under this section shall be in accordance with other applicable provisions of Federal law. The Secretary shall provide public notice of his intention to acquire any right-of-way before exercising such power of eminent domain with respect to such right-of-way.
+> The Secretary shall provide to any State such cooperation and technical assistance as the State may request and as he determines appropriate in the selection of a transmission route. If the transmission route approved by any State does not appear to be feasible and in the public interest, the Secretary shall encourage such State to review such route and to develop a route that is feasible and in the public interest. Any exercise by the Secretary of the power of eminent domain under this section shall be in accordance with other applicable provisions of Federal law. The Secretary shall provide public notice of his intention to acquire any right-of-way before exercising such power of eminent domain with respect to such right-of-way.
 
 #### (b) Permit
 
@@ -34,19 +34,17 @@ The Secretary may not acquire any rights-of-day <sup>2</sup> under this section
 
 This section shall not affect any Federal law governing Federal lands.
 
-#### (f) Reports
-
-The Secretary shall report annually to the Congress on the actions, if any, taken pursuant to this section.
-
 (Pub. L. 95–617, title VI, §602, Nov. 9, 1978, 92 Stat. 3164.)
 
 #### References in Text
 
-The Secretary, referred to in subsecs. (a), (c), (d), and (f), means the Secretary of Energy. See section 2602(14) of this title.
+The Secretary, referred to in subsecs. (a), (c), and (d), means the Secretary of Energy. See section 2602(14) of this title.
 
 The Commission, referred to in subsec. (b), means the Federal Energy Regulatory Commission. See section 2602(3) of this title.
 
 #### Codification
+
+Subsection (f), which required the Secretary to report annually to Congress on actions taken pursuant to this section, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 90 of House Document No. 103–7.
 
 Section was enacted as part of the Public Utility Regulatory Policies Act of 1978, and not as part of the Federal Power Act which generally comprises this chapter.
 

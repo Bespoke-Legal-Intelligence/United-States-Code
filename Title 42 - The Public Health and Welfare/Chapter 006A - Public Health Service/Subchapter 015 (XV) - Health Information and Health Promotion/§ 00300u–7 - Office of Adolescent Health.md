@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-There is established an Office of Adolescent Health within the Office of the Assistant Secretary for Health, which office <sup>1</sup> shall be headed by a director <sup>1</sup> appointed by the Secretary. The Secretary shall carry out this section acting through the Director of such Office.
+There is established an Office of Adolescent Health within the Office of the Assistant Secretary for Health, which office <sup>1</sup> shall be headed by a director <sup>1</sup> appointed by the Secretary. TheSecretary shall carry out this section acting through the Director of such Office.
 
 #### (b) Duties
 
@@ -38,7 +38,7 @@ In carrying out subsection (b) of this section, the Secretary shall establish an
 
 #### (e) National plan
 
-In carrying out subsection (b) of this section, the Secretary shall develop a national plan forimproving adolescent health. The plan shall be consistent with the applicable objectives established by the Secretary for the health status of the people of the United States for the year 2000, and shall be periodically reviewed, and as appropriate, revised. The plan, and any revisions in the plan, shall be submitted to the Committee on Energy and Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate.
+In carrying out subsection (b) of this section, the Secretary shall develop a national plan for improving adolescent health. The plan shall be consistent with the applicable objectives established by the Secretary for the health status of the people of the United States for the year 2000, and shall be periodically reviewed, and as appropriate, revised. The plan, and any revisions in the plan, shall be submitted to the Committee on Energy and Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate.
 
 #### (f) Adolescent health
 
@@ -58,7 +58,7 @@ A prior section 300u–7, act July 1, 1944, ch. 373, title XVII, §1708, as adde
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

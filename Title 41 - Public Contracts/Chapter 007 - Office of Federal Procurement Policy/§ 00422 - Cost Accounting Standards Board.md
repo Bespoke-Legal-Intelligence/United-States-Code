@@ -48,7 +48,7 @@ Except as otherwise provided in subsection (a) of this section, the members of t
 
 #### (f) Cost accounting standards authority
 
-(1) The Board shall have the exclusive authority to make, promulgate, amend, and rescind cost accounting standards and interpretationsthereof designed to achieve uniformity and consistency in the cost accounting standards governing measurement, assignment, and allocation of costs to contracts with the United States.
+(1) The Board shall have the exclusive authority to make, promulgate, amend, and rescind cost accounting standards and interpretations thereof designed to achieve uniformity and consistency in the cost accounting standards governing measurement, assignment, and allocation of costs to contracts with the United States.
 
 (2)(A) Cost accounting standards promulgated under this section shall be mandatory for use by all executive agencies and by contractors and subcontractors in estimating, accumulating, and reporting costs in connection with pricing and administration of, and settlement of disputes concerning, all negotiated prime contract and subcontract procurements with the United States in excess of $500,000.
 
@@ -98,7 +98,7 @@ Except as otherwise provided in subsection (a) of this section, the members of t
 
 &emsp;&emsp;(i) the probable costs of implementation, including inflationary effects, if any, compared to the probable benefits;
 
-&emsp;&emsp;(ii) the advantages, disadvantages, and improvements anticipated in the pricing and administration of, and settlement of disputes concerning, contracts; and
+&emsp;&emsp;(ii) the advantages, disadvantages, and improvements anticipated in the pricing andadministration of, and settlement of disputes concerning, contracts; and
 
 &emsp;&emsp;(iii) the scope of, and alternatives available to, the action proposed to be taken;
 
@@ -130,9 +130,7 @@ Except as otherwise provided in subsection (a) of this section, the members of t
 
 (4) The interest rate applicable to any contract price adjustment shall be the annual rate of interest established under section 6621 of title 26 for such period. Such interest shall accrue from the time payments of the increased costs were made to the contractor or subcontractor to the time the United States receives full compensation for the price adjustment.
 
-#### (i) Reports to Congress
-
-The Board shall report to the Congress not later than one year after November 17, 1988, and annually thereafter, with respect to the activities and operations of the Board under this section, together with such recommendations as it considers appropriate.
+#### (i) Omitted
 
 #### (j) Effect on other standards and regulations
 
@@ -146,7 +144,7 @@ The Board shall report to the Congress not later than one year after November 17
 
 #### (k) Examinations
 
-For the purpose of determining whether a contractor or subcontractor has complied with cost accounting standards promulgated under this section and has followed consistently the contractor's or subcontractor's disclosed cost accounting practices, any authorized representative of the head of the agency concerned, of the offices of inspector general established pursuant to the Inspector General Act of 1978, or of the Comptroller General of the United States shall have the right to examine and make copies of any documents, papers, or records of such contractor or subcontractor relating to compliance with such cost accounting standards.
+For the purpose of determining whether a contractor or subcontractor has complied with cost accounting standards promulgated under this section and has followed consistently the contractor's or subcontractor's disclosed cost accounting practices, any authorized representative of the head of the agency concerned, of the offices of inspector general established pursuant to the Inspector General Act of 1978, or of the Comptroller General of the United States shallhave the right to examine and make copies of any documents, papers, or records of such contractor or subcontractor relating to compliance with such cost accounting standards.
 
 #### (<i>l</i>) Authorization of appropriations
 
@@ -162,11 +160,15 @@ Level IV of the Executive Schedule, referred to in subsec. (e), is set out in se
 
 For the effective date of this paragraph, referred to in subsec. (f)(5)(A)(ii), as 180 days after Oct. 5, 1999, see section 802(i) of Pub. L. 106–65, set out as an Effective Date of 1999 Amendment; Regulations; Implementation; Construction note below.
 
-The Contract Disputes Act, referred to in subsec. (h)(2), probably means the Contract Disputes Act of 1978, Pub. L. 95–563, Nov. 1, 1978, 92 Stat. 2383, as amended, which is classified principally to chapter 9 (§601 et seq.) of this title. For complete classification of thisAct to the Code, see Short Title note set out under section 601 of this title and Tables.
+The Contract Disputes Act, referred to in subsec. (h)(2), probably means the Contract Disputes Act of 1978, Pub. L. 95–563, Nov. 1, 1978, 92 Stat. 2383, as amended, which is classified principally to chapter 9 (§601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 601 of this title and Tables.
 
 Section 2168 of title 50, Appendix, referred to in subsec. (j)(1), was repealed by Pub. L. 100–679, §5(b), Nov. 17, 1988, 102 Stat. 4063.
 
 The Inspector General Act of 1978, referred to in subsec. (k), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Codification
+
+Subsec. (i) of this section, which required the Board to submit an annual report to Congress on the activities and operations of the Board under this section, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 42 of House Document No. 103–7.
 
 #### Amendments
 
@@ -230,7 +232,7 @@ Effective Date.—The amendments made by subsections (a) and (b) \[amending this
 
 &emsp;“(1) contracts that are entered into on or after such effective date; and
 
-&emsp;“(2) determinations made on or after such effective date regarding whether a segment of a contractor or subcontractor is subject to the cost accounting standards under section 26(f) of the Office of Federal Procurement Policy Act (41 U.S.C. 422(f)), regardless of whether the contracts on which such determinations are made were entered into before, on, or after such date.”
+&emsp;“(2) determinations made on or after such effective date regarding whether a segment of a contractor orsubcontractor is subject to the cost accounting standards under section 26(f) of the Office of Federal Procurement Policy Act (41 U.S.C. 422(f)), regardless of whether the contracts on which such determinations are made were entered into before, on, or after such date.”
 
 #### Effective Date of 1996 Amendment
 
@@ -243,6 +245,10 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 5 section 9009.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -64,18 +64,6 @@ Commencement of rulemaking.—Not later than 180 days after the date of enactmen
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
-#### Cross References
-
-Declarations by registered companies to include information and documents under this section, see section 79g of this title.
-
-Issue of securities by electric utility company engaged in interstate commerce, see section 824c of Title 16, Conservation.
-
-Rules and regulations, authority of Commission to make, amend, and rescind, see section 77s of this title.
-
-Trust Indenture Act of 1939, application to, see section 77eee of this title.
-
-Undertaking to be contained in registration statement, see section 78<i>o</i> of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 77eee, 79g of this title; title 16 section 824c.

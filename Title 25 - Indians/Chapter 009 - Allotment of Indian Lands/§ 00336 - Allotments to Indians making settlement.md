@@ -18,12 +18,6 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 Effective July 1, 1935, the permanent appropriation provided for in the last sentence of this section was repealed by act June 26, 1934, ch. 756, §1, 48 Stat. 1225.
 
-#### Cross References
-
-Cherokee Outlet, provisions inapplicable to, see section 371 of this title.
-
-Fees collected by officers of land offices to be covered into the Treasury, see section 79c of Title 43, Public Lands.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 353, 371, 406, 564h, 697, 747, 797, 843 of this title.

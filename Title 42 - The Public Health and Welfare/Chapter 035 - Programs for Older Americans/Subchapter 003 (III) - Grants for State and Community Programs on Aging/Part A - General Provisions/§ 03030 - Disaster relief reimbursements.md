@@ -2,29 +2,37 @@
 
 #### (a) Application; limitations
 
-(1) The Assistant Secretary may provide reimbursements to any State, upon application for such reimbursement, for funds such State makes available to area agencies on aging in such State for the delivery of supportive services (and related supplies) during any major disaster declared by the President in accordance with the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5121 et seq.\].
+(1) The Assistant Secretary may provide reimbursements to any State (or to any tribal organization receiving a grant under subchapter X of this chapter), upon application for such reimbursement, for funds such State makes available to area agencies on aging in such State (or funds used by such tribal organization) for the delivery of supportive services (and related supplies) during any major disaster declared by the President in accordance with the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5121 et seq.\].
 
-(2) Total payments to all States under paragraph (1) in any fiscal year shall not exceed 2 percent of the total amount appropriated and available to carry out subchapter IV of this chapter.
+(2) Total payments to all States and such tribal organizations under paragraph (1) in any fiscal year shall not exceed 2 percent of the total amount appropriated and available to carry out subchapter IV of this chapter.
 
-(3) If the Assistant Secretary decides, in the 5-day period beginning on the date such disaster is declared by the President, to provide an amount of reimbursement under paragraph (1) to a State, then the Assistant Secretary shall provide not less than 75 percent of such amount to such State not later than 5 days after the date of such decision.
+(3) If the Assistant Secretary decides, in the 5-day period beginning on the date such disaster is declared by the President, to provide an amount of reimbursement under paragraph (1) to a State or such tribal organization, then the Assistant Secretary shall provide not less than 75 percent of such amount to such State or such tribal organization not later than 5 days after the date of such decision.
 
 #### (b) Setting aside of funds by Assistant Secretary
 
-(1) At the beginning of each fiscal year the Assistant Secretary shall set aside, for payment to States under subsection (a) of this section, an amount equal to 2 percent of the total amount appropriated and available to carry out subchapter IV of this chapter.
+(1) At the beginning of each fiscal year the Assistant Secretary shall set aside, for payment to States and such tribal organizations under subsection (a) of this section, an amount equal to 2 percent of the total amount appropriated and available to carry out subchapter IV of this chapter.
 
 (2) Amounts set aside under paragraph (1) which are not obligated by the end of the third quarter of any fiscal year shall be made available to carry out subchapter IV of this chapter.
 
 #### (c) Effect on other laws
 
-Nothing in this section shall be construed to prohibit expenditures by States for disaster relief for older individuals in excess of amounts reimbursable under this section, by using funds made available to them under other sections of this chapter or under other provisions of Federal or State law, or from private sources.
+Nothing in this section shall be construed to prohibit expenditures by States and such tribal organizations for disaster relief for older individuals in excess of amounts reimbursable under this section, by using funds made available to them under other sections of this chapter or under other provisions of Federal or State law, or from private sources.
 
-(Pub. L. 89–73, title III, §310, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1533; amended Pub. L. 97–115, §§3(d), 11(b)(2), Dec. 29, 1981, 95 Stat. 1597, 1606; Pub. L. 100–707, title I, §109(q), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 102–375, title I, §102(b)(10)(A), title III, §309, Sept. 30, 1992, 106 Stat. 1202, 1235; Pub. L. 103–171, §§2(10), 3(a)(13), Dec. 2, 1993, 107 Stat. 1989, 1990.)
+(Pub. L. 89–73, title III, §310, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1533; amended Pub. L. 97–115, §§3(d), 11(b)(2), Dec. 29, 1981, 95 Stat. 1597, 1606; Pub. L. 100–707, title I, §109(q), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 102–375, title I, §102(b)(10)(A), title III, §309, Sept. 30, 1992, 106 Stat. 1202, 1235; Pub. L. 103–171, §§2(10), 3(a)(13), Dec. 2, 1993, 107 Stat. 1989, 1990; Pub. L. 106–501, title III, §308, Nov. 13, 2000, 114 Stat. 2246.)
 
 #### References in Text
 
 The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (a)(1), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§5121 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
 
 #### Amendments
+
+2000—Subsec. (a)(1). Pub. L. 106–501, §308(1)(A), inserted “(or to any tribal organization receiving a grant under subchapter X of this chapter)” after “any State” and “(or funds used by such tribal organization)” before “for the delivery of supportive services”.
+
+Subsec. (a)(2). Pub. L. 106–501, §308(1)(B), inserted “and such tribal organizations” after “States”.
+
+Subsec. (a)(3). Pub. L. 106–501, §308(1)(C), inserted “or such tribal organization” after “State” in two places.
+
+Subsecs. (b)(1), (c). Pub. L. 106–501, §308(2), inserted “and such tribal organizations” after “States”.
 
 1993—Pub. L. 103–171, §3(a)(13), substituted “Assistant Secretary” for “Commissioner” wherever appearing in subsecs. (a)(1), (3) and (b)(1).
 

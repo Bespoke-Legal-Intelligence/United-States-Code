@@ -120,7 +120,7 @@ Exceptions.—Subsection (a) does not apply to any search-and-rescue or humanita
 
 “(d)
 
-Annual Certification by Secretary.—The Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives, not later than December 31 each year, a certification in writing as to whether or not any military-to-military exchange or contact during that calendar year was conducted in violation of subsection (a).
+Annual Certification by Secretary.—The Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives, not later than December 31 each year, a certification in writing as to whether or not any military-to-militaryexchange or contact during that calendar year was conducted in violation of subsection (a).
 
 “(e)
 

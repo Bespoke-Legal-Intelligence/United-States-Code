@@ -40,7 +40,7 @@
 
 &emsp;(2) as of such date as such Office may otherwise specify, except that termination under this paragraph may not take effect before the authority has been available for such position for at least 1 calendar year.
 
-(f) The Office of Management and Budget may not authorize the exercise of authority under this section with respect to more than 800 positions at any time, of which not more than 30 may, at any such time, be positions the rate of basic pay for which would otherwise be determined under subchapter II.
+(f) The Office of Management and Budget may not authorize the exercise of authority underthis section with respect to more than 800 positions at any time, of which not more than 30 may, at any such time, be positions the rate of basic pay for which would otherwise be determined under subchapter II.
 
 (g) The Office of Management and Budget shall consult with the Office of Personnel Management before prescribing regulations under this section or making any decision to grant or terminate any authority under this section.
 
@@ -50,7 +50,7 @@
 
 &emsp;(2) the name of each employee to whom a higher rate of pay was paid under this section during any portion of the period covered by such report, the rate on rates paid under this section during such period, the dates between which each such higher rate was paid, and the rate or rates that would have been paid but for this section.
 
-(i)(1) For the purpose of this subsection, the term “position” means the work, consisting ofthe duties and responsibilities, assignable to an employee, except that such term does not include any position under subsection (a)(2)(A)–(E).
+(i)(1) For the purpose of this subsection, the term “position” means the work, consisting of the duties and responsibilities, assignable to an employee, except that such term does not include any position under subsection (a)(2)(A)–(E).
 
 (2) At the request of an agency head, the President may designate 1 or more categories of positions within such agency to be treated, for purposes of this section, as positions within the meaning of subsection (a)(2).
 

@@ -94,6 +94,11 @@
 | (b) | Elements. |
 | (c) | Cooperative agreements and memoranda of understanding. |
 | (d) | Appropriations. |
+| 469<i>l</i>–2. | Preservation of historic sites or structures. |
+| (a) | Authority to make grants. |
+| (b) | Grant conditions. |
+| (c) | Matching requirement. |
+| (d) | Funding. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -115,7 +120,7 @@
 | (b) | Regulations for State Historic Preservation Programs; periodic evaluations and fiscal audits of State programs; administration of State programs; contracts and cooperative agreements with nonprofit or educational institutions and State Historic Preservation Officers; treatment of State programs as approved programs. |
 | (c) | Certification of local governments by State Historic Preservation Officer; transfer of portion of grants; certification by Secretary; nomination of properties by local governments for inclusion on National Register. |
 | (d) | Historic properties of Indian tribes. |
-| (e) | Matching grants to States; matching grant-in-aid to National Trust for Historic Preservation in the United States; program of direct grants for preservation of properties included on National Register; grants or loans to Indian tribes and ethnic or minority groups for preservation of cultural heritage; grants for religious properties; direct grants to Indian tribes, Native Hawaiian organizations, and Micronesian States. |
+| (e) | Matching grants to States; grants to National Trust for Historic Preservation in the United States; program of direct grants for preservation of properties included on National Register; grants or loans to Indian tribes and ethnic or minority groups for preservation of cultural heritage; grants for religious properties; direct grants to Indian tribes, Native Hawaiian organizations, and Micronesian States. |
 | (f) | Prohibition of use of funds for compensation of intervenors in preservation program. |
 | (g) | Guidelines for Federal agency responsibility for agency-owned historic properties. |
 | (h) | Professional standards for preservation of federally owned or controlled historic properties. |
@@ -252,11 +257,19 @@
 | (f) | “Building arts” defined. |
 | 470w–6. | Effective date of regulations. |
 | (a) | Effective date of final regulations. |
-| (b) | Repealed. |
-| (c) | Disapproval of regulation by resolution of Congress. |
-| (d) | Failure of Congress to adopt resolution of disapproval of regulation. |
-| (e) | Sessions of Congress. |
-| (f) | Congressional inaction or rejection of resolution of disapproval not deemed approval of regulation. |
+| (b) | Disapproval of regulation by resolution of Congress. |
+| (c) | Failure of Congress to adopt resolution of disapproval of regulation. |
+| (d) | Sessions of Congress. |
+| (e) | Congressional inaction or rejection of resolution of disapproval not deemed approval of regulation. |
+| 470w–7. | Historic lighthouse preservation. |
+| (a) | In general. |
+| (b) | Conveyance of historic light stations. |
+| (c) | Terms of conveyance. |
+| (d) | Description of property. |
+| (e) | Definitions. |
+| 470w–8. | Historic light station sales. |
+| (a) | In general. |
+| (b) | Net sale proceeds. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

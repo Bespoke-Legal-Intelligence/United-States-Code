@@ -36,7 +36,7 @@ For the purpose of this chapter—
 
 &emsp;&emsp;(C) an employee described in section 2105(c) who has made an election under section 8461(n)(1) to remain covered under this chapter;
 
-> &emsp;whose civilian service after December 31, 1983, is employment for the purposes of title II of the Social Security Act and chapter 21 of the Internal Revenue Code of 1986, except that such term does not include—
+> &emsp;whose civilian service after December 31, 1983, is employment for the purposes of title II ofthe Social Security Act and chapter 21 of the Internal Revenue Code of 1986, except that such term does not include—
 
 &emsp;&emsp;(i) any individual referred to in—
 
@@ -166,11 +166,13 @@ For the purpose of this chapter—
 
 > &emsp;but does not include service in the National Guard except when ordered to active duty in the service of the United States or full-time National Guard duty (as such term is defined in section 101(d) of title 10) if such service interrupts creditable civilian service under this subchapter and is followed by reemployment in accordance with chapter 43 of title 38 that occurs on or after August 1, 1990;
 
-&emsp;(32) the term “nonforfeitable account balance” means any amounts in an account, established and maintained under subchapter III, which are nonforfeitable (as determined under section 8432(g)); and
+&emsp;(32) the term “nonforfeitable account balance” means any amounts in an account, established and maintained under subchapter III, which are nonforfeitable (as determined under section 8432(g));
 
-&emsp;(33) “Nuclear materials courier” has the meaning given that term in section 8331(27).
+&emsp;(33) “Nuclear materials courier” has the meaning given that term in section 8331(27); and
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 517; amended Pub. L. 99–556, title I, §§107, 109, 119, Oct. 27, 1986, 100 Stat. 3132, 3134; Pub. L. 100–238, title I, §§103(a)(2), (c), (d)(2), 113(b)(1), Jan. 8, 1988, 101 Stat. 1744, 1745, 1750; Pub. L. 100–679, §13(a)(2), Nov. 17, 1988, 102 Stat. 4071; Pub. L. 101–335, §6(a)(1), July 17, 1990, 104 Stat. 322; Pub. L. 101–474, §5(<i>o</i>), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–508, title VII, §7202(k)(1), Nov. 5, 1990, 104 Stat. 1388–338; Pub. L. 103–337, div. A, title XVI, §1677(a)(4), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 103–353, §5(c), (e)(1), Oct. 13, 1994, 108 Stat. 3174; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §206(a)(1)\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–378; Pub. L. 105–261, div. C, title XXXI, §3154(f), Oct. 17, 1998, 112 Stat. 2255; Pub. L. 106–65, div. A, title V, §522(c)(2), Oct. 5, 1999, 113 Stat. 597.)
+&emsp;(34) the term “Government physician” has the meaning given such term under section 5948.
+
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 517; amended Pub. L. 99–556, title I, §§107, 109, 119, Oct. 27, 1986, 100 Stat. 3132, 3134; Pub. L. 100–238, title I, §§103(a)(2), (c), (d)(2), 113(b)(1), Jan. 8, 1988, 101 Stat. 1744, 1745, 1750; Pub. L. 100–679, §13(a)(2), Nov. 17, 1988, 102 Stat. 4071; Pub. L. 101–335, §6(a)(1), July 17, 1990, 104 Stat. 322; Pub. L. 101–474, §5(<i>o</i>), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–508, title VII, §7202(k)(1), Nov. 5, 1990, 104 Stat. 1388–338; Pub. L. 103–337, div. A, title XVI, §1677(a)(4), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 103–353, §5(c), (e)(1), Oct. 13, 1994, 108 Stat. 3174; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §206(a)(1)\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–378; Pub. L. 105–261, div. C, title XXXI, §3154(f), Oct. 17, 1998, 112 Stat. 2255; Pub. L. 106–65, div. A, title V, §522(c)(2), Oct. 5, 1999, 113 Stat. 597; Pub. L. 106–571, §3(c)(2), Dec. 28, 2000, 114 Stat. 3056.)
 
 #### References in Text
 
@@ -186,6 +188,8 @@ The Federal Employees’ Retirement Contribution Temporary Adjustment Act of 198
 
 #### Amendments
 
+2000—Par. (34). Pub. L. 106–571 added par. (34).
+
 1999—Par. (30). Pub. L. 106–65 amended par. (30) generally. Prior to amendment, par. (30) read as follows: “the term ‘military reserve technician’ means a member of one of the reserve components of the armed forces specified in section 10101 of title 10 who—
 
 &emsp;“(A) is assigned to a civilian position as a technician in the administration and training of such reserve components or in the maintenance and repair of supplies issued to such reserve components; and
@@ -200,7 +204,7 @@ The Federal Employees’ Retirement Contribution Temporary Adjustment Act of 198
 
 Par. (30). Pub. L. 103–337 substituted “section 10101” for “section 261(a)” in introductory provisions.
 
-Par. (31). Pub. L. 103–353, §5(c), in closing provisions, inserted before semicolon “or full-time National Guard duty (as such term is defined in section 101(d) of title10) if such service interrupts creditable civilian service under this subchapter and is followed by reemployment in accordance with chapter 43 of title 38 that occurs on or after August 1, 1990”.
+Par. (31). Pub. L. 103–353, §5(c), in closing provisions, inserted before semicolon “or full-time National Guard duty (as such term is defined in section 101(d) of title 10) if such service interrupts creditable civilian service under this subchapter and is followed by reemployment in accordance with chapter 43 of title 38 that occurs on or after August 1, 1990”.
 
 1990—Par. (11)(C). Pub. L. 101–508, §7202(k)(1)(A)(i)–(iii), added subpar. (C).
 
@@ -268,7 +272,7 @@ In General.—Except as provided in subsection (b), this Act and the amendments 
 
 Exceptions.—(1) Subchapter VII of chapter 84 of title 5, United States Code, as added by section 101 of this Act, shall take effect on the date of the enactment of this Act \[June 6, 1986\].
 
-“(2) Except as provided in section 305 of this Act \[enacting and amending provisions set out as notes under section 8331 of this title\], title III of this Act, and the amendments made by such title \[amending sections 3121 and 6103 of Title 26, Internal Revenue Code, section 1005 of Title 39, Postal Service, and section 410 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and sections 8331, 8432, and 8472 of this title and section 6103 of Title 26, and amending provisions set out as a note under section 8331 of this title\], shall take effect on the date of the enactment of this Act.
+“(2) Except as provided in section 305 of this Act \[enacting and amending provisions set out as notes under section 8331 of this title\], title III of this Act, and the amendments made by such title \[amending sections 3121 and 6103 of Title 26, Internal Revenue Code, section 1005 of Title 39, Postal Service, and section 410 of Title 42, The Public Health and Welfare, enacting provisionsset out as notes under this section and sections 8331, 8432, and 8472 of this title and section 6103 of Title 26, and amending provisions set out as a note under section 8331 of this title\], shall take effect on the date of the enactment of this Act.
 
 “(3) The amendments made by sections 204 and 205 of this Act \[enacting sections 8343a and 8350 of this title and amending section 8342 of this title\] shall take effect on the date of the enactment of this Act.
 
@@ -280,7 +284,7 @@ Reference to a specific date in section 702(a) of Pub. L. 99–335, set out abov
 
 #### Short Title of 1999 Amendment
 
-Pub. L. 106–168, title II, §201, Dec. 12, 1999, 113 Stat. 1817, provided that: “This title \[enacting section 8431 ofthis title, amending sections 8351, 8402, and 8411 of this title, and enacting provisions set out as notes under sections 8402 and 8431 of this title\] may be cited as the ‘Federal Reserve Board Retirement Portability Act’.”
+Pub. L. 106–168, title II, §201, Dec. 12, 1999, 113 Stat. 1817, provided that: “This title \[enacting section 8431 of this title, amending sections 8351, 8402, and 8411 of this title, and enacting provisions set out as notes under sections 8402 and 8431 of this title\] may be cited as the ‘Federal Reserve Board Retirement Portability Act’.”
 
 #### Short Title of 1998 Amendment
 
@@ -334,7 +338,7 @@ Section 100A of Pub. L. 99–335 provided that: “The purposes of this Act \[se
 
 #### Use of Normal-Cost Percentage
 
-Section 307 of Pub. L. 99–335, as amended by Pub. L. 100–366, §1, July 13, 1988, 102 Stat. 826, provided that: “Notwithstanding any other provision of law, the normal-cost percentage (as defined by section 8401(23) of title 5, United States Code, as added by this Act) of the Federal Employees’ Retirement System shall be used to value the cost of such System to the Civil Service Retirement and Disability Fund for all purposes in which the cost of the System is required to be determined by the Federal Government. For any comparisons between the cost of performing commercial activities under the contract with commercial sources and the cost of performing such activities using Government facilities and personnel, the cost of the System shall include the cost of such System to the Civil Service Retirement and Disability Fund as specified in the preceding sentence, the cost of the thrift savings plan under subchapter III of chapter 84 of title 5, United States Code, and the cost of social security.”
+Section 307 of Pub. L. 99–335, as amended by Pub. L. 100–366, §1, July 13, 1988, 102 Stat. 826, provided that: “Notwithstanding any other provision of law, the normal-cost percentage (as defined by section 8401(23) of title 5, United States Code, as added by this Act) of the Federal Employees’ Retirement System shall be usedto value the cost of such System to the Civil Service Retirement and Disability Fund for all purposes in which the cost of the System is required to be determined by the Federal Government. For any comparisons between the cost of performing commercial activities under the contract with commercial sources and the cost of performing such activities using Government facilities and personnel, the cost of the System shall include the cost of such System to the Civil Service Retirement and Disability Fund as specified in the preceding sentence, the cost of the thrift savings plan under subchapter III of chapter 84 of title 5, United States Code, and the cost of social security.”
 
 #### First Cost-of-Living Adjustment
 
@@ -344,19 +348,9 @@ Section 702(c) of Pub. L. 99–335 provided that:
 
 “(2) As used in paragraph (1), the term ‘base quarter’ has the meaning provided by section 8462(a)(1) of title 5, United States Code (as added by section 101 of this Act).”
 
-#### Cross References
-
-Peace Corps volunteers’ service credited for purposes of this subchapter, see section 2504 of Title 22, Foreign Relations and Intercourse.
-
-Retirement of employees of land-grant colleges, see section 331 of Title 7, Agriculture.
-
-Right to compensation for scheduled disabilities specified by section 8107 not impaired by eligibility for benefits under this subchapter, see section 8116 of this title.
-
-Uniform date for retirement of Federal personnel, see section 8301 of this title.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3307, 3323, 3329, 5541, 6323, 8331, 8351, 8411, 8414, 8477, 8704 of this title; title 10 sections 2467, 10217; title 22 section 4046; title 38 sections 7296, 7426, 7438; title 50 sections 2152, 2154.
+This section is referred to in sections 3307, 3323, 3329, 5541, 6323, 7371, 8331, 8351, 8411, 8440e, 8477, 8704 of this title; title 10 sections 2467, 10217; title 22 section 4046; title 38 sections 7296, 7426, 7438; title 50 sections 2152, 2154.
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

@@ -16,7 +16,7 @@ In this section:
 
 &emsp;&emsp;(C) that either—
 
-&emsp;&emsp;&emsp;(i)(I) appears on the list of national critical technologies contained in a biennial report on national critical technologies submitted to Congress by the President pursuant to section 6683(d) of this title; and
+&emsp;&emsp;&emsp;(i)(I) appears on the list of national critical technologies contained in a biennial report on national critical technologies submitted to Congress by the President pursuant to section 6683(d) <sup>1</sup> of this title; and
 
 &emsp;&emsp;&emsp;(II) has not been expressly deleted from such list by such a report subsequently submitted to Congress by the President; or
 
@@ -45,6 +45,8 @@ In this section:
 (Pub. L. 102–190, div. C, title XXXI, §3136, Dec. 5, 1991, 105 Stat. 1577; Pub. L. 103–35, title II, §203(b)(3), May 31, 1993, 107 Stat. 102.)
 
 #### References in Text
+
+Section 6683 of this title, referred to in subsec. (b)(1)(C)(i)(I), was omitted from the Code.
 
 Section 2506 of title 10, referred to in subsec. (b)(1)(C)(ii)(I), was amended generally by Pub. L. 104–201, div. A, title VIII, §829(d), Sept. 23, 1996, 110 Stat. 2613, and, as so amended, no longer relates to submission of a plan to Congress.
 

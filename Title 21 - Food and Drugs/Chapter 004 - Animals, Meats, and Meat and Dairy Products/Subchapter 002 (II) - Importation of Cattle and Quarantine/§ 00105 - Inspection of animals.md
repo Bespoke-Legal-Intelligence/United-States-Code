@@ -16,11 +16,7 @@ This subchapter, referred to in text, was in the original “this Act”, meanin
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date of entry into force of the World Trade Organization Agreement with respect to the United States \[Jan. 1, 1995\], see section 451 ofPub. L. 103–465, set out as an Effective Date note under section 3601 of Title 19, Customs Duties.
-
-#### Cross References
-
-Inspection of animals for export, see section 612 et seq. of this title.
+Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date of entry into force of the World Trade Organization Agreement with respect to the United States \[Jan. 1, 1995\], see section 451 of Pub. L. 103–465, set out as an Effective Date note under section 3601 of Title 19, Customs Duties.
 
 #### Section Referred to in Other Sections
 

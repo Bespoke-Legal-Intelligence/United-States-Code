@@ -18,7 +18,7 @@ Not later than January 15 of each year (beginning in 1983), the President shall 
 
 &emsp;&emsp;(B) the identifiable costs relating to property, support, and services provided by the United States to the Multinational Force and Observers;
 
-&emsp;(4) the costs which the United States Government would have incurred in maintainingin the United States those United States units and personnel participating in the Multinational Force and Observers;
+&emsp;(4) the costs which the United States Government would have incurred in maintaining in the United States those United States units and personnel participating in the Multinational Force and Observers;
 
 &emsp;(5) amounts received by the United States Government from the Multinational Force and Observers as reimbursement;
 

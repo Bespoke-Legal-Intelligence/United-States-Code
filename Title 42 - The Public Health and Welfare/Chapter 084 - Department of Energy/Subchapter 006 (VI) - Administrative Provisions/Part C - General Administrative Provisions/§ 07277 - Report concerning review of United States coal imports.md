@@ -34,6 +34,10 @@ Section was enacted as part of the Energy Policy and Conservation Amendments Act
 
 Section 201 of title II of Pub. L. 99–58 provided that: “This title \[enacting this section and provisions set out as a note below\] may be cited as the ‘National Coal Imports Reporting Act of 1985’.”
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in this section requiring submittal of reports to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 14th item on page 90 of House Document No. 103–7.
+
 #### Analysis of United States Coal Import Market; Report by Secretary of Energy to Congress
 
 Section 203 of Pub. L. 99–58 provided that:
@@ -66,7 +70,7 @@ Contents.—The report required by this section shall—
 
 &emsp;&emsp;“(C) trade policies relating to coal exports;
 
-&emsp;“(8) evaluate the excess capacity of foreign producers, potential development of new export-orientedcoal mines in foreign nations, operating costs of foreign coal mines, capacity of ocean vessels to transport foreign coal, and constraints on importing coal into the United States because of port and harbor availability;
+&emsp;“(8) evaluate the excess capacity of foreign producers, potential development of new export-oriented coal mines in foreign nations, operating costs of foreign coal mines, capacity of ocean vessels to transport foreign coal, and constraints on importing coal into the United States because of port and harbor availability;
 
 &emsp;“(9) identify specifically the participation of all United States corporations involved in mining and exporting coal from foreign nations; and
 

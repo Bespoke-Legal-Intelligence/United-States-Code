@@ -22,7 +22,3 @@ Pub. L. 97–322, title I, §118(e), Oct. 15, 1982, 96 Stat. 1587, provided that
 
 “(3) Members of any advisory committee described in paragraph (1) of this subsection who are not officers or employees of the United States shall serve without pay and members of any such committee who are officers or employees of the United States shall receive no additional pay on account of their service on such committee. While away from their homes or regular places of business, members of any such committee may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5, United States Code.”
 
-#### Cross References
-
-Powers of Secretary, see section 92 of this title.
-

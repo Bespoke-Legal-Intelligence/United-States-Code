@@ -1,12 +1,12 @@
 ### §981. Civil forfeiture
 
-(a)(1) Except as provided in paragraph (2), the following property is subject to forfeiture to the United States:
+(a)(1) The following property is subject to forfeiture to the United States:
 
 &emsp;(A) Any property, real or personal, involved in a transaction or attempted transaction in violation of section 5313(a) or 5324(a) of title 31, or of section 1956 or 1957 of this title, or any property traceable to such property. However, no property shall be seized or forfeited in the case of a violation of section 5313(a) of title 31 by a domestic financial institution examined by a Federal bank supervisory agency or a financial institution regulated by the Securities and Exchange Commission or a partner, director, or employee thereof.
 
 &emsp;(B) Any property, real or personal, within the jurisdiction of the United States, constituting, derived from, or traceable to, any proceeds obtained directly or indirectly from an offense against a foreign nation involving the manufacture, importation, sale, or distribution of a controlled substance (as such term is defined for the purposes of the Controlled Substances Act), within whose jurisdiction such offense would be punishable by death or imprisonment for a term exceeding one year and which would be punishable under the laws of the United States by imprisonment for a term exceeding one year if such act or activity constituting the offense against the foreign nation had occurred within the jurisdiction of the United States.
 
-&emsp;(C) Any property, real or personal, which constitutes or is derived from proceeds traceable to a violation of section 215, 471, 472, 473, 474, 476, 477, 478, 479, 480, 481, 485, 486, 487, 488, 501, 502, 510, 542, 545, 656, 657, 842, 844, 1005, 1006, 1007, 1014, 1028, 1029, 1030, 1032, or 1344 of this title or a violation of section 1341 or 1343 of such title affecting a financial institution.
+&emsp;(C) Any property, real or personal, which constitutes or is derived from proceeds traceable to a violation of section 215, 471, 472, 473, 474, 476, 477, 478, 479, 480, 481, 485, 486, 487, 488, 501, 502, 510, 542, 545, 656, 657, 842, 844, 1005, 1006, 1007, 1014, 1028, 1029, 1030, 1032, or 1344 of this title or any offense constituting “specified unlawful activity” (as defined in section 1956(c)(7) of this title), or a conspiracy to commit such offense.
 
 &emsp;(D) Any property, real or personal, which represents or is traceable to the gross receipts obtained, directly or indirectly, from a violation of—
 
@@ -38,23 +38,33 @@
 
 &emsp;&emsp;(v) section 2313 (possessing or selling a stolen motor vehicle that has moved in interstate commerce).
 
-(2) No property shall be forfeited under this section to the extent of the interest of an owner or lienholder by reason of any act or omission established by that owner or lienholder to have been committed without the knowledge of that owner or lienholder.
+(2) For purposes of paragraph (1), the term “proceeds” is defined as follows:
 
-(b)(1) Any property—
+&emsp;(A) In cases involving illegal goods, illegal services, unlawful activities, and telemarketing and health care fraud schemes, the term “proceeds” means property of any kind obtained directly or indirectly, as the result of the commission of the offense giving rise to forfeiture, and any property traceable thereto, and is not limited to the net gain or profit realized from the offense.
 
-&emsp;(A) subject to forfeiture to the United States under subparagraph (A) or (B) of subsection (a)(1) of this section—
+&emsp;(B) In cases involving lawful goods or lawful services that are sold or provided in an illegal manner, the term “proceeds” means the amount of money acquired through the illegal transactions resulting in the forfeiture, less the direct costs incurred in providing the goods or services. The claimant shall have the burden of proof with respect to the issue of direct costs. The direct costs shall not include any part of the overhead expenses of the entity providing the goods or services, or any part of the income taxes paid by the entity.
 
-&emsp;&emsp;(i) may be seized by the Attorney General; or
+&emsp;(C) In cases involving fraud in the process of obtaining a loan or extension of credit, the court shall allow the claimant a deduction from the forfeiture to the extent that the loan was repaid, or the debt was satisfied, without any financial loss to the victim.
 
-&emsp;&emsp;(ii) in the case of property involved in a violation of section 5313(a) or 5324 of title 31, United States Code, or section 1956 or 1957 of this title investigated by the Secretary of the Treasury or the United States Postal Service, may be seized by the Secretary of the Treasury or the Postal Service; and
+(b)(1) Except as provided in section 985, any property subject to forfeiture to the United States under subsection (a) may be seized by the Attorney General and, in the case of property involved in a violation investigated by the Secretary of the Treasury or the United States Postal Service, the property may also be seized by the Secretary of the Treasury or the Postal Service, respectively.
 
-&emsp;(B) subject to forfeiture to the United States under subparagraph (C) of subsection (a)(1) of this section may be seized by the Attorney General, the Secretary of the Treasury, or the Postal Service.
+(2) Seizures pursuant to this section shall be made pursuant to a warrant obtained in the same manner as provided for a search warrant under the Federal Rules of Criminal Procedure, except that a seizure may be made without a warrant if—
 
-(2) Property shall be seized under paragraph (1) of this subsection upon process issued pursuant to the Supplemental Rules for certain Admiralty and Maritime Claims by any district court of the United States having jurisdiction over the property, except that seizure without such process may be made when—
+&emsp;(A) a complaint for forfeiture has been filed in the United States district court and the court issued an arrest warrant in rem pursuant to the Supplemental Rules for Certain Admiralty and Maritime Claims;
 
-&emsp;(A) the seizure is pursuant to a lawful arrest or search; or
+&emsp;(B) there is probable cause to believe that the property is subject to forfeiture and—
 
-&emsp;(B) the Attorney General, the Secretary of the Treasury, or the Postal Service, as the case may be, has obtained a warrant for such seizure pursuant to the Federal Rules of Criminal Procedure, in which event proceedings under subsection (d) of this section shall be instituted promptly.
+&emsp;&emsp;(i) the seizure is made pursuant to a lawful arrest or search; or
+
+&emsp;&emsp;(ii) another exception to the Fourth Amendment warrant requirement would apply; or
+
+&emsp;(C) the property was lawfully seized by a State or local law enforcement agency and transferred to a Federal agency.
+
+(3) Notwithstanding the provisions of rule 41(a) of the Federal Rules of Criminal Procedure, a seizure warrant may be issued pursuant to this subsection by a judicial officer in any district in which a forfeiture action against the property may be filed under section 1355(b) of title 28, and may be executed in any district in which the property is found, or transmitted to the central authority of any foreign state for service in accordance with any treaty or other international agreement. Any motion for the return of property seized under this section shall be filed in the district court in which the seizure warrant was issued or in the district court for the district in which the property was seized.
+
+(4)(A) If any person is arrested or charged in a foreign country in connection with an offense that would give rise to the forfeiture of property in the United States under this section or under the Controlled Substances Act, the Attorney General may apply to any Federal judge or magistrate judge in the district in which the property is located for an ex parte order restraining the property subject to forfeiture for not more than 30 days, except that the time may be extended for good cause shown at a hearing conducted in the manner provided in rule 43(e) of the Federal Rules of Civil Procedure.
+
+(B) The application for the restraining order shall set forth the nature and circumstances of the foreign charges and the basis for belief that the person arrested or charged has property in the United States that would be subject to forfeiture, and shall contain a statement that the restraining order is needed to preserve the availability of property for such time as is necessary to receive evidence from the foreign country or elsewhere in support of probable cause for the seizure of the property under this subsection.
 
 (c) Property taken or detained under this section shall not be repleviable, but shall be deemed to be in the custody of the Attorney General, the Secretary of the Treasury, or the Postal Service, as the case may be, subject only to the orders and decrees of the court or the official having jurisdiction thereof. Whenever property is seized under this subsection, the Attorney General, the Secretary of the Treasury, or the Postal Service, as the case may be, may—
 
@@ -82,19 +92,37 @@
 
 &emsp;(5) in the case of property referred to in subsection (a)(1)(C), to any Federal financial institution regulatory agency, to the extent of the agency's contribution of resources to, or expenses involved in, the seizure and forfeiture, and the investigation leading directly to the seizure and forfeiture, of such property;
 
-&emsp;(6) in the case of property referred to in subsection (a)(1)(C), restore forfeited property to any victim of an offense described in subsection (a)(1)(C); or
+&emsp;(6) as restoration to any victim of the offense giving rise to the forfeiture, including, in the case of a money laundering offense, any offense constituting the underlying specified unlawful activity; or
 
 &emsp;(7) In <sup>1</sup> the case of property referred to in subsection (a)(1)(D), to the Resolution Trust Corporation, the Federal Deposit Insurance Corporation, or any other Federal financial institution regulatory agency (as defined in section 8(e)(7)(D) of the Federal Deposit Insurance Act).
 
-> The Attorney General, the Secretary of the Treasury, or the Postal Service, as the case maybe, shall ensure the equitable transfer pursuant to paragraph (2) of any forfeited property to the appropriate State or local law enforcement agency so as to reflect generally the contribution of any such agency participating directly in any of the acts which led to the seizure or forfeiture of such property. A decision by the Attorney General, the Secretary of the Treasury, or the Postal Service pursuant to paragraph (2) shall not be subject to review. The United States shall not be liable in any action arising out of the use of any property the custody of which was transferred pursuant to this section to any non-Federal agency. The Attorney General, the Secretary of the Treasury, or the Postal Service may order the discontinuance of any forfeiture proceedings under this section in favor of the institution of forfeiture proceedings by State or local authorities under an appropriate State or local statute. After the filing of a complaint for forfeiture under this section, the Attorney General may seek dismissal of the complaint in favor of forfeiture proceedings under State or local law. Whenever forfeiture proceedings are discontinued by the United States in favor of State or local proceedings, the United States may transfer custody and possession of the seized property to the appropriate State or local official immediately upon the initiation of the proper actions by such officials. Whenever forfeiture proceedings are discontinued by the United States in favor of State or local proceedings, notice shall be sent to all known interested parties advising them of the discontinuance or dismissal. The United States shall not be liable in any action arising out of the seizure, detention, and transfer of seized property to State or local officials. The United States shall not be liable in any action arising out of a transfer under paragraph (3), (4), or (5) of this subsection.
+> The Attorney General, the Secretary of the Treasury, or the Postal Service, as the case may be, shall ensure the equitable transfer pursuant to paragraph (2) of any forfeited property to the appropriate State or local law enforcement agency so as to reflect generally the contribution of any such agency participating directly in any of the acts which led to the seizure or forfeiture of such property. A decision by the Attorney General, the Secretary of the Treasury, or the Postal Service pursuant to paragraph (2) shall not be subject to review. The United States shall not be liable in any action arising out of the use of any property the custody of which was transferred pursuant to this section to any non-Federal agency. The Attorney General, the Secretary of the Treasury, or the Postal Service may order the discontinuance of any forfeiture proceedings under this section in favor of the institution of forfeiture proceedings by State or local authorities under an appropriate State or local statute. After the filing of a complaint for forfeiture under this section, the Attorney General may seek dismissal of the complaint in favor of forfeiture proceedings under State or local law. Whenever forfeiture proceedings are discontinued by the United States in favor of State or local proceedings, the United States may transfer custody and possession of the seized property to the appropriate State or local official immediately upon the initiation of the proper actions by such officials. Whenever forfeiture proceedings are discontinued by the United States in favor of State or local proceedings, notice shall be sent to all known interested parties advising them of the discontinuance or dismissal. The United States shall not be liable in any action arising out of the seizure, detention, and transfer of seized property to State or local officials. The United States shall not be liable in any action arising out of a transfer under paragraph (3), (4), or (5) of this subsection.
 
 (f) All right, title, and interest in property described in subsection (a) of this section shall vest in the United States upon commission of the act giving rise to forfeiture under this section.
 
-(g) The filing of an indictment or information alleging a violation of law, Federal, State, or local, which is also related to a forfeiture proceeding under this section shall, upon motion of the United States and for good cause shown, stay the forfeiture proceeding.
+(g)(1) Upon the motion of the United States, the court shall stay the civil forfeiture proceeding if the court determines that civil discovery will adversely affect the ability of the Government to conduct a related criminal investigation or the prosecution of a related criminal case.
+
+(2) Upon the motion of a claimant, the court shall stay the civil forfeiture proceeding with respect to that claimant if the court determines that—
+
+&emsp;(A) the claimant is the subject of a related criminal investigation or case;
+
+&emsp;(B) the claimant has standing to assert a claim in the civil forfeiture proceeding; and
+
+&emsp;(C) continuation of the forfeiture proceeding will burden the right of the claimant against self-incrimination in the related investigation or case.
+
+(3) With respect to the impact of civil discovery described in paragraphs (1) and (2), the court may determine that a stay is unnecessary if a protective order limiting discovery would protect the interest of one party without unfairly limiting the ability of the opposing party to pursue the civil case. In no case, however, shall the court impose a protective order as an alternative to a stay if the effect of such protective order would be to allow one party to pursue discovery while the other party is substantially unable to do so.
+
+(4) In this subsection, the terms “related criminal case” and “related criminal investigation” mean an actual prosecution or investigation in progress at the time at which the request for the stay, or any subsequent motion to lift the stay is made. In determining whether a criminal case or investigation is “related” to a civil forfeiture proceeding, the court shall consider the degree of similarity between the parties, witnesses, facts, and circumstances involved in the two proceedings, without requiring an identity with respect to any one or more factors.
+
+(5) In requesting a stay under paragraph (1), the Government may, in appropriate cases, submit evidence ex parte in order to avoid disclosing any matter that may adversely affect an ongoing criminal investigation or pending criminal trial.
+
+(6) Whenever a civil forfeiture proceeding is stayed pursuant to this subsection, the court shall enter any order necessary to preserve the value of the property or to protect the rights of lienholders or other persons with an interest in the property while the stay is in effect.
+
+(7) A determination by the court that the claimant has standing to request a stay pursuant to paragraph (2) shall apply only to this subsection and shall not preclude the Government from objecting to the standing of the claimant by dispositive motion or at the time of trial.
 
 (h) In addition to the venue provided for in section 1395 of title 28 or any other provision of law, in the case of property of a defendant charged with a violation that is the basis for forfeiture of the property under this section, a proceeding for forfeiture under this section may be brought in the judicial district in which the defendant owning such property is found or in the judicial district in which the criminal prosecution is brought.
 
-(i)(1) Whenever property is civilly or criminally forfeited under this chapter, the Attorney General or the Secretary of the Treasury, as the case may be, may transfer the forfeited personal property or the proceeds of the sale of any forfeited personal or real property to any foreign country which participated directly or indirectly in the seizure or forfeiture of the property, if such a transfer—
+(i)(1) Whenever property is civilly or criminally forfeited under this chapter, the AttorneyGeneral or the Secretary of the Treasury, as the case may be, may transfer the forfeited personal property or the proceeds of the sale of any forfeited personal or real property to any foreign country which participated directly or indirectly in the seizure or forfeiture of the property, if such a transfer—
 
 &emsp;(A) has been agreed to by the Secretary of State;
 
@@ -118,15 +146,17 @@
 
 &emsp;(2) the term “Secretary of the Treasury” means the Secretary of the Treasury or his delegate.
 
-(Added Pub. L. 99–570, title I, §1366(a), Oct. 27, 1986, 100 Stat. 3207–35; amended Pub. L. 100–690, title VI, §§6463(a), (b), 6469(b), 6470(b), (e), (f), 6471(c), Nov. 18, 1988, 102 Stat. 4374, 4377, 4378; Pub. L. 101–73, title IX, §963(a), (b), Aug. 9, 1989, 103 Stat. 504; Pub. L. 101–647, title I, §103, title XXV, §§2508, 2524, 2525(a), title XXXV, §3531, Nov. 29, 1990, 104 Stat. 4791, 4862, 4873, 4874, 4924; Pub. L. 102–393, title VI, §638(d), Oct. 6, 1992, 106 Stat. 1788; Pub. L. 102–519, title I, §104(a), Oct. 25, 1992, 106 Stat. 3385; Pub. L. 102–550, title XV, §§1525(c)(1), 1533, Oct. 28, 1992, 106 Stat. 4065, 4066; Pub. L. 103–322, title XXXIII, §330011(s)(2), Sept. 13, 1994, 108 Stat. 2146; Pub. L. 103–447, title I, §102(b), Nov. 2, 1994, 108 Stat. 4693.)
+(Added Pub. L. 99–570, title I, §1366(a), Oct. 27, 1986, 100 Stat. 3207–35; amended Pub. L. 100–690, title VI, §§6463(a), (b), 6469(b), 6470(b), (e), (f), 6471(c), Nov. 18, 1988, 102 Stat. 4374, 4377, 4378; Pub. L. 101–73, title IX, §963(a), (b), Aug. 9, 1989, 103 Stat. 504; Pub. L. 101–647, title I, §103, title XXV, §§2508, 2524, 2525(a), title XXXV, §3531, Nov. 29, 1990, 104 Stat. 4791, 4862, 4873, 4874, 4924; Pub. L. 102–393, title VI, §638(d), Oct. 6, 1992, 106 Stat. 1788; Pub. L. 102–519, title I, §104(a), Oct. 25, 1992, 106 Stat. 3385; Pub. L. 102–550, title XV, §§1525(c)(1), 1533, Oct. 28, 1992, 106 Stat. 4065, 4066; Pub. L. 103–322, title XXXIII, §330011(s)(2), Sept. 13, 1994, 108 Stat. 2146; Pub. L. 103–447, title I, §102(b), Nov. 2, 1994, 108 Stat. 4693; Pub. L. 106–185, §§2(c)(1), 5(a), 6, 8(a), 20, Apr. 25, 2000, 114 Stat. 210, 213–215, 224.)
 
 #### References in Text
 
-The Controlled Substances Act, referred to in subsec. (a)(1)(B), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
+The Controlled Substances Act, referred to in subsecs. (a)(1)(B) and (b)(4)(A), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
 
-The Supplemental Rules for certain Admiralty and Maritime Claims, referred to in subsec. (b)(2), are set out as part of the Federal Rules of Civil Procedure in the Appendix to Title 28, Judiciary and Judicial Procedure.
+The Federal Rules of Criminal Procedure, referred to in subsec. (b)(2), (3), are set out in the Appendix to this title.
 
-The Federal Rules of Criminal Procedure, referred to in subsec. (b)(2)(B), are set out in the Appendix to this title.
+The Supplemental Rules for Certain Admiralty and Maritime Claims, referred to in subsec. (b)(2)(A), are set out as part of the Federal Rules of Civil Procedure in the Appendix to Title 28, Judiciary and Judicial Procedure.
+
+The Federal Rules of Civil Procedure, referred to in subsec. (b)(4)(A), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
 The customs laws, referred to in subsec. (d), are classified generally to Title 19, Customs Duties. See, particularly, sections 1902 to 1919 of Title 19.
 
@@ -137,6 +167,34 @@ Section 8(e)(7)(D) of the Federal Deposit Insurance Act, referred to in subsec. 
 Section 481(h) of the Foreign Assistance Act of 1961, referred to in subsec. (i)(1)(C), was classified to section 2291(h) of Title 22, Foreign Relations and Intercourse, prior to repeal of subsec. (h) by Pub. L. 102–583, §6(b)(2), Nov. 2, 1992, 106 Stat. 4932. Reference to section 481(h) of the Foreign Assistance Act of 1961 probably should be to section 490(a)(1) of the Act, which is classified to section 2291j(a)(1) of Title 22.
 
 #### Amendments
+
+2000—Subsec. (a)(1). Pub. L. 106–185, §2(c)(1)(A), substituted “The” for “Except as provided in paragraph (2), the” in introductory provisions.
+
+Subsec. (a)(1)(C). Pub. L. 106–185, §20(a), substituted “or any offense constituting ‘specified unlawful activity’ (as defined in section 1956(c)(7) of this title), or a conspiracy to commit such offense.” for “or a violation of section 1341 or 1343 of such title affecting a financial institution.”
+
+Subsec. (a)(2). Pub. L. 106–185, §§2(c)(1)(B), 20(b), added par. (2) and struck out former par. (2) which read as follows: “No property shall be forfeited under this section to the extent of the interest of an owner or lienholder by reason of any act or omission established by that owner or lienholder to have been committed without the knowledge of that owner or lienholder.”
+
+Subsec. (b). Pub. L. 106–185, §5(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
+
+“(b)(1) Any property—
+
+&emsp;“(A) subject to forfeiture to the United States under subparagraph (A) or (B) of subsection (a)(1) of this section—
+
+&emsp;&emsp;“(i) may be seized by the Attorney General; or
+
+&emsp;&emsp;“(ii) in the case of property involved in a violation of section 5313(a) or 5324 of title 31, United States Code, or section 1956 or 1957 of this title investigated by the Secretary of the Treasury or the United States Postal Service, may be seized by the Secretary of the Treasury or the Postal Service; and
+
+&emsp;“(B) subject to forfeiture to the United States under subparagraph (C) of subsection (a)(1) of this section may be seized by the Attorney General, the Secretary of the Treasury, or the Postal Service.
+
+“(2) Property shall be seized under paragraph (1) of this subsection upon process issued pursuant to the Supplemental Rules for certain Admiralty and Maritime Claims by any district court of the United States having jurisdiction over the property, except that seizure without such process may be made when—
+
+&emsp;“(A) the seizure is pursuant to a lawful arrest or search; or
+
+&emsp;“(B) the Attorney General, the Secretary of the Treasury, or the Postal Service, as the case may be, has obtained a warrant for such seizure pursuant to the Federal Rules of Criminal Procedure, in which event proceedings under subsection (d) of this section shall be instituted promptly.”
+
+Subsec. (e)(6). Pub. L. 106–185, §6, added par. (6) and struck out former par. (6) which read as follows: “in the case of property referred to in subsection (a)(1)(C), restore forfeited property to any victim of an offense described in subsection (a)(1)(C); or”.
+
+Subsec. (g). Pub. L. 106–185, §8(a), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “The filing of an indictment or information alleging a violation of law, Federal, State, or local, which is also related to a forfeiture proceeding under this section shall, upon motion of the United States and for good cause shown, stay the forfeiture proceeding.”
 
 1994—Subsec. (e)(7). Pub. L. 103–322, §330011(s)(2), amended directory language of Pub. L. 101–647, §2525(a)(2). See 1990 Amendment note below.
 
@@ -180,7 +238,7 @@ Subsec. (e). Pub. L. 101–73, §963(b), substituted “determine—” for “d
 
 “(2) any State or local law enforcement agency which participated directly in any of the acts which led to the seizure or forfeiture of the property.”
 
-1988—Subsec. (a)(1)(A). Pub. L. 100–690, §6463(a)(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “Any property, real or personal, which represents the gross receipts a person obtains, directly or indirectly, as a result of a violation of section 1956 or 1957 of this title, or which is traceable to such gross receipts.”
+1988—Subsec. (a)(1)(A). Pub. L. 100–690, §6463(a)(1), added subpar. (A) and struck out former subpar. (A)which read as follows: “Any property, real or personal, which represents the gross receipts a person obtains, directly or indirectly, as a result of a violation of section 1956 or 1957 of this title, or which is traceable to such gross receipts.”
 
 Subsec. (a)(1)(B). Pub. L. 100–690, §6470(b), inserted “, real or personal,” after “property”, substituted “constituting, derived from, or traceable to, any proceeds obtained directly or indirectly from” for “which represents the proceeds of”, “such offense would” for “such offense or activity would”, and “punishable under the laws of the United States by imprisonment” for “punishable by imprisonment”, and inserted “constituting the offense against the foreign nation” after “such act or activity”.
 
@@ -206,9 +264,17 @@ Subsec. (g). Pub. L. 100–690, §6471(c), inserted “, Federal, State or loca
 
 Subsec. (i)(1). Pub. L. 100–690, §6470(f), substituted “subsection” for “subchapter” in fourth sentence.
 
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–185 applicable to any forfeiture proceeding commenced on or after the date that is 120 days after Apr. 25, 2000, see section 21 of Pub. L. 106–185, set out as a note under section 1324 of Title 8, Aliens and Nationality.
+
 #### Effective Date of 1994 Amendment
 
 Section 330011(s)(2) of Pub. L. 103–322 provided that the amendment made by that section is effective as of the date on which section 2525(a)(2) of Pub. L. 101–647 took effect.
+
+#### Short Title of 2000 Amendment
+
+Pub. L. 106–185, §1(a), Apr. 25, 2000, 114 Stat. 202, provided that: “This Act \[enacting sections 983 and 985 of this title and sections 2466 and 2467 of Title 28, Judiciary and Judicial Procedure, amending this section, sections 982 to 984, 986, 2232, 2254, and 3322 of this title, section 1324 of Title 8, Aliens and Nationality, section 1621 of Title 19, Customs Duties, section 881 of Title 21, Food and Drugs, sections 524, 2461, 2465, and 2680 of Title 28, and section 2996f of Title 42, The Public Health and Welfare, repealing section 888 of Title 21, and enacting provisions set out as notes under section 1324 of Title 8, section 2466 of Title 28, and section 3724 of Title 31, Money and Finance\] may be cited as the ‘Civil Asset Forfeiture Reform Act of 2000’.”
 
 #### Short Title of 1988 Amendment
 
@@ -224,7 +290,7 @@ Section 1367 of Pub. L. 99–570 provided that: “If any provision of this subt
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 3322 of this title; title 12 sections 1831k, 3412; title 19 section 1613b; title 31 section 9703.
+This section is referred to in title 8 section 1324; title 12 sections 1831k, 3412; title 19 section 1613b; title 21 section 881; title 31 section 9703.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

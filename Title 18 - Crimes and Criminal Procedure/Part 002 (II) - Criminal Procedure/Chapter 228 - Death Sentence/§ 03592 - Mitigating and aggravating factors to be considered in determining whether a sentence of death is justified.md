@@ -6,7 +6,7 @@ Mitigating Factors.—In determining whether a sentence of death is to be impose
 
 &emsp;(1)
 
-Impaired capacity.—The defendant's capacity to appreciate the wrongfulness of the defendant's conduct or to conform conduct to the requirements of law was significantly impaired, regardless of whether the capacity was so impaired as to constitute a defense to the charge.
+Impaired capacity.—The defendant's capacity to appreciate the wrongfulness of the defendant's conduct or to conform conduct tothe requirements of law was significantly impaired, regardless of whether the capacity was so impaired as to constitute a defense to the charge.
 
 &emsp;(2)
 
@@ -174,7 +174,7 @@ Using minors in trafficking.—The offense, or a continuing criminal enterprise 
 
 &emsp;(8)
 
-Lethal adulterant.—The offense involved the importation, manufacture, or distribution of a controlled substance (as defined in section 102 of the Controlled Substances Act (21 U.S.C. 802)), mixed with a potentially lethal adulterant, and the defendant was aware of the presence of the adulterant.
+Lethal adulterant.—The offense involved the importation, manufacture, or distribution of a controlled substance (as defined in section 102 of the Controlled Substances Act\(21 U.S.C. 802)), mixed with a potentially lethal adulterant, and the defendant was aware of the presence of the adulterant.
 
 > The jury, or if there is no jury, the court, may consider whether any other aggravating factor for which notice has been given exists.
 

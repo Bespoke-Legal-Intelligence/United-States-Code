@@ -10,7 +10,7 @@
 | (b) | Construction and treatment of certain services. |
 | (c) | Limitation on Federal facilities and employees. |
 | (d) | List of programs to which restrictions apply. |
-| [14403\.](%C2%A7%2014403%20-%20Restriction%20on%20use%20of%20Federal%20funds%20under%20certain%20grant%20programs%20under%20the%20Developmental%20Disabilities%20Assistance%20and%20Bill%20of%20Rights%20Act.md) | Restriction on use of Federal funds under certain grant programs under the Developmental Disabilities Assistance and Bill of Rights Act. |
+| [14403\.](%C2%A7%2014403%20-%20Restriction%20on%20use%20of%20Federal%20funds%20under%20certain%20grant%20programs.md) | Restriction on use of Federal funds under certain grant programs. |
 | [14404\.](%C2%A7%2014404%20-%20Restriction%20on%20use%20of%20Federal%20funds%20by%20advocacy%20programs.md) | Restriction on use of Federal funds by advocacy programs. |
 | (a) | In general. |
 | (b) | List of programs to which restrictions apply. |
@@ -34,7 +34,7 @@ This chapter is referred to in sections 238<i>o</i>, 701, 1395y, 1396b, 1397d, 2
 
 - [&sect; 14401 - Findings and purpose](%C2%A7%2014401%20-%20Findings%20and%20purpose.md)
 - [&sect; 14402 - Restriction on use of Federal funds under health care programs](%C2%A7%2014402%20-%20Restriction%20on%20use%20of%20Federal%20funds%20under%20health%20care%20programs.md)
-- [&sect; 14403 - Restriction on use of Federal funds under certain grant programs under the Developmental Disabilities Assistance and Bill of Rights Act](%C2%A7%2014403%20-%20Restriction%20on%20use%20of%20Federal%20funds%20under%20certain%20grant%20programs%20under%20the%20Developmental%20Disabilities%20Assistance%20and%20Bill%20of%20Rights%20Act.md)
+- [&sect; 14403 - Restriction on use of Federal funds under certain grant programs](%C2%A7%2014403%20-%20Restriction%20on%20use%20of%20Federal%20funds%20under%20certain%20grant%20programs.md)
 - [&sect; 14404 - Restriction on use of Federal funds by advocacy programs](%C2%A7%2014404%20-%20Restriction%20on%20use%20of%20Federal%20funds%20by%20advocacy%20programs.md)
 - [&sect; 14405 - Restriction on use of other Federal funds](%C2%A7%2014405%20-%20Restriction%20on%20use%20of%20other%20Federal%20funds.md)
 - [&sect; 14406 - Clarification with respect to advance directives](%C2%A7%2014406%20-%20Clarification%20with%20respect%20to%20advance%20directives.md)

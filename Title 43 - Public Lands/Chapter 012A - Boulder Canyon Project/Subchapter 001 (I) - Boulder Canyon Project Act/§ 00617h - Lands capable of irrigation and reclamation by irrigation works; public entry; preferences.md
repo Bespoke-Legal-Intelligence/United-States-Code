@@ -26,5 +26,5 @@ Amendment by Pub. L. 94–579 not to be construed as terminating any valid lease
 
 #### Repeal of Prior Acts Continuing Section
 
-Section 6 of Joint Res. July 3, 1952, repealed Joint Res. Apr. 14, 1952, ch. 204, 66 Stat. 54 as amended by Joint Res. May 28, 1952, ch. 339, 66 Stat. 96; Joint Res.June 14, 1952, ch. 437, 66 Stat. 137; Joint Res. June 30, 1952, ch. 526, 66 Stat. 296, which continued provisions until July 3, 1952. This repeal took effect as of June 16, 1952, by section 7 of Joint Res. July 3, 1952.
+Section 6 of Joint Res. July 3, 1952, repealed Joint Res. Apr. 14, 1952, ch. 204, 66 Stat. 54 as amended by Joint Res. May 28, 1952, ch. 339, 66 Stat. 96; Joint Res. June 14, 1952, ch. 437, 66 Stat. 137; Joint Res. June 30, 1952, ch. 526, 66 Stat. 296, which continued provisions until July 3, 1952. This repeal took effect as of June 16, 1952, by section 7 of Joint Res. July 3, 1952.
 

@@ -94,7 +94,7 @@ As used in this part:
 
 #### References in Text
 
-This subchapter, referred to in subsec. (e)(1), was in the original “this title”, meaning title IV of Pub. L. 94–385, known as the Energy Conservation in Existing Buildings Act of 1976, which enacted this subchapter, section 6327 of this title, and section 1701z–8 of Title 12,Banks and Banking, amended sections 6323, 6325, and 6326 of this title, and enacted provisions set out as a note under section 6801 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6801 of this title and Tables.
+This subchapter, referred to in subsec. (e)(1), was in the original “this title”, meaning title IV of Pub. L. 94–385, known as the Energy Conservation in Existing Buildings Act of 1976, which enacted this subchapter, section 6327 of this title, and section 1701z–8 of Title 12, Banks and Banking, amended sections 6323, 6325, and 6326 of this title, and enacted provisions set out as a note under section 6801 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6801 of this title and Tables.
 
 The Davis-Bacon Act, referred to in subsec. (h), is act Mar. 3, 1931, ch. 411, 46 Stat. 1494, as amended, which is classified generally to sections 276a to 276a–5 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 276a of Title 40 and Tables.
 

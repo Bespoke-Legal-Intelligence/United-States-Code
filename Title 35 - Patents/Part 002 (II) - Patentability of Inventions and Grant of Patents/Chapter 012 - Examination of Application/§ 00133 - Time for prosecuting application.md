@@ -18,10 +18,6 @@ The opening clause of the corresponding section of existing statute is omitted a
 
 Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of this title.
 
-#### Cross References
-
-Abandonment of invention as denying patentability, see section 102 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 41, 267, 305, 314 of this title.

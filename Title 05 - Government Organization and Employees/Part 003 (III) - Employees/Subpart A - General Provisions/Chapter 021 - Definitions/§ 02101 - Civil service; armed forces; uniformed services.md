@@ -34,7 +34,7 @@ Pub. L. 105–339, §1, Oct. 31, 1998, 112 Stat. 3182, provided that: “This Ac
 
 #### Short Title of 1994 Amendment
 
-Pub. L. 103–226, §1, Mar. 30, 1994, 108 Stat. 111, provided that: “This Act \[amending sections 3381, 4101, 4103, 4105, 4107, 4108, 4113, 4118, 5597, 8351, 8433 to 8435, 8437, 8440a to 8440d of this title and section 1206 of Title 45, Railroads, repealing sections 4106 and 4114 of this title, enacting provisions set out as notes under sections 3101, 3381, 5597, 8331, and 8351 of this title, and amending provisions set out as a note under section 403–4 of Title 50, War and National Defense\] may be cited as the ‘Federal Workforce Restructuring Act of 1994’.”
+Pub. L. 103–226, §1, Mar. 30, 1994, 108 Stat. 111, provided that: “This Act \[amending sections 3381, 4101, 4103, 4105, 4107, 4108, 4113, 4118, 5597, 8351, 8433 to 8435, 8437, 8440a to 8440d of this title and section 1206 of Title 45, Railroads, repealing sections 4106 and 4114 of this title, enacting provisions set out as notes under sections 3101, 3381, 5597, 8331, and 8351 of this title, andamending provisions set out as a note under section 403–4 of Title 50, War and National Defense\] may be cited as the ‘Federal Workforce Restructuring Act of 1994’.”
 
 #### Short Title of 1990 Amendment
 

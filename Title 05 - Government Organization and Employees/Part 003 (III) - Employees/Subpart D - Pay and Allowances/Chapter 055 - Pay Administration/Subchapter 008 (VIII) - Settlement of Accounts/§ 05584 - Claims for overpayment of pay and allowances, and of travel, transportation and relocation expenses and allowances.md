@@ -14,7 +14,7 @@
 
 (b) The authorized official or the head of the agency, as the case may be, may not exercise his authority under this section to waive any claim—
 
-&emsp;(1) if, in his opinion, there exists, in connection with the claim, an indication of fraud, misrepresentation, fault, or lack of good faith on the part of the employee or any other person having an interest in obtaining a waiver of the claim;
+&emsp;(1) if, in his opinion, there exists, in connection with the claim, an indication of fraud,misrepresentation, fault, or lack of good faith on the part of the employee or any other person having an interest in obtaining a waiver of the claim;
 
 &emsp;(2) except in the case of employees of the Government Printing Office, the Library of Congress, the Office of the Architect of the Capitol, or the Botanic Garden, if application for waiver is received in his office, after the expiration of three years immediately following the date on which the erroneous payment of pay was discovered or three years immediately following October 21, 1968, whichever is later;
 
@@ -105,14 +105,6 @@ Section 4 of Pub. L. 99–224 provided that: “The amendments made by section 1
 #### Effective Date of 1979 Amendment
 
 Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L. 96–54. set out as a note under section 305 of this title.
-
-#### Cross References
-
-Claims for overpayment of pay or allowances to the Vice President, Senators, officers and employees whose pay is disbursed by the Secretary of the Senate, and officers and employees whose pay is disbursed by the Clerk of the House of Representatives, see sections 130c and 130d of Title 2, The Congress.
-
-Compromise and collection of Federal claims generally, see section 3701 et seq. of Title 31, Money and Finance.
-
-Waiver by Secretary of Senate and Speaker of House of claims for erroneous payment of pay or allowances, see sections 130c and 130d of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

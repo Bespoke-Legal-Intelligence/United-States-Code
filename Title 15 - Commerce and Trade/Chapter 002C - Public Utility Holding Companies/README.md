@@ -108,7 +108,7 @@
 | (a) | Public disclosure of information; protection of trade secrets. |
 | (b) | Written objection to public disclosure. |
 | (c) | Disclosure of nonpublic information to other than Commission personnel. |
-| [79w.](%C2%A7%2000079w%20-%20Annual%20reports%20of%20Commission.md) | Annual reports of Commission. |
+| [79w.](%C2%A7%2000079w%20-%20Omitted.md) | Omitted. |
 | [79x.](%C2%A7%2000079x%20-%20Court%20review%20of%20orders.md) | Court review of orders. |
 | (a) | Petition; jurisdiction; findings of Commission; additional evidence; finality. |
 | (b) | Stay of Commission's order. |
@@ -194,7 +194,7 @@ This chapter is referred to in sections 77ccc, 77hhh, 77jjj, 77kkk, 77www, 77zzz
 - [&sect; 00079t - Rules, regulations, and orders](%C2%A7%2000079t%20-%20Rules%2C%20regulations%2C%20and%20orders.md)
 - [&sect; 00079u - Effect on other laws](%C2%A7%2000079u%20-%20Effect%20on%20other%20laws.md)
 - [&sect; 00079v - Information filed with Commission](%C2%A7%2000079v%20-%20Information%20filed%20with%20Commission.md)
-- [&sect; 00079w - Annual reports of Commission](%C2%A7%2000079w%20-%20Annual%20reports%20of%20Commission.md)
+- [&sect; 00079w - Omitted](%C2%A7%2000079w%20-%20Omitted.md)
 - [&sect; 00079x - Court review of orders](%C2%A7%2000079x%20-%20Court%20review%20of%20orders.md)
 - [&sect; 00079y - Jurisdiction of offenses and suits](%C2%A7%2000079y%20-%20Jurisdiction%20of%20offenses%20and%20suits.md)
 - [&sect; 00079z - Validity of contracts](%C2%A7%2000079z%20-%20Validity%20of%20contracts.md)

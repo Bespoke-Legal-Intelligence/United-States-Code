@@ -70,7 +70,7 @@ The Secretary shall use funds provided under this section to reimburse landowner
 
 The Cooperative Forestry Assistance Act of 1978, referred to in subsec. (c)(3)(C), is Pub. L. 95–313, July 1, 1978, 92 Stat. 365, as amended, which is classified principally to this chapter (§2101 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 2101 of this title and Tables.
 
-The Food Security Act of 1985, referred to in subsec. (c)(3)(C), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, as amended. Chapter 4 of subtitle D of title XII of the Act is classified generally to part IV (§3839aa et seq.) of subchapter IV of chapter 58 of this title. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of Title 7, Agriculture, and Tables.
+The Food Security Act of 1985, referred to in subsec. (c)(3)(C), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, as amended. Chapter 4 of subtitle D of title XII of the Act is classified generally to part IV (§3839aa et seq.) ofsubchapter IV of chapter 58 of this title. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of Title 7, Agriculture, and Tables.
 
 #### Codification
 

@@ -36,7 +36,7 @@
 
 &emsp;(C) had its appraised salvage value determined by the Coast Guard and is qualified for documentation under section 4136 of the Revised Statutes of the United States (46 App. U.S.C. 14).
 
-(2) A vessel of less than 5,000 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title for which a building contract or contract for major conversion was placed before June 30, 1990, and that is delivered under that contract before January 1, 1994, and a vessel of less than 5,000 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of thistitle as prescribed by the Secretary under section 14104 of this title that had its appraised salvage value determined by the Coast Guard before June 30, 1990, and that qualifies for documentation under section 4136 of the Revised Statutes of the United States (46 App. U.S.C. 14) before January 1, 1994, may not operate in the navigable waters or the Exclusive Economic Zone of the United States after January 1, 2015, unless the vessel is equipped with a double hull or with a double containment system determined by the Secretary to be as effective as a double hull for the prevention of a discharge of oil.
+(2) A vessel of less than 5,000 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title for which a building contract or contract for major conversion was placed before June 30, 1990, and that is delivered under that contract before January 1, 1994, and a vessel of less than 5,000 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title that had its appraised salvage value determined by the Coast Guard before June 30, 1990, and that qualifies for documentation under section 4136 of the Revised Statutes of the United States (46 App. U.S.C. 14) before January 1, 1994, may not operate in the navigable waters or the Exclusive Economic Zone of the United States after January 1, 2015, unless the vessel is equipped with a double hull or with a double containment system determined by the Secretary to be as effective as a double hull for the prevention of a discharge of oil.
 
 (3) A vessel for which a building contract or contract for major conversion was placed before June 30, 1990, and that is delivered under that contract before January 1, 1994, and a vessel that had its appraised salvage value determined by the Coast Guard before June 30, 1990, and that qualifies for documentation under section 4136 of the Revised Statutes of the United States (46 App. U.S.C. 14) before January 1, 1994, may not operate in the navigable waters or Exclusive Economic Zone of the United States unless equipped with a double hull—
 
@@ -170,7 +170,7 @@ Pub. L. 101–380, title IV, §4115(e), Aug. 18, 1990, 104 Stat. 520, as amended
 
 “(1)
 
-Other requirements.—Not later than 6 months after the date of enactment of this Act \[Aug. 18, 1990\], the Secretary shall determine, based on recommendations from the National Academy of Sciences or other qualified organizations, whether other structural and operational tank vessel requirements will provide protection to the marine environment equal to or greaterthan that provided by double hulls, and shall report to the Congress that determination and recommendations for legislative action.
+Other requirements.—Not later than 6 months after the date of enactment of this Act \[Aug. 18, 1990\], the Secretary shall determine, based on recommendations from the National Academy of Sciences or other qualified organizations, whether other structural and operational tank vessel requirements will provide protection to the marine environment equal to or greater than that provided by double hulls, and shall report to the Congress that determination and recommendations for legislative action.
 
 “(2)
 
@@ -199,10 +199,6 @@ Review and assessment.—The Secretary shall—
 #### Territorial Sea of United States
 
 For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
-
-#### Contiguous Zone of United States
-
-For extension of contiguous zone of United States, see Proc. No. 7219, Sept. 2, 1999, 64 F.R. 48701, set out as a note under section 1331 of Title 43, Public Lands.
 
 #### Section Referred to in Other Sections
 

@@ -10,7 +10,7 @@ The Congress finds the following:
 
 &emsp;(3) Parents and other caregivers in today's high pressure society often face demands which place restraints on such parents’ and caregivers’ time and affect such parents’ and caregivers’ ability to adequately provide for the needs of the families of such parents and caregivers.
 
-&emsp;(4) Access to health and social service programs can address the basic physical and emotional needs of children so that children can fully participate in the learning experiences offered children in school.
+&emsp;(4) Access to health and social service programs can address the basic physical and emotional needs of children so that children canfully participate in the learning experiences offered children in school.
 
 &emsp;(5) Services for at-risk students need to be more convenient, and less fragmented, regulated and duplicative, in order to meet the needs of children and their families.
 

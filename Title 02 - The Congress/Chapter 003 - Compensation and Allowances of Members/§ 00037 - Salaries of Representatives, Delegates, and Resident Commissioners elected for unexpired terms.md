@@ -4,7 +4,3 @@ The salaries of Representatives in Congress, Delegates from Territories, and Res
 
 (July 16, 1914, ch. 141, §1, 38 Stat. 458.)
 
-#### Cross References
-
-Resident Commissioner of Puerto Rico, see section 891 et seq. of Title 48, Territories and Insular Possessions.
-

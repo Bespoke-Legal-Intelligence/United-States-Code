@@ -12,10 +12,6 @@ R.S. §102 derived from act Jan. 24, 1857, ch. 19, §1, 11 Stat. 155.
 
 1938—Act June 22, 1938, reenacted section without change.
 
-#### Cross References
-
-Minor offenses tried by United States magistrate judges as excluding offenses punishable under this section, see section 3401 of Title 18, Crimes and Criminal Procedure.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 194 of this title.

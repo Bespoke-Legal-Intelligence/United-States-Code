@@ -1,0 +1,308 @@
+### §7609. Special procedures for third-party summonses
+
+#### (a) Notice
+
+#### (1) In general
+
+&emsp;If any summons to which this section applies requires the giving of testimony on or relating to, the production of any portion of records made or kept on or relating to, or the production of any computer software source code (as defined in 7612(d)(2)) with respect to, any person (other than the person summoned) who is identified in the summons, then notice of the summons shall be given to any person so identified within 3 days of the day on which such service is made, but no later than the 23rd day before the day fixed in the summons as the day upon which such records are to be examined. Such notice shall be accompanied by a copy of the summons which has been served and shall contain an explanation of the right under subsection (b)(2) to bring a proceeding to quash the summons.
+
+#### (2) Sufficiency of notice
+
+&emsp;Such notice shall be sufficient if, on or before such third day, such notice is served in the manner provided in section 7603 (relating to service of summons) upon the person entitled to notice, or is mailed by certified or registered mail to the last known address of such person, or, in the absence of a last known address, is left with the person summoned. If such notice is mailed, it shall be sufficient if mailed to the last known address of the person entitled to notice or, in the case of notice to the Secretary under section 6903 of the existence of a fiduciary relationship, to the last known address of the fiduciary of such person, even if such person or fiduciary is then deceased, under a legal disability, or no longer in existence.
+
+#### (3) Nature of summons
+
+&emsp;Any summons to which this subsection applies (and any summons in aid of collection described in subsection (c)(2)(D)) shall identify the taxpayer to whom the summons relates or the other person to whom the records pertain and shall provide such other information as will enable the person summoned to locate the records required under the summons.
+
+#### (b) Right to intervene; right to proceeding to quash
+
+#### (1) Intervention
+
+&emsp;Notwithstanding any other law or rule of law, any person who is entitled to notice of asummons under subsection (a) shall have the right to intervene in any proceeding with respect to the enforcement of such summons under section 7604.
+
+#### (2) Proceeding to quash
+
+#### (A) In general
+
+&emsp;&emsp;Notwithstanding any other law or rule of law, any person who is entitled to notice of a summons under subsection (a) shall have the right to begin a proceeding to quash such summons not later than the 20th day after the day such notice is given in the manner provided in subsection (a)(2). In any such proceeding, the Secretary may seek to compel compliance with the summons.
+
+#### (B) Requirement of notice to person summoned and to Secretary
+
+&emsp;&emsp;If any person begins a proceeding under subparagraph (A) with respect to any summons, not later than the close of the 20-day period referred to in subparagraph (A) such person shall mail by registered or certified mail a copy of the petition to the person summoned and to such office as the Secretary may direct in the notice referred to in subsection (a)(1).
+
+#### (C) Intervention; etc.
+
+&emsp;&emsp;Notwithstanding any other law or rule of law, the person summoned shall have the right to intervene in any proceeding under subparagraph (A). Such person shall be bound by the decision in such proceeding (whether or not the person intervenes in such proceeding).
+
+#### (c) Summons to which section applies
+
+#### (1) In general
+
+&emsp;Except as provided in paragraph (2), this section shall apply to any summons issued under paragraph (2) of section 7602(a) or under section 6420(e)(2), 6421(g)(2), 6427(j)(2), or 7612.
+
+#### (2) Exceptions
+
+&emsp;This section shall not apply to any summons—
+
+&emsp;&emsp;(A) served on the person with respect to whose liability the summons is issued, or any officer or employee of such person;
+
+&emsp;&emsp;(B) issued to determine whether or not records of the business transactions or affairs of an identified person have been made or kept;
+
+&emsp;&emsp;(C) issued solely to determine the identity of any person having a numbered account (or similar arrangement) with a bank or other institution described in section 7603(b)(2)(A);
+
+&emsp;&emsp;(D) issued in aid of the collection of—
+
+&emsp;&emsp;&emsp;(i) an assessment made or judgment rendered against the person with respect to whose liability the summons is issued; or
+
+&emsp;&emsp;&emsp;(ii) the liability at law or in equity of any transferee or fiduciary of any person referred to in clause (i);
+
+&emsp;&emsp;(E)(i) issued by a criminal investigator of the Internal Revenue Service in connection with the investigation of an offense connected with the administration or enforcement of the internal revenue laws; and
+
+&emsp;&emsp;(ii) served on any person who is not a third-party recordkeeper (as defined in section 7603(b)); or
+
+&emsp;&emsp;(F) described in subsection (f) or (g).
+
+#### (3) Records
+
+&emsp;For purposes of this section, the term “records” includes books, papers, and other data.
+
+#### (d) Restriction on examination of records
+
+No examination of any records required to be produced under a summons as to which notice is required under subsection (a) may be made—
+
+&emsp;(1) before the close of the 23rd day after the day notice with respect to the summons is given in the manner provided in subsection (a)(2), or
+
+&emsp;(2) where a proceeding under subsection (b)(2)(A) was begun within the 20-day period referred to in such subsection and the requirements of subsection (b)(2)(B) have been met, except in accordance with an order of the court having jurisdiction of such proceeding or with the consent of the person beginning the proceeding to quash.
+
+#### (e) Suspension of statute of limitations
+
+#### (1) Subsection (b) action
+
+&emsp;If any person takes any action as provided in subsection (b) and such person is the person with respect to whose liability the summons is issued (or is the agent, nominee, or other person acting under the direction or control of such person), then the running of any period of limitations under section 6501 (relating to the assessment and collection of tax) or under section 6531 (relating to criminal prosecutions) with respect to such person shall be suspended for the period during which a proceeding, and appeals therein, with respect to the enforcement of such summons is pending.
+
+#### (2) Suspension after 6 months of service of summons
+
+&emsp;In the absence of the resolution of the summoned party's response to the summons, the running of any period of limitations under section 6501 or under section 6531 with respect to any person with respect to whose liability the summons is issued (other than a person taking action as provided in subsection (b)) shall be suspended for the period—
+
+&emsp;&emsp;(A) beginning on the date which is 6 months after the service of such summons, and
+
+&emsp;&emsp;(B) ending with the final resolution of such response.
+
+#### (f) Additional requirement in the case of a John Doe summons
+
+Any summons described in subsection (c)(1) which does not identify the person with respect to whose liability the summons is issued may be served only after a court proceeding in which the Secretary establishes that—
+
+&emsp;(1) the summons relates to the investigation of a particular person or ascertainable group or class of persons,
+
+&emsp;(2) there is a reasonable basis for believing that such person or group or class of persons may fail or may have failed to comply with any provision of any internal revenue law, and
+
+&emsp;(3) the information sought to be obtained from the examination of the records or testimony (and the identity of the person or persons with respect to whose liability the summons is issued) is not readily available from other sources.
+
+#### (g) Special exception for certain summonses
+
+A summons is described in this subsection if, upon petition by the Secretary, the court determines, on the basis of the facts and circumstances alleged, that there is reasonable cause to believe the giving of notice may lead to attempts to conceal, destroy, or alter records relevant to the examination, to prevent the communication of information from other persons through intimidation, bribery, or collusion, or to flee to avoid prosecution, testifying, or production of records.
+
+#### (h) Jurisdiction of district court; etc.
+
+#### (1) Jurisdiction
+
+&emsp;The United States district court for the district within which the person to be summoned resides or is found shall have jurisdiction to hear and determine any proceeding brought under subsection (b)(2), (f), or (g). An order denying the petition shall be deemed a final order which may be appealed.
+
+#### (2) Special rule for proceedings under subsections (f) and (g)
+
+&emsp;The determinations required to be made under subsections (f) and (g) shall be made ex parte and shall be made solely on the petition and supporting affidavits.
+
+#### (i) Duty of summoned party
+
+#### (1) Recordkeeper must assemble records and be prepared to produce records
+
+&emsp;On receipt of a summons to which this section applies for the production of records, the summoned party shall proceed to assemble the records requested, or such portion thereof as the Secretary may prescribe, and shall be prepared to produce the records pursuant to the summons on the day on which the records are to be examined.
+
+#### (2) Secretary may give summoned party certificate
+
+&emsp;The Secretary may issue a certificate to the summoned party that the period prescribed for beginning a proceeding to quash a summons has expired and that no such proceeding began within such period, or that the taxpayer consents to the examination.
+
+#### (3) Protection for summoned party who discloses
+
+&emsp;Any summoned party, or agent or employee thereof, making a disclosure of records or testimony pursuant to this section in good faith reliance on the certificate of the Secretary or an order of a court requiring production of records or the giving of such testimony shall not be liable to any customer or other person for such disclosure.
+
+#### (4) Notice of suspension of statute of limitations in the case of a John Doe summons
+
+&emsp;In the case of a summons described in subsection (f) with respect to which any period of limitations has been suspended under subsection (e)(2), the summoned party shall provide notice of such suspension to any person described in subsection (f).
+
+#### (j) Use of summons not required
+
+Nothing in this section shall be construed to limit the Secretary's ability to obtain information, other than by summons, through formal or informal procedures authorized by sections 7601 and 7602.
+
+(Added Pub. L. 94–455, title XII, §1205(a), Oct. 4, 1976, 90 Stat. 1699; amended Pub. L. 95–599, title V, §505(c)(6), Nov. 6, 1978, 92 Stat. 2760; Pub. L. 95–600, title VII, §703(<i>l</i>)(4), Nov. 6, 1978, 92 Stat. 2943; Pub. L. 96–223, title II, §232(d)(4)(E), Apr. 2, 1980, 94 Stat. 278; Pub. L. 97–248, title III, §§311(b), 331(a)–(d), 332(a), Sept. 3, 1982, 96 Stat. 601, 620, 621; Pub. L. 97–424, title V, §515(b)(12), Jan. 6, 1983, 96 Stat. 2182; Pub. L. 98–369, div. A, title VII, §714(i), title IX, §911(d)(2)(G), July 18, 1984, 98 Stat. 962, 1007; Pub. L. 98–620, title IV, §402(28)(D), Nov. 8, 1984, 98 Stat. 3359; Pub. L. 99–514, title VI, §656(a), title XV, §1561(a), (b), title XVII, §1703(e)(2)(G), Oct. 22, 1986, 100 Stat. 2299, 2761, 2778; Pub. L. 100–647, title I, §§1015(<i>l</i>)(1), (2), 1017(c)(9), (12), Nov. 10, 1988, 102 Stat. 3571, 3572, 3576, 3577; Pub. L. 104–168, title X, §1001(a), July 30, 1996, 110 Stat. 1467; Pub. L. 105–206, title III, §3415(a)–(c), July 22, 1998, 112 Stat. 755.)
+
+#### Prior Provisions
+
+A prior section 7609 was renumbered section 7613 of this title.
+
+#### Amendments
+
+<b>1998</b>—Subsec. (a)(1). Pub. L. 105–206, §3415(a), reenacted heading without change and in text substituted “If any summons to which this section applies requires the giving of testimony on or relating to, the production of any portion of records made or kept on or relating to, or the production of any computer software source code (as defined in 7612(d)(2)) with respect to, any person (other than the person summoned) who is identified in the summons, then” for “If—
+
+&emsp;“(A) any summons described in subsection (c) is served on any person who is a third-party recordkeeper, and
+
+&emsp;“(B) the summons requires the production of any portion of records made or kept of the business transactions or affairs of any person (other than the person summoned) who is identified in the description of the records contained in the summons,
+
+> then”.
+
+Subsec. (a)(3). Pub. L. 105–206, §3415(c)(1), redesignated par. (5) as (3), substituted “subsection (c)(2)(D)” for “subsection (c)(2)(B)”, and struck out heading and text of former par. (3). Text read as follows: “For purposes of this subsection, the term ‘third-party recordkeeper’ means—
+
+&emsp;“(A) any mutual savings bank, cooperative bank, domestic building and loan association, or other savings institution chartered and supervised as a savings and loan or similar association under Federal or State law, any bank (as defined in section 581), or any credit union (within the meaning of section 501(c)(14)(A));
+
+&emsp;“(B) any consumer reporting agency (as defined under section 603(d) of the Fair Credit Reporting Act (15 U.S.C. 1681a(f)));
+
+&emsp;“(C) any person extending credit through the use of credit cards or similar devices;
+
+&emsp;“(D) any broker (as defined in section 3(a)(4) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(4)));
+
+&emsp;“(E) any attorney;
+
+&emsp;“(F) any accountant;
+
+&emsp;“(G) any barter exchange (as defined in section 6045(c)(3));
+
+&emsp;“(H) any regulated investment company (as defined in section 851) and any agent of such regulated investment company when acting as an agent thereof; and
+
+&emsp;“(I) any enrolled agent.”
+
+Subsec. (a)(4). Pub. L. 105–206, §3415(c)(1), struck out heading and text of par. (4). Text read as follows: “Paragraph (1) shall not apply to any summons—
+
+&emsp;“(A) served on the person with respect to whose liability the summons is issued, or any officer or employee of such person,
+
+&emsp;“(B) to determine whether or not records of the business transactions or affairs of an identified person have been made or kept, or
+
+&emsp;“(C) described in subsection (f).”
+
+Subsec. (a)(5). Pub. L. 105–206, §3415(c)(1), redesignated par. (5) as (3).
+
+Subsec. (c). Pub. L. 105–206, §3415(c)(2), reenacted heading without change and amended text generally, substituting present provisions for provisions which had: in par. (1) declared a general rule of including within subsection summons issued under sections 6420(e)(2), 6421(g)(2), 6427(j)(2), or 7602(a)(2); in par. (2) set forth exceptions where summons was solely to determine identity of person having a numbered account, or was in aid of collection of liability of person against whom assessment or judgment had been made, or his transferee or fiduciary; and in par. (3) defined “records” and declared that summons requiring testimony about records would be treated as summons requiring production of such records.
+
+Subsec. (e)(2). Pub. L. 105–206, §3415(c)(3), substituted “summoned party's response to the summons” for “third-party recordkeeper's response to the summons described in subsection (c), or the summoned party's response to a summons described in subsection (f)”.
+
+Subsec. (f). Pub. L. 105–206, §3415(c)(4)(A), substituted “subsection (c)(1)” for “subsection (c)” in introductory provisions.
+
+Subsec. (f)(3). Pub. L. 105–206, §3415(c)(4)(B), inserted “or testimony” after “records”.
+
+Subsec. (g). Pub. L. 105–206, §3415(c)(5), substituted “A summons is described in this subsection if” for “In the case of any summons described in subsection (c), the provisions of subsections (a)(1) and (b) shall not apply if”.
+
+Subsec. (i). Pub. L. 105–206, §3415(c)(6)(A), struck out “third-party recordkeeper and” after “Duty of” in heading.
+
+Subsec. (i)(1). Pub. L. 105–206, §3415(c)(6)(B), substituted “to which this section applies for the production of records, the summoned party” for “described in subsection (c), the third-party recordkeeper”.
+
+Subsec. (i)(2). Pub. L. 105–206, §3415(c)(6)(C), substituted “summoned party” for “recordkeeper” in heading and “the summoned party” for “the third-party recordkeeper” in text.
+
+Subsec. (i)(3). Pub. L. 105–206, §3415(c)(6)(D), substituted “summoned party” for “recordkeeper” in heading and amended text of par. (3) generally. Prior to amendment, text read as follows: “Any third-party recordkeeper, or agent or employee thereof, making a disclosure of records pursuant to this section in good-faith reliance on the certificate of the Secrtetary or an order of a court requiring production of records shall not be liable to any customer or other person for such disclosure.”
+
+Subsec. (j). Pub. L. 105–206, §3415(b), added subsec. (j).
+
+<b>1996</b>—Subsec. (a)(3)(I). Pub. L. 104–168 added subpar. (I).
+
+<b>1988</b>—Subsec. (c)(1). Pub. L. 100–647, §1017(c)(12), made technical correction to language of Pub. L. 99–514, §1703(e)(2)(G), see 1986 Amendment note below.
+
+Pub. L. 100–647, §1017(c)(9), substituted “6421(g)(2)” for “6421(f)(2)”.
+
+Subsec. (e)(2). Pub. L. 100–647, §1015(<i>l</i>)(1), inserted “or the summoned party's response to a summons described in subsection (f),” after “the summons described in subsection (c),” and substituted “the summons is issued” for “the summons is issued other”.
+
+Subsec. (i). Pub. L. 100–647, §1015(<i>l</i>)(2)(B), inserted “and summoned party” after “recordkeeper” in heading.
+
+Subsec. (i)(4). Pub. L. 100–647, §1015(<i>l</i>)(2)(A), substituted “the summoned party” for “the third-party recordkeeper”.
+
+<b>1986</b>—Subsec. (a)(3)(H). Pub. L. 99–514, §656(a), added subpar. (H).
+
+Subsec. (c)(1). Pub. L. 99–514, §1703(e)(2)(G), as amended by Pub. L. 100–647, §1017(c)(12), substituted “6427(j)(2)” for “6427(i)(2)”.
+
+Subsec. (e). Pub. L. 99–514, §1561(a), amended subsec. (e) generally, designating existing provisions as par. (1), inserting heading, and adding par. (2).
+
+Subsec. (i)(4). Pub. L. 99–514, §1561(b), added par. (4).
+
+<b>1984</b>—Subsec. (c)(1). Pub. L. 98–369, §714(i), substituted “7602(a)” for “7602”.
+
+Pub. L. 98–369, §911(d)(2)(G), substituted “6427(i)(2)” for “6427(h)(2)”.
+
+Subsec. (h)(3). Pub. L. 98–620 struck out par. (3) which had provided that except as to cases the court considered to be of greater importance, proceedings brought for the enforcement of any summons, or proceedings under this section, and appeals, would take precedence on the docket over all other cases and would be assigned for hearing and decided at the earliest practicable date.
+
+<b>1983</b>—Subsec. (c)(1). Pub. L. 97–424 struck out “6424(d)(2),” after “6421(f)(2),”.
+
+<b>1982</b>—Subsec. (a)(1). Pub. L. 97–248, §331(d)(1), substituted “the 23rd day” for “the 14th day”, and substituted “an explanation of the right under subsection (b)(2) to bring a proceeding to quash the summons” for “directions for staying compliance with the summons under subsection (b)(2)” at the end.
+
+Subsec. (a)(3)(G). Pub. L. 97–248, §311(b), added subpar. (G).
+
+Subsec. (b). Pub. L. 97–248, §331(a), (d)(2), substituted “right to proceeding to quash” for “right to stay compliance” in heading, and in par. (2) substituted “Proceeding to quash” for “Right to stay compliance” as par. (2) heading, designated former undesignated matter as subpar. (A), in (A) as so designated substituted provisions giving persons entitled to notice 20 days to begin a proceeding to quash, for provisions giving persons entitled to notice the right to stay compliance if they complied with the provisions of former subpars. (A) and (B) within 14 days, and inserted provision that the Secretary may seek to compel compliance with the summons, struck out former subpar. (A) which provided that notice to the person summoned not to comply with the summons be given in writing, in subpar. (B) substituted provisions that copies of the petition in the proceeding to quash the summons be mailed within the 20-day period, for provisions that copies of the notice not to comply with the summons be mailed, and added subpar. (C).
+
+Subsec. (d). Pub. L. 97–248, §331(b), substituted in par. (1) provision that, no examination of records be made before the close of the 23rd day after the notice of summons, for provision that the examination may not be made before the end of the former 14-day period allowed for notice to be given to the person summoned not to comply, and in par. (2) substituted “where a proceeding under subsection (b)(2)(A) was begun within the 20-day period referred to in such subsection and the requirements of subsection (b)(2)(B) have been met,” for “when the requirements of subsection (b)(2) have been met,” and “of the court having jurisdiction of such proceeding or with the consent of the person beginning the proceeding to quash” for “issued by a court of competent jurisdiction authorizing examination of such records or with the consent of the person staying compliance”.
+
+Subsec. (h). Pub. L. 97–248, §331(c), inserted “; etc.” after “court” in heading, in par. (1) added heading and substituted “any proceeding” for “proceedings” after “determine”, substituted “subsection (b)(2), (f), or (g)” for “subsections (f) or (g)”, designated former second sentence of par. (1) as par. (2) and added heading, redesignated former par. (2) as (3) and in par. (3) as so redesignated, added heading and substituted “all other cases” for “all cases”.
+
+Subsec. (i). Pub. L. 97–248, §332(a), added subsec. (i).
+
+<b>1980</b>—Subsec. (c)(1). Pub. L. 96–223 substituted “6427(h)(2)” for “6427(g)(2)”.
+
+<b>1978</b>—Subsec. (c)(1). Pub. L. 95–600 which purported to substitute “6427(f)(2)” for “6427(e)(2)” was not executed in view of the amendment made by Pub. L. 95–599. See below.
+
+Pub. L. 95–599 substituted “6427(g)(2)” for “6427(e)(2)”.
+
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–206, title III, §3415(d), July 22, 1998, 112 Stat. 756, provided that: “The amendments made by this section \[amending this section\] shall apply to summonses served after the date of the enactment of this Act \[July 22, 1998\].”
+
+#### Effective Date of 1996 Amendment
+
+Section 1001(b) of Pub. L. 104–168 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to summonses issued after the date of the enactment of this Act \[July 30, 1996\].”
+
+#### Effective Date of 1988 Amendment
+
+Section 1015(<i>l</i>)(3) of Pub. L. 100–647 provided that: “The amendments made by this subsection \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 10, 1988\].”
+
+Amendment by section 1017(c)(9), (12) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+
+#### Effective Date of 1986 Amendment
+
+Section 656(b) of Pub. L. 99–514 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to summonses served after the date of the enactment of this Act \[Oct. 22, 1986\].”
+
+Section 1561(c) of Pub. L. 99–514 provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 22, 1986\].”
+
+Amendment by section 1703(e)(2)(G) of Pub. L. 99–514 applicable to gasoline removed (as defined in section 4082 of this title, as amended by section 1703 of Pub. L. 99–514) after Dec. 31, 1987, see section 1703(h) of Pub. L. 99–514, set out as a note under section 4081 of this title.
+
+#### Effective Date of 1984 Amendments
+
+Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, see section 403 of Pub. L. 98–620, set out as an Effective Date note under section 1657 of Title 28, Judiciary and Judicial Procedure.
+
+Amendment by section 714(i) of Pub. L. 98–369 effective as if included in the provision of the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, to which such amendment relates, see section 715 of Pub. L. 98–369, set out as a note under section 31 of this title.
+
+Amendment by section 911(d)(2)(G) of Pub. L. 98–369 effective Aug. 1, 1984, see section 911(e) of Pub. L. 98–369, set out as a note under section 6427 of this title.
+
+#### Effective Date of 1983 Amendment
+
+Amendment by Pub. L. 97–424 applicable with respect to articles sold after Jan. 6, 1983, see section 515(c) of Pub. L. 97–424, set out as a note under section 34 of this title.
+
+#### Effective Date of 1982 Amendment
+
+Section 311(c)(2) of Pub. L. 97–248 provided that: “The amendments made by subsection (b) \[amending this section\] shall apply to summonses served after December 31, 1982.”
+
+Section 331(e) of Pub. L. 97–248 provided that: “The amendments made by this section \[amending this section\] shall apply to summonses served after December 31, 1982.”
+
+Section 332(b) of Pub. L. 97–248 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to summonses served after December 31, 1982.”
+
+#### Effective Date of 1980 Amendment
+
+Amendment by Pub. L. 96–223 effective Jan. 1, 1979, see section 232(h)(2) of Pub. L. 96–223, set out as a note under section 6427 of this title.
+
+#### Effective Date of 1978 Amendments
+
+Amendment by Pub. L. 95–600 effective Oct. 4, 1976, see section 703(r) of Pub. L. 95–600, set out a note under section 46 of this title.
+
+Amendment by Pub. L. 95–599 effective Jan. 1, 1979, see section 505(d) of Pub. L. 95–599, set out as a note under section 6427 of this title.
+
+#### Effective Date
+
+Section 1205(c) of Pub. L. 94–455, as amended by Pub. L. 94–528, §2(b), Oct. 17, 1976, 90 Stat. 2483, provided that: “The amendments made by this section \[enacting this section and section 7610 of this title\] shall apply with respect to any summons issued after February 28, 1977.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 7611 of this title.
+

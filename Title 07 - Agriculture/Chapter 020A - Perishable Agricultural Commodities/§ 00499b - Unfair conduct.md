@@ -16,7 +16,7 @@ It shall be unlawful in or in connection with any transaction in interstate or f
 
 &emsp;(B) any provision of this paragraph relating to a misrepresentation by mark, stencil, or label shall be permitted by the Secretary to admit the violation or violations if such violation or violations are not repeated or flagrant;
 
-> and pay, in the case of a violation under either clause (A) or (B) of this paragraph, a monetary penalty not to exceed $2,000 in lieu of a formal proceeding for the suspension or revocation of license, any payment so made to be deposited into the Treasury of the United States as miscellaneous receipts. A person other than the first licensee handling misbranded perishable agricultural commodities shall not be held liable for a violation of this paragraph by reason of the conduct of another if the person did not have knowledge of the violation or lacked the ability to correct the violation.
+> and pay, in the case of a violation under either clause (A) or (B) of this paragraph, a monetary penalty not to exceed $2,000 in lieu of a formal proceeding for the suspension or revocation of license, any payment so made to be depositedinto the Treasury of the United States as miscellaneous receipts. A person other than the first licensee handling misbranded perishable agricultural commodities shall not be held liable for a violation of this paragraph by reason of the conduct of another if the person did not have knowledge of the violation or lacked the ability to correct the violation.
 
 (6) For any commission merchant, dealer, or broker, for a fraudulent purpose, to remove, alter, or tamper with any card, stencil, stamp, tag, or other notice placed upon any container or railroad car containing any perishable agricultural commodity, if such card, stencil, stamp, tag, or other notice contains a certificate or statement under authority of any Federal or State inspector or in compliance with any Federal or State law or regulation as to the grade or quality of the commodity contained in such container or railroad car or the State or country in which such commodity was produced.
 
@@ -65,10 +65,6 @@ Par. (7). Act Aug. 20, 1937, §4, added par. (7).
 1934—Par. (2). Act Apr. 13, 1934, §2, inserted “or consigned” after “sold”.
 
 Par. (4). Act Apr. 13, 1934, §3, substituted “in connection with any transaction involving or concerning” for “concerning the condition, quality, quantity or disposition of” and inserted “or consigned” after “contracted to be bought or sold”.
-
-#### Cross References
-
-Destruction or dumping of farm products received in interstate commerce by commission merchants, see section 491 of this title.
 
 #### Section Referred to in Other Sections
 

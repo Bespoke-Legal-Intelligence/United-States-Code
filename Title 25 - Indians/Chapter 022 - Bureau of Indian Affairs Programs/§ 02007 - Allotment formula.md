@@ -68,7 +68,7 @@ Notwithstanding any other provisions of law, Federal funds appropriated for the 
 
 > in considering the number of eligible Indian students served by the school.
 
-(4)(A) The Secretary shall adjust the formula established under subsection (a) of this section to use a weighted unit of 0.25 for each eligible Indian student who is enrolled in a year-long credit course in an Indian or Native language as part of the regular curriculum of a school, in considering the number of eligible Indian students served by such school.
+(4)(A) The Secretary shall adjust the formula established under subsection (a) of this section to use a weighted unit of 0.25 for each eligible Indian student who is enrolled in a year-long credit course in an Indian or Native language aspart of the regular curriculum of a school, in considering the number of eligible Indian students served by such school.
 
 (B) The adjustment required under subparagraph (A) shall be used for such school after—
 
@@ -78,7 +78,7 @@ Notwithstanding any other provisions of law, Federal funds appropriated for the 
 
 #### (d) Reservation of amount for emergencies
 
-The Secretary shall reserve from the funds available for distribution for each fiscal yearunder this section an amount which, in the aggregate, shall equal 1 percent of the funds available for such purpose for that fiscal year. Such funds shall be used, at the discretion of the Director of the Office, to meet emergencies and unforeseen contingencies affecting the education programs funded under this section. Funds reserved under this subsection may only be expended for education services or programs at a schoolsite (as defined in section 2503(c)(2) of this title). Funds reserved under this subsection shall remain available without fiscal year limitation until expended. However, the aggregate amount available from all fiscal years may not exceed 1 percent of the current year funds. Whenever the Secretary makes funds available under this subsection, the Secretary shall report such action to the appropriate committees of Congress within the annual budget submission.
+The Secretary shall reserve from the funds available for distribution for each fiscal year under this section an amount which, in the aggregate, shall equal 1 percent of the funds available for such purpose for that fiscal year. Such funds shall be used, at the discretion of the Director of the Office, to meet emergencies and unforeseen contingencies affecting the education programs funded under this section. Funds reserved under this subsection may only be expended for education services or programs at a schoolsite (as defined in section 2503(c)(2) of this title). Funds reserved under this subsection shall remain available without fiscal year limitation until expended. However, the aggregate amount available from all fiscal years may not exceed 1 percent of the current year funds. Whenever the Secretary makes funds available under this subsection, the Secretary shall report such action to the appropriate committees of Congress within the annual budget submission.
 
 #### (e) Supplemental appropriations
 

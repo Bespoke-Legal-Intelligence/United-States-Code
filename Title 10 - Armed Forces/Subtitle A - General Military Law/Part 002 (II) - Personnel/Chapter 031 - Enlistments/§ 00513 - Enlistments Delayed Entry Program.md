@@ -32,7 +32,7 @@ A prior section 513, act Aug. 10, 1956, ch. 1041, 70A Stat. 18, related to promo
 
 Pub. L. 106–65, div. A, title V, §572(b), Oct. 5, 1999, 113 Stat. 623, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 1999, and shall apply with respect to enlistments entered into, on or after that date.”
 
-74Army College First Pilot Program
+#### Army College First Pilot Program
 
 Pub. L. 106–65, div. A, title V, §573, Oct. 5, 1999, 113 Stat. 623, provided that:
 
@@ -46,7 +46,7 @@ Delayed Entry With Allowance for Higher Education.—Under the pilot program, th
 
 &emsp;“(1) to accept the enlistment of a person as a Reserve for service in the Selected Reserve or Individual Ready Reserve of the Army Reserve or, notwithstanding the scope of the authority under subsection (a) of that section, in the Army National Guard of the United States;
 
-&emsp;“(2) to authorize, notwithstanding the period limitation in subsection (b) of that section, a delay of the enlistment of any such person in a regular component under that subsection for the period during which the person is enrolled in, and pursuing a program of education at, an institution of higher education, or a program of vocational or technical training, on a full-time basis that is to be completed within two years after the date of such enlistment as a Reserve under paragraph (1); and
+&emsp;“(2) to authorize, notwithstanding the period limitation in subsection (b) of that section, a delay of theenlistment of any such person in a regular component under that subsection for the period during which the person is enrolled in, and pursuing a program of education at, an institution of higher education, or a program of vocational or technical training, on a full-time basis that is to be completed within two years after the date of such enlistment as a Reserve under paragraph (1); and
 
 &emsp;“(3) in the case of a person enlisted in a reserve component for service in the Individual Ready Reserve, pay an allowance to the person for each month of that period.
 

@@ -30,11 +30,13 @@ Approval for Certain Air Transportation.—Notwithstanding subsection (a)(1)(B) 
 
 &emsp;(4) the State or local government submitting the proposal or a person is willing and able to pay 25 percent of the cost of providing the compensated transportation.
 
+> Paragraph (4) does not apply to any community approved for service under this section during the period beginning October 1, 1991, and ending December 31, 1997.
+
 (c)
 
 Level of Air Transportation.—(1) If the Secretary designates a place under subsection (a)(1) of this section as eligible for compensation under this section, the Secretary shall decide, not later than 6 months after the date of the designation, on the level of air transportation to be provided under this section. Before making a decision, the Secretary shall consider the views of any interested community, the appropriate State authority of the State in which the place is located, and the State or local government or person agreeing to pay compensation for the transportation under subsection (b)(4) of this section.
 
-(2) After making the decision under paragraph (1) of this subsection, the Secretary shall provide notice that any air carrier that is willing toprovide the level of air transportation established under paragraph (1) for a place may submit an application to provide the transportation. In selecting an applicant, the Secretary shall consider, among other factors—
+(2) After making the decision under paragraph (1) of this subsection, the Secretary shall provide notice that any air carrier that is willing to provide the level of air transportation established under paragraph (1) for a place may submit an application to provide the transportation. In selecting an applicant, the Secretary shall consider, among other factors—
 
 &emsp;(A) the factors listed in section 41733(c)(1) of this title; and
 
@@ -54,7 +56,7 @@ Compensation Payments.—(1) The Secretary shall pay compensation under this sec
 
 (e)
 
-Review.—The Secretary shall review periodically the level of air transportation provided under this section. Based on the review and consultation with any interested community, the appropriate State authority of the State in which the community is located, and the State or local government or person paying compensation under this section, the Secretary may make appropriate adjustments in the level of transportation.
+Review.—The Secretary shall review periodically the level of air transportation providedunder this section. Based on the review and consultation with any interested community, the appropriate State authority of the State in which the community is located, and the State or local government or person paying compensation under this section, the Secretary may make appropriate adjustments in the level of transportation.
 
 (f)
 
@@ -64,7 +66,7 @@ Withdrawal of Eligibility Designations.—After providing notice and an opportun
 
 Ending, Suspending, and Reducing Air Transportation.—An air carrier providing air transportation for compensation under this section may end, suspend, or reduce that transportation below the level of transportation established by the Secretary under this section only after giving the Secretary, the affected community, and the State or local government or person paying compensation under this section at least 30 days’ notice before ending, suspending, or reducing the transportation.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1149.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1149; Pub. L. 106–181, title II, §202, Apr. 5, 2000, 114 Stat. 91.)
 
 Historical and Revision Notes
 
@@ -124,7 +126,15 @@ In subsection (f), the word “prescribe” is substituted for “establish” f
 
 Section 401 of the Federal Aviation Act of 1958, referred to in subsec. (b)(1), is section 401 of Pub. L. 85–726, which was classified to section 1371 of former Title 49, Transportation, and was repealed by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation. For disposition of section 1371 of former Title 49, see Table at the beginning of Title 49.
 
+#### Amendments
+
+2000—Subsec. (b). Pub. L. 106–181 inserted concluding provisions.
+
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 41110, 41738 of this title.
+This section is referred to in sections 41110, 41731, 41738 of this title.
 

@@ -21,7 +21,7 @@ Part I—General Provisions
 - [&sect; 02364 - Special authorities](%C2%A7%2002364%20-%20Special%20authorities.md)
 - [&sect; 02365 - Contract authority](%C2%A7%2002365%20-%20Contract%20authority.md)
 - [&sect; 02366 - Availability of funds](%C2%A7%2002366%20-%20Availability%20of%20funds.md)
-- [&sect; 02367 - Termination of assistance; availability of funds for winding up programs; participant training](%C2%A7%2002367%20-%20Termination%20of%20assistance%3B%20availability%20of%20funds%20for%20winding%20up%20programs%3B%20participant%20training.md)
+- [&sect; 02367 - Termination expenses](%C2%A7%2002367%20-%20Termination%20expenses.md)
 - [&sect; 02368, 2369 - Repealed. Pub. L. 95&#8211;424, title VI, &sect;604, Oct. 6, 1978, 92 Stat. 961](%C2%A7%2002368%2C%202369%20-%20Repealed.%20Pub.%20L.%2095%E2%80%93424%2C%20title%20VI%2C%20%C2%A7604%2C%20Oct.%206%2C%201978%2C%2092%20Stat.%20961.md)
 - [&sect; 02370 - Prohibitions against furnishing assistance](%C2%A7%2002370%20-%20Prohibitions%20against%20furnishing%20assistance.md)
 - [&sect; 02370a - Expropriation of United States property](%C2%A7%2002370a%20-%20Expropriation%20of%20United%20States%20property.md)

@@ -26,9 +26,11 @@ The State plan shall—
 
 &emsp;(4) describe the methodology that such agency will use to evaluate the success of the activities established under paragraph (2) in achieving the goals and meeting the priorities described in paragraph (1);
 
-&emsp;(5) describe the procedures that such agency will use to involve libraries and library users throughout the State in policy decisions regarding implementation of this subchapter; and
+&emsp;(5) describe the procedures that such agency will use to involve libraries and library users throughout the State in policy decisions regarding implementation of this subchapter; and <sup>1</sup>
 
-&emsp;(6) provide assurances satisfactory to the Director that such agency will make such reports, in such form and containing such information, as the Director may reasonably require to carry out this subchapter and to determine the extent to which funds provided under this subchapter have been effective in carrying out the purposes of this subchapter.
+&emsp;(6) provide assurances that the State will comply with subsection (f) of this section; and
+
+&emsp;(7) provide assurances satisfactory to the Director that such agency will make such reports, in such form and containing such information, as the Director may reasonably require to carry out this subchapter and to determine the extent to which funds provided under this subchapter have been effective in carrying out the purposes of this subchapter.
 
 #### (c) Evaluation and report
 
@@ -60,7 +62,141 @@ Each library receiving assistance under this subchapter shall submit to the Stat
 
 &emsp;&emsp;(D) provide the State library administrative agency the opportunity for a hearing.
 
-(Pub. L. 94–462, title II, §224, as added Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–300.)
+#### (f) Internet safety
+
+#### (1) In general
+
+&emsp;No funds made available under this chapter for a library described in section 9122(2)(A) or (B) of this title that does not receive services at discount rates under section 254(h)(6) of title 47, may be used to purchase computers used to access the Internet, or to pay for direct costs associated with accessing the Internet, for such library unless—
+
+&emsp;&emsp;(A) such library—
+
+&emsp;&emsp;&emsp;(i) has in place a policy of Internet safety for minors that includes the operation of a technology protection measure with respect to any of its computers with Internet access that protects against access through such computers to visual depictions that are—
+
+&emsp;&emsp;&emsp;&emsp;(I) obscene;
+
+&emsp;&emsp;&emsp;&emsp;(II) child pornography; or
+
+&emsp;&emsp;&emsp;&emsp;(III) harmful to minors; and
+
+&emsp;&emsp;&emsp;(ii) is enforcing the operation of such technology protection measure during any use of such computers by minors; and
+
+&emsp;&emsp;(B) such library—
+
+&emsp;&emsp;&emsp;(i) has in place a policy of Internet safety that includes the operation of a technology protection measure with respect to any of its computers with Internet access that protects against access through such computers to visual depictions that are—
+
+&emsp;&emsp;&emsp;&emsp;(I) obscene; or
+
+&emsp;&emsp;&emsp;&emsp;(II) child pornography; and
+
+&emsp;&emsp;&emsp;(ii) is enforcing the operation of such technology protection measure during any use of such computers.
+
+#### (2) Access to other materials
+
+&emsp;Nothing in this subsection shall be construed to prohibit a library from limiting Internet access to or otherwise protecting against materials other than those referred to in subclauses (I), (II), and (III) of paragraph (1)(A)(i).
+
+#### (3) Disabling during certain use
+
+&emsp;An administrator, supervisor, or other authority may disable a technology protection measure under paragraph (1) to enable access for bona fide research or other lawful purposes.
+
+#### (4) Timing and applicability of implementation
+
+#### (A) In general
+
+&emsp;&emsp;A library covered by paragraph (1) shall certify the compliance of such library with the requirements of paragraph (1) as part of the application process for the next program funding year under this chapter following the effective date of this subsection, and for each subsequent program funding year thereafter.
+
+#### (B) Process
+
+#### (i) Libraries with Internet safety policies and technology protection measures in place
+
+&emsp;&emsp;&emsp;A library covered by paragraph (1) that has in place an Internet safety policy meeting the requirements of paragraph (1) shall certify its compliance with paragraph (1) during each annual program application cycle under this chapter.
+
+#### (ii) Libraries without Internet safety policies and technology protection measures in place
+
+&emsp;&emsp;&emsp;A library covered by paragraph (1) that does not have in place an Internet safety policy meeting the requirements of paragraph (1)—
+
+&emsp;&emsp;&emsp;&emsp;(I) for the first program year after the effective date of this subsection in which the library applies for funds under this chapter, shall certify that it is undertaking such actions, including any necessary procurement procedures, to put in place an Internet safety policy that meets such requirements; and
+
+&emsp;&emsp;&emsp;&emsp;(II) for the second program year after the effective date of this subsection in which the library applies for funds under this chapter, shall certify that such library is in compliance with such requirements.
+
+&emsp;&emsp;&nbsp;Any library covered by paragraph (1) that is unable to certify compliance with such requirements in such second program year shall be ineligible for all funding under this chapter for such second program year and all subsequent program years until such time as such library comes into compliance with such requirements.
+
+#### (iii) Waivers
+
+&emsp;&emsp;&emsp;Any library subject to a certification under clause (ii)(II) that cannot make thecertification otherwise required by that clause may seek a waiver of that clause if State or local procurement rules or regulations or competitive bidding requirements prevent the making of the certification otherwise required by that clause. The library shall notify the Director of the Institute of Museum and Library Services of the applicability of that clause to the library. Such notice shall certify that the library will comply with the requirements in paragraph (1) before the start of the third program year after the effective date of this subsection for which the library is applying for funds under this chapter.
+
+#### (5) Noncompliance
+
+#### (A) Use of General Education Provisions Act remedies
+
+&emsp;&emsp;Whenever the Director of the Institute of Museum and Library Services has reason to believe that any recipient of funds this <sup>2</sup> chapter is failing to comply substantially with the requirements of this subsection, the Director may—
+
+&emsp;&emsp;&emsp;(i) withhold further payments to the recipient under this chapter,
+
+&emsp;&emsp;&emsp;(ii) issue a complaint to compel compliance of the recipient through a cease and desist order, or
+
+&emsp;&emsp;&emsp;(iii) enter into a compliance agreement with a recipient to bring it into compliance with such requirements.
+
+#### (B) Recovery of funds prohibited
+
+&emsp;&emsp;The actions authorized by subparagraph (A) are the exclusive remedies available with respect to the failure of a library to comply substantially with a provision of this subsection, and the Director shall not seek a recovery of funds from the recipient for such failure.
+
+#### (C) Recommencement of payments
+
+&emsp;&emsp;Whenever the Director determines (whether by certification or other appropriate evidence) that a recipient of funds who is subject to the withholding of payments under subparagraph (A)(i) has cured the failure providing the basis for the withholding of payments, the Director shall cease the withholding of payments to the recipient under that subparagraph.
+
+#### (6) Separability
+
+&emsp;If any provision of this subsection is held invalid, the remainder of this subsection shall not be affected thereby.
+
+#### (7) Definitions
+
+&emsp;In this section:
+
+#### (A) Child pornography
+
+&emsp;&emsp;The term “child pornography” has the meaning given such term in section 2256 of title 18.
+
+#### (B) Harmful to minors
+
+&emsp;&emsp;The term “harmful to minors” means any picture, image, graphic image file, or other visual depiction that—
+
+&emsp;&emsp;&emsp;(i) taken as a whole and with respect to minors, appeals to a prurient interest in nudity, sex, or excretion;
+
+&emsp;&emsp;&emsp;(ii) depicts, describes, or represents, in a patently offensive way with respect to what is suitable for minors, an actual or simulated sexual act or sexual contact, actual or simulated normal or perverted sexual acts, or a lewd exhibition of the genitals; and
+
+&emsp;&emsp;&emsp;(iii) taken as a whole, lacks serious literary, artistic, political, or scientific value as to minors.
+
+#### (C) Minor
+
+&emsp;&emsp;The term “minor” means an individual who has not attained the age of 17.
+
+#### (D) Obscene
+
+&emsp;&emsp;The term “obscene” has the meaning given such term in section 1460 of title 18.
+
+#### (E) Sexual act; sexual contact
+
+&emsp;&emsp;The terms “sexual act” and “sexual contact” have the meanings given such terms in section 2246 of title 18.
+
+(Pub. L. 94–462, title II, §224, as added Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–300; amended Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1712(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–340.)
+
+#### References in Text
+
+This chapter, referred to in subsec. (f)(1), (4), (5)(A), was in the original “this Act” and was translated as reading “this title”, meaning title II of Pub. L. 94–462, known as the Museum and Library Services Act, to reflect the probable intent of Congress.
+
+For the effective date of this subsection, referred to in subsec. (f)(4), as 120 days after Dec. 21, 2000, see §1(a)(4) \[div. B, title XVII, §1712(b)\] of Pub. L. 106–554, set out as an Effective Date of 2000 Amendment note below.
+
+The General Education Provisions Act, referred to in subsec. (f)(5)(A), is title IV of Pub. L. 90–247, Jan. 2, 1968, 81 Stat. 814, as amended, which is classified generally to chapter 31 (§1221 et seq.) of this title. For complete classification of this Act to the Code, see section 1221 of this title and Tables.
+
+#### Amendments
+
+2000—Subsec. (b)(6), (7). Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1712(a)(1)\], added par. (6) and redesignated former par. (6) as (7).
+
+Subsec. (f). Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1712(a)(2)\], added subsec. (f).
+
+#### Effective Date of 2000 Amendment
+
+Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1712(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–343, provided that: “The amendment made by this section \[amending this section\] shall take effect 120 days after the date of the enactment of this Act \[Dec. 21, 2000\].”
 
 #### Section Referred to in Other Sections
 

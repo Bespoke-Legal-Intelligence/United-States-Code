@@ -32,18 +32,6 @@ Pub. L. 103–322, §130009(a)(2), substituted “under this title, imprisoned n
 
 Amendment by Pub. L. 104–208 applicable with respect to offenses occurring on or after Sept. 30, 1996, see section 211(c) of Pub. L. 104–208, set out as a note under section 1028 of this title.
 
-#### Canal Zone
-
-Applicability of section to Canal Zone, see section 14 of this title.
-
-#### Cross References
-
-Jurisdiction of offenses, see section 3241 of this title.
-
-Letters, writings, etc., in violation of this section as nonmailable, see section 1717 of this title.
-
-Limitations, period of, see section 3291 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 14, 982, 1717, 1961, 2516, 3291 of this title; title 8 section 1101.

@@ -8,7 +8,7 @@ As used in this subchapter:
 
 &emsp;&emsp;&emsp;(i) an established producer or husbander of livestock or a dairy producer who is a citizen of, or legal resident alien in, the United States; or
 
-&emsp;&emsp;&emsp;(ii) a farm cooperative, private domestic corporation, partnership, or joint operation in which a majority interest is held by members, stockholders, or partners who are citizens of, or legal resident aliens in, the United States, if such cooperative, corporation, partnership, or joint operation is engaged in livestock production or husbandry, or dairy production; or
+&emsp;&emsp;&emsp;(ii) a farm cooperative, private domestic corporation, partnership, or joint operation in which a majority interest is held by members, stockholders, or partners who are citizens of, or legal resident aliens in, the United States, if such cooperative, corporation, partnership, or joint operation isengaged in livestock production or husbandry, or dairy production; or
 
 &emsp;&emsp;(B) Any <sup>1</sup> of the following entities that is actively engaged in livestock production or husbandry, or dairy production—
 

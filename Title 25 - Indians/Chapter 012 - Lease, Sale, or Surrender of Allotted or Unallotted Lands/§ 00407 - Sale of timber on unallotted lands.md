@@ -14,10 +14,6 @@ Under regulations prescribed by the Secretary of the Interior, the timber on una
 
 1964—Pub. L. 88–301 substituted “timber” for “mature living and dead and down timber”, provided for sale of timber in accordance with principles of sustained yield or in order to convert the land to a more desirable use, provided for deductions for administrative expenses from proceeds of sales, made the Indians who were tribal members the beneficiaries instead of the Indians of the reservation, and struck out proviso which made section inapplicable to Minnesota and Wisconsin.
 
-#### Cross References
-
-Klamath Tribe timber sales, see section 564x of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 353, 564h, 697, 747, 1724 of this title; title 43 section 1617.

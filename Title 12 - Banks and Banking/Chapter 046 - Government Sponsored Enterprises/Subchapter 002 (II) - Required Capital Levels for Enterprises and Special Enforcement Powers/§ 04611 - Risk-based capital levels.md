@@ -164,7 +164,7 @@ For purposes of this section:
 
 #### (1) Issuance
 
-&emsp;The Director shall issue final regulations establishing the risk-based capital test underthis section not later than the expiration of the 18-month period beginning on the date of the appointment of the Director. Such regulations shall be issued after notice and opportunity for public comment pursuant to the provisions of section 553 of title 5 and shall take effect upon issuance.
+&emsp;The Director shall issue final regulations establishing the risk-based capital test under this section not later than the expiration of the 18-month period beginning on the date of the appointment of the Director. Such regulations shall be issued after notice and opportunity for public comment pursuant to the provisions of section 553 of title 5 and shall take effect upon issuance.
 
 #### (2) Contents
 
@@ -186,7 +186,7 @@ The Director shall provide copies of the statistical model or models used to imp
 
 #### Change of Name
 
-Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Section Referred to in Other Sections
 

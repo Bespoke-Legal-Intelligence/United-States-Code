@@ -70,6 +70,10 @@ Section 507 of the International Maritime Satellite Telecommunications Act, refe
 
 1999—Subsec. (d)(1). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security” in introductory provisions.
 
+#### Authorization of Interagency Support for Global Positioning System
+
+Pub. L. 106–405, §8, Nov. 1, 2000, 114 Stat. 1753, provided that: “The use of interagency funding and other forms of support is hereby authorized by Congress for the functions and activities of the Interagency Global Positioning System Executive Board, including an Executive Secretariat to be housed at the Department of Commerce.”
+
 #### Enhanced Global Positioning System Program
 
 Pub. L. 105–261, div. A, title II, §218, Oct. 17, 1998, 112 Stat. 1951, provided that:
@@ -148,7 +152,7 @@ International Cooperation.—Congress urges the President to promote the securit
 
 &emsp;“(3) Undertaking efforts to eliminate any barriers to, and other restrictions of foreign governments on, peaceful uses of the Global Positioning System.
 
-&emsp;“(4) Requiring that any proposed international agreement involving nonmilitary use of the Global Positioning System or any augmentation to the system not be agreed to by the United States unless the proposed agreement has been reviewed by the Secretary of State, the Secretary of Defense, the Secretary of Transportation, and the Secretary of Commerce (acting as the Interagency Global Positioning System Executive Board established by Presidential Decision Directive NSTC–6, dated March 28, 1996).”
+&emsp;“(4) Requiring that any proposed international agreement involving nonmilitary use of the GlobalPositioning System or any augmentation to the system not be agreed to by the United States unless the proposed agreement has been reviewed by the Secretary of State, the Secretary of Defense, the Secretary of Transportation, and the Secretary of Commerce (acting as the Interagency Global Positioning System Executive Board established by Presidential Decision Directive NSTC–6, dated March 28, 1996).”
 
 #### Access to Global Positioning System
 
@@ -169,4 +173,6 @@ Plan.—Subsection (a) shall cease to apply upon submission by the Secretary of 
 #### Limitation on Procurement of Systems Not GPS-Equipped
 
 Pub. L. 103–160, div. A, title I, §152(b), Nov. 30, 1993, 107 Stat. 1578, as amended by Pub. L. 105–261, div. A, title II, §218(e), Oct. 17, 1998, 112 Stat. 1952, provided that: “After September 30, 2005, funds may not be obligated to modify or procure any Department of Defense aircraft, ship, armored vehicle, or indirect-fire weapon system that is not equipped with a Global Positioning System receiver.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -6,7 +6,7 @@ A prior part X, consisting of sections 2293 and 2294, related to assistance to P
 
 #### Part Referred to in Other Sections
 
-This part is referred to in sections 2151k, 2151n, 2151p, 2151u, 2151x, 2346, 2421d, 6591 of this title.
+This part is referred to in sections 2151k, 2151n, 2151p, 2151u, 2151x, 2346, 2421d, 6591, 7102 of this title.
 
 
 ---

@@ -12,7 +12,7 @@ Whenever the head of any Federal agency performing any foreign affairs functions
 
 (3) The Secretary of State may waive the requirement for suspension or termination under paragraph (2) with respect to such services as the Secretary determines are necessary to ensure the protection of life and the safety of United States Government property. A waiver may be issued for a period not to exceed one year and may be renewed.
 
-(Aug. 1, 1956, ch. 841, title I, §23, as added Pub. L. 95–426, title I, §111(a), Oct. 7, 1978, 92 Stat. 967; renumbered title I and amended Pub. L. 97–241, title II, §202(a), title III, §303(b), Aug. 24, 1982, 96Stat. 282, 291; Pub. L. 102–138, title I, §118, Oct. 28, 1991, 105 Stat. 657; Pub. L. 105–277, div. G, subdiv. A, title XII, §1225(f), title XIII, §1335(<i>l</i>)(1), Oct. 21, 1998, 112 Stat. 2681–775, 2681–789.)
+(Aug. 1, 1956, ch. 841, title I, §23, as added Pub. L. 95–426, title I, §111(a), Oct. 7, 1978, 92 Stat. 967; renumbered title I and amended Pub. L. 97–241, title II, §202(a), title III, §303(b), Aug. 24, 1982, 96 Stat. 282, 291; Pub. L. 102–138, title I, §118, Oct. 28, 1991, 105 Stat. 657; Pub. L. 105–277, div. G, subdiv. A, title XII, §1225(f), title XIII, §1335(<i>l</i>)(1), Oct. 21, 1998, 112 Stat. 2681–775, 2681–789.)
 
 #### Amendments
 

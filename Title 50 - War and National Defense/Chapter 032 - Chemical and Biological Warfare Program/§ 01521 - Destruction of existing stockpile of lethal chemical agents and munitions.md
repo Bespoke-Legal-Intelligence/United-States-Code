@@ -10,7 +10,7 @@ Notwithstanding any other provision of law, the Secretary of Defense (hereinafte
 
 (2) If a treaty banning the possession of chemical agents and munitions is ratified by the United States, the date for completing the destruction of the United States’ stockpile of such agents and munitions shall be the date established by such treaty.
 
-(3)(A) In the event of a declaration of war by the Congress or of a national emergency by the President or the Congress or if the Secretary of Defense determines that there has been a significant delay in the acquisition of an adequate number of binary chemical weapons to meet therequirements of the Armed Forces (as defined by the Joint Chiefs of Staff as of September 30, 1985), the Secretary may defer, beyond the stockpile elimination deadline, the destruction of not more than 10 percent of the stockpile described in subsection (a)(1) of this section.
+(3)(A) In the event of a declaration of war by the Congress or of a national emergency by the President or the Congress or if the Secretary of Defense determines that there has been a significant delay in the acquisition of an adequate number of binary chemical weapons to meet the requirements of the Armed Forces (as defined by the Joint Chiefs of Staff as of September 30, 1985), the Secretary may defer, beyond the stockpile elimination deadline, the destruction of not more than 10 percent of the stockpile described in subsection (a)(1) of this section.
 
 (B) The Secretary shall transmit written notice to the Congress of any deferral made under subparagraph (A) not later than the earlier of (A) 30 days after the date on which the decision to defer is made, or (B) 30 days before the stockpile elimination deadline.
 
@@ -152,11 +152,11 @@ For purposes of this section:
 
 #### (k) Operational verification
 
-(1) Until the Secretary of the Army successfully completes (through the prove-out work tobe conducted at Johnston Atoll) operational verification of the technology to be used for the destruction of live chemical agents and munitions under this section, the Secretary may not conduct any activity for equipment prove out and systems test before live chemical agents are introduced at a facility (other than the Johnston Atoll facility) at which the destruction of chemical agent <sup>2</sup> and munitions weapons is to take place under this section. The limitation in the preceding sentence shall not apply with respect to the Chemical Agent Munition Disposal System in Tooele, Utah.
+(1) Until the Secretary of the Army successfully completes (through the prove-out work to be conducted at Johnston Atoll) operational verification of the technology to be used for the destruction of live chemical agents and munitions under this section, the Secretary may not conduct any activity for equipment prove out and systems test before live chemical agents are introduced at a facility (other than the Johnston Atoll facility) at which the destruction of chemical agent <sup>2</sup> and munitions weapons is to take place under this section. The limitation in the preceding sentence shall not apply with respect to the Chemical Agent Munition Disposal System in Tooele, Utah.
 
 (2) Upon the successful completion of the prove out of the equipment and facility at Johnston Atoll, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report certifying that the prove out is completed.
 
-(3) If the Secretary determines at any time that there will be a delay in meeting the deadline of December 31, 1990, scheduled by the Department of Defense for completion of the operational verification at Johnston Atoll referred to in paragraph (1), the Secretary shall immediately notify the Committees of that projected delay.
+(3) If the Secretary determines at any time that there will be a delay in meeting the deadline of December 31, 1990, scheduled by the Department of Defense for completion of the operational verification at Johnston Atoll referredto in paragraph (1), the Secretary shall immediately notify the Committees of that projected delay.
 
 (Pub. L. 99–145, title XIV, §1412, Nov. 8, 1985, 99 Stat. 747; Pub. L. 100–456, div. A, title I, §118, Sept. 29, 1988, 102 Stat. 1934; Pub. L. 101–510, div. A, title I, §§171, 172, Nov. 5, 1990, 104 Stat. 1507; Pub. L. 102–190, div. A, title I, §151, Dec. 5, 1991, 105 Stat. 1313; Pub. L. 102–484, div. A, title I, §§171, 179, Oct. 23, 1992, 106 Stat. 2341, 2347; Pub. L. 103–160, div. A, title I, §107(c), Nov. 30, 1993, 107 Stat. 1564; Pub. L. 103–337, div. A, title I, §142, Oct. 5, 1994, 108 Stat. 2689; Pub. L. 104–106, div. A, title I, §153(b), (c), title XV, §1502(c)(6), Feb. 10, 1996, 110 Stat. 216, 508; Pub. L. 104–201, div. A, title X, §1074(d)(2), Sept. 23, 1996, 110 Stat. 2661; Pub. L. 105–85, div. A, title X, §1041(d), Nov. 18, 1997, 111 Stat. 1885; Pub. L. 105–261, div. A, title I, §141, Oct. 17, 1998, 112 Stat. 1942; Pub. L. 106–65, div. A, title I, §141(b), title X, §1067(11), Oct. 5, 1999, 113 Stat. 537, 775.)
 
@@ -222,7 +222,7 @@ Subsec. (g)(4). Pub. L. 104–106, §153(b)(5), substituted “paragraph (1) not
 
 Pub. L. 104–106, §153(b)(3), redesignated par. (3) as (4).
 
-Subsec. (k)(2). Pub. L. 104–106, §1502(c)(6), substituted “Committee on Armed Services of the Senate and theCommittee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
+Subsec. (k)(2). Pub. L. 104–106, §1502(c)(6), substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
 
 1994—Subsec. (f). Pub. L. 103–337 inserted “, including funds for military construction projects necessary to carry out this section,” after “carrying out this section” and struck out at end “Funds for military construction projects necessary to carry out this section may be set out in the annual military construction budget separately from other funds for such project.”
 
@@ -266,7 +266,7 @@ Subsec. (k). Pub. L. 100–456, §118(b), amended subsec. (k) generally. Prior t
 
 #### Alternative Technologies for Destruction of Assembled Chemical Weapons
 
-Pub. L. 105–261, div. A, title I, §142, Oct. 17, 1998, 112 Stat. 1943, as amended by Pub. L. 106–65, div. A, title IX, §911(a)(1), Oct. 5, 1999, 113 Stat. 717, provided that:
+Pub. L. 105–261, div. A, title I, §142, Oct. 17, 1998, 112 Stat. 1943, as amended by Pub. L. 106–65, div. A, title IX, §911(a)(1), Oct. 5, 1999, 113 Stat. 717; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(d)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–292, provided that:
 
 “(a)
 
@@ -316,7 +316,7 @@ Pilot Facilities Contracts.—(1) The Under Secretary of Defense for Acquisition
 
 “(e)
 
-Plan for Pilot Program.—If the Secretary of Defense proceeds with a pilot program under section 152(f) of the National Defense Authorization Act for Fiscal Year 1996 (Public Law 104–106; 110 Stat. 214; 50 U.S.C. 1521(f) \[set out as a note below\]), the Secretary shall prepare a plan for the pilot program and shall submit to Congress a report on such plan (including information on the cost of, and schedule for, implementing the pilot program).
+Plan for Pilot Program.—If the Secretary of Defense proceeds with a pilot program under section 152(f) of the National Defense Authorization Act for Fiscal Year 1996 (Public Law 104–106; 110 Stat. 214; 50 U.S.C. 1521 note), the Secretary shall prepare a plan for the pilot program and shall submit to Congress a report on such plan (including information on the cost of, and schedule for, implementing the pilot program).
 
 “(f)
 
@@ -342,7 +342,7 @@ Funding.—(1) Of the amount authorized to be appropriated under section 107 \[1
 
 “(2) Funds authorized to be appropriated under section 107(1) are authorized to be used for awarding contracts in accordance with subsection (d) and for taking any other action authorized in this section.
 
-“(f)\[(g)\]
+“(g)
 
 Assembled Chemical Weapons Assessment Defined.—In this section, the term ‘Assembled Chemical Weapons Assessment’ means the pilot program carried out under section 8065 of the Department of Defense Appropriations Act, 1997 (section 101(b) of Public Law 104–208; 110 Stat. 3009–101; 50 U.S.C. 1521 note).”
 
@@ -542,7 +542,7 @@ Section 178 of Pub. L. 102–484 provided that: “It is the sense of Congress t
 
 #### “Low-Volume Site” Defined
 
-Section 180 of Pub. L. 102–484 provided that: “For purposes of this subtitle \[subtitle G (§§171–180) of title I of div. A of Pub. L. 102–484, amending this section and enacting provisions set out as notes above\], the term ‘low-volume site’ means one of the three chemical weapons storage sites in the United States at which there is stored 5 percent or less of the total United States stockpile of unitary chemical weapons.”
+Section 180 of Pub. L. 102–484 provided that: “For purposes of this subtitle \[subtitle G (§§171–180) of title I of div. A of Pub. L. 102–484, amending this section and enacting provisions set out as notes above\], the term ‘low-volume site’ means one of the three chemical weapons storage sites in the United States at whichthere is stored 5 percent or less of the total United States stockpile of unitary chemical weapons.”
 
 #### Revision of Chemical Demilitarization Program
 

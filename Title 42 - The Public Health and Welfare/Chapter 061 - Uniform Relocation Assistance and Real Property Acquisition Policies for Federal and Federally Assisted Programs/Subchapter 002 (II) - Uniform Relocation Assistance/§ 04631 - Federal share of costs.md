@@ -10,13 +10,13 @@ No payment or assistance under this subchapter or subchapter III of this chapter
 
 #### (c) Agreements prior to January 2, 1971; advancements
 
-Any grant to, or contract or agreement with, a State agency executed before January 2, 1971,under which Federal financial assistance is available to pay all or part of the cost of any program or project which will result in the displacement of any person on or after January 2, 1971, shall be amended to include the cost of providing payments and services under sections 4630 and 4655 of this title. If the head of a Federal agency determines that it is necessary for the expeditious completion of a program or project he may advance to the State agency the Federal share of the cost of any payments or assistance by such State agency pursuant to sections 4626, 4630, 4635, and 4655 of this title.
+Any grant to, or contract or agreement with, a State agency executed before January 2, 1971, under which Federal financial assistance is available to pay all or part of the cost of any program or project which will result in the displacement of any person on or after January 2, 1971, shall be amended to include the cost of providing payments and services under sections 4630 and 4655 of this title. If the head of a Federal agency determines that it is necessary for the expeditious completion of a program or project he may advance to the State agency the Federal share of the cost of any payments or assistance by such State agency pursuant to sections 4626, 4630, 4635, and 4655 of this title.
 
 (Pub. L. 91–646, title II, §211, Jan. 2, 1971, 84 Stat. 1900; Pub. L. 100–17, title IV, §411, Apr. 2, 1987, 101 Stat. 254.)
 
 #### References in Text
 
-Subchapter III of this chapter, referred to in subsecs. (a) and (b), was in the original “title III of this Act”, meaning title III of Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1904, which enacted subchapter III of this chapter, repealed sections 3071 to 3073 of this title, section 141 of Title 23, Highways, and section 596 of Title 33, Navigation and Navigable Waters, and enacted provisions set out as a note under section 4651 of this title. For complete classification of title III to the Code, see Tables.
+Subchapter III of this chapter, referred to in subsecs. (a) and (b), was in the original “title III of this Act”,meaning title III of Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1904, which enacted subchapter III of this chapter, repealed sections 3071 to 3073 of this title, section 141 of Title 23, Highways, and section 596 of Title 33, Navigation and Navigable Waters, and enacted provisions set out as a note under section 4651 of this title. For complete classification of title III to the Code, see Tables.
 
 #### Amendments
 

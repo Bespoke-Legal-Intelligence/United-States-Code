@@ -24,7 +24,7 @@ A State shall use a loan made to the State under this section only for any purpo
 
 #### (d) Limitation on total amount of loans to State
 
-The cumulative dollar amount of all loans made to a State under this section during fiscalyears 1997 through 2002 shall not exceed 10 percent of the State family assistance grant.
+The cumulative dollar amount of all loans made to a State under this section during fiscal years 1997 through 2002 shall not exceed 10 percent of the State family assistance grant.
 
 #### (e) Limitation on total amount of outstanding loans
 

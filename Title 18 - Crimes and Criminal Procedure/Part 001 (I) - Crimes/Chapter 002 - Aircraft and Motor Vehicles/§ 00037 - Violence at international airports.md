@@ -16,7 +16,7 @@ Jurisdiction.—There is jurisdiction over the prohibited activity in subsection
 
 &emsp;(1) the prohibited activity takes place in the United States; or
 
-&emsp;(2) the prohibited activity takes place outside the United States and (A) the offender is later found in the United States; or (B) an offender or a victim is a national of the United States (as defined in section 101(a)(22) of theImmigration and Nationality Act (8 U.S.C. 1101(a)(22))).
+&emsp;(2) the prohibited activity takes place outside the United States and (A) the offender is later found in the United States; or (B) an offender or a victim is a national of the United States (as defined in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22))).
 
 (c)
 
@@ -43,4 +43,6 @@ Section 60021(c) of Pub. L. 103–322 provided that: “The amendment made by su
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1956, 2332b, 2339A, 3286, 3592 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be section “13(c)”.</i>
 

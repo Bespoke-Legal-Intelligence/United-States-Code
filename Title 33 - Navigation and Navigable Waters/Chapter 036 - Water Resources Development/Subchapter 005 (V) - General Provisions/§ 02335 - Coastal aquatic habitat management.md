@@ -6,7 +6,7 @@ The Secretary may cooperate with the Secretaries of Agriculture and the Interior
 
 #### (b) Assistance
 
-As part of the management strategy, the Secretary may provide planning, design, and other technical assistance to each participating State in the development and implementation of nonregulatory measures to mitigate environmental problems and restore aquatic resources.
+As part of the management strategy, the Secretary may provide planning, design, and othertechnical assistance to each participating State in the development and implementation of nonregulatory measures to mitigate environmental problems and restore aquatic resources.
 
 #### (c) Cost sharing
 

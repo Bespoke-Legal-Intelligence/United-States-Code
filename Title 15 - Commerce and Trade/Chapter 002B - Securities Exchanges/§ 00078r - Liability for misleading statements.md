@@ -22,38 +22,6 @@ This chapter, referred to in subsec. (a), was in the original “this title”. 
 
 1936—Subsec. (a). Act May 27, 1936, inserted “or any undertaking contained in a registration statement as provided in subsection (d) of section 78<i>o</i> of this title”.
 
-#### Federal Rules of Civil Procedure
-
-Costs, see rule 54, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-One form of action, see rule 2.
-
-#### Cross References
-
-Civil liabilities—
-
-&emsp;&emsp;Arising in connection with prospectuses and communications, see section 77<i>l</i> of this title.
-
-&emsp;&emsp;On account of false registration statement, see section 77k of this title.
-
-Effective date, see sections 78hh and 78hh–1 of this title.
-
-Liability for misleading statements under—
-
-&emsp;&emsp;Public Utility Holding Company Act of 1935, see section 79p of this title.
-
-&emsp;&emsp;Trust Indenture Act of 1939, see section 77www of this title.
-
-Rules and regulations, power of Commission to make, see section 78w of this title.
-
-Undertaking for costs and reasonable attorneys’ fees under—
-
-&emsp;&emsp;Securities Act of 1933, see section 77k of this title.
-
-&emsp;&emsp;This subchapter in action for damages from manipulation of security prices, see section 78i of this title.
-
-&emsp;&emsp;Trust Indenture Act of 1939, see sections 77<i>ooo</i> and 77www of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 78<i>l</i>, 78hh, 78hhh, 79p of this title.

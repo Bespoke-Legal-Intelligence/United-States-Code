@@ -16,7 +16,7 @@ Any African government agency responsible for African elephant conservation and 
 
 &emsp;(4) an estimate of the funds and time required to complete the project;
 
-&emsp;(5) evidence of support of the project by governmental entities of countries within which the project will be conducted, if such support may be important for the success of the project; and
+&emsp;(5) evidence of support of the project by governmental entities of countries within whichthe project will be conducted, if such support may be important for the success of the project; and
 
 &emsp;(6) any other information the Secretary considers to be necessary or appropriate for evaluating the eligibility of the project for funding under this chapter.
 

@@ -22,7 +22,7 @@ As used in this subchapter:
 
 (7) The term “counterfeit substance” means a controlled substance which, or the container or labeling of which, without authorization, bears the trademark, trade name, or other identifying mark, imprint, number, or device, or any likeness thereof, of a manufacturer, distributor, or dispenser other than the person or persons who in fact manufactured, distributed, or dispensed such substance and which thereby falsely purports or is represented to be the product of, or to have been distributed by, such other manufacturer, distributor, or dispenser.
 
-(8) The terms “deliver” or “delivery” mean the actual, constructive, or attempted transfer of a controlled substance or a listed chemical, whether or not there exists an agency relationship.
+(8) The terms “deliver” or “delivery” mean the actual, constructive, or attempted transferof a controlled substance or a listed chemical, whether or not there exists an agency relationship.
 
 (9) The term “depressant or stimulant substance” means—
 
@@ -102,7 +102,7 @@ As used in this subchapter:
 
 (31) The term “Convention on Psychotropic Substances” means the Convention on Psychotropic Substances signed at Vienna, Austria, on February 21, 1971; and the term “Single Convention on Narcotic Drugs” means the Single Convention on Narcotic Drugs signed at New York, New York, on March 30, 1961.
 
-(32)(A) Except as provided in subparagraph (B), the term “controlled substance analogue” means a substance—
+(32)(A) Except as provided in subparagraph (C), the term “controlled substance analogue” means a substance—
 
 &emsp;(i) the chemical structure of which is substantially similar to the chemical structure of a controlled substance in schedule I or II;
 
@@ -110,7 +110,9 @@ As used in this subchapter:
 
 &emsp;(iii) with respect to a particular person, which such person represents or intends to have a stimulant, depressant, or hallucinogenic effect on the central nervous system that is substantially similar to or greater than the stimulant, depressant, or hallucinogenic effect on the central nervous system of a controlled substance in schedule I or II.
 
-(B) Such term does not include—
+(B) The designation of gamma butyrolactone or any other chemical as a listed chemical pursuant to paragraph (34) or (35) does not preclude a finding pursuant to subparagraph (A) of this paragraph that the chemical is a controlled substance analogue.
+
+(C) Such term does not include—
 
 &emsp;(i) a controlled substance;
 
@@ -170,9 +172,11 @@ As used in this subchapter:
 
 &emsp;(W) Nitroethane.
 
-&emsp;(X) Any salt, optical isomer, or salt of an optical isomer of the chemicals listed in subparagraphs (M) through (U) of this paragraph.
+&emsp;(X) Gamma butyrolactone.
 
-(35) The term “list II chemical” means a chemical (other than a list I chemical) specified by regulation of the Attorney General as a chemical that is used in manufacturing a controlled substance in violation of this subchapter, and such term includes (until otherwise specified by regulation of the Attorney General, as considered appropriate by the Attorney General or upon petition to the Attorney General by any person) the following chemicals:
+&emsp;(Y) Any salt, optical isomer, or salt of an optical isomer of the chemicals listed in subparagraphs (M) through (U) of this paragraph.
+
+(35) The term “list II chemical” means a chemical (other than a list I chemical) specified by regulation of the Attorney General as achemical that is used in manufacturing a controlled substance in violation of this subchapter, and such term includes (until otherwise specified by regulation of the Attorney General, as considered appropriate by the Attorney General or upon petition to the Attorney General by any person) the following chemicals:
 
 &emsp;(A) Acetic anhydride.
 
@@ -194,7 +198,7 @@ As used in this subchapter:
 
 &emsp;(J) Hydrochloric gas.
 
-(36) The term “regular customer” means, with respect to a regulated person, a customer withwhom the regulated person has an established business relationship that is reported to the Attorney General.
+(36) The term “regular customer” means, with respect to a regulated person, a customer with whom the regulated person has an established business relationship that is reported to the Attorney General.
 
 (37) The term “regular importer” means, with respect to a listed chemical, a person that has an established record as an importer of that listed chemical that is reported to the Attorney General.
 
@@ -216,7 +220,7 @@ As used in this subchapter:
 
 &emsp;&emsp;&emsp;(bb) the Attorney General has determined under section 814 of this title that the drug or group of drugs is being diverted to obtain the listed chemical for use in the illicit production of a controlled substance; and
 
-&emsp;&emsp;&emsp;(II) the quantity of ephedrine, pseudoephedrine, phenylpropanolamine, or other listed chemical contained in the drug included in the transaction or multiple transactions equals or exceeds the threshold established for that chemical by the Attorney General, except that the threshold for any sale of products containing pseudoephedrine or phenylpropanolamine products by retail distributors or by distributors required to submit reports by section 830(b)(3) of this title shall be 24 grams of pseudoephedrine or 24 grams of phenylpropanolamine in a single transaction; or
+&emsp;&emsp;&emsp;(II) the quantity of ephedrine, pseudoephedrine, phenylpropanolamine, or other listed chemical contained in the drug included in the transaction or multiple transactions equals or exceeds the threshold established for that chemical by the Attorney General, except that the threshold for any sale of products containing pseudoephedrine or phenylpropanolamine products by retail distributors or by distributors required to submit reports by section 830(b)(3) of this title shall be 9 grams of pseudoephedrine or 9 grams of phenylpropanolamine in a single transaction and sold in package sizes of not more than 3 grams of pseudoephedrine base or 3 grams of phenylpropanolamine base; or
 
 &emsp;&emsp;(v) any transaction in a chemical mixture which the Attorney General has by regulation designated as exempt from the application of this subchapter and subchapter II of this chapter based on a finding that the mixture is formulated in such a way that it cannot be easily used in the illicit production of a controlled substance and that the listed chemical or chemicals contained in the mixture cannot be readily recovered; and
 
@@ -318,7 +322,7 @@ As used in this subchapter:
 
 &emsp;(iii) A drug store is an entity within SIC code 5912.
 
-(Pub. L. 91–513, title II, §102, Oct. 27, 1970, 84 Stat. 1242; Pub. L. 93–281, §2, May 14, 1974, 88 Stat. 124; Pub. L. 95–633, title I, §102(b), Nov. 10, 1978, 92 Stat. 3772; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 96–132, §16(a), Nov. 30, 1979, 93 Stat. 1049; Pub. L. 98–473, title II, §507(a), (b), Oct. 12, 1984, 98 Stat. 2071; Pub. L. 98–509, title III, §301(a), Oct. 19, 1984, 98 Stat. 2364; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–570, title I, §§1003(b), 1203, 1870, Oct. 27, 1986, 100 Stat. 3207–6, 3207–13, 3207–56; Pub. L. 99–646, §83, Nov. 10, 1986, 100 Stat. 3619; Pub. L. 100–690, title VI, §6054, Nov. 18, 1988, 102 Stat. 4316; Pub. L. 101–647, title XIX, §1902(b), title XXIII, §2301, title XXXV, §3599I, Nov. 29, 1990, 104 Stat. 4852, 4858, 4932; Pub. L. 103–200, §§2(a), 7–9(a), Dec. 17, 1993, 107 Stat. 2333, 2340; Pub. L. 103–322, title IX, §90105(d), title XXXIII, §330024(a), (b), (d)(1), Sept. 13, 1994, 108 Stat. 1988, 2150; Pub. L. 104–237, title II, §§204(a), 209, title IV, §401(a), (b), Oct. 3, 1996, 110 Stat. 3102, 3104, 3106, 3107; Pub. L. 104–294, title VI, §§604(b)(4), 607(j), Oct. 11, 1996, 110 Stat. 3506, 3512; Pub. L. 105–115, title I, §126(c)(3), Nov. 21, 1997, 111 Stat. 2328.)
+(Pub. L. 91–513, title II, §102, Oct. 27, 1970, 84 Stat. 1242; Pub. L. 93–281, §2, May 14, 1974, 88 Stat. 124; Pub. L. 95–633, title I, §102(b), Nov. 10, 1978, 92 Stat. 3772; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 96–132, §16(a), Nov. 30, 1979, 93 Stat. 1049; Pub. L. 98–473, title II, §507(a), (b), Oct. 12, 1984, 98 Stat. 2071; Pub. L. 98–509, title III, §301(a), Oct. 19, 1984, 98 Stat. 2364; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–570, title I, §§1003(b), 1203, 1870, Oct. 27, 1986, 100 Stat. 3207–6, 3207–13, 3207–56; Pub. L. 99–646, §83, Nov. 10, 1986, 100 Stat. 3619; Pub. L. 100–690, title VI, §6054, Nov. 18, 1988, 102 Stat. 4316; Pub. L. 101–647, title XIX, §1902(b), title XXIII, §2301, title XXXV, §3599I, Nov. 29, 1990, 104 Stat. 4852, 4858, 4932; Pub. L. 103–200, §§2(a), 7–9(a), Dec. 17, 1993, 107 Stat. 2333, 2340; Pub. L. 103–322, title IX, §90105(d), title XXXIII, §330024(a), (b), (d)(1), Sept. 13, 1994, 108 Stat. 1988, 2150; Pub. L. 104–237, title II, §§204(a), 209, title IV, §401(a), (b), Oct. 3, 1996, 110 Stat. 3102, 3104, 3106, 3107; Pub. L. 104–294, title VI, §§604(b)(4), 607(j), Oct. 11, 1996, 110 Stat. 3506, 3512; Pub. L. 105–115, title I, §126(c)(3), Nov. 21, 1997, 111 Stat. 2328; Pub. L. 106–172, §§3(c), 5(a), Feb. 18, 2000, 114 Stat. 9, 10; Pub. L. 106–310, div. B, title XXXVI, §3622(a), Oct. 17, 2000, 114 Stat. 1231.)
 
 #### References in Text
 
@@ -334,9 +338,17 @@ Section 401(d) of the Comprehensive Methamphetamine Control Act of 1996, referre
 
 #### Amendments
 
+2000—Par. (32)(A). Pub. L. 106–172, §5(a)(1), substituted “subparagraph (C)” for “subparagraph (B)” in introductory provisions.
+
+Par. (32)(B), (C). Pub. L. 106–172, §5(a)(2), (3), added subpar. (B) and redesignated former subpar. (B) as (C).
+
+Par. (34)(X), (Y). Pub. L. 106–172, §3(c), added subpar. (X) and redesignated former subpar. (X) as (Y).
+
+Par. (39)(A)(iv)(II). Pub. L. 106–310 substituted “9 grams” for “24 grams” in two places and inserted before semicolon at end “and sold in package sizes of not more than 3 grams of pseudoephedrine base or 3 grams of phenylpropanolamine base”.
+
 1997—Par. (9)(A). Pub. L. 105–115 redesignated cl. (i) as subpar. (A) and struck out cl. (ii) which read as follows: “any derivative of barbituric acid which has been designated by the Secretary as habit forming under section 352(d) of this title; or”.
 
-1996—Par. (26). Pub. L. 104–294, §607(j)(1), amended par. (26) generally. Prior to amendment, par. (26) readas follows: “The term ‘State’ means any State, territory, or possession of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Trust Territory of the Pacific Islands, and the Canal Zone.”
+1996—Par. (26). Pub. L. 104–294, §607(j)(1), amended par. (26) generally. Prior to amendment, par. (26) read as follows: “The term ‘State’ means any State, territory, or possession of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Trust Territory of the Pacific Islands, and the Canal Zone.”
 
 Par. (34)(P), (S), (U). Pub. L. 104–237, §209(1), substituted “Isosafrole” for “Insosafrole” in subpar. (P), “N-Methylephedrine” for “N-Methylepherdrine” in subpar. (S), and “Hydriodic acid” for “Hydriotic acid” in subpar. (U).
 
@@ -396,7 +408,7 @@ Par. (39)(A)(iii). Pub. L. 103–200, §2(a)(6)(B), inserted “or any category 
 
 Par. (39)(A)(iv). Pub. L. 103–200, §2(a)(6)(C), amended cl. (iv) generally. Prior to amendment, cl. (iv) read as follows: “any transaction in a listed chemical that is contained in a drug that may be marketed or distributed lawfully in the United States under the Federal Food, Drug, and Cosmetic Act; or”.
 
-Par. (39)(A)(v). Pub. L. 103–200, §2(a)(6)(D), inserted before semicolon at end “which the Attorney General has by regulation designated as exempt from the application of this subchapter and subchapter II of this chapter based on a finding that the mixture is formulated in such a way that it cannot be easily used in the illicit production of a controlled substance and that the listed chemical or chemicals contained in the mixture cannot be readily recovered”.
+Par. (39)(A)(v). Pub. L. 103–200, §2(a)(6)(D), inserted before semicolon at end “which the Attorney General has by regulation designated as exempt from the application of this subchapter and subchapter II of this chapter based on a finding that the mixture is formulated in such a way that it cannot be easily used in theillicit production of a controlled substance and that the listed chemical or chemicals contained in the mixture cannot be readily recovered”.
 
 Par. (40). Pub. L. 103–200, §2(a)(7), substituted “list I chemical or a list II chemical” for “listed precursor chemical or a listed essential chemical” in two places.
 
@@ -428,7 +440,7 @@ Par. (32). Pub. L. 99–570, §1203, added par. (32).
 
 1984—Pars. (14) to (16). Pub. L. 98–473, §507(a), added par. (14) and redesignated former pars. (14) to (16) as (15) to (17), respectively.
 
-Par. (17). Pub. L. 98–473, §507, redesignated former par. (16) as (17), and expanded and revised definition of “narcotic drug”, including within term poppy straw,cocaine, and ecgonine. Former par. (17) redesignated (18).
+Par. (17). Pub. L. 98–473, §507, redesignated former par. (16) as (17), and expanded and revised definition of “narcotic drug”, including within term poppy straw, cocaine, and ecgonine. Former par. (17) redesignated (18).
 
 Pars. (18) to (28). Pub. L. 98–473, §507(a), redesignated former pars. (17) to (27) as (18) to (28), respectively.
 
@@ -447,6 +459,10 @@ Par. (30). Pub. L. 98–473, §507(a), redesignated former par. (29) as (30).
 #### Change of Name
 
 “Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in par. (24) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
+
+#### Effective Date of 2000 Amendment
+
+Pub. L. 106–310, div. B, title XXXVI, §3622(b), Oct. 17, 2000, 114 Stat. 1231, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect 1 year after the date of the enactment of this Act \[Oct. 17, 2000\].”
 
 #### Effective Date of 1997 Amendment
 
@@ -480,7 +496,55 @@ Amendment by Pub. L. 95–633 effective on date the Convention on Psychotropic S
 
 #### Regulations
 
-Section 301(b) of Pub. L. 98–509 provided that: “The Secretary of Health and Human Services shall, within ninety days of the date of the enactment of this Act \[Oct. 19, 1984\], promulgate regulations for the administration of section 102(28) of the Controlled Substances Act \[21 U.S.C. 802(29)\] as amended by subsection (a) and shall include in the first report submitted under section 505(b) \[now 503(b)\] of the Public Health Service Act \[42 U.S.C. 290aa–2(b)\] after the expiration of such ninety days the findings of the Secretary with respect to the effect of the amendment made by subsection (a).”
+Section 301(b) of Pub. L. 98–509 provided that: “The Secretary of Health and Human Services shall, within ninety days of the date of the enactment of this Act \[Oct. 19, 1984\], promulgate regulations for the administration of section 102(28) of the Controlled Substances Act \[21 U.S.C. 802(29)\] as amended by subsection (a) and shall include in the first report submitted under section 505(b) \[now 503(b)\] of the Public Health Service Act \[42 U.S.C. 290aa–2(b)\] after the expiration of such ninetydays the findings of the Secretary with respect to the effect of the amendment made by subsection (a).”
+
+#### Report on Diversion of Ordinary, Over-the-Counter Pseudoephedrine and Phenylpropanolamine Products
+
+Pub. L. 106–310, div. B, title XXXVI, §3642, Oct. 17, 2000, 114 Stat. 1237, provided that:
+
+“(a)
+
+Study.—The Attorney General shall conduct a study of the use of ordinary, over-the-counter pseudoephedrine and phenylpropanolamine products in the clandestine production of illicit drugs. Sources of data for the study shall include the following:
+
+&emsp;“(1) Information from Federal, State, and local clandestine laboratory seizures and related investigations identifying the source, type, or brand of drug products being utilized and how they were obtained for the illicit production of methamphetamine and amphetamine.
+
+&emsp;“(2) Information submitted voluntarily from the pharmaceutical and retail industries involved in the manufacture, distribution, and sale of drug products containing ephedrine, pseudoephedrine, and phenylpropanolamine, including information on changes in the pattern, volume, or both, of sales of ordinary, over-the-counter pseudoephedrine and phenylpropanolamine products.
+
+“(b)
+
+Report.—
+
+&emsp;“(1)
+
+Requirement.—Not later than 1 year after the date of the enactment of this Act \[Oct. 17, 2000\], the Attorney General shall submit to Congress a report on the study conducted under subsection (a).
+
+&emsp;“(2)
+
+Elements.—The report shall include—
+
+&emsp;&emsp;“(A) the findings of the Attorney General as a result of the study; and
+
+&emsp;&emsp;“(B) such recommendations on the need to establish additional measures to prevent diversion of ordinary, over-the-counter pseudoephedrine and phenylpropanolamine (such as a threshold on ordinary, over-the-counter pseudoephedrine and phenylpropanolamine products) as the Attorney General considers appropriate.
+
+&emsp;“(3)
+
+Matters considered.—In preparing the report, the Attorney General shall consider the comments and recommendations including the comments on the Attorney General's proposed findings and recommendations, of State and local law enforcement and regulatory officials and of representatives of the industry described in subsection (a)(2).
+
+“(c)
+
+Regulation of Retail Sales.—
+
+&emsp;“(1)
+
+In general.—Notwithstanding section 401(d) of the Comprehensive Methamphetamine Control Act of 1996 \[Pub. L. 104–237\] (21 U.S.C. 802 note) and subject to paragraph (2), the Attorney General shall establish by regulation a single-transaction limit of not less than 24 grams of ordinary, over-the-counter pseudoephedrine or phenylpropanolamine (as the case may be) for retail distributors, if the Attorney General finds, in the report under subsection (b), that—
+
+&emsp;&emsp;“(A) there is a significant number of instances (as set forth in paragraph (3)(A) of such section 401(d) for purposes of such section) where ordinary, over-the-counter pseudoephedrine products, phenylpropanolamine products, or both such products that were purchased from retail distributors were widely used in the clandestine production of illicit drugs; and
+
+&emsp;&emsp;“(B) the best practical method of preventing such use is the establishment of single-transaction limits for retail distributors of either or both of such products.
+
+&emsp;“(2)
+
+Due process.—The Attorney General shall establish the single-transaction limit under paragraph (1) only after notice, comment, and an informal hearing.”
 
 #### Regulation of Retail Sales of Certain Precursor Chemicals; Effect on Thresholds; Combination Ephedrine Products
 
@@ -508,7 +572,7 @@ Conditions.—In order to establish a single-transaction limit of 24 grams of ps
 
 &emsp;&emsp;“(B)
 
-Violation.—Any individual or business that violates the thresholds established in this paragraph shall, with respect to the first such violation, receive a warning letter from the Attorney General and, if a business, the business shall be required to conduct mandatory education of the sales employees of the firm with regard to the legal sales of pseudoephedrine. For a second violation occurring within 2 years of the first violation, the business or individual shall be subject to a civil penalty of notmore than $5,000. For any subsequent violation occurring within 2 years of the previous violation, the business or individual shall be subject to a civil penalty not to exceed the amount of the previous civil penalty plus $5,000.
+Violation.—Any individual or business that violates the thresholds established in this paragraph shall, with respect to the first such violation, receive a warning letter from the Attorney General and, if a business, the business shall be required to conduct mandatory education of the sales employees of the firm with regard to the legal sales of pseudoephedrine. For a second violation occurring within 2 years of the first violation, the business or individual shall be subject to a civil penalty of not more than $5,000. For any subsequent violation occurring within 2 years of the previous violation, the business or individual shall be subject to a civil penalty not to exceed the amount of the previous civil penalty plus $5,000.
 
 &emsp;“(2)
 
@@ -528,7 +592,7 @@ Conditions.—In order to establish a single-transaction limit of 24 grams of ph
 
 &emsp;&emsp;“(B)
 
-Violation.—Any individual or business that violates the thresholds established in this paragraph shall, with respect to the first such violation, receive a warning letter from the Attorney General and, if a business, the business shall be required to conduct mandatory education of the sales employees of the firm with regard to the legal sales of pseudoephedrine. For a second violation occurring within 2 years of the first violation, the business or individual shall be subject to a civil penalty of not more than $5,000. For any subsequent violation occurring within 2 years of the previous violation, the business or individual shall be subject to a civil penalty not to exceed the amount of the previous civil penalty plus $5,000.
+Violation.—Any individual or business that violates the thresholds established in this paragraph shall, with respect to the first such violation, receive a warning letter from the Attorney General and, if a business, the business shall be required to conduct mandatory education of the sales employees of the firm with regard to the legal sales of pseudoephedrine. For a second violation occurringwithin 2 years of the first violation, the business or individual shall be subject to a civil penalty of not more than $5,000. For any subsequent violation occurring within 2 years of the previous violation, the business or individual shall be subject to a civil penalty not to exceed the amount of the previous civil penalty plus $5,000.
 
 &emsp;“(3)
 
@@ -602,5 +666,5 @@ Date of Issuance of Regulations.—The Attorney General shall issue regulations 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 814, 822, 823, 830, 862a, 889, 951, 956, 957, 958, 967, 1115, 1701, 1907 of this title; title 7 sections 2015, 2021; title 8 sections 1101, 1182, 1227; title 16 section 559b; title 18 sections 342, 521, 842, 922, 924, 1791, 1952, 1961, 2118, 3142, 3563, 3592; title 19 sections 1401, 1584, 1607; title 20 section 1091; title 22 sections 2291, 2708, 2714; title 23 section 410; title 25 section 4103; title 28 section 2901; title 29 sections 1111, 1854, 2892; title 42 sections 201, 1437a, 1437d, 1437f, 1786, 2000e–2, 2473c, 3411, 3602, 3607, 5667, 5667a, 9919, 11851, 11905, 11924, 12602; title 46 section 2101; title 46 App. section 1903; title 48 sections 1902, 1903; title 49 sections 5331, 20140, 30301, 31102, 31301, 31306, 44106, 44111, 44703, 44710, 44713, 45101, 46306, 80302; title 50 section 404i.
+This section is referred to in sections 814, 822, 823, 830, 862a, 889, 951, 956, 957, 958, 967, 1115, 1701, 1907 of this title; title 7 sections 2015, 2021; title 8 sections 1101, 1182, 1227; title 10 section 986; title 16 section 559b; title 18 sections 342, 521, 842, 922, 924, 1791, 1952, 1961, 2118, 3142, 3563, 3592; title 19 sections 1401, 1584, 1607; title 20 section 1091; title 22 sections 2291, 2708, 2714; title 23 section 410; title 25 section 4103; title 29 sections 1111, 1854, 2892; title 42 sections 201, 1437a, 1437d, 1437f, 1786, 2000e–2, 2473c, 3411, 3602, 3607, 5667, 5667a, 9919, 11851, 11905, 11924, 12602; title 46 section 2101; title 46 App. section 1903; title 48 sections 1902, 1903; title 49 sections 5331, 20140, 30301, 31102, 31301, 31306, 44106, 44111, 44703, 44710, 44713, 45101, 46306, 80302; title 50 section 404i.
 

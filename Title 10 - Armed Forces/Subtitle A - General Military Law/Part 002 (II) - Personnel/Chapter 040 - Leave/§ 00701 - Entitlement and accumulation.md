@@ -28,7 +28,7 @@
 
 &emsp;(B) would lose any accumulated leave in excess of 60 days at the end of the succeeding fiscal year (other than by reason of subparagraph (A)), shall be permitted to retain such leave (not to exceed 90 days) until the end of the next succeeding fiscal year.
 
-(g) A member who is in a missing status, as defined in section 551(2) of title 37, accumulatesleave without regard to the 60-day limitation in subsection (b) and the 90-day limitation in subsection (f). Notwithstanding the death of a member while in a missing status, he continues to earn leave through the date—
+(g) A member who is in a missing status, as defined in section 551(2) of title 37, accumulates leave without regard to the 60-day limitation in subsection (b) and the 90-day limitation in subsection (f). Notwithstanding the death of a member while in a missing status, he continues to earn leave through the date—
 
 &emsp;(1) the Secretary concerned receives evidence that the member is dead; or
 

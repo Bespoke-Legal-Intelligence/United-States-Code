@@ -1,24 +1,44 @@
 ### §4213. Eligibility requirements for veterans under Federal employment and training programs
 
-Any (1) amounts received as pay or allowances by any person while serving on active duty, (2) period of time during which such person served on such active duty, and (3) amounts received under chapters 11, 13, 30, 31, 35, and 36 of this title by an eligible veteran, any amounts received by an eligible person under chapters 13 and 35 of such title, and any amounts received by an eligible person under chapter 106 of title 10, shall be disregarded in determining eligibility under any public service employment program, any emergency employment program, any job training program assisted under the Economic Opportunity Act of 1964, any employment or training program carried out under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998, or any other employment or training (or related) program financed in whole or in part with Federal funds.
+(a) Amounts and periods of time specified in subsection (b) shall be disregarded in determining eligibility under any of the following:
 
-(Added Pub. L. 92–540, title V, §503(a), Oct. 24, 1972, 86 Stat. 1098, §2013; amended Pub. L. 96–466, title VIII, §801(k)(1), (2)(A), Oct. 17, 1980, 94 Stat. 2217; Pub. L. 102–54, §14(c)(10), June 13, 1991, 105 Stat. 285; renumbered §4213, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title VII, §702(b), Nov. 2, 1994, 108 Stat. 4675; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(29)(C), (f)(21)(C)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–424, 2681–432.)
+&emsp;(1) Any public service employment program.
 
-#### Amendment of Section
+&emsp;(2) Any emergency employment program.
 
-<i>Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(f)(21)(C), (g)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–432, 2681–435, provided that, effective July 1, 2000, this section is amended by striking “the Job Training Partnership Act or”.</i>
+&emsp;(3) Any job training program assisted under the Economic Opportunity Act of 1964.
+
+&emsp;(4) Any employment or training program carried out under title I of the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.).
+
+&emsp;(5) Any other employment or training (or related) program financed in whole or in part with Federal funds.
+
+(b) Subsection (a) applies with respect to the following amounts and periods of time:
+
+&emsp;(1) Any amount received as pay or allowances by any person while serving on active duty.
+
+&emsp;(2) Any period of time during which such person served on active duty.
+
+&emsp;(3) Any amount received under chapters 11, 13, 30, 31, 32, and 36 of this title by an eligible veteran.
+
+&emsp;(4) Any amount received by an eligible person under chapters 13 and 35 of this title.
+
+&emsp;(5) Any amount received by an eligible member under chapter 106 of title 10.
+
+(Added Pub. L. 92–540, title V, §503(a), Oct. 24, 1972, 86 Stat. 1098, §2013; amended Pub. L. 96–466, title VIII, §801(k)(1), (2)(A), Oct. 17, 1980, 94 Stat. 2217; Pub. L. 102–54, §14(c)(10), June 13, 1991, 105 Stat. 285; renumbered §4213, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title VII, §702(b), Nov. 2, 1994, 108 Stat. 4675; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(29)(C), (f)(21)(C)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–424, 2681–432; Pub. L. 106–419, title IV, §404(a)(9), Nov. 1, 2000, 114 Stat. 1865.)
 
 #### References in Text
 
-The Economic Opportunity Act of 1964, referred to in text, is Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508, as amended, which was classified generally to chapter 34 (§2701 et seq.) of Title 42, The Public Health and Welfare, prior to repeal, except for titles VIII and X, by Pub. L. 97–35, title VI, §683(a), Aug. 13, 1981, 95 Stat. 519. Titles VIII and X of the Act are classified generally to subchapters VIII (§2991 et seq.) and X (§2996 et seq.) of chapter 34 of Title 42. For complete classification of this Act to the Code, see Tables.
+The Economic Opportunity Act of 1964, referred to in subsec. (a)(3), is Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508, as amended, which was classified generally to chapter 34 (§2701 et seq.) of Title 42, The Public Health and Welfare, prior to repeal, except for titles VIII and X, by Pub. L. 97–35, title VI, §683(a), Aug. 13, 1981, 95 Stat. 519. Titles VIII and X of the Act are classified generally to subchapters VIII (§2991 et seq.) and X (§2996 et seq.) of chapter 34 of Title 42. For complete classification of this Act to the Code, see Tables.
 
-The Job Training Partnership Act, referred to in text, is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
-
-The Workforce Investment Act of 1998, referred to in text, is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified generally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+The Workforce Investment Act of 1998, referred to in subsec. (a)(4), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
 #### Amendments
 
-1998—Pub. L. 105–277, §101(f) \[title VIII, §405(d)(29)(C)\], substituted “program carried out under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998,” for “program assisted under the Job Training Partnership Act (29 U.S.C. 1501 et seq.),”.
+2000—Pub. L. 106–419 amended text generally. Prior to amendment, text read as follows: “Any (1) amounts received as pay or allowances by any person while serving on active duty, (2) period of time during which such person served on such active duty, and (3) amounts received under chapters 11, 13, 30, 31, 35, and 36 of this title by an eligible veteran, any amounts received by an eligible person under chapters 13 and 35 of such title, and any amounts received by an eligible person under chapter 106 of title 10, shall be disregarded in determining eligibility under any public service employment program, any emergency employment program, any job training program assisted under the Economic Opportunity Act of 1964, any employment or training program carried out under title I of the Workforce Investment Act of 1998, or any other employment or training (or related) program financed in whole or in part with Federal funds.”
+
+1998—Pub. L. 105–277, §101(f) \[title VIII, §405(f)(21)(C)\], struck out “the Job Training Partnership Act or” after “program carried out under”.
+
+Pub. L. 105–277, §101(f) \[title VIII, §405(d)(29)(C)\], substituted “program carried out under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998,” for “program assisted under the Job Training Partnership Act (29 U.S.C. 1501 et seq.),”.
 
 1994—Pub. L. 103–446, §702(b)(3), substituted “eligibility under” for “the needs or qualifications of participants in”.
 

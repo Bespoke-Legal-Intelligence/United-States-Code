@@ -14,7 +14,7 @@ The agreement shall—
 
 &emsp;(3) provide that in the design and construction of any facilities, maximum attention will be given to innovative auditory and visual devices and installations appropriate for the educational functions of such facilities;
 
-&emsp;(4) provide that any laborer or mechanic employed by any contractor or subcontractor inthe performance of work on any construction aided by Federal funds appropriated for the benefit of the Kendall Demonstration Elementary School or the Model Secondary School for the Deaf will be paid wages at rates not less than those prevailing on similar construction in the locality as determined by the Secretary of Labor in accordance with the Act of March 3, 1931 (40 U.S.C. 276a—276a–5) commonly referred to as the Davis-Bacon Act; except that the Secretary of Labor shall have, with respect to the labor standards specified in this paragraph, the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (5 U.S.C. App.) and section 276c of title 40; and
+&emsp;(4) provide that any laborer or mechanic employed by any contractor or subcontractor in the performance of work on any construction aided by Federal funds appropriated for the benefit of the Kendall Demonstration Elementary School or the Model Secondary School for the Deaf will be paid wages at rates not less than those prevailing on similar construction in the locality as determined by the Secretary of Labor in accordance with the Act of March 3, 1931 (40 U.S.C. 276a—276a–5) commonly referred to as the Davis-Bacon Act; except that the Secretary of Labor shall have, with respect to the labor standards specified in this paragraph, the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (5 U.S.C. App.) and section 276c of title 40; and
 
 &emsp;(5) include such other conditions as the Secretary or the University considers necessary to carry out the purposes of this part.
 
@@ -25,10 +25,6 @@ The agreement shall—
 Act of March 3, 1931 (40 U.S.C. 276a—276a–5) commonly referred to as the Davis-Bacon Act, referred to in subsec. (b)(4), is act Mar. 3, 1931, ch. 411, 46 Stat. 1494, as amended, which is classified generally to sections 276a to 276a–5 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 276a of Title 40 and Tables.
 
 Reorganization Plan Numbered 14 of 1950, referred to in subsec. (b)(4), is set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Codification
-
-Section is also set out in D.C. Code, §31–1841.3b.
 
 #### Amendments
 

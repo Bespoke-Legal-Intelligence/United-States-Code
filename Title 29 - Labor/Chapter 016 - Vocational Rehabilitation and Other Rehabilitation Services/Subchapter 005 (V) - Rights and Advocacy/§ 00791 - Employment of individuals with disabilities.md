@@ -10,11 +10,11 @@ Each department, agency, and instrumentality (including the United States Postal
 
 #### (c) State agencies; rehabilitated individuals, employment
 
-The Commission, after consultation with the Committee, shall develop and recommend to the Secretary for referral to the appropriate State agencies, policies and procedures which will facilitate the hiring, placement, and advancement in employment of individuals who have received rehabilitation services under State vocational rehabilitation programs, veterans’ programs, or any other program for individuals with disabilities, including the promotion of job opportunities for such individuals. The Secretary shall encourage such State agencies to adopt and implement such policies and procedures.
+The Commission, after consultation with the Committee, shall develop and recommend to the Secretary for referral to the appropriate State agencies, policies and procedures which will facilitate the hiring, placement, and advancement in employment of individuals who have received rehabilitation services under State vocationalrehabilitation programs, veterans’ programs, or any other program for individuals with disabilities, including the promotion of job opportunities for such individuals. The Secretary shall encourage such State agencies to adopt and implement such policies and procedures.
 
 #### (d) Report to Congressional committees
 
-The Commission, after consultation with the Committee, shall, on June 30, 1974, and at the end of each subsequent fiscal year, make a complete report to the appropriate committees of the Congress with respect to the practices of and achievements in hiring, placement, and advancement of individuals with disabilities by each department, agency, and instrumentality and the Smithsonian Institution and the effectiveness of the affirmative action programs required by subsection (b) of this section, together with recommendations as to legislation which have been submitted to the Commission under subsection (a) of this section, or other appropriate action toinsure the adequacy of such practices. Such report shall also include an evaluation by the Committee of the effectiveness of the activities of the Commission under subsections (b) and (c) of this section.
+The Commission, after consultation with the Committee, shall, on June 30, 1974, and at the end of each subsequent fiscal year, make a complete report to the appropriate committees of the Congress with respect to the practices of and achievements in hiring, placement, and advancement of individuals with disabilities by each department, agency, and instrumentality and the Smithsonian Institution and the effectiveness of the affirmative action programs required by subsection (b) of this section, together with recommendations as to legislation which have been submitted to the Commission under subsection (a) of this section, or other appropriate action to insure the adequacy of such practices. Such report shall also include an evaluation by the Committee of the effectiveness of the activities of the Commission under subsections (b) and (c) of this section.
 
 #### (e) Federal work experience without pay; non-Federal status
 
@@ -122,6 +122,10 @@ Compliance.—Each State agency subject to the provisions of title I of the Reha
 
 Pub. L. 99–506, title X, §1006, Oct. 21, 1986, 100 Stat. 1846, provided that: “Except as otherwise provided in this Act \[see Short Title of 1986 Amendment note set out under section 701 of this title\], this Act shall take effect on the date of its enactment \[Oct. 21, 1986\].”
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which reports required under subsecs. (a) and (d) of this section are listed on page 188), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+
 #### Executive Order No. 10640
 
 Ex. Ord. No. 10640, Oct. 10, 1955, 20 F.R. 7717, formerly set out as a note under section 39 of this title, which related to President's Committee on Employment of the Physically Handicapped, was superseded by section 6(a) of Ex. Ord. No. 10994, Feb. 14, 1962, 27 F.R. 1447, which established President's Committee on Employment of the Handicapped.
@@ -132,11 +136,11 @@ Ex. Ord. No. 10994, Feb. 14, 1962, 27 F.R. 1447, as amended by Ex. Ord. No. 1101
 
 #### Executive Order No. 11480
 
-Ex. Ord. No. 11480, Sept. 9, 1969, 34 F.R. 14273, as amended by Ex. Ord. No. 12106, Dec. 26, 1978, 44 F.R. 1053; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617, which established and provided for the functions of the President's Committee on Employment of the Handicapped, was superseded by Ex. Ord. No. 12640, May 10, 1988, 53 F.R. 16996, set out below.
+Ex. Ord. No. 11480, Sept. 9, 1969, 34 F.R. 14273, as amended by Ex. Ord. No. 12106, Dec. 26, 1978, 44 F.R. 1053; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617, which established and provided for the functions of the President's Committee on Employment of the Handicapped, was superseded by Ex. Ord. No. 12640, May 10, 1988, 53 F.R. 16996, formerly set out below.
 
 #### Ex. Ord. No. 11830. Enlarging Membership of Interagency Committee on Handicapped Employees
 
-Ex. Ord. No. 11830, Jan. 9, 1975, 40 F.R. 2411, as amended by Ex. Ord. No. 12106, Dec. 26, 1978, 44 F.R. 1053; Ex. Ord. No. 12450, Dec. 9, 1983, 48 F.R. 55409; Ex. Ord. No. 12672, Mar. 21, 1989, 54 F.R. 12167; Ex. Ord. No. 12704, §1, Feb. 26, 1990, 55 F.R. 6969, provided:
+Ex. Ord. No. 11830, Jan. 9, 1975, 40 F.R. 2411, as amended by Ex. Ord. No. 12106, Dec. 26, 1978, 44 F.R. 1053; Ex.Ord. No. 12450, Dec. 9, 1983, 48 F.R. 55409; Ex. Ord. No. 12672, Mar. 21, 1989, 54 F.R. 12167; Ex. Ord. No. 12704, §1, Feb. 26, 1990, 55 F.R. 6969, provided:
 
 By virtue of the authority vested in me by section 501(a) of the Rehabilitation Act of 1973 (Public Law 93–112; 87 Stat. 390) \[subsec. (a) of this section\], it is hereby ordered as follows:
 
@@ -168,55 +172,81 @@ Section 1. In accord with Section 501 of the Rehabilitation Act of 1973 (29 U.S.
 
 Sec. 2. The Interagency Committee on Handicapped Employees shall also be referred to as the Interagency Committee on Employment of People with Disabilities.
 
-#### Ex. Ord. No. 12640. President's Committee on Employment of People With Disabilities
+#### Executive Order No. 12640
 
-Ex. Ord. No. 12640, May 10, 1988, 53 F.R. 16996, as amended by Ex. Ord. No. 12945, Jan. 20, 1995, 60 F.R. 4527, provided:
+Ex. Ord. No. 12640, May 10, 1988, 53 F.R. 16996, as amended by Ex. Ord. No. 12945, Jan. 20, 1995, 60 F.R. 4527, which established the President's Committee on Employment of People with Disabilities, the Executive Committee of the President's Committee on Employment of People with Disabilities, and the Advisory Council on Employment of People with Disabilities, and provided for the membership, functions, and administration of those bodies, and superseded Ex. Ord. No. 11480, was revoked by Ex. Ord. No. 13187, §4(a), Jan. 10, 2001, 66 F.R. 3858, set out as a note under section 701 of this title.
 
-By virtue of the authority vested in me as President by the Constitution and laws of the United States of America, and in order to provide for the carrying out of the provisions of the Joint Resolution approved July 11, 1949, ch. 302, 63 Stat. 409, as amended, and the provisions of the Rehabilitation Act of 1973, P.L. 93–112, Section 501(a)–(f), as amended \[29 U.S.C. 791(a)–(f)\], it is ordered as follows:
+#### Ex. Ord. No. 13163. Increasing the Opportunity for Individuals With Disabilities To Be Employed in the Federal Government
 
-Section 1. <i>Establishment and Composition of the President's Committee</i>. (a) There is hereby established the President's Committee on Employment of People with Disabilities (hereinafter referred to as the Committee or as the President's Committee).
+Ex. Ord. No. 13163, July 26, 2000, 65 F.R. 46563, provided:
 
-(b) The Committee shall be composed of a Chairman and not more than six Vice Chairs, who shall be appointed by and serve at the pleasure of the President, and of so many other members as may be appointed thereto from time to time by the Chairman of the President's Committee from among persons (including representatives of organizations) who can contribute to the achievement of the objectives of the Committee. Members appointed by the Chairman shall be appointed for a term of 3 years and may be reappointed. The Chairman of the President's Committee may at any time terminate the service of any member of the President's Committee, except any member appointed by the President.
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to promote an increase in the opportunities for individuals with disabilities to be employed at all levels and occupations of the Federal Government, and to support the goals articulated in section 501 of the Rehabilitation Act of 1973 (29 U.S.C. 791), it is hereby ordered as follows:
 
-(c) The Chairman of the President's Committee, upon the advice of the Executive Committee (hereinafter provided for), may designate as, or invite to be, associate members of the President's Committee any heads of Federal departments or agencies that have responsibility for training and rehabilitation services or advocate activities touching the field of interest of the Committee or that are leading employers of individuals with disabilities.
+Section 1. <i>Increasing the Federal Employment Opportunities for Individuals with Disabilities</i>. (a) Recent evidence demonstrates that, throughout the United States, qualified persons with disabilities have been refused employment despite their availability and qualifications, and many qualified persons with disabilities are never made aware of available employment opportunities. Evidence also suggests that increased efforts at outreach, and increased understanding of the reasonable accommodations available for persons with disabilities, will permit persons with disabilities to compete for employment on a more level playing field.
 
-(d) Representatives of business, industry, labor, private organizations, public agencies, other concerned organizations, and individuals with disabilities who are not members may be invited to attend meetings of the Committee.
+(b) Based on current hiring patterns and anticipated increases from expanded outreach efforts and appropriate accommodations, the Federal Government, over the next 5 years, will be able to hire 100,000 qualified individuals with disabilities. In furtherance of such efforts, Federal agencies shall:
 
-Sec. 2. <i>Functions of the Committee</i>. The President's Committee shall provide advice and information as to the development of maximum employment opportunities for people who are physically disabled, mentally retarded, and mentally ill. To this end the Committee shall advise the President as to information that can be used by employers, labor unions, and national and international organizations, suggest programs for public education, and suggest methods of enlisting cooperation among organizations and agencies, Federal, State, and local officials, Governors’ and local Committees on Employment of People with Disabilities, professional organizations, organized labor, and appropriate international organizations. In carrying out these functions vested in it by the Rehabilitation Act, as amended \[29 U.S.C. 701 et seq.\], the Committee shall be guided by the general policies of the National Council on the Handicapped and shall work closely with the Department of Labor, the Department of Education, the Department of Health and Human Services, the Veterans’ Administration, State employment security agencies, and State vocational rehabilitation agencies.
+&emsp;(1) Use available hiring authorities, consistent with statutes, regulations, and prior Executive orders and Presidential Memoranda;
 
-Sec. 3. <i>Executive Committee</i>. (a) There is hereby established the Executive Committee of the President's Committee on Employment of People with Disabilities. The Executive Committee shall be composed of the Chairman of the President's Committee, who shall also be the Chairman of the Executive Committee, the Vice Chair of the President's Committee, and so many additional members as will provide an Executive Committee of not less than 15 and not more than 30 members. The said additional members shall be appointed for a term of 3 years by the Chairman of the President's Committee from among the members of the President's Committee or otherwise. The Chairman of the President's Committee may at any time terminate the service of any member of the Executive Committee.
+&emsp;(2) Expand their outreach efforts, using both traditional and nontraditional methods; and
 
-(b) The Executive Committee shall advise and assist the Chairman of the President's Committee in the conduct of the business of the President's Committee and, as authorized by the President's Committee or the Chairman thereof (with due regard for the responsibilities of other Federal agencies), shall study the problems of people with disabilities in obtaining and retaining suitable employment, invite authorities in the various professional, technical, and other pertinent fields to advise it in the exploration of those problems, and review plans and projects for advocating the employment of people with disabilities.
+&emsp;(3) Increase their efforts to accommodate individuals with disabilities.
 
-Sec. 4. <i>Advisory Council</i>. There is hereby established the Advisory Council on Employment of People with Disabilities, which shall advise the President's Committee with respect to the responsibilities of the Committee. The Council shall be composed of the Chairman of the President's Committee, who shall also be the Chairman of the Council, and of the following-named officers, or their respective alternates: Secretary of State, Secretary of the Treasury; Secretary of Defense; The Attorney General; Secretary of the Interior; Secretary of Agriculture; Secretary of Commerce; Secretary of Labor; Secretary of Health and Human Services; Secretary of Housing and Urban Development; Secretary of Transportation; Secretary of Education; Chairman, Equal Employment Opportunity Commission; Administrator of General Services; Director, Office of Personnel Management; Director, United States Information Agency; Administrator of Veterans’ Affairs; and the Postmaster General.
+(c) As a model employer, the Federal Government will take the lead in educating the public about employment opportunities available for individuals with disabilities.
 
-Sec. 5. <i>Administrative and Incidental Matters</i>. (a) The President's Committee, the Executive Committee, and the Advisory Council shall each meet on call of the Chairman of the President's Committee at a time and place designated by the Chairman. In the case of the President's Committee and the Executive Committee, the Chairman shall call at least one meeting and two meetings, respectively, to be held during each calendar year.
+(d) This order does not require agencies to create new positions or to change existing qualification standards for any position.
 
-(b) In the absence of designation by the President, the Chairman of the President's Committee may from time to time designate a Vice Chair of the President's Committee to be one or more of the following-named in the absence of the Chairman: Acting Chairman of the President's Committee, Acting Chairman of the Executive Committee, and Acting Chairman of the Advisory Council. The Chairman of the President's Committee shall from time to time assign other duties to the Vice Chairs thereof.
+Sec. 2. <i>Implementation</i>. Each Federal agency shall prepare a plan to increase the opportunities for individuals with disabilities to be employed in the agency. Each agency shall submit that plan to the Office of Personnel Management within 60 days from the date of this order.
 
-(c) The Chairman of the President's Committee shall on behalf of the President direct the President's Committee and its functions.
+Sec. 3. <i>Authority to Develop Guidance</i>. The Office of Personnel Management shall develop guidance on the provisions of this order to increase the opportunities for individuals with disabilities employed in the Federal Government.
 
-(d) The Chairman may from time to time prescribe such necessary rules, procedures, and policies relating to the President's Committee, the Executive Committee, and the Advisory Council, and to their affairs, as are not inconsistent with law or with the provisions of this Order.
+Sec. 4. <i>Judicial Review</i>. This order is intended only to improve the internal management of the executive branch and does not create any right or benefit, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies, its officers, its employees, or any person.
 
-(e) The Vice Chairs shall advise and counsel the Committee and shall represent the Committee on appropriate occasions.
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-(f) All members (including the Chairman and Vice Chairs) of the President's Committee, the Executive Committee, and the Advisory Council shall serve without compensation. The Chairman and the Vice Chairs of the President's Committee may receive transportation and per diem allowances as authorized by law for persons serving without compensation. Persons with disabilities serving as Chairman or Vice Chairs may be compensated for attendant expenses, consistent with government procedures and practices.
+#### Ex. Ord. No. 13164. Requiring Federal Agencies To Establish Procedures To Facilitate the Provision of Reasonable Accommodation
 
-(g) Employees of the President's Committee shall be appointed, subject to law, and shall be directed by the Chairman of the Committee. To such extent as may be mutually arranged by the Chairman of the Committeeand the Secretary of Labor, employees of the Committee shall be subject to the administrative rules, regulations, and procedures of the Department of Labor.
+Ex. Ord. No. 13164, July 26, 2000, 65 F.R. 46565, provided:
 
-(h) The Department of Labor is requested to make available to the President's Committee necessary office space and to furnish the Committee, under such arrangements respecting financing as may be appropriate, necessary equipment, supplies, and services. The estimates of appropriations for the operations of the Committee shall be included within the framework of the appropriations structure of the Department of Labor, in such manner as the Director of the Office of Management and Budget may prescribe. The Chairman of the Committee, in cooperation with the Assistant Secretary for Administration and Management of the Department of Labor, shall be responsible for the preparation and justification of the estimates of appropriations for the Committee.
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Rehabilitation Act of 1973 (29 U.S.C. 701 <i>et seq</i>.), as amended, and in order to promote a model Federal workplace that provides reasonable accommodation for (1) individuals with disabilities in the application process for Federal employment; (2) Federal employees with disabilities to perform the essential functions of a position; and (3) Federal employees with disabilities to enjoy benefits and privileges of employment equal to those enjoyed by employees without disabilities, it is hereby ordered as follows:
 
-Sec. 6. <i>Reporting</i>. The President's Committee shall report annually to the President, who may apprise the Congress, and other interested organizations and individuals on the progress and problems of maximizing employment opportunities for people with disabilities.
+Section 1. <i>Establishment of Effective Written Procedures to Facilitate the Provision of Reasonable Accommodation</i>. (a) Each Federal agency shall establish effective written procedures for processing requests for reasonable accommodation by employees and applicants with disabilities. The written procedures may allow different components of an agency to tailor their procedures as necessary to ensure the expeditious processing of requests.
 
-Sec. 7. <i>Prior Orders; Transition</i>. (a) To the extent that this Order is inconsistent with any provision of any prior order, or with any provisions of any regulation or other measure or disposition, heretofore issued, made, or taken by the President or by any other officer of the Executive branch of the Government, this Order shall control. Executive Order No. 11480 of September 9, 1969, as amended, is hereby superseded.
+(b) As set forth in <i>Re-charting the Course: The First Report of the Presidential Task Force on Employment of Adults with Disabilities</i> (1998), effective written procedures for processing requests for reasonable accommodation should include the following:
 
-(b) Without further action by the President or the Chairman of the Committee, all members, employees, records, property, funds, and pending business of the President's Committee on Employment of the Handicapped provided for in Executive Order No. 11480 of September 9, 1969, as amended, shall on the date of this Order become members, employees, records, property, funds, and pending business of the Committee established by this Order.
+&emsp;(1) Explain that an employee or job applicant may initiate a request for reasonable accommodation orally or in writing. If the agency requires an applicant or employee to complete a reasonable accommodation request form for recordkeeping purposes, the form must be provided as an attachment to the agency's written procedures;
 
-(c) The tenure of persons as members of the Committee in pursuance of the provisions of Section 7(b) of this Order, (i), in the case of persons appointed to the predecessor Committee by the President, shall be at the pleasure of the President, and (ii), in the case of other members, shall be for periods equal to their respective unexpired terms under Executive Order No. 11480, as amended, but shall also be subject to the provisions of the last sentence of Section 1(b) of this Order.
+&emsp;(2) Explain how the agency will process a request for reasonable accommodation, and from whom the individual will receive a final decision;
 
-\[For abolition of United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau), transfer of functions, and treatment of references thereto, see sections 6531, 6532, and 6551 of Title 22, Foreign Relations and Intercourse.\]
+&emsp;(3) Designate a time period during which reasonable accommodation requests will be granted or denied, absent extenuating circumstances. Time limits fordecision making should be as short as reasonably possible;
+
+&emsp;(4) Explain the responsibility of the employee or applicant to provide appropriate medical information related to the functional impairment at issue and the requested accommodation where the disability and/or need for accommodation is not obvious;
+
+&emsp;(5) Explain the agency's right to request relevant supplemental medical information if the information submitted does not clearly explain the nature of the disability, or the need for the reasonable accommodation, or does not otherwise clarify how the requested accommodation will assist the employee to perform the essential functions of the job or to enjoy the benefits and privileges of the workplace;
+
+&emsp;(6) Explain the agency's right to have medical information reviewed by a medical expert of the agency's choosing at the agency's expense;
+
+&emsp;(7) Provide that reassignment will be considered as a reasonable accommodation if the agency determines that no other reasonable accommodation will permit the employee with a disability to perform the essential functions of his or her current position;
+
+&emsp;(8) Provide that reasonable accommodation denials be in writing and specify the reasons for denial;
+
+&emsp;(9) Ensure that agencies’ systems of recordkeeping track the processing of requests for reasonable accommodation and maintain the confidentiality of medical information received in accordance with applicable law and regulations; and
+
+&emsp;(10) Encourage the use of informal dispute resolution processes to allow individuals with disabilities to obtain prompt reconsideration of denials of reasonable accommodation. Agencies must also inform individuals with disabilities that they have the right to file complaints in the Equal Employment Opportunity process and other statutory processes, as appropriate, if their requests for reasonable accommodation are denied.
+
+Sec. 2. <i>Submission of Agency Reasonable Accommodation Procedures to the Equal Employment Opportunity Commission (EEOC)</i>. Within 1 year from the date of this order, each agency shall submit its procedures to the EEOC. Each agency shall also submit to the EEOC any modifications to its reasonable accommodation procedures at the time that those modifications are adopted.
+
+Sec. 3. <i>Collective Bargaining Obligations</i>. In adopting their reasonable accommodation procedures, agencies must honor their obligations to notify their collective bargaining representatives and bargain over such procedures to the extent required by law.
+
+Sec. 4. <i>Implementation</i>. The EEOC shall issue guidance for the implementation of this order within 90 days from the date of this order.
+
+Sec. 5. <i>Construction and Judicial Review</i>. (a) Nothing in this order limits the rights that individuals with disabilities may have under the Rehabilitation Act of 1973, as amended.
+
+(b) This order is intended only to improve the internal management of the executive branch and does not create any right or benefit, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies, its officers, its employees, or any person.
+
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 705, 794a, 794d of this title; title 2 sections 1202, 1311; title 3 sections 411, 421; title 5 sections 2302, 3102, 7702; title 22 sections 3905, 4131; title 38 section 4214; title 42 section 1981a.
+This section is referred to in sections 705, 794a, 794d of this title; title 2 section 1311; title 3 sections 411, 421; title 5 sections 2302, 3102, 7702; title 22 sections 3905, 4131; title 38 section 4214; title 42 sections 1981a, 2000e–16b.
 

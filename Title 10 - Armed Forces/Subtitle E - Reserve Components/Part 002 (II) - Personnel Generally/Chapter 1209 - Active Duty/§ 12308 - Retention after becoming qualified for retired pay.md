@@ -20,7 +20,7 @@ Historical and Revision Notes
 
 June 29, 1948, ch. 708, §302(e), 62 Stat. 1088.
 
-The words “active duty, or in service, in a reserve component other than that listed in section 1332(b) of this title” are inserted to reflect the words “Federal service”, as used in Title III of the source statute. The words “that service for all purposes” are substituted for 10:1036a(e) (last 11 words) and 34:440i(e) (last 11 words). The words “upon attaining the age of sixty years” are omitted as surplusage.
+The words “active duty, or in service, in a reserve component other than that listed in section 1332(b) of this title” are inserted to reflect the words “Federal service”, as used in Title III of the source statute. Thewords “that service for all purposes” are substituted for 10:1036a(e) (last 11 words) and 34:440i(e) (last 11 words). The words “upon attaining the age of sixty years” are omitted as surplusage.
 
 #### Amendments
 

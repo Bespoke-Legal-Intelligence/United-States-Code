@@ -26,15 +26,21 @@ Under such regulations as the Secretary may prescribe and subject to the provisi
 
 (6) Such other persons or classes of persons as may be designated by the Secretary.
 
-(7) Any person who at the time of death was entitled to retired pay under chapter 67 <sup>1</sup> of title 10 or would have been entitled to retired pay under that chapter but for the fact that the person was under 60 years of age.
+(7) Any person who at the time of death was entitled to retired pay under chapter 1223 of title 10 or would have been entitled to retired pay under that chapter but for the fact that the person was under 60 years of age.
 
-(Added Pub. L. 93–43, §2(a), June 18, 1973, 87 Stat. 75, §1002; amended Pub. L. 99–576, title VII, §701(54), Oct. 28, 1986, 100 Stat. 3295; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §2402, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–240, §1, May 4, 1994, 108 Stat. 609; Pub. L. 103–446, title VIII, §§801, 802, Nov. 2, 1994, 108 Stat. 4675; Pub. L. 104–275, title II, §211, Oct. 9, 1996, 110 Stat. 3330; Pub. L. 105–368, title IV, §403(c)(5), Nov. 11, 1998, 112 Stat. 3338.)
+(8) Any individual whose service is described in section 107(a) of this title if such individual at the time of death—
 
-#### References in Text
+&emsp;(A) was a citizen of the United States or an alien lawfully admitted for permanent residence in the United States; and
 
-Chapter 67 of title 10, referred to in par. (7), was transferred to part II of subtitle E of Title 10, Armed Forces, renumbered as chapter 1223, and amended generally by Pub. L. 103–337, div. A, title XVI, §1662(j)(1), Oct. 5, 1994, 108 Stat. 2998. A new chapter 67 (§1331) of Title 10 was added by section 1662(j)(7) of Pub. L. 103–337.
+&emsp;(B) resided in the United States.
+
+(Added Pub. L. 93–43, §2(a), June 18, 1973, 87 Stat. 75, §1002; amended Pub. L. 99–576, title VII, §701(54), Oct. 28, 1986, 100 Stat. 3295; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §2402, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–240, §1, May 4, 1994, 108 Stat. 609; Pub. L. 103–446, title VIII, §§801, 802, Nov. 2, 1994, 108 Stat. 4675; Pub. L. 104–275, title II, §211, Oct. 9, 1996, 110 Stat. 3330; Pub. L. 105–368, title IV, §403(c)(5), Nov. 11, 1998, 112 Stat. 3338; Pub. L. 106–419, title III, §331(a), title IV, §404(a)(5), Nov. 1, 2000, 114 Stat. 1856, 1865.)
 
 #### Amendments
+
+2000—Par. (7). Pub. L. 106–419, §404(a)(5), substituted “chapter 1223 of title 10” for “chapter 67 of title 10”.
+
+Par. (8). Pub. L. 106–419, §331(a), added par. (8).
 
 1998—Pub. L. 105–368 substituted “under the control of the National Cemetery Administration” for “in the National Cemetery System” in introductory provisions.
 
@@ -56,6 +62,10 @@ Pub. L. 102–40 substituted “6105” for “3505” in introductory provision
 
 Par. (5). Pub. L. 99–576, §701(54)(B), struck out “wife, husband,” before “surviving spouse”.
 
+#### Effective Date of 2000 Amendment
+
+Amendment by section 331(a) of Pub. L. 106–419 applicable with respect to deaths occurring on or after Nov. 1, 2000, see section 331(c) of Pub. L. 106–419, set out as a note under section 107 of this title.
+
 #### Eligibility of Former Prisoners of War for Burial in Arlington National Cemetery
 
 Pub. L. 103–160, div. A, title XI, §1176, Nov. 30, 1993, 107 Stat. 1768, provided that:
@@ -74,7 +84,7 @@ Eligible Former POWs.—A former prisoner of war referred to in subsection (a) i
 
 “(c)
 
-Savings Provision.—This section may not be construed to make ineligible for burial in ArlingtonNational Cemetery a former prisoner of war who is eligible to be buried in that cemetery under another provision of law.
+Savings Provision.—This section may not be construed to make ineligible for burial in Arlington National Cemetery a former prisoner of war who is eligible to be buried in that cemetery under another provision of law.
 
 “(d)
 
@@ -90,7 +100,5 @@ Definitions.—For purposes of this section:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2301, 2306 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+This section is referred to in sections 107, 2301, 2306 of this title.
 

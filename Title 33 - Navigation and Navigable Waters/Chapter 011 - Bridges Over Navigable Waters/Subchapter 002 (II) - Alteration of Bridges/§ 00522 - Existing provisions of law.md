@@ -2,7 +2,7 @@
 
 #### (a) Obstructing navigation; criminal penalties
 
-The first sentence of section 494 of this title, and section 502 of this title, shall be inapplicablewith respect to any bridge to which the provisions of this subchapter are applicable, except to the extent provided in this section.
+The first sentence of section 494 of this title, and section 502 of this title, shall be inapplicable with respect to any bridge to which the provisions of this subchapter are applicable, except to the extent provided in this section.
 
 #### (b) Construction, reconstruction, or alteration of bridges not completed on July 1, 1939; apportionment of costs
 
@@ -16,7 +16,7 @@ Any bridge, the construction, reconstruction, or alteration of which was require
 
 #### (c) Construction, reconstruction, or alteration of bridges not begun on July 1, 1939
 
-Any bridge (except a bridge to which subsection (b) of this section applies) the construction, reconstruction, or alteration of which was required by an order of the Secretary issued prior to July 1, 1939, and was not begun before such date, shall be subject to the provisions of this subchapter as though such order had not been issued, and compliance with the provisions of this subchapter and with such orders as may be issued thereunder shall be considered to constitute compliance with such order issued prior to July 1, 1939, and with the provisions of law under which it was issued.
+Any bridge (except a bridge to which subsection (b) of this section applies) the construction, reconstruction, or alteration of which was required by an order of the Secretary issued prior to July 1, 1939, and was not begun before such date, shall be subject to the provisions of this subchapter as though such order had notbeen issued, and compliance with the provisions of this subchapter and with such orders as may be issued thereunder shall be considered to constitute compliance with such order issued prior to July 1, 1939, and with the provisions of law under which it was issued.
 
 (June 21, 1940, ch. 409, §12, 54 Stat. 501.)
 

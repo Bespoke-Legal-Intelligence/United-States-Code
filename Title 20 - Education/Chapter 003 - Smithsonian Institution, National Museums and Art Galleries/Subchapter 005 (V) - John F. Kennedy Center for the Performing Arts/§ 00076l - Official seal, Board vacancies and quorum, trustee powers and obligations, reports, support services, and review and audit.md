@@ -30,7 +30,7 @@ The functions of the Board funded by funds appropriated pursuant to section 76r 
 
 #### References in Text
 
-The Inspector General Act of 1978, referred to in subsec. (d), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Inspector General Act of 1978, referred to in subsec. (d), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, asamended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 
@@ -85,6 +85,10 @@ Subsec. (f). Pub. L. 94–119, §2, added subsec. (f).
 Subsec. (d). Pub. L. 88–260, §1(5), added subsec. (d).
 
 1963—Subsec. (a). Pub. L. 88–100 substituted “twelve” for “eight” after “vacancies and”.
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (c) of this section relating to submitting annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 192 of House Document No. 103–7.
 
 #### Award of Service Contracts
 

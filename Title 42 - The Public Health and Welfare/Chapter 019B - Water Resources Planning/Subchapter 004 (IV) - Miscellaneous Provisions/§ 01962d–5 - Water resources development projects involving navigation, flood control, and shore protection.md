@@ -28,7 +28,7 @@ Committee on Public Works and Transportation of House of Representatives treated
 
 #### Local Cooperation, Study; Report to Congress
 
-Pub. L. 93–251, title I, §24, Mar. 7, 1974, 88 Stat. 20, provided that the Secretary of the Army make a study of the items of local cooperation involving hold and save harmless provisions which have been required for water resource development projects under his jurisdiction and report on such study to Congress not later than June 30, 1975.
+Pub. L. 93–251, title I, §24, Mar. 7, 1974, 88 Stat. 20, provided that the Secretary of the Army make a studyof the items of local cooperation involving hold and save harmless provisions which have been required for water resource development projects under his jurisdiction and report on such study to Congress not later than June 30, 1975.
 
 #### Land and Water Use, Study; Report to Congress
 

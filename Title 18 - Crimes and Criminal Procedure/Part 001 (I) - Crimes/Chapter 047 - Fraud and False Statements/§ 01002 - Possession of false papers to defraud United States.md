@@ -18,7 +18,3 @@ Minor verbal change was made.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
 
-#### Cross References
-
-Contracts, deeds, and powers of attorney, see section 495 of this title.
-

@@ -4,12 +4,6 @@ The publications provided for in sections 202, 203 of this title shall be printe
 
 (July 30, 1947, ch. 388, 61 Stat. 639.)
 
-#### Cross References
-
-Council of the District of Columbia, functions respecting, see section 2 of Pub. L. 94–386, Aug. 14, 1976, 90 Stat. 1170, set out as a note under section 285b of Title 2, The Congress.
-
-Office of the Law Revision Counsel, functions respecting, see section 285b of Title 2.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 208 of this title; title 44 section 707.

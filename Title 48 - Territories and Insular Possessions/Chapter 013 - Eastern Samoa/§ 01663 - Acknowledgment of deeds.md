@@ -14,9 +14,3 @@ Section is also classified to section 1421f–1 of this title.
 
 Section was formerly classified to sections 1358 and 1432 of this title.
 
-Section is also set out in D.C. Code, §45–605.
-
-#### Cross References
-
-Similar provisions relating to Guam, see section 1421f–1 of this title.
-

@@ -70,7 +70,7 @@ Instruction Program.—Not less than 90 days after the date of enactment of this
 
 “(b)
 
-Requirement for Replacement of United States Government Pilots by Host Country Pilots.—The President shall ensure that, within 18 months after the date of enactment of this Act \[Nov.21, 1990\], flight crews composed of host country personnel replace all United States Government pilots and other flight crew members (including both direct hire or contract personnel) for host country aircraft involved in airborne counternarcotics operations in the Andean countries.
+Requirement for Replacement of United States Government Pilots by Host Country Pilots.—The President shall ensure that, within 18 months after the date of enactment of this Act \[Nov. 21, 1990\], flight crews composed of host country personnel replace all United States Government pilots and other flight crew members (including both direct hire or contract personnel) for host country aircraft involved in airborne counternarcotics operations in the Andean countries.
 
 “(c)
 

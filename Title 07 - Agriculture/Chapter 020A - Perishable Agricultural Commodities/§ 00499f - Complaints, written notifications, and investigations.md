@@ -8,7 +8,7 @@
 
 #### (2) Filing and handling fees
 
-&emsp;A person submitting a petition to the Secretary under paragraph (1) shall include a filing fee of $60 per petition. If the Secretary determines under paragraph (1) that the facts contained in the petition warrant further action, the person or persons submitting the petition shall submit to the Secretary a handling fee of $300. The Secretary may not forward a copy of the complaint to the commission merchant, dealer, or broker involved until after the Secretary receives the required handling fee. The Secretary shall deposit fees submitted under this paragraph into the Perishable Agricultural Commodities Act Fund provided for by section 499c(b) of this title. The Secretary may alter the fees specified inthis paragraph by rulemaking under section 553 of title 5.
+&emsp;A person submitting a petition to the Secretary under paragraph (1) shall include a filing fee of $60 per petition. If the Secretary determines under paragraph (1) that the facts contained in the petition warrant further action, the person or persons submitting the petition shall submit to the Secretary a handling fee of $300. The Secretary may not forward a copy of the complaint to the commission merchant, dealer, or broker involved until after the Secretary receives the required handling fee. The Secretary shall deposit fees submitted under this paragraph into the Perishable Agricultural Commodities Act Fund provided for by section 499c(b) of this title. The Secretary may alter the fees specified in this paragraph by rulemaking under section 553 of title 5.
 
 #### (b) Disciplinary violations
 
@@ -48,9 +48,9 @@ Section was formerly classified to section 556 of this title.
 
 Subsec. (a). Pub. L. 104–48, §8(a), inserted subsec. heading, designated existing provisions as par. (1), inserted par. (1) heading, and added par. (2).
 
-Subsec. (b). Pub. L. 104–48, §7(a), inserted heading and amended text generally. Prior to amendment, text readas follows: “Any officer or agency of any State or Territory having jurisdiction over commission merchants, dealers, or brokers in such State or Territory and any employee of the United States Department of Agriculture or any interested person may file, in accordance with rules and regulations of the Secretary, a complaint of any violation of any provision of this chapter by any commission merchant, dealer, or broker and may request an investigation of such complaint by the Secretary.”
+Subsec. (b). Pub. L. 104–48, §7(a), inserted heading and amended text generally. Prior to amendment, text read as follows: “Any officer or agency of any State or Territory having jurisdiction over commission merchants, dealers, or brokers in such State or Territory and any employee of the United States Department of Agriculture or any interested person may file, in accordance with rules and regulations of the Secretary, a complaint of any violation of any provision of this chapter by any commission merchant, dealer, or broker and may request an investigation of such complaint by the Secretary.”
 
-Subsec. (c). Pub. L. 104–48, §7(b), inserted heading and amended text generally. Prior to amendment, text read as follows: “If there appear to be, in the opinion of the Secretary, any reasonable grounds for investigating any complaint made under this section, the Secretary shall investigate such complaint and may, if in his opinion the facts warrant such action, have said complaint served by registered mail or by certified mail or otherwise on the person concerned and afford such person an opportunity for a hearing thereon before a duly authorized examiner of the Secretary in any place in which the said person is engaged in business: <i>Provided</i>, That in complaints wherein the amount claimed as damages does not exceed the sum of $15,000, a hearing need not be held and proof in support of the complaint and in support of respondent's answer may be supplied in the form of depositions or verified statements of fact.”
+Subsec. (c). Pub. L. 104–48, §7(b), inserted heading and amended text generally. Prior to amendment, text read as follows: “If there appear to be, in the opinion of the Secretary, any reasonable grounds for investigating any complaint made under this section, the Secretaryshall investigate such complaint and may, if in his opinion the facts warrant such action, have said complaint served by registered mail or by certified mail or otherwise on the person concerned and afford such person an opportunity for a hearing thereon before a duly authorized examiner of the Secretary in any place in which the said person is engaged in business: <i>Provided</i>, That in complaints wherein the amount claimed as damages does not exceed the sum of $15,000, a hearing need not be held and proof in support of the complaint and in support of respondent's answer may be supplied in the form of depositions or verified statements of fact.”
 
 Subsec. (d). Pub. L. 104–48, §7(c), (d)(2), inserted heading and substituted “$30,000” for “$15,000” in two places in text.
 
@@ -93,10 +93,6 @@ Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L
 #### Filing and Handling Fees During Fiscal Years 1995 and 1996
 
 Pub. L. 103–276, §1, July 5, 1994, 108 Stat. 1406, during fiscal years 1995 and 1996, directed Secretary of Agriculture to require filing fee of $60 per petition for petitions alleging violation of section 499b of this title and handling fee of $300 for petitions that warrant further action, which handling fee was to be included in determining amount of damages, with both fees to be deposited into the Perishable Agricultural Commodities Act Fund, prior to repeal by Pub. L. 104–48, §8(c), Nov. 15, 1995, 109 Stat. 429. See subsec. (a)(2) of this section.
-
-#### Cross References
-
-Delegation of regulatory functions of Secretary of Agriculture, see section 450c of this title.
 
 #### Section Referred to in Other Sections
 

@@ -32,7 +32,7 @@ Nothing in this Act, the Act of March 3, 1851 (46 U.S.C. 183 et seq.), or sectio
 
 #### (d) Federal employee liability
 
-For purposes of section 2679(b)(2)(B) of title 28, nothing in this Act shall be construed to authorize or create a cause of action against a Federal officer or employee in the officer's or employee's personal or individual capacity for any act or omission while acting within the scope of the officer's or employee's office or employment.
+For purposes of section 2679(b)(2)(B) of title 28, nothing in this Act shall be construed to authorize or create a cause of action against a Federal officer or employee in the officer's or employee'spersonal or individual capacity for any act or omission while acting within the scope of the officer's or employee's office or employment.
 
 (Pub. L. 101–380, title I, §1018, Aug. 18, 1990, 104 Stat. 505.)
 

@@ -30,7 +30,7 @@ Exclusions.—The term “consumer report” does not include—
 
 &emsp;&emsp;&emsp;(ii) communication of that information among persons related by common ownership or affiliated by corporate control; or
 
-&emsp;&emsp;&emsp;(iii) communication of other information among persons related by common ownership or affiliated by corporate control, if it is clearly and conspicuously disclosed to the consumer that the information may be communicated among such persons and the consumer is given the opportunity, before the time that the information is initially communicated, to direct that such information not be communicated among such persons;
+&emsp;&emsp;&emsp;(iii) communication of other information among persons related by common ownership or affiliated by corporate control, if it is clearly and conspicuously disclosed to the consumer that the information may be communicated among such persons andthe consumer is given the opportunity, before the time that the information is initially communicated, to direct that such information not be communicated among such persons;
 
 &emsp;&emsp;(B) any authorization or approval of a specific extension of credit directly or indirectly by the issuer of a credit card or similar device;
 
@@ -100,7 +100,7 @@ Firm Offer of Credit or Insurance.—The term “firm offer of credit or insuran
 
 &emsp;(2) Verification—
 
-&emsp;&emsp;(A) that the consumer continues to meet the specific criteria used to select the consumer for the offer, by using information in a consumer report on the consumer, information in the consumer's application for the credit or insurance, or other information bearing on the credit worthiness <sup>2</sup> or insurability of the consumer; or
+&emsp;&emsp;(A) that the consumer continues to meet the specific criteria used to select the consumer for the offer, by using information ina consumer report on the consumer, information in the consumer's application for the credit or insurance, or other information bearing on the credit worthiness <sup>2</sup> or insurability of the consumer; or
 
 &emsp;&emsp;(B) of the information in the consumer's application for the credit or insurance, to determine that the consumer meets the specific criteria bearing on credit worthiness <sup>2</sup> or insurability.
 
@@ -174,7 +174,7 @@ Subsec. (<i>o</i>)(1). Pub. L. 105–347, §6(2), substituted “(d)(2)(D)” fo
 
 Subsec. (<i>o</i>)(4). Pub. L. 105–347, §6(3), substituted “and” for “or” at end.
 
-1996—Subsec. (d). Pub. L. 104–208, §2402(e), inserted subsec. heading, designated existing provisions as par. (1) and inserted heading, redesignated cls. (1) to (3) as subpars. (A) to (C), respectively, added par. (2), and struck out at end “The term does not include (A) any report containing information solely as to transactions or experiences between the consumer and the person making the report; (B) any authorization or approval of a specific extension of credit directly or indirectly by the issuer of a credit card or similar device; or (C) any report in which a person who has been requested by a third party to make a specific extension of credit directly or indirectly to a consumer conveys his decision with respect to such request, if the third party advises the consumer of the name and address of the person to whom the request was made and such person makes the disclosures to the consumer required under section 1681m of this title.”
+1996—Subsec. (d). Pub. L. 104–208, §2402(e), inserted subsec. heading, designated existing provisions as par. (1) and inserted heading, redesignated cls. (1) to (3) as subpars. (A) to (C), respectively, added par. (2), and struck out at end “The term does not include (A) any report containing information solely as to transactions or experiences between the consumer and the person making the report; (B) any authorization or approval of a specific extension of credit directly or indirectly by the issuer of a credit card or similar device; or (C) any report in which a person who has been requested by a third party to make a specific extension of credit directly or indirectly to a consumer conveys his decision with respect to such request, if the third party advisesthe consumer of the name and address of the person to whom the request was made and such person makes the disclosures to the consumer required under section 1681m of this title.”
 
 Subsec. (k). Pub. L. 104–208, §2402(a), added subsec. (k).
 

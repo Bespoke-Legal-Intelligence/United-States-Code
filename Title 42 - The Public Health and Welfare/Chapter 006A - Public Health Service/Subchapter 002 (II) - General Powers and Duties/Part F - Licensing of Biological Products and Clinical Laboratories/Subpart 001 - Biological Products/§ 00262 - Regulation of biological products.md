@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(I) the biological product that is the subject of the application is safe, pure, and potent; and
 
-&emsp;&emsp;(II) the facility in which the biological product is manufactured, processed, packed,or held meets standards designed to assure that the biological product continues to be safe, pure, and potent; and
+&emsp;&emsp;(II) the facility in which the biological product is manufactured, processed, packed, or held meets standards designed to assure that the biological product continues to be safe, pure, and potent; and
 
 &emsp;(ii) if the applicant (or other appropriate person) consents to the inspection of the facility that is the subject of the application, in accordance with subsection (c) of this section.
 
@@ -84,7 +84,7 @@ The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (g), (h), and 
 
 #### Amendments
 
-1997—Subsec. (a). Pub. L. 105–115, §123(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a)related to intrastate and interstate traffic in biological products and suspension or revocation of licenses as affecting prior sales.
+1997—Subsec. (a). Pub. L. 105–115, §123(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to intrastate and interstate traffic in biological products and suspension or revocation of licenses as affecting prior sales.
 
 Subsec. (b). Pub. L. 105–115, §123(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “No person shall falsely label or mark any package or container of any virus, serum, toxin, antitoxin, vaccine, blood, blood component or derivative, allergenic product, or other product aforesaid; nor alter any label or mark on any package or container of any virus, serum, toxin, antitoxin, vaccine, blood, blood component or derivative, allergenic product, or other product aforesaid so as to falsify such label or mark.”
 
@@ -210,11 +210,7 @@ Definitions.—For purposes of this section—
 
 &emsp;“(2) the term ‘Secretary’ means the Secretary of Health and Human Services.”
 
-#### Cross References
-
-Regulation of biological products for use in treatment of domestic animals, see sections 151 to 159 of Title 21, Food and Drugs.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 236, 263, 300aa–22, 300aa–23, 1396r–8 of this title; title 21 sections 321, 331, 352, 353, 355, 356, 356a, 360aa, 360bb, 360cc, 360ee, 360aaa, 360bbb–1, 379g, 381, 382, 392, 397; title 26 section 45C; title 35 section 156.
+This section is referred to in sections 236, 263, 300aa–22, 300aa–23, 1396r–8 of this title; title 21 sections 321, 331, 352, 353, 355, 356, 356a, 360aa, 360bb, 360cc, 360ee, 360aaa, 360bbb–1, 379g, 381, 382, 384, 392, 397, 823; title 26 section 45C; title 35 section 156.
 

@@ -66,16 +66,6 @@ Amendment by Pub. L. 104–201 effective Sept. 23, 1996, and applicable with res
 
 Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
 
-#### Cross References
-
-Computation of retired pay, see section 1401 of this title.
-
-Election as to computation of retired pay, see section 1402 of this title.
-
-Grade on being placed on temporary disability retired list, see section 1372 of this title.
-
-Temporary disability retired lists, see section 1376 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1201, 1203, 1204, 1205, 1206, 1207a, 1372, 1376, 1401, 1402, 1402a, 1406, 1407 of this title; title 42 section 213a.

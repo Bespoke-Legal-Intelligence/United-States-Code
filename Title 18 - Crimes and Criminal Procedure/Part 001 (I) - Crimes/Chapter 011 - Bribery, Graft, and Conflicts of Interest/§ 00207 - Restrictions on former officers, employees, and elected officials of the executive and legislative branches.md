@@ -42,7 +42,7 @@ One-Year Restrictions on Aiding or Advising.—
 
 &emsp;(1)
 
-In general.—Any person who is a former officer or employee of the executive branch of the United States (including any independent agency) and is subject to the restrictions contained in subsection (a)(1), or any person who is a former officer or employee of the legislative branch or a former Member of Congress, who personally and substantially participated in any ongoing trade or treaty negotiation on behalf of the United States within the 1-year period preceding the date on which his or her service or employment with the United States terminated, and who had access to information concerning such trade or treaty negotiation which is exempt from disclosure under section 552 of title 5, which is so designated by the appropriate department or agency, and which the person knew or should have known was so designated, shall not, on the basis of that information, knowingly represent, aid, or advise any other person (except the United States) concerning such ongoing trade or treaty negotiation for a period of 1 year after his or her service or employment with the UnitedStates terminates. Any person who violates this subsection shall be punished as provided in section 216 of this title.
+In general.—Any person who is a former officer or employee of the executive branch of the United States (including any independent agency) and is subject to the restrictions contained in subsection (a)(1), or any person who is a former officer or employee of the legislative branch or a former Member of Congress, who personally and substantially participated in any ongoing trade or treaty negotiation on behalf of the United States within the 1-year period preceding the date on which his or her service or employment with the United States terminated, and who had access to information concerning such trade or treaty negotiation which is exempt from disclosure under section 552 of title 5, which is so designated by the appropriate department or agency, and which the person knew or should have known was so designated, shall not, on the basis of that information, knowingly represent, aid, or advise any other person (except the United States) concerning such ongoing trade or treaty negotiation for a period of 1 year after his or her service or employment with the United States terminates. Any person who violates this subsection shall be punished as provided in section 216 of this title.
 
 &emsp;(2)
 
@@ -90,7 +90,7 @@ Restrictions.—In addition to the restrictions set forth in subsections (a) and
 
 &emsp;&emsp;(A) serves in the position of Vice President of the United States,
 
-&emsp;&emsp;(B) is employed in a position in the executive branch of the United States (including any independent agency) at a rate of pay payable for level I of the Executive Schedule or employed in a position in the Executive Office of the President at a rate of pay payable for level II of the Executive Schedule, or
+&emsp;&emsp;(B) is employed in a position in the executive branch of the United States (including any independent agency) at a rate of paypayable for level I of the Executive Schedule or employed in a position in the Executive Office of the President at a rate of pay payable for level II of the Executive Schedule, or
 
 &emsp;&emsp;(C) is appointed by the President to a position under section 105(a)(2)(A) of title 3 or by the Vice President to a position under section 106(a)(1)(A) of title 3,
 
@@ -110,7 +110,7 @@ Restrictions on Members of Congress and Officers and Employees of the Legislativ
 
 &emsp;(1)
 
-Members of congress and elected officers.—(A) Any person who is a Member of Congress or an elected officer of either House of Congress and who, within 1 year after that person leaves office, knowingly makes, with the intent to influence, any communication toor appearance before any of the persons described in subparagraph (B) or (C), on behalf of any other person (except the United States) in connection with any matter on which such former Member of Congress or elected officer seeks action by a Member, officer, or employee of either House of Congress, in his or her official capacity, shall be punished as provided in section 216 of this title.
+Members of congress and elected officers.—(A) Any person who is a Member of Congress or an elected officer of either House of Congress and who, within 1 year after that person leaves office, knowingly makes, with the intent to influence, any communication to or appearance before any of the persons described in subparagraph (B) or (C), on behalf of any other person (except the United States) in connection with any matter on which such former Member of Congress or elected officer seeks action by a Member, officer, or employee of either House of Congress, in his or her official capacity, shall be punished as provided in section 216 of this title.
 
 &emsp;(B) The persons referred to in subparagraph (A) with respect to appearances or communications by a former Member of Congress are any Member, officer, or employee of either House of Congress, and any employee of any other legislative office of the Congress.
 
@@ -214,7 +214,7 @@ Designations of Separate Statutory Agencies and Bureaus.—
 
 &emsp;(1)
 
-Designations.—For purposes of subsection (c) and except as provided in paragraph (2), whenever the Director of the Office of Government Ethics determines that an agency or bureau within a department or agency in the executive branch exercises functions which are distinct and separate from the remaining functions of the department or agency and that there exists no potential for use of undue influence or unfair advantage based on past Government service, the Director shall by rule designate such agency or bureau as a separatedepartment or agency. On an annual basis the Director of the Office of Government Ethics shall review the designations and determinations made under this subparagraph and, in consultation with the department or agency concerned, make such additions and deletions as are necessary. Departments and agencies shall cooperate to the fullest extent with the Director of the Office of Government Ethics in the exercise of his or her responsibilities under this paragraph.
+Designations.—For purposes of subsection (c) and except as provided in paragraph (2), whenever the Director of the Office of Government Ethics determines that an agency or bureau within a department or agency in the executive branch exercises functions which are distinct and separate from the remaining functions of the department or agency and that there exists no potential for use of undue influence or unfair advantage based on past Government service, the Director shall by rule designate such agency or bureau as a separate department or agency. On an annual basis the Director of the Office of Government Ethics shall review the designations and determinations made under this subparagraph and, in consultation with the department or agency concerned, make such additions and deletions as are necessary. Departments and agencies shall cooperate to the fullest extent with the Director of the Office of Government Ethics in the exercise of his or her responsibilities under this paragraph.
 
 &emsp;(2)
 
@@ -260,7 +260,7 @@ Special knowledge.—The restrictions contained in subsections (c), (d), and (e)
 
 &emsp;(5)
 
-Exception for scientific or technological information.—The restrictions contained in subsections (a), (c), and (d) shall not apply with respect to the making of communications solely for the purpose of furnishing scientific or technological information, if such communications are made under procedures acceptable to the department or agency concerned or if the head of the department or agency concerned with the particular matter, in consultation with the Director of the Office of Government Ethics, makes a certification, published in the Federal Register, that the former officer or employee has outstanding qualifications in a scientific, technological, or other technical discipline, and is acting with respect to a particular matter which requires such qualifications, and that the national interest would be served by the participation of the former officer or employee. For purposes of this paragraph, the term “officer or employee” includes the Vice President.
+Exception for scientific or technological information.—The restrictions contained in subsections (a), (c), and (d) shall not apply with respect to the making of communications solely for the purpose of furnishing scientific or technological information, if such communications are made under procedures acceptable to the department or agency concerned or if the head of the department or agency concerned with the particular matter, in consultation with the Director of the Office of Government Ethics, makes a certification, published in the Federal Register, that the former officer or employee has outstanding qualifications in a scientific, technological, or other technical discipline, and is acting with respect to a particular matter which requires such qualifications, and that the national interest would be served by the participation of the former officer or employee. For purposesof this paragraph, the term “officer or employee” includes the Vice President.
 
 &emsp;(6)
 
@@ -278,7 +278,7 @@ Political parties and campaign committees.—(A) Except as provided in subparagr
 
 &emsp;&emsp;(i) any communication to, or appearance before, the Federal Election Commission by a former officer or employee of the Federal Election Commission; or
 
-&emsp;&emsp;(ii) a communication or appearance made by a person who is subject to the restrictionscontained in subsections <sup>1</sup> (c), (d), or (e) if, at the time of the communication or appearance, the person is employed by a person or entity other than—
+&emsp;&emsp;(ii) a communication or appearance made by a person who is subject to the restrictions contained in subsections <sup>1</sup> (c), (d), or (e) if, at the time of the communication or appearance, the person is employed by a person or entity other than—
 
 &emsp;&emsp;&emsp;(I) a candidate, an authorized committee, a national committee, a national Federal campaign committee, a State committee, or a political party; or
 
@@ -392,7 +392,7 @@ Subsec. (c)(1). Pub. L. 101–280, §2(a)(5)(A), amended subsec. (c)(1), as amen
 
 Subsec. (c)(2)(A)(i). Pub. L. 101–280, §2(a)(5)(B)(i), amended subsec. (c)(2)(A)(i), as amended by Pub. L. 101–194, by inserting “specified in or” after “employed at a rate of pay” and striking out “or a comparable or greater rate of pay under other authority,” after “chapter 53 of title 5,”.
 
-Subsec. (c)(2)(A)(ii). Pub. L. 101–509, §529 \[title I, §101(b)(8)(A)(i)\], added cl. (ii) and struck out former cl. (ii) which read as follows: “employed in a position which is not referred to in clause (i) and for which therate of basic pay is equal to or greater than the rate of basic pay payable for GS–17 of the General Schedule,”.
+Subsec. (c)(2)(A)(ii). Pub. L. 101–509, §529 \[title I, §101(b)(8)(A)(i)\], added cl. (ii) and struck out former cl. (ii) which read as follows: “employed in a position which is not referred to in clause (i) and for which the rate of basic pay is equal to or greater than the rate of basic pay payable for GS–17 of the General Schedule,”.
 
 Pub. L. 101–280, §2(a)(5)(B)(ii), amended subsec. (a)(2)(A)(ii), as amended by Pub. L. 101–194, by substituting “rate of basic” for “basic rate of” wherever appearing.
 
@@ -444,7 +444,7 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 #### Effective Date of 1995 Amendment
 
-Section 21(c) of Pub. L. 104–65 provided that: “The amendments made by this section \[amending this section and section 2171 of Title 19, Customs Duties\] shall apply with respect to an individual appointed as United States Trade Representative or as a Deputy UnitedStates Trade Representative on or after the date of enactment of this Act \[Dec. 19, 1995\].”
+Section 21(c) of Pub. L. 104–65 provided that: “The amendments made by this section \[amending this section and section 2171 of Title 19, Customs Duties\] shall apply with respect to an individual appointed as United States Trade Representative or as a Deputy United States Trade Representative on or after the date of enactment of this Act \[Dec. 19, 1995\].”
 
 #### Effective Date of 1992 Amendment
 
@@ -496,7 +496,7 @@ Prior to the effective date of the amendment by Pub. L. 101–194, section 207 r
 
 &emsp;“(2) in connection with any judicial or other proceeding, application, request for a ruling or other determination, contract, claim, controversy, investigation, charge, accusation, arrest or other particular matter involving a specific party or parties in which the United States or the District of Columbia is a party or has a direct and substantial interest, and
 
-&emsp;“(3) as to (i), which was actually pending under his official responsibility as an officer or employee within a period of one year prior to the termination of such responsibility, or, as to (ii), in which he participated personally and substantially as an officer or employee; or
+&emsp;“(3) as to (i), which was actually pending under his official responsibility as an officer or employee within a period of one year prior to the termination ofsuch responsibility, or, as to (ii), in which he participated personally and substantially as an officer or employee; or
 
 “(c) Whoever, other than a special Government employee who serves for less than sixty days in a given calendar year, having been so employed as specified in subsection (d) of this section, within one year after such employment has ceased, knowingly acts as agent or attorney for, or otherwise represents, anyone other than the United States in any formal or informal appearance before, or, with the intent to influence, makes any oral or written communication on behalf of anyone other than the United States, to—
 
@@ -514,7 +514,7 @@ Prior to the effective date of the amendment by Pub. L. 101–194, section 207 r
 
 &emsp;“(B) on active duty as a commissioned officer of a uniformed service assigned to pay grade of O–9 or above as described in section 201 of title 37, United States Code; or
 
-&emsp;“(C) in a position which involves significant decision-making or supervisory responsibility, as designated under this subparagraph by the Director of the Office of Government Ethics, in consultation with the department or agency concerned. Only positions which are not covered by subparagraphs (A) and (B) above, and for which the basic rate of pay is equal to or greater than the basic rate of pay for GS–17 of theGeneral Schedule prescribed by section 5332 of title 5, United States Code, or positions which are established within the Senior Executive Service pursuant to the Civil Service Reform Act of 1978, or positions of active duty commissioned officers of the uniformed services assigned to pay O–7 or O–8, as described in section 201 of title 37, United States Code, may be designated. As to persons in positions designated under this subparagraph, the Director may limit the restrictions of subsection (c) to permit a former officer or employee, who served in a separate agency or bureau within a department or agency, to make appearances before or communications to persons in an unrelated agency or bureau, within the same department or agency, having separate and distinct subject matter jurisdiction, upon a determination by the Director that there exists no potential for use of undue influence or unfair advantage based on past government service. On an annual basis, the Director of the Office of Government Ethics shall review the designations and determinations made under this subparagraph and, in consultation with the department or agency concerned, make such additions and deletions as are necessary. Departments and agencies shall cooperate to the fullest extent with the Director of the Office of Government Ethics in the exercise of his responsibilities under this paragraph.
+&emsp;“(C) in a position which involves significant decision-making or supervisory responsibility, as designated under this subparagraph by the Director of the Office of Government Ethics, in consultation with the department or agency concerned. Only positions which are not covered by subparagraphs (A) and (B) above, and for which the basic rate of pay is equal to or greater than the basic rate of pay for GS–17 of the General Schedule prescribed by section 5332 of title 5, United States Code, or positions which are established within the Senior Executive Service pursuant to the Civil Service Reform Act of 1978, or positions of active duty commissioned officers of the uniformed services assigned to pay O–7 or O–8, as described in section 201 of title 37, United States Code, may be designated. As to persons in positions designated under this subparagraph, the Director may limit the restrictions of subsection (c) to permit a former officer or employee, who served in a separate agency or bureau within a department or agency, to make appearances before or communications to persons in an unrelated agency or bureau, within the same department or agency, having separate and distinct subject matter jurisdiction, upon a determination by the Director that there exists no potential for use of undue influence or unfair advantage based on past government service. On an annual basis, the Director of the Office of Government Ethics shall review the designations and determinations made under this subparagraph and, in consultation with the department or agency concerned, make such additions and deletions as are necessary. Departments and agencies shall cooperate to the fullest extent with the Director of the Office of Government Ethics in the exercise of his responsibilities under this paragraph.
 
 “(2) The prohibition of subsection (c) shall not apply to appearances, communications, or representation by a former officer or employee, who is—
 
@@ -532,7 +532,7 @@ Prior to the effective date of the amendment by Pub. L. 101–194, section 207 r
 
 “(i) The prohibition contained in subsection (c) shall not apply to appearances or communications by a former officer or employee concerning matters of a personal and individual nature, such as personal income taxes or pension benefits; nor shall the prohibition of that subsection prevent a former officer or employee from making or providing a statement, which is based on the former officer's or employee's own special knowledge in the particular area that is the subject of the statement, provided that no compensation is thereby received, other than that regularly provided for by law or regulation for witnesses.
 
-“(j) If the head of the department or agency in which the former officer or employee served finds, after notice and opportunity for a hearing, that such former officer or employee violated subsection (a), (b), or (c) of this section, such department or agency head may prohibit that person from making, on behalf of any other person (except the United States), any informal or formal appearance before, or, with the intent to influence, any oral or written communication to, such department or agency on a pending matter of business for a period not to exceed five years, or may take other appropriate disciplinary action. Such disciplinary action shall be subject to review in an appropriate United States district court. No later than six months after the effective date of this Act, departments and agencies shall, in consultation with the Director of the Office of Government Ethics, establish procedures to carry out this subsection.
+“(j) If the head of the department or agency in which the former officer or employee served finds, after notice and opportunity for a hearing, that such former officer or employee violated subsection (a), (b), or (c) of this section, such department or agency head may prohibit that person from making, on behalf of any other person (except the United States), any informal or formal appearance before, or, with the intent to influence,any oral or written communication to, such department or agency on a pending matter of business for a period not to exceed five years, or may take other appropriate disciplinary action. Such disciplinary action shall be subject to review in an appropriate United States district court. No later than six months after the effective date of this Act, departments and agencies shall, in consultation with the Director of the Office of Government Ethics, establish procedures to carry out this subsection.
 
 “(k)(1)(A) The President may grant a waiver of a restriction imposed by this section to any officer or employee described in paragraph (2) if the President determines and certifies in writing that it is in the public interest to grant the waiver and that the services of the officer or employee are critically needed for the benefit of the Federal Government. Not more than 25 officers and employees currently employed by the Federal Government at any one time may have been granted waivers under this paragraph.
 
@@ -586,29 +586,9 @@ For provisions relating to treatment of agencies within the Executive Office of 
 
 Exemptions from former section 284 of this title deemed to be exemptions from this section, see section 2 of Pub. L. 87–849, set out as a note under section 203 of this title.
 
-#### Canal Zone
-
-Applicability of section to Canal Zone, see section 14 of this title.
-
-#### Cross References
-
-American Institute in Taiwan, employees in representing Institute to be exempt from this section, see section 3310 of Title 22, Foreign Relations and Intercourse.
-
-Authority of Committee on House Oversight of House of Representatives to combine House Clerk Hire Allowance into Members’ Representational Allowance, see section 57b of Title 2, The Congress.
-
-Definitions, see section 202 of this title.
-
-Memorandum of Attorney General regarding conflict of interest provisions, see note under section 201 of this title.
-
-Officials appointed under laws and regulations of the Universal Military Training and Service System, nonapplicability of this section to, see section 463 of Title 50, Appendix, War and National Defense.
-
-Surplus property, disposal of, restriction on practice by former Government officers and employees and commissioned officers, see section 471 et seq. of Title 40, Public Buildings, Property, and Works.
-
-Wartime suspension of limitations, see section 3287 of this title.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 14, 202, 216 of this title; title 5 sections 568, 3374; title 12 section 2245; title 16 section 459b–7; title 19 section 2171; title 20 section 1018; title 22 sections 3310, 3507, 3508, 3613, 3622; title 25 section 450i; title 26 section 7802; title 28 section 594; title 30 section 663; title 38 section 5902; title 40 App. section 108; title 42 sections 1396a, 2297h–3; title 48 section 1907; title 50 section 405; title 50 App. section 463.
+This section is referred to in sections 14, 202, 216 of this title; title 5 sections 568, 3374; title 7 section 2009aa–1; title 10 section 9447; title 12 section 2245; title 16 section 459b–7; title 19 section 2171; title 20 section 1018; title 22 sections 3310, 3507, 3508, 3613, 3622; title 25 section 450i; title 26 section 7802; title 28 section 594; title 30 section 663; title 35 section 3; title 38 section 5902; title 40 App. section 108; title 42 sections 1396a, 2297h–3; title 48 section 1907; title 50 section 405; title 50 App. section 463.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
 

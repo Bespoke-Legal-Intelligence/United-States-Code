@@ -8,9 +8,9 @@ For purposes of this section:
 
 &emsp;(2) The term “new source” means any stationary source, the construction or modification of which is commenced after the publication of regulations (or, if earlier, proposed regulations) prescribing a standard of performance under this section which will be applicable to such source.
 
-&emsp;(3) The term “stationary source” means any building, structure, facility, or installation which emits or may emit any air pollutant. Nothing in subchapter II of this chapter relating to nonroad engines shall be construed to apply to stationary internal combustion engines.
+&emsp;(3) The term “stationary source” means any building, structure, facility, or installationwhich emits or may emit any air pollutant. Nothing in subchapter II of this chapter relating to nonroad engines shall be construed to apply to stationary internal combustion engines.
 
-&emsp;(4) The term “modification” means any physical change in, or change in the method ofoperation of, a stationary source which increases the amount of any air pollutant emitted by such source or which results in the emission of any air pollutant not previously emitted.
+&emsp;(4) The term “modification” means any physical change in, or change in the method of operation of, a stationary source which increases the amount of any air pollutant emitted by such source or which results in the emission of any air pollutant not previously emitted.
 
 &emsp;(5) The term “owner or operator” means any person who owns, leases, operates, controls, or supervises a stationary source.
 
@@ -48,7 +48,7 @@ For purposes of this section:
 
 #### (d) Standards of performance for existing sources; remaining useful life of source
 
-(1) The Administrator shall prescribe regulations which shall establish a procedure similar to that provided by section 7410 of this title under which each State shall submit to the Administrator a plan which (A) establishes standards of performance for any existing source for any air pollutant (i) for which air quality criteria have not been issued or which is not included on a list published under section 7408(a) of this title or emitted from a source category which is regulated under section 7412 of this title but (ii) to which a standard of performance under this section would apply if such existing source were a new source, and (B) provides for the implementation and enforcement of such standards of performance. Regulations of the Administrator under this paragraph shall permit the State in applying a standard of performance to any particular source under a plan submitted under this paragraph to take into consideration, among other factors, the remaining useful life of the existing source to which such standard applies.
+(1) The Administrator shall prescribe regulations which shall establish a procedure similar to that provided by section 7410 of this title under which each State shall submit to the Administrator a plan which (A) establishes standards of performance for any existing source for any air pollutant (i) for which air quality criteria have not been issued or which is not included on a list published under section 7408(a) of this title or emitted from a source category which is regulated under section 7412 of this title but (ii) to which a standard of performanceunder this section would apply if such existing source were a new source, and (B) provides for the implementation and enforcement of such standards of performance. Regulations of the Administrator under this paragraph shall permit the State in applying a standard of performance to any particular source under a plan submitted under this paragraph to take into consideration, among other factors, the remaining useful life of the existing source to which such standard applies.
 
 (2) The Administrator shall have the same authority—
 
@@ -108,7 +108,7 @@ After the effective date of standards of performance promulgated under this sect
 
 #### (h) Design, equipment, work practice, or operational standard; alternative emission limitation
 
-(1) For purposes of this section, if in the judgment of the Administrator, it is not feasible to prescribe or enforce a standard of performance, he may instead promulgate a design, equipment, work practice, or operational standard, or combination thereof, which reflects the best technological system of continuous emission reduction which (taking into consideration the cost of achieving such emission reduction, and any non-air quality health and environmental impact and energy requirements) the Administrator determines has been adequately demonstrated. In the event the Administrator promulgates a design or equipment standard under this subsection, he shall include as part of such standard such requirements as will assure the proper operation and maintenance of any such element of design or equipment.
+(1) For purposes of this section, if in the judgment of the Administrator, it is not feasible toprescribe or enforce a standard of performance, he may instead promulgate a design, equipment, work practice, or operational standard, or combination thereof, which reflects the best technological system of continuous emission reduction which (taking into consideration the cost of achieving such emission reduction, and any non-air quality health and environmental impact and energy requirements) the Administrator determines has been adequately demonstrated. In the event the Administrator promulgates a design or equipment standard under this subsection, he shall include as part of such standard such requirements as will assure the proper operation and maintenance of any such element of design or equipment.
 
 (2) For the purpose of this subsection, the phrase “not feasible to prescribe or enforce a standard of performance” means any situation in which the Administrator determines that (A) a pollutant or pollutants cannot be emitted through a conveyance designed and constructed to emit or capture such pollutant, or that any requirement for, or use of, such a conveyance would be inconsistent with any Federal, State, or local law, or (B) the application of measurement methodology to a particular class of sources is not practicable due to technological or economic limitations.
 
@@ -206,7 +206,7 @@ Subsec. (f)(1). Pub. L. 101–549, §108(e)(2), amended par. (1) generally, subs
 
 Subsec. (g)(5) to (8). Pub. L. 101–549, §302(b), redesignated par. (7) as (5) and struck out “or section 7412 of this title” after “this section”, redesignated par. (8) as (6), and struck out former pars. (5) and (6) which read as follows:
 
-“(5) Upon application by the Governor of a State showing that the Administrator has failed to list any air pollutant which causes, or contributes to, air pollution which may reasonably be anticipated to result in an increase in mortality or an increase in serious irreversible, or incapacitating reversible, illness as a hazardous air pollutant under section 7412 of this title the Administrator shall revise the list of hazardous air pollutants under such section to include such pollutant.
+“(5) Upon application by the Governor of a State showing that the Administrator has failed to list any air pollutant which causes, or contributes to, air pollution which may reasonably be anticipated to result in an increase in mortality or an increase in serious irreversible, or incapacitating reversible, illness as a hazardous air pollutant under section 7412 of this title theAdministrator shall revise the list of hazardous air pollutants under such section to include such pollutant.
 
 “(6) Upon application by the Governor of a State showing that any category of stationary sources of a hazardous air pollutant listed under section 7412 of this title is not subject to emission standards under such section, the Administrator shall propose and promulgate such emission standards applicable to such category of sources.”
 
@@ -270,7 +270,7 @@ Suits, actions, and other proceedings lawfully commenced by or against the Admin
 
 #### Modification or Rescission of Rules, Regulations, Orders, Determinations, Contracts, Certifications, Authorizations, Delegations, and Other Actions
 
-All rules, regulations, orders, determinations, contracts, certifications, authorizations, delegations, or other actions duly issued, made, or taken by or pursuant to act July 14, 1955, the Clean Air Act, as in effect immediately prior to the date of enactment of Pub. L. 95–95 \[Aug. 7, 1977\] to continue in full force and effect until modified or rescinded in accordance with act July 14, 1955, as amended by Pub. L. 95–95 \[this chapter\], see section 406(b) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
+All rules, regulations, orders, determinations, contracts, certifications, authorizations, delegations, or other actions duly issued, made, or taken by or pursuant to act July 14, 1955, the Clean Air Act, as in effect immediately prior to the date of enactment of Pub. L. 95–95 \[Aug. 7, 1977\] to continue in full force and effect until modified or rescinded in accordance with act July 14, 1955, as amended by Pub. L. 95–95 \[this chapter\], seesection 406(b) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
 
 #### Section Referred to in Other Sections
 

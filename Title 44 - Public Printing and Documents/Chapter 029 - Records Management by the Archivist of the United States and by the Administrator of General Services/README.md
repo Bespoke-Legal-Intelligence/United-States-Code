@@ -16,29 +16,17 @@
 | [2907\.](%C2%A7%2002907%20-%20Records%20centers%20and%20centralized%20microfilming%20services.md) | Records centers and centralized microfilming services. |
 | [2908\.](%C2%A7%2002908%20-%20Regulations.md) | Regulations. |
 | [2909\.](%C2%A7%2002909%20-%20Retention%20of%20records.md) | Retention of records. |
-| \[2910. | Repealed.\] |
+| [2910\.](%C2%A7%2002910%20-%20Preservation%20of%20Freedmen%27s%20Bureau%20records.md) | Preservation of Freedmen's Bureau records. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
+2000—Pub. L. 106–444, §2(b), Nov. 6, 2000, 114 Stat. 1929, added item 2910.
+
 1984—Pub. L. 98–497, title I, §107(b)(18)(A), Oct. 19, 1984, 98 Stat. 2290, inserted “THE ARCHIVIST OF THE UNITED STATES AND BY THE” in chapter heading.
 
 1976—Pub. L. 94–575, §2(b), Oct. 21, 1976, 90 Stat. 2726, substituted “Objectives of records management” for “Records management, surveys, and reports” in item 2902, “General responsibilities of Administrator” for “Records management by Administrator; duties generally” in item 2904, “Inspection of agency records” for “Personal inspection and survey of records” in item 2906, “Records centers and centralized microfilming services” for “Records centers for storage, process, and servicing of records” in item 2907, reenacted without change items 2901, 2903, 2905, 2908, and 2909, and struck out item 2910 “Final authority of Administrator in records practices”.
-
-#### Cross References
-
-Accounting systems, forms, and procedures: authority of Comptroller General; settlement of accounts of collecting and disbursing officers with General Accounting Office, responsibility for, see section 3107 of this title.
-
-Exemptions from provisions of this chapter, see section 474 of Title 40, Public Buildings, Property, and Works.
-
-Federal agency management program to provide for compliance with this chapter and regulations thereunder, see section 3102 of this title.
-
-General Services Administration, see section 751 et seq. of Title 40, Public Buildings, Property, and Works.
-
-Legal status of reproductions made under regulations to carry out this chapter, see section 2116 of this title.
-
-Reports from Federal agencies on their activities under this chapter, authority of Archivist and Administrator of General Services to obtain; correction of violations, see section 2115 of this title.
 
 #### Chapter Referred to in Other Sections
 
@@ -60,4 +48,4 @@ This chapter is referred to in sections 2115, 2116, 3107, 3504 of this title; ti
 - [&sect; 02907 - Records centers and centralized microfilming services](%C2%A7%2002907%20-%20Records%20centers%20and%20centralized%20microfilming%20services.md)
 - [&sect; 02908 - Regulations](%C2%A7%2002908%20-%20Regulations.md)
 - [&sect; 02909 - Retention of records](%C2%A7%2002909%20-%20Retention%20of%20records.md)
-- [&sect; 02910 - Repealed. Pub. L. 94&#8211;575, &sect;2(a)(4), Oct. 21, 1976, 90 Stat. 2726](%C2%A7%2002910%20-%20Repealed.%20Pub.%20L.%2094%E2%80%93575%2C%20%C2%A72%28a%29%284%29%2C%20Oct.%2021%2C%201976%2C%2090%20Stat.%202726.md)
+- [&sect; 02910 - Preservation of Freedmen's Bureau records](%C2%A7%2002910%20-%20Preservation%20of%20Freedmen%27s%20Bureau%20records.md)

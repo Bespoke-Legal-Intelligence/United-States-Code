@@ -12,10 +12,6 @@ The several district courts of the United States are vested with jurisdiction sp
 
 Act June 25, 1948, eff. Sept. 1, 1948, substituted “United States attorneys” for “district attorneys”. See section 541 of Title 28, Judiciary and Judicial Procedure, and Historical and Revision Notes thereunder.
 
-#### Cross References
-
-Jurisdiction of district courts of actions for recovery of penalties, see section 1355 of Title 28, Judiciary and Judicial Procedure.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1314–1 of this title.

@@ -180,7 +180,7 @@ Effective October 1, 1979, the aggregate principal amount of loans under the pro
 
 #### (B) Limitation
 
-&emsp;&emsp;The Secretary shall limit the transfer of funds under subparagraph (A) so that all guaranteed farm operating loans that havebeen approved, or will be approved, by the Secretary during the fiscal year will be made to the extent of available amounts.
+&emsp;&emsp;The Secretary shall limit the transfer of funds under subparagraph (A) so that all guaranteed farm operating loans that have been approved, or will be approved, by the Secretary during the fiscal year will be made to the extent of available amounts.
 
 #### (4) Transfer for credit sales of farm inventory property
 
@@ -228,13 +228,13 @@ Subsec. (b)(5), (6). Pub. L. 102–554, §20(a), (e), added pars. (5) and (6).
 
 Subsec. (b)(3)(C). Pub. L. 102–237, §701(h)(1)(F), substituted “this chapter” for “this Act” in two places.
 
-1990—Subsec. (b). Pub. L. 101–624, §2388(i), which amended subsec. (b), in par. (1)(B), by striking “subparagraph (C)” and inserting “paragraph (3)”; in par. (1)(C), by striking “subparagraph (A)” and inserting “paragraph (1)”; by redesignating pars. (1)(A), (B), (C), (D)(i), and (E) as (1), (2), (3), (4), and (5), respectively; in par. (2), by redesignating cls. (i), (ii), and (iii) as subpars. (A), (B), and (C), respectively; in subpars. (A) to (C) of par. (2), by redesignating subcls. (I) and (II) as cls. (i) and (ii), respectively; and in par. (5), by redesignating cls. (i), (ii), and (iii) as subpars. (A), (B), and (C), respectively, was repealed by Pub. L. 102–237, §702(i). See Construction of 1990 Amendment note below.
+1990—Subsec. (b). Pub. L. 101–624, §2388(i), which amended subsec. (b), in par. (1)(B), by striking “subparagraph (C)” and inserting “paragraph (3)”; in par. (1)(C), by striking “subparagraph (A)” and inserting “paragraph (1)”; by redesignating pars. (1)(A), (B), (C),\(D)(i), and (E) as (1), (2), (3), (4), and (5), respectively; in par. (2), by redesignating cls. (i), (ii), and (iii) as subpars. (A), (B), and (C), respectively; in subpars. (A) to (C) of par. (2), by redesignating subcls. (I) and (II) as cls. (i) and (ii), respectively; and in par. (5), by redesignating cls. (i), (ii), and (iii) as subpars. (A), (B), and (C), respectively, was repealed by Pub. L. 102–237, §702(i). See Construction of 1990 Amendment note below.
 
 Pub. L. 101–508, §1202(a), amended subsec. (b) generally, substituting present provisions for provisions relating to maximum amounts for loans under the Agricultural Credit Insurance Fund and the Rural Development Insurance Fund for fiscal years 1986 through 1988.
 
 1985—Subsec. (b). Pub. L. 99–198, §1317(a), amended subsec. (b) generally, substituting provisions setting maximum amounts for loans under the Agricultural Credit Insurance Fund and the Rural Development Insurance Fund for each of fiscal years ending September 30, 1986, through September 30, 1988, for provisions setting such amounts for each of fiscal years 1980, 1981, and 1982.
 
-Subsecs. (d), (e). Pub. L. 99–198, §1317, struck out subsec. (d) which authorized special amounts for fiscalyear 1982, redesignated subsec. (e) as (d), and in par. (1) substituted “25 per centum” for “20 per centum” wherever appearing and “each fiscal year” for “fiscal year 1984”.
+Subsecs. (d), (e). Pub. L. 99–198, §1317, struck out subsec. (d) which authorized special amounts for fiscal year 1982, redesignated subsec. (e) as (d), and in par. (1) substituted “25 per centum” for “20 per centum” wherever appearing and “each fiscal year” for “fiscal year 1984”.
 
 1984—Subsec. (e). Pub. L. 98–258 added subsec. (e).
 

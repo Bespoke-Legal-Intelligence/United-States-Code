@@ -44,7 +44,7 @@ Not later than 18 months after October 9, 1996, the Secretary shall cease produc
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (c)(2), is act June 30,1949, ch. 288, 63 Stat. 377, as amended. Provisions of that Act relating to disposal of government property are classified to chapter 10 (§471 et seq.) of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (c)(2), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Provisions of that Act relating to disposal of government property are classified to chapter 10 (§471 et seq.) of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
 
 #### Prior Provisions
 

@@ -4,12 +4,6 @@ A Federal reserve bank shall include in its title the name of the city in which 
 
 (Dec. 23, 1913, ch. 6, §2, 38 Stat. 252.)
 
-#### Cross References
-
-Designation of cities, see section 141 of this title.
-
-Jurisdiction of actions by or against Federal reserve banks, see section 632 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 481 of this title.

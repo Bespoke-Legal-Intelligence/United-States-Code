@@ -24,7 +24,7 @@ Requirements.—Each project selected under this section shall include at least 
 
 &emsp;(A) In supporting projects selected under subsection (c) of this section, the Secretary may choose from among the forms of agreements described in section 13541 of this title.
 
-&emsp;(B) In supporting projects selected under subsection (c) of this section, the Secretary may also enter into agreements with private lenders to pay a portion of the interest on loans made for such projects.
+&emsp;(B) In supporting projects selected under subsection (c) of this section, the Secretarymay also enter into agreements with private lenders to pay a portion of the interest on loans made for such projects.
 
 #### (3) Cost sharing
 
@@ -130,7 +130,7 @@ There are authorized to be appropriated to the Secretary for carrying out this s
 
 #### Amendments
 
-1992—Pub. L. 102–486 amended section generally, substituting provisions relating to demonstration and commercial application projects for renewable energy and energy efficiency technologies for provisions relating to use of joint ventures to further commercialization of renewable energy and energy efficiency technologies.
+1992—Pub. L. 102–486 amended section generally, substituting provisions relating to demonstration andcommercial application projects for renewable energy and energy efficiency technologies for provisions relating to use of joint ventures to further commercialization of renewable energy and energy efficiency technologies.
 
 #### Termination of Advisory Committees
 

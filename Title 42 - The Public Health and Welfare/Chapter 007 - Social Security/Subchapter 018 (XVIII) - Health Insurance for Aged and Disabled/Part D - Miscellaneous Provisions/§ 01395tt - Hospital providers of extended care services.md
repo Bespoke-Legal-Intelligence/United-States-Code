@@ -4,7 +4,7 @@
 
 (1) Any hospital which has an agreement under section 1395cc of this title may (subject to subsection (b) of this section) enter into an agreement with the Secretary under which its inpatient hospital facilities may be used for the furnishing of services of the type which, if furnished by a skilled nursing facility, would constitute extended care services.
 
-(2)(A) Notwithstanding any other provision of this subchapter, payment to any hospital for services furnished under an agreement entered into under this section shall be based upon the reasonable cost of the services as determined under subparagraph (B).
+(2)(A) Notwithstanding any other provision of this subchapter, payment to any hospital (other than a critical access hospital) for services furnished under an agreement entered into under this section shall be based upon the reasonable cost of the services as determined under subparagraph (B).
 
 (B)(i) The reasonable cost of the services consists of the reasonable cost of routine services (determined under clause (ii)) and the reasonable cost of ancillary services (determined under clause (iii)).
 
@@ -12,9 +12,11 @@
 
 &emsp;(I) the number of patient-days during the year for which the services were furnished, and
 
-&emsp;(II) the average reasonable cost per patient-day, such average reasonable cost per patient-day being the average rate per patient-day paid for routine services during the most recent year for which cost reporting data are available with respect to such services (increased in a compounded manner by the applicable increase for payments for routine service costs of skilled nursing facilities under subsections (a) through (d) of section 1395yy of this title for subsequent cost reporting periods and up to and including such calendar year) under this subchapter to freestanding skilled nursing facilities in the region (as defined in section 1395ww(d)(2)(D) of this title) in which the facility is located.
+&emsp;(II) the average reasonable cost per patient-day, such average reasonable cost per patient-day being the average rate per patient-day paid for routine services during the most recent year for which cost reporting data are available with respect to such services (increased in a compounded manner by the applicable increase for payments for routine service costs of skilled nursing facilities under subsections (a) through (d) of section 1395yy of this title for subsequent cost reporting periods and up to and including such calendar year) under this subchapter to freestanding skillednursing facilities in the region (as defined in section 1395ww(d)(2)(D) of this title) in which the facility is located.
 
 (iii) The reasonable cost of ancillary services shall be determined in the same manner as the reasonable cost of ancillary services provided for inpatient hospital services.
+
+(3) Notwithstanding any other provision of this subchapter, a critical access hospital shall be paid for covered skilled nursing facility services furnished under an agreement entered into under this section on the basis of the reasonable costs of such services (as determined under section 1395x(v) of this title).
 
 #### (b) Eligible facilities
 
@@ -34,15 +36,19 @@ During a period for which a hospital has in effect an agreement under this secti
 
 #### (f) Conditions applicable to skilled nursing facilities
 
-A hospital which enters into an agreement with the Secretary under this section shall be required to meet those conditions applicable to skilled nursing facilities relating to discharge planning and the social services function (and staffing requirements to satisfy it) which are promulgated by the Secretary under section 1395i–3 of this title. Services furnished by such a hospital which would otherwise constitute post-hospital extended care services if furnished by a skilled nursing facility shall be subject to the same requirements applicable to such serviceswhen furnished by a skilled nursing facility except for those requirements the Secretary determines are inappropriate in the case of these services being furnished by a hospital under this section.
+A hospital which enters into an agreement with the Secretary under this section shall be required to meet those conditions applicable to skilled nursing facilities relating to discharge planning and the social services function (and staffing requirements to satisfy it) which are promulgated by the Secretary under section 1395i–3 of this title. Services furnished by such a hospital which would otherwise constitute post-hospital extended care services if furnished by a skilled nursing facility shall be subject to the same requirements applicable to such services when furnished by a skilled nursing facility except for those requirements the Secretary determines are inappropriate in the case of these services being furnished by a hospital under this section.
 
 #### (g) Agreements on demonstration basis
 
 The Secretary may enter into an agreement under this section on a demonstration basis with any hospital which does not meet the requirement of subsection (b)(1) of this section, if the hospital otherwise meets the requirements of this section.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1883, as added Pub. L. 96–499, title IX, §904(a)(1), Dec. 5, 1980, 94 Stat. 2615; amended Pub. L. 100–203, title IV, §§4005(b)(1), (2), 4201(d)(3), Dec. 22, 1987, 101 Stat. 1330–48, as amended Pub. L. 100–360, title IV, §411(<i>l</i>)(1)(C), July 1, 1988, as added Pub. L. 100–485, title VI, §608(d)(27)(B), Oct. 13, 1988, 102 Stat. 2422; Pub. L. 100–360, title I, §104(d)(6), title IV, §411(b)(4)(D), July 1, 1988, 102 Stat. 689, 770; Pub. L. 101–234, title I, §101(a), Dec. 13, 1989, 103 Stat. 1979; Pub. L. 101–508, title IV, §4008(j)(1), Nov. 5, 1990, 104 Stat. 1388–51; Pub. L. 105–33, title IV, §4432(b)(5)(G), Aug. 5, 1997, 111 Stat. 422; Pub. L. 106–113, div. B, §1000(a)(6) \[title IV, §§403(f), 408(a), (b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–371, 1501A–375.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1883, as added Pub. L. 96–499, title IX, §904(a)(1), Dec. 5, 1980, 94 Stat. 2615; amended Pub. L. 100–203, title IV, §§4005(b)(1), (2), 4201(d)(3), Dec. 22, 1987, 101 Stat. 1330–48, as amended Pub. L. 100–360, title IV, §411(<i>l</i>)(1)(C), July 1, 1988, as added Pub. L. 100–485, title VI, §608(d)(27)(B), Oct. 13, 1988, 102 Stat. 2422; Pub. L. 100–360, title I, §104(d)(6), title IV, §411(b)(4)(D), July 1, 1988, 102 Stat. 689, 770; Pub. L. 101–234, title I, §101(a), Dec. 13, 1989, 103 Stat. 1979; Pub. L. 101–508, title IV, §4008(j)(1), Nov. 5, 1990, 104 Stat. 1388–51; Pub. L. 105–33, title IV, §4432(b)(5)(G), Aug. 5, 1997, 111 Stat. 422; Pub. L. 106–113, div. B, §1000(a)(6) \[title IV, §§403(f), 408(a), (b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–371, 1501A–375; Pub. L. 106–554, §1(a)(6) \[title II, §203(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–482.)
 
 #### Amendments
+
+2000—Subsec. (a)(2)(A). Pub. L. 106–554, §1(a)(6) \[title II, §203(b)(1)\], inserted “(other than a critical access hospital)” after “any hospital”.
+
+Subsec. (a)(3). Pub. L. 106–554, §1(a)(6) \[title II, §203(b)(2)\], added par. (3).
 
 1999—Subsec. (a)(1). Pub. L. 106–113, §1000(a)(6) \[title IV, §403(f)(1)\], struck out “(other than a hospital which has in effect a waiver under subparagraph (A) of the last sentence of section 1395x(e) of this title)” after “Any hospital”.
 
@@ -75,6 +81,10 @@ Pub. L. 100–360, §104(d)(6), struck out “post-hospital” before “extende
 Subsec. (d). Pub. L. 100–203, §4005(b)(2), designated existing provisions as par. (1) and added pars. (2) and (3).
 
 Subsec. (f). Pub. L. 100–203, §4201(d)(3), as added by Pub. L. 100–360, §411(<i>l</i>)(1)(C), and Pub. L. 100–485, §608(d)(27)(B), substituted “section 1395i–3” for “section 1395x(j)(15)”.
+
+#### Effective Date of 2000 Amendment
+
+Pub. L. 106–554, §1(a)(6) \[title II, §203(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–482, provided that: “The amendments made by this section \[amending this section and section 1395yy of this title\] shall apply to cost reporting periods beginning on or after the date of the enactment of this Act \[Dec. 21, 2000\].”
 
 #### Effective Date of 1999 Amendment
 
@@ -112,7 +122,7 @@ Section 904(d) of Pub. L. 96–499 provided that: “The amendments made by this
 
 #### Hold Harmless for Amendment by Pub. L. 101–508
 
-Section 4008(j)(2) of Pub. L. 101–508 provided that: “If, as a result of the amendment made by paragraph (1) \[amending this section\], the reasonable cost of routine services furnished by a hospital during a calendar year (as determined under section 1883 of the Social Security Act \[this section\]) is less than the reasonable cost of such services determined under such section for the previous calendar year, the reasonable cost of such services furnished by the hospital during the calendar year under such section shall be equal to the reasonable cost determined under such section for the previous calendar year.”
+Section 4008(j)(2) of Pub. L. 101–508 provided that: “If, as a result of the amendment made by paragraph (1) \[amending this section\], the reasonable cost of routine services furnished by a hospital during a calendar year\(as determined under section 1883 of the Social Security Act \[this section\]) is less than the reasonable cost of such services determined under such section for the previous calendar year, the reasonable cost of such services furnished by the hospital during the calendar year under such section shall be equal to the reasonable cost determined under such section for the previous calendar year.”
 
 #### Swing Beds Certified Prior to May 1, 1987
 

@@ -6,7 +6,7 @@ Except as provided in subsection (b) of this section, contracts awarded after us
 
 #### (b) Barred contracts; fee limitation; determination of use; advance notification
 
-The cost-plus-a-percentage-of-cost system of contracting shall not be used, and in the case of a cost-plus-a-fixed-fee contract the fee shall not exceed 10 percent of the estimated cost of the contract, exclusive of the fee, as determined by the agency head at the time of entering into such contract (except that a fee not in excess of 15 percent of such estimated cost is authorized in any such contract for experimental, developmental, or research work and that a fee inclusive of the contractor's costs and not in excess of 6 percent of the estimated cost, exclusive of fees, as determined by the agency head at the time of entering into the contract, of the project to which such fee is applicable is authorized in contracts for architectural or engineering services relating to any public works or utility project). All cost and cost-plus-a-fixed-fee contracts shall provide for advance notification by the contractor to the procuring agency of any subcontract thereunder on a cost-plus-a-fixed-fee basis and of any fixed-price subcontract or purchase order which exceeds in dollar amounteither the simplified acquisition threshold or 5 percent of the total estimated cost of the prime contract; and a procuring agency, through any authorized representative thereof, shall have the right to inspect the plans and to audit the books and records of any prime contractor or subcontractor engaged in the performance of a cost or cost-plus-a-fixed-fee contract.
+The cost-plus-a-percentage-of-cost system of contracting shall not be used, and in the case of a cost-plus-a-fixed-fee contract the fee shall not exceed 10 percent of the estimated cost of the contract, exclusive of the fee, as determined by the agency head at the time of entering into such contract (except that a fee not in excess of 15 percent of such estimated cost is authorized in any such contract for experimental, developmental, or research work and that a fee inclusive of the contractor's costs and not in excess of 6 percent of the estimated cost, exclusive of fees, as determined by the agency head at the time of entering into the contract, of the project to which such fee is applicable is authorized in contracts for architectural or engineering services relating to any public works or utility project). All cost and cost-plus-a-fixed-fee contracts shall provide for advance notification by the contractor to the procuring agency of any subcontract thereunder on a cost-plus-a-fixed-fee basis and of any fixed-price subcontract or purchase order which exceeds in dollar amount either the simplified acquisition threshold or 5 percent of the total estimated cost of the prime contract; and a procuring agency, through any authorized representative thereof, shall have the right to inspect the plans and to audit the books and records of any prime contractor or subcontractor engaged in the performance of a cost or cost-plus-a-fixed-fee contract.
 
 (June 30, 1949, ch. 288, title III, §304, 63 Stat. 395; Oct. 31, 1951, ch. 652, 65 Stat. 700; July 12, 1952, ch. 703, §1(m), 66 Stat. 594; Pub. L. 89–607, §2, Sept. 27, 1966, 80 Stat. 850; Pub. L. 98–369, div. B, title VII, §§2712, 2714(a)(3), July 18, 1984, 98 Stat. 1181, 1184; Pub. L. 103–355, title I, §§1071, 1251(a)(1), title II, §2251(b), title IV, §§4103(c), 4402(c), title VIII, §8204(b), title X, §10005(e), Oct. 13, 1994, 108 Stat. 3270, 3278, 3320, 3341, 3349, 3396, 3408.)
 
@@ -26,7 +26,7 @@ Subsec. (d). Pub. L. 103–355, §1251(a)(1), struck out subsec. (d) which relat
 
 Subsec. (a). Pub. L. 98–369, §2714(a)(3), substituted “awarded after using procedures other than sealed-bid procedures” for “negotiated pursuant to section 252(c) of this title” in first and second sentences.
 
-Subsec. (c). Pub. L. 98–369, §2714(a)(3)(C), substituted “awarded after using procedures other than sealed-bid procedures” for “negotiated without advertising pursuant to authority contained in this Act” in first sentence.
+Subsec. (c). Pub. L. 98–369, §2714(a)(3)(C), substituted “awarded after using procedures other than sealed-bidprocedures” for “negotiated without advertising pursuant to authority contained in this Act” in first sentence.
 
 Subsec. (d). Pub. L. 98–369, §2712, added subsec. (d).
 
@@ -63,16 +63,6 @@ Ex. Ord. No. 12800, Apr. 13, 1992, 57 F.R. 12985, 13413, which required Federal 
 #### Definitions
 
 The definitions in section 472 of Title 40, Public Buildings, Property, and Works, apply to this subchapter.
-
-#### Cross References
-
-Agency head, definition of, see section 259 of this title.
-
-Armed services—
-
-&emsp;&emsp;Examination of contractor's books and records, see section 2313 of Title 10, Armed Forces.
-
-&emsp;&emsp;Kinds of contracts, see section 2306 of Title 10.
 
 #### Section Referred to in Other Sections
 

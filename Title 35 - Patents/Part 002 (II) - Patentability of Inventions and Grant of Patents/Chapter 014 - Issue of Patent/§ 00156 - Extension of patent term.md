@@ -32,7 +32,7 @@
 
 &emsp;&emsp;&emsp;(i) under the provision of law under which the applicable regulatory review occurred, or
 
-&emsp;&emsp;&emsp;(ii) under the provision of law under which any regulatory review described inparagraph (1), (4), or (5) of subsection (g) occurred, and
+&emsp;&emsp;&emsp;(ii) under the provision of law under which any regulatory review described in paragraph (1), (4), or (5) of subsection (g) occurred, and
 
 &emsp;&emsp;(B) on or after the expiration of the regulatory review period upon which the extension of the patent was based;
 
@@ -60,7 +60,7 @@
 
 &emsp;(2) after any reduction required by paragraph (1), the period of extension shall include only one-half of the time remaining in the periods described in paragraphs (1)(B)(i), (2)(B)(i), (3)(B)(i), (4)(B)(i), and (5)(B)(i) of subsection (g);
 
-&emsp;(3) if the period remaining in the term of a patent after the date of the approval of the approved product under the provision of law under which such regulatory review occurred when added to the regulatory review period as revised under paragraphs (1) and (2) exceeds fourteen years, the period of extension shall be reduced so that the total of both such periods does not exceed fourteen years; and
+&emsp;(3) if the period remaining in the term of a patent after the date of the approval of the approved product under the provision of law under which such regulatory review occurred when added to the regulatory review period as revised under paragraphs (1) and (2) exceeds fourteen years, the period of extension shall bereduced so that the total of both such periods does not exceed fourteen years; and
 
 &emsp;(4) in no event shall more than one patent be extended under subsection (e)(1) for the same regulatory review period for any product.
 
@@ -92,7 +92,7 @@
 
 (4) An application for the extension of the term of a patent is subject to the disclosure requirements prescribed by the Director.
 
-(5)(A) If the owner of record of the patent or its agent reasonably expects that the applicable regulatory review period described in paragraph (1)(B)(ii), (2)(B)(ii), (3)(B)(ii), (4)(B)(ii), or (5)(B)(ii) of subsection (g) that began for a product that is the subject of such patent may extend beyond the expiration of the patent term in effect, the owner or its agent may submit an application to the Director for an interim extension during the period beginning 6 months, and ending 15 days, before such term is due to expire. The application shall contain—
+(5)(A) If the owner of record of the patent or its agent reasonably expects that the applicable regulatory review period described in paragraph (1)(B)(ii), (2)(B)(ii), (3)(B)(ii), (4)(B)(ii), or (5)(B)(ii) of subsection (g) that began for a product that is the subject of such patent may extend beyond the expiration of the patent term in effect, the owner or its agent may submit an application to the Director for an interim extension during the period beginning 6 months, andending 15 days, before such term is due to expire. The application shall contain—
 
 &emsp;(i) the identity of the product subject to regulatory review and the Federal statute under which such review is occurring;
 
@@ -270,7 +270,7 @@ Subsec. (e)(2). Pub. L. 103–179, §6(3)(B), substituted “subsection (d)(1)�
 
 Subsec. (a)(5)(C). Pub. L. 100–670, §201(a)(2), (3), added subpar. (C).
 
-Subsec. (b). Pub. L. 100–670, §201(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The rights derived from any patent the term of which is extended under this section shall during the period during which the patent is extended—
+Subsec. (b). Pub. L. 100–670, §201(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read asfollows: “The rights derived from any patent the term of which is extended under this section shall during the period during which the patent is extended—
 
 &emsp;“(1) in the case of a patent which claims a product, be limited to any use approved for the approved product before the expiration of the term of the patent under the provision of law under which the applicable regulatory review occurred;
 

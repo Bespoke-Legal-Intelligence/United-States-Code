@@ -8,7 +8,7 @@ A domestic manufacturer of cigarettes shall certify to the Secretary, for each c
 
 #### (1) In general
 
-&emsp;Subject to subsection (f) of this section, a domestic manufacturer of cigarettes that has failed, as determined by the Secretary after notice and opportunity for a hearing, to use in the manufacture of cigarettes during a calendar year a quantity of tobacco grown in the United States that is at least 75 percent of the total quantity of tobacco used by the manufacturer, or to comply with subsection (a) of this section, shall be subject to the requirements of subsections (c), (d), and (e) of this section.
+&emsp;Subject to subsection (f) of this section, a domestic manufacturer of cigarettes that hasfailed, as determined by the Secretary after notice and opportunity for a hearing, to use in the manufacture of cigarettes during a calendar year a quantity of tobacco grown in the United States that is at least 75 percent of the total quantity of tobacco used by the manufacturer, or to comply with subsection (a) of this section, shall be subject to the requirements of subsections (c), (d), and (e) of this section.
 
 #### (2) Failure to certify
 
@@ -78,7 +78,7 @@ A domestic manufacturer of cigarettes shall certify to the Secretary, for each c
 
 #### (3) Limitation
 
-&emsp;If the total quantity of Burley tobacco required to be purchased by all manufacturersunder paragraph (2) would reduce the inventories of the producer-owned cooperative marketing associations for Burley tobacco to less than the reserve stock level for Burley tobacco, the Secretary shall reduce the quantity of tobacco required to be purchased by manufacturers under paragraph (2), on a pro rata basis, to ensure that the inventories will not be less than the reserve stock level for Burley tobacco.
+&emsp;If the total quantity of Burley tobacco required to be purchased by all manufacturers under paragraph (2) would reduce the inventories of the producer-owned cooperative marketing associations for Burley tobacco to less than the reserve stock level for Burley tobacco, the Secretary shall reduce the quantity of tobacco required to be purchased by manufacturers under paragraph (2), on a pro rata basis, to ensure that the inventories will not be less than the reserve stock level for Burley tobacco.
 
 #### (4) Noncompliance
 
@@ -140,7 +140,7 @@ This section shall be effective only for calendar year 1994.
 
 #### Effective Date of 1994 Amendment
 
-Section 422(e) of Pub. L. 103–465 provided that: “This section \[amending this section, section 1445 of this title, and section 1313 of Title 19, Customs Duties, and enacting provisions set out as a note under section 1445of this title\] and the amendments made by this section shall be effective beginning on the effective date of the Presidential proclamation, authorized under section 421 \[set out as a note under section 2135 of Title 19\], establishing a tariff-rate quota pursuant to Article XXVIII of the GATT 1947 or the GATT 1994 with respect to tobacco.”
+Section 422(e) of Pub. L. 103–465 provided that: “This section \[amending this section, section 1445 of this title, and section 1313 of Title 19, Customs Duties, and enacting provisions set out as a note under section 1445 of this title\] and the amendments made by this section shall be effective beginning on the effective date of the Presidential proclamation, authorized under section 421 \[set out as a note under section 2135 of Title 19\], establishing a tariff-rate quota pursuant to Article XXVIII of the GATT 1947 or the GATT 1994 with respect to tobacco.”
 
 \[Proc. No. 6821, Sept. 12, 1995, 60 F.R. 47663, effective Sept. 13, 1995, established tariff-rate quotas on certain tobacco.\]
 

@@ -4,7 +4,7 @@
 
 #### (1) Processors and refiners
 
-&emsp;All sugarcane processors, cane sugar refiners, and sugar beet processors shall furnish the Secretary, on a monthly basis, such information as the Secretary may require to administer sugar programs, including the quantity of purchases of sugarcane, sugar beets, andsugar, and production, importation, distribution, and stock levels of sugar.
+&emsp;All sugarcane processors, cane sugar refiners, and sugar beet processors shall furnish the Secretary, on a monthly basis, such information as the Secretary may require to administer sugar programs, including the quantity of purchases of sugarcane, sugar beets, and sugar, and production, importation, distribution, and stock levels of sugar.
 
 #### (2) Manufacturers of crystalline fructose
 
@@ -20,7 +20,7 @@ Any person willfully failing or refusing to furnish the information, or furnishi
 
 #### (d) Monthly reports
 
-Taking into consideration the information received under subsection (a) of this section, the Secretary shall publish on a monthly basis composite data on production, imports, distribution, and stock levels of sugar and composite data on distributions of crystalline fructose.
+Taking into consideration the information received under subsection (a) of this section, theSecretary shall publish on a monthly basis composite data on production, imports, distribution, and stock levels of sugar and composite data on distributions of crystalline fructose.
 
 (Feb. 16, 1938, ch. 30, title III, §359a, as added Pub. L. 101–624, title IX, §902, Nov. 28, 1990, 104 Stat. 3479; amended Pub. L. 102–237, title I, §111(c), Dec. 13, 1991, 105 Stat. 1830.)
 

@@ -50,7 +50,7 @@ Policy alternatives in long-term care.
 
 (c)
 
-Encouragement by Assistant Secretary of program and activity by voluntary social services group; establishment of and technical assistance to State and area volunteer coordinators.
+Encouragement by Assistant Secretary of program and activity by voluntary social services group.
 
 (d)
 
@@ -60,42 +60,30 @@ National Center on Elder Abuse.
 
 National Aging Information Center.
 
+(f)
+
+Development of performance outcome measures.
+
 |  |  |
 | :--- | ---: |
 | [3013\.](Subchapter%20002%20%28II%29%20-%20Administration%20on%20Aging/%C2%A7%2003013%20-%20Federal%20agency%20cooperation.md) | Federal agency cooperation. |
 | [3013a.](Subchapter%20002%20%28II%29%20-%20Administration%20on%20Aging/%C2%A7%2003013a%20-%20Consultation%20with%20State%20agencies%2C%20area%20agencies%20on%20aging%2C%20and%20Native%20American%20grant%20recipients.md) | Consultation with State agencies, area agencies on aging, and Native American grant recipients. |
 | [3014\.](Subchapter%20002%20%28II%29%20-%20Administration%20on%20Aging/%C2%A7%2003014%20-%20Repealed.%20Pub.%20L.%2097%E2%80%93115%2C%20%C2%A72%28e%29%281%29%2C%20Dec.%2029%2C%201981%2C%2095%20Stat.%201596.md) | Repealed. |
-| [3015\.](Subchapter%20002%20%28II%29%20-%20Administration%20on%20Aging/%C2%A7%2003015%20-%20Federal%20Council%20on%20the%20Aging.md) | Federal Council on the Aging. |
+| [3015\.](Subchapter%20002%20%28II%29%20-%20Administration%20on%20Aging/%C2%A7%2003015%20-%20Gifts%20and%20donations.md) | Gifts and donations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 (a)
 
-Establishment; membership; term; representation of interests; qualification; previously appointed members.
+Gifts and donations.
 
 (b)
 
-Appointment of class 1, class 2, and class 3 members; vacancies; compensation and travel expenses.
+Use of gifts and donations.
 
 (c)
 
-Chairperson; meetings.
-
-(d)
-
-Duties of Federal Council on the Aging.
-
-(e)
-
-Staff, information, and other assistance.
-
-(f)
-
-Reports to President; transmittal to Congress.
-
-(g)
-
-Authorization of appropriations.
+Ethics guidelines.
 
 |  |  |
 | :--- | ---: |
@@ -112,14 +100,6 @@ Consultative services and technical assistance; short-term training and technica
 Utilization of services and facilities of Federal and other public or nonprofit agencies; advance or reimbursement payments for such use.
 
 (c)
-
-Regulations; notice and comment.
-
-(d)
-
-Publication of goals.
-
-(e)
 
 Authorization of appropriations.
 
@@ -155,10 +135,6 @@ Availability to Secretary of information from executive agencies.
 
 (g)
 
-Evaluation of nutritional services; establishment of advisory council; report on recommendations and final guidelines to the President and Congress.
-
-(h)
-
 Funds.
 
 |  |  |
@@ -188,17 +164,67 @@ Outreach activities; report on evaluations to be included in annual report.
 | [3020c.](Subchapter%20002%20%28II%29%20-%20Administration%20on%20Aging/%C2%A7%2003020c%20-%20Contracting%20and%20grant%20authority.md) | Contracting and grant authority. |
 | [3020d.](Subchapter%20002%20%28II%29%20-%20Administration%20on%20Aging/%C2%A7%2003020d%20-%20Surplus%20property%20eligibility.md) | Surplus property eligibility. |
 | [3020e.](Subchapter%20002%20%28II%29%20-%20Administration%20on%20Aging/%C2%A7%2003020e%20-%20Nutrition%20education.md) | Nutrition education. |
+| 3020e–1. | Pension counseling and information programs. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Definitions.
+
+(b)
+
+Program authorized.
+
+(c)
+
+Eligible entities.
+
+(d)
+
+Citizen advisory panel.
+
+(e)
+
+Application.
+
+(f)
+
+Criteria.
+
+(g)
+
+Training and technical assistance program.
+
+(h)
+
+Pension assistance hotline and intragency coordination.
+
+(i)
+
+Report to Congress.
+
+(j)
+
+Administrative expenses.
+
+|  |  |
+| :--- | ---: |
 | [3020f.](Subchapter%20002%20%28II%29%20-%20Administration%20on%20Aging/%C2%A7%2003020f%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 (a)
 
-Administration.
+In general.
 
 (b)
 
-Salaries and expenses.
+Eldercare Locator Service.
+
+(c)
+
+Pension counseling and information programs.
 
 #### SUBCHAPTER III—GRANTS FOR STATE AND COMMUNITY PROGRAMS ON AGING
 
@@ -222,6 +248,10 @@ Administration of program.
 
 Ombudsman program.
 
+(d)
+
+Use of funds.
+
 |  |  |
 | :--- | ---: |
 | [3022\.](Subchapter%20003%20%28III%29%20-%20Grants%20for%20State%20and%20Community%20Programs%20on%20Aging/Part%20A%20-%20General%20Provisions/%C2%A7%2003022%20-%20Definitions.md) | Definitions. |
@@ -232,7 +262,7 @@ Ombudsman program.
 
 (a)
 
-Formula for computation of amount.
+In general.
 
 (b)
 
@@ -245,10 +275,6 @@ Withholding of funds; disbursement.
 (d)
 
 Costs of administration, ombudsman program, demonstration projects, supportive services, senior centers and nutrition services; payment and determination of non-Federal share.
-
-(e)
-
-Volunteer services coordinator.
 
 |  |  |
 | :--- | ---: |
@@ -284,7 +310,7 @@ Preparation and development by area agency on aging; requirements.
 
 (b)
 
-Waiver of requirements; notice and hearing; opportunity to testify; record.
+Waiver of requirements.
 
 (c)
 
@@ -326,7 +352,7 @@ Appeal.
 
 (f)
 
-Confidentiality of information relating to legal assistance; protection of commercial information.
+Confidentiality of information relating to legal assistance.
 
 |  |  |
 | :--- | ---: |
@@ -384,23 +410,31 @@ Effect on other laws.
 
 |  |  |
 | :--- | ---: |
-| [3030a.](Subchapter%20003%20%28III%29%20-%20Grants%20for%20State%20and%20Community%20Programs%20on%20Aging/Part%20A%20-%20General%20Provisions/%C2%A7%2003030a%20-%20Availability%20of%20surplus%20commodities.md) | Availability of surplus commodities. |
+| [3030a.](Subchapter%20003%20%28III%29%20-%20Grants%20for%20State%20and%20Community%20Programs%20on%20Aging/Part%20A%20-%20General%20Provisions/%C2%A7%2003030a%20-%20Nutrition%20services%20incentive%20program.md) | Nutrition services incentive program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 (a)
 
-Donation of products; amount of assistance.
+Purpose.
 
 (b)
 
-Cash payments in lieu of food commodities.
+Allotment and provision of cash or commodities.
 
 (c)
 
-Authorization of appropriations; final reimbursement claims; reduction of cents-per-meal level.
+Donation of products.
 
 (d)
+
+Cash payments in lieu of food commodities.
+
+(e)
+
+Authorization of appropriations.
+
+(f)
 
 Dissemination of information.
 
@@ -409,8 +443,47 @@ Dissemination of information.
 | [3030b.](Subchapter%20003%20%28III%29%20-%20Grants%20for%20State%20and%20Community%20Programs%20on%20Aging/Part%20A%20-%20General%20Provisions/%C2%A7%2003030b%20-%20Recapture%20of%20payments%20made%20for%20multipurpose%20senior%20centers.md) | Recapture of payments made for multipurpose senior centers. |
 | [3030c.](Subchapter%20003%20%28III%29%20-%20Grants%20for%20State%20and%20Community%20Programs%20on%20Aging/Part%20A%20-%20General%20Provisions/%C2%A7%2003030c%20-%20Audit%3B%20request%20for%20information.md) | Audit; request for information. |
 | 3030c–1. | Rights relating to in-home services for frail older individuals. |
+| 3030c–2. | Consumer contributions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Cost sharing.
+
+(b)
+
+Voluntary contributions.
+
+(c)
+
+Participation.
+
+(d)
+
+Evaluation.
+
+|  |  |
+| :--- | ---: |
+| 3030c–3. | Waivers. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Requirements subject to waiver.
+
+(c)
+
+Duration of waiver.
+
+(d)
+
+Reports to Secretary.
 
 #### Part B—Supportive Services
 
@@ -419,6 +492,22 @@ Dissemination of information.
 | [3030d.](Subchapter%20003%20%28III%29%20-%20Grants%20for%20State%20and%20Community%20Programs%20on%20Aging/Part%20B%20-%20Supportive%20Services/%C2%A7%2003030d%20-%20Grants%20for%20supportive%20services.md) | Grants for supportive services. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Grants.
+
+(b)
+
+Existing facilities.
+
+(c)
+
+Coordination of services with other providers.
+
+(d)
+
+Relationship to other funding sources.
 
 #### Part C—Nutrition Services
 
@@ -439,83 +528,20 @@ I74subpart i—congregate nutrition services
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### subpart iii—school-based meals for volunteer older individuals and multigenerational programs
+#### subpart iii—general provisions
 
 |  |  |
 | :--- | ---: |
-| 3030g–11. | Establishment. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-In general.
-
-(b)
-
-Federal share.
-
-|  |  |
-| :--- | ---: |
-| 3030g–12. | Application and selection of providers. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Contents of application.
-
-(b)
-
-Selection among applicants.
-
-|  |  |
-| :--- | ---: |
-| 3030g–13. | Reports. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Reports by States.
-
-(b)
-
-Reports by Assistant Secretary.
-
-#### subpart iv—general provisions
-
-|  |  |
-| :--- | ---: |
-| 3030g–21. | Compliance with dietary guidelines. |
+| 3030g–21. | Nutrition. |
 | 3030g–22. | Payment requirement. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part D—In-Home Services for Frail Older Individuals
+#### Part D—Disease Prevention and Health Promotion Services
 
 |  |  |
 | :--- | ---: |
-| [3030h.](Subchapter%20003%20%28III%29%20-%20Grants%20for%20State%20and%20Community%20Programs%20on%20Aging/Part%20D%20-%20In-Home%20Services%20for%20Frail%20Older%20Individuals/%C2%A7%2003030h%20-%20Program%20authorized.md) | Program authorized. |
-| [3030i.](Subchapter%20003%20%28III%29%20-%20Grants%20for%20State%20and%20Community%20Programs%20on%20Aging/Part%20D%20-%20In-Home%20Services%20for%20Frail%20Older%20Individuals/%C2%A7%2003030i%20-%20%E2%80%9CIn-home%20services%E2%80%9D%20defined.md) | “In-home services” defined. |
-| [3030j.](Subchapter%20003%20%28III%29%20-%20Grants%20for%20State%20and%20Community%20Programs%20on%20Aging/Part%20D%20-%20In-Home%20Services%20for%20Frail%20Older%20Individuals/%C2%A7%2003030j%20-%20State%20criteria.md) | State criteria. |
-| [3030k.](Subchapter%20003%20%28III%29%20-%20Grants%20for%20State%20and%20Community%20Programs%20on%20Aging/Part%20D%20-%20In-Home%20Services%20for%20Frail%20Older%20Individuals/%C2%A7%2003030k%20-%20Maintenance%20of%20effort.md) | Maintenance of effort. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Part E—Additional Assistance for Special Needs of Older Individuals
-
-|  |  |
-| :--- | ---: |
-| 3030<i>l.</i> | Program authorized. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Part F—Disease Prevention and Health Promotion Services
-
-|  |  |
-| :--- | ---: |
-| [3030m.](Subchapter%20003%20%28III%29%20-%20Grants%20for%20State%20and%20Community%20Programs%20on%20Aging/Part%20F%20-%20Disease%20Prevention%20and%20Health%20Promotion%20Services/%C2%A7%2003030m%20-%20Program%20authorized.md) | Program authorized. |
+| [3030m.](Subchapter%20003%20%28III%29%20-%20Grants%20for%20State%20and%20Community%20Programs%20on%20Aging/Part%20D%20-%20Disease%20Prevention%20and%20Health%20Promotion%20Services/%C2%A7%2003030m%20-%20Program%20authorized.md) | Program authorized. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -529,233 +555,207 @@ Community organizations and agencies.
 
 |  |  |
 | :--- | ---: |
-| [3030n.](Subchapter%20003%20%28III%29%20-%20Grants%20for%20State%20and%20Community%20Programs%20on%20Aging/Part%20F%20-%20Disease%20Prevention%20and%20Health%20Promotion%20Services/%C2%A7%2003030n%20-%20Distribution%20to%20area%20agencies%20on%20aging.md) | Distribution to area agencies on aging. |
-| 3030<i>o.</i> | “Disease prevention and health promotion services” defined. |
+| [3030n.](Subchapter%20003%20%28III%29%20-%20Grants%20for%20State%20and%20Community%20Programs%20on%20Aging/Part%20D%20-%20Disease%20Prevention%20and%20Health%20Promotion%20Services/%C2%A7%2003030n%20-%20Distribution%20to%20area%20agencies%20on%20aging.md) | Distribution to area agencies on aging. |
+| 3030<i>o</i> to 3030r. Repealed. |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part G—Supportive Activities for Caretakers Who Provide In-Home Services to Frail Older Individuals
+#### Part E—National Family Caregiver Support Program
+
+I74subpart i—caregiver support program
 
 |  |  |
 | :--- | ---: |
-| [3030p.](Subchapter%20003%20%28III%29%20-%20Grants%20for%20State%20and%20Community%20Programs%20on%20Aging/Part%20G%20-%20Supportive%20Activities%20for%20Caretakers%20Who%20Provide%20In-Home%20Services%20to%20Frail%20Older%20Individuals/%C2%A7%2003030p%20-%20Program%20authorized.md) | Program authorized. |
-| [3030q.](Subchapter%20003%20%28III%29%20-%20Grants%20for%20State%20and%20Community%20Programs%20on%20Aging/Part%20G%20-%20Supportive%20Activities%20for%20Caretakers%20Who%20Provide%20In-Home%20Services%20to%20Frail%20Older%20Individuals/%C2%A7%2003030q%20-%20%E2%80%9CIn-home%20services%E2%80%9D%20defined.md) | “In-home services” defined. |
-| [3030r.](Subchapter%20003%20%28III%29%20-%20Grants%20for%20State%20and%20Community%20Programs%20on%20Aging/Part%20G%20-%20Supportive%20Activities%20for%20Caretakers%20Who%20Provide%20In-Home%20Services%20to%20Frail%20Older%20Individuals/%C2%A7%2003030r%20-%20Maintenance%20of%20effort.md) | Maintenance of effort. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### SUBCHAPTER IV—TRAINING, RESEARCH, AND DISCRETIONARY PROJECTS AND PROGRAMS
-
-|  |  |
-| :--- | ---: |
-| [3030aa.](Subchapter%20004%20%28IV%29%20-%20Training%2C%20Research%2C%20and%20Discretionary%20Projects%20and%20Programs/%C2%A7%2003030aa%20-%20Statement%20of%20purpose.md) | Statement of purpose. |
-| [3030bb.](Subchapter%20004%20%28IV%29%20-%20Training%2C%20Research%2C%20and%20Discretionary%20Projects%20and%20Programs/%C2%A7%2003030bb%20-%20Administration.md) | Administration. |
+| [3030s.](Subchapter%20003%20%28III%29%20-%20Grants%20for%20State%20and%20Community%20Programs%20on%20Aging/Part%20E%20-%20National%20Family%20Caregiver%20Support%20Program/Subpart%20001%20%28i%29%20-%20Caregiver%20Support%20Program/%C2%A7%2003030s%20-%20Definitions.md) | Definitions. |
+| 3030s–1. | Program authorized. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 (a)
 
-Administration.
+In general.
 
 (b)
 
-Technical assistance and cooperation.
+Support services.
 
 (c)
 
-Minorities.
+Population served; priority.
 
 (d)
 
-Consultation.
+Coordination with service providers.
 
 (e)
 
-Evaluation and compliance.
-
-#### Part A—Education and Training
-
-|  |  |
-| :--- | ---: |
-| [3030jj.](Subchapter%20004%20%28IV%29%20-%20Training%2C%20Research%2C%20and%20Discretionary%20Projects%20and%20Programs/Part%20A%20-%20Education%20and%20Training/%C2%A7%2003030jj%20-%20Purpose.md) | Purpose. |
-| [3031\.](Subchapter%20004%20%28IV%29%20-%20Training%2C%20Research%2C%20and%20Discretionary%20Projects%20and%20Programs/Part%20A%20-%20Education%20and%20Training/%C2%A7%2003031%20-%20Grants%20and%20contracts.md) | Grants and contracts. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Purposes.
-
-(b)
-
-Educational activities; inservice training.
-
-(c)
-
-Recruitment and training of personnel; Alzheimer's disease and related disorders.
-
-(d)
-
-Data on number of individuals to be trained and number of older individuals to be served.
-
-(e)
-
-Grants and contracts for training of service providers.
-
-|  |  |
-| :--- | ---: |
-| [3032\.](Subchapter%20004%20%28IV%29%20-%20Training%2C%20Research%2C%20and%20Discretionary%20Projects%20and%20Programs/Part%20A%20-%20Education%20and%20Training/%C2%A7%2003032%20-%20Multidisciplinary%20centers%20of%20gerontology%20and%20gerontology%20centers%20of%20special%20emphasis%3B%20establishment%20and%20support%3B%20requirements%3B%20data.md) | Multidisciplinary centers of gerontology and gerontology centers of special emphasis; establishment and support; requirements; data. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Part B—Research, Demonstrations, and Other Activities
-
-|  |  |
-| :--- | ---: |
-| [3034\.](Subchapter%20004%20%28IV%29%20-%20Training%2C%20Research%2C%20and%20Discretionary%20Projects%20and%20Programs/Part%20B%20-%20Research%2C%20Demonstrations%2C%20and%20Other%20Activities/%C2%A7%2003034%20-%20Purpose.md) | Purpose. |
-| [3035\.](Subchapter%20004%20%28IV%29%20-%20Training%2C%20Research%2C%20and%20Discretionary%20Projects%20and%20Programs/Part%20B%20-%20Research%2C%20Demonstrations%2C%20and%20Other%20Activities/%C2%A7%2003035%20-%20Research%20and%20development%20projects.md) | Research and development projects. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Authority to make grants or enter into contracts.
-
-(b)
-
-Policy or practical application statement.
-
-(c)
-
-Selection criteria.
-
-|  |  |
-| :--- | ---: |
-| [3035a.](Subchapter%20004%20%28IV%29%20-%20Training%2C%20Research%2C%20and%20Discretionary%20Projects%20and%20Programs/Part%20B%20-%20Research%2C%20Demonstrations%2C%20and%20Other%20Activities/%C2%A7%2003035a%20-%20Demonstration%20projects.md) | Demonstration projects. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Authority to make grants or enter into contracts for model projects and for development of prototype health education and promotion programs.
-
-(b)
-
-Projects which are to be given special consideration.
-
-(c)
-
-Procedures for identification of persons needing supportive services, compilation of available services, and development of information and referral services.
-
-(d)
-
-Development of grants and contracts in consultation with gerontology centers; dissemination of project results; reports on music, art, and dance-movement therapy projects.
-
-|  |  |
-| :--- | ---: |
-| [3035b.](Subchapter%20004%20%28IV%29%20-%20Training%2C%20Research%2C%20and%20Discretionary%20Projects%20and%20Programs/Part%20B%20-%20Research%2C%20Demonstrations%2C%20and%20Other%20Activities/%C2%A7%2003035b%20-%20Special%20projects%20in%20comprehensive%20long-term%20care.md) | Special projects in comprehensive long-term care. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Definitions.
-
-(b)
-
-Resource Centers.
-
-(c)
-
-Projects.
-
-(d)
-
-Use of funds.
-
-(e)
-
-Preference.
+Quality standards and mechanisms and accountability.
 
 (f)
 
-Application.
+Caregiver allotment.
 
 (g)
-
-Eligible entities.
-
-(h)
-
-Report.
-
-(i)
 
 Availability of funds.
 
 |  |  |
 | :--- | ---: |
-| [3035c.](Subchapter%20004%20%28IV%29%20-%20Training%2C%20Research%2C%20and%20Discretionary%20Projects%20and%20Programs/Part%20B%20-%20Research%2C%20Demonstrations%2C%20and%20Other%20Activities/%C2%A7%2003035c%20-%20Special%20demonstration%20and%20support%20projects%20for%20legal%20assistance%20for%20older%20individuals.md) | Special demonstration and support projects for legal assistance for older individuals. |
+| 3030s–2. | Maintenance of effort. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-(a)
-
-Authority to make grants or enter into contracts.
-
-(b)
-
-Requisite assurances.
-
-(c)
-
-Grants or contracts with national nonprofit legal assistance organizations.
+#### subpart ii—national innovation programs
 
 |  |  |
 | :--- | ---: |
-| [3035d.](Subchapter%20004%20%28IV%29%20-%20Training%2C%20Research%2C%20and%20Discretionary%20Projects%20and%20Programs/Part%20B%20-%20Research%2C%20Demonstrations%2C%20and%20Other%20Activities/%C2%A7%2003035d%20-%20National%20impact%20activities.md) | National impact activities. |
+| 3030s–11. | Innovation grant program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 (a)
 
-Authority to make grants or enter into contracts.
+In general.
 
 (b)
 
-Use of appropriated funds.
-
-|  |  |
-| :--- | ---: |
-| [3035e.](Subchapter%20004%20%28IV%29%20-%20Training%2C%20Research%2C%20and%20Discretionary%20Projects%20and%20Programs/Part%20B%20-%20Research%2C%20Demonstrations%2C%20and%20Other%20Activities/%C2%A7%2003035e%20-%20Utility%20and%20home%20heating%20cost%20demonstration%20projects.md) | Utility and home heating cost demonstration projects. |
-| [3035f.](Subchapter%20004%20%28IV%29%20-%20Training%2C%20Research%2C%20and%20Discretionary%20Projects%20and%20Programs/Part%20B%20-%20Research%2C%20Demonstrations%2C%20and%20Other%20Activities/%C2%A7%2003035f%20-%20Ombudsman%2C%20legal%20assistance%2C%20and%20advocacy%20demonstration%20projects.md) | Ombudsman, legal assistance, and advocacy demonstration projects. |
-| [3035g.](Subchapter%20004%20%28IV%29%20-%20Training%2C%20Research%2C%20and%20Discretionary%20Projects%20and%20Programs/Part%20B%20-%20Research%2C%20Demonstrations%2C%20and%20Other%20Activities/%C2%A7%2003035g%20-%20Consumer%20protection%20demonstration%20projects%20for%20services%20provided%20in%20home.md) | Consumer protection demonstration projects for services provided in home. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Grants; uses.
-
-(b)
-
-Application; contents.
+Evaluation and dissemination of results.
 
 (c)
 
-Geographic distribution of assistance.
+Sunset provision.
+
+|  |  |
+| :--- | ---: |
+| 3030s–12. | Activities of national significance. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Sunset provision.
+
+#### SUBCHAPTER IV—TRAINING, RESEARCH, AND DISCRETIONARY PROJECTS AND PROGRAMS
+
+|  |  |
+| :--- | ---: |
+| [3031\.](Subchapter%20004%20%28IV%29%20-%20Training%2C%20Research%2C%20and%20Discretionary%20Projects%20and%20Programs/%C2%A7%2003031%20-%20Purposes.md) | Purposes. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part A—Grant Programs
+
+|  |  |
+| :--- | ---: |
+| [3032\.](Subchapter%20004%20%28IV%29%20-%20Training%2C%20Research%2C%20and%20Discretionary%20Projects%20and%20Programs/Part%20A%20-%20Grant%20Programs/%C2%A7%2003032%20-%20Program%20authorized.md) | Program authorized. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| [3032a.](Subchapter%20004%20%28IV%29%20-%20Training%2C%20Research%2C%20and%20Discretionary%20Projects%20and%20Programs/Part%20A%20-%20Grant%20Programs/%C2%A7%2003032a%20-%20Career%20preparation%20for%20the%20field%20of%20aging.md) | Career preparation for the field of aging. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Grants.
+
+(b)
+
+Definitions.
+
+|  |  |
+| :--- | ---: |
+| [3032b.](Subchapter%20004%20%28IV%29%20-%20Training%2C%20Research%2C%20and%20Discretionary%20Projects%20and%20Programs/Part%20A%20-%20Grant%20Programs/%C2%A7%2003032b%20-%20Older%20individuals%E2%80%99%20protection%20from%20violence%20projects.md) | Older individuals’ protection from violence projects. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Program authorized.
+
+(b)
+
+Activities.
+
+(c)
+
+Preference.
 
 (d)
 
-Report on evaluations; contents; recommendations.
-
-(e)
-
-Nature of projects; prohibition.
+Coordination.
 
 |  |  |
 | :--- | ---: |
-| [3035h.](Subchapter%20004%20%28IV%29%20-%20Training%2C%20Research%2C%20and%20Discretionary%20Projects%20and%20Programs/Part%20B%20-%20Research%2C%20Demonstrations%2C%20and%20Other%20Activities/%C2%A7%2003035h%20-%20Demonstration%20projects%20for%20multigenerational%20activities.md) | Demonstration projects for multigenerational activities. |
+| [3032c.](Subchapter%20004%20%28IV%29%20-%20Training%2C%20Research%2C%20and%20Discretionary%20Projects%20and%20Programs/Part%20A%20-%20Grant%20Programs/%C2%A7%2003032c%20-%20Health%20care%20service%20demonstration%20projects%20in%20rural%20areas.md) | Health care service demonstration projects in rural areas. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Authority.
+
+(b)
+
+Eligibility.
+
+(c)
+
+Reports.
+
+|  |  |
+| :--- | ---: |
+| [3032d.](Subchapter%20004%20%28IV%29%20-%20Training%2C%20Research%2C%20and%20Discretionary%20Projects%20and%20Programs/Part%20A%20-%20Grant%20Programs/%C2%A7%2003032d%20-%20Computer%20training.md) | Computer training. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Program authorized.
+
+(b)
+
+Priority.
+
+(c)
+
+Special consideration.
+
+(d)
+
+Use of funds.
+
+|  |  |
+| :--- | ---: |
+| [3032e.](Subchapter%20004%20%28IV%29%20-%20Training%2C%20Research%2C%20and%20Discretionary%20Projects%20and%20Programs/Part%20A%20-%20Grant%20Programs/%C2%A7%2003032e%20-%20Technical%20assistance%20to%20improve%20transportation%20for%20seniors.md) | Technical assistance to improve transportation for seniors. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Use of funds.
+
+|  |  |
+| :--- | ---: |
+| [3032f.](Subchapter%20004%20%28IV%29%20-%20Training%2C%20Research%2C%20and%20Discretionary%20Projects%20and%20Programs/Part%20A%20-%20Grant%20Programs/%C2%A7%2003032f%20-%20Demonstration%20projects%20for%20multigenerational%20activities.md) | Demonstration projects for multigenerational activities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -769,7 +769,7 @@ Use of funds.
 
 (c)
 
-Awards.
+Preference.
 
 (d)
 
@@ -789,85 +789,11 @@ Report to Congress.
 
 (h)
 
-“Multigenerational activity” defined.
+Definition.
 
 |  |  |
 | :--- | ---: |
-| [3035i.](Subchapter%20004%20%28IV%29%20-%20Training%2C%20Research%2C%20and%20Discretionary%20Projects%20and%20Programs/Part%20B%20-%20Research%2C%20Demonstrations%2C%20and%20Other%20Activities/%C2%A7%2003035i%20-%20Supportive%20services%20in%20federally%20assisted%20housing%20demonstration%20program.md) | Supportive services in federally assisted housing demonstration program. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Grants.
-
-(b)
-
-Use of grants.
-
-(c)
-
-Award of grants.
-
-(d)
-
-Application.
-
-(e)
-
-Eligible agencies.
-
-(f)
-
-Guidelines.
-
-(g)
-
-Evaluations and reports.
-
-|  |  |
-| :--- | ---: |
-| [3035j.](Subchapter%20004%20%28IV%29%20-%20Training%2C%20Research%2C%20and%20Discretionary%20Projects%20and%20Programs/Part%20B%20-%20Research%2C%20Demonstrations%2C%20and%20Other%20Activities/%C2%A7%2003035j%20-%20Neighborhood%20senior%20care%20program.md) | Neighborhood senior care program. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Definitions.
-
-(b)
-
-Service grants.
-
-(c)
-
-Technical resource center.
-
-|  |  |
-| :--- | ---: |
-| [3035k.](Subchapter%20004%20%28IV%29%20-%20Training%2C%20Research%2C%20and%20Discretionary%20Projects%20and%20Programs/Part%20B%20-%20Research%2C%20Demonstrations%2C%20and%20Other%20Activities/%C2%A7%2003035k%20-%20Information%20and%20assistance%20systems%20development%20projects.md) | Information and assistance systems development projects. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Grants.
-
-(b)
-
-Application.
-
-(c)
-
-Guidelines.
-
-(d)
-
-Evaluation and report.
-
-|  |  |
-| :--- | ---: |
-| 3035<i>l.</i> | Senior transportation demonstration program grants. |
+| [3032g.](Subchapter%20004%20%28IV%29%20-%20Training%2C%20Research%2C%20and%20Discretionary%20Projects%20and%20Programs/Part%20A%20-%20Grant%20Programs/%C2%A7%2003032g%20-%20Native%20American%20programs.md) | Native American programs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -877,198 +803,95 @@ Establishment.
 
 (b)
 
+Training grants.
+
+|  |  |
+| :--- | ---: |
+| [3032h.](Subchapter%20004%20%28IV%29%20-%20Training%2C%20Research%2C%20and%20Discretionary%20Projects%20and%20Programs/Part%20A%20-%20Grant%20Programs/%C2%A7%2003032h%20-%20Multidisciplinary%20centers.md) | Multidisciplinary centers. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Program authorized.
+
+(b)
+
 Use of funds.
 
 (c)
 
-Award of grants.
+Data.
 
-(d)
+|  |  |
+| :--- | ---: |
+| [3032i.](Subchapter%20004%20%28IV%29%20-%20Training%2C%20Research%2C%20and%20Discretionary%20Projects%20and%20Programs/Part%20A%20-%20Grant%20Programs/%C2%A7%2003032i%20-%20Demonstration%20and%20support%20projects%20for%20legal%20assistance%20for%20older%20individuals.md) | Demonstration and support projects for legal assistance for older individuals. |
 
-Application.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-(e)
+(a)
 
-Eligible entities.
+Program authorized.
 
-(f)
+(b)
+
+Assurances.
+
+(c)
+
+Assistance.
+
+|  |  |
+| :--- | ---: |
+| [3032j.](Subchapter%20004%20%28IV%29%20-%20Training%2C%20Research%2C%20and%20Discretionary%20Projects%20and%20Programs/Part%20A%20-%20Grant%20Programs/%C2%A7%2003032j%20-%20Ombudsman%20and%20advocacy%20demonstration%20projects.md) | Ombudsman and advocacy demonstration projects. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Program authorized.
+
+(b)
 
 Report.
 
+#### Part B—General Provisions
+
 |  |  |
 | :--- | ---: |
-| [3035m.](Subchapter%20004%20%28IV%29%20-%20Training%2C%20Research%2C%20and%20Discretionary%20Projects%20and%20Programs/Part%20B%20-%20Research%2C%20Demonstrations%2C%20and%20Other%20Activities/%C2%A7%2003035m%20-%20Resource%20Centers%20on%20Native%20American%20Elders.md) | Resource Centers on Native American Elders. |
+| [3033\.](Subchapter%20004%20%28IV%29%20-%20Training%2C%20Research%2C%20and%20Discretionary%20Projects%20and%20Programs/Part%20B%20-%20General%20Provisions/%C2%A7%2003033%20-%20Payment%20of%20grants.md) | Payment of grants. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 (a)
 
-Establishment.
+Contributions.
 
 (b)
 
-Functions.
+Payments.
 
 (c)
-
-Preference.
-
-(d)
 
 Consultation.
 
-(e)
-
-Eligible entities.
-
-(f)
-
-Report to Congress.
-
 |  |  |
 | :--- | ---: |
-| [3035n.](Subchapter%20004%20%28IV%29%20-%20Training%2C%20Research%2C%20and%20Discretionary%20Projects%20and%20Programs/Part%20B%20-%20Research%2C%20Demonstrations%2C%20and%20Other%20Activities/%C2%A7%2003035n%20-%20Demonstration%20programs%20for%20older%20individuals%20with%20developmental%20disabilities.md) | Demonstration programs for older individuals with developmental disabilities. |
+| [3033a.](Subchapter%20004%20%28IV%29%20-%20Training%2C%20Research%2C%20and%20Discretionary%20Projects%20and%20Programs/Part%20B%20-%20General%20Provisions/%C2%A7%2003033a%20-%20Responsibilities%20of%20Assistant%20Secretary.md) | Responsibilities of Assistant Secretary. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 (a)
 
-Definitions.
+In general.
 
 (b)
 
-Establishment.
+Report.
 
 (c)
 
-Use of funds.
-
-(d)
-
-Application.
-
-|  |  |
-| :--- | ---: |
-| 3035<i>o.</i> | Housing demonstration programs. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Housing ombudsman demonstration programs.
-
-(b)
-
-Foreclosure and eviction assistance and relief services demonstration programs.
-
-(c)
-
-Evaluations and reports.
-
-|  |  |
-| :--- | ---: |
-| [3035p.](Subchapter%20004%20%28IV%29%20-%20Training%2C%20Research%2C%20and%20Discretionary%20Projects%20and%20Programs/Part%20B%20-%20Research%2C%20Demonstrations%2C%20and%20Other%20Activities/%C2%A7%2003035p%20-%20Private%20resource%20enhancement%20projects.md) | Private resource enhancement projects. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Grants.
-
-(b)
-
-Award of grants and contracts.
-
-(c)
-
-Monitoring.
-
-|  |  |
-| :--- | ---: |
-| [3035q.](Subchapter%20004%20%28IV%29%20-%20Training%2C%20Research%2C%20and%20Discretionary%20Projects%20and%20Programs/Part%20B%20-%20Research%2C%20Demonstrations%2C%20and%20Other%20Activities/%C2%A7%2003035q%20-%20Career%20preparation%20for%20the%20field%20of%20aging.md) | Career preparation for the field of aging. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Grants.
-
-(b)
-
-Definitions.
-
-|  |  |
-| :--- | ---: |
-| [3035r.](Subchapter%20004%20%28IV%29%20-%20Training%2C%20Research%2C%20and%20Discretionary%20Projects%20and%20Programs/Part%20B%20-%20Research%2C%20Demonstrations%2C%20and%20Other%20Activities/%C2%A7%2003035r%20-%20Pension%20rights%20demonstration%20projects.md) | Pension rights demonstration projects. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Definitions.
-
-(b)
-
-Establishment.
-
-(c)
-
-Pension rights information programs.
-
-(d)
-
-Training program.
-
-(e)
-
-Duration.
-
-(f)
-
-Report to Congress.
-
-(g)
-
-Administrative expenses.
-
-#### Part C—General Provisions
-
-|  |  |
-| :--- | ---: |
-| [3037\.](Subchapter%20004%20%28IV%29%20-%20Training%2C%20Research%2C%20and%20Discretionary%20Projects%20and%20Programs/Part%20C%20-%20General%20Provisions/%C2%A7%2003037%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-| [3037a.](Subchapter%20004%20%28IV%29%20-%20Training%2C%20Research%2C%20and%20Discretionary%20Projects%20and%20Programs/Part%20C%20-%20General%20Provisions/%C2%A7%2003037a%20-%20Payments%20of%20grants.md) | Payments of grants. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Contributions of recipients.
-
-(b)
-
-Adjustments; advances or reimbursement; installments; conditions.
-
-(c)
-
-Consultation with designated State agency as prerequisite to grant or contract.
-
-|  |  |
-| :--- | ---: |
-| [3037b.](Subchapter%20004%20%28IV%29%20-%20Training%2C%20Research%2C%20and%20Discretionary%20Projects%20and%20Programs/Part%20C%20-%20General%20Provisions/%C2%A7%2003037b%20-%20Responsibilities%20of%20Assistant%20Secretary.md) | Responsibilities of Assistant Secretary. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Grants and contracts; nondelegation of authority.
-
-(b)
-
-Annual report to Congress.
-
-(c)
-
-Evaluation of programs.
+Evaluations.
 
 #### SUBCHAPTER V—MULTIPURPOSE SENIOR CENTERS
 
@@ -1116,17 +939,17 @@ Evaluation of programs.
 
 |  |  |
 | :--- | ---: |
-| [3056\.](Subchapter%20009%20%28IX%29%20-%20Community%20Service%20Employment%20for%20Older%20Americans/%C2%A7%2003056%20-%20Older%20American%20Community%20Service%20Employment%20Program.md) | Older American Community Service Employment Program. |
+| [3056\.](Subchapter%20009%20%28IX%29%20-%20Community%20Service%20Employment%20for%20Older%20Americans/%C2%A7%2003056%20-%20Older%20American%20community%20service%20employment%20program.md) | Older American community service employment program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 (a)
 
-Employment.
+Establishment.
 
 (b)
 
-Authority of Secretary; execution of agreements with terms and conditions for furthering purposes and goals of program; regulations for execution of subchapter provisions; development of alternatives for innovative work modes; creation of job opportunities; Senior Environmental Employment Corps.
+Authority of Secretary; execution of agreements to further purposes and goals of program.
 
 (c)
 
@@ -1134,33 +957,37 @@ Authority of Secretary; project costs; non-Federal share; administration costs.
 
 (d)
 
-Project and program distribution review; notice and opportunity for hearing.
+Project and program review.
 
 (e)
 
-Second career training and job placement experimental projects; equitable geographic distribution; project criteria; evaluation of program; interim and final reports.
+Second career training and job placement projects; equitable geographic distribution; project criteria.
+
+(f)
+
+Evaluations.
 
 |  |  |
 | :--- | ---: |
-| [3056a.](Subchapter%20009%20%28IX%29%20-%20Community%20Service%20Employment%20for%20Older%20Americans/%C2%A7%2003056a%20-%20Administration%20of%20community%20service%20projects.md) | Administration of community service projects. |
+| [3056a.](Subchapter%20009%20%28IX%29%20-%20Community%20Service%20Employment%20for%20Older%20Americans/%C2%A7%2003056a%20-%20Administration.md) | Administration. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 (a)
 
-Consideration of needs of localities, employment situation and skills of eligible participants, and potential projects and number and percentage of eligible individuals in local population; coordination of programs by Secretary of Labor.
+State Senior Employment Services Coordination Plan.
 
 (b)
 
-Coordination of Older American Community Service Employment Program with other Federal programs; prohibition against use of appropriations under this chapter for other Federal programs; distribution of information relating to age discrimination.
+Coordination of program with other Federal programs.
 
 (c)
 
-Use of services, equipment, personnel, and facilities of Federal and other agencies; cooperation with other public and private agencies in such use.
+Use of services, equipment, personnel, and facilities of other agencies.
 
 (d)
 
-Payments; advances; reimbursement; installments.
+Payments.
 
 (e)
 
@@ -1168,11 +995,15 @@ Delegation of functions prohibited.
 
 (f)
 
-Senior Environmental Employment Corps and energy conservation projects.
+Monitoring, compliance, reports, and records.
+
+(g)
+
+Evaluations and reports to Congress.
 
 |  |  |
 | :--- | ---: |
-| [3056b.](Subchapter%20009%20%28IX%29%20-%20Community%20Service%20Employment%20for%20Older%20Americans/%C2%A7%2003056b%20-%20Participants%20without%20status%20of%20Federal%20employees%3B%20contractual%20requirement%20of%20workmen%27s%20compensation.md) | Participants without status of Federal employees; contractual requirement of workmen's compensation. |
+| [3056b.](Subchapter%20009%20%28IX%29%20-%20Community%20Service%20Employment%20for%20Older%20Americans/%C2%A7%2003056b%20-%20Participants%20not%20Federal%20employees.md) | Participants not Federal employees. |
 | [3056c.](Subchapter%20009%20%28IX%29%20-%20Community%20Service%20Employment%20for%20Older%20Americans/%C2%A7%2003056c%20-%20Interagency%20cooperation.md) | Interagency cooperation. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -1187,41 +1018,130 @@ Director of Office of Community Services; Secretary of Health and Human Services
 
 (c)
 
-Administrator of Environmental Protection Agency; Secretary of Energy.
-
-(d)
-
 Secretary of Education.
 
 |  |  |
 | :--- | ---: |
-| [3056d.](Subchapter%20009%20%28IX%29%20-%20Community%20Service%20Employment%20for%20Older%20Americans/%C2%A7%2003056d%20-%20National%20grants%20or%20contracts%20and%20State%20allotments%20for%20projects.md) | National grants or contracts and State allotments for projects. |
+| [3056d.](Subchapter%20009%20%28IX%29%20-%20Community%20Service%20Employment%20for%20Older%20Americans/%C2%A7%2003056d%20-%20Distribution%20of%20assistance.md) | Distribution of assistance. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 (a)
 
-Reservation of appropriations; national activities based on level of activities in fiscal year 1978; equitable distribution of aggregate activities; transitional employment funds; allotment of excess appropriations based on amount appropriated in fiscal year 1991; allotment formula; preferences in awards; demographics.
+Reservations.
 
 (b)
 
-Reallotments.
+State allotments.
 
 (c)
 
-Equitable distribution of assistance.
+Division between national grants and grants to States.
 
 (d)
 
-Compliance reports by State agencies.
+Allotments for national grants.
+
+(e)
+
+Allotments for grants to States.
+
+(f)
+
+Allotment percentage.
+
+(g)
+
+Definitions.
 
 |  |  |
 | :--- | ---: |
-| [3056e.](Subchapter%20009%20%28IX%29%20-%20Community%20Service%20Employment%20for%20Older%20Americans/%C2%A7%2003056e%20-%20Definitions.md) | Definitions. |
-| [3056f.](Subchapter%20009%20%28IX%29%20-%20Community%20Service%20Employment%20for%20Older%20Americans/%C2%A7%2003056f%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [3056e.](Subchapter%20009%20%28IX%29%20-%20Community%20Service%20Employment%20for%20Older%20Americans/%C2%A7%2003056e%20-%20Equitable%20distribution.md) | Equitable distribution. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Interstate allocation.
+
+(b)
+
+Intrastate allocation.
+
+|  |  |
+| :--- | ---: |
+| [3056f.](Subchapter%20009%20%28IX%29%20-%20Community%20Service%20Employment%20for%20Older%20Americans/%C2%A7%2003056f%20-%20Report.md) | Report. |
 | [3056g.](Subchapter%20009%20%28IX%29%20-%20Community%20Service%20Employment%20for%20Older%20Americans/%C2%A7%2003056g%20-%20Employment%20assistance%20and%20Federal%20housing%20and%20food%20stamp%20programs.md) | Employment assistance and Federal housing and food stamp programs. |
-| [3056h.](Subchapter%20009%20%28IX%29%20-%20Community%20Service%20Employment%20for%20Older%20Americans/%C2%A7%2003056h%20-%20Dual%20eligibility.md) | Dual eligibility. |
+| [3056h.](Subchapter%20009%20%28IX%29%20-%20Community%20Service%20Employment%20for%20Older%20Americans/%C2%A7%2003056h%20-%20Eligibility%20for%20workforce%20investment%20activities.md) | Eligibility for workforce investment activities. |
 | [3056i.](Subchapter%20009%20%28IX%29%20-%20Community%20Service%20Employment%20for%20Older%20Americans/%C2%A7%2003056i%20-%20Treatment%20of%20assistance.md) | Treatment of assistance. |
+| [3056j.](Subchapter%20009%20%28IX%29%20-%20Community%20Service%20Employment%20for%20Older%20Americans/%C2%A7%2003056j%20-%20Coordination%20with%20the%20Workforce%20Investment%20Act%20of%201998.md) | Coordination with the Workforce Investment Act of 1998. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Partners.
+
+(b)
+
+Coordination.
+
+|  |  |
+| :--- | ---: |
+| [3056k.](Subchapter%20009%20%28IX%29%20-%20Community%20Service%20Employment%20for%20Older%20Americans/%C2%A7%2003056k%20-%20Performance.md) | Performance. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Measures.
+
+(b)
+
+Required indicators.
+
+(c)
+
+Definitions of indicators.
+
+(d)
+
+Corrective efforts.
+
+|  |  |
+| :--- | ---: |
+| 3056<i>l.</i> | Competitive requirements relating to grant awards. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Program authorized.
+
+(b)
+
+Eligible applicants.
+
+(c)
+
+Criteria.
+
+(d)
+
+Responsibility tests.
+
+(e)
+
+National performance measures and competition for public and private nonprofit agencies and organizations.
+
+(f)
+
+Performance measures and competition for States.
+
+|  |  |
+| :--- | ---: |
+| [3056m.](Subchapter%20009%20%28IX%29%20-%20Community%20Service%20Employment%20for%20Older%20Americans/%C2%A7%2003056m%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [3056n.](Subchapter%20009%20%28IX%29%20-%20Community%20Service%20Employment%20for%20Older%20Americans/%C2%A7%2003056n%20-%20Definitions.md) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1240,6 +1160,23 @@ Compliance reports by State agencies.
 | :--- | ---: |
 | [3057b.](Subchapter%20010%20%28X%29%20-%20Grants%20for%20Native%20Americans/Part%20A%20-%20Indian%20Program/%C2%A7%2003057b%20-%20Findings.md) | Findings. |
 | [3057c.](Subchapter%20010%20%28X%29%20-%20Grants%20for%20Native%20Americans/Part%20A%20-%20Indian%20Program/%C2%A7%2003057c%20-%20Eligibility.md) | Eligibility. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Criteria.
+
+(b)
+
+Limitation.
+
+(c)
+
+“Indian tribe” and “tribal organization” defined.
+
+|  |  |
+| :--- | ---: |
 | [3057d.](Subchapter%20010%20%28X%29%20-%20Grants%20for%20Native%20Americans/Part%20A%20-%20Indian%20Program/%C2%A7%2003057d%20-%20Grants%20authorized.md) | Grants authorized. |
 | [3057e.](Subchapter%20010%20%28X%29%20-%20Grants%20for%20Native%20Americans/Part%20A%20-%20Indian%20Program/%C2%A7%2003057e%20-%20Applications.md) | Applications. |
 
@@ -1327,13 +1264,29 @@ Funds per year.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part C—General Provisions
+#### Part C—Native American Caregiver Support Program
+
+|  |  |
+| :--- | ---: |
+| 3057k–11. | Program. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Requirements.
+
+#### Part D—General Provisions
 
 |  |  |
 | :--- | ---: |
 | 3057<i>l.</i> | Administration. |
-| [3057m.](Subchapter%20010%20%28X%29%20-%20Grants%20for%20Native%20Americans/Part%20C%20-%20General%20Provisions/%C2%A7%2003057m%20-%20Payments.md) | Payments. |
-| [3057n.](Subchapter%20010%20%28X%29%20-%20Grants%20for%20Native%20Americans/Part%20C%20-%20General%20Provisions/%C2%A7%2003057n%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [3057m.](Subchapter%20010%20%28X%29%20-%20Grants%20for%20Native%20Americans/Part%20D%20-%20General%20Provisions/%C2%A7%2003057m%20-%20Payments.md) | Payments. |
+| [3057n.](Subchapter%20010%20%28X%29%20-%20Grants%20for%20Native%20Americans/Part%20D%20-%20General%20Provisions/%C2%A7%2003057n%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1360,11 +1313,7 @@ Prevention of elder abuse, neglect, and exploitation.
 
 (c)
 
-State elder rights and legal assistance development program.
-
-(d)
-
-Outreach, counseling, and assistance program.
+Legal assistance development program.
 
 |  |  |
 | :--- | ---: |
@@ -1500,53 +1449,25 @@ Requirements.
 
 Designation.
 
-#### subpart iv—state elder rights and legal assistance development program
+(g)
+
+Study and report.
+
+#### subpart iv—state legal assistance development program
 
 |  |  |
 | :--- | ---: |
-| [3058j.](Subchapter%20011%20%28XI%29%20-%20Allotments%20for%20Vulnerable%20Elder%20Rights%20Protection%20Activities/Part%20A%20-%20State%20Provisions/Subpart%20004%20%28iv%29%20-%20State%20Elder%20Rights%20and%20Legal%20Assistance%20Development%20Program/%C2%A7%2003058j%20-%20State%20elder%20rights%20and%20legal%20assistance%20development.md) | State elder rights and legal assistance development. |
+| [3058j.](Subchapter%20011%20%28XI%29%20-%20Allotments%20for%20Vulnerable%20Elder%20Rights%20Protection%20Activities/Part%20A%20-%20State%20Provisions/Subpart%20004%20%28iv%29%20-%20State%20Legal%20Assistance%20Development%20Program/%C2%A7%2003058j%20-%20State%20legal%20assistance%20development.md) | State legal assistance development. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Establishment.
-
-(b)
-
-Functions.
 
 #### subpart v—outreach, counseling, and assistance program
 
 |  |  |
 | :--- | ---: |
-| [3058k.](Subchapter%20011%20%28XI%29%20-%20Allotments%20for%20Vulnerable%20Elder%20Rights%20Protection%20Activities/Part%20A%20-%20State%20Provisions/Subpart%20005%20%28v%29%20-%20Outreach%2C%20Counseling%2C%20and%20Assistance%20Program/%C2%A7%2003058k%20-%20State%20outreach%2C%20counseling%2C%20and%20assistance%20program%20for%20insurance%20and%20public%20benefits.md) | State outreach, counseling, and assistance program for insurance and public benefits. |
+| [3058k.](Subchapter%20011%20%28XI%29%20-%20Allotments%20for%20Vulnerable%20Elder%20Rights%20Protection%20Activities/Part%20A%20-%20State%20Provisions/Subpart%20005%20%28v%29%20-%20Outreach%2C%20Counseling%2C%20and%20Assistance%20Program/%C2%A7%2003058k%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93501%2C%20title%20VII%2C%20%C2%A7706%2C%20Nov.%2013%2C%202000%2C%20114%20Stat.%202291.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Definitions.
-
-(b)
-
-Establishment.
-
-(c)
-
-Insurance and public benefits.
-
-(d)
-
-Administration.
-
-(e)
-
-Maintenance of effort.
-
-(f)
-
-Coordination.
 
 #### Part B—Native American Organization Provisions
 
@@ -1606,7 +1527,7 @@ Limitation.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1395b–4, 1760, 4913, 6024, 6042, 8004, 11292, 11701, 14404 of this title; title 7 sections 1431, 1431e, 7501; title 29 sections 794e, 1732, 2942.
+This chapter is referred to in sections 1395b–4, 1760, 4913, 8004, 11292, 11701, 14404, 15025, 15043 of this title; title 7 sections 1431, 1431e, 7501; title 29 sections 794e, 1732, 2942.
 
 
 ---

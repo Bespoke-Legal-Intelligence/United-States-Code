@@ -10,7 +10,7 @@ Before moving productive facilities from the United States to a foreign country,
 
 &emsp;(1) apply for and use all adjustment assistance for which it is eligible under this subchapter,
 
-&emsp;(2) offer employment opportunities in the United States, if any exist, to its employees who are totally or partially separated workers as a result of the move, and
+&emsp;(2) offer employment opportunities in the United States, if any exist, to its employeeswho are totally or partially separated workers as a result of the move, and
 
 &emsp;(3) assist in relocating employees to other locations in the United States where employment opportunities exist.
 

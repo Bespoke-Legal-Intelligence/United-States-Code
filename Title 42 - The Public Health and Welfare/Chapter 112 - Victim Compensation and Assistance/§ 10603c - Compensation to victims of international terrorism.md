@@ -1,0 +1,64 @@
+### §10603c. Compensation to victims of international terrorism
+
+#### (a) Definitions
+
+In this section:
+
+#### (1) International terrorism
+
+&emsp;The term “international terrorism” has the meaning given the term in section 2331 of title 18.
+
+#### (2) National of the United States
+
+&emsp;The term “national of the United States” has the meaning given the term in section 1101(a) of title 8.
+
+#### (3) Victim
+
+#### (A) In general
+
+&emsp;&emsp;The term “victim” means a person who—
+
+&emsp;&emsp;&emsp;(i) suffered direct physical or emotional injury or death as a result of international terrorism occurring on or after December 21, 1988 with respect to which an investigation or prosecution was ongoing after April 24, 1996; and
+
+&emsp;&emsp;&emsp;(ii) as of the date on which the international terrorism occurred, was a national of the United States or an officer or employee of the United States Government.
+
+#### (B) Incompetent, incapacitated, or deceased victims
+
+&emsp;&emsp;In the case of a victim who is less than 18 years of age, incompetent, incapacitated, or deceased, a family member or legal guardian of the victim may receive the compensation under this section on behalf of the victim.
+
+#### (C) Exception
+
+&emsp;&emsp;Notwithstanding any other provision of this section, in no event shall an individual who is criminally culpable for the terrorist act or mass violence receive any compensation under this section, either directly or on behalf of a victim.
+
+#### (b) Award of compensation
+
+The Director may use the emergency reserve referred to in section 10601(d)(5)(A) of this title to carry out a program to compensate victims of acts of international terrorism that occur outside the United States for expenses associated with that victimization.
+
+#### (c) Annual report
+
+The Director shall annually submit to Congress a report on the status and activities of the program under this section, which report shall include—
+
+&emsp;(1) an explanation of the procedures for filing and processing of applications for compensation;
+
+&emsp;(2) a description of the procedures and policies instituted to promote public awareness about the program;
+
+&emsp;(3) a complete statistical analysis of the victims assisted under the program, including—
+
+&emsp;&emsp;(A) the number of applications for compensation submitted;
+
+&emsp;&emsp;(B) the number of applications approved and the amount of each award;
+
+&emsp;&emsp;(C) the number of applications denied and the reasons for the denial;
+
+&emsp;&emsp;(D) the average length of time to process an application for compensation; and
+
+&emsp;&emsp;(E) the number of applications for compensation pending and the estimated future liability of the program; and
+
+&emsp;(4) an analysis of future program needs and suggested program improvements.
+
+(Pub. L. 98–473, title II, §1404C, as added Pub. L. 106–386, div. C, §2003(c)(1), Oct. 28, 2000, 114 Stat. 1544.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 10601 of this title.
+

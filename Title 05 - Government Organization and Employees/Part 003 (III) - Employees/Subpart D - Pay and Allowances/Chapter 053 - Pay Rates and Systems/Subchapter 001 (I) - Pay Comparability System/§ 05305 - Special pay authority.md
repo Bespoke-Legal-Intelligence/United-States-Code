@@ -48,7 +48,7 @@ Subsec. (c)(1). Pub. L. 94–82, §202(c)(2), inserted provision relating to spe
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990,see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of this title.
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of this title.
 
 #### Delegation of Functions
 
@@ -80,7 +80,13 @@ Manner of Payment; Reduction or Elimination.—A staffing differential under thi
 
 #### Federal Law Enforcement Pay Reform
 
-Section 529 \[title IV, §§401–407\] of Pub. L. 101–509, as amended by Pub. L. 102–378, §3(5)–(9), Oct. 2, 1992, 106 Stat. 1356; Pub. L. 103–123, title VI, §628, Oct. 28, 1993, 107 Stat. 1266; Pub. L. 103–178, title III, §303(a), Dec. 3, 1993, 107 Stat. 2034; Pub. L. 105–61, title I, §118(e), Oct. 10, 1997, 111 Stat. 1288, provided that:
+Pub. L. 106–554, §1(a)(4) \[div. B, title IX, §907(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–309, provided that: “Beginning on the effective date of this Act \[see section 1(a)(4) \[div. B, title IX, §909\] of Pub. L. 106–554, set out in a Conversion to New Salary Schedule note under section 204 of Title 3, The President\]—
+
+&emsp;“(1) no existing special salary rates shall be authorized for members of the United States Park Police under section 5305 of title 5, United States Code (or any previous similar provision of law); and
+
+&emsp;“(2) no special rates of pay or special pay adjustments shall be applicable to members of the United States Park Police pursuant to section 405 of the Federal Law Enforcement Pay Reform Act of 1990 \[section 529 \[title IV, §405\] of Pub. L. 101–509, set out in a note below\].”
+
+Section 529 \[title IV, §§401–407\] of Pub. L. 101–509, as amended by Pub. L. 102–378, §3(5)–(9), Oct. 2, 1992, 106 Stat. 1356; Pub. L. 103–123, title VI, §628, Oct. 28, 1993, 107 Stat. 1266; Pub. L. 103–178, title III, §303(a), Dec. 3, 1993, 107 Stat. 2034; Pub. L. 105–61, title I, §118(e), Oct. 10, 1997, 111 Stat. 1288; Pub. L. 106–554, §1(a)(4) \[div. B,title IX, §907(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–309, provided that:
 
 #### “SEC. 401. SHORT TITLE.
 
@@ -185,7 +191,7 @@ Step 2
 | Los Angeles-Anaheim-Riverside, CA Consolidated Metropolitan Statistical Area | 16%&nbsp;&nbsp; |
 | New York-Northern New Jersey-Long Island, NY–NJ–CT Consolidated Metropolitan Statistical Area | 16%&nbsp;&nbsp; |
 | Philadelphia-Wilmington-Trenton, PA–NJ–DE–MD Consolidated Metropolitan Statistical Area | 4%&nbsp;&nbsp; |
-| San Francisco-Oakland-San Jose, CA Consolidated Metropolitan Statistical Area | 16%   |
+| San Francisco-Oakland-San Jose, CA Consolidated Metropolitan Statistical Area | 16%&nbsp;&nbsp; |
 | San Diego, CA Metropolitan Statistical Area | 8%&nbsp;&nbsp; |
 | Washington-Baltimore DC–MD–VA–WV Consolidated Metropolitan Statistical Area | 4%&nbsp;&nbsp; |
 
@@ -201,29 +207,21 @@ Step 2
 
 “(b) This subsection applies with respect to any—
 
-&emsp;“\[(1) Repealed. Pub. L. 105–61, title I, §118(e), Oct. 10, 1997, 111 Stat. 1288;\]
+&emsp;“(1) special agent within the Diplomatic Security Service;
 
-&emsp;“(2) member of the United States Park Police;
+&emsp;“(2) probation officer (referred to in section 3672 of title 18, United States Code); or
 
-&emsp;“(3) special agent within the Diplomatic Security Service;
+&emsp;“(3) pretrial services officer (referred to in section 3153 of title 18, United States Code).
 
-&emsp;“(4) probation officer (referred to in section 3672 of title 18, United States Code); or
+“(c) For purposes of this section, the term ‘appropriate agency head’ means—
 
-&emsp;“(5) pretrial services officer (referred to in section 3153 of title 18, United States Code).
+&emsp;“(1) with respect to any individual under subsection (b)(1), the Secretary of State; or
 
-“(c) For the purposes of this section, the term ‘appropriate agency head’ means—
-
-&emsp;“\[(1) Repealed. Pub. L. 105–61, title I, §118(e), Oct. 10, 1997, 111 Stat. 1288;\]
-
-&emsp;“(2) with respect to any individual under subsection (b)(2), the Secretary of the Interior;
-
-&emsp;“(3) with respect to any individual under subsection (b)(3), the Secretary of State;
-
-&emsp;“(4) with respect to any individual under subsection (b)(4) or (b)(5), the Director of the Administrative Office of the United States Courts.
+&emsp;“(2) with respect to any individual under subsection (b)(2) or (b)(3), the Director of the Administrative Office of the United States Courts.
 
 #### “SEC. 406. FBI NEW YORK FIELD DIVISION.
 
-“(a) The total pay of an employee of the Federal Bureau of Investigation assigned to the New York Field Division before the date of September 29, 1993, in a position covered by the demonstration project conducted under section 601 of the Intelligence Authorization Act for Fiscal Year 1989 (Public Law 100–453) \[102 Stat. 1911\] shall not be reduced as a result of the termination of the demonstration project during the period that employee remains employed after that date in a position covered by the demonstration project.
+“(a) The total pay of an employee of the Federal Bureau of Investigation assigned to the New York FieldDivision before the date of September 29, 1993, in a position covered by the demonstration project conducted under section 601 of the Intelligence Authorization Act for Fiscal Year 1989 (Public Law 100–453) \[102 Stat. 1911\] shall not be reduced as a result of the termination of the demonstration project during the period that employee remains employed after that date in a position covered by the demonstration project.
 
 “(b) Beginning on September 30, 1993, any periodic payment under section 601(a)(2) of the Intelligence Authorization Act for Fiscal Year 1989 \[Pub. L. 100–453, 102 Stat. 1911\] for any such employee shall be reduced by the amount of any increase in basic pay under title 5, United States Code, including the following provisions: an annual adjustment under section 5303, locality-based comparability payment under section 5304, initiation or increase in a special pay rate under section 5305, promotion under section 5334, periodic step increase under section 5335, merit increase under section 5404, or other increase to basic pay under any provision of law.
 

@@ -62,7 +62,7 @@ Judicial Review.—A party to a proceeding under subsection (d) or (e) of this s
 
 Fees.—(1) A State, political subdivision of a State, or Indian tribe may impose a fee related to transporting hazardous material only if the fee is fair and used for a purpose related to transporting hazardous material, including enforcement and planning, developing, and maintaining a capability for emergency response.
 
-(2) A State or political subdivision thereof or Indian tribe that levies a fee in connection withthe transportation of hazardous materials shall, upon the Secretary's request, report to the Secretary on—
+(2) A State or political subdivision thereof or Indian tribe that levies a fee in connection with the transportation of hazardous materials shall, upon the Secretary's request, report to the Secretary on—
 
 &emsp;(A) the basis on which the fee is levied upon persons involved in such transportation;
 

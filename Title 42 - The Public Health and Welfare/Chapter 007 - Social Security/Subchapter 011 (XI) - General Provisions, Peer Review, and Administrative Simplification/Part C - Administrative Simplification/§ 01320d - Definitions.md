@@ -80,7 +80,7 @@ For purposes of this part:
 
 #### References in Text
 
-The Indian Health Care Improvement Act, referred to in par. (5)(L), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, as amended, which is classified principally to chapter 18 (§1601 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 25 and Tables.
+The Indian Health Care Improvement Act, referred to in par. (5)(L), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, as amended, which is classified principally tochapter 18 (§1601 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 25 and Tables.
 
 #### Prior Provisions
 

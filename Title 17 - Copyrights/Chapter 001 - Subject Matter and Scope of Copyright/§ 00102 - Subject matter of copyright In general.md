@@ -54,7 +54,7 @@ Of the seven items listed, four are defined in section 101. The three undefined 
 
 The four items defined in section 101 are “literary works,” “pictorial, graphic, and sculptural works,” “motion pictures and audiovisual works”, and “sound recordings”. In each of these cases, definitions are needed not only because the meaning of the term itself is unsettled but also because the distinction between “work” and “material object” requires clarification. The term “literary works” does not connote any criterion of literary merit or qualitative value: it includes catalogs, directories, and similar factual, reference, or instructional works and compilations of data. It also includes computer data bases, and computer programs to the extent that they incorporate authorship in the programmer's expression of original ideas, as distinguished from the ideas themselves.
 
-Correspondingly, the definition of “pictorial, graphic, and sculptural works” carries with it no implied criterion of artistic taste, aesthetic value, or intrinsic quality. The term is intended to comprise not only “works of art” in the traditional sense but also works of graphic art and illustration, art reproductions, plans and drawings, photographs and reproductions of them, maps, charts, globes, and other cartographic works, works of these kinds intended for use in advertising and commerce, and works of “applied art.” There is no intention whatever to narrow the scope of the subjectmatter now characterized in section 5(k) \[section 5(k) of former title 17\] as “prints or labels used for articles of merchandise.” However, since this terminology suggests the material object in which a work is embodied rather than the work itself, the bill does not mention this category separately.
+Correspondingly, the definition of “pictorial, graphic, and sculptural works” carries with it no implied criterion of artistic taste, aesthetic value, or intrinsic quality. The term is intended to comprise not only “works of art” in the traditional sense but also works of graphic art and illustration, art reproductions, plans and drawings, photographs and reproductions of them, maps, charts, globes, and other cartographic works, works of these kinds intended for use in advertising and commerce, and works of “applied art.” There is no intention whatever to narrow the scope of the subject matter now characterized in section 5(k) \[section 5(k) of former title 17\] as “prints or labels used for articles of merchandise.” However, since this terminology suggests the material object in which a work is embodied rather than the work itself, the bill does not mention this category separately.
 
 In accordance with the Supreme Court's decision in <i>Mazer v. Stein</i>, 347 U.S. 201 (1954) \[74 S.Ct. 460, 98 L. Ed. 630, rehearing denied 74 S.Ct. 637, 347 U.S. 949, 98 L.Ed. 1096\], works of “applied art” encompass all original pictorial, graphic, and sculptural works that are intended to be or have been embodied in useful articles, regardless of factors such as mass production, commercial exploitation, and the potential availability of design patent protection. The scope of exclusive rights in these works is given special treatment in section 113, to be discussed below.
 
@@ -91,40 +91,6 @@ Section 102(b) in no way enlarges or contracts the scope of copyright protection
 #### Effective Date of 1990 Amendment
 
 Amendment by Pub. L. 101–650 applicable to any architectural work created on or after Dec. 1, 1990, and any architectural work, that, on Dec. 1, 1990, is unconstructed and embodied in unpublished plans or drawings, except that protection for such architectural work under this title terminates on Dec. 31, 2002, unless the work is constructed by that date, see section 706 of Pub. L. 101–650, set out as a note under section 101 of this title.
-
-#### Cross References
-
-Actions and remedies for infringement of copyright, see section 501 et seq. of this title.
-
-Common law rights, see section 301 of this title.
-
-Copyright as distinct from property in object copyrighted, see section 202 of this title.
-
-Copyright not capital asset, see section 1221 of Title 26, Internal Revenue Code.
-
-Duration of copyright, see section 301 et seq. of this title.
-
-Fees, see section 708 of this title.
-
-Government works as not copyrightable, see section 105 of this title.
-
-Power of Congress to grant authors exclusive right to their writings, see Const. Art. I, §8, cl. 8.
-
-Preemption of other laws that come within subject matter of this section, see section 301 of this title.
-
-Proclamation by President granting foreign authors copyright protection, see section 104 of this title.
-
-Regulations, see section 702 of this title.
-
-Subject matter of copyright—
-
-&emsp;&emsp;Compilations and derivative works, see section 103 of this title.
-
-&emsp;&emsp;National origin, see section 104 of this title.
-
-&emsp;&emsp;United States Government works, see section 105 of this title.
-
-Transfer and bequests of copyright, see section 201 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -2,7 +2,7 @@
 
 #### (a) State revolving funds for establishment of homes
 
-For fiscal year 1993 and subsequent fiscal years, the Secretary may make a grant under section 300x–21 of this title only if the State involved has established, and is providing for the ongoing operation of, a revolving fund as follows:
+A State, using funds available under section 300x–21 of this title, may establish and maintain the ongoing operation of a revolving fund in accordance with this section to support group homes for recovering substance abusers as follows:
 
 &emsp;(1) The purpose of the fund is to make loans for the costs of establishing programs for the provision of housing in which individuals recovering from alcohol or drug abuse may reside in groups of not less than 6 individuals. The fund is established directly by the State or through the provision of a grant or contract to a nonprofit private entity.
 
@@ -32,13 +32,17 @@ The Secretary shall ensure that there are in effect guidelines under this subpar
 
 The requirements established in subsection (a) of this section shall not apply to any territory of the United States other than the Commonwealth of Puerto Rico.
 
-(July 1, 1944, ch. 373, title XIX, §1925, as added Pub. L. 102–321, title II, §202, July 10, 1992, 106 Stat. 393.)
+(July 1, 1944, ch. 373, title XIX, §1925, as added Pub. L. 102–321, title II, §202, July 10, 1992, 106 Stat. 393; amended Pub. L. 106–310, div. B, title XXXIII, §3303(b), Oct. 17, 2000, 114 Stat. 1210.)
 
 #### Prior Provisions
 
 A prior section 1925 of act July 1, 1944, was classified to section 300x–11 of this title prior to repeal by Pub. L. 102–321.
 
 Another prior section 1925 of act July 1, 1944, was classified to section 300y–4 of this title prior to repeal by Pub. L. 99–280.
+
+#### Amendments
+
+2000—Subsec. (a). Pub. L. 106–310, in introductory provisions, substituted “A State, using funds available under section 300x–21 of this title, may establish and maintain the ongoing operation of a revolving fund in accordance with this section to support group homes for recovering substance abusers as follows:” for “For fiscal year 1993 and subsequent fiscal years, the Secretary may make a grant under section 300x–21 of this title only if the State involved has established, and is providing for the ongoing operation of, a revolving fund as follows:”.
 
 #### Section Referred to in Other Sections
 

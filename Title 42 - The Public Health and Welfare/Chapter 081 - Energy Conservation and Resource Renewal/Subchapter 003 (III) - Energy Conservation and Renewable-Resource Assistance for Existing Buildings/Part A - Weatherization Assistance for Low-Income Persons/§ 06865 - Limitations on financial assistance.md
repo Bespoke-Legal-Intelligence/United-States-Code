@@ -2,11 +2,9 @@
 
 #### (a) Purchase of materials and administration of projects
 
-(1) Except as provided in paragraph (2), an average of at least forty percent of the funds provided in a State under this part for weatherization materials, labor, and related matters described in subsection (c) of this section shall be spent for weatherization materials. Not more than an amount equal to 10 percent of any grant made by the Secretary under this part may be used for administrative purposes in carrying out duties under this part, except that not more than one-half of such amount may be used by any State for such purposes, and a State may provide in the plan adopted pursuant to subsection (b) of this section for recipients of grants of less than $350,000 to use up to an additional 5 percent of such grant for administration if the State has determined that such recipient requires such additional amount to implement effectively the administrative requirements established by the Secretary pursuant to this part.
+(1) Not more than an amount equal to 10 percent of any grant made by the Secretary under this part may be used for administrative purposes in carrying out duties under this part, except that not more than one-half of such amount may be used by any State for such purposes, and a State may provide in the plan adopted pursuant to subsection (b) of this section for recipients of grants of less than $350,000 to use up to an additional 5 percent of such grant for administration if the State has determined that such recipient requires such additional amount to implement effectively the administrative requirements established by the Secretary pursuant to this part.
 
-(2)(A) The Secretary shall approve a State's application to waive the 40-percent requirement established in paragraph (1) if the State includes in its plan energy audit procedures and techniques which (i) meet standards established by the Secretary after consultation with the State Energy Advisory Board established under section 6325(g) of this title, (ii) establish priorities for selection of weatherization measures based on their cost and contribution to energy efficiency, (iii) measure the energy requirement of individual dwellings and the rate of return of the total conservation investment in a dwelling, and (iv) account for interaction among energy efficiency measures.
-
-(B) The Secretary shall make information on energy audit procedures and techniques available to States applying for a waiver under subparagraph (A) and shall provide training for State and local agencies in the implementation of such procedures and techniques.
+(2) The Secretary shall establish energy audit procedures and techniques which (i) meet standards established by the Secretary after consultation with the State Energy Advisory Board established under section 6325(g) of this title, (ii) establish priorities for selection of weatherization measures based on their cost and contribution to energy efficiency, (iii) measure the energy requirement of individual dwellings and the rate of return of the total conservation investment in a dwelling, and (iv) account for interaction among energy efficiency measures.
 
 #### (b) Allocation, termination or discontinuance by Secretary
 
@@ -24,53 +22,43 @@ The Secretary shall insure that financial assistance provided under this part wi
 
 #### (c) Limitations on expenditures; exceptions; annual adjustments
 
-(1) Except as provided in paragraphs (3) and (4), the expenditure of financial assistance provided under this part for labor, weatherization materials, and related matters shall not exceed an average of $1,600 per dwelling unit weatherized in that State. Labor, weatherization materials, and related matter includes, but is not limited to—
+(1) Except as provided in paragraph (3), the expenditure of financial assistance provided under this part for labor, weatherization materials, and related matters shall not exceed an average of $2,500 per dwelling unit weatherized in that State. Labor, weatherization materials, and related matter includes, but is not limited to—
 
 &emsp;(A) the appropriate portion of the cost of tools and equipment used to install weatherization materials for a dwelling unit;
 
 &emsp;(B) the cost of transporting labor, tools, and materials to a dwelling unit;
 
-&emsp;(C) the cost of having onsite supervisory personnel; and
+&emsp;(C) the cost of having onsite supervisory personnel;
 
-&emsp;(D) the cost of making incidental repairs to a dwelling unit if such repairs are necessary tomake the installation of weatherization materials effective.
+&emsp;(D) the cost of making incidental repairs to a dwelling unit if such repairs are necessary to make the installation of weatherization materials effective, and
+
+&emsp;(E) the cost of making heating and cooling modifications, including replacement <sup>1</sup>
 
 (2) Dwelling units partially weatherized under this part or under other Federal programs during the period September 30, 1975, through September 30, 1979, may receive further financial assistance for weatherization under this part.
 
-(3) Beginning with fiscal year 1991, the $1,600 per dwelling unit limitation provided in paragraph (1) shall be adjusted annually by increasing the limitation amount by an amount equal to—
+(3) Beginning with fiscal year 2000, the $2,500 per dwelling unit average provided in paragraph (1) shall be adjusted annually by increasing the average amount by an amount equal to—
 
-&emsp;(A) the limitation amount for the previous fiscal year, multiplied by
+&emsp;(A) the average amount for the previous fiscal year, multiplied by
 
-&emsp;(B) the lesser of (i) the percentage increase in the Consumer Price Index (all items, United States city average) for the most recent calendar year completed before the beginning of fiscal year for which the determination is being made, or (ii) three percent.
-
-(4)(A) In addition to the average per dwelling unit limitation applicable in a State under paragraphs (1) and (3), the Secretary shall, upon application by a State, establish a separate average per dwelling unit limitation for dwelling units in such State—
-
-&emsp;(i) which conform to program requirements; and
-
-&emsp;(ii) which, in addition to any other weatherization modifications, have furnace efficiency modifications made under this part.
-
-(B) The average per dwelling unit limitation applicable in a State to units described in subparagraph (A) shall not exceed an amount equal to—
-
-&emsp;(i) the amount permitted for the expenditure of financial assistance for labor, weatherization materials, and related matters for dwelling units in such State under paragraphs (1) and (3), plus
-
-&emsp;(ii) an amount determined by the State to be the average amount that is appropriate for furnace efficiency modifications of dwelling units of the type assisted under this part in such State.
+&emsp;(B) the lesser of (i) the percentage increase in the Consumer Price Index (all items, United States city average) for the most recent calendar year completed before the beginning of the fiscal year for which the determination is being made, or (ii) three percent.
 
 #### (d) Supplementary financial assistance to States
 
-Beginning with fiscal year 1992, the Secretary may allocate funds appropriated pursuant to section 6872(b) <sup>1</sup> of this title to provide supplementary financial assistance to those States which the Secretary determines have achieved the best performance during the previous fiscal year in achieving the purposes of this part. In making this determination, the Secretary shall—
+Beginning with fiscal year 1992, the Secretary may allocate funds appropriated pursuant to section 6872(b) <sup>2</sup> of this title to provide supplementary financial assistance to those States which the Secretary determines have achieved the best performance during the previous fiscal year in achieving the purposes of this part. In making this determination, the Secretary shall—
 
 &emsp;(1) consult with the State Energy Advisory Board established under section 6325(g) of this title; and
 
-&emsp;(2) give priority to those States which, during such previous fiscal year, obtained a significant portion of income from non-Federal sources for their weatherization programs or increased significantly the portion of low-income weatherization assistance that the State obtained from non-Federal sources.
+&emsp;(2) give priority to those States which, during such previous fiscal year, obtained a significant portion of income from non-Federal sources for their weatherization programs orincreased significantly the portion of low-income weatherization assistance that the State obtained from non-Federal sources.
 
 #### (e) Supplementary financial assistance to grant recipients
 
-(1)(A) Beginning with fiscal year 1992, the Secretary may allocate, from funds appropriated pursuant to section 6872(b) <sup>1</sup> of this title, among the States an equal amount for each State not to exceed $100,000 per State. Each State shall make available amounts received under this subsection to provide supplementary financial assistance to recipients of grants under this part that have achieved the best performance during the previous fiscal year in advancing the purposes of this part.
+(1)(A) Beginning with fiscal year 1992, the Secretary may allocate, from funds appropriated pursuant to section 6872(b) <sup>2</sup> of this title, among the States an equal amount for each State not to exceed $100,000 per State. Each State shall make available amounts received under this subsection to provide supplementary financial assistance to recipients of grants under this part that have achieved the best performance during the previous fiscal year in advancing the purposes of this part.
 
 (B) None of the funds made available under this subsection may be used by any State for administrative purposes.
 
 (2) The Secretary shall, after consulting with the State Energy Advisory Board referred to in subsection (d)(1) of this section, prescribe guidelines to be used by each State in making available supplementary financial assistance under this subsection, with a priority being given to subgrantees that, by law or through administrative or other executive action, provided non-Federal resources (including private resources) to supplement Federal financial assistance under this part during the previous fiscal year.
 
-(Pub. L. 94–385, title IV, §415, Aug. 14, 1976, 90 Stat. 1155; Pub. L. 95–619, title II, §231(c), Nov. 9, 1978, 92 Stat. 3225; Pub. L. 96–294, title V, §§571, 572, 573(a), 575, 577(2), June 30, 1980, 94 Stat. 759, 760; Pub. L. 98–558, title IV, §§403, 404, Oct. 30, 1984, 98 Stat. 2887, 2888; Pub. L. 101–440, §7(d)–(f), (i), Oct. 18, 1990, 104 Stat. 1013, 1014.)
+(Pub. L. 94–385, title IV, §415, Aug. 14, 1976, 90 Stat. 1155; Pub. L. 95–619, title II, §231(c), Nov. 9, 1978, 92 Stat. 3225; Pub. L. 96–294, title V, §§571, 572, 573(a), 575, 577(2), June 30, 1980, 94 Stat. 759, 760; Pub. L. 98–558, title IV, §§403, 404, Oct. 30, 1984, 98 Stat. 2887, 2888; Pub. L. 101–440, §7(d)–(f), (i), Oct. 18, 1990, 104 Stat. 1013, 1014; Pub. L. 106–469, title VI, §601(b), Nov. 9, 2000, 114 Stat. 2040.)
 
 #### References in Text
 
@@ -79,6 +67,22 @@ The Economic Opportunity Act of 1964, referred to in subsec. (b)(2), is Pub. L. 
 Section 6872 of this title, referred to in subsecs. (d) and (e)(1)(A), was amended by Pub. L. 105–388, §3, Nov. 13, 1998, 112 Stat. 3477, and, as so amended, no longer contains a subsec. (b).
 
 #### Amendments
+
+2000—Subsec. (a)(1). Pub. L. 106–469, §601(b)(1), struck out first sentence which read as follows: “Except as provided in paragraph (2), an average of at least forty percent of the funds provided in a State under this part for weatherization materials, labor, and related matters described in subsection (c) of this section shall be spent for weatherization materials.”
+
+Subsec. (a)(2). Pub. L. 106–469, §601(b)(2)(C), struck out subpar. (B) which read as follows: “The Secretary shall make information on energy audit procedures and techniques available to States applying for a waiver under subparagraph (A) and shall provide training for State and local agencies in the implementation of such procedures and techniques.”
+
+Pub. L. 106–469, §601(b)(2)(B), which directed amendment of par. (2) by substituting “establish” for “approve a State's application to waive the 40 percent requirement established in paragraph (1) if the State includes in its plan”, was executed by making the substitution for “approve a State's application to waive the 40-percent requirement established in paragraph (1) if the State includes in its plan”, to reflect the probable intent of Congress.
+
+Pub. L. 106–469, §601(b)(2)(A), struck out “(A)” before “The Secretary shall approve”.
+
+Subsec. (c)(1). Pub. L. 106–469, §601(b)(3)(A), (B), in introductory provisions, substituted “paragraph (3)” for “paragraphs (3) and (4)” and “$2,500” for “$1,600”.
+
+Subsec. (c)(1)(E). Pub. L. 106–469, §601(b)(3)(C)–(E), added subpar. (E).
+
+Subsec. (c)(3). Pub. L. 106–469, §601(b)(4), in introductory provisions, substituted “2000, the $2,500 per dwelling unit average” for “1991, the $1,600 per dwelling unit limitation” and “average amount” for “limitation amount”, in subpar. (A), substituted “average” for “limitation”, and, in subpar. (B), inserted “the” after “beginning of”.
+
+Subsec. (c)(4). Pub. L. 106–469, §601(b)(5), struck out par. (4), which required the Secretary, upon State application, to establish a separate average per dwelling unit limitation for dwelling units in the State.
 
 1990—Subsec. (a). Pub. L. 101–440, §7(d), substituted “(1) Except as provided in paragraph (2), an average” for “An average”, inserted before period at end “, and a State may provide in the plan adopted pursuant to subsection (b) of this section for recipients of grants of less than $350,000 to use up to an additional 5 percent of such grant for administration if the State has determined that such recipient requires such additional amount to implement effectively the administrative requirements established by the Secretary pursuant to this part”, and added par. (2).
 
@@ -120,5 +124,7 @@ Pub. L. 99–190, §101(d) \[title II, §201\], Dec. 19, 1985, 99 Stat. 1224, 12
 
 This section is referred to in sections 1474, 6864, 6872 of this title.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

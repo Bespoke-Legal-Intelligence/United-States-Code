@@ -2,7 +2,7 @@
 
 #### (a) Persons who may bring actions; persons against whom action may be brought; time of action; intervention by Attorney General; costs and fees; security
 
-(1) Except as provided in this section, any person having a valid legal interest which is or may be adversely affected may commence a civil action on his own behalf to compel compliance with this subchapter against any person, including the United States, and any other government instrumentality or agency (to the extent permitted by the eleventh amendment to theConstitution) for any alleged violation of any provision of this subchapter or any regulation promulgated under this subchapter, or of the terms of any permit or lease issued by the Secretary under this subchapter.
+(1) Except as provided in this section, any person having a valid legal interest which is or may be adversely affected may commence a civil action on his own behalf to compel compliance with this subchapter against any person, including the United States, and any other government instrumentality or agency (to the extent permitted by the eleventh amendment to the Constitution) for any alleged violation of any provision of this subchapter or any regulation promulgated under this subchapter, or of the terms of any permit or lease issued by the Secretary under this subchapter.
 
 (2) Except as provided in paragraph (3) of this subsection, no action may be commenced under subsection (a)(1) of this section—
 

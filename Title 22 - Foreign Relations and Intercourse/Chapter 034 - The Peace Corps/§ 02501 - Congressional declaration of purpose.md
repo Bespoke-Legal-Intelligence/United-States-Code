@@ -64,9 +64,9 @@ Peace Corps
 
 1–105. The functions of prescribing regulations and making determinations (relating to appointment of Peace Corps employees in the Foreign Service System), conferred upon the President by Section 5 of Public Law 89–135 (79 Stat. 551) \[probably means section 5(b) of Pub. L. 89–134, Aug. 24, 1965, 79 Stat. 551, set out as a note under section 2506 of this title\], are hereby delegated to the Director.
 
-1–106. The functions of prescribing conditions, conferred upon the President by the second sentence of Section 5(e), as amended (22 U.S.C. 2504(e)), and the third proviso of Section 6 of the Act (22 U.S.C. 2505) (relating to providing health care in Government facilities) and hereinabove delegated to the Director, shall be exercised in consultation with the head of the United States Government agency responsible for the facility.
+1–106. The functions of prescribing conditions, conferred upon the President by the second sentence ofSection 5(e), as amended (22 U.S.C. 2504(e)), and the third proviso of Section 6 of the Act (22 U.S.C. 2505) (relating to providing health care in Government facilities) and hereinabove delegated to the Director, shall be exercised in consultation with the head of the United States Government agency responsible for the facility.
 
-1–107. The reports required by Section 11 of the Act, as amended (22 U.S.C. 2510), shall be prepared by the Director and submitted to the Congress through the President.
+1–107. The reports required by Section 11 of the Act, as amended (\[former\] 22 U.S.C. 2510), shall be prepared by the Director and submitted to the Congress through the President.
 
 1–108. Subject to applicable provisions of law, all funds appropriated or otherwise made available to the President for carrying out the provisions of the Act \[this chapter\] shall be deemed to be allocated without any further action of the President to the Director or to such subordinate officer as the Director may designate. The Director or such officer may allocate or transfer, as appropriate, any of such funds to any United States Government agency or part thereof for obligation or expenditures thereby consistent with applicable law.
 
@@ -114,7 +114,7 @@ Incidental Provisions
 
 National Voluntary Action Program
 
-1–501. The National Voluntary Action Program to encourage and stimulate more widespread and effectivevoluntary action for solving public domestic problems, established in the Executive Branch of the Government by Section 1 of Executive Order No. 11470 of May 26, 1969 \[formerly set out as a note under section 2701 of Title 42, the Public Health and Welfare\], is continued in ACTION. That program shall supplement corresponding action by private and other non-Federal organizations such as the National Center for Voluntary Action. As used in this Order, the term “voluntary action” means the contribution or application of non-governmental resources of all kinds (time, money, goods, services, and skills) by private and other organizations of all types (profit and nonprofit, national and local, occupational, and altruistic) and by individual citizens.
+1–501. The National Voluntary Action Program to encourage and stimulate more widespread and effective voluntary action for solving public domestic problems, established in the Executive Branch of the Government by Section 1 of Executive Order No. 11470 of May 26, 1969 \[formerly set out as a note under section 2701 of Title 42, the Public Health and Welfare\], is continued in ACTION. That program shall supplement corresponding action by private and other non-Federal organizations such as the National Center for Voluntary Action. As used in this Order, the term “voluntary action” means the contribution or application of non-governmental resources of all kinds (time, money, goods, services, and skills) by private and other organizations of all types (profit and nonprofit, national and local, occupational, and altruistic) and by individual citizens.
 
 #### 1–6.
 

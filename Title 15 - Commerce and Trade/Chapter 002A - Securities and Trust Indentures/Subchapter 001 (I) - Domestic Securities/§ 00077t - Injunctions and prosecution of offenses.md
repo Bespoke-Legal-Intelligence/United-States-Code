@@ -26,7 +26,7 @@ Upon application of the Commission, the district courts of the United States and
 
 #### (B) Second tier
 
-&emsp;&emsp;Notwithstanding subparagraph (A), the amount of penalty for each such violation shall not exceed the greater of (i) $50,000 for a natural person or $250,000 for any other person, or (ii) the gross amount of pecuniary gain to such defendant as a result of the violation, if the violation described in paragraph (1) involved fraud, deceit, manipulation, or deliberate or reckless disregard of a regulatory requirement.
+&emsp;&emsp;Notwithstanding subparagraph (A), the amount of penalty for each such violationshall not exceed the greater of (i) $50,000 for a natural person or $250,000 for any other person, or (ii) the gross amount of pecuniary gain to such defendant as a result of the violation, if the violation described in paragraph (1) involved fraud, deceit, manipulation, or deliberate or reckless disregard of a regulatory requirement.
 
 #### (C) Third tier
 
@@ -56,7 +56,7 @@ Upon application of the Commission, the district courts of the United States and
 
 #### (4) Special provisions relating to a violation of a cease-and-desist order
 
-&emsp;In an action to enforce a cease-and-desist order entered by the Commission pursuant tosection 77h–1 of this title, each separate violation of such order shall be a separate offense, except that in the case of a violation through a continuing failure to comply with such an order, each day of the failure to comply with the order shall be deemed a separate offense.
+&emsp;In an action to enforce a cease-and-desist order entered by the Commission pursuant to section 77h–1 of this title, each separate violation of such order shall be a separate offense, except that in the case of a violation through a continuing failure to comply with such an order, each day of the failure to comply with the order shall be deemed a separate offense.
 
 #### (e) Authority of court to prohibit persons from serving as officers and directors
 
@@ -93,44 +93,6 @@ Nothing in amendment by Pub. L. 104–67 to be deemed to create or ratify any im
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
-#### Federal Rules of Civil Procedure
-
-Injunctions, see rule 65 and notes of Advisory Committee under the rule, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-Mandamus as abolished but relief yet available by appropriate action or motion under rules, see rule 81 and notes of Advisory Committee under the rule.
-
-#### Cross References
-
-Actions to enjoin violations, institution of criminal proceedings, and investigation of facts by Commission under—
-
-&emsp;&emsp;Investment Advisers Act of 1940, see section 80b–9 of this title.
-
-&emsp;&emsp;Investment Company Act of 1940, see section 80a–41 of this title.
-
-&emsp;&emsp;Public Utility Holding Company Act of 1935, see section 79r of this title.
-
-&emsp;&emsp;Securities Exchange Act of 1934, see section 78u of this title.
-
-Investigations and hearings under Trust Indenture Act of 1939, see section 77uuu of this title.
-
-Issuance of mandamus under—
-
-&emsp;&emsp;Public Utility Holding Company Act of 1935, see section 79r of this title.
-
-&emsp;&emsp;Securities Exchange Act of 1934, see section 78u of this title.
-
-Rules and regulations, authority of Commission to make, amend, and rescind, see section 77s of this title.
-
-Venue of criminal proceedings under—
-
-&emsp;&emsp;Investment Advisers Act of 1940, see section 80b–14 of this title.
-
-&emsp;&emsp;Investment Company Act of 1940, see section 80a–43 of this title.
-
-&emsp;&emsp;Public Utility Holding Company Act of 1935, see section 79y of this title.
-
-&emsp;&emsp;Securities Exchange Act of 1934, see section 78aa of this title.
 
 #### Section Referred to in Other Sections
 

@@ -20,10 +20,6 @@ Minor changes were made in phraseology.
 
 1989—Pub. L. 101–73 substituted “Transactions” for “transactions” in section catchline and amended text generally. Prior to amendment, text read as follows: “Whoever, for the purpose of obtaining any loan from the Federal Deposit Insurance Corporation, or any extension or renewals thereof, or the acceptance, release, or substitution of security therefor, or for the purpose of inducing the Federal Deposit Insurance Corporation to purchase any assets, or for the purpose of obtaining the payment of any insured deposit or transferred deposit or the allowance, approval, or payment of any claim, or for the purpose of influencing in any way the action of the Federal Deposit Insurance Corporation, makes any statement, knowing it to be false, or willfully overvalues any security, shall be fined not more than $5,000 or imprisoned not more than two years, or both.”
 
-#### Cross References
-
-Secret Service, detection, arrest and delivery into custody of any person violating this section, see section 3056 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 225, 981, 982, 1510, 1956, 3056, 3059A, 3293, 3322 of this title; title 12 sections 1785, 1786, 1821, 1828, 1829, 1831k, 1833a.

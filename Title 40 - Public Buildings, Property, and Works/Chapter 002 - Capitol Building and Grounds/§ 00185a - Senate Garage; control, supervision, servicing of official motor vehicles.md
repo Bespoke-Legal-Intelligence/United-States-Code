@@ -46,7 +46,3 @@ Section 2 of Pub. L. 96–444 provided that:
 
 “(c) During any period with respect to which subsection (b) is applicable to a position occupied by an individual described in such subsection, such individual shall be credited, for purposes of longevity compensation, as authorized by section 106(a), (b), and (d) of the Legislative Branch Appropriation Act, 1963 (2 U.S.C. 60j), for service performed by such individual in the position of garage attendant, as an employee of the Architect of the Capitol, as certified to the Secretary of the Senate by the Architect of the Capitol.”
 
-#### Applicability of Other Laws
-
-Section as unaffected by sections 193a to 193<i>l</i>, 212a, 212a–2, and 212b of this title, see note set out under section 193a of this title.
-

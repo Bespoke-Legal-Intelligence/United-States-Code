@@ -23,10 +23,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Cross References
-
-National Climate Program, establishment, contract and grant authority, etc., see section 2901 et seq. of this title.
-
 
 ---
 

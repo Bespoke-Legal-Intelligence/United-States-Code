@@ -16,7 +16,7 @@
 
 #### References in Text
 
-Section 79c(b)(1) of this title, referred to in subsec. (a), was in the original “section 101(a)(4) . . . of thisamendment”, meaning section 101(a)(4) of Pub. L. 95–250, which amended section 79c(b)(1) of this title.
+Section 79c(b)(1) of this title, referred to in subsec. (a), was in the original “section 101(a)(4) . . . of this amendment”, meaning section 101(a)(4) of Pub. L. 95–250, which amended section 79c(b)(1) of this title.
 
 Section 79b of this title, referred to in subsec. (a), was in the original “section 101(a)(2) of this amendment”, meaning section 101(a)(2) of Pub. L. 95–250, which amended subsecs. (a) and (b), and added subsec. (c), of section 79b of this title.
 

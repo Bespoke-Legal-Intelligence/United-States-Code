@@ -90,7 +90,7 @@ Section 19 of the Occupational Safety and Health Act of 1970 (29 U.S.C. 668), re
 
 The provisions of the Act of August 12, 1968 (42 U.S.C. 4151–4156), referred to in subsec. (b)(8), probably means Pub. L. 90–480, Aug. 12, 1968, 82 Stat. 718, as amended, popularly known as the Architectural Barriers Act of 1968, which is classified generally to chapter 51 (§4151 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4151 of Title 42 and Tables.
 
-The Inspector General Act of 1978, referred to in subsec. (b)(10), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101,as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Inspector General Act of 1978, referred to in subsec. (b)(10), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 Reorganization Plan numbered 14 of 1950 (title 5, appendix), referred to in subsec. (d)(2), is Reorg. Plan No. 14 of 1950, eff. May 24, 1950, 15 F.R. 3176, 64 Stat. 1267, which is set out in the Appendix to Title 5.
 
@@ -106,7 +106,7 @@ Subsec. (b)(9). Pub. L. 103–123, §708(a)(2), substituted “chapter” for �
 
 Pub. L. 103–82, §202(g)(6)(B), and Pub. L. 103–123, §708(a)(2), amended par. (9), relating to title 31, identically, substituting “; and” for period at end.
 
-Pub. L. 103–94, §9(b)(2)(A), and Pub. L. 103–123, §708(a)(3), which directed the identical amendment of subsec. (b) by redesignating par. (9), providing for applicability to Postal Service of provisions of section 8E of Inspector General Act of 1978, as (10), could not be executed because Pub. L. 103–82, §202(g)(6)(C), struck out such par. See below.
+Pub. L. 103–94, §9(b)(2)(A), and Pub. L. 103–123, §708(a)(3), which directed the identical amendment ofsubsec. (b) by redesignating par. (9), providing for applicability to Postal Service of provisions of section 8E of Inspector General Act of 1978, as (10), could not be executed because Pub. L. 103–82, §202(g)(6)(C), struck out such par. See below.
 
 Pub. L. 103–82, §202(g)(6)(C), struck out second par. (9) which provided for applicability to Postal Service of the provisions of section 8E of Inspector General Act of 1978.
 
@@ -174,7 +174,7 @@ Subsecs. (a), (b)(2) to (6), and (c)(1) to (3), (5), (6) of this section effecti
 
 #### Applicability of Hatch Act Reform Amendments of 1993 to Postal Employees
 
-Section 7 of Pub. L. 103–94 provided that: “The amendments made by this Act \[enacting sections 5520a and 7321 to 7326 of Title 5, Government Organization and Employees, and section 610 of Title 18, Crimes andCriminal Procedure, amending this section, sections 1216, 2302, 3302, and 3303 of Title 5, sections 602 and 603 of Title 18, and sections 1973d and 9904 of Title 42, The Public Health and Welfare, and omitting former sections 7321 to 7328 of Title 5\] (except for the amendments made by section 8 \[amending sections 2302 and 3303 of Title 5\]), and any regulations thereunder, shall apply with respect to employees of the United States Postal Service and the Postal Rate Commission, pursuant to sections 410(b) and 3604(e) of title 39, United States Code.”
+Section 7 of Pub. L. 103–94 provided that: “The amendments made by this Act \[enacting sections 5520a and 7321 to 7326 of Title 5, Government Organization and Employees, and section 610 of Title 18, Crimes and Criminal Procedure, amending this section, sections 1216, 2302, 3302, and 3303 of Title 5, sections 602 and 603 of Title 18, and sections 1973d and 9904 of Title 42, The Public Health and Welfare, and omitting former sections 7321 to 7328 of Title 5\] (except for the amendments made by section 8 \[amending sections 2302 and 3303 of Title 5\]), and any regulations thereunder, shall apply with respect to employees of the United States Postal Service and the Postal Rate Commission, pursuant to sections 410(b) and 3604(e) of title 39, United States Code.”
 
 #### Section Referred to in Other Sections
 

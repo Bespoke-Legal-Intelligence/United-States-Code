@@ -6,11 +6,11 @@
 
 #### (A) Establishment
 
-&emsp;&emsp;A State may establish a program under which an owner or operator of a communitywater system in the State, or a municipal or local government or political subdivision of a State, may submit a source water quality protection partnership petition to the State requesting that the State assist in the local development of a voluntary, incentive-based partnership, among the owner, operator, or government and other persons likely to be affected by the recommendations of the partnership, to—
+&emsp;&emsp;A State may establish a program under which an owner or operator of a community water system in the State, or a municipal or local government or political subdivision of a State, may submit a source water quality protection partnership petition to the State requesting that the State assist in the local development of a voluntary, incentive-based partnership, among the owner, operator, or government and other persons likely to be affected by the recommendations of the partnership, to—
 
 &emsp;&emsp;&emsp;(i) reduce the presence in drinking water of contaminants that may be addressed by a petition by considering the origins of the contaminants, including to the maximum extent practicable the specific activities that affect the drinking water supply of a community;
 
-&emsp;&emsp;&emsp;(ii) obtain financial or technical assistance necessary to facilitate establishment of a partnership, or to develop and implement recommendations of a partnership for the protection of source water to assist in the provision of drinking water that complies with national primary drinking water regulations with respect to contaminants addressed by a petition; and
+&emsp;&emsp;&emsp;(ii) obtain financial or technical assistance necessary to facilitate establishmentof a partnership, or to develop and implement recommendations of a partnership for the protection of source water to assist in the provision of drinking water that complies with national primary drinking water regulations with respect to contaminants addressed by a petition; and
 
 &emsp;&emsp;&emsp;(iii) develop recommendations regarding voluntary and incentive-based strategies for the long-term protection of the source water of community water systems.
 
@@ -70,7 +70,7 @@
 
 #### (1) In general
 
-&emsp;After providing notice and an opportunity for public comment on a petition submittedunder subsection (a) of this section, the State shall approve or disapprove the petition, in whole or in part, not later than 120 days after the date of submission of the petition.
+&emsp;After providing notice and an opportunity for public comment on a petition submitted under subsection (a) of this section, the State shall approve or disapprove the petition, in whole or in part, not later than 120 days after the date of submission of the petition.
 
 #### (2) Approval
 
@@ -78,7 +78,7 @@
 
 &emsp;&emsp;(A) an identification of technical, financial, or other assistance that the State will provide to assist in addressing the drinking water contaminants that may be addressed by a petition based on—
 
-&emsp;&emsp;&emsp;(i) the relative priority of the public health concern identified in the petition with respect to the other water quality needs identified by the State;
+&emsp;&emsp;&emsp;(i) the relative priority of the public health concern identified in the petitionwith respect to the other water quality needs identified by the State;
 
 &emsp;&emsp;&emsp;(ii) any necessary coordination that the State will perform of the program established under this section with programs implemented or planned by other States under this section; and
 
@@ -164,7 +164,7 @@ Nothing in this section—
 
 #### References in Text
 
-The Federal Water Pollution Control Act, referred to in subsec. (b)(2)(A)(iii), (B)(i), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. Title VI of the Act is classified generally to subchapter VI (§1381 et seq.) of chapter 26 of Title 33. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
+The Federal Water Pollution Control Act, referred to in subsec. (b)(2)(A)(iii), (B)(i), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18,1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. Title VI of the Act is classified generally to subchapter VI (§1381 et seq.) of chapter 26 of Title 33. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
 The Food Security Act of 1985, referred to in subsec. (b)(2)(B)(iii), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, as amended. Chapter 2 of subtitle D of title XII of the Act was classified generally to part II (§3838 et seq.) of subchapter IV of chapter 58 of Title 16, Conservation, prior to repeal by Pub. L. 104–127, title III, §336(h), Apr. 4, 1996, 110 Stat. 1007. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of Title 7, Agriculture, and Tables.
 

@@ -10,7 +10,7 @@ Any person in the service of the United States authorized by this section to mak
 
 Based on sections 246, 248, 252 of title 25, U.S.C., 1940 ed., Indians (R.S. §2140; Mar. 1, 1907, ch. 2285, 34 Stat. 1017; May 18, 1916, ch. 125, §1, 39 Stat. 124).
 
-Said sections 246, 248, and 252 were consolidated. References to Indian agent and subagent were deletedsince those positions no longer exist. See section 64 of title 25, U.S.C., 1940 ed., Indians, and notes thereunder.
+Said sections 246, 248, and 252 were consolidated. References to Indian agent and subagent were deleted since those positions no longer exist. See section 64 of title 25, U.S.C., 1940 ed., Indians, and notes thereunder.
 
 Words “except such as are kept or used for scientific, sacramental, medicinal or mechanical purposes” were inserted. See reviser's note under section 1154 of this title.
 
@@ -23,30 +23,6 @@ Minor changes were made in phraseology.
 1994—Pub. L. 103–322 struck out last par. which read as follows: “In all cases arising under this section and sections 1154 and 1156 of this title, Indians shall be competent witnesses.”
 
 1951—Act Oct. 31, 1951, substituted “Department of the Army” for “War Department” in second par.
-
-#### Federal Rules of Civil Procedure
-
-Admiralty and maritime rules of practice (which included libel procedures) were superseded, and civil and admiralty procedures in United States district courts were unified, effective July 1, 1966, see rule 1 and Supplemental Rules for Certain Admiralty and Maritime Claims, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-#### Cross References
-
-Application of Indian liquor laws, see section 1161 of this title.
-
-Disposition of seized conveyances, see section 3670 of this title.
-
-Forfeitures and seizures—
-
-&emsp;&emsp;Conveyances introducing intoxicants into Indian country, see section 3669 of this title.
-
-&emsp;&emsp;Jurisdiction, see sections 1355 and 1356 of Title 28, Judiciary and Judicial Procedure.
-
-&emsp;&emsp;Proceedings, see section 2461 of Title 28.
-
-Indian country defined, see section 1151 of this title.
-
-Intoxicants dispensed in Indian country, see section 1154 of this title.
-
-Unlawful possession of intoxicants in Indian country, see section 1156 of this title.
 
 #### Section Referred to in Other Sections
 

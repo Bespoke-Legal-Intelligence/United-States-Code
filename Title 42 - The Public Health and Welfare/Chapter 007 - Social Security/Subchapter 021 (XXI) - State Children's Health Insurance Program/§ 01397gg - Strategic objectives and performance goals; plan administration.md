@@ -64,6 +64,8 @@ The following sections of this chapter shall apply to States under this subchapt
 
 &emsp;(C) Section 1396b(w) of this title (relating to limitations on provider taxes and donations).
 
+&emsp;(D) Section 1396r–1a of this title (relating to presumptive eligibility for children).
+
 #### (2) Subchapter XI provisions
 
 &emsp;(A) Section 1315 of this title (relating to waiver authority).
@@ -80,7 +82,11 @@ The following sections of this chapter shall apply to States under this subchapt
 
 &emsp;(G) Section 1320b–2 of this title (relating to periods within which claims must be filed).
 
-(Aug. 14, 1935, ch. 531, title XXI, §2107, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 565.)
+(Aug. 14, 1935, ch. 531, title XXI, §2107, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 565; amended Pub. L. 106–554, §1(a)(6) \[title VIII, §803\], Dec. 21, 2000, 114 Stat. 2763, 2763A–582.)
+
+#### Amendments
+
+2000—Subsec. (e)(1)(D). Pub. L. 106–554 added subpar. (D).
 
 #### Section Referred to in Other Sections
 

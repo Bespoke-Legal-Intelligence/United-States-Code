@@ -14,7 +14,7 @@ When used in this subchapter and subchapter II of this chapter—
 
 (c) The term “coast line” means the line of ordinary low water along that portion of the coast which is in direct contact with the open sea and the line marking the seaward limit of inland waters;
 
-(d) The terms “grantees” and “lessees” include (without limiting the generality thereof) all political subdivisions, municipalities, public and private corporations, and other persons holding grants or leases from a State, or from its predecessor sovereign if legally validated, to lands beneath navigable waters if such grants or leases were issued in accordance with the constitution, statutes, and decisions of the courts of the State in which such lands are situated, or of its predecessor sovereign: <i>Provided, however</i>, That nothing herein shall be construed as conferring upon said grantees or lessees any greater rights or interests other than are described herein and in their respective grants from the State, or its predecessor sovereign;
+(d) The terms “grantees” and “lessees” include (without limiting the generality thereof) all political subdivisions, municipalities, public and private corporations, and other persons holding grants or leases from a State, or from its predecessor sovereign if legally validated, to lands beneath navigable waters if such grants or leases were issued in accordance with the constitution, statutes, and decisions of the courts of the State in which such lands are situated, or of its predecessor sovereign: <i>Provided, however</i>,That nothing herein shall be construed as conferring upon said grantees or lessees any greater rights or interests other than are described herein and in their respective grants from the State, or its predecessor sovereign;
 
 (e) The term “natural resources” includes, without limiting the generality thereof, oil, gas, and all other minerals, and fish, shrimp, oysters, clams, crabs, lobsters, sponges, kelp, and other marine animal and plant life but does not include water power, or the use of water for the production of power;
 
@@ -66,5 +66,5 @@ Applicability of this chapter to the State of Hawaii, see section 5(i) of Pub. L
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1302, 1331, 1340, 2102 of this title; title 15 section 1171; title 28 section 2409a; title 33 sections 2701, 2716.
+This section is referred to in sections 1302, 1331, 1340, 1356a, 2102 of this title; title 15 section 1171; title 28 section 2409a; title 33 sections 2701, 2716.
 

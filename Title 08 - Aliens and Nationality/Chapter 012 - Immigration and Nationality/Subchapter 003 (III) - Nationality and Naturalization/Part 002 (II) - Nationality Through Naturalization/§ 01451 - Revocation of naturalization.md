@@ -68,43 +68,11 @@ Subsec. (b). Pub. L. 87–301, §18(b), inserted “illegally procured or” bef
 
 #### Effective Date of 1991 Amendment
 
-Amendment by Pub. L. 102–232 effective as if included in the enactment of the Immigration Act of 1990, Pub.L. 101–649, see section 310(1) of Pub. L. 102–232, set out as a note under section 1101 of this title.
+Amendment by Pub. L. 102–232 effective as if included in the enactment of the Immigration Act of 1990, Pub. L. 101–649, see section 310(1) of Pub. L. 102–232, set out as a note under section 1101 of this title.
 
 #### Effective Date of 1986 Amendment
 
 Section 23(f) of Pub. L. 99–653, as added by Pub. L. 100–525, §8(r), Oct. 24, 1988, 102 Stat. 2619, provided that: “The amendment made by section 17 \[amending this section\] shall not apply to individuals who have taken up permanent residence outside the United States before November 14, 1986.”
-
-#### Cross References
-
-Contempts, see section 401 et seq. of Title 18, Crimes and Criminal Procedure.
-
-Definition of the term—
-
-&emsp;&emsp;Attorney General, see section 1101(a)(5) of this title.
-
-&emsp;&emsp;Child, as used in subchapters I and II of this chapter, see section 1101(b)(1) of this title.
-
-&emsp;&emsp;Child, as used in this subchapter, see section 1101(c)(1) of this title.
-
-&emsp;&emsp;Commissioner, see section 1101(a)(8) of this title.
-
-&emsp;&emsp;Consular officer, see section 1101(a)(9) of this title.
-
-&emsp;&emsp;Naturalization, see section 1101(a)(23) of this title.
-
-&emsp;&emsp;Organization, see section 1101(a)(28) of this title.
-
-&emsp;&emsp;Parent, as used in subchapters I and II of this chapter, see section 1101(b)(2) of this title.
-
-&emsp;&emsp;Parent, as used in this subchapter, see section 1101(c)(2) of this title.
-
-&emsp;&emsp;Permanent, see section 1101(a)(31) of this title.
-
-&emsp;&emsp;Residence, see section 1101(a)(33) of this title.
-
-&emsp;&emsp;Spouse, wife, or husband, see section 1101(a)(35) of this title.
-
-&emsp;&emsp;United States, see section 1101(a)(38) of this title.
 
 #### Section Referred to in Other Sections
 

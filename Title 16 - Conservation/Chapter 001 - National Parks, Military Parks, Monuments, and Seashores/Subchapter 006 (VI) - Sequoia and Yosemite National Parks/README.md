@@ -22,6 +22,7 @@ General Grant National Park was abolished and lands transferred to Kings Canyon 
 - [&sect; 00045d - Exclusive privileges within park prohibited](%C2%A7%2000045d%20-%20Exclusive%20privileges%20within%20park%20prohibited.md)
 - [&sect; 00045e - Violations of park regulations; penalty](%C2%A7%2000045e%20-%20Violations%20of%20park%20regulations%3B%20penalty.md)
 - [&sect; 00045f - Mineral King Valley addition authorized](%C2%A7%2000045f%20-%20Mineral%20King%20Valley%20addition%20authorized.md)
+- [&sect; 00045g - Addition to Sequoia National Park](%C2%A7%2000045g%20-%20Addition%20to%20Sequoia%20National%20Park.md)
 - [&sect; 00046 - Yosemite National Park; lands segregated from and included in Sierra National Forest; rights-of-way over](%C2%A7%2000046%20-%20Yosemite%20National%20Park%3B%20lands%20segregated%20from%20and%20included%20in%20Sierra%20National%20Forest%3B%20rights-of-way%20over.md)
 - [&sect; 00047 - Additional lands excluded from Yosemite National Park and added to Sierra National Forest](%C2%A7%2000047%20-%20Additional%20lands%20excluded%20from%20Yosemite%20National%20Park%20and%20added%20to%20Sierra%20National%20Forest.md)
 - [&sect; 00047&#8211;1 - Administrative site for Yosemite National Park](%C2%A7%2000047%E2%80%931%20-%20Administrative%20site%20for%20Yosemite%20National%20Park.md)

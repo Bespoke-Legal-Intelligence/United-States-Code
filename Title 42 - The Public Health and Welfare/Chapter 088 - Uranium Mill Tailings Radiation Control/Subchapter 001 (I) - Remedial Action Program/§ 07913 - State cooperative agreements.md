@@ -38,5 +38,5 @@ The Secretary may, in any cooperative agreement entered into under this section 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 7914, 7917 of this title.
+This section is referred to in sections 7912, 7914, 7917 of this title.
 

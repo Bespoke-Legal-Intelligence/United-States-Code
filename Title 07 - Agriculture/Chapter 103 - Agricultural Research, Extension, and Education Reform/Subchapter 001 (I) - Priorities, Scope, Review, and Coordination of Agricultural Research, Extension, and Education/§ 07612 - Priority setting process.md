@@ -24,7 +24,7 @@ In establishing priorities for agricultural research, extension, and education a
 
 #### (d) Management principles
 
-To the maximum extent practicable, the Secretary shall ensure that federally supported and conducted agricultural research, extension, and education activities are accomplished in a manner that—
+To the maximum extent practicable, the Secretary shall ensure that federally supported andconducted agricultural research, extension, and education activities are accomplished in a manner that—
 
 &emsp;(1) integrates agricultural research, extension, and education functions to better link research to technology transfer and information dissemination activities;
 

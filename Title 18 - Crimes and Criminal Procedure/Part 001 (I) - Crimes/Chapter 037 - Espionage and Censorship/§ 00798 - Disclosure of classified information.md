@@ -1,6 +1,6 @@
 ### §798. Disclosure of classified information
 
-(a) Whoever knowingly and willfully communicates, furnishes, transmits, or otherwise makes available to an unauthorized person, or publishes, or uses in any manner prejudicial to the safety or interest of the United States or for the benefit of any foreign government to the detriment of the United States any classified information—
+(a) Whoever knowingly and willfully communicates, furnishes, transmits, or otherwisemakes available to an unauthorized person, or publishes, or uses in any manner prejudicial to the safety or interest of the United States or for the benefit of any foreign government to the detriment of the United States any classified information—
 
 &emsp;(1) concerning the nature, preparation, or use of any code, cipher, or cryptographic system of the United States or any foreign government; or
 
@@ -24,7 +24,7 @@ The term “communication intelligence” means all procedures and methods used 
 
 The term “unauthorized person” means any person who, or agency which, is not authorized to receive information of the categories set forth in subsection (a) of this section, by the President, or by the head of a department or agency of the United States Government which is expressly designated by the President to engage in communication intelligence activities for the United States.
 
-(c) Nothing in this section shall prohibit the furnishing, upon lawful demand, of informationto any regularly constituted committee of the Senate or House of Representatives of the United States of America, or joint committee thereof.
+(c) Nothing in this section shall prohibit the furnishing, upon lawful demand, of information to any regularly constituted committee of the Senate or House of Representatives of the United States of America, or joint committee thereof.
 
 (d)(1) Any person convicted of a violation of this section shall forfeit to the United States irrespective of any provision of State law—
 
@@ -61,18 +61,6 @@ Another section 798 was renumbered section 798A of this title.
 1994—Subsec. (a). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000” in concluding provisions.
 
 Subsec. (d). Pub. L. 103–359 added subsec. (d).
-
-#### Canal Zone
-
-Applicability of section to Canal Zone, see section 14 of this title.
-
-#### Cross References
-
-Disclosure of classified information by Government officer or employee, see section 783 of Title 50, War and National Defense.
-
-Federal retirement benefits, forfeiture upon conviction of offenses described under this section, see section 8312 of Title 5, Government Organization and Employees.
-
-Forfeiture of veterans’ benefits upon conviction under this section, see section 6105 of Title 38, Veterans’ Benefits.
 
 #### Section Referred to in Other Sections
 

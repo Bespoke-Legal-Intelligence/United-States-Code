@@ -44,7 +44,7 @@ The Director shall report annually to the Congress all contributions made pursua
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in section 2286 of Title 50, Appendix, War andNational Defense, prior to repeal by Pub. L. 103–337, §3412(a).
+Provisions similar to those in this section were contained in section 2286 of Title 50, Appendix, War and National Defense, prior to repeal by Pub. L. 103–337, §3412(a).
 
 <i><sup>1</sup></i><i> So in original. Probably should be “sections”.</i>
 

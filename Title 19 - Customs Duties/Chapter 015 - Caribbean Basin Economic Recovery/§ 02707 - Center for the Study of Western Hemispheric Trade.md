@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Commissioner of Customs, after consultation with appropriate officials in the State of Texas, is authorized and directed to make grants to an institution (or a consortium of such institutions) to assist such institution in planning, establishing, and operating a Center for the Study of Western Hemispheric Trade (hereafter in this section referred to as the “Center”). The Commissioner of Customs shall make the first grant not later than December 1, 1994, and the Center shall be established not later than February 1, 1995.
+The Commissioner of Customs, after consultation with appropriate officials in the State of Texas, is authorized and directed to make grants to an institution (or a consortium of such institutions) to assist such institution in planning, establishing, and operating a Center for the Study of Western Hemispheric Trade (hereafter in this section referred to as the “Center”). The Commissioner of Customs shall make the first grant not later than December 1, 1994,and the Center shall be established not later than February 1, 1995.
 
 #### (b) Scope of Center
 
@@ -28,7 +28,7 @@ The Center shall conduct the following activities:
 
 &emsp;(1) Provide forums for international discussion and debate for representatives from countries in the Western Hemisphere regarding issues which affect trade and other economic relations within the hemisphere, including the impact of the NAFTA on individual economies and the desirability and feasibility of possible accessions to the NAFTA by such countries.
 
-&emsp;(2) Conduct studies and research projects on subjects which affect Western Hemisphere trade, including tariffs, customs, regional andnational economics, business development and finance, production and personnel management, manufacturing, agriculture, engineering, transportation, immigration, telecommunications, medicine, science, urban studies, border demographics, social anthropology, and population.
+&emsp;(2) Conduct studies and research projects on subjects which affect Western Hemisphere trade, including tariffs, customs, regional and national economics, business development and finance, production and personnel management, manufacturing, agriculture, engineering, transportation, immigration, telecommunications, medicine, science, urban studies, border demographics, social anthropology, and population.
 
 &emsp;(3) Publish materials, disseminate information, and conduct seminars and conferences to support and educate representatives from countries in the Western Hemisphere who seek to do business with or invest in other Western Hemisphere countries.
 

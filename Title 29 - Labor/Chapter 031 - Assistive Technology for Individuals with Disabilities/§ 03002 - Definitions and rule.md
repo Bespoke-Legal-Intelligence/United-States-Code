@@ -36,7 +36,7 @@ In this chapter:
 
 &emsp;The term “capacity building and advocacy activities” means efforts that—
 
-&emsp;&emsp;(A) result in laws, regulations, policies, practices, procedures, or organizationalstructures that promote consumer-responsive programs or entities; and
+&emsp;&emsp;(A) result in laws, regulations, policies, practices, procedures, or organizational structures that promote consumer-responsive programs or entities; and
 
 &emsp;&emsp;(B) facilitate and increase access to, provision of, and funding for, assistive technology devices and assistive technology services,
 
@@ -100,7 +100,7 @@ In this chapter:
 
 &emsp;The term “protection and advocacy services” means services that—
 
-&emsp;&emsp;(A) are described in part C of the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6041 et seq.), the Protection and Advocacy for Mentally Ill Individuals Act of 1986 (42 U.S.C. 10801 et seq.), or section 794e of this title; and
+&emsp;&emsp;(A) are described in subtitle C of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 \[42 U.S.C. 15041 et seq.\], the Protection and Advocacy for Mentally Ill Individuals Act of 1986 (42 U.S.C. 10801 et seq.),<sup>1</sup> or section 794e of this title; and
 
 &emsp;&emsp;(B) assist individuals with disabilities with respect to assistive technology devices and assistive technology services.
 
@@ -160,7 +160,7 @@ In this chapter:
 
 References in this chapter to a provision of the Technology-Related Assistance for Individuals With Disabilities Act of 1988 shall be considered to be references to such provision as in effect on the day before November 13, 1998.
 
-(Pub. L. 105–394, §3, Nov. 13, 1998, 112 Stat. 3631.)
+(Pub. L. 105–394, §3, Nov. 13, 1998, 112 Stat. 3631; Pub. L. 106–402, title IV, §401(b)(4)(A), Oct. 30, 2000, 114 Stat. 1738.)
 
 #### References in Text
 
@@ -168,13 +168,17 @@ Section 1141(a) of title 20, referred to in subsec. (a)(10), was repealed by Pub
 
 The Tribally Controlled Community College Assistance Act of 1978, referred to in subsec. (a)(10), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, as amended, which is classified principally to chapter 20 (§1801 et seq.) of Title 25, Indians. The Act was renamed the Tribally Controlled College or University Assistance Act of 1978 by Pub. L. 105–244, title IX, §901(b)(1), Oct. 7, 1998, 112 Stat. 1827. Section 901(d) of Pub. L. 105–244, set out as a note under section 1801 of Title 25, provided that any reference to a section or other provision of the Tribally Controlled Community College Assistance Act of 1978 shall be deemed to be a reference to the Tribally Controlled College or University Assistance Act of 1978. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 25 and Tables.
 
-The Developmental Disabilities Assistance and Bill of Rights Act, referred to in subsec. (a)(11)(A), is title I of Pub. L. 88–164, as added by Pub. L. 98–527, §2, Oct. 19, 1984, 98 Stat. 2662, as amended. Part C of the Act is classified generally to subchapter III (§6041 et seq.) of chapter 75 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6000 of Title 42 and Tables.
+The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsec. (a)(11)(A), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677. Subtitle C of the Act probably means subtitle C of title I of the Act which is classified generally to part C (§15041 et seq.) of subchapter I of chapter 144 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of Title 42 and Tables.
 
-The Protection and Advocacy for Mentally Ill Individuals Act of 1986, referred to in subsec. (a)(11)(A), is Pub. L. 99–319, May 23, 1986, 100 Stat. 478, as amended, which is classified generally to chapter 114 (§10801 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 10801 of Title 42 and Tables.
+The Protection and Advocacy for Mentally Ill Individuals Act of 1986, referred to in subsec. (a)(11)(A), was Pub. L. 99–319, May 23, 1986, 100 Stat. 478, as amended. Pub. L. 99–319 was renamed the Protection and Advocacy for Individuals with Mental Illness Act by Pub. L. 106–310, div. B, title XXXII, §3206(a), Oct. 17, 2000, 114 Stat. 1193, and is classified generally to chapter 114 (§10801 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 10801 of Title 42 and Tables.
 
 The Technology-Related Assistance for Individuals With Disabilities Act of 1988, referred to in subsec. (b), is Pub. L. 100–407, Aug. 19, 1988, 102 Stat. 1044, as amended, which was classified generally to chapter 24 (§2201 et seq.) of this title, prior to repeal by Pub. L. 105–394, title IV, §401, Nov. 13, 1998, 112 Stat. 3661.
 
+#### Amendments
+
+2000—Subsec. (a)(11)(A). Pub. L. 106–402 substituted “subtitle C of the Developmental Disabilities Assistance and Bill of Rights Act of 2000” for “part C of the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6041 et seq.)”.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 705, 763, 781, 792 of this title; title 15 section 3710.
+This section is referred to in sections 705, 763, 781, 792 of this title; title 10 section 1582; title 15 section 3710.
 

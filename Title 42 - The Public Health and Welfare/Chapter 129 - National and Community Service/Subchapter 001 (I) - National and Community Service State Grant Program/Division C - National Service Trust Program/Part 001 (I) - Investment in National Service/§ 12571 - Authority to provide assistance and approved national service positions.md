@@ -16,7 +16,7 @@ Subject to the availability of appropriations for this purpose, the Corporation 
 
 #### (2) Matching funds requirements
 
-&emsp;A Federal agency receiving assistance under this subsection shall not be required to satisfythe matching funds requirements specified in subsection (e) of this section. However, the supplementation requirements specified in section 12633 of this title shall apply with respect to the Federal national service programs supported with such assistance.
+&emsp;A Federal agency receiving assistance under this subsection shall not be required to satisfy the matching funds requirements specified in subsection (e) of this section. However, the supplementation requirements specified in section 12633 of this title shall apply with respect to the Federal national service programs supported with such assistance.
 
 #### (3) Consultation with State Commissions
 
@@ -86,7 +86,7 @@ As part of the provision of assistance under subsections (a) and (b) of this sec
 
 #### Prior Provisions
 
-A prior section 12571, Pub. L. 101–610, title I, §141, Nov. 16, 1990, 104 Stat. 3150, related to general authority to make grants for national and community service programs, prior to the general amendment of subtitle D of title I of Pub. L. 101–610 \[formerly part D of this subchapter\] by Pub. L. 103–82, §102(a).
+A prior section 12571, Pub. L. 101–610, title I, §141, Nov. 16, 1990, 104 Stat. 3150, related to general authorityto make grants for national and community service programs, prior to the general amendment of subtitle D of title I of Pub. L. 101–610 \[formerly part D of this subchapter\] by Pub. L. 103–82, §102(a).
 
 A prior section 121 of Pub. L. 101–610 was renumbered section 199A, and is classified to section 12655 of this title.
 

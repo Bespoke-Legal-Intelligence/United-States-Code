@@ -52,7 +52,7 @@ The Secretary, through his designated agents, will monitor the progress and qual
 
 #### (j) Annual report to Secretary
 
-The Secretary shall require annual and other reports as may be necessary to be submitted byeach State administering the approved State reclamation program with funds provided under this subchapter. Such reports shall include that information which the Secretary deems necessary to fulfill his responsibilities under this subchapter.
+The Secretary shall require annual and other reports as may be necessary to be submitted by each State administering the approved State reclamation program with funds provided under this subchapter. Such reports shall include that information which the Secretary deems necessary to fulfill his responsibilities under this subchapter.
 
 #### (k) Eligible lands of Indian tribes
 

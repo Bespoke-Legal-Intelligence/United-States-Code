@@ -174,6 +174,10 @@ Section 423(b) of Pub. L. 97–424 provided that: “The amendment made by subse
 
 Section 2 of act Aug. 11, 1939, which enacted this section, is popularly known as the “Saltonstall-Kennedy Act”.
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (d)(2) of this section relating to submitting annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 50 of House Document No. 103–7.
+
 #### Abolition of House Committee on Merchant Marine and Fisheries
 
 Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
@@ -184,7 +188,7 @@ Functions of all officers, agencies, and employees of Department of Agriculture 
 
 #### Continuation of Authorization for Transfer of Funds
 
-Section 12(a) of act Aug. 8, 1956, provided that: “The authorization for the transfer of certain funds from the Secretary of Agriculture to the Secretary of the Interior and their maintenance in a separate fund as contained in section 2(a) of the Act of August 11, 1939, as amended July 1, 1954 (68 Stat. 376), \[now subsec. (b) of this section\], shall be continued for the year ending June 30, 1957, and each year thereafter.”
+Section 12(a) of act Aug. 8, 1956, provided that: “The authorization for the transfer of certain funds from theSecretary of Agriculture to the Secretary of the Interior and their maintenance in a separate fund as contained in section 2(a) of the Act of August 11, 1939, as amended July 1, 1954 (68 Stat. 376), \[now subsec. (b) of this section\], shall be continued for the year ending June 30, 1957, and each year thereafter.”
 
 #### Termination of Advisory Committees
 

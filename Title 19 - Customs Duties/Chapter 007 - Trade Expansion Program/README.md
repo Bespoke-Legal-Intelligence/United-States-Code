@@ -50,7 +50,7 @@
 | (b) | Investigations by Secretary of Commerce to determine effects on national security of imports of articles; consultation with Secretary of Defense and other officials; hearings; assessment of defense requirements; report to President; publication in Federal Register; promulgation of regulations. |
 | (c) | Adjustment of imports; determination by President; report to Congress; additional actions; publication in Federal Register. |
 | (d) | Domestic production for national defense; impact of foreign competition on economic welfare of domestic industries. |
-| (d) | Reports by Secretary of Commerce and President. |
+| (d) | Report by Secretary of Commerce. |
 | (f) | Congressional disapproval of Presidential adjustment of imports of petroleum or petroleum products; disapproval resolution. |
 | [1863\.](Subchapter%20002%20%28II%29%20-%20Trade%20Agreements/Part%20004%20%28IV%29%20-%20National%20Security/%C2%A7%2001863%20-%20Repealed.%20Pub.%20L.%20100%E2%80%93418%2C%20title%20I%2C%20%C2%A71501%28b%29%282%29%2C%20Aug.%2023%2C%201988%2C%20102%20Stat.%201259.md) | Repealed. |
 | [1864\.](Subchapter%20002%20%28II%29%20-%20Trade%20Agreements/Part%20004%20%28IV%29%20-%20National%20Security/%C2%A7%2001864%20-%20Import%20sanctions%20for%20export%20violations.md) | Import sanctions for export violations. |

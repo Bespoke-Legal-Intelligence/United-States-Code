@@ -30,15 +30,15 @@
 
 Pub. L. 96–343, §9(b)(3), Sept. 8, 1980, 94 Stat. 1129, struck out “regular” before “enlisted members” in items 8914 and 8925.
 
-1967—Pub. L. 90–130, §1(32)(C), Nov. 8, 1967, 81 Stat. 383, substituted “Twenty-eight years: deferred retirement of nurses and medical specialists in regular grade of major” for “Twenty-five years: female majors exceptthose designated under section 8067(a)–(d) or (g)–(i) of this title; male majors designated under section 8067(e) or (f) of this title” in item 8915.
+1967—Pub. L. 90–130, §1(32)(C), Nov. 8, 1967, 81 Stat. 383, substituted “Twenty-eight years: deferred retirement of nurses and medical specialists in regular grade of major” for “Twenty-five years: female majors except those designated under section 8067(a)–(d) or (g)–(i) of this title; male majors designated under section 8067(e) or (f) of this title” in item 8915.
 
 1966—Pub. L. 89–609, §1(32), Sept. 30, 1966, 80 Stat. 854, inserted “; male majors designated under section 8067(e) or (f) of this title” in item 8915.
 
 1957—Pub. L. 85–155, title III, §301(21), Aug. 21, 1957, 71 Stat. 389, struck out items 8912 and 8928, and substituted “section 8067(a)–(d) or (g)–(i)” for “section 8067” in item 8915.
 
-#### Cross References
+#### Chapter Referred to in Other Sections
 
-Retirement for length of service, general military law provisions, see section 1293 et seq. of this title.
+This chapter is referred to in section 12741 of this title.
 
 
 ---

@@ -4,10 +4,6 @@ It is recognized that destructive floods upon the rivers of the United States, u
 
 (June 22, 1936, ch. 688, §1, 49 Stat. 1570.)
 
-#### Cross References
-
-Soil conservation, watershed protection, and flood prevention, generally, see section 1001 et seq. of Title 16, Conservation.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 701a–1, 701b, 701b–1, 701b–2, 701b–6, 701b–7, 701c, 701c–1, 701e, 701s of this title.

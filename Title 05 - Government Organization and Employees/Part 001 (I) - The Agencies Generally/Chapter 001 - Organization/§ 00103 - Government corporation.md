@@ -10,13 +10,7 @@ For the purpose of this title—
 
 #### Historical and Revision Notes
 
-The section is supplied to avoid the necessity for defining “Government corporation” and “Government controlled corporation” each time it is used in this title.
-
-#### Cross References
-
-Federal Crop Insurance Corporation, see section 1501 et seq. of Title 7, Agriculture.
-
-Government Corporation Control provisions, see section 9101 et seq. of Title 31, Money and Finance.
+The section is supplied to avoid the necessity for defining “Government corporation” and “Governmentcontrolled corporation” each time it is used in this title.
 
 #### Section Referred to in Other Sections
 

@@ -34,7 +34,7 @@ In this chapter:
 
 > &emsp;Such term includes a consortium of such companies or other business entities, as determined by the Secretary of Commerce.
 
-&emsp;(10) The term “manufacturing technology” means techniques and processes designed to improve manufacturing quality, productivity, and practices, including quality control, shop floor management, inventory management, and worker training, as well as manufacturing equipment and software.
+&emsp;(10) The term “manufacturing technology” means techniques and processes designed to improve manufacturing quality, productivity, and practices, including quality control, shop floor management, inventory management,and worker training, as well as manufacturing equipment and software.
 
 &emsp;(11) The term “Small Business Innovation Research Program” means the program established under the following provisions of section 9 of the Small Business Act (15 U.S.C. 638):
 
@@ -114,7 +114,7 @@ Section 4101 of Pub. L. 102–484 provided that: “Congress makes the following
 
 &emsp;“(2) The change in the military threat presents a unique opportunity to restructure and reduce the military requirements of the United States.
 
-&emsp;“(3) As the United States proceeds with the post-Cold War defense build down, the Nation must recognize and address the impact of reduced defense spending on the military personnel, civilian employees, and defense industry workers who have been the foundation of the national defense policies of the United States.
+&emsp;“(3) As the United States proceeds with the post-Cold War defense build down, the Nation must recognize and address the impact of reduced defense spending on the military personnel, civilian employees,and defense industry workers who have been the foundation of the national defense policies of the United States.
 
 &emsp;“(4) The defense build down will have a significant impact on communities as procurements are reduced and military installations are closed and realigned.
 
@@ -130,7 +130,7 @@ Section 4101 of Pub. L. 102–484 provided that: “Congress makes the following
 
 #### Purposes of Title XLII of Pub. L. 102–484
 
-Section 4201 of title XLII of div. D of Pub. L. 102–484 provided that: “The purposes of this title \[see Tablesfor classification\] are to consolidate, revise, clarify, and reenact policies and requirements, and to enact additional policies and requirements, relating to the national technology and industrial base, defense reinvestment, and defense conversion programs that further national security objectives.”
+Section 4201 of title XLII of div. D of Pub. L. 102–484 provided that: “The purposes of this title \[see Tables for classification\] are to consolidate, revise, clarify, and reenact policies and requirements, and to enact additional policies and requirements, relating to the national technology and industrial base, defense reinvestment, and defense conversion programs that further national security objectives.”
 
 #### Transition Provision; “Defense Critical Technology” Defined
 

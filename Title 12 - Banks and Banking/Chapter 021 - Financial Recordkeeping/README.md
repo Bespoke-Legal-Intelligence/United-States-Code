@@ -19,7 +19,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in section 3401 of this title; title 31 sections 5318, 9703.
+This chapter is referred to in section 3401 of this title; title 15 section 6802; title 31 sections 5318, 9703.
 
 
 ---

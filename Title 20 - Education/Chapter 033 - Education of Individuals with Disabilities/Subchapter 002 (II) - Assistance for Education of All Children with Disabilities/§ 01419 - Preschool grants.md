@@ -112,7 +112,7 @@ A State shall be eligible for a grant under this section if such State—
 
 Each State shall use any funds it retains under subsection (d) of this section and does not use for administration under subsection (e) of this section—
 
-&emsp;(1) for support services (including establishing and implementing the mediation process required by section 1415(e) of this title), which may benefit children with disabilities younger than 3 or older than 5 as long as those services also benefit children with disabilities aged 3 through 5;
+&emsp;(1) for support services (including establishing and implementing the mediation process required by section 1415(e) of this title), whichmay benefit children with disabilities younger than 3 or older than 5 as long as those services also benefit children with disabilities aged 3 through 5;
 
 &emsp;(2) for direct services for children eligible for services under this section;
 
@@ -174,7 +174,7 @@ Section 1421, Pub. L. 91–230, title VI, §621, Apr. 13, 1970, 84 Stat. 181; Pu
 
 Section 1422, Pub. L. 91–230, title VI, §622, Apr. 13, 1970, 84 Stat. 182; Pub. L. 98–199, §§3(b), 10, Dec. 2, 1983, 97 Stat. 1358, 1364; Pub. L. 99–457, title III, §302, Oct. 8, 1986, 100 Stat. 1160; Pub. L. 100–630, title I, §103(c), Nov. 7, 1988, 102 Stat. 3297; Pub. L. 101–476, title III, §302, Oct. 30, 1990, 104 Stat. 1118; Pub. L. 102–119, §25(a)(8), Oct. 7, 1991, 105 Stat. 606; Pub. L. 103–382, title III, §391(f)(3), Oct. 20, 1994, 108 Stat. 4023, related to services for deaf-blind children and youth.
 
-Section 1423, Pub. L. 91–230, title VI, §623, Apr. 13, 1970, 84 Stat. 183; Pub. L. 98–199, §§3(b), 10, Dec. 2, 1983, 97 Stat. 1358, 1365; Pub. L. 99–457, title III, §303, Oct. 8, 1986, 100 Stat. 1161; Pub. L. 100–630, title I, §103(d), Nov. 7, 1988, 102 Stat. 3297; Pub. L. 101–476, title III, §303, title IX, §901(b)(100)–(106), Oct. 30, 1990, 104 Stat. 1121, 1146, 1147; Pub. L. 102–119, §§8, 25(a)(9), (b), Oct. 7, 1991, 105 Stat. 592, 606, 607, related to early education for children with disabilities.
+Section 1423, Pub. L. 91–230, title VI, §623, Apr. 13, 1970, 84 Stat. 183; Pub. L. 98–199, §§3(b), 10, Dec. 2, 1983, 97 Stat. 1358, 1365; Pub. L. 99–457, title III, §303, Oct. 8, 1986, 100 Stat. 1161; Pub. L. 100–630, title I, §103(d), Nov. 7, 1988, 102 Stat. 3297; Pub. L. 101–476, title III, §303, titleIX, §901(b)(100)–(106), Oct. 30, 1990, 104 Stat. 1121, 1146, 1147; Pub. L. 102–119, §§8, 25(a)(9), (b), Oct. 7, 1991, 105 Stat. 592, 606, 607, related to early education for children with disabilities.
 
 Section 1424, Pub. L. 91–230, title VI, §624, Apr. 13, 1970, 84 Stat. 183; Pub. L. 98–199, §§3(b), 10, Dec. 2, 1983, 97 Stat. 1358, 1366; Pub. L. 99–457, title III, §304, Oct. 8, 1986, 100 Stat. 1162; Pub. L. 100–630, title I, §103(e), Nov. 7, 1988, 102 Stat. 3297; Pub. L. 101–476, title III, §304, title IX, §901(b)(107)–(110), Oct. 30, 1990, 104 Stat. 1122, 1147; Pub. L. 102–119, §25(a)(10), (b), Oct. 7, 1991, 105 Stat. 606, 607, related to programs for children with severe disabilities.
 

@@ -8,7 +8,7 @@ For a handling operation to be certified under this chapter, each person on such
 
 &emsp;(2) add any ingredient known to contain levels of nitrates, heavy metals, or toxic residues in excess of those permitted by the applicable organic certification program;
 
-&emsp;(3) add any sulfites, nitrates, or nitrites;
+&emsp;(3) add any sulfites, except in the production of wine, nitrates, or nitrites;
 
 &emsp;(4) add any ingredients that are not organically produced in accordance with this chapter and the applicable organic certification program, unless such ingredients are included on the National List and represent not more than 5 percent of the weight of the total finished product (excluding salt and water);
 
@@ -20,15 +20,17 @@ For a handling operation to be certified under this chapter, each person on such
 
 #### (b) Meat
 
-For a farm or handling operation to be organically certified under this chapter, producers onsuch farm or persons on such handling operation shall ensure that organically produced meat does not come in contact with nonorganically produced meat.
+For a farm or handling operation to be organically certified under this chapter, producers on such farm or persons on such handling operation shall ensure that organically produced meat does not come in contact with nonorganically produced meat.
 
-(Pub. L. 101–624, title XXI, §2111, Nov. 28, 1990, 104 Stat. 3941; Pub. L. 102–237, title X, §1001(3), Dec. 13, 1991, 105 Stat. 1893.)
+(Pub. L. 101–624, title XXI, §2111, Nov. 28, 1990, 104 Stat. 3941; Pub. L. 102–237, title X, §1001(3), Dec. 13, 1991, 105 Stat. 1893; Pub. L. 106–387, §1(a) \[title VII, §748\], Oct. 28, 2000, 114 Stat. 1549, 1549A–41.)
 
 #### References in Text
 
 The Safe Drinking Water Act, referred to in subsec. (a)(7), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1660, as amended, which is classified generally to subchapter XII (§300f et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 #### Amendments
+
+2000—Subsec. (a)(3). Pub. L. 106–387 inserted “except in the production of wine,” after “sulfites,”.
 
 1991—Subsec. (a)(1). Pub. L. 102–237 substituted “postharvest” for “post harvest”.
 

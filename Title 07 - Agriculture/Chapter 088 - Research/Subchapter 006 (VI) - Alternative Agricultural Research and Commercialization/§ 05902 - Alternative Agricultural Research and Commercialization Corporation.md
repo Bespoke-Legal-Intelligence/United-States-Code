@@ -108,7 +108,7 @@ Feasibility Study and Report.—
 
 &emsp;“(1)
 
-Study.—The Secretary of Agriculture shall conduct a study of, and prepare a report on, the continued feasibility of the Alternative Agricultural Research and Commercialization Corporation. In conducting the study, the Secretary shall examine options for privatizing the Corporation and converting the Corporation to a Government-sponsored enterprise.
+Study.—The Secretary of Agriculture shall conduct a study of, and prepare a report on, the continued feasibility of the Alternative Agricultural Research and Commercialization Corporation. In conducting the study, the Secretary shall examine options for privatizing the Corporation and convertingthe Corporation to a Government-sponsored enterprise.
 
 &emsp;“(2)
 

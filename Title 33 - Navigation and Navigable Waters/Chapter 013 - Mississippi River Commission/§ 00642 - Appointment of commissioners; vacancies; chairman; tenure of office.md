@@ -16,10 +16,6 @@ Coast and Geodetic Survey consolidated with National Weather Bureau in 1965 to f
 
 Functions of all officers of Department of Commerce and functions of all officers and employees of such Department transferred, with a few exceptions, to Secretary of Commerce, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies and employees, by Reorg. Plan No. 5 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 
-#### Cross References
-
-President of commission as executive officer, qualifications, rank, etc., see section 702h of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 647 of this title.

@@ -76,7 +76,7 @@ The Federal Advisory Committee Act shall apply to the Advisory Committee under t
 
 #### References in Text
 
-The Federal Advisory Committee Act, referred to in subsec. (g), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (g), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, asamended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
 
@@ -87,6 +87,10 @@ November 13, 1998, referred to in subsec. (b)(2), was in the original “the dat
 A prior section 293<i>l</i>, act July 1, 1944, ch. 373, title VII, §748, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2043; amended Pub. L. 102–531, title III, §313(a)(3), Oct. 27, 1992, 106 Stat. 3507, authorized grants and contracts for development of general internal medicine and general pediatrics training programs, prior to repeal by Pub. L. 105–392, title I, §102(4), Nov. 13, 1998, 112 Stat. 3539.
 
 A prior section 748 of act July 1, 1944, was classified to section 294r of this title prior to renumbering by Pub. L. 97–35.
+
+#### Change of Name
+
+Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Termination of Advisory Committees
 

@@ -34,6 +34,10 @@
 
 Subsec. (c). Pub. L. 98–224, §3(b), substituted provision that a member of Authority be appointed for a term of 5 years and an individual chosen to fill a vacancy be appointed for unexpired term of member replaced for provision that one original member of Authority be appointed for a term of 1 year, one for a term of 3 years, and Chairman for a term of 5 years, and thereafter each member be appointed for a term of 5 years.
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsection (e) of this section relating to transmittal to Congress of an annual report on cases heard and decisions rendered, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 171 of House Document No. 103–7.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 7103 of this title; title 2 section 1351; title 22 section 4102.

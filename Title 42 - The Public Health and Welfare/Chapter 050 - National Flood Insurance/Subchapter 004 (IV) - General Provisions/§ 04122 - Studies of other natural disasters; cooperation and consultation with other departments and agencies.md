@@ -12,5 +12,5 @@
 
 #### Study of Sinkhole Insurance
 
-Section 453 of Pub. L. 98–181 provided that: “The Director of the Federal Emergency Management Agency may make a grant to a nonprofit organization, educational institution or affiliated agency or entity, or State or local agency to finance a study of the feasibility of expanding the national flood insurance program to cover damage or loss arising from sinkholes. There is authorized to be appropriated not to exceed $1,000,000 to carry out the provisions of this section.”
+Section 453 of Pub. L. 98–181 provided that: “The Director of the Federal Emergency Management Agency may make a grant to a nonprofit organization, educational institution or affiliated agency or entity, orState or local agency to finance a study of the feasibility of expanding the national flood insurance program to cover damage or loss arising from sinkholes. There is authorized to be appropriated not to exceed $1,000,000 to carry out the provisions of this section.”
 

@@ -2,7 +2,7 @@
 
 Unless otherwise specifically provided by law, whenever the Administrator of General Services is authorized to secure temporary quarters for the use of the Government officials pending the alteration, improvement, or repairs to, or the remodeling, reconstruction, or enlargement of any public building under the control of the Administrator of General Services, including the customhouse at Washington, District of Columbia, but excluding any other public building under the control of the Administrator of General Services within the District of Columbia, and excluding also marine hospitals and quarantine stations, mints and branch mints, appropriations for operating force and operating supplies for public buildings shall be available, if necessary, in connection with such portions of the premises as may be rented for or occupied by such officials in the same manner, for the same purpose, and to the same extent as if the title to such premises were vested in the United States.
 
-(Aug. 24, 1912, ch. 355, 37 Stat. 432; June 23, 1913, ch. 3, 38 Stat. 22; 1939 Reorg. Plan No. 1, §§301, 303, eff. July 1, 1939, 4 F.R. 2729, 53 Stat. 1426, 1427; June 30, 1949, ch. 288, title I, §103(a), 63 Stat. 380.)
+(Aug. 24, 1912, ch. 355, 37 Stat. 432; June 23, 1913, ch. 3, 38 Stat. 22; 1939 Reorg. Plan No. 1, §§301,303, eff. July 1, 1939, 4 F.R. 2729, 53 Stat. 1426, 1427; June 30, 1949, ch. 288, title I, §103(a), 63 Stat. 380.)
 
 #### Codification
 

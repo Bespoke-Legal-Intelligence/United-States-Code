@@ -24,7 +24,7 @@ If for any month prior to the month in which an individual attains the age of 65
 
 &emsp;(6) the total of such individual's disability insurance benefits under section 423 of this title for such month and of any monthly insurance benefits under section 402 of this title for such month based on his wages and self-employment income, prior to reduction under this section.
 
-> In no case shall the reduction in the total of such benefits under sections 423 and 402 of this title for a month (in a continuous period of months) reduce such total below the sum of—
+> In no case shall the reduction in the total of such benefits under sections 423 and 402 of thistitle for a month (in a continuous period of months) reduce such total below the sum of—
 
 &emsp;(7) the total of the benefits under sections 423 and 402 of this title, after reduction under this section, with respect to all persons entitled to benefits on the basis of such individual's wages and self-employment income for such month which were determined for such individual and such persons for the first month for which reduction under this section was made (or which would have been so determined if all of them had been so entitled in such first month), and
 
@@ -56,13 +56,13 @@ If it appears to the Commissioner of Social Security that an individual may be e
 
 &emsp;(A) his average current earnings as initially determined under subsection (a) of this section; and
 
-&emsp;(B) the ratio of (i) the national average wage index (as defined in section 409(k)(1) of thistitle) for the calendar year before the year in which such redetermination is made to (ii) the national average wage index (as so defined) for the calendar year before the year in which the reduction was first computed (but not counting any reduction made in benefits for a previous period of disability).
+&emsp;(B) the ratio of (i) the national average wage index (as defined in section 409(k)(1) of this title) for the calendar year before the year in which such redetermination is made to (ii) the national average wage index (as so defined) for the calendar year before the year in which the reduction was first computed (but not counting any reduction made in benefits for a previous period of disability).
 
 > Any amount determined under this paragraph which is not a multiple of $1 shall be reduced to the next lower multiple of $1.
 
 #### (g) Proportionate reduction; application of excess
 
-Whenever a reduction in the total of benefits for any month based on an individual's wages and self-employment income is made under this section, each benefit, except the disability insurance benefit, shall first be proportionately decreased, and any excess of such reduction over the sum of all such benefits other than the disability insurance benefits shall then be applied to such disability insurance benefit.
+Whenever a reduction in the total of benefits for any month based on an individual's wagesand self-employment income is made under this section, each benefit, except the disability insurance benefit, shall first be proportionately decreased, and any excess of such reduction over the sum of all such benefits other than the disability insurance benefits shall then be applied to such disability insurance benefit.
 
 #### (h) Furnishing of information
 
@@ -106,7 +106,7 @@ Subsec. (f)(2)(B)(ii). Pub. L. 101–239, §10208(b)(2)(C), inserted “(I)” a
 
 &emsp;“(B) any other law or plan of the United States, a State, a political subdivision (as that term is used in section 418(b)(2) of this title), or an instrumentality of two or more States (as that term is used in section 418(k) of this title),
 
-> other than benefits payable under title 38, benefits payable under a program of assistance which is based on need, benefits based on service all, or substantially all, of which was included under an agreement entered into by a State and the Secretary under section 418 of this title, and benefits under a law or plan of the UnitedStates based on service all or part of which is employment as defined in section 410 of this title,”.
+> other than benefits payable under title 38, benefits payable under a program of assistance which is based on need, benefits based on service all, or substantially all, of which was included under an agreement entered into by a State and the Secretary under section 418 of this title, and benefits under a law or plan of the United States based on service all or part of which is employment as defined in section 410 of this title,”.
 
 Subsec. (a)(2)(B). Pub. L. 99–509 substituted “section 418(g)” for “section 418(k)”.
 

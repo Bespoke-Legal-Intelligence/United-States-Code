@@ -46,15 +46,17 @@ With respect to grants or contracts in connection with the provision of legal as
 
 &emsp;(8) insure that recipients solicit the recommendations of the organized bar in the community being served before filling staff attorney positions in any project funded pursuant to this subchapter and give preference in filling such positions to qualified persons who reside in the community to be served;
 
-&emsp;(9) insure that every grantee, contractor, or person or entity receiving financial assistance under this subchapter or predecessor authority under this chapter which files with the Corporation a timely application for refunding is provided interim funding necessary to maintain its current level of activities until (A) the application for refunding has been approved and funds pursuant thereto received, or (B) the application for refunding has been finally denied in accordance with section 2996j of this title; and
+&emsp;(9) insure that every grantee, contractor, or person or entity receiving financial assistance under this subchapter or predecessor authority under this chapter which files with the Corporation a timely application for refunding is provided interim funding necessary to maintain its current level of activities until (A) the application for refunding has been approved and funds pursuant thereto received, or (B) the application for refunding has been finally denied in accordance with section 2996j of this title;
 
-&emsp;(10) insure that all attorneys, while engaged in legal assistance activities supported in whole or in part by the Corporation, refrain from the persistent incitement of litigation and any other activity prohibited by the Canons of Ethics and Code of Professional Responsibility of the American Bar Association, and insure that such attorneys refrain from personal representation for a private fee in any cases in which they were involved while engaged in such legal assistance activities.
+&emsp;(10) insure that all attorneys, while engaged in legal assistance activities supported in whole or in part by the Corporation, refrain from the persistent incitement of litigation and any other activity prohibited by the Canons of Ethics and Code of Professional Responsibility of the American Bar Association, and insure that such attorneys refrain from personal representation for a private fee in any cases in which they were involved while engaged in such legal assistance activities; and
+
+&emsp;(11) ensure that an indigent individual whose primary residence is subject to civil forfeiture is represented by an attorney for the Corporation in such civil action.
 
 #### (b) Limitations on uses
 
 No funds made available by the Corporation under this subchapter, either by grant or contract, may be used—
 
-&emsp;(1) to provide legal assistance (except in accordance with guidelines promulgated by the Corporation) with respect to any fee-generating case (which guidelines shall not preclude the provision of legal assistance in cases in which a client seeks only statutory benefits and appropriate private representation is not available);
+&emsp;(1) to provide legal assistance (except in accordance with guidelines promulgated by theCorporation) with respect to any fee-generating case (which guidelines shall not preclude the provision of legal assistance in cases in which a client seeks only statutory benefits and appropriate private representation is not available);
 
 &emsp;(2) to provide legal assistance with respect to any criminal proceeding, except to provide assistance to a person charged with a misdemeanor or lesser offense or its equivalent in an Indian tribal court;
 
@@ -64,7 +66,7 @@ No funds made available by the Corporation under this subchapter, either by gran
 
 &emsp;(5) to make grants to or enter into contracts with any private law firm which expends 50 percent or more of its resources and time litigating issues in the broad interests of a majority of the public;
 
-&emsp;(6) to support or conduct training programs for the purpose of advocating particular publicpolicies or encouraging political activities, labor or antilabor activities, boycotts, picketing, strikes, and demonstrations, as distinguished from the dissemination of information about such policies or activities, except that this provision shall not be construed to prohibit the training of attorneys or paralegal personnel necessary to prepare them to provide adequate legal assistance to eligible clients;
+&emsp;(6) to support or conduct training programs for the purpose of advocating particular public policies or encouraging political activities, labor or antilabor activities, boycotts, picketing, strikes, and demonstrations, as distinguished from the dissemination of information about such policies or activities, except that this provision shall not be construed to prohibit the training of attorneys or paralegal personnel necessary to prepare them to provide adequate legal assistance to eligible clients;
 
 &emsp;(7) to initiate the formation, or act as an organizer, of any association, federation, or similar entity, except that this paragraph shall not be construed to prohibit the provision of legal assistance to eligible clients;
 
@@ -112,7 +114,7 @@ The Corporation shall conduct a study on whether eligible clients who are—
 
 > have special difficulties of access to legal services or special legal problems which are not being met. The Corporation shall report to Congress not later than January 1, 1979, on the extent and nature of any such problems and difficulties and shall include in the report and implement appropriate recommendations.
 
-(Pub. L. 88–452, title X, §1007, as added Pub. L. 93–355, §2, July 25, 1974, 88 Stat. 383; amended Pub. L. 95–222, §§7(b), 9(a), (b)(1), (c), 10–13, Dec. 28, 1977, 91 Stat. 1620–1623; Pub. L. 105–12, §9(<i>o</i>), Apr. 30, 1997, 111 Stat. 28.)
+(Pub. L. 88–452, title X, §1007, as added Pub. L. 93–355, §2, July 25, 1974, 88 Stat. 383; amended Pub. L. 95–222, §§7(b), 9(a), (b)(1), (c), 10–13, Dec. 28, 1977, 91 Stat. 1620–1623; Pub. L. 105–12, §9(<i>o</i>), Apr. 30, 1997, 111 Stat. 28; Pub. L. 106–185, §2(d), Apr. 25, 2000, 114 Stat. 211.)
 
 #### References in Text
 
@@ -123,6 +125,8 @@ The Assisted Suicide Funding Restriction Act of 1997, referred to in subsec. (b)
 Section 2809 of this title, referred to in subsec. (c), was repealed by Pub. L. 97–35, title VI, §683(a), Aug. 13, 1981, 95 Stat. 519.
 
 #### Amendments
+
+2000—Subsec. (a)(11). Pub. L. 106–185 added par. (11).
 
 1997—Subsec. (b)(11). Pub. L. 105–12 added par. (11).
 
@@ -142,6 +146,10 @@ Subsec. (f). Pub. L. 95–222, §12, inserted provision requiring notice to prin
 
 Subsec. (h). Pub. L. 95–222, §13, added subsec. (h).
 
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–185 applicable to any forfeiture proceeding commenced on and after the date that is 120 days after Apr. 25, 2000, see section 21 of Pub. L. 106–185, set out as a note under section 1324 of Title 8, Aliens and Nationality.
+
 #### Effective Date of 1997 Amendment
 
 Amendment by Pub. L. 105–12 effective Apr. 30, 1997, and applicable to Federal payments made pursuant to obligations incurred after Apr. 30, 1997, for items and services provided on or after such date, and also subject to also being applicable with respect to contracts entered into, renewed, or extended after Apr. 30, 1997, as well as contracts entered into before Apr. 30, 1997, to the extent permitted under such contracts, see section 11 of Pub. L. 105–12, set out as an Effective Date note under section 14401 of this title.
@@ -154,7 +162,7 @@ Section 17(a)(1) of Pub. L. 95–222 provided that: “The amendment made by sec
 
 #### Implementation of System for Competitive Award of Grants and Contracts
 
-Pub. L. 101–515, title VI, §607 (part), Nov. 5, 1991, 104 Stat. 2153, provided: “That after October 1, 1991, (but not before) the Board of Directors of the Legal Services Corporation shall develop and implement a system for the competitive award of all grants and contracts, including support centers, except that nothing herein shall prohibit the Corporation Board, members, or staff from engaging in in-house reviews of or holding hearings on proposals for a system for the competitive award of all grants and contracts, including support centers, and that nothing herein shall apply to any competitive awards program currently in existence”.
+Pub. L. 101–515, title VI, §607 (part), Nov. 5, 1991, 104 Stat. 2153, provided: “That after October 1, 1991, (but not before) the Board of Directors of the Legal Services Corporation shall develop and implement a system for the competitive award of all grants and contracts, including support centers, except that nothing hereinshall prohibit the Corporation Board, members, or staff from engaging in in-house reviews of or holding hearings on proposals for a system for the competitive award of all grants and contracts, including support centers, and that nothing herein shall apply to any competitive awards program currently in existence”.
 
 Pub. L. 101–162, title VI, §608 (part), Nov. 21, 1989, 103 Stat. 1036, provided: “That none of the funds appropriated under this Act or under any prior Acts for the Legal Services Corporation shall be used to consider, develop, or implement any system for the competitive award of grants or contracts until such action is authorized pursuant to a majority vote of a Board of Directors of the Legal Services Corporation composed of eleven individuals nominated by the President after January 20, 1989, and subsequently confirmed by the United States Senate, except that nothing herein shall prohibit the Corporation Board, members, or staff from engaging in in-house reviews of or holding hearings on proposals for a system for the competitive award of all grants and contracts, including support centers, and that nothing herein shall apply to any competitive awards program currently in existence; subsequent to confirmation such new Board of Directors shall develop and implement a proposed system for the competitive award of all grants and contracts”.
 

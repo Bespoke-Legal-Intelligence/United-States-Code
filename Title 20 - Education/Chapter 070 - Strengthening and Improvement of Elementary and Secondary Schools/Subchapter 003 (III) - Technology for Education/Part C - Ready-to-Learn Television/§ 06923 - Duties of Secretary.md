@@ -18,7 +18,7 @@ The Secretary is authorized—
 
 &emsp;&emsp;(B) support materials to promote the effective use of materials developed under paragraph (2);
 
-> &emsp;among parents, Head Start providers, in-home and center based day care providers, early childhood development personnel, and elementary school teachers, public libraries, and after school program personnel caring for preschool and elementary school children;
+> &emsp;among parents, Head Start providers, in-home and center based day care providers, early childhood development personnel, and elementary school teachers, public libraries, andafter school program personnel caring for preschool and elementary school children;
 
 &emsp;(4) coordinate activities with the Secretary of Health and Human Services in order to—
 

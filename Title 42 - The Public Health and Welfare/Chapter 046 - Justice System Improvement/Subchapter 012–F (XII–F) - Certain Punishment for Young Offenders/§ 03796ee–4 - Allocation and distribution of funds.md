@@ -28,7 +28,7 @@ Notwithstanding subsections (a) and (b) of this section, not less than two-third
 
 #### (d) Federal share
 
-The Federal share of a grant made under this subchapter may not exceed 75 percent of the total costs of the projects described in the application submitted under section 3796ee–1(a) ofthis title for the fiscal year for which the projects receive assistance under this subchapter.
+The Federal share of a grant made under this subchapter may not exceed 75 percent of the total costs of the projects described in the application submitted under section 3796ee–1(a) of this title for the fiscal year for which the projects receive assistance under this subchapter.
 
 #### (e) Consideration
 

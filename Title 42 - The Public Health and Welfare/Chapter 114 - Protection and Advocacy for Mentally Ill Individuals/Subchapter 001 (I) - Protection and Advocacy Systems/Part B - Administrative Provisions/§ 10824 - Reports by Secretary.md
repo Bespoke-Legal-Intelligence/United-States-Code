@@ -1,6 +1,6 @@
 ### §10824. Reports by Secretary
 
-(a) The Secretary shall include in each report required under section 6006(c) of this title a separate statement which contains—
+(a) The Secretary shall include in each report required under section 15005 of this title a separate statement which contains—
 
 &emsp;(1) a description of the activities, accomplishments, and expenditures of systems to protect and advocate the rights of individuals with mental illness supported with payments from allotments under this subchapter, including—
 
@@ -30,9 +30,11 @@
 
 (b) In preparing each statement required by subsection (a) of this section, the Secretary shall use and include information submitted to the Secretary in the reports required under section 10805(a)(7) of this title.
 
-(Pub. L. 99–319, title I, §114, May 23, 1986, 100 Stat. 484; Pub. L. 102–173, §10(2), Nov. 27, 1991, 105 Stat. 1219.)
+(Pub. L. 99–319, title I, §114, May 23, 1986, 100 Stat. 484; Pub. L. 102–173, §10(2), Nov. 27, 1991, 105 Stat. 1219; Pub. L. 106–402, title IV, §401(b)(13)(B), Oct. 30, 2000, 114 Stat. 1739.)
 
 #### Amendments
+
+2000—Subsec. (a). Pub. L. 106–402 substituted “section 15005 of this title” for “section 6006(c) of this title” in introductory provisions.
 
 1991—Subsec. (a). Pub. L. 102–173 substituted “individuals with mental illness” for “mentally ill individuals” wherever appearing.
 

@@ -34,5 +34,5 @@ Subsecs. (c), (d). Pub. L. 100–707, §106(c)(3), added subsecs. (c) and (d).
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5159, 5170b, 5172, 5189, 5192, 5204c of this title.
+This section is referred to in sections 5159, 5170b, 5189, 5192, 5204c of this title.
 

@@ -96,7 +96,7 @@ The Inspector General of the Department of Commerce shall perform periodic audit
 
 &emsp;(1) an evaluation of the current placement of domestic personnel and recommendations for transferring personnel among district offices;
 
-&emsp;(2) an evaluation of the current placement of foreign-based personnel and recommendations for transferring such personnel in response to newly emerging business opportunities for United States exporters; and
+&emsp;(2) an evaluation of the current placement of foreign-based personnel and recommendationsfor transferring such personnel in response to newly emerging business opportunities for United States exporters; and
 
 &emsp;(3) an evaluation of the personnel system and its management, including the recruitment, assignment, promotion, and performance appraisal of personnel, the use of limited appointees, and the “time-in-class” system.
 
@@ -147,6 +147,10 @@ Section is comprised of section 2301 of Pub. L. 100–418. Subsec. (i) of sectio
 Subsec. (d)(1). Pub. L. 102–429, §205, substituted “16” for “8”.
 
 Subsecs. (f) to (j). Pub. L. 102–429, §203(b), added subsec. (f) and redesignated former subsecs. (f) to (i) as (g) to (j), respectively.
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (g) of this section relating to reporting results of audits to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 53 of House Document No. 103–7.
 
 #### Section Referred to in Other Sections
 

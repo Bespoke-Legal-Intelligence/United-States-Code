@@ -12,7 +12,7 @@
 
 #### (b) Civil action; persons entitled to; jurisdiction of court; status of Director; procedure
 
-(1) Whenever a person authorized by subsection (a) of this section to appeal to the United States Court of Appeals for the Federal Circuit is dissatisfied with the decision of the Director or Trademark Trial and Appeal Board, said person may, unless appeal has been taken to said United States Court of Appeals for the Federal Circuit, have remedy by a civil action if commenced within such time after such decision, not less than sixty days, as the Director appoints or as provided in subsection (a) of this section. The court may adjudge that an applicant is entitled to a registration upon the application involved, that a registration involved should be canceled, or such other matter as the issues in the proceeding require, as the facts in the case may appear. Such adjudication shallauthorize the Director to take any necessary action, upon compliance with the requirements of law. However, no final judgment shall be entered in favor of an applicant under section 1051(b) of this title before the mark is registered, if such applicant cannot prevail without establishing constructive use pursuant to section 1057(c) of this title.
+(1) Whenever a person authorized by subsection (a) of this section to appeal to the United States Court of Appeals for the Federal Circuit is dissatisfied with the decision of the Director or Trademark Trial and Appeal Board, said person may, unless appeal has been taken to said United States Court of Appeals for the Federal Circuit, have remedy by a civil action if commenced within such time after such decision, not less than sixty days, as the Director appoints or as provided in subsection (a) of this section. The court may adjudge that an applicant is entitled to a registration upon the application involved, that a registration involved should be canceled, or such other matter as the issues in the proceeding require, as the facts in the case may appear. Such adjudication shall authorize the Director to take any necessary action, upon compliance with the requirements of law. However, no final judgment shall be entered in favor of an applicant under section 1051(b) of this title before the mark is registered, if such applicant cannot prevail without establishing constructive use pursuant to section 1057(c) of this title.
 
 (2) The Director shall not be made a party to an inter partes proceeding under this subsection, but he shall be notified of the filing of the complaint by the clerk of the court in which it is filed and shall have the right to intervene in the action.
 
@@ -105,10 +105,6 @@ For transfer of functions of other officers, employees, and agencies of Departme
 #### Reorganization Plan No. 5 of 1950
 
 Amendment by Pub. L. 85–609 as subject to Reorganization Plan No. 5 of 1950, see note set out under section 1067 of this title.
-
-#### Cross References
-
-Notice of appeal to be given to the Commissioner of Patents and Trademarks, see section 1116 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -30,19 +30,29 @@
 
 &emsp;(I) $10,000,000 for fiscal year 1999;
 
-&emsp;(J) $10,000,000 for fiscal year 2000; and
+&emsp;(J) $10,000,000 for fiscal year 2000;
 
-&emsp;(K) $10,000,000 for fiscal year 2001.
+&emsp;(K) $10,000,000 for fiscal year 2001;
+
+&emsp;(L) $10,000,000 for fiscal year 2002;
+
+&emsp;(M) $10,000,000 for fiscal year 2003;
+
+&emsp;(N) $10,000,000 for fiscal year 2004; and
+
+&emsp;(O) $10,000,000 for fiscal year 2005.
 
 (2) Amounts appropriated under this subsection shall be available until expended when so provided in appropriation Acts.
 
-(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1294; Pub. L. 92–546, §1(c), Oct. 25, 1972, 86 Stat. 1155; Pub. L. 93–536, §1(c), Dec. 22, 1974, 88 Stat. 1735; Pub. L. 96–98, §1, Nov. 1, 1979, 93 Stat. 731; Pub. L. 98–189, Nov. 30, 1983, 97 Stat. 1323; Pub. L. 98–497, title I, §107(b)(10), Oct. 19, 1984, 98 Stat. 2287; Pub. L. 100–365, §4, July 13, 1988, 102 Stat. 824; Pub. L. 103–262, §1, May 31, 1994, 108 Stat. 706; Pub. L. 104–274, §1, Oct. 9, 1996, 110 Stat. 3321.)
+(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1294; Pub. L. 92–546, §1(c), Oct. 25, 1972, 86 Stat. 1155; Pub. L. 93–536, §1(c), Dec. 22, 1974, 88 Stat. 1735; Pub. L. 96–98, §1, Nov. 1, 1979, 93 Stat. 731; Pub. L. 98–189, Nov. 30, 1983, 97 Stat. 1323; Pub. L. 98–497, title I, §107(b)(10), Oct. 19, 1984, 98 Stat. 2287; Pub. L. 100–365, §4, July 13, 1988, 102 Stat. 824; Pub. L. 103–262, §1, May 31, 1994, 108 Stat. 706; Pub. L. 104–274, §1, Oct. 9, 1996, 110 Stat. 3321; Pub. L. 106–410, Nov. 1, 2000, 114 Stat. 1788.)
 
 #### Historical and Revision Notes
 
 Based on 44 U.S. Code, 1964 ed., §393(d) (June 30, 1949, ch. 288, title V, §503(d), as added Sept. 5, 1950, ch. 849, §6(d), 64 Stat. 583, and amended July 28, 1964, Pub. L. 88–383, 78 Stat. 335).
 
 #### Amendments
+
+2000—Subsec. (f)(1)(L) to (O). Pub. L. 106–410 added subpars. (L) to (O).
 
 1996—Subsec. (f)(1)(H) to (K). Pub. L. 104–274 added subpars. (H) to (K).
 
@@ -65,6 +75,10 @@ Subsec. (b). Pub. L. 98–497, §107(b)(10)(E), substituted “National Archives
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L. 98–497, set out as a note under section 2102 of this title.
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (a) of this section relating to the requirement that the Chairman of the Commission transmit biennial reports to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 16th item on page 183 of House Document No. 103–7.
 
 #### Section Referred to in Other Sections
 

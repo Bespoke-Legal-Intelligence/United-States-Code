@@ -8,7 +8,3 @@ On and after March 15, 1940, mining locations made under the mining laws of the 
 
 The United States mining laws, referred to in text, are classified generally to Title 30, Mineral Lands and Mining.
 
-#### Cross References
-
-Coronado National Memorial, see section 450y et seq. of this title.
-

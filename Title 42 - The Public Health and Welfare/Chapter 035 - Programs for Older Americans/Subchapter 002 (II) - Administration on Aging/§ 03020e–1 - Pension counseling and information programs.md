@@ -1,0 +1,148 @@
+### §3020e–1. Pension counseling and information programs
+
+#### (a) Definitions
+
+In this section:
+
+#### (1) Pension and other retirement benefits
+
+&emsp;The term “pension and other retirement benefits” means private, civil service, and other public pensions and retirement benefits, including benefits provided under—
+
+&emsp;&emsp;(A) the Social Security program under title II of the Social Security Act (42 U.S.C. 401 et seq.);
+
+&emsp;&emsp;(B) the railroad retirement program under the Railroad Retirement Act of 1974 (45 U.S.C. 231 et seq.);
+
+&emsp;&emsp;(C) the government retirement benefits programs under the Civil Service Retirement System set forth in chapter 83 of title 5, the Federal Employees Retirement System set forth in chapter 84 of title 5, or other Federal retirement systems; or
+
+&emsp;&emsp;(D) employee pension benefit plans as defined in section 1002(2) of title 29.
+
+#### (2) Pension counseling and information program
+
+&emsp;The term “pension counseling and information program” means a program described in subsection (b) of this section.
+
+#### (b) Program authorized
+
+The Assistant Secretary shall award grants to eligible entities to establish and carry out pension counseling and information programs that create or continue a sufficient number of pension assistance and counseling programs to provide outreach, information, counseling, referral, and other assistance regarding pension and other retirement benefits, and rights related to such benefits, to individuals in the United States.
+
+#### (c) Eligible entities
+
+The Assistant Secretary shall award grants under this section to—
+
+&emsp;(1) State agencies or area agencies on aging; and
+
+&emsp;(2) nonprofit organizations with a proven record of providing—
+
+&emsp;&emsp;(A) services related to retirement of older individuals;
+
+&emsp;&emsp;(B) services to Native Americans; or
+
+&emsp;&emsp;(C) specific pension counseling.
+
+#### (d) Citizen advisory panel
+
+The Assistant Secretary shall establish a citizen advisory panel to advise the Assistant Secretary regarding which entities should receive grant awards under this section. Such panel shall include representatives of business, labor, national senior advocates, and national pension rights advocates. The Assistant Secretary shall consult such panel prior to awarding grants under this section.
+
+#### (e) Application
+
+To be eligible to receive a grant under this section, an entity shall submit an application to the Assistant Secretary at such time, in such manner, and containing such information as the Assistant Secretary may require, including—
+
+&emsp;(1) a plan to establish a pension counseling and information program that—
+
+&emsp;&emsp;(A) establishes or continues a State or area pension counseling and information program;
+
+&emsp;&emsp;(B) serves a specific geographic area;
+
+&emsp;&emsp;(C) provides counseling (including direct counseling and assistance to individuals who need information regarding pension and other retirement benefits) and information that may assist individuals in obtaining, or establishing rights to, and filing claims or complaints regarding, pension and other retirement benefits;
+
+&emsp;&emsp;(D) provides information on sources of pension and other retirement benefits;
+
+&emsp;&emsp;(E) establishes a system to make referrals for legal services and other advocacy programs;
+
+&emsp;&emsp;(F) establishes a system of referral to Federal, State, and local departments or agencies related to pension and other retirement benefits;
+
+&emsp;&emsp;(G) provides a sufficient number of staff positions (including volunteer positions) to ensure information, counseling, referral, and assistance regarding pension and other retirement benefits;
+
+&emsp;&emsp;(H) provides training programs for staff members, including volunteer staff members, of pension and other retirement benefits programs;
+
+&emsp;&emsp;(I) makes recommendations to the Administration, the Department of Labor and other Federal, State, and local agencies concerning issues for older individuals related to pension and other retirement benefits; and
+
+&emsp;&emsp;(J) establishes or continues an outreach program to provide information, counseling, referral and assistance regarding pension and other retirement benefits, with particular emphasis on outreach to women, minorities, older individuals residing in rural areas and low income retirees; and
+
+&emsp;(2) an assurance that staff members (including volunteer staff members) have no conflict of interest in providing the services described in the plan described in paragraph (1).
+
+#### (f) Criteria
+
+The Assistant Secretary shall consider the following criteria in awarding grants under this section:
+
+&emsp;(1) Evidence of a commitment by the entity to carry out a proposed pension counseling and information program.
+
+&emsp;(2) The ability of the entity to perform effective outreach to affected populations, particularly populations that are identified in need of special outreach.
+
+&emsp;(3) Reliable information that the population to be served by the entity has a demonstrable need for the services proposed to be provided under the program.
+
+&emsp;(4) The ability of the entity to provide services under the program on a statewide or regional basis.
+
+#### (g) Training and technical assistance program
+
+#### (1) In general
+
+&emsp;The Assistant Secretary shall award grants to eligible entities to establish training and technical assistance programs that shall provide information and technical assistance to the staffs of entities operating pension counseling and information programs described in subsection (b) of this section, and general assistance to such entities, including assistance in the design of program evaluation tools.
+
+#### (2) Eligible entities
+
+&emsp;Entities that are eligible to receive a grant under this subsection include nonprofit private organizations with a record of providing national information, referral, and advocacy in matters related to pension and other retirement benefits.
+
+#### (3) Application
+
+&emsp;To be eligible to receive a grant under this subsection, an entity shall submit an application to the Assistant Secretary at such time, in such manner, and containing such information as the Assistant Secretary may require.
+
+#### (h) Pension assistance hotline and intragency coordination
+
+#### (1) Hotline
+
+&emsp;The Assistant Secretary shall enter into agreements with other Federal agencies to establish and administer a national telephone hotline that shall provide information regarding pension and other retirement benefits, and rights related to such benefits.
+
+#### (2) Content
+
+&emsp;Such hotline described in paragraph (1) shall provide information for individuals seeking outreach, information, counseling, referral, and assistance regarding pension and other retirement benefits, and rights related to such benefits.
+
+#### (3) Agreements
+
+&emsp;The Assistant Secretary may enter into agreements with the Secretary of Labor and the heads of other Federal agencies that regulate the provision of pension and other retirement benefits in order to carry out this subsection.
+
+#### (i) Report to Congress
+
+Not later than 30 months after November 13, 2000, the Assistant Secretary shall submit to the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor and Pensions of the Senate a report that—
+
+&emsp;(1) summarizes the distribution of funds authorized for grants under this section and the expenditure of such funds;
+
+&emsp;(2) summarizes the scope and content of training and assistance provided under a program carried out under this section and the degree to which the training and assistance can be replicated;
+
+&emsp;(3) outlines the problems that individuals participating in programs funded under this section encountered concerning rights related to pension and other retirement benefits; and
+
+&emsp;(4) makes recommendations regarding the manner in which services provided in programs funded under this section can be incorporated into the ongoing programs of State agencies, area agencies on aging, multipurpose senior centers and other similar entities.
+
+#### (j) Administrative expenses
+
+Of the funds appropriated under section 3020f of this title to carry out this section for a fiscal year, not more than $100,000 may be used by the Administration for administrative expenses.
+
+(Pub. L. 89–73, title II, §215, as added Pub. L. 106–501, title II, §202(5), Nov. 13, 2000, 114 Stat. 2231.)
+
+#### References in Text
+
+The Social Security Act, referred to in subsec. (a)(1)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+
+The Railroad Retirement Act of 1974, referred to in subsec. (a)(1)(B), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
+
+#### Prior Provisions
+
+A prior section 215 of Pub. L. 89–73 was renumbered section 216 and is classified to section 3020f of this title.
+
+#### Termination of Advisory Panels
+
+Advisory panels established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a panel established by the President or an officer of the Federal Government, such panel is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a panel established by Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 3012, 3020f of this title.
+

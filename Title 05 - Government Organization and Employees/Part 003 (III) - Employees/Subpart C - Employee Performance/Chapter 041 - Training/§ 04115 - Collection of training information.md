@@ -16,7 +16,7 @@ Historical and Revision Notes
 
 5 U.S.C. 2315.
 
-July 7, 1958, Pub. L. 85–507. §16, 72 Stat. 335.
+July 7, 1958, Pub. L. 85–507, §16, 72 Stat. 335.
 
 In the first sentence, the words “from time to time” are omitted as unnecessary. In the second sentence, the word “appropriate” is omitted as unnecessary.
 

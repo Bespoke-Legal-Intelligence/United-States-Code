@@ -44,9 +44,9 @@
 
 &emsp;&emsp;(ii) to the Commandant of the Marine Corps and the Headquarters, Marine Corps; and
 
-&emsp;(B) ensure that each such office or entity provides the Chief of Naval Operations and the Commandant of the Marine Corps such staff support as each considers necessary to perform his duties and responsibilities.
+&emsp;(B) ensure that each such office or entity provides the Chief of Naval Operations and the Commandant of the Marine Corps such staffsupport as each considers necessary to perform his duties and responsibilities.
 
-(4) The vesting in the Office of the Secretary of the Navy of the responsibility for the conduct of a function specified in paragraph (1) does not preclude other elements of the executive part of the Department of the Navy (including the Office of the Chief of Naval Operations and the Headquarters, Marine Corps) from providing advice or assistance to the Chief of Naval Operations and the Commandant of the Marine Corpsor otherwise participating in that function within the executive part of the Department under the direction of the office assigned responsibility for that function in the Office of the Secretary of the Navy.
+(4) The vesting in the Office of the Secretary of the Navy of the responsibility for the conduct of a function specified in paragraph (1) does not preclude other elements of the executive part of the Department of the Navy (including the Office of the Chief of Naval Operations and the Headquarters, Marine Corps) from providing advice or assistance to the Chief of Naval Operations and the Commandant of the Marine Corps or otherwise participating in that function within the executive part of the Department under the direction of the office assigned responsibility for that function in the Office of the Secretary of the Navy.
 
 (5)(A) The head of the office or other entity established or designated by the Secretary to conduct the auditing function shall have at least five years of professional experience in accounting or auditing. The position shall be considered to be a career reserved position as defined in section 3132(a)(8) of title 5.
 

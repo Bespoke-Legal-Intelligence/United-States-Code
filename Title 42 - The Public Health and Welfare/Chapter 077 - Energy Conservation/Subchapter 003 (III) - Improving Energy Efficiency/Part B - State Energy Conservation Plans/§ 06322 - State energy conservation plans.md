@@ -2,7 +2,7 @@
 
 #### (a) Feasibility reports
 
-The Secretary shall, by rule, within 60 days after December 22, 1975, prescribe guidelines for the preparation of a State energy conservation feasibility report. The Secretary shall invite theGovernor of each State to submit, within 3 months after the effective date of such guidelines, such a report. Such report shall include—
+The Secretary shall, by rule, within 60 days after December 22, 1975, prescribe guidelines for the preparation of a State energy conservation feasibility report. The Secretary shall invite the Governor of each State to submit, within 3 months after the effective date of such guidelines, such a report. Such report shall include—
 
 &emsp;(1) an assessment of the feasibility of establishing a State energy conservation goal, which goal shall consist of a reduction, as a result of the implementation of the State energy conservation plan described in this section, of 5 percent or more in the total amount of energy consumed in such State in the year 1980 from the projected energy consumption for such State in the year 1980, and
 
@@ -66,7 +66,7 @@ Each proposed State energy conservation plan may include—
 
 &emsp;(9) programs to identify unfair or deceptive acts or practices which relate to the implementation of energy efficiency measures and renewable resource energy measures and to educate consumers concerning such acts or practices;
 
-&emsp;(10) programs to modify patterns of energy consumption so as to reduce peak demands forenergy and improve the efficiency of energy supply systems, including electricity supply systems;
+&emsp;(10) programs to modify patterns of energy consumption so as to reduce peak demands for energy and improve the efficiency of energy supply systems, including electricity supply systems;
 
 &emsp;(11) programs to promote energy efficiency as an integral component of economic development planning conducted by State, local, or other governmental entities or by energy utilities;
 
@@ -165,10 +165,6 @@ In General.—The Administrator of the National Highway Traffic Safety Administr
 “(2)
 
 Report.—The Administrator shall report the findings of the study conducted under paragraph (1) to the Congress and the Secretary not later than 2 years after the date of the enactment of this Act \[Oct. 24, 1992\].”
-
-#### Cross References
-
-State emergency energy conservation plan, see section 8512 of this title.
 
 #### Section Referred to in Other Sections
 

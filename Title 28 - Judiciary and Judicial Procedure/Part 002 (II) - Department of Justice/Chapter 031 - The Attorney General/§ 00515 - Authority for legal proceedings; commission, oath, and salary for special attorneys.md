@@ -1,10 +1,10 @@
 ### §515. Authority for legal proceedings; commission, oath, and salary for special attorneys
 
-(a) The Attorney General or any other officer of the Department of Justice, or any attorney specially appointed by the Attorney Generalunder law, may, when specifically directed by the Attorney General, conduct any kind of legal proceeding, civil or criminal, including grand jury proceedings and proceedings before committing magistrates, which United States attorneys are authorized by law to conduct, whether or not he is a resident of the district in which the proceeding is brought.
+(a) The Attorney General or any other officer of the Department of Justice, or any attorney specially appointed by the Attorney General under law, may, when specifically directed by the Attorney General, conduct any kind of legal proceeding, civil or criminal, including grand jury proceedings and proceedings before committing magistrate judges, which United States attorneys are authorized by law to conduct, whether or not he is a resident of the district in which the proceeding is brought.
 
 (b) Each attorney specially retained under authority of the Department of Justice shall be commissioned as special assistant to the Attorney General or special attorney, and shall take the oath required by law. Foreign counsel employed in special cases are not required to take the oath. The Attorney General shall fix the annual salary of a special assistant or special attorney at not more than $12,000.
 
-(Added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 613.)
+(Added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 613; amended Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
 
 Historical and Revision Notes
 
@@ -44,5 +44,5 @@ In subsection (a), the words “or counselor” are omitted as redundant. The wo
 
 #### Change of Name
 
-Reference to United States magistrate or to magistrate deemed to refer to United States magistrate judge pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of this title.
+Words “magistrate judges” substituted for “magistrates” in subsec. (a) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of this title.
 

@@ -62,7 +62,7 @@ If in the judgment of the Commission any report required under subsection (a) of
 
 (3) When two or more persons act as a partnership, limited partnership, syndicate, or other group for the purpose of acquiring, holding, or disposing of securities of an issuer, such syndicate or group shall be deemed a “person” for the purposes of this subsection.
 
-(4) In determining, for purposes of this subsection, any percentage of a class of any security, such class shall be deemed to consist of theamount of the outstanding securities of such class, exclusive of any securities of such class held by or for the account of the issuer or a subsidiary of the issuer.
+(4) In determining, for purposes of this subsection, any percentage of a class of any security, such class shall be deemed to consist of the amount of the outstanding securities of such class, exclusive of any securities of such class held by or for the account of the issuer or a subsidiary of the issuer.
 
 (5) The Commission, by rule or regulation or by order, may permit any person to file in lieu of the statement required by paragraph (1) of this subsection or the rules and regulations thereunder, a notice stating the name of such person, the number of shares of any equity securities subject to paragraph (1) which are owned by him, the date of their acquisition and such other information as the Commission may specify, if it appears to the Commission that such securities were acquired by such person in the ordinary course of his business and were not acquired for the purpose of and do not have the effect of changing or influencing the control of the issuer nor in connection with or as a participant in any transaction having such purpose or effect.
 
@@ -86,9 +86,9 @@ If in the judgment of the Commission any report required under subsection (a) of
 
 #### (f) Reports by institutional investment managers
 
-(1) Every institutional investment manager which uses the mails, or any means or instrumentality of interstate commerce in the course of its business as an institutional investment manager and which exercises investment discretion with respect to accounts holding equity securities of a class described in subsection (d)(1) of this section having an aggregate fair market value on the last trading day in any of the preceding twelve months of at least $100,000,000 or such lesser amount (but in no case less than $10,000,000) as the Commission, by rule, may determine, shall file reports with the Commission in such form, for such periods, and at such times after the end of such periods as the Commission, by rule, may prescribe, but in no event shall such reports be filed for periods longer than one year or shorter than one quarter. Such reports shall include for each such equity security held on the last day of the reporting period by accounts (in aggregate or by type as the Commission, by rule, may prescribe) with respect to which the institutional investment manager exercises investment discretion (other than securities held in amounts which the Commission, by rule, determines to be insignificant for purposes of this subsection), the name of the issuer and the title, class, CUSIP number, number of shares or principal amount, and aggregate fair market value of each such security. Such reports may also include for accounts (in aggregate or by type) with respect to which the institutional investment manager exercises investment discretion such of the following information as the Commission, by rule, prescribes—
+(1) Every institutional investment manager which uses the mails, or any means or instrumentality of interstate commerce in the courseof its business as an institutional investment manager and which exercises investment discretion with respect to accounts holding equity securities of a class described in subsection (d)(1) of this section having an aggregate fair market value on the last trading day in any of the preceding twelve months of at least $100,000,000 or such lesser amount (but in no case less than $10,000,000) as the Commission, by rule, may determine, shall file reports with the Commission in such form, for such periods, and at such times after the end of such periods as the Commission, by rule, may prescribe, but in no event shall such reports be filed for periods longer than one year or shorter than one quarter. Such reports shall include for each such equity security held on the last day of the reporting period by accounts (in aggregate or by type as the Commission, by rule, may prescribe) with respect to which the institutional investment manager exercises investment discretion (other than securities held in amounts which the Commission, by rule, determines to be insignificant for purposes of this subsection), the name of the issuer and the title, class, CUSIP number, number of shares or principal amount, and aggregate fair market value of each such security. Such reports may also include for accounts (in aggregate or by type) with respect to which the institutional investment manager exercises investment discretion such of the following information as the Commission, by rule, prescribes—
 
-&emsp;(A) the name of the issuer and the title, class, CUSIP number, number of shares or principal amount, and aggregate fair marketvalue or cost or amortized cost of each other security (other than an exempted security) held on the last day of the reporting period by such accounts;
+&emsp;(A) the name of the issuer and the title, class, CUSIP number, number of shares or principal amount, and aggregate fair market value or cost or amortized cost of each other security (other than an exempted security) held on the last day of the reporting period by such accounts;
 
 &emsp;(B) the aggregate fair market value or cost or amortized cost of exempted securities (in aggregate or by class) held on the last day of the reporting period by such accounts;
 
@@ -120,7 +120,7 @@ If in the judgment of the Commission any report required under subsection (a) of
 
 (3) The Commission shall make available to the public for a reasonable fee a list of all equity securities of a class described in subsection (d)(1) of this section, updated no less frequently than reports are required to be filed pursuant to paragraph (1) of this subsection. The Commission shall tabulate the information contained in any report filed pursuant to this subsection in a manner which will, in the view of the Commission, maximize the usefulness of the information to other Federal and State authorities and the public. Promptly after the filing of any such report, the Commission shall make the information contained therein conveniently available to the public for a reasonable fee in such form as the Commission, by rule, may prescribe, except that the Commission, as it determines to be necessary or appropriate in the public interest or for the protection of investors, may delay or prevent public disclosure of any such information in accordance with section 552 of title 5. Notwithstanding the preceding sentence, any such information identifying the securities held by the account of a natural person or an estate or trust (other than a business trust or investment company) shall not be disclosed to the public.
 
-(4) In exercising its authority under this subsection, the Commission shall determine (and so state) that its action is necessary or appropriate in the public interest and for the protection of investors or to maintain fair and orderly markets or, in granting an exemption, that its action is consistent with the protection of investors and the purposes of this subsection. In exercising such authority the Commission shall take such steps as are within its power, including consulting with the Comptroller General of the United States, the Director of the Office of Management and Budget, the appropriate regulatory agencies, Federal and State authorities which, directly or indirectly, require reports from institutional investment managers of information substantially similar to that called for by this subsection, national securities exchanges, and registered securities associations, (A) to achieve uniform, centralized reporting of information concerning the securities holdings of and transactions by or for accounts with respect to which institutional investment managers exercise investment discretion, and (B) consistently with the objective set forth in the preceding subparagraph, to avoid unnecessarily duplicative reporting by, and minimize the compliance burden on, institutional investment managers. Federal authorities which, directly or indirectly, require reports from institutional investment managers of information substantially similar to that called for by this subsection shall cooperate with the Commission in the performance of its responsibilities under the preceding sentence. An institutional investment manager which is a bank, the deposits of which are insured in accordance with the Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\], shall file with the appropriate regulatory agency a copy of every report filed with the Commission pursuant to this subsection.
+(4) In exercising its authority under this subsection, the Commission shall determine (and so state) that its action is necessary or appropriate in the public interest and for the protection of investors or to maintain fair and orderly markets or, in granting an exemption, that its action is consistent with the protection of investors and the purposes of this subsection. In exercising such authority the Commission shall take such steps as are within its power, including consulting with the Comptroller General of the United States, the Director of the Office of Management and Budget, the appropriate regulatory agencies, Federal and State authorities which, directly or indirectly, require reports from institutional investment managers of information substantially similar to that called for by this subsection, national securities exchanges, and registered securities associations, (A) to achieve uniform, centralized reporting of information concerning the securities holdings of and transactions by or for accounts with respect to which institutional investment managers exercise investment discretion, and (B) consistently with the objective set forth in the preceding subparagraph, to avoid unnecessarily duplicative reporting by, and minimize the compliance burden on, institutional investment managers. Federal authorities which, directly or indirectly, require reports from institutional investment managersof information substantially similar to that called for by this subsection shall cooperate with the Commission in the performance of its responsibilities under the preceding sentence. An institutional investment manager which is a bank, the deposits of which are insured in accordance with the Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\], shall file with the appropriate regulatory agency a copy of every report filed with the Commission pursuant to this subsection.
 
 (5)(A) For purposes of this subsection the term “institutional investment manager” includes any person, other than a natural person, investing in or buying and selling securities for its own account, and any person exercising investment discretion with respect to the account of any other person.
 
@@ -178,7 +178,7 @@ If in the judgment of the Commission any report required under subsection (a) of
 
 #### (6) Exemptions
 
-&emsp;The Commission, by rule, regulation, or order, consistent with the purposes of thischapter, may exempt any person or class of persons or any transaction or class of transactions, either conditionally or upon specified terms and conditions or for stated periods, from the operation of this subsection, and the rules and regulations thereunder.
+&emsp;The Commission, by rule, regulation, or order, consistent with the purposes of this chapter, may exempt any person or class of persons or any transaction or class of transactions, either conditionally or upon specified terms and conditions or for stated periods, from the operation of this subsection, and the rules and regulations thereunder.
 
 #### (7) Authority of Commission to limit disclosure of information
 
@@ -208,7 +208,7 @@ The Investment Company Act of 1940, referred to in subsecs. (d)(1) and (e)(1), i
 
 The Securities Act of 1933, referred to in subsec. (d)(6)(A), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
 
-The Federal Deposit Insurance Act, referred to in subsec. (f)(4), is act Sept. 21, 1950, ch. 967, §2, 64 Stat. 873, as amended, which is classified generally to chapter 16 (§1811 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of Title 12 and Tables.
+The Federal Deposit Insurance Act, referred to in subsec. (f)(4), is act Sept. 21, 1950, ch. 967, §2, 64 Stat. 873, as amended, which is classified generally to chapter 16 (§1811 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, seeShort Title note set out under section 1811 of Title 12 and Tables.
 
 #### Amendments
 
@@ -271,26 +271,6 @@ In General.—The Securities and Exchange Commission shall consult and coordinat
 “(b)
 
 Definitions.—For purposes of subsection (a), the terms ‘insured depository institution’, ‘depository institution holding company’, and ‘appropriate Federal banking agency’ have the same meaning as given in section 3 of the Federal Deposit Insurance Act \[12 U.S.C. 1813\].”
-
-#### Cross References
-
-Effective date, see section 78hh of this title.
-
-Filing of reports in lieu of information required in registration statement, see section 80a–8 of this title.
-
-Issue of securities by electric utility company engaged in interstate commerce, see section 824c of Title 16, Conservation.
-
-Registration statements under Securities Act of 1933, application of section to, see section 78<i>o</i> of this title.
-
-Reports of investment companies, filing with Securities and Exchange Commission, see section 80a–29 of this title.
-
-Reports required to be filed with Commission pursuant to this section to be filed by obligor with indenture trustee, see section 77nnn of this title.
-
-Rules and regulations, power of Commission to make, see section 78w of this title.
-
-Securities with unlisted trading privileges, exemption from the operation of this section, see section 78<i>l</i> of this title.
-
-Withdrawal or striking from listing with national security exchange of security as relieving issuer from compliance with this section, see section 78<i>l</i> of this title.
 
 #### Section Referred to in Other Sections
 

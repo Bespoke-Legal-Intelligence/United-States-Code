@@ -2,21 +2,17 @@
 
 #### (a) Ombudsman program
 
-There are authorized to be appropriated to carry out subpart II of this part, $40,000,000 for fiscal year 1992 and such sums as may be necessary for fiscal years 1993, 1994, and 1995.
+There are authorized to be appropriated to carry out subpart II of this part, such sums as may be necessary for fiscal year 2001, and such sums as may be necessary for subsequent fiscal years.
 
 #### (b) Prevention of elder abuse, neglect, and exploitation
 
-There are authorized to be appropriated to carry out subpart III of this part, $15,000,000 for fiscal year 1992 and such sums as may be necessary for fiscal years 1993, 1994, and 1995.
+There are authorized to be appropriated to carry out subpart III of this part, such sums as may be necessary for fiscal year 2001, and such sums as may be necessary for subsequent fiscal years.
 
-#### (c) State elder rights and legal assistance development program
+#### (c) Legal assistance development program
 
-There are authorized to be appropriated to carry out subpart IV of this part, $10,000,000 for fiscal year 1992 and such sums as may be necessary for fiscal years 1993, 1994, and 1995.
+There are authorized to be appropriated to carry out subpart IV of this part, such sums as may be necessary for fiscal year 2001, and such sums as may be necessary for subsequent fiscal years.
 
-#### (d) Outreach, counseling, and assistance program
-
-There are authorized to be appropriated to carry out subpart V of this part, $15,000,000 for fiscal year 1992 and such sums as may be necessary for fiscal years 1993, 1994, and 1995.
-
-(Pub. L. 89–73, title VII, §702, as added Pub. L. 102–375, title VII, §701, Sept. 30, 1992, 106 Stat. 1271.)
+(Pub. L. 89–73, title VII, §702, as added Pub. L. 102–375, title VII, §701, Sept. 30, 1992, 106 Stat. 1271; amended Pub. L. 106–501, title VII, §701, Nov. 13, 2000, 114 Stat. 2289.)
 
 #### Prior Provisions
 
@@ -24,7 +20,11 @@ A prior section 3058a, Pub. L. 89–73, title VII, §703, as added Pub. L. 98–
 
 A prior section 702 of Pub. L. 89–73 was classified to section 3045a of this title prior to repeal by Pub. L. 95–478.
 
+#### Amendments
+
+2000—Pub. L. 106–501 amended section catchline and text generally, substituting provisions authorizing appropriations for subparts II, III, and IV of this part for fiscal year 2001 and subsequent fiscal years for provisions authorizing appropriations for subparts II, III, IV, and V of this part for fiscal years 1992 through 1995.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3058b, 3058d, 3058g, 3058i, 3058j, 3058k of this title.
+This section is referred to in sections 3058b, 3058g, 3058i of this title.
 

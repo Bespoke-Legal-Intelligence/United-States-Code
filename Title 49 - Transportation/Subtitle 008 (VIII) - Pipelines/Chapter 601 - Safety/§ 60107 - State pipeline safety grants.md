@@ -18,7 +18,7 @@ Payments.—After notifying and consulting with a State authority, the Secretary
 
 (c)
 
-Apportionment and Method of Payment.—The Secretary shall apportion the amount appropriated to carry out this section among the States. A payment may be made under this section in installments, in advance, or on a reimbursable basis.
+Apportionment and Method of Payment.—The Secretary shall apportion the amount appropriated to carry out this sectionamong the States. A payment may be made under this section in installments, in advance, or on a reimbursable basis.
 
 (d)
 

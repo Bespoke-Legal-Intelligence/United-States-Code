@@ -6,7 +6,7 @@ There is authorized a separate fund in the Treasury of the United States to be k
 
 #### (b) Crediting of appropriations
 
-All appropriations made for the purpose of carrying out the provisions of this chapter, other than section 620g of this title shall be credited to the Basin Fund as advances from the general fund of the Treasury.
+All appropriations made for the purpose of carrying out the provisions of this chapter,other than section 620g of this title shall be credited to the Basin Fund as advances from the general fund of the Treasury.
 
 #### (c) Crediting and availability of revenues
 
@@ -65,6 +65,10 @@ Amendment by Pub. L. 98–569 effective Oct. 30, 1984, see section 6 of Pub. L. 
 #### Effective Date of 1960 Amendment
 
 Section 9 of Pub. L. 86–529 provided that the amendment made by that section is effective June 1, 1960.
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsec. (g) of this section is listed as the 8th item on page 114), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set out as notes under section 1113 of Title 31, Money and Finance.
 
 #### Section Referred to in Other Sections
 

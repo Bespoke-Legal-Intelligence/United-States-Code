@@ -10,14 +10,6 @@ Based on section 245 of title 25, U.S.C., 1940 ed., Indians (May 18, 1916, ch. 1
 
 The only change made was the insertion of the word “Indian” before “country”, to substitute specificity for generality. (See definition of “Indian country” in section 1151 of this title.)
 
-#### Cross References
-
-Application of Indian liquor laws, see section 1161 of this title.
-
-Indian country defined, see section 1151 of this title.
-
-Possession of intoxicating liquors in Indian country, see section 1156 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1161 of this title.

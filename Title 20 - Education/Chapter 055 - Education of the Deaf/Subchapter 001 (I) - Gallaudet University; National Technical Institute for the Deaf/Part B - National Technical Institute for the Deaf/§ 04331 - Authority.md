@@ -4,10 +4,6 @@ For the purpose of providing a residential facility for postsecondary technical 
 
 (Pub. L. 99–371, title I, §111, formerly title II, §201, Aug. 4, 1986, 100 Stat. 784; renumbered title I, §111, Pub. L. 102–421, title I, §101(b)(3), (4), Oct. 16, 1992, 106 Stat. 2151; Pub. L. 103–73, title II, §203(f), Aug. 11, 1993, 107 Stat. 734.)
 
-#### Codification
-
-Section is also set out in D.C. Code, §31–1841.4a.
-
 #### Amendments
 
 1993—Pub. L. 103–73 substituted “part” for “subchapter”.

@@ -1,6 +1,6 @@
 ### §5531. Definitions
 
-For the purpose of sections 5532 <sup>1</sup> and 5533 of this title—
+For the purpose of section 5533 of this title—
 
 &emsp;(1) “member” has the meaning given such term by section 101(23) of title 37;
 
@@ -16,7 +16,7 @@ For the purpose of sections 5532 <sup>1</sup> and 5533 of this title—
 
 &emsp;(7) “congressional employee” has the meaning given that term by section 2107 of this title, excluding an employee of an agency in the legislative branch.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 482; Pub. L. 95–454, title III, §308(b), Oct. 13, 1978, 92 Stat. 1150; Pub. L. 102–190, div. A, title VI, §655(a)(2), Dec. 5, 1991, 105 Stat. 1391; Pub. L. 104–186, title II, §215(6), Aug. 20, 1996, 110 Stat. 1745.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 482; Pub. L. 95–454, title III, §308(b), Oct. 13, 1978, 92 Stat. 1150; Pub. L. 102–190, div. A, title VI, §655(a)(2), Dec. 5, 1991, 105 Stat. 1391; Pub. L. 104–186, title II, §215(6), Aug. 20, 1996, 110 Stat. 1745; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(f)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–293.)
 
 Historical and Revision Notes
 
@@ -38,11 +38,9 @@ The definitions of “uniformed services” and “armed forces” are omitted a
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
-#### References in Text
-
-Section 5532 of this title, referred to in text, was repealed by Pub. L. 106–65, div. A, title VI, §651(a)(1), Oct. 5, 1999, 113 Stat. 664.
-
 #### Amendments
+
+2000—Pub. L. 106–398 substituted “section” for “sections 5532 and” in introductory provisions.
 
 1996—Par. (5). Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk”.
 
@@ -64,13 +62,7 @@ Pub. L. 95–454, title III, §308(g), Oct. 13, 1978, 92 Stat. 1151, provided th
 
 “(3) The provisions of section 5532 of title 5, United States Code, as in effect immediately before the effective date of this Act, shall apply with respect to any retired officer of a regular component of the uniformed services who is receiving retired pay on or before such date, or any individual to whom paragraph (2) applies, in the same manner and to the same extent as if the preceding subsections of this section had not been enacted.”
 
-#### Cross References
-
-Time limitation on claims against Government employees who received dual compensation in violation of the dual compensation laws, see section 3712 of Title 31, Money and Finance.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 8344, 8468 of this title; title 22 section 3664; title 24 section 421.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

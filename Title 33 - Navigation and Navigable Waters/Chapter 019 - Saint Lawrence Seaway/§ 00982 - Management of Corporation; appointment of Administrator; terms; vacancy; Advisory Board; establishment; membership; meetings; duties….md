@@ -2,7 +2,7 @@
 
 (a) The management of the corporation shall be vested in an Administrator who shall be appointed by the President, by and with the advice and consent of the Senate, for a term of seven years. Any Administrator appointed to fill a vacancy in that position prior to the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term.
 
-(b) There is established the Advisory Board of the Saint Lawrence Seaway Development Corporation which shall be composed of five members appointed by the President, by and with the advice and consent of the Senate, not more than three of whom shall belong to the same political party. The Advisory Board shall meet at the call of the Administrator, who shall require it to meet not less often than once each ninety days; shall review the general policies of the Corporation, including its policies in connection with design and construction of facilities and the establishment of rules of measurement for vessels and cargo and rates of charges or tolls; and shall advise the Administrator with respect thereto. Members of the Advisory Board shall receive for their services as members compensation of not to exceed $50 per diem when actually engaged in the performance of their duties, together with their necessary traveling expenses while going to and coming from meetings.
+(b) There is established the Advisory Board of the Saint Lawrence Seaway Development Corporation which shall be composed of five members appointed by the President, by and with the advice and consent of the Senate, not more than three of whom shall belong to the same political party. The Advisory Board shall meet at the call of the Administrator, who shall require it to meet not less often than once each ninety days; shall review the general policies of the Corporation, including its policies in connection withdesign and construction of facilities and the establishment of rules of measurement for vessels and cargo and rates of charges or tolls; and shall advise the Administrator with respect thereto. Members of the Advisory Board shall receive for their services as members compensation of not to exceed $50 per diem when actually engaged in the performance of their duties, together with their necessary traveling expenses while going to and coming from meetings.
 
 (May 13, 1954, ch. 201, §2, 68 Stat. 93; Pub. L. 93–615, §1, Jan. 2, 1975, 88 Stat. 1977.)
 
@@ -19,10 +19,6 @@ Section 2 of Pub. L. 93–615 provided that: “The amendments made to section 2
 #### Termination of Advisory Boards
 
 Advisory boards in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Cross References
-
-Compensation of Administrator, see section 5315 of Title 5, Government Organization and Employees.
 
 #### Section Referred to in Other Sections
 

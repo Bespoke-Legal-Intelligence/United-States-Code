@@ -44,7 +44,7 @@ This Act, referred to in subsecs. (a) and (c) to (h), is act June 30, 1949, ch. 
 
 #### Codification
 
-In subsec. (g), “section 5703 of title 5” substituted for “section 5 of the Act of August 2, 1946 (5 U.S.C. 73b–2)”on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+In subsec. (g), “section 5703 of title 5” substituted for “section 5 of the Act of August 2, 1946 (5 U.S.C. 73b–2)” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 Section was formerly classified to section 235 of Title 41, Public Contracts.
 
@@ -140,7 +140,7 @@ Ex. Ord. No. 10579, Dec. 1, 1954, 19 F.R. 7925, provided:
 
 Section 1. <i>Purpose and general policy</i>. (a) The purpose of these regulations is to establish policies and procedures under which interagency motor-vehicle pools or systems may be established, operated, curtailed, or discontinued.
 
-(b) The Administrator of General Services (hereinafter referred to as the Administrator) shall establish and provide for the operation of interagency motor-vehicle pools and systems for the purpose of providing more efficient or economical transportation of Government personnel and property within specific areas by motor vehicles or local transit systems. Pools or systems based in whole or in part upon use of privately-owned vehicles and facilities shall be preferred to Government ownership of vehicles and facilities to the extent that it is feasible to provide required motor-vehicle services of satisfactory quality and cost from commercial or other private sources.
+(b) The Administrator of General Services (hereinafter referred to as the Administrator) shall establishand provide for the operation of interagency motor-vehicle pools and systems for the purpose of providing more efficient or economical transportation of Government personnel and property within specific areas by motor vehicles or local transit systems. Pools or systems based in whole or in part upon use of privately-owned vehicles and facilities shall be preferred to Government ownership of vehicles and facilities to the extent that it is feasible to provide required motor-vehicle services of satisfactory quality and cost from commercial or other private sources.
 
 Sec. 2. <i>Conduct of studies to determine advisability of establishing motor-vehicle pools or systems</i>. (a) The Administrator shall select areas in which studies are to be conducted to determine the advisability of establishing motor-vehicle pools or systems. Before initiating any such study, he shall give at least thirty days notice to the head of each executive agency (as defined in section 3(a) of the Act) \[section 472(a) of this title\]. The notice shall include a statement of the approximate geographic area to be studied and the date on which the study will begin.
 
@@ -182,7 +182,7 @@ Sec. 8. <i>Discontinuance or curtailment of service</i>. (a) If, during any reas
 
 (c) Executive agencies affected by a pool or system for which the Administrator is responsible (including inter-agency pools or systems operated by another executive agency designated by the Administrator) may bring problems of service and cost to the attention of the Administrator, who shall assure that such problems receive proper attention.
 
-(d) Executive agencies receiving motor-vehicle services from an interagency motor-vehicle pool or system under these regulations may request discontinuance or curtailment of their participation in such pool or system after at least one year of participation or in the event that the need for the services from the pool or system ceases. Such requests shall be submitted to the Administrator with pertinent factual justification.
+(d) Executive agencies receiving motor-vehicle services from an interagency motor-vehicle pool or systemunder these regulations may request discontinuance or curtailment of their participation in such pool or system after at least one year of participation or in the event that the need for the services from the pool or system ceases. Such requests shall be submitted to the Administrator with pertinent factual justification.
 
 (e) If the Administrator does not agree with such request and is unable to make arrangements which are mutually acceptable to him and to the head of the executive agency concerned, the agency's request for discontinuance or modification and the Administrator's reasons for not agreeing with the request shall be forwarded to the Director who shall be responsible for making a final and binding decision.
 
@@ -234,7 +234,7 @@ Ex. Ord. No. 12030, Dec. 15, 1977, 42 F.R. 63633, formerly set out as a note und
 
 Ex. Ord. No. 12348, Feb. 25, 1982, 47 F.R. 8547, which related to Federal real property review, was revoked by Ex. Ord. No. 12512, Apr. 29, 1985, 50 F.R. 18453, set out below.
 
-#### Ex. Ord. No. 112411. Government Work Space Management Reforms
+#### Ex. Ord. No. 12411. Government Work Space Management Reforms
 
 Ex. Ord. No. 12411, Mar. 29, 1983, 48 F.R. 13391, provided:
 
@@ -254,7 +254,7 @@ Section 1. In order to make the Federal use of work space (including office spac
 
 (f) Report all vacant work space retained for future Federal uses to the Administrator of General Services so that it may be made available for the temporary use of other Federal agencies, to the extent consistent with national defense requirements;
 
-(g) Establish a work space management plan to meet the provisions of this Order, including specification of the goals to be achieved and actions to be taken by the agency in order to improve its utilization of all work space and related furnishings; and
+(g) Establish a work space management plan to meet the provisions of this Order, including specification ofthe goals to be achieved and actions to be taken by the agency in order to improve its utilization of all work space and related furnishings; and
 
 (h) Establish information systems, implement inventory controls and conduct surveys, in accordance with procedures established by the Administrator of General Services, so that a government-wide reporting system may be developed.
 
@@ -280,7 +280,7 @@ Section 1. <i>General Requirements</i>. To ensure the effective and economical u
 
 (e) The President's Council on Management Improvement, subject to the policy direction of the Domestic Policy Council, shall conduct such additional studies as are necessary to improve Federal real property management by appropriate agencies and groups.
 
-Sec. 2. <i>Real Property</i>. The Administrator of General Services shall, to the extent permitted by law, provide government-wide policy oversight and guidance for Federal real property management; manage selectedproperties for agencies; conduct surveys; delegate operational responsibility to agencies where feasible and economical; and provide leadership in the development and maintenance of needed property management information systems.
+Sec. 2. <i>Real Property</i>. The Administrator of General Services shall, to the extent permitted by law, provide government-wide policy oversight and guidance for Federal real property management; manage selected properties for agencies; conduct surveys; delegate operational responsibility to agencies where feasible and economical; and provide leadership in the development and maintenance of needed property management information systems.
 
 Sec. 3. <i>Public Lands</i>. In order to ensure that Federally owned lands, other than the real property covered by Section 2 of this Order, are managed in the most effective and economic manner, the Departments of Agriculture and the Interior shall take such steps as are appropriate to improve their management of public lands and National Forest System lands and shall develop appropriate legislative proposals necessary to facilitate that result.
 
@@ -302,7 +302,7 @@ Therefore, by the authority vested in me as President by the Constitution and th
 
 Section 1. <i>Statement of Policy</i>. It is the policy of the Federal Government that solicitations and building service contracts for public buildings shall include a clause that requires the contractor under a contract that succeeds a contract for performance of similar services at the same public building to offer those employees (other than managerial or supervisory employees) under the predecessor contract whose employment will be terminated as a result of the award of the successor contract, a right of first refusal to employment under the contract in positions for which they are qualified. There shall be no employment openings under the contract until such right of first refusal has been provided. Nothing in this order shall be construed to permit a contractor to fail to comply with any provision of any other Executive order or laws of the United States.
 
-Sec. 2. <i>Definitions</i>. (a) “Public building” means any Government-owned building, whether single or multi-tenant occupancy, its grounds, approaches, and appurtenances, which is generally suitable for office or storage space or both for the use of one or more Federal agencies or mixed ownership corporations, and shall include the following: (1) Federal office buildings; (2) customhouses; (3) courthouses; (4) border inspection facilities; (5) warehouses; (6) records centers; (7) appraiser stores; and (8) relocation facilities and similar Federal facilities; but shall not include any such buildings: (A) on the public domain (including that reserved for national forests and other purposes); (B) on properties of the United States in foreign countries; (C) on Native American and Native Eskimo properties held in trust by the United States; (D) on lands used in connection with Federal programs for agricultural, recreational, and conservation purposes, including research in connection therewith; (E) on or used in connection with river, harbor, flood control, reclamation, or power projects; or for chemical manufacturing or development projects; or for nuclear production, research, or development projects; (F) on or used in connection with housing and residential projects; (G) on properties of the United States Postal Service; (H) on military installations (including any fort, camp, post, naval training station, airfield, proving ground, military supply depot, military school, or any similar facility of the Department of Defense); (I) on installations of the National Aeronautic and Space Administration, except regular office buildings; and (J) on Department of Veterans Affairs installations used for hospital or domiciliary purposes.
+Sec. 2. <i>Definitions</i>. (a) “Public building” means any Government-owned building, whether single or multi-tenant occupancy, its grounds, approaches, and appurtenances, which is generally suitable for office or storage space or both for the use of one or more Federal agencies or mixed ownership corporations, and shall include the following: (1) Federal office buildings; (2) customhouses; (3) courthouses; (4) border inspection facilities; (5) warehouses; (6) records centers; (7) appraiser stores; and (8) relocation facilities and similar Federalfacilities; but shall not include any such buildings: (A) on the public domain (including that reserved for national forests and other purposes); (B) on properties of the United States in foreign countries; (C) on Native American and Native Eskimo properties held in trust by the United States; (D) on lands used in connection with Federal programs for agricultural, recreational, and conservation purposes, including research in connection therewith; (E) on or used in connection with river, harbor, flood control, reclamation, or power projects; or for chemical manufacturing or development projects; or for nuclear production, research, or development projects; (F) on or used in connection with housing and residential projects; (G) on properties of the United States Postal Service; (H) on military installations (including any fort, camp, post, naval training station, airfield, proving ground, military supply depot, military school, or any similar facility of the Department of Defense); (I) on installations of the National Aeronautic and Space Administration, except regular office buildings; and (J) on Department of Veterans Affairs installations used for hospital or domiciliary purposes.
 
 (b) “Building services contract” means a contract for recurring services related to the maintenance of a public building, e.g., janitorial, window washing, food service, laundry, protective services, lawn and grounds care, and inspection, maintenance, and repair of fixed equipment such as elevators, air-conditioning, and heating systems.
 
@@ -469,10 +469,6 @@ Sec. 6. <i>Agency Support and Cooperation</i>. (a) <i>Administrative Support</i>
 Sec. 7. <i>Judicial Review</i>. This order is intended only to improve the internal management of the Federal Government, and is not intended, and should not be construed, to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or its employees.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Cross References
-
-Accounting systems in executive agencies, duties of Comptroller General, and continuation of authority vested in him by subsection (b) of this section, see section 3512 of Title 31, Money and Finance.
 
 #### Section Referred to in Other Sections
 

@@ -6,7 +6,7 @@ The Comptroller General, when the Comptroller General deems it to be appropriate
 
 #### (b) Audits of recipients
 
-The financial transactions of participating jurisdictions and of other recipients of funds provided under this subchapter may, insofar as they relate to funds provided under this subchapter, be audited by the General Accounting Office under such rules and regulations as may be prescribed by the Comptroller General of the United States. The representatives of the General Accounting Office shall have access to all books, accounts, records, reports, files, andother papers, things, or property belonging to or in use by such recipients pertaining to such financial transactions and necessary to facilitate the audit.
+The financial transactions of participating jurisdictions and of other recipients of funds provided under this subchapter may, insofar as they relate to funds provided under this subchapter, be audited by the General Accounting Office under such rules and regulations as may be prescribed by the Comptroller General of the United States. The representatives of the General Accounting Office shall have access to all books, accounts, records, reports, files, and other papers, things, or property belonging to or in use by such recipients pertaining to such financial transactions and necessary to facilitate the audit.
 
 (Pub. L. 101–625, title II, §283, Nov. 28, 1990, 104 Stat. 4125; Pub. L. 103–233, title II, §205, Apr. 11, 1994, 108 Stat. 364.)
 
@@ -26,7 +26,7 @@ Audits by the Comptroller General.—”, redesignated subsec. (b)(2) as (b), an
 
 #### Change of Name
 
-Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Effective Date of 1994 Amendment
 

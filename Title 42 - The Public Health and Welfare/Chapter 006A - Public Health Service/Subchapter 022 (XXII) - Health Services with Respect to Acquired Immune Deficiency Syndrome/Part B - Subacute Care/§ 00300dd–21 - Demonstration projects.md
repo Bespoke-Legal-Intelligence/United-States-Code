@@ -10,7 +10,7 @@ As used in this section:
 
 #### (b) Authorization to conduct three projects
 
-The Secretary shall conduct three demonstration projects to determine the effectiveness and cost of providing the subacute-care services described in subsection (b) of this section to individuals infected with the etiologic agent for acquired immune deficiency syndrome, and theimpact of such services on the health status of such individuals.
+The Secretary shall conduct three demonstration projects to determine the effectiveness and cost of providing the subacute-care services described in subsection (b) of this section to individuals infected with the etiologic agent for acquired immune deficiency syndrome, and the impact of such services on the health status of such individuals.
 
 #### (c) Services
 
@@ -96,7 +96,7 @@ Subsec. (c)(1). Pub. L. 100–690, §2618(h)(4)(A), in introductory provisions s
 
 Subsec. (c)(1)(A). Pub. L. 100–690, §2618(h)(4)(B), substituted in introductory provisions “such individuals” for “such patients”, in cl. (ii) “individuals with acquired immune deficiency syndrome” for “AIDS patients”, and in cl. (iii) “such individuals” for “patients”.
 
-Subsec. (c)(1)(B), (2)(C). Pub. L. 100–690, §2618(h)(4)(C), (5), substituted “individuals infected with the etiologicagent for acquired immune deficiency syndrome” for “patients infected with the human immunodeficiency virus”.
+Subsec. (c)(1)(B), (2)(C). Pub. L. 100–690, §2618(h)(4)(C), (5), substituted “individuals infected with the etiologic agent for acquired immune deficiency syndrome” for “patients infected with the human immunodeficiency virus”.
 
 Subsec. (d)(2)(B). Pub. L. 100–690, §2618(h)(6), substituted “cases of acquired immune deficiency syndrome” for “AIDS cases”.
 
@@ -112,7 +112,7 @@ Subsec. (h). Pub. L. 100–527 substituted “Secretary of the Department of Vet
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Effective Date of 1988 Amendments
 

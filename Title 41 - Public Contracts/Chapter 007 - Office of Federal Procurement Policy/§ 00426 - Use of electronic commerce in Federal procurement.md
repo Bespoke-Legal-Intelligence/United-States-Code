@@ -28,11 +28,11 @@ The Administrator shall, in carrying out the requirements of this section—
 
 &emsp;(2) ensure that the head of each executive agency complies with the requirements of subsection (c) of this section with respect to the agency systems, technologies, procedures, and processes established pursuant to this section; and
 
-&emsp;(3) consult with the heads of appropriate Federal agencies with applicable technical and functional expertise, including the Office of Information and Regulatory Affairs, the National Institute of Standards and Technology,the General Services Administration, and the Department of Defense.
+&emsp;(3) consult with the heads of appropriate Federal agencies with applicable technical and functional expertise, including the Office of Information and Regulatory Affairs, the National Institute of Standards and Technology, the General Services Administration, and the Department of Defense.
 
 #### (e) Report
 
-Not later than March 1, 1998, and every year afterward through 2003, the Administrator shall submit to Congress a report setting forth in detail the progress made in implementing the requirements of this section. The report shall include the following:
+Not later than March 1 of each even-numbered year through 2004, the Administrator shall submit to Congress a report setting forth in detail the progress made in implementing the requirements of this section. The report shall include the following:
 
 &emsp;(1) A strategic plan for the implementation of a Government-wide electronic commerce capability.
 
@@ -40,7 +40,7 @@ Not later than March 1, 1998, and every year afterward through 2003, the Adminis
 
 &emsp;(3) A specific assessment of compliance with the requirement in subsection (c) of this section to provide universal public access through a single, Government-wide point of entry.
 
-&emsp;(4) Beginning with the report submitted on March 1, 1999, an agency-by-agency summary of the volume and dollar value of transactions that were conducted using electronic commerce methods during the previous calendar year.
+&emsp;(4) An agency-by-agency summary of the volume and dollar value of transactions that were conducted using electronic commerce methods during the previous two fiscal years.
 
 &emsp;(5) A discussion of possible incremental changes to the electronic commerce capability referred to in subsection (c)(4) of this section to increase the level of government contract information available to the private sector, including an assessment of the advisability of including contract award information in the electronic commerce functional standard.
 
@@ -48,11 +48,19 @@ Not later than March 1, 1998, and every year afterward through 2003, the Adminis
 
 For the purposes of this section, the term “electronic commerce” means electronic techniques for accomplishing business transactions, including electronic mail or messaging, World Wide Web technology, electronic bulletin boards, purchase cards, electronic funds transfers, and electronic data interchange.
 
-(Pub. L. 93–400, §30, as added Pub. L. 103–355, title IX, §9001(a), Oct. 13, 1994, 108 Stat. 3399; Pub. L. 105–85, div. A, title VIII, §850(a), Nov. 18, 1997, 111 Stat. 1847.)
+(Pub. L. 93–400, §30, as added Pub. L. 103–355, title IX, §9001(a), Oct. 13, 1994, 108 Stat. 3399; Pub. L. 105–85, div. A, title VIII, §850(a), Nov. 18, 1997, 111 Stat. 1847; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §810(d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–210.)
 
 #### Amendments
 
+2000—Subsec. (e). Pub. L. 106–398, §1 \[\[div. A\], title VIII, §810(d)(1)\], substituted “Not later than March 1 of each even-numbered year through 2004” for “Not later than March 1, 1998, and every year afterward through 2003” in introductory provisions.
+
+Subsec. (e)(4). Pub. L. 106–398, §1 \[\[div. A\], title VIII, §810(d)(2)\], substituted “An” for “Beginning with the report submitted on March 1, 1999, an” and “two fiscal years” for “calendar year”.
+
 1997—Pub. L. 105–85 amended section catchline and text generally. Prior to amendment, section consisted of subsecs. (a) to (d) requiring the Administrator to establish a program for development and implementation of a Federal acquisition computer network architecture to be known as FACNET.
+
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–398 effective Oct. 1, 2000, see section 1 \[\[div. A\], title VIII, §810(e)\] of Pub. L. 106–398, set out as a note under section 637 of Title 15, Commerce and Trade.
 
 #### Effective Date of 1997 Amendment
 

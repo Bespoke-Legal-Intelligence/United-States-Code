@@ -81,14 +81,6 @@ Section 3(b) of Pub. L. 86–114, July 28, 1959, 73 Stat. 263, provided that: �
 
 &emsp;“(11) the seventh paragraph of such section is further amended by striking out ‘and central reserve cities’.”
 
-#### Cross References
-
-List of Federal Reserve Banks and Branches, see note under section 222 of this title.
-
-Power of Board of Governors of the Federal Reserve System to add to and reclassify reserve cities, see section 248 of this title.
-
-Reserve cities unaffected by organization of reserve districts and Federal reserve cities, see section 224 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 481 of this title.

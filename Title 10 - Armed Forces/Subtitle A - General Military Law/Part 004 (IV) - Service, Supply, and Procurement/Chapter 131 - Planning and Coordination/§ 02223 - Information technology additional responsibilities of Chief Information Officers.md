@@ -8,9 +8,11 @@ Additional Responsibilities of Chief Information Officer of Department of Defens
 
 &emsp;(2) ensure the interoperability of information technology and national security systems throughout the Department of Defense;
 
-&emsp;(3) ensure that information technology and national security systems standards that will apply throughout the Department of Defense are prescribed; and
+&emsp;(3) ensure that information technology and national security systems standards that will apply throughout the Department of Defense are prescribed;
 
-&emsp;(4) provide for the elimination of duplicate information technology and national security systems within and between the military departments and Defense Agencies.
+&emsp;(4) provide for the elimination of duplicate information technology and national security systems within and between the military departments and Defense Agencies; and
+
+&emsp;(5) maintain a consolidated inventory of Department of Defense mission critical and mission essential information systems, identify interfaces between those systems and other information systems, and develop and maintain contingency plans for responding to a disruption in the operation of any of those information systems.
 
 (b)
 
@@ -34,7 +36,11 @@ Definitions.—In this section:
 
 &emsp;(3) The term “national security system” has the meaning given that term by section 5142 of the Clinger-Cohen Act of 1996 (40 U.S.C. 1452).
 
-(Added Pub. L. 105–261, div. A, title III, §331(a)(1), Oct. 17, 1998, 112 Stat. 1967.)
+(Added Pub. L. 105–261, div. A, title III, §331(a)(1), Oct. 17, 1998, 112 Stat. 1967; amended Pub. L. 106–398, §1 \[\[div. A\], title VIII, §811(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–210.)
+
+#### Amendments
+
+2000—Subsec. (a)(5). Pub. L. 106–398 added par. (5).
 
 #### Effective Date
 

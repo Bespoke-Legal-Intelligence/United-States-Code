@@ -18,5 +18,5 @@ Each local educational agency, to the extent possible, shall use the funds made 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 6842, 6846 of this title.
+This section is referred to in sections 6842, 6846, 8293, 8294 of this title.
 

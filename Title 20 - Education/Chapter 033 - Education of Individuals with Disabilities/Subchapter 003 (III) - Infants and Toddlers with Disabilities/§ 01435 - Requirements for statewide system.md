@@ -68,7 +68,7 @@ A statewide system described in section 1433 of this title shall include, at a m
 
 #### (b) Policy
 
-In implementing subsection (a)(9) of this section, a State may adopt a policy that includes making ongoing good-faith efforts to recruit andhire appropriately and adequately trained personnel to provide early intervention services to infants and toddlers with disabilities, including, in a geographic area of the State where there is a shortage of such personnel, the most qualified individuals available who are making satisfactory progress toward completing applicable course work necessary to meet the standards described in subsection (a)(9) of this section, consistent with State law within 3 years.
+In implementing subsection (a)(9) of this section, a State may adopt a policy that includes making ongoing good-faith efforts to recruit and hire appropriately and adequately trained personnel to provide early intervention services to infants and toddlers with disabilities, including, in a geographic area of the State where there is a shortage of such personnel, the most qualified individuals available who are making satisfactory progress toward completing applicable course work necessary to meet the standards described in subsection (a)(9) of this section, consistent with State law within 3 years.
 
 (Pub. L. 91–230, title VI, §635, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 108.)
 

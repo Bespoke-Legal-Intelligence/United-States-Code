@@ -1,10 +1,10 @@
 ### §3961. General rule
 
-(a) The retired grade of a regular commissioned officer of the Army who retires other than for physical disability, and the retired grade of a reserve commissioned officer of the Army who retires other than for physical disability or for nonregular service under chapter 1223 of this title, is determined under section 1370 of this title.
+(a) The retired grade of a regular commissioned officer of the Army who retires other than for physical disability, and the retired grade of a reserve commissioned officer of the Army who retires other than for physical disability, is determined under section 1370 of this title.
 
 (b) Unless entitled to a higher retired grade under some other provision of law, a Regular or Reserve of the Army not covered by subsection (a) who retires other than for physical disability retires in the regular or reserve grade that he holds on the date of his retirement.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 230; Pub. L. 96–513, title V, §502(18), Dec. 12, 1980, 94 Stat. 2910; Pub. L. 103–337, div. A, title XVI, §1672(c)(2), Oct. 5, 1994, 108 Stat. 3015.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 230; Pub. L. 96–513, title V, §502(18), Dec. 12, 1980, 94 Stat. 2910; Pub. L. 103–337, div. A, title XVI, §1672(c)(2), Oct. 5, 1994, 108 Stat. 3015; Pub. L. 106–398, §1 \[\[div. A\], title V, §506(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–102.)
 
 Historical and Revision Notes
 
@@ -44,9 +44,15 @@ The applicability of the rule stated in the revised section to situations not ex
 
 #### Amendments
 
+2000—Subsec. (a). Pub. L. 106–398 struck out “or for nonregular service under chapter 1223 of this title” before “, is determined”.
+
 1994—Subsec. (a). Pub. L. 103–337 substituted “chapter 1223” for “chapter 67”.
 
 1980—Pub. L. 96–513 added subsec. (a), designated existing provisions as subsec. (b), and inserted “not covered by subsection (a)” after “Regular or Reserve of the Army”.
+
+#### Effective Date of 2000 Amendment
+
+Pub. L. 106–398, §1 \[\[div. A\], title V, §506(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–102, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 8961 of this title\] shall apply to Reserve commissioned officers who are promoted to a higher grade as a result of selection for promotion by a board convened under chapter 36 or 1403 of title 10, United States Code, or having been found qualified for Federal recognition in a higher grade under chapter 3 of title 32, United States Code, after October 1, 1996.”
 
 #### Effective Date of 1994 Amendment
 

@@ -10,7 +10,3 @@ For transfer of functions to General Services Administrator, see note set out un
 
 This section originally provided that Secretary of the Interior should determine rates to be paid for steam. Functions of Secretary of the Interior relating to administration of functions of Branch of Buildings Management transferred to Federal Works Administrator by Reorg. Plan No. I of 1939, set out in the Appendix to Title 5, Government Organization and Employees.
 
-#### Cross References
-
-Operations of buildings and related activities by Administrator of General Services, general powers and duties, see section 490 of this title.
-

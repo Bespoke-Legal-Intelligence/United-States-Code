@@ -32,7 +32,7 @@
 
 #### (3) Authority to prescribe more stringent accounting standards
 
-&emsp;The Director may at any time prescribe accounting standards more stringent than required under paragraph (2) if the Director determines that the more stringent standardsare necessary to ensure the safe and sound operation of savings associations.
+&emsp;The Director may at any time prescribe accounting standards more stringent than required under paragraph (2) if the Director determines that the more stringent standards are necessary to ensure the safe and sound operation of savings associations.
 
 #### (c) Stringency of standards
 

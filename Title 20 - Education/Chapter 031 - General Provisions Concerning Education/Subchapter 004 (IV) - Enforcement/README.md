@@ -8,6 +8,10 @@ A prior subchapter IV, consisting of sections 1233 to 1233h, was repealed by Pub
 
 1994—Pub. L. 103–382, title II, §212(b)(2), Oct. 20, 1994, 108 Stat. 3913, redesignated subchapter V of this chapter as this subchapter.
 
+#### Subchapter Referred to in Other Sections
+
+This subchapter is referred to in section 8071h of this title.
+
 
 ---
 

@@ -52,7 +52,7 @@ The administering authority may suspend an investigation if the government of th
 
 #### (1) General rule
 
-&emsp;If the administering authority determines that extraordinary circumstances are present in a case, it may suspend an investigation upon the acceptance of an agreement from a government described in subsection (b) of this section, or from exporters described in subsection (b) of this section, if the agreement will eliminate completely the injurious effect of exports to the United States of the subject merchandise.
+&emsp;If the administering authority determines that extraordinary circumstances are present in a case, it may suspend an investigation upon the acceptance of an agreement from agovernment described in subsection (b) of this section, or from exporters described in subsection (b) of this section, if the agreement will eliminate completely the injurious effect of exports to the United States of the subject merchandise.
 
 #### (2) Certain additional requirements
 
@@ -142,7 +142,7 @@ Before an investigation may be suspended under subsection (b) or (c) of this sec
 
 #### (B) Other agreements
 
-&emsp;&emsp;If the agreement accepted by the administering authority is an agreement describedin subsection (c) of this section, then the liquidation of entries of the subject merchandise shall be suspended under section 1671b(d)(2) of this title, or, if the liquidation of entries of such merchandise was suspended pursuant to a previous affirmative preliminary determination in the same case, that suspension of liquidation shall continue in effect, subject to subsection (h)(3) of this section, but the security required under section 1671b(d)(1)(B) of this title may be adjusted to reflect the effect of the agreement.
+&emsp;&emsp;If the agreement accepted by the administering authority is an agreement described in subsection (c) of this section, then the liquidation of entries of the subject merchandise shall be suspended under section 1671b(d)(2) of this title, or, if the liquidation of entries of such merchandise was suspended pursuant to a previous affirmative preliminary determination in the same case, that suspension of liquidation shall continue in effect, subject to subsection (h)(3) of this section, but the security required under section 1671b(d)(1)(B) of this title may be adjusted to reflect the effect of the agreement.
 
 #### (3) Where investigation is continued
 

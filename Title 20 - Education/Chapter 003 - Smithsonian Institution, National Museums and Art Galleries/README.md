@@ -13,7 +13,7 @@
 | [46a.](Subchapter%20001%20%28I%29%20-%20Charter%20Provisions/%C2%A7%2000046a%20-%20Employment%20of%20aliens%20by%20Secretary.md) | Employment of aliens by Secretary. |
 | [47\.](Subchapter%20001%20%28I%29%20-%20Charter%20Provisions/%C2%A7%2000047%20-%20Acting%20Secretary.md) | Acting Secretary. |
 | [48\.](Subchapter%20001%20%28I%29%20-%20Charter%20Provisions/%C2%A7%2000048%20-%20Salary%20and%20removal%20of%20Secretary%20and%20assistants.md) | Salary and removal of Secretary and assistants. |
-| [49\.](Subchapter%20001%20%28I%29%20-%20Charter%20Provisions/%C2%A7%2000049%20-%20Statement%20of%20expenditures.md) | Statement of expenditures. |
+| [49\.](Subchapter%20001%20%28I%29%20-%20Charter%20Provisions/%C2%A7%2000049%20-%20Omitted.md) | Omitted. |
 | [50\.](Subchapter%20001%20%28I%29%20-%20Charter%20Provisions/%C2%A7%2000050%20-%20Reception%20and%20arrangement%20of%20specimens%20and%20objects%20of%20art.md) | Reception and arrangement of specimens and objects of art. |
 | [50a.](Subchapter%20001%20%28I%29%20-%20Charter%20Provisions/%C2%A7%2000050a%20-%20Gellatly%20art%20collection%3B%20estimates%20of%20sums%20needed%20for%20preservation%20and%20maintenance.md) | Gellatly art collection; estimates of sums needed for preservation and maintenance. |
 | [51\.](Subchapter%20001%20%28I%29%20-%20Charter%20Provisions/%C2%A7%2000051%20-%20Library.md) | Library. |
@@ -24,7 +24,7 @@
 | [55\.](Subchapter%20001%20%28I%29%20-%20Charter%20Provisions/%C2%A7%2000055%20-%20Acceptance%20of%20other%20sums.md) | Acceptance of other sums. |
 | [56\.](Subchapter%20001%20%28I%29%20-%20Charter%20Provisions/%C2%A7%2000056%20-%20Disposal%20of%20unappropriated%20money.md) | Disposal of unappropriated money. |
 | [57\.](Subchapter%20001%20%28I%29%20-%20Charter%20Provisions/%C2%A7%2000057%20-%20Disbursements.md) | Disbursements. |
-| [58\.](Subchapter%20001%20%28I%29%20-%20Charter%20Provisions/%C2%A7%2000058%20-%20Annual%20report%20of%20salaries.md) | Annual report of salaries. |
+| [58\.](Subchapter%20001%20%28I%29%20-%20Charter%20Provisions/%C2%A7%2000058%20-%20Omitted.md) | Omitted. |
 | [59\.](Subchapter%20001%20%28I%29%20-%20Charter%20Provisions/%C2%A7%2000059%20-%20Collections%20of%20National%20Ocean%20Survey%2C%20United%20States%20Geological%20Survey%2C%20and%20others%20deposited%20in%20National%20Museum.md) | Collections of National Ocean Survey, United States Geological Survey, and others deposited in National Museum. |
 | [60\.](Subchapter%20001%20%28I%29%20-%20Charter%20Provisions/%C2%A7%2000060%20-%20Army%20articles%20furnished%20to%20National%20Museum.md) | Army articles furnished to National Museum. |
 | 61 to 65. | Repealed. |
@@ -343,7 +343,6 @@
 | (a) | Grants. |
 | (b) | Indian organization contribution. |
 | (c) | Tribal Museum Endowment Fund. |
-| (d) | Annual report. |
 | 80q–14. | Definitions. |
 | 80q–15. | Authorization of appropriations. |
 | (a) | Funding. |

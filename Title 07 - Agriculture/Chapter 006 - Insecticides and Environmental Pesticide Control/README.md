@@ -210,7 +210,7 @@
 | (b) | Pest control availability. |
 | (c) | Integrated pest management. |
 | (d) | Public health pests. |
-| 136w–4. | Annual report. |
+| 136w–4. | Omitted. |
 | 136w–5. | Minimum requirements for training of maintenance applicators and service technicians. |
 | 136w–6. | Environmental Protection Agency minor use program. |
 | 136w–7. | Department of Agriculture minor use program. |

@@ -12,7 +12,7 @@ It shall be unlawful for any person to solicit or knowingly acquire, receive, or
 
 &emsp;(2) the donated tissue will be transplanted into a relative of the donating individual; or
 
-&emsp;(3) the person who solicits or knowingly acquires, receives, or accepts the donation has provided valuable consideration for the costs associated with such abortion.
+&emsp;(3) the person who solicits or knowingly acquires, receives, or accepts the donation hasprovided valuable consideration for the costs associated with such abortion.
 
 #### (c) Criminal penalties for violations
 

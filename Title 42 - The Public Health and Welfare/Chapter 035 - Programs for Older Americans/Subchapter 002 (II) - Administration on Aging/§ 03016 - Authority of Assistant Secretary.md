@@ -14,7 +14,7 @@
 
 &emsp;(E) provide staff and other technical assistance to the Federal Council on the Aging.
 
-(2)(A) The Assistant Secretary shall designate an officer or employee who shall serve on a full-time basis and who shall be responsible for the administration of the nutrition services described in subparts I, II, and III of part C of subchapter III of this chapter and shall have duties that include—
+(2)(A) The Assistant Secretary shall designate an officer or employee who shall serve on a full-time basis and who shall be responsible for the administration of the nutrition services described in subparts I and II of part C of subchapter III of this chapter and shall have duties that include—
 
 &emsp;(i) designing, implementing, and evaluating nutrition programs;
 
@@ -48,27 +48,25 @@
 
 In administering the functions of the Administration under this chapter, the Assistant Secretary may utilize the services and facilities of any agency of the Federal Government and of any other public or nonprofit agency or organization, in accordance with agreements between the Assistant Secretary and the head thereof, and is authorized to pay therefor, in advance or by way of reimbursement, as may be provided in the agreement.
 
-#### (c) Regulations; notice and comment
-
-Not later than 120 days after October 9, 1987, the Secretary shall issue and publish in the Federal Register proposed regulations for the administration of this chapter. After allowing a reasonable period for public comment on such proposed rules and not later than 90 days after such publication, the Secretary shall issue, infinal form, regulations for the administration of this chapter.
-
-#### (d) Publication of goals
-
-Not later than September 1 of each fiscal year, the Assistant Secretary shall make available to the public, for the purpose of facilitating informed public comment, a statement of proposed specific goals to be achieved by implementing this chapter in the first fiscal year beginning after the date on which such statement is made available.
-
-#### (e) Authorization of appropriations
+#### (c) Authorization of appropriations
 
 For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary.
 
-(Pub. L. 89–73, title II, §205, formerly §206, as added Pub. L. 93–29, title II, §201(c), May 3, 1973, 87 Stat. 34; amended Pub. L. 95–478, title I, §102(f), Oct. 18, 1978, 92 Stat. 1515; renumbered §205 and amended Pub. L. 97–115, §2(e)(2), (g), Dec. 29, 1981, 95 Stat. 1596; Pub. L. 98–459, title II, §205, Oct. 9, 1984, 98 Stat. 1770; Pub. L. 100–175, title I, §§109, 110, Nov. 29, 1987, 101 Stat. 932; Pub. L. 102–375, title II, §206, title IX, §904(a)(7), Sept. 30, 1992, 106 Stat. 1212, 1306; Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990.)
+(Pub. L. 89–73, title II, §205, formerly §206, as added Pub. L. 93–29, title II, §201(c), May 3, 1973, 87 Stat. 34; amended Pub. L. 95–478, title I, §102(f), Oct. 18, 1978, 92 Stat. 1515; renumbered §205 and amended Pub. L. 97–115, §2(e)(2), (g), Dec. 29, 1981, 95 Stat. 1596; Pub. L. 98–459, title II, §205, Oct. 9, 1984, 98 Stat. 1770; Pub. L. 100–175, title I, §§109, 110, Nov. 29, 1987, 101 Stat. 932; Pub. L. 102–375, title II, §206, title IX, §904(a)(7), Sept. 30, 1992, 106 Stat. 1212, 1306; Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990; Pub. L. 106–501, title II, §202(3), title VIII, §801(b)(3), Nov. 13, 2000, 114 Stat. 2231, 2292.)
 
 #### Prior Provisions
 
 A prior section 205 of Pub. L. 89–73 was renumbered section 204 and is classified to section 3015 of this title.
 
-Provisions similar to those comprising subsecs. (a) and (c) of this section were contained in Pub. L. 89–73, title VIII, §802, formerly title VI, §602, July 14, 1965, 79 Stat. 226; Pub. L. 90–42, §5(e), (f), July 1, 1967, 81 Stat. 107, 108; renumbered title VII, §702, Pub. L. 91–69, §9, Sept. 17, 1969, 83 Stat. 111; renumbered title VIII, §802, Pub. L. 92–258, §1, Mar. 22, 1972, 86 Stat. 88, which was classified to section 3052 of this title, prior to repeal by Pub. L. 93–29, §202.
-
 #### Amendments
+
+2000—Subsec. (a)(2)(A). Pub. L. 106–501, §801(b)(3), substituted “subparts I and II” for “subparts I, II, and III” in introductory provisions.
+
+Subsecs. (c) to (e). Pub. L. 106–501, §202(3), redesignated subsec. (e) as (c) and struck out former subsecs. (c) and (d) which read as follows:
+
+“(c) Not later than 120 days after October 9, 1987, the Secretary shall issue and publish in the Federal Register proposed regulations for the administration of this chapter. After allowing a reasonable period for public comment on such proposed rules and not later than 90 days after such publication, the Secretary shall issue, in final form, regulations for the administration of this chapter.
+
+“(d) Not later than September 1 of each fiscal year, the Assistant Secretary shall make available to the public, for the purpose of facilitating informed public comment, a statement of proposed specific goals to be achieved by implementing this chapter in the first fiscal year beginning after the date on which such statement is made available.”
 
 1993—Subsecs. (a), (b), (d). Pub. L. 103–171 substituted “Assistant Secretary” for “Commissioner” wherever appearing.
 

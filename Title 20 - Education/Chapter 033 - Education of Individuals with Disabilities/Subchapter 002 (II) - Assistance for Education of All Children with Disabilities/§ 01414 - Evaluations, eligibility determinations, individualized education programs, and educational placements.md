@@ -108,7 +108,7 @@
 
 #### (3) Parental consent
 
-&emsp;Each local educational agency shall obtain informed parental consent, in accordance withsubsection (a)(1)(C) of this section, prior to conducting any reevaluation of a child with a disability, except that such informed parent consent need not be obtained if the local educational agency can demonstrate that it had taken reasonable measures to obtain such consent and the child's parent has failed to respond.
+&emsp;Each local educational agency shall obtain informed parental consent, in accordance with subsection (a)(1)(C) of this section, prior to conducting any reevaluation of a child with a disability, except that such informed parent consent need not be obtained if the local educational agency can demonstrate that it had taken reasonable measures to obtain such consent and the child's parent has failed to respond.
 
 #### (4) Requirements if additional data are not needed
 
@@ -240,7 +240,7 @@
 
 &emsp;&emsp;&emsp;(ii) in the case of a child with limited English proficiency, consider the language needs of the child as such needs relate to the child's IEP;
 
-&emsp;&emsp;&emsp;(iii) in the case of a child who is blind or visually impaired, provide for instruction in Braille and the use of Braille unless the IEP Team determines, after an evaluation of the child's reading and writing skills, needs, and appropriate reading and writing media (including an evaluation of the child's future needs for instruction in Braille or the use of Braille), that instruction in Braille or the use of Braille is not appropriate for the child;
+&emsp;&emsp;&emsp;(iii) in the case of a child who is blind or visually impaired, provide for instructionin Braille and the use of Braille unless the IEP Team determines, after an evaluation of the child's reading and writing skills, needs, and appropriate reading and writing media (including an evaluation of the child's future needs for instruction in Braille or the use of Braille), that instruction in Braille or the use of Braille is not appropriate for the child;
 
 &emsp;&emsp;&emsp;(iv) consider the communication needs of the child, and in the case of a child who is deaf or hard of hearing, consider the child's language and communication needs, opportunities for direct communications with peers and professional personnel in the child's language and communication mode, academic level, and full range of needs, including opportunities for direct instruction in the child's language and communication mode; and
 

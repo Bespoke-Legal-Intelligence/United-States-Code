@@ -24,7 +24,7 @@ An entity is eligible to enter into a contract under the Program to carry out an
 
 &emsp;(1) the entity has demonstrated capability to carry out such activities;
 
-&emsp;(2) in carrying out such activities, the entity agrees to cooperate with the Inspector General of the Department of Health and Human Services, the Attorney General, and other law enforcement agencies, as appropriate, in the investigation and deterrence of fraud and abuse in relation to this subchapter and in other cases arising out of such activities;
+&emsp;(2) in carrying out such activities, the entity agrees to cooperate with the Inspector Generalof the Department of Health and Human Services, the Attorney General, and other law enforcement agencies, as appropriate, in the investigation and deterrence of fraud and abuse in relation to this subchapter and in other cases arising out of such activities;
 
 &emsp;(3) the entity complies with such conflict of interest standards as are generally applicable to Federal acquisition and procurement; and
 
@@ -60,7 +60,7 @@ The Secretary shall by regulation provide for the limitation of a contractor's l
 
 #### References in Text
 
-Section 202(b) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec.\(d)(2)(B), is section 202(b) of Pub. L. 104–191, which amended sections 1395h and 1395u of this title.
+Section 202(b) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (d)(2)(B), is section 202(b) of Pub. L. 104–191, which amended sections 1395h and 1395u of this title.
 
 #### Section Referred to in Other Sections
 

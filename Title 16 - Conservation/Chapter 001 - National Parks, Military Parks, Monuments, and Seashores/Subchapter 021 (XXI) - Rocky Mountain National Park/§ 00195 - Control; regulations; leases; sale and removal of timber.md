@@ -16,10 +16,6 @@ The last sentence was from section 1 of act June 12, 1917.
 
 Pub. L. 104–333, div. I, title VIII, §810, Nov. 12, 1996, 110 Stat. 4189, provided that: “The Secretary of the Interior is authorized to collect and expend donated funds and expend appropriated funds for the operation and maintenance of a visitor center to be constructed for visitors to and administration of Rocky Mountain National Park with private funds on privately owned lands located outside the boundary of the park.”
 
-#### Cross References
-
-Secretary of the Interior to make and publish such rules and regulations as he may deem necessary and proper for management and care of Rocky Mountain National Park, see section 198c of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 192, 194, 197 of this title.

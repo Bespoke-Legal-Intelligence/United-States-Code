@@ -58,7 +58,7 @@ An eligible State that receives a grant under this section shall use the grant f
 
 #### (5) Recruitment; pay; removal
 
-&emsp;Developing and implementing effective mechanisms to ensure that local educational agencies and schools are able to effectively recruit highly qualified teachers, to financially reward those teachers and principals whose students have made significant progress toward high academic performance, such as through performance-based compensation systems and access to ongoing professional development opportunities for teachers and administrators, and to expeditiously remove incompetent or unqualified teachers consistent with procedures to ensure due process for the teachers.
+&emsp;Developing and implementing effective mechanisms to ensure that local educationalagencies and schools are able to effectively recruit highly qualified teachers, to financially reward those teachers and principals whose students have made significant progress toward high academic performance, such as through performance-based compensation systems and access to ongoing professional development opportunities for teachers and administrators, and to expeditiously remove incompetent or unqualified teachers consistent with procedures to ensure due process for the teachers.
 
 #### (6) Social promotion
 

@@ -1,5 +1,5 @@
 
-2 U.S.C.<br>United States Code, 1999 Edition<br>Title 2 - THE CONGRESS<br>From the U.S. Government Publishing Office, www.gpo.gov
+2 U.S.C.<br>United States Code, 2000 Edition<br>Title 2 - THE CONGRESS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 2—THE CONGRESS
 
@@ -36,10 +36,12 @@
 | [<b>20.</b>](Chapter%20020%20-%20Emergency%20Powers%20to%20Eliminate%20Budget%20Deficits/README.md) | <b>Emergency Powers To Eliminate Budget Deficits</b> | <b>900</b> |
 | [<b>21.</b>](Chapter%20021%20-%20Civic%20Achievement%20Award%20Program%20in%20Honor%20of%20Office%20of%20Speaker%20of%20House%20of%20Representatives/README.md) | <b>Civic Achievement Award Program in Honor of Office of Speaker of House of Representatives \[Repealed\]</b> | <b>1001</b> |
 | [<b>22.</b>](Chapter%20022%20-%20John%20C.%20Stennis%20Center%20for%20Public%20Service%20Training%20and%20Development/README.md) | <b>John C. Stennis Center for Public Service Training and Development</b> | <b>1101</b> |
-| [<b>23.</b>](Chapter%20023%20-%20Government%20Employee%20Rights/README.md) | <b>Government Employee Rights</b> | <b>1201</b> |
+| [<b>22A.</b>](Chapter%20022A%20-%20Center%20for%20Russian%20Leadership%20Development/README.md) | <b>Center for Russian Leadership Development</b> | <b>1151</b> |
+| [<b>23.</b>](Chapter%20023%20-%20Government%20Employee%20Rights/README.md) | <b>Government Employee Rights \[Transferred or Repealed\]</b> | <b>1201</b> |
 | [<b>24.</b>](Chapter%20024%20-%20Congressional%20Accountability/README.md) | <b>Congressional Accountability</b> | <b>1301</b> |
 | [<b>25.</b>](Chapter%20025%20-%20Unfunded%20Mandates%20Reform/README.md) | <b>Unfunded Mandates Reform</b> | <b>1501</b> |
 | [<b>26.</b>](Chapter%20026%20-%20Disclosure%20of%20Lobbying%20Activities/README.md) | <b>Disclosure of Lobbying Activities</b> | <b>1601</b> |
+| [<b>27.</b>](Chapter%20027%20-%20Sound%20Recording%20Preservation%20by%20the%20Library%20of%20Congress/README.md) | <b>Sound Recording Preservation by the Library of Congress</b> | <b>1701</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -79,7 +81,9 @@
 - [Chapter 020 - Emergency Powers to Eliminate Budget Deficits](Chapter%20020%20-%20Emergency%20Powers%20to%20Eliminate%20Budget%20Deficits/README.md)
 - [Chapter 021 - Civic Achievement Award Program in Honor of Office of Speaker of House of Representatives](Chapter%20021%20-%20Civic%20Achievement%20Award%20Program%20in%20Honor%20of%20Office%20of%20Speaker%20of%20House%20of%20Representatives/README.md)
 - [Chapter 022 - John C. Stennis Center for Public Service Training and Development](Chapter%20022%20-%20John%20C.%20Stennis%20Center%20for%20Public%20Service%20Training%20and%20Development/README.md)
+- [Chapter 022A - Center for Russian Leadership Development](Chapter%20022A%20-%20Center%20for%20Russian%20Leadership%20Development/README.md)
 - [Chapter 023 - Government Employee Rights](Chapter%20023%20-%20Government%20Employee%20Rights/README.md)
 - [Chapter 024 - Congressional Accountability](Chapter%20024%20-%20Congressional%20Accountability/README.md)
 - [Chapter 025 - Unfunded Mandates Reform](Chapter%20025%20-%20Unfunded%20Mandates%20Reform/README.md)
 - [Chapter 026 - Disclosure of Lobbying Activities](Chapter%20026%20-%20Disclosure%20of%20Lobbying%20Activities/README.md)
+- [Chapter 027 - Sound Recording Preservation by the Library of Congress](Chapter%20027%20-%20Sound%20Recording%20Preservation%20by%20the%20Library%20of%20Congress/README.md)

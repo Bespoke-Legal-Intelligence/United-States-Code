@@ -8,7 +8,3 @@ All acts done, and offenses or crimes committed, on any island, rock, or key men
 
 R.S. §5576 derived from act Aug. 18, 1856, ch. 164, §6, 11 Stat. 120.
 
-#### Cross References
-
-Crimes committed on any island, rock, or key, containing deposits of guano, which may be considered as appertaining to the United States, to be punished as crimes under admiralty or maritime jurisdiction, see section 7 of Title 18, Crimes and Criminal Procedure.
-

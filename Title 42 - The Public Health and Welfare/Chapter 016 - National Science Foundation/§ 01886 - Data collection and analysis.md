@@ -8,3 +8,7 @@ The National Science Foundation is authorized to design, establish, and maintain
 
 Section was enacted as part of the National Science Foundation Authorization Act for Fiscal Year 1986, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in section 287a–2 of this title.
+

@@ -66,5 +66,5 @@ Amendment by Pub. L. 99–272 effective Jan. 1, 1986, with certain exceptions, s
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1057, 1085a, 1143, 1362 of this title; title 26 section 412.
+This section is referred to in sections 1057, 1085a, 1362 of this title; title 26 section 412.
 

@@ -190,7 +190,7 @@ Sec. 5. <i>Strategic Plan</i>. To carry out section 4 of this order, the TPCC sh
 
 (a) establish a set of priorities for Federal activities in support of U.S. exports and explain the rationale for the priorities;
 
-(b) review current Federal programs designed to promote the sale of U.S. exports in light of the prioritiesestablished under paragraph (a) of this section and develop a plan to bring such activities into line with those priorities and to improve coordination of such activities;
+(b) review current Federal programs designed to promote the sale of U.S. exports in light of the priorities established under paragraph (a) of this section and develop a plan to bring such activities into line with those priorities and to improve coordination of such activities;
 
 (c) identify areas of overlap and duplication among Federal export promotion activities and propose means of eliminating them;
 

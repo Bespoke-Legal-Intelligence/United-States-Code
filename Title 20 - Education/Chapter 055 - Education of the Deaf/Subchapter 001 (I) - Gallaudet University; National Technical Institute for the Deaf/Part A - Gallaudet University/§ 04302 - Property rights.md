@@ -12,10 +12,6 @@ Gallaudet University is vested with all the property and the rights of property,
 
 (Pub. L. 99–371, title I, §102, Aug. 4, 1986, 100 Stat. 781; Pub. L. 103–73, title II, §203(b), Aug. 11, 1993, 107 Stat. 733.)
 
-#### Codification
-
-Section is also set out in D.C. Code, §31–1841.2.
-
 #### Prior Provisions
 
 Provisions similar to this section were contained in section 691b of this title, prior to repeal by Pub. L. 99–371.

@@ -6,7 +6,7 @@ It is the purpose of this chapter to provide a classification system for the equ
 
 &emsp;&emsp;(A) in accordance with the principle of equal pay for substantially equal work, and
 
-&emsp;&emsp;(B) with due regard to (i) differences in the levels of difficulty, responsibility, and qualification requirements of the work, (ii) thekind of work performed, (iii) satisfactory performance, and (iv) length of service;
+&emsp;&emsp;(B) with due regard to (i) differences in the levels of difficulty, responsibility, and qualification requirements of the work, (ii) the kind of work performed, (iii) satisfactory performance, and (iv) length of service;
 
 &emsp;(2) the application of appropriate position standards and position descriptions for such positions; and
 
@@ -16,7 +16,7 @@ It is the purpose of this chapter to provide a classification system for the equ
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 88–652, Oct. 13, 1964, 78 Stat. 1079, known as the House Employees Position Classification Act, which enacted this chapter and amended sections 88c and 123b of this title. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 88–652, Oct. 13, 1964, 78Stat. 1079, known as the House Employees Position Classification Act, which enacted this chapter and amended sections 88c and 123b of this title. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### Effective Date
 

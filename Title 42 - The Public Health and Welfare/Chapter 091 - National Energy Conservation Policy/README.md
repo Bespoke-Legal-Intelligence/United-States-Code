@@ -249,7 +249,7 @@
 | :--- | ---: |
 | [8286\.](Subchapter%20006%20%28VI%29%20-%20Coordination%20of%20Federal%20Energy%20Conservation%20Factors%20and%20Data/%C2%A7%2008286%20-%20Consensus%20on%20factors%20and%20data%20for%20energy%20conservation%20standards.md) | Consensus on factors and data for energy conservation standards. |
 | [8286a.](Subchapter%20006%20%28VI%29%20-%20Coordination%20of%20Federal%20Energy%20Conservation%20Factors%20and%20Data/%C2%A7%2008286a%20-%20Use%20of%20factors%20and%20data.md) | Use of factors and data. |
-| [8286b.](Subchapter%20006%20%28VI%29%20-%20Coordination%20of%20Federal%20Energy%20Conservation%20Factors%20and%20Data/%C2%A7%2008286b%20-%20Report.md) | Report. |
+| [8286b.](Subchapter%20006%20%28VI%29%20-%20Coordination%20of%20Federal%20Energy%20Conservation%20Factors%20and%20Data/%C2%A7%2008286b%20-%20Omitted.md) | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

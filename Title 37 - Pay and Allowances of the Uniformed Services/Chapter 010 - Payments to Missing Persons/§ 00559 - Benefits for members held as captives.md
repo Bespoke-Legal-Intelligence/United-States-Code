@@ -6,7 +6,7 @@
 
 &emsp;(2) The term “former captive” means a person who, as a member of the uniformed services, was held in a captive status.
 
-(b)(1) The Secretary of the Treasury shall establish a savings fund to which the Secretary concerned may allot all or any portion of the pay and allowances of any member of the uniformed services who is in a captive status to the extent that such pay and allowances are not subject to an allotment under section 553 of this title or any other provision of law.
+(b)(1) The Secretary of the Treasury shall establish a savings fund to which the Secretary concerned may allot all or any portion of thepay and allowances of any member of the uniformed services who is in a captive status to the extent that such pay and allowances are not subject to an allotment under section 553 of this title or any other provision of law.
 
 (2) Amounts so allotted shall bear interest at a rate which, for any calendar quarter, shall be equal to the average rate paid on United States Treasury bills with three-month maturities issued during the preceding calendar quarter. Such interest shall be computed quarterly.
 
@@ -92,7 +92,67 @@ Section 806(a)(3) of Pub. L. 99–399 provided that:
 
 #### Delegation of Functions
 
-Functions of President under this section delegated to Secretary of Defense, see section 3 of Ex. Ord. No. 12598, June 17, 1987, 52 F.R. 23421, set out as a note under section 5569 of Title 5, Government Organization and Employees.
+Functions of President under this section delegated to Secretary of Defense, see section 3 of Ex. Ord. No.12598, June 17, 1987, 52 F.R. 23421, set out as a note under section 5569 of Title 5, Government Organization and Employees.
+
+#### Back Pay for Members of the Navy and Marine Corps Selected for Promotion While Interned as Prisoners of War During World War II
+
+Pub. L. 106–398, §1 \[\[div. A\], title VI, §667\], Oct. 30, 2000, 114 Stat. 1654, 1654A–169, provided that:
+
+“(a)
+
+Entitlement of Former Prisoners of War.—Upon receipt of a claim made in accordance with this section, the Secretary of the Navy shall pay, from any appropriation currently available to the Secretary, back pay to any person who, by reason of being interned as a prisoner of war while serving as a member of the Navy or the Marine Corps during World War II, was not available to accept a promotion for which the person had been selected.
+
+“(b)
+
+Payment to Surviving Spouse of Deceased Former Member.—In the case of a person described in subsection (a) who is deceased, the back pay for that person under this section shall be paid to the living surviving spouse of that person, if any. If there is no living surviving spouse, no claim may be paid under this section with respect to that person.
+
+“(c)
+
+Amount of Back Pay.—(1) The amount of back pay payable to or for a person described in subsection (a) is the amount equal to the difference between—
+
+&emsp;“(A) the total amount of basic pay that would have been paid to that person for service in the Navy or the Marine Corps for the back-pay computation period if the person had been promoted to the grade to which selected to be promoted; and
+
+&emsp;“(B) the total amount of basic pay that was actually paid to or for that person for such service for the back-pay computation period.
+
+“(2) For purposes of paragraph (1), the back-pay computation period for a person covered by subsection (a) is the period—
+
+&emsp;“(A) beginning on the date (as determined by the Secretary of the Navy) as of when that person's promotion would have been effective for pay purposes but for the person's internment as a prisoner of war; and
+
+&emsp;“(B) ending on the earliest of—
+
+&emsp;&emsp;“(i) the date of the person's discharge or release from active duty;
+
+&emsp;&emsp;“(ii) the date on which the person's promotion to that grade in fact became effective for pay purposes; and
+
+&emsp;&emsp;“(iii) the end of World War II.
+
+“(d)
+
+Time Limitations.—(1) To be eligible for a payment under this section, a claimant must file a claim for such payment with the Secretary of the Navy within two years after the effective date of the regulations prescribed to carry out this section.
+
+“(2) Not later than 18 months after receiving a claim for payment under this section, the Secretary shall determine the eligibility of the claimant for payment of the claim. Subject to subsection (f), if the Secretary determines that the claimant is eligible for the payment, the Secretary shall promptly pay the claim.
+
+“(e)
+
+Regulations.—Not later than six months after the date of the enactment of this Act \[Oct. 30, 2000\], the Secretary of the Navy shall prescribe regulations to carry out this section. Such regulations shall include procedures by which persons may submit claims for payment under this section.
+
+“(f)
+
+Limitation on Disbursement.—(1) Notwithstanding any power of attorney, assignment of interest, contract, or other agreement, the actual disbursement of a payment of back pay under this section may be made only to a person who is eligible for the payment under subsection (a) or (b).
+
+“(2) In the case of a claim approved for payment but not disbursed as a result of paragraph (1), the Secretary shall hold the funds in trust for the person in an interest bearing account until such time as the person makes an election under such paragraph.
+
+“(g)
+
+Attorney Fees.—Notwithstanding any contract, the representative of a person may not receive, for services rendered in connection with the claim of, or with respect to, a person under this section, more than 10 percent of the amount of a payment made under this section on that claim.
+
+“(h)
+
+Outreach.—The Secretary of the Navy shall take such actions as are necessary to ensure that the benefits and eligibility for benefits under this section are widely publicized by means designed to provide actual notice of the availability of the benefits in a timely manner to the maximum number of eligible persons practicable.
+
+“(i)
+
+Definition.—In this section, the term ‘World War II’ has the meaning given that term in section 101(8) of title 38, United States Code.”
 
 #### Payment to Individuals Held in Captive Status Between November 4, 1979, and January 21, 1981
 

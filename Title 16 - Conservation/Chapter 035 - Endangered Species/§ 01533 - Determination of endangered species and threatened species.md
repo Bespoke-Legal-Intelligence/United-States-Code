@@ -156,7 +156,7 @@
 
 #### (d) Protective regulations
 
-Whenever any species is listed as a threatened species pursuant to subsection (c) of this section, the Secretary shall issue such regulations as he deems necessary and advisable to provide for the conservation of such species. The Secretary may by regulation prohibit with respect to any threatened species any act prohibited under section 1538(a)(1) of this title, in the case of fish or wildlife, or section 1538(a)(2) of this title, in the case of plants, with respect to endangered species; except that with respect to thetaking of resident species of fish or wildlife, such regulations shall apply in any State which has entered into a cooperative agreement pursuant to section 1535(c) of this title only to the extent that such regulations have also been adopted by such State.
+Whenever any species is listed as a threatened species pursuant to subsection (c) of this section, the Secretary shall issue such regulations as he deems necessary and advisable to provide for the conservation of such species. The Secretary may by regulation prohibit with respect to any threatened species any act prohibited under section 1538(a)(1) of this title, in the case of fish or wildlife, or section 1538(a)(2) of this title, in the case of plants, with respect to endangered species; except that with respect to the taking of resident species of fish or wildlife, such regulations shall apply in any State which has entered into a cooperative agreement pursuant to section 1535(c) of this title only to the extent that such regulations have also been adopted by such State.
 
 #### (e) Similarity of appearance cases
 
@@ -212,7 +212,7 @@ The Secretary shall establish, and publish in the Federal Register, agency guide
 
 #### (i) Submission to State agency of justification for regulations inconsistent with State agency's comments or petition
 
-If, in the case of any regulation proposed by the Secretary under the authority of this section, a State agency to which notice thereof was given in accordance with subsection (b)(5)(A)(ii) of this section files comments disagreeing with all or part of the proposed regulation, and the Secretary issues a final regulation which is in conflict with such comments, or if the Secretary fails to adopt a regulation pursuant to an action petitioned by a State agency under subsection (b)(3) of this section, the Secretary shall submitto the State agency a written justification for his failure to adopt regulations consistent with the agency's comments or petition.
+If, in the case of any regulation proposed by the Secretary under the authority of this section, a State agency to which notice thereof was given in accordance with subsection (b)(5)(A)(ii) of this section files comments disagreeing with all or part of the proposed regulation, and the Secretary issues a final regulation which is in conflict with such comments, or if the Secretary fails to adopt a regulation pursuant to an action petitioned by a State agency under subsection (b)(3) of this section, the Secretary shall submit to the State agency a written justification for his failure to adopt regulations consistent with the agency's comments or petition.
 
 (Pub. L. 93–205, §4, Dec. 28, 1973, 87 Stat. 886; Pub. L. 94–359, §1, July 12, 1976, 90 Stat. 911; Pub. L. 95–632, §§11, 13, Nov. 10, 1978, 92 Stat. 3764, 3766; Pub. L. 96–159, §3, Dec. 28, 1979, 93 Stat. 1225; Pub. L. 97–304, §2(a), Oct. 13, 1982, 96 Stat. 1411; Pub. L. 100–478, title I, §§1002–1004, Oct. 7, 1988, 102 Stat. 2306, 2307.)
 
@@ -310,7 +310,7 @@ Committee on Merchant Marine and Fisheries of House of Representatives abolished
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 460k–1, 668dd, 670h, 715i, 715s, 1374, 1383b, 1387, 1402, 1532, 1534, 1535, 1536, 1537, 1538, 1540, 4202, 4261 of this title; title 10 section 7524.
+This section is referred to in sections 460k–1, 668dd, 670h, 715i, 715s, 1374, 1383b, 1387, 1402, 1532, 1534, 1535, 1536, 1537, 1538, 1540, 4202, 4261, 6301 of this title; title 10 section 7524.
 
 <i><sup>1</sup></i><i> So in original. Probably should be paragraph “(7)”.</i>
 

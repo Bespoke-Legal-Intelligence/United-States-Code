@@ -40,7 +40,7 @@
 
 &emsp;(B) without regard to any provisions relating to transfers or restorations of leave between employees in different agencies.
 
-(d) The Office of Personnel Management shall provide the head of an excepted agency with such advice and assistance as the head of such agency may request in order to carry out the purposes of this section.
+(d) The Office of Personnel Management shall provide the head of an excepted agency with such advice and assistance as the head of suchagency may request in order to carry out the purposes of this section.
 
 (Added Pub. L. 100–566, §2(a), Oct. 31, 1988, 102 Stat. 2838; amended Pub. L. 103–359, title V, §501(i), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 104–201, div. A, title XI, §1122(a), Sept. 23, 1996, 110 Stat. 2687.)
 

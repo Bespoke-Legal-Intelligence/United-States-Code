@@ -5,7 +5,7 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 00051 - Requisite of capital and surplus](%C2%A7%2000051%20-%20Requisite%20of%20capital%20and%20surplus.md)
+- [&sect; 00051 - Repealed. Pub. L. 106&#8211;569, title XII, &sect;1233(c), Dec. 27, 2000, 114 Stat. 3037](%C2%A7%2000051%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93569%2C%20title%20XII%2C%20%C2%A71233%28c%29%2C%20Dec.%2027%2C%202000%2C%20114%20Stat.%203037.md)
 - [&sect; 00051a - Preferred stock; issuance authorized](%C2%A7%2000051a%20-%20Preferred%20stock%3B%20issuance%20authorized.md)
 - [&sect; 00051b - Dividends, voting, and retirement of preferred stock; individual liability](%C2%A7%2000051b%20-%20Dividends%2C%20voting%2C%20and%20retirement%20of%20preferred%20stock%3B%20individual%20liability.md)
 - [&sect; 00051b&#8211;1 - Consideration of preferred stock in determining impairment of capital; dividends; retirement](%C2%A7%2000051b%E2%80%931%20-%20Consideration%20of%20preferred%20stock%20in%20determining%20impairment%20of%20capital%3B%20dividends%3B%20retirement.md)

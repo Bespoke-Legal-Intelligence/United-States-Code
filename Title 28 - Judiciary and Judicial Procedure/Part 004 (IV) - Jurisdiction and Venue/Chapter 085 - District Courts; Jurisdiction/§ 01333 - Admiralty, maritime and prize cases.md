@@ -30,23 +30,5 @@ This section amends section 1333(a)(1) of title 28, U.S.C., by substituting “s
 
 #### Amendments
 
-1949—Subd. (1). Act May 24, 1949, substituted “suitors” for “libellant or petitioner”.
-
-#### Cross References
-
-Admiralty and maritime jurisdiction of cases of damage or injury to persons or property, caused by a vessel, whether done or consummated on land, see section 740 of Title 46, Appendix, Shipping.
-
-Admiralty suits against United States, jurisdiction, see sections 741 et seq. and 781 et seq. of Title 46, Appendix.
-
-Jury trial in admiralty cases, see section 1873 of this title.
-
-Limitation of vessel owner's liability, see section 181 et seq. of Title 46, Appendix.
-
-Prize—
-
-&emsp;&emsp;Generally, see section 7651 et seq. of Title 10, Armed Forces.
-
-&emsp;&emsp;Jurisdiction, see section 7652 of Title 10.
-
-Seaman, definition of, see section 10101 of Title 46, Shipping.
+<b>1949</b>—Subd. (1). Act May 24, 1949, substituted “suitors” for “libellant or petitioner”.
 

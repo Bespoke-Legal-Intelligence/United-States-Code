@@ -8,7 +8,7 @@
 
 (d) The transmission in the mails of poisonous drugs and medicines may be limited by the Postal Service to shipments of such articles from the manufacturer thereof or dealer therein to licensed physicians, surgeons, dentists, pharmacists, druggists, cosmetologists, barbers, and veterinarians under such rules and regulations as it shall prescribe.
 
-(e) The transmission in the mails of poisons for scientific use, and which are not outwardly dangerous or of their own force dangerous or injurious to life, health, or property, may be limited by the Postal Service to shipments of such articles between the manufacturers thereof, dealers therein, bona fide research or experimental scientific laboratories, and such other persons who are employees of the Federal, a State, or local government, whose official duties are comprised, in whole or in part, of the use of such poisons, and who are designated by the head of the agency in which they are employed to receive or send such articles, under such rules and regulations as the Postal Service shall prescribe.
+(e) The transmission in the mails of poisons for scientific use, and which are not outwardly dangerous or of their own force dangerous or injurious to life, health, or property, may be limited by the Postal Service to shipments of such articles between the manufacturers thereof, dealers therein, bona fide research or experimental scientific laboratories, and such otherpersons who are employees of the Federal, a State, or local government, whose official duties are comprised, in whole or in part, of the use of such poisons, and who are designated by the head of the agency in which they are employed to receive or send such articles, under such rules and regulations as the Postal Service shall prescribe.
 
 (f) All spirituous, vinous, malted, fermented, or other intoxicating liquors of any kind are nonmailable and shall not be deposited in or carried through the mails.
 
@@ -109,12 +109,6 @@ Amendment by Pub. L. 85–623 effective on sixtieth day after Aug. 12, 1958, see
 #### Hazardous Substances
 
 Federal Hazardous Substances Act as not modifying this section, see Pub. L. 86–613, §17, July 12, 1960, 74 Stat. 380, set out as a note under section 1261 of Title 15, Commerce and Trade.
-
-#### Cross References
-
-Mailing of packages containing any plant or plant product into a State maintaining terminal inspection thereof, without marking the contents of such package on the outside, prohibited, see section 166 of Title 7, Agriculture.
-
-Seizure and disposition of nonmailable matter, see section 3001 et seq. of Title 39, Postal Service.
 
 #### Section Referred to in Other Sections
 

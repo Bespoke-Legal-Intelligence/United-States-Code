@@ -1,10 +1,28 @@
 ### §5184. Community disaster loans
 
-(a) The President is authorized to make loans to any local government which may suffer a substantial loss of tax and other revenues as a result of a major disaster, and has demonstrated a need for financial assistance in order to perform its governmental functions. The amount of any such loan shall be based on need, and shall not exceed 25 per centum of the annual operating budget of that local government for the fiscal year in which the major disaster occurs. Repayment of all or any part of such loan to the extent that revenues of the local government during the three full fiscal year period following the major disaster are insufficient to meet the operating budget of the local government, including additional disaster-related expenses of a municipal operation character shall be cancelled.
+#### (a) In general
 
-(b) Any loans made under this section shall not reduce or otherwise affect any grants or other assistance under this chapter.
+The President is authorized to make loans to any local government which may suffer a substantial loss of tax and other revenues as a result of a major disaster, and has demonstrated a need for financial assistance in order to perform its governmental functions.
 
-(Pub. L. 93–288, title IV, §417, formerly §414(a), (b), May 22, 1974, 88 Stat. 158; renumbered §417, Pub. L. 100–707, title I, §106(j), Nov. 23, 1988, 102 Stat. 4705.)
+#### (b) Amount
+
+The amount of any such loan shall be based on need, shall not exceed 25 per centum of the annual operating budget of that local government for the fiscal year in which the major disaster occurs, and shall not exceed $5,000,000.
+
+#### (c) Repayment
+
+#### (1) Cancellation
+
+&emsp;Repayment of all or any part of such loan to the extent that revenues of the local government during the three full fiscal year period following the major disaster are insufficient to meet the operating budget of the local government, including additional disaster-related expenses of a municipal operation character shall be cancelled.
+
+#### (2) Condition on continuing eligibility
+
+&emsp;A local government shall not be eligible for further assistance under this section during any period in which the local government is in arrears with respect to a required repayment of a loan under this section.
+
+#### (d) Effect on other assistance
+
+Any loans made under this section shall not reduce or otherwise affect any grants or other assistance under this chapter.
+
+(Pub. L. 93–288, title IV, §417, formerly §414(a), (b), May 22, 1974, 88 Stat. 158; renumbered §417, Pub. L. 100–707, title I, §106(j), Nov. 23, 1988, 102 Stat. 4705; Pub. L. 106–390, title II, §207, Oct. 30, 2000, 114 Stat. 1571.)
 
 #### Codification
 
@@ -13,6 +31,16 @@ Prior to renumbering as section 417, section 414 of Pub. L. 93–288 contained a
 #### Prior Provisions
 
 A prior section 417 of Pub. L. 93–288 was renumbered section 420 by Pub. L. 100–707 and is classified to section 5187 of this title.
+
+#### Amendments
+
+2000—Pub. L. 106–390, §207(1)–(3), designated first sentence of subsec. (a) as subsec. (a) and inserted subsec. heading, designated second sentence of subsec. (a) as subsec. (b) and inserted subsec. heading, and designated third sentence of subsec. (a) as subsec. (c)(1) and inserted subsec. and par. headings. Former subsec. (b) redesignated (d).
+
+Subsec. (b). Pub. L. 106–390, §207(5), substituted “shall not exceed” for “and shall not exceed” and inserted before period at end “, and shall not exceed $5,000,000”.
+
+Subsec. (c)(2). Pub. L. 106–390, §207(6), added par. (2).
+
+Subsec. (d). Pub. L. 106–390, §207(4), redesignated subsec. (b) as (d) and inserted subsec. heading.
 
 #### Community Emergency Drought Relief
 
@@ -48,5 +76,5 @@ Sec. 105. The National Environmental Protection Act of 1969, as amended \[sectio
 
 Sec. 106. (a) There is hereby authorized to be appropriated for the fiscal year ending September 30, 1977, $225,000,000 of which sum $150,000,000 is to be for the loan program herein, including administration thereof, and $75,000,000 of which is to be used for the grant program herein, including administration thereof, and such additional amounts for the fiscal year ending September 30, 1978, as may be reasonably needed for administrative expenses in monitoring and closing out the program authorized by the Act. Funds authorized by this Act shall be obligated by December 31, 1977.
 
-“(b) Funds available to the Secretary for this Act shall be available for expenditure for drought impact projects conducted heretofore by eligible applicantsduring fiscal year 1977 if such projects are found to be compatible with the broad purposes of this Act.”
+“(b) Funds available to the Secretary for this Act shall be available for expenditure for drought impact projects conducted heretofore by eligible applicants during fiscal year 1977 if such projects are found to be compatible with the broad purposes of this Act.”
 

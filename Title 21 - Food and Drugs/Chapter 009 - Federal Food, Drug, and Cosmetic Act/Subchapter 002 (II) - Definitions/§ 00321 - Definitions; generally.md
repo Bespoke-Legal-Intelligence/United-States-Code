@@ -62,7 +62,7 @@ For the purposes of this chapter—
 
 &emsp;&emsp;(III) The substance is applied during the transportation of such commodity between the field and such a treatment facility.
 
-&emsp;(ii) The definition in such clause for the term “pesticide chemical” does not include the substance if the substance is a food contact substance as defined in section 348(h)(6) of this title, and any of the following circumstances exist: The substance is included for such use in an object that has a food contact surface but is not intended to have an ongoing effect on any portion of the object; the substance is included for such use in an object that has a food contact surface and is intended to have an ongoing effect on a portion of the object but not on the food contact surface; or the substance is included for such use in or is applied for such use on food packaging (without regard to whether the substance is intended to have an ongoing effect on any portion of the packaging). The food contact substance is not excluded under this subclause from such definition if any of the following circumstances exist: The substance is appliedfor such use on a semipermanent or permanent food contact surface (other than being applied on food packaging); or the substance is included for such use in an object that has a semipermanent or permanent food contact surface (other than being included in food packaging) and the substance is intended to have an ongoing effect on the food contact surface.
+&emsp;(ii) The definition in such clause for the term “pesticide chemical” does not include the substance if the substance is a food contact substance as defined in section 348(h)(6) of this title, and any of the following circumstances exist: The substance is included for such use in an object that has a food contact surface but is not intended to have an ongoing effect on any portion of the object; the substance is included for such use in an object that has a food contact surface and is intended to have an ongoing effect on a portion of the object but not on the food contact surface; or the substance is included for such use in or is applied for such use on food packaging (without regard to whether the substance is intended to have an ongoing effect on any portion of the packaging). The food contact substance is not excluded under this subclause from such definition if any of the following circumstances exist: The substance is applied for such use on a semipermanent or permanent food contact surface (other than being applied on food packaging); or the substance is included for such use in an object that has a semipermanent or permanent food contact surface (other than being included in food packaging) and the substance is intended to have an ongoing effect on the food contact surface.
 
 > With respect to the definition of the term “pesticide” that is applicable to the Federal Insecticide, Fungicide, and Rodenticide Act \[7 U.S.C. 136 et seq.\], this clause does not exclude any substance from such definition.
 
@@ -350,7 +350,7 @@ Section 501 of Pub. L. 105–115 provided that: “Except as otherwise provided 
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–535 effective six months after the date of the promulgation of final regulations to implement section 343(r) of this title, or if such regulations are not promulgated, the date proposed regulations are to be considered as such final regulations (Nov. 8, 1992), with exception for persons marketing food the brand name of which contains a term defined by the Secretary under section 343(r)(2)(A)(i) of this title, see section 10(a) of Pub. L. 101–535, set out as a note under section 343 of this title.
+Amendment by Pub. L. 101–535 effective six months after the date of the promulgation of final regulationsto implement section 343(r) of this title, or if such regulations are not promulgated, the date proposed regulations are to be considered as such final regulations (Nov. 8, 1992), with exception for persons marketing food the brand name of which contains a term defined by the Secretary under section 343(r)(2)(A)(i) of this title, see section 10(a) of Pub. L. 101–535, set out as a note under section 343 of this title.
 
 #### Effective Date of 1976 Amendment
 
@@ -438,7 +438,7 @@ For transfer of functions of Federal Security Administrator to Secretary of Heal
 
 #### Regulation of Tobacco
 
-Section 422 of Pub. L. 105–115 provided that: “Nothing in this Act \[see Short Title of 1997 Amendment note set out under section 301 of this title\] or the amendments made by this Act shall be construed to affect the question of whether the Secretary of Health and Human Services has any authority to regulate any tobacco product, tobacco ingredient, or tobacco additive. Such authority, if any, shall be exercised under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\] asin effect on the day before the date of the enactment of this Act \[Nov. 21, 1997\].”
+Section 422 of Pub. L. 105–115 provided that: “Nothing in this Act \[see Short Title of 1997 Amendment note set out under section 301 of this title\] or the amendments made by this Act shall be construed to affect the question of whether the Secretary of Health and Human Services has any authority to regulate any tobacco product, tobacco ingredient, or tobacco additive. Such authority, if any, shall be exercised under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\] as in effect on the day before the date of the enactment of this Act \[Nov. 21, 1997\].”
 
 #### Congressional Findings Relating to Pub. L. 103–417
 
@@ -454,7 +454,7 @@ Section 2 of Pub. L. 103–417 provided that: “Congress finds that—
 
 &emsp;“(4) healthful diets may mitigate the need for expensive medical procedures, such as coronary bypass surgery or angioplasty;
 
-&emsp;“(5) preventive health measures, including education, good nutrition, and appropriate use of safe nutritional supplements will limit the incidence of chronic diseases, and reduce long-term health care expenditures;
+&emsp;“(5) preventive health measures, including education, good nutrition, and appropriate use of safenutritional supplements will limit the incidence of chronic diseases, and reduce long-term health care expenditures;
 
 &emsp;“(6)(A) promotion of good health and healthy lifestyles improves and extends lives while reducing health care expenditures; and
 
@@ -510,13 +510,9 @@ Section 202 of Pub. L. 87–781 provided that: “Nothing in the amendments made
 
 Section 2 of Pub. L. 105–115 provided that: “In this Act \[see Short Title of 1997 Amendment note set out under section 301 of this title\], the terms ‘drug’, ‘device’, ‘food’, and ‘dietary supplement’ have the meaning given such terms in section 201 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321).”
 
-#### Cross References
-
-Appropriations for purpose and administration of pars. (q) and (r) of this section, see section 346b of this title.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 343, 343–3, 346a, 346b, 350, 352, 353a, 355, 360b, 379e, 383, 802, 825, 1602 of this title; title 7 section 136; title 15 sections 1454, 1456, 1471, 2052, 2602; title 18 section 1365; title 35 section 156; title 42 sections 274e, 287c–11, 289g–2, 300cc–12, 1396r–8; title 49 section 5702.
+This section is referred to in sections 343, 343–3, 346a, 346b, 350, 352, 353a, 355, 360b, 379e, 383, 802, 825, 1602 of this title; title 7 section 136; title 15 sections 1454, 1456, 1471, 2052, 2602; title 18 section 1365; title 22 section 7201; title 35 section 156; title 42 sections 274e, 287c–11, 289g–2, 300cc–12, 1396r–8; title 49 section 5702.
 
 <i><sup>1</sup></i><i> So in original. Probably should be paragraph “(v)”.</i>
 

@@ -64,11 +64,11 @@ Definitions.—In this section:
 
 &emsp;(2) The term “medical quality assurance record” means the proceedings, records, minutes, and reports that emanate from quality assurance program activities described in paragraph (1) and are produced or compiled by the Department of Defense as part of a medical quality assurance program.
 
-&emsp;(3) The term “health care provider” means any military or civilian health care professional who, under regulations of a military department, is granted clinical practice privileges to provide health care services in a military medical or dental treatment facility or who is licensed or certified to perform health care services by a governmental board or agency or professional health care society or organization.
+&emsp;(3) The term “health care provider” means any military or civilian health care professional who, under regulations of a military department, is granted clinical practice privileges to provide health care services in a military medical or dental treatment facility orwho is licensed or certified to perform health care services by a governmental board or agency or professional health care society or organization.
 
 (k)
 
-Penalty.—Any person who willfully discloses a medical quality assurance record other than as provided in this section, knowing that such record is a medical quality assurancerecord, shall be fined not more than $3,000 in the case of a first offense and not more than $20,000 in the case of a subsequent offense.
+Penalty.—Any person who willfully discloses a medical quality assurance record other than as provided in this section, knowing that such record is a medical quality assurance record, shall be fined not more than $3,000 in the case of a first offense and not more than $20,000 in the case of a subsequent offense.
 
 (Added Pub. L. 99–661, div. A, title VII, §705(a)\[(1)\], Nov. 14, 1986, 100 Stat. 3902; amended Pub. L. 100–180, div. A, title XII, §1231(5), Dec. 4, 1987, 101 Stat. 1160; Pub. L. 101–189, div. A, title VI, §653(f), Nov. 29, 1989, 103 Stat. 1463.)
 

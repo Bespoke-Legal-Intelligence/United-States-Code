@@ -4,7 +4,7 @@
 
 #### (1) Judicial actions by Commission authorized
 
-&emsp;Whenever it shall appear to the Commission that any person has violated any provision of this chapter or the rules or regulations thereunder by purchasing or selling a security while in possession of material, nonpublic information in, or has violated any such provision by communicating such information in connection with, a transaction on or through the facilities of a national securities exchange or from or through a broker or dealer, and which is not part of a public offering by an issuer of securities other than standardized options, the Commission—
+&emsp;Whenever it shall appear to the Commission that any person has violated any provision of this chapter or the rules or regulations thereunder by purchasing or selling a security or security-based swap agreement (as defined in section 206B of the Gramm-Leach-Bliley Act) while in possession of material, nonpublic information in, or has violated any such provision by communicating such information in connection with, a transaction on or through the facilities of a national securities exchange or from or through a broker or dealer, and which is not part of a public offering by an issuer of securities other than standardized options or security futures products, the Commission—
 
 &emsp;&emsp;(A) may bring an action in a United States district court to seek, and the court shall have jurisdiction to impose, a civil penalty to be paid by the person who committed such violation; and
 
@@ -66,13 +66,25 @@ Notwithstanding the provisions of subsection (d)(1) of this section, there shall
 
 For purposes of this section, “profit gained” or “loss avoided” is the difference between the purchase or sale price of the security and the value of that security as measured by the trading price of the security a reasonable period after public dissemination of the nonpublic information.
 
-(June 6, 1934, ch. 404, title I, §21A, as added Pub. L. 100–704, §3(a)(2), Nov. 19, 1988, 102 Stat. 4677; amended Pub. L. 101–429, title II, §202(b), Oct. 15, 1990, 104 Stat. 938.)
+#### (g) Limitation on Commission authority
+
+The authority of the Commission under this section with respect to security-based swap agreements (as defined in section 206B of the Gramm-Leach-Bliley Act) shall be subject to the restrictions and limitations of section 78c–1(b) of this title.
+
+(June 6, 1934, ch. 404, title I, §21A, as added Pub. L. 100–704, §3(a)(2), Nov. 19, 1988, 102 Stat. 4677; amended Pub. L. 101–429, title II, §202(b), Oct. 15, 1990, 104 Stat. 938; Pub. L. 106–554, §1(a)(5) \[title II, §205(a)(4), title III, §303(k), (<i>l</i>)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–426, 2763A–456, 2763A–457.)
 
 #### References in Text
 
 This chapter, referred to in subsecs. (a) and (d)(4), (5), was in the original “this title”. See References in Text note set out under section 78a of this title.
 
+Section 206B of the Gramm-Leach-Bliley Act, referred to in subsecs. (a)(1) and (g), is section 206B of Pub. L. 106–102, which is set out in a note under section 78c of this title.
+
 #### Amendments
+
+2000—Subsec. (a)(1). Pub. L. 106–554, §1(a)(5) \[title III, §303(k)\], inserted “or security-based swap agreement (as defined in section 206B of the Gramm-Leach-Bliley Act)” after “purchasing or selling a security” in introductory provisions.
+
+Pub. L. 106–554, §1(a)(5) \[title II, §205(a)(4)\], substituted “standardized options or security futures products, the Commission—” for “standardized options, the Commission—” in introductory provisions.
+
+Subsec. (g). Pub. L. 106–554, §1(a)(5) \[title III, §303(<i>l</i>)\], added subsec. (g).
 
 1990—Pub. L. 101–429 inserted “for insider trading” in section catchline.
 
@@ -100,5 +112,5 @@ Section 3(c) of Pub. L. 100–704 provided that: “The Securities and Exchange 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 77t, 78u of this title.
+This section is referred to in sections 77t, 78j, 78u of this title.
 

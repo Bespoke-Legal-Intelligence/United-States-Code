@@ -98,7 +98,7 @@ Section 1279f of title 46, Appendix, referred to in subsecs. (b)(1)(C), (c)(1)(C
 
 #### Prior Provisions
 
-A prior section 312 of Pub. L. 94–265, title III, Apr. 13, 1976, 90 Stat. 359, was set out as an Effective Date note under section 1857 of this title, prior to being amended generally by Pub. L. 104–297.
+A prior section 312 of Pub. L. 94–265, title III, Apr. 13, 1976, 90 Stat. 359, was set out as an Effective Date noteunder section 1857 of this title, prior to being amended generally by Pub. L. 104–297.
 
 #### Study of Federal Investment in Fisheries
 

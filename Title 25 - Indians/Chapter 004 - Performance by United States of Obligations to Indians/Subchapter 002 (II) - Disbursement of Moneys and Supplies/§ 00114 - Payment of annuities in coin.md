@@ -8,7 +8,3 @@ The Secretary of the Treasury is authorized to pay in coin such of the annuities
 
 R.S. §2081 derived from act Mar. 3, 1865, ch. 127, §3, 13 Stat. 561.
 
-#### Cross References
-
-Gold coinage discontinued, see sections 5112, 5118 of Title 31, Money and Finance.
-

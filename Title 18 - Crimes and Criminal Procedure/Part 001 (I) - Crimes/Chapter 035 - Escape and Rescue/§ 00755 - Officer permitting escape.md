@@ -1,8 +1,8 @@
 ### §755. Officer permitting escape
 
-Whoever, having in his custody any prisoner by virtue of process issued under the laws of the United States by any court, judge, or commissioner, voluntarily suffers such prisoner to escape, shall be fined under this title or imprisoned not more than 5 years, or both; or if he negligently suffers such person to escape, he shall be fined under this title or imprisoned not more than one year, or both.
+Whoever, having in his custody any prisoner by virtue of process issued under the laws of the United States by any court, judge, or magistrate judge, voluntarily suffers such prisoner to escape, shall be fined under this title or imprisoned not more than 5 years, or both; or if he negligently suffers such person to escape, he shall be fined under this title or imprisoned not more than one year, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 735; Pub. L. 103–322, title XXXIII, §330016(1)(G), (I), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–132, title VII, §705(a)(2), Apr. 24, 1996, 110 Stat. 1295.)
+(June 25, 1948, ch. 645, 62 Stat. 735; Pub. L. 90–578, title IV, §402(b)(2), Oct. 17, 1968, 82 Stat. 1118; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 103–322, title XXXIII, §330016(1)(G), (I), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–132, title VII, §705(a)(2), Apr. 24, 1996, 110 Stat. 1295.)
 
 #### Historical and Revision Notes
 
@@ -28,13 +28,7 @@ The text of this section was changed by Senate amendment in view of the act of J
 
 #### Change of Name
 
-United States commissioners, referred to in text, were replaced by United States magistrates pursuant to Pub. L. 90–578, title IV, §402(b)(2), Oct. 17, 1968, 82 Stat. 1118. See chapter 43 (§631 et seq.) of Title 28, Judiciary and Judicial Procedure.
-
-Reference to United States magistrate or to magistrate deemed to refer to United States magistrate judge pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28.
-
-#### Canal Zone
-
-Applicability of section to Canal Zone, see section 14 of this title.
+Words “magistrate judge” substituted for “magistrate” in text pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure. Previously, “magistrate” substituted for “commissioner” pursuant to Pub. L. 90–578. See chapter 43 (§631 et seq.) of Title 28.
 
 #### Section Referred to in Other Sections
 

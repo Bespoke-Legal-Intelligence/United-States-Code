@@ -44,7 +44,7 @@ Acquisition or rehabilitation of a property under a homeownership program under 
 
 #### (3) Opportunity to cure
 
-&emsp;Any lender that provides financing in connection with a homeownership program under this part shall give the public housing agency, resident management corporation, individual owner, or other appropriate entity a reasonable opportunity to cure a financial default before foreclosing on the property, or taking other action as a result of the default.
+&emsp;Any lender that provides financing in connection with a homeownership program underthis part shall give the public housing agency, resident management corporation, individual owner, or other appropriate entity a reasonable opportunity to cure a financial default before foreclosing on the property, or taking other action as a result of the default.
 
 #### (f) Housing quality standards
 

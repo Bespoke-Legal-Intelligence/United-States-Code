@@ -22,7 +22,3 @@ For transfer of personnel, property, records and funds, see section 12 of Reorg.
 
 Act Apr. 9, 1912, established Children's Bureau in Department of Commerce and Labor. Act Mar. 4, 1913, transferred Children's Bureau to Department of Labor, which was created by that act, and was authority for substitution of “Department of Labor” for “Department of Commerce and Labor”.
 
-#### Cross References
-
-Health research and research training resources in participating foreign countries, use by Secretary in exercise of functions under this chapter, see section 2102 of Title 22, Foreign Relations and Intercourse.
-

@@ -2,7 +2,7 @@
 
 #### (a) Consultations between agencies and Commission; procedure
 
-In order to insure the comprehensive planning and orderly development of the National Capital, each Federal and District of Columbia agency prior to the preparation of construction plans originated by such agency for proposed developments and projects or to commitments for the acquisition of land, to be paid for in whole or in part from Federal or District funds, shall advise and consult with the Commission in the preparation by the agency of plans and programs in preliminary and successive stages which affect the plan and development of the National Capital: <i>Provided, however</i>, That the Commission shall determine in advance the type or kinds of plans, developments, projects, improvements, or acquisitions which do not need to be submitted for review by the Commission as to conformity with its plans. After receipt of such plans, maps, and data, it shall be the duty of the Commission to make promptly a preliminary report and recommendations to the agency or agencies concerned. If, after having receivedand considered the report and recommendations of the Commission the agency does not concur, it shall advise the Commission with its reasons therefor, and the Commission shall submit a final report. After such consultation and suitable consideration of the views of the Commission the agency may proceed to take action in accordance with its legal responsibilities and authority.
+In order to insure the comprehensive planning and orderly development of the National Capital, each Federal and District of Columbia agency prior to the preparation of construction plans originated by such agency for proposed developments and projects or to commitments for the acquisition of land, to be paid for in whole or in part from Federal or District funds, shall advise and consult with the Commission in the preparation by the agency of plans and programs in preliminary and successive stages which affect the plan and development of the National Capital: <i>Provided, however</i>, That the Commission shall determine in advance the type or kinds of plans, developments, projects, improvements, or acquisitions which do not need to be submitted for review by the Commission as to conformity with its plans. After receipt of such plans, maps, and data, it shall be the duty of the Commission to make promptly a preliminary report and recommendations to the agency or agencies concerned. If, after having received and considered the report and recommendations of the Commission the agency does not concur, it shall advise the Commission with its reasons therefor, and the Commission shall submit a final report. After such consultation and suitable consideration of the views of the Commission the agency may proceed to take action in accordance with its legal responsibilities and authority.
 
 #### (b) Exceptions to consultation procedure
 
@@ -10,7 +10,7 @@ The procedure prescribed in subsection (a) of this section shall not apply to pr
 
 #### (c) Approval of District Government buildings within central area; time for transmittal of approval or disapproval of such buildings
 
-The provisions of section 16 of the Act approved June 20, 1938 \[D.C. Code, §5–432\], are extended to include public buildings erected by any agency of the Government of the District of Columbia within the boundaries of the central area of the District, as such central area may be defined and from time to time redefined by concurrent action of the Commission and the Council, except that the Commission shall transmit its approval or disapproval respecting any such building within thirty days after the day it was submitted to the Commission.
+The provisions of section 16 of the Act approved June 20, 1938, are extended to include public buildings erected by any agency of the Government of the District of Columbia within the boundaries of the central area of the District, as such central area may be defined and from time to time redefined by concurrent action of the Commission and the Council, except that the Commission shall transmit its approval or disapproval respecting any such building within thirty days after the day it was submitted to the Commission.
 
 #### (d) Additional procedure for consultation on developments and projects within environs
 
@@ -22,13 +22,15 @@ It is the intent of this section to obtain cooperation and correlation of effort
 
 (June 6, 1924, ch. 270, §5, as added July 19, 1952, ch. 949, §1, 66 Stat. 787; amended 1967 Reorg. Plan No. 3, §402(29), eff. Nov. 3, 1967, 32 F.R. 11669, 81 Stat. 951; Pub. L. 93–198, title II, §203(d), Dec. 24, 1973, 87 Stat. 782.)
 
+#### References in Text
+
+The Act approved June 20, 1938, referred to in subsec. (c), is act June 20, 1938, ch. 534, 52 Stat. 797, as amended, which is not classified to the Code.
+
 #### Codification
 
 The words “National Capital Regional Planning” were added before references to “Council” where necessary to avoid possible confusion between references to such Council and the District of Columbia Council.
 
 Previously, reference to the Board of Commissioners of the District of Columbia had been changed to the District of Columbia Council pursuant to section 402(29) of Reorganization Plan No. 3 of 1967, 32 F.R. 11669, set out in the Appendix to Title 5, Government Organization and Employees, which transferred the regulatory and other functions of the Board of Commissioners relating to the definition and redefinition of the central area of the District of Columbia to the District of Columbia Council, subject to the right of the Commissioner as provided by section 406 of the Plan. For provisions establishing the District of Columbia Council, see section 201 of Reorg. Plan No. 3 of 1967.
-
-Section is also set out in D.C. Code, §1–2004.
 
 #### Prior Provisions
 
@@ -43,10 +45,6 @@ Subsec. (e). Pub. L. 93–198, §203(d)(2), struck out “of the foregoing provi
 #### Abolition of Council
 
 National Capital Regional Planning Council, referred to in subsec. (b), abolished by Reorg. Plan No. 5 of 1966, eff. Sept. 8, 1966, 31 F.R. 11857, 80 Stat. 1611, set out as a note under section 71b of this title.
-
-#### Definitions
-
-The definitions in section 1–202 of the District of Columbia Code apply to this section as amended by Pub. L. 93–198.
 
 #### Section Referred to in Other Sections
 

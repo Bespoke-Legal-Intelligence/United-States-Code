@@ -10,7 +10,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1605, 1645, 1732, 2842 of this title; title 20 sections 5934, 6143; title 38 sections 3452, 3501.
+This chapter is referred to in section 2842 of this title; title 20 sections 5934, 6143; title 38 sections 3452, 3501.
 
 
 ---

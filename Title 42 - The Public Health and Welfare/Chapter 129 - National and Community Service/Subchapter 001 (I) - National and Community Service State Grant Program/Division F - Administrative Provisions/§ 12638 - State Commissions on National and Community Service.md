@@ -8,7 +8,7 @@
 
 #### (2) Alternative administrative entity
 
-&emsp;The chief executive officer of a State may apply to the Corporation for approval to use an alternative administrative entity to carry out the duties otherwise entrusted to a State Commission under this chapter. The chief executive officer shall ensure that any alternative administrative entity used in lieu of a State Commission provides for the individuals described in paragraph (1), and some of the individuals described in paragraph (2), of subsection (c) of this section to play a significant policymaking role in carrying out the duties otherwise entrusted to a State Commission, including the submission of applications on behalf of the State under sections 12543 and 12582 of this title.
+&emsp;The chief executive officer of a State may apply to the Corporation for approval to usean alternative administrative entity to carry out the duties otherwise entrusted to a State Commission under this chapter. The chief executive officer shall ensure that any alternative administrative entity used in lieu of a State Commission provides for the individuals described in paragraph (1), and some of the individuals described in paragraph (2), of subsection (c) of this section to play a significant policymaking role in carrying out the duties otherwise entrusted to a State Commission, including the submission of applications on behalf of the State under sections 12543 and 12582 of this title.
 
 #### (b) Appointment and size
 
@@ -90,7 +90,7 @@ Except as provided in subsection (c)(3) of this section, the members of a State 
 
 #### (A) General limitation
 
-&emsp;&emsp;Except as provided in subparagraph (B), a voting member of the State Commission (or of an alternative administrative entity) shall not participate in the administration of the grant program (including any discussion or decision regarding the provision of assistance or approved national service positions, or the continuation, suspension, or termination of such assistance or such positions, to any program or entity) described in subsection (e)(9) of this section if—
+&emsp;&emsp;Except as provided in subparagraph (B), a voting member of the State Commission (orof an alternative administrative entity) shall not participate in the administration of the grant program (including any discussion or decision regarding the provision of assistance or approved national service positions, or the continuation, suspension, or termination of such assistance or such positions, to any program or entity) described in subsection (e)(9) of this section if—
 
 &emsp;&emsp;&emsp;(i) a grant application relating to such program is pending before the Commission (or such entity); and
 
@@ -166,7 +166,7 @@ Subject to such requirements as the Corporation may prescribe, a State Commissio
 
 #### (1) Submission to Corporation
 
-&emsp;The chief executive officer for a State shall notify the Corporation of the establishment or designation of the State Commission or use of an alternative administrative entity for theState. The notification shall include a description of—
+&emsp;The chief executive officer for a State shall notify the Corporation of the establishment ordesignation of the State Commission or use of an alternative administrative entity for the State. The notification shall include a description of—
 
 &emsp;&emsp;(A) the composition and membership of the State Commission or alternative administrative entity; and
 

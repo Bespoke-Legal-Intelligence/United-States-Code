@@ -22,11 +22,3 @@ Minor changes were made in phraseology.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $500” in fourth par.
 
-#### Cross References
-
-Driving stock to feed on Indian lands, see section 179 of Title 25, Indians.
-
-Grazing lands, see section 315 et seq. of Title 43, Public Lands.
-
-Provisions relating to fences and grazing generally, see Title 16, Conservation.
-

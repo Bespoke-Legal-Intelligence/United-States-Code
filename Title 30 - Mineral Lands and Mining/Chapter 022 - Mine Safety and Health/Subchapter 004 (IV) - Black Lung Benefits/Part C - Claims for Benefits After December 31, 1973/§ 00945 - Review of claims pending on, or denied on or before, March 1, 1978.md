@@ -16,7 +16,7 @@
 
 (C) Upon the completion of the review of any claim by the Commissioner of Social Security under this paragraph, the responsibility for further action with respect to such claim shall be transferred to the Secretary of Labor. The Secretary of Labor shall consider each such claim in accordance with paragraph (3).
 
-(3)(A) Except as provided in this section, the Secretary of Labor shall treat each claim referred by the Commissioner of Social Security under paragraph (1)(B) or (2)(B) as if it were aclaim filed under this part. The provisions of subsection (b) of this section shall apply to any determination of the Secretary with respect to any such claim referred to the Secretary.
+(3)(A) Except as provided in this section, the Secretary of Labor shall treat each claim referred by the Commissioner of Social Security under paragraph (1)(B) or (2)(B) as if it were a claim filed under this part. The provisions of subsection (b) of this section shall apply to any determination of the Secretary with respect to any such claim referred to the Secretary.
 
 (B) The Commissioner of Social Security shall promptly furnish to the Secretary of Labor all pertinent information in the possession of the Department of Health and Human Services <sup>1</sup> relating to claims referred to the Secretary of Labor under this subsection.
 

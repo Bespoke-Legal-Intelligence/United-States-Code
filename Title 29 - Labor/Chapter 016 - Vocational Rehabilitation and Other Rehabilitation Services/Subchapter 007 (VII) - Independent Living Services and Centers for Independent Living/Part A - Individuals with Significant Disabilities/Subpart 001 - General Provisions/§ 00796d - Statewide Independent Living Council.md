@@ -22,7 +22,7 @@ To be eligible to receive financial assistance under this part, each State shall
 
 &emsp;&emsp;&emsp;(ii) representatives from other State agencies that provide services for individuals with disabilities; and
 
-&emsp;&emsp;(C) in a State in which one or more projects are carried out under section 741 of this title, at least one representative of the directors of the projects.
+&emsp;&emsp;(C) in a State in which one or more projects are carried out under section 741 ofthis title, at least one representative of the directors of the projects.
 
 #### (3) Additional members
 
@@ -74,7 +74,7 @@ To be eligible to receive financial assistance under this part, each State shall
 
 #### (B) Designation by chief executive officer
 
-&emsp;&emsp;In States in which the Governor does not have veto power pursuant to State law, theappointing authority described in paragraph (3) shall designate a voting member of the Council to serve as the chairperson of the Council or shall require the Council to so designate such a voting member.
+&emsp;&emsp;In States in which the Governor does not have veto power pursuant to State law, the appointing authority described in paragraph (3) shall designate a voting member of the Council to serve as the chairperson of the Council or shall require the Council to so designate such a voting member.
 
 #### (6) Terms of appointment
 
@@ -146,7 +146,7 @@ Another prior section 796d, Pub. L. 93–112, title VII, §705, as added Pub. L.
 
 #### Amendments
 
-1998—Subsec. (b)(1). Pub. L. 105–277, §101(f) \[title VIII, §402(c)(7)(A)\], in first sentence, substituted “by the Governor or, in the case of a State that, under State law, vests authority for the administration of the activities carried out under this chapter in an entity other than the Governor (such as one or more houses of the State legislature or an independent board), thechief officer of that entity” for “by the Governor” and, in second sentence, substituted “The appointing authority” for “The Governor”.
+1998—Subsec. (b)(1). Pub. L. 105–277, §101(f) \[title VIII, §402(c)(7)(A)\], in first sentence, substituted “by the Governor or, in the case of a State that, under State law, vests authority for the administration of the activities carried out under this chapter in an entity other than the Governor (such as one or more houses of the State legislature or an independent board), the chief officer of that entity” for “by the Governor” and, in second sentence, substituted “The appointing authority” for “The Governor”.
 
 Subsec. (b)(5)(B). Pub. L. 105–277, §101(f) \[title VIII, §402(c)(7)(B)\], substituted “chief executive officer” for “Governor” in heading and “appointing authority described in paragraph (3) shall” for “Governor shall” in text.
 

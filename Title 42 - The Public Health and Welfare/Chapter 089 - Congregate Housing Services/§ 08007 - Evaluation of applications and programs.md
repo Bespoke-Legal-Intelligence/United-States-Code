@@ -18,7 +18,7 @@ In evaluating applications for assistance under this chapter, the Secretary shal
 
 In evaluating programs receiving assistance under this chapter, the Secretary shall—
 
-&emsp;(1) establish procedures for the review and evaluation of the performance of nonprofitcorporations and public housing agencies receiving assistance under this chapter, including provisions for the submission of an annual report, by each such nonprofit corporation and public housing agency, which evaluates the impact and effectiveness of its congregate services program; and
+&emsp;(1) establish procedures for the review and evaluation of the performance of nonprofit corporations and public housing agencies receiving assistance under this chapter, including provisions for the submission of an annual report, by each such nonprofit corporation and public housing agency, which evaluates the impact and effectiveness of its congregate services program; and
 
 &emsp;(2) publish annually and submit to the Congress, a report on and evaluation of the impact and effectiveness of congregate services programs assisted under this chapter. Such report and evaluation shall be based, in part, on the evaluations required to be submitted pursuant to paragraph (1).
 
@@ -43,6 +43,10 @@ In evaluating programs receiving assistance under this chapter, the Secretary sh
 1988—Subsec. (c). Pub. L. 100–242 added subsec. (c) and struck out former subsec. (c) which required Secretary to prepare and submit a report to Congress evaluating the congregate housing services program, not later than March 15, 1984.
 
 1983—Subsec. (c). Pub. L. 98–181 added subsec. (c).
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (b)(2) of this section relating to submitting the annually published report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 8th item on page 106 of House Document No. 103–7.
 
 #### Section Referred to in Other Sections
 

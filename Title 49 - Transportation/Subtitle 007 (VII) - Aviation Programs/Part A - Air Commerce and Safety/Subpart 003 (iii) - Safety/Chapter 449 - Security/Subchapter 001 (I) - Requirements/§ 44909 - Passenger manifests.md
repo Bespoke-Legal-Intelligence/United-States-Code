@@ -8,7 +8,7 @@ Air Carrier Requirements.—(1) Not later than March 16, 1991, the Secretary of 
 
 &emsp;(B) if it is not technologically feasible or reasonable to comply with clause (A) of this paragraph, then as expeditiously as possible, but not later than 3 hours after the carrier is so notified.
 
-(2) The passenger manifest shall include the following information:
+(2) The passenger manifest should include the following information:
 
 &emsp;(A) the full name of each passenger.
 
@@ -22,7 +22,7 @@ Air Carrier Requirements.—(1) Not later than March 16, 1991, the Secretary of 
 
 Foreign Air Carrier Requirements.—The Secretary of Transportation shall consider imposing a requirement on foreign air carriers comparable to that imposed on air carriers under subsection (a)(1) and (2) of this section.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1211.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1211; Pub. L. 106–181, title VII, §718, Apr. 5, 2000, 114 Stat. 163.)
 
 Historical and Revision Notes
 
@@ -64,7 +64,15 @@ In subsection (a)(3), the words “In carrying out this subsection” are substi
 
 In subsection (b), the word “imposing” is added for clarity. The words “imposed on air carriers under subsection (a)(1) and (2) of this section” are substituted for “imposed pursuant to the amendment made by subsection (a)” for clarity and because of the restatement.
 
+#### Amendments
+
+2000—Subsec. (a)(2). Pub. L. 106–181 substituted “should” for “shall” in introductory provisions.
+
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 40109, 46301, 46316 of this title.
+This section is referred to in sections 106, 40109, 46301, 46316 of this title.
 

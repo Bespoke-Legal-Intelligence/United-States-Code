@@ -16,33 +16,9 @@ Section 258 of this title, referred to in text, has been omitted from the Code.
 
 Section 38 of act June 25, 1948, provided that the amendment made by that act is effective Sept. 1, 1948.
 
-#### Federal Rules of Civil Procedure
-
-Procedure in condemnation proceedings, see rule 71A, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-#### Cross References
-
-Acquisition of land—
-
-&emsp;&emsp;District of Columbia, see section 16–1301 et seq. of the D.C. Code.
-
-&emsp;&emsp;Irrigation Project, see section 421 of Title 43, Public Lands.
-
-&emsp;&emsp;River and harbor improvements, see section 591 et seq. of Title 33, Navigation and Navigable Waters.
-
-&emsp;&emsp;War purposes, see section 2663 of Title 10, Armed Forces.
-
-Jurisdiction of United States district courts in condemnation proceedings, see section 1358 of Title 28, Judiciary and Judicial Procedure.
-
-Possession and title in advance of judgment, taking of, see sections 258a to 258f of this title.
-
-Tennessee Valley Authority, procedure in condemnation proceedings, see section 831x of Title 16, Conservation.
-
-Venue in condemnation proceedings, see section 1403 of Title 28, Judiciary and Judicial Procedure.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in title 8 section 1103; title 16 sections 81e, 159a, 231b, 242, 263, 403i, 423k, 423n, 425a, 430a, 430k, 430u, 430nn, 433c, 433h, 447b, 449, 450m, 450p, 459a; title 25 sections 500a, 941j, 1724, 1754; title 42 sections 1532, 2222; title 43 section 1522.
+This section is referred to in title 8 section 1103; title 16 sections 81e, 159a, 231b, 242, 263, 403i, 423n, 425a, 430a, 430k, 430u, 430nn, 433c, 433h, 447b, 449, 450m, 450p, 459a; title 25 sections 500a, 941j, 1724, 1754; title 42 sections 1532, 2222; title 43 section 1522.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

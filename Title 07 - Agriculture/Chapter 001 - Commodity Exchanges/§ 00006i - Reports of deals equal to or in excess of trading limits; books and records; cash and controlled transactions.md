@@ -1,6 +1,6 @@
 ### §6i. Reports of deals equal to or in excess of trading limits; books and records; cash and controlled transactions
 
-It shall be unlawful for any person to make any contract for the purchase or sale of any commodity for future delivery on or subject to the rules of any contract market—
+It shall be unlawful for any person to make any contract for the purchase or sale of any commodity for future delivery on or subject to the rules of any contract market or derivatives transaction execution facility—
 
 &emsp;(1) if such person shall directly or indirectly make such contracts with respect to any commodity or any future of such commodity during any one day in an amount equal to or in excess of such amount as shall be fixed from time to time by the Commission, and
 
@@ -8,9 +8,11 @@ It shall be unlawful for any person to make any contract for the purchase or sal
 
 > unless such person files or causes to be filed with the properly designated officer of the Commission such reports regarding any transactions or positions described in clauses (1) and (2) hereof as the Commission may by rule or regulation require and unless, in accordance with rules and regulations of the Commission, such person shall keep books and records of all such transactions and positions and transactions and positions in any such commodity traded on or subject to the rules of any other board of trade, and of cash or spot transactions in, and inventories and purchase and sale commitments of such commodity. Such books and records shall show complete details concerning all such transactions, positions, inventories, and commitments, including the names and addresses of all persons having any interest therein, and shall be open at all times to inspection by any representative of the Commission or the Department of Justice. For the purposes of this section, the futures and cash or spot transactions and positions of any person shall include such transactions and positions of any persons directly or indirectly controlled by such person.
 
-(Sept. 21, 1922, ch. 369, §4i, as added June 15, 1936, ch. 545, §5, 49 Stat. 1496; amended Pub. L. 90–258, §9, Feb. 19, 1968, 82 Stat. 28; Pub. L. 93–463, title I, §103(a), (f), Oct. 23, 1974, 88 Stat. 1392; Pub. L. 97–444, title II, §211, Jan. 11, 1983, 96 Stat. 2303.)
+(Sept. 21, 1922, ch. 369, §4i, as added June 15, 1936, ch. 545, §5, 49 Stat. 1496; amended Pub. L. 90–258, §9, Feb. 19, 1968, 82 Stat. 28; Pub. L. 93–463, title I, §103(a), (f), Oct. 23, 1974, 88 Stat. 1392; Pub. L. 97–444, title II, §211, Jan. 11, 1983, 96 Stat. 2303; Pub. L. 106–554, §1(a)(5) \[title I, §123(a)(9)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–407.)
 
 #### Amendments
+
+2000—Pub. L. 106–554 inserted “or derivatives transaction execution facility” after “contract market” in introductory provisions.
 
 1983—Pub. L. 97–444 amended section generally by substantially restating provisions and inserting requirement that persons whose transactions and positions in any cash commodity or commodity future are equal to or in excess of amounts fixed by the Commission, must keep books and records of such transactions and positions as well as books and records of any such commodity traded on or subject to rules of any other board of trade, whether or not such person is required to file reports with the Commission concerning such transactions and positions.
 
@@ -33,8 +35,4 @@ Amendment by Pub. L. 90–258 effective 120 days after Feb. 19, 1968, see sectio
 #### Effective Date
 
 For effective date of section, see section 13 of act June 15, 1936, set out as an Effective Date of 1936 Amendment note under section 1 of this title.
-
-#### Cross References
-
-Punishment for violating the provisions of this section, see section 13 of this title.
 

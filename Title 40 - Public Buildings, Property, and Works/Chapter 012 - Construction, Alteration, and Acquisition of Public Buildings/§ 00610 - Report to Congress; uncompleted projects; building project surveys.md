@@ -20,7 +20,3 @@ Committee on Public Works and Transportation of House of Representatives treated
 
 In subsec. (b), “United States Postal Service” substituted for “Postmaster General” pursuant to Pub. L. 91–375, §4(a), Aug. 12, 1970, 84 Stat. 773, set out as a note under section 201 of Title 39, Postal Service, which abolished office of Postmaster General of Post Office Department and transferred its functions to United States Postal Service.
 
-#### Cross References
-
-Design and construction of public buildings to accommodate the physically handicapped, see section 4151 et seq. of Title 42, The Public Health and Welfare.
-

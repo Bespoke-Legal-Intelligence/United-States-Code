@@ -74,10 +74,6 @@ Section 3(b)(1) of Pub. L. 88–443, providing that applications approved, and a
 
 Section 3(b)(5) of Pub. L. 88–443 provided that no application with respect to a modernization project may be approved for purposes of receiving funds from an allotment under section 291(a)(2) of this title before July 1, 1965, or before a State plan has been approved, as well as certain other requirements. See Effective Date note set out under section 291 of this title.
 
-#### Cross References
-
-Additional payments in cases of amended applications, see section 291f of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 291f, 291g, 291h, 291i, 291j–3 of this title.

@@ -10,7 +10,7 @@ For the purposes of sections 559b to 559f of this title, in exercising the autho
 
 &emsp;(4) the Secretary is authorized to designate law enforcement officers of any other Federal agency, when the Secretary determines such designation to be economical and in the public interest, and with the concurrence of that agency, to exercise the powers and authorities of the Forest Service while assisting the Forest Service in the National Forest System, or for activities administered by the Forest Service; and
 
-&emsp;(5) the Forest Service is authorized to accept law enforcement designation from any other Federal agency or agency of a State or political subdivision thereof for the purpose of cooperating in a multi-agency law enforcement task force investigation of violations of the Controlled Substances Act \[21 U.S.C. 801 et seq.\] and other offenses committed in the course of or in connection with such violations.
+&emsp;(5) the Forest Service is authorized to accept law enforcement designation from any otherFederal agency or agency of a State or political subdivision thereof for the purpose of cooperating in a multi-agency law enforcement task force investigation of violations of the Controlled Substances Act \[21 U.S.C. 801 et seq.\] and other offenses committed in the course of or in connection with such violations.
 
 (Pub. L. 99–570, title XV, §15004, Oct. 27, 1986, 100 Stat. 3207–191; Pub. L. 100–690, title VI, §6254(c), Nov. 18, 1988, 102 Stat. 4364.)
 

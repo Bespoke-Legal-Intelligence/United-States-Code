@@ -164,7 +164,7 @@
 | (a) | Findings. |
 | (b) | Initial SEED Program report. |
 | (c) | Annual SEED Program report. |
-| [5475\.](Subchapter%20006%20%28VI%29%20-%20Reports%20to%20Congress/%C2%A7%2005475%20-%20Reports%20on%20certain%20activities.md) | Reports on certain activities. |
+| [5475\.](Subchapter%20006%20%28VI%29%20-%20Reports%20to%20Congress/%C2%A7%2005475%20-%20Omitted.md) | Omitted. |
 | [5476\.](Subchapter%20006%20%28VI%29%20-%20Reports%20to%20Congress/%C2%A7%2005476%20-%20Notifications%20to%20Congress%20regarding%20assistance.md) | Notifications to Congress regarding assistance. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -191,7 +191,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 2295b, 2421d, 6591 of this title.
+This chapter is referred to in sections 2152a, 2152c, 2152d, 2295b, 2421d, 6591 of this title.
 
 
 ---

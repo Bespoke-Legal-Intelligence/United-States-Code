@@ -22,7 +22,7 @@
 
 &emsp;(B) The categories or proposed categories of use of each such substance or mixture.
 
-&emsp;(C) The total amount of each such substance and mixture manufactured or processed, reasonable estimates of the total amount to be manufactured or processed, the amount manufactured or processed for each of its categories of use, and reasonable estimates of theamount to be manufactured or processed for each of its categories of use or proposed categories of use.
+&emsp;(C) The total amount of each such substance and mixture manufactured or processed, reasonable estimates of the total amount to be manufactured or processed, the amount manufactured or processed for each of its categories of use, and reasonable estimates of the amount to be manufactured or processed for each of its categories of use or proposed categories of use.
 
 &emsp;(D) A description of the byproducts resulting from the manufacture, processing, use, or disposal of each such substance or mixture.
 
@@ -42,7 +42,7 @@
 
 &emsp;(II) with respect to which relief has been granted pursuant to a civil action brought under section 2604 or 2606 of this title,
 
-> to maintain such records on such substance or mixture, and to submit to the Administrator such reports on such substance or mixture, as the Administrator may reasonably require. A rule under this clause requiring reporting may require reporting with respect to the matters referred to in paragraph (2).
+> to maintain such records on such substance or mixture, and to submit to the Administrator such reports on such substance or mixture, as the Administrator may reasonably require. Arule under this clause requiring reporting may require reporting with respect to the matters referred to in paragraph (2).
 
 (B) The Administrator, after consultation with the Administrator of the Small Business Administration, shall by rule prescribe standards for determining the manufacturers and processors which qualify as small manufacturers and processors for purposes of this paragraph and paragraph (1).
 

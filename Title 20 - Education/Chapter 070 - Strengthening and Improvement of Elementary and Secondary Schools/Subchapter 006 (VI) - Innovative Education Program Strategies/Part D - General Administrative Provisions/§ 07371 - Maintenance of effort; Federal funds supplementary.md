@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), a State is entitled to receive its full allocation of funds under this part for any fiscal year if the Secretary finds that either the combined fiscal effort per student or the aggregate expenditures within the State with respect to the provision of free public education for the fiscal year preceding the fiscal year for which the determination is made was not less than 90percent of such combined fiscal effort or aggregate expenditures for the second fiscal year preceding the fiscal year for which the determination is made.
+&emsp;Except as provided in paragraph (2), a State is entitled to receive its full allocation of funds under this part for any fiscal year if the Secretary finds that either the combined fiscal effort per student or the aggregate expenditures within the State with respect to the provision of free public education for the fiscal year preceding the fiscal year for which the determination is made was not less than 90 percent of such combined fiscal effort or aggregate expenditures for the second fiscal year preceding the fiscal year for which the determination is made.
 
 #### (2) Reduction of funds
 

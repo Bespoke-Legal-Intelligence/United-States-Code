@@ -72,6 +72,8 @@ Pub. L. 104–19, title III, §3001, July 27, 1995, 109 Stat. 250, provided that
 
 Similar provisions were contained in the following appropriation acts:
 
+Pub. L. 106–553, §1(a)(2) \[title I, §106\], Dec. 21, 2000, 114 Stat. 2762, 2762A–67.
+
 Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §106\], Nov. 29, 1999, 113 Stat. 1535, 1501A–19.
 
 Pub. L. 105–277, div. A, §101(b) \[title I, §106\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–66.
@@ -79,10 +81,6 @@ Pub. L. 105–277, div. A, §101(b) \[title I, §106\], Oct. 21, 1998, 112 Stat.
 Pub. L. 105–119, title I, §106, Nov. 26, 1997, 111 Stat. 2457.
 
 Pub. L. 104–208, div. A, title I, §101(a) \[title I, §106\], Sept. 30, 1996, 110 Stat. 3009, 3009–17.
-
-#### Canal Zone
-
-Applicability of section to Canal Zone, see section 14 of this title.
 
 #### Section Referred to in Other Sections
 

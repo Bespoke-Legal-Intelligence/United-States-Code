@@ -4,10 +4,6 @@ When title to all alienated lands within Isle Royale in Lake Superior, Keweenaw 
 
 (Mar. 3, 1931, ch. 448, §1, 46 Stat. 1514.)
 
-#### Cross References
-
-Proviso not to be construed as prohibiting acquisition of lands with funds allocated and made available for acquisition of lands for conservation or forestation purposes, see section 408d of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 408d, 408e of this title.

@@ -16,7 +16,7 @@ Subject to the availability of appropriations, a State that has an application a
 
 #### (c) Spending of funds by State
 
-Payments to a State from the allotment under section 9858m of this title for any fiscal year may be obligated by the State in that fiscal year or in the succeeding fiscal year.
+Payments to a State from the allotment under section 9858m of this title for any fiscal yearmay be obligated by the State in that fiscal year or in the succeeding fiscal year.
 
 (Pub. L. 97–35, title VI, §658J, as added Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–243; amended Pub. L. 102–27, title III, §310, Apr. 10, 1991, 105 Stat. 153; Pub. L. 102–401, §3(a), Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(a), (c)(1), Nov. 4, 1992, 106 Stat. 5035, 5036; Pub. L. 103–171, §8, Dec. 2, 1993, 107 Stat. 1994; Pub. L. 104–193, title VI, §610, Aug. 22, 1996, 110 Stat. 2284.)
 

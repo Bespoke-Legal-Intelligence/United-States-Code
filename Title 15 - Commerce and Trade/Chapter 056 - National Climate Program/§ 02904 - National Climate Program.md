@@ -74,7 +74,7 @@ The Program shall include, but not be limited to, the following elements:
 
 &emsp;(D) consult with and seek the advice of users and producers of climate data, information, and services to guide the Board's efforts, keeping the Director and the Congress advised of such contacts.
 
-(3) The Board biennially shall select a Chair from among its members. A Board member who is a representative of an agency may not serve as Chair of the Board for a term if an individualwho represented that same agency on the Board served as the Board's Chair for the previous term.
+(3) The Board biennially shall select a Chair from among its members. A Board member who is a representative of an agency may not serve as Chair of the Board for a term if an individual who represented that same agency on the Board served as the Board's Chair for the previous term.
 
 #### (f) Cooperation
 
@@ -94,7 +94,7 @@ Subsec. (g) of this section in the original was par. (1) of section 5(g) of Pub.
 
 #### Amendments
 
-1986—Subsec. (c). Pub. L. 99–272, §6084(b), designated first sentence as par. (1), substituted pars. (2) and (3) for second sentence which provided that “The Office shall be the lead entity responsible for administering the Program“, and designated third sentence as par. (4).
+1986—Subsec. (c). Pub. L. 99–272, §6084(b), designated first sentence as par. (1), substituted pars. (2) and (3) forsecond sentence which provided that “The Office shall be the lead entity responsible for administering the Program“, and designated third sentence as par. (4).
 
 Subsec. (d)(7). Pub. L. 99–272, §6084(c)(1), inserted provision that such mechanisms may provide, among others, for certain enumerated State and regional services and functions.
 
@@ -105,6 +105,10 @@ Subsec. (e). Pub. L. 99–272, §6084(d), substituted provisions relating to the
 Subsec. (f)(2). Pub. L. 99–272, §6084(e), substituted “shall cooperate with the Office in” for “shall cooperate in”.
 
 Subsec. (g). Pub. L. 99–272, §6084(f), inserted provision requiring each Federal agency and department participating in the Program to transmit a copy of such request to the National Climate Program Office.
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the quadrennially revised and extended 5-year plan under subsec. (d)(9) of this section is listed on page 53), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 
 #### Section Referred to in Other Sections
 

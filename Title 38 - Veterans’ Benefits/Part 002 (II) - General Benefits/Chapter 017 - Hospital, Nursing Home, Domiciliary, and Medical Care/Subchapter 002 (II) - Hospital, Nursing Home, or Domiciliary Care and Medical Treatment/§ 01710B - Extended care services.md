@@ -188,7 +188,7 @@ Definition.—For purposes of this section, the term ‘assisted living services
 
 “(h)
 
-Standards.—The Secretary may not enter into a contract with a facility under this section unless the facility meets the standards established in regulationsprescribed under section 1730 of title 38, United States Code.”
+Standards.—The Secretary may not enter into a contract with a facility under this section unless the facility meets the standards established in regulations prescribed under section 1730 of title 38, United States Code.”
 
 #### Section Referred to in Other Sections
 

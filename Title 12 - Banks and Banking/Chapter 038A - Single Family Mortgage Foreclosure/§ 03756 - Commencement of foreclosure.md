@@ -6,7 +6,7 @@ If the Secretary, as holder of a single family mortgage, determines that the pre
 
 #### (b) Designation of substitute foreclosure commissioner
 
-After commencement of a foreclosure under this chapter, the Secretary may designate a substitute foreclosure commissioner at any time before the time of the foreclosure sale, and the foreclosure shall continue without prejudice, unless the substitute commissioner, in that commissioner's sole discretion, finds that continuation of the foreclosure sale will unfairly affect the interests of the mortgagor. If the substitute commissioner makes such a finding, the substitute commissioner shall cancel the foreclosure sale, or adjourn such sale in accordance with section 3760(c) of this title.
+After commencement of a foreclosure under this chapter, the Secretary may designate a substitute foreclosure commissioner at any time before the time of the foreclosure sale, and the foreclosure shall continue without prejudice, unless the substitute commissioner, in that commissioner's sole discretion, finds that continuation of the foreclosure sale will unfairly affect the interests of the mortgagor. If the substitutecommissioner makes such a finding, the substitute commissioner shall cancel the foreclosure sale, or adjourn such sale in accordance with section 3760(c) of this title.
 
 #### (c) Written notice
 

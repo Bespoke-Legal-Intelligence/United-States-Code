@@ -88,7 +88,7 @@ Funds under this subpart may be used for—
 
 #### (2) Special rule
 
-&emsp;If the amount appropriated under paragraph (1) for any fiscal year is $9,000,000 or less, then such amount shall only be available to carry out the activities described in paragraphs (7) and (8) of subsection (d) of this section.
+&emsp;If the amount appropriated under paragraph (1) for any fiscal year is $9,000,000 or less, thensuch amount shall only be available to carry out the activities described in paragraphs (7) and (8) of subsection (d) of this section.
 
 (Pub. L. 89–10, title X, §10401, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3830; amended Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §709(b)(3)(A)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–313.)
 

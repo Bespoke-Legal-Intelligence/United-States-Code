@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-To the extent that amounts are made available to carry out this subtitle <sup>1</sup> pursuant to the amendments made by this subtitle,<sup>1</sup> the Secretary shall require owners of covered federally assisted housing projects (as such term is defined in subsection (d) of this section) receiving such amounts to provide for employing or otherwise retaining the services of one or more individuals to coordinate the provision of supportive services for elderly and disabled families residing in the projects (in this section referred to as a “service coordinator”). No such elderly or disabled family may be required to accept services.
+To the extent that amounts are made available for providing service coordinators under this section, the Secretary shall require owners of covered federally assisted housing projects (as such term is defined in subsection (d) of this section) receiving such amounts to provide for employing or otherwise retaining the services of one or more individuals to coordinate the provision of supportive services for elderly and disabled families residing in the projects (in this section referred to as a “service coordinator”). No such elderly or disabled family may be required to accept services.
 
 #### (b) Responsibilities
 
@@ -20,23 +20,69 @@ Each service coordinator of a covered federally assisted housing project provide
 
 #### (c) Included services
 
-Supportive services referred to under subsection (b)(1) of this section may include health-related services, mental health services, services for nonmedical counseling, meals, transportation, personal care, bathing, toileting, housekeeping, chore assistance, safety, group and socialization activities, assistance with medications (in accordance with any applicable State laws), case management, personal emergency response, and other appropriate services. The services may be provided through any agency of the Federal Government or any other public or private department, agency, or organization.
+Supportive services referred to under subsection (b)(1) of this section may include health-related services, mental health services, services for nonmedical counseling, meals, transportation, personal care, bathing, toileting, housekeeping, chore assistance, safety, group and socialization activities, assistance with medications (in accordance with any applicable State laws), case management, personal emergency response, education and outreach regarding telemarketing fraud in accordance with the standards issued under subsection (f) of this section, and other appropriate services. The services may be provided through any agency of the Federal Government or any other public or private department, agency, or organization.
 
 #### (d) Covered federally assisted housing
 
-For purposes of this subtitle,<sup>1</sup> the term “covered federally assisted housing” means housing that is federally assisted housing (as such term is defined in section 13641(2) of this title,<sup>2</sup> except that such term does not include housing described in subparagraphs (C) and (D) of such section.
+For purposes of this subtitle,<sup>1</sup> the term “covered federally assisted housing” means housing that is federally assisted housing (as such term is defined in section 13641(2) of this title), except that such term does not include housing described in subparagraphs (C) and (D) of such section.
 
-(Pub. L. 102–550, title VI, §671, Oct. 28, 1992, 106 Stat. 3826.)
+#### (e) Services for low-income elderly or disabled families residing in vicinity of certain projects
+
+To the extent only that this section applies to service coordinators for covered federally assisted housing described in subparagraphs (B), (C), (D), (E), (F), and (G) of section 13641(2) of this title, any reference in this section to elderly or disabled residents of a project shall be construed to include low-income elderly or disabled families living in the vicinity of such project.
+
+#### (f) Protection against telemarketing fraud
+
+#### (1) In general
+
+&emsp;The Secretary, in coordination with the Secretary of Health and Human Services, shall establish standards for service coordinators in federally assisted housing who are providing education and outreach to elderly persons residing in such housing regarding telemarketing fraud. The standards shall be designed to ensure that such education and outreach informs such elderly persons of the dangers of telemarketing fraud and facilitates the investigation and prosecution of telemarketers engaging in fraud against such residents.
+
+#### (2) Contents
+
+&emsp;The standards established under this subsection shall require that any such education and outreach be provided in a manner that—
+
+&emsp;&emsp;(A) informs such residents of—
+
+&emsp;&emsp;&emsp;(i) the prevalence of telemarketing fraud targeted against elderly persons;
+
+&emsp;&emsp;&emsp;(ii) how telemarketing fraud works;
+
+&emsp;&emsp;&emsp;(iii) how to identify telemarketing fraud;
+
+&emsp;&emsp;&emsp;(iv) how to protect themselves against telemarketing fraud, including an explanation of the dangers of providing bank account, credit card, or other financial or personal information over the telephone to unsolicited callers;
+
+&emsp;&emsp;&emsp;(v) how to report suspected attempts at telemarketing fraud; and
+
+&emsp;&emsp;&emsp;(vi) their consumer protection rights under Federal law;
+
+&emsp;&emsp;(B) provides such other information as the Secretary considers necessary to protect such residents against fraudulent telemarketing; and
+
+&emsp;&emsp;(C) disseminates the information provided by appropriate means, and in determining such appropriate means, the Secretary shall consider on-site presentations at federally assisted housing, public service announcements, a printed manual or pamphlet, an Internet website, and telephone outreach to residents whose names appear on “mooch lists” confiscated from fraudulent telemarketers.
+
+(Pub. L. 102–550, title VI, §671, Oct. 28, 1992, 106 Stat. 3826; Pub. L. 106–569, title VIII, §851(b), (c)(2), Dec. 27, 2000, 114 Stat. 3024.)
 
 #### References in Text
 
-This subtitle, referred to in subsecs. (a), (b), and (d), means subtitle E of title VI of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3826, which enacted this subchapter, amended sections 1437f, 1437g, and 8011 of this title and section 1701q of Title 12, Banks and Banking, and enacted provisions set out as a note under section 1701q of Title 12.
+This subtitle, referred to in subsecs. (b) and (d), means subtitle E of title VI of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3826, which enacted this subchapter, amended sections 1437f, 1437g, and 8011 of this title and section 1701q of Title 12, Banks and Banking, and enacted provisions set out as a note under section 1701q of Title 12.
+
+#### Amendments
+
+2000—Subsec. (a). Pub. L. 106–569, §851(b)(1), in first sentence, substituted “for providing service coordinators under this section,” for “to carry out this subtitle pursuant to the amendments made by this subtitle,”.
+
+Subsec. (c). Pub. L. 106–569, §851(c)(2)(A), in first sentence, inserted “education and outreach regarding telemarketing fraud in accordance with the standards issued under subsection (f) of this section,” after “response,”.
+
+Subsec. (d). Pub. L. 106–569, §851(b)(2), inserted closing parenthesis after “section 13641(2) of this title”.
+
+Subsec. (e). Pub. L. 106–569, §851(b)(3), added subsec. (e).
+
+Subsec. (f). Pub. L. 106–569, §851(c)(2)(B), added subsec. (f).
+
+#### Effective Date of 2000 Amendment
+
+Amendment by title VIII of Pub. L. 106–569 effective Dec. 27, 2000, unless effectiveness or applicability upon another date certain is specifically provided for, with provisions relating to effect of regulatory authority, see section 803 of Pub. L. 106–569, set out as a note under section 1701q of Title 12, Banks and Banking.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1437f, 13632 of this title.
+This section is referred to in sections 1437f, 13632 of this title; title 12 section 1701q.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original. The comma probably should be preceded by a closing parenthesis.</i>
 

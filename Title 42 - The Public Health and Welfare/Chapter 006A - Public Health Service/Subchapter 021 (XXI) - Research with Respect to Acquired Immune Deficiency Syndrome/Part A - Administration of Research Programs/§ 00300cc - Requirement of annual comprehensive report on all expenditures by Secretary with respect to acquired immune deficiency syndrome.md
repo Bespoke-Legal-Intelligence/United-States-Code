@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Not later than December 1 of each fiscal year, the Secretary shall prepare and submit to the Congress a report on the expenditures by the Secretary of amounts appropriated for the preceding fiscal year with respect to acquired immune deficiency syndrome.
+Not later than December 1 of each fiscal year, the Secretary shall prepare and submit to theCongress a report on the expenditures by the Secretary of amounts appropriated for the preceding fiscal year with respect to acquired immune deficiency syndrome.
 
 #### (b) Inclusion of certain information
 
@@ -32,6 +32,52 @@ A prior section 300cc, act July 1, 1944, §2301, was successively renumbered by 
 
 1992—Subsec. (b)(4). Pub. L. 102–531 substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under this section is listed on page 94), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set out as notes under section 1113 of Title 31, Money and Finance.
+
+#### Development of Rapid HIV Test
+
+Pub. L. 106–345, title V, §502, Oct. 20, 2000, 114 Stat. 1353, provided that:
+
+“(a)
+
+Expansion, Intensification, and Coordination of Research and Other Activities.—
+
+&emsp;“(1)
+
+In general.—The Director of NIH shall expand, intensify, and coordinate research and other activities of the National Institutes of Health with respect to the development of reliable and affordable tests for HIV disease that can rapidly be administered and whose results can rapidly be obtained (in this section referred to as ‘rapid HIV test’).
+
+&emsp;“(2)
+
+Report to congress.—The Director of NIH shall periodically submit to the appropriate committees of Congress a report describing the research and other activities conducted or supported under paragraph (1).
+
+&emsp;“(3)
+
+Authorization of appropriations.—For the purpose of carrying out this subsection, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005.
+
+“(b)
+
+Premarket Review of Rapid HIV Tests.—
+
+&emsp;“(1)
+
+In general.—Not later than 90 days after the date of the enactment of this Act \[Oct. 20, 2000\], the Secretary, in consultation with the Director of the Centers for Disease Control and Prevention and the Commissioner of Food and Drugs, shall submit to the appropriate committees of the Congress a report describing the progress made towards, and barriers to, the premarket review and commercial distribution of rapid HIV tests. The report shall—
+
+&emsp;&emsp;“(A) assess the public health need for and public health benefits of rapid HIV tests, including the minimization of false positive results through the availability of multiple rapid HIV tests;
+
+&emsp;&emsp;“(B) make recommendations regarding the need for the expedited review of rapid HIV test applications submitted to the Center for Biologics Evaluation and Research and, if such recommendations are favorable, specify criteria and procedures for such expedited review; and
+
+&emsp;&emsp;“(C) specify whether the barriers to the premarket review of rapid HIV tests include the unnecessary application of requirements—
+
+&emsp;&emsp;&emsp;“(i) necessary to ensure the efficacy of devices for donor screening to rapid HIV tests intended for use in other screening situations; or
+
+&emsp;&emsp;&emsp;“(ii) for identifying antibodies to HIV subtypes of rare incidence in the United States to rapid HIV tests intended for use in screening situations other than donor screening.
+
+“(c)
+
+Guidelines of Centers for Disease Control and Prevention.—Promptly after commercial distribution of a rapid HIV test begins, the Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall establish or update guidelines that include recommendations for States, hospitals, and other appropriate entities regarding the ready availability of such tests for administration to pregnant women who are in labor or in the late stage of pregnancy and whose HIV status is not known to the attending obstetrician.”
+
 #### Limitation on Expenditures for AIDS and HIV Activities
 
 Pub. L. 104–146, §11, May 20, 1996, 110 Stat. 1373, provided that: “Notwithstanding any other provision of law, the total amounts of Federal funds expended in any fiscal year for AIDS and HIV activities may not exceed the total amounts expended in such fiscal year for activities related to cancer.”
@@ -46,7 +92,7 @@ In general.—The Secretary of Health and Human Services, acting through the Nat
 
 “(2)
 
-Report.—Not later than 180 days after the date of the enactment of this Act \[June 10, 1993\], the Secretary of Health and Human Services shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives, and the Committee on Labor and Human Resources of the Senate, a report concerning the plan developed under paragraph (1).
+Report.—Not later than 180 days after the date of the enactment of this Act \[June 10, 1993\], the Secretary of Health and Human Services shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives, and the Committee onLabor and Human Resources of the Senate, a report concerning the plan developed under paragraph (1).
 
 “(3)
 
@@ -58,7 +104,7 @@ Authorization of appropriations.—For the purpose of carrying out this subsecti
 
 #### Requirement of Certain Research Studies
 
-Section 203 of Pub. L. 100–607 provided that after consultation with Director of National Center for Health Services Research and Health Care Technology Assessment, the Secretary of Health and Human Services, acting through the Director of Centers for Disease Control, was to conduct a study for purpose of determining mortality rates with respect to acquired immune deficiency syndrome among individuals of various groups at risk of such syndrome, among various geographic areas, and among individuals with varying financial resources for payment of health care services, with a report to be submitted to Congress not later than 18 months after Nov. 4, 1988, and further directed Secretary to request the National Academy of Sciences and other similar appropriate nonprofit institutions to report to the Secretary findings made by such institutions with respect to the manner in which research on, and the development of, vaccines and drugs for the prevention and treatment of acquired immune deficiencysyndrome and related conditions can be enhanced by the establishment of consortia designed to combine and share resources needed for such research and development, consisting of businesses involved in such research and development, of nonprofit research institutions, or of combinations of such businesses and such institutions, and the appropriate participation, if any, of the Federal Government in such consortia, with a report to be submitted to Congress not later than 1 year after Nov. 4, 1988.
+Section 203 of Pub. L. 100–607 provided that after consultation with Director of National Center for Health Services Research and Health Care Technology Assessment, the Secretary of Health and Human Services, acting through the Director of Centers for Disease Control, was to conduct a study for purpose of determining mortality rates with respect to acquired immune deficiency syndrome among individuals of various groups at risk of such syndrome, among various geographic areas, and among individuals with varying financial resources for payment of health care services, with a report to be submitted to Congress not later than 18 months after Nov. 4, 1988, and further directed Secretary to request the National Academy of Sciences and other similar appropriate nonprofit institutions to report to the Secretary findings made by such institutions with respect to the manner in which research on, and the development of, vaccines and drugs for the prevention and treatment of acquired immune deficiency syndrome and related conditions can be enhanced by the establishment of consortia designed to combine and share resources needed for such research and development, consisting of businesses involved in such research and development, of nonprofit research institutions, or of combinations of such businesses and such institutions, and the appropriate participation, if any, of the Federal Government in such consortia, with a report to be submitted to Congress not later than 1 year after Nov. 4, 1988.
 
 #### National Commission on Acquired Immune Deficiency Syndrome
 

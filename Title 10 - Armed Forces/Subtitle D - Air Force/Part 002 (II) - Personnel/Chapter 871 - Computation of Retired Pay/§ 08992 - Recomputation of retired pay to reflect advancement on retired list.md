@@ -40,7 +40,7 @@ Aug. 21, 1941, ch. 384, §5 (last 39 words of 1st proviso); restated June 29, 19
 
 June 29, 1948, ch. 708, §203(e) (30 words before proviso), 62 Stat. 1086.
 
-The words “basic pay \* \* \* as the case may be” are inserted to conform to the terminology of the Career Compensation Act of 1949, 63 Stat. 802 (37 U.S.C. 231 et seq.). The words “at the rate prescribed by law for his length of service”, in 10:1004, are omitted as covered by the words “base and longevity pay”. The words “base and longevity pay” are retained to cover the cases of members retired before the enactment of the Career Compensation Act of 1949, and advanced on the retired list after the enactment of that act. The words “and disregard a part of a year that is less than six months” are inserted to conform to footnote 4 of section 8991 of this title.
+The words “basic pay \* \* \* as the case may be” are inserted to conform to the terminology of the Career Compensation Act of 1949, 63 Stat. 802 (37 U.S.C. 231 et seq.). The words “at the rate prescribed by law for his length of service”, in 10:1004, are omitted as covered by the words “base and longevity pay”. The words “baseand longevity pay” are retained to cover the cases of members retired before the enactment of the Career Compensation Act of 1949, and advanced on the retired list after the enactment of that act. The words “and disregard a part of a year that is less than six months” are inserted to conform to footnote 4 of section 8991 of this title.
 
 #### 1982 Act
 

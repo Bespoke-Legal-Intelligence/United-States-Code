@@ -16,7 +16,7 @@ Section is based on section 1 of House Resolution 119, Ninety-fifth Congress, Ja
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in House Resolution 441, Ninety-first Congress,June 17, 1969, as enacted into permanent law by Pub. L. 91–145, §103, Dec. 12, 1969, 83 Stat. 359, which provided: “That, until otherwise provided by law—
+Provisions similar to those in this section were contained in House Resolution 441, Ninety-first Congress, June 17, 1969, as enacted into permanent law by Pub. L. 91–145, §103, Dec. 12, 1969, 83 Stat. 359, which provided: “That, until otherwise provided by law—
 
 “(1) The six positions of minority employee listed in House Resolution 8, Ninety-first Congress, as supplemented by House Resolution 238, Ninety-first Congress, and House Resolution 265, Ninety-first Congress, are hereby given position titles in the descending order in which those six positions are listed in House Resolution 8, as follows:
 

@@ -1,14 +1,6 @@
 ### §300x–22. Certain allocations
 
-#### (a) Allocations regarding alcohol and other drugs
-
-A funding agreement for a grant under section 300x–21 of this title is that, in expending the grant, the State involved will expend—
-
-&emsp;(1) not less than 35 percent for prevention and treatment activities regarding alcohol; and
-
-&emsp;(2) not less than 35 percent for prevention and treatment activities regarding other drugs.
-
-#### (b) Allocation regarding primary prevention programs
+#### (a) Allocation regarding primary prevention programs
 
 A funding agreement for a grant under section 300x–21 of this title is that, in expending the grant, the State involved—
 
@@ -24,7 +16,7 @@ A funding agreement for a grant under section 300x–21 of this title is that, i
 
 &emsp;&emsp;(B) ensure that programs receiving priority under subparagraph (A) develop community-based strategies for the prevention of such abuse, including strategies to discourage the use of alcoholic beverages and tobacco products by individuals to whom it is unlawful to sell or distribute such beverages or products.
 
-#### (c) Allocations regarding women
+#### (b) Allocations regarding women
 
 #### (1) In general
 
@@ -34,7 +26,7 @@ A funding agreement for a grant under section 300x–21 of this title is that, i
 
 &emsp;&emsp;(B) in the case of a grant for fiscal year 1994, the State will expend not less than 5 percent of the grant to so increase (relative to fiscal year 1993) the availability of such services for such women; and
 
-&emsp;&emsp;(C) in the case of a grant for any subsequent fiscal year, the State will expend forsuch services for such women not less than an amount equal to the amount expended by the State for fiscal year 1994.
+&emsp;&emsp;(C) in the case of a grant for any subsequent fiscal year, the State will expend for such services for such women not less than an amount equal to the amount expended by the State for fiscal year 1994.
 
 #### (2) Waiver
 
@@ -48,11 +40,35 @@ A funding agreement for a grant under section 300x–21 of this title is that, i
 
 &emsp;A funding agreement for a grant under section 300x–21 of this title for a State is that each entity providing treatment services with amounts reserved under paragraph (1) by the State will, directly or through arrangements with other public or nonprofit private entities, make available prenatal care to women receiving such services and, while the women are receiving the services, childcare.
 
-(July 1, 1944, ch. 373, title XIX, §1922, as added Pub. L. 102–321, title II, §202, July 10, 1992, 106 Stat. 389.)
+(July 1, 1944, ch. 373, title XIX, §1922, as added Pub. L. 102–321, title II, §202, July 10, 1992, 106 Stat. 389; amended Pub. L. 106–310, div. B, title XXXIII, §3303(a), (f)(2)(A), Oct. 17, 2000, 114 Stat. 1210, 1211.)
+
+#### Amendment of Subsection (b)(2), (3)
+
+<i>Pub. L. 106–310, div. B, title XXXIII, §3303(f)(2), Oct. 17, 2000, 114 Stat. 1211, provided that, effective upon publication of regulations developed in accordance with section 300x–32(e)(1) of this title, subsection (c) of this section \[now subsection (b)\] is amended by strik</i><i>ing out paragraph (2) and redesignating paragraph (3) as paragraph (2).</i>
 
 #### Prior Provisions
 
 A prior section 1922 of act July 1, 1944, was classified to section 300x–9a of this title prior to repeal by Pub. L. 102–321.
 
 Another prior section 1922 of act July 1, 1944, was classified to section 300y–1 of this title prior to repeal by Pub. L. 100–690.
+
+#### Amendments
+
+2000—Subsec. (a). Pub. L. 106–310, §3303(a), redesignated subsec. (b) as (a) and struck out heading and text of former subsec. (a). Text read as follows: “A funding agreement for a grant under section 300x–21 of this title is that, in expending the grant, the State involved will expend—
+
+&emsp;“(1) not less than 35 percent for prevention and treatment activities regarding alcohol; and
+
+&emsp;“(2) not less than 35 percent for prevention and treatment activities regarding other drugs.”
+
+Subsec. (b). Pub. L. 106–310, §3303(a)(2), redesignated subsec. (c) as (b). Former subsec. (b) redesignated (a).
+
+Subsec. (c). Pub. L. 106–310, §3303(a)(2), redesignated subsec. (c) as (b).
+
+#### Effective Date of 2000 Amendment
+
+Pub. L. 106–310, div. B, title XXXIII, §3303(f)(2), Oct. 17, 2000, 114 Stat. 1211, provided that the amendment made by section 3303(f)(2) is effective upon the publication of the regulations developed in accordance with section 300x–32(e)(1) of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 300x–32 of this title.
 

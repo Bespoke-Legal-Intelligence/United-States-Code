@@ -44,7 +44,7 @@ Findings.—The Congress finds and declares the following:
 
 &emsp;“(6) There is a substantial governmental and First Amendment interest in promoting a diversity of views provided through multiple technology media.
 
-&emsp;“(7) There is a substantial governmental and First Amendment interest in ensuring that cable subscribers have access to local noncommercial educationalstations which Congress has authorized, as expressed in section 396(a)(5) of the Communications Act of 1934 \[47 U.S.C. 396(a)(5)\]. The distribution of unique noncommercial, educational programming services advances that interest.
+&emsp;“(7) There is a substantial governmental and First Amendment interest in ensuring that cable subscribers have access to local noncommercial educational stations which Congress has authorized, as expressed in section 396(a)(5) of the Communications Act of 1934 \[47 U.S.C. 396(a)(5)\]. The distribution of unique noncommercial, educational programming services advances that interest.
 
 &emsp;“(8) The Federal Government has a substantial interest in making all nonduplicative local public television services available on cable systems because—
 

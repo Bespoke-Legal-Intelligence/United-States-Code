@@ -188,7 +188,7 @@ Report.—The Secretary shall submit to the Congress a report 1 year after the d
 
 #### Application of Weight Limitations to Northern Mariana Islands
 
-Section 303 of Pub. L. 98–454 provided that: “The weight limitations contained in subsections (b) and (c)of section 301 above \[amending sections 12106 and 12108 of this title\] shall not apply to the Northern Mariana Islands until the termination of the Trusteeship Agreement for the Trust Territory of the Pacific Islands (61 Stat. 3301).” \[For termination of Trusteeship Agreement for Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.\]
+Section 303 of Pub. L. 98–454 provided that: “The weight limitations contained in subsections (b) and (c) of section 301 above \[amending sections 12106 and 12108 of this title\] shall not apply to the Northern Mariana Islands until the termination of the Trusteeship Agreement for the Trust Territory of the Pacific Islands (61 Stat. 3301).” \[For termination of Trusteeship Agreement for Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.\]
 
 #### Section Referred to in Other Sections
 

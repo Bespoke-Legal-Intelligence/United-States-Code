@@ -227,7 +227,6 @@
 | (e) | Adequacy of existing common law and statutory remedies. |
 | (f) | Modification of national contingency plan. |
 | (g) | Insurability study. |
-| (h) | Report and oversight requirements. |
 | [9652\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/%C2%A7%2009652%20-%20Effective%20dates%3B%20savings%20provisions.md) | Effective dates; savings provisions. |
 | [9653\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/%C2%A7%2009653%20-%20Repealed.%20Pub.%20L.%2099%E2%80%93499%2C%20title%20V%2C%20%C2%A7511%28b%29%2C%20Oct.%2017%2C%201986%2C%20100%20Stat.%201761.md) | Repealed. |
 | [9654\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/%C2%A7%2009654%20-%20Applicability%20of%20Federal%20water%20pollution%20control%20funding%2C%20etc.%2C%20provisions.md) | Applicability of Federal water pollution control funding, etc., provisions. |

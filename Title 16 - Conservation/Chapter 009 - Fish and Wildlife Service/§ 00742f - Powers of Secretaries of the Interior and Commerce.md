@@ -2,7 +2,7 @@
 
 #### (a) Policies, procedures, and recommendations
 
-The Secretary of the Interior, with such advice and assistance as he may require from theAssistant Secretary for Fish and Wildlife, shall consider and determine the policies and procedures that are necessary and desirable in carrying out efficiently and in the public interest the laws relating to fish and wildlife. The Secretary, with the assistance of the departmental staff herein authorized, shall—
+The Secretary of the Interior, with such advice and assistance as he may require from the Assistant Secretary for Fish and Wildlife, shall consider and determine the policies and procedures that are necessary and desirable in carrying out efficiently and in the public interest the laws relating to fish and wildlife. The Secretary, with the assistance of the departmental staff herein authorized, shall—
 
 &emsp;(1) develop and recommend measures which are appropriate to assure the maximum sustainable production of fish and fishery products and to prevent unnecessary and excessive fluctuations in such production;
 
@@ -205,10 +205,6 @@ Report.—Not later than 3 years after the date of enactment of this Act \[Oct. 
 “(4)
 
 Authorization of appropriations.—There is authorized to be appropriated to carry out this subsection $2,000,000 for each of fiscal years 1999 through 2002.”
-
-#### Cross References
-
-National Fish and Wildlife Foundation, activities relating to gifts of property in connection with the Fish and Wildlife Service, see section 3701 et seq. of this title.
 
 #### Section Referred to in Other Sections
 

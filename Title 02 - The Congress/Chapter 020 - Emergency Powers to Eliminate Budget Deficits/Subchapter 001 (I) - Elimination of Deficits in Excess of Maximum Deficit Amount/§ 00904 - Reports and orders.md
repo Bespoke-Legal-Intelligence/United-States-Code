@@ -147,13 +147,13 @@ Subsec. (f)(2)(A). Pub. L. 105–33, §10206(4)(A), substituted “2002” for �
 
 Subsec. (f)(3). Pub. L. 105–33, §10206(4)(B), struck out “through 1998” after “each outyear”.
 
-Subsec. (f)(4) to (6). Pub. L. 105–33, §10206(4)(C), redesignated pars. (5) and (6) as (4) and (5), respectively, and struck out heading and text of former par. (4). Textread as follows: “The final reports shall set forth for the budget year estimates for each of the following:
+Subsec. (f)(4) to (6). Pub. L. 105–33, §10206(4)(C), redesignated pars. (5) and (6) as (4) and (5), respectively, and struck out heading and text of former par. (4). Text read as follows: “The final reports shall set forth for the budget year estimates for each of the following:
 
 &emsp;“(A) The amount of budget authority appropriated from the Violent Crime Reduction Trust Fund and outlays resulting from those appropriations.
 
 &emsp;“(B) The sequestration percentage and reductions, if any, required under section 901a of this title.”
 
-Subsec. (g). Pub. L. 105–33, §10206(1), (5), redesignated subsec. (h) as (g) and substituted “paragraph (f)(2)” for “paragraph (g)(2)” and “paragraphs (f)(2) and (f)(4)” for “paragraphs (g)(2) and (g)(4)”. Former subsec. (g) redesignated (f).
+Subsec. (g). Pub. L. 105–33, §10206(1), (5), redesignated subsec. (h) as (g) and substituted “paragraph (f)(2)” for“paragraph (g)(2)” and “paragraphs (f)(2) and (f)(4)” for “paragraphs (g)(2) and (g)(4)”. Former subsec. (g) redesignated (f).
 
 Subsecs. (h) to (k). Pub. L. 105–33, §10206(1), redesignated subsecs. (i) to (k) as (h) to (j), respectively. Former subsec. (h) redesignated (g).
 
@@ -227,9 +227,9 @@ By the authority vested in me as President by the statutes of the United States 
 
 (1) Budgetary resources for each non-exempt account within the international category of discretionary spending shall be reduced as specified by the Director of the Office of Management and Budget in his report of November 9, 1990.
 
-(2) Pursuant to sections 250(c)(6) and 251 \[2 U.S.C. 900(c)(6), 901\], budgetary resources subject to sequestration shall be new budget authority; new loan guaranteecommitments or limitations; new direct loan obligations, commitments, or limitations; and obligation limitations.
+(2) Pursuant to sections 250(c)(6) and 251 \[2 U.S.C. 900(c)(6), 901\], budgetary resources subject to sequestration shall be new budget authority; new loan guarantee commitments or limitations; new direct loan obligations, commitments, or limitations; and obligation limitations.
 
-(3) For accounts making commitments for guaranteed loans as authorized by substantive law, the head of each Department or agency is directed to reduce the level of such commitments or obligations to the extent necessary to conform to the limitations established by the Act \[Pub. L. 99–177, title II, see Short Title note set out under 2 U.S.C. 900\] and specified by the Director of the Office of Management and Budget in his report of November 9, 1990.
+(3) For accounts making commitments for guaranteed loans as authorized by substantive law, the head of each Department or agency is directed to reduce the level of such commitments or obligations to the extent necessary to conform to the limitations established by the Act \[Pub. L. 99–177, title II, see Short Title note setout under 2 U.S.C. 900\] and specified by the Director of the Office of Management and Budget in his report of November 9, 1990.
 
 All sequestrations shall be made in strict accordance with the specifications of the November 9th report of the Director of the Office of Management and Budget and the requirements of sections 251 and 254.
 
@@ -277,7 +277,7 @@ Order Rescinded.—(1) Upon the issuance of a new final order by the President u
 
 Adjusted Reduction.—
 
-&emsp;“(1) Before the close of the fifteenth calendar day beginning after the date of enactment of this Act \[Dec. 19, 1989\], the Director of OMB shall issue a revised report using the exact budget baseline set forth in the report of October 16, 1989 \[set out below\], and following the requirements, specifications, definitions, and calculations required by the Balanced Budget and Emergency Deficit Control Act of 1985 \[Pub. L. 99–177, title II, see Short Title note set out under 2 U.S.C. 901\] for the final report issued under section 251(c)(2) \[2 U.S.C. 901(c)(2)\] for fiscal year 1990, except that the aggregate outlay reduction to be achieved shall be an amount equal to $16.1 billion multiplied by 130 divided by 365. Calculations made to carry out the preceding sentence shall take into account the reductions and cancellations achieved by paragraphs (2) and (3) and shall not be affected by subsection (d).
+&emsp;“(1) Before the close of the fifteenth calendar day beginning after the date of enactment of this Act \[Dec. 19, 1989\], the Director of OMB shall issue a revised report using the exact budget baseline set forth in the report of October 16, 1989 \[set out below\], and following the requirements, specifications, definitions, and calculations required by the Balanced Budget and Emergency Deficit Control Act of 1985 \[Pub. L. 99–177, title II, see Short Title note set out under 2 U.S.C. 901\] for the final report issued under section 251(c)(2) \[2 U.S.C. 901(c)(2)\] for fiscal year 1990, except that the aggregate outlay reduction to beachieved shall be an amount equal to $16.1 billion multiplied by 130 divided by 365. Calculations made to carry out the preceding sentence shall take into account the reductions and cancellations achieved by paragraphs (2) and (3) and shall not be affected by subsection (d).
 
 &emsp;“(2) Notwithstanding any provision of law other than this paragraph, the reductions and cancellations in the student loan programs described in section 256(c) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 906(c)\] achieved by the order issued by the President on October 16, 1989, shall remain in effect through December 31, 1989, and no reductions or cancellations in such programs shall be made by the order issued under paragraph (4).
 
@@ -336,10 +336,6 @@ Pub. L. 99–349, title II, §202, July 2, 1986, 100 Stat. 748.
 Pub. L. 99–255, Mar. 7, 1986, 100 Stat. 39, as amended by Pub. L. 99–322, §1, May 23, 1986, 100 Stat. 494.
 
 Order of the President of the United States, Feb. 1, 1986, 51 F.R. 4291.
-
-#### Cross References
-
-Violent Crime Reduction Trust Fund, see section 14211 of Title 42, The Public Health and Welfare.
 
 #### Section Referred to in Other Sections
 

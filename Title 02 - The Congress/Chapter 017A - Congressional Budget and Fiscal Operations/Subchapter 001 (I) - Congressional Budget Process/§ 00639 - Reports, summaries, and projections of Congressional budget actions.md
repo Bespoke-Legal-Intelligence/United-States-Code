@@ -6,7 +6,7 @@
 
 &emsp;(A) comparing the levels in such measure to the appropriate allocations in the reports submitted under section 633(b) of this title for the most recently agreed to concurrent resolution on the budget for such fiscal year (or fiscal years);
 
-&emsp;(B) containing a projection by the Congressional Budget Office of how such measure will affect the levels of such budget authority, budget outlays, revenues, or tax expenditures under existing law for such fiscal year (or fiscal years) and each of the four ensuing fiscal years, if timely submitted before such report is filed; and
+&emsp;(B) containing a projection by the Congressional Budget Office of how such measure willaffect the levels of such budget authority, budget outlays, revenues, or tax expenditures under existing law for such fiscal year (or fiscal years) and each of the four ensuing fiscal years, if timely submitted before such report is filed; and
 
 &emsp;(C) containing an estimate by the Congressional Budget Office of the level of new budget authority for assistance to State and local governments provided by such measure, if timely submitted before such report is filed.
 
@@ -14,7 +14,7 @@
 
 #### (b) Up-to-date tabulations of Congressional budget action
 
-(1) The Director of the Congressional Budget Office shall issue to the committees of the House of Representatives and the Senate reportson at least a monthly basis detailing and tabulating the progress of congressional action on bills and joint resolutions providing new budget authority or providing an increase or decrease in revenues or tax expenditures for each fiscal year covered by a concurrent resolution on the budget. Such reports shall include but are not limited to an up-to-date tabulation comparing the appropriate aggregate and functional levels (including outlays) included in the most recently adopted concurrent resolution on the budget with the levels provided in bills and joint resolutions reported by committees or adopted by either House or by the Congress, and with the levels provided by law for the fiscal year preceding the first fiscal year covered by the appropriate concurrent resolution.
+(1) The Director of the Congressional Budget Office shall issue to the committees of the House of Representatives and the Senate reports on at least a monthly basis detailing and tabulating the progress of congressional action on bills and joint resolutions providing new budget authority or providing an increase or decrease in revenues or tax expenditures for each fiscal year covered by a concurrent resolution on the budget. Such reports shall include but are not limited to an up-to-date tabulation comparing the appropriate aggregate and functional levels (including outlays) included in the most recently adopted concurrent resolution on the budget with the levels provided in bills and joint resolutions reported by committees or adopted by either House or by the Congress, and with the levels provided by law for the fiscal year preceding the first fiscal year covered by the appropriate concurrent resolution.
 
 (2) The Committee on the Budget of each House shall make available to Members of its House summary budget scorekeeping reports. Such reports—
 

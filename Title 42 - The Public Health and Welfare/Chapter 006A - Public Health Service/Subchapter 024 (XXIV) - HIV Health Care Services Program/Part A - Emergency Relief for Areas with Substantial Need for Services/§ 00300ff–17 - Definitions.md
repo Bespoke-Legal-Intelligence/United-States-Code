@@ -8,7 +8,7 @@ For purposes of this part:
 
 #### (2) Metropolitan area
 
-&emsp;The term “metropolitan area” means an area referred to in the HIV/AIDS SurveillanceReport of the Centers for Disease Control and Prevention as a metropolitan area.
+&emsp;The term “metropolitan area” means an area referred to in the HIV/AIDS Surveillance Report of the Centers for Disease Control and Prevention as a metropolitan area.
 
 (July 1, 1944, ch. 373, title XXVI, §2607, as added Pub. L. 101–381, title I, §101(3), Aug. 18, 1990, 104 Stat. 585; amended Pub. L. 101–557, title IV, §401(b)(1), Nov. 15, 1990, 104 Stat. 2771; Pub. L. 102–531, title III, §312(d)(28), Oct. 27, 1992, 106 Stat. 3506; Pub. L. 104–146, §3(a)(3), May 20, 1996, 110 Stat. 1347.)
 

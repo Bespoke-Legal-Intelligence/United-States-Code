@@ -14,7 +14,7 @@ For the purpose of making grants under subsection (a) of this section, the Attor
 
 &emsp;(3) the State has in effect a policy that provides for the placement of all prisoners, whenever possible, in correctional facilities for which they qualify that are located closest to their respective family homes;
 
-&emsp;(4) unless the Attorney General determines that a longer timeline is appropriate in a particular case, the State will implement the project not later than 180 days after receiving a grant under subsection (a) of this sectionand will expend all of the grant during a 1-year period;
+&emsp;(4) unless the Attorney General determines that a longer timeline is appropriate in a particular case, the State will implement the project not later than 180 days after receiving a grant under subsection (a) of this section and will expend all of the grant during a 1-year period;
 
 &emsp;(5) the State has the capacity to continue implementing a community correctional facility beyond the funding period to ensure the continuity of the work;
 

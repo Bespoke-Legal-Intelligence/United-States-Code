@@ -16,11 +16,3 @@ Words “United States Senator” were added, as no reason appears for including
 
 Changes were made in phraseology.
 
-#### Cross References
-
-Amount in controversy immaterial in action under this section, see Historical and Revision Notes under section 1331 of this title.
-
-Diversity of citizenship immaterial in action under this section, see Historical and Revision Notes under section 1332 of this title.
-
-Jurisdiction of action for damages for injuries in voting, see section 1357 of this title.
-

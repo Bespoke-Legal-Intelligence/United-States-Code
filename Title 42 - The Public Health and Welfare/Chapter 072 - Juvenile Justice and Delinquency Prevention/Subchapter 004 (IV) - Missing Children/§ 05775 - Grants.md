@@ -16,7 +16,7 @@ The Administrator is authorized to make grants to and enter into contracts with 
 
 &emsp;&emsp;(B) the sexual exploitation of a missing child;
 
-&emsp;(5) to collect detailed data from selected States or localities on the actual investigative practices utilized by law enforcement agencies in missing children's cases;
+&emsp;(5) to collect detailed data from selected States or localities on the actual investigativepractices utilized by law enforcement agencies in missing children's cases;
 
 &emsp;(6) to address the particular needs of missing children by minimizing the negative impact of judicial and law enforcement procedures on children who are victims of abuse or sexual exploitation and by promoting the active participation of children and their families in cases involving abuse or sexual exploitation of children;
 

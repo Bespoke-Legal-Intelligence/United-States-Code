@@ -1,12 +1,8 @@
 ### SUBCHAPTER VIII—INDIANS IN OKLAHOMA: PROMOTION OF WELFARE
 
-#### Cross References
-
-Modoc Tribe and its members, applicability of this subchapter to, see section 861a of this title.
-
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 324, 443, 470a, 480, 482, 483, 861a, 1112, 1461 of this title.
+This subchapter is referred to in sections 324, 443, 470a, 480, 482, 483, 861a, 1041b, 1112, 1461 of this title.
 
 
 ---

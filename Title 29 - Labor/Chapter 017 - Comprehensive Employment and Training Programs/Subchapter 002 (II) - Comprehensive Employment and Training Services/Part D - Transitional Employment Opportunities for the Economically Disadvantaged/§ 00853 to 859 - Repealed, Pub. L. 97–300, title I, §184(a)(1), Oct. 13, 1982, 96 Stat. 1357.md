@@ -14,7 +14,3 @@ Section 858, Pub. L. 93–203, title II, §236, as added Pub. L. 95–524, §2, 
 
 Section 859, Pub. L. 93–203, title II, §237, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 1960, related to payment of wages to economically disadvantaged individuals employed in transitional public service employment.
 
-#### Effective Date of Repeal
-
-Section 184(a) of Pub. L. 97–300 provided that the repeal of these sections is effective Oct. 13, 1982.
-

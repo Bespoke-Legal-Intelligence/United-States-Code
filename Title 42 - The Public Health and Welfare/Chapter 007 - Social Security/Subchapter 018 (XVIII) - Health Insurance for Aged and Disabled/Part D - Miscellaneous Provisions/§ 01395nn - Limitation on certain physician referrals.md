@@ -80,7 +80,7 @@ Ownership of the following shall not be considered to be an ownership or investm
 
 &emsp;&emsp;(B) in a corporation that had, at the end of the corporation's most recent fiscal year, or on average during the previous 3 fiscal years, stockholder equity exceeding $75,000,000.
 
-&emsp;(2) Ownership of shares in a regulated investment company as defined in section 851(a) of the Internal Revenue Code of 1986, if such company had, at the end of the company's most recent fiscal year, or on average during the previous 3 fiscal years, total assets exceeding $75,000,000.
+&emsp;(2) Ownership of shares in a regulated investment company as defined in section 851(a) ofthe Internal Revenue Code of 1986, if such company had, at the end of the company's most recent fiscal year, or on average during the previous 3 fiscal years, total assets exceeding $75,000,000.
 
 #### (d) Additional exceptions related only to ownership or investment prohibition
 
@@ -138,7 +138,7 @@ The following shall not be considered to be a compensation arrangement described
 
 &emsp;&emsp;&emsp;(v) the lease would be commercially reasonable even if no referrals were made between the parties, and
 
-&emsp;&emsp;&emsp;(vi) the lease meets such other requirements as the Secretary may impose byregulation as needed to protect against program or patient abuse.
+&emsp;&emsp;&emsp;(vi) the lease meets such other requirements as the Secretary may impose by regulation as needed to protect against program or patient abuse.
 
 #### (2) Bona fide employment relationships
 
@@ -338,7 +338,7 @@ For purposes of this section:
 
 &emsp;&emsp;The term “group practice” means a group of 2 or more physicians legally organized as a partnership, professional corporation, foundation, not-for-profit corporation, faculty practice plan, or similar association—
 
-&emsp;&emsp;&emsp;(i) in which each physician who is a member of the group provides substantially the full range of services which thephysician routinely provides, including medical care, consultation, diagnosis, or treatment, through the joint use of shared office space, facilities, equipment and personnel,
+&emsp;&emsp;&emsp;(i) in which each physician who is a member of the group provides substantially the full range of services which the physician routinely provides, including medical care, consultation, diagnosis, or treatment, through the joint use of shared office space, facilities, equipment and personnel,
 
 &emsp;&emsp;&emsp;(ii) for which substantially all of the services of the physicians who are members of the group are provided through the group and are billed under a billing number assigned to the group and amounts so received are treated as receipts of the group,
 
@@ -358,7 +358,7 @@ For purposes of this section:
 
 #### (ii) Faculty practice plans
 
-&emsp;&emsp;&emsp;In the case of a faculty practice plan associated with a hospital, institution of higher education, or medical school with an approved medical residency training program in which physician members may provide a variety of different specialty services and provide professional services both within and outside the group, as well as perform other tasks such as research, subparagraph (A) shall be applied only with respect to the services provided within the faculty practice plan.
+&emsp;&emsp;&emsp;In the case of a faculty practice plan associated with a hospital, institution ofhigher education, or medical school with an approved medical residency training program in which physician members may provide a variety of different specialty services and provide professional services both within and outside the group, as well as perform other tasks such as research, subparagraph (A) shall be applied only with respect to the services provided within the faculty practice plan.
 
 #### (5) Referral; referring physician
 
@@ -416,7 +416,7 @@ Part B of this subchapter, referred to in subsec. (h)(5)(A), is classified to se
 
 #### Prior Provisions
 
-A prior section 1395nn, act Aug. 14, 1935, ch. 531, title XVIII, §1877, as added and amended Oct. 30, 1972, Pub.L. 92–603, title II, §§242(b), 278(b)(8), 86 Stat. 1419, 1454; Oct. 25, 1977, Pub. L. 95–142, §4(a), 91 Stat. 1179; Dec. 5, 1980, Pub. L. 96–499, title IX, §917, 94 Stat. 2625; July 18, 1984, Pub. L. 98–369, div. B, title III, §2306(f)(2), 98 Stat. 1073; Oct. 21, 1986, Pub. L. 99–509, title IX, §9321(a)(1), 100 Stat. 2016; Aug. 18, 1987, Pub. L. 100–93, §4(c), 101 Stat. 689, enumerated offenses relating to the Medicare program and penalties for such offenses, prior to repeal by Pub. L. 100–93, §§4(e), 15(a), Aug. 18, 1987, 101 Stat. 689, 698, effective at end of fourteen-day period beginning Aug. 18, 1987, and inapplicable to administrative proceedings commenced before end of such period.
+A prior section 1395nn, act Aug. 14, 1935, ch. 531, title XVIII, §1877, as added and amended Oct. 30, 1972, Pub. L. 92–603, title II, §§242(b), 278(b)(8), 86 Stat. 1419, 1454; Oct. 25, 1977, Pub. L. 95–142, §4(a), 91 Stat. 1179; Dec. 5, 1980, Pub. L. 96–499, title IX, §917, 94 Stat. 2625; July 18, 1984, Pub. L. 98–369, div. B, title III, §2306(f)(2), 98 Stat. 1073; Oct. 21, 1986, Pub. L. 99–509, title IX, §9321(a)(1), 100 Stat. 2016; Aug. 18, 1987, Pub. L. 100–93, §4(c), 101 Stat. 689, enumerated offenses relating to the Medicare program and penalties for such offenses, prior to repeal by Pub. L. 100–93, §§4(e), 15(a), Aug. 18, 1987, 101 Stat. 689, 698, effective at end of fourteen-day period beginning Aug. 18, 1987, and inapplicable to administrative proceedings commenced before end of such period.
 
 #### Amendments
 
@@ -520,7 +520,7 @@ Section 6204(f) of Pub. L. 101–239, as amended by Pub. L. 101–508, title IV,
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1396b of this title.
+This section is referred to in section 1396b of this title; title 21 section 823.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

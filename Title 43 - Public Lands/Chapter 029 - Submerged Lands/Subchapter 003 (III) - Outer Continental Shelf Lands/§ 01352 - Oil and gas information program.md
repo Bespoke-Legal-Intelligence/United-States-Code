@@ -12,7 +12,7 @@
 
 &emsp;(ii) by a lessee, in such other form and manner of processing as the Secretary may request, the Secretary shall pay the reasonable cost of processing and reproducing such data and information;
 
-&emsp;(iii) by a permittee, in the form and manner of processing which is utilized by such permittee in the normal conduct of his business, the Secretary shall pay such permittee the reasonable cost of reproducing such data and information for the Secretary and shall pay at thelowest rate available to any purchaser for processing such data and information the costs attributable to such processing; and
+&emsp;(iii) by a permittee, in the form and manner of processing which is utilized by such permittee in the normal conduct of his business, the Secretary shall pay such permittee the reasonable cost of reproducing such data and information for the Secretary and shall pay at the lowest rate available to any purchaser for processing such data and information the costs attributable to such processing; and
 
 &emsp;(iv) by a permittee, in such other form and manner of processing as the Secretary may request, the Secretary shall pay such permittee the reasonable cost of processing and reproducing such data and information for the Secretary,
 
@@ -48,7 +48,7 @@ Prior to transmitting any privileged information to any State, or granting such 
 
 #### (f) Civil action against United States or State for failure to maintain confidentiality of information; certain defenses unavailable
 
-(1) Whenever any employee of the Federal Government or of any State reveals information in violation of the regulations prescribed pursuant to subsection (c) of this section, the lessee or permittee who supplied such information to the Secretary or to any other Federal official, and any person to whom such lessee or permittee has sold such information under promise of confidentiality, may commence a civil action for damages in the appropriate district court of the United States against the Federal Government or such State, as the case may be.
+(1) Whenever any employee of the Federal Government or of any State reveals information in violation of the regulations prescribed pursuant to subsection (c) of this section, the lesseeor permittee who supplied such information to the Secretary or to any other Federal official, and any person to whom such lessee or permittee has sold such information under promise of confidentiality, may commence a civil action for damages in the appropriate district court of the United States against the Federal Government or such State, as the case may be.
 
 (2) In any action commenced against the Federal Government or a State pursuant to paragraph (1) of this subsection, the Federal Government or such State, as the case may be, may not raise as a defense (A) any claim of sovereign immunity, or (B) any claim that the employee who revealed the privileged information which is the basis of such suit was acting outside the scope of his employment in revealing such information.
 

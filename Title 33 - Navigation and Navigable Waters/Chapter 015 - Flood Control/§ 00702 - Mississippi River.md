@@ -1,6 +1,6 @@
 ### §702. Mississippi River
 
-<i>Authorization of flood-control work</i>—For controlling the floods of the Mississippi River and continuing its improvement from the Head of the Passes to the mouth of the Ohio River the Secretary of the Army is empowered, authorized, and directed to carry on continuously, by hired labor or otherwise, the plans of the Mississippi River Commission, prior to March 3,1923, or thereafter adopted, to be paid for as appropriations may from time to time be made by law.
+<i>Authorization of flood-control work</i>—For controlling the floods of the Mississippi River and continuing its improvement from the Head of the Passes to the mouth of the Ohio River the Secretary of the Army is empowered, authorized, and directed to carry on continuously, by hired labor or otherwise, the plans of the Mississippi River Commission, prior to March 3, 1923, or thereafter adopted, to be paid for as appropriations may from time to time be made by law.
 
 <i>Allotments for improvement of watercourses connected with Mississippi River</i>—The watercourses connected with the Mississippi River to such extent as may be necessary to exclude the flood waters from the upper limits of any delta basin, together with the Ohio River from its mouth to the mouth of the Cache River, may, in the discretion of said commission, receive allotments for improvements under way March 1, 1917, or thereafter to be undertaken.
 
@@ -19,8 +19,4 @@ Sections 2 and 3 of act Mar. 1, 1917, are classified to sections 703 and 701, re
 #### Change of Name
 
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
-
-#### Cross References
-
-Classification as trust funds, appropriation and disbursement of funds contributed for flood control, see section 1321 of Title 31, Money and Finance.
 

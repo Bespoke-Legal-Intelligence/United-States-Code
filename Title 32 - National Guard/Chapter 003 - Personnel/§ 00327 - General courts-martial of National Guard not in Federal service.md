@@ -44,15 +44,3 @@ In subsection (b), the words “A general court-martial may sentence to—” ar
 
 1988—Subsec. (a). Pub. L. 100–456 substituted “Territory or Puerto Rico” for “Territory, Puerto Rico, or the Canal Zone,”.
 
-#### Cross References
-
-Uniform Code of Military Justice—
-
-&emsp;&emsp;Generally, see section 801 et seq. of Title 10, Armed Forces.
-
-&emsp;&emsp;Convening general courts-martial, see section 822 of Title 10.
-
-&emsp;&emsp;Jurisdiction of general courts-martial, see section 818 of Title 10.
-
-&emsp;&emsp;Sentences, generally, see sections 855 to 858a of Title 10.
-

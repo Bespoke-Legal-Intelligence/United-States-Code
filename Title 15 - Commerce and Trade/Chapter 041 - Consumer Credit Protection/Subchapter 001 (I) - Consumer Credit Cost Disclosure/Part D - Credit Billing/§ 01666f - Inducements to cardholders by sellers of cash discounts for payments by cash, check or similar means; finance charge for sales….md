@@ -8,7 +8,7 @@ With respect to credit card which may be used for extensions of credit in sales 
 
 With respect to any sales transaction, any discount from the regular price offered by the seller for the purpose of inducing payment by cash, checks, or other means not involving the use of an open-end credit plan or a credit card shall not constitute a finance charge as determined under section 1605 of this title if such discount is offered to all prospective buyers and its availability is disclosed clearly and conspicuously.
 
-(Pub. L. 90–321, title I, §167, as added Pub. L. 93–495, title III, §306, Oct. 28, 1974, 88 Stat. 1515; amended Pub. L. 94–222, §3(c)(1), Feb. 27, 1976, 90 Stat. 197; Pub. L. 97–25, title I, §101, July 27, 1981, 95 Stat. 144.)
+(Pub. L. 90–321, title I, §167, as added Pub. L. 93–495, title III, §306, Oct. 28, 1974, 88 Stat. 1515;amended Pub. L. 94–222, §3(c)(1), Feb. 27, 1976, 90 Stat. 197; Pub. L. 97–25, title I, §101, July 27, 1981, 95 Stat. 144.)
 
 #### Amendments
 

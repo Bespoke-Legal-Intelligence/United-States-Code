@@ -133,7 +133,7 @@
 | [1674\.](Subchapter%20003%20%28III%29%20-%20Extension%20Programs/%C2%A7%2001674%20-%20Renewable%20Resources%20Extension%20Program%20plan.md) | Renewable Resources Extension Program plan. |
 | (a) | Preparation and submission to Congress; purposes; contents. |
 | (b) | Considerations governing preparation. |
-| (c) | Annual report to Congress. |
+| (c) | Omitted. |
 | (d) | Review of activities and evaluation of progress. |
 | [1674a.](Subchapter%20003%20%28III%29%20-%20Extension%20Programs/%C2%A7%2001674a%20-%20Expanded%20programs.md) | Expanded programs. |
 | (a) | In general. |

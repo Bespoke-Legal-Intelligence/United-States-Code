@@ -2,7 +2,7 @@
 
 #### (a) Objectives and establishments
 
-In order to provide for public outdoor recreation use, including fishing and hunting, in a natural setting, and the enjoyment of certainareas within the Mark Twain National Forest, to protect those areas’ natural, archaeological, and scenic resources, and to provide for appropriate resource management of those areas, there is hereby established the Greer Spring Special Management Area (hereinafter referred to as “the special management area”). The Secretary shall manage the special management area in accordance with this Act, and with provisions of law generally applicable to units of the National Forest System to the extent consistent with this Act.
+In order to provide for public outdoor recreation use, including fishing and hunting, in a natural setting, and the enjoyment of certain areas within the Mark Twain National Forest, to protect those areas’ natural, archaeological, and scenic resources, and to provide for appropriate resource management of those areas, there is hereby established the Greer Spring Special Management Area (hereinafter referred to as “the special management area”). The Secretary shall manage the special management area in accordance with this Act, and with provisions of law generally applicable to units of the National Forest System to the extent consistent with this Act.
 
 #### (b) Area included
 
@@ -30,9 +30,7 @@ The Secretary shall construct and maintain only those roads within the special m
 
 This Act, referred to in subsec. (a), is Pub. L. 102–220, Dec. 11, 1991, 105 Stat. 1674, known as the Greer Spring Acquisition and Protection Act of 1991, which enacted this section and provisions set out below. For complete classification of this Act to the Code, see section 1 of Pub. L. 102–220, set out below, and Tables.
 
-The mining laws of the United States, referred to in subsec. (e), are classified generally to Title 30, Mineral Lands and Mining.
-
-Mineral leasing laws of the United States, referred to in subsec. (e), have been defined in sections 351, 505, 530, and 541e of Title 30, to mean acts Oct. 20, 1914, ch. 330, 38 Stat. 741; Feb. 25, 1920, ch. 85, 41 Stat. 437; Apr. 17, 1926, ch. 158, 44 Stat. 301; and Feb. 7, 1927, ch. 66, 44 Stat. 1057. The act of Oct. 20, 1914, was repealed by Pub. L. 86–252, §1, Sept. 9, 1959, 73 Stat. 490. The act of Feb. 25, 1920, is known as the Mineral Leasing Act and is classified generally to chapter 3A (§181 et seq.) of Title 30. The act of Apr. 17, 1926, is classified generally to subchapter VIII (§271 et seq.) of chapter 3A of Title 30. The act of Feb. 7, 1927, is classified principally to subchapter IX (§281 et seq.) of chapter 3A of Title 30. For complete classification of these Acts to the Code, see Tables.
+The mining laws and the mineral leasing laws of the United States, referred to in subsec. (e), are classified generally to Title 30, Mineral Lands and Mining.
 
 Geothermal leasing laws of the United States, referred to in subsec. (e), are classified principally to chapter 23 (§1001 et seq.) of Title 30.
 
@@ -46,7 +44,7 @@ Sections 1 to 3 and 5 of Pub. L. 102–220 provided that:
 
 #### “SEC. 2. ACQUISITION OF THE DENNIG TRACT.
 
-“(a) The Secretary of Agriculture (hereinafter referred to as the ‘Secretary’) is hereby authorized and directed, subject to appropriations, to acquire all of the lands, waters, and interests therein, on a willing seller basis only, within the area generally depicted on a map entitled ‘Dennig Tract’, dated November 5, 1991 (hereinafter referred to as ‘the map’). The map, together with a legal description of such lands, shall be on file and available for public inspection in the offices of the Forest Service, Department of Agriculture. The boundaries of the Mark Twain National Forest are hereby modified to include the area denoted ‘Dennig Property Outside of National Forest Boundary’ on the map. Such map and legal description shall have the same force and effect as if included in this Act, except that the correction of clerical and typographical errors in such map and legal description may be made by the Secretary.
+“(a) The Secretary of Agriculture (hereinafter referred to as the ‘Secretary’) is hereby authorized anddirected, subject to appropriations, to acquire all of the lands, waters, and interests therein, on a willing seller basis only, within the area generally depicted on a map entitled ‘Dennig Tract’, dated November 5, 1991 (hereinafter referred to as ‘the map’). The map, together with a legal description of such lands, shall be on file and available for public inspection in the offices of the Forest Service, Department of Agriculture. The boundaries of the Mark Twain National Forest are hereby modified to include the area denoted ‘Dennig Property Outside of National Forest Boundary’ on the map. Such map and legal description shall have the same force and effect as if included in this Act, except that the correction of clerical and typographical errors in such map and legal description may be made by the Secretary.
 
 “(b) Such modified boundaries shall be considered as the boundaries in existence as of January 1, 1965, for the purposes of section 7 of the Land and Water Conservation Fund Act (16 U.S.C. 460<i>l</i>–9).
 

@@ -8,7 +8,7 @@ For the purpose of securing the uninterrupted work of operating snag boats on th
 
 Section is from the Rivers and Harbors Appropriation Act of 1890, act Sept. 19, 1890, as amended by act June 3, 1896.
 
-The section, as originally enacted, limited the amount to be drawn for the work, by the words “not to exceed in the aggregate for each year the sum of twenty-five thousand dollars.” It was amended by act June 3, 1896 by inserting the words “fifty thousand dollars” for the words “twenty-five thousand dollars” therein.
+The section, as originally enacted, limited the amount to be drawn for the work, by the words “not toexceed in the aggregate for each year the sum of twenty-five thousand dollars.” It was amended by act June 3, 1896 by inserting the words “fifty thousand dollars” for the words “twenty-five thousand dollars” therein.
 
 #### Amendments
 

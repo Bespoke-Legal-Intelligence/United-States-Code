@@ -1,6 +1,6 @@
 ### §1441. Constructive residence through service on certain United States vessels
 
-Any periods of time during all of which a person who was previously lawfully admitted for permanent residence has served honorably or with good conduct, in any capacity other than as a member of the Armed Forces of the United States, (A) on board a vessel operated by the United States, or an agency thereof, the full legal and equitable title to which is in the United States; or (B) on board a vessel whose home port is in the United States, and (i) which is registered under the laws of the United States, or (ii) the full legal and equitable title to which is in a citizen of the United States, or a corporation organized under the laws of any of the several States of the United States, shall be deemed residence and physical presence within the United States within the meaning of section 1427(a) of this title, if such service occurred within five years immediately preceding the date such person shall file an application fornaturalization. Service on vessels described in clause (A) of this section shall be proved by duly authenticated copies of the records of the executive departments or agency having custody of the records of such service. Service on vessels described in clause (B) of this section may be proved by certificates from the masters of such vessels.
+Any periods of time during all of which a person who was previously lawfully admitted for permanent residence has served honorably or with good conduct, in any capacity other than as a member of the Armed Forces of the United States, (A) on board a vessel operated by the United States, or an agency thereof, the full legal and equitable title to which is in the United States; or (B) on board a vessel whose home port is in the United States, and (i) which is registered under the laws of the United States, or (ii) the full legal and equitable title to which is in a citizen of the United States, or a corporation organized under the laws of any of the several States of the United States, shall be deemed residence and physical presence within the United States within the meaning of section 1427(a) of this title, if such service occurred within five years immediately preceding the date such person shall file an application for naturalization. Service on vessels described in clause (A) of this section shall be proved by duly authenticated copies of the records of the executive departments or agency having custody of the records of such service. Service on vessels described in clause (B) of this section may be proved by certificates from the masters of such vessels.
 
 (June 27, 1952, ch. 477, title III, ch. 2, §330, 66 Stat. 251; Pub. L. 100–525, §9(z), Oct. 24, 1988, 102 Stat. 2621; Pub. L. 101–649, title IV, §407(c)(12), Nov. 29, 1990, 104 Stat. 5041; Pub. L. 102–232, title III, §305(m)(5), Dec. 12, 1991, 105 Stat. 1750.)
 
@@ -21,16 +21,4 @@ Any periods of time during all of which a person who was previously lawfully adm
 #### Effective Date of 1991 Amendment
 
 Section 305(m) of Pub. L. 102–232 provided that the amendment made by that section is effective as if included in section 407(d) of the Immigration Act of 1990, Pub. L. 101–649.
-
-#### Cross References
-
-Definition of the term—
-
-&emsp;&emsp;Lawfully admitted for permanent residence, see section 1101(a)(20) of this title.
-
-&emsp;&emsp;Naturalization, see section 1101(a)(23) of this title.
-
-&emsp;&emsp;Residence, see section 1101(a)(33) of this title.
-
-&emsp;&emsp;United States, see section 1101(a)(38) of this title.
 

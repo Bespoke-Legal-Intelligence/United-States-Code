@@ -34,7 +34,7 @@ Authority To Sell Outside DOD.—Regulations under section 2208(h) of this title
 
 Additional Requirements.—The regulations shall also—
 
-&emsp;(1) require that the authority to sell articles or services under the regulations be exercised at the level of the commander of the major subordinate command of the Army with responsibility over the facility concerned;
+&emsp;(1) require that the authority to sell articles or services under the regulations be exercisedat the level of the commander of the major subordinate command of the Army with responsibility over the facility concerned;
 
 &emsp;(2) authorize a purchaser of articles or services to use advance incremental funding to pay for the articles or services; and
 
@@ -110,7 +110,7 @@ Review by Inspector General.—The Inspector General of the Department of Defens
 
 &emsp;“(5) Any other information that the Inspector General considers pertinent regarding the effects of the waiver of section 4543(a)(5) of title 10, United States Code, under the pilot program on opportunities for United States manufacturers, assemblers, developers, or other concerns, and for Army industrial facilities, to enter into or participate in contracts and teaming arrangements under weapon system programs of the Department of Defense.
 
-&emsp;“(6) Any recommendations that the Inspector General considers appropriate regarding continuation or modification of the policy set forth in section 4543(a)(5) of title 10, United States Code.
+&emsp;“(6) Any recommendations that the Inspector General considers appropriate regarding continuation ormodification of the policy set forth in section 4543(a)(5) of title 10, United States Code.
 
 “(d)
 
@@ -118,5 +118,5 @@ Update of Report.—Not later than March 1, 2001, the Inspector General of the D
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2208, 2553 of this title.
+This section is referred to in sections 2208, 2563 of this title.
 

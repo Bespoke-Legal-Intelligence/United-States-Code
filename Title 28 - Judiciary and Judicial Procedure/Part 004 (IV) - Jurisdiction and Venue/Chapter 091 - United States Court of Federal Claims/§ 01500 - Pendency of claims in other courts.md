@@ -2,7 +2,7 @@
 
 The United States Court of Federal Claims shall not have jurisdiction of any claim for or in respect to which the plaintiff or his assignee has pending in any other court any suit or process against the United States or any person who, at the time when the cause of action alleged in such suit or process arose, was, in respect thereto, acting or professing to act, directly or indirectly under the authority of the United States.
 
-(June 25, 1948, ch. 646, 62 Stat. 942; Pub. L. 97–164, title I, §133(e)(1), Apr. 2, 1982, 96 Stat. 40; Pub. L.102–572, title IX, §902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
+(June 25, 1948, ch. 646, 62 Stat. 942; Pub. L. 97–164, title I, §133(e)(1), Apr. 2, 1982, 96 Stat. 40; Pub. L. 102–572, title IX, §902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 #### Historical and Revision Notes
 
@@ -14,9 +14,9 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1992—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1992</b>—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-1982—Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims”.
+<b>1982</b>—Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims”.
 
 #### Effective Date of 1992 Amendment
 

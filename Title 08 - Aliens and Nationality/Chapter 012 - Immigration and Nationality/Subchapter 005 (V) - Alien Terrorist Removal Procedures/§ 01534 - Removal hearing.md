@@ -114,7 +114,7 @@ An alien who is the subject of a removal hearing under this subchapter shall be 
 
 &emsp;&emsp;If a judge makes the findings described in subparagraph (D)(iii)—
 
-&emsp;&emsp;&emsp;(i) if the alien involved is an alien lawfully admitted for permanent residence, the procedures described in subparagraph (F) shall apply; and
+&emsp;&emsp;&emsp;(i) if the alien involved is an alien lawfully admitted for permanent residence,the procedures described in subparagraph (F) shall apply; and
 
 &emsp;&emsp;&emsp;(ii) in all cases the special removal hearing shall continue, the Department of Justice shall cause to be delivered to the alien a statement that no summary is possible, and the classified information submitted in camera and ex parte may be used pursuant to this paragraph.
 
@@ -188,7 +188,7 @@ Section 1254a(e) of this title, referred to in subsec. (k)(4), was in the origin
 
 Pub. L. 104–208, §354(b)(1)(A)(i), inserted “the Government is authorized to use in a removal proceedings the fruits of electronic surveillance and unconsented physical searches authorized under the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.) without regard to subsections (c), (e), (f), (g), and (h) of section 106 of that Act and” before “discovery of information”.
 
-Subsec. (e)(3)(A). Pub. L. 104–208, §354(b)(1)(B), substituted “and neither the alien nor the public shall beinformed of such evidence or its sources other than through reference to the summary provided pursuant to this paragraph. Notwithstanding the previous sentence, the Department of Justice may, in its discretion and, in the case of classified information, after coordination with the originating agency, elect to introduce such evidence in open session.” for period at end.
+Subsec. (e)(3)(A). Pub. L. 104–208, §354(b)(1)(B), substituted “and neither the alien nor the public shall be informed of such evidence or its sources other than through reference to the summary provided pursuant to this paragraph. Notwithstanding the previous sentence, the Department of Justice may, in its discretion and, in the case of classified information, after coordination with the originating agency, elect to introduce such evidence in open session.” for period at end.
 
 Subsec. (e)(3)(D)(ii). Pub. L. 104–208, §354(a)(1)(A), inserted “unless the judge makes the findings under clause (iii)” before period at end.
 

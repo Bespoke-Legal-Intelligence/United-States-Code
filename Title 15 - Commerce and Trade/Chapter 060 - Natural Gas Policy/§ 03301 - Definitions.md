@@ -26,7 +26,7 @@ For purposes of this chapter—
 
 #### (A) General rule
 
-&emsp;&emsp;The term “marker well” means any well from which natural gas was produced incommercial quantities at any time after January 1, 1970, and before April 20, 1977.
+&emsp;&emsp;The term “marker well” means any well from which natural gas was produced in commercial quantities at any time after January 1, 1970, and before April 20, 1977.
 
 #### (B) New wells
 
@@ -104,7 +104,7 @@ For purposes of this chapter—
 
 &emsp;&emsp;&emsp;(i) natural gas which is from the Outer Continental Shelf; and
 
-&emsp;&emsp;&emsp;(ii) natural gas which, if sold, would be required to be sold in interstate commerce (within the meaning of the Natural Gas Act \[15 U.S.C. 717 et seq.\]) under the terms of any contract, any certificate under theNatural Gas Act, or any provision of such Act.
+&emsp;&emsp;&emsp;(ii) natural gas which, if sold, would be required to be sold in interstate commerce (within the meaning of the Natural Gas Act \[15 U.S.C. 717 et seq.\]) under the terms of any contract, any certificate under the Natural Gas Act, or any provision of such Act.
 
 #### (B) Exclusion
 
@@ -130,7 +130,7 @@ For purposes of this chapter—
 
 #### (19) Certificated natural gas
 
-&emsp;The term “certificated natural gas” means natural gas transported by any interstate pipeline in a facility for which there is in effect a certificate issued under section 7(c) of the Natural Gas Act \[15 U.S.C. 717f(c)\]. Such term does not include natural gas sold to the user by the producer and transported pursuant to a certificate which is specifically issued under section 7(c) of the Natural Gas Act for the transportation of that natural gas, for such user unless such natural gas is used for the generation of electricity.
+&emsp;The term “certificated natural gas” means natural gas transported by any interstate pipeline in a facility for which there is in effect a certificate issued under section 7(c) of the Natural Gas Act \[15 U.S.C. 717f(c)\]. Such term does not include natural gas sold to the user by the producer and transported pursuant to a certificate which is specifically issuedunder section 7(c) of the Natural Gas Act for the transportation of that natural gas, for such user unless such natural gas is used for the generation of electricity.
 
 #### (20) Sale
 
@@ -228,7 +228,7 @@ The Natural Gas Act, and such Act, referred to in pars. (15), (16), (18)(A)(ii),
 
 Section 6 of the Emergency Natural Gas Act of 1977, referred to in par. (18)(B)(i)(I), is Pub. L. 95–2, §6, Feb. 2, 1977, 91 Stat. 7, which was formerly set out in a note under section 717 of this title.
 
-The Sherman Act (15 U.S.C. 1 et seq.), referred to in par. (37), is act July 2, 1890, ch. 647, 26 Stat. 209, as amended, which is classified to sections 1 to 7 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1 of this title and Tables.
+The Sherman Act (15 U.S.C. 1 et seq.), referred to in par. (37), is act July 2, 1890, ch. 647, 26 Stat. 209, as amended, which is classified to sections 1 to 7 of thistitle. For complete classification of this Act to the Code, see Short Title note set out under section 1 of this title and Tables.
 
 The Clayton Act (15 U.S.C. 12, 13, 14–19, 20, 21, 22–27), referred to in par. (37), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, as amended, which is classified generally to sections 12, 13, 14 to 19, 20, 21, and 22 to 27 of this title, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under section 12 of this title and Tables.
 

@@ -30,6 +30,10 @@ The Congress finds and declares that:
 
 1986—Par. (10). Pub. L. 99–502 inserted “, which include inventions, computer software, and training technologies,”.
 
+#### Short Title of 2000 Amendment
+
+Pub. L. 106–404, §1, Nov. 1, 2000, 114 Stat. 1742, provided that: “This Act \[enacting section 7261c of Title 42, The Public Health and Welfare, amending sections 3703, 3704, 3707, 3710, 3710a, 3710c, 3714, and 3715 of this title and sections 200, 202, 207, and 209 of Title 35, Patents, and enacting provisions set out as notes under this section and section 3710a of this title\] may be cited as the ‘Technology Transfer Commercialization Act of 2000’.”
+
 #### Short Title of 1996 Amendment
 
 Pub. L. 104–113, §1, Mar. 7, 1996, 110 Stat. 775, provided that: “This Act \[amending sections 272, 278, 278e, 278g–2, 3710, 3710a, 3710c, 3710d, 5401, 5402, 5404 to 5406, 5408, 5409, and 5412 of this title and section 210 of Title 35, Patents, repealing sections 5403 and 5413 of this title, and enacting provisions set out as notes under this section and sections 272 and 275 of this title\] may be cited as the ‘National Technology Transfer and Advancement Act of 1995’.”
@@ -61,6 +65,22 @@ Pub. L. 99–382, §1, Aug. 14, 1986, 100 Stat. 811, provided: “That this Act 
 #### Short Title
 
 Section 1 of Pub. L. 96–480 provided: “That this Act \[enacting this chapter\] may be cited as the ‘Stevenson-Wydler Technology Innovation Act of 1980’.”
+
+#### Congressional Findings; 2000 Amendment
+
+Pub. L. 106–404, §2, Nov. 1, 2000, 114 Stat. 1742, provided that: “The Congress finds that—
+
+&emsp;“(1) the importance of linking our unparalleled network of over 700 Federal laboratories and our Nation's universities with United States industry continues to hold great promise for our future economic prosperity;
+
+&emsp;“(2) the enactment of the Bayh-Dole Act \[35 U.S.C. 200 et seq.\] in 1980 was a landmark change in United States technology policy, and its success provides a framework for removing bureaucratic barriers and for simplifying the granting of licenses for inventions that are now in the Federal Government's patent portfolio;
+
+&emsp;“(3) Congress has demonstrated a commitment over the past 2 decades to fostering technology transfer from our Federal laboratories and to promoting public/private sector partnerships to enhance our international competitiveness;
+
+&emsp;“(4) Federal technology transfer activities have strengthened the ability of United States industry to compete in the global marketplace; developed a new paradigm for greater collaboration among the scientific enterprises that conduct our Nation's research and development—government, industry, and universities; and improved the quality of life for the American people, from medicine to materials;
+
+&emsp;“(5) the technology transfer process must be made ‘industry friendly’ for companies to be willing to invest the significant time and resources needed to develop new products, processes, and jobs using federally funded inventions; and
+
+&emsp;“(6) Federal technology licensing procedures should balance the public policy needs of adequately protecting the rights of the public, encouraging companies to develop existing government inventions, and making the entire system of licensing government technologies more consistent and simple.”
 
 #### Congressional Findings; 1996 Amendment
 
@@ -230,7 +250,7 @@ Pub. L. 102–245, title V, §508, Feb. 14, 1992, 106 Stat. 29, provided that:
 
 “(a)
 
-Contract With National Research Council.—Within 90 days after the date of enactment of this Act \[Feb. 14, 1992\] and within available appropriations, the Secretary shall enter into a contract with the National Research Council for a thorough review of international product testing and certification issues. The National Research Council will be asked to address thefollowing issues and make recommendations as appropriate:
+Contract With National Research Council.—Within 90 days after the date of enactment of this Act \[Feb. 14, 1992\] and within available appropriations, the Secretary shall enter into a contract with the National Research Council for a thorough review of international product testing and certification issues. The National Research Council will be asked to address the following issues and make recommendations as appropriate:
 
 &emsp;“(1) The impact on United States manufacturers, testing and certification laboratories, certification organizations, and other affected bodies of the European Community's plans for testing and certification of regulated and nonregulated products of non-European origin.
 
@@ -277,4 +297,48 @@ Purposes.—The purposes of this part \[part C (§§3131–3133) of title XXXI o
 &emsp;“(1) enhance United States national security by promoting technology transfer between Government-owned, contractor-operated laboratories and the private sector in the United States; and
 
 &emsp;“(2) enhance collaboration between universities, the private sector, and Government-owned, contractor-operated laboratories in order to foster the development of technologies in areas of significant economic potential.”
+
+#### Ex. Ord. No. 13185. To Strengthen the Federal Government-University Research Partnership
+
+Ex. Ord. No. 13185, Dec. 28, 2000, 66 F.R. 701, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to keep the Federal Government-University research partnership strong, it is hereby ordered as follows:
+
+Section 1. <i>Principles of the Government-University Partnership</i>. The partnership in science and technology that has evolved between the Federal Government and American universities has yielded benefits that are vital to each. It continues to prove exceptionally productive, successfully promoting the discovery of knowledge, stimulating technological innovation, improving the quality of life, educating and training the next generation of scientists and engineers, and contributing to America's economic prosperity and national security. In order to reaffirm and strengthen this partnership, this order sets forth the following guiding and operating principles that are fully described in the April 1999 National Science and Technology Council report, “Renewing the Government-University Partnership.” These principles shall provide the framework for the development and analysis of all future Federal policies, rules, and regulations for the Federal Government-University research partnership.
+
+(a) The guiding principles that shall govern interactions between the Federal Government and universities that perform research are:
+
+(1) Research is an investment in the future;
+
+(2) The integration of research and education is vital;
+
+(3) Excellence is promoted when investments are guided by merit review; and
+
+(4) Research must be conducted with integrity.
+
+(b) The operating principles that shall assist agencies, universities, individual researchers, and auditing and regulatory bodies in implementing the guiding principles are:
+
+(1) Agency cost-sharing policies and practices must be transparent;
+
+(2) Partners should respect the merit review process;
+
+(3) Agencies and universities should manage research in a cost-efficient manner;
+
+(4) Accountability and accounting are not the same;
+
+(5) The benefits of simplicity in policies and practices should be weighed against the costs;
+
+(6) Change should be justified by need and the process made transparent.
+
+(c) Each executive branch department or agency that supports research at universities shall regularly review its existing policies and procedures to ensure that they meet the spirit and intent of the guiding and operating principles stated above.
+
+Sec. 2. <i>Office of Science and Technology (OSTP) Review of the Government-University Research Partnership</i>. (a) The OSTP, in conjunction with the National Science and Technology Council, shall conduct a regular review of the Government-University research partnership and prepare a report on the status of the partnership. The OSTP should receive input from all departments or agencies that have a major impact on the Government-University partnership through their support of research and education, policy making, regulatory activities, and research administration. In addition, OSTP may seek the input of the National Science Board and the President's Committee of Advisors for Science and Technology, as well as other stakeholders, such as State and local governments, industry, the National Academy of Sciences, and the Federal Demonstration Partnership.
+
+(b) The purpose of the review and the report is to determine the overall health of the Government-University research partnership, being mindful of the guiding and operating principles stated above. The report should include recommendations on how to improve the Government-University partnership.
+
+(c) The Director of OSTP shall deliver the report to the President.
+
+Sec. 3. <i>Judicial Review</i>. This order does not create any enforceable rights against the United States, its agencies, its officers, or any person.
+
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -14,7 +14,3 @@ Venue provisions of section 112 of title 28, U.S.C., 1940 ed., appear in section
 
 Changes were made in phraseology.
 
-#### Cross References
-
-Venue in stockholder's derivative action, see section 1401 of this title.
-

@@ -82,7 +82,7 @@ Eligibility.—A jurisdiction shall be eligible to receive a grant only if it ha
 
 Subsec. (c)(1). Pub. L. 102–550, §606(d)(3), added par. (1) and struck out former par. (1) which read as follows: “
 
-In general.—90 percent of the amounts approved in appropriations Acts under section 12912 of this title shall be allocated among eligible grantees on the basis of the incidence of acquired immunodeficiency syndrome. Of the amounts made available under the previous sentence, the Secretary shall allocate—
+In general.—90 percent of the amounts approved inappropriations Acts under section 12912 of this title shall be allocated among eligible grantees on the basis of the incidence of acquired immunodeficiency syndrome. Of the amounts made available under the previous sentence, the Secretary shall allocate—
 
 &emsp;“(A) 75 percent among units of general local government located in metropolitan statistical areas with populations in excess of 500,000 and more than 1,500 cases of acquired immunodeficiency syndrome and States with more than 1,500 cases of acquired immunodeficiency syndrome outside of metropolitan statistical areas described in subparagraph (A), and
 

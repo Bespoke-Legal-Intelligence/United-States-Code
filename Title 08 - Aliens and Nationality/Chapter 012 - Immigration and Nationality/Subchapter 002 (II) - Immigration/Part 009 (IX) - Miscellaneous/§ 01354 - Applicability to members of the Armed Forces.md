@@ -4,7 +4,3 @@ Nothing contained in this subchapter shall be construed so as to limit, restrict
 
 (June 27, 1952, ch. 477, title II, ch. 9, §284, 66 Stat. 232.)
 
-#### Cross References
-
-Definition of alien and United States, see section 1101 of this title.
-

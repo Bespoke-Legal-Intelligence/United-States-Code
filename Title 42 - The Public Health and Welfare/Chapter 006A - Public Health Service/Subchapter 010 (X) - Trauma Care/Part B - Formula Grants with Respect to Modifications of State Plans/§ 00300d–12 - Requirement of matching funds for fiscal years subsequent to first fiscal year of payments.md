@@ -28,7 +28,7 @@ With respect to compliance with subsection (a) of this section as a condition of
 
 &emsp;(1) a State may make the non-Federal contributions required in such subsection in cash or in kind, fairly evaluated, including plant, equipment, or services;
 
-&emsp;(2) the Secretary may not, in making a determination of the amount of non-Federal contributions, include amounts provided by the Federal Government or services assisted orsubsidized to any significant extent by the Federal Government; and
+&emsp;(2) the Secretary may not, in making a determination of the amount of non-Federal contributions, include amounts provided by the Federal Government or services assisted or subsidized to any significant extent by the Federal Government; and
 
 &emsp;(3) the Secretary shall, in making such a determination, include only non-Federal contributions in excess of the amount of non-Federal contributions made by the State during fiscal year 1990 toward—
 

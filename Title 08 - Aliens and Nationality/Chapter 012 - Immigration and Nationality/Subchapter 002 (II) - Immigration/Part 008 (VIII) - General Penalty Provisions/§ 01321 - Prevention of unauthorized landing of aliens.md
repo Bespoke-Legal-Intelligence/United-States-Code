@@ -34,20 +34,6 @@ Amendment by Pub. L. 104–208 effective, with certain transitional provisions, 
 
 Amendment by Pub. L. 101–649 applicable to actions taken after Nov. 29, 1990, see section 543(c) of Pub. L. 101–649, set out as a note under section 1221 of this title.
 
-#### Federal Rules of Civil Procedure
-
-Admiralty and maritime rules of practice (which included libel procedures) were superseded, and civil and admiralty procedures in United States district courts were unified, effective July 1, 1966, see rule 1 and Supplemental Rules for Certain Admiralty and Maritime Claims, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-#### Cross References
-
-Definition of alien, Attorney General, crewman, entry, immigration officer, and United States, see section 1101 of this title.
-
-Forfeitures and seizures—
-
-&emsp;&emsp;Jurisdiction, see sections 1355 and 1356 of Title 28, Judiciary and Judicial Procedure.
-
-&emsp;&emsp;Proceedings, see section 2461 of Title 28.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1330, 1356 of this title.

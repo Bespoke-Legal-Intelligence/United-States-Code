@@ -9,7 +9,7 @@
 | (c) | Limitations on designation. |
 | (d) | Factors affecting designation. |
 | (e) | Withdrawal or suspension of designation. |
-| (f) | Triennial report. |
+| (f) | Report. |
 | [3203\.](%C2%A7%2003203%20-%20Eligible%20articles.md) | Eligible articles. |
 | (a) | In general. |
 | (b) | Exceptions to duty-free treatment. |
@@ -19,7 +19,7 @@
 | (f) | Fees under section 624 of title 7. |
 | (g) | Tariff-rate quotas. |
 | [3204\.](%C2%A7%2003204%20-%20International%20Trade%20Commission%20reports%20on%20impact%20of%20this%20chapter.md) | International Trade Commission reports on impact of this chapter. |
-| (a) | In general. |
+| (a) | Reporting requirements. |
 | (b) | Report requirements. |
 | (c) | Submission dates; public comment. |
 | [3205\.](%C2%A7%2003205%20-%20Impact%20study%20by%20Secretary%20of%20Labor.md) | Impact study by Secretary of Labor. |

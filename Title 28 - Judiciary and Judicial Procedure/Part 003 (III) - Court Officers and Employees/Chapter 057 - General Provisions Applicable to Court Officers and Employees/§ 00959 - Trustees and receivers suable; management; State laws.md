@@ -18,23 +18,11 @@ Changes in phraseology were made.
 
 #### Amendments
 
-1978—Subsec. (b). Pub. L. 95–598 substituted “Except as provided in section 1166 of title 11, a trustee” for “A trustee”.
+<b>1978</b>—Subsec. (b). Pub. L. 95–598 substituted “Except as provided in section 1166 of title 11, a trustee” for “A trustee”.
 
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(c) of Pub. L. 95–598, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
-
-#### Federal Rules of Civil Procedure
-
-Capacity to sue or be sued, see rule 17, Appendix to this title.
-
-#### Cross References
-
-Mismanagement of property by receiver, criminal penalty, see section 1911 of Title 18, Crimes and Criminal Procedure.
-
-Process and orders affecting property in different districts, see section 1692 of this title.
-
-Receivers of property in different districts, jurisdiction, see section 754 of this title.
 
 #### Section Referred to in Other Sections
 

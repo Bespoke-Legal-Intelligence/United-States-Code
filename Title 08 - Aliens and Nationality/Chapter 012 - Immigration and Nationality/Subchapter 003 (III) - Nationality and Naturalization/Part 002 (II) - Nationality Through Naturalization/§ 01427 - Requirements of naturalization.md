@@ -8,11 +8,11 @@ No person, except as otherwise provided in this subchapter, shall be naturalized
 
 Absence from the United States of more than six months but less than one year during the period for which continuous residence is required for admission to citizenship, immediately preceding the date of filing the application for naturalization, or during the period between the date of filing the application and the date of any hearing under section 1447(a) of this title, shall break the continuity of such residence, unless the applicant shall establish to the satisfaction of the Attorney General that he did not in fact abandon his residence in the United States during such period.
 
-Absence from the United States for a continuous period of one year or more during the period for which continuous residence is required for admission to citizenship (whether preceding or subsequent to the filing of the application for naturalization) shall break the continuity of such residence, except that in the case of a person who has been physically present and residing in the United States, after being lawfully admitted for permanent residence, for an uninterrupted period of at least one year, and who thereafter is employed by or under contract with the Government of the United States or an American institution of research recognized as such by the Attorney General, or is employed by an American firm or corporation engaged in whole or in part in the development of foreign trade and commerce of the United States, or a subsidiary thereof more than 50 per centum of whose stock is owned by an American firm or corporation, or is employed by a public international organization of which the United States is a member by treaty or statute and by which the alien was not employed until after being lawfully admitted for permanent residence, no period of absence from the United States shall break the continuity of residence if—
+Absence from the United States for a continuous period of one year or more during the period for which continuous residence is required for admission to citizenship (whether preceding or subsequent to the filing of the application for naturalization) shall break the continuity of such residence, except that in the case of a person who has been physically present and residing in the United States, after being lawfully admitted for permanent residence, for an uninterrupted period of at least one year, and who thereafter is employed by or under contract with the Government of the United States or an American institution of research recognized as such by the Attorney General, or is employed byan American firm or corporation engaged in whole or in part in the development of foreign trade and commerce of the United States, or a subsidiary thereof more than 50 per centum of whose stock is owned by an American firm or corporation, or is employed by a public international organization of which the United States is a member by treaty or statute and by which the alien was not employed until after being lawfully admitted for permanent residence, no period of absence from the United States shall break the continuity of residence if—
 
 &emsp;(1) prior to the beginning of such period of employment (whether such period begins before or after his departure from the United States), but prior to the expiration of one year of continuous absence from the United States, the person has established to the satisfaction of the Attorney General that his absence from the United States for such period is to be on behalf of such Government, or for the purpose of carrying on scientific research on behalf of such institution, or to be engaged in the development of such foreign trade and commerce or whose residence abroad is necessary to the protection of the property rights in such countries in such firm or corporation, or to be employed by a public international organization of which the United States is a member by treaty or statute and by which the alien was not employed until after being lawfully admitted for permanent residence; and
 
-&emsp;(2) such person proves to the satisfaction of the Attorney General that his absence fromthe United States for such period has been for such purpose.
+&emsp;(2) such person proves to the satisfaction of the Attorney General that his absence from the United States for such period has been for such purpose.
 
 > The spouse and dependent unmarried sons and daughters who are members of the household of a person who qualifies for the benefits of this subsection shall also be entitled to such benefits during the period for which they were residing abroad as dependent members of the household of the person.
 
@@ -46,7 +46,7 @@ In determining whether the applicant has sustained the burden of establishing go
 
 Pub. L. 101–649, §402, substituted “and who has resided within the State or within the district of the Service in the United States in which the applicant filed the application for at least three months” for “and who has resided within the State in which the petitioner filed the petition for at least six months” in cl. (1).
 
-Subsec. (b). Pub. L. 101–649, §407(d)(1)(A), (B), substituted “the Attorney General” for “the court” in first par. and subpar. (2) of second par., and “date of any hearing under section 1447(a) of this title” for “date of final hearing” in first par.
+Subsec. (b). Pub. L. 101–649, §407(d)(1)(A), (B), substituted “the Attorney General” for “the court” in first par. and subpar. (2) of second par., and “date ofany hearing under section 1447(a) of this title” for “date of final hearing” in first par.
 
 Pub. L. 101–649, §407(c)(2), substituted references to applicant and application for references to petitioner and petition wherever appearing.
 
@@ -108,29 +108,7 @@ Definitions.—For purposes of this section—
 
 &emsp;“(2) the term ‘spouse’ means the wife or husband of a deceased alien referred to in subsection (b) who was married to such alien during the time the alien participated in the conduct of United States intelligence activities.”
 
-#### Cross References
-
-Central Intelligence Agency, see section 403 et seq. of Title 50, War and National Defense.
-
-Definition of the term—
-
-&emsp;&emsp;Alien, see section 1101(a)(3) of this title.
-
-&emsp;&emsp;Attorney General, see section 1101(a)(5) of this title.
-
-&emsp;&emsp;Lawfully admitted for permanent residence, see section 1101(a)(20) of this title.
-
-&emsp;&emsp;Naturalization, see section 1101(a)(23) of this title.
-
-&emsp;&emsp;Person of good moral character, see section 1101(f) of this title.
-
-&emsp;&emsp;Residence, see section 1101(a)(33) of this title.
-
-&emsp;&emsp;United States, see section 1101(a)(38) of this title.
-
-Proof of qualifications, see section 1446 of this title.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1428, 1430, 1438, 1439, 1441, 1445 of this title.
+This section is referred to in sections 1428, 1430, 1438, 1439, 1441, 1445, 1448 of this title.
 

@@ -18,7 +18,7 @@
 
 &emsp;(1) demands, seeks, receives, accepts, or agrees to receive or accept any compensation for any representational services, as agent or attorney or otherwise, rendered or to be rendered either personally or by another, at a time when such person is an officer or employee of the District of Columbia, in relation to any proceeding, application, request for a ruling or other determination, contract, claim, controversy, charge, accusation, arrest, or other particular matter in which the District of Columbia is a party or has a direct and substantial interest, before any department, agency, court, officer, or commission; or
 
-&emsp;(2) knowingly gives, promises, or offers any compensation for any such representational services rendered or to be rendered at a timewhen the person to whom the compensation is given, promised, or offered, is or was an officer or employee of the District of Columbia;
+&emsp;(2) knowingly gives, promises, or offers any compensation for any such representational services rendered or to be rendered at a time when the person to whom the compensation is given, promised, or offered, is or was an officer or employee of the District of Columbia;
 
 > shall be subject to the penalties set forth in section 216 of this title.
 
@@ -38,7 +38,7 @@
 
 (e) Nothing in this section prevents a special Government employee from acting as agent or attorney for another person in the performance of work under a grant by, or a contract with or for the benefit of, the United States if the head of the department or agency concerned with the grant or contract certifies in writing that the national interest so requires and publishes such certification in the Federal Register.
 
-(f) Nothing in this section prevents an individual from giving testimony under oath or from making statements required to be made under penalty of perjury.
+(f) Nothing in this section prevents an individual from giving testimony under oath or frommaking statements required to be made under penalty of perjury.
 
 (Added Pub. L. 87–849, §1(a), Oct. 23, 1962, 76 Stat. 1121; amended Pub. L. 91–405, title II, §204(d)(2), (3), Sept. 22, 1970, 84 Stat. 853; Pub. L. 99–646, §47(a), Nov. 10, 1986, 100 Stat. 3604; Pub. L. 101–194, title IV, §402, Nov. 30, 1989, 103 Stat. 1748; Pub. L. 101–280, §5(b), May 4, 1990, 104 Stat. 159.)
 
@@ -112,33 +112,11 @@ Section 2 of Pub. L. 87–849 provided in part that: “All exemptions from the 
 
 Pub. L. 97–241, title I, §120, Aug. 24, 1982, 96 Stat. 280, provided that:
 
-“(a) Sections 203, 205, 207, and 208 of title 18, United States Code, shall not apply to a private sector representative on the United States delegation to an international telecommunications meeting or conference who is specifically designated to speak on behalf of or otherwise represent the interests of the United States at such meeting or conference with respect to a particular matter, if the Secretary of State (or the Secretary's designee) certifies that no Government employee on the delegation is as well qualified to represent United States interests with respect to such matter and that such designation serves the national interest. All such representatives shall have on file with the Department of State the financial disclosure report required for special Government employees.
+“(a) Sections 203, 205, 207, and 208 of title 18, United States Code, shall not apply to a private sector representative on the United States delegation to an international telecommunications meeting or conferencewho is specifically designated to speak on behalf of or otherwise represent the interests of the United States at such meeting or conference with respect to a particular matter, if the Secretary of State (or the Secretary's designee) certifies that no Government employee on the delegation is as well qualified to represent United States interests with respect to such matter and that such designation serves the national interest. All such representatives shall have on file with the Department of State the financial disclosure report required for special Government employees.
 
 “(b) As used in this section, the term ‘international telecommunications meeting or conference’ means the conferences of the International Telecommunications Union, meetings of its International Consultative Committees for Radio and for Telephone and Telegraph, and such other international telecommunications meetings or conferences as the Secretary of State may designate.”
 
-#### Canal Zone
-
-Applicability of section to Canal Zone, see section 14 of this title.
-
-#### Cross References
-
-Activities of officers and employees in matters affecting the Government, see section 205 of this title.
-
-Definitions, see section 202 of this title.
-
-Disqualification from holding any office of honor, trust, or profit, additional grounds for, see sections 201, 592, 593, 1901, 2071, 2381, 2385, 2387 of this title.
-
-Exemption of retired officers of the uniformed services, see section 206 of this title.
-
-Extortion by Government officers or employees, see section 872 of this title.
-
-Lobbying with appropriated moneys, see section 1913 of this title.
-
-Memorandum of Attorney General regarding conflict of interest provisions, see note under section 201 of this title.
-
-Political contributions, solicitation of, see section 602 of this title.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 14, 202, 206, 216 of this title; title 5 sections 568, 3374; title 12 section 2245; title 15 section 4805; title 16 section 459b–7; title 22 sections 3507, 3508, 3613; title 26 section 7802; title 28 section 594; title 30 section 663; title 38 section 5902; title 40 App. section 108; title 42 section 1314; title 50 section 405; title 50 App. section 463.
+This section is referred to in sections 14, 202, 206, 216 of this title; title 5 sections 568, 3374; title 7 section 2009aa–1; title 12 section 2245; title 15 section 4805; title 16 section 459b–7; title 22 sections 3507, 3508, 3613; title 26 section 7802; title 28 section 594; title 30 section 663; title 38 section 5902; title 40 App. section 108; title 42 section 1314; title 50 section 405; title 50 App. section 463.
 

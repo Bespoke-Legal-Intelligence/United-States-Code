@@ -6,7 +6,7 @@
 
 (c) Sick leave provided by this section may be used for purposes relating to the adoption of a child.
 
-(d) When required by the exigencies of the situation, a maximum of 30 days sick leave with pay may be advanced for serious disability or ailment, or for purposes relating to the adoption of a child, except that a maximum of 24 days sick leave with pay may be advanced to a member of the Firefighting Division of the Fire Department of the District of Columbia.
+(d) When required by the exigencies of the situation, a maximum of 30 days sick leave with pay may be advanced for serious disability or ailment, or for purposes relating to the adoptionof a child, except that a maximum of 24 days sick leave with pay may be advanced to a member of the Firefighting Division of the Fire Department of the District of Columbia.
 
 (d)(1) <sup>1</sup> For the purpose of this subsection, the term “family member” shall have such meaning as the Office of Personnel Management shall by regulation prescribe, except that such term shall include any individual who meets the definition given that term, for purposes of the leave transfer program under subchapter III, under regulations prescribed by the Office (as in effect on January 1, 1993).
 
@@ -28,7 +28,7 @@
 
 (B) Not later than 6 months before the date on which this subsection is scheduled to cease to be effective, the Office shall submit a report to Congress in which it shall evaluate the operation of this subsection and make recommendations as to whether or not this subsection should be continued beyond such date.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 520; Pub. L. 103–329, title VI, §629(b)(1), Sept. 30, 1994, 108Stat. 2423; Pub. L. 103–388, §2, Oct. 22, 1994, 108 Stat. 4079.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 520; Pub. L. 103–329, title VI, §629(b)(1), Sept. 30, 1994, 108 Stat. 2423; Pub. L. 103–388, §2, Oct. 22, 1994, 108 Stat. 4079.)
 
 Historical and Revision Notes
 
@@ -51,10 +51,6 @@ The word “officer”, referring to an officer of the Firefighting Division, is
 In subsection (c), the words “with pay” are added for clarity.
 
 Standard changes are made to conform with the definitions applicable and style of this title as outlined in the preface to the report.
-
-#### References in Text
-
-The date of the enactment of this subsection, referred to in subsec. (d)(4)(A), is the date of enactment of Pub. L. 103–388, which was approved Oct. 22, 1994.
 
 #### Amendments
 

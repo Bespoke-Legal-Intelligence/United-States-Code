@@ -16,7 +16,7 @@
 
 &emsp;(3) The individual shall be provided an opportunity to inspect and copy records relating to the debt.
 
-&emsp;(4) The individual shall be provided an opportunity to enter into a written agreementwith the executive, judicial, or legislative agency, under terms agreeable to the head of the agency, to establish a schedule for repayment of the debt.
+&emsp;(4) The individual shall be provided an opportunity to enter into a written agreement with the executive, judicial, or legislative agency, under terms agreeable to the head of the agency, to establish a schedule for repayment of the debt.
 
 &emsp;(5) The individual shall be provided an opportunity for a hearing in accordance with subsection (c) on the determination of the head of the executive, judicial, or legislative agency concerning—
 
@@ -44,7 +44,7 @@
 
 &emsp;(B) shall be liable for any amount that the employer fails to withhold from wages due an employee following receipt by such employer of notice of the withholding order, plus attorneys’ fees, costs, and, in the court's discretion, punitive damages.
 
-(2)(A) The head of an executive, judicial, or legislative agency may sue an employer in a State or Federal court of competent jurisdiction to recover amounts for which the employer is liable under paragraph (1)(B).
+(2)(A) The head of an executive, judicial, or legislative agency may sue an employer in aState or Federal court of competent jurisdiction to recover amounts for which the employer is liable under paragraph (1)(B).
 
 (B) A suit under this paragraph may not be filed before the termination of the collection action, unless earlier filing is necessary to avoid expiration of any applicable statute of limitations period.
 

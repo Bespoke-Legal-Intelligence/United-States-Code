@@ -30,7 +30,11 @@
 
 &emsp;&emsp;(A) are on active duty (other than for training) and who have served continuously on active duty for at least eight years;
 
-&emsp;&emsp;(B) are, or who died while they were, retired with pay or granted retired or retainer pay, other than those granted retired pay under section 12731 of this title (or under section 1331 of this title as in effect before the effective date of the Reserve Officer Personnel Management Act);
+&emsp;&emsp;(B) are, or who died while they were, retired with pay or granted retired or retainer pay;
+
+&emsp;&emsp;(C) are serving as members of reserve components and are credited with at least eight years of service computed under section 12733 of this title; or
+
+&emsp;&emsp;(D) would be, or who died while they would have been, entitled to retired pay under chapter 1223 of this title except for not having attained 60 years of age;
 
 > &emsp;however, a person who is eligible for selection under clause (1) of subsection (a) may not be selected under this clause.
 
@@ -52,7 +56,7 @@
 
 (g) For purposes of the limitation in subsection (a) establishing the aggregate authorized strength of the Brigade of Midshipmen, the Secretary of the Navy may for any year permit a variance in that limitation by not more than one percent. In applying that limitation, and any such variance, the last day of an academic year shall be considered to be graduation day.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 429; Pub. L. 87–651, title I, §124, Sept. 7, 1962, 76 Stat. 514; Pub. L. 87–663, §1(3), Sept. 14, 1962, 76 Stat. 547; Pub. L. 88–276, §2, Mar. 3, 1964, 78 Stat. 150; Pub. L. 89–650, §1(1)–(3), Oct. 13, 1966, 80 Stat. 896; Pub. L. 90–374, July 5, 1968, 82 Stat. 283; Pub. L. 90–623, §2(8), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 91–405, title II, §204(c), Sept. 22, 1970, 84 Stat. 852; Pub. L. 92–365, §1(2), Aug. 7, 1972, 86 Stat. 505; Pub. L. 93–171, §2(1)–(3), Nov. 29, 1973, 87 Stat. 690; Pub. L. 94–106, title VIII, §803(b)(1), Oct. 7, 1975, 89 Stat. 538; Pub. L. 96–600, §2(b), Dec. 24, 1980, 94 Stat. 3493; Pub. L. 97–60, title II, §203(b)(2), Oct. 14, 1981, 95 Stat. 1006; Pub. L. 97–295, §1(44), Oct. 12, 1982, 96 Stat. 1298; Pub. L. 98–94, title X, §1005(a)(2), (b)(2), Sept. 24, 1983, 97 Stat. 660; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 101–510, div. A, title V, §532(b)(1), Nov. 5, 1990, 104 Stat. 1563; Pub. L. 103–160, div. A, title V, §531, Nov. 30, 1993, 107 Stat. 1657; Pub. L. 103–337, div. A, title XVI, §1673(c), Oct. 5, 1994, 108 Stat. 3016; Pub. L. 104–106, div. A, title V, §532(b), Feb. 10, 1996, 110 Stat. 314; Pub. L. 105–85, div. A, title X, §1073(a)(62), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 106–65, div. A, title V, §531(b)(2), Oct. 5, 1999, 113 Stat. 602.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 429; Pub. L. 87–651, title I, §124, Sept. 7, 1962, 76 Stat. 514; Pub. L. 87–663, §1(3), Sept. 14, 1962, 76 Stat. 547; Pub. L. 88–276, §2, Mar. 3, 1964, 78 Stat. 150; Pub. L. 89–650, §1(1)–(3), Oct. 13, 1966, 80 Stat. 896; Pub. L. 90–374, July 5, 1968, 82 Stat. 283; Pub. L. 90–623, §2(8), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 91–405, title II, §204(c), Sept. 22, 1970, 84 Stat. 852; Pub. L. 92–365, §1(2), Aug. 7, 1972, 86 Stat. 505; Pub. L. 93–171, §2(1)–(3), Nov. 29, 1973, 87 Stat. 690; Pub. L. 94–106, title VIII, §803(b)(1), Oct. 7, 1975, 89 Stat. 538; Pub. L. 96–600, §2(b), Dec. 24, 1980, 94 Stat. 3493; Pub. L. 97–60, title II, §203(b)(2), Oct. 14, 1981, 95 Stat. 1006; Pub. L. 97–295, §1(44), Oct. 12, 1982, 96 Stat. 1298; Pub. L. 98–94, title X, §1005(a)(2), (b)(2), Sept. 24, 1983, 97 Stat. 660; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 101–510, div. A, title V, §532(b)(1), Nov. 5, 1990, 104 Stat. 1563; Pub. L. 103–160, div. A, title V, §531, Nov. 30, 1993, 107 Stat. 1657; Pub. L. 103–337, div. A, title XVI, §1673(c), Oct. 5, 1994, 108 Stat. 3016; Pub. L. 104–106, div. A, title V, §532(b), Feb. 10, 1996, 110 Stat. 314; Pub. L. 105–85, div. A, title X, §1073(a)(62), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 106–65, div. A, title V, §531(b)(2), Oct. 5, 1999, 113 Stat. 602; Pub. L. 106–398, §1 \[\[div. A\], title V, §531(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–109.)
 
 Historical and Revision Notes<br>1956
 
@@ -138,11 +142,11 @@ The change reflects the change of the name of the Panama Railroad Company to the
 
 In 10:6954(f), the word “The” is substituted for “Effective beginning with the nominations for appointment to the Academy in the calendar year 1964, the” to eliminate executed words.
 
-#### References in Text
-
-Section 1331 of this title as in effect before the effective date of the Reserve Officer Personnel Management Act, referred to in subsec. (b)(1)(B), means section 1331 of this title prior to its renumbering as section 12731 of this title and its general revision by Pub. L. 103–337, div. A, title XVI, §1662(j)(1), Oct. 5, 1994, 108 Stat. 2998, 2999. A new section 1331 was added by section 1662(j)(7) of Pub. L. 103–337.
-
 #### Amendments
+
+2000—Subsec. (b)(1)(B). Pub. L. 106–398, §1 \[\[div. A\], title V, §531(b)(1)\], struck out “, other than those granted retired pay under section 12731 of this title (or under section 1331 of this title as in effect before the effective date of the Reserve Officer Personnel Management Act)” after “retired or retainer pay”.
+
+Subsec. (b)(1)(C), (D). Pub. L. 106–398, §1 \[\[div. A\], title V, §531(b)(2)\], added subpars. (C) and (D).
 
 1999—Subsec. (a). Pub. L. 106–65, §531(b)(2)(A), which directed amendment of this section by substituting “(a) The authorized strength of the Brigade of Midshipmen (determined for any year as of the day before the last day of the academic year) is 4,000. Subject to that limitation, midshipmen are selected as follows:” for the matter preceding paragraph (1), was executed by making the substitution for the introductory provisions in subsec. (a) which read as follows: “(a) There may be at the Naval Academy at any one time midshipmen as follows:”
 
@@ -154,7 +158,7 @@ Subsec. (g). Pub. L. 106–65, §531(b)(2)(B), added subsec. (g).
 
 1994—Subsec. (b)(1)(B). Pub. L. 103–337 substituted “section 12731 of this title (or under section 1331 of this title as in effect before the effective date of the Reserve Officer Personnel Management Act)” for “section 1331 of this title”.
 
-1993—Subsec. (a). Pub. L. 103–160, in concluding provisions, substituted “10 persons” for “a principal candidate and nine alternates” and inserted at end “Nominees may be submitted without ranking or with a principal candidate and 9 ranked or unranked alternates. Qualified nominees not selected for appointment under this subsection shall be considered qualified alternatesfor the purposes of selection under other provisions of this chapter.”
+1993—Subsec. (a). Pub. L. 103–160, in concluding provisions, substituted “10 persons” for “a principal candidate and nine alternates” and inserted at end “Nominees may be submitted without ranking or with a principal candidate and 9 ranked or unranked alternates. Qualified nominees not selected for appointment under this subsection shall be considered qualified alternates for the purposes of selection under other provisions of this chapter.”
 
 1990—Subsec. (a)(8) to (10). Pub. L. 101–510, §532(b)(1)(A), redesignated cls. (9) and (10) as (8) and (9), respectively, and struck out former cl. (8) which read as follows: “One nominated by the Administrator of the Panama Canal Commission from the children of civilian personnel of the United States residing in the Republic of Panama who are citizens of the United States.”
 
@@ -234,7 +238,7 @@ Authorized strength of service academies not to exceed 4,000 per academy for cla
 
 #### Eligibility of Female Individuals for Appointment and Admission to Service Academies; Uniform Application of Academic and other Standards to Male and Female Individuals
 
-Secretary to take such action as may be necessary and appropriate to insure that (1) female individuals shall be eligible for appointment and admission to the United States Naval Academy, beginning with appointments to such academy for the class beginning in calendar year 1976, and (2) the academic and other relevant standards required for appointment, admission, training, graduation, and commissioning of female individuals shall be the same as those required for maleindividuals, except for those minimum essential adjustments in such standards required because of physiological differences between male and female individuals, see section 803(a) of Pub. L. 94–106, set out as a note under section 4342 of this title.
+Secretary to take such action as may be necessary and appropriate to insure that (1) female individuals shall be eligible for appointment and admission to the United States Naval Academy, beginning with appointments to such academy for the class beginning in calendar year 1976, and (2) the academic and other relevant standards required for appointment, admission, training, graduation, and commissioning of female individuals shall be the same as those required for male individuals, except for those minimum essential adjustments in such standards required because of physiological differences between male and female individuals, see section 803(a) of Pub. L. 94–106, set out as a note under section 4342 of this title.
 
 #### Secretary To Implement Policy of Expeditious Admission of Women to the Academy
 

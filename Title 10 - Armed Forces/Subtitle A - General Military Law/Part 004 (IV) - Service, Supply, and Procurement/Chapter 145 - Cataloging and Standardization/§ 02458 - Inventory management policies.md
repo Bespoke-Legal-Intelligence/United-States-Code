@@ -86,11 +86,11 @@ GAO Reports on Military Department and Defense Logistics Agency Schedules.—(1)
 
 #### Inventory Management of In-Transit Items
 
-Pub. L. 105–261, div. A, title III, §349, Oct. 17, 1998, 112 Stat. 1981, provided that:
+Pub. L. 105–261, div. A, title III, §349, Oct. 17, 1998, 112 Stat. 1981, as amended by Pub. L. 106–398, §1 \[\[div. A\], title III, §386\], Oct. 30, 2000, 114 Stat. 1654, 1654A–88, provided that:
 
 “(a)
 
-Requirement for Plan.—Not later than March 1, 1999, the Secretary of Defense shall submit to Congress a comprehensive plan to ensure visibility over all in-transit end items and secondary items.
+Requirement for Plan.—The Secretary of Defense shall prescribe and carry out a comprehensive plan to ensure visibility over all in-transit end items and secondary items.
 
 “(b)
 
@@ -110,7 +110,7 @@ Secondary Items.—The plan required by subsection (a) shall address the followi
 
 Content of Plan.—The plan shall include for subsection (b) and for each of the problems described in subsection (c) the following information:
 
-&emsp;“(1) The actions to be taken by the Department.
+&emsp;“(1) The actions to be taken by the Department, including specific actions to address underlying weaknesses in the controls over items being shipped.
 
 &emsp;“(2) Statements of objectives.
 
@@ -118,11 +118,23 @@ Content of Plan.—The plan shall include for subsection (b) and for each of the
 
 &emsp;“(4) An identification of any resources necessary for implementing the required actions, together with an estimate of the annual costs.
 
+&emsp;“(5) The key management elements for monitoring, and for measuring the progress achieved in, the implementation of the plan, including—
+
+&emsp;&emsp;“(A) the assignment of oversight responsibility for each action identified pursuant to paragraph (1);
+
+&emsp;&emsp;“(B) a description of the resources required for oversight; and
+
+&emsp;&emsp;“(C) an estimate of the annual cost of oversight.
+
 “(e)
 
-GAO Reviews.—(1) Not later than 60 days after the date on which the Secretary of Defense submits the plan to Congress, the Comptroller General shall review the plan and submit to Congress any comments that the Comptroller General considers appropriate regarding the plan.
+GAO Reviews.—(1) Not later than 60 days after the date on which the Secretary of Defense submits the initial plan to Congress, the Comptroller General shall review the plan and submit to Congress any comments that the Comptroller General considers appropriate regarding the plan.
 
-“(2) The Comptroller General shall monitor any implementation of the plan and, not later than 1 year after the date referred to in paragraph (1), submit to Congress an assessment of the extent to which the plan has been implemented.”
+“(2) The Comptroller General shall monitor any implementation of the plan and, not later than 1 year after the date referred to in paragraph (1), submit to Congress an assessment of the extent to which the plan has been implemented.
+
+“(f)
+
+Submissions to Congress.—The Secretary shall submit to Congress any revisions made to the plan that are required by any law enacted after October 17, 1998. The revisions so made shall be submitted not later than 180 days after the date of the enactment of the law requiring the revisions.”
 
 #### Inventory Management
 

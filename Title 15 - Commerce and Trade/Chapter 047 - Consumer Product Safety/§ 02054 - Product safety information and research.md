@@ -90,7 +90,7 @@ Center for Fire Research.—At the request of the Consumer Product Safety Commis
 
 Commission.—The Consumer Product Safety Commission shall—
 
-&emsp;“(1) design and implement a study to collect baseline and followup data about the characteristics of cigarettes, products ignited, and smokers involved in fires, and
+&emsp;“(1) design and implement a study to collect baseline and followup data about the characteristics ofcigarettes, products ignited, and smokers involved in fires, and
 
 &emsp;“(2) develop information on societal costs of cigarette-ignited fires.
 

@@ -10,7 +10,7 @@
 
 &emsp;(4) “tribally controlled college or university” means an institution of higher education which is formally controlled, or has been formally sanctioned, or chartered, by the governing body of an Indian tribe or tribes, except that no more than one such institution shall be recognized with respect to any such tribe;
 
-&emsp;(5) “institution of higher education” means an institution of higher education as defined by section 1001 <sup>1</sup> of title 20, except that clause (2) of such section shall not be applicable and the reference to Secretary in clause (5)(A) <sup>2</sup> of such section shall be deemed to refer to the Secretary of the Interior;
+&emsp;(5) “institution of higher education” means an institution of higher education as defined by section 1001 <sup>1</sup> of title 20, except that clause\(2) of such section shall not be applicable and the reference to Secretary in clause (5)(A) <sup>2</sup> of such section shall be deemed to refer to the Secretary of the Interior;
 
 &emsp;(6) “national Indian organization” means an organization which the Secretary finds is nationally based, represents a substantial Indian constituency, and has expertise in the field of Indian education;
 
@@ -22,7 +22,7 @@
 
 &emsp;(1) Such number shall be calculated on the basis of the registrations of Indian students as in effect at the conclusion of the third week of each academic term.
 
-&emsp;(2) Credits earned in classes offered during a summer term shall be counted toward thecomputation of the Indian student count in the succeeding fall term.
+&emsp;(2) Credits earned in classes offered during a summer term shall be counted toward the computation of the Indian student count in the succeeding fall term.
 
 &emsp;(3) Credits earned by any student who has not obtained a high school degree or its equivalent shall be counted toward the computation of the Indian student count if the institution at which the student is in attendance has established criteria for the admission of such student on the basis of the student's ability to benefit from the education or training offered. The institution shall be presumed to have established such criteria if the admission procedures for such studies include counseling or testing that measures the student's aptitude to successfully complete the course in which the student has enrolled. No credits earned by such student for purposes of obtaining a high school degree or its equivalent shall be counted toward the computation of the Indian student count.
 
@@ -72,7 +72,7 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 #### Short Title of 1990 Amendment
 
-Section 401 of title IV of Pub. L. 95–471, as added by Pub. L. 101–392, title III, §312, Sept. 25, 1990, 104 Stat. 804, provided that: “This title \[enacting subchapter III of this chapter\] may be cited as the ‘Tribal Economic Development and Technology Related Education Assistance Act of 1990’.”
+Section 401 of title IV of Pub. L. 95–471, as added by Pub. L. 101–392, title III, §312, Sept. 25, 1990, 104 Stat.804, provided that: “This title \[enacting subchapter III of this chapter\] may be cited as the ‘Tribal Economic Development and Technology Related Education Assistance Act of 1990’.”
 
 #### Short Title of 1986 Amendment
 
@@ -92,7 +92,7 @@ Recommended legislation.—The Secretary of Education shall prepare and submit t
 
 “(2)
 
-Submission to congress.—Not later than 6 months after the effective date of this title \[see section 3 of Pub. L. 105–244, set out as an Effective Date of 1998 Amendment note under section 1001 of Title 20, Education\], the Secretary of Education shall submit therecommended legislation referred to under paragraph (1).”
+Submission to congress.—Not later than 6 months after the effective date of this title \[see section 3 of Pub. L. 105–244, set out as an Effective Date of 1998 Amendment note under section 1001 of Title 20, Education\], the Secretary of Education shall submit the recommended legislation referred to under paragraph (1).”
 
 #### References to Tribally Controlled Community College Assistance Act of 1978
 

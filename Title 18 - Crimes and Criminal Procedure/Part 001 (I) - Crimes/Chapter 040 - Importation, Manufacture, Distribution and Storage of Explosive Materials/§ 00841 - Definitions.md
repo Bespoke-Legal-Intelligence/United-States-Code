@@ -34,7 +34,7 @@ As used in this chapter—
 
 &emsp;(p) “Detection agent” means any one of the substances specified in this subsection when introduced into a plastic explosive or formulated in such explosive as a part of the manufacturing process in such a manner as to achieve homogeneous distribution in the finished explosive, including—
 
-&emsp;&emsp;(1) Ethylene glycol dinitrate (EGDN), C<sub>2</sub>H<sub>4</sub>(NO<sub>3</sub>)<sub>2</sub>, molecular weight 152, when the minimum concentration in the finished explosive is 0.2 percent by mass;
+&emsp;&emsp;(1) Ethylene glycol dinitrate (EGDN), C<sub>2</sub>H<sub>4</sub>(NO<sub>3</sub>)<sub>2</sub>, molecular weight 152, when theminimum concentration in the finished explosive is 0.2 percent by mass;
 
 &emsp;&emsp;(2) 2,3-Dimethyl-2,3-dinitrobutane (DMNB), C<sub>6</sub>H<sub>12</sub>(NO<sub>2</sub>)<sub>2</sub>, molecular weight 176, when the minimum concentration in the finished explosive is 0.1 percent by mass;
 
@@ -158,7 +158,7 @@ In general.—In conducting the study under subsection (a), the Secretary shall 
 
 &emsp;“(2)
 
-Fertilizer research centers.—In conducting any portion of the study under subsection (a) relating to the regulation and use of fertilizer as a pre-explosive material, the Secretary of the Treasury shallconsult with and receive input from non-profit fertilizer research centers.
+Fertilizer research centers.—In conducting any portion of the study under subsection (a) relating to the regulation and use of fertilizer as a pre-explosive material, the Secretary of the Treasury shall consult with and receive input from non-profit fertilizer research centers.
 
 “(c)
 
@@ -256,7 +256,7 @@ Section 1105(c) of Pub. L. 91–452 provided that: “Any person (as defined in 
 
 #### Authorization of Appropriations
 
-Section 1107 of title XI of Pub. L. 91–452 provided that: “There are hereby authorized to be appropriatedsuch sums as are necessary to carry out the purposes of this title \[enacting this chapter, amending section 2516 of this title, repealing section 837 of this title and sections 121 to 144 of Title 50, War and National Defense, and enacting provisions set as notes under this section\].”
+Section 1107 of title XI of Pub. L. 91–452 provided that: “There are hereby authorized to be appropriated such sums as are necessary to carry out the purposes of this title \[enacting this chapter, amending section 2516 of this title, repealing section 837 of this title and sections 121 to 144 of Title 50, War and National Defense, and enacting provisions set as notes under this section\].”
 
 #### Section Referred to in Other Sections
 

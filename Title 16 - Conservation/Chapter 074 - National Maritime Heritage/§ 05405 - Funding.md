@@ -50,9 +50,9 @@
 
 &emsp;The Secretary of Transportation shall dispose of all vessels described in paragraph (2)—
 
-&emsp;&emsp;(A) by September 30, 2001;
+&emsp;&emsp;(A) by September 30, 2006;
 
-&emsp;&emsp;(B) in a manner that maximizes the return on the vessels to the United States; and
+&emsp;&emsp;(B) in the manner that provides the best value to the Government, except in any case in which obtaining the best value would require towing a vessel and such towing poses a serious threat to the environment; and
 
 &emsp;&emsp;(C) in accordance with the plan of the Department of Transportation for disposal of those vessels and requirements under sections 1158 and 1160(i) of title 46, Appendix.
 
@@ -68,15 +68,171 @@
 
 Amounts available under this section shall not be considered in any determination of the amounts available to the Department of the Interior.
 
-(Pub. L. 103–451, §6, Nov. 2, 1994, 108 Stat. 4776; Pub. L. 105–85, div. A, title X, §1026(c), Nov. 18, 1997, 111 Stat. 1878.)
+(Pub. L. 103–451, §6, Nov. 2, 1994, 108 Stat. 4776; Pub. L. 105–85, div. A, title X, §1026(c), Nov. 18, 1997, 111 Stat. 1878; Pub. L. 106–398, §1 \[div. C, title XXXV, §3502(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–490.)
 
 #### Amendments
+
+2000—Subsec. (c)(1)(A). Pub. L. 106–398, §1 \[div. C, title XXXV, §3502(a)(1)\], substituted “2006” for “2001”.
+
+Subsec. (c)(1)(B). Pub. L. 106–398, §1 \[div. C, title XXXV, §3502(a)(2)\], added subpar. (B) and struck out former subpar. (B) which read as follows: “in a manner that maximizes the return on the vessels to the United States; and”.
 
 1997—Subsec. (a)(1). Pub. L. 105–85, §1026(c)(1), inserted “or 1160(i)” after “1158” in introductory provisions.
 
 Subsec. (b)(2). Pub. L. 105–85, §1026(c)(1), (2), inserted “or 1160(i)” after “1158” and substituted “first 8” for “first 6”.
 
 Subsec. (c)(1)(A). Pub. L. 105–85, §1026(c)(3), substituted “2001” for “1999”.
+
+#### Scrapping of National Defense Reserve Fleet Vessels
+
+Pub. L. 106–398, §1 \[div. C, title XXXV, §3502(b)–(f)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–490 to 1654A–492, provided that:
+
+“(b)
+
+Selection of Scrapping Facilities.—The Secretary of Transportation may scrap obsolete vessels pursuant to section 6(c)(1) of the National Maritime Heritage Act of 1994 (16 U.S.C. 5405(c)(1)) through qualified scrapping facilities, using the most expeditious scrapping methodology and location practicable. Scrapping facilities shall be selected under that section on a best value basis consistent with the Federal Acquisition Regulation, as in effect on the date of the enactment of this Act \[Oct. 30, 2000\], without any predisposition toward foreign or domestic facilities taking into consideration, among other things, the ability of facilities to scrap vessels—
+
+&emsp;“(1) at least cost to the Government;
+
+&emsp;“(2) in a timely manner;
+
+&emsp;“(3) giving consideration to worker safety and the environment; and
+
+&emsp;“(4) in a manner that minimizes the geographic distance that a vessel must be towed when towing a vessel poses a serious threat to the environment.
+
+“(c)
+
+Limitation on Scrapping Before Program.—
+
+&emsp;“(1)
+
+In general.—Until the report required by subsection (d)(1) is transmitted to the congressional committees referred to in that subsection, the Secretary may not proceed with the scrapping of any vessel in the National Defense Reserve Fleet except the following:
+
+&emsp;&emsp;“(A) DONNER.
+
+&emsp;&emsp;“(B) EXPORT COMMERCE.
+
+&emsp;&emsp;“(C) BUILDER.
+
+&emsp;&emsp;“(D) ALBERT E. WATTS.
+
+&emsp;&emsp;“(E) WAYNE VICTORY.
+
+&emsp;&emsp;“(F) MORMACDAWN.
+
+&emsp;&emsp;“(G) MORMACMOON.
+
+&emsp;&emsp;“(H) SANTA ELENA.
+
+&emsp;&emsp;“(I) SANTA ISABEL.
+
+&emsp;&emsp;“(J) SANTA CRUZ.
+
+&emsp;&emsp;“(K) PROTECTOR.
+
+&emsp;&emsp;“(L) LAUDERDALE.
+
+&emsp;&emsp;“(N) \[(M)\] PVT. FRED C. MURPHY.
+
+&emsp;&emsp;“(M) \[(N)\] BEAUJOLAIS.
+
+&emsp;&emsp;“(O) MEACHAM.
+
+&emsp;&emsp;“(P) NEACO.
+
+&emsp;&emsp;“(Q) WABASH.
+
+&emsp;&emsp;“(R) NEMASKET.
+
+&emsp;&emsp;“(S) MIRFAK.
+
+&emsp;&emsp;“(T) GEN. ALEX M. PATCH.
+
+&emsp;&emsp;“(U) ARTHUR M. HUDDELL.
+
+&emsp;&emsp;“(V) WASHINGTON.
+
+&emsp;&emsp;“(W) SUFFOLK COUNTY.
+
+&emsp;&emsp;“(X) CRANDALL.
+
+&emsp;&emsp;“(Y) CRILLEY.
+
+&emsp;&emsp;“(Z) RIGEL.
+
+&emsp;&emsp;“(AA) VEGA.
+
+&emsp;&emsp;“(BB) COMPASS ISLAND.
+
+&emsp;&emsp;“(CC) EXPORT CHALLENGER.
+
+&emsp;&emsp;“(DD) PRESERVER.
+
+&emsp;&emsp;“(EE) MARINE FIDDLER.
+
+&emsp;&emsp;“(FF) WOOD COUNTY.
+
+&emsp;&emsp;“(GG) CATAWBA VICTORY.
+
+&emsp;&emsp;“(HH) GEN. NELSON M. WALKER.
+
+&emsp;&emsp;“(II) LORAIN COUNTY.
+
+&emsp;&emsp;“(JJ) LYNCH.
+
+&emsp;&emsp;“(KK) MISSION SANTA YNEZ.
+
+&emsp;&emsp;“(LL) CALOOSAHATCHEE.
+
+&emsp;&emsp;“(MM) CANISTEO.
+
+&emsp;“(2)
+
+Prioritization.—The Secretary shall exercise discretion to prioritize for scrapping those vessels identified in paragraph (1) that pose the most immediate threat to the environment.
+
+“(d)
+
+Scrapping Program for Obsolete National Defense Reserve Fleet Vessels.—
+
+&emsp;“(1)
+
+Development of program; report.—The Secretary of Transportation, in consultation with the Secretary of the Navy and the Administrator of the Environmental Protection Agency, shall within 6 months after the date of the enactment of this Act \[Oct. 30, 2000\]—
+
+&emsp;&emsp;“(A) develop a program for the scrapping of obsolete National Defense Reserve Fleet vessels; and
+
+&emsp;&emsp;“(B) submit a report on the program to the Committee on Transportation and Infrastructure and the Committee on Resources of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committees on Armed Services of the House of Representatives and the Senate.
+
+&emsp;“(2)
+
+Contents of report.—The report shall include information concerning the initial determination of scrapping capacity, both domestically and abroad, appropriate proposed regulations to implement the program, funding and staffing requirements, milestone dates for the disposal of each obsolete vessel, and longterm cost estimates for the program.
+
+&emsp;“(3)
+
+Alternatives.—In developing the program, the Secretary of Transportation, in consultation with the Secretary of the Navy and the Administrator of the Environmental Protection Agency, shall consider all alternatives and available information, including—
+
+&emsp;&emsp;“(A) alternative scrapping sites;
+
+&emsp;&emsp;“(B) vessel donations;
+
+&emsp;&emsp;“(C) sinking of vessels in deep water;
+
+&emsp;&emsp;“(D) sinking vessels for development of artificial reefs;
+
+&emsp;&emsp;“(E) sales of vessels before they become obsolete;
+
+&emsp;&emsp;“(F) results from the Navy Ship Disposal Program under section 8124 of the Department of Defense Appropriations Act, 1999 \[Pub. L. 105–262, 10 U.S.C. 7291 note\]; and
+
+&emsp;&emsp;“(G) the Report of the Department of Defense's Interagency Panel on Ship Scrapping issued in April 1998.
+
+“(e)
+
+Report.—Not later than 1 year after the date of the enactment of this Act \[Oct. 30, 2000\], and every 6 months thereafter, the Secretary of Transportation, in coordination with the Secretary of the Navy, shall report to the Committee on Transportation and Infrastructure and the Committee on Resources of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committees on Armed Services of the House of Representatives and the Senate on the progress of the vessel scrapping program developed under subsection (d)(1) and on the progress of any other scrapping of obsolete Government-owned vessels.
+
+“(f)
+
+Presidential Recommendation.—The President shall transmit with the report required by subsection (d)(1) a recommendation on—
+
+&emsp;“(1) whether it is necessary to amend the Toxic Substances Control Act (15 U.S.C. 2601 et seq.) or any other environmental statute or regulatory requirements relevant to the disposal of vessels described in section 6(c)(2) of the National Maritime Heritage Act of 1994 (16 U.S.C. 5405(c)(2)) by September 30, 2006; and
+
+&emsp;“(2) any proposed changes to those requirements to carry out such disposals.”
 
 #### Section Referred to in Other Sections
 

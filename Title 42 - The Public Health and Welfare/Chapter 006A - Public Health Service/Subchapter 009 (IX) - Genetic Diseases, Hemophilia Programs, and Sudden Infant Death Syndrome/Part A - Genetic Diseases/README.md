@@ -16,4 +16,7 @@ Part A—Genetic Diseases
 - [&sect; 00300b&#8211;4 - Public Health Service facilities](%C2%A7%2000300b%E2%80%934%20-%20Public%20Health%20Service%20facilities.md)
 - [&sect; 00300b&#8211;5 - Repealed. Pub. L. 97&#8211;35, title XXI, &sect;2193(b)(4), Aug. 13, 1981, 95 Stat. 827](%C2%A7%2000300b%E2%80%935%20-%20Repealed.%20Pub.%20L.%2097%E2%80%9335%2C%20title%20XXI%2C%20%C2%A72193%28b%29%284%29%2C%20Aug.%2013%2C%201981%2C%2095%20Stat.%20827.md)
 - [&sect; 00300b&#8211;6 - Applied technology](%C2%A7%2000300b%E2%80%936%20-%20Applied%20technology.md)
-- [&sect; 00300c to 300c&#8211;4 - Omitted](%C2%A7%2000300c%20to%20300c%E2%80%934%20-%20Omitted.md)
+- [&sect; 00300b&#8211;7 - Tourette Syndrome](%C2%A7%2000300b%E2%80%937%20-%20Tourette%20Syndrome.md)
+- [&sect; 00300b&#8211;8 - Improved newborn and child screening for heritable disorders](%C2%A7%2000300b%E2%80%938%20-%20Improved%20newborn%20and%20child%20screening%20for%20heritable%20disorders.md)
+- [&sect; 00300b&#8211;9 - Evaluating the effectiveness of newborn and child screening programs](%C2%A7%2000300b%E2%80%939%20-%20Evaluating%20the%20effectiveness%20of%20newborn%20and%20child%20screening%20programs.md)
+- [&sect; 00300b&#8211;10 - Advisory Committee on Heritable Disorders in Newborns and Children](%C2%A7%2000300b%E2%80%9310%20-%20Advisory%20Committee%20on%20Heritable%20Disorders%20in%20Newborns%20and%20Children.md)

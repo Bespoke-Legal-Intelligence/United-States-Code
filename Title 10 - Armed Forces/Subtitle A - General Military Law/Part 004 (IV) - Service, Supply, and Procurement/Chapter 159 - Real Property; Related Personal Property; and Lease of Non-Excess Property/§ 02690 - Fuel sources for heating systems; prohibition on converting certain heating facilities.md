@@ -1,6 +1,6 @@
 ### §2690. Fuel sources for heating systems; prohibition on converting certain heating facilities
 
-(a)(1) The Secretary of the military department concerned shall provide that the primary fuel source to be used in any new heating system constructed on lands under the jurisdiction of the military department is the most cost effective fuel for that heating system over the life cycle of the system.
+(a)(1) The Secretary of the military department concerned shall provide that the primaryfuel source to be used in any new heating system constructed on lands under the jurisdiction of the military department is the most cost effective fuel for that heating system over the life cycle of the system.
 
 (2) The Secretary of Defense shall prescribe regulations for the determination of the life-cycle cost effectiveness of a fuel for the purposes of paragraph (1).
 
@@ -14,7 +14,7 @@
 
 #### Amendments
 
-1997—Subsec. (b). Pub. L. 105–85 substituted “unless the Secretary determines that the conversion—” for“unless the Secretary—” in introductory provisions, added pars. (1) and (2), and struck out former pars. (1) and (2) which read as follows:
+1997—Subsec. (b). Pub. L. 105–85 substituted “unless the Secretary determines that the conversion—” for “unless the Secretary—” in introductory provisions, added pars. (1) and (2), and struck out former pars. (1) and (2) which read as follows:
 
 “(1) determines that the conversion (A) is required by the government of the country in which the facility is located, or (B) is cost effective over the life cycle of the facility; and
 

@@ -12,7 +12,7 @@ Records.—The corporation shall keep—
 
 (b)
 
-Inspection.—A member, or an agent or attorney of the member, may inspect the recordsof the corporation for any proper purpose, at any reasonable time.
+Inspection.—A member, or an agent or attorney of the member, may inspect the records of the corporation for any proper purpose, at any reasonable time.
 
 (Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1301.)
 

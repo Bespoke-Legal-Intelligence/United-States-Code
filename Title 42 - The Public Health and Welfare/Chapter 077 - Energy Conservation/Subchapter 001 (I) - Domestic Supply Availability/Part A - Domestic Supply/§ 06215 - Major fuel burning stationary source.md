@@ -42,5 +42,9 @@ Nothing in subsection (a) or (b) of this section shall affect the authority of t
 
 The terms “major fuel burning stationary source (or class or category thereof)” and “locally or regionally available coal or coal derivatives” shall have the meanings assigned to them for the purposes of section 7425 of this title.
 
-(Pub. L. 94–163, title I, §107, as added Pub. L. 95–619, title VI, §661, Nov. 9, 1978, 92 Stat. 3285.)
+(Pub. L. 94–163, title I, §107, as added Pub. L. 95–619, title VI, §661, Nov. 9, 1978, 92 Stat. 3285; amended Pub. L. 106–469, title VI, §605(b)(2), Nov. 9, 2000, 114 Stat. 2043.)
+
+#### Amendments
+
+2000—Pub. L. 106–469 inserted section catchline.
 

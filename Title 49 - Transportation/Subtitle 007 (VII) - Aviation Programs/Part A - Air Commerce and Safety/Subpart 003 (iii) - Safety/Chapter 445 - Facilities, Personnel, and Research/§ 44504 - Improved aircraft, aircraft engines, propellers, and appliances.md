@@ -8,7 +8,7 @@ Developmental Work and Service Testing.—The Administrator of the Federal Aviat
 
 Research.—The Administrator shall conduct or supervise research—
 
-&emsp;(1) to develop technologies and analyze information to predict the effects of aircraft design, maintenance, testing, wear, and fatigue on the life of aircraft and air safety;
+&emsp;(1) to develop technologies and analyze information to predict the effects of aircraft design, maintenance, testing, wear, and fatigue on the life of aircraft, including nonstructural aircraft systems, and air safety;
 
 &emsp;(2) to develop methods of analyzing and improving aircraft maintenance technology and practices, including nondestructive evaluation of aircraft structures;
 
@@ -24,9 +24,9 @@ Research.—The Administrator shall conduct or supervise research—
 
 (c)
 
-Authority To Buy Items Offering Special Advantages.—In carrying out this section,the Administrator, by negotiation or otherwise, may buy or exchange experimental aircraft, aircraft engines, propellers, and appliances that the Administrator decides may offer special advantages to aeronautics.
+Authority To Buy Items Offering Special Advantages.—In carrying out this section, the Administrator, by negotiation or otherwise, may buy or exchange experimental aircraft, aircraft engines, propellers, and appliances that the Administrator decides may offer special advantages to aeronautics.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1176.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1176; Pub. L. 106–181, title IX, §904, Apr. 5, 2000, 114 Stat. 196.)
 
 Historical and Revision Notes
 
@@ -68,7 +68,27 @@ In this section, the word “Administrator” in section 312(b) of the Federal A
 
 In subsection (a), the words “to improve” are substituted for “such . . . as tends to the creation of improved” to eliminate unnecessary words.
 
+#### Amendments
+
+2000—Subsec. (b)(1). Pub. L. 106–181 inserted “, including nonstructural aircraft systems,” after “life of aircraft”.
+
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
+
+#### Specialty Metals Consortium
+
+Pub. L. 106–181, title VII, §742, Apr. 5, 2000, 114 Stat. 175, provided that:
+
+“(a)
+
+In General.—The Administrator \[of the Federal Aviation Administration\] may work with a consortium of domestic metal producers and aircraft engine manufacturers to improve the quality of turbine engine materials and to address melting technology enhancements.
+
+“(b)
+
+Report.—Not later than 6 months after entering into an agreement with a consortium described in subsection (a), the Administrator shall transmit to Congress a report on the goals and efforts of the consortium.”
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 106, 40119, 44501, 44508, 48102 of this title.
+This section is referred to in sections 40119, 44501, 44508, 48102 of this title.
 

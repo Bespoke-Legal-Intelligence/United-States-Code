@@ -16,12 +16,6 @@
 
 1962—Pub. L. 87–651, title I, §129(2), Sept. 7, 1962, 76 Stat. 514, struck out item 9748 “Motor vehicles: for members on permanent change of station”.
 
-#### Cross References
-
-General military law provisions, see section 2631 et seq. of this title.
-
-Property records, see section 2721 of this title.
-
 
 ---
 

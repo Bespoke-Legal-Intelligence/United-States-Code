@@ -56,20 +56,6 @@ Criminal Infringement.—Any person who infringes a copyright willfully and for 
 
 Amendment by Pub. L. 101–650 effective 6 months after Dec. 1, 1990, see section 610 of Pub. L. 101–650, set out as an Effective Date note under section 106A of this title.
 
-#### Cross References
-
-Acts of infringement subject to this section—
-
-&emsp;&emsp;Making and distributing phonorecords, see section 115 of this title.
-
-&emsp;&emsp;Secondary transmission of primary transmission, see section 111 of this title.
-
-Costs or prosecution taxable in non-capital proceedings, see section 1918 of Title 28, Judiciary and Judicial Procedure.
-
-Trafficking in counterfeit labels for phonorecords and copies of motion pictures or other audiovisual works, see section 2318 of Title 18, Crimes and Criminal Procedure.
-
-Works consisting of sounds, images, or both, the first fixation of which is made simultaneously with its transmission, as subject to this section, although not yet registered, see section 411 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 101, 109, 111, 115, 119, 122, 411, 501, 509 of this title; title 18 section 2319; title 19 section 1595a.

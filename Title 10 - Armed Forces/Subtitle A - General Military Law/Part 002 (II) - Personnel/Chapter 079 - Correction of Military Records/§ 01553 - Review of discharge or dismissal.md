@@ -28,12 +28,6 @@ The Uniform Code of Military Justice (Public Law 506 of the 81st Congress), refe
 
 Section effective Jan. 1, 1959, see section 2 of Pub. L. 85–857, set out as a note preceding Part I of Title 38, Veterans’ Benefits.
 
-#### Cross References
-
-Correction of discharge, see section 3462 of Title 38, Veterans’ Benefits.
-
-Effective date of benefits awarded, see section 5110 of Title 38.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1034 of this title; title 38 sections 3462, 5110, 5303; title 42 section 213a.

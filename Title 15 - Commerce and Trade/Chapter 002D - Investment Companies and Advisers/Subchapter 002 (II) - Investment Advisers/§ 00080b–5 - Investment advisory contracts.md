@@ -22,9 +22,9 @@ Paragraph (1) of subsection (a) of this section shall not—
 
 &emsp;&emsp;(B) any other person (except a trust, governmental plan, collective trust fund, or separate account referred to in section 80a–3(c)(11) of this title), provided that the contract relates to the investment of assets in excess of $1 million,
 
-> &emsp;if the contract provides for compensation based on the asset value of the company or fund under management averaged over a specified period and increasing and decreasing proportionately with the investment performanceof the company or fund over a specified period in relation to the investment record of an appropriate index of securities prices or such other measure of investment performance as the Commission by rule, regulation, or order may specify;
+> &emsp;if the contract provides for compensation based on the asset value of the company or fund under management averaged over a specified period and increasing and decreasing proportionately with the investment performance of the company or fund over a specified period in relation to the investment record of an appropriate index of securities prices or such other measure of investment performance as the Commission by rule, regulation, or order may specify;
 
-&emsp;(3) apply with respect to any investment advisory contract between an investment adviser and a business development company, as defined in this subchapter, if (A) the compensation provided for in such contract does not exceed 20 per centum of the realized capital gains upon the funds of the business development company over a specified period or as of definite dates, computed net of all realized capital losses and unrealized capital depreciation, and the condition of section 80a–60(a)(3)(B)(iii) of this title is satisfied, and (B) the business development company does not have outstanding any option, warrant, or right issued pursuant to section 80a–60(a)(3)(B) of this title and does not have a profit-sharing plan described in section 80a–56(n) of this title;
+&emsp;(3) apply with respect to any investment advisory contract between an investment adviserand a business development company, as defined in this subchapter, if (A) the compensation provided for in such contract does not exceed 20 per centum of the realized capital gains upon the funds of the business development company over a specified period or as of definite dates, computed net of all realized capital losses and unrealized capital depreciation, and the condition of section 80a–60(a)(3)(B)(iii) of this title is satisfied, and (B) the business development company does not have outstanding any option, warrant, or right issued pursuant to section 80a–60(a)(3)(B) of this title and does not have a profit-sharing plan described in section 80a–56(n) of this title;
 
 &emsp;(4) apply to an investment advisory contract with a company excepted from the definition of an investment company under section 80a–3(c)(7) of this title; or
 
@@ -65,10 +65,6 @@ Amendment by Pub. L. 91–547 effective on expiration of one year after Dec. 14,
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
-#### Cross References
-
-Investment advisory and underwriting contracts, see section 80a–15 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment and Availability of Fund.—There is hereby established in the Treasury of the United States a special fund to be known as the “Judiciary Information Technology Fund” (hereafter in this section referred to as the “Fund”). Moneys in the Fund shall be available to the Director without fiscal year limitation for the procurement (by lease, purchase, exchange, transfer, or otherwise) of information technology equipment for program activities included in the courts of appeals, district courts, and other judicial services account of the judicial branch of the United States. The Fund shall also be available for expenses, including personal services, support personnel in the courts and in the Administrative Office of the United States Courts, and other costs, for the effective management, coordination, operation, and use of information technology equipment purchased by the Fund. In addition, all agencies of the judiciary may make deposits into the Fund to meet their information technology needs in accordance with subsections (b) and (c)(2).
+Establishment and Availability of Fund.—There is hereby established in the Treasury of the United States a special fund to be known as the “Judiciary Information Technology Fund” (hereafter in this section referred to as the “Fund”). Moneys in the Fund shall be available to the Director without fiscal year limitation for the procurement (by lease, purchase, exchange, transfer, or otherwise) of information technology resources for program activities included in the courts of appeals, district courts, and other judicial services account of the judicial branch of the United States. The Fund shall also be available for expenses, including personal services, support personnel in the courts and in the Administrative Office of the United States Courts, and other costs, for the effective management, coordination, operation, and use of information technology resources purchased by the Fund. In addition, all agencies of the judiciary may make deposits into the Fund to meet their information technology needs in accordance with subsections (b) and (c)(2).
 
 (b)
 
@@ -10,11 +10,11 @@ Plan for Meeting Information Technology Needs.—
 
 &emsp;(1)
 
-Development of plan.—The Director shall develop and annually revise, with the approval of the Judicial Conference of the United States, a long range plan for meeting the information technology equipment needs of the activities funded under subsection (a) and shall include an annual estimate of any fees that may be collected under section 404 of the Judiciary Appropriations Act, 1991 (Public Law 101–515; 104 Stat. 2133). Such plan and revisions shall be submitted to Congress.
+Development of plan.—The Director shall develop and annually revise, with the approval of the Judicial Conference of the United States, a long range plan for meeting the information technology resources needs of the activities funded under subsection (a) and shall include an annual estimate of any fees that may be collected under section 404 of the Judiciary Appropriations Act, 1991 (Public Law 101–515; 104 Stat. 2133). Such plan and revisions shall be submitted to Congress.
 
 &emsp;(2)
 
-Expenditures consistent with plan.—The Director may use amounts in the Fund to procure information technology equipment for the activities funded under subsection (a) only in accordance with the plan developed under paragraph (1).
+Expenditures consistent with plan.—The Director may use amounts in the Fund to procure information technology resources for the activities funded under subsection (a) only in accordance with the plan developed under paragraph (1).
 
 (c)
 
@@ -32,7 +32,7 @@ Deposits.—There shall be deposited in the Fund—
 
 &emsp;(2)
 
-Advances and reimbursements.—Whenever the Director procures information technology equipment for any entity in the judicial branch other than the courts or the Administrative Office, that entity shall advance or reimburse the Fund, whichever the Director considers appropriate, for the costs of the information technology equipment, from appropriations available to that entity.
+Advances and reimbursements.—Whenever the Director procures information technology resources for any entity in the judicial branch other than the courts or the Administrative Office, that entity shall advance or reimburse the Fund, whichever the Director considers appropriate, for the costs of the information technology resources, from appropriations available to that entity.
 
 (d)
 
@@ -44,11 +44,11 @@ Contract Authority.—
 
 &emsp;(1)
 
-For each fiscal year.—In fiscal year 1990, and in each succeeding fiscal year, the Director may enter into contracts for the procurement of information technology equipment in amounts which, in the aggregate, do not exceed amounts estimated to be collected under subsection (c) for that fiscal year in advance of the availability of amounts in the Fund for such contracts.
+For each fiscal year.—In fiscal year 1990, and in each succeeding fiscal year, the Director may enter into contracts for the procurement of information technology resources in amounts which, in the aggregate, do not exceed amounts estimated to be collected under subsection (c) for that fiscal year in advance of the availability of amounts in the Fund for such contracts.
 
 &emsp;(2)
 
-Multiyear contracts.—In conducting activities under subsection (a), the Director is authorized to enter into multiyear contracts for information technology equipment for periods of not more than five years for any contract, if—
+Multiyear contracts.—In conducting activities under subsection (a), the Director is authorized to enter into multiyear contracts for information technology resources for periods of not more than five years for any contract, if—
 
 &emsp;&emsp;(A) funds are available and adequate for payment of the costs of such contract for the first fiscal year and for payment of any costs of cancellation or termination of the contract;
 
@@ -56,51 +56,43 @@ Multiyear contracts.—In conducting activities under subsection (a), the Direct
 
 &emsp;&emsp;(C) the Director determines that—
 
-&emsp;&emsp;&emsp;(i) the need for the information technology equipment being provided will continue over the period of the contract; and
+&emsp;&emsp;&emsp;(i) the need for the information technology resources being provided will continue over the period of the contract; and
 
 &emsp;&emsp;&emsp;(ii) the use of the multi-year contract will yield substantial cost savings when compared with other methods of providing the necessary resources.
 
 &emsp;(3)
 
-Cancellation costs of multiyear contract.—Any cancellation costs incurred withrespect to a contract entered into under paragraph (2) shall be paid from currently available amounts in the Fund.
+Cancellation costs of multiyear contract.—Any cancellation costs incurred with respect to a contract entered into under paragraph (2) shall be paid from currently available amounts in the Fund.
 
 (f)
 
-Applicability of Procurement Statute.—The procurement of information technology equipment under this section shall be conducted in compliance with the provisions of law, policies, and regulations applicable to executive agencies under division E of the Clinger-Cohen Act of 1996 (40 U.S.C. 1401 et seq.).
-
-(g)
-
 Authority of Administrator of General Services.—Nothing in this section shall be construed to limit the authority of the Administrator of General Services under section 201 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 481).
 
-(h)
+(g)
 
 Annual Report.—
 
 &emsp;(1)
 
-In general.—The Director shall submit to the Congress an annual report on the operation of the Fund, including on the inventory, use, and acquisition of information technology equipment from the Fund and the consistency of such acquisition with the plan prepared under subsection (b). The report shall set forth the amounts deposited into the Fund under subsection (c).
+In general.—The Director shall submit to the Congress an annual report on the operation of the Fund, including on the inventory, use, and acquisition of information technology resources from the Fund and the consistency of such acquisition with the plan prepared under subsection (b). The report shall set forth the amounts deposited into the Fund under subsection (c).
 
 &emsp;(2)
 
 Additional contents of report.—The annual report submitted under this subsection shall include—
 
-&emsp;&emsp;(A) the specific actions taken and the progress made to improve the plan developed under subsection (b) and the long range automation plan and strategic business plan developed under subsection (k); and
+&emsp;&emsp;(A) the specific actions taken and the progress made to improve the plan developed under subsection (b) and the long range automation plan and strategic business plan developed under subsection (k); <sup>1</sup> and
 
 &emsp;&emsp;(B) a comparison of planned Fund expenditures and accomplishments with actual Fund expenditures and accomplishments, and the reasons for any delays in scheduled systems development, or budget overruns.
 
-&emsp;(3)
-
-Report in year of termination of authority.—The annual report submitted under this subsection for any year in which the authority for this section is to terminate under subsection (m),<sup>1</sup> shall be submitted no later than 9 months before the date of such termination.
-
-(i)
+(h)
 
 Reprogramming.—The Director of the Administrative Office of the United States Courts, under the supervision of the Judicial Conference of the United States, may transfer amounts up to $1,000,000 from the Fund into the account to which the funds were originally appropriated. Any amounts transferred from the Fund in excess of $1,000,000 in any fiscal year may only be transferred by following reprogramming procedures in compliance with section 606 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1989 (Public Law 100–459; 102 Stat. 2227).
 
+(i)
+
+Appropriations Into the Fund.—If the budget request of the judiciary is appropriated in full, the amount deposited into the Fund during any fiscal year under the authority of subsection (c)(1)(B) will be the same as the amount of funds requested by the judiciary for activities described in subsection (a). If an amount to be deposited is not specified in statute by Congress and if the full request is not appropriated, the amount to be deposited under subsection (c)(1)(B) will be set by the spending priorities established by the Judicial Conference.
+
 (j)
-
-Appropriations Into the Fund.—If the budget request of the Judiciary <sup>2</sup> is appropriated in full, the amount deposited into the Fund during any fiscal year under the authority of subparagraph (c)(1)(B) will be the same as the amount of funds requested by the Judiciary <sup>2</sup> for activities described in subsection (a). If an amount to be deposited is not specified in statute by Congress and if the full request is not appropriated, the amount to be deposited under (c)(1)(B) <sup>3</sup> will be set by the spending priorities established by the Judicial Conference.
-
-(k)
 
 Long Range Management and Business Plans.—The Director of the Administrative Office of the United States Court shall—
 
@@ -116,7 +108,7 @@ Long Range Management and Business Plans.—The Director of the Administrative O
 
 &emsp;(6) assess the current utilization and future user requirements of the data communications network.
 
-(Added Pub. L. 101–162, title IV, §404(b)(1), Nov. 21, 1989, 103 Stat. 1013; amended Pub. L. 103–420, §2, Oct. 25, 1994, 108 Stat. 4343; Pub. L. 104–106, div. E, title LVI, §5602, Feb. 10, 1996, 110 Stat. 699; Pub. L. 104–208, div. A, title I, §101(a) \[title III, §305\], Sept. 30, 1996, 110 Stat. 3009, 3009–45; Pub. L. 105–85, div. A, title X, §1073(h)(2), Nov. 18, 1997, 111 Stat. 1907; Pub. L. 105–119, title III, §304, Nov. 26, 1997, 111 Stat. 2491.)
+(Added Pub. L. 101–162, title IV, §404(b)(1), Nov. 21, 1989, 103 Stat. 1013; amended Pub. L. 103–420, §2, Oct. 25, 1994, 108 Stat. 4343; Pub. L. 104–106, div. E, title LVI, §5602, Feb. 10, 1996, 110 Stat. 699; Pub. L. 104–208, div. A, title I, §101(a) \[title III, §305\], Sept. 30, 1996, 110 Stat. 3009, 3009–45; Pub. L. 105–85, div. A, title X, §1073(h)(2), Nov. 18, 1997, 111 Stat. 1907; Pub. L. 105–119, title III, §304, Nov. 26, 1997, 111 Stat. 2491; Pub. L. 106–518, title I, §101, Nov. 13, 2000, 114 Stat. 2411.)
 
 #### References in Text
 
@@ -124,15 +116,31 @@ Section 404 of Public Law 101–515, referred to in subsecs. (b)(1) and (c)(1)(A
 
 The date of the enactment of the Judicial Amendments Act of 1994, referred to in subsec. (c)(1)(A), is the date of enactment of Pub. L. 103–420, which was approved Oct. 25, 1994.
 
-The Clinger-Cohen Act of 1996, referred to in subsec. (f), is div. D (§§4001–4402) and div. E (§§5001–5703) of Pub. L. 104–106, Feb. 10, 1996, 110 Stat. 642, 679. Div. E of Pub. L. 104–106 is classified principally to chapter 25 (§1401 et seq.) of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 1401 of Title 40, Short Title of 1996 Amendment note set out under section 251 of Title 41, Public Contracts, and Tables.
+Subsection (k), referred to in subsec. (g)(2)(A), was redesignated subsection (j) of this section by Pub. L. 106–518, title I, §101(2), Nov. 13, 2000, 114 Stat. 2411.
 
-Subsection (m), referred to in subsec. (h)(3), was redesignated subsec. (<i>l</i>) of this section by Pub. L. 104–106, div. E, title LVI, §5602(a)(4), Feb. 10, 1996, 110 Stat. 699, and subsequently repealed by Pub. L. 105–119, title III, §304, Nov. 26, 1997, 111 Stat. 2491.
-
-Section 606 of Public Law 100–459, referred to in subsec. (i), is section 606 of Pub. L. 100–459, title VI, Oct. 1, 1988, 102 Stat. 2227, which is not classified to the Code.
+Section 606 of Public Law 100–459, referred to in subsec. (h), is section 606 of Pub. L. 100–459, title VI, Oct. 1, 1988, 102 Stat. 2227, which is not classified to the Code.
 
 #### Amendments
 
-1997—Subsec. (f). Pub. L. 105–85 substituted “division E of the Clinger-Cohen Act of 1996 (40 U.S.C. 1401 et seq.)” for “the Information Technology Management Reform Act of 1996”.
+<b>2000</b>—Pub. L. 106–518, §101(1), substituted “technology resources” for “technology equipment” wherever appearing.
+
+Subsec. (f). Pub. L. 106–518, §101(2), redesignated subsec. (g) as (f) and struck out former subsec. (f) which read as follows: “(f)
+
+Applicability of Procurement Statute.—The procurement of information technology equipment under this section shall be conducted in compliance with the provisions of law, policies, andregulations applicable to executive agencies under division E of the Clinger-Cohen Act of 1996 (40 U.S.C. 1401 et seq.).”
+
+Subsec. (g). Pub. L. 106–518, §101(2), redesignated subsec. (h) as (g). Former subsec. (g) redesignated (f).
+
+Subsec. (g)(3). Pub. L. 106–518, §101(3), struck out par. (3) which read as follows: “(3)
+
+Report in year of termination of authority.—The annual report submitted under this subsection for any year in which the authority for this section is to terminate under subsection (m), shall be submitted no later than 9 months before the date of such termination.”
+
+Subsec. (h). Pub. L. 106–518, §101(2), redesignated subsec. (i) as (h). Former subsec. (h) redesignated (g).
+
+Subsec. (i). Pub. L. 106–518, §101(2), (4), redesignated subsec. (j) as (i) and substituted “judiciary” for “Judiciary” in two places, “authority of subsection (c)(1)(B)” for “authority of subparagraph (c)(1)(B)”, and “under subsection (c)(1)(B)” for “under (c)(1)(B)”. Former subsec. (i) redesignated (h).
+
+Subsecs. (j), (k). Pub. L. 106–518, §101(2), redesignated subsecs. (j) and (k) as (i) and (j), respectively.
+
+<b>1997</b>—Subsec. (f). Pub. L. 105–85 substituted “division E of the Clinger-Cohen Act of 1996 (40 U.S.C. 1401 et seq.)” for “the Information Technology Management Reform Act of 1996”.
 
 Subsec. (<i>l</i>). Pub. L. 105–119 struck out subsec. (<i>l</i>) which read as follows:
 
@@ -140,7 +148,7 @@ Subsec. (<i>l</i>). Pub. L. 105–119 struck out subsec. (<i>l</i>) which read a
 
 Termination of Authority.—The Fund, and the authorities conferred by this section, terminate on September 30, 1998. All unobligated amounts remaining in the Fund on that date shall be deposited into the fund established under section 1931 of this title to be used to reimburse other appropriations.”
 
-1996—Pub. L. 104–106, §5602(b)(1), substituted “Information Technology Fund” for “Automation Fund” in section catchline.
+<b>1996</b>—Pub. L. 104–106, §5602(b)(1), substituted “Information Technology Fund” for “Automation Fund” in section catchline.
 
 Subsec. (a). Pub. L. 104–106, §5602(b)(3), substituted “information technology” for “automatic data processing” wherever appearing.
 
@@ -166,7 +174,7 @@ Definition.—For purposes of this section, the term ‘automatic data processin
 
 Subsec. (m). Pub. L. 104–106, §5602(a)(3), redesignated subsec. (m) as (<i>l</i>).
 
-1994—Subsec. (a). Pub. L. 103–429, §2(1), inserted “program activities included in the courts of appeals, district courts, and other judicial services account of” after “equipment for” and substituted “, support personnel in the courts and in the Administrative Office of the United States Courts, and other costs, for the effective management, coordination, operation, and use of automatic data processing equipment purchased by the Fund. In addition, all agencies of the judiciary may make deposits into the Fund to meet their automatic data processing needs in accordance with subsections (b) and (c)(2)” for “and other costs, for the effective management, coordination, operation, and use of automatic data processing equipment in the judicial branch”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–429, §2(1), inserted “program activities included in the courts of appeals, district courts, and other judicial services account of” after “equipment for” and substituted “, support personnel in the courts and in the Administrative Office of the United States Courts, and other costs, for the effective management, coordination, operation, and use of automatic data processing equipment purchased by the Fund. In addition, all agencies of the judiciary may make deposits into the Fund to meet their automatic data processing needs in accordance with subsections (b) and (c)(2)” for “and other costs, for the effective management, coordination, operation, and use of automatic data processing equipment in the judicial branch”.
 
 Subsec. (b)(1). Pub. L. 103–420, §2(2), substituted “activities funded under subsection (a) and shall include an annual estimate of any fees that may be collected under section 404 of the Judiciary Appropriations Act, 1991 (Public Law 101–515; 104 Stat. 2133)” for “judicial branch”.
 
@@ -193,4 +201,10 @@ Subsec. (m). Pub. L. 103–420, §2(9), (10), redesignated subsec. (<i>l</i>) as
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see section 5701 of Pub. L. 104–106, set out as an Effective Date note under section 1401 of Title 40, Public Buildings, Property, and Works.
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed inHouse Document No. 103–7 (in which a report required under subsec. (g) of this section is listed on page 143), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

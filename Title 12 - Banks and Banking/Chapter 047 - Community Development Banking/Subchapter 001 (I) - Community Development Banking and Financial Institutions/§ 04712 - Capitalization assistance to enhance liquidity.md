@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Fund may provide assistance for the purpose of providing capital to organizationsto purchase loans or otherwise enhance the liquidity of community development financial institutions, if—
+&emsp;The Fund may provide assistance for the purpose of providing capital to organizations to purchase loans or otherwise enhance the liquidity of community development financial institutions, if—
 
 &emsp;&emsp;(A) the primary purpose of such organizations is to promote community development; and
 
@@ -46,7 +46,7 @@ Organizations that receive assistance from the Fund in accordance with this sect
 
 #### (1) Liability of Fund
 
-&emsp;The liability of the Fund and the United States Government arising out of the provision of assistance to any organization in accordance with this section shall be limited to the amount of such assistance. The Fund shall be exempt from any assessments and any other liabilities that may be imposed on controlling or principal shareholders by any Federal law or the law of any State, or territory. Nothing in this paragraph shall affect the application of Federal tax law.
+&emsp;The liability of the Fund and the United States Government arising out of the provision of assistance to any organization in accordance with this section shall be limited to the amount of such assistance. The Fund shall be exempt from any assessments and any other liabilities that may be imposed on controlling or principal shareholders by any Federal law or the law of any State, or territory.Nothing in this paragraph shall affect the application of Federal tax law.
 
 #### (2) Liability of Government
 

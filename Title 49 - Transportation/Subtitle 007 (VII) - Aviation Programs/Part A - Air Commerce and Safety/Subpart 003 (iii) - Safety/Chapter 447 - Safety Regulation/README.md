@@ -22,20 +22,24 @@
 | [44718\.](%C2%A7%2044718%20-%20Structures%20interfering%20with%20air%20commerce.md) | Structures interfering with air commerce. |
 | [44719\.](%C2%A7%2044719%20-%20Standards%20for%20navigational%20aids.md) | Standards for navigational aids. |
 | [44720\.](%C2%A7%2044720%20-%20Meteorological%20services.md) | Meteorological services. |
-| [44721\.](%C2%A7%2044721%20-%20Aeronautical%20maps%20and%20charts.md) | Aeronautical maps and charts. |
+| [44721\.](%C2%A7%2044721%20-%20Aeronautical%20charts%20and%20related%20products%20and%20services.md) | Aeronautical charts and related products and services. |
 | [44722\.](%C2%A7%2044722%20-%20Aircraft%20operations%20in%20winter%20conditions.md) | Aircraft operations in winter conditions. |
 | [44723\.](%C2%A7%2044723%20-%20Annual%20report.md) | Annual report. |
 | [44724\.](%C2%A7%2044724%20-%20Manipulation%20of%20flight%20controls.md) | Manipulation of flight controls. |
+| [44725\.](%C2%A7%2044725%20-%20Life-limited%20aircraft%20parts.md) | Life-limited aircraft parts. |
+| [44726\.](%C2%A7%2044726%20-%20Denial%20and%20revocation%20of%20certificate%20for%20counterfeit%20parts%20violations.md) | Denial and revocation of certificate for counterfeit parts violations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
+2000—Pub. L. 106–181, title V, §§504(c), 505(a)(2), title VI, §603(b), Apr. 5, 2000, 114 Stat. 134, 136, 152, substituted “Aeronautical charts and related products and services” for “Aeronautical maps and charts” in item 44721 and added items 44725 and 44726.
+
 1996—Pub. L. 104–264, title VI, §602(a)(2), Oct. 9, 1996, 110 Stat. 3264, added item 44724.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 46301, 46316 of this title; title 10 section 2640; title 11 section 1110.
+This chapter is referred to in sections 106, 46301, 46316 of this title; title 10 section 2640; title 11 section 1110.
 
 
 ---
@@ -62,7 +66,9 @@ This chapter is referred to in sections 46301, 46316 of this title; title 10 sec
 - [&sect; 44718 - Structures interfering with air commerce](%C2%A7%2044718%20-%20Structures%20interfering%20with%20air%20commerce.md)
 - [&sect; 44719 - Standards for navigational aids](%C2%A7%2044719%20-%20Standards%20for%20navigational%20aids.md)
 - [&sect; 44720 - Meteorological services](%C2%A7%2044720%20-%20Meteorological%20services.md)
-- [&sect; 44721 - Aeronautical maps and charts](%C2%A7%2044721%20-%20Aeronautical%20maps%20and%20charts.md)
+- [&sect; 44721 - Aeronautical charts and related products and services](%C2%A7%2044721%20-%20Aeronautical%20charts%20and%20related%20products%20and%20services.md)
 - [&sect; 44722 - Aircraft operations in winter conditions](%C2%A7%2044722%20-%20Aircraft%20operations%20in%20winter%20conditions.md)
 - [&sect; 44723 - Annual report](%C2%A7%2044723%20-%20Annual%20report.md)
 - [&sect; 44724 - Manipulation of flight controls](%C2%A7%2044724%20-%20Manipulation%20of%20flight%20controls.md)
+- [&sect; 44725 - Life-limited aircraft parts](%C2%A7%2044725%20-%20Life-limited%20aircraft%20parts.md)
+- [&sect; 44726 - Denial and revocation of certificate for counterfeit parts violations](%C2%A7%2044726%20-%20Denial%20and%20revocation%20of%20certificate%20for%20counterfeit%20parts%20violations.md)

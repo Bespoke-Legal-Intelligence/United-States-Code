@@ -14,7 +14,7 @@ For the purpose of all hearings and investigations, which, in the opinion of the
 
 #### (4) Process, service and return; fees of witnesses
 
-&emsp;Complaints, orders, and other process and papers of the Board, its member, agent, or agency, may be served either personally or by registered or certified mail or by telegraph orby leaving a copy thereof at the principal office or place of business of the person required to be served. The verified return by the individual so serving the same setting forth the manner of such service shall be proof of the same, and the return post office receipt or telegraph receipt therefore when registered or certified and mailed or when telegraphed as aforesaid shall be proof of service of the same. Witnesses summoned before the Board, its member, agent, or agency, shall be paid the same fees and mileage that are paid witnesses in the courts of the United States, and witnesses whose depositions are taken and the persons taking the same shall severally be entitled to the same fees as are paid for like services in the courts of the United States.
+&emsp;Complaints, orders, and other process and papers of the Board, its member, agent, or agency, may be served either personally or by registered or certified mail or by telegraph or by leaving a copy thereof at the principal office or place of business of the person required to be served. The verified return by the individual so serving the same setting forth the manner of such service shall be proof of the same, and the return post office receipt or telegraph receipt therefore when registered or certified and mailed or when telegraphed as aforesaid shall be proof of service of the same. Witnesses summoned before the Board, its member, agent, or agency, shall be paid the same fees and mileage that are paid witnesses in the courts of the United States, and witnesses whose depositions are taken and the persons taking the same shall severally be entitled to the same fees as are paid for like services in the courts of the United States.
 
 #### (5) Process, where served
 
@@ -45,14 +45,6 @@ Amendment by Pub. L. 91–452 effective on sixtieth day following Oct. 15, 1970,
 #### Effective Date of 1947 Amendment
 
 For effective date of amendment by act June 23, 1947, see section 104 of act June 23, 1947, set out as a note under section 151 of this title.
-
-#### Federal Rules of Civil Procedure
-
-Subpena, see rule 45, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-#### Cross References
-
-Immunity of witnesses, see section 6001 et seq. of Title 18, Crimes and Criminal Procedure.
 
 #### Section Referred to in Other Sections
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Type Certificates.—(1) The Administrator of the Federal Aviation Administration shallissue a type certificate for an aircraft, aircraft engine, or propeller, or for an appliance specified under paragraph (2)(A) of this subsection when the Administrator finds that the aircraft, aircraft engine, propeller, or appliance is properly designed and manufactured, performs properly, and meets the regulations and minimum standards prescribed under section 44701(a) of this title. On receiving an application for a type certificate, the Administrator shall investigate the application and may conduct a hearing. The Administrator shall make, or require the applicant to make, tests the Administrator considers necessary in the interest of safety.
+Type Certificates.—(1) The Administrator of the Federal Aviation Administration shall issue a type certificate for an aircraft, aircraft engine, or propeller, or for an appliance specified under paragraph (2)(A) of this subsection when the Administrator finds that the aircraft, aircraft engine, propeller, or appliance is properly designed and manufactured, performs properly, and meets the regulations and minimum standards prescribed under section 44701(a) of this title. On receiving an application for a type certificate, the Administrator shall investigate the application and may conduct a hearing. The Administrator shall make, or require the applicant to make, tests the Administrator considers necessary in the interest of safety.
 
 (2) The Administrator may—
 
@@ -120,5 +120,5 @@ Except as otherwise specifically provided, amendment by Pub. L. 104–264 applic
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 106, 44110, 44701, 44711, 44715, 45302, 46310, 47531 of this title.
+This section is referred to in sections 44110, 44701, 44711, 44715, 45302, 46310, 47531 of this title.
 

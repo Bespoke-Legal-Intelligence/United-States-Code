@@ -2,7 +2,7 @@
 
 (a)
 
-Annual Meetings.—The corporation shall hold an annual meeting at a time and place as provided in the bylaws. At the meeting, the annual reports of the officers and executive board shall be presented, and members of the board shall be elected for the next year.
+Annual Meetings.—The corporation shall hold an annual meeting at a time and place as provided in the bylaws. At the meeting, the annual reports of the officers and executive boardshall be presented, and members of the board shall be elected for the next year.
 
 (b)
 

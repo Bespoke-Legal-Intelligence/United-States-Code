@@ -2,7 +2,7 @@
 
 #### (a) Federal and State courts; venue; service of process; review; removal; costs
 
-The district courts of the United States and the United States courts of any Territory shallhave jurisdiction of offenses and violations under this subchapter and under the rules and regulations promulgated by the Commission in respect thereto, and, concurrent with State and Territorial courts, except as provided in section 77p of this title with respect to covered class actions, of all suits in equity and actions at law brought to enforce any liability or duty created by this subchapter. Any such suit or action may be brought in the district wherein the defendant is found or is an inhabitant or transacts business, or in the district where the offer or sale took place, if the defendant participated therein, and process in such cases may be served in any other district of which the defendant is an inhabitant or wherever the defendant may be found. Judgments and decrees so rendered shall be subject to review as provided in sections 1254, 1291, 1292, and 1294 of title 28. Except as provided in section 77p(c) of this title, no case arising under this subchapter and brought in any State court of competent jurisdiction shall be removed to any court of the United States. No costs shall be assessed for or against the Commission in any proceeding under this subchapter brought by or against it in the Supreme Court or such other courts.
+The district courts of the United States and the United States courts of any Territory shall have jurisdiction of offenses and violations under this subchapter and under the rules and regulations promulgated by the Commission in respect thereto, and, concurrent with State and Territorial courts, except as provided in section 77p of this title with respect to covered class actions, of all suits in equity and actions at law brought to enforce any liability or duty created by this subchapter. Any such suit or action may be brought in the district wherein the defendant is found or is an inhabitant or transacts business, or in the district where the offer or sale took place, if the defendant participated therein, and process in such cases may be served in any other district of which the defendant is an inhabitant or wherever the defendant may be found. Judgments and decrees so rendered shall be subject to review as provided in sections 1254, 1291, 1292, and 1294 of title 28. Except as provided in section 77p(c) of this title, no case arising under this subchapter and brought in any State court of competent jurisdiction shall be removed to any court of the United States. No costs shall be assessed for or against the Commission in any proceeding under this subchapter brought by or against it in the Supreme Court or such other courts.
 
 #### (b) Contumacy or refusal to obey subpena; contempt
 
@@ -43,56 +43,6 @@ Amendment by Pub. L. 91–452 not to affect any immunity to which any individual
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
-#### Federal Rules of Civil Procedure
-
-Costs, see rule 54, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-One form of action, see rule 2.
-
-Process, see rule 4.
-
-Subpoena, see rule 45.
-
-#### Federal Rules of Criminal Procedure
-
-Criminal contempts, see rule 42, Title 18, Appendix, Crimes and Criminal Procedure.
-
-Subpoena, see rule 17.
-
-#### Cross References
-
-Contempt proceedings, see sections 401, 402, 3285, and 3691 of Title 18, Crimes and Criminal Procedure.
-
-Enforcement of subpenas and immunity of witnesses under—
-
-&emsp;&emsp;Federal criminal procedure, generally, see section 6001 et seq. of Title 18.
-
-&emsp;&emsp;Investment Advisers Act of 1940, see section 80b–9 of this title.
-
-&emsp;&emsp;Investment Company Act of 1940, see section 80a–41 of this title.
-
-&emsp;&emsp;Public Utility Holding Company Act of 1935, see section 79r of this title.
-
-&emsp;&emsp;Securities Exchange Act of 1934, see section 78u of this title.
-
-&emsp;&emsp;Trust Indenture Act of 1939, see section 77uuu of this title.
-
-Jurisdiction of offenses and suits under—
-
-&emsp;&emsp;Investment Advisers Act of 1940, see section 80b–14 of this title.
-
-&emsp;&emsp;Investment Company Act of 1940, see section 80a–43 of this title.
-
-&emsp;&emsp;Public Utility Holding Company Act of 1935, see section 79y of this title.
-
-&emsp;&emsp;Securities Exchange Act of 1934, see section 78aa of this title.
-
-&emsp;&emsp;Trust Indenture Act of 1939, see section 77vvv of this title.
-
-Rules and regulations, authority of Commission to make, amend, and rescind, see section 77s of this title.
-
-Venue of district courts generally, see section 1391 et seq. of Title 28, Judiciary and Judicial Procedure.
 
 #### Section Referred to in Other Sections
 

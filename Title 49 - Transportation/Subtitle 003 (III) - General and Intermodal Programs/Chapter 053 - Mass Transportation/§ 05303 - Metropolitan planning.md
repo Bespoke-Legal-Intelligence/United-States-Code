@@ -116,7 +116,7 @@ Coordination.—(1) The Secretary of Transportation shall establish requirements
 
 (2) Congress consents to at least 2 States making an agreement or compact, not in conflict with a law of the United States, for cooperative efforts and mutual assistance in support of activities authorized under this section related to interstate areas and localities in the States and establishing authorities the States consider desirable for making the agreements and compacts effective.
 
-(3) If more than one metropolitan planning organization has authority in a metropolitan area or an area designated a nonattainment area for ozone or carbon monoxide under the Clean Air Act (42 U.S.C. 7401 et seq.), each organization shall consult with the other organizations designated for the area and the State to coordinate plans and projects required by this section and sections 5304–5306 of this title.
+(3) If more than one metropolitan planning organization has authority in a metropolitan area or an area designated a nonattainment area for ozone or carbon monoxide under the Clean Air Act (42 U.S.C. 7401 et seq.), each organizationshall consult with the other organizations designated for the area and the State to coordinate plans and projects required by this section and sections 5304–5306 of this title.
 
 (4) The Secretary shall encourage each metropolitan planning organization to coordinate, to the maximum extent practicable, the design and delivery of transportation services within the metropolitan planning area that are provided—
 
@@ -196,7 +196,7 @@ Developing Long-Range Transportation Plans.—(1) Each metropolitan planning org
 
 &emsp;(E) the financial plan may include, for illustrative purposes, additional projects that would be included in the adopted long-range plan if reasonable additional resources beyond those identified in the financial plan were available, except that, for the purpose of developing the long-range plan, the metropolitan planning organization and the State shall cooperatively develop estimates of funds that will be available to support plan implementation.
 
-(2) When formulating a long-range plan, the metropolitan planning organization shall consider the factors described in subsection (b) of this section and any State or local goals developed within the cooperative metropolitan planning process as they relate to a 20-year forecast period and to other forecast periods as determined by the participants in the planning process.
+(2) When formulating a long-range plan, the metropolitan planning organization shall consider the factors described in subsection (b) ofthis section and any State or local goals developed within the cooperative metropolitan planning process as they relate to a 20-year forecast period and to other forecast periods as determined by the participants in the planning process.
 
 (3) In a metropolitan area that is in a nonattainment area for ozone or carbon monoxide under the Clean Air Act (42 U.S.C. 7401 et seq.), the metropolitan planning organization shall coordinate the development of the long-range plan with the development of the transportation control measures of the State Implementation Plan required by the Act.
 
@@ -224,7 +224,7 @@ Grants.—Under criteria the Secretary of Transportation establishes, the Secret
 
 (h)
 
-Balanced and Comprehensive Planning.—(1) To the extent practicable, the Secretary ofTransportation shall ensure that amounts made available under subsection (c) or (h)(1) of section 5338 of this title to carry out this section and sections 5304 and 5305 of this title are used to support balanced and comprehensive transportation planning that considers the relationships among land use and all transportation modes, without regard to the programmatic source of the planning amounts.
+Balanced and Comprehensive Planning.—(1) To the extent practicable, the Secretary of Transportation shall ensure that amounts made available under subsection (c) or (h)(1) of section 5338 of this title to carry out this section and sections 5304 and 5305 of this title are used to support balanced and comprehensive transportation planning that considers the relationships among land use and all transportation modes, without regard to the programmatic source of the planning amounts.
 
 (2)(A) The Secretary of Transportation shall apportion 80 percent of the amount made available under subsection (c) or (h)(1) of section 5338 of this title to States in a ratio equal to the population in urbanized areas in each State divided by the total population in urbanized areas in all States, as shown by the latest available decennial census. A State may not receive less than .5 percent of the amount apportioned under this subparagraph.
 

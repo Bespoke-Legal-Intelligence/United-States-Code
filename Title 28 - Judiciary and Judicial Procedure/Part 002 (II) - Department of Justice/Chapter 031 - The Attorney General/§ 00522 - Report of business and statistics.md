@@ -28,11 +28,11 @@ The words “The Attorney General . . . shall report” are substituted for �
 
 The words “and a detailed statement of the amounts used for defraying the expenses of the United States courts in each judicial district” are omitted as obsolete in view of the creation of the Administrative Office of the United States Courts by the Act of Aug. 7, 1939, ch. 501, §1, 53 Stat. 1223 (Chapter 41 of this title).
 
-In paragraph (3), the words “involving the United States” are inserted for clarity. The function of reporting on all cases pending in the United States courts is now vested in the Administrative Office of the United States Courts, see 28 U.S.C. 604.
+In paragraph (3), the words “involving the United States” are inserted for clarity. The function of reporting on all cases pending in the United States courts isnow vested in the Administrative Office of the United States Courts, see 28 U.S.C. 604.
 
 #### Amendments
 
-1976—Pub. L. 94–273 substituted “by April 1 of each year” for “at the beginning of each regular session of Congress”.
+<b>1976</b>—Pub. L. 94–273 substituted “by April 1 of each year” for “at the beginning of each regular session of Congress”.
 
 #### Report to Congress on Banking Law Offenses
 
@@ -88,19 +88,7 @@ Specifics of Report.—The report required by subsection (a) shall—
 
 #### Congressional Oversight
 
-Pub. L. 100–700, §6, Nov. 19, 1988, 102 Stat. 4634, provided that: “Commencing with the first year after the date of enactment of this section \[Nov. 19, 1988\], the Attorney General shall annually report to the Congress with respect to—
-
-&emsp;“(1) the number of referrals of fraud cases by the Department of Defense of defense contractors (with specific statistics with respect to the one hundred largest contractors), the number of open investigation of such contractors, and a breakdown of to which United States Attorney's Office or other component of the Department of Justice each such case was referred;
-
-&emsp;“(2) the number of referrals of fraud cases from other agencies or sources;
-
-&emsp;“(3) the number of attorneys and support staff assigned pursuant to this Act \[see Tables for classification\];
-
-&emsp;“(4) the number of investigative agents assigned to each investigation and the period of time each investigation has been opened;
-
-&emsp;“(5) the number of convictions and acquittals achieved by individuals assigned to positions established by the Act; and
-
-&emsp;“(6) the sentences, recoveries, and penalties achieved by individuals assigned to positions established by this Act.”
+Pub. L. 100–700, §6, Nov. 19, 1988, 102 Stat. 4634, which required the Attorney General to report annually to Congress on referrals of fraud cases and related matters, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 120 of House Document No. 103–7.
 
 #### Report to Congress on Robberies and Burglaries Involving Controlled Substances
 
@@ -112,5 +100,5 @@ Pub. L. 98–292, §9, May 21, 1984, 98 Stat. 206, provided that: “Beginning o
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 18 section 2320; title 42 section 1997f.
+This section is referred to in title 18 section 2320; title 31 section 3516; title 42 section 1997f.
 

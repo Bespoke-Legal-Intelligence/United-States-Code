@@ -12,17 +12,7 @@
 
 (6) There are authorized to be appropriated such sums as may be necessary for fiscal year 1992, $245,000,000 for fiscal year 1993, and such sums as may be necessary for fiscal year <sup>3</sup> 1994 and 1995 to carry out subpart 2 of part B of subchapter V of this chapter.
 
-(7) There are authorized to be appropriated to carry out subchapter XII–B of this chapter—
-
-&emsp;(A) $250,000 for fiscal year 1996;
-
-&emsp;(B) $1,000,000 for fiscal year 1997;
-
-&emsp;(C) $1,000,000 for fiscal year 1998;
-
-&emsp;(D) $1,000,000 for fiscal year 1999; and
-
-&emsp;(E) $1,000,000 for fiscal year 2000.
+(7) There is authorized to be appropriated to carry out subchapter XII–B of this chapter $1,000,000 for each of fiscal years 2001 through 2005.
 
 (8) There are authorized to be appropriated such sums as may be necessary for fiscal year 1992, $16,500,000 for fiscal year 1993, and such sums as may be necessary for fiscal year <sup>3</sup> 1994 and 1995.
 
@@ -80,29 +70,11 @@
 
 &emsp;(E) $72,000,000 for fiscal year 2000.
 
-(18) There are authorized to be appropriated to carry out subchapter XII–H of this chapter—
+(18) There is authorized to be appropriated to carry out subchapter XII–H of this chapter $185,000,000 for each of fiscal years 2001 through 2005.
 
-&emsp;(A) $26,000,000 for fiscal year 1995;
+(19) There is authorized to be appropriated to carry out subchapter XII–I of this chapter $65,000,000 for each of fiscal years 2001 through 2005.
 
-&emsp;(B) $130,000,000 for fiscal year 1996;
-
-&emsp;(C) $145,000,000 for fiscal year 1997;
-
-&emsp;(D) $160,000,000 for fiscal year 1998;
-
-&emsp;(E) $165,000,000 for fiscal year 1999; and
-
-&emsp;(F) $174,000,000 for fiscal year 2000.
-
-(19) There are authorized to be appropriated to carry out subchapter XII–I of this chapter—
-
-&emsp;(A) $28,000,000 for fiscal year 1996;
-
-&emsp;(B) $33,000,000 for fiscal year 1997; and
-
-&emsp;(C) $59,000,000 for fiscal year 1998.
-
-(20) Repealed. Pub. L. 104–134, title I, §101\[(a)\] \[title I, §114(b)(1)(B)(i)\], Apr. 26, 1996, 110 Stat. 1321, 1321–21; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.
+(20) There are authorized to be appropriated to carry out subchapter XII–J of this chapter, $10,000,000 for each of fiscal years 2001 through 2004.
 
 (21) There are authorized to be appropriated to carry out subchapter XII–K of this chapter—
 
@@ -128,13 +100,27 @@
 
 &emsp;(5) $17,500,000 for fiscal year 2000.
 
-(23) There are authorized to be appropriated to carry out subchapter XII–M of this chapter, $25,000,000 for each of fiscal years 1999 through 2001.
+(23) There are authorized to be appropriated to carry out subchapter XII–M of this chapter, $25,000,000 for each of fiscal years 1999 through 2001, and $50,000,000 for each of fiscal years 2002 through 2004.
+
+(24) There are authorized to be appropriated to carry out subchapter XV of this chapter, to remain available until expended—
+
+&emsp;(A) $35,000,000 for fiscal year 2001;
+
+&emsp;(B) $85,400,000 for fiscal year 2002;
+
+&emsp;(C) $134,733,000 for fiscal year 2003;
+
+&emsp;(D) $128,067,000 for fiscal year 2004;
+
+&emsp;(E) $56,733,000 for fiscal year 2005; and
+
+&emsp;(F) $42,067,000 for fiscal year 2006.
 
 (b) Funds appropriated for any fiscal year may remain available for obligation until expended.
 
-(c) Notwithstanding any other provision of law, no funds appropriated under this section forsubchapter V of this chapter may be transferred or reprogrammed for carrying out any activity which is not authorized under such subchapter.
+(c) Notwithstanding any other provision of law, no funds appropriated under this section for subchapter V of this chapter may be transferred or reprogrammed for carrying out any activity which is not authorized under such subchapter.
 
-(Pub. L. 90–351, title I, §1001, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1218; amended Pub. L. 98–473, title II, §609D(a), Oct. 12, 1984, 98 Stat. 2097; Pub. L. 99–570, title I, §1552(c), Oct. 27, 1986, 100 Stat. 3207–46; Pub. L. 100–690, title VI, §6093, Nov. 18, 1988, 102 Stat. 4339; Pub. L. 101–647, title II, §241(c), title VIII, §801(b), title XVIII, §1801(e), title XXVIII, §2801, Nov. 29, 1990, 104 Stat. 4814, 4826, 4849, 4912; Pub. L. 102–521, §4(c), Oct. 25, 1992, 106 Stat. 3406; Pub. L. 102–534, §1, Oct. 27, 1992, 106 Stat. 3524; Pub. L. 103–322, title I, §10003(c), title II, §20201(d), title III, §32101(d), title IV, §§40121(c), 40156(c)(1), 40231(c), title V, §50001(c), title XVIII, §180101(a), title XXI, §§210201(c), 210302(c)(3), 210601, title XXXIII, §330001(b)(3), (h)(14), Sept. 13, 1994, 108 Stat. 1814, 1823, 1901, 1916, 1923, 1934, 1958, 2045, 2064, 2068, 2073, 2138, 2140; Pub. L. 104–134, title I, §101\[(a)\] \[title I, §114(b)(1)(B)(i)\], Apr. 26, 1996, 110 Stat. 1321, 1321–21; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–181, §3(b), June 16, 1998, 112 Stat. 515.)
+(Pub. L. 90–351, title I, §1001, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1218; amended Pub. L. 98–473, title II, §609D(a), Oct. 12, 1984, 98 Stat. 2097; Pub. L. 99–570, title I, §1552(c), Oct. 27, 1986, 100 Stat. 3207–46; Pub. L. 100–690, title VI, §6093, Nov. 18, 1988, 102 Stat. 4339; Pub. L. 101–647, title II, §241(c), title VIII, §801(b), title XVIII, §1801(e), title XXVIII, §2801, Nov. 29, 1990, 104 Stat. 4814, 4826, 4849, 4912; Pub. L. 102–521, §4(c), Oct. 25, 1992, 106 Stat. 3406; Pub. L. 102–534, §1, Oct. 27, 1992, 106 Stat. 3524; Pub. L. 103–322, title I, §10003(c), title II, §20201(d), title III, §32101(d), title IV, §§40121(c), 40156(c)(1), 40231(c), title V, §50001(c), title XVIII, §180101(a), title XXI, §§210201(c), 210302(c)(3), 210601, title XXXIII, §330001(b)(3), (h)(14), Sept. 13, 1994, 108 Stat. 1814, 1823, 1901, 1916, 1923, 1934, 1958, 2045, 2064, 2068, 2073, 2138, 2140; Pub. L. 104–134, title I, §101\[(a)\] \[title I, §114(b)(1)(B)(i)\], Apr. 26, 1996, 110 Stat. 1321, 1321–21; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–181, §3(b), June 16, 1998, 112 Stat. 515; Pub. L. 106–386, div. B, title I, §§1103(a), 1104, title III, §1302(c), Oct. 28, 2000, 114 Stat. 1495, 1497, 1511; Pub. L. 106–515, §3(c), Nov. 13, 2000, 114 Stat. 2403; Pub. L. 106–517, §3(f), Nov. 13, 2000, 114 Stat. 2409; Pub. L. 106–561, §2(c)(2)(A), Dec. 21, 2000, 114 Stat. 2791.)
 
 #### References in Text
 
@@ -147,6 +133,46 @@ A prior section 3793, Pub. L. 90–351, title I, §653, as added Pub. L. 91–64
 A prior section 1001 of Pub. L. 90–351, title V, June 19, 1968, 82 Stat. 235, enacted section 7313 of Title 5, Government Organization and Employees.
 
 #### Amendments
+
+2000—Subsec. (a)(7). Pub. L. 106–386, §1302(c), added par. (7) and struck out former par. (7) which read as follows: “There are authorized to be appropriated to carry out subchapter XII–B of this chapter—
+
+&emsp;“(A) $250,000 for fiscal year 1996;
+
+&emsp;“(B) $1,000,000 for fiscal year 1997;
+
+&emsp;“(C) $1,000,000 for fiscal year 1998;
+
+&emsp;“(D) $1,000,000 for fiscal year 1999; and
+
+&emsp;“(E) $1,000,000 for fiscal year 2000.”
+
+Subsec. (a)(18). Pub. L. 106–386, §1103(a), added par. (18) and struck out former par. (18) which read as follows: “There are authorized to be appropriated to carry out subchapter XII–H of this chapter—
+
+&emsp;“(A) $26,000,000 for fiscal year 1995;
+
+&emsp;“(B) $130,000,000 for fiscal year 1996;
+
+&emsp;“(C) $145,000,000 for fiscal year 1997;
+
+&emsp;“(D) $160,000,000 for fiscal year 1998;
+
+&emsp;“(E) $165,000,000 for fiscal year 1999; and
+
+&emsp;“(F) $174,000,000 for fiscal year 2000.”
+
+Subsec. (a)(19). Pub. L. 106–386, §1104, added par. (19) and struck out former par. (19) which read as follows: “There are authorized to be appropriated to carry out subchapter XII–I of this chapter—
+
+&emsp;“(A) $28,000,000 for fiscal year 1996;
+
+&emsp;“(B) $33,000,000 for fiscal year 1997; and
+
+&emsp;“(C) $59,000,000 for fiscal year 1998.”
+
+Subsec. (a)(20). Pub. L. 106–515 added par. (20).
+
+Subsec. (a)(23). Pub. L. 106–517 inserted “, and $50,000,000 for each of fiscal years 2002 through 2004” before period at end.
+
+Subsec. (a)(24). Pub. L. 106–561 added par. (24).
 
 1998—Subsec. (a)(23). Pub. L. 105–181 added par. (23).
 
@@ -275,6 +301,16 @@ Amendment by section 210302(c)(3) of Pub. L. 103–322 effective 60 days after S
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–473 effective Oct. 12, 1984, see section 609AA(a) of Pub. L. 98–473, set out as an Effective Date note under section 3711 of this title.
+
+#### Dissemination of Information
+
+Pub. L. 106–386, div. B, title III, §1302(d), Oct. 28, 2000, 114 Stat. 1511, provided that: “The Attorney General shall—
+
+&emsp;“(1) annually compile and disseminate information (including through electronic publication) about the use of amounts expended and the projects funded under section 218(a) of the Victims of Child Abuse Act of 1990 (42 U.S.C. 13014(a)), section 224(a) of the Victims of Child Abuse Act of 1990 (42 U.S.C. 13024(a)), and section 1007(a)(7) \[1001(a)(7)\] of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3793(a)(7)), including any evaluations of the projects and information to enable replication and adoption of the strategies identified in the projects; and
+
+&emsp;“(2) focus dissemination of the information described in paragraph (1) toward community-based programs, including domestic violence and sexual assault programs.”
+
+\[For definitions of “domestic violence” and “sexual assault” as used in section 1302(d)(2) of Pub. L. 106–386, set out above, see section 1002 of Pub. L. 106–386, set out as a note under section 3796gg–2 of this title.\]
 
 #### Use of Funds Available Under Former Subsection (a)(20)
 

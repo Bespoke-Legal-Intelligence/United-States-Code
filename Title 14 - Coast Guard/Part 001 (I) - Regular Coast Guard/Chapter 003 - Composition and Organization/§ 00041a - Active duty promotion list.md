@@ -16,7 +16,7 @@
 
 1993—Subsec. (b). Pub. L. 103–206 struck out before period at end of second sentence “, except that the rear admiral serving as Chief of Staff shall be the senior rear admiral for all purposes other than pay”.
 
-1981—Subsec. (a). Pub. L. 97–136, §6(a)(1), substituted “Reserve officers on active duty, other than pursuant to an active duty agreement executed under section 679 of title 10, retired officers, and officers of the permanent commissioned teaching staff of the Coast Guard Academy shall not” for “Retired officers and officers of the permanent commissioned teaching staff of the Coast Guard Academy shall not be included on the active duty promotion list. Reserve officers on extended active duty, other than those serving in connection with organizing, administering, recruiting, instructing,or training the Reserve components or assigned to the Selective Service System, shall”.
+1981—Subsec. (a). Pub. L. 97–136, §6(a)(1), substituted “Reserve officers on active duty, other than pursuant to an active duty agreement executed under section 679 of title 10, retired officers, and officers of the permanent commissioned teaching staff of the Coast Guard Academy shall not” for “Retired officers and officers of the permanent commissioned teaching staff of the Coast Guard Academy shall not be included on the active duty promotion list. Reserve officers on extended active duty, other than those serving in connection with organizing, administering, recruiting, instructing, or training the Reserve components or assigned to the Selective Service System, shall”.
 
 Subsec. (b). Pub. L. 97–136, §6(a)(2), inserted exception that rear admiral serving as Chief of Staff shall be senior rear admiral for all purposes other than pay.
 

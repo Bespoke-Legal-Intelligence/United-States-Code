@@ -12,5 +12,3 @@ Section 219, acts Apr. 27, 1904, ch. 1618, §5, 33 Stat. 318; Aug. 14, 1912, ch.
 
 Section 220, act Apr. 27, 1904, ch. 1618, §6, 33 Stat. 318, related to making false affidavit or certificate.
 
-See section 21–501 et seq. of the District of Columbia Code.
-

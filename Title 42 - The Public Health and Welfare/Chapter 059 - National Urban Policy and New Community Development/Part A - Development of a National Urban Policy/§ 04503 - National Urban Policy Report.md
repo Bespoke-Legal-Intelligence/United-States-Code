@@ -2,7 +2,7 @@
 
 #### (a) Transmittal to Congress; contents
 
-The President shall transmit to the Congress, not later than June 1, 1993, and not later thanthe first day of June of every odd-numbered year thereafter, a Report on National Urban Policy which shall contribute to the formulation of such a policy, and in addition shall include—
+The President shall transmit to the Congress, not later than June 1, 1993, and not later than the first day of June of every odd-numbered year thereafter, a Report on National Urban Policy which shall contribute to the formulation of such a policy, and in addition shall include—
 
 &emsp;(1) information, statistics, and significant trends relating to the pattern of urban development for the preceding two years;
 
@@ -80,5 +80,9 @@ Subsec. (c). Pub. L. 95–128, §601(c)(8), substituted “National Urban Policy
 
 #### Change of Name
 
-Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of reporting provisions in subsec. (a) of this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and item 1 on page 40 of House Document No. 103–7.
 

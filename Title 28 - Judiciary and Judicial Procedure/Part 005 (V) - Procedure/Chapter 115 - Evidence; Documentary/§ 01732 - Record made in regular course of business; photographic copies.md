@@ -12,23 +12,13 @@ Changes in phraseology were made.
 
 #### Amendments
 
-1975—Pub. L. 93–595 struck out subsec. (a) which had made admissible as evidence writings or records made as a memorandum or record of any act, transaction, occurrence, or event if made in the regular course of business, and struck out designation “(b)” preceding remainder of section. See Federal Rules of Evidence set out in Appendix to this title.
+<b>1975</b>—Pub. L. 93–595 struck out subsec. (a) which had made admissible as evidence writings or records made as a memorandum or record of any act, transaction, occurrence, or event if made in the regular course of business, and struck out designation “(b)” preceding remainder of section. See Federal Rules of Evidence set out in Appendix to this title.
 
-1961—Subsec. (b). Pub. L. 87–183 struck out “unless held in a custodial or fiduciary capacity or” after “may be destroyed in the regular course of business”.
+<b>1961</b>—Subsec. (b). Pub. L. 87–183 struck out “unless held in a custodial or fiduciary capacity or” after “may be destroyed in the regular course of business”.
 
-1951—Act Aug. 29, 1951, §3, inserted reference to photographic copies in section catchline.
+<b>1951</b>—Act Aug. 29, 1951, §3, inserted reference to photographic copies in section catchline.
 
 Subsecs. (a), (b). Act Aug. 28, 1951, §1, designated existing provisions as subsec. (a) and added subsec. (b).
-
-#### Federal Rules of Civil Procedure
-
-Proof of official records, see rule 44, Appendix to this title.
-
-Effect of rule 44 on former section 695 of this title, see note by Advisory Committee under rule 44.
-
-#### Federal Rules of Criminal Procedure
-
-Proof of official records, see rule 27 and note of the Advisory Committee under rule 27, Title 18, Appendix, Crimes and Criminal Procedure.
 
 #### Section Referred to in Other Sections
 

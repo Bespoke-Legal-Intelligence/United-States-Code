@@ -6,7 +6,7 @@
 
 (c) A documented vessel operating under a recreational endorsement may be operated only for pleasure.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 587; Pub. L. 99–36, §1(a)(7)(C), May 15, 1985, 99 Stat. 67; Pub. L. 99–570, title III, §3151, Oct. 27, 1986, 100 Stat. 3207–94; Pub. L. 100–710, title I, §106(b)(5), Nov. 23, 1988, 102 Stat. 4752; Pub. L. 101–225, title III, §301(a)(9), Dec. 12, 1989, 103 Stat. 1921; Pub. L. 101–595, title VI, §603(9), Nov. 16, 1990, 104 Stat. 2993.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 587; Pub. L. 99–36, §1(a)(7)(C), May 15, 1985, 99 Stat. 67; Pub.L. 99–570, title III, §3151, Oct. 27, 1986, 100 Stat. 3207–94; Pub. L. 100–710, title I, §106(b)(5), Nov. 23, 1988, 102 Stat. 4752; Pub. L. 101–225, title III, §301(a)(9), Dec. 12, 1989, 103 Stat. 1921; Pub. L. 101–595, title VI, §603(9), Nov. 16, 1990, 104 Stat. 2993.)
 
 Historical and Revision Notes
 

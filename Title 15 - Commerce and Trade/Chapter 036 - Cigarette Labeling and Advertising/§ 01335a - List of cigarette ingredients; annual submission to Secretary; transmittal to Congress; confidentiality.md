@@ -30,7 +30,7 @@ A prior section 7 of Pub. L. 89–92 was renumbered section 8 and is classified 
 
 #### Effective Date of 1984 Amendment
 
-Section 5(b) of Pub. L. 98–474 provided that: “Section 7 of the Federal Cigarette Labeling and Advertising Act \[this section\] added by subsection (a) shall take effect upon the expiration of the one-year period beginning on the date of the enactment of this Act \[Oct. 12, 1984\].”
+Section 5(b) of Pub. L. 98–474 provided that: “Section 7 of the Federal Cigarette Labeling and Advertising Act\[this section\] added by subsection (a) shall take effect upon the expiration of the one-year period beginning on the date of the enactment of this Act \[Oct. 12, 1984\].”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “judgment”.</i>
 

@@ -8,7 +8,7 @@
 
 &emsp;(3) by the Chief Justice of the United States or his or her designee, in the case of an employee of the judicial branch.
 
-(b) In order to facilitate the settlement of the accounts of deceased employees, money due an employee at the time of his death shall be paid to the person or persons surviving at the date of death, in the following order of precedence, and the payment bars recovery by another person of amounts so paid:
+(b) In order to facilitate the settlement of the accounts of deceased employees, money due an employee at the time of his death shall be paid to the person or persons surviving at the date of death, in the following order of precedence, andthe payment bars recovery by another person of amounts so paid:
 
 &emsp;First, to the beneficiary or beneficiaries designated by the employee in a writing received in the employing agency before his death.
 
@@ -58,5 +58,5 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5307, 5583, 5595 of this title; title 22 sections 2504, 3965; title 29 section 1699; title 42 section 4955.
+This section is referred to in sections 5307, 5583, 5595 of this title; title 22 sections 2504, 3965; title 42 section 4955.
 

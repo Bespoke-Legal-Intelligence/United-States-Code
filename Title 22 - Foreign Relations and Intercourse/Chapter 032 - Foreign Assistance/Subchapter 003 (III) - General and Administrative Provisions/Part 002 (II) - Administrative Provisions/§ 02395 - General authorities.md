@@ -54,9 +54,37 @@ The provisions of section 955 of title 18 shall not apply to prevent any person,
 
 #### (k) Cost-type contracts with educational institutions; payment of reimbursable indirect costs
 
-Any cost-type contract or agreement (including grants) entered into with a university, college, or other educational institution for the purpose of carrying out programs authorized by subchapter I of this chapter may provide for the payment of the reimbursable indirect costs of said university, college, or other educational institution on the basis of predetermined fixed-percentage rates applied to the total, or an element thereof, of the reimbursable direct costs incurred.
+Any cost-type contract or agreement (including grants) entered into with a university, college, or other educational institution for the purpose of carrying out programs authorized by subchapter I of this chapter may provide for thepayment of the reimbursable indirect costs of said university, college, or other educational institution on the basis of predetermined fixed-percentage rates applied to the total, or an element thereof, of the reimbursable direct costs incurred.
 
-(Pub. L. 87–195, pt. III, §635, Sept. 4, 1961, 75 Stat. 456; Pub. L. 87–565, pt. III, §302(g), Aug. 1, 1962, 76 Stat. 262; Pub. L. 88–205, pt. III, §302(e), Dec. 16, 1963, 77 Stat. 389; Pub. L. 89–171, pt. III, §302(g), Sept. 6, 1965, 79 Stat. 660; Pub. L. 89–583, pt. III, §302(d), Sept. 19, 1966, 80 Stat. 807; Pub. L. 90–137, pt. III, §302(i), Nov. 14, 1967, 81 Stat. 461; Pub. L. 95–424, title I, §102(g)(2)(G), Oct. 6, 1978, 92 Stat. 943; Pub. L. 96–53, title I, §121, Aug. 14, 1979, 93 Stat. 366.)
+#### (<i>l</i>) Program oversight
+
+The Administrator of the agency primarily responsible for administering subchapter I of this chapter may use funds made available under that subchapter to provide program and management oversight for activities that are funded under that subchapter and that are conducted in countries in which the agency does not have a field mission or office.
+
+#### (m) Working capital fund
+
+(1) There is established a working capital fund (in this subsection referred to as the “fund”) for the United States Agency for International Development (in this subsection referred to as the “Agency”) which shall be available without fiscal year limitation for the expenses of personal and nonpersonal services, equipment, and supplies for—
+
+&emsp;(A) International Cooperative Administrative Support Services; and
+
+&emsp;(B) rebates from the use of United States Government credit cards.
+
+(2) The capital of the fund shall consist of—
+
+&emsp;(A) the fair and reasonable value of such supplies, equipment, and other assets pertaining to the functions of the fund as the Administrator determines,
+
+&emsp;(B) rebates from the use of United States Government credit cards, and
+
+&emsp;(C) any appropriations made available for the purpose of providing capital,
+
+> minus related liabilities.
+
+(3) The fund shall be reimbursed or credited with advance payments for services, equipment, or supplies provided from the fund from applicable appropriations and funds of the Agency, other Federal agencies and other sources authorized by section 2357 of this title at rates that will recover total expenses of operation, including accrual of annual leave and depreciation. Receipts from the disposal of, or payments for the loss or damage to, property held in the fund, rebates, reimbursements, refunds and other credits applicable to the operation of the fund may be deposited in the fund.
+
+(4) At the close of each fiscal year the Administrator of the Agency shall transfer out of the fund to the miscellaneous receipts account of the Treasury of the United States such amounts as the Administrator determines to be in excess of the needs of the fund.
+
+(5) The fund may be charged with the current value of supplies and equipment returned to the working capital of the fund by a post, activity, or agency, and the proceeds shall he <sup>1</sup> credited to current applicable appropriations.
+
+(Pub. L. 87–195, pt. III, §635, Sept. 4, 1961, 75 Stat. 456; Pub. L. 87–565, pt. III, §302(g), Aug. 1, 1962, 76 Stat. 262; Pub. L. 88–205, pt. III, §302(e), Dec. 16, 1963, 77 Stat. 389; Pub. L. 89–171, pt. III, §302(g), Sept. 6, 1965, 79 Stat. 660; Pub. L. 89–583, pt. III, §302(d), Sept. 19, 1966, 80 Stat. 807; Pub. L. 90–137, pt. III, §302(i), Nov. 14, 1967, 81 Stat. 461; Pub. L. 95–424, title I, §102(g)(2)(G), Oct. 6, 1978, 92 Stat. 943; Pub. L. 96–53, title I, §121, Aug. 14, 1979, 93 Stat. 366; Pub. L. 106–264, title III, §301, Aug. 19, 2000, 114 Stat. 760; Pub. L. 106–309, title IV, §404, Oct. 17, 2000, 114 Stat. 1098.)
 
 #### References in Text
 
@@ -75,6 +103,10 @@ References to part I of subchapter I of this chapter are deemed to include a ref
 In subsec. (g)(5), “chapter 91 of title 31” substituted for “the Government Corporation Control Act, as amended (31 U.S.C. 841 et seq.)” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
+
+2000—Subsec. (<i>l</i>). Pub. L. 106–264 added subsec. (<i>l</i>).
+
+Subsec. (m). Pub. L. 106–309 added subsec. (m).
 
 1979—Subsec. (c). Pub. L. 96–53 substituted “Agency for International Development” for “Advisory Committee on Voluntary Foreign Aid”.
 
@@ -119,4 +151,6 @@ Pub. L. 93–333, §4, July 8, 1974, 88 Stat. 290, relating to cancellation, ren
 #### Termination of Advisory Committees
 
 Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “be”.</i>
 

@@ -144,6 +144,10 @@ Amendment by Pub. L. 104–79 applicable with respect to reports, designations, 
 
 Amendment by Pub. L. 96–187 effective Jan. 8, 1980, see section 301(a) of Pub. L. 96–187, set out as a note under section 431 of this title.
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsecs. (a)(9) and (f) of this section relating to submittal of annual reports to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 168 of House Document No. 103–7.
+
 #### Transition Provisions
 
 Disapproval of rules and regulations by either House of Congress under subsec. (d) of this section within 30 legislative days after receipt to be deemed to allow such disapproval within 15 days with respect to rules and regulations implementing Pub. L. 96–187 proposed under section 303(a) of Pub. L. 96–187, see section 303(b) of Pub. L. 96–187, set out as a note under section 431 of this title.

@@ -14,3 +14,11 @@ It shall be the duty of the corporation and all communications common carriers t
 
 (Pub. L. 87–624, title IV, §403, Aug. 31, 1962, 76 Stat. 426.)
 
+#### Termination of Section
+
+<i>Section to cease to be effective on the effective date of a Commission order determining under section 761(b)(2) of this title that INTELSAT privatization is consistent with criteria in sections 763 and 763a of this title, see section 765d(4) of this title.</i>
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 765d of this title.
+

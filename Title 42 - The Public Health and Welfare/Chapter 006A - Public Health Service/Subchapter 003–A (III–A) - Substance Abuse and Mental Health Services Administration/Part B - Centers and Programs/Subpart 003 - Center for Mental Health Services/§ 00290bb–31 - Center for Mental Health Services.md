@@ -16,47 +16,61 @@ The Director of the Center shall—
 
 &emsp;(2) encourage and assist local entities and State agencies to achieve the goals and priorities described in paragraph (1);
 
-&emsp;(3) develop and coordinate Federal prevention policies and programs and to assure increased focus on the prevention of mental illness and the promotion of mental health;
+&emsp;(3) collaborate with the Department of Education and the Department of Justice to develop programs to assist local communities in addressing violence among children and adolescents;
 
-&emsp;(4) develop improved methods of treating individuals with mental health problems and improved methods of assisting the families of such individuals;
+&emsp;(4) develop and coordinate Federal prevention policies and programs and to assure increased focus on the prevention of mental illness and the promotion of mental health;
 
-&emsp;(5) administer the mental health services block grant program authorized in section 300x of this title;
+&emsp;(5) develop improved methods of treating individuals with mental health problems and improved methods of assisting the families of such individuals;
 
-&emsp;(6) promote policies and programs at Federal, State, and local levels and in the private sector that foster independence and protect the legal rights of persons with mental illness, including carrying out the provisions of the Protection and Advocacy of Mentally Ill Individuals Act \[42 U.S.C. 10801 et seq.\];
+&emsp;(6) administer the mental health services block grant program authorized in section 300x of this title;
 
-&emsp;(7) carry out the programs authorized under sections 290bb–32 and 290cc–21 of this title, including the Community Support Program and the Child and Adolescent Service System Programs;
+&emsp;(7) promote policies and programs at Federal, State, and local levels and in the private sector that foster independence and protect the legal rights of persons with mental illness, including carrying out the provisions of the Protection and Advocacy of Mentally Ill Individuals Act <sup>1</sup> \[42 U.S.C. 10801 et seq.\];
 
-&emsp;(8) carry out responsibilities for the Human Resource Development program, and programs of clinical training for professional and paraprofessional personnel pursuant to section 242a of this title;
+&emsp;(8) carry out the programs under part C of this subchapter; and
 
-&emsp;(9) conduct services-related assessments, including evaluations of the organization and financing of care, self-help and consumer-run programs, mental health economics, mental health service systems, rural mental health, and improve the capacity of State to conduct evaluations of publicly funded mental health programs;
+&emsp;(9) carry out responsibilities for the Human Resource Development programs;
 
-&emsp;(10) establish a clearinghouse for mental health information to assure the widespread dissemination of such information to States, political subdivisions, educational agencies and institutions, treatment and prevention service providers, and the general public, including information concerning the practical application of research supported by the National Institute of Mental Health that is applicable to improving the delivery of services;
+&emsp;(10) conduct services-related assessments, including evaluations of the organization and financing of care, self-help and consumer-run programs, mental health economics, mental health service systems, rural mental health, and improve the capacity of State to conduct evaluations of publicly funded mental health programs;
 
-&emsp;(11) provide technical assistance to public and private entities that are providers of mental health services;
+&emsp;(11) establish a clearinghouse for mental health information to assure the widespread dissemination of such information to States, political subdivisions, educational agencies and institutions, treatment and prevention service providers, and the general public, including information concerning the practical application of research supported by the National Institute of Mental Health that is applicable to improving the delivery of services;
 
-&emsp;(12) monitor and enforce obligations incurred by community mental health centers pursuant to the Community Mental Health Centers Act (as in effect prior to the repeal of such Act on August 13, 1981, by section 902(e)(2)(B) of Public Law 97–35 (95 Stat. 560));
+&emsp;(12) provide technical assistance to public and private entities that are providers of mental health services;
 
-&emsp;(13) conduct surveys with respect to mental health, such as the National Reporting Program; and
+&emsp;(13) monitor and enforce obligations incurred by community mental health centers pursuant to the Community Mental Health Centers Act (as in effect prior to the repeal of such Act on August 13, 1981, by section 902(e)(2)(B) of Public Law 97–35 (95 Stat. 560));
 
-&emsp;(14) assist States in improving their mental health data collection.
+&emsp;(14) conduct surveys with respect to mental health, such as the National Reporting Program; and
+
+&emsp;(15) assist States in improving their mental health data collection.
 
 #### (c) Grants and contracts
 
-In carrying out the duties established in subsection (b) of this section, the Director maymake grants to and enter into contracts and cooperative agreements with public and nonprofit private entities.
+In carrying out the duties established in subsection (b) of this section, the Director may make grants to and enter into contracts and cooperative agreements with public and nonprofit private entities.
 
-(July 1, 1944, ch. 373, title V, §520, as added Pub. L. 102–321, title I, §115(a), July 10, 1992, 106 Stat. 346.)
+(July 1, 1944, ch. 373, title V, §520, as added Pub. L. 102–321, title I, §115(a), July 10, 1992, 106 Stat. 346; amended Pub. L. 106–310, div. B, title XXXI, §3112(c), Oct. 17, 2000, 114 Stat. 1188.)
 
 #### References in Text
 
-The Protection and Advocacy of Mentally Ill Individuals Act, referred to in subsec. (b)(6), probably means the Protection and Advocacy for Mentally Ill Individuals Act of 1986, which is Pub. L. 99–319, May 23, 1986, 100 Stat. 478, which is classified generally to chapter 114 (§10801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 10801 of this title and Tables.
+The Protection and Advocacy of Mentally Ill Individuals Act, referred to in subsec. (b)(7), probably means the Protection and Advocacy for Mentally Ill Individuals Act of 1986, which was Pub. L. 99–319, May 23, 1986, 100 Stat. 478, as amended. Pub. L. 99–319 was renamed the Protection and Advocacy for Individuals with Mental Illness Act by Pub. L. 106–310, div. B, title XXXII, §3206(a), Oct. 17, 2000, 114 Stat. 1193, and is classified generally to chapter 114 (§10801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 10801 of this title and Tables.
 
-The Community Mental Health Centers Act, referred to in subsec. (b)(12), is title II of Pub. L. 88–164, as added by Pub. L. 94–63, title III, §303, July 29, 1975, 89 Stat. 309, and amended, which was classified principally to subchapter III (§2689 et seq.) of chapter 33 of this title prior to its repeal by Pub. L. 97–35, title IX, §902(e)(2)(B), Aug. 13, 1981, 95 Stat. 560.
+The Community Mental Health Centers Act, referred to in subsec. (b)(13), is title II of Pub. L. 88–164, as added by Pub. L. 94–63, title III, §303, July 29, 1975, 89 Stat. 309, and amended, which was classified principally to subchapter III (§2689 et seq.) of chapter 33 of this title prior to its repeal by Pub. L. 97–35, title IX, §902(e)(2)(B), Aug. 13, 1981, 95 Stat. 560.
 
 #### Prior Provisions
 
 A prior section 520 of act July 1, 1944, which was classified to section 290cc–13 of this title, was renumbered section 520A of act July 1, 1944, by Pub. L. 102–321 and transferred to section 290bb–32 of this title.
 
 Another prior section 520 of act July 1, 1944, was renumbered section 519 by Pub. L. 101–93 and classified to section 290cc–12 of this title, prior to repeal by Pub. L. 102–321, §117.
+
+#### Amendments
+
+2000—Subsec. (b)(3) to (7). Pub. L. 106–310, §3112(c)(1), (2), added par. (3) and redesignated former pars. (3) to (6) as (4) to (7), respectively. Former par. (7) redesignated (8).
+
+Subsec. (b)(8). Pub. L. 106–310, §3112(c)(1), (3), redesignated par. (7) as (8) and substituted “programs under part C of this subchapter” for “programs authorized under sections 290bb–32 and 290cc–21 of this title, including the Community Support Program and the Child and Adolescent Service System Programs”. Former par. (8) redesignated (9).
+
+Subsec. (b)(9). Pub. L. 106–310, §3112(c)(4), which directed the amendment of par. (9) by substituting “programs” for “program and programs of clinical training for professional and paraprofessional personnel pursuant to section 242a of this title” was executed by making the substitution for the phrase which began with the words “program, and programs”, to reflect the probable intent of Congress.
+
+Pub. L. 106–310, §3112(c)(1), redesignated par. (8) as (9). Former par. (9) redesignated (10).
+
+Subsec. (b)(10) to (15). Pub. L. 106–310, §3112(c)(1), redesignated pars. (9) to (14) as (10) to (15), respectively.
 
 #### Effective Date
 
@@ -65,4 +79,6 @@ Section effective Oct. 1, 1992, with provision for programs providing financial 
 #### Mental Health Services for Individuals in Correctional Facilities
 
 Section 703 of Pub. L. 102–321 directed Secretary of Health and Human Services, acting through Director of Center for Mental Health Services, not later than July 10, 1992, to prepare and submit to Congress a report concerning most effective methods for providing mental health services to individuals who come into contact with the criminal justice system, including those individuals incarcerated in correctional facilities (including local jails and detention facilities), and the obstacles to providing such services, with such study to be carried out in consultation with the National Institute of Mental Health, the Department of Justice, and other appropriate public and private entities.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

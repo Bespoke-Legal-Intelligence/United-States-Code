@@ -12,7 +12,7 @@ Act July 11, 1940, ch. 581, 54 Stat. 752, provided in part that: “The consent 
 
 “
 
-Sec. 2. Without further submission of said compact, the consent of Congress is hereby given to the State of Virginia or any other State with waters in the Ohio River drainage basin, entering into said compact as a signatory State and party in addition to the States therein named or any of them.
+Sec. 2. Without further submission of said compact, the consent of Congress is hereby given to the State ofVirginia or any other State with waters in the Ohio River drainage basin, entering into said compact as a signatory State and party in addition to the States therein named or any of them.
 
 “
 

@@ -2,7 +2,7 @@
 
 #### (a) Form; assurances; public hearings
 
-(1) Each State desiring to receive an allotment for any fiscal year under this subchapter shallsubmit an application to the Secretary. Each such application shall be in such form as the Secretary shall require. Each such application shall contain assurances by the chief executive officer of the State that the State will meet the conditions enumerated in subsection (b) of this section.
+(1) Each State desiring to receive an allotment for any fiscal year under this subchapter shall submit an application to the Secretary. Each such application shall be in such form as the Secretary shall require. Each such application shall contain assurances by the chief executive officer of the State that the State will meet the conditions enumerated in subsection (b) of this section.
 
 (2) After the expiration of the first fiscal year for which a State receives funds under this subchapter, no funds shall be allotted to such State for any fiscal year under this subchapter unless such State conducts public hearings with respect to the proposed use and distribution of funds to be provided under this subchapter for such fiscal year.
 
@@ -42,7 +42,7 @@ As part of the annual application required by subsection (a) of this section, th
 
 > &emsp;&emsp;except that a State may not exclude a household from eligibility in a fiscal year solely on the basis of household income if such income is less than 110 percent of the poverty level for such State, but the State may give priority to those households with the highest home energy costs or needs in relation to household income;
 
-&emsp;(3) conduct outreach activities designed to assure that eligible households, especially households with elderly individuals or disabled individuals, or both, and households with high home energy burdens, are made aware of the assistance available under this subchapter, and any similar energy-related assistance available under subtitle B of title VI (relating to community services block grant program) \[42 U.S.C. 9901 et seq.\] or under any other provision of law which carries out programs which were administered under the Economic Opportunity Act of 1964 \[42 U.S.C. 2701 et seq.\] before August 13, 1981;
+&emsp;(3) conduct outreach activities designed to assure that eligible households, especiallyhouseholds with elderly individuals or disabled individuals, or both, and households with high home energy burdens, are made aware of the assistance available under this subchapter, and any similar energy-related assistance available under subtitle B of title VI (relating to community services block grant program) \[42 U.S.C. 9901 et seq.\] or under any other provision of law which carries out programs which were administered under the Economic Opportunity Act of 1964 \[42 U.S.C. 2701 et seq.\] before August 13, 1981;
 
 &emsp;(4) coordinate its activities under this subchapter with similar and related programs administered by the Federal Government and such State, particularly low-income energy-related programs under subtitle B of title VI (relating to community services block grant program) \[42 U.S.C. 9901 et seq.\], under the supplemental security income program, under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\], under title XX of the Social Security Act \[42 U.S.C. 1397 et seq.\], under the low-income weatherization assistance program under title IV of the Energy Conservation and Production Act \[42 U.S.C. 6851 et seq.\], or under any other provision of law which carries out programs which were administered under the Economic Opportunity Act of 1964 \[42 U.S.C. 2701 et seq.\] before August 13, 1981;
 
@@ -58,7 +58,7 @@ As part of the annual application required by subsection (a) of this section, th
 
 &emsp;&emsp;(A) notify each participating household of the amount of assistance paid on its behalf;
 
-&emsp;&emsp;(B) assure that the home energy supplier will charge the eligible household, in thenormal billing process, the difference between the actual cost of the home energy and the amount of the payment made by the State under this subchapter;
+&emsp;&emsp;(B) assure that the home energy supplier will charge the eligible household, in the normal billing process, the difference between the actual cost of the home energy and the amount of the payment made by the State under this subchapter;
 
 &emsp;&emsp;(C) assure that the home energy supplier will provide assurances that any agreement entered into with a home energy supplier under this paragraph will contain provisions to assure that no household receiving assistance under this subchapter will be treated adversely because of such assistance under applicable provisions of State law or public regulatory requirements; and
 
@@ -98,7 +98,7 @@ Not later than 18 months after May 18, 1994, the Secretary shall develop model p
 
 &emsp;(B) describes the benefit levels to be used by the State for each type of assistance including assistance to be provided for emergency crisis intervention and for weatherization and other energy-related home repair;
 
-&emsp;(C) contains estimates of the amount of funds the State will use for each of the programs under such plan and describes the alternative use of funds reserved under section 8623(c) of this title in the event any portion ofthe amount so reserved is not expended for emergencies;
+&emsp;(C) contains estimates of the amount of funds the State will use for each of the programs under such plan and describes the alternative use of funds reserved under section 8623(c) of this title in the event any portion of the amount so reserved is not expended for emergencies;
 
 &emsp;(D) describes weatherization and other energy-related home repair the State will provide under subsection (k) of this section, including any steps the State will take to address the weatherization and energy-related home repair needs of households that have high home energy burdens, and describes any rules promulgated by the Department of Energy for administration of its Low Income Weatherization Assistance Program which the State, to the extent permitted by the Secretary to increase consistency between federally assisted programs, will follow regarding the use of funds provided under this subchapter by the State for such weatherization and energy-related home repairs and improvements;
 
@@ -128,7 +128,7 @@ The State shall expend funds in accordance with the State plan under this subcha
 
 #### (e) Conduct of audits
 
-Each State shall, in carrying out the requirements of subsection (b)(10) of this section, obtain financial and compliance audits of any funds which the State receives under this subchapter. Such audits shall be made public within the State on a timely basis. The audits shall be conducted in accordance with chapter 75 of title 31.
+Each State shall, in carrying out the requirements of subsection (b)(10) of this section, obtain financial and compliance audits of any funds which the State receives under this subchapter. Such audits shall be made public within the State on a timely basis. The audits shall beconducted in accordance with chapter 75 of title 31.
 
 #### (f) Payments or assistance not to be deemed income or resources for any purpose under Federal or State law; determination of excess shelter expense deduction
 
@@ -184,7 +184,7 @@ In verifying income eligibility for purposes of subsection (b)(2)(B) of this sec
 
 &emsp;(i)(I) the number of households in the State that will receive benefits, other than weatherization and energy-related home repair, under this subchapter in such fiscal year will not be fewer than the number of households in the State that received benefits, other than weatherization and energy-related home repair, under this subchapter in the preceding fiscal year;
 
-&emsp;(II) the aggregate amounts of benefits that will be received under this subchapter by all households in the State in such fiscal year will not be less than the aggregate amount of such benefits that were received under this subchapter by all households in the State in the preceding fiscal year; and
+&emsp;(II) the aggregate amounts of benefits that will be received under this subchapter by all households in the State in such fiscal year will not be less than the aggregate amount of suchbenefits that were received under this subchapter by all households in the State in the preceding fiscal year; and
 
 &emsp;(III) such weatherization activities have been demonstrated to produce measurable savings in energy expenditures by low-income households; or
 
@@ -242,7 +242,7 @@ Subsec. (k)(1), (2)(A). Pub. L. 105–285, §306(3), inserted before period at e
 
 Pub. L. 103–252, §311(b), inserted at end “Not later than 18 months after May 18, 1994, the Secretary shall develop model performance goals and measurements in consultation with State, territorial, tribal, and local grantees, that the States may use to assess the success of the States in achieving the purposes of this subchapter. The model performance goals and measurements shall be made available to States to be incorporated, at the option of the States, into the plans for fiscal year 1997. The Secretary may request data relevant to the development of model performance goals and measurements.”
 
-Subsec. (b)(1). Pub. L. 103–252, §305(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “use the funds available under this subchapter for the purposes described in section 8621(a) of this title and otherwise in accordance with the requirements of this subchapter, and agrees not to use such funds for any payments other than payments specified in this section;”.
+Subsec. (b)(1). Pub. L. 103–252, §305(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “use the funds available under this subchapter for the purposes described in section 8621(a) of this titleand otherwise in accordance with the requirements of this subchapter, and agrees not to use such funds for any payments other than payments specified in this section;”.
 
 Subsec. (b)(2)(B). Pub. L. 103–252, §306(a), in concluding provisions substituted “except that a State may not exclude a household from eligibility in a fiscal year solely on the basis of household income if such income is less than 110 percent of the poverty level for such State, but the State may give priority to those households with the highest home energy costs or needs in relation to household income;” for “except that no household may be excluded from eligibility under this subclause for payments under this subchapter for fiscal year 1986 and thereafter if the household has an income which is less than 110 percent of the poverty level for such State for such fiscal year”.
 
@@ -366,7 +366,7 @@ Equal Treatment in Benefit Programs.—Tenants described in subsection (a) shall
 
 “(c)
 
-Applicability.—This section applies to programs under the United States Housing Act of 1937 \[42 U.S.C.1437 et seq.\], the National Housing Act \[12 U.S.C. 1701 et seq.\], section 101 of the Housing and Urban Development Act of 1965 \[12 U.S.C. 1701s\], section 202 of the Housing Act of 1959 \[12 U.S.C. 1701q\], and title V of the Housing Act of 1949 \[42 U.S.C. 1471 et seq.\].
+Applicability.—This section applies to programs under the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\], the National Housing Act \[12 U.S.C. 1701 et seq.\], section 101 of the Housing and Urban Development Act of 1965 \[12 U.S.C. 1701s\], section 202 of the Housing Act of 1959 \[12 U.S.C. 1701q\], and title V of the Housing Act of 1949 \[42 U.S.C. 1471 et seq.\].
 
 “(d)
 

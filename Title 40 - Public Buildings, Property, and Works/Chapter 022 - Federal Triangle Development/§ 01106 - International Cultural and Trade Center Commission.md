@@ -14,7 +14,7 @@ The duties of the Commission are as follows:
 
 &emsp;(3) To operate and manage any space leased under section 1107 of this title in accordance with the objectives of this chapter.
 
-&emsp;(4) To prepare under section 1107 of this title an annual report on the operation and management of such space.
+&emsp;(4) To prepare under section 1107 of this title an annual report on the operation and management of such space.<sup>1</sup>
 
 #### (c) Membership
 
@@ -46,7 +46,7 @@ The duties of the Commission are as follows:
 
 #### (A) General rule
 
-&emsp;&emsp;Except as provided in subparagraph (B), the terms of office of the private sector Members <sup>1</sup> first taking office shall begin on August 21, 1987, and shall expire as designated at the time of appointment, two at the end of two years, two at the end of four years, and two at the end of six years.
+&emsp;&emsp;Except as provided in subparagraph (B), the terms of office of the private sector Members <sup>2</sup> first taking office shall begin on August 21, 1987, and shall expire as designated at the time of appointment, two at the end of two years, two at the end of four years, and two at the end of six years.
 
 #### (B) Filling a vacancy
 
@@ -78,7 +78,7 @@ The duties of the Commission are as follows:
 
 &emsp;The Commission may appoint and fix the pay of not to exceed 10 individuals, including an individual to serve as the executive director of the Commission. Staff appointed under this paragraph shall be appointed subject to the provisions of title 5 governing appointments in the competitive service, and shall be paid in accordance with the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates; except that—
 
-&emsp;&emsp;(A) the individual appointed to serve as the executive director and one other individual appointed to the staff of the Commission may be appointed and compensated without regard to such provisions; and
+&emsp;&emsp;(A) the individual appointed to serve as the executive director and one other individual appointed to the staff of the Commissionmay be appointed and compensated without regard to such provisions; and
 
 &emsp;&emsp;(B) the pay of any individual (other than the 2 individuals referred to in subparagraph (A)) appointed under this paragraph shall be at a rate not to exceed the maximum rate of basic pay payable for GS–17 of the General Schedule.
 
@@ -156,6 +156,8 @@ Upon request of the Commission, the Secretary of State, the Secretary of Commerc
 
 #### References in Text
 
+The annual reporting requirement under section 1107 of this title, referred to in subsec. (b)(4), was omitted from the Code. See Codification note under section 1107 of this title.
+
 The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (d)(2), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
 
 #### Amendments
@@ -180,5 +182,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 This section is referred to in sections 1107, 1109 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should not be capitalized.</i>
 

@@ -23,7 +23,7 @@
 | (b) | Non-Federal participation through nonstructural alternatives; limitation. |
 | 701b–12. | Floodplain management requirements. |
 | (a) | Compliance with floodplain management and insurance programs. |
-| (b) | Flood plain management plans. |
+| (b) | Floodplain management plans. |
 | (c) | Guidelines. |
 | (d) | Technical support. |
 | 701b–13. | Construction of flood control projects by non-Federal interests. |

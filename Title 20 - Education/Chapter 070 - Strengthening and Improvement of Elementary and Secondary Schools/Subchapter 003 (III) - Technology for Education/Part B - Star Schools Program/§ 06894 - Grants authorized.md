@@ -68,7 +68,7 @@ The Secretary, through the Office of Educational Technology, is authorized to ma
 
 #### (2) Reduction or waiver
 
-&emsp;The Secretary may reduce or waive the requirement of the non-Federal share under paragraph (1) upon a showing of financial hardship.
+&emsp;The Secretary may reduce or waive the requirement of the non-Federal share underparagraph (1) upon a showing of financial hardship.
 
 #### (f) Authority to accept funds from other agencies
 

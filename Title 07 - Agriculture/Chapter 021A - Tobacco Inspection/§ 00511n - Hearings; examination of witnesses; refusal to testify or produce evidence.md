@@ -4,7 +4,3 @@ In carrying on the work authorized in this chapter, the Secretary, or any office
 
 (Aug. 23, 1935, ch. 623, §15, 49 Stat. 735.)
 
-#### Federal Rules of Civil Procedure
-
-Subpena, see rule 45, Title 28, Appendix, Judiciary and Judicial Procedure.
-

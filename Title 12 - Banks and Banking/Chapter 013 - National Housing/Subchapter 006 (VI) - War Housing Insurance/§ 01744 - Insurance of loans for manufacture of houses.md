@@ -2,13 +2,13 @@
 
 #### (a) Relief of housing shortage; advances
 
-In order to assist in relieving the acute shortage of housing which now exists and to promote the production of housing for veterans of World War II at moderate prices or rentals within their reasonable ability to pay, through the application of modern industrial processes, the Secretary is authorized to insure loans to financethe manufacture of housing (including advances on such loans) when such loans are eligible for insurance as hereinafter provided.
+In order to assist in relieving the acute shortage of housing which now exists and to promote the production of housing for veterans of World War II at moderate prices or rentals within their reasonable ability to pay, through the application of modern industrial processes, the Secretary is authorized to insure loans to finance the manufacture of housing (including advances on such loans) when such loans are eligible for insurance as hereinafter provided.
 
 #### (b) Eligibility requirements
 
 Loans for the manufacture of houses shall be eligible for insurance under this section if at the time of such insurance, the Secretary determines they meet the following conditions:
 
-&emsp;(1) The manufacturer shall establish that binding purchase contracts have been executed satisfactory to the Secretary providing for the purchase and delivery of the houses to be manufactured, which contracts shall provide for the payment of the purchase price at such time as may be agreed to by the parties thereto, but, in no event, shall the purchase price be payable on a date in excess of thirty days after the date of delivery of such houses, unless not less than 20 per centum of such purchase price is paid on or before the date of delivery and the lender has accepted and discounted or has agreed to accept and discount, pursuant to subsection (i) of this section a promissory note or notes, executed by the purchaser, representing the unpaid portion of such purchase price, in which event such unpaid portion of the purchase price may be payable on a date not in excess of one hundred and eighty days from the date of delivery of such houses;
+&emsp;(1) The manufacturer shall establish that binding purchase contracts have been executed satisfactory to the Secretary providing for the purchase and delivery of the houses to be manufactured, which contracts shall provide for the payment of the purchase price at such time as may be agreed to by the parties thereto, but, in no event, shall the purchase pricebe payable on a date in excess of thirty days after the date of delivery of such houses, unless not less than 20 per centum of such purchase price is paid on or before the date of delivery and the lender has accepted and discounted or has agreed to accept and discount, pursuant to subsection (i) of this section a promissory note or notes, executed by the purchaser, representing the unpaid portion of such purchase price, in which event such unpaid portion of the purchase price may be payable on a date not in excess of one hundred and eighty days from the date of delivery of such houses;
 
 &emsp;(2) Such houses to be manufactured shall meet such requirements of sound quality, durability, livability, and safety as may be prescribed by the Secretary;
 
@@ -67,10 +67,6 @@ The Secretary shall fix a premium charge for the insurance granted under this se
 Subsec. (f). Act Aug. 10, 1948, §101(d)(3), inserted last sentence.
 
 Subsec. (i). Act Aug. 10, 1948, §101(d)(4), added subsec. (i).
-
-#### Cross References
-
-Administrative procedure, functions conferred hereunder not included as agency action, see section 551 of Title 5, Government Organization and Employees.
 
 #### Section Referred to in Other Sections
 

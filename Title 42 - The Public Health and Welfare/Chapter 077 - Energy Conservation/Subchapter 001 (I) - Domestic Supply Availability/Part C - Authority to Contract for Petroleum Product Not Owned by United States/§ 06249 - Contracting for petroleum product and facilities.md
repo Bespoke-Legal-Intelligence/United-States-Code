@@ -16,9 +16,9 @@ Subject to the other provisions of this part, the Secretary may contract—
 
 &emsp;(A) the Secretary determines (i) that entering into one or more contracts under such subsection would achieve benefits comparable to the acquisition of an equivalent amount of petroleum product, or an equivalent volume of storage capacity, for the Reserve under part B of this subchapter, and (ii) that, because of budgetary constraints, the acquisition of an equivalent amount of petroleum product or volume of storage space for the Reserve cannot be accomplished under part B of this subchapter; and
 
-&emsp;(B) the Secretary notifies each House of the Congress of such determination and includes in such notification the same information required under section 6234(e) of this title with regard to storage and related facilities proposed to be included, or petroleum product proposed to be stored, in the Reserve.
+&emsp;(B) the Secretary notifies each House of the Congress of the determination and identifies in the notification the location, type, and ownership of storage and related facilities proposed to be included, or the volume, type, and ownership of petroleum products proposed to be stored, in the Reserve, and an estimate of the proposed benefits.
 
-(3) A contract entered into under subsection (a) of this section shall not limit the discretion of the President or the Secretary to conduct a drawdown and distribution of the Reserve.
+(3) A contract entered into under subsection (a) of this section shall not limit the discretion of the President or the Secretary to conduct a drawdown and sale of petroleum products from the Reserve.
 
 (4) A contract entered into under subsection (a) of this section shall include a provision that the obligation of the United States to make payments under the contract in any fiscal year is subject to the availability of appropriations.
 
@@ -36,15 +36,19 @@ The Secretary may agree to binding arbitration of disputes under any contract en
 
 #### (f) Availability of funds
 
-The Secretary may utilize such funds as are available in the SPR Petroleum Account to carry out the activities described in subsection (a) of this section, and may obligate and expend such funds to carry out such activities, in advance of the receipt of petroleum products.
+The Secretary may utilize such funds as are available in the SPR Petroleum Account tocarry out the activities described in subsection (a) of this section, and may obligate and expend such funds to carry out such activities, in advance of the receipt of petroleum products.
 
-(Pub. L. 94–163, title I, §171, as added Pub. L. 101–383, §6(a)(4), Sept. 15, 1990, 104 Stat. 729; amended Pub. L. 102–486, title XIV, §1403, Oct. 24, 1992, 106 Stat. 2994.)
+(Pub. L. 94–163, title I, §171, as added Pub. L. 101–383, §6(a)(4), Sept. 15, 1990, 104 Stat. 729; amended Pub. L. 102–486, title XIV, §1403, Oct. 24, 1992, 106 Stat. 2994; Pub. L. 106–469, title I, §103(20), Nov. 9, 2000, 114 Stat. 2033.)
 
 #### Prior Provisions
 
-A prior section 171 of Pub. L. 94–163 was renumbered section 181 and is classified to section 6251 of this title.
+A prior section 171 of Pub. L. 94–163 was renumbered section 191 and is classified to section 6251 of this title.
 
 #### Amendments
+
+2000—Subsec. (b)(2)(B). Pub. L. 106–469, §103(20)(A), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “the Secretary notifies each House of the Congress of such determination and includes in such notification the same information required under section 6234(e) of this title with regard to storage and related facilities proposed to be included, or petroleum product proposed to be stored, in the Reserve.”
+
+Subsec. (b)(3). Pub. L. 106–469, §103(20)(B), substituted “sale of petroleum products from” for “distribution of”.
 
 1992—Subsec. (f). Pub. L. 102–486 added subsec. (f).
 

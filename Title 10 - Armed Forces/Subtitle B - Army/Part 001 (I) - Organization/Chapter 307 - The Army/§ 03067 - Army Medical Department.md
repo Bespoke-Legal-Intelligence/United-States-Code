@@ -60,7 +60,15 @@ Aug. 9, 1955, ch. 654, §3(a), 69 Stat. 579.
 
 1958—Pub. L. 85–861 substituted “Army Medical Specialist Corps” for “Women's Medical Specialist Corps” in cl. (8).
 
-#### Cross References
+#### Augmentation of Army Medical Department by Detailing Reserve Officers of Public Health Service
 
-Surgeon General, appointment and duties, see section 3036 of this title.
+Pub. L. 106–398, §1 \[\[div. A\], title VII, §755(a), (b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–197, provided that:
+
+“(a)
+
+Authority.—The Secretary of the Army and the Secretary of Health and Human Services may jointly conduct a program to augment the Army Medical Department by exercising any authorities provided to those officials in law for the detailing of reserve commissioned officers of the Public Health Service not in an active status to the Army Medical Department for that purpose.
+
+“(b)
+
+Agreement.—The Secretary of the Army and the Secretary of Health and Human Services shall enter into an agreement governing any program conducted under subsection (a).”
 

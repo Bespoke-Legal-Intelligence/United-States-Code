@@ -10,7 +10,7 @@ Payment of an insured deposit to any person by the Corporation shall discharge t
 
 #### (c) Recognition of claimant not on depository institution records
 
-Except as otherwise prescribed by the Board of Directors, neither the Corporation nor such new bank or other insured depository institutionshall be required to recognize as the owner of any portion of a deposit appearing on the records of the depository institution in default under a name other than that of the claimant, any person whose name or interest as such owner is not disclosed on the records of such depository institution in default as part owner of said deposit, if such recognition would increase the aggregate amount of the insured deposits in such depository institution in default.
+Except as otherwise prescribed by the Board of Directors, neither the Corporation nor such new bank or other insured depository institution shall be required to recognize as the owner of any portion of a deposit appearing on the records of the depository institution in default under a name other than that of the claimant, any person whose name or interest as such owner is not disclosed on the records of such depository institution in default as part owner of said deposit, if such recognition would increase the aggregate amount of the insured deposits in such depository institution in default.
 
 #### (d) Withholding payments to meet liability to depository institution
 
@@ -50,7 +50,7 @@ The Corporation may withhold payment of such portion of the insured deposit of a
 
 #### (5) Reversion
 
-&emsp;If a depositor does not claim the deposit delivered to the custody of the appropriate State pursuant to paragraph (2)(B) within 10 years of the date of delivery, the deposit shall be immediately refunded to the Corporation and become its property. All rights of the depositor against the appropriate State with respect to such deposit shall be barred as of the date of the refund to the Corporation.
+&emsp;If a depositor does not claim the deposit delivered to the custody of the appropriate State pursuant to paragraph (2)(B) within 10 years of the date of delivery, the deposit shall be immediately refunded to the Corporation and become its property. All rights of the depositoragainst the appropriate State with respect to such deposit shall be barred as of the date of the refund to the Corporation.
 
 #### (6) Definitions
 
@@ -72,7 +72,7 @@ The Corporation may withhold payment of such portion of the insured deposit of a
 
 #### (B) Treatment of contractors
 
-&emsp;&emsp;Any individual who, pursuant to a contract or any other arrangement, performs functions or activities of the Corporation, under the direct supervision of an officer or employee of the Corporation, shall be deemed to be an employee of the Corporation for purposes of title 18 and this chapter.Any individual who, pursuant to a contract or any other agreement, acts for or on behalf of the Corporation, and who is not otherwise treated as an officer or employee of the United States for purposes of title 18 shall be deemed to be a public official for purposes of section 201 of title 18.
+&emsp;&emsp;Any individual who, pursuant to a contract or any other arrangement, performs functions or activities of the Corporation, under the direct supervision of an officer or employee of the Corporation, shall be deemed to be an employee of the Corporation for purposes of title 18 and this chapter. Any individual who, pursuant to a contract or any other agreement, acts for or on behalf of the Corporation, and who is not otherwise treated as an officer or employee of the United States for purposes of title 18 shall be deemed to be a public official for purposes of section 201 of title 18.
 
 #### (2) Regulations concerning employee conduct
 

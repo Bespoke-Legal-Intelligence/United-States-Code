@@ -1,11 +1,5 @@
 ### SUBCHAPTER I—ESTABLISHMENT AND ADMINISTRATION
 
-#### Cross References
-
-Boundaries of national forests as affected by change of boundaries of national parks, see section 1 et seq. of this title.
-
-National Forest System, see section 1609 of this title.
-
 
 ---
 
@@ -32,6 +26,7 @@ National Forest System, see section 1609 of this title.
 - [&sect; 00478 - Egress or ingress of actual settlers; prospecting](%C2%A7%2000478%20-%20Egress%20or%20ingress%20of%20actual%20settlers%3B%20prospecting.md)
 - [&sect; 00478a - Townsites](%C2%A7%2000478a%20-%20Townsites.md)
 - [&sect; 00479 - Sites for schools and churches](%C2%A7%2000479%20-%20Sites%20for%20schools%20and%20churches.md)
+- [&sect; 00479a - Conveyance of National Forest System lands for educational purposes](%C2%A7%2000479a%20-%20Conveyance%20of%20National%20Forest%20System%20lands%20for%20educational%20purposes.md)
 - [&sect; 00480 - Civil and criminal jurisdiction](%C2%A7%2000480%20-%20Civil%20and%20criminal%20jurisdiction.md)
 - [&sect; 00481 - Use of waters](%C2%A7%2000481%20-%20Use%20of%20waters.md)
 - [&sect; 00482 - Mineral lands; restoration to public domain; location and entry](%C2%A7%2000482%20-%20Mineral%20lands%3B%20restoration%20to%20public%20domain%3B%20location%20and%20entry.md)

@@ -44,7 +44,3 @@ The words “former” and “as an enlisted member” are inserted for clarity.
 
 Amendment by Pub. L. 102–484 applicable to persons discharged or released from active duty as commissioned officers in the Air Force Reserve after Oct. 23, 1992, see section 520(c) of Pub. L. 102–484, set out as a note under section 3258 of this title.
 
-#### Cross References
-
-Service by enlisted member as an officer counted as enlisted service, see section 8684 of this title.
-

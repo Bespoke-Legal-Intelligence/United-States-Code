@@ -8,7 +8,7 @@
 
 (d) The Director of the Administrative Office of the United States Courts shall provide permanent accommodations for the United States Court of Appeals for the Federal Circuit and for the United States Court of Federal Claims only at the District of Columbia. However, each such court may hold regular and special sessions at other places utilizing the accommodations which the Director provides to other courts.
 
-(e) The Director of the Administrative Office of the United States Courts shall provide accommodations for probation officers, pretrial service officers, and Federal Public Defender Organizations at such places as may be approved by the judicial council of the appropriate circuit.
+(e) The Director of the Administrative Office of the United States Courts shall provide accommodations for probation officers, pretrial serviceofficers, and Federal Public Defender Organizations at such places as may be approved by the judicial council of the appropriate circuit.
 
 (f) Upon the request of the Director, the Administrator of General Services is authorized and directed to provide the accommodations the Director requests, and to close accommodations which the Director recommends for closure with the approval of the Judicial Conference of the United States.
 
@@ -16,9 +16,9 @@
 
 #### Amendments
 
-1992—Subsec. (d). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1992</b>—Subsec. (d). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-1988—Subsec. (c). Pub. L. 100–702 substituted “within the circuit other than where regular sessions of court are authorized by law to be held,” for “where Federal facilities are available”.
+<b>1988</b>—Subsec. (c). Pub. L. 100–702 substituted “within the circuit other than where regular sessions of court are authorized by law to be held,” for “where Federal facilities are available”.
 
 #### Effective Date of 1992 Amendment
 

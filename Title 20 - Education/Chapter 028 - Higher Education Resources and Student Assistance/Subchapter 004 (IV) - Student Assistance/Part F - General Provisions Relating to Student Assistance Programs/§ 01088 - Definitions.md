@@ -44,9 +44,9 @@ For purposes of this subchapter and part C of subchapter I of chapter 34 of titl
 
 #### Prior Provisions
 
-A prior section 1088, Pub. L. 89–329, title IV, §481, as added Pub. L. 96–374, title IV, §451(a), Oct. 3, 1980, 94Stat. 1443, defined “institution of higher education” for this subchapter and part C of subchapter I of chapter 34 of Title 42, The Public Health and Welfare, prior to the general amendment of this part by Pub. L. 99–498.
+A prior section 1088, Pub. L. 89–329, title IV, §481, as added Pub. L. 96–374, title IV, §451(a), Oct. 3, 1980, 94 Stat. 1443, defined “institution of higher education” for this subchapter and part C of subchapter I of chapter 34 of Title 42, The Public Health and Welfare, prior to the general amendment of this part by Pub. L. 99–498.
 
-Another prior section 1088, Pub. L. 89–329, title IV, §491, formerly §461, as added Pub. L. 90–575, title I, §151, Oct. 16, 1968, 82 Stat. 1032, renumbered §491 and amended Pub. L. 92–318, title I, §§131(c), 137(b), title X, §1001(c)(3), June 23, 1972, 86 Stat. 259, 272, 381; amended Pub. L. 95–180, §1(b), Nov. 15, 1977, 91 Stat. 1372; Pub. L. 95–566, §6, Nov. 1, 1978, 92 Stat. 2403; Pub. L. 96–49, §5(e), Aug. 13, 1979, 93 Stat. 352, defined terms for this subchapter and part C of subchapter I of chapter 34 of title 42, prior to the general revision of this part by Pub. L. 96–374.
+Another prior section 1088, Pub. L. 89–329, title IV, §491, formerly §461, as added Pub. L. 90–575, title I, §151, Oct. 16, 1968, 82 Stat. 1032, renumbered §491 and amended Pub. L. 92–318, title I, §§131(c), 137(b), title X,§1001(c)(3), June 23, 1972, 86 Stat. 259, 272, 381; amended Pub. L. 95–180, §1(b), Nov. 15, 1977, 91 Stat. 1372; Pub. L. 95–566, §6, Nov. 1, 1978, 92 Stat. 2403; Pub. L. 96–49, §5(e), Aug. 13, 1979, 93 Stat. 352, defined terms for this subchapter and part C of subchapter I of chapter 34 of title 42, prior to the general revision of this part by Pub. L. 96–374.
 
 #### Amendments
 
@@ -106,7 +106,7 @@ Subsec. (e). Pub. L. 101–239, §2007(b)(2), added subsec. (e).
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
 
-Amendment by Pub. L. 105–216 effective 1 year after July 29, 1998, see section 13 of Pub. L. 105–216, set out as an Effective Date note under section 4901 of Title 12, Banks and Banking.
+Amendment by Pub. L. 105–216 effective 1 year after July 29, 1998, see section 13 of Pub. L. 105–216, set outas an Effective Date note under section 4901 of Title 12, Banks and Banking.
 
 #### Effective Date of 1993 Amendment
 
@@ -152,5 +152,5 @@ Section 1544 of Pub. L. 102–325 authorized institutions of higher education to
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1075, 1078, 1078–8, 1093, 5938 of this title; title 26 sections 25A, 529; title 29 sections 1503, 1551, 2204; title 42 sections 604, 3796d–6.
+This section is referred to in sections 1075, 1078, 1078–8, 1093, 5938 of this title; title 26 sections 25A, 529; title 29 section 2204; title 42 sections 604, 3796d–6.
 

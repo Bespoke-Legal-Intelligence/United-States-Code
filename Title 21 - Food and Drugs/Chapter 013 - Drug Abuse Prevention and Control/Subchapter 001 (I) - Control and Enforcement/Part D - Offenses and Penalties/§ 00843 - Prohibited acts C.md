@@ -114,5 +114,9 @@ Amendment by Pub. L. 95–633 effective Nov. 10, 1978, except as otherwise provi
 
 Pub. L. 96–359, §8(b), Sept. 26, 1980, 94 Stat. 1194, repealed section 203(d) of Pub. L. 95–633, which had provided for the repeal of subsec. (a)(4)(B) of this section effective Jan. 1, 1981.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in section 864 of this title.
+
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

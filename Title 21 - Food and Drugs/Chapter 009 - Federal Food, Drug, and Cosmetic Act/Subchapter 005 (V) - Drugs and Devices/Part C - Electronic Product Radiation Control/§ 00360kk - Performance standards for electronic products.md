@@ -16,7 +16,7 @@
 
 (2) The Secretary may prescribe different and individual performance standards, to the extent appropriate and feasible, for different electronic products so as to recognize their different operating characteristics and uses.
 
-(3) The performance standards prescribed under this section shall not apply to any electronic product which is intended solely for export if (A) such product and the outside of any shipping container used in the export of such product are labeled or tagged to show that such product is intended for export, and (B) such product meets all the applicable requirements of the country to which such product is intended for export.
+(3) The performance standards prescribed under this section shall not apply to any electronic product which is intended solely for export if (A) such product and the outside of anyshipping container used in the export of such product are labeled or tagged to show that such product is intended for export, and (B) such product meets all the applicable requirements of the country to which such product is intended for export.
 
 (4) The Secretary may by regulation amend or revoke any performance standard prescribed under this section.
 
@@ -36,7 +36,7 @@ Each regulation prescribing, amending, or revoking a standard shall specify the 
 
 (2) If the petitioner applies to the court for leave to adduce additional evidence, and shows to the satisfaction of the court that such additional evidence is material and that there were reasonable grounds for the failure to adduce such evidence in the proceeding before the Secretary, the court may order such additional evidence (and evidence in rebuttal thereof) to be taken before the Secretary, and to be adduced upon the hearing, in such manner and upon such terms and conditions as to the court may seem proper. The Secretary may modify his findings, or make new findings, by reason of the additional evidence so taken, and he shall file such modified or new findings, and his recommendations, if any, for the modification or setting aside of his original regulation, with the return of such additional evidence.
 
-(3) Upon the filing of the petition referred to in paragraph (1) of this subsection, the courtshall have jurisdiction to review the regulation in accordance with chapter 7 of title 5 and to grant appropriate relief as provided in such chapter.
+(3) Upon the filing of the petition referred to in paragraph (1) of this subsection, the court shall have jurisdiction to review the regulation in accordance with chapter 7 of title 5 and to grant appropriate relief as provided in such chapter.
 
 (4) The judgment of the court affirming or setting aside, in whole or in part, any such regulation of the Secretary shall be final, subject to review by the Supreme Court of the United States upon certiorari or certification as provided in section 1254 of title 28.
 
@@ -60,7 +60,7 @@ A certified copy of the transcript of the record and administrative proceedings 
 
 (B) The Committee may propose electronic product radiation safety standards to the Secretary for his consideration. All proceedings of the Committee shall be recorded and the record of each such proceeding shall be available for public inspection.
 
-(2) Payments to members of the Committee who are not officers or employees of the United States pursuant to subsection (c) of section 210 of title 42 shall not render members of the Committee officers or employees of the United States for any purpose.
+(2) Payments to members of the Committee who are not officers or employees of the UnitedStates pursuant to subsection (c) of section 210 of title 42 shall not render members of the Committee officers or employees of the United States for any purpose.
 
 #### (g) Review and evaluation
 

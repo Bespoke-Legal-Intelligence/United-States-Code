@@ -24,10 +24,6 @@ For purposes of subsection (c) of this section, the term “developing country�
 
 (Pub. L. 99–371, title II, §209, formerly §210, as added Pub. L. 102–421, title I, §139, Oct. 16, 1992, 106 Stat. 2163; amended Pub. L. 103–73, title II, §204(h), Aug. 11, 1993, 107 Stat. 735; renumbered §209 and amended Pub. L. 105–244, title IX, §922, Oct. 7, 1998, 112 Stat. 1832.)
 
-#### Codification
-
-Section is also set out in D.C. Code, §31–1842.10.
-
 #### Prior Provisions
 
 A prior section 209 of Pub. L. 99–371 was renumbered section 208 and is classified to section 4359 of this title.

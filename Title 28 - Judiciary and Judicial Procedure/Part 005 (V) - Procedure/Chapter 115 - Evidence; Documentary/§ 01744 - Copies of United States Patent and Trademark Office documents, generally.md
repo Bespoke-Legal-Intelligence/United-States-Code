@@ -1,6 +1,6 @@
 ### §1744. Copies of United States Patent and Trademark Office documents, generally
 
-Copies of letters patent or of any records, books, papers, or drawings belonging to the United States Patent and Trademark Office and relating to patents, authenticated under the seal of the United States Patent and Trademark Office and certified by the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office, or by another officer of the United States Patent and Trademark Office authorized to do so by the Director, shall be admissible in evidence with the same effect as the originals.
+Copies of letters patent or of any records, books, papers, or drawings belonging to the United States Patent and Trademark Office and relating to patents, authenticated under the seal of the United States Patent and Trademark Office and certified by the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office, or by another officer of the United States Patent and Trademark Office authorized to doso by the Director, shall be admissible in evidence with the same effect as the originals.
 
 Any person making application and paying the required fee may obtain such certified copies.
 
@@ -18,23 +18,13 @@ Changes in phraseology were made.
 
 #### Amendments
 
-1999—Pub. L. 106–113 substituted “United States Patent and Trademark Office” for “Patent Office” wherever appearing in section catchline and text and in text substituted “Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office” for “Commissioner of Patents” and “Director” for “Commissioner”.
+<b>1999</b>—Pub. L. 106–113 substituted “United States Patent and Trademark Office” for “Patent Office” wherever appearing in section catchline and text and in text substituted “Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office” for “Commissioner of Patents” and “Director” for “Commissioner”.
 
-1949—Act May 24, 1949, substituted “patents” after “relating to” for “registered trade-marks, labels, or prints”, and inserted “or by another officer of the Patent Office authorized to do so by the Commissioner” after “Commissioner of Patents”.
+<b>1949</b>—Act May 24, 1949, substituted “patents” after “relating to” for “registered trade-marks, labels, or prints”, and inserted “or by another officer of the Patent Office authorized to do so by the Commissioner” after “Commissioner of Patents”.
 
 #### Effective Date of 1999 Amendment
 
 Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
-
-#### Federal Rules of Civil Procedure
-
-Proof of official record, see rule 44, Appendix to this title.
-
-Effect of rule 44 on former section 673 of this title, see note by Advisory Committee under rule 44.
-
-#### Federal Rules of Criminal Procedure
-
-Proof of official records, see rule 27, and note of the Advisory Committee under rule 44, Title 18, Appendix, Crimes and Criminal Procedure.
 
 #### Section Referred to in Other Sections
 

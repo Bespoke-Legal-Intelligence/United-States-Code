@@ -8,11 +8,11 @@ Sole and exclusive jurisdiction shall be exercised by the United States over the
 
 Admission of Hawaii into the Union was accomplished Aug. 21, 1959, on issuance of Proc. No. 3309, Aug. 21, 1959, 24 F.R. 6868, 73 Stat. c74, as required by sections 1 and 7(c) of Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as notes preceding section 491 of Title 48, Territories and Insular Possessions.
 
-#### Hawaii Volcanoes National Park
+#### Hawai‘i Volcanoes National Park
 
-Designation of portion of Hawaii National Park situated on island of Hawaii as Hawaii Volcanoes National Park, effective Sept. 22, 1961, see section 391d of this title.
+Designation of portion of Hawaii National Park situated on island of Hawaii as Hawai‘i Volcanoes National Park, effective Sept. 22, 1961, see section 391d of this title.
 
-#### Haleakala National Park
+#### Haleakala�AE8 National Park
 
-Establishment of detached portion of Hawaii National Park lying on island of Maui as Haleakala National Park, effective July 1, 1961, see section 396b of this title.
+Establishment of detached portion of Hawaii National Park lying on island of Maui as Haleakala�AE8 National Park, effective July 1, 1961, see section 396b of this title.
 

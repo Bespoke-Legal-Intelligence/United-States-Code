@@ -16,11 +16,12 @@
 | [<b>208.</b>](Chapter%20208%20-%20Speedy%20Trial/README.md) | <b>Speedy trial</b> | <b>3161</b> |
 | [<b>209.</b>](Chapter%20209%20-%20Extradition/README.md) | <b>Extradition</b> | <b>3181</b> |
 | [<b>211.</b>](Chapter%20211%20-%20Jurisdiction%20and%20Venue/README.md) | <b>Jurisdiction and venue</b> | <b>3231</b> |
+| [<b>212.</b>](Chapter%20212%20-%20Military%20Extraterritorial%20Jurisdiction/README.md) | <b>Military extraterritorial jurisdiction</b> | <b>3261</b> |
 | [<b>213.</b>](Chapter%20213%20-%20Limitations/README.md) | <b>Limitations</b> | <b>3281</b> |
 | [<b>215.</b>](Chapter%20215%20-%20Grand%20Jury/README.md) | <b>Grand jury</b> | <b>3321</b> |
 | [<b>216.</b>](Chapter%20216%20-%20Special%20Grand%20Jury/README.md) | <b>Special grand jury</b> | <b>3331</b> |
 | [<b>217.</b>](Chapter%20217%20-%20Indictment%20and%20Information/README.md) | <b>Indictment and information</b> | <b>3361</b> |
-| [<b>219.</b>](Chapter%20219%20-%20Trial%20by%20United%20States%20Magistrates/README.md) | <b>Trial by United States magistrates</b> | <b>3401</b> |
+| [<b>219.</b>](Chapter%20219%20-%20Trial%20by%20United%20States%20Magistrate%20Judges/README.md) | <b>Trial by United States magistrate judges</b> | <b>3401</b> |
 | [<b>221.</b>](Chapter%20221%20-%20Arraignment%2C%20Pleas%20and%20Trial/README.md) | <b>Arraignment, pleas and trial</b> | <b>3431</b> |
 | [<b>223.</b>](Chapter%20223%20-%20Witnesses%20and%20Evidence/README.md) | <b>Witnesses and evidence</b> | <b>3481</b> |
 | [<b>224.</b>](Chapter%20224%20-%20Protection%20of%20Witnesses/README.md) | <b>Protection of witnesses</b> | <b>3521</b> |
@@ -44,6 +45,8 @@
 
 #### Amendments
 
+2000—Pub. L. 106–523, §2(b), Nov. 22, 2000, 114 Stat. 2492, added item for chapter 212.
+
 1994—Pub. L. 103–359, title VIII, §803(c)(1), Oct. 14, 1994, 108 Stat. 3439, substituted “terrorist acts and espionage” for “terrorists acts” in item for chapter 204.
 
 Pub. L. 103–322, title VI, §60002(b), Sept. 13, 1994, 108 Stat. 1968, added item for chapter 228.
@@ -66,6 +69,10 @@ Pub. L. 98–473, title II, §§203(d), 212(b), 1209(a), 1406(b), Oct. 12, 1984,
 
 1966—Pub. L. 89–465, §5(e)(2), June 22, 1966, 80 Stat. 217, substituted “Release” for “Bail” in item for chapter 207.
 
+#### Change of Name
+
+“United States magistrate judges” substituted for “United States magistrates” in item for chapter 219 pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+
 #### Part Referred to in Other Sections
 
 This part is referred to in title 48 sections 1424–4, 1614, 1821.
@@ -84,11 +91,12 @@ This part is referred to in title 48 sections 1424–4, 1614, 1821.
 - [Chapter 208 - Speedy Trial](Chapter%20208%20-%20Speedy%20Trial/README.md)
 - [Chapter 209 - Extradition](Chapter%20209%20-%20Extradition/README.md)
 - [Chapter 211 - Jurisdiction and Venue](Chapter%20211%20-%20Jurisdiction%20and%20Venue/README.md)
+- [Chapter 212 - Military Extraterritorial Jurisdiction](Chapter%20212%20-%20Military%20Extraterritorial%20Jurisdiction/README.md)
 - [Chapter 213 - Limitations](Chapter%20213%20-%20Limitations/README.md)
 - [Chapter 215 - Grand Jury](Chapter%20215%20-%20Grand%20Jury/README.md)
 - [Chapter 216 - Special Grand Jury](Chapter%20216%20-%20Special%20Grand%20Jury/README.md)
 - [Chapter 217 - Indictment and Information](Chapter%20217%20-%20Indictment%20and%20Information/README.md)
-- [Chapter 219 - Trial by United States Magistrates](Chapter%20219%20-%20Trial%20by%20United%20States%20Magistrates/README.md)
+- [Chapter 219 - Trial by United States Magistrate Judges](Chapter%20219%20-%20Trial%20by%20United%20States%20Magistrate%20Judges/README.md)
 - [Chapter 221 - Arraignment, Pleas and Trial](Chapter%20221%20-%20Arraignment%2C%20Pleas%20and%20Trial/README.md)
 - [Chapter 223 - Witnesses and Evidence](Chapter%20223%20-%20Witnesses%20and%20Evidence/README.md)
 - [Chapter 224 - Protection of Witnesses](Chapter%20224%20-%20Protection%20of%20Witnesses/README.md)

@@ -101,7 +101,7 @@
 | (<i>l</i>) | Pesticide chemicals on raw agricultural commodities. |
 | (m) | Color additives. |
 | (n) | Packaging or labeling of drugs in violation of regulations. |
-| (<i>o</i>) | Saccharin for immediate consumption. |
+| (<i>o</i>), |  |
 | (p) | Repealed. |
 | (q) | Nutrition information. |
 | (r) | Nutrition levels and health-related claims. |
@@ -112,9 +112,7 @@
 | (b) | Application. |
 | (c) | Burden of proof. |
 | 343–3. | Disclosure. |
-| [343a.](Subchapter%20004%20%28IV%29%20-%20Food/%C2%A7%2000343a%20-%20Health%20risks%20presented%20by%20use%20of%20saccharin.md) | Health risks presented by use of saccharin. |
-| (a) | Statement on vending machines dispensing food containing saccharin respecting health risk; regulations. |
-| (b) | Availability and distribution of information; review and revision. |
+| [343a.](Subchapter%20004%20%28IV%29%20-%20Food/%C2%A7%2000343a%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93554%2C%20%C2%A71%28a%29%281%29%20%5Btitle%20V%2C%20%C2%A7517%5D%2C%20Dec.%2021%2C%202000%2C%20114%20Stat.%202763%2C%202763A%E2%80%9373.md) | Repealed. |
 | [344\.](Subchapter%20004%20%28IV%29%20-%20Food/%C2%A7%2000344%20-%20Emergency%20permit%20control.md) | Emergency permit control. |
 | (a) | Conditions on manufacturing, processing, etc., as health measure. |
 | (b) | Violation of permit; suspension and reinstatement. |
@@ -697,6 +695,7 @@ I74subpart 1—freedom of information fees
 | (d) | Reimportation. |
 | (e) | Exports. |
 | (f) | Labeling of exported drugs. |
+| (g) | Warning notice of importation in violation of chapter. |
 | [382\.](Subchapter%20008%20%28VIII%29%20-%20Imports%20and%20Exports/%C2%A7%2000382%20-%20Exports%20of%20certain%20unapproved%20products.md) | Exports of certain unapproved products. |
 | (a) | Drugs or devices intended for human or animal use which require approval or licensing. |
 | (b) | List of eligible countries for export; criteria for addition to list; direct export; petition for exemption. |
@@ -711,6 +710,20 @@ I74subpart 1—freedom of information fees
 | (a) | Establishment. |
 | (b) | Agreements with foreign countries. |
 | (c) | Harmonizing regulatory requirements. |
+| [384\.](Subchapter%20008%20%28VIII%29%20-%20Imports%20and%20Exports/%C2%A7%2000384%20-%20Importation%20of%20covered%20products.md) | Importation of covered products. |
+| (a) | Regulations. |
+| (b) | Limitation. |
+| (c) | Records. |
+| (d) | Importation. |
+| (e) | Testing. |
+| (f) | Country limitation. |
+| (g) | Suspension of importations. |
+| (h) | Prohibited agreements. |
+| (i) | Studies; reports. |
+| (j) | Construction. |
+| (k) | Definitions. |
+| (<i>l</i>) | Conditions. |
+| (m) | Sunset. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -744,7 +757,7 @@ I74subpart 1—freedom of information fees
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 453, 457, 466, 467, 467f, 601, 607, 620, 679, 802, 811, 829, 902, 1033, 1049, 1052, 1401, 1402, 1403, 1601 of this title; title 7 sections 136a–1, 136v, 138i, 1431c, 5341, 6519, 7653; title 15 sections 70j, 1261, 1263, 1277, 1457, 1459, 1460, 2057a, 2057b, 2079; title 18 section 42; title 19 section 2578a; title 26 sections 170, 4817; title 35 sections 155, 156, 271, 287; title 42 sections 262, 300aa–22, 300aa–23, 1396r–8, 1786, 3512, 7671.
+This chapter is referred to in sections 453, 457, 466, 467, 467f, 601, 607, 620, 679, 802, 811, 823, 829, 830, 902, 1033, 1049, 1052, 1401, 1402, 1403, 1601 of this title; title 7 sections 136a–1, 136v, 138i, 1431c, 5341, 6519, 7653; title 15 sections 70j, 1261, 1263, 1277, 1459, 1460, 2057a, 2057b, 2079; title 18 sections 42, 983; title 19 section 2578a; title 26 sections 170, 4817; title 35 sections 155, 156, 271, 287; title 42 sections 262, 300aa–22, 300aa–23, 1396r–8, 1786, 3512, 7671.
 
 
 ---

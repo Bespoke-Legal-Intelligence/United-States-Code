@@ -20,7 +20,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 &emsp;(2) the respective institution supports lending operations which assist efforts of recipient governments to promote good governance, including public participation, and reduce military expenditures; and
 
-&emsp;(3) the allocation of resources and the extension of credit by the respective institution takes into account the performance of recipient governments in the areas of good governance, ending excessive military involvement in the economy and reducing excessive military expenditures.
+&emsp;(3) the allocation of resources and the extension of credit by the respective institution takes into account the performance of recipient governments in the areas of good governance, ending excessive military involvementin the economy and reducing excessive military expenditures.
 
 (Pub. L. 95–118, title XV, §1502, as added Pub. L. 103–306, title V, §526(d), Aug. 23, 1994, 108 Stat. 1633.)
 

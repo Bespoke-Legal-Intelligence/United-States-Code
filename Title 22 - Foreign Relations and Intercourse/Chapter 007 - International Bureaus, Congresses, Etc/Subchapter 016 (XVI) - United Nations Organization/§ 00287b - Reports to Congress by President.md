@@ -46,7 +46,7 @@ In addition to the report required by subsection (a) of this section, the Presid
 
 #### (3) United Nations reform
 
-&emsp;(A)(i) A description of the status of efforts to establish and implement an independent officeof the Inspector General at the United Nations.
+&emsp;(A)(i) A description of the status of efforts to establish and implement an independent office of the Inspector General at the United Nations.
 
 &emsp;(ii) If an office of the Inspector General has been established at the United Nations, a discussion of whether the Inspector General is keeping the Secretary General and the members of the General Assembly fully informed about problems, deficiencies, the necessity for corrective action, and the progress of corrective action.
 
@@ -88,7 +88,7 @@ In addition to the report required by subsection (a) of this section, the Presid
 
 &emsp;&emsp;&emsp;(iii) An estimate of the total cost to the United Nations of each such operation for the period covered by the resolution, and an estimate of the amount of that cost that will be assessed to the United States.
 
-&emsp;&emsp;&emsp;(iv) Any anticipated significant changes in United States participation in or support for each such operation during the period covered by the resolution (including the provision of facilities, training, transportation, communication, and logistical support, but not including intelligence activities reportable under title V of the National Security Act of 1947 (50 U.S.C. 413 et seq.)), and the estimated costs to the United States of such changes.
+&emsp;&emsp;&emsp;(iv) Any anticipated significant changes in United States participation in or support for each such operation during the period covered by the resolution (including the provision of facilities, training, transportation, communication, and logisticalsupport, but not including intelligence activities reportable under title V of the National Security Act of 1947 (50 U.S.C. 413 et seq.)), and the estimated costs to the United States of such changes.
 
 &emsp;&emsp;(B) With respect to each new United Nations peacekeeping operation that is anticipated to be authorized by a Security Council resolution during such month, the following information for the period covered by the resolution:
 
@@ -160,7 +160,7 @@ In addition to the report required by subsection (a) of this section, the Presid
 
 #### (f) Designated congressional committees
 
-In this section, the term “designated congressional committees” means the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on International Relations and the Committee on Appropriations of the House of Representatives.
+In this section, the term “designated congressional committees” means the Committee onForeign Relations and the Committee on Appropriations of the Senate and the Committee on International Relations and the Committee on Appropriations of the House of Representatives.
 
 #### (g) Relationship to other notification requirements
 
@@ -185,6 +185,10 @@ Another subsec. (a)(2) of section 724 of Pub. L. 106–113, div. B, §1000(a)(7)
 Subsecs. (e) to (g). Pub. L. 106–113, §1000(a)(7) \[title VII, §724(a)(2), (b)\], added subsecs. (e) to (g) and struck out heading and text of former subsec. (e). Text read as follows: “As used in this section, the term ‘designated congressional committees’ has the meaning given that term by section 415 of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995.”
 
 1994—Pub. L. 103–236 designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) to (e).
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (a) of this section relating to reporting to Congress not less than once each year, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 39 of House Document No. 103–7.
 
 #### Consultations and Reports on United Nations Peacekeeping Operations
 

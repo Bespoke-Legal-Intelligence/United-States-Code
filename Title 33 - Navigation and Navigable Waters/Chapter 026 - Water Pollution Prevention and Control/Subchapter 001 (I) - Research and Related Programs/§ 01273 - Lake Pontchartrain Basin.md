@@ -1,0 +1,62 @@
+### §1273. Lake Pontchartrain Basin
+
+#### (a) Establishment of restoration program
+
+The Administrator shall establish within the Environmental Protection Agency the Lake Pontchartrain Basin Restoration Program.
+
+#### (b) Purpose
+
+The purpose of the program shall be to restore the ecological health of the Basin by developing and funding restoration projects and related scientific and public education projects.
+
+#### (c) Duties
+
+In carrying out the program, the Administrator shall—
+
+&emsp;(1) provide administrative and technical assistance to a management conference convened for the Basin under section 1330 of this title;
+
+&emsp;(2) assist and support the activities of the management conference, including the implementation of recommendations of the management conference;
+
+&emsp;(3) support environmental monitoring of the Basin and research to provide necessary technical and scientific information;
+
+&emsp;(4) develop a comprehensive research plan to address the technical needs of the program;
+
+&emsp;(5) coordinate the grant, research, and planning programs authorized under this section; and
+
+&emsp;(6) collect and make available to the public publications, and other forms of information the management conference determines to be appropriate, relating to the environmental quality of the Basin.
+
+#### (d) Grants
+
+The Administrator may make grants—
+
+&emsp;(1) for restoration projects and studies recommended by a management conference convened for the Basin under section 1330 of this title; and
+
+&emsp;(2) for public education projects recommended by the management conference.
+
+#### (e) Definitions
+
+In this section, the following definitions apply:
+
+#### (1) Basin
+
+&emsp;The term “Basin” means the Lake Pontchartrain Basin, a 5,000 square mile watershed encompassing 16 parishes in the State of Louisiana and 4 counties in the State of Mississippi.
+
+#### (2) Program
+
+&emsp;The term “program” means the Lake Pontchartrain Basin Restoration Program established under subsection (a) of this section.
+
+#### (f) Authorization of appropriations
+
+#### (1) In general
+
+&emsp;There is authorized to be appropriated to carry out this section $20,000,000 for each of fiscal years 2001 through 2005. Such sums shall remain available until expended.
+
+#### (2) Public education projects
+
+&emsp;Not more than 15 percent of the amount appropriated pursuant to paragraph (1) in a fiscal year may be expended on grants for public education projects under subsection (d)(2) of this section.
+
+(June 30, 1948, ch. 758, title I, §121, as added Pub. L. 106–457, title V, §502, Nov. 7, 2000, 114 Stat. 1973.)
+
+#### Codification
+
+Another section 121 of act June 30, 1948, ch. 758, is classified to section 1274 of this title.
+

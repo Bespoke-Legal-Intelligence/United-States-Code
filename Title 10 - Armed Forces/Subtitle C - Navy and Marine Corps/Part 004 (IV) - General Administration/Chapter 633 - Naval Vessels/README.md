@@ -41,7 +41,7 @@
 
 1994—Pub. L. 103–355, title II, §2001(j)(3)(A), title III, §§3023(b), 3024(b), Oct. 13, 1994, 108 Stat. 3303, 3333, 3334, struck out items 7299 “Contracts: application of Public Contracts Act”, 7302 “Construction on Pacific Coast”, and 7312 “Repair or maintenance of naval vessels: progress payments under certain contracts”.
 
-1993—Pub. L. 103–160, div. A, title VIII, §828(a)(7), (c)(7), Nov. 30, 1993, 107 Stat. 1713, 1714, struck out items7296 “Appropriations: available for other purposes”, 7298 “Conversion of combatants and auxiliaries”, and 7301 “Bids on construction: estimates required”, substituted “Examination of vessels; striking of vessels” for “Examination by board: unfit vessel stricken” in item 7304, “Vessels stricken from Naval Vessel Register: sale” for “Sale of vessel stricken from Naval Vessel Register” in item 7305, and “Vessels stricken from Naval Vessel Register; captured vessels: transfer by gift or otherwise” for “Use for experimental purposes” in item 7306, added item 7306a, substituted “Disposals to foreign nations” for “Restriction on disposal” in item 7307, “Chief of Naval Operations: certification required for disposal of combatant vessels” for “Transfer or gift of obsolete, condemned, or captured vessels” in item 7308, “Construction of vessels in foreign shipyards: prohibition” for “Restrictions on construction or repair of vessels in foreign shipyards” in item 7309, and “Overhaul, repair, etc. of vessels in foreign shipyards: restrictions” for “Policy in constructing combatant vessels” in item 7310.
+1993—Pub. L. 103–160, div. A, title VIII, §828(a)(7), (c)(7), Nov. 30, 1993, 107 Stat. 1713, 1714, struck out items 7296 “Appropriations: available for other purposes”, 7298 “Conversion of combatants and auxiliaries”, and 7301 “Bids on construction: estimates required”, substituted “Examination of vessels; striking of vessels” for “Examination by board: unfit vessel stricken” in item 7304, “Vessels stricken from Naval Vessel Register: sale” for “Sale of vessel stricken from Naval Vessel Register” in item 7305, and “Vessels stricken from Naval Vessel Register; captured vessels: transfer by gift or otherwise” for “Use for experimental purposes” in item 7306, added item 7306a, substituted “Disposals to foreign nations” for “Restriction on disposal” in item 7307, “Chief of Naval Operations: certification required for disposal of combatant vessels” for “Transfer or gift of obsolete, condemned, or captured vessels” in item 7308, “Construction of vessels in foreign shipyards: prohibition” for “Restrictions on construction or repair of vessels in foreign shipyards” in item 7309, and “Overhaul, repair, etc. of vessels in foreign shipyards: restrictions” for “Policy in constructing combatant vessels” in item 7310.
 
 1989—Pub. L. 101–189, div. A, title XVI, §1622(a), Nov. 29, 1989, 103 Stat. 1604, redesignated item 7313 “Overhaul of naval vessels: competition between public and private shipyards” as 7314.
 
@@ -62,10 +62,6 @@ Pub. L. 97–295, §1(49)(B), Oct. 12, 1982, 96 Stat. 1299, added item 7310.
 Pub. L. 97–252, title XI, §1127(b), Sept. 8, 1982, 96 Stat. 759, added item 7309.
 
 1981—Pub. L. 97–86, title IX, §911(b)(2), Dec. 1, 1981, 95 Stat. 1122, struck out item 7300 “Contracts for construction: profit limitation”.
-
-#### Cross References
-
-Property records, basis, reports, see section 2721 of this title.
 
 <i><sup>1</sup></i><i> So in original. No section 7232 has been enacted.</i>
 

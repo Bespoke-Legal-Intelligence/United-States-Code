@@ -10,7 +10,7 @@ Of the personnel employed in the United States to carry out subchapter I of this
 
 #### (c) Additional supergrade positions
 
-Of the personnel employed in the United States to carry out subchapter II of this chapter, or any Act superseding subchapter II of this chapter in whole or in part, not to exceed eightmay be compensated at rates higher than those provided for grade 15 of the general schedule established by section 5332 of title 5, but not in excess of the highest rate of grade 18 of such general schedule. Such positions shall be in addition to those authorized by law to be filled by Presidential appointment, and in addition to the number authorized by section 5108 of title 5.
+Of the personnel employed in the United States to carry out subchapter II of this chapter, or any Act superseding subchapter II of this chapter in whole or in part, not to exceed eight may be compensated at rates higher than those provided for grade 15 of the general schedule established by section 5332 of title 5, but not in excess of the highest rate of grade 18 of such general schedule. Such positions shall be in addition to those authorized by law to be filled by Presidential appointment, and in addition to the number authorized by section 5108 of title 5.
 
 #### (d) Employment or assignment of officers and employees to perform functions outside United States
 
@@ -32,7 +32,7 @@ Notwithstanding any other provision of law, officers and employees of the United
 
 To the maximum extent practicable officers and employees performing functions under this chapter abroad shall be assigned to countries and positions for which they have special competence, such as appropriate language and practical experience.
 
-(Pub. L. 87–195, pt. III, §625, Sept. 4, 1961, 75 Stat. 449; Pub. L. 87–565, pt. III, §302(c), Aug. 1, 1962, 76 Stat. 262; Pub. L. 87–793, §1001(k), Oct. 11, 1962, 76 Stat. 865; Pub. L. 88–663, pt. III, §302(a), Oct. 7, 1964, 78 Stat. 1014; Pub. L. 89–171, pt. III, §302(c), Sept. 6, 1965, 79 Stat. 660; Pub. L. 90–137, pt. III, §302(b)–(d), Nov. 14, 1967, 81 Stat. 460; Pub. L. 90–554, title III, §302(c), Oct. 8, 1968, 82 Stat. 965; Pub. L. 93–189, §16, Dec. 17, 1973, 87 Stat. 722; Pub. L. 95–88, title I, §125, Aug. 3, 1977, 91 Stat. 542; Pub. L. 96–465, title II, §§2203(a), 2205(8), Oct. 17, 1980, 94 Stat. 2158, 2160; Pub. L. 97–113, title VII, §703, Dec. 29, 1981, 95 Stat. 1544.)
+(Pub. L. 87–195, pt. III, §625, Sept. 4, 1961, 75 Stat. 449; Pub. L. 87–565, pt. III, §302(c), Aug. 1, 1962, 76 Stat. 262; Pub. L. 87–793, §1001(k), Oct. 11, 1962, 76 Stat. 865; Pub. L. 88–663, pt. III, §302(a), Oct. 7, 1964, 78 Stat. 1014; Pub. L. 89–171, pt. III, §302(c),Sept. 6, 1965, 79 Stat. 660; Pub. L. 90–137, pt. III, §302(b)–(d), Nov. 14, 1967, 81 Stat. 460; Pub. L. 90–554, title III, §302(c), Oct. 8, 1968, 82 Stat. 965; Pub. L. 93–189, §16, Dec. 17, 1973, 87 Stat. 722; Pub. L. 95–88, title I, §125, Aug. 3, 1977, 91 Stat. 542; Pub. L. 96–465, title II, §§2203(a), 2205(8), Oct. 17, 1980, 94 Stat. 2158, 2160; Pub. L. 97–113, title VII, §703, Dec. 29, 1981, 95 Stat. 1544.)
 
 #### References in Text
 

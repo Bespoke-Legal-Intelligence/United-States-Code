@@ -14,7 +14,7 @@ No nuclear materials and equipment or sensitive nuclear technology shall be expo
 
 &emsp;(2) any nation or group of nations that is found by the President to have, at any time after March 10, 1978,
 
-&emsp;&emsp;(A) materially violated an agreement for cooperation with the United States, or, with respect to material or equipment not supplied under an agreement for cooperation, materially violated the terms under which such material or equipment was supplied or the terms of any commitments obtainedwith respect thereto pursuant to section 2153a(a) of this title; or
+&emsp;&emsp;(A) materially violated an agreement for cooperation with the United States, or, with respect to material or equipment not supplied under an agreement for cooperation, materially violated the terms under which such material or equipment was supplied or the terms of any commitments obtained with respect thereto pursuant to section 2153a(a) of this title; or
 
 &emsp;&emsp;(B) assisted, encouraged, or induced any non-nuclear-weapon state to engage in activities involving source or special nuclear material and having direct significance for the manufacture or acquisition of nuclear explosive devices, and has failed to take steps which, in the President's judgment, represent sufficient progress toward terminating such assistance, encouragement, or inducement; or
 

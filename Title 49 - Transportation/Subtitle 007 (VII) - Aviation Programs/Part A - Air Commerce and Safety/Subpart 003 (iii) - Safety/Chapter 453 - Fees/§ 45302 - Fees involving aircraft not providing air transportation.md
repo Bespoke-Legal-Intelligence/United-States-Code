@@ -22,11 +22,11 @@ Adjustments.—The Administrator shall adjust the maximum fees established by su
 
 (d)
 
-Credit to Account and Availability.—Money collected from fees imposed under this section shall be credited to the account in the Treasury from which the Administrator incurs expenses in carrying out chapter 441 and sections 44701–44716 of this title (except sections 44701(c), 44703(f)(2), and 44713(d)(2)). The money is available to the Administrator to pay expenses for which the fees are collected.
+Credit to Account and Availability.—Money collected from fees imposed under this section shall be credited to the account in the Treasury from which the Administrator incurs expenses in carrying out chapter 441 and sections 44701–44716 of this title (except sections 44701(c), 44703(f)(2),<sup>1</sup> and 44713(d)(2)). The money is available to the Administrator to pay expenses for which the fees are collected.
 
 (e)
 
-Effective Date.—A fee may not be imposed under this section before the date on which the regulations prescribed under sections 44111(d), 44703(f)(2), and 44713(d)(2) of this title take effect.
+Effective Date.—A fee may not be imposed under this section before the date on which the regulations prescribed under sections 44111(d), 44703(f)(2),<sup>1</sup> and 44713(d)(2) of this title take effect.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1225; Pub. L. 103–429, §6(59), Oct. 31, 1994, 108 Stat. 4385.)
 
@@ -66,6 +66,10 @@ In subsection (d), the words “Money collected from fees imposed” are substit
 
 This amends 49:45302 because the final regulations are not yet effective.
 
+#### References in Text
+
+Section 44703(f)(2) of this title, referred to in subsecs. (d) and (e), was redesignated section 44703(g)(2) by Pub. L. 106–181, title VII, §715(1), Apr. 5, 2000, 114 Stat. 162.
+
 #### Amendments
 
 1994—Subsec. (e). Pub. L. 103–429 added subsec. (e).
@@ -76,9 +80,9 @@ Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 
 
 #### Inspector General Audit
 
-Pub. L. 100–690, title VII, §7207(c)(4), Nov. 18, 1988, 102 Stat. 4428, as amended by Pub. L. 104–66, title II, §2041, Dec. 21, 1995, 109 Stat. 728, provided that: “During the 5-year period beginning after the date on which fees are first collected under section 313(f) of the Federal Aviation Act of 1958 \[see subsec. (b) of this section\], the Department of Transportation Inspector General shallconduct an annual audit of the collection and use of such fees for the purpose of ensuring that such fees do not exceed the costs for which they are collected and submit to Congress a report on the results of such audit.”
+Pub. L. 100–690, title VII, §7207(c)(4), Nov. 18, 1988, 102 Stat. 4428, as amended by Pub. L. 104–66, title II, §2041, Dec. 21, 1995, 109 Stat. 728, provided that: “During the 5-year period beginning after the date on which fees are first collected under section 313(f) of the Federal Aviation Act of 1958 \[see subsec. (b) of this section\], the Department of Transportation Inspector General shall conduct an annual audit of the collection and use of such fees for the purpose of ensuring that such fees do not exceed the costs for which they are collected and submit to Congress a report on the results of such audit.”
 
-#### Section Referred to in Other Sections
+\[For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the 30th item on page 4 identifies a reporting provision which, as subsequently amended, is contained in section 7207(c)(4) of Pub. L. 100–690, set out as a note above), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.\]
 
-This section is referred to in section 106 of this title.
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

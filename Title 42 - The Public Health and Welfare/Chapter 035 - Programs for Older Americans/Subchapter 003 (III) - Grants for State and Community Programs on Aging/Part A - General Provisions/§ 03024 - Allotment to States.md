@@ -1,18 +1,26 @@
 ### §3024. Allotment to States
 
-#### (a) Formula for computation of amount
+#### (a) In general
 
-(1) Subject to paragraphs (2) and (3), from the sums appropriated under section 3023 of this title for each fiscal year, each State shall be allotted an amount which bears the same ratio to such sums as the population of older individuals in such State bears to the population of older individuals in all States, except that (A) no State shall be allotted less than one-half of 1 percent of the sum appropriated for the fiscal year for which the determination is made; (B) Guam, the United States Virgin Islands, and the Trust Territory of the Pacific Islands, shall each be allotted not less than one-fourth of 1 percent of the sum appropriated for the fiscal year for which the determination is made; and (C) American Samoa and the Commonwealth of the Northern Mariana Islands shall each be allotted not less than one-sixteenth of 1 percent of the sum appropriated for the fiscal year for which the determination is made. For the purposes of paragraph (3) and the exception contained in subparagraph (A) only, the term “State” does not include Guam, American Samoa, the United States Virgin Islands, the Trust Territory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands.
+(1) From the sums appropriated under subsections (a) through (d) of section 3023 of this title for each fiscal year, each State shall be allotted an amount which bears the same ratio to such sums as the population of older individuals in such State bears to the population of older individuals in all States.
 
-(2) No State shall be allotted less than the total amount allotted to the State under paragraph (1) of this subsection and section 3028 of this title for fiscal year 1987.
+(2) In determining the amounts allotted to States from the sums appropriated under section 3023 of this title for a fiscal year, the Assistant Secretary shall first determine the amount allotted to each State under paragraph (1) and then proportionately adjust such amounts, if necessary, to meet the requirements of paragraph (3).
 
-(3) No State shall be allotted, from the amount appropriated under section 3023(g) of this title, less than $50,000 for any fiscal year.
+(3)(A) No State shall be allotted less than 1/2 of 1 percent of the sum appropriated for the fiscal year for which the determination is made.
+
+(B) Guam and the United States Virgin Islands shall each be allotted not less than 1/4 of 1 percent of the sum appropriated for the fiscal year for which the determination is made.
+
+(C) American Samoa and the Commonwealth of the Northern Mariana Islands shall each be allotted not less than 1/16 of 1 percent of the sum appropriated for the fiscal year for which the determination is made. For the purposes of the exception contained in subparagraph (A) only, the term “State” does not include Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands.
+
+(D) No State shall be allotted less than the total amount allotted to the State for fiscal year 2000 and no State shall receive a percentage increase above the fiscal year 2000 allotment that is less than 20 percent of the percentage increase above the fiscal year 2000 allotments for all of the States.
 
 (4) The number of individuals aged 60 or older in any State and in all States shall be determined by the Assistant Secretary on the basis of the most recent data available from the Bureau of the Census, and other reliable demographic data satisfactory to the Assistant Secretary.
 
+(5) State allotments for a fiscal year under this section shall be proportionally reduced to the extent that appropriations may be insufficient to provide the full allotments of the prior year.
+
 #### (b) Unused funds
 
-Whenever the Assistant Secretary determines that any amount allotted to a State under part B or C of this subchapter for a fiscal year under this section will not be used by such State for carrying out the purpose for which the allotment was made, the Assistant Secretary shall make such allotment available for carrying out such purpose to one or more other States to the extent the Assistant Secretary determines that such other States will be able to use such additional amount for carrying out such purpose. Any amount made available to a State from an appropriation for a fiscal year in accordance with the preceding sentence shall, for purposes of this subchapter, be regarded as part of such State's allotment (as determined under subsection (a) of this section) for such year, but shall remain available until the end of the succeeding fiscal year.
+Whenever the Assistant Secretary determines that any amount allotted to a State under part B or C of this subchapter, or subpart I of part E of this subchapter, for a fiscal year under this section will not be used by such State for carrying out the purpose for which the allotment was made, the Assistant Secretary shall make such allotment available for carrying out such purpose to one or more other States to the extent the Assistant Secretary determines that such other States will be able to use such additional amount for carrying out such purpose. Any amount made available to a State from an appropriation for a fiscal year in accordance with the preceding sentence shall, for purposes of this subchapter, be regarded as part of such State's allotment (as determined under subsection (a) of this section) for such year, but shall remain available until the end of the succeeding fiscal year.
 
 #### (c) Withholding of funds; disbursement
 
@@ -24,7 +32,7 @@ If the Assistant Secretary finds that any State has failed to qualify under the 
 
 &emsp;(A) such amount as the State agency determines, but not more than 10 percent thereof, shall be available for paying such percentage as the agency determines, but not more than 75 percent, of the cost of administration of area plans;
 
-&emsp;(B) such amount (excluding any amount attributable to funds appropriated under section 3023(a)(3) of this title) as the State agency determines to be adequate for conducting an effective ombudsman program under section 3027(a)(12) of this title shall be available for conducting such program;
+&emsp;(B) such amount (excluding any amount attributable to funds appropriated under section 3023(a)(3) of this title) as the State agency determines to be adequate for conducting an effective ombudsman program under section 3027(a)(9) of this title shall be available for conducting such program;
 
 &emsp;(C) not less than $150,000 and not more than 4 percent of the amount allotted to the State for carrying out part B of this subchapter, shall be available for conducting outreach demonstration projects under section 3058e of this title; and
 
@@ -32,11 +40,7 @@ If the Assistant Secretary finds that any State has failed to qualify under the 
 
 (2) The non-Federal share shall be in cash or in kind. In determining the amount of the non-Federal share, the Assistant Secretary may attribute fair market value to services and facilities contributed from non-Federal sources.
 
-#### (e) Volunteer services coordinator
-
-Grants made from allotments received under this subchapter may be used for paying for the costs of providing for an area volunteer services coordinator (as described in section 3026(a)(12) of this title) or a State volunteer services coordinator (as described in section 3027(a)(31) of this title).
-
-(Pub. L. 89–73, title III, §304, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1519; amended Pub. L. 97–115, §4, Dec. 29, 1981, 95 Stat. 1597; Pub. L. 98–459, title III, §304, Oct. 9, 1984, 98 Stat. 1772; Pub. L. 100–175, title I, §§123, 155(c), (d), 182(f), Nov. 29, 1987, 101 Stat. 933, 952, 965; Pub. L. 102–375, title III, §304, title IX, §904(a)(10), Sept. 30, 1992, 106 Stat. 1221, 1306; Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990.)
+(Pub. L. 89–73, title III, §304, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1519; amended Pub. L. 97–115, §4, Dec. 29, 1981, 95 Stat. 1597; Pub. L. 98–459, title III, §304, Oct. 9, 1984, 98 Stat. 1772; Pub. L. 100–175, title I, §§123, 155(c), (d), 182(f), Nov. 29, 1987, 101 Stat. 933, 952, 965; Pub. L. 102–375, title III, §304, title IX, §904(a)(10), Sept. 30, 1992, 106 Stat. 1221, 1306; Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990; Pub. L. 106–501, title III, §303, title VIII, §801(c)(2), Nov. 13, 2000, 114 Stat. 2239, 2292.)
 
 #### Prior Provisions
 
@@ -50,6 +54,22 @@ A prior section 3024a, Pub. L. 89–73, title III, §305, as added Pub. L. 91–
 
 #### Amendments
 
+2000—Subsec. (a). Pub. L. 106–501, §303(a), added subsec. (a) and struck out former subsec. (a) which read as follows:
+
+“(a)(1) Subject to paragraphs (2) and (3), from the sums appropriated under section 3023 of this title for each fiscal year, each State shall be allotted an amount which bears the same ratio to such sums as the population of older individuals in such State bears to the population of older individuals in all States, except that (A) no State shall be allotted less than one-half of 1 percent of the sum appropriated for the fiscal year for which the determination is made; (B) Guam, the United States Virgin Islands, and the Trust Territory of the Pacific Islands, shall each be allotted not less than one-fourth of 1 percent of the sum appropriated for the fiscal year for which the determination is made; and (C) American Samoa and the Commonwealth of the Northern Mariana Islands shall each be allotted not less than one-sixteenth of 1 percent of the sum appropriated for the fiscal year for which the determination is made. For the purposes of paragraph (3) and the exception contained in subparagraph (A) only, the term ‘State’ does not include Guam, American Samoa, the United States Virgin Islands, the Trust Territory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands.
+
+“(2) No State shall be allotted less than the total amount allotted to the State under paragraph (1) of this subsection and section 3028 of this title for fiscal year 1987.
+
+“(3) No State shall be allotted, from the amount appropriated under section 3023(g) of this title, less than $50,000 for any fiscal year.
+
+“(4) The number of individuals aged 60 or older in any State and in all States shall be determined by the Assistant Secretary on the basis of the most recent data available from the Bureau of the Census, and other reliable demographic data satisfactory to the Assistant Secretary.”
+
+Subsec. (b). Pub. L. 106–501, §303(b), substituted “part B or C of this subchapter, or subpart I of part E of this subchapter,” for “part B or C of this subchapter” in first sentence.
+
+Subsec. (d)(1)(B). Pub. L. 106–501, §801(c)(2)(A), substituted “3027(a)(9)” for “3027(a)(12)”.
+
+Subsec. (e). Pub. L. 106–501, §801(c)(2)(B), struck out subsec. (e) which read as follows: “Grants made from allotments received under this subchapter may be used for paying for the costs of providing for an area volunteer services coordinator (as described in section 3026(a)(12) of this title) or a State volunteer services coordinator (as described in section 3027(a)(31) of this title).”
+
 1993—Subsecs. (a)(4), (b), (c), (d)(2). Pub. L. 103–171 substituted “Assistant Secretary” for “Commissioner” wherever appearing.
 
 1992—Subsec. (a)(1). Pub. L. 102–375, §904(a)(10), substituted “of older individuals” for “aged 60 or older” in two places, “United States Virgin Islands” for “Virgin Islands” in two places, and “contained in subparagraph (A)” for “contained in clause (A)”.
@@ -62,7 +82,7 @@ Subsec. (a)(4). Pub. L. 102–375, §304(a)(3), substituted “data available fr
 
 Subsec. (c). Pub. L. 102–375, §304(b), inserted “or the Commissioner does not approve the funding formula required under section 3025(a)(2)(C) of this title” after “requirements of section 3027 of this title”.
 
-Subsec. (d)(1)(C). Pub. L. 102–375, §304(c), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “after September 30, 1986, such amount (excluding any amount attributable to funds appropriated under section 3023(a)(3) of this title) as the State agency determines to be adequate, but not more than 1 percent, for conducting effective demonstration projects in health and nutrition education under section 3027(f) of this title shall be available for conducting such projects; and”.
+Subsec. (d)(1)(C). Pub. L. 102–375, §304(c), amended subpar. (C) generally. Prior to amendment, subpar. (C)read as follows: “after September 30, 1986, such amount (excluding any amount attributable to funds appropriated under section 3023(a)(3) of this title) as the State agency determines to be adequate, but not more than 1 percent, for conducting effective demonstration projects in health and nutrition education under section 3027(f) of this title shall be available for conducting such projects; and”.
 
 Subsec. (e). Pub. L. 102–375, §304(d), added subsec. (e).
 
@@ -106,11 +126,7 @@ Amendment by Pub. L. 100–175 effective Oct. 1, 1987, except not applicable wit
 
 Amendment by Pub. L. 98–459 effective Oct. 9, 1984, see section 803(a) of Pub. L. 98–459, set out as a note under section 3001 of this title.
 
-#### Termination of Trust Territory of the Pacific Islands
-
-For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3023, 3027, 3028, 3029, 3057c, 3058b, 3058e of this title.
+This section is referred to in sections 3021, 3027, 3028, 3029, 3030c–3, 3030s–1, 3058b, 3058e of this title.
 

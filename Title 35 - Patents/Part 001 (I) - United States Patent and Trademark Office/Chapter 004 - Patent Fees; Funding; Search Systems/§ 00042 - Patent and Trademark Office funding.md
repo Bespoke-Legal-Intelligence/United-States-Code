@@ -20,7 +20,7 @@
 
 &emsp;(5) such other information as the committees consider necessary.
 
-(July 19, 1952, ch. 950, 66 Stat. 796; Pub. L. 94–131, §4, Nov. 14, 1975, 89 Stat. 690; Pub. L. 96–517, §3,Dec. 12, 1980, 94 Stat. 3018; Pub. L. 97–247, §3(g), Aug. 27, 1982, 96 Stat. 319; Pub. L. 97–258, §3(i), Sept. 13, 1982, 96 Stat. 1065; Pub. L. 102–204, §§4, 5(e), Dec. 10, 1991, 105 Stat. 1637, 1640; Pub. L. 105–358, §4, Nov. 10, 1998, 112 Stat. 3274; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4205, 4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–555, 1501A–582.)
+(July 19, 1952, ch. 950, 66 Stat. 796; Pub. L. 94–131, §4, Nov. 14, 1975, 89 Stat. 690; Pub. L. 96–517, §3, Dec. 12, 1980, 94 Stat. 3018; Pub. L. 97–247, §3(g), Aug. 27, 1982, 96 Stat. 319; Pub. L. 97–258, §3(i), Sept. 13, 1982, 96 Stat. 1065; Pub. L. 102–204, §§4, 5(e), Dec. 10, 1991, 105 Stat. 1637, 1640; Pub. L. 105–358, §4, Nov. 10, 1998, 112 Stat. 3274; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4205, 4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–555, 1501A–582.)
 
 #### Historical and Revision Notes
 
@@ -50,7 +50,7 @@ Subsec. (e). Pub. L. 102–204, §4, added subsec. (e).
 
 Subsec. (c). Pub. L. 97–247 inserted provision that fees available to the Commissioner under section 31 of the Trademark Act of 1946, as amended (15 U.S.C. 1113), be used exclusively for the processing of trademark registrations and for other services and materials related to trademarks.
 
-1980—Pub. L. 96–517 designated existing provision relating to payment of patent fees as subsec. (a) and struck out provision that, except as provided in sections 361(b) and 376(b) of this title, the Commissioner deposit fees paid in the Treasury of the United States in such manner as directed by the Secretary of the Treasury, designated existing provision relating to return of excess amounts paid as subsec. (d), and added subsecs. (b) and (c).
+1980—Pub. L. 96–517 designated existing provision relating to payment of patent fees as subsec. (a) and struck out provision that, except as provided in sections 361(b) and 376(b) of this title, the Commissioner deposit fees paid in the Treasury of the United Statesin such manner as directed by the Secretary of the Treasury, designated existing provision relating to return of excess amounts paid as subsec. (d), and added subsecs. (b) and (c).
 
 1975—Pub. L. 94–131 inserted “, except as provided in sections 361(b) and 376(b) of this title,”.
 

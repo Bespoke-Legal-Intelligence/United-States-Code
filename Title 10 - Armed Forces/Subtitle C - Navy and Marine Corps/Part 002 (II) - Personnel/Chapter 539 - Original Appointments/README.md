@@ -33,14 +33,6 @@
 
 1958—Pub. L. 85–861, §1(118)(B), (121)(B), Sept. 2, 1958, 72 Stat. 1493, 1495, added items 5573a, 5600, and 5601.
 
-#### Cross References
-
-General military law provisions relating to appointments—
-
-&emsp;&emsp;Regular components, see section 541 et seq. of this title.
-
-&emsp;&emsp;Reserve officers, see section 12201 et seq. of this title.
-
 
 ---
 

@@ -24,13 +24,13 @@
 
 &emsp;(7) where, on the date when importation is sought or public distribution in the United States is made—
 
-&emsp;&emsp;(A) the author of any substantial part of such material is an individual and receives compensation for the transfer or license of the right to distribute the work in the United States; and
+&emsp;&emsp;(A) the author of any substantial part of such material is an individual and receivescompensation for the transfer or license of the right to distribute the work in the United States; and
 
 &emsp;&emsp;(B) the first publication of the work has previously taken place outside the United States under a transfer or license granted by such author to a transferee or licensee who was not a national or domiciliary of the United States or a domestic corporation or enterprise; and
 
 &emsp;&emsp;(C) there has been no publication of an authorized edition of the work of which the copies were manufactured in the United States; and
 
-&emsp;&emsp;(D) the copies were reproduced under a transfer or license granted by such author or by the transferee or licensee of the right of first publication as mentioned in subclause (B), and the transferee or the licensee of theright of reproduction was not a national or domiciliary of the United States or a domestic corporation or enterprise.
+&emsp;&emsp;(D) the copies were reproduced under a transfer or license granted by such author or by the transferee or licensee of the right of first publication as mentioned in subclause (B), and the transferee or the licensee of the right of reproduction was not a national or domiciliary of the United States or a domestic corporation or enterprise.
 
 (c) The requirement of this section that copies be manufactured in the United States or Canada is satisfied if—
 
@@ -125,12 +125,6 @@ Subsection (e) requires the plaintiff in any infringement action involving publi
 Subsec. (b)(1). Pub. L. 105–80, §12(a)(16), substituted “substantial” for “subsustantial” before “part of the work”.
 
 1982—Subsec. (a). Pub. L. 97–215 substituted “1986” for “1982”.
-
-#### Cross References
-
-Application for copyright registration, names of persons or organizations who performed the processes specified in this section, see section 409 of this title.
-
-Fee for issuance of import statement, see section 708 of this title.
 
 #### Section Referred to in Other Sections
 

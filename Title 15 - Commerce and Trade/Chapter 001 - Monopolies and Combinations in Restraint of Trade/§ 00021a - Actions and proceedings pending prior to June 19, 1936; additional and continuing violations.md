@@ -12,10 +12,6 @@ Nothing herein contained, referred to in text, probably means nothing contained 
 
 For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, §1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
 
-#### Cross References
-
-Exemptions of non-profit institutions from provisions of this section, see section 13c of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in title 10 section 7430; title 42 sections 6202, 8235f; title 49 section 10706.

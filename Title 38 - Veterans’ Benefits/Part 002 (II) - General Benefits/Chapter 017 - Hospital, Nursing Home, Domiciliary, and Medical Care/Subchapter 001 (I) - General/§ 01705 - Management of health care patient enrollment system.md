@@ -74,7 +74,7 @@ Matters To Be Included.—The report under subsection (b) shall include detailed
 
 &emsp;“(5) The numbers and characteristics of, and the type and extent of health care furnished to, veterans not enrolled for care (shown separately by reference to each class of eligibility, both in total and separately by facility).
 
-&emsp;“(6) The specific fiscal impact (shown in total and by geographic health-care delivery areas) of changes in delivery patterns instituted under the amendments made by this title \[enacting this section and section1706 of this title and amending sections 1525, 1701, 1703, 1710, 1712, 1712A, 1717, 1718, 1720, 1722, 1729, 2104, 5317, 8110, and 8111A of this title\].”
+&emsp;“(6) The specific fiscal impact (shown in total and by geographic health-care delivery areas) of changes in delivery patterns instituted under the amendments made by this title \[enacting this section and section 1706 of this title and amending sections 1525, 1701, 1703, 1710, 1712, 1712A, 1717, 1718, 1720, 1722, 1729, 2104, 5317, 8110, and 8111A of this title\].”
 
 #### Section Referred to in Other Sections
 

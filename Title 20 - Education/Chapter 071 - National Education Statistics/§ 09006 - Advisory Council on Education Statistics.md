@@ -52,7 +52,7 @@ There is established, within the Center, the Advisory Council on Education Stati
 
 &emsp;&emsp;(A) review general policies for the operation of the Center and shall advise the Commissioner on standards to ensure that statistics and other information disseminated by the Center are of high quality and are not subject to partisan political influence; and
 
-&emsp;&emsp;(B) advise the Commissioner and the National Assessment Governing Board on technical and statistical matters related to the National Assessment of Educational Progress.
+&emsp;&emsp;(B) advise the Commissioner and the National Assessment Governing Board on technical and statistical matters related to theNational Assessment of Educational Progress.
 
 #### (6) Staff
 

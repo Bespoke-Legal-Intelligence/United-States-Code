@@ -28,7 +28,7 @@
 
 &emsp;(11) The construction, outfitting, and repair of military equipment.
 
-&emsp;(12) The construction, maintenance, and repair of buildings, structures, and utilities and the acquisition of real property and interests in real property necessary to carry out the responsibilities specified in this section.
+&emsp;(12) The construction, maintenance, and repair of buildings, structures, and utilities andthe acquisition of real property and interests in real property necessary to carry out the responsibilities specified in this section.
 
 (c) Subject to the authority, direction, and control of the Secretary of Defense, the Secretary of the Army is also responsible to the Secretary of Defense for—
 
@@ -115,26 +115,6 @@ Report.—Not later than two years after the date of the enactment of this Act \
 For order of succession in event of death, disability, or resignation of Secretary of Defense, see Ex. Ord. No. 13000, Apr. 24, 1996, 61 F.R. 18483, set out as a note under section 3345 of Title 5, Government Organization and Employees.
 
 For order of succession in event of death, permanent disability, or resignation of Secretary of the Army, see Ex. Ord. No. 12908, Apr. 22, 1994, 59 F.R. 21907, set out as a note under section 3345 of Title 5.
-
-#### Cross References
-
-Armed Forces Policy Council, member of, see section 171 of this title.
-
-Assignment and detail to—
-
-&emsp;&emsp;Basic and special branches, see section 3065 of this title.
-
-&emsp;&emsp;Judge Advocate General's Corps, assignment of members of Army by Secretary, see section 3072 of this title.
-
-Chief of staff, appointment and duties, see section 3033 of this title.
-
-Compensation of Secretary, see section 5313 of Title 5, Government Organization and Employees.
-
-Courts-martial, authority to convene, see sections 822 to 824 of this title.
-
-Establishment of advisory committees and panels for research and development activities, see section 174 of this title.
-
-President's appointing power, see Const. Art. II, §2, cl. 2.
 
 #### Section Referred to in Other Sections
 

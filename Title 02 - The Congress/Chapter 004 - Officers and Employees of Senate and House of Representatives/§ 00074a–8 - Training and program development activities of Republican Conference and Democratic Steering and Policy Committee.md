@@ -22,7 +22,7 @@ Of the total amount in the account established under subsection (a) of this sect
 
 #### (d) Authorization of appropriations
 
-There are authorized to be appropriated to the account under this section for fiscal year 1999and each succeeding fiscal year such sums as may be necessary for training and program development activities of the Republican Conference and the Democratic Steering and Policy Committee during the fiscal year.
+There are authorized to be appropriated to the account under this section for fiscal year 1999 and each succeeding fiscal year such sums as may be necessary for training and program development activities of the Republican Conference and the Democratic Steering and Policy Committee during the fiscal year.
 
 (Pub. L. 105–275, title I, §103, Oct. 21, 1998, 112 Stat. 2438.)
 

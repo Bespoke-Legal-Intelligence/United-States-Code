@@ -18,7 +18,7 @@
 
 #### (2) Requirements
 
-&emsp;Such needs assessment shall be carried out with the involvement of teachers, including teachers in schools receiving assistance under part A of subchapter I of this chapter, and shall take into account what activities need to be conducted in order to give teachers and, where appropriate, administrators, the means, including the knowledge and skills, to provide students with the opportunity to meet challenging State or local student performance standards.
+&emsp;Such needs assessment shall be carried out with the involvement of teachers, includingteachers in schools receiving assistance under part A of subchapter I of this chapter, and shall take into account what activities need to be conducted in order to give teachers and, where appropriate, administrators, the means, including the knowledge and skills, to provide students with the opportunity to meet challenging State or local student performance standards.
 
 #### (c) Application contents
 
@@ -74,7 +74,7 @@ Each application under this section shall include the local educational agency's
 
 &emsp;&emsp;(A) remain in effect for the duration of the local educational agency's participation under this part; and
 
-&emsp;&emsp;(B) be periodically reviewed and revised by the local educational agency, as necessary,to reflect changes in the local educational agency's strategies and programs under this part.
+&emsp;&emsp;(B) be periodically reviewed and revised by the local educational agency, as necessary, to reflect changes in the local educational agency's strategies and programs under this part.
 
 (Pub. L. 89–10, title II, §2208, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3626; amended Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §709(b)(3)(A)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–313.)
 

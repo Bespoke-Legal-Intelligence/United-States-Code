@@ -78,7 +78,7 @@ Factors to consider.—In making the evaluation under clause (i), the Commission
 
 &emsp;&emsp;&emsp;(III) any other circumstances indicating that the remedial effect of the antidumping order will be seriously undermined.
 
-&emsp;(B) If the final determination of the Commission is that there is no material injury but that there is threat of material injury, then its determination shall also include a finding as to whether material injury by reason of the imports of the merchandise with respect to which the administering authority has madean affirmative determination under subsection (a) of this section would have been found but for any suspension of liquidation of entries of the merchandise.
+&emsp;(B) If the final determination of the Commission is that there is no material injury but that there is threat of material injury, then its determination shall also include a finding as to whether material injury by reason of the imports of the merchandise with respect to which the administering authority has made an affirmative determination under subsection (a) of this section would have been found but for any suspension of liquidation of entries of the merchandise.
 
 #### (c) Effect of final determinations
 
@@ -132,7 +132,7 @@ Factors to consider.—In making the evaluation under clause (i), the Commission
 
 #### (B) Exception
 
-&emsp;&emsp;If the estimated weighted average dumping margins established for all exporters and producers individually investigated are zero or de minimis margins, or are determined entirely under section 1677e of this title, theadministering authority may use any reasonable method to establish the estimated all-others rate for exporters and producers not individually investigated, including averaging the estimated weighted average dumping margins determined for the exporters and producers individually investigated.
+&emsp;&emsp;If the estimated weighted average dumping margins established for all exporters and producers individually investigated are zero or de minimis margins, or are determined entirely under section 1677e of this title, the administering authority may use any reasonable method to establish the estimated all-others rate for exporters and producers not individually investigated, including averaging the estimated weighted average dumping margins determined for the exporters and producers individually investigated.
 
 #### (d) Publication of notice of determinations
 
@@ -190,7 +190,7 @@ Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the d
 
 #### Effective Date of 1988 Amendment
 
-Amendment by section 1333(a) of Pub. L. 100–418 effective Aug. 23, 1988, and amendment by section 1324(b)(3) of Pub. L. 100–418 applicable with respect to investigations initiated after Aug. 23, 1988, see section 1337(a), (c) of Pub. L. 100–418, set out as a note under section 1671 of this title.
+Amendment by section 1333(a) of Pub. L. 100–418 effective Aug. 23, 1988, and amendment by section 1324(b)(3)of Pub. L. 100–418 applicable with respect to investigations initiated after Aug. 23, 1988, see section 1337(a), (c) of Pub. L. 100–418, set out as a note under section 1671 of this title.
 
 #### Effective Date of 1984 Amendment
 

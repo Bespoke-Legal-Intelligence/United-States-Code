@@ -42,7 +42,3 @@ The last proviso of §8 of the Act of July 12, 1921, ch. 44 (34 U.S.C. 734), was
 
 Subsecs. (b), (c). Pub. L. 91–198 inserted “or naval flight officer” after “naval aviator”.
 
-#### Cross References
-
-Aviation designations: naval aviator, naval flight officer, see sections 2003 and 6024 of this title.
-

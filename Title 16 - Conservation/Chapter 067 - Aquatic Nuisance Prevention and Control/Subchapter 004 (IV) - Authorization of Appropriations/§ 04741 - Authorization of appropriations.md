@@ -68,7 +68,7 @@ There are authorized to be appropriated to the Director $1,000,000 to carry out 
 
 #### Codification
 
-“Section 322 of title 7” substituted in subsec. (b)(4)(B) for “the first section of the Act of August 30, 1890 (26 Stat. 417, chapter 841; 7 U.S.C. 322)”. Section 1 of theact of Aug. 30, 1890, is classified to sections 322 and 323 of Title 7, Agriculture, but only section 322 refers to agriculture and the mechanic arts.
+“Section 322 of title 7” substituted in subsec. (b)(4)(B) for “the first section of the Act of August 30, 1890 (26 Stat. 417, chapter 841; 7 U.S.C. 322)”. Section 1 of the act of Aug. 30, 1890, is classified to sections 322 and 323 of Title 7, Agriculture, but only section 322 refers to agriculture and the mechanic arts.
 
 #### Amendments
 

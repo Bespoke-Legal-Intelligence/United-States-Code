@@ -20,6 +20,10 @@ A prior section 2106 was renumbered section 2110 of this title.
 
 Section effective Apr. 1, 1985, see section 301 of Pub. L. 98–497, set out as an Effective Date of 1984 Amendment note under section 2102 of this title.
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in this section relating to the requirement that the Archivist submit a report to Congress in January of each year, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the last item on page 179 of House Document No. 103–7.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 3102, 3317 of this title.

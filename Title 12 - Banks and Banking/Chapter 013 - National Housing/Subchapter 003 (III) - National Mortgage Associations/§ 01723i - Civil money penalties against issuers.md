@@ -106,9 +106,9 @@ The Secretary shall deposit all civil money penalties collected under this secti
 
 (June 27, 1934, ch. 847, title III, §317, as added Pub. L. 101–235, title I, §110(a), Dec. 15, 1989, 103 Stat. 2011; amended Pub. L. 104–208, div. A, title II, §2704(d)(13)(A), Sept. 30, 1996, 110 Stat. 3009–490.)
 
-#### Amendment of Subsection (b)(1)(B)
+#### Amendments
 
-<i>Pub. L. 104–208, div. A, title II, §2704(c), (d)(13)(A), Sept. 30, 1996, 110 Stat. 3009–487, 3009–490, provided that, effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, subsection (b)(1)(B) of this section is amended by striking “Bank Insurance Fund for banks or through the Savings Association Insurance Fund for savings associations” and inserting “Deposit Insurance Fund”.</i>
+1996—Subsec. (b)(1)(B). Pub. L. 104–208, which directed substitution of “Deposit Insurance Fund” for “Bank Insurance Fund for banks or through the Savings Association Insurance Fund for savings associations”, was not executed. See Effective Date of 1996 Amendment note below.
 
 #### Effective Date of 1996 Amendment
 

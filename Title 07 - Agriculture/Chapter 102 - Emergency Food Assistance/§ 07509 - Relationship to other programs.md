@@ -2,7 +2,7 @@
 
 (a) Section 2013(b) of this title shall not apply with respect to the distribution of commodities under this chapter.
 
-(b) Except as otherwise provided in section 7504 of this title, none of the commodities distributed under this chapter shall be sold orotherwise disposed of in commercial channels in any form.
+(b) Except as otherwise provided in section 7504 of this title, none of the commodities distributed under this chapter shall be sold or otherwise disposed of in commercial channels in any form.
 
 (Pub. L. 98–8, title II, §205, Mar. 24, 1983, 97 Stat. 36; Pub. L. 98–92, §2(7), Sept. 2, 1983, 97 Stat. 611.)
 

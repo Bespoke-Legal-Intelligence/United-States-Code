@@ -2,7 +2,7 @@
 
 #### (a) Authority
 
-To provide access to sources of private financing to Indian families, Indian housing authorities, and Indian tribes, who otherwise could not acquire housing financing because of the unique legal status of Indian lands or as a result of a lack of access to private financial markets, the Secretary may guarantee not to exceed 100 percent of the unpaid principal and interest due on any loan eligible under subsection (b) of this section made to an Indian family, Indian housing authority, or Indian tribe.
+To provide access to sources of private financing to Indian families, Indian housing authorities, and Indian tribes, who otherwise could not acquire housing financing because of the unique legal status of Indian lands, the Secretary may guarantee not to exceed 100 percent of the unpaid principal and interest due on any loan eligible under subsection (b) of this section made to an Indian family, Indian housing authority, or Indian tribe.
 
 #### (b) Eligible loans
 
@@ -14,7 +14,7 @@ Loans guaranteed pursuant to this section shall meet the following requirements:
 
 #### (2) Eligible housing
 
-&emsp;The loan shall be used to construct, acquire, or rehabilitate 1- to 4-family dwellings that are standard housing and are located on trust land or land located in an Indian or Alaska Native area.
+&emsp;The loan shall be used to construct, acquire, refinance, or rehabilitate 1- to 4-family dwellings that are standard housing and are located on trust land or land located in an Indian or Alaska Native area.
 
 #### (3) Security
 
@@ -82,7 +82,7 @@ Notwithstanding any other provision of law, any loan guaranteed under this secti
 
 #### (1) In general
 
-&emsp;If the Secretary determines that any lender or holder of a guarantee certificate under subsection (c) of this section has failed to maintain adequate accounting records, to adequately service loans guaranteed under this section, to exercise proper credit or underwriting judgment, or has engaged in practices otherwise detrimental to the interest of a borrower or the United States, the Secretary may—
+&emsp;If the Secretary determines that any lender or holder of a guarantee certificate under subsection (c) of this section has failed to maintain adequate accounting records, to adequately service loans guaranteed under thissection, to exercise proper credit or underwriting judgment, or has engaged in practices otherwise detrimental to the interest of a borrower or the United States, the Secretary may—
 
 &emsp;&emsp;(A) refuse, either temporarily or permanently, to guarantee any further loans made by such lender or holder;
 
@@ -170,7 +170,7 @@ Notwithstanding any other provision of law, any loan guaranteed under this secti
 
 #### (C) Limitation on outstanding aggregate principal amount
 
-&emsp;&emsp;Subject to the limitations in subparagraphs (A) and (B), the Secretary may enter into commitments to guarantee loans under this section in each of fiscal years 1997, 1998, 1999, 2000, and 2001 with an aggregate outstanding principal amount not exceeding $400,000,000 for each such fiscal year.
+&emsp;&emsp;Subject to the limitations in subparagraphs (A) and (B), the Secretary may enter into commitments to guarantee loans under this section in each fiscal year with an aggregate outstanding principal amount not exceeding such amount as may be provided in appropriation Acts for such fiscal year.
 
 #### (6) Liabilities
 
@@ -178,7 +178,7 @@ Notwithstanding any other provision of law, any loan guaranteed under this secti
 
 #### (7) Authorization of appropriations
 
-&emsp;There are authorized to be appropriated to the Guarantee Fund to carry out this section such sums as may be necessary for each of fiscal years 1997, 1998, 1999, 2000, and 2001.
+&emsp;There are authorized to be appropriated to the Guarantee Fund to carry out this section such sums as may be necessary for each fiscal year.
 
 #### (j) Requirements for standard housing
 
@@ -224,7 +224,7 @@ The Secretary shall, by regulation, establish housing safety and quality standar
 
 #### (k) Environmental review
 
-For purposes of environmental,<sup>3</sup> review, decisionmaking, and action under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) and any other law that furthers the purposes of that Act, a loan guarantee under this section shall—
+For purposes of environmental,<sup>3</sup> review, decisionmaking, and action under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 etseq.) and any other law that furthers the purposes of that Act, a loan guarantee under this section shall—
 
 &emsp;(1) be treated as a grant under the Native American Housing Assistance and Self-Determination Act of 1996 (25 U.S.C. 4101 et seq.); and
 
@@ -268,7 +268,7 @@ Tribe; indian tribe.—The term “tribe” or “Indian tribe” means any Indi
 
 &emsp;(9) The term “trust land” means land title to which is held by the United States for the benefit of an Indian or Indian tribe or title to which is held by an Indian tribe subject to a restriction against alienation imposed by the United States.
 
-(Pub. L. 102–550, title I, §184, Oct. 28, 1992, 106 Stat. 3739; Pub. L. 104–330, title VII, §701(a)–(j), Oct. 26, 1996, 110 Stat. 4048–4050; Pub. L. 105–276, title V, §595(e)(11)–(13), Oct. 21, 1998, 112 Stat. 2658.)
+(Pub. L. 102–550, title I, §184, Oct. 28, 1992, 106 Stat. 3739; Pub. L. 104–330, title VII, §701(a)–(j), Oct. 26, 1996, 110 Stat. 4048–4050; Pub. L. 105–276, title V, §595(e)(11)–(13), Oct. 21, 1998, 112 Stat. 2658; Pub. L. 106–377, §1(a)(1) \[title II, §227\], Oct. 27, 2000, 114 Stat. 1441, 1441A–30; Pub. L. 106–568, title X, §1002, Dec. 27, 2000, 114 Stat. 2925; Pub. L. 106–569, title V, §502, Dec. 27, 2000, 114 Stat. 2961.)
 
 #### References in Text
 
@@ -289,6 +289,14 @@ The Indian Self-Determination and Education Assistance Act of 1975, referred to 
 Section was enacted as part of the Housing and Community Development Act of 1992, and not as part of the National Housing Act which comprises this chapter.
 
 #### Amendments
+
+2000—Subsec. (a). Pub. L. 106–377, §1(a)(1) \[title II, §227(1)\], struck out “or as a result of a lack of access to private financial markets” after “legal status of Indian lands”.
+
+Subsec. (b)(2). Pub. L. 106–377, §1(a)(1) \[title II, §227(2)\], inserted “refinance,” after “acquire,”.
+
+Subsec. (i)(5)(C). Pub. L. 106–568, §1002(1), and Pub. L. 106–569, §502(1), amended par. (5) identically, adding subpar. (C) and striking out heading and text of former subpar. (C). Text read as follows: “Subject to the limitations in subparagraphs (A) and (B), the Secretary may enter into commitments to guarantee loans under this section in each of fiscal years 1997, 1998, 1999, 2000, and 2001 with an aggregate outstanding principal amount not exceeding $400,000,000 for each such fiscal year.”
+
+Subsec. (i)(7). Pub. L. 106–568, §1002(2), and Pub. L. 106–569, §502(2), amended par. (7) identically, substituting “each fiscal year” for “each of fiscal years 1997, 1998, 1999, 2000, and 2001”.
 
 1998—Subsec. (b)(2). Pub. L. 105–276, §595(e)(11), struck out before period at end “that is under the jurisdiction of an Indian tribe for which an Indian housing plan has been submitted and approved pursuant to sections 102 and 103 of the Native American Housing Assistance and Self-Determination Act of 1996 that provides for the use of loan guarantees under this section to provide affordable homeownership housing in such areas.”
 

@@ -14,10 +14,6 @@ Congress finds that—
 
 (Pub. L. 95–306, §2, June 30, 1978, 92 Stat. 349.)
 
-#### Termination of Subchapter
-
-<i>For termination of subchapter by section 8 of Pub. L. 95–306, see Effective and Termination Dates note below.</i>
-
 #### Effective and Termination Dates
 
 Section 8 of Pub. L. 95–306, as amended by Pub. L. 100–231, §2(2), Jan. 5, 1988, 101 Stat. 1565, provided that: “The provisions of this Act \[enacting this subchapter and provision set out as a note under section 1600 of this title\] shall be effective for the period beginning October 1, 1978, and ending September 30, 2000.”

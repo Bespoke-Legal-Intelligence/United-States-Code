@@ -15,10 +15,13 @@
 | [181\.](%C2%A7%2000181%20-%20Joint%20Requirements%20Oversight%20Council.md) | Joint Requirements Oversight Council. |
 | [182\.](%C2%A7%2000182%20-%20Center%20for%20Excellence%20in%20Disaster%20Management%20and%20Humanitarian%20Assistance.md) | Center for Excellence in Disaster Management and Humanitarian Assistance. |
 | [183\.](%C2%A7%2000183%20-%20Advisory%20committees%20annual%20justification%20required.md) | Advisory committees: annual justification required. |
+| [184\.](%C2%A7%2000184%20-%20Department%20of%20Defense%20regional%20centers%20for%20security%20studies.md) | Department of Defense regional centers for security studies. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2000—Pub. L. 106–398, §1 \[\[div. A\], title IX, §912(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–229, added item 184.
 
 1997—Pub. L. 105–85, div. A, title III, §382(a)(2), title IX, §904(b), Nov. 18, 1997, 111 Stat. 1711, 1855, added items 182 and 183.
 
@@ -52,3 +55,4 @@ Pub. L. 98–36, §2(b), May 27, 1983, 97 Stat. 201, added item 178.
 - [&sect; 00181 - Joint Requirements Oversight Council](%C2%A7%2000181%20-%20Joint%20Requirements%20Oversight%20Council.md)
 - [&sect; 00182 - Center for Excellence in Disaster Management and Humanitarian Assistance](%C2%A7%2000182%20-%20Center%20for%20Excellence%20in%20Disaster%20Management%20and%20Humanitarian%20Assistance.md)
 - [&sect; 00183 - Advisory committees annual justification required](%C2%A7%2000183%20-%20Advisory%20committees%20annual%20justification%20required.md)
+- [&sect; 00184 - Department of Defense regional centers for security studies](%C2%A7%2000184%20-%20Department%20of%20Defense%20regional%20centers%20for%20security%20studies.md)

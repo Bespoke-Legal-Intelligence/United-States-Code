@@ -24,7 +24,7 @@ The Secretary, acting through the Service, shall make grants to public or nonpro
 
 #### Amendments
 
-1992—Subsec. (a)(1). Pub. L. 102–573, §102(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “identifying Indians with a potential for education or training in the health professions and encouraging and assisting them (A) to enroll in schools of medicine, osteopathy, dentistry, veterinary medicine, optometry, podiatry, pharmacy, public health, nursing, or allied health professions; or (B), if they are not qualified to enroll in any such school, to undertake such post-secondary education or training as may be required to qualify them for enrollment;”.
+1992—Subsec. (a)(1). Pub. L. 102–573, §102(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “identifying Indians with a potential for education or training in the health professions and encouraging and assisting them (A) to enroll in schools of medicine, osteopathy, dentistry, veterinary medicine, optometry, podiatry, pharmacy, public health, nursing, or allied health professions; or (B), if they are not qualified to enroll in any such school, to undertakesuch post-secondary education or training as may be required to qualify them for enrollment;”.
 
 Subsec. (a)(2). Pub. L. 102–573, §102(a)(2), substituted “course of study” for “school” in two places and “paragraph (1)” for “clause (1)(A)”.
 

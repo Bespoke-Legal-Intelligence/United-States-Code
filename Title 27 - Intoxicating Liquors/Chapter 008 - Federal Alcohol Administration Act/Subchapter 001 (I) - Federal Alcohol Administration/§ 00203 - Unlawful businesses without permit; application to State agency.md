@@ -1,6 +1,6 @@
 ### §203. Unlawful businesses without permit; application to State agency
 
-In order effectively to regulate interstate and foreign commerce in distilled spirits, wine, andmalt beverages, to enforce the twenty-first amendment, and to protect the revenue and enforce the postal laws with respect to distilled spirits, wine, and malt beverages:
+In order effectively to regulate interstate and foreign commerce in distilled spirits, wine, and malt beverages, to enforce the twenty-first amendment, and to protect the revenue and enforce the postal laws with respect to distilled spirits, wine, and malt beverages:
 
 (a) It shall be unlawful, except pursuant to a basic permit issued under this subchapter by the Secretary of the Treasury—
 
@@ -38,7 +38,7 @@ In the original, subsections (a) and (b) of this section contained a final parag
 
 #### Transfer of Functions
 
-“Secretary of the Treasury” was substituted in text for “Administrator”, meaning the Administrator of the Federal Alcohol Administration, pursuant to Reorg. Plan No. III of 1940, see note set out under section 201 of this title.
+“Secretary of the Treasury” was substituted in text for “Administrator”, meaning the Administrator of theFederal Alcohol Administration, pursuant to Reorg. Plan No. III of 1940, see note set out under section 201 of this title.
 
 #### Section Referred to in Other Sections
 

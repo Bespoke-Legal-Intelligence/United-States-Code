@@ -22,10 +22,6 @@
 
 1970—Pub. L. 91–482, §2B, Oct. 21, 1970, 84 Stat. 1082, struck out item 4623 “Tobacco: enlisted members of Army”.
 
-#### Cross References
-
-Property records, see section 2721 of this title.
-
 
 ---
 

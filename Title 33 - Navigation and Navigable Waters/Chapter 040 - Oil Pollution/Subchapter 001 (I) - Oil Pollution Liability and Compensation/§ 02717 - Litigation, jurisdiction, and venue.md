@@ -2,7 +2,7 @@
 
 #### (a) Review of regulations
 
-Review of any regulation promulgated under this Act may be had upon application by any interested person only in the Circuit Court of Appeals of the United States for the District of Columbia. Any such application shall be made within 90 days from the date of promulgation of such regulations. Any matter with respect to which review could have been obtained underthis subsection shall not be subject to judicial review in any civil or criminal proceeding for enforcement or to obtain damages or recovery of response costs.
+Review of any regulation promulgated under this Act may be had upon application by any interested person only in the Circuit Court of Appeals of the United States for the District of Columbia. Any such application shall be made within 90 days from the date of promulgation of such regulations. Any matter with respect to which review could have been obtained under this subsection shall not be subject to judicial review in any civil or criminal proceeding for enforcement or to obtain damages or recovery of response costs.
 
 #### (b) Jurisdiction
 
@@ -10,7 +10,7 @@ Except as provided in subsections (a) and (c) of this section, the United States
 
 #### (c) State court jurisdiction
 
-A State trial court of competent jurisdiction over claims for removal costs or damages, as defined under this Act, may consider claims under this Act or State law and any final judgment of such court (when no longer subject to ordinary forms of review) shall be recognized, valid, and enforceable for all purposes of this Act.
+A State trial court of competent jurisdiction over claims for removal costs or damages, as defined under this Act, may consider claims under this Act or State law and any final judgment of such court (when no longer subject to ordinaryforms of review) shall be recognized, valid, and enforceable for all purposes of this Act.
 
 #### (d) Assessment and collection of tax
 

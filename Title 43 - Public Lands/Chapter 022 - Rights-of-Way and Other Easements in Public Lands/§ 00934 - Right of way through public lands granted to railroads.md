@@ -1,6 +1,6 @@
 ### §934. Right of way through public lands granted to railroads
 
-The right of way through the public lands of the United States is granted to any railroad company duly organized under the laws of any State or Territory, except the District of Columbia, or by the Congress of the United States, which shall have filed with the Secretary of the Interior a copy of its articles of incorporation, and due proofs of its organization under the same, to the extent of one hundred feet on each side of the central line of said road; also the right to take, from the public lands adjacent to the line of said road, material, earth, stone, and timber necessary for the construction of saidrailroad; also ground adjacent to such right of way for station buildings, depots, machine shops, side tracks, turnouts, and water stations, not to exceed in amount twenty acres for each station, to the extent of one station for each ten miles of its road.
+The right of way through the public lands of the United States is granted to any railroad company duly organized under the laws of any State or Territory, except the District of Columbia, or by the Congress of the United States, which shall have filed with the Secretary of the Interior a copy of its articles of incorporation, and due proofs of its organization under the same, to the extent of one hundred feet on each side of the central line of said road; also the right to take, from the public lands adjacent to the line of said road, material, earth, stone, and timber necessary for the construction of said railroad; also ground adjacent to such right of way for station buildings, depots, machine shops, side tracks, turnouts, and water stations, not to exceed in amount twenty acres for each station, to the extent of one station for each ten miles of its road.
 
 (Mar. 3, 1875, ch. 152, §1, 18 Stat. 482.)
 
@@ -11,10 +11,6 @@ The right of way through the public lands of the United States is granted to any
 #### Savings Provision
 
 Repeal by Pub. L. 94–579 insofar as applicable to the issuance of rights-of-way not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under section 1701 of this title.
-
-#### Cross References
-
-Alaska Right of Way Act, see sections 942–1 to 942–9 of this title.
 
 #### Section Referred to in Other Sections
 

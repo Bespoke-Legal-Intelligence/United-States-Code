@@ -2,7 +2,7 @@
 
 (a) Under such regulations as the Secretary of the Navy prescribes, enlisted members of the Naval Reserve and the Marine Corps Reserve may be designated as student aviation pilots.
 
-(b) A member who is not a qualified civilian aviator may not be designated as a student aviation pilot unless he agrees in writing, with the consent of his parent or guardian if he is a minor, to serve on active duty for a period of two years after successfully completing flight training, unless sooner released. Such a student aviation pilot may be released from active duty or discharged at any time by any administrative authority prescribed by the Secretary.
+(b) A member who is not a qualified civilian aviator may not be designated as a student aviation pilot unless he agrees in writing, with the consent of his parent or guardian if he is a minor, to serve on active duty for a period of two years after successfully completing flight training, unless sooner released. Such a student aviation pilot may be released from active dutyor discharged at any time by any administrative authority prescribed by the Secretary.
 
 (c) If he is a qualified civilian aviator, a student aviation pilot may be given a brief refresher course in flight training.
 
@@ -62,5 +62,5 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 #### Effective Date of 1962 Amendment
 
-Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 87–649, set out as an EffectiveDate note preceding section 101 of Title 37, Pay and Allowances of the Uniformed Services.
+Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 87–649, set out as an Effective Date note preceding section 101 of Title 37, Pay and Allowances of the Uniformed Services.
 

@@ -12,7 +12,3 @@ Under such regulations and conditions as may be prescribed by the Secretary of t
 
 Amendment by Pub. L. 91–271 effective with respect to articles entered, or withdrawn from warehouse for consumption, on or after Oct. 1, 1970, and such other articles entered or withdrawn from warehouse for consumption prior to such date, or with respect to which a protest has not been disallowed in whole or in part before Oct. 1, 1970, see section 203 of Pub. L. 91–271, set out as a note under section 1500 of this title.
 
-#### Cross References
-
-Withdrawal of imported merchandise from bonded warehouses, see section 1562 of this title.
-

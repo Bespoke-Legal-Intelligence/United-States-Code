@@ -68,7 +68,11 @@ Psychologist.—To be eligible to be appointed to a psychologist position, a per
 
 (9)
 
-Social Worker.—To be eligible to be appointed to a social worker position, a person must hold a master's degree in social work froma college or university approved by the Secretary and satisfy the social worker licensure, certification, or registration requirements, if any, of the State in which the social worker is to be employed, except that the Secretary may waive the licensure, certification, or registration requirement of this paragraph for an individual social worker for a reasonable period, not to exceed 3 years, in order for the social worker to take any actions necessary to satisfy the licensure, certification, or registration requirements of such State.
+Social Worker.—To be eligible to be appointed to a social worker position, a person must—
+
+&emsp;(A) hold a master's degree in social work from a college or university approved by the Secretary; and
+
+&emsp;(B) be licensed or certified to independently practice social work in a State, except that the Secretary may waive the requirement of licensure or certification for an individual social worker for a reasonable period of time recommended by the Under Secretary for Health.
 
 (10)
 
@@ -90,13 +94,15 @@ Other Health-Care Positions.—To be appointed as a physician assistant, expande
 
 &emsp;&emsp;(B) the person has voluntarily relinquished such license, registration, or certification in any of those States after being notified in writing by that State of potential termination for cause.
 
-(Added Pub. L. 102–40, title IV, §401(b)(2), May 7, 1991, 105 Stat. 222; amended Pub. L. 102–86, title III, §305(a), Aug. 14, 1991, 105 Stat. 417; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 106–117, title II, §209, Nov. 30, 1999, 113 Stat. 1569.)
+(Added Pub. L. 102–40, title IV, §401(b)(2), May 7, 1991, 105 Stat. 222; amended Pub. L. 102–86, title III, §305(a), Aug. 14, 1991, 105 Stat. 417; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 106–117, title II, §209, Nov. 30, 1999, 113 Stat. 1569; Pub. L. 106–419, title II, §205, Nov. 1, 2000, 114 Stat. 1842.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in sections 4105 and 4108(b) of this title prior to the repeal of those sections as part of the complete revision of chapter 73 of this title by Pub. L. 102–40.
 
 #### Amendments
+
+2000—Subsec. (b)(9). Pub. L. 106–419 substituted “a person must—” and subpars. (A) and (B) for “a person must hold a master's degree in social work from a college or university approved by the Secretary and satisfy the social worker licensure, certification, or registration requirements, if any, of the State in which the social worker is to be employed, except that the Secretary may waive the licensure, certification, or registration requirement of this paragraph for an individual social worker for a reasonable period, not to exceed 3 years, in order for the social worker to take any actions necessary to satisfy the licensure, certification, or registration requirements of such State.”
 
 1999—Subsec. (f). Pub. L. 106–117 added subsec. (f).
 
@@ -110,7 +116,7 @@ Section 305(b) of Pub. L. 102–86 provided that: “The amendment made by subse
 
 #### Requirements Respecting Basic Proficiency in Spoken and Written English of Appointees After November 23, 1977
 
-Section 4(a)(3) of Pub. L. 95–201 provided that: “Notwithstanding any other provision of law, with respect to persons other than those described in subsection (c) of section 4105 and subsection (f) of section 4114 of title 38, United States Code \[former sections 4105(c) and 4114(f) of this title, see subsec. (d) of this section and section 7407(d) of this title\] (as added by paragraphs (1) and (2) of this subsection), who are appointed after the date of enactment of this Act \[Nov. 23, 1977\] in the Department of Medicine and Surgery in the Veterans’ Administration \[now Veterans Health Administration of the Department of Veterans Affairs\] in any direct patient-care capacity, and with respect to persons described in such subsections who are appointed after such enactment date and prior to January 1, 1978, the Administrator of Veterans’ Affairs \[now Secretary of Veterans Affairs\], upon the recommendation of the Chief Medical Director \[now Under Secretary for Health\], shall take appropriate steps to provide reasonable assurance that such persons possess such basic proficiency in spoken and written English as will permit such degree of communication with patients and other health-care personnel as will enable such persons to carry out their health-care responsibilities satisfactorily.”
+Section 4(a)(3) of Pub. L. 95–201 provided that: “Notwithstanding any other provision of law, with respect to persons other than those described in subsection (c) of section 4105 and subsection (f) of section 4114 of title 38, United States Code \[former sections 4105(c) and 4114(f) of this title, see subsec. (d) of this section and section 7407(d) of this title\] (as added by paragraphs (1) and (2) of this subsection), who are appointed after the date of enactment of this Act \[Nov. 23, 1977\] in the Department of Medicine and Surgery in the Veterans’ Administration \[now Veterans Health Administration of the Department of Veterans Affairs\] in any direct patient-care capacity, and with respect to persons described in such subsections who are appointed after such enactment date and prior to January 1, 1978, the Administrator of Veterans’ Affairs \[now Secretary of Veterans Affairs\], upon the recommendation of the Chief Medical Director \[now Under Secretary forHealth\], shall take appropriate steps to provide reasonable assurance that such persons possess such basic proficiency in spoken and written English as will permit such degree of communication with patients and other health-care personnel as will enable such persons to carry out their health-care responsibilities satisfactorily.”
 
 #### Section Referred to in Other Sections
 

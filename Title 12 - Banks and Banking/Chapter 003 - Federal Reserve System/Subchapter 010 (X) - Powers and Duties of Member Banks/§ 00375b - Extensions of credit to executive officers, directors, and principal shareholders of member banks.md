@@ -40,7 +40,7 @@ A member bank may extend credit to any executive officer, director, or principal
 
 #### (A) In general
 
-&emsp;A member bank may extend credit to any executive officer, director, or principal shareholder, or to any related interest of such a person, if the extension of credit is in an amount that, when aggregated with the amount of all outstanding extensions of credit by that bank to its executive officers, directors, principalshareholders, and those persons’ related interests would not exceed the bank's unimpaired capital and unimpaired surplus.
+&emsp;A member bank may extend credit to any executive officer, director, or principal shareholder, or to any related interest of such a person, if the extension of credit is in an amount that, when aggregated with the amount of all outstanding extensions of credit by that bank to its executive officers, directors, principal shareholders, and those persons’ related interests would not exceed the bank's unimpaired capital and unimpaired surplus.
 
 #### (B) More stringent limit authorized
 
@@ -48,7 +48,7 @@ A member bank may extend credit to any executive officer, director, or principal
 
 #### (C) Board may make exceptions for certain banks
 
-&emsp;The Board may, by regulation, make exceptions to subparagraph (A) for member banks with less than $100,000,000 in deposits if the Board determines that the exceptions are important to avoid constricting the availability of credit in small communities or to attract directors to such banks. In no case may the aggregate amount of all outstanding extensions of credit to a bank's executive officers, directors, principal shareholders, and those persons’ related interests be more than 2 times the bank's unimpaired capital and unimpaired surplus.
+&emsp;The Board may, by regulation, make exceptions to subparagraph (A) for member banks with less than $100,000,000 in deposits if theBoard determines that the exceptions are important to avoid constricting the availability of credit in small communities or to attract directors to such banks. In no case may the aggregate amount of all outstanding extensions of credit to a bank's executive officers, directors, principal shareholders, and those persons’ related interests be more than 2 times the bank's unimpaired capital and unimpaired surplus.
 
 #### (6) Overdrafts by executive officers and directors prohibited
 
@@ -132,7 +132,7 @@ For purposes of this section:
 
 &emsp;The term “principal shareholder”—
 
-&emsp;&emsp;(i) means any person that directly or indirectly, or acting through or in concert with one or more persons, owns, controls, or has the power to vote more than 10 percent ofany class of voting securities of a member bank or company; and
+&emsp;&emsp;(i) means any person that directly or indirectly, or acting through or in concert with one or more persons, owns, controls, or has the power to vote more than 10 percent of any class of voting securities of a member bank or company; and
 
 &emsp;&emsp;(ii) does not include a company of which a member bank is a subsidiary.
 

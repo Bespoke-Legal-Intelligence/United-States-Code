@@ -16,7 +16,3 @@ Section was formerly classified to section 1195 of this title, and prior thereto
 
 Pub. L. 103–236 inserted at end “Pursuant to such regulations as the Secretary of State may prescribe, the Secretary may designate any other employee of the Department of State who is a citizen of the United States to perform any notarial function authorized to be performed by a consular officer of the United States under this Act.”
 
-#### Cross References
-
-Oaths, affirmations, affidavits, or depositions, see section 4221 of this title.
-

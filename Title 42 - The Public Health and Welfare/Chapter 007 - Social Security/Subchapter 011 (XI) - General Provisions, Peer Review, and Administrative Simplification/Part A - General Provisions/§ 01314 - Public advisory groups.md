@@ -38,13 +38,25 @@ Members of the Council or of any advisory committee appointed under this section
 
 &emsp;(B) during the period of such appointment, to the prosecution or participation in the prosecution, by any person so appointed, of any claim against the Government involving any matter with which such person, during such period, is or was directly connected by reason of such appointment.
 
-(Aug. 14, 1935, ch. 531, title XI, §1114, as added Pub. L. 87–543, title I, §121, July 25, 1962, 76 Stat. 190; amended Pub. L. 90–248, title IV, §403(e), Jan. 2, 1968, 81 Stat. 932; Pub. L. 98–369, div. B, title VI, §2663(e)(4), (j)(2)(D)(iv), July 18, 1984, 98 Stat. 1168, 1170.)
+#### (i) Nonvoting members and experts
+
+(1) Any advisory committee appointed under subsection (f) of this section to advise the Secretary on matters relating to the interpretation, application, or implementation of section 1395y(a)(1) of this title shall assure the full participation of a nonvoting member in the deliberations of the advisory committee, and shall provide such nonvoting member access to all information and data made available to voting members of the advisory committee, other than information that—
+
+&emsp;(A) is exempt from disclosure pursuant to subsection (a) of section 552 of title 5 by reason of subsection (b)(4) of such section (relating to trade secrets); or
+
+&emsp;(B) the Secretary determines would present a conflict of interest relating to such nonvoting member.
+
+(2) If an advisory committee described in paragraph (1) organizes into panels of experts according to types of items or services considered by the advisory committee, any such panel of experts may report any recommendation with respect to such items or services directly to the Secretary without the prior approval of the advisory committee or an executive committee thereof.
+
+(Aug. 14, 1935, ch. 531, title XI, §1114, as added Pub. L. 87–543, title I, §121, July 25, 1962, 76 Stat. 190; amended Pub. L. 90–248, title IV, §403(e), Jan. 2, 1968, 81 Stat. 932; Pub. L. 98–369, div. B, title VI, §2663(e)(4), (j)(2)(D)(iv), July 18, 1984, 98 Stat. 1168, 1170; Pub. L. 106–554, §1(a)(6) \[title V, §522(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–546.)
 
 #### References in Text
 
 The provisions of title 5 governing appointments in the competitive service, referred to in subsecs. (b) and (f), are classified to section 3301 et seq. of Title 5, Government Organization and Employees.
 
 #### Amendments
+
+2000—Subsec. (i). Pub. L. 106–554 added subsec. (i).
 
 1984—Subsec. (c). Pub. L. 98–369, §2663(j)(2)(D)(iv), substituted “Health and Human Services” for “Health, Education, and Welfare”.
 
@@ -56,11 +68,27 @@ Subsec. (h)(1). Pub. L. 98–369, §2663(e)(4)(B), substituted “sections 203, 
 
 Subsec. (g). Pub. L. 90–248, §403(e)(3), substituted “section 5703 of title 5” for “section 5 of the Administrative Expenses Act of 1946 (5 U.S.C. 73b–2)”.
 
+#### Effective Date of 2000 Amendment
+
+Pub. L. 106–554, §1(a)(6) \[title V, §522(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–547, provided that: “The amendments made by this section \[amending this section and sections 1395y and 1395ff of this title\] shall apply with respect to—
+
+&emsp;“(1) a review of any national or local coverage determination filed,
+
+&emsp;“(2) a request to make such a determination made, and
+
+&emsp;“(3) a national coverage determination made,
+
+> on or after October 1, 2001.”
+
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
 
 #### Termination of Advisory Committees
 
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-yearperiod following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1395y of this title.
 

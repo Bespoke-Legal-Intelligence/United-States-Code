@@ -16,10 +16,6 @@ Section is comprised of subsec. (h), formerly eleventh par., of section 19 of ac
 
 Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
 
-#### Cross References
-
-Reserves of national banks located in Alaska and insular possessions, see section 143 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 248, 1424, 1828, 3105 of this title.

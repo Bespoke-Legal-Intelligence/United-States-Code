@@ -8,7 +8,3 @@ The master of the towing vessel shall be liable to the suspension or revocation 
 
 Section was not enacted as part of act June 7, 1897, ch. 4, 30 Stat. 96, which comprises a major part of this chapter.
 
-#### Cross References
-
-Suspension or revocation of master's license, see section 7703 of Title 46, Shipping.
-

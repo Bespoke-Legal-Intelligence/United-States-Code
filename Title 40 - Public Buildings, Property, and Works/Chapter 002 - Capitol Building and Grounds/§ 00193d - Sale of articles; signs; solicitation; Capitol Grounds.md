@@ -1,12 +1,8 @@
 ### §193d. Sale of articles; signs; solicitation; Capitol Grounds
 
-It is forbidden to offer or expose any article for sale in said United States Capitol Grounds; to display any sign, placard, or other form of advertisement therein; to solicit fares, alms, subscriptions, or contributions therein.
+It is forbidden to offer or expose any article for sale in said United States Capitol Grounds;to display any sign, placard, or other form of advertisement therein; to solicit fares, alms, subscriptions, or contributions therein.
 
 (July 31, 1946, ch. 707, §4, 60 Stat. 718.)
-
-#### Codification
-
-Section is also set out in D.C. Code, §9–110.
 
 #### Relocation of Vendors; Temporary Suspension of Prohibition of Sale of Articles, Etc.
 

@@ -6,7 +6,7 @@
 
 (c)(1) Nothing in this section prevents a district court in the interest of justice, or in the interest of comity with State courts or respect for State law, from abstaining from hearing a particular proceeding arising under title 11 or arising in or related to a case under title 11.
 
-(2) Upon timely motion of a party in a proceeding based upon a State law claim or State law cause of action, related to a case under title 11 but not arising under title 11 or arising in a case under title 11, with respect to which an action could not have been commenced in a court of the United States absent jurisdiction under this section, the district court shall abstain from hearing such proceeding if an action is commenced, and can be timely adjudicated, in a State forum of appropriate jurisdiction.
+(2) Upon timely motion of a party in a proceeding based upon a State law claim or Statelaw cause of action, related to a case under title 11 but not arising under title 11 or arising in a case under title 11, with respect to which an action could not have been commenced in a court of the United States absent jurisdiction under this section, the district court shall abstain from hearing such proceeding if an action is commenced, and can be timely adjudicated, in a State forum of appropriate jurisdiction.
 
 (d) Any decision to abstain or not to abstain made under this subsection <sup>1</sup> (other than a decision not to abstain in a proceeding described in subsection (c)(2)) is not reviewable by appeal or otherwise by the court of appeals under section 158(d), 1291, or 1292 of this title or by the Supreme Court of the United States under section 1254 of this title. This subsection <sup>1</sup> shall not be construed to limit the applicability of the stay provided for by section 362 of title 11, United States Code, as such section applies to an action affecting the property of the estate in bankruptcy.
 
@@ -22,21 +22,21 @@ Changes in phraseology were made.
 
 #### Amendments
 
-1994—Subsecs. (c)(2), (d). Pub. L. 103–394, §104(b)(2), inserted “(other than a decision not to abstain in a proceeding described in subsection (c)(2))” after “subsection” in second sentence of subsec. (c)(2) and designated that sentence and third sentence of subsec. (c)(2) as subsec. (d). Former subsec. (d) redesignated (e).
+<b>1994</b>—Subsecs. (c)(2), (d). Pub. L. 103–394, §104(b)(2), inserted “(other than a decision not to abstain in a proceeding described in subsection (c)(2))” after “subsection” in second sentence of subsec. (c)(2) and designated that sentence and third sentence of subsec. (c)(2) as subsec. (d). Former subsec. (d) redesignated (e).
 
 Subsec. (e). Pub. L. 103–394, §104(b)(1), redesignated subsec. (d) as (e).
 
-1990—Subsec. (c)(2). Pub. L. 101–650 inserted in second sentence “or not to abstain” after “to abstain” and “by the court of appeals under section 158(d), 1291, or 1292 of this title or by the Supreme Court of the United States under section 1254 of this title” before period at end.
+<b>1990</b>—Subsec. (c)(2). Pub. L. 101–650 inserted in second sentence “or not to abstain” after “to abstain” and “by the court of appeals under section 158(d), 1291, or 1292 of this title or by the Supreme Court of the United States under section 1254 of this title” before period at end.
 
-1986—Subsec. (d). Pub. L. 99–554 substituted “and of property of the estate” for “and of the estate”.
+<b>1986</b>—Subsec. (d). Pub. L. 99–554 substituted “and of property of the estate” for “and of the estate”.
 
-1984—Pub. L. 98–353 in amending section generally, substituted “cases” for “matters” in section catchline, designated existing provision as subsec. (a), and in subsec. (a) as so designated, substituted “Except as provided in subsection (b) of this section, the district” for “The district” and “original and exclusive jurisdiction of all cases under title 11” for “original jurisdiction, exclusive of the courts of the States, of all matters and proceedings in bankruptcy”, and added subsecs. (b) to (d).
+<b>1984</b>—Pub. L. 98–353 in amending section generally, substituted “cases” for “matters” in section catchline, designated existing provision as subsec. (a), and in subsec. (a) as so designated, substituted “Except as provided in subsection (b) of this section, the district” for “The district” and “original and exclusive jurisdiction of all cases under title 11” for “original jurisdiction, exclusive of the courts of the States, of all matters and proceedings in bankruptcy”, and added subsecs. (b) to (d).
 
-1978—Pub. L. 95–598 directed the general amendment of section to relate to bankruptcy appeals, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+<b>1978</b>—Pub. L. 95–598 directed the general amendment of section to relate to bankruptcy appeals, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commencedunder Title 11, Bankruptcy, before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of Title 11.
+Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under Title 11, Bankruptcy, before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of Title 11.
 
 #### Effective Date of 1986 Amendment
 

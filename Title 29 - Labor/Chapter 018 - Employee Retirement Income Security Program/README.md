@@ -276,7 +276,7 @@ I74part 1—reporting and disclosure
 | (e) | Termination. |
 | [1143\.](Subchapter%20001%20%28I%29%20-%20Protection%20of%20Employee%20Benefit%20Rights/Subtitle%20B%20-%20Regulatory%20Provisions/Part%20005%20-%20Administration%20and%20Enforcement/%C2%A7%2001143%20-%20Research%2C%20studies%2C%20and%20reports.md) | Research, studies, and reports. |
 | (a) | Authorization to undertake research and surveys. |
-| (b) | Submission of annual report to Congress; contents. |
+| (b) | Omitted. |
 | (c) | Cooperation with Congress. |
 | [1143a.](Subchapter%20001%20%28I%29%20-%20Protection%20of%20Employee%20Benefit%20Rights/Subtitle%20B%20-%20Regulatory%20Provisions/Part%20005%20-%20Administration%20and%20Enforcement/%C2%A7%2001143a%20-%20Studies%20by%20Comptroller%20General.md) | Studies by Comptroller General. |
 | (1) | In general. |
@@ -288,6 +288,12 @@ I74part 1—reporting and disclosure
 | (b) | Construction and application. |
 | (c) | Definitions. |
 | (d) | Alteration, amendment, modification, invalidation, impairment, or supersedure of any law of the United States prohibited. |
+| [1144a.](Subchapter%20001%20%28I%29%20-%20Protection%20of%20Employee%20Benefit%20Rights/Subtitle%20B%20-%20Regulatory%20Provisions/Part%20005%20-%20Administration%20and%20Enforcement/%C2%A7%2001144a%20-%20Clarification%20of%20church%20welfare%20plan%20status%20under%20State%20insurance%20law.md) | Clarification of church welfare plan status under State insurance law. |
+| (a) | In general. |
+| (b) | State insurance law. |
+| (c) | Definitions. |
+| (d) | Enforcement authority. |
+| (e) | Application of section. |
 | [1145\.](Subchapter%20001%20%28I%29%20-%20Protection%20of%20Employee%20Benefit%20Rights/Subtitle%20B%20-%20Regulatory%20Provisions/Part%20005%20-%20Administration%20and%20Enforcement/%C2%A7%2001145%20-%20Delinquent%20contributions.md) | Delinquent contributions. |
 | [1146\.](Subchapter%20001%20%28I%29%20-%20Protection%20of%20Employee%20Benefit%20Rights/Subtitle%20B%20-%20Regulatory%20Provisions/Part%20005%20-%20Administration%20and%20Enforcement/%C2%A7%2001146%20-%20Outreach%20to%20promote%20retirement%20income%20savings.md) | Outreach to promote retirement income savings. |
 | (a) | In general. |

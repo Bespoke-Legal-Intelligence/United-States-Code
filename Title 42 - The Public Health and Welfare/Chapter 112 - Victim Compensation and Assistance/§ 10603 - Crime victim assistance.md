@@ -174,7 +174,7 @@ Amendment by sections 7122, 7123(b)(4)–(9), 7127, and 7128 of Pub. L. 100–69
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 10601, 10603a, 10603b, 10605 of this title.
+This section is referred to in sections 10601, 10603a, 10605 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

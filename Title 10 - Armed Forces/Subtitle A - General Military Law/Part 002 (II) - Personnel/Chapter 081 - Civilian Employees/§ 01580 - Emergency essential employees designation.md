@@ -34,5 +34,5 @@ A prior section 1580, added Pub. L. 87–651, title II, §206(a), Sept. 7, 1962,
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 5 section 6304.
+This section is referred to in title 5 sections 6304, 8702.
 

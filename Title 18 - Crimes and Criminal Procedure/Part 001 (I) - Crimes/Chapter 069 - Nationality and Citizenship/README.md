@@ -14,10 +14,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Cross References
-
-Passports and visas, offenses, see section 1541 et seq. of this title.
-
 #### Chapter Referred to in Other Sections
 
 This chapter is referred to in section 3291 of this title.

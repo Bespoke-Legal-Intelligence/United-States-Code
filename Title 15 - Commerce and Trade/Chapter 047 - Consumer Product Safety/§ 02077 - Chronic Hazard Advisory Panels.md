@@ -28,7 +28,7 @@ The Commission shall provide each Panel with such administrative support service
 
 #### (f) Compensation
 
-A member of a Panel appointed under subsection (a) of this section shall be paid at a rate not to exceed the daily equivalent of the annual rate of basic pay in effect for grade GS–18 of the General Schedule for each day (including traveltime) during which the member is engaged in the actual performance of the duties of the Panel.
+A member of a Panel appointed under subsection (a) of this section shall be paid at a ratenot to exceed the daily equivalent of the annual rate of basic pay in effect for grade GS–18 of the General Schedule for each day (including traveltime) during which the member is engaged in the actual performance of the duties of the Panel.
 
 #### (g) Requests for and disclosures of information
 
@@ -36,7 +36,7 @@ Each Panel shall request information and disclose information to the public, as 
 
 #### (h) Information from other Federal departments and agencies
 
-(1) Notwithstanding any statutory restriction on the authority of agencies and departments of the Federal Government to share information, such agencies and departments shall provide the Panel with such information and data as each Panel, through the Commission, may request to carry out its duties under section 2080 of this title. Each Panel may request information, through the Commission, from States, industryand other private sources as it may require to carry out its responsibilities.
+(1) Notwithstanding any statutory restriction on the authority of agencies and departments of the Federal Government to share information, such agencies and departments shall provide the Panel with such information and data as each Panel, through the Commission, may request to carry out its duties under section 2080 of this title. Each Panel may request information, through the Commission, from States, industry and other private sources as it may require to carry out its responsibilities.
 
 (2) Section 2055 of this title shall apply to the disclosure of information by the Panel but shall not apply to the disclosure of information to the Panel.
 
@@ -57,10 +57,6 @@ Section applicable with respect to regulations under this chapter and chapters 2
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
-
-#### Cross References
-
-Termination of advisory panels, see section 2080(b)(2)(C) of this title.
 
 #### Section Referred to in Other Sections
 

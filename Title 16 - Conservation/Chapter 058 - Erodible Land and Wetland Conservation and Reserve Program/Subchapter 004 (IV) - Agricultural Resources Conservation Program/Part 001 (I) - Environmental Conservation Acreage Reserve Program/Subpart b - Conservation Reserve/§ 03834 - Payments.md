@@ -18,7 +18,7 @@ The Secretary shall provide payment for obligations incurred by the Secretary un
 
 (2) The Secretary shall not make any payment under this subpart to the extent that the total amount of cost sharing payments provided to such owners and operators from all sources would exceed 100 percent of the total establishment costs.
 
-(3) In the case of land devoted to the production of hardwood trees, windbreaks, shelterbelts, or wildlife corridors under a contract entered into under this subpart after November 28, 1990, or in the case of land converted to such production under section 3835a of this title, the Secretary, in making cost share payments to an owner or operator of such land, shall pay 50 percent of the reasonable and necessary costs, as determined by the Secretary, incurred by such owner or operator for maintaining such plantings that are trees or shrubs, including the cost of replanting (if the trees or shrubs were lost due to conditions beyond the control of the owner or operator), during not less than the 2-year, and not more than the 4-year, period beginning on the date of such plantings, as determined appropriate by the Secretary.
+(3) In the case of land devoted to the production of hardwood trees, windbreaks, shelterbelts, or wildlife corridors under a contract entered into under this subpart after November 28, 1990, or in the case of land converted to such production under section 3835a of this title, the Secretary, in making cost share payments to anowner or operator of such land, shall pay 50 percent of the reasonable and necessary costs, as determined by the Secretary, incurred by such owner or operator for maintaining such plantings that are trees or shrubs, including the cost of replanting (if the trees or shrubs were lost due to conditions beyond the control of the owner or operator), during not less than the 2-year, and not more than the 4-year, period beginning on the date of such plantings, as determined appropriate by the Secretary.
 
 (4) The Secretary may permit owners or operators who contract to devote at least 10 acres of land to the production of hardwood trees under this subpart to extend the planting of such trees over a 3-year period if at least one-third of such trees are planted in each of the first 2 years.
 
@@ -64,7 +64,7 @@ The Secretary shall provide payment for obligations incurred by the Secretary un
 
 #### (e) Regulations: payments upon death, disability, or succession
 
-If an owner or operator who is entitled to a payment under a contract entered into underthis subpart dies, becomes incompetent, is otherwise unable to receive such payment, or is succeeded by another person who renders or completes the required performance, the Secretary shall make such payment, in accordance with regulations prescribed by the Secretary and without regard to any other provision of law, in such manner as the Secretary determines is fair and reasonable in light of all of the circumstances.
+If an owner or operator who is entitled to a payment under a contract entered into under this subpart dies, becomes incompetent, is otherwise unable to receive such payment, or is succeeded by another person who renders or completes the required performance, the Secretary shall make such payment, in accordance with regulations prescribed by the Secretary and without regard to any other provision of law, in such manner as the Secretary determines is fair and reasonable in light of all of the circumstances.
 
 #### (f) Rental payments fiscal year limitation; regulations; receipt of other payments unaffected; application of limit to payments received by a State, political subdivision, or agency
 
@@ -154,5 +154,5 @@ For provisions directing that enumerated provisions of the Food Security Act of 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 3801 of this title.
+This section is referred to in sections 3801, 3831 of this title.
 

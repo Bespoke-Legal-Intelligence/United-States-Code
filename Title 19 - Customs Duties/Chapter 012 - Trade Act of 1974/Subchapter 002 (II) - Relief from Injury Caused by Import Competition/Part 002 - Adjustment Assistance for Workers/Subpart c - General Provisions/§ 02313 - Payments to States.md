@@ -14,17 +14,17 @@ Any agreement under this subpart may require any officer or employee of the Stat
 
 (Pub. L. 93–618, title II, §241, Jan. 3, 1975, 88 Stat. 2025; Pub. L. 97–35, title XXV, §2513(b), Aug. 13, 1981, 95 Stat. 889.)
 
-#### Termination of Section
-
-<i>For termination of section by section 285 of Pub. L. 93–618, see Termination Date note set out preceding section 2271 of this title.</i>
-
 #### Amendments
 
-1981—Subsec. (a). Pub. L. 97–35 struck out provisions relating to payment to the State by the Secretary ofthe Treasury from the Adjustment Assistance Trust Fund prior to audit or settlement by the General Accounting Office.
+1981—Subsec. (a). Pub. L. 97–35 struck out provisions relating to payment to the State by the Secretary of the Treasury from the Adjustment Assistance Trust Fund prior to audit or settlement by the General Accounting Office.
 
 Subsec. (b). Pub. L. 97–35 struck out provisions relating to crediting money returned to the Secretary of the Treasury to the Adjustment Assistance Trust Fund.
 
 #### Effective Date of 1981 Amendment and Transition Provisions
 
 Amendment by Pub. L. 97–35 effective Aug. 1981, with transition provisions applicable, see section 2514 of Pub. L. 97–35, set out as a note under section 2291 of this title.
+
+#### Termination Date
+
+No assistance, vouchers, allowances, or other payments may be provided under subparts A to C of this part after Sept. 30, 2001, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
 

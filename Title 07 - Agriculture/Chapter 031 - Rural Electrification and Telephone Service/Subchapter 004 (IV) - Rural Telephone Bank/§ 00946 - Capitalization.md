@@ -6,11 +6,11 @@ The telephone bank's capital shall consist of capital subscribed by the United S
 
 #### (b) Stock classification; voting stock; one vote rule
 
-The capital stock of the telephone bank shall consist of three classes, class A, class B, and class C, the rights, powers, privileges, and preferences of the separate classes to be as specified,not inconsistent with law, in the bylaws of the telephone bank. Class B and class C stock shall be voting stock, but no holder of said stock shall be entitled to more than one vote, nor shall class B and class C stockholders, regardless of their number, which are owned or controlled by the same person, group of persons, firm, association, or corporation, be entitled in any event to more than one vote.
+The capital stock of the telephone bank shall consist of three classes, class A, class B, and class C, the rights, powers, privileges, and preferences of the separate classes to be as specified, not inconsistent with law, in the bylaws of the telephone bank. Class B and class C stock shall be voting stock, but no holder of said stock shall be entitled to more than one vote, nor shall class B and class C stockholders, regardless of their number, which are owned or controlled by the same person, group of persons, firm, association, or corporation, be entitled in any event to more than one vote.
 
 #### (c) Class A stock; issuance to Secretary of Agriculture and redemption; cumulative return
 
-Class A stock shall be issued only to the Secretary on behalf of the United States in exchange for capital furnished to the telephone bank pursuant to subsection (a) of this section, and such class A stock shall be redeemed and retired by the telephone bank as soon as practicable after September 30, 1995, but not to the extent that the Telephone Bank Board determines that such retirement will impair the operations of the telephone bank: <i>Provided</i>, That the minimum amount of class A stock that shall be retired each year after said date shall equal the amount of class B stock sold by the telephone bank during such year. Class A stock shall be entitled to a return, payable from income, at the rate of 2 per centum per annum on the amounts of said class A stock actually paid into the telephone bank. Such return shall be cumulative and shall be payable annually into miscellaneous receipts of the Treasury.
+Class A stock shall be issued only to the Secretary on behalf of the United States in exchange for capital furnished to the telephone bank pursuant to subsection (a) of this section, and such class A stock shall be redeemed and retired by the telephone bank as soon as practicable after September 30, 1995, but not to theextent that the Telephone Bank Board determines that such retirement will impair the operations of the telephone bank: <i>Provided</i>, That the minimum amount of class A stock that shall be retired each year after said date shall equal the amount of class B stock sold by the telephone bank during such year. Class A stock shall be entitled to a return, payable from income, at the rate of 2 per centum per annum on the amounts of said class A stock actually paid into the telephone bank. Such return shall be cumulative and shall be payable annually into miscellaneous receipts of the Treasury.
 
 #### (d) Class B stock; borrowers as holders; dividend prohibition; patronage refunds
 
@@ -50,7 +50,7 @@ Section 1413(b) of the Omnibus Budget Reconciliation Act of 1987, referred to in
 
 1993—Subsec. (i). Pub. L. 103–129 added subsec. (i).
 
-1990—Subsec. (d). Pub. L. 101–624, §2364, inserted before period at end of second sentence “, by paying an amount equal to 5 per centum of the amount of each loan advance, at the time of such advance”.
+1990—Subsec. (d). Pub. L. 101–624, §2364, inserted before period at end of second sentence “, by paying anamount equal to 5 per centum of the amount of each loan advance, at the time of such advance”.
 
 Subsec. (h). Pub. L. 101–624, §2367(a), inserted after second sentence “All amounts so transferred shall not be transferred, directly or indirectly, to the reserve for contingencies.” and substituted “Omnibus Budget Reconciliation” for “Rural Telephone Bank Borrowers Fairness”.
 

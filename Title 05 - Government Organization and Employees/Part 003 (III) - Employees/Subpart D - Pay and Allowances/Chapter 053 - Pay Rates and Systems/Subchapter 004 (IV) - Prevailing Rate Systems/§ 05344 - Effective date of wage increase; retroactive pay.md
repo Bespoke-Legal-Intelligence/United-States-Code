@@ -16,10 +16,6 @@
 
 Provisions similar to those comprising subsec. (a) of this section were contained in Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 471 (formerly classified to section 5343 of this title) prior to the general amendment of this subchapter by section 1(a) of Pub. L. 92–392.
 
-#### Cross References
-
-Settlement of accounts, money due as including retroactive pay under subsec. (a)(2) of this section, see section 5581 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 5349, 5581, 8331, 8704 of this title.

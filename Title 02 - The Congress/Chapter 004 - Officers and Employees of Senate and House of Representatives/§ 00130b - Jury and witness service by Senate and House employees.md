@@ -40,7 +40,7 @@ An employee is performing official duty during the period with respect to which 
 
 (1) An employee summoned (and authorized to respond to such summons by the House of the Congress disbursing his pay), or assigned by such House, to testify or produce official records on behalf of the United States is entitled to travel expenses. If the case involves an activity in connection with which he is employed, the travel expenses shall be paid from funds otherwise available for the payment of travel expenses of such House in accordance with travel regulations of that House. If the case does not involve such an activity, the department, agency, or independent establishment of the United States on whose behalf he is so testifying or producing records shall pay to the employee his travel expenses out of appropriations otherwise available, and in accordance with regulation applicable, to that department, agency, or independent establishment for the payment of travel expenses.
 
-(2) An employee summoned (and permitted to respond to such summons by the House of the Congress disbursing his pay), or assigned by such House, to testify in his official capacity or produce official records on behalf of a party other than the United States, is entitled to travel expenses, unless any travel expenses are paid to the employee for his appearance by the court, authority, or party which caused him to be summoned.
+(2) An employee summoned (and permitted to respond to such summons by the House of the Congress disbursing his pay), or assigned by such House, to testify in his official capacity or produce official records on behalf of a partyother than the United States, is entitled to travel expenses, unless any travel expenses are paid to the employee for his appearance by the court, authority, or party which caused him to be summoned.
 
 #### (f) Rules and regulations
 
@@ -78,9 +78,5 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Termination of United States District Court for the District of the Canal Zone
 
-For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30 month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of1977 and sections 2101 and 2201 to 2203(a) of Pub. L. 96–70, title II, Sept. 27, 1979, 93 Stat. 493, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
-
-#### Cross References
-
-Leave for jury or witness service to employees of agencies generally, see section 6322 of Title 5, Government Organization and Employees.
+For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30 month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203(a) of Pub. L. 96–70, title II, Sept. 27, 1979, 93 Stat. 493, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
 

@@ -34,7 +34,7 @@
 
 #### (b) Petitioners
 
-(1)(A) Except as provided in subparagraph (B), any person who has sustained a vaccine-related injury, the legal representative of such person if such person is a minor or is disabled, or the legal representative of any person who died as the result of the administration of a vaccine set forth in the Vaccine Injury Table may, if the person meets the requirements of subsection (c)(1) of this section, file a petition for compensation under the Program.
+(1)(A) Except as provided in subparagraph (B), any person who has sustained a vaccine-related injury, the legal representative of such person if such person is a minor or is disabled, or the legal representative of any person who died as the result of the administration of a vaccine set forth in the Vaccine Injury Table may, if theperson meets the requirements of subsection (c)(1) of this section, file a petition for compensation under the Program.
 
 (B) No person may file a petition for a vaccine-related injury or death associated with a vaccine administered before October 1, 1988, if compensation has been paid under this part for 3500 petitions for such injuries or deaths.
 
@@ -64,7 +64,7 @@ A petition for compensation under the Program for a vaccine-related injury or de
 
 &emsp;&emsp;(II) sustained, or had significantly aggravated, any illness, disability, injury, or condition set forth in the Vaccine Injury Table the first symptom or manifestation of the onset or significant aggravation of which did not occur within the time period set forth in the Table but which was caused by a vaccine referred to in subparagraph (A),
 
-&emsp;&emsp;(D)(i) suffered the residual effects or complications of such illness, disability, injury, or condition for more than 6 months after the administration of the vaccine, or (ii)died from the administration of the vaccine, and
+&emsp;&emsp;(D)(i) suffered the residual effects or complications of such illness, disability, injury, or condition for more than 6 months after the administration of the vaccine, or (ii) died from the administration of the vaccine, or (iii) suffered such illness, disability, injury, or condition from the vaccine which resulted in inpatient hospitalization and surgical intervention, and
 
 &emsp;&emsp;(E) has not previously collected an award or settlement of a civil action for damages for such vaccine-related injury or death,
 
@@ -80,7 +80,7 @@ A petition may also include other available relevant medical records relating to
 
 The petitioner shall submit in accordance with a schedule set by the special master assigned to the petition assessments, evaluations, and prognoses and such other records and documents as are reasonably necessary for the determination of the amount of compensation to be paid to, or on behalf of, the person who suffered such injury or who died from the administration of the vaccine.
 
-(July 1, 1944, ch. 373, title XXI, §2111, as added Pub. L. 99–660, title III, §311(a), Nov. 14, 1986, 100 Stat. 3758; amended Pub. L. 100–203, title IV, §§4302(b), 4304(a), (b), 4306, 4307(1), (2), Dec. 22, 1987, 101 Stat. 1330–221, 1330–223, 1330–224; Pub. L. 101–239, title VI, §6601(c)(1)–(7), Dec. 19, 1989, 103 Stat. 2285, 2286; Pub. L. 101–502, §5(a), Nov. 3, 1990, 104 Stat. 1286; Pub. L. 102–168, title II, §201(h)(1), Nov. 26, 1991, 105 Stat. 1104; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–43, title XX, §2012, June 10, 1993, 107 Stat. 214; Pub. L. 105–277, div. C, title XV, §1502, Oct. 21, 1998, 112 Stat. 2681–741.)
+(July 1, 1944, ch. 373, title XXI, §2111, as added Pub. L. 99–660, title III, §311(a), Nov. 14, 1986, 100 Stat. 3758; amended Pub. L. 100–203, title IV, §§4302(b), 4304(a), (b), 4306, 4307(1), (2), Dec. 22, 1987, 101 Stat. 1330–221, 1330–223, 1330–224; Pub. L. 101–239, title VI, §6601(c)(1)–(7), Dec. 19, 1989, 103 Stat. 2285, 2286; Pub. L. 101–502, §5(a), Nov. 3, 1990, 104 Stat. 1286; Pub. L. 102–168, title II, §201(h)(1), Nov. 26, 1991, 105 Stat. 1104; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–43, title XX, §2012, June 10, 1993, 107 Stat. 214; Pub. L. 105–277, div. C, title XV, §1502, Oct. 21, 1998, 112 Stat. 2681–741; Pub. L. 106–310, div. A, title XVII, §1701(a), Oct. 17, 2000, 114 Stat. 1151.)
 
 #### Codification
 
@@ -93,6 +93,8 @@ A prior section 300aa–11, act July 1, 1944, §2112, was successively renumbere
 A prior section 2111 of act July 1, 1944, was successively renumbered by subsequent acts and transferred, see section 238h of this title.
 
 #### Amendments
+
+2000—Subsec. (c)(1)(D)(iii). Pub. L. 106–310 added cl. (iii).
 
 1998—Subsec. (c)(1)(D)(i). Pub. L. 105–277 struck out “and incurred unreimbursable expenses due in whole or in part to such illness, disability, injury, or condition in an amount greater than $1,000” before “, or (ii) died”.
 
@@ -142,7 +144,7 @@ Subsec. (c)(3). Pub. L. 101–239, §6601(c)(6)(C), (D), added par. (3). Former 
 
 Subsec. (d). Pub. L. 101–239, §6601(c)(6)(B), redesignated former subsec. (c)(2) as subsec. (d), expanded margin to full measure, inserted subsec. designation and heading, substituted “A petition may also include other available” for “all available”, struck out “(including autopsy reports, if any)” after “relevant medical records”, and substituted “administration of the vaccine.” for “administration of the vaccine and an identification of any unavailable records known to the petitioner and the reasons for their unavailability, and”.
 
-Subsec. (e). Pub. L. 101–239, §6601(c)(6)(D), redesignated former subsec. (c)(3) as subsec. (e), expanded margin to full measure, inserted subsec. designation and heading, and substituted “The petitioner shall submitin accordance with a schedule set by the special master assigned to the petition” for “appropriate”.
+Subsec. (e). Pub. L. 101–239, §6601(c)(6)(D), redesignated former subsec. (c)(3) as subsec. (e), expanded margin to full measure, inserted subsec. designation and heading, and substituted “The petitioner shall submit in accordance with a schedule set by the special master assigned to the petition” for “appropriate”.
 
 1987—Subsec. (a)(1). Pub. L. 100–203, §4307(1), which directed that par. (1) be amended by substituting “with the United States Claims Court” for “with the United States district court for the district in which the petitioner resides or the injury or death occurred”, was executed making the substitution for “with the United States district court for the district in which the petitioner resides or in which the injury or death occurred”, as the probable intent of Congress.
 
@@ -181,6 +183,10 @@ Subsec. (c)(1)(D). Pub. L. 100–203, §4304(b)(2), substituted “for more than
 #### Change of Name
 
 References to United States Claims Court deemed to refer to United States Court of Federal Claims, see section 902(b) of Pub. L. 102–572, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
+
+#### Effective Date of 2000 Amendment
+
+Pub. L. 106–310, div. A, title XVII, §1701(b), Oct. 17, 2000, 114 Stat. 1151, provided that: “The amendment made by subsection (a) \[amending this section\] takeseffect upon the date of the enactment of this Act \[Oct. 17, 2000\], including with respect to petitions under section 2111 of the Public Health Service Act \[this section\] that are pending on such date.”
 
 #### Effective Date of 1992 Amendment
 

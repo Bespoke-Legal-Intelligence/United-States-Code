@@ -22,3 +22,7 @@ Within 120 days after June 30, 1980, the Secretary of Energy and the Secretary o
 
 1986—Subsec. (a). Pub. L. 99–386 struck out subsec. (a) which related to submission of quarterly reports to the President and Congress by Secretary of Agriculture and Secretary of Energy.
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (c)(1) of this section relating to the requirement that the Office of Alcohol Fuels submit annual reports to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 12th item on page 91 of House Document No. 103–7.
+

@@ -42,7 +42,7 @@
 
 #### (3) Duties
 
-&emsp;The duties of such committee shall include a review, prior to publication, of any proposedor final State rule or regulation pursuant to this subchapter. In an emergency situation where such rule or regulation must be issued within a very limited time to assist local educational agencies with the operation of the program under this subchapter, the State educational agency may issue a regulation without prior consultation, but shall immediately thereafter convene the State committee of practitioners to review the emergency regulation prior to issuance in final form.
+&emsp;The duties of such committee shall include a review, prior to publication, of any proposed or final State rule or regulation pursuant to this subchapter. In an emergency situation where such rule or regulation must be issued within a very limited time to assist local educational agencies with the operation of the program under this subchapter, the State educational agency may issue a regulation without prior consultation, but shall immediately thereafter convene the State committee of practitioners to review the emergency regulation prior to issuance in final form.
 
 #### (c) Payment for State administration
 

@@ -1,6 +1,6 @@
 ### §1072. Concealing escaped prisoner
 
-Whoever willfully harbors or conceals any prisoner after his escape from the custody of the Attorney General or from a Federal penal or correctional institution, shall be imprisoned not more than three years.
+Whoever willfully harbors or conceals any prisoner after his escape from the custody of the Attorney General or from a Federal penal orcorrectional institution, shall be imprisoned not more than three years.
 
 (June 25, 1948, ch. 645, 62 Stat. 755.)
 
@@ -13,8 +13,4 @@ Section consolidates similar language of said sections of title 18, U.S.C., 1940
 Words “willfully harbors” were added in conformity with section 1071 of this title. Punishment for harboring violators of the Espionage laws is provided in section 792 of this title. Punishment for harboring deserters from the armed forces is provided in section 1381 of this title.
 
 Minor changes were made in phraseology.
-
-#### Cross References
-
-Misprision of felony, see section 4 of this title.
 

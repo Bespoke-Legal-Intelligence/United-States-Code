@@ -42,7 +42,7 @@ Pub. L. 105–85, §603(c)(3)(A), struck out heading and text of subsec. (a). Te
 
 Subsec. (a)(1). Pub. L. 105–85, §626, substituted “$100” for “$75” in introductory provisions.
 
-Pub. L. 105–85, §603(c)(3)(B)(ii), struck out “, including subsection (a),” after “under this title” in introductory provisions, inserted “or” at end of subpar. (B), substituted “station.” for “station; or” at end of subpar. (C), and struck out subpar. (D) which read as follows: “the member is married to a member of a uniformed service, the member has no dependent other than the spouse, the two members are separated by reason of the execution of military orders, and the two members were residing together immediately before being separated by reason of execution of military orders.”
+Pub. L. 105–85, §603(c)(3)(B)(ii), struck out “, including subsection (a),” after “under this title” in introductory provisions, inserted “or” at end of subpar. (B), substituted “station.” for “station; or” at end of subpar. (C), and struck out subpar. (D) which read as follows: “the member is married to a member of a uniformed service, the member has no dependent other than the spouse, the two members are separated by reason of the execution of military orders, and the two members were residing together immediately beforebeing separated by reason of execution of military orders.”
 
 Subsec. (b). Pub. L. 105–85, §603(c)(3)(B)(iii), redesignated subsec. (b)(3) as subsec. (b), inserted heading, and substituted “subsection (a)” for “this subsection”. Former subsec. (b)(1), (2), and (4) redesignated subsecs. (a)(1), (2), and (c), respectively.
 

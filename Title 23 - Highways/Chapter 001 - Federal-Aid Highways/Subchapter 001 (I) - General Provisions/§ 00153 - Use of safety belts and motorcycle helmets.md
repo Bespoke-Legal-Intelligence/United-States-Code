@@ -146,7 +146,7 @@ Section 154 of this title, referred to in subsec. (i)(2), was repealed by Pub. L
 
 #### Prior Provisions
 
-A prior section 153, added Pub. L. 93–87, title II, §210(a), Aug. 13, 1973, 87 Stat. 287; amended Pub. L. 94–280, title I, §131, May 5, 1976, 90 Stat. 441, related to a program for the elimination of roadside obstacles, prior to repeal by Pub. L. 95–599, title I, §168(b), Nov. 6, 1978, 92 Stat. 2723.
+A prior section 153, added Pub. L. 93–87, title II, §210(a), Aug. 13, 1973, 87 Stat. 287; amended Pub. L.94–280, title I, §131, May 5, 1976, 90 Stat. 441, related to a program for the elimination of roadside obstacles, prior to repeal by Pub. L. 95–599, title I, §168(b), Nov. 6, 1978, 92 Stat. 2723.
 
 #### Amendments
 

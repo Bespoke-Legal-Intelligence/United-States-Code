@@ -10,7 +10,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 #### Codification
 
-This section was formerly classified to subsec. (c) of section 2394 of this title prior to the complete revisionof section 2394 of this title by Pub. L. 95–424, title V, §502(a)(2), Oct. 6, 1978, 92 Stat. 957.
+This section was formerly classified to subsec. (c) of section 2394 of this title prior to the complete revision of section 2394 of this title by Pub. L. 95–424, title V, §502(a)(2), Oct. 6, 1978, 92 Stat. 957.
 
 #### Effective Date
 

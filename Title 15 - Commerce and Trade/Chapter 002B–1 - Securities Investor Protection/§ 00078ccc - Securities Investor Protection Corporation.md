@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) not be an agency or establishment of the United States Government; and
 
-&emsp;&emsp;(B) except as otherwise provided in this chapter, be subject to, and have all the powers conferred upon a nonprofit corporation by, the District of Columbia Nonprofit Corporation Act \[D.C. Code, §29–501 et seq.\].
+&emsp;&emsp;(B) except as otherwise provided in this chapter, be subject to, and have all the powers conferred upon a nonprofit corporation by, the District of Columbia Nonprofit Corporation Act.
 
 #### (2) Membership
 
@@ -16,9 +16,11 @@
 
 &emsp;&emsp;SIPC shall be a membership corporation the members of which shall be all persons registered as brokers or dealers under section 78<i>o</i>(b) of this title, other than—
 
-&emsp;&emsp;&emsp;(i) persons whose principal business, in the determination of SIPC, taking into account business of affiliated entities, is conducted outside the United States and its territories and possessions; and
+&emsp;&emsp;&emsp;(i) persons whose principal business, in the determination of SIPC, taking into account business of affiliated entities, is conducted outside the United States and its territories and possessions;
 
-&emsp;&emsp;&emsp;(ii) persons whose business as a broker or dealer consists exclusively of (I) the distribution of shares of registered open end investment companies or unit investment trusts, (II) the sale of variable annuities, (III) the business of insurance, or (IV) the business of rendering investment advisory services to one or more registered investment companies or insurance company separate accounts.
+&emsp;&emsp;&emsp;(ii) persons whose business as a broker or dealer consists exclusively of (I) the distribution of shares of registered open end investment companies or unit investment trusts, (II) the sale of variable annuities, (III) the business of insurance, or (IV) the business of rendering investment advisory services to one or more registered investment companies or insurance company separate accounts; and
+
+&emsp;&emsp;&emsp;(iii) persons who are registered as a broker or dealer pursuant to section 78<i>o</i>(b)(11)(A) of this title.
 
 #### (B) Commission review
 
@@ -44,7 +46,7 @@ In addition to the powers granted to SIPC elsewhere in this chapter, SIPC shall 
 
 &emsp;&emsp;(A) the conduct of its business; and
 
-&emsp;&emsp;(B) the indemnity of its directors, officers, and employees (including any such person acting as trustee or otherwise in connection with a liquidation proceeding) for liabilities and expenses actually and reasonably incurred by any such person in connection with the defense or settlement of an action or suit if such person acted in good faith and in a manner reasonably believed to be consistent with the purposes of this chapter.
+&emsp;&emsp;(B) the indemnity of its directors, officers, and employees (including any such person acting as trustee or otherwise in connection with a liquidation proceeding) for liabilities and expenses actually and reasonably incurred by any such person in connection with the defense or settlement of an actionor suit if such person acted in good faith and in a manner reasonably believed to be consistent with the purposes of this chapter.
 
 &emsp;(4) to adopt, amend, and repeal, by its Board of Directors, such rules as may be necessary or appropriate to carry out the purposes of this chapter, including rules relating to—
 
@@ -116,7 +118,7 @@ The Board of Directors shall meet at the call of its Chairman, or as otherwise p
 
 #### (1) Proposed bylaw changes
 
-&emsp;The Board of Directors of SIPC shall file with the Commission a copy of any proposed bylaw or any proposed amendment to or repeal of any bylaw of SIPC (hereinafter in this paragraph collectively referred to as a “proposed bylaw change”), accompanied by a concise general statement of the basis and purpose of such proposed bylaw change. Each such proposed bylaw change shall take effect thirty days after the date of the filing of a copy thereof with the Commission, or upon such later date as SIPC may designate or such earlier date as the Commission may determine, unless—
+&emsp;The Board of Directors of SIPC shall file with the Commission a copy of any proposed bylaw or any proposed amendment to or repeal of any bylaw of SIPC (hereinafter in this paragraph collectively referred to as a “proposed bylaw change”), accompanied by a concise general statement of the basis and purpose of such proposed bylaw change. Each such proposed bylaw change shall take effect thirtydays after the date of the filing of a copy thereof with the Commission, or upon such later date as SIPC may designate or such earlier date as the Commission may determine, unless—
 
 &emsp;&emsp;(A) the Commission, by notice to SIPC setting forth the reasons therefor, disapproves such proposed bylaw change as being contrary to the public interest or contrary to the purposes of this chapter; or
 
@@ -152,21 +154,23 @@ The Board of Directors shall meet at the call of its Chairman, or as otherwise p
 
 &emsp;&emsp;&emsp;(ii) upon such date as the Commission shall for good cause determine. Any proposed rule change which takes effect under this clause shall be filed promptly thereafter and reviewed in accordance with the provisions of subparagraph (A).
 
-> &emsp;&emsp;At any time within sixty days after the date of filing of any rule change which has taken effect pursuant to this subparagraph, the Commission may summarily abrogate such rule change and require that it be refiled and reviewed in accordance with the provisions of this paragraph, if the Commission finds that such action is necessary or appropriate in the public interest, for the protection of investors, or otherwise in furtherance of thepurposes of this chapter. Any action of the Commission pursuant to the preceding sentence shall not affect the validity or force of a rule change during the period it was in effect and shall not be reviewable under section 78y of this title or deemed to be final agency action for purposes of section 704 of title 5.
+> &emsp;&emsp;At any time within sixty days after the date of filing of any rule change which has taken effect pursuant to this subparagraph, the Commission may summarily abrogate such rule change and require that it be refiled and reviewed in accordance with the provisions of this paragraph, if the Commission finds that such action is necessary or appropriate in the public interest, for the protection of investors, or otherwise in furtherance of the purposes of this chapter. Any action of the Commission pursuant to the preceding sentence shall not affect the validity or force of a rule change during the period it was in effect and shall not be reviewable under section 78y of this title or deemed to be final agency action for purposes of section 704 of title 5.
 
 #### (3) Action required by Commission
 
 &emsp;The Commission may, by such rules as it determines to be necessary or appropriate in the public interest or to carry out the purposes of this chapter, require SIPC to adopt, amend, or repeal any SIPC bylaw or rule, whenever adopted.
 
-(Pub. L. 91–598, §3, Dec. 30, 1970, 84 Stat. 1637; Pub. L. 95–283, §§2–5, May 21, 1978, 92 Stat. 249–251.)
+(Pub. L. 91–598, §3, Dec. 30, 1970, 84 Stat. 1637; Pub. L. 95–283, §§2–5, May 21, 1978, 92 Stat.249–251; Pub. L. 106–554, §1(a)(5) \[title II, §203(d)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–424.)
 
 #### References in Text
 
 This chapter, referred to in subsecs. (a) to (c) and (e), was in the original “this Act”, meaning Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636. For complete classification of this Act to the Code, see Tables.
 
-The District of Columbia Nonprofit Corporation Act, referred to in subsec. (a)(1)(B), is Pub. L. 87–569, Aug. 6, 1962, 76 Stat. 265, as amended, which appears in chapter 5 (§29–501 et seq.) of Title 29, Corporations, of the District of Columbia Code.
+The District of Columbia Nonprofit Corporation Act, referred to in subsec. (a)(1)(B), is Pub. L. 87–569, Aug. 6, 1962, 76 Stat. 265, as amended, which is not classified to the Code.
 
 #### Amendments
+
+2000—Subsec. (a)(2)(A)(iii). Pub. L. 106–554 added cl. (iii).
 
 1978—Subsec. (a). Pub. L. 95–283, §2(a), substituted “Creation and membership” for “Creation” in heading, redesignated introductory text and cls. (1) and (3) as par. (1), and added par. 2 which incorporated provisions formerly contained in cl. (2) as par. (2)(A).
 

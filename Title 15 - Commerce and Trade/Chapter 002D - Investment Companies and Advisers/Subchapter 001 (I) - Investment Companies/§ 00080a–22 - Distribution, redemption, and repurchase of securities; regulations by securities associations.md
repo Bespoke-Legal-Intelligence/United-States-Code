@@ -4,7 +4,7 @@
 
 A securities association registered under section 78<i>o</i>–3 of this title may prescribe, by rules adopted and in effect in accordance with said section and subject to all provisions of said section applicable to the rules of such an association—
 
-&emsp;(1) a method or methods for computing the minimum price at which a member thereof may purchase from any investment companyany redeemable security issued by such company and the maximum price at which a member may sell to such company any redeemable security issued by it or which he may receive for such security upon redemption, so that the price in each case will bear such relation to the current net asset value of such security computed as of such time as the rules may prescribe; and
+&emsp;(1) a method or methods for computing the minimum price at which a member thereof may purchase from any investment company any redeemable security issued by such company and the maximum price at which a member may sell to such company any redeemable security issued by it or which he may receive for such security upon redemption, so that the price in each case will bear such relation to the current net asset value of such security computed as of such time as the rules may prescribe; and
 
 &emsp;(2) a minimum period of time which must elapse after the sale or issue of such security before any resale to such company by a member or its redemption upon surrender by a member;
 
@@ -32,7 +32,7 @@ No registered investment company shall suspend the right of redemption, or postp
 
 &emsp;(1) for any period (A) during which the New York Stock Exchange is closed other than customary week-end and holiday closings or (B) during which trading on the New York Stock Exchange is restricted;
 
-&emsp;(2) for any period during which an emergency exists as a result of which (A) disposal by the company of securities owned by it is not reasonably practicable or (B) it is not reasonably practicable for such company fairly to determine the value of its net assets; or
+&emsp;(2) for any period during which an emergency exists as a result of which (A) disposal by the company of securities owned by it isnot reasonably practicable or (B) it is not reasonably practicable for such company fairly to determine the value of its net assets; or
 
 &emsp;(3) for such other periods as the Commission may by order permit for the protection of security holders of the company.
 
@@ -69,10 +69,6 @@ Amendment by Pub. L. 91–547 effective Dec. 14, 1970, see section 30 of Pub. L.
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
-#### Cross References
-
-Definition of term, prospectus, see section 80a–2 of this title.
 
 #### Section Referred to in Other Sections
 

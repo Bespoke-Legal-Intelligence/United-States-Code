@@ -22,13 +22,13 @@
 
 &emsp;(6) “system of records” has the same meaning given that term in section 552a(a)(5) of title 5.
 
-&emsp;(7) “uniformed services” means the Army, Navy, Air Force, Marine Corps, Coast Guard, Commissioned Corps of the National Oceanic and Atmospheric Administration, and Commissioned Corps of the Public Health Service.
+&emsp;(7) “uniformed services” means the Army, Navy, Air Force, Marine Corps, Coast Guard, Commissioned Corps of the National Oceanicand Atmospheric Administration, and Commissioned Corps of the Public Health Service.
 
 &emsp;(8) “nontax” means, with respect to any debt or claim, any debt or claim other than a debt or claim under the Internal Revenue Code of 1986.
 
 (b)(1) In subchapter II of this chapter and subsection (a)(8) of this section, the term “claim” or “debt” means any amount of funds or property that has been determined by an appropriate official of the Federal Government to be owed to the United States by a person, organization, or entity other than another Federal agency. A claim includes, without limitation—
 
-&emsp;(A) funds owed on account of loans made, insured, or guaranteed by the Government, including any deficiency or any difference between the price obtained by the Governmentin the sale of a property and the amount owed to the Government on a mortgage on the property,
+&emsp;(A) funds owed on account of loans made, insured, or guaranteed by the Government, including any deficiency or any difference between the price obtained by the Government in the sale of a property and the amount owed to the Government on a mortgage on the property,
 
 &emsp;(B) expenditures of nonappropriated funds,
 
@@ -238,7 +238,7 @@ Section 31001(b) of Pub. L. 104–134 provided that: “The purposes of this sec
 
 Pub. L. 101–163, title I, §11, Nov. 21, 1989, 103 Stat. 1046, provided that:
 
-“(a) For purposes of subchapters I and II of chapter 37 of title 31, United States Code (relating to claims of or against the United States Government), the United States Senate shall be considered to be a legislative agency (as defined in section 3701(a)(4) of such title), and the Secretary of the Senate shall be deemed to be the head of such legislative agency.
+“(a) For purposes of subchapters I and II of chapter 37 of title 31, United States Code (relating to claims of or against the United States Government), the UnitedStates Senate shall be considered to be a legislative agency (as defined in section 3701(a)(4) of such title), and the Secretary of the Senate shall be deemed to be the head of such legislative agency.
 
 “(b) Regulations prescribed by the Secretary of the Senate pursuant to section 3716 of title 31, United States Code, shall not become effective until they are approved by the Senate Committee on Rules and Administration.”
 

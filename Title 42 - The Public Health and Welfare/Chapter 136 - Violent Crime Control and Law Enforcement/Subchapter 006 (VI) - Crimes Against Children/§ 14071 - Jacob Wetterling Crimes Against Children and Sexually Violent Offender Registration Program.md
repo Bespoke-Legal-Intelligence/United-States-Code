@@ -6,7 +6,7 @@
 
 &emsp;The Attorney General shall establish guidelines for State programs that require—
 
-&emsp;&emsp;(A) a person who is convicted of a criminal offense against a victim who is a minor or who is convicted of a sexually violent offense to register a current address for thetime period specified in subparagraph (A) of subsection (b)(6) of this section; and
+&emsp;&emsp;(A) a person who is convicted of a criminal offense against a victim who is a minor or who is convicted of a sexually violent offense to register a current address for the time period specified in subparagraph (A) of subsection (b)(6) of this section; and
 
 &emsp;&emsp;(B) a person who is a sexually violent predator to register a current address unless such requirement is terminated under subparagraph (B) of subsection (b)(6) of this section.
 
@@ -76,7 +76,7 @@ An approved State registration program established under this section shall cont
 
 &emsp;&emsp;(ii) inform the person that if the person changes residence address, the person shall report the change of address as provided by State law;
 
-&emsp;&emsp;(iii) inform the person that if the person changes residence to another State, the person shall report the change of address as provided by State law and comply with any registration requirement in the new State ofresidence, and inform the person that the person must also register in a State where the person is employed, carries on a vocation, or is a student;
+&emsp;&emsp;(iii) inform the person that if the person changes residence to another State, the person shall report the change of address as provided by State law and comply with any registration requirement in the new State of residence, and inform the person that the person must also register in a State where the person is employed, carries on a vocation, or is a student;
 
 &emsp;&emsp;(iv) obtain fingerprints and a photograph of the person if these have not already been obtained in connection with the offense that triggers registration; and
 
@@ -142,7 +142,7 @@ A person required to register under a State program established pursuant to this
 
 (1) The information collected under a State registration program may be disclosed for any purpose permitted under the laws of the State.
 
-(2) The State or any agency authorized by the State shall release relevant information that isnecessary to protect the public concerning a specific person required to register under this section, except that the identity of a victim of an offense that requires registration under this section shall not be released.
+(2) The State or any agency authorized by the State shall release relevant information that is necessary to protect the public concerning a specific person required to register under this section, except that the identity of a victim of an offense that requires registration under this section shall not be released.
 
 #### (f) Immunity for good faith conduct
 
@@ -206,9 +206,39 @@ Each requirement to register under this section shall be deemed to also require 
 
 &emsp;There is authorized to be appropriated to carry out this subsection, $25,000,000 for each of fiscal years 1999 and 2000.
 
-(Pub. L. 103–322, title XVII, §170101, Sept. 13, 1994, 108 Stat. 2038; Pub. L. 104–145, §2, May 17, 1996, 110 Stat. 1345; Pub. L. 104–236, §§3–7, Oct. 3, 1996, 110 Stat. 3096, 3097; Pub. L. 105–119, title I, §115(a)(1)–(5), Nov. 26, 1997, 111 Stat. 2461–2463; Pub. L. 105–314, title VI, §607(a), Oct. 30, 1998, 112 Stat. 2985.)
+#### (j) Notice of enrollment at or employment by institutions of higher education
+
+#### (1) Notice by offenders
+
+#### (A) In general
+
+&emsp;&emsp;In addition to any other requirements of this section, any person who is required to register in a State shall provide notice as required under State law—
+
+&emsp;&emsp;&emsp;(i) of each institution of higher education in that State at which the person is employed, carries on a vocation, or is a student; and
+
+&emsp;&emsp;&emsp;(ii) of each change in enrollment or employment status of such person at an institution of higher education in that State.
+
+#### (B) Change in status
+
+&emsp;&emsp;A change in status under subparagraph (A)(ii) shall be reported by the person in the manner provided by State law. State procedures shall ensure that the updated information is promptly made available to a law enforcement agency having jurisdiction where such institution is located and entered into the appropriate State records or data system.
+
+#### (2) State reporting
+
+&emsp;State procedures shall ensure that the registration information collected under paragraph (1)—
+
+&emsp;&emsp;(A) is promptly made available to a law enforcement agency having jurisdiction where such institution is located; and
+
+&emsp;&emsp;(B) entered into the appropriate State records or data system.
+
+#### (3) Request
+
+&emsp;Nothing in this subsection shall require an educational institution to request such information from any State.
+
+(Pub. L. 103–322, title XVII, §170101, Sept. 13, 1994, 108 Stat. 2038; Pub. L. 104–145, §2, May 17, 1996, 110 Stat. 1345; Pub. L. 104–236, §§3–7, Oct. 3, 1996, 110 Stat. 3096, 3097; Pub. L. 105–119, title I, §115(a)(1)–(5), Nov. 26, 1997, 111 Stat. 2461–2463; Pub. L. 105–314, title VI, §607(a), Oct. 30, 1998, 112 Stat. 2985; Pub. L. 106–386, div. B, title VI, §1601(b)(1), Oct. 28, 2000, 114 Stat. 1537.)
 
 #### Amendments
+
+2000—Subsec. (j). Pub. L. 106–386 added subsec. (j).
 
 1998—Subsecs. (g), (h). Pub. L. 105–314, §607(a)(1), which directed the amendment of this section by redesignating the second subsection designated as subsection (g) as subsection (h), was executed by redesignating subsec. (g), relating to fingerprints, as (h) to reflect the probable intent of Congress.
 
@@ -216,7 +246,7 @@ Subsec. (i). Pub. L. 105–314, §607(a)(2), added subsec. (i).
 
 1997—Subsec. (a)(1)(A), (B). Pub. L. 105–119, §115(a)(1)(A), struck out “with a designated State law enforcement agency” after “current address”.
 
-Subsec. (a)(2). Pub. L. 105–119, §115(a)(1)(B), added par. (2) and struck out heading and text of former par. (2). Text read as follows: “A determination that a person is a sexually violent predator and a determination that a person is no longer a sexually violent predator shall bemade by the sentencing court after receiving a report by a State board composed of experts in the field of the behavior and treatment of sexual offenders, victim rights advocates, and representatives from law enforcement agencies.”
+Subsec. (a)(2). Pub. L. 105–119, §115(a)(1)(B), added par. (2) and struck out heading and text of former par. (2). Text read as follows: “A determination that a person is a sexually violent predator and a determination that a person is no longer a sexually violent predator shall be made by the sentencing court after receiving a report by a State board composed of experts in the field of the behavior and treatment of sexual offenders, victim rights advocates, and representatives from law enforcement agencies.”
 
 Subsec. (a)(3)(A). Pub. L. 105–119, §115(a)(1)(C)(i), substituted “in a range of offenses specified by State law which is comparable to or which exceeds the following range of offenses:” for “that consists of—” in introductory provisions.
 
@@ -234,7 +264,7 @@ Subsec. (b)(1)(A)(iii). Pub. L. 105–119, §115(a)(2)(A)(ii)(III), substituted 
 
 Subsec. (b)(1)(B). Pub. L. 105–119, §115(a)(2)(A)(iii), substituted “, the court, or another responsible officer or official” for “or the court”.
 
-Subsec. (b)(2). Pub. L. 105–119, §115(a)(2)(B), added par. (2) and struck out heading and text of former par. (2). Text read as follows: “The officer, or in the case of a person placed on probation, the court, shall, within 3 days after receipt of information described in paragraph (1), forward it to a designated State law enforcement agency. The State law enforcement agency shall immediately enter the information into the appropriate State law enforcement record system and notify the appropriate law enforcement agency having jurisdiction where the person expects to reside. The State law enforcement agency shall also immediately transmit all information described in paragraph (1) to the Federal Bureau of Investigation for inclusion in the FBI database described in section 14072 of this title.”
+Subsec. (b)(2). Pub. L. 105–119, §115(a)(2)(B), added par. (2) and struck out heading and text of former par. (2). Text read as follows: “The officer, or in the case of a person placed on probation, the court, shall, within 3 days after receipt of information described in paragraph (1), forward it to a designated State law enforcement agency. The State law enforcement agency shall immediately enter the information into the appropriate State law enforcement record system and notify the appropriate law enforcement agency having jurisdiction where the person expects to reside. The Statelaw enforcement agency shall also immediately transmit all information described in paragraph (1) to the Federal Bureau of Investigation for inclusion in the FBI database described in section 14072 of this title.”
 
 Subsec. (b)(3)(A). Pub. L. 105–119, §115(a)(2)(C)(i), in introductory provisions, substituted “State procedures shall provide for verification of address at least annually.” for “on each anniversary of the person's initial registration date during the period in which the person is required to register under this section the following applies:”.
 
@@ -286,11 +316,15 @@ Subsec. (d). Pub. L. 104–145 amended heading and text of subsec. (d) generally
 
 Subsec. (g). Pub. L. 104–236, §5, added subsec. (g).
 
+#### Effective Date of 2000 Amendment
+
+Pub. L. 106–386, div. B, title VI, §1601(b)(2), Oct. 28, 2000, 114 Stat. 1537, provided that: “The amendment made by this subsection \[amending this section\] shall take effect 2 years after the date of the enactment of this Act \[Oct. 28, 2000\].”
+
 #### Effective Date of 1997 Amendment
 
 Section 115(c) of Pub. L. 105–119 provided that: “This section \[amending this section, section 14072 of this title, and sections 3521, 3563, 3583, 4042, and 4209 of Title 18, Crimes and Criminal Procedure, enacting provisions set out as notes under section 14039 of this title and section 951 of Title 10, Armed Forces, and amending provisions set out as a note under this section\] shall take effect on the date of the enactment of this Act \[Nov. 26, 1997\], except that—
 
-&emsp;“(1) subparagraphs (A), (B), and (C) of subsection (a)(8) \[amending sections 3563, 3583, 4042, and 4209 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as a note under section 951 of Title 10, Armed Forces\] shall take effect 1 year after the date of the enactment of this Act; and
+&emsp;“(1) subparagraphs (A), (B), and (C) of subsection (a)(8) \[amending sections 3563, 3583, 4042, and 4209 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as a note under section 951 ofTitle 10, Armed Forces\] shall take effect 1 year after the date of the enactment of this Act; and
 
 &emsp;“(2) States shall have 3 years from such date of enactment to implement amendments made by this Act \[probably should be “this section”\] which impose new requirements under the Jacob Wetterling Crimes Against Children and Sexually Violent Offender Registration Act \[42 U.S.C. 14071 et seq.\], and the Attorney General may grant an additional 2 years to a State that is making good faith efforts to implement these amendments.”
 
@@ -352,5 +386,5 @@ Contents of Study.—The study under this section shall include an examination o
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 14072 of this title; title 18 sections 3563, 3583.
+This section is referred to in section 14072 of this title; title 18 sections 3563, 3583; title 20 sections 1092, 1232g.
 

@@ -44,7 +44,3 @@ In subsection (c), 10:11 (1st proviso of last sentence) is omitted as executed. 
 
 Amendment by Pub. L. 87–649 effective on Nov. 1, 1962, see section 15 of Pub. L. 87–649, set out as an Effective Date note preceding section 101 of Title 37, Pay and Allowances of the Uniformed Services.
 
-#### Cross References
-
-Pay and allowances, see sections 207 and 424 of Title 37, Pay and Allowances of the Uniformed Services.
-

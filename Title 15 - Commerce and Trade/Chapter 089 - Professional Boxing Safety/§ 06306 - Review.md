@@ -12,11 +12,13 @@ Each boxing commission shall establish each of the following procedures:
 
 &emsp;&emsp;(B) an injury, requirement for a medical procedure, or physician denial of certification;
 
-&emsp;&emsp;(C) failure of a drug test; or
+&emsp;&emsp;(C) failure of a drug test;
 
-&emsp;&emsp;(D) the use of false aliases, or falsifying, or attempting to falsify, official identification cards or documents.
+&emsp;&emsp;(D) the use of false aliases, or falsifying, or attempting to falsify, official identification cards or documents; or
 
-&emsp;(3) Procedures to review a suspension where appealed by a boxer, including an opportunity for a boxer to present contradictory evidence.
+&emsp;&emsp;(E) unsportsmanlike conduct or other inappropriate behavior inconsistent with generally accepted methods of competition in a professional boxing match.
+
+&emsp;(3) Procedures to review a suspension where appealed by a boxer, licensee, manager, matchmaker, promoter, or other boxing service provider, including an opportunity for a boxer to present contradictory evidence.
 
 &emsp;(4) Procedures to revoke a suspension where a boxer—
 
@@ -32,5 +34,11 @@ A boxing commission may allow a boxer who is under suspension in any State to pa
 
 &emsp;(2) if the boxer appeals to the Association of Boxing Commissions, and the Association of Boxing Commissions determines that the suspension of such boxer was without sufficient grounds, for an improper purpose, or not related to the health and safety of the boxer or the purposes of this chapter.
 
-(Pub. L. 104–272, §7, Oct. 9, 1996, 110 Stat. 3311.)
+(Pub. L. 104–272, §7, Oct. 9, 1996, 110 Stat. 3311; Pub. L. 106–210, §7(b), (d), May 26, 2000, 114 Stat. 328.)
+
+#### Amendments
+
+2000—Subsec. (a)(2)(E). Pub. L. 106–210, §7(b), added subpar. (E).
+
+Subsec. (a)(3). Pub. L. 106–210, §7(d), substituted “boxer, licensee, manager, matchmaker, promoter, or other boxing service provider” for “boxer” the first place appearing.
 

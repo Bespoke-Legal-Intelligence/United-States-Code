@@ -16,12 +16,6 @@ Section is comprised of the proviso in section 8 of act June 17, 1902. Remainder
 
 Provisions of this section as not amended, modified or repealed by the Submerged Lands Act, see section 1303 of this title.
 
-#### Cross References
-
-Grand Teton National Park, withdrawn lands within exterior boundary, use for reclamation purposes, see section 406d–5 of Title 16, Conservation.
-
-Reclamation law defined, see section 371 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 390b, 421g of this title.

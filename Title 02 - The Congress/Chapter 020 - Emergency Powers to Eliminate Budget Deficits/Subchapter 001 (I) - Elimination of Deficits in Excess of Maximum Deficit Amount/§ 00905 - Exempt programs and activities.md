@@ -2,7 +2,7 @@
 
 #### (a) Social security benefits and tier I railroad retirement benefits
 
-Benefits payable under the old-age, survivors, and disability insurance program established under title II of the Social Security Act \[42U.S.C. 401 et seq.\], and benefits payable under section 231b(a), 231b(f)(3), 231c(a), or 231c(f) of title 45, shall be exempt from reduction under any order issued under this subchapter.
+Benefits payable under the old-age, survivors, and disability insurance program established under title II of the Social Security Act \[42 U.S.C. 401 et seq.\], and benefits payable under section 231b(a), 231b(f)(3), 231c(a), or 231c(f) of title 45, shall be exempt from reduction under any order issued under this subchapter.
 
 #### (b) Veterans programs
 
@@ -302,10 +302,6 @@ For purposes of subsections (b), (g), and (h) of this section, each account is i
 
 (Pub. L. 99–177, title II, §255, Dec. 12, 1985, 99 Stat. 1082; Pub. L. 99–509, title VII, §7002(a), Oct. 21, 1986, 100 Stat. 1949; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–86, title V, §506(a), Aug. 10, 1987, 101 Stat. 634; Pub. L. 100–119, title I, §104(a)(1), (2), (b), (c)(1), Sept. 29, 1987, 101 Stat. 775–777; Pub. L. 101–73, title VII, §743(a), (c), Aug. 9, 1989, 103 Stat. 437; Pub. L. 101–220, §8, Dec. 12, 1989, 103 Stat. 1881; Pub. L. 101–508, title XIII, §13101(c), Nov. 5, 1990, 104 Stat. 1388–589; Pub. L. 102–54, §13(a), June 13, 1991, 105 Stat. 274; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–486, title IX, §902(d), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 102–572, title VI, §601, Oct. 29, 1992, 106 Stat. 4514; Pub. L. 104–193, title I, §110(r)(1), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 104–208, div. A, title II, §2704(d)(10), Sept. 30, 1996, 110 Stat. 3009–489; Pub. L. 105–33, title X, §10207, Aug. 5, 1997, 111 Stat. 704.)
 
-#### Amendment of Subsection (g)(1)(A)
-
-<i>Pub. L. 104–208, div. A, title II, §2704(c), (d)(10), Sept. 30, 1996, 110 Stat. 3009–487, 3009–489, provided that, effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, subsection (g)(1)(A) of this section is amended by striking “Bank Insurance Fund” and inserting “Deposit Insurance Fund” and by striking “Federal Deposit Insurance Corporation, Savings Association Insurance Fund;”.</i>
-
 #### Termination of Section
 
 <i>For termination of section by section 275(b) of Pub. L. 99–177, as amended, see Effective and Termination Dates note set out under section 900 of this title.</i>
@@ -432,7 +428,9 @@ Pub. L. 105–33, §10207(d)(1), substituted item relating to child nutrition pr
 
 Subsec. (i). Pub. L. 105–33, §10207(e), amended heading and text of subsec. (i) generally. Prior to amendment, text read as follows: “For purposes of subsections (g) and (h) of this section, programs are identified by the designated budget account identification code numbers set forth in the Budget of the United States Government, 1986—Appendix.”
 
-1996—Subsec. (h). Pub. L. 104–193 substituted “Block grants to States for temporary assistance for needy families;” for “Aid to families with dependent children (75-0412-0-1-609);”.
+1996—Subsec. (g)(1)(A). Pub. L. 104–208, which directed the amendment of subpar. (A) by substituting “Deposit Insurance Fund” for “Bank Insurance Fund” and by striking “Federal Deposit Insurance Corporation, Savings Association Insurance fund;”, was not executed. See Effective Date of 1996 Amendments note below.
+
+Subsec. (h). Pub. L. 104–193 substituted “Block grants to States for temporary assistance for needy families;” for “Aid to families with dependent children (75-0412-0-1-609);”.
 
 1992—Subsec. (g)(1)(A). Pub. L. 102–572, §601(b), inserted item relating to payment to Judiciary Trust Funds.
 
@@ -470,7 +468,7 @@ Subsec. (g)(1). Pub. L. 100–119, §104(a)(2), (b)(2), (3), designated existing
 
 Pub. L. 100–86 inserted items relating to Comptroller of the Currency; Federal Deposit Insurance Corporation; Federal Home Loan Bank Board; Federal Home Loan Bank Board, Federal Savings and Loan Insurance Corporation; National Credit Union Administration; National Credit Union Administration, central liquidity facility; and National Credit Union Administration, credit union share insurance fund.
 
-Subsec. (g)(2). Pub. L. 100–119, §104(c)(1), struck out following items relating to Veterans Administration: national service life insurance fund, service-disabled veterans insurance fund, United States Government lifeinsurance fund, veterans insurance and indemnities, veterans reopened insurance fund, and veterans special life insurance fund.
+Subsec. (g)(2). Pub. L. 100–119, §104(c)(1), struck out following items relating to Veterans Administration: national service life insurance fund, service-disabled veterans insurance fund, United States Government life insurance fund, veterans insurance and indemnities, veterans reopened insurance fund, and veterans special life insurance fund.
 
 Subsec. (h). Pub. L. 100–119, §104(a)(1), inserted item relating to commodity supplemental food program.
 
@@ -486,7 +484,7 @@ Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules rel
 
 #### Effective Date of 1992 Amendment
 
-Section 1101(a) of Pub. L. 102–572 provided that: “Except as otherwise provided in this Act, the provisions of this Act and the amendments made by this Act \[see Tables for classification\] shall take effect on January 1, 1993.”
+Section 1101(a) of Pub. L. 102–572 provided that: “Except as otherwise provided in this Act, the provisions ofthis Act and the amendments made by this Act \[see Tables for classification\] shall take effect on January 1, 1993.”
 
 #### Effective Date of 1986 Amendment
 

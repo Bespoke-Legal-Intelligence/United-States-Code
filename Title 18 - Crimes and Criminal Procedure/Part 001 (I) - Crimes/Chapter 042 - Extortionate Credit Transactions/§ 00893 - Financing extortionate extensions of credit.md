@@ -8,10 +8,6 @@ Whoever willfully advances money or property, whether as a gift, as a loan, as a
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
 
-#### Cross References
-
-Wire or oral communications, authorization for interception, to provide evidence of offenses under this section, see section 2516 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1961, 2516 of this title.

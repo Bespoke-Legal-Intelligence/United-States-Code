@@ -62,7 +62,7 @@ Vocational rehabilitation services provided for the benefit of groups of individ
 
 &emsp;(B) The provision of other services, that promise to contribute substantially to the rehabilitation of a group of individuals but that are not related directly to the individualized plan for employment of any 1 individual with a disability.
 
-&emsp;(3) The use of telecommunications systems (including telephone, television, satellite, radio, and other similar systems) that have the potential for substantially improving delivery methods of activities described in thissection and developing appropriate programming to meet the particular needs of individuals with disabilities.
+&emsp;(3) The use of telecommunications systems (including telephone, television, satellite, radio, and other similar systems) that have the potential for substantially improving delivery methods of activities described in this section and developing appropriate programming to meet the particular needs of individuals with disabilities.
 
 &emsp;(4)(A) Special services to provide nonvisual access to information for individuals who are blind, including the use of telecommunications, Braille, sound recordings, or other appropriate media.
 

@@ -106,3 +106,7 @@ An eligible entity that receives a grant or contract or enters into a cooperativ
 
 October 19, 1996, referred to in subsec. (a)(2)(C), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 104–135, which enacted this chapter, to reflect the probable intent of Congress.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1901 of this title.
+

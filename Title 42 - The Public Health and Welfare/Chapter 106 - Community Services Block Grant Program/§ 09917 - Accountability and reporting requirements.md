@@ -14,7 +14,7 @@
 
 #### (2) Annual report
 
-&emsp;Each State shall annually prepare and submit to the Secretary a report on the measured performance of the State and the eligible entities in the State. Prior to the participation of the State in the performance measurement system, the State shall include in the report any information collected by the State relating to such performance. Each State shall also include in the report an accounting of the expenditure of funds received by the State through the community services block grant program, including an accounting of funds spent on administrative costs by the State and the eligible entities, and funds spent by eligible entities on the direct delivery of localservices, and shall include information on the number of and characteristics of clients served under this chapter in the State, based on data collected from the eligible entities. The State shall also include in the report a summary describing the training and technical assistance offered by the State under section 9915(a)(3) of this title during the year covered by the report.
+&emsp;Each State shall annually prepare and submit to the Secretary a report on the measured performance of the State and the eligible entities in the State. Prior to the participation of the State in the performance measurement system, the State shall include in the report any information collected by the State relating to such performance. Each State shall also include in the report an accounting of the expenditure of funds received by the State through the community services block grant program, including an accounting of funds spent on administrative costs by the State and the eligible entities, and funds spent by eligible entities on the direct delivery of local services, and shall include information on the number of and characteristics of clients served under this chapter in the State, based on data collected from the eligible entities. The State shall also include in the report a summary describing the training and technical assistance offered by the State under section 9915(a)(3) of this title during the year covered by the report.
 
 #### (b) Secretary's accountability and reporting requirements
 
@@ -26,7 +26,7 @@
 
 &emsp;At the end of each fiscal year beginning after September 30, 1999, the Secretary shall, directly or by grant or contract, prepare a report containing—
 
-&emsp;&emsp;(A) a summary of the planned use of funds by each State, and the eligible entities in the State, under the community services block grant program, as contained in each State plan submitted pursuant to section 9908 of this title;
+&emsp;&emsp;(A) a summary of the planned use of funds by each State, and the eligible entities in the State, under the community services block grant program, as contained in eachState plan submitted pursuant to section 9908 of this title;
 
 &emsp;&emsp;(B) a description of how funds were actually spent by the State and eligible entities in the State, including a breakdown of funds spent on administrative costs and on the direct delivery of local services by eligible entities;
 

@@ -14,7 +14,7 @@ The Secretary may accept, subject to regulations issued by the Office of Personn
 
 #### (c) Federal employee status
 
-Any individual who provides voluntary service under this section shall not be considered a Federal employee, except for purposes of chapter 81 of title 5 (relating to compensation for injury), and sections 2671 through 2680 of title 28 (relating to tort claims).
+Any individual who provides voluntary service under this section shall not be considered a Federal employee, except for purposes of chapter 81of title 5 (relating to compensation for injury), and sections 2671 through 2680 of title 28 (relating to tort claims).
 
 (Pub. L. 97–98, title XV, §1526, Dec. 22, 1981, 95 Stat. 1337.)
 

@@ -6,7 +6,7 @@ Notwithstanding any other provision of law—
 
 &emsp;(1) All tobacco offered for importation into the United States, except tobacco described in paragraph (2), shall be inspected, insofar as practicable, for grade and quality as tobacco marketed through a warehouse in the United States is inspected for grade and quality.
 
-&emsp;(2) Cigar tobacco and oriental tobacco (both as provided for in chapter 24 of the Harmonized Tariff Schedule of the United States) offered for importation into the United States shall be accompanied by a certification by the importer, in such form as the Secretary of Agriculture may prescribe, stating the kind and type of such tobacco, and, in the case of cigar tobacco, that such tobacco will be used solely in the manufacture or production of cigars.
+&emsp;(2) Cigar tobacco and oriental tobacco (both as provided for in chapter 24 of the Harmonized Tariff Schedule of the United States)offered for importation into the United States shall be accompanied by a certification by the importer, in such form as the Secretary of Agriculture may prescribe, stating the kind and type of such tobacco, and, in the case of cigar tobacco, that such tobacco will be used solely in the manufacture or production of cigars.
 
 #### (b) Establishment of grade and quality standards
 

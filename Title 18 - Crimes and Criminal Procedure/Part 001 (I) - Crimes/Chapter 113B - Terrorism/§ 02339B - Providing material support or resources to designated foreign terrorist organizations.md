@@ -6,7 +6,7 @@ Prohibited Activities.—
 
 &emsp;(1)
 
-Unlawful conduct.—Whoever, within the United States or subject to the jurisdiction of the United States, knowingly provides material support or resources to a foreign terrorist organization, or attempts or conspiresto do so, shall be fined under this title or imprisoned not more than 10 years, or both.
+Unlawful conduct.—Whoever, within the United States or subject to the jurisdiction of the United States, knowingly provides material support or resources to a foreign terrorist organization, or attempts or conspires to do so, shall be fined under this title or imprisoned not more than 10 years, or both.
 
 &emsp;(2)
 
@@ -114,7 +114,7 @@ Action by court.—In determining whether a response is admissible, the court sh
 
 &emsp;&emsp;(C)
 
-Obligation of defendant.—In any civil proceeding under this section, it shallbe the defendant's obligation to establish the relevance and materiality of any classified information sought to be introduced.
+Obligation of defendant.—In any civil proceeding under this section, it shall be the defendant's obligation to establish the relevance and materiality of any classified information sought to be introduced.
 
 &emsp;(4)
 

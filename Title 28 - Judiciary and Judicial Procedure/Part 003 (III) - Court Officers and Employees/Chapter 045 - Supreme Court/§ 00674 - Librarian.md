@@ -18,5 +18,5 @@ Under this section the marshal will not be required to certify to expenditures f
 
 #### Amendments
 
-1972—Subsec. (d). Pub. L. 92–310 struck out sentence which required the librarian to furnish a bond.
+<b>1972</b>—Subsec. (d). Pub. L. 92–310 struck out sentence which required the librarian to furnish a bond.
 

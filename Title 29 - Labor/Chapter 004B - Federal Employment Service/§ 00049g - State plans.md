@@ -6,7 +6,7 @@ Any State desiring to receive assistance under this chapter shall submit to the 
 
 #### (b) Contents of plans
 
-Such plans shall include provision for the promotion and development of employment opportunities for handicapped persons and for job counseling and placement of such persons, and for the designation of at least one person in eachState or Federal employment office, whose duties shall include the effectuation of such purposes. In those States where a State board, department, or agency exists which is charged with the administration of State laws for vocational rehabilitation of physically handicapped persons, such plans shall include provision for cooperation between such board, department, or agency and the agency designated to cooperate with the United States Employment Service under this chapter.
+Such plans shall include provision for the promotion and development of employment opportunities for handicapped persons and for job counseling and placement of such persons, and for the designation of at least one person in each State or Federal employment office, whose duties shall include the effectuation of such purposes. In those States where a State board, department, or agency exists which is charged with the administration of State laws for vocational rehabilitation of physically handicapped persons, such plans shall include provision for cooperation between such board, department, or agency and the agency designated to cooperate with the United States Employment Service under this chapter.
 
 #### (c) Information on coordination of workforce investment activities and one-stop delivery system development
 
@@ -58,11 +58,7 @@ Amendment by act Aug. 3, 1954, effective July 1, 1954, see section 8 of act Aug.
 
 For history of transfer of functions of United States Employment Service to Secretary of Labor, see note set out under section 49 of this title.
 
-#### Cross References
-
-Transfer of Federal property to States, see section 49c–1 of this title.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 49c–1, 1531, 2822, 2939, 2942 of this title; title 39 section 3202.
+This section is referred to in sections 49c–1, 2822, 2939, 2942 of this title; title 39 section 3202.
 

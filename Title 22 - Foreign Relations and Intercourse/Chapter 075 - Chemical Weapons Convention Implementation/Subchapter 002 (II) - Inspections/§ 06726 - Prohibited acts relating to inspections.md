@@ -1,6 +1,6 @@
 ### §6726. Prohibited acts relating to inspections
 
-It shall be unlawful for any person willfully to fail or refuse to permit entry or inspection, or to disrupt, delay, or otherwise impede an inspection, authorized by this chapter.
+It shall be unlawful for any person willfully to fail or refuse to permit entry or inspection, or todisrupt, delay, or otherwise impede an inspection, authorized by this chapter.
 
 (Pub. L. 105–277, div. I, title III, §306, Oct. 21, 1998, 112 Stat. 2681–878.)
 

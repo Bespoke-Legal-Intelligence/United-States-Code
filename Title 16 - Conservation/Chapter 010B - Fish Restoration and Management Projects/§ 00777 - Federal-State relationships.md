@@ -46,7 +46,7 @@ Section 1014(b) of Pub. L. 98–369 provided that: “The amendments made by sub
 
 #### Effective Date
 
-Section 13 of act Aug. 9, 1950, provided that: “The effective date of this Act \[enacting this chapter\] shall be July 1, 1950.”
+Section 13 of act Aug. 9, 1950, which provided that the effective date of this chapter was July 1, 1950, was repealed by Pub. L. 106–408, title I, §122(a)(1), Nov. 1, 2000, 114 Stat. 1772.
 
 #### Short Title of 1998 Amendment
 
@@ -58,9 +58,191 @@ Section 204 of title II of Pub. L. 91–503, Oct. 23, 1970, 84 Stat. 1104, provi
 
 #### Short Title
 
-Act Aug. 9, 1950, ch. 658, 64 Stat. 430, as amended, which enacted this chapter, is popularly known as the “Federal Aid in Fish Restoration Act”, the “Fish Restoration and Management Projects Act”, and the “Dingell-Johnson Sport Fish Restoration Act”.
+Act Aug. 9, 1950, ch. 658, §15, as added by Pub. L. 106–408, title I, §101(c), Nov. 1, 2000, 114 Stat. 1763, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Dingell-Johnson Sport Fish Restoration Act’.”
+
+Act Aug. 9, 1950, ch. 658, as amended, is also popularly known as the “Federal Aid in Fish Restoration Act” and the “Fish Restoration and Management Projects Act”.
 
 #### Transfer of Functions
 
-Transfer of functions to Secretary of Commerce from Secretary of the Interior in view of: creation of National Oceanic and Atmospheric Administration in Department of Commerce and Office of Administrator of such Administration; abolition of Bureau of Commercial Fisheries in Department of the Interior and Officeof Director of such Bureau; transfers of functions, including functions formerly vested by law in Secretary of the Interior or Department of the Interior which were administered through Bureau of Commercial Fisheries or were primarily related to such Bureau, exclusive of certain enumerated functions with respect to Great Lakes fishery research, Missouri River Reservoir research, Gulf-Breeze Biological Laboratory, and Trans-Alaska pipeline investigations; and transfer of marine sport fish program of Bureau of Sport Fisheries and Wildlife by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to Title 5, Government Organization and Employees.
+Transfer of functions to Secretary of Commerce from Secretary of the Interior in view of: creation of National Oceanic and Atmospheric Administration in Department of Commerce and Office of Administrator of such Administration; abolition of Bureau of Commercial Fisheries in Department of the Interior and Office of Director of such Bureau; transfers of functions, including functions formerly vested by law in Secretary of the Interior or Department of the Interior which were administered through Bureau of Commercial Fisheries or were primarily related to such Bureau, exclusive of certain enumerated functions with respect to Great Lakes fishery research, Missouri River Reservoir research, Gulf-Breeze Biological Laboratory, and Trans-Alaska pipeline investigations; and transfer of marine sport fish program of Bureau of Sport Fisheries and Wildlife by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Fisheries Restoration and Irrigation Mitigation
+
+Pub. L. 106–502, Nov. 13, 2000, 114 Stat. 2294, provided that:
+
+#### “SECTION 1. SHORT TITLE.
+
+“This Act may be cited as the ‘Fisheries Restoration and Irrigation Mitigation Act of 2000’.
+
+#### “SEC. 2. DEFINITIONS.
+
+“In this Act:
+
+&emsp;“(1)
+
+Pacific ocean drainage area.—The term ‘Pacific Ocean drainage area’ means the area comprised of portions of the States of Oregon, Washington, Montana, and Idaho from which water drains into the Pacific Ocean.
+
+&emsp;“(2)
+
+Program.—The term ‘Program’ means the Fisheries Restoration and Irrigation Mitigation Program established by section 3(a).
+
+&emsp;“(3)
+
+Secretary.—The term ‘Secretary’ means the Secretary of the Interior, acting through the Director of the United States Fish and Wildlife Service.
+
+#### “SEC. 3. ESTABLISHMENT OF THE PROGRAM.
+
+“(a)
+
+Establishment.—There is established the Fisheries Restoration and Irrigation Mitigation Program within the Department of the Interior.
+
+“(b)
+
+Goals.—The goals of the Program are—
+
+&emsp;“(1) to decrease fish mortality associated with the withdrawal of water for irrigation and other purposes without impairing the continued withdrawal of water for those purposes; and
+
+&emsp;“(2) to decrease the incidence of juvenile and adult fish entering water supply systems.
+
+“(c)
+
+Impacts on Fisheries.—
+
+&emsp;“(1)
+
+In general.—Under the Program, the Secretary, in consultation with the heads of other appropriate agencies, shall develop and implement projects to mitigate impacts to fisheries resulting from the construction and operation of water diversions by local governmental entities (including soil and water conservation districts) in the Pacific Ocean drainage area.
+
+&emsp;“(2)
+
+Types of projects.—Projects eligible under the Program may include—
+
+&emsp;&emsp;“(A) the development, improvement, or installation of—
+
+&emsp;&emsp;&emsp;“(i) fish screens;
+
+&emsp;&emsp;&emsp;“(ii) fish passage devices; and
+
+&emsp;&emsp;&emsp;“(iii) other related features agreed to by non-Federal interests, relevant Federal and tribal agencies, and affected States; and
+
+&emsp;&emsp;“(B) inventories by the States on the need and priority for projects described in clauses (i) through (iii).
+
+&emsp;“(3)
+
+Priority.—The Secretary shall give priority to any project that has a total cost of less than $5,000,000.
+
+#### “SEC. 4. PARTICIPATION IN THE PROGRAM.
+
+“(a)
+
+Non-Federal.—
+
+&emsp;“(1)
+
+In general.—Non-Federal participation in the Program shall be voluntary.
+
+&emsp;“(2)
+
+Federal action.—The Secretary shall take no action that would result in any non-Federal entity being held financially responsible for any action under the Program, unless the entity applies to participate in the Program.
+
+“(b)
+
+Federal.—Development and implementation of projects under the Program on land or facilities owned by the United States shall be nonreimbursable Federal expenditures.
+
+#### “SEC. 5. EVALUATION AND PRIORITIZATION OF PROJECTS.
+
+“Evaluation and prioritization of projects for development under the Program shall be conducted on the basis of—
+
+&emsp;“(1) benefits to fish species native to the project area, particularly to species that are listed as being, or considered by Federal or State authorities to be, endangered, threatened, or sensitive;
+
+&emsp;“(2) the size and type of water diversion;
+
+&emsp;“(3) the availability of other funding sources;
+
+&emsp;“(4) cost effectiveness; and
+
+&emsp;“(5) additional opportunities for biological or water delivery system benefits.
+
+#### “SEC. 6. ELIGIBILITY REQUIREMENTS.
+
+“(a)
+
+In General.—A project carried out under the Program shall not be eligible for funding unless—
+
+&emsp;“(1) the project meets the requirements of the Secretary, as applicable, and any applicable State requirements; and
+
+&emsp;“(2) the project is agreed to by all Federal and non-Federal entities with authority and responsibility for the project.
+
+“(b)
+
+Determination of Eligibility.—In determining the eligibility of a project under this Act, the Secretary shall—
+
+&emsp;“(1) consult with other Federal, State, tribal, and local agencies; and
+
+&emsp;“(2) make maximum use of all available data.
+
+#### “SEC. 7. COST SHARING.
+
+“(a)
+
+Non-Federal Share.—The non-Federal share of the cost of development and implementation of any project under the Program on land or at a facility that is not owned by the United States shall be 35 percent.
+
+“(b)
+
+Non-Federal Contributions.—The non-Federal participants in any project under the Program on land or at a facility that is not owned by the United States shall provide all land, easements, rights-of-way, dredged material disposal areas, and relocations necessary for the project.
+
+“(c)
+
+Credit for Contributions.—The value of land, easements, rights-of-way, dredged material disposal areas, and relocations provided under subsection (b) for a project shall be credited toward the non-Federal share of the costs of the project.
+
+“(d)
+
+Additional Costs.—
+
+&emsp;“(1)
+
+Non-federal responsibilities.—The non-Federal participants in any project carried out under the Program on land or at a facility that is not owned by the United States shall be responsible for all costs associated with operating, maintaining, repairing, rehabilitating, and replacing the project.
+
+&emsp;“(2)
+
+Federal responsibility.—The Federal Government shall be responsible for costs referred to in paragraph (1) for projects carried out on Federal land or at a Federal facility.
+
+#### “SEC. 8. LIMITATION ON ELIGIBILITY FOR FUNDING.
+
+“A project that receives funds under this Act shall be ineligible to receive Federal funds from any other source for the same purpose.
+
+#### “SEC. 9. REPORT.
+
+“On the expiration of the third fiscal year for which amounts are made available to carry out this Act, the Secretary shall submit to Congress a report describing—
+
+&emsp;“(1) the projects that have been completed under this Act;
+
+&emsp;“(2) the projects that will be completed with amounts made available under this Act during the remaining fiscal years for which amounts are authorized to be appropriated under section 10; and
+
+&emsp;“(3) recommended changes to the Program as a result of projects that have been carried out under this Act.
+
+#### “SEC. 10. AUTHORIZATION OF APPROPRIATIONS.
+
+“(a)
+
+In General.—There is authorized to be appropriated to carry out this Act $25,000,000 for each of fiscal years 2001 through 2005.
+
+“(b)
+
+Limitations.—
+
+&emsp;“(1)
+
+Single state.—
+
+&emsp;&emsp;“(A)
+
+In general.—Except as provided in subparagraph (B), not more than 25 percent of the total amount of funds made available under this section may be used for one or more projects in any single State.
+
+&emsp;&emsp;“(B)
+
+Waiver.—On notification to Congress, the Secretary may waive the limitation under subparagraph (A) if a State is unable to use the entire amount of funding made available to the State under this Act.
+
+&emsp;“(2)
+
+Administrative expenses.—Not more than 6 percent of the funds authorized under this section for any fiscal year may be used for Federal administrative expenses of carrying out this Act.”
 

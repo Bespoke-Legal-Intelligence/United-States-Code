@@ -28,7 +28,7 @@ It is the purpose of this section to encourage individuals to enter and continue
 
 #### (1) In general
 
-&emsp;The Secretary shall cancel not more than $5,000 in the aggregate of the loan obligation on a Federal Direct Stafford Loan or a Federal Direct Unsubsidized Stafford Loan that is outstanding after the completion of the fifth complete school year of teaching described in subsection (b)(1)(A) of this section.
+&emsp;The Secretary shall cancel not more than $5,000 in the aggregate of the loan obligationon a Federal Direct Stafford Loan or a Federal Direct Unsubsidized Stafford Loan that is outstanding after the completion of the fifth complete school year of teaching described in subsection (b)(1)(A) of this section.
 
 #### (2) Treatment of consolidation loans
 

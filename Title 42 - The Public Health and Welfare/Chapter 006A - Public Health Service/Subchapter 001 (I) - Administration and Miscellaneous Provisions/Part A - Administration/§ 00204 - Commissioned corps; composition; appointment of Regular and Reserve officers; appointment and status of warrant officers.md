@@ -18,7 +18,7 @@ The civil-service laws, referred to in text, are set forth in Title 5, Governmen
 
 1949—Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
 
-1948—Act Feb. 28, 1948, struck out provision that all active service in Reserve Corps, as well as service inRegular Corps, shall be credited for purpose of promotion in Regular Corps.
+1948—Act Feb. 28, 1948, struck out provision that all active service in Reserve Corps, as well as service in Regular Corps, shall be credited for purpose of promotion in Regular Corps.
 
 #### Repeals
 
@@ -35,8 +35,4 @@ Functions of President delegated to Secretary of Health and Human Services and S
 #### Osteopaths as Reserve Officers
 
 Section 709 of act July 1, 1944, formerly §609, renumbered §709 by act Aug. 13, 1946, ch. 958, §5, 60 Stat. 1049, which provided for appointment of osteopaths as reserve officers until six months after World War II, was repealed by Joint Res. July 25, 1947, ch. 327, §1, 61 Stat. 449.
-
-#### Cross References
-
-Pay and allowances of commissioned officers, see section 210 of this title.
 

@@ -38,7 +38,7 @@ In this chapter:
 
 &emsp;&emsp;&emsp;&emsp;(II) has not attained the age of 23 and is enrolled in a full time course of study at an institution of higher learning approved by the administering Secretary; or
 
-&emsp;&emsp;&emsp;&emsp;(III) is incapable of self support because of a mental or physical incapacity that occurred while the person was considered a dependent of the member or former member under this subparagraph pursuant to subclause (I) or (II);
+&emsp;&emsp;&emsp;&emsp;(III) is incapable of self support because of a mental or physical incapacitythat occurred while the person was considered a dependent of the member or former member under this subparagraph pursuant to subclause (I) or (II);
 
 &emsp;&emsp;&emsp;(iii) is dependent on the member or former member for over one-half of the person's support;
 
@@ -152,7 +152,7 @@ Section 702(b) of Pub. L. 103–160 provided that: “Section 1072(2)(I) of titl
 
 Section 731(d) of Pub. L. 101–189 provided that:
 
-“(1) The amendments made by this section \[enacting section 1086a of this title and amending this section and sections 1076 and 1086 of this title\] apply to a person referred to in section 1072(2)(H) of title 10, United States Code (as added by subsection (a)), whose decree of divorce, dissolution, or annulment becomes final onor after the date of the enactment of this Act \[Nov. 29, 1989\].
+“(1) The amendments made by this section \[enacting section 1086a of this title and amending this section and sections 1076 and 1086 of this title\] apply to a person referred to in section 1072(2)(H) of title 10, United States Code (as added by subsection (a)), whose decree of divorce, dissolution, or annulment becomes final on or after the date of the enactment of this Act \[Nov. 29, 1989\].
 
 “(2) The amendments made by this section shall also apply to a person referred to in such section whose decree of divorce, dissolution, or annulment became final during the period beginning on September 29, 1988, and ending on the day before the date of the enactment of this Act, as if the amendments had become effective on September 29, 1988.”
 
@@ -196,5 +196,5 @@ Section 645(c) of Pub. L. 98–525, as amended by Pub. L. 99–661, div. A, titl
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1040, 1060a, 1062, 1076a, 1076c, 1078a, 1079, 1086, 1086a, 1095d, 1108, 1481, 1490, 2114, 2147 of this title; title 42 section 1320d.
+This section is referred to in sections 1040, 1060a, 1062, 1074h, 1076a, 1076c, 1078a, 1079, 1086, 1086a, 1095d, 1097a, 1108, 1111, 1481, 1490, 2114, 2147 of this title; title 42 section 1320d.
 

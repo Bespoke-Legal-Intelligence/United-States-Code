@@ -54,7 +54,7 @@ Pub. L. 106–79, title VIII, §8133, Oct. 25, 1999, 113 Stat. 1267, provided th
 
 &emsp;“(7) Lease arrangements authorized by this section may not commence until:
 
-&emsp;&emsp;“(A) The Secretary submits a report to the congressional defense committees \[Committees on Armed Services and Subcommittees on Defense of the Committees on Appropriations of the Senate and the House of Representatives\] outlining the plans for implementing the Pilot Program. The report shall describe the terms and conditions of proposed contracts and the savings in operations andsupport costs expected to be derived from retiring older aircraft as compared to the expected cost of leasing newer replacement aircraft.
+&emsp;&emsp;“(A) The Secretary submits a report to the congressional defense committees \[Committees on Armed Services and Subcommittees on Defense of the Committees on Appropriations of the Senate and the House of Representatives\] outlining the plans for implementing the Pilot Program. The report shall describe the terms and conditions of proposed contracts and the savings in operations and support costs expected to be derived from retiring older aircraft as compared to the expected cost of leasing newer replacement aircraft.
 
 &emsp;&emsp;“(B) A period of not less than 30 calendar days has elapsed after submitting the report.
 

@@ -10,19 +10,19 @@ The following named bureaus, administrations, services, offices, and programs of
 
 &emsp;(4) United States Patent and Trademark Office <sup>1</sup>
 
-&emsp;(5) Bureau of the Census;
+&emsp;(5) Bureau of the Census; and
 
-&emsp;(6) United States Fire Administration; and
+&emsp;(6) such other bureaus or other organizational units as the Secretary of Commerce may from time to time establish in accordance with law.
 
-&emsp;(7) such other bureaus or other organizational units as the Secretary of Commerce may from time to time establish in accordance with law.
-
-(Feb. 14, 1903, ch. 552, §§4, 12, 32 Stat. 826, 830; June 17, 1910, ch. 301, §4, 36 Stat. 537; Aug. 23, 1912, ch. 350, §1, 37 Stat. 407; Mar. 4, 1913, ch. 141, §3, 37 Stat. 737; Jan. 5, 1923, ch. 23, §1, 42 Stat. 1109; June 30, 1932, ch. 314, §501, 47 Stat. 415; Feb. 22, 1934, Ex. Ord. 6611; May 27, 1936, ch. 463, §1, 49 Stat. 1380; 1939 Reorg. Plan No. II, §§2(a), 4(e), 6, eff. July 1, 1936, 4 F.R. 2731, 53 Stat. 1432; 1940 Reorg. Plan No. IV, §§7, 8, eff. June 30, 1940, 5 F.R. 2422, 54 Stat. 1235, 1236; 1946 Reorg. Plan No. 3, §§101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097; June 30, 1949, ch. 288, title I, §103(a), 63 Stat. 380; Aug. 4, 1949, ch. 393, §20, 63 Stat. 561; 1949 Reorg. Plan No. 7, §1, eff. Aug. 19, 1949, 14 F.R. 5228, 63 Stat. 1070; 1950 Reorg. Plan No. 21, §§101, 106, 201, 15 F.R. 3178, 64 Stat. 1273; Pub. L. 93–498, §23, Oct. 29, 1974, 88 Stat. 1549; Pub. L. 93–596, §3, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 95–422, §2(c), Oct. 5, 1978, 92 Stat. 932; Pub. L. 97–31, §12(6), Aug. 6, 1981, 95 Stat. 154; Pub. L. 97–63, §4(a)(1), Oct. 16, 1981, 95 Stat. 1014; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV,§4732(b)(6)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583.)
+(Feb. 14, 1903, ch. 552, §§4, 12, 32 Stat. 826, 830; June 17, 1910, ch. 301, §4, 36 Stat. 537; Aug. 23, 1912, ch. 350, §1, 37 Stat. 407; Mar. 4, 1913, ch. 141, §3, 37 Stat. 737; Jan. 5, 1923, ch. 23, §1, 42 Stat. 1109; June 30, 1932, ch. 314, §501, 47 Stat. 415; Feb. 22, 1934, Ex. Ord. 6611; May 27, 1936, ch. 463, §1, 49 Stat. 1380; 1939 Reorg. Plan No. II, §§2(a), 4(e), 6, eff. July 1, 1936, 4 F.R. 2731, 53 Stat. 1432; 1940 Reorg. Plan No. IV, §§7, 8, eff. June 30, 1940, 5 F.R. 2422, 54 Stat. 1235, 1236; 1946 Reorg. Plan No. 3, §§101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097; June 30, 1949, ch. 288, title I, §103(a), 63 Stat. 380; Aug. 4, 1949, ch. 393, §20, 63 Stat. 561; 1949 Reorg. Plan No. 7, §1, eff. Aug. 19, 1949, 14 F.R. 5228, 63 Stat. 1070; 1950 Reorg. Plan No. 21, §§101, 106, 201, 15 F.R. 3178, 64 Stat. 1273; Pub. L. 93–498, §23, Oct. 29, 1974, 88 Stat. 1549; Pub. L. 93–596, §3, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 95–422, §2(c), Oct. 5, 1978, 92 Stat. 932; Pub. L. 97–31, §12(6), Aug. 6, 1981, 95 Stat. 154; Pub. L. 97–63, §4(a)(1), Oct. 16, 1981, 95 Stat. 1014; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(6)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 106–503, title I, §110(b), Nov. 13, 2000, 114 Stat. 2302.)
 
 #### Codification
 
 Section was formerly classified to section 597 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378.
 
 #### Amendments
+
+2000—Pars. (5) to (7). Pub. L. 106–503 inserted “and” after “Census;” in par. (5), redesignated par. (7) as (6) and struck out former par. (6) which read as follows: “United States Fire Administration; and”.
 
 1999—Pub. L. 106–113 redesignated pars. (a) to (g) as (1) to (7), respectively, realigned margins, and in par. (4) substituted “United States Patent and Trademark Office” for “Patent and Trademark Office;”.
 
@@ -58,7 +58,7 @@ Act May 27, 1936, ch. 463, §1, 49 Stat. 1380, cited as a credit to this section
 
 Functions of United States Fire Administration generally transferred to Federal Emergency Management Agency. For further details see Transfer of Functions note set out under section 2202 of this title.
 
-Functions of Secretary of Commerce, Department of Commerce, and officers and components of Department of Commerce as they related to or were utilized by Office of Energy Programs within Department of Commerce, but limited to industrial energy conservation programs, transferred to, and vested in, Secretary of Energy as part of creation of Department of Energy by Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565. See section 7157 of Title 42, The Public Health and Welfare.
+Functions of Secretary of Commerce, Department of Commerce, and officers and components of Department of Commerce as they related to or were utilized by Office of Energy Programs within Department of Commerce, but limited to industrial energy conservation programs, transferred to, and vested in, Secretary of Energy as part of creation of Department of Energy byPub. L. 95–91, Aug. 4, 1977, 91 Stat. 565. See section 7157 of Title 42, The Public Health and Welfare.
 
 For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out as a note under section 1501 of this title.
 
@@ -98,7 +98,7 @@ Inland Waterways Corporation transferred to Department of Commerce by section 6 
 
 Patent Office transferred from Department of the Interior by Ex. Ord. of Mar. 17, 1925, as authorized by section 12 of act Feb. 14, 1903. See section 1517 of this title.
 
-Environmental Science Services Administration in Department of Commerce, including offices of Administrator and Deputy Administrator thereof, abolished by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to Title 5, which created National Oceanic and Atmospheric Administration in Department of Commerce and transferred personnel, property, records, and unexpended balances of funds of Environmental Science Services Administration to such newly created National Oceanic and Atmospheric Administration. Components of Environmental Science Services Administration thus transferred included Weather Bureau, Coast and Geodetic Survey, Environmental Data Service, National Environmental Satellite Center, and ESSA Research Laboratories.
+Environmental Science Services Administration in Department of Commerce, including offices of Administrator and Deputy Administrator thereof, abolished byReorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to Title 5, which created National Oceanic and Atmospheric Administration in Department of Commerce and transferred personnel, property, records, and unexpended balances of funds of Environmental Science Services Administration to such newly created National Oceanic and Atmospheric Administration. Components of Environmental Science Services Administration thus transferred included Weather Bureau, Coast and Geodetic Survey, Environmental Data Service, National Environmental Satellite Center, and ESSA Research Laboratories.
 
 Weather Bureau transferred from Department of Agriculture by section 8 of Reorg. Plan No. IV of 1940. Reorg. Plan IV of 1940 is set out in the Appendix to Title 5. Coast and Geodetic Survey and Weather Bureau consolidated to form a new agency in Department of Commerce known as Environmental Science Services Administration by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 4443, set out in the Appendix to Title 5.
 
@@ -116,7 +116,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 The following are hereby transferred to the Secretary of Commerce:
 
-(a) All functions vested by law in the Bureau of Commercial Fisheries of the Department of the Interior or in its head, together with all functions vested by law in the Secretary of the Interior or the Department of the Interior which are administered through that Bureau or are primarily related to the Bureau, exclusive offunctions with respect to (1) Great Lakes fishery research and activities related to the Great Lakes Fisheries Commission, (2) Missouri River Reservoir research, (3) the Gulf Breeze Biological Laboratory of the said Bureau at Gulf Breeze, Florida, and (4) Trans-Alaska pipeline investigations.
+(a) All functions vested by law in the Bureau of Commercial Fisheries of the Department of the Interior or in its head, together with all functions vested by law in the Secretary of the Interior or the Department of the Interior which are administered through that Bureau or are primarily related to the Bureau, exclusive of functions with respect to (1) Great Lakes fishery research and activities related to the Great Lakes Fisheries Commission, (2) Missouri River Reservoir research, (3) the Gulf Breeze Biological Laboratory of the said Bureau at Gulf Breeze, Florida, and (4) Trans-Alaska pipeline investigations.
 
 (b) The functions vested in the Secretary of the Interior by the Act of September 22, 1959 (Public Law 86–359, 73 Stat. 642, 16 U.S.C. 760c–760g; relating to migratory marine species of game fish).
 
@@ -138,7 +138,7 @@ The following are hereby transferred to the Secretary of Commerce:
 
 (d) There shall be in the Administration a Chief Scientist of the National Oceanic and Atmospheric Administration who shall be appointed by the President, by and with the advice and consent of the Senate, and shall be compensated at the rate now or hereafter provided for Level V of the Executive Schedule Pay Rates (5 U.S.C. 5316). The Chief Scientist shall be the principal scientific adviser to the Administrator, and shall perform such other duties as the Administrator may direct. The Chief Scientist shall be an individual who is, by reason of scientific education and experience, knowledgeable in the principles of oceanic, atmospheric, or other scientific disciplines important to the work of the Administration. \[As amended Pub. L. 94–461, §4(c)(1), Oct. 8, 1976, 90 Stat. 1969; Pub. L. 99–659, title IV, §407(d), Nov. 14, 1986, 100 Stat. 3739.\]
 
-(e)(1) There shall be in the Administration a General Counsel and five Assistant Administrators, one of whom shall be the Assistant Administrator for Coastal Zone Management and one of whom shall be the Assistant Administrator for Fisheries. The General Counsel and each Assistant Administrator shall be appointed by the Secretary, subject to approval of the President, and shall be compensated at a rate now or hereafter provided for level V of the Executive Schedule Pay Rates (5 U.S.C. 5316).
+(e)(1) There shall be in the Administration a General Counsel and five Assistant Administrators, one of whom shall be the Assistant Administrator for Coastal Zone Management and one of whom shall be the Assistant Administrator for Fisheries. The General Counseland each Assistant Administrator shall be appointed by the Secretary, subject to approval of the President, and shall be compensated at a rate now or hereafter provided for level V of the Executive Schedule Pay Rates (5 U.S.C. 5316).
 
 (2) The General Counsel shall serve as the chief legal officer for all legal matters which may arise in connection with the conduct of the functions of the Administration.
 
@@ -192,7 +192,7 @@ The provisions of sections 2 and 4 of Reorganization Plan No. 5 of 1950 (64 Stat
 
 I transmit herewith Reorganization Plan No. 4 of 1970, prepared in accordance with chapter 9 of title 5 of the United States Code. The plan would transfer to the Secretary of Commerce various functions relating to the oceans and atmosphere, including commercial fishery functions, and would establish a National Oceanic and Atmospheric Administration in the Department of Commerce. My reasons for transmitting this plan are stated in a more extended accompanying message.
 
-After investigation, I have found and hereby declare that each reorganization included in Reorganization Plan No. 4 of 1970 is necessary to accomplish one or more of the purposes set forth in section 901(a) of title 5 of the United States Code. In particular, the plan is responsive to section 901(a)(1), “to promote the better execution of the laws, the more effective management of the executive branch and of its agencies and functions, and the expeditious administration of the public business;” and section 901(a)(3), “to increase the efficiency of the operations of the Government to the fullest extent practicable.”
+After investigation, I have found and hereby declare that each reorganization included in ReorganizationPlan No. 4 of 1970 is necessary to accomplish one or more of the purposes set forth in section 901(a) of title 5 of the United States Code. In particular, the plan is responsive to section 901(a)(1), “to promote the better execution of the laws, the more effective management of the executive branch and of its agencies and functions, and the expeditious administration of the public business;” and section 901(a)(3), “to increase the efficiency of the operations of the Government to the fullest extent practicable.”
 
 The reorganizations provided for in the plan make necessary the appointment and compensation of new officers as specified in section 2 of the plan. The rates of compensation fixed for these officers are comparable to those fixed for other officers in the executive branch who have similar responsibilities.
 

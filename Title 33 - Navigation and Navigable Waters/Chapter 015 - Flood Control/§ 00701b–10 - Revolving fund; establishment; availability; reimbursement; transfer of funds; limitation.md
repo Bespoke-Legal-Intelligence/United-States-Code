@@ -14,7 +14,3 @@ Section was formerly classified to section 190b of Title 10 prior to the general
 
 For provision relating to retention, use, and disposal of three operational aircraft by Chief of Engineers, see section 101(d) \[title I, §110\] of Pub. L. 100–202, set out as a note under section 576 of this title.
 
-#### Cross References
-
-Proceeds of sales of publications, charts, or materials to be credited to revolving fund, see section 557b of this title.
-

@@ -104,7 +104,7 @@ In furtherance of the provisions of Title Four, Article V, sections 452 and 453 
 
 #### (4) Tort claims
 
-&emsp;(A) At such time as the Trusteeship Agreement ceases to apply to either the Federated States of Micronesia or the Marshall Islands, the provisions of Section 178 of the Compact regarding settlement and payment of tort claims shall apply to employees of any federal agency of the Government of the United States which provides any service or carries out any other function pursuant to or in furtherance of any provisions of the Compact or this Act, except for provisions of Title Three of the Compact and of the subsidiary agreements related to such Title, in such area to which such Agreement formerly applied. For purposes of this subparagraph (B),<sup>1</sup> persons providing such service or carrying out such function pursuant to a contract with a federal agency shall be deemed to be an employee of the contracting federal agency.
+&emsp;(A) At such time as the Trusteeship Agreement ceases to apply to either the Federated States of Micronesia or the Marshall Islands, the provisions of Section 178 of the Compact regarding settlement and payment of tort claims shall apply to employees of any federal agency of the Government of the United States which provides any service or carries out any other function pursuant to or in furtherance of any provisions of the Compact or this Act, except for provisions of Title Three of the Compact and of the subsidiary agreements related to such Title, in such area to which such Agreement formerly applied. For purposes of this subparagraph (B),<sup>1</sup> persons providing such service or carrying out suchfunction pursuant to a contract with a federal agency shall be deemed to be an employee of the contracting federal agency.
 
 &emsp;(B) For purposes of the Federal Tort Claims Act (28 U.S.C. 2671 et seq.), persons providing services to the people of the atolls of Bikini, Enewetak, Rongelap, and Utrik as described in Public Law 95–134 and Public Law 96–205 pursuant to a contract with a Department or agency of the federal government shall be deemed to be an employee of the contracting Department or agency working in the United States. This subparagraph (B) shall expire when the Trusteeship Agreement is terminated with respect to the Marshall Islands.
 
@@ -146,7 +146,7 @@ Following approval of the Compact, the Secretary of Defense shall make available
 
 #### (<i>l</i>) Technical assistance
 
-Technical assistance may be provided pursuant to section 226 of the Compact by Federal agencies and institutions of the Government of the United States to the extent such assistance may be provided to States, territories, or units of local government. Such assistance by the Forest Service, the Soil Conservation Service, the Fish and Wildlife Service, the National Marine Fisheries Service, the United States Coast Guard, and the Advisory Council on Historic Preservation, the Department of the Interior, and other agencies providing assistance under the National Historic Preservation Act (80 Stat. 915; 16 U.S.C. 470–470t), shall be on a nonreimbursable basis. During the period the Compact is in effect, the grant programs under the National Historic Preservation Act shall continue to apply to the Federated States of Micronesia and the Marshall Islands in the same manner and to the same extent as prior to the approval of the Compact. Funds provided pursuant to sections 1902(a), 1903(a), 1903(c), 1903(h), 1903(i), 1903(j), and 1903(<i>l</i>) of this title and subsections (c), (i), (j), (k), (<i>l</i>), (m), (n), and (<i>o</i>) of this section shall be in addition to and not charged against any amounts to be paid to either the Federated States of Micronesia or the Marshall Islands pursuant to the Compact or the subsidiary agreements.
+Technical assistance may be provided pursuant to section 226 of the Compact by Federal agencies and institutions of the Government of the United States to the extent such assistance may be provided to States, territories, or units of local government. Such assistance by the Forest Service, the Soil Conservation Service, the Fish and Wildlife Service, the National Marine Fisheries Service, the United States Coast Guard, and the Advisory Council on Historic Preservation, the Department of the Interior, and other agencies providing assistance under the National Historic Preservation Act (80 Stat. 915; 16 U.S.C. 470–470t), shall be on a nonreimbursable basis. During the period the Compact is in effect, the grant programs under the National Historic Preservation Act shall continue to apply to the Federated States of Micronesia andthe Marshall Islands in the same manner and to the same extent as prior to the approval of the Compact. Funds provided pursuant to sections 1902(a), 1903(a), 1903(c), 1903(h), 1903(i), 1903(j), and 1903(<i>l</i>) of this title and subsections (c), (i), (j), (k), (<i>l</i>), (m), (n), and (<i>o</i>) of this section shall be in addition to and not charged against any amounts to be paid to either the Federated States of Micronesia or the Marshall Islands pursuant to the Compact or the subsidiary agreements.
 
 #### (m) Prior Service Benefits Program
 
@@ -164,17 +164,7 @@ There are authorized to be appropriated for grants to the Government of the Fede
 
 The responsibilities of the United States with regard to implementation of section 235 of the Compact shall be discharged by the Secretary of the Interior, who shall consult with the Government of the Marshall Islands and the designated beneficiaries of the funds held in trust by the High Commissioner of the Trust Territory of the Pacific Islands.
 
-#### (q) Annual reports on determinations under Compact section 313
-
-The President shall report annually to the Congress on determinations made by the United States in the exercise of its authority under section 313 of the Compact. Each such report shall describe the following, on a classified basis if necessary:
-
-&emsp;(1) The actions that the Government of the Federated States of Micronesia or the Government of the Marshall Islands were required to refrain from pursuant to the determinations of the United States.
-
-&emsp;(2) The justification for each determination by the United States, and the position of the other Government concerned with respect to such determination.
-
-&emsp;(3) The effect of the determination on the authority and responsibility of the other government to conduct foreign affairs in accordance with section 121 of the Compact.
-
-&emsp;(4) Any domestic effect in the Federated States of Micronesia or the Marshall Islands resulting from the determination, including any restriction on the civil and political rights of the citizens thereof.
+#### (q) Omitted
 
 #### (r) User fees
 
@@ -210,6 +200,8 @@ The National Historic Preservation Act, referred to in subsec. (<i>l</i>), is Pu
 
 #### Codification
 
+Subsec. (q) of this section, which required the President to report annually to Congress on determinations made by the United States in the exercise of its authority under section 313 of the Compact of Free Association between the Government of the United States and the Governments of the Marshall Islands and the Federated States of Micronesia, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, 14th item on page 37 of House Document No. 103–7.
+
 Section was formerly set out as a note under section 1681 of this title.
 
 #### Amendments
@@ -218,7 +210,7 @@ Section was formerly set out as a note under section 1681 of this title.
 
 1988—Subsec. (h)(5). Pub. L. 100–369 added par. (5) relating to Federal education grants.
 
-1986—Subsec. (b)(2). Pub. L. 99–396 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Appropriations made pursuant to the Compact or any other provision of this joint resolution may be made only to the Secretary of the Interior, who shall coordinate and monitor any program or activity provided to the Federated States of Micronesia or the Republic of the Marshall Islands by departments and agencies ofthe Government of the United States and related economic development planning pursuant to the Compact or pursuant to any other authorization except for the provisions of sections 161(e), 313, and 351 of the Compact and the authorization of the President to agree to an effective date pursuant to this resolution. Funds appropriated to the Secretary of the Interior pursuant to this paragraph shall not be allocated to other Departments or agencies.”
+1986—Subsec. (b)(2). Pub. L. 99–396 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Appropriations made pursuant to the Compact or any other provision of this joint resolution may be made only to the Secretary of the Interior, who shall coordinate and monitor any program or activity provided to the Federated States of Micronesia or the Republic of the Marshall Islands by departments and agencies of the Government of the United States and related economic development planning pursuant to the Compact or pursuant to any other authorization except for the provisions of sections 161(e), 313, and 351 of the Compact and the authorization of the President to agree to an effective date pursuant to this resolution. Funds appropriated to the Secretary of the Interior pursuant to this paragraph shall not be allocated to other Departments or agencies.”
 
 Subsec. (c)(2). Pub. L. 99–658 substituted “infrastructure, except that, for purposes of an orderly reduction of United States programs and services in the Federated States of Micronesia, the Marshall Islands, and Palau, United States programs or services not specifically authorized by the Compact of Free Association or by other provisions of law may continue but, unless reimbursed by the respective freely associated state, not in excess of the following amounts:” and subpars. (1) to (3) for “infrastructure.”
 

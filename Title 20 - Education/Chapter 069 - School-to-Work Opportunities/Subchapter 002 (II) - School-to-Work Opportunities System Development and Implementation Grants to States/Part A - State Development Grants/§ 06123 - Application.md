@@ -8,7 +8,7 @@ The Secretaries may not provide a development grant under section 6122 of this t
 
 Such application shall include—
 
-&emsp;(1) a timetable and an estimate of the amount of funding needed to complete theplanning and development necessary to implement a comprehensive statewide School-to-Work Opportunities system for all students;
+&emsp;(1) a timetable and an estimate of the amount of funding needed to complete the planning and development necessary to implement a comprehensive statewide School-to-Work Opportunities system for all students;
 
 &emsp;(2) a description of how—
 

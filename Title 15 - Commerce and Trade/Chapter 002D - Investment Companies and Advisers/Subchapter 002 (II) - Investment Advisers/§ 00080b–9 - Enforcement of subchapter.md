@@ -36,7 +36,7 @@ Whenever it shall appear to the Commission that any person has engaged, is engag
 
 &emsp;&emsp;Notwithstanding subparagraphs (A) and (B), the amount of penalty for each such violation shall not exceed the greater of (i) $100,000 for a natural person or $500,000 for any other person, or (ii) the gross amount of pecuniary gain to such defendant as a result of the violation, if—
 
-&emsp;&emsp;&emsp;(I) the violation described in paragraph (1) involved fraud, deceit, manipulation, ordeliberate or reckless disregard of a regulatory requirement; and
+&emsp;&emsp;&emsp;(I) the violation described in paragraph (1) involved fraud, deceit, manipulation, or deliberate or reckless disregard of a regulatory requirement; and
 
 &emsp;&emsp;&emsp;(II) such violation directly or indirectly resulted in substantial losses or created a significant risk of substantial losses to other persons.
 
@@ -89,40 +89,6 @@ Amendment by Pub. L. 91–452 not to affect any immunity to which any individual
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
-#### Federal Rules of Appellate Procedure
-
-Review and enforcement of orders of administrative agencies, boards, commissions, and officers, see rule 15 et seq., Title 28, Appendix, Judiciary and Judicial Procedure.
-
-#### Federal Rules of Civil Procedure
-
-Process, see rule 4, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-Subpoena, see rule 45.
-
-#### Federal Rules of Criminal Procedure
-
-Criminal contempt, see rule 42, Title 18, Appendix, Crimes and Criminal Procedure.
-
-#### Cross References
-
-Enforcement under—
-
-&emsp;&emsp;Investment Company Act of 1940, see section 80a–41 of this title.
-
-&emsp;&emsp;Public Utility Holding Company Act of 1935, see section 79r of this title.
-
-&emsp;&emsp;Securities Act of 1933, see sections 77s, 77t, and 77v of this title.
-
-&emsp;&emsp;Securities Exchange Act of 1934, see section 78u of this title.
-
-&emsp;&emsp;Trust Indenture Act of 1939, see sections 77uuu and 77vvv of this title.
-
-Contempt proceedings, see sections 401, 402, 3285, and 3691 of Title 18, Crimes and Criminal Procedure.
-
-Disclosure of information by Commission, see section 80b–10 of this title.
-
-Immunity of witnesses, see section 6001 et seq. of Title 18, Crimes and Criminal Procedure.
 
 #### Section Referred to in Other Sections
 

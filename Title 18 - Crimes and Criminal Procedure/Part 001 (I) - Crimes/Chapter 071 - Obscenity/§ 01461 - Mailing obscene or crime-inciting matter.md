@@ -62,14 +62,6 @@ Section 6 of Pub. L. 91–662 provided that the amendment made by that section i
 
 Pub. L. 90–100, Oct. 3, 1967, 81 Stat. 253, as amended by Pub. L. 90–350, title V, §502, June 19, 1968, 82 Stat. 197; Pub. L. 91–74, title V, §503, Sept. 29, 1969, 83 Stat. 123, provided for establishment of Commission on Obscenity and Pornography, its membership, compensation of members, powers, functions, and duties of Commission, required Commission to report to President and to Congress its findings and recommendations no later than Sept. 30, 1970, and provided for its termination ten days following submission of report.
 
-#### Cross References
-
-Importation of immoral articles prohibited, see section 1305 of Title 19, Customs Duties.
-
-Seizure and disposition of nonmailable matter, see section 3001 et seq. of Title 39, Postal Service.
-
-Wire or oral communications, authorization for interception, to provide evidence of murder, see section 2516 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1961 of this title; title 39 sections 3001, 3011.

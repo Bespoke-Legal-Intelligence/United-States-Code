@@ -56,7 +56,7 @@ Not later than April 1 of each year, the Administrator shall submit to the Commi
 
 (B) An order of the Secretary with respect to which review could have been obtained under subparagraph (A) shall not be subject to judicial review in any criminal or other civil proceeding.
 
-(4) Whenever a person has failed to comply with an order issued under paragraph (2)(B), the Secretary shall file a civil action in the United States District Court for the district in which the violation was found to occur to enforce such order. In actions brought under this paragraph, the district courts shall have jurisdiction to grant all appropriate relief including, but notlimited to, injunctive relief, compensatory, and exemplary damages.
+(4) Whenever a person has failed to comply with an order issued under paragraph (2)(B), the Secretary shall file a civil action in the United States District Court for the district in which the violation was found to occur to enforce such order. In actions brought under this paragraph, the district courts shall have jurisdiction to grant all appropriate relief including, but not limited to, injunctive relief, compensatory, and exemplary damages.
 
 (5) Any nondiscretionary duty imposed by this section is enforceable in mandamus proceeding brought under section 1361 of title 28.
 
@@ -66,7 +66,7 @@ Not later than April 1 of each year, the Administrator shall submit to the Commi
 
 #### References in Text
 
-Act of March 3, 1931 (known as the Davis-Bacon Act; 40 U.S.C. 276a—276a–5), referred to in subsec. (e), is act Mar. 3, 1931, ch. 411, 46 Stat. 1494, as amended, which is classified generally to sections 276a to 276a–5 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 276a of Title 40 and Tables.
+Act of March 3, 1931 (known as the Davis-Bacon Act; 40 U.S.C. 276a—276a–5), referred to in subsec. (e), is actMar. 3, 1931, ch. 411, 46 Stat. 1494, as amended, which is classified generally to sections 276a to 276a–5 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 276a of Title 40 and Tables.
 
 Reorganization Plan Numbered 14 of 1950 (15 F.R. 3176; 64 Stat. 1267), referred to in subsec. (e), is set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -80,15 +80,9 @@ Part C of subchapter II of this chapter, referred to in subsec. (g), is classifi
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, see section 403 of Pub. L. 98–620, set out as an Effective Date note under section 1657 of Title 28, Judiciary and Judicial Procedure.
-
-#### Federal Rules of Civil Procedure
-
-Injunctions, see rule 65, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-Writ of mandamus abolished in United States district courts, but relief available by appropriate action or motion, see rule 81.
 

@@ -1,6 +1,6 @@
 ### §163. Roll of membership of Indian tribes
 
-The Secretary of the Interior is authorized, wherever in his discretion such action would be for the best interest of the Indians, to cause a final roll to be made of the membership of any Indian tribe; such rolls shall contain the ages and quantum of Indian blood, and when approved by the said Secretary are declared to constitute the legal membership of the respective tribes for the purpose of segregating the tribal funds as provided in section 162 <sup>1</sup> of this title, and shall be conclusive both as to ages and quantum of Indian blood: <i>Provided</i>, That the foregoing shall not apply to the Five Civilized Tribes or to the Osage Tribe of Indians, or to the Chippewa Indians of Minnesota, or the Menominee Indians of Wisconsin.
+The Secretary of the Interior is authorized, wherever in his discretion such action would befor the best interest of the Indians, to cause a final roll to be made of the membership of any Indian tribe; such rolls shall contain the ages and quantum of Indian blood, and when approved by the said Secretary are declared to constitute the legal membership of the respective tribes for the purpose of segregating the tribal funds as provided in section 162 <sup>1</sup> of this title, and shall be conclusive both as to ages and quantum of Indian blood: <i>Provided</i>, That the foregoing shall not apply to the Five Civilized Tribes or to the Osage Tribe of Indians, or to the Chippewa Indians of Minnesota, or the Menominee Indians of Wisconsin.
 
 (June 30, 1919, ch. 4, §1, 41 Stat. 9.)
 
@@ -11,10 +11,6 @@ Section 162 of this title, referred to in text, was repealed by act June 24, 193
 #### Transfer of Functions
 
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Cross References
-
-Membership roll for Yakima Tribes, see section 601 et seq. of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

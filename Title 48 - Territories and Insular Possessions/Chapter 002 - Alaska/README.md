@@ -111,7 +111,7 @@ Sec. 10. \[National defense withdrawals; jurisdiction.\] (a) The President of th
 
 “(3) To the extent consistent with the laws described in paragraphs (1) and (2) of this subsection and with regulations made or other actions taken under their authority, all laws in force within such withdrawals immediately prior to the creation thereof by Executive order or proclamation shall apply within the withdrawals and, for this purpose, are adopted as laws of the United States: <i>Provided, however</i>, That the laws of the State or Territory relating to the organization or powers of municipalities or local political subdivisions, and the laws or ordinances of such municipalities or political subdivisions shall not be adopted as laws of the United States.
 
-“(4) All functions vested in the United States commissioners by the laws described in this subsection shall continue to be performed within the withdrawals by such commissioners.
+“(4) All functions vested in the United States magistrate judges by the laws described in this subsection shall continue to be performed within the withdrawals by such magistrate judges.
 
 “(5) All functions vested in any municipal corporation, school district, or other local political subdivision by the laws described in this subsection shall continue to be performed within the withdrawals by such corporation, district, or other subdivision, and the laws of the State or the laws or ordinances of such municipalities or local political subdivision shall remain in full force and effect notwithstanding any withdrawal made under this section.
 
@@ -119,7 +119,7 @@ Sec. 10. \[National defense withdrawals; jurisdiction.\] (a) The President of th
 
 “(7) The United States District Court for the District of Alaska shall have original jurisdiction, without regard to the sum or value of any matter in controversy, over all civil actions arising within such withdrawals under the laws made applicable thereto by this subsection, as well as over all offenses committed within the withdrawals.
 
-“(e) Nothing contained in subsection (d) of this section shall be construed as limiting the exclusive jurisdiction established in the United States by subsection (c) of this section or the authority of the Congress to implement such exclusive jurisdiction by appropriate legislation, or as denying to persons now or hereafter residing within any portion of the areas described in subsection (b) of this section the right to vote at all elections held within the political subdivisions as prescribed by the State of Alaska where they respectively reside, or as limiting the jurisdiction conferred on the United States District Court for the District of Alaska by any other provision of law, or as continuing in effectlaws relating to the Legislature of the Territory of Alaska. Nothing contained in this section shall be construed as limiting any authority otherwise vested in the Congress or the President.
+“(e) Nothing contained in subsection (d) of this section shall be construed as limiting the exclusive jurisdiction established in the United States by subsection (c) of this section or the authority of the Congress to implement such exclusive jurisdiction by appropriate legislation, or as denying to persons now or hereafter residing within any portion of the areas described in subsection (b) of this section the right to vote at all elections held within the political subdivisions as prescribed by the State of Alaska where they respectively reside, or as limiting the jurisdiction conferred on the United States District Court for the District of Alaska by any other provision of law, or as continuing in effectlaws relating to the Legislature of the Territory of Alaska. Nothing contained in this section shall be construed as limiting any authority otherwise vested in the Congress or the President. (As amended Pub. L. 90–578, title IV, §402(b)(2), Oct. 17, 1968, 82 Stat. 1118; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
 
 “
 
@@ -177,7 +177,7 @@ Sec. 12. \[Judicial and criminal provisions; amendment.\] Effective upon the adm
 
 Sec. 13. \[Continuation of suits.\] No writ, action, indictment, cause, or proceeding pending in the District Court for the Territory of Alaska on the date when said Territory shall become a State, and no case pending in an appellate court upon appeal from the District Court for the Territory of Alaska at the time said Territory shall become a State, shall abate by the admission of the State of Alaska into the Union, but the same shall be transferred and proceeded with as hereinafter provided.
 
-“All civil causes of action and all criminal offenses which shall have arisen or been committed prior to the admission of said State, but as to which no suit, action, or prosecution shall be pending at the date of such admission, shall be subject to prosecution in the appropriate State courts or in the United States DistrictCourt for the District of Alaska in like manner, to the same extent, and with like right of appellate review, as if said State had been created and said courts had been established prior to the accrual of said causes of action or the commission of such offenses; and such of said criminal offenses as shall have been committed against the laws of the Territory shall be tried and punished by the appropriate courts of said State, and such as shall have been committed against the laws of the United States shall be tried and punished in the United States District Court for the District of Alaska.
+“All civil causes of action and all criminal offenses which shall have arisen or been committed prior to the admission of said State, but as to which no suit, action,or prosecution shall be pending at the date of such admission, shall be subject to prosecution in the appropriate State courts or in the United States District Court for the District of Alaska in like manner, to the same extent, and with like right of appellate review, as if said State had been created and said courts had been established prior to the accrual of said causes of action or the commission of such offenses; and such of said criminal offenses as shall have been committed against the laws of the Territory shall be tried and punished by the appropriate courts of said State, and such as shall have been committed against the laws of the United States shall be tried and punished in the United States District Court for the District of Alaska.
 
 “
 
@@ -233,7 +233,7 @@ Sec. 26. \[Immigration and Nationality Act; amendment.\] Section 344(d) of the I
 
 “
 
-Sec. 27. \[Transportation by water.\] (a) The third proviso in section 27 of the Merchant Marine Act, 1920,as amended (46 U.S.C., sec. 883), is further amended by striking out the word ‘excluding’ and inserting in lieu thereof the word ‘including’.
+Sec. 27. \[Transportation by water.\] (a) The third proviso in section 27 of the Merchant Marine Act, 1920, as amended (46 U.S.C., sec. 883), is further amended by striking out the word ‘excluding’ and inserting in lieu thereof the word ‘including’.
 
 “(b) Nothing contained in this or any other Act shall be construed as depriving the Federal Maritime Board of the exclusive jurisdiction heretofore conferred on it over common carriers engaged in transportation by water between any port in the State of Alaska and other ports in the United States, its Territories or possessions, or as conferring upon the Interstate Commerce Commission jurisdiction over transportation by water between any such ports.
 
@@ -401,7 +401,7 @@ Sec. 21. \[Highways.\] (a) The Secretary of Transportation shall transfer to the
 
 “(c)(1) The State of Alaska shall be responsible for the maintenance of roads, including bridges, tunnels, and ferries, transferred to it under subsection (a) of this section, as long as any such road is needed for highway purposes.
 
-“(2) Federal-aid funds apportioned to Alaska under title 23, United States Code, for fiscal year 1960 and prior fiscal years, and unobligated on the date of enactment of this Act, may be used for maintenance of highways on the Federal-aid systems in Alaska.
+“(2) Federal-aid funds apportioned to Alaska under title 23, United States Code, for fiscal year 1960 andprior fiscal years, and unobligated on the date of enactment of this Act, may be used for maintenance of highways on the Federal-aid systems in Alaska.
 
 “(d) Effective July 1, 1959, the following provisions of law are repealed:
 
@@ -569,7 +569,7 @@ Sec. 38. \[Recreation facilities.\] Section 2 of the Act of May 4, 1956 (70 Stat
 
 “
 
-Sec. 39. \[Aircraft loan guarantees.\] Section 3 of the Act of September 7, 1957 (71 Stat. 629), is amended bystriking out the words ‘Territory of Alaska’ and inserting in lieu thereof the words ‘State of Alaska’.
+Sec. 39. \[Aircraft loan guarantees.\] Section 3 of the Act of September 7, 1957 (71 Stat. 629), is amended by striking out the words ‘Territory of Alaska’ and inserting in lieu thereof the words ‘State of Alaska’.
 
 “
 
@@ -679,7 +679,7 @@ Sec. 55. \[Modification of Civil Works Projects.\] The Chief of Engineers, under
 
 “
 
-Sec. 56. \[Purchase of Alaska State Bonds.\] The Secretary of Housing and Urban Development is authorized to purchase, in accordance with the provisions of sections 202(b), 203, and 204 of Title II of the Housing Amendments of 1955 \[42 U.S.C. 1492(b), 1493, and 1494\],the securities and obligations of, or make loans to, the State of Alaska to finance any part of the programs needed to carry out the reconstruction activities in Alaska related to the 1964 earthquake and subsequent seismic waves or to complete capital improvements begun prior to the earthquake: <i>Provided</i>, That the aggregate amount of such purchase or loan shall not exceed $25,000,000. (Added Pub. L. 88–451, §4, Aug. 19, 1964, 78 Stat. 506, and amended Pub. L. 90–19, §15(a), May 25, 1967, 81 Stat. 24.)
+Sec. 56. \[Purchase of Alaska State Bonds.\] The Secretary of Housing and Urban Development is authorizedto purchase, in accordance with the provisions of sections 202(b), 203, and 204 of Title II of the Housing Amendments of 1955 \[42 U.S.C. 1492(b), 1493, and 1494\], the securities and obligations of, or make loans to, the State of Alaska to finance any part of the programs needed to carry out the reconstruction activities in Alaska related to the 1964 earthquake and subsequent seismic waves or to complete capital improvements begun prior to the earthquake: <i>Provided</i>, That the aggregate amount of such purchase or loan shall not exceed $25,000,000. (Added Pub. L. 88–451, §4, Aug. 19, 1964, 78 Stat. 506, and amended Pub. L. 90–19, §15(a), May 25, 1967, 81 Stat. 24.)
 
 “
 
@@ -741,7 +741,7 @@ WHEREAS it further appears from information before me that a general election wa
 
 WHEREAS the Acting Governor of Alaska has certified to me the results of the submission to the people of Alaska of the three propositions set forth in section 8(b) of the act of July 7, 1958 \[set out above\], and the results of the general election; and
 
-WHEREAS I find and announce that the people of Alaska have duly adopted the propositions required to be submitted to them by the act of July 7, 1958 \[set out above\], and have duly elected the officers required to be elected by that act:
+WHEREAS I find and announce that the people of Alaska have duly adopted the propositions required tobe submitted to them by the act of July 7, 1958 \[set out above\], and have duly elected the officers required to be elected by that act:
 
 NOW, THEREFORE, I, DWIGHT D. EISENHOWER, President of the United States of America, do hereby declare and proclaim that the procedural requirements imposed by the Congress on the State of Alaska to entitle that State to admission into the Union have been complied with in all respects and that admission of the State of Alaska into the Union on an equal footing with the other States of the Union is now accomplished.
 

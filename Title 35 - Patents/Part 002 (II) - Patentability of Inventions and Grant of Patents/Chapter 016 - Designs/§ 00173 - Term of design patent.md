@@ -22,7 +22,3 @@ Amendment by Pub. L. 103–465 effective 6 months after Dec. 8, 1994, and applic
 
 Amendment by Pub. L. 97–247 effective Oct. 1, 1982, see section 17(a) of Pub. L. 97–247, set out as a note under section 41 of this title.
 
-#### Cross References
-
-Term of patent, see section 154 of this title.
-

@@ -2,7 +2,7 @@
 
 As used in this chapter, the term—
 
-&emsp;(1) “Acquire” and “acquisition” shall not be construed as authorizing the Administrator to construct, or have ownership of, under thischapter or any other law, any electric generating facility.
+&emsp;(1) “Acquire” and “acquisition” shall not be construed as authorizing the Administrator to construct, or have ownership of, under this chapter or any other law, any electric generating facility.
 
 &emsp;(2) “Administrator” means the Administrator of the Bonneville Power Administration.
 
@@ -64,7 +64,7 @@ As used in this chapter, the term—
 
 &emsp;(16) “Renewable resource” means a resource which utilizes solar, wind, hydro, geothermal, biomass, or similar sources of energy and which either is used for electric power generation or will reduce the electric power requirements of a consumer, including by direct application.
 
-&emsp;(17) “Reserves” means the electric power needed to avert particular planning or operating shortages for the benefit of firm power customers of the Administrator and available to the Administrator (A) from resources or (B)from rights to interrupt, curtail, or otherwise withdraw, as provided by specific contract provisions, portions of the electric power supplied to customers.
+&emsp;(17) “Reserves” means the electric power needed to avert particular planning or operating shortages for the benefit of firm power customers of the Administrator and available to the Administrator (A) from resources or (B) from rights to interrupt, curtail, or otherwise withdraw, as provided by specific contract provisions, portions of the electric power supplied to customers.
 
 &emsp;(18) “Residential use” or “residential load” means all usual residential, apartment, seasonal dwelling and farm electrical loads or uses, but only the first four hundred horsepower during any monthly billing period of farm irrigation and pumping for any farm.
 

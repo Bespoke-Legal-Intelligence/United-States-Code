@@ -42,7 +42,7 @@ State seat belt use rate.—The term “State seat belt use rate” means the ra
 
 &emsp;&emsp;(A) for each of calendar years 1996 and 1997, by the State, as weighted by the Secretary to ensure national consistency in methods of measurement (as determined by the Secretary); and
 
-&emsp;&emsp;(B) for each of calendar years 1998 through 2001, by the State in a manner consistent with the criteria established by the Secretary under subsection (e).
+&emsp;&emsp;(B) for each of calendar years 1998 through 2001, by the State in a manner consistentwith the criteria established by the Secretary under subsection (e).
 
 (b)
 

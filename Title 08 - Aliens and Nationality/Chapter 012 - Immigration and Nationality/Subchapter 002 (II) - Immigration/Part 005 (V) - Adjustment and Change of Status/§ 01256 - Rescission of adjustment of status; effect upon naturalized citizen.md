@@ -28,7 +28,3 @@ Section 219(m) of Pub. L. 103–416 provided that the amendment made by that sec
 
 For purposes of carrying out this chapter, any reference in law to an order of removal is deemed to include a reference to an order of exclusion and deportation or an order of deportation, see section 309(d)(2) of Pub. L. 104–208, set out in an Effective Date of 1996 Amendments note under section 1101 of this title.
 
-#### Cross References
-
-Definition of alien, Attorney General, and lawfully admitted for permanent residence, see section 1101 of this title.
-

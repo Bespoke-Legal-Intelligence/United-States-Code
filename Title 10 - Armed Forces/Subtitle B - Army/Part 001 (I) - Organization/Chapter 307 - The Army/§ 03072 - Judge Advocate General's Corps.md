@@ -30,13 +30,3 @@ June 28, 1950, ch. 383, §308 (1st sentence, less applicability to strength), 64
 
 The words “authorized by sections 21f and 21h, respectively, of this title” are omitted as surplusage. The word “grade” is substituted for the word “rank”. The words “but the Secretary shall not assign to the Judge Advocate General's Corps any officer who has been appointed and commissioned in some other special branch or in the Regular Army without specification of branch” are omitted as covered by section 3064 of this title.
 
-#### Cross References
-
-Appointment and duties of Judge Advocate General, see section 3036 of this title.
-
-Secretary of the Army—
-
-&emsp;&emsp;Authority to assign, detail, and prescribe duties of members of the Army, see section 3013 of this title.
-
-&emsp;&emsp;Prohibition against assignment of officer of Regular Army to Corps, see section 3064 of this title.
-

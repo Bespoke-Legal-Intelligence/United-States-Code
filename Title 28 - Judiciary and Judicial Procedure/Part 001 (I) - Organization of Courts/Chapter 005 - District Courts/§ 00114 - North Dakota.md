@@ -6,7 +6,7 @@ North Dakota constitutes one judicial district comprising four divisions.
 
 &emsp;&emsp;Court for the Southwestern Division shall be held at Bismarck.
 
-&emsp;&emsp;(2) The Southeastern Division comprises the counties of Barnes, Cass, Dickey, Eddy, Foster, Griggs, La Moure, Ransom, Richland, Sargent, Steele, and Stutsman.
+&emsp;&emsp;(2) The Southeastern Division comprises the counties of Barnes, Cass, Dickey, Eddy,Foster, Griggs, La Moure, Ransom, Richland, Sargent, Steele, and Stutsman.
 
 &emsp;&emsp;Court for the Southeastern Division shall be held at Fargo.
 
@@ -34,7 +34,7 @@ Changes in arrangement and phraseology were made.
 
 #### Amendments
 
-1978—Par. (2). Pub. L. 95–408, §3(b)(1), struck out Sheridan and Wells from the counties comprising the Southeastern Division.
+<b>1978</b>—Par. (2). Pub. L. 95–408, §3(b)(1), struck out Sheridan and Wells from the counties comprising the Southeastern Division.
 
 Par. (3). Pub. L. 95–408, §3(b)(2), struck out Bottineau, McHenry and Pierce from the counties comprising the Northeastern Division.
 

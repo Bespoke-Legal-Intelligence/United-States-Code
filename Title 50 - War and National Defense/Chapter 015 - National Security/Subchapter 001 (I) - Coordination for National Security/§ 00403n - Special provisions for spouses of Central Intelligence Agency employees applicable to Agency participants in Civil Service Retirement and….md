@@ -38,7 +38,7 @@ Section 302(d) of Pub. L. 99–569 provided that: “The amendments made by this
 
 #### Effective Date
 
-Section effective Nov. 15, 1982, see section 613 of Pub. L. 97–269 set out as an Effective Date of Amendments toPub. L. 88–643 Prior to Enactment of Pub. L. 102–496 note under section 2001 of this title.
+Section effective Nov. 15, 1982, see section 613 of Pub. L. 97–269 set out as an Effective Date of Amendments to Pub. L. 88–643 Prior to Enactment of Pub. L. 102–496 note under section 2001 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -8,7 +8,9 @@
 
 &emsp;(3) Officers of the commissioned corps of the Public Health Service who are on active duty or entitled to retired or equivalent pay.
 
-&emsp;(4) Dependents of members and former members described in paragraphs (1), (2), and (3).
+&emsp;(4) Members of reserve components not covered by paragraph (1) or (2) following release from active duty under a call or order to active duty for more than 30 days issued under a mobilization authority (as determined by the Secretary of Defense), for a period of time, prescribed by the Secretary of Defense, that begins on the date of the release and is not less than twice the length of the period served on active duty under that call or order to active duty.
+
+&emsp;(5) Dependents of members and former members described in paragraphs (1), (2), (3), and (4).
 
 (b) Under such regulations as may be prescribed by the Secretary concerned, the Judge Advocate General (as defined in section 801(1) of this title) under the jurisdiction of the Secretary is responsible for the establishment and supervision of legal assistance programs under this section.
 
@@ -16,9 +18,15 @@
 
 (d) The Secretary concerned shall define “dependent” for the purposes of this section.
 
-(Added Pub. L. 98–525, title VI, §651(a), Oct. 19, 1984, 98 Stat. 2549; amended Pub. L. 104–201, div. A, title V, §583, Sept. 23, 1996, 110 Stat. 2538.)
+(Added Pub. L. 98–525, title VI, §651(a), Oct. 19, 1984, 98 Stat. 2549; amended Pub. L. 104–201, div. A, title V, §583, Sept. 23, 1996, 110 Stat. 2538; Pub. L. 106–398, §1 \[\[div. A\], title V, §524(a), (b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–108.)
 
 #### Amendments
+
+2000—Subsec. (a)(4). Pub. L. 106–398, §1 \[\[div. A\], title V, §524(a)(2)\], added par. (4). Former par. (4) redesignated (5).
+
+Subsec. (a)(5). Pub. L. 106–398, §1 \[\[div. A\], title V, §524(b)\], substituted “(3), and (4)” for “and (3)”.
+
+Pub. L. 106–398, §1 \[\[div. A\], title V, §524(a)(1)\], redesignated par. (4) as (5).
 
 1996—Subsec. (a). Pub. L. 104–201, §583(d)(1), substituted “to the following persons:” for “to—” in introductory provisions.
 
@@ -30,7 +38,11 @@ Subsec. (a)(3), (4). Pub. L. 104–201, §583(a), added pars. (3) and (4) and st
 
 Subsec. (c). Pub. L. 104–201, §583(b), substituted “uniformed services described in subsection (a)” for “armed forces” and inserted “such” after “dependent of”.
 
+#### Regulations
+
+Pub. L. 106–398, §1 \[\[div. A\], title V, §524(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–108, provided that: “Regulations to implement the amendments made by this section \[amending this section\] shall be prescribed not later than 180 days after the date of the enactment of this Act \[Oct. 30, 2000\].”
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1044a, 1044c, 1052 of this title; title 14 section 514.
+This section is referred to in sections 1044a, 1044c, 1044d, 1052 of this title; title 14 section 514.
 

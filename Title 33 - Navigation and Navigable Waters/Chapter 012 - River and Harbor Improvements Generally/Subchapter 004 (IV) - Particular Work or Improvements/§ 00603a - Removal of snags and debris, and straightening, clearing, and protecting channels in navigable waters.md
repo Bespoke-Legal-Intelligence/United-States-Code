@@ -16,7 +16,3 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 Amendment by Pub. L. 99–662 not applicable to any project under contract for construction on Nov. 17, 1986, see section 915(i) of Pub. L. 99–662, set out as a note under section 426g of this title.
 
-#### Cross References
-
-Flood control, removal of obstructions and clearing of channels, see section 701g of this title.
-

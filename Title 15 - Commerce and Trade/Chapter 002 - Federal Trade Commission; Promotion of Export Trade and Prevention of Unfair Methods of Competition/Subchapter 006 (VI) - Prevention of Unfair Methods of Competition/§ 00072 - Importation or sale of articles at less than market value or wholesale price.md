@@ -10,7 +10,3 @@ The foregoing provisions shall not be construed to deprive the proper State cour
 
 (Sept. 8, 1916, ch. 463, title VIII, §801, 39 Stat. 798.)
 
-#### Federal Rules of Civil Procedure
-
-Costs, see rule 54, Title 28, Appendix, Judiciary and Judicial Procedure.
-

@@ -54,19 +54,19 @@ Aug. 31, 1964, Pub. L. 88–527, §201 (1st 105 words of 1st par. under “Feder
 
 June 11, 1930, ch. 455, 46 Stat. 554.
 
-The sections are combined and reorganized for clarity. Former section 300 of title 5 was from the Department of Justice Appropriation Act, 1965. Similar provisions were contained in each appropriation Act for theDepartment of Justice running back to 1921, which Acts are identified in a note under former section 300 of title 5, U.S.C. 1964 ed.
+The sections are combined and reorganized for clarity. Former section 300 of title 5 was from the Department of Justice Appropriation Act, 1965. Similar provisions were contained in each appropriation Act for the Department of Justice running back to 1921, which Acts are identified in a note under former section 300 of title 5, U.S.C. 1964 ed.
 
-In subsection (a), the word “shall” is substituted for “has the duty” as a more direct expression. The function of acquiring, collecting, classifying, etc., referred to in former section 340 of title 5 was transferred to the Attorney General by 1950 Reorg., Plan No. 2, §1, eff. May 24, 1950, 64 Stat. 1261, which is codified in section 509 of this title. Accordingly, the first 29 words and last 30 words of former section 340 are omitted as unnecessary.
+In subsection (a), the word “shall” is substituted for “has the duty” as a more direct expression. The function of acquiring, collecting, classifying, etc., referred to in former section 340 of title 5 was transferred to the Attorney General by 1950 Reorg., Plan No. 2, §1, eff.May 24, 1950, 64 Stat. 1261, which is codified in section 509 of this title. Accordingly, the first 29 words and last 30 words of former section 340 are omitted as unnecessary.
 
 In subsection (c), the authority to appoint officials for the cited purposes is implied.
 
 #### Amendments
 
-1994—Subsec. (e). Pub. L. 103–322 added subsec. (e).
+<b>1994</b>—Subsec. (e). Pub. L. 103–322 added subsec. (e).
 
-1988—Subsec. (d). Pub. L. 100–690 added subsec. (d).
+<b>1988</b>—Subsec. (d). Pub. L. 100–690 added subsec. (d).
 
-1982—Pub. L. 97–292, §3(a), inserted “and information” after “identification records” in section catchline.
+<b>1982</b>—Pub. L. 97–292, §3(a), inserted “and information” after “identification records” in section catchline.
 
 Subsec. (a). Pub. L. 97–292, §2(a), added pars. (2) and (3), redesignated former par. (2) as (4), and substituted “exchange such records and information” for “exchange these records” in par. (4).
 
@@ -142,7 +142,7 @@ Use of data.—Except with respect to the summary published under paragraph (1),
 
 “(e)
 
-Exemption.—The Attorney General, the Secretary of State, and the United States Secret Service isnot required to participate in any statistical reporting activity under this section with respect to any direct or indirect threat made against any individual for whom that official or Service is authorized to provide protection.”
+Exemption.—The Attorney General, the Secretary of State, and the United States Secret Service is not required to participate in any statistical reporting activity under this section with respect to any direct or indirect threat made against any individual for whom that official or Service is authorized to provide protection.”
 
 #### Rulemaking Relating to Access to Federal Criminal Information Databases
 
@@ -236,11 +236,11 @@ Establishment of System.—
 
 &emsp;“(1)
 
-In general.—The Attorney General shall acquire, collect, classify, and preserve national data onFederal criminal offenses as part of the Uniform Crime Reports.
+In general.—The Attorney General shall acquire, collect, classify, and preserve national data on Federal criminal offenses as part of the Uniform Crime Reports.
 
 &emsp;“(2)
 
-Reporting by federal agencies.—All departments and agencies within the Federal government (including the Department of Defense) which routinely investigate complaints of criminal activity, shall report details about crime within their respective jurisdiction to the Attorney General in a uniform manner and on a form prescribed by the Attorney General. The reporting required by this subsection shall be limited to the reporting of those crimes comprising the Uniform Crime Reports.
+Reporting by federal agencies.—All departments and agencies within the Federal government\(including the Department of Defense) which routinely investigate complaints of criminal activity, shall report details about crime within their respective jurisdiction to the Attorney General in a uniform manner and on a form prescribed by the Attorney General. The reporting required by this subsection shall be limited to the reporting of those crimes comprising the Uniform Crime Reports.
 
 &emsp;“(3)
 

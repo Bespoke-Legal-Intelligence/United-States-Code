@@ -86,7 +86,7 @@ The effective date of the Single Audit Act Amendments of 1996, referred to in su
 
 #### Amendments
 
-1996—Pub. L. 104–156 reenacted section catchline without change and amended text generally, substituting present provisions for similar provisions relating to audit requirements and exemptions from such requirements for State and local governments receiving Federal financial assistance of $100,000 or more in any fiscal year and requiring audits to be conducted annually in most instances, to cover entirety of government operations, for reports to be made on audits in specified time period, and for appropriate corrective action plansto be submitted to Federal officials for any material State or local noncompliance with Federal laws and regulations.
+1996—Pub. L. 104–156 reenacted section catchline without change and amended text generally, substituting present provisions for similar provisions relating to audit requirements and exemptions from such requirements for State and local governments receiving Federal financial assistance of $100,000 or more in any fiscal year and requiring audits to be conducted annually in most instances, to cover entirety of government operations, for reports to be made on audits in specified time period, and for appropriate corrective action plans to be submitted to Federal officials for any material State or local noncompliance with Federal laws and regulations.
 
 1994—Subsec. (b)(2). Pub. L. 103–272, §4(f)(1)(W), substituted “October 19, 1984” for “the date of enactment of this chapter” in subpar. (A) and for “such date” in subpar. (B).
 

@@ -2,7 +2,7 @@
 
 #### Codification
 
-Sections 1314f to 1315a were omitted as not of general application, and as covered by the Canal Zone Code.
+Sections 1314f to 1315a were omitted as not of general application, and as covered by the Canal Zone Code. The Canal Zone Code was subsequently redesignated the Panama Canal Code by Pub. L. 96–70, §3303(b), and repealed by Pub. L. 104–201, §3549.
 
 Section 1314f, act Oct. 1, 1942, ch. 574, 56 Stat. 763, related to prohibition of production, possession, and disposition of marihuana.
 

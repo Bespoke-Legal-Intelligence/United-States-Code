@@ -20,7 +20,7 @@ Pub. L. 97–424, title I, §163, Jan. 6, 1983, 96 Stat. 2136, as amended by Pub
 
 #### Expenditure of Administrative Funds for Carpooling and Vanpooling Programs
 
-Pub. L. 97–424, title I, §123(b), Jan. 6, 1983, 96 Stat. 2113, provided that: “The Secretary of Transportation is authorized and directed to expend such sums as are necessary out of the administrative funds authorized by subsection (a) of section 104, title 23, United States Code, to carry out the provisions of subsection (d) of section 126 of the Federal-Aid Highway Act of 1978 \[section 126(d) of Pub. L. 95–599, set out below\].”
+Pub. L. 97–424, title I, §123(b), Jan. 6, 1983, 96 Stat. 2113, provided that: “The Secretary of Transportation is authorized and directed to expend such sums as are necessary out of the administrative funds authorized by subsection (a) of section 104, title 23, United States Code, to carry out the provisions of subsection (d) ofsection 126 of the Federal-Aid Highway Act of 1978 \[section 126(d) of Pub. L. 95–599, set out below\].”
 
 #### Grants to States, Counties, etc., To Promote Carpooling and Vanpooling Programs
 

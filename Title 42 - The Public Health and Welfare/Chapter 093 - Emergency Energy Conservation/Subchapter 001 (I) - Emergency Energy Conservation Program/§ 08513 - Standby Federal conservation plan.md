@@ -62,7 +62,7 @@ The plan established under subsection (a) of this section shall—
 
 &emsp;(1) taken as a whole, be designed so that the plan, if implemented, would be likely to achieve the emergency conservation target under section 8511 of this title for which it would be implemented,
 
-&emsp;(2) taken as a whole, be designed so as not to impose an unreasonably disproportionate share of the burden of restrictions on energy use on any specific class of industry, business, or commercial enterprise, or any individual segment thereof, and
+&emsp;(2) taken as a whole, be designed so as not to impose an unreasonably disproportionateshare of the burden of restrictions on energy use on any specific class of industry, business, or commercial enterprise, or any individual segment thereof, and
 
 &emsp;(3) not contain any measure which the Secretary finds—
 
@@ -94,7 +94,7 @@ The plan established under subsection (a) of this section shall—
 
 Section 753 of title 15, referred to in subsec. (a)(2), was omitted from the Code pursuant to section 760g of Title 15, Commerce and Trade, which provided for the expiration of the President's authority under that section on Sept. 30, 1981.
 
-Section 6263 of this title, referred to in subsec. (h)(3)(D), was omitted from the Code pursuant to section 6264 of this title, which provided for expiration of authority under that section on June 30, 1985.
+Section 6263 of this title, referred to in subsec. (h)(3)(D), was repealed by Pub. L. 106–469, title I, §104(1), Nov. 9, 2000, 114 Stat. 2033.
 
 #### Section Referred to in Other Sections
 

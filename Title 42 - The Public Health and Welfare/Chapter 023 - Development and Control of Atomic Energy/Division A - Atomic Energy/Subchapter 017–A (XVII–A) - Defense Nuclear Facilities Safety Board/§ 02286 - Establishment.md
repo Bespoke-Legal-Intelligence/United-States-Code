@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is hereby established an independent establishment in the executive branch, to be known as the “Defense Nuclear Facilities Safety Board” (hereafter in this subchapter referred to as the “Board”).
+There is hereby established an independent establishment in the executive branch, to beknown as the “Defense Nuclear Facilities Safety Board” (hereafter in this subchapter referred to as the “Board”).
 
 #### (b) Membership
 

@@ -18,7 +18,7 @@
 
 (d) Chiropractors who are qualified under regulations prescribed by the Secretary of the Army may be appointed as commissioned officers in the Chiropractic Section of the Army Medical Specialist Corps.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 169; Pub. L. 85–155, title I, §101(2), Aug. 21, 1957, 71 Stat. 375; Pub. L. 87–649, §6(b)(2), (3), Sept. 7, 1962, 76 Stat.494; Pub. L. 89–609, §1(2), (3), Sept. 30, 1966, 80 Stat. 852; Pub. L. 90–130, §1(8)(B), Nov. 8, 1967, 81 Stat. 374; Pub. L. 102–190, div. A, title V, §551(a), Dec. 5, 1991, 105 Stat. 1370; Pub. L. 102–484, div. A, title V, §505(a), Oct. 23, 1992, 106 Stat. 2404.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 169; Pub. L. 85–155, title I, §101(2), Aug. 21, 1957, 71 Stat. 375; Pub. L. 87–649, §6(b)(2), (3), Sept. 7, 1962, 76 Stat. 494; Pub. L. 89–609, §1(2), (3), Sept. 30, 1966, 80 Stat. 852; Pub. L. 90–130, §1(8)(B), Nov. 8, 1967, 81 Stat. 374; Pub. L. 102–190, div. A, title V, §551(a), Dec. 5, 1991, 105 Stat. 1370; Pub. L. 102–484, div. A, title V, §505(a), Oct. 23, 1992, 106 Stat. 2404.)
 
 Historical and Revision Notes
 
@@ -111,10 +111,4 @@ Section 551(d) of Pub. L. 102–190 provided that:
 #### Authority To Suspend Mandatory Retirement, Discharge, Separation, or Transfer From Active Status
 
 Section 4(a) of Pub. L. 90–130 authorized Secretary of the Army to suspend operation of any provision of law relating to mandatory retirement, discharge, separation, or transfer from an active status of an officer of Army Nurse Corps, Army Medical Specialist Corps, or Woman's Army Corps for a period of five years following Nov. 8, 1967.
-
-#### Cross References
-
-Chiefs of branches, generally, see section 3036 of this title.
-
-Deputy and assistant chiefs of branches, see section 3039 of this title.
 

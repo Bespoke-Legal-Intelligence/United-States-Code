@@ -16,10 +16,6 @@ The purposes of this chapter are as follows:
 
 Section 11 of Pub. L. 99–652, as added by Pub. L. 103–321, §2(h), Aug. 26, 1994, 108 Stat. 1795, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Commemorative Works Act’.”
 
-#### Cross References
-
-National and international monuments and memorials, see section 431 et seq. of Title 16, Conservation.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1003 of this title.

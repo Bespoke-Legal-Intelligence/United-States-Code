@@ -16,7 +16,7 @@ Not later than 90 days after October 22, 1999, the Comptroller General of the Un
 
 The Comptroller General shall include in the report an analysis of—
 
-&emsp;(1) burdens on and obstructions to commerce in swine, pork, and pork products by packers,and other persons that enter into arrangements with the packers, that are contrary to, or do not protect, the public interest;
+&emsp;(1) burdens on and obstructions to commerce in swine, pork, and pork products by packers, and other persons that enter into arrangements with the packers, that are contrary to, or do not protect, the public interest;
 
 &emsp;(2) noncompetitive pricing arrangements between or among packers, or other persons involved in the processing, distribution, or sale of pork and pork products, including arrangements provided for in contracts for the purchase of swine;
 

@@ -1,0 +1,16 @@
+### §5165a. Minimum standards for public and private structures
+
+#### (a) In general
+
+As a condition of receipt of a disaster loan or grant under this chapter—
+
+&emsp;(1) the recipient shall carry out any repair or construction to be financed with the loan or grant in accordance with applicable standards of safety, decency, and sanitation and in conformity with applicable codes, specifications, and standards; and
+
+&emsp;(2) the President may require safe land use and construction practices, after adequate consultation with appropriate State and local government officials.
+
+#### (b) Evidence of compliance
+
+A recipient of a disaster loan or grant under this chapter shall provide such evidence of compliance with this section as the President may require by regulation.
+
+(Pub. L. 93–288, title III, §323, as added Pub. L. 106–390, title I, §104(a), Oct. 30, 2000, 114 Stat. 1559.)
+

@@ -23,6 +23,7 @@
 | (b) | Index. |
 | (c) | Exceptions. |
 | (d) | Information obtained for committees and Members. |
+| (e) | Level of confidentiality. |
 | [604\.](%C2%A7%2000604%20-%20Omitted.md) | Omitted. |
 | [605\.](%C2%A7%2000605%20-%20Sale%20or%20lease%20of%20property%2C%20supplies%2C%20or%20services.md) | Sale or lease of property, supplies, or services. |
 | [606\.](%C2%A7%2000606%20-%20Disposition%20of%20surplus%20or%20obsolete%20property.md) | Disposition of surplus or obsolete property. |

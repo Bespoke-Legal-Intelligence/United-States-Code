@@ -26,5 +26,5 @@ Any official who is serving as Assistant Secretary of Agriculture for Food and C
 
 #### Codification
 
-Section is comprised of section 241 of Pub. L. 103–354. Subsec. (e) of section 241 of Pub. L. 103–354 amendedsection 5314 of Title 5, Government Organization and Employees.
+Section is comprised of section 241 of Pub. L. 103–354. Subsec. (e) of section 241 of Pub. L. 103–354 amended section 5314 of Title 5, Government Organization and Employees.
 

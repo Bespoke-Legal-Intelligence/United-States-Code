@@ -8,7 +8,7 @@ Except as provided in subsection (b) of this section, the provisions of this sub
 
 (1) This section shall not apply with respect to any cause of action which arose, or any act or omission which occurred, before January 1, 1975.
 
-(2)(A) Except as provided in subparagraph (B), nothing in this subchapter shall be construed to exempt or relieve any person from any law of any State which regulates insurance, banking, or securities.
+(2)(A) Except as provided in subparagraph (B), nothing in this subchapter shall be construed toexempt or relieve any person from any law of any State which regulates insurance, banking, or securities.
 
 (B) Neither an employee benefit plan described in section 1003(a) of this title, which is not exempt under section 1003(b) of this title (other than a plan established primarily for the purpose of providing death benefits), nor any trust established under such a plan, shall be deemed to be an insurance company or other insurer, bank, trust company, or investment company or to be engaged in the business of insurance or banking for purposes of any law of any State purporting to regulate insurance companies, insurance contracts, banks, trust companies, or investment companies.
 
@@ -144,7 +144,7 @@ Secretary authorized, effective Sept. 2, 1974, to promulgate regulations whereve
 
 #### Plan Amendments Not Required Until January 1, 1994
 
-For provisions setting forth circumstances under which any amendment to a plan required to be made by an amendment made by section 4301 of Pub. L. 103–66 shall not be required to be made before the first plan year beginning on or after Jan. 1, 1994, see section 4301(d) of Pub. L. 103–66, set out as an Effective Date of 1993 Amendment note under section 1021 of this title.
+For provisions setting forth circumstances under which any amendment to a plan required to be made byan amendment made by section 4301 of Pub. L. 103–66 shall not be required to be made before the first plan year beginning on or after Jan. 1, 1994, see section 4301(d) of Pub. L. 103–66, set out as an Effective Date of 1993 Amendment note under section 1021 of this title.
 
 #### Treatment of Other State Laws
 

@@ -6,7 +6,3 @@
 
 (June 27, 1952, ch. 477, title II, ch. 9, §282, 66 Stat. 231.)
 
-#### Cross References
-
-Definition of Attorney General, see section 1101 of this title.
-

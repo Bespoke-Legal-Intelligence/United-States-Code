@@ -34,7 +34,7 @@ The Secretary shall make a direct grant to the Education Council in order to ena
 
 #### (1) In general
 
-&emsp;The Education Council shall provide copies of any reports and recommendations issued bythe Education Council to the Secretary, the Committee on Indian Affairs of the Senate, and the Committee on Education and Labor of the House of Representatives, including any information that the Education Council provides to the Secretary pursuant to subsection (i) of this section.
+&emsp;The Education Council shall provide copies of any reports and recommendations issued by the Education Council to the Secretary, the Committee on Indian Affairs of the Senate, and the Committee on Education and Labor of the House of Representatives, including anyinformation that the Education Council provides to the Secretary pursuant to subsection (i) of this section.
 
 #### (2) Annual report
 

@@ -10,7 +10,3 @@ Act of June 4, 1936, chapter 494, section 1, 49 Stat. 1460, referred to in text,
 
 Act of Congress approved June 9, 1916, referred to in text, was not classified to the Code.
 
-#### Cross References
-
-Administration, management and consolidation of certain lands, provisions as affecting this section, see section 521a of this title.
-

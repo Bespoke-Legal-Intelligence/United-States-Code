@@ -20,7 +20,7 @@ In addition to services described in subsection (c) of section 290ff–1 of this
 
 #### (b) Comprehensive plan
 
-The Secretary may make a grant under section 290ff(a) of this title only if, with respect tothe jurisdiction of the public entity involved, the entity has submitted to the Secretary, and has had approved by the Secretary, a plan for the development of a jurisdiction-wide system of care for community-based services for children with a serious emotional disturbance that specifies the progress the public entity has made in developing the jurisdiction-wide system, the extent of cooperation across agencies serving children in the establishment of the system, the Federal and non-Federal resources currently committed to the establishment of the system, and the current gaps in community services and the manner in which the grant under section 290ff(a) of this title will be expended to address such gaps and establish local systems of care.
+The Secretary may make a grant under section 290ff(a) of this title only if, with respect to the jurisdiction of the public entity involved, the entity has submitted to the Secretary, and has had approved by the Secretary, a plan for the development of a jurisdiction-wide system of care for community-based services for children with a serious emotional disturbance that specifies the progress the public entity has made in developing the jurisdiction-wide system, the extent of cooperation across agencies serving children in the establishment of the system, the Federal and non-Federal resources currently committed to the establishment of the system, and the current gaps in community services and the manner in which the grant under section 290ff(a) of this title will be expended to address such gaps and establish local systems of care.
 
 #### (c) Limitation on imposition of fees for services
 
@@ -30,7 +30,7 @@ A funding agreement for a grant under section 290ff(a) of this title is that, if
 
 &emsp;(2) will be adjusted to reflect the income of the family of the child involved; and
 
-&emsp;(3) will not be imposed on any child whose family has income and resources of equal to or less than 100 percent of the official poverty line, as established by the Director of the Office of Management and Budget and revised by the Secretary in accordance with section 9902(2) of this title.
+&emsp;(3) will not be imposed on any child whose family has income and resources of equal to or less than 100 percent of the official poverty line, as established by the Director of the Office of Management and Budget and revised bythe Secretary in accordance with section 9902(2) of this title.
 
 #### (d) Relationship to items and services under other programs
 

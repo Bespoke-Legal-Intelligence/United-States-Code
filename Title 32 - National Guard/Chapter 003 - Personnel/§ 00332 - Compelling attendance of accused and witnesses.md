@@ -28,7 +28,3 @@ June 3, 1916, ch. 134, §108, (1st par.), 39 Stat. 209.
 
 The words “Federal service” are substituted for the words “service of the United States”. The word “may” is substituted for the words “shall have power”. The words “for the arrest of any accused person who, having been served with a warrant and a copy of the charges, disobeys a written order” are substituted for the words “to arrest accused persons and to bring them before the court for trial whenever such persons shall have disobeyed an order in writing \* \* \* a copy of the charge or charges having been delivered to the accused with such order”.
 
-#### Cross References
-
-Apprehension and restraint of persons subject to Uniform Code of Military Justice, see sections 807 to 814 of Title 10, Armed Forces.
-

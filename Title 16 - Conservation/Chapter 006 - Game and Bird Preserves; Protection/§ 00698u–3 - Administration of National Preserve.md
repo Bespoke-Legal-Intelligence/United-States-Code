@@ -58,7 +58,7 @@ The Preserve shall be a unit of the National Park System for all purposes, inclu
 
 &emsp;The general management plan shall provide for the following:
 
-&emsp;&emsp;(A) Maintaining and enhancing the tall grass prairie within the boundaries of the Preserve.
+&emsp;&emsp;(A) Maintaining and enhancing the tallgrass prairie within the boundaries of the Preserve.
 
 &emsp;&emsp;(B) Public access and enjoyment of the property that is consistent with the conservation and proper management of the historical, cultural, and natural resources of the ranch.
 
@@ -82,11 +82,17 @@ The Preserve shall be a unit of the National Park System for all purposes, inclu
 
 &emsp;As part of the development of the general management plan, the Secretary shall prepare a financial analysis indicating how the management of the Preserve may be fully supported through fees, private donations, and other forms of non-Federal funding.
 
-(Pub. L. 104–333, div. I, title X, §1005, Nov. 12, 1996, 110 Stat. 4205.)
+(Pub. L. 104–333, div. I, title X, §1005, Nov. 12, 1996, 110 Stat. 4205; Pub. L. 106–176, title I, §122(3), Mar. 10, 2000, 114 Stat. 29.)
 
 #### References in Text
 
 The Federal Tort Claims Act, referred to in subsec. (d)(1), is classified generally to section 1346(b) and chapter 171 (§2671 et seq.) of Title 28, Judiciary and Judicial Procedure.
+
+#### Amendments
+
+2000—Subsec. (d)(1). Pub. L. 106–176, §122(3)(A), made technical amendment to reference in original act which appears in text as reference to sections 698u to 698u–7 of this title.
+
+Subsec. (g)(3)(A). Pub. L. 106–176, §122(3)(B), substituted “the tallgrass prairie” for “the tall grass prairie”.
 
 #### Section Referred to in Other Sections
 

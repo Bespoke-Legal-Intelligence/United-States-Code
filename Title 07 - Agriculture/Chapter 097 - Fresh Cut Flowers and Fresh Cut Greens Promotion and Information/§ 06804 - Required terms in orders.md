@@ -68,7 +68,7 @@ An order shall contain the terms and provisions specified in this section.
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) in the domestic production, for sale in commerce, of cut flowers or cut greens and that owns or shares in the ownership and risk of loss of the cut flowers or cut greens; or
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) as a first processor of noncultivated cut greens, in receiving the cut greens from a person who gathers the cut greens for handling; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) as a first processor of noncultivated cut greens, in receiving the cutgreens from a person who gathers the cut greens for handling; and
 
 &emsp;&emsp;&emsp;&emsp;(II) is subject to assessments as a qualified handler under the order.
 
@@ -246,7 +246,7 @@ The order shall define the general responsibilities of the PromoFlor Council, wh
 
 #### (A) In general
 
-&emsp;&emsp;To ensure efficient use of funds, the order shall provide that the PromoFlor Council, with the approval of the Secretary, may enter into a contract or an agreement for the implementation of a plan or project for promotion, consumer information, or related research with respect to cut flowers or cut greens, and for the payment of the cost of the contract or agreement with funds received by the PromoFlor Council under the order.
+&emsp;&emsp;To ensure efficient use of funds, the order shall provide that the PromoFlor Council,with the approval of the Secretary, may enter into a contract or an agreement for the implementation of a plan or project for promotion, consumer information, or related research with respect to cut flowers or cut greens, and for the payment of the cost of the contract or agreement with funds received by the PromoFlor Council under the order.
 
 #### (B) Requirements
 
@@ -268,7 +268,7 @@ The order shall define the general responsibilities of the PromoFlor Council, wh
 
 #### (2) Other contracts and agreements
 
-&emsp;The order shall provide that the PromoFlor Council may enter into a contract or agreement for administrative services. Any contract or agreement entered into under thisparagraph shall include provisions comparable to the provisions described in paragraph (1)(B).
+&emsp;The order shall provide that the PromoFlor Council may enter into a contract or agreement for administrative services. Any contract or agreement entered into under this paragraph shall include provisions comparable to the provisions described in paragraph (1)(B).
 
 #### (f) Books and records of PromoFlor Council
 
@@ -350,7 +350,7 @@ The order shall provide that the PromoFlor Council shall, as soon as practicable
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;After the first 3 years the order is in effect, the uniform assessment rate may beincreased or decreased annually by not more than .25 percent of—
+&emsp;&emsp;&emsp;After the first 3 years the order is in effect, the uniform assessment rate may be increased or decreased annually by not more than .25 percent of—
 
 &emsp;&emsp;&emsp;&emsp;(I) the gross sales price of a product sold; or
 
@@ -404,7 +404,7 @@ The order shall provide that the PromoFlor Council shall, as soon as practicable
 
 &emsp;&emsp;&emsp;&emsp;(II) The refund shall be made only on submission of proof satisfactory to the PromoFlor Council that the qualified handler paid the assessment for which the refund is demanded.
 
-&emsp;&emsp;&emsp;&emsp;(III) If the amount in the escrow account required under subparagraph (A) is not sufficient to refund the total amount of assessments demanded by all qualified handlers determined eligible for refunds and the order is not approved in the referendum on the order under section 6806(a) of this title, the PromoFlor Council shall prorate the amount of all such refunds among all eligible qualified handlers that demand the refund.
+&emsp;&emsp;&emsp;&emsp;(III) If the amount in the escrow account required under subparagraph (A) is not sufficient to refund the total amount of assessments demanded by all qualified handlers determined eligible for refunds and the order is not approved in the referendum on the order under section6806(a) of this title, the PromoFlor Council shall prorate the amount of all such refunds among all eligible qualified handlers that demand the refund.
 
 #### (C) Program approved
 

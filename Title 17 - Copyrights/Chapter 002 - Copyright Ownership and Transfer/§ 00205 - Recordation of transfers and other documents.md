@@ -34,7 +34,7 @@ Priority Between Conflicting Transfer of Ownership and Nonexclusive License.—A
 
 I74house report no. 94–1476
 
-The recording and priority provisions of section 205 are intended to clear up a number of uncertainties arising from sections 30 and 31 of the present law \[sections 30 and 31 of former title 17\] and to make them more effective and practical in operation. Any “document pertaining to a copyright” may be recorded under subsection (a) if it “bears that actual signature of the person who executed it,” or if it is appropriately certified as a true copy. However, subsection (c) makes clear that the recorded document will give constructive notice of its contents only if two conditions are met: (1) the document or attached material specifically identifies the work to which it pertains so that a reasonable search under the title or registration number would reveal it, and (2) registration has been made for the work. Moreover, even though the Register of Copyrights maybe compelled to accept for recordation documents that on their face appear self-serving or colorable, the Register should take care that their nature is not concealed from the public in the Copyright Office's indexing and search reports.
+The recording and priority provisions of section 205 are intended to clear up a number of uncertainties arising from sections 30 and 31 of the present law \[sections 30 and 31 of former title 17\] and to make them more effective and practical in operation. Any “document pertaining to a copyright” may be recorded under subsection (a) if it “bears that actual signature of the person who executed it,” or if it is appropriately certified as a true copy. However, subsection (c) makes clear that the recorded document will give constructive notice of its contents only if two conditions are met: (1) the document or attached material specifically identifies the work to which it pertains so that a reasonable search under the title or registration number would reveal it, and (2) registration has been made for the work. Moreover, even though the Register of Copyrights may be compelled to accept for recordation documents that on their face appear self-serving or colorable, the Register should take care that their nature is not concealed from the public in the Copyright Office's indexing and search reports.
 
 The provisions of subsection (d), requiring recordation of transfers as a prerequisite to the institution of an infringement suit, represent a desirable change in the law. The one- and three-month grace periods provided in subsection (e) are a reasonable compromise between those who want a longer hiatus and those who argue that any grace period makes it impossible for a bona fide transferee to rely on the record at any particular time.
 
@@ -58,7 +58,7 @@ In General.—The Register of Copyrights is authorized, upon receipt of any docu
 
 “(b)
 
-Maintenance of Records; Publication of Information.—The Register of Copyrights is authorized to maintain current, separate records relating to the recordation of documents under subsection (a), and to compile and publish at periodic intervals information relating to such recordations. Such publications shall be offered for sale to the public at prices based on the cost of reproduction and distribution.
+Maintenance of Records; Publication of Information.—The Register of Copyrights is authorizedto maintain current, separate records relating to the recordation of documents under subsection (a), and to compile and publish at periodic intervals information relating to such recordations. Such publications shall be offered for sale to the public at prices based on the cost of reproduction and distribution.
 
 “(c)
 
@@ -71,12 +71,6 @@ Regulations.—The Register of Copyrights is authorized to establish regulations
 #### Registration of Claims to Copyrights and Recordation of Assignments of Copyrights and Other Instruments Under Predecessor Provisions
 
 Recordation of assignments of copyrights or other instruments received in the Copyright Office before Jan. 1, 1978, to be made in accordance with this title as it existed on Dec. 31, 1977, see section 109 of Pub. L. 94–553, set out as a note under section 410 of this title.
-
-#### Cross References
-
-Copyright infringement action as subject to requirements of this section, see section 501 of this title.
-
-Fee for recordation of a transfer of copyright ownership, see section 708 of this title.
 
 #### Section Referred to in Other Sections
 

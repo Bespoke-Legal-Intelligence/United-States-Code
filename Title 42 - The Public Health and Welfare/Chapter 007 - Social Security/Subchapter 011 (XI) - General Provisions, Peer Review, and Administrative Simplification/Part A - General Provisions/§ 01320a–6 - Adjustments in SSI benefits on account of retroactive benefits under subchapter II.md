@@ -42,7 +42,7 @@ Amendment by section 321(f)(3)(B)(ii) of Pub. L. 103–296 effective as if inclu
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 applicable with respect to determinations made on or after July 1, 1991,and to reimbursement for travel expenses incurred on or after Apr. 1, 1991, see section 5106(d), of Pub. L. 101–508, set out as a note under section 401 of this title.
+Amendment by Pub. L. 101–508 applicable with respect to determinations made on or after July 1, 1991, and to reimbursement for travel expenses incurred on or after Apr. 1, 1991, see section 5106(d), of Pub. L. 101–508, set out as a note under section 401 of this title.
 
 #### Effective Date of 1984 Amendment
 

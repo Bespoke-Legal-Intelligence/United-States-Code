@@ -2,7 +2,7 @@
 
 #### (a) Establishment and coordination of Federal agency actions
 
-(1) The President shall, to the extent of his authority under other law, establish or coordinate Federal agency actions to develop mandatory standards with respect to energy conservation and energy efficiency to govern the procurement policies and decisions of the Federal Government and all Federal agencies, and shall take such steps as are necessary to cause such standards to be implemented.
+(1) The President shall, to the extent of his authority under other law, establish or coordinate Federal agency actions to develop mandatory standards with respect to energy conservation and energy efficiency to govern the procurement policies and decisions of the Federal Government and all Federal agencies, and shall takesuch steps as are necessary to cause such standards to be implemented.
 
 (2) The President shall develop and, to the extent of his authority under other law, implement a 10-year plan for energy conservation with respect to buildings owned or leased by an agency of the United States. Such plan shall include mandatory lighting efficiency standards, mandatory thermal efficiency standards and insulation requirements, restrictions on hours of operation, thermostat controls, and other conditions of operation, and plans for replacing or retrofitting to meet such standards.
 
@@ -20,9 +20,7 @@
 
 &emsp;(B) The term “van pooling arrangement” means an arrangement for the transportation of employees between their residences or other designated locations and their place of employment on a nonprofit basis in which the operating costs of such arrangement are paid for by the employees utilizing such arrangement.
 
-#### (c) Report to Congress
-
-The Secretary shall include in the report required under section 8258(b) of this title the steps taken under subsections (a) and (b) of this section.
+#### (c) Omitted
 
 #### (d) Applicability of plan to Executive agencies
 
@@ -30,9 +28,13 @@ The plan developed by the President pursuant to subsection (a)(2) of this sectio
 
 #### (e) Authorization of appropriations
 
-In addition to funds authorized in any other law, there is authorized to be appropriated to the President for fiscal year 1978 not to exceed $25,000,000, and for fiscal year 1979 not to exceed$50,000,000, to carry out the purposes of subsection (a)(2) of this section.
+In addition to funds authorized in any other law, there is authorized to be appropriated to the President for fiscal year 1978 not to exceed $25,000,000, and for fiscal year 1979 not to exceed $50,000,000, to carry out the purposes of subsection (a)(2) of this section.
 
 (Pub. L. 94–163, title III, §381, Dec. 22, 1975, 89 Stat. 939; Pub. L. 95–619, title V, §501, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3275, 3288; Pub. L. 100–615, §2(b), Nov. 5, 1988, 102 Stat. 3189.)
+
+#### Codification
+
+Subsec. (c) of this section, which required the Secretary to include in the report required under section 8258(b) of this title the steps taken under subsecs. (a) and (b) of this section, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, the 13th item on page 19 and the 3rd item on page 138 of House Document No. 103–7.
 
 #### Amendments
 

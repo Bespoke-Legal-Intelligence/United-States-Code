@@ -10,7 +10,7 @@ As used in this chapter—
 
 (d) The term “commerce” shall mean commerce among the several States of the United States or with foreign nations, or in any Territory of the United States or in the District of Columbia, or among the Territories or between any Territory and any State or foreign nation, or between the District of Columbia and any State or Territory or foreign nation.
 
-(e) The term “good faith” shall mean the duty of each party to any franchise, and all officers, employees, or agents thereof to act in a fair and equitable manner toward each other so as to guarantee the one party freedom from coercion, intimidation, or threats of coercion or intimidation from the other party: <i>Provided</i>, That recommendation, endorsement, exposition, persuasion, urging or argument shall not be deemed to constitute a lack of good faith.
+(e) The term “good faith” shall mean the duty of each party to any franchise, and all officers, employees, or agents thereof to act in a fair and equitable manner toward each other so as to guarantee the one party freedom from coercion, intimidation, or threats of coercion or intimidation from the other party: <i>Provided</i>, That recommendation, endorsement, exposition, persuasion,urging or argument shall not be deemed to constitute a lack of good faith.
 
 (Aug. 8, 1956, ch. 1038, §1, 70 Stat. 1125.)
 

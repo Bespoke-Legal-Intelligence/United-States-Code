@@ -62,9 +62,5 @@ Section 999, Pub. L. 93–203, title VIII, §809, as added Pub. L. 95–524, §2
 
 A prior section 809 of Pub. L. 93–203, title VIII, as added Pub. L. 95–93, title I, §101, Aug. 5, 1977, 91 Stat. 631, which related to a transfer of funds pursuant to an interagency agreement, was formerly classified to section 993h of this title prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
-#### Effective Date of Repeal
-
-Section 184(a) of Pub. L. 97–300 provided that the repeal of these sections is effective Oct. 13, 1982.
-
 &nbsp;
 

@@ -4,7 +4,7 @@
 
 (b)(1) The Director shall prescribe, determine, and certify the qualifications of persons who may serve as certified interpreters, when the Director considers certification of interpreters to be merited, for the hearing impaired (whether or not also speech impaired) and persons who speak only or primarily a language other than the English language, in judicial proceedings instituted by the United States. The Director may certify interpreters for any language if the Director determines that there is a need for certified interpreters in that language. Upon the request of the Judicial Conference of the United States for certified interpreters in a language, the Director shall certify interpreters in that language. Upon such a request from the judicial council of a circuit and the approval of the Judicial Conference, the Director shall certify interpreters for that circuit in the language requested. The judicial council of a circuit shall identify and evaluate the needs of the districts within a circuit. The Director shall certify interpreters based on the results of criterion-referenced performance examinations. The Director shall issue regulations to carry out this paragraph within 1 year after the date of the enactment of the Judicial Improvements and Access to Justice Act.
 
-(2) Only in a case in which no certified interpreter is reasonably available as provided in subsection (d) of this section, including a case in which certification of interpreters is not provided under paragraph (1) in a particular language, may the services of otherwise qualified interpreters be used. The Director shall provide guidelines to the courts for the selection of otherwise qualified interpreters, in order to ensure that the highest standards of accuracy are maintained in all judicial proceedings subject to the provisions of this chapter.
+(2) Only in a case in which no certified interpreter is reasonably available as provided insubsection (d) of this section, including a case in which certification of interpreters is not provided under paragraph (1) in a particular language, may the services of otherwise qualified interpreters be used. The Director shall provide guidelines to the courts for the selection of otherwise qualified interpreters, in order to ensure that the highest standards of accuracy are maintained in all judicial proceedings subject to the provisions of this chapter.
 
 (3) The Director shall maintain a current master list of all certified interpreters and otherwise qualified interpreters and shall report periodically on the use and performance of both certified and otherwise qualified interpreters in judicial proceedings instituted by the United States and on the languages for which interpreters have been certified. The Director shall prescribe, subject to periodic review, a schedule of reasonable fees for services rendered by interpreters, certified or otherwise, used in proceedings instituted by the United States, and in doing so shall consider the prevailing rate of compensation for comparable service in other governmental entities.
 
@@ -44,7 +44,7 @@
 
 (h) The presiding judicial officer shall approve the compensation and expenses payable to interpreters, pursuant to the schedule of fees prescribed by the Director under subsection (b)(3).
 
-(i) The term “presiding judicial officer” as used in this section refers to any judge of a United States district court, including a bankruptcy judge, a United States magistrate, and in the case of grand jury proceedings conducted under the auspices of the United States attorney, a United States attorney.
+(i) The term “presiding judicial officer” as used in this section refers to any judge of a United States district court, including a bankruptcy judge, a United States magistrate judge, and in the case of grand jury proceedings conducted under the auspices of the United States attorney, a United States attorney.
 
 (j) The term “judicial proceedings instituted by the United States” as used in this section refers to all proceedings, whether criminal or civil, including pretrial and grand jury proceedings (as well as proceedings upon a petition for a writ of habeas corpus initiated in the name of the United States by a relator) conducted in, or pursuant to the lawful authority and jurisdiction of a United States district court. The term “United States district court” as used in this subsection includes any court which is created by an Act of Congress in a territory and is invested with any jurisdiction of a district court established by chapter 5 of this title.
 
@@ -52,7 +52,7 @@
 
 (<i>l</i>) Notwithstanding any other provision of this section or section 1828, the presiding judicial officer may appoint a certified or otherwise qualified sign language interpreter to provide services to a party, witness, or other participant in a judicial proceeding, whether or not the proceeding is instituted by the United States, if the presiding judicial officer determines, on such officer's own motion or on the motion of a party or other participant in the proceeding, that such individual suffers from a hearing impairment. The presiding judicial officer shall, subject to the availability of appropriated funds, approve the compensation and expenses payable to sign language interpreters appointed under this section in accordance with the schedule of fees prescribed by the Director under subsection (b)(3) of this section.
 
-(Added Pub. L. 95–539, §2(a), Oct. 28, 1978, 92 Stat. 2040; amended Pub. L. 100–702, title VII, §§702–710, Nov. 19, 1988, 102 Stat. 4654–4657; Pub. L. 104–317, title III, §306, title IV, §402(a), Oct. 19, 1996, 110 Stat. 3852, 3854.)
+(Added Pub. L. 95–539, §2(a), Oct. 28, 1978, 92 Stat. 2040; amended Pub. L. 100–702, title VII, §§702–710, Nov. 19, 1988, 102 Stat. 4654–4657; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 104–317, title III, §306, title IV, §402(a), Oct. 19, 1996, 110 Stat. 3852, 3854.)
 
 #### References in Text
 
@@ -64,13 +64,13 @@ The effective date of this paragraph, referred to in subsec. (g)(5), is the effe
 
 #### Amendments
 
-1996—Subsec. (g)(5), (6). Pub. L. 104–317, §402(a), added par. (5) and redesignated former par. (5) as (6).
+<b>1996</b>—Subsec. (g)(5), (6). Pub. L. 104–317, §402(a), added par. (5) and redesignated former par. (5) as (6).
 
 Subsec. (<i>l</i>). Pub. L. 104–317, §306, added subsec. (<i>l</i>).
 
-1988—Subsec. (a). Pub. L. 100–702, §702, amended subsec. (a) generally, substituting “certified and otherwise qualified interpreters in judicial proceedings instituted by the United States” for “interpreters in courts of the United States”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–702, §702, amended subsec. (a) generally, substituting “certified and otherwise qualified interpreters in judicial proceedings instituted by the United States” for “interpreters in courts of the United States”.
 
-Subsec. (b). Pub. L. 100–702, §703, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Director shall prescribe, determine, and certify the qualifications of persons who may serve as certified interpreters in courts of the United States in bilingual proceedings and proceedings involving the hearing impaired (whether or not also speech impaired), and in so doing, the Director shall consider the education, training, and experience of those persons. The Director shall maintain a current master list of all interpreters certified by the Director and shall report annually onthe frequency of requests for, and the use and effectiveness of, interpreters. The Director shall prescribe a schedule of fees for services rendered by interpreters.”
+Subsec. (b). Pub. L. 100–702, §703, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Director shall prescribe, determine, and certify the qualifications of persons who may serve as certified interpreters in courts of the United States in bilingual proceedings and proceedings involving the hearing impaired (whether or not also speech impaired), and in so doing, the Director shall consider the education, training, and experience of those persons. The Director shall maintain a current master list of all interpreters certified by the Director and shall report annually on the frequency of requests for, and the use and effectiveness of, interpreters. The Director shall prescribe a schedule of fees for services rendered by interpreters.”
 
 Subsec. (c). Pub. L. 100–702, §704, amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Each United States district court shall maintain on file in the office of the clerk of court a list of all persons who have been certified as interpreters, including bilingual interpreters and oral or manual interpreters for the hearing impaired (whether or not also speech impaired), by the Director of the Administrative Office of the United States Courts in accordance with the certification program established pursuant to subsection (b) of this section.”
 
@@ -98,7 +98,7 @@ Subsec. (k). Pub. L. 100–702, §709, amended subsec. (k) generally. Prior to a
 
 #### Change of Name
 
-Reference to United States magistrate or to magistrate deemed to refer to United States magistrate judge pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of this title.
+“United States magistrate judge” substituted for “United States magistrate” in subsec. (i) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of this title.
 
 #### Effective Date of 1988 Amendment
 

@@ -14,7 +14,7 @@ Agreements entered into under this section in any 1-year period shall not provid
 
 #### (c) Maximum reduction in duties
 
-(1) No proclamation shall be made pursuant to subsection (a) of this section decreasing anyrate of duty to a rate which is less than 80 percent of the existing rate of duty.
+(1) No proclamation shall be made pursuant to subsection (a) of this section decreasing any rate of duty to a rate which is less than 80 percent of the existing rate of duty.
 
 (2) No proclamation shall be made pursuant to subsection (a) of this section decreasing or increasing any rate of duty to a rate which is lower or higher than the corresponding rate which would have resulted if the maximum authority granted by section 2111 of this title with respect to such article had been exercised.
 

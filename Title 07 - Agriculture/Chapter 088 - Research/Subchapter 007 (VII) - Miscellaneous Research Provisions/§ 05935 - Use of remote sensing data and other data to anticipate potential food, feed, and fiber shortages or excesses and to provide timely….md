@@ -26,5 +26,27 @@ The authorities provided by this section shall expire 5 years after April 4, 199
 
 #### Codification
 
-Section was enacted as part of the Federal Agriculture Improvement and Reform Act of 1996, and not as part of subtitle H of title XVI of the Food, Agriculture, Conservation, and Trade Act of 1990 which comprises this subchapter.
+Section was enacted as part of the Federal Agriculture Improvement and Reform Act of 1996, and notas part of subtitle H of title XVI of the Food, Agriculture, Conservation, and Trade Act of 1990 which comprises this subchapter.
+
+#### Remote Sensing for Agricultural and Resource Management
+
+Pub. L. 106–391, title III, §316, Oct. 30, 2000, 114 Stat. 1596, provided that:
+
+“(a)
+
+Information Development.—The Administrator \[of the National Aeronautics and Space Administration\] shall—
+
+&emsp;“(1) consult with the Secretary of Agriculture to determine data product types that are of use to farmers which can be remotely sensed from air or space;
+
+&emsp;“(2) consider useful commercial data products related to agriculture as identified by the focused research program between the National Aeronautics and Space Administration's Stennis Space Center and the Department of Agriculture; and
+
+&emsp;“(3) examine other data sources, including commercial sources, LightSAR, RADARSAT I, and RADARSAT II, which can provide domestic and international agricultural information relating to crop conditions, fertilization and irrigation needs, pest infiltration, soil conditions, projected food, feed, and fiber production, and other related subjects.
+
+“(b)
+
+Plan.—After performing the activities described in subsection (a) the Administrator shall, in consultation with the Secretary of Agriculture, develop a plan to inform farmers and other prospective users about the use and availability of remote sensing products that may assist with agricultural and forestry applications identified in subsection (a). The Administrator shall transmit such plan to the Congress not later than 180 days after the date of the enactment of this Act \[Oct. 30, 2000\].
+
+“(c)
+
+Implementation.—Not later than 90 days after the plan has been transmitted under subsection (b), the Administrator shall implement the plan.”
 

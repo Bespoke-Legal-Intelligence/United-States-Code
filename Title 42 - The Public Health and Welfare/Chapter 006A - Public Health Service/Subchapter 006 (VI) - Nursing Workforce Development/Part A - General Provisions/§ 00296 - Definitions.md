@@ -34,7 +34,7 @@ As used in this subchapter:
 
 #### (7) Nonprofit
 
-&emsp;The term “nonprofit” as applied to any school, agency, organization, or institution means one which is a corporation or association, or is owned and operated by one or more corporations or associations, no part of the net earnings of which inures, or may lawfullyinure, to the benefit of any private shareholder or individual.
+&emsp;The term “nonprofit” as applied to any school, agency, organization, or institution means one which is a corporation or association, or is owned and operated by one or more corporations or associations, no part of the net earnings of which inures, or may lawfully inure, to the benefit of any private shareholder or individual.
 
 #### (8) State
 
@@ -48,7 +48,7 @@ A prior section 296, act July 1, 1944, ch. 373, title VIII, §801 as added Sept.
 
 #### Savings Provision
 
-Pub. L. 105–392, title I, §124, Nov. 13, 1998, 112 Stat. 3574, provided that: “In the case of any authority for making awards of grants or contracts that is terminated by the amendment made by section 123 \[enacting sections 296, 296a to 296f, 296j, 296m, 296p, 297q, and 297t of this title, transferring section 298b–2 of this title to section 296g of this title, and repealing sections 296k to 296m, 296r, 297, 297–1, 297c, 298, 298a, 298b, 298b–1, 298b–3 to 298b–5, and 298b–7 of this title\], the Secretary of Health and Human Services may, notwithstanding the termination of the authority, continue in effect any grant or contract made under the authority that is in effect on the day before the date of the enactment of this Act \[Nov. 13, 1998\], subject to the duration of any such grant or contract not exceeding the period determined by the Secretary in first approving such financial assistance, or in approving the most recent request made (before the date of such enactment) for continuation of such assistance, as the case may be.”
+Pub. L. 105–392, title I, §124, Nov. 13, 1998, 112 Stat. 3574, provided that: “In the case of any authority for making awards of grants or contracts that is terminated by the amendment made by section 123 \[enacting sections 296, 296a to 296f, 296j, 296m, 296p, 297q, and 297t of this title, transferring section 298b–2 of this title to section 296g of this title, and repealing sections 296k to 296m, 296r, 297, 297–1, 297c, 298, 298a, 298b, 298b–1, 298b–3 to 298b–5, and 298b–7 of this title\], the Secretary of Health and Human Services may, notwithstanding the termination of the authority, continue in effect anygrant or contract made under the authority that is in effect on the day before the date of the enactment of this Act \[Nov. 13, 1998\], subject to the duration of any such grant or contract not exceeding the period determined by the Secretary in first approving such financial assistance, or in approving the most recent request made (before the date of such enactment) for continuation of such assistance, as the case may be.”
 
 #### Termination of Trust Territory of the Pacific Islands
 

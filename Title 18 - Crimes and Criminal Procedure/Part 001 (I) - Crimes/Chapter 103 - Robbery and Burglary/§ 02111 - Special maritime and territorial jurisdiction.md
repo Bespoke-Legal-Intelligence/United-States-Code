@@ -20,14 +20,6 @@ Minor changes were made in phraseology.
 
 Pub. L. 104–217, §1, Oct. 1, 1996, 110 Stat. 3020, provided that: “This Act \[amending section 2119 of this title\] may be cited as the ‘Carjacking Correction Act of 1996’.”
 
-#### Cross References
-
-Actions aboard aircraft in special aircraft jurisdiction of United States in violation of this section punishable as provided herein, see section 46506 of Title 49, Transportation.
-
-Definition, see section 7 of this title.
-
-High seas, citizens as pirates, see section 1652 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 3559, 5032 of this title; title 49 section 46506.

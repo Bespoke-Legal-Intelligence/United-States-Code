@@ -34,13 +34,13 @@ All educational programs and activities supported with funds provided under this
 
 #### (e) Wages, labor standards, and nondiscrimination
 
-To the extent consistent with the provisions of this part, sections 142, 143 and 167 of the Job Training Partnership Act \[29 U.S.C. 1552, 1553, 1577\] (as in effect on the day before August 7, 1998), relating to wages and benefits, labor standards, and nondiscrimination, shall apply to the programs conducted under this part as if such programs were conducted under the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\] (as in effect on the day before August 7, 1998). This section may not be construed to prevent a recipient of a grant under this part from using funds from non-Federal sources to increase wages and benefits under such programs, if appropriate.
+To the extent consistent with the provisions of this part, sections 142, 143 and 167 of the Job Training Partnership Act (as in effect on the day before August 7, 1998), relating to wages and benefits, labor standards, and nondiscrimination, shall apply to the programs conducted under this part as if such programs were conducted under the Job Training Partnership Act (as in effect on the day before August 7, 1998). This section may not be construed to prevent a recipient of a grant under this part from using funds from non-Federal sources to increase wages and benefits under such programs, if appropriate.
 
 (Pub. L. 101–625, title IV, §456, as added Pub. L. 102–550, title I, §164, Oct. 28, 1992, 106 Stat. 3730; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(43)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–428.)
 
 #### References in Text
 
-The Job Training Partnership Act, referred to in subsec. (e), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, asamended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
+The Job Training Partnership Act, referred to in subsec. (e), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which was classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor, prior to repeal by Pub. L. 105–220, title I, §199(b)(2), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Sections 142, 143, and 167 of the Act were classified to sections 1552, 1553, and 1577, respectively, of Title 29 prior to repeal. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 

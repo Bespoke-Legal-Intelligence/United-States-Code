@@ -16,7 +16,7 @@ Each commissioned officer on the retired list who first became a member of a uni
 
 &emsp;(1) the retired pay base determined under section 1407 of title 10; by
 
-&emsp;(2) the retired pay multiplier determined under section 1409 of such title for the number of years of service that may be credited to the officer under section 1405 of such title as if the officer's service were service as a member of the Armed Forces.
+&emsp;(2) the retired pay multiplier determined under section 1409 of such title for the number of years of service that may be credited to theofficer under section 1405 of such title as if the officer's service were service as a member of the Armed Forces.
 
 #### (c) Treatment of full and fractional parts of months in computing years of service; rounding off
 
@@ -32,7 +32,7 @@ Each commissioned officer on the retired list who first became a member of a uni
 
 #### Amendments
 
-1986—Pub. L. 99–348 amended section generally. Prior to amendment, section provided that each commissioned officer on the retired list was to receive retired pay, in the case of an officer who first became a member of a uniformed service, as defined in section 1407(a)(2) of title 10, before Sept. 8, 1980, at the rate of 21/2 percent of the basic pay of the rank with which retired, or in the case of an officer who first became a member of a uniformed service on or after Sept. 8, 1980, at the rate of 21/2 percent of the monthly retired pay base computed under section 1407(g) of title 10, multiplied by the number of years of service credited, butthat the retired pay so computed was not to exceed 75 percent of the monthly retired pay base, provided for rounding of numbers, and provided for treatment of months of service in addition to the number of full years of service.
+1986—Pub. L. 99–348 amended section generally. Prior to amendment, section provided that each commissioned officer on the retired list was to receive retired pay, in the case of an officer who first became a member of a uniformed service, as defined in section 1407(a)(2) of title 10, before Sept. 8, 1980, at the rate of 21/2 percent of the basic pay of the rank with which retired, or in the case of an officer who first became a member of a uniformed service on or after Sept. 8, 1980, at the rate of 21/2 percent of the monthly retired pay base computed under section 1407(g) of title 10, multiplied by the number of years of service credited, but that the retired pay so computed was not to exceed 75 percent of the monthly retired pay base, provided for rounding of numbers, and provided for treatment of months of service in addition to the number of full years of service.
 
 1983—Subsec. (a). Pub. L. 98–94, §922(c), inserted “Retired pay, if not a multiple of $1, shall be rounded to the next lower multiple of $1.”
 

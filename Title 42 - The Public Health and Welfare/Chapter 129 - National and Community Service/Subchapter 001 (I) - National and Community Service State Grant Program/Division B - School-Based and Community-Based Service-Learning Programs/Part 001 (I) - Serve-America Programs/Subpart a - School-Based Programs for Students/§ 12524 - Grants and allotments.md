@@ -2,7 +2,7 @@
 
 #### (a) Indian tribes and territories
 
-Of the amounts appropriated to carry out this subpart for any fiscal year, the Corporation shall reserve an amount of not more than 3 percent for payments to Indian tribes, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands, to be allotted in accordance with their respective needs. The Corporation may also make payments from such amount to Palau, in accordance with its needs, until such time as the Compact of Free Association with Palau is ratified.
+Of the amounts appropriated to carry out this subpart for any fiscal year, the Corporation shall reserve an amount of not more than 3 percent for payments to Indian tribes, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands, to be allotted in accordance with their respective needs. The Corporation may also make payments from such amount to Palau, in accordance with its needs, until such time asthe Compact of Free Association with Palau is ratified.
 
 #### (b) Grants and allotments through States
 

@@ -6,7 +6,7 @@
 
 (2) In the event that the private corporation terminates or changes the contractor at either or both of the gaseous diffusion plants, the plan sponsor or other appropriate fiduciary of the pension plan covering employees of the prior operating contractor shall arrange for the transfer of all plan assets and liabilities relating to accrued pension benefits of such plan's participants and beneficiaries from such plant to a pension plan sponsored by the new contractor or the private corporation or a joint labor-management plan, as the case may be.
 
-(3) In addition to any obligations arising under the National Labor Relations Act (29 U.S.C. 151 et seq.), any employer (including the privatecorporation if it operates a gaseous diffusion plant without a contractor or any contractor of the private corporation) at a gaseous diffusion plant shall—
+(3) In addition to any obligations arising under the National Labor Relations Act (29 U.S.C. 151 et seq.), any employer (including the private corporation if it operates a gaseous diffusion plant without a contractor or any contractor of the private corporation) at a gaseous diffusion plant shall—
 
 &emsp;(A) abide by the terms of any unexpired collective bargaining agreement covering employees in bargaining units at the plant and in effect on the privatization date until the stated expiration or termination date of the agreement; or
 
@@ -54,7 +54,7 @@
 
 &emsp;(B) such additional agency contributions as are determined necessary by the Office of Personnel Management to pay, in combination with the sums under subparagraph (A), the “normal cost” (determined using dynamic assumptions) of retirement benefits for those employees who elect to retain their coverage under CSRS pursuant to paragraph (1), with the concept of “normal cost” being used consistent with generally accepted actuarial standards and principles; and
 
-&emsp;(C) such additional amounts, not to exceed two percent of the amounts under subparagraphs (A) and (B), as are determined necessary by the Office of Personnel Managementto pay the cost of administering retirement benefits for employees who retire from the Corporation after the privatization date under either CSRS or FERS, for their survivors, and for survivors of employees of the Corporation who die after the privatization date (which amounts shall be available to the Office of Personnel Management as provided in section 8348(a)(1)(B) of title 5).
+&emsp;(C) such additional amounts, not to exceed two percent of the amounts under subparagraphs (A) and (B), as are determined necessary by the Office of Personnel Management to pay the cost of administering retirement benefits for employees who retire from the Corporation after the privatization date under either CSRS or FERS, for their survivors, and for survivors of employees of the Corporation who die after the privatization date (which amounts shall be available to the Office of Personnel Management as provided in section 8348(a)(1)(B) of title 5).
 
 (3) The Corporation shall pay to the Thrift Savings Fund such employee and agency contributions as are required or authorized by sections 8432 and 8351 of title 5 for employees who elect to retain their coverage under CSRS or FERS pursuant to paragraph (1).
 

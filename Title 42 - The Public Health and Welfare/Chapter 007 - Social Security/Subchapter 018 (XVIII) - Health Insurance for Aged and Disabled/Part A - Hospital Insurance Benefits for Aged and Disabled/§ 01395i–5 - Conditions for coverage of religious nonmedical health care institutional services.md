@@ -88,7 +88,7 @@ Subject to subsections (c) and (d) of this section, payment under this part may 
 
 #### (D) Prohibition of administrative and judicial review
 
-&emsp;&emsp;There shall be no administrative or judicial review under section 1395ff of this title,1395<i>oo</i> of this title, or otherwise of the estimation of expenditures under subparagraph (A) or the application of reduction amounts under subparagraph (B).
+&emsp;&emsp;There shall be no administrative or judicial review under section 1395ff of this title, 1395<i>oo</i> of this title, or otherwise of the estimation of expenditures under subparagraph (A) or the application of reduction amounts under subparagraph (B).
 
 #### (E) Effect on billing
 

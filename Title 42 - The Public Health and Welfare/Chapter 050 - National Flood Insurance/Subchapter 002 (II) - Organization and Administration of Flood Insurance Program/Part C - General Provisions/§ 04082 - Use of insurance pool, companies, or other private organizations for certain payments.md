@@ -26,7 +26,7 @@ No contract may be entered into under this section unless the Director finds tha
 
 #### (e) Bond; liability of certifying officers and disbursing officers
 
-(1) Any such contract may require the pool, company, or organization or any of its officers or employees certifying payments or disbursing funds pursuant to the contract, or otherwise participating in carrying out the contract, to give surety bond to the United States in such amount as the Director may deem appropriate.
+(1) Any such contract may require the pool, company, or organization or any of its officersor employees certifying payments or disbursing funds pursuant to the contract, or otherwise participating in carrying out the contract, to give surety bond to the United States in such amount as the Director may deem appropriate.
 
 (2) No individual designated pursuant to a contract under this section to certify payments shall, in the absence of gross negligence or intent to defraud the United States, be liable with respect to any payment certified by him under this section.
 
@@ -34,7 +34,7 @@ No contract may be entered into under this section unless the Director finds tha
 
 #### (f) Term of contract; renewals; termination
 
-Any contract entered into under this section shall be for a term of one year, and may be madeautomatically renewable from term to term in the absence of notice by either party of an intention to terminate at the end of the current term; except that the Director may terminate any such contract at any time (after reasonable notice to the pool, company, or organization involved) if he finds that the pool, company, or organization has failed substantially to carry out the contract, or is carrying out the contract in a manner inconsistent with the efficient and effective administration of the flood insurance program authorized under this chapter.
+Any contract entered into under this section shall be for a term of one year, and may be made automatically renewable from term to term in the absence of notice by either party of an intention to terminate at the end of the current term; except that the Director may terminate any such contract at any time (after reasonable notice to the pool, company, or organization involved) if he finds that the pool, company, or organization has failed substantially to carry out the contract, or is carrying out the contract in a manner inconsistent with the efficient and effective administration of the flood insurance program authorized under this chapter.
 
 (Pub. L. 90–448, title XIII, §1346, Aug. 1, 1968, 82 Stat. 585; Pub. L. 98–181, title IV, §451(d)(1), Nov. 30, 1983, 97 Stat. 1229.)
 

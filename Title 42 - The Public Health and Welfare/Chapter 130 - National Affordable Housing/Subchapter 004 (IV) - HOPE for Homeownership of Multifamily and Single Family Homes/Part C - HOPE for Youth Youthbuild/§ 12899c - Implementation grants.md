@@ -12,7 +12,7 @@ Implementation grants may be used to carry out Youthbuild programs, including th
 
 &emsp;(2) Acquisition, rehabilitation, acquisition and rehabilitation, or construction of housing and related facilities to be used for the purposes of providing homeownership under part A and part B of this subchapter, residential housing for homeless individuals, and low- and very low-income families, or transitional housing for persons who are homeless, have disabilities, are ill, are deinstitutionalized, or have other special needs.
 
-&emsp;(3) Administrative costs of the applicant, which may not exceed 15 percent of the amount of assistance provided under this section, or such higher percentage as the Secretary determines is necessary to support capacity development by a private nonprofit organization.
+&emsp;(3) Administrative costs of the applicant, which may not exceed 15 percent of theamount of assistance provided under this section, or such higher percentage as the Secretary determines is necessary to support capacity development by a private nonprofit organization.
 
 &emsp;(4) Education and job training services and activities including—
 
@@ -66,7 +66,7 @@ Implementation grants may be used to carry out Youthbuild programs, including th
 
 &emsp;&emsp;(G) a description of the special outreach efforts that will be undertaken to recruit eligible young women (including young women with dependent children);
 
-&emsp;&emsp;(H) a description of how the proposed program will be coordinated with other Federal, State, and local activities and activities conducted by Indian tribes, including vocational, adult and bilingual education programs, job training provided with funds available under the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\] and title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\] and the Family Support Act of 1988, and housing and community development programs, including programs that receive assistance under section 5306 of this title;
+&emsp;&emsp;(H) a description of how the proposed program will be coordinated with other Federal, State, and local activities and activities conducted by Indian tribes, including vocational, adult and bilingual education programs, job training provided with funds available under title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\] and the Family Support Act of 1988, and housing and community development programs, including programs that receive assistance under section 5306 of this title;
 
 &emsp;&emsp;(I) assurances that there will be a sufficient number of adequately trained supervisory personnel in the program who have attained the level of journeyman or its equivalent;
 
@@ -76,7 +76,7 @@ Implementation grants may be used to carry out Youthbuild programs, including th
 
 &emsp;&emsp;(L) a detailed budget and a description of the system of fiscal controls and auditing and accountability procedures that will be used to ensure fiscal soundness;
 
-&emsp;&emsp;(M) a description of the commitments for any additional resources to be made available to the program from the applicant, from recipients of other Federal, State or local housing and community development assistance who will sponsor any part of the construction, rehabilitation, operation and maintenance, or other housing and community development activities undertaken as part of the program, or from other Federal, State or local activities and activities conducted by Indian tribes, including, but not limited to, vocational, adult and bilingual education programs, and job training provided with funds available under the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\] and title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\] and the Family Support Act of 1988;
+&emsp;&emsp;(M) a description of the commitments for any additional resources to be made available to the program from the applicant, from recipients of other Federal, State or local housing and community development assistance who will sponsor any part of the construction, rehabilitation, operation and maintenance, or other housing and community development activities undertaken as part of the program, or from other Federal, State or local activities and activities conducted by Indian tribes, including, but not limited to, vocational, adult and bilingual education programs, and job training provided with funds available under title I of the Workforce Investment Act of 1998 \[29U.S.C. 2801 et seq.\] and the Family Support Act of 1988;
 
 &emsp;&emsp;(N) identification and description of the financing proposed for any—
 
@@ -88,7 +88,7 @@ Implementation grants may be used to carry out Youthbuild programs, including th
 
 &emsp;&emsp;(O) identification and description of the entity that will operate and manage the property;
 
-&emsp;&emsp;(P) a certification by the public official responsible for submitting the comprehensivehousing affordability strategy under section 12705 of this title that the proposed activities are consistent with the approved housing strategy of the State or unit of general local government within which the project is located; and
+&emsp;&emsp;(P) a certification by the public official responsible for submitting the comprehensive housing affordability strategy under section 12705 of this title that the proposed activities are consistent with the approved housing strategy of the State or unit of general local government within which the project is located; and
 
 &emsp;&emsp;(Q) a certification that the applicant will comply with the requirements of the Fair Housing Act \[42 U.S.C. 3601 et seq.\], title VI of the Civil Rights Act of 1964 \[42 U.S.C. 2000d et seq.\], section 504 of the Rehabilitation Act of 1973 \[29 U.S.C. 794\], and the Age Discrimination Act of 1975 \[42 U.S.C. 6101 et seq.\], and will affirmatively further fair housing.
 
@@ -108,7 +108,7 @@ The Secretary shall establish selection criteria for assistance under this secti
 
 &emsp;(6) the inclusion of previously homeless tenants in the housing provided;
 
-&emsp;(7) the commitment of other resources to the program by the applicant and by recipients of other Federal, State or local housing and community development assistance who will sponsor any part of the construction, rehabilitation, operation and maintenance, or other housing and community development activities undertaken as part of the program, or by other Federal, State or local activities and activities conducted by Indian tribes, including, but not limited to, vocational, adult and bilingual education programs, and job training provided with funds available under the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\] and title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\] and the Family Support Act of 1988; and
+&emsp;(7) the commitment of other resources to the program by the applicant and by recipients of other Federal, State or local housing and community development assistance who will sponsor any part of the construction, rehabilitation, operation and maintenance, or other housing and community development activities undertaken as part of the program, or by other Federal, State or local activities and activities conducted by Indian tribes, including, but not limited to, vocational, adult and bilingual education programs, and job training provided with funds available under title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\] and the Family Support Act of 1988; and
 
 &emsp;(8) such other factors as the Secretary determines to be appropriate for purposes of carrying out the program established by this part in an effective and efficient manner.
 
@@ -126,13 +126,7 @@ The Secretary shall develop a procedure under which an applicant may apply at th
 
 (Pub. L. 101–625, title IV, §454, as added Pub. L. 102–550, title I, §164, Oct. 28, 1992, 106 Stat. 3725; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(43)(A), (f)(34)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–428, 2681–434.)
 
-#### Amendment of Subsections (c)(2)(H), (M) and (d)(7)
-
-<i>Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(f)(34), (g)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–434, 2681–435, provided that, effective July 1, 2000, subsections (c)(2)(H), (M) and (d)(7) of this section are amended by striking “the Job Training Partnership Act and”.</i>
-
 #### References in Text
-
-The Job Training Partnership Act, referred to in subsecs. (c)(2)(H), (M) and (d)(7), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
 
 The Workforce Investment Act of 1998, referred to in subsecs. (c)(2)(H), (M) and (d)(7), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
@@ -146,7 +140,9 @@ The Age Discrimination Act of 1975, referred to in subsec. (c)(2)(Q), is title I
 
 #### Amendments
 
-1998—Subsecs. (c)(2)(H), (M), (d)(7). Pub. L. 105–277, §101(f) \[title VIII, §405(d)(43)(A)\], substituted “the JobTraining Partnership Act and title I of the Workforce Investment Act of 1998” for “the Job Training Partnership Act”.
+1998—Subsecs. (c)(2)(H), (M), (d)(7). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(34)\], struck out “the Job Training Partnership Act and” before “title I of the Workforce”.
+
+Pub. L. 105–277, §101(f) \[title VIII, §405(d)(43)(A)\], substituted “the Job Training Partnership Act and title Iof the Workforce Investment Act of 1998” for “the Job Training Partnership Act”.
 
 #### Effective Date of 1998 Amendment
 

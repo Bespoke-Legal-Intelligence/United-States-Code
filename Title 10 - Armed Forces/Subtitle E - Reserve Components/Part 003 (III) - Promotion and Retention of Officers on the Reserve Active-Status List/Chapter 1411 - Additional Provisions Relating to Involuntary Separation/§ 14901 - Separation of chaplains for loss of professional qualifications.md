@@ -14,10 +14,6 @@ Effect of Separation.—If an officer separated under this section is eligible f
 
 Chapter effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-#### Cross References
-
-Reserve components, limitations on separation inapplicable to separation under this section, see section 12683 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 12683 of this title.

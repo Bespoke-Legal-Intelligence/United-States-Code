@@ -20,7 +20,7 @@ It shall be an unfair labor practice for a labor organization or its agents—
 
 &emsp;(1) to restrain or coerce (A) employees in the exercise of the rights guaranteed in section 157 of this title: <i>Provided</i>, That this paragraph shall not impair the right of a labor organization to prescribe its own rules with respect to the acquisition or retention of membership therein; or (B) an employer in the selection of his representatives for the purposes of collective bargaining or the adjustment of grievances;
 
-&emsp;(2) to cause or attempt to cause an employer to discriminate against an employee in violation of subsection (a)(3) of this section or to discriminate against an employee with respect to whom membership in such organization has been denied or terminated on some groundother than his failure to tender the periodic dues and the initiation fees uniformly required as a condition of acquiring or retaining membership;
+&emsp;(2) to cause or attempt to cause an employer to discriminate against an employee in violation of subsection (a)(3) of this section or to discriminate against an employee with respect to whom membership in such organization has been denied or terminated on some ground other than his failure to tender the periodic dues and the initiation fees uniformly required as a condition of acquiring or retaining membership;
 
 &emsp;(3) to refuse to bargain collectively with an employer, provided it is the representative of his employees subject to the provisions of section 159(a) of this title;
 
@@ -46,7 +46,7 @@ It shall be an unfair labor practice for a labor organization or its agents—
 
 &emsp;&emsp;(B) where within the preceding twelve months a valid election under section 159(c) of this title has been conducted, or
 
-&emsp;&emsp;(C) where such picketing has been conducted without a petition under section 159(c) of this title being filed within a reasonable period of time not to exceed thirty days from the commencement of such picketing: <i>Provided</i>, That when such a petition has been filed the Board shall forthwith, without regard to the provisions of section 159(c)(1) of this title or the absence of a showing of a substantial interest on the part of the labor organization, direct an election in such unit as the Board finds to be appropriate and shall certify the results thereof: <i>Provided further</i>, That nothing in this subparagraph (C) shall be construed to prohibit any picketing or other publicity for the purpose of truthfully advising the public (including consumers) that an employer does not employ members of, or have a contract with, a labor organization, unless an effect of such picketing is to induce any individual employed by any other person in the courseof his employment, not to pick up, deliver or transport any goods or not to perform any services.
+&emsp;&emsp;(C) where such picketing has been conducted without a petition under section 159(c) of this title being filed within a reasonable period of time not to exceed thirty days from the commencement of such picketing: <i>Provided</i>, That when such a petition has been filed the Board shall forthwith, without regard to the provisions of section 159(c)(1) of this title or the absence of a showing of a substantial interest on the part of the labor organization, direct an election in such unit as the Board finds to be appropriate and shall certify the results thereof: <i>Provided further</i>, That nothing in this subparagraph (C) shall be construed to prohibit any picketing or other publicity for the purpose of truthfully advising the public (including consumers) that an employer does not employ members of, or have a contract with, a labor organization, unless an effect of such picketing is to induce any individual employed by any other person in the course of his employment, not to pick up, deliver or transport any goods or not to perform any services.
 
 &emsp;Nothing in this paragraph (7) shall be construed to permit any act which would otherwise be an unfair labor practice under this subsection.
 
@@ -62,7 +62,7 @@ For the purposes of this section, to bargain collectively is the performance of 
 
 &emsp;(2) offers to meet and confer with the other party for the purpose of negotiating a new contract or a contract containing the proposed modifications;
 
-&emsp;(3) notifies the Federal Mediation and Conciliation Service within thirty days after such notice of the existence of a dispute, and simultaneously therewith notifies any State or Territorial agency established to mediate and conciliate disputes within the State or Territory where the dispute occurred, provided no agreement has been reached by that time; and
+&emsp;(3) notifies the Federal Mediation and Conciliation Service within thirty days after suchnotice of the existence of a dispute, and simultaneously therewith notifies any State or Territorial agency established to mediate and conciliate disputes within the State or Territory where the dispute occurred, provided no agreement has been reached by that time; and
 
 &emsp;(4) continues in full force and effect, without resorting to strike or lock-out, all the terms and conditions of the existing contract for a period of sixty days after such notice is given or until the expiration date of such contract, whichever occurs later:
 
@@ -84,7 +84,7 @@ It shall not be an unfair labor practice under subsections (a) and (b) of this s
 
 #### (g) Notification of intention to strike or picket at any health care institution
 
-A labor organization before engaging in any strike, picketing, or other concerted refusal to work at any health care institution shall, not less than ten days prior to such action, notify the institution in writing and the Federal Mediation and Conciliation Service of that intention, except that in the case of bargaining for an initial agreement following certification or recognition the notice required by this subsection shall not be given until the expiration of the period specified in clause (B) of the last sentence of subsection (d) of this section. The notice shall state the date and time that such action will commence. The notice, once given, may be extended by the written agreement of both parties.
+A labor organization before engaging in any strike, picketing, or other concerted refusal towork at any health care institution shall, not less than ten days prior to such action, notify the institution in writing and the Federal Mediation and Conciliation Service of that intention, except that in the case of bargaining for an initial agreement following certification or recognition the notice required by this subsection shall not be given until the expiration of the period specified in clause (B) of the last sentence of subsection (d) of this section. The notice shall state the date and time that such action will commence. The notice, once given, may be extended by the written agreement of both parties.
 
 (July 5, 1935, ch. 372, §8, 49 Stat. 452; June 23, 1947, ch. 120, title I, §101, 61 Stat. 140; Oct. 22, 1951, ch. 534, §1(b), 65 Stat. 601; Pub. L. 86–257, title II, §201(e), title VII, §§704(a)–(c), 705(a), Sept. 14, 1959, 73 Stat. 525, 542–545; Pub. L. 93–360, §1(c)–(e), July 26, 1974, 88 Stat. 395, 396.)
 
@@ -127,24 +127,6 @@ Section 705(b) of Pub. L. 86–257 provided that: “Nothing contained in the am
 #### Unfair Labor Practices Prior to June 23, 1947
 
 Section 102 of title I of act June 23, 1947, provided that: “No provision of this title \[amending this subchapter\] shall be deemed to make an unfair labor practice any act which was performed prior to the date of the enactment of this act \[June 23, 1947\] which did not constitute an unfair labor practice prior thereto, and the provisions of section 8(a)(3) and section 8(b)(2) of the National Labor Relations Act as amended by this title \[subsecs. (a)(3) and (b)(2) of this section\] shall not make an unfair labor practice the performance of any obligation under a collective-bargaining agreement entered into prior to the date of the enactment of this Act \[June 23, 1947\], or (in the case of an agreement for a period of not more than one year) entered into on or after such date of enactment, but prior to the effective date of this title, if the performance of such obligation would not have constituted an unfair labor practice under section 8(3) \[see subsec. (a)(3) of this section\] of the National Labor Relations Act prior to the effective date of this title \[sixty days after June 23, 1947\] unless such agreement was renewed or extended subsequent thereto.”
-
-#### Cross References
-
-Actions by and against labor organizations, see section 185 of this title.
-
-Boycotts and other unlawful combinations, right to sue, see section 187 of this title.
-
-Federal Credit Unions, providing facilities for operations of, see section 158a of this title.
-
-Federal employment denied persons who assert right to strike against Government, see section 7311 of Title 5, Government Organization and Employees, and section 1918 of Title 18, Crimes and Criminal Procedure.
-
-Injunctive relief granted to Board against unfair labor practices and boycotts, see section 160 of this title.
-
-Restrictions on payments and loans to employee representatives, see section 186 of this title.
-
-Right to strike preserved, see section 163 of this title.
-
-Strikes subject to injunction, see section 178 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -10,7 +10,7 @@ Section is based on last paragraph under heading “FOR LIFE-SAVING AND LIFE-BOA
 
 #### Transfer of Functions
 
-Coast Guard transferred to Department of Transportation, and all functions, powers, and duties relating toCoast Guard of Secretary of the Treasury and of other officers and offices of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, §6(b)(1), Oct. 15, 1966, 80 Stat. 938. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in section 3 of Title 14, Coast Guard. See section 108 of Title 49, Transportation.
+Coast Guard transferred to Department of Transportation, and all functions, powers, and duties relating to Coast Guard of Secretary of the Treasury and of other officers and offices of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, §6(b)(1), Oct. 15, 1966, 80 Stat. 938. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in section 3 of Title 14, Coast Guard. See section 108 of Title 49, Transportation.
 
 Bureau of Lighthouses and its functions transferred and consolidated with Coast Guard by Reorg. Plan No. II of 1939, §2(a), set out in the Appendix to Title 5, Government Organization and Employees.
 

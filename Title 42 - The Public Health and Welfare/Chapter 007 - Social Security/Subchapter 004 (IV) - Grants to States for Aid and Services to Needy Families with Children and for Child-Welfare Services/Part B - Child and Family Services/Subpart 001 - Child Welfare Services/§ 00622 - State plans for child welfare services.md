@@ -62,11 +62,15 @@ Each plan for child welfare services under this subpart shall—
 
 &emsp;&emsp;(ii) is implementing (or within 24 months after October 31, 1994, will implement) such policies and procedures as the State determines, on the basis of the review described in clause (i), to be necessary to enable permanent decisions to be made expeditiously with respect to the placement of such children;
 
-&emsp;(11) contain a description, developed after consultation with tribal organizations (as defined in section 450b of title 25) in the State, of the specific measures taken by the State to comply with the Indian Child Welfare Act \[25 U.S.C. 1901 et seq.\]; and
+&emsp;(11) contain a description, developed after consultation with tribal organizations (as defined in section 450b of title 25) in the State, of the specific measures taken by the State to comply with the Indian Child Welfare Act \[25 U.S.C. 1901 et seq.\];
 
-&emsp;(12) contain assurances that the State shall develop plans for the effective use of cross-jurisdictional resources to facilitate timely adoptive or permanent placements for waiting children.
+&emsp;(12) contain assurances that the State shall develop plans for the effective use of cross-jurisdictional resources to facilitate timely adoptive or permanent placements for waiting children;
 
-(Aug. 14, 1935, ch. 531, title IV, §422, as added and amended Pub. L. 90–248, title II, §240(c), (d), Jan. 2, 1968, 81 Stat. 912, 915; Pub. L. 93–647, §3(a)(6), (7), (h), Jan. 4, 1975, 88 Stat. 2348, 2349; Pub. L. 96–272, title I, §103(a), June 17, 1980, 94 Stat. 517; Pub. L. 101–239, title X, §10403(b)(1), Dec. 19, 1989, 103 Stat. 2488; Pub. L. 103–66, title XIII, §13711(b)(1), Aug. 10, 1993, 107 Stat. 655; Pub. L. 103–382, title V, §554, 108 Stat. 4057; Pub. L. 103–432, title II, §§202(a), 204(a), Oct. 31, 1994, 108 Stat. 4453, 4456; Pub. L. 104–193, title I, §108(b), Aug. 22, 1996, 110 Stat. 2165; Pub. L. 105–33, title V, §5592(a)(1)(A), (2), Aug. 5, 1997, 111 Stat. 644; Pub. L. 105–89, title I, §102(1), title II, §202(a), Nov. 19, 1997, 111 Stat. 2117, 2125; Pub. L. 105–200, title IV, §410(b), July 16, 1998, 112 Stat. 673.)
+&emsp;(13) contain a description of the activities that the State has undertaken for children adopted from other countries, including the provision of adoption and post-adoption services; and
+
+&emsp;(14) provide that the State shall collect and report information on children who are adopted from other countries and who enter into State custody as a result of the disruption of a placement for adoption or the dissolution of an adoption, including the number of children, the agencies who handled the placement or adoption, the plans for the child, and the reasons for the disruption or dissolution.
+
+(Aug. 14, 1935, ch. 531, title IV, §422, as added and amended Pub. L. 90–248, title II, §240(c), (d), Jan. 2, 1968, 81 Stat. 912, 915; Pub. L. 93–647, §3(a)(6), (7), (h), Jan. 4, 1975, 88 Stat. 2348, 2349; Pub. L. 96–272, title I, §103(a), June 17, 1980, 94 Stat. 517; Pub. L. 101–239, title X, §10403(b)(1), Dec. 19, 1989, 103 Stat. 2488; Pub. L. 103–66, title XIII, §13711(b)(1), Aug. 10, 1993, 107 Stat. 655; Pub. L. 103–382, title V, §554, 108 Stat. 4057; Pub. L. 103–432, title II, §§202(a), 204(a), Oct. 31, 1994, 108 Stat. 4453, 4456; Pub. L. 104–193, title I, §108(b), Aug. 22, 1996, 110 Stat. 2165; Pub. L. 105–33, title V, §5592(a)(1)(A), (2), Aug. 5, 1997, 111 Stat. 644; Pub. L. 105–89, title I, §102(1), title II, §202(a), Nov. 19, 1997, 111 Stat. 2117, 2125; Pub. L. 105–200, title IV, §410(b), July 16, 1998, 112 Stat. 673; Pub. L. 106–279, title II, §205, Oct. 6, 2000, 114 Stat. 837.)
 
 #### References in Text
 
@@ -77,6 +81,8 @@ Parts A and E of this subchapter, referred to in subsec. (b)(2), are classified 
 The Indian Child Welfare Act, referred to in subsec. (b)(10), probably means the Indian Child Welfare Act of 1978, Pub. L. 95–608, Nov. 8, 1978, 92 Stat. 3069, as amended, which is classified principally to chapter 21 (§1901 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of Title 25 and Tables.
 
 #### Amendments
+
+2000—Subsec. (b)(13), (14). Pub. L. 106–279 added pars. (13) and (14).
 
 1998—Subsec. (b)(2). Pub. L. 105–200 struck out “under” before “the State plan approved under part E of this subchapter”.
 
@@ -134,6 +140,10 @@ Subsec. (c). Pub. L. 93–647, §3(h), added subsec. (c).
 
 1968—Subsec. (a)(1). Pub. L. 90–248, §240(d), added subpar. (A) and redesignated former subpars. (A) and (B) as (B) and (C), respectively.
 
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–279 effective Oct. 6, 2000, with transition rule, see section 505(a)(1), (b) of Pub. L.106–279, set out as an Effective Dates; Transition Rule note under section 14901 of this title.
+
 #### Effective Date of 1997 Amendments
 
 Section 501 of Pub. L. 105–89 provided that:
@@ -168,7 +178,7 @@ Section 10403(b)(2) of Pub. L. 101–239 provided that: “The amendment made by
 
 #### Effective Date of 1975 Amendment
 
-Amendment by section 3 of Pub. L. 93–647 effective with respect to payments under sections 603 and 803 ofthis title for quarters commencing after Sept. 30, 1975, except that amendment by section 3(a) of Pub. L. 93–647 not effective with respect to the Commonwealth of Puerto Rico, the Virgin Islands, or Guam, see section 7(b) of Pub. L. 93–647, set out as a note under section 303 of this title.
+Amendment by section 3 of Pub. L. 93–647 effective with respect to payments under sections 603 and 803 of this title for quarters commencing after Sept. 30, 1975, except that amendment by section 3(a) of Pub. L. 93–647 not effective with respect to the Commonwealth of Puerto Rico, the Virgin Islands, or Guam, see section 7(b) of Pub. L. 93–647, set out as a note under section 303 of this title.
 
 #### Effective Date of 1968 Amendment; Different State Agencies for Administration of State Plans Under Parts A and B
 
@@ -204,7 +214,7 @@ Purpose.—It is the purpose of this subpart \[subpart 1 of part E of title V of
 
 #### Guam, Puerto Rico, Virgin Islands, and Commonwealth of Northern Mariana Islands
 
-Section 103(c) of Pub. L. 96–272 provided that in the case of Guam, Puerto Rico, the Virgin Islands, and the Commonwealth of the Northern Mariana Islands, subsec. (b)(1) of this section (as otherwise amended by section 103(a) of Pub. L. 96–272), is deemed to read as follows:
+Section 103(c) of Pub. L. 96–272 provided that in the case of Guam, Puerto Rico, the Virgin Islands, and theCommonwealth of the Northern Mariana Islands, subsec. (b)(1) of this section (as otherwise amended by section 103(a) of Pub. L. 96–272), is deemed to read as follows:
 
 “(1) provide that (A) the State agency designated pursuant to section 602(a)(3) of this title to administer or supervise the administration of the plan of the State approved under part A of this subchapter will administer or supervise the administration of such plan for child welfare services, and (B) to the extent that child welfare services are furnished by the staff of the State agency or local agency administering such plan for child welfare services, the organizational unit in such State or local agency established pursuant to section 602(a)(15) of this title will be responsible for furnishing such child welfare services;”.
 

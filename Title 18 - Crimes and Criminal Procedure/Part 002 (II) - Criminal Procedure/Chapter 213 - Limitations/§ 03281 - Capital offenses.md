@@ -14,7 +14,3 @@ Sections 581a and 581b of title 18, U.S.C., 1940 ed., were consolidated into thi
 
 1994—Pub. L. 103–322 struck out before period at end “except for offenses barred by the provisions of law existing on August 4, 1939”.
 
-#### Cross References
-
-Fugitives from justice, no limitations applicable, see section 3290 of this title.
-

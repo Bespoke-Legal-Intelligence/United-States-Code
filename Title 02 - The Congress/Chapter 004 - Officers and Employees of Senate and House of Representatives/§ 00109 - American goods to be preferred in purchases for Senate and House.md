@@ -12,10 +12,6 @@ R.S. §69 derived from act June 17, 1844, ch. 105, §1, 5 Stat. 681.
 
 1996—Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk”.
 
-#### Cross References
-
-American materials required for public use, see section 10a of Title 41, Public Contracts.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 112 of this title.

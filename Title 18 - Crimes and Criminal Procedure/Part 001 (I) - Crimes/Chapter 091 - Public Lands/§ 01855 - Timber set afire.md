@@ -22,7 +22,3 @@ Minor verbal changes were made.
 
 1988—Pub. L. 100–690 substituted “under this title” for “not more than $5,000” in first par.
 
-#### Cross References
-
-Protection against fires, see section 594 of Title 16, Conservation.
-

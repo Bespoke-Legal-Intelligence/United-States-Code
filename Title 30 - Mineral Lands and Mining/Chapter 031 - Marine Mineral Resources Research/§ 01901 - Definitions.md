@@ -30,9 +30,11 @@ In this chapter:
 
 &emsp;&emsp;(E) cobalt crusts;
 
-&emsp;&emsp;(F) metal sulfides; and
+&emsp;&emsp;(F) metal sulfides;
 
-&emsp;&emsp;(G) other marine resources that are not—
+&emsp;&emsp;(G) for purposes of this section and sections 1902 through 1905 of this title only, methane hydrate; and
+
+&emsp;&emsp;(H) other marine resources that are not—
 
 &emsp;&emsp;&emsp;(i) oil and gas;
 
@@ -40,9 +42,21 @@ In this chapter:
 
 &emsp;&emsp;&emsp;(iii) marine mammals.
 
-&emsp;(7) The term “Secretary” means the Secretary of the Interior.
+&emsp;(7) The term “methane hydrate” means—
 
-(Pub. L. 91–631, title II, §201, as added Pub. L. 104–325, §2(3), Oct. 19, 1996, 110 Stat. 3994.)
+&emsp;&emsp;(A) a methane clathrate that is in the form of a methane-water ice-like crystalline material and is stable and occurs naturally in deep-ocean and permafrost areas; and
+
+&emsp;&emsp;(B) other natural gas hydrates found in association with deep-ocean and permafrost deposits of methane hydrate.
+
+&emsp;(8) The term “Secretary” means the Secretary of the Interior.
+
+(Pub. L. 91–631, title II, §201, as added Pub. L. 104–325, §2(3), Oct. 19, 1996, 110 Stat. 3994; amended Pub. L. 106–193, §4, May 2, 2000, 114 Stat. 236.)
+
+#### Amendments
+
+2000—Par. (6)(G), (H). Pub. L. 106–193, §4(1), added subpar. (G) and redesignated former subpar. (G) as (H).
+
+Pars. (7), (8). Pub. L. 106–193, §4(2), (3), added par. (7) and redesignated former par. (7) as (8).
 
 #### Short Title
 

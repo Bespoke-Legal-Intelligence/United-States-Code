@@ -1,6 +1,6 @@
 ### §6404. Treatment of fractions of years of service in computing retired pay and separation pay
 
-In determining the total number of years of service to be used as a multiplier in computing retired pay and separation pay on discharge under this chapter, each full month of service that is in addition to the number of full years ofservice creditable to a member is counted as one-twelfth of a year and any remaining fractional part of a month is disregarded.
+In determining the total number of years of service to be used as a multiplier in computing retired pay and separation pay on discharge under this chapter, each full month of service that is in addition to the number of full years of service creditable to a member is counted as one-twelfth of a year and any remaining fractional part of a month is disregarded.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 415; Pub. L. 96–513, title V, §503(50), Dec. 12, 1980, 94 Stat. 2915; Pub. L. 98–94, title IX, §923(c)(4), Sept. 24, 1983, 97 Stat. 643.)
 
@@ -64,7 +64,7 @@ The words “and a part of a year that is less than six months is disregarded”
 
 #### Amendments
 
-1983—Pub. L. 98–94 substituted “each full month of service that is in addition to the number of full years of service creditable to a member is counted as one-twelfth of a year and any remaining fractional part of a month is disregarded” for “a part of a year that is six months or more is counted as a whole year and a part of a year that is less than six months is disregarded”.
+1983—Pub. L. 98–94 substituted “each full month of service that is in addition to the number of full years of service creditable to a member is counted as one-twelfth of a year and any remaining fractional part ofa month is disregarded” for “a part of a year that is six months or more is counted as a whole year and a part of a year that is less than six months is disregarded”.
 
 1980—Pub. L. 96–513 substituted “separation pay” for “severance pay” in section catchline and substituted “separation pay” for “lump-sum payments” in text.
 

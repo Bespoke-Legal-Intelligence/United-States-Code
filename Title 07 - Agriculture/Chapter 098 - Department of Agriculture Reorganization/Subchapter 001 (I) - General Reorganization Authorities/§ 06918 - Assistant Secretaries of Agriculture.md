@@ -10,7 +10,7 @@ The Secretary is authorized to establish in the Department the positions of—
 
 #### (b) Confirmation required
 
-If the Secretary establishes any position of Assistant Secretary authorized under subsection\(a) of this section, the Assistant Secretary shall be appointed by the President, by and with the advice and consent of the Senate.
+If the Secretary establishes any position of Assistant Secretary authorized under subsection (a) of this section, the Assistant Secretary shall be appointed by the President, by and with the advice and consent of the Senate.
 
 #### (c) Succession
 

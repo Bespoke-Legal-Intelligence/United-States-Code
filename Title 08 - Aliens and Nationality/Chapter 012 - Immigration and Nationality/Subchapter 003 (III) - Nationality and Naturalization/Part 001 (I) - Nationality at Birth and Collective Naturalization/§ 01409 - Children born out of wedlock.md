@@ -68,15 +68,3 @@ Section 23(e) of Pub. L. 99–653, as added by Pub. L. 100–525, §8(r), Oct. 2
 
 Amendment by Pub. L. 97–116 effective Dec. 29, 1981, see section 21(a) of Pub. L. 97–116, set out as a note under section 1101 of this title.
 
-#### Cross References
-
-Definition of the term—
-
-&emsp;&emsp;Child, as used in subchapters I and II of this chapter, see section 1101(b)(1) of this title.
-
-&emsp;&emsp;Child, as used in this subchapter, see section 1101(c)(1) of this title.
-
-&emsp;&emsp;National, see section 1101(a)(21) of this title.
-
-&emsp;&emsp;National of the United States, see section 1101(a)(22) of this title.
-

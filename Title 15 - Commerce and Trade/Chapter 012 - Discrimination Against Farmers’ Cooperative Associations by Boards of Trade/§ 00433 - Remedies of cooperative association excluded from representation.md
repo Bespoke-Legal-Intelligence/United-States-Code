@@ -4,7 +4,3 @@ Any such cooperative association or any such organization whose duly authorized 
 
 (Mar. 4, 1927, ch. 508, §3, 44 Stat. 1424.)
 
-#### Federal Rules of Civil Procedure
-
-Injunctions, see rule 65, Title 28, Appendix, Judiciary and Judicial Procedure.
-

@@ -36,7 +36,7 @@ Pub. L. 104–63, §1, Dec. 8, 1995, 109 Stat. 687, provided that: “This Act \
 
 #### Short Title of 1990 Amendment
 
-Section 1 of Pub. L. 101–588 provided: “That this Act \[amending this section and sections 2, 3, 15a, and 19 ofthis title and repealing section 20 of this title\] may be cited as the ‘Antitrust Amendments Act of 1990’.”
+Section 1 of Pub. L. 101–588 provided: “That this Act \[amending this section and sections 2, 3, 15a, and 19 of this title and repealing section 20 of this title\] may be cited as the ‘Antitrust Amendments Act of 1990’.”
 
 #### Short Title of 1984 Amendment
 
@@ -148,7 +148,7 @@ Republication.—The term ‘republication’ means any repetition, in whole or 
 
 &emsp;“(7)
 
-Year 2000 internet website.—The term ‘year 2000 Internet website’ means an Internet website orother similar electronically accessible service, clearly designated on the website or service by the person or entity creating or controlling the content of the website or service as an area where year 2000 statements concerning that person or entity are posted or otherwise made accessible to the general public.
+Year 2000 internet website.—The term ‘year 2000 Internet website’ means an Internet website or other similar electronically accessible service, clearly designated on the website or service by the person or entity creating or controlling the content of the website or service as an area where year 2000 statements concerning that person or entity are posted or otherwise made accessible to the general public.
 
 &emsp;“(8)
 
@@ -566,7 +566,7 @@ Definitions.—For purposes of this section—
 
 &emsp;“(4) the term ‘lawfully admitted for permanent residence’ has the meaning given such term in section 101(20) \[101(a)(20)\] of the Immigration and Nationality Act (8 U.S.C. 1101(20) \[1101(a)(20)\]);
 
-&emsp;“(5) the term ‘national of the United States’ has the meaning given such term in section 101(22) \[101(a)(22)\] of the Immigration and Nationality Act (8 U.S.C. 1101(22) \[1101(a)(22)\]);
+&emsp;“(5) the term ‘national of the United States’ has the meaning given such term in section 101(22)\[101(a)(22)\] of the Immigration and Nationality Act (8 U.S.C. 1101(22) \[1101(a)(22)\]);
 
 &emsp;“(6) the term ‘on a need-blind basis’ means without regard to the financial circumstances of the student involved or the student's family; and
 
@@ -577,22 +577,6 @@ Definitions.—For purposes of this section—
 Expiration.—Subsection (a) shall expire on September 30, 2001.”
 
 \[Pub. L. 105–43, §2(b), Sept. 17, 1997, 111 Stat. 1140, provided that: “The amendments made by subsection (a) \[amending section 568(a)–(d) of Pub. L. 103–382, set out above\] shall take effect immediately before September 30, 1997.”\]
-
-#### Cross References
-
-Antitrust laws inapplicable to labor organizations, see section 17 of this title.
-
-Combinations in restraint of import trade, see section 8 of this title.
-
-Conspiracy to commit offense or to defraud United States, see section 371 of Title 18, Crimes and Criminal Procedure.
-
-Discrimination in price, services or facilities, see section 13 of this title.
-
-Fishing industry, restraints of trade in, see section 522 of this title.
-
-Monopolies prohibited, see section 2 of this title.
-
-Trusts in territories or District of Columbia prohibited, see section 3 of this title.
 
 #### Sherman Act Referred to in Other Sections
 

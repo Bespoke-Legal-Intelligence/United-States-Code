@@ -68,7 +68,7 @@
 
 #### (2) Annual reports
 
-&emsp;In the annual report required by section 2291h(a) of this title, the President shall reporton the impact on the environment and the health of individuals of the use under this part of a herbicide for aerial eradication.
+&emsp;In the annual report required by section 2291h(a) of this title, the President shall report on the impact on the environment and the health of individuals of the use under this part of a herbicide for aerial eradication.
 
 #### (3) Report upon determination of harm to environment or health
 
@@ -126,11 +126,11 @@ For purposes of this part and other provisions of this chapter relating specific
 
 &emsp;(8) the term “appropriate congressional committees” means the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations of the Senate.
 
-(Pub. L. 87–195, pt. I, §481, as added Pub. L. 92–352, title V, §503, July 13, 1972, 86 Stat. 496; amended Pub. L. 93–189, §11(a), Dec. 17, 1973, 87 Stat. 719; Pub. L. 94–329, title V, §504(b), June 30, 1976, 90 Stat. 764; Pub. L. 95–384, §§3, 4, Sept. 26, 1978, 92 Stat. 730; Pub. L. 96–92, §3(b), Oct. 29, 1979, 93 Stat. 702; Pub. L. 97–113, title V, §502(a)(1), (b), title VII, §734(a)(1), Dec. 29, 1981, 95 Stat. 1538, 1539, 1560; Pub. L. 98–164, title X, §1003, Nov. 22, 1983, 97 Stat. 1053; Pub. L. 99–83, title VI, §§604–606, 618, Aug. 8, 1985, 99 Stat. 228, 229, 233; Pub. L. 99–570, title II, §§2005, 2008, 2009, 2017, Oct. 27, 1986, 100 Stat. 3207–61, 3207–64, 3207–68; Pub. L. 100–202, §101(e) \[title V, §585(a)\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–184; Pub. L. 100–204, title VIII, §805, Dec. 22, 1987, 101 Stat. 1397; Pub. L. 100–461, title V, §578(e)(2), (g)(1), (3), (h), (i), Oct. 1, 1988, 102 Stat. 2268–47, 2268–48; Pub. L. 100–690, title IV, §4202(b), 4401–4403, 4405(a), 4407(a), (b)(1), 4502, 4802(b), Nov. 18, 1988, 102 Stat. 4267, 4275–4277, 4281, 4285, 4294; Pub. L. 101–231, §§15, 17(a)–(f), Dec. 13, 1989, 103 Stat. 1963–1965; Pub. L. 102–550, title XV, §1519, Oct. 28, 1992, 106 Stat. 4060; Pub. L. 102–583, §§4(a)–(d), 5(b), 6(b)(1)–(3), 11(a), Nov. 2, 1992, 106 Stat. 4914, 4915, 4931, 4932, 4934; Pub. L. 103–447, title I, §101(a), (b), Nov. 2, 1994, 108 Stat. 4691; Pub. L. 104–164, title I, §131(a), July 21, 1996, 110 Stat. 1429; Pub. L. 105–20, §2(b), June 27, 1997, 111 Stat. 234.)
+(Pub. L. 87–195, pt. I, §481, as added Pub. L. 92–352, title V, §503, July 13, 1972, 86 Stat. 496; amended Pub. L. 93–189, §11(a), Dec. 17, 1973, 87 Stat. 719; Pub. L. 94–329, title V, §504(b), June 30, 1976, 90 Stat. 764; Pub. L. 95–384, §§3, 4, Sept. 26, 1978, 92 Stat. 730; Pub. L. 96–92, §3(b), Oct. 29, 1979, 93 Stat. 702; Pub. L. 97–113, title V, §502(a)(1), (b), title VII, §734(a)(1), Dec. 29, 1981, 95 Stat. 1538, 1539, 1560; Pub. L. 98–164, title X, §1003, Nov. 22, 1983, 97 Stat. 1053; Pub. L. 99–83,title VI, §§604–606, 618, Aug. 8, 1985, 99 Stat. 228, 229, 233; Pub. L. 99–570, title II, §§2005, 2008, 2009, 2017, Oct. 27, 1986, 100 Stat. 3207–61, 3207–64, 3207–68; Pub. L. 100–202, §101(e) \[title V, §585(a)\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–184; Pub. L. 100–204, title VIII, §805, Dec. 22, 1987, 101 Stat. 1397; Pub. L. 100–461, title V, §578(e)(2), (g)(1), (3), (h), (i), Oct. 1, 1988, 102 Stat. 2268–47, 2268–48; Pub. L. 100–690, title IV, §4202(b), 4401–4403, 4405(a), 4407(a), (b)(1), 4502, 4802(b), Nov. 18, 1988, 102 Stat. 4267, 4275–4277, 4281, 4285, 4294; Pub. L. 101–231, §§15, 17(a)–(f), Dec. 13, 1989, 103 Stat. 1963–1965; Pub. L. 102–550, title XV, §1519, Oct. 28, 1992, 106 Stat. 4060; Pub. L. 102–583, §§4(a)–(d), 5(b), 6(b)(1)–(3), 11(a), Nov. 2, 1992, 106 Stat. 4914, 4915, 4931, 4932, 4934; Pub. L. 103–447, title I, §101(a), (b), Nov. 2, 1994, 108 Stat. 4691; Pub. L. 104–164, title I, §131(a), July 21, 1996, 110 Stat. 1429; Pub. L. 105–20, §2(b), June 27, 1997, 111 Stat. 234.)
 
 #### References in Text
 
-The National Narcotics Leadership Act of 1988, referred to in subsec. (b)(1), is subtitle A of title I of Pub.L. 100–690, Nov. 18, 1988, 102 Stat. 4181, as amended. Chapter 1 of the Act was classified principally to subchapter I (§1501 et seq.) of chapter 20 of Title 21, Food and Drugs, prior to repeal by Pub. L. 100–690, title I, §1009, Nov. 18, 1988, 102 Stat. 4188. For complete classification of this Act to the Code, see Tables.
+The National Narcotics Leadership Act of 1988, referred to in subsec. (b)(1), is subtitle A of title I of Pub. L. 100–690, Nov. 18, 1988, 102 Stat. 4181, as amended. Chapter 1 of the Act was classified principally to subchapter I (§1501 et seq.) of chapter 20 of Title 21, Food and Drugs, prior to repeal by Pub. L. 100–690, title I, §1009, Nov. 18, 1988, 102 Stat. 4188. For complete classification of this Act to the Code, see Tables.
 
 Executive Order Number 12333, referred to in subsec. (b)(2), is set out as a note under section 401 of Title 50, War and National Defense.
 
@@ -252,7 +252,7 @@ Subsecs. (j), (k). Pub. L. 102–583, §6(b)(2), struck out subsec. (j) relating
 
 Subsec. (b). Pub. L. 101–231, §17(b), inserted “Mid-year report” as heading, struck out par. (1) which required quarterly reports on the programming and obligation of funds under this part, redesignated former par. (2) as subsec. (b), and substituted “Not later than September” for “Not later than August”.
 
-Subsec. (c). Pub. L. 101–231, §15, inserted “Participation in foreign police actions” as heading and amended text generally, inserting par. headings, redesignating provisions comprising former par. (1) as pars. (1) and (2) and, in par. (2), inserting provision not prohibiting presence of officers and employees when foreign officers are effecting an arrest, and striking out former par. (2) which prohibited officers or employees from engaging or participating in direct police action in a foreign country with respect to narcotics control efforts.
+Subsec. (c). Pub. L. 101–231, §15, inserted “Participation in foreign police actions” as heading and amended text generally, inserting par. headings, redesignating provisions comprising former par. (1) as pars. (1) and (2) and, in par. (2), inserting provision not prohibitingpresence of officers and employees when foreign officers are effecting an arrest, and striking out former par. (2) which prohibited officers or employees from engaging or participating in direct police action in a foreign country with respect to narcotics control efforts.
 
 Subsec. (d). Pub. L. 101–231, §17(c), inserted “Use of herbicides for aerial eradication” as heading and amended text generally, substituting pars. (1) to (4) for former pars. (1) to (5).
 
@@ -264,7 +264,7 @@ Subsec. (h)(2)(B)(v). Pub. L. 101–231, §17(d)(3), substituted “essential pr
 
 Subsec. (h)(3)(D). Pub. L. 101–231, §17(d)(4), substituted “illicit production” for “production”.
 
-Subsec. (i)(2). Pub. L. 101–231, §17(e), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the term ‘major illicit drug producing country’ means a country producing five metric tons or more of opium or opium derivative during a fiscal year or producingfive hundred metric tons or more of coca or marijuana (as the case may be) during a fiscal year;”.
+Subsec. (i)(2). Pub. L. 101–231, §17(e), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the term ‘major illicit drug producing country’ means a country producing five metric tons or more of opium or opium derivative during a fiscal year or producing five hundred metric tons or more of coca or marijuana (as the case may be) during a fiscal year;”.
 
 Subsec. (k)(4). Pub. L. 101–231, §17(f), struck out par. (4) which required that reports under subsec. (e) discuss changes made since notification provided pursuant to subsec. (k)(2) and (3).
 
@@ -320,7 +320,7 @@ Subsec. (h)(4)(A). Pub. L. 100–204, §805(b), which directed that subpar. (A) 
 
 Subsec. (c). Pub. L. 99–570, §2009, amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:
 
-“(1) Notwithstanding any other provision of law, no officer or employee of the United States may engage or participate in any direct police arrest action in any foreign country with respect to narcotics control efforts. No such officer or employee may interrogate or be present during the interrogation of any United States person arrested in any foreign country with respect to narcotics control efforts without the written consent of such person. The provisions of this paragraph shall not apply to the activities of the United States Armed Forces in carrying out their responsibilities under applicable Status of Forces arrangements.
+“(1) Notwithstanding any other provision of law, no officer or employee of the United States may engage or participate in any direct police arrest action in anyforeign country with respect to narcotics control efforts. No such officer or employee may interrogate or be present during the interrogation of any United States person arrested in any foreign country with respect to narcotics control efforts without the written consent of such person. The provisions of this paragraph shall not apply to the activities of the United States Armed Forces in carrying out their responsibilities under applicable Status of Forces arrangements.
 
 “(2) Paragraph (1) of this subsection shall not prohibit officers and employees of the United States from being present during direct police arrest actions with respect to narcotic control efforts in a foreign country to the extent that the Secretary of State and the government of that country agree to such an exemption. The Secretary of State shall report any such agreement to the Congress before the agreement takes effect.”
 
@@ -414,7 +414,7 @@ Notification.—In each case in which counternarcotics assistance is provided fo
 
 #### Report on Armed Forces Stationed in Andean Countries
 
-Pub. L. 101–623, §8, Nov. 21, 1990, 104 Stat. 3355, provided that: “Within 15 days after the end of each month, the President shall submit to the Congress a report listing the number of members of the United States Armed Forces who were assigned or detailed to, or otherwise performed functions in, each Andean country at any time during that month.”
+Pub. L. 101–623, §8, Nov. 21, 1990, 104 Stat. 3355, which required the President to submit to Congress a monthly report listing the number of members of United States Armed Forces assigned or detailed to, or otherwise performing functions in, each Andean country, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 18 of House Document No. 103–7.
 
 #### Precursor Chemicals
 
@@ -456,7 +456,7 @@ Findings.—The Congress finds that—
 
 “(b)
 
-Instruction of United States Executive Directors.—The Secretary of the Treasury shall instruct the United States Executive Director of each multilateral development bank that, in voting with respect to loans from the multilateral development bank to reduce the debt and debt burden of borrowing countries which are major producers, processors, traffickers, or exporters of illegal drugs to the United States, the Executive Director shall give preference to those countries which show marked improvement in reducing the volume of cultivation, processing, trafficking, and export to the United States of illegal drugs. In making a determination under the preceding sentence with respect to a country's improvement, the Secretary of the Treasury shall consult with the heads of the relevant agencies.
+Instruction of United States Executive Directors.—The Secretary of the Treasury shall instruct the United States Executive Director of each multilateral development bank that, in voting with respect to loans from the multilateral development bank to reduce the debt and debt burden of borrowing countries which aremajor producers, processors, traffickers, or exporters of illegal drugs to the United States, the Executive Director shall give preference to those countries which show marked improvement in reducing the volume of cultivation, processing, trafficking, and export to the United States of illegal drugs. In making a determination under the preceding sentence with respect to a country's improvement, the Secretary of the Treasury shall consult with the heads of the relevant agencies.
 
 “(c)
 
@@ -466,7 +466,7 @@ Report to Congress.—The Secretary of the Treasury shall include, in the detail
 
 Definitions.—As used in this section—
 
-&emsp;“(1) the term ‘multilateral development bank’ includes the International Bank for Reconstruction and Development, the International Development Association, the International Finance Corporation, theInter-American Development Bank, the Inter-American Investment Corporation, the Asian Development Bank, the African Development Bank, and the African Development Fund; and
+&emsp;“(1) the term ‘multilateral development bank’ includes the International Bank for Reconstruction and Development, the International Development Association, the International Finance Corporation, the Inter-American Development Bank, the Inter-American Investment Corporation, the Asian Development Bank, the African Development Bank, and the African Development Fund; and
 
 &emsp;“(2) the term ‘illegal drugs’ means ‘narcotic and psychotropic drugs and other controlled substances’, as defined in section 481(i)(3) of the Foreign Assistance Act of 1961 (22 U.S.C. 2291(i)(3)).”
 
@@ -528,7 +528,7 @@ Section 2018 of Pub. L. 99–570 provided that:
 
 “(a)
 
-MDB Assistance for Development and Implementation of Drug Eradication Program.—The Secretary of the Treasury shall instruct the United States Executive Directors of the multilateral development banks to initiate discussions with other Directors of their respective banks and to propose that all possible assistance be provided to each major illicit drug producing country for the development and implementation of a drug eradication program, including technical assistance, assistance in conducting feasibility studies and economic analyses, and assistance for alternate economic activities.
+MDB Assistance for Development and Implementation of Drug Eradication Program.—The Secretary of the Treasury shall instruct the United StatesExecutive Directors of the multilateral development banks to initiate discussions with other Directors of their respective banks and to propose that all possible assistance be provided to each major illicit drug producing country for the development and implementation of a drug eradication program, including technical assistance, assistance in conducting feasibility studies and economic analyses, and assistance for alternate economic activities.
 
 “(b)
 
@@ -536,7 +536,7 @@ Increases in Multilateral Development Bank Lending for Crop Substitution Project
 
 “(c)
 
-National Advisory Council Report.—The Secretary of the Treasury shall include in the annual report to the Congress by the National Advisory Councilon International Monetary and Financial Policies a detailed accounting of the manner in which and the extent to which the provisions of this section have been carried out.
+National Advisory Council Report.—The Secretary of the Treasury shall include in the annual report to the Congress by the National Advisory Council on International Monetary and Financial Policies a detailed accounting of the manner in which and the extent to which the provisions of this section have been carried out.
 
 “(d)
 

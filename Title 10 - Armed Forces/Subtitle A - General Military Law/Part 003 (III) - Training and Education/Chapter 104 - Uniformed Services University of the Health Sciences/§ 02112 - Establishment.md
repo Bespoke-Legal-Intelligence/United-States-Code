@@ -52,7 +52,7 @@ Pub. L. 103–337, div. A, title IX, §922, Oct. 5, 1994, 108 Stat. 2829, as ame
 
 “(b)
 
-Budgetary Commitment to Continuation.—It is the sense of Congress that the Secretary of Defense should budget for the ongoing operation of the Uniformed Services University of the Health Sciences as an institution of professional education that is vital to the education and training each year of significant numbers of personnel of the uniformed services for careers as uniformed services health care providers.
+Budgetary Commitment to Continuation.—It is the sense of Congress that the Secretary of Defense should budget for the ongoing operation of the Uniformed Services University of the Health Sciences as an institution of professional education that is vital to the education and training each year of significantnumbers of personnel of the uniformed services for careers as uniformed services health care providers.
 
 “(c)
 

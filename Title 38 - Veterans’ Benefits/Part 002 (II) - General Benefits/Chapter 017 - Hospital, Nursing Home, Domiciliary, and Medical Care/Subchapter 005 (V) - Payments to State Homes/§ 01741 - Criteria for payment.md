@@ -12,7 +12,7 @@
 
 (b) In no case shall the payments made with respect to any veteran under this section exceed one-half of the cost of the veterans’ care in such State home.
 
-(c) Whenever the Secretary makes a determination pursuant to section 1720(a)(2)(A) of this title that the cost of care furnished by the Department in a general hospital under the direct jurisdiction of the Secretary has increased, the Secretary may, effective no earlier than the date of such determination, increase the rates paid under subsection (a) of this section by apercentage not greater than the percentage by which the Secretary has determined that such cost of care has increased.
+(c) Whenever the Secretary makes a determination pursuant to section 1720(a)(2)(A) of this title that the cost of care furnished by the Department in a general hospital under the direct jurisdiction of the Secretary has increased, the Secretary may, effective no earlier than the date of such determination, increase the rates paid under subsection (a) of this section by a percentage not greater than the percentage by which the Secretary has determined that such cost of care has increased.
 
 (d) Subject to section 1743 of this title, the payment of per diem for care furnished in a State home facility shall commence on the date of the completion of the inspection for recognition of the facility under section 1742(a) of this title if the Secretary determines, as a result of that inspection, that the State home meets the standards described in such section.
 
@@ -24,7 +24,7 @@ Prior sections 1740 and 1741 were renumbered sections 3540 and 3541 of this titl
 
 #### Amendments
 
-1999—Subsec. (a)(2). Pub. L. 106–117 substituted “extended care services described in any of paragraphs (4) through (6) of section 1710B(a) of this title under a program administered by a State home” for “adult day health care in a State home”.
+1999—Subsec. (a)(2). Pub. L. 106–117 substituted “extended care services described in any of paragraphs (4)through (6) of section 1710B(a) of this title under a program administered by a State home” for “adult day health care in a State home”.
 
 1996—Subsec. (a). Pub. L. 104–262 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
 
@@ -114,7 +114,7 @@ Amendment by Pub. L. 93–82 effective Sept. 1, 1973, see section 501 of Pub. L.
 
 #### Effective Date of 1964 Amendment
 
-Section 3(c) of Pub. L. 88–450 provided that: “The amendment made by this section \[amending this section\] shall take effect on January 1, 1965; except that subsection (b) of section 641 \[now 1741\] of title 38, United States Code, as in effect immediately before such date, shall remain in effect with respect to any amounts retained or collected by any State home before such date.”
+Section 3(c) of Pub. L. 88–450 provided that: “The amendment made by this section \[amending this section\] shall take effect on January 1, 1965; except thatsubsection (b) of section 641 \[now 1741\] of title 38, United States Code, as in effect immediately before such date, shall remain in effect with respect to any amounts retained or collected by any State home before such date.”
 
 #### Payments to States for Nursing Home Care
 

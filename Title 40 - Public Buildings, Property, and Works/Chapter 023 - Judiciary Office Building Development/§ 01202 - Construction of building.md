@@ -48,7 +48,7 @@
 
 #### (1) Authority to enter
 
-&emsp;The Architect may enter into with the person selected to develop squares 721 and 722 under subsection (a) of this section an agreement for the development of such squares. Except as otherwise provided in this chapter, such agreement shall provide for development of such squares substantially in accordance with (A) alternative D of the report to Congress entitled “The Study of Alternatives for the Construction of an Office Building(s) for the Administrative Office of the United States Courts”, submitted to Congress on August 10, 1987, by the Architect and the Secretary of Transportation, and (B) the Master Plan for the United States Capitol, dated 1981.
+&emsp;The Architect may enter into with the person selected to develop squares 721 and 722 under subsection (a) of this section an agreement for the development of such squares. Except as otherwise provided in this chapter, such agreement shall provide for development of such squares substantially in accordance with (A) alternative D of the report to Congress entitled “The Study of Alternatives forthe Construction of an Office Building(s) for the Administrative Office of the United States Courts”, submitted to Congress on August 10, 1987, by the Architect and the Secretary of Transportation, and (B) the Master Plan for the United States Capitol, dated 1981.
 
 #### (2) Contents
 
@@ -60,7 +60,7 @@
 
 &emsp;&emsp;(C) Title to the building and other improvements constructed or otherwise made on or to squares 721 and 722 will immediately revert to the United States at the expiration of not more than 30 years from the effective date of the lease agreement entered into under section 1203 of this title without payment of any compensation by the United States.
 
-&emsp;&emsp;(D) The building and other improvements constructed on or to squares 721 and 722 to be leased to the United States will be in accordance with the provisions of this chapterand the lease agreement will contain such terms and conditions as may be prescribed by the Architect to carry out the objectives of this chapter.
+&emsp;&emsp;(D) The building and other improvements constructed on or to squares 721 and 722 to be leased to the United States will be in accordance with the provisions of this chapter and the lease agreement will contain such terms and conditions as may be prescribed by the Architect to carry out the objectives of this chapter.
 
 > &emsp;The agreement shall include a copy of the lease agreement entered into under section 1203 of this title by the Architect and the person selected to develop squares 721 and 722.
 
@@ -88,7 +88,7 @@ The building and other improvements constructed under this chapter shall not be 
 
 Act of December 28, 1985, referred to in subsec. (a)(2), is Pub. L. 99–229, Dec. 28, 1985, 99 Stat. 1749, which is not classified to the Code.
 
-Act of June 1, 1910, commonly known as the Building Height Act of 1910, referred to in subsec. (a)(8)(B), is act June 1, 1910, ch. 263, 36 Stat. 452, which is set out in sections 5–401 to 5–409 of Title 5, Building Restrictions and Regulations, of the District of Columbia Code.
+Act of June 1, 1910, commonly known as the Building Height Act of 1910, referred to in subsec. (a)(8)(B), is act June 1, 1910, ch. 263, 36 Stat. 452, which is not classified to the Code.
 
 #### Section Referred to in Other Sections
 

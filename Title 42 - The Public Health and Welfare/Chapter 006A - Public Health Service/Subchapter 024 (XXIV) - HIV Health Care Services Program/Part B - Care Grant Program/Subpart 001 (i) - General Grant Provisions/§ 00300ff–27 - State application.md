@@ -24,19 +24,41 @@ The application submitted under subsection (a) of this section shall contain—
 
 &emsp;&emsp;&emsp;(iv) the aggregate amounts expended for each such category of services;
 
-&emsp;(2) a comprehensive plan for the organization and delivery of HIV health care and support services to be funded with assistance received under this part that shall include a description of the purposes for which the State intends to use such assistance, including—
+&emsp;(2) a determination of the size and demographics of the population of individuals with HIV disease in the State;
 
-&emsp;&emsp;(A) the services and activities to be provided and an explanation of the manner in which the elements of the program to be implemented by the State with such assistance will maximize the quality of health and support services available to individuals with HIV disease throughout the State;
+&emsp;(3) a determination of the needs of such population, with particular attention to—
 
-&emsp;&emsp;(B) a description of the manner in which services funded with assistance provided under this part will be coordinated with other available related services for individuals with HIV disease; and
+&emsp;&emsp;(A) individuals with HIV disease who know their HIV status and are not receiving HIV-related services; and
 
-&emsp;&emsp;(C) a description of how the allocation and utilization of resources are consistent with the statewide coordinated statement of need (including traditionally underserved populations and subpopulations) developed in partnership with other grantees in the State that receive funding under this subchapter; and <sup>1</sup>
+&emsp;&emsp;(B) disparities in access and services among affected subpopulations and historically underserved communities;
 
-&emsp;(3) an assurance that the public health agency administering the grant for the State will periodically convene a meeting of individuals with HIV, representatives of grantees under each part under this subchapter, providers, and public agency representatives for the purpose of developing a statewide coordinated statement of need; and
+&emsp;(4) a comprehensive plan that describes the organization and delivery of HIV health care and support services to be funded with assistance received under this part that shall include a description of the purposes for which the State intends to use such assistance, and that—
 
-&emsp;(4) an assurance by the State that—
+&emsp;&emsp;(A) establishes priorities for the allocation of funds within the State based on—
 
-&emsp;&emsp;(A) the public health agency that is administering the grant for the State will conduct public hearings concerning the proposed use and distribution of the assistance to be received under this part;
+&emsp;&emsp;&emsp;(i) size and demographics of the population of individuals with HIV disease (as determined under paragraph (2)) and the needs of such population (as determined under paragraph (3));
+
+&emsp;&emsp;&emsp;(ii) availability of other governmental and non-governmental resources, including the State medicaid plan under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] and the State Children's Health Insurance Program under title XXI of such Act \[42 U.S.C. 1397aa et seq.\] to cover health care costs of eligible individuals and families with HIV disease;
+
+&emsp;&emsp;&emsp;(iii) capacity development needs resulting from disparities in the availability of HIV-related services in historically underserved communities and rural communities; and
+
+&emsp;&emsp;&emsp;(iv) the efficiency of the administrative mechanism of the State for rapidly allocating funds to the areas of greatest need within the State;
+
+&emsp;&emsp;(B) includes a strategy for identifying individuals who know their HIV status and are not receiving such services and for informing the individuals of and enabling the individuals to utilize the services, giving particular attention to eliminating disparities in access and services among affected subpopulations and historically underserved communities, and including discrete goals, a timetable, and an appropriate allocation of funds;
+
+&emsp;&emsp;(C) includes a strategy to coordinate the provision of such services with programs forHIV prevention (including outreach and early intervention) and for the prevention and treatment of substance abuse (including programs that provide comprehensive treatment services for such abuse);
+
+&emsp;&emsp;(D) describes the services and activities to be provided and an explanation of the manner in which the elements of the program to be implemented by the State with such assistance will maximize the quality of health and support services available to individuals with HIV disease throughout the State;
+
+&emsp;&emsp;(E) provides a description of the manner in which services funded with assistance provided under this part will be coordinated with other available related services for individuals with HIV disease; and
+
+&emsp;&emsp;(F) provides a description of how the allocation and utilization of resources are consistent with the statewide coordinated statement of need (including traditionally underserved populations and subpopulations) developed in partnership with other grantees in the State that receive funding under this subchapter; and <sup>1</sup>
+
+&emsp;(5) an assurance that the public health agency administering the grant for the State will periodically convene a meeting of individuals with HIV disease, representatives of grantees under each part under this subchapter, providers, and public agency representatives for the purpose of developing a statewide coordinated statement of need; and
+
+&emsp;(6) an assurance by the State that—
+
+&emsp;&emsp;(A) the public health agency that is administering the grant for the State engages in a public advisory planning process, including public hearings, that includes the participants under paragraph (5), and the types of entities described in section 300ff–12(b)(2) of this title, in developing the comprehensive plan under paragraph (4) and commenting on the implementation of such plan;
 
 &emsp;&emsp;(B) the State will—
 
@@ -56,13 +78,15 @@ The application submitted under subsection (a) of this section shall contain—
 
 &emsp;&emsp;(D) the State will permit and cooperate with any Federal investigations undertaken regarding programs conducted under this part;
 
-&emsp;&emsp;(E) the State will maintain HIV-related activities at a level that is equal to not less than the level of such expenditures by the State for the 1-year period preceding the fiscal year for which the State is applying to receive a grant under this part; and
+&emsp;&emsp;(E) the State will maintain HIV-related activities at a level that is equal to not less than the level of such expenditures by the State for the 1-year period preceding the fiscal year for which the State is applying to receive a grant under this part;
 
 &emsp;&emsp;(F) the State will ensure that grant funds are not utilized to make payments for any item or service to the extent that payment has been made, or can reasonably be expected to be made, with respect to that item or service—
 
 &emsp;&emsp;&emsp;(i) under any State compensation program, under an insurance policy, or under any Federal or State health benefits program; or
 
-&emsp;&emsp;&emsp;(ii) by an entity that provides health services on a prepaid basis.
+&emsp;&emsp;&emsp;(ii) by an entity that provides health services on a prepaid basis; and
+
+&emsp;&emsp;(G) entities within areas in which activities under the grant are carried out will maintain appropriate relationships with entities in the area served that constitute key points of access to the health care system for individuals with HIV disease (including emergency rooms, substance abuse treatment programs, detoxification centers, adult and juvenile detention facilities, sexually transmitted disease clinics, HIV counseling and testing sites, mental health programs, and homeless shelters), and other entities under section <sup>2</sup> 300ff–22(c) and 300ff–52(a) of this title, for the purpose of facilitating early intervention for individuals newly diagnosed with HIV disease and individuals knowledgeable of their HIV status but not in care.
 
 #### (c) Requirements regarding imposition of charges for services
 
@@ -110,7 +134,7 @@ The application submitted under subsection (a) of this section shall contain—
 
 #### (1) In general
 
-&emsp;In the case of any State to which the criterion described in paragraph (3) applies, the Secretary may not make a grant under this part unless the State agrees that, with respect to the costs to be incurred by the State in carrying out the program for which the grant was awarded, the State will, subject to subsection (b)(2) of this section, make available (directly or through donations from public or private entities) non-Federal contributions toward such costs in an amount equal to—
+&emsp;In the case of any State to which the criterion described in paragraph (3) applies, the Secretary may not make a grant under this part unless the State agrees that, with respect to the costs to be incurred by the State in carrying out the program for which the grant was awarded, the State will, subject to subsection (b)(2) <sup>3</sup> of this section, make available (directly or through donations from public or private entities) non-Federal contributions toward such costs in an amount equal to—
 
 &emsp;&emsp;(A) for the first fiscal year of payments under the grant, not less than 162/3 percent of such costs ($1 for each $5 of Federal funds provided in the grant);
 
@@ -152,9 +176,37 @@ The application submitted under subsection (a) of this section shall contain—
 
 &emsp;With respect to a State that does not make available the entire amount of the non-Federal contribution referred to in paragraph (1), the State shall continue to be eligible to receive Federal funds under a grant under this part, except that the Secretary in providing Federal funds under the grant shall provide such funds (in accordance with the ratios prescribed in paragraph (1)) only with respect to the amount of funds contributed by such State.
 
-(July 1, 1944, ch. 373, title XXVI, §2617, as added Pub. L. 101–381, title II, §201, Aug. 18, 1990, 104Stat. 590; amended Pub. L. 102–531, title III, §312(d)(29), Oct. 27, 1992, 106 Stat. 3506; Pub. L. 104–146, §§3(c)(4), 12(c)(3), May 20, 1996, 110 Stat. 1355, 1373.)
+(July 1, 1944, ch. 373, title XXVI, §2617, as added Pub. L. 101–381, title II, §201, Aug. 18, 1990, 104 Stat. 590; amended Pub. L. 102–531, title III, §312(d)(29), Oct. 27, 1992, 106 Stat. 3506; Pub. L. 104–146, §§3(c)(4), 12(c)(3), May 20, 1996, 110 Stat. 1355, 1373; Pub. L. 106–345, title II, §205, Oct. 20, 2000, 114 Stat. 1332.)
+
+#### References in Text
+
+The Social Security Act, referred to in subsec. (b)(4)(A)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+
+Subsection (b)(2) of this section, referred to in subsec. (d)(1), was redesignated subsec. (b)(4) by Pub. L. 106–345, title II, §205(a)(1), Oct. 20, 2000, 114 Stat. 1332.
 
 #### Amendments
+
+2000—Subsec. (b)(2), (3). Pub. L. 106–345, §205(a)(2), added pars. (2) and (3). Former pars. (2) and (3) redesignated (4) and (5), respectively.
+
+Subsec. (b)(4). Pub. L. 106–345, §205(a)(3)(A), (B), in introductory provisions substituted “comprehensive plan that describes the organization” for “comprehensive plan for the organization” and “, and that—” for “, including—”.
+
+Pub. L. 106–345, §205(a)(1), redesignated par. (2) as (4). Former par. (4) redesignated (6).
+
+Subsec. (b)(4)(A) to (C). Pub. L. 106–345, §205(a)(3)(D), which directed the amendment of par. (4) by adding subpars. (A) to (C) “before subparagraph (C)”, was executed by adding them before subpar. (D), to reflect the probable intent of Congress. Former subpars. (A) to (C) redesignated (D) to (F), respectively.
+
+Subsec. (b)(4)(D). Pub. L. 106–345, §205(a)(3)(C), (E), redesignated subpar. (A) as (D) and inserted “describes” before “the services and activities”.
+
+Subsec. (b)(4)(E). Pub. L. 106–345, §205(a)(3)(C), (F), redesignated subpar. (B) as (E) and inserted “provides” before “a description”.
+
+Subsec. (b)(4)(F). Pub. L. 106–345, §205(a)(3)(C), (G), redesignated subpar. (C) as (F) and inserted “provides” before “a description”.
+
+Subsec. (b)(5). Pub. L. 106–345, §205(a)(1), (b)(1), redesignated par. (3) as (5) and substituted “HIV disease” for “HIV”.
+
+Subsec. (b)(6). Pub. L. 106–345, §205(a)(1), redesignated par. (4) as (6).
+
+Subsec. (b)(6)(A). Pub. L. 106–345, §205(b)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the public health agency that is administering the grant for the State will conduct public hearings concerning the proposed use and distribution of the assistance to be received under this part;”.
+
+Subsec. (b)(6)(G). Pub. L. 106–345, §205(c), added subpar. (G).
 
 1996—Subsec. (b)(2)(C). Pub. L. 104–146, §3(c)(4)(A), added subpar. (C).
 
@@ -170,5 +222,13 @@ Subsec. (b)(4)(B)(iv). Pub. L. 104–146, §12(c)(3), which directed amendment o
 
 Amendment by Pub. L. 104–146 effective Oct. 1, 1996, see section 13 of Pub. L. 104–146, set out as a note under section 300ff–11 of this title.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 300ff–12, 300ff–22, 300ff–23, 300ff–30 of this title.
+
 <i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “sections”.</i>
+
+<i><sup>3</sup></i><i> See References in Text note below.</i>
 

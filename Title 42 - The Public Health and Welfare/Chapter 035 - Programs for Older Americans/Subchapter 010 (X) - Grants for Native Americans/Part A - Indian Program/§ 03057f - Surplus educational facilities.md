@@ -14,7 +14,3 @@ Each eligible tribal organization desiring to take advantage of such surplus fac
 
 A prior section 3057f, Pub. L. 89–73, title VI, §607, as added Pub. L. 95–478, title I, §106, Oct. 18, 1978, 92 Stat. 1551, related to payments, prior to the general amendment of this subchapter by Pub. L. 100–175. See section 3057m of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3057n of this title.
-

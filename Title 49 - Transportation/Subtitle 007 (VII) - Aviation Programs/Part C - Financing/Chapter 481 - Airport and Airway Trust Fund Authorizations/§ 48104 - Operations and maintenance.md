@@ -2,31 +2,15 @@
 
 (a)
 
-Authorization of Appropriations.—Except as provided in this section, the balance of the money available in the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 (26 U.S.C. 9502) may be appropriated to the Secretary of Transportation out of the Fund for—
+Authorization of Appropriations.—the <sup>1</sup> balance of the money available in the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 (26 U.S.C. 9502) may be appropriated to the Secretary of Transportation out of the Fund for—
 
 &emsp;(1) direct costs the Secretary incurs to flight check, operate, and maintain air navigation facilities referred to in section 44502(a)(1)(A) of this title safely and efficiently; and
 
 &emsp;(2) the costs of services provided under international agreements related to the joint financing of air navigation services assessed against the United States Government.
 
-(b)
+\[(b), (c). Repealed. Pub. L. 106–181, title I, §106(d)(2), Apr. 5, 2000, 114 Stat. 73.\]
 
-Limitation for Fiscal Year 1993.—The amount that may be appropriated out of the Fund for fiscal year 1993 may not be more than an amount equal to—
-
-&emsp;(1) 75 percent of the amount made available under sections 106(k) and 48101–48103 of this title for that fiscal year; less
-
-&emsp;(2) the amount made available under sections 48101–48103 of this title for that fiscal year.
-
-(c)
-
-Limitation for Fiscal Years 1994–1998.—The amount appropriated from the Trust Fund for the purposes of paragraphs (1) and (2) of subsection (a) for each of fiscal years 1994 through 1998 may not exceed the lesser of—
-
-&emsp;(1) 50 percent of the amount of funds made available under sections 48101–48103 of this title for such fiscal year; or
-
-&emsp;(2)(A) 72.5 percent of the amount of funds made available under sections 106(k) and 48101–48103 of this title for such fiscal year; less
-
-&emsp;(B) the amount of funds made available under sections 48101–48103 of this title for such fiscal year.
-
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1296; Pub. L. 103–305, title I, §102(b), Aug. 23, 1994, 108 Stat. 1571; Pub. L. 104–264, title I, §103(b), (d)(1), Oct. 9, 1996, 110 Stat. 3216; Pub. L. 104–287, §5(87), Oct. 11, 1996, 110 Stat. 3398.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1296; Pub. L. 103–305, title I, §102(b), Aug. 23, 1994, 108 Stat. 1571; Pub. L. 104–264, title I, §103(b), (d)(1), Oct. 9, 1996, 110 Stat. 3216; Pub. L. 104–287, §5(87), Oct. 11, 1996, 110 Stat. 3398; Pub. L. 106–181, title I, §106(d), Apr. 5, 2000, 114 Stat. 73.)
 
 Historical and Revision Notes
 
@@ -80,6 +64,10 @@ This makes a clarifying amendment to the catchline for 49:48104(b).
 
 #### Amendments
 
+2000—Subsec. (a). Pub. L. 106–181, §106(d)(1), struck out “Except as provided in this section,” before “the balance of the money” in introductory provisions.
+
+Subsecs. (b), (c). Pub. L. 106–181, §106(d)(2), struck out heading and text of subsecs. (b) and (c), which set out funding limitations for fiscal year 1993 and fiscal years 1994 to 1998, respectively.
+
 1996—Pub. L. 104–264, §103(d)(1), substituted “Operations and maintenance” for “Certain direct costs and joint air navigation services” in section catchline.
 
 Subsec. (b). Pub. L. 104–287 substituted “
@@ -98,6 +86,10 @@ for Fiscal Years 1993” in heading and substituted “fiscal year 1993” for �
 
 Subsec. (c). Pub. L. 103–305, §102(b)(3), added subsec. (c).
 
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
+
 #### Effective Date of 1996 Amendment
 
 Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
@@ -105,4 +97,6 @@ Except as otherwise specifically provided, amendment by Pub. L. 104–264 applic
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 48105, 48108 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

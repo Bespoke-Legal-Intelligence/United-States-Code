@@ -54,7 +54,7 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 #### (5) Contracting authority
 
-&emsp;The authority vested in the Secretary by this part may be performed without regard to such provisions of law or regulations relating to the making, performance, amendment, or modification of contracts of the United States as the Secretary may determine to be inconsistent with the furtherance of the purpose of this subchapter.
+&emsp;The authority vested in the Secretary by this part may be performed without regard to such provisions of law or regulations relating to the making, performance, amendment, ormodification of contracts of the United States as the Secretary may determine to be inconsistent with the furtherance of the purpose of this subchapter.
 
 #### (d) Protections against fraud and beneficiary protections
 
@@ -126,7 +126,7 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 #### (1) In general
 
-&emsp;The contract shall contain such other terms and conditions not inconsistent with this part (including requiring the organization to provide the Secretary with such information) as the Secretary may find necessary and appropriate.
+&emsp;The contract shall contain such other terms and conditions not inconsistent with this part (including requiring the organization to provide the Secretary with such information) asthe Secretary may find necessary and appropriate.
 
 #### (2) Cost-sharing in enrollment-related costs
 
@@ -220,6 +220,8 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 &emsp;&emsp;(C) Suspension of enrollment of individuals under this part after the date the Secretary notifies the organization of a determination under subsection (c)(2) of this section and until the Secretary is satisfied that the deficiency that is the basis for the determination has been corrected and is not likely to recur.
 
+&emsp;&emsp;(D) Civil monetary penalties of not more than $100,000, or such higher amount as the Secretary may establish by regulation, where the finding under subsection (c)(2)(A) of this section is based on the organization's termination of its contract under this section other than at a time and in a manner provided for under subsection (a) of this section.
+
 #### (4) Civil money penalties
 
 &emsp;The provisions of section 1320a–7a (other than subsections (a) and (b)) of this title shall apply to a civil money penalty under paragraph (2) or (3) in the same manner as they apply to a civil money penalty or proceeding under section 1320a–7a(a) of this title.
@@ -238,13 +240,21 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 &emsp;Paragraph (1) shall not apply if the Secretary determines that a delay in termination, resulting from compliance with the procedures specified in such paragraph prior to termination, would pose an imminent and serious risk to the health of individuals enrolled under this part with the organization.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1857, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 319; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §§513(a), (b)(1), 522(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–383, 1501A–387.)
+#### (i) Medicare+Choice program compatibility with employer or union group health plans
+
+To facilitate the offering of Medicare+Choice plans under contracts between Medicare+Choice organizations and employers, labor organizations, or the trustees of a fund established by one or more employers or labor organizations (or combination thereof) to furnish benefits to the entity's employees, former employees (or combination thereof) or members or former members (or combination thereof) of the labor organizations, the Secretary may waive or modify requirements that hinder the design of, the offering of, or the enrollment in such Medicare+Choice plans.
+
+(Aug. 14, 1935, ch. 531, title XVIII, §1857, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 319; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §§513(a), (b)(1), 522(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–383, 1501A–387; Pub. L. 106–554, §1(a)(6) \[title VI, §§617(a), 623(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–561, 2763A–566.)
 
 #### References in Text
 
 Parts A and B of this subchapter, referred to in subsec. (e)(2)(E)(ii), are classified to section 1395c et seq. and section 1395j et seq., respectively, of this title.
 
 #### Amendments
+
+2000—Subsec. (g)(3)(D). Pub. L. 106–554, §1(a)(6) \[title VI, §623(a)\], added subpar. (D).
+
+Subsec. (i). Pub. L. 106–554, §1(a)(6) \[title VI, §617(a)\], added subsec. (i).
 
 1999—Subsec. (c)(4). Pub. L. 106–113, §1000(a)(6) \[title V, §513(b)(1)(B), (C)\], designated existing provisions as subpar. (A), inserted heading, realigned margins, and added subpar. (B).
 
@@ -261,6 +271,12 @@ Subsec. (e)(2)(D)(ii)(III). Pub. L. 106–113, §1000(a)(6) \[title V, §522(a)(
 Subsec. (e)(2)(D)(ii)(IV). Pub. L. 106–113, §1000(a)(6) \[title V, §522(a)(3)(C)\], added subcl. (IV).
 
 Subsec. (e)(2)(E). Pub. L. 106–113, §1000(a)(6) \[title V, §522(a)(4)\], added subpar. (E).
+
+#### Effective Date of 2000 Amendment
+
+Pub. L. 106–554, §1(a)(6) \[title VI, §617(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–562, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to years beginning with 2001.”
+
+Pub. L. 106–554, §1(a)(6) \[title VI, §623(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–566, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to terminations occurring after the date of the enactment of this Act \[Dec. 21, 2000\].”
 
 #### Effective Date of 1999 Amendment
 

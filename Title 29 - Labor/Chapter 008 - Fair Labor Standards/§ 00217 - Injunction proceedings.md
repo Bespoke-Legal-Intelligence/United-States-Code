@@ -6,7 +6,7 @@ The district courts, together with the United States District Court for the Dist
 
 #### Amendments
 
-1961—Pub. L. 87–30 substituted “, including in the case of violations of section 215(a)(2) of this title the restraint of any withholding of payment of minimum wages or overtime compensation found by the court to be due to employees under this chapter (except sums which employees are barred from recovering, at the time of the commencement of the action to restrain the violations, by virtue of the provisions of section 255 of this title” for “: <i>Provided</i>, That no court shall have jurisdiction, in any action brought by the Administrator to restrain such violations, to order the payment to employees of unpaid minimum wages or unpaid overtime compensation or an additional equal amount as liquidated damages in such action”.
+1961—Pub. L. 87–30 substituted “, including in the case of violations of section 215(a)(2) of this title the restraint of any withholding of payment of minimum wages or overtime compensation found by the court to be due to employees under this chapter (except sums which employees are barred from recovering, at thetime of the commencement of the action to restrain the violations, by virtue of the provisions of section 255 of this title” for “: <i>Provided</i>, That no court shall have jurisdiction, in any action brought by the Administrator to restrain such violations, to order the payment to employees of unpaid minimum wages or unpaid overtime compensation or an additional equal amount as liquidated damages in such action”.
 
 1960—Pub. L. 86–624 struck out reference to the District Court for Territory of Alaska.
 
@@ -33,26 +33,6 @@ For termination of the United States District Court for the District of the Cana
 #### Transfer of Functions
 
 Functions relating to enforcement and administration of equal pay provisions vested by this section in Secretary of Labor transferred to Equal Employment Opportunity Commission by Reorg. Plan No. 1 of 1978, §1, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
-
-#### Cross References
-
-Action by employee to recover unpaid minimum wages or unpaid overtime compensation and liquidated damages, see section 216 of this title.
-
-Action by Secretary of Labor to recover unpaid minimum wages or unpaid overtime compensation and liquidated damages, see section 216 of this title.
-
-Child labor provisions, see section 212 of this title.
-
-Criminal penalty for violation of section 215 of this title, see section 216 of this title.
-
-Duty of employer to keep and preserve employment records, see section 211 of this title.
-
-Prohibited acts; prima facie evidence, see section 215 of this title.
-
-Secretary of Labor authorized to bring all actions under this section to enjoin unlawful child labor acts or practices, see section 212 of this title.
-
-Secretary of Labor authorized to bring all injunctive actions under this section to restrain violations of this chapter, see section 211 of this title.
-
-Venue of action not founded on diversity of citizenship, see section 1391 of Title 28, Judiciary and Judicial Procedure.
 
 #### Section Referred to in Other Sections
 

@@ -58,7 +58,7 @@ Pub. L. 104–88, title IV, §401, Dec. 29, 1995, 109 Stat. 955, provided that: 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2242, 2297h–5, 4334, 6239, 6508, 7153, 7274g, 7609, 8473, 9117, 10132, 10133, 10134, 10141, 10155, 10161, 10165, 10196, 10197 of this title; title 15 section 793; title 16 sections 410hh, 544<i>o</i>, 1379, 1536, 1604, 2403a, 3120, 3149, 3232; title 21 section 379<i>o</i>; title 23 sections 112, 133; title 25 sections 2103, 2104; title 30 sections 185, 226, 1147, 1292, 1419; title 33 section 1504; title 43 sections 1331, 1344, 1751, 2005, 2006; title 45 sections 791, 1116; title 49 section 44715; title 50 App. sections 2095, 2096.
+This section is referred to in sections 2242, 2297h–5, 4334, 6508, 7153, 7274g, 7609, 8473, 9117, 10132, 10133, 10134, 10141, 10155, 10161, 10165, 10196, 10197 of this title; title 15 section 793; title 16 sections 410hh, 544<i>o</i>, 1379, 1536, 1604, 2403a, 3120, 3149, 3232; title 21 section 379<i>o</i>; title 23 sections 112, 133; title 25 sections 2103, 2104; title 30 sections 185, 226, 1147, 1292, 1419; title 33 section 1504; title 43 sections 1331, 1344, 1751, 2005, 2006; title 45 sections 791, 1116; title 49 section 44715; title 50 App. sections 2095, 2096.
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

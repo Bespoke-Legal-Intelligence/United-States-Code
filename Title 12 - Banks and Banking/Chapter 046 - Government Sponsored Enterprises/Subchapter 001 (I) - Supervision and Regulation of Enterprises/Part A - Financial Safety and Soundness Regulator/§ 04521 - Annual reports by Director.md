@@ -40,7 +40,7 @@ Not later than March 15 of each year, the Director shall submit to the Committee
 
 #### References in Text
 
-This chapter, referred to in subsec. (a)(1), was in the original “this title”, meaning title XIII of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3941, which is classifiedprincipally to this chapter. For complete classification of title XIII to the Code, see Short Title note set out under section 4501 of this title and Tables.
+This chapter, referred to in subsec. (a)(1), was in the original “this title”, meaning title XIII of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3941, which is classified principally to this chapter. For complete classification of title XIII to the Code, see Short Title note set out under section 4501 of this title and Tables.
 
 #### Amendments
 
@@ -48,5 +48,5 @@ This chapter, referred to in subsec. (a)(1), was in the original “this title�
 
 #### Change of Name
 
-Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 

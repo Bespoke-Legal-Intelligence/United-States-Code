@@ -60,18 +60,6 @@ Act of June 7, 1934, provided that Court of Appeals in District of Columbia, sho
 
 Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, see section 403 of Pub. L. 98–620, set out as an Effective Date note under section 1657 of Title 28, Judiciary and Judicial Procedure.
 
-#### Cross References
-
-Amending or setting aside report or order affecting packer prior to filing of transcript of record in court of appeals, see section 193 of this title.
-
-Federal meat inspection labeling, marking, and container requirements, provisions of section as applicable to appeals, see section 606 of Title 21, Food and Drugs.
-
-Injunction by courts of appeals restraining orders, see section 2349 of Title 28, Judiciary and Judicial Procedure.
-
-Review of cases in courts of appeals by the Supreme Court, see section 1254 of Title 28.
-
-Review of orders by court of appeals, see section 2341 et seq. of Title 28.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 193, 195 of this title; title 21 sections 457, 467, 607, 1036, 1047.

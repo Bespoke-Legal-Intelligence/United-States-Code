@@ -32,7 +32,7 @@
 
 #### (3) Acquisition deadline
 
-&emsp;The Secretary shall substantially complete the acquisition of the lands, waters, and interests in lands and waters within the Preserve, in accordance with the purposes of sections 698q to 698t of this title, not later than 2 yearsafter October 21, 1992, subject to the availability of funds.
+&emsp;The Secretary shall substantially complete the acquisition of the lands, waters, and interests in lands and waters within the Preserve, in accordance with the purposes of sections 698q to 698t of this title, not later than 2 years after October 21, 1992, subject to the availability of funds.
 
 #### (c) Environmental audits
 

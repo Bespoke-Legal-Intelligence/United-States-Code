@@ -70,7 +70,7 @@ Amendment by Pub. L. 91–452 effective on sixtieth day following Oct. 15, 1970,
 
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
 
-Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, setout as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
 
 #### Work Rules Dispute
 
@@ -115,14 +115,6 @@ Sec. 8. \[Expiration date\]. This joint resolution shall expire one hundred and 
 “
 
 Sec. 9. \[Separability\]. If any provision of this joint resolution or the application thereof is held invalid, the remainder of this joint resolution and the application of such provision to other parties or in other circumstances not held invalid shall not be affected thereby.”
-
-#### Federal Rules of Civil Procedure
-
-Subpoena, see rule 45, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-#### Cross References
-
-Immunity of witnesses, see section 6001 et seq. of Title 18, Crimes and Criminal Procedure.
 
 #### Section Referred to in Other Sections
 

@@ -1,5 +1,7 @@
 ### SUBCHAPTER I—REQUIREMENTS
 
+<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
+
 
 ---
 
@@ -19,5 +21,10 @@
 - [&sect; 41712 - Unfair and deceptive practices and unfair methods of competition](%C2%A7%2041712%20-%20Unfair%20and%20deceptive%20practices%20and%20unfair%20methods%20of%20competition.md)
 - [&sect; 41713 - Preemption of authority over prices, routes, and service](%C2%A7%2041713%20-%20Preemption%20of%20authority%20over%20prices%2C%20routes%2C%20and%20service.md)
 - [&sect; 41714 - Availability of slots](%C2%A7%2041714%20-%20Availability%20of%20slots.md)
-- [&sect; 41715 - Air service termination notice](%C2%A7%2041715%20-%20Air%20service%20termination%20notice.md)
-- [&sect; 41716 - Joint venture agreements](%C2%A7%2041716%20-%20Joint%20venture%20agreements.md)
+- [&sect; 41715 - Phase-out of slot rules at certain airports](%C2%A7%2041715%20-%20Phase-out%20of%20slot%20rules%20at%20certain%20airports.md)
+- [&sect; 41716 - Interim slot rules at New York airports](%C2%A7%2041716%20-%20Interim%20slot%20rules%20at%20New%20York%20airports.md)
+- [&sect; 41717 - Interim application of slot rules at Chicago O'Hare International Airport](%C2%A7%2041717%20-%20Interim%20application%20of%20slot%20rules%20at%20Chicago%20O%27Hare%20International%20Airport.md)
+- [&sect; 41718 - Special rules for Ronald Reagan Washington National Airport](%C2%A7%2041718%20-%20Special%20rules%20for%20Ronald%20Reagan%20Washington%20National%20Airport.md)
+- [&sect; 41719 - Air service termination notice](%C2%A7%2041719%20-%20Air%20service%20termination%20notice.md)
+- [&sect; 41720 - Joint venture agreements](%C2%A7%2041720%20-%20Joint%20venture%20agreements.md)
+- [&sect; 41721 - Reports by carriers on incidents involving animals during air transport](%C2%A7%2041721%20-%20Reports%20by%20carriers%20on%20incidents%20involving%20animals%20during%20air%20transport.md)

@@ -26,7 +26,7 @@ Ninety percent of the sums allotted to each State pursuant to section 49e of thi
 
 Ten percent of the sums allotted to each State pursuant to section 49e of this title shall be reserved for use in accordance with this subsection by the Governor of each such State to provide—
 
-&emsp;(1) performance incentives for public employment service offices and programs, consistent with performance standards established by the Secretary, taking into account direct or indirect placements (including those resulting from self-directed job search or group job search activities assisted by such offices or programs), wages on entered employment, retention, and other appropriate factors;
+&emsp;(1) performance incentives for public employment service offices and programs, consistent with performance standards established by the Secretary, taking into accountdirect or indirect placements (including those resulting from self-directed job search or group job search activities assisted by such offices or programs), wages on entered employment, retention, and other appropriate factors;
 
 &emsp;(2) services for groups with special needs, carried out pursuant to joint agreements between the employment service and the appropriate local workforce investment board and chief elected official or officials or other public agencies or private nonprofit organizations; and
 

@@ -10,7 +10,7 @@ Goal.—The goal of the study conducted under subsection (a) is to determine the
 
 (c)
 
-Participation.—In conducting the study required under subsection (a), the Administrator of the Federal Aviation Administration and the Administrator of the National Aeronautics and Space Administration shall encourage the participation of the Department of Defense, the Department of the Interior, the airtour industry, the aviation industry, academia and other appropriate groups.
+Participation.—In conducting the study required under subsection (a), the Administrator of the Federal Aviation Administration and theAdministrator of the National Aeronautics and Space Administration shall encourage the participation of the Department of Defense, the Department of the Interior, the airtour industry, the aviation industry, academia and other appropriate groups.
 
 (d)
 

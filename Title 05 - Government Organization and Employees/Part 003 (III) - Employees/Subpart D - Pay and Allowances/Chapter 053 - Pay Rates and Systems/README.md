@@ -94,6 +94,7 @@
 | [5371\.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Provisions/%C2%A7%2005371%20-%20Health%20care%20positions.md) | Health care positions. |
 | [5372\.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Provisions/%C2%A7%2005372%20-%20Administrative%20law%20judges.md) | Administrative law judges. |
 | [5372a.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Provisions/%C2%A7%2005372a%20-%20Contract%20appeals%20board%20members.md) | Contract appeals board members. |
+| [5372b.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Provisions/%C2%A7%2005372b%20-%20Administrative%20appeals%20judges.md) | Administrative appeals judges. |
 | [5373\.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Provisions/%C2%A7%2005373%20-%20Limitation%20on%20pay%20fixed%20by%20administrative%20action.md) | Limitation on pay fixed by administrative action. |
 | [5374\.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Provisions/%C2%A7%2005374%20-%20Miscellaneous%20positions%20in%20the%20executive%20branch.md) | Miscellaneous positions in the executive branch. |
 | [5375\.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Provisions/%C2%A7%2005375%20-%20Police%20force%20of%20the%20National%20Zoological%20Park.md) | Police force of the National Zoological Park. |
@@ -128,6 +129,8 @@
 
 #### Amendments
 
+2000—Pub. L. 106–554, §1(a)(3) \[title VI, §645(a)(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–170, added item 5372b.
+
 1992—Pub. L. 102–378, §8(a), Oct. 2, 1992, 106 Stat. 1359, repealed Pub. L. 100–510, §1206(i)(2). See 1990 Amendment note below.
 
 Pub. L. 102–378, §2(24), Oct. 2, 1992, 106 Stat. 1348, substituted “repayments” for “repayment” in item 5379 and struck out “Sec.” before item 5391.
@@ -158,7 +161,7 @@ Pub. L. 95–251, §2(c)(4), Mar. 27, 1978, 92 Stat. 184, substituted “Adminis
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 3372, 5363, 9503 of this title; title 10 section 9314; title 15 section 770; title 20 sections 1018, 3502; title 22 sections 2124c, 2385, 3963, 4606; title 38 sections 7404, 7451; title 40 section 166b–3b; title 42 sections 5872, 7292.
+This chapter is referred to in sections 3372, 5363, 9503 of this title; title 10 section 9314; title 15 section 770; title 20 sections 1018, 3502; title 22 sections 2124c, 2385, 3963, 4606; title 35 section 3; title 38 sections 7404, 7451; title 40 section 166b–3b; title 42 sections 5872, 7292.
 
 
 ---

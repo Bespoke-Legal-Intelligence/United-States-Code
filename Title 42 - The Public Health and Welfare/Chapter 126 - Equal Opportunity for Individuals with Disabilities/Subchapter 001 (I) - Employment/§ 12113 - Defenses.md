@@ -46,7 +46,7 @@ The term “qualification standards” may include a requirement that an individ
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 12209 of this title; title 2 sections 1202, 1311; title 3 section 411.
+This section is referred to in sections 2000e–16b, 12209 of this title; title 2 section 1311; title 3 section 411.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “transmissibility”.</i>
 

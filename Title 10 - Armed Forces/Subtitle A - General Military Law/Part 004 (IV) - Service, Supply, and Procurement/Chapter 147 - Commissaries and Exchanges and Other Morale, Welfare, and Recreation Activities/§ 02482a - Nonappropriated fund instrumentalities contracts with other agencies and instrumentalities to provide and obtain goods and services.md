@@ -1,6 +1,6 @@
 ### §2482a. Nonappropriated fund instrumentalities: contracts with other agencies and instrumentalities to provide and obtain goods and services
 
-An agency or instrumentality of the Department of Defense that supports the operation ofthe exchange system, or the operation of a morale, welfare, and recreation system, of the Department of Defense may enter into a contract or other agreement with another element of the Department of Defense or with another Federal department, agency, or instrumentality to provide or obtain goods and services beneficial to the efficient management and operation of the exchange system or that morale, welfare, and recreation system.
+An agency or instrumentality of the Department of Defense that supports the operation of the exchange system, or the operation of a morale, welfare, and recreation system, of the Department of Defense may enter into a contract or other agreement with another element of the Department of Defense or with another Federal department, agency, or instrumentality to provide or obtain goods and services beneficial to the efficient management and operation of the exchange system or that morale, welfare, and recreation system.
 
 (Added Pub. L. 104–201, div. A, title III, §341(a)(1), Sept. 23, 1996, 110 Stat. 2488.)
 

@@ -44,7 +44,7 @@ Drugs and Driver Behavior.—In addition to the research authorized by subsectio
 
 (d) The Secretary may, where he deems it to be in furtherance of the purposes of section 402 of this title, vest in State or local agencies, on such terms and conditions as he deems appropriate, title to equipment purchased for demonstration projects with funds authorized by this section.
 
-(e) In addition to the research authorized by subsection (a) of this section, the Secretary shall, either independently or in cooperation with other Federal departments or agencies, conduct research into, and make grants to or contracts with State or local agencies, institutions, and individuals for projects to demonstrate the administrative adjudication of traffic infractions. Such administrative adjudication demonstration projects shall be designed to improve highway safety by developing fair, efficient, and effective processes and procedures for traffic infraction adjudication, utilizing appropriate punishment, training, and rehabilitative measures for traffic offenders. The Secretaryshall report to Congress by July 1,1975, and each year thereafter during the continuance of the program, on the research and demonstration projects authorized by this subsection, and shall include in such report a comparison of the fairness, efficiency, and effectiveness of administrative adjudication of traffic infractions with other methods of handling such infractions.
+(e) In addition to the research authorized by subsection (a) of this section, the Secretary shall, either independently or in cooperation with other Federal departments or agencies, conduct research into, and make grants to or contracts with State or local agencies, institutions, and individuals for projects to demonstrate the administrative adjudication of traffic infractions. Such administrative adjudication demonstration projects shall be designed to improve highway safety by developing fair, efficient, and effective processes and procedures for traffic infraction adjudication, utilizing appropriate punishment, training, and rehabilitative measures for traffic offenders. The Secretary shall report to Congress by July 1, 1975, and each year thereafter during the continuance of the program, on the research and demonstration projects authorized by this subsection, and shall include in such report a comparison of the fairness, efficiency, and effectiveness of administrative adjudication of traffic infractions with other methods of handling such infractions.
 
 (f)
 
@@ -100,13 +100,17 @@ Subsecs. (d) to (f). Pub. L. 93–87, §§221, 222, 226(a), added subsecs. (d) t
 
 Amendment by Pub. L. 102–240, except as otherwise provided, effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available after Sept. 30, 1991, and not applicable to funds appropriated or made available on or before Dec. 18, 1991, see section 2008 of Pub. L. 102–240, set out as a note under section 402 of this title.
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsec. (e) of this section is listed on page 134), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+
 #### Safety Studies
 
 Pub. L. 105–178, title II, §2007, June 9, 1998, 112 Stat. 336, provided that:
 
 “(a)
 
-Blowout Resistant Tires Study.—The Secretary shall conduct a study on the benefit to public safety of the use of blowout resistant tires on commercial motor vehicles and the potential to decrease the incidence of accidents and fatalities from accidents occurring as a result of blown out tires.
+Blowout Resistant Tires Study.—The Secretary shall conduct a study on the benefit to public safety of the use of blowout resistant tires on commercial motor vehicles and the potential to decrease theincidence of accidents and fatalities from accidents occurring as a result of blown out tires.
 
 “(b)
 
@@ -312,7 +316,7 @@ Section 226(b) of Pub. L. 93–87 provided that: “For the purpose of carrying 
 
 #### Authorization of Additional Appropriations
 
-Authorization of appropriation of additional sum of $10,000,000 for the fiscal year ending June 30, 1967,$20,000,000 for the fiscal year ending June 30, 1968, and $25,000,000 for the fiscal year ending June 30, 1969, for the purpose of carrying out this section and section 307(a) of this title, see section 105 of Pub. L. 89–564, set out as a note under section 307 of this title.
+Authorization of appropriation of additional sum of $10,000,000 for the fiscal year ending June 30, 1967, $20,000,000 for the fiscal year ending June 30, 1968, and $25,000,000 for the fiscal year ending June 30, 1969, for the purpose of carrying out this section and section 307(a) of this title, see section 105 of Pub. L. 89–564, set out as a note under section 307 of this title.
 
 #### Section Referred to in Other Sections
 

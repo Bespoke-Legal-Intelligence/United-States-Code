@@ -16,15 +16,17 @@ Upon receipt of a claim filed under subsection (a) of this section, the Administ
 
 #### (c) Payment
 
-The Secretary shall forward the claim and a copy of the Administrator's determination under subsection (b)(3) of this section to the Secretary of the Treasury. The Secretary of the Treasury shall, upon receipt of the claim and determination, pay such fire service or its parent jurisdiction, from any moneys in the Treasury not otherwise appropriated but subject to reimbursement (from any appropriations which may be available or which may be made available for the purpose) by the Federal department or agency under whose jurisdiction the fire occurred, a sum no greater than the amount determined with respect to the claim under subsection (b)(3) of this section.
+The Director shall forward the claim and a copy of the Administrator's determination under subsection (b)(3) of this section to the Secretary of the Treasury. The Secretary of the Treasury shall, upon receipt of the claim and determination, pay such fire service or its parent jurisdiction, from any moneys in the Treasury not otherwise appropriated but subject to reimbursement (from any appropriations which may be available or which may be made available for the purpose) by the Federal department or agency under whose jurisdiction the fire occurred, a sum no greater than the amount determined with respect to the claim under subsection (b)(3) of this section.
 
 #### (d) Adjudication
 
 In the case of a dispute arising in connection with a claim under this section, the United States Court of Federal Claims shall have jurisdiction to adjudicate the claim and enter judgment accordingly.
 
-(Pub. L. 93–498, §11, Oct. 29, 1974, 88 Stat. 1543; Pub. L. 97–164, title I, §146, Apr. 2, 1982, 96 Stat. 45; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
+(Pub. L. 93–498, §11, Oct. 29, 1974, 88 Stat. 1543; Pub. L. 97–164, title I, §146, Apr. 2, 1982, 96 Stat. 45; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 106–503, title I, §110(a)(2)(B)(iii), Nov. 13, 2000, 114 Stat. 2302.)
 
 #### Amendments
+
+2000—Subsec. (c). Pub. L. 106–503 substituted “Director shall forward” for “Secretary shall forward”.
 
 1992—Subsec. (d). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 

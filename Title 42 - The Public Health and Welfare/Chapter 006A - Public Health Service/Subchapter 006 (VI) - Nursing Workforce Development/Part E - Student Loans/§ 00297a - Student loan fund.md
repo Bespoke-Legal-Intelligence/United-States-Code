@@ -2,7 +2,7 @@
 
 #### (a) Agreements to establish and operate fund authorized
 
-The Secretary is authorized to enter into an agreement for the establishment and operation of a student loan fund in accordance with this subpart <sup>1</sup> with any public or nonprofit private school of nursing which is located in a State.
+The Secretary is authorized to enter into an agreement for the establishment and operation of a student loan fund in accordance with this part <sup>1</sup> with any public or nonprofit private school of nursing which is located in a State.
 
 #### (b) Provisions of agreements
 
@@ -10,7 +10,7 @@ Each agreement entered into under this section shall—
 
 &emsp;(1) provide for establishment of a student loan fund by the school;
 
-&emsp;(2) provide for deposit in the fund, except as provided in section 297h of this title, of (A) the Federal capital contributions paid from allotments under section 297d of this title to the school by the Secretary, (B) an additional amount from other sources equal to not less than one-ninth of such Federal capital contributions, (C) collections of principal and interest on loans made from the fund, (D) collections pursuant to section 297b(f) of this title, and (E) any other earnings of the fund;
+&emsp;(2) provide for deposit in the fund, except as provided in section 297h of this title, of (A) the Federal capital contributions paid from allotments under section 297d of this title to the school by the Secretary, (B) an additionalamount from other sources equal to not less than one-ninth of such Federal capital contributions, (C) collections of principal and interest on loans made from the fund, (D) collections pursuant to section 297b(f) of this title, and (E) any other earnings of the fund;
 
 &emsp;(3) provide that the fund, except as provided in section 297h of this title, shall be used only for loans to students of the school in accordance with the agreement and for costs of collection of such loans and interest thereon;
 
@@ -20,19 +20,19 @@ Each agreement entered into under this section shall—
 
 #### (c) Regulatory standards applicable to collection of loans
 
-(1) Any standard established by the Secretary by regulation for the collection by schools of nursing of loans made pursuant to loan agreements under this subpart <sup>1</sup> shall provide that the failure of any such school to collect such loans shall be measured in accordance with this subsection. With respect to the student loan fund established pursuant to such agreements, this subsection may not be construed to require such schools to reimburse such loan fund for loans that became uncollectable prior to 1983.
+(1) Any standard established by the Secretary by regulation for the collection by schools of nursing of loans made pursuant to loan agreements under this part <sup>1</sup> shall provide that the failure of any such school to collect such loans shall be measured in accordance with this subsection. With respect to the student loan fund established pursuant to such agreements, this subsection may not be construed to require such schools to reimburse such loan fund for loans that became uncollectable prior to 1983.
 
-(2) The measurement of a school's failure to collect loans made under this subpart <sup>1</sup> shall be the ratio (stated as a percentage) that the defaulted principal amount outstanding of such school bears to the matured loans of such school.
+(2) The measurement of a school's failure to collect loans made under this part <sup>1</sup> shall be the ratio (stated as a percentage) that the defaulted principal amount outstanding of such school bears to the matured loans of such school.
 
 (3) For purposes of this subsection—
 
-&emsp;(A) the term “default” means the failure of a borrower of a loan made under this subpart to—
+&emsp;(A) the term “default” means the failure of a borrower of a loan made under this part <sup>1</sup> to—
 
 &emsp;&emsp;(i) make an installment payment when due; or
 
 &emsp;&emsp;(ii) comply with any other term of the promissory note for such loan,
 
-> &emsp;except that a loan made under this subpart shall not be considered to be in default if the loan is discharged in bankruptcy or if the school reasonably concludes from written contacts with the borrower that the borrower intends to repay the loan;
+> &emsp;except that a loan made under this part <sup>1</sup> shall not be considered to be in default if the loan is discharged in bankruptcy or if the school reasonably concludes from written contacts with the borrower that the borrower intends to repay the loan;
 
 &emsp;(B) the term “defaulted principal amount outstanding” means the total amount borrowed from the loan fund of a school that has reached the repayment stage (minus any principal amount repaid or cancelled) on loans—
 
@@ -42,7 +42,7 @@ Each agreement entered into under this section shall—
 
 &emsp;(C) the term “grace period” means the period of nine months beginning on the date on which the borrower ceases to pursue a full-time or half-time course of study at a school of nursing; and
 
-&emsp;(D) the term “matured loans” means the total principal amount of all loans made by a school of nursing under this subpart minus the total principal amount of loans made by such school to students who are—
+&emsp;(D) the term “matured loans” means the total principal amount of all loans made by a school of nursing under this part <sup>1</sup> minus the total principal amount of loans made by such school to students who are—
 
 &emsp;&emsp;(i) enrolled in a full-time or half-time course of study at such school; or
 
@@ -52,7 +52,7 @@ Each agreement entered into under this section shall—
 
 #### References in Text
 
-This subpart, referred to in subsecs. (a) and (c), probably should be “this part”, to reflect the redesignation of subpart II of part B of this subchapter as part E of this subchapter by Pub. L. 105–392, title I, §123(2), Nov. 13, 1998, 112 Stat. 3562.
+This part, referred to in subsecs. (a) and (c), was in the original “this subpart” and was translated to reflect the probable intent of Congress and the redesignation of subpart II of part B of this subchapter as part E of this subchapter by Pub. L. 105–392, title I, §123(2), Nov. 13, 1998, 112 Stat. 3562.
 
 #### Amendments
 
@@ -78,7 +78,7 @@ Subsec. (b). Pub. L. 94–63, §§936(a), 941(h)(3), (i)(2), in cl. (2) substitu
 
 1968—Subsec. (b)(2). Pub. L. 90–490, §222(a)(1), (c)(2), inserted “, except as provided in section 297h of this title,” after “fund” where first appearing and added cl. (D) and redesignated former cl. (D) as (E), respectively.
 
-Subsec. (b)(3). Pub. L. 90–490, §222(a)(1), inserted “, except as provided in section 297h of this title” after “fund” where first appearing and authorized the cancellation of an additional 50 per centum of a nursery student loan.
+Subsec. (b)(3). Pub. L. 90–490, §222(a)(1), inserted “, except as provided in section 297h of this title” after“fund” where first appearing and authorized the cancellation of an additional 50 per centum of a nursery student loan.
 
 Subsec. (b)(4). Pub. L. 90–490, §222(a)(2), substituted “1971” for “1969”.
 
@@ -90,7 +90,7 @@ Section 10 of Pub. L. 99–92 provided that:
 
 “(a) Except as provided in subsection (b), this Act \[enacting section 297i of this title, transferring section 296c to section 298b–5 of this title, amending this section, sections 296k, 296<i>l</i>, 296m, 297, 297–1, 297b, 297d, 297e, 298, 298b, and 298b–5 of this title, sections 1332, 1333, 1336, and 1341 of Title 15, Commerce and Trade, and section 6103 of Title 26, Internal Revenue Code, repealing sections 296 to 296b, 296d to 296f, 296j, 297h, and 297j of this title, and enacting provisions set out as notes under sections 201 and 298b–5 of this title and section 1333 of Title 15\] and the amendments and repeals made by this Act shall take effect on October 1, 1985.
 
-“(b)(1) The provisions of section 9(c) of this Act \[transferring section 296c of this title to section 298b–5of this title, amending section 298b–5 of this title, and enacting provisions set out as notes under section 298b–5 of this title\] and the amendment made by paragraph (1) of such section shall take effect on the date of enactment of this Act \[Aug. 16, 1985\].
+“(b)(1) The provisions of section 9(c) of this Act \[transferring section 296c of this title to section 298b–5 of this title, amending section 298b–5 of this title, and enacting provisions set out as notes under section 298b–5 of this title\] and the amendment made by paragraph (1) of such section shall take effect on the date of enactment of this Act \[Aug. 16, 1985\].
 
 “(2) The amendment made by section 8(a) of this Act \[amending section 297a of this title\] shall take effect June 30, 1984.”
 

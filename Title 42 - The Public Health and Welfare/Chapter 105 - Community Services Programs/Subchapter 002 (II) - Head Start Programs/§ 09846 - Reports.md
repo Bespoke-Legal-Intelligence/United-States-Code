@@ -62,7 +62,7 @@ The Social Security Act, referred to in subsec. (a)(8), is act Aug. 14, 1935, ch
 
 #### Amendments
 
-1998—Pub. L. 105–285 designated existing provisions as subsec. (a), inserted heading, substituted “Educationand the Workforce” for “Education and Labor” in introductory and concluding provisions, and added subsec. (b).
+1998—Pub. L. 105–285 designated existing provisions as subsec. (a), inserted heading, substituted “Education and the Workforce” for “Education and Labor” in introductory and concluding provisions, and added subsec. (b).
 
 1994—Pub. L. 103–252, §118(a)(1), substituted “Reports” for “Evaluation” in section catchline.
 
@@ -89,6 +89,10 @@ Amendment by Pub. L. 102–401 effective Oct. 7, 1992, but not applicable with r
 #### Effective Date of 1990 Amendment
 
 Amendment by Pub. L. 101–501 effective Oct. 1, 1990, see section 1001(a) of Pub. L. 101–501, set out as a note under section 8621 of this title.
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the 4th item on page 79 identifies a reporting provision which, as subsequently amended, is contained in subsec. (a) of this section), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 
 #### Section Referred to in Other Sections
 

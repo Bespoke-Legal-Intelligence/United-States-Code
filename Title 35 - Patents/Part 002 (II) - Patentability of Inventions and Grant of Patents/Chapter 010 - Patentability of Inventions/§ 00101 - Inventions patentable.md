@@ -6,17 +6,9 @@ Whoever invents or discovers any new and useful process, machine, manufacture, o
 
 #### Historical and Revision Notes
 
-Based on Title 35, U.S.C., 1946 ed., §31 (R.S. 4886, amended (1) Mar. 3, 1897, ch. 391, §1, 29 Stat. 692, (2) May 23, 1930, ch. 312, §1, 46 Stat. 376, (3) Aug. 5, 1939, ch. 450, §1, 53 Stat. 1212).
+Based on Title 35, U.S.C., 1946 ed., §31 (R.S. 4886, amended (1) Mar. 3, 1897, ch. 391, §1, 29 Stat. 692, (2) May23, 1930, ch. 312, §1, 46 Stat. 376, (3) Aug. 5, 1939, ch. 450, §1, 53 Stat. 1212).
 
 The corresponding section of existing statute is split into two sections, section 101 relating to the subject matter for which patents may be obtained, and section 102 defining statutory novelty and stating other conditions for patentability.
 
 Section 101 follows the wording of the existing statute as to the subject matter for patents, except that reference to plant patents has been omitted for incorporation in section 301 and the word “art” has been replaced by “process”, which is defined in section 100. The word “art” in the corresponding section of the existing statute has a different meaning than the same word as used in other places in the statute; it has been interpreted by the courts as being practically synonymous with process or method. “Process” has been used as its meaning is more readily grasped than “art” as interpreted, and the definition in section 100(b) makes it clear that “process or method” is meant. The remainder of the definition clarifies the status of processes or methods which involve merely the new use of a known process, machine, manufacture, composition of matter, or material; they are processes or methods under the statute and may be patented provided the conditions for patentability are satisfied.
-
-#### Cross References
-
-Design patents, see section 171 et seq. of this title.
-
-Issue of patent generally, see section 151 et seq. of this title.
-
-Plant patents, see section 161 et seq. of this title.
 

@@ -8,7 +8,3 @@ Any duties devolving upon the Secretary of Agriculture by virtue of the provisio
 
 See section 1610 of this title.
 
-#### Cross References
-
-Delegation of regulatory functions of Secretary of Agriculture, see section 450c et seq. of this title.
-

@@ -18,7 +18,7 @@
 
 #### (D) Caribbean Council
 
-&emsp;The Caribbean Fishery Management Council shall consist of the Virgin Islands and the Commonwealth of Puerto Rico and shall have authority over the fisheries in the Caribbean Sea and Atlantic Ocean seaward of such States (except as provided in paragraph (3)). The Caribbean Council shall have 7 voting members, including 4 appointed by the Secretary in accordance with subsection (b)(2) of this section (at least one of whom shall be appointed from each such State).
+&emsp;The Caribbean Fishery Management Council shall consist of the Virgin Islands and the Commonwealth of Puerto Rico and shall have authority over the fisheries in the CaribbeanSea and Atlantic Ocean seaward of such States (except as provided in paragraph (3)). The Caribbean Council shall have 7 voting members, including 4 appointed by the Secretary in accordance with subsection (b)(2) of this section (at least one of whom shall be appointed from each such State).
 
 #### (E) Gulf Council
 
@@ -26,7 +26,7 @@
 
 #### (F) Pacific Council
 
-&emsp;The Pacific Fishery Management Council shall consist of the States of California, Oregon, Washington, and Idaho and shall have authority over the fisheries in the Pacific Ocean seaward of such States. The Pacific Council shall have 14 voting members, including 8 appointed by the Secretary in accordance with subsection (b)(2) of this section (at least one of whom shall be appointed from eachsuch State), and including one appointed from an Indian tribe with Federally <sup>1</sup> recognized fishing rights from California, Oregon, Washington, or Idaho in accordance with subsection (b)(5) of this section.
+&emsp;The Pacific Fishery Management Council shall consist of the States of California, Oregon, Washington, and Idaho and shall have authority over the fisheries in the Pacific Ocean seaward of such States. The Pacific Council shall have 14 voting members, including 8 appointed by the Secretary in accordance with subsection (b)(2) of this section (at least one of whom shall be appointed from each such State), and including one appointed from an Indian tribe with Federally <sup>1</sup> recognized fishing rights from California, Oregon, Washington, or Idaho in accordance with subsection (b)(5) of this section.
 
 #### (G) North Pacific Council
 
@@ -106,7 +106,7 @@ The voting members of each Council who are required to be appointed by the Secre
 
 #### (e) Transaction of business
 
-(1) A majority of the voting members of any Council shall constitute a quorum, but one or more such members designated by the Council may hold hearings. All decisions of any Council shall be by majority vote of the voting members present and voting.
+(1) A majority of the voting members of any Council shall constitute a quorum, but one ormore such members designated by the Council may hold hearings. All decisions of any Council shall be by majority vote of the voting members present and voting.
 
 (2) The voting members of each Council shall select a Chairman for such Council from among the voting members.
 
@@ -164,7 +164,7 @@ The voting members of each Council who are required to be appointed by the Secre
 
 Each Council shall, in accordance with the provisions of this chapter—
 
-&emsp;(1) for each fishery under its authority that requires conservation and management, prepare and submit to the Secretary (A) a fishery management plan, and (B) amendments to each such plan that are necessary from time to time (and promptly whenever changes in conservation and management measures in another fishery substantially affect the fishery for which such plan was developed);
+&emsp;(1) for each fishery under its authority that requires conservation and management, prepare and submit to the Secretary (A) a fishery management plan, and (B) amendments toeach such plan that are necessary from time to time (and promptly whenever changes in conservation and management measures in another fishery substantially affect the fishery for which such plan was developed);
 
 &emsp;(2) prepare comments on any application for foreign fishing transmitted to it under section 1824(b)(4)(C) of this title or section 1824(d) of this title, and any fishery management plan or amendment transmitted to it under section 1854(c)(4) of this title;
 
@@ -262,7 +262,7 @@ Each Council shall, in accordance with the provisions of this chapter—
 
 (D) Any affected individual who does not vote in a Council decision in accordance with this subsection may state for the record how he or she would have voted on such decision if he or she had voted.
 
-(E) If the Council makes a decision before the Secretary has reviewed a determination under subparagraph (C), the eventual ruling may not be treated as cause for the invalidation or reconsideration by the Secretary of such decision.
+(E) If the Council makes a decision before the Secretary has reviewed a determination under subparagraph (C), the eventual ruling may notbe treated as cause for the invalidation or reconsideration by the Secretary of such decision.
 
 (F) The Secretary, in consultation with the Councils and by not later than one year from October 11, 1996, shall promulgate regulations which prohibit an affected individual from voting in accordance with subparagraph (A), and which allow for the making of determinations under subparagraphs (B) and (C).
 

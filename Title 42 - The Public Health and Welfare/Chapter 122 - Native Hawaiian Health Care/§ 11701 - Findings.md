@@ -42,9 +42,9 @@ The Congress finds that:
 
 &emsp;(18) In furtherance of the trust responsibility for the betterment of the conditions of Native Hawaiians, the United States has established a program for the provision of comprehensive health promotion and disease prevention services to maintain and improve the health status of the Hawaiian people.
 
-&emsp;(19) This historical and unique legal relationship has been consistently recognized and affirmed by the Congress through the enactment of Federal laws which extend to the Hawaiian people the same rights and privileges accorded to American Indian, Alaska Native, Eskimo, and Aleut communities, including the Native American Programs Act of 1974 \[42 U.S.C. 2991 et seq.\]; the American Indian Religious Freedom Act \[42 U.S.C. 1996\]; the National Museum of the American Indian Act \[20 U.S.C. 80q et seq.\]; and the Native American Graves Protection and Repatriation Act \[25 U.S.C. 3001 et seq.\].
+&emsp;(19) This historical and unique legal relationship has been consistently recognized and affirmed by the Congress through the enactment of Federal laws which extend to the Hawaiian people the same rights and privileges accorded to American Indian, Alaska Native, Eskimo, and Aleut communities, including the Native American Programs Act of 1974 \[42 U.S.C. 2991 et seq.\]; the American Indian Religious Freedom Act \[42 U.S.C. 1996, 1996a\]; the National Museum of the American Indian Act \[20 U.S.C. 80q et seq.\]; and the Native American Graves Protection and Repatriation Act \[25 U.S.C. 3001 et seq.\].
 
-&emsp;(20) The United States has also recognized and reaffirmed the trust relationship to the Hawaiian people through legislation which authorizes the provision of services to NativeHawaiians, specifically, the Older Americans Act of 1965 \[42 U.S.C. 3001 et seq.\], the Developmental Disabilities Assistance and Bill of Rights Act Amendments of 1987, the Veterans’ Benefits and Services Act of 1988, the Rehabilitation Act of 1973 \[29 U.S.C. 701 et seq.\], the Native Hawaiian Health Care Act of 1988, the Health Professions Reauthorization Act of 1988, the Nursing Shortage Reduction and Education Extension Act of 1988, the Handicapped Programs Technical Amendments Act of 1988, the Indian Health Care Amendments of 1988, and the Disadvantaged Minority Health Improvement Act of 1990.
+&emsp;(20) The United States has also recognized and reaffirmed the trust relationship to the Hawaiian people through legislation which authorizes the provision of services to Native Hawaiians, specifically, the Older Americans Act of 1965 \[42 U.S.C. 3001 et seq.\], the Developmental Disabilities Assistance and Bill of Rights Act Amendments of 1987, the Veterans’ Benefits and Services Act of 1988, the Rehabilitation Act of 1973 \[29 U.S.C. 701 et seq.\], the Native Hawaiian Health Care Act of 1988, the Health Professions Reauthorization Act of 1988, the Nursing Shortage Reduction and Education Extension Act of 1988, the Handicapped Programs Technical Amendments Act of 1988, the Indian Health Care Amendments of 1988, and the Disadvantaged Minority Health Improvement Act of 1990.
 
 &emsp;(21) The United States has also affirmed the historical and unique legal relationship to the Hawaiian people by authorizing the provision of services to Native Hawaiians to address problems of alcohol and drug abuse under the Anti-Drug Abuse Act of 1986.
 
@@ -66,7 +66,7 @@ An Act to provide for the admission of the State of Hawaii into the Union, refer
 
 The Native American Programs Act of 1974, referred to in par. (19), is title VIII of Pub. L. 88–452, as added by Pub. L. 93–644, §11, Jan. 4, 1975, 88 Stat. 2324, which is classified generally to subchapter VIII (§2991 et seq.) of chapter 34 of this title. For complete classification of this Act to the Code, see section 2991 of this title and Tables.
 
-The American Indian Religious Freedom Act, referred to in par. (19), is Pub. L. 95–341, Aug. 11, 1978, 92 Stat. 469, which is classified to section 1996 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1996 of this title and Tables.
+The American Indian Religious Freedom Act, referred to in par. (19), is Pub. L. 95–341, Aug. 11, 1978, 92 Stat. 469, as amended, which is classified to sections 1996 and 1996a of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1996 of this title and Tables.
 
 The National Museum of the American Indian Act, referred to in par. (19), is Pub. L. 101–185, Nov. 28, 1989, 103 Stat. 1336, which is classified generally to subchapter XIII (§80q et seq.) of chapter 3 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 80q of Title 20 and Tables.
 
@@ -96,7 +96,7 @@ The Anti-Drug Abuse Act of 1986, referred to in par. (21), is Pub. L. 99–570, 
 
 #### Codification
 
-The 1992 amendment is based on section 1 of S. 2681, One Hundred Second Congress, as passed by the Senateon Aug. 7, 1992, and enacted into law by section 9168 of Pub. L. 102–396. Section 9168, which referred to S. 2681, as passed by the Senate on “September 12, 1992”, has been treated as referring to S. 2681, as passed by the Senate on Aug. 7, 1992, to reflect the probable intent of Congress.
+The 1992 amendment is based on section 1 of S. 2681, One Hundred Second Congress, as passed by the Senate on Aug. 7, 1992, and enacted into law by section 9168 of Pub. L. 102–396. Section 9168, which referred to S. 2681, as passed by the Senate on “September 12, 1992”, has been treated as referring to S. 2681, as passed by the Senate on Aug. 7, 1992, to reflect the probable intent of Congress.
 
 Pub. L. 100–579 and Pub. L. 100–690 enacted identical sections.
 
@@ -106,5 +106,5 @@ Pub. L. 100–579 and Pub. L. 100–690 enacted identical sections.
 
 #### Short Title
 
-Section 1 of Pub. L. 100–579, and section 2301 of subtitle D of title II of Pub. L. 100–690, as amended by Pub. L. 102–396, title IX, §9168, Oct. 6, 1992, 106 Stat. 1948, provided that: “This Act \[enacting this chapter and repealing section 1621d of Title 25, Indians\] may be cited as the ‘Native Hawaiian Health Care Improvement Act’.”
+Section 1 of Pub. L. 100–579, and section 2301 of subtitle D of title II of Pub. L. 100–690, as amended by Pub.L. 102–396, title IX, §9168, Oct. 6, 1992, 106 Stat. 1948, provided that: “This Act \[enacting this chapter and repealing section 1621d of Title 25, Indians\] may be cited as the ‘Native Hawaiian Health Care Improvement Act’.”
 

@@ -2,7 +2,7 @@
 
 #### (a) Report by Administrator on activities of Administration
 
-The Administrator shall, as soon as practicable after the end of each fiscal year, make areport to the President for submission to the Congress on the activities of the Administration during the preceding fiscal year. Such report shall include a statement of the short-range and long-range goals, priorities, and plans of the Administration together with an assessment of the progress made toward the attainment of those objectives and toward the more effective and efficient management of the Administration and the coordination of its functions.
+The Administrator shall, as soon as practicable after the end of each fiscal year, make a report to the President for submission to the Congress on the activities of the Administration during the preceding fiscal year. Such report shall include a statement of the short-range and long-range goals, priorities, and plans of the Administration together with an assessment of the progress made toward the attainment of those objectives and toward the more effective and efficient management of the Administration and the coordination of its functions.
 
 #### (b) Review of desirability and feasibility of transferring functions of Administrator respecting military application and restricted data to Department of Defense or other Federal agencies; report by Administrator
 
@@ -10,7 +10,7 @@ During the first year of operation of the Administration, the Administrator, in 
 
 #### (c) Report by Commission on activities of Commission
 
-The Commission shall, as soon as practicable after the end of each fiscal year, make a report to the President for submission to the Congress on the activities of the Commission during the preceding fiscal year. Such report shall include a clear statement of the short-range and long-range goals, priorities, and plans of the Commission as they relate to the benefits, costs, and risks of commercial nuclear power. Such report shall also include a clear description of the Commission's activities and findings in the following areas—
+The Commission shall, as soon as practicable after the end of each fiscal year, make a reportto the President for submission to the Congress on the activities of the Commission during the preceding fiscal year. Such report shall include a clear statement of the short-range and long-range goals, priorities, and plans of the Commission as they relate to the benefits, costs, and risks of commercial nuclear power. Such report shall also include a clear description of the Commission's activities and findings in the following areas—
 
 &emsp;(1) insuring the safe design of nuclear powerplants and other licensed facilities;
 
@@ -26,6 +26,10 @@ The Commission shall, as soon as practicable after the end of each fiscal year, 
 
 (Pub. L. 93–438, title III, §307, Oct. 11, 1974, 88 Stat. 1251.)
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (c) of this section relating to submission of annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 10th item on page 186 of House Document No. 103–7.
+
 #### Transfer of Functions
 
 For transfer of certain functions from Nuclear Regulatory Commission to Chairman thereof, see Reorg. Plan No. 1 of 1980, 45 F.R. 40561, 94 Stat. 3585, set out as a note under section 5841 of this title.
@@ -38,5 +42,5 @@ Pub. L. 97–415, §10(c), Jan. 4, 1983, 96 Stat. 2071, provided that: “The Nu
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5849, 5914, 7267 of this title.
+This section is referred to in sections 5849, 7267 of this title.
 

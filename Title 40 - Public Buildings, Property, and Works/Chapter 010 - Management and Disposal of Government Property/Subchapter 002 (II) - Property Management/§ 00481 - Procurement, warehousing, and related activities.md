@@ -4,7 +4,7 @@
 
 The Administrator shall, in respect of executive agencies, and to the extent that he determines that so doing is advantageous to the Government in terms of economy, efficiency, or service, and with due regard to the program activities of the agencies concerned—
 
-&emsp;(1) subject to regulations <sup>1</sup> prescribed by the Administrator for Federal Procurement Policy pursuant to the Office of Federal Procurement Policy Act \[41 U.S.C. 401 et seq.\], prescribe policies and methods of procurement and supply of personal property and nonpersonal services, including related functions such as contracting, inspection, storage, issue, propertyidentification and classification, transportation and traffic management, management of public utility services, and repairing and converting; and
+&emsp;(1) subject to regulations <sup>1</sup> prescribed by the Administrator for Federal Procurement Policy pursuant to the Office of Federal Procurement Policy Act \[41 U.S.C. 401 et seq.\], prescribe policies and methods of procurement and supply of personal property and nonpersonal services, including related functions such as contracting, inspection, storage, issue, property identification and classification, transportation and traffic management, management of public utility services, and repairing and converting; and
 
 &emsp;(2) operate, and, after consultation with the executive agencies affected, consolidate, take over, or arrange for the operation by any executive agency of warehouses, supply centers, repair shops, fuel yards, and other similar facilities; and
 
@@ -127,10 +127,6 @@ Comments on Report by Administrator.—Not later than 30 days after receiving th
 Calculation of 30
 
 \-Day Period.—For purposes of subsection (a)(2)(C), the calculation of the 30-day period shall exclude Saturdays, Sundays, and holidays, and any day on which neither House of Congress is in session because of an adjournment sine die, a recess of more than 3 days, or an adjournment of more than 3 days.”
-
-#### Cross References
-
-Laws not applicable to contracts, see section 260 of Title 41, Public Contracts.
 
 #### Section Referred to in Other Sections
 

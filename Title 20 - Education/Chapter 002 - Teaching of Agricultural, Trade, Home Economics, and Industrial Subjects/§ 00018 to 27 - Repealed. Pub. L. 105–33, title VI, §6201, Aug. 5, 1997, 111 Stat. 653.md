@@ -16,7 +16,7 @@ Section 24, acts Feb. 23, 1917, ch. 114, §14, 39 Stat. 935; Ex. Ord. No. 6166, 
 
 Section 25, acts Feb. 23, 1917, ch. 114, §15, 39 Stat. 936; Ex. Ord. No. 6166, §15, June 10, 1933; 1939 Reorg. Plan No. I, §§201, 204, eff. July 1, 1939, 4 F.R. 2728, 53 Stat. 1424; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Oct. 17, 1979, Pub. L. 96–88, title III, §301, title V, §507, 93 Stat. 677, 692, provided for deductions from allotments when preceding allotments have not been expended for the purposes provided in this chapter.
 
-Section 26, acts Feb. 23, 1917, ch. 114, §16, 39 Stat. 936; Ex. Ord. No. 6166, §15, June 10, 1933; 1939 Reorg. Plan No. I, §§201, 204, eff. July 1, 1939, 4 F.R. 2728, 53 Stat. 1424; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Oct. 17, 1979, Pub. L. 96–88, title III, §301, title V, §507, 93 Stat. 677, 692, provided for withholding of allotments and right to appeal withholdings.
+Section 26, acts Feb. 23, 1917, ch. 114, §16, 39 Stat. 936; Ex. Ord. No. 6166, §15, June 10, 1933; 1939 Reorg. Plan No.I, §§201, 204, eff. July 1, 1939, 4 F.R. 2728, 53 Stat. 1424; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Oct. 17, 1979, Pub. L. 96–88, title III, §301, title V, §507, 93 Stat. 677, 692, provided for withholding of allotments and right to appeal withholdings.
 
 Section 27, act Feb. 23, 1917, ch. 114, §17, 39 Stat. 936, provided for State replacement of lost funds and for limitations on use of funds.
 

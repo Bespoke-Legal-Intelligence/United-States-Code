@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 59e–1, 59q–1, 59u, 59x, 59z, 59ee, 508 of this title; title 23 section 144.
+This subchapter is referred to in sections 59e–1, 59q–1, 59u, 59x, 59z, 59ee, 59ee–1, 508 of this title; title 23 section 144.
 
 
 ---

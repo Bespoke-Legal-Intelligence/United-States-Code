@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 1382a, 11408a, 11501, 11504, 12709 of this title; title 7 sections1932, 1933, 6943; title 8 section 1611; title 12 sections 1441a, 1701r–1, 1701x, 1717, 1721, 1831q, 2803, 4901; title 26 sections 32, 1250; title 38 section 3711.
+This subchapter is referred to in sections 1382a, 11408a, 11501, 11504, 12709 of this title; title 7 sections 1932, 1933, 6943; title 8 section 1611; title 12 sections 1441a, 1701r–1, 1701x, 1717, 1721, 1831q, 2803, 4901; title 18 section 1516; title 26 sections 32, 1250; title 38 section 3711.
 
 
 ---
@@ -50,3 +50,4 @@ This subchapter is referred to in sections 1382a, 11408a, 11501, 11504, 12709 of
 - [&sect; 01490p&#8211;2 - Loan guarantees for multifamily rental housing in rural areas](%C2%A7%2001490p%E2%80%932%20-%20Loan%20guarantees%20for%20multifamily%20rental%20housing%20in%20rural%20areas.md)
 - [&sect; 01490q - Disaster assistance](%C2%A7%2001490q%20-%20Disaster%20assistance.md)
 - [&sect; 01490r - Rural housing voucher program](%C2%A7%2001490r%20-%20Rural%20housing%20voucher%20program.md)
+- [&sect; 01490s - Enforcement provisions](%C2%A7%2001490s%20-%20Enforcement%20provisions.md)

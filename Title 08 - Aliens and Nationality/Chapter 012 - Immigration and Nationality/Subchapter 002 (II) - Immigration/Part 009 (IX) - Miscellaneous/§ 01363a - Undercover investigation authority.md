@@ -26,11 +26,11 @@ With respect to any undercover investigative operation of the Service which is n
 
 &emsp;(4) the proceeds from the undercover operation may be used to offset necessary and reasonable expenses incurred in such operation without regard to the provisions of section 3302(b) of title 31.
 
-> The authority set forth in this subsection may be exercised only upon written certification ofthe Commissioner, in consultation with the Deputy Attorney General, that any action authorized by paragraph (1), (2), (3), or (4) is necessary for the conduct of the undercover operation.
+> The authority set forth in this subsection may be exercised only upon written certification of the Commissioner, in consultation with the Deputy Attorney General, that any action authorized by paragraph (1), (2), (3), or (4) is necessary for the conduct of the undercover operation.
 
 #### (b) Disposition of proceeds no longer required
 
-As soon as practicable after the proceeds from an undercover investigative operation, carried out under paragraphs (3) and (4) of subsection (a) of this section, are no longer necessary for the conduct of the operation, the proceeds or the balance of the proceeds remaining at the time shall be deposited into the Treasury of the United States as miscellaneous receipts.
+As soon as practicable after the proceeds from an undercover investigative operation, carried out under paragraphs (3) and (4) of subsection (a) of this section, are no longer necessary for the conduct of the operation, the proceeds or the balance of the proceeds remaining at the timeshall be deposited into the Treasury of the United States as miscellaneous receipts.
 
 #### (c) Disposition of certain corporations and business entities
 

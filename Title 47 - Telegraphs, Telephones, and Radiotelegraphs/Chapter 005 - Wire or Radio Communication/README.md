@@ -254,6 +254,7 @@
 | (i) | Consumer protection. |
 | (j) | Lifeline assistance. |
 | (k) | Subsidy of competitive services prohibited. |
+| (<i>l</i>) | Internet safety policy requirement for schools and libraries. |
 | [255\.](Subchapter%20002%20%28II%29%20-%20Common%20Carriers/Part%20002%20%28II%29%20-%20Development%20of%20Competitive%20Markets/%C2%A7%2000255%20-%20Access%20by%20persons%20with%20disabilities.md) | Access by persons with disabilities. |
 | (a) | Definitions. |
 | (b) | Manufacturing. |
@@ -360,6 +361,7 @@
 | (c) | Exceptions. |
 | (d) | Cellular telecommunications receivers. |
 | (e) | Delegation of equipment testing and certification to private laboratories. |
+| (f) | State and local enforcement of FCC regulations on use of citizens band radio equipment. |
 | [303\.](Subchapter%20003%20%28III%29%20-%20Special%20Provisions%20Relating%20to%20Radio/Part%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000303%20-%20Powers%20and%20duties%20of%20Commission.md) | Powers and duties of Commission. |
 | [303a.](Subchapter%20003%20%28III%29%20-%20Special%20Provisions%20Relating%20to%20Radio/Part%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000303a%20-%20Standards%20for%20children%27s%20television%20programming.md) | Standards for children's television programming. |
 | (a) | Establishment. |
@@ -484,7 +486,8 @@
 | (e) | Fees. |
 | (f) | Preservation of low-power community television broadcasting. |
 | (g) | Evaluation. |
-| (h) | Definitions. |
+| (h) | Provision of digital data service by low-power television stations. |
+| (i) | Definitions. |
 | [337\.](Subchapter%20003%20%28III%29%20-%20Special%20Provisions%20Relating%20to%20Radio/Part%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000337%20-%20Allocation%20and%20assignment%20of%20new%20public%20safety%20services%20licenses%20and%20commercial%20licenses.md) | Allocation and assignment of new public safety services licenses and commercial licenses. |
 | (a) | In general. |
 | (b) | Assignment. |
@@ -1078,7 +1081,7 @@ I74subpart a—assistance for planning and construction of public telecommunicat
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 15, 312a, 702, 721, 741, 921, 923, 925, 926 of this title; title 7 section 923; title 15 sections 44, 79z–5c, 5625, 5656; title 17 section 119; title 18 section 2511; title 22 section 1465bb; title 40 section 791; title 41 sections 43, 356; title 49 section 70117.
+This chapter is referred to in sections 15, 312a, 702, 721, 741, 765, 765b, 921, 923, 925, 926, 1108 of this title; title 7 section 923; title 15 sections 44, 79z–5c, 5625, 5656; title 17 section 119; title 18 section 2511; title 22 section 1465bb; title 40 section 791; title 41 sections 43, 356; title 49 section 70117.
 
 
 ---

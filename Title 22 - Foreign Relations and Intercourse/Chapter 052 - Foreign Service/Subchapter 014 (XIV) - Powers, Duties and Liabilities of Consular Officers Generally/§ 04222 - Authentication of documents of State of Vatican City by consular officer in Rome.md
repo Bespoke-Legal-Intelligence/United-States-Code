@@ -12,11 +12,3 @@ Section was not enacted as part of the Foreign Service Act of 1980 which compris
 
 Section was formerly classified to section 1204 of this title, and prior thereto to section 695e–1 of Title 28.
 
-#### Federal Rules of Civil Procedure
-
-Proof of official records, see rule 44, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-#### Federal Rules of Criminal Procedure
-
-Proof of official records, see rule 27, Title 18, Appendix, Crimes and Criminal Procedure.
-

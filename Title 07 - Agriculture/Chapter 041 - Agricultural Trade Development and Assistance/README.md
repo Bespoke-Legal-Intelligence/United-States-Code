@@ -256,9 +256,33 @@ Deadline for submission of commodity orders.
 
 |  |  |
 | :--- | ---: |
-| [1726b.](Subchapter%20003%20%28III%29%20-%20Emergency%20and%20Private%20Assistance%20Programs/%C2%A7%2001726b%20-%20Omitted.md) | Omitted. |
+| [1726b.](Subchapter%20003%20%28III%29%20-%20Emergency%20and%20Private%20Assistance%20Programs/%C2%A7%2001726b%20-%20Assistance%20for%20stockpiling%20and%20rapid%20transportation%2C%20delivery%2C%20and%20distribution%20of%20shelf-stable%20prepackaged%20foods.md) | Assistance for stockpiling and rapid transportation, delivery, and distribution of shelf-stable prepackaged foods. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Grants for establishment of stockpiles.
+
+(c)
+
+Grants for rapid transportation, delivery, and distribution.
+
+(d)
+
+Administration.
+
+(e)
+
+Regulations or guidelines.
+
+(f)
+
+Authorization of appropriations.
 
 #### SUBCHAPTER III–A—FOOD FOR DEVELOPMENT
 
@@ -369,7 +393,7 @@ Authority of President.
 
 |  |  |
 | :--- | ---: |
-| [1728b.](Subchapter%20003%E2%80%93B%20%28III%E2%80%93B%29%20-%20Emergency%20Food%20Assistance/%C2%A7%2001728b%20-%20Reports%20on%20emergency%20food%20assistance.md) | Reports on emergency food assistance. |
+| [1728b.](Subchapter%20003%E2%80%93B%20%28III%E2%80%93B%29%20-%20Emergency%20Food%20Assistance/%C2%A7%2001728b%20-%20Omitted.md) | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -975,20 +999,7 @@ Encouraging donations from other sources.
 
 |  |  |
 | :--- | ---: |
-| [1738m.](Subchapter%20006%20%28VI%29%20-%20Enterprise%20for%20the%20Americas%20Initiative/%C2%A7%2001738m%20-%20Annual%20report%20to%20Congress.md) | Annual report to Congress. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-In general.
-
-(b)
-
-Supplemental views in annual report.
-
-|  |  |
-| :--- | ---: |
+| [1738m.](Subchapter%20006%20%28VI%29%20-%20Enterprise%20for%20the%20Americas%20Initiative/%C2%A7%2001738m%20-%20Omitted.md) | Omitted. |
 | [1738n.](Subchapter%20006%20%28VI%29%20-%20Enterprise%20for%20the%20Americas%20Initiative/%C2%A7%2001738n%20-%20Consultations%20with%20Congress.md) | Consultations with Congress. |
 | 1738<i>o.</i> | Sale of qualified debt to eligible countries. |
 
@@ -1092,13 +1103,9 @@ Designated congressional committees.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Cross References
-
-Dairy products and wheat from Commodity Credit Corporation stocks, costs of distribution to be in addition to levels of assistance programmed under this chapter, see section 1431(b) of this title.
-
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1431, 1446c–1, 1736f–1, 1736<i>o</i>, 1765b, 5201, 5693, 5713 of this title; title 13 section 301; title 16 section 1537; title 22 sections 2151a, 2291, 2292n, 2353, 2354, 2362, 2370, 2371, 2394, 2455, 2775, 5413, 5425, 6006, 6062; title 46 App. section 1241f.
+This chapter is referred to in sections 1431, 1446c–1, 1736f–1, 1736<i>o</i>, 1765b, 1765d–1, 5201, 5693, 5713 of this title; title 13 section 301; title 16 section 1537; title 22 sections 2151a, 2291, 2292n, 2353, 2354, 2362, 2370, 2371, 2394, 2455, 2775, 5413, 5425, 6006, 6062, 7201; title 46 App. section 1241f.
 
 
 ---

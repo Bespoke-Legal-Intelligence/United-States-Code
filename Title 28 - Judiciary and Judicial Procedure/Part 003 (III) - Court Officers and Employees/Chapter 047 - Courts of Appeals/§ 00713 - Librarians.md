@@ -10,7 +10,7 @@
 
 #### 1948 Act
 
-Based on title 28, U.S.C., 1940 ed., §547, and section 11–204 of District of Columbia Code, 1940 ed., (Mar. 3,1891, ch. 517, §9, 26 Stat. 829; Feb. 9, 1893, ch. 74, §4, 27 Stat. 435; July 30, 1894, ch. 172, §1, 28 Stat. 160; Mar. 3, 1901, ch. 854, §224, 31 Stat. 1224; June 30, 1902, ch. 1329, 32 Stat. 528; Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167; Aug. 23, 1912, ch. 350, 37 Stat. 412; Feb. 22, 1921, ch. 70, §7, 41 Stat. 1144; Mar. 4, 1923, ch. 265, 42 Stat. 1488; May 21, 1928, ch. 659, 45 Stat. 645).
+Based on title 28, U.S.C., 1940 ed., §547, and section 11–204 of District of Columbia Code, 1940 ed., (Mar. 3, 1891, ch. 517, §9, 26 Stat. 829; Feb. 9, 1893, ch. 74, §4, 27 Stat. 435; July 30, 1894, ch. 172, §1, 28 Stat. 160; Mar. 3, 1901, ch. 854, §224, 31 Stat. 1224; June 30, 1902, ch. 1329, 32 Stat. 528; Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167; Aug. 23, 1912, ch. 350, 37 Stat. 412; Feb. 22, 1921, ch. 70, §7, 41 Stat. 1144; Mar. 4, 1923, ch. 265, 42 Stat. 1488; May 21, 1928, ch. 659, 45 Stat. 645).
 
 Section consolidates parts of section 11–204 of the District of Columbia Code, 1940 ed., and section 547 of title 28, U.S.C., 1940 ed.
 
@@ -36,7 +36,7 @@ This section corrects typographical errors in section 713 of title 28, U.S.C.
 
 #### Amendments
 
-1982—Pub. L. 97–164 substituted “Librarians” for “Criers, bailiffs, and messengers” in section catchline.
+<b>1982</b>—Pub. L. 97–164 substituted “Librarians” for “Criers, bailiffs, and messengers” in section catchline.
 
 Subsec. (a). Pub. L. 97–164 struck out “and necessary library assistants” after “Each court of appeals may appoint a librarian”.
 
@@ -44,7 +44,7 @@ Subsec. (b). Pub. L. 97–164 substituted “The librarian, with the approval of
 
 Subsecs. (c), (d). Pub. L. 97–164 struck out subsecs. (c) and (d) which had provided, respectively, that the Court of Appeals for the District of Columbia could appoint a marshal, who would attend the court at its sessions, be custodian of its courthouse, have supervision over its custodial employees, take charge of all property of the United States used by the court or its employees, and perform such other duties as the court might direct, that the court could also appoint necessary messengers who would be subject to removal by the court, that the United States marshal of the district in which a court of appeals was sitting or in which a circuit judge was present in chambers, could, with the approval of the court or judge, employ necessary bailiffs, that the bailiffs would attend the court, preserve order, and perform such other necessary duties as the court, judge or marshal might direct, and that such bailiffs would receive the same compensation as bailiffs employed for the district courts. See section 714 of this title.
 
-1949—Act May 24, 1949, inserted subsection designation (b) preceding second par. and renumbered former subsecs. (b) and (c) as (c) and (d), respectively.
+<b>1949</b>—Act May 24, 1949, inserted subsection designation (b) preceding second par. and renumbered former subsecs. (b) and (c) as (c) and (d), respectively.
 
 #### Effective Date of 1982 Amendment
 
@@ -53,8 +53,4 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 #### Continuation of Service of Marshal for Court of Appeals for District of Columbia; Applicability of Other Law to Court During Such Individual's Service
 
 Pub. L. 98–620, title IV, §415, Nov. 8, 1984, 98 Stat. 3364, provided that: “Any individual who, on the date of the enactment of the Federal Courts Improvement Act of 1982 \[Pub. L. 97–164, enacted Apr. 2, 1982\], was serving as marshal for the Court of Appeals for the District of Columbia under section 713(c) of title 28, United States Code, may, after the date of the enactment of this Act \[Nov. 8, 1984\], so serve under that section as in effect on the date of the enactment of the Federal Courts Improvement Act of 1982. While such individual so serves, the provisions of section 714(a) of title 28, United States Code, shall not apply to the Court of Appeals for the District of Columbia.”
-
-#### Cross References
-
-Compensation and expenses of court officers and employees, see section 604 of this title.
 

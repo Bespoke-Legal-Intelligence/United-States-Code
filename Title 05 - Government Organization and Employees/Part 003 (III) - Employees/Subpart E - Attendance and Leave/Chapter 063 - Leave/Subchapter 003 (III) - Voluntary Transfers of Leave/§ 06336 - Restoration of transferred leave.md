@@ -1,6 +1,6 @@
 ### §6336. Restoration of transferred leave
 
-(a)(1) The Office of Personnel Management shall establish procedures under which, exceptas provided in paragraph (2), any transferred leave remaining to the credit of a leave recipient when the medical emergency affecting the leave recipient terminates shall be restored on a prorated basis by transfer to the appropriate accounts of the respective leave donors.
+(a)(1) The Office of Personnel Management shall establish procedures under which, except as provided in paragraph (2), any transferred leave remaining to the credit of a leave recipient when the medical emergency affecting the leave recipient terminates shall be restored on a prorated basis by transfer to the appropriate accounts of the respective leave donors.
 
 (2) Nothing in paragraph (1) shall require the restoration of leave to a leave donor—
 

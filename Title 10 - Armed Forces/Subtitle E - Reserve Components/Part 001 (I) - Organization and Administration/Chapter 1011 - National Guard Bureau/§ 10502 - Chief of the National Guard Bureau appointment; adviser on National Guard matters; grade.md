@@ -28,18 +28,6 @@ Grade.—The Chief of the National Guard Bureau shall be appointed to serve in t
 
 Provisions similar to those in this section were contained in section 3040(a)–(c) of this title, prior to repeal by Pub. L. 103–337, §904(b)(1).
 
-#### Cross References
-
-National Guard Bureau—
-
-&emsp;&emsp;Appropriations, see section 107 of Title 32, National Guard.
-
-&emsp;&emsp;Chief's issuance of certificate of eligibility for Federal recognition of officers, see section 307 of Title 32.
-
-President's appointing power, see Const. Art. II, §2, cl. 2.
-
-Provisions respecting responsibility for reserve affairs as not affecting functions of Chief of National Guard Bureau, see section 10203 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 641 of this title; title 37 section 204.

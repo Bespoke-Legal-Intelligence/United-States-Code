@@ -4,8 +4,6 @@ Part II—Military Assistance
 
 This part is referred to in sections 2304, 2360, 2415, 2428b, 2776, 2796, 2796a, 2796b of this title; title 10 section 7307.
 
-<i><sup>1</sup></i><i> So in original. The period probably should not appear.</i>
-
 
 ---
 

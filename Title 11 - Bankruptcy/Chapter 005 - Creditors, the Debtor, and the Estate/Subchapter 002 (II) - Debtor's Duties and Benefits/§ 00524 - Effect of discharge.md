@@ -62,7 +62,7 @@
 
 &emsp;&emsp;&emsp;(ii) a default under such an agreement; and
 
-&emsp;(2) determine whether the agreement that the debtor desires to make complies with the requirements of subsection (c)(6) of this section, if the consideration for such agreement is based in whole or in part on a consumerdebt that is not secured by real property of the debtor.
+&emsp;(2) determine whether the agreement that the debtor desires to make complies with the requirements of subsection (c)(6) of this section, if the consideration for such agreement is based in whole or in part on a consumer debt that is not secured by real property of the debtor.
 
 (e) Except as provided in subsection (a)(3) of this section, discharge of a debt of the debtor does not affect the liability of any other entity on, or the property of any other entity for, such debt.
 
@@ -122,7 +122,7 @@
 
 &emsp;(ii) relieve any such entity of the duty to comply with, or of liability under, any Federal or State law regarding the making of a fraudulent conveyance in a transaction described in subparagraph (A)(ii) or (iii); or
 
-&emsp;(iii) relieve a debtor of the debtor's obligation to comply with the terms of the plan of reorganization, or affect the power of the court to exercise its authority under sections 1141 and 1142 to compel the debtor to do so.
+&emsp;(iii) relieve a debtor of the debtor's obligation to comply with the terms of the plan ofreorganization, or affect the power of the court to exercise its authority under sections 1141 and 1142 to compel the debtor to do so.
 
 (4)(A)(i) Subject to subparagraph (B), an injunction described in paragraph (1) shall be valid and enforceable against all entities that it addresses.
 

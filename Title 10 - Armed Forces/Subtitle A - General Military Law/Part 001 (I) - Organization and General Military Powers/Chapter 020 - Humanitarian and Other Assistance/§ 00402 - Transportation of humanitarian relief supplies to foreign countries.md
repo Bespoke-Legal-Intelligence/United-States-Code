@@ -40,7 +40,19 @@ A prior section 402 was renumbered section 401(b) of this title.
 
 #### Delegation of Functions
 
-Functions of President under subsec. (b)(2) delegated to Secretary of State by section 1–201(a)(25) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of Title 22, Foreign Relations and Intercourse.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of Title 22, Foreign Relations and Intercourse.
+
+#### Processing of Applications for Transportation of Humanitarian Assistance Abroad by Department of Defense
+
+Pub. L. 106–309, title IV, §403, Oct. 17, 2000, 114 Stat. 1097, provided that:
+
+“(a)
+
+Priority for Disaster Relief Assistance.—In processing applications for the transportation of humanitarian assistance abroad under section 402 of title 10, United States Code, the Administrator of the United States Agency for International Development shall afford a priority to applications for the transportation of disaster relief assistance.
+
+“(b)
+
+Modification of Applications.—The Administrator of the United States Agency for International Development shall take all possible actions to assist applicants for the transportation of humanitarian assistance abroad under such section 402 in modifying or completing applications submitted under such section in order to meet applicable requirements under such section. The actions shall include efforts to contact such applicants for purposes of the modification or completion of such applications.”
 
 #### First Report Deadline
 

@@ -10,7 +10,7 @@ All moneys received from sales and other services by the Senate Gift Shop shall 
 
 #### (c) Revolving fund
 
-There is established in the Treasury of the United States a revolving fund within the contingent fund of the Senate to be known as the Senate Gift Shop Revolving Fund (hereafter referred to in this section as the “fund”). The fund shall consist of all amounts collected or received by the Secretary of the Senate from sales and services by the Senate Gift Shop. All moneys in the fund shall be available without fiscal year limitation for disbursement by the Secretary of the Senate in connection with the operation of the Senate Gift Shop, including supplies, equipment, and other expenses. In addition, suchmoneys may be used by the Secretary of the Senate to reimburse the Senate appropriations account, appropriated under the heading “
+There is established in the Treasury of the United States a revolving fund within the contingent fund of the Senate to be known as the Senate Gift Shop Revolving Fund (hereafter referred to in this section as the “fund”). The fund shall consist of all amounts collected or received by the Secretary of the Senate from sales and services by the Senate Gift Shop. All moneys in the fund shall be available without fiscal year limitation for disbursement by the Secretary of the Senate in connection with the operation of the Senate Gift Shop, including supplies, equipment, and other expenses. In addition, such moneys may be used by the Secretary of the Senate to reimburse the Senate appropriations account, appropriated under the heading “
 
 Salaries, Officers and Employees” and “
 

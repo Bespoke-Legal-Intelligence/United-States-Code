@@ -6,7 +6,7 @@
 
 (3)(A) If the health-care resource required is a commercial service, the use of medical equipment or space, or research, and is to be acquired from an institution affiliated with the Department in accordance with section 7302 of this title, including medical practice groups and other entities associated with affiliated institutions, blood banks, organ banks, or research centers, the Secretary may make arrangements for acquisition of the resource without regard to any law or regulation (including any Executive order, circular, or other administrative policy) that would otherwise require the use of competitive procedures for acquiring the resource.
 
-(B)(i) If the health-care resource required is a commercial service or the use of medical equipment or space, and is not to be acquired from an entity described in subparagraph (A), any procurement of the resource may be conducted without regard to any law or regulation that would otherwise require the use of competitive procedures for procuring the resource, but only if the procurement is conducted in accordance with the simplified procedures prescribed pursuant to clause (ii).
+(B)(i) If the health-care resource required is a commercial service or the use of medical equipment or space, and is not to be acquired from an entity described in subparagraph (A), any procurement of the resource may be conducted without regard to any law or regulation that would otherwise require the use of competitive procedures for procuring the resource, but only if the procurement is conducted in accordancewith the simplified procedures prescribed pursuant to clause (ii).
 
 (ii) The Secretary, in consultation with the Administrator for Federal Procurement Policy, may prescribe simplified procedures for the procurement of health-care resources under this subparagraph. The Secretary shall publish such procedures for public comment in accordance with section 22 of the Office of Federal Procurement Policy Act (41 U.S.C. 418b). Such procedures shall permit all responsible sources, as appropriate, to submit a bid, proposal, or quotation (as appropriate) for the resources to be procured and provide for the consideration by the Department of bids, proposals, or quotations so submitted.
 
@@ -42,7 +42,7 @@
 
 &emsp;(2) recommendations for the improvement or more effective administration of such activities.
 
-(Added Pub. L. 89–785, title II, §203, Nov. 7, 1966, 80 Stat. 1374, §5053; amended Pub. L. 91–496, §4, Oct. 22, 1970, 84 Stat. 1092; Pub. L. 93–82, title III, §303, Aug. 2, 1973, 87 Stat. 195; Pub. L. 94–581, title I, §115(a)(1), title II, §§206(c), 210(e)(11), Oct. 21, 1976, 90 Stat. 2852, 2859, 2865; Pub. L. 96–151, title III, §304, Dec. 20, 1979, 93 Stat. 1096; Pub. L. 97–295, §4(95)(A), Oct. 12, 1982, 96 Stat. 1313; Pub. L. 98–160, title VII, §702(20), Nov. 21, 1983, 97 Stat. 1010; Pub. L. 99–576, title II, §231(c)(1), Oct. 28, 1986, 100 Stat. 3264; Pub. L. 101–366, title II,§202(b), Aug. 15, 1990, 104 Stat. 438; renumbered §8153, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–54, §14(f)(9), June 13, 1991, 105 Stat. 288; Pub. L. 102–83, §4(a)(3), (4), (b)(1), (2)(D), (E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 103–210, §3(c), Dec. 20, 1993, 107 Stat. 2498; Pub. L. 104–262, title III, §301(c), (d)(1), Oct. 9, 1996, 110 Stat. 3191, 3193; Pub. L. 105–114, title IV, §402(d), (e), Nov. 21, 1997, 111 Stat. 2294.)
+(Added Pub. L. 89–785, title II, §203, Nov. 7, 1966, 80 Stat. 1374, §5053; amended Pub. L. 91–496, §4, Oct. 22, 1970, 84 Stat. 1092; Pub. L. 93–82, title III, §303, Aug. 2, 1973, 87 Stat. 195; Pub. L. 94–581, title I, §115(a)(1), title II, §§206(c), 210(e)(11), Oct. 21, 1976, 90 Stat. 2852, 2859, 2865; Pub. L. 96–151, title III, §304, Dec. 20, 1979, 93 Stat. 1096; Pub. L. 97–295, §4(95)(A), Oct. 12, 1982, 96 Stat. 1313; Pub. L. 98–160, title VII, §702(20), Nov. 21, 1983, 97 Stat. 1010; Pub. L. 99–576, title II, §231(c)(1), Oct. 28, 1986, 100 Stat. 3264; Pub. L. 101–366, title II, §202(b), Aug. 15, 1990, 104 Stat. 438; renumbered §8153, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–54, §14(f)(9), June 13, 1991, 105 Stat. 288; Pub. L. 102–83, §4(a)(3), (4), (b)(1), (2)(D), (E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 103–210, §3(c), Dec. 20, 1993, 107 Stat. 2498; Pub. L. 104–262, title III, §301(c), (d)(1), Oct. 9, 1996, 110 Stat. 3191, 3193; Pub. L. 105–114, title IV, §402(d), (e), Nov. 21, 1997, 111 Stat. 2294; Pub. L. 106–419, title IV, §404(b)(2), Nov. 1, 2000, 114 Stat. 1866.)
 
 #### References in Text
 
@@ -50,9 +50,11 @@ The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 5
 
 #### Amendments
 
+2000—Subsec. (a)(3)(B)(ii). Pub. L. 106–419 amended directory language of Pub. L. 105–114, §402(e). See 1997 Amendment note below.
+
 1997—Subsec. (a)(3)(A). Pub. L. 105–114, §402(d), inserted “(including any Executive order, circular, or other administrative policy)” after “law or regulation”.
 
-Subsec. (a)(3)(B)(ii). Pub. L. 105–114, §402(e), which directed insertion of “, as appropriate,” after “all responsible sources” in second sentence, was executed by making the insertion after “all responsible sources” in third sentence, to reflect the probable intent of Congress.
+Subsec. (a)(3)(B)(ii). Pub. L. 105–114, §402(e), as amended by Pub. L. 106–419, inserted “, as appropriate,” after “all responsible sources” in third sentence.
 
 1996—Pub. L. 104–262, §301(d)(1), substituted “Sharing of health-care resources” for “Specialized medical resources” in section catchline.
 
@@ -125,6 +127,10 @@ Subsec. (d). Pub. L. 94–581, §115(a)(1), inserted subsec. (d).
 1973—Subsec. (a). Pub. L. 93–82 struck out “or medical schools” from parenthetical and inserted “or medical schools or clinics” after parenthetical.
 
 1970—Subsec. (a)(1). Pub. L. 91–496 substituted “for the mutual use, or exchange of use,” for “for the exchange of use”.
+
+#### Effective Date of 2000 Amendment
+
+Pub. L. 106–419, title IV, §404(b)(2), Nov. 1, 2000, 114 Stat. 1866, provided that the amendment made by section 404(b)(2) is effective Nov. 21, 1997, and as if included in Pub. L. 105–114 as originally enacted.
 
 #### Effective Date of 1976 Amendment
 

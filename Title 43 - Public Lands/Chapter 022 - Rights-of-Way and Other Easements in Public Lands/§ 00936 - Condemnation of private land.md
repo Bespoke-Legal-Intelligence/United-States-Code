@@ -12,12 +12,6 @@ The legislature of the proper Territory may provide for the manner in which priv
 
 Repeal by Pub. L. 94–579 insofar as applicable to the issuance of rights-of-way not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under section 1701 of this title.
 
-#### Cross References
-
-Condemnation of land in Alaska, see section 942–3 of this title.
-
-Right-of-way for several railroads through canyons, passes, defiles, etc., in Alaska, see section 942–3 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 937, 938, 939, 940, 943, 944 of this title.

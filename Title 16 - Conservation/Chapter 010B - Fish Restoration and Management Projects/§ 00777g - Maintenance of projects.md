@@ -6,7 +6,7 @@ To maintain fish-restoration and management projects established under the provi
 
 #### (b) Funding requirements
 
-(1) Each State shall allocate 15 percent of the funds apportioned to it for each fiscal year under section 777c of this title for the payment of up to 75 per centum of the costs of the acquisition, development, renovation, or improvement of facilities (and auxiliary facilities necessary to insure the safe use of such facilities) that create, or add to, public access to the waters of the United States to improve the suitability of such waters for recreational boating purposes. Notwithstanding this provision, States within a United States Fish and Wildlife Service Administrative Region may allocate more or less than 15 percent in a fiscal year, provided that the total regional allocation averages 15 percent over a 5 year period.
+(1) Each State shall allocate 15 percent of the funds apportioned to it for each fiscal year under section 777c of this title for the paymentof up to 75 per centum of the costs of the acquisition, development, renovation, or improvement of facilities (and auxiliary facilities necessary to insure the safe use of such facilities) that create, or add to, public access to the waters of the United States to improve the suitability of such waters for recreational boating purposes. Notwithstanding this provision, States within a United States Fish and Wildlife Service Administrative Region may allocate more or less than 15 percent in a fiscal year, provided that the total regional allocation averages 15 percent over a 5 year period.
 
 (2) So much of the funds that are allocated by a State under paragraph (1) in any fiscal year that remained unexpended or unobligated at the close of such year are authorized to be made available for the purposes described in paragraph (1) during the succeeding four fiscal years, but any portion of such funds that remain unexpended or unobligated at the close of such period are authorized to be made available for expenditure by the Secretary of the Interior in carrying out the research program of the Fish and Wildlife Service in respect to fish of material value for sport or recreation.
 
@@ -72,7 +72,7 @@ Amounts apportioned to States under section 777c of this title may be used to pa
 
 &emsp;A State that conducts a public boat access needs survey under paragraph (2) may fund the costs of conducting that assessment out of amounts allocated to it as funding dedicated to motorboat access to recreational waters under subsection (b)(1) of this section.
 
-(Aug. 9, 1950, ch. 658, §8, 64 Stat. 433; Pub. L. 91–503, title II, §202, Oct. 23, 1970, 84 Stat. 1103; Pub. L. 98–369, div. A, title X, §1014(a)(6), July 18, 1984, 98 Stat. 1016; Pub. L. 102–587, title V, §5604(b), Nov. 4, 1992, 106 Stat. 5088; Pub. L. 105–178, title VII, §§7402(c), 7404(b), June 9, 1998, 112 Stat. 484, 486; Pub. L. 105–206, title IX, §9012(c), July 22, 1998, 112 Stat. 864.)
+(Aug. 9, 1950, ch. 658, §8, 64 Stat. 433; Pub. L. 91–503, title II, §202, Oct. 23, 1970, 84 Stat. 1103; Pub. L. 98–369, div. A, title X, §1014(a)(6), July 18, 1984, 98 Stat. 1016; Pub. L. 102–587, title V, §5604(b), Nov. 4, 1992, 106 Stat. 5088; Pub. L. 105–178, title VII, §§7402(c), 7404(b), June 9, 1998,112 Stat. 484, 486; Pub. L. 105–206, title IX, §9012(c), July 22, 1998, 112 Stat. 864.)
 
 #### References in Text
 

@@ -4,7 +4,7 @@
 
 (b) In any prosecution under this section, if it is shown that all of the following factors were present in connection with the extension of credit in question, there is prima facie evidence that the extension of credit was extortionate, but this subsection is nonexclusive and in no way limits the effect or applicability of subsection (a):
 
-&emsp;(1) The repayment of the extension of credit, or the performance of any promise given inconsideration thereof, would be unenforceable, through civil judicial processes against the debtor
+&emsp;(1) The repayment of the extension of credit, or the performance of any promise given in consideration thereof, would be unenforceable, through civil judicial processes against the debtor
 
 &emsp;&emsp;(A) in the jurisdiction within which the debtor, if a natural person, resided or
 
@@ -29,10 +29,6 @@
 #### Amendments
 
 1994—Subsec. (a). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
-
-#### Cross References
-
-Wire or oral communications, authorization for interception, to provide evidence of offenses under this section, see section 2516 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -18,7 +18,7 @@ For purposes of this subchapter—
 
 &emsp;(8) the term “computer” means any electronic, magnetic, optical, electrochemical, or other high speed data processing device performing logical, arithmetic, or storage functions, and includes any data storage facility or communications facility directly related to or operating in conjunction with such device and any data or other information stored or contained in such device.
 
-(July 26, 1947, ch. 343, title VIII, §804, as added Pub. L. 103–359, title VIII, §802(a), Oct. 14, 1994, 108 Stat. 3438; amended Pub. L. 106–120, title III, §305(b), Dec. 3, 1999, 113 Stat. 1611.)
+(July 26, 1947, ch. 343, title VIII, §804, as added Pub. L. 103–359, title VIII, §802(a), Oct. 14, 1994,108 Stat. 3438; amended Pub. L. 106–120, title III, §305(b), Dec. 3, 1999, 113 Stat. 1611.)
 
 #### References in Text
 

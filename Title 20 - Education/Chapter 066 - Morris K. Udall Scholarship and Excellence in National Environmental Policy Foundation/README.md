@@ -39,6 +39,7 @@
 | [5609\.](%C2%A7%2005609%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | (a) | Trust Fund. |
 | (b) | Environmental Dispute Resolution Fund. |
+| (c) | Training of professionals in health care and public policy. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

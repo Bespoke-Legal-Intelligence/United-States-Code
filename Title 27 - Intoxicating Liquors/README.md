@@ -1,5 +1,5 @@
 
-27 U.S.C.<br>United States Code, 1999 Edition<br>Title 27 - INTOXICATING LIQUORS<br>From the U.S. Government Publishing Office, www.gpo.gov
+27 U.S.C.<br>United States Code, 2000 Edition<br>Title 27 - INTOXICATING LIQUORS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 27—INTOXICATING LIQUORS
 
@@ -17,14 +17,6 @@
 | [<b>9.</b>](Chapter%20009%20-%20Liquor%20Enforcement%20Act%20of%201936/README.md) | <b>Liquor Enforcement Act of 1936 \[Repealed\]</b> | <b>221</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Cross References
-
-Alcohol taxes, see section 5001 et seq. of Title 26, Internal Revenue Code.
-
-District of Columbia Alcoholic Beverage Control Act, see act Jan. 24, 1934, ch. 4, 48 Stat. 319, as amended, set out in section 25–101 et seq. of the District of Columbia Code.
-
-National minimum drinking age, see section 158 of Title 23, Highways.
 
 
 ---

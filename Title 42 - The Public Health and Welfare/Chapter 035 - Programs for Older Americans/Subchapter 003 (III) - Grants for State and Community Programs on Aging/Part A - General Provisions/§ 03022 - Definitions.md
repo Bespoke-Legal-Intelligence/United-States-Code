@@ -86,7 +86,3 @@ Amendment by Pub. L. 100–175 effective Oct. 1, 1987, except not applicable wit
 
 Amendment by Pub. L. 98–459 effective Oct. 9, 1984, see section 803(a) of Pub. L. 98–459, set out as a note under section 3001 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3035p of this title.
-

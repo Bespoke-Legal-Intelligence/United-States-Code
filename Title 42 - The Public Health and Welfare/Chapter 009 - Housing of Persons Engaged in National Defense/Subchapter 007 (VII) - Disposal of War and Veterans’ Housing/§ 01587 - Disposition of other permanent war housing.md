@@ -54,10 +54,6 @@ Subsec. (g). Act Aug. 2, 1954, added subsec. (g).
 
 For transfer of functions to Secretary of Housing and Urban Development, see note set out under section 1581 of this title.
 
-#### Cross References
-
-Extension of dates for disposal and other actions relating to housing under this chapter, see section 1589a of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1589d of this title.

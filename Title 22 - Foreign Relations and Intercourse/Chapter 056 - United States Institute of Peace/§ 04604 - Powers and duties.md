@@ -2,7 +2,7 @@
 
 #### (a) District of Columbia nonprofit-corporative powers
 
-The Institute may exercise the powers conferred upon a nonprofit corporation by the District of Columbia Nonprofit Corporation Act \[D.C. Code, §29–501 et seq.\] consistent with this chapter, except for section 5(<i>o</i>) of the District of Columbia Nonprofit Corporation Act \[D.C. Code, §29–505(15)\].
+The Institute may exercise the powers conferred upon a nonprofit corporation by the District of Columbia Nonprofit Corporation Act consistent with this chapter, except for section 5(<i>o</i>) of the District of Columbia Nonprofit Corporation Act.
 
 #### (b) Description of specific activities
 
@@ -24,7 +24,7 @@ The Institute, acting through the Board, may—
 
 &emsp;(8) establish a clearinghouse and other means for disseminating information, including classified information that is properly safeguarded, from the field of peace learning to the public and to government personnel with appropriate security clearances;
 
-&emsp;(9) secure directly, upon request of the president of the Institute to the head of any Federal department or agency and in accordance with section 552 of title 5 (relating to freedom of information), information necessary to enable the Institute to carry out the purposes of this chapter if such release of the information would not unduly interfere with the properfunctioning of a department or agency, including classified information if the Institute staff and members of the Board who have access to such classified information obtain appropriate security clearances from the Department of Defense and the Department of State; and
+&emsp;(9) secure directly, upon request of the president of the Institute to the head of any Federal department or agency and in accordance with section 552 of title 5 (relating to freedom of information), information necessary to enable the Institute to carry out the purposes of this chapter if such release of the information would not unduly interfere with the proper functioning of a department or agency, including classified information if the Institute staff and members of the Board who have access to such classified information obtain appropriate security clearances from the Department of Defense and the Department of State; and
 
 &emsp;(10) establish the Spark M. Matsunaga Scholars Program, which shall include the provision of scholarships and educational programs in international peace and conflict management and related fields for outstanding secondary school students and the provision of scholarships to outstanding undergraduate students, with program participants and recipients of such scholarships to be known as “Spark M. Matsunaga Scholars”.
 
@@ -40,7 +40,7 @@ The Institute, acting through the Board, may—
 
 (2) The Board shall establish an advisory panel composed of persons eminent in peacemaking, diplomacy, public affairs, and scholarship, and such advisory panel shall advise the Board during its consideration of the selection of the recipient of the award.
 
-(3) The Institute shall inform the Committee on Foreign Relations and the Committee on Labor and Human Resources of the Senate and the Committee on Foreign Affairs and the Committee on Education and Labor of the House of Representatives about the selection procedures it intends to follow, together with any other matters relevant to making the award and emphasizing its prominence and significance.
+(3) The Institute shall inform the Committee on Foreign Relations and the Committee on Labor and Human Resources of the Senate andthe Committee on Foreign Affairs and the Committee on Education and Labor of the House of Representatives about the selection procedures it intends to follow, together with any other matters relevant to making the award and emphasizing its prominence and significance.
 
 #### (d) Description of extension and outreach activities
 
@@ -74,7 +74,7 @@ The Institute may fix the duties of its officers, employees, and agents, and est
 
 (1) Except as provided in paragraphs (2) and (3), the Institute may obtain grants and contracts, including contracts for classified research for the Department of State, the Department of Defense, the Arms Control and Disarmament Agency, and the intelligence community, and receive gifts and contributions from government at all levels.
 
-(2) The Institute and the legal entity described in section 4603(c) of this title may not accept any gift, contribution or grant from a foreign government, any agency or instrumentality of such government, any international organization, or any corporation or other legal entity in which natural persons who are nationals of a foreign country own, directly or indirectly,more than 50 percent of the outstanding capital stock or other beneficial interest in such legal entity.
+(2) The Institute and the legal entity described in section 4603(c) of this title may not accept any gift, contribution or grant from a foreign government, any agency or instrumentality of such government, any international organization, or any corporation or other legal entity in which natural persons who are nationals of a foreign country own, directly or indirectly, more than 50 percent of the outstanding capital stock or other beneficial interest in such legal entity.
 
 (3) Notwithstanding any other provision of this chapter, the Institute and the legal entity described in section 4603(c) of this title may not obtain any grant or contract or receive any gift or contribution from any private agency, organization, corporation or other legal entity, institution, or individual, except such Institute or legal entity may accept such a gift or contribution to—
 
@@ -104,7 +104,7 @@ The Institute may do any and all lawful acts and things necessary or desirable t
 
 #### (n) Legislative influencing-activity prohibition; communications or testimony of personnel
 
-The Institute shall not itself undertake to influence the passage or defeat of any legislation by the Congress of the United States or by any State or local legislative bodies, or by the United Nations, except that personnel of the Institute may testify or make other appropriate communication when formally requested to do so by a legislative body, a committee, or a member thereof.
+The Institute shall not itself undertake to influence the passage or defeat of any legislation by the Congress of the United States or by anyState or local legislative bodies, or by the United Nations, except that personnel of the Institute may testify or make other appropriate communication when formally requested to do so by a legislative body, a committee, or a member thereof.
 
 #### (<i>o</i>) Administrative services from General Services Administration
 
@@ -114,7 +114,7 @@ The Institute may obtain administrative support services from the Administrator 
 
 #### References in Text
 
-The District of Columbia Nonprofit Corporation Act, referred to in subsec. (a), is Pub. L. 87–569, Aug. 6, 1962, 76 Stat. 265, as amended, which appears in chapter 5 (§29–501 et seq.) of Title 29, Corporations, of the District of Columbia Code. Section 5(<i>o</i>) of the District of Columbia Nonprofit Corporation Act now appears in section 29–505(15) of such Title 29.
+The District of Columbia Nonprofit Corporation Act, referred to in subsec. (a), is Pub. L. 87–569, Aug. 6, 1962, 76 Stat. 265, as amended, which is not classified to the Code.
 
 #### Amendments
 

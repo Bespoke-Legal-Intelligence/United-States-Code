@@ -28,7 +28,3 @@ Feb. 19, 1948, ch. 65, §11(b), 62 Stat. 25.
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
 
-#### Cross References
-
-Laws inapplicable to procurement by General Services Administration, see section 260 of Title 41, Public Contracts.
-

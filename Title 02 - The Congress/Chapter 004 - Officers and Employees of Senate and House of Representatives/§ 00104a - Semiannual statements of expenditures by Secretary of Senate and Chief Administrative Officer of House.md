@@ -16,7 +16,13 @@
 
 &emsp;(D) the unexpended balance.
 
-(Pub. L. 88–454, §105(a), Aug. 20, 1964, 78 Stat. 550; Pub. L. 88–656, Oct. 13, 1964, 78 Stat. 1088; Pub. L. 94–303, title I, §118(b)(1), June 1, 1976, 90 Stat. 615; Pub. L. 102–392, title I, §6, Oct. 6, 1992, 106 Stat. 1707; Pub. L. 103–283, title I, §3(a), July 22, 1994, 108 Stat. 1426; Pub. L. 104–186, title II, §204(54), Aug. 20, 1996, 110 Stat. 1738.)
+(5)(A) Notwithstanding the requirements of paragraph (1) relating to the level of detail of statement and itemization, each report by the Secretary of the Senate required under such paragraph shall be compiled at a summary level for each office of the Senate authorized to obligate appropriated funds.
+
+(B) Subparagraph (A) shall not apply to the reporting of expenditures relating to personnel compensation, travel and transportation of persons, other contractual services, and acquisition of assets.
+
+(C) In carrying out this paragraph the Secretary of the Senate shall apply the Standard Federal Object Classification of Expenses as the Secretary determines appropriate.
+
+(Pub. L. 88–454, §105(a), Aug. 20, 1964, 78 Stat. 550; Pub. L. 88–656, Oct. 13, 1964, 78 Stat. 1088; Pub. L. 94–303, title I, §118(b)(1), June 1, 1976, 90 Stat. 615; Pub. L. 102–392, title I, §6, Oct. 6, 1992, 106 Stat. 1707; Pub. L. 103–283, title I, §3(a), July 22, 1994, 108 Stat. 1426; Pub. L. 104–186, title II, §204(54), Aug. 20, 1996, 110 Stat. 1738; Pub. L. 106–554, §1(a)(2) \[title I, §1(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–95.)
 
 #### Inapplicability of Section to House of Representatives
 
@@ -36,6 +42,8 @@ Section is based on the first paragraph of section 105 (a) of Pub. L. 88–454. 
 
 #### Amendments
 
+2000—Par. (5). Pub. L. 106–554 added par. (5).
+
 1996—Par. (1). Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk” in two places.
 
 1994—Pub. L. 103–283 added par. (4).
@@ -46,9 +54,25 @@ Section is based on the first paragraph of section 105 (a) of Pub. L. 88–454. 
 
 1964—Pub. L. 88–656 provided that information regarding persons paid by voucher for appearances as a witness before any committee of Congress in executive session shall not be included in semiannual report except for date of payment, voucher number, and amount paid, however, any information so excluded shall be included in next succeeding semiannual period.
 
+#### Effective Date of 2000 Amendment
+
+Pub. L. 106–554, §1(a)(2) \[title I, §1(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–96, provided that:
+
+“(1)
+
+In general.—Subject to paragraph (2), the amendment made by this section \[amending this section\] shall take effect on the date of enactment of this Act \[Dec. 21, 2000\].
+
+“(2)
+
+First report after enactment.—The Secretary of the Senate may elect to compile and submit the report for the semiannual period during which the date of enactment of this section occurs, as if the amendment made by this section had not been enacted.”
+
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–283 effective with respect to reports and statements covering periods beginningon and after Oct. 1, 1994, and appropriations made and obligations incurred on and after such date, see section 3(c) of Pub. L. 103–283, set out as a note under section 59f of this title.
+Amendment by Pub. L. 103–283 effective with respect to reports and statements covering periods beginning on and after Oct. 1, 1994, and appropriations made and obligations incurred on and after such date, see section 3(c) of Pub. L. 103–283, set out as a note under section 59f of this title.
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the report required by this section is listed on page 1), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 
 #### Section Referred to in Other Sections
 

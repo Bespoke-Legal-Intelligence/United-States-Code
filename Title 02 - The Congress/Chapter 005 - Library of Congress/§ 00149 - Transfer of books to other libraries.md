@@ -8,9 +8,3 @@ The Librarian of Congress may from time to time transfer to other governmental l
 
 1951—Act Oct. 25, 1951, inserted proviso.
 
-#### Cross References
-
-Management and disposition of records, see sections 2101 et seq., 2501 et seq., 2901 et seq., 3101 et seq., and 3301 et seq. of Title 44, Public Printing and Documents.
-
-Transfer of miscellaneous books to District public library, see section 484–1 of Title 40, Public Buildings, Property, and Works.
-

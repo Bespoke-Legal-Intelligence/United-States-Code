@@ -2,7 +2,7 @@
 
 There is authorized to be appropriated to the Secretary for the purposes of this chapter the following sums; and all such funds appropriated shall remain available until expended:
 
-(a) For the implementation and funding of sections 1252, 1273, and 1300 of this title, there are authorized to be appropriated to the Secretary of the Interior the sum of $10,000,000 for the fiscal year ending September 30, 1978, $25,000,000 for each of the two succeeding fiscal years, and in such fiscal years such additional amounts asmay be necessary for increases in salary, pay, retirement, other employee benefits authorized by law, and other nondiscretionary costs.
+(a) For the implementation and funding of sections 1252, 1273, and 1300 of this title, there are authorized to be appropriated to the Secretary of the Interior the sum of $10,000,000 for the fiscal year ending September 30, 1978, $25,000,000 for each of the two succeeding fiscal years, and in such fiscal years such additional amounts as may be necessary for increases in salary, pay, retirement, other employee benefits authorized by law, and other nondiscretionary costs.
 
 (b) For the implementation and funding of section 1257(c) of this title, see the provisions of section 1231(c)(11) of this title.
 
@@ -26,7 +26,7 @@ Amendment by Pub. L. 101–508, effective Oct. 1, 1991, see section 6014 of Pub.
 
 #### Crediting Performance Bond Forfeitures
 
-Pub. L. 105–277, div. A, §101(e) \[title I\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–244, provided in part that: “Notwithstanding 31 U.S.C. 3302, an additional amount shall be credited to this account, to remain available until expended, from performance bond forfeitures in fiscal year 1999 and thereafter.”
+Pub. L. 105–277, div. A, §101(e) \[title I\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–244, provided in part that: “Notwithstanding 31 U.S.C. 3302, an additional amount shall be credited to this account, to remain available untilexpended, from performance bond forfeitures in fiscal year 1999 and thereafter.”
 
 #### Cost-Based Fees for Products of Mine Map Repository
 

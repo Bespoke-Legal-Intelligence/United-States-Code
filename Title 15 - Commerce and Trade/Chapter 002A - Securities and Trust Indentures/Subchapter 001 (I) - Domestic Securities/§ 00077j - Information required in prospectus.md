@@ -14,7 +14,7 @@ Except to the extent otherwise permitted or required pursuant to this subsection
 
 #### (b) Summarizations and omissions allowed by rules and regulations
 
-In addition to the prospectus permitted or required in subsection (a) of this section, the Commission shall by rules or regulations deemed necessary or appropriate in the public interestor for the protection of investors permit the use of a prospectus for the purposes of subsection (b)(1) of section 77e of this title which omits in part or summarizes information in the prospectus specified in subsection (a) of this section. A prospectus permitted under this subsection shall, except to the extent the Commission by rules or regulations deemed necessary or appropriate in the public interest or for the protection of investors otherwise provides, be filed as part of the registration statement but shall not be deemed a part of such registration statement for the purposes of section 77k of this title. The Commission may at any time issue an order preventing or suspending the use of a prospectus permitted under this subsection, if it has reason to believe that such prospectus has not been filed (if required to be filed as part of the registration statement) or includes any untrue statement of a material fact or omits to state any material fact required to be stated therein or necessary to make the statements therein, in the light of the circumstances under which such prospectus is or is to be used, not misleading. Upon issuance of an order under this subsection, the Commission shall give notice of the issuance of such order and opportunity for hearing by personal service or the sending of confirmed telegraphic notice. The Commission shall vacate or modify the order at any time for good cause or if such prospectus has been filed or amended in accordance with such order.
+In addition to the prospectus permitted or required in subsection (a) of this section, the Commission shall by rules or regulations deemed necessary or appropriate in the public interest or for the protection of investors permit the use of a prospectus for the purposes of subsection (b)(1) of section 77e of this title which omits in part or summarizes information in the prospectus specified in subsection (a) of this section. A prospectus permitted under this subsection shall, except to the extent the Commission by rules or regulations deemed necessary or appropriate in the public interest or for the protection of investors otherwise provides, be filed as part of the registration statement but shall not be deemed a part of such registration statement for the purposes of section 77k of this title. The Commission may at any time issue an order preventing or suspending the use of a prospectus permitted under this subsection, if it has reason to believe that such prospectus has not been filed (if required to be filed as part of the registration statement) or includes any untrue statement of a material fact or omits to state any material fact required to be stated therein or necessary to make the statements therein, in the light of the circumstances under which such prospectus is or is to be used, not misleading. Upon issuance of an order under this subsection, the Commission shall give notice of the issuance of such order and opportunity for hearing by personal service or the sending of confirmed telegraphic notice. The Commission shall vacate or modify the order at any time for good cause or if such prospectus has been filed or amended in accordance with such order.
 
 #### (c) Additional information required by rules and regulations
 
@@ -47,28 +47,6 @@ Amendment by act Aug. 10, 1954, effective 60 days after Aug. 10, 1954, see note 
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
-#### Cross References
-
-Definition of prospectus—
-
-&emsp;&emsp;Investment Company Act of 1940, see section 80a–2 of this title.
-
-&emsp;&emsp;Prospectus within this subchapter, see section 77b of this title.
-
-&emsp;&emsp;Trust Indenture Act of 1939, see section 77ccc of this title.
-
-Prohibitions unless prospectus meets requirements of this section, see section 77e of this title.
-
-Regulations for form of information in prospectus, see section 80a–24 of this title.
-
-Rules and regulations, authority of Commission to make, amend, and rescind, see section 77s of this title.
-
-Trust Indenture Act of 1939—
-
-&emsp;&emsp;Prospectus under, see section 77eee of this title.
-
-&emsp;&emsp;Transportation of prospectus concerning securities not registered under this subchapter in interstate commerce or mails as unlawful, see section 77fff of this title.
 
 #### Section Referred to in Other Sections
 

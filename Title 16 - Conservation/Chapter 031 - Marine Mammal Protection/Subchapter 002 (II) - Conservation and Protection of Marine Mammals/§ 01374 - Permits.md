@@ -210,9 +210,9 @@ The Secretary shall establish and charge a reasonable fee for permits issued und
 
 #### (h) General permits
 
-(1) Consistent with the regulations prescribed pursuant to section 1373 of this title and to the requirements of section 1371 of this title, the Secretary may issue an annual permit to a United States purse seine fishing vessel for the taking of such marine mammals, and shall issue regulations to cover the use of any such annual permits.
+(1) Consistent with the regulations prescribed pursuant to section 1373 of this title and to therequirements of section 1371 of this title, the Secretary may issue an annual permit to a United States purse seine fishing vessel for the taking of such marine mammals, and shall issue regulations to cover the use of any such annual permits.
 
-(2) Such annual permits for the incidental taking of marine mammals in the course of commercial purse seine fishing for yellowfin tuna in the eastern tropical Pacific Ocean shall be governed by section 1416 of this title, subject to theregulations issued pursuant to section 1413 of this title.
+(2) Such annual permits for the incidental taking of marine mammals in the course of commercial purse seine fishing for yellowfin tuna in the eastern tropical Pacific Ocean shall be governed by section 1416 of this title, subject to the regulations issued pursuant to section 1413 of this title.
 
 (Pub. L. 92–522, title I, §104, Oct. 21, 1972, 86 Stat. 1034; Pub. L. 98–364, title I, §102, July 17, 1984, 98 Stat. 440; Pub. L. 100–711, §§4(d), 5(d), Nov. 23, 1988, 102 Stat. 4767, 4769; Pub. L. 103–238, §5(b), Apr. 30, 1994, 108 Stat. 537; Pub. L. 105–18, title V, §5004, June 12, 1997, 111 Stat. 187; Pub. L. 105–42, §4(d), Aug. 15, 1997, 111 Stat. 1125; Pub. L. 105–277, div. A, §101(e) \[title I\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–238; Pub. L. 106–31, title V, §5004(1), May 21, 1999, 113 Stat. 110.)
 

@@ -12,7 +12,7 @@ No owner or operator of any bridge, drawbridge, or causeway shall endanger, unre
 
 Whoever violates any provision of this section, or any order issued under this section, shall be liable to a civil penalty of not more than $1,000. Each day a violation continues shall be deemed a separate offense. No penalty may be assessed under this subsection until the person charged is given notice and an opportunity for a hearing on the charge. The Secretary of Transportation may assess and collect any civil penalty incurred under this subsection and, in his discretion, may remit, mitigate, or compromise any penalty until the matter is referred to the Attorney General. If a person against whom a civil penalty is assessed under this subsection fails to pay that penalty, an action may be commenced in the district court of the United States for any district in which the violation occurs for such penalty.
 
-(Mar. 3, 1899, ch. 425, §18, 30 Stat. 1153; Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167; Jan. 31, 1928, ch.14, §1, 45 Stat. 54; June 25, 1948, ch. 646, §§1, 39, 62 Stat. 909, 992; Pub. L. 97–322, title I, §108(b), Oct. 15, 1982, 96 Stat. 1583.)
+(Mar. 3, 1899, ch. 425, §18, 30 Stat. 1153; Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167; Jan. 31, 1928, ch. 14, §1, 45 Stat. 54; June 25, 1948, ch. 646, §§1, 39, 62 Stat. 909, 992; Pub. L. 97–322, title I, §108(b), Oct. 15, 1982, 96 Stat. 1583.)
 
 #### Codification
 
@@ -45,12 +45,6 @@ Amendment by act June 25, 1948 effective Sept. 1, 1948, see section 38 of act Ju
 #### Limitation on Application
 
 Section as not applicable to bridges constructed under sections 491 to 498 of this title, see section 494 of this title.
-
-#### Cross References
-
-Obstruction of navigation by means of a bridge prohibited, see sections 494 and 495 of this title.
-
-Section inapplicable to any bridge to which provisions of sections 511 to 523 of this title are applicable, see section 522 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -62,7 +62,7 @@ In General.—Not later than 6 months after the date of the enactment of this se
 
 “(b)
 
-Capital Stock.—Notwithstanding section 1.6 (as added by section 401 of this Act) \[12 U.S.C. 2014\], thenumber of shares of capital stock issued by a Farm Credit Bank to stockholders and other owners of the institution involved in the merger, and the rights and privileges of such shares (including voting power, redemption rights, preferences on liquidation, and the right to dividends) shall be determined by the plan of merger adopted by the merging banks, and shall be consistent with section 4.3A \[12 U.S.C. 2154a\] and the regulations issued by the Farm Credit Administration.
+Capital Stock.—Notwithstanding section 1.6 (as added by section 401 of this Act) \[12 U.S.C. 2014\], the number of shares of capital stock issued by a Farm Credit Bank to stockholders and other owners of the institution involved in the merger, and the rights and privileges of such shares (including voting power, redemption rights, preferences on liquidation, and the right to dividends) shall be determined by the plan of merger adopted by the merging banks, and shall be consistent with section 4.3A \[12 U.S.C. 2154a\] and the regulations issued by the Farm Credit Administration.
 
 “(c)
 
@@ -94,7 +94,7 @@ Merger of entire bank.—Notwithstanding subparagraph (B), or any other provisio
 
 &emsp;&emsp;&emsp;“(iii)
 
-Limited lending authority.—Notwithstanding any provision of the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.), the Farm Credit Bank resulting from a merger under this subsection shall have only the lending authorities in the States of Alabama, Louisiana, and Mississippi that the constituent banks exercised in such States immediately prior to the merger, except as may be provided in section 5.17(a)(2) of such Act (12 U.S.C. 2252(a)(2)).
+Limited lending authority.—Notwithstanding any provision of the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.), the Farm Credit Bank resulting from a merger under this subsection shall have only the lending authorities in the States of Alabama, Louisiana, and Mississippi that the constituent banks exercised in suchStates immediately prior to the merger, except as may be provided in section 5.17(a)(2) of such Act (12 U.S.C. 2252(a)(2)).
 
 &emsp;&emsp;“(B)
 
@@ -170,7 +170,7 @@ In general.—Not later than 30 days after the issuance of an order by the Farm 
 
 &emsp;&emsp;“(B)
 
-Duties.—The arbitrator shall determine the terms and conditions of the merger required under an order issued under paragraph (1)(D), such that the terms and conditions are fair and equitable to the two banks, their affiliated associations, the stockholders and borrowers of the associations, and the other institutions of the Farm Credit System, and are designed to protect or enhance the safety and soundness of the Farm Credit System. The arbitrator shall have the authority to hire staff and secure the services of consultants as necessary to discharge the duties of the arbitrator under this paragraph.
+Duties.—The arbitrator shall determine the terms and conditions of the merger required under an order issued under paragraph (1)(D), such that the terms and conditions are fair and equitable to the two banks, their affiliated associations, the stockholders and borrowers of the associations, andthe other institutions of the Farm Credit System, and are designed to protect or enhance the safety and soundness of the Farm Credit System. The arbitrator shall have the authority to hire staff and secure the services of consultants as necessary to discharge the duties of the arbitrator under this paragraph.
 
 &emsp;&emsp;“(C)
 
@@ -362,7 +362,7 @@ Procedures.—Notwithstanding any other provision of law, the court may set rule
 
 &emsp;&emsp;&emsp;“(iii)
 
-Expedited review.—Any such proceeding before the court shall be assigned for hearing and completed at the earliest possible date, and shall be expedited in every way. The court shall render its final decision relative to any challenge not later than 50 days from the date the challenge is brought unless the court determines that a longer period of time is required to satisfy the requirements of the Constitution.
+Expedited review.—Any such proceeding before the court shall be assigned for hearing and completed at the earliest possible date, and shallbe expedited in every way. The court shall render its final decision relative to any challenge not later than 50 days from the date the challenge is brought unless the court determines that a longer period of time is required to satisfy the requirements of the Constitution.
 
 &emsp;&emsp;“(C)
 

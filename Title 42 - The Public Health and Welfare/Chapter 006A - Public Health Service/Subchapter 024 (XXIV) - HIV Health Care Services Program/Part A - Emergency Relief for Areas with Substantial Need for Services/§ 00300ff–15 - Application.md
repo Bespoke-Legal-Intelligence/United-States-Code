@@ -4,23 +4,27 @@
 
 To be eligible to receive a grant under section 300ff–11 of this title, an eligible area shall prepare and submit to the Secretary an application, in accordance with subsection (c) of this section regarding a single application and grant award, at such time, in such form, and containing such information as the Secretary shall require, including assurances adequate to ensure—
 
-&emsp;(1)(A) that funds received under a grant awarded under this part will be utilized to supplement not supplant State funds made available in the year for which the grant is awarded to provide HIV-related services to individuals with HIV disease;
+&emsp;(1)(A) that funds received under a grant awarded under this part will be utilized to supplement not supplant State funds made available in the year for which the grant is awarded to provide HIV-related services as described in section 300ff–14(b)(1) of this title;
 
-&emsp;(B) that the political subdivisions within the eligible area will maintain the level of expenditures by such political subdivisions for HIV-related services for individuals with HIV disease at a level that is equal to the level of such expenditures by such political subdivisions for the preceding fiscal year; and
+&emsp;(B) that the political subdivisions within the eligible area will maintain the level of expenditures by such political subdivisions for HIV-related services as described in section 300ff–14(b)(1) of this title at a level that is equal to the level of such expenditures by such political subdivisions for the preceding fiscal year; and
 
 &emsp;(C) that political subdivisions within the eligible area will not use funds received under a grant awarded under this part in maintaining the level of expenditures for HIV-related services as required in subparagraph (B);
 
 &emsp;(2) that the eligible area has an HIV health services planning council and has entered into intergovernmental agreements pursuant to section 300ff–12 of this title, and has developed or will develop the comprehensive plan in accordance with section 300ff–12(b)(3)(B) <sup>1</sup> of this title;
 
-&emsp;(3) that entities within the eligible area that will receive funds under a grant provided under section 300ff–11(a) of this title shall participate in an established HIV community-based continuum of care if such continuum exists within the eligible area;
+&emsp;(3) that entities within the eligible area that receive funds under a grant under this part will maintain appropriate relationships with entities in the eligible area served that constitute key points of access to the health care system for individuals with HIV disease (including emergency rooms, substance abuse treatment programs, detoxification centers, adult and juvenile detention facilities, sexually transmitted disease clinics, HIV counseling and testing sites, mental health programs, and homeless shelters), and other entities under section <sup>2</sup> 300ff–14(b)(3) and 300ff–52(a) of this title, for the purpose of facilitating early intervention for individuals newly diagnosed with HIV disease and individuals knowledgeable of their HIV status but not in care;
 
-&emsp;(4) that funds received under a grant awarded under this part will not be utilized to make payments for any item or service to the extent that payment has been made, or can reasonably be expected to be made, with respect to that item or service—
+&emsp;(4) that the chief elected official of the eligible area will satisfy all requirements under section 300ff–14(c) of this title;
+
+&emsp;(5) that entities within the eligible area that will receive funds under a grant provided under section 300ff–11(a) of this title shall participate in an established HIV community-based continuum of care if such continuum exists within the eligible area;
+
+&emsp;(6) that funds received under a grant awarded under this part will not be utilized to make payments for any item or service to the extent that payment has been made, or can reasonably be expected to be made, with respect to that item or service—
 
 &emsp;&emsp;(A) under any State compensation program, under an insurance policy, or under any Federal or State health benefits program; or
 
 &emsp;&emsp;(B) by an entity that provides health services on a prepaid basis;
 
-&emsp;(5) to the maximum extent practicable, that—
+&emsp;(7) to the maximum extent practicable, that—
 
 &emsp;&emsp;(A) HIV health care and support services provided with assistance made available under this part will be provided without regard—
 
@@ -30,9 +34,11 @@ To be eligible to receive a grant under section 300ff–11 of this title, an eli
 
 &emsp;&emsp;(B) such services will be provided in a setting that is accessible to low-income individuals with HIV-disease; and
 
-&emsp;&emsp;(C) a program of outreach will be provided to low-income individuals with HIV-disease to inform such individuals of such services; and
+&emsp;&emsp;(C) a program of outreach will be provided to low-income individuals with HIV-disease to inform such individuals of such services;
 
-&emsp;(6) that the applicant has participated, or will agree to participate, in the statewidecoordinated statement of need process where it has been initiated by the State public health agency responsible for administering grants under part B of this subchapter, and ensure that the services provided under the comprehensive plan are consistent with the statewide coordinated statement of need.
+&emsp;(8) that the applicant has participated, or will agree to participate, in the statewide coordinated statement of need process where it has been initiated by the State public health agency responsible for administering grants under part B of this subchapter, and ensure that the services provided under the comprehensive plan are consistent with the statewide coordinated statement of need; and
+
+&emsp;(9) that the eligible area has procedures in place to ensure that services provided with funds received under this part meet the criteria specified in section 300ff–14(b)(1) of this title.
 
 #### (b) Application
 
@@ -72,7 +78,7 @@ An eligible area that desires to receive a grant under section 300ff–13(b) of 
 
 #### (4) Redistribution
 
-&emsp;Any amounts appropriated in any fiscal year under this part and not obligated to an eligible entity as a result of the failure of such entity to submit an application shall be redistributed by the Secretary to other eligible entities in proportion to the original grants made to such eligible areas under <sup>2</sup> 300ff–11(a) of this title.
+&emsp;Any amounts appropriated in any fiscal year under this part and not obligated to an eligible entity as a result of the failure of such entity to submit an application shall be redistributed by the Secretary to other eligible entities in proportion to the original grants made to such eligible areas under section 300ff–11(a) of this title.
 
 #### (e) Requirements regarding imposition of charges for services
 
@@ -108,19 +114,33 @@ An eligible area that desires to receive a grant under section 300ff–13(b) of 
 
 #### (4) Waiver regarding secondary agreements
 
-&emsp;The requirements established in paragraphs (1) through (3) shall be waived in accordance with section 300ff–14(d)(2) of this title.
+&emsp;The requirements established in paragraphs (1) through (3) shall be waived in accordance with section 300ff–14(d)(2) <sup>1</sup> of this title.
 
-(July 1, 1944, ch. 373, title XXVI, §2605, as added Pub. L. 101–381, title I, §101(3), Aug. 18, 1990, 104 Stat. 582; amended Pub. L. 104–146, §§3(b)(5), 6(c)(2), May 20, 1996, 110 Stat. 1352, 1368.)
+(July 1, 1944, ch. 373, title XXVI, §2605, as added Pub. L. 101–381, title I, §101(3), Aug. 18, 1990, 104 Stat. 582; amended Pub. L. 104–146, §§3(b)(5), 6(c)(2), May 20, 1996, 110 Stat. 1352, 1368; Pub. L. 106–345, title I, §122, title V, §503(a)(1), Oct. 20, 2000, 114 Stat. 1329, 1354.)
 
 #### References in Text
 
 Section 300ff–12(b) of this title, referred to in subsec. (a)(2), was amended by Pub. L. 104–146, §3(b)(1)(D), May 20, 1996, 110 Stat. 1348, to redesignate pars. (2) and (3) as (3) and (4), respectively. As so redesignated, par. (3)(B) relates to consideration regarding designation of councils and par. (4)(B) relates to development of a comprehensive plan.
+
+Section 300ff–14(d)(2) of this title, referred to in subsec. (e)(4), was redesignated section 300ff–14(e)(2) of this title by Pub. L. 106–345, title I, §121(d)(1), Oct. 20, 2000, 114 Stat. 1328.
 
 #### Prior Provisions
 
 A prior section 2605 of act July 1, 1944, was successively renumbered by subsequent acts and transferred, see section 238d of this title.
 
 #### Amendments
+
+2000—Subsec. (a)(1)(A). Pub. L. 106–345, §122(b)(1)(A), substituted “services as described in section 300ff–14(b)(1) of this title” for “services to individuals with HIV disease”.
+
+Subsec. (a)(1)(B). Pub. L. 106–345, §122(b)(1)(B), substituted “services as described in section 300ff–14(b)(1) of this title” for “services for individuals with HIV disease”.
+
+Subsec. (a)(3) to (8). Pub. L. 106–345, §122(a), added pars. (3) and (4) and redesignated former pars. (3) to (6) as (5) to (8), respectively.
+
+Subsec. (a)(9). Pub. L. 106–345, §122(b)(2)–(4), added par. (9).
+
+Subsec. (d)(1). Pub. L. 106–345, §503(a)(1)(A), made technical amendment to reference in original act which appears in text as reference to section 300ff–77 of this title.
+
+Subsec. (d)(4). Pub. L. 106–345, §503(a)(1)(B), inserted “section” before “300ff–11(a) of this title”.
 
 1996—Subsec. (a). Pub. L. 104–146, §3(b)(5)(A)(i), inserted “, in accordance with subsection (c) of this section regarding a single application and grant award,” after “application” in introductory provisions.
 
@@ -132,9 +152,9 @@ Subsec. (b). Pub. L. 104–146, §3(b)(5)(B), substituted “Application” for 
 
 Subsec. (c). Pub. L. 104–146, §3(b)(5)(D), added subsec. (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 104–146, §3(b)(5)(C), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
+Subsec. (c)(1). Pub. L. 104–146, §6(c)(2), which directed substitution of “section 300ff–77 of this title” for “section 300ff–18 of this title” in subsec. (c)(1), could not be executed because phrase “section 300ff–18 of this title” did not appear in text of subsec. (c)(1) subsequent to redesignation of subsec. (c) as (d) by Pub. L. 104–146, §3(b)(5)(C). See below.
 
-Subsec. (d)(1). Pub. L. 104–146, §6(c)(2), which directed substitution of “section 300ff–77 of this title” for “section 300ff–18 of this title” in subsec. (c)(1), was executed by making the substitution in subsec. (d)(1) to reflect the probable intent of Congress and the redesignation of subsec. (c) as (d) by Pub. L. 104–146, §3(b)(5)(C). See above.
+Subsec. (d). Pub. L. 104–146, §3(b)(5)(C), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
 Subsec. (e). Pub. L. 104–146, §3(b)(5)(C), redesignated subsec. (d) as (e).
 
@@ -144,9 +164,9 @@ Amendment by Pub. L. 104–146 effective Oct. 1, 1996, see section 13 of Pub. L.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 300ff–13 of this title.
+This section is referred to in sections 300ff–13, 300ff–14 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be followed by “section”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be “sections”.</i>
 

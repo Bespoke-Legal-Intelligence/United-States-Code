@@ -16,7 +16,6 @@
 | (a) | Establishment. |
 | (b) | Responsibilities. |
 | (c) | Contracts. |
-| (d) | Triennial report. |
 | [3704b.](%C2%A7%2003704b%20-%20National%20Technical%20Information%20Service.md) | National Technical Information Service. |
 | (a) | Powers. |
 | (b) | Director of the Service. |
@@ -27,7 +26,7 @@
 | 3704b–1. | Recovery of operating costs through fee collections. |
 | 3704b–2. | Transfer of Federal scientific and technical information. |
 | (a) | Transfer. |
-| (b) | Annual report to Congress. |
+| (b) | Omitted. |
 | [3705\.](%C2%A7%2003705%20-%20Cooperative%20Research%20Centers.md) | Cooperative Research Centers. |
 | (a) | Establishment. |
 | (b) | Activities. |
@@ -54,9 +53,9 @@
 | (c) | Functions of Research and Technology Applications Offices. |
 | (d) | Dissemination of technical information. |
 | (e) | Establishment of Federal Laboratory Consortium for Technology Transfer. |
-| (f) | Repealed. |
+| (f) | Agency reports on utilization. |
 | (g) | Functions of Secretary. |
-| (h) | Repealed. |
+| (h) | Duplication of reporting. |
 | (i) | Research equipment. |
 | [3710a.](%C2%A7%2003710a%20-%20Cooperative%20research%20and%20development%20agreements.md) | Cooperative research and development agreements. |
 | (a) | General authority. |
@@ -97,12 +96,11 @@
 | [3714\.](%C2%A7%2003714%20-%20Spending%20authority.md) | Spending authority. |
 | [3715\.](%C2%A7%2003715%20-%20Use%20of%20partnership%20intermediaries.md) | Use of partnership intermediaries. |
 | (a) | Authority. |
-| (b) | Partnership progress reports. |
+| (b) | Omitted. |
 | (c) | “Partnership intermediary” defined. |
 | [3716\.](%C2%A7%2003716%20-%20Critical%20industries.md) | Critical industries. |
 | (a) | Identification of industries and development of plan. |
 | (b) | Initial report. |
-| (c) | Annual updates. |
 | [3717\.](%C2%A7%2003717%20-%20National%20Quality%20Council.md) | National Quality Council. |
 | (a) | Establishment and functions. |
 | (b) | Membership. |

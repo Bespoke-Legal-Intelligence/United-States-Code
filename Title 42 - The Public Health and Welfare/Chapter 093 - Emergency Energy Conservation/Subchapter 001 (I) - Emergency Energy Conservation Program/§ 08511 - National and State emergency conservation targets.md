@@ -12,7 +12,7 @@
 
 &emsp;(i) the consumption of the energy source for which a target is established during the corresponding month in the 12-month period prior to the first month for which the target is established; and
 
-&emsp;(ii) a growth adjustment factor, which shall be determined on the basis of the trends in theuse in that State of such energy source during the 36-month period prior to the first month for which the target is established.
+&emsp;(ii) a growth adjustment factor, which shall be determined on the basis of the trends in the use in that State of such energy source during the 36-month period prior to the first month for which the target is established.
 
 (C)(i) The President shall adjust, to the extent he determines necessary, any State base period consumption to insure that achievement of a target established for that State under this subsection will not impair the attainment of the objectives of section 753(b)(1) <sup>1</sup> of title 15.
 
@@ -62,11 +62,9 @@ Notwithstanding any other provision of law, the authority vested in the Presiden
 
 Section 753 of title 15, referred to in subsec. (a)(3)(C)(i), was omitted from the Code pursuant to section 760g of Title 15, Commerce and Trade, which provided for the expiration of the President's authority under that section on Sept. 30, 1981.
 
-#### Cross References
+#### Termination of Reporting Requirements
 
-State energy conservation plans, see section 6321 et seq. of this title.
-
-State energy conservation goals, see section 6324 of this title.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsec. (d)(3)(A) of this section is listed in the 19th item on page 19), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 
 #### Section Referred to in Other Sections
 

@@ -30,7 +30,7 @@
 
 (e) For purposes of this chapter, a decree, order, agreement, or election referred to in subsection (a) shall not be effective, in the case of a former spouse, to the extent that it is inconsistent with any joint waiver previously executed with respect to such former spouse under section 8416(a).
 
-(f)(1) Any amount under section 8442(b)(1)(A) which would otherwise be payable to a widow or widower based on the service of another individual shall be paid (in whole or in part) by the Office to a former spouse of such individual if and to the extent expressly provided for in the terms of a court decree of divorce, annulment, or legal separation, or the terms of a court order or court-approved property settlement incident to any decree of divorce, annulment, or legal separation.
+(f)(1) Any amount under section 8442(b)(1)(A) which would otherwise be payable to a widow or widower based on the service of another individual shall be paid (in whole or in part) by the Office to a former spouse of such individual if and to the extent expressly provided for in the terms of a court decree of divorce, annulment, or legal separation, or the terms of a court order or court-approved property settlement incident toany decree of divorce, annulment, or legal separation.
 
 (2) Paragraph (1) shall apply only to payments made by the Office after the date of receipt in the Office of written notice of such decree, order, or agreement, and such additional information and documentation as the Office may prescribe.
 

@@ -12,7 +12,7 @@ Section 1973dd–2b, Pub. L. 94–203, §6, as added Pub. L. 95–593, §4(2), N
 
 Section 1973dd–3, Pub. L. 94–203, §7, formerly §5, Jan. 2, 1976, 89 Stat. 1143; renumbered §7, Pub. L. 95–593, §4(1), Nov. 4, 1978, 92 Stat. 2535, provided for enforcement by the Attorney General, jurisdiction of courts, and penalties for depriving or attempting to deprive persons of secured rights and giving or conspiring to give false information or paying or accepting money either for registration to vote or voting. See section 1973ff–4 of this title and section 608 of Title 18, Crimes and Criminal Procedure.
 
-Section 1973dd–4, Pub. L. 94–203, §8, formerly §6, Jan. 2, 1976, 89 Stat. 1143; renumbered §8, Pub. L. 95–593, §4(1), Nov. 4, 1978, 92 Stat. 2535, provided that if any provision of this subchapter is held invalid, the validity of the remainder of this subchapter not be affected.
+Section 1973dd–4, Pub. L. 94–203, §8, formerly §6, Jan. 2, 1976, 89 Stat. 1143; renumbered §8, Pub. L. 95–593, §4(1), Nov. 4, 1978, 92 Stat. 2535, provided that if anyprovision of this subchapter is held invalid, the validity of the remainder of this subchapter not be affected.
 
 Section 1973dd–5, Pub. L. 94–203, §9, formerly §7, Jan. 2, 1976, 89 Stat. 1144; renumbered §9 and amended Pub. L. 95–593, §§4(1), 5, Nov. 4, 1978, 92 Stat. 2535, 2537, related to applicability of this subchapter to State registration requirements and voting practices and provided that exercise of any right to register or vote in Federal elections by any citizen outside the United States not affect the determination of residence or domicile for tax purposes. See section 1973ff–5 of this title.
 

@@ -18,9 +18,3 @@ Act June 25, 1948, eff. Sept. 1, 1948, substituted “United States attorney” 
 
 The words “district court” substituted for “district or circuit court” in two places to conform to act Mar. 3, 1911, which abolished the circuit courts and transferred their powers and duties to the district courts.
 
-#### Federal Rules of Civil Procedure
-
-Precedence of actions, see rule 40, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-Process, see rule 4.
-

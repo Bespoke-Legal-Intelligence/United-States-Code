@@ -16,37 +16,3 @@ As originally enacted section contained references to the Supreme Court of the D
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
-#### Federal Rules of Appellate Procedure
-
-Review and enforcement of orders of administrative agencies, boards, commissions, and officers, see rule 15 et seq., Title 28, Appendix, Judiciary and Judicial Procedure.
-
-#### Federal Rules of Civil Procedure
-
-Costs, see rule 54, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-One form of action, see rule 2.
-
-Process, see rule 4.
-
-#### Federal Rules of Criminal Procedure
-
-Special venue provisions of section as unaffected by rule 18, see Notes of Advisory Committee on Rules set out under rule 18, Title 18, Appendix, Crimes and Criminal Procedure.
-
-Venue, see rules 18 to 22.
-
-#### Cross References
-
-Jurisdiction of offenses and suits under—
-
-&emsp;&emsp;Investment Advisers Act of 1940, see section 80b–14 of this title.
-
-&emsp;&emsp;Investment Company Act of 1940, see section 80a–43 of this title.
-
-&emsp;&emsp;Securities Act of 1933, see section 77v of this title.
-
-&emsp;&emsp;Securities Exchange Act of 1934, see section 78aa of this title.
-
-&emsp;&emsp;Trust Indenture Act of 1939, see section 77vvv of this title.
-
-&emsp;&emsp;Venue generally, see section 1391 et seq. of Title 28, Judiciary and Judicial Procedure.
-

@@ -40,7 +40,7 @@
 
 #### (2) Hearing in removal proceeding
 
-&emsp;Any alien whose permanent resident status is terminated under paragraph (1) may requesta review of such determination in a proceeding to remove the alien. In such proceeding, the burden of proof shall be on the Attorney General to establish, by a preponderance of the evidence, that a condition described in paragraph (1) is met.
+&emsp;Any alien whose permanent resident status is terminated under paragraph (1) may request a review of such determination in a proceeding to remove the alien. In such proceeding, the burden of proof shall be on the Attorney General to establish, by a preponderance of the evidence, that a condition described in paragraph (1) is met.
 
 #### (c) Requirements of timely petition and interview for removal of condition
 

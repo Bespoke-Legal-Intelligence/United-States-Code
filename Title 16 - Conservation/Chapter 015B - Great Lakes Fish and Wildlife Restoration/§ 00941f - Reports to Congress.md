@@ -12,7 +12,7 @@ On December 31, 2002, the Director shall submit to the Committee on Resources of
 
 #### Codification
 
-Pub. L. 101–537 and Pub. L. 101–646 enacted substantially identical sections. Title II of Pub. L. 101–646 was repealed by Pub. L. 105–265, §3(b).
+Title I of Pub. L. 101–537 and title II of Pub. L. 101–646 enacted substantially identical sections. Title II of Pub. L. 101–646 was repealed by Pub. L. 105–265, §3(b).
 
 #### Amendments
 

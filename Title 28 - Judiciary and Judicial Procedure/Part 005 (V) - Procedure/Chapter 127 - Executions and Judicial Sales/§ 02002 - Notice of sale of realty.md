@@ -30,11 +30,7 @@ This section corrects a typographical error in section 2002 of title 28, U.S.C.
 
 #### Amendments
 
-1949—Act May 24, 1949, substituted “11” for “II” after “Title” in third par.
-
-#### Federal Rules of Civil Procedure
-
-Execution, see rule 69, Appendix to this title.
+<b>1949</b>—Act May 24, 1949, substituted “11” for “II” after “Title” in third par.
 
 #### Section Referred to in Other Sections
 

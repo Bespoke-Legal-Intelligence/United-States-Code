@@ -48,7 +48,7 @@ Subsec. (c). Pub. L. 104–201, §502(a)(2), substituted “lieutenant colonel�
 
 #### Effective Date of 1962 Amendment
 
-Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 87–649, set out as an Effective Date note preceding section 101 of Title 37, Pay and Allowances of the Uniformed Services.
+Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 87–649, set out as an EffectiveDate note preceding section 101 of Title 37, Pay and Allowances of the Uniformed Services.
 
 #### Short Title
 
@@ -75,8 +75,4 @@ Section 4(a) of Pub. L. 90–130 authorized the Secretary of the Army to suspend
 #### Authority of Military Department Secretaries To Convene Boards To Recommend Deferment of Retirement or Separation of Nurses
 
 Section 4(f) of Pub. L. 90–130. Nov. 8, 1967, 81 Stat. 384, authorized until July 1, 1972, when the needs of the service required, the Secretary of the Army, the Secretary of the Navy, or the Secretary of the Air Force to convene annually boards of officers to consider officers of the Army Nurse Corps, officers of the Navy Nurse Corps, or Air Force nurses, respectively, who otherwise would be required to be retired or separated under this Act within the calendar or fiscal year in which the board is convened. Upon the recommendation of such a board, the Secretary concerned could defer the separation or retirement of such an officer for a term of not more than five years, unless recommended for further deferment by a subsequent board of officers, and in any case not beyond the month following her attaining age sixty or July 1, 1976, whichever was earlier.
-
-#### Cross References
-
-Deputy and assistant chiefs of branches, see section 3039 of this title.
 

@@ -18,12 +18,6 @@ Minor changes were also made in phraseology.
 
 1996—Pub. L. 104–294 substituted “fined under this title” for “fined not more than $1,000”.
 
-#### Cross References
-
-General provisions relating to Indian lands and reservations, see Title 25, Indians.
-
-Protection of national forests and violation of rules and regulations relating thereto, see section 551 of Title 16, Conservation.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in title 16 section 552d.

@@ -2,13 +2,13 @@
 
 #### (a) Change of classification or duties
 
-In order to put into force and effect the policy of Congress by this chapter intended, the commission (1) upon request of the President, or (2) upon resolution of either or both Houses of Congress, or (3) upon its own motion, or (4) when in the judgment of the commission there is good and sufficient reason therefor, upon application of any interested party, shall investigate the differences in the costs of production of any domestic article and of any like or similar foreign article. In the course of the investigation the commission shall hold hearings and give reasonable public notice thereof, and shall afford reasonable opportunity for parties interested to be present, to produce evidence, and to be heard at such hearings. The commission shall report to the President the results of the investigation and its findings with respect to such differences in costs of production. If the commission finds it shown by the investigation that the duties expressly fixed by statute do not equalize the differences in the costs of production of the domestic article and the like or similar foreign article when produced in the principal competing country, the commission shall specify in its report such increases or decreases in rates of duty expressly fixed by statute (including any necessary change in classification) as it finds shown by the investigation to be necessary to equalize such differences. In no case shall the total increase or decrease of such rates of duty exceed 50 per centum of the rates expressly fixed by statute.
+In order to put into force and effect the policy of Congress by this chapter intended, the commission (1) upon request of the President, or (2) upon resolution of either or both Houses of Congress, or (3) upon its own motion, or (4) when in the judgment of the commission there is good and sufficient reason therefor, upon application of any interested party, shall investigate the differences in the costs of production of any domestic article and of any like or similar foreignarticle. In the course of the investigation the commission shall hold hearings and give reasonable public notice thereof, and shall afford reasonable opportunity for parties interested to be present, to produce evidence, and to be heard at such hearings. The commission shall report to the President the results of the investigation and its findings with respect to such differences in costs of production. If the commission finds it shown by the investigation that the duties expressly fixed by statute do not equalize the differences in the costs of production of the domestic article and the like or similar foreign article when produced in the principal competing country, the commission shall specify in its report such increases or decreases in rates of duty expressly fixed by statute (including any necessary change in classification) as it finds shown by the investigation to be necessary to equalize such differences. In no case shall the total increase or decrease of such rates of duty exceed 50 per centum of the rates expressly fixed by statute.
 
 #### (b) Repealed. Pub. L. 96–39, title II, §202(a)(2)(A), July 26, 1979, 93 Stat. 202
 
 #### (c) Proclamation by the President
 
-The President shall by proclamation approve the rates of duty and changes in classificationspecified in any report of the commission under this section, if in his judgment such rates of duty and changes are shown by such investigation of the commission to be necessary to equalize such differences in costs of production.
+The President shall by proclamation approve the rates of duty and changes in classification specified in any report of the commission under this section, if in his judgment such rates of duty and changes are shown by such investigation of the commission to be necessary to equalize such differences in costs of production.
 
 #### (d) Effective date of rates and changes
 
@@ -91,10 +91,6 @@ Amendment by Pub. L. 96–39 effective July 1, 1980, see section 204(a) of Pub. 
 #### Effective Date of 1956 Amendment
 
 Amendment by act Aug. 2, 1956, effective only as to articles entered, or withdrawn from warehouse, for consumption on or after thirtieth day following publication of the final list provided for in section 6(a) of said act, set out in note under section 1402 of this title, see section 8 of act Aug. 2, 1956, set out as an Effective Date note under section 1401a of this title.
-
-#### Cross References
-
-Section not to apply to any article with respect to which a foreign trade agreement has been concluded pursuant to section 1351 et seq. of this title, see section 1352 of this title.
 
 #### Section Referred to in Other Sections
 

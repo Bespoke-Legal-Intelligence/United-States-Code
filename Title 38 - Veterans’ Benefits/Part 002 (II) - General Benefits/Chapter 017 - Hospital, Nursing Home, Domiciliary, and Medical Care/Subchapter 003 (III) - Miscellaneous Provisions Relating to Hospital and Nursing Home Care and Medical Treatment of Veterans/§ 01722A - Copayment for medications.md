@@ -26,7 +26,7 @@
 
 1999—Subsec. (b). Pub. L. 106–117, §201(a)(1), (2), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 106–117, §201(a)(1), (3), redesignated subsec. (b) as (c), substituted “subsection (a)” for “this section”, and inserted at end “Amounts collected through use of the authority under subsection (b) shall be deposited in the Department of Veterans Affairs Health Services Improvement Fund.” Former subsec. (c) redesignated (d).
+Subsec. (c). Pub. L. 106–117, §201(a)(1), (3), redesignated subsec. (b) as (c), substituted “subsection (a)” for “this section”, and inserted at end “Amounts collected through use of the authority under subsection (b) shall be deposited in the Department of Veterans AffairsHealth Services Improvement Fund.” Former subsec. (c) redesignated (d).
 
 Subsec. (d). Pub. L. 106–117, §201(a)(1), redesignated subsec. (c) as (d).
 

@@ -10,12 +10,6 @@ Based on title 13, U.S.C., 1952 ed., §1 (Mar. 6, 1902, ch. 139, §1, 32 Stat. 5
 
 Section 1 of title 13, U.S.C., 1952 ed., provided that the “Census Office” temporarily established in the Department of the Interior in accordance with the act of Mar. 3, 1899 (ch. 419, 30 Stat. 1014) “is made” a permanent office in the Department of Commerce. Such wording is no longer necessary, and the provisions, as revised in this section, merely continue the Bureau (of the Census) as an agency within, and under the jurisdiction of, the Department of Commerce.
 
-#### Cross References
-
-Bureau of the Census as a bureau in the Department of Commerce, see section 1511 of Title 15, Commerce and Trade.
-
-Collection and publication of foreign commerce and trade statistics, applicability of section to, see section 307 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 307 of this title.

@@ -2,7 +2,7 @@ subpart ii—ombudsman programs
 
 #### Subpart Referred to in Other Sections
 
-This subpart is referred to in sections 3035<i>o</i>, 3058a, 3058i, 3058j, 3058k, 3058bb of this title.
+This subpart is referred to in sections 3058a, 3058b, 3058i of this title.
 
 
 ---

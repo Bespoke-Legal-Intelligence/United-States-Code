@@ -32,7 +32,7 @@
 
 (4) Notwithstanding any other provision of this section, if there has been a default in an unexpired lease of the debtor, other than a default of a kind specified in paragraph (2) of this subsection, the trustee may not require a lessor to provide services or supplies incidental to such lease before assumption of such lease unless the lessor is compensated under the terms of such lease for any services and supplies provided under such lease before assumption of such lease.
 
-(c) The trustee may not assume or assign any executory contract or unexpired lease of thedebtor, whether or not such contract or lease prohibits or restricts assignment of rights or delegation of duties, if—
+(c) The trustee may not assume or assign any executory contract or unexpired lease of the debtor, whether or not such contract or lease prohibits or restricts assignment of rights or delegation of duties, if—
 
 &emsp;(1)(A) applicable law excuses a party, other than the debtor, to such contract or lease from accepting performance from or rendering performance to an entity other than the debtor or the debtor in possession, whether or not such contract or lease prohibits or restricts assignment of rights or delegation of duties; and
 
@@ -154,7 +154,7 @@
 
 &emsp;(A) to treat such contract as terminated by such rejection if such rejection by the trustee amounts to such a breach as would entitle the licensee to treat such contract as terminated by virtue of its own terms, applicable nonbankruptcy law, or an agreement made by the licensee with another entity; or
 
-&emsp;(B) to retain its rights (including a right to enforce any exclusivity provision of such contract, but excluding any other right under applicable nonbankruptcy law to specific performance of such contract) under such contract and under any agreement supplementaryto such contract, to such intellectual property (including any embodiment of such intellectual property to the extent protected by applicable nonbankruptcy law), as such rights existed immediately before the case commenced, for—
+&emsp;(B) to retain its rights (including a right to enforce any exclusivity provision of such contract, but excluding any other right under applicable nonbankruptcy law to specific performance of such contract) under such contract and under any agreement supplementary to such contract, to such intellectual property (including any embodiment of such intellectual property to the extent protected by applicable nonbankruptcy law), as such rights existed immediately before the case commenced, for—
 
 &emsp;&emsp;(i) the duration of such contract; and
 
@@ -164,7 +164,7 @@
 
 &emsp;(A) the trustee shall allow the licensee to exercise such rights;
 
-&emsp;(B) the licensee shall make all royalty payments due under such contract for the duration of such contract and for any period described in paragraph (1)(B) of this subsection for which the licensee extends such contract; and
+&emsp;(B) the licensee shall make all royalty payments due under such contract for the duration of such contract and for any period described in paragraph (1)(B) of this subsectionfor which the licensee extends such contract; and
 
 &emsp;(C) the licensee shall be deemed to waive—
 
@@ -248,13 +248,13 @@ Subsection (k) relieves the trustee and the estate of liability for a breach of 
 
 #### house report no. 95–595
 
-Subsection (c) prohibits the trustee from assuming or assigning a contract or lease if applicable nonbankruptcy law excuses the other party from performance to someone other than the debtor, unless the other party consents. This prohibition applies only in the situation in which applicable law excuses the other party from performance independent of any restrictive language in the contract or lease itself. The purpose ofthis subsection, at least in part, is to prevent the trustee from requiring new advances of money or other property. The section permits the trustee to continue to use and pay for property already advanced, but is not designed to permit the trustee to demand new loans or additional transfers of property under lease commitments.
+Subsection (c) prohibits the trustee from assuming or assigning a contract or lease if applicable nonbankruptcy law excuses the other party from performance to someone other than the debtor, unless the other party consents. This prohibition applies only in the situation in which applicable law excuses the other party from performance independent of any restrictive language in the contract or lease itself. The purpose of this subsection, at least in part, is to prevent the trustee from requiring new advances of money or other property. The section permits the trustee to continue to use and pay for property already advanced, but is not designed to permit the trustee to demand new loans or additional transfers of property under lease commitments.
 
 Thus, under this provision, contracts such as loan commitments and letters of credit are nonassignable, and may not be assumed by the trustee.
 
 Subsection (e) invalidates ipso facto or bankruptcy clauses. These clauses, protected under present law, automatically terminate the contract or lease, or permit the other contracting party to terminate the contract or lease, in the event of bankruptcy. This frequently hampers rehabilitation efforts. If the trustee may assume or assign the contract under the limitations imposed by the remainder of the section, then the contract or lease may be utilized to assist in the debtor's rehabilitation or liquidation.
 
-The unenforceability of ipso facto or bankruptcy clauses proposed under this section will require the courts to be sensitive to the rights of the nondebtor party to executory contracts and unexpired leases. If the trustee is to assume a contract or lease, the courts will have to insure that the trustee's performance under the contract or lease gives the other contracting party the full benefit of his bargain. An example of the complexity that may arise in these situations and the need for a determination of all aspects of a particular executory contract or unexpired lease is the shopping center lease under which the debtor is a tenant in a shopping center.
+The unenforceability of ipso facto or bankruptcy clauses proposed under this section will require thecourts to be sensitive to the rights of the nondebtor party to executory contracts and unexpired leases. If the trustee is to assume a contract or lease, the courts will have to insure that the trustee's performance under the contract or lease gives the other contracting party the full benefit of his bargain. An example of the complexity that may arise in these situations and the need for a determination of all aspects of a particular executory contract or unexpired lease is the shopping center lease under which the debtor is a tenant in a shopping center.
 
 A shopping center is often a carefully planned enterprise, and though it consists of numerous individual tenants, the center is planned as a single unit, often subject to a master lease or financing agreement. Under these agreements, the tenant mix in a shopping center may be as important to the lessor as the actual promised rental payments, because certain mixes will attract higher patronage of the stores in the center, and thus a higher rental for the landlord from those stores that are subject to a percentage of gross receipts rental agreement. Thus, in order to assure a landlord of his bargained for exchange, the court would have to consider such factors as the nature of the business to be conducted by the trustee or his assignee, whether that business complies with the requirements of any master agreement, whether the kind of business proposed will generate gross sales in an amount such that the percentage rent specified in the lease is substantially the same as what would have been provided by the debtor, and whether the business proposed to be conducted would result in a breach of other clauses in master agreements relating, for example, to tenant mix and location.
 

@@ -6,7 +6,7 @@
 
 &emsp;Except as provided in section 1395w–28(b)(3) of this title for MSA plans, each Medicare+�Choice plan shall provide to members enrolled under this part, through providers and other persons that meet the applicable requirements of this subchapter and part A of subchapter XI of this chapter—
 
-&emsp;&emsp;(A) those items and services (other than hospice care) for which benefits are availableunder parts A and B of this subchapter to individuals residing in the area served by the plan, and
+&emsp;&emsp;(A) those items and services (other than hospice care) for which benefits are available under parts A and B of this subchapter to individuals residing in the area served by the plan, and
 
 &emsp;&emsp;(B) additional benefits required under section 1395w–24(f)(1)(A) of this title.
 
@@ -27,6 +27,10 @@
 &emsp;&emsp;&emsp;(i) limitations on balance billing against Medicare+Choice organizations for non-contract providers, see subsection (k) of this section and section 1395cc(a)(1)(O) of this title, and
 
 &emsp;&emsp;&emsp;(ii) limiting actuarial value of enrollee liability for covered benefits, see section 1395w–24(e) of this title.
+
+#### (C) Election of uniform coverage policy
+
+&emsp;&emsp;In the case of a Medicare+Choice organization that offers a Medicare+Choice plan in an area in which more than one local coverage policy is applied with respect to different parts of the area, the organization may elect to have the local coverage policy for the part of the area that is most beneficial to Medicare+Choice enrollees (as identified by the Secretary) apply with respect to all Medicare+Choice enrollees enrolled in the plan.
 
 #### (3) Supplemental benefits
 
@@ -56,13 +60,15 @@
 
 &emsp;&emsp;(B) such individual to the extent that the individual has been paid under such law, plan, or policy for such services.
 
-#### (5) National coverage determinations
+#### (5) National coverage determinations and legislative changes in benefits
 
-&emsp;If there is a national coverage determination made in the period beginning on the date of an announcement under section 1395w–23(b) of this title and ending on the date of the next announcement under such section and the Secretary projects that the determination will result in a significant change in the costs to a Medicare+Choice organization of providing the benefits that are the subject of such national coverage determination and that such change in costs was not incorporated in the determination of the annual Medicare+Choice capitation rate under section 1395w–23 of this title included in the announcement made at the beginning of such period, then, unless otherwise required by law—
+&emsp;If there is a national coverage determination or legislative change in benefits required to be provided under this part made in the period beginning on the date of an announcement under section 1395w–23(b) of this title and ending on the date of the next announcement under such section and the Secretary projects that the determination will result in a significant change in the costs to a Medicare+Choice organization of providing the benefits that are the subject of such national coverage determination and that such change in costs was not incorporated in the determination of the annual Medicare+Choice capitation rate under section 1395w–23 of this title included in the announcement made at the beginning of such period, then, unless otherwise required by law—
 
-&emsp;&emsp;(A) such determination shall not apply to contracts under this part until the first contract year that begins after the end of such period, and
+&emsp;&emsp;(A) such determination or legislative change in benefits shall not apply to contracts under this part until the first contract year that begins after the end of such period, and
 
-&emsp;&emsp;(B) if such coverage determination provides for coverage of additional benefits or coverage under additional circumstances, section 1395w–21(i)(1) of this title shall not apply to payment for such additional benefits or benefits provided under such additional circumstances until the first contract year that begins after the end of such period.
+&emsp;&emsp;(B) if such coverage determination or legislative change provides for coverage of additional benefits or coverage under additional circumstances, section 1395w–21(i)(1) of this title shall not apply to payment for such additional benefits or benefits provided under such additional circumstances until the first contract year that begins after the end of such period.
+
+> &emsp;The projection under the previous sentence shall be based on an analysis by the Chief Actuary of the Health Care Financing Administration of the actuarial costs associated with the coverage determination or legislative change in benefits.
 
 #### (b) Antidiscrimination
 
@@ -160,7 +166,7 @@
 
 &emsp;&emsp;&emsp;(i) the services were not emergency services (as defined in paragraph (3)), but (I) the services were medically necessary and immediately required because of an unforeseen illness, injury, or condition, and (II) it was not reasonable given the circumstances to obtain the services through the organization,
 
-&emsp;&emsp;&emsp;(ii) the services were renal dialysis services and were provided other than throughthe organization because the individual was temporarily out of the plan's service area, or
+&emsp;&emsp;&emsp;(ii) the services were renal dialysis services and were provided other than through the organization because the individual was temporarily out of the plan's service area, or
 
 &emsp;&emsp;&emsp;(iii) the services are maintenance care or post-stabilization care covered under the guidelines established under paragraph (2);
 
@@ -240,6 +246,8 @@
 
 &emsp;&emsp;&emsp;(xii) make available information on quality and outcomes measures to facilitate beneficiary comparison and choice of health coverage options (in such form and on such quality and outcomes measures as the Secretary determines to be appropriate).
 
+> &emsp;&emsp;Such program shall include a separate focus (with respect to all the elements described in this subparagraph) on racial and ethnic minorities.
+
 #### (B) Elements of program for organizations offering Medicare+Choice private fee-for-service plans, non-network MSA plans, and preferred provider organization plans
 
 &emsp;&emsp;The quality assurance program of an organization with respect to a Medicare+Choice private fee-for-service plan, a non-network MSA plan, or a preferred provider organization plan it offers shall—
@@ -249,6 +257,8 @@
 &emsp;&emsp;&emsp;(ii) insofar as it provides for the establishment of written protocols for utilization review, base such protocols on current standards of medical practice; and
 
 &emsp;&emsp;&emsp;(iii) have mechanisms to evaluate utilization of services and inform providers and enrollees of the results of such evaluation.
+
+> &emsp;&emsp;Such program shall include a separate focus (with respect to all the elements described in this subparagraph) on racial and ethnic minorities.
 
 #### (C) “Non-network MSA plan” defined
 
@@ -308,6 +318,22 @@
 
 &emsp;&emsp;Nothing in this paragraph shall be construed as limiting the authority of the Secretary under section 1395w–27 of this title, including the authority to terminate contracts with Medicare+Choice organizations under subsection (c)(2) of such section.
 
+#### (5) Report to Congress
+
+#### (A) In general
+
+&emsp;&emsp;Not later than 2 years after December 21, 2000, and biennially thereafter, the Secretary shall submit to Congress a report regarding how quality assurance programs conducted under this subsection focus on racial and ethnic minorities.
+
+#### (B) Contents of report
+
+&emsp;&emsp;Each such report shall include the following:
+
+&emsp;&emsp;&emsp;(i) A description of the means by which such programs focus on such racial and ethnic minorities.
+
+&emsp;&emsp;&emsp;(ii) An evaluation of the impact of such programs on eliminating health disparities and on improving health outcomes, continuity and coordination of care, management of chronic conditions, and consumer satisfaction.
+
+&emsp;&emsp;&emsp;(iii) Recommendations on ways to reduce clinical outcome disparities among racial and ethnic minorities.
+
 #### (f) Grievance mechanism
 
 Each Medicare+Choice organization must provide meaningful procedures for hearing and resolving grievances between the organization (including any entity or individual through which the organization provides health care services) and enrollees with Medicare+Choice plans of the organization under this part.
@@ -318,7 +344,7 @@ Each Medicare+Choice organization must provide meaningful procedures for hearing
 
 #### (A) In general
 
-&emsp;&emsp;A Medicare+Choice organization shall have a procedure for making determinations regarding whether an individual enrolled with the plan of the organization under this part is entitled to receive a health service under this section and the amount (if any) that the individual is required to pay with respect to such service. Subject to paragraph (3), such procedures shall provide for such determination to be made on a timely basis.
+&emsp;&emsp;A Medicare+Choice organization shall have a procedure for making determinations regarding whether an individual enrolled with the plan of the organization under this part is entitled to receive a health service under this section and the amount (if any) that the individual is required to pay with respect to such service. Subject to paragraph\(3), such procedures shall provide for such determination to be made on a timely basis.
 
 #### (B) Explanation of determination
 
@@ -362,7 +388,7 @@ Each Medicare+Choice organization must provide meaningful procedures for hearing
 
 #### (4) Independent review of certain coverage denials
 
-&emsp;The Secretary shall contract with an independent, outside entity to review and resolve in a timely manner reconsiderations that affirm denial of coverage, in whole or in part.
+&emsp;The Secretary shall contract with an independent, outside entity to review and resolve in a timely manner reconsiderations that affirm denial of coverage, in whole or in part. The provisions of section 1395ff(c)(5) of this title shall apply to independent outside entities under contract with the Secretary under this paragraph.
 
 #### (5) Appeals
 
@@ -432,7 +458,7 @@ Each Medicare+Choice organization shall meet the requirement of section 1395cc(f
 
 &emsp;&emsp;&emsp;&emsp;(I) provides stop-loss protection for the physician or group that is adequate and appropriate, based on standards developed by the Secretary that take into account the number of physicians placed at such substantial financial risk in the group or under the plan and the number of individuals enrolled with the organization who receive services from the physician or group, and
 
-&emsp;&emsp;&emsp;&emsp;(II) conducts periodic surveys of both individuals enrolled and individuals previously enrolled with the organization todetermine the degree of access of such individuals to services provided by the organization and satisfaction with the quality of such services.
+&emsp;&emsp;&emsp;&emsp;(II) conducts periodic surveys of both individuals enrolled and individuals previously enrolled with the organization to determine the degree of access of such individuals to services provided by the organization and satisfaction with the quality of such services.
 
 &emsp;&emsp;&emsp;(iii) The organization provides the Secretary with descriptive information regarding the plan, sufficient to permit the Secretary to determine whether the plan is in compliance with the requirements of this subparagraph.
 
@@ -498,7 +524,7 @@ Each Medicare+Choice organization shall meet the requirement of section 1395cc(f
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Each Medicare+Choice organization that offers a Medicare+Choice private fee-for-service plan shall provide that enrollees under the plan who are furnished servicesfor which payment is sought under the plan are provided an appropriate explanation of benefits (consistent with that provided under parts A and B of this subchapter and, if applicable, under medicare supplemental policies) that includes a clear statement of the amount of the enrollee's liability (including any liability for balance billing consistent with this subsection) with respect to payments for such services.
+&emsp;&emsp;&emsp;Each Medicare+Choice organization that offers a Medicare+Choice private fee-for-service plan shall provide that enrollees under the plan who are furnished services for which payment is sought under the plan are provided an appropriate explanation of benefits (consistent with that provided under parts A and B of this subchapter and, if applicable, under medicare supplemental policies) that includes a clear statement of the amount of the enrollee's liability (including any liability for balance billing consistent with thissubsection) with respect to payments for such services.
 
 #### (ii) Advance notice before receipt of inpatient hospital services and certain other services
 
@@ -508,17 +534,91 @@ Each Medicare+Choice organization shall meet the requirement of section 1395cc(f
 
 &emsp;&emsp;&emsp;&emsp;(II) a good faith estimate of the likely amount of such balance billing (if any), with respect to such services, based upon the presenting condition of the enrollee.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1852, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 286; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(k)(6)(B), title V, §§518, 520(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–367, 1501A–384, 1501A–385.)
+#### (<i>l</i>) Return to home skilled nursing facilities for covered post-hospital extended care services
+
+#### (1) Ensuring return to home SNF
+
+#### (A) In general
+
+&emsp;&emsp;In providing coverage of post-hospital extended care services, a Medicare+Choice plan shall provide for such coverage through a home skilled nursing facility if the following conditions are met:
+
+#### (i) Enrollee election
+
+&emsp;&emsp;&emsp;The enrollee elects to receive such coverage through such facility.
+
+#### (ii) SNF agreement
+
+&emsp;&emsp;&emsp;The facility has a contract with the Medicare+Choice organization for the provision of such services, or the facility agrees to accept substantially similar payment under the same terms and conditions that apply to similarly situated skilled nursing facilities that are under contract with the Medicare+Choice organization for the provision of such services and through which the enrollee would otherwise receive such services.
+
+#### (B) Manner of payment to home SNF
+
+&emsp;&emsp;The organization shall provide payment to the home skilled nursing facility consistent with the contract or the agreement described in subparagraph (A)(ii), as the case may be.
+
+#### (2) No less favorable coverage
+
+&emsp;The coverage provided under paragraph (1) (including scope of services, cost-sharing, and other criteria of coverage) shall be no less favorable to the enrollee than the coverage that would be provided to the enrollee with respect to a skilled nursing facility the post-hospital extended care services of which are otherwise covered under the Medicare+Choice plan.
+
+#### (3) Rule of construction
+
+&emsp;Nothing in this subsection shall be construed to do the following:
+
+&emsp;&emsp;(A) To require coverage through a skilled nursing facility that is not otherwise qualified to provide benefits under part A of this subchapter for medicare beneficiaries not enrolled in a Medicare+Choice plan.
+
+&emsp;&emsp;(B) To prevent a skilled nursing facility from refusing to accept, or imposing conditions upon the acceptance of, an enrollee for the receipt of post-hospital extended care services.
+
+#### (4) Definitions
+
+&emsp;In this subsection:
+
+#### (A) Home skilled nursing facility
+
+&emsp;&emsp;The term “home skilled nursing facility” means, with respect to an enrollee who is entitled to receive post-hospital extended care services under a Medicare+Choice plan, any of the following skilled nursing facilities:
+
+#### (i) SNF residence at time of admission
+
+&emsp;&emsp;&emsp;The skilled nursing facility in which the enrollee resided at the time of admission to the hospital preceding the receipt of such post-hospital extended care services.
+
+#### (ii) SNF in continuing care retirement community
+
+&emsp;&emsp;&emsp;A skilled nursing facility that is providing such services through a continuing care retirement community (as defined in subparagraph (B)) which provided residence to the enrollee at the time of such admission.
+
+#### (iii) SNF residence of spouse at time of discharge
+
+&emsp;&emsp;&emsp;The skilled nursing facility in which the spouse of the enrollee is residing at the time of discharge from such hospital.
+
+#### (B) Continuing care retirement community
+
+&emsp;&emsp;The term “continuing care retirement community” means, with respect to an enrollee in a Medicare+Choice plan, an arrangement under which housing and health-related services are provided (or arranged) through an organization for the enrollee under an agreement that is effective for the life of the enrollee or for a specified period.
+
+(Aug. 14, 1935, ch. 531, title XVIII, §1852, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 286; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(k)(6)(B), title V, §§518, 520(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–367, 1501A–384, 1501A–385; Pub. L. 106–554, §1(a)(6) \[title V, §521(b), title VI, §§611(b), 615, 616, 621(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–543, 2763A–560, 2763A–561, 2763A–564.)
 
 #### References in Text
 
 Part A of subchapter XI of this chapter, referred to in subsec. (a)(1)(A), is classified to section 1301 et seq. of this title.
 
-Parts A and B of this subchapter, referred to in subsecs. (a)(1)(A), (2)(A)(ii), (d)(4)(A), and (k)(2)(C)(i), are classified to sections 1395c et seq. and 1395j et seq., respectively, of this title.
+Parts A and B of this subchapter, referred to in subsecs. (a)(1)(A), (2)(A)(ii), (d)(4)(A), (k)(2)(C)(i), and (<i>l</i>)(3)(A), are classified to sections 1395c et seq. and 1395j et seq., respectively, of this title.
 
 The Employee Retirement Income Security Act of 1974, referred to in subsec. (j)(3)(C), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 832, as amended, which is classified principally to chapter 18 (§1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
 #### Amendments
+
+2000—Subsec. (a)(2)(C). Pub. L. 106–554, §1(a)(6) \[title VI, §615\], added subpar. (C).
+
+Subsec. (a)(5). Pub. L. 106–554, §1(a)(6) \[title VI, §611(b)(5)\], inserted concluding provisions.
+
+Pub. L. 106–554, §1(a)(6) \[title VI, §611(b)(1), (2)\], inserted “and legislative changes in benefits” after “National coverage determinations” in heading and inserted “or legislative change in benefits required to be provided under this part” after “there is a national coverage determination” in introductory provisions.
+
+Subsec. (a)(5)(A). Pub. L. 106–554, §1(a)(6) \[title VI, §611(b)(3)\], inserted “or legislative change in benefits” after “such determination”.
+
+Subsec. (a)(5)(B). Pub. L. 106–554, §1(a)(6) \[title VI, §611(b)(4)\], inserted “or legislative change” after “if such coverage determination”.
+
+Subsec. (e)(2)(A), (B). Pub. L. 106–554, §1(a)(6) \[title VI, §616(a)\], inserted concluding provisions.
+
+Subsec. (e)(5). Pub. L. 106–554, §1(a)(6) \[title VI, §616(b)\], added par. (5).
+
+Subsec. (g)(4). Pub. L. 106–554, §1(a)(6) \[title V, §521(b)\], inserted at end “The provisions of section 1395ff(c)(5) of this title shall apply to independent outside entities under contract with the Secretary under this paragraph.”
+
+Subsec. (<i>l</i>). Pub. L. 106–554, §1(a)(6) \[title VI, §621(a)\], added subsec. (<i>l</i>).
 
 1999—Subsec. (a)(3)(A). Pub. L. 106–113, §1000(a)(6) \[title III, §321(k)(6)(B)(i)\], struck out comma after “MSA plan” and inserted comma after “the coverage)”.
 
@@ -538,11 +638,37 @@ Subsec. (h)(2). Pub. L. 106–113, §1000(a)(6) \[title III, §321(k)(6)(B)(iii)
 
 Subsec. (k)(2)(C)(ii). Pub. L. 106–113, §1000(a)(6) \[title III, §321(k)(6)(B)(iv)\], substituted “balance” for “balancing” before “billing under subparagraph (A) could” in introductory provisions.
 
+#### Effective Date of 2000 Amendment
+
+Amendment by section 1(a)(6) \[title V, §521(b)\] of Pub. L. 106–554 applicable with respect to initial determinations made on or after Oct. 1, 2002, see section 1(a)(6) \[title V, §521(d)\] of Pub. L. 106–554, set out as a note under section 1320c–3 of this title.
+
+Pub. L. 106–554, §1(a)(6) \[title VI, §611(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–560, provided that: “The amendments made by this section \[amending this section and section 1395w–23 of this title\] are effective on the date of the enactment of this Act \[Dec. 21, 2000\] and shall apply to national coverage determinations and legislative changes in benefits occurring on or after such date.”
+
+Pub. L. 106–554, §1(a)(6) \[title VI, §621(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–565, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to contracts entered into or renewed on or after the date of the enactment of this Act \[Dec. 21, 2000\].”
+
 #### Effective Date of 1999 Amendment
 
 Amendment by section 1000(a)(6) \[title III, §321(k)(6)(B)\] of Pub. L. 106–113 effective as if included in the enactment of the Balanced Budget Act of 1997, Pub. L. 105–33, except as otherwise provided, see section 1000(a)(6) \[title III, §321(m)\] of Pub. L. 106–113, set out as a note under section 1395d of this title.
 
 Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §520(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–386, provided that: “The amendments made by subsection (a) \[amending this section\] apply to contract years beginning on or after January 1, 2000.”
+
+#### MedPAC Study
+
+Pub. L. 106–554, §1(a)(6) \[title VI, §621(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–565, provided that:
+
+“(1)
+
+Study.—The Medicare Payment Advisory Commission shall conduct a study analyzing the effects of the amendment made by subsection (a) \[amending this section\] on Medicare+Choice organizations. In conducting such study, the Commission shall examine the effects (if any) such amendment has had—
+
+&emsp;“(A) on the scope of additional benefits provided under the Medicare+Choice program;
+
+&emsp;“(B) on the administrative and other costs incurred by Medicare+Choice organizations; and
+
+&emsp;“(C) on the contractual relationships between such organizations and skilled nursing facilities.
+
+“(2)
+
+Report.—Not later than 2 years after the date of the enactment of this Act \[Dec. 21, 2000\], the Commission shall submit to Congress a report on the study conducted under paragraph (1).”
 
 #### Transitional Pass-Through of Additional Costs Under Medicare+Choice Program for 2000
 
@@ -550,5 +676,5 @@ Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §227(c)\], Nov. 29, 1999, 1
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1395w–21, 1395w–23, 1395w–24, 1395w–25, 1395w–27, 1395w–28, 1396u–2 of this title.
+This section is referred to in sections 1395w–21, 1395w–23, 1395w–24, 1395w–25, 1395w–27, 1395w–28, 1395ff, 1396u–2 of this title.
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established as an independent entity of the executive branch of the United StatesGovernment, the Morris K. Udall Scholarship and Excellence in National Environmental Policy Foundation.
+There is established as an independent entity of the executive branch of the United States Government, the Morris K. Udall Scholarship and Excellence in National Environmental Policy Foundation.
 
 #### (b) Board of Trustees
 

@@ -8,7 +8,7 @@
 
 &emsp;(3) during a war or a declared national emergency, any other country that he considers it advisable to assist in the interest of national defense.
 
-(b) Subject to the prior approval of the Secretary of the military department concerned, a member detailed under this section may accept any office from the country to which he is detailed. He is entitled to credit for all service while so detailed, as if serving with the armed forces of the United States. Arrangements may be made by the President, with countries to which such members are detailed to perform functions under this section, for reimbursement to the United States or other sharing of the cost of performing such functions.
+(b) Subject to the prior approval of the Secretary of the military department concerned, a member detailed under this section may accept any office from the country to which he is detailed. He is entitled to credit for all service while so detailed, as if serving with the armed forces of the United States. Arrangements may be made by the President, with countries towhich such members are detailed to perform functions under this section, for reimbursement to the United States or other sharing of the cost of performing such functions.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 32; Pub. L. 85–477, ch. V, §502(k), June 30, 1958, 72 Stat. 275.)
 
@@ -47,10 +47,4 @@ In subsection (b), the words “entitled to credit for all service” are substi
 #### Effective Date of 1958 Amendment
 
 Section 502(k) of Pub. L. 85–477 provided that the amendment made by that section is effective nine months after June 30, 1958.
-
-#### Cross References
-
-Detail of specially qualified employees to foreign governments, see section 1451 et seq. of Title 22, Foreign Relations and Intercourse.
-
-Pay and allowances, see section 101 et seq. of Title 37, Pay and Allowances of the Uniformed Services.
 

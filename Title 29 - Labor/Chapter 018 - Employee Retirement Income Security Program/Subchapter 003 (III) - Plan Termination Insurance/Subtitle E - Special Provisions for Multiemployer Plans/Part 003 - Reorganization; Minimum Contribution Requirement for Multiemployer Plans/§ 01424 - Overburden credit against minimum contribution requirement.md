@@ -60,7 +60,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) the number with respect to the plan as of the end of the plan year.
 
-&emsp;(4) The average guaranteed benefit paid is 12 times the average monthly pension payment guaranteed under section 1322a(c)(1) of this title determined under the provisions of the plan in effect at the beginning of the first plan year in which the plan is in reorganization and without regard to section 1322a(c)(2) of this title.
+&emsp;(4) The average guaranteed benefit paid is 12 times the average monthly pension payment guaranteed under section 1322a(c)(1) of this title determined under the provisions of the plan in effect at the beginning of the first plan year in which the plan is in reorganization and without regard to section 1322a(c)(2) <sup>1</sup> of this title.
 
 &emsp;(5) The first year in which the plan is in reorganization is the first of a period of 1 or more consecutive plan years in which the plan has been in reorganization not taking into account any plan years the plan was in reorganization prior to any period of 3 or more consecutive plan years in which the plan was not in reorganization.
 
@@ -76,7 +76,13 @@ Notwithstanding any other provision of this section, if 2 or more multiemployer 
 
 (Pub. L. 93–406, title IV, §4244, as added Pub. L. 96–364, title I, §104(2), Sept. 26, 1980, 94 Stat. 1255.)
 
+#### References in Text
+
+Section 1322a(c)(2) of this title, referred to in subsec. (e)(4), was repealed and former section 1322a(c)(3) was redesignated section 1322a(c)(2) by Pub. L. 106–554, §1(a)(6) \[title IX, §951(a)(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–586.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1202, 1422, 1423, 1461 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -10,7 +10,7 @@
 
 &emsp;(C) standards for determining which contractors are qualified to carry out the testing and evaluation described in this paragraph.
 
-(2) After consulting with the Task Force, the Secretary shall establish criteria to be used for determining eligibility for loans under section 3605 of this title. The criteria shall be based on the assessment of the extent of the health hazards posed by the presence of asbestos fibers in schools, as determined in accordance with standards under paragraph (1)(B) of this subsection.
+(2) After consulting with the Task Force, the Secretary shall establish criteria to be used fordetermining eligibility for loans under section 3605 of this title. The criteria shall be based on the assessment of the extent of the health hazards posed by the presence of asbestos fibers in schools, as determined in accordance with standards under paragraph (1)(B) of this subsection.
 
 #### (b) Establishment of regulations
 

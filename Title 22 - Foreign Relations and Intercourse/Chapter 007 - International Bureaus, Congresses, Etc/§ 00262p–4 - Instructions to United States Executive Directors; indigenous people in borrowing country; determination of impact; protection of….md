@@ -4,7 +4,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 &emsp;(1) to determine, at the time an initial feasibility study is conducted with respect to a proposed project and to the fullest extent possible, the impact such project would have on indigenous people in the borrowing country;
 
-&emsp;(2) to ensure compliance with loan conditionalities relating to the protection of the rights of indigenous people to lands and resources; and
+&emsp;(2) to ensure compliance with loan conditionalities relating to the protection ofthe rights of indigenous people to lands and resources; and
 
 &emsp;(3) to consult with indigenous people, and nongovernmental organizations representing indigenous people, at every phase of loan design, planning, implementation, and monitoring.
 

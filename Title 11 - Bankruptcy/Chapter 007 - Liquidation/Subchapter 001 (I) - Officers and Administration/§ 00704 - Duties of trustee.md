@@ -56,5 +56,5 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1106, 1202, 1302, 1304 of this title; title 29 section 1342.
+This section is referred to in sections 782, 1106, 1202, 1302, 1304 of this title; title 29 section 1342.
 

@@ -36,7 +36,7 @@ The following definitions apply for purposes of this section:
 
 Notwithstanding any other provision of law, not less than 0.4 percent of the amounts made available for each of the fiscal years 1996 through 2002 to carry out this chapter, in addition to any funds that may be specifically appropriated to carry out this section, shall be used to carry out programs under this section, with not less than 0.2 percent to be used for programs in developing countries.
 
-(July 10, 1954, ch. 469, title V, §501, as added Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat.3656; amended Pub. L. 102–237, title III, §301, Dec. 13, 1991, 105 Stat. 1855; Pub. L. 104–127, title II, §§224, 277(c)(1), Apr. 4, 1996, 110 Stat. 959, 979.)
+(July 10, 1954, ch. 469, title V, §501, as added Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3656; amended Pub. L. 102–237, title III, §301, Dec. 13, 1991, 105 Stat. 1855; Pub. L. 104–127, title II, §§224, 277(c)(1), Apr. 4, 1996, 110 Stat. 959, 979.)
 
 #### Amendments
 

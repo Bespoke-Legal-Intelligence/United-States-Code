@@ -44,10 +44,6 @@ Committee on House Oversight of House of Representatives changed to Committee on
 
 Pub. L. 93–554 provided that the enactment of House Resolution No. 988, Ninety-third Congress, into permanent law is effective Jan. 2, 1975.
 
-#### Transfer of Functions
-
-Finance Office of House of Representatives transferred to Director of Non-legislative and Financial Services by section 7 of House Resolution No. 423, One Hundred Second Congress, Apr. 9, 1992. Director of Non-legislative and Financial Services replaced by Chief Administrative Officer of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 43b–2 of this title.

@@ -52,11 +52,11 @@
 
 #### (3) Credits
 
-&emsp;The credits on premium rates for flood insurance coverage shall be based on the estimated reduction in flood and erosion damage risks resulting from the measures adopted by the community under this program. If a community has received mitigation assistance under section 4104c of this title, the credits shall be phased in a manner, determined by the Director, to recover the amount of such assistance provided for the community.
+&emsp;The credits on premium rates for flood insurance coverage shall be based on the estimated reduction in flood and erosion damage risks resulting from the measures adopted bythe community under this program. If a community has received mitigation assistance under section 4104c of this title, the credits shall be phased in a manner, determined by the Director, to recover the amount of such assistance provided for the community.
 
 #### (4) Reports
 
-&emsp;Not later than 2 years after September 23, 1994, and not less than every 2 years thereafter, the Director shall submit a report to theCongress regarding the program under this subsection. Each report shall include an analysis of the cost-effectiveness of the program, any other accomplishments or shortcomings of the program, and any recommendations of the Director for legislation regarding the program.
+&emsp;Not later than 2 years after September 23, 1994, and not less than every 2 years thereafter, the Director shall submit a report to the Congress regarding the program under this subsection. Each report shall include an analysis of the cost-effectiveness of the program, any other accomplishments or shortcomings of the program, and any recommendations of the Director for legislation regarding the program.
 
 (Pub. L. 90–448, title XIII, §1315, Aug. 1, 1968, 82 Stat. 580; Pub. L. 91–152, title IV, §410(b), Dec. 24, 1969, 83 Stat. 397; Pub. L. 98–181, title IV, §451(d)(1), Nov. 30, 1983, 97 Stat. 1229; Pub. L. 103–325, title V, §§541, 580, Sept. 23, 1994, 108 Stat. 2268, 2285.)
 

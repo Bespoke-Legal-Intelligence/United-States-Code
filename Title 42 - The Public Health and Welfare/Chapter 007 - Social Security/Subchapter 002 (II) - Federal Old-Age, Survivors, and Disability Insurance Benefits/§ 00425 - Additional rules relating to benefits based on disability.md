@@ -106,9 +106,7 @@ Amendment by section 104(d)(5) of Pub. L. 90–248 applicable with respect to mo
 
 Amendment by section 158(c)(9) of Pub. L. 90–248 applicable with respect to applications for disability insurance benefits under section 423 of this title and to disability determinations under section 416(i) of this title, see section 158(e) of Pub. L. 90–248, set out as a note under section 423 of this title.
 
-#### Effective Date of 1958
-
-Amendment
+#### Effective Date of 1958 Amendment
 
 Amendment by section 205(<i>o</i>) of Pub. L. 85–840 applicable with respect to monthly benefits under this subchapter for months after August 1958, but only if an application for such benefits is filed on or after Aug. 28, 1958, see section 207(a) of Pub. L. 85–840, set out as a note under section 416 of this title.
 
@@ -118,7 +116,7 @@ Section applicable only with respect to monthly benefits under this subchapter f
 
 #### Report on Referral, Monitoring, Testing and Treatment of Individuals Where Entitlement to or Termination of Benefits Involves Alcoholism or Drug Addiction
 
-Section 201(a)(3)(B) of Pub. L. 103–296 provided that not later than Dec. 31, 1996, the Secretary was to submit to Congress a full and complete report on the Secretary's activities under former subsec. (c)(5) of this section, which was to include the number and percentage of individuals referred to in such provision who had not received regular drug testing since the effective date of such provision, prior to repeal by Pub. L. 105–33, title V, §5525(c), Aug. 5, 1997, 111 Stat. 625.
+Section 201(a)(3)(B) of Pub. L. 103–296 provided that not later than Dec. 31, 1996, the Secretary was to submit to Congress a full and complete report on the Secretary's activities under former subsec. (c)(5) of this section, which was to include the number and percentage of individuals referred to in such provision who had not received regular drug testing since the effectivedate of such provision, prior to repeal by Pub. L. 105–33, title V, §5525(c), Aug. 5, 1997, 111 Stat. 625.
 
 #### Transition Rules for Current Beneficiaries
 

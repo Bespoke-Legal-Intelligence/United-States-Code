@@ -34,7 +34,7 @@
 
 #### (1) Establishment
 
-&emsp;To be eligible for assistance under this part, the chief elected official described in subsection (a)(1) of this section shall establish or designate an HIV health services planning council that shall reflect in its composition the demographics of the epidemic in the eligible area involved, with particular consideration given to disproportionately affected and historically underserved groups and subpopulations. Nominations for membership on the council shall be identified through an open process and candidates shall be selected based on locally delineated and publicized criteria. Such criteria shall include a conflict-of-interest standard that is in accordance with paragraph (5).
+&emsp;To be eligible for assistance under this part, the chief elected official described in subsection (a)(1) of this section shall establish or designate an HIV health services planning council that shall reflect in its composition the demographics of the population of individuals with HIV disease in the eligible area involved, with particular consideration given to disproportionately affected and historically underserved groups and subpopulations. Nominations for membership on the council shall be identified through an open process and candidates shall be selected based on locally delineated and publicized criteria. Such criteria shall include a conflict-of-interest standard that is in accordance with paragraph (5).
 
 #### (2) Representation
 
@@ -44,7 +44,7 @@
 
 &emsp;&emsp;(B) community-based organizations serving affected populations and AIDS service organizations;
 
-&emsp;&emsp;(C) social service providers;
+&emsp;&emsp;(C) social service providers, including providers of housing and homeless services;
 
 &emsp;&emsp;(D) mental health and substance abuse providers;
 
@@ -52,17 +52,19 @@
 
 &emsp;&emsp;(F) hospital planning agencies or health care planning agencies;
 
-&emsp;&emsp;(G) affected communities, including people with HIV disease or AIDS and historically underserved groups and subpopulations;
+&emsp;&emsp;(G) affected communities, including people with HIV disease and historically underserved groups and subpopulations;
 
 &emsp;&emsp;(H) nonelected community leaders;
 
 &emsp;&emsp;(I) State government (including the State medicaid agency and the agency administering the program under part B) of this subchapter;
 
-&emsp;&emsp;(J) grantees under subpart II of part C of this subchapter;
+&emsp;&emsp;(J) grantees under subpart II <sup>1</sup> of part C of this subchapter;
 
-&emsp;&emsp;(K) grantees under section 300ff–71 of this title, or, if none are operating in the area, representatives of organizations with a history of serving children, youth, women, and families living with HIV and operating in the area; and
+&emsp;&emsp;(K) grantees under section 300ff–71 of this title, or, if none are operating in the area, representatives of organizations with a history of serving children, youth, women, and families living with HIV and operating in the area;
 
-&emsp;&emsp;(L) grantees under other Federal HIV programs.
+&emsp;&emsp;(L) grantees under other Federal HIV programs, including but not limited to providers of HIV prevention services; and
+
+&emsp;&emsp;(M) representatives of individuals who formerly were Federal, State, or local prisoners, were released from the custody of the penal system during the preceding 3 years, and had HIV disease as of the date on which the individuals were so released.
 
 #### (3) Method of providing for council
 
@@ -72,33 +74,49 @@
 
 #### (B) Consideration regarding designation of council
 
-&emsp;&emsp;In making a determination of whether to establish or designate a council under subparagraph (A), a chief elected official receiving a grant under section 300ff–11(a) of this title shall give priority to the designation of an existing entity that has demonstrated experience in planning for the HIV health care service needs within the eligible area and in the implementation of such plans in addressing those needs. Any existing entity so designated shall be expanded to include a broad representation of the full range of entities that provide such services within the geographic area to be served.
-
-#### (C) Chairperson
-
-&emsp;&emsp;A planning council may not be chaired solely by an employee of the grantee.
+&emsp;&emsp;In making a determination of whether to establish or designate a council under subparagraph (A), a chief elected official receiving a grant under section 300ff–11(a) of thistitle shall give priority to the designation of an existing entity that has demonstrated experience in planning for the HIV health care service needs within the eligible area and in the implementation of such plans in addressing those needs. Any existing entity so designated shall be expanded to include a broad representation of the full range of entities that provide such services within the geographic area to be served.
 
 #### (4) Duties
 
 &emsp;The planning council established or designated under paragraph (1) shall—
 
-&emsp;&emsp;(A) establish priorities for the allocation of funds within the eligible area, including how best to meet each such priority and additional factors that a grantee should consider in allocating funds under a grant based on the—
+&emsp;&emsp;(A) determine the size and demographics of the population of individuals with HIV disease;
 
-&emsp;&emsp;&emsp;(i) documented needs of the HIV-infected population;
+&emsp;&emsp;(B) determine the needs of such population, with particular attention to—
 
-&emsp;&emsp;&emsp;(ii) cost and outcome effectiveness of proposed strategies and interventions, to the extent that such data are reasonably available (either demonstrated or probable);
+&emsp;&emsp;&emsp;(i) individuals with HIV disease who know their HIV status and are not receiving HIV-related services; and
 
-&emsp;&emsp;&emsp;(iii) priorities of the HIV-infected communities for whom the services are intended; and
+&emsp;&emsp;&emsp;(ii) disparities in access and services among affected subpopulations and historically underserved communities;
 
-&emsp;&emsp;&emsp;(iv) availability of other governmental and nongovernmental resources;
+&emsp;&emsp;(C) establish priorities for the allocation of funds within the eligible area, including how best to meet each such priority and additional factors that a grantee should consider in allocating funds under a grant based on the—
 
-&emsp;&emsp;(B) develop a comprehensive plan for the organization and delivery of health services described in section 300ff–14 of this title that is compatible with any existing State or local plan regarding the provision of health services to individuals with HIV disease;
+&emsp;&emsp;&emsp;(i) size and demographics of the population of individuals with HIV disease (as determined under subparagraph (A)) and the needs of such population (as determined under subparagraph (B));
 
-&emsp;&emsp;(C) assess the efficiency of the administrative mechanism in rapidly allocating funds to the areas of greatest need within the eligible area, and at the discretion of the planning council, assess the effectiveness, either directly or through contractual arrangements, of the services offered in meeting the identified needs;
+&emsp;&emsp;&emsp;(ii) demonstrated (or probable) cost effectiveness and outcome effectiveness of proposed strategies and interventions, to the extent that data are reasonably available;
 
-&emsp;&emsp;(D) participate in the development of the statewide coordinated statement of need initiated by the State public health agency responsible for administering grants under part B of this subchapter; and
+&emsp;&emsp;&emsp;(iii) priorities of the communities with HIV disease for whom the services are intended;
 
-&emsp;&emsp;(E) establish methods for obtaining input on community needs and priorities which may include public meetings, conducting focus groups, and convening ad-hoc panels.
+&emsp;&emsp;&emsp;(iv) coordination in the provision of services to such individuals with programs for HIV prevention and for the prevention and treatment of substance abuse, including programs that provide comprehensive treatment for such abuse;
+
+&emsp;&emsp;&emsp;(v) availability of other governmental and non-governmental resources, including the State medicaid plan under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] and the State Children's Health Insurance Program under title XXI of such Act \[42 U.S.C. 1397aa et seq.\] to cover health care costs of eligible individuals and families with HIV disease; and
+
+&emsp;&emsp;&emsp;(vi) capacity development needs resulting from disparities in the availability of HIV-related services in historically underserved communities;
+
+&emsp;&emsp;(D) develop a comprehensive plan for the organization and delivery of health and support services described in section 300ff–14 of this title that—
+
+&emsp;&emsp;&emsp;(i) includes a strategy for identifying individuals who know their HIV status and are not receiving such services and for informing the individuals of and enabling the individuals to utilize the services, giving particular attention to eliminating disparities in access and services among affected subpopulations and historically underserved communities, and including discrete goals, a timetable, and an appropriate allocation of funds;
+
+&emsp;&emsp;&emsp;(ii) includes a strategy to coordinate the provision of such services with programs for HIV prevention (including outreach and early intervention) and for the prevention and treatment of substance abuse (including programs that provide comprehensive treatment services for such abuse); and
+
+&emsp;&emsp;&emsp;(iii) is compatible with any State or local plan for the provision of services to individuals with HIV disease;
+
+&emsp;&emsp;(E) assess the efficiency of the administrative mechanism in rapidly allocating funds to the areas of greatest need within the eligible area, and at the discretion of the planning council, assess the effectiveness, either directly or through contractual arrangements, of the services offered in meeting the identified needs;
+
+&emsp;&emsp;(F) participate in the development of the statewide coordinated statement of need initiated by the State public health agency responsible for administering grants under part B of this subchapter;
+
+&emsp;&emsp;(G) establish methods for obtaining input on community needs and priorities which may include public meetings (in accordance with paragraph (7)), conducting focus groups, and convening ad-hoc panels; and
+
+&emsp;&emsp;(H) coordinate with Federal grantees that provide HIV-related services within the eligible area.
 
 #### (5) Conflicts of interest
 
@@ -110,9 +128,33 @@
 
 &emsp;&emsp;An individual may serve on the planning council under paragraph (1) only if the individual agrees that if the individual has a financial interest in an entity, if the individual is an employee of a public or private entity, or if the individual is a member of a public or private organization, and such entity or organization is seeking amounts from a grant under section 300ff–11(a) of this title, the individual will not, with respect to the purpose for which the entity seeks such amounts, participate (directly or in an advisory capacity) in the process of selecting entities to receive such amounts for such purpose.
 
+#### (C) Composition of council
+
+&emsp;&emsp;The following applies regarding the membership of a planning council under paragraph (1):
+
+&emsp;&emsp;&emsp;(i) Not less than 33 percent of the council shall be individuals who are receiving HIV-related services pursuant to a grant under section 300ff–11(a) of this title, are not officers, employees, or consultants to any entity that receives amounts from such a grant, and do not represent any such entity, and reflect the demographics of the population of individuals with HIV disease as determined under paragraph (4)(A). For purposes of the preceding sentence, an individual shall be considered to be receiving such services if the individual is a parent of, or a caregiver for, a minor child who is receiving such services.
+
+&emsp;&emsp;&emsp;(ii) With respect to membership on the planning council, clause (i) may not be construed as having any effect on entities that receive funds from grants under any of parts B through F of this subchapter but do not receive funds from grants under section 300ff–11(a) of this title, on officers or employees of such entities, or on individuals who represent such entities.
+
 #### (6) Grievance procedures
 
 &emsp;A planning council under paragraph (1) shall develop procedures for addressing grievances with respect to funding under this part, including procedures for submitting grievances that cannot be resolved to binding arbitration. Such procedures shall be described in the by-laws of the planning council and be consistent with the requirements of subsection (c) of this section.
+
+#### (7) Public deliberations
+
+&emsp;With respect to a planning council under paragraph (1), the following applies:
+
+&emsp;&emsp;(A) The council may not be chaired solely by an employee of the grantee under section 300ff–11(a) of this title.
+
+&emsp;&emsp;(B) In accordance with criteria established by the Secretary:
+
+&emsp;&emsp;&emsp;(i) The meetings of the council shall be open to the public and shall be held only after adequate notice to the public.
+
+&emsp;&emsp;&emsp;(ii) The records, reports, transcripts, minutes, agenda, or other documents which were made available to or prepared for or by the council shall be available for public inspection and copying at a single location.
+
+&emsp;&emsp;&emsp;(iii) Detailed minutes of each meeting of the council shall be kept. The accuracy of all minutes shall be certified to by the chair of the council.
+
+&emsp;&emsp;&emsp;(iv) This subparagraph does not apply to any disclosure of information of a personal nature that would constitute a clearly unwarranted invasion of personal privacy, including any disclosure of medical information or personnel matters.
 
 #### (c) Grievance procedures
 
@@ -130,13 +172,79 @@
 
 &emsp;To be eligible to receive funds under this part, a grantee shall develop grievance procedures that are determined by the Secretary to be consistent with the model procedures developed under paragraph (1)(A). Such procedures shall include a process for submitting grievances to binding arbitration.
 
-(July 1, 1944, ch. 373, title XXVI, §2602, as added Pub. L. 101–381, title I, §101(3), Aug. 18, 1990, 104 Stat. 577; amended Pub. L. 102–531, title III, §312(d)(26), Oct. 27, 1992, 106 Stat. 3505; Pub. L. 104–146, §3(b)(1), May 20, 1996, 110 Stat. 1347.)
+#### (d) Process for establishing allocation priorities
+
+Promptly after the date of the submission of the report required in section 501(b) of the Ryan White CARE Act Amendments of 2000 (relating to the relationship between epidemiological measures and health care for certain individuals with HIV disease), the Secretary, in consultation with planning councils and entities that receive amounts from grants under section 300ff–11(a) or 300ff–21 of this title, shall develop epidemiologic measures—
+
+&emsp;(1) for establishing the number of individuals living with HIV disease who are not receiving HIV-related health services; and
+
+&emsp;(2) for carrying out the duties under subsection (b)(4) of this section and section 300ff–27(b) of this title.
+
+#### (e) Training guidance and materials
+
+The Secretary shall provide to each chief elected official receiving a grant under section 300ff–11(a) of this title guidelines and materials for training members of the planning council under paragraph (1) regarding the duties of the council.
+
+(July 1, 1944, ch. 373, title XXVI, §2602, as added Pub. L. 101–381, title I, §101(3), Aug. 18, 1990, 104 Stat. 577; amended Pub. L. 102–531, title III, §312(d)(26), Oct. 27, 1992, 106 Stat. 3505; Pub. L. 104–146, §3(b)(1), May 20, 1996, 110 Stat. 1347; Pub. L. 106–345, title I, §§101–102(c), 103, Oct. 20, 2000, 114 Stat. 1320–1323.)
+
+#### References in Text
+
+Subpart II of part C of this subchapter, referred to in subsec. (b)(2)(J), was redesignated subpart I of part C of this subchapter by Pub. L. 106–345, title III, §301(b)(1), Oct. 20, 2000, 114 Stat. 1345, and is classified to section 300ff–51 et seq. of this title.
+
+The Social Security Act, referred to in subsec. (b)(4)(C)(v), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XIX and XXI of the Act are classifiedgenerally to subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+
+Section 501 of the Ryan White CARE Act Amendments of 2000, referred to in subsec. (d), is section 501 of Pub. L. 106–345, which is set out as a note under section 300ff–11 of this title. Provisions relating to a report are contained in section 501(d) of Pub. L. 106–345.
 
 #### Prior Provisions
 
 A prior section 2602 of act July 1, 1944, was successively renumbered by subsequent acts and transferred, see section 238a of this title.
 
 #### Amendments
+
+2000—Subsec. (b)(1). Pub. L. 106–345, §101(a)(1), substituted “demographics of the population of individuals with HIV disease in the eligible area involved,” for “demographics of the epidemic in the eligible area involved,”.
+
+Subsec. (b)(2)(C). Pub. L. 106–345, §101(a)(2)(A), inserted before semicolon at end “, including providers of housing and homeless services”.
+
+Subsec. (b)(2)(G). Pub. L. 106–345, §101(a)(2)(B), struck out “or AIDS” after “HIV disease”.
+
+Subsec. (b)(2)(K). Pub. L. 106–345, §101(a)(2)(C), struck out “and” after semicolon.
+
+Subsec. (b)(2)(L). Pub. L. 106–345, §101(a)(2)(D), substituted “, including but not limited to providers of HIV prevention services; and” for period at end.
+
+Subsec. (b)(2)(M). Pub. L. 106–345, §101(a)(2)(E), added subpar. (M).
+
+Subsec. (b)(3)(C). Pub. L. 106–345, §103(1), struck out heading and text of subpar. (C). Text read as follows: “A planning council may not be chaired solely by an employee of the grantee.”
+
+Subsec. (b)(4)(A), (B). Pub. L. 106–345, §102(a)(2), added subpars. (A) and (B). Former subpars. (A) and (B) redesignated (C) and (D), respectively.
+
+Subsec. (b)(4)(C). Pub. L. 106–345, §102(a)(1), redesignated subpar. (A) as (C). Former subpar. (C) redesignated (E).
+
+Subsec. (b)(4)(C)(i) to (vi). Pub. L. 106–345, §102(a)(3), added cls. (i) to (vi) and struck out former cls. (i) to (iv) which read as follows:
+
+“(i) documented needs of the HIV-infected population;
+
+“(ii) cost and outcome effectiveness of proposed strategies and interventions, to the extent that such data are reasonably available (either demonstrated or probable);
+
+“(iii) priorities of the HIV-infected communities for whom the services are intended; and
+
+“(iv) availability of other governmental and nongovernmental resources;”.
+
+Subsec. (b)(4)(D). Pub. L. 106–345, §102(a)(4), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “develop a comprehensive plan for the organization and delivery of health services described in section 300ff–14 of this title that is compatible with any existing State or local plan regarding the provision of health services to individuals with HIV disease;”.
+
+Pub. L. 106–345, §102(a)(1), redesignated subpar. (B) as (D). Former subpar. (D) redesignated (F).
+
+Subsec. (b)(4)(E), (F). Pub. L. 106–345, §102(a)(1), redesignated subpars. (C) and (D) as (E) and (F), respectively. Former subpar. (E) redesignated (G).
+
+Subsec. (b)(4)(G). Pub. L. 106–345, §102(a)(1), (6)(A), redesignated subpar. (E) as (G) and substituted “public meetings (in accordance with paragraph (7)),” for “public meetings,”.
+
+Subsec. (b)(4)(H). Pub. L. 106–345, §102(a)(5), (6)(B), (7), added subpar. (H).
+
+Subsec. (b)(5)(C). Pub. L. 106–345, §101(b), added subpar. (C).
+
+Subsec. (b)(7). Pub. L. 106–345, §103(2), added par. (7).
+
+Subsec. (d). Pub. L. 106–345, §102(b), added subsec. (d).
+
+Subsec. (e). Pub. L. 106–345, §102(c), added subsec. (e).
 
 1996—Subsec. (b)(1). Pub. L. 104–146, §3(b)(1)(A)(ii), inserted at end “Nominations for membership on the council shall be identified through an open process and candidates shall be selected based on locally delineated and publicized criteria. Such criteria shall include a conflict-of-interest standard that is in accordance with paragraph (5).”
 
@@ -186,11 +294,17 @@ Subsec. (c). Pub. L. 104–146, §3(b)(1)(F), added subsec. (c).
 
 1992—Subsec. (a)(1). Pub. L. 102–531 substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
 
+#### Effective Date of 2000 Amendment
+
+Pub. L. 106–345, title VI, §601, Oct. 20, 2000, 114 Stat. 1355, provided that: “This Act \[see section 1 of Pub. L. 106–345, set out as a Short Title of 2000 Amendments note under section 201 of this title\] and the amendments made by this Act take effect October 1, 2000, or upon the date of the enactment of this Act \[Oct. 20, 2000\], whichever occurs later.”
+
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–146 effective Oct. 1, 1996, see section 13 of Pub. L. 104–146, set out as a note under section 300ff–11 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 300ff–13, 300ff–14, 300ff–15 of this title.
+This section is referred to in sections 300ff–13, 300ff–14, 300ff–15, 300ff–23, 300ff–27 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

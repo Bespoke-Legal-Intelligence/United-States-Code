@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 668dd, 669b, 669c, 669d, 669g–1, 669h, 695p, 715s, 718, 718d, 1534, 2912, 3922 of this title.
+This subchapter is referred to in sections 668dd, 669b, 669d, 669g–1, 695p, 715s, 718, 718d, 1534, 2912, 3922 of this title.
 
 
 ---
@@ -11,7 +11,7 @@ This subchapter is referred to in sections 668dd, 669b, 669c, 669d, 669g–1, 66
 
 - [&sect; 00715 - Short title](%C2%A7%2000715%20-%20Short%20title.md)
 - [&sect; 00715a - Migratory Bird Conservation Commission; creation; composition; duties; approval of areas of land and water recommended for purchase or&#8230;](%C2%A7%2000715a%20-%20Migratory%20Bird%20Conservation%20Commission%3B%20creation%3B%20composition%3B%20duties%3B%20approval%20of%20areas%20of%20land%20and%20water%20recommended%20for%20purchase%20or%E2%80%A6.md)
-- [&sect; 00715b - Annual report](%C2%A7%2000715b%20-%20Annual%20report.md)
+- [&sect; 00715b - Omitted](%C2%A7%2000715b%20-%20Omitted.md)
 - [&sect; 00715c - Areas recommended for approval; character](%C2%A7%2000715c%20-%20Areas%20recommended%20for%20approval%3B%20character.md)
 - [&sect; 00715d - Purchase or rental of approved areas or interests therein; gifts and devises; United States lands](%C2%A7%2000715d%20-%20Purchase%20or%20rental%20of%20approved%20areas%20or%20interests%20therein%3B%20gifts%20and%20devises%3B%20United%20States%20lands.md)
 - [&sect; 00715d&#8211;1, 715d&#8211;2 - Repealed. Pub. L. 89&#8211;669, &sect;8(a), Oct. 15, 1966, 80 Stat. 930](%C2%A7%2000715d%E2%80%931%2C%20715d%E2%80%932%20-%20Repealed.%20Pub.%20L.%2089%E2%80%93669%2C%20%C2%A78%28a%29%2C%20Oct.%2015%2C%201966%2C%2080%20Stat.%20930.md)

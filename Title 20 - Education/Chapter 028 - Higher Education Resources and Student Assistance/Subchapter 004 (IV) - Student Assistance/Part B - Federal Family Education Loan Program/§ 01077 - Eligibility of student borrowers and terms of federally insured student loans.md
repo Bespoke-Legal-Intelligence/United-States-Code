@@ -68,13 +68,13 @@ For the purpose of subsection (a)(4) of this section—
 
 #### (c) Special repayment rules
 
-Except as provided in subsection (a)(2)(H) of this section, the total of the payments by a borrower during any year of any repayment period with respect to the aggregate amount of all loans to that borrower which are insured underthis part shall not, unless the borrower and the lender otherwise agree, be less than $600 or the balance of all such loans (together with interest thereon), whichever amount is less (but in no instance less than the amount of interest due and payable).
+Except as provided in subsection (a)(2)(H) of this section, the total of the payments by a borrower during any year of any repayment period with respect to the aggregate amount of all loans to that borrower which are insured under this part shall not, unless the borrower and the lender otherwise agree, be less than $600 or the balance of all such loans (together with interest thereon), whichever amount is less (but in no instance less than the amount of interest due and payable).
 
 #### (d) Borrower information
 
 The lender shall obtain the borrower's driver's license number, if any, at the time of application for the loan.
 
-(Pub. L. 89–329, title IV, §427, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1361; amended Pub. L. 100–50, §10(b), (c), June 3, 1987, 101 Stat. 341; Pub. L. 100–369, §§5(b)(1), 7(c), 11(a), July 18, 1988, 102 Stat. 836–838; Pub. L. 101–239, title II, §§2002(a)(1), 2004(b)(2), Dec. 19, 1989, 103 Stat. 2111, 2116; Pub. L. 102–164, title VI, §§601(a), 602(a), Nov. 15, 1991, 105 Stat. 1065, 1066; Pub. L. 102–325, title IV, §414, July 23, 1992, 106 Stat. 513; Pub. L. 103–208, §2(c)(4), Dec. 20, 1993, 107 Stat. 2461.)
+(Pub. L. 89–329, title IV, §427, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1361; amended Pub. L. 100–50, §10(b), (c), June 3, 1987, 101 Stat. 341; Pub. L. 100–369, §§5(b)(1), 7(c),11(a), July 18, 1988, 102 Stat. 836–838; Pub. L. 101–239, title II, §§2002(a)(1), 2004(b)(2), Dec. 19, 1989, 103 Stat. 2111, 2116; Pub. L. 102–164, title VI, §§601(a), 602(a), Nov. 15, 1991, 105 Stat. 1065, 1066; Pub. L. 102–325, title IV, §414, July 23, 1992, 106 Stat. 513; Pub. L. 103–208, §2(c)(4), Dec. 20, 1993, 107 Stat. 2461.)
 
 #### Prior Provisions
 
@@ -124,7 +124,7 @@ Amendment by Pub. L. 103–208 effective as if included in the Higher Education 
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–325 effective July 23, 1992, except that changes made in subsec. (a)(2)(C), relatingto deferments, applicable with respect to loans for which first disbursement is made on or after July 1, 1993, to an individual who is a new borrower on date such individual applies for a loan, and except that changes made in subsec. (a)(2)(H), relating to offering graduated or income sensitive repayment options, applicable with respect to loans for which first disbursement is made on or after July 1, 1993, to an individual who is a new borrower on date such individual applies for a loan, see section 432 of Pub. L. 102–325, set out as a note under section 1078 of this title.
+Amendment by Pub. L. 102–325 effective July 23, 1992, except that changes made in subsec. (a)(2)(C), relating to deferments, applicable with respect to loans for which first disbursement is made on or after July 1, 1993, to an individual who is a new borrower on date such individual applies for a loan, and except that changes made in subsec. (a)(2)(H), relating to offering graduated or income sensitive repayment options, applicable with respect to loans for which first disbursement is made on or after July 1, 1993, to an individual who is a new borrower on date such individual applies for a loan, see section 432 of Pub. L. 102–325, set out as a note under section 1078 of this title.
 
 #### Effective Date of 1989 Amendment
 

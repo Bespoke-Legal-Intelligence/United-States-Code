@@ -40,7 +40,7 @@ For the purposes of this subchapter—
 
 &emsp;(n) The term “respondent” means an employer, employment agency, labor organization, joint labor-management committee controlling apprenticeship or other training or retraining program, including an on-the-job training program, or Federal entity subject to section 2000e–16 of this title.
 
-(Pub. L. 88–352, title VII, §701, July 2, 1964, 78 Stat. 253; Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 662; Pub. L. 92–261, §2, Mar. 24, 1972, 86 Stat. 103; Pub. L. 95–555, §1, Oct. 31, 1978, 92 Stat. 2076; Pub. L. 95–598, title III, §330, Nov. 6, 1978, 92 Stat. 2679; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–166, title I, §§104, 109(a), Nov. 21, 1991, 105 Stat. 1074, 1077.)
+(Pub. L. 88–352, title VII, §701, July 2, 1964, 78 Stat. 253; Pub. L. 89–554, §8(a), Sept. 6, 1966, 80Stat. 662; Pub. L. 92–261, §2, Mar. 24, 1972, 86 Stat. 103; Pub. L. 95–555, §1, Oct. 31, 1978, 92 Stat. 2076; Pub. L. 95–598, title III, §330, Nov. 6, 1978, 92 Stat. 2679; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–166, title I, §§104, 109(a), Nov. 21, 1991, 105 Stat. 1074, 1077.)
 
 #### References in Text
 
@@ -56,7 +56,7 @@ The Outer Continental Shelf Lands Act, referred to in subsec. (i), is act Aug. 7
 
 #### Amendments
 
-1991—Subsec. (f). Pub. L. 102–166, §109(a), inserted at end “With respect to employment in a foreign country,such term includes an individual who is a citizen of the United States.”
+1991—Subsec. (f). Pub. L. 102–166, §109(a), inserted at end “With respect to employment in a foreign country, such term includes an individual who is a citizen of the United States.”
 
 Subsecs. (<i>l</i>) to (n). Pub. L. 102–166, §104, added subsecs. (<i>l</i>) to (n).
 
@@ -162,7 +162,7 @@ Sec. 203. (a) Each contractor having a contract containing the provisions prescr
 
 (c) Whenever the contractor or subcontractor has a collective bargaining agreement or other contract or understanding with a labor union or an agency referring workers or providing or supervising apprenticeship or training for such workers, the Compliance Report shall include such information as to such labor union's or agency's practices and policies affecting compliance as the Secretary of Labor may prescribe: <i>Provided</i>, That to the extent such information is within the exclusive possession of a labor union or any agency referring workers or providing or supervising apprenticeship or training and such labor union or agency shall refuse to furnish such information to the contractor, the contractor shall so certify to the Secretary of Labor as part of its Compliance Report and shall set forth what efforts he has made to obtain such information.
 
-(d) The Secretary of Labor may direct that any bidder or prospective contractor or subcontractor shall submit, as part of his Compliance Report, a statement in writing, signed by an authorized officer or agent on behalf of any labor union or any agency referring workers or providing or supervising apprenticeship or other training, with which the bidder or prospective contractor deals, with supporting information, to the effect that the signer's practices and policies do not discriminate on the grounds of race, color, religion, sex or national origin, and that the signer either will affirmatively cooperate in the implementation of the policy and provisions of this order or that it consents and agrees that recruitment, employment, and the terms and conditions of employment under the proposed contract shall be in accordance with the purposes and provisions of the order. In the event that the union, or the agency shall refuse to execute such a statement, theCompliance Report shall so certify and set forth what efforts have been made to secure such a statement and such additional factual material as the Secretary of Labor may require.
+(d) The Secretary of Labor may direct that any bidder or prospective contractor or subcontractor shall submit, as part of his Compliance Report, a statement in writing, signed by an authorized officer or agent on behalf of any labor union or any agency referring workers or providing or supervising apprenticeship or other training, with which the bidder or prospective contractor deals, with supporting information, to the effect that the signer's practices and policies do not discriminate on the grounds of race, color, religion, sex or national origin, and that the signer either will affirmatively cooperate in the implementation of the policy and provisions of this order or that it consents and agrees that recruitment, employment, and the terms and conditions of employment under the proposed contract shall be in accordance with the purposes and provisions of the order. In the event that the union, or the agency shall refuse to execute such a statement, the Compliance Report shall so certify and set forth what efforts have been made to secure such a statement and such additional factual material as the Secretary of Labor may require.
 
 Sec. 204. The Secretary of Labor may, when he deems that special circumstances in the national interest so require, exempt a contracting agency from the requirement of including any or all of the provisions of Section 202 of this Order in any specific contract, subcontract, or purchase order. The Secretary of Labor may, by rule or regulation, also exempt certain classes of contracts, subcontracts, or purchase orders (1) whenever work is to be or has been performed outside the United States and no recruitment of workers within the limits of the United States is involved; (2) for standard commercial supplies or raw materials; (3) involving less than specified amounts of money or specified numbers of workers; or (4) to the extent that they involve subcontracts below a specified tier. The Secretary of Labor may also provide, by rule, regulation, or order, for the exemption of facilities of a contractor which are in all respects separate and distinct from activities of the contractor related to the performance of the contract: <i>Provided</i>, That such an exemption will not interfere with or impede the effectuation of the purposes of this order: <i>And provided further</i>, That in the absence of such an exemption all facilities shall be covered by the provisions of this Order.
 
@@ -192,7 +192,7 @@ Sec. 209. (a) In accordance with such rules, regulations, or orders as the Secre
 
 (4) Recommend to the Department of Justice that criminal proceedings be brought for the furnishing of false information to any contracting agency or to the Secretary of Labor as the case may be.
 
-(5) After consulting with the contracting agency, direct the contracting agency to cancel, terminate, suspend, or cause to be cancelled, terminated, or suspended, any contract, or any portion or portions thereof, for failure of the contractor or subcontractor to comply with equal employment opportunity provisions of the contract. Contracts may be cancelled, terminated, or suspended absolutely or continuance of contracts may be conditioned upon a program for future compliance approved by the Secretary of Labor.
+(5) After consulting with the contracting agency, direct the contracting agency to cancel, terminate, suspend, or cause to be cancelled, terminated, or suspended, any contract, or any portion or portions thereof, for failure of the contractor or subcontractor tocomply with equal employment opportunity provisions of the contract. Contracts may be cancelled, terminated, or suspended absolutely or continuance of contracts may be conditioned upon a program for future compliance approved by the Secretary of Labor.
 
 (6) Provide that any contracting agency shall refrain from entering into further contracts, or extensions or other modifications of existing contracts, with any noncomplying contractor, until such contractor has satisfied the Secretary of Labor that such contractor has established and will carry out personnel and employment policies in compliance with the provisions of this Order.
 
@@ -246,25 +246,45 @@ Sec. 405. This Order shall become effective thirty days after the date of this O
 
 #### Ex. Ord. No. 11478. Equal Employment Opportunity in Federal Government
 
-Ex. Ord. No. 11478, Aug. 8, 1969, 34 F.R. 12985, as amended by Ex. Ord. No. 11590, Apr. 23, 1971, 36 F.R. 7831; Ex. Ord. No. 12106, Dec. 26, 1978, 44 F.R. 1053; Ex. Ord. No. 13087, May 28, 1998, 63 F.R. 30097, provided:
+Ex. Ord. No. 11478, Aug. 8, 1969, 34 F.R. 12985, as amended by Ex. Ord. No. 11590, Apr. 23, 1971, 36 F.R. 7831; Ex. Ord. No. 12106, Dec. 26, 1978, 44 F.R. 1053; Ex. Ord. No. 13087, May 28, 1998, 63 F.R. 30097; Ex. Ord. No. 13152, May 2, 2000, 65 F.R. 26115, provided:
 
 NOW THEREFORE, under and by virtue of the authority vested in me as President of the United States by the Constitution and statutes of the United States, it is ordered as follows:
 
-Section 1. It is the policy of the Government of the United States to provide equal opportunity in Federal employment for all persons, to prohibit discrimination in employment because of race, color, religion, sex, national origin, handicap, age, or sexual orientation, and to promote the full realization of equal employment opportunity through a continuing affirmative program in each executive department and agency. This policy of equal opportunity applies to and must be an integral part of every aspect of personnel policy and practice in the employment, development, advancement, and treatment of civilian employees of the Federal Government, to the extent permitted by law.
+Section 1. It is the policy of the Government of the United States to provide equal opportunity in Federal employment for all persons, to prohibit discrimination in employment because of race, color, religion, sex, national origin, handicap, age, sexual orientation, or status as a parent., \[sic\] and to promote the full realization of equal employment opportunity through a continuing affirmative program in each executive department and agency. This policy of equal opportunity applies to and must be an integral part of every aspect of personnel policy and practice in the employment, development, advancement, and treatment of civilian employees of the Federal Government, to the extent permitted by law.
 
 Sec. 2. The head of each executive department and agency shall establish and maintain an affirmative program of equal employment opportunity for all civilian employees and applicants for employment within his jurisdiction in accordance with the policy set forth in section 1. It is the responsibility of each department and agency head, to the maximum extent possible, to provide sufficient resources to administer such a program in a positive and effective manner; assure that recruitment activities reach all sources of job candidates; utilize to the fullest extent the present skills of each employee; provide the maximum feasible opportunity to employees to enhance their skills so they may perform at their highest potential and advance in accordance with their abilities; provide training and advice to managers and supervisors to assure their understanding and implementation of the policy expressed in this Order; assure participation at the local level with other employers, schools, and public or private groups in cooperative efforts to improve community conditions which affect employability; and provide for a system within the department or agency for periodically evaluating the effectiveness with which the policy of this Order is being carried out.
 
 Sec. 3. The Equal Employment Opportunity Commission shall be responsible for directing and furthering the implementation of the policy of the Government of the United States to provide equal opportunity in Federal employment for all employees or applicants for employment (except with regard to aliens employed outside the limits of the United States) and to prohibit discrimination in employment because of race, color, religion, sex, national origin, handicap, or age.
 
-Sec. 4. The Equal Employment Opportunity Commission, after consultation with all affected departments and agencies, shall issue such rules, regulations, orders, and instructions and request such information from the affected departments and agencies as it deems necessary and appropriate to carry out this Order.
+Sec. 4. The Equal Employment Opportunity Commission, after consultation with all affected departments and agencies, shall issue such rules, regulations, orders, and instructions and request such information from the affected departments and agencies as it deems necessary and and \[sic\] appropriate to carry out its responsibilities under this Order.
 
 Sec. 5. All departments and agencies shall cooperate with and assist the Equal Employment Opportunity Commission in the performance of its functions under this Order and shall furnish the Commission such reports and information as it may request. The head of each department or agency shall comply with rules, regulations, orders and instructions issued by the Equal Employment Opportunity Commission pursuant to Section 4 of this Order.
 
-Sec. 6. This Order applies (a) to military departments as defined in section 102 of title 5, United States Code, and executive agencies (other than the General Accounting Office) as defined in section 105 of title 5, United States Code, and to the employees thereof (including employees paid from nonappropriated funds), and (b) to those portions of the legislative and judicial branches of the Federal Government and of the Government of the District of Columbia having positions in the competitive service and to the employees in those positions. This Order does not apply to aliens employed outside the limits of the United States.
+Sec. 6. “Status as a parent” refers to the status of an individual who, with respect to an individual who is under the age of 18 or who is 18 or older but is incapable of self-care because of a physical or mental disability, is:
 
-Sec. 7. Part I of Executive Order No. 11246 of September 24, 1965, and those parts of Executive Order No. 11375 of October 13, 1967, which apply to Federal employment, are hereby superseded.
+&emsp;(a) a biological parent;
 
-Sec. 8. This Order shall be applicable to the United States Postal Service and to the Postal Rate Commission established by the Postal Reorganization Act of 1970 \[Title 39, Postal Service\].
+&emsp;(b) an adoptive parent;
+
+&emsp;(c) a foster parent;
+
+&emsp;(d) a stepparent;
+
+&emsp;(e) a custodian of a legal ward;
+
+&emsp;(f) in loco parentis over such an individual; or
+
+&emsp;(g) actively seeking legal custody or adoption of such an individual.
+
+Sec. 7. The Office of Personnel Management shall be authorized to develop guidance on the provisions of this order prohibiting discrimination on the basis of an individual's sexual orientation or status as a parent.
+
+Sec. 8. This Order applies (a) to military departments as defined in section 102 of title 5, United States Code, and executive agencies (other than the General Accounting Office) as defined in section 105 of title 5, United States Code, and to the employees thereof (including employees paid from nonappropriated funds), and (b) to those portions of the legislative and judicial branches of the Federal Government and of the Government of the District of Columbia having positions in the competitive service and to the employees in those positions. This Order does not apply to aliens employed outside the limits of the United States.
+
+Sec. 9. Part I of Executive Order No. 11246 of September 24, 1965, and those parts of Executive Order No.11375 of October 13, 1967, which apply to Federal employment, are hereby superseded.
+
+Sec. 10. This Order shall be applicable to the United States Postal Service and to the Postal Rate Commission established by the Postal Reorganization Act of 1970 \[Title 39, Postal Service\].
+
+Sec. 11. This Executive Order does not confer any right or benefit enforceable in law or equity against the United States or its representatives.
 
 #### Executive Order No. 12050
 
@@ -320,7 +340,7 @@ Specific Responsibilities
 
 1–303. The Equal Employment Opportunity Commission shall issue such rules, regulations, policies, procedures or orders as it deems necessary to carry out its responsibilities under this order. It shall advise and offer to consult with the affected Federal departments and agencies during the development of any proposed rules, regulations, policies, procedures or orders and shall formally submit such proposed issuances to affected departments and agencies at least 15 working days prior to public announcement. The Equal Employment Opportunity Commission shall use its best efforts to reach agreement with the agencies on matters in dispute. Departments and agencies shall comply with all final rules, regulations, policies, procedures or orders of the Equal Employment Opportunity Commission.
 
-1–304. All Federal departments and agencies shall advise and offer to consult with the Equal Employment Opportunity Commission during the development of any proposed rules, regulations, policies, procedures or orders concerning equal employment opportunity. Departments and agencies shall formally submit such proposed issuances to the Equal Employment Opportunity Commission and other interested Federal departments and agencies at least 15 working days prior to public announcement. The Equal Employment Opportunity Commission shall review such proposed rules, regulations, policies, procedures or orders to ensure consistency among the operations of the various Federal departments and agencies. Issuances related to internal management and administration are exempt from this clearance process. Case handling procedures unique to a single program also are exempt, although the Equal Employment Opportunity Commission may review such procedures in order to assure maximum consistency within the Federal equal employment opportunity program.
+1–304. All Federal departments and agencies shall advise and offer to consult with the Equal Employment Opportunity Commission during the development of any proposed rules, regulations, policies, procedures or orders concerning equal employment opportunity. Departments and agencies shall formally submit such proposed issuances to the Equal Employment Opportunity Commission and other interested Federal departments and agencies at least 15 working days prior to public announcement. The Equal Employment Opportunity Commission shall review such proposed rules, regulations, policies, procedures or orders to ensure consistency among the operations of the various Federal departments and agencies. Issuances related to internalmanagement and administration are exempt from this clearance process. Case handling procedures unique to a single program also are exempt, although the Equal Employment Opportunity Commission may review such procedures in order to assure maximum consistency within the Federal equal employment opportunity program.
 
 1–305. Before promulgating significant rules, regulations, policies, procedures or orders involving equal employment opportunity, the Commission and affected departments and agencies shall afford the public an opportunity to comment.
 
@@ -430,7 +450,7 @@ Sec. 206. (a) The Secretary of Labor may investigate the employment practices of
 
 “(b) Pursuant to rules and regulations prescribed by the Secretary of Labor, the Secretary shall make reasonable efforts, within a reasonable time limitation, to secure compliance with the contract provisions of this Order by methods of conference, conciliation, mediation, and persuasion before proceedings shall be instituted under subsection (a)(2) of this Section, or before a contract shall be cancelled or terminated in whole or in part under subsection (a)(5) of this Section.”.
 
-1–210. In order to reflect the responsibility of the contracting agencies for prompt compliance with the directions of the Secretary of Labor, Sections 210 and 211of Executive Order No. 11246, as amended, are amended to read:
+1–210. In order to reflect the responsibility of the contracting agencies for prompt compliance with the directions of the Secretary of Labor, Sections 210 and 211 of Executive Order No. 11246, as amended, are amended to read:
 
 “
 
@@ -470,7 +490,7 @@ Sec. 401. The Secretary of Labor may delegate to any officer, agency, or employe
 
 General Provisions
 
-1–301. The transfers or reassignments provided by Section 1–1 of this Order shall take effect at such time or times as the Director of the Office of Management and Budget shall determine. The Director shall ensure that all such transfers or reassignments take effect within 60 days.
+1–301. The transfers or reassignments provided by Section 1–1 of this Order shall take effect at such timeor times as the Director of the Office of Management and Budget shall determine. The Director shall ensure that all such transfers or reassignments take effect within 60 days.
 
 1–302. The conforming amendments provided by Section 1–2 of this Order shall take effect on October 8, 1978; except that, with respect to those agencies identified in Section 1–101 of this Order, the conforming amendments shall be effective on the effective date of the transfer or reassignment of functions as specified pursuant to Section 1–301 of this Order.
 
@@ -553,6 +573,66 @@ Sec. 4. <i>General Provisions</i>. (a) Section 1–101(h) of Executive Order No.
 Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 \[The International Communication Agency was redesignated the United States Information Agency, see section 303 of Pub. L. 97–241, title III, Aug. 24, 1982, 96 Stat. 291, set out as a note under section 1461 of Title 22, Foreign Relations and Intercourse. For abolition of United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau), transfer of functions, and treatment of references thereto, see sections 6531, 6532, and 6551 of Title 22.\]
+
+#### Ex. Ord. No. 13171. Hispanic Employment in the Federal Government
+
+Ex. Ord. No. 13171, Oct. 12, 2000, 65 F.R. 61251, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to improve the representation of Hispanics in Federal employment, within merit system principles and consistent with the application of appropriate veterans’ preference criteria, to achieve a Federal workforce drawn from all segments of society, it is hereby ordered as follows:
+
+Section 1. <i>Policy. It is the policy of the executive branch to recruit qualified individuals from appropriate sources in an effort to achieve a workforce drawn from all segments of society. Pursuant to this policy, this Administration notes that Hispanics remain underrepresented in the Federal workforce: they make up only 6.4 percent of the Federal civilian workforce, roughly half of their total representation in the civilian labor force. This Executive Order, therefore, affirms ongoing policies and recommends additional policies to eliminate the underpresentation \[sic\] of Hispanics in the Federal workforce.</i>
+
+Sec. 2. <i>Responsibilities of Executive Departments and Agencies</i>. The head of each executive department and agency (agency) shall establish and maintain a program for the recruitment and career development of Hispanics in Federal employment. In its program, each agency shall:
+
+(a) provide a plan for recruiting Hispanics that creates a fully diverse workforce for the agency in the 21st century;
+
+(b) assess and eliminate any systemic barriers to the effective recruitment and consideration of Hispanics, including but not limited to:
+
+&emsp;(1) broadening the area of consideration to include applicants from all appropriate sources;
+
+&emsp;(2) ensuring that selection factors are appropriate and achieve the broadest consideration of applicants and do not impose barriers to selection based on nonmerit factors; and
+
+&emsp;(3) considering the appointment of Hispanic Federal executives to rating, selection, performance review, and executive resources panels and boards;
+
+(c) improve outreach efforts to include organizations outside the Federal Government in order to increase the number of Hispanic candidates in the selection pool for the Senior Executive Service;
+
+(d) promote participation of Hispanic employees in management, leadership, and career development programs;
+
+(e) ensure that performance plans for senior executives, managers, and supervisors include specific language related to significant accomplishments on diversity recruitment and career development and that accountability is predicated on those plans;
+
+(f) establish appropriate agency advisory councils that include Hispanic Employment Program Managers;
+
+(g) implement the goals of the Government-wide Hispanic Employment Initiatives issued by the Office of Personnel Management (OPM) in September 1997 (Nine-Point Plan), and the Report to the President's Management Council on Hispanic Employment in the Federal Government of March 1999;
+
+(h) ensure that managers and supervisors receive periodic training in diversity management in order to carry out their responsibilities to maintain a diverse workforce; and
+
+(i) reflect a continuing priority for eliminating Hispanic underrepresentation in the Federal workforce and incorporate actions under this order as strategies for achieving workforce diversity goals in the agency's Government Performance and Results Act (GPRA) Annual Performance Plan.
+
+Sec. 3. <i>Cooperation</i>. All efforts taken by heads of agencies under sections 1 and 2 of this order shall, as appropriate, further partnerships and cooperation among Federal, public, and private sector employers, and appropriate Hispanic organizations whenever such partnerships and cooperation are possible and would promote the Federal employment of qualified individuals. In developing the long-term comprehensive strategies required by section 2 of this order, agencies shall, as appropriate, consult with and seek information and advice from experts in the areas of special targeted recruitment and diversity in employment.
+
+Sec. 4. <i>Responsibilities of the Office of Personnel Management</i>. The Office of Personnel Management is required by law and regulations to undertake a Government-wide minority recruitment effort. Pursuant to that on-going effort and in implementation of this order, the Director of OPM shall:
+
+(a) provide Federal human resources management policy guidance to address Hispanic underrepresentation where it occurs;
+
+(b) take the lead in promoting diversity to executive agencies for such actions as deemed appropriate to promote equal employment opportunity;
+
+(c) within 180 days from the date of this order, prescribe such regulations as may be necessary to carry out the purposes of this order;
+
+(d) within 60 days from the date of this order, establish an Interagency Task Force, chaired by the Director and composed of agency officials at the Deputy Secretary level, or the equivalent. This Task Force shall meet semi-annually to:
+
+&emsp;(1) review best practices in strategic human resources management planning, including alignment with agency GPRA plans;
+
+&emsp;(2) assess overall executive branch progress in complying with the requirements of this order;
+
+&emsp;(3) provide advice on ways to increase Hispanic community involvement; and
+
+&emsp;(4) recommend any further actions, as appropriate, in eliminating the underrepresentation of Hispanics in the Federal workforce where it occurs; and
+
+(e) issue an annual report with findings and recommendations to the President on the progress made by agencies on matters related to this order. The first annual report shall be issued no later than 1 year from the date of this order.
+
+Sec. 5. <i>Judicial Review</i>. This order is intended only to improve the internal management of the executive branch. It does not create any right or benefit, substantive or procedural, enforceable in law or equity except as may be identified in existing laws and regulations, by a party against the United States, its agencies, its officers or employees, or any other person.
+
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 

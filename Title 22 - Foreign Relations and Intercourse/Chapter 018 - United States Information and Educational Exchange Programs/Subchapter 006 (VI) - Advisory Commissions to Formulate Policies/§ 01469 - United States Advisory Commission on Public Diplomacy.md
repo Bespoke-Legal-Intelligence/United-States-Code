@@ -14,7 +14,7 @@
 
 #### (b) Staff
 
-The Commission shall have a staff director who shall be appointed by the chairperson of the Commission. Subject to such rules and regulations as may be adopted by the Commission, the chairperson of the Commission may—
+The Commission shall have a staff director who shall be appointed by the chairperson of theCommission. Subject to such rules and regulations as may be adopted by the Commission, the chairperson of the Commission may—
 
 &emsp;(1) appoint such additional personnel for the staff of the Commission as the chairperson considers necessary; and
 
@@ -38,7 +38,7 @@ The Commission shall have no authority with respect to the J. William Fulbright 
 
 #### Repeal of Section
 
-<i>Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title IV, §404(c)(2)\], Nov. 29, 1999, 113 Stat. 1536, 1501–447, provided that, effective Sept. 30, 2001, this section is repealed.</i>
+<i>Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title IV, §404(c)(2)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–447, provided that, effective Sept. 30, 2001, this section is repealed.</i>
 
 #### Amendments
 
@@ -76,7 +76,7 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title IV, §404(d)\], Nov. 29,
 
 #### Reduction in Staff and Budget
 
-Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title IV, §404(e)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–447, provided that: “Notwithstanding section 604(b) of the United States Information and Educational Exchange Act of 1948 \[22 U.S.C. 1469(b)\], effective on the date of the enactment of this Act \[Nov. 29, 1999\], the United States Advisory Commission on Public Diplomacy shall have not more than 2 individuals who are compensated staff, and not more than 50 percent of the resources allocated in fiscal year 1999.”
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title IV, §404(e)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–447, provided that: “Notwithstanding section 604(b) of the United States Information and Educational Exchange Act of 1948 \[22 U.S.C. 1469(b)\], effective on the date of the enactment of this Act \[Nov. 29, 1999\], the United States Advisory Commission on Public Diplomacy shall have not more than 2 individuals who are compensated staff,and not more than 50 percent of the resources allocated in fiscal year 1999.”
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
@@ -85,10 +85,6 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 #### Continued Service of Commission Members
 
 Pub. L. 101–246, title II, §206(b), Feb. 16, 1990, 104 Stat. 53, provided that each member of the United States Advisory Commission on Public Diplomacy as in existence on the day before Jan. 20, 1989, was to continue to serve for the remainder of the term to which such member was appointed.
-
-#### Cross References
-
-United States Advisory Commission on Public Diplomacy to continue until Oct. 1, 2001, see section 6553 of this title.
 
 #### Section Referred to in Other Sections
 

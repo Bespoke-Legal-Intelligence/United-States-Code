@@ -1,6 +1,6 @@
 ### §3638. General standard
 
-All actions taken under sections 3632(g), 3633, 3635, and 3636 of this title shall—
+All actions taken under sections 3632(g),<sup>1</sup> 3633, 3635, and 3636 of this title shall—
 
 &emsp;(a) take into account the best scientific information available;
 
@@ -9,4 +9,10 @@ All actions taken under sections 3632(g), 3633, 3635, and 3636 of this title sha
 &emsp;(c) be consistent with United States obligations under the Treaty, domestic Indian treaties and other applicable law.
 
 (Pub. L. 99–5, §9, Mar. 15, 1985, 99 Stat. 13.)
+
+#### References in Text
+
+Section 3632(g) of this title, referred to in text, was redesignated section 3632(h) of this title by Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(c)(5)(B)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–239.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -154,7 +154,7 @@ Section 511(b) of Pub. L. 99–145 provided that: “The amendments made by subs
 
 #### Temporary Variation in DOPMA Authorized End Strength Limitations for Active Duty Air Force and Navy Officers in Certain Grades
 
-Pub. L. 104–106, div. A, title IV, §402, Feb. 10, 1996, 110 Stat. 286, provided that the numbers of officers of the Air Force authorized under subsec. (a)(1) of this section to be serving on active duty in the grades of major, lieutenant colonel, and colonel for fiscal years 1996 and 1997 and the numbers of officers in the Navy authorized under subsec. (a)(2) of this section to be serving on active duty in the grades of lieutenant commander, commander, and captain for fiscal years 1996 and 1997 were limited to numbers in tables, prior to repeal by Pub. L. 104–201, div. A, title IV, §403(c)(3), Sept. 23, 1996, 110 Stat. 2506.
+Pub. L. 104–106, div. A, title IV, §402, Feb. 10, 1996, 110 Stat. 286, provided that the numbers of officers of the Air Force authorized under subsec. (a)(1) of this sectionto be serving on active duty in the grades of major, lieutenant colonel, and colonel for fiscal years 1996 and 1997 and the numbers of officers in the Navy authorized under subsec. (a)(2) of this section to be serving on active duty in the grades of lieutenant commander, commander, and captain for fiscal years 1996 and 1997 were limited to numbers in tables, prior to repeal by Pub. L. 104–201, div. A, title IV, §403(c)(3), Sept. 23, 1996, 110 Stat. 2506.
 
 #### Temporary Variation of End Strength Limitations for Army Majors and Lieutenant Colonels
 
@@ -172,7 +172,7 @@ Pub. L. 101–189, div. A, title IV, §403, Nov. 29, 1989, 103 Stat. 1431, autho
 
 Pub. L. 101–189, div. A, title IV, §402, Nov. 29, 1989, 103 Stat. 1431, as amended by Pub. L. 101–510, div. A, title IV, §404, Nov. 5, 1990, 104 Stat. 1545, provided that the number of officers authorized under subsec. (a) of this section to be serving on active duty in the Air Force in the grade of colonel during fiscal year 1992 was reduced by 250.
 
-Pub. L. 100–456, div. A, title IV, §403, Sept. 29, 1988, 102 Stat. 1963, provided that: “The number of officers that (but for this section) would be authorized under section 523 of title 10, United States Code, and other applicable provisions of law to be serving on active duty in the Air Force in the grade of colonel during fiscal year 1989 is hereby reduced by 125, and the number of such officers that (but for this section) would be so authorized to be serving on active duty during fiscal year 1990 is hereby reduced by 250.”
+Pub. L. 100–456, div. A, title IV, §403, Sept. 29, 1988, 102 Stat. 1963, provided that the number of officers authorized under this section to be serving on active duty in the Air Force in the grade of colonel during fiscal year 1989 was reduced by 125, and the number of such officers authorized to be serving on active duty during fiscal year 1990 was reduced by 250.
 
 #### Ceilings on Commissioned Officers on Active Duty
 
@@ -184,5 +184,5 @@ For provisions increasing for the fiscal year ending on Sept. 30, 1981, the maxi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 168, 527, 623, 777, 5721, 12011 of this title.
+This section is referred to in sections 168, 517, 527, 623, 777, 5721, 12011, 12012 of this title.
 

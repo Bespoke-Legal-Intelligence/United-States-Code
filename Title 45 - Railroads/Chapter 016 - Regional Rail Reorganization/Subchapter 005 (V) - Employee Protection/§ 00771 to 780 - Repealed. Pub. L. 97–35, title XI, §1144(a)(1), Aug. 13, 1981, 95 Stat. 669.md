@@ -6,7 +6,7 @@ Section 772, Pub. L. 93–236, title V, §502, Jan. 2, 1974, 87 Stat. 1013; Pub.
 
 Section 773, Pub. L. 93–236, title V, §503, Jan. 2, 1974, 87 Stat. 1014, related to assignment of work.
 
-Section 774, Pub. L. 93–236, title V, §504, Jan. 2, 1974, 87 Stat. 1014; Pub. L. 94–210, title VI, §615, Feb. 5, 1976, 90 Stat. 113; Pub. L. 94–555, title II, §§207(b), 208, Oct. 19, 1976, 90 Stat. 2622; Pub. L. 96–448, title V, §506, Oct. 14, 1980, 94 Stat. 1956, set forth provisions respecting collective bargaining agreements.
+Section 774, Pub. L. 93–236, title V, §504, Jan. 2, 1974, 87 Stat. 1014; Pub. L. 94–210, title VI, §615, Feb. 5, 1976,90 Stat. 113; Pub. L. 94–555, title II, §§207(b), 208, Oct. 19, 1976, 90 Stat. 2622; Pub. L. 96–448, title V, §506, Oct. 14, 1980, 94 Stat. 1956, set forth provisions respecting collective bargaining agreements.
 
 Section 775, Pub. L. 93–236, title V, §505, Jan. 2, 1974, 87 Stat. 1015; Pub. L. 94–210, title VI, §616(a)–(g), Feb. 5, 1976, 90 Stat. 115, 116; Pub. L. 94–555, title II, §§209, 210, Oct. 19, 1976, 90 Stat. 2623; Pub. L. 96–448, title V, §§501–503, Oct. 14, 1980, 94 Stat. 1948–1954, set forth provisions relating to employee protection programs.
 

@@ -4,7 +4,3 @@ For the purpose of any civil action which may be brought within the United State
 
 (Pub. L. 94–302, title II, §208, May 31, 1976, 90 Stat. 594.)
 
-#### Cross References
-
-District courts, removal of cases from State courts, see section 1441 et seq. of Title 28, Judiciary and Judicial Procedure.
-

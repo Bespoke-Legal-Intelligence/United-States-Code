@@ -56,5 +56,5 @@ Amendment by section 1357(g) of Pub. L. 99–570 applicable with respect to viol
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 5321 of this title; title 12 sections 93, 1464, 1772d, 1786, 1818, 1821, 3105; title 18 sections 984, 986, 1956, 2516.
+This section is referred to in section 5321 of this title; title 12 sections 93, 1464, 1772d, 1786, 1818, 1821, 3105; title 18 sections 986, 1956, 2516.
 

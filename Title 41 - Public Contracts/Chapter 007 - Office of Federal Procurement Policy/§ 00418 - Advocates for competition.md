@@ -10,7 +10,7 @@
 
 &emsp;(B) not assign such officers or employees any duties or responsibilities that are inconsistent with the duties and responsibilities of the advocates for competition; and
 
-&emsp;(C) provide such officers or employees with such staff or assistance as may be necessary to carry out the duties and responsibilities of the advocate for competition, such as persons who are specialists in engineering, technical operations, contract administration, financialmanagement, supply management, and utilization of small and disadvantaged business concerns.
+&emsp;(C) provide such officers or employees with such staff or assistance as may be necessary to carry out the duties and responsibilities of the advocate for competition, such as persons who are specialists in engineering, technical operations, contract administration, financial management, supply management, and utilization of small and disadvantaged business concerns.
 
 #### (b) Duties and functions
 

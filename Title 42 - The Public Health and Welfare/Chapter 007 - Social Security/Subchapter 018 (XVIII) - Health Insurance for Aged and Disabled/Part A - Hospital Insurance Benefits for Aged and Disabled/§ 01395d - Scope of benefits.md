@@ -26,7 +26,7 @@ Payment under this part for services furnished an individual during a spell of i
 
 #### (c) Inpatients of psychiatric hospitals
 
-If an individual is an inpatient of a psychiatric hospital on the first day of the first month for which he is entitled to benefits under this part, the days on which he was an inpatient of such a hospital in the 150-day period immediately before such first day shall be included in determining the number of days limit under subsection (b)(1) of this section insofar as such limit applies to (1) inpatient psychiatric hospital services, or (2) inpatient hospital services for an individual who is an inpatient primarily for the diagnosis or treatment of mental illness (but shall not be included in determining such number of days limit insofar as it applies to other inpatient hospital services or in determining the 190-day limit under subsection (b)(3) of this section).
+If an individual is an inpatient of a psychiatric hospital on the first day of the first month for which he is entitled to benefits under this part, the days on which he was an inpatient of such a hospital in the 150-day period immediately before such first day shall be included in determining the number of days limit under subsection (b)(1) of this section insofar as such limit applies to (1) inpatient psychiatric hospital services, or (2) inpatient hospital services for an individualwho is an inpatient primarily for the diagnosis or treatment of mental illness (but shall not be included in determining such number of days limit insofar as it applies to other inpatient hospital services or in determining the 190-day limit under subsection (b)(3) of this section).
 
 #### (d) Hospice care; election; waiver of rights; revocation; change of election
 
@@ -152,7 +152,7 @@ Subsec. (a)(4). Pub. L. 96–499, §931(a), added par. (4).
 
 Subsec. (d). Pub. L. 96–499, §930(c), struck out subsec. (d) which authorized payment for post-hospital home health services furnished an individual only during the one year period described in section 1395x(n) of this title following his most recent hospital discharge which met the requirements of such section and only for the first 100 visits in such period.
 
-Subsec. (e). Pub. L. 96–499, §930(d), substituted “subsections (b) and (c)” for “subsections (b), (c), and (d)”and “and post-hospital extended care services” for “post-hospital extended care services, and post-hospital home health services”.
+Subsec. (e). Pub. L. 96–499, §930(d), substituted “subsections (b) and (c)” for “subsections (b), (c), and (d)” and “and post-hospital extended care services” for “post-hospital extended care services, and post-hospital home health services”.
 
 1968—Subsec. (a). Pub. L. 90–248, §143(b), inserted “or, in the case of payments referred to in section 1395f(d)(2) of this title to him” after “on his behalf” in text preceding par. (1).
 
@@ -162,7 +162,7 @@ Subsec. (a)(4). Pub. L. 90–248, §129(c)(2), struck out par. (4) which provide
 
 Subsec. (b)(1). Pub. L. 90–248, §137(a)(2), changed the limitation on payments from 90 to 150 days minus 1 day for each day of inpatient hospital services in excess of 90 received during any preceding spell of illness (if such individual was entitled to have payment for such services made under this part unless he specifies that he does not desire to have such payment made).
 
-Subsec. (c). Pub. L. 90–248, §138(a), increased the limit from 90 to 150 days so that if an individual was an inpatient of a psychiatric or tuberculosis hospital on the first day of the first month for which he is entitled to benefits, the days he was an inpatient in the 150-day period immediately before such first day are included in determining the limit under subsec. (b)(1) insofar as such limit applies to (1) inpatient psychiatric hospital services and inpatient tuberculosis hospital services, or (2) inpatient hospital services for an individual who is an inpatient primarily for the diagnosis or treatment of mental illness or tuberculosis (but are not included in determining such limit as it applies to other inpatient hospital services or in determining the 190-day limit under subsec. (b)(3)).
+Subsec. (c). Pub. L. 90–248, §138(a), increased the limit from 90 to 150 days so that if an individual was an inpatient of a psychiatric or tuberculosis hospital on the first day of the first month for which he is entitled to benefits, the days he was an inpatient in the 150-day period immediately before such first day are included indetermining the limit under subsec. (b)(1) insofar as such limit applies to (1) inpatient psychiatric hospital services and inpatient tuberculosis hospital services, or (2) inpatient hospital services for an individual who is an inpatient primarily for the diagnosis or treatment of mental illness or tuberculosis (but are not included in determining such limit as it applies to other inpatient hospital services or in determining the 190-day limit under subsec. (b)(3)).
 
 Pub. L. 90–248, §146(a), provided that the limitation of allowable days of inpatient hospital services will not apply to services provided to an inpatient of a tuberculosis hospital.
 
@@ -224,7 +224,7 @@ Section 2121(i) of Pub. L. 97–35 provided that: “The amendments made by this
 
 #### Effective Date of 1980 Amendment
 
-Amendment by section 930(b)–(d) of Pub. L. 96–499 effective with respect to services furnished on or afterJuly 1, 1981, see section 930(s)(1) of Pub. L. 96–499, set out as a note under section 1395x of this title.
+Amendment by section 930(b)–(d) of Pub. L. 96–499 effective with respect to services furnished on or after July 1, 1981, see section 930(s)(1) of Pub. L. 96–499, set out as a note under section 1395x of this title.
 
 Section 931(e) of Pub. L. 96–499 provided that: “The amendments made by subsections (a) through (d) of this section \[amending this section and sections 1395f and 1395x of this title\] shall become effective on April 1, 1981.”
 
@@ -239,6 +239,18 @@ Section 138(b) of Pub. L. 90–248 provided that: “The amendments made by subs
 Section 143(d) of Pub. L. 90–248 provided that: “The provisions made by subsection (a) of this section \[amending section 1395x of this title\] shall become effective as of July 1, 1966, and the provisions made by subsections (b) and (c) of this section \[amending this section and section 1395f of this title\] shall apply to services furnished with respect to admissions occurring after December 31, 1967, and to outpatient hospital diagnostic services furnished after December 31, 1967, and before April 1, 1968.”
 
 Section 146(b) of Pub. L. 90–248 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to payment for services furnished after December 31, 1967.”
+
+#### MedPAC Report on Access to, and Use of, Hospice Benefit
+
+Pub. L. 106–554, §1(a)(6) \[title III, §323\], Dec. 21, 2000, 114 Stat. 2763, 2763A–501, provided that:
+
+“(a)
+
+In General.—The Medicare Payment Advisory Commission shall conduct a study to examine the factors affecting the use of hospice benefits under the medicare program under title XVIII of the Social Security Act \[this subchapter\], including a delay in the time (relative to death) of entry into a hospice program, and differences in such use between urban and rural hospice programs and based upon the presenting condition of the patient.
+
+“(b)
+
+Report.—Not later than 18 months after the date of the enactment of this Act \[Dec. 21, 2000\], the Commission shall submit to Congress a report on the study conducted under subsection (a), together with any recommendations for legislation that the Commission deems appropriate.”
 
 #### Transition
 

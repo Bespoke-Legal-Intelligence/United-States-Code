@@ -20,7 +20,7 @@ The local plan shall include—
 
 &emsp;&emsp;(A) a description of how the local board will ensure the continuous improvement of eligible providers of services through the system and ensure that such providers meet the employment needs of local employers and participants; and
 
-&emsp;&emsp;(B) a copy of each memorandum of understanding described in section 2841(c) of thistitle (between the local board and each of the one-stop partners) concerning the operation of the one-stop delivery system in the local area;
+&emsp;&emsp;(B) a copy of each memorandum of understanding described in section 2841(c) of this title (between the local board and each of the one-stop partners) concerning the operation of the one-stop delivery system in the local area;
 
 &emsp;(3) a description of the local levels of performance negotiated with the Governor and chief elected official pursuant to section 2871(c) of this title, to be used to measure the performance of the local area and to be used by the local board for measuring the performance of the local fiscal agent (where appropriate), eligible providers, and the one-stop delivery system, in the local area;
 

@@ -1,12 +1,12 @@
 ### §1064. Use of commissary stores: persons qualified for retired pay under chapter 1223 but under age 60
 
-Under regulations prescribed by the Secretary of Defense, a person who would be eligible for retired pay under chapter 1223 of this title but for the fact that the person is under 60 years of age shall be authorized to use commissary stores of the Department of Defense for 24 days each calendar year.
+Under regulations prescribed by the Secretary of Defense, a person who would be eligible for retired pay under chapter 1223 of this title but for the fact that the person is under 60 years of age shall be authorized to use commissary stores ofthe Department of Defense for 24 days each calendar year.
 
 (Added Pub. L. 101–510, div. A, title III, §321(b), Nov. 5, 1990, 104 Stat. 1528; amended Pub. L. 104–106, div. A, title XV, §1501(c)(8), Feb. 10, 1996, 110 Stat. 499; Pub. L. 105–261, div. A, title III, §362(b), (d)(2), Oct. 17, 1998, 112 Stat. 1984, 1985.)
 
 #### Amendments
 
-1998—Pub. L. 105–261 substituted “stores: persons qualified for retired pay under chapter 1223 but underage 60” for “stores by certain members and former members” in section catchline and “for 24 days each calendar year” for “for 12 days each calendar year” in text.
+1998—Pub. L. 105–261 substituted “stores: persons qualified for retired pay under chapter 1223 but under age 60” for “stores by certain members and former members” in section catchline and “for 24 days each calendar year” for “for 12 days each calendar year” in text.
 
 1996—Pub. L. 104–106 substituted “chapter 1223” for “chapter 67”.
 

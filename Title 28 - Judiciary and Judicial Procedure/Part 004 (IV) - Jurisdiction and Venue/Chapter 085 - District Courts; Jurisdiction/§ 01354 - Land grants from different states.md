@@ -12,7 +12,3 @@ Other provisions of section 41(1) of title 28, U.S.C., 1940 ed., are incorporate
 
 Changes were made in phraseology.
 
-#### Cross References
-
-Amount in controversy immaterial in action under this section, see Historical and Revision Notes under section 1331 of this title.
-

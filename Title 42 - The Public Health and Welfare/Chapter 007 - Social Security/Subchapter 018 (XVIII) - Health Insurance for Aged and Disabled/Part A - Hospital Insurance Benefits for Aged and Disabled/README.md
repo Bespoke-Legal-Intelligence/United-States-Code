@@ -2,7 +2,7 @@ Part A—Hospital Insurance Benefits for Aged and Disabled
 
 #### Part Referred to in Other Sections
 
-This part is referred to in sections 254n, 300dd–3, 300gg, 300gg–41, 402, 426, 426–1, 426a, 1320a–3, 1320a–7a, 1320b–1, 1320d, 1383c, 1395a, 1395b–2, 1395b–6, 1395<i>l</i>, 1395m, 1395<i>o</i>, 1395p, 1395q, 1395u, 1395v, 1395w–21, 1395w–22, 1395w–23, 1395w–24, 1395w–27, 1395w–28, 1395x, 1395y, 1395aa, 1395cc, 1395ff, 1395<i>ll</i>, 1395mm, 1395pp, 1395rr, 1395ss, 1395vv, 1395ww, 1395yy, 1395eee, 1395ggg, 1396a, 1396b, 1396d, 1396n, 1396u–4 of this title; title 5 sections 8904, 8910; title 8 sections 1182, 1611; title 10 sections 1086, 1087, 1108; title 26 sections 6103, 9801; title 29 section 1181; title 31 section 3806; title 38 section 1713; title 45 section 231f.
+This part is referred to in sections 254n, 300dd–3, 300gg, 300gg–41, 402, 426, 426–1, 426a, 1320a–3, 1320a–7a, 1320b–1, 1320d, 1383c, 1395a, 1395b–2, 1395b–6, 1395<i>l</i>, 1395m, 1395<i>o</i>, 1395p, 1395q, 1395u, 1395v, 1395w–21, 1395w–22, 1395w–23, 1395w–24, 1395w–27, 1395w–28, 1395x, 1395y, 1395aa, 1395cc, 1395cc–1, 1395cc–2, 1395ff, 1395<i>ll</i>, 1395mm, 1395pp, 1395rr, 1395ss, 1395vv, 1395ww, 1395yy, 1395eee, 1395ggg, 1396a, 1396b, 1396d, 1396n, 1396u–4 of this title; title 5 sections 8904, 8910; title 8 sections 1182, 1611; title 10 sections 1086, 1087, 1108, 1111; title 26 sections 6103, 9801; title 29 section 1181; title 31 section 3806; title 38 section 1713; title 45 section 231f.
 
 
 ---

@@ -46,7 +46,7 @@
 | Three-quarter time | 228 | 266 | 303 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;18 |
 | Half-time | 152 | 178 | 202 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12 |
 
-(d)(1) Notwithstanding the prohibition in section 3471 of this title prohibiting enrollment of an eligible veteran in a program of education in which such veteran has “already qualified,” a veteran shall be allowed up to six months of educational assistance (or the equivalent thereof in part-time assistance) for the pursuit of refresher training to permit such veteran to update such veteran's knowledge and skills and tobe instructed in the technological advances which have occurred in such veteran's field of employment during and since the period of such veteran's active military service.
+(d)(1) Notwithstanding the prohibition in section 3471 of this title prohibiting enrollment of an eligible veteran in a program of education in which such veteran has “already qualified,” a veteran shall be allowed up to six months of educational assistance (or the equivalent thereof in part-time assistance) for the pursuit of refresher training to permit such veteran to update such veteran's knowledge and skills and to be instructed in the technological advances which have occurred in such veteran's field of employment during and since the period of such veteran's active military service.
 
 (2) A veteran pursuing refresher training under this subsection shall be paid an educational assistance allowance based upon the rate prescribed in the table in subsection (a)(1) or in subsection (c)(2) of this section, whichever is applicable.
 
@@ -56,17 +56,25 @@
 
 (f) The educational assistance allowance of an eligible veteran pursuing a course by open circuit television shall be computed in the same manner that such allowance is computed under subsection (e) of this section for an independent study program.
 
-(g)(1) Subject to the provisions of paragraph (2) of this subsection, the amount of the educational assistance allowance paid to an eligible veteran who is pursuing a program of education under this chapter while incarcerated in a Federal, State, or local penal institution for conviction of a felony may not exceed such amount as the Secretary determines, in accordance with regulations which the Secretary shall prescribe, is necessary to cover the cost of established charges for tuition and fees required of similarly circumstanced nonveterans enrolled in the same program and to cover the cost of necessary supplies, books, and equipment, or the applicable monthly educational assistance allowance prescribed for a veteran with no dependents in subsection (a)(1) or (c)(2) of this section or section 3687(b)(1) of this title, whichever is the lesser. The amount of the educational assistance allowance payable to a veteran while so incarcerated shall be reduced to the extent that the tuition and fees of the veteran for any course are paid under any Federal program (other than a program administered by the Secretary) or under any State or local program.
+(g)(1) Subject to the provisions of paragraph (2) of this subsection, the amount of the educational assistance allowance paid to an eligible veteran who is pursuing a program of educationunder this chapter while incarcerated in a Federal, State, or local penal institution for conviction of a felony may not exceed such amount as the Secretary determines, in accordance with regulations which the Secretary shall prescribe, is necessary to cover the cost of established charges for tuition and fees required of similarly circumstanced nonveterans enrolled in the same program and to cover the cost of necessary supplies, books, and equipment, or the applicable monthly educational assistance allowance prescribed for a veteran with no dependents in subsection (a)(1) or (c)(2) of this section or section 3687(b)(1) of this title, whichever is the lesser. The amount of the educational assistance allowance payable to a veteran while so incarcerated shall be reduced to the extent that the tuition and fees of the veteran for any course are paid under any Federal program (other than a program administered by the Secretary) or under any State or local program.
 
 (2) Paragraph (1) of this subsection shall not apply in the case of any veteran who is pursuing a program of education under this chapter while residing in a halfway house or participating in a work-release program in connection with such veteran's conviction of a felony.
 
-(Added Pub. L. 89–358, §2, Mar. 3, 1966, 80 Stat. 18, §1682; amended Pub. L. 90–77, title III, §§301, 303(b), Aug. 31, 1967, 81 Stat. 184, 185; Pub. L. 90–631, §3, Oct. 23, 1968, 82 Stat. 1333; Pub. L. 91–219, title I, §103(a)–(d), title II, §204(a)(3), Mar. 26, 1970, 84 Stat. 76, 77, 79; Pub. L. 91–584, §9, Dec. 24, 1970, 84 Stat. 1577; Pub. L. 92–540, title I, §102(2)–(4), title III, §303, title IV, §401(4), (5), Oct. 24, 1972, 86 Stat. 1075, 1081, 1090; Pub. L. 93–508, title I, §102(2)–(4), title II, §204, Dec. 3, 1974, 88 Stat. 1579, 1582; Pub. L. 93–602, title II, §203(b), Jan. 2, 1975, 88 Stat. 1958; Pub. L. 94–502, title II, §§201(1)–(3), 207, Oct. 15, 1976, 90 Stat. 2384, 2385, 2387; Pub. L. 95–202, title I, §102(2)–(4), Nov. 23, 1977, 91 Stat. 1434; Pub. L. 96–466, title II, §§201(2)–(4), 211(2)–(4), title III, §§308–310, title VI, §602(a), Oct. 17, 1980, 94 Stat. 2187–2190, 2194, 2208; Pub. L. 97–35, title XX, §2003(b)(5), Aug. 13, 1981, 95 Stat. 782; Pub. L. 97–306, title II, §§204, 205(b), Oct. 14, 1982, 96 Stat. 1434; Pub. L. 98–160, title VII, §702(11), Nov. 21, 1983, 97 Stat. 1009; Pub. L. 98–543, title II, §202(1)–(3), Oct. 24, 1984, 98 Stat. 2741; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3482 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–275, title I, §104(a), Oct. 9, 1996, 110 Stat. 3327.)
+(h)(1) Subject to paragraph (3), the amount of educational assistance payable under this chapter for a licensing or certification test described in section 3452(b) of this title is the lesser of $2,000 or the fee charged for the test.
+
+(2) The number of months of entitlement charged in the case of any individual for such licensing or certification test is equal to the number (including any fraction) determined by dividing the total amount paid to such individual for such test by the full-time monthly institutional rate of the educational assistance allowance which, except for paragraph (1), such individual would otherwise be paid under this chapter.
+
+(3) In no event shall payment of educational assistance under this subsection for such a test exceed the amount of the individual's available entitlement under this chapter.
+
+(Added Pub. L. 89–358, §2, Mar. 3, 1966, 80 Stat. 18, §1682; amended Pub. L. 90–77, title III, §§301, 303(b), Aug. 31, 1967, 81 Stat. 184, 185; Pub. L. 90–631, §3, Oct. 23, 1968, 82 Stat. 1333; Pub. L. 91–219, title I, §103(a)–(d), title II, §204(a)(3), Mar. 26, 1970, 84 Stat. 76, 77, 79; Pub. L. 91–584, §9, Dec. 24, 1970, 84 Stat. 1577; Pub. L. 92–540, title I, §102(2)–(4), title III, §303, title IV, §401(4), (5), Oct. 24, 1972, 86 Stat. 1075, 1081, 1090; Pub. L. 93–508, title I, §102(2)–(4), title II, §204, Dec. 3, 1974, 88 Stat. 1579, 1582; Pub. L. 93–602, title II, §203(b), Jan. 2, 1975, 88 Stat. 1958; Pub. L. 94–502, title II, §§201(1)–(3), 207, Oct. 15, 1976, 90 Stat. 2384, 2385, 2387; Pub. L. 95–202, title I, §102(2)–(4), Nov. 23, 1977, 91 Stat. 1434; Pub. L. 96–466, title II, §§201(2)–(4), 211(2)–(4), title III, §§308–310, title VI, §602(a), Oct. 17, 1980, 94 Stat. 2187–2190, 2194, 2208; Pub. L. 97–35, title XX, §2003(b)(5), Aug. 13, 1981, 95 Stat. 782; Pub. L. 97–306, title II, §§204, 205(b), Oct. 14, 1982, 96 Stat. 1434; Pub. L. 98–160, title VII, §702(11), Nov. 21, 1983, 97 Stat. 1009; Pub. L. 98–543, title II, §202(1)–(3), Oct. 24, 1984, 98 Stat. 2741; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3482 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–275, title I, §104(a), Oct. 9, 1996, 110 Stat. 3327; Pub. L. 106–419, title I, §122(b)(3), Nov. 1, 2000, 114 Stat. 1834.)
 
 #### Prior Provisions
 
 Provisions similar to those comprising subsecs. (a), (b)(2), (c)(1), and (c)(2) of this section were contained in Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1176, 1180, which was classified to former sections 1632(a) and (b), (f), (e), and 1611(c) of this title, respectively, prior to repeal by section 4(a) of Pub. L. 89–358.
 
 #### Amendments
+
+2000—Subsec. (h). Pub. L. 106–419 added subsec. (h).
 
 1996—Subsec. (f). Pub. L. 104–275 struck out “in part” after “pursuing a course”.
 
@@ -146,7 +154,7 @@ Subsec. (c)(2). Pub. L. 93–508, §102(4), increased the educational assistance
 
 Subsec. (d). Pub. L. 93–508, §204, added subsec. (d).
 
-1972—Subsec. (a)(1), Pub. L. 92–540, §§102(2), 401(4), substituted references to subsec. (c) of this section and section 1787 of this title for references to subsec. (c)(1) or (d) of this section and section 1683 of this title, respectively, and increased the monthly educational assistance allowance for eligible veterans in column II from $175, $128, $81, and $141 to $220, $165, $110, and $177; in column III from $205, $152, $100, and $167 to $261, $196,$131, and $208; in column IV from $230, $177, $114, and $192 to $298, $224, $149, and $236; and in column V from $13, $10, $7, and $10 to $18, $14, $9, and $14, respectively.
+1972—Subsec. (a)(1), Pub. L. 92–540, §§102(2), 401(4), substituted references to subsec. (c) of this section and section 1787 of this title for references to subsec. (c)(1) or (d) of this section and section 1683 of this title, respectively, and increased the monthly educational assistance allowance for eligible veterans in column II from $175, $128, $81, and $141 to $220, $165, $110, and $177; in column III from $205, $152, $100, and $167 to $261, $196, $131, and $208; in column IV from $230, $177, $114, and $192 to $298, $224, $149, and $236; and in column V from $13, $10, $7, and $10 to $18, $14, $9, and $14, respectively.
 
 Subsec. (b). Pub. L. 92–540, §§102(3), 401(5), substituted “$220” for “$175”, and struck out provisions relating to payment of the educational assistance allowance provided by this subsection and the educational assistance allowance provided by section 1696(b) of this title.
 
@@ -173,6 +181,10 @@ Subsec. (d). Pub. L. 90–631, §3(b)(2), inserted requirement that the “farm 
 Subsec. (b)(2)(B). Pub. L. 90–77, §301(c), substituted “$130” for “$100”.
 
 Subsec. (d). Pub. L. 90–77, §303(b), added subsec. (d).
+
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–419 effective Mar. 1, 2001, and applicable with respect to licensing and certification tests approved by the Secretary of Veterans Affairs on or after such date, see section 122(d) of Pub. L. 106–419, set out as a note under section 3032 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -216,7 +228,7 @@ Amendment by section 204 of Pub. L. 93–508 effective Dec. 3, 1974, see section
 
 Section 601(a) of Pub. L. 92–540 provided that: “The rate increases provided in Title I of this Act \[see Tables for classification\] and the rate increases provided by the provisions of section 1787 \[now 3687\], title 38, United States Code (as added by section 316 of this Act) shall become effective October 1, 1972; except, for those veterans and eligible persons in training on the date of enactment \[Oct. 24, 1972\], the effective date shall be the date of the commencement of the current enrollment period, but not earlier than September 1, 1972.”
 
-Amendment by section 303 of Pub. L. 92–540 not to effect any enrollment agreement entered into by an eligible veteran prior to Jan. 1, 1973, see section 602 of Pub.L. 92–540, set out as an Effective Date note under section 3686 of this title.
+Amendment by section 303 of Pub. L. 92–540 not to effect any enrollment agreement entered into by an eligible veteran prior to Jan. 1, 1973, see section 602 of Pub. L. 92–540, set out as an Effective Date note under section 3686 of this title.
 
 #### Effective Date of 1970 Amendment
 
@@ -238,9 +250,9 @@ Section 602(d) of Pub. L. 96–466 provided that: “The provisions of section 1
 
 #### Overpayments to Veterans by Tangipahoa Parish School Board, Amite, Louisiana
 
-Pub. L. 90–493, §5, Aug. 19, 1968, 82 Stat. 809, provided that any veteran determined by the Administrator of Veterans’ Affairs to have received overpayments of educational benefits under former chapter 33 of title 38, United States Code in connection with the institutional on-farm training program conducted by the Tangipahoa Parish School Board, Amite, Louisiana, would be relieved of all liability to the United States for the amount of such overpayment, remaining due on Aug. 19, 1968, by making application for relief within two years following Aug. 19, 1968.
+Pub. L. 90–493, §5, Aug. 19, 1968, 82 Stat. 809, provided that any veteran determined by the Administrator ofVeterans’ Affairs to have received overpayments of educational benefits under former chapter 33 of title 38, United States Code in connection with the institutional on-farm training program conducted by the Tangipahoa Parish School Board, Amite, Louisiana, would be relieved of all liability to the United States for the amount of such overpayment, remaining due on Aug. 19, 1968, by making application for relief within two years following Aug. 19, 1968.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3002, 3034, 3202, 3491, 3492, 3532, 3680 of this title; title 10 section 16136.
+This section is referred to in sections 3002, 3034, 3202, 3452, 3491, 3492, 3532, 3680 of this title; title 10 section 16136.
 

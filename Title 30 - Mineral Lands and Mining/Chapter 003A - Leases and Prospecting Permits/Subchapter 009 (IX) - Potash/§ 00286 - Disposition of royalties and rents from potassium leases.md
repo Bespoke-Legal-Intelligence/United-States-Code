@@ -10,7 +10,7 @@ Subchapter VII of chapter 3, referred to in text, was in the original “the Act
 
 #### Codification
 
-Section is composed of the second sentence of section 6 of act Feb. 7, 1927, as added by act June 1, 1948. The first sentence of section 6 repealed former sections 141 to 152 of this title and did not affect pending applications for permits or leases filed prior to Jan. 1, 1926, or valid claims existent on Feb. 7, 1927, and thereafter maintained in compliance with the laws under which initiated, which claims could be perfected under such laws, including discovery.
+Section is composed of the second sentence of section 6 of act Feb. 7, 1927, as added by act June 1, 1948. The first sentence of section 6 repealed former sections 141 to 152 of this title and did not affect pending applications for permits or leases filed prior to Jan. 1, 1926, or valid claims existent on Feb. 7, 1927, and thereaftermaintained in compliance with the laws under which initiated, which claims could be perfected under such laws, including discovery.
 
 Section was not enacted as part of act Feb. 25, 1920, ch. 85, 41 Stat. 437, known as the Mineral Leasing Act, which comprises this chapter.
 

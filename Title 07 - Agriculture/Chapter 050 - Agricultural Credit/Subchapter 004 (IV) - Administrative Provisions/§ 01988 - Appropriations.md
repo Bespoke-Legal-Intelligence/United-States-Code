@@ -16,7 +16,7 @@ There is authorized to be appropriated to the Secretary such sums as the Congres
 
 (C) The Secretary shall develop such procedures as are necessary for the facilitation, administration, and promotion of secondary market operations, and for determining the increase of farmers’ access to capital at reasonable rates and terms as a result of secondary market operations.
 
-(D) This subsection shall not be interpreted to impede or extinguish the right of the borroweror the successor in interest to such borrower to prepay (in whole or in part) any loan made under this chapter, or to impede or extinguish the rights of any party under any provision of this chapter.
+(D) This subsection shall not be interpreted to impede or extinguish the right of the borrower or the successor in interest to such borrower to prepay (in whole or in part) any loan made under this chapter, or to impede or extinguish the rights of any party under any provision of this chapter.
 
 (2)(A) The Secretary may, directly or through a market maker approved by the Secretary, issue pool certificates representing ownership of part or all of the guaranteed portion of any loan guaranteed by the Secretary under this chapter. Such certificates shall be based on and backed by a pool established or approved by the Secretary and composed solely of the entire guaranteed portion of such loans.
 

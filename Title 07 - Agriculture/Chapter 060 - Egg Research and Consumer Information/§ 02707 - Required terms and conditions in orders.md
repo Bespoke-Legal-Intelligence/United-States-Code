@@ -28,7 +28,7 @@ Providing that the Egg Board shall, subject to the provisions of subsection (g) 
 
 (C) The order may be amended to decrease the assessment rate after public notice and opportunity for comment in accordance with section 553 of title 5 and without regard to sections 556 and 557 of such title.
 
-(3) To facilitate the collection of such assessments, the order of the Egg Board may designate different handlers or classes of handlers to recognize differences in marketing practices or procedures utilized in the industry. The Secretary may maintain a suit against any person subject to the order for the collection of such assessment, and the several district courts of the United States are hereby vested with jurisdiction to entertain such suits regardless of the amount in controversy.
+(3) To facilitate the collection of such assessments, the order of the Egg Board may designate different handlers or classes of handlers to recognize differences in marketing practicesor procedures utilized in the industry. The Secretary may maintain a suit against any person subject to the order for the collection of such assessment, and the several district courts of the United States are hereby vested with jurisdiction to entertain such suits regardless of the amount in controversy.
 
 #### (f) Recordkeeping and reporting requirements; accounting by Board
 

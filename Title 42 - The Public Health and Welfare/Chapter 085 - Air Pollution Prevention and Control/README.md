@@ -516,7 +516,7 @@ I74subpart 1—nonattainment areas in general
 | (d) | State inspection and maintenance programs. |
 | (e) | High altitude testing. |
 | [7550\.](Subchapter%20002%20%28II%29%20-%20Emission%20Standards%20for%20Moving%20Sources/Part%20A%20-%20Motor%20Vehicle%20Emission%20and%20Fuel%20Standards/%C2%A7%2007550%20-%20Definitions.md) | Definitions. |
-| [7551\.](Subchapter%20002%20%28II%29%20-%20Emission%20Standards%20for%20Moving%20Sources/Part%20A%20-%20Motor%20Vehicle%20Emission%20and%20Fuel%20Standards/%C2%A7%2007551%20-%20Study%20and%20report%20on%20fuel%20consumption.md) | Study and report on fuel consumption. |
+| [7551\.](Subchapter%20002%20%28II%29%20-%20Emission%20Standards%20for%20Moving%20Sources/Part%20A%20-%20Motor%20Vehicle%20Emission%20and%20Fuel%20Standards/%C2%A7%2007551%20-%20Omitted.md) | Omitted. |
 | [7552\.](Subchapter%20002%20%28II%29%20-%20Emission%20Standards%20for%20Moving%20Sources/Part%20A%20-%20Motor%20Vehicle%20Emission%20and%20Fuel%20Standards/%C2%A7%2007552%20-%20Motor%20vehicle%20compliance%20program%20fees.md) | Motor vehicle compliance program fees. |
 | (a) | Fee collection. |
 | (b) | Special Treasury fund. |
@@ -635,7 +635,6 @@ I74subpart 1—nonattainment areas in general
 | (b) | Notification procedures. |
 | (c) | Federal agency contracts. |
 | (d) | Exemptions; notification to Congress. |
-| (e) | Annual report to Congress. |
 | [7607\.](Subchapter%20003%20%28III%29%20-%20General%20Provisions/%C2%A7%2007607%20-%20Administrative%20proceedings%20and%20judicial%20review.md) | Administrative proceedings and judicial review. |
 | (a) | Administrative subpenas; confidentiality; witnesses. |
 | (b) | Judicial review. |
@@ -660,7 +659,7 @@ I74subpart 1—nonattainment areas in general
 | (b) | Benefits. |
 | (c) | Costs. |
 | (d) | Initial report. |
-| (e) | Biennial updates; future projections. |
+| (e) | Omitted. |
 | (f) | Appointment of Advisory Council on Clean Air Compliance Analysis. |
 | (g) | Duties of Advisory Council. |
 | [7613\.](Subchapter%20003%20%28III%29%20-%20General%20Provisions/%C2%A7%2007613%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93549%2C%20title%20VIII%2C%20%C2%A7803%2C%20Nov.%2015%2C%201990%2C%20104%20Stat.%202689.md) | Repealed. |
@@ -975,7 +974,7 @@ Act July 14, 1955, ch. 360, 69 Stat. 322, as amended, known as the Clean Air Act
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 2022, 4363a, 4365, 4905, 6211, 6901, 6905, 6907, 6949, 7273, 8302, 8402, 8411, 9621, 13257, 13260, 13369 of this title; title 10 section 2704; title 15 sections 793, 798, 2080, 2617, 2706, 3801; title 16 sections 410aaa–59, 460ii–4, 460<i>lll</i>, 1456; title 18 section 2721; title 23 sections 104, 134, 135, 149; title 26 section 169; title 29 section 1662e; title 30 sections 201, 1251, 1253, 1292, 1303; title 33 sections 1345, 1502, 1503; title 43 section 1334; title 49 sections 5303, 5305, 5309, 5323, 5335, 5506, 26101, 47102.
+This chapter is referred to in sections 2022, 4363a, 4365, 4905, 6901, 6905, 6907, 6949, 7273, 8302, 8402, 8411, 9621, 13257, 13260, 13369 of this title; title 10 section 2704; title 15 sections 793, 798, 2080, 2617, 2706, 3801; title 16 sections 410aaa–59, 460ii–4, 460<i>lll</i>, 1456; title 18 section 2721; title 23 sections 104, 134, 135, 149; title 26 section 169; title 30 sections 201, 1251, 1253, 1292, 1303; title 33 sections 1345,1502, 1503; title 43 section 1334; title 49 sections 5303, 5305, 5309, 5323, 5335, 5506, 26101, 47102.
 
 
 ---

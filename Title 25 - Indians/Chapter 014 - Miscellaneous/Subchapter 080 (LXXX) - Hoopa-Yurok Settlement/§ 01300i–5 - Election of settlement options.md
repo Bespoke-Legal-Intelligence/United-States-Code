@@ -24,7 +24,7 @@
 
 > may elect to be, and, upon such election, shall be entitled to be, enrolled as a full member of the Hoopa Valley Tribe.
 
-(2) Notwithstanding any provision of the constitution, ordinances or resolutions of the Hoopa Valley Tribe to the contrary, the Secretary shall cause any entitled person electing to be enrolled as a member of the Hoopa Valley Tribeto be so enrolled and such person shall thereafter be entitled to the same rights, benefits, and privileges as any other member of such tribe.
+(2) Notwithstanding any provision of the constitution, ordinances or resolutions of the Hoopa Valley Tribe to the contrary, the Secretary shall cause any entitled person electing to be enrolled as a member of the Hoopa Valley Tribe to be so enrolled and such person shall thereafter be entitled to the same rights, benefits, and privileges as any other member of such tribe.
 
 (3) The Secretary shall determine the quantum of “Indian blood” or “Hoopa Indian blood”, if any, of each person enrolled in the Hoopa Valley Tribe under this subsection pursuant to the criteria established in the March 31, 1982, decision of the United States Court of Claims in the case of Jesse Short et al. v. United States, (Cl. Ct. No. 102–63).
 

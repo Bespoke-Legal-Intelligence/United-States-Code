@@ -4,7 +4,3 @@ The liability of these certifying officers or employees shall be enforced in the
 
 (Pub. L. 85–53, §2, June 13, 1957, 71 Stat. 81.)
 
-#### Cross References
-
-General provisions concerning enforcement of liability of certifying officers, see sections 3529 and 3541 of Title 31, Money and Finance.
-

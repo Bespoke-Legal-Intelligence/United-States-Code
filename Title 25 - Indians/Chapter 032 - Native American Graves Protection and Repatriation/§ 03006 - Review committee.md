@@ -16,7 +16,7 @@ Within 120 days after November 16, 1990, the Secretary shall establish a committ
 
 (2) The Secretary may not appoint Federal officers or employees to the committee.
 
-(3) In the event vacancies shall occur, such vacancies shall be filled by the Secretary in the same manner as the original appointment within 90 days of the occurrence of such vacancy.
+(3) In the event vacancies shall occur, such vacancies shall be filled by the Secretary in thesame manner as the original appointment within 90 days of the occurrence of such vacancy.
 
 (4) Members of the committee established under subsection (a) of this section shall serve without pay, but shall be reimbursed at a rate equal to the daily rate for GS–18 of the General Schedule for each day (including travel time) for which the member is actually engaged in committee business. Each member shall receive travel expenses, including per diem in lieu of subsistence, in accordance with sections 5702 and 5703 of title 5.
 
@@ -48,7 +48,7 @@ The committee established under subsection (a) of this section shall be responsi
 
 #### (d) Admissibility of records and findings
 
-Any records and findings made by the review committee pursuant to this chapter relating tothe identity or cultural affiliation of any cultural items and the return of such items may be admissible in any action brought under section 3013 of this title.
+Any records and findings made by the review committee pursuant to this chapter relating to the identity or cultural affiliation of any cultural items and the return of such items may be admissible in any action brought under section 3013 of this title.
 
 #### (e) Recommendations and report
 

@@ -24,7 +24,7 @@ In this subchapter:
 
 #### (5) Graduate
 
-&emsp;The term “graduate” means an individual who has voluntarily applied for, been selected for, and enrolled in the Job Corps program and has completed the requirements of a vocational training program, or received a secondary school diploma or recognized equivalent, as a result of participation in the Job Corps program.
+&emsp;The term “graduate” means an individual who has voluntarily applied for, been selectedfor, and enrolled in the Job Corps program and has completed the requirements of a vocational training program, or received a secondary school diploma or recognized equivalent, as a result of participation in the Job Corps program.
 
 #### (6) Job Corps
 

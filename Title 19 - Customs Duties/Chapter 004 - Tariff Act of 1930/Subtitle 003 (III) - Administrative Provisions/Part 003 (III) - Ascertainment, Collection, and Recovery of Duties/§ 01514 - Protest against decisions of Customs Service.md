@@ -78,7 +78,7 @@ If the Customs Service finds indications of a pattern of conduct by an exporter 
 
 > until the person establishes to the satisfaction of the Customs Service that its representations are in conformity with section 3332 of this title.
 
-(June 17, 1930, ch. 497, title IV, §514, 46 Stat. 734; Pub. L. 91–271, title II, §207, June 2, 1970, 84 Stat. 284; Pub. L. 96–39, title X, §1001(b)(3), July 26, 1979, 93 Stat. 305; Pub. L. 96–417, title VI, §§601(5), 605, Oct. 10, 1980, 94 Stat. 1744; Pub. L. 98–573,title VI, §612(b)(1), Oct. 30, 1984, 98 Stat. 3034; Pub. L. 99–514, title XVIII, §1888(4), Oct. 22, 1986, 100 Stat. 2924; Pub. L. 100–449, title IV, §403(b), Sept. 28, 1988, 102 Stat. 1884; Pub. L. 103–182, title II, §208, title IV, §412(a), title VI, §645, Dec. 8, 1993, 107 Stat. 2097, 2146, 2206; Pub. L. 104–295, §21(e)(7), Oct. 11, 1996, 110 Stat. 3531; Pub. L. 106–36, title II, §2408(b), June 25, 1999, 113 Stat. 171.)
+(June 17, 1930, ch. 497, title IV, §514, 46 Stat. 734; Pub. L. 91–271, title II, §207, June 2, 1970, 84 Stat. 284; Pub. L. 96–39, title X, §1001(b)(3), July 26, 1979, 93 Stat. 305; Pub. L. 96–417, title VI, §§601(5), 605, Oct. 10, 1980, 94 Stat. 1744; Pub. L. 98–573, title VI, §612(b)(1), Oct. 30, 1984, 98 Stat. 3034; Pub. L. 99–514, title XVIII, §1888(4), Oct. 22, 1986, 100 Stat. 2924; Pub. L. 100–449, title IV, §403(b), Sept. 28, 1988, 102 Stat. 1884; Pub. L. 103–182, title II, §208, title IV, §412(a), title VI, §645, Dec. 8, 1993, 107 Stat. 2097, 2146, 2206; Pub. L. 104–295, §21(e)(7), Oct. 11, 1996, 110 Stat. 3531; Pub. L. 106–36, title II, §2408(b), June 25, 1999, 113 Stat. 171.)
 
 #### References in Text
 
@@ -212,7 +212,7 @@ Pub. L. 100–690, title VII, §7361(c), Nov. 18, 1988, 102 Stat. 4474, provided
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 #### Section Referred to in Other Sections
 

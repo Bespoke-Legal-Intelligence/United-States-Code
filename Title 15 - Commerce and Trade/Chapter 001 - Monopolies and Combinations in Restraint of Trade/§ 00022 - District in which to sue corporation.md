@@ -8,23 +8,3 @@ Any suit, action, or proceeding under the antitrust laws against a corporation m
 
 The antitrust laws, referred to in text, are defined in section 12 of this title.
 
-#### Federal Rules of Appellate Procedure
-
-Rules not to be construed as extending or limiting jurisdiction of Court of Appeals, see rule 1, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-#### Federal Rules of Civil Procedure
-
-One form of action, see rule 2, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-Process, see rule 4.
-
-Rules as governing the procedure in all suits of a civil nature whether cognizable as cases at law or in equity, see rule 1.
-
-#### Cross References
-
-Venue—
-
-&emsp;&emsp;Generally, see section 1391 et seq. of Title 28, Judiciary and Judicial Procedure.
-
-&emsp;&emsp;Damage actions, see section 15 of this title.
-

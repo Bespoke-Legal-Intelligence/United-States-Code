@@ -8,7 +8,7 @@ Any State or local government agency, and any nonprofit organization or institut
 
 The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as Titles IV and XX of the Social Security Act are classified generally to subchapters IV (§601 et seq.) and XX (§1397 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
-The Economic Opportunity Act of 1964, referred to in text, is Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508, as amended, which was classified generally to chapter 34 (§2701 et seq.) of this title prior to repeal, except for titles VIII and X, by Pub. L. 97–35, title VI, §683(a), Aug. 13, 1981, 95 Stat. 519. Titles VIII and X of the Economic Opportunity Act of 1964 are classified generallyto subchapters VIII (§2991 et seq.) and X (§2996 et seq.) of chapter 34 of this title. For complete classification of this Act to the Code, see Tables.
+The Economic Opportunity Act of 1964, referred to in text, is Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508, as amended, which was classified generally to chapter 34 (§2701 et seq.) of this title prior to repeal, except for titles VIII and X, by Pub. L. 97–35, title VI, §683(a), Aug. 13, 1981, 95 Stat. 519. Titles VIII and X of the Economic Opportunity Act of 1964 are classified generally to subchapters VIII (§2991 et seq.) and X (§2996 et seq.) of chapter 34 of this title. For complete classification of this Act to the Code, see Tables.
 
 The Community Services Block Grant Act, referred to in text, is subtitle B (§671 et seq.) of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 511, as amended, which is classified generally to chapter 106 (§9901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9901 of this title and Tables.
 
@@ -23,8 +23,4 @@ A prior section 213 of Pub. L. 89–73 was renumbered section 212 and is classif
 #### Effective Date
 
 Section effective at close of Sept. 30, 1978, see section 504 of Pub. L. 95–478, set out as an Effective Date of 1978 Amendment note under section 3001 of this title.
-
-#### Cross References
-
-Disposal of surplus property generally, see section 484 of Title 40, Public Buildings, Property, and Works.
 

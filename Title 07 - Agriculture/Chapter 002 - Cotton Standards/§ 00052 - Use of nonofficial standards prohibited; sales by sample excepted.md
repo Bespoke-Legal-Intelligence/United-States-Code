@@ -4,10 +4,6 @@ It shall be unlawful (a) in or in connection with any transaction or shipment in
 
 (Mar. 4, 1923, ch. 288, §2, 42 Stat. 1517.)
 
-#### Cross References
-
-Punishment for violating the provisions of this section, see section 60 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 60 of this title.

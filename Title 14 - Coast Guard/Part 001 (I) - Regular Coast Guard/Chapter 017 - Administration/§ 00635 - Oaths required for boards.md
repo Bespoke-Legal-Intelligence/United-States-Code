@@ -12,7 +12,3 @@ Said section has been divided. That part relating to oaths is covered in this se
 
 Said section is enlarged to include the oaths required for all boards, rather than to cover retiring boards only. 81st Congress, House Report No. 557.
 
-#### Cross References
-
-Oath of enlistment, see section 502 of Title 10, Armed Forces.
-

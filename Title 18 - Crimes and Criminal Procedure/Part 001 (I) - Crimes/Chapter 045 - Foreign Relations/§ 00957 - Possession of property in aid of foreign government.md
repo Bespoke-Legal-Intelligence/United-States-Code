@@ -18,20 +18,6 @@ Minor changes were made in phraseology.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000”.
 
-#### Canal Zone
-
-Applicability of section to Canal Zone, see section 14 of this title.
-
-#### Federal Rules of Criminal Procedure
-
-Warrant to search for property used in violation of this section, see rule 41, Appendix to this title.
-
-#### Cross References
-
-Jurisdiction of offenses under this section, see section 3241 of this title.
-
-Letters, writings, etc., in violation of this section as nonmailable, see section 1717 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 14, 1717 of this title.

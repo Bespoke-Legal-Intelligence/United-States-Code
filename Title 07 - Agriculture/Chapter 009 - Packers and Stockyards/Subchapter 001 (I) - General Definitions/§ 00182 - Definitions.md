@@ -44,22 +44,6 @@ Section 12 of Pub. L. 100–173 provided that: “This Act and the amendments ma
 
 Section 10 of Pub. L. 94–410 provided that: “Pending proceedings shall not be abated by reason of any provision of this Act \[enacting sections 196 and 228a to 228c of this title and amending this section and sections 183, 191–193, 201, 204, 207, 209, 210, 212, 213, 228, and 229 of this title\], but shall be disposed of pursuant to the provisions of the Packers and Stockyards Act, 1921, as amended \[this chapter\], and the Act of July 12, 1943 \[section 204 of this title\], in effect immediately prior to the effective date of this Act \[Sept. 13, 1976\].”
 
-#### Cross References
-
-Dealer, see section 201 of this title.
-
-Definition of commerce as not limited by definition of transaction in commerce, see section 183 of this title.
-
-Market agency, see section 201 of this title.
-
-Packer, see section 191 of this title.
-
-Stockyard, see section 202 of this title.
-
-Stockyard owner, see section 201 of this title.
-
-Stockyard services, see section 201 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 183 of this title; title 31 section 3903.

@@ -20,7 +20,7 @@ The Commission by regulation shall, within 270 days after October 28, 1992, esta
 
 &emsp;(4) identify procedures by which common carriers and providers of pay-per-call services may take affirmative steps to protect against nonpayment of legitimate charges; and
 
-&emsp;(5) require that any service described in subparagraphs (A) and (B) of subsection (i)(1) of this section be offered only through the use of certain telephone number prefixes and area codes.
+&emsp;(5) require that any service described in subparagraphs (A) and (B) of subsection (i)(1) of this section be offered only through the use ofcertain telephone number prefixes and area codes.
 
 #### (c) Common carrier obligations
 
@@ -62,7 +62,7 @@ Within 270 days after October 28, 1992, the Commission shall, by regulation, est
 
 &emsp;&emsp;&emsp;(ii) shall otherwise be offered at a reasonable fee; and
 
-&emsp;&emsp;(B) offer telephone subscribers (where the Commission determines it is technically andeconomically feasible), in combination with the blocking option described under subparagraph (A), the option of presubscribing to or blocking only specific pay-per-call services for a reasonable one-time charge.
+&emsp;&emsp;(B) offer telephone subscribers (where the Commission determines it is technically and economically feasible), in combination with the blocking option described under subparagraph (A), the option of presubscribing to or blocking only specific pay-per-call services for a reasonable one-time charge.
 
 > &emsp;The regulations prescribed under subparagraph (A)(i) of this paragraph may permit the costs of such blocking to be recovered by contract or tariff, but such costs may not be recovered from local or long-distance ratepayers. Nothing in this subsection precludes a common carrier from filing its rates and regulations regarding blocking and presubscription in its interstate tariffs.
 
@@ -208,7 +208,7 @@ The regulations required by this section shall require that any common carrier t
 
 #### (1) Consumer refund requirements
 
-&emsp;The regulations required by subsection (d) of this section shall establish procedures, consistent with the provisions of titles II and IIIof the Telephone Disclosure and Dispute Resolution Act \[15 U.S.C. 5711 et seq.; 5721 et seq.\], to ensure that carriers and other parties providing billing and collection services with respect to pay-per-call services provide appropriate refunds to subscribers who have been billed for pay-per-call services pursuant to programs that have been found to have violated this section or such regulations, any provision of, or regulations prescribed pursuant to, title II or III of the Telephone Disclosure and Dispute Resolution Act, or any other Federal law.
+&emsp;The regulations required by subsection (d) of this section shall establish procedures, consistent with the provisions of titles II and III of the Telephone Disclosure and Dispute Resolution Act \[15 U.S.C. 5711 et seq.; 5721 et seq.\], to ensure that carriers and other parties providing billing and collection services with respect to pay-per-call services provide appropriate refunds to subscribers who have been billed for pay-per-call services pursuant to programs that have been found to have violated this section or such regulations, any provision of, or regulations prescribed pursuant to, title II or III of the Telephone Disclosure and Dispute Resolution Act, or any other Federal law.
 
 #### (2) Recovery of costs
 
@@ -234,7 +234,7 @@ The regulations required by this section shall require that any common carrier t
 
 #### (4) State authority
 
-&emsp;Nothing in this section shall preclude any State from enacting and enforcing additional and complementary oversight and regulatory systems or procedures, or both, so long as such systems and procedures govern intrastate services and do not significantly impede the enforcement of this section or other Federal statutes.
+&emsp;Nothing in this section shall preclude any State from enacting and enforcing additional and complementary oversight and regulatorysystems or procedures, or both, so long as such systems and procedures govern intrastate services and do not significantly impede the enforcement of this section or other Federal statutes.
 
 #### (5) Enforcement of existing regulations
 

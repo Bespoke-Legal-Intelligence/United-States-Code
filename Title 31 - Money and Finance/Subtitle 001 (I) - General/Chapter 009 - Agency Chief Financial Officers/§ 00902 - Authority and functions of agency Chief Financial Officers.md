@@ -60,7 +60,7 @@
 
 (b)(1) In addition to the authority otherwise provided by this section, each agency Chief Financial Officer—
 
-&emsp;(A) subject to paragraph (2), shall have access to all records, reports, audits, reviews, documents, papers, recommendations, or other material which are the property of the agency or which are available to the agency, and which relate to programs and operations with respect to which that agency Chief Financial Officer has responsibilities under this section;
+&emsp;(A) subject to paragraph (2), shall have access to all records, reports, audits, reviews, documents, papers, recommendations, or othermaterial which are the property of the agency or which are available to the agency, and which relate to programs and operations with respect to which that agency Chief Financial Officer has responsibilities under this section;
 
 &emsp;(B) may request such information or assistance as may be necessary for carrying out the duties and responsibilities provided by this section from any Federal, State, or local governmental entity; and
 

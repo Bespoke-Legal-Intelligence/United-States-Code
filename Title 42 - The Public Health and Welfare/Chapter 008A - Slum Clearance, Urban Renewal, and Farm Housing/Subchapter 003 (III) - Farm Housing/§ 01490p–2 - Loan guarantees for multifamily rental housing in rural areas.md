@@ -10,7 +10,7 @@ A guarantee made under this section shall guarantee repayment of an amount not e
 
 #### (c) Eligible borrowers
 
-A loan guaranteed under this section may be made to a nonprofit organization, an agency or body of any State government or political subdivision thereof, or a private entity.
+A loan guaranteed under this section may be made to a nonprofit organization, an agency or body of any State government or political subdivision thereof, an Indian tribe, or a private entity.
 
 #### (d) Eligible housing
 
@@ -50,7 +50,7 @@ A loan may be guaranteed under this section only if the loan is used for the dev
 
 Each loan guaranteed pursuant to this section shall—
 
-&emsp;(1) provide for complete amortization by periodic payments to be made for a term not to exceed 40 years;
+&emsp;(1) be made for a period of not less than 25 nor greater than 40 years from the date the loan was made and may provide for amortization of the loan over a period of not to exceed 40 years with a final payment of the balance due at the end of the loan term;
 
 &emsp;(2) involve a rate of interest agreed upon by the borrower and the lender that does not exceed the maximum allowable rate established by the Secretary for purposes of this section and is fixed over the term of the loan;
 
@@ -82,7 +82,7 @@ The Secretary may authorize certain eligible lenders to determine whether a loan
 
 #### (2) Foreclosure
 
-&emsp;After receiving notice under paragraph (1) and providing written notice of action under this paragraph to the Secretary, the holder of the guarantee certificate for the loan may initiate foreclosure proceedings for the loan in a court of competent jurisdiction, in accordance with regulations issued by the Secretary, to obtain possession of the security property. After the court issues a final order authorizing foreclosure on the property, the holder of the certificate shall be entitled to payment by the Secretary under the guarantee (in the amount provided under subsection (b) of this section) upon (A) conveyance to the Secretary of title to the security property, (B) submission to the Secretary of a claim for payment under the guarantee, and (C) assignment to the Secretary of all the claims of the holder of the guarantee against the borrower or others arising out of the loan transaction or foreclosure proceedings, except claims released with the consent of the Secretary.
+&emsp;After receiving notice under paragraph (1) and providing written notice of action under this paragraph to the Secretary, the holder of the guarantee certificate for the loan may initiate foreclosure proceedings for the loan in a court of competent jurisdiction, in accordance with regulations issued by the Secretary, to obtain possession of the security property. After the court issues a final order authorizing foreclosure on the property, the holder of the certificate shall be entitled to payment by the Secretary under the guarantee (in the amount provided under subsection (b) of this section) upon (A) submission to the Secretary of a claim for payment under the guarantee, and (B) assignment to the Secretary of all the claims of the holder of the guarantee against the borrower or others arising out of the loan transaction or foreclosure proceedings, except claims released with the consent of the Secretary.
 
 #### (3) Assignment by Secretary
 
@@ -110,33 +110,29 @@ The Secretary may authorize certain eligible lenders to determine whether a loan
 
 Any loan guaranteed under this section may be refinanced and extended in accordance with terms and conditions that the Secretary shall prescribe, but in no event for an additional amount or term that exceeds the limitations under subsection (f) of this section.
 
-#### (<i>l</i>) Nonassumption
-
-The borrower under a loan that is guaranteed under this section and under which any portion of the principal obligation or interest remains outstanding may not be relieved of liability with respect to the loan, notwithstanding the transfer of property for which the loan was made.
-
-#### (m) Geographical targeting
+#### (<i>l</i>) Geographical targeting
 
 #### (1) Study
 
-&emsp;The Secretary shall provide for an independent entity to conduct a study to determine the extent to which borrowers in the United States will utilize loan guarantees under this section, the rural areas in the United States in which borrowers can best utilize and most need loans guaranteed under this section, and the rural areas in the United States in which housing of the type eligible for a loan guarantee under this section is most needed by low- and moderate-income families. The Secretary shall require the independent entity conducting the study to submit a report to the Secretary and to the Congress describing the results of the study not later than the expiration of the 90-day period beginning on March 28, 1996.
+&emsp;The Secretary shall provide for an independent entity to conduct a study to determine the extent to which borrowers in the United States will utilize loan guarantees under this section, the rural areas in the United States in which borrowers can best utilize and most need loans guaranteed under this section, andthe rural areas in the United States in which housing of the type eligible for a loan guarantee under this section is most needed by low- and moderate-income families. The Secretary shall require the independent entity conducting the study to submit a report to the Secretary and to the Congress describing the results of the study not later than the expiration of the 90-day period beginning on March 28, 1996.
 
 #### (2) Targeting
 
 &emsp;In providing loan guarantees under this section, the Secretary shall establish standards to target and give priority to rural areas in which borrowers can best utilize and most need loans guaranteed under this section, as determined by the Secretary based on the results of the study under paragraph (1) and any other information the Secretary considers appropriate.
 
-#### (n) Inapplicability of credit-elsewhere test
+#### (m) Inapplicability of credit-elsewhere test
 
 Section 1471(c) of this title shall not apply to guarantees, or loans guaranteed, under this section.
 
-#### (<i>o</i>) Tenant protections
+#### (n) Tenant protections
 
 The Secretary shall establish standards for the treatment of tenants of housing developed using amounts from a loan guaranteed under this section, which shall incorporate, to the extent applicable, existing standards applicable to tenants of housing developed with loans made under section 1485 of this title. Such standards shall include standards for fair housing and equal opportunity, lease and grievance procedures, and tenant appeals of adverse actions.
 
-#### (p) Housing standards
+#### (<i>o</i>) Housing standards
 
 The standards established under section 1485(m) of this title for housing and related facilities assisted under section 1485 of this title shall apply to housing and related facilities the development costs of which are financed in whole or in part with a loan guaranteed under this section.
 
-#### (q) Limitation on commitments to guarantee loans
+#### (p) Limitation on commitments to guarantee loans
 
 #### (1) Requirement of appropriations for cost subsidy
 
@@ -146,7 +142,7 @@ The standards established under section 1485(m) of this title for housing and re
 
 &emsp;In each fiscal year, the Secretary may enter into commitments to guarantee loans under this section only to the extent that the costs of the guarantees entered into in such fiscal year do not exceed such amount as may be provided in appropriation Acts for such fiscal year.
 
-#### (r) Report
+#### (q) Report
 
 #### (1) In general
 
@@ -160,11 +156,11 @@ The standards established under section 1485(m) of this title for housing and re
 
 &emsp;&emsp;(B) analyze the financial viability of the housing provided with loans guaranteed under this section and the need for project-based rental assistance for such housing;
 
-&emsp;&emsp;(C) include any recommendations of the Secretary for expanding or improving theprogram under this section for guaranteeing loans; and
+&emsp;&emsp;(C) include any recommendations of the Secretary for expanding or improving the program under this section for guaranteeing loans; and
 
 &emsp;&emsp;(D) include any other information regarding the program for guaranteeing loans under this section that the Secretary considers appropriate.
 
-#### (s) Definitions
+#### (r) Definitions
 
 For purposes of this section, the following definitions shall apply:
 
@@ -174,25 +170,69 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;(3) The terms “housing” and “related facilities” have the meanings given such terms in section 1485(e) of this title.
 
-#### (t) Authorization of appropriations
+&emsp;(4)
 
-There are authorized to be appropriated for each fiscal year for costs (as such term is defined in section 661a of title 2) of loan guarantees made under this section such sums as may be necessary for such fiscal year.
+Indian tribe.—The term “Indian tribe” means—
 
-#### (u) Tax-exempt financing
+&emsp;&emsp;(A) any Indian tribe, band, nation, or other organized group or community of Indians, including any Alaska Native village or regional or village corporation, as defined by or established pursuant to the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.), that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians pursuant to the Indian Self-Determination and Education Assistance Act of 1975 (25 U.S.C. 450 et seq.); or
+
+&emsp;&emsp;(B) any entity established by the governing body of an Indian tribe described in subparagraph (A) for the purpose of financing economic development.
+
+#### (s) Authorization of appropriations
+
+There are authorized to be appropriated for each fiscal year for costs (as such term is defined in section 661a of title 2) of loan guarantees made under this section such sums as may be necessary for such fiscal year to provideguarantees under this section for eligible loans having an aggregate principal amount of $500,000,000.
+
+#### (t) Tax-exempt financing
 
 The Secretary may not deny a guarantee under this section on the basis that the interest on the loan or on an obligation supporting the loan for which a guarantee is sought is exempt from inclusion in gross income for purposes of chapter I <sup>2</sup> of title 26.
 
-(July 15, 1949, ch. 338, title V, §538, as added and amended Pub. L. 104–120, §5, Mar. 28, 1996, 110 Stat. 835; Pub. L. 105–86, title VII, §735(c), Nov. 18, 1997, 111 Stat. 2111; Pub. L. 105–276, title V, §599C(c), Oct. 21, 1998, 112 Stat. 2661.)
+#### (u) Fee authority
+
+Any amounts collected by the Secretary pursuant to the fees charged to lenders for loan guarantees issued under this section shall be used to offset costs (as defined by section 661a of title 2) of loan guarantees made under this section.
+
+#### (v) Defaults of loans secured by reservation lands
+
+In the event of a default involving a loan to an Indian tribe or tribal corporation made under this section which is secured by an interest in land within such tribe's reservation (as determined by the Secretary of the Interior), including a community in Alaska incorporated by the Secretary of the Interior pursuant to the Indian Reorganization Act (25 U.S.C. 461 et seq.), the lender shall only pursue liquidation after offering to transfer the account to an eligible tribal member, the tribe, or the Indian housing authority serving the tribe. If the lender subsequently proceeds to liquidate the account, the lender shall not sell, transfer, or otherwise dispose of or alienate the property except to one of the entities described in the preceding sentence.
+
+(July 15, 1949, ch. 338, title V, §538, as added and amended Pub. L. 104–120, §5, Mar. 28, 1996, 110 Stat. 835; Pub. L. 105–86, title VII, §735(c), Nov. 18, 1997, 111 Stat. 2111; Pub. L. 105–276, title V, §599C(c), Oct. 21, 1998, 112 Stat. 2661; Pub. L. 106–569, title VII, §707, Dec. 27, 2000, 114 Stat. 3015.)
 
 #### References in Text
 
 The National Housing Act, referred to in subsec. (e)(1)(A), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to chapter 13 (§1701 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
+
+The Alaska Native Claims Settlement Act, referred to in subsec. (r)(4)(A), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+
+The Indian Self-Determination and Education Assistance Act of 1975, referred to in subsec. (r)(4)(A), probably means the Indian Self-Determination and Education Assistance Act, Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
+
+The Indian Reorganization Act, referred to in subsec. (v), is act June 18, 1934, ch. 576, 48 Stat. 984, as amended, which is classified generally to subchapter V (§461 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 461 of Title 25 and Tables.
 
 #### Codification
 
 Section is based on section 5(a) of H.R. 1691, One Hundred Fourth Congress, as passed by the House of Representatives on Oct. 30, 1995, which was enacted into law by Pub. L. 104–120.
 
 #### Amendments
+
+2000—Subsec. (c). Pub. L. 106–569, §707(1), inserted “an Indian tribe,” after “political subdivision thereof,”.
+
+Subsec. (f)(1). Pub. L. 106–569, §707(2), added par. (1) and struck out former par. (1) which read as follows: “provide for complete amortization by periodic payments to be made for a term not to exceed 40 years;”.
+
+Subsec. (i)(2). Pub. L. 106–569, §707(3), substituted “(A) submission to the Secretary of a claim for payment under the guarantee, and (B) assignment” for “(A) conveyance to the Secretary of title to the security property, (B) submission to the Secretary of a claim for payment under the guarantee, and (C) assignment”.
+
+Subsec. (<i>l</i>). Pub. L. 106–569, §707(6), (7), redesignated subsec. (m) as (<i>l</i>) and struck out heading and text of former subsec. (<i>l</i>). Text read as follows: “The borrower under a loan that is guaranteed under this section and under which any portion of the principal obligation or interest remains outstanding may not be relieved of liability with respect to the loan, notwithstanding the transfer of property for which the loan was made.”
+
+Subsecs. (m) to (r). Pub. L. 106–569, §707(7), redesignated subsecs. (n) to (s) as (m) to (r), respectively. Former subsec. (m) redesignated (<i>l</i>).
+
+Subsec. (s). Pub. L. 106–569, §707(7), redesignated subsec. (t) as (s). Former subsec. (s) redesignated (r).
+
+Subsec. (s)(4). Pub. L. 106–569, §707(4), added par. (4).
+
+Subsec. (t). Pub. L. 106–569, §707(7), redesignated subsec. (u) as (t). Former subsec. (t) redesignated (s).
+
+Pub. L. 106–569, §707(5), inserted before period at end “to provide guarantees under this section for eligible loans having an aggregate principal amount of $500,000,000”.
+
+Subsec. (u). Pub. L. 106–569, §707(8), added subsec. (u). Former subsec. (u) redesignated (t).
+
+Subsec. (v). Pub. L. 106–569, §707(8), added subsec. (v).
 
 1998—Subsec. (t). Pub. L. 105–276, §599C(c)(1), substituted “each fiscal year” for “fiscal year 1998”.
 

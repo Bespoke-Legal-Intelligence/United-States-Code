@@ -18,3 +18,7 @@ Amendment by Pub. L. 98–454 effective on ninetieth day following Oct. 5, 1984,
 
 Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under this section is listed as the 1st item on page 13), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+

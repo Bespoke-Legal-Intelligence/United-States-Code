@@ -257,7 +257,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1818, 1831k, 1831t, 2804, 4009, 4309, 4742, 4909 of this title; title 7 section 2019; title 15 sections 1607, 1681s, 1691c, 1692<i>l</i>, 1693<i>o</i>, 6505; title 18 section 709; title 42 section 5318a.
+This chapter is referred to in sections 1818, 1831k, 1831t, 2804, 4009, 4309, 4742, 4909 of this title; title 7 section 2019; title 15 sections 1607, 1681s, 1691c, 1692<i>l</i>, 1693<i>o</i>, 6505, 6805, 6822; title 18 section 709; title 42 section 5318a.
 
 
 ---

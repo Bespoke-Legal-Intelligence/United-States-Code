@@ -8,7 +8,7 @@ To conserve and protect natural values and to provide scientific knowledge, educ
 
 #### (1) In general
 
-&emsp;As soon as practicable after November 12, 1996, the Secretary of the Interior shall file a map and legal description of the Area with the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives.
+&emsp;As soon as practicable after November 12, 1996, the Secretary of the Interior shall file a map and legal description of the Area with the Committee on Energy and Natural Resources of the Senate and the Committee on Resources of the House of Representatives.
 
 #### (2) Force and effect
 
@@ -52,13 +52,13 @@ To conserve and protect natural values and to provide scientific knowledge, educ
 
 #### (d) Inventory
 
-Not later than 3 full fiscal years after November 12, 1996, the Secretary of the Interior, acting through the Director of the Bureau of Land Management, shall develop a baseline inventory of all categories of fossil resources within the Area. After the inventory is developed, the Secretary shall conduct monitoring surveys at intervals specified in the management plan developed for the Area in accordance with subsection (e) of this section.
+Not later than 3 full fiscal years after November 12, 1996, the Secretary of the Interior, acting through the Director of the Bureau of Land Management, shall develop a baseline inventoryof all categories of fossil resources within the Area. After the inventory is developed, the Secretary shall conduct monitoring surveys at intervals specified in the management plan developed for the Area in accordance with subsection (e) of this section.
 
 #### (e) Management plan
 
 #### (1) In general
 
-&emsp;Not later than 5 years after November 12, 1996, the Secretary of the Interior shall develop and submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives a management plan that describes the appropriate use of the Area consistent with this Act.
+&emsp;Not later than 5 years after November 12, 1996, the Secretary of the Interior shall develop and submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Resources of the House of Representatives a management plan that describes the appropriate use of the Area consistent with this subsection.
 
 #### (2) Contents
 
@@ -76,17 +76,15 @@ Not later than 3 full fiscal years after November 12, 1996, the Secretary of the
 
 &emsp;&emsp;(D) mitigation and reclamation standards for activities that disturb the surface to the detriment of scenic and environmental values.
 
-(Pub. L. 98–603, title I, §103, Oct. 30, 1984, 98 Stat. 3156; Pub. L. 104–333, div. I, title X, §1022(e), Nov. 12, 1996, 110 Stat. 4213.)
+(Pub. L. 98–603, title I, §103, Oct. 30, 1984, 98 Stat. 3156; Pub. L. 104–333, div. I, title X, §1022(e), Nov. 12, 1996, 110 Stat. 4213; Pub. L. 106–176, title I, §124, Mar. 10, 2000, 114 Stat. 30.)
 
 #### References in Text
 
-This Act, referred to in subsecs. (b)(2), (c)(1)(B), and (e)(1), is Pub. L. 98–603, Oct. 30, 1984, 98 Stat. 3155, as amended, known as the San Juan Basin Wilderness Protection Act of 1984. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsecs. (b)(2) and (c)(1)(B), is Pub. L. 98–603, Oct. 30, 1984, 98 Stat. 3155, as amended, known as the San Juan Basin Wilderness Protection Act of 1984. For complete classification of this Act to the Code, see Tables.
 
 The Federal Land Policy and Management Act of 1976, as amended, referred to in subsec. (c)(1)(B), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of this title and Tables.
 
-The mining laws, referred to in subsec. (c)(2)(A), are classified generally to Title 30, Mineral Lands and Mining.
-
-Mineral leasing laws, referred to in subsec. (c)(2)(A), have been defined in sections 351, 505, 530, and 541e of Title 30 to mean acts Oct. 20, 1914, ch. 330, 38 Stat. 741; Feb. 25, 1920, ch. 85, 41 Stat. 437; Apr. 17, 1926, ch. 158, 44 Stat. 301; and Feb. 7, 1927, ch. 66, 44 Stat. 1057. The act of Oct. 20, 1914, was repealed by Pub. L. 86–252, §1, Sept. 9, 1959, 73 Stat. 490. The act of Feb. 25, 1920, is known as the Mineral Leasing Act and is classified generally to chapter 3A (§181 et seq.) of Title 30. The act of Apr. 17, 1926, is classified generally to subchapter VIII (§271 et seq.) of chapter 3A of Title 30. The act of Feb. 7, 1927, is classified principally to subchapter IX (§281 et seq.) of chapter 3A of Title 30. For complete classification of these Acts to the Code, see Tables.
+The mining laws and the mineral leasing laws, referred to in subsec. (c)(2)(A), are classified generally to Title 30, Mineral Lands and Mining.
 
 Geothermal leasing laws, referred to in subsec. (c)(2)(A), are classified principally to chapter 23 (§1001 et seq.) of Title 30.
 
@@ -98,6 +96,12 @@ Section was enacted as part of the San Juan Basin Wilderness Protection Act of 1
 
 #### Amendments
 
+2000—Subsec. (b)(1). Pub. L. 106–176, §124(1), substituted “Committee on Resources” for “Committee on Natural Resources”.
+
+Subsec. (e)(1). Pub. L. 106–176, §124(2), which directed amendment of par. (1) by substituting “this subsection” for “this Act”, was executed by making the substitution following “consistent with”, to reflect the probable intent of Congress.
+
+Pub. L. 106–176, §124(1), substituted ‘Committee on Resources” for “Committee on Natural Resources”.
+
 1996—Pub. L. 104–333 amended section generally. Prior to amendment, section read as follows:
 
 “(a) In recognition of its paramount aesthetic, natural, scientific, educational, and paleontological values, the approximately two thousand seven hundred and twenty acre area in the Albuquerque District of the Bureau of Land Management, New Mexico, known as the ‘Fossil Forest’, as generally depicted on a map entitled ‘Fossil Forest’, dated June 1983, is hereby withdrawn, subject to valid existing rights, from all forms of appropriation under the mining laws and from disposition under all laws pertaining to mineral leasing and geothermal leasing and all amendments thereto. The Secretary of the Interior shall administer the area in accordance with the Federal Land Policy and Management Act and shall take such measures as are necessary to ensure that no activities are permitted within the area which would significantly disturb the land surface or impair the area's existing natural, educational, and scientific research values, including paleontological study, excavation, and interpretation.
@@ -105,8 +109,4 @@ Section was enacted as part of the San Juan Basin Wilderness Protection Act of 1
 “(b) Within one year of October 30, 1984, the Secretary of the Interior shall promulgate rules and regulations for the administration of the Fossil Forest area referred to in subsection (a) of this section in accordance with the provisions of this Act and shall file a copy of such rules and regulations with the Committee on Interior and Insular Affairs of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate.
 
 “(c) The Bureau of Land Management is hereby directed to conduct a long-range study of the Fossil Forest to determine how best to manage the area's resource values identified in subsection (a) of this section. Within eight years of October 30, 1984, the Secretary shall forward the study results and management plan for the area to Congress. During the study period and until Congress determines otherwise, the Fossil Forest area shall be managed under the provisions of this Act.”
-
-#### Change of Name
-
-Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

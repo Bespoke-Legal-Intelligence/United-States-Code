@@ -4,9 +4,23 @@ In order to preserve for public use and enjoyment certain areas of Marin and San
 
 (Pub. L. 92–589, §1, Oct. 27, 1972, 86 Stat. 1299.)
 
+#### Short Title of 2000 Amendment
+
+Pub. L. 106–350, §1, Oct. 24, 2000, 114 Stat. 1361, provided that: “This Act \[amending section 460bb–1 of thistitle\] may be cited as the ‘Golden Gate National Recreation Area Boundary Adjustment Act of 2000’.”
+
+#### Short Title of 1992 Amendment
+
+Pub. L. 102–299, §1, June 9, 1992, 106 Stat. 236, provided that: “This Act \[amending section 460bb–1 of this title and enacting provisions set out as a note under section 460bb–1 of this title\] may be cited as the ‘Golden Gate National Recreation Area Addition Act of 1992’.”
+
+#### Exemption of Presidio Trust from California Taxes
+
+Pub. L. 106–291, title III, §315, Oct. 11, 2000, 114 Stat. 989, provided that: “All interests created under leases, concessions, permits and other agreements associated with the properties administered by the Presidio Trust, hereafter shall be exempt from all taxes and special assessments of every kind by the State of California and its political subdivisions.”
+
+Similar provisions were contained in Pub. L. 106–113, div. B, §1000(a)(3) \[title III, §316\], Nov. 29, 1999, 113 Stat. 1535, 1501A–192.
+
 #### The Presidio of San Francisco
 
-Pub. L. 104–333, div. I, title I, Nov. 12, 1996, 110 Stat. 4097, as amended by Pub. L. 105–83, title III, §351, Nov.14, 1997, 111 Stat. 1607; Pub. L. 106–113, div. B, §1000(a)(3) \[title III, §334\], Nov. 29, 1999, 113 Stat. 1535, 1501A–198, provided that:
+Pub. L. 104–333, div. I, title I, Nov. 12, 1996, 110 Stat. 4097, as amended by Pub. L. 105–83, title III, §351, Nov. 14, 1997, 111 Stat. 1607; Pub. L. 106–113, div. B, §1000(a)(3) \[title III, §334\], Nov. 29, 1999, 113 Stat. 1535, 1501A–198; Pub. L. 106–176, title I, §101, Mar. 10, 2000, 114 Stat. 23, provided that:
 
 #### “SEC. 101. FINDINGS.
 
@@ -14,7 +28,7 @@ Pub. L. 104–333, div. I, title I, Nov. 12, 1996, 110 Stat. 4097, as amended by
 
 &emsp;“(1) the Presidio, located amidst the incomparable scenic splendor of the Golden Gate, is one of America's great natural and historic sites;
 
-&emsp;“(2) the Presidio is the oldest continuously operated military post in the Nation dating from 1776, and was designated a National Historic Landmark in 1962;
+&emsp;“(2) the Presidio was the oldest continuously operated military post in the Nation dating from 1776, and was designated a National Historic Landmark in 1962;
 
 &emsp;“(3) preservation of the cultural and historic integrity of the Presidio for public use recognizes its significant role in the history of the United States;
 
@@ -54,7 +68,7 @@ Establishment.—There is established a wholly owned government corporation to b
 
 “(b)
 
-Transfer.—(1) Within 60 days after receipt of a request from the Trust for the transfer of any parcel within the area depicted as Area B on the map entitled ‘Presidio Trust Number 1’, dated December 7, 1995, the Secretary shall transfer such parcel to the administrative jurisdiction of the Trust. Within 1 year after the first meeting of the Board of Directors of the Trust, the Secretary shall transfer to the Trust administrative jurisdiction over all remaining parcels within Area B. Such map shall be on file and available for public inspection in the offices of the Trust and in the offices of the National Park Service, Department of the Interior. The Trust and the Secretary may jointly make technical and clerical revisions in the boundary depicted on such map. The Secretary shall retain jurisdiction over those portions of the building identified as number 102 as the Secretary deems essential for use as a visitor center. The Building shall be named the ‘William Penn Mott Visitor Center’. Any parcel of land, the jurisdiction over which is transferred pursuant to this subsection, shall remain within the boundary of the Golden Gate National Recreation Area. With the consent of the Secretary, the Trust may at any time transfer to the administrative jurisdiction of the Secretary any other properties within the Presidio which are surplus to the needs of the Trust and which serve essential purposes of the Golden Gate National Recreation Area. The Trust is encouraged to transfer to the administrative jurisdiction of the Secretary open space areas which have high public use potential and are contiguous to other lands administrated by the Secretary.
+Transfer.—(1) Within 60 days after receipt of a request from the Trust for the transfer of any parcel within the area depicted as Area B on the map entitled ‘Presidio Trust Number 1’, dated December 7, 1995, the Secretary shall transfer such parcel to the administrative jurisdiction of the Trust. Within 1 year after the first meeting of the Board of Directors of the Trust, the Secretary shall transfer to the Trust administrative jurisdiction over all remaining parcels within Area B. Such map shall be on file and available for public inspection in the offices of the Trust and in the offices of the National Park Service, Department of the Interior. The Trust and the Secretary may jointly make technical and clerical revisions in the boundary depicted on such map. The Secretary shall retain jurisdiction over those portions of the building identified as number 102 as the Secretary deems essential for use as a visitor center. The Building shall be named the ‘William Penn Mott Visitor Center’. Any parcel of land, the jurisdiction over which is transferred pursuant to this subsection, shall remain within the boundary of the Golden Gate National Recreation Area. With the consent of the Secretary, the Trust may at any time transfer to the administrative jurisdiction of the Secretary any other properties within the Presidio which are surplus to the needs of the Trust and which serve essential purposes of the Golden Gate National Recreation Area. The Trust is encouraged to transfer to the administrative jurisdiction of the Secretary open space areas which have high public use potential and are contiguous to other lands administered by the Secretary.
 
 “(2) Within 60 days after the first meeting of the Board of Directors of the Trust, the Trust and the Secretary shall determine cooperatively which records, equipment, and other personal property are deemed to be necessary for the immediate administration of the properties to be transferred, and the Secretary shall immediately transfer such personal property to the Trust. Within 1 year after the first meeting of the Board of Directors of the Trust, the Trust and the Secretary shall determine cooperatively what, if any, additional records, equipment, and other personal property used by the Secretary in the administration of the properties to be transferred should be transferred to the Trust.
 
@@ -76,7 +90,7 @@ In general.—The powers and management of the Trust shall be vested in a Board 
 
 &emsp;“(2)
 
-Terms.—Members of the Board appointed under paragraph (1)(B) shall each serve for a term of 4 years, except that of the members first appointed, 3 shall serve for a term of 2 years. Any vacancy in the Board shall be filled in the same manner in which the original appointment was made, and any member appointed to fill a vacancy shall serve for the remainder of that term for which his or her predecessor was appointed. No appointed member may serve more than 8 years in consecutive terms.
+Terms.—Members of the Board appointed under paragraph (1)(B) shall each serve for a term of 4 years, except that of the members first appointed, 3 shall serve for a term of 2 years. Any vacancy in the Board shall be filled in the same manner in which the original appointment was made, and any member appointed to fill a vacancy shall serve for the remainder of that term for which his or her predecessor was appointed. No appointed member may serve more than 8 years in consecutive terms, except that upon the expiration of his or her term, an appointed member may continue to serve until his or her successor has been appointed.
 
 &emsp;“(3)
 
@@ -104,7 +118,7 @@ Necessary powers.—The Trust shall have all necessary and proper powers for the
 
 &emsp;“(9)
 
-Taxes.—The Trust and all properties administered by the Trust shall be exempt from all taxes and special assessments of every kind by the State of California, and its political subdivisions, including the City and County of San Francisco.
+Taxes.—The Trust and all properties administered by the Trust and all interest created under leases, concessions, permits and other agreements associated with the properties shall be exempt from all taxes and special assessments of every kind by the State of California, and its political subdivisions, including the City and County of San Francisco.
 
 &emsp;“(10)
 
@@ -120,13 +134,13 @@ Overall Requirements of the Trust.—The Trust shall manage the leasing, mainten
 
 “(b)
 
-Authorities.—The Trust may participate in the development of programs and activities at the properties transferred to the Trust, except that the Trust shall have the authority to negotiate and enter into such agreements, leases, contracts and other arrangements with any person, firm, association, organization, corporation or governmental entity, including, without limitation, entities of Federal, State and local governments as are necessary and appropriate to carry out its authorized activities. Any such agreement may be entered into without regard to section 321 of the Act of June 30, 1932 (40 U.S.C. 303b). The Trust shall establish procedures for lease agreements and other agreements for use and occupancy of Presidio facilities, including a requirement that in entering into such agreements the Trust shall obtain reasonable competition. The Trust may not dispose of or convey fee title to any real property transferred to it under this title. Federal laws and regulations governing procurement by Federal agencies shall not apply to the Trust, with the exception of laws and regulations related to Federal government contracts governing working conditions and wage rates, including the provisions of sections 276a–276a–6 of title 40, United States Code (Davis-Bacon Act), and any civil rights provisions otherwise applicable thereto. The Trust, in consultation with the Administrator of Federal Procurement Policy, shall establish and promulgate procedures applicable to the Trust's procurement of goods and services including, but not limited to, the award of contracts on the basis of contractor qualifications, price, commercially reasonable buying practices, and reasonable competition.
+Authorities.—The Trust may participate in the development of programs and activities at the properties transferred to the Trust, except that the Trust shall have the authority to negotiate and enter into such agreements, leases, contracts and other arrangements with any person, firm, association, organization, corporation or governmental entity, including, without limitation, entities of Federal, State and local governments as are necessary and appropriate to carry out its authorized activities. The National Park Service or any other Federal agency is authorized to enter into agreements, leases, contracts and other arrangements with the Presidio Trust which are necessary and appropriateto carry out the purposes of this title. Any such agreement may be entered into without regard to section 321 of the Act of June 30, 1932 (40 U.S.C. 303b). The Trust may use alternative means of dispute resolution authorized under subchapter IV of chapter 5 of title 5, United States Code (5 U.S.C. 571 et seq.). The Trust shall establish procedures for lease agreements and other agreements for use and occupancy of Presidio facilities, including a requirement that in entering into such agreements the Trust shall obtain reasonable competition. The Trust may not dispose of or convey fee title to any real property transferred to it under this title. Federal laws and regulations governing procurement by Federal agencies shall not apply to the Trust, with the exception of laws and regulations related to Federal government contracts governing working conditions and wage rates, including the provisions of sections 276a–276a–6 of title 40, United States Code (Davis-Bacon Act), and any civil rights provisions otherwise applicable thereto. The Trust, in consultation with the Administrator of Federal Procurement Policy, shall establish and promulgate procedures applicable to the Trust's procurement of goods and services including, but not limited to, the award of contracts on the basis of contractor qualifications, price, commercially reasonable buying practices, and reasonable competition. The Trust is authorized to use funds available to the Trust to purchase insurance and for reasonable reception and representation expenses, including membership dues, business cards and business related meal expenditures.
 
 “(c)
 
 Management Program.—The Trust shall develop a comprehensive program for management of those lands and facilities within the Presidio which are transferred to the administrative jurisdiction of the Trust. Such program shall be designed to reduce expenditures by the National Park Service and increase revenues to the Federal Government to the maximum extent possible. In carrying out this program, the Trust shall be treated as a successor in interest to the National Park Service with respect to compliance with the National Environmental Policy Act \[of 1969\] \[42 U.S.C. 4321 et seq.\] and other environmental compliance statutes. Such program shall consist of—
 
-&emsp;“(1) demolition of structures which in the opinion of the Trust, cannot be cost-effectively rehabilitated,and which are identified in the management plan for demolition,
+&emsp;“(1) demolition of structures which in the opinion of the Trust, cannot be cost-effectively rehabilitated, and which are identified in the management plan for demolition,
 
 &emsp;“(2) evaluation for possible demolition or replacement those buildings identified as categories 2 through 5 in the Presidio of San Francisco Historic Landmark District Historic American Buildings Survey Report, dated 1985,
 
@@ -138,21 +152,21 @@ Management Program.—The Trust shall develop a comprehensive program for manage
 
 “(d)
 
-Financial Authorities.—To augment or encourage the use of non-Federal funds to finance capital improvements on Presidio properties transferred to its jurisdiction, the Trust, in addition to its other authorities, shall have the following authorities subject to the Federal Credit Reform Act of 1990 (2 U.S.C. 661 et seq.):
+Financial Authorities.—(1) To augment or encourage the use of non-Federal funds to finance capital improvements on Presidio properties transferred to its jurisdiction, the Trust, in addition to its other authorities, shall have the following authorities subject to the Federal Credit Reform Act of 1990 (2 U.S.C. 661 et seq.):
 
-&emsp;“(1) The authority to guarantee any lender against loss of principal or interest on any loan: <i>Provided</i>, That—
+&emsp;“(A) The authority to guarantee any lender against loss of principal or interest on any loan: <i>Provided</i>, That—
 
-&emsp;&emsp;“(A) the terms of the guarantee are approved by the Secretary of the Treasury;
+&emsp;&emsp;“(i) the terms of the guarantee are approved by the Secretary of the Treasury;
 
-&emsp;&emsp;“(B) adequate subsidy budget authority is provided in advance in appropriations Acts; and
+&emsp;&emsp;“(ii) adequate subsidy budget authority is provided in advance in appropriations Acts; and
 
-&emsp;&emsp;“(C) such guarantees are structured so as to minimize potential cost to the Federal Government. No loan guarantee under this title shall cover more than 75 percent of the unpaid balance of the loan. The Trust may collect a fee sufficient to cover its costs in connection with each loan guaranteed under this title. The authority to enter into any such loan guarantee agreement shall expire at the end of 15 years after the date of enactment of this title \[Nov. 12, 1996\].
+&emsp;&emsp;“(iii) such guarantees are structured so as to minimize potential cost to the Federal Government. No loan guarantee under this title shall cover more than 75 percent of the unpaid balance of the loan. The Trust may collect a fee sufficient to cover its costs in connection with each loan guaranteed under this title. The authority to enter into any such loan guarantee agreement shall expire at the end of 15 years after the date of enactment of this title \[Nov. 12, 1996\].
 
-&emsp;“(2) The authority, subject to appropriations, to make loans to the occupants of property managed by the Trust for the preservation, restoration, maintenance, or repair of such property.
+&emsp;“(B) The authority, subject to appropriations, to make loans to the occupants of property managed by the Trust for the preservation, restoration, maintenance, or repair of such property.
 
-&emsp;“(3) The authority to issue obligations to the Secretary of the Treasury, but only if the Secretary of the Treasury agrees to purchase such obligations to the extent authorized in advance in appropriations acts. The Secretary of the Treasury is authorized to use as a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31, United States Code, and the purposes for which securities may be issued under such chapter are extended to include any purchase of such notes or obligations acquired by the Secretary of the Treasury under this subsection. Obligations issued under this subparagraph shall be in such forms and denominations, bearing such maturities, and subject to such terms and conditions, including a review of the creditworthiness of the loan and establishment of a repayment schedule, as may be prescribed by the Secretary of the Treasury, and shall bear interest at a rate determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities. No funds appropriated to the Trust may be used for repayment of principal or interest on, or redemption of, obligations issued under this paragraph.
+“(2) The Trust shall also have the authority to issue obligations to the Secretary of the Treasury, but only if the Secretary of the Treasury agrees to purchase such obligations to the extent authorized in advance in appropriations acts. The Secretary of the Treasury is authorized to use as a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31, United States Code, and the purposes for which securities may be issued under such chapter are extended to include any purchase of such notes or obligations acquired by the Secretary of the Treasury under this subsection. Obligations issued under this subparagraph shall be in such forms and denominations, bearing such maturities, and subject to such terms and conditions, including a review of the creditworthiness of the loan and establishment of a repayment schedule, as may be prescribed by the Secretary of the Treasury, and shall bear interest at a rate determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities. No funds appropriated to the Trust may be used for repayment of principal or interest on, or redemption of, obligations issued under this paragraph.
 
-&emsp;“(4) The aggregate amount of obligations issued under paragraph (3) of this subsection which are outstanding at any one time may not exceed $50,000,000.
+“(3) The aggregate amount of obligations issued under paragraph (2) of this subsection which are outstanding at any one time may not exceed $50,000,000.
 
 “(e)
 
@@ -164,7 +178,7 @@ Public Agency.—The Trust shall be deemed to be a public agency for purposes of
 
 “(g)
 
-Proceeds.—Notwithstanding section 1341 of title 31 of the United States Code, all proceeds received by the Trust shall be retained by the Trust, and such proceeds shall be available, without further appropriation, for the administration, preservation, restoration, operation and maintenance, improvement, repair and related expenses incurred with respect to Presidio properties under its administrative jurisdiction. The Secretary of the Treasury shall invest excess moneys of the Trust in public debt securities which shall bear interest at rates determined by the Secretary of the Treasury taking into consideration the current average market yield on outstanding marketable obligations of the United States of comparable maturity.
+Financial Management.—Notwithstanding section 1341 of title 31 of the United States Code, all proceeds and other revenues received by the Trust shall be retained by the Trust. Those proceeds shall be available, without further appropriation, to the Trust for the administration, preservation, restoration, operation and maintenance, improvement, repair and related expenses incurred with respect to Presidio properties under its administrative jurisdiction. The Secretary of the Treasury shall invest, at the direction of the Trust, such excess moneys that the Trust determines are not required to meet current withdrawals. Such investment shall be in public debt securities with maturities suitable to the needs of the Trust and bearing interest at rates determined by the Secretary of the Treasury taking into consideration the current average yield on outstanding marketable obligations of the United States of comparable maturity.
 
 “(h)
 
@@ -176,7 +190,7 @@ Memorandum of Agreement.—The Trust shall enter into a Memorandum of Agreement 
 
 “(j)
 
-Bylaws, Rules, and Regulations.—The Trust may adopt, amend, repeal, and enforce bylaws, rules and regulations governing the manner in which its business may be conducted and the powers vested in it may be exercised. The Trust is authorized, in consultation with the Secretary, to adopt and to enforce those rules and regulations that are applicable to the Golden Gate National Recreation Area and that may be necessary and appropriate to carry out its duties and responsibilities under this title. The Trust shall give notice of the adoption of such rules and regulations by publication in the Federal Register.
+Bylaws, Rules, and Regulations.—The Trust may adopt, amend, repeal, and enforce bylaws, rules and regulations governing the manner in which its business may be conducted and the powers vested in it may be exercised, including rules and regulations for the use and management of the property under the Trust's jurisdiction. The Trust is authorized, in consultation with the Secretary, to adopt and to enforce those rules and regulations that are applicable to the Golden Gate National Recreation Area and that may be necessary and appropriate to carry out its duties and responsibilities under this title. The Trust shall give notice of the adoption of such rules and regulations by publication in the Federal Register.
 
 “(k)
 
@@ -192,21 +206,25 @@ Building Code Compliance.—The Trust shall bring all properties under its admin
 
 “(n)
 
-Leasing.—In managing and leasing the properties transferred to it, the Trust shall consider the extent to which prospective tenants contribute to the implementation of the General Management Plan for the Presidio and to the reduction of cost to the Federal Government. The Trust shall give priority to the following categories of tenants: Tenants that enhance the financial viability of the Presidio and tenants that facilitate the cost-effective preservation of historic buildings through their reuse of such buildings.
+Leasing.—In managing and leasing the properties transferred to it, the Trust shall consider the extent to which prospective tenants contribute to the implementation of the general objectives of the General Management Plan for the Presidio and to the reduction of cost to the Federal Government. The Trust shall give priority to the following categories of tenants: Tenants that enhance the financial viability of the Presidio and tenants that facilitate the cost-effective preservation of historic buildings through their reuse of such buildings.
 
 “(<i>o</i>)
 
 Reversion.—If, at the expiration of 15 years, the Trust has not accomplished the goals and objectives of the plan required in section 105(b) of this title, then all property under the administrative jurisdiction of the Trust pursuant to section 103(b) of this title shall be transferred to the Administrator of the General Services Administration to be disposed of in accordance with the procedures outlined in the Defense Authorization Act of 1990 (104 Stat. 1809) \[probably means part A of title XXIX of div. B of Pub. L. 101–510, Nov. 5, 1990, 104 Stat. 1808, set out as a note under section 2687 of Title 10, Armed Forces\], and any real property so transferred shall be deleted from the boundary of the Golden Gate National Recreation Area. In the event of such transfer, the terms and conditions of all agreements and loans regarding such lands and facilities entered into by the Trust shall be binding on any successor in interest.
 
+“(p)
+
+Exclusive Rights to Name and Insignia.—The Trust shall have the sole and exclusive right to use the words ‘Presidio Trust’ and any seal, emblem, or other insignia adopted by its Board of Directors. Without express written authority of the Trust, no person may use the words ‘Presidio Trust’, or any combination or variation of those words alone or with other words, as the name under which that person shall do or purport to do business, for the purpose of trade, or by way of advertisement, or in any manner that may falsely suggest any connection with the Trust.
+
 #### “SEC. 105. LIMITATIONS ON FUNDING.
 
 “(a)(1) From amounts made available to the Secretary for the operation of areas within the Golden Gate National Recreation Area, not more than $25,000,000 shall be available to carry out this title in each fiscal year after the enactment of this title \[Nov. 12, 1996\] until the plan is submitted under subsection (b). Such sums shall remain available until expended.
 
-“(2) After the plan required in subsection (b) is submitted, and for each of the 14 fiscal years thereafter, there are authorized to be appropriated to the Trust not more than the amounts specified in such plan. Such sums shall remain available until expended. Of such sums, not more than $3,000,000 annually shall be available through the Trust for law enforcement activities and services to be provided by the United States Park Police at the Presidio in accordance with section 104(h) of this title.
+“(2) After the plan required in subsection (b) is submitted, and for each of the 14 fiscal years thereafter, there are authorized to be appropriated to the Trust not more than the amounts specified in such plan. Such sums shall remain available until expended. Of such sums, funds shall be available through the Trust for law enforcement activities and services to be provided by the United States Park Police at the Presidio in accordance with section 104(i) of this title.
 
 “(b) Within 1 year after the first meeting of the Board of Directors of the Trust, the Trust shall submit to Congress a plan which includes a schedule of annual decreasing federally appropriated funding that will achieve, at a minimum, self-sufficiency for the Trust within 15 complete fiscal years after such meeting of the Trust. No further funds shall be authorized for the Trust 15 years after the first meeting of the Board of Directors of the Trust.
 
-“(c) The Administrator of the General Services Administration shall provide necessary assistance, including detailees as necessary, to the Trust in the formulation and submission of the annual budget request for the administration, operation, and maintenance of the Presidio.
+“(c) The Administrator of the General Services Administration shall provide necessary assistance, on a reimbursable basis, including detailees as necessary, to the Trust in the formulation and submission of the annual budget request for the administration, operation, and maintenance of the Presidio.
 
 #### “SEC. 106. GENERAL ACCOUNTING OFFICE STUDY.
 
@@ -215,4 +233,8 @@ Reversion.—If, at the expiration of 15 years, the Trust has not accomplished t
 “(b) In consultation with the Trust, the General Accounting Office shall develop an interim schedule and plan to reduce and replace the Federal appropriations to the extent practicable for interpretive services conducted by the National Park Service, and law enforcement activities and services, fire and public safety programs conducted by the Trust.
 
 “(c) Seven years after the first meeting of the Board of Directors of the Trust, the General Accounting Office shall conduct a comprehensive study of the activities of the Trust, including the Trust's progress in meeting its obligations under this title, taking into consideration the results of the study described in subsection (a) and the implementation of plan and schedule required in subsection (b). The General Accounting Office shall report the results of the study, including any adjustments to the plan and schedule, to the Committee on Energy and Natural Resources and the Committee on Appropriations of the United States Senate, and the Committee on Resources and Committee on Appropriations of the House of Representatives.”
+
+\[Pub. L. 106–176, §101(13)(H),(ii),(iii), which directed amendments to section 104(d)(2) of Pub. L. 104–333, set out above, that were identical to amendments by Pub. L. 106–113 was not executed.\]
+
+\[Pub. L. 106–176, §101(13)(I), which directed amendment of section 104(d)(3) of Pub. L. 104–333, set out above, by inserting “paragraph (2) of” before “this subsection”, was executed by substituting “paragraph (2) of” for “paragraph (3) of” before “this subsection” to reflect the probable intent of Congress.\]
 

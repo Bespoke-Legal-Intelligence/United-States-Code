@@ -1,6 +1,6 @@
 ### §42. Importation or shipment of injurious mammals, birds, fish (including mollusks and crustacea), amphibia, and reptiles; permits, specimens for museums; regulations
 
-(a)(1) The importation into the United States, any territory of the United States, the District of Columbia, the Commonwealth of Puerto Rico, or any possession of the United States, or any shipment between the continental United States, the District of Columbia, Hawaii, the Commonwealth of Puerto Rico, or any possession of the United States, of the mongoose of the species Herpestes auropunctatus; of the species of so-called “flying foxes” or fruit bats of the genus Pteropus; of the zebra mussel of the species Dreissena polymorpha; and such other species of wild mammals, wild birds, fish (including mollusks and crustacea), amphibians, reptiles, brown tree snakes, or the offspring or eggs of any of the foregoing which the Secretary of the Interior may prescribe by regulation to be injurious to human beings, to the interests of agriculture, horticulture, forestry, or to wildlife or the wildlife resources of the United States, is hereby prohibited. All such prohibited mammals, birds, fish (including mollusks and crustacea), amphibians, and reptiles, and the eggs or offspring therefrom, shall be promptly exported or destroyed at the expense of the importer or consignee. Nothing in this section shall be construed to repeal or modify any provision of the Public Health Service Act or Federal Food, Drug, and Cosmetic Act. Also, this section shall not authorize any action with respect to the importation of any plant pest as defined in the Federal Plant Pest Act, insofar as such importation is subject to regulation under that Act.
+(a)(1) The importation into the United States, any territory of the United States, the District of Columbia, the Commonwealth of Puerto Rico, or any possession of the United States, or any shipment between the continental United States, the District of Columbia, Hawaii, the Commonwealth of Puerto Rico, or any possession of the United States, of the mongoose of the species Herpestes auropunctatus; of the species of so-called “flying foxes” or fruit bats of the genus Pteropus; of the zebra mussel of the species Dreissena polymorpha; and such other species of wild mammals, wild birds, fish (including mollusks and crustacea), amphibians, reptiles, brown tree snakes, or the offspring or eggs of any of the foregoing which the Secretary of the Interior may prescribe by regulation to be injurious to human beings, to the interests of agriculture, horticulture, forestry, or to wildlife or the wildlife resources of the United States, is hereby prohibited. All such prohibited mammals, birds, fish (including mollusks and crustacea), amphibians, and reptiles, and the eggs or offspring therefrom, shall be promptly exported or destroyed at the expense of the importer or consignee. Nothing in this section shall be construed to repeal or modify any provision of the Public Health Service Act or Federal Food, Drug, and Cosmetic Act. Also, this section shall not authorize any action with respect to the importation of any plant pest as defined in the Federal Plant Pest Act,<sup>1</sup> insofar as such importation is subject to regulation under that Act.
 
 (2) As used in this subsection, the term “wild” relates to any creatures that, whether or not raised in captivity, normally are found in a wild state; and the terms “wildlife” and “wildlife resources” include those resources that comprise wild mammals, wild birds, fish (including mollusks and crustacea), and all other classes of wild creatures whatsoever, and all types of aquatic and land vegetation upon which such wildlife resources are dependent.
 
@@ -16,7 +16,7 @@
 
 &emsp;(1) the condition of any vessel or conveyance, or the enclosures in which wild animals or birds are confined therein, upon its arrival in the United States, or any Territory or district thereof, shall constitute relevant evidence in determining whether the provisions of this subsection have been violated; and
 
-&emsp;(2) the presence in such vessel or conveyance at such time of a substantial ratio of dead, crippled, diseased, or starving wild animals or birds shall be deemed prima facie evidence ofthe violation of the provisions of this subsection.
+&emsp;(2) the presence in such vessel or conveyance at such time of a substantial ratio of dead, crippled, diseased, or starving wild animals or birds shall be deemed prima facie evidence of the violation of the provisions of this subsection.
 
 (June 25, 1948, ch. 645, 62 Stat. 687; May 24, 1949, ch. 139, §2, 63 Stat. 89; Pub. L. 86–702, §1, Sept. 2, 1960, 74 Stat. 753; Pub. L. 97–79, §9(d), Nov. 16, 1981, 95 Stat. 1079; Pub. L. 101–646, title I, §1208, Nov. 29, 1990, 104 Stat. 4772; Pub. L. 102–237, title X, §1013(e), Dec. 13, 1991, 105 Stat. 1901; Pub. L. 103–322, title XXXIII, §330016(1)(G), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–332, §2(h)(1), Oct. 26, 1996, 110 Stat. 4091.)
 
@@ -46,7 +46,7 @@ The Public Health Service Act, referred to in subsec. (a)(1), is act July 1, 194
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (a)(1), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Foods and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
-The Federal Plant Pest Act, referred to in subsec. (a)(1), is Pub. L. 85–36, title I, May 23, 1957, 71 Stat. 31, as amended, which is classified generally to chapter 7B (§150aa et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 150aa of Title 7 and Tables.
+The Federal Plant Pest Act, referred to in subsec. (a)(1), is Pub. L. 85–36, title I, May 23, 1957, 71 Stat. 31, as amended, which was classified generally to chapter 7B (§150aa et seq.) of Title 7, Agriculture, prior to repeal by Pub. L. 106–224, title IV, §438(a)(2), June 20, 2000, 114 Stat. 454. For complete classification of this Act to the Code, see Tables.
 
 This Act, referred to in subsec. (a)(3), probably refers to Pub. L. 86–702, which amended this section and section 43 of this title.
 
@@ -86,13 +86,9 @@ Subsec. (c). Act May 24, 1949, added subsec. (c).
 
 For provisions relating to restrictions on the introduction of invasive species into natural ecosystems of the United States, see Ex. Ord. No. 13112, Feb. 3, 1999, 64 F.R. 6183, set out as a note under section 4321 of Title 42, The Public Health and Welfare.
 
-#### Cross References
-
-Preservation of game and wild birds; duties and powers of Secretary of the Interior; regulations as to hunting, see section 701 et seq. of Title 16, Conservation.
-
-Unlawful transportation or importation of migratory birds, see sections 705 and 707 of Title 16.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in title 19 section 1527; title 39 section 3015.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

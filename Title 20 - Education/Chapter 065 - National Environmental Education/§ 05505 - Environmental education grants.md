@@ -40,7 +40,7 @@ Within 90 days after the date on which amounts are first appropriated for carryi
 
 #### (f) Applications
 
-Any local education agency, college or university, State education agency or environmental agency, not-for-profit organization, or noncommercial educational broadcasting entity may submit an application to the Administrator in response to the solicitations required by subsection (e) of this section.
+Any local education agency, college or university, State education agency or environmental agency, not-for-profit organization, or noncommercial educational broadcasting entity may submit an application to the Administratorin response to the solicitations required by subsection (e) of this section.
 
 #### (g) Performance of projects
 

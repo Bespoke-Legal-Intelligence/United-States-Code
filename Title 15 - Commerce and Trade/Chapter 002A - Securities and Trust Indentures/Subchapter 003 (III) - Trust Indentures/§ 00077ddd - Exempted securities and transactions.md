@@ -88,7 +88,7 @@ Subsec. (a)(9). Pub. L. 96–477, §302(b), substituted “$10,000,000, or such 
 
 #### Effective Date of 1970 Amendment
 
-Amendment by Pub. L. 91–567 applicable with respect to securities sold after Jan. 1, 1970, see section 6(d) of Pub. L. 91–567, set out as a note under section 77c of this title.
+Amendment by Pub. L. 91–567 applicable with respect to securities sold after Jan. 1, 1970, see section 6(d) ofPub. L. 91–567, set out as a note under section 77c of this title.
 
 #### Effective Date of 1954 Amendment
 
@@ -97,12 +97,6 @@ Amendment by act Aug. 10, 1954, effective 60 days after Aug. 10, 1954, see note 
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
-#### Cross References
-
-Qualification of indentures covering securities not required to be registered, section as affecting, see section 77ggg of this title.
-
-Securities not registered under Securities Act, section as affecting, see section 77fff of this title.
 
 #### Section Referred to in Other Sections
 

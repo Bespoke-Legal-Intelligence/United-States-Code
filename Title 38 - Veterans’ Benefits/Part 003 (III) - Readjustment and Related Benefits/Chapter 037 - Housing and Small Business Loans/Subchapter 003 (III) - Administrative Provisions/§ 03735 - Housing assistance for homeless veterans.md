@@ -6,7 +6,7 @@
 
 &emsp;(B) any State or any political subdivision thereof.
 
-(2) To carry out paragraph (1), the Secretary may enter into agreements to sell, lease, lease with an option to purchase, or donate real property, and improvements thereon, acquired by the Secretary as the result of a default on a loan made, insured, or guaranteed under this chapter. Such sale or lease or donation shall be for such consideration as the Secretary determines is in the best interests of homeless veterans and the Federal Government.
+(2) To carry out paragraph (1), the Secretary may enter into agreements to sell, lease, leasewith an option to purchase, or donate real property, and improvements thereon, acquired by the Secretary as the result of a default on a loan made, insured, or guaranteed under this chapter. Such sale or lease or donation shall be for such consideration as the Secretary determines is in the best interests of homeless veterans and the Federal Government.
 
 (3) The Secretary may enter into an agreement under paragraph (1) of this subsection only if—
 

@@ -118,6 +118,7 @@
 | (c) | Special concurrence requirements for certain functions. |
 | (d) | Use of Federal and non-Federal employees. |
 | (e) | Savings provision. |
+| [6962a.](Subchapter%20005%20%28V%29%20-%20Natural%20Resources%20and%20Environment/%C2%A7%2006962a%20-%20Cooperative%20agreements.md) | Cooperative agreements. |
 | [6963\.](Subchapter%20005%20%28V%29%20-%20Natural%20Resources%20and%20Environment/%C2%A7%2006963%20-%20Reorganization%20of%20Forest%20Service.md) | Reorganization of Forest Service. |
 | (a) | Required elements of reorganization proposals. |
 | (b) | Report. |
@@ -220,6 +221,31 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER X—FREEDOM TO E-FILE
+
+|  |  |
+| :--- | ---: |
+| [7031\.](Subchapter%20010%20%28X%29%20-%20Freedom%20to%20E-File/%C2%A7%2007031%20-%20Electronic%20filing%20and%20retrieval.md) | Electronic filing and retrieval. |
+| (a) | In general. |
+| (b) | Applicability. |
+| (c) | Implementation. |
+| (d) | Progress reports. |
+| [7032\.](Subchapter%20010%20%28X%29%20-%20Freedom%20to%20E-File/%C2%A7%2007032%20-%20Accessing%20information%20and%20filing%20over%20the%20Internet.md) | Accessing information and filing over the Internet. |
+| (a) | In general. |
+| (b) | Implementation. |
+| [7033\.](Subchapter%20010%20%28X%29%20-%20Freedom%20to%20E-File/%C2%A7%2007033%20-%20Availability%20of%20agency%20information%20technology%20funds.md) | Availability of agency information technology funds. |
+| (a) | Reservation of funds. |
+| (b) | Time for reservation. |
+| (c) | Use of funds. |
+| (d) | Return of funds. |
+| [7034\.](Subchapter%20010%20%28X%29%20-%20Freedom%20to%20E-File/%C2%A7%2007034%20-%20Federal%20Crop%20Insurance%20Corporation%20and%20Risk%20Management%20Agency.md) | Federal Crop Insurance Corporation and Risk Management Agency. |
+| (a) | In general. |
+| (b) | Administration. |
+| (c) | Implementation. |
+| [7035\.](Subchapter%20010%20%28X%29%20-%20Freedom%20to%20E-File/%C2%A7%2007035%20-%20Confidentiality.md) | Confidentiality. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 ---
 
@@ -237,3 +263,4 @@
 - [Subchapter 008 (VIII) - National Appeals Division](Subchapter%20008%20%28VIII%29%20-%20National%20Appeals%20Division/README.md)
 - [Subchapter 008&#8211;A (VIII&#8211;A) - Marketing and Regulatory Programs](Subchapter%20008%E2%80%93A%20%28VIII%E2%80%93A%29%20-%20Marketing%20and%20Regulatory%20Programs/README.md)
 - [Subchapter 009 (IX) - Miscellaneous Reorganization Provisions](Subchapter%20009%20%28IX%29%20-%20Miscellaneous%20Reorganization%20Provisions/README.md)
+- [Subchapter 010 (X) - Freedom to E-File](Subchapter%20010%20%28X%29%20-%20Freedom%20to%20E-File/README.md)

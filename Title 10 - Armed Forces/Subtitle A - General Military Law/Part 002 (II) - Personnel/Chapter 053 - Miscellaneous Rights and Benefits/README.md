@@ -19,6 +19,7 @@
 | [1044a.](%C2%A7%2001044a%20-%20Authority%20to%20act%20as%20notary.md) | Authority to act as notary. |
 | [1044b.](%C2%A7%2001044b%20-%20Military%20powers%20of%20attorney%20requirement%20for%20recognition%20by%20States.md) | Military powers of attorney: requirement for recognition by States. |
 | [1044c.](%C2%A7%2001044c%20-%20Advance%20medical%20directives%20of%20members%20and%20dependents%20requirement%20for%20recognition%20by%20States.md) | Advance medical directives of members and dependents: requirement for recognition by States. |
+| [1044d.](%C2%A7%2001044d%20-%20Military%20testamentary%20instruments%20requirement%20for%20recognition%20by%20States.md) | Military testamentary instruments: requirement for recognition by States. |
 | [1045\.](%C2%A7%2001045%20-%20Voluntary%20withholding%20of%20State%20income%20tax%20from%20retired%20or%20retainer%20pay.md) | Voluntary withholding of State income tax from retired or retainer pay. |
 | [1046\.](%C2%A7%2001046%20-%20Overseas%20temporary%20foster%20care%20program.md) | Overseas temporary foster care program. |
 | [1047\.](%C2%A7%2001047%20-%20Allowance%20for%20civilian%20clothing.md) | Allowance for civilian clothing. |
@@ -26,8 +27,9 @@
 | [1049\.](%C2%A7%2001049%20-%20Subsistence%20miscellaneous%20persons.md) | Subsistence: miscellaneous persons. |
 | [1050\.](%C2%A7%2001050%20-%20Latin%20American%20cooperation%20payment%20of%20personnel%20expenses.md) | Latin American cooperation: payment of personnel expenses. |
 | [1051\.](%C2%A7%2001051%20-%20Bilateral%20or%20regional%20cooperation%20programs%20payment%20of%20personnel%20expenses.md) | Bilateral or regional cooperation programs: payment of personnel expenses. |
-| [1052\.](%C2%A7%2001052%20-%20Reimbursement%20for%20adoption%20expenses.md) | Reimbursement for adoption expenses. |
-| [1053\.](%C2%A7%2001053%20-%20Reimbursement%20for%20financial%20institution%20charges%20incurred%20because%20of%20Government%20error%20in%20direct%20deposit%20of%20pay.md) | Reimbursement for financial institution charges incurred because of Government error in direct deposit of pay. |
+| [1052\.](%C2%A7%2001052%20-%20Adoption%20expenses%20reimbursement.md) | Adoption expenses: reimbursement. |
+| [1053\.](%C2%A7%2001053%20-%20Financial%20institution%20charges%20incurred%20because%20of%20Government%20error%20in%20direct%20deposit%20of%20pay%20reimbursement.md) | Financial institution charges incurred because of Government error in direct deposit of pay: reimbursement. |
+| [1053a.](%C2%A7%2001053a%20-%20Expenses%20incurred%20in%20connection%20with%20leave%20canceled%20due%20to%20contingency%20operations%20reimbursement.md) | Expenses incurred in connection with leave canceled due to contingency operations: reimbursement. |
 | [1054\.](%C2%A7%2001054%20-%20Defense%20of%20certain%20suits%20arising%20out%20of%20legal%20malpractice.md) | Defense of certain suits arising out of legal malpractice. |
 | [1055\.](%C2%A7%2001055%20-%20Waiver%20of%20security%20deposits%20for%20members%20renting%20private%20housing%3B%20authority%20to%20indemnify%20landlord.md) | Waiver of security deposits for members renting private housing; authority to indemnify landlord. |
 | [1056\.](%C2%A7%2001056%20-%20Relocation%20assistance%20programs.md) | Relocation assistance programs. |
@@ -40,6 +42,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2000—Pub. L. 106–398, §1 \[\[div. A\], title V, §§551(b), 579(c)(3)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–125, 1654A–142, added items 1044d, 1052, 1053, and 1053a, and struck out former items 1052 “Reimbursement for adoption expenses” and 1053 “Reimbursement for financial institution charges incurred because of Government error in direct deposit of pay”.
 
 1997—Pub. L. 105–85, div. A, title V, §593(a)(2), Nov. 18, 1997, 111 Stat. 1763, added item 1033.
 
@@ -127,6 +131,7 @@ Pub. L. 86–142, §1(2), Aug. 7, 1959, 73 Stat. 289, added item 1038.
 - [&sect; 01044a - Authority to act as notary](%C2%A7%2001044a%20-%20Authority%20to%20act%20as%20notary.md)
 - [&sect; 01044b - Military powers of attorney requirement for recognition by States](%C2%A7%2001044b%20-%20Military%20powers%20of%20attorney%20requirement%20for%20recognition%20by%20States.md)
 - [&sect; 01044c - Advance medical directives of members and dependents requirement for recognition by States](%C2%A7%2001044c%20-%20Advance%20medical%20directives%20of%20members%20and%20dependents%20requirement%20for%20recognition%20by%20States.md)
+- [&sect; 01044d - Military testamentary instruments requirement for recognition by States](%C2%A7%2001044d%20-%20Military%20testamentary%20instruments%20requirement%20for%20recognition%20by%20States.md)
 - [&sect; 01045 - Voluntary withholding of State income tax from retired or retainer pay](%C2%A7%2001045%20-%20Voluntary%20withholding%20of%20State%20income%20tax%20from%20retired%20or%20retainer%20pay.md)
 - [&sect; 01046 - Overseas temporary foster care program](%C2%A7%2001046%20-%20Overseas%20temporary%20foster%20care%20program.md)
 - [&sect; 01047 - Allowance for civilian clothing](%C2%A7%2001047%20-%20Allowance%20for%20civilian%20clothing.md)
@@ -134,8 +139,9 @@ Pub. L. 86–142, §1(2), Aug. 7, 1959, 73 Stat. 289, added item 1038.
 - [&sect; 01049 - Subsistence miscellaneous persons](%C2%A7%2001049%20-%20Subsistence%20miscellaneous%20persons.md)
 - [&sect; 01050 - Latin American cooperation payment of personnel expenses](%C2%A7%2001050%20-%20Latin%20American%20cooperation%20payment%20of%20personnel%20expenses.md)
 - [&sect; 01051 - Bilateral or regional cooperation programs payment of personnel expenses](%C2%A7%2001051%20-%20Bilateral%20or%20regional%20cooperation%20programs%20payment%20of%20personnel%20expenses.md)
-- [&sect; 01052 - Reimbursement for adoption expenses](%C2%A7%2001052%20-%20Reimbursement%20for%20adoption%20expenses.md)
-- [&sect; 01053 - Reimbursement for financial institution charges incurred because of Government error in direct deposit of pay](%C2%A7%2001053%20-%20Reimbursement%20for%20financial%20institution%20charges%20incurred%20because%20of%20Government%20error%20in%20direct%20deposit%20of%20pay.md)
+- [&sect; 01052 - Adoption expenses reimbursement](%C2%A7%2001052%20-%20Adoption%20expenses%20reimbursement.md)
+- [&sect; 01053 - Financial institution charges incurred because of Government error in direct deposit of pay reimbursement](%C2%A7%2001053%20-%20Financial%20institution%20charges%20incurred%20because%20of%20Government%20error%20in%20direct%20deposit%20of%20pay%20reimbursement.md)
+- [&sect; 01053a - Expenses incurred in connection with leave canceled due to contingency operations reimbursement](%C2%A7%2001053a%20-%20Expenses%20incurred%20in%20connection%20with%20leave%20canceled%20due%20to%20contingency%20operations%20reimbursement.md)
 - [&sect; 01054 - Defense of certain suits arising out of legal malpractice](%C2%A7%2001054%20-%20Defense%20of%20certain%20suits%20arising%20out%20of%20legal%20malpractice.md)
 - [&sect; 01055 - Waiver of security deposits for members renting private housing; authority to indemnify landlord](%C2%A7%2001055%20-%20Waiver%20of%20security%20deposits%20for%20members%20renting%20private%20housing%3B%20authority%20to%20indemnify%20landlord.md)
 - [&sect; 01056 - Relocation assistance programs](%C2%A7%2001056%20-%20Relocation%20assistance%20programs.md)

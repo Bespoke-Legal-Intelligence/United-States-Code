@@ -18,7 +18,7 @@ The Civil Service laws, referred to in text, are set forth in Title 5, Governmen
 
 #### Codification
 
-In the last par., “subchapter I of chapter 81 of title 5” substituted for “the Act entitled ‘An Act to provide compensation for employees of the United States suffering injuries while in the performance of their duties, and for other purposes,’ approved September 7, 1916, as amended” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+In the last par., “subchapter I of chapter 81 of title 5” substituted for “the Act entitled ‘An Act to providecompensation for employees of the United States suffering injuries while in the performance of their duties, and for other purposes,’ approved September 7, 1916, as amended” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 #### Amendments
 

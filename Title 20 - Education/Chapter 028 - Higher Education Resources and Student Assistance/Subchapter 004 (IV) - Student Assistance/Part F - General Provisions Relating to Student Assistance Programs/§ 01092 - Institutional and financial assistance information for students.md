@@ -2,7 +2,7 @@
 
 #### (a) Information dissemination activities
 
-(1) Each eligible institution participating in any program under this subchapter and part C of subchapter I of chapter 34 of title 42 shall carry out information dissemination activities for prospective and enrolled students (including those attending or planning to attend less than full time) regarding the institution and all financial assistance under this subchapter and part C of subchapter I of chapter 34 of title 42. The information required by this section shall be produced and be made readily available upon request, through appropriate publications, mailings, and electronic media, to an enrolled student and to any prospective student. Each eligible institution shall, on an annual basis, provide to all enrolled students a list of the information that is required to be provided by institutions to students by this section and section 1232g of this title, together with a statement of the procedures required to obtain such information. Theinformation required by this section shall accurately describe—
+(1) Each eligible institution participating in any program under this subchapter and part C of subchapter I of chapter 34 of title 42 shall carry out information dissemination activities for prospective and enrolled students (including those attending or planning to attend less than full time) regarding the institution and all financial assistance under this subchapter and part C of subchapter I of chapter 34 of title 42. The information required by this section shall be produced and be made readily available upon request, through appropriate publications, mailings, and electronic media, to an enrolled student and to any prospective student. Each eligible institution shall, on an annual basis, provide to all enrolled students a list of the information that is required to be provided by institutions to students by this section and section 1232g of this title, together with a statement of the procedures required to obtain such information. The information required by this section shall accurately describe—
 
 &emsp;(A) the student financial assistance programs available to students who enroll at such institution;
 
@@ -60,7 +60,7 @@
 
 #### (b) Exit counseling for borrowers
 
-(1)(A) Each eligible institution shall, through financial aid officers or otherwise, make available counseling to borrowers of loans which are made, insured, or guaranteed under part B (other than loans made pursuant to section 1078–2 of this title) of this subchapter or made under part C or D of this subchapter prior to the completion of the course of study for which the borrower enrolled at the institution or at the time of departure from such institution. The counseling required by this subsection shall include—
+(1)(A) Each eligible institution shall, through financial aid officers or otherwise, make available counseling to borrowers of loans which are made, insured, or guaranteed under part B\(other than loans made pursuant to section 1078–2 of this title) of this subchapter or made under part C or D of this subchapter prior to the completion of the course of study for which the borrower enrolled at the institution or at the time of departure from such institution. The counseling required by this subsection shall include—
 
 &emsp;(i) the average anticipated monthly repayments, a review of the repayment options available, and such debt and management strategies as the institution determines are designed to facilitate the repayment of such indebtedness; and
 
@@ -92,7 +92,7 @@ Each eligible institution shall designate an employee or group of employees who 
 
 (2) The Secretary, to the extent the information is available, shall compile information describing State and other prepaid tuition programs and savings programs and disseminate such information to States, eligible institutions, students, and parents in departmental publications.
 
-(3) The Secretary, to the extent practicable, shall update the Department's Internet site to include direct links to databases that contain information on public and private financial assistance programs. The Secretary shall only provide direct links to databases that can be accessed without charge and shall make reasonable efforts to verify that the databases includedin a direct link are not providing fraudulent information. The Secretary shall prominently display adjacent to any such direct link a disclaimer indicating that a direct link to a database does not constitute an endorsement or recommendation of the database, the provider of the database, or any services or products of such provider. The Secretary shall provide additional direct links to information resources from which students may obtain information about fraudulent and deceptive practices in the provision of services related to student financial aid.
+(3) The Secretary, to the extent practicable, shall update the Department's Internet site to include direct links to databases that contain information on public and private financial assistance programs. The Secretary shall only provide direct links to databases that can be accessed without charge and shall make reasonable efforts to verify that the databases included in a direct link are not providing fraudulent information. The Secretary shall prominently display adjacent to any such direct link a disclaimer indicating that a direct link to a database does not constitute an endorsement or recommendation of the database, the provider of the database, or any services or products of such provider. The Secretary shall provide additional direct links to information resources from which students may obtain information aboutfraudulent and deceptive practices in the provision of services related to student financial aid.
 
 #### (e) Disclosures required with respect to athletically related student aid
 
@@ -134,7 +134,7 @@ Each eligible institution shall designate an employee or group of employees who 
 
 (1) Each eligible institution participating in any program under this subchapter and part C of subchapter I of chapter 34 of title 42 shall on August 1, 1991, begin to collect the following information with respect to campus crime statistics and campus security policies of that institution, and beginning September 1, 1992, and each year thereafter, prepare, publish, and distribute, through appropriate publications or mailings, to all current students and employees, and to any applicant for enrollment or employment upon request, an annual security report containing at least the following information with respect to the campus security policies and campus crime statistics of that institution:
 
-&emsp;(A) A statement of current campus policies regarding procedures and facilities for students and others to report criminal actions orother emergencies occurring on campus and policies concerning the institution's response to such reports.
+&emsp;(A) A statement of current campus policies regarding procedures and facilities for students and others to report criminal actions or other emergencies occurring on campus and policies concerning the institution's response to such reports.
 
 &emsp;(B) A statement of current policies concerning security and access to campus facilities, including campus residences, and security considerations used in the maintenance of campus facilities.
 
@@ -175,6 +175,8 @@ Each eligible institution shall designate an employee or group of employees who 
 &emsp;(G) A statement of policy concerning the monitoring and recording through local police agencies of criminal activity at off-campus student organizations which are recognized by the institution and that are engaged in by students attending the institution, including those student organizations with off-campus housing facilities.
 
 &emsp;(H) A statement of policy regarding the possession, use, and sale of alcoholic beverages and enforcement of State underage drinking laws and a statement of policy regarding the possession, use, and sale of illegal drugs and enforcement of Federal and State drug laws and a description of any drug or alcohol abuse education programs as required under section 1011i of this title.
+
+&emsp;(I) A statement advising the campus community where law enforcement agency information provided by a State under section 14071(j) of title 42, concerning registered sex offenders may be obtained, such as the law enforcement office of the institution, a local law enforcement agency with jurisdiction for the campus, or a computer network address.
 
 (2) Nothing in this subsection shall be construed to authorize the Secretary to require particular policies, procedures, or practices by institutions of higher education with respect to campus crimes or campus security.
 
@@ -316,7 +318,7 @@ Each eligible institution shall designate an employee or group of employees who 
 
 #### (2) Special rule
 
-&emsp;For the purposes of subparagraph (G),<sup>2</sup> if a coach has responsibilities for more than one team and the institution does not allocatesuch coach's salary by team, the institution should divide the salary by the number of teams for which the coach has responsibility and allocate the salary among the teams on a basis consistent with the coach's responsibilities for the different teams.
+&emsp;For the purposes of subparagraph (G),<sup>2</sup> if a coach has responsibilities for more than one team and the institution does not allocate such coach's salary by team, the institution should divide the salary by the number ofteams for which the coach has responsibility and allocate the salary among the teams on a basis consistent with the coach's responsibilities for the different teams.
 
 #### (3) Disclosure of information to students and public
 
@@ -342,7 +344,7 @@ Each eligible institution shall designate an employee or group of employees who 
 
 &emsp;For the purposes of this subsection, the term “operating expenses” means expenditures on lodging and meals, transportation, officials, uniforms and equipment.
 
-(Pub. L. 89–329, title IV, §485, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1482; amended Pub. L. 100–50, §15(10), (11), June 3, 1987, 101 Stat. 357; Pub. L. 101–542, title I, §§103(a), (b), 104(a), title II, §204(a), Nov. 8, 1990, 104 Stat. 2381–2385; Pub. L. 101–610, title II, §§201–203, Nov. 16, 1990, 104 Stat. 3171, 3172; Pub. L. 102–26, §10(a)–(d), Apr. 9, 1991, 105 Stat. 128; Pub. L. 102–164, title VI, §603, Nov. 15, 1991, 105 Stat. 1066; Pub. L. 102–325, title IV, §486(a)–(c)(2), July 23, 1992, 106 Stat. 620, 621; Pub. L. 103–208, §2(h)(28)–(37), (k)(9), Dec. 20, 1993, 107 Stat. 2477, 2486; Pub. L. 103–382, title III, §360B(c), Oct. 20, 1994, 108 Stat. 3970; Pub. L. 104–208, div. A, title I, §101(e) \[title III, §308\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–262; Pub. L. 105–18, title VI, §60001(a), June 12, 1997, 111 Stat. 214; Pub. L. 105–244, title I, §102(b)(3), title IV, §486, Oct. 7, 1998, 112 Stat. 1622, 1741.)
+(Pub. L. 89–329, title IV, §485, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1482; amended Pub. L. 100–50, §15(10), (11), June 3, 1987, 101 Stat. 357; Pub. L. 101–542, title I, §§103(a), (b), 104(a), title II, §204(a), Nov. 8, 1990, 104 Stat. 2381–2385; Pub. L. 101–610, title II, §§201–203, Nov. 16, 1990, 104 Stat. 3171, 3172; Pub. L. 102–26, §10(a)–(d), Apr. 9, 1991, 105 Stat. 128; Pub. L. 102–164, title VI, §603, Nov. 15, 1991, 105 Stat. 1066; Pub. L. 102–325, title IV, §486(a)–(c)(2), July 23, 1992, 106 Stat. 620, 621; Pub. L. 103–208, §2(h)(28)–(37), (k)(9), Dec. 20, 1993, 107 Stat. 2477, 2486; Pub. L. 103–382, title III, §360B(c), Oct. 20, 1994, 108 Stat. 3970; Pub. L. 104–208, div. A, title I, §101(e) \[title III, §308\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–262; Pub. L. 105–18, title VI, §60001(a), June 12, 1997, 111 Stat. 214; Pub. L. 105–244, title I, §102(b)(3), title IV, §486, Oct. 7, 1998, 112 Stat. 1622, 1741; Pub. L. 106–386, div. B, title VI, §1601(c)(1), Oct. 28, 2000, 114 Stat. 1537.)
 
 #### References in Text
 
@@ -359,6 +361,8 @@ A prior section 1092, Pub. L. 89–329, title IV, §485, as added Pub. L. 96–3
 Another prior section 1092, Pub. L. 89–329, title V, §508, formerly §502, Nov. 8, 1965, 79 Stat. 1255; renumbered §508 and amended Pub. L. 90–35, §§2(b), 7, June 29, 1967, 81 Stat. 82, 93, prohibited the making of payments for religious purposes for authorized programs, prior to repeal by Pub. L. 94–482, title I, §151(a)(2), Oct. 12, 1976, 90 Stat. 2151.
 
 #### Amendments
+
+2000—Subsec. (f)(1)(I). Pub. L. 106–386 added subpar. (I).
 
 1998—Subsec. (a)(1). Pub. L. 105–244, §486(a)(1)(B), in introductory provisions, inserted after second sentence “Each eligible institution shall, on an annual basis, provide to all enrolled students a list of the information that is required to be provided by institutions to students by this section and section 1232g of this title, together with a statement of the procedures required to obtain such information.”
 
@@ -486,7 +490,7 @@ Subsec. (d). Pub. L. 103–208, §2(h)(36), inserted period at end of penultimat
 
 Subsec. (e)(9). Pub. L. 103–208, §2(h)(37), added subpar. (9).
 
-1992—Subsec. (a)(1)(F). Pub. L. 102–325, §486(a)(1), inserted “, as determined under section 1091b of thistitle,” after “of the institution” and “, which refunds shall be credited in the following order:” after “of this paragraph” and added cls. (i) to (viii).
+1992—Subsec. (a)(1)(F). Pub. L. 102–325, §486(a)(1), inserted “, as determined under section 1091b of this title,” after “of the institution” and “, which refunds shall be credited in the following order:” after “of this paragraph” and added cls. (i) to (viii).
 
 Subsec. (a)(1)(K). Pub. L. 102–325, §486(a)(2), struck out “and” at end.
 
@@ -544,6 +548,10 @@ Subsec. (f). Pub. L. 101–542, §204(a), added subsec. (f).
 
 Subsec. (d). Pub. L. 100–50, §15(11), inserted after second sentence “In addition, such information shall include information to enable borrowers to assess the practical consequences of loan consolidation, including differences in deferment eligibility, interest rates, monthly payments, and finance charges, and samples of loan consolidation profiles to illustrate such consequences.”
 
+#### Effective Date of 2000 Amendment
+
+Pub. L. 106–386, div. B, title VI, §1601(c)(2), Oct. 28, 2000, 114 Stat. 1538, provided that: “The amendment made by this subsection \[amending this section\] shall take effect 2 years after the date of the enactment of this Act \[Oct. 28, 2000\].”
+
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
@@ -574,13 +582,13 @@ Section 486(c)(3) of Pub. L. 102–325 provided that: “The amendment made by t
 
 &emsp;“(B) in the report required on September 1, 1993, include statistics concerning the occurrence on campus of offenses during (i) the period from August 1, 1991, to December 31, 1991, and (ii) the calendar year 1992;
 
-&emsp;“(C) in the report required on September 1, 1994, include statistics concerning the occurrence on campus of offenses during (i) the period from August 1, 1991, to December 31, 1991, and (ii) the calendar years 1992 and 1993; and
+&emsp;“(C) in the report required on September 1, 1994, include statistics concerning the occurrence on campusof offenses during (i) the period from August 1, 1991, to December 31, 1991, and (ii) the calendar years 1992 and 1993; and
 
 &emsp;“(D) in the report required on September 1 of 1995 and each succeeding year, include statistics concerning the occurrence on campus of offenses during the three calendar years preceding the year in which the report is made.”
 
 #### Effective Date of 1990 Amendment
 
-Section 104(b) of Pub. L. 101–542, as amended by Pub. L. 102–26, §10(e), Apr. 9, 1991, 105 Stat. 128, providedthat: “The report to the Secretary of Education required by the amendments made by this section \[amending this section\] shall be due on July 1, 1993, and annually thereafter, and shall cover the one-year period ending on June 30 of the preceding year.”
+Section 104(b) of Pub. L. 101–542, as amended by Pub. L. 102–26, §10(e), Apr. 9, 1991, 105 Stat. 128, provided that: “The report to the Secretary of Education required by the amendments made by this section \[amending this section\] shall be due on July 1, 1993, and annually thereafter, and shall cover the one-year period ending on June 30 of the preceding year.”
 
 Section 204(c) of Pub. L. 101–542 provided that: “The amendments made by this section \[amending this section\] shall take effect on September 1, 1991, except that the requirement of section 485(f)(1)(F) and (H) of the Higher Education Act of 1965 \[subsec. (f)(1)(F), (H) of this section\] (as added by this section) shall be applied to require statistics with respect to school years preceding the date of enactment of this Act \[Nov. 8, 1990\] only to the extent that data concerning such years is reasonably available.”
 

@@ -8,7 +8,7 @@ For the purpose of this chapter—
 
 &emsp;(3) “Federal agency” means an Executive agency or other agency of the United States, but does not include a member bank of the Federal Reserve System; and
 
-&emsp;(4) “State or local officer or employee” means an individual employed by a State or local agency whose principal employment is in connection with an activity which is financed in whole or in part by loans or grants made by the United States or a Federal agency, but does not include—
+&emsp;(4) “State or local officer or employee” means an individual employed by a State or local agency whose principal employment is inconnection with an activity which is financed in whole or in part by loans or grants made by the United States or a Federal agency, but does not include—
 
 &emsp;&emsp;(A) an individual who exercises no functions in connection with that activity; or
 
@@ -69,8 +69,4 @@ Standard changes are made to conform with the definitions applicable and the sty
 #### Effective Date of 1974 Amendment
 
 Amendment by Pub. L. 93–443 effective Jan. 1, 1975, see section 410(a) of Pub. L. 93–443, set out as a note under section 431 of Title 2, The Congress.
-
-#### Cross References
-
-Political activities of certain Federal employees and employees of the government of the District of Columbia, see section 7321 et seq. of this title.
 

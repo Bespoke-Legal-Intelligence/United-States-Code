@@ -54,7 +54,7 @@ Section 235 of chapter II (§§211–239) of title II of Pub. L. 98–473, as am
 
 &emsp;&emsp;“(II) the General Accounting Office has undertaken a study of the guidelines, and their potential impact in comparison with the operation of the existing sentencing and parole release system, and has, within one hundred and fifty days of submission of the guidelines, reported to the Congress the results of its study; and
 
-&emsp;&emsp;“(III) the day after the Congress has had six months after the date described in subclause (I) in which to examine the guidelines and consider the reports; and
+&emsp;&emsp;“(III) the day after the Congress has had six months after the date described in subclause (I) inwhich to examine the guidelines and consider the reports; and
 
 &emsp;&emsp;“(IV) section 212(a)(2) \[enacting chapters 227 and 229 of this title and repealing former chapters 227, 229, and 231 of this title\] takes effect, in the case of the initial sentencing guidelines so promulgated.
 
@@ -118,7 +118,7 @@ Section 211 of chapter II (§§211–239) of title II of Pub. L. 98–473 provid
 
 Pub. L. 104–132, title II, §209, Apr. 24, 1996, 110 Stat. 1240, provided that: “Not later than 90 days after the date of enactment of this subtitle \[Apr. 24, 1996\], the Attorney General shall promulgate guidelines, or amend existing guidelines, to carry out this subtitle \[subtitle A (§§201–211) of title II of Pub. L. 104–132, see Short Title of 1996 Amendment note set out above\] and the amendments made by this subtitle and to ensure that—
 
-&emsp;“(1) in all plea agreements negotiated by the United States, consideration is given to requesting that the defendant provide full restitution to all victims of all charges contained in the indictment or information, without regard to the counts to which the defendant actually pleaded; and
+&emsp;“(1) in all plea agreements negotiated by the United States, consideration is given to requesting that thedefendant provide full restitution to all victims of all charges contained in the indictment or information, without regard to the counts to which the defendant actually pleaded; and
 
 &emsp;“(2) orders of restitution made pursuant to the amendments made by this subtitle are enforced to the fullest extent of the law.”
 

@@ -16,7 +16,7 @@
 
 (2) A member of a reserve component who is eligible for special pay under this section for a month shall receive the full amount authorized in subsection (a) for that month regardless of the number of days during that month on which the member satisfies the eligibility criteria specified in such subsection.
 
-(c) Any determination of fact that is made in administering this section is conclusive. Such a determination may not be reviewed by anyother officer or agency of the United States unless there has been fraud or gross negligence. However, the determination may be changed on the basis of new evidence or for other good cause.
+(c) Any determination of fact that is made in administering this section is conclusive. Such a determination may not be reviewed by any other officer or agency of the United States unless there has been fraud or gross negligence. However, the determination may be changed on the basis of new evidence or for other good cause.
 
 (Added Pub. L. 88–132, §9(a)(1), Oct. 2, 1963, 77 Stat. 216; amended Pub. L. 89–132, §4, Aug. 21, 1965, 79 Stat. 547; Pub. L. 98–94, title IX, §905(a), (b)(1), Sept. 24, 1983, 97 Stat. 636, 637; Pub. L. 99–145, title VI, §638(a), Nov. 8, 1985, 99 Stat. 649; Pub. L. 101–510, div. A, title XIII, §1322(c)(6), Nov. 5, 1990, 104 Stat. 1672; Pub. L. 102–190, div. A, title VI, §§611(a), 613, Dec. 5, 1991, 105 Stat. 1376, 1377; Pub. L. 105–261, div. A, title VI, §621, Oct. 17, 1998, 112 Stat. 2042.)
 
@@ -70,5 +70,5 @@ Section 1111(a) of Pub. L. 101–510 provided that: “The Secretary of Defense 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 411a of this title; title 10 sections 701, 703, 1079; title 20 section 1087ee; title 24 section 412; title 26 section 112; title 42 section 1382a.
+This section is referred to in section 411a of this title; title 10 sections 701, 703, 1079, 1133; title 20 section 1087ee; title 24 section 412; title 26 section 112; title 42 section 1382a.
 

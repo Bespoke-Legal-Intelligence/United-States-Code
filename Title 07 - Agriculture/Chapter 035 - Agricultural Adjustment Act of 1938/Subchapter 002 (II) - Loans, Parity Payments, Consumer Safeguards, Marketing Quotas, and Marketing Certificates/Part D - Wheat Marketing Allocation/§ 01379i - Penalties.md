@@ -14,7 +14,7 @@ Any person who, in his capacity as a producer, knowingly violates or attempts to
 
 #### (d) Felonies; punishment
 
-Any person who falsely makes, issues, alters, forges, or counterfeits any marketing certificate, or with fraudulent intent possesses, transfers, or uses any such falsely made, issued, altered, forged, or counterfeited marketing certificate, shall be deemed guilty of a felony andupon conviction thereof shall be subject to a fine of not more than $10,000 or imprisonment of not more than ten years, or both.
+Any person who falsely makes, issues, alters, forges, or counterfeits any marketing certificate, or with fraudulent intent possesses, transfers, or uses any such falsely made, issued, altered, forged, or counterfeited marketing certificate, shall be deemed guilty of a felony and upon conviction thereof shall be subject to a fine of not more than $10,000 or imprisonment of not more than ten years, or both.
 
 (Feb. 16, 1938, ch. 30, title III, §379i, as added Pub. L. 87–703, title III, §324(2), Sept. 27, 1962, 76 Stat. 629; amended Pub. L. 89–321, title V, §510(b), Nov. 3, 1965, 79 Stat. 1205.)
 
@@ -36,23 +36,11 @@ Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, an
 
 Section inapplicable to wheat processors or exporters during period June 1, 1991, through May 31, 1996, see section 302 of Pub. L. 101–624, set out as a note under section 1379d of this title.
 
-Section inapplicable to wheat processors or exporters during period June 1, 1986, through May 31, 1991, see section 309 of Pub. L. 99–198, set out as a note under section 1379d of this title.
+Section inapplicable to wheat processors or exporters during period June 1, 1986, through May 31, 1991, seesection 309 of Pub. L. 99–198, set out as a note under section 1379d of this title.
 
 Section inapplicable to wheat processors or exporters during period June 1, 1982, through May 31, 1986, see section 302 of Pub. L. 97–98, set out as a note under section 1379d of this title.
 
 Section inapplicable to wheat processors or exporters during period July 1, 1973, through May 31, 1982, see section 403 of Pub. L. 95–113, set out as a note under section 1379d of this title.
 
 Section inapplicable to wheat processed or exported during period July 1, 1973, through June 30, 1978, see section 403(b) of Pub. L. 91–524, as added by section 1(10) of Pub. L. 93–86, set out as a note under section 1379d of this title.
-
-#### Cross References
-
-Fines, penalties and forfeitures—
-
-&emsp;&emsp;Generally, see section 2461 et seq. of Title 28, Judiciary and Judicial Procedure.
-
-&emsp;&emsp;Jurisdiction of district courts of actions for recovery of, see section 1355 of Title 28.
-
-&emsp;&emsp;United States as party generally, see section 2401 et seq. of Title 28.
-
-&emsp;&emsp;United States as plaintiff, jurisdiction of district courts, see section 1345 of Title 28.
 

@@ -10,7 +10,7 @@ In the making of appropriations under any provision of this Act or amendment mad
 
 #### (c) Prevention
 
-In the making of appropriations under any provision of this Act or amendment made by this Act that authorizes the making of an appropriation for a prevention program for a certain fiscal year in a certain amount out of the Violent Crime Reduction Trust Fund, not to exceed 10 percent of that amount is authorized to be appropriated for that fiscal year for any other prevention program for which appropriations are authorized by any other prevention provision of this Act or amendment made by this Act. The aggregate reduction in the authorization for any particular prevention program may not exceed 10 percent of the total amount authorized to be appropriated from the Violent Crime Reduction Trust Fund for that program in this Act or amendment made by this Act.
+In the making of appropriations under any provision of this Act or amendment made bythis Act that authorizes the making of an appropriation for a prevention program for a certain fiscal year in a certain amount out of the Violent Crime Reduction Trust Fund, not to exceed 10 percent of that amount is authorized to be appropriated for that fiscal year for any other prevention program for which appropriations are authorized by any other prevention provision of this Act or amendment made by this Act. The aggregate reduction in the authorization for any particular prevention program may not exceed 10 percent of the total amount authorized to be appropriated from the Violent Crime Reduction Trust Fund for that program in this Act or amendment made by this Act.
 
 #### (d) Definitions
 
@@ -114,7 +114,7 @@ In this section—“Federal law enforcement program” means a program authoriz
 
 &emsp;(15) section 40121;
 
-&emsp;(16) section 300w–10 of this title;
+&emsp;(16) section 300w–10 <sup>3</sup> of this title;
 
 &emsp;(17) section 13941 of this title;
 
@@ -197,6 +197,8 @@ Section 32101, referred to in subsec. (d), is section 32101 of Pub. L. 103–322
 Section 40114, referred to in subsec. (d), is section 40114 of Pub. L. 103–322, 108 Stat. 1910, which is not classified to the Code.
 
 Section 40121, referred to in subsec. (d), is section 40121 of Pub. L. 103–322, 108 Stat. 1910, which enacted subchapter XII–H (§3796gg et seq.) of chapter 46 of this title and amended sections 3793 and 3797 of this title.
+
+Section 300w–10 of this title, referred to in subsec. (d), was repealed by Pub. L. 106–386, div. B, title IV, §1401(b), Oct. 28, 2000, 114 Stat. 1513.
 
 Section 40156, referred to in subsec. (d), is section 40156 of Pub. L. 103–322, 108 Stat. 1922, which amended sections 3793, 3796aa–1 to 3796aa–3, 3796aa–5, 3796aa–6, 13012, 13014, 13021, and 13024 of this title and repealed sections 3796aa–4 and 3796aa–7 of this title.
 

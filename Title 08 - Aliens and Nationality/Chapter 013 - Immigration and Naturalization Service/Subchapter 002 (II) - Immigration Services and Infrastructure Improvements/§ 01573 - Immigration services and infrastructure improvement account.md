@@ -1,0 +1,36 @@
+### §1573. Immigration services and infrastructure improvement account
+
+#### (a) Authority of the Attorney General
+
+The Attorney General shall take such measures as may be necessary to—
+
+&emsp;(1) reduce the backlog in the processing of immigration benefit applications, with the objective of the total elimination of the backlog not later than one year after October 17, 2000;
+
+&emsp;(2) make such other improvements in the processing of immigration benefit applications as may be necessary to ensure that a backlog does not develop after such date; and
+
+&emsp;(3) make such improvements in infrastructure as may be necessary to effectively provide immigration services.
+
+#### (b) Authorization of appropriations
+
+#### (1) In general
+
+&emsp;There is authorized to be appropriated to the Department of Justice from time to time such sums as may be necessary for the Attorney General to carry out subsection (a) of this section.
+
+#### (2) Designation of account in treasury
+
+&emsp;Amounts appropriated pursuant to paragraph (1) may be referred to as the “Immigration Services and Infrastructure Improvements Account”.
+
+#### (3) Availability of funds
+
+&emsp;Amounts appropriated pursuant to paragraph (1) are authorized to remain available until expended.
+
+#### (4) Limitation on expenditures
+
+&emsp;None of the funds appropriated pursuant to paragraph (1) may be expended until the report described in section 1574(a) of this title has been submitted to Congress.
+
+(Pub. L. 106–313, title II, §204, Oct. 17, 2000, 114 Stat. 1263.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1574 of this title.
+

@@ -32,13 +32,13 @@
 
 &emsp;&emsp;&emsp;(ii) has been judicially annulled or terminated, other than through the death of a spouse; or
 
-&emsp;&emsp;(B) a fee or other consideration was given (other than a fee or other consideration to an attorney for assistance in preparation of a lawful petition) for the filing of a petition under section 1154(a) or 1184(d) of this title with respect to the alien;
+&emsp;&emsp;(B) a fee or other consideration was given (other than a fee or other consideration to an attorney for assistance in preparation of a lawful petition) for the filing of a petition under section 1154(a) of this title or subsection (d) or (p) of section 1184 of this title with respect to the alien;
 
 > &emsp;the Attorney General shall so notify the parties involved and, subject to paragraph (2), shall terminate the permanent resident status of the alien (or aliens) involved as of the date of the determination.
 
 #### (2) Hearing in removal proceeding
 
-&emsp;Any alien whose permanent resident status is terminated under paragraph (1) may request a review of such determination in a proceeding to remove the alien. In such proceeding, the burden of proof shall be on the Attorney General to establish, by a preponderance of the evidence, that a condition described in paragraph (1) is met.
+&emsp;Any alien whose permanent resident status is terminated under paragraph (1) may request a review of such determination in a proceedingto remove the alien. In such proceeding, the burden of proof shall be on the Attorney General to establish, by a preponderance of the evidence, that a condition described in paragraph (1) is met.
 
 #### (c) Requirements of timely petition and interview for removal of condition
 
@@ -120,7 +120,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(III) was not entered into for the purpose of procuring an alien's admission as an immigrant; and
 
-&emsp;&emsp;&emsp;(ii) no fee or other consideration was given (other than a fee or other consideration to an attorney for assistance in preparation of a lawful petition) for the filing of a petition under section 1154(a) or 1184(d) of this title with respect to the alien spouse or alien son or daughter.
+&emsp;&emsp;&emsp;(ii) no fee or other consideration was given (other than a fee or other consideration to an attorney for assistance in preparation of a lawful petition) for the filing of a petition under section 1154(a) of this title or subsection (d) or (p) of section 1184 of this title with respect to the alien spouse or alien son or daughter.
 
 #### (B) Statement of additional information
 
@@ -176,13 +176,15 @@ In this section:
 
 &emsp;(4) The term “petitioning spouse” means the spouse of a qualifying marriage, other than the alien.
 
-(June 27, 1952, ch. 477, title II, ch. 2, §216, as added Pub. L. 99–639, §2(a), Nov. 10, 1986, 100 Stat. 3537; amended Pub. L. 100–525, §7(a), Oct. 24, 1988, 102 Stat. 2616; Pub. L. 101–649, title VII, §701(a), Nov. 29, 1990, 104 Stat. 5085; Pub. L. 102–232, title III, §302(e)(8)(B), Dec. 12, 1991, 105 Stat. 1746; Pub. L. 103–322, title IV, §40702(a), Sept. 13, 1994, 108 Stat. 1955; Pub. L. 104–208, div. C, title III, §308(d)(4)(E), (e)(7), (f)(1)(I), (J), Sept. 30, 1996, 110 Stat. 3009–618, 3009–620, 3009–621.)
+(June 27, 1952, ch. 477, title II, ch. 2, §216, as added Pub. L. 99–639, §2(a), Nov. 10, 1986, 100 Stat. 3537; amended Pub. L. 100–525, §7(a), Oct. 24, 1988, 102 Stat. 2616; Pub. L. 101–649, title VII, §701(a), Nov. 29, 1990, 104 Stat. 5085; Pub. L. 102–232, title III, §302(e)(8)(B), Dec. 12, 1991, 105 Stat. 1746; Pub. L. 103–322, title IV, §40702(a), Sept. 13, 1994, 108 Stat. 1955; Pub. L. 104–208, div. C, title III, §308(d)(4)(E), (e)(7), (f)(1)(I), (J), Sept. 30, 1996, 110 Stat. 3009–618, 3009–620, 3009–621; Pub. L. 106–553, §1(a)(2) \[title XI, §1103(c)(2)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–145.)
 
 #### Codification
 
 Another section 216 of act June 27, 1952, was renumbered section 218 and is classified to section 1188 of this title.
 
 #### Amendments
+
+2000—Subsecs. (b)(1)(B), (d)(1)(A)(ii). Pub. L. 106–553 substituted “section 1154(a) of this title or subsection (d) or (p) of section 1184 of this title” for “section 1154(a) or 1184(d) of this title”.
 
 1996—Subsec. (b)(1)(A)(i). Pub. L. 104–208, §308(f)(1)(I), substituted “admission” for “entry”.
 
@@ -209,6 +211,10 @@ Subsec. (f). Pub. L. 104–208, §308(d)(4)(E), substituted “inadmissibility�
 1988—Pub. L. 100–525, §7(a)(1), made technical amendment to directory language of Pub. L. 99–639, §2(a), which enacted this section.
 
 Subsec. (c)(3)(A). Pub. L. 100–525, §7(a)(2), substituted “90 days” for “90-days”.
+
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–553 effective Dec. 21, 2000, and applicable to alien who is beneficiary of classification petition filed under section 1154 of this title before, on, or after Dec. 21, 2000, see section 1(a)(2) \[title XI, §1103(d)\] of Pub. L. 106–553, set out as a note under section 1101 of this title.
 
 #### Effective Date of 1996 Amendment
 

@@ -10,7 +10,3 @@ R.S. §203 derived from acts July 27, 1789, ch. 4, §§2, 4, 1 Stat. 29; Sept. 1
 
 Section was formerly classified to section 158 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 
-#### Cross References
-
-Postal Service, seal to be filed by the Board of Governors of the Postal Service in office of Secretary of State, see section 207 of Title 39, Postal Service.
-

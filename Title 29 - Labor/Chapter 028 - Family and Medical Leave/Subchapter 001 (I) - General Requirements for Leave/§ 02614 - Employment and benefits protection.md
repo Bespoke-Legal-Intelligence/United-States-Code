@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in subsection (b) of this section, any eligible employee who takes leave under section 2612 of this title for the intended purpose of the leave shall be entitled, on return from such leave—
+&emsp;Except as provided in subsection (b) of this section, any eligible employee who takes leaveunder section 2612 of this title for the intended purpose of the leave shall be entitled, on return from such leave—
 
 &emsp;&emsp;(A) to be restored by the employer to the position of employment held by the employee when the leave commenced; or
 

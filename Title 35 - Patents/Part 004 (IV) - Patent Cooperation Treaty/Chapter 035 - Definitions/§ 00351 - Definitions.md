@@ -20,7 +20,7 @@ When used in this part unless the context otherwise indicates—
 
 (i) Terms and expressions not defined in this part are to be taken in the sense indicated by the treaty and the Regulations.
 
-(Added Pub. L. 94–131, §1, Nov. 14, 1975, 89 Stat. 685; amended Pub. L. 98–622, title IV, §403(a), Nov. 8, 1984, 98 Stat. 3392; Pub. L. 99–616, §2(a)–(c), Nov. 6, 1986, 100 Stat. 3485; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582.)
+(Added Pub. L. 94–131, §1, Nov. 14, 1975, 89 Stat. 685; amended Pub. L. 98–622, title IV, §403(a), Nov. 8, 1984, 98 Stat. 3392; Pub. L. 99–616, §2(a)–(c), Nov. 6, 1986, 100 Stat. 3485; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV,§4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582.)
 
 #### Amendments
 
@@ -42,7 +42,7 @@ Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see secti
 
 Section 9 of Pub. L. 99–616 provided that: “Sections 2 through 8 of this Act \[amending this section and sections 361, 362, 364, 368, 371, and 376 of this title\] shall come into force on the same day as the effective date of entry into force of chapter II of the Patent Cooperation Treaty with respect to the United States, by virtue of the withdrawal of the declaration under article 64(1)(a) of the Patent Cooperation Treaty. It shall apply to all international applications pending before or after its effective date.”
 
-\[The Patent Cooperation Treaty became effective for the United States on Jan. 24, 1978. The United States, however, was one of six countries (out of the 40 countries who have ratified or acceded to the Treaty) which had reservations not to be bound by Chapter II. The document removing the reservation as to Chapter II was deposited with the Director General of the WorldIntellectual Property Organization on Apr. 1, 1987. Accordingly, Chapter II of the Treaty for the United States of America and Pub. L. 99–616 became effective 3 months later on July 1, 1987. See 52 F.R. 20038, 20041, May 28, 1987.\]
+\[The Patent Cooperation Treaty became effective for the United States on Jan. 24, 1978. The United States, however, was one of six countries (out of the 40 countries who have ratified or acceded to the Treaty) which had reservations not to be bound by Chapter II. The document removing the reservation as to Chapter II was deposited with the Director General of the World Intellectual Property Organization on Apr. 1, 1987. Accordingly, Chapter II of the Treaty for the United States of America and Pub. L. 99–616 became effective 3 months later on July 1, 1987. See 52 F.R. 20038, 20041, May 28, 1987.\]
 
 #### Effective Date of 1984 Amendment
 

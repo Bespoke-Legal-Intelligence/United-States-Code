@@ -32,7 +32,7 @@ Shall be fined under this title or imprisoned not more than ten years, or both.
 
 (4) Notwithstanding section 524(c) of title 28, there shall be deposited in the Crime Victims Fund in the Treasury all amounts from the forfeiture of property under this subsection remaining after the payment of expenses for forfeiture and sale authorized by law.
 
-(June 25, 1948, ch. 645, 62 Stat. 736; Sept. 23, 1950, ch. 1024, title I, §18, 64 Stat. 1003; Pub. L. 99–399, title XIII, §1306(a), Aug. 27, 1986, 100 Stat. 898; Pub. L. 103–322, title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 103–359, title VIII, §804(b)(1), Oct. 14, 1994, 108 Stat. 3440; Pub. L. 104–294, title VI, §607(b), Oct. 11, 1996, 110 Stat. 3511.)
+(June 25, 1948, ch. 645, 62 Stat. 736; Sept. 23, 1950, ch. 1024, title I, §18, 64 Stat. 1003; Pub. L. 99–399, title XIII, §1306(a), Aug. 27, 1986, 100 Stat. 898;Pub. L. 103–322, title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 103–359, title VIII, §804(b)(1), Oct. 14, 1994, 108 Stat. 3440; Pub. L. 104–294, title VI, §607(b), Oct. 11, 1996, 110 Stat. 3511.)
 
 #### Historical and Revision Notes
 
@@ -63,30 +63,6 @@ Subsec. (h)(3). Pub. L. 103–359 substituted “(p)” for “(<i>o</i>)” in 
 #### Indictment for Violating This Section; Limitation Period
 
 Limitation period in connection with indictments for violating this section, see note set out under section 792 of this title.
-
-#### Canal Zone
-
-Applicability of section to Canal Zone, see section 14 of this title.
-
-#### Cross References
-
-Activities affecting armed forces—
-
-&emsp;Generally, see section 2387 of this title.
-
-&emsp;During war, see section 2388 of this title.
-
-Classified information, disclosure by Government official, or other person, penalty for, see section 783 of Title 50, War and National Defense, and section 798 of this title.
-
-Federal retirement benefits, forfeiture upon conviction of offenses described under this section, see section 8312 of Title 5, Government Organization and Employees.
-
-Forfeiture of veterans’ benefits upon conviction under this section, see section 6105 of Title 38, Veterans’ Benefits.
-
-Jurisdiction of offenses, see section 3241 of this title.
-
-Letters, writings, etc., in violation of this section as nonmailable, see section 1717 of this title.
-
-Veterans’ benefits, forfeiture upon conviction under this section, see section 6105 of Title 38, Veterans’ Benefits.
 
 #### Section Referred to in Other Sections
 

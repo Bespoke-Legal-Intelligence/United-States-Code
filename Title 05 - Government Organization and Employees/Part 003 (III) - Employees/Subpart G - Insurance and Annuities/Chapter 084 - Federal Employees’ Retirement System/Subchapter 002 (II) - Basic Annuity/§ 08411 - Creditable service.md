@@ -88,9 +88,19 @@
 
 (h) An employee or Member shall be allowed credit for service as a volunteer or volunteer leader under part A of title VIII of the Economic Opportunity Act of 1964, as a full-time volunteer enrolled in a program of at least 1 year's duration under part A, B, or C of title I of the Domestic Volunteer Service Act of 1973, or as a volunteer or volunteer leader under the Peace Corps Act performed at any time prior to the separation on which the entitlement to any annuity under this subchapter is based if the employee or Member has made a deposit with interest, if any, with respect to such service under section 8422(f).
 
-(i) For purposes of subsection (b)(5), the term “Bank Plan” means the benefit structure in which employees of the Board of Governors of the Federal Reserve System appointed on or after January 1, 1984, participate, which benefit structure is a component of the Retirement Plan for Employees of the Federal Reserve System, established under section 10 of the Federal Reserve Act (and any redesignated or successor version of such benefit structure, if so identified in writing by the Board of Governors of the Federal Reserve System for purposes of this chapter).
+(i) <sup>2</sup> For purposes of subsection (b)(5), the term “Bank Plan” means the benefit structure inwhich employees of the Board of Governors of the Federal Reserve System appointed on or after January 1, 1984, participate, which benefit structure is a component of the Retirement Plan for Employees of the Federal Reserve System, established under section 10 of the Federal Reserve Act (and any redesignated or successor version of such benefit structure, if so identified in writing by the Board of Governors of the Federal Reserve System for purposes of this chapter).
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 522; amended Pub. L. 99–556, title I, §103, title V, §502(b), Oct. 27, 1986, 100 Stat. 3131, 3140; Pub. L. 100–238, title I, §§104(b), 105(a), Jan. 8, 1988, 101 Stat. 1746; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–242, titleIV, §466(b), Dec. 19, 1991, 105 Stat. 2385; Pub. L. 103–82, title III, §371(b)(1), Sept. 21, 1993, 107 Stat. 910; Pub. L. 103–337, div. A, title XVI, §1677(a)(3), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 104–201, div. A, title VI, §637(b), Sept. 23, 1996, 110 Stat. 2580; Pub. L. 106–168, title II, §202(a), Dec. 12, 1999, 113 Stat. 1817.)
+(i)(1) <sup>2</sup> Upon application to the Office of Personnel Management, any individual who was an employee on the date of enactment of this paragraph, and who has on such date or thereafter acquired 5 years or more of creditable civilian service under this section (exclusive of service for which credit is allowed under this subsection) shall be allowed credit (as service as a congressional employee) for service before December 31, 1990, while employed by the Democratic Senatorial Campaign Committee, the Republican Senatorial Campaign Committee, the Democratic National Congressional Committee, or the Republican National Congressional Committee, if—
+
+&emsp;(A) such employee has at least 4 years and 6 months of service on such committees as of December 31, 1990; and
+
+&emsp;(B) such employee deposits to the Fund an amount equal to 1.3 percent of the base pay for such service, with interest.
+
+(2) The Office shall accept the certification of the President of the Senate (or the President's designee) or the Speaker of the House of Representatives (or the Speaker's designee), as the case may be, concerning the service of, and the amount of compensation received by, an employee with respect to whom credit is to be sought under this subsection.
+
+(3) An individual shall not be granted credit for such service under this subsection if eligible for credit under section 8332(m) for such service.
+
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 522; amended Pub. L. 99–556, title I, §103, title V, §502(b), Oct. 27, 1986, 100 Stat. 3131, 3140; Pub. L. 100–238, title I, §§104(b), 105(a), Jan. 8, 1988, 101 Stat. 1746; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–242, title IV, §466(b), Dec. 19, 1991, 105 Stat. 2385; Pub. L. 103–82, title III, §371(b)(1), Sept. 21, 1993, 107 Stat. 910; Pub. L. 103–337, div. A, title XVI, §1677(a)(3), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 104–201, div. A, title VI, §637(b), Sept. 23, 1996, 110 Stat. 2580; Pub. L. 106–168, title II, §202(a), Dec. 12, 1999, 113 Stat. 1817; Pub. L. 106–554, §1(a)(4) \[div. A, §901(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–196.)
 
 #### References in Text
 
@@ -110,11 +120,15 @@ Parts A, B, and C of title I of the Domestic Volunteer Service Act of 1973, refe
 
 The Peace Corps Act, referred to in subsec. (h), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, which is classified principally to chapter 34 (§2501 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of Title 22 and Tables.
 
+The date of enactment of this paragraph, referred to in subsec. (i)(1), is the date of enactment of Pub. L. 106–554, which was approved Dec. 21, 2000.
+
 #### Amendments
+
+2000—Subsec. (i). Pub. L. 106–554 added subsec. (i) relating to credit for service as congressional employee for certain service before Dec. 31, 1990.
 
 1999—Subsec. (b). Pub. L. 106–168, §202(a)(1), in par. (3), struck out “and” at end, in par. (4), substituted “other paragraph” for “of the preceding provisions” and “; and” for period at end, and added par. (5) and concluding provisions.
 
-Subsec. (i). Pub. L. 106–168, §202(a)(2), added subsec. (i).
+Subsec. (i). Pub. L. 106–168, §202(a)(2), added subsec. (i) defining “Bank Plan” for purposes of subsec. (b)(5).
 
 1996—Subsec. (c)(1). Pub. L. 104–201, §637(b)(2), in introductory provisions, substituted “Except as provided in paragraphs (2), (3), and (5)” for “Except as provided in paragraph (2) or (3)”.
 
@@ -166,7 +180,9 @@ Amendment by section 502(b) of Pub. L. 99–556 applicable to a survivor of an e
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 8401, 8410, 8432, 8442, 8443, 8451 of this title; title 2 section 121b; title 16 section 460<i>lll</i>–47; title 38 section 7426; title 40 section 214d; title 50 section 2154.
+This section is referred to in sections 8401, 8410, 8432, 8442, 8443, 8451 of this title; title 2 sections 121b, 162b; title 16 section 460<i>lll</i>–47; title 38 section 7426; title 40 section 214d; title 50 section 2154.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Two subsecs. (i) have been enacted.</i>
 

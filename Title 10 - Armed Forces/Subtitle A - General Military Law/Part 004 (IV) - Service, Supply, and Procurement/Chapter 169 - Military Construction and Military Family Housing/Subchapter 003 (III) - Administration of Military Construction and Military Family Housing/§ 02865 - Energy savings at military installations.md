@@ -6,7 +6,7 @@ Energy Performance Goal and Plan.—(1) The Secretary of Defense shall designate
 
 (2) To achieve the goal designated under paragraph (1), the Secretary shall develop a comprehensive plan to identify and accomplish energy conservation measures to achieve maximum cost-effective energy savings.
 
-(3) For the purpose of implementing any energy performance plan, the Secretary shall provide that the selection of energy conservation measures, including energy efficient maintenance or water efficient maintenance, undersuch plan shall be limited to those with a positive net present value over a period of 10 years or less.
+(3) For the purpose of implementing any energy performance plan, the Secretary shall provide that the selection of energy conservation measures, including energy efficient maintenance or water efficient maintenance, under such plan shall be limited to those with a positive net present value over a period of 10 years or less.
 
 (4) In paragraph (3), the term “energy efficient maintenance or water efficient maintenance” includes—
 
@@ -16,7 +16,7 @@ Energy Performance Goal and Plan.—(1) The Secretary of Defense shall designate
 
 &emsp;&emsp;(ii) will meet the same end needs as the equipment or system being repaired; and
 
-&emsp;(B) improvements in an operation or maintenance process, such as improved training or improved controls, that result in reduced costs through energy savings or water cost savings.
+&emsp;(B) improvements in an operation or maintenance process, such as improved training orimproved controls, that result in reduced costs through energy savings or water cost savings.
 
 (b)
 
@@ -68,7 +68,7 @@ Energy Saving Activities.—(1) The Secretary of Defense shall permit and encour
 
 (e)
 
-Energy Conservation Construction Projects.—(1) The Secretary of Defense may carry out a military construction project for energy conservation, not previously authorized, using funds appropriated or otherwise made available for that purpose.
+Energy Conservation Construction Projects.—(1) The Secretary of Defense maycarry out a military construction project for energy conservation, not previously authorized, using funds appropriated or otherwise made available for that purpose.
 
 (2) When a decision is made to carry out a project under paragraph (1), the Secretary of Defense shall notify in writing the appropriate committees of Congress of that decision. The project may then be carried out only after the end of the 21-day period beginning on the date the notification is received by such committees.
 
@@ -131,10 +131,6 @@ Subsec. (c). Pub. L. 102–484, §2801(e)(3), inserted heading.
 Subsecs. (d), (e). Pub. L. 102–484, §2801(a)(3), (b), added subsecs. (d) and (e). Former subsec. (d) redesignated (f).
 
 Subsec. (f). Pub. L. 102–484, §2801(a)(2), (d), (e)(4), redesignated subsec. (d) as (f), inserted heading, and substituted “not later than December 31 of each year” for “Beginning with fiscal year 1991 and by no later than December 31, 1991, and of each year thereafter”.
-
-#### Retention of Savings and Rebates
-
-For provisions requiring Director of Office of Management and Budget to develop guidelines and to implement procedures to allow agencies to retain savings from energy efficiency efforts as provided in this section, see Ex. Ord. No. 12902, §502, Mar. 8, 1994, 59 F.R. 11469, set out as a note under section 6201 of Title 42, The Public Health and Welfare.
 
 #### Section Referred to in Other Sections
 

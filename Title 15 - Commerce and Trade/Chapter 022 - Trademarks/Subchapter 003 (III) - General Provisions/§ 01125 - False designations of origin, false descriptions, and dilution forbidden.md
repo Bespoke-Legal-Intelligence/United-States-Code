@@ -2,7 +2,7 @@
 
 #### (a) Civil action
 
-(1) Any person who, on or in connection with any goods or services, or any container for goods, uses in commerce any word, term, name, symbol, or device, or any combination thereof, or any false designation of origin, false or misleading description of fact, or false or misleading representation of fact, which—
+(1) Any person who, on or in connection with any goods or services, or any container for goods, uses in commerce any word, term, name, symbol, or device, or any combination thereof,or any false designation of origin, false or misleading description of fact, or false or misleading representation of fact, which—
 
 &emsp;(A) is likely to cause confusion, or to cause mistake, or to deceive as to the affiliation, connection, or association of such person with another person, or as to the origin, sponsorship, or approval of his or her goods, services, or commercial activities by another person, or
 
@@ -38,7 +38,7 @@ Any goods marked or labeled in contravention of the provisions of this section s
 
 &emsp;(H) whether the mark was registered under the Act of March 3, 1881, or the Act of February 20, 1905, or on the principal register.
 
-(2) In an action brought under this subsection, the owner of the famous mark shall be entitled only to injunctive relief as set forth in section 1116 of this title unless the person against whom the injunction is sought willfully intended totrade on the owner's reputation or to cause dilution of the famous mark. If such willful intent is proven, the owner of the famous mark shall also be entitled to the remedies set forth in sections 1117(a) and 1118 of this title, subject to the discretion of the court and the principles of equity.
+(2) In an action brought under this subsection, the owner of the famous mark shall be entitled only to injunctive relief as set forth in section 1116 of this title unless the person against whom the injunction is sought willfully intended to trade on the owner's reputation or to cause dilution of the famous mark. If such willful intent is proven, the owner of the famous mark shall also be entitled to the remedies set forth in sections 1117(a) and 1118 of this title, subject to the discretion of the court and the principles of equity.
 
 (3) The ownership by a person of a valid registration under the Act of March 3, 1881, or the Act of February 20, 1905, or on the principal register shall be a complete bar to an action against that person, with respect to that mark, that is brought by another person under the common law or a statute of a State and that seeks to prevent dilution of the distinctiveness of a mark, label, or form of advertisement.
 
@@ -126,7 +126,7 @@ Any goods marked or labeled in contravention of the provisions of this section s
 
 (4) The in rem jurisdiction established under paragraph (2) shall be in addition to any other jurisdiction that otherwise exists, whether in rem or in personam.
 
-(July 5, 1946, ch. 540, title VIII, §43, 60 Stat. 441; Pub. L. 100–667, title I, §132, Nov. 16, 1988, 102 Stat. 3946; Pub. L. 102–542, §3(c), Oct. 27, 1992, 106 Stat. 3568; Pub. L. 104–98, §3(a), Jan. 16, 1996, 109 Stat. 985; Pub. L. 106–43, §§3(a)(2), 5, Aug. 5, 1999, 113 Stat. 219, 220; Pub. L. 106–113, div. B, §1000(a)(9) \[title III, §3002(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–545.)
+(July 5, 1946, ch. 540, title VIII, §43, 60 Stat. 441; Pub. L. 100–667, title I, §132, Nov. 16, 1988, 102 Stat. 3946; Pub. L. 102–542, §3(c), Oct. 27, 1992, 106 Stat. 3568; Pub. L. 104–98, §3(a), Jan. 16, 1996, 109Stat. 985; Pub. L. 106–43, §§3(a)(2), 5, Aug. 5, 1999, 113 Stat. 219, 220; Pub. L. 106–113, div. B, §1000(a)(9) \[title III, §3002(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–545.)
 
 #### References in Text
 
@@ -176,7 +176,7 @@ Pub. L. 106–113, div. B, §1000(a)(9) \[title III, §3006\], Nov. 29, 1999, 11
 
 “(a)
 
-In General.—Not later than 180 days after the date of the enactment of this Act \[Nov. 29, 1999\], the Secretary of Commerce, in consultation with the Patent and Trademark Office and the Federal Election Commission, shall conduct a study and report to Congress with recommendations on guidelines and procedures for resolving disputes involving the registration or use by a person of a domain name that includes the personal name of another person, in whole or in part,or a name confusingly similar thereto, including consideration of and recommendations for—
+In General.—Not later than 180 days after the date of the enactment of this Act \[Nov. 29, 1999\], the Secretary of Commerce, in consultation with the Patent and Trademark Office and the Federal Election Commission, shall conduct a study and report to Congress with recommendations on guidelines and procedures for resolving disputes involving the registration or use by a person of a domain name that includes the personal name of another person, in whole or in part, or a name confusingly similar thereto, including consideration of and recommendations for—
 
 &emsp;“(1) protecting personal names from registration by another person as a second level domain name for purposes of selling or otherwise transferring such domain name to such other person or any third party for financial gain;
 
@@ -193,12 +193,6 @@ In General.—Not later than 180 days after the date of the enactment of this Ac
 “(b)
 
 Guidelines and Procedures.—The Secretary of Commerce shall, under its Memorandum of Understanding with the Internet Corporation for Assigned Names and Numbers, collaborate to develop guidelines and procedures for resolving disputes involving the registration or use by a person of a domain name that includes the personal name of another person, in whole or in part, or a name confusingly similar thereto.”
-
-#### Cross References
-
-Jurisdiction of protests and appeals under customs law, see sections 1582 and 1583 of Title 28, Judiciary and Judicial Procedure.
-
-Protest against decision of collector of customs, see section 1514 of Title 19, Customs Duties.
 
 #### Section Referred to in Other Sections
 

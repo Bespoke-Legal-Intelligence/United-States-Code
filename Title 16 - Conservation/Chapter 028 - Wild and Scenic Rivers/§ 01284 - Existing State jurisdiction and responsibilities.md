@@ -18,7 +18,7 @@ The jurisdiction of the States over waters of any stream included in a national 
 
 #### (e) Interstate compacts
 
-Nothing contained in this chapter shall be construed to alter, amend, repeal, interpret, modify, or be in conflict with any interstate compact made by any States which contain any portion of the national wild and scenic rivers system.
+Nothing contained in this chapter shall be construed to alter, amend, repeal, interpret,modify, or be in conflict with any interstate compact made by any States which contain any portion of the national wild and scenic rivers system.
 
 #### (f) Rights of access to streams
 

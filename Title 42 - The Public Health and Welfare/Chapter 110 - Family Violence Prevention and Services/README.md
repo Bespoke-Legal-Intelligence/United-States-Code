@@ -15,6 +15,7 @@
 | (b) | Determination of population of States. |
 | (c) | Ratable reduction of amounts; increase on availability of additional funds. |
 | (d) | Reallotment; continued availability of funds. |
+| (e) | Exclusion from definition of “State”. |
 | [10404\.](%C2%A7%2010404%20-%20Secretarial%20responsibilities.md) | Secretarial responsibilities. |
 | [10405\.](%C2%A7%2010405%20-%20Evaluation.md) | Evaluation. |
 | [10406\.](%C2%A7%2010406%20-%20Discrimination%20prohibited.md) | Discrimination prohibited. |
@@ -81,12 +82,26 @@
 | (g) | Use of grant monies. |
 | (h) | Authorization of appropriations. |
 | (i) | Regulations. |
+| [10419\.](%C2%A7%2010419%20-%20Transitional%20housing%20assistance.md) | Transitional housing assistance. |
+| (a) | In general. |
+| (b) | Assistance described. |
+| (c) | Term of assistance. |
+| (d) | Reports. |
+| (e) | Evaluation, monitoring, and administration. |
+| (f) | Authorization of appropriations. |
+| [10420\.](%C2%A7%2010420%20-%20Safe%20havens%20for%20children%20pilot%20program.md) | Safe havens for children pilot program. |
+| (a) | In general. |
+| (b) | Considerations. |
+| (c) | Applicant requirements. |
+| (d) | Reporting. |
+| (e) | Authorization of appropriations. |
+| (f) | Allotment for Indian tribes. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in title 31 section 6703.
+This chapter is referred to in section 3796gg of this title; title 31 section 6703.
 
 
 ---
@@ -111,3 +126,5 @@ This chapter is referred to in title 31 section 6703.
 - [&sect; 10416 - National domestic violence hotline grant](%C2%A7%2010416%20-%20National%20domestic%20violence%20hotline%20grant.md)
 - [&sect; 10417 - Youth education and domestic violence](%C2%A7%2010417%20-%20Youth%20education%20and%20domestic%20violence.md)
 - [&sect; 10418 - Demonstration grants for community initiatives](%C2%A7%2010418%20-%20Demonstration%20grants%20for%20community%20initiatives.md)
+- [&sect; 10419 - Transitional housing assistance](%C2%A7%2010419%20-%20Transitional%20housing%20assistance.md)
+- [&sect; 10420 - Safe havens for children pilot program](%C2%A7%2010420%20-%20Safe%20havens%20for%20children%20pilot%20program.md)

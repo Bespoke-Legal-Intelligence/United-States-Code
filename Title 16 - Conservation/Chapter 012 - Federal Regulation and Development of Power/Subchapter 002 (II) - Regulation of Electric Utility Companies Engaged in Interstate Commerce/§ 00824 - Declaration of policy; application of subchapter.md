@@ -40,7 +40,7 @@ No provision in this subchapter shall apply to, or be deemed to include, the Uni
 
 (2) Where a State commission issues an order pursuant to paragraph (1), the State commission shall not publicly disclose trade secrets or sensitive commercial information.
 
-(3) Any United States district court located in the State in which the State commission referred to in paragraph (1) is located shall havejurisdiction to enforce compliance with this subsection.
+(3) Any United States district court located in the State in which the State commission referred to in paragraph (1) is located shall have jurisdiction to enforce compliance with this subsection.
 
 (4) Nothing in this section shall—
 
@@ -80,7 +80,7 @@ Section 214 of Pub. L. 95–617 provided that:
 
 “(a)
 
-Prior Actions.—No provision of this title \[enacting sections 823a, 824i to 824k, 824a–1 to 824a–3 and 825q–1 of this title, amending sections 796, 824, 824a, 824d, and 825d of this title and enacting provisions set out as notes under sections 824a, 824d, and 825d of this title\] or of any amendment made by this title shall apply to, or affect, any action taken by the Commission before the date of the enactment of this Act \[Nov. 9, 1978\].
+Prior Actions.—No provision of this title \[enacting sections 823a, 824i to 824k, 824a–1 to 824a–3 and825q–1 of this title, amending sections 796, 824, 824a, 824d, and 825d of this title and enacting provisions set out as notes under sections 824a, 824d, and 825d of this title\] or of any amendment made by this title shall apply to, or affect, any action taken by the Commission before the date of the enactment of this Act \[Nov. 9, 1978\].
 
 “(b)
 

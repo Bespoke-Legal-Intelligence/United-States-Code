@@ -1,0 +1,132 @@
+### §1962d–22. Great Lakes fishery and ecosystem restoration
+
+#### (a) Findings
+
+Congress finds that—
+
+&emsp;(1) the Great Lakes comprise a nationally and internationally significant fishery and ecosystem;
+
+&emsp;(2) the Great Lakes fishery and ecosystem should be developed and enhanced in a coordinated manner; and
+
+&emsp;(3) the Great Lakes fishery and ecosystem provides a diversity of opportunities, experiences, and beneficial uses.
+
+#### (b) Definitions
+
+In this section, the following definitions apply:
+
+#### (1) Great Lake
+
+#### (A) In general
+
+&emsp;&emsp;The term “Great Lake” means Lake Superior, Lake Michigan, Lake Huron (including Lake St. Clair), Lake Erie, and Lake Ontario (including the St. Lawrence River to the 45th parallel of latitude).
+
+#### (B) Inclusions
+
+&emsp;&emsp;The term “Great Lake” includes any connecting channel, historically connected tributary, and basin of a lake specified in subparagraph (A).
+
+#### (2) Great Lakes Commission
+
+&emsp;The term “Great Lakes Commission” means the Great Lakes Commission established by the Great Lakes Basin Compact (82 Stat. 414).
+
+#### (3) Great Lakes Fishery Commission
+
+&emsp;The term “Great Lakes Fishery Commission” has the meaning given the term “Commission” in section 931 of title 16.
+
+#### (4) Great Lakes State
+
+&emsp;The term “Great Lakes State” means each of the States of Illinois, Indiana, Michigan, Minnesota, Ohio, Pennsylvania, New York, and Wisconsin.
+
+#### (c) Great Lakes fishery and ecosystem restoration
+
+#### (1) Support plan
+
+#### (A) In general
+
+&emsp;&emsp;Not later than 1 year after December 11, 2000, the Secretary shall develop a plan for activities of the Corps of Engineers that support the management of Great Lakes fisheries.
+
+#### (B) Use of existing documents
+
+&emsp;&emsp;To the maximum extent practicable, the plan shall make use of and incorporate documents that relate to the Great Lakes and are in existence on December 11, 2000, such as lakewide management plans and remedial action plans.
+
+#### (C) Cooperation
+
+&emsp;&emsp;The Secretary shall develop the plan in cooperation with—
+
+&emsp;&emsp;&emsp;(i) the signatories to the Joint Strategic Plan for Management of the Great Lakes Fisheries; and
+
+&emsp;&emsp;&emsp;(ii) other affected interests.
+
+#### (2) Projects
+
+&emsp;The Secretary shall plan, design, and construct projects to support the restoration of the fishery, ecosystem, and beneficial uses of the Great Lakes.
+
+#### (3) Evaluation program
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary shall develop a program to evaluate the success of the projects carried out under paragraph (2) in meeting fishery and ecosystem restoration goals.
+
+#### (B) Studies
+
+&emsp;&emsp;Evaluations under subparagraph (A) shall be conducted in consultation with the Great Lakes Fishery Commission and appropriate Federal, State, and local agencies.
+
+#### (d) Cooperative agreements
+
+In carrying out this section, the Secretary may enter into a cooperative agreement with the Great Lakes Commission or any other agency established to facilitate active State participation in management of the Great Lakes.
+
+#### (e) Relationship to other Great Lakes activities
+
+No activity under this section shall affect the date of completion of any other activity relating to the Great Lakes that is authorized under other law.
+
+#### (f) Cost sharing
+
+#### (1) Development of plan
+
+&emsp;The Federal share of the cost of development of the plan under subsection (c)(1) of this section shall be 65 percent.
+
+#### (2) Project planning, design, construction, and evaluation
+
+&emsp;The Federal share of the cost of planning, design, construction, and evaluation of a project under paragraph (2) or (3) of subsection (c) of this section shall be 65 percent.
+
+#### (3) Non-Federal share
+
+#### (A) Credit for land, easements, and rights-of-way
+
+&emsp;&emsp;The Secretary shall credit the non-Federal interest for the value of any land, easement, right-of-way, dredged material disposal area, or relocation provided for carrying out a project under subsection (c)(2) of this section.
+
+#### (B) Form
+
+&emsp;&emsp;The non-Federal interest may provide up to 50 percent of the non-Federal share required under paragraphs (1) and (2) in the form of services, materials, supplies, or other in-kind contributions.
+
+#### (4) Operation and maintenance
+
+&emsp;The operation, maintenance, repair, rehabilitation, and replacement of projects carried out under this section shall be a non-Federal responsibility.
+
+#### (5) Non-Federal interests
+
+&emsp;Notwithstanding section 1962d–5b of this title, for any project carried out under this section, a non-Federal interest may include a private interest and a nonprofit entity.
+
+#### (g) Authorization of appropriations
+
+#### (1) Development of plan
+
+&emsp;There is authorized to be appropriated for development of the plan under subsection (c)(1) of this section $300,000.
+
+#### (2) Other activities
+
+&emsp;There is authorized to be appropriated to carry out paragraphs (2) and (3) of subsection (c) of this section $100,000,000.
+
+(Pub. L. 106–541, title V, §506, Dec. 11, 2000, 114 Stat. 2645.)
+
+#### References in Text
+
+The Great Lakes Basin Compact, referred to in subsec. (b)(2), is not classified to the Code.
+
+#### Codification
+
+Section was enacted as part of the Water Resources Development Act of 2000, and not as part of the Water Resources Planning Act which comprises this chapter.
+
+#### Definitions
+
+Secretary means the Secretary of the Army, see section 2 of Pub. L. 106–541, set out as a note under section 2201 of Title 33, Navigation and Navigable Waters.
+

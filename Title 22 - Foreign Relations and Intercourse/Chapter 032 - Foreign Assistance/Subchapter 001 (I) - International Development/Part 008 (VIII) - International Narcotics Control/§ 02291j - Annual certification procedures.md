@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(A) during the previous year the country has cooperated fully with the United States, or has taken adequate steps on its own, to achieve full compliance with the goals and objectives established by the United Nations Convention Against Illicit Traffic in Narcotic Drugs and Psychotropic Substances; or
 
-&emsp;&emsp;(B) for a country that would not otherwise qualify for certification under subparagraph (A), the vital national interests of the United States require that the assistance withheld pursuant to subsection (a)(1) of this section be provided and that the United States not vote against multilateral development bank assistance for that country pursuant to subsection (a)(2) of this section.
+&emsp;&emsp;(B) for a country that would not otherwise qualify for certification under subparagraph (A), the vital national interests of the United States require that the assistance withheld pursuant to subsection (a)(1) of thissection be provided and that the United States not vote against multilateral development bank assistance for that country pursuant to subsection (a)(2) of this section.
 
 #### (2) Considerations regarding cooperation
 
@@ -88,7 +88,7 @@ Not later than November 1 of each year, the President shall notify the appropria
 
 #### References in Text
 
-Section 601(b) of the International Security Assistance and Arms Export Control Act of 1976, referred to in subsec. (g), is section 601(b) of Pub. L. 94–329, title VI,June 30, 1976, 90 Stat. 765, which is not classified to the Code.
+Section 601(b) of the International Security Assistance and Arms Export Control Act of 1976, referred to in subsec. (g), is section 601(b) of Pub. L. 94–329, title VI, June 30, 1976, 90 Stat. 765, which is not classified to the Code.
 
 This chapter, referred to in subsec. (h), was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
@@ -120,31 +120,31 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 #### Certification for Major Illicit Drug Producing and Drug Transit Countries
 
-Determination of President of the United States, No. 99–15, Feb. 26, 1999, 64 F.R. 11319, provided:
+Determination of President of the United States, No. 2000–16, Feb. 29, 2000, 65 F.R. 15797, provided:
 
 Memorandum for the Secretary of State
 
-By virtue of the authority vested in me by section 490(b)(1)(A) of the Foreign Assistance Act of 1961, as amended \[22 U.S.C. 2291j(b)(1)(A)\] (“the Act”), I hereby determine and certify that the following major illicit drug producing and/or major illicit drug transit countries/dependent territories have cooperated fully with the United States, or have taken adequate steps on their own, to achieve full compliance with the goals and objectives of the 1988 United Nations Convention Against Illicit Traffic in Narcotic Drugs and Psychotropic Substances:
+By virtue of the authority vested in me by section 490(b)(1)(A) of the Foreign Assistance Act of 1961, as amended \[22 U.S.C. 2291j(b)(1)(A)\] (the “Act”), I hereby determine and certify that the following major illicit drug producing and/or major illicit drug transit countries (and certain jurisdictions) have cooperated fully with the United States, or have taken adequate steps on their own, to achieve full compliance with the goals and objectives of the 1988 United Nations Convention Against Illicit Traffic in Narcotic Drugs and Psychotropic Substances:
 
-&emsp;Aruba, The Bahamas, Belize, Bolivia, Brazil, China, Colombia, Dominican Republic, Ecuador, Guatemala, Hong Kong, India, Jamaica, Laos, Mexico, Pakistan, Panama, Peru, Taiwan, Thailand, Venezuela, and Vietnam.
+&emsp;The Bahamas, Bolivia, Brazil, China, Colombia, Dominican Republic, Ecuador, Guatemala, Hong Kong, India, Jamaica, Laos, Mexico, Pakistan, Panama, Peru, Taiwan, Thailand, Venezuela, and Vietnam.
 
 By virtue of the authority vested in me by section 490(b)(1)(B) of the Act, I hereby determine that it is in the vital national interests of the United States to certify the following major illicit drug producing and/or major illicit drug transit countries:
 
 &emsp;Cambodia, Haiti, Nigeria, and Paraguay.
 
-Analysis of the relevant U.S. vital national interests, as required under section 490(b)(3) of the Act, is attached \[not set out in the Code\].
-
 I have determined that the following major illicit drug producing and/or major illicit drug transit countries do not meet the standards set forth in section 490(b) for certification:
 
 &emsp;Afghanistan, Burma.
 
-In making these determinations, I have considered the factors set forth in section 490 of the Act. Given that the performance of each of these countries/dependent territories has differed, I have attached an explanatory statement for each of the countries/dependent territories subject to this determination \[not set out in the Code\].
+In making these determinations, I have considered the factors set forth in section 490 of the Act, based on the information contained in the International Narcotics Control Strategy Report of 2000. Analysis of the relevant U.S. vital national interests, as required under section 490(b)(3) of the Act in the case of the countries certified on this basis, is attached \[not set out in the Code\]. Given that the performance of all of these countries/jurisdictions has differed, I have also attached an explanatory statement for each of the other countries/jurisdictions subject to this determination \[not set out in the Code\].
 
-You are hereby authorized and directed to report this determination to the Congress immediately and to publish it in the Federal Register.
+You are hereby authorized and directed to publish this determination in the Federal Register.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Prior certifications for major narcotics producing and transit countries were contained in the following:
+
+Determination of President of the United States, No. 99–15, Feb. 26, 1999, 64 F.R. 11319.
 
 Determination of President of the United States, No. 98–15, Feb. 26, 1998, 63 F.R. 12937.
 
@@ -170,5 +170,5 @@ Determination of President of the United States, No. 88–10, Feb. 29, 1988, 53 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2291e, 2291h of this title; title 12 section 635; title 18 section 981; title 19 sections 1616a, 3202; title 21 sections 881, 1703.
+This section is referred to in sections 2291e, 2291h of this title; title 12 section 635; title 18 section 981; title 19 sections 1616a, 2703, 3202; title 21 sections 881, 1703.
 

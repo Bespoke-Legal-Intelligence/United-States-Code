@@ -62,7 +62,7 @@ Subchapter XIX of this chapter, referred to in subsecs. (e) and (f), is classifi
 
 1994—Subsec. (a). Pub. L. 103–296, §313(a), in par. (1), substituted “felony” for “misdemeanor”, “$10,000 for each occurrence of a violation” for “$1,000”, and “5 years” for “one year”.
 
-Pub. L. 103–296, §108(b)(2), designated existing provisions as par. (1), substituted “head of the applicable agency” for “Secretary” wherever appearing and “employee of the applicable agency” for “employee of theDepartment of Health and Human Services” in two places, and added par. (2).
+Pub. L. 103–296, §108(b)(2), designated existing provisions as par. (1), substituted “head of the applicable agency” for “Secretary” wherever appearing and “employee of the applicable agency” for “employee of the Department of Health and Human Services” in two places, and added par. (2).
 
 Subsec. (b). Pub. L. 103–296, §108(b)(3), substituted “head of the applicable agency” for “Secretary” wherever appearing and “applicable agency which” for “Department of Health and Human Services which”.
 
@@ -96,7 +96,7 @@ Subsec. (c). Pub. L. 93–647, §101(d)(3), repealed subsec. (c) relating to req
 
 Subsec. (c)(1)(A), (B). Pub. L. 90–248, §168(a), designated existing provisions as subpar. (A), redesignated former subpars. (A) to (D) as cls. (i) to (iv) thereof, and added subpar. (B).
 
-Subsec. (c)(2). Pub. L. 90–248, §168(b)(1), substituted “(and, in the case of a request under paragraph (1)(A), shall be accompanied by a certified copy of the order referred to in clauses (i) and (iv) thereof)” for “, and shall be accompanied by a certified copy of the order referred to in paragraph (1)(A) of this subsection”.
+Subsec. (c)(2). Pub. L. 90–248, §168(b)(1), substituted “(and, in the case of a request under paragraph (1)(A), shall be accompanied by a certified copy of the order referred to in clauses (i) and (iv) thereof)” for “, andshall be accompanied by a certified copy of the order referred to in paragraph (1)(A) of this subsection”.
 
 Subsec. (c)(3). Pub. L. 90–248, §168(b)(2), substituted “authorized by subparagraph (A)(iv) or (B)” for “authorized by subparagraph (D)”.
 
@@ -130,7 +130,7 @@ Section 249C(b) of Pub. L. 92–603 provided that: “The provisions of subsecti
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1306b, 1382 of this title; title 26 section 6103.
+This section is referred to in sections 1306b, 1382, 1395cc–2 of this title; title 26 section 6103.
 
 <i><sup>1</sup></i><i> So in original. Probably should be subsection “(f)”.</i>
 

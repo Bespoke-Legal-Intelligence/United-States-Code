@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(B) section 33 of the Bankhead-Jones Farm Tenant Act (7 U.S.C. 1012);
 
-&emsp;&emsp;(C) the Act of May 23, 1908 (16 U.S.C. 500);
+&emsp;&emsp;(C) the Act of May 23, 1908 (16 U.S.C. 500) or the Secure Rural Schools and Community Self-Determination Act of 2000;
 
 &emsp;&emsp;(D) section 5 of the Act of June 22, 1948 (16 U.S.C. 577g, 577g–1);
 
@@ -244,7 +244,7 @@ $110.00&nbsp;
 
 (d) On October 1 of each year after the date of enactment of the Payment in Lieu of Taxes Act, the Secretary of the Interior shall adjust each dollar amount specified in subsections (b) and (c) to reflect changes in the Consumer Price Index published by the Bureau of Labor Statistics of the Department of Labor, for the 12 months ending the preceding June 30.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1032; Pub. L. 98–63, title I, §101(2), July 30, 1983, 97 Stat. 324; Pub. L. 103–397, §§2, 3, 5(b), Oct. 22, 1994, 108 Stat. 4156–4158.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1032; Pub. L. 98–63, title I, §101(2), July 30, 1983, 97 Stat. 324; Pub. L. 103–397, §§2, 3, 5(b), Oct. 22, 1994, 108 Stat. 4156–4158; Pub. L. 106–393, §4, Oct. 30, 2000, 114 Stat. 1610.)
 
 Historical and Revision Notes
 
@@ -306,9 +306,13 @@ In subsection (c)(2), the words “computed under the . . . table” are omitt
 
 Act of June 20, 1910 (ch. 310, 36 Stat. 557), referred to in subsec. (a)(1)(A), is not classified to the Code.
 
+The Secure Rural Schools and Community Self-Determination Act of 2000, referred to in subsec. (a)(1)(C), is Pub. L. 106–393, Oct. 30, 2000, 114 Stat. 1607. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under section 500 of Title 16, Conservation, and Tables.
+
 The date of enactment of the Payment in Lieu of Taxes Act, referred to in subsec. (d), probably means the date of enactment of the Payments In Lieu of Taxes Act, Pub. L. 103–397, which was approved Oct. 22, 1994.
 
 #### Amendments
+
+2000—Subsec. (a)(1)(C). Pub. L. 106–393 inserted “or the Secure Rural Schools and Community Self-Determination Act of 2000” before semicolon at end.
 
 1994—Subsec. (b)(1)(A). Pub. L. 103–397, §2(a)(1), substituted “93 cents during fiscal year 1995, $1.11 during fiscal year 1996, $1.29 during fiscal year 1997, $1.47 during fiscal year 1998, and $1.65 during fiscal year 1999 and thereafter, for each acre of entitlement land” for “75 cents for each acre of entitlement land”.
 
@@ -318,7 +322,7 @@ Subsec. (c)(1). Pub. L. 103–397, §2(b)(1), substituted “the highest dollar 
 
 Subsec. (c)(2). Pub. L. 103–397, §2(b)(2), amended table generally by augmenting dollar amounts by which population totals must be multiplied in order to equal the limitation from $39.25 to $98.00 under prior table to $44.00 to $110.00.
 
-Pub. L. 103–397, §5(b)(4), amended table generally for fiscal year 1998 by augmenting dollar amounts by which population totals must be multiplied in order to equalthe limitation from $34.50 to $86.00 under prior table to $39.25 to $98.00.
+Pub. L. 103–397, §5(b)(4), amended table generally for fiscal year 1998 by augmenting dollar amounts by which population totals must be multiplied in order to equal the limitation from $34.50 to $86.00 under prior table to $39.25 to $98.00.
 
 Pub. L. 103–397, §5(b)(3), amended table generally for fiscal year 1997 by augmenting dollar amounts by which population totals must be multiplied in order to equal the limitation from $29.50 to $74.00 under prior table to $34.50 to $86.00.
 
@@ -348,5 +352,5 @@ Section 101(3) of Pub. L. 98–63 provided in part that: “The United States sh
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 6905 of this title.
+This section is referred to in section 6905 of this title; title 16 section 698v–3.
 

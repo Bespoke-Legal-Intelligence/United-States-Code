@@ -58,7 +58,7 @@ On the basis of the notification and information provided by the administering a
 
 #### (A) Request by interested party
 
-&emsp;&emsp;An interested party may request the administering authority to determine if there is reason to believe that serious adverse effects resulting from a program referred to in Article 8.2 of the Subsidies Agreement exist. The request shall contain such information as the administering authority may require to support the allegations contained in the request.
+&emsp;&emsp;An interested party may request the administering authority to determine if there is reason to believe that serious adverse effects resulting from a program referred to in Article 8.2 of the Subsidies Agreement exist. The request shall contain such informationas the administering authority may require to support the allegations contained in the request.
 
 #### (B) Action by administering authority
 
@@ -102,7 +102,7 @@ On the basis of the notification and information provided by the administering a
 
 #### (3) Consultations with Congress and private sector
 
-&emsp;The Trade Representative and the administering authority promptly shall consult with the committees referred to in paragraph (1), and with interested representatives of the private sector, regarding all information submitted or reports made pursuant to Article 8.3 or 8.4 of the Subsidies Agreement regarding a notified subsidy program.
+&emsp;The Trade Representative and the administering authority promptly shall consult withthe committees referred to in paragraph (1), and with interested representatives of the private sector, regarding all information submitted or reports made pursuant to Article 8.3 or 8.4 of the Subsidies Agreement regarding a notified subsidy program.
 
 #### (4) Annual report
 
@@ -150,7 +150,7 @@ For purposes of this section:
 
 #### (8) Subsidies Agreement
 
-&emsp;The term “Subsidies Agreement” means the Agreement on Subsidies and CountervailingMeasures described in section 771(8) of the Tariff Act of 1930 (19 U.S.C. 1677(8)).
+&emsp;The term “Subsidies Agreement” means the Agreement on Subsidies and Countervailing Measures described in section 771(8) of the Tariff Act of 1930 (19 U.S.C. 1677(8)).
 
 #### (9) Subsidies Committee
 
@@ -190,5 +190,5 @@ This subchapter, referred to in subsec. (i), was in the original “this part”
 
 #### Effective Date
 
-Subchapter effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of subtitle IV (§1671 et seq.) of chapter 4 of this title after such date, see section 291 of Pub. L. 103–465, set out as an Effective Date of 1994 Amendment note under section 1671 of this title.
+Subchapter effective, except as otherwise provided, on the date on which the WTO Agreement enters intoforce with respect to the United States \[Jan. 1, 1995\], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of subtitle IV (§1671 et seq.) of chapter 4 of this title after such date, see section 291 of Pub. L. 103–465, set out as an Effective Date of 1994 Amendment note under section 1671 of this title.
 

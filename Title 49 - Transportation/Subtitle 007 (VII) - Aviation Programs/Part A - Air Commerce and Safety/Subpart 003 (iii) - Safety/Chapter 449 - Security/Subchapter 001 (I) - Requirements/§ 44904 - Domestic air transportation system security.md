@@ -64,5 +64,5 @@ Pub. L. 104–264, title III, §310, Oct. 9, 1996, 110 Stat. 3253, provided that
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 44914, 46301, 46316 of this title.
+This section is referred to in sections 106, 44914, 46301, 46316 of this title.
 

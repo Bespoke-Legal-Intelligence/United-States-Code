@@ -6,7 +6,7 @@ The Secretary of State may use funds appropriated or otherwise available to the 
 
 &emsp;(b) for the purpose of promoting and maintaining friendly relations with foreign countries through the prompt settlement of certain claims, settle and pay any meritorious claim against the United States which is presented by a government of a foreign country for damage to or loss of real or personal property of, or personal injury to or death of, any national of such foreign country: <i>Provided</i>, That such claim is not cognizable under any other statute or international agreement of the United States and can be settled for not more than $15,000 or the foreign currency equivalent thereof;
 
-&emsp;(c) employ individuals or organizations, by contract, for services abroad, and individuals employed by contract to perform such services shall not by virtue of such employment be considered to be employees of the United States Government for purposes of any law administered by the Office of Personnel Management (except that the Secretary may determine the applicability to such individuals of subsection (f) of this section and of any other law administered by the Secretary concerning the employment of such individuals abroad); and such contracts are authorized to be negotiated, the terms of the contracts to be prescribed, and the work to be performed, where necessary, without regard to such statutory provisions as relate to the negotiation, making, and performance of contracts and performance of work in the United States;
+&emsp;(c) employ individuals or organizations, by contract, for services abroad, and individuals employed by contract to perform such services shall not by virtue of such employment be considered to be employees of the UnitedStates Government for purposes of any law administered by the Office of Personnel Management (except that the Secretary may determine the applicability to such individuals of subsection (f) of this section and of any other law administered by the Secretary concerning the employment of such individuals abroad); and such contracts are authorized to be negotiated, the terms of the contracts to be prescribed, and the work to be performed, where necessary, without regard to such statutory provisions as relate to the negotiation, making, and performance of contracts and performance of work in the United States;
 
 &emsp;(d) provide for official functions and courtesies;
 
@@ -68,7 +68,7 @@ Subsec. (b). Pub. L. 86–707 repealed subsec. (b) which authorized the Secretar
 
 #### Effective Date of 1994 Amendment
 
-Amendment by section 162(k)(4) of Pub. L. 103–236 applicable with respect to officials, offices, and bureaus of Department of State when executive orders, regulations, or departmental directives implementing theamendments by sections 161 and 162 of Pub. L. 103–236 become effective, or 90 days after Apr. 30, 1994, whichever comes earlier, see section 161(b) of Pub. L. 103–236, as amended, set out as a note under section 2651a of this title.
+Amendment by section 162(k)(4) of Pub. L. 103–236 applicable with respect to officials, offices, and bureaus of Department of State when executive orders, regulations, or departmental directives implementing the amendments by sections 161 and 162 of Pub. L. 103–236 become effective, or 90 days after Apr. 30, 1994, whichever comes earlier, see section 161(b) of Pub. L. 103–236, as amended, set out as a note under section 2651a of this title.
 
 #### Effective Date of 1985 Amendment
 

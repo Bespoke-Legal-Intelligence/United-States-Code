@@ -12,7 +12,7 @@ As used in this section—
 
 &emsp;(2) The term “telephone facsimile machine” means equipment which has the capacity (A) to transcribe text or images, or both, from paper into an electronic signal and to transmit that signal over a regular telephone line, or (B) to transcribe text or images (or both) from an electronic signal received over a regular telephone line onto paper.
 
-&emsp;(3) The term “telephone solicitation” means the initiation of a telephone call or messagefor the purpose of encouraging the purchase or rental of, or investment in, property, goods, or services, which is transmitted to any person, but such term does not include a call or message (A) to any person with that person's prior express invitation or permission, (B) to any person with whom the caller has an established business relationship, or (C) by a tax exempt nonprofit organization.
+&emsp;(3) The term “telephone solicitation” means the initiation of a telephone call or message for the purpose of encouraging the purchase or rental of, or investment in, property, goods, or services, which is transmitted to any person, but such term does not include a call or message (A) to any person with that person's prior express invitation or permission, (B) to any person with whom the caller has an established business relationship, or (C) by a tax exempt nonprofit organization.
 
 &emsp;(4) The term “unsolicited advertisement” means any material advertising the commercial availability or quality of any property, goods, or services which is transmitted to any person without that person's prior express invitation or permission.
 
@@ -98,7 +98,7 @@ As used in this section—
 
 &emsp;&emsp;(D) specify the methods by which such objections shall be collected and added to the database;
 
-&emsp;&emsp;(E) prohibit any residential subscriber from being charged for giving or revoking such notification or for being included in a database compiled under this section;
+&emsp;&emsp;(E) prohibit any residential subscriber from being charged for giving or revokingsuch notification or for being included in a database compiled under this section;
 
 &emsp;&emsp;(F) prohibit any person from making or transmitting a telephone solicitation to the telephone number of any subscriber included in such database;
 
@@ -158,7 +158,7 @@ As used in this section—
 
 #### (2) Telephone facsimile machines
 
-&emsp;The Commission shall revise the regulations setting technical and procedural standards for telephone facsimile machines to require that any such machine which is manufactured after one year after December 20, 1991, clearly marks, in a margin at the top or bottom of each transmitted page or on the first page of each transmission, the date and time sent, an identification of the business, other entity, or individual sending the message, and the telephone number of the sending machine or of such business, other entity, or individual.
+&emsp;The Commission shall revise the regulations setting technical and procedural standards for telephone facsimile machines to require that any such machine which is manufactured after one year after December 20, 1991, clearly marks, in a margin at the top or bottom of each transmitted page or on the first page of each transmission, the date and time sent, an identification of the business, other entity, orindividual sending the message, and the telephone number of the sending machine or of such business, other entity, or individual.
 
 #### (3) Artificial or prerecorded voice systems
 
@@ -214,7 +214,7 @@ As used in this section—
 
 #### (7) Limitation
 
-&emsp;Whenever the Commission has instituted a civil action for violation of regulations prescribed under this section, no State may, during the pendency of such action instituted by the Commission, subsequently institute a civil action against any defendant named in the Commission's complaint for any violation as alleged in the Commission's complaint.
+&emsp;Whenever the Commission has instituted a civil action for violation of regulations prescribed under this section, no State may, during the pendency of such action instituted by the Commission, subsequently institute a civil action against any defendant named in theCommission's complaint for any violation as alleged in the Commission's complaint.
 
 #### (8) “Attorney general” defined
 
@@ -270,7 +270,7 @@ Section 2 of Pub. L. 102–243 provided that: “The Congress finds that:
 
 &emsp;“(12) Banning such automated or prerecorded telephone calls to the home, except when the receiving party consents to receiving the call or when such calls are necessary in an emergency situation affecting the health and safety of the consumer, is the only effective means of protecting telephone consumers from this nuisance and privacy invasion.
 
-&emsp;“(13) While the evidence presented to the Congress indicates that automated or prerecorded calls are a nuisance and an invasion of privacy, regardless of the type of call, the Federal Communications Commission should have the flexibility to design different rules for those types of automated or prerecordedcalls that it finds are not considered a nuisance or invasion of privacy, or for noncommercial calls, consistent with the free speech protections embodied in the First Amendment of the Constitution.
+&emsp;“(13) While the evidence presented to the Congress indicates that automated or prerecorded calls are a nuisance and an invasion of privacy, regardless of the type of call, the Federal Communications Commission should have the flexibility to design different rules for those types of automated or prerecorded calls that it finds are not considered a nuisance or invasion of privacy, or for noncommercial calls, consistent with the free speech protections embodied in the First Amendment of the Constitution.
 
 &emsp;“(14) Businesses also have complained to the Congress and the Federal Communications Commission that automated or prerecorded telephone calls are a nuisance, are an invasion of privacy, and interfere with interstate commerce.
 

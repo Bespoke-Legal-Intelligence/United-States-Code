@@ -14,17 +14,27 @@ The Secretary may use the technical and managerial expertise of the Corps of Eng
 
 #### (d) Funding
 
-There is authorized to be appropriated $1,000,000 to carry out this section. The Secretary may accept and expend additional funds from other Federal agencies or international organizations to carry <sup>1</sup> this section.
+There is authorized to be appropriated to carry out this section $250,000 for fiscal year 2001 and each fiscal year thereafter. The Secretary may accept and expend additional funds from other Federal agencies or international organizations to carry out this section.
 
-(Pub. L. 104–303, title II, §234, Oct. 12, 1996, 110 Stat. 3704.)
+(Pub. L. 104–303, title II, §234, Oct. 12, 1996, 110 Stat. 3704; Pub. L. 106–541, title II, §207, Dec. 11, 2000, 114 Stat. 2590.)
 
 #### Codification
 
 Section was enacted as part of the Water Resources Development Act of 1996, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
+#### Amendments
+
+2000—Subsec. (d). Pub. L. 106–541 substituted “There is authorized to be appropriated to carry out this section $250,000 for fiscal year 2001 and each fiscal year thereafter.” for “There is authorized to be appropriated $1,000,000 to carry out this section.” and inserted “out” after “carry” in second sentence.
+
+#### National Recreation Reservation Service
+
+Pub. L. 106–541, title II, §206, Dec. 11, 2000, 114 Stat. 2590, provided that: “Notwithstanding section 611 of the Treasury and General Government Appropriations Act, 1999 (112 Stat. 2681–515), the Secretary \[of the Army\] may—
+
+&emsp;“(1) participate in the National Recreation Reservation Service on an interagency basis; and
+
+&emsp;“(2) pay the Department of the Army's share of the activities required to implement, operate, and maintain the Service.”
+
 #### “Secretary” Defined
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 104–303, set out as a note under section 2201 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “out”.</i>
 

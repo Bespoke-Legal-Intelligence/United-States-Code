@@ -1,6 +1,6 @@
 ### §1611. Illegal sales of uncertified seed
 
-It shall be unlawful in the United States or in interstate or foreign commerce to sell or offerfor sale or advertise, by variety name, seed not certified by an official seed certifying agency, when it is a variety for which a certificate of plant variety protection under the Plant Variety Protection Act \[7 U.S.C. 2321 et seq.\] specifies sale only as a class of certified seed: <i>Provided</i>, That seed from a certified lot may be labeled as to variety name when used in a mixture by, or with the approval of, the owners of the variety.
+It shall be unlawful in the United States or in interstate or foreign commerce to sell or offer for sale or advertise, by variety name, seed not certified by an official seed certifying agency, when it is a variety for which a certificate of plant variety protection under the Plant Variety Protection Act \[7 U.S.C. 2321 et seq.\] specifies sale only as a class of certified seed: <i>Provided</i>, That seed from a certified lot may be labeled as to variety name when used in a mixture by, or with the approval of, the owners of the variety.
 
 (Aug. 9, 1939, ch. 615, title V, §501, as added Pub. L. 91–577, title III, §142(a), Dec. 24, 1970, 84 Stat. 1558; amended Pub. L. 97–98, title XI, §1118, Dec. 22, 1981, 95 Stat. 1272.)
 

@@ -42,18 +42,6 @@ Pub. L. 103–322, §320102(1)(A), inserted “fined under this title or” afte
 
 Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of Pub. L. 104–294, set out as a note under section 13 of this title.
 
-#### Cross References
-
-Actions aboard aircraft in special aircraft jurisdiction of United States in violation of this section punishable as provided herein, see section 46506 of Title 49, Transportation.
-
-Indian country—
-
-&emsp;&emsp;Jurisdiction of offenses committed by Indians, see section 3242 of this title.
-
-&emsp;&emsp;Law governing offenses, see section 1153 of this title.
-
-Venue, see section 3236 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 351, 924, 930, 1114, 1116, 1119, 1120, 1503, 1512, 1513, 1751, 2332, 3559 of this title; title 15 section 1825; title 21 section 1041; title 42 sections 671, 2283, 5106a; title 49 section 46506.

@@ -1,0 +1,32 @@
+### §2009aa–8. Approval of development plans and projects
+
+#### (a) In general
+
+A State or regional development plan or any multistate subregional plan that is proposed for development under this subchapter shall be reviewed by the Authority.
+
+#### (b) Evaluation by State member
+
+An application for a grant or any other assistance for a project under this subchapter shall be made through and evaluated for approval by the State member of the Authority representing the applicant.
+
+#### (c) Certification
+
+An application for a grant or other assistance for a project shall be approved only on certification by the State member that the application for the project—
+
+&emsp;(1) describes ways in which the project complies with any applicable State development plan;
+
+&emsp;(2) meets applicable criteria under section 2009aa–7 of this title;
+
+&emsp;(3) provides adequate assurance that the proposed project will be properly administered, operated, and maintained; and
+
+&emsp;(4) otherwise meets the requirements of this subchapter.
+
+#### (d) Votes for decisions
+
+On certification by a State member of the Authority of an application for a grant or other assistance for a specific project under this section, an affirmative vote of the Authority under section 2009aa–1(c) of this title shall be required for approval of the application.
+
+(Pub. L. 87–128, title III, §382I, as added Pub. L. 106–554, §1(a)(4) \[div. B, title V, §503\], Dec. 21, 2000, 114 Stat. 2763, 2763A–279.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 2009aa–1 to 2009aa–3 of this title.
+

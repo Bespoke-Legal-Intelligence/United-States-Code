@@ -2,13 +2,13 @@
 
 #### (a) Appointment and compensation of Administrator; transfer of powers, duties, and assets pertaining to agricultural credit
 
-In accordance with section 2006a of this title, for purposes of this chapter, and for the administration of assets under the jurisdiction of the Secretary of Agriculture pursuant to the Farmers Home Administration Act of 1946, as amended, the Bankhead-Jones Farm Tenant Act, as amended, the Act of August 28, 1937, as amended, the Act of April 6, 1949, as amended, the Act of August 31, 1954, as amended, and the power and duties of the Secretary under any other Act authorizing agricultural credit, the Secretary may assign and transfer such powers, duties, and assets to such officers or agencies of the Department of Agriculture as the Secretary considers appropriate.
+In accordance with section 2006a of this title, for purposes of this chapter, and for the administration of assets under the jurisdiction of the Secretary of Agriculture pursuant to the Farmers Home Administration Act of 1946, as amended, the Bankhead-Jones Farm Tenant Act, as amended, the Act of August 28, 1937, as amended, the Act of April 6, 1949, as amended, the Act of August 31, 1954, as amended, and the power andduties of the Secretary under any other Act authorizing agricultural credit, the Secretary may assign and transfer such powers, duties, and assets to such officers or agencies of the Department of Agriculture as the Secretary considers appropriate.
 
 #### (b) Powers of Secretary of Agriculture
 
 The Secretary may—
 
-&emsp;(1) administer his powers and duties through such national, area, State, or local offices and employees in the United States as he determines to be necessary and may authorize an office to serve the area composed of two or more States if he determines that the volume of business in the area is not sufficient to justify separate State offices, and until January 1, 1975, make contracts for services incident to making, insuring, collecting, and servicing loans and property as determined by the Secretary to be necessary for carrying out the purposes of this chapter; (and the Secretaryshall prior to June 30, 1974, report to the Congress through the President on the experience in using such contracts, together with recommendations for such legislation as he may see fit);
+&emsp;(1) administer his powers and duties through such national, area, State, or local offices and employees in the United States as he determines to be necessary and may authorize an office to serve the area composed of two or more States if he determines that the volume of business in the area is not sufficient to justify separate State offices, and until January 1, 1975, make contracts for services incident to making, insuring, collecting, and servicing loans and property as determined by the Secretary to be necessary for carrying out the purposes of this chapter; (and the Secretary shall prior to June 30, 1974, report to the Congress through the President on the experience in using such contracts, together with recommendations for such legislation as he may see fit);
 
 &emsp;(2) accept and utilize voluntary and uncompensated services, and, with the consent of the agency concerned, utilize the officers, employees, equipment, and information of any agency of the Federal Government, or of any State, territory, or political subdivision;
 
@@ -106,7 +106,7 @@ Subsec. (d). Pub. L. 104–127, §631, added subsec. (d).
 
 Subsec. (e). Pub. L. 104–127, §632, added subsec. (e).
 
-1994—Subsec. (a). Pub. L. 103–354 substituted “assets to such officers or agencies of the Department of Agriculture as the Secretary considers appropriate.” for “assets to the Farmers Home Administration, to be headed by an Administrator, appointed by the President, by and with the advice and consent of the Senate, without regard to the civil service laws or chapter 51 and subchapter III of chapter 53 of title 5, who shall receive basic compensation as provided by law for that office, or may assign and transfer such powers, duties, and assets to the Rural Development Administration as provided by law for that office.”
+1994—Subsec. (a). Pub. L. 103–354 substituted “assets to such officers or agencies of the Department of Agriculture as the Secretary considers appropriate.” for“assets to the Farmers Home Administration, to be headed by an Administrator, appointed by the President, by and with the advice and consent of the Senate, without regard to the civil service laws or chapter 51 and subchapter III of chapter 53 of title 5, who shall receive basic compensation as provided by law for that office, or may assign and transfer such powers, duties, and assets to the Rural Development Administration as provided by law for that office.”
 
 Subsec. (c). Pub. L. 103–248 added subsec. (c).
 

@@ -10,7 +10,7 @@ Period of Availability.—An amount apportioned under section 47114 of this titl
 
 (c)
 
-Primary Airports.—(1) An amount apportioned to a sponsor of a primary airport under section 47114(c)(1) of this title is available for grants for any public-use airport of the sponsor included in the national plan of integrated airport systems.
+Primary Airports.—(1) An amount apportioned to a sponsor of a primary airport undersection 47114(c)(1) of this title is available for grants for any public-use airport of the sponsor included in the national plan of integrated airport systems.
 
 (2) A sponsor of a primary airport may make an agreement with the Secretary of Transportation waiving any part of the amount apportioned for the airport under section 47114(c)(1) of this title if the Secretary makes the waived amount available for a grant for another public-use airport in the same State or geographical area as the primary airport.
 
@@ -26,31 +26,77 @@ State Use.—An amount apportioned to a State under—
 
 Special Apportionment Categories.—(1) The Secretary shall use amounts available to the discretionary fund under section 47115 of this title for each fiscal year as follows:
 
-&emsp;(A) At least 31 percent for grants for airport noise compatibility planning under section 47505(a)(2) of this title and for carrying out noise compatibility programs under section 47504(c) of this title. The Secretary may count the amount of grants made for such planning and programs with funds apportioned under section 47114 in that fiscal year in determining whether or not such 31 percent requirement is being met in that fiscal year.
+&emsp;(A) At least 34 percent for grants for airport noise compatibility planning under section 47505(a)(2) of this title and for carrying out noise compatibility programs under section 47504(c) of this title. The Secretary may count the amount of grants made for such planning and programs with funds apportioned under section 47114 in that fiscal year in determining whether or not such 34 percent requirement is being met in that fiscal year.
 
 &emsp;(B) at <sup>1</sup> least 4 percent to sponsors of current or former military airports designated by the Secretary under section 47118(a) of this title for grants for developing current and former military airports to improve the capacity of the national air transportation system and to sponsors of noncommercial service airports for grants for operational and maintenance expenses at any such airport if the amount of such grants to the sponsor of the airport does not exceed $30,000 in that fiscal year, if the Secretary determines that the airport is adversely affected by the closure or realignment of a military base, and if the sponsor of the airport certifies that the airport would otherwise close if the airport does not receive the grant.
 
+&emsp;(C) In any fiscal year in which the total amount made available under section 48103 is $3,200,000,000 or more, at least two-thirds of 1 percent for grants to sponsors of reliever airports which have—
+
+&emsp;&emsp;(i) more than 75,000 annual operations;
+
+&emsp;&emsp;(ii) a runway with a minimum usable landing distance of 5,000 feet;
+
+&emsp;&emsp;(iii) a precision instrument landing procedure;
+
+&emsp;&emsp;(iv) a minimum number of aircraft, to be determined by the Secretary, based at the airport; and
+
+&emsp;&emsp;(v) been designated by the Secretary as a reliever airport to an airport with 20,000 hours of annual delays in commercial passenger aircraft takeoffs and landings.
+
 (2) If the Secretary decides that an amount required to be used for grants under paragraph (1) of this subsection cannot be used for a fiscal year because there are insufficient qualified grant applications, the amount the Secretary determines cannot be used is available during the fiscal year for grants for other airports or for other purposes for which amounts are authorized for grants under section 48103 of this title.
+
+(3)
+
+Priority.—The Secretary shall give priority in making grants under paragraph (1)(A) to applications for airport noise compatibility planning and programs at and around—
+
+&emsp;(A) Chicago O'Hare International Airport;
+
+&emsp;(B) LaGuardia Airport;
+
+&emsp;(C) John F. Kennedy International Airport; and
+
+&emsp;(D) Ronald Reagan Washington National Airport.
 
 (f)
 
-Limitation for Commercial Service Airport in Alaska.—The Secretary may not make a grant for a commercial service airport in Alaska of more than 110 percent of the amount apportioned for the airport for a fiscal year under section 47114(e) of this title.
+Discretionary Use of Apportionments.—
+
+&emsp;(1)
+
+In general.—Subject to paragraph (2), if the Secretary finds that all or part of an amount of an apportionment under section 47114 is not required during a fiscal year to fund a grant for which the apportionment may be used, the Secretary may use during such fiscal year the amount not so required to make grants for any purpose for which grants may be made under section 48103. The finding may be based on the notifications that the Secretary receives under section 47105(f) or on other information received from airport sponsors.
+
+&emsp;(2)
+
+Restoration of apportionments.—
+
+&emsp;&emsp;(A)
+
+In general.—If the fiscal year for which a finding is made under paragraph (1) with respect to an apportionment is not the last fiscal year of availability of the apportionment under subsection (b), the Secretary shall restore to the apportionment an amount equal to the amount of the apportionment used under paragraph (1) for a discretionary grant whenever a sufficient amount is made available under section 48103.
+
+&emsp;&emsp;(B)
+
+Period of availability.—If restoration under this paragraph is made in the fiscal year for which the finding is made or the succeeding fiscal year, the amount restored shall be subject to the original period of availability of the apportionment under subsection (b). If the restoration is made thereafter, the amount restored shall remain available in accordance with subsection (b) for the original period of availability of the apportionment plus the number of fiscal years during which a sufficient amount was not available for the restoration.
+
+&emsp;(3)
+
+Newly available amounts.—
+
+&emsp;&emsp;(A)
+
+Restored amounts to be unavailable for discretionary grants.—Of an amount newly available under section 48103 of this title, an amount equal to the amounts restored under paragraph (2) shall not be available for discretionary grant obligations under section 47115.
+
+&emsp;&emsp;(B)
+
+Use of remaining amounts.—Subparagraph (A) does not impair the Secretary's authority under paragraph (1), after a restoration under paragraph (2), to apply all or part of a restored amount that is not required to fund a grant under an apportionment to fund discretionary grants.
+
+&emsp;(4)
+
+Limitations on obligations apply.—Nothing in this subsection shall be construed to authorize the Secretary to incur grant obligations under section 47104 for a fiscal year in an amount greater than the amount made available under section 48103 for such obligations for such fiscal year.
 
 (g)
 
-Discretionary Use of Apportionments.—(1) Subject to paragraph (2) of this subsection, if the Secretary finds, based on the notices the Secretary receives under section 47105(f) of this title or otherwise, that an amount apportioned under section 47114 of this title will not be used for grants during a fiscal year, the Secretary may use an equal amount for grants during that fiscal year for any of the purposes for which amounts are authorized for grants under section 48103 of this title.
-
-(2) The Secretary may make a grant under paragraph (1) of this subsection only if the Secretary decides that—
-
-&emsp;(A) the total amount used for grants for the fiscal year under section 48103 of this title will not be more than the amount made available under section 48103 for that fiscal year; and
-
-&emsp;(B) the amounts authorized for grants under section 48103 of this title for later fiscal years are sufficient for grants of the apportioned amounts that were not used for grants under the apportionment during the fiscal year and that remain available under subsection (b) of this section.
-
-(h)
-
 Limiting Authority of Secretary.—The authority of the Secretary to make grants during a fiscal year from amounts that were apportioned for a prior fiscal year and remain available for approved airport development project grants under subsection (b) of this section may be impaired only by a law enacted after September 3, 1982, that expressly limits that authority.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1271; Pub. L. 103–305, title I, §116(a), Aug. 23, 1994, 108 Stat. 1579; Pub. L. 103–429, §6(68), Oct. 31, 1994, 108 Stat. 4387; Pub. L. 104–264, title I, §§123, 124(d), Oct. 9, 1996, 110 Stat. 3219, 3220; Pub. L. 104–287, §5(82), Oct. 11, 1996, 110 Stat. 3397; Pub. L. 105–102, §3(c)(1), (2), Nov. 20, 1997, 111 Stat. 2215; Pub. L. 106–6, §7, Mar. 31, 1999, 113 Stat. 10; Pub. L. 106–31, title VI, §6002(d), May 21, 1999, 113 Stat. 113.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1271; Pub. L. 103–305, title I, §116(a), Aug. 23, 1994, 108 Stat. 1579; Pub. L. 103–429, §6(68), Oct. 31, 1994, 108 Stat. 4387; Pub. L. 104–264, title I, §§123, 124(d), Oct. 9, 1996, 110 Stat. 3219, 3220; Pub. L. 104–287, §5(82), Oct. 11, 1996, 110 Stat. 3397; Pub. L. 105–102, §3(c)(1), (2), Nov. 20, 1997, 111 Stat. 2215; Pub. L. 106–6, §7, Mar. 31, 1999, 113 Stat. 10; Pub. L. 106–31, title VI, §6002(d), May 21, 1999, 113 Stat. 113; Pub. L. 106–181, title I, §§104(e)–(g), 129, title II, §231(f), Apr. 5, 2000, 114 Stat. 70, 77, 114.)
 
 Historical and Revision Notes
 
@@ -166,13 +212,35 @@ Sept. 3, 1982, Pub. L. 97–248, §508(d), as amended May 26, 1994, Pub. L. 103�
 
 #### Pub. L. 104–287, §5(82)(A)
 
-This amends 49:47117(e)(1)(B) because of the redesignation of 49:47504(c)(1)(C) and (D) as 49:47504(c)(2)(C) and (D) by section 6(71)(C) of the Act of October 31, 1994 (Public Law 103–429, 108 Stat. 4387).
+This amends 49:47117(e)(1)(B) because of the redesignation of 49:47504(c)(1)(C) and (D) as 49:47504(c)(2)(C) and\(D) by section 6(71)(C) of the Act of October 31, 1994 (Public Law 103–429, 108 Stat. 4387).
 
 #### Pub. L. 104–287, §5(82)(B)
 
 This amends 49:47117(g)(1) because of the redesignation of 49:47105(e) as 49:47105(f) by section 107(a)(1) of the Federal Aviation Administration Authorization Act of 1994 (Public Law 103–305, 108 Stat. 1572).
 
 #### Amendments
+
+2000—Subsec. (e)(1)(A). Pub. L. 106–181, §104(e), substituted “34 percent” for “31 percent” in two places.
+
+Subsec. (e)(1)(C). Pub. L. 106–181, §104(f), added subpar. (C).
+
+Subsec. (e)(3). Pub. L. 106–181, §231(f), added par. (3).
+
+Subsec. (f). Pub. L. 106–181, §129, amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows:
+
+“(f)
+
+Discretionary Use of Apportionments.—(1) Subject to paragraph (2) of this subsection, if the Secretary finds, based on the notices the Secretary receives under section 47105(f) of this title or otherwise, that an amount apportioned under section 47114 of this title will not be used for grants during a fiscal year, the Secretary may use an equal amount for grants during that fiscal year for any of the purposes for which amounts are authorized for grants under section 48103 of this title.
+
+“(2) The Secretary may make a grant under paragraph (1) of this subsection only if the Secretary decides that—
+
+&emsp;“(A) the total amount used for grants for the fiscal year under section 48103 of this title will not be more than the amount made available under section 48103 for that fiscal year; and
+
+&emsp;“(B) the amounts authorized for grants under section 48103 of this title for later fiscal years are sufficient for grants of the apportioned amounts that were not used for grants under the apportionment during the fiscal year and that remain available under subsection (b) of this section.”
+
+Pub. L. 106–181, §104(g), redesignated subsec. (g) as (f) and struck out heading and text of former subsec. (f). Text read as follows: “The Secretary may not make a grant for a commercial service airport in Alaska of more than 110 percent of the amount apportioned for the airport for a fiscal year under section 47114(e) of this title.”
+
+Subsecs. (g), (h). Pub. L. 106–181, §104(g), redesignated subsecs. (g) and (h) as (f) and (g), respectively.
 
 1999—Subsec. (e)(1)(B). Pub. L. 106–31 struck out “for each of fiscal years 1997 and 1998” after “4 percent”.
 
@@ -228,6 +296,10 @@ Subsec. (e)(1)(E). Pub. L. 103–305 substituted “, 1995, and 1996” for “
 
 Subsec. (e)(2). Pub. L. 103–429, §6(68)(D), substituted “1.5 percent” for “2.5 percent”.
 
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
+
 #### Effective Date of 1997 Amendment
 
 Pub. L. 105–102, §3(c), Nov. 20, 1997, 111 Stat. 2215, provided that the amendment made by section 3(c)(1)(B) is effective Oct. 9, 1996.
@@ -242,7 +314,7 @@ Except as otherwise specifically provided, amendment by Pub. L. 104–264 applic
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 47104, 47114, 47115, 47118 of this title.
+This section is referred to in sections 47104, 47115, 47118 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

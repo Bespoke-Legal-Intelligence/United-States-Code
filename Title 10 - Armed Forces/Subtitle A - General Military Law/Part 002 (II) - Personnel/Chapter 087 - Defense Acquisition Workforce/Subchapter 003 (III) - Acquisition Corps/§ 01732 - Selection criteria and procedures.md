@@ -26,7 +26,7 @@ Eligibility Criteria.—Except as provided in subsections (c) and (d), only pers
 
 &emsp;&emsp;&emsp;(i) at least 24 semester credit hours (or the equivalent) of study from an accredited institution of higher education from among the following disciplines: accounting, business finance, law, contracts, purchasing, economics, industrial management, marketing, quantitative methods, and organization and management; or
 
-&emsp;&emsp;&emsp;(ii) at least 24 semester credit hours (or the equivalent) from an accredited institution of higher education in the person's career field and 12 semester credit hours (or the equivalent) from such an institution from among the disciplines listed in clause\(i) or equivalent training as prescribed by the Secretary to ensure proficiency in the disciplines listed in clause (i).
+&emsp;&emsp;&emsp;(ii) at least 24 semester credit hours (or the equivalent) from an accredited institution of higher education in the person's career field and 12 semester credit hours (or the equivalent) from such an institution from among the disciplines listed in clause (i) or equivalent training as prescribed by the Secretary to ensure proficiency in the disciplines listed in clause (i).
 
 &emsp;(3) The person must meet experience requirements prescribed by the Secretary of Defense. Such requirements shall, at a minimum, include a requirement for at least four years of experience in an acquisition position in the Department of Defense or in a comparable position in industry or government.
 
@@ -56,7 +56,7 @@ Mobility Statements.—(1) The Secretary of Defense is authorized to require civ
 
 (2) The Secretary of Defense shall identify which categories of civilians in an Acquisition Corps, as a condition of serving in the Corps, shall be required to sign mobility statements. The Secretary shall make available published information on such identification of categories.
 
-(Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1644; amended Pub. L. 102–484, div. A, title VIII, §812(e)(1), Oct. 23, 1992, 106 Stat. 2451; Pub. L. 103–89, §3(b)(3)(B), Sept. 30, 1993, 107 Stat. 982; Pub. L. 105–261, div. A, title VIII, §811, Oct. 17, 1998, 112 Stat. 2086.)
+(Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1644; amended Pub. L.102–484, div. A, title VIII, §812(e)(1), Oct. 23, 1992, 106 Stat. 2451; Pub. L. 103–89, §3(b)(3)(B), Sept. 30, 1993, 107 Stat. 982; Pub. L. 105–261, div. A, title VIII, §811, Oct. 17, 1998, 112 Stat. 2086.)
 
 #### References in Text
 

@@ -12,12 +12,6 @@ Functions of Secretary of the Interior to promulgate regulations under this chap
 
 Rules and regulations with respect to mineral leases on submerged lands of outer Continental Shelf to be prescribed by Secretary of the Interior, see section 1334 of Title 43, Public Lands.
 
-#### Cross References
-
-Laws applicable, see sections 275 and 285 of this title.
-
-Surrender of leases, see section 188a of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 275, 285 of this title; title 10 sections 7421, 7435.

@@ -52,7 +52,7 @@ Except as otherwise provided in this section, the total of the liability of a re
 
 #### (3) OCS facility or vessel
 
-&emsp;Notwithstanding the limitations established under subsection (a) of this section and the defenses of section 2703 of this title, all removal costs incurred by the United States Government or any State or local official or agency in connection with a discharge or substantial threat of a discharge of oil from any Outer Continental Shelf facility or a vessel carrying oil as cargo from such a facility shall be borne by the owner or operator of such facility or vessel.
+&emsp;Notwithstanding the limitations established under subsection (a) of this section and the defenses of section 2703 of this title, all removal costs incurred by the United States Government or any State or local official or agency in connection with a discharge or substantial threat of a discharge of oil from any Outer Continental Shelf facility or a vessel carryingoil as cargo from such a facility shall be borne by the owner or operator of such facility or vessel.
 
 #### (4) Certain tank vessels
 

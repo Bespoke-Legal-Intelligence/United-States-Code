@@ -4,7 +4,7 @@
 
 (2) Each such report shall set forth—
 
-&emsp;(A) the total amount requested for special access programs of the Department of Defensein the President's budget for the next fiscal year submitted under section 1105 of title 31; and
+&emsp;(A) the total amount requested for special access programs of the Department of Defense in the President's budget for the next fiscal year submitted under section 1105 of title 31; and
 
 &emsp;(B) for each program in that budget that is a special access program—
 

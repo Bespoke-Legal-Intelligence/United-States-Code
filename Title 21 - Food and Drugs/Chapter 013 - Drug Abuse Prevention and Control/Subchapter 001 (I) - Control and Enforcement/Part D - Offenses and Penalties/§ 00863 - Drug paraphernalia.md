@@ -20,7 +20,7 @@ Any drug paraphernalia involved in any violation of subsection (a) of this secti
 
 #### (d) “Drug paraphernalia” defined
 
-The term “drug paraphernalia” means any equipment, product, or material of any kind which is primarily intended or designed for use in manufacturing, compounding, converting, concealing, producing, processing, preparing, injecting, ingesting, inhaling, or otherwise introducing into the human body a controlled substance, possession of which is unlawful under this subchapter. It includes items primarily intended or designed for use in ingesting, inhaling, or otherwise introducing marijuana,<sup>1</sup> cocaine, hashish, hashish oil, PCP, or amphetamines into the human body, such as—
+The term “drug paraphernalia” means any equipment, product, or material of any kind which is primarily intended or designed for use in manufacturing, compounding, converting, concealing, producing, processing, preparing, injecting, ingesting, inhaling, or otherwise introducing into the human body a controlled substance, possession of which is unlawful under this subchapter. It includes items primarily intended or designed for use in ingesting, inhaling, or otherwise introducing marijuana,<sup>1</sup> cocaine, hashish, hashish oil, PCP, methamphetamine, or amphetamines into the human body, such as—
 
 &emsp;(1) metal, wooden, acrylic, glass, stone, plastic, or ceramic pipes with or without screens, permanent screens, hashish heads, or punctured metal bowls;
 
@@ -80,29 +80,29 @@ This section shall not apply to—
 
 &emsp;(2) any item that, in the normal lawful course of business, is imported, exported, transported, or sold through the mail or by any other means, and traditionally intended for use with tobacco products, including any pipe, paper, or accessory.
 
-(Pub. L. 91–513, title II, §422(a), as added Pub. L. 101–647, title XXIV, §2401(a), Nov. 29, 1990, 104 Stat. 4858; Pub. L. 91–513, title II, §422(b)–(f), formerly Pub. L. 99–570, title I, §1822(b)–(f), Oct. 27, 1986, 100 Stat. 3207–51, amended Pub. L. 100–690, title VI, §6485, Nov. 18, 1988, 102 Stat. 4384; renumbered §422(b)–(f) of Pub. L. 91–513; amended Pub. L. 101–647, title XXIV, §2401(b), (c), Nov. 29, 1990, 104 Stat. 4859.)
+(Pub. L. 91–513, title II, §422, as added and amended Pub. L. 101–647, title XXIV, §2401(a)–(c), Nov. 29, 1990, 104 Stat. 4858, 4859; Pub. L. 106–310, div. B, title XXXVI, §3614, Oct. 17, 2000, 114 Stat. 1230.)
 
 #### Codification
 
-Pub. L. 101–647, §2401(b), transferred section 1822(b) to (f) of Pub. L. 99–570, which was classified to section 857 of this title, to subsecs. (b) to (f) of this section.
+The text of section 857(b) to (f) of this title, which was transferred to subsecs. (b) to (f) of this section by Pub. L. 101–647, §2401(b), was based on Pub. L. 99–570, title I, §1822(b)–(f), Oct. 27, 1986, 100 Stat. 3207–51; Pub. L. 100–690, title VI, §6485, Nov. 18, 1988, 102 Stat. 4384.
 
 #### Amendments
 
+2000—Subsec. (d). Pub. L. 106–310 inserted “methamphetamine,” after “PCP,” in introductory provisions.
+
 1990—Subsec. (b). Pub. L. 101–647, §2401(c)(1), substituted “fined under title 18” for “fined not more than $100,000”.
 
-Pub. L. 101–647, §2401(b), redesignated subsec. (b) of section 857 of this title as subsec. (b) of this section.
+Pub. L. 101–647, §2401(b), redesignated subsec. (b) of section 857 of this title as subsec. (b) of this section. See Codification note above.
 
-Subsecs. (c) to (e). Pub. L. 101–647, §2401(b), redesignated subsecs. (c) to (e) of section 857 of this title as subsecs. (c) to (e) of this section.
+Subsecs. (c) to (e). Pub. L. 101–647, §2401(b), redesignated subsecs. (c) to (e) of section 857 of this title as subsecs. (c) to (e) of this section. See Codification note above.
 
 Subsec. (f). Pub. L. 101–647, §2401(c)(2), made technical amendment to reference to “This section” to correct reference to corresponding provision of original act.
 
-Pub. L. 101–647, §2401(b), redesignated subsec. (f) of section 857 of this title as subsec. (f) of this section.
-
-1988—Subsec. (d) \[formerly §857(d)\]. Pub. L. 100–690, §6485(1), substituted “, possession of which is unlawful under the Controlled Substances Act” for “in violation of the Controlled Substances Act”. See 1990 Amendment note above.
-
-Subsec. (f)(2) \[formerly §857(f)(2)\]. Pub. L. 100–690, §6485(2), substituted “traditionally” for “primarily” before “intended for use with”. See 1990 Amendment note above.
+Pub. L. 101–647, §2401(b), redesignated subsec. (f) of section 857 of this title as subsec. (f) of this section. See Codification note above.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in section 881 of this title; title 18 sections 1956, 3663.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “marihuana,”.</i>
 

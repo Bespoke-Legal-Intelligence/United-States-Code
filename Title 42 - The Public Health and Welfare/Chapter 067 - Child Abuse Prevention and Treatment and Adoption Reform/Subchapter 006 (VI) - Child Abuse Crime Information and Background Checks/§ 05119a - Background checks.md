@@ -30,7 +30,7 @@ The procedures established under subsection (a) of this section shall require—
 
 &emsp;&emsp;(B) to challenge the accuracy and completeness of any information contained in any such report and obtain a prompt determination as to the validity of such challenge before a final determination is made by the authorized agency;
 
-&emsp;(3) that an authorized agency, upon receipt of a background check report lacking disposition data, shall conduct research in whateverState and local recordkeeping systems are available in order to obtain complete data;
+&emsp;(3) that an authorized agency, upon receipt of a background check report lacking disposition data, shall conduct research in whatever State and local recordkeeping systems are available in order to obtain complete data;
 
 &emsp;(4) that the authorized agency shall make a determination whether the provider has been convicted of, or is under pending indictment for, a crime that bears upon the provider's fitness to have responsibility for the safety and well-being of children, the elderly, or individuals with disabilities and shall convey that determination to the qualified entity; and
 

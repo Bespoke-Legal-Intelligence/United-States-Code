@@ -40,10 +40,6 @@ Definitions Relating to Certain Matters.—For purposes of applying this chapter
 
 (Added Pub. L. 104–331, §2(a), Oct. 26, 1996, 110 Stat. 4054.)
 
-#### Short Title
-
-Section 1(a) of Pub. L. 104–331 provided that: “This Act \[enacting this section and sections 402, 411 to 417, 421, 425, 431, 435, 451 to 456, and 471 of this title and sections 1296, 1413, and 3901 to 3908 of Title 28, Judiciary and Judicial Procedure, amending sections 1346 and 2402 of Title 28, repealing section 1219 of Title 2, The Congress, and enacting provisions set out as notes under this section, section 1219 of Title 2, and section 1296 of Title 28\] may be cited as the ‘Presidential and Executive Office Accountability Act’.”
-
 #### Regulations
 
 Section 2(b) of Pub. L. 104–331 provided that: “Appropriate measures shall be taken to ensure that—

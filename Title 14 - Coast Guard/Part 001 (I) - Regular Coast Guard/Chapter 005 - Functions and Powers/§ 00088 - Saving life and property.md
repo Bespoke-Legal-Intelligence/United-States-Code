@@ -10,7 +10,7 @@
 
 &emsp;(4) destroy or tow into port sunken or floating dangers to navigation.
 
-(b)(1) Subject to paragraph (2), the Coast Guard may render aid to persons and protect and save property at any time and at any place at which Coast Guard facilities and personnel are available and can be effectively utilized.
+(b)(1) Subject to paragraph (2), the Coast Guard may render aid to persons and protectand save property at any time and at any place at which Coast Guard facilities and personnel are available and can be effectively utilized.
 
 (2) The Commandant shall make full use of all available and qualified resources, including the Coast Guard Auxiliary and individuals licensed by the Secretary pursuant to section 8904(b) of title 46, United States Code, in rendering aid under this subsection in nonemergency cases.
 
@@ -49,8 +49,4 @@ Pub. L. 98–557, §9, Oct. 30, 1984, 98 Stat. 2862, required Secretary of depar
 #### Coast Guard Policies and Procedures for Towing and Salvage of Disabled Vessels for Minimization of Coast Guard Competition or Interference with Commercial Enterprise
 
 Pub. L. 97–322, title I, §113, Oct. 15, 1982, 96 Stat. 1585, as amended by Pub. L. 100–448, §30(b), Sept. 28, 1988, 102 Stat. 1850, provided that: “The Commandant of the Coast Guard shall review Coast Guard policies and procedures for towing and salvage of disabled vessels in order to further minimize the possibility of Coast Guard competition or interference (other than by the Coast Guard Auxiliary) with private towing activities or other commercial enterprise.”
-
-#### Cross References
-
-Clothing for destitute shipwrecked persons, see section 486 of this title.
 

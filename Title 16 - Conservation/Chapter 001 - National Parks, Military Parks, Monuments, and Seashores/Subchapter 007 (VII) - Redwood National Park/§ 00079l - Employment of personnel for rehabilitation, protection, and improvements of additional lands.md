@@ -6,7 +6,7 @@ In order to utilize the skills of individuals presently working in the woods and
 
 #### (b) Appointment and compensation of personnel for administration of expanded Park; appointment, etc., of additional personnel
 
-In order to effectively administer the expanded Redwood National Park created by this Act in a manner that will provide maximum protection to its resources and to provide for maximum visitor use and enjoyment to ease the local economic effects of this taking, the Secretary shall have power to appoint and fix the compensation of two full-time and twenty temporary employees in the competitive service. The Secretary shall further have power to appoint and fix the compensation of an additional thirty-two full-time and forty temporary employees in the competitive service as provided by this subsection at the time of the donation of those park lands or interests in land owned by the State of California as are within the boundaries of Redwood National Park as provided herein. In filling these positions, preference shall be given to those State employees affected by this transfer for a period not to exceed six years from the date of transfer; permanent State civil service employees shall be provided the opportunity to transfer to a comparable Federal civil service classification notwithstanding applicable civil service laws and regulations.
+In order to effectively administer the expanded Redwood National Park created by this Act in a manner that will provide maximum protection to its resources and to provide for maximum visitor use and enjoyment to ease the local economic effects of this taking, the Secretary shall have power to appoint and fix the compensation of two full-time and twenty temporary employees in the competitive service. The Secretary shall further have power to appoint and fix the compensation of an additionalthirty-two full-time and forty temporary employees in the competitive service as provided by this subsection at the time of the donation of those park lands or interests in land owned by the State of California as are within the boundaries of Redwood National Park as provided herein. In filling these positions, preference shall be given to those State employees affected by this transfer for a period not to exceed six years from the date of transfer; permanent State civil service employees shall be provided the opportunity to transfer to a comparable Federal civil service classification notwithstanding applicable civil service laws and regulations.
 
 #### (c) Job positions subject to preferential treatment for affected employees
 
@@ -20,7 +20,7 @@ An affected employee shall be given full consideration for certain civilian jobs
 
 &emsp;(A) the job involves skills and training that could reasonably be expected to have been gained by individuals who have been employed as logging and related woods employees or sawmill, plywood, and other wood processing employees, or office employees, or that can reasonably be expected to be gained while so employed, or pursuant to retraining as provided herein; and
 
-&emsp;(B) the applicant has the ability, or can reasonably be expected to have the ability after appropriate training of reasonable duration as further provided herein, to perform the duties of the job: <i>Provided</i>, That the full consideration shall not be required with respect tothose affected employee applicants requiring training in a situation where the schedule for completion of the work is such that the period during which said employee can reasonably be expected to work following completion of training is determined by the Secretary to be incommensurate with the time and funds required to provide said employee with the necessary training.
+&emsp;(B) the applicant has the ability, or can reasonably be expected to have the ability after appropriate training of reasonable duration as further provided herein, to perform the duties of the job: <i>Provided</i>, That the full consideration shall not be required with respect to those affected employee applicants requiring training in a situation where the schedule for completion of the work is such that the period during which said employee can reasonably be expected to work following completion of training is determined by the Secretary to be incommensurate with the time and funds required to provide said employee with the necessary training.
 
 #### (e) Private employer requirements for filling covered employment positions with affected employees pursuant to Federal contracts, etc.; procedures applicable and considerations for employment
 
@@ -58,7 +58,7 @@ The Secretary is directed to seek and authorized to enter into agreements with a
 
 #### (h) Judicial review of determination of Secretary respecting employee, etc.; procedures applicable
 
-An employee, a group of employees, a certified or recognized union, or an authorized representative of such employee or group, aggrieved by any determination by the Secretary under this Act shall be entitled to judicial review of such determination in the same manner and underthe same conditions as provided by section 2395 of title 19, except that such review shall be in the appropriate court of appeals of the United States, and the judgment of such court shall be subject to review by the Supreme Court of the United States upon certiorari or certification as provided in section 1254 of title 28.
+An employee, a group of employees, a certified or recognized union, or an authorized representative of such employee or group, aggrieved by any determination by the Secretary under this Act shall be entitled to judicial review of such determination in the same manner and under the same conditions as provided by section 2395 of title 19, except that such review shall be in the appropriate court of appeals of the United States, and the judgment of such court shall be subject to review by the Supreme Court of the United States upon certiorari or certification as provided in section 1254 of title 28.
 
 #### (i) Additional or alternative rights under existing labor laws, regulations, or contracts unaffected; compensation of employees appointed to Federal jobs
 
@@ -86,7 +86,7 @@ Subsec. (b). Pub. L. 105–277, §101(f) \[title VIII, §405(b)(2)\], struck out
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respect to civil actions pending on or commenced on or after such date, see section 701(a) of Pub. L. 96–417, set out as a note under section 251 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respect to civil actions pending onor commenced on or after such date, see section 701(a) of Pub. L. 96–417, set out as a note under section 251 of Title 28, Judiciary and Judicial Procedure.
 
 #### Reference to Secretary as Reference to Secretary of Department of the Interior; Exception
 

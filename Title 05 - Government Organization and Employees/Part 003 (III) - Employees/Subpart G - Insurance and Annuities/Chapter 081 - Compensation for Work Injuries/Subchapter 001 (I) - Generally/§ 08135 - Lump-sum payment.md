@@ -8,7 +8,7 @@
 
 &emsp;(3) the Secretary of Labor determines that it is for the best interest of the beneficiary.
 
-> The probability of the death of the beneficiary before the expiration of the period during which he is entitled to compensation shall be determined according to the most current United States Life Tables, as developed by the United States Department of Health, Education, and Welfare, which shall be updated from time to time, but the lump-sum payment to a widow orwidower of the deceased employee may not exceed 60 months’ compensation. The probability of the happening of any other contingency affecting the amount or duration of compensation shall be disregarded.
+> The probability of the death of the beneficiary before the expiration of the period during which he is entitled to compensation shall be determined according to the most current United States Life Tables, as developed by the United States Department of Health, Education, and Welfare, which shall be updated from time to time, but the lump-sum payment to a widow or widower of the deceased employee may not exceed 60 months’ compensation. The probability of the happening of any other contingency affecting the amount or duration of compensation shall be disregarded.
 
 (b) On remarriage before reaching age 55 a widow or widower entitled to compensation under section 8133 of this title, shall be paid a lump sum equal to twenty-four times the monthly compensation payment (excluding compensation on account of another individual) to which he was entitled immediately before the remarriage.
 
@@ -73,10 +73,6 @@ Amendment by Pub. L. 93–416 applicable to cases where injury or death occurred
 #### Personnel Not Affected by 1967 Increase
 
 Increases authorized under amendment by section 1(63) of Pub. L. 90–83 not applicable to specified personnel, see section 7 of Pub. L. 90–83, set out as a note under section 8103 of this title.
-
-#### Cross References
-
-Entitlement to civil service retirement annuity, effect of lump sum payment for compensation under this section, see sections 8337 and 8464a of this title.
 
 #### Section Referred to in Other Sections
 

@@ -10,7 +10,7 @@ In the development of such plan, the Secretary shall consider the historic, arch
 
 #### (c) Scenic roads and other means of transit
 
-The Secretary shall, as a part of his comprehensive planning process, conduct a detailed study of the need for, and alternative routes of, scenic roads and other means of transit to and within the recreation area. In conducting such study the Secretary shall consider the alternative for upgrading existing roads and shall, in particular, study the need for and alternativeroutes of roads or other means of transit providing access to scenic views of and from the Western rim of Hells Canyon.
+The Secretary shall, as a part of his comprehensive planning process, conduct a detailed study of the need for, and alternative routes of, scenic roads and other means of transit to and within the recreation area. In conducting such study the Secretary shall consider the alternative for upgrading existing roads and shall, in particular, study the need for and alternative routes of roads or other means of transit providing access to scenic views of and from the Western rim of Hells Canyon.
 
 #### (d) Wilderness areas; review by Secretary; recommendations of President to Congress; notice of hearings and meetings
 
@@ -28,7 +28,7 @@ Such activities as are compatible with the provisions of this subchapter, but no
 
 #### Change of Name
 
-Committee on Interior and Insular Affairs of the Senate abolished and replaced by Committee on Energy and Natural Resources of the Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of the Senate, as amended by Senate Resolution No. 4 (popularly cited as the “Committee System Reorganization Amendments of 1977”), approved Feb. 4, 1977.
+Committee on Interior and Insular Affairs of the Senate abolished and replaced by Committee on Energy and Natural Resources of the Senate, effective Feb. 11,1977. See Rule XXV of Standing Rules of the Senate, as amended by Senate Resolution No. 4 (popularly cited as the “Committee System Reorganization Amendments of 1977”), approved Feb. 4, 1977.
 
 Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress. Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 256b, 256d of this title.
+This subchapter is referred to in sections 247c–2, 256b, 256d of this title.
 
 
 ---

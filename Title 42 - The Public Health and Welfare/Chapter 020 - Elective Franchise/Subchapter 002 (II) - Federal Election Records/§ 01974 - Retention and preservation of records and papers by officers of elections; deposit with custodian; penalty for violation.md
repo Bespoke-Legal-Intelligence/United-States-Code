@@ -6,7 +6,7 @@ Every officer of election shall retain and preserve, for a period of twenty-two 
 
 #### Short Title
 
-Section 1 of Pub. L. 86–449 provided that: “This Act \[enacting this subchapter and sections 837, 1074, and 1609 of Title 18, Crimes and Criminal Procedure, and amending section 1971 of this title and sections 241 and 640 of Title 20, Education\] may be cited as the ‘Civil Rights Act of 1960’.”
+Section 1 of Pub. L. 86–449 provided that: “This Act \[enacting this subchapter and sections 837, 1074, and 1509 of Title 18, Crimes and Criminal Procedure, and amending section 1971 of this title and sections 241 and 640 of Title 20, Education\] may be cited as the ‘Civil Rights Act of 1960’.”
 
 #### Section Referred to in Other Sections
 

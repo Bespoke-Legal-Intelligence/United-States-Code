@@ -150,6 +150,52 @@ Subsec. (d)(1). Pub. L. 104–287, §5(74), substituted “Committee on Science�
 
 Amendment by section 5(93) of Pub. L. 104–287 effective July 5, 1994, see section 8(1) of Pub. L. 104–287, set out as a note under section 5303 of this title.
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the 2nd item on page 133 identifies a reporting provision which, as subsequently amended, is contained in subsec. (d)(1) of this section), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+
+#### Liability Regime for Commercial Space Transportation
+
+Pub. L. 106–405, §7, Nov. 1, 2000, 114 Stat. 1752, provided that:
+
+“(a)
+
+Report Requirement.—Not later than 18 months after the date of the enactment of this Act \[Nov. 1, 2000\], the Secretary of Transportation shall transmit to the Congress a report on the liability risk-sharing regime in the United States for commercial space transportation.
+
+“(b)
+
+Contents.—The report required by this section shall—
+
+&emsp;“(1) analyze the adequacy, propriety, and effectiveness of, and the need for, the current liability risk-sharing regime in the United States for commercial space transportation;
+
+&emsp;“(2) examine the current liability and liability risk-sharing regimes in other countries with space transportation capabilities;
+
+&emsp;“(3) examine the appropriateness of deeming all space transportation activities to be ‘ultrahazardous activities’ for which a strict liability standard may be applied and which liability regime should attach to space transportation activities, whether ultrahazardous activities or not;
+
+&emsp;“(4) examine the effect of relevant international treaties on the Federal Government's liability for commercial space launches and how the current domestic liability risk-sharing regime meets or exceeds the requirements of those treaties;
+
+&emsp;“(5) examine the appropriateness, as commercial reusable launch vehicles enter service and demonstrate improved safety and reliability, of evolving the commercial space transportation liability regime towards the approach of the airline liability regime;
+
+&emsp;“(6) examine the need for changes to the Federal Government's indemnification policy to accommodate the risks associated with commercial spaceport operations; and
+
+&emsp;“(7) recommend appropriate modifications to the commercial space transportation liability regime and the actions required to accomplish those modifications.
+
+“(c)
+
+Sections.—The report required by this section shall contain sections expressing the views and recommendations of—
+
+&emsp;“(1) interested Federal agencies, including—
+
+&emsp;&emsp;“(A) the Office of the Associate Administrator for Commercial Space Transportation;
+
+&emsp;&emsp;“(B) the National Aeronautics and Space Administration;
+
+&emsp;&emsp;“(C) the Department of Defense; and
+
+&emsp;&emsp;“(D) the Office of Space Commercialization; and
+
+&emsp;“(2) the public, received as a result of notice in Commerce Business Daily, the Federal Register, and appropriate Federal agency Internet websites.”
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 70113 of this title; title 42 section 2458c.

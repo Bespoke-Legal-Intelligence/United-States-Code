@@ -34,13 +34,67 @@
 
 &emsp;(B) at the time of the separation on which entitlement to the annuity is based, is at least 62 years of age and has completed at least 20 years of service;
 
-> but does not apply in the case of a Congressional employee, military technician (dual status), law enforcement officer, firefighter, nuclear materials courier, or air traffic controller.
+> but does not apply in the case of a Congressional employee, military technician (dual status), law enforcement officer, member of the Supreme Court Police, firefighter, nuclear materials courier, or air traffic controller.
 
 (h) The annuity of a Member who has served in a position in the executive branch for which the rate of basic pay was reduced for the duration of the service of the Member in that position to remove the impediment to the appointment of the Member imposed by article I, section 6, clause 2 of the Constitution, shall, subject to a deposit in the Fund as provided under section 8422(g), be computed as though the rate of basic pay which would otherwise have been in effect during that period of service had been in effect.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 527; amended Pub. L. 99–556, title I, §105(b)(2), Oct. 27, 1986, 100 Stat. 3132; Pub. L. 103–283, title III, §307(b)(2), July 22, 1994, 108 Stat. 1442; Pub. L. 105–61, title V, §516(a)(7), Oct. 10, 1997, 111 Stat. 1306; Pub. L. 105–261, div. C, title XXXI, §3154(h), Oct. 17, 1998, 112 Stat. 2255; Pub. L. 106–65, div. A, title V, §522(c)(1), Oct. 5, 1999, 113 Stat. 597.)
+(i)(1) For purposes of this subsection, the term “physicians comparability allowance” refers to an amount described in section 8331(3)(H).
+
+(2) Except as otherwise provided in this subsection, no part of a physicians comparability allowance shall be treated as basic pay for purposes of any computation under this section unless, before the date of the separation on which entitlement to annuity is based, the separating individual has completed at least 15 years of service as a Government physician (whether performed before, on, or after the date of the enactment of this subsection).
+
+(3) If the condition under paragraph (2) is met, then, any amounts received by the individual in the form of a physicians comparability allowance shall (for the purposes referred to in paragraph (2)) be treated as basic pay, but only to the extent that such amounts are attributable to service performed on or after the date of the enactment of this subsection, and only to the extent of the percentage allowable, which shall be determined as follows:
+
+<b>If the total amount of service</b>
+
+<b> performed, on or after the date of</b>
+
+<b>Then, the percent-</b>
+
+<b> the enactment of this subsection,</b>
+
+<b>age allowable is:</b>
+
+<b> as a Government physician is:</b>
+
+&nbsp;&nbsp;Less than 2 years
+
+0
+
+&nbsp;&nbsp;At least 2 but less than 4 years
+
+25
+
+&nbsp;&nbsp;At least 4 but less than 6 years
+
+50
+
+&nbsp;&nbsp;At least 6 but less than 8 years
+
+75
+
+&nbsp;&nbsp;At least 8 years
+
+100\.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(4) Notwithstanding any other provision of this subsection, 100 percent of all amounts received as a physicians comparability allowance shall, to the extent attributable to service performed on or after the date of the enactment of this subsection, be treated as basic pay (without regard to any of the preceding provisions of this subsection) for purposes of computing—
+
+&emsp;(A) an annuity under section 8452; and
+
+&emsp;(B) a survivor annuity under subchapter IV, if based on the service of an individual who dies before separating from service.
+
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 527; amended Pub. L. 99–556, title I, §105(b)(2), Oct. 27, 1986, 100 Stat. 3132; Pub. L. 103–283, title III, §307(b)(2), July 22, 1994, 108 Stat. 1442; Pub. L. 105–61, title V, §516(a)(7), Oct. 10, 1997, 111 Stat. 1306; Pub. L. 105–261, div. C, title XXXI, §3154(h), Oct. 17, 1998, 112 Stat. 2255; Pub. L. 106–65, div. A, title V, §522(c)(1), Oct. 5, 1999, 113 Stat. 597; Pub. L. 106–553, §1(a)(2) \[title III, §308(c)(2)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–87; Pub. L. 106–571, §3(c)(1), Dec. 28, 2000, 114 Stat. 3055.)
+
+#### References in Text
+
+The date of the enactment of this subsection, referred to in subsec. (i), is the date of enactment of Pub. L. 106–571, which was approved Dec. 28, 2000.
 
 #### Amendments
+
+2000—Subsec. (g). Pub. L. 106–553 inserted “member of the Supreme Court Police,” after “law enforcement officer,” in concluding provisions.
+
+Subsec. (i). Pub. L. 106–571 added subsec. (i).
 
 1999—Subsec. (g)(2). Pub. L. 106–65 substituted “military technician (dual status)” for “military reserve technician” in concluding provisions.
 
@@ -51,6 +105,10 @@
 1994—Subsec. (d). Pub. L. 103–283 substituted “(a), (b), or (c)” for “(a) or (b)”.
 
 1986—Subsec. (f)(2). Pub. L. 99–556 inserted “8412(g) or” in subpars. (A) and (B).
+
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–553 effective on the first day of the first applicable pay period that begins on Dec. 21, 2000, and applicable only to an individual who is employed as a member of the Supreme Court Police after Dec. 21, 2000, see section 1(a)(2) \[title III, §308(i), (j)\] of Pub. L. 106–553, set out in a Supreme Court Police Retirement note under section 8331 of this title.
 
 #### Effective Date of 1998 Amendment
 

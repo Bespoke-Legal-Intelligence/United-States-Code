@@ -1,5 +1,5 @@
 
-10 U.S.C.<br>United States Code, 1999 Edition<br>Title 10 - ARMED FORCES<br>From the U.S. Government Publishing Office, www.gpo.gov
+10 U.S.C.<br>United States Code, 2000 Edition<br>Title 10 - ARMED FORCES<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 10—ARMED FORCES
 
@@ -8671,25 +8671,9 @@ Savings Provision for Regulations.—A regulation, rule, or order in effect unde
 
 General Savings Provision.—An action taken, or a right that matured, under a provision of title 10, United States Code, replaced by a provision of that title enacted by sections 1661 through 1664 shall betreated as having been taken, or having matured, under the corresponding provision so enacted.”
 
-#### Cross References
-
-Coast Guard, generally, see Title 14, Coast Guard.
-
-National Guard, generally, see Title 32, National Guard.
-
-Pay and allowances of the uniformed services, see section 101 et seq. of Title 37, Pay and Allowances of the Uniformed Services.
-
-President of the United States—
-
-&emsp;&emsp;Commander in Chief, see Const. Art. II, §2, cl. 1.
-
-&emsp;&emsp;Delegation of functions, see section 301 et seq., of Title 3, The President.
-
-Veterans’ benefits, see section 101 et seq. of Title 38, Veterans’ Benefits.
-
 #### Title Referred to in Other Sections
 
-This title is referred to in title 36 section 40727; title 42 sections 1320d, 1395ggg, 14405; title 50 sections 415, 2031.
+This title is referred to in title 20 sections 9303, 9304; title 22 section 2715c; title 36 section 40727; title 37 section 211; title 42 sections 1320d, 1395ggg, 14405; title 50 sections 415, 2031.
 
 
 ---

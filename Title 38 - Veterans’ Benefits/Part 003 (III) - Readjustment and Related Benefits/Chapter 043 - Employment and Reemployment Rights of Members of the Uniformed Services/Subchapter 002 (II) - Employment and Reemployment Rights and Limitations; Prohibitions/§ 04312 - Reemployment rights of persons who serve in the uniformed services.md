@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(B) ordered to or retained on active duty (other than for training) under any provision of law because of a war or national emergency declared by the President or the Congress, as determined by the Secretary concerned;
 
-&emsp;&emsp;(C) ordered to active duty (other than for training) in support, as determined by theSecretary concerned, of an operational mission for which personnel have been ordered to active duty under section 12304 of title 10;
+&emsp;&emsp;(C) ordered to active duty (other than for training) in support, as determined by the Secretary concerned, of an operational mission for which personnel have been ordered to active duty under section 12304 of title 10;
 
 &emsp;&emsp;(D) ordered to active duty in support, as determined by the Secretary concerned, of a critical mission or requirement of the uniformed services; or
 
@@ -120,5 +120,5 @@ Section effective with respect to reemployments initiated on or after the first 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 4311, 4313, 4314, 4317, 4319 of this title; title 2 section 1316; title 3 section 416.
+This section is referred to in sections 4311, 4313, 4314, 4316, 4317, 4319 of this title; title 2 section 1316; title 3 section 416.
 

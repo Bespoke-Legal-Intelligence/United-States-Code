@@ -4,7 +4,7 @@
 
 (b) Any person who fails to obey any order of the Secretary issued under the provisions of section 3804 of this title, or such order as modified—
 
-&emsp;(1) after the expiration of the time allowed for filing a petition in the court of appeals toreview such order, if no such petition has been filed within such time; or
+&emsp;(1) after the expiration of the time allowed for filing a petition in the court of appeals to review such order, if no such petition has been filed within such time; or
 
 &emsp;(2) after the expiration of the time allowed for applying for a writ of certiorari, if such order, or such order as modified, has been sustained by the court of appeals and no such writ has been applied for within such time; or
 

@@ -144,7 +144,7 @@ For purposes of this part—
 
 #### (C) Issuer compliance
 
-&emsp;&emsp;To the extent that medical care under a group health plan consists of group healthinsurance coverage, the plan is deemed to have satisfied the certification requirement under this paragraph if the health insurance issuer offering the coverage provides for such certification in accordance with this paragraph.
+&emsp;&emsp;To the extent that medical care under a group health plan consists of group health insurance coverage, the plan is deemed to have satisfied the certification requirement under this paragraph if the health insurance issuer offering the coverage provides for such certification in accordance with this paragraph.
 
 #### (2) Disclosure of information on previous benefits
 
@@ -166,7 +166,7 @@ For purposes of this part—
 
 &emsp;&emsp;(A) The employee or dependent was covered under a group health plan or had health insurance coverage at the time coverage was previously offered to the employee or dependent.
 
-&emsp;&emsp;(B) The employee stated in writing at such time that coverage under a group health plan or health insurance coverage was the reason for declining enrollment, but only if the plan sponsor or issuer (if applicable) required such a statement at such time and provided the employee with notice of such requirement (and the consequences of such requirement) at such time.
+&emsp;&emsp;(B) The employee stated in writing at such time that coverage under a group health plan or health insurance coverage was the reason for declining enrollment, but only if the plan sponsor or issuer (if applicable) required such a statement at such time and provided the employee with notice of suchrequirement (and the consequences of such requirement) at such time.
 
 &emsp;&emsp;(C) The employee's or dependent's coverage described in subparagraph (A)—
 

@@ -54,3 +54,7 @@ In subsections (a) and (b), the words “carry out” are substituted for “ini
 
 In subsection (a)(1), the word “complete” is substituted for “in full” for consistency in the revised title.
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of reporting provisions in subsec. (d) of this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 4th item on page 138 of House Document No. 103–7.
+

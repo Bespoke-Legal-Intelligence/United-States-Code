@@ -16,16 +16,6 @@ Based on title 28, U.S.C., 1940 ed., §842 (R.S. §989).
 
 Changes were made in phraseology.
 
-#### Federal Rules of Civil Procedure
-
-Execution, against certain public officers, see rule 69, Appendix to this title.
-
-Judgment, see rule 54.
-
-#### Cross References
-
-Executions in favor of United States, see section 2413 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in title 26 section 7422.

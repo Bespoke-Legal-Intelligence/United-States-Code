@@ -2,7 +2,7 @@
 
 #### (a) Application
 
-An application for a charter for a seafood marketing council for one or more species of fish and fish products of that species may be filed by persons who meet the requirements specified in accordance with subsection (b)(6) of this section.
+An application for a charter for a seafood marketing council for one or more species of fish and fish products of that species may be filed bypersons who meet the requirements specified in accordance with subsection (b)(6) of this section.
 
 #### (b) Form of application
 
@@ -58,7 +58,7 @@ The Secretary may not approve a proposed charter filed under subsection (a) of t
 
 #### (e) Conduct of referendum
 
-(1) Upon making affirmative determinations under subsection (d)(1) of this section regarding a proposed charter, the Secretary, within 90 days after the date of the last of such determinations, shall conduct a referendum on the adoption of the proposed charter among all sector participants identified in accordance with subsection (d)(1)(A) of this section. The Secretary shall by order establish the council and approve the proposed charter, if the referendum votes which are cast in favor of the proposed charter constitute a majority of the sector participants voting in each sector and the majority collectively accounts for, in the twelve-month period immediately preceding the month in which the proposed charter was filed under subsection (a) of this section, at least sixty-six percent of the value of the fish and fish products described in accordance with subsection (b)(3) of this section that were handled by that sector during such period.
+(1) Upon making affirmative determinations under subsection (d)(1) of this section regarding a proposed charter, the Secretary, within 90 days after the date of the last of such determinations, shall conduct a referendum on the adoption of the proposed charter among all sector participants identified in accordance with subsection (d)(1)(A) of this section. The Secretary shall by order establish the council and approve the proposed charter, if the referendum votes which are cast in favor of the proposed charter constitute a majority of the sector participants voting in each sector and the majority collectively accounts for, in the twelve-month period immediately preceding the month in which the proposed charter was filed under subsection (a) of this section, at least sixty-six percent of the value of the fish and fish products described in accordance with subsection (b)(3) ofthis section that were handled by that sector during such period.
 
 (2) Not less than thirty days prior to holding a referendum under this subsection, the Secretary shall—
 

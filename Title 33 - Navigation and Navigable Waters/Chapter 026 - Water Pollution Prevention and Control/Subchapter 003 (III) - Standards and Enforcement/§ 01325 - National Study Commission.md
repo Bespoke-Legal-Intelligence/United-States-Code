@@ -40,7 +40,7 @@ Travel expenses, including per diem in lieu of subsistence as authorized by law,
 
 The General Schedule, referred to in subsec. (g), is set out under section 5332 of Title 5.
 
-The Rules of the House of Representatives for the One Hundred Sixth Congress were adopted and amended generally by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Provisions formerly appearing in rule 43, referred to in subsec. (g), are now contained in rule XXIV.
+The Rules of the House of Representatives for the One Hundred Sixth Congress were adopted and amended generally by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Provisions formerly appearing in rule 43, referred to in subsec. (g), were contained in rule XXIV, which was subsequently renumbered Rule XXIII by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Amendments
 

@@ -4,11 +4,3 @@ The Secretary of the Interior is directed to make rules and regulations for the 
 
 (June 18, 1934, ch. 576, §6, 48 Stat. 986.)
 
-#### Cross References
-
-Reservations wherein a majority of the adult Indians vote against application of act of which this section is a part, see section 478 of this title.
-
-Right-of-way grant, consent of tribal officials, see section 324 of this title.
-
-Territories, colonies or insular possessions of United States and certain Indian tribes, application to, see section 473 of this title.
-

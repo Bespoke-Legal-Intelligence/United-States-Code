@@ -10,7 +10,7 @@ Weather Bureau consolidated with Coast and Geodetic Survey to form new agency in
 
 #### Cooperative Weather Observer Program
 
-Pub. L. 102–567, title I, §101(c), Oct. 29, 1992, 106 Stat. 4270, provided that: “The Secretary of Commerce mayuse funds otherwise available for conducting weather observations to strengthen the Cooperative Weather Observer Program and encourage public participation in the program. The Secretary may—
+Pub. L. 102–567, title I, §101(c), Oct. 29, 1992, 106 Stat. 4270, provided that: “The Secretary of Commerce may use funds otherwise available for conducting weather observations to strengthen the Cooperative Weather Observer Program and encourage public participation in the program. The Secretary may—
 
 &emsp;“(1) provide distinctive insignia or paraphernalia to Cooperative Weather Observers; and
 

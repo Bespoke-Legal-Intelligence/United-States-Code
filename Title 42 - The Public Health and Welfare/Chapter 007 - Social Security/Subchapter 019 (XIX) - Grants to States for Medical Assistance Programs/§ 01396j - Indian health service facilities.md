@@ -6,15 +6,21 @@ A facility of the Indian Health Service (including a hospital, nursing facility,
 
 #### (b) Facilities deemed to meet requirements upon submission of acceptable plan for achieving compliance
 
-Notwithstanding subsection (a) of this section, a facility of the Indian Health Service (including a hospital, nursing facility, or any other type of facility which provides services of a typeotherwise covered under the State plan) which does not meet all of the conditions and requirements of this title which are applicable generally to such facility, but which submits to the Secretary within six months after September 30, 1976, an acceptable plan for achieving compliance with such conditions and requirements, shall be deemed to meet such conditions and requirements (and to be eligible for reimbursement under this subchapter), without regard to the extent of its actual compliance with such conditions and requirements, during the first twelve months after the month in which such plan is submitted.
+Notwithstanding subsection (a) of this section, a facility of the Indian Health Service (including a hospital, nursing facility, or any other type of facility which provides services of a type otherwise covered under the State plan) which does not meet all of the conditions and requirements of this title which are applicable generally to such facility, but which submits to the Secretary within six months after September 30, 1976, an acceptable plan for achieving compliance with such conditions and requirements, shall be deemed to meet such conditions and requirements (and to be eligible for reimbursement under this subchapter), without regard to the extent of its actual compliance with such conditions and requirements, during the first twelve months after the month in which such plan is submitted.
 
 #### (c) Agreement to reimburse State agency for providing care and services
 
-The Secretary is authorized to enter into agreements with the State agency for the purpose of reimbursing such agency for health care and services provided in Indian Health Service facilities to Indians who are eligible for medical assistance under the State plan.
+The Secretary is authorized to enter into agreements with the State agency for the purpose of reimbursing such agency for health care and services provided in Indian Health Servicefacilities to Indians who are eligible for medical assistance under the State plan.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1911, as added Pub. L. 94–437, title IV, §402(a), Sept. 30, 1976, 90 Stat. 1409; amended Pub. L. 100–203, title IV, §§4118(f)(1), 4211(h)(8), Dec. 22, 1987, 101 Stat. 1330–155, 1330–206; Pub. L. 100–360, title IV, §411(k)(10)(E), July 1, 1988, 102 Stat. 796.)
+#### (d) Cross reference
+
+For provisions relating to the authority of certain Indian tribes, tribal organizations, and Alaska Native health organizations to elect to directly bill for, and receive payment for, health care services provided by a hospital or clinic of such tribes or organizations and for which payment may be made under this subchapter, see section 1645 of title 25.
+
+(Aug. 14, 1935, ch. 531, title XIX, §1911, as added Pub. L. 94–437, title IV, §402(a), Sept. 30, 1976, 90 Stat. 1409; amended Pub. L. 100–203, title IV, §§4118(f)(1), 4211(h)(8), Dec. 22, 1987, 101 Stat. 1330–155, 1330–206; Pub. L. 100–360, title IV, §411(k)(10)(E), July 1, 1988, 102 Stat. 796; Pub. L. 106–417, §3(b)(2), Nov. 1, 2000, 114 Stat. 1815.)
 
 #### Amendments
+
+2000—Subsec. (d). Pub. L. 106–417 added subsec. (d).
 
 1988—Subsecs. (a), (b). Pub. L. 100–360, §411(k)(10)(E), made technical correction to directory language of Pub. L. 100–203, §4118(f)(1)(A), see 1987 Amendment note below.
 
@@ -23,6 +29,10 @@ The Secretary is authorized to enter into agreements with the State agency for t
 Pub. L. 100–203, §4211(h)(8), substituted “or nursing facility” for “, intermediate care facility, or skilled nursing facility” wherever appearing.
 
 Subsec. (c). Pub. L. 100–203, §4118(f)(1)(B), added subsec. (c).
+
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–417 effective Oct. 1, 2000, see section 3(c) of Pub. L. 106–417, set out as a note under section 1645 of Title 25, Indians.
 
 #### Effective Date of 1988 Amendment
 
@@ -48,5 +58,5 @@ Section 402(d) of Pub. L. 94–437 provided that any payments received for servi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 290ff of this title; title 25 section 1642.
+This section is referred to in section 290ff of this title; title 25 sections 1642, 1645.
 

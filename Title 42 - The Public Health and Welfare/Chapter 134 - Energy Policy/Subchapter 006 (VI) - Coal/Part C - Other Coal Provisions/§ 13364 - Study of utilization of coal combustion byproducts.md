@@ -2,7 +2,7 @@
 
 #### (a) “Coal combustion byproducts” defined
 
-As used in this section, the term “coal combustion byproducts” means the residues fromthe combustion of coal including ash, slag, and flue gas desulfurization materials.
+As used in this section, the term “coal combustion byproducts” means the residues from the combustion of coal including ash, slag, and flue gas desulfurization materials.
 
 #### (b) Study and report to Congress
 

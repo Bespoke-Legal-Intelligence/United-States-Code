@@ -6,7 +6,7 @@
 
 (2)(A) In the case of deferments made to enable the borrower to provide financing to local businesses, the deferment shall be repaid in equal installments, without the accrual of interest, over the 60-month period beginning on the date of the deferment, and the total amount of such payments shall be equal to the amount of the payment deferred.
 
-(B) In the case of deferments made to enable the borrower to provide community development assistance, technical assistance to businesses, and for other community, business, or economic development projects not included under subparagraph (A), the deferment shall be repaid in equal installments, without the accrual of interest, over the 120-month period beginning on the date of the deferment, and thetotal amount of such payments shall be equal to the amount of the payment deferred.
+(B) In the case of deferments made to enable the borrower to provide community development assistance, technical assistance to businesses, and for other community, business, or economic development projects not included under subparagraph (A), the deferment shall be repaid in equal installments, without the accrual of interest, over the 120-month period beginning on the date of the deferment, and the total amount of such payments shall be equal to the amount of the payment deferred.
 
 (3)(A) A borrower may defer its debt service payments only in an amount equal to an investment made by such borrower as described in paragraph (2).
 

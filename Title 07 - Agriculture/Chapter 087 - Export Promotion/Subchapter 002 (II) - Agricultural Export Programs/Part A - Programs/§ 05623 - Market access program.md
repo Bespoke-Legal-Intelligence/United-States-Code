@@ -110,7 +110,7 @@ An eligible trade organization shall be—
 
 #### (3) Staged reduction in assistance
 
-&emsp;In the case of participants that received assistance under section 1736s of this title priorto November 28, 1990, and with respect to which assistance under this section would be limited under paragraph (2), any such reduction in assistance shall be phased down in equal increments over a 5-year period.
+&emsp;In the case of participants that received assistance under section 1736s of this title prior to November 28, 1990, and with respect to which assistance under this section would be limited under paragraph (2), any such reduction in assistance shall be phased down in equal increments over a 5-year period.
 
 (Pub. L. 95–501, title II, §203, as added Pub. L. 101–624, title XV, §1531, Nov. 28, 1990, 104 Stat. 3674; amended Pub. L. 102–237, title III, §309, Dec. 13, 1991, 105 Stat. 1856; Pub. L. 103–66, title I, §1302(b)(1), Aug. 10, 1993, 107 Stat. 330; Pub. L. 103–465, title IV, §411(d), Dec. 8, 1994, 108 Stat. 4963; Pub. L. 104–127, title II, §244(a)(1), (b), Apr. 4, 1996, 110 Stat. 967, 968.)
 
@@ -184,7 +184,7 @@ Increases in contribution level.—The Secretary may increase the contribution l
 
 &emsp;&emsp;“(D)
 
-Additionality.—The Secretary should require each participant in the program to certify that any Federal funds received supplement, but do not supplant, private or third party participant funds or other contributions to program activities.
+Additionality.—The Secretary should require each participant in the program to certifythat any Federal funds received supplement, but do not supplant, private or third party participant funds or other contributions to program activities.
 
 &emsp;&emsp;“(E)
 

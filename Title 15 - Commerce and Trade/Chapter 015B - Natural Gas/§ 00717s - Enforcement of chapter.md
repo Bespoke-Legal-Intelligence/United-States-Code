@@ -28,14 +28,6 @@ Federal Power Commission terminated and functions, personnel, property, funds, e
 
 For transfer of functions of Federal Power Commission, with certain reservations, to Chairman of such Commission, see Reorg. Plan No. 9 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out in the Appendix to Title 5, Government Organization and Employees.
 
-#### Federal Rules of Civil Procedure
-
-Injunctions, see rule 65, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-Judgments, see rule 54.
-
-Mandamus as abolished but relief yet available by appropriate action or motion under the rules, see rule 81.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in title 42 section 7172.

@@ -1,8 +1,6 @@
 ### §300ff–28. Distribution of funds
 
-#### (a) Repealed. Pub. L. 104–146, §3(g)(2), May 20, 1996, 110 Stat. 1363
-
-#### (b) Amount of grant to State
+#### (a) Amount of grant to State
 
 #### (1) Minimum allotment
 
@@ -10,13 +8,13 @@
 
 &emsp;&emsp;(A) each of the several States and the District of Columbia for a fiscal year shall be the greater of—
 
-&emsp;&emsp;&emsp;(i)(I) with respect to a State or District that has less than 90 living cases of acquired immune deficiency syndrome, as determined under paragraph (2)(D), $100,000; or
+&emsp;&emsp;&emsp;(i)(I) with respect to a State or District that has less than 90 living cases of acquired immune deficiency syndrome, as determined under paragraph (2)(D), $200,000; or
 
-&emsp;&emsp;&emsp;(II) with respect to a State or District that has 90 or more living cases of acquired immune deficiency syndrome, as determined under paragraph (2)(D), $250,000;
+&emsp;&emsp;&emsp;(II) with respect to a State or District that has 90 or more living cases of acquired immune deficiency syndrome, as determined under paragraph (2)(D), $500,000;
 
-&emsp;&emsp;&emsp;(ii) an amount determined under paragraph (2); and
+&emsp;&emsp;&emsp;(ii) an amount determined under paragraph (2) and then, as applicable, increased under paragraph (2)(H); and
 
-&emsp;&emsp;(B) each territory of the United States, as defined in paragraph (3), shall be an amount determined under paragraph (2).
+&emsp;&emsp;(B) each territory of the United States, as defined in paragraph (3), shall be the greater of $50,000 or an amount determined under paragraph (2).
 
 #### (2) Determination
 
@@ -24,7 +22,7 @@
 
 &emsp;&emsp;The amount referred to in paragraph (1)(A)(ii) for a State and paragraph (1)(B) for a territory of the United States shall be the product of—
 
-&emsp;&emsp;&emsp;(i) an amount equal to the amount appropriated under section 300ff–77 of this title for the fiscal year involved for grants under this part, subject to subparagraph (H); and
+&emsp;&emsp;&emsp;(i) an amount equal to the amount appropriated under section 300ff–77 of this title for the fiscal year involved for grants under this part, subject to subparagraphs (H) and (I); and
 
 &emsp;&emsp;&emsp;(ii) the percentage constituted by the sum of—
 
@@ -48,47 +46,83 @@
 
 &emsp;&emsp;The amount determined in this subparagraph is an amount equal to the product of—
 
-&emsp;&emsp;&emsp;(i) the number of cases of acquired immune deficiency syndrome in the State or territory during each year in the most recent 120-month period for which data are available with respect to all States and territories, as indicated by the number of such cases reported to and confirmed by the Director of the Centers for Disease Control and Prevention for each year during such period; and
+&emsp;&emsp;&emsp;(i) the number of cases of acquired immune deficiency syndrome in the State or territory during each year in the most recent 120-month period for which data are available with respect to all States and territories, as indicated by the number of such cases reported to and confirmed by the Director of the Centers for Disease Control and Prevention for each year during such period, except that (subject to subparagraph (E)), for grants made pursuant to this paragraph or section 300ff–30 of this title for fiscal year 2005 and subsequent fiscal years, the cases counted for each 12-month period beginning on or after July 1, 2004, shall be cases of HIV disease (as reported to and confirmed by such Director) rather than cases of acquired immune deficiency syndrome; and
 
 &emsp;&emsp;&emsp;(ii) with respect to each of the first through the tenth year during such period, the amount referred to in section 300ff–13(a)(3)(C)(ii) of this title.
 
-#### (E) Puerto Rico, Virgin Islands, Guam
+#### (E) Determination of Secretary regarding data on HIV cases
+
+&emsp;&emsp;If under section 300ff–13(a)(3)(D)(i) of this title the Secretary determines that data on cases of HIV disease are not sufficiently accurate and reliable, then notwithstandingsubparagraph (D) of this paragraph, for any fiscal year prior to fiscal year 2007 the references in such subparagraph to cases of HIV disease do not have any legal effect.
+
+#### (F) Puerto Rico, Virgin Islands, Guam
 
 &emsp;&emsp;For purposes of subparagraph (D), the cost index for Puerto Rico, the Virgin Islands, and Guam shall be 1.0.
 
-#### (F) Unexpended funds
+#### (G) Unexpended funds
 
 &emsp;&emsp;The Secretary may, in determining the amount of a grant for a fiscal year under this subsection, adjust the grant amount to reflect the amount of unexpended and uncanceled grant funds remaining at the end of the fiscal year preceding the year for which the grant determination is to be made. The amount of any such unexpended funds shall be determined using the financial status report of the grantee.
 
-#### (G) Limitation
+#### (H) Limitation
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary shall ensure that the amount of a grant awarded to a State or territory for a fiscal year under this part is equal to not less than—
+&emsp;&emsp;&emsp;The Secretary shall ensure that the amount of a grant awarded to a State or territory under section 300ff–21 of this title or subparagraph (I)(i) for a fiscal year is not less than—
 
-&emsp;&emsp;&emsp;&emsp;(I) with respect to fiscal year 1996, 100 percent;
+&emsp;&emsp;&emsp;&emsp;(I) with respect to fiscal year 2001, 99 percent;
 
-&emsp;&emsp;&emsp;&emsp;(II) with respect to fiscal year 1997, 99 percent;
+&emsp;&emsp;&emsp;&emsp;(II) with respect to fiscal year 2002, 98 percent;
 
-&emsp;&emsp;&emsp;&emsp;(III) with respect to fiscal year 1998, 98 percent;
+&emsp;&emsp;&emsp;&emsp;(III) with respect to fiscal year 2003, 97 percent;
 
-&emsp;&emsp;&emsp;&emsp;(IV) with respect to fiscal year 1999, 96.5 percent; and
+&emsp;&emsp;&emsp;&emsp;(IV) with respect to fiscal year 2004, 96 percent; and
 
-&emsp;&emsp;&emsp;&emsp;(V) with respect to fiscal year 2000, 95 percent;
+&emsp;&emsp;&emsp;&emsp;(V) with respect to fiscal year 2005, 95 percent,
 
-&emsp;&emsp;&nbsp;of the amount such State or territory received for fiscal year 1995 under this part. In administering this subparagraph, the Secretary shall, with respect to States that will receive grants in amounts that exceed the amounts that such States received under this part in fiscal year 1995, proportionally reduce such amounts to ensure compliance with this subparagraph. In making such reductions, the Secretary shall ensure that no such State receives less than that State received for fiscal year 1995.
+&emsp;&emsp;&nbsp;of the amount such State or territory received for fiscal year 2000 under section 300ff–21 of this title or subparagraph (I)(i), respectively (notwithstanding such subparagraph). In administering this subparagraph, the Secretary shall, with respect to States or territories that will under such section receive grants in amounts that exceed the amounts that such States received under such section or subparagraph for fiscal year 2000, proportionally reduce such amounts to ensure compliance with this subparagraph. In making such reductions, the Secretary shall ensure that no such State receives less than that State received for fiscal year 2000.
 
 #### (ii) Ratable reduction
 
-&emsp;&emsp;&emsp;If the amount appropriated under section 300ff–77 of this title and available for allocation under this part is less than the amount appropriated and available under this part for fiscal year 1995, the limitation contained in clause (i) shall be reduced by a percentage equal to the percentage of the reduction in such amounts appropriated and available.
+&emsp;&emsp;&emsp;If the amount appropriated under section 300ff–77 of this title for a fiscal year and available for grants under section 300ff–21 of this title or subparagraph (I)(i) is less than the amount appropriated and available for fiscal year 2000 under section 300ff–21 of this title or subparagraph (I)(i), respectively, the limitation contained in clause (i) for the grants involved shall be reduced by a percentage equal to the percentage of the reduction in such amounts appropriated and available.
 
-#### (H) Appropriations for treatment drug program
+#### (I) Appropriations for treatment drug program
 
-&emsp;&emsp;With respect to the fiscal year involved, if under section 300ff–77 of this title an appropriations Act provides an amount exclusively for carrying out section 300ff–26 of this title, the portion of such amount allocated to a State shall be the product of—
+#### (i) Formula grants
 
-&emsp;&emsp;&emsp;(i) 100 percent of such amount; and
+&emsp;&emsp;&emsp;With respect to the fiscal year involved, if under section 300ff–77 of this title an appropriations Act provides an amount exclusively for carrying out section 300ff–26 of this title, the portion of such amount allocated to a State shall be the product of—
 
-&emsp;&emsp;&emsp;(ii) the percentage constituted by the ratio of the State distribution factor for the State (as determined under subparagraph (B)) to the sum of the State distribution factors for all States.
+&emsp;&emsp;&emsp;&emsp;(I) 100 percent of such amount, less the percentage reserved under clause (ii)(V); and
+
+&emsp;&emsp;&emsp;&emsp;(II) the percentage constituted by the ratio of the State distribution factor for the State (as determined under subparagraph (B)) to the sum of the State distribution factors for all States.
+
+#### (ii) Supplemental treatment drug grants
+
+#### (I) In general
+
+&emsp;&emsp;&emsp;&emsp;From amounts made available under subclause (V), the Secretary shall make supplemental grants to States described in subclause (II) to enable such States to increase access to therapeutics described in section 300ff–26(a) of this title, as provided by the State under section 300ff–26(c)(2) of this title.
+
+#### (II) Eligible States
+
+&emsp;&emsp;&emsp;&emsp;For purposes of subclause (I), a State described in this subclause is a State that, in accordance with criteria established by the Secretary, demonstrates a severe need for a grant under such subclause. In developing such criteria, the Secretary shall consider eligibility standards, formulary composition, and the number of eligible individuals at or below 200 percent of the official poverty line to whom the State is unable to provide therapeutics described in section 300ff–26(a) of this title.
+
+#### (III) State requirements
+
+&emsp;&emsp;&emsp;&emsp;The Secretary may not make a grant to a State under this clause unless the State agrees that—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the State will make available (directly or through donations from public or private entities) non-Federal contributions toward the activities to be carried out under the grant in an amount equal to $1 for each $4 of Federal funds provided in the grant; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the State will not impose eligibility requirements for services or scope of benefits limitations under section 300ff–26(a) of this title that are more restrictive than such requirements in effect as of January 1, 2000.
+
+#### (IV) Use and coordination
+
+&emsp;&emsp;&emsp;&emsp;Amounts made available under a grant under this clause shall only be used by the State to provide HIV/AIDS-related medications. The State shall coordinate the use of such amounts with the amounts otherwise provided under section 300ff–26(a) of this title in order to maximize drug coverage.
+
+#### (V) Funding
+
+&emsp;&emsp;&emsp;&emsp;For the purpose of making grants under this clause, the Secretary shall each fiscal year reserve 3 percent of the amount referred to in clause (i) with respect to section 300ff–26 of this title, subject to subclause (VI).
+
+#### (VI) Limitation
+
+&emsp;&emsp;&emsp;&emsp;In reserving amounts under subclause (V) and making grants under this clause for a fiscal year, the Secretary shall ensure for each State that the total of the grant under section 300ff–21 of this title for the State for the fiscal year and the grant under clause (i) for the State for the fiscal year is not less than such total for the State for the preceding fiscal year.
 
 #### (3) Definitions
 
@@ -96,9 +130,9 @@
 
 &emsp;&emsp;(A) the term “State” means each of the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, and Guam; and
 
-&emsp;&emsp;(B) the term “territory of the United States” means,<sup>2</sup> American Samoa, the Commonwealth of the Northern Mariana Islands, and the Republic of the Marshall Islands.
+&emsp;&emsp;(B) the term “territory of the United States” means,<sup>2</sup> American Samoa, the Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau, and only for purposes of paragraph (1) the Commonwealth of Puerto Rico.
 
-#### (c) Allocation of assistance by States
+#### (b) Allocation of assistance by States
 
 #### (1) Repealed. Pub. L. 104–146, §3(c)(5)(A), May 20, 1996, 110 Stat. 1355
 
@@ -114,7 +148,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to paragraph (5) and except as provided in paragraph (6), a State may not use more than 10 percent of amounts received under a grant awarded under this part for administration. In the case of entities and subcontractors to which the State allocates amounts received by the State under the grant (including consortia under section 300ff–23 of this title), the State shall ensure that, of the aggregate amount so allocated,the total of the expenditures by such entities for administrative expenses does not exceed 10 percent (without regard to whether particular entities expend more than 10 percent for such expenses).
+&emsp;&emsp;Subject to paragraph (5) and except as provided in paragraph (6), a State may not use more than 10 percent of amounts received under a grant awarded under this part for administration. In the case of entities and subcontractors to which the State allocates amounts received by the State under the grant (including consortia under section 300ff–23 of this title), the State shall ensure that, of the aggregate amount so allocated, the total of the expenditures by such entities for administrative expenses does not exceed 10 percent (without regard to whether particular entities expend more than 10 percent for such expenses).
 
 #### (B) Administrative activities
 
@@ -142,7 +176,7 @@
 
 &emsp;A State may not use amounts received under a grant awarded under this part to purchase or improve land, or to purchase, construct, or permanently improve (other than minor remodeling) any building or other facility, or to make cash payments to intended recipients of services.
 
-#### (d) Expedited distribution
+#### (c) Expedited distribution
 
 #### (1) In general
 
@@ -156,13 +190,43 @@
 
 &emsp;Within the time periods referred to in paragraph (1), the State shall invite and receive public comment concerning methods for the utilization of such amounts.
 
-#### (e) Reallocation
+#### (d) Reallocation
 
-Any amounts appropriated in any fiscal year and made available to a State under this part that have not been obligated as described in subsection (d) of this section shall be repaid to the Secretary and reallotted to other States in proportion to the original grants made to such States.
+Any amounts appropriated in any fiscal year and made available to a State under this part that have not been obligated as described in subsection (d) <sup>3</sup> of this section shall be repaid to theSecretary and reallotted to other States in proportion to the original grants made to such States.
 
-(July 1, 1944, ch. 373, title XXVI, §2618, as added Pub. L. 101–381, title II, §201, Aug. 18, 1990, 104 Stat. 595; amended Pub. L. 102–531, title III, §312(d)(30), Oct. 27, 1992, 106 Stat. 3506; Pub. L. 104–146, §§3(c)(5), (g)(2), 5, 6(c)(3), May 20, 1996, 110 Stat. 1355, 1363, 1365, 1368; Pub. L. 105–392, title IV, §417, Nov. 13, 1998, 112 Stat. 3591.)
+(July 1, 1944, ch. 373, title XXVI, §2618, as added Pub. L. 101–381, title II, §201, Aug. 18, 1990, 104 Stat. 595; amended Pub. L. 102–531, title III, §312(d)(30), Oct. 27, 1992, 106 Stat. 3506; Pub. L. 104–146, §§3(c)(5), (g)(2), 5, 6(c)(3), May 20, 1996, 110 Stat. 1355, 1363, 1365, 1368; Pub. L. 105–392, title IV, §417, Nov. 13, 1998, 112 Stat. 3591; Pub. L. 106–345, title II, §206, Oct. 20, 2000, 114 Stat. 1334.)
+
+#### References in Text
+
+Subsection (d) of this section, referred to in subsec. (d), was redesignated subsection (c) by Pub. L. 106–345, title II, §206(a)(1), Oct. 20, 2000, 114 Stat. 1334.
 
 #### Amendments
+
+2000—Subsec. (a). Pub. L. 106–345, §206(a)(1), redesignated subsec. (b) as (a).
+
+Subsec. (a)(1)(A)(i). Pub. L. 106–345, §206(a)(2), substituted “$200,000” for “$100,000” in subcl. (I) and “$500,000” for “$250,000” in subcl. (II).
+
+Subsec. (a)(1)(A)(ii). Pub. L. 106–345, §206(c)(1), inserted “and then, as applicable, increased under paragraph (2)(H)” before semicolon.
+
+Subsec. (a)(1)(B). Pub. L. 106–345, §206(d), inserted “the greater of $50,000 or” after “shall be”.
+
+Subsec. (a)(2)(A)(i). Pub. L. 106–345, §206(c)(2)(A), substituted “subparagraphs (H) and (I)” for “subparagraph (H)”.
+
+Subsec. (a)(2)(D)(i). Pub. L. 106–345, §206(b)(1), inserted before semicolon “, except that (subject to subparagraph (E)), for grants made pursuant to this paragraph or section 300ff–30 of this title for fiscal year 2005 and subsequent fiscal years, the cases counted for each 12-month period beginning on or after July 1, 2004, shall be cases of HIV disease (as reported to and confirmed by such Director) rather than cases of acquired immune deficiency syndrome”.
+
+Subsec. (a)(2)(E) to (G). Pub. L. 106–345, §206(b)(2), (3), added subpar. (E) and redesignated former subpars. (E) and (F) as (F) and (G), respectively. Former subpar. (G) redesignated (H).
+
+Subsec. (a)(2)(H). Pub. L. 106–345, §206(c)(2)(B), amended heading and text of subpar. (H) generally. Prior to amendment, text related to limitations on the amount of a grant awarded for fiscal years 1996 to 2000 to a State or territory under this part in relation to the amount received by the State or territory for fiscal year 1995.
+
+Pub. L. 106–345, §206(b)(2), redesignated subpar. (G) as (H). Former subpar. (H) redesignated (I).
+
+Subsec. (a)(2)(I). Pub. L. 106–345, §206(e), reenacted heading without change, designated existing provisions as cl. (i), inserted cl. (i) heading, redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, in subcl. (I) inserted “, less the percentage reserved under clause (ii)(V)” before semicolon, and added cl. (ii).
+
+Pub. L. 106–345, §206(b)(2), redesignated subpar. (H) as (I).
+
+Subsec. (a)(3)(B). Pub. L. 106–345, §206(f), substituted “the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau, and only for purposes of paragraph (1) the Commonwealth of Puerto Rico” for “and the Republic of the Marshall Islands”.
+
+Subsecs. (b) to (e). Pub. L. 106–345, §206(a)(1), redesignated subsecs. (c) to (e) as (b) to (d), respectively.
 
 1998—Subsec. (b)(3)(A). Pub. L. 105–392, §417(1), substituted “, the Commonwealth of Puerto Rico, the Virgin Islands, and Guam” for “and the Commonwealth of Puerto Rico”.
 
@@ -206,7 +270,13 @@ Subsec. (c)(5) to (7). Pub. L. 104–146, §3(c)(5)(C), (D), added pars. (5) and
 
 Amendment by sections 3(c)(5), (g)(2) and 6(c)(3)(A) of Pub. L. 104–146 effective Oct. 1, 1996, and amendment by sections 5 and 6(c)(3)(B) of Pub. L. 104–146 effective May 20, 1996, see section 13 of Pub. L. 104–146, set out as a note under section 300ff–11 of this title.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 300ff–22, 300ff–30, 300ff–38 of this title.
+
 <i><sup>1</sup></i><i> So in original. Probably should be “ ‘non-EMA”.</i>
 
 <i><sup>2</sup></i><i> So in original. The comma probably should not appear.</i>
+
+<i><sup>3</sup></i><i> See References in Text note below.</i>
 

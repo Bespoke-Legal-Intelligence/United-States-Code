@@ -16,7 +16,7 @@ The exercise of any authority or discretion and the performance of any duty or f
 
 #### (d) Personnel; supplies, facilities, and services
 
-The Administrator of General Services may, within the limits of funds which may be made available, employ and fix the compensation of necessary personnel in accordance with the provisions of the civil-service laws and chapter 51 and subchapter III of chapter 53 of title 5, and make expenditures for supplies, facilities, and services necessary for the performance of his functions under this chapter. Without regard to the provisions of the civil-service laws, he may employ certified public accountants, qualified cost accountants, industrial engineers, appraisers, and other experts, and contract with certified public accounting firms and qualified firms of engineers in the discharge of the duties imposed upon him and in furtherance of the objectives and policies of this chapter. The Administrator of General Services shall perform theduties imposed upon him through the personnel and facilities of the contracting agencies and other established Government agencies, to the extent that this does not interfere with the function of the Administrator of General Services to insure uniform and efficient administration of the provisions of this chapter.
+The Administrator of General Services may, within the limits of funds which may be made available, employ and fix the compensation of necessary personnel in accordance with the provisions of the civil-service laws and chapter 51 and subchapter III of chapter 53 of title 5, and make expenditures for supplies, facilities, and services necessary for the performance of his functions under this chapter. Without regard to the provisions of the civil-service laws, he may employ certified public accountants, qualified cost accountants, industrial engineers, appraisers, and other experts, and contract with certified public accounting firms and qualified firms of engineers in the discharge of the duties imposed upon him and in furtherance of the objectives and policies of this chapter. The Administrator of General Services shall perform the duties imposed upon him through the personnel and facilities of the contracting agencies and other established Government agencies, to the extent that this does not interfere with the function of the Administrator of General Services to insure uniform and efficient administration of the provisions of this chapter.
 
 #### (e) Publication in Federal Register
 
@@ -53,8 +53,4 @@ Subsec. (a), establishing the Office of Contract Settlement to be headed by the 
 #### Effective Date of Transfer of Functions
 
 Transfer of functions by act June 30, 1949, effective July 1, 1949, see section 605 of act June 30, 1949, set out as an Effective Date note under section 471 of Title 40, Public Buildings, Property, and Works.
-
-#### Cross References
-
-Additional duties of Administrator and delegation of authority by him, see sections 121 and 123 of this title.
 

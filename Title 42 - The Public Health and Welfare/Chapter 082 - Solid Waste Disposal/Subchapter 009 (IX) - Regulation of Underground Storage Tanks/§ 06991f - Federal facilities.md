@@ -10,3 +10,7 @@ The President may exempt any underground storage tanks of any department, agency
 
 (Pub. L. 89–272, title II, §9007, as added Pub. L. 98–616, title VI, §601(a), Nov. 8, 1984, 98 Stat. 3286.)
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (b) of this section requiring the President to report annually to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 9th item on page 20 of House Document No. 103–7.
+

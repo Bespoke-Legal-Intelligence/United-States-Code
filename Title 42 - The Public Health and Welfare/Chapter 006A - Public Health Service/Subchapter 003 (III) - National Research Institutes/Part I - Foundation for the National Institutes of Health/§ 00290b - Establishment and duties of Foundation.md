@@ -54,7 +54,7 @@ The purpose of the Foundation shall be to support the National Institutes of Hea
 
 &emsp;&emsp;(iii) the Director of the National Institutes of Health.
 
-&emsp;(C) The ex officio members of the Board under subparagraph (B) shall appoint to the Board 11 individuals from among a list of candidates to be provided by the National Academy of Science. Of such appointed members—
+&emsp;(C) The ex officio members of the Board under subparagraph (B) shall appoint to theBoard 11 individuals from among a list of candidates to be provided by the National Academy of Science. Of such appointed members—
 
 &emsp;&emsp;(i) 4 shall be representative of the general biomedical field;
 
@@ -84,7 +84,7 @@ The purpose of the Foundation shall be to support the National Institutes of Hea
 
 #### (3) Terms and vacancies
 
-&emsp;(A) The term of office of each member of the Board appointed under paragraph (1)(C) shall be 5 years, except that the terms of offices forthe initial appointed members of the Board shall expire as determined by the ex officio members and the Chair.
+&emsp;(A) The term of office of each member of the Board appointed under paragraph (1)(C) shall be 5 years, except that the terms of offices for the initial appointed members of the Board shall expire as determined by the ex officio members and the Chair.
 
 &emsp;(B) Any vacancy in the membership of the Board shall be filled in the manner in which the original position was made and shall not affect the power of the remaining members to execute the duties of the Board.
 
@@ -132,7 +132,7 @@ The Foundation shall be considered to be a corporation under section 501(c) of t
 
 #### (1) In general
 
-&emsp;The Foundation shall have an Executive Director who shall be appointed by the Board and shall serve at the pleasure of the Board. The Executive Director shall be responsible for the day-to-day operations of the Foundation and shall have such specific duties and responsibilities as the Board shall prescribe.
+&emsp;The Foundation shall have an Executive Director who shall be appointed by the Boardand shall serve at the pleasure of the Board. The Executive Director shall be responsible for the day-to-day operations of the Foundation and shall have such specific duties and responsibilities as the Board shall prescribe.
 
 #### (2) Compensation
 
@@ -202,7 +202,7 @@ No participant in the program established under this part shall exercise any adm
 
 &emsp;(C) The Foundation shall make copies of each report submitted under subparagraph (A) available for public inspection, and shall upon request provide a copy of the report to any individual for a charge not exceeding the cost of providing the copy.
 
-&emsp;(D) The Board shall annually hold a public meeting to summarize the activities of the Foundation and distribute written reports concerning such activities and the scientific results derived from such activities.
+&emsp;(D) The Board shall annually hold a public meeting to summarize the activities of theFoundation and distribute written reports concerning such activities and the scientific results derived from such activities.
 
 #### (5) Service of Federal employees
 
@@ -350,7 +350,7 @@ Subsec. (c)(1)(C)(iii). Pub. L. 102–170, §216(2), substituted “5” for “
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Effective Date of 1992 Amendment
 

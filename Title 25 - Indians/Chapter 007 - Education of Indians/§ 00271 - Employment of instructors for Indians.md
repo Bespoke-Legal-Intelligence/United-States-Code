@@ -8,7 +8,3 @@ The President may, in every case where he shall judge improvement in the habits 
 
 R.S. §2071 derived from act Mar. 3, 1819, ch. 85, 3 Stat. 516.
 
-#### Cross References
-
-Education of Indians, provisions for, see sections 452 to 457 and 471 of this title.
-

@@ -48,16 +48,6 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 1967—Cl. (1). Pub. L. 90–83 substituted “section 2108(3)(C)–(G)” for “section 2108(3)(B)–(F).” See Historical and Revision Notes under section 3305 of this title.
 
-#### Cross References
-
-Definition of preference eligibles, see section 2108 of this title.
-
-Points granted by this section to be included in determining order of entry on registers and lists of eligibles, see section 3313 of this title.
-
-Regulations for administration of provisions giving preference to preference eligibles, see section 1302 of this title.
-
-Seniority not affected by transfer of postal ten-point preference eligibles, see section 1005 of Title 39, Postal Service.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 2302, 3313, 3320 of this title; title 2 section 1316a; title 3 section 115; title 22 section 1438.

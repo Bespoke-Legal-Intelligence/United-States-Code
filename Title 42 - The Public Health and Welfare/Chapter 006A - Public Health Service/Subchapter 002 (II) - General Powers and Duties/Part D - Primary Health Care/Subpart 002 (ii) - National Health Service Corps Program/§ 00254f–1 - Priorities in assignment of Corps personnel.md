@@ -70,7 +70,7 @@ In making a determination under subsection (a)(1)(A) of this section of the heal
 
 &emsp;(A) Not later than 30 days after the preparation of each list under paragraph (1), the Secretary shall notify entities specified for purposes of subparagraph (A) of such paragraph of the fact that the entities have been provided an authorization to receive assignments of Corps members in the event that Corps members are available for the assignments.
 
-&emsp;(B) In the case of individuals with respect to whom a period of obligated service under theScholarship Program will begin during the period under subsection (f) of this section for which a list under paragraph (1) is prepared, the Secretary shall, not later than 30 days after the preparation of each such list, provide to such individuals the names of each of the entities specified for purposes of paragraph (1)(B)(i) that is appropriate to the medical specialty of the individuals.
+&emsp;(B) In the case of individuals with respect to whom a period of obligated service under the Scholarship Program will begin during the period under subsection (f) of this section for which a list under paragraph (1) is prepared, the Secretary shall, not later than 30 days after the preparation of each such list, provide to such individuals the names of each of the entities specified for purposes of paragraph (1)(B)(i) that is appropriate to the medical specialty of the individuals.
 
 #### (3) Revisions in list
 

@@ -38,7 +38,7 @@
 
 &emsp;(8) to otherwise fail or refuse to comply with any provision of this chapter.
 
-> Nothing in paragraph (7) of this subsection shall result in any informational picketing whichdoes not interfere with an agency's operations being considered as an unfair labor practice.
+> Nothing in paragraph (7) of this subsection shall result in any informational picketing which does not interfere with an agency's operations being considered as an unfair labor practice.
 
 (c) For the purpose of this chapter it shall be an unfair labor practice for an exclusive representative to deny membership to any employee in the appropriate unit represented by such exclusive representative except for failure—
 

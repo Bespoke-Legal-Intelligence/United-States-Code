@@ -126,22 +126,6 @@ Amendment by Pub. L. 101–510 effective one year after Nov. 5, 1990, see sectio
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
 
-#### Cross References
-
-General military law provisions respecting—
-
-Armed Forces Retirement Home, see section 401 et seq. of Title 24, Hospitals and Asylums.
-
-&emsp;&emsp;Disposition of unclaimed property, see section 2575 of this title.
-
-&emsp;&emsp;Final settlement of accounts of deceased members, see section 2771 of this title.
-
-Summary courts-martial—
-
-&emsp;&emsp;Jurisdiction, see section 820 of this title.
-
-&emsp;&emsp;Persons authorized to convene, see section 824 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 2575 of this title; title 5 section 5564; title 24 section 420; title 37 section 554.

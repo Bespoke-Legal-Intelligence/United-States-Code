@@ -148,7 +148,7 @@ The Job Training Partnership Act, referred to in subsecs. (b)(4)(J) and (d)(6)(I
 
 The Goals 2000: Educate America Act, referred to in subsecs. (c) and (d)(6)(F), (8), is Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended, which is classified principally to chapter 68 (§5801 et seq.) of this title (except subchapters V (§5931 et seq.) and IX (§6001 et seq.)). For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
-The Adult Education Act, referred to in subsec. (d)(6)(A), was title III of Pub. L. 89–750, Nov. 3, 1966, 80 Stat. 1216, as amended, which was classified generally to chapter 30 (§1201 et seq.) of this title, prior to repeal by Pub. L. 105–220, title II, §251(a)(1), Aug. 7, 1998, 112 Stat. 1079. For complete classification of this Act to the Code, see Tables.
+The Adult Education Act, referred to in subsec. (d)(6)(A), was title III of Pub. L. 89–750, Nov. 3, 1966, 80Stat. 1216, as amended, which was classified generally to chapter 30 (§1201 et seq.) of this title, prior to repeal by Pub. L. 105–220, title II, §251(a)(1), Aug. 7, 1998, 112 Stat. 1079. For complete classification of this Act to the Code, see Tables.
 
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(6)(C), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519, which is classified generally to chapter 70 (§6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 

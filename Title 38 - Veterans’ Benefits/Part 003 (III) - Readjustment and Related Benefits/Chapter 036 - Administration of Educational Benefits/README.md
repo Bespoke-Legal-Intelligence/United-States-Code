@@ -38,7 +38,7 @@
 | [3686\.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2003686%20-%20Correspondence%20courses.md) | Correspondence courses. |
 | [3687\.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2003687%20-%20Apprenticeship%20or%20other%20on-job%20training.md) | Apprenticeship or other on-job training. |
 | [3688\.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2003688%20-%20Measurement%20of%20courses.md) | Measurement of courses. |
-| \[3689. | Repealed.\] |
+| [3689\.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2003689%20-%20Approval%20requirements%20for%20licensing%20and%20certification%20testing.md) | Approval requirements for licensing and certification testing. |
 | [3690\.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2003690%20-%20Overcharges%20by%20educational%20institutions%3B%20discontinuance%20of%20allowances%3B%20examination%20of%20records%3B%20false%20or%20misleading%20statements.md) | Overcharges by educational institutions; discontinuance of allowances; examination of records; false or misleading statements. |
 | [3691\.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2003691%20-%20Change%20of%20program.md) | Change of program. |
 | [3692\.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2003692%20-%20Advisory%20committee.md) | Advisory committee. |
@@ -61,6 +61,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2000—Pub. L. 106–419, title I, §122(c)(2), Nov. 1, 2000, 114 Stat. 1837, added item 3689.
 
 1996—Pub. L. 104–275, title I, §103(a)(1)(B), Oct. 9, 1996, 110 Stat. 3326, struck out item 3689 “Period of operation for approval”.
 

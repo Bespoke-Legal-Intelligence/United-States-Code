@@ -16,10 +16,6 @@ The Reclamation Act, referred to in text, is act June 17, 1902, ch. 1093, 32 Sta
 
 See note set out under section 83 of this title.
 
-#### Cross References
-
-Selection of coal lands by the several States and sale thereof under laws providing for sale of isolated or disconnected tracts of public lands, see section 90 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 77, 82, 83, 85, 90, 541c of this title.

@@ -6,7 +6,7 @@ Installation.—An emergency locator transmitter must be installed on a fixed-wi
 
 (b)
 
-Nonapplication.—Subsection (a) of this section does not apply to—
+Nonapplication.—Prior to January 1, 2002, subsection (a) does not apply to—
 
 &emsp;(1) turbojet-powered aircraft;
 
@@ -24,9 +24,45 @@ Nonapplication.—Subsection (a) of this section does not apply to—
 
 (c)
 
+Nonapplication Beginning on January 1, 2002.—
+
+&emsp;(1)
+
+In general.—Subject to paragraph (2), on and after January 1, 2002, subsection (a) does not apply to—
+
+&emsp;&emsp;(A) aircraft when used in scheduled flights by scheduled air carriers holding certificates issued by the Secretary of Transportation under subpart II of this part;
+
+&emsp;&emsp;(B) aircraft when used in training operations conducted entirely within a 50-mile radius of the airport from which the training operations begin;
+
+&emsp;&emsp;(C) aircraft when used in flight operations related to the design and testing, manufacture, preparation, and delivery of aircraft;
+
+&emsp;&emsp;(D) aircraft when used in research and development if the aircraft holds a certificate from the Administrator of the Federal Aviation Administration to carry out such research and development;
+
+&emsp;&emsp;(E) aircraft when used in showing compliance with regulations, crew training, exhibition, air racing, or market surveys;
+
+&emsp;&emsp;(F) aircraft when used in the aerial application of a substance for an agricultural purpose;
+
+&emsp;&emsp;(G) aircraft with a maximum payload capacity of more than 18,000 pounds when used in air transportation; or
+
+&emsp;&emsp;(H) aircraft equipped to carry only one individual.
+
+&emsp;(2)
+
+Delay in implementation.—The Administrator of the Federal Aviation Administration may continue to implement subsection (b) rather than subsection (c) for a period not to exceed 2 years after January 1, 2002, if the Administrator finds such action is necessary to promote—
+
+&emsp;&emsp;(A) a safe and orderly transition to the operation of civil aircraft equipped with an emergency locator; or
+
+&emsp;&emsp;(B) other safety objectives.
+
+(d)
+
+Compliance.—An aircraft meets the requirement of subsection (a) if it is equipped with an emergency locator transmitter that transmits on the 121.5/243 megahertz frequency or the 406 megahertz frequency or with other equipment approved by the Secretary for meeting the requirement of subsection (a).
+
+(e)
+
 Removal.—The Administrator shall prescribe regulations specifying the conditions under which an aircraft subject to subsection (a) of this section may operate when its emergency locator transmitter has been removed for inspection, repair, alteration, or replacement.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1194.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1194; Pub. L. 106–181, title V, §501(a), Apr. 5, 2000, 114 Stat. 131.)
 
 Historical and Revision Notes
 
@@ -68,7 +104,21 @@ In subsection (b), the word “used” is substituted for “engaged” for cons
 
 In subsection (c), the words “prescribe regulations” are substituted for “shall issue regulations . . . as he prescribes in such regulations” to eliminate unnecessary words. The words “such limitations and” and “from such aircraft” are omitted as surplus.
 
+#### Amendments
+
+2000—Subsec. (b). Pub. L. 106–181, §501(a)(1), substituted “Prior to January 1, 2002, subsection (a)” for “Subsection (a) of this section” in introductory provisions.
+
+Subsecs. (c) to (e). Pub. L. 106–181, §501(a)(2), (3), added subsecs. (c) and (d) and redesignated former subsec. (c) as (e).
+
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
+
+#### Regulations
+
+Pub. L. 106–181, title V, §501(b), Apr. 5, 2000, 114 Stat. 132, provided that: “The Secretary \[of Transportation\] shall issue regulations to carry out section 44712(c) of title 49, United States Code, as amended by this section, not later than January 1, 2001.”
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 106, 44701, 44711, 45302, 46310, 47531 of this title.
+This section is referred to in sections 44701, 44711, 45302, 46310, 47531 of this title.
 

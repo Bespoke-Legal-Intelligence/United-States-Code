@@ -114,7 +114,7 @@ In subsection (e), the words “of an airport for which” are substituted for �
 
 #### Amendments
 
-1994—Subsec. (a)(1)(B). Pub. L. 103–305, §106, in introductory provisions, substituted “1 or more airports” for “at least 2 airports” in two places and struck out “similar” before “projects”.
+1994—Subsec. (a)(1)(B). Pub. L. 103–305, §106, in introductory provisions, substituted “1 or more airports”for “at least 2 airports” in two places and struck out “similar” before “projects”.
 
 Subsecs. (e), (f). Pub. L. 103–305, §107(a), added subsec. (e) and redesignated former subsec. (e) as (f).
 

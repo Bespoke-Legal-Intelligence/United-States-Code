@@ -14,13 +14,13 @@ There is hereby established as an independent entity in the executive branch the
 
 #### (c) Transfer of powers, duties, and funds to Commissioner
 
-(1)(A) Except as otherwise provided by the Navajo and Hopi Indian Relocation Amendmentsof 1988, the Commissioner shall have all the powers and be responsible for all the duties that the Navajo and Hopi Indian Relocation Commission had before November 16, 1988.
+(1)(A) Except as otherwise provided by the Navajo and Hopi Indian Relocation Amendments of 1988, the Commissioner shall have all the powers and be responsible for all the duties that the Navajo and Hopi Indian Relocation Commission had before November 16, 1988.
 
 (B) All funds appropriated to the Navajo and Hopi Indian Relocation Commission before the date on which the first Commissioner on Navajo and Hopi Indian Relocation is confirmed by the Senate that have not been expended on such date shall become available to the Office of Navajo and Hopi Indian Relocation on such date and shall remain available without fiscal year limitation.
 
 (2) There are hereby transferred to the Commissioner, on January 31, 1989—
 
-&emsp;(A) all powers and duties of the Bureau of Indian Affairs derived from Public Law 99–190 (99 Stat. at 1236) that relate to the relocation of members of the Navajo Tribe from lands partitioned to the Hopi Tribe, and
+&emsp;(A) all powers and duties of the Bureau of Indian Affairs derived from Public Law 99–190 (99Stat. at 1236) that relate to the relocation of members of the Navajo Tribe from lands partitioned to the Hopi Tribe, and
 
 &emsp;(B) all funds appropriated for activities relating to such relocation pursuant to Public Law 99–190 (99 Stat. at 1236): <i>Provided</i>, That such funds shall be used by the Commissioner for the purpose for which such funds were appropriated to the Bureau of Indian Affairs. (B) <sup>1</sup> : <i>Provided further</i>, That for administrative purposes such funds shall be maintained in a separate account.
 
@@ -70,7 +70,7 @@ Subsec. (d)(1). Pub. L. 102–180, §3(c), amended par. (1) generally. Prior to 
 
 &emsp;“(B) procure temporary and intermittent services to the same extent as is authorized by section 3109 of title 5, but at rates not to exceed $200 a day for individuals.”
 
-1988—Pub. L. 100–666 amended section generally, substituting subsecs. (a) to (f) relating to the Office ofNavajo and Hopi Indian Relocation, for former subsecs. (a) to (j) which related to the Navajo and Hopi Relocation Commission.
+1988—Pub. L. 100–666 amended section generally, substituting subsecs. (a) to (f) relating to the Office of Navajo and Hopi Indian Relocation, for former subsecs. (a) to (j) which related to the Navajo and Hopi Relocation Commission.
 
 1980—Subsec. (g)(1). Pub. L. 96–305, §5(1), inserted “an independent legal counsel,” after “an Executive Director,”.
 

@@ -54,7 +54,7 @@
 
 &emsp;&emsp;(G) any other request for determination of an interest in such grain or the proceeds of grain;
 
-&emsp;(2) the disposition of such grain or the proceeds of grain, before or after determination of interests in such grain or the proceeds of grain, by way of—
+&emsp;(2) the disposition of such grain or the proceeds of grain, before or after determination ofinterests in such grain or the proceeds of grain, by way of—
 
 &emsp;&emsp;(A) sale of such grain;
 

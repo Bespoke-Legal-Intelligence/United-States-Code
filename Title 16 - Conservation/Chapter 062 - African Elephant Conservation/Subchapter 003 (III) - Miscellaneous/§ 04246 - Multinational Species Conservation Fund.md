@@ -10,3 +10,7 @@ The Rhinoceros and Tiger Conservation Act, referred to in text, probably means t
 
 The African Elephant Conservation Act, referred to in text, is title II of Pub. L. 100–478, Oct. 7, 1988, 102 Stat. 2315. Subchapter I of the Act probably means part I (§2101 et seq.) of the Act, which is classified generally to subchapter I (§4211 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4201 of this title and Tables.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in section 6302 of this title.
+

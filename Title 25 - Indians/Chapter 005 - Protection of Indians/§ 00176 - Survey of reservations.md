@@ -14,7 +14,3 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 “Bureau of Land Management” substituted in text for “General Land Office” pursuant to section 403 of Reorg. Plan No. 3 of 1946, set out in the Appendix to Title 5, which established the Bureau and transferred thereto the powers and duties of the General Land Office.
 
-#### Cross References
-
-Survey of public lands, see section 751 et seq. of Title 43, Public Lands.
-

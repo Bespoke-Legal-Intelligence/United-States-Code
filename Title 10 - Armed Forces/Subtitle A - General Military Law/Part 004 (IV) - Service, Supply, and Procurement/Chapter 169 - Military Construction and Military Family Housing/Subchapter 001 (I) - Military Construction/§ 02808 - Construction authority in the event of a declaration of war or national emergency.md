@@ -10,11 +10,11 @@
 
 #### References in Text
 
-The National Emergencies Act (50 U.S.C. 1601 et seq.), referred to in subsec. (a), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, as amended, which is classified principally to chapter 34 (§1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 50 and Tables.
+The National Emergencies Act (50 U.S.C. 1601 et seq.), referred to in subsec. (a), is Pub. L. 94–412, Sept. 14,1976, 90 Stat. 1255, as amended, which is classified principally to chapter 34 (§1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 50 and Tables.
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in Pub. L. 97–99, title IX, §903, Dec. 23, 1981, 95Stat. 1382, which was set out as a note under section 140 \[now 127\] of this title, prior to repeal by Pub. L. 97–214, §7(18).
+Provisions similar to those in this section were contained in Pub. L. 97–99, title IX, §903, Dec. 23, 1981, 95 Stat. 1382, which was set out as a note under section 140 \[now 127\] of this title, prior to repeal by Pub. L. 97–214, §7(18).
 
 #### Effective Date
 

@@ -52,7 +52,7 @@ The Director of NIH shall establish a program for the conduct and support of res
 
 #### (4) Duration of support
 
-&emsp;Support of a center under this subsection may be for a period not exceeding five years. Such period may be extended by the Director of NIH for one or more additional periods of not more than five years if the operations of such center have been reviewed by an appropriate technical and scientific peer review group established by the Director and if such group has recommended to the Director that such period should be extended.
+&emsp;Support of a center under this subsection may be for a period not exceeding five years.Such period may be extended by the Director of NIH for one or more additional periods of not more than five years if the operations of such center have been reviewed by an appropriate technical and scientific peer review group established by the Director and if such group has recommended to the Director that such period should be extended.
 
 #### (d) Morris K. Udall Awards for Excellence in Parkinson's Disease Research
 
@@ -63,6 +63,10 @@ The Director of NIH is authorized to establish a grant program to support invest
 For the purpose of carrying out this section and section 241 of this title and this subchapter with respect to research focused on Parkinson's disease, there are authorized to be appropriated up to $100,000,000 for fiscal year 1998, and such sums as may be necessary for each of the fiscal years 1999 and 2000.
 
 (July 1, 1944, ch. 373, title IV, §409B, as added Pub. L. 105–78, title VI, §603(c), Nov. 13, 1997, 111 Stat. 1520.)
+
+#### Change of Name
+
+Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Finding and Purpose
 
@@ -75,4 +79,6 @@ Finding.—Congress finds that to take full advantage of the tremendous potentia
 “(2)
 
 Purpose.—It is the purpose of this section \[enacting this section\] to provide for the expansion and coordination of research regarding Parkinson's disease, and to improve care and assistance for afflicted individuals and their family caregivers.”
+
+<i><sup>1</sup></i><i> So in original. Probably should be “pathogenesis,”.</i>
 

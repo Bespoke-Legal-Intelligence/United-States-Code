@@ -12,7 +12,7 @@ Among disabled families qualifying for occupancy in units reserved under section
 
 #### Effective and Termination Dates of 1996 Amendment
 
-Amendment by Pub. L. 104–99 effective Jan. 26, 1996, only for fiscal years 1996, 1997, and 1998, and to cease to be effective Oct. 21, 1998, see section 402(f) of Pub. L. 104–99, as amended, and section 514(f) of Pub. L. 105–276, set out as notes under section 1437a of this title.
+Amendment by Pub. L. 104–99 effective Jan. 26, 1996, only for fiscal years 1996, 1997, and 1998, and to cease to be effective Oct. 21, 1998, see section 402(f) of Pub. L.104–99, as amended, and section 514(f) of Pub. L. 105–276, set out as notes under section 1437a of this title.
 
 #### Section Referred to in Other Sections
 

@@ -1,6 +1,6 @@
 ### §117b–1. Receipts from sale of used or surplus furniture and furnishings of Senate
 
-On and after October 1, 1982, receipts from the sale of used or surplus furniture and furnishingsshall be deposited in the United States Treasury for credit to the appropriation for “Senate Office Buildings” under the heading “Architect of the Capitol.”
+On and after October 1, 1982, receipts from the sale of used or surplus furniture and furnishings shall be deposited in the United States Treasury for credit to the appropriation for “Senate Office Buildings” under the heading “Architect of the Capitol.”
 
 (Pub. L. 97–276, §101(e), Oct. 2, 1982, 96 Stat. 1189.)
 

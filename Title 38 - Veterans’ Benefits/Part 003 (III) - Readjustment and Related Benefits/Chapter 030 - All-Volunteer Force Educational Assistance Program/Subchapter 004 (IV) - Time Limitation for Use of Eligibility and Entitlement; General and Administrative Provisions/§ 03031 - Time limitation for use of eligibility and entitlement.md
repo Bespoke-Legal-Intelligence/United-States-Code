@@ -30,7 +30,7 @@
 
 (h) For purposes of subsection (a) of this section, an individual's last discharge or release from active duty shall not include any discharge or release from a period of active duty of less than 90 days of continuous service unless the individual involved is discharged or released for a service-connected disability, for a medical condition which preexisted such service and which the Secretary determines is not service connected, for hardship, or as a result of a reduction in force as described in section 3011(a)(1)(A)(ii)(III) of this title.
 
-(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2560, §1431; amended Pub. L. 99–576, title III, §§307(b), 321(7), Oct. 28, 1986, 100Stat. 3270, 3278; Pub. L. 100–689, title I, §111(a)(6), Nov. 18, 1988, 102 Stat. 4171; Pub. L. 101–237, title IV, §§420(a)(1), (b), 423(a)(4), (b)(1), Dec. 18, 1989, 103 Stat. 2087, 2088, 2091, 2092; renumbered §3031 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §302(a)(3), Oct. 29, 1992, 106 Stat. 4327; Pub. L. 106–117, title VII, §702(b), Nov. 30, 1999, 113 Stat. 1583.)
+(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2560, §1431; amended Pub. L. 99–576, title III, §§307(b), 321(7), Oct. 28, 1986, 100 Stat. 3270, 3278; Pub. L. 100–689, title I, §111(a)(6), Nov. 18, 1988, 102 Stat. 4171; Pub. L. 101–237, title IV, §§420(a)(1), (b), 423(a)(4), (b)(1), Dec. 18, 1989, 103 Stat. 2087, 2088, 2091, 2092; renumbered §3031 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §302(a)(3), Oct. 29, 1992, 106 Stat. 4327; Pub. L. 106–117, title VII, §702(b), Nov. 30, 1999, 113 Stat. 1583.)
 
 #### References in Text
 
@@ -84,7 +84,37 @@ Subsec. (f)(2). Pub. L. 99–576, §321(7)(C), which directed that subsec. (e)(2
 
 Amendment by Pub. L. 102–568 effective Oct. 28, 1986, see section 302(b) of Pub. L. 102–568, set out as a note under section 3011 of this title.
 
+#### Delimiting Period
+
+Pub. L. 106–419, title I, §102(e), Nov. 1, 2000, 114 Stat. 1825, provided that:
+
+“(1) In the case of an individual described in paragraph (2), with respect to the time limitation under section 3031 of title 38, United States Code, for use of eligibility and entitlement of basic educational assistance under chapter 30 of such title, the 10-year period applicable under such section shall begin on the later of—
+
+&emsp;“(A) the date of the enactment of this Act \[Nov. 1, 2000\]; or
+
+&emsp;“(B) the date of the individual's last discharge or release from active duty.
+
+“(2) An individual referred to in paragraph (1) is an individual who—
+
+&emsp;“(A) before the date of the enactment of this Act, was not eligible for such basic educational assistance by reason of the requirement of a secondary school diploma (or equivalency certificate) as a condition of eligibility for such assistance as in effect on the date preceding the date of the enactment of this Act; and
+
+&emsp;“(B) becomes entitled to basic educational assistance under section 3011(a)(2), 3012(a)(2), or 3018(b)(4) of title 38, United States Code, by reason of the amendments made by this section \[amending sections 3011, 3012, 3017, and 3018 of this title and section 16132 of Title 10, Armed Forces\].”
+
+Pub. L. 106–419, title I, §103(e), Nov. 1, 2000, 114 Stat. 1826, provided that:
+
+“(1) In the case of an individual described in paragraph (2), with respect to the time limitation under section 3031 of title 38, United States Code, for use of eligibility and entitlement of basic educational assistance under chapter 30 of such title, the 10-year period applicable under such section shall begin on the later of—
+
+&emsp;“(A) the date of the enactment of this Act \[Nov. 1, 2000\]; or
+
+&emsp;“(B) the date of the individual's last discharge or release from active duty.
+
+“(2) An individual referred to in paragraph (1) is an individual who—
+
+&emsp;“(A) before the date of the enactment of this Act, was not eligible for basic educational assistance under chapter 30 of such title by reason of the requirement of an initial obligated period of active duty as condition of eligibility for such assistance as in effect on the date preceding the date of the enactment of this Act; and
+
+&emsp;“(B) on or after such date becomes eligible for such assistance by reason of the amendments made by this section \[amending sections 3011 to 3013 and 3015 of this title\].”
+
 #### Section Referred to in Other Sections
 
-This section is referred to in title 10 section 16133.
+This section is referred to in section 3018C of this title; title 10 section 16133.
 

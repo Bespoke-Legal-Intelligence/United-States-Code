@@ -34,7 +34,7 @@ From funds appropriated under subsection (d) of this section, the Secretary is a
 
 &emsp;&emsp;(B) demonstrations at the State and local levels that are designed to yield nationally significant results, including approaches to public school choice and school-based decisionmaking;
 
-&emsp;&emsp;(C) joint activities with other agencies to assist the effort to achieve the National Education Goals, including activities related to improving the transition from preschool to school and from school to work, as well as activities related to the integration of education and health and social services;
+&emsp;&emsp;(C) joint activities with other agencies to assist the effort to achieve the NationalEducation Goals, including activities related to improving the transition from preschool to school and from school to work, as well as activities related to the integration of education and health and social services;
 
 &emsp;&emsp;(D) activities to promote and evaluate counseling and mentoring for students, including intergenerational mentoring;
 
@@ -110,13 +110,13 @@ From funds appropriated under subsection (d) of this section, the Secretary is a
 
 #### (d) Authorization
 
-For the purpose of carrying out this section, there are authorized to be appropriated$50,000,000 for fiscal year 1995 and such sums as may be necessary for each of the four succeeding fiscal years.
+For the purpose of carrying out this section, there are authorized to be appropriated $50,000,000 for fiscal year 1995 and such sums as may be necessary for each of the four succeeding fiscal years.
 
 (Pub. L. 89–10, title X, §10101, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3809; amended Pub. L. 104–134, title I, §101(d) \[title VII, §703(b)(4)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–255; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
 
 #### References in Text
 
-This Act, as in effect on the day preceding October 20, 1994, referred to in subsec. (b)(2), is Pub. L. 89–10, as added by Pub. L. 100–297, title I, §1001, Apr. 28, 1988, 102 Stat. 140, as amended, known as the Elementary and Secondary Education Act of 1965, which was classified generally to chapter 47 (§2701 et seq.) of this title prior to the general amendment of that Act by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519.
+This Act, as in effect on the day preceding October 20, 1994, referred to in subsec. (b)(2), is Pub. L. 89–10, asadded by Pub. L. 100–297, title I, §1001, Apr. 28, 1988, 102 Stat. 140, as amended, known as the Elementary and Secondary Education Act of 1965, which was classified generally to chapter 47 (§2701 et seq.) of this title prior to the general amendment of that Act by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519.
 
 The Fund for the Improvement and Reform of Schools and Teaching Act, as in effect on the day preceding October 20, 1994, referred to in subsec. (b)(2), is part B (§§3201–3243) of title III of Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 338, which was classified generally to chapter 60 (§4801 et seq.) of this title, prior to repeal by Pub. L. 103–382, title III, §365, Oct. 20, 1994, 108 Stat. 3975.
 

@@ -1,12 +1,18 @@
 ### §46312. Transporting hazardous material
 
-A person shall be fined under title 18, imprisoned for not more than 5 years, or both, if the person, in violation of a regulation or requirement related to the transportation of hazardous material prescribed by the Secretary of Transportation under this part—
+(a)
+
+In General.—A person shall be fined under title 18, imprisoned for not more than 5 years, or both, if the person, in violation of a regulation or requirement related to the transportation of hazardous material prescribed by the Secretary of Transportation under this part—
 
 &emsp;(1) willfully delivers, or causes to be delivered, property containing hazardous material to an air carrier or to an operator of a civil aircraft for transportation in air commerce; or
 
 &emsp;(2) recklessly causes the transportation in air commerce of the property.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1239.)
+(b)
+
+Knowledge of Regulations.—For purposes of subsection (a), knowledge by the person of the existence of a regulation or requirement related to the transportation of hazardous material prescribed by the Secretary under this part is not an element of an offense under this section but shall be considered in mitigation of the penalty.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1239; Pub. L. 106–181, title V, §507, Apr. 5, 2000, 114 Stat. 140.)
 
 Historical and Revision Notes
 
@@ -25,6 +31,14 @@ Historical and Revision Notes
 Aug. 23, 1958, Pub. L. 85–726, §902(h)(2), 72 Stat. 785; restated Jan. 3, 1975, Pub. L. 93–633, §113(c), 88 Stat. 2162.
 
 In this section, before clause (1), the words “is guilty of an offense”, “Upon conviction”, and “for each offense” are omitted as surplus. The words “fined under title 18” are substituted for “a fine of not more than $25,000” for consistency with title 18. The word “prescribed” is substituted for “issued” for consistency in the revised title and with other titles of the United States Code. In clause (1), the words “shipment, baggage, or other” are omitted as surplus.
+
+#### Amendments
+
+2000—Pub. L. 106–181 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
 
 #### Section Referred to in Other Sections
 

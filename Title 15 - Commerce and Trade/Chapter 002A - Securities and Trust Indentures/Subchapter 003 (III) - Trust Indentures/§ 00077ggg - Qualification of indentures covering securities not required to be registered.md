@@ -22,20 +22,6 @@ The Securities Act of 1933, referred to in subsecs. (a) and (c), is act May 27, 
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
-#### Cross References
-
-“Application” or “application for qualification” defined, see section 77ccc of this title.
-
-Order of disqualification of trustee for material conflict of interest in two or more indentures pursuant to subsec. (c) of this section, see section 77jjj of this title.
-
-Qualification of indenture when application becomes effective pursuant to this section, see section 77iii of this title.
-
-Review of Commission orders pursuant to subsec. (c) of this section, see section 77vvv of this title.
-
-Rules and regulations, authority of Commission to make, issue, amend, and rescind, see section 77sss of this title.
-
-Statements in or omissions from analysis required under this section, provisions of sections 77k, 77<i>l</i>, 77q, 77x, 77www, and 77yyy of this title as inapplicable to, see section 77eee of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 77ccc, 77eee, 77fff, 77iii, 77jjj, 77vvv of this title.

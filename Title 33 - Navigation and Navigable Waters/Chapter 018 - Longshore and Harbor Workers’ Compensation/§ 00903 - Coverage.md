@@ -58,19 +58,7 @@ Amendment by Pub. L. 92–576 effective 30 days after Oct. 27, 1972, see section
 
 #### District of Columbia
 
-The Longshoremen's and Harbor Workers’ Compensation Act \[this chapter\] was made applicable in respect to the injury or death of an employee of an employer carrying on any employment in the District of Columbia, by act May 17, 1928, ch. 612, 45 Stat. 600, as amended. See D.C. Law 3–77 (D.C. Code, §36–301 et seq.).
-
-#### Cross References
-
-Compensation for disability or death to persons employed at Military, Air and Naval Bases outside the United States, application of chapter, see sections 1651 to 1654 of Title 42, The Public Health and Welfare.
-
-Compensation for injuries to United States employees, see section 8101 et seq. of Title 5, Government Organization and Employees.
-
-Compensation for injury, death, or detention of employees of contractors with United States outside of the United States, application of chapter, see sections 1701 et seq. of Title 42, The Public Health and Welfare.
-
-Employees of nonappropriation fund instrumentalities of armed services, see section 8171 et seq. of Title 5, Government Organization and Employees.
-
-Presumptions, see section 920 of this title.
+The Longshoremen's and Harbor Workers’ Compensation Act \[this chapter\] was made applicable in respect to the injury or death of an employee of an employer carrying on any employment in the District of Columbia, by act May 17, 1928, ch. 612, 45 Stat. 600, as amended.
 
 #### Section Referred to in Other Sections
 

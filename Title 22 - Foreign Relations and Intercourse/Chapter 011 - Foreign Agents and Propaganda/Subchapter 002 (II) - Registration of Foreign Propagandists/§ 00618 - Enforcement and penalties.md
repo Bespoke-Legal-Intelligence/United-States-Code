@@ -6,7 +6,7 @@ Any person who—
 
 &emsp;(1) willfully violates any provision of this subchapter or any regulation thereunder, or
 
-&emsp;(2) in any registration statement or supplement thereto or in any other document filed with or furnished to the Attorney General under the provisions of this subchapter willfully makes a false statement of a material fact or willfully omits any material fact required to be stated therein or willfully omits a material fact or a copy of a material document necessary to make the statements therein and the copies of documents furnished therewith not misleading, shall, upon conviction thereof, be punished by a fine of not more than $10,000 or by imprisonment for not more than five years, or both, except that in the case of a violation of subsection (b), (e), or (f) of section 614 of this title or of subsection (g) or (h) of this section the punishment shall be a fine of not more than $5,000 or imprisonment for not more than six months, or both.
+&emsp;(2) in any registration statement or supplement thereto or in any other document filedwith or furnished to the Attorney General under the provisions of this subchapter willfully makes a false statement of a material fact or willfully omits any material fact required to be stated therein or willfully omits a material fact or a copy of a material document necessary to make the statements therein and the copies of documents furnished therewith not misleading, shall, upon conviction thereof, be punished by a fine of not more than $10,000 or by imprisonment for not more than five years, or both, except that in the case of a violation of subsection (b), (e), or (f) of section 614 of this title or of subsection (g) or (h) of this section the punishment shall be a fine of not more than $5,000 or imprisonment for not more than six months, or both.
 
 #### (b) Proof of identity of foreign principal
 
@@ -79,4 +79,8 @@ Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, s
 #### Effective Date of 1966 Amendment
 
 Amendment by Pub. L. 89–486 effective ninety days after July 4, 1966, see section 9 of Pub. L. 89–486, set out as a note under section 611 of this title.
+
+#### Effective Date
+
+Section effective on the sixtieth day after Apr. 29, 1942, except that prior to such sixtieth day the Attorney General may make, prescribe, amend, and rescind such rules, regulations, and forms as may be necessary to carry out act Apr. 29, 1942, see section 3 of act Apr. 29, 1942, set out as an Effective Date of 1942 Amendment note under section 611 of this title.
 

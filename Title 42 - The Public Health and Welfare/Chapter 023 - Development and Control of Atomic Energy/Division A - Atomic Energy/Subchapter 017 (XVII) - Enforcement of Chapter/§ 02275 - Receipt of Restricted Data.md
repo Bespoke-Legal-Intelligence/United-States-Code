@@ -18,16 +18,6 @@ Amendment by Pub. L. 91–161 applicable to offenses committed on or after Dec. 
 
 Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
 
-#### Cross References
-
-Conspiracy to commit offense, see section 371 of Title 18, Crimes and Criminal Procedure.
-
-Federal retirement benefits, forfeiture upon conviction of offense described hereunder, see section 8312 of Title 5, Government Organization and Employees.
-
-Forfeiture of veterans’ benefits upon conviction under this section, see section 6105 of Title 38, Veterans’ Benefits.
-
-Wire or oral communications, authorization for interception, to provide evidence of offenses punishable by death or by imprisonment for more than one year under sections 2274 to 2277 of this title, see section 2516 of Title 18, Crimes and Criminal Procedure.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 2000aa, 2278, 2279 of this title; title 5 section 8312; title 18 section 2516; title 22 section 2778; title 38 section 6105.

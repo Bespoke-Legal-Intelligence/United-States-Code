@@ -20,7 +20,7 @@ In making grants and entering into contracts for any fiscal year under section 2
 
 #### Prior Provisions
 
-A prior section 300b–3, act July 1, 1944, ch. 373, title XI, §1104, as added May 16, 1972, Pub. L. 92–294, §3(c), 86 Stat. 138; amended Aug. 29, 1972, Pub. L. 92–414, §4(3), 86 Stat. 652, authorized grants to be made upon application to Secretary and required supervision of programs by applicant, confidentiality of test results, medical records and other information obtained from treated person, community representation in programs, assurances by applicant that priority will be given to persons of child bearing years, and demonstration by applicant of proper fiscal control and accounting procedures, prior to the general amendment of this part by Pub. L. 94–278 and is covered by this section.
+A prior section 300b–3, act July 1, 1944, ch. 373, title XI, §1104, as added May 16, 1972, Pub. L. 92–294, §3(c), 86 Stat. 138; amended Aug. 29, 1972, Pub. L. 92–414, §4(3), 86 Stat. 652, authorized grants to be made upon application to Secretary and required supervision of programs by applicant, confidentiality of test results, medical records and other information obtained from treated person, community representation in programs, assurances by applicant that priority will be given to persons of child bearing years, and demonstration by applicant of proper fiscal control and accounting procedures, prior to repeal by Pub. L. 94–278, title IV, §403(a), Apr. 22, 1976, 90 Stat. 407.
 
 #### Amendments
 

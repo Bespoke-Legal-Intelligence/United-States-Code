@@ -2,7 +2,7 @@
 
 #### (a) President's budget
 
-Beginning with fiscal year 1992, the President's budget shall reflect the costs of directloan and loan guarantee programs. The budget shall also include the planned level of new direct loan obligations or loan guarantee commitments associated with each appropriations request.
+Beginning with fiscal year 1992, the President's budget shall reflect the costs of direct loan and loan guarantee programs. The budget shall also include the planned level of new direct loan obligations or loan guarantee commitments associated with each appropriations request.
 
 #### (b) Appropriations required
 
@@ -62,5 +62,5 @@ Subsec. (e). Pub. L. 105–33, §10117(b)(5), amended heading and text of subsec
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 661d of this title; title 16 section 1854; title 22 sections 2195, 2197; title 31 section 3711; title 42 sections 254b, 4822; title 45 section 822.
+This section is referred to in section 661d of this title; title 16 section 1854; title 22 sections 2195, 2197; title 31section 3711; title 42 sections 254b, 4822; title 45 section 822.
 

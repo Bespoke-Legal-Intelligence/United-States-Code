@@ -28,7 +28,7 @@
 
 #### (2) Deadline for action
 
-&emsp;The Commission shall complete all actions necessary to prescribe regulations required bythis section so that the regulations shall become effective within 1 year after November 29, 1999.
+&emsp;The Commission shall complete all actions necessary to prescribe regulations required by this section so that the regulations shall become effective within 1 year after November 29, 1999.
 
 #### (c) Eligibility for retransmission
 
@@ -62,6 +62,10 @@
 
 &emsp;&emsp;Commission regulations prescribed under this paragraph shall seek to avoid any undue burden on any party.
 
+#### (5) Definition
+
+&emsp;Notwithstanding subsection (d)(4) of this section, for purposes of paragraphs (2) and (4) of this subsection, the term “satellite carrier” includes a distributor (as defined in section 119(d)(1) of title 17), but only if the satellite distributor's relationship with the subscriber includes billing, collection, service activation, and service deactivation.
+
 #### (d) Definitions
 
 For the purposes of this section:
@@ -92,7 +96,11 @@ For the purposes of this section:
 
 &emsp;The term “television network” means a television network in the United States which offers an interconnected program service on a regular basis for 15 or more hours per week to at least 25 affiliated broadcast stations in 10 or more States.
 
-(June 19, 1934, ch. 652, title III, §339, as added Pub. L. 106–113, div. B, §1000(a)(9) \[title I, §1008(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–534.)
+(June 19, 1934, ch. 652, title III, §339, as added Pub. L. 106–113, div. B, §1000(a)(9) \[title I, §1008(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–534; amended Pub. L. 106–553, §1(a)(2) \[title X, §1008\], Dec. 21, 2000, 114 Stat. 2762, 2762A–140.)
+
+#### Amendments
+
+2000—Subsec. (c)(5). Pub. L. 106–553 added par. (5).
 
 #### Section Referred to in Other Sections
 

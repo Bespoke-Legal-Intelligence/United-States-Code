@@ -72,7 +72,7 @@
 
 #### (c) Family service workers
 
-In order to improve the quality and effectiveness of staff providing in-home and other services (including needs assessment, development of service plans, family advocacy, and coordination of service delivery) to families of children participating in Head Start programs, the Secretary, in coordination with concerned public and private agencies and organizations examining the issues of standards and training for family service workers, shall—
+In order to improve the quality and effectiveness of staff providing in-home and other services (including needs assessment, development of service plans, family advocacy, and coordination of service delivery) to families of children participating in Head Start programs, the Secretary, in coordination with concerned publicand private agencies and organizations examining the issues of standards and training for family service workers, shall—
 
 &emsp;(1) review and, as necessary, revise or develop new qualification standards for Head Start staff providing such services;
 
@@ -148,7 +148,7 @@ Subsec. (b)(2)(B). Pub. L. 105–285, §115(2), substituted “staff or that are
 
 #### Effective Date
 
-Section effective May 18, 1994, but not applicable to Head Start agencies and other recipients of financial assistance under the Head Start Act (42 U.S.C. 9831 et seq.) until Oct. 1, 1994, see section 127 of Pub. L. 103–252, set out as an Effective Date of 1994 Amendment note under section 9832 of this title.
+Section effective May 18, 1994, but not applicable to Head Start agencies and other recipients of financialassistance under the Head Start Act (42 U.S.C. 9831 et seq.) until Oct. 1, 1994, see section 127 of Pub. L. 103–252, set out as an Effective Date of 1994 Amendment note under section 9832 of this title.
 
 #### Section Referred to in Other Sections
 

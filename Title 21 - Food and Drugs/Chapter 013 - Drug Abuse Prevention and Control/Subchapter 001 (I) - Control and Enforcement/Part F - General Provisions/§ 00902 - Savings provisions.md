@@ -1,6 +1,6 @@
 ### §902. Savings provisions
 
-Nothing in this chapter, except this part and, to the extent of any inconsistency, sections 827(e) and 829 of this title, shall be construed as in any way affecting, modifying, repealing, or superseding the provisions of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. §301 et seq.\].
+Nothing in this chapter, except this part and, to the extent of any inconsistency, sections827(e) and 829 of this title, shall be construed as in any way affecting, modifying, repealing, or superseding the provisions of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. §301 et seq.\].
 
 (Pub. L. 91–513, title II, §707, Oct. 27, 1970, 84 Stat. 1284.)
 

@@ -18,7 +18,3 @@ Historical and Revision Notes
 
 July 14, 1939, ch. 267, §1 (last proviso); restated May 29, 1954, ch. 249, §19(b) (last proviso), 68 Stat. 166.
 
-#### Cross References
-
-Reenlistment after service as officer, see section 8258 of this title.
-

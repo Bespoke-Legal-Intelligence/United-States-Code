@@ -12,9 +12,3 @@ The Tennessee Valley Authority Act, referred to in text, is act May 18, 1933, ch
 
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
-#### Cross References
-
-Bonneville Project, see sections 832 to 832<i>l</i> of Title 16, Conservation.
-
-Flood control, applicability of this section to works of, see section 558b–1 of this title.
-

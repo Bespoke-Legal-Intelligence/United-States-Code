@@ -12,7 +12,3 @@ Section 79 of this title, referred to in text, was in the original a reference t
 
 “Denali National Park” substituted in text for “Mount McKinley National Park” pursuant to Pub. L. 96–487, §202(3)(a), which is classified to section 410hh–1(3)(a) of this title and which added lands to the park, established additional land as the Denali National Preserve, and redesignated the whole as the Denali National Park and Preserve.
 
-#### Cross References
-
-Issuance of licenses to citizens or associations or corporations for purpose of constructing, operating, and maintaining dams, water conduits, reservoirs, powerhouses, transmission lines, etc., upon any part of the public lands or reservations of United States, see section 797 of this title.
-

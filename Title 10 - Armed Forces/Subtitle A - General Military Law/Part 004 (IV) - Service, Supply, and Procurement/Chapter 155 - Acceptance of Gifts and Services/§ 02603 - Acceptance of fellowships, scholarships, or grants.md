@@ -1,6 +1,6 @@
 ### §2603. Acceptance of fellowships, scholarships, or grants
 
-(a) Notwithstanding any other provision of law, a fellowship, scholarship, or grant may, under regulations to be prescribed by the President or his designee, be made by a corporation, fund, foundation, or educational institution that is organized and operated primarily for scientific, literary, or educational purposes to any member of the Armed Forces, and the benefits thereof may be accepted by him—
+(a) Notwithstanding any other provision of law, a fellowship, scholarship, or grant may, under regulations to be prescribed by the President or his designee, be made by a corporation, fund, foundation, or educational institution thatis organized and operated primarily for scientific, literary, or educational purposes to any member of the Armed Forces, and the benefits thereof may be accepted by him—
 
 &emsp;(1) in recognition of outstanding performance in his field;
 
@@ -19,10 +19,6 @@ However, the benefits of such a fellowship, scholarship, or grant may be accepte
 Ex. Ord. No. 11079, Jan. 25, 1963, 28 F.R. 819, as amended by Ex. Ord. No. 11382, Nov. 28, 1967, 32 F.R. 16247; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617, provided:
 
 By virtue of the authority vested in me by section 2603 of Title 10, United States Code \[this section\], I hereby designate the Secretary of Defense, with respect to members of the Army, Navy, Air Force, and Marine Corps, the Secretary of Transportation, with respect to members of the Coast Guard when it is not operating as a service in the Navy, and the Secretary of Health and Human Services, with respect to commissioned officers of the Public Health Service, to prescribe regulations under which members of the Armed Forces and commissioned officers of the Public Health Service may accept fellowships, scholarships, or grants from corporations, funds, foundations, or educational institutions organized and operated primarily for scientific, literary, or educational purposes. To the extent practicable, such regulations shall be uniform.
-
-#### Cross References
-
-Commissioned officers of the Public Health Service, applicability of this section, see section 213a of Title 42, The Public Health and Welfare.
 
 #### Section Referred to in Other Sections
 

@@ -20,3 +20,7 @@ Historical and Revision Notes
 
 Sept. 7, 1962, Pub. L. 87–650, §16, 76 Stat. 505.
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of reporting provisions in this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 204 of House Document No. 103–7.
+

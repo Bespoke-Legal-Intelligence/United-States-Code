@@ -20,7 +20,7 @@ All persons appointed or designated in pursuance of authority contained in this 
 
 #### References in Text
 
-The Foreign Service Act of 1980, referred to in subsec. (d), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, which is classified principally to chapter 52 (§3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
+The Foreign Service Act of 1980, referred to in subsec. (d), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, which is classified principally to chapter 52\(§3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
 
 #### Amendments
 
@@ -38,7 +38,7 @@ Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provi
 
 #### Short Title
 
-Section 1 of Pub. L. 85–177 provided that: “This Act \[enacting this chapter and amending section 2074 of Title 42, The Public Health and Welfare\] may be citedas the ‘International Atomic Energy Agency Participation Act of 1957’.”
+Section 1 of Pub. L. 85–177 provided that: “This Act \[enacting this chapter and amending section 2074 of Title 42, The Public Health and Welfare\] may be cited as the ‘International Atomic Energy Agency Participation Act of 1957’.”
 
 #### Opposition to Certain Programs or Projects; Reporting Requirements
 

@@ -8,7 +8,3 @@ All moneys paid for such lands shall be deposited in the Treasury of the United 
 
 (Mar. 3, 1909, ch. 263, 35 Stat. 781, 782; May 6, 1910, ch. 204, 36 Stat. 349.)
 
-#### Cross References
-
-Acquisition of lands, see section 465 of this title.
-

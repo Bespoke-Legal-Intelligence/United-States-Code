@@ -28,7 +28,7 @@
 
 (d) The Secretary of Defense, and the Secretary of Transportation with respect to the Coast Guard when it is not operating in the Navy, shall prescribe regulations to implement this section.
 
-(Added Pub. L. 90–235, §4(a)(5)(A), Jan. 2, 1968, 81 Stat. 759; amended Pub. L. 96–513, title I, §116, Dec. 12, 1980, 94 Stat. 2878; Pub. L. 98–94, title X, §1002(a), Sept. 24, 1983, 97 Stat. 655; Pub. L. 101–510, div. A, title V, §556, Nov. 5, 1990, 104 Stat. 1570; Pub. L. 106–65, div. A, title V, §506, Oct. 5, 1999, 113 Stat. 591.)
+(Added Pub. L. 90–235, §4(a)(5)(A), Jan. 2, 1968, 81 Stat. 759; amended Pub. L. 96–513, title I, §116, Dec. 12, 1980, 94 Stat. 2878; Pub. L. 98–94, title X, §1002(a), Sept. 24, 1983, 97 Stat. 655; Pub. L.101–510, div. A, title V, §556, Nov. 5, 1990, 104 Stat. 1570; Pub. L. 106–65, div. A, title V, §506, Oct. 5, 1999, 113 Stat. 591.)
 
 #### Amendments
 
@@ -61,10 +61,6 @@ Section 1002(b), (c) of Pub. L. 98–94 provided that:
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to prescribe regulations under the amendment by Pub. L. 96–513 effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under section 101 of this title.
-
-#### Cross References
-
-Reduction in retired or retirement pay during term of employment, see section 5532 of Title 5, Government Organization and Employees.
 
 #### Section Referred to in Other Sections
 

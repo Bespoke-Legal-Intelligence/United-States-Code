@@ -186,9 +186,9 @@
 
 (3) For purposes of this subsection, a contract is a new contract unless the work provided for in the contract is a continuation of the work performed by the specified entity under a preceding contract.
 
-(4) This subsection shall not apply with respect to any contract that calls upon the National Academy of Sciences to investigate, examine, or experiment upon any subject of science or art of significance to an agency named in section 2303(a) of this title and to report on such matters to the Congress or any agency of the Federal Government.
+(4) This subsection shall not apply with respect to any contract that calls upon the National Academy of Sciences to investigate, examine, or experiment upon any subject of science or art of significance to an agencynamed in section 2303(a) of this title and to report on such matters to the Congress or any agency of the Federal Government.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 128; Pub. L. 85–800, §8, Aug. 28, 1958, 72 Stat. 967; Pub. L. 85–861, §33(a)(12), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 87–653, §1(a)–(c), Sept. 10, 1962, 76 Stat. 528; Pub. L. 90–268, §5, Mar. 16, 1968, 82 Stat. 50; Pub. L. 90–500, title IV, §405, Sept. 20, 1968, 82 Stat. 851; Pub. L. 93–356, §4, July 25, 1974, 88 Stat. 390; Pub. L. 96–513, title V, §511(76), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 97–86, title IX, §907(a), Dec. 1, 1981, 95 Stat. 1117; Pub. L. 97–295, §1(24), Oct. 12, 1982, 96 Stat. 1290; Pub. L. 97–375, title I, §114, Dec. 21, 1982, 96 Stat. 1821; Pub. L. 98–369, div. B, title VII, §§2723(a), 2727(b), July 18, 1984, 98 Stat. 1187, 1194; Pub. L. 98–577, title V, §504(b)(1), (2), Oct. 30, 1984, 98 Stat. 3086; Pub. L. 99–145, title IX, §961(a)(1), title XIII, §1303(a)(13), Nov. 8, 1985, 99 Stat. 703, 739; Pub. L. 99–500, §101(c) \[title X, §§923(a)–(c), 927(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–152, 1783–155, and Pub. L. 99–591, §101(c) \[title X, §§923(a)–(c), 927(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–152, 3341–155; Pub. L. 99–661, div. A, title IX, formerly title IV, §§923(a)–(c), 927(a), title XIII, §1343(a)(14), Nov. 14, 1986, 100 Stat. 3932, 3935, 3993, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §7(d)(3), Apr. 21, 1987, 101 Stat. 281; Pub. L. 100–456, div. A, title VIII, §803, Sept. 29, 1988, 102 Stat. 2008; Pub. L. 101–189, div. A, title VIII, §§812, 817, 818, 853(d), Nov. 29, 1989, 103 Stat. 1493, 1501, 1502, 1519; Pub. L. 101–510, div. A, title VIII, §806(b), Nov. 5, 1990, 104 Stat. 1592; Pub. L.102–25, title VII, §701(d)(2), Apr. 6, 1991, 105 Stat. 114; Pub. L. 102–484, div. A, title VIII, §§801(h)(2), 816, title X, §1052(23), Oct. 23, 1992, 106 Stat. 2445, 2454, 2500; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–355, title I, §§1001–1003, 1004(b), 1005, title IV, §4401(a), title VII, §7203(a)(1), Oct. 13, 1994, 108 Stat. 3249, 3253, 3254, 3347, 3379; Pub. L. 104–106, div. D, title XLI, §§4101(a), 4102(a), title XLII, §4202(a)(1), title XLIII, §4321(b)(4), (5), Feb. 10, 1996, 110 Stat. 642, 643, 652, 672; Pub. L. 104–320, §§7(a)(1), 11(c)(1), Oct. 19, 1996, 110 Stat. 3871, 3873; Pub. L. 105–85, div. A, title VIII, §§841(b), 850(f)(3)(B), title X, §1073(a)(42), (43), Nov. 18, 1997, 111 Stat. 1843, 1850, 1902; Pub. L. 106–65, div. A, title IX, §911(a)(1), Oct. 5, 1999, 113 Stat. 717.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 128; Pub. L. 85–800, §8, Aug. 28, 1958, 72 Stat. 967; Pub. L. 85–861, §33(a)(12), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 87–653, §1(a)–(c), Sept. 10, 1962, 76 Stat. 528; Pub. L. 90–268, §5, Mar. 16, 1968, 82 Stat. 50; Pub. L. 90–500, title IV, §405, Sept. 20, 1968, 82 Stat. 851; Pub. L. 93–356, §4, July 25, 1974, 88 Stat. 390; Pub. L. 96–513, title V, §511(76), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 97–86, title IX, §907(a), Dec. 1, 1981, 95 Stat. 1117; Pub. L. 97–295, §1(24), Oct. 12, 1982, 96 Stat. 1290; Pub. L. 97–375, title I, §114, Dec. 21, 1982, 96 Stat. 1821; Pub. L. 98–369, div. B, title VII, §§2723(a), 2727(b), July 18, 1984, 98 Stat. 1187, 1194; Pub. L. 98–577, title V, §504(b)(1), (2), Oct. 30, 1984, 98 Stat. 3086; Pub. L. 99–145, title IX, §961(a)(1), title XIII, §1303(a)(13), Nov. 8, 1985, 99 Stat. 703, 739; Pub. L. 99–500, §101(c) \[title X, §§923(a)–(c), 927(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–152, 1783–155, and Pub. L. 99–591, §101(c) \[title X, §§923(a)–(c), 927(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–152, 3341–155; Pub. L. 99–661, div. A, title IX, formerly title IV, §§923(a)–(c), 927(a), title XIII, §1343(a)(14), Nov. 14, 1986, 100 Stat. 3932, 3935, 3993, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §7(d)(3), Apr. 21, 1987, 101 Stat. 281; Pub. L. 100–456, div. A, title VIII, §803, Sept. 29, 1988, 102 Stat. 2008; Pub. L. 101–189, div. A, title VIII, §§812, 817, 818, 853(d), Nov. 29, 1989, 103 Stat. 1493, 1501, 1502, 1519; Pub. L. 101–510, div. A, title VIII, §806(b), Nov. 5, 1990, 104 Stat. 1592; Pub. L. 102–25, title VII, §701(d)(2), Apr. 6, 1991, 105 Stat. 114; Pub. L. 102–484, div. A, title VIII, §§801(h)(2), 816, title X, §1052(23), Oct. 23, 1992, 106 Stat. 2445, 2454, 2500; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–355, title I, §§1001–1003, 1004(b), 1005, title IV, §4401(a), title VII, §7203(a)(1), Oct. 13, 1994, 108 Stat. 3249, 3253, 3254, 3347, 3379; Pub. L. 104–106, div. D, title XLI, §§4101(a), 4102(a), title XLII, §4202(a)(1), title XLIII, §4321(b)(4), (5), Feb. 10, 1996, 110 Stat. 642, 643, 652, 672; Pub. L. 104–320, §§7(a)(1), 11(c)(1), Oct. 19, 1996, 110 Stat. 3871, 3873; Pub. L. 105–85, div. A, title VIII, §§841(b), 850(f)(3)(B), title X, §1073(a)(42), (43), Nov. 18, 1997, 111 Stat. 1843, 1850, 1902; Pub. L. 106–65, div. A, title IX, §911(a)(1), Oct. 5, 1999, 113 Stat. 717.)
 
 Historical and Revision Notes<br>1956
 
@@ -304,7 +304,7 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
-1999—Subsec. (f)(1)(B)(iii), (6)(B). Pub. L. 106–65 substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
+1999—Subsec. (f)(1)(B)(iii), (6)(B). Pub. L. 106–65 substituted “Under Secretary of Defense for Acquisition,Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
 
 1997—Subsec. (c)(5). Pub. L. 105–85, §1073(a)(42), substituted “subsection (k)” for “subsection (j)”.
 
@@ -322,7 +322,7 @@ Subsec. (g)(4). Pub. L. 105–85, §850(f)(3)(B), substituted “31(f)” for �
 
 1996—Subsec. (c)(3)(C). Pub. L. 104–320 substituted “agency, or to procure the services of an expert or neutral for use” for “agency, or” and inserted “or negotiated rulemaking” after “alternative dispute resolution”.
 
-Subsec. (f)(1)(B)(i). Pub. L. 104–106, §4102(a)(1), substituted “$500,000 (but equal to or less than $10,000,000)”for “$100,000 (but equal to or less than $1,000,000)” and “(ii) or (iii)” for “(ii), (iii), or (iv)”.
+Subsec. (f)(1)(B)(i). Pub. L. 104–106, §4102(a)(1), substituted “$500,000 (but equal to or less than $10,000,000)” for “$100,000 (but equal to or less than $1,000,000)” and “(ii) or (iii)” for “(ii), (iii), or (iv)”.
 
 Subsec. (f)(1)(B)(ii). Pub. L. 104–106, §4102(a)(2), substituted “$10,000,000 (but equal to or less than $50,000,000)” for “$1,000,000 (but equal to or less than $10,000,000)” and inserted “or” at end.
 
@@ -518,6 +518,10 @@ Repeal of prior subsec. (j) of this section by section 1004(b) of Pub. L. 103–
 
 Section 2723(c) of Pub. L. 98–369 provided that: “The amendments made by this section \[amending this section and section 2305 of this title\] do not supersede or affect the provisions of section 8(a) of the Small Business Act (15 U.S.C. 637(a)).”
 
+#### Requirement To Disregard Certain Agreements in Awarding Contracts for Purchase of Firearms or Ammunition
+
+Pub. L. 106–398, §1 \[\[div. A\], title VIII, §826\], Oct. 30, 2000, 114 Stat. 1654, 1654A–220, provided that: “In accordance with the requirements contained in the amendments enacted in the Competition in Contracting Act of 1984 (title VII of division B of Public Law 98–369; 98 Stat. 1175) \[see Short Title of 1984 Amendments note set out under section 251 of Title 41, Public Contracts\], the Secretary of Defense may not, in awarding a contract for the purchase of firearms or ammunition, take into account whether a manufacturer or vendor of firearms or ammunition is a party to an agreement under which the manufacturer or vendor agrees to adopt limitations with respect to importing, manufacturing, or dealing in firearms or ammunition in the commercial market.”
+
 #### GAO Report
 
 Pub. L. 106–65, div. A, title VIII, §806(b), Oct. 5, 1999, 113 Stat. 705, provided that: “Not later than March 1, 2001, the Comptroller General shall submit to Congress an evaluation of the test program authorized by the provisions in section 4202 of the Clinger-Cohen Act of 1996 \[Pub. L. 104–106, amending this section, section 2305 of this title, and sections 253, 253a, 416, and 427 of Title 41, Public Contracts, and enacting provisions set out as a note below\], together with any recommendations that the Comptroller General considers appropriate regarding the test program or the use of special simplified procedures for purchases of commercial items in excess of the simplified acquisition threshold.”
@@ -670,7 +674,7 @@ Termination of Authority.—The authority provided for commanders of military in
 
 #### Evaluation of Contracts for Professional and Technical Services
 
-Section 804 of Pub. L. 100–456, as amended by Pub. L. 103–160, div. A, title IX, §904(f), Nov. 30, 1993, 107 Stat. 1729, directed Secretary of Defense, within 120 days after Sept. 29, 1988, to establish criteria to ensure thatproposals for contracts for professional and technical services be evaluated on a basis which does not encourage contractors to propose mandatory uncompensated overtime for professional and technical employees and, within 30 days after Sept. 29, 1988, to establish an advisory committee to make recommendations on the criteria.
+Section 804 of Pub. L. 100–456, as amended by Pub. L. 103–160, div. A, title IX, §904(f), Nov. 30, 1993, 107 Stat. 1729, directed Secretary of Defense, within 120 days after Sept. 29, 1988, to establish criteria to ensure that proposals for contracts for professional and technical services be evaluated on a basis which does not encourage contractors to propose mandatory uncompensated overtime for professional and technical employees and, within 30 days after Sept. 29, 1988, to establish an advisory committee to make recommendations on the criteria.
 
 #### Regulations On Use of Fixed-Price Development Contracts
 
@@ -679,6 +683,14 @@ Pub. L. 100–456, div. A, title VIII, §807, Sept. 29, 1988, 102 Stat. 2011, as
 #### Prohibition of Purchase of Angolan Petroleum Products From Companies Producing Oil in Angola
 
 Section 842 of Pub. L. 102–484 provided that: “The prohibition in section 316 of the National Defense Authorization Act for Fiscal Year 1987 \[Pub. L. 99–661\] (100 Stat. 3855; 10 U.S.C. 2304 note) shall cease to be effective on the date on which the President certifies to Congress that free, fair, and democratic elections have taken place in Angola.”
+
+Determination of President of the United States, No. 93–32, July 19, 1993, 58 F.R. 40309, provided:
+
+Pursuant to the authority vested in me by Public Law 102–484, section 842 \[set out as a note above\], I hereby certify that free, fair, and democratic elections have taken place in Angola.
+
+You are authorized and directed to report this determination to the Congress and publish it in the Federal Register.
+
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Section 316 of Pub. L. 99–661 provided that:
 
@@ -730,15 +742,7 @@ Section 1223 of Pub. L. 99–661, which required Secretary to contract for Depar
 
 #### Reports on Savings or Costs From Increased Use of Civilian Personnel
 
-Section 1224 of Pub. L. 99–661, which required Secretary to maintain cost comparison data on performance of a commercial or industrial type activity taken over by Department of Defense comparing performance by employees of private contractor to that of civilian employees of Department of Defense, and to submit semi-annual report on savings or loss to United States, was repealed and restated in section 2463 of this title by Pub. L. 100–370, §2(a)(1), (c)(3), July 19, 1988, 102 Stat. 853, 854.
-
-Determination of President of the United States, No. 93–32, July 19, 1993, 58 F.R. 40309, provided:
-
-Pursuant to the authority vested in me by Public Law 102–484, section 842 \[set out as a note above\], I hereby certify that free, fair, and democratic elections have taken place in Angola.
-
-You are authorized and directed to report this determination to the Congress and publish it in the Federal Register.
-
-William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Section 1224 of Pub. L. 99–661, which required Secretary to maintain cost comparison data on performance of a commercial or industrial type activity takenover by Department of Defense comparing performance by employees of private contractor to that of civilian employees of Department of Defense, and to submit semi-annual report on savings or loss to United States, was repealed and restated in section 2463 of this title by Pub. L. 100–370, §2(a)(1), (c)(3), July 19, 1988, 102 Stat. 853, 854.
 
 #### Limitations on Contracting Performed by Coast Guard
 
@@ -808,7 +812,7 @@ Pub. L. 99–145, title XII, §1233, Nov. 8, 1985, 99 Stat. 734, related to serv
 
 #### Limitation on Contracting-Out Core Logistics Functions
 
-Section 1231(a)–(e) of Pub. L. 99–145 declared that certain specifically described functions of the Department of Defense shall be deemed logistics activities necessary to maintain the logistics capability described in section 307(a)(1) of Pub. L. 98–525, formerly set out below; contained a description of the functions, i.e., depot-level maintenance of mission-essential materiel at specifically located activities of the Army, the Navy, the Marine Corps, the Air Force, the Defense Logistics Agency, and the Defense Mapping Agency; included certain matters within the specified functions and excluded certain functions; and defined “mission-essential materiel” as related to such functions.
+Section 1231(a)–(e) of Pub. L. 99–145 declared that certain specifically described functions of the Department of Defense shall be deemed logistics activities necessary to maintain the logistics capability described in section 307(a)(1) of Pub. L. 98–525, formerly set out below; contained a description of the functions, i.e., depot-level maintenance of mission-essential materiel at specifically located activities of the Army, theNavy, the Marine Corps, the Air Force, the Defense Logistics Agency, and the Defense Mapping Agency; included certain matters within the specified functions and excluded certain functions; and defined “mission-essential materiel” as related to such functions.
 
 Section 307 of Pub. L. 98–525, as amended by Pub. L. 99–145, title XII, §1231(f), Nov. 8, 1985, 99 Stat. 733, which prohibited contracting to non-Government personnel of logistics activities necessary for effective response to national emergencies unless Secretary waives such prohibition after a determination that Government performance of such activity is no longer required for national defense reasons, and reports to Congress on waiver, was repealed and restated in section 2464 of this title by Pub. L. 100–370, §2(a)(1), (c)(2), July 19, 1988, 102 Stat. 853, 854.
 
@@ -868,15 +872,7 @@ Pub. L. 90–5, title III, §304, Mar. 16, 1967, 81 Stat. 6, which had provided 
 
 Provisions of the National Emergencies Act not applicable to the powers and authorities conferred by subsec. (a)(1) of this section and actions taken hereunder, see section 1651(a)(7) of Title 50, War and National Defense.
 
-#### Cross References
-
-Delegation of powers, see section 2311 of this title.
-
-Determinations or decisions based on written findings, see section 2310 of this title.
-
-National defense contract provisions as not authorizing increase in price of subsec. (a)(15) contracts to amount higher than lowest rejected bid of responsible bidder, see section 1432 of Title 50, War and National Defense.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1091, 1724, 2304a, 2304b, 2304c, 2343, 2350b, 2361, 2469a, 2486, 2662 of this title; title 15 section 637; title 41 sections 416, 417, 427; title 50 sections 403c, 1432, 1651; title 50 App. section 2077.
+This section is referred to in sections 1091, 1724, 2304a, 2304b, 2304c, 2343, 2350b, 2361, 2469a, 2486, 2688, 4554 of this title; title 15 section 637; title 41 sections 416, 417, 427; title 50 sections 403c, 1432, 1651; title 50 App. section 2077.
 

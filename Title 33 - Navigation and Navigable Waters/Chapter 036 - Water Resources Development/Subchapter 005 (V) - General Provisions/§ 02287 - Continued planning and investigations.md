@@ -4,9 +4,7 @@
 
 After the Chief of Engineers transmits his recommendations for a water resources development project to the Secretary for transmittal to the Congress, as authorized in section 701–1 of this title, and before authorization for construction of such project, the Chief of Engineers is authorized to undertake continued planning and engineering (other than preparation of plans and specifications) for such project if the Chief of Engineers finds that the project is without substantial controversy and justifies further engineering, economic, and environmental investigations and the Chief of Engineers transmits to the Committee on Public Works and Transportation of the House of Representatives and the Committee on Environment and Public Works of the Senate a statement of such findings. In the one-year period after authorization for construction of such project, the Chief of Engineers is authorized to undertake planning, engineering, and design for such project.
 
-#### (b) Annual report
-
-Not later than January 15, 1987, and each January 15 thereafter, the Secretary shall prepare and transmit a report on the activities undertaken under this section in the preceding fiscal year to the Committee on Public Works and Transportation of the House of Representatives and the Committee on Environment and Public Works of the Senate.
+#### (b) Omitted
 
 #### (c) Authorizations as additions to other authorizations
 
@@ -17,4 +15,8 @@ The authorization made by this section shall be in addition to any other authori
 #### Change of Name
 
 Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+
+#### Codification
+
+Subsec. (b) of this section, which required the Secretary to prepare and transmit an annual report to certain committees of Congress on activities undertaken under this section, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 72 of House Document No. 103–7.
 

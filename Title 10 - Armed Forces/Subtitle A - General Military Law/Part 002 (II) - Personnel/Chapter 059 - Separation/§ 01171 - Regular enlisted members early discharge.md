@@ -1,6 +1,6 @@
 ### §1171. Regular enlisted members: early discharge
 
-Under regulations prescribed by the Secretary concerned and approved by the President, any regular enlisted member of an armed force may be discharged within three months before the expiration of the term of his enlistment or extended enlistment. A discharge under this section does not affect any right, privilege, or benefit that a member would have had if he completed his enlistment or extended enlistment, except that the member is not entitled to pay and allowances for the period not served.
+Under regulations prescribed by the Secretary concerned and approved by the President, anyregular enlisted member of an armed force may be discharged within three months before the expiration of the term of his enlistment or extended enlistment. A discharge under this section does not affect any right, privilege, or benefit that a member would have had if he completed his enlistment or extended enlistment, except that the member is not entitled to pay and allowances for the period not served.
 
 (Added Pub. L. 90–235, §3(a)(1)(A), Jan. 2, 1968, 81 Stat. 757.)
 

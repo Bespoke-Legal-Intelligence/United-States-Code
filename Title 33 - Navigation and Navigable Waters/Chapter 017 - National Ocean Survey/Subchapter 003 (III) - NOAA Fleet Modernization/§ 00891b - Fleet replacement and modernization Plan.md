@@ -30,6 +30,38 @@ The Secretary may not enter into any contract for the construction, lease, or se
 
 (Pub. L. 102–567, title VI, §604, Oct. 29, 1992, 106 Stat. 4300.)
 
+#### Fishery Survey Vessel Acquisition
+
+Pub. L. 106–450, title III, Nov. 7, 2000, 114 Stat. 1945, provided that:
+
+#### “SEC. 301. SHORT TITLE.
+
+“This title may be cited as the ‘Fisheries Survey Vessel Authorization Act of 2000’.
+
+#### “SEC. 302. ACQUISITION OF FISHERY SURVEY VESSELS.
+
+“(a)
+
+In General.—The Secretary, subject to the availability of appropriations, may in accordance with this section acquire, by purchase, lease, lease-purchase, or charter, and equip up to six fishery survey vessels in accordance with this section.
+
+“(b)
+
+Vessel Requirements.—Any vessel acquired and equipped under this section must—
+
+&emsp;“(1) be capable of—
+
+&emsp;&emsp;“(A) staying at sea continuously for at least 30 days;
+
+&emsp;&emsp;“(B) conducting fishery population surveys using hydroacoustic, longlining, deep water, and pelagic trawls, and other necessary survey techniques; and
+
+&emsp;&emsp;“(C) conducting other work necessary to provide fishery managers with the accurate and timely data needed to prepare and implement fishery management plans; and
+
+&emsp;“(2) have a hull that meets the International Council for Exploration of the Sea standard regarding acoustic quietness.
+
+“(c)
+
+Authorization.—To carry out this section there are authorized to be appropriated to the Secretary $60,000,000 for each of fiscal years 2002 and 2003.”
+
 #### Deactivation of NOAA Research Vessels
 
 Section 401(b)(4) of Pub. L. 102–567 provided that:

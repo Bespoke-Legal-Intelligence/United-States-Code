@@ -12,7 +12,7 @@ Payment of Claims.—(1) The Secretary of Defense may authorize a contractor und
 
 (b)
 
-Recovery From Third-Party Payers.—The United States shall have the same right tocollect charges related to claims described in subsection (a) as charges for claims under section 1095 of this title.
+Recovery From Third-Party Payers.—The United States shall have the same right to collect charges related to claims described in subsection (a) as charges for claims under section 1095 of this title.
 
 (c)
 

@@ -34,7 +34,7 @@ Sec. 2. The Secretary of Agriculture, with the concurrence of the Secretary of S
 
 Sec. 3. The Commissioner of Customs shall take such actions and supply such information to the Secretary of Agriculture with respect to entry or withdrawal from warehouse for consumption in the United States of such meats as the Secretary of Agriculture, with the Concurrence of the Secretary of State and the Special Representative for Trade Negotiations \[United States Trade Representative\], may request to carry out any such agreements or regulations.
 
-Sec. 4. Heads of departments and heads of agencies are hereby authorized to redelegate within their respective departments or agencies the functions herein assigned to them, except that the function of negotiating agreements delegated to the United States Trade Representative by section 1 and the function of issuing regulations delegated to the Secretary of Agricultureby section 2 of this order may be redelegated only to officials required to be appointed by and with the advice and consent of the Senate, as provided by 3 U.S.C. 301.
+Sec. 4. Heads of departments and heads of agencies are hereby authorized to redelegate within their respective departments or agencies the functions herein assigned to them, except that the function of negotiating agreements delegated to the United States Trade Representative by section 1 and the function of issuing regulations delegated to the Secretary of Agriculture by section 2 of this order may be redelegated only to officials required to be appointed by and with the advice and consent of the Senate, as provided by 3 U.S.C. 301.
 
 #### Ex. Ord. No. 11651. Textile Trade Agreements
 

@@ -18,7 +18,7 @@ Actions of the Administrator.—The Administrator may issue an order amending, m
 
 (c)
 
-Advice to Certificate Holders and Opportunity To Answer.—Before acting under subsection (b) of this section, the Administrator shall advise the holder of the certificate of the charges or other reasons on which the Administrator relies for the proposed action. Except in an emergency, the Administrator shall provide the holder an opportunity to answer the charges and be heard why the certificate should not be amended, modified, suspended, or revoked.
+Advice to Certificate Holders and Opportunity To Answer.—Before acting under subsection (b) of this section, the Administrator shall advise the holder of the certificate of thecharges or other reasons on which the Administrator relies for the proposed action. Except in an emergency, the Administrator shall provide the holder an opportunity to answer the charges and be heard why the certificate should not be amended, modified, suspended, or revoked.
 
 (d)
 
@@ -38,17 +38,29 @@ Appeals.—(1) A person adversely affected by an order of the Administrator unde
 
 (e)
 
-Effectiveness of Orders Pending Appeal.—When a person files an appeal with the Board under subsection (d) of the section, the order of the Administrator is stayed. However, if the Administrator advises the Board that an emergency exists and safety in air commerce or air transportation requires the order to be effective immediately—
+Effectiveness of Orders Pending Appeal.—
 
-&emsp;(1) the order is effective; and
+&emsp;(1)
 
-&emsp;(2) the Board shall make a final disposition of the appeal not later than 60 days after the Administrator so advises the Board.
+In general.—When a person files an appeal with the Board under subsection (d), the order of the Administrator is stayed.
+
+&emsp;(2)
+
+Exception.—Notwithstanding paragraph (1), the order of the Administrator is effective immediately if the Administrator advises the Board that an emergency exists and safety in air commerce or air transportation requires the order to be effective immediately.
+
+&emsp;(3)
+
+Review of emergency order.—A person affected by the immediate effectiveness of the Administrator's order under paragraph (2) may petition for a review by the Board, under procedures promulgated by the Board, of the Administrator's determination that an emergency exists. Any such review shall be requested not later than 48 hours after the order is received by the person. If the Board finds that an emergency does not exist that requires the immediate application of the order in the interest of safety in air commerce or air transportation, the order shall be stayed, notwithstanding paragraph (2). The Board shall dispose of a review request under this paragraph not later than 5 days after the date on which the request is filed.
+
+&emsp;(4)
+
+Final disposition.—The Board shall make a final disposition of an appeal under subsection (d) not later than 60 days after the date on which the appeal is filed.
 
 (f)
 
 Judicial Review.—A person substantially affected by an order of the Board under this section, or the Administrator when the Administrator decides that an order of the Board under this section will have a significant adverse impact on carrying out this part, may obtain judicial review of the order under section 46110 of this title. The Administrator shall be made a party to the judicial review proceedings. Findings of fact of the Board are conclusive if supported by substantial evidence.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1190.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1190; Pub. L. 106–181, title VII, §716, Apr. 5, 2000, 114 Stat. 162.)
 
 Historical and Revision Notes
 
@@ -158,7 +170,19 @@ In subsection (d)(3), the word “Administrator” is substituted for “Federal
 
 In subsection (e), before clause (1), the words “the effectiveness of” are omitted as surplus.
 
+#### Amendments
+
+2000—Subsec. (e). Pub. L. 106–181 amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “When a person files an appeal with the Board under subsection (d) of the section, the order of the Administrator is stayed. However, if the Administrator advises the Board that an emergency exists and safety in air commerce or air transportation requires the order to be effective immediately—
+
+&emsp;“(1) the order is effective; and
+
+&emsp;“(2) the Board shall make a final disposition of the appeal not later than 60 days after the Administrator so advises the Board.”
+
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 106, 1133, 1153, 44701, 44711, 45302, 46310, 47531 of this title; title 42 section 4911.
+This section is referred to in sections 1133, 1153, 44701, 44711, 45302, 46310, 47531 of this title; title 42 section 4911.
 

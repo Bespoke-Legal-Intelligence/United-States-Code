@@ -1,6 +1,6 @@
 ### §375. Restriction on direct participation by military personnel
 
-The Secretary of Defense shall prescribe such regulations as may be necessary to ensure that any activity (including the provision of any equipment or facility or the assignment or detail of any personnel) under this chapter does not include or permit direct participation by a member of the Army, Navy, Air Force, or Marine Corps in a search, seizure, arrest, or other similar activity unless participation in such activity by such member is otherwise authorized by law.
+The Secretary of Defense shall prescribe such regulations as may be necessary to ensure that any activity (including the provision of anyequipment or facility or the assignment or detail of any personnel) under this chapter does not include or permit direct participation by a member of the Army, Navy, Air Force, or Marine Corps in a search, seizure, arrest, or other similar activity unless participation in such activity by such member is otherwise authorized by law.
 
 (Added Pub. L. 97–86, title IX §905(a)(1), Dec. 1, 1981, 95 Stat. 1116; amended Pub. L. 100–456, div. A, title XI, §1104(a), Sept. 29, 1988, 102 Stat. 2045; Pub. L. 101–189, div. A, title XII, §1211, Nov. 29, 1989, 103 Stat. 1567.)
 
@@ -12,5 +12,5 @@ The Secretary of Defense shall prescribe such regulations as may be necessary to
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2554 of this title.
+This section is referred to in section 2564 of this title.
 

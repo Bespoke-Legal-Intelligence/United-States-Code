@@ -16,6 +16,10 @@ Enforcement functions of Secretary or other official in Department of the Interi
 
 For assignment of certain emergency preparedness functions to Administrator of Environmental Protection Agency, see Parts 1, 2, and 16 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 5195 of this title.
 
+#### Necessity of Military Low-Level Flight Training To Protect National Security and Enhance Military Readiness
+
+Pub. L. 106–398, §1 \[\[div. A\], title III, §317\], Oct. 30, 2000, 114 Stat. 1654, 1654A–57, provided that: “Nothing in the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) or the regulations implementing such law shall require the Secretary of Defense or the Secretary of a military department to prepare a programmatic, nation-wide environmental impact statement for low-level flight training as a precondition to the use by the Armed Forces of an airspace for the performance of low-level training flights.”
+
 #### Pollution Prosecution
 
 Pub. L. 101–593, title II, Nov. 16, 1990, 104 Stat. 2962, provided that:
@@ -40,7 +44,7 @@ Pub. L. 101–593, title II, Nov. 16, 1990, 104 Stat. 2962, provided that:
 
 “(b) For fiscal year 1991 and in each of the following 4 fiscal years, the Administrator shall, during each such fiscal year, provide increasing numbers of additional support staff to the Office of Criminal Investigations.
 
-“(c) The head of the Office of Criminal Investigations shall be a position in the competitive service as defined in 2102 of title 5 U.S.C. or a career reserve position as defined in 3132(A) of title 5 U.S.C. and the head of such office shall report directly, without intervening review or approval, to the Assistant Administrator for Enforcement.
+“(c) The head of the Office of Criminal Investigations shall be a position in the competitive service as defined in 2102 of title 5 U.S.C. or a career reserve position as defined in 3132(A) of title 5 U.S.C. and the head of such office shall report directly, without intervening reviewor approval, to the Assistant Administrator for Enforcement.
 
 #### “SEC. 203. CIVIL INVESTIGATORS.
 
@@ -98,7 +102,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 (5) So much of the functions of the Council on Environmental Quality under section 204(5) of the National Environmental Policy Act of 1969 (Public Law 91–190, approved January 1, 1970, 83 Stat. 855) \[42 U.S.C. 4344(5)\], as pertains to ecological systems.
 
-(6) The functions of the Atomic Energy Commission under the Atomic Energy Act of 1954, as amended \[42 U.S.C. 2011 et seq.\], administered through its Division of Radiation Protection Standards, to the extent that such functions of the Commission consist of establishing generally applicable environmental standards for the protection of the general environment from radioactive material. As used herein, standards mean limitson radiation exposures or levels, or concentrations or quantities of radioactive material, in the general environment outside the boundaries of locations under the control of persons possessing or using radio-active material.
+(6) The functions of the Atomic Energy Commission under the Atomic Energy Act of 1954, as amended \[42 U.S.C. 2011 et seq.\], administered through its Division of Radiation Protection Standards, to the extent that such functions of the Commission consist of establishing generally applicable environmental standards for the protection of the general environment from radioactive material. As used herein, standards mean limits on radiation exposures or levels, or concentrations or quantities of radioactive material, in the general environment outside the boundaries of locations under the control of persons possessing or using radio-active material.
 
 (7) All functions of the Federal Radiation Council (42 U.S.C. 2021(h)).
 
@@ -226,11 +230,11 @@ National Air Pollution Control Administration.—As the principal Federal agency
 
 Elements of the Environmental Control Administration.—ECA is the focal point within HEW for evaluation and control of a broad range of environmental health problems, including water quality, solid wastes, and radiation. Programs in the ECA involve research, development of criteria and standards, and the administration of planning and demonstration grants. From the ECA, the activities of the Bureaus of Water Hygiene and Solid Waste Management and portions of the activities of the Bureau of Radiological Health would be transferred. Other functions of the ECA including those related to the regulation of radiation from consumer products and occupational safety and health would remain in HEW.
 
-Pesticides research and standard-setting programs of the Food and Drug Administration.—FDA's pesticides program consists of setting and enforcing standards which limit pesticide residues in food. EPA would havethe authority to set pesticide standards and to monitor compliance with them, as well as to conduct related research. However, as an integral part of its food protection activities, FDA would retain its authority to remove from the market food with excess pesticide residues.
+Pesticides research and standard-setting programs of the Food and Drug Administration.—FDA's pesticides program consists of setting and enforcing standards which limit pesticide residues in food. EPA would have the authority to set pesticide standards and to monitor compliance with them, as well as to conduct related research. However, as an integral part of its food protection activities, FDA would retain its authority to remove from the market food with excess pesticide residues.
 
 General ecological research from the Council on Environmental Quality.—This authority to perform studies and research relating to ecological systems would be in addition to EPA's other specific research authorities, and it would help EPA to measure the impact of pollutants. The Council on Environmental Quality would retain its authority to conduct studies and research relating to environmental quality.
 
-Environmental radiation standards programs.—The Atomic Energy Commission is now responsible for establishing environmental radiation standards and emission limits for radioactivity. Those standards have been based largely on broad guidelines recommended by the Federal Radiation Council. The Atomic Energy Commission's authority to set standards for the protection of the general environment from radioactive material would be transferred to the Environmental Protection Agency. The functions of the Federal Radiation Council would also be transferred. AEC would retain responsibility for the implementation and enforcement of radiation standards through its licensing authority.
+Environmental radiation standards programs.—The Atomic Energy Commission is now responsible for establishing environmental radiation standards and emission limits for radioactivity. Those standards havebeen based largely on broad guidelines recommended by the Federal Radiation Council. The Atomic Energy Commission's authority to set standards for the protection of the general environment from radioactive material would be transferred to the Environmental Protection Agency. The functions of the Federal Radiation Council would also be transferred. AEC would retain responsibility for the implementation and enforcement of radiation standards through its licensing authority.
 
 Pesticides registration program of the Agricultural Research Service.—The Department of Agriculture is currently responsible for several distinct functions related to pesticides use. It conducts research on the efficacy of various pesticides as related to other pest control methods and on the effects of pesticides on non-target plants, livestock, and poultry. It registers pesticides, monitors their persistence and carries out an educational program on pesticide use through the extension service. It conducts extensive pest control programs which utilize pesticides.
 
@@ -276,7 +280,7 @@ The oceans and the atmosphere are interacting parts of the total environmental s
 
 We face immediate and compelling needs for better protection of life and property from natural hazards, and for a better understanding of the total environment—and understanding which will enable us more effectively to monitor and predict its actions, and ultimately, perhaps to exercise some degree of control over them.
 
-We also face a compelling need for exploration and development leading to the intelligent use of our marine resources. The global oceans, which constitute nearly three-fourths of the surface of our planet, are today the least-understood, the least-developed, and the least-protected part of our earth. Food from the oceans will increasingly be a key element in the world's fight against hunger. The mineral resources of the ocean beds and of the oceans themselves, are being increasingly tapped to meet the growing world demand. We must understand the nature of these resources, and assure their development without either contaminating the marine environment or upsetting its balance.
+We also face a compelling need for exploration and development leading to the intelligent use of our marine resources. The global oceans, which constitute nearly three-fourths of the surface of our planet, are today the least-understood, the least-developed, and the least-protected part of our earth. Food from the oceans will increasingly be a key element in the world's fight against hunger. The mineral resources of the ocean beds and of the oceans themselves, are beingincreasingly tapped to meet the growing world demand. We must understand the nature of these resources, and assure their development without either contaminating the marine environment or upsetting its balance.
 
 Establishment of the National Oceanic and Atmospheric Administration—NOAA—within the Department of Commerce would enable us to approach these tasks in a coordinated way. By employing a unified approach to the problems of the oceans and atmosphere, we can increase our knowledge and expand our opportunities not only in those areas, but in the third major component of our environment, the solid earth, as well.
 
@@ -422,7 +426,7 @@ Sec. 102. <i>Functions of the Cabinet Committee</i>. (a) The Cabinet Committee s
 
 (8) Facilitate coordination among departments and agencies of the Federal Government in protecting and improving the environment.
 
-(b) The Cabinet Committee shall review plans and actions of Federal agencies affecting outdoor recreation and natural beauty. The Cabinet Committee may conduct studies and make recommendations to the President on matters of policy in the fields of outdoor recreation and natural beauty. In carrying out the foregoing provisions of this subsection, the Cabinet Committee shall, as far as may be practical, advise Federal agencies with respect to the effect of their respective plans and programs on recreation and natural beauty, and may suggest to such agencies ways to accomplish the purposes of this order. For the purposes of this order, plans and programs may include, but are not limited to, those for or affecting: (1) Development, restoration, and preservation of the beauty of the countryside, urban and suburban areas, water resources, wild rivers, scenic roads, parkways and highways, (2) the protection and appropriate management of scenic or primitive areas, natural wonders, historic sites, and recreation areas, (3) the management of Federal land and water resources, including fish and wildlife, to enhance natural beauty and recreational opportunities consistent with other essential uses, (4) cooperation with the States and their local subdivisions and private organizations and individuals in areas of mutual interest, (5) interstate arrangements, including Federal participation where authorized and necessary, and (6) leadership in a nationwide recreation and beautification effort.
+(b) The Cabinet Committee shall review plans and actions of Federal agencies affecting outdoor recreation and natural beauty. The Cabinet Committee may conduct studies and make recommendations to the President on matters of policy in the fields of outdoor recreation and natural beauty. In carrying out the foregoing provisions of this subsection, the Cabinet Committee shall, as far as may be practical, advise Federal agencies with respect to the effect of their respective plans and programs on recreation and natural beauty, and may suggest to such agencies ways to accomplish the purposes of this order. For the purposes of this order, plans and programs may include, but are not limited to, those for or affecting: (1) Development, restoration, and preservation of the beauty of the countryside, urban and suburban areas, water resources, wild rivers, scenic roads, parkways and highways, (2) the protection and appropriate management of scenic or primitive areas, natural wonders, historic sites, and recreation areas, (3) the management of Federal land and waterresources, including fish and wildlife, to enhance natural beauty and recreational opportunities consistent with other essential uses, (4) cooperation with the States and their local subdivisions and private organizations and individuals in areas of mutual interest, (5) interstate arrangements, including Federal participation where authorized and necessary, and (6) leadership in a nationwide recreation and beautification effort.
 
 Sec. 103. <i>Coordination</i>. The Secretary of the Interior may make available to the Cabinet Committee for coordination of outdoor recreation the authorities and resources available to him under the Act of May 28, 1963, 77 Stat. 49 \[16 U.S.C. 460<i>l</i> et seq.\], to the extent permitted by law, he may make such authorities and resources available to the Cabinet Committee also for promoting such coordination of other matters assigned to the Cabinet Committee by this order.
 
@@ -470,7 +474,7 @@ Sec. 2. <i>Responsibilities of Federal agencies</i>. Consonant with Title I of t
 
 (c) Insure that information regarding existing or potential environmental problems and control methods developed as part of research, development, demonstration, test, or evaluation activities is made available to Federal agencies, States, counties, municipalities, institutions, and other entities, as appropriate.
 
-(d) Review their agencies’ statutory authority, administrative regulations, policies, and procedures, including those relating to loans, grants, contracts, leases, licenses, or permits, in order to identify any deficiencies or inconsistencies therein which prohibit or limit full compliance with the purposes and provisions of the Act. A report on this review and the corrective actions taken or planned, including such measures to be proposed to the President as may be necessary to bring their authority and policies into conformancewith the intent, purposes, and procedures of the Act, shall be provided to the Council on Environmental Quality not later than September 1, 1970.
+(d) Review their agencies’ statutory authority, administrative regulations, policies, and procedures, including those relating to loans, grants, contracts, leases, licenses, or permits, in order to identify any deficiencies or inconsistencies therein which prohibit or limit full compliance with the purposes and provisions of the Act. A report on this review and the corrective actions taken or planned, including such measures to be proposed to the President as may be necessary to bring their authority and policies into conformance with the intent, purposes, and procedures of the Act, shall be provided to the Council on Environmental Quality not later than September 1, 1970.
 
 (e) Engage in exchange of data and research results, and cooperate with agencies of other governments to foster the purposes of the Act.
 
@@ -550,7 +554,7 @@ Sec. 4. <i>Assistance for the Industrial Council</i>. In compliance with applica
 
 Sec. 5. <i>Expenses</i>. Members of the Industrial Council or any of its subordinate committees shall receive no compensation from the United States by reason of their services hereunder, but may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law (5 U.S.C. 5703) for persons in the Government service employed intermittently.
 
-Sec. 6. <i>Regulations</i>. The provisions of Executive Order No. 11007 of February 26, 1962 (3 CFR 573) \[see 5 U.S.C. 901 note\] prescribing regulations for the formation and use of advisory committees, are hereby made applicable to the Industrial Council and each of its subordinate committees. The Secretary may exercise the discretionary powers set forth in that order.
+Sec. 6. <i>Regulations</i>. The provisions of Executive Order No. 11007 of February 26, 1962 (3 CFR 573) \[see 5 U.S.C. 901 note\] prescribing regulations for the formation anduse of advisory committees, are hereby made applicable to the Industrial Council and each of its subordinate committees. The Secretary may exercise the discretionary powers set forth in that order.
 
 Sec. 7. <i>Construction</i>. Nothing in this order shall be construed as subjecting any Federal agency, or any function vested by law in, or assigned pursuant to law to, any Federal agency to the authority of any other Federal agency or of the Industrial Council or of any of its subordinate committees, or as abrogating or restricting any such function in any manner.
 
@@ -636,7 +640,7 @@ Sec. 2. In carrying out the activities described in Section 1 of this Order, eac
 
 (c) Each agency shall take floodplain management into account when formulating or evaluating any water and land use plans and shall require land and water resources use appropriate to the degree of hazard involved. Agencies shall include adequate provision for the evaluation and consideration of flood hazards in the regulations and operating procedures for the licenses, permits, loan or grants-in-aid programs that they administer. Agencies shall also encourage and provide appropriate guidance to applicants to evaluate the effects of their proposals in floodplains prior to submitting applications for Federal licenses, permits, loans or grants.
 
-(d) As allowed by law, each agency shall issue or amend existing regulations and procedures within oneyear to comply with this Order. These procedures shall incorporate the Unified National Program for Floodplain Management of the Water Resources Council, and shall explain the means that the agency will employ to pursue the nonhazardous use of riverine, coastal and other floodplains in connection with the activities under its authority. To the extent possible, existing processes, such as those of the Council on Environmental Quality and the Water Resources Council, shall be utilized to fulfill the requirements of this Order. Agencies shall prepare their procedures in consultation with the Water Resources Council, the Director of the Federal Emergency Management Agency, and the Council on Environmental Quality, and shall update such procedures as necessary.
+(d) As allowed by law, each agency shall issue or amend existing regulations and procedures within one year to comply with this Order. These procedures shall incorporate the Unified National Program for Floodplain Management of the Water Resources Council, and shall explain the means that the agency will employ to pursue the nonhazardous use of riverine, coastal and other floodplains in connection with the activities under its authority. To the extent possible, existing processes, such as those of the Council on Environmental Quality and the Water Resources Council, shall be utilized to fulfill the requirements of this Order. Agencies shall prepare their procedures in consultation with the Water Resources Council, the Director of the Federal Emergency Management Agency, and theCouncil on Environmental Quality, and shall update such procedures as necessary.
 
 Sec. 3. In addition to the requirements of Section 2, agencies with responsibilities for Federal real property and facilities shall take the following measures:
 
@@ -684,7 +688,7 @@ Sec. 2. (a) In furtherance of Section 101(b)(3) of the National Environmental Po
 
 Sec. 3. Any requests for new authorizations or appropriations transmitted to the Office of Management and Budget shall indicate, if an action to be proposed will be located in wetlands, whether the proposed action is in accord with this Order.
 
-Sec. 4. When Federally-owned wetlands or portions of wetlands are proposed for lease, easement, right-of-way or disposal to non-Federal public or private parties, the Federal agency shall (a) reference in the conveyance those uses that are restricted under identified Federal, State or local wetlands regulations; and (b) attach other appropriate restrictions to the uses of properties by the grantee or purchaser and any successor, except where prohibited by law; or (c) withhold such properties from disposal.
+Sec. 4. When Federally-owned wetlands or portions of wetlands are proposed for lease, easement, right-of-way or disposal to non-Federal public or private parties, the Federal agency shall (a) reference in the conveyance those uses that are restricted under identified Federal,State or local wetlands regulations; and (b) attach other appropriate restrictions to the uses of properties by the grantee or purchaser and any successor, except where prohibited by law; or (c) withhold such properties from disposal.
 
 Sec. 5. In carrying out the activities described in Section 1 of this Order, each agency shall consider factors relevant to a proposal's effect on the survival and quality of the wetlands. Among these factors are:
 
@@ -712,7 +716,7 @@ Sec. 10. To the extent the provisions of Sections 2 and 5 of this Order are appl
 
 #### Ex. Ord. No. 12088. Federal Compliance With Pollution Control Standards
 
-Ex. Ord. No. 12088, Oct. 13, 1978, 43 F.R. 47707, as amended by Ex. Ord. No. 12580, Jan. 23, 1987, 52 F.R. 2928, provided:
+Ex. Ord. No. 12088, Oct. 13, 1978, 43 F.R. 47707, as amended by Ex. Ord. No. 12580, Jan. 23, 1987, 52 F.R. 2928; Ex. Ord. No. 13148, §901, Apr. 21, 2000, 65 F.R. 24604, provided:
 
 By the authority vested in me as President by the Constitution and statutes of the United States of America, including Section 22 of the Toxic Substances Control Act (15 U.S.C. 2621), Section 313 of the Federal Water Pollution Control Act, as amended (33 U.S.C. 1323), Section 1447 of the Public Health Service Act, as amended by the Safe Drinking Water Act \[now Safe Drinking Water Act of 1974\] (42 U.S.C. 300j–6), Section 118 of the Clean Air Act, as amended (42 U.S.C. 7418(b)), Section 4 of the Noise Control Act of 1972 (42 U.S.C. 4903), Section 6001 of the Solid Waste Disposal Act, as amended (42 U.S.C. 6961), and Section 301 of Title 3 of the United States Code, and to ensure Federal compliance with applicable pollution control standards, it is hereby ordered as follows:
 
@@ -756,15 +760,11 @@ By the authority vested in me as President by the Constitution and statutes of t
 
 #### 1–4. Pollution Control Plan
 
-1–401. Each Executive agency shall submit to the Director of the Office of Management and Budget, through the Administrator, an annual plan for the control of environmental pollution. The plan shall provide for any necessary improvement in the design, construction, management, operation, and maintenance of Federal facilities and activities, and shall include annual cost estimates. The Administrator shall establish guidelines for developing such plans.
-
-1–402. In preparing its plan, each Executive agency shall ensure that the plan provides for compliance with all applicable pollution control standards.
-
-1–403. The plan shall be submitted in accordance with any other instructions that the Director of the Office of Management and Budget may issue.
+\[Revoked by Ex. Ord. No. 13148, §901, Apr. 21, 2000, 65 F.R. 24604.\]
 
 #### 1–5. Funding
 
-1–501. The head of each Executive agency shall ensure that sufficient funds for compliance with applicable pollution control standards are requested in the agency budget.
+1–501. The head of each Executive agency shall ensure that sufficient funds for compliance with applicablepollution control standards are requested in the agency budget.
 
 1–502. The head of each Executive agency shall ensure that funds appropriated and apportioned for the prevention, control and abatement of environmental pollution are not used for any other purpose unless permitted by law and specifically approved by the Office of Management and Budget.
 
@@ -962,7 +962,7 @@ Section 1–1. IMPLEMENTATION.
 
 1–101. <i>Agency Responsibilities</i>. To the greatest extent practicable and permitted by law, and consistent with the principles set forth in the report on the National Performance Review, each Federal agency shall make achieving environmental justice part of its mission by identifying and addressing, as appropriate, disproportionately high and adverse human health or environmental effects of its programs, policies, and activities on minority populations and low-income populations in the United States and its territories and possessions, the District of Columbia, the Commonwealth of Puerto Rico, and the Commonwealth of the Mariana Islands.
 
-1–102. <i>Creation of an Interagency Working Group on Environmental Justice</i>. (a) Within 3 months of the date of this order, the Administrator of the Environmental Protection Agency (“Administrator”) or the Administrator's designee shall convene an interagency Federal Working Group on Environmental Justice (“Working Group”). The Working Group shall comprise the heads of the following executive agencies and offices, or their designees: (a) Department of Defense; (b) Department of Health and Human Services; (c) Department of Housing and Urban Development; (d) Department of Labor; (e) Department of Agriculture; (f) Department ofTransportation; (g) Department of Justice; (h) Department of the Interior; (i) Department of Commerce; (j) Department of Energy; (k) Environmental Protection Agency; (<i>l</i>) Office of Management and Budget; (m) Office of Science and Technology Policy; (n) Office of the Deputy Assistant to the President for Environmental Policy; (<i>o</i>) Office of the Assistant to the President for Domestic Policy; (p) National Economic Council; (q) Council of Economic Advisers; and (r) such other Government officials as the President may designate. The Working Group shall report to the President through the Deputy Assistant to the President for Environmental Policy and the Assistant to the President for Domestic Policy.
+1–102. <i>Creation of an Interagency Working Group on Environmental Justice</i>. (a) Within 3 months of the date of this order, the Administrator of the Environmental Protection Agency (“Administrator”) or the Administrator's designee shall convene an interagency Federal Working Group on Environmental Justice (“Working Group”). The Working Group shall comprise the heads of the following executive agencies and offices, or their designees: (a) Department of Defense; (b) Department of Health and Human Services; (c) Department of Housing and Urban Development; (d) Department of Labor; (e) Department of Agriculture; (f) Department of Transportation; (g) Department of Justice; (h) Department of the Interior; (i) Department of Commerce; (j) Department of Energy; (k) Environmental Protection Agency; (<i>l</i>) Office of Management and Budget; (m) Office of Science and Technology Policy; (n) Office of the Deputy Assistant to the President for Environmental Policy; (<i>o</i>) Office of the Assistant to the President for Domestic Policy; (p) National Economic Council; (q) Council of Economic Advisers; and (r) such other Government officials as the President may designate. The Working Group shall report to the President through the Deputy Assistant to the President for Environmental Policy and the Assistant to the President for Domestic Policy.
 
 (b) The Working Group shall: (1) provide guidance to Federal agencies on criteria for identifying disproportionately high and adverse human health or environmental effects on minority populations and low-income populations;
 
@@ -1008,13 +1008,13 @@ Sec. 3–3. RESEARCH, DATA COLLECTION, AND ANALYSIS.
 
 (b) In connection with the development and implementation of agency strategies in section 1–103 of this order, each Federal agency, whenever practicable and appropriate, shall collect, maintain and analyze information on the race, national origin, income level, and other readily accessible and appropriate information for areas surrounding facilities or sites expected to have a substantial environmental, human health, or economic effect on the surrounding populations, when such facilities or sites become the subject of a substantial Federal environmental administrative or judicial action. Such information shall be made available to the public, unless prohibited by law; and
 
-(c) Each Federal agency, whenever practicable and appropriate, shall collect, maintain, and analyze information on the race, national origin, income level, andother readily accessible and appropriate information for areas surrounding Federal facilities that are: (1) subject to the reporting requirements under the Emergency Planning and Community Right-to-Know Act, 42 U.S.C. section 11001–11050 as mandated in Executive Order No. 12856 \[42 U.S.C. 11001 note\]; and (2) expected to have a substantial environmental, human health, or economic effect on surrounding populations. Such information shall be made available to the public, unless prohibited by law.
+(c) Each Federal agency, whenever practicable and appropriate, shall collect, maintain, and analyze information on the race, national origin, income level, and other readily accessible and appropriate information for areas surrounding Federal facilities that are: (1) subject to the reporting requirements under the Emergency Planning and Community Right-to-Know Act, 42 U.S.C. section 11001–11050 as mandated in Executive Order No. 12856 \[former 42 U.S.C. 11001 note\]; and (2) expected to have a substantial environmental, human health, or economic effect on surrounding populations. Such information shall be made available to the public, unless prohibited by law.
 
 (d) In carrying out the responsibilities in this section, each Federal agency, whenever practicable and appropriate, shall share information and eliminate unnecessary duplication of efforts through the use of existing data systems and cooperative agreements among Federal agencies and with State, local, and tribal governments.
 
 Sec. 4–4. SUBSISTENCE CONSUMPTION OF FISH AND WILDLIFE.
 
-4–401. <i>Consumption Patterns</i>. In order to assist in identifying the need for ensuring protection of populations with differential patterns of subsistence consumption of fish and wildlife, Federal agencies, whenever practicable and appropriate, shall collect, maintain, and analyze information on the consumption patterns of populations who principally rely on fish and/or wildlife for subsistence. Federal agencies shall communicate to the public the risks of those consumption patterns.
+4–401. <i>Consumption Patterns</i>. In order to assist in identifying the need for ensuring protection of populations with differential patterns of subsistence consumption of fish and wildlife, Federal agencies, whenever practicable and appropriate, shall collect, maintain, and analyze information on the consumption patterns of populations who principally rely on fish and/or wildlifefor subsistence. Federal agencies shall communicate to the public the risks of those consumption patterns.
 
 4–402. <i>Guidance</i>. Federal agencies, whenever practicable and appropriate, shall work in a coordinated manner to publish guidance reflecting the latest scientific information available concerning methods for evaluating the human health risks associated with the consumption of pollutant-bearing fish or wildlife. Agencies shall consider such guidance in developing their policies and rules.
 
@@ -1070,7 +1070,7 @@ Sec. 2. <i>Definitions</i>. The following definitions shall apply to this order.
 
 2–202. “Covered regulatory action” means any substantive action in a rulemaking, initiated after the date of this order or for which a Notice of Proposed Rulemaking is published 1 year after the date of this order, that is likely to result in a rule that may:
 
-(a) be “economically significant” under Executive Order 12866 \[5 U.S.C. 601 note\] (a rulemaking that hasan annual effect on the economy of $100 million or more or would adversely affect in a material way the economy, a sector of the economy, productivity, competition, jobs, the environment, public health or safety, or State, local, or tribal governments or communities); and
+(a) be “economically significant” under Executive Order 12866 \[5 U.S.C. 601 note\] (a rulemaking that has an annual effect on the economy of $100 million or more or would adversely affect in a material way the economy, a sector of the economy, productivity, competition, jobs, the environment, public health or safety, or State, local, or tribal governments or communities); and
 
 (b) concern an environmental health risk or safety risk that an agency has reason to believe may disproportionately affect children.
 
@@ -1080,7 +1080,7 @@ Sec. 3. <i>Task Force on Environmental Health Risks and Safety Risks to Children
 
 3–301. There is hereby established the Task Force on Environmental Health Risks and Safety Risks to Children (“Task Force”).
 
-3–302. The Task Force will report to the President in consultation with the Domestic Policy Council, the National Science and Technology Council, the Council on Environmental Quality, and the Office of Management and Budget (OMB).
+3–302. The Task Force will report to the President in consultation with the Domestic Policy Council, the National Science and Technology Council, the Council onEnvironmental Quality, and the Office of Management and Budget (OMB).
 
 3–303. <i>Membership</i>. The Task Force shall be composed of the:
 
@@ -1471,6 +1471,236 @@ Sec. 6. <i>Judicial Review and Administration</i>. (a) This order is intended on
 (c) The requirements of this order do not affect the obligations of Federal agencies under 16 U.S.C. 4713 with respect to ballast water programs.
 
 (d) The requirements of section 2(a)(3) of this order shall not apply to any action of the Department of State or Department of Defense if the Secretary of State or the Secretary of Defense finds that exemption from such requirements is necessary for foreign policy or national security reasons.
+
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13148. Greening the Government Through Leadership in Environmental Management
+
+Ex. Ord. No. 13148, Apr. 21, 2000, 65 F.R. 24595, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Emergency Planning and Community Right-to-Know Act of 1986 (42 U.S.C. 11001–11050) (EPCRA), the Pollution Prevention Act of 1990 (42 U.S.C. 13101–13109) (PPA), the Clean Air Act (42 U.S.C. 7401–7671q) (CAA), and section 301 of title 3, United States Code, it is hereby ordered as follows:
+
+#### PART 1—PREAMBLE
+
+Section 101. <i>Federal Environmental Leadership</i>. The head of each Federal agency is responsible for ensuring that all necessary actions are taken to integrate environmental accountability into agency day-to-day decisionmaking and long-term planning processes, across all agency missions, activities, and functions. Consequently, environmental management considerations must be a fundamental and integral component of Federal Government policies, operations, planning, and management. The head of each Federal agency is responsible for meeting the goals and requirements of this order.
+
+#### PART 2—GOALS
+
+Sec. 201. <i>Environmental Management</i>. Through development and implementation of environmental management systems, each agency shall ensure that strategies are established to support environmental leadership programs, policies, and procedures and that agency senior level managers explicitly and actively endorse these strategies.
+
+Sec. 202. <i>Environmental Compliance</i>. Each agency shall comply with environmental regulations by establishing and implementing environmental compliance audit programs and policies that emphasize pollution prevention as a means to both achieve and maintain environmental compliance.
+
+Sec. 203. <i>Right-to-Know and Pollution Prevention</i>. Through timely planning and reporting under the EPCRA, Federal facilities shall be leaders and responsible members of their communities by informing the public and their workers of possible sources of pollution resulting from facility operations. Each agency shall strive to reduce or eliminate harm to human health and the environment from releases of pollutants to the environment. Each agency shall advance the national policy that, whenever feasible and cost-effective, pollution should be prevented or reduced at the source. Funding for regulatory compliance programs shall emphasize pollution prevention as a means to address environmental compliance.
+
+Sec. 204. <i>Release Reduction: Toxic Chemicals</i>. Through innovative pollution prevention, effective facility management, and sound acquisition and procurement practices, each agency shall reduce its reported Toxic Release Inventory (TRI) releases and off-site transfers of toxic chemicals for treatment and disposal by 10 percent annually, or by 40 percent overall by December 31, 2006.
+
+Sec. 205. <i>Use Reduction: Toxic Chemicals and Hazardous Substances and Other Pollutants</i>. Through identification of proven substitutes and established facility management practices, including pollution prevention, each agency shall reduce its use of selected toxic chemicals, hazardous substances, and pollutants, or its generation of hazardous and radioactive waste types at its facilities by 50 percent by December 31, 2006. If an agency is unable to reduce the use of selected chemicals, that agency will reduce the use of selected hazardous substances or its generation of other pollutants, such as hazardous and radioactive waste types, at its facilities by 50 percent by December 31, 2006.
+
+Sec. 206. <i>Reductions in Ozone-Depleting Substances</i>. Through evaluating present and future uses of ozone-depleting substances and maximizing the purchase and the use of safe, cost effective, and environmentally preferable alternatives, each agency shall develop a plan to phase out the procurement of Class I ozone-depleting substances for all nonexcepted uses by December 31, 2010.
+
+Sec. 207. <i>Environmentally and Economically Beneficial Landscaping</i>. Each agency shall strive to promote the sustainable management of Federal facility lands through the implementation of cost-effective, environmentally sound landscaping practices, and programs to reduce adverse impacts to the natural environment.
+
+#### PART 3—PLANNING AND ACCOUNTABILITY
+
+Sec. 301. <i>Annual Budget Submission</i>. Federal agencies shall place high priority on obtaining funding and resources needed for implementation of the Greening the Government Executive Orders, including funding to address findings and recommendations from environmental management system audits or facility compliance audits conducted under sections 401 and 402 of this order. Federal agencies shall make such requests as required in Office of Management and Budget (OMB) Circular A–11.
+
+Sec. 302. <i>Application of Life Cycle Assessment Concepts</i>. Each agency with facilities shall establish a pilot program to apply life cycle assessment and environmental cost accounting principles. To the maximum extent feasible and cost-effective, agencies shall apply those principles elsewhere in the agency to meet the goals and requirements of this order. Such analysis shall be considered in the process established in the OMB Capital Programming Guide and OMB Circular A–11. The Environmental Protection Agency (EPA), in coordination with the Workgroup established in section 306 of this order, shall, to the extent feasible, assist agencies in identifying, applying, and developing tools that reflect life cycle assessment and environmental cost accounting principles and provide technical assistance to agencies in developing life cycle assessments and environmental cost accounting assessments under this Part.
+
+Sec. 303. <i>Pollution Prevention to Address Compliance</i>. Each agency shall ensure that its environmental regulatory compliance funding policies promote the use of pollution prevention to achieve and maintain environmental compliance at the agency's facilities. Agencies shall adopt a policy to preferentially use pollution prevention projects and activities to correct and prevent noncompliance with environmental regulatory requirements. Agency funding requests for facility compliance with Federal, State, and local environmental regulatory requirements shall emphasize pollution prevention through source reduction as the means of first choice to ensure compliance, with reuse and recycling alternatives having second priority as a means of compliance.
+
+Sec. 304. <i>Pollution Prevention Return-on-Investment Programs</i>. Each agency shall develop and implement a pollution prevention program at its facilities that compares the life cycle costs of treatment and/or disposalof waste and pollutant streams to the life cycle costs of alternatives that eliminate or reduce toxic chemicals or pollutants at the source. Each agency shall implement those projects that are life-cycle cost-effective, or otherwise offer substantial environmental or economic benefits.
+
+Sec. 305. <i>Policies, Strategies, and Plans.</i>
+
+(a) Within 12 months of the date of this order, each agency shall ensure that the goals and requirements of this order are incorporated into existing agency environmental directives, policies, and documents affected by the requirements and goals of this order. Where such directives and policies do not already exist, each agency shall, within 12 months of the date of this order, prepare and endorse a written agency environmental management strategy to achieve the requirements and goals of this order. Agency preparation of directives, policies, and documents shall reflect the nature, scale, and environmental impacts of the agency's activities, products, or services. Agencies are encouraged to include elements of relevant agency policies or strategies developed under this part in agency planning documents prepared under the Government Performance and Results Act of 1993, Public Law 103–62 \[see Short Title of 1993 Amendment note set out under 31 U.S.C. 1101\].
+
+(b) By March 31, 2002, each agency shall ensure that its facilities develop a written plan that sets forth the facility's contribution to the goals and requirements established in this order. The plan should reflect the size and complexity of the facility. Where pollution prevention plans or other formal environmental planning instruments have been prepared for agency facilities, an agency may elect to update those plans to meet the requirements and goals of this section.
+
+(c) The Federal Acquisition Regulation (FAR) Council shall develop acquisition policies and procedures for contractors to supply agencies with all information necessary for compliance with this order. Once the appropriate FAR clauses have been published, agencies shall use them in all applicable contracts. In addition, to the extent that compliance with this order is made more difficult due to lack of information from existing contractors, or concessioners, each agency shall take practical steps to obtain the information needed to comply with this order from such contractors or concessioners.
+
+Sec. 306. <i>Interagency Environmental Leadership Workgroup</i>. Within 4 months of the date of this order, EPA shall convene and chair an Interagency Environmental Leadership Workgroup (the Workgroup) with senior-level representatives from all executive agencies and other interested independent Government agencies affected by this order. The Workgroup shall develop policies and guidance required by this order and member agencies shall facilitate implementation of the requirements of this order in their respective agencies. Workgroup members shall coordinate with their Agency Environmental Executive (AEE) designated under section 301(d) of Executive Order 13101 \[42 U.S.C. 6961 note\] and may request the assistance of their AEE in resolving issues that may arise among members in developing policies and guidance related to this order. If the AEEs are unable to resolve the issues, they may request the assistance of the Chair of the Council on Environmental Quality (CEQ).
+
+Sec. 307. <i>Annual Reports</i>. Each agency shall submit an annual progress report to the Administrator on implementation of this order. The reports shall include a description of the progress that the agency has made in complying with all aspects of this order, including, but not limited to, progress in achieving the reduction goals in sections 502, 503, and 505 of this order. Each agency may prepare and submit the annual report in electronic format. A copy of the report shall be submitted to the Federal Environmental Executive (FEE) by EPA for use in the biennial Greening the Government Report to the President prepared in accordance with Executive Order 13101 \[42 U.S.C. 6961 note\]. Within 9 months of the date of this order, EPA, in coordination with the Workgroup established under section 306 of this order, shall prepare guidance regarding the information and timing for the annual report. The Workgroup shall coordinate with those agencies responsible for Federal agency reporting guidance under the Greening the Government Executive orders to streamline reporting requirements and reduce agency and facility-level reporting burdens. The first annual report shall cover calendar year 2000 activities.
+
+#### PART 4—PROMOTING ENVIRONMENTAL MANAGEMENT AND LEADERSHIP
+
+Sec. 401. <i>Agency and Facility Environmental Management Systems</i>. To attain the goals of section 201 of this order:
+
+(a) Within 18 months of the date of this order, each agency shall conduct an agency-level environmental management system self assessment based on the Code of Environmental Management Principles for Federal Agencies developed by the EPA (61 Fed. Reg. 54062) and/or another appropriate environmental management system framework. Each assessment shall include a review of agency environmental leadership goals, objectives, and targets. Where appropriate, the assessments may be conducted at the service, bureau, or other comparable level.
+
+(b) Within 24 months of the date of this order, each agency shall implement environmental management systems through pilot projects at selected agency facilities based on the Code of Environmental Management Principles for Federal Agencies and/or another appropriate environmental management system framework. By December 31, 2005, each agency shall implement an environmental management system at all appropriate agency facilities based on facility size, complexity, and the environmental aspects of facility operations. The facility environmental management system shall include measurable environmental goals, objectives, and targets that are reviewed and updated annually. Once established, environmental management system performance measures shall be incorporated in agency facility audit protocols.
+
+Sec. 402. <i>Facility Compliance Audits</i>. To attain the goals of section 202 of this order:
+
+(a) Within 12 months of the date of this order, each agency that does not have an established regulatory environmental compliance audit program shall develop and implement a program to conduct facility environmental compliance audits and begin auditing at its facilities within 6 months of the development of that program.
+
+(b) An agency with an established regulatory environmental compliance audit program may elect to conduct environmental management system audits in lieu of regulatory environmental compliance audits at selected facilities.
+
+(c) Facility environmental audits shall be conducted periodically. Each agency is encouraged to conduct audits not less than every 3 years from the date of the initial or previous audit. The scope and frequency of audits shall be based on facility size, complexity, and the environmental aspects of facility operations. As appropriate, each agency shall include tenant, contractor, and concessioner activities in facility audits.
+
+(d) Each agency shall conduct internal reviews and audits and shall take such other steps, as may be necessary, to monitor its facilities’ compliance with sections 501 and 504 of this order.
+
+(e) Each agency shall consider findings from the assessments or audits conducted under Part 4 in program planning under section 301 of this order and in the preparation and revisions to facility plans prepared under section 305 of this order.
+
+(f) Upon request and to the extent practicable, the EPA shall provide technical assistance in meeting the requirements of Part 4 by conducting environmental management reviews at Federal facilities and developing policies and guidance for conducting environmental compliance audits and implementing environmental management systems at Federal facilities.
+
+Sec. 403. <i>Environmental Leadership and Agency Awards Programs.</i>
+
+(a) Within 12 months of the date of this order, the Administrator shall establish a Federal Government environmental leadership program to promote and recognize outstanding environmental management performance in agencies and facilities.
+
+(b) Each agency shall develop an internal agency-wide awards program to reward and highlight innovative programs and individuals showing outstanding environmental leadership in implementing this order. In addition, based upon criteria developed by the EPA in coordination with the Workgroup established in section 306 of this order, Federal employees who demonstrate outstanding leadership in implementation of this order may be considered for recognition under the White House awards program set forth in section 803 of Executive Order 13101 of September 14, 1998 \[42 U.S.C. 6961 note\].
+
+Sec. 404. <i>Management Leadership and Performance Evaluations.</i>
+
+(a) To ensure awareness of and support for the environmental requirements of this order, each agency shall include training on the provisions of the Greening the Government Executive orders in standard senior level management training as well as training for program managers, contracting personnel, procurement and acquisition personnel, facility managers, contractors, concessioners, and other personnel as appropriate. In coordination with the Workgroup established under section 306 of this order, the EPA shall prepare guidance on implementation of this section.
+
+(b) To recognize and reinforce the responsibilities of facility and senior headquarters program managers, regional environmental coordinators and officers, their superiors, and, to the extent practicable and appropriate, others vital to the implementation of this order, each agency shall include successful implementation of pollution prevention, community awareness, and environmental management into its position descriptions and performance evaluations for those positions.
+
+Sec. 405. <i>Compliance Assistance.</i>
+
+(a) Upon request and to the extent practicable, the EPA shall provide technical advice and assistance to agencies to foster full compliance with environmental regulations and all aspects of this order.
+
+(b) Within 12 months of the date of this order, the EPA shall develop a compliance assistance center to provide technical assistance for Federal facility compliance with environmental regulations and all aspects of this order.
+
+(c) To enhance landscaping options and awareness, the United States Department of Agriculture (USDA) shall provide information on the suitability, propagation, and the use of native plants for landscaping to all agencies and the general public by USDA in conjunction with the center under subsection (b) of this section. In implementing Part 6 of this order, agencies are encouraged to develop model demonstration programs in coordination with the USDA.
+
+Sec. 406. <i>Compliance Assurance.</i>
+
+(a) In consultation with other agencies, the EPA may conduct such reviews and inspections as may be necessary to monitor compliance with sections 501 and 504 of this order. Each agency is encouraged to cooperate fully with the efforts of the EPA to ensure compliance with those sections.
+
+(b) Whenever the Administrator notifies an agency that it is not in compliance with section 501 or 504 of this order, the agency shall provide the EPA a detailed plan for achieving compliance as promptly as practicable.
+
+(c) The Administrator shall report annually to the President and the public on agency compliance with the provisions of sections 501 and 504 of this order.
+
+Sec. 407. <i>Improving Environmental Management</i>. To ensure that government-wide goals for pollution prevention are advanced, each agency is encouraged to incorporate its environmental leadership goals into its Strategic and Annual Performance Plans required by the Government Performance and Results Act of 1993, Public Law 103–62 \[see Short Title of 1993 Amendment note set out under 31 U.S.C. 1101\], starting with performance plans accompanying the FY 2002 budget.
+
+#### PART 5—EMERGENCY PLANNING, COMMUNITY RIGHT-TO-KNOW, AND POLLUTION PREVENTION
+
+Sec. 501. <i>Toxics Release Inventory/Pollution Prevention Act Reporting</i>. To attain the goals of section 203 of this order:
+
+(a) Each agency shall comply with the provisions set forth in section 313 of EPCRA \[42 U.S.C. 11023\], section 6607 of PPA \[42 U.S.C. 13106\], all implementing regulations, and future amendments to these authorities, in light of applicable EPA guidance.
+
+(b) Each agency shall comply with these provisions without regard to the Standard Industrial Classification (SIC) or North American Industrial Classification System (NAICS) delineations. Except as described in subsection (d) of this section, all other existing statutory or regulatory limitations or exemptions on the application of EPCRA section 313 to specific activities at specific agency facilities apply to the reporting requirements set forth in subsection (a) of this section.
+
+(c) Each agency required to report under subsection (a) of this section shall do so using electronic reporting as provided in EPA's EPCRA section 313 guidance.
+
+(d) Within 12 months of the date of this order, the Administrator shall review the impact on reporting of existing regulatory exemptions on the application of EPCRA section 313 at Federal facilities. Where feasible, this review shall include pilot studies at Federal facilities. If the review indicates that application of existing exemptions to Federal Government reporting under this section precludes public reporting of substantial amounts of toxic chemicals under subsection 501(a), the EPA shall prepare guidance, in coordination with the Workgroup established under section 306 of this order, clarifying application of the exemptions at Federal facilities. In developing the guidance, the EPA should consider similar application of such regulatory limitations and exemptions by the private sector. To the extent feasible, the guidance developed by the EPA shall be consistent with the reasonable application of such regulatory limitations and exemptions in the private sector. The guidance shall ensure reporting consistent with the goal of public access to information under section 313 of EPCRA and section 6607 of PPA. The guidance shall be submitted to the AEEs established under section 301(d) of Executive Order 13101 \[42 U.S.C. 6961 note\] for review and endorsement. Each agency shall apply any guidance to reporting at its facilities as soon as practicable but no later than for reporting for the next calendar year following release of the guidance.
+
+(e) The EPA shall coordinate with other interested Federal agencies to carry out pilot projects to collect and disseminate information about the release and other waste management of chemicals associated with the environmental response and restoration at their facilities and sites. The pilot projects will focus on releases and other waste management of chemicals associated with environmental response and restoration at facilities and sites where the activities generating wastes do not otherwise meet EPCRA section 313 thresholds for manufacture, process, or other use. Each agency is encouraged to identify applicable facilities and voluntarily report under subsection (a) of this section the releases and other waste management of toxic chemicals managed during environmental response and restoration, regardless of whether the facility otherwise would report under subsection (a). The releases and other waste management of chemicals associated with environmental response and restoration voluntarily reported under this subsection will not be included in the accounting established under sections 503(a) and (c) of this order.
+
+Sec. 502. <i>Release Reduction: Toxic Chemicals</i>. To attain the goals of section 204 of this order:
+
+(a) Beginning with reporting for calendar year 2001 activities, each agency reporting under section 501 ofthis order shall adopt a goal of reducing, where cost effective, the agency's total releases of toxic chemicals to the environment and off-site transfers of such chemicals for treatment and disposal by at least 10 percent annually, or by 40 percent overall by December 31, 2006. Beginning with activities for calendar year 2001, the baseline for measuring progress in meeting the reduction goal will be the aggregate of all such releases and off-site transfers of such chemicals for treatment and disposal as reported by all of the agency's facilities under section 501 of this order. The list of toxic chemicals applicable to this goal is the EPCRA section 313 \[42 U.S.C. 11023\] list as of December 1, 2000. If an agency achieves the 40 percent reduction goal prior to December 31, 2006, that agency shall establish a new baseline and reduction goal based on agency priorities.
+
+(b) Where an agency is unable to pursue the reduction goal established in subsection (a) for certain chemicals that are mission critical and/or needed to protect human health and the environment or where agency off-site transfer of toxic chemicals for treatment is directly associated with environmental restoration activities, that agency may request a waiver from the EPA for all or part of the requirement in subsection (a) of this section. As appropriate, waiver requests must provide: (1) an explanation of the mission critical use of the chemical; (2) an explanation of the nature of the need for the chemical to protect human health; (3) a description of efforts to identify a less harmful substitute chemical or alternative processes to reduce the release and transfer of the chemical in question; and (4) a description of the off-site transfers of toxic chemicals for treatment directly associated with environmental restoration activities. The EPA shall respond to the waiver request within 90 days and may grant such a waiver for no longer than 2 years. An agency may resubmit a request for waiver at the end of that period. The waiver under this section shall not alter requirements to report under section 501 of this order.
+
+(c) Where a specific component (e.g., bureau, service, or command) within an agency achieves a 75 percent reduction in its 1999 reporting year publicly reported total releases of toxic chemicals to the environment and off-site transfers of such chemicals for treatment and disposal, based on the 1994 baseline established in Executive Order 12856 \[former 42 U.S.C. 11001 note\], that agency may independently elect to establish a reduction goal for that component lower than the 40 percent target established in subsection (a) of this section. The agency shall formally notify the Workgroup established in section 306 of this order of the elected reduction target.
+
+Sec. 503. <i>Use Reduction: Toxic Chemicals, Hazardous Substances, and Other Pollutants</i>. To attain the goals of section 205 of this order:
+
+(a) Within 18 months of the date of this order, each agency with facilities shall develop and support goals to reduce the use at such agencies’ facilities of the priority chemicals on the list under subsection (b) of this section for identified applications and purposes, or alternative chemicals and pollutants the agency identifies under subsection (c) of this section, by at least 50 percent by December 31, 2006.
+
+(b) Within 9 months of the date of this order the Administrator, in coordination with the Workgroup established in section 306 of this order, shall develop a list of not less than 15 priority chemicals used by the Federal Government that may result in significant harm to human health or the environment and that have known, readily available, less harmful substitutes for identified applications and purposes. In addition to identifying the applications and purposes to which such reductions apply, the Administrator, in coordination with the Workgroup shall identify a usage threshold below which this section shall not apply. The chemicals will be selected from listed EPCRA section 313 \[42 U.S.C. 11023\] toxic chemicals and, where appropriate, other regulated hazardous substances or pollutants. In developing the list, the Administrator, in coordination with the Workgroup shall consider: (1) environmental factors including toxicity, persistence, and bio-accumulation; (2) availability of known, less environmentally harmful substitute chemicals that can be used in place of the priority chemical for identified applications and purposes; (3) availability of known, less environmentally harmful processes that can be used in place of the priority chemical for identified applications and purposes; (4) relative costs of alternative chemicals or processes; and (5) potential risk and environmental and human exposure based upon applications and uses of the chemicals by Federal agencies and facilities. In identifying alternatives, the Administrator should take into consideration the guidance issued under section 503 of Executive Order 13101 \[42 U.S.C. 6961 note\].
+
+(c) If an agency, which has facilities required to report under EPCRA, uses at its facilities less than five of the priority chemicals on the list developed in subsection (b) of this section for the identified applications and purposes, the agency shall develop, within 12 months of the date of this order, a list of not less than five chemicals that may include priority chemicals under subsection (b) of this section or other toxic chemicals, hazardous substances, and/or other pollutants the agency uses or generates, the release, transfer or waste management of which may result in significant harm to human health or the environment.
+
+(d) In lieu of requirements under subsection (a) of this section, an agency may, upon concurrence with the Workgroup established under section 306 of this order, develop within 12 months of the date of this order, a list of not less than five priority hazardous or radioactive waste types generated by its facilities. Within 18 months of the date of this order, the agency shall develop and support goals to reduce the agency's generation of these wastes by at least 50 percent by December 31, 2006. To the maximum extent possible, such reductions shall be achieved by implementing source reduction practices.
+
+(e) The baseline for measuring reductions for purposes of achieving the 50 percent reduction goal in subsections (a) and (d) of this section for each agency is the first calendar year following the development of the list of priority chemicals under subsection (b) of this section.
+
+(f) Each agency shall undertake pilot projects at selected facilities to gather and make publicly available materials accounting data related to the toxic chemicals, hazardous substances, and/or other pollutants identified under subsections (b), (c), or (d) of this section.
+
+(g) Within 12 months of the date of this order, the Administrator shall develop guidance on implementing this section in coordination with the Workgroup. The EPA shall develop technical assistance materials to assist agencies in meeting the 50 percent reduction goal of this section.
+
+(h) Where an agency can demonstrate to the Workgroup that it has previously reduced the use of a priority chemical identified in subsection 503(b) by 50 percent, then the agency may elect to waive the 50 percent reduction goal for that chemical.
+
+Sec. 504. <i>Emergency Planning and Reporting Responsibilities</i>. Each agency shall comply with the provisions set forth in sections 301 through 312 of the EPCRA \[42 U.S.C. 11001–11022\], all implementing regulations, and any future amendments to these authorities, in light of any applicable guidance as provided by the EPA.
+
+Sec. 505. <i>Reductions in Ozone-Depleting Substances</i>. To attain the goals of section 206 of this order:
+
+(a) Each agency shall ensure that its facilities: (1) maximize the use of safe alternatives to ozone-depleting substances, as approved by the EPA's Significant New Alternatives Policy (SNAP) program; (2) consistent with subsection (b) of this section, evaluate the present and future uses of ozone-depleting substances, including making assessments of existing and future needs for such materials, and evaluate use of, and plans for recycling, refrigerants, and halons; and (3) exercise leadership, develop exemplary practices, and disseminate information on successful efforts in phasing out ozone-depleting substances.
+
+(b) Within 12 months of the date of this order, each agency shall develop a plan to phase out the procurement of Class I ozone-depleting substances for all nonexcepted uses by December 31, 2010. Plans should target cost effective reduction of environmental risk by phasing out Class I ozone depleting substance applications as the equipment using those substances reaches its expected service life. Exceptions to this requirement include all exceptions found in current or future applicable law, treaty, regulation, or Executive order.
+
+(c) Each agency shall amend its personal property management policies and procedures to preclude disposal of ozone depleting substances removed or reclaimed from its facilities or equipment, including disposal as part of a contract, trade, or donation, without prior coordination with the Department of Defense (DoD). Where the recovered ozone-depleting substance is a critical requirement for DoD missions, the agency shall transfer the materials to the DoD. The DoD will bear the costs of such transfer.
+
+#### PART 6—LANDSCAPING MANAGEMENT PRACTICES
+
+Sec. 601. <i>Implementation.</i>
+
+(a) Within 12 months from the date of this order, each agency shall incorporate the Guidance for Presidential Memorandum on Environmentally and Economically Beneficial Landscape Practices on Federal Landscaped Grounds (60 Fed. Reg. 40837) developed by the FEE into landscaping programs, policies, and practices.
+
+(b) Within 12 months of the date of this order, the FEE shall form a workgroup of appropriate Federal agency representatives to review and update the guidance in subsection (a) of this section, as appropriate.
+
+(c) Each agency providing funding for nonfederal projects involving landscaping projects shall furnish funding recipients with information on environmentally and economically beneficial landscaping practices and work with the recipients to support and encourage application of such practices on Federally funded projects.
+
+Sec. 602. <i>Technical Assistance and Outreach</i>. The EPA, the General Services Administration (GSA), and the USDA shall provide technical assistance in accordance with their respective authorities on environmentally and economically beneficial landscaping practices to agencies and their facilities.
+
+#### PART 7—ACQUISITION AND PROCUREMENT
+
+Sec. 701. <i>Limiting Procurement of Toxic Chemicals, Hazardous Substances, and Other Pollutants.</i>
+
+(a) Within 12 months of the date of this order, each agency shall implement training programs to ensure that agency procurement officials and acquisition program managers are aware of the requirements of this order and its applicability to those individuals.
+
+(b) Within 24 months of the date of this order, each agency shall determine the feasibility of implementing centralized procurement and distribution (e.g., “pharmacy”) programs at its facilities for tracking, distribution, and management of toxic or hazardous materials and, where appropriate, implement such programs.
+
+(c) Under established schedules for review of standardized documents, DoD and GSA, and other agencies, as appropriate, shall review their standardized documents and identify opportunities to eliminate or reduce their use of chemicals included on the list of priority chemicals developed by the EPA under subsection 503(b) of this order, and make revisions as appropriate.
+
+(d) Each agency shall follow the policies and procedures for toxic chemical release reporting in accordance with FAR section 23.9 effective as of the date of this order and policies and procedures on Federal compliance with right-to-know laws and pollution prevention requirements in accordance with FAR section 23.10 effective as of the date of this order.
+
+Sec. 702. <i>Environmentally Benign Adhesives</i>. Within 12 months after environmentally benign pressure sensitive adhesives for paper products become commercially available, each agency shall revise its specifications for paper products using adhesives and direct the purchase of paper products using those adhesives, whenever technically practicable and cost effective. Each agency should consider products using the environmentally benign pressure sensitive adhesives approved by the U.S. Postal Service (USPS) and listed on the USPS Qualified Products List for pressure sensitive recyclable adhesives.
+
+Sec. 703. <i>Ozone-Depleting Substances</i>. Each agency shall follow the policies and procedures for the acquisition of items that contain, use, or are manufactured with ozone-depleting substances in accordance with FAR section 23.8 and other applicable FAR provisions.
+
+Sec. 704. <i>Environmentally and Economically Beneficial Landscaping Practices.</i>
+
+(a) Within 18 months of the date of this order, each agency shall have in place acquisition and procurement practices, including provision of landscaping services that conform to the guidance referred to in section 601 of this order, for the use of environmentally and economically beneficial landscaping practices. At a minimum, such practices shall be consistent with the policies in the guidance referred to in section 601 of this order.
+
+(b) In implementing landscaping policies, each agency shall purchase environmentally preferable and recycled content products, including EPA-designated items such as compost and mulch, that contribute to environmentally and economically beneficial practices.
+
+#### PART 8—EXEMPTIONS
+
+Sec. 801. <i>National Security Exemptions</i>. Subject to subsection 902(c) of this order and except as otherwise required by applicable law, in the interest of national security, the head of any agency may request from the President an exemption from complying with the provisions of any or all provisions of this order for particular agency facilities, provided that the procedures set forth in section 120(j)(1) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, as amended (42 U.S.C. 9620(j)(1)), are followed, with the following exceptions: (a) an exemption issued under this section will be for a specified period of time that may exceed 1 year; (b) notice of any exemption granted under this section for provisions not otherwise required by law is only required to the Director of OMB, the Chair of the CEQ, and the Director of the National Security Council; and (c) an exemption under this section may be issued due to lack of appropriations, provided that the head of the agency requesting the exemption shows that necessary funds were requested by the agency in its budget submission and agency plan under Executive Order 12088 of October 13, 1978 \[set out as a note above\], and were not contained in the President's budget request or the Congress failed to make available the requested appropriation. To the maximum extent practicable, and without compromising national security, each agency shall strive to comply with the purposes, goals, and implementation steps in this order. Nothing in this order affects limitations on the dissemination of classified information pursuant to law, regulation, or Executive order.
+
+Sec. 802. <i>Compliance</i>. After January 1, 2002, OMB, in consultation with the Chair of the Workgroup established by section 306 of this order, may modify the compliance requirements for an agency under this order, if the agency is unable to comply with the requirements of the order. An agency requesting modification must show that it has made substantial good faith efforts to comply with the order. The cost-effectiveness of implementation of the order can be a factor in OMB's decision to modify the requirements for that agency's compliance with the order.
+
+#### PART 9—GENERAL PROVISIONS
+
+Sec. 901. <i>Revocation</i>. Executive Order 12843 of April 21, 1993 \[former 42 U.S.C. 7671<i>l</i> note\], Executive Order 12856 of August 3, 1993 \[former 42 U.S.C. 11001 note\], the Executive Memorandum on Environmentally Beneficial Landscaping of April 26, 1994 \[not classified to the Code\], Executive Order 12969 of August 8, 1995 \[former 41 U.S.C. 401 note\], and section 1–4. “Pollution Control Plan” of Executive Order 12088 of October 13, 1978 \[set out as a note above\], are revoked.
+
+Sec. 902. <i>Limitations.</i>
+
+(a) This order is intended only to improve the internal management of the executive branch and is not intended to create any right, benefit, or trust responsibility, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or any other person.
+
+(b) This order applies to Federal facilities in any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the United States Virgin Islands, the Northern Mariana Islands, and any other territory or possession over which the United States has jurisdiction. Each agency with facilities outside of these areas, however, is encouraged to make best efforts to comply with the goals of this order for those facilities.
+
+(c) Nothing in this order alters the obligations under EPCRA, PPA, and CAA independent of this order for Government-owned, contractor-operated facilities and Government corporations owning or operating facilities or subjects such facilities to EPCRA, PPA, or CAA if they are otherwise excluded. However, each agency shall include the releases and other waste management of chemicals for all such facilities to meet the agency's reporting responsibilities under section 501 of this order.
+
+(d) Nothing in this order shall be construed to make the provisions of CAA sections \[sic\] 304 \[42 U.S.C. 7604\] and EPCRA sections 325 and 326 \[42 U.S.C. 11045, 11046\] applicable to any agency or facility, except to the extent that an agency or facility would independently be subject to such provisions.
+
+Sec. 903. <i>Community Outreach</i>. Each agency is encouraged to establish a process for local community advice and outreach for its facilities relevant to aspects of this and other related Greening the Government Executive orders. All strategies and plans developed under this order shall be made available to the public upon request.
+
+#### PART 10—DEFINITIONS
+
+For purposes of this order:
+
+Sec. 1001. <i>General</i>. Terms that are not defined in this part but that are defined in Executive Orders 13101 \[42 U.S.C. 6961 note\] and 13123 \[42 U.S.C. 8251 note\] have the meaning given in those Executive orders. For the purposes of Part 5 of this order all definitions in EPCRA and PPA and implementing regulations at 40 CFR Parts 370 and 372 apply.
+
+Sec. 1002. “Administrator” means the Administrator of the EPA.
+
+Sec. 1003. “Environmental cost accounting” means the modification of cost attribution systems and financial analysis practices specifically to directly track environmental costs that are traditionally hidden in overhead accounts to the responsible products, processes, facilities or activities.
+
+Sec. 1004. “Facility” means any building, installation, structure, land, and other property owned or operated by, or constructed or manufactured and leased to, the Federal Government, where the Federal Government is formally accountable for compliance under environmental regulation (e.g., permits, reports/records and/or planning requirements) with requirements pertaining to discharge, emission, release, spill, or management of any waste, contaminant, hazardous chemical, or pollutant. This term includes a group of facilities at a single location managed as an integrated operation, as well as government owned contractor operated facilities.
+
+Sec. 1005. “Environmentally benign pressure sensitive adhesives” means adhesives for stamps, labels, and other paper products that can be easily treated and removed during the paper recycling process.
+
+Sec. 1006. “Ozone-depleting substance” means any substance designated as a Class I or Class II substance by EPA in 40 CFR Part 82.
+
+Sec. 1007. “Pollution prevention” means “source reduction,” as defined in the PPA, and other practices that reduce or eliminate the creation of pollutants through: (a) increased efficiency in the use of raw materials, energy, water, or other resources; or (b) protection of natural resources by conservation.
+
+Sec. 1008. “Greening the Government Executive orders” means this order and the series of orders on greening the government including Executive Order 13101 of September 14, 1998 \[42 U.S.C. 6961 note\], Executive Order 13123 of June 3, 1999 \[42 U.S.C. 8251 note\], Executive Order 13134 of August 12, 1999 \[7 U.S.C. 7624 note\], and other future orders as appropriate.
+
+Sec. 1009. “Environmental aspects” means the elements of an organization's activities, products, or services that can interact with the environment.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

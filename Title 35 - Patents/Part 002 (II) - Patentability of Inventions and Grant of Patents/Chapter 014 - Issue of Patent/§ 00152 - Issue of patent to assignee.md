@@ -18,11 +18,3 @@ Language is changed and the reference to reissue is omitted in view of the gener
 
 Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 93–596, set out as a note under section 1111 of Title 15, Commerce and Trade.
 
-#### Cross References
-
-Application for patent by assignee, see section 118 of this title.
-
-Ownership of patent, assignment of, see section 261 of this title.
-
-Reissue of patent by assignee, see section 261 of this title.
-

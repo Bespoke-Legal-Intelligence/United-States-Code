@@ -70,7 +70,7 @@ As used in this section:
 
 #### (2) Local receive facility
 
-&emsp;The term “local receive facility” means the reception point in each local market which asatellite carrier designates for delivery of the signal of the station for purposes of retransmission.
+&emsp;The term “local receive facility” means the reception point in each local market which a satellite carrier designates for delivery of the signal of the station for purposes of retransmission.
 
 #### (3) Local market
 
@@ -126,7 +126,7 @@ Limitation on commission.—Except as provided in paragraphs (1) and (2), the Co
 
 “(c)
 
-Report.—Not later than January 1, 2001, the Commission shall report to the Agriculture, Appropriations, and the Judiciary Committees of the Senate and the House of Representatives, the Senate Committee on Commerce, Science, and Transportation, and the House of Representatives Committee on Commerce, on the extent to which licenses and other authorizations under subsection (a) have facilitated the delivery of local signals to satellite television subscribers in unserved and underserved local television markets. The report shall include—
+Report.—Not later than January 1, 2001, the Commission shall report to the Agriculture, Appropriations, and the Judiciary Committees of the Senate and the House of Representatives, the Senate Committee on Commerce, Science, and Transportation, and the House of Representatives Committee on Commerce \[now Committee on Energy and Commerce\], on the extent to which licenses and other authorizations under subsection (a) have facilitated the delivery of local signals to satellite television subscribers in unserved and underserved local television markets. The report shall include—
 
 &emsp;“(1) an analysis of the extent to which local signals are being provided by direct-to-home satellite television providers and by other multichannel video program distributors;
 

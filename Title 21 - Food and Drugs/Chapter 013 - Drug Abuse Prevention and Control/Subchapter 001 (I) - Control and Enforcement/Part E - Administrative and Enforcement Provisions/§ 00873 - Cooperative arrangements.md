@@ -70,17 +70,59 @@ Subsec. (d). Pub. L. 98–473, §517(b), added subsec. (d).
 
 1980—Subsec. (c). Pub. L. 96–359 added subsec. (c).
 
+#### Combating Amphetamine and Methamphetamine Manufacturing and Trafficking
+
+Pub. L. 106–310, div. B, title XXXVI, §3625, Oct. 17, 2000, 114 Stat. 1233, provided that:
+
+“(a)
+
+Activities.—In order to combat the illegal manufacturing and trafficking in amphetamine and methamphetamine, the Administrator of the Drug Enforcement Administration may—
+
+&emsp;“(1) assist State and local law enforcement in small and mid-sized communities in all phases of investigations related to such manufacturing and trafficking, including assistance with foreign-language interpretation;
+
+&emsp;“(2) staff additional regional enforcement and mobile enforcement teams related to such manufacturing and trafficking;
+
+&emsp;“(3) establish additional resident offices and posts of duty to assist State and local law enforcement in rural areas in combating such manufacturing and trafficking;
+
+&emsp;“(4) provide the Special Operations Division of the Administration with additional agents and staff to collect, evaluate, interpret, and disseminate critical intelligence targeting the command and control operations of major amphetamine and methamphetamine manufacturing and trafficking organizations;
+
+&emsp;“(5) enhance the investigative and related functions of the Chemical Control Program of the Administration to implement more fully the provisions of the Comprehensive Methamphetamine Control Act of 1996 (Public Law 104–237) \[see Short Title of 1996 Amendments note set out under section 801 of this title\];
+
+&emsp;“(6) design an effective means of requiring an accurate accounting of the import and export of list Ichemicals, and coordinate investigations relating to the diversion of such chemicals;
+
+&emsp;“(7) develop a computer infrastructure sufficient to receive, process, analyze, and redistribute time-sensitive enforcement information from suspicious order reporting to field offices of the Administration and other law enforcement and regulatory agencies, including the continuing development of the Suspicious Order Reporting and Tracking System (SORTS) and the Chemical Transaction Database (CTRANS) of the Administration;
+
+&emsp;“(8) establish an education, training, and communication process in order to alert the industry to current trends and emerging patterns in the illegal manufacturing of amphetamine and methamphetamine; and
+
+&emsp;“(9) carry out such other activities as the Administrator considers appropriate.
+
+“(b)
+
+Additional Positions and Personnel.—
+
+&emsp;“(1)
+
+In general.—In carrying out activities under subsection (a), the Administrator may establish in the Administration not more than 50 full-time positions, including not more than 31 special-agent positions, and may appoint personnel to such positions.
+
+&emsp;“(2)
+
+Particular positions.—In carrying out activities under paragraphs (5) through (8) of subsection (a), the Administrator may establish in the Administration not more than 15 full-time positions, including not more than 10 diversion investigator positions, and may appoint personnel to such positions. Any positions established under this paragraph are in addition to any positions established under paragraph (1).
+
+“(c)
+
+Authorization of Appropriations.—There are authorized to be appropriated for the Drug Enforcement Administration for each fiscal year after fiscal year 1999, $9,500,000 for purposes of carrying out the activities authorized by subsection (a) and employing personnel in positions established under subsection (b), of which $3,000,000 shall be available for activities under paragraphs (5) through (8) of subsection (a) and for employing personnel in positions established under subsection (b)(2).”
+
 #### National Drug Intelligence Center
 
-Pub. L. 106–120, title I, §104(e), Dec. 3, 1999, 113 Stat. 1609, provided that:
+Pub. L. 106–567, title I, §104(e), Dec. 27, 2000, 114 Stat. 2834, provided that:
 
 “(1)
 
-In general.—Of the amount authorized to be appropriated in subsection (a) \[113 Stat. 1608\], $27,000,000 shall be available for the National Drug Intelligence Center. Within such amount, funds provided for research, development, test, and evaluation purposes shall remain available until September 30, 2001, and funds provided for procurement purposes shall remain available until September 30, 2002.
+In general.—Of the amount authorized to be appropriated in subsection (a) \[114 Stat. 2833\], $34,100,000 shall be available for the National Drug Intelligence Center. Within such amount, funds provided for research, development, test, and evaluation purposes shall remain available until September 30, 2002, and funds provided for procurement purposes shall remain available until September 30, 2003.
 
 “(2)
 
-Transfer of funds.—The Director of Central Intelligence shall transfer to the Attorney General of the United States funds available for the National Drug Intelligence Center under paragraph (1). The Attorney General shall utilize funds so transferred for activities of the Center.
+Transfer of funds.—The Director of Central Intelligence shall transfer to the Attorney General funds available for the National Drug Intelligence Center under paragraph (1). The Attorney General shall utilize funds so transferred for the activities of the National Drug Intelligence Center.
 
 “(3)
 
@@ -91,6 +133,8 @@ Limitation.—Amounts available for the National Drug Intelligence Center may no
 Authority.—Notwithstanding any other provision of law, the Attorney General shall retain full authority over the operations of the National Drug Intelligence Center.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 106–120, title I, §104(e), Dec. 3, 1999, 113 Stat. 1609.
 
 Pub. L. 105–272, title I, §104(e), Oct. 20, 1998, 112 Stat. 2398.
 

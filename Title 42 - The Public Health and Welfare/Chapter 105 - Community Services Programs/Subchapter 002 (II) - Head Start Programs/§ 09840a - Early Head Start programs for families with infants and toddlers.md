@@ -38,7 +38,7 @@ Persons who may participate in programs described in subsection (a) of this sect
 
 #### (d) Eligible service providers
 
-To be eligible to receive assistance under this section, an entity shall submit an application to the Secretary at such time, in such manner, andcontaining such information as the Secretary may require. Entities that may apply to carry out activities under this section include—
+To be eligible to receive assistance under this section, an entity shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require. Entities that may apply to carry out activities under this section include—
 
 &emsp;(1) entities operating Head Start programs under this subchapter; and
 

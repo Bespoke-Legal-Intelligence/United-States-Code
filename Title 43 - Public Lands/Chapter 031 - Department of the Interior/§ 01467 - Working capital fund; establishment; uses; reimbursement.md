@@ -10,5 +10,5 @@ Section was formerly classified to section 502 of Title 5 prior to the general r
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1468 of this title.
+This section is referred to in sections 1467a, 1468 of this title.
 

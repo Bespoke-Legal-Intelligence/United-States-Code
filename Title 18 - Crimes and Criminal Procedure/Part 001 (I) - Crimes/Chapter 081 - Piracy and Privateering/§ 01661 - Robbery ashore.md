@@ -10,7 +10,3 @@ Based on title 18, U.S.C., 1940 ed., §493 (Mar. 4, 1909, ch. 321, §302, 35 Sta
 
 Transposition of several words was made.
 
-#### Cross References
-
-Wire or oral communications, authorization for interception, to provide evidence of robbery, see section 2516 of this title.
-

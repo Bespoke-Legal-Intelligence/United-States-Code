@@ -42,7 +42,7 @@ Congress finds the following:
 
 &emsp;(7) In the current technological environment, the line of demarcation between assistive technology and mainstream technology is becoming ever more difficult to draw.
 
-&emsp;(8) Many individuals with disabilities cannot access existing telecommunications and information technologies and are at risk of not being able to access developing technologies. The failure of Federal and State governments, hardware manufacturers, software designers, information systems managers, and telecommunications service providers to account for the specific needs of individuals with disabilities in the design, manufacture, and procurement of telecommunications and information technologies results in the exclusion of such individuals from the use of telecommunications and information technologies and results in unnecessary costs associated with the retrofitting of devices and product systems.
+&emsp;(8) Many individuals with disabilities cannot access existing telecommunications and information technologies and are at risk of not being able to access developing technologies.The failure of Federal and State governments, hardware manufacturers, software designers, information systems managers, and telecommunications service providers to account for the specific needs of individuals with disabilities in the design, manufacture, and procurement of telecommunications and information technologies results in the exclusion of such individuals from the use of telecommunications and information technologies and results in unnecessary costs associated with the retrofitting of devices and product systems.
 
 &emsp;(9) There are insufficient incentives for Federal contractors and other manufacturers of technology to address the application of technology advances to meet the needs of individuals with disabilities of all ages for assistive technology devices and assistive technology services.
 
@@ -86,7 +86,7 @@ The purposes of this chapter are—
 
 &emsp;&emsp;(ii) facilitate the change of laws, regulations, policies, practices, procedures, and organizational structures, to obtain increased availability or provision of assistive technology devices and assistive technology services;
 
-&emsp;&emsp;(G) increase the probability that individuals with disabilities of all ages will, to the extent appropriate, be able to secure and maintain possession of assistive technologydevices as such individuals make the transition between services offered by human service agencies or between settings of daily living (for example, between home and work);
+&emsp;&emsp;(G) increase the probability that individuals with disabilities of all ages will, to the extent appropriate, be able to secure and maintain possession of assistive technology devices as such individuals make the transition between services offered by human service agencies or between settings of daily living (for example, between home and work);
 
 &emsp;&emsp;(H) enhance the skills and competencies of individuals involved in providing assistive technology devices and assistive technology services;
 

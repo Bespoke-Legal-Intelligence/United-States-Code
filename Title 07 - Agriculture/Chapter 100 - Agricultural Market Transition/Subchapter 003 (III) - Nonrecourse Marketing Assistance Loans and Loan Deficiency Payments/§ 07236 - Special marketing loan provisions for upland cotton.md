@@ -38,7 +38,7 @@
 
 #### (B) Program requirements
 
-&emsp;&emsp;Except as provided in subparagraph (C), whenever the Secretary determines and announces that for any consecutive 4-week period, the Friday through Thursday average price quotation for the lowest-priced UnitedStates growth, as quoted for Middling (M) 13/32-inch cotton, delivered C.I.F. Northern Europe, adjusted for the value of any certificate issued under subsection (a) of this section, exceeds the Northern Europe price by more than 1.25 cents per pound, there shall immediately be in effect a special import quota.
+&emsp;&emsp;Except as provided in subparagraph (C), whenever the Secretary determines and announces that for any consecutive 4-week period, the Friday through Thursday average price quotation for the lowest-priced United States growth, as quoted for Middling (M) 13/32-inch cotton, delivered C.I.F. Northern Europe, adjusted for the value of any certificate issued under subsection (a) of this section, exceeds the Northern Europe price by more than 1.25 cents per pound, there shall immediately be in effect a special import quota.
 
 #### (C) Tight domestic supply
 

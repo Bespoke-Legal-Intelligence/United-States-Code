@@ -10,7 +10,3 @@ Based on title 14, U.S.C., 1946 ed., §39 (Aug. 29, 1916, ch. 418, §1, 39 Stat.
 
 The assimilation is made in general terms, rather than by reference to the applicable section in title 10, U.S.C., 1946 ed. 81st Congress, House Report No. 557.
 
-#### Cross References
-
-Protection of uniform of armed forces, see section 702 of Title 18, Crimes and Criminal Procedure.
-

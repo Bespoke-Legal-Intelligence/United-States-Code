@@ -4,7 +4,7 @@ There is hereby established in the Treasury of the United States a fund, to be k
 
 &emsp;(1) all notes, bonds, obligations, liens, mortgages, and property delivered or assigned to the Secretary pursuant to loans heretofore or hereafter made under sections 904, 905,<sup>1</sup> and 922 of this title and under this subchapter, as of May 11, 1973, and all proceeds from the sales hereunder of such notes, bonds, obligations, liens, mortgages, and property, which shall be transferred to and be assets of the funds;
 
-&emsp;(2) undisbursed balances of electric and telephone loans made under sections 904, 905,<sup>1</sup> and922 of this title, which as of May 11, 1973, shall be transferred to and be assets of the fund;
+&emsp;(2) undisbursed balances of electric and telephone loans made under sections 904, 905,<sup>1</sup> and 922 of this title, which as of May 11, 1973, shall be transferred to and be assets of the fund;
 
 &emsp;(3) all collections of principal and interest received on and after July 1, 1972, on notes, bonds, judgments, or other obligations made or held under subchapters I and II of this chapter and under this subchapter, except for net collection proceeds previously appropriated for the purchase of class A stock in the Rural Telephone Bank, which shall be paid into and be assets of the fund;
 
@@ -12,7 +12,7 @@ There is hereby established in the Treasury of the United States a fund, to be k
 
 &emsp;(5) moneys borrowed from the Secretary of the Treasury pursuant to section 934(a) of this title;
 
-&emsp;(6) shares of the capital stock of the Rural Telephone Bank purchased by the United States pursuant to section 946(a) of this title and moneys received from said bank upon retirement of said shares of stock in accordance with the provisions of subchapter IV of this chapter, which said shares and moneys shall be assets of the fund.
+&emsp;(6) shares of the capital stock of the Rural Telephone Bank purchased by the United States pursuant to section 946(a) of this titleand moneys received from said bank upon retirement of said shares of stock in accordance with the provisions of subchapter IV of this chapter, which said shares and moneys shall be assets of the fund.
 
 (May 20, 1936, ch. 432, title III, §301, as added Pub. L. 92–12, §2, May 7, 1971, 85 Stat. 29; amended Pub. L. 93–32, §2, May 11, 1973, 87 Stat. 66; Pub. L. 94–570, §2, Oct. 20, 1976, 90 Stat. 2701; Pub. L. 103–354, title II, §235(a)(13), Oct. 13, 1994, 108 Stat. 3221; Pub. L. 104–127, title VII, §772(b)(1), Apr. 4, 1996, 110 Stat. 1149.)
 

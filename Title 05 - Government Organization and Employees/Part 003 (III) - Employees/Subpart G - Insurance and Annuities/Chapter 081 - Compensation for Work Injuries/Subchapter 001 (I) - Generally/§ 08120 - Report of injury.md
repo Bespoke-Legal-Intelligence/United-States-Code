@@ -6,7 +6,7 @@ Immediately after an injury to an employee which results in his death or probabl
 
 &emsp;(2) require the immediate superior to make supplemental reports; and
 
-&emsp;(3) obtain such additional reports and information from employees as are agreed on by the Secretary and the head of the employing agency.
+&emsp;(3) obtain such additional reports and information from employees as are agreed on bythe Secretary and the head of the employing agency.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 543.)
 

@@ -18,7 +18,7 @@ In financing any forest development road pursuant to section 535 of this title, 
 
 #### (d) Authorization of harvesting
 
-In each sale of national forest timber or other forest products referred to in this section, the Secretary of Agriculture is encouraged to authorize harvest of the timber or other forestproducts in a unit included in the sale as soon as road work for that unit is completed and the road work is approved by the Secretary.
+In each sale of national forest timber or other forest products referred to in this section, the Secretary of Agriculture is encouraged to authorize harvest of the timber or other forest products in a unit included in the sale as soon as road work for that unit is completed and the road work is approved by the Secretary.
 
 #### (e) Construction standard
 
@@ -40,7 +40,7 @@ For any forest development road that is constructed or paid for by a purchaser o
 
 &emsp;&emsp;(ii) the date on which new timber sale contract provisions designed to implement this section, that have been published for public comment, are approved by the Secretary.
 
-(2) Notwithstanding paragraph (1), any sale of national forest timber or other forest products for which notice of sale is provided before the effective date of this section, and any effective purchaser road credit earned pursuant to a contract resulting from such a notice of sale or otherwise earned before that effective date shall remain in effect, and shall continue to be subject to section 535 of this title and section 472a(i) of this title, and rules issued thereunder, as in effect on the day before October 21, 1998.
+(2) Notwithstanding paragraph (1), any sale of national forest timber or other forest products for which notice of sale is provided before the effective date of this section, and any effective purchaser road credit earned pursuant to a contract resulting from such a notice of sale or otherwise earned before that effective date shallremain in effect, and shall continue to be subject to section 535 of this title and section 472a(i) of this title, and rules issued thereunder, as in effect on the day before October 21, 1998.
 
 (Pub. L. 105–277, div. A, §101(e) \[title III, §329\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–292.)
 

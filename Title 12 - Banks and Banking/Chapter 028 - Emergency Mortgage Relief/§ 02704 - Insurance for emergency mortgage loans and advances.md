@@ -10,7 +10,7 @@ In no case shall the insurance granted by the Secretary under this section to an
 
 #### (c) Premium charge; amount
 
-The Secretary is authorized to fix a premium charge or charges for the insurance granted under this section, but in the case of any loan or advance of credit, such charge or charges shall not exceed an amount equivalent to one-half of1 per centum per annum of the principal obligation of such loan or advance of credit outstanding at any time.
+The Secretary is authorized to fix a premium charge or charges for the insurance granted under this section, but in the case of any loan or advance of credit, such charge or charges shall not exceed an amount equivalent to one-half of 1 per centum per annum of the principal obligation of such loan or advance of credit outstanding at any time.
 
 #### (d) Waiver of compliance with rules and regulations; finality and incontestability of payment for loss; transfer of insurance
 

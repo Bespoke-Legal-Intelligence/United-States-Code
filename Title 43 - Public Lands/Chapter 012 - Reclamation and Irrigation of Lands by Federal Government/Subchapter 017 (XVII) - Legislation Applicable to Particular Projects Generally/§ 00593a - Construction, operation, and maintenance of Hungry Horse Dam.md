@@ -18,10 +18,6 @@ Act of June 17, 1902, referred to in text, is popularly known as the Reclamation
 
 Section 4 of act June 5, 1944, authorized appropriation of such sums as might be necessary to carry out the purpose of this section and section 593b of this title.
 
-#### Cross References
-
-Geographical preference of power users in the State of Montana under this section and section 593b of this title not modified by Pacific Northwest hydroelectric provisions, see section 837h of Title 16, Conservation.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in title 16 section 837h.

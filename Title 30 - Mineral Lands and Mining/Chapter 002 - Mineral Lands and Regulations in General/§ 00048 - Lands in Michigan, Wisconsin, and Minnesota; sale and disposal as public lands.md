@@ -16,14 +16,6 @@ R.S. §2345 derived from act Feb. 18, 1873, ch. 159, 17 Stat. 465.
 
 1920—The exception clause has been inserted at beginning of this section because of act Feb. 25, 1920, which provided that deposits of coal, phosphate, sodium, oil, oil shale, or gas, and lands containing such deposits owned by the United States, shall be subject to disposition in the form and manner provided by this act.
 
-#### Cross References
-
-Alabama mineral lands excepted, see section 171 of this title.
-
-Alabama public lands reclassified to determine right to reentry as homestead in such State lands reclassified as agricultural, see section 172 of this title.
-
-Kansas and Missouri mineral lands excepted, see section 49 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 24, 29, 33, 37, 38, 39, 40, 42, 46, 47, 102 of this title; title 16 section 460mm–1.

@@ -34,13 +34,17 @@ Unless such information has previously been reported to the Administrator, on th
 
 #### (e) Technology status report in 2015
 
-The Administrator shall review, on a periodic basis, the progress being made in the development of alternative systems or products necessary to manufacture and operate appliances without class II substances. If the Administrator finds, after notice and opportunity for public comment, that as a result of technological development problems, the development of such alternative systems or products will not occur within the time necessary to provide for themanufacture of such equipment without such substances prior to the applicable deadlines under section 7671d of this title, the Administrator shall, not later than January 1, 2015, so inform the Congress.
+The Administrator shall review, on a periodic basis, the progress being made in the development of alternative systems or products necessary to manufacture and operate appliances without class II substances. If the Administrator finds, after notice and opportunity for public comment, that as a result of technological development problems, the development of such alternative systems or products will not occur within the time necessary to provide for the manufacture of such equipment without such substances prior to the applicable deadlines under section 7671d of this title, the Administrator shall, not later than January 1, 2015, so inform the Congress.
 
 #### (f) Emergency report
 
 If, in consultation with the Administrators of the National Aeronautics and Space Administration and the National Oceanic and Atmospheric Administration, and after notice and opportunity for public comment, the Administrator determines that the global production, consumption, and use of class II substances are projected to contribute to an atmospheric chlorine loading in excess of the base case projections by more than 5/10ths parts per billion, the Administrator shall so inform the Congress immediately. The determination referred to in the preceding sentence shall be based on the monitoring under subsection (d) of this section and updated not less often than every 3 years.
 
 (July 14, 1955, ch. 360, title VI, §603, as added Pub. L. 101–549, title VI, §602(a), Nov. 15, 1990, 104 Stat. 2653.)
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (d)(1) of this section relating to submittal of triennial report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 12th item on page 162 of House Document No. 103–7.
 
 #### Methane Studies
 
@@ -88,7 +92,7 @@ Natural Sources.—Not later than 2 years after the enactment of this Act \[Nov.
 
 “(e)
 
-Study of Measures To Limit Growth in Methane Concentrations.—Not later than 2 years after the completion of the studies in subsections (b), (c), and (d), the Administrator shall prepare and submit to the Congress a report that presents options outlining measures that could be implemented to stop or reduce the growth in atmospheric concentrations of methane from sources within the United States referred to in paragraphs (1) through (6) of subsection (b). This study shall identify and evaluate the technical options for reducing methane emissions from each of the activities listed in subsection (b), as well as other activities or sources deemed by such agencies to be significant, and shall include an evaluation of costs, technology, safety, energy, and other factors. The study shall be based on the other studies under this section. The study shall also identify programs of the United States and international lending agencies that could be used to induce lesser developed countries to undertake measures that will reduce methane emissions and the resource needs of such programs.
+Study of Measures To Limit Growth in Methane Concentrations.—Not later than 2 years after the completion of the studies in subsections (b), (c), and (d), the Administrator shall prepare and submit to the Congress a report that presents options outlining measures that could be implemented to stop or reduce the growth in atmospheric concentrations of methane from sources within the United States referred to in paragraphs (1) through (6) of subsection (b). This study shall identify and evaluate the technical options for reducing methane emissions from each of the activities listed in subsection (b), as well as other activities or sources deemed by such agencies to be significant, and shall include an evaluation of costs, technology, safety,energy, and other factors. The study shall be based on the other studies under this section. The study shall also identify programs of the United States and international lending agencies that could be used to induce lesser developed countries to undertake measures that will reduce methane emissions and the resource needs of such programs.
 
 “(f)
 

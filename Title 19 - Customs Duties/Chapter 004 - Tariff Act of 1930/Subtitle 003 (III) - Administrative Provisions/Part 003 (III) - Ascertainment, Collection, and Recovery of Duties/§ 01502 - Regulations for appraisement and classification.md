@@ -8,13 +8,13 @@ The Secretary of the Treasury shall establish and promulgate such rules and regu
 
 It shall be the duty of all officers of the customs to execute and carry into effect all instructions of the Secretary of the Treasury relative to the execution of the revenue laws; and in case any difficulty arises as to the true construction or meaning of any part of the revenue laws, the decision of the Secretary shall be binding upon all officers of the customs.
 
-(June 17, 1930, ch. 497, title IV, §502, 46 Stat. 731; Pub. L. 91–271, title III, §301(<i>l</i>), June 2, 1970, 84Stat. 289; Pub. L. 96–417, title VI, §601(3), Oct. 10, 1980, 94 Stat. 1744; Pub. L. 100–449, title IV, §403(a), Sept. 28, 1988, 102 Stat. 1884; Pub. L. 103–182, title IV, §412(a), title VI, §640, Dec. 8, 1993, 107 Stat. 2146, 2203.)
+(June 17, 1930, ch. 497, title IV, §502, 46 Stat. 731; Pub. L. 91–271, title III, §301(<i>l</i>), June 2, 1970, 84 Stat. 289; Pub. L. 96–417, title VI, §601(3), Oct. 10, 1980, 94 Stat. 1744; Pub. L. 100–449, title IV, §403(a), Sept. 28, 1988, 102 Stat. 1884; Pub. L. 103–182, title IV, §412(a), title VI, §640, Dec. 8, 1993, 107 Stat. 2146, 2203.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §502, 42 Stat. 967. That section was superseded by section 502 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
-A prior provision, authorizing the Secretary of the Treasury to direct appraisers for any collection district, to attend in any other collection district, was contained in R.S. §2947. Prior provisions requiring the Secretary to establish rules and regulations to secure a just, faithful, and impartial appraisal, just and proper entries, and to report such rules and regulations to the next session of Congress, were contained in R.S. §2949. Both of these sections were repealed by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
+A prior provision, authorizing the Secretary of the Treasury to direct appraisers for any collection district, to attend in any other collection district, was contained in R.S. §2947. Prior provisions requiring the Secretary to establish rules and regulations to secure a just, faithful, and impartial appraisal, just and proper entries, and to report such rules and regulations to thenext session of Congress, were contained in R.S. §2949. Both of these sections were repealed by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 
 Provisions similar to those in subsec. (b) of this section, except that reversal or modification was permitted in concurrence with a judicial decision of a circuit or district court, instead of a final decision of the Board of General Appraisers, were contained in act Mar. 3, 1875, ch. 136, §2, 18 Stat. 469, prior to repeal by act Sept. 21, 1922, ch. 356, title IV, §643, 42 Stat. 989.
 
@@ -65,16 +65,4 @@ Functions of all officers of Department of the Treasury and functions of all age
 #### Effect of Termination of NAFTA Country Status
 
 For provisions relating to effect of termination of NAFTA country status on the provisions of sections 401 to 416 of Pub. L. 103–182, see section 3451 of this title.
-
-#### Cross References
-
-Removal of—
-
-&emsp;&emsp;Custom house, in case of insurrection, to a secure place in the district, see section 219 of Title 50, War and National Defense.
-
-&emsp;&emsp;Revenue officers from port during epidemic, see section 112 of Title 42, The Public Health and Welfare.
-
-State quarantine regulations and the discharge of cargoes of vessels in quarantine, see sections 88 to 91 and 97 of Title 42.
-
-Superintendence of collection of import duties, see section 3 of this title.
 

@@ -80,7 +80,7 @@
 
 (20) The term “crime punishable by imprisonment for a term exceeding one year” does not include—
 
-&emsp;(A) any Federal or State offenses pertaining to antitrust violations, unfair trade practices,restraints of trade, or other similar offenses relating to the regulation of business practices, or
+&emsp;(A) any Federal or State offenses pertaining to antitrust violations, unfair trade practices, restraints of trade, or other similar offenses relating to the regulation of business practices, or
 
 &emsp;(B) any State offense classified by the laws of the State as a misdemeanor and punishable by a term of imprisonment of two years or less.
 
@@ -228,7 +228,7 @@
 
 (b) For the purposes of this chapter, a member of the Armed Forces on active duty is a resident of the State in which his permanent duty station is located.
 
-(Added Pub. L. 90–351, title IV, §902, June 19, 1968, 82 Stat. 226; amended Pub. L. 90–618, title I, §102, Oct. 22, 1968, 82 Stat. 1214; Pub. L. 93–639, §102, Jan. 4, 1975, 88 Stat. 2217; Pub. L. 99–308, §101, May 19, 1986, 100 Stat. 449; Pub. L. 99–360, §1(b), July 8, 1986, 100 Stat. 766; Pub. L. 99–408, §1, Aug. 28, 1986, 100 Stat. 920; Pub. L. 101–647, title XVII, §1702(b)(2), title XXII, §2204(a), Nov. 29, 1990, 104 Stat. 4845, 4857; Pub. L. 103–159, title I, §102(a)(2), Nov. 30, 1993, 107 Stat. 1539; Pub. L. 103–322, title XI, §§110102(b), 110103(b), 110401(a), 110519, title XXXIII, §330021(1), Sept. 13, 1994, 108 Stat. 1997, 1999, 2014, 2020, 2150; Pub. L. 104–88,title III, §303(1), Dec. 29, 1995, 109 Stat. 943; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §658(a)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–371; Pub. L. 105–277, div. A, §101(b) \[title I, §119(a)\], (h) \[title I, §115\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–69, 2681–480, 2681–490.)
+(Added Pub. L. 90–351, title IV, §902, June 19, 1968, 82 Stat. 226; amended Pub. L. 90–618, title I, §102, Oct. 22, 1968, 82 Stat. 1214; Pub. L. 93–639, §102, Jan. 4, 1975, 88 Stat. 2217; Pub. L. 99–308, §101, May 19, 1986, 100 Stat. 449; Pub. L. 99–360, §1(b), July 8, 1986, 100 Stat. 766; Pub. L. 99–408, §1, Aug. 28, 1986, 100 Stat. 920; Pub. L. 101–647, title XVII, §1702(b)(2), title XXII, §2204(a), Nov. 29, 1990, 104 Stat. 4845, 4857; Pub. L. 103–159, title I, §102(a)(2), Nov. 30, 1993, 107 Stat. 1539; Pub. L. 103–322, title XI, §§110102(b), 110103(b), 110401(a), 110519, title XXXIII, §330021(1), Sept. 13, 1994, 108 Stat. 1997, 1999, 2014, 2020, 2150; Pub. L. 104–88, title III, §303(1), Dec. 29, 1995, 109 Stat. 943; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §658(a)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–371; Pub. L. 105–277, div. A, §101(b) \[title I, §119(a)\], (h) \[title I, §115\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–69, 2681–480, 2681–490.)
 
 #### Amendment of Section
 
@@ -316,7 +316,7 @@ Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 1
 
 #### Effective and Termination Dates of 1994 Amendment
 
-Section 110105 of title XI of Pub. L. 103–322 provided that: “This subtitle \[subtitle A (§§110101–110106) of title XI of Pub. L. 103–322, amending this section and sections 922 to 924 of this title and enacting provisions setout as notes under this section\] and the amendments made by this subtitle—
+Section 110105 of title XI of Pub. L. 103–322 provided that: “This subtitle \[subtitle A (§§110101–110106) of title XI of Pub. L. 103–322, amending this section and sections 922 to 924 of this title and enacting provisions set out as notes under this section\] and the amendments made by this subtitle—
 
 &emsp;“(1) shall take effect on the date of the enactment of this Act \[Sept. 13, 1994\]; and
 
@@ -386,7 +386,7 @@ Section 1(a) of Pub. L. 99–308 provided that: “This Act \[enacting section 9
 
 #### Short Title
 
-Section 1 of Pub. L. 90–618 provided: “That this Act \[enacting sections 5822, 5871 and 5872 of Title 26, Internal Revenue Code, amending this section, sections 922to 928 of this title, and Appendix to this title, and sections 5801, 5802, 5811, 5812, 5821, 5841 to 5849, 5851 to 5854, 5861, 6806, and 7273 of Title 26, repealing sections 5692 and 6107 of Title 26, omitting sections 5803, 5813, 5814, 5831, 5855, and 5862 of Title 26, and enacting material set out as notes under this section and Appendix to this title, and section 5801 of Title 26\] may be cited as the ‘Gun Control Act of 1968’.”
+Section 1 of Pub. L. 90–618 provided: “That this Act \[enacting sections 5822, 5871 and 5872 of Title 26, Internal Revenue Code, amending this section, sections 922 to 928 of this title, and Appendix to this title, and sections 5801, 5802, 5811, 5812, 5821, 5841 to 5849, 5851 to 5854, 5861, 6806, and 7273 of Title 26, repealing sections 5692 and 6107 of Title 26, omitting sections 5803, 5813, 5814, 5831, 5855, and 5862 of Title 26, and enacting material set out as notes under this section and Appendix to this title, and section 5801 of Title 26\] may be cited as the ‘Gun Control Act of 1968’.”
 
 #### Construction of Pub. L. 103–159 With Section 552a of Title 5
 

@@ -4,13 +4,3 @@ Whenever it shall appear to the court before which any proceeding under section 
 
 (Aug. 27, 1894, ch. 349, §75, 28 Stat. 570.)
 
-#### Federal Rules of Civil Procedure
-
-Modification of section by rule 4, see Notes of Advisory Committee on Rules set out under rule 4, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-Process, see rule 4.
-
-#### Cross References
-
-Additional parties, see, also, sections 5 and 25 of this title.
-

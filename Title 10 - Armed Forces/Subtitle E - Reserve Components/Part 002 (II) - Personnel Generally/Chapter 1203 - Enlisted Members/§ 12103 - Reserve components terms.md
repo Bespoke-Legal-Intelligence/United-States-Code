@@ -112,10 +112,6 @@ Section 405(c)(2) of Pub. L. 95–485 provided that: “The amendments made by p
 
 For effective date of amendment by Pub. L. 90–168, see section 7 of Pub. L. 90–168, set out as a note under section 138 of this title.
 
-#### Cross References
-
-Extension of enlistment term of officer candidates, see section 12209 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in title 5 section 2108; title 14 section 713; title 37 section 205; title 38 sections 3002, 3202, 3452, 3501; title 50 App. section 456.

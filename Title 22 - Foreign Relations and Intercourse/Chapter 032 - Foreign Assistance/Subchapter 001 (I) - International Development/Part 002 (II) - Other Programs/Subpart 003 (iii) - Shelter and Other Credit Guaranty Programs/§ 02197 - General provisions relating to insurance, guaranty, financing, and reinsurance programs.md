@@ -32,7 +32,7 @@ No insurance, guaranty, or reinsurance of any equity investment shall extend bey
 
 #### (f) Limitations on amounts
 
-Compensation for insurance, reinsurance, or guaranties issued under this subpart shall not exceed the dollar value, as of the date of the investment, of the investment made in the project with the approval of the Corporation plus interest, earnings, or profits actually accrued on such investment to the extent provided by such insurance, reinsurance, or guaranty, except that the Corporation may provide that (1) appropriate adjustments in the insured dollar value be made to reflect the replacement cost of project assets, (2) compensation for a claim of loss under insurance of an equity investment may be computed on the basis of the net book value attributable to such equity investment on the date of loss, and (3) compensation for loss due to business interruption may be computed on a basis to be determined by the Corporation which reflects amounts lost. Notwithstanding the preceding sentence, the Corporation shall limit the amount of direct insurance and reinsurance issued by it under section 2194 or 2194b of this title so that risk of loss as to at least 10 per centum of the total investment of the insured and its affiliates in the project is borne by the insured and such affiliates, except that such limitation shall not apply to direct insurance or reinsurance of loans by banks or other financial institutions to unrelated parties.
+Compensation for insurance, reinsurance, or guaranties issued under this subpart shall not exceed the dollar value, as of the date of the investment, of the investment made in the project with the approval of the Corporation plus interest, earnings, or profits actually accrued on such investment to the extent provided by such insurance, reinsurance, or guaranty, except that the Corporation may provide that (1) appropriate adjustments in the insured dollar value be made to reflect the replacement cost of project assets, (2) compensation for a claim of loss under insurance of an equity investment may be computed on the basis of the net book value attributable to such equity investment on the date of loss, and (3) compensation for loss due to business interruption may be computed on a basis to be determined by the Corporation which reflects amounts lost. Notwithstanding the preceding sentence, the Corporation shall limit the amount of direct insurance and reinsurance issued by it under section 2194 or 2194b of this title so that risk of loss as to at least 10 per centumof the total investment of the insured and its affiliates in the project is borne by the insured and such affiliates, except that such limitation shall not apply to direct insurance or reinsurance of loans by banks or other financial institutions to unrelated parties.
 
 #### (g) Fraud or misrepresentation
 
@@ -44,7 +44,7 @@ Insurance, guaranties, or reinsurance of a loan or equity investment of an eligi
 
 #### (i) Claims settlement
 
-Claims arising as a result of insurance, reinsurance, or guaranty operations under this subpart or under predecessor guaranty authoritymay be settled, and disputes arising as a result thereof may be arbitrated with the consent of the parties, on such terms and conditions as the Corporation may determine. Payment made pursuant to any such settlement, or as a result of an arbitration award, shall be final and conclusive notwithstanding any other provision of law.
+Claims arising as a result of insurance, reinsurance, or guaranty operations under this subpart or under predecessor guaranty authority may be settled, and disputes arising as a result thereof may be arbitrated with the consent of the parties, on such terms and conditions as the Corporation may determine. Payment made pursuant to any such settlement, or as a result of an arbitration award, shall be final and conclusive notwithstanding any other provision of law.
 
 #### (j) Presumption of compliance
 
@@ -90,7 +90,7 @@ Direct loans or investments made in order to preserve the value of funds receive
 
 #### References in Text
 
-Sections 1872(b) and 1933(b) of this title, referred to in subsec. (c), were repealed by Pub. L. 87–195, pt. III,§642(a)(2), Sept. 4, 1961, 75 Stat. 460. Section 642(b) of Pub. L. 87–195 provided that references to provisions of law repealed by subsec. (a) were to be deemed references to the appropriate provisions of Pub. L. 87–195. See sections 2163 and 2351 of this title.
+Sections 1872(b) and 1933(b) of this title, referred to in subsec. (c), were repealed by Pub. L. 87–195, pt. III, §642(a)(2), Sept. 4, 1961, 75 Stat. 460. Section 642(b) of Pub. L. 87–195 provided that references to provisions of law repealed by subsec. (a) were to be deemed references to the appropriate provisions of Pub. L. 87–195. See sections 2163 and 2351 of this title.
 
 The Foreign Assistance Act of 1969, referred to in subsec. (c), is Pub. L. 91–175, Dec. 30, 1969, 83 Stat. 805, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables. The guaranty authorities repealed by the 1969 Act were the guaranty authorities contained in sections 2181 to 2184 prior to the general reorganization of subpart III by the 1969 Act.
 

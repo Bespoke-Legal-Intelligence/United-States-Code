@@ -8,7 +8,3 @@ Every person who drives or otherwise conveys any stock of horses, mules, or catt
 
 R.S. §2117 derived from act June 30, 1834, ch. 161, §9, 4 Stat. 730.
 
-#### Cross References
-
-Penalties, recovery of, see section 201 of this title.
-

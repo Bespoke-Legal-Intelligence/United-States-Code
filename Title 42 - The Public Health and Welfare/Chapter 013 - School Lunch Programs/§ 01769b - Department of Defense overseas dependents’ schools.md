@@ -6,7 +6,7 @@ For the purpose of obtaining Federal payments and commodities in conjunction wit
 
 #### (b) Administration of program; eligibility determinations and regulations
 
-The Secretary of Defense shall administer lunch programs authorized by this section and shall determine eligibility for free and reduced price lunches under the criteria published by the Secretary of Agriculture, except that the Secretary of Defense shall prescribe regulations governing computation of income eligibility standards for families of students participating in the National School Lunch Program under this section.
+The Secretary of Defense shall administer lunch programs authorized by this section and shall determine eligibility for free and reduced price lunches under the criteria published by the Secretary of Agriculture, except that the Secretary of Defense shall prescribe regulations governing computation of income eligibilitystandards for families of students participating in the National School Lunch Program under this section.
 
 #### (c) Nutritional standards for meals; noncompliance with standards
 

@@ -174,9 +174,7 @@ Sponges
 
 &emsp;(32) The term “recreational fishing” means fishing for sport or pleasure.
 
-&emsp;(33) The term “regulatory discards” means fish harvested in
-
-a fishery which fishermen are required by regulation to discard whenever caught, or are required by regulation to retain but not sell.
+&emsp;(33) The term “regulatory discards” means fish harvested in a fishery which fishermen arerequired by regulation to discard whenever caught, or are required by regulation to retain but not sell.
 
 &emsp;(34) The term “Secretary” means the Secretary of Commerce or his designee.
 
@@ -492,13 +490,9 @@ References.—Any reference in a law, map, regulation, document, paper, or other
 
 For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
 
-#### Contiguous Zone of United States
-
-For extension of contiguous zone of United States, see Proc. No. 7219, Sept. 2, 1999, 64 F.R. 48701, set out as a note under section 1331 of Title 43, Public Lands.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 917a, 971, 971d, 1371, 1383a, 1387, 1854, 3377, 3601 of this title; title 22 sections 1971, 1980; title 46 sections 8103, 8704, 12122; title 46 App. section 1271; title 48 section 1904.
+This section is referred to in sections 917a, 971, 971d, 1371, 1383a, 1387, 1854, 3377, 3601, 5152 of this title; title 22 sections 1971, 1980; title 46 sections 8103, 8704, 12122; title 46 App. section 1271; title 48 section 1904.
 
 <i><sup>1</sup></i><i> See Codification note below.</i>
 

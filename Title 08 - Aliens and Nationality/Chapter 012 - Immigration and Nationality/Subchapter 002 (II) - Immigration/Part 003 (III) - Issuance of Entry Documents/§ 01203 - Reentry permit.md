@@ -18,7 +18,7 @@ Upon the return of the alien to the United States the permit shall be presented 
 
 #### (e) Permit in lieu of visa
 
-A permit issued under this section in the possession of the person to whom issued, shall be accepted in lieu of any visa which otherwise would be required from such person under this chapter. Otherwise a permit issued under this section shall have no effect under the immigration laws except to show that the alien to whom it was issued is returning from a temporary visit abroad; but nothing in this section shall be construed as making such permit the exclusive means of establishing that the alien is so returning.
+A permit issued under this section in the possession of the person to whom issued, shall be accepted in lieu of any visa which otherwise would be required from such person under this chapter. Otherwise a permit issued under thissection shall have no effect under the immigration laws except to show that the alien to whom it was issued is returning from a temporary visit abroad; but nothing in this section shall be construed as making such permit the exclusive means of establishing that the alien is so returning.
 
 (June 27, 1952, ch. 477, title II, ch. 3, §223, 66 Stat. 194; Pub. L. 97–116, §6, Dec. 29, 1981, 95 Stat. 1615.)
 
@@ -33,14 +33,6 @@ Clause (6) of section 3 of the Immigration Act of 1924, referred to in subsec. (
 #### Effective Date of 1981 Amendment
 
 Amendment by Pub. L. 97–116 effective Dec. 29, 1981, see section 21(a) of Pub. L. 97–116, set out as a note under section 1101 of this title.
-
-#### Cross References
-
-Cost of maintenance not to be assessed upon arrival of alien with unexpired reentry permit, see section 1227 of this title.
-
-Definition of alien, Attorney General, entry, immigration laws, immigration officer, lawfully admitted for permanent residence, and United States, see section 1101 of this title.
-
-Readmission without reentry permit of certain aliens who depart from United States temporarily, see section 1181 of this title.
 
 #### Section Referred to in Other Sections
 

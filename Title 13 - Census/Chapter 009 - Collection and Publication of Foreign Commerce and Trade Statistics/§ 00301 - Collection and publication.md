@@ -58,7 +58,7 @@ The Foreign Assistance Act of 1961, referred to in subsecs. (c)(2), (d)(2), is P
 
 #### Amendments
 
-1988—Subsec. (b). Pub. L. 100–418, §1214(a)(2)(A), substituted “Harmonized Tariff Schedule of the UnitedStates Annotated for Statistical Reporting Purposes and general statistical note 1 thereof” for “Tariff Schedules of the United States Annotated and general statistical headnote 1 thereof”.
+1988—Subsec. (b). Pub. L. 100–418, §1214(a)(2)(A), substituted “Harmonized Tariff Schedule of the United States Annotated for Statistical Reporting Purposes and general statistical note 1 thereof” for “Tariff Schedules of the United States Annotated and general statistical headnote 1 thereof”.
 
 Subsec. (e). Pub. L. 100–418, §1932, inserted at end “The information required to be reported under this subsection shall be reported in a form that is adjusted for economic inflation or deflation (on a constant dollar basis consistent with the reporting of the National Income and Product Accounts), and in a form that is not so adjusted.”
 
@@ -130,7 +130,7 @@ Section 1931(b) of Pub. L. 100–418 provided that:
 
 #### Congressional Access to Information
 
-Section 3 of Pub. L. 96–275 provided that: “Nothing in this Act \[enacting subsec. (g) of this section, amending section 93 of former Title 46, Shipping, and enacting provisions set out as notes under this section\] shall beconstrued as authorizing the withholding of information from Congress.”
+Section 3 of Pub. L. 96–275 provided that: “Nothing in this Act \[enacting subsec. (g) of this section, amending section 93 of former Title 46, Shipping, and enacting provisions set out as notes under this section\] shall be construed as authorizing the withholding of information from Congress.”
 
 #### Definitions
 

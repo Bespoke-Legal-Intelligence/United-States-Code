@@ -24,7 +24,7 @@ In connection with this demonstration, the Secretary of Housing and Urban Develo
 
 #### (2) Provision of services for entire demonstration
 
-&emsp;Each public housing agency shall ensure that supportive services appropriate to the needs of the frail elderly persons to be servedunder this demonstration are provided throughout the demonstration period. Expenditures for supportive services need not be made in equal amounts for each year, but may vary depending on the needs of the frail elderly persons assisted under this section. A public housing agency may use up to 20 percent of the Federal assistance provided for supportive services in each year of this demonstration and any amounts from any prior year in which the public housing agency did not use 20 percent of the available Federal assistance.
+&emsp;Each public housing agency shall ensure that supportive services appropriate to the needs of the frail elderly persons to be served under this demonstration are provided throughout the demonstration period. Expenditures for supportive services need not be made in equal amounts for each year, but may vary depending on the needs of the frail elderly persons assisted under this section. A public housing agency may use up to 20 percent of the Federal assistance provided for supportive services in each year of this demonstration and any amounts from any prior year in which the public housing agency did not use 20 percent of the available Federal assistance.
 
 #### (3) Calculation of match
 

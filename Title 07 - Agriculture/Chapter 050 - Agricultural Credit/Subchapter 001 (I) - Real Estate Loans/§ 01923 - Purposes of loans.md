@@ -52,7 +52,7 @@ In making or guaranteeing a loan under this subchapter for purchase of a farm or
 
 #### Amendments
 
-1996—Pub. L. 104–127 amended section generally, substituting present provisions for provisions outliningpreferences for loans made or insured under this subchapter and defining terms “improving farms” and “qualified non-fossil energy system”.
+1996—Pub. L. 104–127 amended section generally, substituting present provisions for provisions outlining preferences for loans made or insured under this subchapter and defining terms “improving farms” and “qualified non-fossil energy system”.
 
 1981—Subsec. (a). Pub. L. 97–98 substituted “who have dependent families” for “who are married or have dependent families”.
 

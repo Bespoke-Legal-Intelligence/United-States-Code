@@ -89,7 +89,7 @@ Pub. L. 99–500, §101(c) \[title X, §§931(a)(2), 941(a)(2), 942(a)(2), 943(a
 
 1985—Pub. L. 99–145, title IX, §§917(b), 923(a)(2), title XI, §1102(b)(2), Nov. 8, 1985, 99 Stat. 690, 697, 712, added items 2397a, 2406, and 2407.
 
-1984—Pub. L. 98–525, title X, §1005(b), title XII, §1235(1), (2), Oct. 19, 1984, 98 Stat. 2579, 2604, substitutedin item 2384 “identification of supplier and sources” for “marking with name of contractor” and added items 2401a, 2384a, and 2402 to 2405.
+1984—Pub. L. 98–525, title X, §1005(b), title XII, §1235(1), (2), Oct. 19, 1984, 98 Stat. 2579, 2604, substituted in item 2384 “identification of supplier and sources” for “marking with name of contractor” and added items 2401a, 2384a, and 2402 to 2405.
 
 1983—Pub. L. 98–94, title XII, §§1202(a)(2), 1259(b), Sept. 24, 1983, 97 Stat. 681, 703, struck out item 2390 “Suggestions for improving procurement policies”, and added item 2401.
 
@@ -110,14 +110,6 @@ Pub. L. 97–214, §6(a)(2), July 12, 1982, 96 Stat. 172, added item 2394.
 1966—Pub. L. 89–696, §1(2), Oct. 19, 1966, 80 Stat. 1057, added item 2389.
 
 1958—Pub. L. 85–861, §1(47), Sept. 2, 1958, 72 Stat. 1458, added items 2387 and 2388.
-
-#### Cross References
-
-Procurement—
-
-&emsp;&emsp;Generally, see section 2301 et seq. of this title.
-
-&emsp;&emsp;Navy, see section 7521 et seq. of this title.
 
 
 ---

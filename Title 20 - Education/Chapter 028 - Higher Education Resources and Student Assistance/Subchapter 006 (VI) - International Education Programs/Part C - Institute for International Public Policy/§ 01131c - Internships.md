@@ -46,7 +46,7 @@ The Institute shall enter into agreements with institutions of higher education 
 
 &emsp;&emsp;(C) promote policies in each department and agency participating in the Committee that are designed to carry out the objectives of this part.
 
-(Pub. L. 89–329, title VI, §625, formerly §624, as added Pub. L. 102–325, title VI, §601, July 23, 1992, 106 Stat. 735; renumbered §625, and amendedPub. L. 105–244, title VI, §603(b)(1), (d), title IX, §901(d), Oct. 7, 1998, 112 Stat. 1783, 1784, 1828; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1335(j), Oct. 21, 1998, 112 Stat. 2681–788.)
+(Pub. L. 89–329, title VI, §625, formerly §624, as added Pub. L. 102–325, title VI, §601, July 23, 1992, 106 Stat. 735; renumbered §625, and amended Pub. L. 105–244, title VI, §603(b)(1), (d), title IX, §901(d), Oct. 7, 1998, 112 Stat. 1783, 1784, 1828; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1335(j), Oct. 21, 1998, 112 Stat. 2681–788.)
 
 #### References in Text
 

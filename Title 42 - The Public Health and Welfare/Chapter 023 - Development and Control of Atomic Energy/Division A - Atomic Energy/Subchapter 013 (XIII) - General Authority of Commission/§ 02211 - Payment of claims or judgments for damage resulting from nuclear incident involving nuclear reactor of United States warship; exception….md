@@ -16,7 +16,7 @@ By virtue of the authority vested in me by the joint resolution approved Decembe
 
 Section 1. (a) With respect to the administrative settlement of claims or judgments for bodily injury, death, or damage to or loss of real or personal property proven to have resulted from a nuclear incident involving the nuclear reactor of a United States warship, the Secretary of Defense is designated and empowered to authorize, in accord with Public Law 93–513 \[this section\], the payment, under such terms and conditions as he may direct, of such claims and judgments from contingency funds available to the Department of Defense.
 
-(b) The Secretary of Defense shall, when he considers such action appropriate, certify claims or judgments described in subsection (a) and transmit to the Director of the Office of Management and Budget his recommendation with respect to appropriation by the Congress of such additional sums as may be necessary.
+(b) The Secretary of Defense shall, when he considers such action appropriate, certify claims or judgmentsdescribed in subsection (a) and transmit to the Director of the Office of Management and Budget his recommendation with respect to appropriation by the Congress of such additional sums as may be necessary.
 
 Sec. 2. The provisions of section 1 shall not be deemed to replace, alter, or diminish, the statutory and other functions vested in the Attorney General, or the head of any other agency, with respect to litigation against the United States and judgments and compromise settlements arising therefrom.
 

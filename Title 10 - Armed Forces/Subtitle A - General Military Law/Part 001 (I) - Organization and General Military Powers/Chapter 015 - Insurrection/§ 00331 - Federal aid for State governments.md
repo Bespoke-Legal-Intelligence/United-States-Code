@@ -20,12 +20,6 @@ R.S. 5297.
 
 The words “armed forces” are substituted for the words “land or naval forces of the United States”. The word “governor” is substituted for the word “executive”. The word “may” is substituted for the words “it shall be lawful \* \* \* to”. The words “into Federal service” are substituted for the word “forth” for uniformity and clarity.
 
-#### Cross References
-
-Army National Guard in Federal service, call, see section 12406 of this title.
-
-Use of Army and Air Force as posse comitatus, see section 1385 of Title 18, Crimes and Criminal Procedure.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in title 5 section 6323.

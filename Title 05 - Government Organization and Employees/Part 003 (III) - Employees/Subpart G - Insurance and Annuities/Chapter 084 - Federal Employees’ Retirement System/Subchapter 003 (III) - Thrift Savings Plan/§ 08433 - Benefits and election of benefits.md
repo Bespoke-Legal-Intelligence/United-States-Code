@@ -18,7 +18,7 @@
 
 (3) The Executive Director shall make each transfer elected under paragraph (2) directly to an eligible retirement plan or plans (as defined in section 402(c)(8) of the Internal Revenue Code of 1986) identified by the employee, Member, former employee, or former Member for whom the transfer is made.
 
-(4) A transfer may not be made for an employee, Member, former employee, or formerMember under paragraph (2) until the Executive Director receives from that individual the information required by the Executive Director specifically to identify the eligible retirement plan or plans to which the transfer is to be made.
+(4) A transfer may not be made for an employee, Member, former employee, or former Member under paragraph (2) until the Executive Director receives from that individual the information required by the Executive Director specifically to identify the eligible retirement plan or plans to which the transfer is to be made.
 
 (d)(1) Subject to paragraph (3) <sup>1</sup> and subsections (a) and (c) of section 8435 of this title, an employee or Member may change an election previously made under this subchapter.
 
@@ -58,17 +58,17 @@
 
 (Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 544; amended Pub. L. 100–238, title I, §132, Jan. 8, 1988, 101 Stat. 1760; Pub. L. 101–335, §§5(a), 6(a)(2), July 17, 1990, 104 Stat. 321, 322; Pub. L. 102–484, div. D, title XLIV, §4437(a), Oct. 23, 1992, 106 Stat. 2724; Pub. L. 103–226, §9(b), (i)(3)–(7), Mar. 30, 1994, 108 Stat. 119, 121, 122; Pub. L. 103–353, §§4(b), 5(e)(4), Oct. 13, 1994, 108 Stat. 3172, 3174; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §203(a)\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–374; Pub. L. 106–65, div. A, title VI, §661(a)(4), Oct. 5, 1999, 113 Stat. 672.)
 
-#### Contingent Amendment of Subsections (g)(1) and (h)(3)
+#### Amendment of Subsections (g)(1) and (h)(3)
 
-<i>Pub. L. 106–65, div. A, title VI, §§661(a)(4), 663, Oct. 5, 1999, 113 Stat. 672, 673, provided that effective only if the President proposes in the 2001 fiscal year budget and there is enacted in the second session of the One Hundred Sixth Congress qualifying offsetting legislation, subsections (g)(1) and (h)(3) of this section are amended by striking “under section 8432(a) of this title”.</i>
+<i>Pub. L. 106–65, div. A, title VI, §§661(a)(4), 663, Oct. 5, 1999, 113 Stat. 672, 673, as amended by Pub. L. 106–398, §1 \[\[div. A\], title VI, §661(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–167, provided that effective 180 days after Oct. 30, 2000, unless postponed, subsections (g)(1) and (h)(3) of this section are amended by striking “under section 8432(a) of this title”.</i>
 
 #### References in Text
 
-Sections 72(p) and 402(c)(8) of the Internal Revenue Code of 1986, referred to in subsecs. (c)(3) and (g)(3), are classified to sections 72(p) and 402(a)(5)(E), respectively, of Title 26, Internal Revenue Code.
+Sections 72(p) and 402(c)(8) of the Internal Revenue Code of 1986, referred to in subsecs. (c)(3) and (g)(3), are classified to sections 72(p) and 402(c)(8), respectively, of Title 26, Internal Revenue Code.
 
 #### Amendments
 
-1996—Subsec. (b). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §203(a)(1)\]\], added subsec. (b) and struck out former subsec. (b) which read as follows: “Subject to section 8435 of this title, any employee or Member whoseparates from Government employment is entitled and may elect—
+1996—Subsec. (b). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §203(a)(1)\]\], added subsec. (b) and struck out former subsec. (b) which read as follows: “Subject to section 8435 of this title, any employee or Member who separates from Government employment is entitled and may elect—
 
 &emsp;“(1) to receive an immediate annuity from the Thrift Savings Fund;
 
@@ -130,7 +130,7 @@ Subsec. (e). Pub. L. 103–226, §9(b)(2), (i)(6), redesignated subsec. (g) as (
 
 Subsec. (f). Pub. L. 103–226, §9(b)(2), redesignated subsec. (h) as (f). Former subsec. (f) redesignated (d).
 
-Subsec. (f)(1). Pub. L. 103–226, §9(b)(5)(A), (B), redesignated par. (2) as (1), substituted “Notwithstanding subsection (b), if an employee or Member separates fromGovernment employment, and such employee's or Member's” for “Notwithstanding subsections (b) and (c), if an employee or Member separates from Government employment under circumstances making such employee or Member eligible to make an election under either of those subsections, and such employee's or Member's”, struck out “or (c), as applicable” before period at end, and struck out former par. (1) which read as follows: “Notwithstanding subsection (d), if an employee or Member separates from Government employment before becoming entitled to a deferred annuity under subchapter II, and such employee's or Member's nonforfeitable account balance is $3,500 or less, the Executive Director shall pay the nonforfeitable account balance to the participant in a single payment unless the employee or Member elects, at such time and otherwise in such manner as the Executive Director prescribes, to have the nonforfeitable account balance transferred to an eligible retirement plan as provided in subsection (e), or unless an election under section 8432b(h)(2) is made to treat such separation for purposes of this paragraph as if it had never occurred.”
+Subsec. (f)(1). Pub. L. 103–226, §9(b)(5)(A), (B), redesignated par. (2) as (1), substituted “Notwithstanding subsection (b), if an employee or Member separates from Government employment, and such employee's or Member's” for “Notwithstanding subsections (b) and (c), if an employee or Member separates from Government employment under circumstances making such employee or Member eligible to make an election under either of those subsections, and such employee's or Member's”, struck out “or (c), as applicable” before period at end, and struck out former par. (1) which read as follows: “Notwithstanding subsection (d), if an employee or Member separates from Government employment before becoming entitled to a deferred annuity under subchapter II, and such employee's or Member's nonforfeitable account balance is $3,500 or less, the Executive Director shall pay the nonforfeitable account balance to the participant in a single payment unless the employee or Member elects, at such time and otherwise in such manner as the Executive Director prescribes, to have the nonforfeitable account balance transferred to an eligible retirement plan as provided in subsection (e), or unless an election under section 8432b(h)(2) is made to treat such separation for purposes of this paragraph as if it had never occurred.”
 
 Subsec. (f)(2). Pub. L. 103–226, §9(b)(5)(A), (C), redesignated par. (3) as (2) and substituted “paragraph (1)” for “paragraphs (1) and (2)” before “, benefits under this chapter”. Former par. (2) redesignated (1).
 
@@ -166,7 +166,7 @@ Subsec. (h). Pub. L. 101–335, §6(a)(2), amended subsec. (h) generally. Prior 
 
 #### Effective Date of 1999 Amendment
 
-Amendment by Pub. L. 106–65 effective only if the President proposes in the 2001 fiscal year budget and there is enacted in the second session of the One Hundred Sixth Congress qualifying offsetting legislation, see section 663 of Pub. L. 106–65, set out as an Effective Date note under section 8440e of this title.
+Amendment by Pub. L. 106–65 effective 180 days after Oct. 30, 2000, unless postponed, see section 663 of Pub. L. 106–65, as amended, set out as an Effective Date note under section 8440e of this title.
 
 #### Effective Date of 1996 Amendment
 

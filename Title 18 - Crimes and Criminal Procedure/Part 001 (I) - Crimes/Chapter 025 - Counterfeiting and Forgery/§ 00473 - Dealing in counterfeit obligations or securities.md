@@ -16,10 +16,6 @@ Changes in phraseology were made.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
 
-#### Canal Zone
-
-Applicability of section to Canal Zone, see section 14 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 14, 470, 981, 982, 1961, 2516 of this title.

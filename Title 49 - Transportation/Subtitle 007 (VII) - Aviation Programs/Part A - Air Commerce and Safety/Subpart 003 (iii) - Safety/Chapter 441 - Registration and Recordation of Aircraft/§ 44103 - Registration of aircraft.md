@@ -90,6 +90,22 @@ In subsection (b)(1)(B), before subclause (i), the words “after the one-year p
 
 In subsection (c), before clause (1), the words “A certificate of registration” are substituted for “Registration” for clarity. In clause (2), the words “by a particular person” are omitted as surplus.
 
+#### Aircraft Situational Display Data
+
+Pub. L. 106–181, title VII, §729, Apr. 5, 2000, 114 Stat. 168, provided that:
+
+“(a)
+
+In General.—A memorandum of agreement between the Administrator \[of the Federal Aviation Administration\] and any person that directly obtains aircraft situational display data from the Federal Aviation Administration shall require that—
+
+&emsp;“(1) the person demonstrate to the satisfaction of the Administrator that the person is capable of selectively blocking the display of any aircraft-situation-display-to-industry derived data related to any identified aircraft registration number; and
+
+&emsp;“(2) the person agree to block selectively the aircraft registration numbers of any aircraft owner or operator upon the Administration's request.
+
+“(b)
+
+Existing Memoranda To Be Conformed.—Not later than 30 days after the date of the enactment of this Act \[Apr. 5, 2000\], the Administrator shall conform any memoranda of agreement, in effect on such date of enactment, between the Federal Aviation Administration and a person under which that person obtains aircraft situational display data to incorporate the requirements of subsection (a).”
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 44101, 44102, 44105, 44106, 44109, 44110, 46306 of this title; title 10 section 9512.

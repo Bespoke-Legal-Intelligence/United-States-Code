@@ -62,7 +62,7 @@ Section 1 of Pub. L. 96–464 provided: “That this Act \[enacting sections 145
 
 #### Short Title of 1976 Amendment
 
-Section 1 of Pub. L. 94–370 provided: “That this Act \[enacting section 1511a of Title 15, Commerce andTrade, and sections 1456a to 1456c of this title, amending this section, sections 1453 to 1456 and 1457 to 1464 of this title, and section 5316 of Title 5, Government Organization and Employees, and enacting provisions set out as notes under section 1511a of Title 15 and section 1462 of this title\] may be cited as the ‘Coastal Zone Management Act Amendments of 1976’.”
+Section 1 of Pub. L. 94–370 provided: “That this Act \[enacting section 1511a of Title 15, Commerce and Trade, and sections 1456a to 1456c of this title, amending this section, sections 1453 to 1456 and 1457 to 1464 of this title, and section 5316 of Title 5, Government Organization and Employees, and enacting provisions set out as notes under section 1511a of Title 15 and section 1462 of this title\] may be cited as the ‘Coastal Zone Management Act Amendments of 1976’.”
 
 #### Short Title
 
@@ -158,7 +158,7 @@ Assessment of Hypoxia.—
 
 &emsp;&emsp;“(B) identify alternatives for preventing unnecessary duplication of effort among Federal agencies and departments with respect to hypoxia; and
 
-&emsp;&emsp;“(C) provide for Federal cooperation and coordination with and assistance to the States, Indiantribes, and local governments in the prevention, reduction, management, mitigation, and control of hypoxia and its environmental impacts.
+&emsp;&emsp;“(C) provide for Federal cooperation and coordination with and assistance to the States, Indian tribes, and local governments in the prevention, reduction, management, mitigation, and control of hypoxia and its environmental impacts.
 
 “(e)\[(d)\]
 
@@ -218,7 +218,7 @@ Findings.—Congress finds and declares the following:
 
 &emsp;“(8) There is a clear link between coastal water quality and land use activities along the shore. State management programs under the Coastal Zone Management Act of 1972 (16 U.S.C. 1451 et seq.) are among the best tools for protecting coastal resources and must play a larger role, particularly in improving coastal zone water quality.
 
-&emsp;“(9) All coastal States should have coastal zone management programs in place that conform to theCoastal Zone Management Act of 1972, as amended by this Act.
+&emsp;“(9) All coastal States should have coastal zone management programs in place that conform to the Coastal Zone Management Act of 1972, as amended by this Act.
 
 “(b)
 
@@ -231,44 +231,4 @@ Section 15(c) of Pub. L. 94–370 related to establishment and compensation of f
 #### Territorial Sea of United States
 
 For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
-
-#### Contiguous Zone of United States
-
-For extension of contiguous zone of United States, see Proc. No. 7219, Sept. 2, 1999, 64 F.R. 48701, set out as a note under section 1331 of Title 43, Public Lands.
-
-#### Ex. Ord. No. 13089. Coral Reef Protection
-
-Ex. Ord. No. 13089, June 11, 1998, 63 F.R. 32701, provided:
-
-By the authority vested in me as President by the Constitution and the laws of the United States of America and in furtherance of the purposes of the Clean Water Act of 1977, as amended (33 U.S.C. 1251, <i>et seq</i>.), Coastal Zone Management Act (16 U.S.C. 1451, <i>et seq</i>.), Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801, <i>et seq</i>.), National Environmental Policy Act of 1969, as amended (42 U.S.C. 4321, <i>et seq</i>.), National Marine Sanctuaries Act, (16 U.S.C. 1431, <i>et seq</i>.), National Park Service Organic Act (16 U.S.C. 1, <i>et seq</i>.), National Wildlife Refuge System Administration Act (16 U.S.C. 668dd–ee), and other pertinent statutes, to preserve and protect the biodiversity, health, heritage, and social and economic value of U.S. coral reef ecosystems and the marine environment, it is hereby ordered as follows:
-
-Section 1. <i>Definitions</i>. (a) “U.S. coral reef ecosystems” means those species, habitats, and other natural resources associated with coral reefs in all maritime areas and zones subject to the jurisdiction or control of the United States (e.g., Federal, State, territorial, or commonwealth waters), including reef systems in the south Atlantic, Caribbean, Gulf of Mexico, and Pacific Ocean. (b) “U.S. Coral Reef Initiative” is an existing partnership between Federal agencies and State, territorial, commonwealth, and local governments, nongovernmental organizations, and commercial interests to design and implement additional management, education, monitoring, research, and restoration efforts to conserve coral reef ecosystems for the use and enjoyment of future generations. The existing U.S. Islands Coral Reef Initiative strategy covers approximately 95 percent of U.S. coral reef ecosystems and is a key element of the overall U.S. Coral Reef Initiative. (c) “International Coral Reef Initiative” is an existing partnership, founded by the United States in 1994, of governments, intergovernmental organizations, multilateral development banks, nongovernmental organizations, scientists, and the private sector whose purpose is to mobilize governments and other interested parties whose coordinated, vigorous, and effective actions are required to address the threats to the world's coral reefs.
-
-Sec. 2. <i>Policy</i>. (a) All Federal agencies whose actions may affect U.S. coral reef ecosystems shall: (a) identify their actions that may affect U.S. coral reef ecosystems; (b) utilize their programs and authorities to protect and enhance the conditions of such ecosystems; and (c) to the extent permitted by law, ensure that any actions they authorize, fund, or carry out will not degrade the conditions of such ecosystems.
-
-(b) Exceptions to this section may be allowed under terms prescribed by the heads of Federal agencies:
-
-(1) during time of war or national emergency;
-
-(2) when necessary for reasons of national security, as determined by the President;
-
-(3) during emergencies posing an unacceptable threat to human health or safety or to the marine environment and admitting of no other feasible solution; or
-
-(4) in any case that constitutes a danger to human life or a real threat to vessels, aircraft, platforms, or other man-made structures at sea, such as cases of <i>force majeure</i> caused by stress of weather or other act of God.
-
-Sec. 3. <i>Federal Agency Responsibilities</i>. In furtherance of section 2 of this order, Federal agencies whose actions affect U.S. coral reef ecosystems, shall, subject to the availability of appropriations, provide for implementation of measures needed to research, monitor, manage, and restore affected ecosystems, including, but not limited to, measures reducing impacts from pollution, sedimentation, and fishing. To the extent not inconsistent with statutory responsibilities and procedures, these measures shall be developed in cooperation with the U.S. Coral Reef Task Force and fishery management councils and in consultation with affected States, territorial, commonwealth, tribal, and local government agencies, nongovernmental organizations, the scientific community, and commercial interests.
-
-Sec. 4. <i>U.S. Coral Reef Task Force</i>. The Secretary of the Interior and the Secretary of Commerce, through the Administrator of the National Oceanic and Atmospheric Administration, shall co-chair a U.S. Coral Reef Task Force (“Task Force”), whose members shall include, but not be limited to, the Administrator of the Environmental Protection Agency, the Attorney General, the Secretary of the Interior, the Secretary of Agriculture, the Secretary of Commerce, the Secretary of Defense, the Secretary of State, the Secretary of Transportation, the Director of the National Science Foundation, the Administrator of the Agency for International Development, and the Administrator of the National Aeronautics and Space Administration. The Task Force shall oversee implementation of the policy and Federal agency responsibilities set forth in this order, and shall guide and support activities under the U.S. Coral Reef Initiative (“CRI”). All Federal agencies whose actions may affect U.S. coral reef ecosystems shall review their participation in the CRI and the strategies developed under it, including strategies and plans of State, territorial, commonwealth, and local governments, and, to the extent feasible, shall enhance Federal participation and support of such strategies and plans. The Task Force shall work in cooperation with State, territorial, commonwealth, and local government agencies, nongovernmental organizations, the scientific community, and commercial interests.
-
-Sec. 5. <i>Duties of the U.S. Coral Reef Task Force</i>. (a) <i>Coral Reef Mapping and Monitoring</i>. The Task Force, in cooperation with State, territory, commonwealth, and local government partners, shall coordinate a comprehensive program to map and monitor U.S. coral reefs. Such programs shall include, but not be limited to, territories and commonwealths, special marine protected areas such as National Marine Sanctuaries, National Estuarine Research Reserves, National Parks, National Wildlife Refuges, and other entities having significant coral reef resources. To the extent feasible, remote sensing capabilities shall be developed and applied to this program and local communities should be engaged in the design and conduct of programs.
-
-(b) <i>Research</i>. The Task Force shall develop and implement, with the scientific community, research aimed at identifying the major causes and consequences of degradation of coral reef ecosystems. This researchshall include fundamental scientific research to provide a sound framework for the restoration and conservation of coral reef ecosystems worldwide. To the extent feasible, existing and planned environmental monitoring and mapping programs should be linked with scientific research activities. This Executive order shall not interfere with the normal conduct of scientific studies on coral reef ecosystems.
-
-(c) <i>Conservation, Mitigation, and Restoration</i>. The Task Force, in cooperation with State, territorial, commonwealth, and local government agencies, nongovernmental organizations, the scientific community and commercial interests, shall develop, recommend, and seek or secure implementation of measures necessary to reduce and mitigate coral reef ecosystem degradation and to restore damaged coral reefs. These measures shall include solutions to problems such as land-based sources of water pollution, sedimentation, detrimental alteration of salinity or temperature, over-fishing, over-use, collection of coral reef species, and direct destruction caused by activities such as recreational and commercial vessel traffic and treasure salvage. In developing these measures, the Task Force shall review existing legislation to determine whether additional legislation is necessary to complement the policy objectives of this order and shall recommend such legislation if appropriate. The Task Force shall further evaluate existing navigational aids, including charts, maps, day markers, and beacons to determine if the designation of the location of specific coral reefs should be enhanced through the use, revision, or improvement of such aids.
-
-(d) <i>International Cooperation</i>. The Secretary of State and the Administrator of the Agency for International Development, in cooperation with other members of the Coral Reef Task Force and drawing upon their expertise, shall assess the U.S. role in international trade and protection of coral reef species and implement appropriate strategies and actions to promote conservation and sustainable use of coral reef resources worldwide. Such actions shall include expanded collaboration with other International Coral Reef Initiative (“ICRI”) partners, especially governments, to implement the ICRI through its Framework for Action and the Global Coral Reef Monitoring Network at regional, national, and local levels.
-
-Sec. 6. This order does not create any right or benefit, substantive or procedural, enforceable in law or equity by a party against the United States, its agencies, its officers, or any person.
-
-William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -6,7 +6,7 @@
 
 (c) The initial appointment to a commissioned grade of a member designated as director of the Marine Band shall be in the grade of captain, except that a member who, at the time of his designation, holds an appointment in a higher grade may be appointed in that higher grade, but not above lieutenant colonel. The initial appointment of a member designated as assistant director shall be in a grade below captain.
 
-(d) The Secretary shall prescribe regulations for the promotion of members designated as director or assistant director of the Marine Band,and the President, by and with the advice and consent of the Senate, may from time to time appoint them to higher grades.
+(d) The Secretary shall prescribe regulations for the promotion of members designated as director or assistant director of the Marine Band, and the President, by and with the advice and consent of the Senate, may from time to time appoint them to higher grades.
 
 (e) Unless otherwise entitled to higher retired grade and retired pay, a member who holds, or has held, an appointment under this section is entitled, when retired, to be retired in, and with retired pay based on, the highest grade held under this section in which the Secretary determines that he served satisfactorily.
 
@@ -107,10 +107,6 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 #### Effective Date of 1962 Amendment
 
 Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 87–649, set out as an Effective Date note preceding section 101 of Title 37, Pay and Allowances of the Uniformed Services.
-
-#### Cross References
-
-Pay and allowances, see sections 207 and 427 of Title 37, Pay and Allowances of the Uniformed Services.
 
 #### Section Referred to in Other Sections
 

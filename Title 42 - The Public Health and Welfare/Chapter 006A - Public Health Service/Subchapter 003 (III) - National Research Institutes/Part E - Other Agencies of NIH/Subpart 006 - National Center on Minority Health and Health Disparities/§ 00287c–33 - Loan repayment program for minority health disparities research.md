@@ -1,0 +1,30 @@
+### §287c–33. Loan repayment program for minority health disparities research
+
+#### (a) In general
+
+The Director of the Center shall establish a program of entering into contracts with qualified health professionals under which such health professionals agree to engage in minority health disparities research or other health disparities research in consideration of the Federal Government agreeing to repay, for each year of engaging in such research, not more than $35,000 of the principal and interest of the educational loans of such health professionals.
+
+#### (b) Service provisions
+
+The provisions of sections 254<i>l</i>–1, 254m, and 254<i>o</i> of this title shall, except as inconsistent with subsection (a) of this section, apply to the program established in such subsection to the same extent and in the same manner as such provisions apply to the National Health Service Corps Loan Repayment Program established in subpart III of part D of subchapter II of this chapter.
+
+#### (c) Requirement regarding health disparity populations
+
+The Director of the Center shall ensure that not fewer than 50 percent of the contracts entered into under subsection (a) of this section are for appropriately qualified health professionals who are members of a health disparity population.
+
+#### (d) Priority
+
+With respect to minority health disparities research and other health disparities research under subsection (a) of this section, the Secretary shall ensure that priority is given to conducting projects of biomedical research.
+
+#### (e) Funding
+
+#### (1) Authorization of appropriations
+
+&emsp;For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005.
+
+#### (2) Availability of appropriations
+
+&emsp;Amounts available for carrying out this section shall remain available until the expiration of the second fiscal year beginning after the fiscal year for which the amounts were made available.
+
+(July 1, 1944, ch. 373, title IV, §485G, as added Pub. L. 106–525, title I, §103, Nov. 22, 2000, 114 Stat. 2503.)
+

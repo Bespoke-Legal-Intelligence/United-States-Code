@@ -38,11 +38,3 @@ Section 3 of act Aug. 30, 1954, provided that:
 
 “This retrocession of jurisdiction shall take effect upon acceptance by the State of New Mexico.”
 
-#### Federal Rules of Civil Procedure
-
-Complaint for condemnation, see form 29, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-Notice of condemnation, see form 28.
-
-Procedure in condemnation proceedings, see rule 71A. Effect of such rule upon this section, see Advisory Committee note under such rule.
-

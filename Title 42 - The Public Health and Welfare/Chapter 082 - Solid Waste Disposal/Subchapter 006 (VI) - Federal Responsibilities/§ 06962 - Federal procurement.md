@@ -22,7 +22,7 @@ Any procurement, by any procuring agency, which is subject to regulations of the
 
 (3)(A) After the date specified in any applicable guidelines prepared pursuant to subsection (e) of this section, contracting officers shall require that vendors:
 
-&emsp;(i) certify that the percentage of recovered materials to be used in the performance of the contract will be at least the amount required by applicable specifications or other contractual requirements and
+&emsp;(i) certify that the percentage of recovered materials to be used in the performance of thecontract will be at least the amount required by applicable specifications or other contractual requirements and
 
 &emsp;(ii) estimate the percentage of the total material utilized for the performance of the contract which is recovered materials.
 
@@ -90,7 +90,7 @@ As used in this section, in the case of paper products, the term “recovered ma
 
 #### (i) Procurement program
 
-(1) Within one year after the date of publication of applicable guidelines under subsection (e) of this section, each procuring agency shall develop an affirmative procurement program which will assure that items composed of recovered materials will be purchased to the maximum extent practicable and which is consistent with applicable provisions of Federal procurement law.
+(1) Within one year after the date of publication of applicable guidelines under subsection\(e) of this section, each procuring agency shall develop an affirmative procurement program which will assure that items composed of recovered materials will be purchased to the maximum extent practicable and which is consistent with applicable provisions of Federal procurement law.
 
 (2) Each affirmative procurement program required under this subsection shall, at a minimum, contain—
 
@@ -146,7 +146,7 @@ Subsecs. (h), (i). Pub. L. 98–616, §501(a), added subsecs. (h) and (i).
 
 Subsec. (c)(2). Pub. L. 96–482, §22(3), substituted “energy or fuels derived from solid waste” for “recovered material and recovered-material-derived fuel”.
 
-Subsec. (c)(3). Pub. L. 96–482, §22(4), substituted subpars. (A) and (B) for provision requiring certification ofthe percentage of the total material utilized for the performance of the contract which is recovered materials.
+Subsec. (c)(3). Pub. L. 96–482, §22(4), substituted subpars. (A) and (B) for provision requiring certification of the percentage of the total material utilized for the performance of the contract which is recovered materials.
 
 Subsec. (d). Pub. L. 96–482, §22(5), in par. (1), substituted provision requiring Federal agencies to eliminate from specifications as expeditiously as possible, but in no event later than 5 years after Oct. 21, 1976, any exclusion of recovered materials and any requirement that items be manufactured from virgin materials for provision that Federal agencies in reviewing specifications, ascertain whether those specifications violate prohibitions in par. (2)(A) to (C), with such review undertaken not later than 18 months after Oct. 21, 1976, and in par. (2), substituted provision that Federal agencies act within 1 year from publication of applicable guidelines under subsec. (e) of this section for provision that in drafting or revising specifications after Oct. 21, 1976, any exclusion of recovered materials be eliminated and specifications not require the item to be manufactured from virgin materials.
 

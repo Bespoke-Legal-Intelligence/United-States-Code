@@ -20,11 +20,13 @@ In order to carry out the provisions of this chapter, the Foundation may—
 
 #### (b) The Institute
 
-The authorities set forth above shall, with the exception of paragraph (4), apply to the Institute established pursuant to section 5607a of this title.
+The authorities set forth above shall, with the exception of paragraph (4), apply to the Institute established pursuant to section 5607a of this title and to the activities of the Foundation under section 5604(7) of this title.
 
-(Pub. L. 102–259, §12, formerly §10, Mar. 19, 1992, 106 Stat. 83; renumbered §12, Pub. L. 105–156, §6(a), Feb. 11, 1998, 112 Stat. 9; amended Pub. L. 105–277, div. A, §101(h) \[title V, §517(b)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–512.)
+(Pub. L. 102–259, §12, formerly §10, Mar. 19, 1992, 106 Stat. 83; renumbered §12, Pub. L. 105–156, §6(a), Feb. 11, 1998, 112 Stat. 9; amended Pub. L. 105–277, div. A, §101(h) \[title V, §517(b)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–512; Pub. L. 106–568, title VIII, §817(b), Dec. 27, 2000, 114 Stat. 2918.)
 
 #### Amendments
+
+2000—Subsec. (b). Pub. L. 106–568 inserted before period at end “and to the activities of the Foundation under section 5604(7) of this title”.
 
 1998—Pub. L. 105–277 designated existing provisions as subsec. (a) and added subsec. (b).
 

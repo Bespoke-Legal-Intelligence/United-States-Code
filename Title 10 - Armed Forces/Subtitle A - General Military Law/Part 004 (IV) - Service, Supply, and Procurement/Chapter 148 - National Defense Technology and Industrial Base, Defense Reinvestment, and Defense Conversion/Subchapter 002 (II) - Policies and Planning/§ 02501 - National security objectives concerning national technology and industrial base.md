@@ -30,7 +30,7 @@ Civil-Military Integration Policy.—It is the policy of Congress that the Unite
 
 &emsp;(3) Reducing Federal Government barriers to the use of commercial products, processes, and standards.
 
-(Added Pub. L. 102–484, div. D, title XLII, §4211, Oct. 23, 1992, 106 Stat. 2662; amended Pub. L. 103–35, title II, §201(c)(7), May 31, 1993, 107 Stat. 98; Pub. L. 103–160, div. A, title XI, §1182(a)(10), title XIII, §1313, Nov. 30, 1993, 107 Stat. 1771, 1786; Pub. L. 104–106, div. A, title X, §1081(a), Feb. 10, 1996, 110 Stat. 452; Pub. L. 104–201, div. A, title VIII, §829(a), Sept. 23, 1996, 110 Stat. 2612.)
+(Added Pub. L. 102–484, div. D, title XLII, §4211, Oct. 23, 1992, 106 Stat. 2662; amended Pub. L. 103–35, title II, §201(c)(7), May 31, 1993, 107 Stat. 98; Pub. L. 103–160, div. A, title XI, §1182(a)(10), title XIII, §1313, Nov. 30, 1993, 107 Stat. 1771, 1786;Pub. L. 104–106, div. A, title X, §1081(a), Feb. 10, 1996, 110 Stat. 452; Pub. L. 104–201, div. A, title VIII, §829(a), Sept. 23, 1996, 110 Stat. 2612.)
 
 #### Prior Provisions
 
@@ -55,6 +55,88 @@ Subsecs. (b), (c). Pub. L. 104–106, §1081(a)(1)(B), (C), redesignated subsec.
 Subsec. (a)(5). Pub. L. 103–160, §1313, added par. (5).
 
 Subsec. (b)(2). Pub. L. 103–160, §1182(a)(10), substituted “that, by reducing the public sector demand for capital, increases the amount of capital available” for “and thereby free up capital”.
+
+#### Air Force Science and Technology Planning
+
+Pub. L. 106–398, §1 \[\[div. A\], title II, §252\], Oct. 30, 2000, 114 Stat. 1654, 1654A–46, provided that:
+
+“(a)
+
+Requirement for Review.—The Secretary of the Air Force shall conduct a review of the long-term challenges and short-term objectives of the Air Force science and technology programs. The Secretary shall complete the review not later than one year after the date of the enactment of this Act \[Oct. 30, 2000\].
+
+“(b)
+
+Matters To Be Reviewed.—The review shall include the following:
+
+&emsp;“(1) An assessment of the budgetary resources that are being used for fiscal year 2001 for addressing the long-term challenges and the short-term objectives of the Air Force science and technology programs.
+
+&emsp;“(2) The budgetary resources that are necessary to address those challenges and objectives adequately.
+
+&emsp;“(3) A course of action for each projected or ongoing Air Force science and technology program that does not address either the long-term challenges or the short-term objectives.
+
+&emsp;“(4) The matters required under subsection (c)(5) and (d)(6).
+
+“(c)
+
+Long-Term Challenges.—(1) The Secretary of the Air Force shall establish an integrated product team to identify high-risk, high-payoff challenges that will provide a long-term focus and motivation for the Air Force science and technology programs over the next 20 to 50 years following the enactment of this Act \[Oct. 30, 2000\]. The integrated product team shall include representatives of the Office of Scientific Research and personnel from the Air Force Research Laboratory.
+
+“(2) The team shall solicit views from the entire Air Force science and technology community on the matters under consideration by the team.
+
+“(3) The team—
+
+&emsp;“(A) shall select for consideration science and technology challenges that involve—
+
+&emsp;&emsp;“(i) compelling requirements of the Air Force;
+
+&emsp;&emsp;“(ii) high-risk, high-payoff areas of exploration; and
+
+&emsp;&emsp;“(iii) very difficult, but probably achievable, results; and
+
+&emsp;“(B) should not select a linear extension of any ongoing Air Force science and technology program for consideration as a science and technology challenge under subparagraph (A).
+
+“(4) The Deputy Assistant Secretary of the Air Force for Science, Technology, and Engineering shall designate a technical coordinator and a management coordinator for each science and technology challenge identified pursuant to this subsection. Each technical coordinator shall have sufficient expertise in fields related to the challenge to be able to identify other experts in such fields and to affirm the credibility of the challenge. The coordinator for a science and technology challenge shall conduct workshops within the relevant scientific and technological community to obtain suggestions for possible approaches to addressing the challenge and to identify ongoing work that addresses the challenge, deficiencies in current work relating to the challenge, and promising areas of research.
+
+“(5) In carrying out subsection (a), the Secretary of the Air Force shall review the science and technology challenges identified pursuant to this subsection and, for each such challenge, at a minimum—
+
+&emsp;“(A) consider the results of the workshops conducted pursuant to paragraph (4); and
+
+&emsp;“(B) identify any work not currently funded by the Air Force that should be performed to meet the challenge.
+
+“(d)
+
+Short-Term Objectives.—(1) The Secretary of the Air Force shall establish a task force to identify short-term technological objectives of the Air Force science and technology programs. The task force shall be chaired by the Deputy Assistant Secretary of the Air Force for Science, Technology, and Engineering and shall include representatives of the Chief of Staff of the Air Force and the specified combatant commands of the Air Force.
+
+“(2) The task force shall solicit views from the entire Air Force requirements community, user community, and acquisition community.
+
+“(3) The task force shall select for consideration short-term objectives that involve—
+
+&emsp;“(A) compelling requirements of the Air Force;
+
+&emsp;“(B) support in the user community; and
+
+&emsp;“(C) likely attainment of the desired benefits within a five-year period.
+
+“(4) The Deputy Assistant Secretary of the Air Force for Science, Technology, and Engineering shall establish an integrated product team for each short-term objective identified pursuant to this subsection. Each integrated product team shall include representatives of the requirements community, the user community, and the science and technology community with relevant expertise.
+
+“(5) The integrated product team for a short-term objective shall be responsible for—
+
+&emsp;“(A) identifying, defining, and prioritizing the enabling capabilities that are necessary for achieving the objective;
+
+&emsp;“(B) identifying deficiencies in the enabling capabilities that must be addressed if the short-term objective is to be achieved; and
+
+&emsp;“(C) working with the Air Force science and technology community to identify science and technology projects and programs that should be undertaken to eliminate each deficiency in an enabling capability.
+
+“(6) In carrying out subsection (a), the Secretary of the Air Force shall review the short-term science and technology objectives identified pursuant to this subsection and, for each such objective, at a minimum—
+
+&emsp;“(A) consider the work of the integrated product team conducted pursuant to paragraph (5); and
+
+&emsp;“(B) identify the science and technology work of the Air Force that should be undertaken to eliminate each deficiency in enabling capabilities that is identified by the integrated product team pursuant to subparagraph (B) of that paragraph.
+
+“(e)
+
+Comptroller General Review.—(1) Not later than 90 days after the Secretary of the Air Force completes the review required by subsection (a), the Comptroller General shall submit to Congress a report on the results of the review. The report shall include the Comptroller General's assessment regarding the extent to which the review was conducted in compliance with the requirements of this section.
+
+“(2) Immediately upon completing the review required by subsection (a), the Secretary of Defense shall notify the Comptroller General of the completion of the review. For the purposes of paragraph (1), the date of the notification shall be considered the date of the completion of the review.”
 
 #### Report by Under Secretary of Defense for Acquisition, Technology, and Logistics
 
@@ -128,7 +210,7 @@ Relationship of defense science and technology program to university research.�
 
 Relationship of the defense science and technology program to commercial research and technology.—(A) It is the sense of Congress that, in supporting projects within the Defense Science and Technology Program, the Secretary of Defense should attempt to leverage commercial research, technology, products, and processes for the benefit of the Department of Defense.
 
-&emsp;“(B) It is the sense of Congress that funds made available for projects and programs of the Defense Science and Technology Program should be used only for the benefit of the Department of Defense, which includes—
+&emsp;“(B) It is the sense of Congress that funds made available for projects and programs of the Defense Science and Technology Program should be used onlyfor the benefit of the Department of Defense, which includes—
 
 &emsp;&emsp;“(i) the development of technology that has only military applications;
 
@@ -312,7 +394,7 @@ Functions.—The Secretary of Defense, acting through the Director of the Defens
 
 &emsp;&emsp;“(B) assessments of potential markets for maritime products; and
 
-&emsp;&emsp;“(C) recommendation of industrial entities, partnerships, joint ventures, or consortia for short- and long-term manufacturing technology investment strategies.
+&emsp;&emsp;“(C) recommendation of industrial entities, partnerships, joint ventures, or consortia for short- andlong-term manufacturing technology investment strategies.
 
 &emsp;“(2) Funding and program management activities to develop innovative design and production processes and the technologies required to implement those processes.
 
@@ -334,131 +416,7 @@ Regulations.—The Secretary may prescribe regulations to provide for considerat
 
 #### Armament Retooling and Manufacturing Support Initiative
 
-Subtitle H of title I of div. A of Pub. L. 102–484, as amended by Pub. L. 103–35, title II, §202(a)(1), May 31, 1993, 107 Stat. 100; Pub. L. 103–337, div. A, title XI, §1141(a), (b), Oct. 5, 1994, 108 Stat. 2879; Pub. L. 104–201, div. A, title I, §143, Sept. 23, 1996, 110 Stat. 2449; Pub. L. 105–261, div. A, title I, §115, Oct. 17, 1998, 112 Stat. 1939; Pub. L. 106–65, div. A, title I, §116, Oct. 5, 1999, 113 Stat. 533, provided that:
-
-#### “SEC. 191. SHORT TITLE.
-
-“This subtitle may be cited as the ‘Armament Retooling and Manufacturing Support Act of 1992’.
-
-#### “SEC. 192. POLICY.
-
-“It is the policy of the United States—
-
-&emsp;“(1) to encourage, to the maximum extent practicable, nondefense commercial firms to use Government-owned, contractor-operated ammunition manufacturing facilities of the Department of the Army;
-
-&emsp;“(2) to use such facilities for supporting programs, projects, policies, and initiatives that promote competition in the private sector of the United States economy and that advance United States interests in the global marketplace;
-
-&emsp;“(3) to increase the manufacture of products inside the United States that, to a significant extent, are manufactured outside the United States;
-
-&emsp;“(4) to support policies and programs that provide manufacturers with incentives to assist the United States in making more efficient and economical use of Government-owned industrial plants and equipment for commercial purposes;
-
-&emsp;“(5) to provide, as appropriate, small businesses (including socially and economically disadvantaged small business concerns and new small businesses) with incentives that encourage those businesses to undertake manufacturing and other industrial processing activities that contribute to the prosperity of the United States;
-
-&emsp;“(6) to encourage the creation of jobs through increased investment in the private sector of the United States economy;
-
-&emsp;“(7) to foster a more efficient, cost-effective, and adaptable armaments industry in the United States;
-
-&emsp;“(8) to achieve, with respect to armaments manufacturing capacity, an optimum level of readiness of the defense industrial base of the United States that is consistent with the projected threats to the national security of the United States and the projected emergency requirements of the Armed Forces of the United States; and
-
-&emsp;“(9) to encourage facility contracting where feasible.
-
-#### “SEC. 193. ARMAMENT RETOOLING AND MANUFACTURING SUPPORT INITIATIVE.
-
-“(a)
-
-Authority for Initiative.—During fiscal years 1993 through 2001, the Secretary of the Army may carry out a program to be known as the ‘Armament Retooling and Manufacturing Support Initiative’ (hereinafter in this subtitle referred to as the ‘ARMS Initiative’).
-
-“(b)
-
-Purposes.—The purposes of the ARMS Initiative are as follows:
-
-&emsp;“(1) To encourage commercial firms, to the maximum extent practicable, to use Government-owned, contractor-operated ammunition manufacturing facilities of the Department of the Army for commercial purposes.
-
-&emsp;“(2) To increase the opportunities for small businesses (including socially and economically disadvantaged small business concerns and new small businesses) to use such facilities for those purposes.
-
-&emsp;“(3) To reduce the adverse effects of reduced Department of the Army spending that are experienced by States and communities by providing for such facilities to be used for commercial purposes that create jobs and promote prosperity.
-
-&emsp;“(4) To provide for the reemployment and retraining of skilled workers who, as a result of the closing of such facilities, are idled or underemployed.
-
-&emsp;“(5) To contribute to the attainment of economic stability in economically depressed regions of the United States where there are Government-owned, contractor-operated ammunition manufacturing facilities of the Department of the Army.
-
-&emsp;“(6) To maintain in the United States a work force having the skills in manufacturing processes that are necessary to meet industrial emergency planned requirements for national security purposes.
-
-&emsp;“(7) To be a model for future defense conversion initiatives.
-
-&emsp;“(8) To the maximum extent practicable, to allow the operation of Government-owned, contractor-operated ammunition manufacturing facilities of the Department of the Army to be rapidly responsive to the forces of free market competition.
-
-&emsp;“(9) Through the use of Government-owned, contractor-operated ammunition manufacturing facilities for commercial purposes, to encourage relocation of industrial production to the United States from outside the United States.
-
-“(c)
-
-Availability of Facilities.—The Secretary of the Army may make the Government-owned, contractor-operated ammunition manufacturing facilities of the Department of the Army available for the purposes of the ARMS Initiative.
-
-#### “SEC. 194. FACILITIES CONTRACTS.
-
-“(a)
-
-In General.—In the case of each Government-owned, contractor-operated ammunition manufacturing facility of the Department of the Army that is made available for the ARMS Initiative, the Secretary of the Army may, by contract, authorize the facility contractor—
-
-&emsp;“(1) to use the facility for one or more years consistent with the purposes of the ARMS Initiative; and
-
-&emsp;“(2) to enter into multiyear subcontracts for the commercial use of the facility consistent with such purposes.
-
-“(b)
-
-Facility Contractor Defined.—For purposes of subsection (a), the term ‘facility contractor’, with respect to a Government-owned, contractor-operated ammunition manufacturing facility of the Department of the Army, means a contractor that, under a contract with the Secretary of the Army—
-
-&emsp;“(1) is authorized to manufacture ammunition or any component of ammunition at the facility; and
-
-&emsp;“(2) is responsible for the overall operation and maintenance of the facility for meeting planned requirements in the event of an industrial emergency.
-
-#### “SEC. 195. ARMS INITIATIVE LOAN GUARANTEE PROGRAM.
-
-“(a)
-
-Program Authorized.—Subject to subsection (b), the Secretary of the Army may carry out a loan guarantee program to encourage commercial firms to use ammunition manufacturing facilities pursuant to section 193. Under such program, the Secretary may guarantee the repayment of any loan made to a commercial firm to fund, in whole or in part, the establishment of a commercial activity under this subtitle.
-
-“(b)
-
-Advanced Budget Authority.—Loan guarantees under this section may not be committed except to the extent that appropriations of budget authority to cover their costs are made in advance, as required by section 504 of the Federal Credit Reform Act of 1990 (2 U.S.C. 661c).
-
-“(c)
-
-Program Administration.—(1) The Secretary may enter into agreements with the Administrator of the Small Business Administration or the Administrator of the Farmers Home Administration, the Administrator of the Rural Development Administration, or the head of other appropriate agencies of the Department of Agriculture, under which such Administrators may, under this section—
-
-&emsp;“(A) process applications for loan guarantees;
-
-&emsp;“(B) guarantee repayment of loans; and
-
-&emsp;“(C) provide any other services to the Secretary to administer the loan guarantee program.
-
-“(2) Each Administrator may guarantee loans under this section to commercial firms of any size, notwithstanding any limitations on the size of applicants imposed on other loan guarantee programs that the Administrator administers.
-
-“(3) To the extent practicable, each Administrator shall use the same procedures for processing loan guarantee applications under this section as the Administrator uses for processing loan guarantee applications under other loan guarantee programs that the Administrator administers.
-
-“(d)
-
-Loan Limits.—The maximum amount of loan principal guaranteed during a fiscal year under this section may not exceed—
-
-&emsp;“(1) $20,000,000, with respect to any single borrower; and
-
-&emsp;“(2) $320,000,000 with respect to all borrowers.
-
-“(e)
-
-Transfer of Funds.—The Secretary of the Army may transfer to an Administrator providing services under subsection (c), and the Administrator may accept, such funds as may be necessary to administer the loan guarantee program under this section.
-
-“(f)
-
-Reporting Requirement.—Not later than July 1 of each year in which a guarantee issued under this section is in effect, the Secretary shall submit to the congressional defense committees a report specifying the amounts of loans guaranteed under this section during the preceding calendar year. No report is required after fiscal year 1997.
-
-#### “SEC. 196. REPORTING REQUIREMENT.
-
-“Not later than July 1, 1993, the Secretary of the Army shall submit to the congressional defense committees a report on the ARMS Initiative. The report shall contain—
-
-&emsp;“(1) a comprehensive review of contracting of Government-owned, contractor-operated ammunition manufacturing facilities, under the ARMS Initiative; and
-
-&emsp;“(2) any recommendations the Secretary may have for changes to the ARMS Initiative.”
+Subtitle H of title I of div. A of Pub. L. 102–484, as amended by Pub. L. 103–35, title II, §202(a)(1), May 31, 1993, 107 Stat. 100; Pub. L. 103–337, div. A, title XI, §1141(a), (b), Oct. 5, 1994, 108 Stat. 2879; Pub. L. 104–201, div. A, title I, §143, Sept. 23, 1996, 110 Stat. 2449; Pub. L. 105–261, div. A, title I, §115, Oct. 17, 1998, 112 Stat. 1939; Pub. L. 106–65, div. A, title I, §116, Oct. 5, 1999, 113 Stat. 533, known as the “Armament Retooling and Manufacturing Support Act of 1992”, authorized the Secretary of the Army, during fiscal years 1993 through 2001, to carry out the Armament Retooling and Manufacturing Support Initiative, prior to repeal by Pub. L. 106–398, §1 \[\[div. A\], title III, §344(d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–71.
 
 #### Implementation of Requirements for Assessment, Planning, and Analysis
 
@@ -504,15 +462,15 @@ Contractor Notice to Employees and State Dislocated Worker Unit.—Not later tha
 
 &emsp;“(B) if there is no such representative at that time, each such employee; and
 
-&emsp;“(2) the State dislocated worker unit or office referred to in section 311(b)(2) of the Job Training Partnership Act \[29 U.S.C. 1661(b)(2)\], or the State or entity designated by the State to carry out rapid response activities under section 134(a)(2)(A) of the Workforce Investment Act of 1998 \[29 U.S.C. 2864(a)(2)(A)\], and the chief elected official of the unit of general local government within which the adverse effect may occur.
+&emsp;“(2) the State or entity designated by the State to carry out rapid response activities under section 134(a)(2)(A) of the Workforce Investment Act of 1998 \[29 U.S.C. 2864(a)(2)(A)\], and the chief elected official of the unit of general local government within which the adverse effect may occur.
 
 “(d)
 
-Constructive Notice.—The notice of termination of, or substantial reduction in, a defense contract provided under subsection (c)(1) to an employee of a contractor shall have the same effect as a notice oftermination to such employee for the purposes of determining whether such employee is eligible for training, adjustment assistance, and employment services under section 325 or 325A of the Job Training Partnership Act \[29 U.S.C. 1662d, 1662d–1\] or to participate in employment and training activities carried out under title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\], except in a case in which the employer has specified that the termination of, or substantial reduction in, the contract is not likely to result in plant closure or mass layoff.
+Constructive Notice.—The notice of termination of, or substantial reduction in, a defense contract provided under subsection (c)(1) to an employee of a contractor shall have the same effect as a notice of termination to such employee for the purposes of determining whether such employee is eligible to participate in employment and training activities carried out under title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\], except in a case in which the employer has specified that the termination of, or substantial reduction in, the contract is not likely to result in plant closure or mass layoff.
 
 “(e)
 
-Loss of Eligibility.—An employee who receives a notice of withdrawal or cancellation of the termination of, or substantial reduction in, contract funding shall not be eligible, on the basis of any related reduction in funding under the contract, for training, adjustment assistance, and employment services under section 325 or 325A of the Job Training Partnership Act \[29 U.S.C. 1662d, 1662d–1\] or to participate in employment and training activities under title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\], beginning on the date on which the employee receives the notice.
+Loss of Eligibility.—An employee who receives a notice of withdrawal or cancellation of the termination of, or substantial reduction in, contract funding shall not be eligible, on the basis of any related reduction in funding under the contract, to participate inemployment and training activities under title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\], beginning on the date on which the employee receives the notice.
 
 “(f)
 
@@ -522,15 +480,7 @@ Definitions.—For purposes of this section:
 
 &emsp;“(2) The terms ‘substantial reduction’ and ‘substantially reduced’, with respect to a defense contract under a major defense program, mean a reduction of 25 percent or more in the total dollar value of the funds obligated by the contract.”
 
-\[Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(f)(6)(C), (g)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–430, 2681–435, provided that, effective July 1, 2000, section 4471 of Pub. L. 102–484, set out above, is amended:
-
-&emsp;\[(1) in subsection (c)(2), by striking out “the State dislocated worker unit or office referred to in section 311(b)(2) of the Job Training Partnership Act, or”;
-
-&emsp;\[(2) in subsection (d), in the first sentence, by striking out “for training, adjustment assistance, and employment services under section 325 or 325A of the Job Training Partnership Act or”; and
-
-&emsp;\[(3) in subsection (e), by striking out “for training, adjustment assistance, and employment services under section 325 or 325A of the Job Training Partnership Act or”.\]
-
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2198, 2500, 2502, 2505, 2506, 2511, 2514, 2515, 2519, 2525, 2540, 2709, 7315 of this title.
+This section is referred to in sections 2198, 2500, 2502, 2505, 2506, 2511, 2514, 2515, 2519, 2521, 2540, 2541, 2709, 7315 of this title.
 

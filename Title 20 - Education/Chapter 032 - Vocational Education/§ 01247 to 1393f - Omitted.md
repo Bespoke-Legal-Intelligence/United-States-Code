@@ -14,7 +14,7 @@ Section 1263, Pub. L. 88–210, title I, §123, as added Pub. L. 90–576, title
 
 Section 1264, Pub. L. 88–210, title I, §124, as added Pub. L. 90–576, title I, §101(b), Oct. 16, 1968, 82 Stat. 1078, set forth procedures applicable to payments to States for covered State vocational education programs.
 
-Section 1281, Pub. L. 88–210, title I, §131, as added Pub. L. 90–576, title I, §101(b), Oct. 16, 1968, 82 Stat. 1078,authorized grants and contracts for research and training in vocational education.
+Section 1281, Pub. L. 88–210, title I, §131, as added Pub. L. 90–576, title I, §101(b), Oct. 16, 1968, 82 Stat. 1078, authorized grants and contracts for research and training in vocational education.
 
 Section 1282, Pub. L. 88–210, title I, §132, as added Pub. L. 90–576, title I, §101(b), Oct. 16, 1968, 82 Stat. 1079, set forth authorized purposes for use of Federal funds in grants and contracts for research and training in vocational education.
 

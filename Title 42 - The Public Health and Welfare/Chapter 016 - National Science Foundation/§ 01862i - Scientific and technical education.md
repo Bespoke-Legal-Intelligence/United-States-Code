@@ -2,7 +2,7 @@
 
 #### (a) National advanced scientific and technical education program
 
-The Director of the National Science Foundation (hereafter in sections 1862h to 1862j of this title referred to as the “Director”) shall award grants to associate-degree-granting colleges, and consortia thereof, to assist them in providing education in advanced-technology fields. The grant program shall place emphasis on the needs of students who have been in the workforce (including work in the home), and shall be designed to strengthen and expand the scientific and technical education and training capabilities of associate-degree-granting colleges through such methods as—
+The Director of the National Science Foundation (hereafter in sections 1862h to 1862j of thistitle referred to as the “Director”) shall award grants to associate-degree-granting colleges, and consortia thereof, to assist them in providing education in advanced-technology fields. The grant program shall place emphasis on the needs of students who have been in the workforce (including work in the home), and shall be designed to strengthen and expand the scientific and technical education and training capabilities of associate-degree-granting colleges through such methods as—
 
 &emsp;(1) the development of model instructional programs in advanced-technology fields;
 
@@ -60,7 +60,7 @@ In carrying out this section, the Director shall consult, cooperate, and coordin
 
 #### (e) Limitation on funding
 
-To qualify for a grant under this section, an associate-degree-granting college, or consortium thereof, shall provide assurances adequate to the Director that it will not decrease its level of spending of funds from non-Federal sources on advanced scientific and technical education and training programs.
+To qualify for a grant under this section, an associate-degree-granting college, or consortiumthereof, shall provide assurances adequate to the Director that it will not decrease its level of spending of funds from non-Federal sources on advanced scientific and technical education and training programs.
 
 #### (f) Functions of Director
 

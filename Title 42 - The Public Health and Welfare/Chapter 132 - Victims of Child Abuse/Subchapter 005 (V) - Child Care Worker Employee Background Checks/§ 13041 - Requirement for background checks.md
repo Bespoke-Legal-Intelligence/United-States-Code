@@ -18,7 +18,7 @@
 
 (2) The results of the background check shall be communicated to the employing agency.
 
-(3) An agency or facility described in subsection (a)(1) of this section may hire a staff person provisionally prior to the completion of a background check if, at all times prior to receipt of the background check during whichchildren are in the care of the person, the person is within the sight and under the supervision of a staff person with respect to whom a background check has been completed.
+(3) An agency or facility described in subsection (a)(1) of this section may hire a staff person provisionally prior to the completion of a background check if, at all times prior to receipt of the background check during which children are in the care of the person, the person is within the sight and under the supervision of a staff person with respect to whom a background check has been completed.
 
 #### (c) Applicable criminal histories
 
@@ -41,4 +41,8 @@ Federal agencies and facilities are encouraged to submit identifying information
 1991—Subsec. (a)(1). Pub. L. 102–190, §1094(a)(1), substituted “May 29, 1991. Except as provided in subsection (b)(3) of this section, no additional staff” for “6 months after November 29, 1990, and no additional staff”.
 
 Subsec. (b)(3). Pub. L. 102–190, §1094(a)(2), added par. (3).
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 40 section 490b.
 

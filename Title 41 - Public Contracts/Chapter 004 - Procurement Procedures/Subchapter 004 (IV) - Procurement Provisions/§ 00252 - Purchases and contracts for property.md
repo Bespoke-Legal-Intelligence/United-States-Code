@@ -24,7 +24,7 @@ It is the declared policy of the Congress that a fair proportion of the total pu
 
 1984—Subsec. (b). Pub. L. 98–369, §2714(a)(1)(A), struck out provisions that whenever it was proposed to make a contract or purchase in excess of $10,000 by negotiation and without advertising, pursuant to the authority of subsec. (c)(7) of this section, suitable advance publicity, as determined by the agency head with due regard to the type of property involved and other relevant considerations, had to be given for a period of at least fifteen days, wherever practicable, as determined by the agency head.
 
-Subsec. (c)(1). Pub. L. 98–369, §2714(a)(1)(B), redesignated subsec. (e) as (c)(1), substituted reference to this subchapter for reference to this section in provisionspreceding subpar. (A), in subpar. (B), substituted provisions relating to contracts using procedures other than sealed-bid procedures under section 253(a)(2)(A) of this title for provisions relating to contracts negotiated without advertising as required by section 253 of this title. Former subsec. (c), which related to conditions for negotiated purchases and contracts for property, was struck out.
+Subsec. (c)(1). Pub. L. 98–369, §2714(a)(1)(B), redesignated subsec. (e) as (c)(1), substituted reference to this subchapter for reference to this section in provisions preceding subpar. (A), in subpar. (B), substituted provisions relating to contracts using procedures other than sealed-bid procedures under section 253(a)(2)(A) of this title for provisions relating to contracts negotiated without advertising as required by section 253 of this title. Former subsec. (c), which related to conditions for negotiated purchases and contracts for property, was struck out.
 
 Subsec. (c)(2). Pub. L. 98–369, §2714(a)(1)(B), added par. (2).
 
@@ -161,26 +161,6 @@ Ex. Ord. No. 10936, Apr. 24, 1961, 26 F.R. 3555, which provided for the reportin
 #### Definitions
 
 The definitions in section 472 of Title 40, Public Buildings, Property, and Works, apply to this subchapter.
-
-#### Cross References
-
-Advertising provisions as applicable to lease-purchase agreements, see section 356 of Title 40, Public Buildings, Property, and Works.
-
-Agency head, definition of, see section 259 of this title.
-
-Armed services procurement generally, see section 2301 et seq. of Title 10, Armed Forces.
-
-Bonneville Dam Project, purchase of supplies and services for, see section 832g of Title 16, Conservation.
-
-General Services Administration generally, see section 751 et seq. of Title 40, Public Buildings, Property, and Works.
-
-National defense contract provisions not authorizing increase in price of subsec. (c)(13) contracts to amount higher than lowest reject bid of responsible bidder, see section 1432 of Title 50, War and National Defense.
-
-Purchases for public institutions of Guam through General Services Administration, see section 1423<i>l</i> of Title 48, Territories and Insular Possessions.
-
-References in any Act to section 5 of this title deemed references to subsection (c) of this section, see section 260 of this title.
-
-Small business concerns, availability of information, see section 637b of Title 15, Commerce and Trade.
 
 #### Section Referred to in Other Sections
 

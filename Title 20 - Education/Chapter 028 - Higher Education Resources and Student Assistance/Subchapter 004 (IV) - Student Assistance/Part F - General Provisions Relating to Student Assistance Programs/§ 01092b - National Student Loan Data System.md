@@ -42,9 +42,7 @@ For the purposes of research and policy analysis, the proposal shall also contai
 
 The Secretary may require lenders, guaranty agencies, or institutions of higher education to verify information or obtain eligibility or other information through the National Student Loan Data System prior to making, guaranteeing, or certifying a loan made under part B, C, or D of this subchapter.
 
-#### (d) Report to Congress
-
-The Secretary shall prepare and submit to the appropriate committees of the Congress, in each fiscal year, a report describing the results obtained by the establishment and operation of the student loan data system authorized by this section.
+#### (d) Omitted
 
 #### (e) Standardization of data reporting
 
@@ -82,6 +80,10 @@ The Peace Corps Act, referred to in subsec. (a)(5), is Pub. L. 87–293, Sept. 2
 
 The Domestic Volunteer Service Act of 1973, referred to in subsec. (a)(5), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, as amended, which is classified principally to chapter 66 (§4950 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of Title 42 and Tables.
 
+#### Codification
+
+Subsec. (d) of this section, which required the Secretary to prepare and submit to appropriate committees of Congress, in each fiscal year, a report describing the results obtained by the establishment and operation of the student loan data system authorized by this section, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 80 of House Document No. 103–7.
+
 #### Amendments
 
 1998—Subsec. (a). Pub. L. 105–244 inserted “not later than one year after October 7, 1998” before period at end of third sentence.
@@ -114,7 +116,7 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) ofPub. L. 103–208, set out as a note under section 1051 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
 
 #### Effective Date of 1987 Amendment
 

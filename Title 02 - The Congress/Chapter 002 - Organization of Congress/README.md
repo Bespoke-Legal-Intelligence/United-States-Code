@@ -84,7 +84,7 @@ References to Abolished Committees.—Any reference in any provision of law enac
 
 &emsp;&emsp;“(A) the Committee on Agriculture of the House of Representatives, in the case of a provision of law relating to inspection of seafood or seafood products;
 
-&emsp;&emsp;“(B) the Committee on National Security of the House of Representatives, in the case of a provisionof law relating to interoceanic canals, the Merchant Marine Academy and State Maritime Academies, or national security aspects of merchant marine;
+&emsp;&emsp;“(B) the Committee on National Security of the House of Representatives, in the case of a provision of law relating to interoceanic canals, the Merchant Marine Academy and State Maritime Academies, or national security aspects of merchant marine;
 
 &emsp;&emsp;“(C) the Committee on Resources of the House of Representatives, in the case of a provision of law relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography;
 

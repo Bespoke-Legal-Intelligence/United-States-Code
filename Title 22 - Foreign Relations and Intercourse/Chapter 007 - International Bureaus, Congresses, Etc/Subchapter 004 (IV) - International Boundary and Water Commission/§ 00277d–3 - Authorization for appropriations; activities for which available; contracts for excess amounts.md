@@ -28,10 +28,6 @@ The civil service laws, referred to in text, are set out in Title 5. See, partic
 
 Section 514(d) of Pub. L. 95–105 provided that: “The amendments made by this section \[amending this section and sections 277d–28 and 277d–31 of this title\] shall take effect on October 1, 1977.”
 
-#### Cross References
-
-American-Mexican Chamizal Convention Act of 1964, provisions of this section as applicable to, see section 277d–25 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 277d–5, 277d–25 of this title.

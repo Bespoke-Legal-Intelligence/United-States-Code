@@ -36,7 +36,7 @@ The employee shall have the right to choose an attending physician authorized by
 
 (1) An employee shall not be entitled to recover any amount expended by him for medical or other treatment or services unless—
 
-&emsp;(A) the employer shall have refused or neglected a request to furnish such services and the employee has complied with subsections (b) and (c) of this section and the applicable regulations; or
+&emsp;(A) the employer shall have refused or neglected a request to furnish such services and the employee has complied with subsections\(b) and (c) of this section and the applicable regulations; or
 
 &emsp;(B) the nature of the injury required such treatment and services and the employer or his superintendent or foreman having knowledge of such injury shall have neglected to provide or authorize same.
 
@@ -70,7 +70,7 @@ Unless the parties to the claim agree, the Secretary shall not employ or select 
 
 (1) The Secretary shall have the authority to make rules and regulations and to establish procedures, not inconsistent with the provisions of this chapter, which are necessary or appropriate to carry out the provisions of subsection (c) of this section, including the nature and extent of the proof and evidence necessary for actions under this section and the methods of taking and furnishing such proof and evidence.
 
-(2) Any decision to take action with respect to a physician or health care provider under this section shall be based on specific findings of fact by the Secretary. The Secretary shall provide notice of these findings and an opportunity for a hearing pursuant to section 556 of title 5 for a provider who would be affected by a decision under this section. A request for a hearing must be filed with the Secretary within thirty days after notice of the findings is received by the provider making such request. If a hearing is held, the Secretary shall, on the basis of evidence adduced at the hearing, affirm, modify, or reverse the findings of fact and proposed action under this section.
+(2) Any decision to take action with respect to a physician or health care provider under this section shall be based on specific findings of fact by the Secretary. The Secretary shall provide notice of these findings and an opportunity for a hearing pursuant to section 556 of title 5 for aprovider who would be affected by a decision under this section. A request for a hearing must be filed with the Secretary within thirty days after notice of the findings is received by the provider making such request. If a hearing is held, the Secretary shall, on the basis of evidence adduced at the hearing, affirm, modify, or reverse the findings of fact and proposed action under this section.
 
 (3) For the purpose of any hearing, investigation, or other proceeding authorized or directed under this section, the provisions of section <sup>1</sup> 49 and 50 of title 15 (relating to the attendance of witnesses and the production of books, papers, and documents) shall apply to the jurisdiction, powers, and duties of the Secretary or any officer designated by him.
 
@@ -90,7 +90,7 @@ Unless the parties to the claim agree, the Secretary shall not employ or select 
 
 Subsec. (c). Pub. L. 98–426, §7(b), substituted provisions respecting physicians and health care providers not authorized to render medical care or services under this chapter for former provision respecting physicians designated by the Secretary as authorized to render such care and whose names shall be available to employees through posting or in such other form as the Secretary may prescribe.
 
-Subsec. (d). Pub. L. 98–426, §7(c), substituted provisions for the recovery by the employee of amounts spent on medical services which the employer failed to provide; for the procedure to be followed for recovery; and for suspension of any payments made if the employee unreasonably refuses to submit to treatment orexamination for former provisions which required a request for treatment or services and the filing of a physician's report for recovery, and permitted the Secretary to excuse a failure to file a report when justified and to suspend payment if the employee unreasonably refuses treatment or examination.
+Subsec. (d). Pub. L. 98–426, §7(c), substituted provisions for the recovery by the employee of amounts spent on medical services which the employer failed to provide; for the procedure to be followed for recovery; and for suspension of any payments made if the employee unreasonably refuses to submit to treatment or examination for former provisions which required a request for treatment or services and the filing of a physician's report for recovery, and permitted the Secretary to excuse a failure to file a report when justified and to suspend payment if the employee unreasonably refuses treatment or examination.
 
 Subsec. (j). Pub. L. 98–426, §7(d), added subsec. (j).
 
@@ -104,7 +104,7 @@ Subsec. (c). Pub. L. 92–576 substituted provisions respecting Secretary's desi
 
 Subsec. (d). Pub. L. 92–576 substituted the Secretary for the deputy commissioner as the person to exercise the various authorities, struck out introductory provisions respecting employer's failure to maintain a panel of physicians for examination purposes or to permit the employee to choose an attending physician from the panel and employee's procurement of treatment and services and selection of a physician at expense of employer, decreased from twenty to ten days the period within which to make the formal report of injury and treatment, and authorized suspension of compensation for refusal to submit to an examination by a physician of the employer.
 
-Subsec. (e). Pub. L. 92–576 substituted provisions respecting physical examination to determine medical questions by a physician employed or selected by the Secretary, such physician's report of the physical impairment, review or reexamination of the employee, and the charging of costs to an employer, who is a self-insurer, or the insurance company carrying the risk or the special fund for prior provisions respecting examination of employee by a physician selected by the deputy commissioner (who shall submit a report of the disability) whenever the deputy commissioner was of the opinion that the employer's physician was partial in his estimate of the degree of permanent disability or the extent of temporary disability and charging cost of examination to the employer, if he was a self-insurer, or to the insurance company which was carrying the risk when the physician's estimate was not impartial.
+Subsec. (e). Pub. L. 92–576 substituted provisions respecting physical examination to determine medical questions by a physician employed or selected by the Secretary, such physician's report of the physical impairment, review or reexamination of the employee, and the charging of costs to an employer, who is a self-insurer, or the insurance company carrying the risk or the special fund for prior provisions respecting examination of employee by a physician selected by the deputy commissioner (who shall submit a report of the disability) whenever the deputy commissioner was of theopinion that the employer's physician was partial in his estimate of the degree of permanent disability or the extent of temporary disability and charging cost of examination to the employer, if he was a self-insurer, or to the insurance company which was carrying the risk when the physician's estimate was not impartial.
 
 Subsec. (f). Pub. L. 92–576 added subsec. (f). Former subsec. (f) redesignated (g).
 
@@ -139,12 +139,6 @@ Amendment by Pub. L. 92–576 effective 30 days after Oct. 27, 1972, see section
 #### Claims Filed Under Black Lung Benefits Act
 
 Section 28(h)(1) of Pub. L. 98–426 provided that: “The amendments made by section 7 of this Act \[amending this section\] shall not apply to claims filed under the Black Lung Benefits Act (30 U.S.C. 901 et seq.).”
-
-#### Cross References
-
-Reports, see section 930 of this title.
-
-Suspension of proceedings with respect to claims for refusal to submit to medical examination, see section 919 of this title.
 
 #### Section Referred to in Other Sections
 

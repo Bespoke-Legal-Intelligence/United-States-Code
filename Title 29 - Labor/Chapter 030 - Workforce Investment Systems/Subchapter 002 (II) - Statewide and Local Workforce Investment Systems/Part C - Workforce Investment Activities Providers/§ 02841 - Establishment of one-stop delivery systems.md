@@ -34,7 +34,7 @@ Consistent with the State plan, the local board for a local area, with the agree
 
 &emsp;&emsp;&emsp;(iv) programs authorized under title I of the Rehabilitation Act of 1973 (29 U.S.C. 720 et seq.) (other than part C of title I of such Act \[29 U.S.C. 741\] and subject to subsection (f) of this section);
 
-&emsp;&emsp;&emsp;(v) programs authorized under section 403(a)(5) of the Social Security Act (42U.S.C. 603(a)(5)) (as added by section 5001 of the Balanced Budget Act of 1997);
+&emsp;&emsp;&emsp;(v) programs authorized under section 403(a)(5) of the Social Security Act (42 U.S.C. 603(a)(5)) (as added by section 5001 of the Balanced Budget Act of 1997);
 
 &emsp;&emsp;&emsp;(vi) activities authorized under title V of the Older Americans Act of 1965 (42 U.S.C. 3056 et seq.);
 
@@ -130,7 +130,7 @@ Consistent with the State plan, the local board for a local area, with the agree
 
 #### (3) Exception
 
-&emsp;Elementary schools and secondary schools shall not be eligible for designation or certification as one-stop operators, except that nontraditional public secondary schools and areavocational education schools shall be eligible for such designation or certification.
+&emsp;Elementary schools and secondary schools shall not be eligible for designation or certification as one-stop operators, except that nontraditional public secondary schools and area vocational education schools shall be eligible for such designation or certification.
 
 #### (e) Established one-stop delivery system
 
@@ -162,7 +162,7 @@ Title II, referred to in subsec. (b)(1)(B)(iii), is title II of Pub. L. 105–22
 
 The Rehabilitation Act of 1973, referred to in subsecs. (b)(1)(B)(iv) and (f), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16 (§701 et seq.) of this title. Title I of the Act is classified generally to subchapter I (§720 et seq.) of chapter 16 of this title. Part C of title I of the Act is classified generally to part C (§741) of subchapter I of chapter 16 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
 
-The Older Americans Act of 1965, referred to in subsec. (b)(1)(B)(vi), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, as amended. Title V of the Act, known as the “Older Americans Community Services Employment Act”, is classified generally to subchapter IX (§3056 et seq.) of chapter 35 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of Title 42 and Tables.
+The Older Americans Act of 1965, referred to in subsec. (b)(1)(B)(vi), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, as amended. Title V of the Act, known as the Older American Community Service Employment Act, is classified generally to subchapter IX (§3056 et seq.) of chapter 35 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of Title 42 and Tables.
 
 The Carl D. Perkins Vocational and Applied Technology Education Act, referred to in subsec. (b)(1)(B)(vii), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which was classified generally to chapter 44 (§2301 et seq.) of Title 20, Education, prior to being amended generally and renamed the Carl D. Perkins Vocational and Technical Education Act of 1998 by Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3076. For complete classification of Pub. L. 88–210 to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
 

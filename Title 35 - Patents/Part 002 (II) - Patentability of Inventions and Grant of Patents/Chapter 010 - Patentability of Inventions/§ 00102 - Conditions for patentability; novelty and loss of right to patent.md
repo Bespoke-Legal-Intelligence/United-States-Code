@@ -18,7 +18,7 @@ A person shall be entitled to a patent unless—
 
 (f) he did not himself invent the subject matter sought to be patented, or
 
-(g)(1) during the course of an interference conducted under section 135 or section 291, another inventor involved therein establishes, to the extent permitted in section 104, that before such person's invention thereof the invention was made by such other inventor and not abandoned, suppressed, or concealed, or (2) before such person's invention thereof, the invention was madein this country by another inventor who had not abandoned, suppressed, or concealed it. In determining priority of invention under this subsection, there shall be considered not only the respective dates of conception and reduction to practice of the invention, but also the reasonable diligence of one who was first to conceive and last to reduce to practice, from a time prior to conception by the other.
+(g)(1) during the course of an interference conducted under section 135 or section 291, another inventor involved therein establishes, to the extent permitted in section 104, that before such person's invention thereof the invention was made by such other inventor and not abandoned, suppressed, or concealed, or (2) before such person's invention thereof, the invention was made in this country by another inventor who had not abandoned, suppressed, or concealed it. In determining priority of invention under this subsection, there shall be considered not only the respective dates of conception and reduction to practice of the invention, but also the reasonable diligence of one who was first to conceive and last to reduce to practice, from a time prior to conception by the other.
 
 (July 19, 1952, ch. 950, 66 Stat. 797; Pub. L. 92–358, §2, July 28, 1972, 86 Stat. 502; Pub. L. 94–131, §5, Nov. 14, 1975, 89 Stat. 691; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4505, 4806\], Nov. 29, 1999, 113 Stat. 1536, 1501A–565, 1501A–590.)
 
@@ -72,21 +72,9 @@ Section 4 of act July 19, 1952, ch. 950, 66 Stat. 815, provided that subsection 
 
 Relief as to filing date of patent application or patent affected by postal situation beginning on Mar. 18, 1970, and ending on or about Mar. 30, 1970, but patents issued with earlier filing dates not effective as prior art under subsec. (e) of this section of such earlier filing dates, see note set out under section 111 of this title.
 
-#### Cross References
-
-Abandonment of invention for unauthorized disclosure, see section 182 of this title.
-
-Benefit of earlier filing date in foreign country; right of priority, see section 119 of this title.
-
-Filing application in foreign country, see section 184 of this title.
-
-Interferences, see section 135 of this title.
-
-Time of prior use or publication for design patents, see section 172 of this title.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 103, 172, 273, 363, 374, 375 of this title.
+This section is referred to in sections 103, 172, 273, 363, 374, 375 of this title; title 15 section 638.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

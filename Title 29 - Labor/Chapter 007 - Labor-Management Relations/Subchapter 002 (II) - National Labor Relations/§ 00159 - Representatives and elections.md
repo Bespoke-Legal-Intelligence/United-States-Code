@@ -62,15 +62,7 @@ For effective date of amendment by act June 23, 1947, see section 104 of act Jun
 
 #### Certain Certifications of Bargaining Units Unaffected
 
-Section 103 of title I of act June 23, 1947, provided that: “No provisions of this title \[amending this subchapter\] shall affect any certification of representatives or any determination as to the appropriate collective-bargaining unit, which was made under section 9 of the National Labor Relations Act \[this section\] prior to the effective date of this title \[sixty days after June 23,1947\] until one year after the date of such certification or if, in respect of any such certification, a collective-bargaining contract was entered into prior to the effective date of this title \[sixty days after June 23, 1947\], until the end of the contract period or until one year after such date, whichever first occurs.”
-
-#### Communist Organizations and Members
-
-Prohibitions placed on Communist organizations, and members thereof, with respect to labor, see section 781 et seq. of Title 50, War and National Defense, particularly sections 782(4A), 784, 792a, and 841 to 844 of that title.
-
-#### Federal Rules of Civil Procedure
-
-Application of rules, see rule 81, Title 28, Appendix, Judiciary and Judicial Procedure.
+Section 103 of title I of act June 23, 1947, provided that: “No provisions of this title \[amending this subchapter\] shall affect any certification of representatives or any determination as to the appropriate collective-bargaining unit, which was made under section 9 of the National Labor Relations Act \[this section\] prior to the effective date of this title \[sixty days after June 23, 1947\] until one year after the date of such certification or if, in respect of any such certification, a collective-bargaining contract was entered into prior to the effective date of this title \[sixty days after June 23, 1947\], until the end of the contract period or until one year after such date, whichever first occurs.”
 
 #### Section Referred to in Other Sections
 

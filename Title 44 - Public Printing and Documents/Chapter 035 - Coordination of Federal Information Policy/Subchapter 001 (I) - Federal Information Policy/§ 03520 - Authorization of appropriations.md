@@ -1,0 +1,22 @@
+### §3520. Authorization of appropriations
+
+There are authorized to be appropriated to the Office of Information and Regulatory Affairs to carry out the provisions of this subchapter, and for no other purpose, $8,000,000 for each of the fiscal years 1996, 1997, 1998, 1999, 2000, and 2001.
+
+(Added Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 184; amended Pub. L. 106–398, §1 \[\[div. A\], title X, §1064(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–275.)
+
+#### Prior Provisions
+
+A prior section 3520, added Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 2825; amended Pub. L. 99–500, §101(m) \[title VIII, §820\], Oct. 18, 1986, 100 Stat. 1783–308, 1783–340, and Pub. L. 99–591, §101(m) \[title VIII, §820\], Oct. 30, 1986, 100 Stat. 3341–308, 3341–340, related to authorization of appropriations prior to the general amendment of this chapter by Pub. L. 104–13.
+
+#### Amendments
+
+2000—Pub. L. 106–398 substituted “subchapter” for “chapter”.
+
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–398 effective 30 days after Oct. 30, 2000, see section 1 \[\[div. A\], title X, §1065\] of Pub. L. 106–398, set out as an Effective Date note under section 3531 of this title.
+
+#### Effective Date
+
+Section effective May 22, 1995, see section 4 of Pub. L. 104–13, set out as a note under section 3501 of this title.
+

@@ -14,7 +14,7 @@ Any project authorized for construction by this Act shall not be authorized afte
 
 The Secretary shall publish in the Federal Register a list of any projects or separable elements that are deauthorized under this section.
 
-(Pub. L. 99–662, title X, §1001, Nov. 17, 1986, 100 Stat. 4201; Pub. L. 101–640, title I, §119(a), Nov. 28, 1990, 104 Stat. 4630; Pub. L. 104–303, title II,§228(a), Oct. 12, 1996, 110 Stat. 3703; Pub. L. 106–109, §8(d), Nov. 24, 1999, 113 Stat. 1496.)
+(Pub. L. 99–662, title X, §1001, Nov. 17, 1986, 100 Stat. 4201; Pub. L. 101–640, title I, §119(a), Nov. 28, 1990, 104 Stat. 4630; Pub. L. 104–303, title II, §228(a), Oct. 12, 1996, 110 Stat. 3703; Pub. L. 106–109, §8(d), Nov. 24, 1999, 113 Stat. 1496.)
 
 #### References in Text
 
@@ -32,7 +32,7 @@ This Act, referred to in subsec. (a), is Pub. L. 99–662, Nov. 17, 1986, 100 St
 
 Pub. L. 100–676, §52(a), Nov. 17, 1988, 102 Stat. 4044, which provided that subsecs. (a) and (c) of this section applied to projects authorized for construction by Pub. L. 100–676 (see Short Title of 1988 Amendment note set out under section 2201 of this title), except that the 5-year period during which funds had to be obligated to prevent deauthorization began on Nov. 17, 1988, and were also to apply to projects authorized for construction subsequent to Pub. L. 100–676, except that 5-year period during which funds had to be obligated to prevent deauthorization began on the date of the authorization of such projects, was repealed by Pub. L. 104–303, title II, §228(b)(1), Oct. 12, 1996, 110 Stat. 3703.
 
-#### Definitions
+#### “Secretary” Defined
 
 Secretary means the Secretary of the Army, see section 2201 of this title.
 

@@ -24,20 +24,6 @@ Minor changes were made in phraseology.
 
 1984—Pub. L. 98–473 substituted “detained or conditionally released pursuant to section 3142 of this title” for “imprisoned or admitted to bail”.
 
-#### Canal Zone
-
-Applicability of section to Canal Zone, see section 14 of this title.
-
-#### Federal Rules of Criminal Procedure
-
-Non-application to extradition proceedings, see rule 54, Appendix to this title.
-
-#### Cross References
-
-Habeas corpus, no right of appeal from final order in a proceeding to test the validity of a warrant of removal issued pursuant to this section, see section 2253 of Title 28, Judiciary and Judicial Procedure.
-
-Provisional arrest, obtained by telegraph, see section 3187 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 14, 3187 of this title.

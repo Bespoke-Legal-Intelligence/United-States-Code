@@ -94,7 +94,7 @@ The Secretary shall disapprove an application submitted under subsection (a) of 
 
 #### (1) In general
 
-&emsp;In the case of a proposed disposition of a public housing project or portion of a project, the public housing agency shall, in appropriate circumstances, as determined by the Secretary, initially offer the property to any eligible resident organization, eligible resident management corporation, or nonprofit organization acting on behalf of the residents, if that entity has expressed an interest, in writing, to the public housing agency in a timely manner,in purchasing the property for continued use as low-income housing.
+&emsp;In the case of a proposed disposition of a public housing project or portion of a project, the public housing agency shall, in appropriate circumstances, as determined by the Secretary, initially offer the property to any eligible resident organization, eligible resident management corporation, or nonprofit organization acting on behalf of the residents, if that entity has expressed an interest, in writing, to the public housing agency in a timely manner, in purchasing the property for continued use as low-income housing.
 
 #### (2) Timing
 
@@ -220,7 +220,7 @@ Section 512(b) of Pub. L. 101–625 provided that: “The amendment made by this
 
 #### Replacement Housing Demonstration Program
 
-Section 513(a) of Pub. L. 101–625 directed Secretary of Housing and Urban Development to carry out a program to demonstrate the effectiveness of replacing public housing dwelling units eligible for demolition or disposition with 5-year certificate assistance provided under 42 U.S.C. 1437f, with Secretary to carry out the demonstration only with respect to public housing dwelling units owned or operated by the public housing authority for Saint Louis, Missouri, that before the termination of the demonstration program under thissubsection are approved for demolition or disposition, and with the demonstration program to terminate at end of Sept. 30, 1992.
+Section 513(a) of Pub. L. 101–625 directed Secretary of Housing and Urban Development to carry out a program to demonstrate the effectiveness of replacing public housing dwelling units eligible for demolition or disposition with 5-year certificate assistance provided under 42 U.S.C. 1437f, with Secretary to carry out the demonstration only with respect to public housing dwelling units owned or operated by the public housing authority for Saint Louis, Missouri, that before the termination of the demonstration program under this subsection are approved for demolition or disposition, and with the demonstration program to terminate at end of Sept. 30, 1992.
 
 #### Section Referred to in Other Sections
 

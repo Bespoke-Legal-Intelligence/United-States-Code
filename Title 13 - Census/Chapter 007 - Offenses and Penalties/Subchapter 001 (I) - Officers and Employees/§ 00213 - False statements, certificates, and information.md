@@ -24,10 +24,6 @@ References to the offenses described in subsection (b) of this revised section a
 
 Changes were made in phraseology and arrangement.
 
-#### Cross References
-
-Collection and publication of foreign commerce and trade statistics, applicability of section to, see section 307 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 307 of this title.

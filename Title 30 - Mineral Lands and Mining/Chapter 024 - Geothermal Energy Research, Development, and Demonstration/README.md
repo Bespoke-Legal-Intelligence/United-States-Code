@@ -61,7 +61,7 @@
 | (a) | Establishment; purposes for which Fund moneys may be expended. |
 | (b) | Deposits into the Fund. |
 | (c) | Borrowing authority of Secretary of Energy. |
-| (d) | Reports to Congress. |
+| (d) | Omitted. |
 | [1145\.](Subchapter%20002%20%28II%29%20-%20Loan%20Guaranties/%C2%A7%2001145%20-%20Community%20impact%20assistance%20functions%20of%20Secretary%20of%20Energy.md) | Community impact assistance functions of Secretary of Energy. |
 | (a) | Determination of adequacy of community planning and development financing in covered project localities; review of State and local actions and sufficiency of available financing for projects on leased Federal lands. |
 | (b) | Discretionary activities for communities with projects not subject to coverage. |

@@ -12,7 +12,7 @@
 
 &emsp;(3) a partnership whose general partners are citizens of the United States, and the controlling interest in the partnership is owned by citizens of the United States;
 
-&emsp;(4) a corporation established under the laws of the United States or of a State, whose chief executive officer, by whatever title, and chairman of its board of directors are citizens of the United States and no more of its directors are noncitizens than a minority of the number necessary to constitute a quorum;
+&emsp;(4) a corporation established under the laws of the United States or of a State, whose chief executive officer, by whatever title, and chairman of its board of directors are citizens of the United States and no more of its directorsare noncitizens than a minority of the number necessary to constitute a quorum;
 
 &emsp;(5) the United States Government; or
 
@@ -74,7 +74,7 @@
 
 (B) A vessel with a fishery endorsement may be operated by a trustee only with the approval of the Secretary.
 
-(C) A right under a mortgage of a vessel with a fishery endorsement may be issued, assigned, ortransferred to a person not eligible to be a mortgagee of that vessel under section 31322(a)(4) of this title only with the approval of the Secretary.
+(C) A right under a mortgage of a vessel with a fishery endorsement may be issued, assigned, or transferred to a person not eligible to be a mortgagee of that vessel under section 31322(a)(4) of this title only with the approval of the Secretary.
 
 (D) The issuance, assignment, or transfer of an instrument or evidence of indebtedness contrary to this paragraph is voidable by the Secretary.
 
@@ -130,7 +130,7 @@ Pub. L. 105–277, div. C, title II, §203(a), Oct. 21, 1998, 112 Stat. 2681–6
 
 #### Effective Date of 1989 Amendment
 
-Amendments by section 301(a)(2) of Pub. L. 101–225 effective Jan. 1, 1989, except that amendment by section 301(a)(2)(A) inapplicable to a vessel titled in a State until one year after the Secretary of Transportation prescribes guidelines for a titling system under section 13106(b)(8) of this title, see section 309(b)(1) of Pub. L. 101–225, set out as a note under section 12101 of this title.
+Amendments by section 301(a)(2) of Pub. L. 101–225 effective Jan. 1, 1989, except that amendment by section301(a)(2)(A) inapplicable to a vessel titled in a State until one year after the Secretary of Transportation prescribes guidelines for a titling system under section 13106(b)(8) of this title, see section 309(b)(1) of Pub. L. 101–225, set out as a note under section 12101 of this title.
 
 #### Effective Date of 1988 Amendment
 

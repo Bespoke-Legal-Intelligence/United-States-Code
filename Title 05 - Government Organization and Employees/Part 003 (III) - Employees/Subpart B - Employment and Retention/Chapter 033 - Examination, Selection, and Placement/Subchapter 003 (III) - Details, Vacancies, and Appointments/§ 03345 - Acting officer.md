@@ -62,7 +62,7 @@ In general.—This section shall apply to any office that becomes vacant after t
 
 &emsp;“(B)
 
-Immediate application of time limitation.—Notwithstanding subparagraph (A), for any office vacant on the effective date of this section, the time limitations under section 3346 of title 5, United States Code (as amended by this section) shall apply to such office. Such time limitations shall apply as though such office first became vacant on the effective date of this section.
+Immediate application of time limitation.—Notwithstanding subparagraph (A), for any office vacant on the effective date of this section, the time limitations under section 3346 of title 5, United States Code (as amended by this section) shall apply to such office. Such time limitations shall apply asthough such office first became vacant on the effective date of this section.
 
 &emsp;“(C)
 
@@ -293,12 +293,6 @@ Sec. 2. <i>Temporary Nature of Succession</i>. Succession to act for and exercis
 Sec. 3. <i>Revocation of Prior Executive Order</i>. Executive Order No. 12787 of December 31, 1991, is hereby revoked.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Cross References
-
-Additional pay prohibited for officer performing duties of vacant office as authorized by this section, see section 5535 of this title.
-
-Applicability to Deputy Secretary of Agriculture, see section 2211 of Title 7, Agriculture.
 
 #### Section Referred to in Other Sections
 

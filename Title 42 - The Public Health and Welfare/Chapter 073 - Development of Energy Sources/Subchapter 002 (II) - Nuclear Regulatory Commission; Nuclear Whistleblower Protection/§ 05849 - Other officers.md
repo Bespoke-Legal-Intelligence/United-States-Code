@@ -32,6 +32,10 @@ Subsec. (d). Pub. L. 95–601, §6, added subsec. (d).
 
 Subsec. (e). Pub. L. 95–601, §4(b), redesignated former subsec. (c) as (e).
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (d) of this section relating to forwarding of annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 10th item on page 186 of House Document No. 103–7.
+
 #### Transfer of Functions
 
 For transfer of certain functions from Nuclear Regulatory Commission to Chairman thereof, see Reorg. Plan No. 1 of 1980, 45 F.R. 40561, 94 Stat. 3585, set out as a note under section 5841 of this title.

@@ -24,10 +24,6 @@ Minor changes were made in phraseology.
 
 Section 5 of Pub. L. 100–625 provided that: “The amendments made by this Act \[amending this section and section 1307 of this title and section 3005 of Title 39, Postal Service\] shall take effect 18 months after the date of the enactment of this Act \[Nov. 7, 1988\].”
 
-#### Cross References
-
-Minor offenses tried by United States magistrate judges as excluding offenses punishable under this section, see section 3401 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1307 of this title; title 47 sections 312, 503; title 25 section 2720; title 39 section 3005.

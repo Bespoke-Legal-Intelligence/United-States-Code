@@ -2,12 +2,16 @@
 
 | Sec. |  |
 | :--- | ---: |
-| \[2521 to 2524. Repealed.\] |  |
-| [2525\.](%C2%A7%2002525%20-%20Manufacturing%20Technology%20Program.md) | Manufacturing Technology Program. |
+| [2521\.](%C2%A7%2002521%20-%20Manufacturing%20Technology%20Program.md) | Manufacturing Technology Program. |
+| [2522\.](%C2%A7%2002522%20-%20Armament%20retooling%20and%20manufacturing.md) | Armament retooling and manufacturing. |
+| \[2523, 2524. Repealed.\] |  |
+| \[2525. | Renumbered.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2000—Pub. L. 106–398, §1 \[\[div. A\], title III, §344(c)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–71, redesignated item 2525 as 2521 and added item 2522.
 
 1998—Pub. L. 105–261, div. A, title X, §1069(a)(5), Oct. 17, 1998, 112 Stat. 2136, struck out “AND DUAL-USE ASSISTANCE EXTENSION PROGRAMS” after “TECHNOLOGY” in subchapter heading.
 
@@ -22,5 +26,7 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 02521 to 2524 - Repealed. Pub. L. 104&#8211;106, div. A, title X, &sect;1081(f), Feb. 10, 1996, 110 Stat. 454](%C2%A7%2002521%20to%202524%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93106%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71081%28f%29%2C%20Feb.%2010%2C%201996%2C%20110%20Stat.%20454.md)
-- [&sect; 02525 - Manufacturing Technology Program](%C2%A7%2002525%20-%20Manufacturing%20Technology%20Program.md)
+- [&sect; 02521 - Manufacturing Technology Program](%C2%A7%2002521%20-%20Manufacturing%20Technology%20Program.md)
+- [&sect; 02522 - Armament retooling and manufacturing](%C2%A7%2002522%20-%20Armament%20retooling%20and%20manufacturing.md)
+- [&sect; 02523, 2524 - Repealed. Pub. L. 104&#8211;106, div. A, title X, &sect;1081(f), Feb. 10, 1996, 110 Stat. 454](%C2%A7%2002523%2C%202524%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93106%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71081%28f%29%2C%20Feb.%2010%2C%201996%2C%20110%20Stat.%20454.md)
+- [&sect; 02525 - Renumbered &sect;2521](%C2%A7%2002525%20-%20Renumbered%20%C2%A72521.md)

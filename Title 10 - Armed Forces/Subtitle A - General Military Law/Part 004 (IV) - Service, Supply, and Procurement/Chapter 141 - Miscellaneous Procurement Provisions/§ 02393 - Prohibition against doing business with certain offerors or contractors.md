@@ -8,7 +8,7 @@
 
 (2) Paragraph (1) does not apply in any case in which the Secretary concerned determines that there is a compelling reason to solicit an offer from, award a contract to, extend a contract with, or approve a subcontract with such offeror or contractor.
 
-(b) Whenever the Secretary concerned makes a determination described in subsection (a)(2), he shall, at the time of the determination, transmit a notice to the Administrator of General Services describing the determination. The Administrator of General Services shall maintaineach such notice in a file available for public inspection.
+(b) Whenever the Secretary concerned makes a determination described in subsection (a)(2), he shall, at the time of the determination, transmit a notice to the Administrator of General Services describing the determination. The Administrator of General Services shall maintain each such notice in a file available for public inspection.
 
 (c) In this section:
 

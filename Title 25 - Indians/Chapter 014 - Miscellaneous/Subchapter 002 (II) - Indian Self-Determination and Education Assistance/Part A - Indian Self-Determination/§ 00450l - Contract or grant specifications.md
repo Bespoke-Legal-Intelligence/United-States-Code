@@ -24,7 +24,7 @@ Authority and Purpose.—
 
 &emsp;“(1)
 
-Authority.—This agreement, denoted a Self-Determination Contract (referred to in this agreement as the ‘Contract’), is entered into by the Secretary of the Interior or the Secretary of Health and Human Services (referred to in this agreement as the ‘Secretary’), for and on behalf of the United States pursuant to title I of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) and by the authority of the \_\_\_\_\_\_\_\_\_\_\_\_ tribal government or tribal organization (referred to in this agreement as the ‘Contractor’). The provisions of title I of the IndianSelf-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) are incorporated in this agreement.
+Authority.—This agreement, denoted a Self-Determination Contract (referred to in this agreement as the ‘Contract’), is entered into by the Secretary of the Interior or the Secretary of Health and Human Services (referred to in this agreement as the ‘Secretary’), for and on behalf of the United States pursuant to title I of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) and by the authority of the \_\_\_\_\_\_\_\_\_\_\_\_ tribal government or tribal organization (referred to in this agreement as the ‘Contractor’). The provisions of title I of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) are incorporated in this agreement.
 
 &emsp;“(2)
 
@@ -76,7 +76,7 @@ In general.—Pursuant to section 108(b) of the Indian Self-Determination and Ed
 
 &emsp;&emsp;&emsp;“(ii)
 
-Method of quarterly payment.—If quarterly payments are specified in the annual funding agreement incorporated by reference pursuant to subsection (f)(2), each quarterly payment made pursuant to clause (i) shall be made on the first day of each quarter of the fiscal year, except that in any case in which the Contract year coincides with the Federal fiscal year, payment for the first quarter shall be made not later than the date that is 10 calendar days after the date on which the Office of Management and Budget apportions the appropriations for the fiscal year for the programs, services, functions, and activities subject to this Contract.
+Method of quarterly payment.—If quarterly payments are specified in the annual funding agreement incorporated by reference pursuant to subsection (f)(2), each quarterly payment made pursuant to clause (i) shall be made on the first day ofeach quarter of the fiscal year, except that in any case in which the Contract year coincides with the Federal fiscal year, payment for the first quarter shall be made not later than the date that is 10 calendar days after the date on which the Office of Management and Budget apportions the appropriations for the fiscal year for the programs, services, functions, and activities subject to this Contract.
 
 &emsp;&emsp;&emsp;“(iii)
 
@@ -96,7 +96,7 @@ Recordkeeping system.—The Contractor shall maintain a recordkeeping system and
 
 &emsp;&emsp;“(C)
 
-Responsibilities of contractor.—The Contractor shall be responsible for managing the day-to-day operations conducted under this Contract and for monitoring activities conducted under this Contract to ensure compliance with the Contract and applicable Federal requirements. With respectto the monitoring activities of the Secretary, the routine monitoring visits shall be limited to not more than one performance monitoring visit for this Contract by the head of each operating division, departmental bureau, or departmental agency, or duly authorized representative of such head unless—
+Responsibilities of contractor.—The Contractor shall be responsible for managing the day-to-day operations conducted under this Contract and for monitoring activities conducted under this Contract to ensure compliance with the Contract and applicable Federal requirements. With respect to the monitoring activities of the Secretary, the routine monitoring visits shall be limited to not more than one performance monitoring visit for this Contract by the head of each operating division, departmental bureau, or departmental agency, or duly authorized representative of such head unless—
 
 &emsp;&emsp;&emsp;“(i) the Contractor agrees to one or more additional visits; or
 
@@ -180,7 +180,7 @@ Alternative procedures.—In addition to, or as an alternative to, remedies and 
 
 &emsp;&emsp;“(C)
 
-Effect of decisions.—The Secretary shall be bound by decisions made pursuantto the processes set forth in subparagraph (B), except that the Secretary shall not be bound by any decision that significantly conflicts with the interests of Indians or the United States.
+Effect of decisions.—The Secretary shall be bound by decisions made pursuant to the processes set forth in subparagraph (B), except that the Secretary shall not be bound by any decision that significantly conflicts with the interests of Indians or the United States.
 
 &emsp;“(13)
 
@@ -204,7 +204,7 @@ Contract requirements; approval by secretary.—
 
 &emsp;&emsp;“(A)
 
-In general.—Except as provided in subparagraph (B), for the term of the Contract, section 2103 of the Revised Statutes (25 U.S.C. 81) and section 16 of the Act of June 18, 1934 (48 Stat. 987, chapter 576; 25 U.S.C. 476), shall not apply to any contract entered into in connection with this Contract.
+In general.—Except as provided in subparagraph (B), for the term of the Contract, section 2103 of the Revised Statutes (25 U.S.C. 81), section 16 of the Act of June 18, 1934 (48 Stat. 987, chapter 576; 25 U.S.C. 476), and the Act of July 3, 1952 (25 U.S.C. 82a), shall not apply to any contract entered into in connection with this Contract.
 
 &emsp;&emsp;“(B)
 
@@ -248,7 +248,7 @@ Trust services to individual indians.—For the purposes of this paragraph only,
 
 &emsp;“(5)
 
-Fair and uniform services.—The Contractor shall provide services under this Contract in a fair and uniform manner and shall provide access to an administrative or judicial body empowered to adjudicate or otherwise resolve complaints, claims, and grievances brought by program beneficiaries against the Contractor arising out of the performance of the Contract.
+Fair and uniform services.—The Contractor shall provide services under this Contract in a fair and uniform manner and shall provide access to an administrative or judicial body empowered to adjudicate or otherwise resolve complaints, claims, and grievancesbrought by program beneficiaries against the Contractor arising out of the performance of the Contract.
 
 “(d)
 
@@ -280,7 +280,7 @@ Other Provisions.—
 
 &emsp;“(1)
 
-Designated officials.—Not later than the effective date of this Contract, the United States shall provide to the Contractor, and the Contractor shall provide to the United States,a written designation of a senior official to serve as a representative for notices, proposed amendments to the Contract, and other purposes for this Contract.
+Designated officials.—Not later than the effective date of this Contract, the United States shall provide to the Contractor, and the Contractor shall provide to the United States, a written designation of a senior official to serve as a representative for notices, proposed amendments to the Contract, and other purposes for this Contract.
 
 &emsp;“(2)
 
@@ -326,7 +326,7 @@ In general.—The annual funding agreement under this Contract shall only contai
 
 Incorporation by reference.—The annual funding agreement is hereby incorporated in its entirety in this Contract and attached to this Contract as attachment 2.”
 
-(Pub. L. 93–638, title I, §108, as added Pub. L. 103–413, title I, §103, Oct. 25, 1994, 108 Stat. 4260.)
+(Pub. L. 93–638, title I, §108, as added Pub. L. 103–413, title I, §103, Oct. 25, 1994, 108 Stat. 4260; amended Pub. L. 106–568, title VIII, §812(a), Dec. 27, 2000, 114 Stat. 2917.)
 
 #### References in Text
 
@@ -334,11 +334,17 @@ The Indian Self-Determination and Education Assistance Act, referred to in secti
 
 The Indian Civil Rights Act of 1968, referred to in section 1(b)(13) of the provisions of subsec. (c) setting out the model agreement, is title II of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 77, as amended, which is classified generally to subchapter I (§1301 et seq.) of chapter 15 of this title. For complete classification of this Act to the Code, see Tables.
 
-The Indian Health Care Improvement Act, referred to in section 1(d)(2) of the provisions of subsec. (c) setting out the model agreement, is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, as amended, which is classified principally to chapter 18 (§1601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
+The Act of July 3, 1952, referred to in section 1(b)(15)(A) of the provisions of subsec. (c) setting out the model agreement, is act July 3, 1952, ch. 549, 66 Stat. 323, which enacted section 82a of this title and provisions set out as a note under section 82a of this title.
+
+The Indian Health Care Improvement Act, referred to in section 1(d)(2) of the provisions of subsec. (c) setting out the model agreement, is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, as amended, which is classified principally to chapter 18 (§1601 et seq.) of this title. For complete classification of this Act to the Code, seeShort Title note set out under section 1601 of this title and Tables.
 
 #### Prior Provisions
 
 A prior section 450<i>l</i>, Pub. L. 93–638, title I, §108, Jan. 4, 1975, 88 Stat. 2212, which related to report by tribe requesting contract or grant, was renumbered section 5(f) of Pub. L. 93–638, by Pub. L. 100–472, title II, §208, Oct. 5, 1988, 102 Stat. 2296, and is classified to section 450c(f) of this title.
+
+#### Amendments
+
+2000—Subsec. (c). Pub. L. 106–568 substituted “, section 16 of the Act of June 18, 1934” for “and section 16 of the Act of June 18, 1934” and “and the Act of July 3, 1952 (25 U.S.C. 82a), shall not apply” for “shall not apply” in section 1(b)(15)(A) of the provisions setting out the model agreement.
 
 #### Quarterly Payments of Funds to Tribes
 

@@ -12,14 +12,6 @@ Any railroad company whose right of way, or whose track or roadbed upon such rig
 
 Repeal by Pub. L. 94–579 insofar as applicable to the issuance of rights-of-way not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under section 1701 of this title.
 
-#### Cross References
-
-Pueblo Indians of New Mexico, application of section, see section 322 of Title 25, Indians.
-
-Rights of several railroads running through canyons, passes, or defiles under this section made applicable to rights-of-way granted under sections 312 to 318 of Title 25, see section 316 of Title 25.
-
-Rights of several railroads whose track or roadbed runs through canyons, passes, or defiles in Alaska, see section 942–2 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 937, 938, 939, 940, 943, 944 of this title; title 25 section 316.

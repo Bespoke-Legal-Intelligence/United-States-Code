@@ -22,7 +22,7 @@ The Secretary is authorized to make available to the Foundation, in the form of 
 
 #### (c) Written agreement
 
-No grants or loans may be made under this section unless the Secretary has entered into awritten agreement with the Foundation under which the Foundation agrees—
+No grants or loans may be made under this section unless the Secretary has entered into a written agreement with the Foundation under which the Foundation agrees—
 
 &emsp;(1) to expend all funds for the reconstruction of the Center (and for construction or reconstruction of any related structures or fixtures) only in accordance with circulars published by the Office of Management and Budget applicable to Federal grants to nonprofit organizations, and in accordance with the provisions of the Davis-Bacon Act (40 U.S.C. 276a–a7);
 

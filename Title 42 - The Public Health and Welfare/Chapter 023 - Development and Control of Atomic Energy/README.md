@@ -223,7 +223,7 @@ Financial and technical assistance.
 
 (b)
 
-Reports.
+Omitted.
 
 |  |  |
 | :--- | ---: |
@@ -1037,10 +1037,6 @@ Judicial review.
 (d)
 
 Reports to Congress; contents.
-
-(e)
-
-Quarterly reports to Congress; detailed coverage of specific applications.
 
 |  |  |
 | :--- | ---: |

@@ -2,7 +2,7 @@
 
 (a) The Commission, by affirmative vote of at least four members of the Commission, and pursuant to its rules and regulations and consistent with all pertinent provisions of this title and title 18, United States Code, shall promulgate and distribute to all courts of the United States and to the United States Probation System—
 
-&emsp;(1) guidelines, as described in this section, for use of a sentencing court in determiningthe sentence to be imposed in a criminal case, including—
+&emsp;(1) guidelines, as described in this section, for use of a sentencing court in determining the sentence to be imposed in a criminal case, including—
 
 &emsp;&emsp;(A) a determination whether to impose a sentence to probation, a fine, or a term of imprisonment;
 
@@ -76,13 +76,13 @@
 
 > The Commission shall assure that the guidelines and policy statements are entirely neutral as to the race, sex, national origin, creed, and socioeconomic status of offenders.
 
-(e) The Commission shall assure that the guidelines and policy statements, in recommending a term of imprisonment or length ofa term of imprisonment, reflect the general inappropriateness of considering the education, vocational skills, employment record, family ties and responsibilities, and community ties of the defendant.
+(e) The Commission shall assure that the guidelines and policy statements, in recommending a term of imprisonment or length of a term of imprisonment, reflect the general inappropriateness of considering the education, vocational skills, employment record, family ties and responsibilities, and community ties of the defendant.
 
 (f) The Commission, in promulgating guidelines pursuant to subsection (a)(1), shall promote the purposes set forth in section 991(b)(1), with particular attention to the requirements of subsection 991(b)(1)(B) for providing certainty and fairness in sentencing and reducing unwarranted sentence disparities.
 
 (g) The Commission, in promulgating guidelines pursuant to subsection (a)(1) to meet the purposes of sentencing as set forth in section 3553(a)(2) of title 18, United States Code, shall take into account the nature and capacity of the penal, correctional, and other facilities and services available, and shall make recommendations concerning any change or expansion in the nature or capacity of such facilities and services that might become necessary as a result of the guidelines promulgated pursuant to the provisions of this chapter. The sentencing guidelines prescribed under this chapter shall be formulated to minimize the likelihood that the Federal prison population will exceed the capacity of the Federal prisons, as determined by the Commission.
 
-(h) The Commission shall assure that the guidelines specify a sentence to a term of imprisonment at or near the maximum term authorized for categories of defendants in which the defendant is eighteen years old or older and—
+(h) The Commission shall assure that the guidelines specify a sentence to a term of imprisonment at or near the maximum term authorized for categories of defendants in whichthe defendant is eighteen years old or older and—
 
 &emsp;(1) has been convicted of a felony that is—
 
@@ -124,11 +124,11 @@
 
 (m) The Commission shall insure that the guidelines reflect the fact that, in many cases, current sentences do not accurately reflect the seriousness of the offense. This will require that, as a starting point in its development of the initial sets of guidelines for particular categories of cases, the Commission ascertain the average sentences imposed in such categories of cases prior to the creation of the Commission, and in cases involving sentences to terms of imprisonment, the length of such terms actually served. The Commission shall not be bound by such average sentences, and shall independently develop a sentencing range that is consistent with the purposes of sentencing described in section 3553(a)(2) of title 18, United States Code.
 
-(n) The Commission shall assure that the guidelines reflect the general appropriateness of imposing a lower sentence than would otherwisebe imposed, including a sentence that is lower than that established by statute as a minimum sentence, to take into account a defendant's substantial assistance in the investigation or prosecution of another person who has committed an offense.
+(n) The Commission shall assure that the guidelines reflect the general appropriateness of imposing a lower sentence than would otherwise be imposed, including a sentence that is lower than that established by statute as a minimum sentence, to take into account a defendant's substantial assistance in the investigation or prosecution of another person who has committed an offense.
 
 (<i>o</i>) The Commission periodically shall review and revise, in consideration of comments and data coming to its attention, the guidelines promulgated pursuant to the provisions of this section. In fulfilling its duties and in exercising its powers, the Commission shall consult with authorities on, and individual and institutional representatives of, various aspects of the Federal criminal justice system. The United States Probation System, the Bureau of Prisons, the Judicial Conference of the United States, the Criminal Division of the United States Department of Justice, and a representative of the Federal Public Defenders shall submit to the Commission any observations, comments, or questions pertinent to the work of the Commission whenever they believe such communication would be useful, and shall, at least annually, submit to the Commission a written report commenting on the operation of the Commission's guidelines, suggesting changes in the guidelines that appear to be warranted, and otherwise assessing the Commission's work.
 
-(p) The Commission, at or after the beginning of a regular session of Congress, but not later than the first day of May, may promulgate under subsection (a) of this section and submit to Congress amendments to the guidelines and modifications to previously submitted amendments that have not taken effect, including modifications to the effective dates of such amendments. Such an amendment or modification shall be accompanied by a statement of the reasons therefor and shall take effect on a date specified by the Commission, which shall be no earlier than 180 days after being so submitted and no later than the first day of November of the calendar year in which the amendment or modification is submitted, except to the extent that the effective date is revised or the amendment is otherwise modified or disapproved by Act of Congress.
+(p) The Commission, at or after the beginning of a regular session of Congress, but not later than the first day of May, may promulgate under subsection (a) of this section and submitto Congress amendments to the guidelines and modifications to previously submitted amendments that have not taken effect, including modifications to the effective dates of such amendments. Such an amendment or modification shall be accompanied by a statement of the reasons therefor and shall take effect on a date specified by the Commission, which shall be no earlier than 180 days after being so submitted and no later than the first day of November of the calendar year in which the amendment or modification is submitted, except to the extent that the effective date is revised or the amendment is otherwise modified or disapproved by Act of Congress.
 
 (q) The Commission and the Bureau of Prisons shall submit to Congress an analysis and recommendations concerning maximum utilization of resources to deal effectively with the Federal prison population. Such report shall be based upon consideration of a variety of alternatives, including—
 
@@ -160,7 +160,7 @@
 
 (y) The Commission, in promulgating guidelines pursuant to subsection (a)(1), may include, as a component of a fine, the expected costs to the Government of any imprisonment, supervised release, or probation sentence that is ordered.
 
-(Added Pub. L. 98–473, title II, §217(a), Oct. 12, 1984, 98 Stat. 2019; amended Pub. L. 99–217, §3, Dec. 26, 1985, 99 Stat. 1728; Pub. L. 99–363, §2, July 11, 1986, 100 Stat. 770; Pub. L. 99–570, title I, §§1006(b), 1008, Oct. 27, 1986, 100 Stat. 3207–7; Pub. L. 99–646, §§6(b), 56, Nov. 10, 1986, 100 Stat. 3592, 3611; Pub. L. 100–182, §§16(b), 23, Dec. 7, 1987, 101 Stat. 1269, 1271; Pub. L. 100–690, title VII, §§7083, 7103(b), 7109, Nov. 18, 1988, 102 Stat. 4408, 4417,4419; Pub. L. 103–322, title II, §20403(b), title XXVIII, §280005(c)(4), title XXXIII, §330003(f)(1), Sept. 13, 1994, 108 Stat. 1825, 2097, 2141.)
+(Added Pub. L. 98–473, title II, §217(a), Oct. 12, 1984, 98 Stat. 2019; amended Pub. L. 99–217, §3, Dec. 26, 1985, 99 Stat. 1728; Pub. L. 99–363, §2, July 11, 1986, 100 Stat. 770; Pub. L. 99–570, title I, §§1006(b), 1008, Oct. 27, 1986, 100 Stat. 3207–7; Pub. L. 99–646, §§6(b), 56, Nov. 10, 1986, 100 Stat. 3592, 3611; Pub. L. 100–182, §§16(b), 23, Dec. 7, 1987, 101 Stat. 1269, 1271; Pub. L. 100–690, title VII, §§7083, 7103(b), 7109, Nov. 18, 1988, 102 Stat. 4408, 4417, 4419; Pub. L. 103–322, title II, §20403(b), title XXVIII, §280005(c)(4), title XXXIII, §330003(f)(1), Sept. 13, 1994, 108 Stat. 1825, 2097, 2141.)
 
 #### References in Text
 
@@ -172,25 +172,25 @@ The Maritime Drug Law Enforcement Act, referred to in subsec. (h)(1)(B), (2)(B),
 
 #### Amendments
 
-1994—Subsec. (h)(1)(B), (2)(B). Pub. L. 103–322, §330003(f)(1), substituted “the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1901 et seq.)” for “section 1 of the Act of September 15, 1980 (21 U.S.C. 955a)”.
+<b>1994</b>—Subsec. (h)(1)(B), (2)(B). Pub. L. 103–322, §330003(f)(1), substituted “the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1901 et seq.)” for “section 1 of the Act of September 15, 1980 (21 U.S.C. 955a)”.
 
 Subsec. (i)(2). Pub. L. 103–322, §280005(c)(4), substituted “the defendant” for “he” and “the defendant's” for “his”.
 
 Subsec. (y). Pub. L. 103–322, §20403(b), added subsec. (y).
 
-1988—Subsec. (a)(1)(E). Pub. L. 100–690, §7103(b), added subpar. (E).
+<b>1988</b>—Subsec. (a)(1)(E). Pub. L. 100–690, §7103(b), added subpar. (E).
 
 Subsec. (n). Pub. L. 100–690, §7083, substituted “as a minimum sentence” for “as minimum sentence”.
 
 Subsec. (p). Pub. L. 100–690, §7109, amended subsec. (p) generally. Prior to amendment, subsec. (p) read as follows: “The Commission, at or after the beginning of a regular session of Congress but not later than the first day of May, shall report to the Congress any amendments of the guidelines promulgated pursuant to subsection (a)(1), and a report of the reasons therefor, and the amended guidelines shall take effect one hundred and eighty days after the Commission reports them, except to the extent the effective date is enlarged or the guidelines are disapproved or modified by Act of Congress.”
 
-1987—Subsec. (r). Pub. L. 100–182, §23(a), substituted “two years” for “one year”.
+<b>1987</b>—Subsec. (r). Pub. L. 100–182, §23(a), substituted “two years” for “one year”.
 
 Subsec. (s). Pub. L. 100–182, §23(b), struck out at end: “Within one hundred and eighty days of the filing of such petition the Commission shall provide written notice to the defendant whether or not it has approved the petition. If the petition is disapproved the written notice shall contain the reasons for such disapproval. The Commission shall submit to the Congress at least annually an analysis of such written notices.”
 
 Subsec. (w). Pub. L. 100–182, §16(b), inserted “(other than a sentence imposed for a petty offense, as defined in title 18, for which there is no applicable sentencing guideline)” after “each sentence imposed”.
 
-1986—Subsec. (a)(2)(C). Pub. L. 99–363, §2(1)(B), amended subpar. (C) generally, inserting “3564,” after “3563(c),”.
+<b>1986</b>—Subsec. (a)(2)(C). Pub. L. 99–363, §2(1)(B), amended subpar. (C) generally, inserting “3564,” after “3563(c),”.
 
 Subsec. (a)(2)(D) to (F). Pub. L. 99–363, §2(1)(A), (C), added subpar. (D) and redesignated former subpars. (D) and (E) as (E) and (F), respectively.
 
@@ -214,793 +214,133 @@ Pub. L. 99–570, §1008(2), redesignated subsec. (t) as (u).
 
 Subsecs. (v) to (x). Pub. L. 99–570, §1008(2), redesignated former subsecs. (u) to (w) as (v) to (x), respectively.
 
-1985—Subsec. (q). Pub. L. 99–217 substituted “not later than one year after the initial set of sentencing guidelines promulgated under subsection (a) goes into effect” for “within three years of the date of enactment of the Sentencing Reform Act of 1983”.
+<b>1985</b>—Subsec. (q). Pub. L. 99–217 substituted “not later than one year after the initial set of sentencing guidelines promulgated under subsection (a) goes into effect” for “within three years of the date of enactment of the Sentencing Reform Act of 1983”.
 
 #### Effective Date of 1987 Amendment
 
 Amendment by Pub. L. 100–182 applicable with respect to offenses committed after Dec. 7, 1987, see section 26 of Pub. L. 100–182, set out as a note under section 3006A of Title 18, Crimes and Criminal Procedure.
 
-#### Identity Theft Offenses; Amendment of Sentencing Guidelines
+#### Termination of Reporting Requirements
 
-Pub. L. 105–318, §4, Oct. 30, 1998, 112 Stat. 3009, provided that:
+For termination, effective May 15, 2000, of provisions in subsec. (w) of this section relating to requirement that the Commission submit to Congress at least annually an analysis of reports and recommendations for legislation that the Commission concludes is warranted by that analysis, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 13 of House Document No. 103–7.
 
-“(a)
+#### Provisions for Review, Promulgation, or Amendment of Federal Sentencing Guidelines Relating to Specific Offenses
 
-In General.—Pursuant to its authority under section 994(p) of title 28, United States Code, the United States Sentencing Commission shall review and amend the Federal sentencing guidelines and the policy statements of the Commission, as appropriate, to provide an appropriate penalty for each offense under section 1028 of title 18, United States Code, as amended by this Act.
+Pub. L. 106–420, §3, Nov. 1, 2000, 114 Stat. 1868.—Higher education financial assistance fraud.
 
-“(b)
+Pub. L. 106–386, div. B, title I, §1107(b)(2), Oct. 28, 2000, 114 Stat. 1498.—Interstate stalking.
 
-Factors for Consideration.—In carrying out subsection (a), the United States Sentencing Commission shall consider, with respect to each offense described in subsection (a)—
+Pub. L. 106–310, div. B, title XXXVI, §3611, Oct. 17, 2000, 114 Stat. 1228.—Manufacture of and trafficking in amphetamine.
 
-&emsp;“(1) the extent to which the number of victims (as defined in section 3663A(a) of title 18, United States Code) involved in the offense, including harm to reputation, inconvenience, and other difficulties resulting from the offense, is an adequate measure for establishing penalties under the Federal sentencing guidelines;
+Pub. L. 106–310, div. B, title XXXVI, §3612, Oct. 17, 2000, 114 Stat. 1228.—Manufacture of amphetamine or methamphetamine.
 
-&emsp;“(2) the number of means of identification, identification documents, or false identification documents (as those terms are defined in section 1028(d) of title 18, United States Code, as amended by this Act) involved in the offense, is an adequate measure for establishing penalties under the Federal sentencing guidelines;
+Pub. L. 106–310, div. B, title XXXVI, §3651, Oct. 17, 2000, 114 Stat. 1238.—Trafficking in list I chemicals.
 
-&emsp;“(3) the extent to which the value of the loss to any individual caused by the offense is an adequate measure for establishing penalties under the Federal sentencing guidelines;
+Pub. L. 106–310, div. B, title XXXVI, §§3663, 3664, Oct. 17, 2000, 114 Stat. 1242, 1244.—Manufacture of or trafficking in Ecstasy.
 
-&emsp;“(4) the range of conduct covered by the offense;
+Pub. L. 106–160, §3, Dec. 9, 1999, 113 Stat. 1774.—Electronic theft offenses.
 
-&emsp;“(5) the extent to which sentencing enhancements within the Federal sentencing guidelines and the court's authority to sentence above the applicable guideline range are adequate to ensure punishment at or near the maximum penalty for the most egregious conduct covered by the offense;
+Pub. L. 105–318, §4, Oct. 30, 1998, 112 Stat. 3009.—Crimes against intellectual property.
 
-&emsp;“(6) the extent to which Federal sentencing guidelines sentences for the offense have been constrained by statutory maximum penalties;
+Pub. L. 105–314, title V, Oct. 30, 1998, 112 Stat. 2980.—Sexual abuse, transportation for illegal sexual activity, and distribution of pornography.
 
-&emsp;“(7) the extent to which Federal sentencing guidelines for the offense adequately achieve the purposes of sentencing set forth in section 3553(a)(2) of title 18, United States Code; and
+Pub. L. 105–184, §6, June 23, 1998, 112 Stat. 521.—Telemarketing fraud.
 
-&emsp;“(8) any other factor that the United States Sentencing Commission considers to be appropriate.”
+Pub. L. 105–172, §2(e), Apr. 24, 1998, 112 Stat. 55.—Wireless telephone cloning.
 
-#### Increased Penalties for Offenses Against Children and for Repeat Offenders
+Pub. L. 105–147, §2(g), Dec. 16, 1997, 111 Stat. 2680.—Crimes against intellectual property.
 
-Pub. L. 105–314, title V, Oct. 30, 1998, 112 Stat. 2980, provided that:
+Pub. L. 105–101, Nov. 19, 1997, 111 Stat. 2202; Pub. L. 105–368, title IV, §403(d)(1), Nov. 11, 1998, 112 Stat. 3339.—Offenses against property at national cemeteries.
 
-#### “SEC. 501. DEATH OR LIFE IN PRISON FOR CERTAIN OFFENSES WHOSE VICTIMS ARE CHILDREN.
+Pub. L. 104–305, §2(b)(3), Oct. 13, 1996, 110 Stat. 3808.—Offenses involving flunitrazepam.
 
-“\[Amended section 3559 of Title 18, Crimes and Criminal Procedure.\]
+Pub. L. 104–237, title II, §203(b), Oct. 3, 1996, 110 Stat. 3102.—Manufacture of methamphetamine.
 
-#### “SEC. 502. SENTENCING ENHANCEMENT FOR CHAPTER 117 OFFENSES.
+Pub. L. 104–237, title III, §301, Oct. 3, 1996, 110 Stat. 3105.—Manufacture of and trafficking in methamphetamine.
 
-“(a)
+Pub. L. 104–237, title III, §302(c), Oct. 3, 1996, 110 Stat. 3105.—Offenses involving list I chemicals.
 
-In General.—Pursuant to its authority under section 994(p) of title 28, United States Code, the United States Sentencing Commission shall review and amend the Federal Sentencing Guidelines to provide a sentencing enhancement for offenses under chapter 117 of title 18, United States Code.
+Pub. L. 104–237, title III, §303, Oct. 3, 1996, 110 Stat. 3106.—Dangerous handling of controlled substances.
 
-“(b)
+Pub. L. 104–208, div. C, title II, §203(e), Sept. 30, 1996, 110 Stat. 3009–566.—Smuggling, transporting, harboring, and inducing aliens.
 
-Instruction to Commission.—In carrying out subsection (a), the United States Sentencing Commission shall ensure that the sentences, guidelines, and policy statements for offenders convicted of offenses described in subsection (a) are appropriately severe and reasonably consistent with other relevant directives and with other Federal Sentencing Guidelines.
+Pub. L. 104–208, div. C, title II, §211(b), Sept. 30, 1996, 110 Stat. 3009–569.—Fraudulent acquisition and use of government-issued documents.
 
-#### “SEC. 503. INCREASED PENALTIES FOR USE OF A COMPUTER IN THE SEXUAL ABUSE OR EXPLOITATION OF A CHILD.
+Pub. L. 104–208, div. C, title II, §218(b), (c), Sept. 30, 1996, 110 Stat. 3009–573, 3009–574.—Involuntary servitude.
 
-“Pursuant to its authority under section 994(p) of title 28, United States Code, the United States Sentencing Commission shall—
+Pub. L. 104–208, div. C, title III, §333, Sept. 30, 1996, 110 Stat. 3009–634.—Conspiring with or assisting an alien to import, export, possess, manufacture, or distribute a controlled substance.
 
-&emsp;“(1) review the Federal Sentencing Guidelines for—
+Pub. L. 104–208, div. C, title III, §334, Sept. 30, 1996, 110 Stat. 3009–635.—Failure to depart, illegal reentry, and passport and visa fraud.
 
-&emsp;&emsp;“(A) aggravated sexual abuse under section 2241 of title 18, United States Code;
+Pub. L. 104–201, div. A, title XIV, §1423, Sept. 23, 1996, 110 Stat. 2725; Pub. L. 105–261, div. A, title X, §1069(c)(1), Oct. 17, 1998, 112 Stat. 2136.—Offenses relating to importation and exportation of nuclear, biological, or chemical weapons or technologies.
 
-&emsp;&emsp;“(B) sexual abuse under section 2242 of title 18, United States Code;
+Pub. L. 104–132, title VII, §730, Apr. 24, 1996, 110 Stat. 1303.—International terrorism.
 
-&emsp;&emsp;“(C) sexual abuse of a minor or ward under section 2243 of title 18, United States Code; and
+Pub. L. 104–132, title VIII, §805, Apr. 24, 1996, 110 Stat. 1305.—Terrorist activity damaging Federal interest computer.
 
-&emsp;&emsp;“(D) coercion and enticement of a minor under section 2422(b) of title 18, United States Code, contacting a minor under section 2422(c) of title 18, United States Code, and transportation of minors and travel under section 2423 of title 18, United States Code; and
+Pub. L. 104–132, title VIII, §807(h), Apr. 24, 1996, 110 Stat. 1308.—International counterfeiting of United States currency.
 
-&emsp;“(2) upon completion of the review under paragraph (1), promulgate amendments to the Federal Sentencing Guidelines to provide appropriate enhancement if the defendant used a computer with the intent to persuade, induce, entice, coerce, or facilitate the transport of a child of an age specified in the applicable provision of law referred to in paragraph (1) to engage in any prohibited sexual activity.
+Pub. L. 104–71, §§1–4, Dec. 23, 1995, 109 Stat. 774.—Sex crimes against children.
 
-#### “SEC. 504. INCREASED PENALTIES FOR KNOWING MISREPRESENTATION IN THE SEXUAL ABUSE OR EXPLOITATION OF A CHILD.
+Pub. L. 103–322, title IV, §40111(b), Sept. 13, 1994, 108 Stat. 1903.—Sexual abuse by repeat sex offender.
 
-“Pursuant to its authority under section 994(p) of title 28, United States Code, the United States Sentencing Commission shall—
+Pub. L. 103–322, title IV, §40112, Sept. 13, 1994, 108 Stat. 1903.—Aggravated sexual abuse or sexual abuse.
 
-&emsp;“(1) review the Federal Sentencing Guidelines on aggravated sexual abuse under section 2241 of title 18, United States Code, sexual abuse under section 2242 of title 18, United States Code, sexual abuse of a minor or ward under section 2243 of title 18, United States Code, coercion and enticement of a minor under section 2422(b) of title 18, United States Code, contacting a minor under section 2422(c) of title 18, United States Code, and transportation of minors and travel under section 2423 of title 18, United States Code; and
+Pub. L. 103–322, title IV, §40503(c), Sept. 13, 1994, 108 Stat. 1947.—Intentional transmission of HIV.
 
-&emsp;“(2) upon completion of the review under paragraph (1), promulgate amendments to the Federal Sentencing Guidelines to provide appropriate enhancement if the defendant knowingly misrepresented the actual identity of the defendant with the intent to persuade, induce, entice, coerce, or facilitate the transport of a child of an age specified in the applicable provision of law referred to in paragraph (1) to engage in a prohibited sexual activity.
+Pub. L. 103–322, title VIII, §80001(b), Sept. 13, 1994, 108 Stat. 1986.—Importing, exporting, possessing, manufacturing, and distributing a controlled substance.
 
-#### “SEC. 505. INCREASED PENALTIES FOR PATTERN OF ACTIVITY OF SEXUAL EXPLOITATION OF CHILDREN.
+Pub. L. 103–322, title IX, §90102, Sept. 13, 1994, 108 Stat. 1987.—Drug-dealing in “drug-free” zones.
 
-“Pursuant to its authority under section 994(p) of title 28, United States Code, the United States Sentencing Commission shall—
+Pub. L. 103–322, title IX, §90103(b), Sept. 13, 1994, 108 Stat. 1987.—Use or distribution of illegal drugs in the Federal prisons.
 
-&emsp;“(1) review the Federal Sentencing Guidelines on aggravated sexual abuse under section 2241 of title 18, United States Code, sexual abuse under section 2242 of title 18, United States Code, sexual abuse of a minor or ward under section 2243 of title 18, United States Code, coercion and enticement of a minor under section 2422(b) of title 18, United States Code, contacting a minor under section 2422(c) of title 18, United States Code, and transportation of minors and travel under section 2423 of title 18, United States Code; and
+Pub. L. 103–322, title XI, §110501, Sept. 13, 1994, 108 Stat. 2015.—Use of semiautomatic firearm during crime of violence or drug trafficking.
 
-&emsp;“(2) upon completion of the review under paragraph (1), promulgate amendments to the Federal Sentencing Guidelines to increase penalties applicable to the offenses referred to in paragraph (1) in any case in which the defendant engaged in a pattern of activity involving the sexual abuse or exploitation of a minor.
+Pub. L. 103–322, title XI, §110502, Sept. 13, 1994, 108 Stat. 2015.—Second offense of using explosive to commit felony.
 
-#### “SEC. 506. CLARIFICATION OF DEFINITION OF DISTRIBUTION OF PORNOGRAPHY.
+Pub. L. 103–322, title XI, §110512, Sept. 13, 1994, 108 Stat. 2019.—Using firearm in commission of counterfeiting or forgery.
 
-“Pursuant to its authority under section 994(p) of title 28, United States Code, the United States Sentencing Commission shall—
+Pub. L. 103–322, title XI, §110513, Sept. 13, 1994, 108 Stat. 2019.—Firearms possession by violent felons and serious drug offenders.
 
-&emsp;“(1) review the Federal Sentencing Guidelines relating to the distribution of pornography covered under chapter 110 of title 18, United States Code, relating to the sexual exploitation and other abuse of children; and
+Pub. L. 103–322, title XII, §120004, Sept. 13, 1994, 108 Stat. 2022.—Felonies promoting international terrorism.
 
-&emsp;“(2) upon completion of the review under paragraph (1), promulgate such amendments to the Federal Sentencing Guidelines as are necessary to clarify that the term ‘distribution of pornography’ applies to the distribution of pornography—
+Pub. L. 103–322, title XIV, §140008, Sept. 13, 1994, 108 Stat. 2033.—Solicitation of minor to commit crime.
 
-&emsp;&emsp;“(A) for monetary remuneration; or
+Pub. L. 103–322, title XVIII, §180201(c), Sept. 13, 1994, 108 Stat. 2047.—Possession or distribution of drugs at truck stops or safety rest areas.
 
-&emsp;&emsp;“(B) for a nonpecuniary interest.
+Pub. L. 103–322, title XXIV, §240002, Sept. 13, 1994, 108 Stat. 2081.—Crimes against elderly victims.
 
-#### “SEC. 507. DIRECTIVE TO THE UNITED STATES SENTENCING COMMISSION.
+Pub. L. 103–322, title XXV, §250003, Sept. 13, 1994, 108 Stat. 2085.—Fraud against older victims.
 
-“In carrying out this title, the United States Sentencing Commission shall—
+Pub. L. 103–322, title XXVIII, §280003, Sept. 13, 1994, 108 Stat. 2096.—Hate crimes.
 
-&emsp;“(1) with respect to any action relating to the Federal Sentencing Guidelines subject to this title, ensure reasonable consistency with other guidelines of the Federal Sentencing Guidelines; and
+Pub. L. 102–141, title VI, §632, Oct. 28, 1991, 105 Stat. 876.—Sexual abuse or exploitation of minors.
 
-&emsp;“(2) with respect to an offense subject to the Federal Sentencing Guidelines, avoid duplicative punishment under the Federal Sentencing Guidelines for substantially the same offense.”
+Pub. L. 101–647, title III, §321, Nov. 29, 1990, 104 Stat. 4817.—Sexual crimes against children.
 
-#### Telemarketing Fraud; Amendment of Sentencing Guidelines
+Pub. L. 101–647, title XXV, §2507, Nov. 29, 1990, 104 Stat. 4862.—Major bank crimes.
 
-Pub. L. 105–184, §6, June 23, 1998, 112 Stat. 521, provided that:
+Pub. L. 101–647, title XXVII, §2701, Nov. 29, 1990, 104 Stat. 4912.—Methamphetamine offenses.
 
-“(a)
+Pub. L. 101–73, title IX, §961(m), Aug. 9, 1989, 103 Stat. 501.—Offenses substantially jeopardizing safety and soundness of federally insured financial institutions.
 
-Definition of Telemarketing.—In this section, the term ‘telemarketing’ has the meaning given that term in section 2326 of title 18, United States Code.
+Pub. L. 100–700, §2(b), Nov. 19, 1988, 102 Stat. 4631.—Major fraud against the United States.
 
-“(b)
+Pub. L. 100–690, title VI, §6453, Nov. 18, 1988, 102 Stat. 4371.—Importation of controlled substances by aircraft and other vessels.
 
-Directive To Sentencing Commission.—Pursuant to its authority under section 994(p) of title 28, United States Code, and in accordance with this section, the United States Sentencing Commission shall—
+Pub. L. 100–690, title VI, §6454, Nov. 18, 1988, 102 Stat. 4372.—Drug offenses involving children.
 
-&emsp;“(1) promulgate Federal sentencing guidelines or amend existing sentencing guidelines (and policy statements, if appropriate) to provide for substantially increased penalties for persons convicted of offenses described in section 2326 of title 18, UnitedStates Code, as amended by this Act, in connection with the conduct of telemarketing; and
+Pub. L. 100–690, title VI, §6468(c), (d), Nov. 18, 1988, 102 Stat. 4376.—Drug offenses within Federal prisons.
 
-&emsp;“(2) submit to Congress an explanation of each action taken under paragraph (1) and any additional policy recommendations for combating the offenses described in that paragraph.
-
-“(c)
-
-Requirements.—In carrying out this section, the Commission shall—
-
-&emsp;“(1) ensure that the guidelines and policy statements promulgated or amended pursuant to subsection (b)(1) and any recommendations submitted thereunder reflect the serious nature of the offenses;
-
-&emsp;“(2) provide an additional appropriate sentencing enhancement, if the offense involved sophisticated means, including but not limited to sophisticated concealment efforts, such as perpetrating the offense from outside the United States;
-
-&emsp;“(3) provide an additional appropriate sentencing enhancement for cases in which a large number of vulnerable victims, including but not limited to victims described in section 2326(2) of title 18, United States Code, are affected by a fraudulent scheme or schemes;
-
-&emsp;“(4) ensure that guidelines and policy statements promulgated or amended pursuant to subsection (b)(1) are reasonably consistent with other relevant statutory directives to the Commission and with other guidelines;
-
-&emsp;“(5) account for any aggravating or mitigating circumstances that might justify upward or downward departures;
-
-&emsp;“(6) ensure that the guidelines adequately meet the purposes of sentencing as set forth in section 3553(a)(2) of title 18, United States Code; and
-
-&emsp;“(7) take any other action the Commission considers necessary to carry out this section.
-
-“(d)
-
-Emergency Authority.—The Commission shall promulgate the guidelines or amendments provided for under this subsection as soon as practicable, and in any event not later than 120 days after the date of the enactment of the Telemarketing Fraud Prevention Act of 1998 \[June 23, 1998\], in accordance with the procedures set forth in section 21(a) of the Sentencing Reform \[sic\] Act of 1987 \[Pub. L. 100–182, set out below\], as though the authority under that authority had not expired, except that the Commission shall submit to Congress the emergency guidelines or amendments promulgated under this section, and shall set an effective date for those guidelines or amendments not earlier than 30 days after their submission to Congress.”
-
-#### Wireless Telephone Cloning; Amendment of Sentencing Guidelines
-
-Pub. L. 105–172, §2(e), Apr. 24, 1998, 112 Stat. 55, provided that:
-
-“(1)
-
-In general.—Pursuant to its authority under section 994 of title 28, United States Code, the United States Sentencing Commission shall review and amend the Federal sentencing guidelines and the policy statements of the Commission, if appropriate, to provide an appropriate penalty for offenses involving the cloning of wireless telephones (including offenses involving an attempt or conspiracy to clone a wireless telephone).
-
-“(2)
-
-Factors for consideration.—In carrying out this subsection, the Commission shall consider, with respect to the offenses described in paragraph (1)—
-
-&emsp;“(A) the range of conduct covered by the offenses;
-
-&emsp;“(B) the existing sentences for the offenses;
-
-&emsp;“(C) the extent to which the value of the loss caused by the offenses (as defined in the Federal sentencing guidelines) is an adequate measure for establishing penalties under the Federal sentencing guidelines;
-
-&emsp;“(D) the extent to which sentencing enhancements within the Federal sentencing guidelines and the court's authority to sentence above the applicable guideline range are adequate to ensure punishment at or near the maximum penalty for the most egregious conduct covered by the offenses;
-
-&emsp;“(E) the extent to which the Federal sentencing guideline sentences for the offenses have been constrained by statutory maximum penalties;
-
-&emsp;“(F) the extent to which Federal sentencing guidelines for the offenses adequately achieve the purposes of sentencing set forth in section 3553(a)(2) of title 18, United States Code;
-
-&emsp;“(G) the relationship of Federal sentencing guidelines for the offenses to the Federal sentencing guidelines for other offenses of comparable seriousness; and
-
-&emsp;“(H) any other factor that the Commission considers to be appropriate.”
-
-#### Crime Against Intellectual Property; Sentencing Guidelines
-
-Pub. L. 106–160, §3, Dec. 9, 1999, 113 Stat. 1774, provided that: “Within 120 days after the date of the enactment of this Act \[Dec. 9, 1999\], or within 120 days after the first date on which there is a sufficient number of voting members of the Sentencing Commission to constitute a quorum, whichever is later, the Commission shall promulgate emergency guideline amendments to implement section 2(g) of the No Electronic Theft (NET) Act (29 \[28\] U.S.C. 994 note) \[Pub. L. 105–147, set out below\] in accordance with the procedures set forth in section 21(a) of the Sentencing Act of 1987 \[Pub. L. 100–182, set out below\], as though the authority under that Act had not expired.”
-
-Pub. L. 105–147, §2(g), Dec. 16, 1997, 111 Stat. 2680, provided that:
-
-“(1) Under the authority of the Sentencing Reform Act of 1984 (Public Law 98–473; 98 Stat. 1987) \[see Tables for classification\] and section 21 of the Sentencing Act of 1987 (Public Law 100–182; 101 Stat. 1271; 18 \[28\] U.S.C. 994 note) (including the authority to amend the sentencing guidelines and policy statements), the United States Sentencing Commission shall ensure that the applicable guideline range for a defendant convicted of a crime against intellectual property (including offenses set forth at section 506(a) of title 17, United States Code, and sections 2319, 2319A, and 2320 of title 18, United States Code) is sufficiently stringent to deter such a crime and to adequately reflect the additional considerations set forth in paragraph (2) of this subsection.
-
-“(2) In implementing paragraph (1), the Sentencing Commission shall ensure that the guidelines provide for consideration of the retail value and quantity of the items with respect to which the crime against intellectual property was committed.”
-
-#### Enhanced Penalty for Offenses Against Property at National Cemeteries
-
-Pub. L. 105–101, Nov. 19, 1997, 111 Stat. 2202, as amended by Pub. L. 105–368, title IV, §403(d)(1), Nov. 11, 1998, 112 Stat. 3339, provided that:
-
-#### “SECTION 1. SHORT TITLE.
-
-“This Act may be cited as the ‘Veterans’ Cemetery Protection Act of 1997’.
-
-#### “SEC. 2. SENTENCING FOR OFFENSES AGAINST PROPERTY AT NATIONAL CEMETERIES.
-
-“(a)
-
-In General.—Pursuant to its authority under section 994 of title 28, United States Code, the United States Sentencing Commission shall review and amend the Federal sentencing guidelines to provide a sentencing enhancement of not less than 2 levels for any offense against the property of a national cemetery.
-
-“(b)
-
-Commission Duties.—In carrying out subsection (a), the Sentencing Commission shall ensure that the sentences, guidelines, and policy statements for offenders convicted of an offense described in that subsection are—
-
-&emsp;“(1) appropriately severe; and
-
-&emsp;“(2) reasonably consistent with other relevant directives and with other Federal sentencing guidelines.
-
-“(c)
-
-Definition of National Cemetery.—In this section, the term ‘national cemetery’ means a cemetery—
-
-&emsp;“(1) in the National Cemetery Administration established under section 2400 of title 38, United States Code; or
-
-&emsp;“(2) under the jurisdiction of the Secretary of the Army, the Secretary of the Navy, the Secretary of the Air Force, or the Secretary of the Interior.”
-
-#### Offenses Involving Flunitrazepam; Amendment of Sentencing Guidelines
-
-Pub. L. 104–305, §2(b)(3), Oct. 13, 1996, 110 Stat. 3808, provided that:
-
-“(A)
-
-Amendment of sentencing guidelines.—Pursuant to its authority under section 994 of title 28, United States Code, the United States Sentencing Commission shall review and amend, as appropriate, the sentencing guidelines for offenses involving flunitrazepam.
-
-“(B)
-
-Summary.—The United States Sentencing Commission shall submit to the Congress—
-
-&emsp;“(i) a summary of its review under subparagraph (A); and
-
-&emsp;“(ii) an explanation for any amendment to the sentencing guidelines made under subparagraph (A).
-
-“(C)
-
-Serious nature of offenses.—In carrying out this paragraph, the United States Sentencing Commission shall ensure that the sentencing guidelines for offenses involving flunitrazepam reflect the serious nature of such offenses.”
-
-#### Manufacture of Methamphetamine; Amendment of Sentencing Guidelines
-
-Pub. L. 104–237, title II, §203(b), Oct. 3, 1996, 110 Stat. 3102, provided that: “The United States Sentencing Commission shall amend the sentencing guidelines to ensure that the manufacture of methamphetamine in violation of section 403(d)(2) of the Controlled Substances Act \[21 U.S.C. 843(d)(2)\], as added by subsection (a), is treated as a significant violation.”
-
-#### Enhanced Penalty for Trafficking in Methamphetamine
-
-Pub. L. 104–237, title III, §301, Oct. 3, 1996, 110 Stat. 3105, provided that:
-
-“(a)
-
-Directive to the United States Sentencing Commission.—Pursuant to its authority under section 994 of title 28, United States Code, the United States Sentencing Commission shall review and amend its guidelines and its policy statements to provide for increased penalties for unlawful manufacturing, importing, exporting, and trafficking of methamphetamine, and other similar offenses, including unlawful possession with intent to commit any of those offenses, and attempt and conspiracy to commit any of those offenses. The Commission shall submit to Congress explanations therefor and any additional policy recommendations for combating methamphetamine offenses.
-
-“(b)
-
-In General.—In carrying out this section, the Commission shall ensure that the sentencing guidelines and policy statements for offenders convicted of offenses described in subsection (a) and any recommendations submitted under such subsection reflect the heinous nature of such offenses, the need for aggressive law enforcement action to fight such offenses, and the extreme dangers associated with unlawful activity involving methamphetamine, including—
-
-&emsp;“(1) the rapidly growing incidence of methamphetamine abuse and the threat to public safety such abuse poses;
-
-&emsp;“(2) the high risk of methamphetamine addiction;
-
-&emsp;“(3) the increased risk of violence associated with methamphetamine trafficking and abuse; and
-
-&emsp;“(4) the recent increase in the illegal importation of methamphetamine and precursor chemicals.”
-
-#### Enhanced Penalties for Offenses Involving Certain Listed Chemicals
-
-Pub. L. 104–237, title III, §302(c), Oct. 3, 1996, 110 Stat. 3105, provided that:
-
-“(1)
-
-In general.—The United States Sentencing Commission shall, in accordance with the procedures set forth in section 21(a) of the Sentencing Act of 1987 \[Pub. L. 100–182, set out below\], as though the authority of that section had not expired, amend the sentencing guidelines to increase by at least two levels the offense level for offenses involving list I chemicals under—
-
-&emsp;“(A) section 401(d)(1) and (2) of the Controlled Substances Act (21 U.S.C 841(d)(1) and (2)); and
-
-&emsp;“(B) section 1010(d)(1) and (3) of the Controlled Substance Import and Export Act (21 U.S.C. 960(d)(1) and (3)).
-
-“(2)
-
-Requirement.—In carrying out this subsection, the Commission shall ensure that the offense levels for offenses referred to in paragraph (1) are calculated proportionally on the basis of the quantity of controlled substance that reasonably could have been manufactured in a clandestine setting using the quantity of the list I chemical possessed, distributed, imported, or exported.”
-
-#### Enhanced Penalty for Dangerous Handling of Controlled Substances
-
-Pub. L. 104–237, title III, §303, Oct. 3, 1996, 110 Stat. 3106, provided that:
-
-“(a)
-
-In General.—Pursuant to its authority under section 994 of title 28, United States Code, the United States Sentencing Commission shall determine whether the Sentencing Guidelines adequately punish the offenses described in subsection (b) and, if not, promulgate guidelines or amend existing guidelines to provide an appropriate enhancement of the punishment for a defendant convicted of such an offense.
-
-“(b)
-
-Offense.—The offense referred to in subsection (a) is a violation of section 401(d), 401(g)(1), 403(a)(6), or 403(a)(7) of the Controlled Substances Act (21 U.S.C. 841(d), 841(g)(1), 843(a)(6), and 843(a)(7)), in cases in which in the commission of the offense the defendant violated—
-
-&emsp;“(1) subsection (d) or (e) of section 3008 of the Solid Waste Disposal Act \[42 U.S.C. 6928(d), (e)\] (relating to handling hazardous waste in a manner inconsistent with Federal or applicable State law);
-
-&emsp;“(2) section 103(b) of the Comprehensive Environmental Response, Compensation and Liability Act \[42 U.S.C. 9603(b)\] (relating to failure to notify as to the release of a reportable quantity of a hazardous substance into the environment);
-
-&emsp;“(3) section 301(a), 307(d), 309(c)(2), 309(c)(3), 311(b)(3), or 311(b)(5) of the Federal Water Pollution Control Act \[33 U.S.C. 1311(a), 1317(d), 1319(c)(2), (3), 1321(b)(3), (5)\] (relating to the unlawful discharge of pollutants or hazardous substances, the operation of a source in violation of a pretreatment standard, and the failure to notify as to the release of a reportable quantity of a hazardous substance into the water); or
-
-&emsp;“(4) section 5124 of title 49, United States Code (relating to violations of laws and regulations enforced by the Department of Transportation with respect to the transportation of hazardous material).”
-
-#### Alien Smuggling; Amendment of Sentencing Guidelines
-
-Pub. L. 104–208, div. C, title II, §203(e), Sept. 30, 1996, 110 Stat. 3009–566, provided that:
-
-“(1)
-
-In general.—Pursuant to its authority under section 994(p) of title 28, United States Code, the United States Sentencing Commission shall promulgate sentencing guidelines or amend existing sentencing guidelines for offenders convicted of offenses related to smuggling, transporting, harboring, or inducing aliens in violation of section 274(a)(1)(A) or (2) of the Immigration and Nationality Act (8 U.S.C. 1324(a)(1)(A), (2)(B)) in accordance with this subsection.
-
-“(2)
-
-Requirements.—In carrying out this subsection, the Commission shall, with respect to the offenses described in paragraph (1)—
-
-&emsp;“(A) increase the base offense level for such offenses at least 3 offense levels above the applicable level in effect on the date of the enactment of this Act \[Sept. 30, 1996\];
-
-&emsp;“(B) review the sentencing enhancement for the number of aliens involved (U.S.S.G. 2L1.1(b)(2)), and increase the sentencing enhancement by at least 50percent above the applicable enhancement in effect on the date of the enactment of this Act;
-
-&emsp;“(C) impose an appropriate sentencing enhancement upon an offender with 1 prior felony conviction arising out of a separate and prior prosecution for an offense that involved the same or similar underlying conduct as the current offense, to be applied in addition to any sentencing enhancement that would otherwise apply pursuant to the calculation of the defendant's criminal history category;
-
-&emsp;“(D) impose an additional appropriate sentencing enhancement upon an offender with 2 or more prior felony convictions arising out of separate and prior prosecutions for offenses that involved the same or similar underling \[sic\] conduct as the current offense, to be applied in addition to any sentencing enhancement that would otherwise apply pursuant to the calculation of the defendant's criminal history category;
-
-&emsp;“(E) impose an appropriate sentencing enhancement on a defendant who, in the course of committing an offense described in this subsection—
-
-&emsp;&emsp;“(i) murders or otherwise causes death, bodily injury, or serious bodily injury to an individual;
-
-&emsp;&emsp;“(ii) uses or brandishes a firearm or other dangerous weapon; or
-
-&emsp;&emsp;“(iii) engages in conduct that consciously or recklessly places another in serious danger of death or serious bodily injury;
-
-&emsp;“(F) consider whether a downward adjustment is appropriate if the offense is a first offense and involves the smuggling only of the alien's spouse or child; and
-
-&emsp;“(G) consider whether any other aggravating or mitigating circumstances warrant upward or downward sentencing adjustments.
-
-“(3)
-
-Emergency authority to sentencing commission.—The Commission shall promulgate the guidelines or amendments provided for under this subsection as soon as practicable in accordance with the procedure set forth in section 21(a) of the Sentencing Act of 1987 \[Pub. L. 100–182, set out below\], as though the authority under that Act had not expired.”
-
-#### Fraudulent Use of Government-Issued Documents; Amendment of Sentencing Guidelines
-
-Pub. L. 104–208, div. C, title II, §211(b), Sept. 30, 1996, 110 Stat. 3009–569, provided that:
-
-“(1)
-
-In general.—Pursuant to the Commission's authority under section 994(p) of title 28, United States Code, the United States Sentencing Commission shall promulgate sentencing guidelines or amend existing sentencing guidelines for offenders convicted of violating, or conspiring to violate, sections 1028(b)(1), 1425 through 1427, 1541 through 1544, and 1546(a) of title 18, United States Code, in accordance with this subsection.
-
-“(2)
-
-Requirements.—In carrying out this subsection, the Commission shall, with respect to the offenses referred to in paragraph (1)—
-
-&emsp;“(A) increase the base offense level for such offenses at least 2 offense levels above the level in effect on the date of the enactment of this Act \[Sept. 30, 1996\];
-
-&emsp;“(B) review the sentencing enhancement for number of documents or passports involved (U.S.S.G. 2L2.1(b)(2)), and increase the upward adjustment by at least 50 percent above the applicable enhancement in effect on the date of the enactment of this Act;
-
-&emsp;“(C) impose an appropriate sentencing enhancement upon an offender with 1 prior felony conviction arising out of a separate and prior prosecution for an offense that involved the same or similar underlying conduct as the current offense, to be applied in addition to any sentencing enhancement that would otherwise apply pursuant to the calculation of the defendant's criminal history category;
-
-&emsp;“(D) impose an additional appropriate sentencing enhancement upon an offender with 2 or more prior felony convictions arising out of separate and prior prosecutions for offenses that involved the same or similar underlying conduct as the current offense, to be applied in addition to any sentencing enhancement that would otherwise apply pursuant to the calculation of the defendant's criminal history category; and
-
-&emsp;“(E) consider whether any other aggravating or mitigating circumstances warrant upward or downward sentencing adjustments.
-
-“(3)
-
-Emergency authority to sentencing commission.—The Commission shall promulgate the guidelines or amendments provided for under this subsection as soon as practicable in accordance with the procedure set forth in section 21(a) of the Sentencing Act of 1987 \[Pub. L. 100–182, set out below\], as though the authority under that Act had not expired.”
-
-#### Involuntary Servitude; Amendment of Sentencing Guidelines
-
-Pub. L. 104–208, div. C, title II, §218(b), (c), Sept. 30, 1996, 110 Stat. 3009–573, 3009–574, provided that:
-
-“(b)
-
-Review of Sentencing Guidelines.—The United States Sentencing Commission shall ascertain whether there exists an unwarranted disparity—
-
-&emsp;“(1) between the sentences for peonage, involuntary servitude, and slave trade offenses, and the sentences for kidnapping offenses in effect on the date of the enactment of this Act \[Sept. 30, 1996\]; and
-
-&emsp;“(2) between the sentences for peonage, involuntary servitude, and slave trade offenses, and the sentences for alien smuggling offenses in effect on the date of the enactment of this Act and after the amendment made by subsection (a) \[amending sections 1581, 1583, 1584, and 1588 of Title 18, Crimes and Criminal Procedure\].
-
-“(c)
-
-Amendment of Sentencing Guidelines.—
-
-&emsp;“(1)
-
-In general.—Pursuant to its authority under section 994(p) of title 28, United States Code, the United States Sentencing Commission shall review its guidelines on sentencing for peonage, involuntary servitude, and slave trade offenses under sections 1581 through 1588 of title 18, United States Code, and shall amend such guidelines as necessary to—
-
-&emsp;&emsp;“(A) reduce or eliminate any unwarranted disparity found under subsection (b) that exists between the sentences for peonage, involuntary servitude, and slave trade offenses, and the sentences for kidnapping offenses and alien smuggling offenses;
-
-&emsp;&emsp;“(B) ensure that the applicable guidelines for defendants convicted of peonage, involuntary servitude, and slave trade offenses are sufficiently stringent to deter such offenses and adequately reflect the heinous nature of such offenses; and
-
-&emsp;&emsp;“(C) ensure that the guidelines reflect the general appropriateness of enhanced sentences for defendants whose peonage, involuntary servitude, or slave trade offenses involve—
-
-&emsp;&emsp;&emsp;“(i) a large number of victims;
-
-&emsp;&emsp;&emsp;“(ii) the use or threatened use of a dangerous weapon; or
-
-&emsp;&emsp;&emsp;“(iii) a prolonged period of peonage or involuntary servitude.
-
-&emsp;“(2)
-
-Emergency authority to sentencing commission.—The Commission shall promulgate the guidelines or amendments provided for under this subsection as soon as practicable in accordance with the procedure set forth in section 21(a) of the Sentencing Act of 1987 \[Pub. L. 100–182, set out below\], as though the authority under that Act had not expired.”
-
-#### Penalties for Conspiring With or Assisting an Alien To Commit an Offense Under the Controlled Substances Import and Export Act
-
-Pub. L. 104–208, div. C, title III, §333, Sept. 30, 1996, 110 Stat. 3009–634, provided that:
-
-“(a)
-
-Review of Guidelines.—Not later than 6 months after the date of the enactment of this Act \[Sept. 30, 1996\], the United States Sentencing Commission shall conduct a review of the guidelines applicable to an offender who conspires with, or aids or abets, a person who is not a citizen or national of the United States incommitting any offense under section 1010 of the Controlled Substance\[s\] Import and Export Act (21 U.S.C. 960).
-
-“(b)
-
-Revision of Guidelines.—Following such review, pursuant to section 994(p) of title 28, United States Code, the Commission shall promulgate sentencing guidelines or amend existing sentencing guidelines to ensure an appropriately stringent sentence for such offenders.”
-
-#### Enhanced Penalties for Failure To Depart, Illegal Reentry, and Passport and Visa Fraud
-
-Pub. L. 104–208, div. C, title III, §334, Sept. 30, 1996, 110 Stat. 3009–635, provided that:
-
-“(a)
-
-Failing to Depart.—The United States Sentencing Commission shall promptly promulgate, pursuant to section 994 of title 28, United States Code, amendments to the sentencing guidelines to make appropriate increases in the base offense level for offenses under section\[s\] 242(e) and 276(b) of the Immigration and Nationality Act (8 U.S.C. 1252(e) and 1326(b)) to reflect the amendments made by section 130001 of the Violent Crime Control and Law Enforcement Act of 1994 \[Pub. L. 103–322\].
-
-“(b)
-
-Passport and Visa Offenses.—The United States Sentencing Commission shall promptly promulgate, pursuant to section 994 of title 28, United States Code, amendments to the sentencing guidelines to make appropriate increases in the base offense level for offenses under chapter 75 of title 18, United States Code\[,\] to reflect the amendments made by section 130009 of the Violent Crime Control and Law Enforcement Act of 1994.”
+Pub. L. 100–690, title VI, §6482(c), Nov. 18, 1988, 102 Stat. 4382.—Common carrier operation under influence of alcohol or drugs.
 
 #### Mandatory Victim Restitution; Amendment of Sentencing Guidelines
 
 Pub. L. 104–132, title II, §208, Apr. 24, 1996, 110 Stat. 1240, provided that: “Pursuant to section 994 of title 28, United States Code, the United States Sentencing Commission shall promulgate guidelines or amend existing guidelines to reflect this subtitle \[subtitle A (§§201–211) of title II of Pub. L. 104–132, see Short Title of 1996 Amendment note set out under section 3551 of Title 18, Crimes and Criminal Procedure\] and the amendments made by this subtitle.”
 
-#### International Terrorism; Amendment of Sentencing Guidelines
-
-Pub. L. 104–132, title VII, §730, Apr. 24, 1996, 110 Stat. 1303, provided that: “The United States Sentencing Commission shall forthwith, in accordance with the procedures set forth in section 21(a) of the Sentencing Act of 1987 \[Pub. L. 100–182, set out below\], as though the authority under that section had not expired, amend the sentencing guidelines so that the chapter 3 adjustment relating to international terrorism only applies to Federal crimes of terrorism, as defined in section 2332b(g) of title 18, United States Code.”
-
-#### Deterrent Against Terrorist Activity Damaging Federal Interest Computer
-
-Pub. L. 104–132, title VIII, §805, Apr. 24, 1996, 110 Stat. 1305, provided that:
-
-“(a)
-
-Review.—Not later than 60 calendar days after the date of enactment of this Act \[Apr. 24, 1996\], the United States Sentencing Commission shall review the deterrent effect of existing guideline levels as they apply to paragraphs (4) and (5) of section 1030(a) of title 18, United States Code.
-
-“(b)
-
-Report.—The United States Sentencing Commission shall prepare and transmit a report to the Congress on the findings under the study conducted under subsection (a).
-
-“(c)
-
-Amendment of Guidelines.—Pursuant to its authority under section 994(p) of title 28, United States Code, the United States Sentencing Commission shall amend the sentencing guidelines to ensure any individual convicted of a violation of paragraph (4) or (5) of section 1030(a) of title 18, United States Code, is imprisoned for not less than 6 months.”
-
-#### Sex Crimes Against Minors
-
-Pub. L. 104–71, §§1–4, Dec. 23, 1995, 109 Stat. 774, provided that:
-
-#### “SECTION 1. SHORT TITLE.
-
-“This Act may be cited as the ‘Sex Crimes Against Children Prevention Act of 1995’.
-
-#### “SEC. 2. INCREASED PENALTIES FOR CERTAIN CONDUCT INVOLVING THE SEXUAL EXPLOITATION OF CHILDREN.
-
-“The United States Sentencing Commission shall amend the sentencing guidelines to—
-
-&emsp;“(1) increase the base offense level for an offense under section 2251 of title 18, United States Code, by at least 2 levels; and
-
-&emsp;“(2) increase the base offense level for an offense under section 2252 of title 18, United States Code, by at least 2 levels.
-
-#### “SEC. 3. INCREASED PENALTIES FOR USE OF COMPUTERS IN SEXUAL EXPLOITATION OF CHILDREN.
-
-“The United States Sentencing Commission shall amend the sentencing guidelines to increase the base offense level by at least 2 levels for an offense committed under section 2251(c)(1)(A) or 2252(a) of title 18, United States Code, if a computer was used to transmit the notice or advertisement to the intended recipient or to transport or ship the visual depiction.
-
-#### “SEC. 4. INCREASED PENALTIES FOR TRANSPORTATION OF CHILDREN WITH INTENT TO ENGAGE IN CRIMINAL SEXUAL ACTIVITY.
-
-“The United States Sentencing Commission shall amend the sentencing guidelines to increase the base offense level for an offense under section 2423(a) of title 18, United States Code, by at least 3 levels.”
-
-Pub. L. 102–141, title VI, §632, Oct. 28, 1991, 105 Stat. 876, provided that:
-
-“(1) Pursuant to its authority under section 994 of title 28, United States Code, the Sentencing Commission shall promulgate guidelines, or amend existing or proposed guidelines as follows:
-
-&emsp;“(A) Guideline 2G2.2 to provide a base offense level of not less than 15 and to provide at least a 5 level increase for offenders who have engaged in a pattern of activity involving the sexual abuse or exploitation of a minor.
-
-&emsp;“(B) Guideline 2G2.4 to provide that such guideline shall apply only to offense conduct that involves the simple possession of materials proscribed by chapter 110 of title 18, United States Code and guideline 2G2.2 to provide that such guideline shall apply to offense conduct that involves receipt or trafficking (including, but not limited to transportation, distribution, or shipping).
-
-&emsp;“(C) Guideline 2G2.4 to provide a base offense level of not less than 13, and to provide at least a 2 level increase for possessing 10 or more books, magazines, periodicals, films, video tapes or other items containing a visual depiction involving the sexual exploitation of a minor.
-
-&emsp;“(D) Section 2G3.1 to provide a base offense level of not less than 10.
-
-“(2)(A) Notwithstanding any other provision of law, the Sentencing Commission shall promulgate the amendments mandated in subsection (1) by November 1, 1991, or within 30 days after enactment \[Oct. 28, 1991\], whichever is later. The amendments to the guidelines promulgated under subsection (1) shall take effect November 1, 1991, or 30 days after enactment, and shall supersede any amendment to the contrary contained in the amendments to the sentencing guidelines submitted to the Congress by the Sentencing Commission on or about May 1, 1991.
-
-“(B) The provisions of section 944(x) \[994(x)\] of title 28, United States Code, shall not apply to the promulgation or amendment of guidelines under this section.”
-
-Pub. L. 101–647, title III, §321, Nov. 29, 1990, 104 Stat. 4817, provided that: “The United States SentencingCommission shall amend existing guidelines for sentences involving sexual crimes against children, including offenses contained in chapter 109A of title 18, so that more substantial penalties may be imposed if the Commission determines current penalties are inadequate.”
-
 #### Cocaine and Crack Sentences and Sentences for Money Laundering and Other Unlawful Activity; Reduction of Sentencing Disparities
 
-Pub. L. 104–38, Oct. 30, 1995, 109 Stat. 334, provided that:
-
-#### “SECTION 1. DISAPPROVAL OF AMENDMENTS RELATING TO LOWERING OF CRACK SENTENCES AND SENTENCES FOR MONEY LAUNDERING AND TRANSACTIONS IN PROPERTY DERIVED FROM UNLAWFUL ACTIVITY.
-
-“In accordance with section 994(p) of title 28, United States Code, amendments numbered 5 and 18 of the ‘Amendments to the Sentencing Guidelines, Policy Statements, and Official Commentary’, submitted by the United States Sentencing Commission to Congress on May 1, 1995, are hereby disapproved and shall not take effect.
-
-#### “SEC. 2. REDUCTION OF SENTENCING DISPARITY.
-
-“(a)
-
-Recommendations.—
-
-&emsp;“(1)
-
-In general.—The United States Sentencing Commission shall submit to Congress recommendations (and an explanation therefor), regarding changes to the statutes and sentencing guidelines governing sentences for unlawful manufacturing, importing, exporting, and trafficking of cocaine, and like offenses, including unlawful possession, possession with intent to commit any of the forgoing \[sic\] offenses, and attempt and conspiracy to commit any of the forgoing \[sic\] offenses. The recommendations shall reflect the following considerations—
-
-&emsp;&emsp;“(A) the sentence imposed for trafficking in a quantity of crack cocaine should generally exceed the sentence imposed for trafficking in a like quantity of powder cocaine;
-
-&emsp;&emsp;“(B) high-level wholesale cocaine traffickers, organizers, and leaders, of criminal activities should generally receive longer sentences than low-level retail cocaine traffickers and those who played a minor or minimal role in such criminal activity;
-
-&emsp;&emsp;“(C) if the Government establishes that a defendant who traffics in powder cocaine has knowledge that such cocaine will be converted into crack cocaine prior to its distribution to individual users, the defendant should be treated at sentencing as though the defendant had trafficked in crack cocaine; and
-
-&emsp;&emsp;“(D) an enhanced sentence should generally be imposed on a defendant who, in the course of an offense described in this subsection—
-
-&emsp;&emsp;&emsp;“(i) murders or causes serious bodily injury to an individual;
-
-&emsp;&emsp;&emsp;“(ii) uses a dangerous weapon;
-
-&emsp;&emsp;&emsp;“(iii) uses or possesses a firearm;
-
-&emsp;&emsp;&emsp;“(iv) involves a juvenile or a woman who the defendant knows or should know to be pregnant;
-
-&emsp;&emsp;&emsp;“(v) engages in a continuing criminal enterprise or commits other criminal offenses in order to facilitate his drug trafficking activities;
-
-&emsp;&emsp;&emsp;“(vi) knows, or should know, that he is involving an unusually vulnerable person;
-
-&emsp;&emsp;&emsp;“(vii) restrains a victim;
-
-&emsp;&emsp;&emsp;“(viii) traffics in cocaine within 500 feet of a school;
-
-&emsp;&emsp;&emsp;“(ix) obstructs justice;
-
-&emsp;&emsp;&emsp;“(x) has a significant prior criminal record; or
-
-&emsp;&emsp;&emsp;“(xi) is an organizer or leader of drug trafficking activities involving five or more persons.
-
-&emsp;“(2)
-
-Ratio.—The recommendations described in the preceding subsection \[probably should be “paragraph”\] shall propose revision of the drug quantity ratio of crack cocaine to powder cocaine under the relevant statutes and guidelines in a manner consistent with the ratios set for other drugs and consistent with the objectives set forth in section 3553(a) of title 28 \[probably should be “title 18”\] United States Code.
-
-“(b)
-
-Study.—No later than May 1, 1996, the Department of Justice shall submit to the Judiciary Committees of the Senate and House of Representatives a report on the charging and plea practices of Federal prosecutors with respect to the offense of money laundering. Such study shall include an account of the steps taken or to be taken by the Justice Department to ensure consistency and appropriateness in the use of the money laundering statute. The Sentencing Commission shall submit to the Judiciary Committees comments on the study prepared by the Department of Justice.”
-
-#### Penalties for Intentional Transmission of HIV; Sentencing Guidelines
-
-United States Sentencing Commission to conduct study and submit, not later than 6 months after Sept. 13, 1994, report to Committees on the Judiciary of Senate and House of Representatives concerning revision of sentencing guidelines that relate to offenses in which HIV infected individual engages in sexual activity if individual knows that he or she is infected with HIV and intends, through such sexual activity, to expose another to HIV, see section 14011(c) of Title 42, The Public Health and Welfare.
-
-#### &nbsp;&nbsp;&nbsp;Increased Penalties for Drug-Dealing in    “Drug-Free” Zones
-
-Pursuant to authority under this section, United States Sentencing Commission to amend sentencing guidelines to provide appropriate enhancement for defendant convicted of violating section 860 of Title 21, Food and Drugs, see section 14051 of Title 42, The Public Health and Welfare.
-
-#### Enhanced Penalties for Illegal Drug Use in Federal Prisons and for Smuggling Drugs Into Federal Prisons
-
-Pursuant to authority under this section, United States Sentencing Commission to amend sentencing guidelines to appropriately enhance penalty for person convicted under section 844 of Title 21, Food and Drugs, involving simple possession of controlled substance within Federal prison or other Federal detention facility, or under section 841(b) of Title 21, involving smuggling of controlled substance into Federal prison or other Federal detention facility or distribution or intended distribution of controlled substance within Federal prison or other Federal detention facility, see section 14052(b) of Title 42, The Public Health and Welfare.
-
-#### Enhanced Penalties for Repeat Sex Offenders
-
-Section 40111(b) of Pub. L. 103–322 provided that: “The Sentencing Commission shall implement the amendment made by subsection (a) \[enacting section 2247 of Title 18, Crimes and Criminal Procedure\] by promulgating amendments, if appropriate, in the sentencing guidelines applicable to chapter 109A \[of Title 18\] offenses.”
-
-#### Aggravated Sexual Abuse or Sexual Abuse; Sentencing Guidelines; Report on Federal Rape Sentencing
-
-Section 40112 of Pub. L. 103–322 provided that:
-
-“(a)
-
-Amendment of Sentencing Guidelines.—Pursuant to its authority under section 994(p) of title 28, United States Code, the United States Sentencing Commission shall review and amend, where necessary, its sentencing guidelines on aggravated sexual abuse under section 2241 of title 18, United States Code, or sexual abuse under section 2242 of title 18, United States Code, as follows:
-
-&emsp;“(1) The Commission shall review and promulgate amendments to the guidelines, if appropriate, to enhance penalties if more than 1 offender is involved in the offense.
-
-&emsp;“(2) The Commission shall review and promulgate amendments to the guidelines, if appropriate, to reduce unwarranted disparities between the sentences for sex offenders who are known to the victim and sentences for sex offenders who are not known to the victim.
-
-&emsp;“(3) The Commission shall review and promulgate amendments to the guidelines to enhance penalties, if appropriate, to render Federal penalties on Federal territory commensurate with penalties for similar offenses in the States.
-
-&emsp;“(4) The Commission shall review and promulgate amendments to the guidelines, if appropriate, to account for the general problem of recidivism in cases of sex offenses, the severity of the offense, and its devastating effects on survivors.
-
-“(b)
-
-Report.—Not later than 180 days after the date of enactment of this Act \[Sept. 13, 1994\], the United States Sentencing Commission shall review and submit to Congress a report containing an analysis of Federal rape sentencing, accompanied by comment from independent experts in the field, describing—
-
-&emsp;“(1) comparative Federal sentences for cases in which the rape victim is known to the defendant and cases in which the rape victim is not known to the defendant;
-
-&emsp;“(2) comparative Federal sentences for cases on Federal territory and sentences in surrounding States; and
-
-&emsp;“(3) an analysis of the effect of rape sentences on populations residing primarily on Federal territory relative to the impact of other Federal offenses in which the existence of Federal jurisdiction depends upon the offense's being committed on Federal territory.”
-
-#### Applicability of Mandatory Minimum Penalties in Certain Cases; Sentencing Commission Authority
-
-Section 80001(b) of Pub. L. 103–322 provided that:
-
-“(1)
-
-In general.—(A) The United States Sentencing Commission (referred to in this subsection as the ‘Commission’), under section 994(a)(1) and (p) of title 28—
-
-&emsp;“(i) shall promulgate guidelines, or amendments to guidelines, to carry out the purposes of this section \[amending section 3553 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as a note under section 3553 of Title 18\] and the amendment made by this section; and
-
-&emsp;“(ii) may promulgate policy statements, or amendments to policy statements, to assist in the application of this section and that amendment.
-
-“(B) In the case of a defendant for whom the statutorily required minimum sentence is 5 years, such guidelines and amendments to guidelines issued under subparagraph (A) shall call for a guideline range in which the lowest term of imprisonment is at least 24 months.
-
-“(2)
-
-Procedures.—If the Commission determines that it is necessary to do so in order that the amendments made under paragraph (1) may take effect on the effective date of the amendment made by subsection (a) \[see Effective Date of 1994 Amendment note set out under section 3553 of Title 18\], the Commission may promulgate the amendments made under paragraph (1) in accordance with the procedures set forth in section 21(a) of the Sentencing Act of 1987 \[Pub. L. 100–182, set out below\], as though the authority under that section had not expired.”
-
-#### Enhanced Penalty for Use of Semiautomatic Firearm During Crime of Violence or Drug Trafficking Crime
-
-Section 110501 of Pub. L. 103–322 provided that:
-
-“(a)
-
-Amendment to Sentencing Guidelines.—Pursuant to its authority under section 994 of title 28, United States Code, the United States Sentencing Commission shall amend its sentencing guidelines to provide an appropriate enhancement of the punishment for a crime of violence (as defined in section 924(c)(3) of title 18, United States Code) or a drug trafficking crime (as defined in section 924(c)(2) of title 18, United States Code) if a semiautomatic firearm is involved.
-
-“(b)
-
-Semiautomatic Firearm.—In subsection (a), ‘semiautomatic firearm’ means any repeating firearm that utilizes a portion of the energy of a firing cartridge to extract the fired cartridge case and chamber the next round and that requires a separate pull of the trigger to fire each cartridge.”
-
-#### Enhanced Penalty for Second Offense of Using Explosive To Commit Felony
-
-Section 110502 of Pub. L. 103–322 provided that: “Pursuant to its authority under section 994 of title 28, United States Code, the United States Sentencing Commission shall promulgate amendments to the sentencing guidelines to appropriately enhance penalties in a case in which a defendant convicted under section 844(h) of title 18, United States Code, has previously been convicted under that section.”
-
-#### Enhanced Penalty for Using Firearm in Commission of Counterfeiting or Forgery
-
-Section 110512 of Pub. L. 103–322 provided that: “Pursuant to its authority under section 994 of title 28, United States Code, the United States Sentencing Commission shall amend its sentencing guidelines to provide an appropriate enhancement of the punishment for a defendant convicted of a felony under chapter 25 of title 18, United States Code, if the defendant used or carried a firearm (as defined in section 921(a)(3) of title 18, United States Code) during and in relation to the felony.”
-
-#### Enhanced Penalties for Firearms Possession by Violent Felons and Serious Drug Offenders
-
-Section 110513 of Pub. L. 103–322 provided that: “Pursuant to its authority under section 994 of title 28, United States Code, the United States Sentencing Commission shall amend its sentencing guidelines to—
-
-&emsp;“(1) appropriately enhance penalties in cases in which a defendant convicted under section 922(g) of title 18, United States Code, has 1 prior conviction by any court referred to in section 922(g)(1) of title 18 for a violent felony (as defined in section 924(e)(2)(B) of that title) or a serious drug offense (as defined in section 924(e)(2)(A) of that title); and
-
-&emsp;“(2) appropriately enhance penalties in cases in which such a defendant has 2 prior convictions for a violent felony (as so defined) or a serious drug offense (as so defined).”
-
-#### Enhanced Penalties for Felonies Promoting International Terrorism
-
-Section 120004 of Pub. L. 103–322 provided that: “The United States Sentencing Commission is directed to amend its sentencing guidelines to provide an appropriate enhancement for any felony, whether committed within or outside the United States, that involves or is intended to promote international terrorism, unless such involvement or intent is itself an element of the crime.”
-
-#### Enhanced Penalty for Solicitation of Minor To Commit Crime
-
-Section 140008 of Pub. L. 103–322 provided that:
-
-“(a)
-
-Directive to Sentencing Commission.—(1) The United States Sentencing Commission shall promulgate guidelines or amend existing guidelines to provide that a defendant 21 years of age or older who has been convicted of an offense shall receive an appropriate sentence enhancement if the defendant involved a minor in the commission of the offense.
-
-“(2) The Commission shall provide that the guideline enhancement promulgated pursuant to paragraph (1) shall apply for any offense in relation to which the defendant has solicited, procured, recruited, counseled, encouraged, trained, directed, commanded, intimidated, or otherwise used or attempted to use any person less than 18 years of age with the intent that the minor would commit a Federal offense.
-
-“(b)
-
-Relevant Considerations.—In implementing the directive in subsection (a), the Sentencing Commission shall consider—
-
-&emsp;“(1) the severity of the crime that the defendant intended the minor to commit;
-
-&emsp;“(2) the number of minors that the defendant used or attempted to use in relation to the offense;
-
-&emsp;“(3) the fact that involving a minor in a crime of violence is frequently of even greater seriousness than involving a minor in a drug trafficking offense, for which the guidelines already provide a two-level enhancement; and
-
-&emsp;“(4) the possible relevance of the proximity in age between the offender and the minor(s) involved in the offense.”
-
-#### Enhanced Penalty for Possession or Distribution of Drugs at Truck Stops or Safety Rest Areas
-
-Section 180201(c) of Pub. L. 103–322 provided that: “Pursuant to its authority under section 994 of title 28, United States Code, and section 21 of the Sentencing Act of 1987 \[Pub. L. 100–182\] (28 U.S.C. 994 note), the United States Sentencing Commission shall promulgate guidelines, or shall amend existing guidelines, to provide an appropriate enhancement of punishment for a defendant convicted of violating section 409 of the Controlled Substances Act \[21 U.S.C. 849\], as added by subsection (b).”
-
-#### Crimes Against the Elderly; Sentencing Guidelines
-
-Section 240002 of Pub. L. 103–322, as amended by Pub. L. 104–294, title VI, §604(b)(10), Oct. 11, 1996, 110 Stat. 3507, provided that:
-
-“(a)
-
-In General.—Pursuant to its authority under the Sentencing Reform Act of 1984 \[chapter II (§§211–239) of title II) of Pub. L. 98–473, see Short Title note set out under section 3551 of Title 18, Crimes and Criminal Procedure\] and section 21 of the Sentencing Act of 1987 \[Pub. L. 100–182, set out below\] (including its authority to amend the sentencing guidelines and policy statements) and its authority to make such amendments on an emergency basis, the United States Sentencing Commission shall ensure that the applicable guideline range for a defendant convicted of a crime of violence against an elderly victim is sufficiently stringent to deter such a crime, to protect the public from additional crimes of such a defendant, and to adequately reflect the heinous nature of such an offense.
-
-“(b)
-
-Criteria.—In carrying out subsection (a), the United States Sentencing Commission shall ensure that—
-
-&emsp;“(1) the guidelines provide for increasingly severe punishment for a defendant commensurate with the degree of physical harm caused to the elderly victim;
-
-&emsp;“(2) the guidelines take appropriate account of the vulnerability of the victim; and
-
-&emsp;“(3) the guidelines provide enhanced punishment for a defendant convicted of a crime of violence against an elderly victim who has previously been convicted of a crime of violence against an elderly victim, regardless of whether the conviction occurred in Federal or State court.
-
-“(c)
-
-Definitions.—In this section—
-
-&emsp;“(1) ‘crime of violence’ means an offense under section 113, 114, 1111, 1112, 1113, 1117, 2241, 2242, or 2244 of title 18, United States Code.
-
-&emsp;“(2) ‘elderly victim’ means a victim who is 65 years of age or older at the time of an offense.”
-
-#### Enhanced Penalties for Fraud Against Older Victims; Report to Congress
-
-Section 250003 of Pub. L. 103–322 provided that:
-
-“(a)
-
-Review.—The United States Sentencing Commission shall review and, if necessary, amend the sentencing guidelines to ensure that victim related adjustments for fraud offenses against older victims over the age of 55 are adequate.
-
-“(b)
-
-Report.—Not later than 180 days after the date of enactment of this Act \[Sept. 13, 1994\], the Sentencing Commission shall report to Congress the result of its review under subsection (a).”
-
-#### Enhanced Penalty for Hate Crimes
-
-Section 280003 of Pub. L. 103–322 provided that:
-
-“(a)
-
-Definition.—In this section, ‘hate crime’ means a crime in which the defendant intentionally selects a victim, or in the case of a property crime, the property that is the object of the crime, because of the actual or perceived race, color, religion, national origin, ethnicity, gender, disability, or sexual orientation of any person.
-
-“(b)
-
-Sentencing Enhancement.—Pursuant to section 994 of title 28, United States Code, the United States Sentencing Commission shall promulgate guidelines or amend existing guidelines to provide sentencing enhancements of not less than 3 offense levels for offenses that the finder of fact at trial determines beyond a reasonable doubt are hate crimes. In carrying out this section, the United States Sentencing Commission shall ensure that there is reasonable consistency with other guidelines, avoid duplicative punishments for substantially the same offense, and take into account any mitigating circumstances that might justify exceptions.”
-
-#### Increased Penalties in Major Bank Crime Cases
-
-Pub. L. 101–647, title XXV, §2507, Nov. 29, 1990, 104 Stat. 4862, provided that:
-
-“(a)
-
-Increased Penalties.—Pursuant to section 994 of title 28, United States Code, and section 21 of the Sentencing Act of 1987 \[Pub. L. 100–182, set out below\], the United States Sentencing Commission shall promulgate guidelines, or amend existing guidelines, to provide that a defendant convicted of violating, or conspiring to violate, section 215, 656, 657, 1005, 1006, 1007, 1014, 1032, or 1344 of title 18, United States Code, or section 1341 or 1343 affecting a financial institution (as defined in section 20 of title 18, United States Code), shall be assigned not less than offense level 24 under chapter 2 of the sentencing guidelines if the defendant derives more than $1,000,000 in gross receipts from the offense.
-
-“(b)
-
-Amendments to Sentencing Guidelines.—If the sentencing guidelines are amended after the effective date of this section \[Nov. 29, 1990\], the Sentencing Commission shall implement the instruction set forth in subsection (a) so as to achieve a comparable result.”
-
-#### Guidelines Relating to Methamphetamine Offenses
-
-Pub. L. 101–647, title XXVII, §2701, Nov. 29, 1990, 104 Stat. 4912, provided that: “The United States Sentencing Commission is instructed to amend the existing guidelines for offenses involving smokable crystal methamphetamine under section 401(b) of the Controlled Substances Act (21 U.S.C. 841(b)) so that convictions for offenses involving smokable crystal methamphetamine will be assigned an offense level under the guidelines which is two levels above that which would have been assigned to the same offense involving other forms of methamphetamine.”
-
-#### Guidelines Relating to Offenses Substantially Jeopardizing Safety and Soundness of Federally Insured Financial Institutions
-
-Pub. L. 101–73, title IX, §961(m), Aug. 9, 1989, 103 Stat. 501, provided that: “Pursuant to section 994 of title 28, United States Code, and section 21 of the Sentencing Act of 1987 \[Pub. L. 100–182, set out below\], the United States Sentencing Commission shall promulgate guidelines, or amend existing guidelines, to provide for a substantial period of incarceration for a violation of, or a conspiracy to violate, section 215, 656, 657, 1005, 1006, 1007, 1014, 1341, 1343, or 1344 of title 18, United States Code, that substantially jeopardizes the safety and soundness of a federally insured financial institution.”
-
-#### Penalties for Importation of Controlled Substances by Aircraft and Other Vessels
-
-Section 6453 of Pub. L. 100–690 provided that:
-
-“(a)
-
-In General.—Pursuant to its authority under section 994(p) of title 28, United States Code, and section 21 of the Sentencing Act of 1987 \[Pub. L. 100–182, set out below\], the United States Sentencing Commission shall promulgate guidelines, or shall amend existing guidelines, to provide that a defendant convicted of violating section 1010(a) of the Controlled Substances Import and Export Act (21 U.S.C. 960(a)) under circumstances in which—
-
-&emsp;“(1) an aircraft other than a regularly scheduled commercial air carrier was used to import the controlled substance; or
-
-&emsp;“(2) the defendant acted as a pilot, copilot, captain, navigator, flight officer, or any other operation officer aboard any craft or vessel carrying a controlled substance,
-
-> shall be assigned an offense level under chapter 2 of the sentencing guidelines that is—
-
-&emsp;“(A) two levels greater than the level that would have been assigned had the offense not been committed under circumstances set forth in (A) or (B) \[(1) or (2)\] above; and
-
-&emsp;“(B) in no event less than level 26.
-
-“(b)
-
-Effect of Amendment.—If the sentencing guidelines are amended after the effective date of this section \[Nov. 18, 1988\], the Sentencing Commission shall implement the instruction set forth in subsection (a) so as to achieve a comparable result.”
-
-#### Enhanced Penalties for Drug Offenses Involving Children
-
-Section 6454 of Pub. L. 100–690 provided that:
-
-“(a)
-
-In General.—Pursuant to its authority under section 994(p) of title 28, United States Code, and section 21 of the Sentencing Act of 1987 \[Pub. L. 100–182, set out below\], the United States Sentencing Commission shall promulgate guidelines, or shall amend existing guidelines, to provide that a defendant convicted of violating sections 405, 405A, or 405B of the Controlled Substances Act (21 U.S.C. 845, 845a or 845b) \[now 21 U.S.C. 859, 860, 861\] involving a person under 18 years of age shall be assigned an offense level under chapter 2 of the sentencing guidelines that is—
-
-&emsp;“(1) two levels greater than the level that would have been assigned for the underlying controlled substance offense; and
-
-&emsp;“(2) in no event less than level 26.
-
-“(b)
-
-Effects of Amendment.—If the sentencing guidelines are amended after the effective date of this section \[Nov. 18, 1988\], the Sentencing Commission shall implement the instruction set forth in subsection (a) so as to achieve a comparable result.
-
-“(c)
-
-Multiple Enhancements.—The guidelines referred to in subsection (a), as promulgated or amended under such subsection, shall provide that an offense that could be subject to multiple enhancements pursuant to such subsection is subject to not more than one such enhancement.”
-
-#### Drug Offenses Within Federal Prisons; Sentencing Guidelines
-
-Section 6468(c), (d) of Pub. L. 100–690 provided that:
-
-“(c) Pursuant to its authority under section 994(p) of title 28, United States Code, and section 21 of the Sentencing Act of 1987 \[Pub. L. 100–182, set out below\], the United States Sentencing Commission shall promulgate guidelines, or shall amend existing guidelines, to provide that a defendant convicted of violating section 1791(a)(1) of title 18, United States Code, and punishable under section 1791(b)(1) of that title as so redesignated, shall be assigned an offense level under chapter 2 of the sentencing guidelines that is—
-
-&emsp;“(1) two levels greater than the level that would have been assigned had the offense not been committed in prison; and
-
-&emsp;“(2) in no event less than level 26.
-
-“(d) If the sentencing guidelines are amended after the effective date of this section \[Nov. 18, 1988\], the Sentencing Commission shall implement the instruction set forth in subsection (c) so as to achieve a comparable result.”
-
-#### Common Carrier Operation Under Influence of Alcohol or Drugs; Sentencing Guidelines
-
-Section 6482(c) of Pub. L. 100–690 provided that:
-
-“(1) Pursuant to its authority under section 994(p) of title 28, United States Code, and section 21 of the Sentencing Act of 1987 \[Pub. L. 100–182, set out below\], the United States Sentencing Commission shall promulgate guidelines, or shall amend existing guidelines, to provide that—
-
-&emsp;“(A) a defendant convicted of violating section 342 of title 18, United States Code, under circumstances in which death results, shall be assigned an offense level under chapter 2 of the sentencing guidelines that is not less than level 26; and
-
-&emsp;“(B) a defendant convicted of violating section 342 of title 18, United States Code, under circumstances in which serious bodily injury results, shall be assigned an offense level under chapter 2 of the sentencing guidelines that is not less than level 21.
-
-“(2) If the sentencing guidelines are amended after the effective date of this section \[Nov. 18, 1988\], the Sentencing Commission shall implement the instruction set forth in paragraph (1) so as to achieve a comparable result.”
+Pub. L. 104–38, Oct. 30, 1995, 109 Stat. 334, disapproved of certain amendments relating to lowering of crack sentences and sentences for money laundering and transactions in property derived from unlawful activity submitted by the United States Sentencing Commission to Congress on May 1, 1995, required the Commission to recommend changes to the statutes and sentencing guidelines for unlawful manufacturing, importing, exporting, and trafficking of cocaine, and like offenses, required the Department of Justice to submit to Congress, no later than May 1, 1996, a report on the charging and plea practices of Federal prosecutors with respect to the offense of money laundering, and required the Commission to submit to Congress comments on the Department of Justice study.
 
 #### Emergency Guidelines Promulgation Authority
 
@@ -1034,7 +374,7 @@ Sentencing guidelines promulgated pursuant to this section effective when U.S. S
 
 Section 236 of Pub. L. 98–473 provided that:
 
-“(a)(1) Four years after the sentencing guidelines promulgated pursuant to section 994(a)(1), and the provisions of sections 3581, 3583, and 3624 of title 18, United States Code, go into effect, the General Accounting Office shall undertake a study of the guidelines in order to determine their impact and compare the guidelines system with the operation of the previous sentencing and parole release system, and, within six months of the undertaking of such study, report to the Congress the results of its study.
+“(a)(1) Four years after the sentencing guidelines promulgated pursuant to section 994(a)(1), and the provisions of sections 3581, 3583, and 3624 of title 18, United States Code, go into effect, the General Accounting Office shall undertake a study of the guidelines in orderto determine their impact and compare the guidelines system with the operation of the previous sentencing and parole release system, and, within six months of the undertaking of such study, report to the Congress the results of its study.
 
 “(2) Within one month of the start of the study required under subsection (a), the United States Sentencing Commission shall submit a report to the General Accounting Office, all appropriate courts, the Department of Justice, and the Congress detailing the operation of the sentencing guideline system and discussing any problems with the system or reforms needed. The report shall include an evaluation of the impact of the sentencing guidelines on prosecutorial discretion, plea bargaining, disparities in sentencing, and the use of incarceration, and shall be issued by affirmative vote of a majority of the voting members of the Commission.
 
@@ -1048,7 +388,7 @@ Section 236 of Pub. L. 98–473 provided that:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 995, 998 of this title; title 18 sections 3143, 3552, 3553, 3559, 3582, 3583, 3621, 3622, 5037; title 29 sections 504, 1111; title 42 sections 14051, 14052.
+This section is referred to in sections 995, 998 of this title; title 18 sections 3143, 3552, 3553, 3559, 3582, 3583, 3621, 3622, 5037; title 22 section 7109; title 29 sections 504, 1111; title 42 sections 14051, 14052.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

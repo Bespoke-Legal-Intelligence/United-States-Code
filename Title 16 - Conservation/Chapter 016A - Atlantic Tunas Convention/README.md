@@ -38,7 +38,7 @@
 | (e) | Continuing review of State laws and regulations. |
 | [971h.](%C2%A7%2000971h%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [971i.](%C2%A7%2000971i%20-%20Research%20on%20Atlantic%20highly%20migratory%20species.md) | Research on Atlantic highly migratory species. |
-| (a) | Biennial report on bluefin tuna. |
+| (a) | Omitted. |
 | (b) | Highly migratory species research and monitoring. |
 | [971j.](%C2%A7%2000971j%20-%20Annual%20report.md) | Annual report. |
 | [971k.](%C2%A7%2000971k%20-%20Savings%20clause.md) | Savings clause. |

@@ -36,7 +36,15 @@ No inspection of a plant, plant site, or other facility or location in the Unite
 
 &emsp;&emsp;Any objection by the President to an individual serving as an inspector, whether made pursuant to this section or otherwise, shall not be reviewable in any court.
 
-(Pub. L. 105–277, div. I, title III, §303, Oct. 21, 1998, 112 Stat. 2681–873.)
+#### (c) Exception
+
+The requirement under subsection (b)(2)(A) of this section shall not apply to inspections of United States chemical weapons destruction facilities (as used within the meaning of part IV(C)(13) of the Verification Annex to the Convention).
+
+(Pub. L. 105–277, div. I, title III, §303, Oct. 21, 1998, 112 Stat. 2681–873; Pub. L. 106–280, title III, §305, Oct. 6, 2000, 114 Stat. 854.)
+
+#### Amendments
+
+2000—Subsec. (c). Pub. L. 106–280 added subsec. (c).
 
 #### Protection of United States Companies
 
@@ -44,9 +52,9 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1117\], Nov. 29, 1
 
 “(a)
 
-Reimbursement.—During the 2-year period beginning on the date of the enactment of this Act \[Nov. 29, 1999\], the United States National Authority (as designated pursuant to section 101 of the Chemical Weapons Convention Implementation Act of 1998 \[22 U.S.C. 6711\] (as contained in division I of Public Law 105–277)) shall, upon request of the Director of the Federal Bureau of Investigation, reimburse the Federal Bureau of Investigation for all costs incurred by the Bureau for such period in connection with implementation of section 303(b)(2)(A) of that Act \[22 U.S.C. 6723(b)(2)(A)\], except that such reimbursement may not exceed $2,000,000 for such 2-year period.
+Reimbursement.—During the 2-year period beginning on the date of the enactment of this Act \[Nov.29, 1999\], the United States National Authority (as designated pursuant to section 101 of the Chemical Weapons Convention Implementation Act of 1998 \[22 U.S.C. 6711\] (as contained in division I of Public Law 105–277)) shall, upon request of the Director of the Federal Bureau of Investigation, reimburse the Federal Bureau of Investigation for all costs incurred by the Bureau for such period in connection with implementation of section 303(b)(2)(A) of that Act \[22 U.S.C. 6723(b)(2)(A)\], except that such reimbursement may not exceed $2,000,000 for such 2-year period.
 
 “(b)
 
-Report.—Not later than 180 days prior to the expiration of the 2-year period described in subsection (a),the Director of the Federal Bureau of Investigation shall prepare and submit to the Committee on International Relations of the House of Representatives and the Committee on Foreign Relations of the Senate a report on how activities under section 303(b)(2)(A) of the Chemical Weapons Convention Implementation Act of 1998 \[22 U.S.C. 6723(b)(2)(A)\] will be fully funded and implemented by the Federal Bureau of Investigation notwithstanding the expiration of the 2-year period described in subsection (a).”
+Report.—Not later than 180 days prior to the expiration of the 2-year period described in subsection (a), the Director of the Federal Bureau of Investigation shall prepare and submit to the Committee on International Relations of the House of Representatives and the Committee on Foreign Relations of the Senate a report on how activities under section 303(b)(2)(A) of the Chemical Weapons Convention Implementation Act of 1998 \[22 U.S.C. 6723(b)(2)(A)\] will be fully funded and implemented by the Federal Bureau of Investigation notwithstanding the expiration of the 2-year period described in subsection (a).”
 

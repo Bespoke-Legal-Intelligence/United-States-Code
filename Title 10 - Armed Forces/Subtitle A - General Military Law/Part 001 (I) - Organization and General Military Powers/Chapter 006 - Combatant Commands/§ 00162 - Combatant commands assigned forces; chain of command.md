@@ -36,13 +36,3 @@ Chain of Command.—Unless otherwise directed by the President, the chain of com
 
 Section 214(a) of Pub. L. 99–433 provided that section 162(a) of this title shall be implemented not later than 90 days after Oct. 1, 1986.
 
-#### Cross References
-
-Air Force Chief of Staff, supervision over members and organizations of Air Force, see section 8033 of this title.
-
-Army Chief of Staff, supervision over members and organizations of Army, see section 3033 of this title.
-
-Chief of Naval Operations, supervision over members and organizations, of Navy and Marine Corps, see section 5033 of this title.
-
-Commandant of Marine Corps, supervision over members and organizations of Marine Corps and Navy, see section 5043 of this title.
-

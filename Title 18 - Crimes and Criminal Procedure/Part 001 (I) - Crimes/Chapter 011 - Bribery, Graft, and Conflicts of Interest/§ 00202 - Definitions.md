@@ -1,6 +1,6 @@
 ### §202. Definitions
 
-(a) For the purpose of sections 203, 205, 207, 208, and 209 of this title the term “special Government employee” shall mean an officer or employee of the executive or legislative branch of the United States Government, of any independent agency of the United States or of the District of Columbia, who is retained, designated, appointed, or employed to perform, with or without compensation, for not to exceed one hundred and thirty days during any period of three hundred and sixty-five consecutive days, temporary duties either on a full-time or intermittent basis, a part-time United States commissioner, a part-time United States magistrate, or, regardless of the number of days of appointment, an independent counsel appointed under chapter 40 of title 28 and any person appointed by that independent counsel under section 594(c) of title 28. Notwithstanding the next preceding sentence, every person serving as a part-time local representative of a Member of Congress in the Member's home district or State shall be classified as a special Government employee. Notwithstanding section 29(c) and (d) <sup>1</sup> of the Act of August 10, 1956 (70A Stat. 632; 5 U.S.C. 30r(c) and (d)), a Reserve officer of the Armed Forces, or an officer of the National Guard of the United States, unless otherwise an officer or employee of the United States, shall be classified as a special Government employee while on active duty solely for training. A Reserve officer of the Armed Forces or an officer of the National Guard of the United States who is voluntarily serving a period of extended active duty in excess of one hundred and thirty days shall be classified as an officer of the United States within the meaning of section 203 and sections 205 through 209 and 218. A Reserve officer of the Armed Forces or an officer of the National Guard of the United States who is serving involuntarily shall be classified as a special Government employee. The terms “officer or employee” and “special Government employee” as used in sections 203, 205, 207 through 209, and 218, shall not include enlisted members of the Armed Forces.
+(a) For the purpose of sections 203, 205, 207, 208, and 209 of this title the term “special Government employee” shall mean an officer or employee of the executive or legislative branch of the United States Government, of any independent agency of the United States or of the District of Columbia, who is retained, designated, appointed, or employed to perform, with or without compensation, for not to exceed one hundred and thirty days during any period of three hundred and sixty-five consecutive days, temporary duties either on a full-time or intermittent basis, a part-time United States commissioner, a part-time United States magistrate judge, or, regardless of the number of days of appointment, an independent counsel appointed under chapter 40 of title 28 and any person appointed by that independent counsel under section 594(c) of title 28. Notwithstanding the next preceding sentence, every person serving as a part-time local representative of a Member of Congress in the Member's home district or State shall be classified as a special Government employee. Notwithstanding section 29(c) and (d) <sup>1</sup> ofthe Act of August 10, 1956 (70A Stat. 632; 5 U.S.C. 30r(c) and (d)), a Reserve officer of the Armed Forces, or an officer of the National Guard of the United States, unless otherwise an officer or employee of the United States, shall be classified as a special Government employee while on active duty solely for training. A Reserve officer of the Armed Forces or an officer of the National Guard of the United States who is voluntarily serving a period of extended active duty in excess of one hundred and thirty days shall be classified as an officer of the United States within the meaning of section 203 and sections 205 through 209 and 218. A Reserve officer of the Armed Forces or an officer of the National Guard of the United States who is serving involuntarily shall be classified as a special Government employee. The terms “officer or employee” and “special Government employee” as used in sections 203, 205, 207 through 209, and 218, shall not include enlisted members of the Armed Forces.
 
 (b) For the purposes of sections 205 and 207 of this title, the term “official responsibility” means the direct administrative or operating authority, whether intermediate or final, and either exercisable alone or with others, and either personally or through subordinates, to approve, disapprove, or otherwise direct Government action.
 
@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(B) the Office of the Architect of the Capitol, the United States Botanic Garden, the General Accounting Office, the Government Printing Office, the Library of Congress, the Office of Technology Assessment, the Congressional Budget Office, the United States Capitol Police, and any other agency, entity, office, or commission established in the legislative branch.
 
-(Added Pub. L. 87–849, §1(a), Oct. 23, 1962, 76 Stat. 1121; amended Pub. L. 90–578, title III, §301(b), Oct. 17, 1968, 82 Stat. 1115; Pub. L. 100–191, §3(a), Dec. 15, 1987, 101 Stat. 1306; Pub. L. 101–194, title IV, §401, Nov. 30, 1989, 103 Stat. 1747; Pub. L. 101–280, §5(a), May 4, 1990, 104 Stat. 158; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–337, div. A, title IX, §924(d)(1)(B), Oct. 5, 1994, 108 Stat. 2832.)
+(Added Pub. L. 87–849, §1(a), Oct. 23, 1962, 76 Stat. 1121; amended Pub. L. 90–578, title III, §301(b), Oct. 17, 1968, 82 Stat. 1115; Pub. L. 100–191, §3(a), Dec. 15, 1987, 101 Stat. 1306; Pub. L. 101–194, title IV, §401, Nov. 30, 1989, 103 Stat. 1747; Pub. L. 101–280, §5(a), May 4, 1990, 104 Stat. 158; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–337, div. A, title IX, §924(d)(1)(B), Oct. 5, 1994, 108 Stat. 2832.)
 
 #### References in Text
 
@@ -58,11 +58,11 @@ Subsec. (e)(3)(B). Pub. L. 101–280, §5(a)(3)(2)(B), substituted “the Office
 
 #### Change of Name
 
-Reference to United States magistrate or to magistrate deemed to refer to United States magistrate judge pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+“United States magistrate judge” substituted for “United States magistrate” in subsec. (a) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a noteunder section 171 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 1987 Amendment
 
@@ -76,17 +76,9 @@ Amendment by Pub. L. 90–578 effective Oct. 17, 1968, except when a later effec
 
 Section effective 90 days after Oct. 23, 1962, see section 4 of Pub. L. 87–849, set out as a note under section 201 of this title.
 
-#### Canal Zone
-
-Applicability of section to Canal Zone, see section 14 of this title.
-
-#### Cross References
-
-Memorandum of Attorney General regarding conflict of interest provisions, see note under section 201 of this title.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in section 14 of this title; title 5 section 568; title 7 section 5903; title 12 section 2245; title 15 sections 3710d, 4805; title 22 sections 3507, 3508; title 26 sections 1043, 4946; title 28 sections 594, 995; title 40 App. section 108.
+This section is referred to in section 14 of this title; title 5 section 568; title 7 sections 2009aa–1, 5903; title 12 section 2245; title 15 sections 3710d, 4805; title 22 sections 3507, 3508; title 26 sections 1043, 4946; title 28 sections 594, 995; title 35 section 5; title 40 App. section 108.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) the Secretary directs the foreclosure commissioner to do so before or at the time of the sale;
 
-&emsp;&emsp;(B) the foreclosure commissioner finds, upon application of the mortgagor not lessthan 3 days before the date of the sale, that the default or defaults upon which the foreclosure is based did not exist at the time of service of the notice of default and foreclosure sale; or
+&emsp;&emsp;(B) the foreclosure commissioner finds, upon application of the mortgagor not less than 3 days before the date of the sale, that the default or defaults upon which the foreclosure is based did not exist at the time of service of the notice of default and foreclosure sale; or
 
 &emsp;&emsp;(C)(i) in the case of a foreclosure involving a monetary default, there is tendered to the foreclosure commissioner before public auction is completed the entire amount of principal and interest which would be due if payments under the mortgage had not been accelerated;
 
@@ -28,7 +28,7 @@
 
 #### (b) Opportunity of Secretary to dispute withdrawal
 
-Before withdrawing the security property from foreclosure under subparagraph (B) or (C) of subsection (a)(1) of this section, the foreclosure commissioner shall afford the Secretary a reasonable opportunity to demonstrate why the security property should not be so withdrawn.
+Before withdrawing the security property from foreclosure under subparagraph (B) or (C) of subsection (a)(1) of this section, the foreclosure commissioner shall afford the Secretarya reasonable opportunity to demonstrate why the security property should not be so withdrawn.
 
 #### (c) Effect of cancellation
 

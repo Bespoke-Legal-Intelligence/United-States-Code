@@ -38,7 +38,7 @@
 
 #### (c) Food stamp intercept of unemployment benefits
 
-(1) As used in this subsection, the term “uncollected overissuance” means the amount of an overissuance of coupons, as determined under subsection (b)(1) of this section, that has not been recovered pursuant to subsection (b)(1) of this section.
+(1) As used in this subsection, the term “uncollected overissuance” means the amount of an overissuance of coupons, as determined under subsection (b)(1) of this section, that has notbeen recovered pursuant to subsection (b)(1) of this section.
 
 (2) A State agency may determine on a periodic basis, from information supplied pursuant to section 49b(b) of title 29, whether an individual receiving compensation under the State's unemployment compensation law (including amounts payable pursuant to an agreement under a Federal unemployment compensation law) owes an uncollected overissuance.
 
@@ -110,7 +110,7 @@ Amendment by Pub. L. 97–253 effective Sept. 8, 1982, see section 193(a) of Pub
 
 Amendment by Pub. L. 97–35 effective on earlier of Sept. 8, 1982, or date such amendment became effective pursuant to section 117 of Pub. L. 97–35, set out as a note under section 2012 of this title, see section 192(a) of Pub. L. 97–253, set out as a note under section 2012 of this title.
 
-Amendment by Pub. L. 97–35 effective and implemented upon such dates as Secretary of Agriculture may prescribe, taking into account need for orderly implementation, see section 117 of Pub. L. 97–35, set out as a note under section 2012 of this title.
+Amendment by Pub. L. 97–35 effective and implemented upon such dates as Secretary of Agriculturemay prescribe, taking into account need for orderly implementation, see section 117 of Pub. L. 97–35, set out as a note under section 2012 of this title.
 
 #### Effective Date of 1977 Amendment
 

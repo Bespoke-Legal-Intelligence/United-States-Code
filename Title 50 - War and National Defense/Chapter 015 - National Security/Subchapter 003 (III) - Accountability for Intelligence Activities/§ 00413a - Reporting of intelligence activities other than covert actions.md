@@ -24,3 +24,7 @@ Furnishing of Specific Information.—In accordance with title V of the National
 
 Access by Committees and Members of Congress.—In accordance with Senate Resolution 400, Ninety-Fourth Congress, and House Resolution 658, Ninety-Fifth Congress, the committees named in subsection (a) shall, upon request and under such regulations as the committees have prescribed to protect the classification of such information, make any information described in subsection (a) available to any other committee or any other Member of Congress and appropriately cleared staff.”
 
+#### Section Referred to in Other Sections
+
+This section is referred to in title 22 section 7304.
+

@@ -16,7 +16,7 @@ Not later than 2 years after October 28, 1992, after notice and opportunity for 
 
 &emsp;(6) advise persons how to obtain a list of contractors certified pursuant to this subchapter in lead-based paint hazard evaluation and reduction in the area in which the pamphlet is to be used;
 
-&emsp;(7) state that a risk assessment or inspection for lead-based paint is recommended prior to the purchase, lease, or renovation of target housing;
+&emsp;(7) state that a risk assessment or inspection for lead-based paint is recommended prior tothe purchase, lease, or renovation of target housing;
 
 &emsp;(8) state that certain State and local laws impose additional requirements related to lead-based paint in housing and provide a listing of Federal, State, and local agencies in each State, including address and telephone number, that can provide information about applicable laws and available governmental and private assistance and financing; and
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-(1) The Secretary shall, before January 1, 1994, issue regulations requiring that of the new light duty motor vehicles acquired by a covered person described in paragraph (2), the following percentages shall be alternative fueled vehicles for the following model years:
+(1) The Secretary shall, before January 1, 1994, issue regulations requiring that of the new lightduty motor vehicles acquired by a covered person described in paragraph (2), the following percentages shall be alternative fueled vehicles for the following model years:
 
 &emsp;(A) 30 percent for model year 1996.
 

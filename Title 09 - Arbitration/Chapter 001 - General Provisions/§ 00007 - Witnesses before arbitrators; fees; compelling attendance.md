@@ -12,10 +12,6 @@ Act Feb. 12, 1925, ch. 213, §7, 43 Stat. 884.
 
 1951—Act Oct. 31, 1951, substituted “United States district court for” for “United States court in and for”, and “by law for” for “on February 12, 1925, for”.
 
-#### Federal Rules of Civil Procedure
-
-Subpoena, see rule 45, Title 28, Appendix, Judiciary and Judicial Procedure.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in title 5 section 578.

@@ -12,10 +12,6 @@ Section was not enacted as part of the Foreign Service Act of 1980 which compris
 
 Section was formerly classified to section 1189 of this title, and prior thereto to section 92 of this title.
 
-#### Cross References
-
-Exaction of excessive fees for verification of invoices made punishable, see section 4202 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 4191 of this title.

@@ -28,9 +28,3 @@ Minor changes in phraseology were also made.
 
 1991—Pub. L. 102–54 substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
 
-#### Cross References
-
-Secretary of Veterans Affairs, appointment and responsibilities, see section 303 of Title 38, Veterans’ Benefits.
-
-False statements or entries, generally, see section 1001 of this title.
-

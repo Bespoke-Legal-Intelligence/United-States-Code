@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-An eligible country shall, under the terms of an environmental framework agreement entered into under section 1738f of this title, establish an Environmental Fund to receive payments in local currency pursuant to section 1738f(b)(1) of this title.
+An eligible country shall, under the terms of an environmental framework agreement enteredinto under section 1738f of this title, establish an Environmental Fund to receive payments in local currency pursuant to section 1738f(b)(1) of this title.
 
 #### (b) Investment
 

@@ -40,9 +40,73 @@ Section 305(m) of Pub. L. 102–232 provided that the amendment made by that sec
 
 Section 108(d) of Pub. L. 103–416 provided that: “Not later than 120 days after the date of enactment of this Act \[Oct. 25, 1994\], the Attorney General shall promulgate regulations to carry out section 312(b)(3) of the Immigration and Nationality Act \[8 U.S.C. 1423(b)(3)\] (as amended by subsection (a)).”
 
-#### Cross References
+#### Hmong Veterans’ Naturalization
 
-Naturalization defined, see section 1101 of this title.
+Pub. L. 106–207, May 26, 2000, 114 Stat. 316, as amended by Pub. L. 106–415, Nov. 1, 2000, 114 Stat. 1810, provided that:
+
+#### “SECTION 1. SHORT TITLE.
+
+“This Act may be cited as the ‘Hmong Veterans’ Naturalization Act of 2000’.
+
+#### “SEC. 2. EXEMPTION FROM ENGLISH LANGUAGE REQUIREMENT FOR CERTAIN ALIENS WHO SERVED WITH SPECIAL GUERRILLA UNITS OR IRREGULAR FORCES IN LAOS.
+
+“The requirement of paragraph (1) of section 312(a) of the Immigration and Nationality Act (8 U.S.C. 1423(a)(1)) shall not apply to the naturalization of any person—
+
+&emsp;“(1) who—
+
+&emsp;&emsp;“(A) was admitted into the United States as a refugee from Laos pursuant to section 207 of the Immigration and Nationality Act (8 U.S.C. 1157); and
+
+&emsp;&emsp;“(B) served with a special guerrilla unit, or irregular forces, operating from a base in Laos in support of the United States military at any time during the period beginning February 28, 1961, and ending September 18, 1978;
+
+&emsp;“(2) who—
+
+&emsp;&emsp;“(A) satisfies the requirement of paragraph (1)(A); and
+
+&emsp;&emsp;“(B) was the spouse of a person described in paragraph (1) on the day on which such described person applied for admission into the United States as a refugee; or
+
+&emsp;“(3) who—
+
+&emsp;&emsp;“(A) satisfies the requirement of paragraph (1)(A); and
+
+&emsp;&emsp;“(B) is the surviving spouse of a person described in paragraph (1)(B) which described person was killed or died in Laos, Thailand, or Vietnam.
+
+#### “SEC. 3. SPECIAL CONSIDERATION CONCERNING CIVICS REQUIREMENT FOR CERTAIN ALIENS WHO SERVED WITH SPECIAL GUERRILLA UNITS OR IRREGULAR FORCES IN LAOS.
+
+“The Attorney General shall provide for special consideration, as determined by the Attorney General, concerning the requirement of paragraph (2) of section 312(a) of the Immigration and Nationality Act (8 U.S.C. 1423(a)(2)) with respect to the naturalization of any person described in paragraph (1), (2), or (3) of section 2 of this Act.
+
+#### “SEC. 4. DOCUMENTATION OF QUALIFYING SERVICE.
+
+“A person seeking an exemption under section 2 or special consideration under section 3 shall submit to the Attorney General documentation of their, or their spouse's, service with a special guerrilla unit, or irregular forces, described in section 2(1)(B), in the form of—
+
+&emsp;“(1) original documents;
+
+&emsp;“(2) an affidavit of the serving person's superior officer;
+
+&emsp;“(3) two affidavits from other individuals who also were serving with such a special guerrilla unit, or irregular forces, and who personally knew of the person's service; or
+
+&emsp;“(4) other appropriate proof.
+
+#### “SEC. 5. DETERMINATION OF ELIGIBILITY FOR EXEMPTION AND SPECIAL CONSIDERATION.
+
+“(a) In determining a person's eligibility for an exemption under section 2 or special consideration under section 3, the Attorney General—
+
+&emsp;“(1) shall review the refugee processing documentation for the person, or, in an appropriate case, for the person and the person's spouse, to verify that the requirements of section 2 relating to refugee applications and admissions have been satisfied;
+
+&emsp;“(2) shall consider the documentation submitted by the person under section 4;
+
+&emsp;“(3) may request an advisory opinion from the Secretary of Defense regarding the person's, or their spouse's, service in a special guerrilla unit, or irregular forces, described in section 2(1)(B); and
+
+&emsp;“(4) may consider any documentation provided by organizations maintaining records with respect to Hmong veterans or their families.
+
+“(b) The Secretary of Defense shall provide any opinion requested under paragraph (3) to the extent practicable, and the Attorney General shall take into account any opinion that the Secretary of Defense is able to provide.
+
+#### “SEC. 6. DEADLINE FOR APPLICATION AND PAYMENT OF FEES.
+
+“This Act shall apply to a person only if the person's application for naturalization is filed, as provided in section 334 of the Immigration and Nationality Act (8 U.S.C. 1445), with appropriate fees not later than 18 months after the date of the enactment of this Act \[May 26, 2000\]. In the case of a person described in section 2(3), the application referred to in the preceding sentence, and appropriate fees, shall be filed not later than 18 months after the date of the enactment of this sentence \[Nov. 1, 2000\].
+
+#### “SEC. 7. LIMITATION ON NUMBER OF BENEFICIARIES.
+
+“Notwithstanding any other provision of this Act, the total number of aliens who may be granted an exemption under section 2 or special consideration under section 3, or both, may not exceed 45,000.”
 
 #### Section Referred to in Other Sections
 

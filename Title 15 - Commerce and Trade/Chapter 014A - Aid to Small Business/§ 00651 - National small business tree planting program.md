@@ -50,3 +50,7 @@ A prior section 651, act July 30, 1953, ch. 282, §225, as added Aug. 9, 1955, c
 
 Subsec. (e). Pub. L. 103–317 substituted “fiscal years 1995 through 1997” for “fiscal years 1992 through 1994”.
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (h) of this section relating to submitting annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 191 of House Document No. 103–7.
+

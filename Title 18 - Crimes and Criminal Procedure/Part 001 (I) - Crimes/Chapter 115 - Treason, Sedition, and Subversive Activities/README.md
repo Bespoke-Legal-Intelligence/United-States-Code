@@ -22,10 +22,6 @@
 
 1953—Act June 30, 1953, ch. 175, §5, 67 Stat. 134, added item 2391.
 
-#### Cross References
-
-Wire or oral communications, authorization for interception, to provide evidence of offenses under this section, see section 2516 of this title.
-
 #### Chapter Referred to in Other Sections
 
 This chapter is referred to in section 2516 of this title; title 5 section 8312; title 8 section 1227; title 22 sections 1641k, 1642h; title 42 section 402; title 50 App. section 2017g.

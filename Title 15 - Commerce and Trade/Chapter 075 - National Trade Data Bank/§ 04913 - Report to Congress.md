@@ -20,7 +20,7 @@ Not more than 3 years after August 23, 1988, the Secretary after consultation wi
 
 &emsp;(4) describing the extent to which the systems within the Data Bank are being used and any recommendations with regard to the operation of the system; and
 
-&emsp;(5) describing the extent to which United States citizens and firms have access to the data banks of foreign countries that is similar to the access provided to foreign citizens and firms.
+&emsp;(5) describing the extent to which United States citizens and firms have access to thedata banks of foreign countries that is similar to the access provided to foreign citizens and firms.
 
 (Pub. L. 100–418, title V, §5413, Aug. 23, 1988, 102 Stat. 1467.)
 

@@ -22,7 +22,7 @@ Another prior section 247 of Pub. L. 93–415 was renumbered section 246 and cla
 
 #### Amendments
 
-1988—Pub. L. 100–690, §7263(a)(2)(D), made technical amendment to references to section 5659 of this title toreflect renumbering of corresponding section of original act.
+1988—Pub. L. 100–690, §7263(a)(2)(D), made technical amendment to references to section 5659 of this title to reflect renumbering of corresponding section of original act.
 
 1984—Subsec. (c). Pub. L. 98–473, §639(b), in amending subsec. (c) generally, struck out references to the National Institute of Juvenile Justice and Delinquency Prevention, substituted provisions relating to travel expenses of participants of the trainee program and conferences for provisions relating to such expenses while studying, and inserted “No consultation fee may be paid to such person for such participation.”
 

@@ -104,7 +104,7 @@ At any time after a committee reports the allocations required to be made under 
 
 #### (2) Revised allocations
 
-&emsp;(A) As soon as practicable after Congress agrees to a bill or joint resolution that would have been subject to a point of order under subsection (f)(1) of this section but for the exception provided in paragraph (1)(A) or would have been subject to a point of order under section 642(a) of this title but for the exception provided in paragraph (1)(B), the chairman of the committee <sup>1</sup> on the Budget of the House of Representatives shall file with the House appropriately revised allocations under subsection (a) of this section and revised functional levels and budget aggregates to reflect that bill.
+&emsp;(A) As soon as practicable after Congress agrees to a bill or joint resolution that wouldhave been subject to a point of order under subsection (f)(1) of this section but for the exception provided in paragraph (1)(A) or would have been subject to a point of order under section 642(a) of this title but for the exception provided in paragraph (1)(B), the chairman of the committee <sup>1</sup> on the Budget of the House of Representatives shall file with the House appropriately revised allocations under subsection (a) of this section and revised functional levels and budget aggregates to reflect that bill.
 
 &emsp;(B) Such revised allocations, functional levels, and budget aggregates shall be considered for the purposes of this Act as allocations, functional levels, and budget aggregates contained in the most recently agreed to concurrent resolution on the budget.
 
@@ -112,7 +112,7 @@ At any time after a committee reports the allocations required to be made under 
 
 #### References in Text
 
-This Act, referred to in subsec. (g)(2)(B), means Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended, knownas the Congressional Budget and Impoundment Control Act of 1974, which enacted chapters 17, 17A, and 17B and section 190a–3 of this title and sections 11a, 11c, 11d, 1020a of former Title 31, Money and Finance, amended sections 11, 665, 701, 1020, 1151, 1152, 1153, and 1154 of former Title 31, section 105 of Title 1, General Provisions, and sections 190b and 190d of this title, repealed sections 571 and 581c–1 of former Title 31, and sections 66 and 81 of this title, and enacted provisions set out as notes under sections 190a–1, 621, 632, and 682 of this title, section 105 of Title 1, and section 1020 of former Title 31. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
+This Act, referred to in subsec. (g)(2)(B), means Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended, known as the Congressional Budget and Impoundment Control Act of 1974, which enacted chapters 17, 17A, and 17B and section 190a–3 of this title and sections 11a, 11c, 11d, 1020a of former Title 31, Money and Finance, amended sections 11, 665, 701, 1020, 1151, 1152, 1153, and 1154 of former Title 31, section 105 of Title 1, General Provisions, and sections 190b and 190d of this title, repealed sections 571 and 581c–1 of former Title 31, and sections 66 and 81 of this title, and enacted provisions set out as notes under sections 190a–1, 621, 632, and 682 of this title, section 105 of Title 1, and section 1020 of former Title 31. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
 
 #### Codification
 

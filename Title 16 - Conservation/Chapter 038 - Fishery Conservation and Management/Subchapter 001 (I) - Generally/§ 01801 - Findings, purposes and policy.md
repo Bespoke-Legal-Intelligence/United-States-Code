@@ -8,7 +8,7 @@ The Congress finds and declares the following:
 
 &emsp;(2) Certain stocks of fish have declined to the point where their survival is threatened, and other stocks of fish have been so substantially reduced in number that they could become similarly threatened as a consequence of (A) increased fishing pressure, (B) the inadequacy of fishery resource conservation and management practices and controls, or (C) direct and indirect habitat losses which have resulted in a diminished capacity to support existing fishing levels.
 
-&emsp;(3) Commercial and recreational fishing constitutes a major source of employment and contributes significantly to the economy ofthe Nation. Many coastal areas are dependent upon fishing and related activities, and their economies have been badly damaged by the overfishing of fishery resources at an ever-increasing rate over the past decade. The activities of massive foreign fishing fleets in waters adjacent to such coastal areas have contributed to such damage, interfered with domestic fishing efforts, and caused destruction of the fishing gear of United States fishermen.
+&emsp;(3) Commercial and recreational fishing constitutes a major source of employment and contributes significantly to the economy of the Nation. Many coastal areas are dependent upon fishing and related activities, and their economies have been badly damaged by the overfishing of fishery resources at an ever-increasing rate over the past decade. The activities of massive foreign fishing fleets in waters adjacent to such coastal areas have contributed to such damage, interfered with domestic fishing efforts, and caused destruction of the fishing gear of United States fishermen.
 
 &emsp;(4) International fishery agreements have not been effective in preventing or terminating the overfishing of these valuable fishery resources. There is danger that irreversible effects from overfishing will take place before an effective international agreement on fishery management jurisdiction can be negotiated, signed, ratified, and implemented.
 
@@ -120,7 +120,7 @@ Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1
 
 #### References to Fishery Conservation and Management Act of 1976 Redesignated as References to Magnuson Fishery Conservation and Management Act
 
-Section 238(b) of title II of Pub. L. 96–561 provided that: “Effective 15 days after the date of enactment of this title \[Dec. 22, 1980\], all references to the Fishery Conservation and Management Act of 1976 \[see Short title note below\] shall be redesignated as references tothe Magnuson Fishery Conservation and Management Act.”
+Section 238(b) of title II of Pub. L. 96–561 provided that: “Effective 15 days after the date of enactment of this title \[Dec. 22, 1980\], all references to the Fishery Conservation and Management Act of 1976 \[see Short title note below\] shall be redesignated as references to the Magnuson Fishery Conservation and Management Act.”
 
 #### Effective Date of 1992 Amendment
 
@@ -148,7 +148,7 @@ Pub. L. 100–220, §1, Dec. 29, 1987, 101 Stat. 1458, provided that: “This Ac
 
 #### Short Title of 1980 Amendment
 
-Section 201 of title II of Pub. L. 96–561 provided that: “This title \[enacting section 1511b of Title 15, Commerce and Trade, amending sections 917, 1801, 1821, 1824, 1852, and 1855 of this title, section 713c–3 of Title 15, sections 1972 and 1980 of Title 22, Foreign Relations and Intercourse, section 1321 of Title 33, Navigation and Navigable Waters, section 1843 of Title 43, Public Lands, and sections 1271, 1273, 1274, and 1275 of Title 46, Appendix, Shipping, and enacting provisions set out as notes under this section, sections 742c, 1821, and 1824 of this title, and section 1980 of Title 22\] may be cited as the ‘American Fisheries Promotion Act’.”
+Section 201 of title II of Pub. L. 96–561 provided that: “This title \[enacting section 1511b of Title 15, Commerce and Trade, amending sections 917, 1801, 1821, 1824, 1852, and 1855 of this title, section 713c–3 of Title 15, sections 1972 and 1980 of Title 22, Foreign Relations and Intercourse, section 1321 of Title 33, Navigation and Navigable Waters, section 1843 of Title 43, Public Lands, and sections 1271, 1273, 1274, and 1275 of Title 46, Appendix, Shipping, and enacting provisions set out asnotes under this section, sections 742c, 1821, and 1824 of this title, and section 1980 of Title 22\] may be cited as the ‘American Fisheries Promotion Act’.”
 
 #### Short Title of 1977 Amendment
 

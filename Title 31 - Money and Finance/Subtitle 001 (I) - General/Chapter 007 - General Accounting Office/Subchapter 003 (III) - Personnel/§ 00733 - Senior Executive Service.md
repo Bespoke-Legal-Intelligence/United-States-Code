@@ -16,9 +16,11 @@
 
 &emsp;(5) allowing the Comptroller General to award ranks to officers and employees in the Office Senior Executive Service consistent with section 4507 of title 5;
 
-&emsp;(6) providing for removal consistent with section 3592 of title 5, and for removal or suspension consistent with section 7543 of title 5; and
+&emsp;(6) providing for removal consistent with section 3592 of title 5, and for removal or suspension consistent with section 7543 of title 5;
 
-&emsp;(7) allowing the Comptroller General to pay performance awards to officers and employees of the Office Senior Executive Service consistent with section 5384 of title 5.
+&emsp;(7) allowing the Comptroller General to reassign an officer or employee in the Office Senior Executive Service to any senior-level position established under section 732a of this title, as the Comptroller General determines necessary and appropriate; and
+
+&emsp;(8) allowing the Comptroller General to pay performance awards to officers and employees of the Office Senior Executive Service consistent with section 5384 of title 5.
 
 (b) Except as provided in subsection (a), the Comptroller General may apply any part of title 5 that applies to an applicant for or officer or employee in the Senior Executive Service under title 5 to the Office Senior Executive Service.
 
@@ -26,7 +28,7 @@
 
 (d) Section 732(b)(6), (c), (d)(1)–(4), and (e) of this title does not apply to the Office Senior Executive Service.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 899; Pub. L. 98–326, §1(c), June 22, 1984, 98 Stat. 269.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 899; Pub. L. 98–326, §1(c), June 22, 1984, 98 Stat. 269; Pub. L. 106–303, §4(b), Oct. 13, 2000, 114 Stat. 1069.)
 
 Historical and Revision Notes
 
@@ -62,6 +64,8 @@ In subsection (d), the words “Employees in . . . the personnel system establ
 
 #### Amendments
 
+2000—Subsec. (a)(7), (8). Pub. L. 106–303 added par. (7) and redesignated former par. (7) as (8).
+
 1984—Subsec. (c). Pub. L. 98–326 inserted “(e)(1),” after “(d),”.
 
 #### Effective Date of 1984 Amendment
@@ -70,5 +74,5 @@ Amendment by Pub. L. 98–326 effective Oct. 1, 1984, see section 2 of Pub. L. 9
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 732, 735 of this title.
+This section is referred to in sections 732, 732a, 735 of this title.
 

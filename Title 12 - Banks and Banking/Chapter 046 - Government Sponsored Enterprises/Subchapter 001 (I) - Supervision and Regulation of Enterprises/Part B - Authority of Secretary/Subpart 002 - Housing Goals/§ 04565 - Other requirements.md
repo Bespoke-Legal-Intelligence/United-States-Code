@@ -22,7 +22,7 @@ To meet the low- and moderate-income housing goal under section 4562 of this tit
 
 #### (b) Affordable housing goals
 
-Actions taken under subsection (a)(5) of this section shall constitute part of the contribution of each entity in meeting its affordable housing goals under sections 4562, 4563, and 4564 of this title for any fiscal year, as determined by the Secretary.
+Actions taken under subsection (a)(5) of this section shall constitute part of the contribution of each entity in meeting its affordable housinggoals under sections 4562, 4563, and 4564 of this title for any fiscal year, as determined by the Secretary.
 
 (Pub. L. 102–550, title XIII, §1335, Oct. 28, 1992, 106 Stat. 3961; Pub. L. 105–65, title V, §517(c), Oct. 27, 1997, 111 Stat. 1403.)
 

@@ -24,22 +24,6 @@ Amendment by section 564(f) of Pub. L. 104–208 effective Sept. 30, 1996, see s
 
 Amendment by Pub. L. 101–649 applicable to individuals entering United States on or after June 1, 1991, see section 601(e)(1) of Pub. L. 101–649, set out as a note under section 1101 of this title.
 
-#### Cross References
-
-Bonds—
-
-&emsp;&emsp;Bond from nonimmigrant alien as prerequisite to admission to the United States, see section 1184 of this title.
-
-&emsp;&emsp;Bond or undertaking as prerequisite to issuance of visas to aliens with certain physical disabilities or those likely to become public charges, see section 1201 of this title.
-
-&emsp;&emsp;Exaction from excludable aliens applying for temporary admission, see section 1182 of this title.
-
-&emsp;&emsp;Forms to be prescribed by Attorney General, see section 1103 of this title.
-
-Definition of alien and Attorney General, see section 1101 of this title.
-
-Nationality and naturalization, see section 1401 et seq. of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1201 of this title.

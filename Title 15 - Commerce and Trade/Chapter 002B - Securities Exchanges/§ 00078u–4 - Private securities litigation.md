@@ -56,7 +56,7 @@
 
 #### (ii) Consolidated actions
 
-&emsp;&emsp;&emsp;If more than one action on behalf of a class asserting substantially the same claim or claims arising under this chapter has been filed, and any party has sought to consolidate those actions for pretrial purposes or for trial, the court shall not make the determination required by clause (i) until after the decision on the motion to consolidate is rendered. As soon as practicable after such decision is rendered, the court shall appoint the most adequate plaintiff as lead plaintiff for the consolidated actions in accordance with this paragraph.
+&emsp;&emsp;&emsp;If more than one action on behalf of a class asserting substantially the same claim or claims arising under this chapterhas been filed, and any party has sought to consolidate those actions for pretrial purposes or for trial, the court shall not make the determination required by clause (i) until after the decision on the motion to consolidate is rendered. As soon as practicable after such decision is rendered, the court shall appoint the most adequate plaintiff as lead plaintiff for the consolidated actions in accordance with this paragraph.
 
 #### (iii) Rebuttable presumption
 
@@ -130,7 +130,7 @@
 
 #### (D) Identification of lawyers’ representatives
 
-&emsp;&emsp;The name, telephone number, and address of one or more representatives of counsel for the plaintiff class who will be reasonably available to answer questions from classmembers concerning any matter contained in any notice of settlement published or otherwise disseminated to the class.
+&emsp;&emsp;The name, telephone number, and address of one or more representatives of counsel for the plaintiff class who will be reasonably available to answer questions from class members concerning any matter contained in any notice of settlement published or otherwise disseminated to the class.
 
 #### (E) Reasons for settlement
 
@@ -200,7 +200,7 @@
 
 #### (2) Mandatory sanctions
 
-&emsp;If the court makes a finding under paragraph (1) that a party or attorney violated any requirement of Rule 11(b) of the Federal Rules of Civil Procedure as to any complaint, responsive pleading, or dispositive motion, the court shall impose sanctions on such party or attorney in accordance with Rule 11 of the Federal Rules of Civil Procedure. Prior to making afinding that any party or attorney has violated Rule 11 of the Federal Rules of Civil Procedure, the court shall give such party or attorney notice and an opportunity to respond.
+&emsp;If the court makes a finding under paragraph (1) that a party or attorney violated any requirement of Rule 11(b) of the Federal Rules of Civil Procedure as to any complaint, responsive pleading, or dispositive motion, the court shall impose sanctions on such party or attorney in accordance with Rule 11 of the Federal Rules of Civil Procedure. Prior to making a finding that any party or attorney has violated Rule 11 of the Federal Rules of Civil Procedure, the court shall give such party or attorney notice and an opportunity to respond.
 
 #### (3) Presumption in favor of attorneys’ fees and costs
 
@@ -416,7 +416,7 @@ This section not to affect or apply to any private action arising under this cha
 
 #### Construction
 
-Nothing in section to be deemed to create or ratify any implied right of action, or to prevent Commission, by rule or regulation, from restricting or otherwise regulating private actions under this chapter, see section 203 of Pub. L. 104–67, set out as a note under section 78j–1 of this title.
+Nothing in section to be deemed to create or ratify any implied right of action, or to prevent Commission, by rule or regulation, from restricting or otherwise regulating private actions under this chapter, see section203 of Pub. L. 104–67, set out as a note under section 78j–1 of this title.
 
 #### Section Referred to in Other Sections
 

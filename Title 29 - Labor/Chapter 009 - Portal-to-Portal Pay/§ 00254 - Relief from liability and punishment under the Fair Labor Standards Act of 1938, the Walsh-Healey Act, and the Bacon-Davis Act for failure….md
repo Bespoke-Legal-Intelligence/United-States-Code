@@ -42,7 +42,3 @@ The Walsh-Healey and Bacon-Davis Acts, referred to in subsecs. (a) and (d), are 
 
 Section 2103 of Pub. L. 104–188 provided that: “The amendment made by section 2101 \[probably means section 2102 of Pub. L. 104–188, amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 20, 1996\] and shall apply in determining the application of section 4 of the Portal-to-Portal Act of 1947 \[this section\] to an employee in any civil action brought before such date of enactment but pending on such date.”
 
-#### Cross References
-
-Exclusion from hours worked of time spent changing clothes or washing up, see section 203 of this title.
-

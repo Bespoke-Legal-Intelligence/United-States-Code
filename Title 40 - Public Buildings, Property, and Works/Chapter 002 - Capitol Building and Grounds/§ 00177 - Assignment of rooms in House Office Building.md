@@ -4,12 +4,6 @@ The assignment of rooms in the House Office Building, made prior to May 28, 1908
 
 (May 28, 1908, No. 30, 35 Stat. 578.)
 
-#### Cross References
-
-Assignment of space for joint committee meetings, conference committees, etc., see section 174d–1 of this title.
-
-Control of assignment of rooms by House of Representatives, see section 183 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 182, 183 of this title.

@@ -86,7 +86,7 @@ A State shall be eligible to receive funding to evaluate the State program funde
 
 &emsp;&emsp;(E) The percentage of each group that continues to participate in State programs funded under this part.
 
-&emsp;&emsp;(F) The percentage of each group that has health insurance provided by a private entity (broken down by whether the insuranceis provided through an employer or otherwise), the percentage that has health insurance provided by an agency of government, and the percentage that does not have health insurance.
+&emsp;&emsp;(F) The percentage of each group that has health insurance provided by a private entity (broken down by whether the insurance is provided through an employer or otherwise), the percentage that has health insurance provided by an agency of government, and the percentage that does not have health insurance.
 
 &emsp;&emsp;(G) The average income of the families of the members of each group.
 

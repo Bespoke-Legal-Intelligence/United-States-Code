@@ -2,7 +2,7 @@
 
 #### (a) Disposition upon payment of duties and taxes
 
-At any time before, or within 3 months after, the closing date of any fair, any article entered for such fair under section 1752 of this title may be sold or otherwise disposed of within, or may be removed from, the area of such fair. This subsection shall apply only if, before such disposition or removal—
+At any time before, or within 3 months after, the closing date of any fair, any article enteredfor such fair under section 1752 of this title may be sold or otherwise disposed of within, or may be removed from, the area of such fair. This subsection shall apply only if, before such disposition or removal—
 
 &emsp;(1) the article, after the entry for such fair under section 1752 of this title, has been entered under any provision of the customs laws, and
 

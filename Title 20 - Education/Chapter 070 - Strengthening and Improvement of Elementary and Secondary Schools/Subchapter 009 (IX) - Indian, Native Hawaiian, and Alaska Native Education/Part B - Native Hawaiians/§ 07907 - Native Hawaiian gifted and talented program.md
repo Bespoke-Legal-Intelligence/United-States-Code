@@ -30,11 +30,11 @@ The program funded under this section may include—
 
 &emsp;&emsp;(A) the needs of such students; and
 
-&emsp;&emsp;(B) the provision of those support services to the families of such students that areneeded to enable such students to benefit from the program.
+&emsp;&emsp;(B) the provision of those support services to the families of such students that are needed to enable such students to benefit from the program.
 
 #### (c) Information provision
 
-The Secretary is authorized to facilitate the establishment of a national network of Native Hawaiian and American Indian Gifted and Talented Centers, and ensure that the information developed by these centers shall be readily available to the educational community at large.
+The Secretary is authorized to facilitate the establishment of a national network of Native Hawaiian and American Indian Gifted and Talented Centers, and ensure that the information developed by these centers shall be readilyavailable to the educational community at large.
 
 #### (d) Administrative costs
 

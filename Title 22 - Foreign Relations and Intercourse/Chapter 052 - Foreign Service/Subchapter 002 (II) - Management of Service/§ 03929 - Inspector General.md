@@ -2,7 +2,7 @@
 
 #### (a) Appointment; supervision by Secretary of State; prohibition against interference by State Department with certain duties; inspections, audits, and other functions; removal from office
 
-(1) There shall be an Inspector General of the Department of State and the Foreign Service,who shall be appointed by the President, by and with the advice and consent of the Senate, without regard to political affiliation from among individuals exceptionally qualified for the position by virtue of their integrity and their demonstrated ability in accounting, auditing, financial analysis, law, management analysis, public administration, or investigations, or their knowledge and experience in the conduct of foreign affairs. The Inspector General shall report to and be under the general supervision of the Secretary of State. Neither the Secretary of State nor any other officer of the Department shall prevent or prohibit the Inspector General from initiating, carrying out, or completing any audit or investigation, or from issuing any subpena during the course of any audit or investigation. The Inspector General shall periodically (at least every 5 years) inspect and audit the administration of activities and operations of each Foreign Service post and each bureau and other operating unit of the Department of State, and shall perform such other functions as the Secretary of State may prescribe, except that the Secretary of State shall not assign to the Inspector General any general program operating responsibilities.
+(1) There shall be an Inspector General of the Department of State and the Foreign Service, who shall be appointed by the President, by and with the advice and consent of the Senate, without regard to political affiliation from among individuals exceptionally qualified for the position by virtue of their integrity and their demonstrated ability in accounting, auditing, financial analysis, law, management analysis, public administration, or investigations, or their knowledge and experience in the conduct of foreign affairs. The Inspector General shall report to and be under the general supervision of the Secretary of State. Neither the Secretary of State nor any other officer of the Department shall prevent or prohibit the Inspector General from initiating, carrying out, or completing any audit or investigation, or from issuing any subpena during the course of any audit or investigation. The Inspector General shall periodically (at least every 5 years) inspect and audit the administration of activities and operations of each Foreign Service post and each bureau and other operating unit of the Department of State, and shall perform such other functions as the Secretary of State may prescribe, except that the Secretary of State shall not assign to the Inspector General any general program operating responsibilities.
 
 (2) The Inspector General may be removed from office by the President. The President shall communicate the reasons for any such removal to both Houses of Congress.
 
@@ -100,7 +100,7 @@ Final reports of investigations.—In order to ensure that final reports of inve
 
 Under the general supervision of the Secretary of State, the Inspector General may review activities and operations performed under the direction, coordination, and supervision of chiefs of mission for the purpose of ascertaining their consonance with the foreign policy of the United States and their consistency with the responsibilities of the Secretary of State and the chief of mission.
 
-(Pub. L. 96–465, title I, §209, Oct. 17, 1980, 94 Stat. 2080; Pub. L. 99–399, title IV, §413(a)(6), Aug. 27, 1986, 100 Stat. 868; Pub. L. 99–529, title IV, §405, Oct. 24, 1986, 100 Stat. 3020; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2208(a), (b), Oct. 21, 1998, 112 Stat. 2681–810; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §339(a), (b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–443.)
+(Pub. L. 96–465, title I, §209, Oct. 17, 1980, 94 Stat. 2080; Pub. L. 99–399, title IV, §413(a)(6), Aug. 27, 1986, 100 Stat. 868; Pub. L. 99–529, title IV, §405, Oct. 24, 1986, 100 Stat. 3020; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2208(a), (b), Oct. 21,1998, 112 Stat. 2681–810; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §339(a), (b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–443.)
 
 #### References in Text
 
@@ -126,7 +126,7 @@ Committee on Foreign Affairs of House of Representatives treated as referring to
 
 Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §339(e)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–444, provided that: “The amendments made by this section \[amending this section\] shall apply to cases opened on or after the date of the enactment of this Act \[Nov. 29, 1999\].”
 
-#### Statutory Construction
+#### Construction of 1999 Amendment
 
 Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §339(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–444, provided that: “Nothing in the amendments made by this section \[amending this section\] may be construed to modify—
 
@@ -141,6 +141,10 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §339(c)\], Nov. 29
 &emsp;“(5) rule 6(e) of the Federal Rules of Criminal Procedure \[18 App. U.S.C.\] (relating to the protection of grand jury information); or
 
 &emsp;“(6) any statute or executive order pertaining to the protection of classified information.”
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (d)(2) of this section relating to the requirement that the Secretary of State transmit a copy of the annual report furnished by the Inspector General, together with any comments which the Secretary deems appropriate, to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives and to other appropriate committees, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 129 of House Document No. 103–7.
 
 #### No Grievance or Right of Action
 

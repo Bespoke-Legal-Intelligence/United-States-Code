@@ -1,6 +1,6 @@
 ### §1710A. Required nursing home care
 
-(a) The Secretary shall provide nursing home care which the Secretary determines is needed (1) to any veteran in need of such care for a service-connected disability, and (2) to any veteran who is in need of such care and who has a service-connected disability rated at 70 percent or more.
+(a) The Secretary (subject to section 1710(a)(4) of this title) shall provide nursing home care which the Secretary determines is needed (1) to any veteran in need of such care for a service-connected disability, and (2) to any veteran who is in need of such care and who has a service-connected disability rated at 70 percent or more.
 
 (b)(1) The Secretary shall ensure that a veteran described in subsection (a) who continues to need nursing home care is not, after placement in a Department nursing home, transferred from the facility without the consent of the veteran, or, in the event the veteran cannot provide informed consent, the representative of the veteran.
 
@@ -8,15 +8,19 @@
 
 (c) The provisions of subsection (a) shall terminate on December 31, 2003.
 
-(Added Pub. L. 106–117, title I, §101(a)(1), Nov. 30, 1999, 113 Stat. 1547.)
+(Added Pub. L. 106–117, title I, §101(a)(1), Nov. 30, 1999, 113 Stat. 1547; amended Pub. L. 106–419, title II, §224(a), Nov. 1, 2000, 114 Stat. 1846.)
 
 #### References in Text
 
 The date of the enactment of this section, referred to in subsec. (b)(2), is the date of enactment of Pub. L. 106–117, which was approved Nov. 30, 1999.
 
+#### Amendments
+
+2000—Subsec. (a). Pub. L. 106–419 inserted “(subject to section 1710(a)(4) of this title)” after “The Secretary”.
+
 #### Report to Congressional Committees
 
-Pub. L. 106–117, title I, §101(i), Nov. 30, 1999, 113 Stat. 1550, provided that: “Not later than January 1, 2003, theSecretary \[of Veterans Affairs\] shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the operation of this section \[enacting this section and section 1710B of this title, amending sections 1701, 1710, 1720, 1720B and 1741 of this title, and enacting provisions set out as a note under section 1710B of this title\] (including the amendments made by this section). The Secretary shall include in the report—
+Pub. L. 106–117, title I, §101(i), Nov. 30, 1999, 113 Stat. 1550, provided that: “Not later than January 1, 2003, the Secretary \[of Veterans Affairs\] shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the operation of this section \[enacting this section and section 1710B of this title, amending sections 1701, 1710, 1720, 1720B and 1741 of this title, and enacting provisions set out as a note under section 1710B of this title\] (including the amendments made by this section). The Secretary shall include in the report—
 
 &emsp;“(1) the Secretary's assessment of the experience of the Department \[of Veterans Affairs\] under the provisions of this section;
 

@@ -20,7 +20,7 @@ In carrying out subsection (a) of this section, an entity specified in subsectio
 
 The entities specified in this subsection are the following:
 
-&emsp;(1) Entities receiving assistance under section 247b–6 of this title (relating to tuberculosis).
+&emsp;(1) Entities receiving assistance under section 247b–7 <sup>1</sup> of this title (relating to tuberculosis).
 
 &emsp;(2) Entities receiving assistance under section 247c of this title (relating to sexually transmitted diseases).
 
@@ -40,15 +40,21 @@ The entities specified in this subsection are the following:
 
 &emsp;(10) Non-Federal entities authorized under the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\].
 
-(July 1, 1944, ch. 373, title III, §340D, as added Pub. L. 103–183, title I, §104, Dec. 14, 1993, 107 Stat. 2230.)
+(July 1, 1944, ch. 373, title III, §340D, as added Pub. L. 103–183, title I, §104, Dec. 14, 1993, 107 Stat. 2230; Pub. L. 106–310, div. A, title XXV, §2502(b), Oct. 17, 2000, 114 Stat. 1163.)
 
 #### References in Text
+
+Section 247b–7 of this title, referred to in subsec. (c)(1), relates to loan repayment program and not to assistance relating to tuberculosis.
 
 Sections 254b and 254c of this title, referred to in subsec. (c)(3), (4), were in the original references to sections 329 and 330, meaning sections 329 and 330 of act July 1, 1944, which were omitted in the general amendment of subpart I (§254b et seq.) of this part by Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626. Sections 2 and 3(a) of Pub. L. 104–299 enacted new sections 330 and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of this title.
 
 Sections 256 and 256a of this title, referred to in subsec. (c)(5), (6), were repealed by Pub. L. 104–299, §4(a)(3), Oct. 11, 1996, 110 Stat. 3645.
 
 The Indian Self-Determination Act, referred to in subsec. (c)(10), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
+
+#### Amendments
+
+2000—Subsec. (c)(1). Pub. L. 106–310 substituted “section 247b–7 of this title” for “section 247b–6 of this title”.
 
 #### Reference to Community, Migrant, Public Housing, or Homeless Health Center Considered Reference to Health Center
 

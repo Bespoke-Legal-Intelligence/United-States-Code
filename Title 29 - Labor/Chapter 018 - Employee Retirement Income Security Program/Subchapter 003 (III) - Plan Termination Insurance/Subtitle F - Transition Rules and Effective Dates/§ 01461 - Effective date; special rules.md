@@ -30,7 +30,7 @@
 
 &emsp;(C) the participating employers and employee organization or organizations had no reasonable recourse other than termination.
 
-(4) If the corporation determines, under paragraph (2) or (3), that it will pay benefits guaranteed under this subchapter with respect to amultiemployer plan which terminates before August 1, 1980, the corporation—
+(4) If the corporation determines, under paragraph (2) or (3), that it will pay benefits guaranteed under this subchapter with respect to a multiemployer plan which terminates before August 1, 1980, the corporation—
 
 &emsp;(A) may establish requirements for the continuation of payments which commenced before January 2, 1974, with respect to retired participants under the plan,
 
@@ -94,7 +94,7 @@
 
 &emsp;&emsp;(ii) had notified a local union representative on May 14, 1980, that the employer had tentatively decided to discontinue operations and relocate to a new facility in another State, and
 
-&emsp;(B) all State and local approvals with respect to construction of and commencement of operations at the new facility had been obtained, a contract for construction had beenentered into, and construction of the new facility had begun before September 26, 1980,
+&emsp;(B) all State and local approvals with respect to construction of and commencement of operations at the new facility had been obtained, a contract for construction had been entered into, and construction of the new facility had begun before September 26, 1980,
 
 > any withdrawal liability incurred by the employer pursuant to part 1 of subtitle E of this subchapter as a result of the complete or partial withdrawal of the employer from the multiemployer plan before June 30, 1981, shall be void.
 
@@ -191,6 +191,4 @@ Section 405 of Pub. L. 96–364 provided that:
 “(a) Except as otherwise provided in the amendments made by this Act \[see Short Title of 1980 Amendment note set out under section 1001 of this title\] and in subsection (b), if the way in which any such amendment will apply to a particular circumstance is to be set forth in regulations, any reasonable action during the period before such regulations take effect shall be treated as complying with such regulations for such period.
 
 “(b) Subsection (a) shall not apply to any action which violates any instruction issued, or temporary rule prescribed, by the agency having jurisdiction but only if such instruction or rule was published, or furnished to the party taking the action, before such action was taken.”
-
-&nbsp;
 

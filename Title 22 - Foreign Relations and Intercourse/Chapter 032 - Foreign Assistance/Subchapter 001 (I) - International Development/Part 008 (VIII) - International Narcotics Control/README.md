@@ -2,7 +2,7 @@ Part VIII—International Narcotics Control
 
 #### Part Referred to in Other Sections
 
-This part is referred to in sections 2318, 2321j, 2357, 2375, 2392, 2394–1 of this title.
+This part is referred to in sections 2318, 2321j, 2357, 2375, 2392, 2394–1, 7102 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “paragraph (1)”.</i>
 

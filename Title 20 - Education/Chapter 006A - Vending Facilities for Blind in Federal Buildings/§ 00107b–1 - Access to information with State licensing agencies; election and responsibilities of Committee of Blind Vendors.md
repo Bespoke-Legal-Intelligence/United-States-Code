@@ -6,7 +6,7 @@ In addition to other requirements imposed in this title and in this chapter upon
 
 &emsp;(2) conduct the biennial election of a Committee of Blind Vendors who shall be fully representative of all blind licensees in the State program,<sup>1</sup> and
 
-&emsp;(3) insure that such committee's responsibilities include (A) participation, with the State agency, in major administrative decisions and policy and program development, (B) receiving grievances of blind licensees and serving as advocates for such licensees, (C) participation, with the State agency, in the development and administration of a transfer and promotion system for blind licensees, (D) participation, with the State agency, in developing training and retraining programs, and (E) sponsorship, with the assistance of the State agency, of meetings and instructional conferences for blind licensees.
+&emsp;(3) insure that such committee's responsibilities include (A) participation, with the State agency, in major administrative decisions and policy and program development, (B) receivinggrievances of blind licensees and serving as advocates for such licensees, (C) participation, with the State agency, in the development and administration of a transfer and promotion system for blind licensees, (D) participation, with the State agency, in developing training and retraining programs, and (E) sponsorship, with the assistance of the State agency, of meetings and instructional conferences for blind licensees.
 
 (Pub. L. 93–516, title II, §209, Dec. 7, 1974, 88 Stat. 1630; Pub. L. 93–651, title II, §209, Nov. 21, 1974, 89 Stat. 2–15.)
 

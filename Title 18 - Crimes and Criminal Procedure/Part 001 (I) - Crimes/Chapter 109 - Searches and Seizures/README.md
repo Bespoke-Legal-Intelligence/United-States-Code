@@ -11,10 +11,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Cross References
-
-Procedure relating to searches and seizures, see sections 3101 to 3116 of this title and rule 41 of the Federal Rules of Criminal Procedure, Appendix to this title.
-
 
 ---
 

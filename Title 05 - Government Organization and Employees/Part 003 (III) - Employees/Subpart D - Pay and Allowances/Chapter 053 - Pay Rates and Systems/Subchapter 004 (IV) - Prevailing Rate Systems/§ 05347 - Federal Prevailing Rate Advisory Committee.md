@@ -26,7 +26,7 @@
 
 (g)(1) Except as provided in paragraph (2), members of the Committee described in paragraphs (2)–(5) of subsection (a) of this section serve without additional pay. Members who represent employee organizations are not entitled to pay from the Government of the United States for services rendered to the Committee.
 
-(2) The position of Chairman shall be considered to be a Senior Executive Service position within the meaning of section 3132(a), and shall be subject to all provisions of this title relating to Senior Executive Service positions, including section 5383.
+(2) The position of Chairman shall be considered to be a Senior Executive Service position within the meaning of section 3132(a), and shall be subject to all provisions of this title relatingto Senior Executive Service positions, including section 5383.
 
 (h) The Office of Personnel Management shall provide such clerical and professional personnel as the Chairman of the Committee considers appropriate and necessary to carry out its functions under this subchapter. Such personnel shall be responsible to the Chairman of the Committee.
 

@@ -8,7 +8,7 @@ Notwithstanding any other provision of law, an officer or employee of the Centra
 
 &emsp;(2) has not been designated under section 2013 of this title,<sup>1</sup> as a participant in the Central Intelligence Agency Retirement and Disability System;
 
-&emsp;(3) has become disabled during a period of assignment to the performance of duties thatare qualifying toward such designation under such section 2013 of this title; and
+&emsp;(3) has become disabled during a period of assignment to the performance of duties that are qualifying toward such designation under such section 2013 of this title; and
 
 &emsp;(4) satisfies the requirements for disability retirement under section 8337 of title 5—
 

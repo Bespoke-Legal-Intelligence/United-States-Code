@@ -28,7 +28,7 @@ Subsec. (b). Pub. L. 106–65, §921(c)(2), (3), redesignated subsec. (d) as (b)
 
 &emsp;“(2) as of October 1, 1998, may not exceed 80 percent of the baseline number.”
 
-Subsec. (c). Pub. L. 106–65, §921(c)(2), (3), redesignated subsec. (e) as (c) and struck out heading and text of former subsec. (c). Text read as follows: “For purposes of this section, the term ‘baseline number’ means the number of OSD personnel as of October 1, 1994.”
+Subsec. (c). Pub. L. 106–65, §921(c)(2), (3), redesignated subsec. (e) as (c) and struck out heading and text offormer subsec. (c). Text read as follows: “For purposes of this section, the term ‘baseline number’ means the number of OSD personnel as of October 1, 1994.”
 
 Subsecs. (d), (e). Pub. L. 106–65, §921(c)(3), redesignated subsecs. (d) and (e) as (b) and (c), respectively.
 

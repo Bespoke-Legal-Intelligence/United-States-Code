@@ -24,7 +24,3 @@ Secretary of Commerce was authorized to dispose of the marine biological station
 
 Under communication of the Fish and Wildlife Service dated Nov. 12, 1940, it was stated the land on which was situated this station was reconveyed to the Key West Realty Company by quit claim deed executed by the Secretary of Commerce.
 
-#### Cross References
-
-Agricultural and mechanical colleges, see section 301 et seq. of Title 7, Agriculture.
-

@@ -28,12 +28,6 @@ Changes were made in phraseology.
 
 Pub. L. 94–311, §6, June 16, 1976, 90 Stat. 689, required Department of Commerce to implement an affirmative action program within Bureau of the Census for employment of personnel of Spanish origin or descent and to submit a report to Congress within one year of June 16, 1976, on progress of such program.
 
-#### Cross References
-
-Citizenship requirement for Federal employees compensated from appropriated funds, see section 3101 note of Title 5, Government Organization and Employees.
-
-Collection and publication of foreign commerce and trade statistics, applicability of section to, see section 307 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 307 of this title.

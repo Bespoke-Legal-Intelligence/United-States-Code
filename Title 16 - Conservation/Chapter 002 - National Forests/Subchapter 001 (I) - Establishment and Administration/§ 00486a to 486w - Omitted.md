@@ -12,7 +12,7 @@ Ashley National Forest—Act Jan. 26, 1931, ch. 44, 46 Stat. 1040.
 
 Black Hills National Forest—Acts Feb. 15, 1927, ch. 152, 44 Stat. 1099; June 15, 1938, ch. 388, 52 Stat. 686.
 
-Boise National Forest—Acts July 1, 1930, ch. 85, 46 Stat. 841; May 17, 1934, ch. 292, 48 Stat. 779; June 5, 1942, ch. 342, §1, 56 Stat. 320; July 17, 1959, Pub. L. 86–92, 73 Stat. 218.
+Boise National Forest—Acts July 1, 1930, ch. 85, 46 Stat. 841; May 17, 1934, ch. 292, 48 Stat. 779; June 5, 1942, ch. 342, §1, 56 Stat. 320; July 17, 1959, Pub. L. 86–92, 73 Stat. 218; Pub. L. 106–493, §1, Nov. 9, 2000, 114 Stat. 2213.
 
 Cache National Forest—Acts May 14, 1914, ch. 89, 38 Stat. 377; Feb. 17, 1917, ch. 86, 39 Stat. 922; Feb. 28, 1919, chs. 73, 77, 40 Stat. 1204, 1208; Feb. 25, 1932, ch. 57, 47 Stat. 55.
 
@@ -122,7 +122,7 @@ Oregon National Forest—Acts Oct. 21, 1918, ch. 192, 40 Stat. 1015; Feb. 11, 19
 
 Paulina (Oregon) National Forest—Act July 25, 1912, ch. 252, 37 Stat. 200.
 
-Payette National Forest—Acts Oct. 17, 1919, ch. 88, 41 Stat. 324; July 17, 1959, Pub. L. 86–92, 73 Stat. 218.
+Payette National Forest—Acts Oct. 17, 1919, ch. 88, 41 Stat. 324; July 17, 1959, Pub. L. 86–92, 73 Stat. 218; Pub. L. 106–493, §1, Nov. 9, 2000, 114 Stat. 2213.
 
 Pike National Forest—Acts Aug. 24, 1914, ch. 285, 38 Stat. 705; Mar. 4, 1915, ch. 173, 38 Stat. 1194; Sept. 8, 1916, chs. 469, 474, 39 Stat. 844, 848; May 3, 1934, ch. 191, 48 Stat. 657; Dec. 23, 1944, ch. 722, 58 Stat. 924.
 

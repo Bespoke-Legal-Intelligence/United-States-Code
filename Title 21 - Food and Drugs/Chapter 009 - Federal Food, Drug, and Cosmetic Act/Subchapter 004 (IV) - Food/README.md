@@ -11,7 +11,7 @@
 - [&sect; 00343&#8211;1 - National uniform nutrition labeling](%C2%A7%2000343%E2%80%931%20-%20National%20uniform%20nutrition%20labeling.md)
 - [&sect; 00343&#8211;2 - Dietary supplement labeling exemptions](%C2%A7%2000343%E2%80%932%20-%20Dietary%20supplement%20labeling%20exemptions.md)
 - [&sect; 00343&#8211;3 - Disclosure](%C2%A7%2000343%E2%80%933%20-%20Disclosure.md)
-- [&sect; 00343a - Health risks presented by use of saccharin](%C2%A7%2000343a%20-%20Health%20risks%20presented%20by%20use%20of%20saccharin.md)
+- [&sect; 00343a - Repealed. Pub. L. 106&#8211;554, &sect;1(a)(1) \[title V, &sect;517\], Dec. 21, 2000, 114 Stat. 2763, 2763A&#8211;73](%C2%A7%2000343a%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93554%2C%20%C2%A71%28a%29%281%29%20%5Btitle%20V%2C%20%C2%A7517%5D%2C%20Dec.%2021%2C%202000%2C%20114%20Stat.%202763%2C%202763A%E2%80%9373.md)
 - [&sect; 00344 - Emergency permit control](%C2%A7%2000344%20-%20Emergency%20permit%20control.md)
 - [&sect; 00345 - Regulations making exemptions](%C2%A7%2000345%20-%20Regulations%20making%20exemptions.md)
 - [&sect; 00346 - Tolerances for poisonous or deleterious substances in food; regulations](%C2%A7%2000346%20-%20Tolerances%20for%20poisonous%20or%20deleterious%20substances%20in%20food%3B%20regulations.md)

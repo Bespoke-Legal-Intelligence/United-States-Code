@@ -12,7 +12,3 @@ R.S. §4076 derived from act May 30, 1866, ch. 102, 14 Stat. 54.
 
 1902—Act June 14, 1902, substituted “those owing allegiance, whether citizens or not, to the United States” for “citizens of the United States”.
 
-#### Cross References
-
-Aliens excluded from admission to United States, see section 1182 of Title 8, Aliens and Nationality.
-

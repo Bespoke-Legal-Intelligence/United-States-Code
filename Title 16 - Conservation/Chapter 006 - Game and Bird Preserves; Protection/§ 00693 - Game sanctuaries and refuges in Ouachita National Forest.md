@@ -1,6 +1,6 @@
 ### §693. Game sanctuaries and refuges in Ouachita National Forest
 
-For the purpose of providing breeding places and for the protection and administration of game animals, birds, and fish, the President of the United States is authorized, upon the recommendation of the Secretary of Agriculture, toestablish by public proclamation certain specified areas within the Ouachita National Forest as game sanctuaries and refuges.
+For the purpose of providing breeding places and for the protection and administration of game animals, birds, and fish, the President of the United States is authorized, upon the recommendation of the Secretary of Agriculture, to establish by public proclamation certain specified areas within the Ouachita National Forest as game sanctuaries and refuges.
 
 (June 13, 1933, ch. 63, §1, 48 Stat. 128.)
 

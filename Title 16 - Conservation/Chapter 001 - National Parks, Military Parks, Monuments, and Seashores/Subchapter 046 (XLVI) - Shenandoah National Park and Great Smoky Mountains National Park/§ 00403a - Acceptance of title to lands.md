@@ -4,10 +4,6 @@ The Secretary of the Interior is authorized, in his discretion, to accept as her
 
 (May 22, 1926, ch. 363, §2, 44 Stat. 616.)
 
-#### Cross References
-
-Establishment and minimum area of Great Smoky Mountains National Park, see section 403g of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 403c, 403f, 403h, 403i, 403k, 403k–2 of this title.

@@ -8,7 +8,3 @@ The President is hereby authorized to accept participation for the United States
 
 Section 201 of title II of Pub. L. 94–302 provided that: “This title \[enacting this subchapter\] may be cited as the ‘African Development Fund Act’.”
 
-#### Cross References
-
-Advancement of human rights through United States assistance policies with international financial institutions, see section 262d of this title.
-

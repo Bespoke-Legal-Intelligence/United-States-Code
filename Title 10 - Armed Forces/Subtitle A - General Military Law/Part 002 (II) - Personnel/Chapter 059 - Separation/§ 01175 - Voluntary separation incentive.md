@@ -1,10 +1,10 @@
 ### §1175. Voluntary separation incentive
 
-(a)(1) Consistent with this section and the availability of appropriations for this purpose,the Secretary of Defense and the Secretary of Transportation may provide a financial incentive to members of the armed forces described in subsection (b) for voluntary appointment, enlistment, or transfer to a reserve component, requested and approved under subsection (c).
+(a)(1) Consistent with this section and the availability of appropriations for this purpose, the Secretary of Defense and the Secretary of Transportation may provide a financial incentive to members of the armed forces described in subsection (b) for voluntary appointment, enlistment, or transfer to a reserve component, requested and approved under subsection (c).
 
 (2)(A) Except as provided in subparagraph (B), a financial incentive provided a member under this section shall be paid for the period equal to twice the number of years of service of the member, computed as provided in subsection (e)(5).
 
-(B) If, before the expiration of the period otherwise applicable under subparagraph (A) to a member receiving a financial incentive under this section, the member is separated from a reserve component or is transferred to the Retired Reserve, the period for payment of a financial incentive to the member under this section shall terminate on the date of the separation or transfer unless—
+(B) If, before the expiration of the period otherwise applicable under subparagraph (A) to a member receiving a financial incentive underthis section, the member is separated from a reserve component or is transferred to the Retired Reserve, the period for payment of a financial incentive to the member under this section shall terminate on the date of the separation or transfer unless—
 
 &emsp;(i) the separation or transfer is required by reason of the age or number of years of service of the member;
 
@@ -34,13 +34,15 @@
 
 (2) The Secretary, in his discretion, may approve or disapprove a request according to the needs of the armed forces.
 
-(3) After September 30, 2001, the Secretary may not approve a request.
+(3) After December 31, 2001, the Secretary may not approve a request.
 
 (e)(1) The annual payment of the incentive shall equal 2.5 percent of the monthly basic pay the member receives on the date appointed, enlisted, or transferred to the reserve component, multiplied by twelve and multiplied again by the member's years of service.
 
 (2) A member entitled to voluntary separation incentive payments who is also entitled to basic pay for active or reserve service, or compensation for inactive duty training, may elect to have a reduction in the voluntary separation incentive payable for the same period in an amount not to exceed the amount of the basic pay or compensation received for that period.
 
-(3) A member who has received the voluntary separation incentive and who qualifies for retired or retainer pay under this title shall have deducted from each payment of such retired or retainer pay so much of such pay as is based on the service for which he received the voluntary separation incentive until the total amount deducted equals the total amount of voluntary separation incentive received. If the member elected to have a reduction in voluntary separation incentive for any period pursuant to paragraph (2), the deduction required under the preceding sentence shall be reduced accordingly.
+(3)(A) A member who has received the voluntary separation incentive and who qualifies for retired or retainer pay under this title shall have deducted from each payment of such retired or retainer pay so much of such pay as is based on the service for which he received the voluntary separation incentive until the total amount deducted equals the total amount of voluntary separation incentive received. If the member elected to have a reduction in voluntary separation incentive for any period pursuant to paragraph (2), the deduction required under the preceding sentence shall be reduced accordingly.
+
+(B) If a member is receiving simultaneous voluntary separation incentive payments and retired or retainer pay, the member may elect to terminate the receipt of voluntary separation incentive payments. Any such election is permanent and irrevocable. The rate of monthly recoupment from retired or retainer pay of voluntary separation incentive payments received after such an election shall be reduced by a percentage that is equal to a fraction with a denominator equal to the number of months that the voluntary separation incentive payments were scheduled to be paid and a numerator equal to the number of months that would not be paid as a result of the member's decision to terminate the voluntary separation incentive.
 
 (4) A member who is receiving voluntary separation incentive payments shall not be deprived of this incentive by reason of entitlement to disability compensation under the laws administered by the Department of Veterans Affairs, but there shall be deducted from voluntary separation incentive payments an amount equal to the amount of any such disability compensation concurrently received. Notwithstanding the preceding sentence, no deduction may be made from voluntary separation incentive payments for any disability compensation received because of an earlier period of active duty if the voluntary separation incentive is received because of discharge or release from a later period of active duty.
 
@@ -50,7 +52,7 @@
 
 (g) Subject to subsection (h), payments under this provision shall be paid from appropriations available to the Department of Defense and the Department of Transportation for the Coast Guard.
 
-(h)(1) There is established on the books of the Treasury a fund to be known as the “Voluntary Separation Incentive Fund” (hereinafter in this subsection referred to as the “Fund”). The Fund shall be administered by the Secretary of the Treasury. The Fund shall be used for the accumulation of funds in order to finance on an actuarially sound basis the liabilities of the Department of Defense under this section.
+(h)(1) There is established on the books of the Treasury a fund to be known as the “Voluntary Separation Incentive Fund” (hereinafter in this subsection referred to as the “Fund”). The Fund shall be administered by the Secretary of theTreasury. The Fund shall be used for the accumulation of funds in order to finance on an actuarially sound basis the liabilities of the Department of Defense under this section.
 
 (2) There shall be deposited in the Fund the following, which shall constitute the assets of the Fund:
 
@@ -92,9 +94,13 @@
 
 (j) A member of the armed forces who is provided a voluntary separation incentive under this section shall be eligible for the same benefits and services as are provided under chapter 58 of this title, sections 404 and 406 of title 37, and section 503(c) of the National Defense Authorization Act for Fiscal Year 1991 (104 Stat. 1558; 37 U.S.C. 406 note) for members of the armed forces who are involuntarily separated within the meaning of section 1141 of this title.
 
-(Added Pub. L. 102–190, div. A, title VI, §662(a)(1), Dec. 5, 1991, 105 Stat. 1396; amended Pub. L. 102–484, div. A, title X, §1052(16), div. D, title XLIV, §§4405(b), 4406(a), (b), 4422(b), Oct. 23, 1992, 106 Stat. 2499, 2706, 2707, 2719; Pub. L. 103–160, div. A, title V, §§502, 561(h), Nov. 30, 1993, 107 Stat. 1644, 1668; Pub. L. 103–337, div. A, title V, §542(c), Oct. 5, 1994, 108 Stat. 2769; Pub. L. 105–261, div. A, title V, §§561(b), 563(a), (b), Oct. 17, 1998, 112 Stat. 2025, 2028.)
+(Added Pub. L. 102–190, div. A, title VI, §662(a)(1), Dec. 5, 1991, 105 Stat. 1396; amended Pub. L. 102–484, div. A, title X, §1052(16), div. D, title XLIV, §§4405(b), 4406(a), (b), 4422(b), Oct. 23, 1992, 106 Stat. 2499, 2706, 2707, 2719; Pub. L. 103–160, div. A, title V, §§502, 561(h), Nov. 30, 1993, 107 Stat. 1644, 1668; Pub. L. 103–337, div. A, title V, §542(c), Oct. 5, 1994, 108 Stat. 2769; Pub. L. 105–261, div. A, title V, §§561(b), 563(a), (b), Oct. 17, 1998, 112 Stat. 2025, 2028; Pub. L. 106–398, §1 \[\[div. A\], title V, §§571(b), 572(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134, 1654A–135.)
 
 #### Amendments
+
+2000—Subsec. (d)(3). Pub. L. 106–398, §1 \[\[div. A\], title V, §571(b)\], substituted “December 31, 2001” for “September 30, 2001”.
+
+Subsec. (e)(3). Pub. L. 106–398, §1 \[\[div. A\], title V, §572(a)\], designated existing provisions as subpar. (A) and added subpar. (B).
 
 1998—Subsec. (a). Pub. L. 105–261, §563(a), designated existing provisions as par. (1), struck out “, for the period of time the member serves in a reserve component” after “under subsection (c)”, and added par. (2).
 
@@ -134,6 +140,10 @@ Subsec. (e)(6). Pub. L. 102–484, §4406(b), struck out par. (6) which read as 
 
 Subsec. (j). Pub. L. 102–484, §4405(b), added subsec. (j).
 
+#### Effective Date of 2000 Amendment
+
+Pub. L. 106–398, §1 \[\[div. A\], title V, §572(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–136, provided that: “Subparagraph (B) of section 1175(e)(3) of title 10, United States Code, as added by subsection (a), shall apply with respect to decisions by members to terminate voluntary separation incentive payments under section 1175 of title 10, United States Code, to be effective after September 30, 2000.”
+
 #### Effective Date of 1998 Amendment
 
 Pub. L. 105–261, div. A, title V, §563(c), Oct. 17, 1998, 112 Stat. 2028, provided that: “The amendments made by this section \[amending this section\] apply with respect to any person provided a voluntary separation incentive under section 1175 of title 10, United States Code (whether before, on, or after the date of the enactment of this Act) \[Oct. 17, 1998\].”
@@ -172,5 +182,5 @@ Section 662(b) of Pub. L. 102–190 provided that: “Notwithstanding the Intern
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1152, 1153, 1174a of this title; title 29 sections 1662d–1, 2918; title 38 section 3018B.
+This section is referred to in sections 1152, 1153, 1174a of this title; title 29 section 2918; title 38 section 3018B.
 

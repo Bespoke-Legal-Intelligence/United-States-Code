@@ -68,9 +68,9 @@
 
 #### (c) Taking into account certain transfers of assets
 
-(1)(A) In order to meet the requirements of this subsection for purposes of section 1396a(a)(18) of this title, the State plan must provide that if an institutionalized individual or the spouse of such an individual (or, at the option of a State, a noninstitutionalized individual or the spouse of such an individual) disposes of assets for less than fair market value on or after the look-back date specified in subparagraph (B)(i), the individual is ineligible for medical assistance for services described in subparagraph (C)(i) (or, in the case of a noninstitutionalized individual, for the services described in subparagraph (C)(ii)) during the period beginning on the date specified in subparagraph (D) and equal to the number of months specified in subparagraph (E).
+(1)(A) In order to meet the requirements of this subsection for purposes of section 1396a(a)(18) of this title, the State plan must provide that if an institutionalized individual or the spouse of such an individual (or, at the option of a State, a noninstitutionalized individual or the spouse of such an individual) disposes of assets for less than fair market value on or after the look-back date specified in subparagraph (B)(i), the individual is ineligible for medical assistance for services described in subparagraph (C)(i) (or, in the case of a noninstitutionalizedindividual, for the services described in subparagraph (C)(ii)) during the period beginning on the date specified in subparagraph (D) and equal to the number of months specified in subparagraph (E).
 
-(B)(i) The look-back date specified in this subparagraph is a date that is 36 months (or, in the case of payments from a trust or portions of a trust that are treated as assets disposed of bythe individual pursuant to paragraph (3)(A)(iii) or (3)(B)(ii) of subsection (d) of this section, 60 months) before the date specified in clause (ii).
+(B)(i) The look-back date specified in this subparagraph is a date that is 36 months (or, in the case of payments from a trust or portions of a trust that are treated as assets disposed of by the individual pursuant to paragraph (3)(A)(iii) or (3)(B)(ii) of subsection (d) of this section, 60 months) before the date specified in clause (ii).
 
 (ii) The date specified in this clause, with respect to—
 
@@ -132,7 +132,7 @@
 
 &emsp;(C) a satisfactory showing is made to the State (in accordance with regulations promulgated by the Secretary) that (i) the individual intended to dispose of the assets either at fair market value, or for other valuable consideration, (ii) the assets were transferred exclusively for a purpose other than to qualify for medical assistance, or (iii) all assets transferred for less than fair market value have been returned to the individual; or
 
-&emsp;(D) the State determines, under procedures established by the State (in accordance withstandards specified by the Secretary), that the denial of eligibility would work an undue hardship as determined on the basis of criteria established by the Secretary; <sup>1</sup>
+&emsp;(D) the State determines, under procedures established by the State (in accordance with standards specified by the Secretary), that the denial of eligibility would work an undue hardship as determined on the basis of criteria established by the Secretary; <sup>1</sup>
 
 (3) For purposes of this subsection, in the case of an asset held by an individual in common with another person or persons in a joint tenancy, tenancy in common, or similar arrangement, the asset (or the affected portion of such asset) shall be considered to be transferred by such individual when any action is taken, either by such individual or by any other person, that reduces or eliminates such individual's ownership or control of such asset.
 
@@ -194,7 +194,7 @@
 
 &emsp;&emsp;(ii) the State will receive all amounts remaining in the trust upon the death of such individual up to an amount equal to the total medical assistance paid on behalf of the individual under a State plan under this subchapter; and
 
-&emsp;&emsp;(iii) the State makes medical assistance available to individuals described in section1396a(a)(10)(A)(ii)(V) of this title, but does not make such assistance available to individuals for nursing facility services under section 1396a(a)(10)(C) of this title.
+&emsp;&emsp;(iii) the State makes medical assistance available to individuals described in section 1396a(a)(10)(A)(ii)(V) of this title, but does not make such assistance available to individuals for nursing facility services under section 1396a(a)(10)(C) of this title.
 
 &emsp;(C) A trust containing the assets of an individual who is disabled (as defined in section 1382c(a)(3) of this title) that meets the following conditions:
 
@@ -248,7 +248,7 @@ Subsec. (c)(1). Pub. L. 103–66, §13611(a)(1), amended par. (1) generally. Pri
 
 &emsp;“(A) 30 months, or
 
-&emsp;“(B)(i) the total uncompensated value of the resources so transferred, divided by (ii) the average cost, to a private patient at the time of the application, of nursing facility services in the State or, at State option, in the community in which the individual is institutionalized.”
+&emsp;“(B)(i) the total uncompensated value of the resources so transferred, divided by (ii) the averagecost, to a private patient at the time of the application, of nursing facility services in the State or, at State option, in the community in which the individual is institutionalized.”
 
 Subsec. (c)(2)(A). Pub. L. 103–66, §13611(a)(2)(A), substituted “assets” for “resources” in introductory provisions.
 

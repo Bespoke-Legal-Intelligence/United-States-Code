@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(C) A violation of the requirements of section 9608 of this title (relating to financial responsibility, etc.), the regulations issued under section 9608 of this title, or with any denial or detention order under section 9608 of this title.
 
-&emsp;&emsp;(D) A violation of an order under section 9622(d)(3) of this title (relating to settlementagreements for action under section 9604(b) of this title).
+&emsp;&emsp;(D) A violation of an order under section 9622(d)(3) of this title (relating to settlement agreements for action under section 9604(b) of this title).
 
 &emsp;&emsp;(E) Any failure or refusal referred to in section 9622(<i>l</i>) of this title (relating to violations of administrative orders, consent decrees, or agreements under section 9620 of this title).
 
@@ -26,7 +26,7 @@
 
 #### (4) Review
 
-&emsp;Any person against whom a civil penalty is assessed under this subsection may obtain review thereof in the appropriate district court of the United States by filing a notice of appeal in such court within 30 days from the date of such order and by simultaneously sending a copy of such notice by certified mail to the President. The President shall promptly file in such court a certified copy of the record upon which such violation was found or such penalty imposed. If any person fails to pay an assessment of a civil penalty after it has become a final and unappealable order or after the appropriate court has entered final judgment in favor of the United States, the President may request the Attorney General of the United States to institute a civil action in an appropriate district court of the United States to collect the penalty, and such court shall have jurisdiction to hear and decide any such action. In hearing such action, the court shall have authority to review the violation and the assessment of the civil penalty on the record.
+&emsp;Any person against whom a civil penalty is assessed under this subsection may obtain review thereof in the appropriate district court of the United States by filing a notice of appeal in such court within 30 days from the date of such order and by simultaneously sending a copy of such notice by certified mail to the President. The President shall promptly file in such court a certified copy of the record upon which such violation was found or such penalty imposed. If any person fails to pay an assessment of a civil penalty after it has becomea final and unappealable order or after the appropriate court has entered final judgment in favor of the United States, the President may request the Attorney General of the United States to institute a civil action in an appropriate district court of the United States to collect the penalty, and such court shall have jurisdiction to hear and decide any such action. In hearing such action, the court shall have authority to review the violation and the assessment of the civil penalty on the record.
 
 #### (5) Subpoenas
 

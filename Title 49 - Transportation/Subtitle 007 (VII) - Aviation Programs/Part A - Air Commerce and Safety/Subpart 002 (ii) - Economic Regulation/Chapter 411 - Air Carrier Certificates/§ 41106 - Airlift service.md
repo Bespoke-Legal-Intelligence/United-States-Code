@@ -2,7 +2,7 @@
 
 (a)
 
-General.—(1) Except as provided in subsection (b) of this section, the transportation of passengers or property by transport category aircraft in interstate air transportation obtained by the Secretary of Defense or the Secretary of a military department through a contract of at least 31 days for airlift service in the United States may be provided only by an air carrier that—
+Interstate Transportation.—(1) Except as provided in subsection (d) of this section, the transportation of passengers or property by transport category aircraft in interstate air transportation obtained by the Secretary of Defense or the Secretary of a military department through a contract for airlift service in the United States may be provided only by an air carrier that—
 
 &emsp;(A) has aircraft in the civil reserve air fleet or offers to place the aircraft in that fleet; and
 
@@ -12,9 +12,17 @@ General.—(1) Except as provided in subsection (b) of this section, the transpo
 
 (b)
 
+Transportation Between the United States and Foreign Locations.—Except as provided in subsection (d), the transportation of passengers or property by transport category aircraft between a place in the United States and a place outside the United States obtained by the Secretary of Defense or the Secretary of a military department through a contract for airlift service shall be provided by an air carrier referred to in subsection (a).
+
+(c)
+
+Transportation Between Foreign Locations.—The transportation of passengers or property by transport category aircraft between two places outside the United States obtained by the Secretary of Defense or the Secretary of a military department through a contract for airlift service shall be provided by an air carrier that has aircraft in the civil reserve air fleet whenever transportation by such an air carrier is reasonably available.
+
+(d)
+
 Exception.—When the Secretary of Defense decides that no air carrier holding a certificate under section 41102 is capable of providing, and willing to provide, the airlift service, the Secretary of Defense may make a contract to provide the service with an air carrier not having a certificate.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1121.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1121; Pub. L. 106–398, §1 \[\[div. A\], title III, §385(a), (b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–87.)
 
 Historical and Revision Notes
 
@@ -41,4 +49,14 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 19
 In subsection (a), before clause (1), the word “passengers” is substituted for “persons” for consistency in the revised title. The words “Secretary of Defense” are substituted for “Department of Defense” because of 10:113(a). The words “an air carrier” are substituted for “carriers” for clarity.
 
 In subsection (b), the words “to provide the service” are added for clarity.
+
+#### Amendments
+
+2000—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title III, §385(a)(1), (b)\], in heading substituted “Interstate Transportation” for “General” and in introductory provisions of par. (1), substituted “Except as provided in subsection (d) of this section,” for “Except as provided in subsection (b) of this section,” and struck out “of at least 31 days” after “through a contract”.
+
+Subsecs. (b) to (d). Pub. L. 106–398, §1 \[\[div. A\], title III, §385(a)(2), (3)\], added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
+
+#### Effective Date of 2000 Amendment
+
+Pub. L. 106–398, §1 \[\[div. A\], title III, §385(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–87, provided that: “The amendments made by this section \[amending this section\] shall take effect on October 1, 2000.”
 

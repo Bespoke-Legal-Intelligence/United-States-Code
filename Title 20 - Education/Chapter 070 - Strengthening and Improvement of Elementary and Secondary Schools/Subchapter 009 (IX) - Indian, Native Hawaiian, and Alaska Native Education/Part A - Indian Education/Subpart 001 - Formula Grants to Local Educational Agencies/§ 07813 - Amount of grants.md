@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in subsection (b) of this section and paragraph (2), the Secretary shallallocate to each local educational agency which has an approved application under this subpart an amount equal to the product of—
+&emsp;Except as provided in subsection (b) of this section and paragraph (2), the Secretary shall allocate to each local educational agency which has an approved application under this subpart an amount equal to the product of—
 
 &emsp;&emsp;(A) the number of Indian children who are eligible under section 7816 of this title and served by such agency; and
 

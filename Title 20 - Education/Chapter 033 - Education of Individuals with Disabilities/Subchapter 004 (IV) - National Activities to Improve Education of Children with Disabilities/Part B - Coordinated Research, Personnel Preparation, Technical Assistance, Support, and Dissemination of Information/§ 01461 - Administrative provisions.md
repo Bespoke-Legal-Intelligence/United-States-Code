@@ -50,7 +50,7 @@
 
 &emsp;&emsp;(G) An Indian tribe or a tribal organization (as defined under section 450b of title 25).
 
-&emsp;&emsp;(H) A for-profit organization, if the Secretary finds it appropriate in light of thepurposes of a particular competition for a grant, contract, or cooperative agreement under this part.
+&emsp;&emsp;(H) A for-profit organization, if the Secretary finds it appropriate in light of the purposes of a particular competition for a grant, contract, or cooperative agreement under this part.
 
 #### (2) Special rule
 

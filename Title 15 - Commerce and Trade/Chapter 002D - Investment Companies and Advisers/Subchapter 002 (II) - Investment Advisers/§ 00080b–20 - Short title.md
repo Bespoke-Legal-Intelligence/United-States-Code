@@ -8,17 +8,3 @@ This subchapter may be cited as the “Investment Advisers Act of 1940”.
 
 Pub. L. 104–290, title III, §301, Oct. 11, 1996, 110 Stat. 3436, provided that: “This title \[enacting section 80b–3a of this title, amending sections 80b–2, 80b–3, and 80b–18a of this title and section 1002 of Title 29, Labor, and enacting provisions set out as notes under sections 80b–2, 80b–3a, and 80b–10 of this title and section 1002 of Title 29\] may be cited as the ‘Investment Advisers Supervision Coordination Act’.”
 
-#### Cross References
-
-Corporation of Foreign Bondholders Act, 1933, see section 77mm of this title.
-
-Investment Company Act of 1940, see section 80a–52 of this title.
-
-Public Utility Holding Company Act of 1935, see section 79 of this title.
-
-Securities Act of 1933, see section 77a of this title.
-
-Securities Exchange Act of 1934, see section 78a of this title.
-
-Trust Indenture Act of 1939, see section 77aaa of this title.
-

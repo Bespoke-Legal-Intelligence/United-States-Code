@@ -102,7 +102,7 @@ Subsecs. (c) to (f). Pub. L. 93–302, §2, added subsecs. (c) to (f).
 
 1967—Subsec. (b). Pub. L. 90–175 substituted “1968” for “1967” and “$115,700,000” for “$110,000,000”.
 
-1966—Subsec. (b). Pub. L. 89–572 authorized an appropriation of $110,000,000 for the fiscal year 1967 and provided for obligation of limited amount of funds undercontracts or agreements to carry out research relating to the basic responsibilities of the Peace Corps and for continuing availability of unobligated balances of funds.
+1966—Subsec. (b). Pub. L. 89–572 authorized an appropriation of $110,000,000 for the fiscal year 1967 and provided for obligation of limited amount of funds under contracts or agreements to carry out research relating to the basic responsibilities of the Peace Corps and for continuing availability of unobligated balances of funds.
 
 1965—Subsec. (b). Pub. L. 89–134 substituted “1966” for “1965” and inserted $500,000 limit on funds available for research.
 

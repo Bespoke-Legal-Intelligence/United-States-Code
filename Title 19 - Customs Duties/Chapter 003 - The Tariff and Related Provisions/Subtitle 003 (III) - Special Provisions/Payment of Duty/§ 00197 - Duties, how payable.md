@@ -14,11 +14,3 @@ Prior to its incorporation into the Code, R.S. §3009, as amended by act Feb. 27
 
 Its provisions were changed to conform to section 198 of this title authorizing the receipt of certified checks in payment of duties; section 405 of Title 31, Money and Finance (act Feb. 28, 1878, ch. 20, §3, 20 Stat. 26) making certain certificates and treasury notes receivable for customs; section 451 of Title 31, (act Dec. 24, 1919, ch. 15, §1, 41 Stat. 370) making gold certificates a legal tender in payment of all debts and dues, public and private; and a provision of act Mar. 14, 1900, ch. 41, §6, 31 Stat. 47, as amended (omitted from the Code as superseded by section 451 of Title 31) that gold certificates should be receivable for customs.
 
-#### Cross References
-
-Coins and currencies of United States as legal tender for all public debts, charges, taxes, duties, and dues, see section 5103 of Title 31, Money and Finance.
-
-Gold coin discontinued and existing gold coins withdrawn from circulation, see section 5118 of Title 31.
-
-Provisions for payment of obligations in gold as against public policy, see section 5118 of Title 31.
-

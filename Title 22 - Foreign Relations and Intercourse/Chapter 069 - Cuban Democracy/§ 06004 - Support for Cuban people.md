@@ -72,7 +72,7 @@ The United States Government may provide assistance, through appropriate nongove
 
 #### Amendment of Section
 
-<i>Pub. L. 104–114, title II, §204(d)(3), Mar. 12, 1996, 110 Stat. 810, provided that on date on which President submits determination under section 6063(c) of this title that democratically elected government in Cuba is in power, this section is amended by repealing subsection (d).</i>
+<i>Pub. L. 104–114, title II, §204(d)(3), Mar. 12, 1996, 110 Stat. 810, provided that on date on</i><i>which President submits determination under section 6063(c) of this title that democratically elected government in Cuba is in power, this section is amended by repealing subsection (d).</i>
 
 #### References in Text
 

@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(B) lead-based paint activities contractors certified in accordance with paragraph (1).
 
-> &emsp;The fees shall be established at such level as is necessary to cover the costs of administeringand enforcing the standards and regulations under this section which are applicable to such programs and contractors. The fee shall not be imposed on any State, local government, or nonprofit training program. The Administrator (or the State in the case of an authorized State program) may waive the fee for lead-based paint activities contractors under subparagraph (A) for the purpose of training their own employees.
+> &emsp;The fees shall be established at such level as is necessary to cover the costs of administering and enforcing the standards and regulations under this section which are applicable to such programs and contractors. The fee shall not be imposed on any State, local government, or nonprofit training program. The Administrator (or the State in the case of an authorized State program) may waive the fee for lead-based paint activities contractors under subparagraph (A) for the purpose of training their own employees.
 
 #### (b) Lead-based paint activities
 
@@ -50,7 +50,7 @@ For purposes of this subchapter, the term “lead-based paint activities” mean
 
 #### (2) Study of certification
 
-&emsp;The Administrator shall conduct a study of the extent to which persons engaged in various types of renovation and remodeling activities in target housing, public buildings constructed before 1978, and commercial buildings are exposed to lead in the conduct of such activities or disturb lead and create a lead-based paint hazard on a regular or occasional basis. The Administrator shall complete such study and publish the results thereof within 30 months after October 28, 1992.
+&emsp;The Administrator shall conduct a study of the extent to which persons engaged in varioustypes of renovation and remodeling activities in target housing, public buildings constructed before 1978, and commercial buildings are exposed to lead in the conduct of such activities or disturb lead and create a lead-based paint hazard on a regular or occasional basis. The Administrator shall complete such study and publish the results thereof within 30 months after October 28, 1992.
 
 #### (3) Certification determination
 

@@ -6,10 +6,13 @@
 | \[4022, 4023. Repealed.\] |  |
 | [4024\.](%C2%A7%2004024%20-%20Expert%20accountant%20for%20Inspector%20General.md) | Expert accountant for Inspector General. |
 | [4025\.](%C2%A7%2004025%20-%20Production%20of%20supplies%20and%20munitions%20hours%20and%20pay%20of%20laborers%20and%20mechanics.md) | Production of supplies and munitions: hours and pay of laborers and mechanics. |
+| [4027\.](%C2%A7%2004027%20-%20Civilian%20special%20agents%20of%20the%20Criminal%20Investigation%20Command%20authority%20to%20execute%20warrants%20and%20make%20arrests.md) | Civilian special agents of the Criminal Investigation Command: authority to execute warrants and make arrests. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2000—Pub. L. 106–398, §1 \[\[div. A\], title V, §554(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–126, added item 4027.
 
 1989—Pub. L. 101–189, div. A, title XI, §1124(b)(2), Nov. 29, 1989, 103 Stat. 1559, added item 4021.
 
@@ -33,3 +36,4 @@ This chapter is referred to in section 1552 of this title.
 - [&sect; 04023 - Repealed. Pub. L. 87&#8211;651, title I, &sect;116(1), Sept. 7, 1962, 76 Stat. 513](%C2%A7%2004023%20-%20Repealed.%20Pub.%20L.%2087%E2%80%93651%2C%20title%20I%2C%20%C2%A7116%281%29%2C%20Sept.%207%2C%201962%2C%2076%20Stat.%20513.md)
 - [&sect; 04024 - Expert accountant for Inspector General](%C2%A7%2004024%20-%20Expert%20accountant%20for%20Inspector%20General.md)
 - [&sect; 04025 - Production of supplies and munitions hours and pay of laborers and mechanics](%C2%A7%2004025%20-%20Production%20of%20supplies%20and%20munitions%20hours%20and%20pay%20of%20laborers%20and%20mechanics.md)
+- [&sect; 04027 - Civilian special agents of the Criminal Investigation Command authority to execute warrants and make arrests](%C2%A7%2004027%20-%20Civilian%20special%20agents%20of%20the%20Criminal%20Investigation%20Command%20authority%20to%20execute%20warrants%20and%20make%20arrests.md)

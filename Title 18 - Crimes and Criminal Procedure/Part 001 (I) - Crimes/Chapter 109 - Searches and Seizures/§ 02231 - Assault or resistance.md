@@ -32,18 +32,6 @@ Minor changes were made in translation and phraseology.
 
 Subsec. (b). Pub. L. 103–322, §330016(1)(L), substituted “fined under this title” for “fined not more than $10,000”.
 
-#### Canal Zone
-
-Applicability of section to Canal Zone, see section 14 of this title.
-
-#### Cross References
-
-Assaulting or resisting certain officers or employees, see section 111 of this title.
-
-Jurisdiction of offenses, see section 3241 of this title.
-
-Protection of officers and employees of United States, see section 1114 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 14 of this title.

@@ -18,12 +18,6 @@
 
 1982—Pub. L. 97–258, §2(b)(13)(A), Sept. 13, 1982, 96 Stat. 1058, added item 9541.
 
-#### Cross References
-
-Miscellaneous procurement provisions, general military law, see section 2381 et seq. of this title.
-
-Property records, see section 2721 of this title.
-
 
 ---
 

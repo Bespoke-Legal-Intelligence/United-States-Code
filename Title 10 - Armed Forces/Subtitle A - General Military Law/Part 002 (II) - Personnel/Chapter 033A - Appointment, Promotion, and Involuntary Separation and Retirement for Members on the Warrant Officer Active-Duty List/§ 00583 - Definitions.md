@@ -8,7 +8,7 @@ In this chapter:
 
 &emsp;&emsp;(B) are senior to the warrant officer designated by the Secretary concerned to be the junior warrant officer in the promotion zone eligible for promotion to the next higher grade.
 
-&emsp;(2) The term “warrant officers above the promotion zone” means a group of officers on a warrant officer active-duty list in the samegrade (or the same grade and competitive category) who—
+&emsp;(2) The term “warrant officers above the promotion zone” means a group of officers on a warrant officer active-duty list in the same grade (or the same grade and competitive category) who—
 
 &emsp;&emsp;(A) are eligible for consideration for promotion to the next higher grade;
 

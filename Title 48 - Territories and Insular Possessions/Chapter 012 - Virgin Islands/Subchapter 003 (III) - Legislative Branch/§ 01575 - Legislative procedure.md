@@ -2,7 +2,7 @@
 
 #### (a) Quorum and method of voting on bills
 
-The quorum of the legislature shall consist of eight of its members. No bill shall become a law unless it shall have been passed at a meeting, at which a quorum was present, by the affirmative vote of a majority of the members present and voting, which vote shall be by yeas and nays.
+The number of members of the legislature needed to constitute a quorum shall be determined by the laws of the Virgin Islands. No bill shall become a law unless it shall have been passed at a meeting, at which a quorum was present, by the affirmative vote of a majority of the members present and voting, which vote shall be by yeas and nays.
 
 #### (b) Enacting clause of acts
 
@@ -28,9 +28,11 @@ The legislature shall keep a journal of its proceedings and publish the same. Ev
 
 A listing of all laws enacted by the legislature each year shall be transmitted with the annual report to Congress required pursuant to section 1591 of this title.
 
-(July 22, 1954, ch. 558, §9, 68 Stat. 501; Pub. L. 90–496, §§2, 3, Aug. 23, 1968, 82 Stat. 837; Pub. L. 95–134, title III, §301(b), Oct. 15, 1977, 91 Stat. 1163; Pub. L. 95–348, §4(c)(1), Aug. 18, 1978, 92 Stat. 490; Pub. L. 96–470, title II, §206(d), Oct. 19, 1980, 94 Stat. 2244.)
+(July 22, 1954, ch. 558, §9, 68 Stat. 501; Pub. L. 90–496, §§2, 3, Aug. 23, 1968, 82 Stat. 837; Pub. L. 95–134, title III, §301(b), Oct. 15, 1977, 91 Stat. 1163; Pub. L. 95–348, §4(c)(1), Aug. 18, 1978, 92 Stat. 490; Pub. L. 96–470, title II, §206(d), Oct. 19, 1980, 94 Stat. 2244; Pub. L. 106–364, §2, Oct. 27, 2000, 114 Stat. 1408.)
 
 #### Amendments
+
+2000—Subsec. (a). Pub. L. 106–364 amended first sentence generally. Prior to amendment, first sentence read as follows: “The quorum of the legislature shall consist of eight of its members.”
 
 1980—Subsec. (g). Pub. L. 96–470 substituted provision requiring a listing of all laws enacted by the legislature each year be transmitted with the annual report to Congress required by section 1591 of this title for provision requiring copies of all laws enacted by the legislature be transmitted within 15 days of their enactment by the Governor to the Secretary of the Interior and by the Secretary annually to Congress.
 

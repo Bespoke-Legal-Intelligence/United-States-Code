@@ -25,7 +25,7 @@ The United States Customs Court \[now Court of International Trade\] as “const
 
 Provisions similar to these were contained in act Sept. 21, 1922, ch. 356, title IV, §518, 42 Stat. 972. That section was superseded by section 518 of the Tariff Act of 1930, and was repealed by section 651 (a)(1) of said 1930 act.
 
-The sentence in the former first paragraph as to sitting in a case previously participated in, is from act Aug. 5, 1909, ch. 6, §28, 36 Stat. 98, which combined and amended Customs Administrative Act June 10, 1890, ch. 407, §12, 26 Stat. 136, and section 31, as added by act May 27, 1908, ch. 205, 35 Stat. 406. Section 12 of the act of 1890 was expressly saved from repeal by act Sept. 21, 1922, ch. 356, title IV, §643, 42 Stat. 989, and prior acts, but its provisions, other than the sentence above mentioned, were omitted from the Code.
+The sentence in the former first paragraph as to sitting in a case previously participated in, is from act Aug. 5, 1909, ch. 6, §28, 36 Stat. 98, which combined and amended Customs Administrative Act June 10, 1890, ch. 407, §12, 26 Stat. 136, and section 31, as added by act May 27, 1908, ch. 205, 35 Stat. 406. Section 12 of the act of 1890 was expressly saved from repeal by act Sept. 21, 1922, ch. 356, title IV, §643, 42 Stat. 989, and prior acts,but its provisions, other than the sentence above mentioned, were omitted from the Code.
 
 Provisions for the review of decisions of Boards of General Appraisers by the Circuit Courts, made by section 15 of the Customs Administrative Act of June 10, 1890, ch. 407, were superseded by provisions for such review by the Court of Customs Appeals created by section 29 added to that act by the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6. The provisions of said new section 29 were incorporated in and superseded by chapter 8 of the Judicial Code of March 3, 1911, incorporated into the Code as former chapter 8 of Title 28, Judicial Code and Judiciary.
 
@@ -35,25 +35,21 @@ R.S. §2609 provided for the appointment of merchant appraisers. R.S. §2610 mad
 
 R.S. §2945, which contained a provision similar to that of R.S. §2610, was repealed, without mention of section 2610, by said Customs Administrative Act of June 10, 1890, ch. 407, §29, 26 Stat. 141, and was again repealed by section 642 of act Sept. 21, 1922.
 
-R.S. §2725, which prescribed the compensation of merchant appraisers, and section 2726, which prescribed thesalary of the general appraiser at New York, were superseded by the provisions relating to general appraisers and appraisers made by the Customs Administrative Act of June 10, 1890, ch. 407, §§12, 13, 26 Stat. 136, as amended by the Payne-Aldrich Act of Aug. 5, 1909, ch. 6, §28.
+R.S. §2725, which prescribed the compensation of merchant appraisers, and section 2726, which prescribed the salary of the general appraiser at New York, were superseded by the provisions relating to general appraisers and appraisers made by the Customs Administrative Act of June 10, 1890, ch. 407, §§12, 13, 26 Stat. 136, as amended by the Payne-Aldrich Act of Aug. 5, 1909, ch. 6, §28.
 
 R.S. §2727 fixed the salary of the four general appraisers at the sum of $2,500 a year each, and their actual traveling expenses. It was repealed by act Feb. 27, 1877, ch. 69, 19 Stat. 246.
 
 #### Amendments
 
-1996—Pub. L. 104–317, title V, §501(b)(3), Oct. 19, 1996, 110 Stat. 3856, substituted “Duties of chief judge” for “Duties of chief judge; precedence of judges” in item 253 and added item 258.
+<b>1996</b>—Pub. L. 104–317, title V, §501(b)(3), Oct. 19, 1996, 110 Stat. 3856, substituted “Duties of chief judge” for “Duties of chief judge; precedence of judges” in item 253 and added item 258.
 
-1980—Pub. L. 96–417, title V, §501(2), Oct. 10, 1980, 94 Stat. 1742, substituted “COURT OF INTERNATIONAL TRADE” for “CUSTOMS COURT” in chapter heading.
+<b>1980</b>—Pub. L. 96–417, title V, §501(2), Oct. 10, 1980, 94 Stat. 1742, substituted “COURT OF INTERNATIONAL TRADE” for “CUSTOMS COURT” in chapter heading.
 
-1970—Pub. L. 91–271, title I, §123(a), June 2, 1970, 84 Stat. 282, substituted “Single-judge trial” for “Divisions; powers and assignments” in item 254 and “Three-judge trials” for “Publication of decisions” in item 255 and added items 256 and 257.
+<b>1970</b>—Pub. L. 91–271, title I, §123(a), June 2, 1970, 84 Stat. 282, substituted “Single-judge trial” for “Divisions; powers and assignments” in item 254 and “Three-judge trials” for “Publication of decisions” in item 255 and added items 256 and 257.
 
 #### Rules of the United States Court of International Trade
 
 See Appendix to this title.
-
-#### Cross References
-
-Jurisdiction of Court of International Trade, see section 1581 et seq. of this title.
 
 
 ---

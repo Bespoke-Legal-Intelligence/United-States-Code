@@ -14,33 +14,11 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1982—Pub. L. 97–258 substituted “Deposit of moneys in pending or adjudicated cases” for “Deposit” in section catchline.
+<b>1982</b>—Pub. L. 97–258 substituted “Deposit of moneys in pending or adjudicated cases” for “Deposit” in section catchline.
 
 #### Registry Administration Account
 
 Pub. L. 100–459, title IV, §400, Oct. 1, 1988, 102 Stat. 2211, provided: “That any funds hereafter collected by the Judiciary as a charge for services rendered in administering accounts kept in a court's registry shall be deposited into a separate account entitled ‘Registry Administration Account’ in the Treasury of the United States. Such funds shall remain available to the Judiciary until expended to reimburse any appropriation for the amount paid out of such appropriation for expenses of the Courts of Appeals, District Courts and Other Judicial Services and the Administrative Office of the United States Courts”.
-
-#### Federal Rules of Civil Procedure
-
-Bringing funds into court, see rule C, Appendix to this title.
-
-Claims against proceeds in registry, see rule E.
-
-Deposit in court, see rule 67.
-
-Funds in court registry, see rule E.
-
-#### Cross References
-
-Condemnation proceedings, deposit in registry of court, see section 258a of Title 40, Public Buildings, Property, and Works.
-
-Court officers depositing registry moneys, see section 646 of Title 18, Crimes and Criminal Procedure.
-
-Depositaries of public moneys and financial agents of Government, see section 90 of Title 12, Banks and Banking.
-
-Limitation of liability, deposit of value of interest in court, see section 185 of Title 46, Appendix, Shipping.
-
-Powers upon designation and assignment, exception as to permanent designation of depository of funds, see section 296 of this title.
 
 #### Section Referred to in Other Sections
 

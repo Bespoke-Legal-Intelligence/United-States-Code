@@ -50,7 +50,7 @@ The Great Lakes National Program Office (previously established by the Administr
 
 &emsp;The Program Office shall—
 
-&emsp;&emsp;(A) in cooperation with appropriate Federal, State, tribal, and international agencies, and in accordance with section 1251(e) of this title, develop and implement specific action plans to carry out the responsibilities of the United States under the Great Lakes Water Quality Agreement of 1978, as amended by the Water Quality Agreement of 1987 and any other agreements and amendments,;<sup>1</sup>
+&emsp;&emsp;(A) in cooperation with appropriate Federal, State, tribal, and international agencies, and in accordance with section 1251(e) of this title, develop and implement specific action plans to carry out the responsibilities of the United States under the Great Lakes Water Quality Agreement of 1978, as amended by the Water Quality Agreement of 1987 and any other agreements and amendments,; <sup>1</sup>
 
 &emsp;&emsp;(B) establish a Great Lakes system-wide surveillance network to monitor the water quality of the Great Lakes, with specific emphasis on the monitoring of toxic pollutants;
 
@@ -110,7 +110,7 @@ The Great Lakes National Program Office (previously established by the Administr
 
 &emsp;(B) The Program Office shall—
 
-&emsp;&emsp;(i) by December 31, 1990, complete chemical, physical, and biological assessments of the contaminated sediments at the locations selected for the study and demonstration projects;
+&emsp;&emsp;(i) by December 31, 1990, complete chemical, physical, and biological assessments of the contaminated sediments at the locationsselected for the study and demonstration projects;
 
 &emsp;&emsp;(ii) by December 31, 1990, announce the technologies that will be demonstrated at each location and the numerical standard of protection intended to be achieved at each location;
 
@@ -134,39 +134,7 @@ The Great Lakes National Program Office (previously established by the Administr
 
 &emsp;The Administrator shall, in the Agency's annual budget submission to Congress, include a funding request for the Program Office as a separate budget line item.
 
-#### (10) Comprehensive report
-
-&emsp;Within 90 days after the end of each fiscal year, the Administrator shall submit to Congress a comprehensive report which—
-
-&emsp;&emsp;(A) describes the achievements in the preceding fiscal year in implementing the Great Lakes Water Quality Agreement of 1978, as amended by the Water Quality Agreement of 1987 and any other agreements and amendments, and shows by categories (including judicial enforcement, research, State cooperative efforts, and general administration) the amounts expended on Great Lakes water quality initiatives in such preceding fiscal year;
-
-&emsp;&emsp;(B) describes the progress made in such preceding fiscal year in implementing the system of surveillance of the water quality in the Great Lakes System, including the monitoring of groundwater and sediment, with particular reference to toxic pollutants;
-
-&emsp;&emsp;(C) describes the long-term prospects for improving the condition of the Great Lakes; and
-
-&emsp;&emsp;(D) provides a comprehensive assessment of the planned efforts to be pursued in the succeeding fiscal year for implementing the Great Lakes Water Quality Agreement of 1978, as amended by the Water Quality Agreement of 1987 and any other agreements and amendments,,<sup>2</sup> which assessment shall—
-
-&emsp;&emsp;&emsp;(i) show by categories (including judicial enforcement, research, State cooperative efforts, and general administration) the amount anticipated to be expended on Great Lakes water quality initiatives in the fiscal year to which the assessment relates; and
-
-&emsp;&emsp;&emsp;(ii) include a report of current programs administered by other Federal agencies which make available resources to the Great Lakes water quality management efforts.
-
-#### (11) Confined disposal facilities
-
-&emsp;(A) The Administrator, in consultation with the Assistant Secretary of the Army for Civil Works, shall develop and implement, within one year of November 16, 1990, management plans for every Great Lakes confined disposal facility.
-
-&emsp;(B) The plan shall provide for monitoring of such facilities, including—
-
-&emsp;&emsp;(i) water quality at the site and in the area of the site;
-
-&emsp;&emsp;(ii) sediment quality at the site and in the area of the site;
-
-&emsp;&emsp;(iii) the diversity, productivity, and stability of aquatic organisms at the site and in the area of the site; and
-
-&emsp;&emsp;(iv) such other conditions as the Administrator deems appropriate.
-
-&emsp;(C) The plan shall identify the anticipated use and management of the site over the following twenty-year period including the expected termination of dumping at the site, the anticipated need for site management, including pollution control, following the termination of the use of the site.
-
-&emsp;(D) The plan shall identify a schedule for review and revision of the plan which shall not be less frequent than five years after adoption of the plan and every five years thereafter.
+#### (10) Omitted
 
 #### (d) Great Lakes research
 
@@ -176,11 +144,11 @@ The Great Lakes National Program Office (previously established by the Administr
 
 #### (2) Identification of issues
 
-&emsp;The Research Office shall identify issues relating to the Great Lakes resources on which research is needed. The Research Office shall submit a report to Congress on such issues before the end of each fiscal year which shall identify any changes in the Great Lakes system <sup>3</sup> with respect to such issues.
+&emsp;The Research Office shall identify issues relating to the Great Lakes resources on which research is needed. The Research Office shall submit a report to Congress on such issues before the end of each fiscal year which shall identify any changes in the Great Lakes system <sup>2</sup> with respect to such issues.
 
 #### (3) Inventory
 
-&emsp;The Research Office shall identify and inventory Federal, State, university, and tribal environmental research programs (and, to the extent feasible, those of private organizations and other nations) relating to the Great Lakes system,<sup>3</sup> and shall update that inventory every four years.
+&emsp;The Research Office shall identify and inventory Federal, State, university, and tribal environmental research programs (and, to the extent feasible, those of private organizations and other nations) relating to the Great Lakes system,<sup>2</sup> and shall update that inventory every four years.
 
 #### (4) Research exchange
 
@@ -188,7 +156,7 @@ The Great Lakes National Program Office (previously established by the Administr
 
 #### (5) Research program
 
-&emsp;The Research Office shall develop, in cooperation with the Coordination Office, a comprehensive environmental research program and data base for the Great Lakes system.<sup>3</sup> The data base shall include, but not be limited to, data relating to water quality, fisheries, and biota.
+&emsp;The Research Office shall develop, in cooperation with the Coordination Office, a comprehensive environmental research program and data base for the Great Lakes system.<sup>2</sup> The data base shall include, but not be limited to, data relating to water quality, fisheries, and biota.
 
 #### (6) Monitoring
 
@@ -208,7 +176,7 @@ The Great Lakes National Program Office (previously established by the Administr
 
 &emsp;Each plan prepared under paragraph (1) shall—
 
-&emsp;&emsp;(A) identify all proposed research dedicated to activities conducted under the Great Lakes Water Quality Agreement of 1978, as amended by the Water Quality Agreement of 1987 and any other agreements and amendments,;<sup>4</sup>
+&emsp;&emsp;(A) identify all proposed research dedicated to activities conducted under the Great Lakes Water Quality Agreement of 1978, as amended by the Water Quality Agreement of 1987 and any other agreements and amendments,; <sup>3</sup>
 
 &emsp;&emsp;(B) include the Agency's assessment of priorities for research needed to fulfill the terms of such Agreement; and
 
@@ -222,11 +190,11 @@ The Great Lakes National Program Office (previously established by the Administr
 
 #### (f) Interagency cooperation
 
-The head of each department, agency, or other instrumentality of the Federal Government which is engaged in, is concerned with, or has authority over programs relating to research, monitoring, and planning to maintain, enhance, preserve, or rehabilitate the environmental quality and natural resources of the Great Lakes, including the Chief of Engineers of the Army, the Chief of the Soil Conservation Service, the Commandant of the Coast Guard, the Director of the Fish and Wildlife Service, and the Administrator of the National Oceanic and Atmospheric Administration, shall submit an annual report to the Administrator with respect to the activities of that agency or office affecting compliance with the Great Lakes Water Quality Agreement of 1978, as amended by the Water Quality Agreement of 1987 and any other agreements and amendments,.<sup>4</sup>
+The head of each department, agency, or other instrumentality of the Federal Government which is engaged in, is concerned with, or has authority over programs relating to research, monitoring, and planning to maintain, enhance, preserve, or rehabilitate the environmental quality and natural resources of the Great Lakes, including the Chief of Engineers of the Army, the Chief of the Soil Conservation Service, the Commandant of the Coast Guard, the Director of the Fish and Wildlife Service, and the Administrator of the National Oceanic and Atmospheric Administration, shall submit an annual report to the Administrator with respect to the activities of that agency or office affecting compliance with the Great Lakes Water Quality Agreement of 1978, as amended by the Water Quality Agreement of 1987 and any other agreements and amendments,.<sup>3</sup>
 
 #### (g) Relationship to existing Federal and State laws and international treaties
 
-Nothing in this section shall be construed to affect the jurisdiction, powers, or prerogatives of any department, agency, or officer of the Federal Government or of any State government, or of any tribe, nor any powers, jurisdiction, or prerogatives of any international body createdby treaty with authority relating to the Great Lakes.
+Nothing in this section shall be construed to affect the jurisdiction, powers, or prerogatives of any department, agency, or officer of the Federal Government or of any State government, or of any tribe, nor any powers, jurisdiction, or prerogatives of any international body created by treaty with authority relating to the Great Lakes.
 
 #### (h) Authorizations of Great Lakes appropriations
 
@@ -244,6 +212,8 @@ There are authorized to be appropriated to the Administrator to carry out this s
 
 November 16, 1990, referred to in subsec. (c)(3)(C), (7)(C), was in the original “the enactment of this Act”, and “the date of the enactment of this title” which were translated as meaning the date of enactment of Pub. L. 101–596, title I of which enacted subsec. (c)(3), (7)(C), to reflect the probable intent of Congress.
 
+Subsec. (c)(10) of this section, which required the Administrator to submit a comprehensive annual report to Congress on implementation of the Great Lakes Water Quality Agreement of 1978 and certain related matters, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 163 of House Document No. 103–7.
+
 #### Amendments
 
 1990—Subsec. (a)(3)(F) to (J). Pub. L. 101–596, §103, added subpars. (F) to (J).
@@ -258,7 +228,7 @@ Subsec. (h). Pub. L. 101–596, §105, substituted “and 1990, and $25,000,000 
 
 #### Great Lakes Remedial Action Plans and Sediment Remediation
 
-Pub. L. 101–640, title IV, §401, Nov. 28, 1990, 104 Stat. 4644, as amended by Pub. L. 104–303, title V, §515, Oct. 12, 1996, 110 Stat. 3763; Pub. L. 106–53, title V, §505, Aug. 17, 1999, 113 Stat. 338, provided that:
+Pub. L. 101–640, title IV, §401, Nov. 28, 1990, 104 Stat. 4644, as amended by Pub. L. 104–303, title V, §515, Oct. 12, 1996, 110 Stat. 3763; Pub. L. 106–53, title V, §505, Aug. 17, 1999, 113 Stat. 338; Pub. L. 106–541, title III, §344, Dec. 11, 2000, 114 Stat. 2613, provided that:
 
 “(a)
 
@@ -274,7 +244,7 @@ Non-federal share.—
 
 &emsp;&emsp;“(A)
 
-In general.—Non-Federal interests shall contribute, in cash or by providing in-kind contributions, 50 percent of costs of activities for which assistance is provided under paragraph (1).
+In general.—Non-Federal interests shall contribute, in cash or by providing in-kind contributions, 35 percent of costs of activities for which assistance is provided under paragraph (1).
 
 &emsp;&emsp;“(B)
 
@@ -294,29 +264,19 @@ Site selection for projects.—In selecting the sites for the technology project
 
 &emsp;“(3)
 
-Deadline for identifications.—The Secretary shall—
-
-&emsp;&emsp;“(A) not later than 18 months after the date of the enactment of this paragraph \[Oct. 12, 1996\], identify the sites and technologies for projects under this subsection; and
-
-&emsp;&emsp;“(B) not later than 3 years after that date, complete each such full-scale project.
-
-&emsp;“(4)
-
-Non-federal share.—Non-Federal interests shall contribute 50 percent of costs of projects under this subsection. Such costs may be paid in cash or by providing in-kind contributions.
+Non-federal share.—Non-Federal interests shall contribute 35 percent of costs of projects under this subsection. Such costs may be paid in cash or by providing in-kind contributions.
 
 “(c)
 
-Authorization of Appropriations.—There is authorized to be appropriated to the Secretary to carry out this section $5,000,000 for each of fiscal years 1998 through 2000.”
+Authorization of Appropriations.—There is authorized to be appropriated to the Secretary to carry out this section $10,000,000 for each of fiscal years 2001 through 2006.”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 16 section 1447b.
+This section is referred to in section 2902 of this title; title 16 section 1447b.
 
 <i><sup>1</sup></i><i> So in original.</i>
 
-<i><sup>2</sup></i><i> So in original.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be capitalized.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be capitalized.</i>
-
-<i><sup>4</sup></i><i> So in original.</i>
+<i><sup>3</sup></i><i> So in original.</i>
 

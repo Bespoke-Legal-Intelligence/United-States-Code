@@ -4,12 +4,6 @@ The duties and taxes collected in pursuance of sections 1394 and 1395 of this ti
 
 (Mar. 3, 1917, ch. 171, §5, 39 Stat. 1133.)
 
-#### Cross References
-
-Disposition of proceeds of taxes on articles produced in the Virgin Islands and transported into the United States, see section 7652 of Title 26, Internal Revenue Code.
-
-Use of proceeds of customs duties and taxes collected in the Virgin Islands, see section 1642 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1392 of this title.

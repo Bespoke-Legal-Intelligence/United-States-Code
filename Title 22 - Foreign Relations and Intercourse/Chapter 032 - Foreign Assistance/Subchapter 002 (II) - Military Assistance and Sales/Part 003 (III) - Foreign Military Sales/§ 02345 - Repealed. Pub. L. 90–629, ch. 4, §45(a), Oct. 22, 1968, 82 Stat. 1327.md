@@ -8,5 +8,5 @@ Repeal effective July 1, 1968, see section 41 of Pub. L. 90–629, set out as an
 
 #### Savings Provision
 
-Determinations, authorizations, regulations, orders, contracts, agreements, and other actions issued undertaken, or entered into under authority of any provision of former section 2345 of this title as continuing in fullforce and effect until modified by appropriate authority, see section 46 of Pub. L. 90–629, set out as a note under former section 2341 of this title.
+Determinations, authorizations, regulations, orders, contracts, agreements, and other actions issued undertaken, or entered into under authority of any provision of former section 2345 of this title as continuing in full force and effect until modified by appropriate authority, see section 46 of Pub. L. 90–629, set out as a note under former section 2341 of this title.
 

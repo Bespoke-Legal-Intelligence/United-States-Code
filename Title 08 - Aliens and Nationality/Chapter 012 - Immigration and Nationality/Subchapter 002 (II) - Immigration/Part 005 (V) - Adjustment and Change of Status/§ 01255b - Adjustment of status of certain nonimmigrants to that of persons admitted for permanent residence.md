@@ -52,19 +52,3 @@ Amendment by Pub. L. 97–116 effective Dec. 29, 1981, see section 21(a) of Pub.
 
 The definitions in subsecs. (a) and (b) of section 1101 of this title apply to this section, see section 14 of Pub. L. 85–316, set out as a note under section 1101 of this title.
 
-#### Cross References
-
-Definition of the term—
-
-&emsp;&emsp;Alien, see section 1101(a)(3) of this title.
-
-&emsp;&emsp;Attorney General, see section 1101(a)(5) of this title.
-
-&emsp;&emsp;Lawfully admitted for permanent residence, see section 1101(a)(20) of this title.
-
-&emsp;&emsp;Nonimmigrant alien, see section 1101(a)(15) of this title.
-
-&emsp;&emsp;Person of good moral character, see section 1101(f) of this title.
-
-&emsp;&emsp;United States, see section 1101(a)(38) of this title.
-

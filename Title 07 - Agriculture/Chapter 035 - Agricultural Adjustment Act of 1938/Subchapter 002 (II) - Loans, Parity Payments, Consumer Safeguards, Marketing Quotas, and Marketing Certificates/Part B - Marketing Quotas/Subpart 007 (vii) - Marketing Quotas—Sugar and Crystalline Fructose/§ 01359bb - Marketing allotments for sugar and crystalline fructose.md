@@ -32,7 +32,7 @@
 
 #### (c) Crystalline fructose allotments
 
-For any fiscal year in which the Secretary establishes allotments for the marketing of sugarunder section 1359cc of this title, the Secretary shall establish for that year appropriate allotments for the marketing by manufacturers of crystalline fructose manufactured from corn, at a total level not to exceed the equivalent of 200,000 tons of sugar, raw value, during the fiscal year, in a manner that is fair, efficient, and equitable to manufacturers.
+For any fiscal year in which the Secretary establishes allotments for the marketing of sugar under section 1359cc of this title, the Secretary shall establish for that year appropriate allotments for the marketing by manufacturers of crystalline fructose manufactured from corn, at a total level not to exceed the equivalent of 200,000 tons of sugar, raw value, during the fiscal year, in a manner that is fair, efficient, and equitable to manufacturers.
 
 #### (d) Prohibitions
 

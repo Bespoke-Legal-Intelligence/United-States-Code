@@ -15,4 +15,4 @@
 - [&sect; 03148 - Oil and gas leasing program for non-North Slope Federal lands](%C2%A7%2003148%20-%20Oil%20and%20gas%20leasing%20program%20for%20non-North%20Slope%20Federal%20lands.md)
 - [&sect; 03149 - Oil and gas lease applications](%C2%A7%2003149%20-%20Oil%20and%20gas%20lease%20applications.md)
 - [&sect; 03150 - Alaska mineral resource assessment program](%C2%A7%2003150%20-%20Alaska%20mineral%20resource%20assessment%20program.md)
-- [&sect; 03151 - Annual report by President to Congress on minerals in Alaska](%C2%A7%2003151%20-%20Annual%20report%20by%20President%20to%20Congress%20on%20minerals%20in%20Alaska.md)
+- [&sect; 03151 - Omitted](%C2%A7%2003151%20-%20Omitted.md)

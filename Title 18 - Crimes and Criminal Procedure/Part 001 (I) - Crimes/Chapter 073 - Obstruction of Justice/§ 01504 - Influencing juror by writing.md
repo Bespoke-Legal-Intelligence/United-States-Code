@@ -18,12 +18,6 @@ Minor changes were made in phraseology.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000” in first par.
 
-#### Cross References
-
-Bribery of public officials and witnesses, see section 201 of this title.
-
-Minor offenses tried by United States magistrate judges as excluding offenses punishable under this section, see section 3401 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 201 of this title.

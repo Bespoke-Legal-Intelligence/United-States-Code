@@ -48,7 +48,7 @@ R.S. §2789, authorizing the collector, when an entry was imperfect, to take the
 
 R.S. §2840, providing that when the collector should suspect that merchandise was not invoiced at a sum equal to that for which it had usually been sold, he should take possession and retain the same until its value had been ascertained and the duties paid or secured;
 
-R.S. §2926, providing that merchandise of which incomplete entry had been made, or entry without specification of particulars, should be conveyed to some warehouse or designated by the collector to remain until the particulars, cost or value should have been ascertained, and the duties paid or secured, and a permit for delivery granted;
+R.S. §2926, providing that merchandise of which incomplete entry had been made, or entry without specification of particulars, should be conveyed to somewarehouse or designated by the collector to remain until the particulars, cost or value should have been ascertained, and the duties paid or secured, and a permit for delivery granted;
 
 R.S. §2963, providing that when merchandise had not been entered it should be deposited in a public warehouse, and there remain until an invoice was produced, but that it should not be construed to prohibit sales of merchandise to discharge duties and charges;
 

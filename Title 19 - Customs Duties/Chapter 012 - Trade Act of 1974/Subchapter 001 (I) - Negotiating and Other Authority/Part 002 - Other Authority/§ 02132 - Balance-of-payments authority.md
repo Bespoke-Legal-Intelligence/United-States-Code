@@ -46,7 +46,7 @@ Whenever the President determines that fundamental international payments proble
 
 #### (d) Nondiscriminatory treatment of import restricting actions
 
-(1) Import restricting actions proclaimed pursuant to subsection (a) of this section shall be applied consistently with the principle of nondiscriminatory treatment. In addition, any quota proclaimed pursuant to subparagraph (B) of subsection (a) of this section shall be applied on a basis which aims at a distribution of trade with the United States approaching as closely as possible that which various foreign countries might have expected to obtain in the absence of such restrictions.
+(1) Import restricting actions proclaimed pursuant to subsection (a) of this section shall be applied consistently with the principle of nondiscriminatory treatment. In addition, any quota proclaimed pursuant to subparagraph (B) of subsection (a) of this section shall be applied on a basis which aims at a distribution of tradewith the United States approaching as closely as possible that which various foreign countries might have expected to obtain in the absence of such restrictions.
 
 (2) Notwithstanding paragraph (1), if the President determines that the purposes of this section will best be served by action against one or more countries having large or persistent balance-of-payments surpluses, he may exempt all other countries from such action.
 

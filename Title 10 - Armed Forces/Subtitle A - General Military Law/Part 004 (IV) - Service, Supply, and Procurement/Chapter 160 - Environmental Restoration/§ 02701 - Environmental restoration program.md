@@ -50,7 +50,7 @@ Other responsible parties.—Paragraph (1) shall not apply to a removal or remed
 
 &emsp;(3)
 
-State fees and charges.—The Secretary shall pay fees and charges imposed by State authorities for permit services for the disposal of hazardous substances on lands which are under the jurisdiction of the Secretary to the same extent that nongovernmental entities are required to pay fees and charges imposed by State authorities for permit services. The preceding sentence shall not apply with respect to a payment that is the responsibility of a lessee, contractor, or other private person.
+State fees and charges.—The Secretary shall pay fees and charges imposed by State authorities for permit services for the disposal of hazardous substances on lands which are under the jurisdiction of the Secretary to thesame extent that nongovernmental entities are required to pay fees and charges imposed by State authorities for permit services. The preceding sentence shall not apply with respect to a payment that is the responsibility of a lessee, contractor, or other private person.
 
 (d)
 
@@ -172,6 +172,28 @@ For effective date and applicability of amendment by section 4321(b)(22) of Pub.
 
 #### Formerly Utilized Sites Remedial Action Program
 
+Pub. L. 106–398, §1 \[div. C, title XXXI, §3138\], Oct. 30, 2000, 114 Stat. 1654, 1654A–461, provided that:
+
+“(a)
+
+Contingent Limitation on Availability of Funds for Certain Travel Expenses.—Effective November 1, 2001, but subject to subsection (b), no funds authorized to be appropriated or otherwise made available by this or any other Act for the Department of Energy or the Department of the Army may be obligated or expended for travel by—
+
+&emsp;“(1) the Secretary of Energy or any officer or employee of the Office of the Secretary of Energy; or
+
+&emsp;“(2) the Chief of Engineers.
+
+“(b)
+
+Effective Date.—The limitation in subsection (a) shall not take effect if before November 1, 2001, both of the following certifications are submitted to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\]:
+
+&emsp;“(1) A certification by the Secretary of Energy that the Department of Energy is in compliance with the requirements of section 3131 of the National Defense Authorization Act for Fiscal Year 2000 (Public Law 106–65; 113 Stat. 925; 10 U.S.C. 2701 note).
+
+&emsp;“(2) A certification by the Chief of Engineers that the Corps of Engineers is in compliance with the requirements of that section.
+
+“(c)
+
+Termination.—If the limitation in subsection (a) takes effect, the limitation shall cease to be in effect when both certifications referred to in subsection (b) have been submitted to the congressional defense committees.”
+
 Pub. L. 106–65, div. C, title XXXI, §3131, Oct. 5, 1999, 113 Stat. 925, provided that: “Notwithstanding any other provision of law, no funds authorized to be appropriated or otherwise made available by this Act \[see Tables for classification\], or by any Act authorizing appropriations for the military activities of the Department of Defense or the defense activities of the Department of Energy for a fiscal year after fiscal year 2000, may be obligated or expended to conduct treatment, storage, or disposal activities at any site designated as a site under the Formerly Utilized Site Remedial Action Program as of the date of the enactment of this Act \[Oct. 5, 1999\].”
 
 Pub. L. 106–60, title VI, §611, Sept. 29, 1999, 113 Stat. 502, provided that:
@@ -188,7 +210,7 @@ Pub. L. 106–60, title VI, §611, Sept. 29, 1999, 113 Stat. 502, provided that:
 
 &emsp;“(5) Cleanup and closeout of sites.
 
-&emsp;“(6) Any other functions and activities determined by the Secretary of the Army, acting through the Chief of Engineers, as necessary for carrying out that program, including the acquisition of real estate interests where necessary, which may be transferred upon completion of remediation to the administrative jurisdiction of the Secretary of Energy.
+&emsp;“(6) Any other functions and activities determined by the Secretary of the Army, acting through theChief of Engineers, as necessary for carrying out that program, including the acquisition of real estate interests where necessary, which may be transferred upon completion of remediation to the administrative jurisdiction of the Secretary of Energy.
 
 “(b) Any response action under that program by the Secretary of the Army, acting through the Chief of Engineers, shall be subject to the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601 et seq.) (in this section referred to as ‘CERCLA’), and the National Oil and Hazardous Substances Pollution Contingency Plan (40 CFR 300).
 
@@ -232,7 +254,7 @@ Requirements.—The regulations prescribed under subsection (a) shall contain re
 
 &emsp;“(1) obtain all data that is relevant for purposes of cost-recovery and cost-sharing activities; and
 
-&emsp;“(2) identify any negligence or other misconduct that may preclude indemnification or reimbursementby the Department of Defense for the costs of environmental restoration at a Department site or justify the recovery or sharing of costs associated with such restoration.
+&emsp;“(2) identify any negligence or other misconduct that may preclude indemnification or reimbursement by the Department of Defense for the costs of environmental restoration at a Department site or justify the recovery or sharing of costs associated with such restoration.
 
 “(d)
 
@@ -362,7 +384,7 @@ Pub. L. 103–160, div. A, title XIII, §1333, Nov. 30, 1993, 107 Stat. 1798, as
 
 Grant Program Authorized.—(1) The Secretary of Defense may establish a program to provide demonstration grants to institutions of higher education to assist such institutions in providing education and training in environmental restoration and hazardous waste management to eligible dislocated defense workers and young adults described in subsection (d). The Secretary shall award the grants pursuant to a merit-based selection process.
 
-“(2) A grant provided under this subsection may cover a period of not more than three fiscal years, except that the payments under the grant for the second and third fiscal year shall be subject to the approval of the Secretary and to the availability of appropriations to carry out this section in that fiscal year.
+“(2) A grant provided under this subsection may cover a period of not more than three fiscal years, except that the payments under the grant for the secondand third fiscal year shall be subject to the approval of the Secretary and to the availability of appropriations to carry out this section in that fiscal year.
 
 “(b)
 
@@ -380,7 +402,7 @@ Use of Grant Funds.—(1) An institution of higher education receiving a grant u
 
 &emsp;“(A) Appropriate State and local agencies.
 
-&emsp;“(B) Private industry councils as described in section 102 of the Job Training Partnership Act \[29 U.S.C. 1512\] or local workforce investment boards established under section 117 of the Workforce Investment Act of 1998 \[29 U.S.C. 2832\].
+&emsp;“(B) local \[sic\] workforce investment boards established under section 117 of the Workforce Investment Act of 1998 \[29 U.S.C. 2832\].
 
 &emsp;“(C) Community-based organizations (as defined in section 4(5) of such Act (29 U.S.C. 1503(5)).
 
@@ -486,8 +508,6 @@ Secretary.—The term ‘Secretary’ means the Secretary of Defense.
 
 Conforming Repeal.—Section 4452 of the Defense Conversion, Reinvestment, and Transition Assistance Act of 1992 (division D of Public Law 102–484; 10 U.S.C. 2701 note) is repealed.”
 
-\[Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(f)(7), (g)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–430, 2681–435, provided that, effective July 1, 2000, section 1333(c)(2)(B) of Pub. L. 103–160 is amended by substituting “local” for “Private industry councils as described in section 102 of the Job Training Partnership Act or local”.\]
-
 #### Environmental Education Opportunities Program
 
 Pub. L. 103–160, div. A, title XIII, §1334, Nov. 30, 1993, 107 Stat. 1801, as amended by Pub. L. 105–244, title I, §102(a)(2)(E), Oct. 7, 1998, 112 Stat. 1617, provided that:
@@ -538,7 +558,7 @@ Educational Training or Activities.—(1) The program established under subsecti
 
 “(c)
 
-Eligible Institutions of Higher Education.—Scholarship funds awarded under this section shall be used by individuals awarded scholarships to enable such individuals to attend institutions of higher education associated with hazardous substance researchcenters to enable such individuals to undertake a program of educational training or activities described in subsection (b) that leads to an undergraduate degree, a graduate degree, or a degree or certificate that is supplemental to an academic degree.
+Eligible Institutions of Higher Education.—Scholarship funds awarded under this section shall be used by individuals awarded scholarships to enable such individuals to attend institutions of higher education associated with hazardous substance research centers to enable such individuals to undertake a program of educational training or activities described in subsection (b) that leads to an undergraduate degree, a graduate degree, or a degree or certificate that is supplemental to an academic degree.
 
 “(d)
 
@@ -586,7 +606,7 @@ Application; Period for Submission.—(1) Each individual desiring a scholarship
 
 “(2) A member of the Armed Forces described in subsection (d)(1) who desires to apply for a scholarship under this section shall submit an application under this subsection not later than 180 days after the date of the separation of the member. In the case of members described in subsection (d)(1) who were separated before the date of the enactment of this Act \[Nov. 30, 1993\], the Secretary shall accept applications from these members submitted during the 180-day period beginning on the date of the enactment of this Act.
 
-“(3) A civilian employee described in paragraph (2) or (3) of subsection (d) who desires to apply for a scholarship under this section, but who receives no prior notice of such termination or lay off, may submit an application under this subsection at any time after such termination or lay off. A civilian employee described in paragraph (1) or (2) of subsection (d) who receives a notice of termination or lay off shall submit an application not later than 180 days before the effective date of the termination or lay off. In the case of employees described in such paragraphs who were terminated or laid off before the date of the enactment of this Act \[Nov. 30, 1993\], the Secretary shall accept applications from these employees submitted during the 180-day period beginning on the date of the enactment of this Act.
+“(3) A civilian employee described in paragraph (2) or (3) of subsection (d) who desires to apply for a scholarship under this section, but who receives no prior notice of such termination or lay off, may submit an application under this subsection at any time after such termination or lay off. A civilian employee described in paragraph (1) or (2) of subsection (d) who receives a notice of termination or lay off shall submit an application not later than 180 days before the effective date of the termination or lay off. In the case of employees described in such paragraphs who were terminated or laid off before the date of the enactment of this Act \[Nov. 30, 1993\], the Secretary shall accept applications fromthese employees submitted during the 180-day period beginning on the date of the enactment of this Act.
 
 “(g)
 
@@ -708,7 +728,7 @@ Execution of Program.—Subject to subsection (d), and to the maximum extent pos
 
 &emsp;“(2) the use of all reasonable and appropriate methods to expedite necessary Federal and State administrative decisions, agreements, and concurrences; and
 
-&emsp;“(3) the use (including any necessary request for the use) of existing authorities to ensure that environmental restoration activities under the pilot program are conducted expeditiously, with particularemphasis on activities that may be conducted in advance of any final plan for environmental restoration.
+&emsp;“(3) the use (including any necessary request for the use) of existing authorities to ensure that environmental restoration activities under the pilot program are conducted expeditiously, with particular emphasis on activities that may be conducted in advance of any final plan for environmental restoration.
 
 “(d)
 
@@ -806,7 +826,7 @@ Repayment.—(1) Any individual participating in a scholarship or fellowship pro
 
 “(g)
 
-Preference.—In evaluating applicants for the award of a scholarship or fellowship under a programestablished under subsection (a), the Secretary shall give a preference to—
+Preference.—In evaluating applicants for the award of a scholarship or fellowship under a program established under subsection (a), the Secretary shall give a preference to—
 
 &emsp;“(1) individuals who are, or have been, employed by the Department of Defense or its contractors and subcontractors who have been engaged in defense-related activities; and
 
@@ -848,7 +868,7 @@ Section 342(b) of Pub. L. 101–510 provided that:
 
 “(4) At the same time the President submits to Congress his budget for fiscal year 1993 pursuant to section 1105 of title 31, United States Code, the Secretary of Defense shall submit to Congress a report describing the policies developed under paragraphs (1), (2), and (3). The report also shall include a discussion of the role of the Inspector General of the Department of Defense in overseeing environmental compliance at military installations outside the United States.
 
-“(5) For purposes of this subsection, the term ‘military installation’ means a base, camp, post, station, yard, center, or other activity under the jurisdiction of the Secretary of a military department which is located outside the United States and outside any territory, commonwealth, or possession of the United States.”
+“(5) For purposes of this subsection, the term ‘military installation’ means a base, camp, post, station,yard, center, or other activity under the jurisdiction of the Secretary of a military department which is located outside the United States and outside any territory, commonwealth, or possession of the United States.”
 
 #### Environmental Education Program for Department of Defense Personnel
 
@@ -982,7 +1002,7 @@ Use of Funds.—Funds available for the waste minimization programs established 
 
 “(e)
 
-Recovery of Costs.—Each project carried out at an industrial-type activity as part of a waste minimization program established pursuant to this section shallbe designed to achieve, over the expected useful life of the project, reductions in the cost of the disposal of solid and hazardous wastes generated by the activity in an amount which is not less than the cost of the project. The Secretary of a military department may provide funds for a project that does not meet the requirement of the preceding sentence if the Secretary certifies to Congress that—
+Recovery of Costs.—Each project carried out at an industrial-type activity as part of a waste minimization program established pursuant to this section shall be designed to achieve, over the expected useful life of the project, reductions in the cost of the disposal of solid and hazardous wastes generated by the activity in an amount which is not less than the cost of the project. The Secretary of a military department may provide funds for a project that does not meet the requirement of the preceding sentence if the Secretary certifies to Congress that—
 
 &emsp;“(1) the project will result in a reduction of solid or hazardous waste disposed of, or hazardous materials used by, the activity; or
 

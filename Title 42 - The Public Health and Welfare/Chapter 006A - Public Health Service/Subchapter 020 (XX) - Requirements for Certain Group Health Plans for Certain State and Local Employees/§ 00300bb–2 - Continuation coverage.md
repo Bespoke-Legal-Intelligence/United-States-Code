@@ -26,7 +26,7 @@ For purposes of section 300bb–1 of this title, the term “continuation covera
 
 #### (iv) Medicare entitlement followed by qualifying event
 
-&emsp;&emsp;&emsp;In the case of a qualifying event described in section 300bb–3(2) of this title that occurs less than 18 months after the date the covered employee became entitledto benefits under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\], the period of coverage for qualified beneficiaries other than the covered employee shall not terminate under this subparagraph before the close of the 36-month period beginning on the date the covered employee became so entitled.
+&emsp;&emsp;&emsp;In the case of a qualifying event described in section 300bb–3(2) of this title that occurs less than 18 months after the date the covered employee became entitled to benefits under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\], the period of coverage for qualified beneficiaries other than the covered employee shall not terminate under this subparagraph before the close of the 36-month period beginning on the date the covered employee became so entitled.
 
 > &emsp;&emsp;In the case of a qualified beneficiary who is determined, under title II or XVI of the Social Security Act \[42 U.S.C. 401 et seq., 1381 et seq.\], to have been disabled at any time during the first 60 days of continuation coverage under this subchapter, any reference in clause (i) or (ii) to 18 months is deemed a reference to 29 months (with respect to all qualified beneficiaries), but only if the qualified beneficiary has provided notice of such determination under section 300bb–6(3) of this title before the end of such 18 months.
 
@@ -36,7 +36,7 @@ For purposes of section 300bb–1 of this title, the term “continuation covera
 
 #### (C) Failure to pay premium
 
-&emsp;&emsp;The date on which coverage ceases under the plan by reason of a failure to make timely payment of any premium required under the plan with respect to the qualified beneficiary. The payment of any premium (other than any payment referred to in the last sentence of paragraph (3)) shall be considered to be timely if made within 30 days after the date due or within such longer period as applies to or under the plan.
+&emsp;&emsp;The date on which coverage ceases under the plan by reason of a failure to make timely payment of any premium required under the plan with respect to the qualified beneficiary. The payment of any premium (other than any payment referred to in the last sentence of paragraph (3)) shall be considered to be timely if made within 30 daysafter the date due or within such longer period as applies to or under the plan.
 
 #### (D) Group health plan coverage or medicare entitlement
 

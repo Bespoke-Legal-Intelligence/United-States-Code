@@ -44,13 +44,13 @@ Application of rates.—Once a firm's indirect cost rates are accepted under thi
 
 &emsp;&emsp;(F)
 
-Prenotification; confidentiality of data.—A recipient of funds requesting or using the cost and rate data described in subparagraph (E) shall notify any affected firm before such request or use. Such data shall be confidential and shall not be accessible or provided, in whole or in part, to another firm or to any government agency which is not part of the group of agencies sharing cost data under this paragraph, except by written permission of the audited firm. If prohibited by law, such cost and rate data shall not be disclosed under any circumstances.
+Prenotification; confidentiality of data.—A recipient of funds requesting or using the cost and rate data described in subparagraph (E) shall notify any affected firm before such request or use. Such data shall be confidential and shall not be accessible or provided, in whole or in part, to another firm or to any government agency which is not part of the group of agencies sharing cost data under this paragraph, except by written permission of the audited firm. If prohibited by law, such cost and ratedata shall not be disclosed under any circumstances.
 
 &emsp;&emsp;(G)
 
 State option.—Subparagraphs (C), (D), (E), and (F) shall take effect 1 year after the date of the enactment of this subparagraph; except that if a State, during such 1-year period, adopts by statute an alternative process intended to promote engineering and design quality and ensure maximum competition by professional companies of all sizes providing engineering and design services, such subparagraphs shall not apply with respect to the State. If the Secretary determines that the legislature of the State did not convene and adjourn a full regular session during such 1-year period, the Secretary may extend such 1-year period until the adjournment of the next regular session of the legislature.
 
-(c) The Secretary shall require as a condition precedent to his approval of each contractawarded by competitive bidding pursuant to subsection (b) of this section, and subject to the provisions of this section, a sworn statement, executed by, or on behalf of, the person, firm, association, or corporation to whom such contract is to be awarded, certifying that such person, firm, association, or corporation has not, either directly or indirectly, entered into any agreement, participated in any collusion, or otherwise taken any action in restraint of free competitive bidding in connection with such contract.
+(c) The Secretary shall require as a condition precedent to his approval of each contract awarded by competitive bidding pursuant to subsection (b) of this section, and subject to the provisions of this section, a sworn statement, executed by, or on behalf of, the person, firm, association, or corporation to whom such contract is to be awarded, certifying that such person, firm, association, or corporation has not, either directly or indirectly, entered into any agreement, participated in any collusion, or otherwise taken any action in restraint of free competitive bidding in connection with such contract.
 
 (d) No contract awarded by competitive bidding pursuant to subsection (b) of this section, and subject to the provisions of this section, shall be entered into by any State transportation department or local subdivision of the State without compliance with the provisions of this section, and without the prior concurrence of the Secretary in the award thereof.
 
@@ -110,7 +110,7 @@ Selection Process.—A State may procure, under a single contract, the services 
 
 &emsp;&emsp;&emsp;<i>(II) in the case of any other project, $50,000,000.</i>
 
-&emsp;(D) <i>DESIGN-BUILD CONTRACT DEFINED</i>.—In this paragraph, the term “design-build contract” means an agreement that provides for design and construction of a project by a contractor, regardless of whether the agreement is in the form of a design-build contract, a franchise agreement, or any other form of contract approved by the Secretary.
+&emsp;(D) <i>DESIGN-BUILD CONTRACT DEFINED</i>.—In this paragraph, the term “design-build contract” means an agreement that provides for design and construction of a project by a contractor, regardless of whether the agreement is in the form of adesign-build contract, a franchise agreement, or any other form of contract approved by the Secretary.
 
 <i>(2) Subsection (e)(2) of this section is amended—</i>
 
@@ -126,7 +126,7 @@ Selection Process.—A State may procure, under a single contract, the services 
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (b)(2)(A), is act June30, 1949, ch. 288, 63 Stat. 377, as amended. Title IX of the Federal Property and Administrative Services Act is classified generally to subchapter VI (§541 et seq.) of chapter 10 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (b)(2)(A), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title IX of the Federal Property and Administrative Services Act is classified generally to subchapter VI (§541 et seq.) of chapter 10 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
 
 The date of the enactment of this paragraph, referred to in subsec. (b)(2)(B), is the date of enactment of Pub. L. 100–17, which was approved Apr. 2, 1987.
 

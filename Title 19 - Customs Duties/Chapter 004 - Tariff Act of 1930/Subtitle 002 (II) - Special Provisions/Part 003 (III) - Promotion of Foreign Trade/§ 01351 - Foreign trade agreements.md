@@ -24,7 +24,7 @@
 
 &emsp;(E) In order to carry out a foreign trade agreement entered into by the President on or after July 1, 1958, decreasing any rate of duty below the lowest of the rates provided for in paragraph (4)(A) of this subsection.
 
-(3)(A) Subject to the provisions of subparagraphs (B) and (C) of this paragraph and of subparagraph (B) of paragraph (4) of this subsection, the provisions of any proclamation made under paragraph (1)(B) of this subsection, and the provisions of any proclamation of suspension under paragraph (5) of this subsection, shall be in effect from and after such time as is specified in the proclamation.
+(3)(A) Subject to the provisions of subparagraphs (B) and (C) of this paragraph and of subparagraph (B) of paragraph (4) of this subsection, the provisions of any proclamation made under paragraph (1)(B) of this subsection,and the provisions of any proclamation of suspension under paragraph (5) of this subsection, shall be in effect from and after such time as is specified in the proclamation.
 
 (B) In the case of any decrease in duty to which paragraph (2)(D) of this subsection applies—
 
@@ -34,7 +34,7 @@
 
 &emsp;(iii) no part of the decrease after the first part shall become initially effective until the immediately previous part shall have been in effect for a period or periods aggregating not less than one year.
 
-(C) No part of any decrease in duty to which the alternative specified in paragraph (2)(D)(i) of this subsection applies shall become initially effective after the expiration of the three-year period which begins on July 1, 1955. If any part of such decrease has become effective, then for purposes of this subparagraph any time thereafter during which such part of the decrease is not ineffect by reason of legislation of the United States or action thereunder shall be excluded in determining when the three-year period expires.
+(C) No part of any decrease in duty to which the alternative specified in paragraph (2)(D)(i) of this subsection applies shall become initially effective after the expiration of the three-year period which begins on July 1, 1955. If any part of such decrease has become effective, then for purposes of this subparagraph any time thereafter during which such part of the decrease is not in effect by reason of legislation of the United States or action thereunder shall be excluded in determining when the three-year period expires.
 
 (D) If (in order to carry out a foreign trade agreement entered into by the President on or after June 12, 1955) the President determines that such action will simplify the computation of the amount of duty imposed with respect to an article, he may exceed any limitation specified in paragraph (2)(C) or (D) or paragraph (4)(A) or (B) of this subsection or subparagraph (B) of this paragraph by not more than whichever of the following is lesser:
 
@@ -108,7 +108,7 @@ The Trade Agreements Extension Act of 1955, referred to in subsec. (a)(1)(A), is
 
 Paragraph (5) of this subsection, referred to in subsec. (a)(3)(A), was repealed by Pub. L. 87–794, title III, §257(b), Oct. 11, 1962, 76 Stat. 882.
 
-The Trade Expansion Act of 1962, referred to in subsec. (b), is Pub. L. 87–794, Oct. 11, 1962, 76 Stat. 872, as amended, which is classified generally to chapter 7 (§1801 et seq.) of this title. Title II of the Trade Expansion Act of 1962, also referred to in subsec. (b), is classified generally to subchapter II (§1821 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+The Trade Expansion Act of 1962, referred to in subsec. (b), is Pub. L. 87–794, Oct. 11, 1962, 76 Stat. 872, asamended, which is classified generally to chapter 7 (§1801 et seq.) of this title. Title II of the Trade Expansion Act of 1962, also referred to in subsec. (b), is classified generally to subchapter II (§1821 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 Section 1362 of this title, referred to in subsec. (c)(2)(A), related to suspension or withdrawal of concessions from Communistic areas and was repealed by Pub. L. 87–794, title II, §257(e)(1), Oct. 11, 1962, 76 Stat. 882.
 
@@ -227,10 +227,6 @@ Ex. Ord. No. 10082, Oct. 5, 1949, 14 F.R. 6105, as amended by Ex. Ord. No. 10170
 #### Executive Order No. 10741
 
 Ex. Ord. No. 10741, Nov. 26, 1957, 22 F.R. 9451, which established the Trade Policy Committee, was revoked by Ex. Ord. No. 11075, Jan. 15, 1963, 28 F.R. 473, set out as a note under section 1801 of this title.
-
-#### Cross References
-
-Congressional approval or disapproval of GATT, see section 1366 of this title.
 
 #### Section Referred to in Other Sections
 

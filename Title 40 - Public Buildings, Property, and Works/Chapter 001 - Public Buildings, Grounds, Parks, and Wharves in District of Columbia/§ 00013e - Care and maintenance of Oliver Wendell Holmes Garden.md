@@ -4,7 +4,3 @@ After the completion and dedication of the Oliver Wendell Holmes Garden, it shal
 
 (Oct. 22, 1940, ch. 908, §6, 54 Stat. 1208.)
 
-#### Cross References
-
-Maintenance and care of Supreme Court Building, see sections 13a to 13c of this title and section 672 of Title 28, Judiciary and Judicial Procedure.
-

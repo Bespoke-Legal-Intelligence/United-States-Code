@@ -4,7 +4,3 @@ Whenever the President shall be satisfied that unjust discriminations are made b
 
 (Aug. 30, 1890, ch. 839, §5, 26 Stat. 415.)
 
-#### Cross References
-
-Additional duties on or exclusion of products of countries discriminating against United States, see section 1338 of this title.
-

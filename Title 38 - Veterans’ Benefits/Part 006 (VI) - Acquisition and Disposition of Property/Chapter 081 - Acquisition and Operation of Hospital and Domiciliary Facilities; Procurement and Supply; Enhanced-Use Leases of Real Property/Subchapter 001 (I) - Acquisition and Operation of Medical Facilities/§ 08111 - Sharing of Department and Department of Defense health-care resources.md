@@ -36,7 +36,7 @@
 
 (3) Each such agreement shall provide, and shall specify procedures designed to ensure, that the availability of direct health care to individuals who are not primary beneficiaries of the providing agency (A) is on a referral basis from the facility of the other agency, and (B) does not (as determined by the head of the facility of the providing agency) adversely affect the range of services, the quality of care, or the established priorities for care provided to the primary beneficiaries of the providing agency.
 
-(4) Each such agreement shall provide that a providing agency shall be reimbursed for the cost of the health-care resources provided under the agreement and that the rate for such reimbursement shall be determined in accordance with the methodology agreed to pursuant to subsection (e) of this section.
+(4) Each such agreement shall provide that a providing agency shall be reimbursed for the cost of the health-care resources provided underthe agreement and that the rate for such reimbursement shall be determined in accordance with the methodology agreed to pursuant to subsection (e) of this section.
 
 (5) Each proposal for an agreement under paragraph (1) of this subsection shall be submitted to the Under Secretary for Health and the Assistant Secretary and shall be effective as an agreement in accordance with its terms (A) on the forty-sixth day after the receipt of such proposal by both such officials, unless earlier disapproved by either such official, or (B) if earlier approved by both such officials, on the date of such approval.
 
@@ -66,7 +66,7 @@
 
 &emsp;(4) The term “health-care resource” includes hospital care, medical services, and rehabilitative services, as those terms are defined in paragraphs (5), (6), and (8), respectively, of section 1701 of this title, any other health-care service, and any health-care support or administrative resource.
 
-&emsp;(5) The term “primary beneficiary” (A) with respect to the Department means a person whois eligible under this title (other than under section 1711(b) or 1713 or subsection (d) of this section) or any other provision of law for care or services in Department medical facilities, and (B) with respect to the Department of Defense, means a member or former member of the Armed Forces who is eligible for care under section 1074 of title 10.
+&emsp;(5) The term “primary beneficiary” (A) with respect to the Department means a person who is eligible under this title (other than under section 1711(b) or 1713 or subsection (d) of this section) or any other provision of law for care or services in Department medical facilities, and (B) with respect to the Department of Defense, means a member or former member of the Armed Forces who is eligible for care under section 1074 of title 10.
 
 &emsp;(6) The term “providing agency” means the Department, in the case of care or services furnished by a facility of the Department, and the Department of Defense, in the case of care or services furnished by a facility of the Department of Defense.
 
@@ -134,7 +134,7 @@ Interagency Agreement.—(1) The Secretary of Defense shall enter into an agreem
 
 &emsp;“(A) in the judgment of that Secretary, the Department of Veterans Affairs will recover the costs of providing such care to eligible military retirees; and
 
-&emsp;“(B) that Secretary has certified and documented, with respect to any geographic service area in which the Secretary proposes to provide care in accordance with the provisions of subsection (c), that such geographic service area, or designated part of any sucharea, has adequate capacity (consistent with the requirements in section 1705(b)(1) of title 38, United States Code, that care to enrollees shall be timely and acceptable in quality) to provide such care.
+&emsp;“(B) that Secretary has certified and documented, with respect to any geographic service area in which the Secretary proposes to provide care in accordance with the provisions of subsection (c), that such geographic service area, or designated part of any such area, has adequate capacity (consistent with the requirements in section 1705(b)(1) of title 38, United States Code, that care to enrollees shall be timely and acceptable in quality) to provide such care.
 
 “(5) The agreement under paragraph (1) shall be entered into by the Secretaries not later than nine months after the date of the enactment of this Act \[Nov. 30, 1999\]. If the Secretaries are unable to reach agreement, they shall jointly report, by that date or within 30 days thereafter, to the Committees on Armed Services and the Committees on Veterans’ Affairs of the Senate and House of Representatives on the reasons for their inability to reach an agreement and their mutually agreed plan for removing any impediments to final agreement.
 
@@ -165,6 +165,20 @@ Eligible Military Retirees.—For purposes of this section, an eligible military
 &emsp;“(4) is not described in paragraph (1) or (2) of section 1710(a) of such title.”
 
 #### Health-Care Sharing Agreements Between Department of Veterans Affairs and Department of Defense
+
+Pub. L. 106–398, §1 \[\[div. A\], title VII, §741\], Oct. 30, 2000, 114 Stat. 1654, 1654A–192, provided that:
+
+“(a)
+
+Primacy of Sharing Agreements.—The Secretary of Defense shall—
+
+&emsp;“(1) give full force and effect to any agreement into which the Secretary or the Secretary of a military department entered under section 8111 of title 38, United States Code, or under section 1535 of title 31, United States Code, which was in effect on September 30, 1999; and
+
+&emsp;“(2) ensure that the Secretary of the military department concerned directly reimburses the Secretary of Veterans Affairs for any services or resources provided under such agreement in accordance with the terms of such agreement, including termsproviding for reimbursement from funds available for that military department.
+
+“(b)
+
+Modification or Termination.—Any agreement described in subsection (a) shall remain in effect in accordance with such subsection unless, during the 12-month period following the date of the enactment of this Act \[Oct. 30, 2000\], such agreement is modified or terminated in accordance with the terms of such agreement.”
 
 Pub. L. 104–262, title III, §302(b)(2), Oct. 9, 1996, 110 Stat. 3193, provided that: “Any services provided pursuant to agreements entered into under section 201 of such Act \[Pub. L. 102–585\] (38 U.S.C. 8111 note) during the period beginning on October 1, 1996, and ending on the date of the enactment of this Act \[Oct. 9, 1996\] are hereby ratified.”
 

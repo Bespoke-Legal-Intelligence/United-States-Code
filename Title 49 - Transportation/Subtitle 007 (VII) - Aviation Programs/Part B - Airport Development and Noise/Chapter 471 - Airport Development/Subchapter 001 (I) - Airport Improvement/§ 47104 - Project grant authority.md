@@ -10,13 +10,13 @@ Incurring Obligations.—The Secretary may incur obligations to make grants from
 
 (c)
 
-Expiration of Authority.—After September 30, 1999, the Secretary may not incur obligations under subsection (b) of this section, except for obligations of amounts—
+Expiration of Authority.—After September 30, 2003, the Secretary may not incur obligations under subsection (b) of this section, except for obligations of amounts—
 
 &emsp;(1) remaining available after that date under section 47117(b) of this title; or
 
 &emsp;(2) recovered by the United States Government from grants made under this chapter if the amounts are obligated only for increases under section 47108(b)(2) and (3) of this title in the maximum amount of obligations of the Government for any other grant made under this title.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1252; Pub. L. 103–305, title I, §101(b), Aug. 23, 1994, 108 Stat. 1571; Pub. L. 103–429, §6(63), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 104–264, title I, §101(b), Oct. 9, 1996, 110 Stat. 3216; Pub. L. 105–277, div. C, title I, §110(b)(2), Oct. 21, 1998, 112 Stat. 2681–587; Pub. L. 106–6, §2(b), Mar. 31, 1999, 113 Stat. 10; Pub. L. 106–31, title VI, §6002(b), May 21, 1999, 113 Stat. 113; Pub. L. 106–59, §1(b), Sept. 29, 1999, 113 Stat. 482.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1252; Pub. L. 103–305, title I, §101(b), Aug. 23, 1994, 108 Stat. 1571; Pub. L. 103–429, §6(63), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 104–264, title I, §101(b), Oct. 9, 1996, 110 Stat. 3216; Pub. L. 105–277, div. C, title I, §110(b)(2), Oct. 21, 1998, 112 Stat. 2681–587; Pub. L. 106–6, §2(b), Mar. 31, 1999, 113 Stat. 10; Pub. L. 106–31, title VI, §6002(b), May 21, 1999, 113 Stat. 113; Pub. L. 106–59, §1(b), Sept. 29, 1999, 113 Stat. 482; Pub. L. 106–181, title I, §101(b), Apr. 5, 2000, 114 Stat. 65.)
 
 Historical and Revision Notes
 
@@ -54,7 +54,7 @@ Sept. 3, 1982, Pub. L. 97–248, §505(b)(1), 96 Stat. 677; Nov. 5, 1990, Pub. L
 
 In subsection (a), the words “project grants” are substituted for “grants . . . for airport development and airport planning by project grants” in 49 App.:2204(a) to eliminate unnecessary words and because of the definitions of “project” and “project grant” in section 47102 of the revised title.
 
-In subsection (b), the words “and such authority shall exist with respect to funds available for the making ofgrants for any fiscal year or part thereof pursuant to subsection (a) of this section” are omitted as surplus.
+In subsection (b), the words “and such authority shall exist with respect to funds available for the making of grants for any fiscal year or part thereof pursuant to subsection (a) of this section” are omitted as surplus.
 
 In subsection (c), the words “except for obligations of amounts” are substituted for “except that nothing in this section shall preclude the obligation by grant agreement of apportioned funds” to eliminate unnecessary words.
 
@@ -80,6 +80,8 @@ In subsection (c), the text of section 109(b) of the Airport Improvement Program
 
 #### Amendments
 
+2000—Subsec. (c). Pub. L. 106–181 substituted “After September 30, 2003,” for “After September 30, 1999,”.
+
 1999—Subsec. (c). Pub. L. 106–59 substituted “September 30, 1999” for “August 6, 1999” in introductory provisions.
 
 Pub. L. 106–31 substituted “August 6, 1999” for “May 31, 1999” in introductory provisions.
@@ -94,11 +96,51 @@ Pub. L. 106–6 substituted “May” for “March” in introductory provisions
 
 Pub. L. 103–305 substituted “After September 30, 1996, the Secretary” for “After September 30, 1993, the Secretary”.
 
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
+
 #### Effective Date of 1996 Amendment
 
 Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 
+#### Design-Build Contracting
+
+Pub. L. 106–181, title I, §139, Apr. 5, 2000, 114 Stat. 85, provided that:
+
+“(a)
+
+Pilot Program.—The Administrator \[of the Federal Aviation Administration\] may establish a pilot program under which design-build contracts may be used to carry out up to 7 projects at airports in the United States with a grant awarded under section 47104 of title 49, United States Code. A sponsor of an airport may submit an application to the Administrator to carry out a project otherwise eligible for assistance under chapter 471 of such title under the pilot program.
+
+“(b)
+
+Use of Design-Build Contracts.—Under the pilot program, the Administrator may approve an application of an airport sponsor under this section to authorize the airport sponsor to award a design-build contract using a selection process permitted under applicable State or local law if—
+
+&emsp;“(1) the Administrator approves the application using criteria established by the Administrator;
+
+&emsp;“(2) the design-build contract is in a form that is approved by the Administrator;
+
+&emsp;“(3) the Administrator is satisfied that the contract will be executed pursuant to competitive procedures and contains a schematic design adequate for the Administrator to approve the grant;
+
+&emsp;“(4) use of a design-build contract will be cost effective and expedite the project;
+
+&emsp;“(5) the Administrator is satisfied that there will be no conflict of interest; and
+
+&emsp;“(6) the Administrator is satisfied that the selection process will be as open, fair, and objective as the competitive bid system and that at least three or more bids will be submitted for each project under the selection process.
+
+“(c)
+
+Reimbursement of Costs.—The Administrator may reimburse an airport sponsor for design and construction costs incurred before a grant is made pursuant to this section if the project is approved by the Administrator in advance and is carried out in accordance with all administrative and statutory requirements that would have been applicable under chapter 471 of title 49, United States Code, if the project were carried out after a grant agreement had been executed.
+
+“(d)
+
+Design-Build Contract Defined.—In this section, the term ‘design-build contract’ means an agreement that provides for both design and construction of a project by a contractor.
+
+“(e)
+
+Expiration of Authority.—The authority of the Administrator to carry out the pilot program under this section shall expire on September 30, 2003.”
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 47107, 47118, 47524, 48103 of this title.
+This section is referred to in sections 47107, 47117, 47118, 47524, 48103 of this title.
 

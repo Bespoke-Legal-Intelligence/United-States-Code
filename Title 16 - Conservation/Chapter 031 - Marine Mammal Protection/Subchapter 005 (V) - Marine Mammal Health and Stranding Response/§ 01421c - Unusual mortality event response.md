@@ -4,7 +4,7 @@
 
 #### (1) Working group
 
-&emsp;(A) The Secretary, acting through the Office, shall establish, in consultation with the Secretary of the Interior, a marine mammal unusual mortality event working group, consisting of individuals with knowledge and experience in marine science, marine mammal science, marine mammal veterinary and husbandry practices, marine conservation, andmedical science, to provide guidance to the Secretary and the Secretary of the Interior for—
+&emsp;(A) The Secretary, acting through the Office, shall establish, in consultation with the Secretary of the Interior, a marine mammal unusual mortality event working group, consisting of individuals with knowledge and experience in marine science, marine mammal science, marine mammal veterinary and husbandry practices, marine conservation, and medical science, to provide guidance to the Secretary and the Secretary of the Interior for—
 
 &emsp;&emsp;(i) determining whether an unusual mortality event is occurring;
 
@@ -66,7 +66,7 @@
 
 #### (2) Functions
 
-&emsp;(A) An Onsite Coordinator designated under this subsection shall coordinate and direct the activities of all persons responding to an unusual mortality event in accordance with the contingency plan issued under subsection (b) of this section, except that—
+&emsp;(A) An Onsite Coordinator designated under this subsection shall coordinate and direct theactivities of all persons responding to an unusual mortality event in accordance with the contingency plan issued under subsection (b) of this section, except that—
 
 &emsp;&emsp;(i) with respect to any matter that is not covered by the contingency plan, an Onsite Coordinator shall use his or her best professional judgment; and
 

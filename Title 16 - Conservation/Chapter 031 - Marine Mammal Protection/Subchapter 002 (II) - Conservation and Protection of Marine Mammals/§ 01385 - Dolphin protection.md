@@ -18,7 +18,7 @@ The Congress finds that—
 
 For purposes of this section—
 
-&emsp;(1) the terms “driftnet” and “driftnet fishing” have the meanings given those terms in section 4003 of the Driftnet Impact Monitoring, Assessment, and Control Act of 1987 (16 U.S.C. 1822 note);
+&emsp;(1) the terms “driftnet” and “driftnet fishing” have the meanings given those terms insection 4003 of the Driftnet Impact Monitoring, Assessment, and Control Act of 1987 (16 U.S.C. 1822 note);
 
 &emsp;(2) the term “eastern tropical Pacific Ocean” means the area of the Pacific Ocean bounded by 40 degrees north latitude, 40 degrees south latitude, 160 degrees west longitude, and the western coastlines of North, Central, and South America;
 
@@ -118,7 +118,7 @@ The Secretary, in consultation with the Secretary of the Treasury, shall issue r
 
 &emsp;(A) before the effective date of the initial finding by the Secretary under subsection (g)(1) of this section;
 
-&emsp;(B) after the effective date of such initial finding and before the effective date of the finding of the Secretary under subsection (g)(2) of this section, where the initial finding is that the intentional deployment on or encirclement of dolphins is having a significant adverse impact on any depleted dolphin stock; or
+&emsp;(B) after the effective date of such initial finding and before the effective date of the finding of the Secretary under subsection (g)(2) of this section, where the initial finding is that the intentional deployment on or encirclement of dolphins is having a significantadverse impact on any depleted dolphin stock; or
 
 &emsp;(C) after the effective date of the finding under subsection (g)(2) of this section, where such finding is that the intentional deployment on or encirclement of dolphins is having a significant adverse impact on any such depleted stock.
 
@@ -167,6 +167,10 @@ Negotiations.—The Secretary of State shall immediately seek, through negotiati
 “(i)
 
 Effective Date.—Subsections (d) and (e) of this section shall take effect 6 months after November 28, 1990.”
+
+#### Change of Name
+
+Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Effective Date of 1997 Amendment
 

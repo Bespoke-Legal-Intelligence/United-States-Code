@@ -40,5 +40,5 @@ The Director of NIH shall establish procedures for periodic technical and scient
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 280e, 282, 283f, 284, 284a, 287a–2, 287c, 289a–1, 289c of this title.
+This section is referred to in sections 280e, 282, 283f, 284, 284a, 285g–9, 287a–2, 287c, 289a–1, 289c of this title.
 

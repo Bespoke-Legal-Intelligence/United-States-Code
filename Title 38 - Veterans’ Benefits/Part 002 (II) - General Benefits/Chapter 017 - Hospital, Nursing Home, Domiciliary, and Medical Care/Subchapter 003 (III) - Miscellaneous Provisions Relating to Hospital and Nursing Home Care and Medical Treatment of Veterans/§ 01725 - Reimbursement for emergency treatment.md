@@ -40,7 +40,7 @@ Limitations on Reimbursement.—(1) The Secretary, in accordance with regulation
 
 &emsp;(C) provide that in no event may a payment under that subsection include any amount for which the veteran is not personally liable.
 
-(2) Subject to paragraph (1), the Secretary may provide reimbursement under this section only after the veteran or the provider of emergency treatment has exhausted without success all claims and remedies reasonably available to the veteran or provider against a third party for payment of such treatment.
+(2) Subject to paragraph (1), the Secretary may provide reimbursement under this section only after the veteran or the provider of emergency treatment has exhausted without successall claims and remedies reasonably available to the veteran or provider against a third party for payment of such treatment.
 
 (3) Payment by the Secretary under this section on behalf of a veteran to a provider of emergency treatment shall, unless rejected and refunded by the provider within 30 days of receipt, extinguish any liability on the part of the veteran for that treatment. Neither the absence of a contract or agreement between the Secretary and the provider nor any provision of a contract, agreement, or assignment to the contrary shall operate to modify, limit, or negate the requirement in the preceding sentence.
 

@@ -22,7 +22,11 @@ General.—(1) The National Transportation Safety Board shall investigate or hav
 
 &emsp;&emsp;(iii) the investigation of the accident would carry out this chapter.
 
-(2) An investigation by the Board under paragraph (1)(A)–(D) or (F) of this subsection has priority over any investigation by another department, agency, or instrumentality of the United States Government. The Board shall provide for appropriate participation by other departments, agencies, or instrumentalities in the investigation. However, those departments, agencies, or instrumentalities may not participate in the decision of the Board about the probable cause of the accident.
+(2)(A) Subject to the requirements of this paragraph, an investigation by the Board under paragraph (1)(A)–(D) or (F) of this subsection has priority over any investigation by another department, agency, or instrumentality of the United States Government. The Board shall provide for appropriate participation by other departments, agencies, or instrumentalities in the investigation. However, those departments, agencies, or instrumentalities may not participate in the decision of the Board about the probable cause of the accident.
+
+(B) If the Attorney General, in consultation with the Chairman of the Board, determines and notifies the Board that circumstances reasonably indicate that the accident may have been caused by an intentional criminal act, the Board shall relinquish investigative priority to the Federal Bureau of Investigation. The relinquishment of investigative priority by the Board shall not otherwise affect the authority of the Board to continue its investigation under this section.
+
+(C) If a Federal law enforcement agency suspects and notifies the Board that an accident being investigated by the Board under subparagraph (A), (B), (C), or (D) of paragraph (1) may have been caused by an intentional criminal act, the Board, in consultation with the law enforcement agency, shall take necessary actions to ensure that evidence of the criminal act is preserved.
 
 (3) This section and sections 1113, 1116(b), 1133, and 1134(a) and (c)–(e) of this title do not affect the authority of another department, agency, or instrumentality of the Government to investigate an accident under applicable law or to obtain information directly from the parties involved in, and witnesses to, the accident. The Board and other departments, agencies, and instrumentalities shall ensure that appropriate information developed about the accident is exchanged in a timely manner.
 
@@ -34,7 +38,7 @@ Accidents Involving Public Vessels.—(1) The Board or the head of the departmen
 
 (c)
 
-Accidents Not Involving Government Misfeasance or Nonfeasance.—(1) When askedby the Board, the Secretary of Transportation may—
+Accidents Not Involving Government Misfeasance or Nonfeasance.—(1) When asked by the Board, the Secretary of Transportation may—
 
 &emsp;(A) investigate an accident described under subsection (a) or (b) of this section in which misfeasance or nonfeasance by the Government has not been alleged; and
 
@@ -44,13 +48,13 @@ Accidents Not Involving Government Misfeasance or Nonfeasance.—(1) When askedb
 
 (d)
 
-Accidents Involving Public Aircraft.—The Board, in furtherance of its investigative duties with respect to public aircraft accidents under subsection (a)(1)(A) of this section, shall have the same duties and powers as are specified for civil aircraft accidents under sections 1132(a), 1132(b), and 1134(b)(2) of this title.
+Accidents Involving Public Aircraft.—The Board, in furtherance of its investigative duties with respect to public aircraft accidents under subsection (a)(1)(A) of this section, shall have the same duties and powers as are specified for civil aircraft accidents under sections 1132(a), 1132(b), and 1134(a), (b), (d), and (f) of this title.
 
 (e)
 
 Accident Reports.—The Board shall report on the facts and circumstances of each accident investigated by it under subsection (a) or (b) of this section. The Board shall make each report available to the public at reasonable cost.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 752; Pub. L. 103–411, §3(c), Oct. 25, 1994, 108 Stat. 4237.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 752; Pub. L. 103–411, §3(c), Oct. 25, 1994, 108 Stat. 4237; Pub. L. 106–424, §§6(a), 7, Nov. 1, 2000, 114 Stat. 1885, 1886.)
 
 Historical and Revision Notes
 
@@ -138,6 +142,10 @@ In subsection (d), the words “in writing” in 49 App.:1903(a)(2) are omitted 
 
 #### Amendments
 
+2000—Subsec. (a)(2). Pub. L. 106–424, §6(a), designated existing provisions as subpar. (A), substituted “Subject to the requirements of this paragraph, an investigation” for “An investigation”, and added subpars. (B) and (C).
+
+Subsec. (d). Pub. L. 106–424, §7, substituted “1134(a), (b), (d), and (f)” for “1134(b)(2)”.
+
 1994—Subsec. (a)(1)(A). Pub. L. 103–411, §3(c)(1), inserted before semicolon at end “or an aircraft accident involving a public aircraft as defined by section 40102(a)(37) of this title other than an aircraft operated by the Armed Forces or by an intelligence agency of the United States”.
 
 Subsec. (d), (e). Pub. L. 103–411, §3(c)(2), added subsec. (d) and redesignated former subsec. (d) as (e).
@@ -146,11 +154,19 @@ Subsec. (d), (e). Pub. L. 103–411, §3(c)(2), added subsec. (d) and redesignat
 
 Section 3(d) of Pub. L. 103–411 provided that: “The amendments made by subsections (a) and (c) \[amending this section and section 40102 of this title\] shall take effect on the 180th day following the date of the enactment of this Act \[Oct. 25, 1994\].”
 
+#### Revision of 1977 Agreement
+
+Pub. L. 106–424, §6(b), Nov. 1, 2000, 114 Stat. 1886, provided that: “Not later than 1 year after the date of the enactment of this Act \[Nov. 1, 2000\], the National Transportation Safety Board and the Federal Bureau of Investigation shall revise their 1977 agreement on the investigation of accidents to take into account the amendments made by this Act \[see Short Title of 2000Amendment note set out under section 1101 of this title\].”
+
+#### Memorandum of Understanding
+
+Pub. L. 106–424, §8, Nov. 1, 2000, 114 Stat. 1886, provided that: “Not later than 1 year after the date of the enactment of this Act \[Nov. 1, 2000\], the National Transportation Safety Board and the United States Coast Guard shall revise their Memorandum of Understanding governing major marine accidents—
+
+&emsp;“(1) to redefine or clarify the standards used to determine when the National Transportation Safety Board will lead an investigation; and
+
+&emsp;“(2) to develop new standards to determine when a major marine accident involves significant safety issues relating to Coast Guard safety functions.”
+
 #### Territorial Sea of United States
 
 For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
-
-#### Contiguous Zone of United States
-
-For extension of contiguous zone of United States, see Proc. No. 7219, Sept. 2, 1999, 64 F.R. 48701, set out as a note under section 1331 of Title 43, Public Lands.
 

@@ -28,7 +28,7 @@ Section 1609 of Pub. L. 102–550 provided that:
 
 “(a)
 
-In General.—Except as provided in subsection (b) or any other provision of this subtitle \[subtitle A\(§§1601–1609) of title XVI of Pub. L. 102–550, see Tables for classification\], the amendments made by this subtitle to the Federal Deposit Insurance Corporation Improvement Act of 1991, the Federal Deposit Insurance Act, and any other law shall take effect as if such amendments had been included in the Federal Deposit Insurance Corporation Improvement Act of 1991 \[Pub. L. 102–242\] as of the date of the enactment of such Act \[Dec. 19, 1991\].
+In General.—Except as provided in subsection (b) or any other provision of this subtitle \[subtitle A (§§1601–1609) of title XVI of Pub. L. 102–550, see Tables for classification\], the amendments made by this subtitle to the Federal Deposit Insurance Corporation Improvement Act of 1991, the Federal Deposit Insurance Act, and any other law shall take effect as if such amendments had been included in the Federal Deposit Insurance Corporation Improvement Act of 1991 \[Pub. L. 102–242\] as of the date of the enactment of such Act \[Dec. 19, 1991\].
 
 “(b)
 
@@ -48,7 +48,7 @@ Functions vested by any provision of law in Comptroller of the Currency, referre
 
 #### Application to District of Columbia
 
-Provisions of this section were made applicable to banks, etc., in the District of Columbia by act Mar. 4, 1933, ch. 274, §4, 47 Stat. 1567 (D.C. Code, §26–104).
+Provisions of this section were made applicable to banks, etc., in the District of Columbia by act Mar. 4, 1933, ch. 274, §4, 47 Stat. 1567.
 
 #### Termination of National Bank Closed Receivership Fund
 

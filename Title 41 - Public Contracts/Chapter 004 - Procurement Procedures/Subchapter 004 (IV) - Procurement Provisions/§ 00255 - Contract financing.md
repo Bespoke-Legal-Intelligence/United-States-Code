@@ -24,7 +24,7 @@ Payments made under subsection (a) of this section may not exceed the unpaid con
 
 #### (d) Security for advance payments
 
-Advance payments under subsection (a) of this section may be made only upon adequate security and a determination by the agency head that to do so would be in the public interest. Such security may be in the form of a lien in favor of the Government on the property contracted for, on the balance in an account in which such payments are deposited, and on such of the property acquired for performance of the contract as the parties may agree. This lienshall be paramount to all other liens and is effective immediately upon the first advancement of funds without filing, notice, or any other action by the United States.
+Advance payments under subsection (a) of this section may be made only upon adequate security and a determination by the agency head that to do so would be in the public interest. Such security may be in the form of a lien in favor of the Government on the property contracted for, on the balance in an account in which such payments are deposited, and on such of the property acquired for performance of the contract as the parties may agree. This lien shall be paramount to all other liens and is effective immediately upon the first advancement of funds without filing, notice, or any other action by the United States.
 
 #### (e) Conditions for progress payments
 
@@ -46,7 +46,7 @@ Advance payments under subsection (a) of this section may be made only upon adeq
 
 (1) In any case in which the remedy coordination official of an executive agency finds that there is substantial evidence that the request of a contractor for advance, partial, or progress payment under a contract awarded by that executive agency is based on fraud, the remedy coordination official shall recommend that the executive agency reduce or suspend further payments to such contractor.
 
-(2) The head of an executive agency receiving a recommendation under paragraph (1) in the case of a contractor's request for payment under a contract shall determine whether there is substantial evidence that the request is based on fraud. Upon making such a determination, the head of the executive agency may reduce or suspend further payments to the contractor under such contract.
+(2) The head of an executive agency receiving a recommendation under paragraph (1) in the case of a contractor's request for payment undera contract shall determine whether there is substantial evidence that the request is based on fraud. Upon making such a determination, the head of the executive agency may reduce or suspend further payments to the contractor under such contract.
 
 (3) The extent of any reduction or suspension of payments by an executive agency under paragraph (2) on the basis of fraud shall be reasonably commensurate with the anticipated loss to the United States resulting from the fraud.
 
@@ -121,12 +121,6 @@ Section 2051(f) of Pub. L. 103–355 provided that: “The amendments made by th
 #### Definitions
 
 The definitions in section 472 of Title 40, Public Buildings, Property, and Works, apply to this subchapter.
-
-#### Cross References
-
-Advance payments on negotiated armed services contracts, see section 2307 of Title 10, Armed Forces.
-
-Agency head, definition of, see section 259 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -86,7 +86,7 @@ The Federal Trade Commission Act, referred to in subsec. (a)(2)(A), (4), is act 
 
 Sections 73 and 74 of the Wilson Tariff Act, referred to in subsec. (a)(2)(A), (4), are sections 73 and 74 of act Aug. 27, 1894, ch. 349, 28 Stat. 570, which enacted sections 8 and 9, respectively, of Title 15.
 
-Act of June 19, 1936, referred to in subsec. (a)(2)(A), (4), is act June 19, 1936, ch. 592, 49 Stat. 1526, popularly known as the Robinson-Patman Anti-discrimination Act and also as the Robinson-Patman Price Discrimination Act, which enacted sections 13a, 13b, and 21a of Title 15 and amended section 13 of Title 15. For complete classification of this Act to the Code, see Short Title note set out under section 13 of Title 15 and Tables.
+Act of June 19, 1936, referred to in subsec. (a)(2)(A), (4), is act June 19, 1936, ch. 592, 49 Stat. 1526, popularly known as the Robinson-Patman Antidiscrimination Act and also as the Robinson-Patman Price Discrimination Act, which enacted sections 13a, 13b, and 21a of Title 15 and amended section 13 of Title 15. For complete classification of this Act to the Code, see Short Title note set out under section 13 of Title 15 and Tables.
 
 #### Prior Provisions
 

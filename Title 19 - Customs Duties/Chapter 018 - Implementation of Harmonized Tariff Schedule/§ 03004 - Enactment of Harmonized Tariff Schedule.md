@@ -66,7 +66,7 @@ Each—
 
 The Harmonized Tariff Schedule, referred to in text, is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
 
-The Trade Act of 1974, referred to in subsec. (b)(1)(A)(i), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended, which is classified principally to chapter 12 (§2101 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of this title and Tables.
+The Trade Act of 1974, referred to in subsec. (b)(1)(A)(i), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended, which is classified principally to chapter12 (§2101 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of this title and Tables.
 
 The Trade Agreements Act of 1979, referred to in subsec. (b)(1)(A)(i), is Pub. L. 96–39, July 26, 1979, 93 Stat. 144, as amended. For complete classification of this Act to the Code, see References in Text note set out under section 2501 of this title and Tables.
 

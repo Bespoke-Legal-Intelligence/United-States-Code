@@ -14,7 +14,7 @@ Political Activities.—The corporation shall be nonpolitical and may not provid
 
 (d)
 
-Distribution of Income or Assets.—The income or assets of the corporation may not inure to the benefit of, or be distributed to, a director, officer, member, or employee during the life of the corporation or on its dissolution or final liquidation. This subsection does not prevent the payment of reasonable compensation to an officer or employee or reimbursement for actual necessary expenses in amounts approved by the board of directors.
+Distribution of Income or Assets.—The income or assets of the corporation may not inure to the benefit of, or be distributed to, a director, officer, member, or employee during the life of the corporation or on its dissolution or final liquidation. This subsection does not prevent the payment of reasonable compensation toan officer or employee or reimbursement for actual necessary expenses in amounts approved by the board of directors.
 
 (e)
 

@@ -71,7 +71,7 @@
 
 |  |
 | :--- |
-| 1191 to 1193. Repealed. |
+| 1191 to 1193. Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

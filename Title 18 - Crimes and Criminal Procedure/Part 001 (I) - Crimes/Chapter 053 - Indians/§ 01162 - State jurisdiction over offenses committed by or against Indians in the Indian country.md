@@ -13,7 +13,7 @@
 | Oregon | All Indian country within the State, except the Warm Springs Reservation. |
 | Wisconsin | All Indian country within the State. |
 
-(b) Nothing in this section shall authorize the alienation, encumbrance, or taxation of any real or personal property, including water rights, belonging to any Indian or any Indian tribe, band, or community that is held in trust by the United States or is subject to a restriction against alienation imposed by the United States; or shall authorize regulation of the use of such property in a manner inconsistent with any Federal treaty, agreement, or statute or with any regulation made pursuant thereto; or shall deprive any Indian or any Indian tribe, band, or community of any right, privilege, or immunity afforded under Federal treaty, agreement, or statute with respect to hunting, trapping, or fishing or the control, licensing, or regulation thereof.
+(b) Nothing in this section shall authorize the alienation, encumbrance, or taxation of any realor personal property, including water rights, belonging to any Indian or any Indian tribe, band, or community that is held in trust by the United States or is subject to a restriction against alienation imposed by the United States; or shall authorize regulation of the use of such property in a manner inconsistent with any Federal treaty, agreement, or statute or with any regulation made pursuant thereto; or shall deprive any Indian or any Indian tribe, band, or community of any right, privilege, or immunity afforded under Federal treaty, agreement, or statute with respect to hunting, trapping, or fishing or the control, licensing, or regulation thereof.
 
 (c) The provisions of sections 1152 and 1153 of this chapter shall not be applicable within the areas of Indian country listed in subsection (a) of this section as areas over which the several States have exclusive jurisdiction.
 
@@ -32,14 +32,6 @@ Subsec. (c). Pub. L. 91–523, §2, inserted “as areas over which the several 
 #### Admission of Alaska as State
 
 Admission of Alaska into the Union was accomplished Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as notes preceding section 21 of Title 48, Territories and Insular Possessions.
-
-#### Cross References
-
-Amendment of State Constitutions to remove legal impediments and effective date thereof, see note set out under section 1360 of Title 28, Judiciary and Judicial Procedure.
-
-Consent of United States to other States to assume jurisdiction, see note set out under section 1360 of Title 28.
-
-Retrocession of criminal jurisdiction by State, see section 1323 of Title 25, Indians.
 
 #### Section Referred to in Other Sections
 

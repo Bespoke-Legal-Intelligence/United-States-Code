@@ -6,10 +6,6 @@
 
 (Pub. L. 91–297, title II, §201(a), (b), June 30, 1970, 84 Stat. 357; Pub. L. 93–198, title IV, §421, Dec. 24, 1973, 87 Stat. 789; Pub. L. 95–179, Nov. 15, 1977, 91 Stat. 1371.)
 
-#### Codification
-
-Section is also set out in D.C. Code, §4–127.
-
 #### Amendments
 
 1977—Pub. L. 95–179 substituted “United States Secret Service Uniformed Division” for “Executive Protective Service” wherever appearing.
@@ -20,5 +16,5 @@ Section 201(c) of Pub. L. 91–297 provided that: “This section \[enacting thi
 
 #### Transfer of Functions
 
-Office of Commissioner of District of Columbia, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by Pub. L. 93–198, title VII, §711, Dec. 24, 1973, 87 Stat. 818, and replaced by office of Mayor of District of Columbia by section 421 of Pub. L. 93–198, classified to section 1–241 of the District of Columbia Code. Accordingly, “Mayor” substituted in text for “commissioner”.
+Office of Commissioner of District of Columbia, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by Pub. L. 93–198, title VII, §711, Dec.24, 1973, 87 Stat. 818, and replaced by office of Mayor of District of Columbia by section 421 of Pub. L. 93–198. Accordingly, “Mayor” substituted in text for “commissioner”.
 

@@ -46,9 +46,9 @@ In the absence of an approved conservation plan, and on a showing of need by the
 
 #### References in Text
 
-Act of September 2, 1937, commonly referred to as the Pittman-Robertson Wildlife Restoration Act, referred to in subsec. (b)(1), is act Sept. 2, 1937, ch. 899, 50 Stat.917, as amended, also known as the Federal Aid in Wildlife Restoration Act, which is classified generally to chapter 5B (§669 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 669 of this title and Tables.
+The Pittman-Robertson Wildlife Restoration Act, referred to in subsec. (b)(1), is act Sept. 2, 1937, ch. 899, 50 Stat. 917, as amended, also known as the Federal Aid in Wildlife Restoration Act, which is classified generally to chapter 5B (§669 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 669 of this title and Tables.
 
-Act of August 9, 1950, commonly referred to as the Dingell-Johnson Sport Fish Restoration Act, referred to in subsec. (b)(2), is act Aug. 9, 1950, ch. 658, 64 Stat. 430, as amended, also known as the Federal Aid in Fish Restoration Act and Fish Restoration and Management Projects Act, which is classified generally to chapter 10B (§777 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 777 of this title and Tables.
+The Dingell-Johnson Sport Fish Restoration Act, referred to in subsec. (b)(2), is act Aug. 9, 1950, ch. 658, 64 Stat. 430, as amended, also known as the Federal Aid in Fish Restoration Act and the Fish Restoration and Management Projects Act, which is classified generally to chapter 10B (§777 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 777 of this title and Tables.
 
 #### Section Referred to in Other Sections
 

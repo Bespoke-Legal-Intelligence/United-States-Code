@@ -8,7 +8,7 @@ On or at any time after October 1, 1935, any holding company or any person purpo
 
 It shall be the duty of every registered holding company to file with the Commission, within such reasonable time after registration as the Commission shall fix by rules and regulations or order, a registration statement in such form as the Commission shall by rules and regulations or order prescribe as necessary or appropriate in the public interest or for the protection of investors or consumers. Such registration statement shall include—
 
-&emsp;(1) such copies of the charter or articles of incorporation, partnership, or agreement, with all amendments thereto, and the bylaws, trust indentures, mortgages, underwriting arrangements, voting-trust agreements, and similar documents, by whatever name known, of or relating to the registrant or any of its associatecompanies as the Commission may by rules and regulations or order prescribe as necessary or appropriate in the public interest or for the protection of investors or consumers;
+&emsp;(1) such copies of the charter or articles of incorporation, partnership, or agreement, with all amendments thereto, and the bylaws, trust indentures, mortgages, underwriting arrangements, voting-trust agreements, and similar documents, by whatever name known, of or relating to the registrant or any of its associate companies as the Commission may by rules and regulations or order prescribe as necessary or appropriate in the public interest or for the protection of investors or consumers;
 
 &emsp;(2) such information in such form and in such detail relating to, and copies of such documents of or relating to, the registrant and its associate companies as the Commission may by rules and regulations or order prescribe as necessary or appropriate in the public interest or for the protection of investors or consumers in respect of—
 
@@ -45,18 +45,6 @@ Whenever the Commission, upon application, finds that a registered holding compa
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
-#### Cross References
-
-Approval of acquisition of securities and utility assets and other interests, application for containing information and documents required by this section, see section 79j of this title.
-
-Periodic and other reports, see section 79n of this title.
-
-Registered holding company, definition of, see section 79b of this title.
-
-Rules and regulations, authority of Commission to make, issue, amend, and rescind, see section 79t of this title.
-
-Transactions by unregistered holding companies unlawful, see section 79d of this title.
 
 #### Section Referred to in Other Sections
 

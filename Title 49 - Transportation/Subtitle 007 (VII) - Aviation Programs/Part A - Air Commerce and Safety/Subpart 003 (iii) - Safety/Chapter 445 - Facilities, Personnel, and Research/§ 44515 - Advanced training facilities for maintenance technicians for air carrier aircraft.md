@@ -32,7 +32,11 @@ Oct., 31, 1992, Pub. L. 102–581, §119(a)–(c), 106 Stat. 4883.
 
 The words “vocational technical educational institution” are used throughout this section for consistency in this section.
 
+#### Improved Training for Airframe and Powerplant Mechanics
+
+Pub. L. 106–181, title V, §517, Apr. 5, 2000, 114 Stat. 145, provided that: “The Administrator \[of the Federal Aviation Administration\] shall form a partnership with industry and labor to develop a model program to improve the curricula, teaching methods, and quality of instructors for training individuals that need certification as airframe and powerplant mechanics.”
+
 #### Section Referred to in Other Sections
 
-This section is referred to in section 48110 of this title.
+This section is referred to in sections 106, 48110 of this title.
 

@@ -18,7 +18,3 @@ Amendment by act Oct. 20, 1951, effective at noon, Jan. 3, 1953, see section 619
 
 Section effective at noon, Jan. 20, 1949, see section 3 of act Jan. 19, 1949.
 
-#### Cross References
-
-Adjustment of allowances by Committee on House Oversight, see section 57 of this title.
-

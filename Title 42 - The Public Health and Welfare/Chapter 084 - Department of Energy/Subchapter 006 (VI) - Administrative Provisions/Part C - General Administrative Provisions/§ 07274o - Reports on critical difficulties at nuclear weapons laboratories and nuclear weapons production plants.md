@@ -2,7 +2,7 @@
 
 #### (a) Reports by heads of laboratories and plants
 
-In the event of a difficulty at a nuclear weapons laboratory or a nuclear weapons production plant that has a significant bearing on confidence in the safety or reliability of a nuclear weapon or nuclear weapon type, the head of the laboratory or plant, as the case may be, shallsubmit to the Assistant Secretary of Energy for Defense Programs a report on the difficulty. The head of the laboratory or plant shall submit the report as soon as practicable after discovery of the difficulty.
+In the event of a difficulty at a nuclear weapons laboratory or a nuclear weapons production plant that has a significant bearing on confidence in the safety or reliability of a nuclear weapon or nuclear weapon type, the head of the laboratory or plant, as the case may be, shall submit to the Assistant Secretary of Energy for Defense Programs a report on the difficulty. The head of the laboratory or plant shall submit the report as soon as practicable after discovery of the difficulty.
 
 #### (b) Transmittal by Assistant Secretary
 

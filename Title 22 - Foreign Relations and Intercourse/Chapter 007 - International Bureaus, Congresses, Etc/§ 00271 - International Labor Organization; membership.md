@@ -16,7 +16,7 @@ Pub. L. 88–65, July 17, 1963, 77 Stat. 80, provided: “That the President is 
 
 The reasons for acceptance of the Constitution of the Organization by the United States is set forth in the preliminary clauses of act June 30, 1948, ch. 756, 62 Stat. 1151, which provided that:
 
-“Whereas the Senate and House of Representatives by Public Resolution Numbered 43 of the Seventy-thirdCongress authorized the President to accept membership for the Government of the United States of America in the International Labor Organization and the President, pursuant thereto, accepted such membership on August 20, 1934; and
+“Whereas the Senate and House of Representatives by Public Resolution Numbered 43 of the Seventy-third Congress authorized the President to accept membership for the Government of the United States of America in the International Labor Organization and the President, pursuant thereto, accepted such membership on August 20, 1934; and
 
 “Whereas such membership in the International Labor Organization has proved of benefit to the people of the United States; and
 

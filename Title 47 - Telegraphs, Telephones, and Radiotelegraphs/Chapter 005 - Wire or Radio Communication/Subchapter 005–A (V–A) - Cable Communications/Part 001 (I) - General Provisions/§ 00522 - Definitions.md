@@ -10,7 +10,7 @@ For purposes of this subchapter—
 
 &emsp;(4) the term “cable channel” or “channel” means a portion of the electromagnetic frequency spectrum which is used in a cable system and which is capable of delivering a television channel (as television channel is defined by the Commission by regulation);
 
-&emsp;(5) the term “cable operator” means any person or group of persons (A) who provides cable service over a cable system and directly or through one or more affiliates owns a significant interest in such cable system, or (B) who otherwise controls or is responsible for, through any arrangement, the management and operation of such a cable system;
+&emsp;(5) the term “cable operator” means any person or group of persons (A) who providescable service over a cable system and directly or through one or more affiliates owns a significant interest in such cable system, or (B) who otherwise controls or is responsible for, through any arrangement, the management and operation of such a cable system;
 
 &emsp;(6) the term “cable service” means—
 

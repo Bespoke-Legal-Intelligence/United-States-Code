@@ -9,7 +9,7 @@ This subchapter is referred to in section 4332 of this title.
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 04341 - Reports to Congress; recommendations for legislation](%C2%A7%2004341%20-%20Reports%20to%20Congress%3B%20recommendations%20for%20legislation.md)
+- [&sect; 04341 - Omitted](%C2%A7%2004341%20-%20Omitted.md)
 - [&sect; 04342 - Establishment; membership; Chairman; appointments](%C2%A7%2004342%20-%20Establishment%3B%20membership%3B%20Chairman%3B%20appointments.md)
 - [&sect; 04343 - Employment of personnel, experts and consultants](%C2%A7%2004343%20-%20Employment%20of%20personnel%2C%20experts%20and%20consultants.md)
 - [&sect; 04344 - Duties and functions](%C2%A7%2004344%20-%20Duties%20and%20functions.md)

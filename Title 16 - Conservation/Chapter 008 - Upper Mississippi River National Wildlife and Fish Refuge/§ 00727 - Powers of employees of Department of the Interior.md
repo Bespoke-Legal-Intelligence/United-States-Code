@@ -6,7 +6,7 @@ Any employee of the Department of the Interior authorized by the Secretary of th
 
 #### (b) Seizures
 
-All birds, animals, fish, or parts thereof captured, injured, or killed, and all flowers, plants, trees, and other natural growths, and nests and eggs of birds removed, and all implements or paraphernalia, including guns, fishing equipment, and boats used or attempted to be used contrary to the provisions of this chapter or any regulations made pursuant thereto, shall, when found by such employee or by any marshal or deputy marshal, be summarily seized by him and placed in the custody of such persons as the Secretary of the Interior may by regulation prescribe.
+All birds, animals, fish, or parts thereof captured, injured, or killed, and all flowers, plants, trees, and other natural growths, and nests and eggs of birds removed, and all implements orparaphernalia, including guns, fishing equipment, and boats used or attempted to be used contrary to the provisions of this chapter or any regulations made pursuant thereto, shall, when found by such employee or by any marshal or deputy marshal, be summarily seized by him and placed in the custody of such persons as the Secretary of the Interior may by regulation prescribe.
 
 #### (c) Reports of seizures; forfeiture and libel proceedings
 
@@ -23,8 +23,4 @@ A report of the seizure shall be made to the United States attorney for the judi
 For transfer of certain enforcement functions of Secretary or other official in Department of the Interior under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, see Transfer of Functions note set out under section 725 of this title.
 
 Transfer of functions of Secretary of Agriculture and Secretary of Commerce to Secretary of the Interior by Reorg. Plan No. II of 1939, see Transfer of Functions note set out under section 723 of this title.
-
-#### Federal Rules of Civil Procedure
-
-Admiralty and maritime rules of practice (which included libel procedures) were superseded, and civil and admiralty procedures in United States district courts were unified, effective July 1, 1966, see rule 1 and Supplemental Rules for Certain Admiralty and Maritime Claims, Title 28, Appendix, Judiciary and Judicial Procedure.
 

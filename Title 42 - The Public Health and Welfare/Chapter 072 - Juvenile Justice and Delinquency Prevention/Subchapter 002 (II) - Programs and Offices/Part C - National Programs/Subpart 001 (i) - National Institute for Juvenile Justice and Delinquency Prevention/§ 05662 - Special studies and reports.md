@@ -48,7 +48,7 @@
 
 &emsp;&emsp;(ii) conditions of confinement, the average length of stay, and methods of payment for the residential care of such juveniles; and
 
-&emsp;(B) submit to the Committee on Education and Labor of the House of Representatives andthe Committee on the Judiciary of the Senate a report on the findings made in the study and recommendations to improve procedural protections and conditions for juveniles with behavior disorders admitted to such hospitals and programs.
+&emsp;(B) submit to the Committee on Education and Labor of the House of Representatives and the Committee on the Judiciary of the Senate a report on the findings made in the study and recommendations to improve procedural protections and conditions for juveniles with behavior disorders admitted to such hospitals and programs.
 
 (3) Not later than 1 year after November 4, 1992, the Comptroller General shall—
 
@@ -74,7 +74,7 @@
 
 &emsp;&emsp;(ii) a comparison of access to and the quality of counsel afforded juveniles charged in adult court proceedings with those of juveniles charged in juvenile court proceedings; and
 
-&emsp;(B) submit to Committee on Education and Labor of the House of Representatives and the Committee on the Judiciary of the Senate a report on the findings made in the study and recommendations to improve access to counsel for juveniles in juvenile court proceedings.
+&emsp;(B) submit to Committee on Education and Labor of the House of Representatives and the Committee on the Judiciary of the Senate a report on the findings made in the study andrecommendations to improve access to counsel for juveniles in juvenile court proceedings.
 
 (6)(A) Not later than 180 days after November 4, 1992, the Administrator shall begin to conduct a study and continue any pending study of the incidence of violence committed by or against juveniles in urban and rural areas in the United States.
 

@@ -18,5 +18,5 @@ Functions of all officers of Department of the Treasury, and functions of all ag
 
 Reorg. Plan No. III of 1940, §3, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232, set out in the Appendix to Title 5, Government Organization and Employees, consolidated Bureau of Fisheries and Bureau of Biological Survey with their respective functions into one agency in Department of the Interior to be known as Fish and Wildlife Service, and provided that functions of the consolidated agency shall be administered under direction and supervision of Secretary of the Interior.
 
-Reorg. Plan No. II of 1930, set out in the Appendix to Title 5, transferred Bureau of Fisheries in Departmentof Commerce and its functions to Department of the Interior, to be administered under direction and supervision of Secretary of the Interior.
+Reorg. Plan No. II of 1930, set out in the Appendix to Title 5, transferred Bureau of Fisheries in Department of Commerce and its functions to Department of the Interior, to be administered under direction and supervision of Secretary of the Interior.
 

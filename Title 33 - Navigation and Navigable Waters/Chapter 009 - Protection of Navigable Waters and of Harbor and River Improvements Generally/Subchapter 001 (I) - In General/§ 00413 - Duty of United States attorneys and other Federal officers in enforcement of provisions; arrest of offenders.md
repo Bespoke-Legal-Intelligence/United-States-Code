@@ -10,7 +10,7 @@ Section is from act Mar. 3, 1899, popularly known as the “Rivers and Harbors A
 
 #### Prior Provisions
 
-Act Sept. 19, 1890, ch. 907, §11, 26 Stat. 455, was probably omitted from the Code as superseded by this section, or as rendered obsolete by act March 3, 1899, different sections of which superseded provisions of the act of 1890, the enforcement of which was provided for by section 11. It read as follows: “It shall be the duty of officers and agents having the supervision, on the part of the United States, of the works in progress for the preservation and improvement of said navigable waters, and, in their absence, of the United States collectors of customs and other revenue officers to enforce the provisions of this act by giving information to the district attorney of the United States for the district in which any violation of any provision of this act shall have been committed: <i>Provided</i>, That the provisions of this act shall not apply to Torch Lake, Houghton County, Michigan.”
+Act Sept. 19, 1890, ch. 907, §11, 26 Stat. 455, was probably omitted from the Code as superseded by this section, or as rendered obsolete by act March 3, 1899, different sections of which superseded provisions of the act of 1890, the enforcement of which was provided for by section 11. It read as follows: “It shall be the duty of officers and agents having the supervision, on the part of the United States, of the works in progress for the preservation and improvement of said navigable waters, and, in their absence, of the United States collectors of customs and other revenue officers to enforce the provisions of this act by giving information to the district attorney of the United States for the district in which any violation of any provision of this act shallhave been committed: <i>Provided</i>, That the provisions of this act shall not apply to Torch Lake, Houghton County, Michigan.”
 
 #### Change of Name
 
@@ -25,12 +25,6 @@ Department of War designated Department of the Army and title of Secretary of Wa
 Functions, powers, and duties of Secretary of the Army and other offices and officers of Department of the Army under section 401 of this title to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670, §6(g)(6)(A), Oct. 15, 1966, 80 Stat. 941, which created Department of Transportation. Pub. L. 97–449 amended section 401 of this title to reflect transfer made by section 6(g)(6)(A) of Pub. L. 89–670, and repealed section 6(g)(6)(A).
 
 All offices of collector of customs, comptroller of customs, surveyor of customs, and appraiser of merchandise in Bureau of Customs of Department of the Treasury to which appointments required to be made by President with advice and consent of Senate were ordered abolished with such offices to be terminated not later than Dec. 31, 1966, by Reorg. Plan No. 1 of 1965, eff. May 25, 1965, 30 F.R. 7035, 79 Stat. 1317, set out in the Appendix to Title 5, Government Organization and Employees. All functions of the offices eliminated were already vested in Secretary of the Treasury by Reorg. Plan No. 26 of 1950, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5.
-
-#### Cross References
-
-Flood control of the Mississippi River, section as applicable, see section 702i of this title.
-
-Regulations prescribed by the Secretary of the Army, see sections 1, 419, and 499 of this title.
 
 #### Section Referred to in Other Sections
 

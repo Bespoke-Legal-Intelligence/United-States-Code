@@ -32,7 +32,7 @@
 
 I74legislative statements
 
-Section 1121 of the House amendment is derived from section 1121 of the House bill; section 1121(c)(1) will besatisfied automatically in a case under subchapter IV of title 11.
+Section 1121 of the House amendment is derived from section 1121 of the House bill; section 1121(c)(1) will be satisfied automatically in a case under subchapter IV of title 11.
 
 #### senate report no. 95–989
 

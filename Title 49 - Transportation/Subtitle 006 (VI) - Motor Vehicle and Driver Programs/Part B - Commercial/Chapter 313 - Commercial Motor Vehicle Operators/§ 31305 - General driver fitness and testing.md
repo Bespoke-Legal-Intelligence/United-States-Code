@@ -84,7 +84,7 @@ In subsection (b)(1), the words “taken and” are omitted as unnecessary. The 
 
 #### CDL School Bus Endorsement
 
-Pub. L. 106–159, title II, §214, Dec. 9, 1999, 113 Stat. 1766, provided that: “The Secretary shall conduct arulemaking to establish a special commercial driver's license endorsement for drivers of school buses. The endorsement shall, at a minimum—
+Pub. L. 106–159, title II, §214, Dec. 9, 1999, 113 Stat. 1766, provided that: “The Secretary shall conduct a rulemaking to establish a special commercial driver's license endorsement for drivers of school buses. The endorsement shall, at a minimum—
 
 &emsp;“(1) include a driving skills test in a school bus; and
 

@@ -16,6 +16,10 @@
 
 1940—Act Apr. 25, 1940, provided for reapportionment based on sixteenth decennial census.
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the report required by subsec. (a) of this section is listed on page 17), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+
 #### Constitutional Provisions
 
 Apportionment of Representatives among the several States, see Const. Art. I, §2, cl. 3, and Amend. XIV, §2.

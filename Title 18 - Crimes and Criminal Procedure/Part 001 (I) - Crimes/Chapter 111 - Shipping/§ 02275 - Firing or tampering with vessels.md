@@ -1,6 +1,6 @@
 ### §2275. Firing or tampering with vessels
 
-Whoever sets fire to any vessel of foreign registry, or any vessel of American registry entitled to engage in commerce with foreign nations, or to any vessel of the United States, or to the cargo of the same, or tampers with the motive power of instrumentalities of navigation of such vessel, or places bombs or explosives in or upon such vessel, or does any other act to or upon such vessel while within the jurisdiction of the United States, or, if such vessel is of American registry, while she is on the high sea, with intent to injure or endanger the safety of the vessel or of her cargo, or of persons on board, whether the injury or danger is so intended to take place within the jurisdiction of the United States, or after the vessel shall have departed therefrom and whoever attempts to do so shall be fined under this title or imprisoned not more than twenty years, or both.
+Whoever sets fire to any vessel of foreign registry, or any vessel of American registry entitled to engage in commerce with foreign nations, or to any vessel of the United States, orto the cargo of the same, or tampers with the motive power of instrumentalities of navigation of such vessel, or places bombs or explosives in or upon such vessel, or does any other act to or upon such vessel while within the jurisdiction of the United States, or, if such vessel is of American registry, while she is on the high sea, with intent to injure or endanger the safety of the vessel or of her cargo, or of persons on board, whether the injury or danger is so intended to take place within the jurisdiction of the United States, or after the vessel shall have departed therefrom and whoever attempts to do so shall be fined under this title or imprisoned not more than twenty years, or both.
 
 (June 25, 1948, ch. 645, 62 Stat. 804; Pub. L. 103–322, title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
 
@@ -19,16 +19,6 @@ Minor changes were made in phraseology.
 #### Amendments
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
-
-#### Canal Zone
-
-Applicability of section to Canal Zone, see section 14 of this title.
-
-#### Cross References
-
-Destruction of property moving in commerce, see section 80501 of Title 49, Transportation.
-
-Jurisdiction of offenses, see section 3241 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -32,7 +32,7 @@ The report required under subsection (a) of this section should to the extent fe
 
 &emsp;&emsp;(B) the response of the judicial system of each country which is the subject of such report with respect to matters relating to terrorism affecting American citizens or facilities, or which have, in the opinion of the Secretary, a significant impact on United States counterterrorism efforts, including responses to extradition requests; and
 
-&emsp;&emsp;(C) significant support, if any, for international terrorism by each country which isthe subject of such report, including (but not limited to)—
+&emsp;&emsp;(C) significant support, if any, for international terrorism by each country which is the subject of such report, including (but not limited to)—
 
 &emsp;&emsp;&emsp;(i) political and financial support;
 
@@ -124,7 +124,7 @@ In General.—Not later than 6 months after the date of enactment of this Act \[
 
 &emsp;“(4) The policy of the Department of State with respect to offering rewards for information on terrorist suspects, including any information on whether a reward has been posted for suspects involved in terrorist attacks listed in the report.
 
-&emsp;“(5) A list of each request by the United States for assistance in investigating terrorist attacks listed inthe report, a list of each request by the United States for the transfer of terrorist suspects from the Palestinian Authority and Israel since September 13, 1993, and the response to each request from the Palestinian Authority and Israel.
+&emsp;“(5) A list of each request by the United States for assistance in investigating terrorist attacks listed in the report, a list of each request by the United States for the transfer of terrorist suspects from the Palestinian Authority and Israel since September 13, 1993, and the response to each request from the Palestinian Authority and Israel.
 
 &emsp;“(6) A description of efforts made by United States officials since September 13, 1993 to bring to justice perpetrators of terrorist acts against United States citizens as listed in the report.
 

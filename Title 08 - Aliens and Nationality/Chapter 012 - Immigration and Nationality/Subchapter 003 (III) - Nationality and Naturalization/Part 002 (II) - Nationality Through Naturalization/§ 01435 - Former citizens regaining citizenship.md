@@ -12,7 +12,7 @@ Such person, or any person who was naturalized in accordance with the provisions
 
 #### (b) Additional requirements
 
-No person who is otherwise eligible for naturalization in accordance with the provisions of subsection (a) of this section shall be naturalized unless such person shall establish to the satisfaction of the Attorney General that she has been a person of good moral character, attached to the principles of the Constitution of the United States, and well disposed to the good order and happiness of the United States for a period of not less than five years immediately preceding the date of filing an application for naturalization and up to the time of admission to citizenship, and, unless she has resided continuously in the United States since the date of her marriage, has been lawfully admitted for permanent residence prior to filing her application for naturalization.
+No person who is otherwise eligible for naturalization in accordance with the provisions ofsubsection (a) of this section shall be naturalized unless such person shall establish to the satisfaction of the Attorney General that she has been a person of good moral character, attached to the principles of the Constitution of the United States, and well disposed to the good order and happiness of the United States for a period of not less than five years immediately preceding the date of filing an application for naturalization and up to the time of admission to citizenship, and, unless she has resided continuously in the United States since the date of her marriage, has been lawfully admitted for permanent residence prior to filing her application for naturalization.
 
 #### (c) Oath of allegiance
 
@@ -28,7 +28,7 @@ No person who is otherwise eligible for naturalization in accordance with the pr
 
 (2) The provisions of paragraphs (2) and (3) of subsection (c) of this section shall apply to a person regaining citizenship under paragraph (1) in the same manner as they apply under subsection (c)(1) of this section.
 
-(June 27, 1952, ch. 477, title III, ch. 2, §324, 66 Stat. 246; Pub. L. 100–525, §9(x), Oct. 24, 1988, 102Stat. 2621; Pub. L. 101–649, title IV, §407(b)(3), (c)(7), (d)(6), Nov. 29, 1990, 104 Stat. 5040–5042; Pub. L. 103–416, title I, §103(a), Oct. 25, 1994, 108 Stat. 4307.)
+(June 27, 1952, ch. 477, title III, ch. 2, §324, 66 Stat. 246; Pub. L. 100–525, §9(x), Oct. 24, 1988, 102 Stat. 2621; Pub. L. 101–649, title IV, §407(b)(3), (c)(7), (d)(6), Nov. 29, 1990, 104 Stat. 5040–5042; Pub. L. 103–416, title I, §103(a), Oct. 25, 1994, 108 Stat. 4307.)
 
 #### References in Text
 
@@ -65,32 +65,6 @@ Section 1 of act Aug. 16, 1951, as amended by section 402(j) of act June 27, 195
 #### Japanese Elections; Naturalization of Former Citizens Who Voted in Certain Former Elections
 
 Act July 20, 1954, ch. 553, 68 Stat. 495, provided: “That a person who has lost United States citizenship solely by reason of having voted in any political election or plebiscite held in Japan between September 2, 1945, and April 27, 1952, inclusive, and who has not, subsequent to such voting, committed any act which, had he remained a citizen, would have operated to expatriate him, and is not otherwise disqualified from becoming a citizen by reason of sections 313 or 314, or the third sentence of section 318 of the Immigration and Nationality Act \[sections 1424, 1425, 1429 of this title\], may be naturalized by taking, prior to two years after the date of the enactment of this Act \[July 20, 1954\], before any naturalization court specified in subsection (a) of section 310 of the Immigration and Nationality Act \[section 1421(a) of this title\] or before any diplomatic or consular officer of the United States abroad, the applicable oath prescribed by section 337 of such Act \[section 1448 of this title\]. Certified copies of such oath shall be sent by such court or such diplomatic or consular officer to the Department of State and to the Department of Justice. Such oath of allegiance shall be entered in the records of the appropriate naturalization court, embassy, legation, or consulate, and upon demand, a certified copy of the proceedings, including a copy of the oath administered, under the seal of the naturalization court, embassy, legation or consulate, shall be delivered to such person at a cost not exceeding $5, which certified copy shall be evidence of the facts stated therein before any court of record or judicial tribunal and in any department or agency of the Government of the United States. Any such person shall have, from and after naturalization under this Act, the same citizenship status as that which existed immediately prior to its loss: <i>Provided</i>, That no such person shall be eligible to take the oath prescribed by section 337 of the Immigration and Nationality Act \[section 1448 of this title\] unless he shall first take an oath before any naturalization court specified in subsection (a) of section 310 of the Immigration and Nationality Act \[section 1421(a) of this title\], or before any diplomatic or consular officer of the United States abroad, that he has done nothing to promote the cause of communism. Naturalization procured under this Act shall be subject to revocation as provided in section 340 of the Immigration and Nationality Act \[section 1451 of this title\], and subsection (f) of that section \[section 1451(f) of this title\] shall apply to any person claiming United States citizenship through the naturalization of an individual under this Act.”
-
-#### Cross References
-
-Definition of the term—
-
-&emsp;&emsp;Alien, see section 1101(a)(3) of this title.
-
-&emsp;&emsp;Consular officer, see section 1101(a)(9) of this title.
-
-&emsp;&emsp;Ineligible to citizenship, see section 1101(a)(19) of this title.
-
-&emsp;&emsp;National, see section 1101(a)(21) of this title.
-
-&emsp;&emsp;Naturalization, see section 1101(a)(23) of this title.
-
-&emsp;&emsp;Person of good moral character, see section 1101(f) of this title.
-
-&emsp;&emsp;Residence, see section 1101(a)(33) of this title.
-
-&emsp;&emsp;Spouse, see section 1101(a)(35) of this title.
-
-&emsp;&emsp;United States, see section 1101(a)(38) of this title.
-
-&emsp;&emsp;Unmarried, see section 1101(a)(39) of this title.
-
-Former citizens losing citizenship by entering armed forces of foreign countries during World War II, see section 1438 of this title.
 
 #### Section Referred to in Other Sections
 

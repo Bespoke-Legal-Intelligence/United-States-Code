@@ -14,5 +14,5 @@ Section is also set out in D.C. Code, §5–834(a).
 
 #### Transfer of Functions
 
-“Mayor” substituted for “Commissioner” pursuant to section 421 of Pub. L. 93–198. Office of Commissioner of District of Columbia, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by Pub. L. 93–198, title VII, §711, Dec. 24, 1973, 87 Stat. 818, and replaced by Office of Mayor of District of Columbia by section 421 of Pub. L. 93–198, classified to section 1–241 of the District of Columbia Code.
+“Mayor” substituted for “Commissioner” pursuant to section 421 of Pub. L. 93–198. Office of Commissioner of District of Columbia, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by Pub. L. 93–198, title VII, §711, Dec. 24, 1973, 87 Stat. 818, and replaced by Office of Mayor of District of Columbia by section 421 of Pub. L. 93–198.
 

@@ -58,7 +58,7 @@ Definitions.—For purposes of this section—
 
 &emsp;(10) the term “non-Federal agency” means any State or local government, or agency thereof, which receives records contained in a system of records from a source agency for use in a matching program;
 
-&emsp;(11) the term “source agency” means any agency which discloses records contained in asystem of records to be used in a matching program, or any State or local government, or agency thereof, which discloses records to be used in a matching program;
+&emsp;(11) the term “source agency” means any agency which discloses records contained in a system of records to be used in a matching program, or any State or local government, or agency thereof, which discloses records to be used in a matching program;
 
 &emsp;(12) the term “Federal benefit program” means any program administered or funded by the Federal Government, or by any agent or State on behalf of the Federal Government, providing cash or in-kind assistance in the form of payments, grants, loans, or loan guarantees to individuals; and
 
@@ -126,7 +126,7 @@ Access to Records.—Each agency that maintains a system of records shall—
 
 &emsp;(3) permit the individual who disagrees with the refusal of the agency to amend his record to request a review of such refusal, and not later than 30 days (excluding Saturdays, Sundays, and legal public holidays) from the date on which the individual requests such review, complete such review and make a final determination unless, for good cause shown, the head of the agency extends such 30-day period; and if, after his review, the reviewing official also refuses to amend the record in accordance with the request, permit the individual to file with the agency a concise statement setting forth the reasons for his disagreement with the refusal of the agency, and notify the individual of the provisions for judicial review of the reviewing official's determination under subsection (g)(1)(A) of this section;
 
-&emsp;(4) in any disclosure, containing information about which the individual has filed a statement of disagreement, occurring after the filing of the statement under paragraph (3) of this subsection, clearly note any portion of the record which is disputed and provide copies of the statement and, if the agency deems it appropriate, copies of a concise statement of the reasons of the agency for not making the amendments requested, to persons or other agencies to whom the disputed record has been disclosed; and
+&emsp;(4) in any disclosure, containing information about which the individual has filed a statement of disagreement, occurring after the filing of the statement under paragraph (3) of this subsection, clearly note any portion of the record which is disputed and provide copies of the statement and, if the agency deems it appropriate, copies of a concise statement of the reasons of the agency for not making the amendments requested, to persons or otheragencies to whom the disputed record has been disclosed; and
 
 &emsp;(5) nothing in this section shall allow an individual access to any information compiled in reasonable anticipation of a civil action or proceeding.
 
@@ -180,7 +180,7 @@ Agency Requirements.—Each agency that maintains a system of records shall—
 
 &emsp;(10) establish appropriate administrative, technical, and physical safeguards to insure the security and confidentiality of records and to protect against any anticipated threats or hazards to their security or integrity which could result in substantial harm, embarrassment, inconvenience, or unfairness to any individual on whom information is maintained;
 
-&emsp;(11) at least 30 days prior to publication of information under paragraph (4)(D) of thissubsection, publish in the Federal Register notice of any new use or intended use of the information in the system, and provide an opportunity for interested persons to submit written data, views, or arguments to the agency; and
+&emsp;(11) at least 30 days prior to publication of information under paragraph (4)(D) of this subsection, publish in the Federal Register notice of any new use or intended use of the information in the system, and provide an opportunity for interested persons to submit written data, views, or arguments to the agency; and
 
 &emsp;(12) if such agency is a recipient agency or a source agency in a matching program with a non-Federal agency, with respect to any establishment or revision of a matching program, at least 30 days prior to conducting such program, publish in the Federal Register notice of such establishment or revision.
 
@@ -192,7 +192,7 @@ Agency Rules.—In order to carry out the provisions of this section, each agenc
 
 &emsp;(2) define reasonable times, places, and requirements for identifying an individual who requests his record or information pertaining to him before the agency shall make the record or information available to the individual;
 
-&emsp;(3) establish procedures for the disclosure to an individual upon his request of his record or information pertaining to him, including special procedure, if deemed necessary, for the disclosure to an individual of medical records, including psychological records, pertaining to him;
+&emsp;(3) establish procedures for the disclosure to an individual upon his request of his record orinformation pertaining to him, including special procedure, if deemed necessary, for the disclosure to an individual of medical records, including psychological records, pertaining to him;
 
 &emsp;(4) establish procedures for reviewing a request from an individual concerning the amendment of any record or information pertaining to the individual, for making a determination on the request, for an appeal within the agency of an initial adverse agency determination, and for whatever additional means may be necessary for each individual to be able to exercise fully his rights under this section; and
 
@@ -272,13 +272,13 @@ Specific Exemptions.—The head of any agency may promulgate rules, in accordanc
 
 > At the time rules are adopted under this subsection, the agency shall include in the statement required under section 553(c) of this title, the reasons why the system of records is to be exempted from a provision of this section.
 
-(<i>l</i>)
+(<i>l</i>)(1)
 
-Archival Records.—Each agency record which is accepted by the Archivist of the UnitedStates for storage, processing, and servicing in accordance with section 3103 of title 44 shall, for the purposes of this section, be considered to be maintained by the agency which deposited the record and shall be subject to the provisions of this section. The Archivist of the United States shall not disclose the record except to the agency which maintains the record, or under rules established by that agency which are not inconsistent with the provisions of this section.
+Archival Records.—Each agency record which is accepted by the Archivist of the United States for storage, processing, and servicing in accordance with section 3103 of title 44 shall, for the purposes of this section, be considered to be maintained by the agency which deposited the record and shall be subject to the provisions of this section. The Archivist of the United States shall not disclose the record except to the agency which maintains the record, or under rules established by that agency which are not inconsistent with the provisions of this section.
 
 (2) Each agency record pertaining to an identifiable individual which was transferred to the National Archives of the United States as a record which has sufficient historical or other value to warrant its continued preservation by the United States Government, prior to the effective date of this section, shall, for the purposes of this section, be considered to be maintained by the National Archives and shall not be subject to the provisions of this section, except that a statement generally describing such records (modeled after the requirements relating to records subject to subsections (e)(4)(A) through (G) of this section) shall be published in the Federal Register.
 
-(3) Each agency record pertaining to an identifiable individual which is transferred to the National Archives of the United States as a record which has sufficient historical or other value to warrant its continued preservation by the United States Government, on or after the effective date of this section, shall, for the purposes of this section, be considered to be maintained by the National Archives and shall be exempt from the requirements of this section except subsections (e)(4)(A) through (G) and (e)(9) of this section.
+(3) Each agency record pertaining to an identifiable individual which is transferred to the National Archives of the United States as a record which has sufficient historical or other value to warrant its continued preservation by the United States Government, on or after the effective date of this section, shall, for the purposesof this section, be considered to be maintained by the National Archives and shall be exempt from the requirements of this section except subsections (e)(4)(A) through (G) and (e)(9) of this section.
 
 (m)(1)
 
@@ -332,7 +332,7 @@ Matching Agreements.—(1) No record which is contained in a system of records m
 
 (C) Such an agreement shall remain in effect only for such period, not to exceed 18 months, as the Data Integrity Board of the agency determines is appropriate in light of the purposes, and length of time necessary for the conduct, of the matching program.
 
-(D) Within 3 months prior to the expiration of such an agreement pursuant to subparagraph\(C), the Data Integrity Board of the agency may, without additional review, renew the matching agreement for a current, ongoing matching program for not more than one additional year if—
+(D) Within 3 months prior to the expiration of such an agreement pursuant to subparagraph (C), the Data Integrity Board of the agency may, without additional review, renew the matching agreement for a current, ongoing matching program for not more than one additional year if—
 
 &emsp;(i) such program will be conducted without any change; and
 
@@ -464,7 +464,7 @@ Office of Management and Budget Responsibilities.—The Director of the Office o
 
 &emsp;(2) provide continuing assistance to and oversight of the implementation of this section by agencies.
 
-(Added Pub. L. 93–579, §3, Dec. 31, 1974, 88 Stat. 1897; amended Pub. L. 94–183, §2(2), Dec. 31, 1975, 89 Stat. 1057; Pub. L. 97–365, §2, Oct. 25, 1982, 96 Stat. 1749; Pub. L. 97–375, title II, §201(a), (b), Dec. 21, 1982, 96 Stat. 1821; Pub. L. 97–452, §2(a)(1), Jan. 12, 1983, 96 Stat. 2478; Pub. L. 98–477, §2(c), Oct. 15, 1984, 98 Stat. 2211; Pub. L.98–497, title I, §107(g), Oct. 19, 1984, 98 Stat. 2292; Pub. L. 100–503, §§2–6(a), 7, 8, Oct. 18, 1988, 102 Stat. 2507–2514; Pub. L. 101–508, title VII, §7201(b)(1), Nov. 5, 1990, 104 Stat. 1388–334; Pub. L. 103–66, title XIII, §13581(c), Aug. 10, 1993, 107 Stat. 611; Pub. L. 104–193, title I, §110(w), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 104–226, §1(b)(3), Oct. 2, 1996, 110 Stat. 3033; Pub. L. 104–316, title I, §115(g)(2)(B), Oct. 19, 1996, 110 Stat. 3835; Pub. L. 105–34, title X, §1026(b)(2), Aug. 5, 1997, 111 Stat. 925; Pub. L. 105–362, title XIII, §1301(d), Nov. 10, 1998, 112 Stat. 3293; Pub. L. 106–170, title IV, §402(a)(2), Dec. 17, 1999, 113 Stat. 1908.)
+(Added Pub. L. 93–579, §3, Dec. 31, 1974, 88 Stat. 1897; amended Pub. L. 94–183, §2(2), Dec. 31, 1975, 89 Stat. 1057; Pub. L. 97–365, §2, Oct. 25, 1982, 96 Stat. 1749; Pub. L. 97–375, title II, §201(a), (b), Dec. 21, 1982, 96 Stat. 1821; Pub. L. 97–452, §2(a)(1), Jan. 12, 1983, 96 Stat. 2478; Pub. L. 98–477, §2(c), Oct. 15, 1984, 98 Stat. 2211; Pub. L. 98–497, title I, §107(g), Oct. 19, 1984, 98 Stat. 2292; Pub. L. 100–503, §§2–6(a), 7, 8, Oct. 18, 1988, 102 Stat. 2507–2514; Pub. L. 101–508, title VII, §7201(b)(1), Nov. 5, 1990, 104 Stat. 1388–334; Pub. L. 103–66, title XIII, §13581(c), Aug. 10, 1993, 107 Stat. 611; Pub. L. 104–193, title I, §110(w), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 104–226, §1(b)(3), Oct. 2, 1996, 110 Stat. 3033; Pub. L. 104–316, title I, §115(g)(2)(B), Oct. 19, 1996, 110 Stat. 3835; Pub. L. 105–34, title X, §1026(b)(2), Aug. 5, 1997, 111 Stat. 925; Pub. L. 105–362, title XIII, §1301(d), Nov. 10, 1998, 112 Stat. 3293; Pub. L. 106–170, title IV, §402(a)(2), Dec. 17, 1999, 113 Stat. 1908.)
 
 #### References in Text
 
@@ -546,7 +546,7 @@ Subsec. (p). Pub. L. 97–375, §201(b), substituted provisions requiring annual
 
 #### Change of Name
 
-Committee on Government Operations of House of Representatives treated as referring to Committee onGovernment Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note under section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note under section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Effective Date of 1999 Amendment
 
@@ -611,6 +611,10 @@ Section 1 of Pub. L. 100–503 provided that: “This Act \[amending this sectio
 #### Short Title
 
 Section 1 of Pub. L. 93–579 provided: “That this Act \[enacting this section and provisions set out as notes under this section\] may be cited as the ‘Privacy Act of 1974’.”
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of reporting provisions in subsec. (s) of this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 31 of House Document No. 103–7.
 
 #### Delegation of Functions
 
@@ -714,7 +718,7 @@ For provisions relating to a response to a request for information under this se
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 552b, 1212, 3111, 7133, 8148 of this title; title 7 sections 2204b, 2279b; title 10 sections 1102, 1506, 1588; title 12 section 1715z; title 14 section 645; title 15 section 278g–3; title 16 sections 410cc–35, 1536; title 19 section 1631; title 20 sections 1080a, 1090, 9010; title 22 section 4355; title 25 section 3205; title 26 sections 6103, 7852; title 29 section 1908; title 31 sections 3701, 3711, 3716, 3718, 3729, 3733, 7701; title 38 sections 3684A, 5701; title 39 section 410; title 42 sections 247b–4, 300aa–25, 402, 405, 904, 1306, 1382, 3544, 9660, 14614, 14616; title 44 sections 2906, 3501, 3504, 3506; title 46 sections 7702, 9303; title 49 section 30305; title 50 App. section 2159.
+This section is referred to in sections 552b, 1212, 3111, 7133, 8148 of this title; title 7 sections 2204b, 2279b, 7035; title 10 sections 1102, 1506, 1588; title 12 section 1715z; title 14 section 645; title 15 section 278g–3; title 16 sections 410cc–35, 1536; title 19 section 1631; title 20 sections 1080a, 1090, 9010; title 22 section 4355; title 25 section 3205; title 26 sections 6103, 7852; title 29 section 1908; title 31 sections 3701, 3711, 3716, 3718, 3729, 3733, 7701; title 38 sections 3684A, 5701; title 39 section 410; title 42 sections 247b–4, 300aa–25, 402, 405, 904, 1306, 3544, 9660, 14614, 14616; title 44 sections 2906, 3501, 3504, 3506; title 46 sections 7702, 9303; title 49 section 30305; title 50 section 403–5b; title 50 App. section 2159.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

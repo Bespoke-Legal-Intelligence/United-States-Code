@@ -28,6 +28,10 @@ Section was enacted as part of the Clean Air Act Amendments of 1977, and not as 
 
 Section effective Aug. 7, 1977, except as otherwise expressly provided, see section 406(d) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (b)(5) of this section relating to annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and item 18 on page 164 of House Document No. 103–7.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 4362a of this title.

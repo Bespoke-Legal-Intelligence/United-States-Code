@@ -60,7 +60,3 @@ Subsec. (d). Pub. L. 99–433, §502(d)(2), added subsec. (d).
 
 1958—Subsec. (c). Pub. L. 85–599 added subsec. (c).
 
-#### Cross References
-
-Army Staff as including Vice Chief of Staff, see section 3031 of this title.
-

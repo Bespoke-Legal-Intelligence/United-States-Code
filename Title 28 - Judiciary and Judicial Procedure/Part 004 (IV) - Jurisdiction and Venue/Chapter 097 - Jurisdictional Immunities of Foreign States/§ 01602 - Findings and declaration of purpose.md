@@ -14,5 +14,5 @@ For short title of Pub. L. 94–583 as the “Foreign Sovereign Immunities Act o
 
 #### Separability
 
-Section 7 of Pub. L. 94–583 provided that: “If any provision of this Act \[enacting this chapter and section 1330 of this title, amending sections 1332, 1391, and 1441 of this title, and enacting provisions set out as notes under this section and section 1 of this title\] or the application thereof to any foreign state is held invalid, the invalidity does not affect other provisions or applications of the Act which can be given effect withoutthe invalid provision or application, and to this end the provisions of this Act are severable.”
+Section 7 of Pub. L. 94–583 provided that: “If any provision of this Act \[enacting this chapter and section 1330 of this title, amending sections 1332, 1391, and 1441 of this title, and enacting provisions set out as notes under this section and section 1 of this title\] or the application thereof to any foreign state is held invalid, the invalidity does not affect other provisions or applications of the Act which can be given effect without the invalid provision or application, and to this end the provisions of this Act are severable.”
 

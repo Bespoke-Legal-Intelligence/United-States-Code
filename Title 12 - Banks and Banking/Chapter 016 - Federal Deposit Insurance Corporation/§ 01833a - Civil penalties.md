@@ -36,7 +36,7 @@ A civil action to recover a civil penalty under this section shall be commenced 
 
 #### (e) Burden of proof
 
-In a civil action to recover a civil penalty under this section, the Attorney General must establish the right to recovery by a preponderance of the evidence.
+In a civil action to recover a civil penalty under this section, the Attorney General mustestablish the right to recovery by a preponderance of the evidence.
 
 #### (f) Administrative subpoenas
 
@@ -64,15 +64,13 @@ A civil action under this section may not be commenced later than 10 years after
 
 (Pub. L. 101–73, title IX, §951, Aug. 9, 1989, 103 Stat. 498; Pub. L. 101–647, title XXV, §§2533, 2596(d), Nov. 29, 1990, 104 Stat. 4882, 4908; Pub. L. 103–322, title XXXIII, §330003(g), Sept. 13, 1994, 108 Stat. 2141; Pub. L. 104–208, div. A, title II, §2704(d)(15)(A), Sept. 30, 1996, 110 Stat. 3009–494.)
 
-#### Amendment of Subsection (b)(3)(B)
-
-<i>Pub. L. 104–208, div. A, title II, §2704(c), (d)(15)(A), Sept. 30, 1996, 110 Stat. 3009–487, 3009–494, provided that, effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, subsection (b)(3)(B) of this section is amended by striking “Bank Insurance Fund, the Savings Association Insurance Fund,” and inserting “Deposit Insurance Fund”.</i>
-
 #### Codification
 
 Section was enacted as part of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989, and not as part of the Federal Deposit Insurance Act which comprises this chapter.
 
 #### Amendments
+
+1996—Subsec. (b)(3)(B). Pub. L. 104–208, which directed substitution of “Deposit Insurance Fund” for “Bank Insurance Fund, the Savings Association Insurance Fund,”, was not executed. See Effective Date of 1996 Amendment note below.
 
 1994—Subsec. (c). Pub. L. 103–322 amended directory language of Pub. L. 101–647, §2596(d). See 1990 Amendment note below.
 

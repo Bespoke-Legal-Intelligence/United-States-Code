@@ -62,13 +62,13 @@ Section 7 of the Endangered Species Act, referred to in subsec. (c)(2)(F), proba
 
 1998—Pub. L. 105–178, §1301(a), substituted “Advance acquisition of real property” for “Advance acquisition of rights-of-way” in section catchline.
 
-Subsec. (a). Pub. L. 105–178, §1301(a), added subsec. (a) and struck out former subsec. (a) which read as follows: “For the purpose of facilitating the acquisition of rights-of-way on any Federal-aid highway in the most expeditious and economical manner, and recognizing that the acquisition of rights-of-way requires lengthy planning and negotiations if it is to be done at a reasonable cost, the Secretary, upon the request of the State highway department, is authorized to make available the funds apportioned to any State which may be expended on such highway for acquisition of rights-of-way, in anticipation of construction and under such rules and regulations as the Secretary may prescribe. The agreement between the Secretary and the State highway department for the reimbursement of the cost of such rights-of-way shall provide for the actual construction of a road on such rights-of-way within a period not exceeding 20 years following the fiscal year in which such request is made unless a longer period is determined to be reasonable by the Secretary.”
+Subsec. (a). Pub. L. 105–178, §1301(a), added subsec. (a) and struck out former subsec. (a) which read as follows: “For the purpose of facilitating the acquisition of rights-of-way on any Federal-aid highway in the most expeditious and economical manner, and recognizing that the acquisition of rights-of-way requires lengthy planning and negotiations if it is to be done at a reasonable cost, the Secretary, upon the request of the State highway department, is authorized to make available the funds apportioned to any State which may be expended on such highway for acquisition ofrights-of-way, in anticipation of construction and under such rules and regulations as the Secretary may prescribe. The agreement between the Secretary and the State highway department for the reimbursement of the cost of such rights-of-way shall provide for the actual construction of a road on such rights-of-way within a period not exceeding 20 years following the fiscal year in which such request is made unless a longer period is determined to be reasonable by the Secretary.”
 
 Subsecs. (c), (d). Pub. L. 105–178, §1211(e)(1), redesignated subsec. (d) as (c) and struck out former subsec. (c) which related to establishment and administration of right-of-way revolving fund.
 
 1994—Subsec. (d)(2)(F). Pub. L. 103–429 substituted “section 303 of title 49” for “section 4(f) of the Department of Transportation Act”.
 
-1992—Subsec. (a). Pub. L. 102–388, §346(1), (2), substituted “Federal-aid highway” for “of the Federal-aidhighway systems, including the Interstate System,” and “which may be expended on such highway” for “for expenditure on any of the Federal-aid highway systems, including the Interstate System,”.
+1992—Subsec. (a). Pub. L. 102–388, §346(1), (2), substituted “Federal-aid highway” for “of the Federal-aid highway systems, including the Interstate System,” and “which may be expended on such highway” for “for expenditure on any of the Federal-aid highway systems, including the Interstate System,”.
 
 Subsec. (c)(2). Pub. L. 102–388, §346(3), inserted “and passenger transit facilities”.
 
@@ -134,7 +134,7 @@ Pub. L. 89–574, §10, Sept. 13, 1966, 80 Stat. 769, as amended by Pub. L. 97�
 
 #### Increased Limitation Period Applicable to Certain Contracts
 
-Section 2 of Pub. L. 86–35 provided that agreements entered into before May 29, 1959 by the Secretary of Commerce and a State highway department under authority of section 110(a) of the Federal-Aid Highway Act of 1956, or section 108(a) of title 23 of the United States Code shall be deemed to provide for actual construction of a road on such rights-of-way within a period of seven years following the fiscal year in which such request was made.
+Section 2 of Pub. L. 86–35 provided that agreements entered into before May 29, 1959 by the Secretary ofCommerce and a State highway department under authority of section 110(a) of the Federal-Aid Highway Act of 1956, or section 108(a) of title 23 of the United States Code shall be deemed to provide for actual construction of a road on such rights-of-way within a period of seven years following the fiscal year in which such request was made.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

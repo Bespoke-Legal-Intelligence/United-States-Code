@@ -1,6 +1,6 @@
 ### §166b–3. Authorization to fix basic rate of compensation for certain positions
 
-On and after August 21, 1959, the Architect of the Capitol is authorized, without regard to chapter 51 and subchapter III of chapter 53 of title 5, to fix the compensation of four positions under the appropriation “Salaries, Office of the Architect of the Capitol”, of two positions under the appropriation “Capitol Buildings”, and of one position under the appropriation “House Office Buildings” at a basic rate of $8,200 per annum each: <i>Provided</i>, That this provision shall not be applicable to the positions of Architect or Assistant Architect.
+On and after August 21, 1959, the Architect of the Capitol is authorized, without regard tochapter 51 and subchapter III of chapter 53 of title 5, to fix the compensation of four positions under the appropriation “Salaries, Office of the Architect of the Capitol”, of two positions under the appropriation “Capitol Buildings”, and of one position under the appropriation “House Office Buildings” at a basic rate of $8,200 per annum each: <i>Provided</i>, That this provision shall not be applicable to the positions of Architect or Assistant Architect.
 
 On and after August 21, 1959, the Architect of the Capitol is authorized, without regard to chapter 51 and subchapter III of chapter 53 of title 5, to fix the compensation of one position under the appropriation “Senate Office Buildings”, at a basic rate of $8,200 per annum.
 
@@ -18,7 +18,7 @@ On and after August 21, 1959, the Architect of the Capitol is authorized, withou
 
 1968—Pub. L. 90–239 increased the compensation of one position under appropriation “Senate Office Buildings” from “$7,700” to “$8,200”.
 
-1967—Pub. L. 90–206 increased the compensation from $7,700 to $8,200 per annum each of the three positionsunder the appropriation “Salaries, Office of the Architect of the Capitol”, of one position under the appropriation “Capitol Buildings”, and of one position under the appropriation “House Office Buildings”.
+1967—Pub. L. 90–206 increased the compensation from $7,700 to $8,200 per annum each of the three positions under the appropriation “Salaries, Office of the Architect of the Capitol”, of one position under the appropriation “Capitol Buildings”, and of one position under the appropriation “House Office Buildings”.
 
 1965—Pub. L. 89–309 increased the compensation of one position under appropriation “Senate Office Buildings” from $7,020 to $7,700.
 

@@ -20,7 +20,7 @@ Pub. L. 91–156, §1(a), added par. 5.
 
 Section 1(b) of Pub. L. 91–156 provided that: “The amendment made by subsection (a) of this section \[setting out interim provisions regarding intangible personal property taxes of State and local governments on national banks\] shall be effective from the date of enactment of this Act \[Dec. 24, 1969\] until the effective date \[Jan. 1, 1973\] of the amendment made by section 2(a) of this Act \[removing restrictions on the taxation of national bank shares and directing that national banks, for purposes of both Federal and State tax laws, be treated as banks organized and existing under the laws of the State or other jurisdiction within which each bank's principal office is located\].”
 
-Section 2(b) of Pub. L. 91–156, as amended by Pub. L. 92–213, §4(a), Dec. 22, 1971, 85 Stat. 775, provided that: “The amendment made by subsection (a) \[removing allspecial restriction on the taxation of national bank shares by State and local taxing authorities\] becomes effective on January 1, 1973”.
+Section 2(b) of Pub. L. 91–156, as amended by Pub. L. 92–213, §4(a), Dec. 22, 1971, 85 Stat. 775, provided that: “The amendment made by subsection (a) \[removing all special restriction on the taxation of national bank shares by State and local taxing authorities\] becomes effective on January 1, 1973”.
 
 #### Savings Provision
 
@@ -53,26 +53,6 @@ Section 4(b) of Pub. L. 92–213 required the Board of Governors of the Federal 
 #### Study by Board of Governors of Federal Reserve System; Report by Dec. 31, 1970
 
 Section 4 of Pub. L. 91–156 provided that the Board of Governors of the Federal Reserve System make a study to determine the probable impact on the banking system and other economic effects of the changes in existing law made by section 2 of this Act \[amending this section\] and that such study include the Board's recommendation as to what additional Federal legislation may be needed to reconcile the promotion of economic efficiency in the banking system with the achievement of effectiveness and local autonomy in meeting the fiscal needs of the States and their political subdivisions. The results of the Board's study were to be made to Congress not later than December 31, 1970.
-
-#### Cross References
-
-Capital, stock and stockholders of national banking associations, generally, see section 51 et seq. of this title.
-
-Dividends paid by national banking association, see section 51b et seq. of this title.
-
-Exemption from taxation:
-
-&emsp;&emsp;Federal credit unions, see section 1768 of this title.
-
-&emsp;&emsp;Federal Deposit Insurance Corporation, see section 1825 of this title.
-
-&emsp;&emsp;Federal Home Loan Banks, see section 1433 of this title.
-
-&emsp;&emsp;Federal National Mortgage Association, see section 1723a of this title.
-
-&emsp;&emsp;Federal Reserve Banks, see section 531 of this title.
-
-&emsp;&emsp;Federal savings associations, see section 1464 of this title.
 
 #### Section Referred to in Other Sections
 

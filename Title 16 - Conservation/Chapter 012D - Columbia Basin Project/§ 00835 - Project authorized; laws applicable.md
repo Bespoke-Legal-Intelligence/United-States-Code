@@ -1,6 +1,6 @@
 ### §835. Project authorized; laws applicable
 
-In addition to the primary purposes for which the Grand Coulee Dam project (hereafter to be known as the Columbia Basin project and herein called the “project”) was authorized under the provisions of the Act of August 30, 1935 (49 Stat. 1028), the project is authorized and reauthorized as a project subject to the Reclamation Project Act of 1939; and the provisions of each of those two Acts together with the provisions of sections 835 and 835a to 835c–5 of this title shall govern the repayment of expenditures and the construction, operation, and maintenance of the works constructed as a part of the project.
+In addition to the primary purposes for which the Grand Coulee Dam project (hereafter to be known as the Columbia Basin project and herein called the “project”) was authorized under the provisions of the Act of August 30, 1935 (49 Stat. 1028), the project is authorized and reauthorizedas a project subject to the Reclamation Project Act of 1939; and the provisions of each of those two Acts together with the provisions of this Act shall govern the repayment of expenditures and the construction, operation, and maintenance of the works constructed as a part of the project.
 
 (May 27, 1937, ch. 269, §1, 50 Stat. 208; Mar. 10, 1943, ch. 14, 57 Stat. 14.)
 
@@ -12,7 +12,7 @@ The Reclamation Project Act of 1939, referred to in text, is act Aug. 4, 1939, c
 
 Those two Acts, referred to in text, refer to the act of Aug. 30, 1935, and to the Reclamation Project Act of 1939. See notes above.
 
-Sections 835a, 835b, 835c–3 and 835c–5 of this title, included within the reference to sections 835a to 835c–5 of this title, were repealed by Pub. L. 87–728, §3, Oct. 1, 1962, 76 Stat. 678.
+This Act, referred to in text, is act May 27, 1937, ch. 269, as amended generally by act Mar. 10, 1943, ch. 14, 57 Stat. 14, known as The Columbia Basin Project Act, which enacted this section, sections 835a to 835c–5 of this title, and provisions set out as a note under this section. For complete classification of this Act to the Code, see Short Title note set out under this section and Tables.
 
 #### Amendments
 
@@ -20,7 +20,7 @@ Sections 835a, 835b, 835c–3 and 835c–5 of this title, included within the re
 
 #### Short Title
 
-Act May 27, 1937, ch. 269, §11, as added by Mar. 10, 1943, ch. 14, 57 Stat. 20, provided that: “This Act \[enacting sections 835 and 835a to 835c–5 of this title and provisions set out as a note below\] may be cited as ‘The Columbia Basin Project Act’.”
+Act May 27, 1937, ch. 269, §11, as added by Mar. 10, 1943, ch. 14, 57 Stat. 20, provided that: “This Act \[enacting this section, sections 835a to 835c–5 of this title, and provisions set out as a note below\] may be cited as ‘The Columbia Basin Project Act’.”
 
 #### Separability
 
@@ -29,8 +29,4 @@ Act May 27, 1937, ch. 269, §10, as added by Mar. 10, 1943, ch. 14, 57 Stat. 20,
 #### Transfer of Functions
 
 Power marketing functions of Bureau of Reclamation, including construction, operation, and maintenance of transmission lines and attendant facilities, transferred to Secretary of Energy by section 7152(a)(1)(E), (3) of Title 42, The Public Health and Welfare, and are to be exercised by Secretary through a separate Administration within Department of Energy.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 835c, 835c–1, 835c–2, 835c–4, 835d of this title.
 

@@ -2,7 +2,7 @@
 
 #### (a) Awarding of grants and contracts
 
-The Secretary shall ensure that grants and contracts under this subchapter are awarded on a competitive basis, as appropriate, to carry out innovative demonstration projects or provide for strategic workforce supplementation activitiesas needed to meet national nursing service goals and in accordance with this subchapter. Contracts may be entered into under this subchapter with public or private entities as determined necessary by the Secretary.
+The Secretary shall ensure that grants and contracts under this subchapter are awarded on a competitive basis, as appropriate, to carry out innovative demonstration projects or provide for strategic workforce supplementation activities as needed to meet national nursing service goals and in accordance with this subchapter. Contracts may be entered into under this subchapter with public or private entities as determined necessary by the Secretary.
 
 #### (b) Information requirements
 
@@ -22,7 +22,7 @@ Training programs conducted with amounts received under this subchapter shall me
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), in the case of an award to an entity of a grant, cooperative agreement, or contract under this subchapter, the period during which payments are made to the entity under the award may not exceed 5 years. The provision of payments under the award shall be subject to annual approval by the Secretary of the payments and subject to the availability of appropriations for the fiscal year involved to make the payments. This paragraph may not be construed as limiting the number of awards under the program involved that may be made to the entity.
+&emsp;Subject to paragraph (2), in the case of an award to an entity of a grant, cooperative agreement, or contract under this subchapter, the period during which payments are made to the entity under the award may not exceed 5 years. The provision of payments under the award shall be subject to annual approval bythe Secretary of the payments and subject to the availability of appropriations for the fiscal year involved to make the payments. This paragraph may not be construed as limiting the number of awards under the program involved that may be made to the entity.
 
 #### (2) Limitation
 

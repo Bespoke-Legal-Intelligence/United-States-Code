@@ -68,7 +68,11 @@ Actions to impede the board.—No person (including a State or political subdivi
 
 &emsp;(2)
 
-Unsolicited communications.—In the event of an accident involving an air carrier providing interstate or foreign air transportation, no unsolicited communication concerning a potential action for personal injuryor wrongful death may be made by an attorney or any potential party to the litigation to an individual injured in the accident, or to a relative of an individual involved in the accident, before the 30th day following the date of the accident.
+Unsolicited communications.—In the event of an accident involving an air carrier providing interstate or foreign air transportation and in the event of an accident involving a foreign air carrier that occurs within the United States, no unsolicited communication concerning a potential action for personal injury or wrongful death may be made by an attorney (including any associate, agent, employee, or other representative of an attorney) or any potential party to the litigation to an individual injured in the accident, or to a relative of an individual involved in the accident, before the 45th day following the date of the accident.
+
+&emsp;(3)
+
+Prohibition on actions to prevent mental health and counseling services.—No State or political subdivision thereof may prevent the employees, agents, or volunteers of an organization designated for an accident under subsection (a)(2) from providing mental health and counseling services under subsection (c)(1) in the 30-day period beginning on the date of the accident. The director of family support services designated for the accident under subsection (a)(1) may extend such period for not to exceed an additional 30 days if the director determines that the extension is necessary to meet the needs of the families and if State and local authorities are notified of the determination.
 
 (h)
 
@@ -80,9 +84,31 @@ Aircraft accident.—The term “aircraft accident” means any aviation disaste
 
 &emsp;(2)
 
-Passenger.—The term “passenger” includes an employee of an air carrier aboard an aircraft.
+Passenger.—The term “passenger” includes—
 
-(Added Pub. L. 104–264, title VII, §702(a)(1), Oct. 9, 1996, 110 Stat. 3265.)
+&emsp;&emsp;(A) an employee of an air carrier or foreign air carrier aboard an aircraft; and
+
+&emsp;&emsp;(B) any other person aboard the aircraft without regard to whether the person paid for the transportation, occupied a seat, or held a reservation for the flight.
+
+(i)
+
+Statutory Construction.—Nothing in this section may be construed as limiting the actions that an air carrier may take, or the obligations that an air carrier may have, in providing assistance to the families of passengers involved in an aircraft accident.
+
+(Added Pub. L. 104–264, title VII, §702(a)(1), Oct. 9, 1996, 110 Stat. 3265; amended Pub. L. 106–181, title IV, §401(a)(1), (b)–(d), Apr. 5, 2000, 114 Stat. 129.)
+
+#### Amendments
+
+2000—Subsec. (g)(2). Pub. L. 106–181, §401(a)(1), substituted “transportation and in the event of an accident involving a foreign air carrier that occurs within the United States,” for “transportation,”, inserted “(including any associate, agent, employee, or other representative of an attorney)” after “attorney”, and substituted “45th day” for “30th day”.
+
+Subsec. (g)(3). Pub. L. 106–181, §401(b), added par. (3).
+
+Subsec. (h)(2). Pub. L. 106–181, §401(c), amended heading and text generally. Prior to amendment, text read as follows: “The term ‘passenger’ includes an employee of an air carrier aboard an aircraft.”
+
+Subsec. (i). Pub. L. 106–181, §401(d), added subsec. (i).
+
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
 
 #### Effective Date
 
@@ -90,5 +116,5 @@ Except as otherwise specifically provided, section applicable only to fiscal yea
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1155, 41113, 41313 of this title.
+This section is referred to in sections 1151, 1155, 41113, 41313 of this title.
 

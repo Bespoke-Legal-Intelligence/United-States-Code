@@ -2,7 +2,7 @@ Part B—Native Hawaiian Program
 
 #### Part Referred to in Other Sections
 
-This part is referred to in section 3057n of this title.
+This part is referred to in sections 3057k–11, 3057n of this title.
 
 
 ---

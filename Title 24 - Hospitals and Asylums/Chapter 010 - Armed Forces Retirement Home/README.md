@@ -86,6 +86,12 @@
 | (a) | Historic nature of facility. |
 | (b) | Authority to accept assistance. |
 | (c) | Requirements and limitations. |
+| [424\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Operation%20of%20Retirement%20Home/%C2%A7%2000424%20-%20Conditional%20supervisory%20control%20of%20Retirement%20Home%20Board%20by%20Secretary%20of%20Defense.md) | Conditional supervisory control of Retirement Home Board by Secretary of Defense. |
+| (a) | Applicability. |
+| (b) | Board authority subject to Secretary's control. |
+| (c) | Appointment of Board members. |
+| (d) | Terms of Board members. |
+| (e) | Responsibility of chairman to the Secretary. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

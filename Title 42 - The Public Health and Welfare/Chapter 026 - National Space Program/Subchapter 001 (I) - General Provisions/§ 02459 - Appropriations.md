@@ -2,7 +2,7 @@
 
 #### (a) Authorization; limitations for uses of capital nature
 
-There are authorized to be appropriated such sums as may be necessary to carry out this chapter, except that nothing in this chapter shall authorize the appropriation of any amount for (1) the acquisition or condemnation of any real property, or (2) any other item of a capital nature (such as plant or facility acquisition, construction, or expansion) which exceeds $250,000. Sums appropriated pursuant to this subsection for the construction of facilities, or for research and development activities, shall remain available until expended.
+There are authorized to be appropriated such sums as may be necessary to carry out this chapter, except that nothing in this chapter shall authorize the appropriation of any amount for (1) the acquisition or condemnation of any real property, or (2) any other item of a capital nature (such as plant or facility acquisition, construction, or expansion) which exceeds $250,000. Sums appropriated pursuant to this subsection for the construction of facilities, orfor research and development activities, shall remain available until expended.
 
 #### (b) Use of funds for emergency repairs of existing facilities
 
@@ -12,11 +12,15 @@ Any funds appropriated for the construction of facilities may be used for emerge
 
 Notwithstanding any other provision of law, the authorization of any appropriation to the Administration shall expire (unless an earlier expiration is specifically provided) at the close of the third fiscal year following the fiscal year in which the authorization was enacted, to the extent that such appropriation has not theretofore actually been made.
 
-(Pub. L. 85–568, title III, §309, formerly §307, July 29, 1958, 72 Stat. 438; Pub. L. 88–113, §6, Sept. 6, 1963, 77 Stat. 144; renumbered §308, Pub. L. 94–464, §3, Oct. 8, 1976, 90 Stat. 1988; renumbered §309, Pub. L. 96–48, §6(b)(1), Aug. 8, 1979, 93 Stat. 348.)
+(Pub. L. 85–568, title III, §310, formerly §307, July 29, 1958, 72 Stat. 438; Pub. L. 88–113, §6, Sept. 6, 1963, 77 Stat. 144; renumbered §308, Pub. L. 94–464, §3, Oct. 8, 1976, 90 Stat. 1988; renumbered §309, Pub. L. 96–48, §6(b)(1), Aug. 8, 1979, 93 Stat. 348; renumbered §310, Pub. L. 106–391, title III, §324(a)(1), Oct. 30, 2000, 114 Stat. 1599.)
 
 #### References in Text
 
 This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 85–568, July 29, 1958, 72 Stat. 426, as amended, known as the National Aeronautics and Space Act of 1958. For complete classification of this Act to the Code, see Short Title note set out under section 2451 of this title and Tables.
+
+#### Prior Provisions
+
+A prior section 310 of Pub. L. 85–568 was renumbered section 311 and is classified to section 2459b of this title.
 
 #### Amendments
 

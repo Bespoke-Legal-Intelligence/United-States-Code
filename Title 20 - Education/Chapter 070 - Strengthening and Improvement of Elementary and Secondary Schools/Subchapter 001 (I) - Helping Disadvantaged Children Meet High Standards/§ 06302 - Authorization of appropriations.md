@@ -6,7 +6,7 @@ For the purpose of carrying out part A of this subchapter, other than section 63
 
 #### (b) Even Start
 
-For the purpose of carrying out part B of this subchapter, there are authorized to be appropriated $118,000,000 for fiscal year 1995 and such sums as may be necessary for each of the four succeeding fiscal years.
+For the purpose of carrying out part B of this subchapter, there are authorized to be appropriated $250,000,000 for fiscal year 2001 and such sums as may be necessary for each of the four succeeding fiscal years.
 
 #### (c) Education of migratory children
 
@@ -34,11 +34,15 @@ For the purpose of providing additional needed assistance to carry out sections 
 
 &emsp;For the purpose of carrying out sections 6492 and 6493 <sup>1</sup> of this title, there are authorized to be appropriated $50,000,000 for fiscal year 1995 and such sums as may be necessary for each of the four succeeding fiscal years.
 
-(Pub. L. 89–10, title I, §1002, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3522.)
+(Pub. L. 89–10, title I, §1002, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3522; amended Pub. L. 106–554, §1(a)(4) \[div. B, title XVI, §1602\], Dec. 21, 2000, 114 Stat. 2763, 2763A–328.)
 
 #### References in Text
 
 Section 6493 of this title, referred to in subsec. (g)(2), was repealed by Pub. L. 105–277, div. A, §101(f) \[title VIII, §301(c)(1)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–410.
+
+#### Amendments
+
+2000—Subsec. (b). Pub. L. 106–554 substituted “$250,000,000 for fiscal year 2001” for “$118,000,000 for fiscal year 1995”.
 
 #### Section Referred to in Other Sections
 

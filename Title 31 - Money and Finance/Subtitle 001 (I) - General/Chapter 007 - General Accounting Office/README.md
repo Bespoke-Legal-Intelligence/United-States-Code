@@ -34,6 +34,7 @@
 | :--- | ---: |
 | [731\.](Subchapter%20003%20%28III%29%20-%20Personnel/%C2%A7%2000731%20-%20General.md) | General. |
 | [732\.](Subchapter%20003%20%28III%29%20-%20Personnel/%C2%A7%2000732%20-%20Personnel%20management%20system.md) | Personnel management system. |
+| [732a.](Subchapter%20003%20%28III%29%20-%20Personnel/%C2%A7%2000732a%20-%20Critical%20positions.md) | Critical positions. |
 | [733\.](Subchapter%20003%20%28III%29%20-%20Personnel/%C2%A7%2000733%20-%20Senior%20Executive%20Service.md) | Senior Executive Service. |
 | [734\.](Subchapter%20003%20%28III%29%20-%20Personnel/%C2%A7%2000734%20-%20Assignments%20and%20details%20to%20Congress.md) | Assignments and details to Congress. |
 | [735\.](Subchapter%20003%20%28III%29%20-%20Personnel/%C2%A7%2000735%20-%20Relationship%20to%20other%20laws.md) | Relationship to other laws. |
@@ -80,6 +81,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2000—Pub. L. 106–303, §4(a)(3), Oct. 13, 2000, 114 Stat. 1069, added item 732a.
 
 1994—Pub. L. 103–272, §4(f)(1)(C), July 5, 1994, 108 Stat. 1362, struck out “Sec.” immediately above item 781.
 

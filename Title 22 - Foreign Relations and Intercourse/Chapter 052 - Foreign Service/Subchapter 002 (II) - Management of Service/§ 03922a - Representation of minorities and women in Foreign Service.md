@@ -72,7 +72,7 @@ A More Representative Foreign Service.—The Secretary of State and the head of 
 
 “(c)
 
-Department of State Hiring Practices of Minorities and Women.—The Secretary of State shall include annually as part of the report required to be submitted pursuant to section 105(d)(2) of the Foreign Service Act of 1980 \[22 U.S.C. 3905(d)(2)\]—
+Department of State Hiring Practices of Minorities and Women.—The Secretary of State shall include annually as part of the report required to be submitted pursuant to section 105(d)(2) of the Foreign Service Act of 1980 \[former 22 U.S.C. 3905(d)(2)\]—
 
 &emsp;“(1) a report on the progress made at the Assistant Secretary and Bureau level of the Department of State in increasing the presence of minorities and women at all levels in the Foreign Service and Civil Service workforces of the Department of State, and
 

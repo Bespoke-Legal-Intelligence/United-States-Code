@@ -4,15 +4,3 @@ Every person, partnership, or association guilty of a violation of the provision
 
 (Aug. 15, 1914, ch. 253, §3, 38 Stat. 692.)
 
-#### Federal Rules of Civil Procedure
-
-Admiralty and maritime rules of practice (which included libel procedures) were superseded, and civil and admiralty procedures in United States district courts were unified, effective July 1, 1966, see rule 1 and Supplemental Rules for Certain Admiralty and Maritime Claims, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-#### Cross References
-
-Forfeitures and seizures—
-
-&emsp;&emsp;Jurisdiction, see sections 1333, 1355, and 1356 of Title 28, Judiciary and Judicial Procedure.
-
-&emsp;&emsp;Proceedings, see section 2461 of Title 28.
-

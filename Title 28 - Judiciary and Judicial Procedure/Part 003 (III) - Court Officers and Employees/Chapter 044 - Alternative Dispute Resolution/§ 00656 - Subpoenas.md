@@ -10,7 +10,7 @@ The Federal Rules of Civil Procedure, referred to in text, are set out in the Ap
 
 #### Amendments
 
-1998—Pub. L. 105–315 amended section generally, substituting provisions relating to subpoenas for provisions relating to certification of arbitrators.
+<b>1998</b>—Pub. L. 105–315 amended section generally, substituting provisions relating to subpoenas for provisions relating to certification of arbitrators.
 
 #### Section Referred to in Other Sections
 

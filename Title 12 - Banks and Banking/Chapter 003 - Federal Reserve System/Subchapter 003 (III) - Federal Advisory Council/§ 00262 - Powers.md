@@ -12,9 +12,3 @@ Section is comprised of second par. of section 12 of act Dec. 23, 1913. First pa
 
 Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
 
-#### Cross References
-
-Gold coinage discontinued, see section 5112 of Title 31, Money and Finance.
-
-Provisions for payment of obligations containing a gold clause, see section 5118 of Title 31.
-

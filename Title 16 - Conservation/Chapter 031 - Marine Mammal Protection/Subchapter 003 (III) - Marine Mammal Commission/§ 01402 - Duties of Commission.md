@@ -16,11 +16,11 @@ The Commission shall—
 
 &emsp;(6) recommend to the Secretary such revisions of the endangered species list and threatened species list published pursuant to section 1533(c)(1) of this title, as may be appropriate with regard to marine mammals; and
 
-&emsp;(7) recommend to the Secretary, other appropriate Federal officials, and Congress such additional measures as it deems necessary or desirable to further the policies of this chapter, including provisions for the protection of the Indians, Eskimos, and Aleuts whose livelihood may be adversely affected by actions taken pursuant to this chapter.
+&emsp;(7) recommend to the Secretary, other appropriate Federal officials, and Congress such additional measures as it deems necessary ordesirable to further the policies of this chapter, including provisions for the protection of the Indians, Eskimos, and Aleuts whose livelihood may be adversely affected by actions taken pursuant to this chapter.
 
 #### (b) Consultation with Secretary; reports to Secretary before publication
 
-The Commission shall consult with the Secretary at such intervals as it or he may deem desirable, and shall provide each annual report required under section 1404 of this title, before submission to Congress, to the Secretary for comment.
+The Commission shall consult with the Secretary at such intervals as it or he may deem desirable, and shall provide each annual report required under section 1404 <sup>1</sup> of this title, before submission to Congress, to the Secretary for comment.
 
 #### (c) Availability of reports for public inspection
 
@@ -28,7 +28,7 @@ The reports and recommendations which the Commission makes shall be matters of p
 
 #### (d) Recommendations; explanation for nonadoption
 
-Any recommendations made by the Commission to the Secretary and other Federal officials shall be responded to by those individuals within one hundred and twenty days after receipt thereof. Any recommendations which are notfollowed or adopted shall be referred to the Commission together with a detailed explanation of the reasons why those recommendations were not followed or adopted.
+Any recommendations made by the Commission to the Secretary and other Federal officials shall be responded to by those individuals within one hundred and twenty days after receipt thereof. Any recommendations which are not followed or adopted shall be referred to the Commission together with a detailed explanation of the reasons why those recommendations were not followed or adopted.
 
 (Pub. L. 92–522, title II, §202, Oct. 21, 1972, 86 Stat. 1044; Pub. L. 93–205, §13(e)(4), Dec. 28, 1973, 87 Stat. 903; Pub. L. 97–58, §6(1), Oct. 9, 1981, 95 Stat. 987; Pub. L. 100–711, §5(e)(4), Nov. 23, 1988, 102 Stat. 4771.)
 
@@ -37,6 +37,8 @@ Any recommendations made by the Commission to the Secretary and other Federal of
 The Whaling Convention Act of 1949, referred to in subsec. (a)(1), is act Aug. 9, 1950, ch. 653, 64 Stat. 421, as amended, which is classified generally to subchapter II (§916 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 916 of this title and Tables.
 
 The Fur Seal Act of 1966, referred to in subsec. (a)(1), is Pub. L. 89–702, Nov. 2, 1966, 80 Stat. 1091, as amended, which is classified generally to chapter 24 (§1151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1151 of this title and Tables.
+
+Section 1404 of this title, referred to in subsec. (b), was omitted from the Code.
 
 #### Amendments
 
@@ -50,7 +52,5 @@ The Fur Seal Act of 1966, referred to in subsec. (a)(1), is Pub. L. 89–702, No
 
 Amendment by Pub. L. 93–205 effective Dec. 28, 1973, see section 16 of Pub. L. 93–205, set out as an Effective Date note under section 1531 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1404 of this title.
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

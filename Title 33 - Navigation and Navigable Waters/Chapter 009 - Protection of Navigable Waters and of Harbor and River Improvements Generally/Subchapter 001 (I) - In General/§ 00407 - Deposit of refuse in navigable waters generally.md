@@ -1,6 +1,6 @@
 ### §407. Deposit of refuse in navigable waters generally
 
-It shall not be lawful to throw, discharge, or deposit, or cause, suffer, or procure to be thrown, discharged, or deposited either from or out of any ship, barge, or other floating craft of any kind, or from the shore, wharf, manufacturing establishment, or mill of any kind, any refuse matter of any kind or description whatever other than that flowing from streets and sewers and passing therefrom in a liquid state, into any navigable water of the United States, or into any tributary of any navigable water from which the same shall float or be washed into such navigable water; and it shall not be lawful to deposit, or cause, suffer, or procure to be deposited material of any kind in any place on the bank of any navigable water, or on the bank of any tributary of any navigable water, where the same shall be liable to be washed into such navigable water, either by ordinary or high tides, or by storms or floods, or otherwise, whereby navigation shall or may be impeded or obstructed: <i>Provided</i>, That nothing herein contained shall extend to, apply to, or prohibit the operations in connection with the improvement of navigable waters or construction of public works, considered necessary and proper by theUnited States officers supervising such improvement or public work: <i>And provided further</i>, That the Secretary of the Army, whenever in the judgment of the Chief of Engineers anchorage and navigation will not be injured thereby, may permit the deposit of any material above mentioned in navigable waters, within limits to be defined and under conditions to be prescribed by him, provided application is made to him prior to depositing such material; and whenever any permit is so granted the conditions thereof shall be strictly complied with, and any violation thereof shall be unlawful.
+It shall not be lawful to throw, discharge, or deposit, or cause, suffer, or procure to be thrown, discharged, or deposited either from or out of any ship, barge, or other floating craft of any kind, or from the shore, wharf, manufacturing establishment, or mill of any kind, any refuse matter of any kind or description whatever other than that flowing from streets and sewers and passing therefrom in a liquid state, into any navigable water of the United States, or into any tributary of any navigable water from which the same shall float or be washed into such navigable water; and it shall not be lawful to deposit, or cause, suffer, or procure to be deposited material of any kind in any place on the bank of any navigable water, or on the bank of any tributary of any navigable water, where the same shall be liable to be washed into such navigable water, either by ordinary or high tides, or by storms or floods, or otherwise, whereby navigation shall or may be impeded or obstructed: <i>Provided</i>, That nothing herein contained shall extend to, apply to, or prohibit the operations in connection with the improvement of navigable waters or construction of public works, considered necessary and proper by the United States officers supervising such improvement or public work: <i>And provided further</i>, That the Secretary of the Army, whenever in the judgment of the Chief of Engineers anchorage and navigation will not be injured thereby, may permit the deposit of any material above mentioned in navigable waters, within limits to be defined and under conditions to be prescribed by him, provided application is made to him prior to depositing such material; and whenever any permit is so granted the conditions thereof shall be strictly complied with, and any violation thereof shall be unlawful.
 
 (Mar. 3, 1899, ch. 425, §13, 30 Stat. 1152; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501.)
 
@@ -33,18 +33,6 @@ No permits for discharges into navigable waters to be issued under this section 
 #### Executive Order No. 11574
 
 Ex. Ord. No. 11574, Dec. 23, 1970, 35 F.R. 19627, which provided for administration of a permit program to regulate discharge of pollutants and other refuse matter into navigable waters or their tributaries and placement of such matter on their banks, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
-
-#### Cross References
-
-Flood control of Mississippi River, section as applicable, see section 702i of this title.
-
-Regulations governing dumping into navigable waters—
-
-&emsp;&emsp;Generally, see section 419 of this title.
-
-&emsp;&emsp;Lake Michigan, see section 421 of this title.
-
-&emsp;&emsp;New York Harbor, see sections 441 to 451 and 454 of this title.
 
 #### Section Referred to in Other Sections
 

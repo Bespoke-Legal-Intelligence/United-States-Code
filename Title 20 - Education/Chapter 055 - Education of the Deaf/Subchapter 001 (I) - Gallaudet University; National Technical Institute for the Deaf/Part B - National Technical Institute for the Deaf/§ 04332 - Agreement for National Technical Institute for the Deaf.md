@@ -18,7 +18,7 @@ The agreement shall—
 
 &emsp;(2) provide that the Board of Trustees or other governing body of the institution, subject to the approval of the Secretary, will appoint an advisory group to advise the Director of NTID in formulating and carrying out the basic policies governing its establishment and operation, which group shall include individuals who are professionally concerned with education and technical training at the postsecondary school level, persons who are professionally concerned with activities relating to education and training of individuals who are deaf, and members of the public familiar with the need for services provided by NTID;
 
-&emsp;(3) provide that the Board of Trustees or other governing body of the institution will prepare and submit to the Secretary, not later than June 1 following the fiscal year for which the report is submitted, an annual report containing an accounting of all indirect costs paid to the institution of higher education under the agreement with the Secretary, which accounting the Secretary shall transmit to the Committee on Education and Labor of the House of Representatives and to the Committee on Labor and Human Resources of the Senate, with such comments and recommendations as the Secretary may deem appropriate;
+&emsp;(3) provide that the Board of Trustees or other governing body of the institution willprepare and submit to the Secretary, not later than June 1 following the fiscal year for which the report is submitted, an annual report containing an accounting of all indirect costs paid to the institution of higher education under the agreement with the Secretary, which accounting the Secretary shall transmit to the Committee on Education and Labor of the House of Representatives and to the Committee on Labor and Human Resources of the Senate, with such comments and recommendations as the Secretary may deem appropriate;
 
 &emsp;(4) include such other conditions as the Secretary deems necessary to carry out the purposes of this part;
 
@@ -43,10 +43,6 @@ If, within twenty years after the completion of any construction (except minor r
 Act of March 3, 1931 (40 U.S.C. 276a—276a–5) commonly referred to as the Davis-Bacon Act, referred to in subsec. (b)(5), is act Mar. 3, 1931, ch. 411, 46 Stat. 1494, as amended, which is classified generally to sections 276a to 276a–5 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 276a of Title 40 and Tables.
 
 Reorganization Plan Numbered 14 of 1950, referred to in subsec. (b)(5), is set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Codification
-
-Section is also set out in D.C. Code, §31–1841.4b.
 
 #### Prior Provisions
 
@@ -86,7 +82,7 @@ Subsec. (b)(6). Pub. L. 102–421, §121(3), added par. (6).
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 
 #### Effective Date of 1998 Amendment
 

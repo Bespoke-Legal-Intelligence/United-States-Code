@@ -34,7 +34,7 @@ The Secretary of Commerce, in consultation with the Federal Emergency Management
 
 &emsp;(1) within 3 months after October 21, 1980, identify and submit to the Congress a specific materials needs case related to national security, economic well-being and industrial production which will be the subject of the report required by paragraph (2) of this subsection;
 
-&emsp;(2) within 1 year after October 21, 1980, submit to the Congress a report which assesses critical materials needs in the case identified in paragraph (1) of this subsection, and which recommends programs that would assist in meeting such needs, including an assessment of economic stockpiles; and
+&emsp;(2) within 1 year after October 21, 1980, submit to the Congress a report which assessescritical materials needs in the case identified in paragraph (1) of this subsection, and which recommends programs that would assist in meeting such needs, including an assessment of economic stockpiles; and
 
 &emsp;(3) continually thereafter identify and assess additional cases, as necessary, to ensure an adequate and stable supply of materials to meet national security, economic well-being and industrial production needs.
 
@@ -56,7 +56,7 @@ The Secretary of the Interior shall promptly initiate actions to—
 
 #### (f) Secretary of the Interior; collection, evaluation, and analysis activities concerning information
 
-In furtherance of the policies of this chapter, the Secretary of the Interior shall collect,evaluate, and analyze information concerning mineral occurrence, production, and use from industry, academia, and Federal and State agencies. Notwithstanding the provisions of section 552 of title 5, data and information provided to the Department by persons or firms engaged in any phase of mineral or mineral-material production or large-scale consumption shall not be disclosed outside of the Department of the Interior in a nonaggregated form so as to disclose data and information supplied by a single person or firm, unless there is no objection to the disclosure of such data and information by the donor: <i>Provided, however</i>, That the Secretary may disclose nonaggregated data and information to Federal defense agencies, or to the Congress upon official request for appropriate purposes.
+In furtherance of the policies of this chapter, the Secretary of the Interior shall collect, evaluate, and analyze information concerning mineral occurrence, production, and use from industry, academia, and Federal and State agencies. Notwithstanding the provisions of section 552 of title 5, data and information provided to the Department by persons or firms engaged in any phase of mineral or mineral-material production or large-scale consumption shall not be disclosed outside of the Department of the Interior in a nonaggregated form so as to disclose data and information supplied by a single person or firm, unless there is no objection to the disclosure of such data and information by the donor: <i>Provided, however</i>, That the Secretary may disclose nonaggregated data and information to Federal defense agencies, or to the Congress upon official request for appropriate purposes.
 
 (Pub. L. 96–479, §5, Oct. 21, 1980, 94 Stat. 2307; Pub. L. 102–285, §10(b), May 18, 1992, 106 Stat. 172.)
 

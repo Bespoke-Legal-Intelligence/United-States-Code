@@ -2,11 +2,11 @@
 
 #### (a) Articles made from imported merchandise
 
-Upon the exportation or destruction under customs supervision of articles manufactured or produced in the United States with the use of imported merchandise, provided that those articles have not been used prior to such exportation or destruction, the full amount of the duties paid upon the merchandise so used shall be refunded as drawback, less 1 per centum of such duties, except that such duties shall not be so refunded upon the exportation or destruction offlour or by-products produced from imported wheat. Where two or more products result from the manipulation of imported merchandise, the drawback shall be distributed to the several products in accordance with their relative values at the time of separation.
+Upon the exportation or destruction under customs supervision of articles manufactured or produced in the United States with the use of imported merchandise, provided that those articles have not been used prior to such exportation or destruction, the full amount of the duties paid upon the merchandise so used shall be refunded as drawback, less 1 per centum of such duties, except that such duties shall not be so refunded upon the exportation or destruction of flour or by-products produced from imported wheat. Where two or more products result from the manipulation of imported merchandise, the drawback shall be distributed to the several products in accordance with their relative values at the time of separation.
 
 #### (b) Substitution for drawback purposes
 
-If imported duty-paid merchandise and any other merchandise (whether imported or domestic) of the same kind and quality are used in the manufacture or production of articles within a period not to exceed three years from the receipt of such imported merchandise by the manufacturer or producer of such articles, there shall be allowed upon the exportation, or destruction under customs supervision, of any such articles, notwithstanding the fact that none of the imported merchandise may actually have been used in the manufacture or production of the exported or destroyed articles, an amount of drawback equal to that which would have been allowable had the merchandise used therein been imported, but only if those articles have not been used prior to such exportation or destruction; but the total amount of drawback allowed upon the exportation or destruction under customs supervision of such articles, together with the total amount of drawback allowed in respect of such imported merchandise under any other provision of law, shall not exceed 99 per centum of the duty paid on such imported merchandise.
+If imported duty-paid merchandise and any other merchandise (whether imported or domestic) of the same kind and quality are used in the manufacture or production of articles within a period not to exceed three years from the receipt of such imported merchandise by the manufacturer or producer of such articles, there shall be allowed upon the exportation, or destruction under customs supervision, of any such articles, notwithstanding the fact that none of the imported merchandise may actuallyhave been used in the manufacture or production of the exported or destroyed articles, an amount of drawback equal to that which would have been allowable had the merchandise used therein been imported, but only if those articles have not been used prior to such exportation or destruction; but the total amount of drawback allowed upon the exportation or destruction under customs supervision of such articles, together with the total amount of drawback allowed in respect of such imported merchandise under any other provision of law, shall not exceed 99 per centum of the duty paid on such imported merchandise.
 
 #### (c) Merchandise not conforming to sample or specifications
 
@@ -60,7 +60,7 @@ No drawback shall be allowed under the provisions of this section unless the com
 
 &emsp;(B) is not used within the United States before such exportation or destruction;
 
-> then upon such exportation or destruction 99 percent of the amount of each duty, tax, or feeso paid shall be refunded as drawback. The exporter (or destroyer) has the right to claim drawback under this paragraph, but may endorse such right to the importer or any intermediate party.
+> then upon such exportation or destruction 99 percent of the amount of each duty, tax, or fee so paid shall be refunded as drawback. The exporter (or destroyer) has the right to claim drawback under this paragraph, but may endorse such right to the importer or any intermediate party.
 
 (2) Subject to paragraph (4), if there is, with respect to imported merchandise on which was paid any duty, tax, or fee imposed under Federal law because of its importation, any other merchandise (whether imported or domestic), that—
 
@@ -118,7 +118,7 @@ Any drawback of duties that may be authorized under the provisions of this chapt
 
 &emsp;(B) the total amount of customs duties paid on the good to the NAFTA country.
 
-(3) If Canada ceases to be a NAFTA country and the suspension of the operation of the United States-Canada Free-Trade Agreement thereafter terminates, then for purposes of subsections (a), (b), (f), (h), (j)(2), and (q) of this section, the shipment to Canada during the period such Agreement is in operation of an article made from or substituted for, as appropriate, adrawback eligible good under section 204(a) of the United States-Canada Free-Trade Implementation Act of 1988 does not constitute an exportation.
+(3) If Canada ceases to be a NAFTA country and the suspension of the operation of the United States-Canada Free-Trade Agreement thereafter terminates, then for purposes of subsections (a), (b), (f), (h), (j)(2), and (q) of this section, the shipment to Canada during the period such Agreement is in operation of an article made from or substituted for, as appropriate, a drawback eligible good under section 204(a) of the United States-Canada Free-Trade Implementation Act of 1988 does not constitute an exportation.
 
 #### (<i>o</i>) Vessels built for account of resident of NAFTA country
 
@@ -180,7 +180,7 @@ Any drawback of duties that may be authorized under the provisions of this chapt
 
 &emsp;&emsp;&emsp;(i) described in—
 
-&emsp;&emsp;&emsp;&emsp;(I) headings 2707, 2708, 2710, 2711, 2712, 2713, 2714, 2715, 2901, 2902, and 2909.19.14 of the Harmonized Tariff Schedule of the United States, or
+&emsp;&emsp;&emsp;&emsp;(I) headings 2707, 2708, 2709.00, 2710, 2711, 2712, 2713, 2714, 2715, 2901, and 2902, and subheadings 2903.21.00, 2909.19.14, 2917.36, 2917.39.04, 2917.39.15, 2926.10.00, 3811.21.00, and 3811.90.00 of the Harmonized Tariff Schedule of the United States, or
 
 &emsp;&emsp;&emsp;&emsp;(II) headings 3901 through 3914 of such Schedule (as such headings apply to the primary forms provided under Note 6 to chapter 39 of the Harmonized Tariff Schedule of the United States), and
 
@@ -194,7 +194,7 @@ Any drawback of duties that may be authorized under the provisions of this chapt
 
 &emsp;&emsp;&nbsp;The transferred merchandise described in subclause (III), regardless of its origin, so designated on the certificate of delivery or certificate of manufacture and delivery shall be the qualified article for purposes of this section. A party who issues a certificate of delivery, or certificate of manufacture and delivery, shall also certify to the Commissioner of Customs that it has not, and will not, issue such certificates for a quantity greater than the amount eligible for drawback and that appropriate records will be maintained to demonstrate that fact.
 
-&emsp;&emsp;(B) An article, including an imported, manufactured, substituted, or exported article, is of the same kind and quality as the qualified article for which it is substituted under this subsection if it is a product that is commercially interchangeable with or referred to under the same eight-digit classification of the Harmonized Tariff Schedule of the United States as the qualified article.
+&emsp;&emsp;(B) An article, including an imported, manufactured, substituted, or exported article, is of the same kind and quality as the qualified article for which it is substituted under this subsection if it is a product that is commercially interchangeable with or referred to under the same eight-digit classification of the Harmonized Tariff Schedule of the United States as the qualified article. If an article is referred to under the same eight-digit classification of the HarmonizedTariff Schedule of the United States as the qualified article on January 1, 2000, then whether or not the article has been reclassified under another eight-digit classification after January 1, 2000, the article shall be deemed to be an article that is referred to under the same eight-digit classification of such Schedule as the qualified article for purposes of the preceding sentence.
 
 &emsp;&emsp;(C) The term “drawback claimant” means the exporter of the exported article or the refiner, producer, or importer of either the qualified article or the exported article. Any person eligible to file a drawback claim under this subparagraph may designate another person to file such claim.
 
@@ -254,7 +254,7 @@ Any drawback of duties that may be authorized under the provisions of this chapt
 
 &emsp;(A) all or substantially all of the rights, privileges, immunities, powers, duties, and liabilities of the predecessor; or
 
-&emsp;(B) the assets and other business interests of a division, plant, or other business unit of such predecessor, but only if in such transfer the value of the transferred realty, personalty,and intangibles (other than drawback rights, inchoate or otherwise) exceeds the value of all transferred drawback rights, inchoate or otherwise.
+&emsp;(B) the assets and other business interests of a division, plant, or other business unit of such predecessor, but only if in such transfer the value of the transferred realty, personalty, and intangibles (other than drawback rights, inchoate or otherwise) exceeds the value of all transferred drawback rights, inchoate or otherwise.
 
 (4) No drawback shall be paid under this subsection until either the predecessor or the drawback successor (who shall also certify that it has the predecessor's records) certifies that—
 
@@ -284,7 +284,11 @@ Merchandise that is exported or destroyed to satisfy any claim for drawback shal
 
 &emsp;Notwithstanding paragraph (1), drawback shall also be available pursuant to subsection (a) of this section with respect to any tobacco subject to the over-quota rate of duty established under a tariff-rate quota.
 
-(June 17, 1930, ch. 497, title III, §313, 46 Stat. 693; May 17, 1932, ch. 190, 47 Stat. 158; June 26, 1936, ch. 830, title IV, §§402, 403, 49 Stat. 1960; Aug. 8, 1951, ch. 297, 65 Stat. 175; Aug. 8, 1953, ch. 397, §12, 67 Stat. 515; Aug. 6, 1956, ch. 1021, §2, 70 Stat. 1076; Pub. L. 85–673, §1, Aug. 18, 1958, 72 Stat. 624; Pub. L. 90–630, §2(b), Oct. 22, 1968, 82 Stat. 1328; Pub. L. 91–692, §3(a), Jan. 12, 1971, 84 Stat. 2076; Pub. L. 96–609, title II, §201(a), Dec. 28, 1980, 94 Stat. 3560; Pub. L. 98–573, title II, §202, Oct. 30, 1984, 98 Stat. 2973; Pub. L. 99–514, title XVIII, §1888(2), Oct. 22, 1986, 100 Stat. 2924; Pub. L. 100–449, title II, §204(c)(3), Sept. 28, 1988, 102 Stat. 1862; Pub. L. 101–382, title I, §134(a)(1), (2), title III, §484A(a), Aug. 20, 1990, 104 Stat. 649, 707; Pub. L. 103–182, title II, §203(b)(3), (c), title VI, §632(a), Dec. 8, 1993, 107 Stat. 2089, 2092, 2192; Pub. L. 103–465, title IV, §§404(e)(5)(A), 422(d), Dec. 8, 1994, 108 Stat. 4961, 4965; Pub. L. 104–295, §§7, 10, 21(e)(4), Oct. 11, 1996, 110 Stat. 3518, 3519, 3530; Pub. L. 106–36, title II, §§2404(a), 2419(a), 2420(a)–(d), June 25, 1999, 113 Stat. 169, 178, 179.)
+#### (x) Drawbacks for recovered materials
+
+For purposes of subsections (a), (b), and (c) of this section, the term “destruction” includes a process by which materials are recovered from imported merchandise or from an article manufactured from imported merchandise. In determining the amount of duties to be refunded as drawback to a claimant under this subsection, the value of recovered materials (including the value of any tax benefit or royalty payment) that accrues to the drawback claimant shall be deducted from the value of the imported merchandise that is destroyed, or from the value of the merchandise used, or designated as used, in the manufacture of the article.
+
+(June 17, 1930, ch. 497, title III, §313, 46 Stat. 693; May 17, 1932, ch. 190, 47 Stat. 158; June 26, 1936, ch. 830, title IV, §§402, 403, 49 Stat. 1960; Aug. 8, 1951, ch. 297, 65 Stat. 175; Aug. 8, 1953, ch. 397, §12, 67 Stat. 515; Aug. 6, 1956, ch. 1021, §2, 70 Stat. 1076; Pub. L. 85–673, §1, Aug. 18, 1958, 72 Stat. 624; Pub. L. 90–630, §2(b), Oct. 22, 1968, 82 Stat. 1328; Pub. L. 91–692, §3(a), Jan. 12, 1971, 84 Stat. 2076; Pub. L. 96–609, title II, §201(a), Dec. 28, 1980, 94 Stat. 3560; Pub. L. 98–573, title II, §202, Oct. 30, 1984, 98 Stat. 2973; Pub. L. 99–514, title XVIII, §1888(2), Oct. 22, 1986, 100 Stat. 2924; Pub. L. 100–449, title II, §204(c)(3), Sept. 28, 1988, 102 Stat. 1862; Pub. L. 101–382, title I, §134(a)(1), (2), title III, §484A(a), Aug. 20, 1990, 104 Stat. 649, 707; Pub. L. 103–182, title II, §203(b)(3), (c), title VI, §632(a), Dec. 8, 1993, 107 Stat. 2089, 2092, 2192; Pub. L. 103–465, title IV, §§404(e)(5)(A), 422(d), Dec. 8, 1994, 108 Stat. 4961, 4965; Pub. L. 104–295, §§7, 10, 21(e)(4), Oct. 11, 1996, 110 Stat. 3518, 3519, 3530; Pub. L. 106–36, title II, §§2404(a), 2419(a), 2420(a)–(d), June 25, 1999, 113 Stat. 169, 178, 179; Pub. L. 106–476, title I, §§1422(a)(1), (b), 1462(a), Nov. 9, 2000, 114 Stat. 2156, 2172.)
 
 #### References in Text
 
@@ -311,6 +315,12 @@ R.S. §3048, which was not repealed, read as follows: “So much money as may be
 Permanent appropriations to pay debentures and other charges arising from duties, drawbacks, bounties, and allowances were also contained in R.S. §3689, incorporated in section 711 of former Title 31, Money and Finance, prior to repeal effective July 1, 1935, by act June 26, 1934, ch. 756, §§1, 2, 48 Stat. 1225.
 
 #### Amendments
+
+2000—Subsec. (p)(3)(A)(i)(I). Pub. L. 106–476, §1422(a)(1), inserted “2709.00,” after “2708,” and substituted “and 2902, and subheadings 2903.21.00, 2909.19.14, 2917.36, 2917.39.04, 2917.39.15, 2926.10.00, 3811.21.00, and 3811.90.00” for “2902, and 2909.19.14”.
+
+Subsec. (p)(3)(B). Pub. L. 106–476, §1422(b), inserted at end “If an article is referred to under the same eight-digit classification of the Harmonized Tariff Schedule of the United States as the qualified article on January 1, 2000, then whether or not the article has been reclassified under another eight-digit classification after January 1, 2000, the article shall be deemed to be an article that is referred to under the same eight-digit classification of such Schedule as the qualified article for purposes of the preceding sentence.”
+
+Subsec. (x). Pub. L. 106–476, §1462(a), added subsec. (x).
 
 1999—Subsec. (p)(1). Pub. L. 106–36, §2420(a), substituted concluding provisions for former concluding provisions which read as follows: “the amount of the duties paid on, or attributable to, such qualified article shall be refunded as drawback to the drawback claimant”.
 
@@ -406,6 +416,18 @@ Subsec. (i). Act Aug. 8, 1953, §12(c), broadened the authority of the Secretary
 
 “Puerto Rico” substituted in subsec. (j) for “Porto Rico” pursuant to act May 17, 1932, which is classified to section 731a of Title 48, Territories and Insular Possessions.
 
+#### Effective Date of 2000 Amendment
+
+Pub. L. 106–476, title I, §1422(a)(2), Nov. 9, 2000, 114 Stat. 2156, provided that: “The amendments made by paragraph (1) \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 9, 2000\], and shall apply to—
+
+&emsp;“(A) any drawback claim filed on or after such date of enactment; and
+
+&emsp;“(B) any drawback entry filed before such date of enactment if the liquidation of the entry is not final on such date of enactment.”
+
+Pub. L. 106–476, title I, §1462(b), Nov. 9, 2000, 114 Stat. 2173, provided that: “The amendment made by this section \[amending this section\] shall apply to drawback claims filed on or after the date of the enactment of this Act \[Nov. 9, 2000\].”
+
+Amendment by title I of Pub. L. 106–476, except as otherwise provided, applicable with respect to goods entered, or withdrawn from warehouse, for consumption, on or after the 15th day after Nov. 9, 2000, see section 1471 of Pub. L. 106–476, set out as a note under section 58c of this title.
+
 #### Effective Date of 1999 Amendment
 
 Pub. L. 106–36, title II, §2404(b), June 25, 1999, 113 Stat. 169, provided that: “The amendment made by this section \[amending this section\] applies with respect to goods entered, or withdrawn from warehouse for consumption, on or after the 15th day after the date of the enactment of this Act \[June 25, 1999\].”
@@ -438,7 +460,7 @@ Amendment by section 484A(a) of Pub. L. 101–382 applicable to claims filed or 
 
 #### Effective and Termination Dates of 1988 Amendment
 
-Amendment by Pub. L. 100–449 effective on date the United States-Canada Free-Trade Agreement enters into force (Jan. 1, 1989), and to cease to have effect on date Agreement ceases to be in force, see section 501(a), (c) of Pub. L. 100–449, set out in a note under section 2112 of this title.
+Amendment by Pub. L. 100–449 effective on date the United States-Canada Free-Trade Agreement entersinto force (Jan. 1, 1989), and to cease to have effect on date Agreement ceases to be in force, see section 501(a), (c) of Pub. L. 100–449, set out in a note under section 2112 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -470,7 +492,7 @@ Amendment by section 203(c) of Pub. L. 103–182 to be made after amendment by s
 
 #### Transfer of Functions
 
-Functions of all officers of Department of the Treasury and functions of all agencies and employees of suchDepartment transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. Commissioner of Internal Revenue, referred to in this section, is an officer of Department of the Treasury.
+Functions of all officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. Commissioner of Internal Revenue, referred to in this section, is an officer of Department of the Treasury.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

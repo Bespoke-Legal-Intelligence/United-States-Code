@@ -10,10 +10,6 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 Transfer of disbursement functions of all Government agencies with certain exceptions to the Fiscal Service, Department of the Treasury, see note set out under section 53 of this title.
 
-#### Cross References
-
-Public accounts to be settled in General Accounting Office, see section 3526 of Title 31, Money and Finance.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 86 of this title.

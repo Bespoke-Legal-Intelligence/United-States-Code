@@ -18,11 +18,11 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1992—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court” and inserted “for district judges” after “may approve” in first sentence.
+<b>1992</b>—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court” and inserted “for district judges” after “may approve” in first sentence.
 
-1988—Pub. L. 100–702 inserted at end “A law clerk appointed under this section shall be exempt from the provisions of subchapter I of chapter 63 of title 5, unless specifically included by the appointing judge or by local rule of court.”
+<b>1988</b>—Pub. L. 100–702 inserted at end “A law clerk appointed under this section shall be exempt from the provisions of subchapter I of chapter 63 of title 5, unless specifically included by the appointing judge or by local rule of court.”
 
-1982—Pub. L. 97–164 substituted “Law clerks and secretaries” for “Stenographers and clerical employees” as section catchline and, in text, substituted “The judges of the United States Claims Court may appoint necessary law clerks and secretaries, in such numbers as the Judicial Conference of the United States may approve, subject to any limitation of the aggregate salaries of such employees which may be imposed by law” for “The Court of Claims shall appoint stenographers and other clerical employees in such numbers as may be necessary each of whom shall be subject to removal by the court”.
+<b>1982</b>—Pub. L. 97–164 substituted “Law clerks and secretaries” for “Stenographers and clerical employees” as section catchline and, in text, substituted “The judges of the United States Claims Court may appoint necessary law clerks and secretaries, in such numbers as the Judicial Conference of the United States may approve, subject to any limitation of the aggregate salaries of such employees which may be imposed by law” for “The Court of Claims shall appoint stenographers and other clerical employees in such numbers as may be necessary each of whom shall be subject to removal by the court”.
 
 #### Effective Date of 1992 Amendment
 
@@ -31,8 +31,4 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 #### Effective Date of 1982 Amendment
 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of this title.
-
-#### Cross References
-
-Compensation and expenses of court officers and employees, see section 604 of this title.
 

@@ -20,7 +20,7 @@
 
 &emsp;Programs assisted under this chapter shall not be carried on in a manner involving the use of program funds, the provision of services, or the employment or assignment of personnel, in a manner supporting or resulting in the identification of such programs with—
 
-&emsp;&emsp;(A) any partisan or nonpartisan political activity or any political activity associated with a candidate, or contending faction orgroup, in an election for public or party office;
+&emsp;&emsp;(A) any partisan or nonpartisan political activity or any political activity associated with a candidate, or contending faction or group, in an election for public or party office;
 
 &emsp;&emsp;(B) any activity to provide voters or prospective voters with transportation to the polls or similar assistance in connection with any such election; or
 
@@ -38,7 +38,7 @@
 
 #### (2) Action of Secretary
 
-&emsp;Whenever the Secretary determines that a State that has received a payment under this chapter has failed to comply with paragraph (1) or an applicable regulation, the Secretary shall notify the chief executive officer of the State and shall request that the officer secure compliance. If within a reasonable period of time, not to exceed 60 days, the chief executive officer fails or refuses to secure compliance, the Secretary is authorized to—
+&emsp;Whenever the Secretary determines that a State that has received a payment under thischapter has failed to comply with paragraph (1) or an applicable regulation, the Secretary shall notify the chief executive officer of the State and shall request that the officer secure compliance. If within a reasonable period of time, not to exceed 60 days, the chief executive officer fails or refuses to secure compliance, the Secretary is authorized to—
 
 &emsp;&emsp;(A) refer the matter to the Attorney General with a recommendation that an appropriate civil action be instituted;
 

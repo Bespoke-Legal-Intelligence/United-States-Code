@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Appropriations available for the pay and allowances of commissioned officers of the Service shall also be available for the pay and allowances of any such officer on active duty whileattending any Federal or non-Federal educational institution or training program and, subject to regulations of the President and to the limitation prescribed in such appropriations, for payment of his tuition, fees, and other necessary expenses incident to such attendance.
+Appropriations available for the pay and allowances of commissioned officers of the Service shall also be available for the pay and allowances of any such officer on active duty while attending any Federal or non-Federal educational institution or training program and, subject to regulations of the President and to the limitation prescribed in such appropriations, for payment of his tuition, fees, and other necessary expenses incident to such attendance.
 
 #### (b) Voluntary separation within period subsequent to attendance
 

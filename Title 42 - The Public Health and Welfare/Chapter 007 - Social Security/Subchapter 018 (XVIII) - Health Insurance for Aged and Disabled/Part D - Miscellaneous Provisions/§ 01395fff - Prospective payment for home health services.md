@@ -24,7 +24,9 @@ Notwithstanding section 1395x(v) of this title, the Secretary shall provide, for
 
 &emsp;&emsp;&emsp;&emsp;(I) Such amount (or amounts) shall initially be based on the most current audited cost report data available to the Secretary and shall be computed in a manner so that the total amounts payable under the system for the 12-month period beginning on the date the Secretary implements the system shall be equal to the total amount that would have been made if the system had not been in effect and if section 1395x(v)(1)(L)(ix) of this title had not been enacted.
 
-&emsp;&emsp;&emsp;&emsp;(II) For periods beginning after the period described in subclause (I), such amount (or amounts) shall be equal to the amount (or amounts) that would have been determined under subclause (I) that would have been made for fiscal year 2001 if the system had not been in effect and if section 1395x(v)(1)(L)(ix) of this title had not been enacted but if the reduction in limits described in clause (ii) had been in effect, updated under subparagraph (B).
+&emsp;&emsp;&emsp;&emsp;(II) For the 12-month period beginning after the period described in subclause (I), such amount (or amounts) shall be equal to the amount (or amounts) determined under subclause (I), updated under subparagraph (B).
+
+&emsp;&emsp;&emsp;&emsp;(III) For periods beginning after the period described in subclause (II), such amount (or amounts) shall be equal to the amount (or amounts) that would have been determined under subclause (I) that would have been made for fiscal year 2001 if the system had not been in effect and if section 1395x(v)(1)(L)(ix) of this title had not been enacted but if the reduction in limits described in clause (ii) had been in effect, updated under subparagraph (B).
 
 &emsp;&emsp;&nbsp;Each such amount shall be standardized in a manner that eliminates the effect of variations in relative case mix and area wage adjustments among different home health agencies in a budget neutral manner consistent with the case mix and wage level adjustments provided under paragraph (4)(A). Under the system, the Secretary may recognize regional differences or differences based upon whether or not the services or agency are in an urbanized area.
 
@@ -49,6 +51,10 @@ Notwithstanding section 1395x(v) of this title, the Secretary shall provide, for
 #### (iii) Home health market basket percentage increase
 
 &emsp;&emsp;&emsp;For purposes of this subsection, the term “home health market basket percentage increase” means, with respect to a fiscal year, a percentage (estimated by the Secretary before the beginning of the fiscal year) determined and applied with respect to the mix of goods and services included in home health services in the same manner as the market basket percentage increase under section 1395ww(b)(3)(B)(iii) of this title is determined and applied to the mix of goods and services comprising inpatient hospital services for the fiscal year.
+
+#### (iv) Adjustment for case mix changes
+
+&emsp;&emsp;&emsp;Insofar as the Secretary determines that the adjustments under paragraph (4)(A)(i) for a previous fiscal year (or estimates that such adjustments for a future fiscal year) did (or are likely to) result in a change in aggregate payments under this subsection during the fiscal year that are a result of changes in the coding or classification of different units of services thatdo not reflect real changes in case mix, the Secretary may adjust the standard prospective payment amount (or amounts) under paragraph (3) for subsequent fiscal years so as to eliminate the effect of such coding or classification changes.
 
 #### (C) Adjustment for outliers
 
@@ -108,9 +114,31 @@ There shall be no administrative or judicial review under section 1395ff of this
 
 &emsp;(6) the establishment of any adjustments for outliers under subsection (b)(5) of this section.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1895, as added Pub. L. 105–33, title IV, §4603(a), Aug. 5, 1997, 111 Stat. 467; amended Pub. L. 105–277, div. J, title V, §5101(c)(1), (d)(2), Oct. 21, 1998, 112 Stat. 2681–914; Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §§302(b), 303(b), 306, 321(k)(19)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–359, 1501A–361, 1501A–362, 1501A–368.)
+#### (e) Construction related to home health services
+
+#### (1) Telecommunications
+
+&emsp;Nothing in this section shall be construed as preventing a home health agency furnishing a home health unit of service for which payment is made under the prospective payment system established by this section for such units of service from furnishing services via a telecommunication system if such services—
+
+&emsp;&emsp;(A) do not substitute for in-person home health services ordered as part of a plan of care certified by a physician pursuant to section 1395f(a)(2)(C) or 1395n(a)(2)(A) of this title; and
+
+&emsp;&emsp;(B) are not considered a home health visit for purposes of eligibility or payment under this subchapter.
+
+#### (2) Physician certification
+
+&emsp;Nothing in this section shall be construed as waiving the requirement for a physician certification under section 1395f(a)(2)(C) or 1395n(a)(2)(A) of this title for the payment for home health services, whether or not furnished via a telecommunications system.
+
+(Aug. 14, 1935, ch. 531, title XVIII, §1895, as added Pub. L. 105–33, title IV, §4603(a), Aug. 5, 1997, 111 Stat. 467; amended Pub. L. 105–277, div. J, title V, §5101(c)(1), (d)(2), Oct. 21, 1998, 112 Stat. 2681–914; Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §§302(b), 303(b), 306, 321(k)(19)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–359, 1501A–361, 1501A–362, 1501A–368; Pub. L. 106–554, §1(a)(6) \[title V, §§501(a), (c)(1), 504\], Dec. 21, 2000, 114 Stat. 2763, 2763A–529, 2763A–531.)
 
 #### Amendments
+
+2000—Subsec. (b)(3)(A)(i)(II). Pub. L. 106–554, §1(a)(6) \[title V, §501(a)(3)\], added subcl. (II). Former subcl. (II) redesignated (III).
+
+Subsec. (b)(3)(A)(i)(III). Pub. L. 106–554, §1(a)(6) \[title V, §501(a)(1), (2)\], redesignated subcl. (II) as (III) and substituted “described in subclause (II)” for “described in subclause (I)”.
+
+Subsec. (b)(3)(B)(iv). Pub. L. 106–554, §1(a)(6) \[title V, §501(c)(1)\], added cl. (iv).
+
+Subsec. (e). Pub. L. 106–554, §1(a)(6) \[title V, §504\], added subsec. (e).
 
 1999—Subsec. (b)(1). Pub. L. 106–113, §1000(a)(6) \[title III, §321(k)(19)\], made technical amendment to reference in original act which appears in text as reference to August 5, 1997.
 
@@ -134,6 +162,10 @@ Pub. L. 105–277, §5101(c)(1)(B)(iii), substituted “fiscal year 2002” for 
 
 Subsec. (b)(3)(B)(ii), (iii). Pub. L. 105–277, §5101(d)(2)(B), (C), added cl. (ii) and redesignated former cl. (ii) as (iii).
 
+#### Effective Date of 2000 Amendment
+
+Pub. L. 106–554, §1(a)(6) \[title V, §501(c)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–529, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to episodes concluding on or after October 1, 2001.”
+
 #### Effective Date of 1999 Amendment
 
 Amendment by section 1000(a)(6) \[title III, §303(b)\] of Pub. L.106–113 applicable to services furnished by home health agencies for cost reporting periods beginning on or after Oct. 1, 1999, see section 1000(a)(6) \[title III, §303(c)\] of Pub. L. 106–113, set out as a note under section 1395x of this title.
@@ -143,6 +175,70 @@ Amendment by section 1000(a)(6) \[title III, §321(k)(19)\] of Pub. L. 106–113
 #### Effective Date
 
 Pub. L. 105–33, title IV, §4603(d), Aug. 5, 1997, 111 Stat. 471, as amended by Pub. L. 105–277, div. J, title V, §5101(c)(2), Oct. 21, 1998, 112 Stat. 2681–914, provided that: “Except as otherwise provided, the amendments made by this section \[enacting this section and amending sections 1395f, 1395g, 1395k, 1395<i>l</i>, 1395u, and 1395y of this title\] shall apply to portions of cost reporting periods occurring on or after October 1, 2000.”
+
+#### Special Rule for Payment for Fiscal Year 2001 Based on Adjusted Prospective Payment Amounts
+
+Pub. L. 106–554, §1(a)(6) \[title V, §502(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–530, provided that:
+
+“(1)
+
+In general.—Notwithstanding the amendments made by subsection (a) \[amending section 1395x of this title\], for purposes of making payments under section 1895(b) of the Social Security Act (42 U.S.C. 1395fff(b)) for home health services furnished during fiscal year 2001, the Secretary of Health and Human Services shall—
+
+&emsp;“(A) with respect to episodes and visits ending on or after October 1, 2000, and before April 1, 2001, use the final standardized and budget neutral prospective payment amounts for 60-day episodes and standardized average per visit amounts for fiscal year 2001 as published by the Secretary in the Federal Register on July 3, 2000 (65 Fed. Reg. 41128–41214); and
+
+&emsp;“(B) with respect to episodes and visits ending on or after April 1, 2001, and before October 1, 2001, use such amounts increased by 2.2 percent.
+
+“(2)
+
+No effect on other payments or determinations.—The Secretary shall not take the provisions of paragraph (1) into account for purposes of payments, determinations, or budget neutrality adjustments under section 1895 of the Social Security Act.”
+
+#### Temporary Two-Month Periodic Interim Payment
+
+Pub. L. 106–554, §1(a)(6) \[title V, §503\], Dec. 21, 2000, 114 Stat. 2763, 2763A–530, provided that:
+
+“(a)
+
+In General.—Notwithstanding the amendments made by section 4603(b) of BBA \[Pub. L. 105–33, amending section 1395g of this title\] (42 U.S.C. 1395fff note), in the case of a home health agency that was receiving periodic interim payments under section 1815(e)(2) of the Social Security Act (42 U.S.C. 1395g(e)(2)) as of September 30, 2000, and that is not described in subsection (b), the Secretary of Health and Human Services shall, as soon as practicable, make a single periodic interim payment to such agency in an amount equal to four times the last full fortnightly periodic interim payment made to such agency under the payment system in effect prior to the implementation of the prospective payment system under section 1895(b) of such Act (42 U.S.C. 1395fff(b)). Such amount of such periodic interim payment shall be included in the tentative settlement of the last cost report for the home health agencyunder the payment system in effect prior to the implementation of such prospective payment system, regardless of the ending date of such cost report.
+
+“(b)
+
+Exceptions.—The Secretary shall not make an additional periodic interim payment under subsection (a) in the case of a home health agency (determined as of the day that such payment would otherwise be made) that—
+
+&emsp;“(1) notifies the Secretary that such agency does not want to receive such payment;
+
+&emsp;“(2) is not receiving payments pursuant to section 405.371 of title 42, Code of Federal Regulations;
+
+&emsp;“(3) is excluded from the medicare program under title XI of the Social Security Act \[subchapter XI of this chapter\];
+
+&emsp;“(4) no longer has a provider agreement under section 1866 of such Act (42 U.S.C. 1395cc);
+
+&emsp;“(5) is no longer in business; or
+
+&emsp;“(6) is subject to a court order providing for the withholding of medicare payments under title XVIII of such Act \[this subchapter\].”
+
+#### Temporary Increase for Home Health Services Furnished in a Rural Area
+
+Pub. L. 106–554, §1(a)(6) \[title V, §508\], Dec. 21, 2000, 114 Stat. 2763, 2763A–533, provided that:
+
+“(a) 24
+
+\-Month Increase Beginning April 1, 2001.—In the case of home health services furnished in a rural area (as defined in section 1886(d)(2)(D) of the Social Security Act (42 U.S.C. 1395ww(d)(2)(D))) on or after April 1, 2001, and before April 1, 2003, the Secretary of Health and Human Services shall increase the payment amount otherwise made under section 1895 of such Act (42 U.S.C. 1395fff) for such services by 10 percent.
+
+“(b)
+
+Waiving Budget Neutrality.—The Secretary shall not reduce the standard prospective payment amount (or amounts) under section 1895 of the Social Security Act (42 U.S.C. 1395fff) applicable to home health services furnished during a period to offset the increase in payments resulting from the application of subsection (a).”
+
+#### Clarification of Application of Temporary Payment Increases for 2001
+
+Pub. L. 106–554, §1(a)(6) \[title V, §547(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–553, provided that:
+
+“(1)
+
+Transitional allowance for full marketbasket \[sic\] increase.—The payment increase provided under section 502(b)(1)(B) \[set out as a note above\] shall not apply to episodes and visits ending after fiscal year 2001 and shall not be taken into account in calculating the payment amounts applicable for subsequent episodes and visits.
+
+“(2)
+
+Temporary increase for rural home health services.—The payment increase provided under section 508(a) \[set out as a note above\] for the period beginning on April 1, 2001, and ending on September 30, 2002, shall not apply to episodes and visits ending after such period, and shall not be taken into account in calculating the payment amounts applicable for episodes and visits occurring after such period.”
 
 #### Adjustment To Reflect Administrative Costs Not Included in the Interim Payment System; GAO Report on Costs of Compliance With Oasis Data Collection Requirements
 
@@ -218,7 +314,7 @@ Definitions.—In this subsection:
 
 &emsp;&emsp;“(A)
 
-Comprehensive assessment of patients.—The term ‘comprehensive assessment of patients’means the rule published by the Health Care Financing Administration that requires, as a condition of participation in the medicare program, a home health agency to provide a patient-specific comprehensive assessment that accurately reflects the patient's current status and that incorporates the Outcome and Assessment Information Set (OASIS).
+Comprehensive assessment of patients.—The term ‘comprehensive assessment of patients’ means the rule published by the Health Care Financing Administration that requires, as a condition of participation in the medicare program, a home health agency to provide a patient-specific comprehensive assessment that accurately reflects the patient's current status and that incorporates the Outcome and Assessment Information Set (OASIS).
 
 &emsp;&emsp;“(B)
 
@@ -226,7 +322,7 @@ Outcome and assessment information set.—The term ‘Outcome and Assessment Inf
 
 #### Report to Congress on Need for Reductions
 
-Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §302(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–360, provided that: “Not later than the date that is six months after the date the Secretary of Health and Human Services implements the prospective payment system for home health services under section 1895 of the Social Security Act (42 U.S.C. 1395fff), the Secretary shall submit to Congress a report analyzing the need for the 15 percent reduction under subsection (b)(3)(A)(ii) of such section, or for any reduction, in the computation of the base payment amounts under the prospective payment system for home health services established under such section.”
+Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §302(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–360, as amended by Pub. L. 106–554, §1(a)(6) \[title V, §501(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–529, provided that: “Not later than April 1, 2002, the Comptroller General of the United States shall submit to Congress a report analyzing the need for the 15 percent reduction under subsection (b)(3)(A)(ii) of such section \[subsec. (b)(3)(A)(ii) of this section\], or for any reduction, in the computation of the base payment amounts under the prospective payment system for home health services established under such section.”
 
 #### Study and Report to Congress Regarding Exemption of Rural Agencies and Populations From Inclusion in Home Health Prospective Payment System
 

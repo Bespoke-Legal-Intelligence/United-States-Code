@@ -16,7 +16,7 @@ Objectives.—The objectives for authorizing participation in a program under su
 
 &emsp;(2) To make more efficient use of Department of Defense facilities and resources.
 
-&emsp;(3) To establish or support a partnership or consortium arrangement with schools andother youth services organizations serving children of members of the armed forces.
+&emsp;(3) To establish or support a partnership or consortium arrangement with schools and other youth services organizations serving children of members of the armed forces.
 
 (d)
 

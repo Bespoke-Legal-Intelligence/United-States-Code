@@ -104,10 +104,6 @@ Pub. L. 100–448, §§26(b), 29(b), Sept. 28, 1988, 102 Stat. 1848, 1849, added
 
 1956—Act Aug. 7, 1956, ch. 1023, §1(b), 70 Stat. 1077, substituted “Coast Guard Supply Fund” for “Coast Guard supply fund and supply account” in item 650.
 
-#### Cross References
-
-Procurement of property and services by Coast Guard, see section 2301 et seq. of Title 10, Armed Forces.
-
 <i><sup>1</sup></i><i> So in original. Capitalization does not conform to section catchline.</i>
 
 <i><sup>2</sup></i><i> So in original. Two sections 673 have been enacted.</i>

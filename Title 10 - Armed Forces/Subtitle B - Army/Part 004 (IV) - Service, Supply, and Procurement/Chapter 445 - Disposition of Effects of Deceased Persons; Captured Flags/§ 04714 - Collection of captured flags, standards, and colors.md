@@ -20,7 +20,3 @@ R.S. 218.
 
 The words “from time to time”, “collected”, and “at the seat of government” are omitted as surplusage.
 
-#### Cross References
-
-Collection, preservation, and display of flags captured by the Navy, see section 7216 of this title.
-

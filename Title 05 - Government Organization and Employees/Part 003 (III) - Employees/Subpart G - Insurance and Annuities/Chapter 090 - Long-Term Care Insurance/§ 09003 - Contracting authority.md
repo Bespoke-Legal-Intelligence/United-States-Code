@@ -1,0 +1,100 @@
+### §9003. Contracting authority
+
+(a)
+
+In General.—The Office of Personnel Management shall, without regard to section 5 of title 41 or any other statute requiring competitive bidding, contract with one or more qualified carriers for a policy or policies of long-term care insurance. The Office shall ensure that each resulting contract (hereafter in this chapter referred to as a “master contract”) is awarded on the basis of contractor qualifications, price, and reasonable competition.
+
+(b)
+
+Terms and Conditions.—
+
+&emsp;(1)
+
+In general.—Each master contract under this chapter shall contain—
+
+&emsp;&emsp;(A) a detailed statement of the benefits offered (including any maximums, limitations, exclusions, and other definitions of benefits);
+
+&emsp;&emsp;(B) the premiums charged (including any limitations or other conditions on their subsequent adjustment);
+
+&emsp;&emsp;(C) the terms of the enrollment period; and
+
+&emsp;&emsp;(D) such other terms and conditions as may be mutually agreed to by the Office and the carrier involved, consistent with the requirements of this chapter.
+
+&emsp;(2)
+
+Premiums.—Premiums charged under each master contract entered into under this section shall reasonably and equitably reflect the cost of the benefits provided, as determined by the Office. The premiums shall not be adjusted during the term of the contract unless mutually agreed to by the Office and the carrier.
+
+&emsp;(3)
+
+Nonrenewability.—Master contracts under this chapter may not be made automatically renewable.
+
+(c)
+
+Payment of Required Benefits; Dispute Resolution.—
+
+&emsp;(1)
+
+In general.—Each master contract under this chapter shall require the carrier to agree—
+
+&emsp;&emsp;(A) to provide payments or benefits to an eligible individual if such individual is entitled thereto under the terms of the contract; and
+
+&emsp;&emsp;(B) with respect to disputes regarding claims for payments or benefits under the terms of the contract—
+
+&emsp;&emsp;&emsp;(i) to establish internal procedures designed to expeditiously resolve such disputes; and
+
+&emsp;&emsp;&emsp;(ii) to establish, for disputes not resolved through procedures under clause (i), procedures for one or more alternative means of dispute resolution involving independent third-party review under appropriate circumstances by entities mutually acceptable to the Office and the carrier.
+
+&emsp;(2)
+
+Eligibility.—A carrier's determination as to whether or not a particular individual is eligible to obtain long-term care insurance coverage under this chapter shall be subject to review only to the extent and in the manner provided in the applicable master contract.
+
+&emsp;(3)
+
+Other claims.—For purposes of applying the Contract Disputes Act of 1978 to disputes arising under this chapter between a carrier and the Office—
+
+&emsp;&emsp;(A) the agency board having jurisdiction to decide an appeal relative to such a dispute shall be such board of contract appeals as the Director of the Office of Personnel Management shall specify in writing (after appropriate arrangements, as described in section 8(c) of such Act); and
+
+&emsp;&emsp;(B) the district courts of the United States shall have original jurisdiction, concurrent with the United States Court of Federal Claims, of any action described in section 10(a)(1) of such Act relative to such a dispute.
+
+&emsp;(4)
+
+Rule of construction.—Nothing in this chapter shall be considered to grant authority for the Office or a third-party reviewer to change the terms of any contract under this chapter.
+
+(d)
+
+Duration.—
+
+&emsp;(1)
+
+In general.—Each master contract under this chapter shall be for a term of 7 years, unless terminated earlier by the Office in accordance with the terms of such contract. However, the rights and responsibilities of the enrolled individual, the insurer, and the Office (or duly designated third-party administrator) under such contract shall continue with respect to such individual until the termination of coverage of the enrolled individual or the effective date of a successor contract thereto.
+
+&emsp;(2)
+
+Exception.—
+
+&emsp;&emsp;(A)
+
+Shorter duration.—In the case of a master contract entered into before the end of the period described in subparagraph (B), paragraph (1) shall be applied by substituting “ending on the last day of the 7-year period described in paragraph (2)(B)” for “of 7 years”.
+
+&emsp;&emsp;(B)
+
+Definition.—The period described in this subparagraph is the 7-year period beginning on the earliest date as of which any long-term care insurance coverage under this chapter becomes effective.
+
+&emsp;(3)
+
+Congressional notification.—No later than 180 days after receiving the second report required under section 9006(c), the President (or his designee) shall submit to the Committees on Government Reform and on Armed Services of the House of Representatives and the Committees on Governmental Affairs and on Armed Services of the Senate, a written recommendation as to whether the program under this chapter should be continued without modification, terminated, or restructured. During the 180-day period following the date on which the President (or his designee) submits the recommendation required under the preceding sentence, the Office of Personnel Management may not take any steps to rebid or otherwise contract for any coverage to be available at any time following the expiration of the 7-year period described in paragraph (2)(B).
+
+&emsp;(4)
+
+Full portability.—Each master contract under this chapter shall include such provisions as may be necessary to ensure that, once an individual becomes duly enrolled, long-term care insurance coverage obtained by such individual pursuant to that enrollment shall not be terminated due to any change in status (such as separation from Government service or the uniformed services) or ceasing to meet the requirements for being considered a qualified relative (whether as a result of dissolution of marriage or otherwise).
+
+(Added Pub. L. 106–265, title I, §1002(a), Sept. 19, 2000, 114 Stat. 764.)
+
+#### References in Text
+
+The Contract Disputes Act of 1978, referred to in subsec. (c)(3), is Pub. L. 95–563, Nov. 1, 1978, 92 Stat. 2383, as amended, which is classified principally to chapter 9 (§601 et seq.) of Title 41, Public Contracts. Sections 8(c) and 10(a)(1) of the Act are classified to sections 607(c) and 609(a)(1), respectively, of Title 41. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 41 and Tables.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 9002, 9004, 9007 of this title.
+

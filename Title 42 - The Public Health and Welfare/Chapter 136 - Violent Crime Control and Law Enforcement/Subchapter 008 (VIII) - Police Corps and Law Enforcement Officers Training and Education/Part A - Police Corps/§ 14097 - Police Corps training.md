@@ -20,7 +20,7 @@ The Police Corps training authorized in this section is intended to serve as bas
 
 #### (d) Course of training
 
-The training sessions at training centers established under this section shall be designed to provide basic law enforcement training, including vigorous physical and mental training toteach participants self-discipline and organizational loyalty and to impart knowledge and understanding of legal processes and law enforcement.
+The training sessions at training centers established under this section shall be designed to provide basic law enforcement training, including vigorous physical and mental training to teach participants self-discipline and organizational loyalty and to impart knowledge and understanding of legal processes and law enforcement.
 
 #### (e) Evaluation of participants
 

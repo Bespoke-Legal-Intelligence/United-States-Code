@@ -2,7 +2,7 @@
 
 (a)(1) Subject to subsection (b) of this section, the Secretary may make grants to any State to assist such State in establishing, expanding, or improving veterans’ cemeteries owned by such State. Any such grant may be made only upon submission of an application to the Secretary in such form and manner, and containing such information, as the Secretary may require.
 
-(2) There is authorized to be appropriated such sums as may be necessary for fiscal year 1999and for each succeeding fiscal year through fiscal year 2004 for the purpose of making grants under paragraph (1).
+(2) There is authorized to be appropriated such sums as may be necessary for fiscal year 1999 and for each succeeding fiscal year through fiscal year 2004 for the purpose of making grants under paragraph (1).
 
 (b) Grants under this section shall be subject to the following conditions:
 
@@ -14,7 +14,7 @@
 
 &emsp;(2) If the amount of a grant under this section is less than the amount of costs referred to in subparagraph (A) or (B) of paragraph (1), the State receiving the grant shall contribute the excess of such costs over the grant.
 
-&emsp;(3) If a State that has received a grant under this section to establish, expand, or improve a veterans’ cemetery ceases to own such cemetery, ceases to operate such cemetery as a veterans’ cemetery, or uses any part of the funds provided through such grant for a purpose other than that for which the grant was made, the United States shall be entitled to recover from such State the total of all grants made under this section to such State in connection with such cemetery.
+&emsp;(3) If a State that has received a grant under this section to establish, expand, or improve aveterans’ cemetery ceases to own such cemetery, ceases to operate such cemetery as a veterans’ cemetery, or uses any part of the funds provided through such grant for a purpose other than that for which the grant was made, the United States shall be entitled to recover from such State the total of all grants made under this section to such State in connection with such cemetery.
 
 (c)(1) In addition to the conditions specified in subsection (b) of this section, any grant to a State under this section to assist such State in establishing a veterans’ cemetery shall be made on the condition that such cemetery shall conform to such standards and guidelines relating to site selection, planning, and construction as the Secretary may by regulation prescribe. In prescribing regulations for the purposes of the preceding sentence, the Secretary shall take into account the standards and guidelines for site selection, planning, and construction that are applicable to cemeteries under the control of the National Cemetery Administration, including those provided in subsections (b), (c), and (d) of section 2404 of this title.
 

@@ -4,7 +4,7 @@
 
 &emsp;(1) transfers from a position of employment covered by chapter 83 or 84 or subchapter I or II of chapter 8 <sup>1</sup> of the Foreign Service Act of 1980 to a position of employment with an international organization pursuant to section 3582;
 
-&emsp;(2) pursuant to section 3582 elects to retain coverage, rights, and benefits under any system established by law for the retirement of persons during the period of employment with the international organization and currentlydeposits the necessary deductions in payment for such coverage, rights, and benefits in the system's fund; and
+&emsp;(2) pursuant to section 3582 elects to retain coverage, rights, and benefits under any system established by law for the retirement of persons during the period of employment with the international organization and currently deposits the necessary deductions in payment for such coverage, rights, and benefits in the system's fund; and
 
 &emsp;(3) is reemployed pursuant to section 3582(b) to a position covered by chapter 83 or 84 or subchapter I or II of chapter 8 <sup>1</sup> of the Foreign Service Act of 1980 after separation from the international organization.
 

@@ -84,7 +84,7 @@ Rights and Liability Upon Final Disposition.—(1) If, upon final disposition, t
 
 &emsp;(A) the United States shall continue to be bound by the restriction; and
 
-&emsp;(B) the United States shall be liable for payment to the party asserting the restriction for fees and other expenses (as defined in section 2412(d)(2)(A) of title 28) incurred by the party asserting the restriction in defending the asserted restriction if the challenge by the United States is found not to be made in good faith.
+&emsp;(B) the United States shall be liable for payment to the party asserting the restriction for fees and other expenses (as defined in section2412(d)(2)(A) of title 28) incurred by the party asserting the restriction in defending the asserted restriction if the challenge by the United States is found not to be made in good faith.
 
 (j)
 
@@ -144,7 +144,7 @@ Subsec. (d). Pub. L. 100–26, §7(a)(5)(A)(ii), added subsec. (d). Former subse
 
 Subsec. (d)(4)(A). Pub. L. 99–180, §1231(6)(A), substituted “subsection” for “paragraph”.
 
-Subsec. (e). Pub. L. 100–26, §7(a)(5)(A)(i), (B), redesignated former subsec. (c) as (e), inserted heading, and substituted “If a contractor or subcontractor assertinga use or release restriction” for “If a contractor or subcontractor asserting a restriction subject to this section”. Former subsec. (e) redesignated (g).
+Subsec. (e). Pub. L. 100–26, §7(a)(5)(A)(i), (B), redesignated former subsec. (c) as (e), inserted heading, and substituted “If a contractor or subcontractor asserting a use or release restriction” for “If a contractor or subcontractor asserting a restriction subject to this section”. Former subsec. (e) redesignated (g).
 
 Subsec. (f). Pub. L. 100–26, §7(a)(5)(A)(i), (C), redesignated former subsec. (d) as (f), inserted heading, and substituted “subsection (d)(3)” for “subsection (b)” in two places. Former subsec. (f) redesignated (h).
 

@@ -62,7 +62,7 @@ Sec. 3. (a) Except as otherwise provided in this section, decisions of the DOT s
 
 (e) On and after the 6th day following transmission of a DOT decision pursuant to section 3(c) of this Order, or upon earlier notification by the Assistant to the President for National Security Affairs or his designee, the DOT is authorized to disclose all unclassified portions of the text of such decision. Nothing in this section is intended to affect the ability to withhold material under any Executive order or statute other than Section 801.
 
-Sec. 4. (a) Departments and agencies outside of the Executive Office of the President shall raise only matters of national defense or foreign relations in the course of the presidential review established by this Order. All other matters, including those related to regulatory policy, shall be presented to the DOT in accordance with the procedures of the DOT.
+Sec. 4. (a) Departments and agencies outside of the Executive Office of the President shall raise only matters of national defense or foreign relations in thecourse of the presidential review established by this Order. All other matters, including those related to regulatory policy, shall be presented to the DOT in accordance with the procedures of the DOT.
 
 (b) Departments and agencies outside of the Executive Office of the President that identify matters of national defense or foreign relations while a decision is pending before the DOT shall, except as confidentiality is required for reasons of defense or foreign policy, make those matters known to the DOT in the course of its proceedings.
 

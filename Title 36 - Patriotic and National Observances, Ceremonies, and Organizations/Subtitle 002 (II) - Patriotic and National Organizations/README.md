@@ -75,6 +75,7 @@
 | [<b>1519.</b>](Part%20B%20-%20Organizations/Chapter%201519%20-%20National%20Fund%20for%20Medical%20Education/README.md) | <b>National Fund for Medical Education</b> | <b>151901</b> |
 | [<b>1521.</b>](Part%20B%20-%20Organizations/Chapter%201521%20-%20National%20Mining%20Hall%20of%20Fame%20and%20Museum/README.md) | <b>National Mining Hall of Fame and Museum</b> | <b>152101</b> |
 | [<b>1523.</b>](Part%20B%20-%20Organizations/Chapter%201523%20-%20National%20Music%20Council/README.md) | <b>National Music Council</b> | <b>152301</b> |
+| [<b>1524.</b>](Part%20B%20-%20Organizations/Chapter%201524%20-%20National%20Recording%20Preservation%20Foundation/README.md) | <b>National Recording Preservation Foundation</b> | <b>152401</b> |
 | [<b>1525.</b>](Part%20B%20-%20Organizations/Chapter%201525%20-%20National%20Safety%20Council/README.md) | <b>National Safety Council</b> | <b>152501</b> |
 | [<b>1527.</b>](Part%20B%20-%20Organizations/Chapter%201527%20-%20National%20Ski%20Patrol%20System%2C%20Incorporated/README.md) | <b>National Ski Patrol System, Incorporated</b> | <b>152701</b> |
 | [<b>1529.</b>](Part%20B%20-%20Organizations/Chapter%201529%20-%20National%20Society%2C%20Daughters%20of%20the%20American%20Colonists/README.md) | <b>National Society, Daughters of the American Colonists</b> | <b>152901</b> |
@@ -102,7 +103,7 @@
 | [<b>2203.</b>](Part%20B%20-%20Organizations/Chapter%202203%20-%20United%20States%20Capitol%20Historical%20Society/README.md) | <b>United States Capitol Historical Society</b> | <b>220301</b> |
 | [<b>2205.</b>](Part%20B%20-%20Organizations/Chapter%202205%20-%20United%20States%20Olympic%20Committee/README.md) | <b>United States Olympic Committee</b> | <b>220501</b> |
 | [<b>2207.</b>](Part%20B%20-%20Organizations/Chapter%202207%20-%20United%20States%20Submarine%20Veterans%20of%20World%20War%20II/README.md) | <b>United States Submarine Veterans of World War II</b> | <b>220701</b> |
-| [<b>2301.</b>](Part%20B%20-%20Organizations/Chapter%202301%20-%20Veterans%20of%20Foreign%20Wars%20of%20the%20United%20States/README.md) | <b>Veterans of Foreign War of the United States</b> | <b>230101</b> |
+| [<b>2301.</b>](Part%20B%20-%20Organizations/Chapter%202301%20-%20Veterans%20of%20Foreign%20Wars%20of%20the%20United%20States/README.md) | <b>Veterans of Foreign Wars of the United States</b> | <b>230101</b> |
 | [<b>2303.</b>](Part%20B%20-%20Organizations/Chapter%202303%20-%20Veterans%20of%20World%20War%20I%20of%20the%20United%20States%20of%20America%2C%20Incorporated/README.md) | <b>Veterans of World War I of the United States of America, Incorporated</b> | <b>230301</b> |
 | [<b>2305.</b>](Part%20B%20-%20Organizations/Chapter%202305%20-%20Vietnam%20Veterans%20of%20America%2C%20Inc/README.md) | <b>Vietnam Veterans of America, Inc.</b> | <b>230501</b> |
 | [<b>2401.</b>](Part%20B%20-%20Organizations/Chapter%202401%20-%20Women%27s%20Army%20Corps%20Veterans%E2%80%99%20Association/README.md) | <b>Women's Army Corps Veterans’ Association</b> | <b>240101</b> |
@@ -113,6 +114,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2000—Pub. L. 106–474, title II, §201(b), Nov. 9, 2000, 114 Stat. 2095, added item for chapter 1524.
 
 1998—Pub. L. 105–354, §1(4)(B), (5)(B), Nov. 3, 1998, 112 Stat. 3241, 3244, added items for chapters 202 and 210.
 

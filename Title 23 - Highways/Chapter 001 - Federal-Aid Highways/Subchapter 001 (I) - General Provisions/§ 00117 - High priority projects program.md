@@ -22,7 +22,7 @@ Allocation Percentages.—For each project to be carried out with funds made ava
 
 (c)
 
-Federal Share.—The Federal share payable on account of any project carried out with funds made available to carry out this section shall be 80 percent of the total cost thereof.
+Federal Share.—The Federal share payable on account of any project carried out with funds made available to carry out this section shall be 80 percent of the total cost thereof; except that the Federal share on account of the project to be carried out under item 1419 of the table contained in section 1602 of the Transportation Equity Act for the 21st Century (112 Stat. 309), relating to reconstruction of a road and causeway in Shiloh Military Park in Hardin County, Tennessee, shall be 100 percent of the total cost thereof.
 
 (d)
 
@@ -48,19 +48,23 @@ Availability of Obligation Limitation.—Obligation authority attributable to fu
 
 (h)
 
-Treatment.—Funds allocated to a State in accordance with this section shall be treated as amounts in addition to the amounts a State is apportioned under sections 104, 105, and 144 for programmatic purposes.
+Treatment.—Funds allocated to a State in accordance with this section shall be treated asamounts in addition to the amounts a State is apportioned under sections 104, 105, and 144 for programmatic purposes.
 
-(Added Pub. L. 105–178, title I, §1601(a), June 9, 1998, 112 Stat. 255.)
+(Added Pub. L. 105–178, title I, §1601(a), June 9, 1998, 112 Stat. 255; amended Pub. L. 106–346, §101(a) \[title III, §363\], Oct. 23, 2000, 114 Stat. 1356, 1356A–36.)
 
 #### References in Text
 
-Section 1602 of the Transportation Equity Act for the 21st Century, referred to in subsecs. (a) and (e), is section 1602 of Pub. L. 105–178, title I, June 9, 1998, 112 Stat. 256, which is not classified to the Code.
+Section 1602 of the Transportation Equity Act for the 21st Century, referred to in subsecs. (a), (c), and (e), is section 1602 of Pub. L. 105–178, title I, June 9, 1998, 112 Stat. 256, which is not classified to the Code.
 
 Section 1102(g) of the Transportation Equity Act for the 21st Century, referred to in subsec. (g), is section 1102(g) of Pub. L. 105–178, which is set out as a note under section 104 of this title.
 
 #### Prior Provisions
 
 A prior section 117, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 897; Pub. L. 93–87, title I, §116(a), Aug. 13, 1973, 87 Stat. 258; Pub. L. 94–280, title I, §116, May 5, 1976, 90 Stat. 436; Pub. L. 97–449, §5(d)(1), Jan. 12, 1983, 96 Stat. 2442; Pub. L. 102–240, title I, §1016(f)(2), Dec. 18, 1991, 105 Stat. 1946, related to certification acceptance, prior to repeal by Pub. L. 105–178, title I, §1601(a), June 9, 1998, 112 Stat. 255.
+
+#### Amendments
+
+2000—Subsec. (c). Pub. L. 106–346 inserted before period at end “; except that the Federal share on account of the project to be carried out under item 1419 of the table contained in section 1602 of the Transportation Equity Act for the 21st Century (112 Stat. 309), relating to reconstruction of a road and causeway in Shiloh Military Park in Hardin County, Tennessee, shall be 100 percent of the total cost thereof”.
 
 #### Section Referred to in Other Sections
 

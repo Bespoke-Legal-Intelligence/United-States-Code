@@ -76,40 +76,6 @@ Pub. L. 98–473, title II, §1105(b), Oct. 12, 1984, 98 Stat. 2145, added secon
 
 1951—Act July 16, 1951, ch. 226, §5(c), 65 Stat. 122, struck out “; publisher's illustrations excepted” in item 489.
 
-#### Cross References
-
-Certificate, license or document issued to vessels, officers or seamen, counterfeiting or forging, see section 2197 of this title.
-
-Claims against the United States, use of counterfeited or forged power of attorney, authority or instrument, see section 1003 of this title.
-
-Embezzlement or carrying away tools and materials for counterfeiting, see section 642 of this title.
-
-Extradition of fugitives from country under control of United States, see section 3185 of this title.
-
-Federal Housing Administration, counterfeiting or forging instruments for purpose of influencing action, see section 1010 of this title.
-
-Forfeiture of counterfeit paraphernalia, see section 492 of this title.
-
-Indian Arts and Crafts Board trademark, counterfeiting, see section 1158 of this title.
-
-Mail fraud involving counterfeit articles, see section 1341 of this title.
-
-Mail keys, counterfeiting or forging, see section 1704 of this title.
-
-Naturalization or citizenship papers, counterfeiting or forging, see section 1426 of this title.
-
-Passports, counterfeiting or forging, see section 1543 of this title.
-
-Postal savings, counterfeiting and forgery laws as applicable, see section 1691 of this title.
-
-Sale or receipt of counterfeited or forged securities or tools used in counterfeiting or forging securities, see section 2315 of this title.
-
-Transportation of counterfeited or forged securities or tools used in counterfeiting or forging securities, see section 2314 of this title.
-
-Visas and permits, counterfeiting or forging, see section 1546 of this title.
-
-Weather reports, issuing counterfeit weather forecast or warning, see section 2074 of this title.
-
 #### Chapter Referred to in Other Sections
 
 This chapter is referred to in title 7 section 12a; title 15 sections 78<i>o</i>, 80b–3.

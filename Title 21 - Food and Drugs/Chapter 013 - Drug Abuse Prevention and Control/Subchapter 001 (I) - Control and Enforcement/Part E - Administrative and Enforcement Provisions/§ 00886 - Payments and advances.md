@@ -38,5 +38,21 @@ In subsec. (b), “Administration” substituted for “Bureau” as the probabl
 
 1979—Subsecs. (a), (b). Pub. L. 96–132 substituted “Drug Enforcement Administration” for “Bureau of Narcotics and Dangerous Drugs”.
 
+#### Reimbursement by Drug Enforcement Administration of Expenses Incurred To Remediate Methamphetamine Laboratories
+
+Pub. L. 106–310, div. B, title XXXVI, §3672, Oct. 17, 2000, 114 Stat. 1246, provided that:
+
+“(a)
+
+Reimbursement Authorized.—The Attorney General, acting through the Administrator of the Drug Enforcement Administration, may reimburse States, units of local government, Indian tribal governments, other public entities, and multi-jurisdictional or regional consortia thereof for expenses incurred to clean up and safely dispose of substances associated with clandestine methamphetamine laboratories which may present a danger to public health or the environment.
+
+“(b)
+
+Additional DEA Personnel.—From amounts appropriated or otherwise made available to carry out this section, the Attorney General may hire not more than five additional Drug Enforcement Administration personnel to administer this section.
+
+“(c)
+
+Authorization of Appropriations.—There is authorized to be appropriated to the Attorney General to carry out this section $20,000,000 for fiscal year 2001.”
+
 <i><sup>1</sup></i><i> See Codification note below.</i>
 

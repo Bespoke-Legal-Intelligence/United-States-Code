@@ -12,7 +12,3 @@ The President is authorized, through the head of any executive department, to se
 
 1919—Act Feb. 25, 1919, repealed following proviso: “Any moneys received by the United States as the proceeds of any such sale shall be deposited to the credit of that appropriation out of which was paid the cost to the Government of the property thus sold, and the same shall immediately become available for the purposes named in the original appropriation.”
 
-#### Cross References
-
-Disposal of surplus property, see section 484 of this title.
-

@@ -34,7 +34,7 @@
 
 &emsp;(i) on the amount of payment or loan due; and
 
-&emsp;(ii) for the period beginning on the first day beginning after the required payment or loan closing date and ending on the date the amount is paid or loaned.
+&emsp;(ii) for the period beginning on the first day beginning after the required payment or loanclosing date and ending on the date the amount is paid or loaned.
 
 (B) As used in this subsection, the “required payment or loan closing date” means—
 
@@ -135,6 +135,26 @@ Section 14(a)–(c) of Pub. L. 100–496 provided that:
 “(b) The requirements of section 3902(c)(2) of title 31, United States Code, as added by section 3(b) of this Act, shall apply to payments under contracts awarded on or after October 1, 1989.
 
 “(c) The amendments made by sections 2(c) and 3(c) of this Act \[amending this section, section 3901 of this title, and section 410 of Title 39, Postal Service\] shall be applicable with respect to all obligations incurred on or after January 1, 1989.”
+
+#### Interest Penalties for Late Payment of Interim Payments Due Under Government Service Contracts
+
+Pub. L. 106–398, §1 \[\[div. A\], title X, §1010\], Oct. 30, 2000, 114 Stat. 1654, 1654A–251, provided that:
+
+“(a)
+
+Prompt Payment Requirement for Interim Payments.—Under regulations prescribed under subsection (c), the head of an agency acquiring services from a business concern under a cost reimbursement contract requiring interim payments who does not pay the concern a required interim payment by the date that is 30 days after the date of the receipt of a proper invoice shall pay an interest penalty to the concern on the amount of the payment due. The interest shall be computed as provided in section 3902(a) of title 31, United States Code.
+
+“(b)
+
+Regulations.—The Director of the Office of Management and Budget shall prescribe regulations to carry out this section. Such regulations shall be prescribed as part of the regulations prescribed under section 3903 of title 31, United States Code.
+
+“(c)
+
+Incorporation of Certain Provisions of Law.—The provisions of chapter 39 of title 31, United States Code, shall apply to this section in the same manner as if this section were enacted as part of such chapter.
+
+“(d)
+
+Effective Date.—Subsection (a) shall take effect on December 15, 2000. No interest shall accrue by reason of that subsection for any period before that date.”
 
 #### Section Referred to in Other Sections
 

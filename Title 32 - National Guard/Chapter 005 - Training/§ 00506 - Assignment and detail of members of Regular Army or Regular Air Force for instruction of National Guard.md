@@ -2,7 +2,7 @@
 
 (a) The President shall assign for instruction of the National Guard such members of the Regular Army or the Regular Air Force as he considers necessary.
 
-(b) The Secretary of the Army may detail members of the Regular Army to attend an encampment, maneuver, or other exercise, for field or coast-defense instruction of the Army National Guard. Similarly, the Secretary of the Air Force may detail members of the Regular Air Force to attend exercises for field or coast-defense instruction of the Air National Guard.Members so detailed shall instruct the members of the National Guard at the exercise, as directed by the Secretary concerned, or as requested by the governor or commanding officer of the National Guard there assembled.
+(b) The Secretary of the Army may detail members of the Regular Army to attend an encampment, maneuver, or other exercise, for field or coast-defense instruction of the Army National Guard. Similarly, the Secretary of the Air Force may detail members of the Regular Air Force to attend exercises for field or coast-defense instruction of the Air National Guard. Members so detailed shall instruct the members of the National Guard at the exercise, as directed by the Secretary concerned, or as requested by the governor or commanding officer of the National Guard there assembled.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 611.)
 
@@ -29,10 +29,6 @@ June 3, 1916, ch. 134, §96, 39 Stat. 207.
 In subsection (a), the words “members of the Regular Army and the Regular Air Force” are substituted for the words “officers of the Regular Army” and “enlisted men of the Regular Army”.
 
 In subsection (b), the words “members” is substituted for the words “officers and enlisted men”. The words “one or more”, “information”, and “encampment, maneuver, or other” are omitted as surplusage.
-
-#### Cross References
-
-Pay grades of National Guard personnel on active duty, see section 204 of Title 37, Pay and Allowances of the Uniformed Services.
 
 #### Section Referred to in Other Sections
 

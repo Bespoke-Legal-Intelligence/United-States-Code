@@ -26,7 +26,7 @@ For the purposes of this subchapter, the term “wages” means remuneration pai
 
 &emsp;(3) Any payment on account of sickness or accident disability, or medical or hospitalization expenses in connection with sickness or accident disability, made by an employer to, or on behalf of, an employee after the expiration of six calendar months following the last calendar month in which the employee worked for such employer;
 
-&emsp;(4) Any payment made to, or on behalf of, an employee or his beneficiary (A) from or to a trust exempt from tax under section 165(a) of the Internal Revenue Code of 1939 at the time of such payment or, in the case of a payment after 1954, under sections 401 and 501(a) of the Internal Revenue Code of 1954 or the Internal Revenue Code of 1986, unless such payment is made to an employee of the trust as remuneration for services rendered as such employee and not as a beneficiary of the trust, or (B) under or to an annuity plan which, at the time of such payment, meets the requirements of section 165(a)(3), (4), (5), and (6) of the Internal Revenue Code of 1939 or, in the case of a payment after 1954 and prior to 1963, the requirements of section 401(a)(3), (4), (5), and (6) of the Internal Revenue Code of 1954, or (C) under or to an annuity plan which, at the time of any such payment after 1962, is a plan described in section 403(a) of the Internal Revenue Code of 1986, or (D) under or to a bond purchase plan which, at the time of any such payment after 1962, is a qualified bond purchase plan described in section 405(a) of the Internal Revenue Code of 1954 (as in effect before July 18, 1984), or (E) under or to an annuity contract described in section 403(b) of the Internal Revenue Code of 1986, other than a payment for the purchase of such contract which is made by reason of a salary reduction agreement (whether evidenced by a written instrument or otherwise), or (F) under or to an exempt governmental deferred compensation plan (as defined in section 3121(v)(3) of such Code), or (G) to supplement pension benefits under a plan or trust described in any of the foregoing provisions of this subsection to take into account some portion or all of the increase in the cost of living (as determined by the Secretary of Labor) since retirement but only if such supplemental payments are under a plan which is treated as a welfare plan under section 3(2)(B)(ii) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1002(2)(B)(ii)\], or (H) under a simplified employee pension (as defined in section 408(k)(1) of such Code), other than any contributions described in section 408(k)(6) of such Code, or (I) under a cafeteria plan (within the meaning of section 125 of the Internal Revenue Code of 1986) if such payment would not be treated as wages without regard to such plan and it is reasonable to believe that (if section 125 applied for purposes ofthis section) section 125 would not treat any wages as constructively received; or (J) under an arrangement to which section 408(p) of such Code applies, other than any elective contributions under paragraph (2)(A)(i) thereof; or (K) under a plan described in section 457(e)(11)(A)(ii) of the Internal Revenue Code of 1986 and maintained by an eligible employer (as defined in section 457(e)(1) of such Code);
+&emsp;(4) Any payment made to, or on behalf of, an employee or his beneficiary (A) from or to a trust exempt from tax under section 165(a) of the Internal Revenue Code of 1939 at the time of such payment or, in the case of a payment after 1954, under sections 401 and 501(a) of the Internal Revenue Code of 1954 or the Internal Revenue Code of 1986, unless such payment is made to an employee of the trust as remuneration for services rendered as such employee and not as a beneficiary of the trust, or (B) under or to an annuity plan which, at the time of such payment, meets the requirements of section 165(a)(3), (4), (5), and (6) of the Internal Revenue Code of 1939 or, in the case of a payment after 1954 and prior to 1963, the requirements of section 401(a)(3), (4), (5), and (6) of the Internal Revenue Code of 1954, or (C) under or to an annuity plan which, at the time of any such payment after 1962, is a plan described in section 403(a) of the Internal Revenue Code of 1986, or (D) under or to a bond purchase plan which, at the time of any such payment after 1962, is a qualified bond purchase plan described in section 405(a) of the Internal Revenue Code of 1954 (as in effect before July 18, 1984), or (E) under or to an annuity contract described in section 403(b) of the Internal Revenue Code of 1986, other than a payment for the purchase of such contract which is made by reason of a salary reduction agreement (whether evidenced by a written instrument or otherwise), or (F) under or to an exempt governmental deferred compensation plan (as defined in section 3121(v)(3) of such Code), or (G) to supplement pension benefits under a plan or trust described in any of the foregoing provisions of this subsection to take into account some portion or all of the increase in the cost of living (as determined by the Secretary of Labor) since retirement but only if such supplemental payments are under a plan which is treated as a welfare plan under section 3(2)(B)(ii) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1002(2)(B)(ii)\], or (H) under a simplified employee pension (as defined in section 408(k)(1) of such Code), other than any contributions described in section 408(k)(6) of such Code, or (I) under a cafeteria plan (within the meaning of section 125 of the Internal Revenue Code of 1986) if such payment would not be treated as wages without regard to such plan and it is reasonable to believe that (if section 125 applied for purposes of this section) section 125 would not treat any wages as constructively received; or (J) under an arrangement to which section 408(p) of such Code applies, other than any elective contributions under paragraph (2)(A)(i) thereof; or (K) under a plan described in section 457(e)(11)(A)(ii) of the Internal Revenue Code of 1986 and maintained by an eligible employer (as defined in section 457(e)(1) of such Code);
 
 &emsp;(5) The payment by an employer (without deduction from the remuneration of the employee)—
 
@@ -36,7 +36,7 @@ For the purposes of this subchapter, the term “wages” means remuneration pai
 
 > &emsp;with respect to remuneration paid to an employee for domestic service in a private home of the employer or for agricultural labor;
 
-&emsp;(6)(A) Remuneration paid in any medium other than cash to an employee for service not in the course of the employer's trade or business or for domestic service in a private home of the employer;
+&emsp;(6)(A) Remuneration paid in any medium other than cash to an employee for service notin the course of the employer's trade or business or for domestic service in a private home of the employer;
 
 &emsp;(B) Cash remuneration paid by an employer in any calendar year to an employee for domestic service in a private home of the employer (including domestic service described in section 410(f)(5) of this title), if the cash remuneration paid in such year by the employer to the employee for such service is less than the applicable dollar threshold (as defined in section 3121(x) of the Internal Revenue Code of 1986) for such year;
 
@@ -76,7 +76,7 @@ For the purposes of this subchapter, the term “wages” means remuneration pai
 
 &emsp;(B) Any contribution, payment, or service, provided by an employer which may be excluded from the gross income of an employee, his spouse, or his dependents, under the provisions of section 120 of the Internal Revenue Code of 1986 (relating to amounts received under qualified group legal services plans);
 
-&emsp;(15) Any payment made, or benefit furnished, to or for the benefit of an employee if at the time of such payment or such furnishing it is reasonable to believe that the employee will be able to exclude such payment or benefitfrom income under section 127 or 129 of the Internal Revenue Code of 1986;
+&emsp;(15) Any payment made, or benefit furnished, to or for the benefit of an employee if at the time of such payment or such furnishing it is reasonable to believe that the employee will be able to exclude such payment or benefit from income under section 127 or 129 of the Internal Revenue Code of 1986;
 
 &emsp;(16) The value of any meals or lodging furnished by or on behalf of the employer if at the time of such furnishing it is reasonable to believe that the employee will be able to exclude such items from income under section 119 of the Internal Revenue Code of 1986;
 
@@ -86,7 +86,7 @@ For the purposes of this subchapter, the term “wages” means remuneration pai
 
 #### (b) Regulations providing exclusions from term
 
-Nothing in the regulations prescribed for purposes of chapter 24 of the Internal Revenue Code of 1986 (relating to income tax withholding) which provides an exclusion from “wages” as used in such chapter shall be construed to require a similar exclusion from “wages” in the regulations prescribed for purposes of this subchapter.
+Nothing in the regulations prescribed for purposes of chapter 24 of the Internal Revenue Code of 1986 (relating to income tax withholding)which provides an exclusion from “wages” as used in such chapter shall be construed to require a similar exclusion from “wages” in the regulations prescribed for purposes of this subchapter.
 
 #### (c) Individuals performing domestic services
 
@@ -126,7 +126,7 @@ Any amount deferred under a nonqualified deferred compensation plan (within the 
 
 #### (k) “National average wage index” and “deferred compensation amount” defined
 
-(1) For purposes of sections 403(f)(8)(B)(ii), 413(d)(2)(B), 415(a)(1)(B)(ii), 415(a)(1)(C)(ii), 415(a)(1)(D), 415(b)(3)(A)(ii), 415(i)(1)(E), 415(i)(2)(C)(ii), 424a(f)(2)(B), and 430(b)(2) (and 430(b)(2) of this title as in effect immediately prior to the enactment of the Social Security Amendments of 1977), the term ‘national average wage index’ for any particular calendar year means, subject to regulations of the Commissioner of Social Security under paragraph (2), the average of the total wages for such particular calendar year.
+(1) For purposes of sections 403(f)(8)(B)(ii), 413(d)(2)(B), 415(a)(1)(B)(ii), 415(a)(1)(C)(ii), 415(a)(1)(D), 415(b)(3)(A)(ii), 415(i)(1)(E), 415(i)(2)(C)(ii), 424a(f)(2)(B), and 430(b)(2) (and 430(b)(2) of this title as in effect immediately prior to the enactment of the Social Security Amendments of 1977), the term ‘national average wage index’ for any particular calendar yearmeans, subject to regulations of the Commissioner of Social Security under paragraph (2), the average of the total wages for such particular calendar year.
 
 (2) The Commissioner of Social Security shall prescribe regulations under which the national average wage index for any calendar year shall be computed—
 
@@ -164,7 +164,7 @@ The Peace Corps Act, referred to in subsec. (e), is Pub. L. 87–293, Sept. 22, 
 
 The enactment of the Social Security Amendments of 1977, referred to in subsec. (k)(1), means the enactment of Pub. L. 95–216, which was approved Dec. 20, 1977.
 
-Section 10208 of the Omnibus Budget Reconciliation Act of 1989, referred to in subsec. (k)(2)(C), is section 10208 of Pub. L. 101–239, title X, Dec. 19, 1989, 103 Stat. 2476, which amended this section, sections 403, 413, 415, 417, 418, 424a, and 430 of this title, section 206 of Title 29, Labor, and section 231 of Title 45, Railroads, and enacted provisions set out as a note under section 430 of this title.
+Section 10208 of the Omnibus Budget Reconciliation Act of 1989, referred to in subsec. (k)(2)(C), is section 10208 of Pub. L. 101–239, title X, Dec. 19, 1989, 103 Stat.2476, which amended this section, sections 403, 413, 415, 417, 418, 424a, and 430 of this title, section 206 of Title 29, Labor, and section 231 of Title 45, Railroads, and enacted provisions set out as a note under section 430 of this title.
 
 Section 402 of the Internal Revenue Code of 1986, referred to in subsec. (k)(3)(A), was amended by Pub. L. 102–318, §521, and, as so amended, provisions formerly contained in section 402(a)(8) are contained in section 402(e)(3).
 
@@ -218,7 +218,7 @@ Subsec. (k). Pub. L. 100–647, §1001(g)(4)(C), substituted “section 217 of t
 
 Subsec. (t). Pub. L. 100–647, §3043(a), added subsec. (t).
 
-1987—Pub. L. 100–203, §9001(a)(2), in second indented par. of closing provisions, substituted “only (1) hisbasic pay as described in chapter 3 and section 1009 of title 37 in the case of an individual performing service to which subparagraph (A) of such section 410(<i>l</i>)(1) of this title applies, or (2) his compensation for such service as determined under section 206(a) of title 37 in the case of an individual performing service to which subparagraph (B) of such section 410(<i>l</i>)(1) of this title applies.” for “only his basic pay as described in chapter 3 and section 1009 of title 37.”
+1987—Pub. L. 100–203, §9001(a)(2), in second indented par. of closing provisions, substituted “only (1) his basic pay as described in chapter 3 and section 1009 of title 37 in the case of an individual performing service to which subparagraph (A) of such section 410(<i>l</i>)(1) of this title applies, or (2) his compensation for such service as determined under section 206(a) of title 37 in the case of an individual performing service to which subparagraph (B) of such section 410(<i>l</i>)(1) of this title applies.” for “only his basic pay as described in chapter 3 and section 1009 of title 37.”
 
 Subsec. (b)(3). Pub. L. 100–203, §9003(a)(1), substituted “death, except that this subsection does not apply to a payment for group-term life insurance to the extent that such payment is includible in the gross income of the employee under the Internal Revenue Code of 1986” for “death”.
 
@@ -418,7 +418,7 @@ Amendment by section 9003(a)(1) of Pub. L. 100–203 applicable with respect to 
 
 #### Effective Date of 1986 Amendments
 
-Amendment by section 122(e)(5) of Pub. L. 99–514 applicable to prizes and awards granted after Dec. 31, 1986, see section 151(c) of Pub. L. 99–514, set out as a note under section 1 of Title 26, Internal Revenue Code.
+Amendment by section 122(e)(5) of Pub. L. 99–514 applicable to prizes and awards granted after Dec. 31, 1986,see section 151(c) of Pub. L. 99–514, set out as a note under section 1 of Title 26, Internal Revenue Code.
 
 Amendment by section 1151(d)(2)(C) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1983, see section 1151(k)(5) of Pub. L. 99–514, set out as a note under section 79 of Title 26.
 
@@ -484,7 +484,7 @@ Section 203(c) of Pub. L. 92–336 provided that: “The amendments made by subs
 
 #### Effective Date of 1971 Amendment
 
-Section 203(c) of Pub. L. 92–5 provided that: “The amendments made by subsections (a)(1) and (a)(3)(A) \[amending this section and section 413 of this title\], and the amendments made by subsection (b) (except paragraphs (1) and (7) thereof) \[amending sections 3121, 3122, 3125, and 6413 of Title 26, Internal Revenue Code\], shall apply only with respect to remuneration paid after December 1971. The amendments made by subsections (a)(2), (a)(3)(B), (b)(1), and (b)(7) \[amending sections 411 and 413 of this title and sections 1402 and 6654 of Title 26\] shall apply only with respect to taxable years beginning after 1971. The amendment made by subsection (a)(4) \[amending section 415 of this title\] shall apply only with respect to calendar years after 1971.”
+Section 203(c) of Pub. L. 92–5 provided that: “The amendments made by subsections (a)(1) and (a)(3)(A) \[amending this section and section 413 of this title\], and the amendments made by subsection (b) (except paragraphs (1) and (7) thereof) \[amending sections 3121, 3122, 3125, and 6413 of Title 26, Internal Revenue Code\], shall apply only with respect to remuneration paid after December 1971. The amendments made by subsections (a)(2), (a)(3)(B), (b)(1), and (b)(7) \[amending sections 411 and 413 of this title and sections 1402 and 6654of Title 26\] shall apply only with respect to taxable years beginning after 1971. The amendment made by subsection (a)(4) \[amending section 415 of this title\] shall apply only with respect to calendar years after 1971.”
 
 #### Effective Date of 1968 Amendment
 
@@ -550,7 +550,7 @@ Section 201 of act Aug. 10, 1939, provided that the amendment made by that secti
 
 #### Repeals: Amendments and Application of Amendments Unaffected
 
-Section 202(b)(2) of Pub. L. 87–293, cited as a credit to this section, was repealed by Pub. L. 89–572, §5(a), Sept. 13, 1966, 80 Stat. 765. Such repeal not deemed to affect amendments to this section contained in such provisions, and continuation in full force and effect until modified by appropriate authority of all determinations, authorization, regulations, orders, contracts, agreements, and other actions issued, undertaken, or entered into under authority of the repealed provisions, see section 5(b) of Pub. L. 89–572, set out as a note under former section 2515 of Title 22, Foreign Relations and Intercourse.
+Section 202(b)(2) of Pub. L. 87–293, cited as a credit to this section, was repealed by Pub. L. 89–572, §5(a), Sept. 13, 1966, 80 Stat. 765. Such repeal not deemed to affect amendments to this section contained in such provisions, and continuation in full force and effect until modified by appropriate authority of all determinations, authorization, regulations, orders, contracts,agreements, and other actions issued, undertaken, or entered into under authority of the repealed provisions, see section 5(b) of Pub. L. 89–572, set out as a note under former section 2515 of Title 22, Foreign Relations and Intercourse.
 
 #### Exclusion From Wages and Compensation of Refunds Required From Employers To Compensate for Duplication of Medicare Benefits by Health Care Benefits Provided by Employers
 
@@ -585,14 +585,6 @@ Section 110 of act Aug. 28, 1950, provided that: “In any case in which—
 #### Refunds or Credits for Overpayments
 
 Section 3 of act Apr. 20, 1948, provided that: “If any amount paid prior to the date of the enactment of this Act \[Apr. 20, 1948\] constitutes an overpayment of tax solely by reason of an amendment made by this Act \[amending this section\], no refund or credit shall be made or allowed with respect to the amount of such overpayment.”
-
-#### Cross References
-
-Correlation of payments under Railroad Retirement Act and crediting railroad industry service under this subchapter in certain cases, see sections 231b, 231q, 231r of Title 45, Railroads.
-
-Definitions under Internal Revenue Code, see section 7701 of Title 26, Internal Revenue Code.
-
-Taxes on services rendered by employees of international organizations prior to Jan. 1, 1946, see note set out under section 401 of this title.
 
 #### Section Referred to in Other Sections
 

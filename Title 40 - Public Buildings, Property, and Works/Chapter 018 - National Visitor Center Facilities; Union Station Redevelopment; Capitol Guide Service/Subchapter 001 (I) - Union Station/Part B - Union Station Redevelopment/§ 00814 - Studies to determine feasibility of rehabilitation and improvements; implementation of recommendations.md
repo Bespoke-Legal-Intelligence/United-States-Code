@@ -26,7 +26,7 @@ The Secretary of Transportation shall complete the engineering survey required b
 
 #### (d) Availability of appropriated funds
 
-Of amounts appropriated under section 704(a)(1) and (2) of the Railroad Revitalization and Regulatory Reform Act of 1976 (45 U.S.C. 854(a)(1) and (2)), $1,000,000 shall be available to and be utilized by the Secretary of Transportation to carry out the purposes of subsections (a) and (b) of this section.
+Of amounts appropriated under section 704(a)(1) and (2) of the Railroad Revitalization and Regulatory Reform Act of 1976 (45 U.S.C. 854(a)(1) and (2)), $1,000,000 shall be available toand be utilized by the Secretary of Transportation to carry out the purposes of subsections (a) and (b) of this section.
 
 #### (e) Reports to Congress; commitment of Federal funds
 
@@ -46,5 +46,5 @@ Section 704(a) of the Railroad Revitalization and Regulatory Reform Act of 1976,
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives and Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives and Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 

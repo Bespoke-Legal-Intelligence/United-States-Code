@@ -12,7 +12,7 @@
 
 &emsp;(2) by any person seeking clarification of, or an amendment to, a certification then in effect or a matter relating to representation;
 
-> the Authority shall investigate the petition, and if it has reasonable cause to believe that a question of representation exists, it shall provide an opportunity for a hearing (for which a transcript shall be kept) after a reasonable notice. If the Authority finds on the record of the hearing that a question of representation exists, the Authority shall supervise or conduct an election on the question by secret ballot and shall certify the results thereof. An election under this subsection shall not be conducted in any appropriate unit or in any subdivision thereof within which, in the preceding 12 calendar months, a valid election under this subsection has been held.
+> the Authority shall investigate the petition, and if it has reasonable cause to believe that a question of representation exists, it shall provide an opportunity for a hearing (for which a transcriptshall be kept) after a reasonable notice. If the Authority finds on the record of the hearing that a question of representation exists, the Authority shall supervise or conduct an election on the question by secret ballot and shall certify the results thereof. An election under this subsection shall not be conducted in any appropriate unit or in any subdivision thereof within which, in the preceding 12 calendar months, a valid election under this subsection has been held.
 
 (c) A labor organization which—
 

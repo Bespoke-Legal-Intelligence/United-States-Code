@@ -34,13 +34,13 @@
 
 &emsp;(B) bid and proposal preparation.
 
-(2) No party (other than a small business concern (within the meaning of section 3(a) of the Small Business Act)) may be paid, pursuant to a recommendation made under the authority of paragraph (1)—
+(2) No party (other than a small business concern (within the meaning of section 3(a) of theSmall Business Act)) may be paid, pursuant to a recommendation made under the authority of paragraph (1)—
 
 &emsp;(A) costs for consultant and expert witness fees that exceed the highest rate of compensation for expert witnesses paid by the Federal Government; or
 
 &emsp;(B) costs for attorneys’ fees that exceed $150 per hour unless the agency determines, based on the recommendation of the Comptroller General on a case by case basis, that an increase in the cost of living or a special factor, such as the limited availability of qualified attorneys for the proceedings involved, justifies a higher fee.
 
-(3) If the Comptroller General recommends under paragraph (1) that a Federal agency paycosts to an interested party, the Federal agency shall—
+(3) If the Comptroller General recommends under paragraph (1) that a Federal agency pay costs to an interested party, the Federal agency shall—
 
 &emsp;(A) pay the costs promptly; or
 

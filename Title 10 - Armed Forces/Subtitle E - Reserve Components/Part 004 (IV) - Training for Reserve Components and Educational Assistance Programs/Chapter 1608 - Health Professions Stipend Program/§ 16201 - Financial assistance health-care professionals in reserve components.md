@@ -74,7 +74,7 @@ Baccalaureate Students in Nursing or Other Health Professions.—(1) Under the s
 
 &emsp;(C) the participant shall be subject to such active duty requirements as may be specified in the agreement and to active duty in time of war or national emergency as provided by law for members of the Ready Reserve; and
 
-&emsp;(D) the participant shall agree to serve, upon graduation from the baccalaureate program,one year in the Ready Reserve for each year, or part thereof, for which the stipend is paid.
+&emsp;(D) the participant shall agree to serve, upon graduation from the baccalaureate program, one year in the Ready Reserve for each year, or part thereof, for which the stipend is paid.
 
 (e)
 

@@ -48,9 +48,11 @@ For purposes of this subchapter:
 
 &emsp;&emsp;&emsp;(V) used for low-rent housing, as described in paragraph (10), that is located on land described in subclause (I), (II), (III), or (IV) of this clause or on land that met one of those descriptions immediately before such property's use for such housing;
 
-&emsp;&emsp;&emsp;(iii)(I) part of a low-rent housing project assisted under the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\]; or
+&emsp;&emsp;&emsp;(iii)(I) part of a low-rent housing project assisted under the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\];
 
 &emsp;&emsp;&emsp;(II) used to provide housing for homeless children at closed military installations pursuant to section 11411 of title 42; or
+
+&emsp;&emsp;&emsp;(III) used for affordable housing assisted under the Native American Housing Assistance and Self-Determination Act of 1996 \[25 U.S.C. 4101 et seq.\]; or
 
 &emsp;&emsp;&emsp;(iv) owned by a foreign government or by an international organization.
 
@@ -88,7 +90,7 @@ For purposes of this subchapter:
 
 &emsp;&emsp;The term “Federal property” includes any real property located in the State of Oklahoma that—
 
-&emsp;&emsp;&emsp;(i) is owned by an Indian housing authority and used for low-income housing (including housing assisted under the mutual help ownership opportunity program under section 202 of the United States Housing Act of 1937); <sup>1</sup> and
+&emsp;&emsp;&emsp;(i) is owned by an Indian housing authority and used for low-income housing (including housing assisted under or authorized by the Native American Housing Assistance and Self-Determination Act of 1996 \[25 U.S.C. 4101 et seq.\]); and
 
 &emsp;&emsp;&emsp;(ii) at any time—
 
@@ -120,7 +122,7 @@ For purposes of this subchapter:
 
 #### (B) Hawaii and District of Columbia
 
-&emsp;&emsp;Notwithstanding subparagraph (A), the local contribution percentage for Hawaii and for the District of Columbia shall be the average local contribution percentage for all States.
+&emsp;&emsp;Notwithstanding subparagraph (A), the local contribution percentage for Hawaii and for the District of Columbia shall be the average local contribution percentage for the 50 States and the District of Columbia.
 
 #### (9) Local educational agency
 
@@ -144,7 +146,15 @@ For purposes of this subchapter:
 
 &emsp;The term “low-rent housing” means housing located on property that is described in paragraph (5)(A)(iii).
 
-#### (11) Revenue derived from local sources
+#### (11) Modernization
+
+&emsp;The term “modernization” means repair, renovation, alteration, or construction, including—
+
+&emsp;&emsp;(A) the concurrent installation of equipment; and
+
+&emsp;&emsp;(B) the complete or partial replacement of an existing school facility, but only if such replacement is less expensive and more cost-effective than repair, renovation, or alteration of the school facility.
+
+#### (12) Revenue derived from local sources
 
 &emsp;The term “revenue derived from local sources” means—
 
@@ -152,7 +162,7 @@ For purposes of this subchapter:
 
 &emsp;&emsp;(B) funds collected by another governmental unit, but distributed back to a local educational agency in the same proportion as such funds were collected as a local revenue source.
 
-#### (12) School facilities
+#### (13) School facilities
 
 &emsp;The term “school facilities” includes—
 
@@ -160,19 +170,31 @@ For purposes of this subchapter:
 
 &emsp;&emsp;(B) equipment, machinery, and utilities necessary or appropriate for school purposes.
 
-(Pub. L. 89–10, title VIII, §8013, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3769.)
+(Pub. L. 89–10, title VIII, §8013, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3769; amended Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1816\], Oct. 30, 2000, 114 Stat. 1654, 1654A–387; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675.)
 
 #### References in Text
 
 The Alaska Native Claims Settlement Act, referred to in par. (5)(A)(ii)(III), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
-The United States Housing Act of 1937, referred to in par. (5)(A)(iii)(I), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§1437 et seq.) of Title 42, The Public Health and Welfare. Section 202 of the Act was classified to section 1437bb of Title 42 and was repealed by Pub. L. 104–330, title V, §501(a), Oct. 26, 1996, 110 Stat. 4041. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
+The United States Housing Act of 1937, referred to in par. (5)(A)(iii)(I), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
+
+The Native American Housing Assistance and Self-Determination Act of 1996, referred to in par. (5)(A)(iii)(III), (F)(i), is Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, as amended, which is classified principally to chapter 43 (§4101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of Title 25 and Tables.
 
 Act of September 30, 1950 (Public Law 874, 81st Congress) (as such Act was in effect on the day preceding October 20, 1994), referred to in pars. (5)(F)(ii)(II) and (9)(B)(i), is act Sept. 30, 1950, ch. 1124, 64 Stat. 1100, as amended, which was classified generally to chapter 13 (§236 et seq.) of this title prior to repeal by Pub. L. 103–382, title III, §331(b), Oct. 20, 1994, 108 Stat. 3965. Section 403 of the Act was classified to section 244 of this title. For complete classification of this Act to the Code, see Tables.
 
+#### Amendments
+
+2000—Par. (5)(A)(iii)(II). Pub. L. 106–400 made technical amendment to reference in original act which appears in text as reference to section 11411 of title 42.
+
+Par. (5)(A)(iii)(III). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1816(1)(A)\], added subcl. (III).
+
+Par. (5)(F)(i). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1816(1)(B)\], substituted “or authorized by the Native American Housing Assistance and Self-Determination Act of 1996” for “the mutual help ownership opportunity program under section 202 of the United States Housing Act of 1937”.
+
+Par. (8)(B). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1816(2)\], substituted “the 50 States and the District of Columbia” for “all States”.
+
+Pars. (11) to (13). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1816(3), (4)\], added par. (11) and redesignated former pars. (11) and (12) as (12) and (13), respectively.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in title 10 section 2008.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+This section is referred to in section 7703a of this title; title 10 section 2008.
 

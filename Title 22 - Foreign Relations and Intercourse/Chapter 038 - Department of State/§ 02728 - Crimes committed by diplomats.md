@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(D) The number of United States citizens who are residing in a receiving state and who enjoy full immunity from the criminal jurisdiction of such state under laws extending diplomatic privileges and immunities.
 
-&emsp;&emsp;(E) Each case involving a United States citizen under subparagraph (D) in which theUnited States has been requested by the government of a receiving state to waive the immunity from criminal jurisdiction of the United States citizen.
+&emsp;&emsp;(E) Each case involving a United States citizen under subparagraph (D) in which the United States has been requested by the government of a receiving state to waive the immunity from criminal jurisdiction of the United States citizen.
 
 &emsp;&emsp;(F) Whether the Secretary has made the notifications referred to in subsection (c) of this section during the period covered by the report.
 

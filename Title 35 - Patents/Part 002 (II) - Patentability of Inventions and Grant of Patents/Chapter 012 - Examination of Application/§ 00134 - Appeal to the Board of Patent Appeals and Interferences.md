@@ -34,12 +34,6 @@ Amendment by Pub. L. 106–113 effective Nov. 29, 1999, and applicable to any pa
 
 Amendment by Pub. L. 98–622 effective three months after Nov. 8, 1984, see section 207 of Pub. L. 98–622, set out as a note under section 41 of this title.
 
-#### Cross References
-
-Appeals to Commissioner from decisions of examiners on applications for registration of trade-marks, see section 1070 of Title 15, Commerce and Trade.
-
-Board of Appeals, composition and duties, see section 7 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 141, 145, 154, 306, 315 of this title.

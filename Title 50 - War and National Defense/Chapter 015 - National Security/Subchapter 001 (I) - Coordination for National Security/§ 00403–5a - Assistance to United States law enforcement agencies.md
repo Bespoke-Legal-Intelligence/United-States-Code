@@ -2,7 +2,7 @@
 
 #### (a) Authority to provide assistance
 
-Subject to subsection (b) of this section, elements of the intelligence community may, uponthe request of a United States law enforcement agency, collect information outside the United States about individuals who are not United States persons. Such elements may collect such information notwithstanding that the law enforcement agency intends to use the information collected for purposes of a law enforcement investigation or counterintelligence investigation.
+Subject to subsection (b) of this section, elements of the intelligence community may, upon the request of a United States law enforcement agency, collect information outside the United States about individuals who are not United States persons. Such elements may collect such information notwithstanding that the law enforcement agency intends to use the information collected for purposes of a law enforcement investigation or counterintelligence investigation.
 
 #### (b) Limitation on assistance by elements of Department of Defense
 

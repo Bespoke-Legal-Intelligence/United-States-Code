@@ -14,7 +14,7 @@
 
 &emsp;(C) compatible wildlife-dependent recreational uses are the priority general public uses of the System and shall receive priority consideration in refuge planning and management; and
 
-&emsp;(D) when the Secretary determines that a proposed wildlife-dependent recreational use isa compatible use within a refuge, that activity should be facilitated, subject to such restrictions or regulations as may be necessary, reasonable, and appropriate.
+&emsp;(D) when the Secretary determines that a proposed wildlife-dependent recreational use is a compatible use within a refuge, that activity should be facilitated, subject to such restrictions or regulations as may be necessary, reasonable, and appropriate.
 
 (4) In administering the System, the Secretary shall—
 
@@ -80,7 +80,7 @@ In administering the System, the Secretary is authorized to take the following a
 
 &emsp;(2) Accept donations of funds and to use such funds to acquire or manage lands or interests therein.
 
-&emsp;(3) Acquire lands or interests therein by exchange (A) for acquired lands or public lands,or for interests in acquired or public lands, under his jurisdiction which he finds to be suitable for disposition, or (B) for the right to remove, in accordance with such terms and conditions as he may prescribe, products from the acquired or public lands within the System. The values of the properties so exchanged either shall be approximately equal, or if they are not approximately equal the values shall be equalized by the payment of cash to the grantor or to the Secretary as the circumstances require.
+&emsp;(3) Acquire lands or interests therein by exchange (A) for acquired lands or public lands, or for interests in acquired or public lands, under his jurisdiction which he finds to be suitable for disposition, or (B) for the right to remove, in accordance with such terms and conditions as he may prescribe, products from the acquired or public lands within the System. The values of the properties so exchanged either shall be approximately equal, or if they are not approximately equal the values shall be equalized by the payment of cash to the grantor or to the Secretary as the circumstances require.
 
 &emsp;(4) Subject to standards established by and the overall management oversight of the Director, and consistent with standards established by this Act, to enter into cooperative agreements with State fish and wildlife agencies for the management of programs on a refuge.
 
@@ -238,9 +238,7 @@ Coordination with State fish and wildlife agency personnel or with personnel of 
 
 This Act, referred to in text, means Pub. L. 89–669, Oct. 15, 1966, 80 Stat. 927, as amended, which enacted sections 668aa to 668ee, amended sections 460k, 696, 696b, 715c, 715i to 715k, 718d, and repealed sections 715d–1, 715d–2, 715<i>l</i>, 715m of this title. For complete classification of this Act to the Code, see Tables.
 
-The United States mining laws, referred to in subsec. (c), are classified generally to Title 30, Mineral Lands and Mining.
-
-The United States mineral leasing laws, referred to in subsec. (c), have been defined in sections 351, 505, 530, and 541e of Title 30, to mean acts Oct. 20, 1914, ch. 330, 38 Stat. 741; Feb. 25, 1920, ch. 85, 41 Stat. 437; Apr. 17, 1926, ch. 158, 44 Stat. 301; and Feb. 7, 1927, ch. 66, 44 Stat. 1057. The act of Oct. 20, 1914, was repealed by Pub. L. 86–252, §1, Sept. 9, 1959, 73 Stat. 490. The act of Feb. 25, 1920, is known as the Mineral Leasing Act and is classified generally to chapter 3A (§181 et seq.) of Title 30. The act of Apr. 17, 1926, is classified generally to subchapter VIII (§271 et seq.) of chapter 3A of Title 30. The act of Feb. 7, 1927, is classified principally to subchapter IX (§281 et seq.) of chapter 3A of Title 30. For complete classification of these Acts to the Code, see Tables.
+The United States mining laws and mineral leasing laws, referred to in subsec. (c), are classified generally to Title 30, Mineral Lands and Mining.
 
 The Migratory Bird Conservation Act, referred to in subsec. (d)(2), is act Feb. 18, 1929, ch. 257, 45 Stat. 1222, as amended, which is classified generally to subchapter III (§715 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 715 of this title and Tables.
 
@@ -306,7 +304,7 @@ Subsecs. (i), (j). Pub. L. 105–57, §7(a)(1), redesignated subsecs. (h) and (i
 
 Subsecs. (k) to (<i>o</i>). Pub. L. 105–57, §8(a), added subsecs. (k) to (<i>o</i>).
 
-1988—Subsec. (e). Pub. L. 100–653 substituted “thereunder shall be fined under title 18 or imprisoned for not more than 1 year, or both” for “thereunder shall befined not more than $500 or be imprisoned not more than six months, or both”.
+1988—Subsec. (e). Pub. L. 100–653 substituted “thereunder shall be fined under title 18 or imprisoned for not more than 1 year, or both” for “thereunder shall be fined not more than $500 or be imprisoned not more than six months, or both”.
 
 1987—Subsec. (f). Pub. L. 100–226 inserted at end “The Director of the United States Fish and Wildlife Service is authorized to utilize by agreement, with or without reimbursement, the personnel and services of any other Federal or State agency for purposes of enhancing the enforcement of this Act.”
 
@@ -356,6 +354,260 @@ Section 12(f) of Pub. L. 91–135, Dec. 5, 1969, 83 Stat. 283, provided that: �
 
 Enforcement functions of Secretary or other official in Department of the Interior related to compliance with approval to cross national wildlife refuges under sections 668dd and 668ee of this title with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§102(e), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade.
 
+#### National Wildlife Refuge System Centennial
+
+Pub. L. 106–408, title III, Nov. 1, 2000, 114 Stat. 1782, provided that:
+
+#### “SEC. 301. SHORT TITLE.
+
+“This title may be cited as the ‘National Wildlife Refuge System Centennial Act’.
+
+#### “SEC. 302. FINDINGS AND PURPOSES.
+
+“(a)
+
+Findings.—Congress finds that—
+
+&emsp;“(1) President Theodore Roosevelt began the National Wildlife Refuge System by establishing the first refuge at Pelican Island, Florida, on March 14, 1903;
+
+&emsp;“(2) the National Wildlife Refuge System is comprised of more than 93,000,000 acres of Federal land managed by the United States Fish and Wildlife Service in more than 532 individual refuges and thousands of waterfowl production areas located in all 50 States and the territories of the United States;
+
+&emsp;“(3) the System is the only network of Federal land dedicated singularly to wildlife conservation and where wildlife-dependent recreation and environmental education are priority public uses;
+
+&emsp;“(4) the System serves a vital role in the conservation of millions of migratory birds, dozens of endangered species and threatened species, some of the premier fisheries of the United States, marine mammals, and the habitats on which such species of fish and wildlife depend;
+
+&emsp;“(5) each year the System provides millions of Americans with opportunities to participate in wildlife-dependent recreation, including hunting, fishing, and wildlife observation;
+
+&emsp;“(6)(A) public visitation to national wildlife refuges is growing, with more than 35,000,000 visitors annually; and
+
+&emsp;“(B) it is essential that visitor centers and public use facilities be properly constructed, operated, and maintained;
+
+&emsp;“(7) the National Wildlife Refuge System Volunteer and Community Partnership Enhancement Act of 1998 (16 U.S.C. 742f note; Public Law 105–242) \[see Short Title of 1998 Amendments note under section 742a of this title\], and the amendments made by that Act, significantly enhance the ability of the UnitedStates Fish and Wildlife Service to incorporate volunteers and partnerships in refuge management;
+
+&emsp;“(8) as of the date of the enactment of this Act \[Nov. 1, 2000\], the System has an unacceptable backlog of critical operation and maintenance needs; and
+
+&emsp;“(9) the occasion of the centennial of the System, in 2003, presents a historic opportunity to enhance natural resource stewardship and expand public enjoyment of the national wildlife refuges of the United States.
+
+“(b)
+
+Purposes.—The purposes of this title are—
+
+&emsp;“(1) to establish a commission to promote awareness by the public of the National Wildlife Refuge System as the System celebrates its centennial in 2003;
+
+&emsp;“(2) to develop a long-term plan to meet the priority operation, maintenance, and construction needs of the System;
+
+&emsp;“(3) to require an annual report on the needs of the System prepared in the context of—
+
+&emsp;&emsp;“(A) the budget submission of the Department of the Interior to the President; and
+
+&emsp;&emsp;“(B) the President's budget request to Congress; and
+
+&emsp;“(4) to improve public use programs and facilities of the System to meet the increasing needs of the public for wildlife-dependent recreation in the 21st century.
+
+#### “SEC. 303. NATIONAL WILDLIFE REFUGE SYSTEM CENTENNIAL COMMISSION.
+
+“(a)
+
+Establishment.—There is established the National Wildlife Refuge System Centennial Commission (referred to in this title as the ‘Commission’).
+
+“(b)
+
+Members.—
+
+&emsp;“(1)
+
+In general.—The Commission shall be composed of—
+
+&emsp;&emsp;“(A) the Director of the United States Fish and Wildlife Service;
+
+&emsp;&emsp;“(B) up to 10 individuals appointed by the Secretary of the Interior;
+
+&emsp;&emsp;“(C) the chairman and ranking minority member of the Committee on Resources of the House of Representatives and of the Committee on Environment and Public Works of the Senate, who shall be nonvoting members; and
+
+&emsp;&emsp;“(D) the congressional representatives of the Migratory Bird Conservation Commission, who shall be nonvoting members.
+
+&emsp;“(2)
+
+Appointments.—
+
+&emsp;&emsp;“(A)
+
+Deadline.—The members of the Commission shall be appointed not later than 90 days after the effective date of this title.
+
+&emsp;&emsp;“(B)
+
+Appointments by the secretary of the interior.—
+
+&emsp;&emsp;&emsp;“(i)
+
+In general.—The members of the Commission appointed by the Secretary of the Interior under paragraph (1)(B)—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) shall not be officers or employees of the Federal Government; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) shall, in the judgment of the Secretary—
+
+&emsp;&emsp;&emsp;“(aa) represent the diverse beneficiaries of the System; and
+
+&emsp;&emsp;&emsp;“(bb) have outstanding knowledge or appreciation of wildlife, natural resource management, or wildlife-dependent recreation.
+
+&emsp;&emsp;&emsp;“(ii)
+
+Representation of views.—In making appointments under paragraph (1)(B), the Secretary of the Interior shall make every effort to ensure that the views of the hunting, fishing, and wildlife observation communities are represented on the Commission.
+
+&emsp;“(3)
+
+Vacancies.—Any vacancy in the Commission—
+
+&emsp;&emsp;“(A) shall not affect the power or duties of the Commission; and
+
+&emsp;&emsp;“(B) shall be expeditiously filled in the same manner as the original appointment was made.
+
+“(c)
+
+Chairperson.—The Secretary of the Interior shall appoint one of the members as the Chairperson of the Commission.
+
+“(d)
+
+Compensation.—The members of the Commission shall receive no compensation for their service on the Commission.
+
+“(e)
+
+Travel Expenses.—
+
+&emsp;“(1)
+
+Legislative branch members.—The members of the Commission from the legislative branch of the Federal Government shall be allowed necessary travel expenses, as authorized by other law for official travel, while away from their homes or regular places of business in the performance of services for the Commission.
+
+&emsp;“(2)
+
+Executive branch members.—The members of the Commission from the executive branch of the Federal Government shall be allowed necessary travel expenses in accordance with section 5702 of title 5, United States Code, while away from their homes or regular places of business in the performance of services for the Commission.
+
+&emsp;“(3)
+
+Other members and staff.—The members of the Commission appointed by the Secretary of the Interior and staff of the Commission may be allowed necessary travel expenses as authorized by section 5702 of title 5, United States Code, while away from their homes or regular places of business in the performance of services for the Commission.
+
+“(f)
+
+Duties.—The Commission shall—
+
+&emsp;“(1) prepare, in cooperation with Federal, State, local, and nongovernmental partners, a plan to commemorate the centennial of the National Wildlife Refuge System beginning on March 14, 2003;
+
+&emsp;“(2) coordinate the activities of the partners under the plan; and
+
+&emsp;“(3) plan and host, in cooperation with the partners, a conference on the National Wildlife Refuge System, and assist in the activities of the conference.
+
+“(g)
+
+Staff.—Subject to the availability of appropriations, the Commission may employ such staff as are necessary to carry out the duties of the Commission.
+
+“(h)
+
+Donations.—
+
+&emsp;“(1)
+
+In general.—The Commission may, in accordance with criteria established under paragraph (2), accept and use donations of money, personal property, or personal services.
+
+&emsp;“(2)
+
+Criteria.—The Commission shall establish written criteria to be used in determining whether the acceptance of gifts or donations under paragraph (1) would—
+
+&emsp;&emsp;“(A) reflect unfavorably on the ability of the Commission or any employee of the Commission to carry out its responsibilities or official duties in a fair and objective manner; or
+
+&emsp;&emsp;“(B) compromise the integrity or the appearance of the integrity of any person involved in the activities of the Commission.
+
+“(i)
+
+Administrative Support.—Upon the request of the Commission—
+
+&emsp;“(1) the Secretary of the Interior, acting through the Director of the United States Fish and Wildlife Service, may provide to the Commission such administrative support services as are necessary for the Commission to carry out the duties of the Commission under this title, including services relating to budgeting, accounting, financial reporting, personnel, and procurement; and
+
+&emsp;“(2) the head of any other appropriate Federal agency may provide to the Commission such advice and assistance, with or without reimbursement, as are appropriate to assist the Commission in carrying out the duties of the Commission.
+
+“(j)
+
+Reports.—
+
+&emsp;“(1)
+
+Annual reports.—Not later than 1 year after the effective date of this title, and annually thereafter, the Commission shall submit to Congress a report on the activities and plans of the Commission.
+
+&emsp;“(2)
+
+Final report.—Not later than September 30, 2004, the Commission shall submit to the Committee on Resources of the House of Representatives and the Committee on Environment and Public Works of the Senate a final report on the activities of the Commission, including an accounting of all funds received and expended by the Commission.
+
+“(k)
+
+Termination.—
+
+&emsp;“(1)
+
+In general.—The Commission shall terminate 90 days after the date on which the Commission submits the final report under subsection (j).
+
+&emsp;“(2)
+
+Disposition of materials.—Upon termination of the Commission and after consultation with the Archivist of the United States and the Secretary of the Smithsonian Institution, the Secretary of the Interior may—
+
+&emsp;&emsp;“(A)(i) deposit all books, manuscripts, miscellaneous printed matter, memorabilia, relics, and other similar materials of the Commission relating to the centennial of the National Wildlife Refuge System in Federal, State, or local libraries or museums; or
+
+&emsp;&emsp;“(ii) otherwise dispose of such materials; and
+
+&emsp;&emsp;“(B)(i) use other property acquired by the Commission for the purposes of the National Wildlife Refuge System; or
+
+&emsp;&emsp;“(ii) treat such property as excess property.
+
+#### “SEC. 304. LONG-TERM PLANNING AND ANNUAL REPORTING REQUIREMENTS REGARDING THE OPERATION AND MAINTENANCE BACKLOG.
+
+“(a)
+
+Unified Long-Term Plan.—Not later than March 1, 2002, the Secretary of the Interior shall prepare and submit to Congress and the President a unified long-term plan to address priority operation, maintenance, and construction needs of the National Wildlife Refuge System, including—
+
+&emsp;“(1) priority staffing needs of the System; and
+
+&emsp;“(2) operation, maintenance, and construction needs as identified in—
+
+&emsp;&emsp;“(A) the Refuge Operating Needs System;
+
+&emsp;&emsp;“(B) the Maintenance Management System;
+
+&emsp;&emsp;“(C) the 5-year deferred maintenance list;
+
+&emsp;&emsp;“(D) the 5-year construction list;
+
+&emsp;&emsp;“(E) the United States Fish and Wildlife Service report entitled ‘Fulfilling the Promise of America's National Wildlife Refuge System’; and
+
+&emsp;&emsp;“(F) individual refuge comprehensive conservation plans.
+
+“(b)
+
+Annual Submission.—Beginning with the submission to Congress of the budget for fiscal year 2003, the Secretary of the Interior shall prepare and submit to Congress, in the context of each annual budget submission, a report that contains—
+
+&emsp;“(1) an assessment of expenditures in the prior, current, and upcoming fiscal years to meet the operation and maintenance backlog as identified in the long-term plan under subsection (a); and
+
+&emsp;“(2) a specification of transition costs, in the prior, current, and upcoming fiscal years, as identified in the analysis of newly acquired refuge land prepared by the Department of the Interior, and a description of the method used to determine the priority status of the transition costs.
+
+#### “SEC. 305. YEAR OF THE NATIONAL WILDLIFE REFUGE.
+
+“(a)
+
+Finding.—Congress finds that designation of the year 2003 as the ‘Year of the National Wildlife Refuge’ would promote the goal of increasing public appreciation of the importance of the National Wildlife Refuge System.
+
+“(b)
+
+Proclamation.—The President is requested to issue a proclamation calling on the people of the United States to conduct appropriate programs, ceremonies, and activities to accomplish the goal of such a year.
+
+#### “SEC. 306. AUTHORIZATION OF APPROPRIATIONS.
+
+“There are authorized to be appropriated to carry out the activities of the Commission under this title—
+
+&emsp;“(1) $100,000 for fiscal year 2001; and
+
+&emsp;“(2) $250,000 for each of fiscal years 2002 through 2004.
+
+#### “SEC. 307. EFFECTIVE DATE.
+
+“This title takes effect on January 20, 2001.”
+
 #### Congressional Findings
 
 Section 2 of Pub. L. 105–57 provided that: “The Congress finds the following:
@@ -400,7 +652,7 @@ Pub. L. 102–154, title III, §319, Nov. 13, 1991, 105 Stat. 1036, provided tha
 
 “(a)
 
-Transfer by the Air Force.—Notwithstanding any other provision of law, the Secretary of the Air Force shall transfer to the Department of the Interior a parcel of real property located west of McIntyre Road at the site of former Pease Air Force Base, New Hampshire: <i>Provided</i>, That the Secretary of the Air Force shall retain responsibility for any hazardous substances which may be found on the property so transferred.
+Transfer by the Air Force.—Notwithstanding any other provision of law, the Secretary of the AirForce shall transfer to the Department of the Interior a parcel of real property located west of McIntyre Road at the site of former Pease Air Force Base, New Hampshire: <i>Provided</i>, That the Secretary of the Air Force shall retain responsibility for any hazardous substances which may be found on the property so transferred.
 
 “(b)
 
@@ -444,7 +696,7 @@ National Wildlife Refuges
 
 &nbsp;
 
-Alaska Maritime National Wildlife Refuge, Alaska.—Pub. L. 96–487, title III, §303(1), Dec. 2, 1980, 94 Stat. 2389; Pub. L. 101–622, Nov. 21, 1990, 104 Stat. 3347; Pub. L. 102–489, Oct. 24, 1992, 106 Stat. 3138.
+Alaska Maritime National Wildlife Refuge, Alaska.—Pub. L. 96–487, title III, §303(1), Dec. 2, 1980, 94 Stat. 2389; Pub. L. 101–622, Nov. 21, 1990, 104 Stat. 3347; Pub. L. 102–489, Oct. 24, 1992, 106 Stat. 3138; Pub. L. 106–554, §1(a)(4) \[div. A, §302\], Dec. 21, 2000, 114 Stat. 2763, 2763A–180.
 
 Alaska Peninsula National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, §302(1), Dec. 2, 1980, 94 Stat. 2385.
 
@@ -457,6 +709,8 @@ Arctic National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, §303(2)
 Arthur R. Marshall Loxahatchee National Wildlife Refuge, Florida.—Pub. L. 99–615, Nov. 6, 1986, 100 Stat. 3484.
 
 Atchafalaya National Wildlife Refuge, Louisiana.—Pub. L. 98–548, title III, Oct. 26, 1984, 98 Stat. 2776; Pub. L. 99–625, §2, Nov. 7, 1986, 100 Stat. 3502.
+
+Baca National Wildlife Refuge, Colorado.—Pub. L. 106–530, §6, Nov. 22, 2000, 114 Stat. 2530.
 
 Bandon Marsh National Wildlife Refuge, Oregon.—Pub. L. 97–137, title I, Dec. 29, 1981, 95 Stat. 1709; Pub. L. 105–321, §5, Oct. 30, 1998, 112 Stat. 3025.
 
@@ -472,7 +726,15 @@ Bon Secour National Wildlife Refuge, Alabama.—Pub. L. 96–267, June 9, 1980, 
 
 Cache River National Wildlife Refuge, Arkansas.—Pub. L. 102–584, §§1–5, Nov. 2, 1992, 106 Stat. 4937–4941.
 
+Cahaba River National Wildlife Refuge, Alabama.—Pub. L. 106–331, Oct. 19, 2000, 114 Stat. 1303; Pub. L. 106–369, §9(b), Oct. 27, 2000, 114 Stat. 1419.
+
+Cat Island National Wildlife Refuge, Louisiana.—Pub. L. 106–369, §§1–7, Oct. 27, 2000, 114 Stat. 1417–1419.
+
+Charles M. Russell National Wildlife Refuge, Montana.—Pub. L. 106–541, title VIII, Dec. 11, 2000, 114 Stat. 2699.
+
 Clarks River National Wildlife Refuge, Kentucky.—Pub. L. 104–208, div. A, title I, §101(d) \[title I\], Sept. 30, 1996, 110 Stat. 3009–181, 3009–185.
+
+Columbia National Wildlife Refuge, Washington.—Pub. L. 106–291, title I, §138, Oct. 11, 2000, 114 Stat. 949.
 
 Cossatot National Wildlife Refuge, Arkansas.—Pub. L. 104–333, div. I, title III, §305(h), Nov. 12, 1996, 110 Stat. 4130.
 
@@ -498,7 +760,7 @@ Izembek National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, §303(3
 
 John H. Chafee National Wildlife Refuge (former Pettaquamscutt Cove National Wildlife Refuge), Rhode Island.—Pub. L. 100–610, title II, Nov. 5, 1988, 102 Stat. 3176; Pub. L. 102–212, title II, §202, Dec. 11, 1991, 105 Stat. 1660; Pub. L. 104–212, title II, Oct. 1, 1996, 110 Stat. 3014; Pub. L. 106–53, title V, §565(c), Aug. 17, 1999, 113 Stat. 367.
 
-John Heinz National Wildlife Refuge at Tinicum (former Tinicum National Environmental Center), Pennsylvania.—Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 995; Pub. L. 103–340, §6, Oct. 6, 1994, 108 Stat. 3120.
+John Heinz National Wildlife Refuge at Tinicum (former Tinicum National Environmental Center), Pennsylvania.—Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 995; Pub. L. 103–340, §7, formerly §6, Oct. 6, 1994, 108 Stat. 3120, renumbered §7, Pub. L. 106–369, §9(a), Oct. 27, 2000, 114 Stat. 1419.
 
 Kanuti National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, §302(4), Dec. 2, 1980, 94 Stat. 2386.
 
@@ -509,6 +771,8 @@ Klamath Marsh National Wildlife Refuge, Oregon.—Act Aug. 13, 1954, ch. 732, §
 Kodiak National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, §303(5), Dec. 2, 1980, 94 Stat. 2391.
 
 Koyukuk National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, §302(5), Dec. 2, 1980, 94 Stat. 2386.
+
+Mason Neck National Wildlife Refuge, Virginia.—Pub. L. 106–291, title I, §120, Oct. 11, 2000, 114 Stat. 944.
 
 McNary National Wildlife Refuge, Washington.—Pub. L. 106–53, title V, §563(<i>l</i>), Aug. 17, 1999, 113 Stat. 365.
 
@@ -536,6 +800,8 @@ Protection Island National Wildlife Refuge, Washington.—Pub. L. 97–333, Oct.
 
 Quillayute Needles National Wildlife Refuge, Washington.—Ex. Ord. No. 705, Oct. 23, 1907; Proc. No. 2416, July 25, 1940, 54 Stat. 2717; Pub. L. 100–226, §3, Dec. 31, 1987, 101 Stat. 1550.
 
+Red River National Wildlife Refuge, Louisiana.—Pub. L. 106–300, Oct. 13, 2000, 114 Stat. 1055; Pub. L. 106–369, §9(c), Oct. 27, 2000, 114 Stat. 1419.
+
 Rhode Island National Wildlife Refuge, Rhode Island.—Pub. L. 105–178, title I, §1214(j), June 9, 1998, 112 Stat. 207.
 
 Ridgefield National Wildlife Refuge, Washington.—Pub. L. 102–570, §1, Oct. 29, 1992, 106 Stat. 4489.
@@ -545,6 +811,8 @@ Rocky Mountain Arsenal National Wildlife Refuge, Colorado.—Pub. L. 102–402, 
 Sachuest Point National Wildlife Refuge, Rhode Island.—Pub. L. 105–178, title I, §1214(f), (h), June 9, 1998, 112 Stat. 206, 207.
 
 Sailors’ Snug Harbor National Wildlife Refuge, New York.—Pub. L. 96–315, §2, July 25, 1980, 94 Stat. 957.
+
+San Diego National Wildlife Refuge, California.—Pub. L. 106–398, §1 \[div. B, title XXVIII, §2848\], Oct. 30, 2000, 114 Stat. 1654, 1654A–426.
 
 Seal Beach National Wildlife Refuge, California.—Pub. L. 92–408, Aug. 29, 1972, 86 Stat. 633.
 
@@ -594,7 +862,7 @@ Ex. Ord. No. 12996, Mar. 25, 1996, 61 F.R. 13647, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and in furtherance of the purposes of the Fish and Wildlife Act of 1956 (16 U.S.C. 742a \[et seq.\]), the Fish and Wildlife Coordination Act (16 U.S.C. 661 \[et seq.\]), the National Wildlife Refuge System Administration Act (16 U.S.C. 668dd \[, 668ee\]), the Refuge Recreation Act (16 U.S.C. 460k \[et seq.\]), the Endangered Species Act of 1973 (16 U.S.C. 1531 \[et seq.\]), the Emergency Wetlands Resources Act (16 U.S.C. 3901 \[et seq.\]), the North American Wetlands Conservation Act (16 U.S.C. 4401 \[et seq.\]), the National Environmental Policy Act (42 U.S.C. 4321 \[et seq.\]), and other pertinent statutes, and in order to conserve fish and wildlife and their habitat, it is ordered as follows:
 
-Section 1. <i>The Mission of the National Wildlife Refuge System</i>. The mission of the National Wildlife Refuge System (“Refuge System”) is to preserve a national network of lands and waters for the conservation and management of fish, wildlife, and plant resources of the United States for the benefit of present and future generations.
+Section 1. <i>The Mission of the National Wildlife Refuge System</i>. The mission of the National Wildlife RefugeSystem (“Refuge System”) is to preserve a national network of lands and waters for the conservation and management of fish, wildlife, and plant resources of the United States for the benefit of present and future generations.
 
 Sec. 2. <i>Guiding Principles</i>. To help ensure a bright future for its treasured national heritage, I hereby affirm the following four guiding principles for the management and general public use of the Refuge System:
 
@@ -634,5 +902,5 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 459j–4, 668ee, 742f, 3125, 3212, 5207 of this title; title 23 section 204; title 43 section 1714.
+This section is referred to in sections 410hhh–4, 459j–4, 668ee, 742f, 3125, 3212, 5207 of this title; title 23 section 204; title 43 section 1714.
 

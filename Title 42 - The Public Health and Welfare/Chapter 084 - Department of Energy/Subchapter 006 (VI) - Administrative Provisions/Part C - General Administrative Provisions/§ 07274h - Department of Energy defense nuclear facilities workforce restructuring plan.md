@@ -10,7 +10,7 @@ Upon determination that a change in the workforce at a defense nuclear facility 
 
 #### (b) Consultation
 
-(1) In developing a plan referred to in subsection (a) of this section and any updates of the plan under subsection (e) of this section, the Secretary shall consult with the Secretary ofLabor, appropriate representatives of local and national collective-bargaining units of individuals employed at Department of Energy defense nuclear facilities, appropriate representatives of departments and agencies of State and local governments, appropriate representatives of State and local institutions of higher education, and appropriate representatives of community groups in communities affected by the restructuring plan.
+(1) In developing a plan referred to in subsection (a) of this section and any updates of the plan under subsection (e) of this section, the Secretary shall consult with the Secretary of Labor, appropriate representatives of local and national collective-bargaining units of individuals employed at Department of Energy defense nuclear facilities, appropriate representatives of departments and agencies of State and local governments, appropriate representatives of State and local institutions of higher education, and appropriate representatives of community groups in communities affected by the restructuring plan.
 
 (2) The Secretary shall determine appropriate representatives of the units, governments, institutions, and groups referred to in paragraph (1).
 
@@ -36,7 +36,7 @@ In preparing the plan required under subsection (a) of this section, the Secreta
 
 &emsp;(6) The Department of Energy should provide local impact assistance to communities that are affected by the restructuring plan and coordinate the provision of such assistance with—
 
-&emsp;&emsp;(A) programs carried out by the Secretary of Labor under the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\] or title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\];
+&emsp;&emsp;(A) programs carried out by the Secretary of Labor under title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\];
 
 &emsp;&emsp;(B) programs carried out pursuant to the Defense Economic Adjustment, Diversification, Conversion, and Stabilization Act of 1990 (division D of Public Law 101–510; 10 U.S.C. 2391 note); and
 
@@ -64,17 +64,9 @@ Not later than one year after issuing a plan referred to in subsection (a) of th
 
 (Pub. L. 102–484, div. C, title XXXI, §3161, Oct. 23, 1992, 106 Stat. 2644; Pub. L. 103–337, div. A, title X, §1070(c)(2), Oct. 5, 1994, 108 Stat. 2857; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(7)(A), (f)(6)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419, 2681–430.)
 
-#### Amendment of Subsection (c)(6)(A)
-
-<i>Pub. L. 105–277, §101(f) \[title VIII, §405(f)(6)(A), (g)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–430, 2681–435, provided that, effective July 1, 2000, subsection (c)(6) of this section is amended by striking subparagraph (A) and inserting the following:</i>
-
-“(A) programs carried out by the Secretary of Labor under title I of the Workforce Investment Act of 1998;”.
-
 #### References in Text
 
 Section 3152 of the National Defense Authorization Act for Fiscal Years 1990 and 1991, referred to in subsec. (c)(2), is section 3152 of Pub. L. 101–189, which is not classified to the Code.
-
-The Job Training Partnership Act, referred to in subsec. (c)(6)(A), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat.1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
 
 The Workforce Investment Act of 1998, referred to in subsec. (c)(6)(A), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
@@ -86,7 +78,9 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 #### Amendments
 
-1998—Subsec. (c)(6)(A). Pub. L. 105–277, §101(f) \[title VIII, §405(d)(7)(A)\], added subpar. (A) and struck out former subpar. (A) which read as follows: “programs carried out by the Department of Labor pursuant to the Job Training Partnership Act (29 U.S.C. 1501 et seq.);”.
+1998—Subsec. (c)(6)(A). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(6)(A)\], added subpar. (A) and struck out former subpar. (A) which read as follows: “programs carried out by the Secretary of Labor under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998;”.
+
+Pub. L. 105–277, §101(f) \[title VIII, §405(d)(7)(A)\], added subpar. (A) and struck out former subpar. (A) which read as follows: “programs carried out by the Department of Labor pursuant to the Job Training Partnership Act (29 U.S.C. 1501 et seq.);”.
 
 1994—Pub. L. 103–337, §1070(c)(2)(B), substituted “workforce” for “work force” in section catchline.
 

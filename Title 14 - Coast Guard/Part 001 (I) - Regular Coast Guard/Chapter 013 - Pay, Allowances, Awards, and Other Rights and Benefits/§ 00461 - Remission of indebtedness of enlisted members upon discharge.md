@@ -12,7 +12,7 @@ Said section 121 was omitted from the 1940 and 1946 editions of the U.S. Code, b
 
 It seems desirable to retain this assimilation provision as to pay in order to cover any failure to provide specifically for the Coast Guard in military pay legislation.
 
-This section assimilates the pay of military personnel of the Coast Guard to the pay of military personnel of the Navy. It seems that this is the most feasible method of insuring that the pay of military personnel of the Coast Guard will not vary from the pay of military personnel of the other armed forces. The assimilation is intended to include authorization for extra pay and allowances as provided for personnel of the Navy, for all types of special duty: for example, qualified divers on diving duty, military personnel assigned to submarine duty, military personnel assigned to aviation duty, officers assigned as aides to flag officers, and enlisted persons assigned to duty in the mess detail. Military pay acts are intended to include Coast Guard personnel specifically; this section would cover any failure to so provide for Coast Guard personnel in a pay act.
+This section assimilates the pay of military personnel of the Coast Guard to the pay of military personnel of the Navy. It seems that this is the most feasible method of insuring that the pay of military personnel of the Coast Guard will not vary from the pay of military personnel of the other armed forces. The assimilation is intended to include authorization for extra payand allowances as provided for personnel of the Navy, for all types of special duty: for example, qualified divers on diving duty, military personnel assigned to submarine duty, military personnel assigned to aviation duty, officers assigned as aides to flag officers, and enlisted persons assigned to duty in the mess detail. Military pay acts are intended to include Coast Guard personnel specifically; this section would cover any failure to so provide for Coast Guard personnel in a pay act.
 
 Changes were made in phraseology. 81st Congress, House Report No. 557.
 
@@ -35,12 +35,4 @@ Subsec. (c). Pub. L. 87–526, §1(1)(B), added subsec. (c).
 #### Effective Date of 1967 Amendment
 
 Section 9(i) of Pub. L. 90–83 provided that: “Section 2 of this Act \[correcting section 73(a)(3) of Pub. L. 89–718\] is effective as of November 2, 1966, for all purposes.”
-
-#### Cross References
-
-Erroneous payments, collection of indebtedness, see section 5514 of Title 5, Government Organization and Employees.
-
-Escorts for dependents of members: transportation and travel allowances, see section 1036 of Title 10, Armed Forces.
-
-Forfeiture of pay, see section 815 of Title 10.
 

@@ -4,7 +4,7 @@
 
 Upon the basis of facts disclosed by the record and reports of the Securities and Exchange Commission made pursuant to section 79z–4 of this title, and facts otherwise disclosed and ascertained, it is found that investment companies are affected with a national public interest in that, among other things—
 
-&emsp;(1) the securities issued by such companies, which constitute a substantial part of all securities publicly offered, are distributed, purchased, paid for, exchanged, transferred, redeemed, and repurchased by use of the mails and means and instrumentalities of interstate commerce, and in the case of the numerouscompanies which issue redeemable securities this process of distribution and redemption is continuous;
+&emsp;(1) the securities issued by such companies, which constitute a substantial part of all securities publicly offered, are distributed, purchased, paid for, exchanged, transferred, redeemed, and repurchased by use of the mails and means and instrumentalities of interstate commerce, and in the case of the numerous companies which issue redeemable securities this process of distribution and redemption is continuous;
 
 &emsp;(2) the principal activities of such companies—investing, reinvesting, and trading in securities—are conducted by use of the mails and means and instrumentalities of interstate commerce, including the facilities of national securities exchanges, and constitute a substantial part of all transactions effected in the securities markets of the Nation;
 
@@ -41,18 +41,6 @@ Upon the basis of facts disclosed by the record and reports of the Securities an
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
-#### Cross References
-
-Findings under Investment Advisers Act of 1940, see section 80b–1 of this title.
-
-Necessity for control of holding companies, see section 79a of this title.
-
-Necessity for regulation under—
-
-&emsp;&emsp;Securities Exchange Act of 1934, see section 78b of this title.
-
-&emsp;&emsp;Trust Indenture Act of 1939, see section 77bbb of this title.
 
 #### Section Referred to in Other Sections
 

@@ -30,13 +30,13 @@ For the purpose (i) of developing or assisting in the development of any impleme
 
 #### (b) State enforcement
 
-(1) Each State may develop and submit to the Administrator a procedure for carrying out this section in such State. If the Administrator finds the State procedure is adequate, he may delegate to such State any authority he has to carry out this section.
+(1) Each State may develop and submit to the Administrator a procedure for carrying out thissection in such State. If the Administrator finds the State procedure is adequate, he may delegate to such State any authority he has to carry out this section.
 
 (2) Nothing in this subsection shall prohibit the Administrator from carrying out this section in a State.
 
 #### (c) Availability of records, reports, and information to public; disclosure of trade secrets
 
-Any records, reports or information obtained under subsection (a) of this section shall be available to the public, except that upon a showing satisfactory to the Administrator by any person that records, reports, or information, or particular part thereof, (other than emission data) to which the Administrator has access under this section if made public, would divulge methods or processes entitled to protection as trade secrets of such person, the Administrator shall consider such record, report, or information or particular portion thereof confidential in accordance with the purposes of section 1905 of title 18, except that such record, report, or information may be disclosed to other officers, employees, or authorized representatives of theUnited States concerned with carrying out this chapter or when relevant in any proceeding under this chapter.
+Any records, reports or information obtained under subsection (a) of this section shall be available to the public, except that upon a showing satisfactory to the Administrator by any person that records, reports, or information, or particular part thereof, (other than emission data) to which the Administrator has access under this section if made public, would divulge methods or processes entitled to protection as trade secrets of such person, the Administrator shall consider such record, report, or information or particular portion thereof confidential in accordance with the purposes of section 1905 of title 18, except that such record, report, or information may be disclosed to other officers, employees, or authorized representatives of the United States concerned with carrying out this chapter or when relevant in any proceeding under this chapter.
 
 #### (d) Notice of proposed entry, inspection, or monitoring
 
@@ -88,7 +88,7 @@ Suits, actions, and other proceedings lawfully commenced by or against the Admin
 
 #### Modification or Rescission of Rules, Regulations, Orders, Determinations, Contracts, Certifications, Authorizations, Delegations, and Other Actions
 
-All rules, regulations, orders, determinations, contracts, certifications, authorizations, delegations, orother actions duly issued, made, or taken by or pursuant to act July 14, 1955, the Clean Air Act, as in effect immediately prior to the date of enactment of Pub. L. 95–95 \[Aug. 7, 1977\] to continue in full force and effect until modified or rescinded in accordance with act July 14, 1955, as amended by Pub. L. 95–95 \[this chapter\], see section 406(b) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
+All rules, regulations, orders, determinations, contracts, certifications, authorizations, delegations, or other actions duly issued, made, or taken by or pursuant to act July 14, 1955, the Clean Air Act, as in effect immediately prior to the date of enactment of Pub. L. 95–95 \[Aug. 7, 1977\] to continue in full force and effect until modified or rescinded in accordance with act July 14, 1955, as amended by Pub. L. 95–95 \[this chapter\], see section 406(b) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -28,3 +28,7 @@ Pub. L. 93–316, §7, June 22, 1974, 88 Stat. 243.
 
 Committee on Science, Space, and Technology of House of Representatives treated as referring to Committee on Science of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which item 8 on page 178 identifies a reporting provision which, as subsequently amended, is contained in the second par. of this section), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set out as notes under section 1113 of Title 31, Money and Finance.
+

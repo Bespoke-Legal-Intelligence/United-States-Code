@@ -2,7 +2,7 @@
 
 #### (a) Authority
 
-An employee of the Department of Energy who is separated from the service under conditionsdescribed in subsection (b) of this section after completing 25 years of service or after becoming 50 years of age and completing 20 years of service is entitled to an annuity in accordance with the provisions in chapter 83 or 84 of title 5, as applicable.
+An employee of the Department of Energy who is separated from the service under conditions described in subsection (b) of this section after completing 25 years of service or after becoming 50 years of age and completing 20 years of service is entitled to an annuity in accordance with the provisions in chapter 83 or 84 of title 5, as applicable.
 
 #### (b) Conditions of separation
 

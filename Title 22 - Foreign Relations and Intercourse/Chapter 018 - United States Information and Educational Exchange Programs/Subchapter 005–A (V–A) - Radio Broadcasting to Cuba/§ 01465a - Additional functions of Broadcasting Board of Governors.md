@@ -6,7 +6,7 @@ In order to carry out the objectives set forth in section 1465 of this title, th
 
 #### (b) Broadcasting as part of Voice of America
 
-Radio broadcasting in accordance with subsection (a) of this section shall be part of the Voice of America radio broadcasting to Cuba and shall be in accordance with all Voice of America standards to ensure the broadcast of programs which are objective, accurate, balanced, and which present a variety of views.
+Radio broadcasting in accordance with subsection (a) of this section shall be part of theVoice of America radio broadcasting to Cuba and shall be in accordance with all Voice of America standards to ensure the broadcast of programs which are objective, accurate, balanced, and which present a variety of views.
 
 #### (c) Location of broadcast facilities; frequency; leased time from nongovernmental shortwave stations
 

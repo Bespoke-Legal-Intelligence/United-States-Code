@@ -20,7 +20,7 @@ Compliance with the requirements imposed under this subchapter shall be enforced
 
 &emsp;(5) the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\], by the Securities and Exchange Commission, with respect to any broker or dealer subject to that Act.
 
-> The terms used in paragraph (1) that are not defined in this subchapter or otherwise defined insection 3(s) of the Federal Deposit Insurance Act (12 U.S.C. 1813(s)) shall have the meaning given to them in section 1(b) of the International Banking Act of 1978 (12 U.S.C. 3101).
+> The terms used in paragraph (1) that are not defined in this subchapter or otherwise defined in section 3(s) of the Federal Deposit Insurance Act (12 U.S.C. 1813(s)) shall have the meaning given to them in section 1(b) of the International Banking Act of 1978 (12 U.S.C. 3101).
 
 #### (b) Violations of subchapter deemed violations of pre-existing statutory requirements; additional powers
 

@@ -18,5 +18,5 @@ Section, act Feb. 14, 1903, ch. 552, §2, 32 Stat. 826, provided for a disbursin
 
 #### Transfer of Disbursement Agencies
 
-Division of Disbursement and certain other offices and agencies and their functions consolidated into Fiscal Service of Department of the Treasury by Reorg. Plan No. III of 1940, §1(a)(1), eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1231, set out in the Appendix to Title 5, Government Organization and Employees. See section 306 of Title 31, Money and Finance.
+Division of Disbursement and certain other offices and agencies and their functions consolidated into Fiscal Service of Department of the Treasury by Reorg. Plan No. III of 1940, §1(a)(1), eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1231, set out in the Appendix to Title 5,Government Organization and Employees. See section 306 of Title 31, Money and Finance.
 

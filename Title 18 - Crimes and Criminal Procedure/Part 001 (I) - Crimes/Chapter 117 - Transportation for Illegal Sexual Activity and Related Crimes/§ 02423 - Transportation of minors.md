@@ -50,11 +50,7 @@ Transportation With Intent To Engage in Criminal Sexual Activity.—A person who
 
 Amendment by section 604(b)(33) of Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of Pub. L. 104–294, set out as a note under section 13 of this title.
 
-#### Canal Zone
-
-Applicability of section to Canal Zone, see section 14 of this title.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 14, 1961, 2253, 2254, 2255, 3486A, 3559 of this title; title 8 section 1101.
+This section is referred to in sections 14, 1961, 2253, 2254, 2255, 3486, 3559 of this title; title 8 section 1101.
 

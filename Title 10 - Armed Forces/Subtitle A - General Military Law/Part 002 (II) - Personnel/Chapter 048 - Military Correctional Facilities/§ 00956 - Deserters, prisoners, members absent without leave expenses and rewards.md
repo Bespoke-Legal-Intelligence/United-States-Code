@@ -146,7 +146,3 @@ Provisions similar to those in par. (5) of this section were contained in Pub. L
 
 Section effective Oct. 1, 1985, see section 1404 of Pub. L. 98–525, set out as a note under section 520b of this title.
 
-#### Cross References
-
-Expenses for apprehension and delivery of deserters, stragglers, and prisoners of the Navy, see section 7214 of this title.
-

@@ -26,19 +26,3 @@ The Federal Rules of Evidence, referred to in text, are set out in the Appendix 
 
 1949—Act May 24, 1949, substituted “section 1741” for “section 695e” and “section 1732” for “section 695” wherever appearing.
 
-#### Federal Rules of Criminal Procedure
-
-Proof of official records, see rule 27, Appendix to this title.
-
-#### Cross References
-
-Certification of genuineness of foreign document, see section 3494 of this title.
-
-Commission to consular officers to authenticate foreign documents, see section 3492 of this title.
-
-Foreign documents of record in the State of Vatican City, see section 4222 of Title 22, Foreign Relations and Intercourse.
-
-Foreign documents on record in public offices, see section 1741 of Title 28, Judiciary and Judicial Procedure.
-
-Record made in regular course of business, see section 1732 of Title 28.
-

@@ -58,11 +58,11 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Suspension of Section
 
-Pub. L. 101–510, div. A, title XII, §1206(f), Nov. 5, 1990, 104 Stat. 1661, provided that: “Section 3326 of title 5, United States Code, shall not be in effect for the period beginning on the date of the enactment of this Act \[Nov. 5, 1990\] and ending two years after such date.”
+Pub. L. 101–510, div. A, title XII, §1206(f), Nov. 5, 1990, 104 Stat. 1661, provided that: “Section 3326 of title 5,United States Code, shall not be in effect for the period beginning on the date of the enactment of this Act \[Nov. 5, 1990\] and ending two years after such date.”
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of this title.
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of this title.
 
 #### Effective Date of 1979 Amendment
 

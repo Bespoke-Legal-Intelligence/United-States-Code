@@ -17,17 +17,14 @@
 | [4109\.](%C2%A7%2004109%20-%20National%20Veterans%E2%80%99%20Employment%20and%20Training%20Services%20Institute.md) | National Veterans’ Employment and Training Services Institute. |
 | [4110\.](%C2%A7%2004110%20-%20Advisory%20Committee%20on%20Veterans%20Employment%20and%20Training.md) | Advisory Committee on Veterans Employment and Training. |
 | [4110A.](%C2%A7%2004110A%20-%20Special%20unemployment%20study.md) | Special unemployment study. |
-| [4110B.](%C2%A7%2004110B%20-%20Coordination%20and%20nonduplication.md) | Coordination and nonduplication. <sup>1</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| [4110B.](%C2%A7%2004110B%20-%20Coordination%20and%20nonduplication.md) | Coordination and nonduplication. |
 | [4111\.](%C2%A7%2004111%20-%20Homeless%20veterans%E2%80%99%20reintegration%20programs.md) | Homeless veterans’ reintegration programs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2000—Pub. L. 106–419, title IV, §404(a)(8), Nov. 1, 2000, 114 Stat. 1865, added item 4110B.
 
 1999—Pub. L. 106–117, title IX, §901(b), Nov. 30, 1999, 113 Stat. 1587, added item 4111.
 
@@ -39,7 +36,7 @@ Pub. L. 102–16, §8(b), Mar. 22, 1991, 105 Stat. 53, substituted “Advisory C
 
 1982—Pub. L. 97–306, title III, §§301(b)(1), 304(a)(2), 308(b), Oct. 14, 1982, 96 Stat. 1437, 1438, 1441, added item 2000, substituted “State and Assistant State Directors for Veterans’ Employment” for “Assignment of veterans’ employment representative” in item 2003 and added items 2009 and 2010.
 
-1980—Pub. L. 96–466, title V, §§504(a)(1), 506(b), Oct. 17, 1980, 94 Stat. 2203, 2205, struck out “Deputy” before “Assistant Secretary” in item 2002A and added item 2003A.
+1980—Pub. L. 96–466, title V, §§504(a)(1), 506(b), Oct. 17, 1980, 94 Stat. 2203, 2205, struck out “Deputy” before“Assistant Secretary” in item 2002A and added item 2003A.
 
 1976—Pub. L. 94–502, title VI, §601(b)(2), Oct. 15, 1976, 90 Stat. 2404, added item 2002A.
 
@@ -49,15 +46,9 @@ Pub. L. 102–16, §8(b), Mar. 22, 1991, 105 Stat. 53, substituted “Advisory C
 
 1962—Pub. L. 87–675, §1(b), (d), Sept. 19, 1962, 76 Stat. 558, 559, substituted “Purpose” for “Compensation for veterans under State agreements” in item 2001, “Assignment of veterans’ employment representative” for “Unemployment compensation in absence of State agreements” in item 2002, “Employees of local offices” for “Payments to States” in item 2003, “Cooperation of Federal agencies” for “Information” in item 2004, and “Estimate of funds for administration” for “Penalties” in item 2005, and struck out items 2006 to 2014 and headings of subchapters I and II.
 
-#### Cross References
-
-Workforce investment programs for veterans under the Workforce Investment Act of 1998, see section 2913 of Title 29, Labor.
-
 #### Chapter Referred to in Other Sections
 
 This chapter is referred to in title 20 section 9271; title 29 sections 2822, 2841; title 42 section 1101.
-
-<i><sup>1</sup></i><i> Editorially supplied. Section 4110B added by Pub. L. 105–220 without corresponding amendment of chapter analysis.</i>
 
 
 ---

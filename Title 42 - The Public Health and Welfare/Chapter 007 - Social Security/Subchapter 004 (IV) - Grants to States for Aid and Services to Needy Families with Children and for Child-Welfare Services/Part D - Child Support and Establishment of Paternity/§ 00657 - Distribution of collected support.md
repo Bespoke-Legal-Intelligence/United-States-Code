@@ -88,7 +88,7 @@ Subject to subsections (e) and (f) of this section, an amount collected on behal
 
 #### (v) Ordering rules for distributions
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, unless an earlier effective date is required by this section, effective October 1, 2000, the State shall treat any support arrearages collected, except for amounts collected pursuant to section 664 of this title, as accruing in the following order:
+&emsp;&emsp;&emsp;For purposes of this subparagraph, unless an earlier effective date is required bythis section, effective October 1, 2000, the State shall treat any support arrearages collected, except for amounts collected pursuant to section 664 of this title, as accruing in the following order:
 
 &emsp;&emsp;&emsp;&emsp;(I) To the period after the family ceased to receive assistance.
 
@@ -180,7 +180,7 @@ Notwithstanding the preceding provisions of this section, amounts collected by a
 
 > and any balance shall be paid to the State agency responsible for supervising the placement of the child, for use by such agency in accordance with paragraph (2).
 
-(Aug. 14, 1935, ch. 531, title IV, §457, as added Pub. L. 93–647, §101(a), Jan. 4, 1975, 88 Stat. 2356; amended Pub. L. 95–171, §11, Nov. 12, 1977, 91 Stat. 1357; Pub. L. 97–35, title XXIII, §2332(e), Aug. 13, 1981, 95 Stat. 862; Pub. L. 98–369, div. B, title VI, §2640(b), July 18, 1984, 98 Stat. 1145; Pub. L. 98–378, §§7(a), 11(a), Aug. 16, 1984, 98 Stat. 1315, 1317; Pub. L. 99–514, title XVIII, §§1883(b)(6), 1899(a), Oct. 22, 1986, 100 Stat. 2917, 2957; Pub. L. 100–203, title IX, §9141(a)(1), Dec. 22, 1987, 101 Stat. 1330–321; Pub. L. 100–485, title I, §102(b),Oct. 13, 1988, 102 Stat. 2346; Pub. L. 104–193, title III, §302(a), Aug. 22, 1996, 110 Stat. 2200; Pub. L. 105–33, title V, §§5532(a), (b)(1), (c)–(h), 5547, Aug. 5, 1997, 111 Stat. 626, 627, 632; Pub. L. 106–169, title III, §301(a), (c), title IV, §401(j), (k), Dec. 14, 1999, 113 Stat. 1857, 1858.)
+(Aug. 14, 1935, ch. 531, title IV, §457, as added Pub. L. 93–647, §101(a), Jan. 4, 1975, 88 Stat. 2356; amended Pub. L. 95–171, §11, Nov. 12, 1977, 91 Stat. 1357; Pub. L. 97–35, title XXIII, §2332(e), Aug. 13, 1981, 95 Stat. 862; Pub. L. 98–369, div. B, title VI, §2640(b), July 18, 1984, 98 Stat. 1145; Pub. L. 98–378, §§7(a), 11(a), Aug. 16, 1984, 98 Stat. 1315, 1317; Pub. L. 99–514, title XVIII, §§1883(b)(6), 1899(a), Oct. 22, 1986, 100 Stat. 2917, 2957; Pub. L. 100–203, title IX, §9141(a)(1), Dec. 22, 1987, 101 Stat. 1330–321; Pub. L. 100–485, title I, §102(b), Oct. 13, 1988, 102 Stat. 2346; Pub. L. 104–193, title III, §302(a), Aug. 22, 1996, 110 Stat. 2200; Pub. L. 105–33, title V, §§5532(a), (b)(1), (c)–(h), 5547, Aug. 5, 1997, 111 Stat. 626, 627, 632; Pub. L. 106–169, title III, §301(a), (c), title IV, §401(j), (k), Dec. 14, 1999, 113 Stat. 1857, 1858.)
 
 #### Amendment of Section
 
@@ -264,7 +264,7 @@ Subsec. (d). Pub. L. 98–378, §11(a)(1), added subsec. (d).
 
 1981—Subsec. (b). Pub. L. 97–35, §2332(e)(1), substituted in provision preceding par. (1) “as support” for “as child support”.
 
-Subsec. (c). Pub. L. 97–35, §2332(e)(2), substituted in provision preceding par. (1) “whom support payments” for “whom child support payments” and in pars. (1) and\(2) “amounts of support payments” for “amounts of child support payments” in two places and “amounts of support so” for “amounts of child support so”.
+Subsec. (c). Pub. L. 97–35, §2332(e)(2), substituted in provision preceding par. (1) “whom support payments” for “whom child support payments” and in pars. (1) and (2) “amounts of support payments” for “amounts of child support payments” in two places and “amounts of support so” for “amounts of child support so”.
 
 1977—Subsec. (c). Pub. L. 95–171, §11(a)–(c), in par. (1), substituted “amounts of child support payments which represent monthly support payments” for “such support payments” and inserted “, which represent monthly support payments,” after “amounts so collected”; in par. (2), substituted “amounts of child support payments which represent monthly support payments” for “such support payments” and inserted “, which represents monthly support payments,” after “amount so collected”; changed to a comma the period at end of par. (2); and inserted provision for distribution of child support proceeds.
 

@@ -18,11 +18,7 @@ Functions vested by any provision of law in Comptroller of the Currency, referre
 
 #### Application to District of Columbia
 
-Provisions of this section were made applicable to banks, etc. in the District of Columbia by act Mar. 4, 1933, ch. 274, §4, 47 Stat. 1567 (D.C. Code, §26–104).
-
-#### Cross References
-
-Preferential rights of preferred stock on liquidation, see section 51b of this title.
+Provisions of this section were made applicable to banks, etc. in the District of Columbia by act Mar. 4, 1933, ch. 274, §4, 47 Stat. 1567.
 
 #### Section Referred to in Other Sections
 

@@ -27,18 +27,6 @@
 
 1984—Pub. L. 98–497, title I, §102(c)(1), Oct. 19, 1984, 98 Stat. 2282, amended analysis generally, substituting “National Archives and Records” in chapter heading, adding items 2102 to 2106 and redesignating former items 2103 to 2114 as 2107 to 2118, respectively.
 
-#### Cross References
-
-Accounting systems, forms, and procedures: authority of Comptroller General; settlement of accounts of collecting and disbursing officers with General Accounting Office, responsibility for, see section 3107 of this title.
-
-Exemptions from provisions of this chapter, see section 474 of Title 40, Public Buildings, Property, and Works.
-
-Federal agency management program to provide for compliance with this chapter and regulations thereunder, see section 3102 of this title.
-
-Legal status of reproductions made under regulations to carry out this chapter, see section 2116 of this title.
-
-Reports from Federal agencies on their activities under this chapter, authority of Archivist and Administrator of General Services to obtain; correction of violations, see section 2115 of this title.
-
 #### Chapter Referred to in Other Sections
 
 This chapter is referred to in sections 2115, 2116, 2901, 2902, 3107 of this title; title 22 section 4352; title 25 section 450j; title 28 section 594.

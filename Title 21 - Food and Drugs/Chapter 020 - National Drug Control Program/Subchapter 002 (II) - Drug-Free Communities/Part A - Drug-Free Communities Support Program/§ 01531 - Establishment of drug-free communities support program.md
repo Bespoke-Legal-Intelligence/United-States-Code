@@ -16,7 +16,7 @@ In carrying out the Program, the Director shall—
 
 #### (c) Administration
 
-Not later than 30 days after receiving recommendations from the Advisory Commission under section 1542(a)(1) of this title, the Director shall appoint an Administrator to carry out the Program.
+Not later than 30 days after receiving recommendations from the Advisory Commissionunder section 1542(a)(1) of this title, the Director shall appoint an Administrator to carry out the Program.
 
 #### (d) Contracting
 

@@ -50,7 +50,7 @@ Provisions similar to those comprising this section were contained in former sec
 
 Section 819, Pub. L. 93–203, title I, §109, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 1930, related to prime sponsor's planning councils.
 
-A prior section 819, Pub. L. 93–203, title I, §109, Dec. 28, 1973, 87 Stat. 848, provided for judicial review withrespect to comprehensive manpower plans, prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
+A prior section 819, Pub. L. 93–203, title I, §109, Dec. 28, 1973, 87 Stat. 848, provided for judicial review with respect to comprehensive manpower plans, prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
 Provisions similar to those comprising this section were contained in former section 814 of this title prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
@@ -71,8 +71,4 @@ Section 822, Pub. L. 93–203, title I, §112, as added Pub. L. 95–524, §2, O
 A prior section 822, Pub. L. 93–203, title I, §112, Dec. 28, 1973, 87 Stat. 850, provided for supplemental vocational education assistance, prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
 Provisions similar to those comprising this section were contained in former section 802 of this title prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
-
-#### Effective Date of Repeal
-
-Section 184(a) of Pub. L. 97–300 provided that the repeal of these sections is effective Oct. 13, 1982.
 

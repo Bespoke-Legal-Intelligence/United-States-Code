@@ -12,7 +12,7 @@
 
 #### References in Text
 
-Sections 4201 through 4204; 4205(d), (e), and (h); 4206 through 4215; and 4218 of this title, referred to in subsec. (b), were repealed effective Nov. 1, 1987, by Pub. L.98–473, title II, §§218(a)(5), 235(a)(1), (b)(1), Oct. 12, 1984, 98 Stat. 2027, 2031, 2032, subject to remaining effective for five years after Nov. 1, 1987, in certain circumstances.
+Sections 4201 through 4204; 4205(d), (e), and (h); 4206 through 4215; and 4218 of this title, referred to in subsec. (b), were repealed effective Nov. 1, 1987, by Pub. L. 98–473, title II, §§218(a)(5), 235(a)(1), (b)(1), Oct. 12, 1984, 98 Stat. 2027, 2031, 2032, subject to remaining effective for five years after Nov. 1, 1987, in certain circumstances.
 
 Section 235 of the Comprehensive Crime Control Act of 1984, referred to in subsec. (d), is set out as an Effective Date note under section 3551 of this title.
 

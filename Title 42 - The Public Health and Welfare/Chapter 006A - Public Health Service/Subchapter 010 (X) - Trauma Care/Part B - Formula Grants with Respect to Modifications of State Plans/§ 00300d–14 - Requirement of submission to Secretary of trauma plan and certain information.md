@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;For fiscal year 1991 and subsequent fiscal years, the Secretary may not make payments under section 300d–11(a) of this title unless, subject to paragraph (2), the State involved submits to the Secretary the trauma care component of the State plan for the provision of emergency medical services.
+&emsp;For fiscal year 1991 and subsequent fiscal years, the Secretary may not make paymentsunder section 300d–11(a) of this title unless, subject to paragraph (2), the State involved submits to the Secretary the trauma care component of the State plan for the provision of emergency medical services.
 
 #### (2) Interim plan or description of efforts
 

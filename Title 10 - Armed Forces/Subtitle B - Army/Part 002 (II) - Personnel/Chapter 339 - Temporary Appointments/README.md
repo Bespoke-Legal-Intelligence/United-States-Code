@@ -16,10 +16,6 @@
 
 1958—Pub. L. 85–861, §1(81)(F), (G), Sept. 2, 1958, 72 Stat. 1480, struck out item 3443 “Commissioned officers; Reserves; appointment in higher or lower grade” and added item 3452.
 
-#### Cross References
-
-Rank, adjustment of dates by President, see section 3572 of this title.
-
 
 ---
 

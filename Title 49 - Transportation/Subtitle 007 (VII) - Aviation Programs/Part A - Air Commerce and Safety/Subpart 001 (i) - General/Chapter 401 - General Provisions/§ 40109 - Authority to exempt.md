@@ -20,7 +20,7 @@ Other Economic Regulation.—Except as provided in this section, the Secretary m
 
 (d)
 
-Labor Requirements.—The Secretary may not exempt an air carrier from section 42112 of this title. However, the Secretary may exempt from section 42112(b)(1) and (2) an air carrier notproviding scheduled air transportation, and the operations conducted during daylight hours by an air carrier providing scheduled air transportation, when the Secretary decides that—
+Labor Requirements.—The Secretary may not exempt an air carrier from section 42112 of this title. However, the Secretary may exempt from section 42112(b)(1) and (2) an air carrier not providing scheduled air transportation, and the operations conducted during daylight hours by an air carrier providing scheduled air transportation, when the Secretary decides that—
 
 &emsp;(1) because of the limited extent of, or unusual circumstances affecting, the operation of the air carrier, the enforcement of section 42112(b)(1) and (2) of this title is or would be an unreasonable burden on the air carrier that would obstruct its development and prevent it from beginning or continuing operations; and
 
@@ -48,7 +48,7 @@ Smaller Aircraft.—(1) An air carrier is exempt from section 41101(a)(1) of thi
 
 (g)
 
-Emergency Air Transportation by Foreign Air Carriers.—(1) To the extent that the Secretary decides an exemption is in the public interest, the Secretary may exempt by order a foreign air carrier from the requirements and limitations of this part for not more than 30 days to allow the foreign air carrier to carry passengers or cargo in interstate air transportation in certain markets if the Secretary finds that—
+Emergency Air Transportation by Foreign Air Carriers.—(1) To the extent that the Secretary decides an exemption is in the public interest, the Secretary may exempt by order a foreign air carrier from the requirements andlimitations of this part for not more than 30 days to allow the foreign air carrier to carry passengers or cargo in interstate air transportation in certain markets if the Secretary finds that—
 
 &emsp;(A) because of an emergency created by unusual circumstances not arising in the normal course of business, air carriers holding certificates under section 41102 of this title cannot accommodate traffic in those markets;
 

@@ -16,7 +16,7 @@
 
 (7) Nothing in this Act shall authorize the withholding of information by the Commission or any officer or employee under its control from the duly authorized committees or subcommittees of the Congress, and the provisions of paragraphs (2) through (6) shall not apply to such disclosures, except that the Commission shall immediately notify the manufacturer or private labeler of any such request for information designated as confidential by the manufacturer or private labeler.
 
-(8) The provisions of paragraphs (2) through (6) shall not prohibit the disclosure of information to other officers, employees, or representativesof the Commission (including contractors) concerned with carrying out this Act or when relevant in any administrative proceeding under this Act or in judicial proceedings to which the Commission is a party. Any disclosure of relevant information—
+(8) The provisions of paragraphs (2) through (6) shall not prohibit the disclosure of information to other officers, employees, or representatives of the Commission (including contractors) concerned with carrying out this Act or when relevant in any administrative proceeding under this Act or in judicial proceedings to which the Commission is a party. Any disclosure of relevant information—
 
 &emsp;(A) in Commission administrative proceedings or in judicial proceedings to which the Commission is a party, or
 
@@ -44,9 +44,9 @@
 
 > The provisions of this paragraph shall not apply to the public disclosure of information with respect to a consumer product which is the subject of an action brought under section 2061 of this title, or which the Commission has reasonable cause to believe is in violation of section 2068(a) of this title, or information in the course of or concerning a judicial proceeding.
 
-(6) Where the Commission initiates the public disclosure of information that reflects on the safety of a consumer product or class of consumer products, whether or not such information would enable the public to ascertain readily the identity of a manufacturer or private labeler, the Commission shall establish procedures designed to ensure that such information is accurate and not misleading.
+(6) Where the Commission initiates the public disclosure of information that reflects on the safety of a consumer product or class of consumer products, whether or not such information would enable the public to ascertain readily the identity of a manufacturer or private labeler, the Commission shall establish proceduresdesigned to ensure that such information is accurate and not misleading.
 
-(7) If the Commission finds that, in the administration of this Act, it has made public disclosure of inaccurate or misleading information which reflects adversely upon the safety of any consumer product or class of consumer products, or the practices of any manufacturer, private labeler, distributor, or retailer of consumer products, it shall, in a manner equivalent to that inwhich such disclosure was made, take reasonable steps to publish a retraction of such inaccurate or misleading information.
+(7) If the Commission finds that, in the administration of this Act, it has made public disclosure of inaccurate or misleading information which reflects adversely upon the safety of any consumer product or class of consumer products, or the practices of any manufacturer, private labeler, distributor, or retailer of consumer products, it shall, in a manner equivalent to that in which such disclosure was made, take reasonable steps to publish a retraction of such inaccurate or misleading information.
 
 (8) If, after the commencement of a rulemaking or the initiation of an adjudicatory proceeding, the Commission decides to terminate the proceeding before taking final action, the Commission shall, in a manner equivalent to that in which such commencement or initiation was publicized, take reasonable steps to make known the decision to terminate.
 
@@ -114,7 +114,7 @@ Subsecs. (c), (d). Pub. L. 97–35 reenacted subsec. (c) without change and adde
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Effective Date of 1981 Amendment
 

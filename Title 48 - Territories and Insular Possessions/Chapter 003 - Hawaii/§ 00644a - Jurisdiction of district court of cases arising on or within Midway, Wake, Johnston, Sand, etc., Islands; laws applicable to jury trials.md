@@ -20,13 +20,3 @@ Amendment by Pub. L. 86–3 effective on admission of the State of Hawaii into t
 
 By a treaty of friendship, TIAS 10777, which entered into force Sept. 23, 1983, the United States recognized the sovereignty of Kiribati over Canton Island and Enderbury Island.
 
-#### Cross References
-
-Juries and trial by jury, generally, see chapter 121 of Title 28, Judiciary and Judicial Procedure.
-
-Special maritime and territorial jurisdiction of the United States defined, see section 7 of Title 18, Crimes and Criminal Procedure.
-
-United States District Court for the District of Hawaii, see section 91 of Title 28, Judiciary and Judicial Procedure.
-
-Venue of offenses committed upon high seas or out of the jurisdiction of any State or district, see section 3238 of Title 18, Crimes and Criminal Procedure.
-

@@ -344,7 +344,7 @@ Security Clearances.—(1) All Review Board nominees shall be granted the necess
 
 Confirmation Hearings.—(1) The Committee on Governmental Affairs of the Senate shall hold confirmation hearings within 30 days in which the Senate is in session after the nomination of 3 Review Board members.
 
-“(2) The Committee on Governmental Affairs shall vote on the nominations within 14 days in which the Senate is in session after the confirmation hearings, and shall report its results to the full Senate immediately.
+“(2) The Committee on Governmental Affairs shall vote on the nominations within 14 days in which theSenate is in session after the confirmation hearings, and shall report its results to the full Senate immediately.
 
 “(3) The Senate shall vote on each nominee to confirm or reject within 14 days in which the Senate is in session after reported by the Committee on Governmental Affairs.
 
@@ -542,7 +542,7 @@ Determinations of the Review Board.—(1) The Review Board shall direct that all
 
 “(4)(A) Following its review and a determination that an assassination record shall be publicly disclosed in the Collection or postponed for disclosure and held in the protected Collection, the Review Board shall notify the head of the originating body of its determination and publish a copy of the determination in the Federal Register within 14 days after the determination is made.
 
-“(B) Contemporaneous notice shall be made to the President for Review Board determinations regarding executive branch assassination records, and to the oversight committees designated in this Act in the case of legislative branch records. Such notice shall contain a written unclassified justification for public disclosure or postponement of disclosure, including an explanation of the application of any standards contained in section 6.
+“(B) Contemporaneous notice shall be made to the President for Review Board determinations regarding executive branch assassination records, and to the oversight committees designated in this Act in the caseof legislative branch records. Such notice shall contain a written unclassified justification for public disclosure or postponement of disclosure, including an explanation of the application of any standards contained in section 6.
 
 “(d)
 
@@ -630,7 +630,7 @@ Existing Authority.—Nothing in this Act revokes or limits the existing authori
 
 “(e)
 
-Rules of the Senate and House of Representatives.—To the extent that any provision of this Act establishes a procedure to be followed in the Senate or the House of Representatives, such provision is adopted—
+Rules of the Senate and House of Representatives.—To the extent that any provision of this Actestablishes a procedure to be followed in the Senate or the House of Representatives, such provision is adopted—
 
 &emsp;“(1) as an exercise of the rulemaking power of the Senate and House of Representatives, respectively, and is deemed to be part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in that House, and it supersedes other rules only to the extent that it is inconsistent with such rules; and
 

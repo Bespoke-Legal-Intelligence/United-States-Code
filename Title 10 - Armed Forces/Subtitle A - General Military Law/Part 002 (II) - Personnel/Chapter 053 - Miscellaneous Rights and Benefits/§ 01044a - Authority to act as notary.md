@@ -28,7 +28,7 @@
 
 #### Amendments
 
-1996—Subsec. (b)(1). Pub. L. 104–201, §573(1), substituted “, including reserve judge advocates when not in a duty status” for “on active duty or performing inactive-duty training”.
+1996—Subsec. (b)(1). Pub. L. 104–201, §573(1), substituted “, including reserve judge advocates when notin a duty status” for “on active duty or performing inactive-duty training”.
 
 Subsec. (b)(3). Pub. L. 104–201, §573(2), substituted “adjutants, including reserve members when not in a duty status” for “adjutants on active duty or performing inactive-duty training”.
 

@@ -48,11 +48,7 @@ The Agency shall not mandate national standards of clinical practice or quality 
 
 Nothing in this section shall be construed to imply that the Agency's role is to mandate a national standard or specific approach to quality measurement and reporting. In research and quality improvement activities, the Agency shall consider a wide range of choices, providers, health care delivery systems, and individual preferences.
 
-#### (g) Annual report
-
-Beginning with fiscal year 2003, the Director shall annually submit to the Congress a report regarding prevailing disparities in health care delivery as it relates to racial factors and socioeconomic factors in priority populations.
-
-(July 1, 1944, ch. 373, title IX, §902, as added Pub. L. 106–129, §2(a), Dec. 6, 1999, 113 Stat. 1654.)
+(July 1, 1944, ch. 373, title IX, §902, as added Pub. L. 106–129, §2(a), Dec. 6, 1999, 113 Stat. 1654; amended Pub. L. 106–525, title II, §201(a)(1), Nov. 22, 2000, 114 Stat. 2505.)
 
 #### References in Text
 
@@ -68,19 +64,15 @@ Another prior section 299a, act July 1, 1944, ch. 373, title IX, §901, as added
 
 A prior section 902 of act July 1, 1944, was classified to section 299b of this title prior to repeal by Pub. L. 99–117.
 
-Prior sections 299a–1 to 299a–3 were omitted in the general amendment of this chapter by Pub. L. 106–129.
+#### Amendments
 
-Section 299a–1, act July 1, 1944, ch. 373, title IX, §903, as added Pub. L. 101–239, title VI, §6103(a), Dec. 19, 1989, 103 Stat. 2190; amended Pub. L. 102–410, §3, Oct. 13, 1992, 106 Stat. 2094; Pub. L. 103–43, title XIV, §1422(a), June 10, 1993, 107 Stat. 172, related to public dissemination of information about studies and projects. See section 299c–3 of this title.
-
-A prior section 903 of act July 1, 1944, was classified to section 299c of this title prior to repeal by Pub. L. 99–117.
-
-Section 299a–2, act July 1, 1944, ch. 373, title IX, §904, as added Pub. L. 101–239, title VI, §6103(a), Dec. 19, 1989, 103 Stat. 2191; amended Pub. L. 102–410, §4(a), Oct. 13, 1992, 106 Stat. 2095; Pub. L. 103–43, title XX, §2013(1), June 10, 1993, 107 Stat. 214, related to health care technology assessment. See section 299b–5 of this title.
-
-A prior section 904 of act July 1, 1944, was classified to section 299d of this title prior to repeal by Pub. L. 99–117.
-
-Section 299a–3, act July 1, 1944, ch. 373, title IX, §905, as added Pub. L. 105–115, title IV, §409, Nov. 21, 1997, 111 Stat. 2371, established demonstration program regarding centers for education and research on therapeutics. See section 299b–1(b) of this title.
+2000—Subsec. (g). Pub. L. 106–525 struck out heading and text of subsec. (g). Text read as follows: “Beginning with fiscal year 2003, the Director shall annually submit to the Congress a report regarding prevailing disparities in health care delivery as it relates to racial factors and socioeconomic factors in priority populations.”
 
 #### Reducing Administrative Health Care Costs
 
 Pub. L. 103–43, title XIX, §1909, June 10, 1993, 107 Stat. 205, as amended by Pub. L. 106–129, §2(b)(2), Dec. 6, 1999, 113 Stat. 1670, provided that: “The Secretary of Health and Human Services, acting through the Agency for Healthcare Research and Quality and, to the extent possible, in consultation with the Health Care Financing Administration, may fund research to develop a text-based standardized billing process, through the utilization of text-based information retrieval and natural language processing techniques applied to automatic coding and analysis of textual patient discharge summaries and other text-based electronic medical records, within a parallel general purpose (shared memory) high performance computing environment. The Secretary shall determine whether such a standardized approach to medical billing, through the utilization of the text-based hospital discharge summary as well as electronic patient records can reduce the administrative billing costs of health care delivery.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 299a–1 of this title.
 

@@ -6,7 +6,7 @@
 
 &emsp;(2) pay, or reimburse the employee for, all or a part of the necessary expenses of the training, without regard to section 3324(a) and (b) of title 31, including among the expenses the necessary costs of—
 
-&emsp;&emsp;(A) travel and per diem instead of subsistence under subchapter I of chapter 57 of this title or, in the case of commissioned officers of the National Oceanic and Atmospheric Administration, sections 404 and 405 of title 37, and the Joint Travel Regulations for the Uniformed Services;
+&emsp;&emsp;(A) travel and per diem instead of subsistence under subchapter I of chapter 57 of this title or, in the case of commissioned officersof the National Oceanic and Atmospheric Administration, sections 404 and 405 of title 37, and the Joint Travel Regulations for the Uniformed Services;
 
 &emsp;&emsp;(B) transportation of immediate family, household goods and personal effects, packing, crating, temporarily storing, draying, and unpacking under section 5724 of this title or, in the case of commissioned officers of the National Oceanic and Atmospheric Administration, sections 406 and 409 of title 37, and the Joint Travel Regulations for the Uniformed Services, when the estimated costs of transportation and related services are less than the estimated aggregate per diem payments for the period of training;
 
@@ -70,7 +70,7 @@ Subsec. (c). Pub. L. 97–276 added subsec. (c).
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–277, div. A, §101(h) \[title VI, §628(e)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–521, provided that: “Theamendments made by this section \[enacting section 5545b of this title and amending this section and sections 5542 and 8331 of this title\] shall take effect on the first day of the first applicable pay period which begins on or after October 1, 1998.”
+Pub. L. 105–277, div. A, §101(h) \[title VI, §628(e)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–521, provided that: “The amendments made by this section \[enacting section 5545b of this title and amending this section and sections 5542 and 8331 of this title\] shall take effect on the first day of the first applicable pay period which begins on or after October 1, 1998.”
 
 #### Effective Date of 1992 Amendment
 
@@ -91,10 +91,6 @@ Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L
 #### Central Intelligence Agency
 
 Exception of Central Intelligence Agency from introductory provisions of subsec. (a) of this section and certain other provisions of this chapter, and section 1308 of this title, see Ex. Ord. No. 10805, Feb. 18, 1959, 24 F.R. 1301, set out as a note under section 4102 of this title.
-
-#### Cross References
-
-Use of appropriated funds for membership dues or fees or for expenses of attendance at meetings prohibited except as authorized by this section, see section 5946 of this title.
 
 #### Section Referred to in Other Sections
 

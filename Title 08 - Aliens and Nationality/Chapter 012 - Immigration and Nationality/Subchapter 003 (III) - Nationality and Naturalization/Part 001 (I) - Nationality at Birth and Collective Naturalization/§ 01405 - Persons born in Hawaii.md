@@ -8,7 +8,3 @@ A person born in Hawaii on or after August 12, 1898, and before April 30, 1900, 
 
 Hawaii Statehood provisions as not repealing, amending, or modifying the provisions of this section, see section 20 of Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 13, set out as a note at the beginning of chapter 3 of Title 48, Territories and Insular Possessions.
 
-#### Cross References
-
-United States defined, see section 1101 of this title.
-

@@ -58,11 +58,11 @@ Pub. L. 104–106, div. A, title V, §566(c), Feb. 10, 1996, 110 Stat. 328, prov
 
 Pub. L. 103–337, div. A, title V, §542(d), Oct. 5, 1994, 108 Stat. 2769, provided that: “Section 4403 of the National Defense Authorization Act for Fiscal Year 1993 (Public Law 102–484; 106 Stat. 2702; 10 U.S.C. 1293 note) shall apply to the Coast Guard in the same manner and to the same extent as that provision applies to the Department of Defense. The Secretary of Transportation shall implement the provisions of that section with respect to the Coast Guard and apply the applicable provisions of title 14, United States Code, relating to retirement of Coast Guard personnel.”
 
-Pub. L. 102–484, div. D, title XLIV, §4403, Oct. 23, 1992, 106 Stat. 2702, as amended by Pub. L. 103–160, div. A, title V, §561(a), Nov. 30, 1993, 107 Stat. 1667; Pub. L. 104–106, div. A, title XV, §1504(c)(3), Feb. 10, 1996, 110 Stat. 514; Pub. L. 105–261, div. A, title V, §561(a), Oct. 17, 1998, 112 Stat. 2025, provided that:
+Pub. L. 102–484, div. D, title XLIV, §4403, Oct. 23, 1992, 106 Stat. 2702, as amended by Pub. L. 103–160, div. A, title V, §561(a), Nov. 30, 1993, 107 Stat. 1667; Pub. L. 104–106, div. A, title XV, §1504(c)(3), Feb. 10, 1996, 110 Stat. 514; Pub. L. 105–261, div. A, title V, §561(a), Oct. 17, 1998, 112 Stat. 2025; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134, provided that:
 
 “(a)
 
-Purpose.—The purpose of this section is to provide the Secretary of Defense a temporary additional force management tool with which to effect the drawdown of military forces through fiscal year 1999.
+Purpose.—The purpose of this section is to provide the Secretary of Defense a temporary additional force management tool with which to effect the drawdown of military forces during the active force drawdown period.
 
 “(b)
 
@@ -132,17 +132,11 @@ Coordination With Other Separation Provisions.—(1) A member of the Armed Force
 
 “(h)
 
-Members Receiving SSB or VSI.—The Secretary of a military department may retire (or transfer to the Fleet Reserve or Fleet Marine Corps Reserve) pursuant to the authority provided by this section a member of a reserve component who before the date of the enactment of this Act \[Oct. 23, 1992\] was separated from active duty pursuant to an agreement entered into under section 1174a or 1175 of title 10, United States Code. The retired or retainer pay of any such member so retired (or transferred) by reason of the authority provided in this section shall be reduced by the amount of any payment to such member before the date of such retirement under the provisions of such agreement under section 1174a or 1175 of title 10, United States Code.
+Members Receiving SSB or VSI.—The Secretary of a military department may retire (or transfer to the Fleet Reserve or Fleet Marine Corps Reserve) pursuant to the authority provided by this section a member of a reserve component who before the date of the enactment of this Act \[Oct. 23, 1992\] was separated from active duty pursuant to an agreement entered into under section 1174a or 1175 of title 10, United States Code. The retired or retainer pay of any such member so retired (or transferred) by reason of the authority provided inthis section shall be reduced by the amount of any payment to such member before the date of such retirement under the provisions of such agreement under section 1174a or 1175 of title 10, United States Code.
 
 “(i)
 
-Active Force Drawdown Period.—For purposes of this section, the active force drawdown period is the period beginning on the date of the enactment of this Act and ending on October 1, 2001.”
-
-#### Cross References
-
-Coast Guard warrant officers, retirement in cases where higher grade has been held, see section 334 of Title 14, Coast Guard.
-
-Computation of retired pay, see section 1401 of this title.
+Active Force Drawdown Period.—For purposes of this section, the active force drawdown period is the period beginning on the date of the enactment of this Act and ending on December 31, 2001.”
 
 #### Section Referred to in Other Sections
 

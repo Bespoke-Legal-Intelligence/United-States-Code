@@ -16,7 +16,3 @@ Words “or both” were added to conform to the almost universal formula of the
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000” after “candidacy shall be” and for “fined not more than $10,000” after “willful, shall be”.
 
-#### Cross References
-
-Minor offenses tried by United States magistrate judges as excluding offenses punishable under this section, see section 3401 of this title.
-

@@ -12,7 +12,7 @@ As used in this chapter, the term—
 
 &emsp;(5) “Convention” means the Convention for the Conservation of Anadromous Stocks of the North Pacific Ocean, signed in Moscow, February 11, 1992.
 
-&emsp;(6) “Convention area” means the waters of the North Pacific Ocean and its adjacent seas, north of 33 degrees North Latitude,<sup>1</sup> beyond two hundred nautical miles from the baselines from which the breadth of the territorial sea is measured.
+&emsp;(6) “Convention area” means the waters of the North Pacific Ocean and its adjacent seas, north of 33 degrees North Latitude,<sup>1</sup> beyond 200 nautical miles from the baselines from which the breadth of the territorial sea is measured.
 
 &emsp;(7) “Directed fishing” means fishing targeted at a particular species or stock of fish.
 
@@ -46,7 +46,7 @@ As used in this chapter, the term—
 
 &emsp;(17) “United States Section” means the United States Commissioners of the Commission.
 
-(Pub. L. 102–567, title VIII, §803, Oct. 29, 1992, 106 Stat. 4309; Pub. L. 102–587, title VIII, §8003, Nov. 4, 1992, 106 Stat. 5098; Pub. L. 104–43, title IV, §404(b), Nov. 3, 1995, 109 Stat. 391.)
+(Pub. L. 102–567, title VIII, §803, Oct. 29, 1992, 106 Stat. 4309; Pub. L. 102–587, title VIII, §8003, Nov. 4, 1992, 106 Stat. 5098; Pub. L. 104–43, title IV, §404(b), Nov. 3, 1995, 109 Stat. 391; Pub. L. 106–562, title III, §304(a), Dec. 23, 2000, 114 Stat. 2806.)
 
 #### References in Text
 
@@ -54,7 +54,7 @@ Proclamation Numbered 5030, dated March 10, 1983, referred to in par. (10), is s
 
 #### Codification
 
-Pub. L. 102–567 and Pub. L. 102–587 enacted substantially identical sections. This section is based on the text of Pub. L. 102–587.
+Title VIII of Pub. L. 102–567 and Pub. L. 102–587 enacted substantially identical sections. Title VIII of Pub. L. 102–587 was repealed by Pub. L. 106–562.
 
 #### Amendments
 

@@ -4,10 +4,6 @@ Such right of way shall not exceed fifty feet in width on each side of the cente
 
 (Mar. 2, 1899, ch. 374, §2, 30 Stat. 990; June 21, 1906, ch. 3504, 34 Stat. 330.)
 
-#### Cross References
-
-Pueblo Indians of New Mexico, application of section, see section 322 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 312, 314, 316, 317, 318, 322 of this title.

@@ -141,7 +141,7 @@
 
 1998—Pub. L. 105–339, §3(b), Oct. 31, 1998, 112 Stat. 3184, added items 3330a to 3330c.
 
-Pub. L. 105–277, div. C, title I, §151(c)(1), Oct. 21, 1998, 112 Stat. 2681–616, substituted “DETAILS, VACANCIES, AND APPOINTMENTS” for “DETAILS” in heading for subchapter III, “Acting officer” for “Details; to officeof head of Executive agency or military department” in item 3345, “Time limitation” for “Details; to subordinate offices” in item 3346, “Exclusivity” for “Details; Presidential authority” in item 3347, “Vacant office” for “Details; limited in time” in item 3348, and “Reporting of vacancies” for “Details; to fill vacancies; restrictions” in item 3349 and added items 3349a to 3349d.
+Pub. L. 105–277, div. C, title I, §151(c)(1), Oct. 21, 1998, 112 Stat. 2681–616, substituted “DETAILS, VACANCIES, AND APPOINTMENTS” for “DETAILS” in heading for subchapter III, “Acting officer” for “Details; to office of head of Executive agency or military department” in item 3345, “Time limitation” for “Details; to subordinate offices” in item 3346, “Exclusivity” for “Details; Presidential authority” in item 3347, “Vacant office” for “Details; limited in time” in item 3348, and “Reporting of vacancies” for “Details; to fill vacancies; restrictions” in item 3349 and added items 3349a to 3349d.
 
 1996—Pub. L. 104–197, title III, §315(b)(1), Sept. 16, 1996, 110 Stat. 2416, substituted “Competitive service; recommendations of Senators or Representatives” for “Political recommendations” in item 3303.
 
@@ -195,7 +195,7 @@ Pub. L. 90–83, §1(9)(B), Sept. 11, 1967, 81 Stat. 197, added item 3315a.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in title 20 section 1018; title 31 section 3801; title 36 sections 510, 151307, 151707; title 42 sections 290aa, 2297b–4.
+This chapter is referred to in title 20 section 1018; title 31 section 3801; title 35 section 3; title 36 sections 510, 151307, 151707, 152407; title 42 sections 290aa, 2297b–4.
 
 
 ---

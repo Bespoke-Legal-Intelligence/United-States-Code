@@ -21,7 +21,7 @@
 | [12120\.](%C2%A7%2012120%20-%20Reports.md) | Reports. |
 | \[12121. | Repealed.\] |
 | [12122\.](%C2%A7%2012122%20-%20Penalties.md) | Penalties. |
-| 12123\. | Denial and revocation of endorsements. |
+| [12123\.](%C2%A7%2012123%20-%20Denial%20and%20revocation%20of%20endorsements.md) | Denial and revocation of endorsements. |
 | [12124\.](%C2%A7%2012124%20-%20Surrender%20of%20title%20and%20number.md) | Surrender of title and number. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -74,6 +74,5 @@ This chapter is referred to in sections 2101, 3316, 3703a, 14301, 14304, 14501, 
 - [&sect; 12120 - Reports](%C2%A7%2012120%20-%20Reports.md)
 - [&sect; 12121 - Repealed. Pub. L. 100&#8211;710, title I, &sect;106(b)(5), Nov. 23, 1988, 102 Stat. 4752](%C2%A7%2012121%20-%20Repealed.%20Pub.%20L.%20100%E2%80%93710%2C%20title%20I%2C%20%C2%A7106%28b%29%285%29%2C%20Nov.%2023%2C%201988%2C%20102%20Stat.%204752.md)
 - [&sect; 12122 - Penalties](%C2%A7%2012122%20-%20Penalties.md)
-- [&sect; 12123 - Repealed. Pub. L. 104&#8211;324, title VII, &sect;746(a)(1), Oct. 19, 1996, 110 Stat. 3943](%C2%A7%2012123%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93324%2C%20title%20VII%2C%20%C2%A7746%28a%29%281%29%2C%20Oct.%2019%2C%201996%2C%20110%20Stat.%203943.md)
 - [&sect; 12123 - Denial and revocation of endorsements](%C2%A7%2012123%20-%20Denial%20and%20revocation%20of%20endorsements.md)
 - [&sect; 12124 - Surrender of title and number](%C2%A7%2012124%20-%20Surrender%20of%20title%20and%20number.md)

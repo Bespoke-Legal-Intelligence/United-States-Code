@@ -46,7 +46,7 @@
 
 #### (4) Suits barred
 
-&emsp;No program, association, council, committee or other organization created by this section may sue any person or entity, public or private, concerning any matter arising under thissection except for the performance of contracts.
+&emsp;No program, association, council, committee or other organization created by this section may sue any person or entity, public or private, concerning any matter arising under this section except for the performance of contracts.
 
 #### (c) Oil Terminal Facilities and Oil Tanker Operations Association
 
@@ -62,7 +62,7 @@
 
 &emsp;&emsp;(B) One individual shall be designated by the owners and operators of the crude oil tankers calling at the terminal facilities and shall represent those owners and operators.
 
-&emsp;&emsp;(C) One individual shall be an employee of the State of Alaska, shall be designated by the Governor of the State of Alaska, and shall represent the State government.
+&emsp;&emsp;(C) One individual shall be an employee of the State of Alaska, shall be designated bythe Governor of the State of Alaska, and shall represent the State government.
 
 &emsp;&emsp;(D) One individual shall be an employee of the Federal Government, shall be designated by the President, and shall represent the Federal Government.
 
@@ -198,7 +198,7 @@
 
 &emsp;In fulfilling its responsibilities, the Monitoring Committee shall—
 
-&emsp;&emsp;(A) advise the Council on a monitoring strategy that will permit early detection ofenvironmental impacts of terminal facility operations and crude oil tanker operations while in Prince William Sound and Cook Inlet;
+&emsp;&emsp;(A) advise the Council on a monitoring strategy that will permit early detection of environmental impacts of terminal facility operations and crude oil tanker operations while in Prince William Sound and Cook Inlet;
 
 &emsp;&emsp;(B) develop monitoring programs and make recommendations to the Council on the implementation of those programs;
 
@@ -212,7 +212,7 @@
 
 #### (1) Technical Oil Spill Committee
 
-&emsp;Each Council shall establish a standing technical committee (hereinafter referred to as “Oil Spill Committee”) to review and assess measures designed to prevent oil spills and the planning and preparedness for responding to, containing, cleaning up, and mitigating impacts of oil spills. The membership of the Oil Spill Committee shall be made up of members of the Council, citizens, and recognized technical experts selected by the Council.
+&emsp;Each Council shall establish a standing technical committee (hereinafter referred to as“Oil Spill Committee”) to review and assess measures designed to prevent oil spills and the planning and preparedness for responding to, containing, cleaning up, and mitigating impacts of oil spills. The membership of the Oil Spill Committee shall be made up of members of the Council, citizens, and recognized technical experts selected by the Council.
 
 #### (2) Duties
 
@@ -276,7 +276,7 @@ Appointments, designations, and selections of individuals to serve as members of
 
 #### (3) Cook Inlet Program
 
-&emsp;The owners or operators of terminal facilities, offshore facilities, or crude oil tankers operating in Cook Inlet shall provide, on an annual basis, an aggregate amount of not more than $1,000,000, as determined by the Secretary. Such amount—
+&emsp;The owners or operators of terminal facilities, offshore facilities, or crude oil tankersoperating in Cook Inlet shall provide, on an annual basis, an aggregate amount of not more than $1,000,000, as determined by the Secretary. Such amount—
 
 &emsp;&emsp;(A) shall provide for the establishment and operation of the environmental oversight and monitoring program in Cook Inlet;
 

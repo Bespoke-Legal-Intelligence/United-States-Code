@@ -28,7 +28,7 @@ The Federal civil service laws, referred to in subsec. (b)(1), are set forth in 
 
 The Federal classification laws, referred to in subsec. (b)(1), are classified to chapter 51 (§5101 et seq.) and subchapter III (§5331 et seq.) of chapter 53 of Title 5.
 
-The Ethics in Government Act of 1978, referred to in subsec. (b)(2), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824, as amended. Title II of the Ethics in Government Act of 1978 was set out in the Appendix to Title 5, prior to repeal by Pub. L. 101–194, title II, §201, Nov. 30, 1989, 103 Stat. 1724. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5 and Tables.
+The Ethics in Government Act of 1978, referred to in subsec. (b)(2), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat.1824, as amended. Title II of the Ethics in Government Act of 1978 was set out in the Appendix to Title 5, prior to repeal by Pub. L. 101–194, title II, §201, Nov. 30, 1989, 103 Stat. 1724. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5 and Tables.
 
 #### Amendments
 

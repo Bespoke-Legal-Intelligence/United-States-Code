@@ -6,7 +6,7 @@ The Secretary may adjust, in accordance with this section, payments under parts 
 
 &emsp;(1) has (or previously had) in effect an agreement with a State agency to furnish medical care and services under a State plan approved under subchapter XIX of this chapter, and
 
-&emsp;(2) from which (or from whom) such State agency (A) has been unable to recover overpayments made under the State plan, or (B)has been unable to collect the information necessary to enable it to determine the amount (if any) of the overpayments made to such institution or person under the State plan.
+&emsp;(2) from which (or from whom) such State agency (A) has been unable to recover overpayments made under the State plan, or (B) has been unable to collect the information necessary to enable it to determine the amount (if any) of the overpayments made to such institution or person under the State plan.
 
 #### (b) Implementing regulations; notice, opportunity to be heard, etc.
 
@@ -20,7 +20,7 @@ The Secretary shall by regulation provide procedures for implementation of this 
 
 #### (c) Payment to States of amounts recovered
 
-Notwithstanding any other provision of this chapter, from the trust funds established under sections 1395i and 1395t of this title, as appropriate, the Secretary shall pay to the appropriate State agency amounts recovered under this section to offset the State agency's overpayment under subchapter XIX of this chapter. Such payments shall be accounted for by the State agency as recoveries of overpayments under the State plan.
+Notwithstanding any other provision of this chapter, from the trust funds established under sections 1395i and 1395t of this title, as appropriate, the Secretary shall pay to the appropriate State agency amounts recovered under this section to offset the State agency's overpayment under subchapter XIX of this chapter. Such payments shall be accounted for by theState agency as recoveries of overpayments under the State plan.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1885, as added Pub. L. 97–35, title XXI, §2104, Aug. 13, 1981, 95 Stat. 788.)
 

@@ -32,7 +32,7 @@ As used in this chapter—
 
 (15) The term “importer” means any person who imports cut flowers, potted flowering plants, or foliage plants from outside of the United States or who acts as an agent, broker, or consignee of any person or nation that produces flowers and plants outside of the United States for sale in the United States.
 
-(16) The term “commodity group” means that portion of the flower and plant industry devotedto the production and importation of any one of the following: (A) cut flowers; (B) potted flowering plants; or (C) foliage plants.
+(16) The term “commodity group” means that portion of the flower and plant industry devoted to the production and importation of any one of the following: (A) cut flowers; (B) potted flowering plants; or (C) foliage plants.
 
 (17) The term “cost of plant material” means the actual price paid by a producer for any propagational material or any other flowers and plants used in the production of flowers and plants. This term does not include the cost of seeds.
 

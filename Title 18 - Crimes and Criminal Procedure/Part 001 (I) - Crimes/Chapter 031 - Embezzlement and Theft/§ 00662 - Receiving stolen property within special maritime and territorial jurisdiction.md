@@ -24,20 +24,6 @@ Language as to order of trial was omitted and incorporated in section 3435 of th
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000” in two places.
 
-#### Cross References
-
-Actions aboard aircraft in special aircraft jurisdiction of United States in violation of this section punishable as provided herein, see section 46506 Title 49, Transportation.
-
-Laws of States adopted for areas within Federal jurisdiction, see section 13 of this title.
-
-Receiving—
-
-&emsp;&emsp;Articles stolen from the mails, see section 1708 of this title.
-
-&emsp;&emsp;Goods stolen from interstate or foreign shipments, see section 659 of this title.
-
-Special maritime and territorial jurisdiction of the United States defined, see section 7 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in title 49 section 46506.

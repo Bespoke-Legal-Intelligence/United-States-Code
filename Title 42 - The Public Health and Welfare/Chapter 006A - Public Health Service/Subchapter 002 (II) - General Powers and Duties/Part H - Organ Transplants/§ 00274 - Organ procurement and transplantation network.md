@@ -40,11 +40,17 @@ The Secretary shall by contract provide for the establishment and operation of a
 
 &emsp;(I) collect, analyze, and publish data concerning organ donation and transplants,
 
-&emsp;(J) carry out studies and demonstration projects for the purpose of improving procedures for organ procurement and allocation, and <sup>1</sup>
+&emsp;(J) carry out studies and demonstration projects for the purpose of improving procedures for organ procurement and allocation,
 
-&emsp;(K) work actively to increase the supply of donated organs.<sup>2</sup>
+&emsp;(K) work actively to increase the supply of donated organs,
 
-&emsp;(L) submit to the Secretary an annual report containing information on the comparative costs and patient outcomes at each transplant center affiliated with the organ procurement and transplantation network.
+&emsp;(L) submit to the Secretary an annual report containing information on the comparative costs and patient outcomes at each transplant center affiliated with the organ procurement and transplantation network,
+
+&emsp;(M) recognize the differences in health and in organ transplantation issues between children and adults throughout the system and adopt criteria, polices, and procedures that address the unique health care needs of children,
+
+&emsp;(N) carry out studies and demonstration projects for the purpose of improving procedures for organ donation procurement and allocation, including but not limited to projects to examine and attempt to increase transplantation among populations with special needs, including children and individuals who are members of racial or ethnic minority groups, and among populations with limited access to transportation, and
+
+&emsp;(O) provide that for purposes of this paragraph, the term “children” refers to individuals who are under the age of 18.
 
 #### (c) Consideration of critical comments
 
@@ -54,7 +60,7 @@ The Secretary shall establish procedures for—
 
 &emsp;(2) the consideration by the Secretary of such critical comments.
 
-(July 1, 1944, ch. 373, title III, §372, as added Pub. L. 98–507, title II, §201, Oct. 19, 1984, 98 Stat. 2344;amended Pub. L. 100–607, title IV, §403, Nov. 4, 1988, 102 Stat. 3115; Pub. L. 101–616, title II, §202(a)–(c), Nov. 16, 1990, 104 Stat. 3283, 3284.)
+(July 1, 1944, ch. 373, title III, §372, as added Pub. L. 98–507, title II, §201, Oct. 19, 1984, 98 Stat. 2344; amended Pub. L. 100–607, title IV, §403, Nov. 4, 1988, 102 Stat. 3115; Pub. L. 101–616, title II, §202(a)–(c), Nov. 16, 1990, 104 Stat. 3283, 3284; Pub. L. 106–310, div. A, title XXI, §2101(a), Oct. 17, 2000, 114 Stat. 1156.)
 
 #### Prior Provisions
 
@@ -63,6 +69,8 @@ A prior section 274, act July 1, 1944, ch. 373, title III, §372, as added July 
 Another section 372 of act July 1, 1944, added by act Aug. 3, 1956, ch. 941, §1, 70 Stat. 960, which related to functions of National Library of Medicine, was renumbered section 382 and classified to section 276 of this title, prior to repeal by Pub. L. 99–158, §3(b), Nov. 20, 1985, 99 Stat. 879.
 
 #### Amendments
+
+2000—Subsec. (b)(2)(M) to(O). Pub. L. 106–310 added subpars. (M) to (O).
 
 1990—Subsec. (b)(1)(A). Pub. L. 101–616, §202(a)(1), substituted “that has an expertise in organ procurement and transplantation” for “which is not engaged in any activity unrelated to organ procurement”.
 
@@ -95,8 +103,4 @@ Section 202(d) of Pub. L. 101–616 provided that: “The amendments made by sub
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 273, 274b, 274c, 1320b–8 of this title.
-
-<i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
-
-<i><sup>2</sup></i><i> So in original. The period probably should be “, and”.</i>
 

@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 398f, 410nn–1, 410pp–5, 410tt–3, 430g–7, 460uu–41, 460ccc–3, 460hhh–4, 460iii–5, 460jjj–1, 1247, 5408 of this title; title 20 sections 4424, 7902; title 42 sections 5320, 12204; title 43section 1457a; title 45 sections 1116, 1212; title 48 section 1905.
+This subchapter is referred to in sections 398f, 410nn–1, 410tt–3, 430g–7, 460uu–41, 460ccc–3, 460hhh–4, 460iii–5, 460jjj–1, 460<i>ooo</i>–5, 1247, 5408 of this title; title 20 sections 4424, 7902; title 25 section 458aaa–8; title 42 sections 5320, 12204; title 43 section 1457a; title 45 sections 1116, 1212; title 48 section 1905.
 
 
 ---

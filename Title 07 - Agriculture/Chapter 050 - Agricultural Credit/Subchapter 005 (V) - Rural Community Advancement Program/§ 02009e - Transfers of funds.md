@@ -12,7 +12,7 @@ Except as provided in subsection (c) of this section, a transfer otherwise autho
 
 Subsections (a) and (b) of this section shall not apply to a transfer of funds by a State director if the State director certifies to the Secretary that—
 
-&emsp;(1) there is an approved application for a project in the function category to which the funds are to be transferred but funds are not available for the project in the function category; and
+&emsp;(1) there is an approved application for a project in the function category to which thefunds are to be transferred but funds are not available for the project in the function category; and
 
 &emsp;(2)(A) there is no such approved application in the function category from which the funds are to be transferred; or
 

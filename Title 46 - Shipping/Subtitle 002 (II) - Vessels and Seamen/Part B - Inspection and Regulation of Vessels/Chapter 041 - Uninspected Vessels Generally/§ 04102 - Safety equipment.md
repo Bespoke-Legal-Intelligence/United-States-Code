@@ -56,6 +56,10 @@ Pub. L. 100–424 struck out subsec. (e) which read as follows: “Each uninspec
 
 Section 902(b) of Pub. L. 104–324 provided that: “The Secretary of the department in which the Coast Guard is operating shall issue regulations establishing the requirement described in subsection (f)(2) of section 4102 of title 46, United States Code, as added by this section, by not later than October 1, 1997.”
 
+#### Territorial Sea of United States
+
+For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 4103 of this title.

@@ -138,7 +138,7 @@
 
 &emsp;&emsp;&emsp;(i) Not less than 70 percent of the households living in the area have incomes below 80 percent of the median income of households of the local government (determined in the same manner as under section 5318 of this title).
 
-&emsp;&emsp;&emsp;(ii) The population of the area decreased by 20 percent or more between 1970 and1980 (as determined from the most recent census available).
+&emsp;&emsp;&emsp;(ii) The population of the area decreased by 20 percent or more between 1970 and 1980 (as determined from the most recent census available).
 
 #### (4) Eligibility requirements for rural areas
 
@@ -152,7 +152,7 @@
 
 #### (1) In general
 
-&emsp;No nominated area shall be designated as an enterprise zone unless the local government and the State in which it is located agree in writing that, during any period during which the area is an enterprise zone, such governments will follow a specified course of action designated to reduce the various burdens borne by employers or employees in such area. A course of action shall not be treated as meeting the requirements of this paragraph unless the course of action include provisions described in not less than 4 of the subparagraphs of paragraph (2).
+&emsp;No nominated area shall be designated as an enterprise zone unless the local government and the State in which it is located agree in writing that, during any period during which the area is an enterprise zone, such governments will follow a specified course of actiondesignated to reduce the various burdens borne by employers or employees in such area. A course of action shall not be treated as meeting the requirements of this paragraph unless the course of action include provisions described in not less than 4 of the subparagraphs of paragraph (2).
 
 #### (2) Course of action
 

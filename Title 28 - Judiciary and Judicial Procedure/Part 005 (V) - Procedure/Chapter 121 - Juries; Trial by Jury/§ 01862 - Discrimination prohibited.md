@@ -10,9 +10,9 @@ This section makes provision for specific exemption of classes of citizens usual
 
 #### Amendments
 
-1980—Pub. L. 96–417 prohibited discrimination against service as juror in the Court of International Trade.
+<b>1980</b>—Pub. L. 96–417 prohibited discrimination against service as juror in the Court of International Trade.
 
-1968—Pub. L. 90–274 substituted provisions prohibiting discrimination against citizens in their service as jurors because of race, color, religion, sex, national origin, or economic status for provisions identifying three groups as exempt from jury service, including members of the armed forces on active duty, members of fire or police departments, and public officers actively engaged in the performance of official duties.
+<b>1968</b>—Pub. L. 90–274 substituted provisions prohibiting discrimination against citizens in their service as jurors because of race, color, religion, sex, national origin, or economic status for provisions identifying three groups as exempt from jury service, including members of the armed forces on active duty, members of fire or police departments, and public officers actively engaged in the performance of official duties.
 
 #### Effective Date of 1980 Amendment
 

@@ -18,10 +18,6 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 1960—Pub. L. 86–474 increased maximum term for extension of a reenlistment period from four to six years.
 
-#### Cross References
-
-Inclusion of conditions in enlistment contract, see section 369 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 369 of this title.

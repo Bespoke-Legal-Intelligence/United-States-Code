@@ -10,7 +10,7 @@ Nothing in this part or the Settlement Agreement shall—
 
 #### (b) No reductions in payments
 
-No payment made pursuant to this part or the Settlement Agreement shall result in any reduction or denial of any benefits or services under any program of the Federal Government to the Miccosukee Tribe or its members, with respect to which the Tribe or the members of the Tribe are entitled or eligible because of the status of—
+No payment made pursuant to this part or the Settlement Agreement shall result in any reduction or denial of any benefits or services underany program of the Federal Government to the Miccosukee Tribe or its members, with respect to which the Tribe or the members of the Tribe are entitled or eligible because of the status of—
 
 &emsp;(1) the Miccosukee Tribe as a federally recognized Indian tribe; or
 

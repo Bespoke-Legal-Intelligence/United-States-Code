@@ -1,6 +1,6 @@
 ### §469. Training
 
-The Coast Guard may make expenditures for the training of personnel, including books, school supplies, correspondence courses, motion picture equipment, and other equipment for instructional purposes.
+The Coast Guard may make expenditures for the training of personnel, including books,school supplies, correspondence courses, motion picture equipment, and other equipment for instructional purposes.
 
 (Aug. 4, 1949, ch. 393, 63 Stat. 531.)
 

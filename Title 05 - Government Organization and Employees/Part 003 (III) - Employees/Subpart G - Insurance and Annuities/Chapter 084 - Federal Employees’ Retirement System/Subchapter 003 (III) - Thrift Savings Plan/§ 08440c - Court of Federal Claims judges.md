@@ -6,7 +6,7 @@
 
 (b)(1) Except as otherwise provided in this subsection, the provisions of this subchapter and subchapter VII shall apply with respect to Court of Federal Claims judges who make contributions to the Thrift Savings Fund under subsection (a) of this section.
 
-(2) The amount contributed by a Court of Federal Claims judge for any pay period shall not exceed 5 percent of basic pay for such pay period.
+(2) The amount contributed by a Court of Federal Claims judge for any pay period shall not exceed the maximum percentage of such judge's basic pay for such pay period allowable under section 8440f.
 
 (3) No contributions shall be made under section 8432(c) of this title for the benefit of a Court of Federal Claims judge making contributions under subsection (a) of this section.
 
@@ -22,13 +22,15 @@
 
 (8) Notwithstanding paragraph (4), if any Court of Federal Claims judge retires under circumstances making such judge eligible to make an election under section 8433(b), and such judge's nonforfeitable account balance is less than an amount that the Executive Director prescribes by regulation, the Executive Director shall pay the nonforfeitable account balance to the participant in a single payment.
 
-(Added Pub. L. 101–650, title III, §306(d)(1), Dec. 1, 1990, 104 Stat. 5110, §8440b; renumbered §8440c and amended Pub. L. 102–198, §7(c)(1), Dec. 9, 1991, 105 Stat. 1624; Pub. L. 102–572, title IX, §902(b), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–226, §9(g), Mar. 30, 1994, 108 Stat. 121; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §205(c)\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–378.)
+(Added Pub. L. 101–650, title III, §306(d)(1), Dec. 1, 1990, 104 Stat. 5110, §8440b; renumbered §8440c and amended Pub. L. 102–198, §7(c)(1), Dec. 9, 1991, 105 Stat. 1624; Pub. L. 102–572, title IX, §902(b), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–226, §9(g), Mar. 30, 1994, 108 Stat. 121; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §205(c)\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–378; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §138(a)(4)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–233.)
 
 #### Codification
 
 Another section 8440c was renumbered section 8440d of this title.
 
 #### Amendments
+
+2000—Subsec. (b)(2). Pub. L. 106–554 substituted “the maximum percentage of such judge's basic pay for such pay period allowable under section 8440f.” for “5 percent of basic pay for such pay period.”
 
 1996—Subsec. (b)(7). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §205(c)(1)\]\], inserted “of the distribution” after “equal to the amount”.
 
@@ -38,7 +40,7 @@ Subsec. (b)(8). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §205(
 
 Subsec. (b)(5). Pub. L. 103–226, §9(g)(2), substituted “any of the actions described in paragraph (4)(A) or (B) shall be considered” for “retirement under section 178 of title 28 is”.
 
-Subsec. (b)(8), (9). Pub. L. 103–226, §9(g)(3), (4), redesignated par. (9) as (8), substituted “Notwithstanding paragraph (4)” for “Notwithstanding paragraph (4)(A)”,and struck out former par. (8) which read as follows: “Notwithstanding paragraph (4)(B), if any Court of Federal Claims judge who elects to make contributions to the Thrift Savings Fund under subsection (a) retires before becoming entitled to an annuity under section 178 of title 28, and such judge's nonforfeitable account balance is $3,500 or less, the Executive Director shall pay the nonforfeitable account balance to the participant in a single payment unless the judge elects, at such time and otherwise in such manner as the Executive Director prescribes, to have the nonforfeitable account balance transferred to an eligible retirement plan as provided in section 8433(e).”
+Subsec. (b)(8), (9). Pub. L. 103–226, §9(g)(3), (4), redesignated par. (9) as (8), substituted “Notwithstanding paragraph (4)” for “Notwithstanding paragraph (4)(A)”, and struck out former par. (8) which read as follows: “Notwithstanding paragraph (4)(B), if any Court of Federal Claims judge who elects to make contributions to the Thrift Savings Fund under subsection (a) retires before becoming entitled to an annuity under section 178 of title 28, and such judge's nonforfeitable account balance is $3,500 or less, the Executive Director shall pay the nonforfeitable account balance to the participant in a single payment unless the judge elects, at such time and otherwise in such manner as the Executive Director prescribes, to have the nonforfeitable account balance transferred to an eligible retirement plan as provided in section 8433(e).”
 
 1992—Pub. L. 102–572, §902(b)(2), substituted “Court of Federal Claims” for “Claims Court” in section catchline.
 
@@ -58,7 +60,7 @@ Subsec. (b)(9). Pub. L. 102–198, §7(c)(1)(B)(iii), added par. (9).
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–208 effective Sept. 30, 1996, and withdrawals and elections as provided under such amendment to be made at earliest practicable date as determined by Executive Director in regulations, see section 101(f) \[title VI, §659 \[title II, §207\]\] of Pub. L. 104–208, set out as a note under section 5545a of this title.
+Amendment by Pub. L. 104–208 effective Sept. 30, 1996, and withdrawals and elections as provided under suchamendment to be made at earliest practicable date as determined by Executive Director in regulations, see section 101(f) \[title VI, §659 \[title II, §207\]\] of Pub. L. 104–208, set out as a note under section 5545a of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -75,4 +77,8 @@ Section 7(c)(3) of Pub. L. 102–198, as amended by Pub. L. 102–572, title IX,
 #### Effective Date
 
 Section applicable to judges of, and senior judges in active service with, the United States Court of Federal Claims on or after Dec. 1, 1990, see section 306(f) of Pub. L. 101–650, set out as an Effective Date of 1990 Amendment note under section 8331 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 8432 of this title.
 

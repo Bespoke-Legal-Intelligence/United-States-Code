@@ -10,7 +10,7 @@ A record of lawful admission for permanent residence may, in the discretion of t
 
 &emsp;(d) is not ineligible to citizenship and is not deportable under section 1227(a)(4)(B) of this title.
 
-(June 27, 1952, ch. 477, title II, ch. 5, §249, 66 Stat. 219; Pub. L. 85–616, Aug. 8, 1958, 72 Stat. 546; Pub. L. 89–236, §19, Oct. 3, 1965, 79 Stat. 920; Pub. L. 99–603, title II, §203(a), Nov. 6, 1986, 100 Stat. 3405; Pub. L. 100–525, §2(j), Oct. 24, 1988, 102 Stat. 2612; Pub. L. 101–649, title VI, §603(a)(14), Nov. 29, 1990, 104 Stat. 5083; Pub. L. 104–132, title IV, §413(e), Apr. 24, 1996, 110 Stat. 1269; Pub. L. 104–208, div. C, title III, §308(g)(10)(C), Sept. 30, 1996, 110 Stat. 3009–625.)
+(June 27, 1952, ch. 477, title II, ch. 5, §249, 66 Stat. 219; Pub. L. 85–616, Aug. 8, 1958, 72 Stat. 546; Pub. L. 89–236, §19, Oct. 3, 1965, 79 Stat. 920; Pub. L.99–603, title II, §203(a), Nov. 6, 1986, 100 Stat. 3405; Pub. L. 100–525, §2(j), Oct. 24, 1988, 102 Stat. 2612; Pub. L. 101–649, title VI, §603(a)(14), Nov. 29, 1990, 104 Stat. 5083; Pub. L. 104–132, title IV, §413(e), Apr. 24, 1996, 110 Stat. 1269; Pub. L. 104–208, div. C, title III, §308(g)(10)(C), Sept. 30, 1996, 110 Stat. 3009–625.)
 
 #### Amendments
 
@@ -49,28 +49,6 @@ For effective date of amendment by Pub. L. 89–236, see section 20 of Pub. L. 8
 #### Applicability of Numerical Limitations
 
 Section 203(c) of Pub. L. 99–603 provided that: “The numerical limitations of sections 201 and 202 of the Immigration and Nationality Act \[8 U.S.C. 1151, 1152\] shall not apply to aliens provided lawful permanent resident status under section 249 of that Act \[8 U.S.C. 1259\].”
-
-#### Cross References
-
-Definition of the term—
-
-&emsp;&emsp;Alien, see section 1101(a)(3) of this title.
-
-&emsp;&emsp;Attorney General, see section 1101(a)(5) of this title.
-
-&emsp;&emsp;Entry, see section 1101(a)(13) of this title.
-
-&emsp;&emsp;Ineligible to citizenship, see section 1101(a)(19) of this title.
-
-&emsp;&emsp;Lawfully admitted for permanent residence, see section 1101(a)(20) of this title.
-
-&emsp;&emsp;Permanent, see section 1101(a)(31) of this title.
-
-&emsp;&emsp;Person of good moral character, see section 1101(f) of this title.
-
-&emsp;&emsp;Residence, see section 1101(a)(33) of this title.
-
-&emsp;&emsp;United States, see section 1101(a)(38) of this title.
 
 #### Section Referred to in Other Sections
 

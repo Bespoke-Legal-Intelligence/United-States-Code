@@ -10,7 +10,7 @@ Title 4 of the Revised Statutes, referred to in text, was entitled “Provisions
 
 #### Codification
 
-Section was formerly classified to section 591 of Title 5 prior to the general revision and enactment of Title5, Government Organization and Employees, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 591 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378.
 
 #### Transfer of Functions
 
@@ -40,7 +40,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 (a) Except as otherwise provided in subsection (b) of this section, there are hereby transferred to the Secretary of Commerce all functions of all other officers of the Department of Commerce and all functions of all agencies and employees of such Department.
 
-(b) This section shall not apply to the functions vested by the Administrative Procedure Act (60 Stat. 237) \[see 5 U.S.C. 551 et seq. and 701 et seq.\] in hearing examiners employed by the Department of Commerce, nor to the functions of the Civil Aeronautics Board, of the Inland Waterways Corporation, or of the Advisory Board of the Inland Waterways Corporation.
+(b) This section shall not apply to the functions vested by the Administrative Procedure Act (60 Stat. 237)\[see 5 U.S.C. 551 et seq. and 701 et seq.\] in hearing examiners employed by the Department of Commerce, nor to the functions of the Civil Aeronautics Board, of the Inland Waterways Corporation, or of the Advisory Board of the Inland Waterways Corporation.
 
 #### Sec. 2. Performance of Functions of Secretary
 
@@ -72,9 +72,5 @@ The White House, March 13, 1950.
 
 #### Federal Maritime Board, and Maritime Functions of Secretary of Commerce
 
-Section 307 of Reorg. Plan No. 21 of 1950, eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1273, set out in the Appendix to Title 5, Government Organization and Employees, provided that the functions transferred by the provisions of that Plan should not be subject to the provisions of Reorg. Plan No. 5 of 1950, set out above. Said Reorg. Plan No. 21 of 1950 created, within the Department of Commerce, the Federal Maritime Board, and the Maritime Administration, the latter, with a Maritime Administrator at its head. It abolished the United States Maritime Commission, transferring some of its functions and some of the functions of its Chairman to said Federal Maritime Board. It transferred the remainder of the functions of that Commission and its Chairman to the Secretary of Commerce, with powervested in him to authorize their performance by said Maritime Administrator.
-
-#### Cross References
-
-Compensation of Secretary of Commerce, see section 5312 of Title 5, Government Organization and Employees.
+Section 307 of Reorg. Plan No. 21 of 1950, eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1273, set out in the Appendix to Title 5, Government Organization and Employees, provided that the functions transferred by the provisions of that Plan should not be subject to the provisions of Reorg. Plan No. 5 of 1950, set out above. Said Reorg. Plan No. 21 of 1950 created, within the Department of Commerce, the Federal Maritime Board, and the Maritime Administration, the latter, with a Maritime Administrator at its head. It abolished the United States Maritime Commission, transferring some of its functions and some of the functions of its Chairman to said Federal Maritime Board. It transferred the remainder of the functions of that Commission and its Chairman to the Secretary of Commerce, with power vested in him to authorize their performance by said Maritime Administrator.
 

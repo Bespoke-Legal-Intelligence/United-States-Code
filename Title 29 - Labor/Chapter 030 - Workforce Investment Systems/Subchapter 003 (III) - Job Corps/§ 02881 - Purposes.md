@@ -12,3 +12,7 @@ The purposes of this subchapter are—
 
 (Pub. L. 105–220, title I, §141, Aug. 7, 1998, 112 Stat. 1006.)
 
+#### Prior Provisions
+
+Provisions similar to this section were contained in section 1691 of this title prior to repeal by Pub. L. 105–220.
+

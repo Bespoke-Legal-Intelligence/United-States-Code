@@ -2,7 +2,7 @@
 
 #### (a) Authority
 
-The Director shall issue any regulations and orders necessary to carry out the duties of the Director and to carry out this chapter before theexpiration of the 18-month period beginning on the appointment of the Director under section 4512 of this title. Such regulations and orders shall be subject to the approval of the Secretary only to the extent provided in subsections (b) and (c) of section 4513 of this title.
+The Director shall issue any regulations and orders necessary to carry out the duties of the Director and to carry out this chapter before the expiration of the 18-month period beginning on the appointment of the Director under section 4512 of this title. Such regulations and orders shall be subject to the approval of the Secretary only to the extent provided in subsections (b) and (c) of section 4513 of this title.
 
 #### (b) Notice and comment
 
@@ -20,5 +20,5 @@ This chapter, referred to in subsec. (a), was in the original “this title”, 
 
 #### Change of Name
 
-Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 

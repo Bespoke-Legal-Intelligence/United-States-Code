@@ -120,7 +120,7 @@ For definition of “this chapter”, referred to in subsec. (a)(1), see Referen
 
 Public Law 103–317, referred to in subsec. (a)(2)(B)(iii), is Pub. L. 103–317, Aug. 26, 1994, 108 Stat. 1724, known as the Departments of Commerce, Justice, and State, The Judiciary, and Related Agencies Appropriations Act, 1995. For complete classification of this Act to the Code, see Tables.
 
-The Small Business Prepayment Penalty Relief Act of 1994, referred to in subsec. (g), is title V of Pub. L. 103–403, Oct. 22, 1994, 108 Stat. 4198, which enacted this section and provisions set out as notes under this section and section 661 of this title. For complete classification of this Act to the Code, see Short Title of 1994 Amendment note set out under section 661 of this title and Tables.
+The Small Business Prepayment Penalty Relief Act of 1994, referred to in subsec. (g), is title V of Pub. L. 103–403, Oct. 22, 1994, 108 Stat. 4198, which enacted this section and provisions set out as notes under this section and section 661 of this title. For complete classification of this Act to the Code, see Short Title of 1994Amendment note set out under section 661 of this title and Tables.
 
 #### Amendments
 

@@ -8,7 +8,7 @@ Section 1543, acts June 25, 1948, ch. 646, 62 Stat. 943; Oct. 10, 1980, Pub. L. 
 
 Section 1544, added Pub. L. 89–651, §8(c)(1), Oct. 14, 1966, 80 Stat. 901, gave the Court of Customs and Patent Appeals jurisdiction to review, by appeal on questions of law only, findings of the Secretary of Commerce under headnote 6 to schedule 8, part 4, of the Tariff Schedules of the United States (relating to importation of instruments or apparatus). See section 1295(a)(7) of this title.
 
-Section 1545, added Pub. L. 91–577, title III, §143(a), Dec. 24, 1970, 84 Stat. 1558, gave the Court of Customsand Patent Appeals nonexclusive jurisdiction of appeals under section 71 of the Plant Variety Protection Act, classified to section 2461 of Title 7, Agriculture. See section 1295(a)(8) of this title.
+Section 1545, added Pub. L. 91–577, title III, §143(a), Dec. 24, 1970, 84 Stat. 1558, gave the Court of Customs and Patent Appeals nonexclusive jurisdiction of appeals under section 71 of the Plant Variety Protection Act, classified to section 2461 of Title 7, Agriculture. See section 1295(a)(8) of this title.
 
 Section 1546, added Pub. L. 96–417, title IV, §402(a), Oct. 10, 1980, 94 Stat. 1740, gave the Court of Customs and Patent Appeals all of the powers in law and in equity of, or conferred by statute upon, a court of appeals of the United States.
 

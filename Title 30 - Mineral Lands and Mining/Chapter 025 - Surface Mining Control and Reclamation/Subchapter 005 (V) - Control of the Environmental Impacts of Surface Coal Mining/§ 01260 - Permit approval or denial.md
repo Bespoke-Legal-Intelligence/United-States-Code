@@ -18,7 +18,7 @@ No permit or revision application shall be approved unless the application affir
 
 &emsp;(5) the proposed surface coal mining operation, if located west of the one hundredth meridian west longitude, would—
 
-&emsp;&emsp;(A) not interrupt, discontinue, or preclude farming on alluvial valley floors that are irrigated or naturally subirrigated, but, excluding undeveloped range lands which are not significant to farming on said alluvial valley floors and those lands as to which theregulatory authority finds that if the farming that will be interrupted, discontinued, or precluded is of such small acreage as to be of negligible impact on the farm's agricultural production, or
+&emsp;&emsp;(A) not interrupt, discontinue, or preclude farming on alluvial valley floors that are irrigated or naturally subirrigated, but, excluding undeveloped range lands which are not significant to farming on said alluvial valley floors and those lands as to which the regulatory authority finds that if the farming that will be interrupted, discontinued, or precluded is of such small acreage as to be of negligible impact on the farm's agricultural production, or
 
 &emsp;&emsp;(B) not materially damage the quantity or quality of water in surface or underground water systems that supply these valley floors in (A) of subsection (b)(5) of this section:
 
@@ -46,7 +46,7 @@ The applicant shall file with his permit application a schedule listing any and 
 
 #### (e) Modification of prohibition
 
-After October 24, 1992, the prohibition of subsection (c) of this section shall not apply to a permit application due to any violation resulting from an unanticipated event or condition at a surface coal mining operation on lands eligible for remining under a permit held by the person making such application. As used in this subsection, the term “violation” has the same meaning as such term has under subsection (c)of this section. The authority of this subsection and section 1265(b)(20)(B) of this title shall terminate on September 30, 2004.
+After October 24, 1992, the prohibition of subsection (c) of this section shall not apply to a permit application due to any violation resulting from an unanticipated event or condition at a surface coal mining operation on lands eligible for remining under a permit held by the person making such application. As used in this subsection, the term “violation” has the same meaning as such term has under subsection (c) of this section. The authority of this subsection and section 1265(b)(20)(B) of this title shall terminate on September 30, 2004.
 
 (Pub. L. 95–87, title V, §510, Aug. 3, 1977, 91 Stat. 480; Pub. L. 102–486, title XXV, §2503(a), Oct. 24, 1992, 106 Stat. 3102.)
 

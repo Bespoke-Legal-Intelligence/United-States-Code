@@ -62,7 +62,7 @@ The Secretary shall select applications for grants under this section based upon
 
 #### (1) Eligibility
 
-&emsp;Notwithstanding any other provision of law, a multifamily project which includes one or more dwelling units that have been converted to assisted living facilities using grants madeunder this section shall be eligible for project-based assistance under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\], in the same manner in which the project would be eligible for such assistance but for the assisted living facilities in the project.
+&emsp;Notwithstanding any other provision of law, a multifamily project which includes one or more dwelling units that have been converted to assisted living facilities using grants made under this section shall be eligible for project-based assistance under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\], in the same manner in which the project would be eligible for such assistance but for the assisted living facilities in the project.
 
 #### (2) Calculation of rent
 

@@ -20,7 +20,7 @@ Notwithstanding any other provision of this subchapter, the Secretary may permit
 
 (1) Within 15 days of receiving an application, the Secretary shall determine whether the application has produced sufficient evidence to warrant establishing a Pinniped-Fishery Interaction Task Force to address the situation described in the application. If the Secretary determines sufficient evidence has been provided, the Secretary shall establish a Pinniped-Fishery Interaction Task Force and publish a notice in the Federal Register requesting public comment on the application.
 
-(2) A Pinniped-Fishery Interaction Task Force established under paragraph (1) shall consist of designated employees of the Department of Commerce, scientists who are knowledgeable about the pinniped interaction that the application addresses, representatives of affected conservation and fishing community organizations, Indian Treaty tribes, the States, and such otherorganizations as the Secretary deems appropriate.
+(2) A Pinniped-Fishery Interaction Task Force established under paragraph (1) shall consist of designated employees of the Department of Commerce, scientists who are knowledgeable about the pinniped interaction that the application addresses, representatives of affected conservation and fishing community organizations, Indian Treaty tribes, the States, and such other organizations as the Secretary deems appropriate.
 
 (3) Within 60 days after establishment, and after reviewing public comments in response to the Federal Register notice under paragraph (1), the Pinniped-Fishery Interaction Task Force shall—
 
@@ -70,7 +70,7 @@ The Secretary shall not approve the intentional lethal taking of any pinniped fr
 
 (4) There are authorized to be appropriated to the Secretary such sums as are necessary to carry out the provisions of this subsection.
 
-(5) The amounts appropriated under section 4107(c) of this title and allocated to the Pacific States Marine Fisheries Commission may be used by the Commission to participate in discussions with the Secretary under paragraph (2).
+(5) The amounts appropriated under section 4107(c) of this title and allocated to the Pacific States Marine Fisheries Commission may beused by the Commission to participate in discussions with the Secretary under paragraph (2).
 
 #### (g) Regionwide pinniped-fishery interaction study
 
@@ -84,7 +84,7 @@ The Secretary shall not approve the intentional lethal taking of any pinniped fr
 
 &emsp;(D) other issues the Secretary considers relevant.
 
-(2) Subject to the availability of appropriations, the Secretary may, not later than 18months after the commencement of the study under this subsection, transmit a report on the results of the study to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Merchant Marine and Fisheries of the House of Representatives.
+(2) Subject to the availability of appropriations, the Secretary may, not later than 18 months after the commencement of the study under this subsection, transmit a report on the results of the study to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Merchant Marine and Fisheries of the House of Representatives.
 
 (3) The study conducted under this subsection may not be used by the Secretary as a reason for delaying or deferring a determination or consideration under subsection (c) or (d) of this section.
 

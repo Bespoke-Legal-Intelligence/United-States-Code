@@ -18,7 +18,7 @@ Not later than 6 months after January 7, 1983, and notwithstanding the failure o
 
 &emsp;(E) an assessment of the regional and local impacts of locating the proposed test and evaluation facility at such site.
 
-(2) When the Secretary identifies a site, the Secretary shall as soon as possible notify theGovernor of the State in which such site is located, or the governing body of the affected Indian tribe where such site is located, of such identification and the basis of such identification. Additional sites for the location of the test and evaluation facility authorized in section 10222(d) of this title may be identified after such 1 year period, following the same procedure as if such sites had been identified within such period.
+(2) When the Secretary identifies a site, the Secretary shall as soon as possible notify the Governor of the State in which such site is located, or the governing body of the affected Indian tribe where such site is located, of such identification and the basis of such identification. Additional sites for the location of the test and evaluation facility authorized in section 10222(d) of this title may be identified after such 1 year period, following the same procedure as if such sites had been identified within such period.
 
 (Pub. L. 97–425, title II, §213, Jan. 7, 1983, 96 Stat. 2245; Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 1000.)
 

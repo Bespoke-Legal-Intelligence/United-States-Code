@@ -50,11 +50,11 @@ For purposes of this section, the term “qualified railroad retirement benefici
 
 (1)(A) For purposes of determining entitlement to hospital insurance benefits under subsection (b) of this section in the case of widows and widowers described in paragraph (2)(A)(iii) thereof—
 
-&emsp;(i) the term “age 60” in sections 402(e)(1)(B)(ii), 402(e)(4), 402(f)(1)(B)(ii), and402(f)(5) of this title shall be deemed to read “age 65”; and
+&emsp;(i) the term “age 60” in sections 402(e)(1)(B)(ii), 402(e)(4), 402(f)(1)(B)(ii), and 402(f)(5) of this title shall be deemed to read “age 65”; and
 
 &emsp;(ii) the phrase “before she attained age 60” in the matter following subparagraph (F) of section 402(e)(1) of this title and the phrase “before he attained age 60” in the matter following subparagraph (F) of section 402(f)(1) of this title shall each be deemed to read “based on a disability”.
 
-(B) For purposes of subsection (b)(2)(A)(iii) of this section, each month in the period commencing with the first month for which an individual is first eligible for supplemental security income benefits under subchapter XVI of this chapter, or State supplementary payments of the type referred to in section 1382e(a) of this title (or payments of the type described in section 212(a) of Public Law 93–66) which are paid by the Secretary under an agreement referred to in section 1382e(a) of this title (or in section 212(b) of Public Law 93–66), shall be included as one of the 24 months for which such individual must have been entitled to widow's or widower's insurance benefits on the basis of disability in order to become entitled to hospital insurance benefits on that basis.
+(B) For purposes of subsection (b)(2)(A)(iii) of this section, each month in the period commencing with the first month for which an individual is first eligible for supplemental security income benefits under subchapter XVI of this chapter, or State supplementary payments of the type referred to in section 1382e(a) of thistitle (or payments of the type described in section 212(a) of Public Law 93–66) which are paid by the Secretary under an agreement referred to in section 1382e(a) of this title (or in section 212(b) of Public Law 93–66), shall be included as one of the 24 months for which such individual must have been entitled to widow's or widower's insurance benefits on the basis of disability in order to become entitled to hospital insurance benefits on that basis.
 
 (2) For purposes of determining entitlement to hospital insurance benefits under subsection (b) of this section in the case of an individual under age 65 who is entitled to benefits under section 402 of this title, and who was entitled to widow's insurance benefits or widower's insurance benefits based on disability for the month before the first month in which such individual was so entitled to old-age insurance benefits (but ceased to be entitled to such widow's or widower's insurance benefits upon becoming entitled to such old-age insurance benefits), such individual shall be deemed to have continued to be entitled to such widow's insurance benefits or widower's insurance benefits for and after such first month.
 
@@ -76,15 +76,25 @@ For purposes of subsection (b) of this section (and for purposes of section 1395
 
 The Secretary and Director of the Office of Personnel Management shall jointly prescribe and carry out procedures designed to assure that all individuals who perform medicare qualified government employment by virtue of service described in section 410(a)(5) of this title are fully informed with respect to (1) their eligibility or potential eligibility for hospital insurance benefits (based on such employment) under part A of subchapter XVIII of this chapter, (2) the requirements for and conditions of such eligibility, and (3) the necessity of timely application as a condition of entitlement under subsection (b)(2)(C) of this section, giving particular attention to individuals who apply for an annuity under chapter 83 <sup>1</sup> of title 5 or under another similar Federal retirement program, and whose eligibility for such an annuity is or would be based on a disability.
 
-#### (h) Certain uninsured individuals
+#### (h) Waiver of waiting period for individuals with ALS
 
-For entitlement to hospital insurance benefits in the case of certain uninsured individuals, see section 426a of this title.
+For purposes of applying this section in the case of an individual medically determined to have amyotrophic lateral sclerosis (ALS), the following special rules apply:
+
+&emsp;(1) Subsection (b) of this section shall be applied as if there were no requirement for any entitlement to benefits, or status, for a period longer than 1 month.
+
+&emsp;(2) The entitlement under such subsection shall begin with the first month (rather than twenty-fifth month) of entitlement or status.
+
+&emsp;(3) Subsection (f) of this section shall not be applied.
 
 #### (i) Continuing eligibility of certain terminated individuals
 
 For purposes of this section, each person whose monthly insurance benefit for any month is terminated or is otherwise not payable solely by reason of paragraph (1) or (7) of section 425(c) <sup>2</sup> of this title shall be treated as entitled to such benefit for such month.
 
-(Aug. 14, 1935, ch. 531, title II, §226, as added Pub. L. 89–97, title I, §101, July 30, 1965, 79 Stat. 290; amended Pub. L. 90–248, title I, §129(c)(1), Jan. 2,1968, 81 Stat. 847; Pub. L. 92–603, title II, §§201(b), 299I, Oct. 30, 1972, 86 Stat. 1371, 1463; Pub. L. 93–58, §3, July 6, 1973, 87 Stat. 142; Pub. L. 93–233, §18(f), Dec. 31, 1973, 87 Stat. 969; Pub. L. 93–445, title III, §305, Oct. 16, 1974, 88 Stat. 1358; Pub. L. 95–216, title III, §§332(a)(3), 334(d)(4)(B), Dec. 20, 1977, 91 Stat. 1543, 1546; Pub. L. 95–292, §§1(b), 3, June 13, 1978, 92 Stat. 308, 315; Pub. L. 96–265, title I, §§103(a)(1), (b), 104(a), June 9, 1980, 94 Stat. 444; Pub. L. 96–473, §2(a), Oct. 19, 1980, 94 Stat. 2263; Pub. L. 96–499, title IX, §930(q), Dec. 5, 1980, 94 Stat. 2633; Pub. L. 97–35, title XXII, §2203(e), Aug. 13, 1981, 95 Stat. 837; Pub. L. 97–248, title II, §278(b)(2)(A), (B), (4), Sept. 3, 1982, 96 Stat. 560, 561; Pub. L. 98–21, title I, §131(a)(3)(H), (b)(3)(G), title III, §309(q)(1), Apr. 20, 1983, 97 Stat. 93, 117; Pub. L. 98–369, div. B, title VI, §2663(a)(17), July 18, 1984, 98 Stat. 1165; Pub. L. 99–272, title XIII, §13205(b)(2)(A), (C)(ii), Apr. 7, 1986, 100 Stat. 317; Pub. L. 100–203, title IV, §4033(a), formerly §4033(a)(1), title IX, §9010(e)(3), Dec. 22, 1987, 101 Stat. 1330–77, 1330–294, renumbered Pub. L. 100–360, title IV, §411(e)(2), July 1, 1988, 102 Stat. 775; Pub. L. 100–360, title IV, §411(n)(1), July 1, 1988, 102 Stat. 807; Pub. L. 100–485, title VI, §608(f)(5), Oct. 13, 1988, 102 Stat. 2424; Pub. L. 101–508, title V, §5103(c)(2)(C), Nov. 5, 1990, 104 Stat. 1388–252; Pub. L. 103–296, title II, §201(a)(3)(D)(i), Aug. 15, 1994, 108 Stat. 1497; Pub. L. 105–33, title IV, §4002(f)(1), Aug. 5, 1997, 111 Stat. 329; Pub. L. 106–170, title II, §202(a), Dec. 17, 1999, 113 Stat. 1894.)
+#### (j) Certain uninsured individuals
+
+For entitlement to hospital insurance benefits in the case of certain uninsured individuals, see section 426a of this title.
+
+(Aug. 14, 1935, ch. 531, title II, §226, as added Pub. L. 89–97, title I, §101, July 30, 1965, 79 Stat. 290; amended Pub. L. 90–248, title I, §129(c)(1), Jan. 2,1968, 81 Stat. 847; Pub. L. 92–603, title II, §§201(b), 299I, Oct. 30, 1972, 86 Stat. 1371, 1463; Pub. L. 93–58, §3, July 6, 1973, 87 Stat. 142; Pub. L. 93–233, §18(f), Dec. 31, 1973, 87 Stat. 969; Pub. L. 93–445, title III, §305, Oct. 16, 1974, 88 Stat. 1358; Pub. L. 95–216, title III, §§332(a)(3), 334(d)(4)(B), Dec. 20, 1977, 91 Stat. 1543, 1546; Pub. L. 95–292, §§1(b), 3, June 13, 1978, 92 Stat. 308, 315; Pub. L. 96–265, title I, §§103(a)(1), (b), 104(a), June 9, 1980, 94 Stat. 444; Pub. L. 96–473, §2(a), Oct. 19, 1980, 94 Stat. 2263; Pub. L. 96–499, title IX, §930(q), Dec. 5, 1980, 94 Stat. 2633; Pub. L. 97–35, title XXII, §2203(e), Aug. 13, 1981, 95 Stat. 837; Pub. L. 97–248, title II, §278(b)(2)(A), (B), (4), Sept. 3, 1982, 96 Stat. 560, 561; Pub. L. 98–21, title I, §131(a)(3)(H), (b)(3)(G), title III, §309(q)(1), Apr. 20, 1983, 97 Stat. 93, 117; Pub. L. 98–369, div. B, title VI, §2663(a)(17), July 18, 1984, 98 Stat. 1165; Pub. L. 99–272, title XIII, §13205(b)(2)(A), (C)(ii), Apr. 7, 1986, 100 Stat. 317; Pub. L. 100–203, title IV, §4033(a), formerly §4033(a)(1), title IX, §9010(e)(3), Dec. 22, 1987, 101 Stat. 1330–77, 1330–294, renumbered Pub. L. 100–360, title IV, §411(e)(2), July 1, 1988, 102 Stat. 775; Pub. L. 100–360, title IV, §411(n)(1), July 1, 1988, 102 Stat. 807; Pub. L. 100–485, title VI, §608(f)(5), Oct. 13, 1988, 102 Stat. 2424; Pub. L. 101–508, title V, §5103(c)(2)(C), Nov. 5, 1990, 104 Stat. 1388–252; Pub. L. 103–296, title II, §201(a)(3)(D)(i), Aug. 15, 1994, 108 Stat. 1497; Pub. L. 105–33, title IV, §4002(f)(1), Aug. 5, 1997, 111 Stat. 329; Pub. L. 106–170, title II, §202(a), Dec. 17, 1999, 113 Stat. 1894; Pub. L. 106–554, §1(a)(6) \[title I, §115(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–474.)
 
 #### References in Text
 
@@ -95,6 +105,8 @@ Section 212 of Public Law 93–66, referred to in subsec. (e)(1)(B), is section 
 Section 425(c) of this title, referred to in subsec. (i), was repealed by Pub. L. 104–121, title I, §105(a)(4), Mar. 29, 1996, 110 Stat. 853.
 
 #### Amendments
+
+2000—Subsecs. (h), (j). Pub. L. 106–554 added subsec. (h) and redesignated former subsec. (h) as (j) and transferred such subsec. to appear at end of section.
 
 1999—Subsec. (b). Pub. L. 106–170 substituted “78” for “24” in penultimate sentence.
 
@@ -142,7 +154,7 @@ Subsec. (c)(1). Pub. L. 96–499 substituted “and home health services” for 
 
 Subsecs. (f), (g). Pub. L. 96–265, §103(b), added subsec. (f) and redesignated former subsec. (f) as (g).
 
-1978—Subsec. (a). Pub. L. 95–292, §3(a), substituted “condition specified in paragraph (1), beginning with the first month after June 1966 for which he meets the conditions specified in paragraphs (1) and (2)” for “conditions specified in subparagraph (B), beginning withthe first month after June 1966 for which he meets the conditions specified in subparagraphs (A) and (B)”.
+1978—Subsec. (a). Pub. L. 95–292, §3(a), substituted “condition specified in paragraph (1), beginning with the first month after June 1966 for which he meets the conditions specified in paragraphs (1) and (2)” for “conditions specified in subparagraph (B), beginning with the first month after June 1966 for which he meets the conditions specified in subparagraphs (A) and (B)”.
 
 Subsec. (e). Pub. L. 95–292, §§1(b)(1), (2), 3(b), redesignated subsec. (h) as (e) and, in subsec. (e) as so redesignated, corrected a technical error resulting from the 1973 amendment of pars. (2) and (3) by Pub. L. 93–233 under which a reference to subsec. (b) of this section had been inserted without the required parentheses. Former subsec. (e), relating to Medicare eligibility of persons medically determined to have chronic renal disease requiring hemodialysis or renal transplantation, was struck out. See section 426–1 of this title.
 
@@ -187,6 +199,10 @@ Subsecs. (e) to (h). Pub. L. 92–603, §§201(b)(5), 299I, added subsecs. (e) t
 Subsec. (i). Pub. L. 92–603, §201(b)(5), redesignated former subsec. (d) as subsec. (i). See 1973 Amendment note above.
 
 1968—Subsec. (b)(1). Pub. L. 90–248 struck out outpatient hospital diagnostic services from services for which hospital insurance benefits are payable.
+
+#### Effective Date of 2000 Amendment
+
+Pub. L. 106–554, §1(a)(6) \[title I, §115(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–474, provided that: “The amendments made by this section \[amending this section and section 1395p of this title\] shall apply to benefits for months beginning July 1, 2001.”
 
 #### Effective Date of 1999 Amendment
 
@@ -288,7 +304,7 @@ Section 104(b) of Pub. L. 96–265 provided that: “The amendments made by subs
 
 #### Effective Date of 1978 Amendment
 
-Section 6 of Pub. L. 95–292 provided that: “The amendments made by the preceding sections of this Act \[enacting sections 426–1 and 1395rr of this title and amending this section and sections 1395c, 1395i, 1395<i>l</i>, 1395t, 1395x, 1395cc, and 1395mm of this title\] shall become effective with respect to services, supplies, and equipment furnished after the third calendar month which begins after the date of the enactment of this Act \[June 13, 1978\], except that those amendments providing for the implementation of an incentive reimbursement system for dialysis services furnished in facilities and providers shall become effective with respect to a facility's or provider's first accounting period which begins after the last day of the twelfth month following the month of the enactment of this Act \[June 1978\], and those amendments providing for reimbursement rates for home dialysis shall become effective on April 1, 1979.”
+Section 6 of Pub. L. 95–292 provided that: “The amendments made by the preceding sections of this Act\[enacting sections 426–1 and 1395rr of this title and amending this section and sections 1395c, 1395i, 1395<i>l</i>, 1395t, 1395x, 1395cc, and 1395mm of this title\] shall become effective with respect to services, supplies, and equipment furnished after the third calendar month which begins after the date of the enactment of this Act \[June 13, 1978\], except that those amendments providing for the implementation of an incentive reimbursement system for dialysis services furnished in facilities and providers shall become effective with respect to a facility's or provider's first accounting period which begins after the last day of the twelfth month following the month of the enactment of this Act \[June 1978\], and those amendments providing for reimbursement rates for home dialysis shall become effective on April 1, 1979.”
 
 #### Effective Date of 1977 Amendment
 
@@ -342,7 +358,7 @@ Special payment of $50 as soon as practicable after Mar. 29, 1975, by the Secret
 
 #### Adopted Child's Reenlistment to Annuity
 
-Section 4(b) of Pub. L. 93–58 provided that: “Any child (1) whose entitlement to an annuity under section 5(c) of the Railroad Retirement Act \[section 228e(c) of Title 45, Railroads\] was terminated by reason of his adoption prior to the enactment of this Act \[July 6, 1973\], and (2) who, except for such adoption, would be entitled to an annuity under such section for a month after the month in which this Act is enacted \[July 1973\], may, upon filing application for an annuity under the Railroad Retirement Act \[section 228a et seq. of Title 45\] after the date of enactment of this Act \[July 6, 1973\], become reentitled to such annuity; except that no child shall, by reason of the enactment of this Act \[amending this section and sections 228c, 228e of Title 45\] become reentitled to such annuity for any month prior to the effective date of the relevant amendments made by this Act to section 5(<i>l</i>)(1)(ii) of the Railroad Retirement Act \[section 228e(<i>l</i>)(1)(ii)\].”
+Section 4(b) of Pub. L. 93–58 provided that: “Any child (1) whose entitlement to an annuity under section 5(c) of the Railroad Retirement Act \[section 228e(c) of Title 45, Railroads\] was terminated by reason of his adoption prior to the enactment of this Act \[July 6, 1973\], and (2) who, except for such adoption, would be entitled to anannuity under such section for a month after the month in which this Act is enacted \[July 1973\], may, upon filing application for an annuity under the Railroad Retirement Act \[section 228a et seq. of Title 45\] after the date of enactment of this Act \[July 6, 1973\], become reentitled to such annuity; except that no child shall, by reason of the enactment of this Act \[amending this section and sections 228c, 228e of Title 45\] become reentitled to such annuity for any month prior to the effective date of the relevant amendments made by this Act to section 5(<i>l</i>)(1)(ii) of the Railroad Retirement Act \[section 228e(<i>l</i>)(1)(ii)\].”
 
 #### Section Referred to in Other Sections
 

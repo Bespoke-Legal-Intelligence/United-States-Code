@@ -150,13 +150,17 @@ In emergency situations, if the Secretary determines it is necessary to protect 
 
 #### (f) Discrimination against participants
 
-If the Secretary determines that any recipient under this chapter has discharged or in any other manner discriminated against a participant or against any individual in connection with the administration of the program involved, or against any individual because such individual has filed any complaint or instituted or caused to be instituted any proceeding under or related to this chapter, or has testified or is about to testify in any such proceeding or investigation under or related to this chapter, or otherwise unlawfully denied to any individual a benefit to which that individual is entitled under the provisions of this chapter or the Secretary's regulations, the Secretary shall, within30 days, take such action or order such corrective measures, as necessary, with respect to the recipient or the aggrieved individual, or both.
+If the Secretary determines that any recipient under this chapter has discharged or in any other manner discriminated against a participant or against any individual in connection with the administration of the program involved, or against any individual because such individual has filed any complaint or instituted or caused to be instituted any proceeding under or related to this chapter, or has testified or is about to testify in any such proceeding or investigation under or related to this chapter, or otherwise unlawfully denied to any individual a benefit to which that individual is entitled under the provisions of this chapter or the Secretary's regulations, the Secretary shall, within 30 days, take such action or order such corrective measures, as necessary, with respect to the recipient or the aggrieved individual, or both.
 
 #### (g) Remedies
 
 The remedies described in this section shall not be construed to be the exclusive remedies available for violations described in this section.
 
 (Pub. L. 105–220, title I, §184, Aug. 7, 1998, 112 Stat. 1042.)
+
+#### Prior Provisions
+
+Provisions similar to this section were contained in section 1574 of this title prior to repeal by Pub. L. 105–220.
 
 #### Section Referred to in Other Sections
 

@@ -32,5 +32,5 @@ Words “(other than any provision of such titles which amends another law)”, 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 6239, 6241 of this title; title 15 section 2841; title 28 section 1295.
+This section is referred to in sections 6239, 6241, 6250d of this title; title 15 section 2841; title 28 section 1295.
 

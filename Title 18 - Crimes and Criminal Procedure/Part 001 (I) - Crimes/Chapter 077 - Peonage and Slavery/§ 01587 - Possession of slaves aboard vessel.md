@@ -16,10 +16,6 @@ Minor change was made in phraseology.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
 
-#### Cross References
-
-Slavery abolished, see Const. Amend. 13.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1961 of this title.

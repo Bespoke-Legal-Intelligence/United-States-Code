@@ -20,7 +20,7 @@ Provisional Notification.—(1) The Secretary of Transportation may order a manu
 
 (b)
 
-Civil Actions for Not Notifying.—(1) A manufacturer that does not notify owners and purchasers under section 30119(c) and (d) of this title is liable to the United States Government for a civil penalty, unless the manufacturer prevails in a civil action referred to in subsection (a) of this section or the court in that action enjoins enforcement of the order. Enforcement may be enjoined only if the court decides that the failure to notify is reasonable and that the manufacturer has demonstrated the likelihood of prevailing on the merits. If enforcement is enjoined, the manufacturer is not liable during the time the order is stayed.
+Civil Actions for Not Notifying.—(1) A manufacturer that does not notify owners and purchasers under section 30119(c) and (d) of this title is liable to the United States Government for a civil penalty, unless the manufacturer prevails in a civil action referred to in subsection (a) of this section or the court in that action enjoins enforcement of the order. Enforcement may be enjoined only if the court decides thatthe failure to notify is reasonable and that the manufacturer has demonstrated the likelihood of prevailing on the merits. If enforcement is enjoined, the manufacturer is not liable during the time the order is stayed.
 
 (2) A manufacturer that does not notify owners and purchasers as required under subsection (a) of this section is liable for a civil penalty regardless of whether the manufacturer prevails in an action on the validity of the order issued under section 30118(b) of this title.
 
@@ -102,5 +102,5 @@ In subsection (d), the words “Notwithstanding section 30163(c) of this title�
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 30102, 30103, 30117, 30119, 30120, 30141, 30147, 30163, 30165, 30167 of this title.
+This section is referred to in sections 30102, 30103, 30117, 30119, 30120, 30141, 30147, 30163, 30165, 30166, 30167 of this title.
 

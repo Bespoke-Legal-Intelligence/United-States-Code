@@ -48,7 +48,7 @@ A census under this section shall include—
 
 #### (2) Information provided to Secretary of Commerce
 
-&emsp;On a written request by the Secretary of Commerce, the Secretary of Agriculture may provide to the Secretary of Commerce any information collected in a census taken under this section that the Secretary of Commerce considers necessary for the taking of a census or survey under title 13.
+&emsp;On a written request by the Secretary of Commerce, the Secretary of Agriculture may provide to the Secretary of Commerce any information collected in a census taken under this section that the Secretary of Commerceconsiders necessary for the taking of a census or survey under title 13.
 
 #### (3) Confidentiality
 

@@ -2,7 +2,7 @@
 
 #### (a) General authority
 
-(1)(A) The Board of Trustees of Gallaudet University is authorized, in accordance with the agreement under section 4305 of this title, to maintain and operate exemplary elementary and secondary education programs, projects, and activities for the primary purpose of developing, evaluating, and disseminating innovative curricula, instructional techniques and strategies, and materials that can be used in various educational environments serving individuals who are deaf or hard of hearing throughout the Nation.
+(1)(A) The Board of Trustees of Gallaudet University is authorized, in accordance with the agreement under section 4305 of this title, to maintain and operate exemplary elementary and secondary education programs, projects, and activities for the primary purpose of developing, evaluating, and disseminating innovative curricula, instructional techniques and strategies, and materials that can be used in various educational environments serving individuals whoare deaf or hard of hearing throughout the Nation.
 
 (B) The elementary and secondary education programs described in subparagraph (A) shall serve students with a broad spectrum of needs, including students who are lower achieving academically, who come from non-English-speaking homes, who have secondary disabilities, who are members of minority groups, or who are from rural areas.
 
@@ -68,11 +68,7 @@
 
 #### References in Text
 
-The Individuals with Disabilities Education Act, referred to in subsecs. (a)(2)(B) and (b)(3), (4)(C), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Part B of the Act is classified generally to subchapter II (§1411 et seq.) of chapter 33 of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
-
-#### Codification
-
-Section is also set out in D.C. Code, §31–1841.3a.
+The Individuals with Disabilities Education Act, referred to in subsecs. (a)(2)(B) and (b)(3), (4)(C), is titleVI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Part B of the Act is classified generally to subchapter II (§1411 et seq.) of chapter 33 of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
 #### Amendments
 

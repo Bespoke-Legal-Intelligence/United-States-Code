@@ -98,6 +98,12 @@ Amendment by Pub. L. 97–276 effective at 5 o'clock ante meridian eastern dayli
 
 Section 1 of Pub. L. 100–523 provided: “That this Act \[amending this section\] may be cited as the ‘Forest Wildfire Emergency Pay Equity Act of 1988’.”
 
+#### Premium Pay for Protective Services of United States Secret Service
+
+Pub. L. 106–554, §1(a)(3) \[title I, §118\], Dec. 21, 2000, 114 Stat. 2763, 2763A–134, provided that: “Hereafter, funds made available by this or any other Act may be used to pay premium pay for protective services authorized by section 3056(a) of title 18, United States Code, without regard to the limitation on the rate of pay payable during a pay period contained in section 5547(c)(2) of title 5, United States Code, except that such premium pay shall not be payable to an employee to the extent that the aggregate of the employee's basic and premium pay for the year would otherwise exceed the annual equivalent of that limitation. The term premium pay refers tothe provisions of law cited in the first sentence of section 5547(a) of title 5, United States Code. Payment of additional premium pay payable under this section may be made in a lump sum on the last payday of the calendar year.”
+
+Similar provisions were contained in Pub. L. 106–58, title I, §118, Sept. 29, 1999, 113 Stat. 441.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in title 2 section 1371.

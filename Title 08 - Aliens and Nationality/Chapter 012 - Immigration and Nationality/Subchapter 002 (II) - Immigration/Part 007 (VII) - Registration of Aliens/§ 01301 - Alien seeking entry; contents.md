@@ -18,10 +18,6 @@ Amendment by Pub. L. 100–525 effective as if included in the enactment of the 
 
 Amendment by Pub. L. 99–653 applicable to applications for immigrant visas made, and visas issued, on or after Nov. 14, 1986, see section 23(b) of Pub. L. 99–653, set out as a note under section 1201 of this title.
 
-#### Cross References
-
-Definition of alien, entry, and United States, see section 1101 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1303, 1304 of this title.

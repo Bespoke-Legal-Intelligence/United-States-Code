@@ -18,7 +18,7 @@
 
 &emsp;(8) it is the proper and appropriate role of the Federal Government to undertake research and development, to participate in demonstration programs for wind energy systems, and to assist private industry, other entities, and the general public in hastening the widespread utilization of such systems;
 
-&emsp;(9) the widespread use of wind energy systems to supplement and replace conventional methods for the generation of electricity and mechanical power would have a beneficial effect upon the environment;
+&emsp;(9) the widespread use of wind energy systems to supplement and replace conventionalmethods for the generation of electricity and mechanical power would have a beneficial effect upon the environment;
 
 &emsp;(10) the evaluation of the performance and reliability of wind energy technologies can be expedited by the testing of prototypes under carefully controlled conditions;
 

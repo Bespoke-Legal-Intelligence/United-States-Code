@@ -6,7 +6,3 @@
 
 (Dec. 29, 1945, ch. 652, title I, §7(a), (b), 59 Stat. 671.)
 
-#### Cross References
-
-Diplomatic and semidiplomatic immunities, generally, see section 1102 of Title 8, Aliens and Nationality.
-

@@ -32,9 +32,3 @@ This section \[section 44\] conforms section 2117 of title 18, U.S.C., more clos
 
 Ex. Ord. No. 11836, Jan. 27, 1975, 40 F.R. 4255, which assigned responsibilities to Federal departments and agencies with respect to the National Cargo Security Program, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
 
-#### Cross References
-
-Destruction of property moving in commerce, see section 80501 of Title 49, Transportation.
-
-Entering train to commit murder or robbery, see section 1991 of this title.
-

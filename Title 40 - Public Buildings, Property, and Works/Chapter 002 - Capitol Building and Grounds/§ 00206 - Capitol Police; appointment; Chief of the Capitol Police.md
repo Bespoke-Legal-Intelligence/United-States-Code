@@ -148,13 +148,3 @@ House Resolution No. 420, One Hundred First Congress, June 26, 1990, made perman
 
 House Resolution No. 661, Ninety-fifth Congress, July 29, 1977, made permanent law Pub. L. 95–391, title I, §111, Sept. 30, 1978, 92 Stat. 777, and amended by Pub. L. 104–186, title II, §221(9)(A), Aug. 20, 1996, 110 Stat. 1749, established the position of General Counsel to the Chief of the Capitol Police, for duty under the House of Representatives, at a per annum gross rate of compensation which is equal to the rate in effect from time to time for HS level 10, step 1, of the House Employees Schedule, such appointment to be made by the Capitol Police Board, subject to the prior approval of the Committee on House Oversight \[now Committee on House Administration\], without regard to political affiliation and solely on the basis of fitness to perform the duties of the position.
 
-#### Cross References
-
-Library of Congress special police, see section 167 of Title 2, The Congress.
-
-Removal or suspension of Capitol police officer, see section 208 of this title.
-
-Secret Service Uniformed Division, see section 202 et seq. of Title 3, The President.
-
-Supreme Court Police, see section 13f of this title.
-

@@ -138,6 +138,20 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER III—DAIRY PRODUCT MANDATORY REPORTING
+
+|  |  |
+| :--- | ---: |
+| [1637\.](Subchapter%20003%20%28III%29%20-%20Dairy%20Product%20Mandatory%20Reporting/%C2%A7%2001637%20-%20Purpose.md) | Purpose. |
+| [1637a.](Subchapter%20003%20%28III%29%20-%20Dairy%20Product%20Mandatory%20Reporting/%C2%A7%2001637a%20-%20Definitions.md) | Definitions. |
+| [1637b.](Subchapter%20003%20%28III%29%20-%20Dairy%20Product%20Mandatory%20Reporting/%C2%A7%2001637b%20-%20Mandatory%20reporting%20for%20dairy%20products.md) | Mandatory reporting for dairy products. |
+| (a) | Establishment. |
+| (b) | Requirements. |
+| (c) | Administration. |
+| (d) | Authorization of appropriations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Chapter Referred to in Other Sections
 
 This chapter is referred to in sections 198b, 1623a, 6104 of this title; title 21 section 1033.
@@ -149,3 +163,4 @@ This chapter is referred to in sections 198b, 1623a, 6104 of this title; title 2
 
 - [Subchapter 001 (I) - General Provisions](Subchapter%20001%20%28I%29%20-%20General%20Provisions/README.md)
 - [Subchapter 002 (II) - Livestock Mandatory Reporting](Subchapter%20002%20%28II%29%20-%20Livestock%20Mandatory%20Reporting/README.md)
+- [Subchapter 003 (III) - Dairy Product Mandatory Reporting](Subchapter%20003%20%28III%29%20-%20Dairy%20Product%20Mandatory%20Reporting/README.md)

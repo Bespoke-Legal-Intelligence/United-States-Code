@@ -62,7 +62,7 @@ Except as otherwise provided in this chapter, the Commission from time to time, 
 
 (s) Have authority to require that apparatus designed to receive television pictures broadcast simultaneously with sound be capable of adequately receiving all frequencies allocated by the Commission to television broadcasting when such apparatus is shipped in interstate commerce, or is imported from any foreign country into the United States, for sale or resale to the public.
 
-(t) Notwithstanding the provisions of section 301(e) of this title, have authority, in any case in which an aircraft registered in the United States is operated (pursuant to a lease, charter, or similar arrangement) by an aircraft operator who is subject to regulation by the government of a foreign nation, to enter into an agreement with such government under which the Commission shall recognize and accept any radio station licenses and radio operator licenses issued by such government with respect to such aircraft.
+(t) Notwithstanding the provisions of section 301(e) of this title, have authority, in any case inwhich an aircraft registered in the United States is operated (pursuant to a lease, charter, or similar arrangement) by an aircraft operator who is subject to regulation by the government of a foreign nation, to enter into an agreement with such government under which the Commission shall recognize and accept any radio station licenses and radio operator licenses issued by such government with respect to such aircraft.
 
 (u) Require that apparatus designed to receive television pictures broadcast simultaneously with sound be equipped with built-in decoder circuitry designed to display closed-captioned television transmissions when such apparatus is manufactured in the United States or imported for use in the United States, and its television picture screen is 13 inches or greater in size.
 
@@ -194,7 +194,7 @@ Section 551(a) of Pub. L. 104–104 provided that: “The Congress makes the fol
 
 &emsp;“(5) Children in the United States are, on average, exposed to an estimated 8,000 murders and 100,000 acts of violence on television by the time the child completes elementary school.
 
-&emsp;“(6) Studies indicate that children are affected by the pervasiveness and casual treatment of sexual material on television, eroding the ability of parents to develop responsible attitudes and behavior in their children.
+&emsp;“(6) Studies indicate that children are affected by the pervasiveness and casual treatment of sexual material on television, eroding the ability of parents todevelop responsible attitudes and behavior in their children.
 
 &emsp;“(7) Parents express grave concern over violent and sexual video programming and strongly support technology that would give them greater control to block video programming in the home that they consider harmful to their children.
 
@@ -238,7 +238,7 @@ Pub. L. 102–356, §16(a), Aug. 26, 1992, 106 Stat. 954, provided that: “The 
 
 &emsp;“(2) between 6 a.m. and 12 midnight on any day for any radio or television broadcasting station not described in paragraph (1).
 
-> The regulations required under this subsection shall be promulgated in accordance with section 553 of title 5,United States Code, and shall become final not later than 180 days after the date of enactment of this Act \[Aug. 26, 1992\].”
+> The regulations required under this subsection shall be promulgated in accordance with section 553 of title 5, United States Code, and shall become final not later than 180 days after the date of enactment of this Act \[Aug. 26, 1992\].”
 
 #### Congressional Findings Regarding Access by Hearing-Impaired People to Television Medium
 
@@ -269,10 +269,6 @@ Pub. L. 98–214, §9, Dec. 8, 1983, 97 Stat. 1470, provided that:
 “(a) Funds authorized to be appropriated under section 2 of this Act \[amending section 156 of this title\] shall be used by the Federal Communications Commission to establish a plan which adequately ensures that the needs of State and local public safety authorities would be taken into account in making allocations of the electromagnetic spectrum. In establishing such a plan the Commission shall (1) review the current and future needs of such public safety authorities in light of suitable and commercially available equipment and (2) consider the need for a nationwide contiguous frequency allocation for public safety purposes.
 
 “(b) Pending adoption of a plan, the Commission, while making assignments and allocations, shall duly recognize the needs of State and local public safety authorities.”
-
-#### Cross References
-
-Radiotelegraph operators licensed as ship's officers, see section 7101 et seq. of Title 46, Shipping.
 
 #### Section Referred to in Other Sections
 

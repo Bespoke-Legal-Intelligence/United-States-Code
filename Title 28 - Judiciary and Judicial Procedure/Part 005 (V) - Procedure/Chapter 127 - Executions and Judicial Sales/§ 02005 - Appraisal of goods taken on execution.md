@@ -16,7 +16,3 @@ Words “shall be appraised in like manner” were substituted for “the apprai
 
 Changes were made in phraseology.
 
-#### Federal Rules of Civil Procedure
-
-Execution, see rule 69, Appendix to this title.
-

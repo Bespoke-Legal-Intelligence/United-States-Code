@@ -4,10 +4,6 @@ Any entryman on an unpatented farm unit on a Federal irrigation project which sh
 
 (Aug. 13, 1953, ch. 428, §1, 67 Stat. 566.)
 
-#### Cross References
-
-Columbia Basin Project, qualification of applicants for purchase of land prescribed by this section, see section 835c of Title 16, Conservation.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 451a, 451k of this title.

@@ -62,7 +62,7 @@ A State is an incentive-eligible State for a fiscal year if—
 
 #### (e) 2-year availability of incentive payments
 
-Payments to a State under this section in a fiscal year shall remain available for use by theState through the end of the succeeding fiscal year.
+Payments to a State under this section in a fiscal year shall remain available for use by the State through the end of the succeeding fiscal year.
 
 #### (f) Limitations on use of incentive payments
 
@@ -152,7 +152,7 @@ As used in this section:
 
 &emsp;&emsp;&emsp;(i) the amount that would have been payable to the State under this section during fiscal year 1999 (on the basis of adoptions in fiscal year 1998) in the absence of subsection (d)(2) of this section if sufficient funds had been available for the payment; exceeds
 
-&emsp;&emsp;&emsp;(ii) the amount that, before December 14, 1999, was payable to the State under thissection during fiscal year 1999 (on such basis); or
+&emsp;&emsp;&emsp;(ii) the amount that, before December 14, 1999, was payable to the State under this section during fiscal year 1999 (on such basis); or
 
 &emsp;&emsp;(B) the amount that bears the same ratio to the dollar amount specified in paragraph (2) as the amount described by subparagraph (A) for the State bears to the aggregate of the amounts described by subparagraph (A) for all States that are incentive-eligible States for fiscal year 1998.
 

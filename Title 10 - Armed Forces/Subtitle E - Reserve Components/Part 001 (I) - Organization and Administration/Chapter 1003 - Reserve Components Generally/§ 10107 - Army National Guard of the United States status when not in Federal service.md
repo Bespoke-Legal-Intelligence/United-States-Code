@@ -8,7 +8,3 @@ When not on active duty, members of the Army National Guard of the United States
 
 Provisions similar to those in this section were contained in section 3079 of this title, prior to repeal by Pub. L. 103–337, §1661(a)(3)(A).
 
-#### Cross References
-
-Active duty, see section 12401 of this title.
-

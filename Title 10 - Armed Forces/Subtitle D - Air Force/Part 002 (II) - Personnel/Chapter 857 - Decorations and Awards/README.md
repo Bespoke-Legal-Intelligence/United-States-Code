@@ -31,10 +31,6 @@ For extension of time for award of decoration, or device in lieu of decoration, 
 
 Establishment of, see Ex. Ord. No. 11448, set out as a note preceding section 1121 of this title.
 
-#### Cross References
-
-Decorations and awards, general military law provisions, see section 1121 et seq. of this title.
-
 
 ---
 

@@ -14,3 +14,7 @@ Section 7 of act June 8, 1938, prior to the general amendment of that act by act
 
 1942—Act Apr. 29, 1942, amended section generally.
 
+#### Effective Date of 1942 Amendment
+
+Amendment by act Apr. 29, 1942, effective on the sixtieth day after Apr. 29, 1942, except that prior to such sixtieth day the Attorney General may make, prescribe, amend, and rescind such rules, regulations, and forms as may be necessary to carry out act Apr. 29, 1942, see section 3 of act Apr. 29, 1942, set out as a note under section 611 of this title.
+

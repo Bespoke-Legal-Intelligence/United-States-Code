@@ -14,7 +14,7 @@ The Congress finds that—
 
 &emsp;(6) writing and reading are both fundamental to learning, yet writing has been historically neglected in the schools and colleges, and most teachers in the United States elementary schools, secondary schools, and colleges have not been trained to teach writing;
 
-&emsp;(7) since 1973, the only national program to address the writing problem in the Nation's schools has been the National Writing Project, a network of collaborative university-school programs whose goal is to improve the quality of student writing and the teaching of writing at all grade levels and to extend the uses of writing as a learning process through all disciplines;
+&emsp;(7) since 1973, the only national program to address the writing problem in the Nation'sschools has been the National Writing Project, a network of collaborative university-school programs whose goal is to improve the quality of student writing and the teaching of writing at all grade levels and to extend the uses of writing as a learning process through all disciplines;
 
 &emsp;(8) the National Writing Project offers summer and school year inservice teacher training programs and a dissemination network to inform and teach teachers of developments in the field of writing;
 
@@ -30,7 +30,7 @@ The Congress finds that—
 
 &emsp;(14) the National Writing Project programs offer career-long education to teachers, and teachers participating in the National Writing Project receive graduate academic credit;
 
-&emsp;(15) each year over 100,000 teachers voluntarily seek training in National Writing Project intensive summer institutes and workshops and school year in-service programsthrough one of the 154 regional sites located in 45 States, the Commonwealth of Puerto Rico, and in 4 sites that serve United States teachers in United States dependent and independent schools;
+&emsp;(15) each year over 100,000 teachers voluntarily seek training in National Writing Project intensive summer institutes and workshops and school year in-service programs through one of the 154 regional sites located in 45 States, the Commonwealth of Puerto Rico, and in 4 sites that serve United States teachers in United States dependent and independent schools;
 
 &emsp;(16) 250 National Writing Project sites are needed to establish regional sites to serve all teachers;
 

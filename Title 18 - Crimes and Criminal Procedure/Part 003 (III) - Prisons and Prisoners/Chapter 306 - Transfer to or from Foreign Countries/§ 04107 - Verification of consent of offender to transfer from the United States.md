@@ -1,12 +1,12 @@
 ### §4107. Verification of consent of offender to transfer from the United States
 
-(a) Prior to the transfer of an offender from the United States, the fact that the offender consents to such transfer and that such consent is voluntary and with full knowledge of the consequences thereof shall be verified by a United States magistrate or a judge as defined in section 451 of title 28, United States Code.
+(a) Prior to the transfer of an offender from the United States, the fact that the offender consents to such transfer and that such consent is voluntary and with full knowledge of the consequences thereof shall be verified by a United States magistrate judge or a judge as defined in section 451 of title 28, United States Code.
 
 (b) The verifying officer shall inquire of the offender whether he understands and agrees that the transfer will be subject to the following conditions:
 
 &emsp;(1) only the appropriate courts in the United States may modify or set aside the conviction or sentence, and any proceedings seeking such action may only be brought in such courts;
 
-&emsp;(2) the sentence shall be carried out according to the laws of the country to which he isto be transferred and that those laws are subject to change;
+&emsp;(2) the sentence shall be carried out according to the laws of the country to which he is to be transferred and that those laws are subject to change;
 
 &emsp;(3) if a court in the country to which he is transferred should determine upon a proceeding initiated by him or on his behalf that his transfer was not accomplished in accordance with the treaty or laws of that country, he may be returned to the United States for the purpose of completing the sentence if the United States requests his return; and
 
@@ -18,11 +18,11 @@
 
 (e) The proceedings shall be taken down by a reporter or recorded by suitable sound recording equipment. The Attorney General shall maintain custody of the records.
 
-(Added Pub. L. 95–144, §1, Oct. 28, 1977, 91 Stat. 1216.)
+(Added Pub. L. 95–144, §1, Oct. 28, 1977, 91 Stat. 1216; amended Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
 
 #### Change of Name
 
-Reference to United States magistrate or to magistrate deemed to refer to United States magistrate judge pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+“United States magistrate judge” substituted for “United States magistrate” in subsec. (a) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
 #### Section Referred to in Other Sections
 

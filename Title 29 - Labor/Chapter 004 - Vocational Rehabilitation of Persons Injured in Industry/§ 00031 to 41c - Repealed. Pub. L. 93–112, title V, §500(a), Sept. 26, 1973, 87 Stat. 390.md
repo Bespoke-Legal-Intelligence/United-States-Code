@@ -28,7 +28,7 @@ Section 41a, act June 2, 1920, ch. 219, §12, as added Nov. 8, 1965, Pub. L. 89�
 
 Section 41b, act June 2, 1920, ch. 219, §13, as added Nov. 8, 1965, Pub. L. 89–333, §3, 79 Stat. 1286; amended July 7, 1968, Pub. L. 90–391, §12, 82 Stat. 303; Dec. 31, 1970, Pub. L. 91–610, §4, 84 Stat. 1817, related to rehabilitation facility improvement, providing in: subsec. (a) for grants for projects for training services, authorization, definition of training services, allowances, and payments; subsec. (b) for rehabilitation facility improvement grants; authorization, improvement of service capability, and payments; subsec. (c) for technical assistance to rehabilitation facilities, and compensation of experts and consultants; subsec. (d) for National Policy and Performance Council, its establishment, membership, function, and compensation of members; subsec. (e) for labor standards; and subsec. (f) for authorization of appropriations.
 
-Section 41c, act June 2, 1920, ch. 219, §14, as added Nov. 8, 1965, Pub. L. 89–333, §3, 79 Stat. 1288, related to waiver in the case of locally financed activity of requirement that plan be statewide.
+Section 41c, act June 2, 1920, ch. 219, §14, as added Nov. 8, 1965, Pub. L. 89–333, §3, 79 Stat. 1288, related towaiver in the case of locally financed activity of requirement that plan be statewide.
 
 Sections 31 to 41c, referred to above, and sections 42–1 to 42b of this title, were known as the Vocational Rehabilitation Act. Section 500(a) of Pub. L. 93–112, which repealed that Act, also provided that references to such Vocational Rehabilitation Act in any other provision of law would, ninety days after Sept. 26, 1973, be deemed to be references to the Rehabilitation Act of 1973, which is classified generally to chapter 15 (§701 et seq.) of this title.
 
@@ -144,7 +144,7 @@ Act Aug. 3, 1954, ch. 655, §3, 68 Stat. 662, provided that materials which the 
 
 #### Homebound Physically Handicapped Individuals
 
-Act Aug. 3, 1954, ch. 655, §7, 68 Stat. 665, required the Secretary of Health, Education, and Welfare to make a thorough study of existing programs for teaching and training handicapped persons, commonly known as shut-ins, whose disabilities confine them to their homes or beds, for the purpose of ascertaining whether additional or supplementary programs or services are necessary, particularly in rural areas, in order to provide adequate general ameliorative and vocational training for such handicapped persons, and provided that the Secretary shall report to the Congress not later than six months after Aug. 3, 1954, the results ofsuch study, together with such recommendations as may be desirable.
+Act Aug. 3, 1954, ch. 655, §7, 68 Stat. 665, required the Secretary of Health, Education, and Welfare to make a thorough study of existing programs for teaching and training handicapped persons, commonly known as shut-ins, whose disabilities confine them to their homes or beds, for the purpose of ascertaining whether additional or supplementary programs or services are necessary, particularly in rural areas, in order to provide adequate general ameliorative and vocational training for such handicapped persons, and provided that the Secretary shall report to the Congress not later than six months after Aug. 3, 1954, the results of such study, together with such recommendations as may be desirable.
 
 #### State Compliance With Chapter
 

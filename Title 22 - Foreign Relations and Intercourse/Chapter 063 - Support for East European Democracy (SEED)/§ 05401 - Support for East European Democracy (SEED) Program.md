@@ -170,7 +170,7 @@ The Foreign Assistance Act of 1961, referred to in subsec. (c)(14), is Pub. L. 8
 
 #### Short Title
 
-Section 1(a) of Pub. L. 101–179 provided that: “This Act \[enacting this chapter and section 2185 of this title, amending sections 2184 and 2199 of this title, section 1757 of Title 12, Banks and Banking, and section 2462 of Title 19, Customs Duties, enacting provisions set out as notes under sections 2185, 2199, and 2421 of this title, section 635 of Title 12, and section 7872 of Title 26, Internal Revenue Code, and amending provisions set outas a note under section 7872 of Title 26\] may be cited as the ‘Support for East European Democracy (SEED) Act of 1989’.”
+Section 1(a) of Pub. L. 101–179 provided that: “This Act \[enacting this chapter and section 2185 of this title, amending sections 2184 and 2199 of this title, section 1757 of Title 12, Banks and Banking, and section 2462 of Title 19, Customs Duties, enacting provisions set out as notes under sections 2185, 2199, and 2421 of this title, section 635 of Title 12, and section 7872 of Title 26, Internal Revenue Code, and amending provisions set out as a note under section 7872 of Title 26\] may be cited as the ‘Support for East European Democracy (SEED) Act of 1989’.”
 
 #### Transfer of Functions
 
@@ -184,7 +184,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 Section 1. <i>SEED Program Coordinator</i>. The functions conferred by Title VII of the Act \[22 U.S.C. 5471 et seq.\] relating to reports to the Congress are hereby delegated to the Coordinator of the SEED Program. The Coordinator is authorized to assign responsibility for particular aspects of the reports to appropriate agencies.
 
-Sec. 2. <i>Department of State</i>. The functions conferred upon the President by section 201 of the Act \[22 U.S.C. 5421\] relating to Enterprise Funds for Poland and Hungary are hereby delegated to the Secretary of State.
+Sec. 2. <i>Department of State</i>. The functions conferred upon the President by section 201 of the Act \[22 U.S.C.5421\] relating to Enterprise Funds for Poland and Hungary are hereby delegated to the Secretary of State.
 
 Sec. 3. <i>Department of Commerce</i>. The functions conferred upon the President by section 602 of the Act \[22 U.S.C. 5462\] regarding the establishment of a SEED Information Center System in cooperation with the Governments of Poland and Hungary are hereby delegated to the Secretary of Commerce. This authority is to be exercised in consultation with the SEED Program Coordinator and in consultation with other agencies as appropriate.
 

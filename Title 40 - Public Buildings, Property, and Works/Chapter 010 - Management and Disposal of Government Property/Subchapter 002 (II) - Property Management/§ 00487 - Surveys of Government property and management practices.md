@@ -12,7 +12,7 @@ Each Federal agency shall utilize such uniformed Federal supply catalog system a
 
 The General Accounting Office shall audit all types of property accounts and transactions at such times and in such manner as determined by the Comptroller General. Such audit shall be conducted as far as practicable at the place or places where the property or records of the executive agencies are kept and shall include but not necessarily be limited to an evaluation of the effectiveness of internal controls and audits and a general audit of the discharge of accountability for Government-owned or controlled property based upon generally accepted principles of auditing.
 
-(June 30, 1949, ch. 288, title II, §206, 63 Stat. 390; Aug. 10, 1949, ch. 412, §12(a), (g), 63 Stat. 591; July 12, 1952, ch. 703, §1(k), 66 Stat. 593; 1970 Reorg.Plan No. 2, §102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085; Pub. L. 93–400, §15(3), Aug. 30, 1974, 88 Stat. 800; Pub. L. 96–83, §10(a), Oct. 10, 1979, 93 Stat. 652; Pub. L. 98–191, §§8(d)(1), 9(a)(2), Dec. 1, 1983, 97 Stat. 1331.)
+(June 30, 1949, ch. 288, title II, §206, 63 Stat. 390; Aug. 10, 1949, ch. 412, §12(a), (g), 63 Stat. 591; July 12, 1952, ch. 703, §1(k), 66 Stat. 593; 1970 Reorg. Plan No. 2, §102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085; Pub. L. 93–400, §15(3), Aug. 30, 1974, 88 Stat. 800; Pub. L. 96–83, §10(a), Oct. 10, 1979, 93 Stat. 652; Pub. L. 98–191, §§8(d)(1), 9(a)(2), Dec. 1, 1983, 97 Stat. 1331.)
 
 #### References in Text
 

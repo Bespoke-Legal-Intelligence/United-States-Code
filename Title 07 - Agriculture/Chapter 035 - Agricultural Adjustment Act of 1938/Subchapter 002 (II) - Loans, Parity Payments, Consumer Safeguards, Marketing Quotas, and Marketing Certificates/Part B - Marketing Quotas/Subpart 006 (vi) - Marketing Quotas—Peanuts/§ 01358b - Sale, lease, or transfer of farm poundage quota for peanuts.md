@@ -38,7 +38,7 @@
 
 #### (2) Transfers to other self-owned farms
 
-&emsp;The owner or operator of a farm may transfer all or any part of the farm poundage quota to any other farm owned or controlled by the owner or operator that is in the same county or in a county contiguous to the county in the same State and that had a farm poundagequota for the preceding year's crop. Any farm poundage quota transferred under this paragraph shall not result in any reduction in the farm poundage quota for the transferring farm if the transferred quota is produced or considered produced on the receiving farm.
+&emsp;The owner or operator of a farm may transfer all or any part of the farm poundage quota to any other farm owned or controlled by the owner or operator that is in the same county or in a county contiguous to the county in the same State and that had a farm poundage quota for the preceding year's crop. Any farm poundage quota transferred under this paragraph shall not result in any reduction in the farm poundage quota for the transferring farm if the transferred quota is produced or considered produced on the receiving farm.
 
 #### (3) Transfers in States with small quotas
 

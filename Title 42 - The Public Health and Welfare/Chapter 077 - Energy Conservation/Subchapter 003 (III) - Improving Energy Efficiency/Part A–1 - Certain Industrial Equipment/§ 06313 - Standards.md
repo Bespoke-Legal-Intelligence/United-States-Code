@@ -12,7 +12,7 @@
 
 &emsp;(D) The minimum heating seasonal performance factor of air-cooled three-phase electric central air conditioning heat pumps less than 65,000 Btu per hour (cooling capacity), split systems, shall be 6.8.
 
-&emsp;(E) The minimum heating seasonal performance factor of air-cooled three-phase electriccentral air conditioning heat pumps less than 65,000 Btu per hour (cooling capacity), single package, shall be 6.6.
+&emsp;(E) The minimum heating seasonal performance factor of air-cooled three-phase electric central air conditioning heat pumps less than 65,000 Btu per hour (cooling capacity), single package, shall be 6.6.
 
 &emsp;(F) The minimum coefficient of performance in the heating mode of air-cooled central air conditioning heat pumps at or above 65,000 Btu per hour (cooling capacity) and less than 135,000 Btu per hour (cooling capacity) shall be 3.0 (at a high temperature rating of 47 degrees F db).
 

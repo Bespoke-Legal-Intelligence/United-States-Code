@@ -18,15 +18,3 @@ Minor changes in phraseology were made.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
 
-#### Cross References
-
-Conspiracy to defraud United States, generally, see section 371 of this title.
-
-False pension claims, see section 6103 of Title 38, Veterans’ Benefits.
-
-Liability of persons making false claims; suits and procedure; duty of district attorneys; limitation of suits, see sections 3729 to 3731 of Title 31, Money and Finance.
-
-National Service Life Insurance, false or fraudulent statements, see section 1987 of Title 38, Veterans’ Benefits.
-
-Wartime suspension of limitations, see section 3287 of this title.
-

@@ -205,6 +205,73 @@
 | (i) | Charter. |
 | 698u–6. | Restriction on authority. |
 | 698u–7. | Authorization of appropriations. |
+| [698v.](%C2%A7%2000698v%20-%20Findings%20and%20purposes.md) | Findings and purposes. |
+| (a) | Findings. |
+| (b) | Purposes. |
+| 698v–1. | Definitions. |
+| 698v–2. | Acquisition of lands. |
+| (a) | Acquisition of Baca ranch. |
+| (b) | Addition of land to Bandelier National Monument. |
+| (c) | Plat and maps. |
+| (d) | Watershed management report. |
+| (e) | Outstanding mineral interests. |
+| (f) | Boundaries of the Baca ranch. |
+| (g) | Pueblo of Santa Clara. |
+| 698v–3. | The Valles Caldera National Preserve. |
+| (a) | Establishment. |
+| (b) | Purposes. |
+| (c) | Management authority. |
+| (d) | Eligibility for payment in lieu of taxes. |
+| (e) | Withdrawals. |
+| (f) | Fish and game. |
+| (g) | Redondo Peak. |
+| 698v–4. | The Valles Caldera Trust. |
+| (a) | Establishment. |
+| (b) | Corporate purposes. |
+| (c) | Necessary powers. |
+| (d) | Staff. |
+| (e) | Government Corporation. |
+| (f) | Taxes. |
+| (g) | Donations. |
+| (h) | Proceeds. |
+| (i) | Restrictions on disposition of receipts. |
+| (j) | Suits. |
+| (k) | Bylaws. |
+| (<i>l</i>) | Insurance and bond. |
+| (m) | Name and insignia. |
+| 698v–5. | Board of Trustees. |
+| (a) | In general. |
+| (b) | Initial appointments. |
+| (c) | Terms. |
+| (d) | Quorum. |
+| (e) | Organization and compensation. |
+| (f) | Liability of trustees. |
+| (g) | Meetings. |
+| 698v–6. | Resource management. |
+| (a) | Assumption of management. |
+| (b) | Management responsibilities. |
+| (c) | Authorities. |
+| (d) | Management program. |
+| (e) | Public use and recreation. |
+| (f) | Applicable laws. |
+| (g) | Law enforcement and fire management. |
+| 698v–7. | Authorities of the Secretary. |
+| (a) | In general. |
+| (b) | Interim management. |
+| (c) | Secretarial authority. |
+| (d) | Access. |
+| 698v–8. | Termination of the Trust. |
+| (a) | In general. |
+| (b) | Recommendations. |
+| (c) | Effect of termination. |
+| (d) | Assets. |
+| (e) | Valles Caldera Fund. |
+| 698v–9. | Limitations on funding. |
+| (a) | Authorization of appropriations. |
+| (b) | Schedule of appropriations. |
+| 698v–10. | General Accounting Office study. |
+| (a) | Initial study. |
+| (b) | Second study. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -331,3 +398,14 @@
 - [&sect; 00698u&#8211;5 - Advisory Committee](%C2%A7%2000698u%E2%80%935%20-%20Advisory%20Committee.md)
 - [&sect; 00698u&#8211;6 - Restriction on authority](%C2%A7%2000698u%E2%80%936%20-%20Restriction%20on%20authority.md)
 - [&sect; 00698u&#8211;7 - Authorization of appropriations](%C2%A7%2000698u%E2%80%937%20-%20Authorization%20of%20appropriations.md)
+- [&sect; 00698v - Findings and purposes](%C2%A7%2000698v%20-%20Findings%20and%20purposes.md)
+- [&sect; 00698v&#8211;1 - Definitions](%C2%A7%2000698v%E2%80%931%20-%20Definitions.md)
+- [&sect; 00698v&#8211;2 - Acquisition of lands](%C2%A7%2000698v%E2%80%932%20-%20Acquisition%20of%20lands.md)
+- [&sect; 00698v&#8211;3 - The Valles Caldera National Preserve](%C2%A7%2000698v%E2%80%933%20-%20The%20Valles%20Caldera%20National%20Preserve.md)
+- [&sect; 00698v&#8211;4 - The Valles Caldera Trust](%C2%A7%2000698v%E2%80%934%20-%20The%20Valles%20Caldera%20Trust.md)
+- [&sect; 00698v&#8211;5 - Board of Trustees](%C2%A7%2000698v%E2%80%935%20-%20Board%20of%20Trustees.md)
+- [&sect; 00698v&#8211;6 - Resource management](%C2%A7%2000698v%E2%80%936%20-%20Resource%20management.md)
+- [&sect; 00698v&#8211;7 - Authorities of the Secretary](%C2%A7%2000698v%E2%80%937%20-%20Authorities%20of%20the%20Secretary.md)
+- [&sect; 00698v&#8211;8 - Termination of the Trust](%C2%A7%2000698v%E2%80%938%20-%20Termination%20of%20the%20Trust.md)
+- [&sect; 00698v&#8211;9 - Limitations on funding](%C2%A7%2000698v%E2%80%939%20-%20Limitations%20on%20funding.md)
+- [&sect; 00698v&#8211;10 - General Accounting Office study](%C2%A7%2000698v%E2%80%9310%20-%20General%20Accounting%20Office%20study.md)

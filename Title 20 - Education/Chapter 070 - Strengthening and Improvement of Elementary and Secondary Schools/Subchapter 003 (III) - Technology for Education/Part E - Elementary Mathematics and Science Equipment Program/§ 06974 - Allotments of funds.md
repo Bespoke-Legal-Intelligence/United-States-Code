@@ -4,7 +4,7 @@
 
 From the amount appropriated under section 6979 of this title for any fiscal year, the Secretary shall reserve—
 
-&emsp;(1) not more than one-half of 1 percent for allotment among Guam, American Samoa, theVirgin Islands, and the Northern Mariana Islands according to their respective needs for assistance under this part; and
+&emsp;(1) not more than one-half of 1 percent for allotment among Guam, American Samoa, the Virgin Islands, and the Northern Mariana Islands according to their respective needs for assistance under this part; and
 
 &emsp;(2) one-half of 1 percent for programs for Indian students served by schools funded by the Secretary of the Interior which are consistent with the purposes of this part.
 
@@ -20,7 +20,7 @@ From the amount appropriated under section 6979 of this title for any fiscal yea
 
 #### (2) Minimum
 
-&emsp;Except as provided in paragraph (3), no State educational agency shall receive an allotment under this subsection for any fiscal year in an amount that is—
+&emsp;Except as provided in paragraph (3), no State educational agency shall receive an allotmentunder this subsection for any fiscal year in an amount that is—
 
 &emsp;&emsp;(A) less than one-half of 1 percent of the amount made available under this subsection for such fiscal year; or
 

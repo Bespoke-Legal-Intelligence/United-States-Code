@@ -14,25 +14,3 @@
 
 Amendment by Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
-#### Cross References
-
-Definition of the term—
-
-&emsp;&emsp;Alien, see section 1101(a)(3) of this title.
-
-&emsp;&emsp;Attorney General, see section 1101(a)(5) of this title.
-
-&emsp;&emsp;Entry, see section 1101(a)(13) of this title.
-
-&emsp;&emsp;Immigrant, see section 1101(a)(15) of this title.
-
-&emsp;&emsp;Immigrant visa, see section 1101(a)(16) of this title.
-
-&emsp;&emsp;Immigration laws, see section 1101(a)(17) of this title.
-
-&emsp;&emsp;Immigration officer, see section 1101(a)(18) of this title.
-
-&emsp;&emsp;Nonimmigrant alien, see section 1101(a)(15) of this title.
-
-&emsp;&emsp;United States, see section 1101(a)(38) of this title.
-

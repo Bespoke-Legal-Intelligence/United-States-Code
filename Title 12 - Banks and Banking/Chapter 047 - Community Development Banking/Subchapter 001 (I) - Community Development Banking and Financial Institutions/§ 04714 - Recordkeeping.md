@@ -30,5 +30,5 @@ Not less than annually, the Fund shall review the progress of each assisted comm
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 4707 of this title.
+This section is referred to in section 4707 of this title; title 15 section 6908.
 

@@ -8,19 +8,49 @@
 
 (3) Every registered transfer agent shall also make and keep for prescribed periods such records, furnish such copies thereof, and make such reports as the appropriate regulatory agency for such transfer agent, by rule, prescribes as necessary or appropriate in furtherance of the purposes of section 78q–1 of this title.
 
-#### (b) Examination of records; notice; avoidance of duplication and undue regulatory burden
+#### (b) Records subject to examination
 
-All records of persons described in subsection (a) of this section are subject at any time, or from time to time, to such reasonable periodic, special, or other examinations by representatives of the Commission and the appropriate regulatory agency for such persons as the Commission or the appropriate regulatory agency for such persons deems necessary or appropriate in the public interest, for the protection of investors, or otherwise in furtherance of the purposes of this chapter: <i>Provided, however</i>, That the Commission shall, prior to conducting any such examination of a registered clearing agency, registered transfer agent, or registered municipal securities dealer for which it is not the appropriate regulatory agency, give notice to the appropriate regulatory agency for such clearing agency, transfer agent, or municipal securities dealer of such proposed examination and consult with such appropriate regulatory agency concerning the feasibility and desirability of coordinating such examination with examinations conducted by such appropriate regulatory agency with a view to avoiding unnecessary regulatory duplication or undue regulatory burdens for such clearing agency, transfer agent, or municipal securities dealer. Nothing in the proviso to the preceding sentence shall be construed to impair or limit (other than by the requirement of prior consultation) the power of the Commission under this subsection to examine any clearing agency, transfer agent, or municipal securities dealer or to affect in any way the power of the Commission under any other provision of this chapter or otherwise to inspect, examine, or investigate any such clearing agency, transfer agent, or municipal securities dealer.
+#### (1) Procedures for cooperation with other agencies
+
+&emsp;All records of persons described in subsection (a) of this section are subject at any time, or from time to time, to such reasonable periodic, special, or other examinations by representatives of the Commission and the appropriate regulatory agency for such persons as the Commission or the appropriate regulatory agency for such persons deems necessary or appropriate in the public interest, for the protection of investors, or otherwise in furtherance of the purposes of this chapter: <i>Provided, however</i>, That the Commission shall, prior to conducting any such examination of a—
+
+&emsp;&emsp;(A) registered clearing agency, registered transfer agent, or registered municipal securities dealer for which it is not the appropriate regulatory agency, give notice to the appropriate regulatory agency for such clearing agency, transfer agent, or municipal securities dealer of such proposed examination and consult with such appropriate regulatory agency concerning the feasibility and desirability of coordinating such examination with examinations conducted by such appropriate regulatory agency with a view to avoiding unnecessary regulatory duplication or undue regulatory burdens for such clearing agency, transfer agent, or municipal securities dealer; or
+
+&emsp;&emsp;(B) broker or dealer registered pursuant to section 78<i>o</i>(b)(11) of this title, exchange registered pursuant to section 78f(g) of this title, or national securities association registered pursuant to section 78<i>o</i>–3(k) of this title gives notice to the Commodity Futures Trading Commission of such proposed examination and consults with the Commodity Futures Trading Commission concerning the feasibility and desirability of coordinating such examination with examinations conducted by the Commodity Futures Trading Commission in order to avoid unnecessary regulatory duplication or undue regulatory burdens for such broker or dealer or exchange.
+
+#### (2) Furnishing data and reports to CFTC
+
+&emsp;The Commission shall notify the Commodity Futures Trading Commission of any examination conducted of any broker or dealer registered pursuant to section 78<i>o</i>(b)(11) of this title, exchange registered pursuant to section 78f(g) of this title, or national securities association registered pursuant to section 78<i>o</i>–3(k) of this title and, upon request, furnish to the Commodity Futures Trading Commission any examination report and data supplied to, or prepared by, the Commission in connection with such examination.
+
+#### (3) Use of CFTC reports
+
+&emsp;Prior to conducting an examination under paragraph (1), the Commission shall use the reports of examinations, if the information available therein is sufficient for the purposes of the examination, of—
+
+&emsp;&emsp;(A) any broker or dealer registered pursuant to section 78<i>o</i>(b)(11) of this title;
+
+&emsp;&emsp;(B) exchange <sup>1</sup> registered pursuant to section 78f(g) of this title; or
+
+&emsp;&emsp;(C) national <sup>2</sup> securities association registered pursuant to section 78<i>o</i>–3(k) of this title;
+
+> &emsp;that is made by the Commodity Futures Trading Commission, a national securities association registered pursuant to section 78<i>o</i>–3(k) of this title, or an exchange registered pursuant to section 78f(g) of this title.
+
+#### (4) Rules of construction
+
+&emsp;(A) Notwithstanding any other provision of this subsection, the records of a broker or dealer registered pursuant to section 78<i>o</i>(b)(11) of this title, an exchange registered pursuant to section 78f(g) of this title, or a national securities association registered pursuant to section 78<i>o</i>–3(k) of this title described in this subparagraph shall not be subject to routine periodic examinations by the Commission.
+
+&emsp;(B) Any recordkeeping rules adopted under this subsection for a broker or dealer registered pursuant to section 78<i>o</i>(b)(11) of this title, an exchange registered pursuant to section 78f(g) of this title, or a national securities association registered pursuant to section 78<i>o</i>–3(k) of this title shall be limited to records with respect to persons, accounts, agreements, contracts, and transactions involving security futures products.
+
+&emsp;(C) Nothing in the proviso in paragraph (1) shall be construed to impair or limit (other than by the requirement of prior consultation) the power of the Commission under this subsection to examine any clearing agency, transfer agent, or municipal securities dealer or to affect in any way the power of the Commission under any other provision of this chapter or otherwise to inspect, examine, or investigate any such clearing agency, transfer agent, or municipal securities dealer.
 
 #### (c) Copies of reports filed with other regulatory agencies
 
-(1) Every clearing agency, transfer agent, and municipal securities dealer for which the Commission is not the appropriate regulatory agency shall (A) file with the appropriate regulatory agency for such clearing agency, transfer agent, or municipal securities dealer a copy of any application, notice, proposal, report, or document filed with the Commission by reason of its being a clearing agency, transfer agent, or municipal securities dealer and (B) file with the Commission a copy of any application, notice, proposal, report, or document filed with such appropriate regulatory agency by reason of its being a clearing agency, transfer agent, or municipal securities dealer. The Municipal Securities Rulemaking Board shall file with each agency enumerated in section 78c(a)(34)(A) of this title copies of every proposed rule change filed with the Commission pursuant to section 78s(b) of this title.
+(1) Every clearing agency, transfer agent, and municipal securities dealer for which the Commission is not the appropriate regulatory agency shall (A) file with the appropriate regulatory agency for such clearing agency, transfer agent, or municipal securities dealer a copy of any application, notice, proposal, report, or document filed with the Commission by reason of its beinga clearing agency, transfer agent, or municipal securities dealer and (B) file with the Commission a copy of any application, notice, proposal, report, or document filed with such appropriate regulatory agency by reason of its being a clearing agency, transfer agent, or municipal securities dealer. The Municipal Securities Rulemaking Board shall file with each agency enumerated in section 78c(a)(34)(A) of this title copies of every proposed rule change filed with the Commission pursuant to section 78s(b) of this title.
 
 (2) The appropriate regulatory agency for a clearing agency, transfer agent, or municipal securities dealer for which the Commission is not the appropriate regulatory agency shall file with the Commission notice of the commencement of any proceeding and a copy of any order entered by such appropriate regulatory agency against any clearing agency, transfer agent, municipal securities dealer, or person associated with a transfer agent or municipal securities dealer, and the Commission shall file with such appropriate regulatory agency, if any, notice of the commencement of any proceeding and a copy of any order entered by the Commission against the clearing agency, transfer agent, or municipal securities dealer, or against any person associated with a transfer agent or municipal securities dealer for which the agency is the appropriate regulatory agency.
 
 (3) The Commission and the appropriate regulatory agency for a clearing agency, transfer agent, or municipal securities dealer for which the Commission is not the appropriate regulatory agency shall each notify the other and make a report of any examination conducted by it of such clearing agency, transfer agent, or municipal securities dealer, and, upon request, furnish to the other a copy of such report and any data supplied to it in connection with such examination.
 
-(4) The Commission or the appropriate regulatory agency may specify that documents required to be filed pursuant to this subsectionwith the Commission or such agency, respectively, may be retained by the originating clearing agency, transfer agent, or municipal securities dealer, or filed with another appropriate regulatory agency. The Commission or the appropriate regulatory agency (as the case may be) making such a specification shall continue to have access to the document on request.
+(4) The Commission or the appropriate regulatory agency may specify that documents required to be filed pursuant to this subsection with the Commission or such agency, respectively, may be retained by the originating clearing agency, transfer agent, or municipal securities dealer, or filed with another appropriate regulatory agency. The Commission or the appropriate regulatory agency (as the case may be) making such a specification shall continue to have access to the document on request.
 
 #### (d) Self-regulatory organizations
 
@@ -42,7 +72,7 @@ All records of persons described in subsection (a) of this section are subject a
 
 (C) The Commission, by rule or order, may conditionally or unconditionally exempt any registered broker or dealer, or class of such brokers or dealers, from any provision of this paragraph if the Commission determines that such exemption is consistent with the public interest and the protection of investors.
 
-(2) The Commission, by rule, as it deems necessary or appropriate in the public interest or for the protection of investors, may prescribe the form and content of financial statements filed pursuant to this chapter and the accounting principles and accounting standards used in their preparation.
+(2) The Commission, by rule, as it deems necessary or appropriate in the public interest orfor the protection of investors, may prescribe the form and content of financial statements filed pursuant to this chapter and the accounting principles and accounting standards used in their preparation.
 
 #### (f) Missing, lost, counterfeit, and stolen securities
 
@@ -52,7 +82,7 @@ All records of persons described in subsection (a) of this section are subject a
 
 &emsp;(B) make such inquiry with respect to information reported pursuant to this subsection as the Commission, by rule, prescribes as necessary or appropriate in the public interest or for the protection of investors, to determine whether securities in their custody or control, for which they are responsible, or in which they are effecting, clearing, or settling a transaction have been reported as missing, lost, counterfeit, or stolen.
 
-(2) Every member of a national securities exchange, broker, dealer, registered transferagent, and registered clearing agency, shall require that each of its partners, directors, officers, and employees be fingerprinted and shall submit such fingerprints, or cause the same to be submitted, to the Attorney General of the United States for identification and appropriate processing. The Commission, by rule, may exempt from the provisions of this paragraph upon specified terms, conditions, and periods, any class of partners, directors, officers, or employees of any such member, broker, dealer, transfer agent, or clearing agency, if the Commission finds that such action is not inconsistent with the public interest or the protection of investors. Notwithstanding any other provision of law, in providing identification and processing functions, the Attorney General shall provide the Commission and self-regulatory organizations designated by the Commission with access to all criminal history record information.
+(2) Every member of a national securities exchange, broker, dealer, registered transfer agent, and registered clearing agency, shall require that each of its partners, directors, officers, and employees be fingerprinted and shall submit such fingerprints, or cause the same to be submitted, to the Attorney General of the United States for identification and appropriate processing. The Commission, by rule, may exempt from the provisions of this paragraph upon specified terms, conditions, and periods, any class of partners, directors, officers, or employees of any such member, broker, dealer, transfer agent, or clearing agency, if the Commission finds that such action is not inconsistent with the public interest or the protection of investors. Notwithstanding any other provision of law, in providing identification and processing functions, the Attorney General shall provide the Commission and self-regulatory organizations designated by the Commission with access to all criminal history record information.
 
 (3)(A) In order to carry out the authority under paragraph (1) above, the Commission or its designee may enter into agreement with the Attorney General to use the facilities of the National Crime Information Center (“NCIC”) to receive, store, and disseminate information in regard to missing, lost, counterfeit, or stolen securities and to permit direct inquiry access to NCIC's file on such securities for the financial community.
 
@@ -76,7 +106,7 @@ Any broker, dealer, or other person extending credit who is subject to the rules
 
 #### (1) Obligations to obtain, maintain, and report information
 
-&emsp;Every person who is (A) a registered broker or dealer, or (B) a registered municipal securities dealer for which the Commission is the appropriate regulatory agency, shall obtain such information and make and keep such records as the Commission by rule prescribes concerning the registered person's policies, procedures, or systems for monitoring and controlling financial and operational risks to it resulting from the activities of any of its associated persons, other than a natural person. Such records shall describe, in the aggregate, each of the financial and securities activities conducted by, and the customary sources of capital and funding of, those of its associated persons whose business activities are reasonably likely to have a material impact on the financial or operational condition of such registered person, including its net capital, its liquidity, or its ability to conduct or finance its operations. The Commission, by rule, may require summary reports of such information to be filed with the Commission no more frequently than quarterly.
+&emsp;Every person who is (A) a registered broker or dealer, or (B) a registered municipal securities dealer for which the Commission is the appropriate regulatory agency, shall obtain such information and make and keep such records as the Commission by rule prescribes concerning the registered person's policies, procedures, or systems for monitoring and controlling financial and operational risks toit resulting from the activities of any of its associated persons, other than a natural person. Such records shall describe, in the aggregate, each of the financial and securities activities conducted by, and the customary sources of capital and funding of, those of its associated persons whose business activities are reasonably likely to have a material impact on the financial or operational condition of such registered person, including its net capital, its liquidity, or its ability to conduct or finance its operations. The Commission, by rule, may require summary reports of such information to be filed with the Commission no more frequently than quarterly.
 
 #### (2) Authority to require additional information
 
@@ -106,7 +136,7 @@ Any broker, dealer, or other person extending credit who is subject to the rules
 
 #### (E) Confidentiality of information provided
 
-&emsp;&emsp;No information provided to or obtained by the Commission from any Federal banking agency pursuant to a request by the Commission under subparagraph (C) of this paragraph regarding any associated person which is subject to examination by or reporting requirements of a Federal banking agency may be disclosed to any other person (other than a self-regulatory organization), without the prior written approval of the Federal banking agency. Nothing in this subsection shall authorize the Commission to withhold information from Congress, or prevent the Commission from complying with a request for information from any other Federal department or agency requesting the information for purposes within the scope of its jurisdiction, or complying with an order of a court of the United States in an action brought by the United States or the Commission.
+&emsp;&emsp;No information provided to or obtained by the Commission from any Federal banking agency pursuant to a request by the Commission under subparagraph (C) of this paragraph regarding any associated person whichis subject to examination by or reporting requirements of a Federal banking agency may be disclosed to any other person (other than a self-regulatory organization), without the prior written approval of the Federal banking agency. Nothing in this subsection shall authorize the Commission to withhold information from Congress, or prevent the Commission from complying with a request for information from any other Federal department or agency requesting the information for purposes within the scope of its jurisdiction, or complying with an order of a court of the United States in an action brought by the United States or the Commission.
 
 #### (F) Notice to banking agencies concerning financial and operational condition concerns
 
@@ -120,7 +150,7 @@ Any broker, dealer, or other person extending credit who is subject to the rules
 
 &emsp;The Commission by rule or order may exempt any person or class of persons, under such terms and conditions and for such periods as the Commission shall provide in such rule or order, from the provisions of this subsection, and the rules thereunder. In granting such exemptions, the Commission shall consider, among other factors—
 
-&emsp;&emsp;(A) whether information of the type required under this subsection is available from a supervisory agency (as defined in section 3401(6) <sup>1</sup> of title 12), a State insurance commission or similar State agency, the Commodity Futures Trading Commission, or a similar foreign regulator;
+&emsp;&emsp;(A) whether information of the type required under this subsection is available from a supervisory agency (as defined in section 3401(6) <sup>3</sup> of title 12), a State insurance commission or similar State agency, the Commodity Futures Trading Commission, or a similar foreign regulator;
 
 &emsp;&emsp;(B) the primary business of any associated person;
 
@@ -232,7 +262,7 @@ Any broker, dealer, or other person extending credit who is subject to the rules
 
 &emsp;&emsp;(A) the appropriate regulatory agency with regard to all interpretations of, and the enforcement of, applicable banking laws relating to the activities, conduct, ownership, and operations of banks, and institutions described in subparagraph (D), (F), and (G) of section 1841(c)(2), or held under section 1843(f), of title 12; and
 
-&emsp;&emsp;(B) the appropriate State insurance regulators with regard to all interpretations of,and the enforcement of, applicable State insurance laws relating to the activities, conduct, and operations of insurance companies and insurance agents.
+&emsp;&emsp;(B) the appropriate State insurance regulators with regard to all interpretations of, and the enforcement of, applicable State insurance laws relating to the activities, conduct, and operations of insurance companies and insurance agents.
 
 #### (5) Definitions
 
@@ -256,7 +286,7 @@ Any broker, dealer, or other person extending credit who is subject to the rules
 
 #### (j) Authority to limit disclosure of information
 
-Notwithstanding any other provision of law, the Commission shall not be compelled to disclose any information required to be reported under subsection (h) or (i) of this section or any information supplied to the Commission by any domestic or foreign regulatory agency that relates to the financial or operational condition of any associated person of a broker or dealer, investment bank holding company, or any affiliate of an investment bank holding company. Nothing in this subsection shall authorize the Commission to withhold information from Congress, or prevent the Commission from complying with a request for information from any other Federal department or agency or any self-regulatory organization requesting the information for purposes within the scope of its jurisdiction, or complying with an order of a court of the United States in an action brought by the United States or the Commission. For purposes of section 552 of title 5, this subsection shall be considered a statute described in subsection (b)(3)(B) of such section 552. In prescribing regulations to carry out the requirements of this subsection, the Commission shall designate information described in or obtained pursuant to subparagraphs (A), (B), and (C) of subsection (i)(5) <sup>2</sup> of this section as confidential information for purposes of section 78x(b)(2) of this title.
+Notwithstanding any other provision of law, the Commission shall not be compelled to disclose any information required to be reported under subsection (h) or (i) of this section or any information supplied to the Commission by any domestic or foreign regulatory agency that relates to the financial or operational condition of any associated person of a broker or dealer, investment bank holding company, or any affiliate of an investment bank holding company. Nothing in this subsection shall authorize the Commission to withhold information from Congress, or prevent the Commission from complying with a request for information from any other Federal department or agency or any self-regulatory organization requesting the information for purposes within the scope of its jurisdiction, or complying with an order of a court of the United States in an action brought by the United States or the Commission. For purposes of section 552 of title 5, this subsection shall be considered a statute described in subsection (b)(3)(B) of such section 552. In prescribing regulations to carry out the requirements of this subsection, the Commission shall designate information described in or obtained pursuant to subparagraphs (A), (B), and (C) of subsection (i)(5) <sup>4</sup> of this section as confidential information for purposes of section 78x(b)(2) of this title.
 
 #### (k) Coordination of examining authorities
 
@@ -276,7 +306,7 @@ Notwithstanding any other provision of law, the Commission shall not be compelle
 
 #### (A) In general
 
-&emsp;&emsp;Section 78x of this title shall apply to the sharing of information in accordance with this subsection. The Commission shall take appropriate action under section 78x(c) of this title to ensure that such information is not inappropriately disclosed.
+&emsp;&emsp;Section 78x of this title shall apply to the sharing of information in accordance with this subsection. The Commission shall takeappropriate action under section 78x(c) of this title to ensure that such information is not inappropriately disclosed.
 
 #### (B) Appropriate disclosure not prohibited
 
@@ -286,19 +316,23 @@ Notwithstanding any other provision of law, the Commission shall not be compelle
 
 &emsp;For purposes of this subsection, the term “examining authority” means a self-regulatory organization registered with the Commission under this chapter (other than a registered clearing agency) with the authority to examine, inspect, and otherwise oversee the activities of a registered broker or dealer.
 
-(June 6, 1934, ch. 404, title I, §17, 48 Stat. 897; May 27, 1936, ch. 462, §4, 49 Stat. 1379; June 25, 1938, ch. 677, §5, 52 Stat. 1076; Pub. L. 94–29, §14, June 4, 1975, 89 Stat. 137; Pub. L. 99–571, title I, §102(h), (i), Oct. 28, 1986, 100 Stat. 3219; Pub. L. 100–181, title III, §321, title VIII, §801(b), Dec. 4, 1987, 101 Stat. 1257, 1265; Pub. L. 101–432, §4(a), Oct. 16, 1990, 104 Stat. 966; Pub. L. 104–290, title I, §108, Oct. 11, 1996, 110 Stat. 3425; Pub. L. 105–353, title III, §301(b)(5), Nov. 3, 1998, 112 Stat. 3236; Pub. L. 106–102, title II, §231(a), Nov. 12, 1999, 113 Stat. 1402.)
+(June 6, 1934, ch. 404, title I, §17, 48 Stat. 897; May 27, 1936, ch. 462, §4, 49 Stat. 1379; June 25, 1938, ch. 677, §5, 52 Stat. 1076; Pub. L. 94–29, §14, June 4, 1975, 89 Stat. 137; Pub. L. 99–571, title I, §102(h), (i), Oct. 28, 1986, 100 Stat. 3219; Pub. L. 100–181, title III, §321, title VIII, §801(b), Dec. 4, 1987, 101 Stat. 1257, 1265; Pub. L. 101–432, §4(a), Oct. 16, 1990, 104 Stat. 966; Pub. L. 104–290, title I, §108, Oct. 11, 1996, 110 Stat. 3425; Pub. L. 105–353, title III, §301(b)(5), Nov. 3, 1998, 112 Stat. 3236; Pub. L. 106–102, title II, §231(a), Nov. 12, 1999, 113 Stat. 1402; Pub. L. 106–554, §1(a)(5) \[title II, §204\], Dec. 21, 2000, 114 Stat. 2763, 2763A–424.)
 
 #### References in Text
 
 This chapter, referred to in subsecs. (a)(1), (b), (d)(1)(A), (B), (e)(2), (g), (i)(3)(A)(ii)(V), and (k)(5), was in the original “this title”, and this chapter, referred to in subsec. (i)(3)(A)(i)(II), was in the original “this Act”. See References in Text note set out under section 78a of this title.
 
-Subchapter VIII of chapter 3 of title 12, referred to in subsec. (h)(3)(B), was in the original “section 9 of the Federal Reserve Act”, meaning section 9 of act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, which is classifiedgenerally to subchapter VIII (§321 et seq.) of chapter 3 of Title 12, Banks and Banking.
+Subchapter VIII of chapter 3 of title 12, referred to in subsec. (h)(3)(B), was in the original “section 9 of the Federal Reserve Act”, meaning section 9 of act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, which is classified generally to subchapter VIII (§321 et seq.) of chapter 3 of Title 12, Banks and Banking.
 
 Section 3401(6) of title 12, referred to in subsec. (h)(4)(A), was redesignated section 3401(7) of title 12 by Pub. L. 101–73, title IX, §941(1), Aug. 9, 1989, 103 Stat. 496.
 
 Section 25A of the Federal Reserve Act, referred to in subsec. (i)(1)(A)(iii), is classified to subchapter II (§611 et seq.) of chapter 6 of Title 12, Banks and Banking.
 
 #### Amendments
+
+2000—Subsec. (b). Pub. L. 106–554, §1(a)(5) \[title II, §204(5)\], which directed amendment of subsec. (b) by adding at the end pars. (2) to (4)(B), was executed by making the addition after par. (1), to reflect the probable intent of Congress.
+
+Pub. L. 106–554, §1(a)(5) \[title II, §204(1) to (4), (6)\], inserted subsec. heading, inserted par. (1) designation and heading before “All”, substituted “prior to conducting any such examination of a—” for “prior to conducting any such examination of a”, inserted subpar. (A) designation before “registered clearing”, added subpar. (B), designated last sentence as par. (4)(C) and substituted “Nothing in the proviso in paragraph (1)” for “Nothing in the proviso to the preceding sentence”.
 
 1999—Subsecs. (i) to (k). Pub. L. 106–102 added subsecs. (i) and (j) and redesignated former subsec. (i) as (k).
 
@@ -342,19 +376,17 @@ Amendment by Pub. L. 94–29 effective June 4, 1975, see section 31(a) of Pub. L
 
 #### Transfer of Functions
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
-#### Cross References
-
-Effective date, see sections 78hh and 78hh–1 of this title.
-
-Rules and regulations, power of Commission and Board of Governors of Federal Reserve System to make, see section 78w of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman ofsuch Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 78c, 78f, 78<i>o</i>–3, 78<i>o</i>–4, 78<i>o</i>–5, 78q–1, 78s, 78y, 78hh, 78fff–1, 78iii of this title.
+This section is referred to in sections 78c, 78f, 78<i>o</i>, 78<i>o</i>–3, 78<i>o</i>–4, 78<i>o</i>–5, 78q–1, 78s, 78y, 78hh, 78fff–1, 78iii of this title; title 7 sections 1a, 2, 6d.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by “an”.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be subsection “(i)(3)”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be preceded by “a”.</i>
+
+<i><sup>3</sup></i><i> See References in Text note below.</i>
+
+<i><sup>4</sup></i><i> So in original. Probably should be subsection “(i)(3)”.</i>
 

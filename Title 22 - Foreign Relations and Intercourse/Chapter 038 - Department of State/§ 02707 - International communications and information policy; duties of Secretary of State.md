@@ -12,7 +12,7 @@
 
 &emsp;(4) coordinate the activities of, and assist as appropriate, interagency working level task forces and committees concerned with specific aspects of international communications and information policy;
 
-&emsp;(5) maintain liaison with the members and staffs of committees of the Congress concernedwith international communications and information policy and provide testimony before such committees;
+&emsp;(5) maintain liaison with the members and staffs of committees of the Congress concerned with international communications and information policy and provide testimony before such committees;
 
 &emsp;(6) maintain appropriate liaison with representatives of the private sector to keep informed of their interests and problems, meet with them, and provide such assistance as may be needed to ensure that matters of concern to the private sector are promptly considered by the Department or other executive branch agencies; and
 

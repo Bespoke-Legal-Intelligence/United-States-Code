@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 24a, 1818, 1841, 1843, 2804, 3103, 3204, 3902, 4402 of this title; title 15 sections 57a, 77kkk, 78c, 78q, 1607, 1681s, 1691c, 1692<i>l</i>, 1693<i>o</i>, 4001, 6505, 6805, 6822; title 18 sections 20, 212, 213, 655, 656, 1004, 1005, 1014, 1030, 1906; title 31 section 5313.
+This subchapter is referred to in sections 24a, 1818, 1841, 1843, 2804, 3103, 3204, 3902, 4402, 4422 of this title; title 7 sections 1a, 27; title 11 sections 103, 109, 781; title 15 sections 57a, 77kkk, 78c, 78q, 1607, 1681s, 1691c, 1692<i>l</i>, 1693<i>o</i>, 4001, 6505, 6805, 6822; title 18 sections 20, 212, 213, 655, 656, 1004, 1005, 1014, 1030, 1906; title 31 section 5313.
 
 
 ---
@@ -23,7 +23,7 @@ This subchapter is referred to in sections 24a, 1818, 1841, 1843, 2804, 3103, 32
 - [&sect; 00621 - Liability of shareholders on unpaid subscriptions; membership of corporation in Federal reserve bank prohibited](%C2%A7%2000621%20-%20Liability%20of%20shareholders%20on%20unpaid%20subscriptions%3B%20membership%20of%20corporation%20in%20Federal%20reserve%20bank%20prohibited.md)
 - [&sect; 00622 - Forfeiture of rights and privileges; dissolution; liability of directors and officers](%C2%A7%2000622%20-%20Forfeiture%20of%20rights%20and%20privileges%3B%20dissolution%3B%20liability%20of%20directors%20and%20officers.md)
 - [&sect; 00623 - Voluntary liquidation](%C2%A7%2000623%20-%20Voluntary%20liquidation.md)
-- [&sect; 00624 - Receivers](%C2%A7%2000624%20-%20Receivers.md)
+- [&sect; 00624 - Appointment of receiver or conservator](%C2%A7%2000624%20-%20Appointment%20of%20receiver%20or%20conservator.md)
 - [&sect; 00625 - Stockholders&#8217; meetings; books and records; reports; examination](%C2%A7%2000625%20-%20Stockholders%E2%80%99%20meetings%3B%20books%20and%20records%3B%20reports%3B%20examination.md)
 - [&sect; 00626 - Dividends; surplus fund](%C2%A7%2000626%20-%20Dividends%3B%20surplus%20fund.md)
 - [&sect; 00627 - State taxation](%C2%A7%2000627%20-%20State%20taxation.md)

@@ -6,7 +6,7 @@ Notwithstanding the provisions of any other law, whenever the United States is c
 
 #### (b) Penalties
 
-Any person who willfully violates or evades or attempts to violate or evade any order, rule, or regulation issued by the President pursuant to subsection (a) of this section shall, upon conviction, be find <sup>1</sup> not more than $10,000 or, if a natural person, be imprisoned for not more than ten years, or both; and the officer, director, or agent of any corporation who knowingly participates in such violation or evasion shall be punished by a like fine, imprisonment, or both, and any property, funds, securities, papers, or other articles or documents, or any vessel, together with her tackle, apparel, furniture, and equipment, or vehicle, or aircraft, concerned in such violation shall be forfeited to the United States.
+Any person who willfully violates or evades or attempts to violate or evade any order, rule, or regulation issued by the President pursuant to subsection (a) of this section shall, upon conviction, be find <sup>1</sup> not more than $10,000 or, if a natural person, be imprisoned for not more than ten years, or both; and the officer, director, or agent of any corporation who knowingly participates in such violation or evasion shall be punished by a like fine, imprisonment, or both, and anyproperty, funds, securities, papers, or other articles or documents, or any vessel, together with her tackle, apparel, furniture, and equipment, or vehicle, or aircraft, concerned in such violation shall be forfeited to the United States.
 
 #### (c) Steel mill products containing chromium; certificate of origin; regulations; subpenas; certificate exemption; release from customs custody; definitions
 
@@ -74,7 +74,7 @@ Section 2 of Pub. L. 95–12 provided that:
 
 #### Executive Order No. 11322
 
-Ex. Ord. No. 11322, Jan. 5, 1967, 32 F.R. 119, which related to transactions involving Southern Rhodesia, was revoked by Ex. Ord. No. 12183, Dec. 16, 1979, 44 F.R. 74787, set out below.
+Ex. Ord. No. 11322, Jan. 5, 1967, 32 F.R. 119, which related to transactions involving Southern Rhodesia, wasrevoked by Ex. Ord. No. 12183, Dec. 16, 1979, 44 F.R. 74787, set out below.
 
 #### Executive Order No. 11419
 
@@ -106,7 +106,7 @@ By the authority vested in me as President by the Constitution and statutes of t
 
 1–103. (a) The Secretaries of State, the Treasury, Commerce, and Transportation, and the heads of other government agencies, shall take the appropriate measures to implement this order.
 
-(b) In carrying out their respective functions and responsibilities under this order, the Secretaries of theTreasury, Commerce, and Transportation, and the heads of other government agencies, shall, as appropriate, consult with the Secretary of State. Each such Secretary and agency head and the Secretary of State shall also consult with other government agencies and private persons, as appropriate.
+(b) In carrying out their respective functions and responsibilities under this order, the Secretaries of the Treasury, Commerce, and Transportation, and the heads of other government agencies, shall, as appropriate, consult with the Secretary of State. Each such Secretary and agency head and the Secretary of State shall also consult with other government agencies and private persons, as appropriate.
 
 Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

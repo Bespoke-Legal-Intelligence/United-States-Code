@@ -4,7 +4,3 @@ The Secretary of the Interior is authorized, in his discretion and under regulat
 
 (Jan. 24, 1923, ch. 42, 42 Stat. 1214.)
 
-#### Cross References
-
-Conservation of elk in Wyoming, National Elk Refuge in Wyoming, and Wyoming Elk Reserve, see sections 673 to 673c of this title.
-

@@ -14,7 +14,7 @@ Enforcement functions of Secretary or other official in Department of the Interi
 
 #### Reporting Requirements of Advisory Council on Historic Preservation
 
-Pub. L. 104–333, div. I, title V, §509(b), Nov. 12, 1996, 110 Stat. 4157, provided that: “Within 18 months after the date of enactment of this Act \[Nov. 12, 1996\], the Advisory Council on Historic Preservation shall submit a report to the appropriate congressional committees containing an analysis of alternatives for modifying the regulatory process for addressing impacts of Federal actions on nationally significant historic properties, as well as alternatives for future promulgation and oversight of regulations for implementation of section 106 of the National Historic Preservation Act \[16 U.S.C. 470f\].”
+Pub. L. 104–333, div. I, title V, §509(b), Nov. 12, 1996, 110 Stat. 4157, provided that: “Within 18 months afterthe date of enactment of this Act \[Nov. 12, 1996\], the Advisory Council on Historic Preservation shall submit a report to the appropriate congressional committees containing an analysis of alternatives for modifying the regulatory process for addressing impacts of Federal actions on nationally significant historic properties, as well as alternatives for future promulgation and oversight of regulations for implementation of section 106 of the National Historic Preservation Act \[16 U.S.C. 470f\].”
 
 #### Section Referred to in Other Sections
 

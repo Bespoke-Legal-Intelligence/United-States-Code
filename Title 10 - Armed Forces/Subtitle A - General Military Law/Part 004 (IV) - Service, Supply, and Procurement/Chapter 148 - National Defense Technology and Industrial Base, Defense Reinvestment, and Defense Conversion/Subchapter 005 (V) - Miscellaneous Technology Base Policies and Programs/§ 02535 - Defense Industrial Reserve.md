@@ -52,7 +52,7 @@ The Federal Property and Administrative Services Act of 1949, referred to in sub
 
 The text of section 451 of Title 50, War and National Defense, which was transferred to this section, designated subsec. (a), and amended by Pub. L. 102–484, §4235(a)(2), was based on acts July 2, 1948, ch. 811, §2, 62 Stat. 1225; Nov. 16, 1973, Pub. L. 93–155, title VIII, §809, 87 Stat. 617.
 
-The text of section 453 of Title 50 which was transferred to this section, designated subsec. (b), and amended by Pub. L. 102–484, §4235(a)(3), was based on acts July 2, 1948, ch. 811, §4, 62 Stat. 1226; Nov. 16, 1973, Pub. L. 93–155, title VIII, §809, 87 Stat. 617; Nov. 14, 1986, Pub. L. 99–661, div. A, title XIII, §1359(a), 100 Stat. 3999. For effective date of 1986 amendment, see section 1359(b) of Pub. L. 99–661.
+The text of section 453 of Title 50 which was transferred to this section, designated subsec. (b), and amended by Pub. L. 102–484, §4235(a)(3), was based on acts July 2, 1948, ch. 811, §4, 62 Stat. 1226; Nov. 16, 1973, Pub. L. 93–155, title VIII, §809, 87 Stat. 617; Nov. 14, 1986, Pub. L. 99–661, div. A, title XIII, §1359(a), 100 Stat. 3999.For effective date of 1986 amendment, see section 1359(b) of Pub. L. 99–661.
 
 The text of section 452 of Title 50 which was transferred to this section, designated subsec. (c), and amended by Pub. L. 102–484, §4235(b), was based on acts July 2, 1948, ch. 811, §3, 62 Stat. 1225; Nov. 16, 1973, Pub. L. 93–155, title VIII, §809, 87 Stat. 617.
 

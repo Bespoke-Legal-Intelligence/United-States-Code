@@ -56,119 +56,7 @@ In the analysis of sections under this chapter heading, a new item, “14. Appli
 
 #### Commission on the Advancement of Federal Law Enforcement
 
-Pub. L. 104–132, title VIII, §806, Apr. 24, 1996, 110 Stat. 1305, provided that:
-
-“(a)
-
-Establishment.—There is established a commission to be known as the ‘Commission on the Advancement of Federal Law Enforcement’ (hereinafter in this section referred to as the ‘Commission’).
-
-“(b)
-
-Duties.—The Commission shall review, ascertain, evaluate, report, and recommend action to the Congress on the following matters:
-
-&emsp;“(1) The Federal law enforcement priorities for the 21st century, including Federal law enforcement capability to investigate and deter adequately the threat of terrorism facing the United States.
-
-&emsp;“(2) In general, the manner in which significant Federal criminal law enforcement operations are conceived, planned, coordinated, and executed.
-
-&emsp;“(3) The standards and procedures used by Federal law enforcement to carry out significant Federal criminal law enforcement operations, and their uniformity and compatibility on an interagency basis, including standards related to the use of deadly force.
-
-&emsp;“(4) The investigation and handling of specific Federal criminal law enforcement cases by the United States Government and the Federal law enforcement agencies therewith, selected at the Commission's discretion.
-
-&emsp;“(5) The necessity for the present number of Federal law enforcement agencies and units.
-
-&emsp;“(6) The location and efficacy of the office or entity directly responsible, aside from the President of the United States, for the coordination on an interagency basis of the operations, programs, and activities of all of the Federal law enforcement agencies.
-
-&emsp;“(7) The degree of assistance, training, education, and other human resource management assets devoted to increasing professionalism for Federal law enforcement officers.
-
-&emsp;“(8) The independent accountability mechanisms that exist, if any, and their efficacy to investigate, address, and to correct Federal law enforcement abuses.
-
-&emsp;“(9) The degree of coordination among law enforcement agencies in the area of international crime and the extent to which deployment of resources overseas diminishes domestic law enforcement.
-
-&emsp;“(10) The extent to which Federal law enforcement agencies coordinate with State and local law enforcement agencies on Federal criminal enforcement operations and programs that directly affect a State or local law enforcement agency's geographical jurisdiction.
-
-&emsp;“(11) Such other related matters as the Commission deems appropriate.
-
-“(c)
-
-Membership and Administrative Provisions.—
-
-&emsp;“(1)
-
-Number and appointment.—The Commission shall be composed of 5 members appointed as follows:
-
-&emsp;&emsp;“(A) 1 member appointed by the President pro tempore of the Senate.
-
-&emsp;&emsp;“(B) 1 member appointed by the minority leader of the Senate.
-
-&emsp;&emsp;“(C) 1 member appointed by the Speaker of the House of Representatives.
-
-&emsp;&emsp;“(D) 1 member appointed by the minority leader of the House of Representatives.
-
-&emsp;&emsp;“(E) 1 member (who shall chair the Commission) appointed by the Chief Justice of the Supreme Court.
-
-&emsp;“(2)
-
-Disqualification.—A person who is an officer or employee of the United States shall not be appointed a member of the Commission.
-
-&emsp;“(3)
-
-Terms.—Each member shall be appointed for the life of the Commission.
-
-&emsp;“(4)
-
-Quorum.—3 members of the Commission shall constitute a quorum but a lesser number may hold hearings.
-
-&emsp;“(5)
-
-Meetings.—The Commission shall meet at the call of the Chair of the Commission.
-
-&emsp;“(6)
-
-Compensation.—Each member of the Commission who is not an officer or employee of the Federal Government shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of title 5, United States Code, for each day, including travel time, during which the member is engaged in the performance of the duties of the Commission.
-
-“(d)
-
-Staffing and Support Functions.—
-
-&emsp;“(1)
-
-Director.—The Commission shall have a director who shall be appointed by the Chair of the Commission.
-
-&emsp;“(2)
-
-Staff.—Subject to rules prescribed by the Commission, the Director may appoint additional personnel as the Commission considers appropriate.
-
-&emsp;“(3)
-
-Applicability of certain civil service laws.—The Director and staff of the Commission shall be appointed subject to the provisions of title 5, United States Code, governing appointments in the competitive service, and shall be paid in accordance with the provisions of chapter 51 and subchapter III of chapter 53 of that title relating to classification and General Schedule pay rates.
-
-“(e)
-
-Powers.—
-
-&emsp;“(1)
-
-Hearings and sessions.—The Commission may, for the purposes of carrying out this Act \[see Short Title of 1996 Amendments note set out under section 1 of this title and Tables\], hold hearings, sit and act at times and places, take testimony, and receive evidence as the Commission considers appropriate. The Commission may administer oaths or affirmations to witnesses appearing before it. The Commission may establish rules for its proceedings.
-
-&emsp;“(2)
-
-Powers of members and agents.—Any member or agent of the Commission may, if authorized by the Commission, take any action which the Commission is authorized to take by this section.
-
-&emsp;“(3)
-
-Obtaining official data.—The Commission may secure directly from any department or agency of the United States information necessary to enable it to carry out this section. Upon request of the Chair of the Commission, the head of that department or agency shall furnish that information to the Commission, unless doing so would threaten the national security, the health or safety of any individual, or the integrity of an ongoing investigation.
-
-&emsp;“(4)
-
-Administrative support services.—Upon the request of the Commission, the Administrator of General Services shall provide to the Commission, on a reimbursable basis, the administrative support services necessary for the Commission to carry out its responsibilities under this title \[enacting section 3059B of this title and section 137 of Title 40, Public Buildings, Property, and Works, amending section 2703 of this title and section 3751 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under section 470 of this title, section 2201 of Title 15, Commerce and Trade, sections 509, 531, 533, 534, and 994 of Title 28, Judiciary and Judicial Procedure, and section 3721 of Title 42\].
-
-“(f)
-
-Report.—The Commission shall transmit a report to the Congress and the public not later than 2 years after a quorum of the Commission has been appointed. The report shall contain a detailed statement of the findings and conclusions of the Commission, together with the Commission's recommendations for such actions as the Commission considers appropriate.
-
-“(g)
-
-Termination.—The Commission shall terminate 30 days after submitting the report required by this section.”
+Pub. L. 104–132, title VIII, §806, Apr. 24, 1996, 110 Stat. 1305, established Commission on the Advancement of Federal Law Enforcement, directed Commission to review and recommend action to Congress on Federal law enforcement priorities for 21st century, including Federal law enforcement capability to investigate and deter adequately threat of terrorism facing United States, standards and procedures, degree of coordination with international, State, and local law enforcement agencies, and other matters, provided for membership and administration of Commission, staffing and support functions, and powers to hold hearings and obtain official data for purposes of carrying out its duties, required report to Congress and public of findings, conclusions, and recommendations not later than 2 years after quorum of Commission had been appointed, and provided for termination of Commission 30 days after submitting report.
 
 #### National Commission on Reform of Federal Criminal Laws
 
@@ -184,7 +72,7 @@ WHEREAS coordination of all Federal Criminal law enforcement activities and crim
 
 WHEREAS the Federal Government has acknowledged the need to provide assistance to State and local law enforcement agencies in the development and administration of programs directed to the prevention and control of crime:
 
-WHEREAS to provide such assistance the Congress has authorized various departments and agencies of the Federal Government to develop programs which may benefit State and local efforts directed at the prevention and control of crime, and the coordination of such programs is desirable to develop and administer them most effectively; and
+WHEREAS to provide such assistance the Congress has authorized various departments and agencies of the Federal Government to develop programs which maybenefit State and local efforts directed at the prevention and control of crime, and the coordination of such programs is desirable to develop and administer them most effectively; and
 
 WHEREAS the Attorney General, as the chief law officer of the Federal Government, is charged with the responsibility for all prosecutions for violations of the Federal criminal statutes and is authorized under the Law Enforcement Assistance Act of 1965 (79 Stat. 828) \[formerly set out as a note preceding section 3001 of this title\] to cooperate with and assist State, local, or other public or private agencies in matters relating to law enforcement organization, techniques and practices, and the prevention and control of crime.
 

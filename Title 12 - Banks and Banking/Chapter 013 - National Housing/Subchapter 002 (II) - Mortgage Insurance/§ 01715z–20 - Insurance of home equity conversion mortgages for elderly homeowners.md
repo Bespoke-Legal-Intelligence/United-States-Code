@@ -4,7 +4,7 @@
 
 The purpose of this section is to authorize the Secretary to carry out a program of mortgage insurance designed—
 
-&emsp;(1) to meet the special needs of elderly homeowners by reducing the effect of the economic hardship caused by the increasing costs of meeting health, housing, and subsistence needs at a time of reduced income, through the insurance of home equity conversion mortgages to permit the conversion of a portion of accumulated home equity into liquid assets; and
+&emsp;(1) to meet the special needs of elderly homeowners by reducing the effect of the economic hardship caused by the increasing costs of meeting health, housing, and subsistence needs at a time of reduced income, through the insurance of home equity conversion mortgages to permit the conversion of a portion ofaccumulated home equity into liquid assets; and
 
 &emsp;(2) to encourage and increase the involvement of mortgagees and participants in the mortgage markets in the making and servicing of home equity conversion mortgages for elderly homeowners.
 
@@ -12,11 +12,23 @@ The purpose of this section is to authorize the Secretary to carry out a program
 
 For purposes of this section:
 
-&emsp;(1) The terms “elderly homeowner” and “homeowner” mean any homeowner who is, orwhose spouse is, at least 62 years of age or such higher age as the Secretary may prescribe.
+&emsp;(1) The terms “elderly homeowner” and “homeowner” mean any homeowner who is, or whose spouse is, at least 62 years of age or such higher age as the Secretary may prescribe.
 
-&emsp;(2) The terms “mortgage”, “mortgagee”, “mortgagor”, and “State” have the meanings given such terms in section 1707 of this title.
+&emsp;(2) The terms “mortgagee”, “mortgagor”, and “State” have the meanings given such terms in section 1707 of this title.
 
 &emsp;(3) The term “home equity conversion mortgage” means a first mortgage which provides for future payments to the homeowner based on accumulated equity and which a housing creditor (as defined in section 3802(2) of this title) is authorized to make (A) under any law of the United States (other than section 3803 of this title) or applicable agency regulations thereunder; (B) in accordance with section 3803 of this title, notwithstanding any State constitution, law, or regulation; or (C) under any State constitution, law, or regulation.
+
+&emsp;(4)
+
+Mortgage.—The term “mortgage” means a first mortgage or first lien on real estate, in fee simple, on all stock allocated to a dwelling in a residential cooperative housing corporation, or on a leasehold—
+
+&emsp;&emsp;(A) under a lease for not less than 99 years that is renewable; or
+
+&emsp;&emsp;(B) under a lease having a period of not less than 10 years to run beyond the maturity date of the mortgage.
+
+&emsp;(5)
+
+First mortgage.—The term “first mortgage” means such classes of first liens as are commonly given to secure advances on, or the unpaid purchase price of, real estate or all stock allocated to a dwelling unit in a residential cooperative housing corporation, under the laws of the State in which the real estate or dwelling unit is located, together with the credit instruments, if any, secured thereby.
 
 #### (c) Insurance authority
 
@@ -84,7 +96,7 @@ The Secretary shall require each mortgagee of a mortgage insured under this sect
 
 &emsp;(1) at the time of the loan application, a written list of the names and addresses of third-party information sources who are approved by the Secretary as responsible and able to provide the information required by subsection (f) of this section;
 
-&emsp;(2) at least 10 days prior to loan closing, a statement informing the homeowner that the liability of the homeowner under the mortgage is limited and explaining the homeowner's rights, obligations, and remedies withrespect to temporary absences from the home, late payments, and payment default by the lender, all conditions requiring satisfaction of the loan obligation, and any other information that the Secretary may require;
+&emsp;(2) at least 10 days prior to loan closing, a statement informing the homeowner that the liability of the homeowner under the mortgage is limited and explaining the homeowner's rights, obligations, and remedies with respect to temporary absences from the home, late payments, and payment default by the lender, all conditions requiring satisfaction of the loan obligation, and any other information that the Secretary may require;
 
 &emsp;(3) on an annual basis (but not later than January 31 of each year), a statement summarizing the total principal amount paid to the homeowner under the loan secured by the mortgage, the total amount of deferred interest added to the principal, and the outstanding loan balance at the end of the preceding year; and
 
@@ -148,7 +160,63 @@ The Secretary may—
 
 The Secretary may not insure a home equity conversion mortgage under this section unless such mortgage provides that the homeowner's obligation to satisfy the loan obligation is deferred until the homeowner's death, the sale of the home, or the occurrence of other events specified in regulations of the Secretary. For purposes of this subsection, the term “homeowner” includes the spouse of a homeowner. Section 1647(b) of title 15) and any implementing regulations issued by the Board of Governors of the Federal Reserve System shall not apply to a mortgage insured under this section.
 
-#### (k) Funding for counseling and consumer education and outreach
+#### (k) Insurance authority for refinancings
+
+#### (1) In general
+
+&emsp;The Secretary may, upon application by a mortgagee, insure under this subsection any mortgage given to refinance an existing home equity conversion mortgage insured under this section.
+
+#### (2) Anti-churning disclosure
+
+&emsp;The Secretary shall, by regulation, require that the mortgagee of a mortgage insured under this subsection, provide to the mortgagor, within an appropriate time period and in a manner established in such regulations, a good faith estimate of: (A) the total cost of the refinancing; and (B) the increase in the mortgagor's principal limit as measured by the estimated initial principal limit on the mortgage to be insured under this subsection less the current principal limit on the home equity conversion mortgage that is being refinanced and insured under this subsection.
+
+#### (3) Waiver of counseling requirement
+
+&emsp;The mortgagor under a mortgage insured under this subsection may waive the applicability, with respect to such mortgage, of the requirements under subsection (d)(2)(B) of this section (relating to third party counseling), but only if—
+
+&emsp;&emsp;(A) the mortgagor has received the disclosure required under paragraph (2);
+
+&emsp;&emsp;(B) the increase in the principal limit described in paragraph (2) exceeds the amount of the total cost of refinancing (as described in such paragraph) by an amount to be determined by the Secretary; and
+
+&emsp;&emsp;(C) the time between the closing of the original home equity conversion mortgage that is refinanced through the mortgage insured under this subsection and the application for a refinancing mortgage insured under this subsection does not exceed 5 years.
+
+#### (4) Credit for premiums paid
+
+&emsp;Notwithstanding section 1709(c)(2)(A) of this title, the Secretary may reduce the amount of the single premium payment otherwise collected under such section at the time of the insurance of a mortgage refinanced and insured under this subsection. The amount of the single premium for mortgages refinanced under this subsection shall be determined by the Secretary based on the actuarial study required under paragraph (5).
+
+#### (5) Actuarial study
+
+&emsp;Not later than 180 days after December 27, 2000, the Secretary shall conduct an actuarial analysis to determine the adequacy of the insurance premiums collected under the program under this subsection with respect to—
+
+&emsp;&emsp;(A) a reduction in the single premium payment collected at the time of the insurance of a mortgage refinanced and insured under this subsection;
+
+&emsp;&emsp;(B) the establishment of a single national limit on the benefits of insurance under subsection (g) of this section (relating to limitation on insurance authority); and
+
+&emsp;&emsp;(C) the combined effect of reduced insurance premiums and a single national limitation on insurance authority.
+
+#### (6) Fees
+
+&emsp;The Secretary may establish a limit on the origination fee that may be charged to a mortgagor under a mortgage insured under this subsection, except that such limitation shall provide that the origination fee may be fully financed with the mortgage and shall include any fees paid to correspondent mortgagees approved by the Secretary.
+
+#### (<i>l</i>) Waiver of up-front premiums for mortgages to fund long-term care insurance
+
+#### (1) In general
+
+&emsp;In the case of any mortgage insured under this section under which the total amount (except as provided in paragraph (2)) of all future payments described in subsection (b)(3) of this section will be used only for costs of a qualified long-term care insurance contract that covers the mortgagor or members of the household residing in the property that is subject to the mortgage, notwithstanding section 1709(c)(2) of this title, the Secretary shall not charge or collect the single premium payment otherwise required under subparagraph (A) of such section to be paid at the time of insurance.
+
+#### (2) Authority to refinance existing mortgage and finance closing costs
+
+&emsp;A mortgage described in paragraph (1) may provide financing of amounts that are used to satisfy outstanding mortgage obligations (in accordance with such limitations as the Secretary shall prescribe) and any amounts used for initial service charges, appraisal, inspection, and other fees (as approved by the Secretary) in connection with such mortgage, andthe amount of future payments described in subsection (b)(3) of this section under the mortgage shall be reduced accordingly.
+
+#### (3) Definition
+
+&emsp;For purposes of this subsection, the term “qualified long-term care insurance contract” has the meaning given such term in section 7702B of title 26, except that such contract shall also meet the requirements of—
+
+&emsp;&emsp;(A) sections 9 (relating to disclosure), 24 (relating to suitability), and 26 (relating to contingent nonforfeiture) of the long-term care insurance model regulation promulgated by the National Association of Insurance Commissioners (as adopted as of September 2000); and
+
+&emsp;&emsp;(B) section 8 (relating to contingent nonforfeiture) of the long-term care insurance model Act promulgated by the National Association of Insurance Commissioners (as adopted as of September 2000).
+
+#### (m) Funding for counseling and consumer education and outreach
 
 Of any amounts made available for any of fiscal years 2000 through 2003 for housing counseling under section 1701x of this title, up to a total of $1,000,000 shall be available to the Secretary in each such fiscal year, in such amounts as the Secretary determines appropriate, for the following purposes in connection with home equity conversion mortgages insured under this section:
 
@@ -160,9 +228,15 @@ Of any amounts made available for any of fiscal years 2000 through 2003 for hous
 
 &emsp;For transfer to the departmental salaries and expenses account for consumer education and outreach activities.
 
-(June 27, 1934, ch. 847, title II, §255, as added Pub. L. 100–242, title IV, §417(a), Feb. 5, 1988, 101 Stat. 1908; amended Pub. L. 100–628, title X, §1066, Nov. 7, 1988, 102 Stat. 3275; Pub. L. 101–508, title II, §2106, Nov. 5, 1990, 104 Stat. 1388–20; Pub. L. 101–625, title III, §334(b)–(d), Nov. 28, 1990, 104 Stat. 4141, 4142; Pub. L. 102–389, title II, Oct. 6, 1992, 106 Stat. 1592; Pub. L. 102–550, title V, §§503(c)(2), 520, Oct. 28, 1992, 106 Stat. 3779, 3793; Pub. L. 104–99, title IV, §406, Jan. 26, 1996, 110 Stat. 45; Pub. L. 104–120, §6, Mar. 28, 1996, 110 Stat. 835; Pub. L. 105–276, title V, §593(a)–(e)(1), Oct. 21, 1998, 112 Stat. 2654, 2655.)
+(June 27, 1934, ch. 847, title II, §255, as added Pub. L. 100–242, title IV, §417(a), Feb. 5, 1988, 101 Stat. 1908; amended Pub. L. 100–628, title X, §1066, Nov. 7, 1988, 102 Stat. 3275; Pub. L. 101–508, title II, §2106, Nov. 5, 1990, 104 Stat. 1388–20; Pub. L. 101–625, title III, §334(b)–(d), Nov. 28, 1990, 104 Stat. 4141, 4142; Pub. L. 102–389, title II, Oct. 6, 1992, 106 Stat. 1592; Pub. L. 102–550, title V, §§503(c)(2), 520, Oct. 28, 1992, 106 Stat. 3779, 3793; Pub. L. 104–99, title IV, §406, Jan. 26, 1996, 110 Stat. 45; Pub. L. 104–120, §6, Mar. 28, 1996, 110 Stat. 835; Pub. L. 105–276, title V, §593(a)–(e)(1), Oct. 21, 1998, 112 Stat. 2654, 2655; Pub. L. 106–569, title II, §201(a)(1), (b), (c)(1), Dec. 27, 2000, 114 Stat. 2948, 2950.)
 
 #### Amendments
+
+2000—Subsec. (b)(2). Pub. L. 106–569, §201(b)(1), struck out “ ‘mortgage’,” before “ ‘mortgagee’,”.
+
+Subsec. (b)(4), (5). Pub. L. 106–569, §201(b)(2), added pars. (4) and (5).
+
+Subsecs. (k) to (m). Pub. L. 106–569, §201(a)(1), (c)(1), added subsecs. (k) and (<i>l</i>) and redesignated former subsec. (k) as (m).
 
 1998—Pub. L. 105–276, §593(d)(1), struck out “Demonstration program of” before “Insurance” in section catchline.
 
@@ -214,6 +288,10 @@ Subsec. (g). Pub. L. 101–508, §2106, substituted “September 30, 1995” for
 
 Subsec. (d)(3). Pub. L. 100–628, §1066(b), struck out “and that has a value not to exceed the maximum dollar amount established by the Secretary under section 1709(b)(2) of this title for a 1-family residence” after “by the mortgagor”.
 
+#### Effective Date of 2000 Amendment
+
+Pub. L. 106–569, title II, §201(c)(2), Dec. 27, 2000, 114 Stat. 2951, provided that: “The provisions of section 255(<i>l</i>) of the National Housing Act \[12 U.S.C.1715z–20(<i>l</i>)\] (as added by paragraph (1) of this subsection) shall apply only to mortgages closed on or after April 1, 2001.”
+
 #### Effective Date of 1998 Amendment
 
 Pub. L. 105–276, title V, §593(f), Oct. 21, 1998, 112 Stat. 2655, provided that: “This section \[amending this section and enacting provisions set out as a note below\] shall take effect on, and the amendments made by this section are made on, and shall apply beginning upon, the date of the enactment of this Act \[Oct. 21, 1998\].”
@@ -223,6 +301,8 @@ Pub. L. 105–276, title V, §593(f), Oct. 21, 1998, 112 Stat. 2655, provided th
 Amendment by Pub. L. 104–120 to be construed to have become effective Oct. 1, 1995, see section 13(a) of Pub. L. 104–120, set out as an Effective and Termination Dates of 1996 Amendments note under section 1437d of Title 42, The Public Health and Welfare.
 
 #### Regulations
+
+Pub. L. 106–569, title II, §201(a)(2), Dec. 27, 2000, 114 Stat. 2949, provided that: “The Secretary shall issue any final regulations necessary to implement the amendments made by paragraph (1) of this subsection \[amending this section\], which shall take effect not later than the expiration of the 180-day period beginning on the date of the enactment of this Act \[Dec. 27, 2000\]. The regulations shall be issued after notice and opportunity for public comment in accordance with the procedure under section 553 of title 5, United States Code, applicable to substantive rules (notwithstanding subsections (a)(2), (b)(B), and (d)(3) of such section).”
 
 Section 417(b) of Pub. L. 100–242 directed Secretary of Housing and Urban Development, not later than 6 months after Feb. 5, 1988, to consult with lenders, insurers, and organizations and individuals with expertise in home equity conversion in developing proposed regulations implementing this section and not later than 9 months after Feb. 5, 1988, to issue proposed regulations implementing this section.
 

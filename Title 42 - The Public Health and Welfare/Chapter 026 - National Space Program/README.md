@@ -10,9 +10,8 @@
 | (c) | Commercial use of space. |
 | (d) | Objectives of aeronautical and space activities. |
 | (e) | Ground propulsion systems research and development. |
-| (f) | Development of advanced automobile propulsion systems. |
-| (g) | Bioengineering research, development, and demonstration programs. |
-| (h) | Purpose of chapter. |
+| (f) | Bioengineering research, development, and demonstration programs. |
+| (g) | Purpose of chapter. |
 | [2452\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002452%20-%20Definitions.md) | Definitions. |
 | [2453\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002453%20-%20Transfer%20of%20related%20functions%20to%20Administration.md) | Transfer of related functions to Administration. |
 | (a) | Functions of other departments and agencies; transfer of records, etc. |
@@ -60,6 +59,7 @@
 | (c) | Cross-waivers. |
 | (d) | Definitions. |
 | (e) | Relationship to other laws. |
+| (f) | Termination. |
 | [2459\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002459%20-%20Appropriations.md) | Appropriations. |
 | (a) | Authorization; limitations for uses of capital nature. |
 | (b) | Use of funds for emergency repairs of existing facilities. |
@@ -71,6 +71,14 @@
 | [2459e.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002459e%20-%20Quality%20assurance%20personnel.md) | Quality assurance personnel. |
 | (a) | Exclusion of NASA personnel. |
 | (b) | Contract provisions. |
+| [2459f.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002459f%20-%20Appropriation%20accounts%3B%20transfers.md) | Appropriation accounts; transfers. |
+| (a) | Designation of accounts for appropriations. |
+| (b) | Transfers among accounts. |
+| (c) | Transfer of Missions support account balances. |
+| [2459g.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002459g%20-%20Requirement%20for%20independent%20cost%20analysis.md) | Requirement for independent cost analysis. |
+| (a) | Requirement. |
+| (b) | Definition. |
+| [2459h.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002459h%20-%20Cost%20effectiveness%20calculations.md) | Cost effectiveness calculations. |
 | [2460\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002460%20-%20Appropriations%3B%20prior%20authorization%20by%20Congress.md) | Appropriations; prior authorization by Congress. |
 | [2461\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002461%20-%20Congressional%20Space%20Medal%20of%20Honor%3B%20appropriations.md) | Congressional Space Medal of Honor; appropriations. |
 | [2462\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002462%20-%20Repealed.%20Pub.%20L.%2097%E2%80%9396%2C%20%C2%A78%2C%20Dec.%2021%2C%201981%2C%2095%20Stat.%201211.md) | Repealed. |
@@ -139,10 +147,14 @@
 | (g) | Effect on other laws and regulations. |
 | (h) | “Controlled substance” defined. |
 | [2473d.](Subchapter%20002%20%28II%29%20-%20Coordination%20of%20Aeronautical%20and%20Space%20Activities/%C2%A7%2002473d%20-%20Use%20of%20abandoned%20and%20underutilized%20buildings%2C%20grounds%2C%20and%20facilities.md) | Use of abandoned and underutilized buildings, grounds, and facilities. |
-| (a) | General rule. |
-| (b) | “Depressed communities” defined. |
+| (a) | In general. |
+| (b) | Definition. |
 | [2474\.](Subchapter%20002%20%28II%29%20-%20Coordination%20of%20Aeronautical%20and%20Space%20Activities/%C2%A7%2002474%20-%20Omitted.md) | Omitted. |
 | [2475\.](Subchapter%20002%20%28II%29%20-%20Coordination%20of%20Aeronautical%20and%20Space%20Activities/%C2%A7%2002475%20-%20International%20cooperation.md) | International cooperation. |
+| [2475a.](Subchapter%20002%20%28II%29%20-%20Coordination%20of%20Aeronautical%20and%20Space%20Activities/%C2%A7%2002475a%20-%20Competitiveness%20and%20international%20cooperation.md) | Competitiveness and international cooperation. |
+| (a) | Limitation. |
+| (b) | National interests. |
+| [2475b.](Subchapter%20002%20%28II%29%20-%20Coordination%20of%20Aeronautical%20and%20Space%20Activities/%C2%A7%2002475b%20-%20Foreign%20contract%20limitation.md) | Foreign contract limitation. |
 | [2476\.](Subchapter%20002%20%28II%29%20-%20Coordination%20of%20Aeronautical%20and%20Space%20Activities/%C2%A7%2002476%20-%20Reports%20to%20Congress.md) | Reports to Congress. |
 | (a) | Presidential report; transmittal. |
 | (b) | Recommendations for additional legislation. |

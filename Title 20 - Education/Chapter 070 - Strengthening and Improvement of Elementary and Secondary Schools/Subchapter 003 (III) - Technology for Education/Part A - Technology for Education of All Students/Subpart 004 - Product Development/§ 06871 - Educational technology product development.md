@@ -12,7 +12,7 @@ It is the purpose of this subpart to—
 
 #### (1) In general
 
-&emsp;The Secretary shall provide assistance, on a competitive basis, to eligible consortia to enable such entities to develop, produce, and distribute state-of-the-art technology-enhancedinstructional resources and programming for use in the classroom or to support professional development for teachers.
+&emsp;The Secretary shall provide assistance, on a competitive basis, to eligible consortia to enable such entities to develop, produce, and distribute state-of-the-art technology-enhanced instructional resources and programming for use in the classroom or to support professional development for teachers.
 
 #### (2) Grants and loans authorized
 
@@ -26,7 +26,7 @@ It is the purpose of this subpart to—
 
 &emsp;&emsp;&emsp;(ii) shall bear interest at a rate determined by the Secretary which shall be not more than the total of one-quarter of 1 percent per annum added to the rate of interest paid by the Secretary on funds obtained from the Secretary of the Treasury; and
 
-&emsp;&emsp;&emsp;(iii) may be forgiven by the Secretary, in an amount not to exceed 25 percent of the total loan, under such terms and conditions as the Secretary may consider appropriate.
+&emsp;&emsp;&emsp;(iii) may be forgiven by the Secretary, in an amount not to exceed 25 percent of thetotal loan, under such terms and conditions as the Secretary may consider appropriate.
 
 #### (3) Matching requirement
 
@@ -92,7 +92,7 @@ It is the purpose of this subpart to—
 
 #### (c) Consumer report
 
-The Secretary shall provide for the independent evaluation of products developed under this section and shall disseminate information about products developed pursuant to provisions of this section to State and local educational agencies, and other organizations or individuals that the Secretary determines to be appropriate,through print and electronic media that are accessible to the education community at large.
+The Secretary shall provide for the independent evaluation of products developed under this section and shall disseminate information about products developed pursuant to provisions of this section to State and local educational agencies, and other organizations or individuals that the Secretary determines to be appropriate, through print and electronic media that are accessible to the education community at large.
 
 #### (d) Proceeds
 

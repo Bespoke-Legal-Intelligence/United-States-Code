@@ -90,7 +90,7 @@ Contracting-out Issues To Be Included in Negotiations.—Proposals on the subjec
 
 &emsp;“(2) may, at the mutual election of Amtrak and an organization representing Amtrak employees, be included in any negotiation in progress under section 6 of the Railway Labor Act (45 U.S.C. 156) on the date of enactment of this Act; and
 
-&emsp;“(3) may not be included in any negotiation in progress under section 6 of the Railway Labor Act (45 U.S.C. 156) on the date of enactment of this Act, unless both Amtrak and the organization representing Amtrak employees agree to include it in the negotiation.
+&emsp;“(3) may not be included in any negotiation in progress under section 6 of the Railway Labor Act (45U.S.C. 156) on the date of enactment of this Act, unless both Amtrak and the organization representing Amtrak employees agree to include it in the negotiation.
 
 > No contract between Amtrak and an organization representing Amtrak employees, that is under negotiation on the date of enactment of this Act, may contain a moratorium that extends more than 5 years from the date of expiration of the last moratorium.
 

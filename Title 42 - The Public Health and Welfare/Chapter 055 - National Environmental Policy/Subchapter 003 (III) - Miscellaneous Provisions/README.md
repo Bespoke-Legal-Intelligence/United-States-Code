@@ -15,7 +15,7 @@
 - [&sect; 04364 - Expenditure of funds for research and development related to regulatory program activities](%C2%A7%2004364%20-%20Expenditure%20of%20funds%20for%20research%20and%20development%20related%20to%20regulatory%20program%20activities.md)
 - [&sect; 04365 - Science Advisory Board](%C2%A7%2004365%20-%20Science%20Advisory%20Board.md)
 - [&sect; 04366 - Identification and coordination of research, development, and demonstration activities](%C2%A7%2004366%20-%20Identification%20and%20coordination%20of%20research%2C%20development%2C%20and%20demonstration%20activities.md)
-- [&sect; 04366a - Development of data base of environmental research articles indexed by geographic location](%C2%A7%2004366a%20-%20Development%20of%20data%20base%20of%20environmental%20research%20articles%20indexed%20by%20geographic%20location.md)
+- [&sect; 04366a - Omitted](%C2%A7%2004366a%20-%20Omitted.md)
 - [&sect; 04367 - Reporting requirements of financial interests of officers and employees of Environmental Protection Agency](%C2%A7%2004367%20-%20Reporting%20requirements%20of%20financial%20interests%20of%20officers%20and%20employees%20of%20Environmental%20Protection%20Agency.md)
 - [&sect; 04368 - Grants to qualified citizens groups](%C2%A7%2004368%20-%20Grants%20to%20qualified%20citizens%20groups.md)
 - [&sect; 04368a - Utilization of talents of older Americans in projects of pollution prevention, abatement, and control](%C2%A7%2004368a%20-%20Utilization%20of%20talents%20of%20older%20Americans%20in%20projects%20of%20pollution%20prevention%2C%20abatement%2C%20and%20control.md)
@@ -28,3 +28,4 @@
 - [&sect; 04370c - Environmental Protection Agency fees](%C2%A7%2004370c%20-%20Environmental%20Protection%20Agency%20fees.md)
 - [&sect; 04370d - Percentage of Federal funding for organizations owned by socially and economically disadvantaged individuals](%C2%A7%2004370d%20-%20Percentage%20of%20Federal%20funding%20for%20organizations%20owned%20by%20socially%20and%20economically%20disadvantaged%20individuals.md)
 - [&sect; 04370e - Working capital fund in Treasury](%C2%A7%2004370e%20-%20Working%20capital%20fund%20in%20Treasury.md)
+- [&sect; 04370f - Availability of funds after expiration of period for liquidating obligations](%C2%A7%2004370f%20-%20Availability%20of%20funds%20after%20expiration%20of%20period%20for%20liquidating%20obligations.md)

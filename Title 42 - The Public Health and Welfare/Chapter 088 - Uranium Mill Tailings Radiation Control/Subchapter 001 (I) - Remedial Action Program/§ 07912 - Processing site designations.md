@@ -44,7 +44,7 @@
 
 &emsp;&emsp;Cannonsburg, Pennsylvania
 
-> Subject to the provisions of this subchapter, the Secretary shall complete remedial action at the above listed sites before his authority terminates under this subchapter. The Secretary shall within one year of November 8, 1978, also designate all other processing sites within the United States which he determines requires remedial action to carry out the purposes of this subchapter. In making such designation, the Secretary shall consult with the Administrator, the Commission, and the affected States, and in the case of Indian lands, the appropriate Indian tribe and the Secretary of the Interior.
+> Subject to the provisions of this subchapter, the Secretary shall complete remedial action at theabove listed sites before his authority terminates under this subchapter. The Secretary shall within one year of November 8, 1978, also designate all other processing sites within the United States which he determines requires remedial action to carry out the purposes of this subchapter. In making such designation, the Secretary shall consult with the Administrator, the Commission, and the affected States, and in the case of Indian lands, the appropriate Indian tribe and the Secretary of the Interior.
 
 (2) As part of his designation under this subsection, the Secretary, in consultation with the Commission, shall determine the boundaries of each such site.
 
@@ -76,13 +76,37 @@ The designations made, and priorities established, by the Secretary under this s
 
 > In making the designation under this paragraph, the Secretary shall consult with the Administrator, the Commission and the State of South Dakota. The provisions of this subchapter shall apply to the site so designated in the same manner and to the same extent as to the sites designated under subsection (a) of this section except that, in applying such provisions to such site, any reference in this subchapter to November 8, 1978, shall be treated as a reference to January 4, 1983, and in determining the State share under section 7917 of this title of the costs of remedial action, there shall be credited to the State, expenditures made by the State prior to January 4, 1983, which the Secretary determines would have been made by the State or the United States in carrying out the requirements of this subchapter.
 
-(Pub. L. 95–604, title I, §102, Nov. 8, 1978, 92 Stat. 3023; Pub. L. 97–415, §21, Jan. 4, 1983, 96 Stat. 2079.)
+#### (f) Designation of Moab Site as processing site
+
+#### (1) Designation
+
+&emsp;Notwithstanding any other provision of law, the Moab uranium milling site (referred to in this subsection as the “Moab site”) located approximately three miles northwest of Moab, Utah, and identified in the Final Environmental Impact Statement issued by the Nuclear Regulatory Commission in March 1996 in conjunction with Source Materials License No. SUA–917, is designated as a processing site.
+
+#### (2) Applicability
+
+&emsp;This subchapter applies to the Moab site in the same manner and to the same extent as to other processing sites designated under subsection (a) of this section, except that—
+
+&emsp;&emsp;(A) sections 7913, 7914(b), 7917(a), 7922(a), and 7925(a) of this title shall not apply; and
+
+&emsp;&emsp;(B) a reference in this subchapter to November 8, 1978, shall be treated as a reference to October 30, 2000.
+
+#### (3) Remediation
+
+&emsp;Subject to the availability of appropriations for this purpose, the Secretary shall conduct remediation at the Moab site in a safe and environmentally sound manner that takes into consideration the remedial action plan prepared pursuant to section 3405(i) of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 (10 U.S.C. 7420 note; Public Law 105–261), including—
+
+&emsp;&emsp;(A) ground water restoration; and
+
+&emsp;&emsp;(B) the removal, to a site in the State of Utah, for permanent disposition and any necessary stabilization, of residual radioactive material and other contaminated material from the Moab site and the floodplain of the Colorado River.
+
+(Pub. L. 95–604, title I, §102, Nov. 8, 1978, 92 Stat. 3023; Pub. L. 97–415, §21, Jan. 4, 1983, 96 Stat. 2079; Pub. L. 106–398, §1 \[div. C, title XXXIV, §3403(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–489.)
 
 #### References in Text
 
 Remedial action authorized under Public Law 92–314, referred to in subsec. (a)(3), means the remedial action authorized by title II of Pub. L. 92–314, June 16, 1972, 86 Stat. 222, which is not classified to the Code.
 
 #### Amendments
+
+2000—Subsec. (f). Pub. L. 106–398 added subsec. (f).
 
 1983—Subsec. (e)(3). Pub. L. 97–415 added par. (3).
 

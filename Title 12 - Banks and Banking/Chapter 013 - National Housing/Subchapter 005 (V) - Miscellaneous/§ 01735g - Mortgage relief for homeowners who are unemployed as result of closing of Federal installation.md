@@ -26,7 +26,7 @@ For the purposes of this section—
 
 (3) Prior to the issuance to any distressed mortgagor of a certificate of moratorium under paragraph (2), the Federal mortgage agency, the mortgagor, and the mortgagee shall enter into a binding agreement under which—
 
-&emsp;(A) the mortgagor will be required to make payments to such agency, after the expiration of such certificate, in an aggregate amount equal to the amount paid by such agency on behalf of such mortgagor as provided in subsection (c) of this section, together with interest thereon at a rate not to exceed the rate provided in the mortgage; the manner and time in which such payments shall be made to be determined by the Federal mortgage agency having due regard for the purposes sought to be achieved by this section; and
+&emsp;(A) the mortgagor will be required to make payments to such agency, after the expiration of such certificate, in an aggregate amount equal to the amount paid by such agency on behalf of such mortgagor as provided in subsection (c) of this section, together with interest thereon at a rate not to exceed the rateprovided in the mortgage; the manner and time in which such payments shall be made to be determined by the Federal mortgage agency having due regard for the purposes sought to be achieved by this section; and
 
 &emsp;(B) the Federal mortgage agency will be subrogated to the rights of the mortgagee to the extent of payments made pursuant to such certificate, which rights, however, shall be subject to the prior right of the mortgagee to receive the full amount payable under the mortgage.
 

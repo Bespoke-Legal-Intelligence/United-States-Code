@@ -10,7 +10,7 @@ The Broadcasting Board of Governors shall establish within the International Bro
 
 #### Codification
 
-Section was enacted as part of the Radio Broadcasting to Cuba Act which comprises this subchapter, and not as part of the United States Information and Educational Exchange Act of 1948 which comprises this chapter.
+Section was enacted as part of the Radio Broadcasting to Cuba Act which comprises this subchapter, andnot as part of the United States Information and Educational Exchange Act of 1948 which comprises this chapter.
 
 #### Amendments
 

@@ -10,11 +10,3 @@ Based on title 28, U.S.C., 1940 ed., §41(6) (Mar. 3, 1911, ch. 231, §24, par. 
 
 Changes were made in phraseology.
 
-#### Cross References
-
-Amount in controversy immaterial in actions under this section, see Historical and Revision Notes under section 1331 of this title.
-
-Diversity of citizenship immaterial in action under this section, see Historical and Revision Notes under section 1332 of this title.
-
-Postal laws in general, see Title 39, Postal Service.
-

@@ -38,10 +38,6 @@ Annual appropriations to meet the obligations of membership in various internati
 
 Section 702 of Pub. L. 86–108, ch. VII, July 24, 1959, 73 Stat. 258, authorized appropriations for expenses of 1959 annual meeting of North Atlantic Treaty Parliamentary Conference, prior to repeal by Pub. L. 87–195, pt. III, §642(a)(7), Sept. 4, 1961, 75 Stat. 460.
 
-#### Cross References
-
-Reports of expenditures by members of United States group, and by employees of the Senate or House of Representatives, see section 276c–1 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1928e of this title.

@@ -4,7 +4,7 @@
 
 (b)(1) This subsection applies to any career appointee who has successfully completed the probationary period prescribed under section 3393(d) of this title.
 
-(2) Except as provided in paragraphs (4) and (5), a career appointee may not be removed from the Senior Executive Service due to a reduction in force within an agency.
+(2) Except as provided in paragraphs (4) and (5), a career appointee may not be removed fromthe Senior Executive Service due to a reduction in force within an agency.
 
 (3) A career appointee who, but for this subsection, would be removed from the Senior Executive Service due to a reduction in force within an agency—
 
@@ -34,7 +34,7 @@ A prior section 3595, added Pub. L. 95–454, title IV, §404(b), Oct. 13, 1978,
 
 1984—Subsec. (b)(3)(B). Pub. L. 98–615, §303(c)(1), struck out the designation “(i)” before provisions relating to placement in any agency in any vacant Executive Service position, and struck out former cl. (ii), which had related to detailing by the Office of Personnel Management to any vacant Senior Executive Service position for which the Office deemed the employee to be qualified in any agency for a period not to exceed 60 days, and placement in such position by the Office after the period of such detail, unless the head of the agency determined that the career appointee was not qualified for such position.
 
-Subsec. (b)(4). Pub. L. 98–615, §303(c)(2), struck out “and the civil service” after “removed from the SeniorExecutive Service”, struck out the designation “(A)” before “the career appointee declines”, and substituted a period for the semicolon and “or” at the end thereof. Former subpar. (B) redesignated par. (5).
+Subsec. (b)(4). Pub. L. 98–615, §303(c)(2), struck out “and the civil service” after “removed from the Senior Executive Service”, struck out the designation “(A)” before “the career appointee declines”, and substituted a period for the semicolon and “or” at the end thereof. Former subpar. (B) redesignated par. (5).
 
 Subsec. (b)(5). Pub. L. 98–615, §303(c)(2), redesignated former par. (4)(B) as (5), substituted “A career appointee who is not assigned under paragraph (3)(A) may be removed from the Senior Executive Service due to a reduction in force if” for “subject to paragraph (5),”, substituted “45 days” for “120 days”, and struck out former par. (5), which had provided that persons who were career appointees as of May 31, 1981, could only be removed from the Senior Executive Service and the civil service due to a reduction in force after the 120-day period if the Director of the Office of Personnel Management certified to certain Congressional committees that the Office had taken all reasonable steps to place the appointee but had been unable to do so due to the appointee's highly specialized skills and experience.
 
@@ -72,5 +72,5 @@ Section 1704(e) of Pub. L. 97–35 provided that:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3151, 3393, 3593, 3594, 6302, 7542 of this title; title 10 sections 1606, 1610; title 42 sections 616, 7237.
+This section is referred to in sections 3151, 3393, 3593, 3594, 6302, 7542 of this title; title 10 sections 1606, 1610; title 31 section 732; title 42 sections 616, 7237.
 

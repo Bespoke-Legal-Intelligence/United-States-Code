@@ -10,7 +10,7 @@ The Secretary shall ensure that, to the extent practicable, in approving grant a
 
 &emsp;(3) not less than 30 percent of the amount available for grants in each fiscal year is used for activities relating to school dropout prevention; and
 
-&emsp;(4) not less than 30 percent of the amount available for grants in each fiscal year is used for activities relating to persuading school dropouts to return to school and assisting former school dropouts with specialized services once school dropouts return to school.
+&emsp;(4) not less than 30 percent of the amount available for grants in each fiscal year is usedfor activities relating to persuading school dropouts to return to school and assisting former school dropouts with specialized services once school dropouts return to school.
 
 #### (b) Administrative costs
 

@@ -6,7 +6,7 @@ In General.—
 
 &emsp;(1)
 
-Contents.—Every patent shall contain a short title of the invention and a grant to the patentee, his heirs or assigns, of the right to exclude others from making, using, offering for sale, or selling the invention throughout the United States or importing the invention into the United States, and, if the invention is a process, of the right to exclude others from using, offering for sale or selling throughout the United States, or importing into the United States, products made by that process, referring to the specification for the particulars thereof.
+Contents.—Every patent shall contain a short title of the invention and a grant to the patentee, his heirs or assigns, of the right toexclude others from making, using, offering for sale, or selling the invention throughout the United States or importing the invention into the United States, and, if the invention is a process, of the right to exclude others from using, offering for sale or selling throughout the United States, or importing into the United States, products made by that process, referring to the specification for the particulars thereof.
 
 &emsp;(2)
 
@@ -88,7 +88,7 @@ Reduction of period of adjustment.—
 
 &emsp;&emsp;&emsp;(i) The period of adjustment of the term of a patent under paragraph (1) shall be reduced by a period equal to the period of time during which the applicant failed to engage in reasonable efforts to conclude prosecution of the application.
 
-&emsp;&emsp;&emsp;(ii) With respect to adjustments to patent term made under the authority of paragraph (1)(B), an applicant shall be deemed to have failed to engage in reasonable efforts to conclude processing or examination of an application for the cumulative total of any periods of time in excess of 3 months that are taken to respond to a notice from the Office making any rejection, objection, argument, or other request, measuring such 3-month period from the date the notice was given or mailed to the applicant.
+&emsp;&emsp;&emsp;(ii) With respect to adjustments to patent term made under the authority of paragraph (1)(B), an applicant shall be deemed to have failed to engage in reasonable efforts to conclude processing or examination of an application for the cumulative total of any periods of time in excess of 3 months that are taken to respond to a notice from the Office making any rejection, objection, argument, or other request, measuring such 3-month periodfrom the date the notice was given or mailed to the applicant.
 
 &emsp;&emsp;&emsp;(iii) The Director shall prescribe regulations establishing the circumstances that constitute a failure of an applicant to engage in reasonable efforts to conclude processing or examination of an application.
 
@@ -142,7 +142,7 @@ Provisional Rights.—
 
 &emsp;(1)
 
-In general.—In addition to other rights provided by this section, a patent shall includethe right to obtain a reasonable royalty from any person who, during the period beginning on the date of publication of the application for such patent under section 122(b), or in the case of an international application filed under the treaty defined in section 351(a) designating the United States under Article 21(2)(a) of such treaty, the date of publication of the application, and ending on the date the patent is issued—
+In general.—In addition to other rights provided by this section, a patent shall include the right to obtain a reasonable royalty from any person who, during the period beginning on the date of publication of the application for such patent under section 122(b), or in the case of an international application filed under the treaty defined in section 351(a) designating the United States under Article 21(2)(a) of such treaty, the date of publication of the application, and ending on the date the patent is issued—
 
 &emsp;&emsp;(A)(i) makes, uses, offers for sale, or sells in the United States the invention as claimed in the published patent application or imports such an invention into the United States; or
 
@@ -164,7 +164,7 @@ Requirements for international applications.—
 
 &emsp;&emsp;(A)
 
-Effective date.—The right under paragraph (1) to obtain a reasonable royalty based upon the publication under the treaty defined in section 351(a) of an international application designating the United States shall commence on the date on which the Patent and Trademark Office receives a copy of the publication under the treaty of the international application, or, if the publication under the treaty of the international application is in a language other than English, on the date on which the Patent and Trademark Office receives a translation of the international application in the English language.
+Effective date.—The right under paragraph (1) to obtain a reasonable royalty based upon the publication under the treaty defined in section 351(a) of an internationalapplication designating the United States shall commence on the date on which the Patent and Trademark Office receives a copy of the publication under the treaty of the international application, or, if the publication under the treaty of the international application is in a language other than English, on the date on which the Patent and Trademark Office receives a translation of the international application in the English language.
 
 &emsp;&emsp;(B)
 
@@ -208,7 +208,7 @@ Subsec. (d). Pub. L. 106–113, §1000(a)(9) \[title IV, §4504(2)\], added subs
 
 Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4405(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–560, provided that: “The amendments made by sections 4402 and 4404 \[amending this section, sections 156 and 282 of this title, and section 1295 of Title 28, Judiciary and Judicial Procedure\] shall take effect on the date that is 6 months after the date of the enactment of this Act \[Nov. 29, 1999\] and, except for a design patent application filed under chapter 16 of title 35, United States Code, shall apply to any application filed on or after the date that is 6 months after the date of the enactment of this Act.”
 
-Amendment by section 1000(a)(9) \[title IV, §4504\] of Pub. L. 106–113 effective on date that is 1 year after Nov. 29, 1999, and applicable to all applications filedunder section 111 of this title on or after that date, all applications complying with section 371 of this title that resulted from international applications filed on or after that date, to any such application voluntarily published by the applicant under procedures established under Pub. L. 106–113, §1000(a)(9) \[title IV, subtitle E (§§4501–4508)\] that is pending 1 year after Nov. 29, 1999, and to international applications designating the United States that are filed on or after date that is 1 year after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4508\] of Pub. L. 106–113, set out as a note under section 10 of this title.
+Amendment by section 1000(a)(9) \[title IV, §4504\] of Pub. L. 106–113 effective on date that is 1 year after Nov. 29, 1999, and applicable to all applications filed under section 111 of this title on or after that date, all applications complying with section 371 of this title that resulted from international applications filed on or after that date, to any such application voluntarily published by the applicant under procedures established under Pub. L. 106–113, §1000(a)(9) \[title IV, subtitle E (§§4501–4508)\] that is pending 1 year after Nov. 29, 1999, and to international applications designating the United States that are filed on or after date that is 1 year after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4508\] of Pub. L. 106–113, set out as a note under section 10 of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -251,12 +251,6 @@ Amendment by Pub. L. 89–83 effective three months after July 24, 1965, see sec
 #### Regulations
 
 Section 532(a)(2) of Pub. L. 103–465 authorized the Commissioner of Patents and Trademarks to prescribe regulations for further limited reexamination of applications pending 2 years or longer and for examination of more than 1 independent and distinct invention in applications pending 3 years or longer, as of the effective date of section 154(a)(2) of this title, and to establish appropriate related fees.
-
-#### Cross References
-
-Design patent, term of, see section 173 of this title.
-
-Plant patents, grant of, see section 163 of this title.
 
 #### Section Referred to in Other Sections
 

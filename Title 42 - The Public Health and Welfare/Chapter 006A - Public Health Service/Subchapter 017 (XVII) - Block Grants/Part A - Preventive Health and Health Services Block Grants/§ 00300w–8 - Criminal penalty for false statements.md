@@ -12,5 +12,5 @@ Whoever—
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 300w–10, 9875 of this title.
+This section is referred to in section 9875 of this title.
 

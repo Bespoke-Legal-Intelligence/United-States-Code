@@ -20,7 +20,7 @@ Changes in arrangement and phraseology were made.
 
 #### Amendments
 
-1955—Act Aug. 9, 1955, struck out the separate divisions of the district and reduced the number of places of holding terms.
+<b>1955</b>—Act Aug. 9, 1955, struck out the separate divisions of the district and reduced the number of places of holding terms.
 
 #### Effective Date of 1955 Amendment
 

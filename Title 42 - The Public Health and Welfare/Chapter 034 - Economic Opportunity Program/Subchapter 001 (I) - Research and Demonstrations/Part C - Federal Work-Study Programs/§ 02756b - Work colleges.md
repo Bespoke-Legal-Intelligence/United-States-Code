@@ -28,7 +28,7 @@ The purpose of this section is to recognize, encourage, and promote the use of c
 
 &emsp;&emsp;(E) coordinate and carry out joint projects and activities to promote work service learning; and
 
-&emsp;&emsp;(F) carry out a comprehensive, longitudinal study of student academic progress and academic and career outcomes, relative to student self-sufficiency in financing theirhigher education, repayment of student loans, continued community service, kind and quality of service performed, and career choice and community service selected after graduation.
+&emsp;&emsp;(F) carry out a comprehensive, longitudinal study of student academic progress and academic and career outcomes, relative to student self-sufficiency in financing their higher education, repayment of student loans, continued community service, kind and quality of service performed, and career choice and community service selected after graduation.
 
 #### (c) Application
 

@@ -2,7 +2,7 @@
 
 #### (a) Existing water quality standards
 
-(1) In order to carry out the purpose of this chapter, any water quality standard applicable to interstate waters which was adopted by any State and submitted to, and approved by, or is awaiting approval by, the Administrator pursuant to this Act as in effect immediately prior to October 18, 1972, shall remain in effect unless the Administrator determined that such standard is not consistent with the applicable requirements of this Act as in effect immediately prior to October 18, 1972. If the Administrator makes such a determination he shall, within three months after October 18, 1972, notify the State and specify the changes needed to meet such requirements. If such changes are not adopted by the State within ninety days after the date of such notification, the Administrator shall promulgate such changes in accordance with subsection (b) of this section.
+(1) In order to carry out the purpose of this chapter, any water quality standard applicable to interstate waters which was adopted by any State and submitted to, and approved by, or is a waiting approval by, the Administrator pursuant to this Act as in effect immediately prior to October 18, 1972, shall remain in effect unless the Administrator determined that such standard is not consistent with the applicable requirements of this Act as in effect immediately prior to October 18, 1972. If the Administrator makes such a determination he shall, within three months after October 18, 1972, notify the State and specify the changes needed to meet such requirements. If such changes are not adopted by the State within ninety days after the date of such notification, the Administrator shall promulgate such changes in accordance with subsection (b) of this section.
 
 (2) Any State which, before October 18, 1972, has adopted, pursuant to its own law, water quality standards applicable to intrastate waters shall submit such standards to the Administrator within thirty days after October 18, 1972. Each such standard shall remain in effect, in the same manner and to the same extent as any other water quality standard established under this chapter unless the Administrator determines that such standard is inconsistent with the applicable requirements of this Act as in effect immediately prior to October 18, 1972. If the Administrator makes such a determination he shall not later than the one hundred and twentieth day after the date of submission of such standards, notify the State and specify the changes needed to meet such requirements. If such changes are not adopted by the State within ninety days after such notification, the Administrator shall promulgate such changes in accordance with subsection (b) of this section.
 
@@ -30,11 +30,11 @@
 
 (B) Whenever a State reviews water quality standards pursuant to paragraph (1) of this subsection, or revises or adopts new standards pursuant to this paragraph, such State shall adopt criteria for all toxic pollutants listed pursuant to section 1317(a)(1) of this title for which criteria have been published under section 1314(a) of this title, the discharge or presence of which in the affected waters could reasonably be expected to interfere with those designated uses adopted by the State, as necessary to support such designated uses. Such criteria shall be specific numerical criteria for such toxic pollutants. Where such numerical criteria are not available, whenever a State reviews water quality standards pursuant to paragraph (1), or revises or adopts new standards pursuant to this paragraph, such State shall adopt criteria based on biological monitoring or assessment methods consistent with information published pursuant to section 1314(a)(8) of this title. Nothing in this section shall be construed to limit or delay the use of effluent limitations or other permit conditions based on or involving biological monitoring or assessment methods or previously adopted numerical criteria.
 
-(3) If the Administrator, within sixty days after the date of submission of the revised or new standard, determines that such standard meets the requirements of this chapter, such standard shall thereafter be the water quality standard for the applicable waters of that State.If the Administrator determines that any such revised or new standard is not consistent with the applicable requirements of this chapter, he shall not later than the ninetieth day after the date of submission of such standard notify the State and specify the changes to meet such requirements. If such changes are not adopted by the State within ninety days after the date of notification, the Administrator shall promulgate such standard pursuant to paragraph (4) of this subsection.
+(3) If the Administrator, within sixty days after the date of submission of the revised or new standard, determines that such standard meets the requirements of this chapter, such standard shall thereafter be the water quality standard for the applicable waters of that State. If the Administrator determines that any such revised or new standard is not consistent with the applicable requirements of this chapter, he shall not later than the ninetieth day after the date of submission of such standard notify the State and specify the changes to meet such requirements. If such changes are not adopted by the State within ninety days after the date of notification, the Administrator shall promulgate such standard pursuant to paragraph (4) of this subsection.
 
 (4) The Administrator shall promptly prepare and publish proposed regulations setting forth a revised or new water quality standard for the navigable waters involved—
 
-&emsp;(A) if a revised or new water quality standard submitted by such State under paragraph (3) of this subsection for such waters is determined by the Administrator not to be consistent with the applicable requirements of this chapter, or
+&emsp;(A) if a revised or new water quality standard submitted by such State under paragraph\(3) of this subsection for such waters is determined by the Administrator not to be consistent with the applicable requirements of this chapter, or
 
 &emsp;(B) in any case where the Administrator determines that a revised or new standard is necessary to meet the requirements of this chapter.
 
@@ -64,13 +64,13 @@ Standard not attained.—For waters identified under paragraph (1)(A) where the 
 
 &emsp;(B)
 
-Standard attained.—For waters identified under paragraph (1)(A) where the quality of such waters equals or exceeds levels necessary to protect the designated use for such waters or otherwise required by applicablewater quality standards, any effluent limitation based on a total maximum daily load or other waste load allocation established under this section, or any water quality standard established under this section, or any other permitting standard may be revised only if such revision is subject to and consistent with the antidegradation policy established under this section.
+Standard attained.—For waters identified under paragraph (1)(A) where the quality of such waters equals or exceeds levels necessary to protect the designated use for such waters or otherwise required by applicable water quality standards, any effluent limitation based on a total maximum daily load or other waste load allocation established under this section, or any water quality standard established under this section, or any other permitting standard may be revised only if such revision is subject to and consistent with the antidegradation policy established under this section.
 
 #### (e) Continuing planning process
 
 (1) Each State shall have a continuing planning process approved under paragraph (2) of this subsection which is consistent with this chapter.
 
-(2) Each State shall submit not later than 120 days after October 18, 1972, to the Administrator for his approval a proposed continuing planning process which is consistent with this chapter. Not later than thirty days after the date of submission of such a process the Administrator shall either approve or disapprove such process. The Administrator shall from time to time review each State's approved planning process for the purpose of insuring that such planning process is at all times consistent with this chapter. The Administrator shall not approve any State permit program under subchapter IV of this chapter for any State which does not have an approved continuing planning process under this section.
+(2) Each State shall submit not later than 120 days after October 18, 1972, to the Administratorfor his approval a proposed continuing planning process which is consistent with this chapter. Not later than thirty days after the date of submission of such a process the Administrator shall either approve or disapprove such process. The Administrator shall from time to time review each State's approved planning process for the purpose of insuring that such planning process is at all times consistent with this chapter. The Administrator shall not approve any State permit program under subchapter IV of this chapter for any State which does not have an approved continuing planning process under this section.
 
 (3) The Administrator shall approve any continuing planning process submitted to him under this section which will result in plans for all navigable waters within such State, which include, but are not limited to, the following:
 
@@ -102,7 +102,33 @@ Water quality standards relating to heat shall be consistent with the requiremen
 
 For the purposes of this chapter the term “water quality standards” includes thermal water quality standards.
 
-(June 30, 1948, ch. 758, title III, §303, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 846; amended Pub. L. 100–4, title III, §308(d), title IV, §404(b), Feb. 4, 1987, 101 Stat. 39, 68.)
+#### (i) Coastal recreation water quality criteria
+
+#### (1) Adoption by States
+
+#### (A) Initial criteria and standards
+
+&emsp;&emsp;Not later than 42 months after October 10, 2000, each State having coastal recreation waters shall adopt and submit to the Administrator water quality criteria and standards for the coastal recreation waters of the State for those pathogens and pathogen indicators for which the Administrator has published criteria under section 1314(a) of this title.
+
+#### (B) New or revised criteria and standards
+
+&emsp;&emsp;Not later than 36 months after the date of publication by the Administrator of new or revised water quality criteria under section 1314(a)(9) of this title, each State having coastal recreation waters shall adopt and submit to the Administrator new or revised water quality standards for the coastal recreation waters of the State for all pathogens and pathogen indicators to which the new or revised water quality criteria are applicable.
+
+#### (2) Failure of States to adopt
+
+#### (A) In general
+
+&emsp;&emsp;If a State fails to adopt water quality criteria and standards in accordance with paragraph (1)(A) that are as protective of human health as the criteria for pathogens and pathogen indicators for coastal recreation waters published by the Administrator, the Administrator shall promptly propose regulations for the State setting forth revised or new water quality standards for pathogens and pathogen indicators described in paragraph (1)(A) for coastal recreation waters of the State.
+
+#### (B) Exception
+
+&emsp;&emsp;If the Administrator proposes regulations for a State described in subparagraph (A) under subsection (c)(4)(B) of this section, the Administrator shall publish any revised or new standard under this subsection not later than 42 months after October 10, 2000.
+
+#### (3) Applicability
+
+&emsp;Except as expressly provided by this subsection, the requirements and procedures of subsection (c) of this section apply to this subsection, including the requirement in subsection (c)(2)(A) of this section that the criteria protect public health and welfare.
+
+(June 30, 1948, ch. 758, title III, §303, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 846; amended Pub. L. 100–4, title III, §308(d), title IV, §404(b), Feb. 4, 1987, 101 Stat. 39, 68; Pub. L. 106–284, §2, Oct. 10, 2000, 114 Stat. 870.)
 
 #### References in Text
 
@@ -110,11 +136,13 @@ This Act, referred to in subsecs. (a)(1), (2), (3)(B), (C) and (b)(1), means act
 
 #### Amendments
 
+2000—Subsec. (i). Pub. L. 106–284 added subsec. (i).
+
 1987—Subsec. (c)(2). Pub. L. 100–4, §308(d), designated existing provision as subpar. (A) and added subpar. (B).
 
 Subsec. (d)(4). Pub. L. 100–4, §404(b), added par. (4).
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1252, 1284, 1285, 1288, 1311, 1313a, 1314, 1319, 1326, 1329, 1341, 1342, 1377, 1383, 1384 of this title; title 16 section 1455b; title 42 section 9621.
+This section is referred to in sections 1252, 1284, 1285, 1288, 1311, 1313a, 1314, 1319, 1326, 1329, 1341, 1342, 1362, 1377,1383, 1384 of this title; title 16 section 1455b; title 42 section 9621.
 

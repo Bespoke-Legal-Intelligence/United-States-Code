@@ -55,6 +55,7 @@
 | [2209c.](%C2%A7%2002209c%20-%20Use%20of%20funds%20for%20one-year%20contracts%20to%20be%20performed%20in%20two%20fiscal%20years.md) | Use of funds for one-year contracts to be performed in two fiscal years. |
 | [2209d.](%C2%A7%2002209d%20-%20Statement%20of%20percentage%20and%20dollar%20amount%20of%20Federal%20funding.md) | Statement of percentage and dollar amount of Federal funding. |
 | [2209e.](%C2%A7%2002209e%20-%20Prohibition%20on%20payments%20to%20parties%20involved%20with%20prohibited%20drug-producing%20plants.md) | Prohibition on payments to parties involved with prohibited drug-producing plants. |
+| [2209f.](%C2%A7%2002209f%20-%20Restriction%20on%20commodity%20purchase%20program%20payments.md) | Restriction on commodity purchase program payments. |
 | [2210\.](%C2%A7%2002210%20-%20Deputy%20Secretary%20of%20Agriculture%3B%20appointment.md) | Deputy Secretary of Agriculture; appointment. |
 | [2211\.](%C2%A7%2002211%20-%20Powers%20and%20duties%20of%20Deputy%20Secretary%20of%20Agriculture.md) | Powers and duties of Deputy Secretary of Agriculture. |
 | 2211a to 2213. Omitted or Repealed. |  |
@@ -73,6 +74,7 @@
 | [2225\.](%C2%A7%2002225%20-%20Employment%20of%20temporary%20personnel.md) | Employment of temporary personnel. |
 | [2225a.](%C2%A7%2002225a%20-%20Contracts%20for%20consulting%20services.md) | Contracts for consulting services. |
 | [2225b.](%C2%A7%2002225b%20-%20Personal%20service%20contracts%20for%20veterinarians.md) | Personal service contracts for veterinarians. |
+| [2225c.](%C2%A7%2002225c%20-%20Employment%20contracts%20for%20services%20abroad.md) | Employment contracts for services abroad. |
 | [2226\.](%C2%A7%2002226%20-%20Employment%20of%20persons%20for%20forest%20fire%20fighting%2C%20pest%20control%2C%20and%20handling%20of%20animals.md) | Employment of persons for forest fire fighting, pest control, and handling of animals. |
 | [2227\.](%C2%A7%2002227%20-%20Traveling%20expenses.md) | Traveling expenses. |
 | [2228\.](%C2%A7%2002228%20-%20Emergency%20subsistence%20for%20employees.md) | Emergency subsistence for employees. |
@@ -131,7 +133,7 @@
 | [2263\.](%C2%A7%2002263%20-%20Transfer%20of%20funds.md) | Transfer of funds. |
 | [2264\.](%C2%A7%2002264%20-%20National%20Agricultural%20Library%3B%20acceptance%20of%20gifts%2C%20bequests%2C%20or%20devises%3B%20conditional%20gifts.md) | National Agricultural Library; acceptance of gifts, bequests, or devises; conditional gifts. |
 | [2265\.](%C2%A7%2002265%20-%20Deposit%20of%20money%20accepted%20for%20benefit%20of%20National%20Agricultural%20Library%3B%20disbursement.md) | Deposit of money accepted for benefit of National Agricultural Library; disbursement. |
-| [2266\.](%C2%A7%2002266%20-%20Congressional%20reaffirmation%20of%20policy%20to%20foster%20and%20encourage%20family%20farms%3B%20annual%20report%20to%20Congress.md) | Congressional reaffirmation of policy to foster and encourage family farms; annual report to Congress. |
+| [2266\.](%C2%A7%2002266%20-%20Congressional%20reaffirmation%20of%20policy%20to%20foster%20and%20encourage%20family%20farms.md) | Congressional reaffirmation of policy to foster and encourage family farms. |
 | [2267\.](%C2%A7%2002267%20-%20Repealed.%20Pub.%20L.%20100%E2%80%93387%2C%20title%20I%2C%20%C2%A7101%28b%29%281%29%2C%20Aug.%2011%2C%201988%2C%20102%20Stat.%20931.md) | Repealed. |
 | [2268\.](%C2%A7%2002268%20-%20Public%20lands%3B%20relinquishment.md) | Public lands; relinquishment. |
 | [2269\.](%C2%A7%2002269%20-%20Gifts%20of%20property%3B%20acceptance%20and%20administration%20by%20Secretary%20of%20Agriculture%3B%20Federal%20tax%20law%20consideration%3B%20separate%20fund%20in%20Treasury%E2%80%A6.md) | Gifts of property; acceptance and administration by Secretary of Agriculture; Federal tax law consideration; separate fund in Treasury; regulations. |
@@ -186,6 +188,18 @@
 | (a) | Student intern subsistence program. |
 | (b) | Cooperation with associations of colleges and universities. |
 | [2279d.](%C2%A7%2002279d%20-%20Compensatory%20damages%20in%20claims%20under%20Rehabilitation%20Act%20of%201973.md) | Compensatory damages in claims under Rehabilitation Act of 1973. |
+| [2279e.](%C2%A7%2002279e%20-%20Civil%20penalty.md) | Civil penalty. |
+| (a) | In general. |
+| (b) | Factors in determining civil penalty. |
+| (c) | Settlement of civil penalties. |
+| (d) | Finality of orders. |
+| [2279f.](%C2%A7%2002279f%20-%20Subpoena%20authority.md) | Subpoena authority. |
+| (a) | In general. |
+| (b) | Location of production. |
+| (c) | Enforcement of subpoena. |
+| (d) | Compensation. |
+| (e) | Procedures. |
+| (f) | Scope of subpoena. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -218,6 +232,7 @@
 - [&sect; 02209c - Use of funds for one-year contracts to be performed in two fiscal years](%C2%A7%2002209c%20-%20Use%20of%20funds%20for%20one-year%20contracts%20to%20be%20performed%20in%20two%20fiscal%20years.md)
 - [&sect; 02209d - Statement of percentage and dollar amount of Federal funding](%C2%A7%2002209d%20-%20Statement%20of%20percentage%20and%20dollar%20amount%20of%20Federal%20funding.md)
 - [&sect; 02209e - Prohibition on payments to parties involved with prohibited drug-producing plants](%C2%A7%2002209e%20-%20Prohibition%20on%20payments%20to%20parties%20involved%20with%20prohibited%20drug-producing%20plants.md)
+- [&sect; 02209f - Restriction on commodity purchase program payments](%C2%A7%2002209f%20-%20Restriction%20on%20commodity%20purchase%20program%20payments.md)
 - [&sect; 02210 - Deputy Secretary of Agriculture; appointment](%C2%A7%2002210%20-%20Deputy%20Secretary%20of%20Agriculture%3B%20appointment.md)
 - [&sect; 02211 - Powers and duties of Deputy Secretary of Agriculture](%C2%A7%2002211%20-%20Powers%20and%20duties%20of%20Deputy%20Secretary%20of%20Agriculture.md)
 - [&sect; 02211a - Omitted](%C2%A7%2002211a%20-%20Omitted.md)
@@ -238,6 +253,7 @@
 - [&sect; 02225 - Employment of temporary personnel](%C2%A7%2002225%20-%20Employment%20of%20temporary%20personnel.md)
 - [&sect; 02225a - Contracts for consulting services](%C2%A7%2002225a%20-%20Contracts%20for%20consulting%20services.md)
 - [&sect; 02225b - Personal service contracts for veterinarians](%C2%A7%2002225b%20-%20Personal%20service%20contracts%20for%20veterinarians.md)
+- [&sect; 02225c - Employment contracts for services abroad](%C2%A7%2002225c%20-%20Employment%20contracts%20for%20services%20abroad.md)
 - [&sect; 02226 - Employment of persons for forest fire fighting, pest control, and handling of animals](%C2%A7%2002226%20-%20Employment%20of%20persons%20for%20forest%20fire%20fighting%2C%20pest%20control%2C%20and%20handling%20of%20animals.md)
 - [&sect; 02227 - Traveling expenses](%C2%A7%2002227%20-%20Traveling%20expenses.md)
 - [&sect; 02228 - Emergency subsistence for employees](%C2%A7%2002228%20-%20Emergency%20subsistence%20for%20employees.md)
@@ -286,7 +302,7 @@
 - [&sect; 02263 - Transfer of funds](%C2%A7%2002263%20-%20Transfer%20of%20funds.md)
 - [&sect; 02264 - National Agricultural Library; acceptance of gifts, bequests, or devises; conditional gifts](%C2%A7%2002264%20-%20National%20Agricultural%20Library%3B%20acceptance%20of%20gifts%2C%20bequests%2C%20or%20devises%3B%20conditional%20gifts.md)
 - [&sect; 02265 - Deposit of money accepted for benefit of National Agricultural Library; disbursement](%C2%A7%2002265%20-%20Deposit%20of%20money%20accepted%20for%20benefit%20of%20National%20Agricultural%20Library%3B%20disbursement.md)
-- [&sect; 02266 - Congressional reaffirmation of policy to foster and encourage family farms; annual report to Congress](%C2%A7%2002266%20-%20Congressional%20reaffirmation%20of%20policy%20to%20foster%20and%20encourage%20family%20farms%3B%20annual%20report%20to%20Congress.md)
+- [&sect; 02266 - Congressional reaffirmation of policy to foster and encourage family farms](%C2%A7%2002266%20-%20Congressional%20reaffirmation%20of%20policy%20to%20foster%20and%20encourage%20family%20farms.md)
 - [&sect; 02267 - Repealed. Pub. L. 100&#8211;387, title I, &sect;101(b)(1), Aug. 11, 1988, 102 Stat. 931](%C2%A7%2002267%20-%20Repealed.%20Pub.%20L.%20100%E2%80%93387%2C%20title%20I%2C%20%C2%A7101%28b%29%281%29%2C%20Aug.%2011%2C%201988%2C%20102%20Stat.%20931.md)
 - [&sect; 02268 - Public lands; relinquishment](%C2%A7%2002268%20-%20Public%20lands%3B%20relinquishment.md)
 - [&sect; 02269 - Gifts of property; acceptance and administration by Secretary of Agriculture; Federal tax law consideration; separate fund in Treasury&#8230;](%C2%A7%2002269%20-%20Gifts%20of%20property%3B%20acceptance%20and%20administration%20by%20Secretary%20of%20Agriculture%3B%20Federal%20tax%20law%20consideration%3B%20separate%20fund%20in%20Treasury%E2%80%A6.md)
@@ -307,3 +323,5 @@
 - [&sect; 02279b - Operation of Graduate School of Department of Agriculture as nonappropriated fund instrumentality](%C2%A7%2002279b%20-%20Operation%20of%20Graduate%20School%20of%20Department%20of%20Agriculture%20as%20nonappropriated%20fund%20instrumentality.md)
 - [&sect; 02279c - Student internship programs](%C2%A7%2002279c%20-%20Student%20internship%20programs.md)
 - [&sect; 02279d - Compensatory damages in claims under Rehabilitation Act of 1973](%C2%A7%2002279d%20-%20Compensatory%20damages%20in%20claims%20under%20Rehabilitation%20Act%20of%201973.md)
+- [&sect; 02279e - Civil penalty](%C2%A7%2002279e%20-%20Civil%20penalty.md)
+- [&sect; 02279f - Subpoena authority](%C2%A7%2002279f%20-%20Subpoena%20authority.md)

@@ -60,10 +60,6 @@ Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to pre
 
 Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 87–649, set out as a note preceding section 101 of Title 37, Pay and Allowances of the Uniformed Services.
 
-#### Cross References
-
-Suspension during war or emergency, see section 644 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 515, 576, 1174 of this title; title 14 section 286a.

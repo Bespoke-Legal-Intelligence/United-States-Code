@@ -52,10 +52,6 @@ In subsec. (a)(7), “chapter 51 and subchapter III of chapter 53 of title 5” 
 
 Section 805(b) of Pub. L. 99–662 provided that: “The amendments made by this section \[enacting section 988a of this title and amending this section\] shall take effect on April 1, 1987.”
 
-#### Cross References
-
-Venue of civil actions in United States District Courts, see section 1391 et seq., of Title 28, Judiciary and Judicial Procedure.
-
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 
 <i><sup>2</sup></i><i> So in original. There are two pars. designated (13).</i>

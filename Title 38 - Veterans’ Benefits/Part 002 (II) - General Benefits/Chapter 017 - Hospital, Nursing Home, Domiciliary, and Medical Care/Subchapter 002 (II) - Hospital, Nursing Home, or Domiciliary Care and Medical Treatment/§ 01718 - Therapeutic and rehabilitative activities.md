@@ -12,7 +12,7 @@
 
 (3) The Under Secretary for Health shall prepare, for inclusion in the annual report submitted to Congress under section 529 of this title, a description of the scope and achievements of activities carried out under this section (including pertinent data regarding productivity and rates of distribution) during the prior twelve months and an estimate of the needs of the program of therapeutic and rehabilitation activities to be carried out under this section for the ensuing fiscal year.
 
-(d) In providing rehabilitative services under this chapter, the Secretary shall take appropriate action to make it possible for the patientto take maximum advantage of any benefits to which such patient is entitled under chapter 31, 34, or 35 of this title, and, if the patient is still receiving treatment of a prolonged nature under this chapter, the provision of rehabilitative services under this chapter shall be continued during, and coordinated with, the pursuit of education and training under such chapter 31, 34, or 35.
+(d) In providing rehabilitative services under this chapter, the Secretary shall take appropriate action to make it possible for the patient to take maximum advantage of any benefits to which such patient is entitled under chapter 31, 34, or 35 of this title, and, if the patient is still receiving treatment of a prolonged nature under this chapter, the provision of rehabilitative services under this chapter shall be continued during, and coordinated with, the pursuit of education and training under such chapter 31, 34, or 35.
 
 (e) The Secretary shall prescribe regulations to ensure that the priorities set forth in section 1705 of this title shall be applied, insofar as practicable, to participation in therapeutic and rehabilitation activities carried out under this section.
 
@@ -118,5 +118,5 @@ Section 105(b) of Pub. L. 94–581, as amended by Pub. L. 97–258, §4(b), Sept
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 113, 1771 of this title.
+This section is referred to in sections 113, 1151, 1771 of this title.
 

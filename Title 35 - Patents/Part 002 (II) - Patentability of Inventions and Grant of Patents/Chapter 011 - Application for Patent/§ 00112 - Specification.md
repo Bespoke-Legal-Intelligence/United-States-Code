@@ -30,7 +30,7 @@ A new paragraph relating to functional claims is added.
 
 #### Amendments
 
-1975—Pub. L. 94–131 substituted provision authorizing the writing of claims, if the nature of the case admits, in dependent or multiple dependent form for prior provision for writing claims in dependent form, required claims in dependent form to contain a reference to a claim previously set forth and then specify a further limitation of the subject matter claimed, substituted text respecting construction of a claim in dependent form so as to incorporate by reference all the limitations of the claim to which it refers for prior text forconstruction of a dependent claim to include all the limitations of the claim incorporated by reference into the dependent claim, and inserted paragraph respecting certain requirements for claims in multiple dependent form.
+1975—Pub. L. 94–131 substituted provision authorizing the writing of claims, if the nature of the case admits, in dependent or multiple dependent form for prior provision for writing claims in dependent form, required claims in dependent form to contain a reference to a claim previously set forth and then specify a further limitation of the subject matter claimed, substituted text respecting construction of a claim in dependent form so as to incorporate by reference all the limitations of the claim to which it refers for prior text for construction of a dependent claim to include all the limitations of the claim incorporated by reference into the dependent claim, and inserted paragraph respecting certain requirements for claims in multiple dependent form.
 
 1965—Pub. L. 89–83 permitted a claim to be written in independent or dependent form, and if in dependent form, required it to be construed to include all the limitations of the claim incorporated by reference into the dependent claim.
 
@@ -41,20 +41,6 @@ Amendment by Pub. L. 94–131 effective Jan. 24, 1978, and applicable on and aft
 #### Effective Date of 1965 Amendment
 
 Amendment by Pub. L. 89–83 effective three months after July 24, 1965, see section 7(a) of Pub. L. 89–83, set out as a note under section 41 of this title.
-
-#### Cross References
-
-Amendment introducing new matter in disclosure, see section 132 of this title.
-
-Amendments generally, see section 251 et seq. of this title.
-
-Annexation of specification to issued patent, see section 154 of this title.
-
-Description of plant patents, see section 162 of this title.
-
-Disclaimer, see section 253 of this title.
-
-Reissue of defective patents, see section 251 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -6,7 +6,7 @@
 
 (2) Paragraph (1) applies to any person who—
 
-&emsp;(A) is a present or former official of the United States, or a person who is acting or hasacted for or on behalf of, or who is advising or has advised the United States with respect to, a Federal agency procurement; and
+&emsp;(A) is a present or former official of the United States, or a person who is acting or has acted for or on behalf of, or who is advising or has advised the United States with respect to, a Federal agency procurement; and
 
 &emsp;(B) by virtue of that office, employment, or relationship has or had access to contractor bid or proposal information or source selection information.
 
@@ -138,7 +138,7 @@ As used in this section:
 
 &emsp;(5) The term “contracting officer” means a person who, by appointment in accordance with applicable regulations, has the authority to enter into a Federal agency procurement contract on behalf of the Government and to make determinations and findings with respect to such a contract.
 
-&emsp;(6) The term “protest” means a written objection by an interested party to the award orproposed award of a Federal agency procurement contract, pursuant to subchapter V of chapter 35 of title 31.
+&emsp;(6) The term “protest” means a written objection by an interested party to the award or proposed award of a Federal agency procurement contract, pursuant to subchapter V of chapter 35 of title 31.
 
 &emsp;(7) The term “official” means the following:
 
@@ -194,7 +194,7 @@ Subsec. (e)(1)(A)(i), (B)(ii), (2)(A), (3)(A). Pub. L. 101–189, §814(c)(1)(A)
 
 Subsec. (e)(7)(B)(ii). Pub. L. 101–189, §814(c)(1)(E), substituted “subsection (<i>o</i>)” for “subsection (m)”.
 
-Subsec. (f). Pub. L. 101–189, §814(a)(2)(B), substituted “Restrictions resulting from procurement activities of procurement officials” for “Restrictions on Government officials and employees” as heading, and “(1) No individual who, while serving as an officer or employee of the Government or member of the Armed Forces, was a procurement official with respect to a particular procurement may knowingly—” for “No Government official or employee, civilian, or military, who has participated personally and substantially in the conduct of any Federal agency procurement or who has personally reviewed and approved the award, modification, or extension of any contract for such procurement shall—”.
+Subsec. (f). Pub. L. 101–189, §814(a)(2)(B), substituted “Restrictions resulting from procurement activities ofprocurement officials” for “Restrictions on Government officials and employees” as heading, and “(1) No individual who, while serving as an officer or employee of the Government or member of the Armed Forces, was a procurement official with respect to a particular procurement may knowingly—” for “No Government official or employee, civilian, or military, who has participated personally and substantially in the conduct of any Federal agency procurement or who has personally reviewed and approved the award, modification, or extension of any contract for such procurement shall—”.
 
 Pub. L. 101–189, §814(a)(2)(A), redesignated pars. (1) and (2) as subpars. (A) and (B), respectively.
 
@@ -274,5 +274,5 @@ Pub. L. 101–194, title V, §507(1), Nov. 30, 1989, 103 Stat. 1759, provided th
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 15 section 657a; title 22 section 3861; title 42 sections 1396a, 1396u–2; title 43 section 1475a.
+This section is referred to in title 15 sections 637, 657a; title 22 section 3861; title 42 sections 1396a, 1396u–2; title 43 section 1475a.
 

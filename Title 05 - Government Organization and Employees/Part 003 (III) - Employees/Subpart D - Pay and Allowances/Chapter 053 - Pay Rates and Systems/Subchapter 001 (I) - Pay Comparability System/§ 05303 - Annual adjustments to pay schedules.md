@@ -78,7 +78,7 @@ Amendment by Pub. L. 101–509 effective on such date as the President shall det
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of Title 22, Foreign Relations and Intercourse.
+Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L.96–465, set out as an Effective Date note under section 3901 of Title 22, Foreign Relations and Intercourse.
 
 #### Effective Date of 1978 Amendment
 
@@ -105,6 +105,12 @@ Pub. L. 102–377, title V, §506, Oct. 2, 1992, 106 Stat. 1343, provided that: 
 Section 529 \[title I, §101(e)\] of Pub. L. 101–509 provided that: “It is the sense of the Congress that the total funds dedicated to adjustments under sections 5303 and 5304 \[of this title\] for any year be no less than the total funds that would have been dedicated to adjustments under such section 5303 for such year had the full change in the ECI been applied to pay rates for such year.”
 
 #### Federal Employee Pay Adjustments
+
+2000—Pub. L. 106–554, §1(a)(4) \[div. B, title I, §140\], Dec. 21, 2000, 114 Stat. 2763, 2763A–235, provided that:
+
+“(a) The adjustment in rates of basic pay for the statutory pay systems that takes effect in fiscal year 2001 under sections 5303 and 5304 of title 5, United States Code, shall be an increase of 3.7 percent.
+
+“(b) Funds used to carry out this section shall be paid from appropriations which are made to each applicable department or agency for salaries and expenses for fiscal year 2001.”
 
 1999—Pub. L. 106–58, title VI, §646, Sept. 29, 1999, 113 Stat. 478, provided that:
 
@@ -150,7 +156,7 @@ Pub. L. 101–509, title VI, §633, Nov. 5, 1990, 104 Stat. 633, provided that:
 
 In General.—Notwithstanding any other provision of law (including any provision of the Federal Employees Pay Comparability Act of 1990 \[see Short Title of 1990 Amendment note set out under section 5301 of this title\] and any provision of law amended by such Act), for purposes of any adjustment scheduled to take effect under section 5303 of title 5, United States Code (as amended by section 101 \[section 529 \[title I, §101\] of Pub. L. 101–509\]) during the period beginning on October 1, 1991, and ending on September 30, 1994, the provisions of section 5303 of such title (as so amended) shall be applied in accordance with the following:
 
-&emsp;“(1) For purposes of the adjustment taking effect in each of fiscal years 1992 and 1993, respectively, deem subsection (a) to be amended by striking ‘one-half of 1 percentage point less than’.
+&emsp;“(1) For purposes of the adjustment taking effect in each of fiscal years 1992 and 1993, respectively, deemsubsection (a) to be amended by striking ‘one-half of 1 percentage point less than’.
 
 &emsp;“(2) Deem subsection (b) to be amended as follows:
 
@@ -302,7 +308,7 @@ Uniform adjustments; delayed effective date.—Each increase in a pay rate or sc
 
 “(4) For purposes of this subsection—
 
-&emsp;“(A) the term ‘total pay’ means, with respect to a fiscal year, the total amount of basic pay which will be payable to employees covered by statutory pay systems for service performed during such fiscal year;
+&emsp;“(A) the term ‘total pay’ means, with respect to a fiscal year, the total amount of basic pay which willbe payable to employees covered by statutory pay systems for service performed during such fiscal year;
 
 &emsp;“(B) the term ‘increase in total pay’ means, with respect to a fiscal year, that part of total pay for such year which is attributable to the adjustment taking effect under this section during such year; and
 
@@ -362,7 +368,7 @@ Pub. L. 99–272, title XV, §15201(a), Apr. 7, 1986, 100 Stat. 332, provided th
 
 > Nothing in this section shall be construed to provide any adjustments in rates of pay of any Federal statutory pay system which are greater than the adjustments based on the 1971 Bureau of Labor Statistics survey.”
 
-Section 3(c) of Pub. L. 91–656 provided that: “The President may make the initial adjustment required by subchapter I of chapter 53 of title 5, United States Code, as amended by this Act, without regard to the provisions of such subchapter relating to the Advisory Committee on Federal Pay and the Federal Employees Pay Council. Notwithstanding any provision of such subchapter I prescribing an effective date of October 1 for any pay adjustment made by the President, the initial adjustment based on the 1970 Bureau of Labor Statistics survey and the adjustment based on the 1971 Bureau of Labor Statistics survey shall become effective on the first day of the first applicable pay period that begins on or after January 1, 1971, and January 1, 1972, respectively. Notwithstanding the provisions of such subchapter I, the President's agent for purposes of the 1971 and 1972 adjustments shall be the Director, Office of Management and Budget and the Chairman, United States Civil Service Commission. Adjustments under the provisions of such subchapter I shall not apply to employees of the Post Office Department whose basic pay is fixed under the General Schedule.”
+Section 3(c) of Pub. L. 91–656 provided that: “The President may make the initial adjustment required by subchapter I of chapter 53 of title 5, United States Code, as amended by this Act, without regard to the provisions of such subchapter relating to the Advisory Committee on Federal Pay and the Federal Employees Pay Council. Notwithstanding any provision of such subchapter I prescribing an effective date of October 1 for any pay adjustment made by the President, the initial adjustment based on the 1970 Bureau of Labor Statistics survey and the adjustment based on the 1971 Bureau of Labor Statistics survey shall become effective on the first day of the first applicable pay period that begins on or after January 1, 1971, and January 1, 1972, respectively. Notwithstanding the provisions of such subchapter I, the President's agent for purposes of the 1971 and 1972 adjustments shall be the Director, Office of Management and Budget and the Chairman, United States Civil Service Commission. Adjustments under the provisions of such subchapter I shall not apply toemployees of the Post Office Department whose basic pay is fixed under the General Schedule.”
 
 1967—Pub. L. 90–206, title II, §212, Dec. 16, 1967, 81 Stat. 634, provided that: “In order to complete the implementation of the policy of the Congress set forth in paragraph (2) of section 5301 of title 5, United States Code, the President, after seeking the views of such employee organizations as he considers appropriate and in such manner as he may provide, shall—
 

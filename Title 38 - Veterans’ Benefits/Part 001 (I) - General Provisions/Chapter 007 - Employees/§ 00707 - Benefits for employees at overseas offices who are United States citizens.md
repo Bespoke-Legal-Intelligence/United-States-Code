@@ -10,7 +10,7 @@
 
 &emsp;(4) Section 903 of the Foreign Service Act of 1980 (relating to the return of personnel to the United States on leave of absence).
 
-&emsp;(5) Section 904(d) of the Foreign Service Act of 1980 (relating to payments by the UnitedStates of expenses for treating illness or injury of officers or employees and dependents requiring hospitalization).
+&emsp;(5) Section 904(d) of the Foreign Service Act of 1980 (relating to payments by the United States of expenses for treating illness or injury of officers or employees and dependents requiring hospitalization).
 
 &emsp;(6) Section 5724a(c) of title 5 (relating to subsistence expenses for 60 days in connection with the return to the United States of the employee and such employee's immediate family).
 

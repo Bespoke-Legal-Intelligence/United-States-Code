@@ -12,7 +12,3 @@ Section is made applicable to the entire title rather than to sections 481 et se
 
 Minor changes in phraseology were made.
 
-#### Cross References
-
-Vessel as involving liquor traffic violations, see section 3667 of this title.
-

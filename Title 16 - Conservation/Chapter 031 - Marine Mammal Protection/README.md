@@ -180,7 +180,7 @@
 | (a) | Establishment; membership. |
 | (b) | Compensation; reimbursement for travel expenses. |
 | (c) | Consultation with Commission on studies and recommendations; explanation for nonadoption. |
-| [1404\.](Subchapter%20003%20%28III%29%20-%20Marine%20Mammal%20Commission/%C2%A7%2001404%20-%20Reports.md) | Reports. |
+| [1404\.](Subchapter%20003%20%28III%29%20-%20Marine%20Mammal%20Commission/%C2%A7%2001404%20-%20Omitted.md) | Omitted. |
 | [1405\.](Subchapter%20003%20%28III%29%20-%20Marine%20Mammal%20Commission/%C2%A7%2001405%20-%20Coordination%20with%20other%20Federal%20agencies.md) | Coordination with other Federal agencies. |
 | [1406\.](Subchapter%20003%20%28III%29%20-%20Marine%20Mammal%20Commission/%C2%A7%2001406%20-%20Administration.md) | Administration. |
 | [1407\.](Subchapter%20003%20%28III%29%20-%20Marine%20Mammal%20Commission/%C2%A7%2001407%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
@@ -248,6 +248,15 @@
 | (b) | Tissue analysis. |
 | (c) | Data base. |
 | (d) | Access. |
+| 1421f–1. | John H. Prescott Marine Mammal Rescue Assistance Grant Program. |
+| (a) | In general. |
+| (b) | Application. |
+| (c) | Consultation. |
+| (d) | Limitation. |
+| (e) | Matching requirement. |
+| (f) | Administrative expenses. |
+| (g) | Definitions. |
+| (h) | Authorization of appropriations. |
 | [1421g.](Subchapter%20005%20%28V%29%20-%20Marine%20Mammal%20Health%20and%20Stranding%20Response/%C2%A7%2001421g%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [1421h.](Subchapter%20005%20%28V%29%20-%20Marine%20Mammal%20Health%20and%20Stranding%20Response/%C2%A7%2001421h%20-%20Definitions.md) | Definitions. |
 
@@ -255,7 +264,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1375a, 1543, 1881, 1881a, 1881b, 2407, 2408, 3125 of this title; title 10 section 7524.
+This chapter is referred to in sections 1375a, 1543, 1881, 1881a, 1881b, 2407, 2408, 3125, 6406 of this title; title 10 section 7524.
 
 
 ---

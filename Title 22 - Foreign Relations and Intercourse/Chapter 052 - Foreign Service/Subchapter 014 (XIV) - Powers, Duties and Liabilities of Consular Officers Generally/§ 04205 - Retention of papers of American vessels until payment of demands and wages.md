@@ -12,12 +12,6 @@ Section was not enacted as part of the Foreign Service Act of 1980 which compris
 
 Section was formerly classified to section 1185 of this title, and prior thereto to section 88 of this title.
 
-#### Cross References
-
-Deposit of ships’ papers with consular officers by masters of vessels, see section 354 of Title 46, Appendix, Shipping.
-
-Entry of vessels, see section 1434 of Title 19, Customs Duties.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 4191 of this title.

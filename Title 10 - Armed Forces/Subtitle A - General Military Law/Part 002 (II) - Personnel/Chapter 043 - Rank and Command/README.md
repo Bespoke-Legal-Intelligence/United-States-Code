@@ -27,16 +27,6 @@ Pub. L. 96–513, title V, §501(10)(B), Dec. 12, 1980, 94 Stat. 2908, added ite
 
 1958—Pub. L. 85–861, §1(19), Sept. 2, 1958, 72 Stat. 1442, struck out item 742 “Rank: officers of regular and reserve components”.
 
-#### Cross References
-
-Particular provisions relating to rank and command—
-
-&emsp;&emsp;Air Force, see section 8572 et seq. of this title.
-
-&emsp;&emsp;Army, see section 3572 et seq. of this title.
-
-&emsp;&emsp;Navy and Marine Corps, see sections 5508, 5942 et seq. of this title.
-
 
 ---
 

@@ -14,7 +14,7 @@ Subject to sections 107 through 121, the owner of copyright under this title has
 
 &emsp;(6) in the case of sound recordings, to perform the copyrighted work publicly by means of a digital audio transmission.
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2546; Pub. L. 101–318, §3(d), July 3, 1990, 104 Stat. 288; Pub. L. 101–650, title VII, §704(b)(2), Dec. 1, 1990, 104 Stat. 5134; Pub. L. 104–39, §2, Nov. 1,1995, 109 Stat. 336; Pub. L. 106–44, §1(g)(2), Aug. 5, 1999, 113 Stat. 222.)
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2546; Pub. L. 101–318, §3(d), July 3, 1990, 104 Stat. 288; Pub. L. 101–650, title VII, §704(b)(2), Dec. 1, 1990, 104 Stat. 5134; Pub. L. 104–39, §2, Nov. 1, 1995, 109 Stat. 336; Pub. L. 106–44, §1(g)(2), Aug. 5, 1999, 113 Stat. 222.)
 
 #### Historical and Revision Notes
 
@@ -46,7 +46,7 @@ This approach is more reasonable than the outright exemption of the 1909 statute
 
 The exclusive right of public performance is expanded to include not only motion pictures, including works recorded on film, video tape, and video disks, but also audiovisual works such as filmstrips and sets of slides. This provision of section 106(4), which is consistent with the assimilation of motion pictures to audiovisual works throughout the bill, is also related to amendments of the definitions of “display” and “perform” discussed below. The important issue of performing rights in sound recordings is discussed in connection with section 114.
 
-<i>Right of Public Display</i>.—Clause (5) of section 106 represents the first explicit statutory recognition in American copyright law of an exclusive right to show a copyrighted work, or an image of it, to the public.The existence or extent of this right under the present statute is uncertain and subject to challenge. The bill would give the owners of copyright in “literary, musical, dramatic, and choreographic works, pantomimes, and pictorial, graphic, or sculptural works”, including the individual images of a motion picture or other audiovisual work, the exclusive right “to display the copyrighted work publicly.”
+<i>Right of Public Display</i>.—Clause (5) of section 106 represents the first explicit statutory recognition in American copyright law of an exclusive right to show a copyrighted work, or an image of it, to the public. The existence or extent of this right under the present statute is uncertain and subject to challenge. The bill would give the owners of copyright in “literary, musical, dramatic, and choreographic works, pantomimes, and pictorial, graphic, or sculptural works”, including the individual images of a motion picture or other audiovisual work, the exclusive right “to display the copyrighted work publicly.”
 
 <b>Definitions.</b> Under the definitions of “perform,” “display,” “publicly,” and “transmit” in section 101, the concepts of public performance and public display cover not only the initial rendition or showing, but also any further act by which that rendition or showing is transmitted or communicated to the public. Thus, for example: a singer is performing when he or she sings a song; a broadcasting network is performing when it transmits his or her performance (whether simultaneously or from records); a local broadcaster is performing when it transmits the network broadcast; a cable television system is performing when it retransmits the broadcast to its subscribers; and any individual is performing whenever he or she plays a phonorecord embodying the performance or communicates the performance by turning on a receiving set. Although any act by which the initial performance or display is transmitted, repeated, or made to recur would itself be a “performance” or “display” under the bill, it would not be actionable as an infringement unless it were done “publicly,” as defined in section 101. Certain other performances and displays, in addition to those that are “private,” are exempted or given qualified copyright control under sections 107 through 118.
 
@@ -54,7 +54,7 @@ To “perform” a work, under the definition in section 101, includes reading a
 
 The definition of “perform” in relation to “a motion picture or other audiovisual work” is “to show its images in any sequence or to make the sounds accompanying it audible.” The showing of portions of a motion picture, filmstrip, or slide set must therefore be sequential to constitute a “performance” rather than a “display”, but no particular order need be maintained. The purely aural performance of a motion picture sound track, or of the sound portions of an audiovisual work, would constitute a performance of the “motion picture or other audiovisual work”; but, where some of the sounds have been reproduced separately on phonorecords, a performance from the phonorecord would not constitute performance of the motion picture or audiovisual work.
 
-The corresponding definition of “display” covers any showing of a “copy” of the work, “either directly or by means of a film, slide, television image, or any other device or process.” Since “copies” are defined as including the material object “in which the work is first fixed,” the right of public display applies to original works of art as well as to reproductions of them. With respect to motion pictures and other audiovisual works, it is a “display” (rather than a “performance”) to show their “individual images nonsequentially.” In addition to the direct showings of a copy of a work, “display” would include the projection of an image on a screen or other surface by any method, the transmission of an image by electronic or other means, and the showing of an image on a cathode ray tube, or similar viewing apparatus connected with any sort of information storage and retrieval system.
+The corresponding definition of “display” covers any showing of a “copy” of the work, “either directly or by means of a film, slide, television image, or any other device or process.” Since “copies” are defined as including the material object “in which the work is first fixed,” the right of public display applies to original works of art as well as to reproductions of them. With respect to motion pictures and other audiovisual works, it is a “display” (rather than a “performance”) to show their “individual images nonsequentially.” In addition to the direct showings of a copy of a work, “display” would include the projection of an image ona screen or other surface by any method, the transmission of an image by electronic or other means, and the showing of an image on a cathode ray tube, or similar viewing apparatus connected with any sort of information storage and retrieval system.
 
 Under clause (1) of the definition of “publicly” in section 101, a performance or display is “public” if it takes place “at a place open to the public or at any place where a substantial number of persons outside of a normal circle of a family and its social acquaintances is gathered.” One of the principal purposes of the definition was to make clear that, contrary to the decision in <i>Metro-Goldwyn-Mayer Distributing Corp. v. Wyatt</i>, 21 C.O.Bull. 203 (D.Md.1932), performances in “semipublic” places such as clubs, lodges, factories, summer camps, and schools are “public performances” subject to copyright control. The term “a family” in this context would include an individual living alone, so that a gathering confined to the individual's social acquaintances would normally be regarded as private. Routine meetings of businesses and governmental personnel would be excluded because they do not represent the gathering of a “substantial number of persons.”
 
@@ -81,52 +81,6 @@ Amendment by Pub. L. 104–39 effective 3 months after Nov. 1, 1995, see section
 Amendment by Pub. L. 101–650 applicable to any architectural work created on or after Dec. 1, 1990, and any architectural work, that, on Dec. 1, 1990, is unconstructed and embodied in unpublished plans or drawings, except that protection for such architectural work under this title terminates on Dec. 31, 2002, unless the work is constructed by that date, see section 706 of Pub. L. 101–650, set out as a note under section 101 of this title.
 
 Section 3(e)(3) of Pub. L. 101–318 provided that: “The amendment made by subsection (d) \[amending this section\] shall be effective as of November 16, 1988.”
-
-#### Federal Rules of Civil Procedure
-
-Injunctions, see rule 65, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-#### Cross References
-
-Action for infringement of copyright, see section 501 of this title.
-
-Common law rights, see section 301 of this title.
-
-Copyright as distinct from property in object copyrighted, see section 202 of this title.
-
-Copyright not capital asset, see section 1221 of Title 26, Internal Revenue Code.
-
-Duration of copyright, see section 301 et seq. of this title.
-
-Fines and penalties for willful infringement, see section 506 of this title.
-
-Government publications as not copyrightable, see section 105 of this title.
-
-Immoral and scandalous trademarks, registrability, see section 1052 of Title 15, Commerce and Trade.
-
-Jurisdiction of district courts of actions—
-
-&emsp;&emsp;Arising under copyright laws, see section 1338 of Title 28, Judiciary and Judicial Procedure.
-
-&emsp;&emsp;Founded on diversity of citizenship, see section 1332 of Title 28.
-
-Preemption of other laws relating to exclusive rights within the general scope of copyright, see section 301 of this title.
-
-Proclamation by President granting foreign authors copyright protection, see section 104 of this title.
-
-Power of Congress to grant authors exclusive right to their writings, see Const. Art. I, §8, cl. 8.
-
-Remedies for infringement of copyright, see sections 502, 503, 504, 505 of this title.
-
-Renewal of copyright, see section 304 of this title.
-
-Transfer of copyright, see sections 201 and 204 of this title.
-
-Venue of action—
-
-&emsp;&emsp;Arising under act of Congress relating to copyrights, see section 1400 of Title 28, Judiciary and Judicial Procedure.
-
-&emsp;&emsp;Founded on diversity of citizenship jurisdiction, see section 1391 of Title 28.
 
 #### Section Referred to in Other Sections
 

@@ -26,10 +26,6 @@ Subsec. (b). Pub. L. 97–322, §108(c)(4), added subsec. (b).
 
 Functions, powers, and duties of Secretary of the Army \[formerly War\] and other offices and officers of Department the Army \[formerly War\] under this section to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670, §6(g)(6)(B), Oct. 15, 1966, 80 Stat. 941. Pub. L. 97–449 amended this section to reflect transfer made by section 6(g)(6)(B) of Pub. L. 89–670, and repealed section 6(g)(6)(B).
 
-#### Federal Rules of Civil Procedure
-
-Abolition of writ of mandamus, see Rule 81(b), Title 28, Appendix, Judiciary and Judicial Procedure.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 491, 492, 493, 494, 497, 498, 508, 530, 535 of this title.

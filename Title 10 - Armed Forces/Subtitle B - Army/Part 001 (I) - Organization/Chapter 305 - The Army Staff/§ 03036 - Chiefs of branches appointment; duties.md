@@ -42,7 +42,7 @@
 
 > From these officers, the board shall recommend by name the number prescribed by the Secretary, and the President may appoint any officer so recommended. If the President declines to appoint any of the recommended officers, or if the officer nominated cannot be appointed because of advice by the Senate, the Secretary shall convene a board to recommend additional officers. An officer who is recommended but not appointed shall be considered not to have been recommended. This does not affect his eligibility for selection and recommendations for the grade of brigadier general or major general under section 3306 or 3307 of this title.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 163; Pub. L. 89–288, §1, Oct. 22, 1965, 79 Stat. 1050; Pub. L. 89–718, §24, Nov. 2, 1966, 80 Stat. 1119; Pub. L. 97–295, §1(38), Oct. 12, 1982, 96 Stat. 1296; Pub. L. 99–662, title IX, §922, Nov. 17, 1986, 100 Stat. 4194; Pub. L. 100–26, §7(a)(10), Apr. 21, 1987, 101 Stat.278; Pub. L. 102–580, title II, §211, Oct. 31, 1992, 106 Stat. 4831; Pub. L. 104–106, div. A, title V, §506(a), Feb. 10, 1996, 110 Stat. 296; Pub. L. 104–201, div. A, title X, §1074(a)(18), Sept. 23, 1996, 110 Stat. 2660.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 163; Pub. L. 89–288, §1, Oct. 22, 1965, 79 Stat. 1050; Pub. L. 89–718, §24, Nov. 2, 1966, 80 Stat. 1119; Pub. L. 97–295, §1(38), Oct. 12, 1982, 96 Stat. 1296; Pub. L. 99–662, title IX, §922, Nov. 17, 1986, 100 Stat. 4194; Pub. L. 100–26, §7(a)(10), Apr. 21, 1987, 101 Stat. 278; Pub. L. 102–580, title II, §211, Oct. 31, 1992, 106 Stat. 4831; Pub. L. 104–106, div. A, title V, §506(a), Feb. 10, 1996, 110 Stat. 296; Pub. L. 104–201, div. A, title X, §1074(a)(18), Sept. 23, 1996, 110 Stat. 2660.)
 
 Historical and Revision Notes<br>1956
 
@@ -90,7 +90,7 @@ June 3, 1916, ch. 134, §11 (1st 17 words); restated June 4, 1920, ch. 227, subc
 
 Aug. 7, 1947, ch. 512, §513(a) (less 5th sentence), (b), 61 Stat. 901.
 
-In subsection (b), all references to the appointment of assistant chiefs are omitted as covered by sections 3037 and 3040 of this title. All references to the grade of brigadier general are omitted, since 10:21f(b) specifies the grade of major general for the offices. 10:559g(a) (4th sentence) is omitted as surplusage, since the appointment is to a permanent grade. 10:559g(a) (6th and 7th sentences) is omitted as executed. 10:559g(a) (last sentence) is omitted, since the revised section applies only to the officers named in subsection (a). The words “except the Judge Advocate General” are inserted for clarity. The eight words before clause (1), and clauses (1) and (2), are substituted for the words “as prescribed in section 559g of this title”, in 10:21f(b), and 10:559g(a) (1st sentence). The second sentence is substituted for 10:559g(a) (2d sentence) and 10:21f(b) (1st 15 words). The words “selected and”, in 10:21f(b), are omitted as surplusage. The words “arms, or services”, in 10:559g(a) are omitted as obsolete, since sections 3063 and 3064 of this title designate the former arms and services as “branches”.
+In subsection (b), all references to the appointment of assistant chiefs are omitted as covered by sections 3037 and 3040 of this title. All references to the grade of brigadier general are omitted, since 10:21f(b) specifies the grade of major general for the offices. 10:559g(a) (4th sentence) is omitted as surplusage, since the appointment is to a permanent grade. 10:559g(a) (6th and 7th sentences) is omitted as executed. 10:559g(a) (last sentence) is omitted, since the revised section applies only to the officers named in subsection (a). The words “except the Judge Advocate General” are inserted for clarity. The eight words before clause (1), and clauses (1)and (2), are substituted for the words “as prescribed in section 559g of this title”, in 10:21f(b), and 10:559g(a) (1st sentence). The second sentence is substituted for 10:559g(a) (2d sentence) and 10:21f(b) (1st 15 words). The words “selected and”, in 10:21f(b), are omitted as surplusage. The words “arms, or services”, in 10:559g(a) are omitted as obsolete, since sections 3063 and 3064 of this title designate the former arms and services as “branches”.
 
 In subsection (c), the words “normally holds office” are substituted for the words “shall normally continue in that assignment for a tour of duty”. The words “appointment” and “office” are substituted for the words “assignment” and “tour of duty” whenever they are used in that sense.
 
@@ -154,7 +154,7 @@ Subsec. (d)(3). Pub. L. 104–201 substituted “In this subsection” for “Fo
 
 #### Chief of Engineers; Work or Services for Other Federal Departments and Agencies
 
-Pub. L. 89–298, title II, §219, Oct. 27, 1965, 79 Stat. 1089, which provided that the Chief of Engineers, under thesupervision of the Secretary of the Army, was authorized to accept orders from other Federal departments and agencies for work or services and to perform all or any part of such work or services by contract, was repealed and restated in subsec. (d) of this section by Pub. L. 97–295, §§1(38), 6(b), Oct. 12, 1982, 96 Stat. 1296, 1314.
+Pub. L. 89–298, title II, §219, Oct. 27, 1965, 79 Stat. 1089, which provided that the Chief of Engineers, under the supervision of the Secretary of the Army, was authorized to accept orders from other Federal departments and agencies for work or services and to perform all or any part of such work or services by contract, was repealed and restated in subsec. (d) of this section by Pub. L. 97–295, §§1(38), 6(b), Oct. 12, 1982, 96 Stat. 1296, 1314.
 
 #### Department of Defense Reorganization Order
 
@@ -182,7 +182,7 @@ Section 1. <i>Abolition of officers and transfer of functions</i>. The following
 
 Sec. 2. <i>Transfer of functions from Chief of Engineers</i>. The functions vested in the Chief of Engineers by sections 3038 and 3533, Title 10, United States Code, are hereby transferred to the Secretary of the Army.
 
-Sec. 3. <i>Performance of transferred functions</i>. The Secretary of the Army may from time to time make such provisions as he shall deem appropriate authorizing the performance by any other officer, or by any office, agency, or employee of the Department of the Army of any function transferred to the Secretary by the provisions of this order.
+Sec. 3. <i>Performance of transferred functions</i>. The Secretary of the Army may from time to time make suchprovisions as he shall deem appropriate authorizing the performance by any other officer, or by any office, agency, or employee of the Department of the Army of any function transferred to the Secretary by the provisions of this order.
 
 Sec. 4. <i>Transitional provisions</i>. In order to assist in the orderly transfer of functions and to promote continuity of operation, the Secretary of the Army may, if he considers it necessary, delay beyond the effective date of this order the abolition of any office or transfer of any function.
 
@@ -193,24 +193,6 @@ J. C. Lambert,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <i>Major General, U.S. Army, </i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 The Adjutant General.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Cross References
-
-Army Staff, composition, see section 3031 of this title.
-
-Basic branches, see section 3063 of this title.
-
-Bureaus, Navy, see section 5131 et seq. of this title.
-
-Chief of Medical Service Corps, see section 3068 of this title.
-
-Deputy and assistant chiefs of branches, see section 3039 of this title.
-
-President's appointing power, see Const. Art. II, §2, cl. 2.
-
-Special branches, see section 3064 of this title.
-
-Strength in grade; temporary increases, see section 12009 of this title.
 
 #### Section Referred to in Other Sections
 

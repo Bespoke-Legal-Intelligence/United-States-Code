@@ -8,3 +8,73 @@ In order to further the goal of the Peace Corps, as set forth in section 2501 of
 
 A prior section 2517, Pub. L. 87–293, title I, §18, Sept. 22, 1961, 75 Stat. 623, provided that Mutual Defense Assistance Control Act of 1951 (22 U.S.C. 1611 et seq.) applied, subject to an exception, to functions carried out under this chapter, prior to repeal by Pub. L. 97–113, title VI, §605(b), Dec. 29, 1981, 95 Stat. 1543. The 1951 Act was superseded by the Export Administration Act of 1979 (50 U.S.C. App. 2401 et seq.).
 
+#### Paul D. Coverdell World Wise Schools Program
+
+Pub. L. 106–570, title VI, Dec. 27, 2000, 114 Stat. 3051, provided that:
+
+#### “SEC. 601. SHORT TITLE.
+
+“This title may be cited as the ‘Paul D. Coverdell World Wise Schools Act of 2000’.
+
+#### “SEC. 602. FINDINGS.
+
+“Congress makes the following findings:
+
+&emsp;“(1) Paul D. Coverdell was elected to the Georgia State Senate in 1970 and later became Minority Leader of the Georgia State Senate, a post he held for 15 years.
+
+&emsp;“(2) As the 11th Director of the Peace Corps from 1989 to 1991, Paul Coverdell's dedication to the ideals of peace and understanding helped to shape today's Peace Corps.
+
+&emsp;“(3) Paul D. Coverdell believed that Peace Corps volunteers could not only make a difference in the countries where they served but that the greatest benefit could be felt at home.
+
+&emsp;“(4) In 1989, Paul D. Coverdell founded the Peace Corps World Wise Schools Program to help fulfill the Third Goal of the Peace Corps, ‘to promote a better understanding of the people served among people of the United States’.
+
+&emsp;“(5) The World Wise Schools Program is an innovative education program that seeks to engage learners in an inquiry about the world, themselves, and others in order to broaden perspectives; promote cultural awareness; appreciate global connections; and encourage service.
+
+&emsp;“(6) In a world that is increasingly interdependent and ever changing, the World Wise Schools Program pays tribute to Paul D. Coverdell's foresight and leadership. In the words of one World Wise Schools teacher, ‘It's a teacher's job to touch the future of a child; it's the Peace Corps’ job to touch the future of the world. What more perfect partnership.’.
+
+&emsp;“(7) Paul D. Coverdell served in the United States Senate from the State of Georgia from 1993 until his sudden death on July 18, 2000.
+
+&emsp;“(8) Senator Paul D. Coverdell was beloved by his colleagues for his civility, bipartisan efforts, and his dedication to public service.
+
+#### “SEC. 603. DESIGNATION OF PAUL D. COVERDELL WORLD WISE SCHOOLS PROGRAM.
+
+“(a)
+
+In General.—Effective on the date of enactment of this Act \[Dec. 27, 2000\], the program under section 18 of the Peace Corps Act (22 U.S.C. 2517) referred to before such date as the ‘World Wise Schools Program’ is redesignated as the ‘Paul D. Coverdell World Wise Schools Program’.
+
+“(b)
+
+References.—Any reference before the date of enactment of this Act \[Dec. 27, 2000\] in any law, regulation, order, document, record, or other paper of the United States to the Peace Corps World Wise Schools Program shall, on and after such date, be considered to refer to the Paul D. Coverdell World Wise Schools Program.”
+
+#### Paul D. Coverdell Fellows Program
+
+Pub. L. 106–309, title IV, §408, Oct. 17, 2000, 114 Stat. 1100, provided that:
+
+“(a)
+
+Short Title.—This section may be cited as the ‘Paul D. Coverdell Fellows Program Act of 2000’.
+
+“(b)
+
+Findings.—Congress makes the following findings:
+
+&emsp;“(1) Paul D. Coverdell was elected to the George \[sic\] State Senate in 1970 and later became Minority Leader of the Georgia State Senate, a post he held for 15 years.
+
+&emsp;“(2) Paul D. Coverdell served with distinction as the 11th Director of the Peace Corps from 1989 to 1991, where he promoted a fellowship program that was composed of returning Peace Corps volunteers who agreed to work in underserved American communities while they pursued educational degrees.
+
+&emsp;“(3) Paul D. Coverdell served in the United States Senate from the State of Georgia from 1993 until his sudden death on July 18, 2000.
+
+&emsp;“(4) Senator Paul D. Coverdell was beloved by his colleagues for his civility, bipartisan efforts, and his dedication to public service.
+
+“(c)
+
+Designation of Paul D. Coverdell Fellows Program.—
+
+&emsp;“(1)
+
+In general.—Effective on the date of the enactment of this Act \[Oct. 17, 2000\], the program under section 18 of the Peace Corps Act (22 U.S.C. 2517) referred to before such date as the ‘Peace Corps Fellows/ USA Program’ is redesignated as the ‘Paul D. Coverdell Fellows Program’.
+
+&emsp;“(2)
+
+References.—Any reference before the date of the enactment of this Act \[Oct. 17, 2000\] in any law, regulation, order, document, record, or other paper of the United States to the Peace Corps Fellows/ USA Program shall, on and after such date, be considered to refer to the Paul D. Coverdell Fellows Program.”
+

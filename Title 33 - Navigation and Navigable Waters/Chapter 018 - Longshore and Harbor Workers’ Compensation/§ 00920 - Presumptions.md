@@ -12,7 +12,3 @@ In any proceeding for the enforcement of a claim for compensation under this cha
 
 (Mar. 4, 1927, ch. 509, §20, 44 Stat. 1436.)
 
-#### Cross References
-
-Intoxication, suicide and homicide as excluding coverage, see section 903 of this title.
-

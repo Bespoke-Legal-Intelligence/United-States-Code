@@ -46,7 +46,7 @@ Not later than 6 months after September 13, 1994, the United States Sentencing C
 
 #### Codification
 
-Section is comprised of section 40503 of Pub. L. 103–322. Subsec. (a) of section 40503 of Pub. L. 103–322 amended section 10607 of this title.
+Section is comprised of section 40503 of Pub. L. 103–322. Subsec. (a) of section 40503 of Pub. L. 103–322 amended section 10607 of this title. Subsec. (c) of section 40503 of Pub. L. 103–322 also enacted provisions listed in a table of provisions for review, promulgation, or amendment of Federal sentencing guidelines relating to specific offenses set out under section 994 of Title 28, Judiciary and Judicial Procedure.
 
 #### Amendments
 

@@ -16,5 +16,5 @@ Section effective Sept. 1, 1989, see section 401(a) of Pub. L. 100–687, set ou
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 7104 of this title.
+This section is referred to in sections 5103A, 7104 of this title.
 

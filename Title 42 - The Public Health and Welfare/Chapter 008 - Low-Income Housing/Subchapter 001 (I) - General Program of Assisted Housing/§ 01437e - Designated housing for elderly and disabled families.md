@@ -100,7 +100,7 @@ Section 1437n(e)(1)(B) of this title, referred to in subsec. (b), was repealed b
 
 Section 1701q of title 12, referred to in subsec. (d)(2)(D), was amended generally by Pub. L. 101–625, title VIII, §801(a), Nov. 28, 1990, 104 Stat. 4297, and, as so amended, does not contain a subsec. (d)(8) or a definition of the term “related facilities”.
 
-The Uniform Relocation Assistance and Real Property Acquisitions Policy Act of 1970, referred to in subsec. (g), probably means the Uniform Relocation Assistance and Real Property Acquisition Policy Act of 1970, Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, as amended, which is classified principally to chapter 61 (§4601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4601 of this title and Tables.
+The Uniform Relocation Assistance and Real Property Acquisitions Policy Act of 1970, referred to in subsec. (g), probably means the Uniform Relocation Assistance and Real Property Acquisition Policy Act of 1970, Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, as amended, which is classified principally to chapter 61 (§4601 etseq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4601 of this title and Tables.
 
 #### Prior Provisions
 
@@ -110,7 +110,7 @@ A prior section 7 of act Sept. 1, 1937, ch. 896, 50 Stat. 891, as amended, requi
 
 1998—Subsec. (h). Pub. L. 105–276 struck out heading and text of subsec. (h). Text read as follows: “The provisions of this section shall not apply with respect to low-income housing developed or operated pursuant to a contract between the Secretary and an Indian housing authority.”
 
-1996—Pub. L. 104–330, §501(b)(4), which directed amendment of “subsection 7” of the United StatesHousing Act of 1937, probably meaning this section, by striking subsec. (<i>l</i>), could not be executed because this section does not contain a subsec. (<i>l</i>).
+1996—Pub. L. 104–330, §501(b)(4), which directed amendment of “subsection 7” of the United States Housing Act of 1937, probably meaning this section, by striking subsec. (<i>l</i>), could not be executed because this section does not contain a subsec. (<i>l</i>).
 
 Pub. L. 104–120 amended section generally, restating former subsecs. (a) to (g) relating to designated housing as subsecs. (a) to (h) relating to designated housing for elderly and disabled families.
 

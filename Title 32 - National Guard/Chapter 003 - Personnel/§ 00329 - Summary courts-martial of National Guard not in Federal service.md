@@ -26,17 +26,5 @@ June 3, 1916, ch. 134, §105, 39 Stat. 208.
 
 In subsection (a), the words “Federal service” are substituted for the words “service of the United States” The words “where troops are on duty” and “commissioned” are inserted for clarity. The words “air base, auxiliary air base”, “wing, group”, and “detached squadron” are inserted to clarify the applicability of the revised section to Air Force organizations. The word “convene” is substituted for the word “appoint” to conform to 32:92 and similar provisions of section 824 of title 10 (article 24 of the Uniform Code of Military Justice). The word “corps”, referring to those corps covered by 32:192 and 193, is omitted as covered by the words “other detachment”. The words “who shall have power to administer oaths and to try the enlisted men of such place or command for breaches of discipline and violations of laws governing such organizations” are omitted as covered by section 326 of this title.
 
-In subsection (b), the words “and the minutes thereof shall be the same as prescribed for summary courts of the Army of the United States” are omitted as covered by section 326 of this title.
-
-#### Cross References
-
-Uniform Code of Military Justice—
-
-&emsp;&emsp;Generally, see section 801 et seq. of Title 10, Armed Forces.
-
-&emsp;&emsp;Convening summary courts-martial, see section 824 of Title 10.
-
-&emsp;&emsp;Jurisdiction of summary courts-martial, see section 820 of Title 10.
-
-&emsp;&emsp;Sentences, generally, see sections 855 to 858a of Title 10.
+In subsection (b), the words “and the minutes thereof shall be the same as prescribed for summary courts ofthe Army of the United States” are omitted as covered by section 326 of this title.
 

@@ -22,7 +22,7 @@ The Director of the Agency for Healthcare Research and Quality shall ensure that
 
 &emsp;(5) conducted in consultation with the Director of the National Institute on Aging and the Commissioner of the Administration on Aging, concerning legal and ethical issues, including issues associated with special care units, facing individuals with Alzheimer's disease and related dementias and facing their families.
 
-(Pub. L. 99–660, title IX, §934, as added Pub. L. 102–507, §7(b)(1)(B), Oct. 24, 1992, 106 Stat. 3285;amended Pub. L. 106–129, §2(b)(2), Dec. 6, 1999, 113 Stat. 1670.)
+(Pub. L. 99–660, title IX, §934, as added Pub. L. 102–507, §7(b)(1)(B), Oct. 24, 1992, 106 Stat. 3285; amended Pub. L. 106–129, §2(b)(2), Dec. 6, 1999, 113 Stat. 1670.)
 
 #### Prior Provisions
 

@@ -1,10 +1,10 @@
 ### §3719. Reports on debt collection activities
 
-(a) In consultation with the Comptroller General of the United States, the Secretary of the Treasury shall prescribe regulations requiring the head of each agency with outstanding nontax claims to prepare and submit to the Secretary at least once each year a report summarizing the status of loans and accounts receivable that are managed by the head of the agency. The report shall contain—
+(a) In consultation with the Comptroller General of the United States, the Secretary of the Treasury shall prescribe regulations requiringthe head of each agency with outstanding nontax claims to prepare and submit to the Secretary at least once each year a report summarizing the status of loans and accounts receivable that are managed by the head of the agency. The report shall contain—
 
 &emsp;(1) information on—
 
-&emsp;&emsp;(A) the total amount of loans and accounts receivable owed the agency and whenamounts owed the agency are due to be repaid;
+&emsp;&emsp;(A) the total amount of loans and accounts receivable owed the agency and when amounts owed the agency are due to be repaid;
 
 &emsp;&emsp;(B) the total amount of receivables and number of claims at least 30 days past due;
 
@@ -53,6 +53,10 @@ In subsection (b), the word “submitted” is substituted for “received by ea
 Subsec. (a)(3). Pub. L. 104–134, §31001(aa)(3)(A)(ii), substituted “Secretary” for “Director”.
 
 Subsec. (b). Pub. L. 104–134, §31001(aa)(3)(B), which directed that subsec. (b) be amended by substituting “Secretary” for “Director”, was executed by making the substitution to both places where “Director” appeared.
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the reporting requirement under subsec. (b) of this section is listed on page 42), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set out as notes under section 1113 of this title.
 
 #### Consolidation of Reports
 

@@ -22,10 +22,6 @@ Subsecs. (d), (e). Pub. L. 96–90, §2(2), added subsecs. (d) and (e).
 
 1975—Subsec. (b)(4). Pub. L. 93–583 added cl. (4).
 
-#### Cross References
-
-Mailing lottery tickets or related matter, see section 1302 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1302, 1961 of this title.

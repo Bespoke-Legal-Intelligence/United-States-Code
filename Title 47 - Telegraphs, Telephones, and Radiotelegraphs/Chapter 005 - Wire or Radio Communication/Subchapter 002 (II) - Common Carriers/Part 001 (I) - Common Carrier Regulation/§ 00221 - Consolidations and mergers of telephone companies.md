@@ -14,7 +14,7 @@ For the purpose of administering this chapter as to carriers engaged in wire tel
 
 In making a valuation of the property of any wire telephone carrier the Commission, after making the classification authorized in this section, may in its discretion value only that part of the property of such carrier determined to be used in interstate or foreign telephone toll service.
 
-(June 19, 1934, ch. 652, title II, §221, 48 Stat. 1080; Apr. 27, 1954, ch. 175, §4, 68 Stat. 64; Aug. 2, 1956, ch. 874, §3, 70 Stat. 932; Pub. L. 101–336, title IV, §401(b)(2), July 26, 1990, 104 Stat. 369; Pub. L. 104–104, title VI, §601(b)(2), Feb. 8, 1996, 110 Stat. 143.)
+(June 19, 1934, ch. 652, title II, §221, 48 Stat. 1080; Apr. 27, 1954, ch. 175, §4, 68 Stat. 64; Aug. 2, 1956, ch. 874, §3, 70 Stat. 932; Pub. L. 101–336, title IV,§401(b)(2), July 26, 1990, 104 Stat. 369; Pub. L. 104–104, title VI, §601(b)(2), Feb. 8, 1996, 110 Stat. 143.)
 
 #### Amendments
 

@@ -56,13 +56,7 @@ Waiver of Time Limitations.—A Medal of Honor may be awarded to a person referr
 
 Definition.—For purposes of this section, the term ‘Native American Pacific Islander’ means a Native Hawaiian and any other Native American Pacific Islander within the meaning of the Native American Programs Act of 1974 (42 U.S.C. 2991 et seq.).”
 
-#### Cross References
-
-Award of Medal of Honor to Navy and Air Force members, see sections 6241 and 8741 of this title.
-
-Pensions for persons on Medal of Honor Roll, see section 1560 et seq. of Title 38, Veterans’ Benefits.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in section 3748 of this title; title 18 section 704.
+This section is referred to in sections 1074h, 3748 of this title; title 18 section 704.
 

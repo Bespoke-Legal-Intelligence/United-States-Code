@@ -18,7 +18,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(III) aid under a State plan approved under subchapter XIV of this chapter (as in effect without regard to the amendment made by section 301 of the Social Security Amendments of 1972)); <sup>1</sup>
 
-&emsp;&emsp;&emsp;&emsp;(IV) aid or assistance under a State plan approved under subchapter XVI ofthis chapter (as in effect without regard to such amendment) by reason of being permanently and totally disabled; or
+&emsp;&emsp;&emsp;&emsp;(IV) aid or assistance under a State plan approved under subchapter XVI of this chapter (as in effect without regard to such amendment) by reason of being permanently and totally disabled; or
 
 &emsp;&emsp;&emsp;&emsp;(V) supplemental security income benefits under subchapter XVI of this chapter (as in effect pursuant to such amendment) by reason of disability.
 
@@ -88,7 +88,7 @@
 
 #### (2) Report on use of Federal funds to cover administrative costs and overhead
 
-&emsp;The report required by paragraph (1) for a fiscal quarter shall include a statement of the percentage of the funds paid to the State under this part for the quarter that are used to cover administrative costs or overhead, with a separate statement of the percentage of such funds that are used to cover administrative costs or overhead incurred for programs operated with funds provided under section 603(a)(5) of this title.
+&emsp;The report required by paragraph (1) for a fiscal quarter shall include a statement of the percentage of the funds paid to the State under this part for the quarter that are used to cover administrative costs or overhead, with a separate statement of the percentage of such funds that are used to cover administrative costs or overhead incurred for programsoperated with funds provided under section 603(a)(5) of this title.
 
 #### (3) Report on State expenditures on programs for needy families
 
@@ -110,7 +110,7 @@
 
 &emsp;&emsp;(B) the total dollar value of such assistance received by all families; and
 
-&emsp;&emsp;(C) with respect to families and individuals participating in a program operated withfunds provided under section 603(a)(5) of this title—
+&emsp;&emsp;(C) with respect to families and individuals participating in a program operated with funds provided under section 603(a)(5) of this title—
 
 &emsp;&emsp;&emsp;(i) the total number of such families and individuals; and
 

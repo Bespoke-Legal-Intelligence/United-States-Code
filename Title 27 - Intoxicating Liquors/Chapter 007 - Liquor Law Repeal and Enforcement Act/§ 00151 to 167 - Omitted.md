@@ -2,7 +2,7 @@
 
 #### Codification
 
-Sections contained provisions which were incorporated in various sections of the Internal RevenueCode of 1939. For distribution of the Internal Revenue Code of 1939 to the Internal Revenue Code of 1986, see Table I preceding section 1 of Title 26, Internal Revenue Code.
+Sections contained provisions which were incorporated in various sections of the Internal Revenue Code of 1939. For distribution of the Internal Revenue Code of 1939 to the Internal Revenue Code of 1986, see Table I preceding section 1 of Title 26, Internal Revenue Code.
 
 Section 151, act Aug. 27, 1935, ch. 740, §2, 49 Stat. 872, defined “person”, “Commissioner”, “application”, “permit”, “bond”, “regulation”, and “articles”, was incorporated in section 3124(a)(3)–(8) of the Internal Revenue Code of 1939.
 

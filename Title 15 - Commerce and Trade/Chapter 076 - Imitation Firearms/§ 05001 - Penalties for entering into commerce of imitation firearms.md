@@ -26,7 +26,7 @@ The Director of <sup>2</sup> National Institute of Justice is authorized and di
 
 #### (f) Effective date
 
-This section shall become effective on the date 6 months after November 5, 1988, and shall applyto toy, look-alike, and imitation firearms manufactured or entered into commerce after November 5, 1988.
+This section shall become effective on the date 6 months after November 5, 1988, and shall apply to toy, look-alike, and imitation firearms manufactured or entered into commerce after November 5, 1988.
 
 #### (g) Preemption of State or local laws or ordinances; exceptions
 

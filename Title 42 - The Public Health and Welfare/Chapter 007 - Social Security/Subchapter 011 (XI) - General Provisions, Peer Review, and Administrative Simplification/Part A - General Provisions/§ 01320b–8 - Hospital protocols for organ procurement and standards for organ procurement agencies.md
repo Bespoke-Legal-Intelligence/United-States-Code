@@ -62,9 +62,13 @@
 
 &emsp;(F) is designated by the Secretary as an organ procurement organization payments to which may be treated as organ procurement costs for purposes of reimbursement under such subchapter.
 
-(2) The Secretary may not designate more than one organ procurement organization for each service area (described in section 273(b)(1)(E) of this title) under paragraph (1)(F).
+(2) The Secretary may not designate more than one organ procurement organization for each service area (described in section 273(b)(1)(E) <sup>1</sup> of this title) under paragraph (1)(F).
 
 (Aug. 14, 1935, ch. 531, title XI, §1138, as added Pub. L. 99–509, title IX, §9318(a), Oct. 21, 1986, 100 Stat. 2009; amended Pub. L. 100–203, title IV, §4039(h)(2), Dec. 22, 1987, as added Pub. L. 100–360, title IV, §411(e)(3), July 1, 1988, 102 Stat. 775; amended Pub. L. 101–239, title VI, §6003(g)(3)(D)(iv), Dec. 19, 1989, 103 Stat. 2153; Pub. L. 103–432, title I, §155(a)(1), Oct. 31, 1994, 108 Stat. 4438; Pub. L. 105–33, title IV, §§4201(c)(1), 4642, Aug. 5, 1997, 111 Stat. 373, 487.)
+
+#### References in Text
+
+Section 273(b)(1)(E) of this title, referred to in subsec. (b)(2), was redesignated section 273(b)(1)(F) of this title by Pub. L. 106–505, title VII, §701(c)(1), Nov. 13, 2000, 114 Stat. 2347 and Pub. L. 106–554, §1(a)(1) \[title II, §219(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–29.
 
 #### Amendments
 
@@ -113,4 +117,6 @@ Section 9318(b) of Pub. L. 99–509, as amended by Pub. L. 100–119, title I, �
 #### Existing Agreements With Organ Procurement Agencies
 
 Section 155(a)(2) of Pub. L. 103–432 provided that: “Any hospital or rural primary care hospital which has an agreement (as defined in section 1138(a)(3)(A) of the Social Security Act \[subsec. (a)(3)(A) of this section\]) with an organ procurement agency other than such hospital's designated organ procurement agency (as defined in section 1138(a)(3)(B) of such Act) on the date of the enactment of this section \[Oct. 31, 1994\] shall, if such hospital desires to continue such agreement on and after the effective date of the amendments made by paragraph (1) \[see Effective Date of 1994 Amendment note above\], submit an application to the Secretary for a waiver under section 1138(a)(2) of such Act not later than January 1, 1996, and such agreement may continue in effect pending the Secretary's determination with respect to such application.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -36,7 +36,7 @@ Federal share.—The Federal share of full project costs under paragraph (1) sha
 
 &emsp;(3)
 
-Use of assistance.—Financial assistance provided under paragraph (1) shall be used only to pay eligible project costs of projects selected under this section.
+Use of assistance.—Financial assistance provided under paragraph (1) shall be usedonly to pay eligible project costs of projects selected under this section.
 
 (c)
 
@@ -138,7 +138,7 @@ Noncontract authority authorization of appropriations.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—There are authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account) to carry out this section (other than subsection (i)) $200,000,000 for each of fiscal years 2000 and 2001, $250,000,000 for fiscal year 2002, and $300,000,000 for fiscal year 2003.
+In general.—There are authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account) to carry out this section (other than subsection (i)) $200,000,000 for each offiscal years 2000 and 2001, $250,000,000 for fiscal year 2002, and $300,000,000 for fiscal year 2003.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -188,7 +188,7 @@ Section 1036 of the Intermodal Surface Transportation Efficiency Act of 1991, re
 
 The date of enactment of this subsection, referred to in subsec. (c), is the date of enactment of Pub. L. 105–178, which was approved June 9, 1998.
 
-The Transportation Equity Act for the 21st Century, referred to in subsec. (h)(4), is Pub. L. 105–178, June 9, 1998, 112 Stat. 107, as amended. For complete classification of this Act to the Code, see section 1(a) of Pub. L.105–178, set out as a Short Title of 1998 Amendment note under section 101 of this title and Tables.
+The Transportation Equity Act for the 21st Century, referred to in subsec. (h)(4), is Pub. L. 105–178, June 9, 1998, 112 Stat. 107, as amended. For complete classification of this Act to the Code, see section 1(a) of Pub. L. 105–178, set out as a Short Title of 1998 Amendment note under section 101 of this title and Tables.
 
 #### Prior Provisions
 

@@ -36,7 +36,7 @@
 
 &emsp;(4) the Secretary of Labor or the Secretary's designee shall provide information on benefits paid under subchapter I of chapter 81 of this title.
 
-> The Director shall request only such information as the Director determines is necessary. The Director, in consultation with the officials from whom information is requested, shall establish, by regulation and otherwise, such safeguards as are necessary to ensure that information made available under this subsection is used only for the purpose authorized.
+> The Director shall request only such information as the Director determines is necessary.The Director, in consultation with the officials from whom information is requested, shall establish, by regulation and otherwise, such safeguards as are necessary to ensure that information made available under this subsection is used only for the purpose authorized.
 
 (n)(1) Notwithstanding any other provision of this subchapter, the Director of Central Intelligence shall, in a manner consistent with the administration of this subchapter by the Office, and to the extent considered appropriate by the Director of Central Intelligence—
 
@@ -82,7 +82,7 @@
 
 &emsp;(A) has not previously made an election under this subsection or had an opportunity to make an election under this paragraph;
 
-&emsp;(B) is a vested participant in a retirement system established for employees described insection 2105(c), as the term “vested participant” is defined by such system;
+&emsp;(B) is a vested participant in a retirement system established for employees described in section 2105(c), as the term “vested participant” is defined by such system;
 
 &emsp;(C) moves, without a break in service of more than 1 year, to a position that is not described in section 2105(c); and
 
@@ -90,7 +90,7 @@
 
 > shall be given the opportunity to elect irrevocably, within 30 days after such move, to remain covered, during any subsequent employment as an employee as defined in section 2105(a) or section 2105(c), by the retirement system applicable to such employee's current or most recent employment described in section 2105(c) rather than be subject to this subchapter.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 583; Pub. L. 90–83, §1(84), Sept. 11, 1967, 81 Stat. 218; Pub. L. 90–623, §1(22), Oct. 22, 1968, 82 Stat. 1313; Pub. L. 95–437, §4(a), Oct. 10, 1978, 92 Stat. 1058; Pub. L. 95–454, title IX, §906(a)(2), (3), (9), (c)(2)(F), Oct. 13, 1978, 92 Stat. 1224, 1225, 1227; Pub. L. 96–54, §2(a)(50), Aug. 14, 1979, 93 Stat. 384; Pub. L. 96–499, title IV, §404(b), Dec. 5, 1980, 94 Stat. 2606; Pub. L. 96–500, §1, Dec. 5, 1980, 94 Stat. 2696; Pub. L. 97–253, title III, §302(b), Sept. 8, 1982, 96 Stat. 793; Pub. L. 99–335, title II, §207(i), June 6, 1986, 100 Stat. 596; Pub. L. 100–238, title I, §108(a)(1), Jan. 8, 1988, 101 Stat. 1747; Pub. L. 101–474, §5(n), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–508, title VII, §7202(j)(2), Nov. 5, 1990, 104 Stat. 1388–337; Pub. L. 102–54, §13(b)(5), June 13, 1991, 105 Stat. 274; Pub. L. 102–378, §2(64), Oct. 2, 1992, 106 Stat. 1354; Pub. L. 102–496, title VIII, §803(c), Oct. 24, 1992, 106 Stat. 3253; Pub. L. 103–296, title I, §108(e)(5), Aug. 15, 1994, 108 Stat. 1486; Pub. L. 104–106, div. A, title X, §1043(a)(1), Feb. 10, 1996, 110 Stat. 434.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 583; Pub. L. 90–83, §1(84), Sept. 11, 1967, 81 Stat. 218; Pub. L. 90–623, §1(22), Oct. 22, 1968, 82 Stat. 1313; Pub. L. 95–437, §4(a), Oct. 10, 1978, 92 Stat. 1058; Pub. L. 95–454, title IX, §906(a)(2), (3), (9), (c)(2)(F), Oct. 13, 1978, 92 Stat. 1224, 1225, 1227; Pub. L. 96–54, §2(a)(50), Aug. 14, 1979, 93 Stat. 384; Pub. L. 96–499, title IV, §404(b), Dec. 5, 1980, 94 Stat. 2606; Pub. L. 96–500, §1, Dec. 5, 1980, 94 Stat. 2696; Pub. L. 97–253, title III, §302(b), Sept. 8, 1982, 96 Stat. 793; Pub. L. 99–335, title II, §207(i), June 6, 1986, 100 Stat. 596; Pub. L. 100–238, title I, §108(a)(1), Jan. 8, 1988, 101 Stat. 1747; Pub. L. 101–474, §5(n), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–508, title VII, §7202(j)(2), Nov. 5, 1990, 104 Stat. 1388–337; Pub. L. 102–54, §13(b)(5), June 13, 1991, 105 Stat. 274; Pub. L. 102–378, §2(64), Oct. 2, 1992, 106 Stat. 1354; Pub. L. 102–496, title VIII, §803(c), Oct. 24, 1992, 106 Stat. 3253; Pub. L. 103–296, title I, §108(e)(5), Aug. 15, 1994, 108 Stat. 1486; Pub. L.104–106, div. A, title X, §1043(a)(1), Feb. 10, 1996, 110 Stat. 434.)
 
 Historical and Revision Notes<br>1966
 
@@ -222,7 +222,7 @@ Amendment by Pub. L. 97–253 effective Oct. 1, 1982, see section 302(c)(1) of P
 
 #### Effective Date of 1980 Amendments
 
-Section 2 of Pub. L. 96–500 provided that: “The amendments made by the first section of this Act \[amending this section\] shall apply with respect to determinations made by the Office of Personnel Management on or after the first day of the first month beginning after the date of the enactment of this Act \[Dec. 5, 1980\].”
+Section 2 of Pub. L. 96–500 provided that: “The amendments made by the first section of this Act\[amending this section\] shall apply with respect to determinations made by the Office of Personnel Management on or after the first day of the first month beginning after the date of the enactment of this Act \[Dec. 5, 1980\].”
 
 Amendment by Pub. L. 96–499 effective Dec. 5, 1980, see section 404(c) of Pub. L. 96–499, set out as a note under section 8339 of this title.
 
@@ -284,7 +284,7 @@ Transfers of contributions.—
 
 &emsp;&emsp;&emsp;“(i)
 
-In general.—If an individual makes an election under this paragraph to be transferred back to a retirement system in which such individual previously participated (in this section referred to as the ‘previous system’), all individual contributions (including interest) and Government contributions to the retirement system in which such individual is then currently participating (in this section referred to as the ‘current system’), excluding those made to the Thrift Savings Plan or any other defined contribution plan, which are attributable to periods of service performed since the move on which the election is based, shall be paid to the fund, account, or other repository for contributions made under the previous system. For purposes of this section, theterm ‘current system’ shall be considered also to include any retirement system (besides the one in which the individual is participating at the time of making the election) in which such individual previously participated since the move on which the election is based.
+In general.—If an individual makes an election under this paragraph to be transferred back to a retirement system in which such individual previously participated (in this section referred to as the ‘previous system’), all individual contributions (including interest) and Government contributions to the retirement system in which such individual is then currently participating (in this section referred to as the ‘current system’), excluding those made to the Thrift Savings Plan or any other defined contribution plan, which are attributable to periods of service performed since the move on which the election is based, shall be paid to the fund, account, or other repository for contributions made under the previous system. For purposes of this section, the term ‘current system’ shall be considered also to include any retirement system (besides the one in which the individual is participating at the time of making the election) in which such individual previously participated since the move on which the election is based.
 
 &emsp;&emsp;&emsp;“(ii)
 
@@ -300,7 +300,7 @@ In general.—Except as provided in subclause (II), the payment described in cla
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II)
 
-Payment of deficiency.—A determination of a deficiency under this clause shall not render an election ineffective if the individual pays or arranges to pay, at a time and in a manner satisfactory to such administrative authority, the full amount of the deficiency described in subclause (I).
+Payment of deficiency.—A determination of a deficiency under this clause shall notrender an election ineffective if the individual pays or arranges to pay, at a time and in a manner satisfactory to such administrative authority, the full amount of the deficiency described in subclause (I).
 
 &emsp;&emsp;“(D)
 
@@ -377,6 +377,10 @@ Information.—The regulations under subsection (b) shall include provisions und
 &emsp;&emsp;“(A) shall, upon request, be provided information or assistance in determining whether such individual is eligible to make an election under paragraph (2) and, if so, the exact amount of any payment which would be required of such individual in connection with any such election; and
 
 &emsp;&emsp;“(B) may seek any other information or assistance relating to any such election.”
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the report required by subsec. (f) of this section is listed on page 187), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 
 #### Treatment of Individuals Electing To Remain Subject to Their Former Retirement System
 

@@ -20,10 +20,6 @@ July 7, 1958, Pub. L. 85–507, §19(b), 72 Stat. 336.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
-#### Cross References
-
-Use of appropriated funds for membership dues or fees or for expenses of attendance at meetings prohibited except as authorized by this section, see section 5946 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 4102, 5946 of this title; title 33 section 540a.

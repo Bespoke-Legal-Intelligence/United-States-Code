@@ -4,3 +4,7 @@ The Secretary may establish and use advisory committees in connection with the o
 
 (Pub. L. 105–220, title I, §155, Aug. 7, 1998, 112 Stat. 1015.)
 
+#### Prior Provisions
+
+Provisions similar to this section were contained in section 1704 of this title prior to repeal by Pub. L. 105–220.
+

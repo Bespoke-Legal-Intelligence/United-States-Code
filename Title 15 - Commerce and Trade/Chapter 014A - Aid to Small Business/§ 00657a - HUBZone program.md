@@ -36,7 +36,23 @@ There is established within the Administration a program to be carried out by th
 
 #### (3) Price evaluation preference in full and open competitions
 
-&emsp;In any case in which a contract is to be awarded on the basis of full and open competition, the price offered by a qualified HUBZone small business concern shall be deemed as being lower than the price offered by another offeror (other than another small business concern), if the price offered by the qualified HUBZone small business concern is not more than 10 percent higher than the price offered by the otherwise lowest, responsive, and responsible offeror.
+#### (A) In general
+
+&emsp;&emsp;Subject to subparagraph (B), in any case in which a contract is to be awarded on the basis of full and open competition, the price offered by a qualified HUBZone small business concern shall be deemed as being lower than the price offered by another offeror (other than another small business concern), if the price offered by the qualified HUBZone small business concern is not more than 10 percent higher than the price offered by the otherwise lowest, responsive, and responsible offeror.
+
+#### (B) Procurement of commodities
+
+&emsp;&emsp;For purchases by the Secretary of Agriculture of agricultural commodities, the price evaluation preference shall be—
+
+&emsp;&emsp;&emsp;(i) 10 percent, for the portion of a contract to be awarded that is not greater than 25 percent of the total volume being procured for each commodity in a single invitation;
+
+&emsp;&emsp;&emsp;(ii) 5 percent, for the portion of a contract to be awarded that is greater than 25 percent, but not greater than 40 percent, of the total volume being procured for each commodity in a single invitation; and
+
+&emsp;&emsp;&emsp;(iii) zero, for the portion of a contract to be awarded that is greater than 40 percent of the total volume being procured for each commodity in a single invitation.
+
+#### (C) Treatment of preference
+
+&emsp;&emsp;A contract awarded to a HUBZone small business concern under a preference described in subparagraph (B) shall not be counted toward the fulfillment of any requirement partially set aside for competition restricted to small business concerns.
 
 #### (4) Relationship to other contracting preferences
 
@@ -68,15 +84,25 @@ There is established within the Administration a program to be carried out by th
 
 &emsp;&emsp;(B) sections 3729 through 3733 of title 31.
 
-(Pub. L. 85–536, §2\[31\], as added Pub. L. 105–135, title VI, §602(b)(1)(B), Dec. 2, 1997, 111 Stat. 2629.)
+#### (d) Authorization of appropriations
+
+There is authorized to be appropriated to carry out the program established by this section $10,000,000 for each of fiscal years 2001 through 2003.
+
+(Pub. L. 85–536, §2\[31\], as added Pub. L. 105–135, title VI, §602(b)(1)(B), Dec. 2, 1997, 111 Stat. 2629; amended Pub. L. 106–554, §1(a)(9) \[title V, §503(b), title VI, §612(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–695, 2763A–699.)
 
 #### References in Text
 
-The Javits-Wagner-O'Day Act, referred to in subsec. (b)(4), is act June 25, 1938, ch. 697, 52 Stat. 1196, asamended, which is classified to sections 46 to 48c of Title 41, Public Contracts. For complete classification of this Act to the Code, see Tables.
+The Javits-Wagner-O'Day Act, referred to in subsec. (b)(4), is act June 25, 1938, ch. 697, 52 Stat. 1196, as amended, which is classified to sections 46 to 48c of Title 41, Public Contracts. For complete classification of this Act to the Code, see Tables.
 
 #### Prior Provisions
 
-A prior section 2\[31\] of Pub. L. 85–536 was renumbered section 2\[32\] and is set out as a note under section 631 of this title.
+A prior section 2\[31\] of Pub. L. 85–536 was renumbered section 2\[36\] and is set out as a note under section 631 of this title.
+
+#### Amendments
+
+2000—Subsec. (b)(3). Pub. L. 106–554, §1(a)(9) \[title VI, §612(a)\], designated existing provisions as subpar. (A), inserted heading, substituted “Subject to subparagraph (B), in any” for “In any”, and added subpars. (B) and (C).
+
+Subsec. (d). Pub. L. 106–554, §1(a)(9) \[title V, §503(b)\], added subsec. (d).
 
 #### Effective Date
 

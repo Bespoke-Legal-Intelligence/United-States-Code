@@ -2,7 +2,7 @@
 
 (a)
 
-Reimbursement of Providers.—(1) Subject to paragraph (2), the Secretary of Defense may reimburse health care providers under the TRICARE program at rates higher than the reimbursement rates otherwise authorized for the providers under that program if the Secretarydetermines that application of the higher rates is necessary in order to ensure the availability of an adequate number of qualified health care providers under that program.
+Reimbursement of Providers.—(1) Subject to paragraph (2), the Secretary of Defense mayreimburse health care providers under the TRICARE program at rates higher than the reimbursement rates otherwise authorized for the providers under that program if the Secretary determines that application of the higher rates is necessary in order to ensure the availability of an adequate number of qualified health care providers under that program.
 
 (2) The amount of reimbursement provided under paragraph (1) with respect to a health care service may not exceed the lesser of the following:
 

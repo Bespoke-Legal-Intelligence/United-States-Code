@@ -108,7 +108,7 @@
 
 &emsp;&emsp;(G) that, if the lender prior to the expiration of the certificate no longer proposes to make consolidation loans, the lender will so notify the issuer of the certificate in order that the certificate may be terminated (without affecting the insurance on any consolidation loan made prior to such termination); and
 
-&emsp;&emsp;(H) the terms upon which the issuer of the certificate may limit, suspend, or terminate the lender's authority to make consolidation loans under the certificate (without affecting the insurance on any consolidation loan made prior to such limitation, suspension, or termination).
+&emsp;&emsp;(H) the terms upon which the issuer of the certificate may limit, suspend, or terminate the lender's authority to make consolidation loans under the certificate (without affecting the insurance on any consolidation loanmade prior to such limitation, suspension, or termination).
 
 #### (4) Terms and conditions of loans
 
@@ -236,7 +236,7 @@
 
 #### (A) No special allowance rule
 
-&emsp;&emsp;No special allowance under section 1087–1 of this title shall be paid with respect to the portion of any consolidated loan under this subsection that is attributable to any loan described in paragraph (1)(C)(ii).
+&emsp;&emsp;No special allowance under section 1087–1 of this title shall be paid with respect to theportion of any consolidated loan under this subsection that is attributable to any loan described in paragraph (1)(C)(ii).
 
 #### (B) No interest subsidy rule
 
@@ -244,7 +244,7 @@
 
 #### (C) Additional reserve rule
 
-&emsp;&emsp;Notwithstanding any other provision of this chapter, additional reserves shall not berequired for any guaranty agency with respect to a loan made under this subsection.
+&emsp;&emsp;Notwithstanding any other provision of this chapter, additional reserves shall not be required for any guaranty agency with respect to a loan made under this subsection.
 
 #### (D) Insurance rule
 
@@ -296,11 +296,11 @@ Subsec. (a)(4)(C). Pub. L. 105–244, §420(b), added subpar. (C) and struck out
 
 Subsec. (b)(1)(A)(i). Pub. L. 105–244, §420(c)(1), inserted “except that this clause shall not apply in the case of a borrower with multiple holders of loans under this part,” after “under this section,”.
 
-Subsec. (b)(4)(C)(ii). Pub. L. 105–244, §420(c)(2), inserted “during any such period” after “and be paid” in introductory provisions and struck out “, or on or after October 1, 1998,” before “that consolidated” in subcl. (I) and “and before October 1, 1998,” before “except that” in subcl. (II).
+Subsec. (b)(4)(C)(ii). Pub. L. 105–244, §420(c)(2), inserted “during any such period” after “and be paid” in introductory provisions and struck out “, or on or afterOctober 1, 1998,” before “that consolidated” in subcl. (I) and “and before October 1, 1998,” before “except that” in subcl. (II).
 
 Subsec. (b)(6)(A). Pub. L. 105–244, §420(c)(3), inserted before semicolon at end “, except that a lender is not required to consolidate loans described in subparagraph (D) or (E) of subsection (a)(4) of this section or subsection (d)(1)(C)(ii) of this section”.
 
-Subsec. (c)(1). Pub. L. 105–244, §420(b)(2), amended heading, added subpar. (A), and struck out former subpar. (A) which read as follows: “Consolidation loans made under this section shall bear interest at rates determined under subparagraph (B), (C), or (D). For the purposes of payment of special allowances under section 1087–1(b)(2) of this title, the interest rate requiredby this subsection is the applicable interest rate with respect to a consolidation loan.”
+Subsec. (c)(1). Pub. L. 105–244, §420(b)(2), amended heading, added subpar. (A), and struck out former subpar. (A) which read as follows: “Consolidation loans made under this section shall bear interest at rates determined under subparagraph (B), (C), or (D). For the purposes of payment of special allowances under section 1087–1(b)(2) of this title, the interest rate required by this subsection is the applicable interest rate with respect to a consolidation loan.”
 
 Subsec. (e). Pub. L. 105–244, §420(d), substituted “September 30, 2004” for “September 30, 2002”.
 
@@ -370,11 +370,11 @@ Subsec. (a)(3)(A)(i). Pub. L. 102–325, §419(b)(1)(A), substituted “$7,500�
 
 Subsec. (a)(3)(A)(ii). Pub. L. 102–325, §419(b)(1)(B), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “is in repayment status, or in a grace period preceding repayment, and is not delinquent with respect to any required payment on such indebtedness by more than 90 days.”
 
-Subsec. (a)(3)(B). Pub. L. 102–325, §419(c), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “An individual's status as an eligible borrower under this section terminates upon receipt of a consolidation loan under this section except with respect to eligible student loans received after the date of receipt of the consolidation loan. Loans made under this section shall, to the extent used to discharge loans made under this subchapter and part C of subchapter I of chapter 34 of title 42, be counted against the applicable limitations on aggregate indebtedness contained in sections 1075(a)(2), 1078(b)(1)(B), 1078–1(b)(2), and 1087dd(a)(2) of this title. Nothing in this subparagraph shall be interpreted to authorize the Secretary to require lenders, holders, or guarantors of consolidation loans to receive, to maintain, or to make reports with respect to pre-existing records relating to any eligible student loan (as defined under subsection (a)(4) of this section) discharged by a borrower in receiving a consolidation loan.”
+Subsec. (a)(3)(B). Pub. L. 102–325, §419(c), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “An individual's status as an eligible borrower under this section terminates upon receipt of a consolidation loan under this section except with respect to eligible student loans received after the date of receipt of the consolidation loan. Loans made under this section shall, to the extent used to discharge loans made under this subchapter and part C of subchapter Iof chapter 34 of title 42, be counted against the applicable limitations on aggregate indebtedness contained in sections 1075(a)(2), 1078(b)(1)(B), 1078–1(b)(2), and 1087dd(a)(2) of this title. Nothing in this subparagraph shall be interpreted to authorize the Secretary to require lenders, holders, or guarantors of consolidation loans to receive, to maintain, or to make reports with respect to pre-existing records relating to any eligible student loan (as defined under subsection (a)(4) of this section) discharged by a borrower in receiving a consolidation loan.”
 
 Subsec. (a)(3)(C). Pub. L. 102–325, §419(d), added subpar. (C).
 
-Subsec. (a)(4)(A). Pub. L. 102–325, §419(b)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A)read as follows: “made, insured, or guaranteed under this part, except for loans made to parent borrowers under section 1078–2 of this title, including loans made to parent borrowers under section 1078–2 of this title as in effect prior to October 17, 1986;”.
+Subsec. (a)(4)(A). Pub. L. 102–325, §419(b)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “made, insured, or guaranteed under this part, except for loans made to parent borrowers under section 1078–2 of this title, including loans made to parent borrowers under section 1078–2 of this title as in effect prior to October 17, 1986;”.
 
 Subsec. (b)(4)(C). Pub. L. 102–325, §419(e), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “provides that periodic installments of principal need not be paid, but interest shall accrue and be paid, during any period for which the borrower would be eligible for a deferral under clause (i), (viii), or (ix) of section 1078(b)(1)(M) of this title, and that any such period shall not be included in determining the repayment period pursuant to subsection (c)(2) of this section;”.
 
@@ -440,11 +440,11 @@ Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Educ
 
 #### Pending Applicants
 
-Section 609(f) of Pub. L. 105–78 provided that: “The consolidation loans authorized by the amendments made by this section \[amending this section\] shall be available notwithstanding any pending application by a student for a consolidation loan under part D of title IV of the Higher Education Act of 1965 (20 U.S.C. 1087a et seq.), upon withdrawal of such application by the student at any time prior to receipt of such a consolidation loan.”
+Section 609(f) of Pub. L. 105–78 provided that: “The consolidation loans authorized by the amendmentsmade by this section \[amending this section\] shall be available notwithstanding any pending application by a student for a consolidation loan under part D of title IV of the Higher Education Act of 1965 (20 U.S.C. 1087a et seq.), upon withdrawal of such application by the student at any time prior to receipt of such a consolidation loan.”
 
 #### Cost Evaluation Report
 
-Pub. L. 99–272, title XVI, §16017(d), Apr. 7, 1986, 100 Stat. 348, provided that: “The Secretary of Education shall evaluate the cost, efficiency, and impact of the consolidation loan program established by the amendments made by this section \[enacting former section1078–3 of this title and amending former sections 1077, 1085, 1087–1, and 1087–2 of this title\] and shall report to the Congress not later than June 30, 1988, on the findings and recommendations required by this subsection.”
+Pub. L. 99–272, title XVI, §16017(d), Apr. 7, 1986, 100 Stat. 348, provided that: “The Secretary of Education shall evaluate the cost, efficiency, and impact of the consolidation loan program established by the amendments made by this section \[enacting former section 1078–3 of this title and amending former sections 1077, 1085, 1087–1, and 1087–2 of this title\] and shall report to the Congress not later than June 30, 1988, on the findings and recommendations required by this subsection.”
 
 #### Section Referred to in Other Sections
 

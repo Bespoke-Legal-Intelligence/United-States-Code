@@ -12,7 +12,7 @@ Except as provided in subsection (b) of this section, none of the funds made ava
 
 #### (b) Exception
 
-The prohibition contained in subsection (a) of this section shall not apply with respect to theuse of funds to facilitate the sale of antitank shells to a country if the President determines that to do so is in the national security interest of the United States.
+The prohibition contained in subsection (a) of this section shall not apply with respect to the use of funds to facilitate the sale of antitank shells to a country if the President determines that to do so is in the national security interest of the United States.
 
 (Pub. L. 87–195, pt. III, §620G, as added Pub. L. 104–164, title I, §149, July 21, 1996, 110 Stat. 1436.)
 

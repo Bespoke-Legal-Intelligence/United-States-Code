@@ -36,7 +36,7 @@ For the purposes of developing or assisting in the development of any regulation
 
 1986—Pub. L. 99–499, §205(f)(3), inserted reference to corrective action in section catchline.
 
-Subsec. (a). Pub. L. 99–499, §205(f)(1), in first sentence, inserted “taking any corrective action” after “conducting any study”, inserted “acting pursuant to subsection (h)(7) of section 6991b of this title or”, struck out “and” before “permit such officer”, and inserted“and permit such officer to have access for corrective action”, and in second sentence, inserted “taking corrective action,” after “study,”. The amendment directing insertion of “taking any corrective action” after “study” in first sentence was executed by inserting that language after “conducting any study” rather than after “subject to study”, as the probable intent of Congress.
+Subsec. (a). Pub. L. 99–499, §205(f)(1), in first sentence, inserted “taking any corrective action” after “conducting any study”, inserted “acting pursuant to subsection (h)(7) of section 6991b of this title or”, struck out “and” before “permit such officer”, and inserted “and permit such officer to have access for corrective action”, and in second sentence, inserted “taking corrective action,” after “study,”. The amendment directing insertion of “taking any corrective action” after “study” in first sentence was executed by inserting that language after “conducting any study” rather than after “subject to study”, as the probable intent of Congress.
 
 Subsec. (a)(4). Pub. L. 99–499, §205(f)(2), added par. (4).
 

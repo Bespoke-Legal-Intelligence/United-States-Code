@@ -24,6 +24,10 @@ Prior to publication, the Director may not be required to obtain the approval of
 
 Section effective 150 days after Aug. 14, 1976, see section 143 of Pub. L. 94–385, set out as a note under section 790 of this title.
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (a)(2) of this section relating to an annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 90 of House Document No. 103–7.
+
 #### Transfer of Functions
 
 Functions assigned to Director of Office of Energy Information and Analysis under this subchapter vested in Administrator of Energy Information Administration within Department of Energy by section 7135(c) of Title 42, The Public Health and Welfare.

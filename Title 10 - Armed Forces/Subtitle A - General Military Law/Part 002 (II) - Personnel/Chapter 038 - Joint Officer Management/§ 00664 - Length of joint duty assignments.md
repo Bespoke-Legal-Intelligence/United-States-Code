@@ -114,7 +114,7 @@ Joint Duty Credit for Certain Joint Task Force Assignments.—(1) In the case of
 
 &emsp;(i) to the headquarters staff of a United States joint task force that is part of a unified command or the United States element of the headquarters staff of a multinational force; and
 
-&emsp;(ii) with respect to which the Secretary of Defense determines that service of the officer in that assignment is equivalent to that which would be gained by the officer in a joint duty assignment.
+&emsp;(ii) with respect to which the Secretary of Defense determines that service of the officerin that assignment is equivalent to that which would be gained by the officer in a joint duty assignment.
 
 (B) An officer may not be granted credit under this subsection unless the officer is recommended for such credit by the Chairman of the Joint Chiefs of Staff.
 
@@ -272,7 +272,7 @@ Duration of Authority.—The authority of the Secretary of Defense under this se
 
 #### Length of Joint Duty Assignments
 
-Section 406(e) of Pub. L. 99–433 provided that: “Subsection (a) of section 664 of title 10, United States Code (as added by section 401), shall apply to officers assigned to joint duty assignments after the end of the 90-day period beginning on the date of the enactment of this Act \[Oct. 1, 1986\]. In computing an average under subsection (b) of such section, only joint duty assignments to which such subsection applies shall be considered.”
+Section 406(e) of Pub. L. 99–433 provided that: “Subsection (a) of section 664 of title 10, United States Code\(as added by section 401), shall apply to officers assigned to joint duty assignments after the end of the 90-day period beginning on the date of the enactment of this Act \[Oct. 1, 1986\]. In computing an average under subsection (b) of such section, only joint duty assignments to which such subsection applies shall be considered.”
 
 #### Waiver of Qualifications for Appointment as Service Chief
 

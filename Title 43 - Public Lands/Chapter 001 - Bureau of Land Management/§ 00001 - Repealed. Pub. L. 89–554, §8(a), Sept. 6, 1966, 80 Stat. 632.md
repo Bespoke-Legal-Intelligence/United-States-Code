@@ -1,10 +1,10 @@
 ### §1. Repealed. Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 632
 
-Section, R.S. §446; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100, provided that there shall be in the Department of the Interior a Director of the Bureau of Land Management. Provision for a Bureau of Land Management in the Department ofthe Interior and for the structure of such Bureau is contained in section 403 of the 1946 Reorg. Plan No. 3, which is set out below.
+Section, R.S. §446; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100, provided that there shall be in the Department of the Interior a Director of the Bureau of Land Management. Provision for a Bureau of Land Management in the Department of the Interior and for the structure of such Bureau is contained in section 403 of the 1946 Reorg. Plan No. 3, which is set out below.
 
 #### Transfer of Functions
 
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under section 1451 of this title.
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, withpower to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under section 1451 of this title.
 
 For transfer of records, property, personnel, and funds, see sections 1001 to 1003 of Reorg. Plan No. 3 of 1946, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097, set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -21,8 +21,4 @@ Reorg. Plan No. 3 of 1946, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 110
 “(d) The General Land Office, the Grazing Service, the offices of Commissioner of the General Land Office, Assistant Commissioner of the General Land Office, Director of the Grazing Service, all Assistant Directors of the Grazing Service, all registers of the district land offices, and United States Supervisor of Surveys, together with the Field Surveying Service now known as the Cadastral Engineering Service, are hereby abolished.
 
 “(e) The Bureau of Land Management and its functions shall be administered subject to the direction and control of the Secretary of the Interior, and the functions transferred to the Secretary by subsection (a) of this section shall be performed by the Secretary or, subject to his direction and control, by such officers and agencies of the Department of the Interior as he may designate.”
-
-#### Cross References
-
-Bureau of Land Management, administrative provisions, see section 1731 of this title.
 

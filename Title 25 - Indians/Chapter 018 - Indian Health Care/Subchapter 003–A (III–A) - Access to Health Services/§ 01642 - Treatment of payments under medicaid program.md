@@ -24,7 +24,7 @@ Prior to general amendment by Pub. L. 102–573, section 402 of Pub. L. 94–437
 
 1988—Subsec. (b). Pub. L. 100–713, §401(b), struck out subsec. (b) which authorized Secretary of Health and Human Services to enter into agreements to reimburse State agencies for health care and services provided in Indian Health Service facilities to Indians eligible for medical assistance under title XIX of the Social Security Act.
 
-Subsec. (c). Pub. L. 100–713, §401(a), substituted “skilled nursing facility, or any other type of facility which provides services of a type otherwise covered under a State plan for medical assistance approved under title XIX of the Social Security Act” for “or skilled nursing facility”, “such a State plan” for “a State plan approved under title XIX of the Social Security Act”, and “In making payments from such fund, the Secretary shall ensure that each service unit of the Indian Health Service receives at least 50 percent of the amounts to which the facilities of the Indian Health Service, for which such service unit makes collections, are entitled by reason of section 1911 of the Social Security Act, if such amount is necessary for the purpose of making improvements in such facilities in order to achieve compliance with the conditions and requirements of title XIX of the Social Security Act. This subsection shall” for “The preceding sentence shall”.
+Subsec. (c). Pub. L. 100–713, §401(a), substituted “skilled nursing facility, or any other type of facility which provides services of a type otherwise covered under a State plan for medical assistance approved under title XIX of the Social Security Act” for “or skilled nursing facility”, “such a State plan” for “aState plan approved under title XIX of the Social Security Act”, and “In making payments from such fund, the Secretary shall ensure that each service unit of the Indian Health Service receives at least 50 percent of the amounts to which the facilities of the Indian Health Service, for which such service unit makes collections, are entitled by reason of section 1911 of the Social Security Act, if such amount is necessary for the purpose of making improvements in such facilities in order to achieve compliance with the conditions and requirements of title XIX of the Social Security Act. This subsection shall” for “The preceding sentence shall”.
 
 #### Effective Date of 1992 Amendment
 
@@ -36,5 +36,5 @@ Section 401(c) of Pub. L. 100–713 provided that: “The amendments made by thi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1680c of this title.
+This section is referred to in sections 1645, 1680c of this title.
 

@@ -14,15 +14,3 @@ Other provisions of said section 355 of title 18, U.S.C., 1940 ed., are incorpor
 
 Words in second sentence of said section 355 of title 18, U.S.C., 1940 ed., which preceded the semicolon therein and which read “Any failure to produce or to pay over any such money or property, when required so to do as above provided, shall be taken to be prima facie evidence of such embezzlement” were omitted as surplusage, because such failure to produce or to pay over such money or property constitutes embezzlement. (See sections 653 and 1711 of this title.)
 
-#### Cross References
-
-Accounting generally for public money, see section 643 of this title.
-
-Admissibility of Government records and papers, see section 1733 of Title 28, Judiciary and Judicial Procedure.
-
-Certified transcripts of General Accounting Office admissible in evidence, see section 704 of Title 31, Money and Finance.
-
-Embezzlement of public money, see section 641 of this title.
-
-Refusal to pay as evidence of embezzlement, see section 3487 of this title.
-

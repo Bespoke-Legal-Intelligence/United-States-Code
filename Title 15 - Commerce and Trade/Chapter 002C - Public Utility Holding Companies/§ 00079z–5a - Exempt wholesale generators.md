@@ -16,7 +16,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) used for the generation of electric energy and leased to one or more public utility companies; <i>Provided</i>, That any such lease shall be treated as a sale of electric energy at wholesale for purposes of sections 824d and 824e of title 16.
 
-> &emsp;Such term shall not include any facility for which consent is required under subsection (c) of this section if such consent has not been obtained. Such term includes interconnectingtransmission facilities necessary to effect a sale of electric energy at wholesale. For purposes of this paragraph, the term “facility” may include a portion of a facility subject to the limitations of subsection (d) of this section and shall include a facility the construction of which has not been commenced or completed.
+> &emsp;Such term shall not include any facility for which consent is required under subsection (c) of this section if such consent has not been obtained. Such term includes interconnecting transmission facilities necessary to effect a sale of electric energy at wholesale. For purposes of this paragraph, the term “facility” may include a portion of a facility subject to the limitations of subsection (d) of this section and shall include a facility the construction of which has not been commenced or completed.
 
 #### (3) Sale of electric energy at wholesale
 

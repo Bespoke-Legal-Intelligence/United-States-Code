@@ -54,7 +54,7 @@ An entity may qualify for an award under this section only if the entity—
 
 &emsp;(B) is recommended for the award by a Governor of a State;
 
-&emsp;(2)(A) has exhibited significant entrepreneurial effort to create new markets for United States agricultural exports or increase United States agricultural exports; or
+&emsp;(2)(A) has exhibited significant entrepreneurial effort to create new markets forUnited States agricultural exports or increase United States agricultural exports; or
 
 &emsp;(B) has provided significant assistance to others in an effort to create new markets for United States agricultural exports or increase United States agricultural exports;
 

@@ -6,7 +6,7 @@
 
 &emsp;(1) a railroad;
 
-&emsp;(2) a domestic insurance company, bank, savings bank, cooperative bank, savings and loan association, building and loan association, homestead association, a small business investment company licensed by the Small Business Administration under subsection (c) or (d) <sup>1</sup> of section 301 of the Small Business Investment Act of 1958, credit union, or industrial bank or similar institution which is an insured bank as defined in section 3(h) of the Federal Deposit Insurance Act; or
+&emsp;(2) a domestic insurance company, bank, savings bank, cooperative bank, savings and loan association, building and loan association, homestead association, a New Markets Venture Capital company as defined in section 351 of the Small Business Investment Act of 1958, a small business investment company licensed by the Small Business Administration under subsection (c) or (d) <sup>1</sup> of section 301 of the Small Business Investment Act of 1958, credit union, or industrial bank or similar institution which is an insured bank as defined in section 3(h) of the Federal Deposit Insurance Act, except that an uninsured State member bank, or a corporation organized under section 25A of the Federal Reserve Act, which operates, or operates as, a multilateral clearing organization pursuant to section 409 of the Federal Deposit Insurance Corporation Improvement Act of 1991 may be a debtor if a petition is filed at the direction of the Board of Governors of the Federal Reserve System; or
 
 &emsp;(3) a foreign insurance company, bank, savings bank, cooperative bank, savings and loan association, building and loan association, homestead association, or credit union, engaged in such business in the United States.
 
@@ -28,7 +28,7 @@
 
 &emsp;(D) reasonably believes that a creditor may attempt to obtain a transfer that is avoidable under section 547 of this title.
 
-(d) Only a person that may be a debtor under chapter 7 of this title, except a stockbroker or a commodity broker, and a railroad may be a debtor under chapter 11 of this title.
+(d) Only a railroad, a person that may be a debtor under chapter 7 of this title (except a stockbroker or a commodity broker), and an uninsured State member bank, or a corporation organized under section 25A of the Federal Reserve Act, which operates, or operates as, a multilateral clearing organization pursuant to section 409 of the Federal Deposit Insurance Corporation Improvement Act of 1991 may be a debtor under chapter 11 of this title.
 
 (e) Only an individual with regular income that owes, on the date of the filing of the petition, noncontingent, liquidated, unsecured debts of less than $250,000 and noncontingent, liquidated, secured debts of less than $750,000, or an individual with regular income and such individual's spouse, except a stockbroker or a commodity broker, that owe, on the date of the filing of the petition, noncontingent, liquidated, unsecured debts that aggregate less than $250,000 and noncontingent, liquidated, secured debts of less than $750,000 may be a debtor under chapter 13 of this title.
 
@@ -40,7 +40,7 @@
 
 &emsp;(2) the debtor requested and obtained the voluntary dismissal of the case following the filing of a request for relief from the automatic stay provided by section 362 of this title.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2557; Pub. L. 97–320, title VII, §703(d), Oct. 15, 1982, 96 Stat. 1539; Pub. L. 98–353, title III, §§301, 425, July 10, 1984, 98 Stat. 352, 369; Pub. L. 99–554, title II, §253, Oct. 27, 1986, 100 Stat. 3105; Pub. L. 100–597, §2, Nov. 3, 1988, 102 Stat. 3028; Pub. L. 103–394, title I, §108(a), title II, §220, title IV, §402, title V, §501(d)(2), Oct. 22, 1994, 108 Stat. 4111, 4129, 4141, 4143.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2557; Pub. L. 97–320, title VII, §703(d), Oct. 15, 1982, 96 Stat. 1539; Pub. L. 98–353, title III, §§301, 425, July 10, 1984, 98 Stat. 352, 369; Pub. L. 99–554, title II, §253, Oct. 27, 1986, 100 Stat. 3105; Pub. L. 100–597, §2, Nov. 3, 1988, 102 Stat. 3028; Pub. L. 103–394, title I, §108(a), title II, §220, title IV, §402, title V, §501(d)(2), Oct. 22, 1994, 108 Stat. 4111, 4129, 4141, 4143; Pub. L. 106–554, §1(a)(5) \[title I, §112(c)(1), (2)\], §1(a)(8) \[§1(e)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–393, 2763A–665.)
 
 #### Historical and Revision Notes
 
@@ -64,7 +64,7 @@ Subsection (c) \[enacted as (d)\] provides that only a person who may be a debto
 
 #### house report no. 95–595
 
-Subsection (c) defines eligibility for chapter 9. Only a municipality that is unable to pay its debts as they mature, and that is not prohibited by State law from proceeding under chapter 9, is permitted to be a chapter 9 debtor. The subsection is derived from Bankruptcy Act §84 \[section 404 of former title 11\], with two changes. First, section 84 requires that the municipality be “generally authorized to file a petition under this chapter by the legislature, or by a governmental officer or organization empowered by State law to authorize the filing of a petition.” The “generally authorized” language is unclear, and has generated a problem for a Colorado Metropolitan District that attempted to use chapter IX \[chapter 9 of former title 11\] in 1976. The “not prohibited” language provides flexibility for boththe States and the municipalities involved, while protecting State sovereignty as required by <i>Ashton v. Cameron County Water District No. 1</i>, 298 U.S. 513 (1936) \[56 S.Ct. 892, 80 L.Ed. 1309, 31 Am.Bankr.Rep.N.S. 96, rehearing denied 57 S.Ct. 5, 299 U.S. 619, 81 L.Ed. 457\] and <i>Bekins v. United States</i>, 304 U.S. 27 (1938) \[58 S.Ct. 811, 82 L.Ed. 1137, 36 Am.Bankr.Rep.N.S. 187, rehearing denied 58 S.Ct. 1043, 1044, 304 U.S. 589, 82 L.Ed. 1549\].
+Subsection (c) defines eligibility for chapter 9. Only a municipality that is unable to pay its debts as they mature, and that is not prohibited by State law from proceeding under chapter 9, is permitted to be a chapter 9 debtor. The subsection is derived from Bankruptcy Act §84 \[section 404 of former title 11\], with two changes. First, section 84 requires that the municipality be “generally authorized to file a petition under this chapter by the legislature, or by a governmental officer or organization empowered by State law to authorize the filing of a petition.” The “generally authorized” language is unclear, and has generated a problem for a Colorado Metropolitan District that attempted to use chapter IX \[chapter 9 of former title 11\] in 1976. The “not prohibited” language provides flexibility for both the States and the municipalities involved, while protecting State sovereignty as required by <i>Ashton v. Cameron County Water District No. 1</i>, 298 U.S. 513 (1936) \[56 S.Ct. 892, 80 L.Ed. 1309, 31 Am.Bankr.Rep.N.S. 96, rehearing denied 57 S.Ct. 5, 299 U.S. 619, 81 L.Ed. 457\] and <i>Bekins v. United States</i>, 304 U.S. 27 (1938) \[58 S.Ct. 811, 82 L.Ed. 1137, 36 Am.Bankr.Rep.N.S. 187, rehearing denied 58 S.Ct. 1043, 1044, 304 U.S. 589, 82 L.Ed. 1549\].
 
 The second change deletes the four prerequisites to filing found in section 84 \[section 404 of former title 11\]. The prerequisites require the municipality to have worked out a plan in advance, to have attempted to work out a plan without success, to fear that a creditor will attempt to obtain a preference, or to allege that prior negotiation is impracticable. The loopholes in those prerequisites are larger than the requirement itself. It was a compromise from pre-1976 chapter IX \[chapter 9 of former title 11\] under which a municipality could file only if it had worked out an adjustment plan in advance. In the meantime, chapter IX protection was unavailable. There was some controversy at the time of the enactment of current chapter IX concerning deletion of the pre-negotiation requirement. It was argued that deletion would lead to a rash of municipal bankruptcies. The prerequisites now contained in section 84 were inserted to assuage that fear. They are largely cosmetic and precatory, however, and do not offer any significant deterrent to use of chapter IX. Instead, other factors, such as a general reluctance on the part of any debtor, especially a municipality, to use the bankruptcy laws, operates as a much more effective deterrent against capricious use.
 
@@ -76,11 +76,23 @@ Whether a small business operated by a husband and wife, the so-called “mom an
 
 #### References in Text
 
+Section 351 of the Small Business Investment Act of 1958, referred to in subsec. (b)(2), is classified to section 689 of Title 15, Commerce and Trade.
+
 Section 301 of the Small Business Investment Act of 1958, referred to in subsec. (b)(2), is classified to section 681 of Title 15, Commerce and Trade. Subsec. (d) of section 301 was repealed by Pub. L. 104–208, div. D, title II, §208(b)(3)(A), Sept. 30, 1996, 110 Stat. 3009–742.
 
 Section 3(h) of the Federal Deposit Insurance Act, referred to in subsec. (b)(2), is classified to section 1813(h) of Title 12, Banks and Banking.
 
+Section 25A of the Federal Reserve Act, referred to in subsecs. (b)(2) and (d), popularly known as the Edge Act, is classified to subchapter II (§611 et seq.) of chapter 6 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 611 of Title 12 and Tables.
+
+Section 409 of the Federal Deposit Insurance Corporation Improvement Act of 1991, referred to in subsecs. (b)(2) and (d), is classified to section 4422 of Title 12, Banks and Banking.
+
 #### Amendments
+
+2000—Subsec. (b)(2). Pub. L. 106–554, §1(a)(8) \[§1(e)\], inserted “a New Markets Venture Capital company as defined in section 351 of the Small Business Investment Act of 1958,” after ”homestead association,”.
+
+Pub. L. 106–554, §1(a)(5) \[title I, §112(c)(1)\], substituted “, except that an uninsured State member bank, or a corporation organized under section 25A of the Federal Reserve Act, which operates, or operates as, a multilateral clearing organization pursuant to section 409 of the Federal Deposit Insurance Corporation Improvement Act of 1991 may be a debtor if a petition is filed at the direction of the Board of Governors of the Federal Reserve System; or” for “; or”.
+
+Subsec. (d). Pub. L. 106–554, §1(a)(5) \[title I, §112(c)(2)\], amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Only a person that may be a debtor under chapter 7 of this title, except a stockbroker or a commodity broker, and a railroad may be a debtor under chapter 11 of this title.”
 
 1994—Subsec. (b)(2). Pub. L. 103–394, §§220, 501(d)(2), inserted “a small business investment company licensed by the Small Business Administration under subsection (c) or (d) of section 301 of the Small Business Investment Act of 1958,” after “homestead association,” and struck out “(12 U.S.C. 1813(h))” after “Insurance Act”.
 

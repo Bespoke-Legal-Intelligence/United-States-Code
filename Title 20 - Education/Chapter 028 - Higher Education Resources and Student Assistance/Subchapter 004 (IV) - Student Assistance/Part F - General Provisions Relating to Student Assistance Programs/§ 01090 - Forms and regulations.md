@@ -64,11 +64,11 @@
 
 (4) Nothing in this subchapter and part C of subchapter I of chapter 34 of title 42 shall be interpreted as limiting the authority of the Secretary to reduce the number of data elements required of reapplicants.
 
-(5) Individuals determined to have a zero family contribution pursuant to section 1087ss ofthis title shall not be required to provide any financial data, except that which is necessary to determine eligibility under that section.
+(5) Individuals determined to have a zero family contribution pursuant to section 1087ss of this title shall not be required to provide any financial data, except that which is necessary to determine eligibility under that section.
 
 #### (c) Information to committees of Congress
 
-Copies of all rules, regulations, guidelines, instructions, and application forms published or promulgated pursuant to this subchapter and part C of subchapter I of chapter 34 of title 42 shall be provided to the Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives at least 45 days prior to their effective date.
+Copies of all rules, regulations, guidelines, instructions, and application forms published or promulgated pursuant to this subchapter and part C of subchapter I of chapter 34 of title 42 shall be provided to the Committee on Labor and Human Resources of the Senate and theCommittee on Education and the Workforce of the House of Representatives at least 45 days prior to their effective date.
 
 #### (d) Toll-free information
 
@@ -128,11 +128,11 @@ Subsec. (b). Pub. L. 102–325, §483(a), added subsec. (b) and struck out forme
 
 Subsec. (d). Pub. L. 102–325, §483(b)(1), struck out subsec. (d) which related to provision of early notice to students of their potential eligibility for financial aid.
 
-Subsec. (e). Pub. L. 102–325, §483(b)(2), amended subsec. (e) generally. Prior to amendment, subsec. (e) readas follows: “The Secretary shall contract for, or establish, and publicize a toll-free telephone number to provide timely and accurate information to the general public. The information provided shall include specific instructions on completing application forms for assistance under this subchapter and part C of subchapter I of chapter 34 of title 42.”
+Subsec. (e). Pub. L. 102–325, §483(b)(2), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “The Secretary shall contract for, or establish, and publicize a toll-free telephone number to provide timely and accurate information to the general public. The information provided shall include specific instructions on completing application forms for assistance under this subchapter and part C of subchapter I of chapter 34 of title 42.”
 
 Subsecs. (f), (g). Pub. L. 102–325, §483(b)(1), (3), added subsecs. (f) and (g) and struck out former subsec. (f) which related to notice of student aid receipt.
 
-1987—Subsec. (a)(1). Pub. L. 100–50, §15(3), (4), inserted in second sentence “or institutions in which the students are enrolled or accepted for enrollment” after “that applicants” and “and on which the applicant shall clearly indicate a choice of lender” before period at end.
+1987—Subsec. (a)(1). Pub. L. 100–50, §15(3), (4), inserted in second sentence “or institutions in which the students are enrolled or accepted for enrollment” after“that applicants” and “and on which the applicant shall clearly indicate a choice of lender” before period at end.
 
 Subsec. (a)(2). Pub. L. 100–50, §15(5), substituted “not less than 5” for “not less than 3” and inserted sentence at end providing that the Secretary not select new multiple data entry processors until certain examinations and recommendations are made by the Advisory Commission on Student Financial Assistance.
 

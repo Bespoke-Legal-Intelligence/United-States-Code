@@ -14,7 +14,7 @@ For purposes of this section—
 
 &emsp;&emsp;(C) other services or products subject to the jurisdiction of the Federal Communications Commission; or
 
-&emsp;&emsp;(D) products or services that are related or incidental to the provision of a product or service described in subparagraph (A), (B), or (C).
+&emsp;&emsp;(D) products or services that are related or incidental to the provision of a product orservice described in subparagraph (A), (B), or (C).
 
 > &emsp;No person shall be deemed to be an exempt telecommunications company under this section unless such person has applied to the Federal Communications Commission for a determination under this paragraph. A person applying in good faith for such a determination shall be deemed an exempt telecommunications company under this section, with all of the exemptions provided by this section, until the Federal Communications Commission makes such determination. The Federal Communications Commission shall make such determination within 60 days of its receipt of any such application filed after February 8, 1996, and shall notify the Commission whenever a determination is made under this paragraph that any person is an exempt telecommunications company. Not later than 12 months after February 8, 1996, the Federal Communications Commission shall promulgate rules implementing the provisions of this paragraph which shall be applicable to applications filed under this paragraph after the effective date of such rules.
 
@@ -104,7 +104,7 @@ Reciprocal arrangements among companies that are not affiliates or associate com
 
 &emsp;(B) any exempt telecommunications company selling products or services to such public utility company or to an associate company of such public utility company; and
 
-&emsp;(C) any associate company or affiliate of an exempt telecommunications company whichsells products or services to a public utility company referred to in subparagraph (A),
+&emsp;(C) any associate company or affiliate of an exempt telecommunications company which sells products or services to a public utility company referred to in subparagraph (A),
 
 > wherever located, if such examination is required for the effective discharge of the State commission's regulatory responsibilities affecting the provision of electric or gas service in connection with the activities of such exempt telecommunications company.
 

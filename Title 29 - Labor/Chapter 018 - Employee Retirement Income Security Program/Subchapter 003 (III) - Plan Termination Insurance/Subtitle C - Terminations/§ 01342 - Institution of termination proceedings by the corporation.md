@@ -16,7 +16,7 @@ The corporation may institute proceedings under this section to terminate a plan
 
 #### (b) Appointment of trustee
 
-(1) Whenever the corporation makes a determination under subsection (a) of this section with respect to a plan or is required under subsection (a) of this section to institute proceedings under this section, it may, upon notice to the plan, apply to the appropriate United States district court for the appointment of a trustee to administer the plan with respect to which the determination is made pending the issuance of a decree under subsection (c) of this section ordering the termination of the plan. If within 3 business days after the filing of an application under this subsection, or such other period as the court may order, the administrator of the planconsents to the appointment of a trustee, or fails to show why a trustee should not be appointed, the court may grant the application and appoint a trustee to administer the plan in accordance with its terms until the corporation determines that the plan should be terminated or that termination is unnecessary. The corporation may request that it be appointed as trustee of a plan in any case.
+(1) Whenever the corporation makes a determination under subsection (a) of this section with respect to a plan or is required under subsection (a) of this section to institute proceedings under this section, it may, upon notice to the plan, apply to the appropriate United States district court for the appointment of a trustee to administer the plan with respect to which the determination is made pending the issuance of a decree under subsection (c) of this section ordering the termination of the plan. If within 3 business days after the filing of an application under this subsection, or such other period as the court may order, the administrator of the plan consents to the appointment of a trustee, or fails to show why a trustee should not be appointed, the court may grant the application and appoint a trustee to administer the plan in accordance with its terms until the corporation determines that the plan should be terminated or that termination is unnecessary. The corporation may request that it be appointed as trustee of a plan in any case.
 
 (2) Notwithstanding any other provision of this subchapter—
 
@@ -44,7 +44,7 @@ If the corporation is required under subsection (a) of this section to commence 
 
 &emsp;(iv) to limit payment of benefits under the plan to basic benefits or to continue payment of some or all of the benefits which were being paid prior to his appointment;
 
-&emsp;(v) in the case of a multiemployer plan, to reduce benefits or suspend benefit payments under the plan, give appropriate notices, amend the plan, and perform other acts required or authorized by subtitle (E) of this subchapter to be performed by the plan sponsor or administrator;
+&emsp;(v) in the case of a multiemployer plan, to reduce benefits or suspend benefit payments under the plan, give appropriate notices, amend the plan, and perform other acts required or authorized by subtitle (E) of thissubchapter to be performed by the plan sponsor or administrator;
 
 &emsp;(vi) to do such other acts as he deems necessary to continue operation of the plan without increasing the potential liability of the corporation, if such acts may be done under the provisions of the plan; and
 
@@ -52,7 +52,7 @@ If the corporation is required under subsection (a) of this section to commence 
 
 > If the court to which application is made under subsection (c) of this section dismisses the application with prejudice, or if the corporation fails to apply for a decree under subsection (c) of this section, within 30 days after the date on which the trustee is appointed under subsection (b) of this section, the trustee shall transfer all assets and records of the plan held by him to the plan administrator within 3 business days after such dismissal or the expiration of such 30-day period, and shall not be liable to the plan or any other person for his acts as trustee except for willful misconduct, or for conduct in violation of the provisions of part 4 of subtitle B of subchapter I of this chapter (except as provided in subsection (d)(1)(A)(v) of this section). The 30-day period referred to in this subparagraph may be extended as provided by agreement between the plan administrator and the corporation or by court order obtained by the corporation.
 
-(B) If the court to which an application is made under subsection (c) of this section issuesthe decree requested in such application, in addition to the powers described in subparagraph (A), the trustee shall have the power—
+(B) If the court to which an application is made under subsection (c) of this section issues the decree requested in such application, in addition to the powers described in subparagraph (A), the trustee shall have the power—
 
 &emsp;(i) to pay benefits under the plan in accordance with the requirements of this subchapter;
 
@@ -96,7 +96,7 @@ Upon the filing of an application for the appointment of a trustee or the issuan
 
 #### (g) Venue
 
-An action under this subsection may be brought in the judicial district where the plan administrator resides or does business or where any asset of the plan is situated. A district court in which such action is brought may issue process with respect to such action in any other judicial district.
+An action under this subsection may be brought in the judicial district where the plan administrator resides or does business or where any asset of the plan is situated. A district courtin which such action is brought may issue process with respect to such action in any other judicial district.
 
 #### (h) Compensation of trustee and professional service personnel appointed or retained by trustee
 

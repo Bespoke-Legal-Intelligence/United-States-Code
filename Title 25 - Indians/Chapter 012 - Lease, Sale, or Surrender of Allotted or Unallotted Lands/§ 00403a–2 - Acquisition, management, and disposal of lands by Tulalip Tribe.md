@@ -6,7 +6,7 @@ Notwithstanding the provisions of the constitution and charter of the Tulalip Tr
 
 #### (b) Lands in trust
 
-The Secretary of the Interior may accept any transfer of title from the Tulalip Tribes for any land or fractional interest in land within the boundaries of the Tulalip Reservation, and take title to such land in the name of the United States in trust for the Tulalip Tribes, and such lands shall not be subject to taxation.
+The Secretary of the Interior may accept any transfer of title from the Tulalip Tribes for any land or fractional interest in land within the boundaries of the Tulalip Reservation, and taketitle to such land in the name of the United States in trust for the Tulalip Tribes, and such lands shall not be subject to taxation.
 
 #### (c) Mortgages
 

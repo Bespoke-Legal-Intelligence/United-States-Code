@@ -16,7 +16,7 @@ The Secretary shall establish an advisory committee to be known as the Advisory 
 
 #### (3) Minority representation
 
-&emsp;In appointing the members of the Advisory Committee under paragraph (2), the Secretary shall ensure the adequate representation of women and minorities.
+&emsp;In appointing the members of the Advisory Committee under paragraph (2), the Secretaryshall ensure the adequate representation of women and minorities.
 
 #### (c) Terms
 
@@ -56,7 +56,7 @@ The Advisory Committee shall—
 
 #### (2) Documents
 
-&emsp;Not later than 14 days prior to the convening of a meeting under paragraph (1), the AdvisoryCommittee shall prepare and make available an agenda of the matters to be considered by the Advisory Committee at such meeting. At any such meeting, the Advisory Council <sup>1</sup> shall distribute materials with respect to the issues to be addressed at the meeting. Not later than 30 days after the adjourning of such a meeting, the Advisory Committee shall prepare and make available a summary of the meeting and any actions taken by the Committee based upon the meeting.
+&emsp;Not later than 14 days prior to the convening of a meeting under paragraph (1), the Advisory Committee shall prepare and make available an agenda of the matters to be considered by the Advisory Committee at such meeting. At any such meeting, the Advisory Council <sup>1</sup> shall distribute materials with respect to the issues to be addressed at the meeting. Not later than 30 days after the adjourning of such a meeting, the Advisory Committee shall prepare and make available a summary of the meeting and any actions taken by the Committee based upon the meeting.
 
 #### (f) Compensation and expenses
 
@@ -88,9 +88,13 @@ A prior section 294f, act July 1, 1944, ch. 373, title VII, §733, as added Oct.
 
 Another prior section 294f, act July 1, 1944, ch. 373, title VII, §746, as added Aug. 16, 1968, Pub. L. 90–490, title I, §121(e), 82 Stat. 778; amended Nov. 18, 1971, Pub. L. 92–157, title I, §§105(f)(2), 106(b)(5), 85 Stat. 451, 453, provided for transfer of funds to scholarships in relation to loans to students studying in United States, prior to repeal by Pub. L. 94–484, title IV, §406(a)(1), Oct. 12, 1976, 90 Stat. 2268.
 
+#### Change of Name
+
+Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+
 #### Termination of Advisory Committees
 
-Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
+Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time asmay be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Committee”.</i>
 

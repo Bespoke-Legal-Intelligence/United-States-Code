@@ -80,7 +80,9 @@
 
 &emsp;&emsp;(G) Such country has not taken or is not taking steps to afford internationally recognized worker rights to workers in the country (including any designated zone in that country).
 
-> &emsp;Subparagraphs (D), (E), (F), and (G) shall not prevent the designation of any country as a beneficiary developing country under this subchapter if the President determines that such designation will be in the national economic interest of the United States and reports such determination to the Congress with the reasons therefor.
+&emsp;&emsp;(H) Such country has not implemented its commitments to eliminate the worst forms of child labor.
+
+> &emsp;Subparagraphs (D), (E), (F), (G), and (H) (to the extent described in section 2467(6)(D) of this title) shall not prevent the designation of any country as a beneficiary developing country under this subchapter if the President determines that such designation will be in the national economic interest of the United States and reports such determination to the Congress with the reasons therefor.
 
 #### (c) Factors affecting country designation
 
@@ -112,7 +114,7 @@ In determining whether to designate any country as a beneficiary developing coun
 
 #### (2) Changed circumstances
 
-&emsp;The President shall, after complying with the requirements of subsection (f)(2) of this section, withdraw or suspend the designation of any country as a beneficiary developing country if, after such designation, the President determines that as the result of changed circumstances such country would be barred from designation as a beneficiary developingcountry under subsection (b)(2) of this section. Such country shall cease to be a beneficiary developing country on the day on which the President issues an Executive order or Presidential proclamation revoking the designation of such country under this subchapter.
+&emsp;The President shall, after complying with the requirements of subsection (f)(2) of this section, withdraw or suspend the designation of any country as a beneficiary developing country if, after such designation, the President determines that as the result of changed circumstances such country would be barred from designation as a beneficiary developing country under subsection (b)(2) of this section. Such country shall cease to be a beneficiary developing country on the day on which the President issues an Executive order or Presidential proclamation revoking the designation of such country under this subchapter.
 
 #### (3) Advice to Congress
 
@@ -136,15 +138,19 @@ If the President determines that a beneficiary developing country has become a �
 
 #### (2) Notification of termination
 
-&emsp;If the President has designated any country as a beneficiary developing country under this subchapter, the President shall not terminate such designation unless, at least 60 days before such termination, the President has notified the Congress and has notified such country of the President's intention to terminate such designation, together with the considerations entering into such decision.
+&emsp;If the President has designated any country as a beneficiary developing country under this subchapter, the President shall not terminate such designation unless, at least 60 days before such termination, the President has notified the Congress and has notified such country ofthe President's intention to terminate such designation, together with the considerations entering into such decision.
 
-(Pub. L. 93–618, title V, §502, as added Pub. L. 104–188, title I, §1952(a), Aug. 20, 1996, 110 Stat. 1917; amended Pub. L. 104–295, §35(a), Oct. 11, 1996, 110 Stat. 3538.)
+(Pub. L. 93–618, title V, §502, as added Pub. L. 104–188, title I, §1952(a), Aug. 20, 1996, 110 Stat. 1917; amended Pub. L. 104–295, §35(a), Oct. 11, 1996, 110 Stat. 3538; Pub. L. 106–200, title IV, §412(a), May 18, 2000, 114 Stat. 298.)
 
 #### Prior Provisions
 
 A prior section 2462, Pub. L. 93–618, title V, §502(a)–(c), (e), Jan. 3, 1975, 88 Stat. 2066–2069; Pub. L. 94–455, title XVIII, §1802, Oct. 4, 1976, 90 Stat. 1763; Pub. L. 96–39, title XI, §§1106(g)(1), (2), 1111(a)(1), (2), July 26, 1979, 93 Stat. 312, 313, 315; Pub. L. 98–573, title V, §503, Oct. 30, 1984, 98 Stat. 3019; Pub. L. 99–47, §8(b)(2), June 11, 1985, 99 Stat. 85; Pub. L. 99–514, title XVIII, §1887(a)(5), Oct. 22, 1986, 100 Stat. 2923; Pub. L. 99–570, title IX, §9002(a), Oct. 27, 1986, 100 Stat. 3207–166; Pub. L. 101–179, title III, §301, Nov. 28, 1989, 103 Stat. 1311; Pub. L. 101–382, title I, §131, Aug. 20, 1990, 104 Stat. 643; Pub. L. 103–66, title XIII, §13802(a), Aug. 10, 1993, 107 Stat. 667; Pub. L. 103–149, §4(b)(9), Nov. 23, 1993, 107 Stat. 1506, related to beneficiary developing countries, prior to the general amendment of this subchapter by Pub. L. 104–188.
 
 #### Amendments
+
+2000—Subsec. (b)(2). Pub. L. 106–200, §412(a)(2), in concluding provisions substituted “(G), and (H) (to the extent described in section 2467(6)(D) of this title)” for “and (G)”.
+
+Subsec. (b)(2)(H). Pub. L. 106–200, §412(a)(1), added subpar. (H).
 
 1996—Subsec. (b)(2)(F). Pub. L. 104–295, amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “Such country aids or abets, by granting sanctuary from prosecution to, any individual or group which has committed an act of international terrorism.”
 
@@ -158,5 +164,5 @@ Proc. No. 6942, Oct. 17, 1996, 61 F.R. 54719, provided in par. (5) that powers o
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2411, 2463, 2467, 3331 of this title.
+This section is referred to in sections 2411, 2463, 2466a, 2467, 3331 of this title.
 

@@ -20,7 +20,3 @@ This section \[section 55\] corrects section 3612 of title 18, U.S.C., so that t
 
 1949—Act May 24, 1949, substituted “section 2042” for “section 852”.
 
-#### Cross References
-
-Withdrawal of money deposited in court, see section 2042 of Title 28, Judiciary and Judicial Procedure.
-

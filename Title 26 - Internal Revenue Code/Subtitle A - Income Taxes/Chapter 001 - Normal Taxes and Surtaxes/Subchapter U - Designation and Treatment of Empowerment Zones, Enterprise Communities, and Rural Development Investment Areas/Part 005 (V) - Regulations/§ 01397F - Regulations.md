@@ -1,0 +1,18 @@
+### §1397F. Regulations
+
+The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of parts II and III, including—
+
+&emsp;(1) regulations limiting the benefit of parts II and III in circumstances where such benefits, in combination with benefits provided under other Federal programs, would result in an activity being 100 percent or more subsidized by the Federal Government,
+
+&emsp;(2) regulations preventing abuse of the provisions of parts II and III, and
+
+&emsp;(3) regulations dealing with inadvertent failures of entities to be enterprise zone businesses.
+
+(Added Pub. L. 103–66, title XIII, §13301(a), Aug. 10, 1993, 107 Stat. 555, §1397D; renumbered §1397F, Pub. L. 105–34, title II, §226(a), Aug. 5, 1997, 111 Stat. 820; amended Pub. L. 105–206, title VI, §6004(g)(1), July 22, 1998, 112 Stat. 796.)
+
+#### Amendments
+
+<b>1998</b>—Pub. L. 105–206 amended directory language of Pub. L. 105–34, §226(a). See 1997 Amendment note below.
+
+<b>1997</b>—Pub. L. 105–34, §226(a), as amended by Pub. L. 105–206, renumbered section 1397D of this title as this section.
+

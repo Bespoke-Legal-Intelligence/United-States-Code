@@ -202,7 +202,7 @@ In any private action arising under this subchapter in which the plaintiff may r
 
 #### References in Text
 
-The Federal Rules of Civil Procedure, referred to in subsecs. (a)(1), (3)(A)(iii), (B)(iii)(I)(cc), (vi), (b)(2), and\(c), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
+The Federal Rules of Civil Procedure, referred to in subsecs. (a)(1), (3)(A)(iii), (B)(iii)(I)(cc), (vi), (b)(2), and (c), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
 #### Amendments
 

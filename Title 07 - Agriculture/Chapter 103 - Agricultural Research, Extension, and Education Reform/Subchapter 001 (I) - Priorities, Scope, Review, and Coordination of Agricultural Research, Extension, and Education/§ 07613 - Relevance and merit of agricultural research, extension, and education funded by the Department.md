@@ -4,7 +4,7 @@
 
 #### (1) Peer review of research grants
 
-&emsp;The Secretary shall establish procedures that provide for scientific peer review of each agricultural research grant administered, on a competitive basis, by the Cooperative StateResearch, Education, and Extension Service of the Department.
+&emsp;The Secretary shall establish procedures that provide for scientific peer review of each agricultural research grant administered, on a competitive basis, by the Cooperative State Research, Education, and Extension Service of the Department.
 
 #### (2) Merit review of extension and education grants
 

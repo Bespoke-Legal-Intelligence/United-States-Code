@@ -7,10 +7,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Cross References
-
-Gorgas Memorial Laboratory, see section 278 et seq. of Title 22, Foreign Relations and Intercourse.
-
 
 ---
 

@@ -2,7 +2,7 @@
 
 (a) Contributions under section 18233 of this title are subject to such terms as the Secretary of Defense, after consulting the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives, considers necessary for the purposes of this chapter. Except as otherwise agreed when the contribution is made, a facility provided by a contribution under paragraph (3) or (4) of section 18233(a) of this title may be used jointly by units of two or more reserve components of the armed forces only to the extent that the State considers practicable.
 
-(b) A contribution made for an armory under paragraph (4) or (5) of section 18233(a) of this title may not exceed the sum of—
+(b) A contribution made for an armory or readiness center under paragraph (4) or (5) of section 18233(a) of this title may not exceed the sum of—
 
 &emsp;(1) 100 percent of the cost of architectural, engineering and design services (including advance architectural, engineering and design services under section 18233(e) of this title); and
 
@@ -22,7 +22,7 @@
 
 &emsp;(2) in time of war or national emergency, by other units of the armed forces or by the United States for any other purpose.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 122, §2236; Pub. L. 85–861, §1(40), Sept. 2, 1958, 72 Stat. 1456; Pub. L. 97–214, §3(d)(2), (3), (e)(2), July 12, 1982, 96 Stat. 170; Pub. L. 99–167, title VII, §702(b), Dec. 3, 1985, 99 Stat. 985; Pub. L. 99–661, div. A, title XIII, §1343(a)(11), Nov. 14, 1986, 100 Stat. 3993; renumbered §18236 and amended Pub. L. 103–337, div. A, title XVI, §1664(b)(2), (8), Oct. 5, 1994, 108 Stat. 3010; Pub. L. 104–106, div. A, title XV, §§1501(b)(36), 1502(a)(2), Feb. 10, 1996, 110 Stat. 498, 502; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 122, §2236; Pub. L. 85–861, §1(40), Sept. 2, 1958, 72 Stat. 1456; Pub. L. 97–214, §3(d)(2), (3), (e)(2), July 12, 1982, 96 Stat. 170; Pub. L. 99–167, title VII, §702(b), Dec. 3, 1985, 99 Stat. 985; Pub. L. 99–661, div. A, title XIII, §1343(a)(11), Nov. 14, 1986, 100 Stat. 3993; renumbered §18236 and amended Pub. L. 103–337, div. A, title XVI, §1664(b)(2), (8), Oct. 5, 1994, 108 Stat. 3010; Pub. L. 104–106, div. A, title XV, §§1501(b)(36), 1502(a)(2), Feb. 10, 1996, 110 Stat. 498, 502; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, §1 \[div. B, title XXVIII, §2807(b)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–415.)
 
 Historical and Revision Notes<br>1956
 
@@ -87,6 +87,8 @@ Aug. 9, 1955, ch. 662, §1(e), 69 Stat. 593.
 In subsection (a), the words “may be used jointly” are substituted for the words “shall be subject to joint utilization”. The words “and conditions” are omitted as surplusage.
 
 #### Amendments
+
+2000—Subsec. (b). Pub. L. 106–398 inserted “or readiness center” after “armory” in introductory provisions.
 
 1999—Subsec. (a). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 

@@ -72,7 +72,7 @@ The Secretary may provide technical assistance to States, State health authoriti
 
 #### (j) Authorization of appropriations
 
-(1) Except for grants for immunization programs the authorization of appropriations for which are established in paragraph (2), for grants under subsections (a) and (k)(1) of this section for preventive health service programs to immunize without charge children, adolescents, and adults against vaccine-preventable diseases, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1998 through 2002. Not more than 10 percent of the total amount appropriated under the preceding sentence for any fiscal year shall be available for grants under subsection (k)(1) of this section for such fiscal year.
+(1) Except for grants for immunization programs the authorization of appropriations for which are established in paragraph (2), for grants under subsections (a) and (k)(1) of this section for preventive health service programs to immunize without charge children, adolescents, and adults against vaccine-preventable diseases, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1998 through 2005. Not more than 10 percent of the total amount appropriated under the preceding sentence for any fiscal year shall be available for grants under subsection (k)(1) of this section for such fiscal year.
 
 (2) For grants under subsection (a) of this section for preventive health service programs for the provision without charge of immunizations with vaccines approved for use, and recommended for routine use, after October 1, 1997, there are authorized to be appropriated such sums as may be necessary.
 
@@ -102,7 +102,7 @@ The Secretary may provide technical assistance to States, State health authoriti
 
 (4) Subsections (d), (e), and (f) of this section shall apply to grants under this subsection in the same manner as such subsections apply to grants under subsection (a) of this section.
 
-(July 1, 1944, ch. 373, title III, §317, as added Pub. L. 87–868, §2, Oct. 23, 1962, 76 Stat. 1155; amended Pub. L. 89–109, §2, Aug. 5, 1965, 79 Stat. 435; Pub. L. 91–464, §2, Oct. 16, 1970, 84 Stat. 988; Pub. L. 92–449, title I, §101, Sept. 30, 1972, 86 Stat. 748; Pub. L. 93–354, §4, July 23, 1974, 88 Stat. 376; Pub. L. 94–63, title VI, §601, July 29, 1975, 89 Stat. 346; Pub. L. 94–317, title II, §202(a), June 23, 1976, 90 Stat. 700; Pub. L. 94–380, §2, Aug. 12, 1976, 90 Stat. 1113; Pub. L. 95–626, title II, §§202, 204(b)(2), Nov. 10, 1978, 92 Stat. 3574, 3583; Pub. L. 96–32, §6(i), July 10, 1979, 93 Stat. 83; Pub. L. 97–35, title IX, §928, Aug. 13, 1981, 95 Stat. 569; Pub. L. 98–555, §2, Oct. 30, 1984, 98 Stat. 2854; Pub. L. 99–117, §11(c), Oct. 7, 1985, 99 Stat. 495; Pub. L. 100–177, title I, §§110(a), 111, Dec. 1, 1987, 101 Stat. 990, 991; Pub. L. 101–368, §2, Aug. 15, 1990, 104 Stat. 446; Pub. L. 101–502, §2(a), Nov. 3, 1990, 104 Stat. 1285; Pub. L. 103–183, title III, §301(b), Dec. 14, 1993, 107 Stat. 2235; Pub. L. 105–392, title III, §303, Nov. 13, 1998, 112 Stat. 3586.)
+(July 1, 1944, ch. 373, title III, §317, as added Pub. L. 87–868, §2, Oct. 23, 1962, 76 Stat. 1155; amended Pub. L. 89–109, §2, Aug. 5, 1965, 79 Stat. 435; Pub. L. 91–464, §2, Oct. 16, 1970, 84 Stat. 988; Pub. L. 92–449, title I, §101, Sept. 30, 1972, 86 Stat. 748; Pub. L. 93–354, §4, July 23, 1974, 88 Stat. 376; Pub. L. 94–63, title VI, §601, July 29, 1975, 89 Stat. 346; Pub. L. 94–317, title II, §202(a), June 23, 1976, 90 Stat. 700; Pub. L. 94–380, §2, Aug. 12, 1976, 90 Stat. 1113; Pub. L. 95–626, title II, §§202, 204(b)(2), Nov. 10, 1978, 92 Stat. 3574, 3583; Pub. L. 96–32, §6(i), July 10, 1979, 93 Stat. 83; Pub. L. 97–35, title IX, §928, Aug. 13, 1981, 95 Stat. 569; Pub. L. 98–555, §2, Oct. 30, 1984, 98 Stat. 2854; Pub. L. 99–117, §11(c), Oct. 7, 1985, 99 Stat. 495; Pub. L. 100–177, title I, §§110(a), 111, Dec. 1, 1987, 101 Stat. 990, 991; Pub. L. 101–368, §2, Aug. 15, 1990, 104 Stat. 446; Pub. L. 101–502, §2(a), Nov. 3, 1990, 104 Stat. 1285; Pub. L. 103–183, title III, §301(b), Dec. 14, 1993, 107 Stat. 2235; Pub. L. 105–392, title III, §303, Nov. 13, 1998, 112 Stat. 3586; Pub. L. 106–310, div. A, title XVII, §1711, Oct. 17, 2000, 114 Stat. 1152.)
 
 #### References in Text
 
@@ -111,6 +111,8 @@ Section 300m–3 of this title, referred to in subsec. (b)(3), was repealed by P
 Section 247 of this title, referred to in subsec. (b)(3), was repealed by Pub. L. 99–117, §12(b), Oct. 7, 1985, 99 Stat. 495.
 
 #### Amendments
+
+2000—Subsec. (j)(1). Pub. L. 106–310 substituted “1998 through 2005” for “1998 through 2002” in first sentence.
 
 1998—Subsec. (j)(1). Pub. L. 105–392, §303(1), substituted “children, adolescents, and adults against vaccine-preventable diseases, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1998 through 2002.” for “individuals against vaccine-preventable diseases, there are authorized to be appropriated $205,000,000 for fiscal year 1991, and such sums as may be necessary for each of the fiscal years 1992 through 1995.”
 
@@ -190,7 +192,7 @@ Subsec. (i). Pub. L. 93–354, §4(1), substituted “communicable and other dis
 
 Subsec. (b). Pub. L. 92–449 substituted provisions of par. (1) respecting applications for grants, submission, approval, form, and content of applications; par. (2) respecting application requirements; and par. (3) incorporating former subsec. (g) provisions respecting consent of individuals for former definitions provision now incorporated in subsec. (h) of this section.
 
-Subsec. (c). Pub. L. 92–449 designated existing provisions as par. (1) and among minor punctuation changes inserted “under grants” after “Payments”; and redesignated former subsec. (d) as par. (2), inserted “of the Government” after “officer or employee”, substituted “in detailing the personnel” for “personal services”, and struck out provision that reduced amount shall, for purposes of subsec. (c), be deemed to have been paid to the agency.
+Subsec. (c). Pub. L. 92–449 designated existing provisions as par. (1) and among minor punctuation changesinserted “under grants” after “Payments”; and redesignated former subsec. (d) as par. (2), inserted “of the Government” after “officer or employee”, substituted “in detailing the personnel” for “personal services”, and struck out provision that reduced amount shall, for purposes of subsec. (c), be deemed to have been paid to the agency.
 
 Subsec. (d). Pub. L. 92–449 substituted provisions respecting authorization of appropriations and limitation on use of funds for provisions respecting grant reduction.
 
@@ -232,7 +234,7 @@ Section 202(a) of Pub. L. 94–317 provided that the amendment made by that sect
 
 #### Effective Date of 1975 Amendment
 
-Section 608 of title VI of Pub. L. 94–63 provided that: “Except as may otherwise be specifically provided, the amendments made by this title \[enacting sections 300c–21 and 300c–22 of this title, amending this section, and enacting provisions set out as notes under sections 289, 289k–2, and 1395x of this title\] and by titles I \[amending section 246 of this title and enacting provisions set out as notes under section 246 of this title\], II \[enacting sections 300a–6a and 300a–8 of this title, amending sections 300 and 300a–1 to 300a–4 of this title, repealing section 3505c of this title, and enacting provision set out as a note under section 300 of this title\], III \[enacting sections 2689 to 2689aa of this title, amending sections 2691 and 2693 to 2696 of this title, and enacting provisions set out as notes under section 2689 of this title\], IV \[amending sections 218 and 254b of this title and enacting provision set out as a note under section 254b of this title\], and V \[enacting section 254c of this title and amending section 246 of this title\] of this Act shall take effect July 1, 1975. The amendments made by this title and by such titles to the provisions of law amended by this title and by such titles are made tosuch provisions as amended by title VII of this Act \[amending sections 246, 254b, 300, 300a–1 to 300a–3 of this title and sections 2681, 2687, 2688a, 2688d, 2688j–1, 2688j–2, 2688<i>l</i>, 2688<i>l</i>–1, 2688n–1, 2688<i>o</i>, and 2688u of this title\].”
+Section 608 of title VI of Pub. L. 94–63 provided that: “Except as may otherwise be specifically provided, the amendments made by this title \[enacting sections 300c–21 and 300c–22 of this title, amending this section, and enacting provisions set out as notes under sections 289, 289k–2, and 1395x of this title\] and by titles I \[amending section 246 of this title and enacting provisions set out as notes under section 246 of this title\], II \[enacting sections 300a–6a and 300a–8 of this title, amending sections 300 and 300a–1 to 300a–4 of this title, repealing section 3505c of this title, and enacting provision set out as a note under section 300 of this title\], III \[enacting sections 2689 to 2689aa of this title, amending sections 2691 and 2693 to 2696 of this title, and enacting provisions set out as notes under section 2689 of this title\], IV \[amending sections 218 and 254b of this title and enacting provision set out as a note under section 254b of this title\], and V \[enacting section 254c of this title and amending section 246 of this title\] of this Act shall take effect July 1, 1975. The amendments made by this title and by such titles to the provisions of law amended by this title and by such titles are made to such provisions as amended by title VII of this Act \[amending sections 246, 254b, 300, 300a–1 to 300a–3 of this title and sections 2681, 2687, 2688a, 2688d, 2688j–1, 2688j–2, 2688<i>l</i>, 2688<i>l</i>–1, 2688n–1, 2688<i>o</i>, and 2688u of this title\].”
 
 #### Effective Date of 1972 Amendment
 
@@ -240,7 +242,7 @@ Section 102 of Pub. L. 92–449 provided that: “The amendment made by section 
 
 #### Assistance of Administrator of Veterans’ Affairs in Administration of National Swine Flu Immunization Program of 1976; Claims for Damages
 
-Pub. L. 94–420, §3, Sept. 23, 1976, 90 Stat. 1301, provided that, in order to assist Secretary of Health, Education, and Welfare in carrying out National Swine Flu Immunization Program of 1976 pursuant to 42 U.S.C. 247b(j), as added by Pub. L. 94–380, Administrator of Veterans’ Affairs, in accordance with 42 U.S.C. 2476(j), could authorize administration of vaccine, procured under such program and provided by Secretary at no cost to Veterans’ Administration, to eligible veterans (voluntarily requesting such vaccine) in connection with provision of care for a disability under chapter 17 of title 38, in any health care facility under jurisdiction of Administrator, and provided for consideration and processing of claims and suits for damages for personal injury or death, in connection with administration of vaccine.
+Pub. L. 94–420, §3, Sept. 23, 1976, 90 Stat. 1301, provided that, in order to assist Secretary of Health, Education, and Welfare in carrying out National Swine Flu Immunization Program of 1976 pursuant to 42 U.S.C. 247b(j), as added by Pub. L. 94–380, Administrator of Veterans’ Affairs, in accordance with 42 U.S.C. 2476(j), could authorize administration of vaccine, procured under such program and provided by Secretary at no cost to Veterans’ Administration, to eligible veterans (voluntarily requesting such vaccine) in connection with provision of care for a disability under chapter 17 of title 38, in any health care facility under jurisdiction of Administrator, and provided for consideration and processing ofclaims and suits for damages for personal injury or death, in connection with administration of vaccine.
 
 #### Study by Secretary of Scope and Extent of Liability Arising Out of Immunization Program; Alternative Protective Approaches; Report to Congress
 
@@ -248,7 +250,7 @@ Section 3 of Pub. L. 94–380 directed Secretary to conduct a study of liability
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 256b, 256c, 300w–1, 1396s of this title.
+This section is referred to in sections 256b, 256c, 300w–1, 300ff–14, 300ff–22, 1396s of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

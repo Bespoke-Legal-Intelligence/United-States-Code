@@ -17,15 +17,23 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+|  |  |
+| :--- | ---: |
+| [613\.](%C2%A7%2000613%20-%20Disbursing%20and%20certifying%20officers.md) | Disbursing and certifying officers. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Amendments
 
-1989—Pub. L. 101–162, title IV, §404(b)(2), Nov. 21, 1989, 103 Stat. 1015, added item 612.
+<b>2000</b>—Pub. L. 106–518, title III, §304(b), Nov. 13, 2000, 114 Stat. 2418, added item 613.
 
-1967—Pub. L. 90–219, title II, §201(b), Dec. 20, 1967, 81 Stat. 668, added item 611.
+<b>1989</b>—Pub. L. 101–162, title IV, §404(b)(2), Nov. 21, 1989, 103 Stat. 1015, added item 612.
 
-1959—Pub. L. 86–370, §5(a)(2), Sept. 23, 1959, 73 Stat. 652, substituted “Deputy Director” for “Assistant Director” in items 601 and 606.
+<b>1967</b>—Pub. L. 90–219, title II, §201(b), Dec. 20, 1967, 81 Stat. 668, added item 611.
 
-1949—Act May 24, 1949, ch. 139, §72a, 63 Stat. 100, inserted an apostrophe after “Courts” and struck out comma after “Courts” in item 609.
+<b>1959</b>—Pub. L. 86–370, §5(a)(2), Sept. 23, 1959, 73 Stat. 652, substituted “Deputy Director” for “Assistant Director” in items 601 and 606.
+
+<b>1949</b>—Act May 24, 1949, ch. 139, §72a, 63 Stat. 100, inserted an apostrophe after “Courts” and struck out comma after “Courts” in item 609.
 
 <i><sup>1</sup></i><i> Section catchline amended by Pub. L. 104–106 without corresponding amendment of chapter analysis.</i>
 
@@ -46,3 +54,4 @@
 - [&sect; 00610 - Courts defined](%C2%A7%2000610%20-%20Courts%20defined.md)
 - [&sect; 00611 - Retirement of Director](%C2%A7%2000611%20-%20Retirement%20of%20Director.md)
 - [&sect; 00612 - Judiciary Information Technology Fund](%C2%A7%2000612%20-%20Judiciary%20Information%20Technology%20Fund.md)
+- [&sect; 00613 - Disbursing and certifying officers](%C2%A7%2000613%20-%20Disbursing%20and%20certifying%20officers.md)

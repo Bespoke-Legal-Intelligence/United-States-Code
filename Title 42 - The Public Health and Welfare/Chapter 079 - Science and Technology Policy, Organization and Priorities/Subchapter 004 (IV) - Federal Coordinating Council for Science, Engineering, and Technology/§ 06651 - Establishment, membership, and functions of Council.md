@@ -44,7 +44,7 @@ For the purpose of carrying out the provisions of this section, each Federal age
 
 For the purpose of conducting studies and making reports as directed by the Chairman, standing subcommittees and panels of the Council may be established.
 
-(Pub. L. 94–282, title IV, §401, May 11, 1976, 90 Stat. 471; Pub. L. 95–91, title III, §301(a), title VII, §§703, 707, Aug. 4, 1977, 91 Stat. 577, 606, 607;Pub. L. 95–113, title XIV, §1406, Sept. 29, 1977, 91 Stat. 986; Pub. L. 97–98, title XIV, §1406(a), (b), Dec. 22, 1981, 95 Stat. 1298; Pub. L. 102–54, §13(q)(11), June 13, 1991, 105 Stat. 281; Pub. L. 104–127, title VIII, §851, Apr. 4, 1996, 110 Stat. 1171.)
+(Pub. L. 94–282, title IV, §401, May 11, 1976, 90 Stat. 471; Pub. L. 95–91, title III, §301(a), titleVII, §§703, 707, Aug. 4, 1977, 91 Stat. 577, 606, 607; Pub. L. 95–113, title XIV, §1406, Sept. 29, 1977, 91 Stat. 986; Pub. L. 97–98, title XIV, §1406(a), (b), Dec. 22, 1981, 95 Stat. 1298; Pub. L. 102–54, §13(q)(11), June 13, 1991, 105 Stat. 281; Pub. L. 104–127, title VIII, §851, Apr. 4, 1996, 110 Stat. 1171.)
 
 #### Amendments
 

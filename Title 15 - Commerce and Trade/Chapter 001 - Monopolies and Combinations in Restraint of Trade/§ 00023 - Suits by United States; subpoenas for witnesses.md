@@ -8,15 +8,3 @@ In any suit, action, or proceeding brought by or on behalf of the United States 
 
 The antitrust laws, referred to in text, are defined in section 12 of this title.
 
-#### Federal Rules of Civil Procedure
-
-One form of action, see rule 2, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-Rules as governing the procedure in all suits of a civil nature whether cognizable as cases at law or in equity, see rule 1.
-
-Subpoena, see rule 45.
-
-#### Federal Rules of Criminal Procedure
-
-Subpoena, see rule 17, Title 18, Appendix, Crimes and Criminal Procedure.
-

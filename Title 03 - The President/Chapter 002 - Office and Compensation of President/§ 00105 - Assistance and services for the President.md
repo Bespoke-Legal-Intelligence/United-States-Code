@@ -96,10 +96,6 @@ National Aeronautics and Space Council, including office of Executive Secretary 
 
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
-#### Cross References
-
-Former Presidents, office staff, see note set out under section 102 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 115 of this title; title 18 sections 207, 1751; title 26 section 3121; title 31 section 3524; title 42 section 410.

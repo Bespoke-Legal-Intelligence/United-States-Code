@@ -14,7 +14,7 @@ In this subchapter, the term “eligible applicant” means—
 
 #### (c) Application
 
-Any eligible applicant desiring to receive a grant under this section shall submit an application to the Secretary at such time, in such form, and containing such information as the Secretary may require, including—
+Any eligible applicant desiring to receive a grant under this section shall submit an application to the Secretary at such time, in such form,and containing such information as the Secretary may require, including—
 
 &emsp;(1) a description of the assessment that the eligible applicant, and the other entities with whom the eligible applicant will carry out the grant activities, have undertaken to determine the most critical needs of the participating high-need local educational agencies;
 

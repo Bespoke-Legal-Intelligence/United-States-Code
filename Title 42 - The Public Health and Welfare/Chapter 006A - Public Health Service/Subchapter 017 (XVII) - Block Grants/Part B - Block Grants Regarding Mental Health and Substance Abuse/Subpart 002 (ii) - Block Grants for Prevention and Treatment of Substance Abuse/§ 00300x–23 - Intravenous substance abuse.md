@@ -28,5 +28,5 @@ Another prior section 1923 of act July 1, 1944, was classified to section 300y�
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 300x–29 of this title.
+This section is referred to in sections 300x–29, 300x–32 of this title.
 

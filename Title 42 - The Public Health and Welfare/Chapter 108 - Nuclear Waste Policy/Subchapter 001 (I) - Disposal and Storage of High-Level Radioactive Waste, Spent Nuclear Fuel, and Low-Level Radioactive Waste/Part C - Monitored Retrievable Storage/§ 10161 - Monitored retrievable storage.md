@@ -32,7 +32,7 @@ The Congress finds that—
 
 &emsp;(B) a plan for the funding of the construction and operation of such facilities, which plan shall provide that the costs of such activities shall be borne by the generators and owners of the high-level radioactive waste and spent nuclear fuel to be stored in such facilities;
 
-&emsp;(C) site-specific designs, specifications, and cost estimates sufficient to (i) solicit bids for the construction of the first such facility; (ii) support congressional authorization of the construction of such facility; and (iii) enable completion and operation of such facility as soon as practicable following congressional authorization of such facility; and
+&emsp;(C) site-specific designs, specifications, and cost estimates sufficient to (i) solicit bids for the construction of the first such facility; (ii) support congressional authorization of the construction of such facility; and (iii) enable completion and operation of such facility assoon as practicable following congressional authorization of such facility; and
 
 &emsp;(D) a plan for integrating facilities constructed pursuant to this section with other storage and disposal facilities authorized in this chapter.
 
@@ -82,7 +82,7 @@ Any facility authorized pursuant to this section shall be subject to the provisi
 
 #### References in Text
 
-The National Environmental Policy Act of 1969, referred to in subsec. (c), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of this title and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (c), is Pub. L. 91–190, Jan. 1, 1970, 83Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of this title and Tables.
 
 #### Section Referred to in Other Sections
 

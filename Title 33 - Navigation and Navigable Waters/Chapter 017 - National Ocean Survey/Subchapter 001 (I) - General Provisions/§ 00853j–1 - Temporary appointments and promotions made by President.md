@@ -2,7 +2,7 @@
 
 #### (a) Ensign
 
-Temporary appointment in the grade of ensign may be made by the President alone, provided such temporary appointment will be terminated at the close of the next regular session of the Congress unless confirmed by the Senate.
+Temporary appointment in the grade of ensign may be made by the President alone, providedsuch temporary appointment will be terminated at the close of the next regular session of the Congress unless confirmed by the Senate.
 
 #### (b) Lieutenant junior grade
 
@@ -20,5 +20,5 @@ When determined by the Secretary of Commerce to be in the best interest of the s
 
 #### Delegation of Functions
 
-Functions of President under subsecs. (a), (b) and (c) delegated to Secretary of Commerce, see section 1(b),\(c) and (d) of Ex. Ord. No. 11023, May 28, 1962, 27 F.R. 5131, set out as a note under section 301 of Title 3, The President.
+Functions of President under subsecs. (a), (b) and (c) delegated to Secretary of Commerce, see section 1(b), (c) and (d) of Ex. Ord. No. 11023, May 28, 1962, 27 F.R. 5131, set out as a note under section 301 of Title 3, The President.
 

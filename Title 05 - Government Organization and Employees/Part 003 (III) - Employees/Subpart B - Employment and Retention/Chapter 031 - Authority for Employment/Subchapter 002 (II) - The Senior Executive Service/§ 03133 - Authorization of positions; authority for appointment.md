@@ -88,7 +88,7 @@ Section 413 of Pub. L. 95–454 provided that:
 
 “(g) Each employee who has elected conversion to a Senior Executive Service position under subsection (c)(1)(B) of this section, who is serving in a position described in paragraph (1), (2), or (3) of subsection (e) of this section, and whose position is designated as a Senior Executive Service position and who has reinstatement eligibility to a position in the competitive service, may, on request to the Office, be appointed as a career appointee to a Senior Executive Service position. The name of, and basis for reinstatement eligibility for, each employee appointed as a career appointee under this subsection shall be published in the Federal Register.
 
-“(h) Each employee who has elected conversion to a Senior Executive Service position under subsection\(c)(1)(B) of this section and who is serving under a limited executive assignment under subpart F of part 305 of title 5, Code of Federal Regulations, shall—
+“(h) Each employee who has elected conversion to a Senior Executive Service position under subsection (c)(1)(B) of this section and who is serving under a limited executive assignment under subpart F of part 305 of title 5, Code of Federal Regulations, shall—
 
 &emsp;“(1) be appointed as a limited term appointee to a Senior Executive Service position if the position then held by such employee will terminate within 3 years of the date of such appointment;
 
@@ -103,10 +103,6 @@ Section 413 of Pub. L. 95–454 provided that:
 “(k) The Office shall prescribe regulations to carry out the purpose of this section.”
 
 Section 415(a)(2) of Pub. L. 95–454 provided that section 413 is effective Oct. 13, 1978.
-
-#### Cross References
-
-Inspector General as “appointing authority” for members or positions within Senior Executive Service within office of an Inspector General, see Inspector General Act of 1978, §6(d), set out in the Appendix to this title.
 
 #### Section Referred to in Other Sections
 

@@ -2,7 +2,7 @@
 
 #### (a) Grant of exemptions
 
-The Secretary shall establish an exemption procedure for purposes of this subsection. Pursuant to such procedure, he may grant a conditional or unconditional exemption of any fiduciary or transaction, or class of fiduciaries or transactions, from all or part of the restrictions imposed by sections 1106 and 1107(a) of this title.Action under this subsection may be taken only after consultation and coordination with the Secretary of the Treasury. An exemption granted under this section shall not relieve a fiduciary from any other applicable provision of this chapter. The Secretary may not grant an exemption under this subsection unless he finds that such exemption is—
+The Secretary shall establish an exemption procedure for purposes of this subsection. Pursuant to such procedure, he may grant a conditional or unconditional exemption of any fiduciary or transaction, or class of fiduciaries or transactions, from all or part of the restrictions imposed by sections 1106 and 1107(a) of this title. Action under this subsection may be taken only after consultation and coordination with the Secretary of the Treasury. An exemption granted under this section shall not relieve a fiduciary from any other applicable provision of this chapter. The Secretary may not grant an exemption under this subsection unless he finds that such exemption is—
 
 &emsp;(1) administratively feasible,
 

@@ -38,19 +38,35 @@ In developing strategies under subsection (a) of this section, the Secretary sha
 
 &emsp;In developing a tributary sediment transport model under this subsection, the Secretary shall build on data and monitoring information generated in earlier studies and programs of the Great Lakes and their tributaries.
 
+#### (3) Report
+
+&emsp;Not later than December 31, 2003, the Secretary shall transmit to Congress a report on the Secretary's activities under this subsection.
+
 #### (f) “Great Lakes States” defined
 
 In this section, the term “Great Lakes States” means the States of Illinois, Indiana, Michigan, Minnesota, New York, Ohio, Pennsylvania, and Wisconsin.
 
 #### (g) Authorization of appropriations
 
-There is authorized to be appropriated to the Secretary to carry out this section $5,000,000 for each of fiscal years 1998 through 2001.
+#### (1) In general
 
-(Pub. L. 104–303, title V, §516, Oct. 12, 1996, 110 Stat. 3763.)
+&emsp;There is authorized to be appropriated to the Secretary to carry out this section $5,000,000 for each of fiscal years 1998 through 2001.
+
+#### (2) Great Lakes tributary model
+
+&emsp;In addition to amounts made available under paragraph (1), there is authorized to be appropriated to carry out subsection (e) of this section $5,000,000 for each of fiscal years 2002 through 2006.
+
+(Pub. L. 104–303, title V, §516, Oct. 12, 1996, 110 Stat. 3763; Pub. L. 106–541, title V, §505, Dec. 11, 2000, 114 Stat. 2645.)
 
 #### Codification
 
 Section was enacted as part of the Water Resources Development Act of 1996, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+
+#### Amendments
+
+2000—Subsec. (e)(3). Pub. L. 106–541, §505(1), added par. (3).
+
+Subsec. (g). Pub. L. 106–541, §505(2), designated existing provisions as par. (1), inserted heading, realigned margins, and added par. (2).
 
 #### New York-New Jersey Harbor, New York and New Jersey
 

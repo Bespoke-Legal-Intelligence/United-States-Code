@@ -52,5 +52,5 @@ Section 4 of act Aug. 9, 1950, provided for the availability of funds for paymen
 
 #### Leave Regulations
 
-Section 5 of act Aug. 9, 1950, provided that: “Except insofar as the provisions of this Act \[enacting this section, amending section 210 of this title, and enacting provisions set out as notes under this section and section 210 of this title\] are inconsistent therewith, leave regulations adopted prior to the enactment of this Act\[Aug. 9, 1950\], pursuant to the Public Health Service Act \[this chapter\], shall remain in effect until repealed, amended, or superseded.”
+Section 5 of act Aug. 9, 1950, provided that: “Except insofar as the provisions of this Act \[enacting this section, amending section 210 of this title, and enacting provisions set out as notes under this section and section 210 of this title\] are inconsistent therewith, leave regulations adopted prior to the enactment of this Act \[Aug. 9, 1950\], pursuant to the Public Health Service Act \[this chapter\], shall remain in effect until repealed, amended, or superseded.”
 

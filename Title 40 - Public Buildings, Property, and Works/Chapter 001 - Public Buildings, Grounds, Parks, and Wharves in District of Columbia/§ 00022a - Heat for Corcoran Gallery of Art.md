@@ -10,7 +10,3 @@ For transfer of functions to General Services Administrator, see note set out un
 
 This section originally authorized Treasury Department to furnish heat from Central Heating Plant under act June 19, 1934. Public Buildings Branch of Procurement Division in Treasury Department and its functions and personnel transferred to Public Buildings Administration of Federal Works Agency by Reorg. Plan No. I of 1939, set out in the Appendix to Title 5, Government Organization and Employees.
 
-#### Cross References
-
-Operations of buildings and related activities by Administrator of General Services, general powers and duties, see section 490 of this title.
-

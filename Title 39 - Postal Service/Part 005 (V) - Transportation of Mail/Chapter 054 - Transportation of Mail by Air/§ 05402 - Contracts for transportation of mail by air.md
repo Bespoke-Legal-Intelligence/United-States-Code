@@ -1,6 +1,6 @@
 ### §5402. Contracts for transportation of mail by air
 
-(a) The Postal Service may contract with any certificated air carrier, without advertising for bids, in such manner and under such terms and conditions as it deems appropriate, for the transportation of mail by aircraft between any of the points in foreign air transportation between which the carrier is authorized by the Secretary of Transportation to engage in the transportation of mail. Such contracts shall be for the transportation of at least 750 pounds of mail per flight, and no more than 5 percent, based on weight, of the international mail transported under any such contract shall consist of letter mail. Any such contract shall be filed with the Secretary of Transportation not later than 90 days before its effective date. Unless the Secretary of Transportation shall determine otherwise (under criteria prescribed by section40101(a) of title 49) not later than 10 days prior to the effective date of the contract, such contract shall become effective.
+(a) The Postal Service may contract with any certificated air carrier, without advertising for bids, in such manner and under such terms and conditions as it deems appropriate, for the transportation of mail by aircraft between any of the points in foreign air transportation between which the carrier is authorized by the Secretary of Transportation to engage in the transportation of mail. Such contracts shall be for the transportation of at least 750 pounds of mail per flight, and no more than 5 percent, based on weight, of the international mail transported under any such contract shall consist of letter mail. Any such contract shall be filed with the Secretary of Transportation not later than 90 days before its effective date. Unless the Secretary of Transportation shall determine otherwise (under criteria prescribed by section 40101(a) of title 49) not later than 10 days prior to the effective date of the contract, such contract shall become effective.
 
 (b) When the Postal Service deems that the transportation of mail by aircraft is required between points in foreign air transportation between which the Secretary of Transportation has not authorized an air carrier or combination of air carriers to engage in the transportation of mail, it may contract with any air carrier in such manner and under such terms and conditions as it may deem appropriate for the transportation of any class or classes of mail. The transportation of mail under contracts entered into under this subsection is not, except for sections 40109(a) and (c)–(h) and 42112 of title 49, air transportation within the provisions of part A of subtitle VII of title 49. The Postal Service shall cancel such contract, in whole or in respect to certain points as the certificate shall require, upon the issuance by the Secretary of Transportation of an authorization under chapters 411 and 413 of title 49 to any air carrier to engage in the transportation of mail by aircraft between any of the points named in the contract, and the inauguration of scheduled service by such carrier.
 
@@ -40,7 +40,7 @@
 
 &emsp;(ii) after giving 12 months public notice before any such change takes effect.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 772; Pub. L. 98–443, §9(g)(4), Oct. 4, 1984, 98 Stat. 1707; Pub. L. 100–238, title I, §137, Jan. 8, 1988, 101 Stat. 1767; Pub. L. 103–272, §4(g)(2), July 5, 1994, 108 Stat. 1364; Pub. L. 103–429, §5, Oct. 31, 1994, 108 Stat. 4378; Pub. L. 104–52, title VI, §631(a), Nov. 19, 1995, 109 Stat. 505.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 772; Pub. L. 98–443, §9(g)(4), Oct. 4, 1984, 98 Stat. 1707; Pub. L.100–238, title I, §137, Jan. 8, 1988, 101 Stat. 1767; Pub. L. 103–272, §4(g)(2), July 5, 1994, 108 Stat. 1364; Pub. L. 103–429, §5, Oct. 31, 1994, 108 Stat. 4378; Pub. L. 104–52, title VI, §631(a), Nov. 19, 1995, 109 Stat. 505.)
 
 #### Amendments
 
@@ -50,7 +50,7 @@ Subsec. (g)(1)(D). Pub. L. 104–52, §631(a)(2), amended subpar. (D) generally.
 
 1994—Subsec. (a). Pub. L. 103–272, §4(g)(2)(A), substituted “section 40101(a) of title 49” for “section 1302 of title 49”.
 
-Subsec. (b). Pub. L. 103–272, §4(g)(2)(B), substituted “sections 40109(a) and (c)–(h) and 42112 of title 49” for“sections 1371(k) and 1386(b) of title 49”, “part A of subtitle VII of title 49” for “sections 1301–1542 of title 49”, and “chapters 411 and 413 of title 49” for “sections 1371–1386 of title 49”.
+Subsec. (b). Pub. L. 103–272, §4(g)(2)(B), substituted “sections 40109(a) and (c)–(h) and 42112 of title 49” for “sections 1371(k) and 1386(b) of title 49”, “part A of subtitle VII of title 49” for “sections 1301–1542 of title 49”, and “chapters 411 and 413 of title 49” for “sections 1371–1386 of title 49”.
 
 Subsec. (d). Pub. L. 103–272, §4(g)(2)(C), inserted “determine rates and” after “Service may” and struck out “and overseas” after “in interstate”.
 

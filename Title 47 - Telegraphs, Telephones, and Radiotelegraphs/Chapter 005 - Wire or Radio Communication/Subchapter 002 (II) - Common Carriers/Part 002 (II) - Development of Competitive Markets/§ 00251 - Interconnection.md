@@ -100,7 +100,7 @@ In addition to the duties contained in subsection (b) of this section, each incu
 
 #### (1) Commission authority and jurisdiction
 
-&emsp;The Commission shall create or designate one or more impartial entities to administertelecommunications numbering and to make such numbers available on an equitable basis. The Commission shall have exclusive jurisdiction over those portions of the North American Numbering Plan that pertain to the United States. Nothing in this paragraph shall preclude the Commission from delegating to State commissions or other entities all or any portion of such jurisdiction.
+&emsp;The Commission shall create or designate one or more impartial entities to administer telecommunications numbering and to make such numbers available on an equitable basis. The Commission shall have exclusive jurisdiction over those portions of the North American Numbering Plan that pertain to the United States. Nothing in this paragraph shall preclude the Commission from delegating to State commissions or other entities all or any portion of such jurisdiction.
 
 #### (2) Costs
 
@@ -150,7 +150,7 @@ On and after February 8, 1996, each local exchange carrier, to the extent that i
 
 #### (1) Definition
 
-&emsp;For purposes of this section, the term “incumbent local exchange carrier” means, withrespect to an area, the local exchange carrier that—
+&emsp;For purposes of this section, the term “incumbent local exchange carrier” means, with respect to an area, the local exchange carrier that—
 
 &emsp;&emsp;(A) on February 8, 1996, provided telephone exchange service in such area; and
 

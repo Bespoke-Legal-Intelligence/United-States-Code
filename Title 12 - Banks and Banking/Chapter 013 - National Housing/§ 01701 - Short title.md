@@ -8,6 +8,14 @@ This chapter may be cited as the “National Housing Act.”
 
 This chapter, referred to in text, was in the original “this Act”, meaning act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to this chapter (§1701 et seq.). For complete classification of this Act to the Code, see Tables.
 
+#### Short Title of 2000 Amendments
+
+Pub. L. 106–569, §1(a), Dec. 27, 2000, 114 Stat. 2944, provided that: “This Act \[see Tables for classification\] may be cited as the ‘American Homeownership and Economic Opportunity Act of 2000’.”
+
+Pub. L. 106–569, title VIII, §801, Dec. 27, 2000, 114 Stat. 3018, provided that: “This title \[amending sections 1701q and 1715z–1 of this title and sections 8013, 13631, and 13632 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section and sections 1701q and 1715z–1 of this title\] may be cited as the ‘Affordable Housing for Seniors and Families Act’.”
+
+Pub. L. 106–281, §1, Oct. 6, 2000, 114 Stat. 865, provided that: “This Act \[amending section 1709 of this title\] may be cited as the ‘FHA Downpayment Simplification Extension Act of 2000’.”
+
 #### Short Title of 1999 Amendment
 
 Pub. L. 106–74, title V, §501(a), Oct. 20, 1999, 113 Stat. 1100, provided that: “This title \[enacting section 1701q–2 of this title, amending sections 1701q, 1701q–2, 1715z–1, 1715z–1a, 1715z–11a, and 4113 of this title and sections 1437f and 8013 of Title 42, The Public Health and Welfare, enacting provisions set out as notes in sections 1701q and 1715z–1 of this title and section 12701 of Title 42, and amending provisions set out as a note under section 1437f of Title 42\] may be cited as the ‘Preserving Affordable Housing for Senior Citizens and Families into the 21st Century Act’.”
@@ -18,11 +26,15 @@ Pub. L. 105–65, title V, §510, Oct. 27, 1997, 111 Stat. 1385, provided that: 
 
 #### Short Title of 1996 Amendment
 
-Pub. L. 104–120, §1, Mar. 28, 1996, 110 Stat. 834, provided that: “This Act \[enacting section 1490p–2 of Title 42, The Public Health and Welfare, amending sections 1715z–20 and 1721 of this title and sections 1437d, 1437e, 1437n, 1479, 1485, 1490p–2, and 5308 of Title 42, enacting provisions set out as notes under section 4101 of this title and sections 1437d, 1437f, 5305, and 12805 of Title 42, and amending provisions set out as a note under section 1707 of this title\] may be cited as the ‘Housing Opportunity Program Extension Act of 1996’.”
+Pub. L. 104–120, §1, Mar. 28, 1996, 110 Stat. 834, provided that: “This Act \[enacting section 1490p–2 of Title42, The Public Health and Welfare, amending sections 1715z–20, 1715z–22, and 1721 of this title and sections 1437d, 1437e, 1437n, 1479, 1485, 1490p–2, and 5308 of Title 42, and enacting provisions set out as notes under section 4101 of this title and sections 1437d, 1437f, 5305, and 12805 of Title 42\] may be cited as the ‘Housing Opportunity Program Extension Act of 1996’.”
 
 #### Short Title of 1994 Amendment
 
 Pub. L. 103–233, §1(a), Apr. 11, 1994, 108 Stat. 342, provided that: “This Act \[enacting sections 1735f–19 and 1735f–20 of this title and sections 1437x, 3547, 5321, and 12840 of Title 42, The Public Health and Welfare, amending sections 1701z–11, 1713, 1715e, 1715k, 1715y, 1715z–1a, 1715z–3, and 1735c of this title and sections 1437a, 1437d, 1437f, 1437g, 1437<i>l</i>, 3535, 4852, 5301, 5304, 5305, 5308, 5318, 12704, 12744, 12745, 12750, 12833, 12838, and 12893 of Title 42, enacting provisions set out as notes under sections 1701z–11, 1715n, and 1715z–1a of this title and sections 5301 and 5318 of Title 42, amending provisions set out as notes under sections 1707 and 1715z–1a of this title and section 3545 of Title 42, and repealing provisions set out as a note under section 1701z–11 of this title\] may be cited as the ‘Multifamily Housing Property Disposition Reform Act of 1994’.”
+
+#### Short Title of 1992 Amendment
+
+Pub. L. 102–550, title V, §541, Oct. 28, 1992, 106 Stat. 3794, provided that: “This subtitle \[subtitle C (§§541–544) of title V of Pub. L. 102–550, enacting sections 1715z–22 and 1715z–22a of this title\] may be cited as the ‘Multifamily Housing Finance Improvement Act’.”
 
 #### Short Title of 1984 Amendment
 
@@ -82,7 +94,7 @@ Pub. L. 89–429, §1, May 24, 1966, 80 Stat. 164, provided: “That this act \[
 
 #### Short Title of 1965 Amendment
 
-Pub. L. 89–117, §1, Aug. 10, 1965, 79 Stat. 451, provided: “That this Act \[enacting sections 1701s and 1735c to 1735h, and subchapter IX–A of chapter 13 of this title, subchapter IV–A of chapter 14B of Title 15, Commerce and Trade, and sections 1421b, 1466 to 1468, 1500c–1, 1500c–2, 1500c–3, and 1487 to 1490, and chapters 36 and 37 of Title 42, The Public Health and Welfare, and provisions set out as notes under sections 1701d–3, 1701q, and 1749 of this title, section 462 of Title 40, Public Buildings, Property, and Works, and sections 1451, 1453, 1455, 1460, 1465, 1466, and 3074 of Title 42, amending sections 371, 1464, 1701q, 1701<i>o</i>, 1701h, 1702, 1703, 1706c, 1709, 1710, 1713, 1715, 1715c, 1715e, 1715h, 1715k, 1715<i>l</i>, 1715m, 1715n, 1715t, 1715v, 1715w, 1715x, 1715y, 1717, 1718, 1720, 1721, 1727, 1739, 1743, 1744, 1747f, 1747g, 1748b, 1748h, 1748h–1, 1748h–2, 1749, 1749c, 1750, 1750c, and 1750g of this title, sections 633 and 671 of Title 15, sections 802 and 803 of Title 20, Education, sections 1804 \[now 3704\] and 1816 \[now 3732\] of Title 38, Veterans’ Benefits, sections 461 and 462 of Title 40, sections 1402, 1410, 1412, 1415, 1421a, 1422, 1451, 1452, 1452b, 1453, 1455, 1456, 1460, 1463, 1465, 1471, 1472, 1476, 1481, 1482, 1483, 1485, 1492, 1500, 1500a, 1500b, 1500c, 1500d, and 1500e of Title 42, and sections 1605 and 1608 of Title 49, Transportation, and repealing sections 1715j, 1737, 1740, 1747i, 1748a, 1748c, 1750a and 1750d of this title\] may be cited as the ‘Housing and Urban Development Act of 1965’.”
+Pub. L. 89–117, §1, Aug. 10, 1965, 79 Stat. 451, provided: “That this Act \[enacting sections 1701s and 1735c to 1735h, and subchapter IX–A of chapter 13 of this title, subchapter IV–A of chapter 14B of Title 15, Commerce and Trade, and sections 1421b, 1466 to 1468, 1500c–1, 1500c–2, 1500c–3, and 1487 to 1490, and chapters 36 and 37 of Title 42, The Public Health and Welfare, and provisions set out as notes under sections 1701d–3, 1701q, and 1749 of this title, section 462 of Title 40, Public Buildings, Property, and Works, and sections 1451, 1453, 1455, 1460, 1465, 1466, and 3074 of Title 42, amending sections 371, 1464, 1701q, 1701<i>o</i>, 1701h, 1702, 1703, 1706c, 1709, 1710, 1713, 1715, 1715c, 1715e, 1715h, 1715k, 1715<i>l</i>, 1715m, 1715n, 1715t, 1715v, 1715w, 1715x, 1715y, 1717, 1718, 1720, 1721, 1727, 1739, 1743, 1744, 1747f, 1747g, 1748b, 1748h, 1748h–1, 1748h–2, 1749, 1749c, 1750, 1750c, and 1750g of this title, sections 633 and 671 of Title 15, sections 802 and 803 of Title 20,Education, sections 1804 \[now 3704\] and 1816 \[now 3732\] of Title 38, Veterans’ Benefits, sections 461 and 462 of Title 40, sections 1402, 1410, 1412, 1415, 1421a, 1422, 1451, 1452, 1452b, 1453, 1455, 1456, 1460, 1463, 1465, 1471, 1472, 1476, 1481, 1482, 1483, 1485, 1492, 1500, 1500a, 1500b, 1500c, 1500d, and 1500e of Title 42, and sections 1605 and 1608 of Title 49, Transportation, and repealing sections 1715j, 1737, 1740, 1747i, 1748a, 1748c, 1750a and 1750d of this title\] may be cited as the ‘Housing and Urban Development Act of 1965’.”
 
 #### Short Title of 1964 Amendment
 
@@ -106,7 +118,7 @@ Act Aug. 7, 1956, ch. 1029, §1, 70 Stat. 1091, provided: “That this Act \[ena
 
 #### Short Title of 1955 Amendment
 
-Act Aug. 11, 1955, ch. 783, §1, 69 Stat. 635, provided: “That this Act \[enacting section 1701d–2 of this title and sections 1491 to 1495 and 1594 to 1594e of Title 42, The Public Health and Welfare; amending sections 1426, 1427, 1437, 1464, 1703, 1710, 1713, 1715e, 1715h, 1715k, 1715<i>l</i>,1715n, 1715r, 1720, 1726, 1729, 1739, 1748 to 1748g, 1749, 1749c of this title; section 462 of Title 40, Public Buildings, Property, and Works; sections 1410, 1451, 1453, 1456, 1460, 1481 to 1483, 1585 and 1591c of Title 42; and sections 480, 480a, 721, 721a, 910, 910a, 1408, 1408b, and 1408c of Title 48, Territories and Insular Possessions; repealing sections 1748g–1 and 1748h of this title; and enacting provisions set out as notes under sections 1426, 1715e, and 1749 of this title; section 1594 of Title 42; and under sections 480 and 1408 of Title 48 may be cited as the ‘Housing Amendments of 1955’.”
+Act Aug. 11, 1955, ch. 783, §1, 69 Stat. 635, provided: “That this Act \[enacting section 1701d–2 of this title and sections 1491 to 1495 and 1594 to 1594e of Title 42, The Public Health and Welfare; amending sections 1426, 1427, 1437, 1464, 1703, 1710, 1713, 1715e, 1715h, 1715k, 1715<i>l</i>, 1715n, 1715r, 1720, 1726, 1729, 1739, 1748 to 1748g, 1749, 1749c of this title; section 462 of Title 40, Public Buildings, Property, and Works; sections 1410, 1451, 1453, 1456, 1460, 1481 to 1483, 1585 and 1591c of Title 42; and sections 480, 480a, 721, 721a, 910, 910a, 1408, 1408b, and 1408c of Title 48, Territories and Insular Possessions; repealing sections 1748g–1 and 1748h of this title; and enacting provisions set out as notes under sections 1426, 1715e, and 1749 of this title; section 1594 of Title 42; and under sections 480 and 1408 of Title 48 may be cited as the ‘Housing Amendments of 1955’.”
 
 Act Aug. 11, 1955, ch. 783, title III, §304, 69 Stat. 646, provided that the amendments to sections 1749 and 1749c of this title by act Aug. 11, 1955, may be cited as the “College Housing Amendments of 1955”.
 
@@ -132,6 +144,10 @@ Act Apr. 20, 1950, ch. 94, §1, 64 Stat. 48, provided that “This Act \[enactin
 
 Act Aug. 10, 1948, ch. 832, §1, 62 Stat. 1268, provided that: “This Act \[enacting sections 1701c, 1701e to 1701g–3, 1702, 1703, 1709, 1710, 1713, 1716, 1738, 1743 to 1746, and 1747 to 1747<i>l</i> of this title; section 846 of former Title 31, Money and Finance; section 694 of former Title 38, Pensions, Bonuses, and Veterans’ Relief; and section 1404a of Title 42, The Public Health and Welfare\] may be cited as the ‘Housing Act of 1948’.”
 
+#### Regulations
+
+Pub. L. 106–569, title VIII, §802, Dec. 27, 2000, 114 Stat. 3018, provided that: “The Secretary of Housing and Urban Development (referred to in this title as the ‘Secretary’) shall issue any regulations to carry out this title \[see section 801 of Pub. L. 106–569, set out as a Short Title of 2000 Amendment note above\] and the amendments made by this title that the Secretary determines may or will affect tenants of federally assisted housing only after notice and opportunity for public comment in accordance with the procedure under section 553 of title 5, United States Code, applicable to substantive rules (notwithstanding subsections (a)(2), (b)(B), and (d)(3) of such section). Notice of such proposed rulemaking shall be provided by publication in the Federal Register. In issuing such regulations, the Secretary shall take such actions as may be necessary to ensure that such tenants are notified of, and provided an opportunity to participate in, the rulemaking, as required by such section 553.”
+
 #### Preferences for Native Hawaiians on Hawaiian Home Lands Under HUD Programs
 
 Secretary of Housing and Urban Development to provide a preference to native Hawaiians for housing assistance programs under this chapter for housing located on Hawaiian home lands, see section 958 of Pub. L. 101–625, set out as a note under section 1437f of Title 42, The Public Health and Welfare.
@@ -139,8 +155,4 @@ Secretary of Housing and Urban Development to provide a preference to native Haw
 #### Limitation on Withholding or Conditioning of Assistance
 
 Assistance provided for in Housing and Community Development Act of 1974, National Housing Act, United States Housing Act of 1937, Housing Act of 1949, Demonstration Cities and Metropolitan Development Act of 1966, and Housing and Urban Development Acts of 1965, 1968, 1969, and 1970 not to be withheld or made subject to conditions by reason of tax-exempt status of obligations issued or to be issued for financing of assistance, except as otherwise provided by law, see section 817 of Pub. L. 93–383, set out as a note under section 5301 of Title 42, The Public Health and Welfare.
-
-#### Cross References
-
-Prepayment of mortgages insured under National Housing Act, see section 4101 et seq. of this title.
 

@@ -6,7 +6,7 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 #### (b) Prerequisite cost-sharing agreement
 
-(1) Funds may not be appropriated for the construction of any project authorized by sections 390h to 390h–15 of this title until after—
+(1) Funds may not be appropriated for the construction of any project authorized by sections 390h to 390h–16 of this title until after—
 
 &emsp;(A) an appraisal investigation and a feasibility study that complies with the provisions of sections 390h–1(b) or 390h–2(c) of this title, as the case may be, have been completed by the Secretary or the non-Federal project sponsor;
 
@@ -14,7 +14,7 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 &emsp;(C) the Secretary has approved a cost-sharing agreement with the non-Federal project sponsor which commits the non-Federal project sponsor to funding its proportionate share of the project's construction costs on an annual basis.
 
-(2) The requirements of paragraph (1) shall not apply to those projects authorized by sections 390h to 390h–15 of this title for which funds were appropriated prior to January 1, 1996.
+(2) The requirements of paragraph (1) shall not apply to those projects authorized by sections 390h to 390h–16 of this title for which funds were appropriated prior to January 1, 1996.
 
 #### (c) Congressional notification
 
@@ -22,9 +22,9 @@ The Secretary shall notify the Committees on Resources and Appropriations of the
 
 #### (d) Ceiling on Federal share
 
-(1) Notwithstanding any other provision of sections 390h to 390h–15 of this title and except as provided by paragraph (2), the Federal share of the costs of each of the individual projects authorized by sections 390h to 390h–15 of this title shall not exceed $20,000,000 (October 1996 prices).
+(1) Notwithstanding any other provision of sections 390h to 390h–16 of this title and except as provided by paragraph (2), the Federal share of the costs of each of the individual projects authorized by sections 390h to 390h–16 of this title shall not exceed $20,000,000 (October 1996 prices).
 
-(2) In the case of any project authorized by sections 390h to 390h–15 of this title for which construction funds were appropriated before January 1, 1996, the Federal share of the cost of such project may not exceed the amount specified as the “total Federal obligation” for that project in the budget justification made by the Bureau of Reclamation for fiscal year 1997, as contained in part 3 of the report of the hearing held on March 27, 1996, before the Subcommittee on Energy and Water Development of the Committee on Appropriations of the House of Representatives.
+(2) In the case of any project authorized by sections 390h to 390h–16 of this title for which construction funds were appropriated before January 1, 1996, the Federal share of the cost of such project may not exceed the amount specified as the “total Federal obligation” for that project in the budget justification made by the Bureau of Reclamation for fiscal year 1997, as contained in part 3 of the report of the hearing held on March 27, 1996, before the Subcommittee on Energy and Water Development of the Committee on Appropriations of the House of Representatives.
 
 (Pub. L. 102–575, title XVI, §1631, formerly §1615, Oct. 30, 1992, 106 Stat. 4668; renumbered §1631 and amended Pub. L. 104–266, §§2(a)(1), (b)(1), 7, Oct. 9, 1996, 110 Stat. 3290, 3294, 3296.)
 

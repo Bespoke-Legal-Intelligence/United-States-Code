@@ -82,7 +82,7 @@ Institutions included for certain purposes.—The term “insured depository ins
 
 &emsp;(4)
 
-Federal depository institution.—The term “Federal depository institution” meansany national bank, any Federal savings association, and any Federal branch.
+Federal depository institution.—The term “Federal depository institution” means any national bank, any Federal savings association, and any Federal branch.
 
 &emsp;(5)
 
@@ -194,7 +194,7 @@ Preferred deposits.—The term “preferred deposits” means deposits of any pu
 
 (n) The term “transferred deposit” means a deposit in a new bank or other insured depository institution made available to a depositor by the Corporation as payment of the insured deposit of such depositor in a closed bank, and assumed by such new bank or other insured depository institution.
 
-(<i>o</i>) The term “domestic branch” includes any branch bank, branch office, branch agency, additional office, or any branch place of business located in any State of the United States or in any Territory of the United States, Puerto Rico, Guam, American Samoa, the Trust Territory of the Pacific Islands, or the Virgin Islands at which deposits are received or checks paid or money lent. The term “domestic branch” does not include an automated teller machine or a remote service unit. The term “foreign branch” means any office or place of business located outside the United States, its territories, Puerto Rico, Guam, American Samoa, the Trust Territory of the Pacific Islands, or the Virgin Islands, at which banking operations are conducted.
+(<i>o</i>) The term “domestic branch” includes any branch bank, branch office, branch agency, additional office, or any branch place of business located in any State of the United States or in any Territory of the United States, Puerto Rico, Guam, American Samoa, the Trust Territory ofthe Pacific Islands, or the Virgin Islands at which deposits are received or checks paid or money lent. The term “domestic branch” does not include an automated teller machine or a remote service unit. The term “foreign branch” means any office or place of business located outside the United States, its territories, Puerto Rico, Guam, American Samoa, the Trust Territory of the Pacific Islands, or the Virgin Islands, at which banking operations are conducted.
 
 (p) The term “trust funds” means funds held by an insured depository institution in a fiduciary capacity and includes, without being limited to, funds held as trustee, executor, administrator, guardian, or agent.
 
@@ -356,28 +356,6 @@ Federal Banking Agency.—The term “Federal banking agency” means the Comptr
 
 (Sept. 21, 1950, ch. 967, §2\[3\], 64 Stat. 873; July 14, 1952, ch. 725, 66 Stat. 605; Aug. 1, 1956, ch. 852, §3, 70 Stat. 908; Pub. L. 86–671, §1, July 14, 1960, 74 Stat. 546; Pub. L. 89–695, title II, §201, title III, §§301(a), 303(a), Oct. 16, 1966, 80 Stat. 1046, 1055, 1056; Pub. L. 91–151, §7(a)(1), Dec. 23, 1969, 83 Stat. 375; Pub. L. 91–609, title IX, §910(a)–(f), Dec. 31, 1970, 84 Stat. 1811, 1812; Pub. L. 93–495, title I, §§101(a)(1), 102(a)(1), Oct. 28, 1974, 88 Stat. 1500, 1502; Pub. L. 95–369, §6(c)(2)–(6), Sept. 17, 1978, 92 Stat. 614, 615; Pub. L. 95–630, title III, §301(a), Nov. 10, 1978, 92 Stat. 3675; Pub. L. 96–221, title III, §308(a)(1)(A), Mar. 31, 1980, 94 Stat. 147; Pub. L. 97–110, title I, §§102, 103(a), Dec. 26, 1981, 95 Stat. 1513; Pub. L. 97–320, title I, §113(a), (b), title VII, §703(a), (b), Oct. 15, 1982, 96 Stat. 1473, 1538, 1539; Pub. L. 100–86, title I, §101(g)(1), title V, §503(b), Aug. 10, 1987, 101 Stat. 563, 632; Pub. L. 101–73, title II, §§201(a), 204, Aug. 9, 1989, 103 Stat. 187, 190; Pub. L. 102–242, title I, §§111(e), 112(b), 131(c)(3), 141(f), 161(c), title III, §§305(c), 311(b)(5)(A), Dec. 19, 1991, 105 Stat. 2242, 2266, 2278, 2286, 2355, 2366; Pub. L. 102–550, title XVI, §§1603(b)(2)(B), (d)(5), 1606(g)(2), Oct. 28, 1992, 106 Stat. 4079, 4080, 4089; Pub. L. 103–204, §19(b), Dec. 17, 1993, 107 Stat. 2404; Pub. L. 103–325, title III, §326(b)(2), title VI, §602(a)(1), Sept. 23, 1994, 108 Stat. 2229, 2288; Pub. L. 104–208, div. A, title II, §§2205(b), 2614(a), 2704(d)(6)(A), (14)(A), Sept. 30, 1996, 110 Stat. 3009–405, 3009–478, 3009–488, 3009–490.)
 
-#### Amendment of Section
-
-<i>Pub. L. 104–208, div. A, title II, §2704(c), (d)(6)(A), (14)(A), Sept. 30, 1996, 110 Stat. 3009–487, 3009–488, 3009–490, provided that, effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, this section is amended as follows:</i>
-
-<i>(1) In subsection (a)(1), by striking subparagraph (B) and inserting the following:</i>
-
-&emsp;&emsp;(B) includes any former savings association.
-
-<i>(2) By amending subsection (y) to read as follows:</i>
-
-(y) <i>DEFINITIONS RELATING TO DEPOSIT INSURANCE FUND.—</i>
-
-&emsp;(1) <i>DEPOSIT INSURANCE FUND</i>.—The term “Deposit Insurance Fund” means the fund established under section 1821(a)(4) of this title.
-
-&emsp;(2) <i>RESERVE RATIO</i>.—The term “reserve ratio” means the ratio of the net worth of the Deposit Insurance Fund to aggregate estimated insured deposits held in all insured depository institutions.
-
-&emsp;(3) <i>DESIGNATED RESERVE RATIO</i>.—The designated reserve ratio of the Deposit Insurance Fund for each year shall be—
-
-&emsp;&emsp;(A) 1.25 percent of estimated insured deposits; or
-
-&emsp;&emsp;(B) a higher percentage of estimated insured deposits that the Board of Directors determines to be justified for that year by circumstances raising a significant risk of substantial future losses to the fund.
-
 #### References in Text
 
 The Federal Reserve Act, referred to in subsec. (q)(2)(B), is act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, which is classified principally to chapter 3 (§221 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 226 of this title and Tables.
@@ -392,9 +370,13 @@ Section is derived from subsec. (c) of former section 264 of this title. See Cod
 
 #### Amendments
 
-1996—Subsec. (<i>l</i>)(5)(C). Pub. L. 104–208, §2614(a), added subpar. (C).
+1996—Subsec. (a)(1)(B). Pub. L. 104–208, §2704(d)(14)(A), which directed striking out subpar. (B) and adding a new subpar. (B), was not executed. See Effective Date of 1996 Amendment note below.
+
+Subsec. (<i>l</i>)(5)(C). Pub. L. 104–208, §2614(a), added subpar. (C).
 
 Subsec. (<i>o</i>). Pub. L. 104–208, §2205(b), substituted “lent. The term ‘domestic branch’ does not include an automated teller machine or a remote service unit. The” for “lent; and the”.
+
+Subsec. (y). Pub. L. 104–208, §2704(d)(6)(A), which directed the general amendment of subsec. (y), was not executed. See Effective Date of 1996 Amendment note below.
 
 1994—Subsec. (i)(1). Pub. L. 103–325, §602(a)(1)(A), substituted “section 1821(m) of this title” for “section 1821(h) of this title”.
 
@@ -534,7 +516,7 @@ Subsec. (q). Pub. L. 89–695, §201, added subsec. (q).
 
 1960—Subsec. (<i>l</i>). Pub. L. 86–671 amended subsec. (<i>l</i>) generally, and among other changes, inserted in par. (1) “or held”, “either conditionally or unconditionally”, “or a check or draft drawn against a deposit account and certified by the bank, or a letter of credit or a traveler's check on which the bank is primarily liable”, and inserted the proviso, added pars. (3) and (4), inserted provisions in par. (5) requiring the Board of Directors to consult with the Comptroller of the Currency and the Board of Governors of the Federal Reserve System, and struck out provisions which permitted mainland banks to exclude from deposit insurance the deposits of any of its branches in the Virgin Islands.
 
-1956—Subsec. (a). Act Aug. 1, 1956, §3(a), inserted “Guam,” after “Puerto Rico,” and substituted a comma for the period and inserted “and the word ‘State’ means any State of the United States, the District of Columbia, any Territory of the United States, Puerto Rico, Guam, or the Virgin Islands”.
+1956—Subsec. (a). Act Aug. 1, 1956, §3(a), inserted “Guam,” after “Puerto Rico,” and substituted acomma for the period and inserted “and the word ‘State’ means any State of the United States, the District of Columbia, any Territory of the United States, Puerto Rico, Guam, or the Virgin Islands”.
 
 Subsecs. (d), (e). Act Aug. 1, 1956, §3(b), inserted “Guam,” after “Puerto Rico,”.
 
@@ -554,7 +536,7 @@ Amendment by section 2704(d)(6)(A), (14)(A) of Pub. L. 104–208 effective Jan. 
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–550 effective as if included in the Federal Deposit Insurance Corporation Improvement Act of 1991, Pub. L. 102–242, as of Dec. 19, 1991, except that where amendment is to any provision of lawadded or amended by Pub. L. 102–242 effective after Dec. 19, 1992, then amendment by Pub. L. 102–550 effective on effective date of amendment by Pub. L. 102–242, see section 1609 of Pub. L. 102–550, set out as a note under section 191 of this title.
+Amendment by Pub. L. 102–550 effective as if included in the Federal Deposit Insurance Corporation Improvement Act of 1991, Pub. L. 102–242, as of Dec. 19, 1991, except that where amendment is to any provision of law added or amended by Pub. L. 102–242 effective after Dec. 19, 1992, then amendment by Pub. L. 102–550 effective on effective date of amendment by Pub. L. 102–242, see section 1609 of Pub. L. 102–550, set out as a note under section 191 of this title.
 
 #### Effective Date of 1991 Amendment
 
@@ -610,5 +592,5 @@ Section 206 of title II of Pub. L. 89–695 provided that: “Nothing contained 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 24, 24a, 30, 43, 93, 191, 248, 265, 347b, 371b–2, 375b, 461, 504, 505, 506, 1422, 1441, 1441a, 1462, 1462a, 1464, 1465, 1467, 1467a, 1735f–7a, 1759, 1785, 1786, 1786a, 1790d, 1815, 1817, 1820a, 1828, 1828a, 1828b, 1831q, 1831r, 1831w, 1832, 1834, 1834a, 1834b, 1835, 1835a, 1841, 1842, 1843, 1847, 1861, 1953, 1972, 2013, 2122, 2245, 2278a–3, 2278b–4, 2802, 2804, 2902, 2903, 2906, 2907, 3101, 3102, 3103, 3104, 3105, 3108, 3110, 3350, 3413, 3902, 3909, 4009, 4204, 4224, 4309, 4702, 4713, 4742, 4801, 4808, 4809, 4909 of this title; title 7 section 6f; title 10 sections 4357, 6975, 9356; title 11 sections 101, 109; title 15 sections 57a, 77c, 78c, 78<i>o</i>–5, 78q, 80a–2, 80a–17, 80a–26, 80a–34, 80b–10a, 1607, 1679a, 1681s, 1691c, 1692<i>l</i>, 1693<i>o</i>, 6701, 6716, 6805, 6809, 6825; title 18 sections 20, 656, 1004, 1005, 1906, 2113, 3059A; title 20 section 1085; title 22 section 5426; title 26 sections 42, 414; title 29 section 1134; title 31 sections 5312, 5321, 5326; title 42 sections 669a, 5318a, 9601.
+This section is referred to in sections 24, 24a, 30, 43, 93, 191, 248, 265, 347b, 371b–2, 375b, 461, 504, 505, 506, 1422, 1441, 1441a, 1462, 1462a, 1464, 1467, 1467a, 1735f–7a, 1759, 1785, 1786, 1786a, 1790d, 1815, 1817, 1820a, 1828, 1828a, 1828b, 1831q, 1831r, 1831w, 1832, 1834, 1834a, 1834b, 1835, 1835a, 1841, 1842, 1843, 1847, 1861, 1953, 1972, 2013, 2122, 2245, 2278a–3, 2278b–4, 2802, 2804, 2902, 2903, 2906, 2907, 3101, 3102, 3103, 3104, 3105, 3108, 3110, 3350, 3413, 3902, 3909, 4009, 4204, 4224, 4309, 4702, 4713, 4742, 4801, 4805a, 4808, 4809, 4909 of this title; title 7 sections 1a, 6f, 27; title 10 sections 4357, 6975, 9356; title 11 sections 101, 109, 781; title 15 sections 57a, 77c, 78c, 78<i>o</i>–5, 78q, 80a–2, 80a–17, 80a–26, 80a–34, 80b–10a, 1607, 1679a, 1681s, 1691c, 1692<i>l</i>, 1693<i>o</i>, 6701, 6716, 6805, 6809, 6825; title 18 sections 20, 656, 1004, 1005, 1906, 2113, 3059A; title 20 section 1085; title 22 section 5426;title 26 sections 42, 414; title 29 section 1134; title 31 sections 5312, 5321, 5326; title 42 sections 669a, 5318a, 9601.
 

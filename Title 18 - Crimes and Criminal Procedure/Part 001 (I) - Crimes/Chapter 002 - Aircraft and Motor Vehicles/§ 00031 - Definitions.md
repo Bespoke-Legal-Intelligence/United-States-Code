@@ -1,22 +1,78 @@
 ### §31. Definitions
 
-When used in this chapter the term—
+(a)
 
-“Aircraft engine”, “air navigation facility”, “appliance”, “civil aircraft”, “foreign air commerce”, “interstate air commerce”, “landing area”, “overseas air commerce”, “propeller”, “spare part” and “special aircraft jurisdiction of the United States” shall have the meaning ascribed to those terms in sections 40102(a) and 46501 of title 49.
+Definitions.—In this chapter, the following definitions apply:
 
-“Motor vehicle” means every description of carriage or other contrivance propelled or drawn by mechanical power and used for commercial purposes on the highways in the transportation of passengers, passengers and property, or property or cargo;
+&emsp;(1)
 
-“Destructive substance” means any explosive substance, flammable material, infernal machine, or other chemical, mechanical, or radioactive device or matter of a combustible, contaminative, corrosive, or explosive nature;
+Aircraft.—The term “aircraft” means a civil, military, or public contrivance invented, used, or designed to navigate, fly, or travel in the air.
 
-“Used for commercial purposes” means the carriage of persons or property for any fare, fee, rate, charge or other consideration, or directly or indirectly in connection with any business, or other undertaking intended for profit;
+&emsp;(2)
 
-“In flight” means any time from the moment all the external doors of an aircraft are closed following embarkation until the moment when any such door is opened for disembarkation. In the case of a forced landing the flight shall be deemed to continue until competent authorities take over the responsibility for the aircraft and the persons and property on board; and
+Aviation quality.—The term “aviation quality”, with respect to a part of an aircraft or space vehicle, means the quality of having been manufactured, constructed, produced, maintained, repaired, overhauled, rebuilt, reconditioned, or restored in conformity with applicable standards specified by law (including applicable regulations).
 
-“In service” means any time from the beginning of preflight preparation of the aircraft by ground personnel or by the crew for a specific flight until twenty-four hours after any landing; the period of service shall, in any event, extend for the entire period during which the aircraft is in flight.
+&emsp;(3)
 
-(Added July 14, 1956, ch. 595, §1, 70 Stat. 538; amended Pub. L. 98–473, title II, §§1010, 2013(a), Oct. 12, 1984, 98 Stat. 2141, 2187; Pub. L. 100–690, title VII, §7015, Nov. 18, 1988, 102 Stat. 4395; Pub. L. 103–272, §5(e)(1), July 5, 1994, 108 Stat. 1373.)
+Destructive substance.—The term “destructive substance” means an explosive substance, flammable material, infernal machine, or other chemical, mechanical, or radioactive device or matter of a combustible, contaminative, corrosive, or explosive nature.
+
+&emsp;(4)
+
+In flight.—The term “in flight” means—
+
+&emsp;&emsp;(A) any time from the moment at which all the external doors of an aircraft are closed following embarkation until the moment when any such door is opened for disembarkation; and
+
+&emsp;&emsp;(B) in the case of a forced landing, until competent authorities take over the responsibility for the aircraft and the persons and property on board.
+
+&emsp;(5)
+
+In service.—The term “in service” means—
+
+&emsp;&emsp;(A) any time from the beginning of preflight preparation of an aircraft by ground personnel or by the crew for a specific flight until 24 hours after any landing; and
+
+&emsp;&emsp;(B) in any event includes the entire period during which the aircraft is in flight.
+
+&emsp;(6)
+
+Motor vehicle.—The term “motor vehicle” means every description of carriage or other contrivance propelled or drawn by mechanical power and used for commercial purposes on the highways in the transportation of passengers, passengers and property, or property or cargo.
+
+&emsp;(7)
+
+Part.—The term “part” means a frame, assembly, component, appliance, engine, propeller, material, part, spare part, piece, section, or related integral or auxiliary equipment.
+
+&emsp;(8)
+
+Space vehicle.—The term “space vehicle” means a man-made device, either manned or unmanned, designed for operation beyond the Earth's atmosphere.
+
+&emsp;(9)
+
+State.—The term “State” means a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
+
+&emsp;(10)
+
+Used for commercial purposes.—The term “used for commercial purposes” means the carriage of persons or property for any fare, fee, rate, charge or other consideration, or directly or indirectly in connection with any business, or other undertaking intended for profit.
+
+(b)
+
+Terms Defined in Other Law.—In this chapter, the terms “aircraft engine”, “air navigation facility”, “appliance”, “civil aircraft”, “foreign air commerce”, “interstate air commerce”, “landing area”, “overseas air commerce”, “propeller”, “spare part”, and “special aircraft jurisdiction of the United States” have the meanings given those terms in sections 40102(a) and 46501 of title 49.
+
+(Added July 14, 1956, ch. 595, §1, 70 Stat. 538; amended Pub. L. 98–473, title II, §§1010, 2013(a), Oct. 12, 1984, 98 Stat. 2141, 2187; Pub. L. 100–690, title VII, §7015, Nov. 18, 1988, 102 Stat. 4395; Pub. L. 103–272, §5(e)(1), July 5, 1994, 108 Stat. 1373; Pub. L. 106–181, title V, §506(b), Apr. 5, 2000, 114 Stat. 136.)
 
 #### Amendments
+
+2000—Pub. L. 106–181 added subsecs. (a) and (b) and struck out former text which read as follows: “When used in this chapter the term—
+
+“ ‘Aircraft engine’, ‘air navigation facility’, ‘appliance’, ‘civil aircraft’, ‘foreign air commerce’, ‘interstate air commerce’, ‘landing area’, ‘overseas air commerce’, ‘propeller’, ‘spare part’ and ‘special aircraft jurisdiction of the United States’ shall have the meaning ascribed to those terms in sections 40102(a) and 46501 of title 49.
+
+“ ‘Motor vehicle’ means every description of carriage or other contrivance propelled or drawn by mechanical power and used for commercial purposes on the highways in the transportation of passengers, passengers and property, or property or cargo;
+
+“ ‘Destructive substance’ means any explosive substance, flammable material, infernal machine, or other chemical, mechanical, or radioactive device or matter of a combustible, contaminative, corrosive, or explosive nature;
+
+“ ‘Used for commercial purposes’ means the carriage of persons or property for any fare, fee, rate, charge or other consideration, or directly or indirectly in connection with any business, or other undertaking intended for profit;
+
+“ ‘In flight’ means any time from the moment all the external doors of an aircraft are closed following embarkation until the moment when any such door isopened for disembarkation. In the case of a forced landing the flight shall be deemed to continue until competent authorities take over the responsibility for the aircraft and the persons and property on board; and
+
+“ ‘In service’ means any time from the beginning of preflight preparation of the aircraft by ground personnel or by the crew for a specific flight until twenty-four hours after any landing; the period of service shall, in any event, extend for the entire period during which the aircraft is in flight.”
 
 1994—Pub. L. 103–272 substituted “sections 40102(a) and 46501 of title 49” for “the Federal Aviation Act of 1958, as amended” in par. beginning with definition of “Aircraft engine”.
 
@@ -28,13 +84,21 @@ Pub. L. 98–473, §1010, substituted “passengers and property, or property or
 
 Pub. L. 98–473, §2013(a)(2)–(4), inserted definitions of “in flight” and “in service”.
 
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of Title 49, Transportation.
+
 #### Effective Date of 1984 Amendment
 
 Section 2015 of part B (§§2011–2015) of chapter XX of title II of Pub. L. 98–473 provided that: “This part \[see Short Title of 1984 Amendment note below\] shall become effective on the date of the enactment of this joint resolution \[Oct. 12, 1984\].”
 
+#### Short Title of 2000 Amendment
+
+Pub. L. 106–181, title V, §506(a), Apr. 5, 2000, 114 Stat. 136, provided that: “This section \[enacting section 38 of this title and amending this section and section 2516 of this title\] may be cited as the ‘Aircraft Safety Act of 2000’.”
+
 #### Short Title of 1984 Amendment
 
-Section 2011 of part B (§§2011–2015) of chapter XX of title II of Pub. L. 98–473 provided that: “This part\[amending this section, section 32 of this title, and sections 1301, 1471, and 1472 of former Title 49, Transportation, and enacting provisions set out as notes under this section\] may be cited as the ‘Aircraft Sabotage Act’.”
+Section 2011 of part B (§§2011–2015) of chapter XX of title II of Pub. L. 98–473 provided that: “This part \[amending this section, section 32 of this title, and sections 1301, 1471, and 1472 of former Title 49, Transportation, and enacting provisions set out as notes under this section\] may be cited as the ‘Aircraft Sabotage Act’.”
 
 #### Statement of Findings and Purpose for 1984 Amendment
 

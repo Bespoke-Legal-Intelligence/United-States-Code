@@ -20,13 +20,15 @@ The Commission, in its discretion, may order a stay of any action taken pursuant
 
 #### (e) Major disciplinary rule violations
 
-(1) The Commission shall issue regulations requiring each contract market to establish and make available to the public a schedule of major violations of any rule within the disciplinary jurisdiction of such contract market.
+(1) The Commission shall issue regulations requiring each registered entity to establish and make available to the public a schedule of major violations of any rule within the disciplinary jurisdiction of such registered entity.
 
-(2) The regulations issued by the Commission pursuant to this subsection shall prohibit, for a period of time to be determined by the Commission, any individual who is found to have committed any major violation from service on the governing board of any contract market or registered futures association, or on any disciplinary committee thereof.
+(2) The regulations issued by the Commission pursuant to this subsection shall prohibit, for a period of time to be determined by the Commission, any individual who is found to have committed any major violation from service on the governing board of any registered entity or registered futures association, or on any disciplinary committee thereof.
 
-(Sept. 21, 1922, ch. 369, §8c, as added Pub. L. 93–463, title II, §216, Oct. 23, 1974, 88 Stat. 1405; amended Pub. L. 95–405, §18, Sept. 30, 1978, 92 Stat. 874; Pub. L. 102–546, title II, §206(a)(2), Oct. 28, 1992, 106 Stat. 3602.)
+(Sept. 21, 1922, ch. 369, §8c, as added Pub. L. 93–463, title II, §216, Oct. 23, 1974, 88 Stat. 1405; amended Pub. L. 95–405, §18, Sept. 30, 1978, 92 Stat. 874; Pub. L. 102–546, title II, §206(a)(2), Oct. 28, 1992, 106 Stat. 3602; Pub. L. 106–554, §1(a)(5) \[title I, §123(a)(20)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–410.)
 
 #### Amendments
+
+2000—Subsec. (e). Pub. L. 106–554 substituted “registered entity” for “contract market” wherever appearing.
 
 1992—Pub. L. 102–546 redesignated pars. (1) to (4) as subsecs. (a) to (d), respectively, in subsec. (a) redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, in subsec. (c) substituted references to subsection (b) for references to paragraph (2), in subsec. (d) substituted reference to subsection (a) for reference to paragraph (1), and added subsec. (e).
 

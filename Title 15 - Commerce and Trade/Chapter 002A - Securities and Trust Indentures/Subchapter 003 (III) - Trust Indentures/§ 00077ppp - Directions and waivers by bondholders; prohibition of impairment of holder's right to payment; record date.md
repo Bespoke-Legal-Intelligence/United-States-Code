@@ -28,12 +28,6 @@ Subsec. (b). Pub. L. 101–550, §415(5), which directed the substitution of “
 
 Subsec. (c). Pub. L. 101–550, §415(6), added subsec. (c).
 
-#### Cross References
-
-Effect of prescribed indenture provisions, see section 77rrr of this title.
-
-Refusal order when indenture does not conform to requirements of this section, see section 77eee of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 77jjj, 77<i>ooo</i>, 77rrr of this title.

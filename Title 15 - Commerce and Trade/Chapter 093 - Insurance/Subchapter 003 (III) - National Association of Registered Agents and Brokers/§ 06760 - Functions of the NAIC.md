@@ -12,7 +12,7 @@ Determinations of the NAIC, for purposes of making rules pursuant to section 675
 
 #### (2) Report by Association
 
-&emsp;As soon as practicable after the close of each fiscal year, the Association shall submit to the NAIC a written report regarding the conduct of its business, and the exercise of the other rights and powers granted by this subchapter, during such fiscal year. Such report shall include financial statements setting forth the financial position of the Association at the end of such fiscal year and the results of its operations (including the source and application of its funds) for such fiscal year. The NAIC shall transmit such report to the President and the Congress with such comment thereon as the NAIC determines to be appropriate.
+&emsp;As soon as practicable after the close of each fiscal year, the Association shall submit to the NAIC a written report regarding the conduct of its business, and the exercise of the other rights and powers granted by this subchapter, during such fiscal year. Such report shall include financial statements setting forth the financial position of the Associationat the end of such fiscal year and the results of its operations (including the source and application of its funds) for such fiscal year. The NAIC shall transmit such report to the President and the Congress with such comment thereon as the NAIC determines to be appropriate.
 
 (Pub. L. 106–102, title III, §330, Nov. 12, 1999, 113 Stat. 1430.)
 

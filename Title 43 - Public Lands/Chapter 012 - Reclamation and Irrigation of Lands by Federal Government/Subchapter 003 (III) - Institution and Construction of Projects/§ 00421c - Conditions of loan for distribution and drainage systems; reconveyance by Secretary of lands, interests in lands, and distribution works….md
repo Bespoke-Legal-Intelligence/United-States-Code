@@ -6,7 +6,7 @@ The Secretary shall require, as conditions to any such loan, that the borrower c
 
 #### Codification
 
-“Section 8124 of title 38” substituted in text (see 1991 Amendment note below) for “section 5024 of title 38”, which previously had been substituted for “section 5014 of title 38” as the probable intent of Congress in view of the renumbering of section 5014 of title 38 as section 5024 by Pub. L. 96–22, title III, §301(b)(1), June 13, 1979, 93 Stat. 61. Previously, “section 5014 of title 38” had been substituted for “section 11i of title 38” on authority of Pub. L. 85–857, §5(a), Sept. 2, 1958, 72 Stat. 1281, the first section of which enacted Title 38, Veterans’ Benefits.
+“Section 8124 of title 38” substituted in text (see 1991 Amendment note below) for “section 5024 of title 38”, which previously had been substituted for “section 5014 of title 38” as the probable intent of Congress in view of the renumbering of section 5014 of title 38 as section5024 by Pub. L. 96–22, title III, §301(b)(1), June 13, 1979, 93 Stat. 61. Previously, “section 5014 of title 38” had been substituted for “section 11i of title 38” on authority of Pub. L. 85–857, §5(a), Sept. 2, 1958, 72 Stat. 1281, the first section of which enacted Title 38, Veterans’ Benefits.
 
 #### Amendments
 

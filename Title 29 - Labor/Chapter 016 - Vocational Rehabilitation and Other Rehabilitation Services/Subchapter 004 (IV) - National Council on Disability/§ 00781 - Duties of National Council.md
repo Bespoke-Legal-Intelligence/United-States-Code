@@ -14,7 +14,7 @@ The National Council shall—
 
 &emsp;(5) review and evaluate on a continuing basis—
 
-&emsp;&emsp;(A) policies, programs, practices, and procedures concerning individuals with disabilities conducted or assisted by Federal departments and agencies, including programs established or assisted under this chapter or under the Developmental Disabilities Assistance and Bill of Rights Act \[42 U.S.C. 6000 et seq.\]; and
+&emsp;&emsp;(A) policies, programs, practices, and procedures concerning individuals with disabilities conducted or assisted by Federal departments and agencies, including programs established or assisted under this chapter or under the Developmental Disabilities Assistance and Bill of Rights Act of 2000 \[42 U.S.C. 15001 et seq.\]; and
 
 &emsp;&emsp;(B) all statutes and regulations pertaining to Federal programs which assist such individuals with disabilities;
 
@@ -46,11 +46,11 @@ The National Council shall—
 
 (3) The Council shall submit the report, along with such recommendations as the Council determines to be appropriate, to the Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives.
 
-(Pub. L. 93–112, title IV, §401, as added Pub. L. 105–220, title IV, §407, Aug. 7, 1998, 112 Stat. 1199; amended Pub. L. 105–394, title II, §202, Nov. 13, 1998, 112 Stat. 3653.)
+(Pub. L. 93–112, title IV, §401, as added Pub. L. 105–220, title IV, §407, Aug. 7, 1998, 112 Stat. 1199; amended Pub. L. 105–394, title II, §202, Nov. 13, 1998, 112 Stat. 3653; Pub. L. 106–402, title IV, §401(b)(3)(B), Oct. 30, 2000, 114 Stat. 1737.)
 
 #### References in Text
 
-The Developmental Disabilities Assistance and Bill of Rights Act, referred to in subsec. (a)(5)(A), is title I of Pub. L. 88–164, as added by Pub. L. 98–527, §2, Oct. 19, 1984, 98 Stat. 2662, and amended, which is classified generally to chapter 75 (§6000 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6000 of Title 42 and Tables.
+The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsec. (a)(5)(A), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677, which is classified principally to chapter 144 (§15001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of Title 42 and Tables.
 
 The Americans with Disabilities Act of 1990, referred to in subsec. (a)(7), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
@@ -62,5 +62,11 @@ Another prior section 781, Pub. L. 93–112, title IV, §401, Sept. 26, 1973, 87
 
 #### Amendments
 
+2000—Subsec. (a)(5)(A). Pub. L. 106–402, which directed substitution of “Developmental Disabilities Assistance and Bill of Rights Act of 2000” for “Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6000 et seq.)”, was executed by making the substitution for “Developmental Disabilities Assistance and Bill of Rights Act” to reflect the probable intent of Congress.
+
 1998—Subsec. (c). Pub. L. 105–394 added subsec. (c).
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report to Congress required under subsec. (b) of this section is listed on page 182), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 

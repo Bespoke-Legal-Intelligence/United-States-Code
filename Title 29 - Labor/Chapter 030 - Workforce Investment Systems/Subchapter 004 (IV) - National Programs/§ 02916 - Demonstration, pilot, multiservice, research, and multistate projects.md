@@ -136,7 +136,7 @@
 
 #### (D) Priority
 
-&emsp;&emsp;In awarding grants or contracts under this subsection, priority shall be provided to entities with nationally recognized expertise in the methods, techniques, and knowledge of workforce investment activities and shall include appropriate time limits, establishedby the Secretary, for the duration of such projects.
+&emsp;&emsp;In awarding grants or contracts under this subsection, priority shall be provided to entities with nationally recognized expertise in the methods, techniques, and knowledge of workforce investment activities and shall include appropriate time limits, established by the Secretary, for the duration of such projects.
 
 #### (d) Dislocated worker projects
 
@@ -150,23 +150,9 @@ Of the amount made available pursuant to section 2862(a)(2)(A) of this title for
 
 #### Demonstration Programs and Projects To Provide Technical Skills Training for Workers
 
-Pub. L. 105–277, div. C, title IV, §414(c), Oct. 21, 1998, 112 Stat. 2681–653, provided that:
-
-“(1)
-
-In general.—In establishing demonstration programs under section 452(c) of the Job Training Partnership Act (29 U.S.C. 1732(c)), as in effect on the date of the enactment of this Act \[Oct. 21, 1998\], or demonstration programs or projects under section 171(b) of the Workforce Investment Act of 1998 \[29 U.S.C. 2916(b)\], the Secretary of Labor shall use funds available under section 286(s)(2) \[probably means section 286(s)(2) of the Immigration and Nationality Act which is classified to section 1356(s)(2) of Title 8, Aliens and Nationality\] to establish demonstration programs or projects to provide technical skills training for workers, including both employed and unemployed workers.
-
-“(2)
-
-Grants.—The Secretary of Labor shall award grants to carry out the programs and projects described in paragraph (1) to—
-
-&emsp;“(A)(i) private industry councils established under section 102 of the Job Training Partnership Act (29 U.S.C. 1512), as in effect on the date of the enactment of this Act \[Oct. 21, 1998\]; or
-
-&emsp;“(ii) local boards that will carry out such programs or projects through one-stop delivery systems established under section 121 of the Workforce Investment Act of 1998 \[29 U.S.C. 2841\]; or
-
-&emsp;“(B) regional consortia of councils or local boards described in subparagraph (A).”
+Pub. L. 105–277, div. C, title IV, §414(c), Oct. 21, 1998, 112 Stat. 2681–653, as amended, formerly set out as a note under this section, was transferred and is classified to section 2916a of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2862, 2917, 2919, 2939 of this title.
+This section is referred to in sections 2862, 2916a, 2917, 2919, 2939 of this title.
 

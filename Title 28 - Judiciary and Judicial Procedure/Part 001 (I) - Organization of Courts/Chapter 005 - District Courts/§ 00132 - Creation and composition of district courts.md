@@ -20,21 +20,9 @@ Other portions of section 1 of title 28, U.S.C., 1940 ed., are incorporated in s
 
 #### Amendments
 
-1963—Subsec. (b). Pub. L. 88–176 inserted “regular” before “active service”.
+<b>1963</b>—Subsec. (b). Pub. L. 88–176 inserted “regular” before “active service”.
 
 #### Continuation of Organization of Court
 
 Section 2(b) of act June 25, 1948, provided in part that the provisions of this title as set out in section 1 of act June 25, 1948, with respect to the organization of the court, shall be construed as a continuation of existing law, and the tenure of the judges, officers, and employees thereof and of the United States attorneys and marshals and their deputies and assistants, in office on Sept. 1, 1948, shall not be affected by its enactment, but each of them shall continue to serve in the same capacity under the appropriate provisions of this title pursuant to his prior appointment.
-
-#### Cross References
-
-Guam and Virgin Islands district courts, see sections 1424, 1424b and 1611 et seq. of Title 48, Territories and Insular Possessions.
-
-Assignment of district judges to other districts or courts, see section 292 et seq. of this title.
-
-Authority to create courts inferior to Supreme Court, see Const., Art. 3, §1.
-
-Jurisdiction and venue of district courts, see sections 1331 et seq. and 1391 et seq. of this title.
-
-Three-judge courts, composition and procedure, see section 2284 of this title.
 

@@ -30,9 +30,17 @@ Subsec. (a). Pub. L. 92–128, §1(a), added subsec. (a).
 
 Subsec. (b). Pub. L. 92–128, §1(a), designated existing first and second pars. as pars. (1) and (2) of subsec. (b).
 
+#### Short Title of 2000 Amendment
+
+Pub. L. 106–294, §1, Oct. 12, 2000, 114 Stat. 1038, provided that: “This Act \[enacting section 4048 of this title and amending section 4013 of this title\] may be cited as the ‘Federal Prisoner Health Care Copayment Act of 2000’.”
+
 #### Short Title of 1998 Amendment
 
 Pub. L. 105–370, §1, Nov. 12, 1998, 112 Stat. 3374, provided that: “This Act \[enacting section 4014 of this title and provisions set out as a note under section 4042 of this title\] may be cited as the ‘Correction Officers Health and Safety Act of 1998’.”
+
+#### Placement of Certain Persons in Privately Operated Prisons
+
+Pub. L. 106–553, §1(a)(2) \[title I, §114, formerly §115\], Dec. 21, 2000, 114 Stat. 2762, 2762A–68; renumbered §114, Pub. L. 106–554, §1(a)(4) \[div. A, §213(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–179, provided that: “Beginning in fiscal year 2001 and thereafter, funds appropriated to the Federal Prison System may be used to place in privately operated prisons only such persons sentenced to incarceration under the District of Columbia Code as the Director, Bureau of Prisons, may determine to be appropriate for such placement consistent with Federal classification standards, after consideration of all relevant factors, including the threat of danger to public safety.”
 
 #### Fee To Recover Cost of Incarceration
 
@@ -46,7 +54,7 @@ Pub. L. 102–395, title I, §111(a), Oct. 6, 1992, 106 Stat. 1842, provided tha
 
 “(4) The Attorney General shall not collect such fee from any person with respect to whom a fine was imposed or waived by a judge of a United States District Court pursuant to section 5E1.2(f) and (i) of the United States Sentencing Guidelines, or any successor provisions.
 
-“(5) In cases in which the Attorney General has authority to collect the fee, the Attorney General shallhave discretion to waive the fee or impose a lesser fee if the person under confinement establishes that (1) he or she is not able and, even with the use of a reasonable installment schedule, is not likely to become able to pay all or part of the fee, or (2) imposition of a fine would unduly burden the defendant's dependents.
+“(5) In cases in which the Attorney General has authority to collect the fee, the Attorney General shall have discretion to waive the fee or impose a lesser fee if the person under confinement establishes that (1) he or she is not able and, even with the use of a reasonable installment schedule, is not likely to become able to pay all or part of the fee, or (2) imposition of a fine would unduly burden the defendant's dependents.
 
 “(6) For fiscal year 1993 only, fees collected in accordance with this section shall be deposited as offsetting receipts to the Treasury.
 

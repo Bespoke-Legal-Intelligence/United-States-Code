@@ -12,7 +12,7 @@
 
 #### (3) Special rule
 
-&emsp;(A) An application for a grant under subsection (a) of this section from an applicant who proposes to conduct a master's- or doctoral-level program with funds received under this section shall provide an assurance that such program will include, as a part of the program, a training practicum in a local school program serving children and youth of limited-English proficiency.
+&emsp;(A) An application for a grant under subsection (a) of this section from an applicant who proposes to conduct a master's- or doctoral-level program with funds received under this section shall provide an assurance thatsuch program will include, as a part of the program, a training practicum in a local school program serving children and youth of limited-English proficiency.
 
 &emsp;(B) A recipient of a grant under subsection (a) of this section may waive the requirement of a training practicum for a degree candidate with significant experience in a local school program serving children and youth of limited-English proficiency.
 

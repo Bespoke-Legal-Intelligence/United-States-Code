@@ -40,7 +40,7 @@ Section 135(a)(3) of Pub. L. 102–138 provided that: “The amendments made by 
 
 #### Effective Date of 1985 Amendment
 
-Amendment by Pub. L. 99–93 effective Oct. 1, 1985, see section 126(e) of Pub. L. 99–93, set out as an Effective Date note under section 4314 of Title 22, Foreign Relations and Intercourse.
+Amendment by Pub. L. 99–93 effective Oct. 1, 1985, see section 126(e) of Pub. L. 99–93, set out as an EffectiveDate note under section 4314 of Title 22, Foreign Relations and Intercourse.
 
 #### Effective Date of 1983 Amendment
 

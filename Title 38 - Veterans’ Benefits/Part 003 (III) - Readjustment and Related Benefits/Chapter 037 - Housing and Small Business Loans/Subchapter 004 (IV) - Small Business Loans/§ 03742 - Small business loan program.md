@@ -12,7 +12,7 @@
 
 (b) The availability of financial assistance under subsection (a) of this section is subject to the following limitations:
 
-&emsp;(1) The Secretary may not make a direct loan under this section unless the veterans’small business concern applying for the loan shows to the satisfaction of the Secretary that the concern is unable to obtain a loan guaranteed by the Department under this section or made or guaranteed by the Small Business Administration.
+&emsp;(1) The Secretary may not make a direct loan under this section unless the veterans’ small business concern applying for the loan shows to the satisfaction of the Secretary that the concern is unable to obtain a loan guaranteed by the Department under this section or made or guaranteed by the Small Business Administration.
 
 &emsp;(2) The Secretary may not guarantee a loan under this section if the loan bears a rate of interest in excess of the maximum rate of interest prescribed under section 3745 of this title.
 
@@ -20,7 +20,7 @@
 
 &emsp;(4) The original liability of the Secretary on any loan guaranteed under this section may not exceed 90 percent of the amount of the loan, and such liability shall decrease or increase pro rata with any decrease or increase of the amount of the unpaid portion of the loan, but such liability may not exceed the amount of the original guaranty.
 
-(c) Each loan made or guaranteed under this subchapter shall be of such sound value, taking into account the creditworthiness of the veterans’ small business concern (and the individual owners) applying for such loan, or so secured as reasonably to assure payment.
+(c) Each loan made or guaranteed under this subchapter shall be of such sound value, takinginto account the creditworthiness of the veterans’ small business concern (and the individual owners) applying for such loan, or so secured as reasonably to assure payment.
 
 (d)(1) Except as provided in paragraph (2) of this subsection, the Secretary may not make or guarantee a loan under this subchapter to a veterans’ small business concern in which an ownership interest is held by a veteran who also has an ownership interest in another small business concern if such ownership interest was considered in qualifying that other concern for an outstanding loan made or guaranteed under this subchapter or the Small Business Act (15 U.S.C. 631 et seq.).
 

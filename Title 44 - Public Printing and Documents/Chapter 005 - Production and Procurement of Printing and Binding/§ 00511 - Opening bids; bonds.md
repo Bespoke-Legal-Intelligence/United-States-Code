@@ -1,6 +1,6 @@
 ### §511. Opening bids; bonds
 
-The sealed proposals to furnish paper and envelopes shall be opened in the presence of the Joint Committee on Printing who shall award the contracts to the lowest and best bidder for the interest of the Government. The committee <sup>1</sup> may not consider a proposal that is not accompanied by a bond with security or certified check in the amount of $5,000, guaranteeing that the bidder if his proposal is accepted, will enter into a formal contract with the United States to furnish the paper or envelopes specified. The Committee may not consider a proposal from a person unknown to it unless accompanied by satisfactory evidence that he is a manufacturer of or dealer in the description of paper or envelopes proposed to be furnished.
+The sealed proposals to furnish paper and envelopes shall be opened in the presence of theJoint Committee on Printing who shall award the contracts to the lowest and best bidder for the interest of the Government. The committee <sup>1</sup> may not consider a proposal that is not accompanied by a bond with security or certified check in the amount of $5,000, guaranteeing that the bidder if his proposal is accepted, will enter into a formal contract with the United States to furnish the paper or envelopes specified. The Committee may not consider a proposal from a person unknown to it unless accompanied by satisfactory evidence that he is a manufacturer of or dealer in the description of paper or envelopes proposed to be furnished.
 
 (Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1244.)
 

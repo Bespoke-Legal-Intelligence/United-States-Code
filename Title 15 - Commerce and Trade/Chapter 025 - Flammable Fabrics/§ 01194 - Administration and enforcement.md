@@ -10,7 +10,7 @@ The Commission is authorized and directed to prevent any person from violating t
 
 #### (c) Rules and regulations
 
-The Commission is authorized and directed to prescribe such rules and regulations, including provisions for maintenance of records relating to fabrics, related materials, and products, as may be necessary and proper for administration and enforcement of this chapter. The violationof such rules and regulations shall be unlawful and shall be an unfair method of competition and an unfair and deceptive act or practice, in commerce, under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\].
+The Commission is authorized and directed to prescribe such rules and regulations, including provisions for maintenance of records relating to fabrics, related materials, and products, as may be necessary and proper for administration and enforcement of this chapter. The violation of such rules and regulations shall be unlawful and shall be an unfair method of competition and an unfair and deceptive act or practice, in commerce, under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\].
 
 #### (d) Inspection and analysis of products; cooperation with other governmental entities
 
@@ -52,7 +52,7 @@ The Commission is authorized to—
 
 &emsp;&emsp;(I) the Consumer Price Index for the month of June of the calendar year preceding the adjustment; exceeds
 
-&emsp;&emsp;(II) the Consumer Price Index for the month of June preceding the date on which the maximum authorized penalty was last adjusted.
+&emsp;&emsp;(II) the Consumer Price Index for the month of June preceding the date on whichthe maximum authorized penalty was last adjusted.
 
 (June 30, 1953, ch. 164, §5, 67 Stat. 112; Pub. L. 90–189, §4, Dec. 14, 1967, 81 Stat. 570; Pub. L. 101–608, title I, §§115(c), 118(b), Nov. 16, 1990, 104 Stat. 3120, 3122.)
 
@@ -74,7 +74,7 @@ Subsec. (d)(2). Pub. L. 90–189, §4(b), substituted “or territory or with th
 
 #### Transfer of Functions
 
-Functions of Secretary of Health, Education, and Welfare, Secretary of Commerce, and Federal Trade Commission under this chapter transferred to Consumer Product Safety Commission, along with functions of Federal Trade Commission under FederalTrade Commission Act, to extent such functions relate to administration and enforcement of this chapter, see section 2079 of this title.
+Functions of Secretary of Health, Education, and Welfare, Secretary of Commerce, and Federal Trade Commission under this chapter transferred to Consumer Product Safety Commission, along with functions of Federal Trade Commission under Federal Trade Commission Act, to extent such functions relate to administration and enforcement of this chapter, see section 2079 of this title.
 
 #### Section Referred to in Other Sections
 

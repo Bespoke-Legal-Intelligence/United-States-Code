@@ -22,5 +22,5 @@ The Association shall—
 
 This Act, referred to in subsec. (b)(4), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338, known as the Gramm-Leach-Bliley Act. For complete classification of this Act to the Code, see Short title of 1999 Amendment note set out under section 1811 of Title 12, Banks and Banking, and Tables.
 
-The District of Columbia Nonprofit Corporation Act, referred to in subsec. (b)(4), is Pub. L. 87–569, Aug. 6, 1962, 76 Stat. 265, as amended, which appears in chapter 5 (§29–501 et seq.) of Title 29, Corporations, of the District of Columbia Code.
+The District of Columbia Nonprofit Corporation Act, referred to in subsec. (b)(4), is Pub. L. 87–569, Aug. 6, 1962, 76 Stat. 265, as amended, which is not classified to the Code.
 

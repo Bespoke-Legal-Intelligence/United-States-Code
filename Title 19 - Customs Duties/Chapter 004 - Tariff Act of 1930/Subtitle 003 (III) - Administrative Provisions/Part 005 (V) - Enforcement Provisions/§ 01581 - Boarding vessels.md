@@ -6,7 +6,7 @@ Any officer of the customs may at any time go on board of any vessel or vehicle 
 
 #### (b) Officers of Department of the Treasury
 
-Officers of the Department of the Treasury and other persons authorized by such department may go on board of any vessel at any place in the United States or within the customs waters and hail, stop, and board such vessel in the enforcement of the navigation laws and arrest or, in case of escape or attempted escape, pursue and arrest any person engaged in the breach or violation of the navigation laws.
+Officers of the Department of the Treasury and other persons authorized by such department may go on board of any vessel at any place in the United States or within the customs waters and hail, stop, and board such vessel in theenforcement of the navigation laws and arrest or, in case of escape or attempted escape, pursue and arrest any person engaged in the breach or violation of the navigation laws.
 
 #### (c) Penalty for presenting forged, altered, or false documents
 
@@ -14,7 +14,7 @@ Any master of a vessel being examined as herein provided, who presents any forge
 
 #### (d) Penalty for failure to stop at command
 
-Any vessel or vehicle which, at any authorized place, is directed to come to a stop by any officer of the customs, or is directed to come to a stop by signal made by any vessel employed in the service of the customs and displaying proper insignia, shall come to a stop, and upon failure to comply a vessel or vehicle so directed to cometo a stop shall become subject to pursuit and the master, owner, operator, or person in charge thereof shall be liable to a penalty of not more than $5,000 nor less than $1,000.
+Any vessel or vehicle which, at any authorized place, is directed to come to a stop by any officer of the customs, or is directed to come to a stop by signal made by any vessel employed in the service of the customs and displaying proper insignia, shall come to a stop, and upon failure to comply a vessel or vehicle so directed to come to a stop shall become subject to pursuit and the master, owner, operator, or person in charge thereof shall be liable to a penalty of not more than $5,000 nor less than $1,000.
 
 #### (e) Seizure of vessel or merchandise
 

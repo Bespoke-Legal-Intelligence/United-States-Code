@@ -78,7 +78,7 @@ Subsec. (b)(3) to (6). Pub. L. 99–556, §406(c), added pars. (3) to (6).
 
 #### Effective Date of 1998 Amendments
 
-Amendment by Pub. L. 105–382 effective Nov. 13, 1998, with provisions relating to applicability with respect to certain individuals, see section 4 of Pub. L. 105–382, set out as a note under section 4044 of this title.
+Amendment by Pub. L. 105–382 effective Nov. 13, 1998, with provisions relating to applicability with respect to certain individuals, see section 4 of Pub. L. 105–382, as amended, set out as a note under section 4044 of this title.
 
 Amendment by Pub. L. 105–277 effective Oct. 21, 1998, except that amendment made by section 2312(b)(1)(A), (2) of Pub. L. 105–277 applicable with respect to any actions taken under section 4010a of this title on or after Jan. 1, 1996, see section 2312(c) of Pub. L. 105–277, set out as a note under section 4009 of this title.
 

@@ -82,14 +82,6 @@ Subsec. (f). Pub. L. 89–176 added subsec. (f).
 
 Amendment by Pub. L. 98–473 effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such amendment, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of this title.
 
-#### Cross References
-
-Expense of transferring prisoners at prison camps, see section 4125 of this title.
-
-Expenses of transportation of prisoners, see section 4008 of this title.
-
-Penitentiary imprisonment for term of one year prohibited except with consent of defendant, see section 4083 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 5003 of this title.

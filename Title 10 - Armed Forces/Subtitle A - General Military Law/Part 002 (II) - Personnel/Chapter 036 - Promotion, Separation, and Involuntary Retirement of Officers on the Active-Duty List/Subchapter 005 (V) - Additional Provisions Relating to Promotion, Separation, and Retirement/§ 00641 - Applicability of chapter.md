@@ -10,13 +10,15 @@ Officers in the following categories are not subject to this chapter (other than
 
 &emsp;&emsp;(C) on active duty under section 12301(d) of this title in connection with organizing, administering, recruiting, instructing, or training the reserve components;
 
-&emsp;&emsp;(D) on active duty to pursue special work;
+&emsp;&emsp;(D) on the reserve active-status list who are on active duty under section 12301(d) of this title, other than as provided in subparagraph (C), under a call or order to active duty specifying a period of three years or less;
 
-&emsp;&emsp;(E) ordered to active duty under section 12304 of this title;
+&emsp;&emsp;(E) on active duty to pursue special work;
 
-&emsp;&emsp;(F) on active duty under section 10(b)(2) of the Military Selective Service Act (50 U.S.C. App. 460(b)(2)) for the administration of the Selective Service System; or
+&emsp;&emsp;(F) ordered to active duty under section 12304 of this title;
 
-&emsp;&emsp;(G) on full-time National Guard duty.
+&emsp;&emsp;(G) on active duty under section 10(b)(2) of the Military Selective Service Act (50 U.S.C. App. 460(b)(2)) for the administration of the Selective Service System; or
+
+&emsp;&emsp;(H) on full-time National Guard duty.
 
 &emsp;(2) The director of admissions, dean, and permanent professors at the United States Military Academy and the registrar, dean, and permanent professors at the United States Air Force Academy.
 
@@ -26,13 +28,15 @@ Officers in the following categories are not subject to this chapter (other than
 
 &emsp;(5) Students at the Uniformed Services University of the Health Sciences.
 
-(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2866; amended Pub. L. 98–525, title IV, §414(a)(5), title V, §527(b), Oct. 19, 1984, 98 Stat. 2519, 2525; Pub. L. 99–433, title V, §531(a)(2), Oct. 1, 1986, 100 Stat. 1063; Pub. L. 103–337, div. A, title XVI, §1671(c)(5), Oct. 5, 1994, 108 Stat. 3014; Pub. L. 104–106, div. A, title XV, §1501(c)(6), Feb. 10, 1996, 110 Stat. 498; Pub. L. 104–201, div. A, title XII, §1212(e), Sept. 23, 1996, 110 Stat. 2694.)
+(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2866; amended Pub. L. 98–525, title IV, §414(a)(5), title V, §527(b), Oct. 19, 1984, 98 Stat. 2519, 2525; Pub. L. 99–433, title V, §531(a)(2), Oct. 1, 1986, 100 Stat. 1063; Pub. L. 103–337, div. A, title XVI, §1671(c)(5), Oct. 5, 1994, 108 Stat. 3014; Pub. L. 104–106, div. A, title XV, §1501(c)(6), Feb. 10, 1996, 110 Stat. 498; Pub. L. 104–201, div. A, title XII, §1212(e), Sept. 23, 1996, 110 Stat. 2694; Pub. L. 106–398, §1 \[\[div. A\], title V, §521\], Oct. 30, 2000, 114 Stat. 1654, 1654A–108.)
 
 #### Codification
 
 Pub. L. 103–337, div. A, title XVI, §§1624, 1691(b)(1), Oct. 5, 1994, 108 Stat. 2961, 3026, which directed amendment of this section effective Oct. 1, 1996, by inserting “(a)” before “Officers in the following” and by adding at the end a new subsec. (b), was amended by Pub. L. 104–106, div. A, title XV, §1501(a)(1)(A), Feb. 10, 1996, 110 Stat. 495, and, as so amended, amends section 620 of this title instead of this section.
 
 #### Amendments
+
+2000—Par. (1)(D) to (H). Pub. L. 106–398 added subpar. (D) and redesignated former subpars. (D) to (G) as (E) to (H), respectively.
 
 1996—Par. (1)(B). Pub. L. 104–201 inserted “5143, 5144,” after “3038,”.
 

@@ -10,7 +10,7 @@ A right of use and occupancy retained pursuant to this section may be terminated
 
 #### (c) “Improved property” defined
 
-The term “improved property”, as used in this section, shall mean a detached, noncommercial residential dwelling, the construction of whichwas begun before January 1, 1967, or before January 1, 1985 for those lands referred to in section 460w(b) of this title (hereinafter referred to as “dwelling”), together with so much of the land on which the dwelling is situated, the said land being in the same ownership as the dwelling, as the Secretary shall designate to be reasonably necessary for the enjoyment of the dwelling for the sole purpose of noncommercial residential use, together with any structures accessory to the dwelling which are situated on the land so designated.
+The term “improved property”, as used in this section, shall mean a detached, noncommercial residential dwelling, the construction of which was begun before January 1, 1967, or before January 1, 1985 for those lands referred to in section 460w(b) of this title (hereinafter referred to as “dwelling”), together with so much of the landon which the dwelling is situated, the said land being in the same ownership as the dwelling, as the Secretary shall designate to be reasonably necessary for the enjoyment of the dwelling for the sole purpose of noncommercial residential use, together with any structures accessory to the dwelling which are situated on the land so designated.
 
 (Pub. L. 91–424, §4, Sept. 26, 1970, 84 Stat. 880; Pub. L. 99–497, §1(3), Oct. 17, 1986, 100 Stat. 1267.)
 

@@ -16,7 +16,3 @@ As originally enacted, this section authorized reasonable charges against physic
 
 “Hot Springs National Park” substituted in text for “Hot Springs Reservation” pursuant to act Mar. 4, 1921.
 
-#### Cross References
-
-Revenues of national parks covered into Treasury, except in case of Hot Springs National Park such as may be necessary to pay obligations outstanding on June 30, 1922, see section 452 of this title.
-

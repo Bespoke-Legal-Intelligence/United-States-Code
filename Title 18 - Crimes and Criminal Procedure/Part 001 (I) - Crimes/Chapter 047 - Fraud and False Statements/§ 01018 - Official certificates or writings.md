@@ -14,7 +14,3 @@ Minor changes were made in phraseology.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $500”.
 
-#### Cross References
-
-False certificate by revenue officer or agent, see section 7214 of Title 26, Internal Revenue Code.
-

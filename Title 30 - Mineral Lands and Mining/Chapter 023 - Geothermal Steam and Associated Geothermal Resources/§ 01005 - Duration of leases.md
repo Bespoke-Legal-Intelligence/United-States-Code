@@ -38,7 +38,7 @@ Minerals locatable under the mining laws of the United States in lands subject t
 
 #### (h) Bona fide effort
 
-To meet the bona fide effort requirement referred to in subsection (g)(1) of this section the lessee must submit a report to the Secretary demonstrating bona fide efforts (as determined by the Secretary) to produce or utilize geothermal steam in commercial quantities for such lease, given the then current economic conditions.
+To meet the bona fide effort requirement referred to in subsection (g)(1) of this section thelessee must submit a report to the Secretary demonstrating bona fide efforts (as determined by the Secretary) to produce or utilize geothermal steam in commercial quantities for such lease, given the then current economic conditions.
 
 #### (i) Payments in lieu of commercial quantities production
 
@@ -112,7 +112,7 @@ Section 9 of Pub. L. 100–443 provided that: “To the extent that any provisio
 
 #### Extension of Lease; Listing, Monitoring and Protection of Significant Thermal Features in National Park System; Factors Considered in Issuing or Denying Leases; Effect on Other Provisions
 
-Pub. L. 99–500, §101(h) \[title I, §115\], Oct. 18, 1986, 100 Stat. 1783–242, 1783–264, and Pub. L. 99–591, §101(h) \[title I, §115\], Oct. 30, 1986, 100 Stat. 3341–242, 3341–264, provided that:
+Pub. L. 99–500, §101(h) \[title I, §115\], Oct. 18, 1986, 100 Stat. 1783–242, 1783–264, and Pub. L. 99–591, §101(h) \[title I, §115\], Oct. 30, 1986, 100 Stat. 3341–242, 3341–264, as amended by Pub. L. 106–510, §3(a)(2), (b)(2), Nov. 13, 2000, 114 Stat. 2363, provided that:
 
 “(1) The primary term of any geothermal lease in effect as of July 27, 1984, issued pursuant to the Geothermal \[Steam\] Act of 1970 (Public Law 91–581, 84 Stat. 1566, 30 U.S.C. 1001–1025) is hereby extended to December 31, 1988, if the Secretary of the Interior finds that—
 
@@ -152,7 +152,7 @@ Pub. L. 99–500, §101(h) \[title I, §115\], Oct. 18, 1986, 100 Stat. 1783–2
 
 “Sequoia National Park;
 
-“Hawaii Volcanoes National Park;
+“Hawai‘i Volcanoes National Park;
 
 “Lake Mead National Recreation Area;
 
@@ -164,7 +164,7 @@ Pub. L. 99–500, §101(h) \[title I, §115\], Oct. 18, 1986, 100 Stat. 1783–2
 
 “John D. Rockefeller, Jr. Memorial Parkway;
 
-“Haleakala National Park; and
+“Haleakala�AE8 National Park; and
 
 “Crater Lake National Park.
 

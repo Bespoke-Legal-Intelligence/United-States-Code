@@ -8,3 +8,7 @@ Contracts involving the payment or expenditure of any money or affecting any pro
 
 Section 2 of act July 3, 1952, provided: “That the second proviso in section 28 of the Act of April 26, 1906, ch. 1876 (34 Stat. 148) \[not classified to the Code\], and the provisions contained in the fifth paragraph of section 17 of the Act of March 3, 1911, ch. 210 (36 Stat. 1070) \[not classified to the Code\], dealing with contracts made by the Choctaw and Chickasaw Tribes of Indians for professional legal services of attorneys, are hereby repealed.”
 
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 450<i>l</i>, 458cc, 458aaa–10 of this title.
+

@@ -12,7 +12,7 @@
 
 (b) In this section:
 
-&emsp;(1) The term “combat arms battalions” means armor, infantry, mechanized infantry, air assault infantry, airborne infantry, ranger, artillery, and combat engineer battalions and armored cavalry and air cavalry squadrons.
+&emsp;(1) The term “combat arms battalions” means armor, infantry, mechanized infantry, air assault infantry, airborne infantry, ranger,artillery, and combat engineer battalions and armored cavalry and air cavalry squadrons.
 
 &emsp;(2) The term “major repair work” means, in the case of any ship to which subsection (a) is applicable, any overhaul, modification, alteration, or conversion work which will result in a total cost to the United States of more than $10,000,000.
 

@@ -58,6 +58,10 @@ Agreement or order.—Except as provided in paragraph (4), nothing in this Act \
 
 &emsp;“(iii) to which a department, agency, or instrumentality of the executive branch of the Federal Government is a party.”
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (a) of this section requiring the President to report annually to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 8th item on page 20 of House Document No. 103–7.
+
 #### Executive Order No. 12780
 
 Ex. Ord. No. 12780, Oct. 31, 1991, 56 F.R. 56289, which required Federal agencies to promote cost-effective waste reduction and recycling of reusable materials and established a Council on Federal Recycling and Procurement Policy, was revoked by Ex. Ord. No. 12873, §901, Oct. 20, 1993, 58 F.R. 54911, formerly set out below.
@@ -106,7 +110,7 @@ Sec. 210. “Life cycle cost” means the amortized annual cost of a product, in
 
 Sec. 211. “Life cycle assessment” means the comprehensive examination of a product's environmental and economic aspects and potential impacts throughout its lifetime, including raw material extraction, transportation, manufacturing, use, and disposal.
 
-Sec. 212. “Pollution prevention” means “source reduction” as defined in the Pollution Prevention Act of 1990 (42 U.S.C. 13102), and other practices that reduce oreliminate the creation of pollutants through: (a) increased efficiency in the use of raw materials, energy, water, or other resources; or (b) protection of natural resources by conservation.
+Sec. 212. “Pollution prevention” means “source reduction” as defined in the Pollution Prevention Act of 1990 (42 U.S.C. 13102), and other practices that reduce or eliminate the creation of pollutants through: (a) increased efficiency in the use of raw materials, energy, water, or other resources; or (b) protection of natural resources by conservation.
 
 Sec. 213. “Biobased product” means a commercial or industrial product (other than food or feed) that utilizes biological products or renewable domestic agricultural (plant, animal, and marine) or forestry materials.
 
@@ -140,7 +144,7 @@ Sec. 302. Duties. (a) The Federal Environmental Executive. The FEE, working thro
 
 (g) development and implementation of new technologies that are of environmental significance.
 
-(2) Prepare a biennial report to the President on the actions taken by the agencies to comply with this order. The report also may incorporate information from existing agency reports regarding Government-wide progress in implementing the following Executive Orders: 12843, Procurement Requirements and Policies for Federal Agencies for Ozone Depleting Substances \[42 U.S.C. 7671<i>l</i> note\]; 13031, Federal Alternative Fueled Vehicle Leadership \[42 U.S.C. 13212 note\]; 12845, Requiring Agencies to Purchase Energy Efficient Computer Equipment \[42 U.S.C. 8262g note\]; 12856, Federal Compliance with Right-to-Know Laws and Pollution Prevention Requirements \[42 U.S.C. 11001 note\]; 12902, Energy Efficiency and Water Conservation at Federal Facilities \[42 U.S.C. 6201 note\]; and 12969, Federal Acquisition and Community Right-to-Know \[41 U.S.C. 401 note\].
+(2) Prepare a biennial report to the President on the actions taken by the agencies to comply with this order. The report also may incorporate information from existing agency reports regarding Government-wide progress in implementing the following Executive Orders: 12843, Procurement Requirements and Policies for Federal Agencies for Ozone Depleting Substances \[former 42 U.S.C. 7671<i>l</i> note\]; 13031, Federal Alternative Fueled Vehicle Leadership \[former 42 U.S.C. 13212 note\]; 12845, Requiring Agencies to Purchase Energy Efficient Computer Equipment \[42 U.S.C. 8262g note\]; 12856, Federal Compliance with Right-to-Know Laws and Pollution Prevention Requirements \[former 42 U.S.C. 11001 note\]; 12902, Energy Efficiency and Water Conservation at Federal Facilities \[42 U.S.C. 6201 note\]; and 12969, Federal Acquisition and Community Right-to-Know \[former 41 U.S.C. 401 note\].
 
 (3) In coordination with the Office of Federal Procurement Policy, the Environmental Protection Agency (EPA), the General Services Administration (GSA), and the Department of Agriculture (USDA), convene a group of acquisition/procurement managers and environmental State, and local government managers to work with State and local governments to improve the Federal, State, and local governments’ use of recycled products and environmentally preferable products and services.
 
@@ -164,7 +168,7 @@ Sec. 302. Duties. (a) The Federal Environmental Executive. The FEE, working thro
 
 #### PART 4—ACQUISITION PLANNING, AFFIRMATIVE PROCUREMENT PROGRAMS, AND FEDERAL FACILITY COMPLIANCE
 
-Sec. 401. Acquisition Planning. In developing plans, drawings, work statements, specifications, or other product descriptions, agencies shall consider, as appropriate, a broad range of factors including: elimination of virgin material requirements; use of biobased products; use of recovered materials; reuse of product; lifecycle cost; recyclability; use of environmentally preferable products; waste prevention (including toxicity reduction or elimination); and ultimate disposal. These factors should be considered in acquisition planning for all procurement and in the evaluation and award of contracts, as appropriate. Program and acquisition managers should take an active role in these activities.
+Sec. 401. Acquisition Planning. In developing plans, drawings, work statements, specifications, or other product descriptions, agencies shall consider, as appropriate, a broad range of factors including: elimination of virgin material requirements; use of biobased products; use of recovered materials; reuse of product; life cycle cost; recyclability; use of environmentally preferable products; waste prevention (including toxicity reduction or elimination); and ultimate disposal. These factors should be considered in acquisition planning for all procurement and in the evaluation and award of contracts, as appropriate. Program and acquisition managers should take an active role in these activities.
 
 Sec. 402. Affirmative Procurement Programs. (a) The head of each executive agency shall develop and implement affirmative procurement programs in accordance with section 6002 of RCRA (42 U.S.C. 6962) and this order and consider use of the procurement tools and methods described in 7 U.S.C. 5909. Agencies shall ensure that responsibilities for preparation, implementation, and monitoring of affirmative procurement programs are shared between the program personnel and acquisition and procurement personnel. For the purposes of all purchases made pursuant to this order, EPA, in consultation with such other executive agencies as appropriate, shall endeavor to maximize environmental benefits, consistent with price, performance, and availability considerations, and constraints imposed by law, and shall adjust solicitation guidelines as necessary in order to accomplish this goal.
 
@@ -198,9 +202,9 @@ Sec. 503. Guidance on Acquisition of Environmentally Preferable Products and Ser
 
 (b) Agencies are encouraged to immediately test and evaluate the principles and concepts contained in the EPA's Guidance on the Acquisition of Environmentally Preferable Products and Services through pilot projects to provide practical information to the EPA for further updating of the guidance. Specifically:
 
-(1) These pilot projects shall be focused around those product and service categories, including printing, thathave wide use within the Federal Government. Priorities regarding which product and service categories to pilot shall be developed by the individual agencies and the EPA, in consultation with the OFPP, the FEE, and the appropriate agency procurement executives. Any policy disagreements shall be resolved by the Steering Committee.
+(1) These pilot projects shall be focused around those product and service categories, including printing, that have wide use within the Federal Government. Priorities regarding which product and service categories to pilot shall be developed by the individual agencies and the EPA, in consultation with the OFPP, the FEE, and the appropriate agency procurement executives. Any policy disagreements shall be resolved by the Steering Committee.
 
-(2) Agencies are encouraged to use all of the options available to them to determine the environmentally preferable attributes of products and services in their pilot and demonstration projects, including the use of technical expertise of nongovernmental entities such as labeling, certification, or standards-developing organizations, as well as using the expertise of the National Institute of Standards and Technology.
+(2) Agencies are encouraged to use all of the options available to them to determine the environmentallypreferable attributes of products and services in their pilot and demonstration projects, including the use of technical expertise of nongovernmental entities such as labeling, certification, or standards-developing organizations, as well as using the expertise of the National Institute of Standards and Technology.
 
 (3) Upon request and to the extent practicable, the EPA shall assist executive agencies in designing, implementing, and documenting the results of these pilot and demonstration projects.
 
@@ -240,7 +244,7 @@ Sec. 601. Agency Goals. (a)(1) Each agency shall establish either a goal for sol
 
 Sec. 701. Contractor Applicability. Contracts that provide for contractor operation of a Government-owned or -leased facility and/or contracts that provide for contractor or other support services at Government-owned or -operated facilities awarded by executive agencies after the date of this order, shall include provisions that obligate the contractor to comply with the requirements of this order within the scope of its operations.
 
-Sec. 702. Real Property Acquisition and Management. Within 90 days after the date of this order, and to theextent permitted by law and where economically feasible, executive agencies shall ensure compliance with the provisions of this order in the acquisition and management of Federally owned and leased space. The GSA and other executive agencies shall also include environmental and recycling provisions in the acquisition and management of all leased space and in the construction of new Federal buildings.
+Sec. 702. Real Property Acquisition and Management. Within 90 days after the date of this order, and to the extent permitted by law and where economically feasible, executive agencies shall ensure compliance with the provisions of this order in the acquisition and management of Federally owned and leased space. The GSA and other executive agencies shall also include environmental and recycling provisions in the acquisition and management of all leased space and in the construction of new Federal buildings.
 
 Sec. 703. Retention of Funds. (a) The Administrator of General Services shall continue with the program that retains for the agencies the proceeds from the sale of materials recovered through recycling or waste prevention programs and specifying the eligibility requirements for the materials being recycled.
 

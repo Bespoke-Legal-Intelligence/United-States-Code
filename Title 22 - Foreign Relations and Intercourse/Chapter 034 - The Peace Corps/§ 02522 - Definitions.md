@@ -14,7 +14,7 @@
 
 &emsp;(ii) the period between enrollment as a volunteer and the termination of service as such volunteer by the President or by death or resignation.
 
-(f) The term “United States Government agency” includes any department, board, wholly or partly owned corporation, or instrumentality,commission, or establishment of the United States Government.
+(f) The term “United States Government agency” includes any department, board, wholly or partly owned corporation, or instrumentality, commission, or establishment of the United States Government.
 
 (g) The word “transportation” in sections 2504(b), 2504(m), and 2505(2) of this title includes transportation of not to exceed three hundred pounds per person of unaccompanied necessary personal and household effects.
 
@@ -33,8 +33,4 @@ A prior section 26 of Pub. L. 87–293 was renumbered section 27 and is classifi
 1970—Subsec. (g). Pub. L. 91–352 inserted reference to section 2504(m) of this title.
 
 1966—Subsec. (b). Pub. L. 89–572 struck out territories from definition of “United States”.
-
-#### Cross References
-
-Volunteers, see section 2505 of this title.
 

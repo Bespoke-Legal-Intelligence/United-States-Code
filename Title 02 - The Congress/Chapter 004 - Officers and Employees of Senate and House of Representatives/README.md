@@ -444,6 +444,12 @@
 | (b) | Withholding of fees from salary. |
 | (c) | Deposit in General Fund. |
 | (d) | Effective date. |
+| [121f.](%C2%A7%2000121f%20-%20Senate%20Health%20and%20Fitness%20Facility%20Revolving%20Fund.md) | Senate Health and Fitness Facility Revolving Fund. |
+| (a) | Establishment. |
+| (b) | Deposit of receipts. |
+| (c) | Availability of funds. |
+| (d) | Withdrawal of excess amounts. |
+| (e) | Regulations. |
 | 122 to 123a. Repealed or Omitted. |  |
 | [123b.](%C2%A7%2000123b%20-%20House%20Recording%20Studio%3B%20Senate%20Recording%20Studio%20and%20Senate%20Photographic%20Studio.md) | House Recording Studio; Senate Recording Studio and Senate Photographic Studio. |
 | (a) | Establishment. |
@@ -807,6 +813,7 @@
 - [&sect; 00121c - Office of Senate Health Promotion](%C2%A7%2000121c%20-%20Office%20of%20Senate%20Health%20Promotion.md)
 - [&sect; 00121d - Senate Gift Shop](%C2%A7%2000121d%20-%20Senate%20Gift%20Shop.md)
 - [&sect; 00121e - Payment of fees for services of Attending Physician and for use of Senate health and fitness facilities](%C2%A7%2000121e%20-%20Payment%20of%20fees%20for%20services%20of%20Attending%20Physician%20and%20for%20use%20of%20Senate%20health%20and%20fitness%20facilities.md)
+- [&sect; 00121f - Senate Health and Fitness Facility Revolving Fund](%C2%A7%2000121f%20-%20Senate%20Health%20and%20Fitness%20Facility%20Revolving%20Fund.md)
 - [&sect; 00122 - Repealed. Pub. L. 95&#8211;391, title I, &sect;111, Sept. 30, 1978, 92 Stat. 777](%C2%A7%2000122%20-%20Repealed.%20Pub.%20L.%2095%E2%80%93391%2C%20title%20I%2C%20%C2%A7111%2C%20Sept.%2030%2C%201978%2C%2092%20Stat.%20777.md)
 - [&sect; 00122a - Repealed. Pub. L. 104&#8211;186, title II, &sect;204(66), Aug. 20, 1996, 110 Stat. 1740](%C2%A7%2000122a%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93186%2C%20title%20II%2C%20%C2%A7204%2866%29%2C%20Aug.%2020%2C%201996%2C%20110%20Stat.%201740.md)
 - [&sect; 00122b to 122g - Repealed. Pub. L. 104&#8211;186, title II, &sect;204(67), Aug. 20, 1996, 110 Stat. 1740](%C2%A7%2000122b%20to%20122g%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93186%2C%20title%20II%2C%20%C2%A7204%2867%29%2C%20Aug.%2020%2C%201996%2C%20110%20Stat.%201740.md)

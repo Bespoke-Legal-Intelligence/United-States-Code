@@ -12,12 +12,6 @@ Pub. L. 94–450, §1, Oct. 1, 1976, 90 Stat. 1501, provided: “That this Act \
 
 Act June 13, 1906, ch. 3289, which enacted this section and sections 295 to 300 of this title, is popularly known as the “Jewelers’ Liability Act (Gold and Silver Articles)” and also as the “National Gold and Silver Stamping Act of 1906”.
 
-#### Cross References
-
-Article of merchandise defined, see section 299 of this title.
-
-Penalty for violating provisions of this section, see section 298 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 295, 296, 297, 298, 299, 300 of this title.

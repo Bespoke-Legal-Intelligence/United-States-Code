@@ -38,11 +38,11 @@ No State may enforce, or attempt to enforce, any State law or regulation relatin
 
 &emsp;(B) the Secretary shall continue to regulate, under this subchapter, all takings of the species within the State.
 
-(3) After the determination required under paragraph (1)(C)(i) regarding a species is final and implemented under State law and after a cooperative allocation agreement described in subsection (d)(1) of this section, if required, is implemented for such species—
+(3) After the determination required under paragraph (1)(C)(i) regarding a species is finaland implemented under State law and after a cooperative allocation agreement described in subsection (d)(1) of this section, if required, is implemented for such species—
 
 &emsp;(A) such determination shall be treated, for purposes of applying this subchapter beyond the territory of the State, as a determination made in accordance with section 1373 of this title and as an applicable waiver under section 1371(a)(3) of this title;
 
-&emsp;(B) the Secretary shall regulate, without regard to this section other than the allocationsspecified under such an agreement, the taking of the species—
+&emsp;(B) the Secretary shall regulate, without regard to this section other than the allocations specified under such an agreement, the taking of the species—
 
 &emsp;&emsp;(i) incidentally in the course of commercial fishing operations (whether provided for under section 1371(a)(2) or (4) of this title), or in the course of other specified activities provided for under section 1371(a)(5) of this title, in the zone described in section 1362(14)(B) <sup>1</sup> of this title, and
 
@@ -76,11 +76,11 @@ The State process required under subsection (b)(1)(C) of this section must compl
 
 #### (e) Revocation of transfer of management authority
 
-(1) Subject to paragraph (2), the Secretary shall revoke, after opportunity for a hearing, any transfer of management authority made to a State under subsection (b)(1) of this section if the Secretary finds that the State program for the conservation and management of the species concerned is not being implemented, or is being implemented in a manner inconsistent with the provisions of this section or the provisions of the program. The Secretary shall also establish a procedure for the voluntary return by a State to the Secretary of species management authority that was previously transferred to the State under subsection (b)(1) of this section.
+(1) Subject to paragraph (2), the Secretary shall revoke, after opportunity for a hearing, any transfer of management authority made to a State under subsection (b)(1) of this section if the Secretary finds that the State program forthe conservation and management of the species concerned is not being implemented, or is being implemented in a manner inconsistent with the provisions of this section or the provisions of the program. The Secretary shall also establish a procedure for the voluntary return by a State to the Secretary of species management authority that was previously transferred to the State under subsection (b)(1) of this section.
 
 (2)(A) The Secretary may not revoke a transfer of management authority under paragraph (1) unless—
 
-&emsp;(i) the Secretary provides to the State a written notice of intent to revoke togetherwith a statement, in detail, of those actions, or failures to act, on which such intent is based; and
+&emsp;(i) the Secretary provides to the State a written notice of intent to revoke together with a statement, in detail, of those actions, or failures to act, on which such intent is based; and
 
 &emsp;(ii) during the ninety-day period after the date of the notice of intent to revoke—
 
@@ -140,7 +140,7 @@ Neither the transfer of management authority to a State under subsection (b)(1) 
 
 (2) Nothing in this subchapter shall prevent the Secretary or a person designated under section 1382(c) of this title from importing a marine mammal into the United States if such importation is necessary to render medical treatment that is not otherwise available.
 
-(3) In any case in which it is feasible to return to its natural habitat a marine mammal taken or imported under circumstances described in this subsection, steps to achieve that result shall be taken.
+(3) In any case in which it is feasible to return to its natural habitat a marine mammal takenor imported under circumstances described in this subsection, steps to achieve that result shall be taken.
 
 #### (i) Regulations covering taking of marine mammals by Alaskan natives
 

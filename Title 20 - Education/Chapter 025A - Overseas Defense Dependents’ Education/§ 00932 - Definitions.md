@@ -20,7 +20,7 @@ For purposes of this chapter:
 
 &emsp;(3) The term “overseas area” means any area situated outside the United States.
 
-&emsp;(4) The term “United States”, when used in a geographical sense, means the severalStates, the District of Columbia, the Commonwealth of Puerto Rico, and the possessions of the United States (excluding the Trust Territory of the Pacific Islands and Midway Island).
+&emsp;(4) The term “United States”, when used in a geographical sense, means the several States, the District of Columbia, the Commonwealth of Puerto Rico, and the possessions of the United States (excluding the Trust Territory of the Pacific Islands and Midway Island).
 
 &emsp;(5) The term “involuntarily separated” has the meaning given that term in section 1141 of title 10.
 

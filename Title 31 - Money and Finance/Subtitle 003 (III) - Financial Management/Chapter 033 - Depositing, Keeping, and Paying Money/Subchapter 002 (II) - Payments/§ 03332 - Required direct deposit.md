@@ -40,7 +40,7 @@
 
 (i)(1) The Secretary of the Treasury may prescribe regulations that the Secretary considers necessary to carry out this section.
 
-(2) Regulations under this subsection shall ensure that individuals required under subsection\(g) to have an account at a financial institution because of the application of subsection (f)(1)—
+(2) Regulations under this subsection shall ensure that individuals required under subsection (g) to have an account at a financial institution because of the application of subsection (f)(1)—
 
 &emsp;(A) will have access to such an account at a reasonable cost; and
 

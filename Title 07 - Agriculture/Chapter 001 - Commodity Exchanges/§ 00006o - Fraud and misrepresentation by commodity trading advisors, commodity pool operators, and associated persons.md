@@ -32,5 +32,5 @@ For effective date of section, see section 418 of Pub. L. 93–463, set out as a
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 13 of this title.
+This section is referred to in sections 2, 7a–3, 13 of this title.
 

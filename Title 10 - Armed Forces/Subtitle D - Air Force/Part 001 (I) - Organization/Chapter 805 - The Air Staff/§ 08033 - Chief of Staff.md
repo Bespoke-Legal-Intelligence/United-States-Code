@@ -104,7 +104,7 @@ A prior section 8033 was renumbered section 10305 of this title.
 
 “(b) The Chief of Staff, while so serving, has the grade of general without vacating his regular or reserve grade.
 
-“(c) Except as otherwise prescribed by law and subject to section 8012(c) and (d) of this title, the Chief of Staff performs his duties under the direction of theSecretary of the Air Force, and is directly responsible to the Secretary for the efficiency of the Air Force, its preparedness for military operations, and plans therefor.
+“(c) Except as otherwise prescribed by law and subject to section 8012(c) and (d) of this title, the Chief of Staff performs his duties under the direction of the Secretary of the Air Force, and is directly responsible to the Secretary for the efficiency of the Air Force, its preparedness for military operations, and plans therefor.
 
 “(d) The Chief of Staff shall—
 
@@ -145,16 +145,4 @@ Amendment by Pub. L. 90–22 effective Jan. 1, 1969, see section 405 of Pub. L. 
 #### Waiver of Qualifications for Appointment as Service Chief
 
 For provisions giving President temporary authority to waive requirements in subsec. (a)(2) of this section, see section 532(c) of Pub. L. 99–433, formerly set out as a note under section 3033 of this title.
-
-#### Cross References
-
-Air National Guard in Federal service, detail as chief and assistant chief of staff of wings, see section 12502 of this title.
-
-Armed Forces Policy Council, member of, see section 171 of this title.
-
-Higher retired grade for service in special position, see section 8962 of this title.
-
-Personal money allowance, see section 414 of Title 37, Pay and Allowances of the Uniformed Services.
-
-Rank, see section 743 of this title.
 

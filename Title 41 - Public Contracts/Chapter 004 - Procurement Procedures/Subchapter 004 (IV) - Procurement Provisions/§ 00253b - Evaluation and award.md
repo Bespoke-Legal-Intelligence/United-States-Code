@@ -46,7 +46,7 @@ Sealed bids shall be opened publicly at the time and place stated in the solicit
 
 (4) Each solicitation for competitive proposals shall include a statement that information described in paragraph (2) may be disclosed in post-award debriefings.
 
-(5) If, within one year after the date of the contract award and as a result of a successful procurement protest, the executive agency seeksto fulfill the requirement under the protested contract either on the basis of a new solicitation of offers or on the basis of new best and final offers requested for that contract, the head of such executive agency shall make available to all offerors—
+(5) If, within one year after the date of the contract award and as a result of a successful procurement protest, the executive agency seeks to fulfill the requirement under the protested contract either on the basis of a new solicitation of offers or on the basis of new best and final offers requested for that contract, the head of such executive agency shall make available to all offerors—
 
 &emsp;(A) the information provided in debriefings under this subsection regarding the offer of the contractor awarded the contract; and
 
@@ -90,7 +90,7 @@ If the agency head considers that a bid or proposal evidences a violation of the
 
 &emsp;(ii) With respect to items that are likely to be required in substantial quantities during the system's service life, proposals to incorporate in the design of the major system items which the United States will be able to acquire competitively in the future.
 
-(2)(A) In preparing a solicitation for the award of a production contract for a major system, the head of an agency shall consider requiring in the solicitation that an offeror include in its offer proposals described in subparagraph (B). In determining whether to require such proposals, the head of the agency shall give due consideration to the purposes for which the system is being procured and the technology necessary to meet the system's required capabilities. If such proposals are required, the head of the agency shall consider them in evaluating the offeror's price.
+(2)(A) In preparing a solicitation for the award of a production contract for a major system, the head of an agency shall consider requiring in thesolicitation that an offeror include in its offer proposals described in subparagraph (B). In determining whether to require such proposals, the head of the agency shall give due consideration to the purposes for which the system is being procured and the technology necessary to meet the system's required capabilities. If such proposals are required, the head of the agency shall consider them in evaluating the offeror's price.
 
 (B) The proposals that the head of an agency is to consider requiring in a solicitation for the award of a production contract are proposals identifying opportunities to ensure that the United States will be able to obtain on a competitive basis items procured in connection with the system that are likely to be reprocured in substantial quantities during the service life of the system. Proposals submitted in response to such requirement may include the following:
 

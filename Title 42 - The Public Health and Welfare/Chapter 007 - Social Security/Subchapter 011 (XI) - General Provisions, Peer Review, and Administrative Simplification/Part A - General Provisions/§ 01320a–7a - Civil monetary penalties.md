@@ -32,7 +32,7 @@ Any person (including an organization, agency, or other entity, but excluding a 
 
 &emsp;&emsp;(B) is an officer or managing employee (as defined in section 1320a–5(b) of this title) of such an entity;
 
-&emsp;(5) offers to or transfers remuneration to any individual eligible for benefits under subchapter XVIII of this chapter, or under a State health care program (as defined in section 1320a–7(h) of this title) that such person knows or should know is likely to influence such individual to order or receive from a particular provider, practitioner, or supplier any item or service for which payment may be made, in whole or in part, under subchapter XVIII of this chapter, or a State health care program (as so defined);
+&emsp;(5) offers to or transfers remuneration to any individual eligible for benefits under subchapter XVIII of this chapter, or under a State health care program (as defined in section1320a–7(h) of this title) that such person knows or should know is likely to influence such individual to order or receive from a particular provider, practitioner, or supplier any item or service for which payment may be made, in whole or in part, under subchapter XVIII of this chapter, or a State health care program (as so defined);
 
 &emsp;(6) arranges or contracts (by employment or otherwise) with an individual or entity that the person knows or should know is excluded from participation in a Federal health care program (as defined in section 1320a–7b(f) of this title), for the provision of items or services for which payment may be made under such a program; or
 
@@ -50,7 +50,7 @@ Any person (including an organization, agency, or other entity, but excluding a 
 
 > the hospital or a critical access hospital shall be subject, in addition to any other penalties that may be prescribed by law, to a civil money penalty of not more than $2,000 for each such individual with respect to whom the payment is made.
 
-(2) Any physician who knowingly accepts receipt of a payment described in paragraph (1) shall be subject, in addition to any other penalties that may be prescribed by law, to a civilmoney penalty of not more than $2,000 for each individual described in such paragraph with respect to whom the payment is made.
+(2) Any physician who knowingly accepts receipt of a payment described in paragraph (1) shall be subject, in addition to any other penalties that may be prescribed by law, to a civil money penalty of not more than $2,000 for each individual described in such paragraph with respect to whom the payment is made.
 
 (3)(A) Any physician who executes a document described in subparagraph (B) with respect to an individual knowing that all of the requirements referred to in such subparagraph are not met with respect to the individual shall be subject to a civil monetary penalty of not more than the greater of—
 
@@ -182,7 +182,7 @@ For the purposes of this section:
 
 #### (k) Injunctions
 
-Whenever the Secretary has reason to believe that any person has engaged, is engaging, or is about to engage in any activity which makes the person subject to a civil monetary penalty under this section, the Secretary may bring an action in an appropriate district court of the United States (or, if applicable, a United States court of any territory) to enjoin such activity, or to enjoin the person from concealing, removing, encumbering, or disposing of assets which may be required in order to pay a civil monetary penalty if any such penalty were to be imposed or to seek other appropriate relief.
+Whenever the Secretary has reason to believe that any person has engaged, is engaging, or is about to engage in any activity which makes the person subject to a civil monetary penalty under this section, the Secretary may bring an action in an appropriate district court of theUnited States (or, if applicable, a United States court of any territory) to enjoin such activity, or to enjoin the person from concealing, removing, encumbering, or disposing of assets which may be required in order to pay a civil monetary penalty if any such penalty were to be imposed or to seek other appropriate relief.
 
 #### (<i>l</i>) Liability of principal for acts of agent
 
@@ -208,7 +208,7 @@ A principal is liable for penalties, assessments, and an exclusion under this se
 
 &emsp;(B) the remuneration is offered or transferred by a person under such rule during the 2-year period beginning on the date the rule is first promulgated.
 
-(2) A practice described in this paragraph is a practice under which a health care provider orfacility pays, in whole or in part, premiums for medicare supplemental policies for individuals entitled to benefits under part A of subchapter XVIII of this chapter pursuant to section 426–1 of this title.
+(2) A practice described in this paragraph is a practice under which a health care provider or facility pays, in whole or in part, premiums for medicare supplemental policies for individuals entitled to benefits under part A of subchapter XVIII of this chapter pursuant to section 426–1 of this title.
 
 (Aug. 14, 1935, ch. 531, title XI, §1128A, as added Pub. L. 97–35, title XXI, §2105(a), Aug. 13, 1981, 95 Stat. 789; amended Pub. L. 97–248, title I, §137(b)(26), Sept. 3, 1982, 96 Stat. 380; Pub. L. 98–369, div. B, title III, §§2306(f)(1), 2354(a)(3), July 18, 1984, 98 Stat. 1073, 1100; Pub. L. 99–509, title IX, §§9313(c)(1), 9317(a), (b), Oct. 21, 1986, 100 Stat. 2003, 2008; Pub. L. 100–93, §3, Aug. 18, 1987, 101 Stat. 686; Pub. L. 100–203, title IV, §§4039(h)(1), 4118(e)(1), (6)–(10), Dec. 22, 1987, 101 Stat. 1330–155, as amended Pub. L. 100–360, title IV, §411(e)(3), (k)(10)(B)(ii), (D), July 1, 1988, 102 Stat. 775, 794, 795; Pub. L. 100–360, title II, §202(c)(2), July 1, 1988, 102 Stat. 715; Pub. L. 100–485, title VI, §608(d)(26)(H)–(K)(i), Oct. 13, 1988, 102 Stat. 2422; Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–239, title VI, §6003(g)(3)(D)(i), Dec. 19, 1989, 103 Stat. 2153; Pub. L. 101–508, title IV, §§4204(a)(3), 4207(h), formerly 4027(h), 4731(b)(1), 4753, Nov. 5, 1990, 104 Stat. 1388–109, 1388–123, 1388–195, 1388–208, renumbered §4207(h), Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444; Pub. L. 104–191, title II, §§231(a)–(e), (h), 232(a), Aug. 21, 1996, 110 Stat. 2012–2015; Pub. L. 105–33, title IV, §§4201(c)(1), 4304(a), (b), 4331(e), 4523(c), Aug. 5, 1997, 111 Stat. 373, 383, 396, 449; Pub. L. 105–277, div. J, title V, §5201(a), (b)(1), Oct. 21, 1998, 112 Stat. 2681–916.)
 
@@ -330,7 +330,7 @@ Subsec. (<i>l</i>). Pub. L. 100–485, §608(d)(26)(I), inserted “for penaltie
 
 Pub. L. 100–360, §411(k)(10)(B)(ii)(III), added Pub. L. 100–203, §4118(e)(1)(B), see 1987 Amendment note below.
 
-1987—Subsec. (a). Pub. L. 100–203, §4118(e)(10)(A), as added by Pub. L. 100–360, §411(k)(10)(D), inserted “, but excluding a beneficiary, as defined in subsection (i)(5) of this section” in introductory provisions.
+1987—Subsec. (a). Pub. L. 100–203, §4118(e)(10)(A), as added by Pub. L. 100–360, §411(k)(10)(D), inserted “, butexcluding a beneficiary, as defined in subsection (i)(5) of this section” in introductory provisions.
 
 Pub. L. 100–93, §3(a)(3)(B), in concluding provisions, inserted “(or, in cases under paragraph (3), $15,000 for each individual with respect to whom false or misleading information was given)” before period at end of first sentence, and inserted at end “In addition the Secretary may make a determination in the same proceeding to exclude the person from participation in the programs under subchapter XVIII of this chapter and to direct the appropriate State agency to exclude the person from participation in any State health care program.”
 
@@ -364,7 +364,7 @@ Subsec. (f)(1)(A). Pub. L. 100–93, §3(d), substituted “bearing the same pro
 
 Subsec. (g). Pub. L. 100–93, §3(c), substituted “penalty, assessment, or exclusion” for “penalty or assessment” in two places.
 
-Subsec. (h). Pub. L. 100–93, §3(c), (e), substituted “penalty, assessment, or exclusion” for “penalty or assessment” in two places and inserted “the appropriate State agency or agencies administering or supervisingthe administration of State health care programs (as defined in section 1320a–7(h) of this title),” after “professional organization,”.
+Subsec. (h). Pub. L. 100–93, §3(c), (e), substituted “penalty, assessment, or exclusion” for “penalty or assessment” in two places and inserted “the appropriate State agency or agencies administering or supervising the administration of State health care programs (as defined in section 1320a–7(h) of this title),” after “professional organization,”.
 
 Subsec. (i). Pub. L. 100–203, §4118(e)(8), as added by Pub. L. 100–360, §411(k)(10)(D), substituted “this section” for “this subsection” in introductory provisions.
 
@@ -452,7 +452,7 @@ Except as specifically provided in section 411 of Pub. L. 100–360, amendment b
 
 #### Effective Date of 1987 Amendments
 
-Section 4118(e)(14), formerly section 4118(e)(3), of Pub. L. 100–203, as renumbered and amended by Pub. L. 100–360, title IV, §411(k)(10)(B)(i), (D), July 1, 1988, 102Stat. 794, 795, provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply to activities occurring before, on, or after the date of the enactment of this Act \[Dec. 22, 1987\].”
+Section 4118(e)(14), formerly section 4118(e)(3), of Pub. L. 100–203, as renumbered and amended by Pub. L. 100–360, title IV, §411(k)(10)(B)(i), (D), July 1, 1988, 102 Stat. 794, 795, provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply to activities occurring before, on, or after the date of the enactment of this Act \[Dec. 22, 1987\].”
 
 Amendment by Pub. L. 100–93 effective at end of fourteen-day period beginning Aug. 18, 1987, and inapplicable to administrative proceedings commenced before end of such period, except that amendment by section 3(a)(1) of Pub. L. 100–93 applicable to claims presented for services performed on or after date at end of fourteen-day period beginning Aug. 18, 1987, without regard to the date the physician's misrepresentation of fact was made, and amendment by section 3(f) of Pub. L. 100–93 effective Aug. 18, 1987, see section 15(a), (c)(3), and (d) of Pub. L. 100–93, set out as a note under section 1320a–7 of this title.
 

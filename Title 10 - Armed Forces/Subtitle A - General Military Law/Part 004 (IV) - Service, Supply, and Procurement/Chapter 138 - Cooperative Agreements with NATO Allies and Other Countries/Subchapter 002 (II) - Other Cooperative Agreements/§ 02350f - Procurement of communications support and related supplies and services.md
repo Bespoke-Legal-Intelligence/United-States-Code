@@ -36,7 +36,7 @@
 
 Subsec. (a). Pub. L. 101–189, §933(b), substituted “a bilateral arrangement with any allied country or allied international organization or may enter into a multilateral arrangement with allied countries and allied international organizations” for “an arrangement with the Minister of Defense or other appropriate official of any allied country or with the North Atlantic Treaty Organization (NATO),” and “the allied country or countries or allied international organization or allied international organizations, as the case may be,” for “such country or NATO” and inserted “The term of an arrangement entered into under this subsection may not exceed five years.”
 
-Subsec. (b). Pub. L. 101–189, §933(c), designated first sentence as par. (1), inserted “Liquidations may be made at such times as the parties in an arrangement may agree upon, but in no case may final liquidation in the case of an arrangement be made later than 30 days after the end of the term for which the arrangement was entered into.” after “supplies and services.”, added par. (2), and designated second sentence as par. (3).
+Subsec. (b). Pub. L. 101–189, §933(c), designated first sentence as par. (1), inserted “Liquidations may bemade at such times as the parties in an arrangement may agree upon, but in no case may final liquidation in the case of an arrangement be made later than 30 days after the end of the term for which the arrangement was entered into.” after “supplies and services.”, added par. (2), and designated second sentence as par. (3).
 
 Subsec. (d). Pub. L. 101–189, §933(d)(1), (2), substituted “In this section:” and par. (1) for “In this section, the term ‘allied country’ means—” and redesignated former cls. (1) and (2) as cls. (A) and (B).
 

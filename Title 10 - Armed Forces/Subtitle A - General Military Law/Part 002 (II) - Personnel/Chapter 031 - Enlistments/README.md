@@ -20,13 +20,15 @@
 | [518\.](%C2%A7%2000518%20-%20Temporary%20enlistments.md) | Temporary enlistments. |
 | [519\.](%C2%A7%2000519%20-%20Temporary%20enlistments%20during%20war%20or%20emergency.md) | Temporary enlistments: during war or emergency. |
 | [520\.](%C2%A7%2000520%20-%20Limitation%20on%20enlistment%20and%20induction%20of%20persons%20whose%20score%20on%20the%20Armed%20Forces%20Qualification%20Test%20is%20below%20a%20prescribed%20level.md) | Limitation on enlistment and induction of persons whose score on the Armed Forces Qualification Test is below a prescribed level. |
-| [520a.](%C2%A7%2000520a%20-%20Criminal%20history%20information%20for%20military%20recruiting%20purposes.md) | Criminal history information for military recruiting purposes. |
+| \[520a. | Repealed.\] |
 | [520b.](%C2%A7%2000520b%20-%20Applicants%20for%20enlistment%20authority%20to%20use%20funds%20for%20the%20issue%20of%20authorized%20articles.md) | Applicants for enlistment: authority to use funds for the issue of authorized articles. |
 | [520c.](%C2%A7%2000520c%20-%20Recruiting%20functions%20use%20of%20funds.md) | Recruiting functions: use of funds. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2000—Pub. L. 106–398, §1 \[\[div. A\], title X, §1076(g)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–282, struck out item 520a “Criminal history information for military recruiting purposes”.
 
 1996—Pub. L. 104–201, div. A, title III, §361(b), Sept. 23, 1996, 110 Stat. 2491, added item 520c.
 
@@ -49,18 +51,6 @@ Pub. L. 90–235, §2(a)(1)(C), Jan. 2, 1968, 81 Stat. 755, redesignated item 50
 1962—Pub. L. 87–649, §2(2), Sept. 7, 1962, 76 Stat. 492, added item 517.
 
 1958—Pub. L. 85–861, §1(9)(B), (C), Sept. 2, 1958, 72 Stat. 1440, struck out item 513 “Reserve components: promotions” and added item 516.
-
-#### Cross References
-
-Particular provisions relating to enlistments—
-
-&emsp;&emsp;Air Force, see section 8251 et seq. of this title.
-
-&emsp;&emsp;Army, see section 3251 et seq. of this title.
-
-&emsp;&emsp;Coast Guard, see section 351 et seq. of Title 14, Coast Guard.
-
-&emsp;&emsp;National Guard, see sections 302 to 304 and 313 of Title 32, National Guard.
 
 
 ---
@@ -87,6 +77,6 @@ Particular provisions relating to enlistments—
 - [&sect; 00518 - Temporary enlistments](%C2%A7%2000518%20-%20Temporary%20enlistments.md)
 - [&sect; 00519 - Temporary enlistments during war or emergency](%C2%A7%2000519%20-%20Temporary%20enlistments%20during%20war%20or%20emergency.md)
 - [&sect; 00520 - Limitation on enlistment and induction of persons whose score on the Armed Forces Qualification Test is below a prescribed level](%C2%A7%2000520%20-%20Limitation%20on%20enlistment%20and%20induction%20of%20persons%20whose%20score%20on%20the%20Armed%20Forces%20Qualification%20Test%20is%20below%20a%20prescribed%20level.md)
-- [&sect; 00520a - Criminal history information for military recruiting purposes](%C2%A7%2000520a%20-%20Criminal%20history%20information%20for%20military%20recruiting%20purposes.md)
+- [&sect; 00520a - Repealed. Pub. L. 106&#8211;398, &sect;1 \[\[div. A\], title X, &sect;1076(g)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A&#8211;282](%C2%A7%2000520a%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93398%2C%20%C2%A71%20%5B%5Bdiv.%20A%5D%2C%20title%20X%2C%20%C2%A71076%28g%29%281%29%5D%2C%20Oct.%2030%2C%202000%2C%20114%20Stat.%201654%2C%201654A%E2%80%93282.md)
 - [&sect; 00520b - Applicants for enlistment authority to use funds for the issue of authorized articles](%C2%A7%2000520b%20-%20Applicants%20for%20enlistment%20authority%20to%20use%20funds%20for%20the%20issue%20of%20authorized%20articles.md)
 - [&sect; 00520c - Recruiting functions use of funds](%C2%A7%2000520c%20-%20Recruiting%20functions%20use%20of%20funds.md)

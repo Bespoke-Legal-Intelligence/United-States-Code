@@ -53,9 +53,11 @@
 | [8439\.](Subchapter%20003%20%28III%29%20-%20Thrift%20Savings%20Plan/%C2%A7%2008439%20-%20Accounting%20and%20information.md) | Accounting and information. |
 | [8440\.](Subchapter%20003%20%28III%29%20-%20Thrift%20Savings%20Plan/%C2%A7%2008440%20-%20Tax%20treatment%20of%20the%20Thrift%20Savings%20Fund.md) | Tax treatment of the Thrift Savings Fund. |
 | [8440a.](Subchapter%20003%20%28III%29%20-%20Thrift%20Savings%20Plan/%C2%A7%2008440a%20-%20Justices%20and%20judges.md) | Justices and judges. |
-| [8440b.](Subchapter%20003%20%28III%29%20-%20Thrift%20Savings%20Plan/%C2%A7%2008440b%20-%20Bankruptcy%20judges%20and%20magistrates.md) | Bankruptcy judges and magistrates. |
+| [8440b.](Subchapter%20003%20%28III%29%20-%20Thrift%20Savings%20Plan/%C2%A7%2008440b%20-%20Bankruptcy%20judges%20and%20magistrate%20judges.md) | Bankruptcy judges and magistrate judges. |
 | [8440c.](Subchapter%20003%20%28III%29%20-%20Thrift%20Savings%20Plan/%C2%A7%2008440c%20-%20Court%20of%20Federal%20Claims%20judges.md) | Court of Federal Claims judges. |
 | [8440d.](Subchapter%20003%20%28III%29%20-%20Thrift%20Savings%20Plan/%C2%A7%2008440d%20-%20Judges%20of%20the%20United%20States%20Court%20of%20Appeals%20for%20Veterans%20Claims.md) | Judges of the United States Court of Appeals for Veterans Claims. |
+| [8440e.](Subchapter%20003%20%28III%29%20-%20Thrift%20Savings%20Plan/%C2%A7%2008440e%20-%20Members%20of%20the%20uniformed%20services.md) | Members of the uniformed services. |
+| [8440f.](Subchapter%20003%20%28III%29%20-%20Thrift%20Savings%20Plan/%C2%A7%2008440f%20-%20Maximum%20percentage%20allowable%20for%20certain%20participants.md) | Maximum percentage allowable for certain participants. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -119,15 +121,15 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Contingent Amendment of Analysis
-
-<i>Pub. L. 106–65, div. A, title VI, §§661(a)(2)(B), 663, Oct. 5, 1999, 113 Stat. 671, 673, provided that effective only if the President proposes in the 2001 fiscal year budget and there is enacted in the second session of the One Hundred Sixth Congress qualifying offsetting legislation, the table of sections at the beginning of this chapter is amended by adding after the item relating to section 8440d the following: “8440e. Members of the uniformed services.”</i>
-
 #### Amendments
+
+2000—Pub. L. 106–554, §1(a)(4) \[div. B, title I, §138(a)(7)(B)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–234, added item 8440f.
 
 1999—Pub. L. 106–168, title II, §203(a)(2), Dec. 12, 1999, 113 Stat. 1820, added item 8431.
 
 Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §334(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–441, added item 8432c.
+
+Pub. L. 106–65, div. A, title VI, §§661(a)(2)(B), 663, Oct. 5, 1999, 113 Stat. 671, 673, as amended by Pub. L. 106–398, §1 \[\[div. A\], title VI, §661(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–167, added item 8440e, effective 180 days after Oct. 30, 2000, unless postponed.
 
 1998—Pub. L. 105–368, title V, §512(b)(2)(B), Nov. 11, 1998, 112 Stat. 3342, substituted “Judges of the United States Court of Appeals for Veterans Claims” for “Judges of the United States Court of Veterans Appeals” in item 8440d.
 
@@ -157,9 +159,13 @@ Pub. L. 100–238, title I, §124(a)(2), (b)(2), Jan. 8, 1988, 101 Stat. 1756, a
 
 1986—Pub. L. 99–556, title I, §110(b), Oct. 27, 1986, 100 Stat. 3132, added item 8478a.
 
+#### Change of Name
+
+Words “magistrate judges” substituted for “magistrates” in item 8440b pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 2105, 3329, 5304, 5362, 5541, 5597, 5724, 8116, 8342, 8344, 8347, 8348, 8350, 8351, 8440a, 8440d, 8901 of this title; title 2 section 92; title 10 section 942; title 20 section 4416; title 22 sections 3649, 3658, 3664, 3673, 3951, 4009, 4064, 4067, 4069, 4071, 4071c, 4071d, 4071h; title 25 section 450i; title 26 sections 3121, 6103; title 28 sections 155, 178, 375, 376, 377, 611, 627, 636, 753, 797; title 31 section 772; title 38 sections 7297, 7438, 7453, 7458; title 39 section 1005; title 40 section 214d; title 42 sections 402, 410, 3035r, 7237, 10704; title 49 section 49107; title 50 sections 2021, 2151, 2152, 2153, 2154, 2155, 2157.
+This chapter is referred to in sections 2105, 3329, 5304, 5362, 5541, 5597, 5724, 8116, 8342, 8344, 8347, 8348, 8350, 8351, 8432c, 8901 of this title; title 2 sections 92, 162b; title 10 section 942; title 20 section 4416; title 22 sections 3649, 3658, 3664, 3673, 3951, 4009, 4064, 4067, 4069, 4071, 4071c, 4071d, 4071h; title 25 section 450i; title 26 sections 3121, 6103; title 28 sections 155, 178, 375, 376, 377, 611, 627, 636, 753, 797; title 31 sections 732a, 772; title 37 section 211; title 38 sections 7257, 7297, 7438, 7453, 7458; title 39 section 1005; title 40 section 214d; title 42 sections 402, 410, 3035r, 7237, 10704; title 49 section 49107; title 50 sections 2021, 2151, 2152, 2153, 2154, 2155, 2157, 2442.
 
 
 ---

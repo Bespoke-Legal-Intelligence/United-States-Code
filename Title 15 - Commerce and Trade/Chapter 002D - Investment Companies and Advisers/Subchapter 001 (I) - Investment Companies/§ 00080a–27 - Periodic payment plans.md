@@ -34,7 +34,7 @@ Notwithstanding subsection (a) of this section, it shall be unlawful for any reg
 
 #### (e) Refund privileges; notice; rules
 
-With respect to any periodic payment plan certificate sold subject to the provisions of subsection (d) of this section, the registered investment company issuing such periodic payment plan certificate, or any depositor of or underwriter for such company, shall in writing (1) inform each certificate holder who has missed three payments or more, within thirty days following the expiration of fifteen months after the issuance of the certificate, or, if any such holder has missed one payment or more after such period of fifteen months but prior to the expiration of eighteen months after the issuance of the certificate, at any time prior to the expiration of such eighteen-month period, of his right to surrender his certificate as specified in subsection (d) of this section, and (2) inform the certificate holder of (A) the value of the holder's account as of the time the written notice was given to such holder, and (B) the amount to which he is entitled as specified in subsection (d) of this section. The Commission may make rules specifying the method, form, and contents of the notice required by this subsection.
+With respect to any periodic payment plan certificate sold subject to the provisions of subsection (d) of this section, the registered investment company issuing such periodic payment plan certificate, or any depositor of or underwriter for such company, shall in writing (1) inform each certificate holder who has missed three payments or more, within thirty days following the expiration of fifteen months after the issuance of the certificate, or, if any such holder has missed one payment or more after such period of fifteen months but prior to the expiration of eighteen months after the issuance of the certificate, at any time prior to the expiration of such eighteen-month period, of his right to surrender his certificate as specified in subsection (d) of this section, and (2) inform the certificate holder of (A) the value of the holder'saccount as of the time the written notice was given to such holder, and (B) the amount to which he is entitled as specified in subsection (d) of this section. The Commission may make rules specifying the method, form, and contents of the notice required by this subsection.
 
 #### (f) Charges, statement; rules; surrender of certificates; regulations
 
@@ -84,7 +84,7 @@ Upon making the election specified in subsection (g) of this section, it shall b
 
 #### Effective Date of 1970 Amendment
 
-Amendment by Pub. L. 91–547 effective on expiration of six months after Dec. 14, 1970, see section 30(3) of Pub. L. 91–547, set out as a note under section 80a–52 of this title.
+Amendment by Pub. L. 91–547 effective on expiration of six months after Dec. 14, 1970, see section 30(3) ofPub. L. 91–547, set out as a note under section 80a–52 of this title.
 
 #### Transfer of Functions
 

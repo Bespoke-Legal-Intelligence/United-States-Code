@@ -40,7 +40,7 @@ From the sums made available each year to carry out this subchapter, the State e
 
 #### (1) Distribution
 
-&emsp;From the funds paid to a State educational agency pursuant to section 7302 of this title for a fiscal year, a State educational agency shall distribute to each eligible local educational agency which has submitted an application as required in section 7332 of this title the amount of such local educational agency allocation as determined under subsection (a) of this section.
+&emsp;From the funds paid to a State educational agency pursuant to section 7302 of this titlefor a fiscal year, a State educational agency shall distribute to each eligible local educational agency which has submitted an application as required in section 7332 of this title the amount of such local educational agency allocation as determined under subsection (a) of this section.
 
 #### (2) Additional funds
 

@@ -8,7 +8,7 @@ No grant may be made under this subchapter—
 
 &emsp;(2) unless the application is in accordance with the comprehensive statewide historic preservation plan which has been approved by the Secretary after considering its relationship to the comprehensive statewide outdoor recreation plan prepared pursuant to the Land and Water Conservation Fund Act of 1965 (78 Stat. 897) \[16 U.S.C. 460<i>l</i>–4 of this title\];
 
-&emsp;(3) for more than 60 percent of the aggregate costs of carrying out projects and programs under the administrative control of the State Historic Preservation Officer as specified in section 470a(b)(3) of this title in any one fiscal year.<sup>1</sup>
+&emsp;(3) for more than 60 percent of the aggregate costs of carrying out projects and programs under the administrative control of the State Historic Preservation Officer as specified in section 470a(b)(3) of this title in any one fiscal year;
 
 &emsp;(4) unless the grantee has agreed to make such reports, in such form and containing such information as the Secretary may from time to time require;
 
@@ -24,11 +24,11 @@ The Secretary may in his discretion waive the requirements of subsection (a), pa
 
 #### (c) Repealed. Pub. L. 96–515, title II, §202(c), Dec. 12, 1980, 94 Stat. 2993
 
-#### (d) <sup>2</sup> Remaining cost of project
+#### (d) <sup>1</sup> Remaining cost of project
 
 No State shall be permitted to utilize the value of real property obtained before October 15, 1966, in meeting the remaining cost of a project for which a grant is made under this subchapter.
 
-#### (d) <sup>2</sup> Availability
+#### (d) <sup>1</sup> Availability
 
 The Secretary shall make funding available to individual States and the National Trust for Historic Preservation as soon as practicable after execution of a grant agreement. For purposes of administration, grants to individual States and the National Trust each shall be considered to be one grant and shall be administered by the National Park Service as such.
 
@@ -36,13 +36,15 @@ The Secretary shall make funding available to individual States and the National
 
 The total administrative costs, direct and indirect, charged for carrying out State projects and programs may not exceed 25 percent of the aggregate costs except in the case of grants under section 470a(e)(6) of this title.
 
-(Pub. L. 89–665, title I, §102, Oct. 15, 1966, 80 Stat. 916; Pub. L. 94–422, title II, §201(1), Sept. 28, 1976, 90 Stat. 1319; Pub. L. 96–515, title IV, §202, Dec. 12, 1980, 94 Stat. 2993; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–575, title XL, §4009, Oct. 30, 1992, 106 Stat. 4759.)
+(Pub. L. 89–665, title I, §102, Oct. 15, 1966, 80 Stat. 916; Pub. L. 94–422, title II, §201(1), Sept. 28, 1976, 90 Stat. 1319; Pub. L. 96–515, title IV, §202, Dec. 12, 1980, 94 Stat. 2993; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–575, title XL, §4009, Oct. 30, 1992, 106 Stat. 4759; Pub. L. 106–208, §5(a)(5), May 26, 2000, 114 Stat. 318.)
 
 #### References in Text
 
 The Land and Water Conservation Fund Act of 1965, referred to in subsec. (a)(2), is Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, as amended, which is classified generally to part B (§460<i>l</i>–4 et seq.) of subchapter LXIX of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 460<i>l</i>–4 of this title and Tables.
 
 #### Amendments
+
+2000—Subsec. (a)(3). Pub. L. 106–208 substituted “year;” for “year.” at end.
 
 1992—Subsec. (a)(3). Pub. L. 102–575, §4009(1), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “for more than 50 per centum of the aggregate cost of carrying out projects and programs specified in section 470a(d)(1) and (2) of this title in any one fiscal year, except that for the costs of State or local historic surveys or inventories the Secretary shall provide 70 per centum of the aggregate cost involved in any one fiscal year.”
 
@@ -54,7 +56,7 @@ Subsecs. (d) and (e). Pub. L. 102–575, §4009(3), added subsec. (d), relating 
 
 1980—Subsec. (a). Pub. L. 96–515, §202(a), (b), in par. (3) substituted provision directing that no grant be made for more than 50 per centum of the aggregate cost of carrying out projects and programs specified in section 470a(d)(1) and (2) of this title in any one fiscal year, except that for costs of State or local historic surveys or inventories the Secretary provide 70 per centum of the aggregate cost involved in any one fiscal year for provision directing that no grant be made for more than 50 per centum of the total cost involved, as determined by the Secretary, which determination was to be final, and inserted provision following cl. (6), that, except as otherwise permitted, the State share of the costs referred to in par. (3) be contributed by non-Federal sources and no grant made be treated as taxable income.
 
-Subsec. (c). Pub. L. 96–515, §202(c), struck out subsec. (c) which authorized the Secretary in his discretion to waive the requirements of subsec. (a)(3) of this section for the purposes of making grants for the preparation of statewide historic preservation plans and surveys and project plans and restricted any grant made pursuant to this subsection to not to exceed 70 per centum of the cost of the project, with the total cost of grants made pursuant to this subsection in any fiscal year not to exceed one-half of the funds appropriated for that fiscal year pursuant to section 470h of this title.
+Subsec. (c). Pub. L. 96–515, §202(c), struck out subsec. (c) which authorized the Secretary in his discretion to waive the requirements of subsec. (a)(3) of this section for the purposes of making grants for the preparationof statewide historic preservation plans and surveys and project plans and restricted any grant made pursuant to this subsection to not to exceed 70 per centum of the cost of the project, with the total cost of grants made pursuant to this subsection in any fiscal year not to exceed one-half of the funds appropriated for that fiscal year pursuant to section 470h of this title.
 
 1976—Pub. L. 94–422 reenacted subsecs. (a) and (b) without change, added subsec. (c), and redesignated former subsec. (c) as (d).
 
@@ -62,7 +64,5 @@ Subsec. (c). Pub. L. 96–515, §202(c), struck out subsec. (c) which authorized
 
 This section is referred to in section 470h–1 of this title.
 
-<i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
-
-<i><sup>2</sup></i><i> So in original. Two subsecs. (d) have been enacted.</i>
+<i><sup>1</sup></i><i> So in original. Two subsecs. (d) have been enacted.</i>
 

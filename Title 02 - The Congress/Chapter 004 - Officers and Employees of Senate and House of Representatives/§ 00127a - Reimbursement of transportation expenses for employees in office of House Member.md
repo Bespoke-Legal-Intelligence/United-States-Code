@@ -12,9 +12,5 @@ The applicable accounts of the House of Representatives is <sup>1</sup> made av
 
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
-#### Cross References
-
-Adjustment of allowances by Committee on House Oversight, see section 57 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “are”.</i>
 

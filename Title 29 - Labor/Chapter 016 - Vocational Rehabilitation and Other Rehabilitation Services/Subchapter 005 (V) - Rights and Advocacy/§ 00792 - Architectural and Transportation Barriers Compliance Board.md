@@ -52,7 +52,7 @@
 
 (4) No individual appointed under paragraph (1)(A) of this subsection who has served as a member of the Access Board may be reappointed to the Access Board more than once unless such individual has not served on the Access Board for a period of two years prior to the effective date of such individual's appointment.
 
-(5)(A) Members of the Access Board who are not regular full-time employees of the UnitedStates shall, while serving on the business of the Access Board, be entitled to receive compensation at rates fixed by the President, but not to exceed the daily equivalent of the rate of pay for level IV of the Executive Schedule under section 5315 of title 5, including travel time, for each day they are engaged in the performance of their duties as members of the Access Board; and shall be entitled to reimbursement for travel, subsistence, and other necessary expenses incurred by them in carrying out their duties under this section.
+(5)(A) Members of the Access Board who are not regular full-time employees of the United States shall, while serving on the business of the Access Board, be entitled to receive compensation at rates fixed by the President, but not to exceed the daily equivalent of the rate of pay for level IV of the Executive Schedule under section 5315 of title 5, including travel time, for each day they are engaged in the performance of their duties as members of the Access Board; and shall be entitled to reimbursement for travel, subsistence, and other necessary expenses incurred by them in carrying out their duties under this section.
 
 (B) Members of the Access Board who are employed by the Federal Government shall serve without compensation, but shall be reimbursed for travel, subsistence, and other necessary expenses incurred by them in carrying out their duties under this section.
 
@@ -132,11 +132,11 @@ Beginning in fiscal year 2000, the Access Board, after consultation with the Sec
 
 (D) The Access Board shall establish a procedure to ensure separation of its compliance and technical assistance responsibilities under this section.
 
-(2) The departments or agencies specified in subsection (a) of this section shall make available to the Access Board such technical, administrative, or other assistance as it may require to carry out its functions under this section, and the Access Board may appoint such other advisers, technical experts, and consultants as it deems necessary to assist it in carrying out its functions under this section. Special advisory and technical experts and consultants appointed pursuant to this paragraph shall, while performing their functions under this section, be entitled to receive compensation at rates fixed by the Chairperson,<sup>2</sup> but not exceeding the daily equivalent of the rate of pay for level 4 of the Senior Executive Service Schedule under section 5382 of title 5, including travel time, and while serving away from their homes or regular places of business they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of such title5 for persons in the Government service employed intermittently.
+(2) The departments or agencies specified in subsection (a) of this section shall make available to the Access Board such technical, administrative, or other assistance as it may require to carry out its functions under this section, and the Access Board may appoint such other advisers, technical experts, and consultants as it deems necessary to assist it in carrying out its functions under this section. Special advisoryand technical experts and consultants appointed pursuant to this paragraph shall, while performing their functions under this section, be entitled to receive compensation at rates fixed by the Chairperson,<sup>2</sup> but not exceeding the daily equivalent of the rate of pay for level 4 of the Senior Executive Service Schedule under section 5382 of title 5, including travel time, and while serving away from their homes or regular places of business they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of such title 5 for persons in the Government service employed intermittently.
 
-#### (h) Reports to Congress; reports on transportation barriers and housing needs
+#### (h) Reports on transportation barriers and housing needs
 
-(1) The Access Board shall, at the end of each fiscal year, report its activities during the preceding fiscal year to the Congress. Such report shall include an assessment of the extent of compliance with the Acts cited in subsection (b) of this section, along with a description and analysis of investigations made and actions taken by the Access Board, and the reports and recommendations described in paragraphs (8) and (9) of such subsection.
+(1) Omitted.
 
 (2) The Access Board shall, at the same time that the Access Board transmits the report required under section 7(b) of the Act commonly known as the Architectural Barriers Act of 1968 (42 U.S.C. 4157(b)), transmit the report to the Committee on Education and the Workforce of the House of Representatives and the Committee on Labor and Human Resources of the Senate.
 
@@ -163,6 +163,10 @@ Executive level IV, referred to in subsec. (a)(1)(B), is set out in section 5315
 The Act commonly known as the Architectural Barriers Act of 1968, referred to in subsecs. (b)(1), (3)(A), (7) and (e)(2)(B), is Pub. L. 90–480, Aug. 12, 1968, 82 Stat. 718, as amended, which is classified generally to chapter 51 (§4151 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4151 of Title 42 and Tables.
 
 The Americans with Disabilities Act of 1990, referred to in subsec. (b)(2), (3)(B), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended. Titles II and III of the Act are classified generally to subchapters II (§12131 et seq.) and III (§12181 et seq.), respectively, of chapter 126 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+
+#### Codification
+
+Subsec. (h)(1) of this section, which required the Board to submit an annual report on its activities to Congress, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 155 of House Document No. 103–7.
 
 #### Amendments
 
@@ -240,7 +244,7 @@ Subsec. (i). Pub. L. 102–569, §504(h), substituted “fiscal years 1993 throu
 
 Subsec. (i). Pub. L. 102–52 substituted “1987 through 1992” for “1987, 1988, 1989, 1990, and 1991”.
 
-1988—Subsec. (a)(2). Pub. L. 100–630, §206(b)(1), amended par. (2) generally. Prior to amendment, par. (2) readas follows: “The term of office of each appointed member of the Board shall be three years; except that (i) the members first taking office shall serve, as designated by the President at the time of appointment, four for a term of one year, four for a term of two years, and three for a term of three years, (ii) a member whose term has expired may continue to serve until a successor has been appointed, and (iii) a member appointed to fill a vacancy shall serve for the remainder of the term to which that member's predecessor was appointed.”
+1988—Subsec. (a)(2). Pub. L. 100–630, §206(b)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term of office of each appointed member of the Board shall be three years; except that (i) the members first taking office shall serve, as designated by the President at the time of appointment, four for a term of one year, four for a term of two years, and three for a term of three years, (ii) a member whose term has expired may continue to serve until a successor has been appointed, and (iii) a member appointed to fill a vacancy shall serve for the remainder of the term to which that member's predecessor was appointed.”
 
 Subsec. (a)(3). Pub. L. 100–630, §206(b)(2), substituted “the member” for “he”.
 
@@ -302,7 +306,7 @@ Subsec. (e). Pub. L. 95–602, §118(d), designated existing provisions as par. 
 
 Pub. L. 95–251 substituted “administrative law judges” for “hearing examiners” wherever appearing. Such substitution was made in pars. (2) and (3) as the probable intent of Congress in view of the amendment to subsec. (e) by section 2(a)(8) of Pub. L. 95–251 (although prior in time to the amendment by Pub. L. 95–602) requiring such substitution wherever appearing in text.
 
-Subsec. (h). Pub. L. 95–602, §118(e), added subsec. (h). Former subsec. (h), which authorized appropriations forcarrying out duties and functions of the Board of $1,000,000 for each of fiscal years ending June 30, 1974, and June 30, 1975, $1,500,000 for fiscal year ending June 30, 1976, and $1,500,000 for each of fiscal years ending Sept. 30, 1977 and Sept. 30, 1978, was struck out.
+Subsec. (h). Pub. L. 95–602, §118(e), added subsec. (h). Former subsec. (h), which authorized appropriations for carrying out duties and functions of the Board of $1,000,000 for each of fiscal years ending June 30, 1974, and June 30, 1975, $1,500,000 for fiscal year ending June 30, 1976, and $1,500,000 for each of fiscal years ending Sept. 30, 1977 and Sept. 30, 1978, was struck out.
 
 Subsec. (i). Pub. L. 95–602, §118(e), added subsec. (i).
 

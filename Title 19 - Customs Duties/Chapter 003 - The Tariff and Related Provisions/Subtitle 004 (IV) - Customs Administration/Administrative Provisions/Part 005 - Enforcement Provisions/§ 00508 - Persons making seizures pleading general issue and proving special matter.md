@@ -8,9 +8,3 @@ If any officer, or other person, executing or aiding or assisting in the seizure
 
 R.S. §3073 derived from act Mar. 2, 1799, ch. 22, §71, 1 Stat. 678.
 
-#### Federal Rules of Civil Procedure
-
-General rules of pleading, see rule 8 of Title 28, Appendix, Judiciary and Judicial Procedure.
-
-Supersedure of method of procedure prescribed in this section, see note by Advisory Committee under rule 8.
-

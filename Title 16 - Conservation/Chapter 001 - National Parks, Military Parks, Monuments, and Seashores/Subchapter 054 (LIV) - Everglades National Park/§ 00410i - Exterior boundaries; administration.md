@@ -18,7 +18,7 @@ Notwithstanding section 410 of this title, or any action taken pursuant to autho
 
 &emsp;thence southeasterly along the southwest right-of-way line of United States Highway Numbered 1 to a point which is the northerly point of a tract of land conveyed by the trustees of the internal improvement fund, State of Florida, to John E. Ravlin, and others, by deed dated November 5, 1943, recorded in deed book G16, page 72, in Monroe County public records;
 
-&emsp;thence following along the westerly and southerly boundary of said tract to its point of intersection with a line parallel with and 200 feet northwesterly from the centerline of Intracoastal Waterway near the southern point of said Ravlin tract;
+&emsp;thence following along the westerly and southerly boundary of said tract to its point ofintersection with a line parallel with and 200 feet northwesterly from the centerline of Intracoastal Waterway near the southern point of said Ravlin tract;
 
 &emsp;thence southwesterly, following a line parallel to the centerline of said Intracoastal Waterway and 200 feet northwesterly from said centerline to a point due north of Long Key Light, approximately longitude 80 degrees 50 minutes west, latitude 24 degrees 51 minutes north;
 

@@ -18,7 +18,7 @@
 
 (2) The membership of the Committee shall include—
 
-&emsp;(A) three members who are practicing Great Lakes pilots and who reflect a regional balance;
+&emsp;(A) The <sup>1</sup> President of each of the 3 Great Lakes pilotage districts, or the President's representative;
 
 &emsp;(B) one member representing the interests of vessel operators that contract for Great Lakes pilotage services;
 
@@ -26,15 +26,21 @@
 
 &emsp;(D) one member representing the interests of shippers whose cargoes are transported through Great Lakes ports; and
 
-&emsp;(E) one member representing the interests of the general public, who is an independent expert on the Great Lakes maritime industry.
+&emsp;(E) a member with a background in finance or accounting, who—
+
+&emsp;&emsp;(i) must have been recommended to the Secretary by a unanimous vote of the other members of the Committee, and
+
+&emsp;&emsp;(ii) may be appointed without regard to requirement in paragraph (1) that each member have 5 years of practical experience in maritime operations.
 
 (c)(1) The Committee shall elect one of its members as the Chairman and one of its members as the Vice Chairman. The Vice Chairman shall act as Chairman in the absence or incapacity of the Chairman, or in the event of a vacancy in the office of the Chairman.
 
-(2) The Secretary shall, and any other interested agency may, designate a representative to participate as an observer with the Committee. The representatives shall, as appropriate, report to and advise the Committee on matters relating to Great Lakes pilotage. The Secretary's designated representative shall act as the executive secretary of the Committee and shall perform the duties set forth in section 10(c) of the Federal Advisory Committee Act (5 U.S.C. App.).
+(2) The Secretary shall, and any other interested agency may, designate a representative to participate as an observer with the Committee. The Secretary's designated representative shall act as the executive secretary of the Committee and shall perform the duties set forth in section 10(c) of the Federal Advisory Committee Act (5 U.S.C. App.).
 
 (d)(1) The Secretary shall, whenever practicable, consult with the Committee before taking any significant action relating to Great Lakes pilotage.
 
 (2) The Secretary shall consider the information, advice, and recommendations of the Committee in formulating policy regarding matters affecting Great Lakes pilotage.
+
+(3) Any recommendations to the Secretary under subsection (a)(2) must have been approved by at least all but one of the members then serving on the committee.
 
 (e)(1) A member of the Committee, when attending meetings of the Committee or when otherwise engaged in the business of the Committee, is entitled to receive—
 
@@ -44,11 +50,11 @@
 
 (2) A member of the Committee shall not be considered to be an officer or employee of the United States for any purpose based on their receipt of any payment under this subsection.
 
-(f)(1) The Federal Advisory Committee Act (5 U.S.C. App.) applies to the Committee, except that the Committee terminates on September 30, 2003.
+(f)(1) The Federal Advisory Committee Act (5 U.S.C. App.) applies to the Committee, except that the Committee terminates on September 30, 2005.
 
 (2) 2 years before the termination date set forth in paragraph (1) of this subsection, the Committee shall submit to the Congress its recommendation regarding whether the Committee should be renewed and continued beyond the termination date.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 559; Pub. L. 105–383, title III, §303, Nov. 13, 1998, 112 Stat. 3418.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 559; Pub. L. 105–383, title III, §303, Nov. 13, 1998, 112 Stat. 3418; Pub. L. 106–554, §1(a)(4) \[div. A, §1118\], Dec. 21, 2000, 114 Stat. 2763, 2763A–209.)
 
 Historical and Revision Notes
 
@@ -74,9 +80,21 @@ The Federal Advisory Committee Act, referred to in subsecs. (c)(2) and (f)(1), i
 
 #### Amendments
 
+2000—Subsec. (b)(2)(A). Pub. L. 106–554, §1(a)(4) \[div. A, §1118(1)\], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “three members who are practicing Great Lakes pilots and who reflect a regional balance;”.
+
+Subsec. (b)(2)(E). Pub. L. 106–554, §1(a)(4) \[div. A, §1118(2)\], amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “one member representing the interests of the general public, who is an independent expert on the Great Lakes maritime industry.”
+
+Subsec. (c)(2). Pub. L. 106–554, §1(a)(4) \[div. A, §1118(3)\], which directed the striking out of second sentence in subsec. (C)(2), was executed by striking out the second sentence in subsec. (c)(2), “The representatives shall, as appropriate, report to and advise the Committee on matters relating to Great Lakes pilotage.”, to reflect the probable intent of Congress.
+
+Subsec. (d)(3). Pub. L. 106–554, §1(a)(4) \[div. A, §1118(4)\], added par. (3).
+
+Subsec. (f)(1). Pub. L. 106–554, §1(a)(4) \[div. A, §1118(5)\], substituted “September 30, 2005” for “September 30, 2003”.
+
 1998—Pub. L. 105–383 amended section generally, substituting provisions consisting of subsecs. (a) to (f) for former provisions consisting of subsecs. (a) to (c).
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+
+<i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

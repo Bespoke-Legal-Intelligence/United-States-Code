@@ -34,7 +34,7 @@ Each agreement entered into under this section shall—
 
 #### (1) In general
 
-&emsp;Any standard established by the Secretary by regulation for the collection by schools of medicine, osteopathic medicine, dentistry, pharmacy, podiatric medicine, optometry, or veterinary medicine of loans made pursuant to loan agreements under this subpart shall provide that the failure of any such school to collect such loans shall be measured in accordance with this subsection. This subsection may not be construed to require such schoolsto reimburse the student loan fund under this subpart for loans that became uncollectible prior to August 1985 or to penalize such schools with respect to such loans.
+&emsp;Any standard established by the Secretary by regulation for the collection by schools of medicine, osteopathic medicine, dentistry, pharmacy, podiatric medicine, optometry, or veterinary medicine of loans made pursuant to loan agreements under this subpart shall provide that the failure of any such school to collect such loans shall be measured in accordance with this subsection. This subsection may not be construed to require such schools to reimburse the student loan fund under this subpart for loans that became uncollectible prior to August 1985 or to penalize such schools with respect to such loans.
 
 #### (2) Extent of failure
 

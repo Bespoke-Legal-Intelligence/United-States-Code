@@ -54,7 +54,7 @@ For purposes of this subchapter—
 
 #### (9) Non-profit elementary or secondary school
 
-&emsp;The term “non-profit elementary or secondary school” means any elementary or secondary school (as defined in section 8801 of title20) owned and operated by one or more nonprofit corporations or associations no part of the net earnings of which inures, or may lawfully inure, to the benefit of any private shareholder or individual.
+&emsp;The term “non-profit elementary or secondary school” means any elementary or secondary school (as defined in section 8801 of title 20) owned and operated by one or more nonprofit corporations or associations no part of the net earnings of which inures, or may lawfully inure, to the benefit of any private shareholder or individual.
 
 #### (10) Public and commercial building
 

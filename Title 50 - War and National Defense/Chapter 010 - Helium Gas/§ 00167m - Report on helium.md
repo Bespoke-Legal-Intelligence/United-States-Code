@@ -12,7 +12,7 @@ Not later than 18 months before the date on which the Secretary commences offeri
 
 &emsp;(2) the findings of the Secretary, after consideration of the conclusions of the National Academy under subsection (a) of this section and after consultation with the United States helium industry and with heads of affected Federal agencies, as to whether the disposal of the helium reserve under section 167f of this title will have a substantial adverse effect on the United States helium industry, United States,<sup>1</sup> helium market or United States,<sup>1</sup> scientific, technological, biomedical, or national security interests; and
 
-&emsp;(3) if the Secretary determines that selling the crude helium reserves under the formula established in section 167f of this title will have a substantial adverse effect on the United States helium industry, the United States helium market or United States scientific, technological, biomedical, or national security interest, the Secretary shall make recommendations, including recommendations for proposed legislation, as may be necessary to avoid such adverse effects.
+&emsp;(3) if the Secretary determines that selling the crude helium reserves under the formula established in section 167f of this title will have a substantial adverse effect on the United States helium industry, the United States helium market or United States scientific, technological, biomedical, or national security interest, the Secretary shall make recommendations, including recommendationsfor proposed legislation, as may be necessary to avoid such adverse effects.
 
 (Mar. 3, 1925, ch. 426, §15, as added Pub. L. 86–777, §2, Sept. 13, 1960, 74 Stat. 923; amended Pub. L. 104–273, §7, Oct. 9, 1996, 110 Stat. 3319.)
 

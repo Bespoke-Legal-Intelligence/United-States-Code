@@ -16,7 +16,7 @@
 
 &emsp;expenses authorized in writing by the Joint Committee on Printing for inspection of Government printing activities.
 
-> In addition, the Public Printer shall provide capital for the fund by capitalizing, at fair andreasonable values as jointly determined by him and the Comptroller General, the current inventories, plant, and building appurtenances, except building structures and land, equipment, and other assets of the Government Printing Office.
+> In addition, the Public Printer shall provide capital for the fund by capitalizing, at fair and reasonable values as jointly determined by him and the Comptroller General, the current inventories, plant, and building appurtenances, except building structures and land, equipment, and other assets of the Government Printing Office.
 
 (b) The fund shall be—
 
@@ -36,7 +36,7 @@
 
 (f) The Comptroller General of the United States may audit the financial statement prepared under subsection (e) at his or her discretion or at the request of the Joint Committee on Printing. An audit by the Comptroller General shall be in lieu of the audit otherwise required by that subsection.
 
-(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1241; Pub. L. 93–604, title VII, §707, Jan. 2, 1975, 88 Stat. 1965; Pub. L. 97–258, §3(m)(2), Sept. 13, 1982, 96 Stat. 1066; Pub. L. 100–458, title III, §310, Oct. 1, 1988, 102 Stat. 2184; Pub. L. 101–163, title III, §309, Nov. 21, 1989, 103 Stat. 1065; Pub. L. 101–520, title II, §207, Nov. 5, 1990, 104 Stat. 2274; Pub. L. 103–69, title II, §207(a), Aug. 11, 1993, 107 Stat. 707; Pub. L. 104–316, title I, §123(a), Oct. 19, 1996, 110 Stat. 3839.)
+(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1241; Pub. L. 93–604, title VII, §707, Jan. 2, 1975, 88 Stat.1965; Pub. L. 97–258, §3(m)(2), Sept. 13, 1982, 96 Stat. 1066; Pub. L. 100–458, title III, §310, Oct. 1, 1988, 102 Stat. 2184; Pub. L. 101–163, title III, §309, Nov. 21, 1989, 103 Stat. 1065; Pub. L. 101–520, title II, §207, Nov. 5, 1990, 104 Stat. 2274; Pub. L. 103–69, title II, §207(a), Aug. 11, 1993, 107 Stat. 707; Pub. L. 104–316, title I, §123(a), Oct. 19, 1996, 110 Stat. 3839.)
 
 #### Historical and Revision Notes
 
@@ -68,27 +68,13 @@ Subsec. (d). Pub. L. 100–458, §310(c), amended subsec. (d) generally. Prior t
 
 Section 207(c) of Pub. L. 103–69 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 1708 of this title\] shall take effect on October 1, 1993.”
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the 23rd item on page 4 identifies a reporting provision which, as subsequently amended, is contained in subsec. (d) of this section), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+
 #### Federal Register Program; Use of Revolving Fund; Reimbursement
 
 Title II of S. 2939, Ninety-seventh Congress, 2d Session, as reported Sept. 22, 1982, and incorporated by reference in Pub. L. 97–276, §101(e), Oct. 2, 1982, 96 Stat. 1189, to be effective as if enacted into law, provided in part: “That hereafter the revolving fund shall be available to finance the costs of printing and binding all other publications of the Federal Register program and be reimbursed from appropriated funds available therefor”.
-
-#### Cross References
-
-Accounting and auditing, see section 3501 et seq. of Title 31, Money and Finance.
-
-Annual report of Public Printer, printing and distribution, see section 1340 of this title.
-
-Audit and settlement of accounts, see section 3521 et seq. of Title 31, Money and Finance.
-
-Budget process, see section 1101 et seq. of Title 31.
-
-Receipts from sales, disposition—
-
-&emsp;&emsp;Documents see section 1702 of this title.
-
-&emsp;&emsp;Federal Register, see section 1509 of this title.
-
-&emsp;&emsp;Government publications, additional copies, see section 1708 of this title.
 
 #### Section Referred to in Other Sections
 

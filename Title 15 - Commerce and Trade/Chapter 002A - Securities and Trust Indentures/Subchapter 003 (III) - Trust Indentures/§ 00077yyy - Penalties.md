@@ -12,24 +12,6 @@ Any person who willfully violates any provision of this subchapter or any rule, 
 
 Amendment by Pub. L. 94–29 effective June 4, 1975, see section 31(a) of Pub. L. 94–29, set out as a note under section 78b of this title.
 
-#### Cross References
-
-Penalties under—
-
-&emsp;&emsp;Investment Advisers Act of 1940, see section 80b–17 of this title.
-
-&emsp;&emsp;Investment Company Act of 1940, see section 80a–48 of this title.
-
-&emsp;&emsp;Public Utility Holding Company Act of 1935, see section 79z–3 of this title.
-
-&emsp;&emsp;Securities Act of 1933, see section 77x of this title.
-
-&emsp;&emsp;Securities Exchange Act of 1934, see section 78ff of this title.
-
-Rules and regulations, authority of Commission to make, issue, amend and rescind, see section 77sss of this title.
-
-Statements in or omissions from analysis required under sections 77eee to 77ggg of this title, section as inapplicable to, see section 77eee of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 77eee of this title.

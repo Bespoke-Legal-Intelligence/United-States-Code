@@ -11,7 +11,7 @@
 | [296\.](%C2%A7%2000296%20-%20Step%20increases%3B%20waiting%20periods%3B%20service%20in%20Armed%20Forces%3B%20automatic%20advancement.md) | Step increases; waiting periods; service in Armed Forces; automatic advancement. |
 | [297\.](%C2%A7%2000297%20-%20Appointments%20and%20reclassifications%20to%20higher%20compensation%20levels.md) | Appointments and reclassifications to higher compensation levels. |
 | [298\.](%C2%A7%2000298%20-%20Reductions%20in%20compensation%20level.md) | Reductions in compensation level. |
-| [299\.](%C2%A7%2000299%20-%20Appointments%3B%20compensation%20level.md) | Appointments; compensation level. |
+| [299\.](%C2%A7%2000299%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93554%2C%20%C2%A71%28a%29%282%29%20%5Btitle%20I%2C%20%C2%A7102%28a%29%5D%2C%20Dec.%2021%2C%202000%2C%20114%20Stat.%202763%2C%202763A%E2%80%93100.md) | Repealed. |
 | [300\.](%C2%A7%2000300%20-%20Establishment%20of%20positions%3B%20payment%20from%20applicable%20accounts.md) | Establishment of positions; payment from applicable accounts. |
 | [301\.](%C2%A7%2000301%20-%20Preservation%20of%20existing%20appointing%20authorities.md) | Preservation of existing appointing authorities. |
 | [302\.](%C2%A7%2000302%20-%20Regulations.md) | Regulations. |
@@ -33,7 +33,7 @@
 - [&sect; 00296 - Step increases; waiting periods; service in Armed Forces; automatic advancement](%C2%A7%2000296%20-%20Step%20increases%3B%20waiting%20periods%3B%20service%20in%20Armed%20Forces%3B%20automatic%20advancement.md)
 - [&sect; 00297 - Appointments and reclassifications to higher compensation levels](%C2%A7%2000297%20-%20Appointments%20and%20reclassifications%20to%20higher%20compensation%20levels.md)
 - [&sect; 00298 - Reductions in compensation level](%C2%A7%2000298%20-%20Reductions%20in%20compensation%20level.md)
-- [&sect; 00299 - Appointments; compensation level](%C2%A7%2000299%20-%20Appointments%3B%20compensation%20level.md)
+- [&sect; 00299 - Repealed. Pub. L. 106&#8211;554, &sect;1(a)(2) \[title I, &sect;102(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A&#8211;100](%C2%A7%2000299%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93554%2C%20%C2%A71%28a%29%282%29%20%5Btitle%20I%2C%20%C2%A7102%28a%29%5D%2C%20Dec.%2021%2C%202000%2C%20114%20Stat.%202763%2C%202763A%E2%80%93100.md)
 - [&sect; 00300 - Establishment of positions; payment from applicable accounts](%C2%A7%2000300%20-%20Establishment%20of%20positions%3B%20payment%20from%20applicable%20accounts.md)
 - [&sect; 00301 - Preservation of existing appointing authorities](%C2%A7%2000301%20-%20Preservation%20of%20existing%20appointing%20authorities.md)
 - [&sect; 00302 - Regulations](%C2%A7%2000302%20-%20Regulations.md)

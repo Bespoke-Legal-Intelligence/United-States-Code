@@ -10,7 +10,7 @@ A certificate of registration of a mark upon the principal register provided by 
 
 #### (c) Application to register mark considered constructive use
 
-Contingent on the registration of a mark on the principal register provided by this chapter, the filing of the application to register suchmark shall constitute constructive use of the mark, conferring a right of priority, nationwide in effect, on or in connection with the goods or services specified in the registration against any other person except for a person whose mark has not been abandoned and who, prior to such filing—
+Contingent on the registration of a mark on the principal register provided by this chapter, the filing of the application to register such mark shall constitute constructive use of the mark, conferring a right of priority, nationwide in effect, on or in connection with the goods or services specified in the registration against any other person except for a person whose mark has not been abandoned and who, prior to such filing—
 
 &emsp;(1) has used the mark;
 
@@ -36,7 +36,7 @@ Whenever a material mistake in a registration, incurred through the fault of the
 
 #### (h) Correction of applicant's mistake
 
-Whenever a mistake has been made in a registration and a showing has been made that such mistake occurred in good faith through the fault of the applicant, the Director is authorized to issue a certificate of correction or, in his discretion, a new certificate upon the payment of the prescribed fee: <i>Provided</i>, That the correction does not involve such changes in the registration as to require republication of the mark.
+Whenever a mistake has been made in a registration and a showing has been made that suchmistake occurred in good faith through the fault of the applicant, the Director is authorized to issue a certificate of correction or, in his discretion, a new certificate upon the payment of the prescribed fee: <i>Provided</i>, That the correction does not involve such changes in the registration as to require republication of the mark.
 
 (July 5, 1946, ch. 540, title I, §7, 60 Stat. 430; Aug. 17, 1950, ch. 733, 64 Stat. 459; Pub. L. 87–772, §4, Oct. 9, 1962, 76 Stat. 769; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 100–667, title I, §109, Nov. 16, 1988, 102 Stat. 3938; Pub. L. 105–330, title II, §201(a)(3), Oct. 30, 1998, 112 Stat. 3070; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583.)
 
@@ -103,16 +103,6 @@ Repeal of inconsistent provisions, effect of this chapter on pending proceedings
 #### Transfer of Functions
 
 For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Federal Rules of Civil Procedure
-
-Proof of official record, see rule 44, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-#### Cross References
-
-Copies of records relating to trademarks as evidence, see section 1744 of Title 28, Judiciary and Judicial Procedure.
-
-Supplemental register, subsec. (b) inapplicable to trademarks on, see section 1094 of this title.
 
 #### Section Referred to in Other Sections
 

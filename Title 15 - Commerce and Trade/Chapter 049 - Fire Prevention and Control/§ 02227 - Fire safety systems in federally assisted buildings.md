@@ -42,7 +42,7 @@ For purposes of this section, the following definitions apply:
 
 #### (b) Federal employee office buildings
 
-(1)(A) No Federal funds may be used for the construction or purchase of a Federal employeeoffice building of 6 or more stories unless during the period of occupancy by Federal employees the building is protected by an automatic sprinkler system or equivalent level of safety. No Federal funds may be used for the construction or purchase of any other Federal employee office building unless during the period of occupancy by Federal employees the hazardous areas of the building are protected by automatic sprinkler systems or an equivalent level of safety.
+(1)(A) No Federal funds may be used for the construction or purchase of a Federal employee office building of 6 or more stories unless during the period of occupancy by Federal employees the building is protected by an automatic sprinkler system or equivalent level of safety. No Federal funds may be used for the construction or purchase of any other Federal employee office building unless during the period of occupancy by Federal employees the hazardous areas of the building are protected by automatic sprinkler systems or an equivalent level of safety.
 
 (B)(i) Except as provided in clause (ii), no Federal funds may be used for the lease of a Federal employee office building of 6 or more stories, where at least some portion of the federally leased space is on the sixth floor or above and at least 35,000 square feet of space is federally occupied, unless during the period of occupancy by Federal employees the entire Federal employee office building is protected by an automatic sprinkler system or equivalent level of safety. No Federal funds may be used for the lease of any other Federal employee office building unless during the period of occupancy by Federal employees the hazardous areas of the entire Federal employee office building are protected by automatic sprinkler systems or an equivalent level of safety.
 
@@ -92,7 +92,7 @@ For purposes of this section, the following definitions apply:
 
 &emsp;(I) that is newly constructed after October 26, 1992; and
 
-&emsp;(II) for which (a) housing assistance is used for such new construction, or (b) a bindingcommitment is made, before commencement of such construction, to provide housing assistance for the newly constructed property.
+&emsp;(II) for which (a) housing assistance is used for such new construction, or (b) a binding commitment is made, before commencement of such construction, to provide housing assistance for the newly constructed property.
 
 (iii) Clause (i) shall not apply to any multifamily property for which, before October 26, 1992, a binding commitment is made to provide housing assistance for the new construction of the property or for the newly constructed property.
 
@@ -126,7 +126,7 @@ The head of any Federal agency that owns, leases, or operates a building or hous
 
 (2) Within 10 years after October 26, 1992, each Federal agency providing housing to Federal employees or housing assistance shall submit a report to Congress on the progress of that agency in implementing subsection (c) of this section and on plans for continuing such implementation.
 
-(3)(A) The National Institute of Standards and Technology shall conduct a study and submit a report to Congress on the use, in combination, of fire detection systems, fire suppression systems, and compartmentation. Such study shall—
+(3)(A) The National Institute of Standards and Technology shall conduct a study and submit areport to Congress on the use, in combination, of fire detection systems, fire suppression systems, and compartmentation. Such study shall—
 
 &emsp;(i) quantify performance and reliability for fire detection systems, fire suppression systems, and compartmentation, including a field assessment of performance and determination of conditions under which a reduction or elimination of 1 or more of those systems would result in an unacceptable risk of fire loss; and
 

@@ -10,7 +10,7 @@
 
 &emsp;(3) 25 percent of the charges for inpatient care. The Secretary of Defense may exempt a patient from paying such charges if the hospital to which the patient is admitted does not impose a legal obligation on any of its patients to pay for inpatient care.
 
-&emsp;(4) A member or former member of a uniformed service covered by this section by reason of section 1074(b) of this title, or an individual or family group of two or more persons covered by this section, may not be required to pay a total of more than $7,500 for health care received during any fiscal year under a plan contracted for under section 1079(a) of this title.
+&emsp;(4) A member or former member of a uniformed service covered by this section by reason of section 1074(b) of this title, or an individual or family group of two or more persons covered by this section, may not be required to pay a total of more than $3,000 for health care received during any fiscal year under a plan contracted for under section 1079(a) of this title.
 
 (c) Except as provided in subsection (d), the following persons are eligible for health benefits under this section:
 
@@ -30,15 +30,13 @@
 
 (d)(1) A person who is entitled to hospital insurance benefits under part A of title XVIII of the Social Security Act (42 U.S.C. 1395c et seq.) is not eligible for health benefits under this section.
 
-(2) The prohibition contained in paragraph (1) shall not apply in the case of a person referred to in subsection (c) who—
+(2) The prohibition contained in paragraph (1) shall not apply to a person referred to in subsection (c) who—
 
-&emsp;(A) is entitled to hospital insurance benefits under part A of title XVIII of the Social Security Act pursuant to subparagraph (A) or (C) of section 226(b)(2) of such Act (42 U.S.C. 426(b)(2)) or section 226A(a) of such Act (42 U.S.C. 426–1(a));
+&emsp;(A) is enrolled in the supplementary medical insurance program under part B of such title (42 U.S.C. 1395j et seq.); and
 
-&emsp;(B) is under 65 years of age; and
+&emsp;(B) in the case of a person under 65 years of age, is entitled to hospital insurance benefits under part A of title XVIII of the Social Security Act pursuant to subparagraph (A) or (C) of section 226(b)(2) of such Act (42 U.S.C. 426(b)(2)) or section 226A(a) of such Act (42 U.S.C. 426–1(a)).
 
-&emsp;(C) is enrolled in the supplementary medical insurance program under part B of such title (42 U.S.C. 1395j et seq.).
-
-(3)(A) Subject to subparagraph (B), if a person described in paragraph (2) receives medical or dental care for which payment may be made under medicare and a plan contracted for under subsection (a), the amount payable for that care under the plan shall be the amount of the actual out-of-pocket costs incurred by the person for that care over the sum of—
+(3)(A) Subject to subparagraph (B), if a person described in paragraph (2) receives medical or dental care for which payment may be made under medicare and a plan contracted for undersubsection (a), the amount payable for that care under the plan shall be the amount of the actual out-of-pocket costs incurred by the person for that care over the sum of—
 
 &emsp;(i) the amount paid for that care under medicare; and
 
@@ -52,7 +50,7 @@
 
 &emsp;(ii) The term “third party payer” has the meaning given such term in section 1095(h)(1) of this title.
 
-(4) The administering Secretaries shall develop a mechanism by which persons described in paragraph (1) who satisfy only the criteria specified in subparagraphs (A) and (B) of paragraph (2), but not subparagraph (C) of such paragraph, are promptly notified of their ineligibility for health benefits under this section. In developing the notification mechanism, the administering Secretaries shall consult with the administrator of the Health Care Financing Administration.
+(4) The administering Secretaries shall develop a mechanism by which persons described in subparagraph (B) of paragraph (2) who do not satisfy the condition specified in subparagraph (A) of such paragraph are promptly notified of their ineligibility for health benefits under this section. In developing the notification mechanism, the administering Secretaries shall consult with the administrator of the Health Care Financing Administration.
 
 (e) A person covered by this section may elect to receive inpatient medical care either in (1) Government facilities, under the conditions prescribed in sections 1074 and 1076–1078 of this title, or (2) the facilities provided under a plan contracted for under this section. However, under joint regulations issued by the administering Secretaries, the right to make this election may be limited for those persons residing in an area where adequate facilities of the uniformed service are available. In addition, subsections (b) and (c) of section 1080 of this title shall apply in making the determination whether to issue a nonavailability of health care statement for a person covered by this section.
 
@@ -68,17 +66,29 @@
 
 (4) The Secretary of Defense may require each hospital the Secretary approves for payment under this subsection to provide evidence that it has sources of revenue to cover unbilled costs.
 
-(Added Pub. L. 89–614, §2(7), Sept. 30, 1966, 80 Stat. 865; amended Pub. L. 95–485, title VIII, §806(a)(2), Oct. 20, 1978, 92 Stat. 1622; Pub. L. 96–173, §1, Dec. 29, 1979, 93 Stat. 1287; Pub. L. 96–513, title V, §§501(14), 511(36), (39), Dec. 12, 1980, 94 Stat. 2908, 2923; Pub. L. 97–86, title IX, §906(a)(2), Dec. 1, 1981, 95 Stat. 1117; Pub. L. 97–252, title X, §1004(c), Sept. 8, 1982, 96 Stat. 737; Pub. L. 98–94, title IX, §931(b), Sept. 24, 1983, 97 Stat. 649; Pub. L. 98–525, title VI, §632(a)(2), Oct. 19, 1984, 98 Stat. 2543; Pub. L. 98–557, §19(13), Oct. 30, 1984, 98 Stat. 2870; Pub. L. 99–145, title VI, §652(b), Nov. 8, 1985, 99 Stat. 657; Pub. L. 99–661, div. A, title VI, §604(f)(1)(C), Nov. 14, 1986, 100 Stat. 3877; Pub. L. 100–180, div. A, title VII, §721(b), Dec. 4, 1987, 101 Stat. 1115; Pub. L. 100–456, div. A, title VI, §646(b), Sept. 29, 1988, 102 Stat. 1989; Pub. L. 101–189, div. A, title VII, §731(c)(2), title XVI, §1621(a)(3), Nov. 29, 1989, 103 Stat. 1482, 1603; Pub. L. 101–510, div. A, title VII, §712(b), Nov. 5, 1990, 104 Stat. 1583; Pub. L. 102–190, div. A, title VII, §704(a), (b)(1), Dec. 5, 1991, 105 Stat. 1401; Pub. L. 102–484, div. A, title VII, §§703(a), 705(a), Oct. 23, 1992, 106 Stat. 2432; Pub. L. 103–35, title II, §203(b)(2), May 31, 1993, 107 Stat. 102; Pub. L. 103–160, div. A, title VII, §716(b)(2), Nov. 30, 1993, 107 Stat. 1693; Pub. L. 103–337, div. A, title VII, §711, Oct. 5, 1994, 108 Stat. 2801; Pub. L. 104–106, div. A, title VII, §732, Feb. 10, 1996, 110 Stat. 381; Pub. L. 104–201, div. A, title VII, §734(a)(2), (b)(2), Sept. 23, 1996, 110 Stat. 2598.)
+(Added Pub. L. 89–614, §2(7), Sept. 30, 1966, 80 Stat. 865; amended Pub. L. 95–485, title VIII, §806(a)(2), Oct. 20, 1978, 92 Stat. 1622; Pub. L. 96–173, §1, Dec. 29, 1979, 93 Stat. 1287; Pub. L. 96–513, title V, §§501(14), 511(36), (39), Dec. 12, 1980, 94 Stat. 2908, 2923; Pub. L. 97–86, title IX, §906(a)(2), Dec. 1, 1981, 95 Stat. 1117; Pub. L. 97–252, title X, §1004(c), Sept. 8, 1982, 96 Stat. 737; Pub. L. 98–94, title IX, §931(b), Sept. 24, 1983, 97 Stat. 649; Pub. L. 98–525, title VI, §632(a)(2), Oct. 19, 1984, 98 Stat. 2543; Pub. L. 98–557, §19(13), Oct. 30, 1984, 98 Stat. 2870; Pub. L. 99–145, title VI, §652(b), Nov. 8, 1985, 99 Stat. 657; Pub. L. 99–661, div. A, title VI, §604(f)(1)(C), Nov. 14, 1986, 100 Stat. 3877; Pub. L. 100–180, div. A, title VII, §721(b), Dec. 4, 1987, 101 Stat. 1115; Pub. L. 100–456, div. A, title VI, §646(b), Sept. 29, 1988, 102 Stat. 1989; Pub. L. 101–189, div. A, title VII, §731(c)(2), title XVI, §1621(a)(3), Nov. 29, 1989, 103 Stat. 1482, 1603; Pub. L. 101–510, div. A, title VII, §712(b), Nov. 5, 1990, 104 Stat. 1583; Pub. L. 102–190, div. A, title VII, §704(a), (b)(1), Dec. 5, 1991, 105 Stat. 1401; Pub. L. 102–484, div. A, title VII, §§703(a), 705(a), Oct. 23, 1992, 106 Stat. 2432; Pub. L. 103–35, title II, §203(b)(2), May 31, 1993, 107 Stat. 102; Pub. L. 103–160, div. A, title VII, §716(b)(2), Nov. 30, 1993, 107 Stat. 1693; Pub. L. 103–337, div. A, title VII, §711, Oct. 5, 1994, 108 Stat. 2801; Pub. L. 104–106, div. A, title VII, §732, Feb. 10, 1996, 110 Stat. 381; Pub. L. 104–201, div. A, title VII, §734(a)(2), (b)(2), Sept. 23, 1996, 110 Stat. 2598; Pub. L. 106–398, §1 \[\[div. A\], title VII, §§712(a)(1), 759\], Oct. 30, 2000, 114 Stat. 1654, 1654A–176, 1654A–200.)
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Parts A and B of title XIII of the Act are classified generally to parts A (§1395c et seq.) and B (§1395j et seq.), respectively, of subchapter XVIII of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of title 42 and Tables.
+The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Parts A and B of title XVIII of the Act are classified generally to parts A (§1395c et seq.) and B (§1395j et seq.), respectively, of subchapter XVIII of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Prior Provisions
 
 A prior section 1086, act Aug. 10, 1956, ch. 1041, 70A Stat. 88, authorized the mailing of official post cards, ballots, voting instructions, and envelopes, free of postage, prior to repeal by Pub. L. 85–861, §36(B)(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+2000—Subsec. (b)(4). Pub. L. 106–398, §1 \[\[div. A\], title VII, §759\], substituted “$3,000” for “$7,500”.
+
+Subsec. (d)(2). Pub. L. 106–398, §1 \[\[div. A\], title VII, §712(a)(1)(A)\], added par. (2) and struck out former par. (2) which read as follows: “The prohibition contained in paragraph (1) shall not apply in the case of a person referred to in subsection (c) who—
+
+&emsp;“(A) is entitled to hospital insurance benefits under part A of title XVIII of the Social Security Act pursuant to subparagraph (A) or (C) of section 226(b)(2) of such Act (42 U.S.C. 426(b)(2)) or section 226A(a) of such Act (42 U.S.C. 426–1(a));
+
+&emsp;“(B) is under 65 years of age; and
+
+&emsp;“(C) is enrolled in the supplementary medical insurance program under part B of such title (42 U.S.C. 1395j et seq.).”
+
+Subsec. (d)(4). Pub. L. 106–398, §1 \[\[div. A\], title VII, §712(a)(1)(B)\], substituted “subparagraph (B) of paragraph (2) who do not satisfy the condition specified in subparagraph (A) of such paragraph” for “paragraph (1) who satisfy only the criteria specified in subparagraphs (A) and (B) of paragraph (2), but not subparagraph (C) of such paragraph,”.
 
 1996—Subsec. (d)(4). Pub. L. 104–106 added par. (4).
 
@@ -88,7 +98,7 @@ Subsec. (e). Pub. L. 104–201 substituted “inpatient medical care” for “b
 
 &emsp;“(A) the sum of any deductibles, coinsurance, and balance billing charges that would be imposed on the person if payment for that care were made solely under that title; and
 
-&emsp;“(B) the sum of any deductibles, coinsurance, and balance billing charges that would be imposed on theperson if payment for that care were made solely under the plan.”
+&emsp;“(B) the sum of any deductibles, coinsurance, and balance billing charges that would be imposed on the person if payment for that care were made solely under the plan.”
 
 1993—Subsec. (d). Pub. L. 103–35 made technical amendment to directory language of Pub. L. 102–190, §704(a). See 1991 Amendment note below.
 
@@ -142,6 +152,10 @@ Subsec. (c). Pub. L. 96–513, §§501(14), 511(39)(B), substituted “section 1
 
 1978—Subsec. (f). Pub. L. 95–485 added subsec. (f).
 
+#### Effective Date of 2000 Amendment
+
+Pub. L. 106–398, §1 \[\[div. A\], title VII, §712(a)(3)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–177, provided that: “The amendments made by paragraphs (1) and (2) \[amending this section and section 1395ggg of Title 42, The Public Health and Welfare\] shall take effect on October 1, 2001.”
+
 #### Effective Date of 1992 Amendment
 
 Section 703(b) of Pub. L. 102–484 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to fiscal years beginning after September 30, 1992.”
@@ -152,7 +166,7 @@ Section 704(c) of Pub. L. 102–190, which provided that subsection (d) of this 
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–510 applicable with respect to health care provided under this section and section 1079 of this title on or after Apr. 1, 1991, see section 712(c) of Pub. L. 101–510, set out as a note under section 1079 of this title.
+Amendment by Pub. L. 101–510 applicable with respect to health care provided under this section andsection 1079 of this title on or after Apr. 1, 1991, see section 712(c) of Pub. L. 101–510, set out as a note under section 1079 of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -176,7 +190,7 @@ Amendment by Pub. L. 99–145 applicable only with respect to dependents of memb
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–525 applicable only to health care furnished after Sept. 30, 1984, see section632(a)(3) of Pub. L. 98–525, set out as a note under section 1079 of this title.
+Amendment by Pub. L. 98–525 applicable only to health care furnished after Sept. 30, 1984, see section 632(a)(3) of Pub. L. 98–525, set out as a note under section 1079 of this title.
 
 #### Effective Date of 1983 Amendment
 

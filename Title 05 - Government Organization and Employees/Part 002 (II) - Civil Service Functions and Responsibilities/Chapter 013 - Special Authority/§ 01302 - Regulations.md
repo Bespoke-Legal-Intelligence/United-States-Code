@@ -44,7 +44,7 @@ June 27, 1944, ch. 287, §§2 (1st 76 words), 11, 58 Stat. 387, 390.
 
 July 19, 1940, ch. 640 §4 “Sec. 12(d) (1st sentence)”, 54 Stat. 769.
 
-Subsection (a) is based on former section 633(3) (less last 10 words). The regulation-making power conferred by that section covers the power conferred by former section 633(2)7 (last 17 words) which is, therefore, omitted. The requirement of notice is preserved in section 3304. The words “through its members or the examiners” are omitted as unnecessary in view of section 1104. The authority of the President to prescribe rules, based on former section 633(1) is carried into sections 2951, 3302, 3304(a), 3306(a), 3321, 7152, 7153, 7321, and 7322 of this title.
+Subsection (a) is based on former section 633(3) (less last 10 words). The regulation-making power conferred by that section covers the power conferred by former section 633(2)7 (last 17 words) which is, therefore, omitted. The requirement of notice is preserved in section 3304. The words “through its members or the examiners” are omitted as unnecessary in view of section 1104. The authority of the President to prescribe rules, basedon former section 633(1) is carried into sections 2951, 3302, 3304(a), 3306(a), 3321, 7152, 7153, 7321, and 7322 of this title.
 
 In subsections (b)–(d), the word “rules” is omitted as included in “regulations”.
 
@@ -67,22 +67,6 @@ Ex. Ord. No. 10561, Sept. 13, 1954, 19 F.R. 5963, which related to official pers
 #### Executive Order No. 11397
 
 Ex. Ord. No. 11397, Feb. 9, 1968, 33 F.R. 2833, formerly set out as a note under this section, which related to transitional appointments of veterans who served during the Vietnam Era, was revoked by Ex. Ord. No. 11521, Mar. 26, 1970, 35 F.R. 5311, set out as a note under section 3302 of this title.
-
-#### Cross References
-
-Preference eligibles—
-
-&emsp;&emsp;Adverse actions, see section 7511 et seq. of this title.
-
-&emsp;&emsp;Back pay, reinstatement, or restoration after removal, suspension, or furlough, see section 5596 of this title.
-
-&emsp;&emsp;Competitive service, see section 3309 et seq. of this title.
-
-&emsp;&emsp;Definition, see section 2108 of this title.
-
-&emsp;&emsp;Retention preference, see section 3504 of this title.
-
-&emsp;&emsp;Transfers, see section 3351 of this title.
 
 #### Section Referred to in Other Sections
 

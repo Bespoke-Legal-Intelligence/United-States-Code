@@ -36,14 +36,6 @@
 
 Authority and responsibilities under chapter not limited or repealed by Federal Records Management Amendments of 1976, see section 5(b) of Pub. L. 94–575, set out as a note under section 2901 of this title.
 
-#### Cross References
-
-Distribution of reports and digests: publications—distribution to courts, see section 413 of Title 28, Judiciary and Judicial Procedure; sale of Supreme Court reports, see section 412 of Title 28; Supreme Court reports—printing, binding, and distribution, see section 411 of Title 28; transmittal of books to successors, see section 414 of Title 28.
-
-National Fisheries Center and Aquarium: catalogs, brochures, etc.; distribution and sale by Secretary of the Interior, see section 1052 of Title 16, Conservation.
-
-Secretary of Agriculture: loan, rental, or sale of films, see section 2246 of Title 7, Agriculture; sale of photographic prints and maps, see section 2243 of Title 7; sale of prints and lantern slides, see section 2245 of Title 7; Tax Court reports, sale of, see section 7462 of Title 26, Internal Revenue Code.
-
 <i><sup>1</sup></i><i> Section catchline amended by Pub. L. 98–497 without corresponding amendment of chapter analysis.</i>
 
 

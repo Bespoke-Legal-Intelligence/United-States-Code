@@ -38,7 +38,7 @@ Any personnel action of any department, agency, or other entity referred to in s
 
 (2) The Equal Employment Opportunity Commission shall transmit a report to the President and to the Congress containing the findings of the Commission resulting from the study of the Commission under paragraph (1) of this subsection. Such report shall be transmitted no later than January 1, 1980.
 
-(Pub. L. 90–202, §15, as added Pub. L. 93–259, §28(b)(2), Apr. 8, 1974, 88 Stat. 74; amended Pub. L. 95–256, §5(a), (e), Apr. 6, 1978, 92 Stat. 191; 1978 Reorg. Plan No. 1, eff. Jan. 1, 1979, §2, 43 F.R. 19807, 92 Stat. 3781; Pub. L. 104–1, title II, §201(c)(2), Jan. 23, 1995, 109 Stat. 8; Pub. L.105–220, title III, §341(b), Aug. 7, 1998, 112 Stat. 1092.)
+(Pub. L. 90–202, §15, as added Pub. L. 93–259, §28(b)(2), Apr. 8, 1974, 88 Stat. 74; amended Pub. L. 95–256, §5(a), (e), Apr. 6, 1978, 92 Stat. 191; 1978 Reorg. Plan No. 1, eff. Jan. 1, 1979, §2, 43 F.R. 19807, 92 Stat. 3781; Pub. L. 104–1, title II, §201(c)(2), Jan. 23, 1995, 109 Stat. 8; Pub. L. 105–220, title III, §341(b), Aug. 7, 1998, 112 Stat. 1092.)
 
 #### References in Text
 
@@ -74,11 +74,7 @@ Section effective May 1, 1974, see section 29(a) of Pub. L. 93–259, set out as
 
 “Equal Employment Opportunity Commission” substituted for “Civil Service Commission” in subsecs. (b) and (g) pursuant to Reorg. Plan No. 1 of 1978, §2, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, which transferred all functions vested by this section in Civil Service Commission to Equal Employment Opportunity Commission, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
 
-#### Cross References
-
-Equal employment opportunities for Federal employees without discrimination because of race, color, religion, sex, or national origin, see section 7201 of Title 5, Government Organization and Employees.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 626, 631 of this title; title 2 sections 1202, 1311; title 3 section 411; title 5 sections 2302, 7702, 7703; title 22 sections 3905, 4131.
+This section is referred to in sections 626, 631 of this title; title 2 section 1311; title 3 section 411; title 5 sections 2302, 7702, 7703; title 22 sections 3905, 4131; title 42 section 2000e–16b.
 

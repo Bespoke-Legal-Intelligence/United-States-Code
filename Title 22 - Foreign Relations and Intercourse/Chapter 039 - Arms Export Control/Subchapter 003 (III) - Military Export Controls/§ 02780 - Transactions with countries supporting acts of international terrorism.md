@@ -108,7 +108,7 @@ The President may waive the prohibitions contained in this section with respect 
 
 &emsp;&emsp;&emsp;(v) the name of every United States Government department, agency, or other entity involved in the proposed transaction, every foreign government involved in the proposed transaction, and every private party with significant participation in the proposed transaction.
 
-> To the extent possible, the information specified in subparagraph (B) of paragraph (2) shall be provided in unclassified form, with any classified information provided in an addendum to the report.
+> To the extent possible, the information specified in subparagraph (B) of paragraph (2) shall beprovided in unclassified form, with any classified information provided in an addendum to the report.
 
 #### (h) Exemption for transactions subject to National Security Act reporting requirements
 
@@ -172,7 +172,7 @@ Paragraphs (3) through (7) of section 8066(c) of the Department of Defense Appro
 
 The National Security Act of 1947, referred to in subsec. (h), is act July 26, 1947, ch. 343, 61 Stat. 495, as amended. Title V of the National Security Act of 1947 is classified generally to subchapter III (§413 et seq.) of chapter 15 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 401 of Title 50.
 
-The Export Administration Act of 1979, referred to in subsec. (k), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, as amended, which is classified principally to section 2401 et seq. of the Appendix to Title 50. For complete classification of this Act to the Code, see Short Title note set out under section 2401 of the Appendix to Title 50 and Tables.
+The Export Administration Act of 1979, referred to in subsec. (k), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, as amended, which is classified principally to section 2401 et seq. of the Appendix to Title 50. For complete classification of this Act to the Code, see Short Titlenote set out under section 2401 of the Appendix to Title 50 and Tables.
 
 #### Amendments
 
@@ -204,7 +204,7 @@ Amendment by Pub. L. 103–236 effective 60 days after Apr. 30, 1994, see sectio
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2371, 2656g, 3281 of this title; title 50 sections 2202, 2332.
+This section is referred to in sections 2371, 2656g, 3281, 7205 of this title; title 50 sections 2202, 2332.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

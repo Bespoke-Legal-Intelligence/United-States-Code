@@ -20,7 +20,7 @@
 
 (d) The limitations on reduction in scope or increase in cost of a land acquisition in subsection (c) do not apply if the reduction in scope or the increase in cost, as the case may be, is approved by the Secretary concerned and a written notification of the facts relating to the proposed reduced scope or increased cost (including a statement of the reasons therefor) is submitted by the Secretary concerned to the appropriate committees of Congress. A contract for the acquisition may then be awarded only after a period of 21 days elapses from the date the notification is received by the committees.
 
-(e) The Secretary concerned shall promptly pay any deficiency judgment against the United States awarded by a court in an action for condemnation of any interest in land or resulting from a final settlement of an action for condemnation of any interest in land. Payments under this subsection may be made from funds available to the Secretary concerned for military construction projects and without regard to the limitations of subsections (c) and (d).
+(e) The Secretary concerned shall promptly pay any deficiency judgment against the UnitedStates awarded by a court in an action for condemnation of any interest in land or resulting from a final settlement of an action for condemnation of any interest in land. Payments under this subsection may be made from funds available to the Secretary concerned for military construction projects and without regard to the limitations of subsections (c) and (d).
 
 (Added Pub. L. 85–861, §1(51), Sept. 2, 1958, 72 Stat. 1460; amended Pub. L. 93–166, title VI, §608(2), Nov. 29, 1973, 87 Stat. 682; Pub. L. 97–214, §5, July 12, 1982, 96 Stat. 170; Pub. L. 98–407, title VIII, §802, Aug. 28, 1984, 98 Stat. 1519; Pub. L. 99–661, div. A, title XIII, §1343(a)(17)(A), Nov. 14, 1986, 100 Stat. 3993; Pub. L. 102–190, div. B, title XXVIII, §2870(1), Dec. 5, 1991, 105 Stat. 1562.)
 
@@ -38,7 +38,7 @@ Historical and Revision Notes
 
 July 27, 1954, ch. 579, §501(b) (less provisos), 68 Stat. 560.
 
-The word “property” is substituted for the word “estate”. The words “not owned by the United States” aresubstituted for the words “not in Federal ownership”. The words “or shall be” are omitted as surplusage.
+The word “property” is substituted for the word “estate”. The words “not owned by the United States” are substituted for the words “not in Federal ownership”. The words “or shall be” are omitted as surplusage.
 
 #### References in Text
 

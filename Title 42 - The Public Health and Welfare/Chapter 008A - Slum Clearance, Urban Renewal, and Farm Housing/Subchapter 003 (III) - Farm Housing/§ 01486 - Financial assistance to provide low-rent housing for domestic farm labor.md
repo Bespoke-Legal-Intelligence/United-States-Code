@@ -78,7 +78,7 @@ Housing and related facilities constructed with grants under this section may be
 
 &emsp;&emsp;The Secretary may provide the following assistance for housing under this subsection:
 
-&emsp;&emsp;&emsp;(i) An advance, in an amount not to exceed $400,000, of the cost of acquisition,substantial rehabilitation, or acquisition and rehabilitation of an existing structure or construction of a new structure for use in the provision of housing under this subsection. The repayment of any outstanding debt owed on a loan made to purchase an existing structure shall be considered to be a cost of acquisition eligible for an advance under this subparagraph if the structure was not used for the purposes under this subsection prior to the receipt of assistance.
+&emsp;&emsp;&emsp;(i) An advance, in an amount not to exceed $400,000, of the cost of acquisition, substantial rehabilitation, or acquisition and rehabilitation of an existing structure or construction of a new structure for use in the provision of housing under this subsection. The repayment of any outstanding debt owed on a loan made to purchase an existing structure shall be considered to be a cost of acquisition eligible for an advance under this subparagraph if the structure was not used for the purposes under this subsection prior to the receipt of assistance.
 
 &emsp;&emsp;&emsp;(ii) A grant, in an amount not to exceed $400,000, for moderate rehabilitation of an existing structure for use in the provision of housing under this subsection.
 
@@ -154,9 +154,7 @@ Housing and related facilities constructed with grants under this section may be
 
 &emsp;No recipient may use more than 5 percent of an advance or grant received under this subsection for administrative purposes.
 
-#### (6) Reports to Congress
-
-&emsp;The Secretary shall submit annually to the Congress a report summarizing the activities carried out under this subsection and setting forth the findings, conclusions, and recommendations of the Secretary as a result of the activities. The report shall be submitted not later than 3 months after the end of each fiscal year.
+#### (6) Omitted
 
 #### (7) Definitions
 
@@ -170,11 +168,11 @@ Housing and related facilities constructed with grants under this section may be
 
 &emsp;&emsp;&emsp;(i) means any person (and the family of such person) who (I) receives a substantial portion of his or her income from primary production of agricultural or aquacultural commodities, the handling of such commodities in the unprocessed stage, or the processing of such commodities, without respect to the source of employment, and (II) establishes residence in a location on a seasonal or temporary basis, in an attempt to receive an income as described in subclause (I); and
 
-&emsp;&emsp;&emsp;(ii) includes any person (and the family of such person) who is retired or disabled, but who met the requirements of clause (i) at the time of retirement or becoming disabled.
+&emsp;&emsp;&emsp;(ii) includes any person (and the family of such person) who is retired or disabled, but who met the requirements of clause (i)at the time of retirement or becoming disabled.
 
 &emsp;&emsp;(D) The term “operating costs” means expenses incurred by a recipient providing housing under this subsection with respect to the administration, maintenance, repair, and security of such housing and utilities, fuel, furnishings, and equipment for such housing.
 
-(July 15, 1949, ch. 338, title V, §516, as added Pub. L. 88–560, title V, §503(a), Sept. 2, 1964, 78 Stat. 796; amended Pub. L. 91–609, title VIII, §801(c), (d), Dec. 31, 1970, 84 Stat. 1806; Pub. L. 95–557, title V, §505, Oct. 31, 1978, 92 Stat. 2112; Pub. L. 96–153, title V, §509, Dec. 21, 1979, 93 Stat. 1136; Pub. L. 96–399, title V, §507(d), Oct. 8, 1980, 94 Stat. 1670; Pub. L. 98–181, title V, §513, Nov. 30, 1983, 97 Stat. 1247; Pub. L. 100–242, title III, §305(b), Feb. 5, 1988, 101 Stat. 1895; Pub. L. 100–628, title X, §1043(b), Nov. 7, 1988, 102 Stat. 3273; Pub. L. 101–625, title VII, §714(a), Nov. 28, 1990, 104 Stat. 4292.)
+(July 15, 1949, ch. 338, title V, §516, as added Pub. L. 88–560, title V, §503(a), Sept. 2, 1964, 78 Stat. 796; amended Pub. L. 91–609, title VIII, §801(c), (d), Dec. 31, 1970, 84 Stat. 1806; Pub. L. 95–557, title V, §505, Oct. 31, 1978, 92 Stat. 2112; Pub. L. 96–153, title V, §509, Dec. 21, 1979, 93 Stat. 1136; Pub. L. 96–399, title V, §507(d), Oct. 8, 1980, 94 Stat. 1670; Pub. L. 98–181, title V, §513, Nov. 30, 1983, 97 Stat. 1247; Pub. L. 100–242, title III, §305(b), Feb. 5, 1988, 101 Stat. 1895; Pub. L. 100–628, title X, §1043(b), Nov. 7, 1988, 102 Stat. 3273; Pub. L. 101–625, title VII, §714(a), Nov. 28, 1990, 104 Stat. 4292; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675.)
 
 #### References in Text
 
@@ -184,7 +182,13 @@ Reorganization Plan Numbered 14 of 1950, referred to in subsec. (f), is set out 
 
 Section 1485(d)(4) of this title, referred to in subsec. (g)(3), was redesignated section 1485(e)(4) of this title by Pub. L. 100–242, title II, §242(1), Feb. 5, 1988, 101 Stat. 1890.
 
+#### Codification
+
+Subsec. (k)(6) of this section, which required the Secretary to submit an annual report to Congress summarizing the activities carried out under subsec. (k) and setting forth the findings, conclusions, and recommendations of the Secretary as a result of the activities, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, item 18 on page 103 of House Document No. 103–7.
+
 #### Amendments
+
+2000—Subsec. (k)(7)(B). Pub. L. 106–400 made technical amendment to reference in original act which appears in text as reference to section 11302 of this title.
 
 1990—Subsec. (k). Pub. L. 101–625 added subsec. (k).
 

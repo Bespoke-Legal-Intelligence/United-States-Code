@@ -42,7 +42,7 @@ The Director—
 
 &emsp;(6) shall appear before duly constituted committees and subcommittees of the House of Representatives and of the Senate to represent the drug policies of the executive branch;
 
-&emsp;(7) shall notify any National Drug Control Program agency if its policies are not in compliance with the responsibilities of the agency under the National Drug Control Strategy, transmit a copy of each such notification tothe President, and maintain a copy of each such notification;
+&emsp;(7) shall notify any National Drug Control Program agency if its policies are not in compliance with the responsibilities of the agency under the National Drug Control Strategy, transmit a copy of each such notification to the President, and maintain a copy of each such notification;
 
 &emsp;(8) shall provide, by July 1 of each year, budget recommendations, including requests for specific initiatives that are consistent with the priorities of the President under the National Drug Control Strategy, to the heads of departments and agencies with responsibilities under the National Drug Control Program, which recommendations shall—
 
@@ -62,7 +62,7 @@ The Director—
 
 &emsp;&emsp;(B) has not been approved for use for medical purposes by the Food and Drug Administration;
 
-&emsp;(13) shall require each National Drug Control Program agency to submit to the Director on an annual basis (beginning in 1999) an evaluation of progress by the agency with respect to drug control program goals using the performance measures for the agency developed under section 1705(c) of this title, including progress with respect to—
+&emsp;(13) shall require each National Drug Control Program agency to submit to the Director onan annual basis (beginning in 1999) an evaluation of progress by the agency with respect to drug control program goals using the performance measures for the agency developed under section 1705(c) of this title, including progress with respect to—
 
 &emsp;&emsp;(A) success in reducing domestic and foreign sources of illegal drugs;
 
@@ -268,7 +268,7 @@ In carrying out subsection (b) of this section, the Director may—
 
 #### (2) Unauthorized obligation or expenditure prohibited
 
-&emsp;An officer or employee of a National Drug Control Program agency shall not make or authorize an expenditure or obligation contraryto a fund control notice issued by the Director.
+&emsp;An officer or employee of a National Drug Control Program agency shall not make or authorize an expenditure or obligation contrary to a fund control notice issued by the Director.
 
 #### (3) Disciplinary action for violation
 
@@ -292,7 +292,7 @@ Nothing in this chapter shall be construed as derogating the authorities and res
 
 Levels III and IV of the Executive Schedule, referred to in subsecs. (d)(4) and (e)(2)(C), are set out in sections 5314 and 5315, respectively, of Title 5, Government Organization and Employees.
 
-This chapter, referred to in subsec. (h), was in the original “this Act” and was translated as reading “this title”, meaning title VII of Pub. L. 105–277, div. C, Oct. 21, 1998, 112 Stat. 2681–670, which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of title VII to the Code, see Short Title note set out under section 1701 of this title and Tables.
+This chapter, referred to in subsec. (h), was in the original “this Act” and was translated as reading “thistitle”, meaning title VII of Pub. L. 105–277, div. C, Oct. 21, 1998, 112 Stat. 2681–670, which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of title VII to the Code, see Short Title note set out under section 1701 of this title and Tables.
 
 #### Codification
 
@@ -300,35 +300,7 @@ In subsec. (b)(8)(A), “chapter 11 of title 31” substituted for “the Budget
 
 #### Report on Streamlining Federal Prevention and Treatment Efforts
 
-Pub. L. 105–277, div. D, title II, §221, Oct. 21, 1998, 112 Stat. 2681–758, provided that:
-
-“(a)
-
-Sense of Congress.—It is the sense of Congress that—
-
-&emsp;“(1) the efforts of the Federal Government to reduce the demand for illegal drugs in the United States are frustrated by the fragmentation of those efforts across multiple departments and agencies; and
-
-&emsp;“(2) improvement of those efforts can best be achieved through consolidation and coordination.
-
-“(b)
-
-Report Requirement.—
-
-&emsp;“(1)
-
-In general.—Not later than 18 months after the date of enactment of this Act \[Oct. 21, 1998\], the Director of the Office of National Drug Control Policy shall prepare and submit to the appropriate committees a report evaluating options for increasing the efficacy of drug prevention and treatment programs and activities by the Federal Government. Such option shall include the merits of a consolidation of programs into a single agency, transferring programs from 1 agency to another, and improving coordinating mechanisms and authorities. The report shall also include a thorough review of the activities and potential consolidation of existing Federal drug information clearinghouses.
-
-&emsp;“(2)
-
-Recommendation and explanatory statement.—The study submitted under paragraph (1) shall identify options that are determined by the Director to have merit, and an explanation which options should be implemented.
-
-&emsp;“(3)
-
-Authorization of appropriations.—There is authorized to be appropriated to the Office of National Drug Control Policy to carry out this subsection $1,000,000 for contracting, policy research, and related costs.
-
-“(c)
-
-Appropriate Committees Defined.—In this section, the term ‘appropriate committees’ means the Committee on Appropriations, the Committee on Commerce, and the Committee on Education and the Workforce of the House of Representatives, and the Committee on Appropriations, and Committee on Labor and Human Resources of the Senate.”
+Pub. L. 105–277, div. D, title II, §221, Oct. 21, 1998, 112 Stat. 2681–758, expressed sense of Congress that efforts of the Federal Government to reduce demand for illegal drugs in United States are frustrated by fragmentation of those efforts across multiple departments and agencies, and improvement of those efforts can best be achieved through consolidation and coordination, and further provided that not later than 18 months after Oct. 21, 1998, Director of the Office of National Drug Control Policy was to prepare and submit to Congress a report evaluating options for increasing efficacy of drug prevention and treatment programs, including a thorough review of activities and potential consolidation of existing Federal drug information clearinghouses.
 
 #### Ex. Ord. No. 12880. National Drug Control Program
 
@@ -348,7 +320,7 @@ General Provisions. (a) Because the United States considers the operations of in
 
 (d) A coordinator for drug interdiction shall be designated by the Director to ensure that assets dedicated by Federal drug program agencies for interdiction are sufficient and that their use is properly integrated and optimized. The coordinator shall ensure that interdiction efforts and priorities are consistent with overall U.S. international counternarcotics policy.
 
-(e) The Director shall examine the number and structure of command/control and drug intelligence centersoperated by drug control program agencies involved in international counter-narcotics and suggest improvements to the current structure for consideration by the President and concerned members of the Cabinet.
+(e) The Director shall examine the number and structure of command/control and drug intelligence centers operated by drug control program agencies involved in international counter-narcotics and suggest improvements to the current structure for consideration by the President and concerned members of the Cabinet.
 
 (f) The Director, utilizing the services of the Drugs and Crime Data Center and Department of Justice Clearinghouse, shall assist in coordinating and enhancing the dissemination of statistics and studies relating to anti-drug abuse policy.
 

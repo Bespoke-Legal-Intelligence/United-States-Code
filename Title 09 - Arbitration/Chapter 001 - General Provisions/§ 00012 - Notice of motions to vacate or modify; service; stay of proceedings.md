@@ -8,10 +8,6 @@ Notice of a motion to vacate, modify, or correct an award must be served upon th
 
 Act Feb. 12, 1925, ch. 213, §12, 43 Stat. 885.
 
-#### Federal Rules of Civil Procedure
-
-Service and filing of pleadings and other papers, see rule 5, Title 28, Appendix, Judiciary and Judicial Procedure.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in title 5 sections 580, 581; title 41 section 607.

@@ -68,7 +68,7 @@ The State shall have the option to set a State civil money penalty which shall n
 
 &emsp;(1) $25 per failure to meet the requirements of this section with respect to a newly hired employee; or
 
-&emsp;(2) $500 if, under State law, the failure is the result of a conspiracy between the employerand the employee to not supply the required report or to supply a false or incomplete report.
+&emsp;(2) $500 if, under State law, the failure is the result of a conspiracy between the employer and the employee to not supply the required report or to supply a false or incomplete report.
 
 #### (e) Entry of employer information
 
@@ -98,7 +98,7 @@ Information shall be entered into the data base maintained by the State Director
 
 #### (B) Wage and unemployment compensation information
 
-&emsp;&emsp;The State Directory of New Hires shall, on a quarterly basis, furnish to the National Directory of New Hires information concerning the wages and unemployment compensation paid to individuals, by such dates, in such format, and containing such information as the Secretary of Health and Human Services shall specify in regulations.
+&emsp;&emsp;The State Directory of New Hires shall, on a quarterly basis, furnish to the National Directory of New Hires information concerning the wages and unemployment compensation paid to individuals, by such dates, in such format, and containing such information asthe Secretary of Health and Human Services shall specify in regulations.
 
 #### (3) “Business day” defined
 

@@ -36,7 +36,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 1978—Par. (2). Pub. L. 95–454 substituted “7202, 7203” for “7152, 7153”.
 
-Pub. L. 95–228 struck out reference to section 3306(a)(1) of this title. Amendments by section 703(c)(1)and (c)(2) of Pub. L. 95–454 appear to have been inadvertently reversed. Subsec. (c)(1) purported to amend subsec. (c)(1) of section 2105 of this title, and subsec. (c)(2) purported to amend par. (2) of this section. However, the amendments specified by Pub. L. 95–454, §703(c)(1) and (2), were impossible to execute literally. Thus, amendment by Pub. L. 95–454, §703(c)(2) was executed to section 2105 of this title, and amendment by section 703(c)(1) was executed to this section as the probable intent of Congress.
+Pub. L. 95–228 struck out reference to section 3306(a)(1) of this title. Amendments by section 703(c)(1) and (c)(2) of Pub. L. 95–454 appear to have been inadvertently reversed. Subsec. (c)(1) purported to amend subsec. (c)(1) of section 2105 of this title, and subsec. (c)(2) purported to amend par. (2) of this section. However, the amendments specified by Pub. L. 95–454, §703(c)(1) and (2), were impossible to execute literally. Thus, amendment by Pub. L. 95–454, §703(c)(2) was executed to section 2105 of this title, and amendment by section 703(c)(1) was executed to this section as the probable intent of Congress.
 
 #### Effective Date of 1993 Amendment; Savings Provision
 
@@ -92,7 +92,7 @@ Section 1. (a) Subject to paragraph (b) of this section, the head of an agency m
 
 Sec. 2. (a) A person eligible for appointment under section 1 of this order may be appointed only within one year after his separation from the armed forces, or one year following his release from hospitalization or treatment immediately following his separation from the armed forces, or one year after involuntary separation without cause from (i) a veterans readjustment appointment or (ii) a transitional appointment, or one year after the effective date of this order if he is serving under a transitional appointment.
 
-(b) The Office of Personnel Management may determine the circumstances under which service under a transitional appointment may be deemed service under a veterans readjustment appointment for the purpose of paragraph (f) of section 1 of this order.
+(b) The Office of Personnel Management may determine the circumstances under which service under atransitional appointment may be deemed service under a veterans readjustment appointment for the purpose of paragraph (f) of section 1 of this order.
 
 Sec. 3. Any law, Executive order, or regulation which would disqualify an applicant for appointment in the competitive service shall also disqualify a person otherwise eligible for appointment under section 1 of this order.
 

@@ -26,11 +26,11 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1992—Subsec. (c). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1992</b>—Subsec. (c). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-1982—Subsec. (c). Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims”.
+<b>1982</b>—Subsec. (c). Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims”.
 
-1954—Subsec. (c). Act Sept. 3, 1954, substituted “considered by” for “filed with”.
+<b>1954</b>—Subsec. (c). Act Sept. 3, 1954, substituted “considered by” for “filed with”.
 
 #### Effective Date of 1992 Amendment
 

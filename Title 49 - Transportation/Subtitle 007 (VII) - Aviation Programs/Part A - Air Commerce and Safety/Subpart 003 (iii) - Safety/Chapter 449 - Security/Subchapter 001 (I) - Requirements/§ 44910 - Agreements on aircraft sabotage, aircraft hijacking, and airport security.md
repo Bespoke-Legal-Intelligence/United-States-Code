@@ -20,3 +20,7 @@ Historical and Revision Notes
 
 Aug. 8, 1985, Pub. L. 99–83, §556, 99 Stat. 227.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in section 106 of this title.
+

@@ -30,10 +30,6 @@ Section 3303 acknowledges the international concept of comity with respect to re
 
 For International Conventions for the Safety of Life at Sea to which the United States has been a party, see section 1602 of Title 33, Navigation and Navigable Waters, and notes thereunder.
 
-#### Contiguous Zone of United States
-
-For extension of contiguous zone of United States, see Proc. No. 7219, Sept. 2, 1999, 64 F.R. 48701, set out as a note under section 1331 of Title 43, Public Lands.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 3505 of this title.

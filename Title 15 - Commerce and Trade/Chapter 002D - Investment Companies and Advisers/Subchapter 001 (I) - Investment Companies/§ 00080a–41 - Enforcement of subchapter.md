@@ -20,7 +20,7 @@ Whenever it shall appear to the Commission that any person has engaged or is abo
 
 #### (1) Authority of Commission
 
-&emsp;Whenever it shall appear to the Commission that any person has violated any provision of this subchapter, the rules or regulations thereunder, or a cease-and-desist order entered by the Commission pursuant to section 80a–9(f) ofthis title, the Commission may bring an action in a United States district court to seek, and the court shall have jurisdiction to impose, upon a proper showing, a civil penalty to be paid by the person who committed such violation.
+&emsp;Whenever it shall appear to the Commission that any person has violated any provision of this subchapter, the rules or regulations thereunder, or a cease-and-desist order entered by the Commission pursuant to section 80a–9(f) of this title, the Commission may bring an action in a United States district court to seek, and the court shall have jurisdiction to impose, upon a proper showing, a civil penalty to be paid by the person who committed such violation.
 
 #### (2) Amount of penalty
 
@@ -48,7 +48,7 @@ Whenever it shall appear to the Commission that any person has engaged or is abo
 
 #### (B) Collection of penalties
 
-&emsp;&emsp;If a person upon whom such a penalty is imposed shall fail to pay such penalty within the time prescribed in the court's order, the Commission may refer the matter to the Attorney General who shall recover such penalty by action in the appropriate United States district court.
+&emsp;&emsp;If a person upon whom such a penalty is imposed shall fail to pay such penalty within the time prescribed in the court's order, the Commission may refer the matter to the Attorney General who shall recover suchpenalty by action in the appropriate United States district court.
 
 #### (C) Remedy not exclusive
 
@@ -87,22 +87,6 @@ Amendment by Pub. L. 91–452 not to affect any immunity to which any individual
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
-#### Cross References
-
-Enforcement under—
-
-&emsp;&emsp;Investment Advisers Act of 1940, see section 80b–9 of this title.
-
-&emsp;&emsp;Public Utility Holding Company Act of 1935, see section 79r of this title.
-
-&emsp;&emsp;Securities Act of 1933, see sections 77s, 77t, and 77v of this title.
-
-&emsp;&emsp;Securities Exchange Act of 1934, see section 78u of this title.
-
-&emsp;&emsp;Trust Indenture Act of 1939, see sections 77uuu and 77vvv of this title.
-
-Immunity of witnesses, see section 6001 et seq. of Title 18, Crimes and Criminal Procedure.
 
 #### Section Referred to in Other Sections
 

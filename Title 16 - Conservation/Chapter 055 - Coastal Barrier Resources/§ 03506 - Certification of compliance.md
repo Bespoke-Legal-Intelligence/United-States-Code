@@ -14,3 +14,7 @@ The head of each Federal agency affected by this chapter shall report and certif
 
 1990—Pub. L. 101–591 amended section generally. Prior to amendment, section read as follows: “The Director of the Office of Management and Budget shall, on behalf of each Federal agency concerned, make written certification that each such agency has complied with the provisions of this chapter during each fiscal year beginning after September 30, 1982. Such certification shall be submitted on an annual basis to the House of Representatives and the Senate pursuant to the schedule required under the Congressional Budget and Impoundment Control Act of 1974.”
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (b) of this section relating to annually submitting reports and certifications to the Committee on Resources of the House of Representatives and the Committee on Environment and Public Works of the Senate, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 42 of House Document No. 103–7.
+

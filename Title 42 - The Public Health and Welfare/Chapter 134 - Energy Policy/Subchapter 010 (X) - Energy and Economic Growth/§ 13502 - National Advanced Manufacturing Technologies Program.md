@@ -2,7 +2,7 @@
 
 #### (a) Program direction
 
-The Secretary shall establish a 5-year National Advanced Manufacturing Technologies Program, in accordance with sections 13541 and 13542 of this title. Such program shall foster the commercialization of advanced manufacturing technologies to improve energy efficiency and productivity in manufacturing. At a minimum, the Program shall expedite the private sector deployment of advanced manufacturing technologies to improve productivity, quality, and control in manufacturing processes that can foster economic growth, energy efficiency, and competitiveness. The program <sup>1</sup> shall include field demonstrations of sufficient scale and number to prove technical and economic feasibility.
+The Secretary shall establish a 5-year National Advanced Manufacturing Technologies Program, in accordance with sections 13541 and 13542 of this title. Such program shall foster the commercialization of advanced manufacturing technologies to improve energy efficiency and productivity in manufacturing. At a minimum, the Program shall expedite the private sectordeployment of advanced manufacturing technologies to improve productivity, quality, and control in manufacturing processes that can foster economic growth, energy efficiency, and competitiveness. The program <sup>1</sup> shall include field demonstrations of sufficient scale and number to prove technical and economic feasibility.
 
 #### (b) Program plan
 
@@ -31,6 +31,10 @@ Within 180 days after October 24, 1992, the Secretary, in consultation with appr
 There are authorized to be appropriated to the Secretary for carrying out this section such sums as may be necessary, to be derived from sums authorized under section 13451(e) of this title, including Department of Energy national laboratory participation in proposals submitted under subsection (c) of this section.
 
 (Pub. L. 102–486, title XXII, §2202, Oct. 24, 1992, 106 Stat. 3086.)
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (b) of this section relating to the biennial resubmittal of the program plan to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 2nd item on page 86 of House Document No. 103–7.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

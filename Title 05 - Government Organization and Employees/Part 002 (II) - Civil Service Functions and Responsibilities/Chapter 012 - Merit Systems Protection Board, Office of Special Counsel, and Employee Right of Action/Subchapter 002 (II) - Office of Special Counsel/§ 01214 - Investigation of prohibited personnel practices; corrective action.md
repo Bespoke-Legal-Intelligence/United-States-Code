@@ -12,7 +12,7 @@
 
 &emsp;(i) within 90 days after notice is provided under subparagraph (B), notify the person who made the allegation of the status of the investigation and any action taken by the Office of the Special Counsel since the filing of the allegation;
 
-&emsp;(ii) notify such person of the status of the investigation and any action taken by the Office of the Special Counsel since the last notice, at least every 60 days after notice is given under clause (i); and
+&emsp;(ii) notify such person of the status of the investigation and any action taken by the Officeof the Special Counsel since the last notice, at least every 60 days after notice is given under clause (i); and
 
 &emsp;(iii) notify such person of the status of the investigation and any action taken by the Special Counsel at such time as determined appropriate by the Special Counsel.
 
@@ -62,7 +62,7 @@
 
 (ii) If the Special Counsel is unable to make the required determination within the 240-day period specified under clause (i) and the person submitting the allegation of a prohibited personnel practice agrees to an extension of time, the determination shall be made within such additional period of time as shall be agreed upon between the Special Counsel and the person submitting the allegation.
 
-(B) If, in connection with any investigation, the Special Counsel determines that there are reasonable grounds to believe that a prohibited personnel practice has occurred, exists, or is to be taken which requires corrective action, the Special Counsel shall report the determination together with any findings or recommendations to the Board, the agency involved and to the Office of Personnel Management, and may report such determination, findings and recommendations to the President. The Special Counsel may include in the report recommendations for corrective action to be taken.
+(B) If, in connection with any investigation, the Special Counsel determines that there are reasonable grounds to believe that a prohibited personnel practice has occurred, exists, or is tobe taken which requires corrective action, the Special Counsel shall report the determination together with any findings or recommendations to the Board, the agency involved and to the Office of Personnel Management, and may report such determination, findings and recommendations to the President. The Special Counsel may include in the report recommendations for corrective action to be taken.
 
 (C) If, after a reasonable period of time, the agency does not act to correct the prohibited personnel practice, the Special Counsel may petition the Board for corrective action.
 
@@ -86,7 +86,7 @@
 
 (2) A petition for review under this subsection shall be filed with such court, and within such time, as provided for under section 7703(b).
 
-(d)(1) If, in connection with any investigation under this subchapter, the Special Counsel determines that there is reasonable cause to believe that a criminal violation has occurred, theSpecial Counsel shall report the determination to the Attorney General and to the head of the agency involved, and shall submit a copy of the report to the Director of the Office of Personnel Management and the Director of the Office of Management and Budget.
+(d)(1) If, in connection with any investigation under this subchapter, the Special Counsel determines that there is reasonable cause to believe that a criminal violation has occurred, the Special Counsel shall report the determination to the Attorney General and to the head of the agency involved, and shall submit a copy of the report to the Director of the Office of Personnel Management and the Director of the Office of Management and Budget.
 
 (2) In any case in which the Special Counsel determines that there are reasonable grounds to believe that a prohibited personnel practice has occurred, exists, or is to be taken, the Special Counsel shall proceed with any investigation or proceeding unless—
 
@@ -122,7 +122,7 @@ Subsec. (g). Pub. L. 103–424, §8(a), added subsec. (g).
 
 #### Termination Statement
 
-Section 12(b) of Pub. L. 103–424 provided that: “The Special Counsel shall include in any letter terminating an investigation under section 1214(a)(2) of title 5, United States Code, the name and telephone number of an employee of the Special Counsel who is available to respond to reasonable questions from the person regarding the investigation or review conducted by the Special Counsel, the relevant facts ascertained by the Special Counsel, and the law applicable to the person's allegations.”
+Section 12(b) of Pub. L. 103–424 provided that: “The Special Counsel shall include in any letter terminating an investigation under section 1214(a)(2) of title 5, United States Code, the name and telephone number of an employee of the Special Counsel who is available to respond to reasonable questions from the person regarding the investigation or review conducted by the Special Counsel, the relevant facts ascertained by theSpecial Counsel, and the law applicable to the person's allegations.”
 
 #### Section Referred to in Other Sections
 

@@ -100,11 +100,11 @@ Committee on House Oversight of House of Representatives changed to Committee on
 
 #### Effective Date of 1995 Amendment
 
-Amendment by Pub. L. 104–4 effective Jan. 1, 1996, or on the date 90 days after appropriations are made available as authorized under section 1516 of this title, whichever is earlier, and applicable to legislation considered on and after such date, see section 110 of Pub. L. 104–4, set out as an Effective Date note under section 1511 of this title.
+Amendment by Pub. L. 104–4 effective Jan. 1, 1996, or on the date 90 days after appropriations are made available as authorized under section 1516 of this title, whichever is earlier, and applicable to legislation considered on and after such date, see section 110 of Pub.L. 104–4, set out as an Effective Date note under section 1511 of this title.
 
 #### Effective Date of 1985 Amendment
 
-Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginningafter Sept. 30, 1985, see section 275(a)(1) of Pub. L. 99–177, set out as an Effective and Termination Dates note under section 900 of this title.
+Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see section 275(a)(1) of Pub. L. 99–177, set out as an Effective and Termination Dates note under section 900 of this title.
 
 #### Effective Date
 

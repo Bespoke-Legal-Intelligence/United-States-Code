@@ -30,7 +30,7 @@ Subsec. (b). Pub. L. 104–186, §204(59)(A)(ii), substituted “Chief Administr
 
 Subsec. (c). Pub. L. 104–186, §204(59)(B)(ii), substituted “applicable accounts” for “contingent fund”.
 
-Subsec. (d). Pub. L. 104–186, §204(59)(B)(i), (iii), substituted “House Oversight” for “House Administration” and struck out at end “The regulations shall limit, on such basis as the committee considers appropriate, the total value of office equipment, with allowance for equipment depreciation, which may be in use at any one time in the office of a Member or the Resident Commissioner.”
+Subsec. (d). Pub. L. 104–186, §204(59)(B)(i), (iii), substituted “House Oversight” for “House Administration” and struck out at end “The regulations shalllimit, on such basis as the committee considers appropriate, the total value of office equipment, with allowance for equipment depreciation, which may be in use at any one time in the office of a Member or the Resident Commissioner.”
 
 #### Change of Name
 
@@ -39,8 +39,4 @@ Committee on House Oversight of House of Representatives changed to Committee on
 #### Effective Date
 
 Section 3 of Pub. L. 91–139 provided that: “This Act \[enacting this section and provisions set out as notes under this section and sections 112a to 112d of this title, and repealing sections 112a to 112d of this title\] shall become effective at the beginning of the first calendar month which commences on or after the date of enactment of this Act \[Dec. 5, 1969\].”
-
-#### Cross References
-
-Adjustment of allowances by Committee on House Oversight, see section 57 of this title.
 

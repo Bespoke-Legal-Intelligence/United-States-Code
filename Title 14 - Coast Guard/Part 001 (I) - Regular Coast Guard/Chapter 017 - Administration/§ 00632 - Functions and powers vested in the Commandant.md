@@ -14,7 +14,3 @@ This section is primarily a consolidation of existing functions rather than a co
 
 Changes were made in phraseology. 81st Congress, House Report No. 557.
 
-#### Cross References
-
-Powers of Commandant, see section 93 of this title.
-

@@ -104,10 +104,6 @@ The Secretary may charge a fee to a lender which makes a loan guaranteed under t
 
 (Pub. L. 93–618, title II, §255, Jan. 3, 1975, 88 Stat. 2031; Pub. L. 97–35, title XXV, §2523, Aug. 13, 1981, 95 Stat. 891; Pub. L. 98–120, §4(a), Oct. 12, 1983, 97 Stat. 809; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
 
-#### Termination of Section
-
-<i>For termination of section by section 285 of Pub. L. 93–618, see Termination Date note set out preceding section 2271 of this title.</i>
-
 #### References in Text
 
 The Small Business Act, referred to in subsec. (d)(1), is Pub. L. 85–536, July 18, 1958, 72 Stat. 384, as amended, which is classified generally to chapter 14A (§631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
@@ -139,4 +135,8 @@ Section 4(b) of Pub. L. 98–120 provided that: “The amendment made by subsect
 #### Effective Date of 1981 Amendment
 
 Amendment by Pub. L. 97–35 effective Aug. 13, 1981, except as otherwise provided with respect to applications for adjustment assistance, see section 2529 of Pub. L. 97–35, set out as a note under section 2343 of this title.
+
+#### Termination Date
+
+No technical assistance to be provided under this part after Sept. 30, 2001, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
 

@@ -18,7 +18,7 @@ The making, amendment, or rescission of a rule, regulation, or order under the p
 
 #### (d) Liability of trustee under qualified indenture
 
-No trustee under an indenture which has been qualified under this subchapter shall be subjectto any liability because of any failure of such indenture to comply with any of the provisions of this subchapter, or any rule, regulation, or order thereunder.
+No trustee under an indenture which has been qualified under this subchapter shall be subject to any liability because of any failure of such indenture to comply with any of the provisions of this subchapter, or any rule, regulation, or order thereunder.
 
 #### (e) Power of Commission to conduct investigation
 
@@ -33,8 +33,4 @@ Nothing in this subchapter shall be construed as empowering the Commission to co
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
-#### Cross References
-
-Rules and regulations, authority of Commission to make, issue, amend, and rescind, see section 77sss of this title.
 

@@ -32,6 +32,20 @@ Incentives for Electronic Processing.—The Secretary of Defense shall require t
 
 Pub. L. 106–65, div. A, title VII, §713(d), Oct. 5, 1999, 113 Stat. 689, provided that: “Section 1095c(b) of title 10, United States Code (as added by subsection (a)), shall apply with respect to any contract to provide managed care support under the TRICARE program negotiated after the date of the enactment of this Act \[Oct. 5, 1999\].”
 
+#### Claims Processing Improvements
+
+Pub. L. 106–398, §1 \[\[div. A\], title VII, §727\], Oct. 30, 2000, 114 Stat. 1654, 1654A–188, provided that: “Beginning on the date of the enactment of this Act \[Oct. 30, 2000\], the Secretary of Defense shall, to the maximum extent practicable, take all necessary actions to implement the following improvements with respect to processing of claims under the TRICARE program:
+
+&emsp;“(1) Use of the TRICARE encounter data information system rather than the health care service record in maintaining information on covered beneficiaries under chapter 55 of title 10, United States Code.
+
+&emsp;“(2) Elimination of all delays in payment of claims to health care providers that may result from the development of the health care service record or TRICARE encounter data information.
+
+&emsp;“(3) Requiring all health care providers under the TRICARE program that the Secretary determines are high-volume providers to submit claims electronically.
+
+&emsp;“(4) Processing 50 percent of all claims by health care providers and institutions under the TRICARE program by electronic means.
+
+&emsp;“(5) Authorizing managed care support contractors under the TRICARE program to require providers to access information on the status of claims through the use of telephone automated voice response units.”
+
 #### Deadline for Implementation
 
 Pub. L. 106–65, div. A, title VII, §713(c), Oct. 5, 1999, 113 Stat. 689, provided that: “The system for processing claims required under section 1095c(a) of title 10, United States Code (as added by subsection (a)), shall be implemented not later than 6 months after the date of the enactment of this Act \[Oct. 5, 1999\].”

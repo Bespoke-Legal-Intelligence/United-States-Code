@@ -2,7 +2,7 @@
 
 (a) The Congress finds that the Nation has suffered substantial unemployment and underemployment, idleness of other productive resources, high rates of inflation, and inadequate productivity growth, over prolonged periods of time, imposing numerous economic and social costs on the Nation. Such costs include the following:
 
-&emsp;(1) The Nation is deprived of the full supply of goods and services, the full utilization of labor and capital resources, and the related increases in economic well-being that wouldoccur under conditions of genuine full employment, production, and real income, balanced growth, a balanced Federal budget, and the effective control of inflation.
+&emsp;(1) The Nation is deprived of the full supply of goods and services, the full utilization of labor and capital resources, and the related increases in economic well-being that would occur under conditions of genuine full employment, production, and real income, balanced growth, a balanced Federal budget, and the effective control of inflation.
 
 &emsp;(2) The output of goods and services is insufficient to meet pressing national priorities.
 
@@ -18,7 +18,7 @@
 
 &emsp;(1) High unemployment may contribute to inflation by diminishing labor training and skills, underutilizing capital resources, reducing the rate of productivity advance, increasing unit labor costs, and reducing the general supply of goods and services.
 
-&emsp;(2) Aggregate monetary and fiscal policies alone have been unable to achieve full employment and production, increased real income, balanced growth, a balanced Federal budget, adequate productivity growth, proper attention to national priorities, achievement of an improved trade balance, and reasonable price stability, and therefore must be supplemented by other measures designed to serve these ends.
+&emsp;(2) Aggregate monetary and fiscal policies alone have been unable to achieve full employment and production, increased real income, balanced growth, a balanced Federal budget, adequate productivity growth, proper attention to national priorities, achievement of an improved trade balance, and reasonable price stability, and therefore must be supplementedby other measures designed to serve these ends.
 
 &emsp;(3) Attainment of these objectives should be facilitated by setting explicit short-term and medium-term economic goals, and by improved coordination among the President, the Congress, and the Board of Governors of the Federal Reserve System.
 

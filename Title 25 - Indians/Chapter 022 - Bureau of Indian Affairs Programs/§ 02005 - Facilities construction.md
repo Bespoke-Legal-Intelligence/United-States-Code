@@ -2,11 +2,9 @@
 
 #### (a) Compliance with health and safety standards
 
-The Secretary shall immediately begin to bring all schools, dormitories, and other facilities operated by the Bureau or under contract or grant with the Bureau in connection with the education of Indian children into compliance with all applicable Federal, tribal, or State health and safety standards, whichever provide greater protection (except that the tribal standards to be applied shall be no greater than any otherwise applicable Federal or State standards), with section 794 of title 29, and with the Americans with Disabilities Act of 1990 \[42 U.S.C. 12101 et seq.\], except that nothing in this section shall require termination of the operations of any facility which does not comply with such provisions and which is in use on October 20, 1994.
+The Secretary shall immediately begin to bring all schools, dormitories, and other facilities operated by the Bureau or under contract or grant with the Bureau in connection with the education of Indian children into compliance with all applicable Federal, tribal, or State health and safety standards, whichever provide greater protection (except that the tribal standards to be applied shall be no greater than any otherwise applicable Federal or State standards), with section 794 of title 29, and with the Americans with Disabilities Act of 1990 \[42U.S.C. 12101 et seq.\], except that nothing in this section shall require termination of the operations of any facility which does not comply with such provisions and which is in use on October 20, 1994.
 
-#### (b) Plan
-
-By January 1, 1996, and at each time thereafter that the annual budget request for Bureau educational services is presented, the Secretary shall submit to the appropriate committees of Congress a detailed plan to bring such facilities into compliance with such standards. Such plan shall include detailed information on the status of each facility's compliance with such standards, specific cost estimates for meeting such standards at each school, and specific time lines for bringing each school into compliance with such standards.
+#### (b) Omitted
 
 #### (c) Priorities
 
@@ -49,6 +47,8 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 The Americans with Disabilities Act of 1990, referred to in subsec. (a), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
 #### Codification
+
+Subsec. (b) of this section, which required the Secretary of the Interior, each time the annual budget request for Bureau educational services was presented, to submit to appropriate committees of Congress a detailed plan to bring facilities into compliance with standards as provided in this section, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 113 of House Document No. 103–7.
 
 In subsec. (c), “November 1, 1978” was substituted for “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 95–561, which enacted this chapter.
 

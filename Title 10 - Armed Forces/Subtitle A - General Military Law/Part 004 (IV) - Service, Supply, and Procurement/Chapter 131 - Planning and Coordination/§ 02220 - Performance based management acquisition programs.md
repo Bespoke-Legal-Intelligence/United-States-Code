@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment of Goals.—(1) The Secretary of Defense shall approve or define thecost, performance, and schedule goals for major defense acquisition programs of the Department of Defense and for each phase of the acquisition cycle of such programs.
+Establishment of Goals.—(1) The Secretary of Defense shall approve or define the cost, performance, and schedule goals for major defense acquisition programs of the Department of Defense and for each phase of the acquisition cycle of such programs.
 
 (2) The Under Secretary of Defense (Comptroller) shall evaluate the cost goals proposed for each major defense acquisition program of the Department.
 
@@ -30,7 +30,7 @@ Subsec. (b). Pub. L. 104–106, §4321(b)(1), substituted “October 13, 1994”
 
 #### Effective Date of 1996 Amendment
 
-For effective date and applicability of amendment by section 4321(b)(1) of Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 251 of Title 41, Public Contracts.
+For effective date and applicability of amendment by section 4321(b)(1) of Pub. L. 104–106, see section 4401 ofPub. L. 104–106, set out as a note under section 251 of Title 41, Public Contracts.
 
 #### Pilot Programs for Testing Program Manager Performance of Product Support Oversight Responsibilities for Life Cycle of Acquisition Programs
 

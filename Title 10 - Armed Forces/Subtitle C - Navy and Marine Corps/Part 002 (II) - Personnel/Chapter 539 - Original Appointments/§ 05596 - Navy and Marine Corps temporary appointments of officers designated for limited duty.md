@@ -162,10 +162,6 @@ For delegation to Secretary of Defense of authority vested in President by secti
 
 For provisions to prevent extinction or premature termination of rights, duties, penalties, or proceedings that existed or were begun prior to the effective date of Pub. L. 96–513 and otherwise to allow for an orderly transition to the system of officer personnel management put in place under Pub. L. 96–513, see section 601 et seq. of Pub. L. 96–513, set out as a note under section 611 of this title.
 
-#### Cross References
-
-Coast Guard warrant officers, temporary appointments, see section 214 of Title 14, Coast Guard.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 532, 631, 632, 633, 5589, 6383 of this title.

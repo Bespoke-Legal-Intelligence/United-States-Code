@@ -84,7 +84,7 @@ For purposes of this section the following definitions shall apply:
 
 #### (1) Domestic branch
 
-&emsp;The term “domestic branch” means any branch office or other facility of a regulated financial institution that accepts deposits, located in any State.
+&emsp;The term “domestic branch” means any branch office or other facility of a regulatedfinancial institution that accepts deposits, located in any State.
 
 #### (2) Metropolitan area
 

@@ -30,7 +30,7 @@
 
 (d) In addition, the Administrator, in carrying out subsection (b), shall have the responsibility to promote economy and efficiency in the selection and utilization of space, staff, equipment, and supplies for records management.
 
-(Added Pub. L. 94–575, §2(a)(2), Oct. 21, 1976, 90 Stat. 2725; amended Pub. L. 96–511, §2(c)(1), Dec.11, 1980, 94 Stat. 2825; Pub. L. 98–497, title I, §107(b)(16), Oct. 19, 1984, 98 Stat. 2288.)
+(Added Pub. L. 94–575, §2(a)(2), Oct. 21, 1976, 90 Stat. 2725; amended Pub. L. 96–511, §2(c)(1), Dec. 11, 1980, 94 Stat. 2825; Pub. L. 98–497, title I, §107(b)(16), Oct. 19, 1984, 98 Stat. 2288.)
 
 #### Prior Provisions
 
@@ -77,6 +77,10 @@ Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L.
 #### Effective Date of 1980 Amendment
 
 Section 5 of Pub. L. 96–511 provided: “This Act \[enacting chapter 35 of this title, amending this section, section 2905 of this title, section 5315 of Title 5, Government Organization and Employees, section 1221–3 of Title 20, Education, section 1211 of Title 30, Mineral Lands and Mining, and section 292h of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under sections 101 and 3503 of this title\] shall take effect on April 1, 1981.”
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report to appropriate oversight and appropriations committees of Congress under subsec. (c)(8) of this section is listed as the 9th item on page 173 and as the 5th item on page 180), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set out as notes under section 1113 of Title 31, Money and Finance.
 
 #### Section Referred to in Other Sections
 

@@ -14,7 +14,3 @@ Section 774 of title 28, U.S.C., 1940 ed., provided that “no claim for a credi
 
 Changes in phraseology were made.
 
-#### Cross References
-
-Third party tort liability for hospital and medical care, see section 2651 et seq. of Title 42, The Public Health and Welfare.
-

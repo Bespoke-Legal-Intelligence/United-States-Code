@@ -10,7 +10,7 @@
 
 (c) In cooperation with the staff of the public employment service system and the staffs of each such other program in the State, the Director for Veterans’ Employment and Training and Assistant Directors for Veterans’ Employment and Training shall—
 
-&emsp;(1)(A) functionally supervise the provision of services to eligible veterans and eligible persons by such system and such program and their staffs, and (B) be functionally responsible for the supervision of the registration of eligible veterans and eligible persons in local employment offices for suitable types of employment and training and for counseling and placement of eligible veterans and eligible persons in employment and job training programs, including the program conducted under the Veterans’ Job Training Act (Public Law 98–77; 29 U.S.C. 1721 note);
+&emsp;(1)(A) functionally supervise the provision of services to eligible veterans and eligible persons by such system and such program and their staffs, and (B) be functionally responsible for the supervision of the registration of eligible veterans and eligible persons in local employment offices for suitable types of employment and training and for counseling and placement of eligible veterans and eligible persons in employment and job training programs, including the program conducted under the Veterans’ Job Training Act (Public Law 98–77; 29 U.S.C. 1721 note); <sup>1</sup>
 
 &emsp;(2) engage in job development and job advancement activities for eligible veterans and eligible persons, including maximum coordination with appropriate officials of the Department of Veterans Affairs in that agency's carrying out of its responsibilities under subchapter II of chapter 77 of this title and in the conduct of job fairs, job marts, and other special programs to match eligible veterans and eligible persons with appropriate job and job training opportunities and otherwise to promote the employment of eligible veterans and eligible persons;
 
@@ -38,7 +38,7 @@
 
 &emsp;(14) monitor, through disabled veterans’ outreach program specialists and local veterans’ employment representatives, the listing of vacant positions with State employment agencies by Federal agencies, and report to the Office of Personnel Management or other appropriate agency, for enforcement or other remedial action, any evidence of failure to provide priority or other special consideration in the provision of services to veterans as is required by law or regulation; and
 
-&emsp;(15)(A) not less frequently than annually, conduct, subject to subclause (B) of this clause, an evaluation at each local employment office of the services provided to eligible veterans and eligible persons and make recommendations for corrective action as appropriate; and
+&emsp;(15)(A) not less frequently than annually, conduct, subject to subclause (B) of thisclause, an evaluation at each local employment office of the services provided to eligible veterans and eligible persons and make recommendations for corrective action as appropriate; and
 
 &emsp;(B) carry out such evaluations in the following order of priority: (I) offices that demonstrated less than satisfactory performance during either of the two previous program years, (II) offices with the largest number of veterans registered during the previous program year, and (III) other offices as resources permit.
 
@@ -48,7 +48,7 @@
 
 The provisions of title 5 governing appointments in the competitive service, referred to in subsecs. (a) and (b)(1), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
 
-The Veterans’ Job Training Act, referred to in subsec. (c)(1), is Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended, which is set out as a note under section 1721 of Title 29, Labor. For complete classification of this Act to the Code, see Tables.
+The Veterans’ Job Training Act, referred to in subsec. (c)(1), is Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended, which is set out as a note under section 2913 of Title 29, Labor. For complete classification of this Act to the Code, see Tables.
 
 #### Prior Provisions
 
@@ -78,7 +78,7 @@ Subsec. (a). Pub. L. 100–323, §15(a)(2), struck out “of Labor” after “T
 
 Pub. L. 100–323, §15(c)(1), substituted “Director for Veterans’ Employment and Training” for “State Director for Veterans’ Employment” in two places, “Assistant Director for Veterans’ Employment and Training” for “Assistant State Director for Veterans’ Employment”, “Assistant Directors for Veterans’ Employment and Training” for “Assistant State Directors for Veterans’ Employment”, and “Directors for Veterans’ Employment and Training” for “State Directors for Veterans’ Employment”.
 
-Subsec. (b)(1)(A). Pub. L. 100–323, §15(c)(1), substituted “Director for Veterans’ Employment and Training” for“State Director for Veterans’ Employment” and “Assistant Director for Veterans’ Employment and Training” for “Assistant State Director for Veterans’ Employment”.
+Subsec. (b)(1)(A). Pub. L. 100–323, §15(c)(1), substituted “Director for Veterans’ Employment and Training” for “State Director for Veterans’ Employment” and “Assistant Director for Veterans’ Employment and Training” for “Assistant State Director for Veterans’ Employment”.
 
 Pub. L. 100–323, §5(1)–(3), designated existing provisions as subpar. (A), redesignated former cls. (A) and (B) as (i) and (ii), respectively, and substituted “, except as provided in subparagraph (B) of this paragraph, be a qualified veteran” for “be an eligible veteran” in cl. (i).
 
@@ -139,4 +139,6 @@ Amendment by Pub. L. 92–540 effective 90 days after Oct. 24, 1972, see section
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 4102A, 4103A of this title; title 42 section 1101.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

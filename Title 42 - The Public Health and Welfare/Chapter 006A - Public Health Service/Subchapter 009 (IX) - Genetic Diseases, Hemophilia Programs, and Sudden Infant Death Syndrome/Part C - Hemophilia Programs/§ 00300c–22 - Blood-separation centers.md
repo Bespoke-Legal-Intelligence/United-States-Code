@@ -28,7 +28,7 @@ For the purpose of making payments under grants and contracts under subsections 
 
 #### Codification
 
-In subsec. (d), “section 3324(a) and (b) of title 31” substituted for reference to section 3648 of the RevisedStatutes (31 U.S.C. 529) on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (d), “section 3324(a) and (b) of title 31” substituted for reference to section 3648 of the Revised Statutes (31 U.S.C. 529) on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
 
@@ -42,7 +42,7 @@ Section effective July 1, 1975, see section 608 of Pub. L. 94–63, set out as a
 
 #### Ricky Ray Hemophilia Relief Fund
 
-Pub. L. 105–369, Nov. 12, 1998, 112 Stat. 3368, provided that:
+Pub. L. 105–369, Nov. 12, 1998, 112 Stat. 3368, as amended by Pub. L. 106–554, §1(a)(6) \[title IX, §932\], Dec. 21, 2000, 114 Stat. 2763, 2763A–585, provided that:
 
 #### “SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
 
@@ -76,7 +76,7 @@ Termination.—The Fund shall terminate upon the expiration of the 5-year period
 
 “(e)
 
-Authorization of Appropriations.—There is authorized to be appropriated to the Fund to carry out this title $750,000,000.
+Authorization of Appropriations.—There is authorized to be appropriated to the Fund to carry out this title $750,000,000. There is appropriated to the Fund $475,000,000 for fiscal year 2001, to remain available until expended.
 
 #### “SEC. 102. COMPASSIONATE PAYMENT RELATING TO INDIVIDUALS WITH BLOOD-CLOTTING DISORDERS AND HIV.
 
@@ -134,7 +134,7 @@ Payments in case of deceased individuals.—
 
 &emsp;&emsp;“(A)
 
-In general.—In the case of an individual referred to in section 102(a) who is deceased at the time that payment is made under this section on a petition filed by or on behalf of the individual, the payment shall be made as follows:
+In general.—In the case of an individual referred to in section 102(a) who is deceased at the time that payment is made under this section on apetition filed by or on behalf of the individual, the payment shall be made as follows:
 
 &emsp;&emsp;&emsp;“(i) If the individual is survived by a spouse who is living at the time of payment, the payment shall be made to such surviving spouse.
 
@@ -160,7 +160,7 @@ Definitions.—For purposes of this paragraph:
 
 &emsp;“(3)
 
-Timing of payment.—The Secretary may not make a payment on a petition under this title before the expiration of the 120-day period beginning on thedate of the enactment of this Act \[Nov. 12, 1998\] or after the expiration of the 5-year period beginning on the date of the enactment of this Act.
+Timing of payment.—The Secretary may not make a payment on a petition under this title before the expiration of the 120-day period beginning on the date of the enactment of this Act \[Nov. 12, 1998\] or after the expiration of the 5-year period beginning on the date of the enactment of this Act.
 
 “(d)
 

@@ -22,7 +22,3 @@ Functions of Federal Works Agency and of all agencies thereof, together with fun
 
 Transfer of functions by act June 30, 1949, as effective July 1, 1949, see note set out under section 471 of Title 40, Public Buildings, Property, and Works.
 
-#### Cross References
-
-Acceptance of lands conveyed for purposes of Blue Ridge Parkway, see section 460a–1 of this title.
-

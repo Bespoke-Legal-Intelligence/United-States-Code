@@ -56,7 +56,7 @@ Act approved July 2, 1890, referred to in par. (9)(A), is act July 2, 1890, ch. 
 
 Act approved October 15, 1914, referred to in par. (9)(B), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, as amended, known as the Clayton Act, which is classified generally to sections 12, 13, 14 to 19, 20, 21, and 22 to 27 of Title 15, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under section 12 of Title 15 and Tables.
 
-The Federal Trade Commission Act, referred to in par. (9)(C), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of Title 15. For complete classification of this Act to the Code, see section 58 of Title 15 and Tables.
+The Federal Trade Commission Act, referred to in par. (9)(C), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, asamended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of Title 15. For complete classification of this Act to the Code, see section 58 of Title 15 and Tables.
 
 Act of June 19, 1936, referred to in par. (9)(E), is act June 19, 1936, ch. 592, 49 Stat. 1526, popularly known as the Robinson-Patman Antidiscrimination Act, which enacted sections 13a, 13b, and 21a of Title 15, and amended section 13 of Title 15. For complete classification of this Act to the Code, see Short Title note set out under section 13 of Title 15 and Tables.
 
@@ -74,5 +74,5 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 6237, 6241, 8374, 8502 of this title.
+This section is referred to in sections 6241, 8374, 8502 of this title.
 

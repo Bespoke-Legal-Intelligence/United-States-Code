@@ -160,7 +160,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(III) the timetable for accomplishment of the corrective actions specified; and
 
-&emsp;&emsp;&emsp;(ii) eliminate each deficiency identified, not later than the date for elimination of such deficiency specified in such plan (which shall not be later than 1 year after the date the agency received notice of the determination and of the specific deficiency to be corrected).
+&emsp;&emsp;&emsp;(ii) eliminate each deficiency identified, not later than the date for elimination ofsuch deficiency specified in such plan (which shall not be later than 1 year after the date the agency received notice of the determination and of the specific deficiency to be corrected).
 
 #### (B) Secretarial responsibility
 

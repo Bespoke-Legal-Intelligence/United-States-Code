@@ -12,11 +12,11 @@
 
 #### (B) Narcotics and control of illegal substances
 
-&emsp;&emsp;The United States and the Marshall Islands will take all reasonable and necessary steps, as mutually agreed, based upon consultations in which the Attorney General or other designated official of each Government participates, to prevent the use of the lands, waters, and facilities of the United States or the Marshall Islands for the purposes of cultivation of, production of, smuggling of, trafficking in, and abuse of any controlledsubstance as defined in section 802(6) of title 21 and Schedules I through V of Subchapter II of the Controlled Substances Act of the Marshall Islands, or for the distribution of any such substance to or from the Marshall Islands or to or from the United States or any of its territories or commonwealths.
+&emsp;&emsp;The United States and the Marshall Islands will take all reasonable and necessary steps, as mutually agreed, based upon consultations in which the Attorney General or other designated official of each Government participates, to prevent the use of the lands, waters, and facilities of the United States or the Marshall Islands for the purposes of cultivation of, production of, smuggling of, trafficking in, and abuse of any controlled substance as defined in section 802(6) of title 21 and Schedules I through V of Subchapter II of the Controlled Substances Act of the Marshall Islands, or for the distribution of any such substance to or from the Marshall Islands or to or from the United States or any of its territories or commonwealths.
 
 #### (C) Other criminal laws
 
-&emsp;&emsp;Assistance provided pursuant to this subsection shall also extend to, but not be limited to, prevention and prosecution of violations of the laws of the United States and the laws of the Marshall Islands related to terrorism, espionage, racketeer influenced and corrupt organizations, and financial transactions which advance the interests of any person engaging in unlawful activities, as well as the schedule of offenses set forth in Appendix A of the subsidiary agreement to section 175 of the Compact.
+&emsp;&emsp;Assistance provided pursuant to this subsection shall also extend to, but not be limited to, prevention and prosecution of violations of the laws of the United States and the laws of the Marshall Islands related to terrorism, espionage, racketeer influenced and corrupt organizations, and financialtransactions which advance the interests of any person engaging in unlawful activities, as well as the schedule of offenses set forth in Appendix A of the subsidiary agreement to section 175 of the Compact.
 
 #### (2) Technical and training assistance
 
@@ -92,7 +92,7 @@ In approving the Compact, the Congress understands and intends that the peoples 
 
 #### (g) Espousal provisions
 
-(1) It is the intention of the Congress of the United States that the provisions of section 177 of the Compact of Free Association and the Agreement between the Government of the United States and the Government of the Marshall Islands for the Implementation of Section177 of the Compact (hereafter in this subsection referred to as the “Section 177 Agreement”) constitute a full and final settlement of all claims described in Articles X and XI of the Section 177 Agreement, and that any such claims be terminated and barred except insofar as provided for in the Section 177 Agreement.
+(1) It is the intention of the Congress of the United States that the provisions of section 177 of the Compact of Free Association and the Agreement between the Government of the United States and the Government of the Marshall Islands for the Implementation of Section 177 of the Compact (hereafter in this subsection referred to as the “Section 177 Agreement”) constitute a full and final settlement of all claims described in Articles X and XI of the Section 177 Agreement, and that any such claims be terminated and barred except insofar as provided for in the Section 177 Agreement.
 
 (2) In furtherance of the intention of Congress as stated in paragraph (1) of this subsection, the Section 177 Agreement is hereby ratified and approved. It is the explicit understanding and intent of Congress that the jurisdictional limitations set forth in Article XII of such Agreement are enacted solely and exclusively to accomplish the objective of Article X of such Agreement and only as a clarification of the effect of Article X, and are not to be construed or implemented separately from Article X.
 
@@ -216,13 +216,13 @@ In accordance with section 233 of the Compact, the President of the United State
 
 #### (6) Cooperation by Marshall Islands
 
-&emsp;The Government of the Marshall Islands will cooperate fully with the Comptroller Generalof the United States in the conduct of such audits as the Comptroller General determines necessary to enable the Comptroller General to fully discharge his responsibilities under this joint resolution.
+&emsp;The Government of the Marshall Islands will cooperate fully with the Comptroller General of the United States in the conduct of such audits as the Comptroller General determines necessary to enable the Comptroller General to fully discharge his responsibilities under this joint resolution.
 
 (Pub. L. 99–239, title I, §103, Jan. 14, 1986, 99 Stat. 1778; Pub. L. 100–446, title I, §115, Sept. 27, 1988, 102 Stat. 1802; Pub. L. 102–247, title III, §304, Feb. 24, 1992, 106 Stat. 39; Pub. L. 105–209, §2, July 29, 1998, 112 Stat. 880.)
 
 #### References in Text
 
-The Compact, referred to in text, is the Compact of Free Association between the Government of the United States and the Governments of the Marshall Islands and the Federated States of Micronesia, which is contained in section 201 of Pub. L. 99–239, set out as a note under section 1901 of this title.
+The Compact, referred to in text, is the Compact of Free Association between the Government of theUnited States and the Governments of the Marshall Islands and the Federated States of Micronesia, which is contained in section 201 of Pub. L. 99–239, set out as a note under section 1901 of this title.
 
 This joint resolution, referred to in subsecs. (a)(3), (e)(5), (k), and (m)(6), is Pub. L. 99–239, Jan. 14, 1986, 99 Stat. 1770, as amended, known as the Compact of Free Association Act of 1985, which is classified principally to this subchapter and chapter 19 (§2001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of this title and Tables.
 
@@ -247,6 +247,10 @@ Subsec. (h)(2)(B). Pub. L. 105–209, §2(2), inserted at end “The President s
 1992—Subsec. (h)(2). Pub. L. 102–247 substituted “ten years” for “five years” in introductory provisions.
 
 1988—Subsec. (h)(2). Pub. L. 100–446, in introductory provisions, inserted “or by a grant to the Government of the Republic of the Marshall Islands which may further contract only with a United States firm or a Republic of the Marshall Islands firm, the owners, officers and majority of the employees of which are citizens of the United States or the Republic of the Marshall Islands” after “United States firm” and, in subpar. (B), inserted “, Rongelap, Utrik,” after “Bikini”.
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which reports required under subsecs. (a)(4), (e)(5), and (m)(4) of this section are listed, respectively, as the 2nd item on page 38, the 16th item on page 115, and the 12th item on page 37), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 
 #### Tax Exemption for Enjebi Community Trust Fund
 
@@ -276,7 +280,7 @@ Pub. L. 95–134, title I, §106, as added by Pub. L. 96–205, title I, §102, 
 
 “(2) At the request of the Secretary, any Federal agency shall provide such information, personnel, facilities, logistical support, or other assistance as the Secretary deems necessary to carry out the functions of this program; the costs of all such assistance shall be reimbursed to the provider thereof out of the sums appropriated pursuant to this section.
 
-“(3) All costs associated with the development and implementation of the plan shall be assumed by the Secretary of Energy and effective October 1, 1980, there are authorized to be appropriated to the Secretary of Energy such sums as may be necessary to achieve the purposes of this section.
+“(3) All costs associated with the development and implementation of the plan shall be assumed by the Secretary of Energy and effective October 1, 1980, there are authorized to be appropriated to the Secretary ofEnergy such sums as may be necessary to achieve the purposes of this section.
 
 “(c) The Secretary shall report to the appropriate committees of the Congress, and to the people of the affected atolls annually, or more frequently if necessary, on the implementation of the plan. Each such report shall include a description of the health status of the individuals examined and treated under the plan, an evaluation by the scientific advisory committee, and any recommendations for improvement of the plan. The first such report shall be submitted not later than January 1, 1982.”
 

@@ -8,15 +8,3 @@ A person not a citizen who owes permanent allegiance to the United States, and w
 
 1990—Pub. L. 101–649 substituted “applications” for “petitions”.
 
-#### Cross References
-
-Definition of the term—
-
-&emsp;&emsp;National, see section 1101(a)(21) of this title.
-
-&emsp;&emsp;Naturalization, see section 1101(a)(23) of this title.
-
-&emsp;&emsp;Residence, see section 1101(a)(33) of this title.
-
-&emsp;&emsp;United States, see section 1101(a)(38) of this title.
-

@@ -34,9 +34,3 @@ In subsection (a), 32:68 (last sentence) is omitted as surplusage, since positiv
 
 1988—Subsecs. (a), (b). Pub. L. 100–456 struck out “the Canal Zone,” after “Puerto Rico,”.
 
-#### Cross References
-
-National Guard Bureau, assignment of regular or reserve officers of Army or Air Force, see section 10507 of Title 10, Armed Forces.
-
-Reserve components, detail of members of regular and reserve components to assist, see section 12501 of Title 10.
-

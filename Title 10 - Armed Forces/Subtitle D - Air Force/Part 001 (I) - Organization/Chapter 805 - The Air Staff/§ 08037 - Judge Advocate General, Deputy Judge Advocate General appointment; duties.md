@@ -72,11 +72,3 @@ Subsec. (d). Pub. L. 96–343, §12(a), added subsec. (d).
 
 Section 507(b) of Pub. L. 104–106 provided that: “The amendments made by subsection (a) \[amending this section\] apply to any appointment to the position of Deputy Judge Advocate General of the Air Force that is made after the date of the enactment of this Act \[Feb. 10, 1996\].”
 
-#### Cross References
-
-Army, appointment and duties of Judge Advocate General, see section 3037 of this title.
-
-Marine Corps, Staff Judge Advocate to Commandant, see section 5046 of this title.
-
-Navy, appointment, term, emoluments and duties of Judge Advocate General, see section 5148 of this title.
-

@@ -4,9 +4,9 @@
 
 Every person registered hereunder as futures commission merchant, introducing broker, floor broker, or floor trader shall make such reports as are required by the Commission regarding the transactions and positions of such person, and the transactions and positions of the customer thereof, in commodities for future delivery on any board of trade in the United States or elsewhere; shall keep books and records pertaining to such transactions and positions in such form and manner and for such period as may be required by the Commission; and shall keep such books and records open to inspection by any representative of the Commission or the United States Department of Justice.
 
-#### (b) Daily trading records: clearinghouses and contract markets
+#### (b) Daily trading records: registered entities
 
-Every clearinghouse and contract market shall maintain daily trading records. The daily trading records shall include such information as the Commission shall prescribe by rule.
+Every registered entity shall maintain daily trading records. The daily trading records shall include such information as the Commission shall prescribe by rule.
 
 #### (c) Daily trading records: floor brokers, introducing brokers, and futures commission merchants
 
@@ -22,11 +22,15 @@ Before the beginning of trading each day, the exchange shall, insofar as is prac
 
 #### (f) Authority of Commission to make separate determinations unimpaired
 
-Nothing contained in this section shall be construed to prohibit the Commission from making separate determinations for different clearinghouses, contract markets, and exchanges when such determinations are warranted in the judgment of the Commission.
+Nothing contained in this section shall be construed to prohibit the Commission from making separate determinations for different registered entities when such determinations are warranted in the judgment of the Commission.
 
-(Sept. 21, 1922, ch. 369, §4g, as added June 15, 1936, ch. 545, §5, 49 Stat. 1496; amended Pub. L. 90–258, §8, Feb. 19, 1968, 82 Stat. 28; Pub. L. 93–463, title I, §103(a), (f), title IV, §415, Oct. 23, 1974, 88 Stat. 1392, 1415; Pub. L. 95–405, §6, Sept. 30, 1978, 92 Stat. 869; Pub. L. 97–444, title II, §209, Jan. 11, 1983, 96 Stat. 2302; Pub. L. 102–546, title II, §207(b)(1), title IV, §402(5), Oct. 28, 1992, 106 Stat. 3604, 3624.)
+(Sept. 21, 1922, ch. 369, §4g, as added June 15, 1936, ch. 545, §5, 49 Stat. 1496; amended Pub. L. 90–258, §8, Feb. 19, 1968, 82 Stat. 28; Pub. L. 93–463, title I, §103(a), (f), title IV, §415, Oct. 23, 1974, 88 Stat. 1392, 1415; Pub. L. 95–405, §6, Sept. 30, 1978, 92 Stat. 869; Pub. L. 97–444, title II, §209, Jan. 11, 1983, 96 Stat. 2302; Pub. L. 102–546, title II, §207(b)(1), title IV, §402(5), Oct. 28, 1992, 106 Stat. 3604, 3624; Pub. L. 106–554, §1(a)(5) \[title I, §123(a)(7)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–407.)
 
 #### Amendments
+
+2000—Subsec. (b). Pub. L. 106–554, §1(a)(5) \[title I, §123(a)(7)(A)\], substituted “registered entity” for “clearinghouse and contract market”.
+
+Subsec. (f). Pub. L. 106–554, §1(a)(5) \[title I, §123(a)(7)(B)\], substituted “registered entities” for “clearinghouses, contract markets, and exchanges”.
 
 1992—Subsec. (a). Pub. L. 102–546, §§207(b)(1), 402(5)(A), redesignated par. (1) as subsec. (a) and substituted “floor broker, or floor trader” for “or floor broker”.
 

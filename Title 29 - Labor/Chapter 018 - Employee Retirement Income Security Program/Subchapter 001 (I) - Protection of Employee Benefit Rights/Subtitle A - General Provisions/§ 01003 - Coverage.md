@@ -34,7 +34,7 @@ Pub. L. 104–191 inserted at end “The provisions of part 7 of subtitle B shal
 
 #### Effective Date of 1996 Amendments
 
-Section 603(c) of Pub. L. 104–204 provided that: “The amendments made by this section \[enacting section 1185 of this title and amending this section and sections 1021, 1022, 1024, 1132, 1136, 1144, 1181, 1191, and 1191a of this title\] shall apply with respect to group health plans for plan years beginning on or after January 1, 1998.”
+Section 603(c) of Pub. L. 104–204 provided that: “The amendments made by this section \[enacting section1185 of this title and amending this section and sections 1021, 1022, 1024, 1132, 1136, 1144, 1181, 1191, and 1191a of this title\] shall apply with respect to group health plans for plan years beginning on or after January 1, 1998.”
 
 Amendment by Pub. L. 104–191 applicable with respect to group health plans for plan years beginning after June 30, 1997, except as otherwise provided, see section 101(g) of Pub. L. 104–191, set out as an Effective Date note under section 1181 of this title.
 

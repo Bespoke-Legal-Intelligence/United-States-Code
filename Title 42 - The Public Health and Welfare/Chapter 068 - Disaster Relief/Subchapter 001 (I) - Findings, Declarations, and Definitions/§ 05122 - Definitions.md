@@ -10,13 +10,21 @@ Emergency.—“Emergency” means any occasion or instance for which, in the de
 
 Major disaster.—“Major disaster” means any natural catastrophe (including any hurricane, tornado, storm, high water, winddriven water, tidal wave, tsunami, earthquake, volcanic eruption, landslide, mudslide, snowstorm, or drought), or, regardless of cause, any fire, flood, or explosion, in any part of the United States, which in the determination of the President causes damage of sufficient severity and magnitude to warrant major disaster assistance under this chapter to supplement the efforts and available resources of States, local governments, and disaster relief organizations in alleviating the damage, loss, hardship, or suffering caused thereby.
 
-(3) “United States” means the fifty States, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands.
+(3) “United States” means the fifty States, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
-(4) “State” means any State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, the Northern Mariana Islands, or the Trust Territory of the Pacific Islands.
+(4) “State” means any State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
 (5) “Governor” means the chief executive of any State.
 
-(6) “Local government” means (A) any county, city, village, town, district, or other political subdivision of any State, any Indian tribe or authorized tribal organization, or Alaska Native village or organization, and (B) includes any rural community or unincorporated town or village or any other public entity for which an application for assistance is made by a State or political subdivision thereof.
+(6)
+
+Local government.—The term “local government” means—
+
+&emsp;(A) a county, municipality, city, town, township, local public authority, school district, special district, intrastate district, council of governments (regardless of whether the council of governments is incorporated as a nonprofit corporation under State law), regional or interstate government entity, or agency or instrumentality of a local government;
+
+&emsp;(B) an Indian tribe or authorized tribal organization, or Alaska Native village or organization; and
+
+&emsp;(C) a rural community, unincorporated town or village, or other public entity, for which an application for assistance is made by a State or political subdivision of a State.
 
 (7) “Federal agency” means any department, independent establishment, Government corporation, or other agency of the executive branch of the Federal Government, including the United States Postal Service, but shall not include the American National Red Cross.
 
@@ -34,11 +42,19 @@ Public facility.—“Public facility” means the following facilities owned by
 
 (9)
 
-Private nonprofit facility.—“Private nonprofit facility” means private nonprofit educational, utility, emergency, medical, rehabilitational, and temporary or permanent custodial care facilities (including those for the aged and disabled), other private nonprofit facilities which provide essential services of a governmental nature to the general public, and facilities on Indian reservations as defined by the President.
+Private nonprofit facility.—“Private nonprofit facility” means private nonprofit educational, utility, irrigation, emergency, medical, rehabilitational, and temporary or permanent custodial care facilities (including those for the aged and disabled), other private nonprofit facilities which provide essential services of a governmental nature to the general public, and facilities on Indian reservations as defined by the President.
 
-(Pub. L. 93–288, title I, §102, May 22, 1974, 88 Stat. 144; Pub. L. 100–707, title I, §103(b)–(d), (f), Nov. 23, 1988, 102 Stat. 4689, 4690; Pub. L. 102–247, title II, §205, Feb. 24, 1992, 106 Stat. 38.)
+(Pub. L. 93–288, title I, §102, May 22, 1974, 88 Stat. 144; Pub. L. 100–707, title I, §103(b)–(d), (f), Nov. 23, 1988, 102 Stat. 4689, 4690; Pub. L. 102–247, title II, §205, Feb. 24, 1992, 106 Stat. 38; Pub. L. 106–390, title III, §302, Oct. 30, 2000, 114 Stat. 1572.)
 
 #### Amendments
+
+2000—Par. (3). Pub. L. 106–390, §302(1), substituted “and the Commonwealth of the Northern Mariana Islands” for “the Northern Mariana Islands, and the Trust Territory of the Pacific Islands”.
+
+Par. (4). Pub. L. 106–390, §302(1), substituted “and the Commonwealth of the Northern Mariana Islands” for “the Northern Mariana Islands, or the Trust Territory of the Pacific Islands”.
+
+Par. (6). Pub. L. 106–390, §302(2), added par. (6) and struck out former par. (6) which read as follows: “ ‘Local government’ means (A) any county, city, village, town, district, or other political subdivision of any State, any Indian tribe or authorized tribal organization, or Alaska Native village or organization, and (B) includes any rural community or unincorporated town or village or any other public entity for which an application for assistance is made by a State or political subdivision thereof.”
+
+Par. (9). Pub. L. 106–390, §302(3), inserted “irrigation,” after “utility,”.
 
 1992—Pars. (3), (4). Pub. L. 102–247 inserted “the Northern Mariana Islands,” after “American Samoa,”.
 

@@ -18,7 +18,7 @@ The Secretary shall provide one of the grants authorized under subsection (a) of
 
 &emsp;(B) incorporates a program advisory board comprised of representatives from the tribes and communities that will be served by the program;
 
-&emsp;(C) provides summer enrichment programs to expose Indian students to the varied fieldsof psychology through research, clinical, and experiential activities;
+&emsp;(C) provides summer enrichment programs to expose Indian students to the varied fields of psychology through research, clinical, and experiential activities;
 
 &emsp;(D) provides stipends to undergraduate and graduate students to pursue a career in psychology;
 

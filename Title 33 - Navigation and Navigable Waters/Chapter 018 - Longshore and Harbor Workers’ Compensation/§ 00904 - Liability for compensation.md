@@ -1,6 +1,6 @@
 ### §904. Liability for compensation
 
-(a) Every employer shall be liable for and shall secure the payment to his employees of the compensation payable under sections 907, 908, and 909 of this title. In the case of an employer who is a subcontractor, only if such subcontractor fails to secure the payment of compensation shall the contractor be liable for and be required to secure the payment of compensation. A subcontractor shall not be deemed to have failed to secure the payment of compensation if the contractor has provided insurance for such compensation for the benefit of the subcontractor.
+(a) Every employer shall be liable for and shall secure the payment to his employees of the compensation payable under sections 907, 908, and 909 of this title. In the case of an employer whois a subcontractor, only if such subcontractor fails to secure the payment of compensation shall the contractor be liable for and be required to secure the payment of compensation. A subcontractor shall not be deemed to have failed to secure the payment of compensation if the contractor has provided insurance for such compensation for the benefit of the subcontractor.
 
 (b) Compensation shall be payable irrespective of fault as a cause for the injury.
 
@@ -13,10 +13,6 @@
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–426 effective Sept. 28, 1984, and applicable both with respect to claims filed after Sept. 28, 1984, and to claims pending on that date, see section 28(a) of Pub. L. 98–426, set out as a note under section 901 of this title.
-
-#### Cross References
-
-Security for compensation, see section 932 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -14,7 +14,7 @@ Security assistance for Pakistan shall be made available in order to assist Paki
 
 #### (d) Waiver of limitations respecting nuclear transfers
 
-The President may waive the prohibitions of section 2799aa of this title with respect to anygrounds for the prohibition of assistance under that section arising before the effective date of part B of the Nuclear Proliferation Prevention Act of 1994 to provide assistance to Pakistan if he determines that to do so is in the national interest of the United States.
+The President may waive the prohibitions of section 2799aa of this title with respect to any grounds for the prohibition of assistance under that section arising before the effective date of part B of the Nuclear Proliferation Prevention Act of 1994 to provide assistance to Pakistan if he determines that to do so is in the national interest of the United States.
 
 #### (e) Nuclear non-proliferation conditions on military assistance; exception
 
@@ -40,7 +40,7 @@ The President may release the Government of Pakistan of its contractual obligati
 
 #### (g) Inapplicability of restrictions to previously owned items
 
-Subsection (e) of this section does not apply to broken, worn or unupgraded items or their equivalent which Pakistan paid for and took possession of prior to October 1, 1990 and which the Government of Pakistan sent to the United States for repair or upgrade. Such equipment or its equivalent may be returned to the Government of Pakistan: <i>Provided</i>, That the President determines and so certifies to the appropriate congressional committees that such equipment or equivalent neither constitutes nor has received any significant qualitative upgrade since being transferred to the United States and that its total value does not exceed $25,000,000.
+Subsection (e) of this section does not apply to broken, worn or unupgraded items or their equivalent which Pakistan paid for and took possession of prior to October 1, 1990 and which the Government of Pakistan sent to the United States for repair or upgrade. Such equipment or its equivalent may be returned to the Government of Pakistan: <i>Provided</i>, That the President determines and so certifies to the appropriate congressional committees that such equipmentor equivalent neither constitutes nor has received any significant qualitative upgrade since being transferred to the United States and that its total value does not exceed $25,000,000.
 
 #### (h) Ballistic missile sanctions not affected
 
@@ -124,7 +124,9 @@ Determination of the President of the United States, No. 86–03, Nov. 25, 1985,
 
 #### Waiver of Sanctions
 
-Sanctions contained in subsec. (e) waived in certain regards by Determination of President of the United States, No. 00–4, Oct. 27, 1999, 64 F.R. 60649, set out as a note under section 2799aa–1 of this title.
+Sanctions contained in subsec. (e) waived in certain regards with respect to India by Determination of President of the United States, No. 2000–18, Mar. 16, 2000, 65 F.R. 16297, set out as a note under section 2799aa–1 of this title.
+
+Sanctions contained in subsec. (e) waived in certain regards by Determination of President of the United States, No. 2000–4, Oct. 27, 1999, 64 F.R. 60649, set out as a note under section 2799aa–1 of this title.
 
 #### Section Referred to in Other Sections
 

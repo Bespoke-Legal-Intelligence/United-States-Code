@@ -4,7 +4,7 @@
 
 In any proceeding instituted pursuant to sections 78<i>o</i>(b)(4), 78<i>o</i>(b)(6), 78<i>o</i>–4, 78<i>o</i>–5, or 78q–1 of this title against any person, the Commission or the appropriate regulatory agency may impose a civil penalty if it finds, on the record after notice and opportunity for hearing, that such person—
 
-&emsp;(1) has willfully violated any provision of the Securities Act of 1933 \[15 U.S.C. 77a et seq.\], the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\], the Investment Advisers Act of 1940 \[15 U.S.C. 80b–1 et seq.\], or this chapter, or the rules or regulations thereunder, or the rules of the Municipal Securities Rulemaking Board;
+&emsp;(1) has willfully violated any provision of the Securities Act of 1933 \[15 U.S.C. 77a et seq.\], the Investment Company Act of 1940 \[15 U.S.C.80a–1 et seq.\], the Investment Advisers Act of 1940 \[15 U.S.C. 80b–1 et seq.\], or this chapter, or the rules or regulations thereunder, or the rules of the Municipal Securities Rulemaking Board;
 
 &emsp;(2) has willfully aided, abetted, counseled, commanded, induced, or procured such a violation by any other person;
 

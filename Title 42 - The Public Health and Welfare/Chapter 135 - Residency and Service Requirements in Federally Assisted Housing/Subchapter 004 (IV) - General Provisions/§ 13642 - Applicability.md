@@ -1,6 +1,6 @@
 ### §13642. Applicability
 
-Except as otherwise provided in subtitles B through F of this title and the amendmentsmade by such subtitles, such subtitles and the amendments made by such subtitles shall apply upon the expiration of the 6-month period beginning on October 28, 1992.
+Except as otherwise provided in subtitles B through F of this title and the amendments made by such subtitles, such subtitles and the amendments made by such subtitles shall apply upon the expiration of the 6-month period beginning on October 28, 1992.
 
 (Pub. L. 102–550, title VI, §684, Oct. 28, 1992, 106 Stat. 3832.)
 

@@ -24,7 +24,7 @@ An award made by the Director of Central Intelligence to an employee or member o
 
 #### Codification
 
-Section was enacted as part of the Intelligence Authorization Act for Fiscal Year 1984, and not as part ofthe Central Intelligence Agency Act of 1949 which is classified to section 403a et seq. of this title, nor as part of the National Security Act of 1947 which comprises this chapter.
+Section was enacted as part of the Intelligence Authorization Act for Fiscal Year 1984, and not as part of the Central Intelligence Agency Act of 1949 which is classified to section 403a et seq. of this title, nor as part of the National Security Act of 1947 which comprises this chapter.
 
 #### Amendments
 

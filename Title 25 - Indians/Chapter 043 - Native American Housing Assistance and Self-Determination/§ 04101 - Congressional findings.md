@@ -32,6 +32,14 @@ Public Law 93–638, referred to in par. (7), is Pub. L. 93–638, Jan. 4, 1975,
 
 Section 107 of Pub. L. 104–330 provided that: “Except as otherwise expressly provided in this Act \[see Short Title note below\], this Act and the amendments made by this Act shall take effect on October 1, 1997.”
 
+#### Short Title of 2000 Amendments
+
+Pub. L. 106–569, title V, §511, Dec. 27, 2000, 114 Stat. 2966, provided that: “This subtitle \[subtitle B (§§511–514) of title V of Pub. L. 106–569, enacting subchapter VIII of this chapter, section 1715z–13b of Title 12, Banks and Banking, and provisions set out as notes under section 4221 of this title\] may be cited as the ‘Hawaiian Homelands Homeownership Act of 2000’.”
+
+Pub. L. 106–568, §1, Dec. 27, 2000, 114 Stat. 2868, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Omnibus Indian Advancement Act’.”
+
+Pub. L. 106–568, title II, §201, Dec. 27, 2000, 114 Stat. 2872, provided that: “This title \[enacting subchapter VIII of this chapter, section 1715z–13b of Title 12, Banks and Banking, and provisions set out as notes under section 4221 of this title\] may be cited as the ‘Hawaiian Homelands Homeownership Act of 2000’.”
+
 #### Short Title
 
 Section 1(a) of Pub. L. 104–330 provided that: “This Act \[enacting this chapter and section 12899h–1 of Title 42, The Public Health and Welfare, amending sections 1715z–13a and 1721 of Title 12, Banks and Banking, and sections 1437a, 1437c to 1437e, 1437g, 1437<i>l</i>, 1437n, 1437u to 1437x, 1437aaa–5, 1437aaa–6, 1439, 11371 to 11376, 11382, 11401, 11403g, 11408, 11902 to 11905, 12747, and 12838 of Title 42, repealing sections 1437aa to 1437ee of Title 42, enacting provisions set out as notes under this section and sections 4181 and 4211 of this title and sections 11371, 12747, and 12899h–1 of Title 42, amending provisions set out as a note under section 11301 of Title 42, and repealing provisions set out as a note under section 1701z–6 of Title 12\] may be cited as the ‘Native American Housing Assistance and Self-Determination Act of 1996’.”

@@ -24,11 +24,3 @@ Section 10 of Pub. L. 95–75 provided in part that: “The reference in any oth
 
 Section 1 of Pub. L. 95–75 provided: “That this Act \[enacting this chapter, repealing sections 1051 to 1094 of this title, enacting provisions set out as notes under this section, and repealing provisions set out as a note under section 1051 of this title\] may be cited as the ‘International Navigational Rules Act of 1977’.”
 
-#### Territorial Sea of United States
-
-For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
-
-#### Contiguous Zone of United States
-
-For extension of contiguous zone of United States, see Proc. No. 7219, Sept. 2, 1999, 64 F.R. 48701, set out as a note under section 1331 of Title 43, Public Lands.
-

@@ -594,7 +594,21 @@ Section 633 of this title shall apply to every nonmember insured bank in the sam
 
 &emsp;For purposes of this subsection, the term “Government-sponsored enterprise” has the meaning given to such term in section 1404(e)(1)(A) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989.
 
-#### (t) Limitation on claims
+#### (t) Recordkeeping requirements
+
+#### (1) Requirements
+
+&emsp;Each appropriate Federal banking agency, after consultation with and consideration of the views of the Commission, shall establish recordkeeping requirements for banks relying on exceptions contained in paragraphs (4) and (5) of section 78c(a) of title 15. Such recordkeeping requirements shall be sufficient to demonstrate compliance with the terms of such exceptions and be designed to facilitate compliance with such exceptions.
+
+#### (2) Availability to Commission; confidentiality
+
+&emsp;Each appropriate Federal banking agency shall make any information required under paragraph (1) available to the Commission upon request. Notwithstanding any other provision of law, the Commission shall not be compelled to disclose any such information. Nothing in this paragraph shall authorize the Commission to withhold information from Congress, or prevent the Commission from complying with a request for information from any other Federal department or agency or any self-regulatory organization requesting the information for purposes within the scope of its jurisdiction, or complying with an order of a court of the United States in an action brought by the United States or the Commission. For purposes of section 552 of title 5, this paragraph shall be considered a statute described in subsection (b)(3)(B) of such section 552.
+
+#### (3) Definition
+
+&emsp;As used in this subsection the term “Commission” means the Securities and Exchange Commission.
+
+#### (u) Limitation on claims
 
 #### (1) In general
 
@@ -618,37 +632,17 @@ Section 633 of this title shall apply to every nonmember insured bank in the sam
 
 &emsp;&emsp;(B) does not include any claim based on actual intent to hinder, delay, or defraud pursuant to such a fraudulent transfer or conveyance law.
 
-(Sept. 21, 1950, ch. 967, §2\[18\], 64 Stat. 891; Pub. L. 86–463, May 13, 1960, 74 Stat. 129; Pub. L. 87–827, §2, Oct. 15, 1962, 76 Stat. 953; Pub. L. 89–79, §2, July 21, 1965, 79 Stat. 244; Pub. L. 89–356, §1, Feb. 21, 1966, 80 Stat. 7; Pub. L. 89–485, §12(c), July 1, 1966, 80 Stat. 242; Pub. L. 89–597, §3, Sept. 21, 1966, 80 Stat. 824; Pub. L. 90–505, §2(b), Sept. 21, 1968, 82 Stat. 856; Pub. L. 91–151, title I, §§2(a), 4(b), (c), Dec. 23, 1969, 83 Stat. 372, 374, 375; Pub. L. 93–100, §3, Aug. 16, 1973, 87 Stat. 342; Pub. L. 93–495, title I, §106, Oct. 28, 1974, 88 Stat. 1505; Pub. L. 93–501, title I, §102(a), title III, §302, Oct. 29, 1974, 88 Stat. 1558, 1560; Pub. L. 95–369, §6(c)(25)–(28), Sept. 17, 1978, 92 Stat. 620; Pub. L. 95–630, title I, §108, title III, §§301(b), (c), 306, Nov. 10, 1978, 92 Stat. 3664, 3675, 3677; Pub. L. 96–104, title II, §202, Nov. 5, 1979, 93 Stat. 792; Pub. L. 96–161, title I, §101(b), title II, §209, Dec. 28, 1979, 93 Stat. 1233, 1239; Pub. L. 96–221, title II, §207(b)(2), (3), title III, §§302(b), 307, title V, §529, Mar. 31, 1980, 94 Stat. 144, 146, 147, 168; Pub. L. 97–320, title I, §113(n), (<i>o</i>), title IV, §§410(d), 423, 424(b), (d)(10), (e), Oct. 15, 1982, 96 Stat. 1474, 1520, 1522, 1523; Pub. L. 100–86, title I, §§102(b), 103, title V, §504(b), Aug. 10, 1987, 101 Stat. 566, 632; Pub. L. 101–73, title II, §§201, 221, title IX, §§905(d), 907(c), Aug. 9, 1989, 103 Stat. 187, 266, 460, 466; Pub. L. 101–647, title XXV, §2523(a), Nov. 29, 1990, 104 Stat. 4868; Pub. L. 102–242, title III, §§304(a), 305(a), 306(k), Dec. 19, 1991, 105 Stat. 2354, 2359; Pub. L. 102–550, title XVI, §1605(a)(9), Oct. 28, 1992, 106 Stat. 4086; Pub. L. 103–325, title III, §§321(b), 324, 326(b)(1), title VI,§602(a)(44)–(50), Sept. 23, 1994, 108 Stat. 2226, 2227, 2229, 2290; Pub. L. 103–328, title I, §§101(d), 102(b)(3)(A), 103(b), Sept. 29, 1994, 108 Stat. 2342, 2350, 2353; Pub. L. 104–208, div. A, title II, §§2615(b), 2704(d)(14)(U), (V), Sept. 30, 1996, 110 Stat. 3009–479, 3009–494; Pub. L. 105–277, div. H, §2, Oct. 21, 1998, 112 Stat. 2681–854; Pub. L. 106–102, title II, §204, title VII, §730, Nov. 12, 1999, 113 Stat. 1391, 1476.)
+#### (v) Loans by insured institutions on their own stock
 
-#### Enactment of Subsection (t)
+#### (1) General prohibition
 
-<i>Pub. L. 106–102, title II, §§204, 209, Nov. 12, 1999, 113 Stat. 1391, 1395, provided that, effective at the end of the 18-month period beginning on Nov. 12, 1999, this section is amended by adding at the end the following new subsection:</i>
+&emsp;No insured depository institution may make any loan or discount on the security of the shares of its own capital stock.
 
-#### (t) Recordkeeping requirements
+#### (2) Exclusion
 
-#### (1) Requirements
+&emsp;For purposes of this subsection, an insured depository institution shall not be deemed to be making a loan or discount on the security of the shares of its own capital stock if it acquires the stock to prevent loss upon a debt previously contracted for in good faith.
 
-&emsp;Each appropriate Federal banking agency, after consultation with and consideration of the views of the Commission, shall establish recordkeeping requirements for banks relying on exceptions contained in paragraphs (4) and (5) of section 78c(a) of title 15. Such recordkeeping requirements shall be sufficient to demonstrate compliance with the terms of such exceptions and be designed to facilitate compliance with such exceptions.
-
-#### (2) Availability to Commission; confidentiality
-
-&emsp;Each appropriate Federal banking agency shall make any information required under paragraph (1) available to the Commission upon request. Notwithstanding any other provision of law, the Commission shall not be compelled to disclose any such information. Nothing in this paragraph shall authorize the Commission to withhold information from Congress, or prevent the Commission from complying with a request for information from any other Federal department or agency or any self-regulatory organization requesting the information for purposes within the scope of its jurisdiction, or complying with an order of a court of the United States in an action brought by the United States or the Commission. For purposes of section 552 of title 5, this paragraph shall be considered a statute described in subsection (b)(3)(B) of such section 552.
-
-#### (3) Definition
-
-&emsp;As used in this subsection the term “Commission” means the Securities and Exchange Commission.
-
-#### Amendment of Section
-
-<i>Pub. L. 104–208, div. A, title II, §2704(c), (d)(14)(U), (V), Sept. 30, 1996, 110 Stat. 3009–487, 3009–494, provided that, effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, this section is amended as follows:</i>
-
-<i>(1) In subsection (m)(3)—</i>
-
-<i>(A) by striking “Savings Association Insurance Fund” each place such term appears and inserting “Deposit Insurance Fund”; and</i>
-
-<i>(B) in subparagraph (C), by striking “or the Bank Insurance Fund”; and</i>
-
-<i>(2) In subsection (p), by striking “deposit insurance funds” and inserting “Deposit Insurance Fund”.</i>
+(Sept. 21, 1950, ch. 967, §2\[18\], 64 Stat. 891; Pub. L. 86–463, May 13, 1960, 74 Stat. 129; Pub. L. 87–827, §2, Oct. 15, 1962, 76 Stat. 953; Pub. L. 89–79, §2, July 21, 1965, 79 Stat. 244; Pub. L. 89–356, §1, Feb. 21, 1966, 80 Stat. 7; Pub. L. 89–485, §12(c), July 1, 1966, 80 Stat. 242; Pub. L. 89–597, §3, Sept. 21, 1966, 80 Stat. 824; Pub. L. 90–505, §2(b), Sept. 21, 1968, 82 Stat. 856; Pub. L. 91–151, title I, §§2(a), 4(b), (c), Dec. 23, 1969, 83 Stat. 372, 374, 375; Pub. L. 93–100, §3, Aug. 16, 1973, 87 Stat. 342; Pub. L. 93–495, title I, §106, Oct. 28, 1974, 88 Stat. 1505; Pub. L. 93–501, title I, §102(a), title III, §302, Oct. 29, 1974, 88 Stat. 1558, 1560; Pub. L. 95–369, §6(c)(25)–(28), Sept. 17, 1978, 92 Stat. 620; Pub. L. 95–630, title I, §108, title III, §§301(b), (c), 306, Nov. 10, 1978, 92 Stat. 3664, 3675, 3677; Pub. L. 96–104, title II, §202, Nov. 5, 1979, 93 Stat. 792; Pub. L. 96–161, title I, §101(b), title II, §209, Dec. 28, 1979, 93 Stat. 1233, 1239; Pub. L. 96–221, title II, §207(b)(2), (3), title III, §§302(b), 307, title V, §529, Mar. 31, 1980, 94 Stat. 144, 146, 147, 168; Pub. L. 97–320, title I, §113(n), (<i>o</i>), title IV, §§410(d), 423, 424(b), (d)(10), (e), Oct. 15, 1982, 96 Stat. 1474, 1520, 1522, 1523; Pub. L. 100–86, title I, §§102(b), 103, title V, §504(b), Aug. 10, 1987, 101 Stat. 566, 632; Pub. L. 101–73, title II, §§201, 221, title IX, §§905(d), 907(c), Aug. 9, 1989, 103 Stat. 187, 266, 460, 466; Pub. L. 101–647, title XXV, §2523(a), Nov. 29, 1990, 104 Stat. 4868; Pub. L. 102–242, title III, §§304(a), 305(a), 306(k), Dec. 19, 1991, 105 Stat. 2354, 2359; Pub. L. 102–550, title XVI, §1605(a)(9), Oct. 28, 1992, 106 Stat. 4086; Pub. L. 103–325, title III, §§321(b), 324, 326(b)(1), title VI, §602(a)(44)–(50), Sept. 23, 1994, 108 Stat. 2226, 2227, 2229, 2290; Pub. L. 103–328, title I, §§101(d), 102(b)(3)(A), 103(b), Sept. 29, 1994, 108 Stat. 2342, 2350, 2353; Pub. L. 104–208, div. A, title II, §§2615(b), 2704(d)(14)(U), (V), Sept. 30, 1996, 110 Stat. 3009–479, 3009–494; Pub. L. 105–277, div. H, §2, Oct. 21, 1998, 112 Stat. 2681–854; Pub. L. 106–102, title II, §204, title VII, §730, Nov. 12, 1999, 113 Stat. 1391, 1476; Pub. L. 106–569, title XII, §1207(b), Dec. 27, 2000, 114 Stat. 3034.)
 
 #### References in Text
 
@@ -678,17 +672,27 @@ Subsecs. (a) to (g) are derived from subsec (v)(2) to (8) of former section 264 
 
 #### Amendments
 
+2000—Subsecs. (t), (u). Pub. L. 106–569, §1207(b)(1), redesignated subsec. (t), relating to limitation on claims, as (u).
+
+Subsec. (v). Pub. L. 106–569, §1207(b)(2), added subsec. (v).
+
 1999—Subsec. (t). Pub. L. 106–102, §730, added subsec. (t) relating to limitation on claims.
+
+Pub. L. 106–102, §204, which directed amendment of section by adding at end subsec. (t) relating to recordkeeping requirements, was executed by making the addition after subsec. (s) to reflect the probable intent of Congress.
 
 1998—Subsec. (s)(4), (5). Pub. L. 105–277 redesignated par. (4) as (5) and added par. (4).
 
-1996—Subsec. (s). Pub. L. 104–208, §2615(b), added subsec. (s).
+1996—Subsec. (m)(3). Pub. L. 104–208, §2704(d)(14)(U), which directed substitution of “Deposit Insurance Fund” for “Savings Association Insurance Fund” wherever appearing and striking of “or the Bank Insurance Fund” in subpar. (C), was not executed. See Effective Date of 1996 Amendment note below.
+
+Subsec. (p). Pub. L. 104–208, §2704(d)(14)(V), which directed substitution of “Deposit Insurance Fund” for “deposit insurance funds”, was not executed. See Effective Date of 1996 Amendment note below.
+
+Subsec. (s). Pub. L. 104–208, §2615(b), added subsec. (s).
 
 1994—Subsec. (b). Pub. L. 103–325, §602(a)(44), substituted “if the insured depository institution deposits” for “, if such bank shall deposit”.
 
 Subsec. (c)(1)(B). Pub. L. 103–325, §602(a)(45), inserted “or” at end.
 
-Subsec. (c)(4). Pub. L. 103–325, §§324, 602(a)(46), substituted “other Federal banking agencies” for “other two banking agencies” in two places and inserted at end “Notwithstanding the preceding sentence, a banking agency shall not be required to file a report requested by the responsible agency under this paragraph if such banking agency advises the responsible agencyby the applicable date under the preceding sentence that the report is not necessary because none of the effects described in paragraph (5) are likely to occur as a result of the transaction.”
+Subsec. (c)(4). Pub. L. 103–325, §§324, 602(a)(46), substituted “other Federal banking agencies” for “other two banking agencies” in two places and inserted at end “Notwithstanding the preceding sentence, a banking agency shall not be required to file a report requested by the responsible agency under this paragraph if such banking agency advises the responsible agency by the applicable date under the preceding sentence that the report is not necessary because none of the effects described in paragraph (5) are likely to occur as a result of the transaction.”
 
 Subsec. (c)(6). Pub. L. 103–325, §§321(b), 602(a)(47), substituted “other Federal banking agencies” for “other two banking agencies” and inserted before period at end “or, if the agency has not received any adverse comment from the Attorney General of the United States relating to competitive factors, such shorter period of time as may be prescribed by the agency with the concurrence of the Attorney General, but in no event less than 15 calendar days after the date of approval”.
 
@@ -758,9 +762,9 @@ Subsec. (j)(4), (5). Pub. L. 101–73, §907(c), amended pars. (4) and (5) gener
 
 “(B) In determining the amount of the penalty the Corporation shall take into account the appropriateness of the penalty with respect to the size of financial resources and good faith of the member bank or person charged, the gravity of the violation, the history of previous violations, and such other matters as justice may require.
 
-“(C) The nonmember insured bank or person charged shall be afforded an opportunity for agency hearing, upon request made within ten days after issuance of the notice of assessment. In such hearing all issues shall be determined on the record pursuant to section 554 of title 5. The agency determination shall be made by final order which may be reviewed only as provided in subparagraph (D). If no hearing is requested as herein provided the assessment shall constitute a final and unappealable order.
+“(C) The nonmember insured bank or person charged shall be afforded an opportunity for agency hearing,upon request made within ten days after issuance of the notice of assessment. In such hearing all issues shall be determined on the record pursuant to section 554 of title 5. The agency determination shall be made by final order which may be reviewed only as provided in subparagraph (D). If no hearing is requested as herein provided the assessment shall constitute a final and unappealable order.
 
-“(D) Any nonmember insured bank or person against whom an order imposing a civil money penalty has been entered after agency hearing under this section may obtain review by the United States court of appeals for the circuit in which the home office of themember bank is located, or the United States Court of Appeals for the District of Columbia Circuit, by filing a notice of appeal in such court within twenty days from the service of such order, and simultaneously sending a copy of such notice by registered or certified mail to the Corporation. The Corporation shall promptly certify and file in such court the record upon which the penalty was imposed, as provided in section 2112 of title 28. The findings of the Corporation shall be set aside if found to be unsupported by substantial evidence as provided by section 706(2)(E) of title 5.
+“(D) Any nonmember insured bank or person against whom an order imposing a civil money penalty has been entered after agency hearing under this section may obtain review by the United States court of appeals for the circuit in which the home office of the member bank is located, or the United States Court of Appeals for the District of Columbia Circuit, by filing a notice of appeal in such court within twenty days from the service of such order, and simultaneously sending a copy of such notice by registered or certified mail to the Corporation. The Corporation shall promptly certify and file in such court the record upon which the penalty was imposed, as provided in section 2112 of title 28. The findings of the Corporation shall be set aside if found to be unsupported by substantial evidence as provided by section 706(2)(E) of title 5.
 
 “(E) If any nonmember insured bank or person fails to pay an assessment after it has become a final and unappealable order, or after the court of appeals has entered final judgment in favor of the agency, the Corporation shall refer the matter to the Attorney General, who shall recover the amount assessed by action in the appropriate United States district court. In such action the validity and appropriateness of the final order imposing the penalty shall not be subject to review.
 
@@ -822,7 +826,7 @@ Subsec. (g). Pub. L. 95–369, §6(c)(27), inserted “and in insured branches o
 
 Subsec. (j). Pub. L. 95–630, §108, designated existing provisions as par. (1) and added pars. (2) and (3).
 
-Pub. L. 95–369, §6(c)(28), inserted at end “The provisions of this subsection shall not apply to any foreign bank having an insured branch with respect to dealings between such bank and any affiliate thereof.”
+Pub. L. 95–369, §6(c)(28), inserted at end “The provisions of this subsection shall not apply to any foreignbank having an insured branch with respect to dealings between such bank and any affiliate thereof.”
 
 Subsec. (<i>l</i>). Pub. L. 95–630, §301(c), added subsec. (<i>l</i>).
 
@@ -876,13 +880,13 @@ Amendment by section 306(k) of Pub. L. 102–242 effective upon earlier of date 
 
 #### Effective Date of 1989 Amendment
 
-Amendment by section 907(c) of Pub. L. 101–73 applicable to conduct engaged in after Aug. 9, 1989, except that increased maximum penalties of $5,000 and $25,000 may apply to conduct engaged in before such date if such conduct is not already subject to a notice issued by the appropriate agency and occurred after completion of the last report of the examination of the institution by the appropriate agency occurring before Aug. 9, 1989, see section 907(<i>l</i>) of Pub. L. 101–73, set out as a note under section 93 of this title.
+Amendment by section 907(c) of Pub. L. 101–73 applicable to conduct engaged in after Aug. 9, 1989, exceptthat increased maximum penalties of $5,000 and $25,000 may apply to conduct engaged in before such date if such conduct is not already subject to a notice issued by the appropriate agency and occurred after completion of the last report of the examination of the institution by the appropriate agency occurring before Aug. 9, 1989, see section 907(<i>l</i>) of Pub. L. 101–73, set out as a note under section 93 of this title.
 
 #### Effective Date of 1980 Amendment
 
 Section 207(b) of Pub. L. 96–221 provided in part that the amendment by that section is effective 6 years after Mar. 31, 1980.
 
-Amendment by section 302(b) of Pub. L. 96–221 effective at the close of Mar. 31, 1980, see section 306 of Pub.L. 96–221, set out as a note under section 371a of this title.
+Amendment by section 302(b) of Pub. L. 96–221 effective at the close of Mar. 31, 1980, see section 306 of Pub. L. 96–221, set out as a note under section 371a of this title.
 
 Section 529 of Pub. L. 96–221 provided that the amendment made by that section is effective at the close of Mar. 31, 1980.
 
@@ -926,13 +930,17 @@ Amendment by section 101 of Pub. L. 96–161, cited as a credit to this section,
 
 Section 529 of Pub. L. 96–221 provided in part that, notwithstanding the repeal of Pub. L. 96–104 and title II of Pub. L. 96–161, the provisions of subsec. (k) of this section \[which had been added to this section by those repealed laws\] shall continue to apply to any loan made, any deposit made, or any obligation issued to any State during any period when those provisions were in effect in such State.
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsection (c)(9) of this section is listed on page 171), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+
 #### Banking Agency Publication Requirements
 
 Pub. L. 105–18, title V, §50004, June 12, 1997, 111 Stat. 212, provided that:
 
 “(a)
 
-In General.—A qualifying regulatory agency may take any of the following actions with respect to depository institutions or other regulated entities whose principal place of business is within, or with respect to transactions or activities within, an area in which the President, pursuant to section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5170\], has determined, on or after February 28, 1997, that a major disaster exists, or within an area determined to be eligible for disaster relief under other Federal law by reason of damage related to the 1997 flooding of the Red River of the North, the Minnesota River, and the tributaries of such rivers, if the agency determines that the action would facilitate recovery from the major disaster:
+In General.—A qualifying regulatory agency may take any of the following actions with respect todepository institutions or other regulated entities whose principal place of business is within, or with respect to transactions or activities within, an area in which the President, pursuant to section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5170\], has determined, on or after February 28, 1997, that a major disaster exists, or within an area determined to be eligible for disaster relief under other Federal law by reason of damage related to the 1997 flooding of the Red River of the North, the Minnesota River, and the tributaries of such rivers, if the agency determines that the action would facilitate recovery from the major disaster:
 
 &emsp;“(1)
 
@@ -1024,21 +1032,25 @@ Definitions.—For purposes of this subsection, the terms ‘appropriate Federal
 
 #### Purchased Mortgage Servicing Rights
 
-Section 475 of Pub. L. 102–242, as amended by Pub. L. 102–550, title XVI, §1606(i)(2), Oct. 28, 1992, 106 Stat. 4089, provided that:
+Pub. L. 102–242, title IV, §475, Dec. 19, 1991, 105 Stat. 2386, as amended by Pub. L. 102–550, title XVI, §1606(i)(2), Oct. 28, 1992, 106 Stat. 4089; Pub. L. 106–569, title XII, §1208, Dec. 27, 2000, 114 Stat. 3035, provided that:
 
 “(a)
 
 In General.—Notwithstanding section 5(t)(4) of the Home Owners’ Loan Act \[12 U.S.C. 1464(t)(4)\], each appropriate Federal banking agency shall determine, with respect to insured depository institutions for which it is the appropriate Federal regulator, the amount of readily marketable purchased mortgage servicing rights that may be included in calculating such institution's tangible capital, risk-based capital, or leverage limit, if—
 
-&emsp;“(1) such servicing rights are valued at not more than 90 percent of their fair market value; and
+&emsp;“(1) such servicing rights are valued at not more than 90 percent (or such other percentage exceeding 90 percent but not exceeding 100 percent, as may be determined under subsection (b)) of their fair market value; and
 
 &emsp;“(2) the fair market value of such servicing rights is determined not less often than quarterly.
 
 “(b)
 
-Definition.—For purposes of this section, the terms ‘appropriate Federal banking agency’ and ‘insured depository institution’ have the same meanings as in section 3 of the Federal Deposit Insurance Act \[12 U.S.C. 1813\].
+Authority To Determine Percentage by Which To Discount Value of Servicing Rights.—The appropriate Federal banking agencies may allow readily marketable purchased mortgage servicing rights to be valued at more than 90 percent of their fair market value but at not more than 100 percent of such value, if such agencies jointly make a finding that such valuation would not have an adverse effect on the deposit insurance funds or the safety and soundness of insured depository institutions.
 
 “(c)
+
+Definition.—For purposes of this section, the terms ‘appropriate Federal banking agency’, ‘deposit insurance fund’, and ‘insured depository institution’ have the same meanings as in section 3 of the Federal Deposit Insurance Act \[12 U.S.C. 1813\].
+
+“(d)
 
 Effective Date.—This section shall apply after the end of the 60-day period beginning on the date of the enactment of this Act \[Dec. 19, 1991\].”
 
@@ -1066,7 +1078,7 @@ Reduction of interest rates to maximum extent feasible in light of prevailing mo
 
 #### Reinstatement of Withdrawn or Abandoned Applications Made Before February 21, 1966, for Approval of Mergers
 
-Section 3 of Pub. L. 89–356 provided that: “Any application for approval of a merger transaction (as theterm ‘merged transaction’ is used in section 18(c) of the Federal Deposit Insurance Act) \[subsec. (c) of this section\] which was made before the date of enactment of this Act \[Feb. 21, 1966\], but was withdrawn or abandoned as a result of any objections made or any suit brought by the Attorney General, may be reinstituted and shall be acted upon in accordance with the provisions of this Act without prejudice by such withdrawal, abandonment, objections, or judicial proceedings.”
+Section 3 of Pub. L. 89–356 provided that: “Any application for approval of a merger transaction (as the term ‘merged transaction’ is used in section 18(c) of the Federal Deposit Insurance Act) \[subsec. (c) of this section\] which was made before the date of enactment of this Act \[Feb. 21, 1966\], but was withdrawn or abandoned as a result of any objections made or any suit brought by the Attorney General, may be reinstituted and shall be acted upon in accordance with the provisions of this Act without prejudice by such withdrawal, abandonment, objections, or judicial proceedings.”
 
 #### Special Antitrust Treatment of Merger Transactions Consummated Before February 21, 1966, and of Litigation Pending On or After February 21, 1966, With Respect to Merger Transactions Consummated After June 16, 1963
 
@@ -1080,17 +1092,9 @@ Section 2 of Pub. L. 89–356 provided that:
 
 “(d) For the purposes of this section, the term ‘antitrust laws’ means the Act of July 2, 1890 (the Sherman Antitrust Act, 15 U.S.C. 1–7), the Act of October 15, 1914 (the Clayton Act, 15 U.S.C. 12–27), and any other Acts in pari materia.”
 
-#### Cross References
-
-Embezzlement from Federal Deposit Insurance Corporation, see section 657 of Title 18, Crimes and Criminal Procedure.
-
-False advertising of deposit insurance, see section 709 of Title 18.
-
-Jurisdiction of district court of the United States of action for penalty, see section 1355 of Title 28, Judiciary and Judicial Procedure.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 215c, 371, 1464, 1467a, 1468, 1815, 1817, 1818, 1820, 1821, 1823, 1828b, 1831p–1, 1831u, 1843, 2902, 3103, 3502, 4803 of this title; title 15 section 18a.
+This section is referred to in sections 215a–3, 215c, 371, 1464, 1467a, 1468, 1815, 1817, 1818, 1820, 1821, 1828b, 1831p–1, 1831u, 1843, 2902, 3103, 4803 of this title; title 15 section 18a.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

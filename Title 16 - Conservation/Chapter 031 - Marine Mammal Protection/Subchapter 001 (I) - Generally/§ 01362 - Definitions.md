@@ -12,7 +12,7 @@ For the purposes of this chapter—
 
 (2) The terms “conservation” and “management” means the collection and application of biological information for the purposes of increasing and maintaining the number of animals within species and populations of marine mammals at their optimum sustainable population. Such terms include the entire scope of activities that constitute a modern scientific resource program, including, but not limited to, research, census, law enforcement, and habitat acquisition and improvement. Also included within these terms, when and where appropriate, is the periodic or total protection of species or populations as well as regulated taking.
 
-(3) The term “district court of the United States” includes the District Court of Guam, District Court of the Virgin Islands, DistrictCourt of Puerto Rico, District Court of the Canal Zone, and, in the case of American Samoa and the Trust Territory of the Pacific Islands, the District Court of the United States for the District of Hawaii.
+(3) The term “district court of the United States” includes the District Court of Guam,District Court of the Virgin Islands, District Court of Puerto Rico, District Court of the Canal Zone, and, in the case of American Samoa and the Trust Territory of the Pacific Islands, the District Court of the United States for the District of Hawaii.
 
 (4) The term “humane” in the context of the taking of a marine mammal means that method of taking which involves the least possible degree of pain and suffering practicable to the mammal involved.
 
@@ -36,7 +36,7 @@ For the purposes of this chapter—
 
 &emsp;(ii) the Secretary of the Interior as to all responsibility, authority, funding, and duties under this chapter with respect to all other marine mammals covered by this chapter.
 
-(B) in <sup>1</sup> section 1387 of this title and subchapter V of this chapter the term “Secretary” means the Secretary of Commerce.
+(B) in <sup>1</sup> section 1387 of this title and subchapter V of this chapter (other than section 1421f–1 of this title) the term “Secretary” means the Secretary of Commerce.
 
 (13) The term “take” means to harass, hunt, capture, or kill, or attempt to harass, hunt, capture, or kill any marine mammal.
 
@@ -116,13 +116,15 @@ For the purposes of this chapter—
 
 (29) The term “Declaration of Panama” means the declaration signed in Panama City, Republic of Panama, on October 4, 1995.
 
-(Pub. L. 92–522, §3, Oct. 21, 1972, 86 Stat. 1028; Pub. L. 93–205, §13(e)(1), Dec. 28, 1973, 87 Stat. 903; Pub. L. 94–265, title IV, §404(a), Apr. 13, 1976, 90 Stat. 360; Pub. L. 97–58, §1(a), (b)(2), Oct. 9, 1981, 95 Stat. 979; Pub. L. 102–251, title III, §304, Mar. 9, 1992, 106 Stat. 65; Pub. L. 102–523, §2(c), Oct. 26, 1992, 106 Stat. 3432; Pub. L. 102–582, title IV, §401(a), Nov. 2, 1992, 106 Stat. 4909; Pub. L. 102–587, title III, §3004(b), Nov. 4, 1992, 106 Stat. 5067; Pub. L. 103–238, §§12, 16(a), 24(a)(2), Apr. 30, 1994, 108 Stat. 557, 559, 565; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 104–297, title IV, §405(b)(2), (3), Oct. 11, 1996, 110 Stat. 3621; Pub. L. 105–42, §3, Aug. 15, 1997, 111 Stat. 1123.)
+(Pub. L. 92–522, §3, Oct. 21, 1972, 86 Stat. 1028; Pub. L. 93–205, §13(e)(1), Dec. 28, 1973, 87 Stat. 903; Pub. L. 94–265, title IV, §404(a), Apr. 13, 1976, 90 Stat. 360; Pub. L. 97–58, §1(a), (b)(2), Oct. 9, 1981, 95 Stat. 979; Pub. L. 102–251, title III, §304, Mar. 9, 1992, 106 Stat. 65; Pub. L. 102–523, §2(c), Oct. 26, 1992, 106 Stat. 3432; Pub. L. 102–582, title IV, §401(a), Nov. 2, 1992, 106 Stat. 4909; Pub. L. 102–587, title III, §3004(b), Nov. 4, 1992, 106 Stat. 5067; Pub. L. 103–238, §§12, 16(a), 24(a)(2), Apr. 30, 1994, 108 Stat. 557, 559, 565; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 104–297, title IV, §405(b)(2), (3), Oct. 11, 1996, 110 Stat. 3621; Pub. L. 105–42, §3, Aug. 15, 1997, 111 Stat. 1123; Pub. L. 106–555, title II, §202(b), Dec. 21, 2000, 114 Stat. 2768.)
 
 #### References in Text
 
 The Endangered Species Act of 1973, referred to in pars. (1)(C) and (19)(B), (C), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
 #### Amendments
+
+2000—Par. (12)(B). Pub. L. 106–555 inserted “(other than section 1421f–1 of this title)” after “subchapter V of this chapter”.
 
 1997—Pars. (28), (29). Pub. L. 105–42 added pars. (28) and (29).
 
@@ -242,15 +244,11 @@ For termination of the United States District Court for the District of the Cana
 
 Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
-#### Territorial Sea of United States
+#### Territorial Sea and Contiguous Zone of United States
 
-For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
-
-#### Contiguous Zone of United States
-
-For extension of contiguous zone of United States, see Proc. No. 7219, Sept. 2, 1999, 64 F.R. 48701, set out as a note under section 1331 of Title 43, Public Lands.
+For extension of territorial sea and contiguous zone of United States, see Proc. No. 5928 and Proc. No. 7219, respectively, set out as notes under section 1331 of Title 43, Public Lands.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1379, 2404, 2902, 3743 of this title.
+This section is referred to in sections 1379, 1421f–1, 2404, 2902, 3743 of this title.
 

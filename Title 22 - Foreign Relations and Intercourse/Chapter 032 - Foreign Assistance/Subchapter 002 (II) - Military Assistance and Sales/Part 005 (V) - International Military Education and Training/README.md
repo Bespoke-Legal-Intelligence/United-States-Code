@@ -2,7 +2,7 @@ Part V—International Military Education and Training
 
 #### Part Referred to in Other Sections
 
-This part is referred to in sections 2304, 2314, 2321i, 2321j, 2375, 2394–1, 2403, 2415, 2761, 2776 of this title; title 10 sections 168, 9415.
+This part is referred to in sections 2304, 2305, 2314, 2321i, 2321j, 2375, 2394–1, 2403, 2415, 2761, 2776, 7102 of this title; title 10 sections 168, 9415.
 
 
 ---
@@ -15,3 +15,5 @@ This part is referred to in sections 2304, 2314, 2321i, 2321j, 2375, 2394–1, 2
 - [&sect; 02347c - Exchange training; reciprocity agreement](%C2%A7%2002347c%20-%20Exchange%20training%3B%20reciprocity%20agreement.md)
 - [&sect; 02347d - Training in maritime skills](%C2%A7%2002347d%20-%20Training%20in%20maritime%20skills.md)
 - [&sect; 02347e - Prohibition on grant assistance for certain high income foreign countries](%C2%A7%2002347e%20-%20Prohibition%20on%20grant%20assistance%20for%20certain%20high%20income%20foreign%20countries.md)
+- [&sect; 02347f - Consultation requirement](%C2%A7%2002347f%20-%20Consultation%20requirement.md)
+- [&sect; 02347g - Records regarding foreign participants](%C2%A7%2002347g%20-%20Records%20regarding%20foreign%20participants.md)

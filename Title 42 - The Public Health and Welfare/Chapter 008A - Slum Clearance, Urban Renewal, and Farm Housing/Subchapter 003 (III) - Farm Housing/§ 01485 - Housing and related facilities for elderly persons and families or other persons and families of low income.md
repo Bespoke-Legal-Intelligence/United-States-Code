@@ -96,7 +96,7 @@ For purposes of determining the market feasibility of any project to be assisted
 
 &emsp;(1) in the case of any applicant who applies for rental assistance payments under section 1490a of this title in connection with such project, the Secretary shall consider the availability of such rental assistance payments with respect to the project and shall require such applicant to demonstrate that a market exists for persons and families eligible for such rental assistance payments; and
 
-&emsp;(2) in the case of any applicant whose project is expected to utilize any assistance under a program of a State, or political subdivision thereof, that is similar to such assistance payments under section 1490a of this title, the Secretary shall only require such applicant to demonstrate that—
+&emsp;(2) in the case of any applicant whose project is expected to utilize any assistance under aprogram of a State, or political subdivision thereof, that is similar to such assistance payments under section 1490a of this title, the Secretary shall only require such applicant to demonstrate that—
 
 &emsp;&emsp;(A) a market exists for persons and families eligible for such program of assistance;
 
@@ -140,7 +140,7 @@ In determining the income of a person or family occupying housing financed under
 
 &emsp;(B) except as provided in paragraph (2), may require not more than a 3 percent contribution to equity, except that the Secretary shall require a 5 percent contribution in the case of a project that is allocated a low-income housing tax credit pursuant to section 42 of title 26.
 
-(2) The Secretary may adjust the amount of equity contribution to ensure that assistance provided is not more than is necessary to provide affordable housing after taking account of assistance from all Federal, State, and local sources.
+(2) The Secretary may adjust the amount of equity contribution to ensure that assistanceprovided is not more than is necessary to provide affordable housing after taking account of assistance from all Federal, State, and local sources.
 
 (3) Not later than 60 days after August 6, 1996, the Secretary shall issue regulations to implement subsection (r)(2) of this section in accordance with the negotiated rulemaking procedures set forth in subchapter III of chapter 5 of title 5: <i>Provided</i>, That if the negotiated rulemaking is not completed within the designated time, the Secretary shall proceed to promulgate regulations under the rulemaking authority contained in section 557 of title 5.
 
@@ -252,17 +252,63 @@ The Secretary shall—
 
 #### (3) Application and selection
 
-&emsp;The Secretary shall provide for the form and manner of applications for grants under thissubsection and for the selection of applicants to receive the grants.
+&emsp;The Secretary shall provide for the form and manner of applications for grants under this subsection and for the selection of applicants to receive the grants.
 
 #### (4) “Frail elderly” defined
 
 &emsp;For purposes of this subsection, the term “frail elderly” has the meaning given the term in section 8011(k) of this title.
 
-#### (z) Equity skimming penalty
+#### (z) Accounting and recordkeeping requirements
 
-Whoever, as an owner, agent, or manager, or who is otherwise in custody, control, or possession of property that is security for a loan made or insured under this section willfully uses, or authorizes the use, of any part of the rents, assets, proceeds, income, or other fund derived from such property, for any purpose other than to meet actual or necessary expenses of the property, or for any other purpose not authorized by this subchapter or the regulations adopted pursuant to this subchapter, shall be fined not more than $250,000 or imprisoned not more than 5 years, or both.
+#### (1) Accounting standards
 
-(July 15, 1949, ch. 338, title V, §515, as added Pub. L. 87–723, §4(b), Sept. 28, 1962, 76 Stat. 671; amended Pub. L. 88–340, June 30, 1964, 78 Stat. 233; Pub. L. 88–560, title V, §501(d) Sept. 2, 1964, 78 Stat. 796; Pub. L. 89–117, title X, §1005(c), Aug. 10, 1965, 79 Stat. 501; Pub. L. 89–754, title VIII, §§804, 805, Nov. 3, 1966, 80 Stat. 1282; Pub. L. 91–78, §1, Sept. 30, 1969, 83 Stat. 125; Pub. L. 91–152, title IV, §413(a), Dec. 24, 1969, 83 Stat. 398; Pub. L. 91–609, title VIII, §803(c), Dec. 31, 1970, 84 Stat. 1807; Pub. L. 93–117, §13(b), Oct. 2, 1973, 87 Stat. 423; Pub. L. 93–383, title V, §§509(b), 510, Aug. 22, 1974, 88 Stat. 695; Pub. L. 95–60, §4(b), June 30, 1977, 91 Stat. 258; Pub. L. 95–80, §4(b), July 31, 1977, 91 Stat. 340; Pub. L. 95–128, title V, §§501(b), 507(a)(3), 508, Oct. 12, 1977, 91 Stat. 1138, 1140, 1141; Pub. L. 95–406, §7(b), Sept. 30, 1978, 92 Stat. 881; Pub. L. 95–557, title V, §501(e), Oct. 31, 1978, 92 Stat. 2111; Pub. L. 96–71, §5(b), Sept. 28, 1979, 93 Stat. 502; Pub. L. 96–105, §5(b), Nov. 8, 1979, 93 Stat. 795; Pub. L. 96–153, title V, §501(f), Dec. 21, 1979, 93 Stat. 1134; Pub. L. 96–372, §6(b), Oct. 3, 1980, 94 Stat. 1364; Pub. L. 96–399, title V, §§501(b), 502, 503, 507(c), Oct. 8, 1980, 94 Stat. 1668, 1670; Pub. L. 97–35, title III, §351(b), Aug. 13, 1981, 95 Stat. 420; Pub. L. 97–289, §3(a), Oct. 6, 1982, 96 Stat. 1231; Pub. L. 98–35, §3(a), May 26, 1983, 97 Stat. 198; Pub. L. 98–109, §4(a), Oct. 1, 1983, 97 Stat. 746; Pub. L. 98–181, title V, §§511(b), 512, Nov. 30, 1983, 97 Stat. 1244; Pub. L. 98–479, title I, §105(e), Oct. 17, 1984, 98 Stat. 2227; Pub. L. 99–120, §3(a), Oct. 8, 1985, 99 Stat. 503; Pub. L. 99–156, §3(a), Nov. 15, 1985, 99 Stat. 816; Pub. L. 99–219, §3(a), Dec. 26, 1985, 99 Stat. 1731; Pub. L. 99–267, §3(a), Mar. 27, 1986, 100 Stat. 74; Pub. L. 99–272, title III, §3009(a), Apr. 7, 1986, 100 Stat. 105; Pub. L. 99–289, §1(b), May 2, 1986, 100 Stat. 412; Pub. L. 99–345, §1, June 24, 1986, 100 Stat. 673; Pub. L. 99–430, Sept. 30, 1986, 100 Stat. 986; Pub. L. 100–122, §1, Sept. 30, 1987, 101 Stat. 793; Pub. L. 100–154, Nov. 5, 1987, 101 Stat. 890; Pub. L. 100–170, Nov. 17, 1987, 101 Stat. 914; Pub. L. 100–179, Dec. 3, 1987, 101 Stat. 1018; Pub. L. 100–200, Dec. 21, 1987, 101 Stat. 1327; Pub. L. 100–242, title II, §§242, 263, title III, §§301(e), 306, 307, 316(c), Feb. 5, 1988, 101 Stat. 1890, 1891, 1893, 1895, 1896, 1898; Pub. L. 100–628, title X, §1042, Nov. 7, 1988, 102 Stat. 3273; Pub. L. 101–137, §7(a), Nov. 3, 1989, 103 Stat. 825; Pub. L. 101–235, title II, §207, title IV, §402, Dec. 15, 1989, 103 Stat. 2042, 2048; Pub. L. 101–625, title VII, §§701(e), 712, 713, Nov. 28, 1990, 104 Stat. 4282, 4291, 4292; Pub. L. 102–142, title VII, §743(a), Oct. 28, 1991, 105 Stat. 915; Pub. L. 102–230, §4, Dec. 12, 1991, 105 Stat. 1721; Pub. L. 102–550, title VII, §§701(e), 707(a)–(f)(1), 708(a), Oct. 28, 1992, 106 Stat. 3834, 3836–3839; Pub. L. 104–120, §4(b), (c), Mar. 28, 1996, 110 Stat. 835; Pub. L. 104–180, title VII, §734(a), (c)(1), (2), (3)(C), (d), (e)(2), Aug. 6, 1996, 110 Stat. 1601–1603; Pub. L. 105–86, title VII, §735(b), Nov. 18, 1997, 111 Stat. 2110; Pub. L. 105–276, title V, §599C(b), Oct. 21, 1998, 112 Stat. 2661.)
+&emsp;The Secretary shall require that borrowers in programs authorized by this section maintain accounting records in accordance with generally accepted accounting principles for all projects that receive funds from loans made or guaranteed by the Secretary under this section.
+
+#### (2) Record retention requirements
+
+&emsp;The Secretary shall require that borrowers in programs authorized by this section retain for a period of not less than 6 years and make available to the Secretary in a manner determined by the Secretary, all records required to be maintained under this subsection and other records identified by the Secretary in applicable regulations.
+
+#### (aa) Double damages for unauthorized use of housing projects assets and income
+
+#### (1) Action to recover assets or income
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary may request the Attorney General to bring an action in a United States district court to recover any assets or income used by any person in violation of the provisions of a loan made or guaranteed by the Secretary under this section or in violation of any applicable statute or regulation.
+
+#### (B) Improper documentation
+
+&emsp;&emsp;For purposes of this subsection, a use of assets or income in violation of the applicable loan, loan guarantee, statute, or regulation shall include any use for which the documentation in the books and accounts does not establish that the use was made for a reasonable operating expense or necessary repair of the project or for which the documentation has not been maintained in accordance with the requirements of the Secretary and in reasonable condition for proper audit.
+
+#### (C) Definition
+
+&emsp;&emsp;For the purposes of this subsection, the term “person” means—
+
+&emsp;&emsp;&emsp;(i) any individual or entity that borrows funds in accordance with programs authorized by this section;
+
+&emsp;&emsp;&emsp;(ii) any individual or entity holding 25 percent or more interest of any entity that borrows funds in accordance with programs authorized by this section; and
+
+&emsp;&emsp;&emsp;(iii) any officer, director, or partner of an entity that borrows funds in accordance with programs authorized by this section.
+
+#### (2) Amount recoverable
+
+#### (A) In general
+
+&emsp;&emsp;In any judgment favorable to the United States entered under this subsection, the Attorney General may recover double the value of the assets and income of the project that the court determines to have been used in violation of the provisions of a loan made or guaranteed by the Secretary under this section or any applicable statute or regulation, plus all costs related to the action, including reasonable attorney and auditing fees.
+
+#### (B) Application of recovered funds
+
+&emsp;&emsp;Notwithstanding any other provision of law, the Secretary may use amounts recovered under this subsection for activities authorized under this section and such funds shall remain available for such use until expended.
+
+#### (3) Time limitation
+
+&emsp;Notwithstanding any other provision of law, an action under this subsection may be commenced at any time during the 6-year period beginning on the date that the Secretary discovered or should have discovered the violation of the provisions of this section or any related statutes or regulations.
+
+#### (4) Continued availability of other remedies
+
+&emsp;The remedy provided in this subsection is in addition to and not in substitution of any other remedies available to the Secretary or the United States.
+
+(July 15, 1949, ch. 338, title V, §515, as added Pub. L. 87–723, §4(b), Sept. 28, 1962, 76 Stat. 671; amended Pub. L. 88–340, June 30, 1964, 78 Stat. 233; Pub. L. 88–560, title V, §501(d) Sept. 2, 1964, 78 Stat. 796; Pub. L. 89–117, title X, §1005(c), Aug. 10, 1965, 79 Stat. 501; Pub. L. 89–754, title VIII, §§804, 805, Nov. 3, 1966, 80 Stat. 1282; Pub. L. 91–78, §1, Sept. 30, 1969, 83 Stat. 125; Pub. L. 91–152, title IV, §413(a), Dec. 24, 1969, 83 Stat. 398; Pub. L. 91–609, title VIII, §803(c), Dec. 31, 1970, 84 Stat. 1807; Pub. L. 93–117, §13(b), Oct. 2, 1973, 87 Stat. 423; Pub. L. 93–383, title V, §§509(b), 510, Aug. 22, 1974, 88 Stat. 695; Pub. L. 95–60, §4(b), June 30, 1977, 91 Stat. 258; Pub. L. 95–80, §4(b), July 31, 1977, 91 Stat. 340; Pub. L. 95–128, title V, §§501(b), 507(a)(3), 508, Oct. 12, 1977, 91 Stat. 1138, 1140, 1141; Pub. L. 95–406, §7(b), Sept. 30, 1978, 92 Stat. 881; Pub. L. 95–557, title V, §501(e), Oct. 31, 1978, 92 Stat. 2111; Pub. L. 96–71, §5(b), Sept. 28, 1979, 93 Stat. 502; Pub. L. 96–105, §5(b), Nov. 8, 1979, 93 Stat. 795; Pub. L. 96–153, title V, §501(f), Dec. 21, 1979, 93 Stat. 1134; Pub. L. 96–372, §6(b), Oct. 3, 1980, 94 Stat. 1364; Pub. L. 96–399, title V, §§501(b), 502, 503, 507(c), Oct. 8, 1980, 94 Stat. 1668, 1670; Pub. L. 97–35, title III, §351(b), Aug. 13, 1981, 95 Stat. 420; Pub. L. 97–289, §3(a), Oct. 6, 1982, 96 Stat. 1231; Pub. L. 98–35, §3(a), May 26, 1983, 97 Stat. 198; Pub. L. 98–109, §4(a), Oct. 1, 1983, 97 Stat. 746; Pub. L. 98–181, title V, §§511(b), 512, Nov. 30, 1983, 97 Stat. 1244; Pub. L. 98–479, title I, §105(e), Oct. 17, 1984, 98 Stat. 2227; Pub. L. 99–120, §3(a), Oct. 8, 1985, 99 Stat. 503; Pub. L. 99–156, §3(a), Nov. 15, 1985, 99 Stat. 816; Pub. L. 99–219, §3(a), Dec. 26, 1985, 99 Stat. 1731; Pub. L. 99–267, §3(a), Mar. 27, 1986, 100 Stat. 74; Pub. L. 99–272, title III, §3009(a), Apr. 7, 1986, 100 Stat. 105; Pub. L. 99–289, §1(b), May 2, 1986, 100 Stat. 412; Pub. L. 99–345, §1, June 24, 1986, 100 Stat. 673; Pub. L. 99–430, Sept. 30, 1986, 100 Stat. 986; Pub. L. 100–122, §1, Sept. 30, 1987, 101 Stat. 793; Pub. L. 100–154, Nov. 5, 1987, 101 Stat. 890; Pub. L. 100–170, Nov. 17, 1987, 101 Stat. 914; Pub. L. 100–179, Dec. 3, 1987, 101 Stat. 1018; Pub. L. 100–200, Dec. 21, 1987, 101 Stat. 1327; Pub. L. 100–242, title II, §§242, 263, title III, §§301(e), 306, 307, 316(c), Feb. 5, 1988, 101 Stat. 1890, 1891, 1893, 1895, 1896, 1898; Pub. L. 100–628, title X, §1042, Nov. 7, 1988, 102 Stat. 3273; Pub. L. 101–137, §7(a), Nov. 3, 1989, 103 Stat. 825; Pub. L. 101–235, title II, §207, title IV, §402, Dec. 15, 1989, 103 Stat. 2042, 2048; Pub. L. 101–625, title VII, §§701(e), 712, 713, Nov. 28, 1990, 104 Stat. 4282, 4291, 4292; Pub. L. 102–142, title VII, §743(a), Oct.28, 1991, 105 Stat. 915; Pub. L. 102–230, §4, Dec. 12, 1991, 105 Stat. 1721; Pub. L. 102–550, title VII, §§701(e), 707(a)–(f)(1), 708(a), Oct. 28, 1992, 106 Stat. 3834, 3836–3839; Pub. L. 104–120, §4(b), (c), Mar. 28, 1996, 110 Stat. 835; Pub. L. 104–180, title VII, §734(a), (c)(1), (2), (3)(C), (d), (e)(2), Aug. 6, 1996, 110 Stat. 1601–1603; Pub. L. 105–86, title VII, §735(b), Nov. 18, 1997, 111 Stat. 2110; Pub. L. 105–276, title V, §599C(b), Oct. 21, 1998, 112 Stat. 2661; Pub. L. 106–569, title VII, §704, Dec. 27, 2000, 114 Stat. 3014.)
 
 #### References in Text
 
@@ -277,6 +323,10 @@ The United States Housing Act of 1937, referred to in subsec. (q), is act Sept. 
 Section 203(a) of Pub. L. 100–242, as amended, which was formerly set out in a note under section 1715<i>l</i> of Title 12, Banks and Banking, and which provided that on Nov. 28, 1990, the amendment made by section 263 of Pub. L. 100–242 is repealed and section is to read as it would without such amendment, was omitted in the general amendment of subtitle A of title II of Pub. L. 100–242 by Pub. L. 101–625.
 
 #### Amendments
+
+2000—Subsec. (z). Pub. L. 106–569 added subsec. (z) and struck out heading and text of former subsec. (z). Text read as follows: “Whoever, as an owner, agent, or manager, or who is otherwise in custody, control, or possession of property that is security for a loan made or insured under this section willfully uses, or authorizes the use, of any part of the rents, assets, proceeds, income, or other fund derived from such property, for any purpose other than to meet actual or necessary expenses of the property, or for any other purpose not authorized by this subchapter or the regulations adopted pursuant to this subchapter, shall be fined not more than $250,000 or imprisoned not more than 5 years, or both.”
+
+Subsec. (aa). Pub. L. 106–569 added subsec. (aa).
 
 1998—Subsec. (b)(4) to (7). Pub. L. 105–276, §599C(b)(1), redesignated pars. (5) to (7) as (4) to (6), respectively, and struck out former par. (4) which read as follows: “no loan shall be insured under this subsection after September 30, 1998;”.
 
@@ -488,7 +538,7 @@ Subsec. (c). Pub. L. 95–128, §508(a), provided that specifically designed equ
 
 Subsec. (d)(1). Pub. L. 95–128, §508(b), defined “housing” to also mean congregate housing facilities for elderly or handicapped persons or families who require some supervision and central services but are otherwise able to care for themselves and authorized such housing for the handicapped to be utilized in conjunction with educational and training facilities.
 
-Subsec. (d)(3). Pub. L. 95–128, §508(c), substituted definition of “congregate housing” for prior definition of “elderly persons” as persons 62 years of age or over and“elderly families” as families the head of which (or his spouse) is 62 years of age or over.
+Subsec. (d)(3). Pub. L. 95–128, §508(c), substituted definition of “congregate housing” for prior definition of “elderly persons” as persons 62 years of age or over and “elderly families” as families the head of which (or his spouse) is 62 years of age or over.
 
 1974—Subsec. (b)(1). Pub. L. 93–383, §510(a), struck out “$750,000 or” after “exceed” and substituted “less” for “least”.
 
@@ -536,7 +586,7 @@ Section 707(f)(2) of Pub. L. 102–550 provided that: “The Secretary of Agricu
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1472, 1479, 1480, 1483, 1486, 1487, 1490a, 1490f, 1490j, 1490<i>l</i>, 1490p–1, 1490p–2, 1490r, 4851b, 8011, 13664 of this title; title 12 section 1701q–2; title 26 section 42; title 40 App. section 207.
+This section is referred to in sections 1472, 1479, 1480, 1483, 1486, 1487, 1490a, 1490f, 1490j, 1490<i>l</i>, 1490p–1, 1490p–2, 1490r, 4851b, 8011, 13664 of this title; title 12 sections 1701q–2, 1717; title 26 section 42; title 40 App. section 207.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -18,7 +18,7 @@
 
 (b) Whenever the Special Counsel receives information of a type described in subsection (a) of this section, the Special Counsel shall review such information and, within 15 days after receiving the information, determine whether there is a substantial likelihood that the information discloses a violation of any law, rule, or regulation, or gross mismanagement, gross waste of funds, abuse of authority, or substantial and specific danger to public health and safety.
 
-(c)(1) Subject to paragraph (2), if the Special Counsel makes a positive determination under subsection (b) of this section, the Special Counsel shall promptly transmit the informationwith respect to which the determination was made to the appropriate agency head and require that the agency head—
+(c)(1) Subject to paragraph (2), if the Special Counsel makes a positive determination under subsection (b) of this section, the Special Counsel shall promptly transmit the information with respect to which the determination was made to the appropriate agency head and require that the agency head—
 
 &emsp;(A) conduct an investigation with respect to the information and any related matters transmitted by the Special Counsel to the agency head; and
 
@@ -82,7 +82,7 @@
 
 &emsp;&emsp;(ii) other offices available for receiving disclosures, should the individual wish to pursue the matter further.
 
-(h) The identity of any individual who makes a disclosure described in subsection (a) may notbe disclosed by the Special Counsel without such individual's consent unless the Special Counsel determines that the disclosure of the individual's identity is necessary because of an imminent danger to public health or safety or imminent violation of any criminal law.
+(h) The identity of any individual who makes a disclosure described in subsection (a) may not be disclosed by the Special Counsel without such individual's consent unless the Special Counsel determines that the disclosure of the individual's identity is necessary because of an imminent danger to public health or safety or imminent violation of any criminal law.
 
 (i) Except as specifically authorized under this section, the provisions of this section shall not be considered to authorize disclosure of any information by any agency or any person which is—
 

@@ -80,5 +80,5 @@ Section 1 of Pub. L. 98–127 provided: “That this Act \[enacting this section
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 37, 43, 113, 1153, 1347, 2119, 2261A, 2332b, 3559, 3663A of this title; title 8 section 1324.
+This section is referred to in sections 37, 38, 43, 113, 1153, 1347, 2119, 2332b, 3559, 3663A of this title; title 8 section 1324.
 

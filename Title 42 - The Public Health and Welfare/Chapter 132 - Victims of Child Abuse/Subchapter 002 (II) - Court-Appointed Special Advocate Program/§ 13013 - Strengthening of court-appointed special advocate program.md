@@ -32,7 +32,7 @@ The Administrator of the Office of Juvenile Justice and Delinquency Prevention s
 
 &emsp;(H) a court-appointed special advocate volunteer be an individual who has been screened and trained by a recognized court-appointed special advocate program and appointed by the court to advocate for children who come into the court system primarily as a result of abuse or neglect; and
 
-&emsp;(I) a court-appointed special advocate volunteer serve the function of reviewing records, facilitating prompt, thorough review of cases, and interviewing appropriate parties in order to make recommendations on what would be in the best interests of the child.
+&emsp;(I) a court-appointed special advocate volunteer serve the function of reviewing records, facilitating prompt, thorough review of cases,and interviewing appropriate parties in order to make recommendations on what would be in the best interests of the child.
 
 (3) In awarding grants under this section, the Administrator shall ensure that grants are distributed to localities that have no existing court-appointed special advocate program and to programs in need of expansion.
 

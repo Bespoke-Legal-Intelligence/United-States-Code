@@ -14,7 +14,7 @@ Selection of Grant Recipients.—
 
 &emsp;(1)
 
-Applications.—In order to be eligible to receive a grant under this section, a nonprofit institution of higher learning shall submit tothe Secretary an application that is in such form and contains such information as the Secretary may require.
+Applications.—In order to be eligible to receive a grant under this section, a nonprofit institution of higher learning shall submit to the Secretary an application that is in such form and contains such information as the Secretary may require.
 
 &emsp;(2)
 
@@ -126,7 +126,7 @@ Group a.—The Secretary shall make a grant in the amount of $1,000,000 to each 
 
 &emsp;&emsp;(B)
 
-Groups b and c.—The Secretary shall make a grant in the amount of $1,000,000 to 10 of the institutions or groups of institutions in groups B and C that received grants under this section in fiscal years 2000 and 2001.
+Groups b and c.—The Secretary shall make a grant in the amount of $1,000,000 to10 of the institutions or groups of institutions in groups B and C that received grants under this section in fiscal years 2000 and 2001.
 
 &emsp;&emsp;(C)
 
@@ -214,5 +214,5 @@ Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 5338 of this title.
+This section is referred to in section 5338 of this title; title 46 App. section 1121–2.
 

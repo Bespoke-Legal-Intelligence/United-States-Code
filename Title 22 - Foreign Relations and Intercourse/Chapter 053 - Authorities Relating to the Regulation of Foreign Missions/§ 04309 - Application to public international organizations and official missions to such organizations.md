@@ -20,10 +20,6 @@ For purposes of this section, “international organization” means—
 
 The International Organizations Immunities Act, referred to in subsec. (b)(1), is act Dec. 29, 1945, ch. 652, title I, 59 Stat. 669, as amended, which is classified principally to subchapter XVIII (§288 et seq.) of chapter 7 of this title. For complete classification of that Act to the Code, see Short Title note set out under section 288 of this title and Tables.
 
-#### Codification
-
-Section is also set out in D.C. Code, §5–1209.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 2709, 4302, 4305, 4315, 4316 of this title.

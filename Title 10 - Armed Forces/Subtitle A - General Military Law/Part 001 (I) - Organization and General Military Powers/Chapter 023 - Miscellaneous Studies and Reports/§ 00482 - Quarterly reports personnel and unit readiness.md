@@ -36,7 +36,7 @@ Comprehensive Readiness Indicators for Active Components.—Each report shall al
 
 Personnel strength.—
 
-&emsp;&emsp;(A) Personnel status, including the extent to which members of the armed forces areserving in positions outside of their military occupational specialty, serving in grades other than the grades for which they are qualified, or both.
+&emsp;&emsp;(A) Personnel status, including the extent to which members of the armed forces are serving in positions outside of their military occupational specialty, serving in grades other than the grades for which they are qualified, or both.
 
 &emsp;&emsp;(B) Historical data and projected trends in personnel strength and status.
 

@@ -10,7 +10,7 @@ general services administration” in title I of the Independent Offices Appropr
 
 general services administration” in title I of the Independent Offices Appropriation Act, 1959,
 
-(3) for which an appropriation for direct construction by an executive agency other than the General Services Administration of a specified public building has been made before September 9, 1959,
+(3) for which an appropriation for direct construction by an executive agency other than theGeneral Services Administration of a specified public building has been made before September 9, 1959,
 
 (4) within the purview of section 1252(c) <sup>1</sup> of title 8 or section 68 of title 19.
 

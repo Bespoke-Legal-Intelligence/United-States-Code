@@ -16,7 +16,3 @@ Section was formerly classified to section 623c of former Title 5, Executive Dep
 
 “Department of Health and Human Services” substituted in text for “Department of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
 
-#### Cross References
-
-Compensation of General Counsel, see section 5315 of Title 5, Government Organization and Employees.
-

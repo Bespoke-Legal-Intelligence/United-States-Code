@@ -23,7 +23,7 @@
 | (c) | General provisions. |
 | (d) | Reorganization. |
 | (e) | Limitation on solicitations. |
-| [905\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Functions/%C2%A7%2000905%20-%20Annual%20report%20to%20Congress.md) | Annual report to Congress. |
+| [905\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Functions/%C2%A7%2000905%20-%20Omitted.md) | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

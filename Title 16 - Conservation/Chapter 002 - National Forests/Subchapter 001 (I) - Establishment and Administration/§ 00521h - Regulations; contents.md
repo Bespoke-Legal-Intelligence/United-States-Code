@@ -10,3 +10,7 @@ The Secretary shall issue regulations to carry out the provisions of sections 52
 
 (Pub. L. 97–465, §6, Jan. 12, 1983, 96 Stat. 2536.)
 
+#### Section Referred to in Other Sections
+
+This section is referred to in section 698v–7 of this title.
+

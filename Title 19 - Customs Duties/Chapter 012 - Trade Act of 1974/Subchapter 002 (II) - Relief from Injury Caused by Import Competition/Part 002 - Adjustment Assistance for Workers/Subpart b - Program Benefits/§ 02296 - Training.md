@@ -16,7 +16,7 @@
 
 &emsp;(F) such training is suitable for the worker and available at a reasonable cost,
 
-> the Secretary shall approve such training for the worker. Upon such approval, the worker shall be entitled to have payment of the costs of such training (subject to the limitations imposed by this section) paid on his behalf by the Secretary directly or through a voucher system. Insofar as possible, the Secretary shall provide or assure the provision of such training on thejob, which shall include related education necessary for the acquisition of skills needed for a position within a particular occupation.
+> the Secretary shall approve such training for the worker. Upon such approval, the worker shall be entitled to have payment of the costs of such training (subject to the limitations imposed by this section) paid on his behalf by the Secretary directly or through a voucher system. Insofar as possible, the Secretary shall provide or assure the provision of such training on the job, which shall include related education necessary for the acquisition of skills needed for a position within a particular occupation.
 
 (2)(A) The total amount of payments that may be made under paragraph (1) for any fiscal year shall not exceed $80,000,000, except that for fiscal year 1997, the total amount of payments made under paragraph (1) shall not exceed $70,000,000.
 
@@ -38,7 +38,7 @@
 
 &emsp;(A) on-the-job training,
 
-&emsp;(B) any training program provided by a State pursuant to section 1653 of title 29 <sup>1</sup> or title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\],
+&emsp;(B) any training program provided by a State pursuant to title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\],
 
 &emsp;(C) any training program approved by a private industry council established under section 102 of such Act,
 
@@ -106,7 +106,7 @@ The Secretary shall pay the costs of any on-the-job training of an adversely aff
 
 #### (d) Eligibility for unemployment insurance
 
-A worker may not be determined to be ineligible or disqualified for unemployment insurance or program benefits under this subpart because the individual is in training approved under subsection (a) of this section, because of leaving work which is not suitable employment to enter such training, or because of the application to any such week in training of provisions of State law or Federal unemployment insurance law relating to availability for work, active search for work, or refusal to accept work. The Secretary shall submit to the Congress a quarterly report regarding the amount of funds expended during the quarter concerned to provided training under subsection (a) of this section and the anticipated demand for such funds for any remaining quarters in the fiscal year concerned.
+A worker may not be determined to be ineligible or disqualified for unemployment insurance or program benefits under this subpart because the individual is in training approved under subsection (a) of this section, because of leaving work which is not suitable employment to enter such training, or because of the application to any such week in training of provisions of State law or Federal unemployment insurance law relating to availability for work, active search for work, or refusal to accept work. The Secretary shall submit to the Congress a quarterly report regarding the amount of funds expended during the quarter concerned to provide training under subsection (a) of this section and the anticipated demand for such funds for any remaining quarters in the fiscal year concerned.
 
 #### (e) “Suitable employment” defined
 
@@ -114,19 +114,9 @@ For purposes of this section the term “suitable employment” means, with resp
 
 (Pub. L. 93–618, title II, §236, Jan. 3, 1975, 88 Stat. 2023; Pub. L. 97–35, title XXV, §2506(2), Aug. 13, 1981, 95 Stat. 885; Pub. L. 99–272, title XIII, §13004(a), Apr. 7, 1986, 100 Stat. 301; Pub. L. 100–418, title I, §1424(a)–(c), Aug. 23, 1988, 102 Stat. 1248, 1249; Pub. L. 100–647, title IX, §9001(a)(20), Nov. 10, 1988, 102 Stat. 3808; Pub. L. 103–66, title XIII, §13803(b), Aug. 10, 1993, 107 Stat. 668; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(14)(A), (f)(11)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–421, 2681–431.)
 
-#### Amendment of Subsection (a)(5)(B)
-
-<i>Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(f)(11)(A), (g)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–431, 2681–435, provided that, effective July 1, 2000, subsection (a)(5)(B) of this section is amended by striking “section 1653 of title 29 or”.</i>
-
-#### Termination of Section
-
-<i>For termination of section by section 285 of Pub. L. 93–618, see Termination Date note set out preceding section 2271 of this title.</i>
-
 #### References in Text
 
 Section 195(2) of the Vocational Education Act of 1963, referred to in subsec. (a)(1)(D), is section 195(2) of Pub. L. 88–210, title I, as added by Pub. L. 94–482, title II, §202(a), Oct. 12, 1976, 90 Stat. 2211, and amended, which was classified to section 2461(2) of Title 20, Education, prior to the general amendment and redesignation of Pub. L. 88–210 as the Carl D. Perkins Vocational Education Act by Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2435.
-
-Section 1653 of title 29, referred to in subsec. (a)(5)(B), was amended generally by Pub. L. 100–418, title VI, §6302(a), Aug. 23, 1988, 102 Stat. 1527, and, as so amended, does not refer to training programs provided by a State.
 
 The Workforce Investment Act of 1998, referred to in subsec. (a)(5)(B), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
@@ -134,7 +124,9 @@ Section 102 of such Act, referred to in subsec. (a)(5)(C), meaning section 102 o
 
 #### Amendments
 
-1998—Subsec. (a)(5)(B). Pub. L. 105–277, §101(f) \[title VIII, §405(d)(14)(A)\], substituted “section 1653 of title 29or title I of the Workforce Investment Act of 1998” for “section 1653 of title 29”.
+1998—Subsec. (a)(5)(B). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(11)(A)\], struck out “section 1653 of title 29 or” before “title I of”.
+
+Pub. L. 105–277, §101(f) \[title VIII, §405(d)(14)(A)\], substituted “section 1653 of title 29 or title I of the Workforce Investment Act of 1998” for “section 1653 of title 29”.
 
 1993—Subsec. (a)(2)(A). Pub. L. 103–66 inserted before period at end “, except that for fiscal year 1997, the total amount of payments made under paragraph (1) shall not exceed $70,000,000”.
 
@@ -193,6 +185,14 @@ Amendment by section 1424(c)(2), (3) of Pub. L. 100–418 effective on date that
 #### Effective Date of 1981 Amendment and Transition Provisions
 
 Amendment by Pub. L. 97–35 effective for determinations made or filed after Sept. 30, 1981, with transition provisions applicable, and with the amendment of subsec. (a)(2) of this section applicable, except as otherwise provided, to laws for certification purposes under section 3304 of title 26 on Oct. 31, of any taxable year after 1981, see section 2514 of Pub. L. 97–35, set out as a note under section 2291 of this title.
+
+#### Termination Date
+
+No assistance, vouchers, allowances, or other payments may be provided under subparts A to C of this part after Sept. 30, 2001, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (d) of this section relating to submitting a quarterly report to Congress on funds for training under subsection (a) of this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 124 of House Document No. 103–7.
 
 #### Section Referred to in Other Sections
 

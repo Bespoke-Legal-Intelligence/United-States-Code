@@ -72,7 +72,7 @@ Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board o
 
 #### Transfer of Functions
 
-Functions vested by statute in United States Civil Service Commission or Chairman thereof transferred to Director of Office of Personnel Management (except as otherwise specified) by Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
+Functions vested by statute in United States Civil Service Commission or Chairman thereof transferred toDirector of Office of Personnel Management (except as otherwise specified) by Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
 
 #### Abatement of Actions
 

@@ -32,7 +32,25 @@ For purposes of this subchapter:
 
 &emsp;The term “least-developed beneficiary developing country” means a beneficiary developing country that is designated as a least-developed beneficiary developing country under section 2462(a)(2) of this title.
 
-(Pub. L. 93–618, title V, §507, as added Pub. L. 104–188, title I, §1952(a), Aug. 20, 1996, 110 Stat. 1926.)
+#### (6) Worst forms of child labor
+
+&emsp;The term “worst forms of child labor” means—
+
+&emsp;&emsp;(A) all forms of slavery or practices similar to slavery, such as the sale or trafficking of children, debt bondage and serfdom, or forced or compulsory labor, including forced or compulsory recruitment of children for use in armed conflict;
+
+&emsp;&emsp;(B) the use, procuring, or offering of a child for prostitution, for the production of pornography or for pornographic purposes;
+
+&emsp;&emsp;(C) the use, procuring, or offering of a child for illicit activities in particular for the production and trafficking of drugs; and
+
+&emsp;&emsp;(D) work which, by its nature or the circumstances in which it is carried out, is likely to harm the health, safety, or morals of children.
+
+> &emsp;The work referred to in subparagraph (D) shall be determined by the laws, regulations, or competent authority of the beneficiary developing country involved.
+
+(Pub. L. 93–618, title V, §507, as added Pub. L. 104–188, title I, §1952(a), Aug. 20, 1996, 110 Stat. 1926; amended Pub. L. 106–200, title IV, §412(b), May 18, 2000, 114 Stat. 298.)
+
+#### Amendments
+
+2000—Par. (6). Pub. L. 106–200 added par. (6).
 
 #### Termination of Trust Territory of the Pacific Islands
 
@@ -40,5 +58,5 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2463, 2702, 3202, 3551 of this title; title 15 section 4711; title 22 sections 262p–4p, 2191a.
+This section is referred to in sections 2462, 2463, 2702, 2703, 3202, 3551 of this title; title 15 section 4711; title 22 sections 262p–4p, 2191a, 6903.
 

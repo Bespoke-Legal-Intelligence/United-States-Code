@@ -2,19 +2,23 @@
 
 #### (a) Standards
 
-The Secretary may designate any discrete area of the marine environment as a national marine sanctuary and promulgate regulations implementing the designation if the Secretary—
+The Secretary may designate any discrete area of the marine environment as a national marine sanctuary and promulgate regulations implementing the designation if the Secretary determines that—
 
-&emsp;(1) determines that the designation will fulfill the purposes and policies of this chapter; and
+&emsp;(1) the designation will fulfill the purposes and policies of this chapter;
 
-&emsp;(2) finds that—
+&emsp;(2) the area is of special national significance due to—
 
-&emsp;&emsp;(A) the area is of special national significance due to its resource or human-use values;
+&emsp;&emsp;(A) its conservation, recreational, ecological, historical, scientific, cultural, archaeological, educational, or esthetic qualities;
 
-&emsp;&emsp;(B) existing State and Federal authorities are inadequate or should be supplemented to ensure coordinated and comprehensive conservation and management of the area, including resource protection, scientific research, and public education;
+&emsp;&emsp;(B) the communities of living marine resources it harbors; or
 
-&emsp;&emsp;(C) designation of the area as a national marine sanctuary will facilitate the objectives in subparagraph (B); and
+&emsp;&emsp;(C) its resource or human-use values;
 
-&emsp;&emsp;(D) the area is of a size and nature that will permit comprehensive and coordinated conservation and management.
+&emsp;(3) existing State and Federal authorities are inadequate or should be supplemented to ensure coordinated and comprehensive conservation and management of the area, including resource protection, scientific research, and public education;
+
+&emsp;(4) designation of the area as a national marine sanctuary will facilitate the objectives stated in paragraph (3); and
+
+&emsp;(5) the area is of a size and nature that will permit comprehensive and coordinated conservation and management.
 
 #### (b) Factors and consultations required in making determinations and findings
 
@@ -36,31 +40,73 @@ The Secretary may designate any discrete area of the marine environment as a nat
 
 &emsp;&emsp;(G) the public benefits to be derived from sanctuary status, with emphasis on the benefits of long-term protection of nationally significant resources, vital habitats, and resources which generate tourism;
 
-&emsp;&emsp;(H) the negative impacts produced by management restrictions on income-generating activities such as living and nonliving resources development; and
+&emsp;&emsp;(H) the negative impacts produced by management restrictions on income-generating activities such as living and nonliving resources development;
 
-&emsp;&emsp;(I) the socioeconomic effects of sanctuary designation.
+&emsp;&emsp;(I) the socioeconomic effects of sanctuary designation;
+
+&emsp;&emsp;(J) the area's scientific value and value for monitoring the resources and natural processes that occur there;
+
+&emsp;&emsp;(K) the feasibility, where appropriate, of employing innovative management approaches to protect sanctuary resources or to manage compatible uses; and
+
+&emsp;&emsp;(L) the value of the area as an addition to the System.
 
 #### (2) Consultation
 
 &emsp;In making determinations and findings, the Secretary shall consult with—
 
-&emsp;&emsp;(A) the Committee on Merchant Marine and Fisheries of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate;
+&emsp;&emsp;(A) the Committee on Resources of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate;
 
 &emsp;&emsp;(B) the Secretaries of State, Defense, Transportation, and the Interior, the Administrator, and the heads of other interested Federal agencies;
 
 &emsp;&emsp;(C) the responsible officials or relevant agency heads of the appropriate State and local government entities, including coastal zone management agencies, that will or are likely to be affected by the establishment of the area as a national marine sanctuary;
 
-&emsp;&emsp;(D) the appropriate officials of any Regional Fishery Management Council established by section 302 of the Magnuson Act (16 U.S.C. 1852) that may be affected by the proposed designation; and
+&emsp;&emsp;(D) the appropriate officials of any Regional Fishery Management Council established by section 302 of the Magnuson-Stevens Act (16 U.S.C. 1852) that may be affected by the proposed designation; and
 
 &emsp;&emsp;(E) other interested persons.
 
-#### (3) Resource assessment report
-
-&emsp;In making determinations and findings, the Secretary shall draft, as part of the environmental impact statement referred to in section 1434(a)(2) of this title, a resource assessment report documenting present and potential uses of the area, including commercial and recreational fishing, research and education, minerals and energy development, subsistence uses, and other commercial, governmental, or recreational uses. The Secretary, in consultation with the Secretary of the Interior, shall draft a resource assessment section for the report regarding any commercial, governmental, or recreational resource uses in the area under consideration that are subject to the primary jurisdiction of the Department of the Interior. The Secretary, in consultation with the Secretary of Defense, the Secretary of Energy, and the Administrator, shall drafta resource assessment section for the report, including information on any past, present, or proposed future disposal or discharge of materials in the vicinity of the proposed sanctuary. Public disclosure by the Secretary of such information shall be consistent with national security regulations.
-
-(Pub. L. 92–532, title III, §303, Oct. 23, 1972, 86 Stat. 1062; Pub. L. 98–498, title I, §102, Oct. 19, 1984, 98 Stat. 2297; Pub. L. 102–587, title II, §2103, Nov. 4, 1992, 106 Stat. 5041.)
+(Pub. L. 92–532, title III, §303, Oct. 23, 1972, 86 Stat. 1062; Pub. L. 98–498, title I, §102, Oct. 19, 1984, 98 Stat. 2297; Pub. L. 102–587, title II, §2103, Nov. 4, 1992, 106 Stat. 5041; Pub. L. 106–513, §§5, 19(a)(1), (b)(3), Nov. 13, 2000, 114 Stat. 2383, 2392, 2393; Pub. L. 106–555, title II, §205(a), Dec. 21, 2000, 114 Stat. 2769.)
 
 #### Amendments
+
+2000—Subsec. (a). Pub. L. 106–555, in introductory provisions, substituted “the Secretary determines that—” for “the Secretary—”, added pars. (1) to (5), and struck out former pars. (1) and (2) which read as follows:
+
+“(1) determines that—
+
+&emsp;“(A) the designation will fulfill the purposes and policies of this chapter;
+
+&emsp;“(B) the area is of special national significance due to—
+
+&emsp;&emsp;“(i) its conservation, recreational, ecological, historical, scientific, cultural, archeological, educational, or esthetic qualities;
+
+&emsp;&emsp;“(ii) the communities of living marine resources it harbors; or
+
+&emsp;&emsp;“(iii) its resource or human-use values;
+
+&emsp;“(C) existing State and Federal authorities are inadequate or should be supplemented to ensure coordinated and comprehensive conservation and management of the area, including resource protection, scientific research, and public education;
+
+&emsp;“(D) designation of the area as a national marine sanctuary will facilitate the objectives in subparagraph (C); and
+
+&emsp;“(E) the area is of a size and nature that will permit comprehensive and coordinated conservation and management; and
+
+“(2) finds that—
+
+&emsp;“(A) the area is of special national significance due to its resource or human-use values;
+
+&emsp;“(B) existing State and Federal authorities are inadequate or should be supplemented to ensure coordinated and comprehensive conservation and management of the area, including resource protection, scientific research, and public education;
+
+&emsp;“(C) designation of the area as a national marine sanctuary will facilitate the objectives in subparagraph (B); and
+
+&emsp;“(D) the area is of a size and nature that will permit comprehensive and coordinated conservation and management.”
+
+Subsec. (a)(1). Pub. L. 106–513, §5(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “determines that the designation will fulfill the purposes and policies of this chapter; and”.
+
+Subsec. (b)(1)(J) to (L). Pub. L. 106–513, §5(b)(1), added subpars. (J) to (L).
+
+Subsec. (b)(2)(A). Pub. L. 106–513, §19(a)(1), substituted “Resources” for “Merchant Marine and Fisheries”.
+
+Subsec. (b)(2)(D). Pub. L. 106–513, §19(b)(3), substituted “Magnuson-Stevens Act” for “Magnuson Act”.
+
+Subsec. (b)(3). Pub. L. 106–513, §5(b)(2), struck out heading and text of par. (3). Prior to amendment, text read as follows: “In making determinations and findings, the Secretary shall draft, as part of the environmental impact statement referred to in section 1434(a)(2) of this title, a resource assessment report documenting present and potential uses of the area, including commercial and recreational fishing, research and education, minerals and energy development, subsistence uses, and other commercial, governmental, or recreational uses. The Secretary, in consultation with the Secretary of the Interior, shall draft a resource assessment section for the report regarding any commercial, governmental, or recreational resource uses in the area under consideration that are subject to the primary jurisdiction of the Department of the Interior. The Secretary, in consultation with the Secretary of Defense, the Secretary of Energy, and the Administrator, shall draft a resource assessment section for the report, including information on any past, present, or proposed future disposal or discharge of materials in the vicinity of the proposed sanctuary. Public disclosure by the Secretary of such information shall be consistent with national security regulations.”
 
 1992—Subsec. (a)(2)(B). Pub. L. 102–587, §2103(a), inserted “or should be supplemented” after “inadequate”.
 
@@ -70,9 +116,9 @@ Subsec. (b)(3). Pub. L. 102–587, §2103(b)(2), substituted “1434(a)(2)” fo
 
 1984—Pub. L. 98–498 amended section generally, substituting provisions relating to sanctuary designation standards for provisions relating to penalties. See section 1437(b) of this title.
 
-#### Abolition of House Committee on Merchant Marine and Fisheries
+#### Effective Date of 2000 Amendment
 
-Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Pub. L. 106–555, title II, §205(c), Dec. 21, 2000, 114 Stat. 2770, provided that: “This section \[amending this section and section 1434 of this title\] shall take effect immediately after the National Marine Sanctuaries Amendments Act of 2000 \[Pub. L. 106–513\] takes effect.”
 
 Marine Sanctuaries
 

@@ -8,7 +8,7 @@ As used in this chapter (unless the context clearly requires otherwise):
 
 #### (2) Carbonized wool
 
-&emsp;The term “carbonized wool” means wool that has been immersed in a bath, usually of mineral acids or acid salts, that destroys vegetable matter in the wool, but does not affect the wool fibres.
+&emsp;The term “carbonized wool” means wool that has been immersed in a bath, usually of mineral acids or acid salts, that destroys vegetable matter in the wool, but does not affect the wool fibres.<sup>1</sup>
 
 #### (3) Consumer information
 
@@ -139,4 +139,6 @@ As used in this chapter (unless the context clearly requires otherwise):
 &emsp;The term “wool products” means products produced, in whole or in part, from wool and products containing wool fiber.
 
 (Pub. L. 103–407, §3, Oct. 22, 1994, 108 Stat. 4211.)
+
+<i><sup>1</sup></i><i> So in original. Probably should be “fibers.”</i>
 

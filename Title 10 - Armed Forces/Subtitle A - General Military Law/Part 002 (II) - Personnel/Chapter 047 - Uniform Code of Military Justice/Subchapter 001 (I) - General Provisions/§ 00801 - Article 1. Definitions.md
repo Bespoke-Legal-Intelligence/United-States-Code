@@ -116,9 +116,9 @@ Section 12(a) of Pub. L. 98–209 provided that:
 
 Section 4 of Pub. L. 90–632 provided that:
 
-“(a) Except for the amendments made by paragraphs (30) and (33) of section 2, this Act \[see Short Title of 1968 Amendment note below\] shall become effective onthe first day of the tenth month following the month in which it is enacted \[October 1968\].
+“(a) Except for the amendments made by paragraphs (30) and (33) of section 2, this Act \[see Short Title of 1968 Amendment note below\] shall become effective on the first day of the tenth month following the month in which it is enacted \[October 1968\].
 
-“(b) The amendment made by paragraph (30) of section 2 \[amending section 869 of this title\] shall become effective upon the date of enactment of this Act \[Oct. 24, 1968\].
+“(b) The amendment made by paragraph (30) of section 2 \[amending section 869 of this title\] shall becomeeffective upon the date of enactment of this Act \[Oct. 24, 1968\].
 
 “(c) The amendment made by paragraph (33) \[amending section 873 of this title\] shall apply in the case of all court-martial sentences approved by the convening authority on or after, or not more than two years before, the date of its enactment \[Oct. 24, 1968\].”
 
@@ -162,15 +162,7 @@ Rights, duties, and proceedings not affected by Pub. L. 90–179 establishing Ju
 
 Section 49(e) of act Aug. 10, 1956, provided that: “In chapter 47 of title 10, United States Code \[this chapter\], enacted by section 1 of this Act, no inference of a legislative construction is to be drawn from the part in which any article is placed nor from the catchlines of the part or the article as set out in that chapter.”
 
-#### Cross References
-
-Appointment and duties—
-
-&emsp;&emsp;General Counsel of Department of Transportation, see section 102 of Title 49, Transportation.
-
-&emsp;&emsp;Judge Advocates General of the Army, Navy, and Air Force, see sections 3037, 5148 and 8037 of this title.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1044 of this title; title 42 section 665.
+This section is referred to in sections 1044, 1044d of this title; title 18 section 3267; title 37 section 321; title 42 section 665.
 

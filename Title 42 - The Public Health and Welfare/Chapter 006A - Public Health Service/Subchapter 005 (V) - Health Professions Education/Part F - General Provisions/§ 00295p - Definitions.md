@@ -120,5 +120,5 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 292<i>o</i>, 293, 293k, 293n, 294c of this title.
+This section is referred to in sections 254c–5, 292<i>o</i>, 293, 293k, 293n, 294c of this title.
 

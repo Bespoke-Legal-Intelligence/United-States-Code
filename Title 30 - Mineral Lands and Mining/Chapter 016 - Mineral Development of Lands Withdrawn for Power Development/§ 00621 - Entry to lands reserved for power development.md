@@ -34,10 +34,6 @@ Section 1 of act Aug. 11, 1955, provided: “That this Act \[enacting this chapt
 
 “Federal Energy Regulatory Commission” substituted for “Federal Power Commission” in subsec. (a) pursuant to sections 402(a)(1)(A), 703, and 707 of Pub. L. 95–91, which are classified to sections 7172(a)(1)(A), 7293, and 7297 of Title 42, The Public Health and Welfare, and which terminated Federal Power Commission and transferred its functions relating to licensing and permits for dams, reservoirs, or other works for development and improvement of navigation and for development and utilization of power across, along, from, or in navigable waters under part I of Federal Power Act (16 U.S.C. 791a et seq.) to Federal Energy Regulatory Commission.
 
-#### Cross References
-
-Oregon and California Railroad and Coos Bay Wagon Road grant lands, see section 1181a et seq. of Title 43, Public Lands.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 623, 625 of this title.

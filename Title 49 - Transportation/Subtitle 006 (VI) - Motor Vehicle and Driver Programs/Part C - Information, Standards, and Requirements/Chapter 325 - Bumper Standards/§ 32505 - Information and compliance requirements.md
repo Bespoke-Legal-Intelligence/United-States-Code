@@ -26,7 +26,7 @@ Powers of Secretary and Civil Actions To Enforce.—(1) In carrying out this cha
 
 (2) A witness summoned under this subsection is entitled to the same fee and mileage the witness would have been paid in a court of the United States.
 
-(3) A civil action to enforce a subpena or order of the Secretary under this subsection may be brought in the United States district court for any judicial district in which the proceeding bythe Secretary is conducted. The court may punish a failure to obey an order of the court to comply with the subpena or order of the Secretary as a contempt of court.
+(3) A civil action to enforce a subpena or order of the Secretary under this subsection may be brought in the United States district court for any judicial district in which the proceeding by the Secretary is conducted. The court may punish a failure to obey an order of the court to comply with the subpena or order of the Secretary as a contempt of court.
 
 (c)
 

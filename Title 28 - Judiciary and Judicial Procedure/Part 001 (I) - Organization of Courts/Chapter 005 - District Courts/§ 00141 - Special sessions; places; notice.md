@@ -16,9 +16,5 @@ Changes of phraseology were made.
 
 #### Amendments
 
-1963—Pub. L. 88–139 substituted “sessions” for “terms” and “session” for “term” wherever appearing in text and section catchline, and struck out “pursuant to rules approved by the judicial council of the circuit” after “court orders” in text.
-
-#### Cross References
-
-Virgin Islands district courts, times for holding sessions, see section 1615 of Title 48, Territories and Insular Possessions.
+<b>1963</b>—Pub. L. 88–139 substituted “sessions” for “terms” and “session” for “term” wherever appearing in text and section catchline, and struck out “pursuant to rules approved by the judicial council of the circuit” after “court orders” in text.
 

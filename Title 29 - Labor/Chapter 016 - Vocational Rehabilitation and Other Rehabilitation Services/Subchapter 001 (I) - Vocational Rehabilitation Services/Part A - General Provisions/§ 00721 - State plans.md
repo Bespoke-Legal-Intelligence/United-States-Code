@@ -70,7 +70,7 @@
 
 &emsp;&emsp;(C) include an assurance that, in accordance with criteria established by the State for the order of selection, individuals with the most significant disabilities will be selected first for the provision of vocational rehabilitation services; and
 
-&emsp;&emsp;(D) provide that eligible individuals, who do not meet the order of selection criteria,shall have access to services provided through the information and referral system implemented under paragraph (20).
+&emsp;&emsp;(D) provide that eligible individuals, who do not meet the order of selection criteria, shall have access to services provided through the information and referral system implemented under paragraph (20).
 
 #### (6) Methods for administration
 
@@ -80,7 +80,7 @@
 
 #### (B) Employment of individuals with disabilities
 
-&emsp;&emsp;The State plan shall provide that the designated State agency, and entities carrying out community rehabilitation programs in the State, who are in receipt of assistance under this subchapter shall take affirmative action to employ and advance in employment qualified individuals with disabilities covered under, and on the same terms and conditions as set forth in, section 793 of this title.
+&emsp;&emsp;The State plan shall provide that the designated State agency, and entities carrying out community rehabilitation programs in the State, who are in receipt of assistance under this subchapter shall take affirmative action to employ and advance in employment qualified individuals with disabilitiescovered under, and on the same terms and conditions as set forth in, section 793 of this title.
 
 #### (C) Facilities
 
@@ -122,7 +122,7 @@
 
 &emsp;&emsp;&emsp;(i) the establishment and maintenance of standards that are consistent with any national or State approved or recognized certification, licensing, registration, or other comparable requirements that apply to the area in which such personnel are providing vocational rehabilitation services; and
 
-&emsp;&emsp;&emsp;(ii) to the extent that such standards are not based on the highest requirements inthe State applicable to a specific profession or discipline, the steps the State is taking to require the retraining or hiring of personnel within the designated State unit that meet appropriate professional requirements in the State; and
+&emsp;&emsp;&emsp;(ii) to the extent that such standards are not based on the highest requirements in the State applicable to a specific profession or discipline, the steps the State is taking to require the retraining or hiring of personnel within the designated State unit that meet appropriate professional requirements in the State; and
 
 &emsp;&emsp;(C) contain provisions relating to the establishment and maintenance of minimum standards to ensure the availability of personnel within the designated State unit, to the maximum extent feasible, trained to communicate in the native language or mode of communication of an applicant or eligible individual.
 
@@ -188,7 +188,7 @@
 
 #### (A) Development and implementation
 
-&emsp;&emsp;The State plan shall include an assurance that an individualized plan for employment meeting the requirements of section 722(b) of this title will be developed and implemented in a timely manner for an individual subsequent to the determination of the eligibility of the individual for services under this subchapter, except that in a State operating under an order of selection described in paragraph (5), the plan will be developed and implemented only for individuals meeting the order of selection criteria of the State.
+&emsp;&emsp;The State plan shall include an assurance that an individualized plan for employment meeting the requirements of section 722(b) of this title will be developed and implemented in a timely manner for an individual subsequent to the determination of the eligibilityof the individual for services under this subchapter, except that in a State operating under an order of selection described in paragraph (5), the plan will be developed and implemented only for individuals meeting the order of selection criteria of the State.
 
 #### (B) Provision of services
 
@@ -246,7 +246,7 @@
 
 &emsp;&emsp;The Commissioner shall also require that the designated State agency include in the reports information on—
 
-&emsp;&emsp;&emsp;(i) the costs under this subchapter of conducting administration, providing assessment services, counseling and guidance, and other direct services provided by designated State agency staff, providing services purchased under individualized plans for employment, supporting small business enterprises, establishing, developing, and improving community rehabilitation programs, providing other services to groups, and facilitating use of other programs under this chapter and title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\] by eligible individuals; and
+&emsp;&emsp;&emsp;(i) the costs under this subchapter of conducting administration, providing assessment services, counseling and guidance, and other direct services provided by designated State agency staff, providing services purchased under individualized plans for employment, supporting smallbusiness enterprises, establishing, developing, and improving community rehabilitation programs, providing other services to groups, and facilitating use of other programs under this chapter and title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\] by eligible individuals; and
 
 &emsp;&emsp;&emsp;(ii) the results of annual evaluation by the State of program effectiveness under paragraph (15)(E).
 
@@ -302,7 +302,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) carry out any other activities that the designated State unit and the employers determine to be appropriate;
 
-&emsp;&emsp;&emsp;(v) identification of staff roles, responsibilities, and available resources, and specification of the financial responsibility of each component of the statewideworkforce investment system with regard to paying for necessary services (consistent with State law and Federal requirements); and
+&emsp;&emsp;&emsp;(v) identification of staff roles, responsibilities, and available resources, and specification of the financial responsibility of each component of the statewide workforce investment system with regard to paying for necessary services (consistent with State law and Federal requirements); and
 
 &emsp;&emsp;&emsp;(vi) specification of procedures for resolving disputes among such components.
 
@@ -484,7 +484,7 @@
 
 #### (19) Choice
 
-&emsp;The State plan shall include an assurance that applicants and eligible individuals or, as appropriate, the applicants’ representatives or individuals’ representatives, will be provided information and support services to assist the applicants and individuals in exercising informed choice throughout the rehabilitation process, consistent with the provisions of section 722(d) of this title.
+&emsp;The State plan shall include an assurance that applicants and eligible individuals or, as appropriate, the applicants’ representatives or individuals’ representatives, will be provided information and support services to assist the applicants and individuals in exercising informed choice throughout the rehabilitationprocess, consistent with the provisions of section 722(d) of this title.
 
 #### (20) Information and referral services
 
@@ -544,7 +544,7 @@
 
 #### (B) More than one designated State agency
 
-&emsp;&emsp;In the case of a State that, under subsection (a)(2) of this section, designates a State agency to administer the part of the State plan under which vocational rehabilitation services are provided for individuals who are blind (or to supervise the administration of such part by a local agency) and designates a separate State agency to administer the rest of the State plan, the State shall either establish a State RehabilitationCouncil for each of the two agencies that does not meet the requirements in subparagraph (A)(i), or establish one State Rehabilitation Council for both agencies if neither agency meets the requirements of subparagraph (A)(i).
+&emsp;&emsp;In the case of a State that, under subsection (a)(2) of this section, designates a State agency to administer the part of the State plan under which vocational rehabilitation services are provided for individuals who are blind (or to supervise the administration of such part by a local agency) and designates a separate State agency to administer the rest of the State plan, the State shall either establish a State Rehabilitation Council for each of the two agencies that does not meet the requirements in subparagraph (A)(i), or establish one State Rehabilitation Council for both agencies if neither agency meets the requirements of subparagraph (A)(i).
 
 #### (22) Supported employment State plan supplement
 
@@ -586,7 +586,7 @@ The Individuals with Disabilities Education Act, referred to in subsec. (a)(7)(A
 
 The Rehabilitation Act Amendments of 1998, referred to in subsec. (a)(7)(A)(v)(II), is title IV of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 1092. For complete classification of this Act to the Code, see Short Title of 1998 Amendment note set out under section 701 of this title and Tables.
 
-The Workforce Investment Act of 1998, referred to in subsec. (a)(10)(D)(i), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified generally to chapter 30 (§2801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+The Workforce Investment Act of 1998, referred to in subsec. (a)(10)(D)(i), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
 Subpart 3 of part A of subchapter VII of this chapter, referred to in subsec. (a)(11)(E), was in the original a reference to “part C of title VII”, meaning part C of title VII of the Rehabilitation Act of 1973, and was translated as if it referred to part C of chapter I of title VII of the Act to reflect the probable intent of Congress.
 

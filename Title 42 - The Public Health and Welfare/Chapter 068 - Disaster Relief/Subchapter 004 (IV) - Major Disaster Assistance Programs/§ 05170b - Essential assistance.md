@@ -36,7 +36,7 @@ Federal agencies may on the direction of the President, provide assistance essen
 
 #### (4) Contributions
 
-&emsp;Making contributions to State or local governments or owners or operators of private nonprofit facilities for the purpose of carrying out the provisions of this subsection.
+&emsp;Making contributions to State or local governments or owners or operators of privatenonprofit facilities for the purpose of carrying out the provisions of this subsection.
 
 #### (b) Federal share
 
@@ -84,5 +84,5 @@ A prior section 403 of Pub. L. 93–288 was renumbered section 407 by Pub. L. 10
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5159, 5172, 5189, 5204a, 5204c of this title; title 16 section 3505.
+This section is referred to in sections 5159, 5187, 5189, 5204a, 5204c of this title; title 16 section 3505.
 

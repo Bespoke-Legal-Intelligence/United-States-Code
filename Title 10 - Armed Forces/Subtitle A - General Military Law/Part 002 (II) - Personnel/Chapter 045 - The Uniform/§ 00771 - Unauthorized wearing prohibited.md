@@ -24,9 +24,3 @@ June 3, 1916, ch. 134, §125 (1st par., less provisos), 39 Stat. 216.
 
 The words “Except as otherwise provided by law” are inserted to give effect to exceptions in other revised sections of this title and to provisions of other laws giving such organizations as the Coast and Geodetic Survey and the Public Health Service permission to wear military uniforms under certain conditions.
 
-#### Cross References
-
-Public Health Service, wearing of uniforms, see section 238g of Title 42, The Public Health and Welfare.
-
-Punishment for unauthorized wearing, see section 702 of Title 18, Crimes and Criminal Procedure.
-

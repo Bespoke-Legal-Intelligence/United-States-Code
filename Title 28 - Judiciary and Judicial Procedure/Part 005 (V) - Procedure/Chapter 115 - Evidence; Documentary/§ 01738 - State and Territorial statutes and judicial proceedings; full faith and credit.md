@@ -26,17 +26,3 @@ For additional provisions as to authentication, see Rule 44 of the Federal Rules
 
 Changes were made in phraseology.
 
-#### Federal Rules of Civil Procedure
-
-Authentication of copy of official record, see rule 44, Appendix to this title.
-
-Effect of rule 44 on former section 687 of this title, see note by Advisory Committee under rule 44.
-
-#### Federal Rules of Criminal Procedure
-
-Criminal cases, proof of official record, see rule 27, Title 18, Appendix, Crimes and Criminal Procedure.
-
-#### Cross References
-
-Full faith and credit, see Const., art. 4, §1.
-

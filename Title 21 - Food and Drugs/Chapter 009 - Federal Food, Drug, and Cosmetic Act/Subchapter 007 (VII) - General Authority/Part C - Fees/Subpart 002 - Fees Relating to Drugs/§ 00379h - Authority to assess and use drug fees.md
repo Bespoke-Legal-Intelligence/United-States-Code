@@ -56,7 +56,7 @@ Beginning in fiscal year 1998, the Secretary shall assess and collect fees in ac
 
 &emsp;&emsp;&emsp;(i) that did not manufacture the product in the previous fiscal year; and
 
-&emsp;&emsp;&emsp;(ii) for which the full establishment fee has been assessed in the fiscal year at atime before manufacture of the prescription drug product was begun;
+&emsp;&emsp;&emsp;(ii) for which the full establishment fee has been assessed in the fiscal year at a time before manufacture of the prescription drug product was begun;
 
 > &emsp;&emsp;the applicant will not be assessed a share of the establishment fee for the fiscal year in which the manufacture of the product began.
 
@@ -112,7 +112,7 @@ Except as provided in subsections (c), (d), (f), and (g) of this section, the fe
 
 #### (2) Annual fee adjustment
 
-&emsp;Subject to the amount appropriated for a fiscal year under subsection (g) of this section, the Secretary shall, within 60 days after the end of each fiscal year beginning after September 30, 1997, adjust the establishment and product fees described in subsection (b) of this section for the fiscal year in which the adjustment occurs so that the revenues collected from each of the categories of fees described in paragraphs (2) and (3) of subsection (b) of this section shall be set to be equal to the revenues collected from the category of application and supplement fees described in paragraph (1) of subsection (b) of this section.
+&emsp;Subject to the amount appropriated for a fiscal year under subsection (g) of this section,the Secretary shall, within 60 days after the end of each fiscal year beginning after September 30, 1997, adjust the establishment and product fees described in subsection (b) of this section for the fiscal year in which the adjustment occurs so that the revenues collected from each of the categories of fees described in paragraphs (2) and (3) of subsection (b) of this section shall be set to be equal to the revenues collected from the category of application and supplement fees described in paragraph (1) of subsection (b) of this section.
 
 #### (3) Limit
 

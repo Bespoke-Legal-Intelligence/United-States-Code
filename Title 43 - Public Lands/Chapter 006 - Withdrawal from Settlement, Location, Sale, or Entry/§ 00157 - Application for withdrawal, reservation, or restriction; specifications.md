@@ -10,7 +10,7 @@ Any application filed on and after February 28, 1958 for a withdrawal, reservati
 
 &emsp;(4) the purpose or purposes for which the area is proposed to be withdrawn, reserved, or restricted, or if the purpose or purposes are classified for national security reasons, a statement to that effect;
 
-&emsp;(5) whether the proposed use will result in contamination of any or all of the requested withdrawal, reservation, or restriction area,and if so, whether such contamination will be permanent or temporary;
+&emsp;(5) whether the proposed use will result in contamination of any or all of the requested withdrawal, reservation, or restriction area, and if so, whether such contamination will be permanent or temporary;
 
 &emsp;(6) the period during which the proposed withdrawal, reservation, or restriction will continue in effect;
 

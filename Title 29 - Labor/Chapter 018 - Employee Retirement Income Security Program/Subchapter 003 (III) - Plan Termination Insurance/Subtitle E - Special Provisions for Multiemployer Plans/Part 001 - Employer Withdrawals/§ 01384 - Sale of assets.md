@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(ii) the annual contribution that the seller was required to make with respect to the operations under the plan for the last plan year before the plan year in which the sale of the assets occurs,
 
-> &emsp;which bond or escrow shall be paid to the plan if the purchaser withdraws from the plan, orfails to make a contribution to the plan when due, at any time during the first 5 plan years beginning after the sale; and
+> &emsp;which bond or escrow shall be paid to the plan if the purchaser withdraws from the plan, or fails to make a contribution to the plan when due, at any time during the first 5 plan years beginning after the sale; and
 
 &emsp;(C) the contract for sale provides that, if the purchaser withdraws in a complete withdrawal, or a partial withdrawal with respect to operations, during such first 5 plan years, the seller is secondarily liable for any withdrawal liability it would have had to the plan with respect to the operations (but for this section) if the liability of the purchaser with respect to the plan is not paid.
 

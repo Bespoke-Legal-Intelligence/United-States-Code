@@ -56,7 +56,15 @@ Oct. 15, 1966, Pub. L. 89–670, §6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub. L.
 
 In subsection (b), the title “Secretary” \[of Commerce\] is substituted for “Chief of the Weather Bureau” in section 803 of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 783) because of sections 1 and 2 of Reorganization Plan No. 2 of 1965 (eff. July 13, 1965, 79 Stat. 1318). Before clause (1), the words “In order” and “in addition to any other functions or duties pertaining to weather information for other purposes” are omitted as surplus. In clause (2), the words “forecasts, warnings, and advices” are omitted as being included in “reports”. In clause (3), the words “or employees thereof” and “establish and” are omitted as surplus. The words “with those persons” are added for clarity. In clause (5), the words “departments, agencies, and instrumentalities of the United States Government” are substituted for “governmental agencies of the United States” for consistency in the revised title and with other titles of the United States Code.
 
+#### Automated Surface Observation System Stations
+
+Pub. L. 106–181, title VII, §728, Apr. 5, 2000, 114 Stat. 168, provided that: “The Administrator \[of the Federal Aviation Administration\] shall not terminate human weather observers for Automated Surface Observation System stations until—
+
+&emsp;“(1) the Administrator determines that the system provides consistent reporting of changing meteorological conditions and notifies Congress in writing of that determination; and
+
+&emsp;“(2) 60 days have passed since the report was transmitted to Congress.”
+
 #### Section Referred to in Other Sections
 
-This section is referred to in section 46301 of this title.
+This section is referred to in sections 106, 46301 of this title.
 

@@ -34,7 +34,7 @@ Section was enacted as part of the Antiterrorism and Effective Death Penalty Act
 
 #### “Assistance” Defined
 
-Section 329 of title III of Pub. L. 104–132 provided that: “For purposes of this title \[enacting this section and sections 262p–4q, 2377, 2378, and 2781 of this title, section 1189 of Title 8, Aliens and Nationality, and sections 2332d and 2339B of Title 18, Crimes and Criminal Procedure, amending section 2349aa–2 of this title, section 2339A of Title 18, and section 44906 of Title 49, Transportation, and enacting provisions set out as notes under section 2377 of this title and sections 2332d and 2339B of Title 18\]—
+Section 329 of title III of Pub. L. 104–132 provided that: “For purposes of this title \[enacting this sectionand sections 262p–4q, 2377, 2378, and 2781 of this title, section 1189 of Title 8, Aliens and Nationality, and sections 2332d and 2339B of Title 18, Crimes and Criminal Procedure, amending section 2349aa–2 of this title, section 2339A of Title 18, and section 44906 of Title 49, Transportation, and enacting provisions set out as notes under section 2377 of this title and sections 2332d and 2339B of Title 18\]—
 
 &emsp;“(1) the term ‘assistance’ means assistance to or for the benefit of a government of any country that is provided by grant, concessional sale, guaranty, insurance, or by any other means on terms more favorable than generally available in the applicable market, whether in the form of a loan, lease, credit, debt relief, or otherwise, including subsidies for exports to such country and favorable tariff treatment of articles that are the growth, product, or manufacture of such country; and
 

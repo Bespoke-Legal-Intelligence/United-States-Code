@@ -88,7 +88,7 @@ Ex. Ord. No. 12372, July 14, 1982, 47 F.R. 30959, as amended by Ex. Ord. No. 124
 
 By the authority vested in me as President by the Constitution and laws of the United States of America, including Section 401(a) of the Intergovernmental Cooperation Act of 1968 (42 U.S.C. 4231(a)) \[31 U.S.C. 6506(a) and (b)\], Section 204 of the Demonstration Cities and Metropolitan Development Act of 1966 (42. U.S.C. 3334) and Section 301 of Title 3 of the United States Code, and in order to foster an intergovernmental partnership and a strengthened federalism by relying on State and local processes for the State and local government coordination and review of proposed Federal financial assistance and direct Federal development, it is hereby ordered as follows:
 
-Section 1. Federal agencies shall provide opportunities for consultation by elected officials of those State and local governments that would provide the non-Federal funds for, or that would be directly affected by, proposed Federal financial assistance or direct Federal development.
+Section 1. Federal agencies shall provide opportunities for consultation by elected officials of those State and local governments that would provide the non-Federal funds for, or that would be directly affected by,proposed Federal financial assistance or direct Federal development.
 
 Sec. 2. To the extent the States, in consultation with local general purpose governments, and local special purpose governments they consider appropriate, develop their own processes or refine existing processes for State and local elected officials to review and coordinate proposed Federal financial assistance and direct Federal development, the Federal agencies shall, to the extent permitted by law:
 

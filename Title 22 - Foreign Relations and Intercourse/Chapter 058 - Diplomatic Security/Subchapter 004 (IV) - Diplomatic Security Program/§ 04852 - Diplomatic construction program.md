@@ -6,7 +6,7 @@ Notwithstanding section 302 of this title, and where adequate competition exists
 
 &emsp;(1) bid on a diplomatic construction or design project which has an estimated total project value exceeding $10,000,000; and
 
-&emsp;(2) bid on a diplomatic construction or design project which involves technical security,unless the project involves low-level technology, as determined by the Secretary of State.
+&emsp;(2) bid on a diplomatic construction or design project which involves technical security, unless the project involves low-level technology, as determined by the Secretary of State.
 
 #### (b) Exception
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;During the period beginning on April 4, 1996, and ending on the termination date provided under paragraph (2), to ensure that technical assistance, cost-share payments, and incentive payments continue to be administered in an orderly manner until such time as assistance can be provided through final regulations issued to implement the environmental quality incentives program established under this part, the Secretary shall continue to—
+&emsp;During the period beginning on April 4, 1996, and ending on the termination date provided under paragraph (2), to ensure that technical assistance, cost-share payments, and incentivepayments continue to be administered in an orderly manner until such time as assistance can be provided through final regulations issued to implement the environmental quality incentives program established under this part, the Secretary shall continue to—
 
 &emsp;&emsp;(A) provide technical assistance, cost-share payments, and incentive payments under the terms and conditions of the agricultural conservation program, the Great Plains conservation program, the water quality incentives program, and the Colorado River Basin salinity control program, to the extent the terms and conditions of the program are consistent with the environmental quality incentives program; and
 

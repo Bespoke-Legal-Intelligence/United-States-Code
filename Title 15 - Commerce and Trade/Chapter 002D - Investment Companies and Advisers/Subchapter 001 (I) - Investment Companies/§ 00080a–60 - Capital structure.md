@@ -16,7 +16,7 @@ Notwithstanding the exemption set forth in section 80a–6(f) of this title, sec
 
 &emsp;&emsp;&emsp;(ii) such warrants, options, or rights are not separately transferable unless no class of such warrants, options, or rights and the securities accompanying them has been publicly distributed;
 
-&emsp;&emsp;&emsp;(iii) the exercise or conversion price is not less than the current market value atthe date of issuance, or if no such market value exists, the current net asset value of such voting securities; and
+&emsp;&emsp;&emsp;(iii) the exercise or conversion price is not less than the current market value at the date of issuance, or if no such market value exists, the current net asset value of such voting securities; and
 
 &emsp;&emsp;&emsp;(iv) the proposal to issue such securities is authorized by the shareholders or partners of such business development company, and such issuance is approved by the required majority (as defined in section 80a–56(<i>o</i>) of this title) of the directors of or general partners in such company on the basis that such issuance is in the best interests of such company and its shareholders or partners;
 
@@ -44,11 +44,11 @@ Notwithstanding the exemption set forth in section 80a–6(f) of this title, sec
 
 A business development company shall comply with the provisions of this section at the time it becomes subject to sections 80a–54 through 80a–64 of this title, as if it were issuing a security of each class which it has outstanding at such time.
 
-(Aug. 22, 1940, ch. 686, title I, §61, as added Pub. L. 96–477, title I, §105, Oct. 21, 1980, 94 Stat. 2286; amended Pub. L. 104–290, title V, §506, Oct. 11, 1996, 110 Stat. 3446.)
+(Aug. 22, 1940, ch. 686, title I, §61, as added Pub. L. 96–477, title I, §105, Oct. 21, 1980, 94 Stat. 2286;amended Pub. L. 104–290, title V, §506, Oct. 11, 1996, 110 Stat. 3446.)
 
 #### References in Text
 
-Section 80b–5 of this title, referred to in subsec. (a)(3)(B)(iii), was amended generally by Pub. L. 100–181, title VII, §703, Dec. 4, 1987, 101 Stat. 1263, and, as so amended, the subject matter of former paragraph (1)and clauses (A) and (B) of section 80b–5 is contained in subsections (a)(1) and (b)(1) and (2) of section 80b–5.
+Section 80b–5 of this title, referred to in subsec. (a)(3)(B)(iii), was amended generally by Pub. L. 100–181, title VII, §703, Dec. 4, 1987, 101 Stat. 1263, and, as so amended, the subject matter of former paragraph (1) and clauses (A) and (B) of section 80b–5 is contained in subsections (a)(1) and (b)(1) and (2) of section 80b–5.
 
 The Small Business Investment Act of 1958, referred to in subsec. (a)(4), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689), as amended, which is classified principally to chapter 14B (§661 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 661 of this title and Tables.
 

@@ -12,7 +12,7 @@ The Secretary may not make a grant under subsection (a) of this section unless t
 
 &emsp;(2) to establish, strengthen, or expand programs to enhance the academic performance of under-represented minority students attending the school;
 
-&emsp;(3) to improve the capacity of such school to train, recruit, and retain under-represented minority faculty including the payment of such stipends and fellowships as the Secretary may determine appropriate;
+&emsp;(3) to improve the capacity of such school to train, recruit, and retain under-representedminority faculty including the payment of such stipends and fellowships as the Secretary may determine appropriate;
 
 &emsp;(4) to carry out activities to improve the information resources, clinical education, curricula and cultural competence of the graduates of the school, as it relates to minority health issues;
 
@@ -212,7 +212,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) not less than $12,000,000 for grants under subsection (a) of this section to health professions schools that meet the conditions described in subsection (c)(2)(A) of this section;
 
-&emsp;&emsp;&emsp;(ii) not less than $12,000,000 for grants under subsection (a) of this section to health professions schools that meet the conditions described in paragraph (3) or (4) of subsection (c) of this section (includingmeeting conditions pursuant to subsection (e) of this section);
+&emsp;&emsp;&emsp;(ii) not less than $12,000,000 for grants under subsection (a) of this section to health professions schools that meet the conditions described in paragraph (3) or (4) of subsection (c) of this section (including meeting conditions pursuant to subsection (e) of this section);
 
 &emsp;&emsp;&emsp;(iii) not less than $6,000,000 for grants under subsection (a) of this section to health professions schools that meet the conditions described in subsection (c)(5) of this section; and
 
@@ -230,7 +230,7 @@ In this section:
 
 #### (B) Use of Federal funds
 
-&emsp;&emsp;With respect to any Federal amounts received by a center of excellence and available for carrying out activities for which a grant under this part is authorized to be expended, the Secretary may not make such a grant to the center for any fiscal year unless the center agrees that the center will, before expending the grant, expend the Federal amounts obtained from sources other than the grant.
+&emsp;&emsp;With respect to any Federal amounts received by a center of excellence and available for carrying out activities for which a grant under this part is authorized to be expended, the Secretary may not make such a grant to the center for any fiscal year unlessthe center agrees that the center will, before expending the grant, expend the Federal amounts obtained from sources other than the grant.
 
 (July 1, 1944, ch. 373, title VII, §736, as added Pub. L. 105–392, title I, §101(a), Nov. 13, 1998, 112 Stat. 3525.)
 
@@ -252,7 +252,7 @@ Pub. L. 105–392, title I, §110, Nov. 13, 1998, 112 Stat. 3562, provided that:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 293a of this title.
+This section is referred to in sections 287c–31, 287c–32, 293a of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “paragraph”.</i>
 

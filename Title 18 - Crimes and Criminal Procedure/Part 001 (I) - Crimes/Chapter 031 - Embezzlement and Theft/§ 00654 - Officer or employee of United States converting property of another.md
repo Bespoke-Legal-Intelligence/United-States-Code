@@ -24,10 +24,6 @@ Minor changes were made in phraseology.
 
 Pub. L. 103–322, §330016(1)(H), substituted “fined under this title” for “fined not more than $1,000” after “he shall be”.
 
-#### Cross References
-
-Postmaster or employee embezzling mail matter, see section 1709 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in title 5 section 3374.

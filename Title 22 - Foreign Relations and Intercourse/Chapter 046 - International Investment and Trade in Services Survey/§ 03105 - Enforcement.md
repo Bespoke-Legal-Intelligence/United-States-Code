@@ -10,13 +10,13 @@ Whenever it appears that any person has failed to furnish any information requir
 
 #### (c) Criminal penalty for failure to submit information
 
-Whoever willfully fails to submit any information required under this chapter, whether required to be furnished in the form of a report or otherwise, or willfully violates any rule, regulation, order, or instruction promulgated under this chapter, upon conviction, shall be fined not more than $10,000 and, if an individual, may be imprisoned for not more than one year, or both, and any officer, director, employee, or agent of any corporation who knowingly participates in such violation, upon conviction, may be punished by a like fine, imprisonment, or both.
+Whoever willfully fails to submit any information required under this chapter, whether required to be furnished in the form of a report or otherwise, or willfully violates any rule, regulation, order, or instruction promulgated under this chapter, upon conviction, shall be fined notmore than $10,000 and, if an individual, may be imprisoned for not more than one year, or both, and any officer, director, employee, or agent of any corporation who knowingly participates in such violation, upon conviction, may be punished by a like fine, imprisonment, or both.
 
 (Pub. L. 94–472, §6, Oct. 11, 1976, 90 Stat. 2063; Pub. L. 101–533, §7(b), Nov. 7, 1990, 104 Stat. 2349.)
 
 #### Amendments
 
-1990—Subsec. (a). Pub. L. 101–533 substituted “shall be subject to a civil penalty of not less than $2,500, and notmore than $25,000,” for “may be subject to a civil penalty not exceeding $10,000”.
+1990—Subsec. (a). Pub. L. 101–533 substituted “shall be subject to a civil penalty of not less than $2,500, and not more than $25,000,” for “may be subject to a civil penalty not exceeding $10,000”.
 
 #### Section Referred to in Other Sections
 

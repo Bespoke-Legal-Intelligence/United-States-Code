@@ -10,13 +10,13 @@ The Customs Service shall collect any increased or additional duties and fees du
 
 #### (c) Interest
 
-Interest assessed due to an underpayment of duties, fees, or interest shall accrue, at a rate determined by the Secretary, from the date the importer of record is required to deposit estimated duties, fees, and interest to the date of liquidation or reliquidation of the applicable entry or reconciliation. Interest on excess moneys deposited shall accrue, at a rate determined by the Secretary, from the date the importer of record deposits estimated duties, fees, and interest or, in a case in which a claim is made under section 1520(d) of this title, from the date on which such claim is made, to the date of liquidation or reliquidation of the applicable entry or reconciliation. For the period beginning on October 1, 1998, and ending on the date on which the “Revised National Customs Automation Test Regarding Reconciliation” of the Customs Service is terminated, or October 1, 2000, whichever occurs earlier, the Secretary may prescribe an alternative mid-point interest accounting methodology, which may be employed by the importer, based upon aggregate data in lieu of accounting for such interest from each deposit data provided in this subsection.
+Interest assessed due to an underpayment of duties, fees, or interest shall accrue, at a rate determined by the Secretary, from the date the importer of record is required to deposit estimated duties, fees, and interest to the date of liquidation or reliquidation of the applicable entry or reconciliation. Interest on excess moneys deposited shall accrue, at a rate determined by the Secretary, from the date the importer of record deposits estimated duties, fees, and interest or, in a case in which a claim is made under section 1520(d) of this title, from the date on which such claim is made, to the date of liquidation or reliquidation of the applicable entry or reconciliation. The Secretary may prescribe an alternative mid-point interest accounting methodology, which may be employed by the importer, based upon aggregate data in lieu of accounting for such interest from each deposit data provided in this subsection.
 
 #### (d) Delinquency
 
 If duties, fees, and interest determined to be due or refunded are not paid in full within the 30-day period specified in subsection (b) of this section, any unpaid balance shall be considered delinquent and bear interest by 30-day periods, at a rate determined by the Secretary, from the date of liquidation or reliquidation until the full balance is paid. No interest shall accrue during the 30-day period in which payment is actually made.
 
-(June 17, 1930, ch. 497, title IV, §505, 46 Stat. 732; Pub. L. 91–271, title II, §204(c), June 2, 1970, 84 Stat. 283; Pub. L. 95–410, title I, §103, Oct. 3, 1978, 92 Stat. 889; Pub. L. 97–446, title II, §201(e), Jan. 12, 1983, 96 Stat. 2350; Pub. L. 98–573, title II, §210(a), Oct. 30, 1984, 98 Stat. 2977; Pub. L. 103–182, title VI, §642(a), Dec. 8, 1993, 107 Stat. 2205; Pub. L. 104–295, §2(a), Oct. 11, 1996, 110 Stat. 3515; Pub. L. 106–36, title II, §2418(e), June 25, 1999, 113 Stat. 177.)
+(June 17, 1930, ch. 497, title IV, §505, 46 Stat. 732; Pub. L. 91–271, title II, §204(c), June 2, 1970, 84 Stat. 283; Pub. L. 95–410, title I, §103, Oct. 3, 1978, 92 Stat. 889; Pub. L. 97–446, title II, §201(e), Jan. 12, 1983, 96 Stat. 2350; Pub. L. 98–573, title II, §210(a), Oct. 30, 1984, 98 Stat. 2977; Pub. L. 103–182, title VI, §642(a), Dec. 8, 1993, 107 Stat. 2205; Pub. L. 104–295, §2(a), Oct. 11, 1996, 110 Stat. 3515; Pub. L. 106–36, title II, §2418(e), June 25, 1999, 113 Stat. 177; Pub. L. 106–476, title I, §1451, Nov. 9, 2000, 114 Stat. 2167.)
 
 #### Prior Provisions
 
@@ -25,6 +25,8 @@ Provisions similar to those in this section were contained in act Sept. 21, 1922
 A prior provision that the collector or person acting as such should ascertain, fix, and liquidate the rate and amount of duties, and the dutiable costs and charges, was contained in act Oct. 3, 1913, ch. 16, §III, M, 38 Stat. 186, the provisions of which were substituted for provisions of the same nature contained in the Customs Administrative Act of June 10, 1890, ch. 407, §13, 26 Stat. 136, as amended by the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 99.
 
 #### Amendments
+
+2000—Subsec. (c). Pub. L. 106–476 substituted “The Secretary may prescribe” for “For the period beginning on October 1, 1998, and ending on the date on which the ‘Revised National Customs Automation Test Regarding Reconciliation’ of the Customs Service is terminated, or October 1, 2000, whichever occurs earlier, the Secretary may prescribe” in last sentence.
 
 1999—Subsec. (c). Pub. L. 106–36 inserted at end “For the period beginning on October 1, 1998, and ending on the date on which the ‘Revised National Customs Automation Test Regarding Reconciliation’ of the Customs Service is terminated, or October 1, 2000, whichever occurs earlier, the Secretary may prescribe an alternative mid-point interest accounting methodology, which may be employed by the importer, based upon aggregate data in lieu of accounting for such interest from each deposit data provided in this subsection.”
 
@@ -39,6 +41,10 @@ A prior provision that the collector or person acting as such should ascertain, 
 1978—Subsec. (a). Pub. L. 95–410 authorized deposit of estimated duties to be made as prescribed by regulations after time of making entry but not later than thirty days after date of entry.
 
 1970—Pub. L. 91–271 reorganized existing provisions into subsecs. (a) and (b), and struck out provisions authorizing receipt by a collector of various reports and the performance of certain functions in connection with the liquidation of an entry.
+
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–476, except as otherwise provided, applicable with respect to goods entered, or withdrawn from warehouse, for consumption, on or after the 15th day after Nov. 9, 2000, see section 1471 of Pub. L. 106–476, set out as a note under section 58c of this title.
 
 #### Effective Date of 1999 Amendment
 

@@ -26,10 +26,6 @@ Subsec. (c). Pub. L. 103–325, §602(h)(2)(C), struck out subsec. (c) which rea
 
 1935—Act Aug. 23, 1935, among other changes, inserted proviso.
 
-#### Cross References
-
-Dividends on preferred stock, see section 51b of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 324 of this title.

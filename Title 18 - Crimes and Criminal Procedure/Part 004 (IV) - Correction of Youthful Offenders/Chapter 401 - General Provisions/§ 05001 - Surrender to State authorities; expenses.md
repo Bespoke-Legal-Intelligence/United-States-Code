@@ -22,7 +22,3 @@ Changes were made in phraseology and surplusage eliminated.
 
 1988—Pub. L. 100–690 inserted “, unless such surrender is precluded under section 5032 of this title” before period at end of first par.
 
-#### Cross References
-
-Fugitives from State or Territory to State, District or Territory, see section 3182 of this title.
-

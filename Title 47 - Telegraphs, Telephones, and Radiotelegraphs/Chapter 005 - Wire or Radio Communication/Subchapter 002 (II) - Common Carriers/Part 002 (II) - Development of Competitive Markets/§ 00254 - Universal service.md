@@ -90,7 +90,7 @@ Within 6 months after February 8, 1996, the Commission shall adopt rules to requ
 
 #### (B) Educational providers and libraries
 
-&emsp;&emsp;All telecommunications carriers serving a geographic area shall, upon a bona fide request for any of its services that are within the definition of universal service under subsection (c)(3) of this section, provide such services to elementary schools, secondary schools, and libraries for educational purposes at rates less than the amounts charged for similar services to other parties. The discount shall be an amount that the Commission, with respect to interstate services, andthe States, with respect to intrastate services, determine is appropriate and necessary to ensure affordable access to and use of such services by such entities. A telecommunications carrier providing service under this paragraph shall—
+&emsp;&emsp;All telecommunications carriers serving a geographic area shall, upon a bona fide request for any of its services that are within the definition of universal service under subsection (c)(3) of this section, provide such services to elementary schools, secondary schools, and libraries for educational purposes at rates less than the amounts charged for similar services to other parties. The discount shall be an amount that the Commission, with respect to interstate services, and the States, with respect to intrastate services, determine is appropriate and necessary to ensure affordable access to and use of such services by such entities. A telecommunications carrier providing service under this paragraph shall—
 
 &emsp;&emsp;&emsp;(i) have an amount equal to the amount of the discount treated as an offset to its obligation to contribute to the mechanisms to preserve and advance universal service, or
 
@@ -110,15 +110,219 @@ Within 6 months after February 8, 1996, the Commission shall adopt rules to requ
 
 #### (4) Eligibility of users
 
-&emsp;No entity listed in this subsection shall be entitled to preferential rates or treatment as required by this subsection, if such entity operates as a for-profit business, is a school described in paragraph (5)(A) with an endowment of more than $50,000,000, or is a library or library consortium not eligible for assistance from a State library administrative agency under the Library Services and Technology Act \[20 U.S.C. 9121 et seq.\].
+&emsp;No entity listed in this subsection shall be entitled to preferential rates or treatment as required by this subsection, if such entity operates as a for-profit business, is a school described in paragraph (7)(A) with an endowment of more than $50,000,000, or is a library or library consortium not eligible for assistance from a State library administrative agencyunder the Library Services and Technology Act \[20 U.S.C. 9121 et seq.\].
 
-#### (5) Definitions
+#### (5) Requirements for certain schools with computers having Internet access
+
+#### (A) Internet safety
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Except as provided in clause (ii), an elementary or secondary school having computers with Internet access may not receive services at discount rates under paragraph (1)(B) unless the school, school board, local educational agency, or other authority with responsibility for administration of the school—
+
+&emsp;&emsp;&emsp;&emsp;(I) submits to the Commission the certifications described in subparagraphs (B) and (C);
+
+&emsp;&emsp;&emsp;&emsp;(II) submits to the Commission a certification that an Internet safety policy has been adopted and implemented for the school under subsection (<i>l</i>) of this section; and
+
+&emsp;&emsp;&emsp;&emsp;(III) ensures the use of such computers in accordance with the certifications.
+
+#### (ii) Applicability
+
+&emsp;&emsp;&emsp;The prohibition in clause (i) shall not apply with respect to a school that receives services at discount rates under paragraph (1)(B) only for purposes other than the provision of Internet access, Internet service, or internal connections.
+
+#### (iii) Public notice; hearing
+
+&emsp;&emsp;&emsp;An elementary or secondary school described in clause (i), or the school board, local educational agency, or other authority with responsibility for administration of the school, shall provide reasonable public notice and hold at least one public hearing or meeting to address the proposed Internet safety policy. In the case of an elementary or secondary school other than an elementary or secondary school as defined in section 8801 of title 20, the notice and hearing required by this clause may be limited to those members of the public with a relationship to the school.
+
+#### (B) Certification with respect to minors
+
+&emsp;&emsp;A certification under this subparagraph is a certification that the school, school board, local educational agency, or other authority with responsibility for administration of the school—
+
+&emsp;&emsp;&emsp;(i) is enforcing a policy of Internet safety for minors that includes monitoring the online activities of minors and the operation of a technology protection measure with respect to any of its computers with Internet access that protects against access through such computers to visual depictions that are—
+
+&emsp;&emsp;&emsp;&emsp;(I) obscene;
+
+&emsp;&emsp;&emsp;&emsp;(II) child pornography; or
+
+&emsp;&emsp;&emsp;&emsp;(III) harmful to minors; and
+
+&emsp;&emsp;&emsp;(ii) is enforcing the operation of such technology protection measure during any use of such computers by minors.
+
+#### (C) Certification with respect to adults
+
+&emsp;&emsp;A certification under this paragraph is a certification that the school, school board, local educational agency, or other authority with responsibility for administration of the school—
+
+&emsp;&emsp;&emsp;(i) is enforcing a policy of Internet safety that includes the operation of a technology protection measure with respect to any of its computers with Internet access that protects against access through such computers to visual depictions that are—
+
+&emsp;&emsp;&emsp;&emsp;(I) obscene; or
+
+&emsp;&emsp;&emsp;&emsp;(II) child pornography; and
+
+&emsp;&emsp;&emsp;(ii) is enforcing the operation of such technology protection measure during any use of such computers.
+
+#### (D) Disabling during adult use
+
+&emsp;&emsp;An administrator, supervisor, or other person authorized by the certifying authority under subparagraph (A)(i) may disable the technology protection measure concerned, during use by an adult, to enable access for bona fide research or other lawful purpose.
+
+#### (E) Timing of implementation
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Subject to clause (ii) in the case of any school covered by this paragraph as of the effective date of this paragraph under section 1721(h) of the Children's Internet Protection Act, the certification under subparagraphs (B) and (C) shall be made—
+
+&emsp;&emsp;&emsp;&emsp;(I) with respect to the first program funding year under this subsection following such effective date, not later than 120 days after the beginning of such program funding year; and
+
+&emsp;&emsp;&emsp;&emsp;(II) with respect to any subsequent program funding year, as part of the application process for such program funding year.
+
+#### (ii) Process
+
+#### (I) Schools with Internet safety policy and technology protection measures in place
+
+&emsp;&emsp;&emsp;&emsp;A school covered by clause (i) that has in place an Internet safety policy and technology protection measures meeting the requirements necessary for certification under subparagraphs (B) and (C) shall certify its compliance with subparagraphs (B) and (C) during each annual program application cycle under this subsection, except that with respect to the first program funding year after the effective date of this paragraph under section 1721(h) of the Children's Internet Protection Act, the certifications shall be made not later than 120 days after the beginning of such first program funding year.
+
+#### (II) Schools without Internet safety policy and technology protection measures in place
+
+&emsp;&emsp;&emsp;&emsp;A school covered by clause (i) that does not have in place an Internet safety policy and technology protection measures meeting the requirements necessary for certification under subparagraphs (B) and (C)—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) for the first program year after the effective date of this subsection in which it is applying for funds under this subsection, shall certify that it is undertaking such actions, including any necessary procurement procedures, to put in place an Internet safety policy and technology protection measures meeting the requirements necessary for certification under subparagraphs (B) and (C); and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) for the second program year after the effective date of this subsection in which it is applying for funds under this subsection, shall certify that it is in compliance with subparagraphs (B) and (C).
+
+> &emsp;&emsp;&emsp;&emsp;Any school that is unable to certify compliance with such requirements in such second program year shall be ineligible for services at discount rates or funding in lieu of services at such rates under this subsection for such second year and all subsequent program years under this subsection, until such time as such school comes into compliance with this paragraph.
+
+#### (III) Waivers
+
+&emsp;&emsp;&emsp;&emsp;Any school subject to subclause (II) that cannot come into compliance with subparagraphs (B) and (C) in such second year program may seek a waiver of subclause (II)(bb) if State or local procurement rules or regulations or competitive bidding requirements prevent the making of the certification otherwise required by such subclause. A school, school board, local educational agency, or other authority with responsibility for administration of the school shall notify the Commission of the applicability of such subclause to the school. Such notice shall certify that the school in question will be brought into compliance before the start of the third program year after the effective date of this subsection in which the school is applying for funds under this subsection.
+
+#### (F) Noncompliance
+
+#### (i) Failure to submit certification
+
+&emsp;&emsp;&emsp;Any school that knowingly fails to comply with the application guidelines regarding the annual submission of certification required by this paragraph shall not be eligible for services at discount rates or funding in lieu of services at such rates under this subsection.
+
+#### (ii) Failure to comply with certification
+
+&emsp;&emsp;&emsp;Any school that knowingly fails to ensure the use of its computers in accordance with a certification under subparagraphs (B) and (C) shall reimburse any funds and discounts received under this subsection for the period covered by such certification.
+
+#### (iii) Remedy of noncompliance
+
+#### (I) Failure to submit
+
+&emsp;&emsp;&emsp;&emsp;A school that has failed to submit a certification under clause (i) may remedy the failure by submitting the certification to which the failure relates. Upon submittal of such certification, the school shall be eligible for services at discount rates under this subsection.
+
+#### (II) Failure to comply
+
+&emsp;&emsp;&emsp;&emsp;A school that has failed to comply with a certification as described in clause (ii) may remedy the failure by ensuring the use of its computers in accordance with such certification. Upon submittal to the Commission of a certification or other appropriate evidence of such remedy, the school shall be eligible for services at discount rates under this subsection.
+
+#### (6) Requirements for certain libraries with computers having Internet access
+
+#### (A) Internet safety
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Except as provided in clause (ii), a library having one or more computers with Internet access may not receive services at discount rates under paragraph (1)(B) unless the library—
+
+&emsp;&emsp;&emsp;&emsp;(I) submits to the Commission the certifications described in subparagraphs (B) and (C); and
+
+&emsp;&emsp;&emsp;&emsp;(II) submits to the Commission a certification that an Internet safety policy has been adopted and implemented for the library under subsection (<i>l</i>) of this section; and
+
+&emsp;&emsp;&emsp;&emsp;(III) ensures the use of such computers in accordance with the certifications.
+
+#### (ii) Applicability
+
+&emsp;&emsp;&emsp;The prohibition in clause (i) shall not apply with respect to a library that receives services at discount rates under paragraph (1)(B) only for purposes other than the provision of Internet access, Internet service, or internal connections.
+
+#### (iii) Public notice; hearing
+
+&emsp;&emsp;&emsp;A library described in clause (i) shall provide reasonable public notice and hold at least one public hearing or meeting to address the proposed Internet safety policy.
+
+#### (B) Certification with respect to minors
+
+&emsp;&emsp;A certification under this subparagraph is a certification that the library—
+
+&emsp;&emsp;&emsp;(i) is enforcing a policy of Internet safety that includes the operation of a technology protection measure with respect to any of its computers with Internet access that protects against access through such computers to visual depictions that are—
+
+&emsp;&emsp;&emsp;&emsp;(I) obscene;
+
+&emsp;&emsp;&emsp;&emsp;(II) child pornography; or
+
+&emsp;&emsp;&emsp;&emsp;(III) harmful to minors; and
+
+&emsp;&emsp;&emsp;(ii) is enforcing the operation of such technology protection measure during any use of such computers by minors.
+
+#### (C) Certification with respect to adults
+
+&emsp;&emsp;A certification under this paragraph is a certification that the library—
+
+&emsp;&emsp;&emsp;(i) is enforcing a policy of Internet safety that includes the operation of a technology protection measure with respect to any of its computers with Internet access that protects against access through such computers to visual depictions that are—
+
+&emsp;&emsp;&emsp;&emsp;(I) obscene; or
+
+&emsp;&emsp;&emsp;&emsp;(II) child pornography; and
+
+&emsp;&emsp;&emsp;(ii) is enforcing the operation of such technology protection measure during any use of such computers.
+
+#### (D) Disabling during adult use
+
+&emsp;&emsp;An administrator, supervisor, or other person authorized by the certifying authority under subparagraph (A)(i) may disable the technology protection measure concerned, during use by an adult, to enable access for bona fide research or other lawful purpose.
+
+#### (E) Timing of implementation
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Subject to clause (ii) in the case of any library covered by this paragraph as of the effective date of this paragraph under section 1721(h) of the Children's Internet Protection Act, the certification under subparagraphs (B) and (C) shall be made—
+
+&emsp;&emsp;&emsp;&emsp;(I) with respect to the first program funding year under this subsection following such effective date, not later than 120 days after the beginning of such program funding year; and
+
+&emsp;&emsp;&emsp;&emsp;(II) with respect to any subsequent program funding year, as part of the application process for such program funding year.
+
+#### (ii) Process
+
+#### (I) Libraries with Internet safety policy and technology protection measures in place
+
+&emsp;&emsp;&emsp;&emsp;A library covered by clause (i) that has in place an Internet safety policy and technology protection measures meeting the requirements necessary for certification under subparagraphs (B) and (C) shall certify its compliance with subparagraphs (B) and (C) during each annual program application cycle under this subsection, except that with respect to the first program funding year after the effective date of this paragraph under section 1721(h) of the Children's Internet Protection Act, the certifications shall be made not later than 120 days after the beginning of such first program funding year.
+
+#### (II) Libraries without Internet safety policy and technology protection measures in place
+
+&emsp;&emsp;&emsp;&emsp;A library covered by clause (i) that does not have in place an Internet safety policy and technology protection measures meeting the requirements necessary for certification under subparagraphs (B) and (C)—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) for the first program year after the effective date of this subsection in which it is applying for funds under this subsection, shall certify that it is undertaking such actions, including any necessary procurement procedures, to put in place an Internet safety policy and technology protection measures meeting the requirements necessary for certification under subparagraphs (B) and (C); and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) for the second program year after the effective date of this subsection in which it is applying for funds under this subsection, shall certify that it is in compliance with subparagraphs (B) and (C).
+
+> &emsp;&emsp;&emsp;&emsp;Any library that is unable to certify compliance with such requirements in such second program year shall be ineligible for services at discount rates or funding in lieu of services at such rates under this subsection for such second year and all subsequent program years under this subsection, until such time as such library comes into compliance with this paragraph.
+
+#### (III) Waivers
+
+&emsp;&emsp;&emsp;&emsp;Any library subject to subclause (II) that cannot come into compliance with subparagraphs (B) and (C) in such second year may seek a waiver of subclause (II)(bb) if State or local procurement rules or regulations or competitive bidding requirements prevent the making of the certification otherwise required by such subclause. A library, library board, or other authority with responsibility for administration of the library shall notify the Commission of the applicability of such subclause to the library. Such notice shall certify that the library in question will be brought into compliance before the start of the third program year after the effective date of this subsection in which the library is applying for funds under this subsection.
+
+#### (F) Noncompliance
+
+#### (i) Failure to submit certification
+
+&emsp;&emsp;&emsp;Any library that knowingly fails to comply with the application guidelines regarding the annual submission of certification required by this paragraph shall not be eligible for services at discount rates or funding in lieu of services at such rates under this subsection.
+
+#### (ii) Failure to comply with certification
+
+&emsp;&emsp;&emsp;Any library that knowingly fails to ensure the use of its computers in accordance with a certification under subparagraphs (B) and (C) shall reimburse all funds and discounts received under this subsection for the period covered by such certification.
+
+#### (iii) Remedy of noncompliance
+
+#### (I) Failure to submit
+
+&emsp;&emsp;&emsp;&emsp;A library that has failed to submit a certification under clause (i) may remedy the failure by submitting the certification to which the failure relates. Upon submittal of such certification, the library shall be eligible for services at discount rates under this subsection.
+
+#### (II) Failure to comply
+
+&emsp;&emsp;&emsp;&emsp;A library that has failed to comply with a certification as described in clause (ii) may remedy the failure by ensuring the use of its computers in accordance with such certification. Upon submittal to the Commission of a certification or other appropriate evidence of such remedy, the library shall be eligible for services at discount rates under this subsection.
+
+#### (7) Definitions
 
 &emsp;For purposes of this subsection:
 
 #### (A) Elementary and secondary schools
 
-&emsp;&emsp;The term “elementary and secondary schools” means elementary schools and secondary schools, as defined in paragraphs (14) and (25), respectively, of section 8801 of title 20.
+&emsp;&emsp;The term “elementary and secondary schools” means elementary schools and secondary schools, as defined in paragraphs (14) and (25),<sup>1</sup> respectively, of section 8801 of title 20.
 
 #### (B) Health care provider
 
@@ -142,6 +346,36 @@ Within 6 months after February 8, 1996, the Commission shall adopt rules to requ
 
 &emsp;&emsp;The term “public institutional telecommunications user” means an elementary or secondary school, a library, or a health care provider as those terms are defined in this paragraph.
 
+#### (D) Minor
+
+&emsp;&emsp;The term “minor” means any individual who has not attained the age of 17 years.
+
+#### (E) Obscene
+
+&emsp;&emsp;The term “obscene” has the meaning given such term in section 1460 of title 18.
+
+#### (F) Child pornography
+
+&emsp;&emsp;The term “child pornography” has the meaning given such term in section 2256 of title 18.
+
+#### (G) Harmful to minors
+
+&emsp;&emsp;The term “harmful to minors” means any picture, image, graphic image file, or other visual depiction that—
+
+&emsp;&emsp;&emsp;(i) taken as a whole and with respect to minors, appeals to a prurient interest in nudity, sex, or excretion;
+
+&emsp;&emsp;&emsp;(ii) depicts, describes, or represents, in a patently offensive way with respect to what is suitable for minors, an actual or simulated sexual act or sexual contact, actual or simulated normal or perverted sexual acts, or a lewd exhibition of the genitals; and
+
+&emsp;&emsp;&emsp;(iii) taken as a whole, lacks serious literary, artistic, political, or scientific value as to minors.
+
+#### (H) Sexual act; sexual contact
+
+&emsp;&emsp;The terms “sexual act” and “sexual contact” have the meanings given such terms in section 2246 of title 18.
+
+#### (I) Technology protection measure
+
+&emsp;&emsp;The term “technology protection measure” means a specific technology that blocks or filters Internet access to the material covered by a certification under paragraph (5) or (6) to which such certification relates.
+
 #### (i) Consumer protection
 
 The Commission and the States should ensure that universal service is available at rates that are just, reasonable, and affordable.
@@ -154,21 +388,101 @@ Nothing in this section shall affect the collection, distribution, or administra
 
 A telecommunications carrier may not use services that are not competitive to subsidize services that are subject to competition. The Commission, with respect to interstate services, and the States, with respect to intrastate services, shall establish any necessary cost allocation rules, accounting safeguards, and guidelines to ensure that services included in the definition of universal service bear no more than a reasonable share of the joint and common costs of facilities used to provide those services.
 
-(June 19, 1934, ch. 652, title II, §254, as added Pub. L. 104–104, title I, §101(a), Feb. 8, 1996, 110 Stat. 71; amended Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §709(a)(8)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–313.)
+#### (<i>l</i>) Internet safety policy requirement for schools and libraries
+
+#### (1) In general
+
+&emsp;In carrying out its responsibilities under subsection (h) of this section, each school or library to which subsection (h) of this section applies shall—
+
+&emsp;&emsp;(A) adopt and implement an Internet safety policy that addresses—
+
+&emsp;&emsp;&emsp;(i) access by minors to inappropriate matter on the Internet and World Wide Web;
+
+&emsp;&emsp;&emsp;(ii) the safety and security of minors when using electronic mail, chat rooms, and other forms of direct electronic communications;
+
+&emsp;&emsp;&emsp;(iii) unauthorized access, including so-called “hacking”, and other unlawful activities by minors online;
+
+&emsp;&emsp;&emsp;(iv) unauthorized disclosure, use, and dissemination of personal identification information regarding minors; and
+
+&emsp;&emsp;&emsp;(v) measures designed to restrict minors’ access to materials harmful to minors; and
+
+&emsp;&emsp;(B) provide reasonable public notice and hold at least one public hearing or meetingto address the proposed Internet safety policy.
+
+#### (2) Local determination of content
+
+&emsp;A determination regarding what matter is inappropriate for minors shall be made by the school board, local educational agency, library, or other authority responsible for making the determination. No agency or instrumentality of the United States Government may—
+
+&emsp;&emsp;(A) establish criteria for making such determination;
+
+&emsp;&emsp;(B) review the determination made by the certifying school, school board, local educational agency, library, or other authority; or
+
+&emsp;&emsp;(C) consider the criteria employed by the certifying school, school board, local educational agency, library, or other authority in the administration of subsection (h)(1)(B) of this section.
+
+#### (3) Availability for review
+
+&emsp;Each Internet safety policy adopted under this subsection shall be made available to the Commission, upon request of the Commission, by the school, school board, local educational agency, library, or other authority responsible for adopting such Internet safety policy for purposes of the review of such Internet safety policy by the Commission.
+
+#### (4) Effective date
+
+&emsp;This subsection shall apply with respect to schools and libraries on or after the date that is 120 days after December 21, 2000.
+
+(June 19, 1934, ch. 652, title II, §254, as added Pub. L. 104–104, title I, §101(a), Feb. 8, 1996, 110 Stat. 71; amended Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §709(a)(8)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–313; Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §§1721(a)–(d), 1732\], Dec. 21, 2000, 114 Stat. 2763, 2763A–343 to 2763A–350.)
 
 #### References in Text
 
 The Library Services and Technology Act, referred to in subsec. (h)(4), is subtitle B (§§211–263) of title II of Pub. L. 94–462, as added by Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–295, which is classified generally to subchapter II (§9121 et seq.) of chapter 72 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 9101 of Title 20 and Tables.
 
+For the effective date of this paragraph under section 1721(h) of the Children's Internet Protection Act, referred to in subsec. (h)(5)(E), (6)(E), as 120 days after Dec. 21, 2000, see §1(a)(4) \[div. B, title VII, §1721(h)\] of Pub. L. 106–554, set out as an Effective Date of 2000 Amendment note below.
+
+The effective date of this subsection, referred to in subsec. (h)(5)(E), (6)(E), probably means the effective date of subsec. (h)(5) and (6) which is 120 days after Dec. 21, 2000, see §1(a)(4) \[div. B, title VII, §1721(h)\] of Pub. L. 106–554, set out as an Effective Date of 2000 Amendment note below.
+
+Paragraph (25) of section 8801 of title 20, referred to in subsec. (h)(7)(A), was redesignated par. (26) by Pub. L. 106–554, §1(a)(4) \[div. B, title XVI, §1606(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–334.
+
 #### Amendments
+
+2000—Subsec. (h)(4). Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1721(d)\], substituted “paragraph (7)(A)” for “paragraph (5)(A)”.
+
+Subsec. (h)(5). Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1721(a)(2)\], added par. (5). Former par. (5) redesignated (7).
+
+Subsec. (h)(6). Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1721(b)\], added par. (6).
+
+Subsec. (h)(7). Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1721(a)(1)\], redesignated par. (5) as (7).
+
+Subsec. (h)(7)(D) to (I). Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1721(c)\], added subpars. (D) to (I).
+
+Subsec. (<i>l</i>). Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1732\], added subsec. (<i>l</i>).
 
 1996—Subsec. (h)(4). Pub. L. 104–208 substituted “library or library consortium not eligible for assistance from a State library administrative agency under the Library Services and Technology Act” for “library not eligible for participation in State-based plans for funds under title III of the Library Services and Construction Act (20 U.S.C. 335c et seq.)”.
 
+#### Effective Date of 2000 Amendment
+
+Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1721(h)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–350, provided that: “The amendments made by this section \[amending this section and enacting provisions set out as notes under this section and section 7001 of Title 20, Education\] shall take effect 120 days after the date of the enactment of this Act \[Dec. 21, 2000\].”
+
+#### Regulations
+
+Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1721(f)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–350, provided that:
+
+“(1)
+
+Requirement.—The Federal Communications Commission shall prescribe regulations for purposes of administering the provisions of paragraphs (5) and (6) of section 254(h) of the Communications Act of 1934 \[47 U.S.C. 254(h)\], as amended by this section.
+
+“(2)
+
+Deadline.—Notwithstanding any other provision of law, the Commission shall prescribe regulations under paragraph (1) so as to ensure that such regulations take effect 120 days after the date of the enactment of this Act \[Dec. 21, 2000\].”
+
+Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1733\], Dec. 21, 2000, 114 Stat. 2763, 2763A–351, provided that: “Not later than 120 days after the date of enactment of this Act \[Dec. 21, 2000\], the Federal Communications Commission shall prescribe regulations for purposes of section 254(<i>l</i>) of the Communications Act of 1934 \[47 U.S.C. 254(<i>l</i>)\], as added by section 1732 of this Act.”
+
+#### Separability
+
+Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1721(e)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–350, provided that: “If any provision of paragraph (5) or (6) of section 254(h) of the Communications Act of 1934 \[47 U.S.C. 254(h)\], as amended by this section, or the application thereof to any person or circumstance is held invalid, the remainder of such paragraph and the application of such paragraph to other persons or circumstances shall not be affected thereby.”
+
 #### Universal Service Fund Payment Schedule
 
-Pub. L. 105–33, title III, §3006, Aug. 5, 1997, 111 Stat. 269, related to appropriations to the Universal Service Fund in support of programs established pursuant to rules implementing this section and adjustment of payments by telecommunications carriers and other providers of interstate telecommunications prior to repeal by Pub. L. 105–119, title VI, §622, Nov. 26, 1997, 111 Stat. 2521. Section 622 of Pub. L. 105–119 provided further that: “This section shall be deemed a section of the Balanced Budget Act of 1997 \[Pub. L. 105–33, see Tablesfor classification\] for the purposes of section 10213 of that Act (111 Stat. 712) \[2 U.S.C. 902 note\], and shall be scored pursuant to paragraph (2) of such section.”
+Pub. L. 105–33, title III, §3006, Aug. 5, 1997, 111 Stat. 269, related to appropriations to the Universal Service Fund in support of programs established pursuant to rules implementing this section and adjustment of payments by telecommunications carriers and other providers of interstate telecommunications prior to repeal by Pub. L. 105–119, title VI, §622, Nov. 26, 1997, 111 Stat. 2521. Section 622 of Pub. L. 105–119 provided further that: “This section shall be deemed a section of the Balanced Budget Act of 1997 \[Pub. L. 105–33, see Tables for classification\] for the purposes of section 10213 of that Act (111 Stat. 712) \[2 U.S.C. 902 note\], and shall be scored pursuant to paragraph (2) of such section.”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 214, 251, 253, 271 of this title.
+This section is referred to in sections 214, 251, 253, 271 of this title; title 4 section 116; title 20 sections 7001, 9134.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

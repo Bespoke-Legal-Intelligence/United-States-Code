@@ -52,7 +52,7 @@
 
 (4) The Secretary of the Treasury may charge a fee sufficient to cover the full cost of implementing this subsection. The fee may be collected either by the retention of a portion of amounts collected pursuant to this subsection, or by billing the agency referring or transferring a claim for those amounts. Fees charged to the agencies shall be based on actual administrative offsets completed. Amounts received by the United States as fees under this subsection shall be deposited into the account of the Department of the Treasury under section 3711(g)(7) of this title, and shall be collected and accounted for in accordance with the provisions of that section.
 
-(5) The Secretary of the Treasury in consultation with the Commissioner of Social Securityand the Director of the Office of Management and Budget, may prescribe such rules, regulations, and procedures as the Secretary of the Treasury considers necessary to carry out this subsection. The Secretary shall consult with the heads of affected agencies in the development of such rules, regulations, and procedures.
+(5) The Secretary of the Treasury in consultation with the Commissioner of Social Security and the Director of the Office of Management and Budget, may prescribe such rules, regulations, and procedures as the Secretary of the Treasury considers necessary to carry out this subsection. The Secretary shall consult with the heads of affected agencies in the development of such rules, regulations, and procedures.
 
 (6) Any Federal agency that is owed by a person a past due, legally enforceable nontax debt that is over 180 days delinquent, including nontax debt administered by a third party acting as an agent for the Federal Government, shall notify the Secretary of the Treasury of all such nontax debts for purposes of administrative offset under this subsection.
 
@@ -142,7 +142,7 @@ In subsection (c)(2), the word “either” is omitted as surplus.
 
 The Higher Education Act of 1965, referred to in subsec. (c)(1)(C), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
-The Social Security Act, referred to in subsec. (c)(3)(A)(i)(I), (C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health andWelfare. Titles II, VIII, and XVI of the Act are classified generally to subchapters II (§401 et seq.), VIII (§1001 et seq.), and XVI (§1381 et seq.), respectively, of chapter 7 of Title 42. Sections 205(b)(1), 809(a)(1), and 1631(c)(1) of the Act are classified to sections 405(b)(1), 1009(a)(1), and 1383(c)(1), respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (c)(3)(A)(i)(I), (C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Titles II, VIII, and XVI of the Act are classified generally to subchapters II (§401 et seq.), VIII (§1001 et seq.), and XVI (§1381 et seq.), respectively, of chapter 7 of Title 42. Sections 205(b)(1), 809(a)(1), and 1631(c)(1) of the Act are classified to sections 405(b)(1), 1009(a)(1), and 1383(c)(1), respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The Black Lung Benefits Act, referred to in subsec. (c)(3)(A)(i)(II), is title IV of Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 792, as amended. Part B of the Act is classified generally to part B (§921 et seq.) of subchapter IV of chapter 22 of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see section 901(b) of Title 30 and Tables.
 
@@ -196,7 +196,7 @@ Section 1. <i>Administrative Offsets</i>. (a)(1) The Secretary of the Treasury (
 
 (c) The head of each executive department and agency that certifies payments to the Secretary or to another disbursing official shall review each class of payments that the department or agency certifies to determine if any such class should be exempt from offset and, if any class is so identified, submit to the Secretary a request for such an exemption together with the reasons therefor. With respect to classes of payments under means-tested programs existing on the date of this order, such submission shall be made within 30 days of the date of this order. With respect to classes of payments other than payments under means-tested programs existing on the date of this order, such submissions shall be made within 30 days of the date the Secretary establishes standards pursuant to section 3716(c)(3) of title 31, United States Code. With respect to a class of payments established after the date of this order, such submissions shall be made not later than 30 days after such class is established.
 
-(d) The head of each executive department and agency that certifies payments to the Secretary shall promptly implement any rule, regulation, or procedure issued by the Secretary pursuant to this section.
+(d) The head of each executive department and agency that certifies payments to the Secretary shallpromptly implement any rule, regulation, or procedure issued by the Secretary pursuant to this section.
 
 (e) The head of each executive department and agency that is authorized by law to disburse payments shall promptly implement any rule, regulation, or procedure issued by the Secretary pursuant to this section and shall:
 
@@ -244,5 +244,5 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3322, 3325, 3701, 3712, 3807 of this title; title 5 section 5514; title 10 section 2739; title 28 section 2415; title 30 section 1724; title 38 section 5301; title 42 section 404.
+This section is referred to in sections 3322, 3325, 3701, 3712, 3807 of this title; title 5 section 5514; title 10 sections 2636, 2739; title 28 section 2415; title 30 section 1724; title 38 section 5301; title 42 sections 404, 1008, 1383.
 

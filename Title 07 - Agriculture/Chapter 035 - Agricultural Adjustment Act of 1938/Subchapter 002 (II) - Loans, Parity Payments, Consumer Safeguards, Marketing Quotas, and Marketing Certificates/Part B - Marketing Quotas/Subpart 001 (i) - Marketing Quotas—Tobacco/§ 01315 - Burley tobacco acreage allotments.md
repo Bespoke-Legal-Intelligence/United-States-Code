@@ -24,7 +24,7 @@ Part of section 317(h) of act Feb. 16, 1938, ch. 30, title III, as added by Pub.
 
 &emsp;“(B) clause (1) of the Act of July 12, 1952 \[this section\], shall for such purpose read as follows: ‘(1) the allotment established for the farm for the last preceding year for which a quota was proclaimed on an acreage allotment basis’; and
 
-&emsp;“(C) the proviso of that Act \[this section\] shall for such purpose read as follows: <i>‘Provided, however</i>, That no allotment of seven-tenths of an acre or less shall be reduced more than one-tenth of an acre below the allotment established for the farm for the last preceding year for which a quota was proclaimed on an acreage allotment basis’.”
+&emsp;“(C) the proviso of that Act \[this section\] shall for such purpose read as follows: <i>‘Provided, however</i>, That no allotment of seven-tenths of an acre or less shallbe reduced more than one-tenth of an acre below the allotment established for the farm for the last preceding year for which a quota was proclaimed on an acreage allotment basis’.”
 
 #### Section Referred to in Other Sections
 

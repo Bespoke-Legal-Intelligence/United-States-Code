@@ -6,7 +6,43 @@
 
 (b)(1) Except as otherwise provided in this subsection, the provisions of subchapters III and VII of chapter 84 of this title shall apply with respect to employees and Members making contributions to the Thrift Savings Fund under subsection (a) of this section.
 
-(2) An employee or Member may contribute to the Thrift Savings Fund in any pay period any amount not exceeding 5 percent of the amount of the employee's or Member's basic pay for such period.
+(2)(A) An employee or Member may contribute to the Thrift Savings Fund in any pay period any amount not exceeding the maximum percentage of such employee's or Member's basic pay for such pay period allowable under subparagraph (B).
+
+(B) The maximum percentage allowable under this subparagraph shall be determined in accordance with the following table:
+
+<b>In the case of a pay period</b>
+
+<b>The maximum percent-</b>
+
+<b>beginning in fiscal year:</b>
+
+<b>  age allowable is:</b>
+
+&emsp;&emsp;2001
+
+6&nbsp;&nbsp;&nbsp;
+
+&emsp;&emsp;2002
+
+7&nbsp;&nbsp;&nbsp;
+
+&emsp;&emsp;2003
+
+8&nbsp;&nbsp;&nbsp;
+
+&emsp;&emsp;2004
+
+9&nbsp;&nbsp;&nbsp;
+
+&emsp;&emsp;2005
+
+10&nbsp;&nbsp;&nbsp;
+
+&emsp;&emsp;2006 or thereafter
+
+100\.&nbsp;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 (3) No contributions may be made by an employing agency for the benefit of an employee or Member under section 8432(c) of this title.
 
@@ -18,7 +54,7 @@
 
 (C) Subparagraph (B) may be waived with respect to a spouse if the employee or Member establishes to the satisfaction of the Executive Director of the Federal Retirement Thrift Investment Board that the whereabouts of such spouse cannot be determined.
 
-(D) Except with respect to the making of loans or withdrawals under section 8433(g) or (h), none of the provisions of this paragraph requiring notification to a spouse or former spouse of an employee, Member, former employee, or former Member shall apply in any case in which the nonforfeitable account balance of the employee, Member, former employee, or former Member is $3,500 or less.
+(D) Except with respect to the making of loans or withdrawals under section 8433(g) or (h), noneof the provisions of this paragraph requiring notification to a spouse or former spouse of an employee, Member, former employee, or former Member shall apply in any case in which the nonforfeitable account balance of the employee, Member, former employee, or former Member is $3,500 or less.
 
 (6) Notwithstanding paragraph (4), if an employee or Member separates from Government employment and such employee's or Member's nonforfeitable account balance is less than an amount that the Executive Director prescribes by regulation, the Executive Director shall pay the nonforfeitable account balance to the participant in a single payment.
 
@@ -40,17 +76,19 @@
 
 (e) The Executive Director of the Federal Retirement Thrift Investment Board may prescribe regulations to carry out this section.
 
-(Added Pub. L. 99–335, title II, §206(a)(1), June 6, 1986, 100 Stat. 593; amended Pub. L. 100–238, title I, §111(a), Jan. 8, 1988, 101 Stat. 1750; Pub. L. 101–335, §§3(b)(1), 6(b)(1), July 17, 1990, 104 Stat. 320, 323; Pub. L. 102–183, title III, §308(a), Dec. 4, 1991, 105 Stat. 1265; Pub. L. 102–484, div. D, title XLIV, §4437(c), Oct. 23, 1992, 106 Stat. 2724; Pub. L. 103–226, §9(a), (i)(1), (2), Mar. 30, 1994, 108 Stat. 118, 121; Pub. L. 103–353, §4(d), Oct. 13, 1994, 108 Stat. 3172; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §202\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–374; Pub. L. 106–65, div. A, title VI, §661(a)(3)(B), Oct. 5, 1999, 113 Stat. 671; Pub. L. 106–168, title II, §203(b), Dec. 12, 1999, 113 Stat. 1820.)
+(Added Pub. L. 99–335, title II, §206(a)(1), June 6, 1986, 100 Stat. 593; amended Pub. L. 100–238, title I, §111(a), Jan. 8, 1988, 101 Stat. 1750; Pub. L. 101–335, §§3(b)(1), 6(b)(1), July 17, 1990, 104 Stat. 320, 323; Pub. L. 102–183, title III, §308(a), Dec. 4, 1991, 105 Stat. 1265; Pub. L. 102–484, div. D, title XLIV, §4437(c), Oct. 23, 1992, 106 Stat. 2724; Pub. L. 103–226, §9(a), (i)(1), (2), Mar. 30, 1994, 108 Stat. 118, 121; Pub. L. 103–353, §4(d), Oct. 13, 1994, 108 Stat. 3172; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §202\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–374; Pub. L. 106–65, div. A, title VI, §661(a)(3)(B), Oct. 5, 1999, 113 Stat. 671; Pub. L. 106–168, title II, §203(b), Dec. 12, 1999, 113 Stat. 1820; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §138(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–234.)
 
-#### Contingent Amendment of Subsection (b)(8)(A)
+#### Amendment of Subsection (b)(8)(A)
 
-<i>Pub. L. 106–65, div. A, title VI, §§661(a)(3)(B)(ii), 663, Oct. 5, 1999, 113 Stat. 671, 673, provided that effective only if the President proposes in the 2001 fiscal year budget and there is enacted in the second session of the One Hundred Sixth Congress qualifying offsetting legislation, subsection (b)(8)(A) of this section is amended by striking the semicolon and inserting the following: “, except that the reference in section 8432b(b)(2)(B) to employee contributions under section 8432(a) shall be considered a reference to employee contributions under this subchapter and section 8440e;”.</i>
+<i>Pub. L. 106–65, div. A, title VI, §§661(a)(3)(B)(ii), 663, Oct. 5, 1999, 113 Stat. 671, 673, as amended by Pub. L. 106–398, §1 \[\[div. A\], title VI, §661(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–167, provided that effective 180 days after Oct. 30, 2000, unless postponed, subsection (b)(8)(A) of this section is amended by striking the semicolon and inserting the following: “, except that the reference in section 8432b(b)(2)(B) to employee contributions under section 8432(a) shall be considered a reference to employee contributions under this subchapter and section 8440e;”.</i>
 
 #### References in Text
 
 Section 103(6) of the Foreign Service Act of 1980, referred to in subsec. (c), is classified to section 3903(6) of Title 22, Foreign Relations and Intercourse.
 
 #### Amendments
+
+2000—Subsec. (b)(2). Pub. L. 106–554 designated existing provisions as subpar. (A), substituted “the maximum percentage of such employee's or Member's basic pay for such pay period allowable under subparagraph (B).” for “5 percent of the amount of the employee's or Member's basic pay for such period.”, and added subpar. (B).
 
 1999—Subsec. (b)(8). Pub. L. 106–65, §661(a)(3)(B)(i), and Pub. L. 106–168, amended subsec. (b) identically, redesignating par. (11) as (8).
 
@@ -70,7 +108,7 @@ Subsec. (b)(5). Pub. L. 103–226, §9(a)(2), (3), redesignated par. (7) as (5) 
 
 Subsec. (b)(5)(B) to (D). Pub. L. 103–226, §9(a)(4), (i)(1), (2), substituted “section 8433(g)” for “section 8433(i)” in subpars. (B) and (D) and struck out “or former spouse” after “spouse” in two places in subpar. (C).
 
-Subsec. (b)(6). Pub. L. 103–226, §9(a)(5), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “Notwithstanding paragraphs (4) and (5), if an employee or Member separates from Government employment under circumstances making such employee or Member eligible to make an election under subsection (b) or (c) of section 8433, and such employee's or Member's nonforfeitable account balance is $3,500 or less, the Executive Director shall pay the nonforfeitable account balance to the participant in a single payment unless the employee or Member elects, at such time and otherwise in such manner as the Executive Director prescribes, one of the options available under such subsection (b) or (c), as applicable.”
+Subsec. (b)(6). Pub. L. 103–226, §9(a)(5), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “Notwithstanding paragraphs (4) and (5), if anemployee or Member separates from Government employment under circumstances making such employee or Member eligible to make an election under subsection (b) or (c) of section 8433, and such employee's or Member's nonforfeitable account balance is $3,500 or less, the Executive Director shall pay the nonforfeitable account balance to the participant in a single payment unless the employee or Member elects, at such time and otherwise in such manner as the Executive Director prescribes, one of the options available under such subsection (b) or (c), as applicable.”
 
 Pub. L. 103–226, §9(a)(2), (3), redesignated par. (9) as (6) and struck out former par. (6) which read as follows: “Section 8433(d) of this title applies to any employee or Member who elects to make contributions to the Thrift Savings Fund under subsection (a) of this section and separates from the service before becoming entitled to an immediate or deferred annuity under this subchapter.”
 
@@ -98,11 +136,31 @@ Subsec. (b)(9), (10). Pub. L. 101–335, §6(b)(1)(A), added pars. (9) and (10).
 
 1988—Subsecs. (c), (d). Pub. L. 100–238 added subsec. (c) and redesignated former subsec. (c) as (d).
 
+#### Effective Date of 2000 Amendment
+
+Pub. L. 106–554, §1(a)(4) \[div. B, title I, §138(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–234, provided that:
+
+“(1)
+
+In general.—The amendments made by this section \[enacting section 8440f of this title and amending this section and sections 8432 and 8440a to 8440e of this title\] shall take effect on the date of enactment of this Act \[Dec. 21, 2000\].
+
+“(2)
+
+Coordination with election periods.—The Executive Director shall by regulation determine the first election period in which elections may be made consistent with the amendments made by this section.
+
+“(3)
+
+Definitions.—For purposes of this section—
+
+&emsp;“(A) the term ‘election period’ means a period afforded under section 8432(b) of title 5, United States Code; and
+
+&emsp;“(B) the term ‘Executive Director’ has the meaning given such term by section 8401(13) of title 5, United States Code.”
+
 #### Effective Date of 1999 Amendments
 
 Amendment by Pub. L. 106–168 applicable with respect to transfers occurring before, on, or after Dec. 12, 1999, with special rule for applying amendment with respect to transfers occurring before Dec. 12, 1999, see section 203(c) of Pub. L. 106–168, set out as an Effective Date note under section 8431 of this title.
 
-Amendment by section 661(a)(3)(B)(ii) of Pub. L. 106–65 effective only if the President proposes in the 2001 fiscal year budget and there is enacted in the second session of the One Hundred Sixth Congress qualifying offsetting legislation, see section 663 of Pub. L. 106–65, set out as an Effective Date note under section 8440e of this title.
+Amendment by section 661(a)(3)(B)(ii) of Pub. L. 106–65 effective 180 days after Oct. 30, 2000, unless postponed, see section 663 of Pub. L. 106–65, as amended, set out as an Effective Date note under section 8440e of this title.
 
 #### Effective Date of 1996 Amendment
 

@@ -14,7 +14,3 @@ The internal revenue laws, referred to in text, are classified generally to Titl
 
 Provisions similar to those comprising this section relating to Puerto Rico are classified to section 734a of this title.
 
-#### Cross References
-
-Industrial alcohol plants, application of internal revenue laws to Virgin Islands, see section 5314 of Title 26, Internal Revenue Code.
-

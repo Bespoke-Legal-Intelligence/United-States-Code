@@ -84,7 +84,7 @@ Subsec. (a)(5). Pub. L. 104–303, §201(a)(3), added par. (5).
 
 Subsec. (b). Pub. L. 104–303, §201(b), designated existing provisions as par. (1), inserted heading, realigned margins, and substituted “by the Secretary pursuant to this Act or any other law approved after November 17, 1986” for “pursuant to this Act”, and added par. (2).
 
-Subsec. (e)(1). Pub. L. 104–303, §201(c), substituted “including those necessary for dredged material disposalfacilities,” for “and to provide dredged material disposal areas”.
+Subsec. (e)(1). Pub. L. 104–303, §201(c), substituted “including those necessary for dredged material disposal facilities,” for “and to provide dredged material disposal areas”.
 
 Subsec. (f). Pub. L. 104–303, §201(d), added subsec. (f).
 

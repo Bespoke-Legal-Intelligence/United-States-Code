@@ -2,7 +2,7 @@
 
 #### (a) Submission; contractual nature of approval by Administrator; agreement on eligible costs; single grant
 
-(1) Each applicant for a grant shall submit to the Administrator for his approval, plans, specifications, and estimates for each proposed project for the construction of treatment works for which a grant is applied for under section 1281(g)(1) of this title from funds allotted to the State under section 1285 of this title and which otherwise meets the requirements of this chapter. The Administrator shall act upon such plans, specifications, and estimates as soon as practicable after the same have been submitted, and his approval of any such plans, specifications, and estimates shall be deemed a contractual obligation of the United States for the payment of its proportional contribution to such project.
+(1) Each applicant for a grant shall submit to the Administrator for his approval, plans, specifications, and estimates for each proposed project for the construction of treatment works for which a grant is applied for under section 1281(g)(1) of this title from funds allotted to the State under section 1285 of this title and whichotherwise meets the requirements of this chapter. The Administrator shall act upon such plans, specifications, and estimates as soon as practicable after the same have been submitted, and his approval of any such plans, specifications, and estimates shall be deemed a contractual obligation of the United States for the payment of its proportional contribution to such project.
 
 (2)
 
@@ -38,7 +38,7 @@ At the request of a grantee under this subchapter, the Administrator is authoriz
 
 #### (1) Agreement
 
-&emsp;Consistent with State law, an applicant who proposes to construct waste water treatmentworks may enter into an agreement with the Administrator under this subsection providing for the preparation of construction plans and specifications and the erection of such treatment works, in lieu of proceeding under the other provisions of this section.
+&emsp;Consistent with State law, an applicant who proposes to construct waste water treatment works may enter into an agreement with the Administrator under this subsection providing for the preparation of construction plans and specifications and the erection of such treatment works, in lieu of proceeding under the other provisions of this section.
 
 #### (2) Limitation on projects
 
@@ -102,7 +102,7 @@ Subsec. (f). Pub. L. 100–4, §204, added subsec. (f).
 
 1980—Subsec. (a). Pub. L. 96–483 substituted “$4,000,000” and “$5,000,000” for “$2,000,000” and “$3,000,000”, respectively.
 
-1977—Subsec. (a). Pub. L. 95–217, §18, provided that, in the case of a treatment works that has an estimated total cost of $2,000,000 or less (as determined by the Administrator), and the population of the applicant municipality is twenty-five thousand or less (according to the most recent United States census), upon completion of an approved facility plan, a single grant may be awarded for the combined Federal share of the cost of preparing construction plans and specifications, and the building and erection of the treatment works, andthat, if any State is found by the Administrator to have unusually high costs of construction, the Administrator may authorize a single grant where the estimated total cost of the treatment works does not exceed $3,000,000.
+1977—Subsec. (a). Pub. L. 95–217, §18, provided that, in the case of a treatment works that has an estimated total cost of $2,000,000 or less (as determined by the Administrator), and the population of the applicant municipality is twenty-five thousand or less (according to the most recent United States census), upon completion of an approved facility plan, a single grant may be awarded for the combined Federal share of the cost of preparing construction plans and specifications, and the building and erection of the treatment works, and that, if any State is found by the Administrator to have unusually high costs of construction, the Administrator may authorize a single grant where the estimated total cost of the treatment works does not exceed $3,000,000.
 
 Subsec. (e). Pub. L. 95–217, §19, added subsec. (e).
 

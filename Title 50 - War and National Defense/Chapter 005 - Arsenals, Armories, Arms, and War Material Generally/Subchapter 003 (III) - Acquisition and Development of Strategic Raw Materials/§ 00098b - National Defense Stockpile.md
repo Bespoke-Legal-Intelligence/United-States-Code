@@ -18,13 +18,13 @@ The President shall make the determinations required to be made under subsection
 
 #### Prior Provisions
 
-A prior section 98b, acts June 7, 1939, ch. 190, §3, 53 Stat. 811; July 23, 1946, ch. 590, 60 Stat. 597; Aug. 2, 1946, ch. 753, title I, §§102, 121, 60 Stat. 815, 822; June 30, 1949, ch. 288, title I, §102(a), 63 Stat. 380; 1953 Reorg. Plan No.3, §2(b), eff. June 12, 1953, 18 F.R. 3375, 67 Stat. 634; 1958 Reorg. Plan No. 1, §2, eff. July 1, 1958, 23 F.R. 4991, 72 Stat. 1799; Oct. 21, 1968, Pub. L. 90–608, §402, 82 Stat. 1194; Ex. Ord. No. 11725, §3, eff. June 29, 1973, 38 F.R. 17175, related to purchase, storage, refinement, rotation, and disposal of materials, prior to repeal by section 2(a) of Pub. L. 96–41. See section 98e of this title.
+A prior section 98b, acts June 7, 1939, ch. 190, §3, 53 Stat. 811; July 23, 1946, ch. 590, 60 Stat. 597; Aug. 2, 1946, ch. 753, title I, §§102, 121, 60 Stat. 815, 822; June 30, 1949, ch. 288, title I, §102(a), 63 Stat. 380; 1953 Reorg. Plan No. 3, §2(b), eff. June 12, 1953, 18 F.R. 3375, 67 Stat. 634; 1958 Reorg. Plan No. 1, §2, eff. July 1, 1958, 23 F.R. 4991, 72 Stat. 1799; Oct. 21, 1968, Pub. L. 90–608, §402, 82 Stat. 1194; Ex. Ord. No. 11725, §3, eff. June 29, 1973, 38 F.R. 17175, related to purchase, storage, refinement, rotation, and disposal of materials, prior to repeal by section 2(a) of Pub. L. 96–41. See section 98e of this title.
 
 Provisions similar to those in this section were contained in former section 98a of this title prior to repeal by Pub. L. 96–41.
 
 #### Amendments
 
-1996—Subsec. (c)(2). Pub. L. 104–201 substituted “after the end of the 45-day period beginning on” for “effective on or after the 30th legislative day following” and struck out at end “For purposes of this paragraph, a legislative day is a day on which both Houses of Congress are in session.”
+1996—Subsec. (c)(2). Pub. L. 104–201 substituted “after the end of the 45-day period beginning on” for “effective on or after the 30th legislative day following” andstruck out at end “For purposes of this paragraph, a legislative day is a day on which both Houses of Congress are in session.”
 
 1992—Subsec. (c)(2) to (5). Pub. L. 102–484 added par. (2) and struck out former pars. (2) to (5) which read as follows:
 
@@ -47,35 +47,6 @@ Subsec. (c). Pub. L. 100–180, §3202(a)(3), added subsec. (c) and struck out f
 #### Delegation of Functions
 
 Functions of the President under this section were delegated to the Secretary of Defense by section 1 of Ex. Ord. No. 12636, Feb. 25, 1988, 53 F.R. 6114, set out under section 98 of this title.
-
-#### Changes in Stockpile Requirements
-
-Pub. L. 101–189, div. C, title XXXIII, §3301, Nov. 29, 1989, 103 Stat. 1685, provided that: “Pursuant to section 3(c)(4) of the Strategic and Critical Materials Stock Piling Act (50 U.S.C. 98b(c)(4)), the National Defense Stockpile Manager may revise quantities of materials to be stockpiled under that Act \[50 U.S.C. 98 et seq.\] in accordance with the following table:
-
-&nbsp;
-
-| “Material | Current quantity | Revised quantity |
-| :--- | :---: | ---: |
-| Aluminum oxide, abrasive grain group | 638,000 short tons (contained) | 374,000 short tons (contained) |
-| Antimony | 36,000 short tons | 88,500 short tons |
-| Asbestos, amosite | 17,000 short tons | 0 short tons |
-| Bauxite, refractory | 1,400,000 long calcined tons | 1,240,000 long calcined tons |
-| Bismuth | 2,200,000 pounds | 1,060,000 pounds |
-| Chromite, refractory grade ore | 850,000 short dry tons | 695,000 short dry tons |
-| Columbium group | 4,850,000 pounds (contained) | 12,520,000 pounds (contained) |
-| Diamond, industrial group | 29,730,000 carats | 7,730,000 carats |
-| Fluorspar, acid grade | 1,400,000 short dry tons | 900,000 short dry tons |
-| Fluorspar, metallurgical grade | 1,700,000 short dry tons | 310,000 short dry tons |
-| Graphite, natural, malagasy, crystalline | 20,000 short tons | 14,200 short tons |
-| Graphite, natural, other than Ceylon and Malagasy | 2,800 short tons | 1,930 short tons |
-| Manganese, battery grade group | 87,000 short dry tons | 50,000 short dry tons |
-| Mica, muscovite block, stained and better | 6,200,000 pounds | 2,500,000 pounds |
-| Natural insulation fibers | 1,500,000 pounds | 0 pounds |
-| Platinum group metals, iridium | 98,000 troy ounces | 86,000 troy ounces |
-| Platinum group metals, palladium | 3,000,000 troy ounces | 2,150,000 troy ounces |
-| Quartz crystals | 600,000 pounds | 240,000 pounds |
-| Talc, steatite block and lump | 28 short tons | 0 short tons |
-| Tungsten group | 50,666,000 pounds (contained) | 70,900,000 pounds (contained)” |
 
 #### Section Referred to in Other Sections
 

@@ -54,7 +54,7 @@
 | (n) | Indefinite land use payments. |
 | (<i>o</i>) | Communicable disease control program. |
 | (p) | Trust funds. |
-| (q) | Annual reports on determinations under Compact section 313. |
+| (q) | Omitted. |
 | (r) | User fees. |
 | [1906\.](Subchapter%20001%20%28I%29%20-%20Micronesia%20and%20Marshall%20Islands/%C2%A7%2001906%20-%20Construction%20contract%20assistance.md) | Construction contract assistance. |
 | (a) | Assistance to U.S. firms. |

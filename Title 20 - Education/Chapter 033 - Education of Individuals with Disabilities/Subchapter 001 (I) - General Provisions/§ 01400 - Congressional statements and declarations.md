@@ -158,7 +158,7 @@ Section 1 of Pub. L. 105–17 provided that: “This Act \[enacting subchapters 
 
 #### Short Title of 1991 Amendment
 
-Pub. L. 102–119, §1, Oct. 7, 1991, 105 Stat. 587, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Individuals with Disabilities Education Act Amendments of 1991’.”
+Pub. L. 102–119, §1, Oct. 7, 1991, 105 Stat. 587, provided that: “This Act \[see Tables for classification\] may becited as the ‘Individuals with Disabilities Education Act Amendments of 1991’.”
 
 #### Short Title of 1990 Amendment
 
@@ -176,7 +176,7 @@ Pub. L. 99–372, §1, Aug. 5, 1986, 100 Stat. 796, provided that: “This Act \
 
 #### Short Title of 1983 Amendment
 
-Pub. L. 98–199, §1, Dec. 2, 1983, 97 Stat. 1357, provided: “That this Act \[enacting sections 1407 and 1427 of thistitle, amending sections 1401 to 1404, 1406, 1411 to 1414, 1416 to 1426, 1431 to 1435, 1441 to 1444, 1452, 1454, and 1461 of this title, repealing section 1461 of this title, omitting section 1436 of this title, enacting a provision set out as a note under section 1401 of this title, and amending provisions set out as notes under sections 101, 681, and 1411 of this title\] may be cited as the ‘Education of the Handicapped Act Amendments of 1983’.”
+Pub. L. 98–199, §1, Dec. 2, 1983, 97 Stat. 1357, provided: “That this Act \[enacting sections 1407 and 1427 of this title, amending sections 1401 to 1404, 1406, 1411 to 1414, 1416 to 1426, 1431 to 1435, 1441 to 1444, 1452, 1454, and 1461 of this title, repealing section 1461 of this title, omitting section 1436 of this title, enacting a provision set out as a note under section 1401 of this title, and amending provisions set out as notes under sections 101, 681, and 1411 of this title\] may be cited as the ‘Education of the Handicapped Act Amendments of 1983’.”
 
 #### Short Title of 1977 Amendment
 

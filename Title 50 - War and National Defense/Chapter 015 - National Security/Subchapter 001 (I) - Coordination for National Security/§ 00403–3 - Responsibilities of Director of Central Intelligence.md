@@ -118,7 +118,7 @@ Guidelines.—
 
 &emsp;“(1)
 
-Issuance.—Not later than 180 days after the date of enactment of this Act, the Director shallissue guidelines to ensure the use of uniform spelling of foreign names and places and the uniform use of geographic coordinates for such places. The guidelines shall apply to all intelligence reports, intelligence products, and intelligence databases prepared and utilized by the elements of the intelligence community.
+Issuance.—Not later than 180 days after the date of enactment of this Act, the Director shall issue guidelines to ensure the use of uniform spelling of foreign names and places and the uniform use of geographic coordinates for such places. The guidelines shall apply to all intelligence reports, intelligence products, and intelligence databases prepared and utilized by the elements of the intelligence community.
 
 &emsp;“(2)
 

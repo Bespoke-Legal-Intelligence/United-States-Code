@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-This chapter applies to all Federal and State law, and the implementation of that law, whether statutory or otherwise, and whether adopted before or after November 16, 1993.
+This chapter applies to all Federal law, and the implementation of that law, whether statutory or otherwise, and whether adopted before or after November 16, 1993.
 
 #### (b) Rule of construction
 
@@ -12,5 +12,9 @@ Federal statutory law adopted after November 16, 1993, is subject to this chapte
 
 Nothing in this chapter shall be construed to authorize any government to burden any religious belief.
 
-(Pub. L. 103–141, §6, Nov. 16, 1993, 107 Stat. 1489.)
+(Pub. L. 103–141, §6, Nov. 16, 1993, 107 Stat. 1489; Pub. L. 106–274, §7(b), Sept. 22, 2000, 114 Stat. 806.)
+
+#### Amendments
+
+2000—Subsec. (a). Pub. L. 106–274 struck out “and State” after “Federal”.
 

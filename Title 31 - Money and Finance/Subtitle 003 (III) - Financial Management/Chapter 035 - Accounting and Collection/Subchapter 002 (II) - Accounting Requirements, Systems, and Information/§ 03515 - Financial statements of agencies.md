@@ -1,6 +1,6 @@
 ### §3515. Financial statements of agencies
 
-(a) Not later than March 1 of 1997 and each year thereafter, the head of each executive agency identified in section 901(b) of this title shall prepare and submit to the Director of the Office of Management and Budget an audited financial statement for the preceding fiscal year, covering all accounts and associated activities of each office, bureau, and activity of the agency.
+(a) Not later than March 1 of 1997 and each year thereafter, the head of each executive agency identified in section 901(b) of this title shall prepare and submit to the Congress and the Director of the Office of Management and Budget an audited financial statement for the preceding fiscal year, covering all accounts and associated activities of each office, bureau, and activity of the agency.
 
 (b) Each audited financial statement of an executive agency under this section shall reflect—
 
@@ -12,21 +12,25 @@
 
 (d) The Director of the Office of Management and Budget shall prescribe the form and content of the financial statements of executive agencies under this section, consistent with applicable accounting and financial reporting principles, standards, and requirements.
 
-(e) The Director of the Office of Management and Budget may waive the application of all or part of subsection (a) for financial statements required for fiscal years 1996 and 1997.
-
-(f) Not later than March 1 of 1995 and 1996, the head of each executive agency identified in section 901(b) of this title and designated by the Director of the Office of Management and Budget shall prepare and submit to the Director of the Office of Management and Budget an audited financial statement for the preceding fiscal year, covering all accounts and associated activities of each office, bureau, and activity of the agency.
-
-(g) Not later than March 31 of 1995 and 1996, for executive agencies not designated by the Director of the Office of Management and Budget under subsection (f), the head of each executive agency identified in section 901(b) of this title shall prepare and submit to the Director of the Office of Management and Budget a financial statement for the preceding fiscal year, covering—
-
-&emsp;(1) each revolving fund and trust fund of the agency; and
-
-&emsp;(2) to the extent practicable, the accounts of each office, bureau, and activity of the agency which performed substantial commercial functions during the preceding fiscal year.
-
-(h) For purposes of subsection (g), the term “commercial functions” includes buying and leasing of real estate, providing insurance, making loans and loan guarantees, and other credit programs and any activity involving the provision of a service or thing for which a fee, royalty, rent, or other charge is imposed by an agency for services and things of value it provides.
-
-(Added Pub. L. 101–576, title III, §303(a)(1), Nov. 15, 1990, 104 Stat. 2849; amended Pub. L. 103–356, title IV, §405(a), Oct. 13, 1994, 108 Stat. 3415.)
+(Added Pub. L. 101–576, title III, §303(a)(1), Nov. 15, 1990, 104 Stat. 2849; amended Pub. L. 103–356, title IV, §405(a), Oct. 13, 1994, 108 Stat. 3415; Pub. L. 106–531, §4(a), Nov. 22, 2000, 114 Stat. 2539.)
 
 #### Amendments
+
+2000—Subsec. (a). Pub. L. 106–531, §4(a)(1), inserted “Congress and the” before “Director”.
+
+Subsecs. (e) to (h). Pub. L. 106–531, §4(a)(2), struck out subsecs. (e) to (h) which read as follows:
+
+“(e) The Director of the Office of Management and Budget may waive the application of all or part of subsection (a) for financial statements required for fiscal years 1996 and 1997.
+
+“(f) Not later than March 1 of 1995 and 1996, the head of each executive agency identified in section 901(b) of this title and designated by the Director of the Office of Management and Budget shall prepare and submit to the Director of the Office of Management and Budget an audited financial statement for the preceding fiscal year, covering all accounts and associated activities of each office, bureau, and activity of the agency.
+
+“(g) Not later than March 31 of 1995 and 1996, for executive agencies not designated by the Director of the Office of Management and Budget under subsection (f), the head of each executive agency identified in section 901(b) of this title shall prepare and submit to the Director of the Office of Management and Budget a financial statement for the preceding fiscal year, covering—
+
+&emsp;“(1) each revolving fund and trust fund of the agency; and
+
+&emsp;“(2) to the extent practicable, the accounts of each office, bureau, and activity of the agency which performed substantial commercial functions during the preceding fiscal year.
+
+“(h) For purposes of subsection (g), the term ‘commercial functions’ includes buying and leasing of real estate, providing insurance, making loans and loan guarantees, and other credit programs and any activity involving the provision of a service or thing for which a fee, royalty, rent, or other charge is imposed by an agency for services and things of value it provides.”
 
 1994—Pub. L. 103–356 amended section generally, revising and restating as subsecs. (a) to (h) provisions of former subsecs. (a) to (e) which required agency preparation and submission of annual financial statements, provided for form and contents of such statements, and defined term “commercial functions” for purposes of section.
 
@@ -44,5 +48,5 @@ Section 303(d), (e) of Pub. L. 101–576 directed specific departments, administ
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 902, 1116, 3512, 3521 of this title; title 7 section 136a–1; title 12 section 1709; title 36 section 2103; title 44 section 309.
+This section is referred to in sections 902, 3512, 3521 of this title; title 7 section 136a–1; title 12 section 1709; title 36 section 2103; title 44 section 309.
 

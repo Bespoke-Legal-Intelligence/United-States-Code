@@ -40,7 +40,7 @@ Owners or operators transporting hazardous material.—With regard to owners or 
 
 &emsp;(4)
 
-Secretary's discretion.—Except for owners or operators described in paragraphs (2) and (3), the Secretary may allow an owner or operator who is not fit to continue operating for an additional 60 days after the 61st day after the date of the Secretary's fitness determination, if the Secretary determines that such owner or operator is making a good faith effort to become fit.
+Secretary's discretion.—Except for owners or operators described in paragraphs (2) and (3), the Secretary may allow an owner or operator who is not fit to continue operating for an additional 60 days after the 61st dayafter the date of the Secretary's fitness determination, if the Secretary determines that such owner or operator is making a good faith effort to become fit.
 
 (d)
 
@@ -52,7 +52,7 @@ In general.—Not later than 45 days after an unfit owner or operator requests a
 
 &emsp;(2)
 
-Owners or operators transporting passengers.—Not later than 30 days after an unfit owner or operator of commercial motorvehicles designed or used to transport passengers requests a review, the Secretary shall review such owner's or operator's compliance with those requirements with which the owner or operator failed to comply and resulted in the Secretary determining that the owner or operator was not fit.
+Owners or operators transporting passengers.—Not later than 30 days after an unfit owner or operator of commercial motor vehicles designed or used to transport passengers requests a review, the Secretary shall review such owner's or operator's compliance with those requirements with which the owner or operator failed to comply and resulted in the Secretary determining that the owner or operator was not fit.
 
 &emsp;(3)
 

@@ -1,6 +1,6 @@
 ### §1428. Surrender of canceled naturalization certificate
 
-Whoever, having in his possession or control a certificate of naturalization or citizenship or a copy thereof which has been canceled as provided by law, fails to surrender the same after at least sixty days’ notice by the appropriate court or the Commissioner or Deputy Commissioner ofImmigration, shall be fined under this title or imprisoned not more than five years, or both.
+Whoever, having in his possession or control a certificate of naturalization or citizenship or a copy thereof which has been canceled as provided by law, fails to surrender the same after at least sixty days’ notice by the appropriate court or the Commissioner or Deputy Commissioner of Immigration, shall be fined under this title or imprisoned not more than five years, or both.
 
 (June 25, 1948, ch. 645, 62 Stat. 767; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 
@@ -19,10 +19,6 @@ Changes were made in phraseology.
 #### Transfer of Functions
 
 Functions of all other officers of Department of Justice and functions of all agencies and employees of such Department, with a few exceptions, transferred to Attorney General, with power vested, in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by Reorg. Plan No. 2, of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3173, 64 Stat. 1261, set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Cross References
-
-Limitations, period of, see section 3291 of this title.
 
 #### Section Referred to in Other Sections
 

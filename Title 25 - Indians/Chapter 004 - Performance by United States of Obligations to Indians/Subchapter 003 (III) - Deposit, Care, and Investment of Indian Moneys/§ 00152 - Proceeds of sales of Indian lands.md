@@ -8,10 +8,6 @@ All moneys received from the sales of lands that have been, or may be, ceded to 
 
 R.S. §2093 derived from act Jan. 9, 1837, ch. 1, §1, 5 Stat. 135.
 
-#### Cross References
-
-Proceeds of sales of Indian lands not subject to deductions for expenses of public land service, see section 154 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 153 of this title.

@@ -38,7 +38,7 @@ To investigate, from time to time, trade conditions in and with foreign countrie
 
 With respect to the International Antitrust Enforcement Assistance Act of 1994 \[15 U.S.C. 6201 et seq.\], to conduct investigations of possible violations of foreign antitrust laws (as defined in section 12 of such Act \[15 U.S.C. 6211\]).
 
-> <i>Provided</i>, That the exception of “banks, savings and loan institutions described in section 57a(f)(3) of this title, Federal credit unions described in section 57a(f)(4) of this title, and common carriers subject to the Act to regulate commerce” from the Commission's powers defined in clauses (a) and (b) of this section, shall not be construed to limit the Commission's authority to gather and compile information, to investigate, or to require reports or answers from, any person, partnership, or corporation to the extent that such action is necessary to the investigation of any person, partnership, or corporation, group of persons, partnerships, or corporations, or industry which is not engaged or is engaged only incidentally in banking, in business as a savings and loan institution, in business as a Federal credit union, or in business as a common carrier subject to the Act to regulate commerce.
+> <i>Provided</i>, That the exception of “banks, savings and loan institutions described in section 57a(f)(3) of this title, Federal credit unions described in section 57a(f)(4) of this title, and common carriers subject to the Act to regulate commerce” from the Commission's powers defined in clauses (a) and (b) of this section, shall not beconstrued to limit the Commission's authority to gather and compile information, to investigate, or to require reports or answers from, any person, partnership, or corporation to the extent that such action is necessary to the investigation of any person, partnership, or corporation, group of persons, partnerships, or corporations, or industry which is not engaged or is engaged only incidentally in banking, in business as a savings and loan institution, in business as a Federal credit union, or in business as a common carrier subject to the Act to regulate commerce.
 
 The Commission shall establish a plan designed to substantially reduce burdens imposed upon small businesses as a result of requirements established by the Commission under clause (b) relating to the filing of quarterly financial reports. Such plan shall (1) be established after consultation with small businesses and persons who use the information contained in such quarterly financial reports; (2) provide for a reduction of the number of small businesses required to file such quarterly financial reports; and (3) make revisions in the forms used for such quarterly financial reports for the purpose of reducing the complexity of such forms. The Commission, not later than December 31, 1980, shall submit such plan to the Committee on Commerce, Science, and Transportation of the Senate and to the Committee on Energy and Commerce of the House of Representatives. Such plan shall take effect not later than October 31, 1981.
 
@@ -46,7 +46,7 @@ No officer or employee of the Commission or any Commissioner may publish or disc
 
 Nothing in this section (other than the provisions of clause (c) and clause (d)) shall apply to the business of insurance, except that the Commission shall have authority to conduct studies and prepare reports relating to the business of insurance. The Commission may exercise such authority only upon receiving a request which is agreed to by a majority of the members of the Committee on Commerce, Science, and Transportation of the Senate or the Committee on Energy and Commerce of the House of Representatives. The authority to conduct any such study shall expire at the end of the Congress during which the request for such study was made.
 
-(Sept. 26, 1914, ch. 311, §6, 38 Stat. 721; Pub. L. 93–153, title IV, §408(e), Nov. 16, 1973, 87 Stat. 592; Pub. L. 93–637, title II, §§201(b), 202(b), 203(a), Jan. 4, 1975, 88 Stat. 2193, 2198; Pub. L. 96–37, §1(b), July 23, 1979, 93 Stat. 95; Pub. L. 96–252, §§3–5(a), May 28, 1980, 94 Stat. 374, 375; Pub. L.100–86, title VII, §715(a), (b), Aug. 10, 1987, 101 Stat. 655; Pub. L. 103–437, §5(a), Nov. 2, 1994, 108 Stat. 4582; Pub. L. 103–438, §3(e)(2)(A), Nov. 2, 1994, 108 Stat. 4598.)
+(Sept. 26, 1914, ch. 311, §6, 38 Stat. 721; Pub. L. 93–153, title IV, §408(e), Nov. 16, 1973, 87 Stat. 592; Pub. L. 93–637, title II, §§201(b), 202(b), 203(a), Jan. 4, 1975, 88 Stat. 2193, 2198; Pub. L. 96–37, §1(b), July 23, 1979, 93 Stat. 95; Pub. L. 96–252, §§3–5(a), May 28, 1980, 94 Stat. 374, 375; Pub. L. 100–86, title VII, §715(a), (b), Aug. 10, 1987, 101 Stat. 655; Pub. L. 103–437, §5(a), Nov. 2, 1994, 108 Stat. 4582; Pub. L. 103–438, §3(e)(2)(A), Nov. 2, 1994, 108 Stat. 4598.)
 
 #### References in Text
 
@@ -80,13 +80,13 @@ Subsec. (b). Pub. L. 93–637, §§201(b), 203(a)(2), substituted “in or whose
 
 Subsec. (g). Pub. L. 93–637, §202(b), inserted “(except as provided in section 57a(a)(2) of this title)” before “to make rules and regulations”.
 
-Pub. L. 93–637, §203(a)(3), in proviso following subsec. (h), substituted “any person, partnership, or corporation to the extent that such action is necessary to the investigation of any person, partnership, or corporation, group of persons, partnerships, or corporations,” for “any such corporation to the extent that such action is necessary to the investigation of any corporation, group of corporations,”.
+Pub. L. 93–637, §203(a)(3), in proviso following subsec. (h), substituted “any person, partnership, or corporation to the extent that such action is necessary to theinvestigation of any person, partnership, or corporation, group of persons, partnerships, or corporations,” for “any such corporation to the extent that such action is necessary to the investigation of any corporation, group of corporations,”.
 
 1973—Pub. L. 93–153 inserted proviso following subsec. (h) that the Commission's investigatory powers to gather and compile information, investigate, and require reports or answers is not curtailed as regards banks and common carriers when the investigation in question is an investigation of a corporation, group of corporations, or industry not engaged or engaged only incidentally in banking or in business as a common carrier subject to the Act to regulate commerce notwithstanding provisions excepting banks and common carriers subject to the Act from the exercise of the Commission's power to investigate and require reports from corporations.
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Effective Date of 1980 Amendment
 
@@ -113,12 +113,6 @@ By virtue of the authority vested in me by section 55(a) of the Internal Revenue
 This Executive Order shall be effective upon its filing for publication in the Federal Register.
 
 Dwight D. Eisenhower.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Cross References
-
-Enforcement by Federal Trade Commission of requirements imposed under section 1601 et seq. of this title, see section 1607 of this title.
-
-Jurisdiction, powers and duties of Secretary of Agriculture in enforcing the provisions of the Packers and Stockyards Act, application of this section to, see section 222 of Title 7, Agriculture.
 
 #### Section Referred to in Other Sections
 

@@ -10,9 +10,7 @@
 
 (c)(1) In the case of covered alcoholic beverage purchases of distilled spirits, to determine whether a nonappropriated fund instrumentality of the Department of Defense provides the most economical method of distribution to package stores, the Secretary of Defense shall consider all components of the distribution costs incurred by the nonappropriated fund instrumentality, such as overhead costs (including costs associated with management, logistics, administration, depreciation, and utilities), the costs of carrying inventory, and handling and distribution costs.
 
-(2) If the use of a private distributor would subject covered alcoholic beverage purchases of distilled spirits to direct or indirect State taxation, a nonappropriated fund instrumentality shall be considered to be the most economical method of distribution regardless of the results of the determination under paragraph (1).
-
-(3) The Secretary shall use the agencies performing audit functions on behalf of the armed forces and the Inspector General of the Department of Defense to make determinations under this subsection.
+(2) The Secretary shall use the agencies performing audit functions on behalf of the armed forces and the Inspector General of the Department of Defense to make determinations under this subsection.
 
 (d) In this section:
 
@@ -20,9 +18,11 @@
 
 &emsp;(2) The term “State” includes the District of Columbia.
 
-(Added Pub. L. 99–661, div. A, title III, §313(a), Nov. 14, 1986, 100 Stat. 3853; amended Pub. L. 100–180, div. A, title III, §312(a), Dec. 4, 1987, 101 Stat. 1073; Pub. L. 104–106, div. A, title III, §333, Feb. 10, 1996, 110 Stat. 261.)
+(Added Pub. L. 99–661, div. A, title III, §313(a), Nov. 14, 1986, 100 Stat. 3853; amended Pub. L. 100–180, div. A, title III, §312(a), Dec. 4, 1987, 101 Stat. 1073; Pub. L. 104–106, div. A, title III, §333, Feb. 10, 1996, 110 Stat. 261; Pub. L. 106–398, §1 \[\[div. A\], title III, §335\], Oct. 30, 2000, 114 Stat. 1654, 1654A–61.)
 
 #### Amendments
+
+2000—Subsec. (c)(2), (3). Pub. L. 106–398 redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “If the use of a private distributor would subject covered alcoholic beverage purchases of distilled spirits to direct or indirect State taxation, a nonappropriated fund instrumentality shall be considered to be the most economical method of distribution regardless of the results of the determination under paragraph (1).”
 
 1996—Subsec. (a)(1). Pub. L. 104–106, §333(a), inserted “and distributed in the most economical manner” after “most competitive source”.
 
@@ -36,9 +36,11 @@ Section 312(b) of Pub. L. 100–180 provided that: “The amendment made by subs
 
 #### Procurement of Malt Beverages and Wine by Nonappropriated Fund Activity
 
-Pub. L. 106–79, title VIII, §8132, Oct. 25, 1999, 113 Stat. 1266, provided that: “None of the funds appropriated bythis Act \[see Tables for classification\] shall be used for the support of any nonappropriated funds activity of the Department of Defense that procures malt beverages and wine with nonappropriated funds for resale (including such alcoholic beverages sold by the drink) on a military installation located in the United States unless such malt beverages and wine are procured within that State, or in the case of the District of Columbia, within the District of Columbia, in which the military installation is located: <i>Provided</i>, That in a case in which the military installation is located in more than one State, purchases may be made in any State in which the installation is located: <i>Provided further</i>, That such local procurement requirements for malt beverages and wine shall apply to all alcoholic beverages only for military installations in States which are not contiguous with another State: <i>Provided further</i>, That alcoholic beverages other than wine and malt beverages, in contiguous States and the District of Columbia shall be procured from the most competitive source, price and other factors considered.”
+Pub. L. 106–259, title VIII, §8108, Aug. 9, 2000, 114 Stat. 698, provided that: “None of the funds appropriated by this Act \[see Tables for classification\] shall be used for the support of any nonappropriated funds activity of the Department of Defense that procures malt beverages and wine with nonappropriated funds for resale (including such alcoholic beverages sold by the drink) on a military installation located in the United States unless such malt beverages and wine are procured within that State, or in the case of the District of Columbia, within the District of Columbia, in which the military installation is located: <i>Provided</i>, That in a case in which the military installation is located in more than one State, purchases may be made in any State in which the installation is located: <i>Provided further</i>, That such local procurement requirements for malt beverages and wine shall apply to all alcoholic beverages only for military installations in States which are not contiguous with another State: <i>Provided further</i>, That alcoholic beverages other than wine and malt beverages, in contiguous States and the District of Columbia shall be procured from the most competitive source, price and other factors considered.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 106–79, title VIII, §8132, Oct. 25, 1999, 113 Stat. 1266.
 
 Pub. L. 104–61, title VIII, §8055, Dec. 1, 1995, 109 Stat. 662.
 

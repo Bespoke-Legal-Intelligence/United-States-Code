@@ -38,7 +38,7 @@ Amount under pre-flat-rate reduction.—An amount equal to 21/2 percent of the f
 
 &emsp;&emsp;(B)
 
-Reserve-component annuity.—If the annuity coverage being provided is a reserve-component annuity, the reductionshall be in whichever of the following amounts is more favorable to that person:
+Reserve-component annuity.—If the annuity coverage being provided is a reserve-component annuity, the reduction shall be in whichever of the following amounts is more favorable to that person:
 
 &emsp;&emsp;&emsp;(i)
 
@@ -282,7 +282,7 @@ Subsec. (h)(2). Pub. L. 104–201, §635(a), added par. (2).
 
 Subsec. (a)(1). Pub. L. 101–189, §1402(a), added par. (1) and struck out former par. (1) which read as follows: “Except as provided in subsection (b), the retired pay of a person to whom section 1448 of this title applies who has a spouse or former spouse, or who has a spouse or former spouse and a dependent child, and who has not elected to provide an annuity to a person designated by him under section 1450(a)(4) of this title, or who had elected to provide such an annuity to such a person but has changed his election in favor of his spouse under section 1450(f) of this title, shall be reduced each month—
 
-&emsp;“(A) by an amount equal to 21/2 percent of the first $300 (as adjusted from time to time under paragraph\(4)) of the base amount plus 10 percent of the remainder of the base amount, if the person is providing a standard annuity; or
+&emsp;“(A) by an amount equal to 21/2 percent of the first $300 (as adjusted from time to time under paragraph (4)) of the base amount plus 10 percent of the remainder of the base amount, if the person is providing a standard annuity; or
 
 &emsp;“(B) by an amount prescribed under regulations of the Secretary of Defense, if the person is providing a reserve-component annuity.”
 
@@ -310,7 +310,7 @@ Pub. L. 99–145, §723(b)(2)(1), inserted “or former spouse” after first tw
 
 Subsec. (a)(2). Pub. L. 99–145, §714(a)(3), designated existing second sentence of subsec. (a) as par. (2), and substituted “If there is a dependent child as well as a spouse or former spouse, the amount prescribed under paragraph (1)” for “As long as there is an eligible spouse and a dependent child, that amount”.
 
-Subsec. (a)(3). Pub. L. 99–145, §714(a)(4), designated existing third sentence of subsec. (a) as par. (3), substituted “paragraph (1)” for “the first sentence of this subsection”, and inserted “or former spouse” after “eligible spouse”.
+Subsec. (a)(3). Pub. L. 99–145, §714(a)(4), designated existing third sentence of subsec. (a) as par. (3), substituted “paragraph (1)” for “the first sentence of thissubsection”, and inserted “or former spouse” after “eligible spouse”.
 
 Pub. L. 99–145, §719(8)(A), substituted “retired pay” for “retired or retainer pay”.
 
@@ -364,7 +364,7 @@ Section 1484(<i>l</i>)(4)(C) of Pub. L. 101–510 provided that the amendment ma
 
 Section 714(b) of title VII of Pub. L. 99–145 provided that: “The amendments made by clause (5) of subsection (a) \[amending this section\] shall apply only with respect to persons who first participate in the Plan on or after the effective date of this title \[see note below\].”
 
-Amendment by title VII of Pub. L. 99–145 effective Mar. 1, 1986, except as otherwise provided, with prohibition against accrual of benefits to any person by reasonof the enactment of such title VII for any period before Mar. 1, 1986, see section 731 of Pub. L. 99–145, set out as a note under section 1447 of this title.
+Amendment by title VII of Pub. L. 99–145 effective Mar. 1, 1986, except as otherwise provided, with prohibition against accrual of benefits to any person by reason of the enactment of such title VII for any period before Mar. 1, 1986, see section 731 of Pub. L. 99–145, set out as a note under section 1447 of this title.
 
 #### Effective Date of 1980 Amendment
 
@@ -404,7 +404,7 @@ Amount of recomputed premium.—The amount of an SBP premium recomputed under th
 
 “(4)
 
-SBP premium defined.—For purposes of this subsection, the term ‘SBP premium’ means a reduction in retired pay under section 1452 of title 10, United States Code.”
+SBP premium defined.—For purposes of this subsection, the term ‘SBP premium’ means a reduction inretired pay under section 1452 of title 10, United States Code.”
 
 #### Section Referred to in Other Sections
 

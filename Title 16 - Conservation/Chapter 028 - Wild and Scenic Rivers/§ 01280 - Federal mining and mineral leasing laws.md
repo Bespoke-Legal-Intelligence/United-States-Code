@@ -6,7 +6,7 @@ Nothing in this chapter shall affect the applicability of the United States mini
 
 &emsp;(i) all prospecting, mining operations, and all other activities on mining claims which, in the case of a component of the system designated in section 1274 of this title, have not heretofore been perfected or which, in the case of a component hereafter designated pursuant to this chapter or any other Act of Congress, are not perfected before its inclusion in the system and all mining operations and other activities under a mineral lease, license, or permit issued or renewed after inclusion of a component in the system shall be subject to such regulations as the Secretary of the Interior or, in the case of national forest lands, the Secretary of Agriculture may prescribe to effectuate the purposes of this chapter;
 
-&emsp;(ii) subject to valid existing rights, the perfection of, issuance of a patent to, any miningclaim affecting lands within the system shall confer or convey a right or title only to the mineral deposits and such rights only to the use of the surface and the surface resources as are reasonably required to carrying on prospecting or mining operations and are consistent with such regulations as may be prescribed by the Secretary of the Interior or, in the case of national forest lands, by the Secretary of Agriculture; and
+&emsp;(ii) subject to valid existing rights, the perfection of, issuance of a patent to, any mining claim affecting lands within the system shall confer or convey a right or title only to the mineral deposits and such rights only to the use of the surface and the surface resources as are reasonably required to carrying on prospecting or mining operations and are consistent with such regulations as may be prescribedby the Secretary of the Interior or, in the case of national forest lands, by the Secretary of Agriculture; and
 
 &emsp;(iii) subject to valid existing rights, the minerals in Federal lands which are part of the system and constitute the bed or bank or are situated within one-quarter mile of the bank of any river designated a wild river under this chapter or any subsequent Act are hereby withdrawn from all forms of appropriation under the mining laws and from operation of the mineral leasing laws including, in both cases, amendments thereto.
 
@@ -20,7 +20,7 @@ The minerals in any Federal lands which constitute the bed or bank or are situat
 
 #### References in Text
 
-The United States mineral leasing laws, referred to in text, have been defined in sections 351, 505, 530, and 541e of Title 30, Mineral Lands and Mining, to mean acts Oct. 20, 1914, ch. 330, 38 Stat. 741; Feb. 25, 1920, ch. 85, 41 Stat. 437; Apr. 17, 1926, ch. 158, 44 Stat. 301; and Feb. 7, 1927, ch. 66, 44 Stat. 1057. The act of Oct. 20, 1914, was repealed by Pub. L. 86–252, §1, Sept. 9, 1959, 73 Stat. 490. The act of Feb. 25, 1920, is generally known as the Mineral Leasing Act, and is classified generally to chapter 3A (§181 et seq.) of Title 30. The act of Apr. 17, 1926, is classified generally to subchapter VIII (§271 et seq.) of chapter 3A of Title 30. The act of Feb. 7, 1927, is classified principally to subchapter IX (§281 et seq.) of chapter 3A of Title 30. For complete classification of these Acts to the Code, see Tables.
+The United States mineral leasing laws, referred to in text, are classified generally to Title 30, Mineral Lands and Mining.
 
 #### Amendments
 

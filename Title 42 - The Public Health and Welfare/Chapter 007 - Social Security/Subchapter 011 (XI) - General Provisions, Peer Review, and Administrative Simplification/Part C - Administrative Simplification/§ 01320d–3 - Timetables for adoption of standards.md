@@ -8,7 +8,7 @@ The Secretary shall carry out section 1320d–2 of this title not later than 18 
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), the Secretary shall review the standards adoptedunder section 1320d–2 of this title, and shall adopt modifications to the standards (including additions to the standards), as determined appropriate, but not more frequently than once every 12 months. Any addition or modification to a standard shall be completed in a manner which minimizes the disruption and cost of compliance.
+&emsp;Except as provided in paragraph (2), the Secretary shall review the standards adopted under section 1320d–2 of this title, and shall adopt modifications to the standards (including additions to the standards), as determined appropriate, but not more frequently than once every 12 months. Any addition or modification to a standard shall be completed in a manner which minimizes the disruption and cost of compliance.
 
 #### (2) Special rules
 

@@ -36,10 +36,6 @@ Any finding by the President pursuant to subsection (a) or (b) of this section a
 
 (3) If the President determines to request the Secretary of Commerce to impose specified restrictions as provided for in subsection (c) of this section, the enforcement and penalty provisions of the Export Administration Act of 1969 shall apply, in lieu of this chapter, to any violation of such restrictions.
 
-#### (f) Quarterly reports to Congress
-
-The President shall submit quarterly reports to the Congress concerning the administration of this section and any findings made pursuant to subsection (a) or (b) of this section.
-
 (Pub. L. 94–163, title I, §103, Dec. 22, 1975, 89 Stat. 877; Pub. L. 96–72, §22(b)(1), Sept. 29, 1979, 93 Stat. 535.)
 
 #### References in Text
@@ -49,6 +45,10 @@ This chapter, referred to in subsecs. (a), (b), and (e)(3), was in the original 
 The Export Administration Act of 1979, referred to in subsec. (c), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, as amended, which is classified principally to section 2401 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 2401 of Title 50, Appendix, and Tables.
 
 The Export Administration Act of 1969, referred to in subsec. (e)(3), is Pub. L. 91–184, Dec. 30, 1969, 83 Stat. 841, as amended, which was formerly classified to sections 2401 to 2413 of Title 50, Appendix, and was terminated on Sept. 30, 1979, pursuant to the terms of that Act.
+
+#### Codification
+
+Subsec. (f) of this section, which required the President to submit quarterly reports to Congress concerning the administration of this section and any findings made pursuant to subsec. (a) or (b) of this section, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, the 5th item on page 19 of House Document No. 103–7.
 
 #### Amendments
 

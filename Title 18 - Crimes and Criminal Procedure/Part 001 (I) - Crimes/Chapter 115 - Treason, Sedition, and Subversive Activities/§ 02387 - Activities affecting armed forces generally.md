@@ -44,18 +44,6 @@ Coast Guard transferred to Department of Transportation and functions, powers, a
 
 Functions of all officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26, of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5, Government Organization and Employees. Such plan excepted from transfer functions of Coast Guard and Commandant thereof when Coast Guard is operating as a part of the Navy under section 1 and 3 of Title 14, Coast Guard.
 
-#### Canal Zone
-
-Applicability of section to Canal Zone, see section 14 of this title.
-
-#### Cross References
-
-Disqualification from holding any office of honor, trust, or profit, additional grounds for, see sections 592, 593, 1901, 2071, 2381, and 2385 of this title.
-
-Federal retirement benefits, forfeiture upon conviction of offenses described hereunder, see section 8312 of Title 5, Government Organization and Employees.
-
-Forfeiture of veterans’ benefits upon conviction under this section, see section 6105 of Title 38, Veterans’ Benefits.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 14 of this title; title 5 section 8312; title 38 section 6105; title 50 App. section 34.

@@ -14,6 +14,8 @@
 | [1074e.](%C2%A7%2001074e%20-%20Medical%20care%20certain%20Reserves%20who%20served%20in%20Southwest%20Asia%20during%20the%20Persian%20Gulf%20Conflict.md) | Medical care: certain Reserves who served in Southwest Asia during the Persian Gulf Conflict. |
 | [1074f.](%C2%A7%2001074f%20-%20Medical%20tracking%20system%20for%20members%20deployed%20overseas.md) | Medical tracking system for members deployed overseas. |
 | [1074g.](%C2%A7%2001074g%20-%20Pharmacy%20benefits%20program.md) | Pharmacy benefits program. |
+| [1074h.](%C2%A7%2001074h%20-%20Medical%20and%20dental%20care%20medal%20of%20honor%20recipients%3B%20dependents.md) | Medical and dental care: medal of honor recipients; dependents. |
+| [1074i.](%C2%A7%2001074i%20-%20Reimbursement%20for%20certain%20travel%20expenses.md) | Reimbursement for certain travel expenses. |
 | [1075\.](%C2%A7%2001075%20-%20Officers%20and%20certain%20enlisted%20members%20subsistence%20charges.md) | Officers and certain enlisted members: subsistence charges. |
 | [1076\.](%C2%A7%2001076%20-%20Medical%20and%20dental%20care%20for%20dependents%20general%20rule.md) | Medical and dental care for dependents: general rule. |
 | [1076a.](%C2%A7%2001076a%20-%20TRICARE%20dental%20program.md) | TRICARE dental program. |
@@ -47,6 +49,7 @@
 | [1095c.](%C2%A7%2001095c%20-%20TRICARE%20program%20facilitation%20of%20processing%20of%20claims.md) | TRICARE program: facilitation of processing of claims. |
 | [1095d.](%C2%A7%2001095d%20-%20TRICARE%20program%20waiver%20of%20certain%20deductibles.md) | TRICARE program: waiver of certain deductibles. |
 | [1095e.](%C2%A7%2001095e%20-%20TRICARE%20program%20beneficiary%20counseling%20and%20assistance%20coordinators.md) | TRICARE program: beneficiary counseling and assistance coordinators. |
+| [1095f.](%C2%A7%2001095f%20-%20TRICARE%20program%20referrals%20for%20specialty%20health%20care.md) | TRICARE program: referrals for specialty health care. |
 | [1096\.](%C2%A7%2001096%20-%20Military-civilian%20health%20services%20partnership%20program.md) | Military-civilian health services partnership program. |
 | [1097\.](%C2%A7%2001097%20-%20Contracts%20for%20medical%20care%20for%20retirees%2C%20dependents%2C%20and%20survivors%20alternative%20delivery%20of%20health%20care.md) | Contracts for medical care for retirees, dependents, and survivors: alternative delivery of health care. |
 | [1097a.](%C2%A7%2001097a%20-%20TRICARE%20Prime%20automatic%20enrollments%3B%20payment%20options.md) | TRICARE Prime: automatic enrollments; payment options. |
@@ -63,10 +66,15 @@
 | [1107\.](%C2%A7%2001107%20-%20Notice%20of%20use%20of%20an%20investigational%20new%20drug%20or%20a%20drug%20unapproved%20for%20its%20applied%20use.md) | Notice of use of an investigational new drug or a drug unapproved for its applied use. |
 | [1108\.](%C2%A7%2001108%20-%20Health%20care%20coverage%20through%20Federal%20Employees%20Health%20Benefits%20program%20demonstration%20project.md) | Health care coverage through Federal Employees Health Benefits program: demonstration project. |
 | [1109\.](%C2%A7%2001109%20-%20Organ%20and%20tissue%20donor%20program.md) | Organ and tissue donor program. |
+| [1110\.](%C2%A7%2001110%20-%20Anthrax%20vaccine%20immunization%20program%3B%20procedures%20for%20exemptions%20and%20monitoring%20reactions.md) | Anthrax vaccine immunization program; procedures for exemptions and monitoring reactions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2000—Pub. L. 106–398, §1 \[\[div. A\], title VII, §758(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–200, which directed addition of item 1074i after item relating to section 1074g, was executed by adding item 1074i after item 1074h to reflect the probable intent of Congress.
+
+Pub. L. 106–398, §1 \[\[div. A\], title VII, §§706(a)(2), 728(a)(2), 751(b)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–175, 1654A–189, 1654A–194, added items 1074h, 1095f, and 1110.
 
 1999—Pub. L. 106–65, div. A, title VII, §§701(a)(2), 711(b), 713(a)(2), 714(b), 715(a)(2), 716(a)(2), 722(b), Oct. 5, 1999, 113 Stat. 680, 687, 689–691, 695, added items 1073a, 1074g, 1076a, 1095c, 1095d, 1095e, and 1097b and struck out former items 1076a “Dependents’ dental program” and 1076b “Selected Reserve dental insurance”.
 
@@ -82,7 +90,7 @@ Pub. L. 104–106, div. A, title VII, §§705(a)(2), 735(d)(2), 738(b)(2), Feb. 
 
 1992—Pub. L. 102–484, div. D, title XLIV, §4408(a)(2), Oct. 23, 1992, 106 Stat. 2712, added item 1078a.
 
-1991—Pub. L. 102–190, div. A, title VI, §640(b), title VII, §§715(b), 716(a)(2), Dec. 5, 1991, 105 Stat. 1385, 1403, 1404, added item 1074b, redesignated former item 1074b as 1074c, and added items 1105 and 1106.
+1991—Pub. L. 102–190, div. A, title VI, §640(b), title VII, §§715(b), 716(a)(2), Dec. 5, 1991, 105 Stat. 1385, 1403,1404, added item 1074b, redesignated former item 1074b as 1074c, and added items 1105 and 1106.
 
 1990—Pub. L. 101–510, div. A, title VII, §713(d)(2)\[(3)\], Nov. 5, 1990, 104 Stat. 1584, substituted “Health care services incurred on behalf of covered beneficiaries: collection from third-party payers” for “Collection from third-party payers of reasonable inpatient hospital care costs incurred on behalf of retirees and dependents” in item 1095.
 
@@ -96,7 +104,7 @@ Pub. L. 100–26, §7(e)(2), Apr. 21, 1987, 101 Stat. 281, redesignated item 109
 
 Pub. L. 99–399, title VIII, §801(c)(2), Aug. 27, 1986, 100 Stat. 886, added item 1095 “Medical care: members held as captives and their dependents”.
 
-Pub. L. 99–272, title II, §2001(a)(2), Apr. 7, 1986, 100 Stat. 101, added item 1095 “Collection from third-partypayers of reasonable inpatient hospital care costs incurred on behalf of retirees and dependents”.
+Pub. L. 99–272, title II, §2001(a)(2), Apr. 7, 1986, 100 Stat. 101, added item 1095 “Collection from third-party payers of reasonable inpatient hospital care costs incurred on behalf of retirees and dependents”.
 
 1985—Pub. L. 99–145, title VI, §§651(a)(2), 653(a)(2), Nov. 8, 1985, 99 Stat. 656, 658, added items 1076a and 1094.
 
@@ -117,10 +125,6 @@ Pub. L. 99–272, title II, §2001(a)(2), Apr. 7, 1986, 100 Stat. 101, added ite
 1965—Pub. L. 89–264, §2, Oct. 19, 1965, 79 Stat. 989, substituted “executive department” for “uniformed service” in item 1085.
 
 1958—Pub. L. 85–861, §1(25)(A), (C), Sept. 2, 1958, 72 Stat. 1445, 1450, substituted “Medical and Dental Care” for “Voting by Members of Armed Forces” in heading of chapter, and substituted items 1071 to 1085 for former items 1071 to 1086.
-
-#### Cross References
-
-Third party tort liability to United States for hospital and medical care, see section 2651 et seq. of Title 42, The Public Health and Welfare.
 
 #### Chapter Referred to in Other Sections
 
@@ -143,6 +147,8 @@ This chapter is referred to in sections 129c, 1490 of this title; title 14 secti
 - [&sect; 01074e - Medical care certain Reserves who served in Southwest Asia during the Persian Gulf Conflict](%C2%A7%2001074e%20-%20Medical%20care%20certain%20Reserves%20who%20served%20in%20Southwest%20Asia%20during%20the%20Persian%20Gulf%20Conflict.md)
 - [&sect; 01074f - Medical tracking system for members deployed overseas](%C2%A7%2001074f%20-%20Medical%20tracking%20system%20for%20members%20deployed%20overseas.md)
 - [&sect; 01074g - Pharmacy benefits program](%C2%A7%2001074g%20-%20Pharmacy%20benefits%20program.md)
+- [&sect; 01074h - Medical and dental care medal of honor recipients; dependents](%C2%A7%2001074h%20-%20Medical%20and%20dental%20care%20medal%20of%20honor%20recipients%3B%20dependents.md)
+- [&sect; 01074i - Reimbursement for certain travel expenses](%C2%A7%2001074i%20-%20Reimbursement%20for%20certain%20travel%20expenses.md)
 - [&sect; 01075 - Officers and certain enlisted members subsistence charges](%C2%A7%2001075%20-%20Officers%20and%20certain%20enlisted%20members%20subsistence%20charges.md)
 - [&sect; 01076 - Medical and dental care for dependents general rule](%C2%A7%2001076%20-%20Medical%20and%20dental%20care%20for%20dependents%20general%20rule.md)
 - [&sect; 01076a - TRICARE dental program](%C2%A7%2001076a%20-%20TRICARE%20dental%20program.md)
@@ -176,6 +182,7 @@ This chapter is referred to in sections 129c, 1490 of this title; title 14 secti
 - [&sect; 01095c - TRICARE program facilitation of processing of claims](%C2%A7%2001095c%20-%20TRICARE%20program%20facilitation%20of%20processing%20of%20claims.md)
 - [&sect; 01095d - TRICARE program waiver of certain deductibles](%C2%A7%2001095d%20-%20TRICARE%20program%20waiver%20of%20certain%20deductibles.md)
 - [&sect; 01095e - TRICARE program beneficiary counseling and assistance coordinators](%C2%A7%2001095e%20-%20TRICARE%20program%20beneficiary%20counseling%20and%20assistance%20coordinators.md)
+- [&sect; 01095f - TRICARE program referrals for specialty health care](%C2%A7%2001095f%20-%20TRICARE%20program%20referrals%20for%20specialty%20health%20care.md)
 - [&sect; 01096 - Military-civilian health services partnership program](%C2%A7%2001096%20-%20Military-civilian%20health%20services%20partnership%20program.md)
 - [&sect; 01097 - Contracts for medical care for retirees, dependents, and survivors alternative delivery of health care](%C2%A7%2001097%20-%20Contracts%20for%20medical%20care%20for%20retirees%2C%20dependents%2C%20and%20survivors%20alternative%20delivery%20of%20health%20care.md)
 - [&sect; 01097a - TRICARE Prime automatic enrollments; payment options](%C2%A7%2001097a%20-%20TRICARE%20Prime%20automatic%20enrollments%3B%20payment%20options.md)
@@ -192,3 +199,4 @@ This chapter is referred to in sections 129c, 1490 of this title; title 14 secti
 - [&sect; 01107 - Notice of use of an investigational new drug or a drug unapproved for its applied use](%C2%A7%2001107%20-%20Notice%20of%20use%20of%20an%20investigational%20new%20drug%20or%20a%20drug%20unapproved%20for%20its%20applied%20use.md)
 - [&sect; 01108 - Health care coverage through Federal Employees Health Benefits program demonstration project](%C2%A7%2001108%20-%20Health%20care%20coverage%20through%20Federal%20Employees%20Health%20Benefits%20program%20demonstration%20project.md)
 - [&sect; 01109 - Organ and tissue donor program](%C2%A7%2001109%20-%20Organ%20and%20tissue%20donor%20program.md)
+- [&sect; 01110 - Anthrax vaccine immunization program; procedures for exemptions and monitoring reactions](%C2%A7%2001110%20-%20Anthrax%20vaccine%20immunization%20program%3B%20procedures%20for%20exemptions%20and%20monitoring%20reactions.md)

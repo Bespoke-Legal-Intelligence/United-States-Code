@@ -30,7 +30,7 @@ The Marine Protection, Research, and Sanctuaries Act, referred to in subsec. (a)
 
 #### Codification
 
-In subsec. (b), “chapter 51 of title 49” substituted for “the Hazardous Materials Transportation Act (88 Stat.2156) \[49 App. U.S.C. 1801 et seq.\]” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
+In subsec. (b), “chapter 51 of title 49” substituted for “the Hazardous Materials Transportation Act (88 Stat. 2156) \[49 App. U.S.C. 1801 et seq.\]” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 
 #### Amendments
 

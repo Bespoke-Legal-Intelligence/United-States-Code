@@ -38,17 +38,7 @@ Pub. L. 104–199, §1, Sept. 21, 1996, 110 Stat. 2419, provided that: “This A
 
 Section 48 of Pub. L. 86–70, June 25, 1959, 73 Stat. 154, provided that: “Whenever the phrase ‘continental United States’ is used in any law of the United States enacted after the date of enactment of this Act \[June 25, 1959\], it shall mean the 49 States on the North American Continent and the District of Columbia, unless otherwise expressly provided.”
 
-#### Federal Rules of Civil Procedure
-
-Affirmation in lieu of oath, see rule 43, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-#### Cross References
-
-Internal Revenue Code definitions, see section 7701 of Title 26, Internal Revenue Code.
-
-Person as including associations, see section 1401 of Title 19, Customs Duties; section 801 of Title 46, Appendix, Shipping; section 30 of Title 47, Telegraphs, Telephones, and Radiotelegraphs.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in title 10 section 101; title 16 section 2402; title 20 section 5607b; title 28 section 3701; title 30 sections 1511, 1531; title 31 section 5312; title 32 section 101; title 37 section 101; title 39 section 5215; title 49 sections 5102, 10102, 13102, 40102, 60101.
+This section is referred to in title 7 section 241; title 10 section 101; title 16 section 2402; title 20 section 5607b; title 28 section 3701; title 30 sections 1511, 1531; title 31 section 5312; title 32 section 101; title 37 section 101; title 39 section 5215; title 49 sections 5102, 10102, 13102, 40102, 60101.
 

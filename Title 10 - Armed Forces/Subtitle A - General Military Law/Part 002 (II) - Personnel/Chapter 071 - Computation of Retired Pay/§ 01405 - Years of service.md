@@ -64,7 +64,7 @@ The date of the enactment of the National Defense Authorization Act for Fiscal Y
 
 Subsec. (c). Pub. L. 103–337, §635(d), added subsec. (c).
 
-1986—Pub. L. 99–348 designated existing provision as subsec. (a), inserted heading, and in provision preceding par. (1) substituted “the computation of the years ofservice of a member of the armed forces under a provision of this title providing for such computation to be made under this section, the years of service of the member” for “section 1401 (formulas 4 and 5), 3991 (formula A), 3992 (formula B), 6151(b), 6323(e), 6325(a)(2) and (b)(2), 6383(c)(2), 8991 (formula A), or 8992 (formula B) of this title, the years of service of a member of the armed forces”, and added subsec. (b).
+1986—Pub. L. 99–348 designated existing provision as subsec. (a), inserted heading, and in provision preceding par. (1) substituted “the computation of the years of service of a member of the armed forces under a provision of this title providing for such computation to be made under this section, the years of service of the member” for “section 1401 (formulas 4 and 5), 3991 (formula A), 3992 (formula B), 6151(b), 6323(e), 6325(a)(2) and (b)(2), 6383(c)(2), 8991 (formula A), or 8992 (formula B) of this title, the years of service of a member of the armed forces”, and added subsec. (b).
 
 1982—Pub. L. 97–295, §1(17), substituted “3991 (formula A), 3992 (formula B)” for “3991 (formula B)”, struck out “or” first time appearing, and substituted “8991 (formula A), or 8992 (formula B)” for “8991 (formula B)”.
 
@@ -112,5 +112,5 @@ For provisions to prevent extinction or premature termination of rights, duties,
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1175, 1401, 3991, 3992, 6151, 6333, 6334 of this title; title 14 section 423; title 33 section 853<i>o.</i>
+This section is referred to in sections 1175, 1401, 3991, 3992, 6151, 6333, 6334 of this title; title 14 section 423; title 33 section 853<i>o</i>; title 37 section 322.
 

@@ -38,5 +38,5 @@ In subsection (a), before clause (1), the words “his functions under” are om
 
 #### References in Text
 
-The provisions of title 5 governing appointment in the competitive service, referred to in subsec. (a)(1), areclassified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
+The provisions of title 5 governing appointment in the competitive service, referred to in subsec. (a)(1), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
 

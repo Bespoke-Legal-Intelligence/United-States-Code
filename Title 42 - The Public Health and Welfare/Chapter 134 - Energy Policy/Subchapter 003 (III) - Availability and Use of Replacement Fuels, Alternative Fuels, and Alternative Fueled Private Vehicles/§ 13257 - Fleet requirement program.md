@@ -30,7 +30,7 @@
 
 > The Secretary shall provide for at least 3 regional hearings on the advance notice of proposed rulemaking, with respect to which official transcripts shall be maintained. The comment period in connection with such advance notice of proposed rulemaking shall be completed within 7 months after publication of the advance notice.
 
-(4) After the completion of such advance notice of proposed rulemaking, the Secretary shall publish in the Federal Register a proposed rule for the rule required under subsection (b) of this section, and shall provide for a public comment period, with hearings, of not less than 90 days.
+(4) After the completion of such advance notice of proposed rulemaking, the Secretary shall publish in the Federal Register a proposed rule for the rule required under subsection (b) of thissection, and shall provide for a public comment period, with hearings, of not less than 90 days.
 
 #### (b) Early rulemaking
 
@@ -76,7 +76,7 @@ Before May 1, 1999, the Secretary shall publish in the Federal Register a propos
 
 (1) Not later than January 1, 2000, the Secretary shall, through the rule required under subsection (g) of this section, determine whether a fleet requirement program is necessary under this section. Such a program shall be considered necessary and a rule therefor shall be promulgated if the Secretary finds that—
 
-&emsp;(A) the goal of replacement fuel use described in section 13252(b)(2)(B) of this title, as modified under section 13254 of this title, is not expected to be actually achieved by 2010, or such other date as is established under section 13254 of this title, by voluntary means or pursuant to this subchapter or any other law without such a fleet requirement program, taking into consideration the status of the achievement of the interim goal described in section 13252(b)(2)(A) of this title, as modified under section 13254 of this title; and
+&emsp;(A) the goal of replacement fuel use described in section 13252(b)(2)(B) of this title, as modified under section 13254 of this title, is not expected to be actually achieved by 2010,or such other date as is established under section 13254 of this title, by voluntary means or pursuant to this subchapter or any other law without such a fleet requirement program, taking into consideration the status of the achievement of the interim goal described in section 13252(b)(2)(A) of this title, as modified under section 13254 of this title; and
 
 &emsp;(B) such goal is practicable and actually achievable within periods specified in section 13252(b)(2) of this title, as modified under section 13254 of this title, through implementation of such a fleet requirement program in combination with voluntary means and the application of other programs relevant to achieving such goals.
 
@@ -134,7 +134,7 @@ Nothing in this subchapter or the amendments made by this subchapter shall requi
 
 #### (k) Inclusion of law enforcement vehicles and urban buses
 
-(1) If the Secretary determines, by rule, that the inclusion of fleets of law enforcement motor vehicles in the fleet requirement program established under subsection (g) of this section would contribute to achieving the goal described in section 13252(b)(2)(B) of this title, as modified under section 13254 of this title, and the Secretary finds that such inclusion would not hinder the use of the motor vehicles for law enforcement purposes, the Secretary may include such fleets in such program. The Secretary may only initiate one rulemaking under this paragraph.
+(1) If the Secretary determines, by rule, that the inclusion of fleets of law enforcement motorvehicles in the fleet requirement program established under subsection (g) of this section would contribute to achieving the goal described in section 13252(b)(2)(B) of this title, as modified under section 13254 of this title, and the Secretary finds that such inclusion would not hinder the use of the motor vehicles for law enforcement purposes, the Secretary may include such fleets in such program. The Secretary may only initiate one rulemaking under this paragraph.
 
 (2) If the Secretary determines, by rule, that the inclusion of new urban buses, as defined by the Administrator under title II of the Clean Air Act \[42 U.S.C. 7521 et seq.\], in a fleet requirement program established under subsection (g) of this section would contribute to achieving the goal described in section 13252(b)(2)(B) of this title, as modified under section 13254 of this title, the Secretary may include such urban buses in such program, if the Secretary finds that such application will be consistent with energy security goals and the needs and objectives of encouraging and facilitating the greater use of such urban buses by the public, taking into consideration the impact of such application on public transit entities. The Secretary may only initiate one rulemaking under this paragraph.
 
@@ -174,7 +174,7 @@ As part of the rule promulgated either pursuant to subsection (b) or (g) of this
 
 #### References in Text
 
-The Clean Air Act, referred to in subsecs. (b)(1)(C)(ii), (g)(4), and (k)(2), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of this title. Title II of the Act, known as the National Emission Standards Act, is classified generally to subchapter II (§7521 et seq.) of chapter 85 of this title. Part C of title II of the Act is classified generally to part C (§7581 et seq.) of chapter 85 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
+The Clean Air Act, referred to in subsecs. (b)(1)(C)(ii), (g)(4), and (k)(2), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of this title. Title II of the Act, known as the National Emission Standards Act, is classifiedgenerally to subchapter II (§7521 et seq.) of chapter 85 of this title. Part C of title II of the Act is classified generally to part C (§7581 et seq.) of chapter 85 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
 
 This subchapter, referred to in subsecs. (b)(1)(A), (e)(1)(A), (g)(3), (j), and (<i>o</i>)(2)(A), was in the original “this title” meaning title V of Pub. L. 102–486, Oct. 24, 1992, 102 Stat. 2887, which is classified generally to this subchapter.
 

@@ -2,7 +2,7 @@
 
 #### (a) Criteria for identification or listing
 
-Not later than eighteen months after October 21, 1976, the Administrator shall, after notice and opportunity for public hearing, and after consultation with appropriate Federal and State agencies, develop and promulgate criteria for identifying the characteristics of hazardous waste, and for listing hazardous waste, which should be subject to the provisions of this subchapter, taking into account toxicity, persistence, and degradability in nature, potential for accumulation in tissue, and other related factors such as flammability, corrosiveness, and other hazardous characteristics. Such criteria shall be revised from time to time as may be appropriate.
+Not later than eighteen months after October 21, 1976, the Administrator shall, after noticeand opportunity for public hearing, and after consultation with appropriate Federal and State agencies, develop and promulgate criteria for identifying the characteristics of hazardous waste, and for listing hazardous waste, which should be subject to the provisions of this subchapter, taking into account toxicity, persistence, and degradability in nature, potential for accumulation in tissue, and other related factors such as flammability, corrosiveness, and other hazardous characteristics. Such criteria shall be revised from time to time as may be appropriate.
 
 #### (b) Identification and listing
 
@@ -22,7 +22,7 @@ Not later than eighteen months after October 21, 1976, the Administrator shall, 
 
 &emsp;(i) Fly ash waste, bottom ash waste, slag waste, and flue gas emission control waste generated primarily from the combustion of coal or other fossil fuels.
 
-&emsp;(ii) Solid waste from the extraction, beneficiation, and processing of ores and minerals,including phosphate rock and overburden from the mining of uranium ore.
+&emsp;(ii) Solid waste from the extraction, beneficiation, and processing of ores and minerals, including phosphate rock and overburden from the mining of uranium ore.
 
 &emsp;(iii) Cement kiln dust waste.
 
@@ -32,7 +32,7 @@ Not later than eighteen months after October 21, 1976, the Administrator shall, 
 
 &emsp;(II) to provide chemical and physical analysis and composition of such wastes, based on available information, to be placed on the public record.
 
-(ii)(I) In conducting any study under subsection (f), (n), (<i>o</i>), or (p), of section 6982 of this title, any officer, employee, or authorized representative of the Environmental Protection Agency, duly designated by the Administrator, is authorized, at reasonable times and as reasonably necessary for the purposes of such study, to enter any establishment where any waste subject to such study is generated, stored, treated, disposed of, or transported from; to inspect, take samples, and conduct monitoring and testing; and to have access to and copy records relating to such waste. Each such inspection shall be commenced and completed with reasonable promptness. If the officer, employee, or authorized representative obtains any samples prior to leaving the premises, he shall give to the owner, operator, or agent in charge a receipt describing the sample obtained and if requested a portion of each such sample equal in volume or weight to the portion retained. If any analysis is made of such samples, or monitoring and testing performed, a copy of the results shall be furnished promptly to the owner, operator, or agent in charge.
+(ii)(I) In conducting any study under subsection (f), (n), (<i>o</i>), or (p), of section 6982 of this title, any officer, employee, or authorized representative of the Environmental Protection Agency, duly designated by the Administrator, is authorized, at reasonable times and as reasonably necessary for the purposes of such study, to enter any establishment where any waste subject to such study is generated, stored, treated,disposed of, or transported from; to inspect, take samples, and conduct monitoring and testing; and to have access to and copy records relating to such waste. Each such inspection shall be commenced and completed with reasonable promptness. If the officer, employee, or authorized representative obtains any samples prior to leaving the premises, he shall give to the owner, operator, or agent in charge a receipt describing the sample obtained and if requested a portion of each such sample equal in volume or weight to the portion retained. If any analysis is made of such samples, or monitoring and testing performed, a copy of the results shall be furnished promptly to the owner, operator, or agent in charge.
 
 (II) Any records, reports, or information obtained from any person under subclause (I) shall be available to the public, except that upon a showing satisfactory to the Administrator by any person that records, reports, or information, or particular part thereof, to which the Administrator has access under this subparagraph is made public, would divulge information entitled to protection under section 1905 of title 18, the Administrator shall consider such information or particular portion thereof confidential in accordance with the purposes of that section, except that such record, report, document, or information may be disclosed to other officers, employees, or authorized representatives of the United States concerned with carrying out this chapter. Any person not subject to the provisions of section 1905 of title 18 who knowingly and willfully divulges or discloses any information entitled to protection under this subparagraph shall, upon conviction, be subject to a fine of not more than $5,000 or to imprisonment not to exceed one year, or both.
 
@@ -52,7 +52,7 @@ At any time after the date eighteen months after October 21, 1976, the Governor 
 
 (2) The standards referred to in paragraph (1), including standards applicable to the legitimate use, reuse, recycling, and reclamation of such wastes, may vary from the standards applicable to hazardous waste generated by larger quantity generators, but such standards shall be sufficient to protect human health and the environment.
 
-(3) Not later than two hundred and seventy days after November 8, 1984, any hazardous waste which is part of a total quantity generated by a generator generating greater than one hundred kilograms but less than one thousand kilograms during one calendar month andwhich is shipped off the premises on which such waste is generated shall be accompanied by a copy of the Environmental Protection Agency Uniform Hazardous Waste Manifest form signed by the generator. This form shall contain the following information:
+(3) Not later than two hundred and seventy days after November 8, 1984, any hazardous waste which is part of a total quantity generated by a generator generating greater than one hundred kilograms but less than one thousand kilograms during one calendar month and which is shipped off the premises on which such waste is generated shall be accompanied by a copy of the Environmental Protection Agency Uniform Hazardous Waste Manifest form signed by the generator. This form shall contain the following information:
 
 &emsp;(A) the name and address of the generator of the waste;
 
@@ -66,7 +66,7 @@ At any time after the date eighteen months after October 21, 1976, the Governor 
 
 > If subparagraph (B) is not applicable, in lieu of the description referred to in such subparagraph (B), the form shall contain the Environmental Protection Agency identification number, or a generic description of the waste, or a description of the waste by hazardous waste characteristic. Additional requirements related to the manifest form shall apply only if determined necessary by the Administrator to protect human health and the environment.
 
-(4) The Administrator's responsibility under this subchapter to protect human health and the environment may require the promulgation of standards under this subchapter for hazardous wastes which are generated by any generator who does not generate more than one hundred kilograms of hazardous waste in a calendar month.
+(4) The Administrator's responsibility under this subchapter to protect human health and theenvironment may require the promulgation of standards under this subchapter for hazardous wastes which are generated by any generator who does not generate more than one hundred kilograms of hazardous waste in a calendar month.
 
 (5) Until the effective date of standards required to be promulgated under paragraph (1), any hazardous waste identified or listed under this section generated by any generator during any calendar month in a total quantity greater than one hundred kilograms but less than one thousand kilograms, which is not treated, stored, or disposed of at a hazardous waste treatment, storage, or disposal facility with a permit under section 6925 of this title, shall be disposed of only in a facility which is permitted, licensed, or registered by a State to manage municipal or industrial solid waste.
 
@@ -102,7 +102,7 @@ At any time after the date eighteen months after October 21, 1976, the Governor 
 
 (2)(A) To the maximum extent practicable the Administrator shall publish in the Federal Register a proposal to grant or deny a petition referred to in paragraph (1) within twelve months after receiving a complete application to exclude a waste generated at a particular facility from being regulated as a hazardous waste and shall grant or deny such a petition within twenty-four months after receiving a complete application.
 
-(B) The temporary granting of such a petition prior to November 8, 1984, without the opportunity for public comment and the full consideration of such comments shall not continue for more than twenty-four months after November 8, 1984. If a final decision to grant or deny such a petition has not been promulgated after notice and opportunity for public comment within the time limit prescribed by the preceding sentence, any such temporary granting of such petition shall cease to be in effect.
+(B) The temporary granting of such a petition prior to November 8, 1984, without the opportunity for public comment and the full consideration of such comments shall not continue for more than twenty-four months after November 8, 1984. If a final decision to grant or deny such a petition has not been promulgated after noticeand opportunity for public comment within the time limit prescribed by the preceding sentence, any such temporary granting of such petition shall cease to be in effect.
 
 #### (g) EP toxicity
 
@@ -158,7 +158,7 @@ For transfer of certain enforcement functions of Administrator or other official
 
 #### Ash Management and Disposal
 
-Pub. L. 101–549, title III, §306, Nov. 15, 1990, 104 Stat. 2584, provided that: “For a period of 2 years after the date of enactment of the Clean Air Act Amendments of 1990 \[Nov. 15, 1990\], ash from solid waste incinerationunits burning municipal waste shall not be regulated by the Administrator of the Environmental Protection Agency pursuant to section 3001 of the Solid Waste Disposal Act \[42 U.S.C. 6921\]. Such reference and limitation shall not be construed to prejudice, endorse or otherwise affect any activity by the Administrator following the 2-year period from the date of enactment of the Clean Air Act Amendments of 1990.”
+Pub. L. 101–549, title III, §306, Nov. 15, 1990, 104 Stat. 2584, provided that: “For a period of 2 years after the date of enactment of the Clean Air Act Amendments of 1990 \[Nov. 15, 1990\], ash from solid waste incineration units burning municipal waste shall not be regulated by the Administrator of the Environmental Protection Agency pursuant to section 3001 of the Solid Waste Disposal Act \[42 U.S.C. 6921\]. Such reference and limitation shall not be construed to prejudice, endorse or otherwise affect any activity by the Administrator following the 2-year period from the date of enactment of the Clean Air Act Amendments of 1990.”
 
 #### Small Quantity Generator Waste; Inform and Educate; Waste Generators
 
@@ -166,7 +166,7 @@ Section 221(b) of Pub. L. 98–616 directed Administrator of Environmental Prote
 
 #### Study of Existing Manifest System for Hazardous Wastes as Applicable to Small Quantity Generators; Submittal to Congress
 
-Section 221(d) of Pub. L. 98–616 directed Administrator of Environmental Protection Agency to cause to be studied the existing manifest system for hazardous wastes as it applies to small quantity generators and recommend whether the current system should be retained or whether a new system should be introduced, such study to include an analysis of the cost versus the benefits of the system studied as well as an analysis of the ease of retrieving and collating information and identifying a given substance, with any new proposal to include a list of those standards that are necessary to protect human health and the environment, and with such study to be submitted to Congress not later than Apr. 1, 1987.
+Section 221(d) of Pub. L. 98–616 directed Administrator of Environmental Protection Agency to cause to be studied the existing manifest system for hazardous wastes as it applies to small quantity generators and recommend whether the current system should be retained or whether a new system should be introduced, such study to include an analysis of the cost versus the benefits of the system studied as well as an analysis of the ease of retrieving and collating information and identifying a given substance, with any new proposal toinclude a list of those standards that are necessary to protect human health and the environment, and with such study to be submitted to Congress not later than Apr. 1, 1987.
 
 #### Administrative Burdens; Small Quantity Generators; Retention of Current System; Report to Congress
 

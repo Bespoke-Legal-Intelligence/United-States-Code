@@ -2,7 +2,7 @@
 
 In this subchapter:
 
-&emsp;(1) The term “defense intelligence position” means a civilian position as an intelligence officer or intelligence employee of an intelligence component of the Department of Defense or of a military department.
+&emsp;(1) The term “defense intelligence position” means a civilian position as an intelligence officer or intelligence employee of the Department of Defense.
 
 &emsp;(2) The term “intelligence component of the Department of Defense” means any of the following:
 
@@ -30,9 +30,11 @@ In this subchapter:
 
 &emsp;(7) The term “collective bargaining agreement” has the meaning given such term in section 7103(8) of title 5.
 
-(Added Pub. L. 104–201, div. A, title XVI, §1632(d), Sept. 23, 1996, 110 Stat. 2750; amended Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774.)
+(Added Pub. L. 104–201, div. A, title XVI, §1632(d), Sept. 23, 1996, 110 Stat. 2750; amended Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, §1 \[\[div. A\], title XI, §1141(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–319.)
 
 #### Amendments
+
+2000—Par. (1). Pub. L. 106–398 substituted “of the Department of Defense” for “of an intelligence component of the Department of Defense or of a military department”.
 
 1999—Par. (3)(B). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
 

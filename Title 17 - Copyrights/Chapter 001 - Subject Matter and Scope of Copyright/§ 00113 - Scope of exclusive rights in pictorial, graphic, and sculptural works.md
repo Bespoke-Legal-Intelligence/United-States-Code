@@ -36,7 +36,7 @@ The broad language of section 106(1) and of subsection (a) of section 113 raises
 
 The 1961 Report of the Register of Copyrights stated, on the basis of judicial precedent, that “copyright in a pictorial, graphic, or sculptural work, portraying a useful article as such, does not extend to the manufacture of the useful article itself,” and recommended specifically that “the distinctions drawn in this area by existing court decisions” not be altered by the statute. The Register's Supplementary Report, at page 48, cited a number of these decisions, and explained the insuperable difficulty of finding “any statutory formulation that would express the distinction satisfactorily.” Section 113(b) reflects the Register's conclusion that “the real need is to make clear that there is no intention to change the present law with respect to the scope of protection in a work portraying a useful article as such.”
 
-Section 113(c) provides that it would not be an infringement of copyright, where a copyright work has been lawfully published as the design of useful articles, to make, distribute or display pictures of the articles in advertising, in feature stories about the articles, or in the news reports.
+Section 113(c) provides that it would not be an infringement of copyright, where a copyright work has been lawfully published as the design of useful articles, to make, distribute or display pictures of the articlesin advertising, in feature stories about the articles, or in the news reports.
 
 In conformity with its deletion from the bill of Title II, relating to the protection of ornamental designs of useful articles, the Committee has deleted subsections (b), (c), and (d) of section 113 of S. 22 as adopted by the Senate, since they are no longer relevant.
 
@@ -51,10 +51,6 @@ Section 610(a) of the Visual Artists Rights Act of 1990 \[Pub. L. 101–650\], r
 #### Effective Date of 1990 Amendment
 
 Amendment by Pub. L. 101–650 effective 6 months after Dec. 1, 1990, see section 610 of Pub. L. 101–650, set out as an Effective Date note under section 106A of this title.
-
-#### Cross References
-
-Exclusive rights in copyrighted work, see section 106 of this title.
 
 #### Section Referred to in Other Sections
 

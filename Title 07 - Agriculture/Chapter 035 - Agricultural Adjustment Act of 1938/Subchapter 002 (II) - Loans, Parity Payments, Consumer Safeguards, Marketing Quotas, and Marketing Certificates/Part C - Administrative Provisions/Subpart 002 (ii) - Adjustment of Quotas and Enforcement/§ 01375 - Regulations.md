@@ -10,7 +10,3 @@
 
 1941—Subsec. (a). Act Apr. 3, 1941, inserted “peanuts,” after “rice,”.
 
-#### Cross References
-
-Delegation of regulatory functions of Secretary of Agriculture, see section 450c et seq. of this title.
-

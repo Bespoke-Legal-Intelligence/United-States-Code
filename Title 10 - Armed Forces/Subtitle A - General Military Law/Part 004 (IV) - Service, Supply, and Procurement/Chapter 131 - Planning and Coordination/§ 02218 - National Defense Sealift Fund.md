@@ -86,9 +86,9 @@ Authority for Certain Use of Funds.—Upon a determination by the Secretary of D
 
 (k)
 
-Contracts for Incorporation of Defense Features in Commercial Vessels.—(1) The head of an agency may enter into a contract with a company submitting an offer for that company to install and maintain defense features for national defense purposes in one or more commercial vessels owned or controlled by that company in accordance with the purpose for which funds in the National Defense Sealift Fund are available under subsection (c)(1)(C). The head of the agency may enter into such a contract only after the head of the agency makes a determination of the economic soundness of the offer.
+Contracts for Incorporation of Defense Features in Commercial Vessels.—(1) The head of an agency may enter into a contract with a company submitting an offer for that company to install and maintain defense features for national defense purposes in one or more commercial vessels owned or controlled by that company in accordance with the purpose for which funds in the National Defense Sealift Fund are available under subsection (c)(1)(C). The head of the agency may enter into such a contract only after the head of the agency makes a determination of the economic soundness of the offer. As consideration for a contract with the head of an agency under this subsection, the company entering into the contract shall agree with the Secretary of Defense to make any vessel covered by the contract available to the Secretary, fully crewed and ready for sea, at any time at any port determined by the Secretary, and for whatever duration the Secretary determines necessary.
 
-(2) The head of an agency may make advance payments to the contractor under a contract under paragraph (1) in a lump sum, in annual payments, or in a combination thereof for costs associated with the installation and maintenance of the defense features on a vessel covered by the contract, as follows:
+(2) The head of an agency may make advance payments to the contractor under a contractunder paragraph (1) in a lump sum, in annual payments, or in a combination thereof for costs associated with the installation and maintenance of the defense features on a vessel covered by the contract, as follows:
 
 &emsp;(A) The costs to build, procure, and install a defense feature in the vessel.
 
@@ -97,6 +97,8 @@ Contracts for Incorporation of Defense Features in Commercial Vessels.—(1) The
 &emsp;(C) Any increased costs of operation or any loss of revenue attributable to the installation or maintenance of any defense feature on the vessel.
 
 &emsp;(D) Any additional costs associated with the terms and conditions of the contract.
+
+&emsp;(E) Payments of such sums as the Government would otherwise expend, if the vessel were placed in the Ready Reserve Fleet, for maintaining the vessel in the status designated as “ROS–4 status” in the Ready Reserve Fleet for 25 years.
 
 (3) For any contract under paragraph (1) under which the United States makes advance payments under paragraph (2) for the costs associated with installation or maintenance of any defense feature on a commercial vessel, the contractor shall provide to the United States such security interests in the vessel, by way of a preferred mortgage under section 31322 of title 46 or otherwise, as the head of the agency may prescribe in order to adequately protect the United States against loss for the total amount of those costs.
 
@@ -108,6 +110,8 @@ Contracts for Incorporation of Defense Features in Commercial Vessels.—(1) The
 
 (5) The head of an agency may not delegate authority under this subsection to any officer or employee in a position below the level of head of a procuring activity.
 
+(6) The head of an agency may not enter into a contract under paragraph (1) that would provide for payments to the contractor as authorized in paragraph (2)(E) until notice of the proposed contract is submitted to the congressional defense committees and a period of 90 days has elapsed.
+
 (<i>l</i>)
 
 Definitions.—In this section:
@@ -116,7 +120,7 @@ Definitions.—In this section:
 
 &emsp;(2) The term “Department of Defense sealift vessel” means any ship owned, operated, controlled, or chartered by the Department of Defense that is any of the following:
 
-&emsp;&emsp;(A) A fast sealift ship, including any vessel in the Fast Sealift Program establishedunder section 1424 of Public Law 101–510 (104 Stat. 1683).
+&emsp;&emsp;(A) A fast sealift ship, including any vessel in the Fast Sealift Program established under section 1424 of Public Law 101–510 (104 Stat. 1683).
 
 &emsp;&emsp;(B) A maritime prepositioning ship.
 
@@ -148,7 +152,7 @@ Definitions.—In this section:
 
 &emsp;(5) The term “head of an agency” has the meaning given that term in section 2302(1) of this title.
 
-(Added Pub. L. 102–484, div. A, title X, §1024(a)(1), Oct. 23, 1992, 106 Stat. 2486; amended Pub. L. 102–396, title V, Oct. 6, 1992, 106 Stat. 1896; Pub. L. 104–106, div. A, title X, §1014(a), title XV, §1502(a)(15), Feb. 10, 1996, 110 Stat. 423, 503; Pub. L. 106–65, div. A, title X, §§1014(b), 1015, 1067(1), Oct. 5, 1999, 113 Stat. 742, 743, 774.)
+(Added Pub. L. 102–484, div. A, title X, §1024(a)(1), Oct. 23, 1992, 106 Stat. 2486; amended Pub. L. 102–396, title V, Oct. 6, 1992, 106 Stat. 1896; Pub. L. 104–106, div. A, title X, §1014(a), title XV, §1502(a)(15), Feb. 10, 1996, 110 Stat. 423, 503; Pub. L. 106–65, div. A, title X, §§1014(b), 1015, 1067(1), Oct. 5, 1999, 113 Stat. 742, 743, 774; Pub. L. 106–398, §1 \[\[div. A\], title X, §1011\], Oct. 30, 2000, 114 Stat. 1654, 1654A–251.)
 
 #### References in Text
 
@@ -159,6 +163,12 @@ Section 1424 of Public Law 101–510, referred to in subsecs. (d)(3), (f)(2), an
 Pub. L. 102–396, title V, Oct. 6, 1992, 106 Stat. 1896, provided that section 1024 of the National Defense Authorization Act for Fiscal Year 1993 \[H.R. 5006, Pub. L. 102–484\], as it passed the Senate on Oct. 3, 1992, shall be amended in subsection 2218(c)(2) proposed for inclusion in this chapter by deleting all after “expended only” down to and including “appropriations Act” and inserting in lieu thereof “in amounts authorized by law”. It further provided that for purposes of that amendment, Pub. L. 102–396 shall be treated as having been enacted after Pub. L. 102–484, regardless of the actual dates of enactment. The date of Oct. 3, 1992, referred to as the date the Senate passed the National Defense Authorization Act for Fiscal Year 1993, apparently is based on an order adopted by the Senate on Oct. 3, 1992 \[Cong. Rec., vol. 138, p. 30919\] providing that when the conference report on the National Defense Authorization Act for Fiscal Year 1993 was received by the Senate from the House of Representatives it would be deemed to have been agreed to. On Oct. 5, 1992, the Senate received the conference report from the House, and it was considered adopted pursuant to that order \[Cong. Rec., vol. 138, p. 31565\].
 
 #### Amendments
+
+2000—Subsec. (k)(1). Pub. L. 106–398, §1 \[\[div. A\], title X, §1011(1)\], inserted at end “As consideration for a contract with the head of an agency under this subsection, the company entering into the contract shall agree with the Secretary of Defense to make any vessel covered by the contract available to the Secretary, fully crewed and ready for sea, at any time at any port determined by the Secretary, and for whatever duration the Secretary determines necessary.”
+
+Subsec. (k)(2)(E). Pub. L. 106–398, §1 \[\[div. A\], title X, §1011(2)\], added subpar. (E).
+
+Subsec. (k)(6). Pub. L. 106–398, §1 \[\[div. A\], title X, §1011(3)\], added par. (6).
 
 1999—Subsec. (k). Pub. L. 106–65, §1015(a)(2), added subsec. (k). Former subsec. (k) redesignated (<i>l</i>).
 

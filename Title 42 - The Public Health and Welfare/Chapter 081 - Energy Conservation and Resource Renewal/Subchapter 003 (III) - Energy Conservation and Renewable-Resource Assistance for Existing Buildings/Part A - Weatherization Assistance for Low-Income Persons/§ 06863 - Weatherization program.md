@@ -26,7 +26,7 @@ The Secretary shall develop and conduct, in accordance with the purpose and prov
 
 > Such standards shall be utilized by the Secretary in carrying out this part, the Secretary of Agriculture in carrying out the weatherization program under section 1474(c) of this title, and the Director of the Community Services Administration in carrying out weatherization programs under section 222(a)(12) of the Economic Opportunity Act of 1964 \[42 U.S.C. 2809(a)(12)\]. The Secretary shall take into consideration comments submitted regarding such proposed amendment and shall promulgate and publish final amended regulations not later than 120 days after November 9, 1978.
 
-(4) In carrying out paragraphs (2)(A) and (3), the Secretary shall establish the standards and procedures described in such paragraphs so that weatherization efforts being carried out under this part and under programs described in the fourth sentence of paragraph (3) will accomplish uniform results among the States in any area with a similar climatic condition.
+(4) In carrying out paragraphs (2)(A) and (3), the Secretary shall establish the standards andprocedures described in such paragraphs so that weatherization efforts being carried out under this part and under programs described in the fourth sentence of paragraph (3) will accomplish uniform results among the States in any area with a similar climatic condition.
 
 (5) In any case in which a dwelling consists of a rental unit or rental units, the State, in the implementation of this part, shall ensure that—
 
@@ -60,13 +60,13 @@ Notwithstanding any other provision of law, the Secretary may transfer to the Di
 
 #### References in Text
 
-The Economic Opportunity Act of 1964, referred to in subsecs. (b)(3), (c), and (e), is Pub. L. 88–452, Aug. 20,1964, 78 Stat. 508, as amended. Title II of the Economic Opportunity Act of 1964 was classified generally to subchapter II (§2781 et seq.) of chapter 34 of this title prior to repeal by Pub. L. 97–35, title VI, §683(a), Aug. 13, 1981, 95 Stat. 519. Prior to that repeal, section 222(a)(12) of that Act \[42 U.S.C. 2809(a)(12)\] was redesignated as section 222(a)(5) \[42 U.S.C. 2809(a)(5)\] by Pub. L. 95–568, §5(a)(2)(E), Nov. 2, 1978, 94 Stat. 2426. For complete classification of this Act to the Code, see Tables.
+The Economic Opportunity Act of 1964, referred to in subsecs. (b)(3), (c), and (e), is Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508, as amended. Title II of the Economic Opportunity Act of 1964 was classified generally to subchapter II (§2781 et seq.) of chapter 34 of this title prior to repeal by Pub. L. 97–35, title VI, §683(a), Aug. 13, 1981, 95 Stat. 519. Prior to that repeal, section 222(a)(12) of that Act \[42 U.S.C. 2809(a)(12)\] was redesignated as section 222(a)(5) \[42 U.S.C. 2809(a)(5)\] by Pub. L. 95–568, §5(a)(2)(E), Nov. 2, 1978, 94 Stat. 2426. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
 1993—Subsec. (b)(1). Pub. L. 103–82 struck out “the Director of the ACTION Agency,” after “Labor,”.
 
-1990—Subsec. (b)(2)(B), (C). Pub. L. 101–440, §7(b)(1), added subpars. (B) and (C) and struck out former subpar. (B) which read as follows: “designed to insure that (i) the benefits of weatherization assistance in connection with leased dwelling units will accrue primarily to low-income tenants; (ii) the rents on such dwelling units will not be raised because of any increase in the value thereof due solely to weatherization assistance provided under this part; and (iii) no undue or excessive enhancement will occur to the value of such dwelling units.”
+1990—Subsec. (b)(2)(B), (C). Pub. L. 101–440, §7(b)(1), added subpars. (B) and (C) and struck out former subpar. (B) which read as follows: “designed to insure that (i) the benefits of weatherization assistance in connection with leased dwelling units will accrue primarily to low-income tenants; (ii) the rents on such dwelling units will not be raised because of any increase in the value thereof due solely to weatherization assistance provided under this part; and (iii) no undue or excessiveenhancement will occur to the value of such dwelling units.”
 
 Subsec. (b)(5), (6). Pub. L. 101–440, §7(b)(2), added pars. (5) and (6).
 
@@ -90,9 +90,11 @@ Subsec. (b)(3). Pub. L. 95–619, §231(b)(1), added par. (3).
 
 Amendment by Pub. L. 103–82 effective Apr. 4, 1994, see section 406(b) of Pub. L. 103–82, set out as a note under section 8332 of Title 5, Government Organization and Employees.
 
-#### Weatherization Assistance Grants
+#### Weatherization Assistance Grants Cost Sharing
 
-Pub. L. 106–113, div. B, §1000(a)(3) \[title II\], Nov. 29, 1999, 113 Stat. 1535, 1501A–180, provided in part: “That, notwithstanding any other provision of law, in fiscal year 2001 and thereafter sums appropriated for weatherization assistance grants shall be contingent on a cost share of 25 percent by each participating State or other qualified participant.”
+Pub. L. 106–291, title II, Oct. 11, 2000, 114 Stat. 976, provided in part: “That, hereafter, Indian tribal direct grantees of weatherization assistance shall not be required to provide matching funds.”
+
+Provisions of Pub. L. 106–113, div. B, §1000(a)(3) \[title II\], Nov. 29, 1999, 113 Stat. 1535, 1501A–180, which provided that sums appropriated for weatherization assistance grants were to be contingent on a cost share of 25 percent by each participating State or other qualified participant, were repealed by Pub. L. 106–469, title VI, §601(a), Nov. 9, 2000, 114 Stat. 2040.
 
 #### Community Services Administration
 

@@ -20,7 +20,7 @@ Public Law 84–99, referred to in subsec. (b), is act June 28, 1955, ch. 194, 6
 
 Section was enacted as part of the Dam Safety Act of 1986, and also as part of the Water Resources Development Act of 1986, and not as part of Pub. L. 92–367 which comprises this subchapter.
 
-#### Definitions
+#### “Secretary” Defined
 
 Secretary means the Secretary of the Army, see section 2201 of this title.
 

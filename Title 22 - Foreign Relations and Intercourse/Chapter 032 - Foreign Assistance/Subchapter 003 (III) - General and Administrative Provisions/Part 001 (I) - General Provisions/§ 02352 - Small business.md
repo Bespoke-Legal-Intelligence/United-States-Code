@@ -2,9 +2,9 @@
 
 #### (a) Assistance for participation in furnishing of commodities, defense articles, and services
 
-Insofar as practicable and to the maximum extent consistent with the accomplishment of thepurposes of this chapter, the President shall assist American small business to participate equitably in the furnishing of commodities, defense articles, and services (including defense services) financed with funds made available under this chapter—
+Insofar as practicable and to the maximum extent consistent with the accomplishment of the purposes of this chapter, the President shall assist American small business to participate equitably in the furnishing of commodities, defense articles, and services (including defense services) financed with funds made available under this chapter—
 
-&emsp;(1) by causing to be made available to suppliers in the United States, and particularly to small independent enterprises, information, as far in advance as possible, with respect to purchases proposed to be financed with such funds;
+&emsp;(1) by causing to be made available to suppliers in the United States, and particularly to small independent enterprises, information, asfar in advance as possible, with respect to purchases proposed to be financed with such funds;
 
 &emsp;(2) by causing to be made available to prospective purchasers in the countries and areas receiving assistance under this chapter information as to such commodities, articles, and services produced by small independent enterprises in the United States; and
 
@@ -39,4 +39,6 @@ For location of the Office of Small Business, provided for in subsec. (b), in th
 #### Procurements From Small Businesses
 
 Pub. L. 94–329, title VI, §602, June 30, 1976, 90 Stat. 766, provided that: “In order to encourage procurements from small business concerns under chapter 4 of the Foreign Assistance Act of 1961 \[part IV of subchapter II of this chapter\], the Administrator of the Agency for International Development shall report to the Congress every six months on the extent to which small businesses have participated in procurements under such chapter \[part\] and on what efforts the Agency has made to foster such procurements from small business concerns. The Small Business Administration shall lend all available assistance to the Agency for the purposes of carrying out this section.”
+
+\[For termination, effective May 15, 2000, of reporting provisions in section 602 of Pub. L. 94–329, set out above, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 130 of House Document No. 103–7.\]
 

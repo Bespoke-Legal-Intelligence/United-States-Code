@@ -10,7 +10,7 @@ The Congress also finds that (1) many factors have made it uneconomic for the pr
 
 #### (c) Unified national program for flood plain management
 
-The Congress further finds that (1) a program of flood insurance can promote the public interest by providing appropriate protection against the perils of flood losses and encouraging sound land use by minimizing exposure of property to flood losses; and (2) the objectives of a flood insurance program should be integrally related to a unified national program for flood plain management and, to this end, it is the sense of Congress that within two years following the effective date of this chapter the President should transmit to the Congress for its consideration any further proposals necessary for such a unified program, including proposals for the allocation of costs among beneficiaries of flood protection.
+The Congress further finds that (1) a program of flood insurance can promote the public interest by providing appropriate protection against the perils of flood losses and encouraging sound land use by minimizing exposure of property to flood losses; and (2) the objectives of a flood insurance program should be integrally related to a unified national program for flood plain management and, to this end, it is the sense of Congress that within two years following the effective date of this chapter the President should transmit to the Congress for its considerationany further proposals necessary for such a unified program, including proposals for the allocation of costs among beneficiaries of flood protection.
 
 #### (d) Authorization of flood insurance program; flexibility in program
 
@@ -48,7 +48,7 @@ Section 501 of title V of Pub. L. 103–325 provided that: “This title \[enact
 
 #### Short Title of 1973 Amendment
 
-Pub. L. 93–234, §1, Dec. 1, 1973, 87 Stat. 975, provided: “That this Act \[enacting sections 4002, 4003, 4012a, 4104, 4105 to 4107, and 4128 of this title, amending this section, sections 4013 to 4016, 4026, 4054, 4056, 4101, and 4121 of this title, and sections 24 and 1709–1 of Title 12, Banks and Banking, and repealing section 4021 of thistitle\] may be cited as the ‘Flood Disaster Protection Act of 1973’.”
+Pub. L. 93–234, §1, Dec. 31, 1973, 87 Stat. 975, provided: “That this Act \[enacting sections 4002, 4003, 4012a, 4104, 4105 to 4107, and 4128 of this title, amending this section, sections 4013 to 4016, 4026, 4054, 4056, 4101, and 4121 of this title, and sections 24 and 1709–1 of Title 12, Banks and Banking, and repealing section 4021 of this title\] may be cited as the ‘Flood Disaster Protection Act of 1973’.”
 
 #### Short Title
 

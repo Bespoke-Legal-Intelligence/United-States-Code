@@ -60,5 +60,5 @@ The Mining Law of 1872, as amended, referred to in subsec. (e)(3), is act May 10
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1713, 1732, 1752, 1781, 1783, 1784, 1901, 1903, 1904 of this title; title 16 sections 460uu–43, 460iii, 1333; title 42 section 6508.
+This section is referred to in sections 1713, 1732, 1752, 1781, 1783, 1784, 1901, 1903, 1904, 2304 of this title; title 16 sections 460uu–43, 460iii, 1333; title 42 section 6508.
 

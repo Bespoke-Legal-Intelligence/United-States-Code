@@ -2,7 +2,7 @@
 
 The importer of record or his agent may, under such regulations as the Secretary of the Treasury may prescribe, at the time entry is made, make in the entry such additions to or deductions from the cost or value given in the invoice as, in his opinion, may raise or lower the same to the value of such merchandise.
 
-(June 17, 1930, ch. 497, title IV, §487, 46 Stat. 725; Aug. 8, 1953, ch. 397, §18(a), 67 Stat. 517; Pub. L. 97–446, title II, §201(e), Jan. 12, 1983, 96 Stat. 2350.)
+(June 17, 1930, ch. 497, title IV, §487, 46 Stat. 725; Aug. 8, 1953, ch. 397, §18(a), 67 Stat. 517; Pub. L.97–446, title II, §201(e), Jan. 12, 1983, 96 Stat. 2350.)
 
 #### Prior Provisions
 

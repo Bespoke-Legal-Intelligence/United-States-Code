@@ -16,7 +16,7 @@ A prior section 4 of act May 17, 1954, was renumbered section 11 and is set out 
 
 #### Compliance With Congressional Budget Act
 
-Section 202 of title II of Pub. L. 98–398 provided that: “Any provision of this title (or any amendment made by this title) \[enacting sections 450jj–3 to 450jj–9 of this title and enacting and amending provisions set out as notes under section 450jj of this title\] which, directly or indirectly, authorizes the enactment of new budget authority described in section 402(a) of the Congressional Budget Act of 1974 \[2 U.S.C. 652(a)\] shall be effective only for fiscal years beginning after September 30, 1983.”
+Section 202 of title II of Pub. L. 98–398 provided that: “Any provision of this title (or any amendment madeby this title) \[enacting sections 450jj–3 to 450jj–9 of this title and enacting and amending provisions set out as notes under section 450jj of this title\] which, directly or indirectly, authorizes the enactment of new budget authority described in section 402(a) of the Congressional Budget Act of 1974 \[2 U.S.C. 652(a)\] shall be effective only for fiscal years beginning after September 30, 1983.”
 
 #### Section Referred to in Other Sections
 

@@ -22,11 +22,11 @@ Actions Against Discriminatory Activity.—(1) The Secretary of Transportation m
 
 (d)
 
-Filing of, and Acting on, Complaints.—(1) An air carrier or a department, agency, or instrumentality of the United States Government may file a complaint under subsection (c) of this section with the Secretary of Transportation. The Secretary shall approve, deny, or dismiss the complaint, set the complaint for a hearing or investigation, or begin another proceeding proposing remedial action not later than 60 days after receiving the complaint. The Secretary may extend the period for acting for additional periods totaling not more than 30 days if the Secretary decides that with additional time it is likely that a complaint can be resolved satisfactorily through negotiations with the government of the foreign country or foreign entity. The Secretary must act not later than 90 days after receiving the complaint. However, the Secretary may extend this 90-day period for not more than an additional 90 days if, on the last day of the initial 90-day period, the Secretary finds that—
+Filing of, and Acting on, Complaints.—(1) An air carrier, computer reservations system firm, or a department, agency, or instrumentality of the United States Government may file a complaint under subsection (c) or (g) of this section with the Secretary of Transportation. The Secretary shall approve, deny, or dismiss the complaint, set the complaint for a hearing or investigation, or begin another proceeding proposing remedial action not later than 60 days after receiving the complaint. The Secretary may extend the period for acting for additional periods totaling not more than 30 days if the Secretary decides that with additional time it is likely that a complaint can be resolved satisfactorily through negotiations with the government of the foreign country or foreign entity. The Secretary must act not later than 90 days after receiving the complaint. However, the Secretary may extend this 90-day period for not more than an additional 90 days if, on the last day of the initial 90-day period, the Secretary finds that—
 
 &emsp;(A) negotiations with the government have progressed to a point that a satisfactory resolution of the complaint appears imminent;
 
-&emsp;(B) an air carrier has not been subjected to economic injury by the government or entity as a result of filing the complaint; and
+&emsp;(B) an air carrier or computer reservations system firm has not been subjected to economic injury by the government or entity as a result of filing the complaint; and
 
 &emsp;(C) the public interest requires additional time before the Secretary acts on the complaint.
 
@@ -40,7 +40,7 @@ Filing of, and Acting on, Complaints.—(1) An air carrier or a department, agen
 
 (e)
 
-Review.—(1) The Secretaries of State, the Treasury, and Transportation and the heads of other departments, agencies, and instrumentalities of the Government shall keep under review, to the extent of each of their jurisdictions, each form of discrimination or unfair competitive practice to which an air carrier is subject when providing foreign air transportation. Each Secretary and head shall—
+Review.—(1) The Secretaries of State, the Treasury, and Transportation and the heads of other departments, agencies, and instrumentalities of the Government shall keep under review, to the extent of each of their jurisdictions, each form of discrimination or unfair competitive practice to which an air carrier is subject when providing foreign air transportation or a computer reservations system firm is subject when providing services with respect to airline service. Each Secretary and head shall—
 
 &emsp;(A) take appropriate action to eliminate any discrimination or unfair competitive practice found to exist; and
 
@@ -52,7 +52,15 @@ Review.—(1) The Secretaries of State, the Treasury, and Transportation and the
 
 Reports.—Not later than 30 days after acting on a complaint under this section, the Secretary of Transportation shall report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on action taken under this section on the complaint.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1130; Pub. L. 104–287, §5(9), Oct. 11, 1996, 110 Stat. 3389.)
+(g)
+
+Actions Against Discriminatory Activity by Foreign CRS Systems.—The Secretary of Transportation may take such actions as the Secretary considers are in the public interest to eliminate an activity of a foreign air carrier that owns or markets a computer reservations system, or of a computer reservations system firm whose principal offices are located outside the United States, when the Secretary, on the initiative of the Secretary or on complaint, decides that the activity, with respect to airline service—
+
+&emsp;(1) is an unjustifiable or unreasonable discriminatory, predatory, or anticompetitive practice against a computer reservations system firm whose principal offices are located inside the United States; or
+
+&emsp;(2) imposes an unjustifiable or unreasonable restriction on access of such a computer reservations system to a foreign market.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1130; Pub. L. 104–287, §5(9), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 106–181, title VII, §741, Apr. 5, 2000, 114 Stat. 174.)
 
 Historical and Revision Notes
 
@@ -138,13 +146,29 @@ In subsection (d)(2)(A), the words “the Secretaries of Commerce and State and 
 
 In subsection (d)(2)(B), the words “as is consistent with acting on the complaint” are omitted as surplus.
 
-In subsection (e)(1), before clause (A), the text of 49 App.:1159b(a) (1st, 2d sentences) is omitted as executed. The words “The Secretaries of State, the Treasury, and Transportation” are substituted for “The Department of State, the Department of the Treasury, the Department of Transportation” because of 22:2651, 31:301(b), and 49:102(b), respectively. The words “the heads of” and “instrumentalities of the Government” are added for consistency in the revised title and with other titles of the Code. The word “jurisdictions” is substituted for “respective functions” for clarity and consistency. In clause (A), the words “within its jurisdiction . . . such forms of” are omitted as surplus. Clause (B) is substituted for 49 App.:1159b(c) to eliminate unnecessary words.
+In subsection (e)(1), before clause (A), the text of 49 App.:1159b(a) (1st, 2d sentences) is omitted as executed. The words “The Secretaries of State, the Treasury, and Transportation” are substituted for “The Department of State, the Department of the Treasury, the Department of Transportation” because of 22:2651, 31:301(b),and 49:102(b), respectively. The words “the heads of” and “instrumentalities of the Government” are added for consistency in the revised title and with other titles of the Code. The word “jurisdictions” is substituted for “respective functions” for clarity and consistency. In clause (A), the words “within its jurisdiction . . . such forms of” are omitted as surplus. Clause (B) is substituted for 49 App.:1159b(c) to eliminate unnecessary words.
 
 In subsection (e)(2), the words “faced by United States carriers in foreign air transportation”, “as may be”, and “required by this subsection” are omitted as surplus.
 
 #### Amendments
 
+2000—Subsec. (d)(1). Pub. L. 106–181, §741(b)(1)(A), (B), in first sentence of introductory provisions, substituted “air carrier, computer reservations system firm,” for “air carrier” and “subsection (c) or (g)” for “subsection (c)”.
+
+Subsec. (d)(1)(B). Pub. L. 106–181, §741(b)(1)(C), substituted “air carrier or computer reservations system firm” for “air carrier”.
+
+Subsec. (e)(1). Pub. L. 106–181, §741(b)(2), inserted “or a computer reservations system firm is subject when providing services with respect to airline service” before period at end of first sentence.
+
+Subsec. (g). Pub. L. 106–181, §741(a), added subsec. (g).
+
 1996—Subsec. (f). Pub. L. 104–287 substituted “Transportation and Infrastructure” for “Public Works and Transportation”.
+
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (e)(2) of this section relating to the requirement that the Secretary of Transportation report annually to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 21st item on page 132 of House Document No. 103–7.
 
 #### Section Referred to in Other Sections
 

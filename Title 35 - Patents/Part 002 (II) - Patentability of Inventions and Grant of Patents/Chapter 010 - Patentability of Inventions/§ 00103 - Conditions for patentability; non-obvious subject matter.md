@@ -28,7 +28,7 @@
 
 &emsp;(C) a method of using a product produced by a process defined by subparagraph (A) or (B), or a combination of subparagraphs (A) and (B).
 
-(c) Subject matter developed by another person, which qualifies as prior art only under one or more of subsections (e), (f), and (g) of section 102 of this title, shall not preclude patentability under this section where the subject matter and the claimed invention were, at the time the invention was made, owned by the same person or subject to an obligation of assignment to the same person.
+(c) Subject matter developed by another person, which qualifies as prior art only under one or more of subsections (e), (f), and (g) of section 102 of this title, shall not preclude patentabilityunder this section where the subject matter and the claimed invention were, at the time the invention was made, owned by the same person or subject to an obligation of assignment to the same person.
 
 (July 19, 1952, ch. 950, 66 Stat. 798; Pub. L. 98–622, title I, §103, Nov. 8, 1984, 98 Stat. 3384; Pub. L. 104–41, §1, Nov. 1, 1995, 109 Stat. 351; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4807(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–591.)
 
@@ -60,17 +60,13 @@ Section 106 of Pub. L. 98–622 provided that:
 
 “(a) Subject to subsections (b), (c), (d), and (e) of this section, the amendments made by this Act \[probably should be “this title”, meaning title I of Pub. L. 98–622, enacting section 157 of this title, amending this section and sections 116, 120, 135, and 271 of this title, and enacting a provision set out as a note under section 157 of this title\] shall apply to all United States patents granted before, on, or after the date of enactment of this Act \[Nov. 8, 1984\], and to all applications for United States patents pending on or filed after the date of enactment.
 
-“(b) The amendments made by this Act shall not affect any final decision made by the court or the Patent and Trademark Office before the date of enactment ofthis Act \[Nov. 8, 1984\], with respect to a patent or application for patent, if no appeal from such decision is pending and the time for filing an appeal has expired.
+“(b) The amendments made by this Act shall not affect any final decision made by the court or the Patent and Trademark Office before the date of enactment of this Act \[Nov. 8, 1984\], with respect to a patent or application for patent, if no appeal from such decision is pending and the time for filing an appeal has expired.
 
 “(c) Section 271(f) of title 35, United States Code, added by section 101 of this Act shall apply only to the supplying, or causing to be supplied, of any component or components of a patented invention after the date of enactment of this Act \[Nov. 8, 1984\].
 
 “(d) No United States patent granted before the date of enactment of this Act \[Nov. 8, 1984\] shall abridge or affect the right of any person or his successors in business who made, purchased, or used prior to such effective date anything protected by the patent, to continue the use of, or to sell to others to be used or sold, the specific thing so made, purchased, or used, if the patent claims were invalid or otherwise unenforceable on a ground obviated by section 103 or 104 of this Act \[amending this section and sections 116 and 120 of this title\] and the person made, purchased, or used the specific thing in reasonable reliance on such invalidity or unenforceability. If a person reasonably relied on such invalidity or unenforceability, the court before which such matter is in question may provide for the continued manufacture, use, or sale of the thing made, purchased, or used as specified, or for the manufacture, use, or sale of which substantial preparation was made before the date of enactment of this Act, and it may also provide for the continued practice of any process practiced, or for the practice of which substantial preparation was made, prior to the date of enactment, to the extent and under such terms as the court deems equitable for the protection of investments made or business commenced before the date of enactment.
 
 “(e) The amendments made by this Act shall not affect the right of any party in any case pending in court on the date of enactment \[Nov. 8, 1984\] to have their rights determined on the basis of the substantive law in effect prior to the date of enactment.”
-
-#### Cross References
-
-Description of invention, see section 112 of this title.
 
 #### Section Referred to in Other Sections
 

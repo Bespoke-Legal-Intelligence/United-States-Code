@@ -2,7 +2,7 @@
 
 #### (a) Prerequisites
 
-Except as otherwise specifically provided in this subchapter, any civil action for a violation of this subchapter or proceeding under section 1607 of this title which may be brought againsta creditor may be maintained against any assignee of such creditor only if the violation for which such action or proceeding is brought is apparent on the face of the disclosure statement, except where the assignment was involuntary. For the purpose of this section, a violation apparent on the face of the disclosure statement includes, but is not limited to (1) a disclosure which can be determined to be incomplete or inaccurate from the face of the disclosure statement or other documents assigned, or (2) a disclosure which does not use the terms required to be used by this subchapter.
+Except as otherwise specifically provided in this subchapter, any civil action for a violation of this subchapter or proceeding under section 1607 of this title which may be brought against a creditor may be maintained against any assignee of such creditor only if the violation for which such action or proceeding is brought is apparent on the face of the disclosure statement, except where the assignment was involuntary. For the purpose of this section, a violation apparent on the face of the disclosure statement includes, but is not limited to (1) a disclosure which can be determined to be incomplete or inaccurate from the face of the disclosure statement or other documents assigned, or (2) a disclosure which does not use the terms required to be used by this subchapter.
 
 #### (b) Proof of compliance with statutory provisions
 
@@ -42,7 +42,7 @@ Any consumer who has the right to rescind a transaction under section 1635 of th
 
 #### (1) In general
 
-&emsp;Except as otherwise specifically provided in this subchapter, any civil action against a creditor for a violation of this subchapter, and any proceeding under section 1607 of this title against a creditor, with respect to a consumer credit transaction secured by real property may be maintained against any assignee of such creditor only if—
+&emsp;Except as otherwise specifically provided in this subchapter, any civil action against acreditor for a violation of this subchapter, and any proceeding under section 1607 of this title against a creditor, with respect to a consumer credit transaction secured by real property may be maintained against any assignee of such creditor only if—
 
 &emsp;&emsp;(A) the violation for which such action or proceeding is brought is apparent on the face of the disclosure statement provided in connection with such transaction pursuant to this subchapter; and
 

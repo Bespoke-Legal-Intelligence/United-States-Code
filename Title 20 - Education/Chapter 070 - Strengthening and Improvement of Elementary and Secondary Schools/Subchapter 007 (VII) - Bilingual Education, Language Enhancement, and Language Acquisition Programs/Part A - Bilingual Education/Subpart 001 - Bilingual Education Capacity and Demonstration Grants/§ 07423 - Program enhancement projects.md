@@ -8,7 +8,7 @@ The purpose of this section is to carry out highly focused, innovative, locally 
 
 #### (1) Authority
 
-&emsp;(A) The Secretary is authorized to award grants to eligible entities having applicationsapproved under section 7426 of this title to enable such entities to carry out activities described in paragraph (2).
+&emsp;(A) The Secretary is authorized to award grants to eligible entities having applications approved under section 7426 of this title to enable such entities to carry out activities described in paragraph (2).
 
 &emsp;(B) Each grant under this section shall be awarded for a period of two years.
 

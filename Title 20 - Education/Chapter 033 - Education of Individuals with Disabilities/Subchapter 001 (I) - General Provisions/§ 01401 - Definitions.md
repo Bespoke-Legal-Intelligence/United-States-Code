@@ -120,7 +120,7 @@ Except as otherwise provided, as used in this chapter:
 
 #### (15) Local educational agency
 
-&emsp;(A) The term “local educational agency” means a public board of education or other public authority legally constituted within a State for either administrative control or direction of, or to perform a service function for, public elementary or secondary schools in a city, county, township, school district, or other political subdivision of a State, or for such combination of school districts or counties as are recognized in a State as an administrative agency for its public elementary or secondary schools.
+&emsp;(A) The term “local educational agency” means a public board of education or other public authority legally constituted within a State for either administrative control or direction of, or to perform a service function for, public elementary or secondary schools in a city, county, township, school district, orother political subdivision of a State, or for such combination of school districts or counties as are recognized in a State as an administrative agency for its public elementary or secondary schools.
 
 &emsp;(B) The term includes—
 
@@ -140,7 +140,7 @@ Except as otherwise provided, as used in this chapter:
 
 #### (18) Outlying area
 
-&emsp;The term “outlying area” means the United States Virgin Islands, Guam, AmericanSamoa, and the Commonwealth of the Northern Mariana Islands.
+&emsp;The term “outlying area” means the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
 #### (19) Parent
 

@@ -24,7 +24,7 @@ Historical and Revision Notes
 
 June 3, 1916, ch. 134, §70; restated June 4, 1920, ch. 227, subch. I, §38; restated June 15, 1933, ch. 87, §8, 48 Stat. 156; June 19, 1935, ch. 277, §3, 49 Stat. 391; July 9, 1952, ch. 608, §806(b), 66 Stat. 506.
 
-The words “or affirmation” are omitted as covered by the definition of the word “oath” in section 1 of title 1. The words “Each person” are substituted for the word “Men”. The words “\_\_\_\_\_\_\_\_\_\_\_\_ National Guard” are substituted for the words “National Guard (Air National Guard)”.
+The words “or affirmation” are omitted as covered by the definition of the word “oath” in section 1 of title 1. The words “Each person” are substituted for the word “Men”. The words “\_\_\_\_\_\_\_\_\_\_\_\_ National Guard”are substituted for the words “National Guard (Air National Guard)”.
 
 #### Amendments
 
@@ -34,13 +34,7 @@ The words “or affirmation” are omitted as covered by the definition of the w
 
 #### Effective Date of 1962 Amendment
 
-Amendment by Pub. L. 87–751 not to effect any oath taken before one year after Oct. 5, 1962, see section 3 ofPub. L. 87–751, set out as a note under section 502 of Title 10, Armed Forces.
-
-#### Cross References
-
-General military law provision, see section 502 of Title 10, Armed Forces.
-
-Subscription to oath necessary for enlistment as member of Army National Guard of United States and Air National Guard of United States, see section 12107 of Title 10.
+Amendment by Pub. L. 87–751 not to effect any oath taken before one year after Oct. 5, 1962, see section 3 of Pub. L. 87–751, set out as a note under section 502 of Title 10, Armed Forces.
 
 #### Section Referred to in Other Sections
 

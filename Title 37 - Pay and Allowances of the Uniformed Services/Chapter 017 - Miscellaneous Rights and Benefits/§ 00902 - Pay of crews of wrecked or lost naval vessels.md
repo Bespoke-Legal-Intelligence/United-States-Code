@@ -4,7 +4,7 @@
 
 (b) When a naval vessel is lost or has not been heard from for so long that her loss may be presumed, the Secretary of the Navy may fix the date of loss of the vessel for the purpose of settling the accounts of persons aboard other than officers.
 
-(c) When the crew of a naval vessel is separated from that vessel because of her wreck, loss, or destruction, the pay and emoluments of those officers and enlisted members that the Secretary considers (because of the sentence of a court-martial or the finding of a court of inquiry, or by other satisfactory evidence) to have done their utmost to save the vessel and, after the wreck, loss, or destruction, to have behaved themselves according to the discipline of the Navy, continue and shall be paid to them until their discharge or death, whichever is earlier.
+(c) When the crew of a naval vessel is separated from that vessel because of her wreck, loss, or destruction, the pay and emoluments of those officers and enlisted members that the Secretary considers (because of the sentence ofa court-martial or the finding of a court of inquiry, or by other satisfactory evidence) to have done their utmost to save the vessel and, after the wreck, loss, or destruction, to have behaved themselves according to the discipline of the Navy, continue and shall be paid to them until their discharge or death, whichever is earlier.
 
 (Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 486; Pub. L. 104–316, title I, §118, Oct. 19, 1996, 110 Stat. 3836.)
 

@@ -23,10 +23,6 @@
 
 1993—Pub. L. 103–160, div. A, title VIII, §828(c)(8)(B), Nov. 30, 1993, 107 Stat. 1715, substituted “Civil Reserve Air Fleet” for “Industrial Mobilization, Research, and Development” and “9511” for “9501” in item for chapter 931.
 
-#### Cross References
-
-Service, supply, and procurement, general military law provisions, see section 2202 et seq. of this title.
-
 
 ---
 

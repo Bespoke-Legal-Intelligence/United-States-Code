@@ -104,11 +104,11 @@ Pub. L. 95–113, title XII, §1209, Sept. 29, 1977, 91 Stat. 957, provided that
 
 #### Special Task Force
 
-Pub. L. 95–113, title XII, §1210, Sept. 29, 1977, 91 Stat. 957, required the Secretary of Agriculture, not laterthan eighteen months after Sept. 29, 1977, to appoint a special task force to review and report to Congress upon the administration of the Agricultural Trade Development and Assistance Act of 1954, 7 U.S.C. 1961 et seq.
+Pub. L. 95–113, title XII, §1210, Sept. 29, 1977, 91 Stat. 957, required the Secretary of Agriculture, not later than eighteen months after Sept. 29, 1977, to appoint a special task force to review and report to Congress upon the administration of the Agricultural Trade Development and Assistance Act of 1954, 7 U.S.C. 1961 et seq.
 
 #### Executive Order No. 10560
 
-Ex. Ord. No. 10560, Sept. 13, 1954, 19 F.R. 5927, as amended by Ex. Ord. No. 10575, Nov. 8, 1954, 19 F.R. 7249; Ex. Ord. No. 10685, Oct. 29, 1956, 21 F.R. 8261; Ex. Ord. No. 10708, May 6, 1957, 22 F.R. 3213; Ex. Ord. No. 10746, Dec. 13, 1957, 22 F.R. 10027; Ex. Ord. No. 10773, July 1, 1958, 23 F.R. 5061; Ex. Ord. No. 10782, Sept. 8, 1958, 23 F.R. 6971; Ex. Ord. No. 10799, Jan. 16, 1959, 24 F.R. 447; Ex. Ord. No. 10827, June 25, 1959, 24 F.R. 5233; Ex. Ord. No. 10884, Aug. 17, 1960, 25 F.R. 8019, which provided for the delegation of administrative functions, was superseded by Ex. Ord. No. 10900, Jan. 5, 1961, 26 F.R. 143, formerly set out as a note under this section, and was revoked by section 1–502(a) of Ex. Ord. No. 12220, June 27, 1980, 45 F.R. 44247, formerly set out below.
+Ex. Ord. No. 10560, Sept. 13, 1954, 19 F.R. 5927, as amended by Ex. Ord. No. 10575, Nov. 8, 1954, 19 F.R. 7249; Ex. Ord. No. 10685, Oct. 29, 1956, 21 F.R. 8261; Ex. Ord.No. 10708, May 6, 1957, 22 F.R. 3213; Ex. Ord. No. 10746, Dec. 13, 1957, 22 F.R. 10027; Ex. Ord. No. 10773, July 1, 1958, 23 F.R. 5061; Ex. Ord. No. 10782, Sept. 8, 1958, 23 F.R. 6971; Ex. Ord. No. 10799, Jan. 16, 1959, 24 F.R. 447; Ex. Ord. No. 10827, June 25, 1959, 24 F.R. 5233; Ex. Ord. No. 10884, Aug. 17, 1960, 25 F.R. 8019, which provided for the delegation of administrative functions, was superseded by Ex. Ord. No. 10900, Jan. 5, 1961, 26 F.R. 143, formerly set out as a note under this section, and was revoked by section 1–502(a) of Ex. Ord. No. 12220, June 27, 1980, 45 F.R. 44247, formerly set out below.
 
 #### Executive Order No. 10685
 
@@ -158,7 +158,7 @@ Sec. 3. <i>Policy Coordination</i>. (a) To ensure policy coordination of assista
 
 Sec. 4. <i>Delegation of Responsibilities</i>. (a) The function conferred upon the President in section 403(j) of the Agricultural Trade Development Act \[7 U.S.C. 1733(j)\] is hereby delegated to the Secretary of State.
 
-(b) The functions conferred upon the President by section 411 of the Agricultural Trade Development Act\[7 U.S.C. 1736e\] are hereby delegated to the Secretary, in consultation with the Council and the Department of the Treasury.
+(b) The functions conferred upon the President by section 411 of the Agricultural Trade Development Act \[7 U.S.C. 1736e\] are hereby delegated to the Secretary, in consultation with the Council and the Department of the Treasury.
 
 (c) The functions conferred upon the President by section 412(c) of the Agricultural Trade Development Act \[7 U.S.C. 1736f(c)\] are hereby delegated to the Director, who shall consult with the Council on these functions.
 

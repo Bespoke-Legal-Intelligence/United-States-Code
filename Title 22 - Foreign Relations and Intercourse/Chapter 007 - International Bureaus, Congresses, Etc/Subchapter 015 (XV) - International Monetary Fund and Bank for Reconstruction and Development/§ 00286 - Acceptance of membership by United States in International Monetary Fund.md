@@ -14,13 +14,5 @@ Section 1 of act July 31, 1945, provided: “This act \[enacting this subchapter
 
 #### Par Value Modification
 
-For Congressional direction that the Secretary of the Treasury maintain the value in terms of gold of theholdings in United States dollars of the International Monetary Fund and of the International Bank for Reconstruction and Development following the establishment of a par value of the dollar at $38 for a fine troy ounce of gold pursuant to the Par Value Modification Act and for the authorization of the appropriation necessary to provide such maintenance of value, see section 5152 of Title 31, Money and Finance.
-
-#### Cross References
-
-Advancement of human rights through United States assistance policies with international financial institutions, see section 262d of this title.
-
-Increase in lending authority of the Export-Import Bank of Washington, see sections 635 to 635h of Title 12, Banks and Banking.
-
-United States membership in the United Nations Food and Agriculture Organization, see sections 279 to 279d of this title.
+For Congressional direction that the Secretary of the Treasury maintain the value in terms of gold of the holdings in United States dollars of the International Monetary Fund and of the International Bank for Reconstruction and Development following the establishment of a par value of the dollar at $38 for a fine troy ounce of gold pursuant to the Par Value Modification Act and for the authorization of the appropriation necessary to provide such maintenance of value, see section 5152 of Title 31, Money and Finance.
 

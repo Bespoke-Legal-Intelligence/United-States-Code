@@ -20,7 +20,7 @@
 
 &emsp;&emsp;&emsp;(ii) those eligible employees shall be considered to be placed on detail to the Secretary and shall be subject to the direction of the Secretary; and
 
-&emsp;&emsp;&emsp;(iii) the Secretary shall reimburse the Tennessee Valley Authority for theamount of the basic pay and all other compensation of those eligible employees.
+&emsp;&emsp;&emsp;(iii) the Secretary shall reimburse the Tennessee Valley Authority for the amount of the basic pay and all other compensation of those eligible employees.
 
 #### (B) Notice to employees
 
@@ -90,7 +90,7 @@ The Tennessee Valley Authority—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Eligible employees hired by the Forest Service shall become members of the Civil Service Retirement System (CSRS) Offset Plan and shall have the option to transfer into the Federal Employees Retirement System (FERS) within six months of their date of transfer. Such employees shall have the option at any time to receive credit in CSRS Offset or FERS for all of their TVA service in accordance with applicable procedures. Any deposits necessary to receive credit for such service shall be considered transfers to a qualified plan for purposes of favorable tax treatment of such amount under title 26.
+&emsp;&emsp;&emsp;Eligible employees hired by the Forest Service shall become members of the Civil Service Retirement System (CSRS) Offset Plan and shall have the option to transfer into the Federal Employees Retirement System (FERS) within six months of their date of transfer. Such employees shallhave the option at any time to receive credit in CSRS Offset or FERS for all of their TVA service in accordance with applicable procedures. Any deposits necessary to receive credit for such service shall be considered transfers to a qualified plan for purposes of favorable tax treatment of such amount under title 26.
 
 #### (ii) Funding shortfall
 
@@ -100,7 +100,7 @@ The Tennessee Valley Authority—
 
 #### (II) Notification
 
-&emsp;&emsp;&emsp;&emsp;The Secretary shall notify the Tennessee Valley Authority Board of thecost associated with the transfer of retirement benefits.
+&emsp;&emsp;&emsp;&emsp;The Secretary shall notify the Tennessee Valley Authority Board of the cost associated with the transfer of retirement benefits.
 
 #### (III) Payment
 

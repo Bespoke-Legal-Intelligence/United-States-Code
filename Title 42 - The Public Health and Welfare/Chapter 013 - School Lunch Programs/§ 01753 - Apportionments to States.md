@@ -10,7 +10,7 @@
 
 (2) The national average lunch payment for each lunch served shall be 10.5 cents (as adjusted pursuant to section 1759a(a) of this title) except that for each lunch served in school food authorities in which 60 percent or more of the lunches served in the school lunch program during the second preceding school year were served free or at a reduced price, the national average lunch payment shall be 2 cents more.
 
-(June 4, 1946, ch. 281, §4, 60 Stat. 230; July 12, 1952, ch. 699, §1(a), 66 Stat. 591; Pub. L. 87–688, §3(a), Sept. 25, 1962, 76 Stat. 587; Pub. L. 87–823, §2, Oct. 15, 1962, 76 Stat. 944; Pub. L. 92–433, §4(c), Sept. 26, 1972, 86 Stat. 726; Pub. L. 93–150, §2(a), Nov. 7, 1973, 87 Stat. 560; Pub. L. 97–35, title VIII, §§801(a), 819(g), Aug. 13, 1981, 95 Stat. 521, 533; Pub. L. 101–147, title III, §§301, 312(2), Nov. 10, 1989, 103 Stat. 913, 916.)
+(June 4, 1946, ch. 281, §4, 60 Stat. 230; July 12, 1952, ch. 699, §1(a), 66 Stat. 591; Pub. L. 87–688,§3(a), Sept. 25, 1962, 76 Stat. 587; Pub. L. 87–823, §2, Oct. 15, 1962, 76 Stat. 944; Pub. L. 92–433, §4(c), Sept. 26, 1972, 86 Stat. 726; Pub. L. 93–150, §2(a), Nov. 7, 1973, 87 Stat. 560; Pub. L. 97–35, title VIII, §§801(a), 819(g), Aug. 13, 1981, 95 Stat. 521, 533; Pub. L. 101–147, title III, §§301, 312(2), Nov. 10, 1989, 103 Stat. 913, 916.)
 
 #### Amendments
 
@@ -92,7 +92,7 @@ Section 820(c) of title VIII of Pub. L. 97–35 provided that: “Not later than
 
 #### Reduction in General Reimbursement for Fiscal Year Ending September 30, 1981
 
-Pub. L. 96–499, title II, §201(a), Dec. 5, 1980, 94 Stat. 2599, provided that the national average payment per lunch under this chapter shall be reduced by 21/2 cents for certain school food authorities for fiscal year ending Sept. 30, 1981, and that the amount of reimbursements under section 1776 of this title for fiscal year ending Sept. 30, 1983, and the amount of State revenues appropriated or used for meeting the requirements under section 1756 of this title for the school year ending June 30, 1982, shall not be reduced because of a reduction in the amount of Federal funds expended, prior to repeal by Pub. L. 97–35, title VIII, §820(b)(1), Aug. 13, 1981, 95 Stat. 535, effective Sept. 1, 1981, or the first dayof the first month following Aug. 1981, whichever is earlier.
+Pub. L. 96–499, title II, §201(a), Dec. 5, 1980, 94 Stat. 2599, provided that the national average payment per lunch under this chapter shall be reduced by 21/2 cents for certain school food authorities for fiscal year ending Sept. 30, 1981, and that the amount of reimbursements under section 1776 of this title for fiscal year ending Sept. 30, 1983, and the amount of State revenues appropriated or used for meeting the requirements under section 1756 of this title for the school year ending June 30, 1982, shall not be reduced because of a reduction in the amount of Federal funds expended, prior to repeal by Pub. L. 97–35, title VIII, §820(b)(1), Aug. 13, 1981, 95 Stat. 535, effective Sept. 1, 1981, or the first day of the first month following Aug. 1981, whichever is earlier.
 
 #### Use of Funds Appropriated Under Section 612c of Title 7 for Implementing This Section and Reimbursement of Such Funds
 

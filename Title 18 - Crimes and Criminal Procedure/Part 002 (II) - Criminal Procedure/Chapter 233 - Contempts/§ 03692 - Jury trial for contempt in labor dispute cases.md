@@ -16,7 +16,3 @@ The phrase “or the District of Columbia arising under the laws of the United S
 
 Former section 111 of Title 29, Labor, upon which this section is based, as inapplicable to injunctions issued under the Taft-Hartley Act, see section 178 of Title 29.
 
-#### Cross References
-
-Injunctions in labor disputes as provided for by Norris-LaGuardia Act, see section 101 et seq. of Title 29, Labor.
-

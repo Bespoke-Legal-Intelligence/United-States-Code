@@ -22,7 +22,7 @@ The Director shall—
 
 &emsp;(5) have authority to arrange for inservice and other training programs for employees in the defense dependents’ education system, and
 
-&emsp;(6) perform such other functions as may be required or delegated by the Secretary of Defense or the the <sup>1</sup> Assistant Secretary of Defense designated under subsection (a) of this section.
+&emsp;(6) perform such other functions as may be required or delegated by the Secretary of Defense or the Assistant Secretary of Defense designated under subsection (a) of this section.
 
 #### (d) Establishment of regional or area offices; reports to Congress on reorganizations; authorized number of civilian employees
 
@@ -32,13 +32,15 @@ The Director shall—
 
 (3) Subject to the approval of the Secretary of Defense, the Department of Defense Education Activity is authorized an appropriate number of civilian employees in its central office and such regional or area office as are established pursuant to paragraph (1).
 
-(Pub. L. 95–561, title XIV, §1403, Nov. 1, 1978, 92 Stat. 2365; Pub. L. 106–65, div. A, title III, §354(2), Oct. 5, 1999, 113 Stat. 572.)
+(Pub. L. 95–561, title XIV, §1403, Nov. 1, 1978, 92 Stat. 2365; Pub. L. 106–65, div. A, title III, §354(2), Oct. 5, 1999, 113 Stat. 572; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(g)(8)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–294.)
 
 #### References in Text
 
 The Defense Department Overseas Teachers Pay and Personnel Practices Act, referred to in subsec. (c)(1), is Pub. L. 86–91, July 17, 1959, 73 Stat. 213, as amended, which is classified generally to chapter 25 (§901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 901 of this title and Tables.
 
 #### Amendments
+
+2000—Subsec. (c)(6). Pub. L. 106–398 struck out “the” before “the Assistant Secretary of Defense”.
 
 1999—Pub. L. 106–65, §354(2)(A), amended section catchline.
 
@@ -61,6 +63,4 @@ Subsec. (d)(1). Pub. L. 106–65, §354(2)(F), struck out “for the Office of D
 Subsec. (d)(2). Pub. L. 106–65, §354(2)(G), struck out first sentence which read: “Not later than six months after November 1, 1978, the Secretary of Defense shall submit to the Congress a report (A) describing the organization of the Office of Dependents’ Education in accordance with paragraph (1), (B) describing the assignment of personnel to the central office of the Office of Dependents’ Education and to such regional or area offices as are established pursuant to paragraph (1), and (C) detailing the personnel requirements of the defense dependents’ education system.” and substituted “Whenever the Department of Defense Education Activity” for “Whenever the Office of Dependents’ Education”, “in a manner that affects the defense dependents’ education system” for “after the submission of the report required under the preceding sentence”, and “a report” for “an additional report”.
 
 Subsec. (d)(3). Pub. L. 106–65, §354(2)(H), substituted “the Department of Defense Education Activity” for “the Office of Dependents’ Education”.
-
-<i><sup>1</sup></i><i> So in original.</i>
 

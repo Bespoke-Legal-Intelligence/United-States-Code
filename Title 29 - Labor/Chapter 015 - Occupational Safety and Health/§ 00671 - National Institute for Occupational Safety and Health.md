@@ -60,7 +60,7 @@ The Director shall submit to the Secretary of Health and Human Services, to the 
 
 &emsp;&emsp;(iii) with a demonstrated ability to reach, and involve in lead-based paint training programs, target populations of individuals who are or will be engaged in lead-based paint activities.
 
-> &emsp;Grants under this subsection shall be awarded only to those organizations that fund at least 30 percent of their lead-based paint activities training programs from non-Federal sources, excluding in-kind contributions. Grants may also be made to local governments to carry out such training and education for their employees.
+> &emsp;Grants under this subsection shall be awarded only to those organizations that fund at least 30 percent of their lead-based paint activities training programs from non-Federal sources,excluding in-kind contributions. Grants may also be made to local governments to carry out such training and education for their employees.
 
 &emsp;(C) There are authorized to be appropriated, at a minimum, $10,000,000 to the Institute for each of the fiscal years 1994 through 1997 to make grants under this paragraph.
 
@@ -87,6 +87,10 @@ In subsec. (e)(8), “section 3324(a) and (b) of title 31” substituted for “
 #### Change of Name
 
 “Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsecs. (a) to (d) and (f) pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (f) of this section relating to submitting annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 97 of House Document No. 103–7.
 
 #### Section Referred to in Other Sections
 

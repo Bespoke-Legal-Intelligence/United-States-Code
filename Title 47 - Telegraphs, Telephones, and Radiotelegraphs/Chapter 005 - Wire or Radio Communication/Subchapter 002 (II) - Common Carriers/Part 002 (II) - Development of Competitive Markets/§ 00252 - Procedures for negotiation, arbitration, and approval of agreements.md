@@ -42,7 +42,7 @@
 
 #### (5) Refusal to negotiate
 
-&emsp;The refusal of any other party to the negotiation to participate further in the negotiations, to cooperate with the State commission in carrying out its function as an arbitrator, or to continue to negotiate in good faith in thepresence, or with the assistance, of the State commission shall be considered a failure to negotiate in good faith.
+&emsp;The refusal of any other party to the negotiation to participate further in the negotiations, to cooperate with the State commission in carrying out its function as an arbitrator, or to continue to negotiate in good faith in the presence, or with the assistance, of the State commission shall be considered a failure to negotiate in good faith.
 
 #### (c) Standards for arbitration
 
@@ -72,7 +72,7 @@ In resolving by arbitration under subsection (b) of this section any open issues
 
 #### (A) In general
 
-&emsp;&emsp;For the purposes of compliance by an incumbent local exchange carrier with section 251(b)(5) of this title, a State commission shall not consider the terms and conditions for reciprocal compensation to be just and reasonable unless—
+&emsp;&emsp;For the purposes of compliance by an incumbent local exchange carrier with section 251(b)(5) of this title, a State commission shall not consider the terms and conditionsfor reciprocal compensation to be just and reasonable unless—
 
 &emsp;&emsp;&emsp;(i) such terms and conditions provide for the mutual and reciprocal recovery by each carrier of costs associated with the transport and termination on each carrier's network facilities of calls that originate on the network facilities of the other carrier; and
 
@@ -118,7 +118,7 @@ In resolving by arbitration under subsection (b) of this section any open issues
 
 #### (5) Commission to act if State will not act
 
-&emsp;If a State commission fails to act to carry out its responsibility under this section in anyproceeding or other matter under this section, then the Commission shall issue an order preempting the State commission's jurisdiction of that proceeding or matter within 90 days after being notified (or taking notice) of such failure, and shall assume the responsibility of the State commission under this section with respect to the proceeding or matter and act for the State commission.
+&emsp;If a State commission fails to act to carry out its responsibility under this section in any proceeding or other matter under this section, then the Commission shall issue an order preempting the State commission's jurisdiction of that proceeding or matter within 90 days after being notified (or taking notice) of such failure, and shall assume the responsibility of the State commission under this section with respect to the proceeding or matter and act for the State commission.
 
 #### (6) Review of State commission actions
 
@@ -132,7 +132,7 @@ In resolving by arbitration under subsection (b) of this section any open issues
 
 #### (2) State commission review
 
-&emsp;A State commission may not approve such statement unless such statement complies with subsection (d) of this section and section 251 of this title and the regulations thereunder. Except as provided in section 253 of this title, nothing in this section shall prohibit a State commission from establishing or enforcing other requirements of State law in its review of such statement, including requiring compliance with intrastate telecommunications service quality standards or requirements.
+&emsp;A State commission may not approve such statement unless such statement complies with subsection (d) of this section and section 251 of this title and the regulations thereunder. Except as provided in section 253 of this title, nothing in this section shall prohibit a State commission from establishing or enforcing other requirements of State law in its review of such statement, including requiringcompliance with intrastate telecommunications service quality standards or requirements.
 
 #### (3) Schedule for review
 

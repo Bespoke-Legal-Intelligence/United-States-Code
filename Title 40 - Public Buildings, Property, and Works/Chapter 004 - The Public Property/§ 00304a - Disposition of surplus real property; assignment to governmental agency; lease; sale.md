@@ -16,10 +16,6 @@ Functions of Federal Works Agency and of all agencies thereof, together with fun
 
 Transfer of functions by act June 30, 1949, effective July 1, 1949, see section 605 of act June 30, 1949 set out as an Effective Date note under section 471 of this title.
 
-#### Cross References
-
-Lands of certain recreational demonstration projects as subject to sections 304a, 304b to 304e of this title, see sections 459r to 459t of Title 16, Conservation.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 304a–1, 304a–2, 304b, 304d, 304e of this title; title 16 section 459t.

@@ -2,7 +2,7 @@
 
 #### (a) Condemnation authority
 
-The Secretary of Agriculture is authorized and directed to acquire by condemnation all of the Klamath Indian forest lands which the trustee for the Klamath Indian Tribe is required to sell by the terms of its trust agreement, and thelands so acquired shall become a part of the Winema National Forest.
+The Secretary of Agriculture is authorized and directed to acquire by condemnation all of the Klamath Indian forest lands which the trustee for the Klamath Indian Tribe is required to sell by the terms of its trust agreement, and the lands so acquired shall become a part of the Winema National Forest.
 
 #### (b) Initiation of action; authorization of appropriations
 

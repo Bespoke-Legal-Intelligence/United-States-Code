@@ -40,3 +40,7 @@ Provisions of subsec. (b) that authorized the Director to fix the compensation o
 
 Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, §8, 80 Stat. 632, 655.
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (c) of this section requiring the Director to make an annual report in writing to Congress at the end of the fiscal year, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 171 of House Document No. 103–7.
+

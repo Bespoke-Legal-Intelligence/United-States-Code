@@ -28,5 +28,5 @@ Amendment by Pub. L. 86–211 effective July 1, 1960, see section 10 of Pub. L. 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1722 of this title.
+This section is referred to in sections 107, 1722 of this title.
 

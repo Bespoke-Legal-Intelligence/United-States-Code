@@ -70,7 +70,7 @@ Agricultural real estate that is acquired by an institution of the System as a r
 
 #### (5) Notice to previous owner
 
-&emsp;An institution of the System receiving an offer from the previous owner to lease the property at a rate less than the appraised rental value of the property shall notify the previous owner of its acceptance or rejection of the offer within 15 days after the receipt of such offer.
+&emsp;An institution of the System receiving an offer from the previous owner to lease the property at a rate less than the appraised rental value of the property shall notify theprevious owner of its acceptance or rejection of the offer within 15 days after the receipt of such offer.
 
 #### (6) Rejection of offer of previous owner
 

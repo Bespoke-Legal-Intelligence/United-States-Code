@@ -10,7 +10,3 @@ Act Aug. 5, 1882, did not contain “except as otherwise provided,”. The word 
 
 Section is based on Legislative, Executive, and Judicial Appropriation Act of Aug. 5, 1882, fiscal year 1883.
 
-#### Cross References
-
-Operation of buildings and related activities by Administrator of General Services, general powers and duties, see section 490 of this title.
-

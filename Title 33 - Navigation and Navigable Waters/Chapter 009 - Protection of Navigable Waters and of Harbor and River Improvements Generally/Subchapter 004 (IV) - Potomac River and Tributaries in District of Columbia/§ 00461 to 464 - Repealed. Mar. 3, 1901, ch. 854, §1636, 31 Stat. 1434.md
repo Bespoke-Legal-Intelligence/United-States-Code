@@ -8,5 +8,3 @@ Section 463, act May 19, 1896, ch. 208, §3, 29 Stat. 127, related to penalties.
 
 Section 464, act May 19, 1896, ch. 208, §4, 29 Stat. 127, provided that none of these provisions be construed to interfere with any work or improvements in harbor or river area.
 
-See section 22–1701 et seq. of the District of Columbia Code.
-

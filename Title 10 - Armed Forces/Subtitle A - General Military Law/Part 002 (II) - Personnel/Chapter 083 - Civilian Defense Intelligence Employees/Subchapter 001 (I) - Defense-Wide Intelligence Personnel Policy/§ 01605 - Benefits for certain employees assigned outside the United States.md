@@ -62,10 +62,6 @@ Amendment by Pub. L. 102–496 effective on first day of fourth month beginning 
 
 Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub. L. 99–335, set out as an Effective Date note under section 8401 of Title 5, Government Organization and Employees.
 
-#### Cross References
-
-Members of armed forces assigned to Defense Intelligence Agency, entitlement to benefits similar to those provided by this section, see section 432 of Title 37, Pay and Allowances of the Uniformed Services.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1612, 1613 of this title.

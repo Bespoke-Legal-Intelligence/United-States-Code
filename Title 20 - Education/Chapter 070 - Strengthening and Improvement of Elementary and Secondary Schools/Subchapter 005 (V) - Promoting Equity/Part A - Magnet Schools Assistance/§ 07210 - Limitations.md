@@ -14,7 +14,7 @@ No local educational agency or consortium awarded a grant under this part shall 
 
 #### (d) Timing
 
-To the extent practicable, the Secretary shall award grants for any fiscal year under this part not later than June 1 of the applicable fiscal year.
+To the extent practicable, the Secretary shall award grants for any fiscal year under this partnot later than June 1 of the applicable fiscal year.
 
 (Pub. L. 89–10, title V, §5110, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3694.)
 

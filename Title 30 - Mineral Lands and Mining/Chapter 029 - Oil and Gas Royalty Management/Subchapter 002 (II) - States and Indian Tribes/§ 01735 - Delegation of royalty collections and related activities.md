@@ -18,7 +18,7 @@ Upon written request of any State, the Secretary is authorized to delegate, in a
 
 #### (b) Prerequisites
 
-After notice and opportunity for a hearing, the Secretary is authorized to delegate such authorities and responsibilities granted under this section as the State has requested, if the Secretary finds that—
+After notice and opportunity for a hearing, the Secretary is authorized to delegate such authorities and responsibilities granted under thissection as the State has requested, if the Secretary finds that—
 
 &emsp;(1) it is likely that the State will provide adequate resources to achieve the purposes of this chapter;
 
@@ -40,7 +40,7 @@ After notice and opportunity for hearing, the Secretary shall issue a ruling as 
 
 #### (d) Promulgation of standards and regulations with respect to delegation
 
-After consultation with State authorities, the Secretary shall by rule promulgate, within 12months after August 13, 1996, standards and regulations pertaining to the authorities and responsibilities to be delegated under subsection (a) of this section, including standards and regulations pertaining to—
+After consultation with State authorities, the Secretary shall by rule promulgate, within 12 months after August 13, 1996, standards and regulations pertaining to the authorities and responsibilities to be delegated under subsection (a) of this section, including standards and regulations pertaining to—
 
 &emsp;(1) audits to be performed;
 
@@ -76,7 +76,7 @@ Any action of the Secretary to approve or disapprove a proposal submitted by a S
 
 #### (h) Existing delegation
 
-Any State operating pursuant to a delegation existing on August 13, 1996, may continue to operate under the terms and conditions of the delegation, except to the extent that a revision of the existing agreement is adopted pursuant to this section.
+Any State operating pursuant to a delegation existing on August 13, 1996, may continue to operate under the terms and conditions of thedelegation, except to the extent that a revision of the existing agreement is adopted pursuant to this section.
 
 (Pub. L. 97–451, title II, §205, Jan. 12, 1983, 96 Stat. 2459; Pub. L. 104–185, §3(a), Aug. 13, 1996, 110 Stat. 1702.)
 

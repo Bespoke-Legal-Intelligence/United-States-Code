@@ -117,6 +117,7 @@ I74subpart 1—federal provisions
 | (a) | In general. |
 | (b) | Application. |
 | (c) | Amount. |
+| (d) | Expected levels of performance as consideration. |
 | [9274\.](Subchapter%20002%20%28II%29%20-%20General%20Provisions/%C2%A7%2009274%20-%20Privacy.md) | Privacy. |
 | (a) | Effect on privacy protections. |
 | (b) | Prohibition on development of national database. |

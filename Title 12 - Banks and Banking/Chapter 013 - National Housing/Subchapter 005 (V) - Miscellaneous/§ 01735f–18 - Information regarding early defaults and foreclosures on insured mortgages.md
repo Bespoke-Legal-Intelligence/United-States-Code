@@ -14,7 +14,7 @@ The Secretary of Housing and Urban Development shall collect and maintain inform
 
 &emsp;&emsp;(B) The total number of such mortgages originated by such lender during the applicable collection period in each designated census tract and the number of mortgages originated each year in each designated census tract.
 
-&emsp;&emsp;(C) The total number of defaults and foreclosures on such mortgages during the applicable collection period in each designated census tract and the number of defaults and foreclosures in each designated census tract in each year of the period.
+&emsp;&emsp;(C) The total number of defaults and foreclosures on such mortgages during the applicable collection period in each designated census tract and the number of defaults andforeclosures in each designated census tract in each year of the period.
 
 &emsp;&emsp;(D) For each designated census tract, the percentage of such lender's total insured mortgages originated during each year of the applicable collection period (with respect to properties within such census tract) on which defaults or foreclosures have occurred during the applicable collection period.
 
@@ -52,5 +52,5 @@ Section 335(b) of Pub. L. 101–625 provided that: “During the period beginnin
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 42 section 3535.
+This section is referred to in section 1709 of this title; title 42 section 3535.
 

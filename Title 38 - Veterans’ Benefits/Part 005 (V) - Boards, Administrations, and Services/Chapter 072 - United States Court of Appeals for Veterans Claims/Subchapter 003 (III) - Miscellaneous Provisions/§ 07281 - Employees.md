@@ -22,7 +22,7 @@
 
 #### References in Text
 
-The provisions of title 5 governing appointment in the competitive service, referred to in subsecs. (a) to\(c), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
+The provisions of title 5 governing appointment in the competitive service, referred to in subsecs. (a) to (c), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
 
 #### Amendments
 
@@ -38,7 +38,7 @@ Subsec. (i). Pub. L. 102–82 added subsec. (i).
 
 #### Effective Date of 1999 Amendment
 
-Amendment by Pub. L. 106–117 effective Nov. 30, 1999, with savings provision for incumbent chief judge, see section 1036 of Pub. L. 106–117, set out as a note under section 7253 of this title.
+Amendment by Pub. L. 106–117 effective Nov. 30, 1999, with savings provision for incumbent chief judge, seesection 1036 of Pub. L. 106–117, set out as a note under section 7253 of this title.
 
 #### Effective Date of 1998 Amendment
 

@@ -26,7 +26,7 @@ For purposes of this chapter:
 
 &emsp;&emsp;(G) defense research and development.
 
-&emsp;(4) The term “candidate site” means an area, within a geologic and hydrologic system, that is recommended by the Secretary undersection 10132 of this title for site characterization, approved by the President under section 10132 of this title for site characterization, or undergoing site characterization under section 10133 of this title.
+&emsp;(4) The term “candidate site” means an area, within a geologic and hydrologic system, that is recommended by the Secretary under section 10132 of this title for site characterization, approved by the President under section 10132 of this title for site characterization, or undergoing site characterization under section 10133 of this title.
 
 &emsp;(5) The term “civilian nuclear activity” means any atomic energy activity other than an atomic energy defense activity.
 
@@ -108,7 +108,7 @@ For purposes of this chapter:
 
 #### References in Text
 
-Section 10224 of this title, referred to in par. (17), was in the original a reference to section 305 of Pub. L. 97–425, which is classified to section 10225 of this title, and was translated as section 10224 of this title as the probable intent of Congress, in view of the Office of Civilian Radioactive Waste Management being established by section 10224 of this title.
+Section 10224 of this title, referred to in par. (17), was in the original a reference to section 305 of Pub. L.97–425, which is classified to section 10225 of this title, and was translated as section 10224 of this title as the probable intent of Congress, in view of the Office of Civilian Radioactive Waste Management being established by section 10224 of this title.
 
 The Alaska Native Claims Settlement Act, referred to in par. (19)(B), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 

@@ -8,7 +8,3 @@ All persons in the military or naval service of the United States are prohibited
 
 R.S. §5313 derived from act July 2, 1864, ch. 225, §10, 13 Stat. 377.
 
-#### Cross References
-
-Dealing in captured or abandoned property to be punishable as a court-martial may direct, see section 903 of Title 10, Armed Forces.
-

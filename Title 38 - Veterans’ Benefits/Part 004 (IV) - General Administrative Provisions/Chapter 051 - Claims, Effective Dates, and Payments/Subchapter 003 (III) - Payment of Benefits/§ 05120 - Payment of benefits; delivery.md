@@ -6,7 +6,7 @@
 
 (c) Whenever mail is not delivered because of the prohibition of subsection (b), such mail shall be returned forthwith by the postmaster with a statement of the reason for so doing, and if because of death or remarriage, the date thereof, if known. Checks returned under this subsection because of death or remarriage shall be canceled.
 
-(d) Notwithstanding subsection (a) of this section, pursuant to an agreement with the Department of the Treasury under which the Secretary certifies such benefits for payment, monetary benefits under laws administered by the Secretary may be paid other than by check uponthe written request of the person to whom such benefits are to be paid, if such noncheck payment is determined by the Secretary to be in the best interest of such payees and the management of monetary benefits programs by the Department.
+(d) Notwithstanding subsection (a) of this section, pursuant to an agreement with the Department of the Treasury under which the Secretary certifies such benefits for payment, monetary benefits under laws administered by the Secretary may be paid other than by check upon the written request of the person to whom such benefits are to be paid, if such noncheck payment is determined by the Secretary to be in the best interest of such payees and the management of monetary benefits programs by the Department.
 
 (e) Whenever the first day of any calendar month falls on a Saturday, Sunday, or legal public holiday (as defined in section 6103 of title 5), the Secretary shall, to the maximum extent practicable, certify benefit payments for such month in such a way that such payments will be delivered by mail, or transmitted for credit to the payee's account pursuant to subsection (d) of this section, on the Friday immediately preceding such Saturday or Sunday, or in the case of a legal holiday, the weekday (other than Saturday) immediately preceding such legal public holiday, notwithstanding that such delivery or transmission of such payments is made in the same calendar month for which such payments are issued.
 
@@ -14,7 +14,7 @@
 
 (2) The Secretary shall prescribe an appropriate method or methods for the delivery of payments of monetary benefits under laws administered by the Secretary in cases described in paragraph (1) of this subsection. To the maximum extent practicable, such method or methods shall be designed to ensure the delivery of payments in such cases.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1227, §3020; Pub. L. 95–117, title IV, §402(a), (b)(1), Oct. 3, 1977, 91 Stat. 1065, 1066; Pub. L. 97–295, §4(73), Oct. 12, 1982, 96 Stat. 1310; Pub. L. 99–570, title XI, §11007(a)(2), Oct. 27, 1986, 100 Stat. 3207–170; Pub. L. 99–576, title VII, §701(65), Oct. 28, 1986, 100 Stat. 3296; renumbered §5120, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, §4(a)(1), (3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1227, §3020; Pub. L. 95–117, title IV, §402(a), (b)(1), Oct. 3,1977, 91 Stat. 1065, 1066; Pub. L. 97–295, §4(73), Oct. 12, 1982, 96 Stat. 1310; Pub. L. 99–570, title XI, §11007(a)(2), Oct. 27, 1986, 100 Stat. 3207–170; Pub. L. 99–576, title VII, §701(65), Oct. 28, 1986, 100 Stat. 3296; renumbered §5120, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, §4(a)(1), (3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405.)
 
 #### Amendments
 

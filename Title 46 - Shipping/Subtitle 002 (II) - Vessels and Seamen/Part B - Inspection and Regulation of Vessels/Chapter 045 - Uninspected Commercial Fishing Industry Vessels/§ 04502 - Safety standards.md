@@ -70,7 +70,7 @@
 
 &emsp;(B) the physical characteristics of which are substantially altered after December 31, 1989, in a manner that affects the vessel's operating stability.
 
-(2) The Secretary may accept, as evidence of compliance with this subsection, a certification of compliance issued by the person providing insurance for the vessel or by another qualified person approved by the Secretary.
+(2) The Secretary may accept, as evidence of compliance with this subsection, a certificationof compliance issued by the person providing insurance for the vessel or by another qualified person approved by the Secretary.
 
 (e) In prescribing regulations under this chapter, the Secretary—
 
@@ -156,9 +156,13 @@ Section 602(f) of Pub. L. 101–595, provided that: “This section \[amending t
 
 #### Studies Regarding Safety of Fishing Vessels
 
-Section 5(a) of Pub. L. 100–424 directed Secretary of Transportation, utilizing National Academy of Engineering and in consultation with National Transportation Safety Board, Commercial Fishing Industry Vessel Advisory Committee, and fishing industry, to conduct a study of safety problems on fishing industry vessels, and to make recommendations regarding whether a vessel inspection program could be implemented for fishing vessels, fish tender vessels, and fish processing vessels, including recommendations on nature and scope of that inspection, and further provided for submission of the study and recommendations to Congress before Jan. 1, 1990.
+Section 5(a) of Pub. L. 100–424 directed Secretary of Transportation, utilizing National Academy of Engineering and in consultation with National Transportation Safety Board, Commercial Fishing Industry Vessel Advisory Committee, and fishing industry, to conduct a study of safety problems on fishing industry vessels, and to make recommendations regarding whethera vessel inspection program could be implemented for fishing vessels, fish tender vessels, and fish processing vessels, including recommendations on nature and scope of that inspection, and further provided for submission of the study and recommendations to Congress before Jan. 1, 1990.
 
 Section 5(b) of Pub. L. 100–424 directed Secretary of department in which Coast Guard is operating, in consultation with Commercial Fishing Industry Vessel Advisory Committee established under section 4508 of this title, and with representatives of persons operating fish processing vessels to conduct a study of fish processing vessels that are not surveyed and classed by an organization approved by Secretary, and to make recommendations regarding what hull and machinery requirements could apply to such vessels to ensure that those vessels are operated and maintained in a condition in which they are safe to operate at sea, and further provided for submission of such study and recommendations to Congress before July 28, 1991.
+
+#### Territorial Sea of United States
+
+For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
 
 #### Section Referred to in Other Sections
 

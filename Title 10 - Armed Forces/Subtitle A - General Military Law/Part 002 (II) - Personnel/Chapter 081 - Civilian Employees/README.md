@@ -3,8 +3,9 @@
 | Sec. |  |
 | :--- | ---: |
 | [1580\.](%C2%A7%2001580%20-%20Emergency%20essential%20employees%20designation.md) | Emergency essential employees: designation. |
+| [1580a.](%C2%A7%2001580a%20-%20Emergency%20essential%20employees%20notification%20of%20required%20participation%20in%20anthrax%20vaccine%20immunization%20program.md) | Emergency essential employees: notification of required participation in anthrax vaccine immunization program. |
 | [1581\.](%C2%A7%2001581%20-%20Foreign%20National%20Employees%20Separation%20Pay%20Account.md) | Foreign National Employees Separation Pay Account. |
-| \[1582. | Repealed.\] |
+| [1582\.](%C2%A7%2001582%20-%20Assistive%20technology%2C%20assistive%20technology%20devices%2C%20and%20assistive%20technology%20services.md) | Assistive technology, assistive technology devices, and assistive technology services. |
 | [1583\.](%C2%A7%2001583%20-%20Employment%20of%20certain%20persons%20without%20pay.md) | Employment of certain persons without pay. |
 | [1584\.](%C2%A7%2001584%20-%20Employment%20of%20non-citizens.md) | Employment of non-citizens. |
 | [1585\.](%C2%A7%2001585%20-%20Carrying%20of%20firearms.md) | Carrying of firearms. |
@@ -19,7 +20,8 @@
 | [1593\.](%C2%A7%2001593%20-%20Uniform%20allowance%20civilian%20employees.md) | Uniform allowance: civilian employees. |
 | [1594\.](%C2%A7%2001594%20-%20Reimbursement%20for%20financial%20institution%20charges%20incurred%20because%20of%20Government%20error%20in%20direct%20deposit%20of%20pay.md) | Reimbursement for financial institution charges incurred because of Government error in direct deposit of pay. |
 | [1595\.](%C2%A7%2001595%20-%20Civilian%20faculty%20members%20at%20certain%20Department%20of%20Defense%20schools%20employment%20and%20compensation.md) | Civilian faculty members at certain Department of Defense schools: employment and compensation. |
-| [1596\.](%C2%A7%2001596%20-%20Foreign%20language%20proficiency%20special%20pay.md) | Foreign language proficiency: special pay. |
+| [1596\.](%C2%A7%2001596%20-%20Foreign%20language%20proficiency%20special%20pay%20for%20proficiency%20beneficial%20for%20intelligence%20interests.md) | Foreign language proficiency: special pay for proficiency beneficial for intelligence interests. |
+| [1596a.](%C2%A7%2001596a%20-%20Foreign%20language%20proficiency%20special%20pay%20for%20proficiency%20beneficial%20for%20other%20national%20security%20interests.md) | Foreign language proficiency: special pay for proficiency beneficial for other national security interests. |
 | [1597\.](%C2%A7%2001597%20-%20Civilian%20positions%20guidelines%20for%20reductions.md) | Civilian positions: guidelines for reductions. |
 | [1598\.](%C2%A7%2001598%20-%20Assistance%20to%20terminated%20employees%20to%20obtain%20certification%20and%20employment%20as%20teachers%20or%20employment%20as%20teachers%E2%80%99%20aides.md) | Assistance to terminated employees to obtain certification and employment as teachers or employment as teachers’ aides. |
 | \[1599. | Renumbered.\] |
@@ -30,6 +32,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2000—Pub. L. 106–398, §1 \[\[div. A\], title VII, §751(c)(2), title XI, §§1102(b), 1131(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–194, 1654A–311, 1654A–317, added items 1580a, 1582, 1596, and 1596a and struck out former item 1596 “Foreign language proficiency: special pay”.
 
 1999—Pub. L. 106–65, div. A, title XI, §1103(b)(2), Oct. 5, 1999, 113 Stat. 777, added item 1580.
 
@@ -87,8 +91,9 @@ This chapter is referred to in section 1552 of this title.
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 01580 - Emergency essential employees designation](%C2%A7%2001580%20-%20Emergency%20essential%20employees%20designation.md)
+- [&sect; 01580a - Emergency essential employees notification of required participation in anthrax vaccine immunization program](%C2%A7%2001580a%20-%20Emergency%20essential%20employees%20notification%20of%20required%20participation%20in%20anthrax%20vaccine%20immunization%20program.md)
 - [&sect; 01581 - Foreign National Employees Separation Pay Account](%C2%A7%2001581%20-%20Foreign%20National%20Employees%20Separation%20Pay%20Account.md)
-- [&sect; 01582 - Repealed. Pub. L. 97&#8211;295, &sect;1(19)(A), Oct. 12, 1982, 96 Stat. 1290](%C2%A7%2001582%20-%20Repealed.%20Pub.%20L.%2097%E2%80%93295%2C%20%C2%A71%2819%29%28A%29%2C%20Oct.%2012%2C%201982%2C%2096%20Stat.%201290.md)
+- [&sect; 01582 - Assistive technology, assistive technology devices, and assistive technology services](%C2%A7%2001582%20-%20Assistive%20technology%2C%20assistive%20technology%20devices%2C%20and%20assistive%20technology%20services.md)
 - [&sect; 01583 - Employment of certain persons without pay](%C2%A7%2001583%20-%20Employment%20of%20certain%20persons%20without%20pay.md)
 - [&sect; 01584 - Employment of non-citizens](%C2%A7%2001584%20-%20Employment%20of%20non-citizens.md)
 - [&sect; 01585 - Carrying of firearms](%C2%A7%2001585%20-%20Carrying%20of%20firearms.md)
@@ -103,7 +108,8 @@ This chapter is referred to in section 1552 of this title.
 - [&sect; 01593 - Uniform allowance civilian employees](%C2%A7%2001593%20-%20Uniform%20allowance%20civilian%20employees.md)
 - [&sect; 01594 - Reimbursement for financial institution charges incurred because of Government error in direct deposit of pay](%C2%A7%2001594%20-%20Reimbursement%20for%20financial%20institution%20charges%20incurred%20because%20of%20Government%20error%20in%20direct%20deposit%20of%20pay.md)
 - [&sect; 01595 - Civilian faculty members at certain Department of Defense schools employment and compensation](%C2%A7%2001595%20-%20Civilian%20faculty%20members%20at%20certain%20Department%20of%20Defense%20schools%20employment%20and%20compensation.md)
-- [&sect; 01596 - Foreign language proficiency special pay](%C2%A7%2001596%20-%20Foreign%20language%20proficiency%20special%20pay.md)
+- [&sect; 01596 - Foreign language proficiency special pay for proficiency beneficial for intelligence interests](%C2%A7%2001596%20-%20Foreign%20language%20proficiency%20special%20pay%20for%20proficiency%20beneficial%20for%20intelligence%20interests.md)
+- [&sect; 01596a - Foreign language proficiency special pay for proficiency beneficial for other national security interests](%C2%A7%2001596a%20-%20Foreign%20language%20proficiency%20special%20pay%20for%20proficiency%20beneficial%20for%20other%20national%20security%20interests.md)
 - [&sect; 01597 - Civilian positions guidelines for reductions](%C2%A7%2001597%20-%20Civilian%20positions%20guidelines%20for%20reductions.md)
 - [&sect; 01598 - Assistance to terminated employees to obtain certification and employment as teachers or employment as teachers&#8217; aides](%C2%A7%2001598%20-%20Assistance%20to%20terminated%20employees%20to%20obtain%20certification%20and%20employment%20as%20teachers%20or%20employment%20as%20teachers%E2%80%99%20aides.md)
 - [&sect; 01599 - Renumbered &sect;1611](%C2%A7%2001599%20-%20Renumbered%20%C2%A71611.md)

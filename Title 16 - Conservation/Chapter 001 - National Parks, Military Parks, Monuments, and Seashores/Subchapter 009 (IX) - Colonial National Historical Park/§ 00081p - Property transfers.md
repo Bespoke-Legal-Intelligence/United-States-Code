@@ -20,13 +20,15 @@ Notwithstanding the provisions of sections 81b and 81d of this title, limiting t
 
 There are authorized to be appropriated such sums as are necessary to carry out this section.
 
-(Pub. L. 104–333, div. I, title II, §211, Nov. 12, 1996, 110 Stat. 4109; Pub. L. 106–113, div. B, §1000(a)(3) \[title I, §122\], Nov. 29, 1999, 113 Stat. 1535, 1501A–159.)
+(Pub. L. 104–333, div. I, title II, §211, Nov. 12, 1996, 110 Stat. 4109; Pub. L. 106–113, div. B, §1000(a)(3) \[title I, §122\], Nov. 29, 1999, 113 Stat. 1535, 1501A–159; Pub. L. 106–176, title I, §102, Mar. 10, 2000, 114 Stat. 25.)
 
 #### Codification
 
-Section was enacted as part of the Omnibus Parks and Public Lands Management Act of 1996, and not aspart of act July 3, 1930, ch. 837, 46 Stat. 855, which comprises this subchapter.
+Section was enacted as part of the Omnibus Parks and Public Lands Management Act of 1996, and not as part of act July 3, 1930, ch. 837, 46 Stat. 855, which comprises this subchapter.
 
 #### Amendments
+
+2000—Subsec. (d). Pub. L. 106–176 directed amendment identical to amendment by Pub. L. 106–113. See 1999 Amendment note below.
 
 1999—Subsec. (d). Pub. L. 106–113 substituted “depicted on the map dated August 1996, numbered 333/80031B,” for “depicted on the map dated August 1993, numbered 333/80031A,”.
 

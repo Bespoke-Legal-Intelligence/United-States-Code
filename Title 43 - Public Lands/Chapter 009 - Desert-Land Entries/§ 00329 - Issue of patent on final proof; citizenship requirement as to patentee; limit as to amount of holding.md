@@ -20,10 +20,6 @@ The period of four years prescribed by this section was extended to five years a
 
 Provisions of this section as not amended, modified or repealed by the Submerged Lands Act, see section 1303 of this title.
 
-#### Cross References
-
-Extension of time for final proofs, see sections 333, 334 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 321, 322, 323, 324, 326, 328, 333, 641, 1303 of this title; title 16 section 460iii–2.

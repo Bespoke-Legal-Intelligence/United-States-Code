@@ -2,7 +2,15 @@
 
 #### (a) Appropriations; payment
 
-(1)(A) From the sums appropriated under this chapter, the Secretary shall, subject to the provisions of this section, pay to the Commonwealth of Puerto Rico $1,143,000,000 for fiscal year 1996, $1,174,000,000 for fiscal year 1997, $1,204,000,000 for fiscal year 1998, $1,236,000,000 for fiscal year 1999, $1,268,000,000 for fiscal year 2000, $1,301,000,000 for fiscal year 2001, and $1,335,000,000 for fiscal year 2002, to finance 100 percent of the expenditures for food assistance provided to needy persons and 50 percent of the administrative expenses related to the provision of the assistance.
+(1)(A) From the sums appropriated under this chapter, the Secretary shall, subject to the provisions of this section, pay to the Commonwealth of Puerto Rico—
+
+&emsp;(i) for fiscal year 2000, $1,268,000,000;
+
+&emsp;(ii) for fiscal year 2001, the amount required to be paid under clause (i) for fiscal year 2000, as adjusted by the change in the Food at Home series of the Consumer Price Index for All Urban Consumers, published by the Bureau of Labor Statistics of the Department of Labor, for the most recent 12-month period ending in June; and
+
+&emsp;(iii) for fiscal year 2002, the amount required to be paid under clause (ii) for fiscal year 2001, as adjusted by the percentage by which the thrifty food plan is adjusted for fiscal year 2002 under section 2012(<i>o</i>)(4) of this title;
+
+> to finance 100 percent of the expenditures for food assistance provided to needy persons and 50 percent of the administrative expenses related to the provision of the assistance.
 
 (B) The payments to the Commonwealth for any fiscal year shall not exceed the expenditures by that jurisdiction during that year for the provision of the assistance the provision of which is included in the plan of the Commonwealth approved under subsection (b) of this section and 50 per centum of the related administrative expenses.
 
@@ -24,7 +32,7 @@
 
 (B)(i) The Secretary shall approve or disapprove any plan submitted pursuant to subparagraph (A) no later than August 1 of the year in which it is submitted. The Secretary shall approve any plan which complies with the requirements of subparagraph (A). If a plan is disapproved because it does not comply with any of the requirements of that paragraph the Secretary shall, except as provided in subparagraph (B)(ii), notify the appropriate agency in the Commonwealth that payments will not be made to it under subsection (a) of this section for the fiscal year to which the plan applies until the Secretary is satisfied that there is no longer any such failure to comply, and until the Secretary is so satisfied, the Secretary will make no payments.
 
-(ii) The Secretary may suspend the denial of payments under subparagraph (B)(i) for such period as the Secretary determines appropriate and instead withhold payments provided for under subsection (a) of this section, in whole or in part, for the fiscal year to which the plan applies, until the Secretary is satisfied that thereis no longer any failure to comply with the requirements of subparagraph (A), at which time such withheld payments shall be paid.
+(ii) The Secretary may suspend the denial of payments under subparagraph (B)(i) for such period as the Secretary determines appropriate and instead withhold payments provided for under subsection (a) of this section, in whole or in part, for the fiscal year to which the plan applies, until the Secretary is satisfied that there is no longer any failure to comply with the requirements of subparagraph (A), at which time such withheld payments shall be paid.
 
 (2)(A) The Commonwealth shall provide for a biennial audit of expenditures under its program for the provision of the assistance described in subsection (a)(1)(A) of this section, and within 120 days of the end of each fiscal year in which the audit is made, shall report to the Secretary the findings of such audit.
 
@@ -46,9 +54,11 @@
 
 Whoever knowingly and willfully embezzles, misapplies, steals, or obtains by fraud, false statement, or forgery, any funds, assets, or property provided or financed under this section shall be fined not more than $10,000 or imprisoned for not more than five years, or both, but if the value of the funds, assets or property involved is not over $200, the penalty shall be a fine of not more than $1,000 or imprisonment for not more than one year, or both.
 
-(Pub. L. 88–525, §19, as added Pub. L. 97–35, title I, §116(a)(2), Aug. 13, 1981, 95 Stat. 364; amended Pub. L. 97–253, title I, §184(a), Sept. 8, 1982, 96 Stat. 785; Pub. L. 98–204, §1, Dec. 2, 1983, 97 Stat. 1385; Pub. L. 99–114, §2, Oct. 1, 1985, 99 Stat. 488; Pub. L. 99–157, §3, Nov. 15, 1985, 99 Stat. 818; Pub. L. 99–182, §3, Dec. 13, 1985, 99 Stat. 1173; Pub. L. 99–198, title XV, §1543, Dec. 23, 1985, 99 Stat. 1589; Pub. L. 101–624, title XVII, §1762(b), Nov. 28, 1990, 104 Stat. 3804; Pub. L. 102–237, title IX, §941(9), Dec. 13, 1991, 105 Stat. 1893; Pub. L. 103–66, title XIII, §13917, Aug. 10, 1993, 107 Stat. 674; Pub. L. 104–127, title IV, §401(f), Apr. 4, 1996, 110 Stat. 1026.)
+(Pub. L. 88–525, §19, as added Pub. L. 97–35, title I, §116(a)(2), Aug. 13, 1981, 95 Stat. 364; amended Pub. L. 97–253, title I, §184(a), Sept. 8, 1982, 96 Stat. 785; Pub. L. 98–204, §1, Dec. 2, 1983, 97 Stat. 1385; Pub. L. 99–114, §2, Oct. 1, 1985, 99 Stat. 488; Pub. L. 99–157, §3, Nov. 15, 1985, 99 Stat. 818; Pub. L. 99–182, §3, Dec. 13, 1985, 99 Stat. 1173; Pub. L. 99–198, title XV, §1543, Dec. 23, 1985, 99 Stat. 1589; Pub. L. 101–624, title XVII, §1762(b), Nov. 28, 1990, 104 Stat. 3804; Pub. L. 102–237, title IX, §941(9), Dec. 13, 1991, 105 Stat. 1893; Pub. L. 103–66, title XIII, §13917, Aug. 10, 1993, 107 Stat. 674; Pub. L. 104–127, title IV, §401(f), Apr. 4, 1996, 110 Stat. 1026; Pub. L. 106–387, §1(a) \[title VIII, §821\], Oct. 28, 2000, 114 Stat. 1549, 1549A–59.)
 
 #### Amendments
+
+2000—Subsec. (a)(1)(A). Pub. L. 106–387 substituted “Puerto Rico—” and cls. (i) to (iii) for “Puerto Rico $1,143,000,000 for fiscal year 1996, $1,174,000,000 for fiscal year 1997, $1,204,000,000 for fiscal year 1998, $1,236,000,000 for fiscal year 1999, $1,268,000,000 for fiscal year 2000, $1,301,000,000 for fiscal year 2001, and $1,335,000,000 for fiscal year 2002,”.
 
 1996—Subsec. (a)(1)(A). Pub. L. 104–127 substituted “$1,143,000,000 for fiscal year 1996, $1,174,000,000 for fiscal year 1997, $1,204,000,000 for fiscal year 1998, $1,236,000,000 for fiscal year 1999, $1,268,000,000 for fiscal year 2000, $1,301,000,000 for fiscal year 2001, and $1,335,000,000 for fiscal year 2002” for “$974,000,000 for fiscal year 1991, $1,013,000,000 for fiscal year 1992, $1,051,000,000 for fiscal year 1993, $1,097,000,000 for fiscal year 1994, and $1,143,000,000 for fiscal year 1995”.
 

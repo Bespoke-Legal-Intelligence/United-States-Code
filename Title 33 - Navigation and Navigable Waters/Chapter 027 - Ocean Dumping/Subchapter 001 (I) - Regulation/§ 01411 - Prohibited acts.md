@@ -14,7 +14,7 @@
 
 #### Amendments
 
-1974—Subsec. (a). Pub. L. 93–254 incorporated existing provisions in introductory text, substituting reference to permits issued under section 1412 or section 1413 of this title for prior reference to such issuance under this subchapter; incorporated existing provisions in item designated (1); added item (2); and substituted prohibition against transportation of any material for ocean dumping for former prohibition against such dumping of any radiological, chemical, or biological warfare agent or any high-level radioactive waste, or any other material.
+1974—Subsec. (a). Pub. L. 93–254 incorporated existing provisions in introductory text, substituting reference to permits issued under section 1412 or section 1413 of this title for prior reference to such issuance under this subchapter; incorporated existing provisions in item designated (1); added item (2); and substituted prohibition against transportation of any material for ocean dumping for former prohibition against such dumpingof any radiological, chemical, or biological warfare agent or any high-level radioactive waste, or any other material.
 
 Subsec. (b). Pub. L. 93–254 substituted reference to permits issued under section 1412 of this title for former reference to such issuance under this subchapter, made any ocean dumping subject to regulations issued under section 1418 of this title, and substituted prohibition against dumping of any material for former prohibition against dumping of any radiological, chemical, or biological warfare agent or any high-level radioactive waste, or any other material.
 
@@ -32,13 +32,9 @@ Section 110(a) of title I of Pub. L. 92–532 provided that: “This title \[thi
 
 Section 110(b) of title I of Pub. L. 92–532 provided that: “No legal action begun, or right of action accrued, prior to the effective date of this title \[this subchapter\] shall be affected by any provision of this title \[this subchapter\].”
 
-#### Territorial Sea of United States
+#### Territorial Sea and Contiguous Zone of United States
 
-For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
-
-#### Contiguous Zone of United States
-
-For extension of contiguous zone of United States, see Proc. No. 7219, Sept. 2, 1999, 64 F.R. 48701, set out as a note under section 1331 of Title 43, Public Lands.
+For extension of territorial sea and contiguous zone of United States, see Proc. No. 5928 and Proc. No. 7219, respectively, set out as notes under section 1331 of Title 43, Public Lands.
 
 #### Section Referred to in Other Sections
 

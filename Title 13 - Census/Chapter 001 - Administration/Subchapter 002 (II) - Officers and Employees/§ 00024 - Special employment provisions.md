@@ -8,7 +8,7 @@
 
 (d) The Secretary may fix compensation on a piece-price basis without limitation as to the amount earned per diem, and payments may be made to enumerators for the use of private automobiles on official business without regard to section 4 of the Travel Expense Act of 1949, as amended (5 U.S.C. 837), but at rates not in excess of the rates provided by that Act.
 
-(e) The Secretary may authorize the expenditure of necessary sums for travel expenses of persons selected for appointment for attendance at training courses held by the Department ofCommerce with respect to any of the work provided for by law.
+(e) The Secretary may authorize the expenditure of necessary sums for travel expenses of persons selected for appointment for attendance at training courses held by the Department of Commerce with respect to any of the work provided for by law.
 
 (f) Notwithstanding any other provision of law prohibiting the expenditure of public money for telephone service, the Secretary, under such regulations as he shall prescribe, may authorize reimbursement for tolls or charges for telephone service from private residences or private apartments to the extent such charges are determined by the Secretary to have been incurred to facilitate the collection of information in connection with the censuses and surveys authorized by this title.
 
@@ -28,7 +28,7 @@ Words “except that such special agents shall be appointed in accordance with t
 
 The provisions of section 203 of title 13, U.S.C., 1952 ed., relating to per diem rates of compensation for special agents, to authority to detail permanent employees and special agents to act as supervisors or enumerators, and to duties thereof, were omitted as obsolete and superseded by the Classification Act of 1949.
 
-The provision of section 203 of title 13, U.S.C., 1952 ed., that the Director of the Census might delegate to the supervisors the authority to appoint enumerators, was omitted because all functions of the Director and other officers and employees of the Department of Commerce and its bureaus and agencies were transferred to the Secretary by 1950 Reorganization Plan No. 5, referred to above. However, section 4 of this title provides for delegation of functions by the Secretary.
+The provision of section 203 of title 13, U.S.C., 1952 ed., that the Director of the Census might delegate to the supervisors the authority to appoint enumerators, was omitted because all functions of the Director and other officers and employees of the Department ofCommerce and its bureaus and agencies were transferred to the Secretary by 1950 Reorganization Plan No. 5, referred to above. However, section 4 of this title provides for delegation of functions by the Secretary.
 
 Words “on a temporary basis” were inserted after “appointed” in subsection (a) for the purpose of clarity.
 
@@ -51,12 +51,6 @@ Section 4 of the Travel Expense Act of 1949, as amended (5 U.S.C. 837), referred
 #### Salary Protection for Employees Subject to Classification Act of 1949
 
 Special provisions of this section respecting utilization of nontemporary employees of the Bureau of the Census in temporary positions in connection with any census unaffected by provisions for salary protection to employees subject to Classification Act of 1949, see section 103 of Pub. L. 87–270, title I, Sept. 21, 1961, 75 Stat. 569.
-
-#### Cross References
-
-Collection and publication of foreign commerce and trade statistics, applicability of section to, see section 307 of this title.
-
-Duties of employees doing census work and making surveys, see section 25 of this title.
 
 #### Section Referred to in Other Sections
 

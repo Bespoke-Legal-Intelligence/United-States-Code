@@ -22,10 +22,6 @@ Notwithstanding any other provision of this part, no direct loans or guarantees 
 
 (Pub. L. 93–618, title II, §254, Jan. 3, 1975, 88 Stat. 2031; Pub. L. 97–35, title XXV, §2522, Aug. 13, 1981, 95 Stat. 891; Pub. L. 99–272, title XIII, §13006(b), Apr. 7, 1986, 100 Stat. 304.)
 
-#### Termination of Section
-
-<i>For termination of section by section 285 of Pub. L. 93–618, see Termination Date note set out preceding section 2271 of this title.</i>
-
 #### Amendments
 
 1986—Subsec. (d). Pub. L. 99–272 added subsec. (d).
@@ -35,6 +31,10 @@ Notwithstanding any other provision of this part, no direct loans or guarantees 
 #### Effective Date of 1981 Amendment
 
 Amendment by Pub. L. 97–35 effective Aug. 13, 1981, except as otherwise provided with respect to applications for adjustment assistance, see section 2529 of Pub. L. 97–35, set out as a note under section 2343 of this title.
+
+#### Termination Date
+
+No technical assistance to be provided under this part after Sept. 30, 2001, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -19,5 +19,6 @@ Part A—General Provisions
 - [&sect; 00296c - Matching requirement](%C2%A7%2000296c%20-%20Matching%20requirement.md)
 - [&sect; 00296d - Preference](%C2%A7%2000296d%20-%20Preference.md)
 - [&sect; 00296e - Generally applicable provisions](%C2%A7%2000296e%20-%20Generally%20applicable%20provisions.md)
+- [&sect; 00296e&#8211;1 - Grants for health professions education](%C2%A7%2000296e%E2%80%931%20-%20Grants%20for%20health%20professions%20education.md)
 - [&sect; 00296f - Technical assistance](%C2%A7%2000296f%20-%20Technical%20assistance.md)
 - [&sect; 00296g - Prohibition against discrimination by schools on basis of sex](%C2%A7%2000296g%20-%20Prohibition%20against%20discrimination%20by%20schools%20on%20basis%20of%20sex.md)

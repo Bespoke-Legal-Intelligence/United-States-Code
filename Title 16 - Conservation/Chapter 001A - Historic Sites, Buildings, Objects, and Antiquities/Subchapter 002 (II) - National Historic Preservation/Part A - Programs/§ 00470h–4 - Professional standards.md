@@ -18,7 +18,7 @@ In order to promote the preservation of historic resources on properties eligibl
 
 &emsp;(2) encourage owners to preserve such resources intact and in place and offer the owners of such resources information on the tax and grant assistance available for the donation of the resources or of a preservation easement of the resources;
 
-&emsp;(3) encourage the protection of Native American cultural items (within the meaning of section 3001(3) and (9) of title 25 <sup>1</sup> and of properties of religious or cultural importance to Indian tribes, Native Hawaiians, or other Native American groups; and
+&emsp;(3) encourage the protection of Native American cultural items (within the meaning of section 3001(3) and (9) of title 25) and of properties of religious or cultural importance to Indian tribes, Native Hawaiians, or other Native American groups; and
 
 &emsp;(4) encourage owners who are undertaking archaeological excavations to—
 
@@ -30,11 +30,13 @@ In order to promote the preservation of historic resources on properties eligibl
 
 &emsp;&emsp;(D) prior to excavating or disposing of a Native American cultural item in which an Indian tribe or Native Hawaiian organization may have an interest under section 3002(a)(2)(B) or (C) of title 25, given notice to and consult with such Indian tribe or Native Hawaiian organization.
 
-(Pub. L. 89–665, title I, §112, as added Pub. L. 102–575, title XL, §4014, Oct. 30, 1992, 106 Stat. 4761.)
+(Pub. L. 89–665, title I, §112, as added Pub. L. 102–575, title XL, §4014, Oct. 30, 1992, 106 Stat. 4761; amended Pub. L. 106–208, §5(a)(9), May 26, 2000, 114 Stat. 319.)
 
 #### Codification
 
 October 30, 1992, referred to in subsec. (a)(1)(B), was in the original “the date of enactment of this Act” which was translated as meaning the date of enactment of Pub. L. 102–575 which enacted this section, to reflect the probable intent of Congress.
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by closing parenthesis.</i>
+#### Amendments
+
+2000—Subsec. (b)(3). Pub. L. 106–208 inserted closing parenthesis after “title 25”.
 

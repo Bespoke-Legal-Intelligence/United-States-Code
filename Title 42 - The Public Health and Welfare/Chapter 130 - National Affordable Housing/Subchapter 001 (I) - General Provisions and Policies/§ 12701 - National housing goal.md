@@ -4,6 +4,10 @@ The Congress affirms the national goal that every American family be able to aff
 
 (Pub. L. 101–625, title I, §101, Nov. 28, 1990, 104 Stat. 4085.)
 
+#### Short Title of 2000 Amendment
+
+Pub. L. 106–569, title I, §101, Dec. 27, 2000, 114 Stat. 2946, provided that: “This title \[amending sections 5307, 12705c, and 12705d of this title\] may be cited as the ‘Housing Affordability Barrier Removal Act of 2000’.”
+
 #### Short Title
 
 Section 1(a) of Pub. L. 101–625 provided that: “This Act \[see Tables for classification\] may be cited as the ‘Cranston-Gonzalez National Affordable Housing Act’.”
@@ -14,7 +18,7 @@ Section 301 of Pub. L. 101–625 provided that: “This subtitle \[subtitle A (�
 
 #### Millennial Housing Commission
 
-Pub. L. 106–74, title II, §206, Oct. 20, 1999, 113 Stat. 1070, provided that:
+Pub. L. 106–74, title II, §206, Oct. 20, 1999, 113 Stat. 1070, as amended by Pub. L. 106–554, §1(a)(4) \[div. B, title X, §1001\], Dec. 21, 2000, 114 Stat. 2763, 2763A–310, provided that:
 
 “(a)
 
@@ -44,7 +48,7 @@ Number and Appointment.—The Commission shall be composed of 22 members, appoin
 
 &emsp;&emsp;&emsp;“(ii) one co-chairperson appointed by a committee consisting of the ranking minority members of the Subcommittees on the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies of the Committees on Appropriations of the House of Representatives and the Senate, and the ranking minority member of the Subcommittee on Housing and Community Opportunities of the House of Representatives and the ranking minority member of the Subcommittee on Housing and Transportation of the Senate.
 
-&emsp;&emsp;“(B) Ten members appointed by the Chairman and Ranking Minority Member of the Committee on Appropriations of the House of Representatives and the Chairman and Ranking Minority Member of the Committee on Banking and Financial Services of the House of Representatives.
+&emsp;&emsp;“(B) Ten members appointed by the Chairman and Ranking Minority Member of the Committee on Appropriations of the House of Representatives and the Chairman and Ranking Minority Member of the Committee on Banking and Financial Services \[now Committee on Financial Services\] of the House of Representatives.
 
 &emsp;&emsp;“(C) Ten members appointed by the Chairman and Ranking Minority Member of the Committee on Appropriations of the Senate and the Chairman and Ranking Minority Member of the Committee on Banking, Housing, and Urban Affairs of the Senate.
 
@@ -82,7 +86,7 @@ Director and Staff.—
 
 &emsp;“(1)
 
-Director.—The Commission shall have a Director who shall be appointed by the Chairperson. The Director shall be paid at a rate not to exceed the rate of basic pay payable for level V of the Executive Schedule.
+Director.—The Commission shall have a Director who shall be appointed by the Chairperson. The Director shall be paid at a rate not to exceed the rate of basic pay payable for level III of the Executive Schedule.
 
 &emsp;“(2)
 
@@ -94,7 +98,7 @@ Experts and consultants.—The Commission may procure temporary and intermittent
 
 &emsp;“(4)
 
-Staff of federal agencies.—Upon request of the Commission, the head of any Federal department or agency may detail, on a reimbursable basis, any of the personnel of that department or agency to the Commission to assist it in carrying out its duties under this Act.
+Staff of federal agencies.—Upon request of the Commission, the head of any Federal department or agency may detail, on a non-reimbursable basis, any of the personnel of that department or agency to the Commission to assist it in carrying out its duties under this Act.
 
 “(e)
 
@@ -130,19 +134,19 @@ Contract Authority.—The Commission may contract with and compensate Government
 
 “(f)
 
-Report.—The Commission shall submit to the Committees on Appropriations and Banking and Financial Services of the House of Representatives and the Committees on Appropriations and Banking, Housing, and Urban Affairs of the Senate a final report not later than March 1, 2002. The report shall contain a detailed statement of the findings and conclusions of the Commission with respect to the study conducted under subsection (b), together with its recommendations for legislation, administrative actions, and any other actions the Commission considers appropriate.
+Report.—The Commission shall submit to the Committees on Appropriations and Banking and Financial Services \[now Committee on Financial Services\] of the House of Representatives and the Committees on Appropriations and Banking, Housing, and Urban Affairs of the Senate a final report not later than March 1, 2002. The report shall contain a detailed statement of the findings and conclusions of the Commission with respect to the study conducted under subsection (b), together with its recommendations for legislation, administrative actions, and any other actions the Commission considers appropriate.
 
 “(g)
 
 Termination.—The Commission shall terminate on June 30, 2002. Section 14(a)(2)(B) of the Federal Advisory Committee Act (5 U.S.C. App.; relating to the termination of advisory committees) shall not apply to the Commission.”
 
-#### Commission on Affordable Housing and Health Care Facility Needs in the 21st Century
+#### Commission on Affordable Housing and Health Facility Needs for Seniors in the 21st Century
 
-Pub. L. 106–74, title V, §525, Oct. 20, 1999, 113 Stat. 1106, provided that:
+Pub. L. 106–74, title V, §525, Oct. 20, 1999, 113 Stat. 1106, as amended by Pub. L. 106–377, §1(a)(1) \[title II, §230\], Oct. 27, 2000, 114 Stat. 1441, 1441A–31, provided that:
 
 “(a)
 
-Establishment.—There is hereby established a commission to be known as the Commission on Affordable Housing and Health Care Facility Needs in the 21st Century (in this section referred to as the ‘Commission’.
+Establishment.—There is hereby established a commission to be known as the Commission on Affordable Housing and Health Facility Needs for Seniors in the 21st Century (in this section referred to as the ‘Commission’.
 
 “(b)
 
@@ -176,7 +180,7 @@ Number and Appointment.—The Commission shall be composed of 14 members, appoin
 
 &emsp;&emsp;&emsp;“(ii) one co-chairperson shall be appointed by a committee consisting of the ranking minority member of the Subcommittee on Housing and Community Opportunities of the House of Representatives and the ranking minority member of the Subcommittee on Housing and Transportation of the Senate, and the ranking minority members of the Subcommittees on the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies of the Committees on Appropriations of the House of Representatives and the Senate.
 
-&emsp;&emsp;“(B) Six members appointed by the Chairman and Ranking Minority Member of the Committee on Banking and Financial Services of the House of Representatives and the Chairman and Ranking Minority Member of the Committee on Appropriations of the House of Representatives.
+&emsp;&emsp;“(B) Six members appointed by the Chairman and Ranking Minority Member of the Committee on Banking and Financial Services \[now Committee on Financial Services\] of the House of Representatives and the Chairman and Ranking Minority Member of the Committee on Appropriations of the House of Representatives.
 
 &emsp;&emsp;“(C) Six members appointed by the Chairman and Ranking Minority Member of the Committee on Banking, Housing, and Urban Affairs of the Senate and the Chairman and Ranking Minority Member of the Committee on Appropriations of the Senate.
 
@@ -250,7 +254,7 @@ Gifts, bequests, and devises.—The Commission may accept, use, and dispose of g
 
 &emsp;“(5)
 
-Mails.—The Commission may use the United States mails in the same manner and under the same conditions as other departments and agencies of the United States.
+Mails.—The Commission may use the United States mails in the same manner and under the sameconditions as other departments and agencies of the United States.
 
 &emsp;“(6)
 
@@ -262,7 +266,7 @@ Contract authority.—The Commission may contract with and compensate Government
 
 “(f)
 
-Report.—The Commission shall submit to the Committees on Banking and Financial Services and Appropriations of the House of Representatives and the Committees on Banking, Housing, and Urban Affairs and Appropriations of the Senate, a final report not later than December 31, 2001. The report shall contain a detailed statement of the findings and conclusions of the Commission with respect to the study conducted under subsection (b), together with its recommendations for legislation, administrative actions, and any other actions the Commission considers appropriate.
+Report.—The Commission shall submit to the Committees on Banking and Financial Services \[now Committee on Financial Services\] and Appropriations of the House of Representatives and the Committees on Banking, Housing, and Urban Affairs and Appropriations of the Senate, a final report not later than December 31, 2001. The report shall contain a detailed statement of the findings and conclusions of the Commission with respect to the study conducted under subsection (b), together with its recommendations for legislation, administrative actions, and any other actions the Commission considers appropriate.
 
 “(g)
 

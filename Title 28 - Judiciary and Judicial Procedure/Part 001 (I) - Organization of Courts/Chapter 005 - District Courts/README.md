@@ -78,29 +78,15 @@ All references to fixed terms of holding court were also omitted in order to ves
 
 #### Amendments
 
-1982—Pub. L. 97–164, title I, §115(c)(3), Apr. 2, 1982, 96 Stat. 32, struck out item 142 “Accommodations at places for holding court”.
+<b>1982</b>—Pub. L. 97–164, title I, §115(c)(3), Apr. 2, 1982, 96 Stat. 32, struck out item 142 “Accommodations at places for holding court”.
 
-1963—Pub. L. 88–139, §3(a), Oct. 16, 1963, 77 Stat. 248, substituted “Terms abolished” for “Times for holding regular terms” in item 138, “Times for holding regular sessions” for “Term continued until terminated” in item 139, and “sessions” for “terms” in item 141.
+<b>1963</b>—Pub. L. 88–139, §3(a), Oct. 16, 1963, 77 Stat. 248, substituted “Terms abolished” for “Times for holding regular terms” in item 138, “Times for holding regular sessions” for “Term continued until terminated” in item 139, and “sessions” for “terms” in item 141.
 
-1958—Pub. L. 85–508, §12(a), July 7, 1958, 72 Stat. 348, added item 81A.
+<b>1958</b>—Pub. L. 85–508, §12(a), July 7, 1958, 72 Stat. 348, added item 81A.
 
 #### Short Title of 1978 Amendment
 
 For short title of Pub. L. 95–408, Oct. 2, 1978, 92 Stat. 883, as “Federal District Court Organization Act of 1978”, see note set out under section 1 of this title.
-
-#### Federal Rules of Civil Procedure
-
-See Appendix to this title.
-
-#### Cross References
-
-Guam and Virgin Islands district courts, see sections 1424, 1424b, and 1611 et seq. of Title 48, Territories and Insular Possessions.
-
-Jurisdiction and venue of district courts, see sections 1331 et seq. and 1391 et seq. of this title.
-
-Northern Mariana Islands district court, see sections 1821 to 1826 of Title 48, Territories and Insular Possessions.
-
-Three-judge courts, composition, see section 2284 of this title.
 
 #### Chapter Referred to in Other Sections
 

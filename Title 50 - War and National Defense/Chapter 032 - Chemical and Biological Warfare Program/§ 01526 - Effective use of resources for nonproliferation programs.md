@@ -12,7 +12,7 @@ The prohibition contained in subsection (a) of this section shall not apply to a
 
 #### References in Text
 
-The National Security Act of 1947, referred to in subsec. (b), is act July 26, 1947, ch. 343, 61 Stat. 495, as amended. Title V of the Act is classified generally tosubchapter III (§413 et seq.) of chapter 15 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 401 of this title and Tables.
+The National Security Act of 1947, referred to in subsec. (b), is act July 26, 1947, ch. 343, 61 Stat. 495, as amended. Title V of the Act is classified generally to subchapter III (§413 et seq.) of chapter 15 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 401 of this title and Tables.
 
 #### Codification
 

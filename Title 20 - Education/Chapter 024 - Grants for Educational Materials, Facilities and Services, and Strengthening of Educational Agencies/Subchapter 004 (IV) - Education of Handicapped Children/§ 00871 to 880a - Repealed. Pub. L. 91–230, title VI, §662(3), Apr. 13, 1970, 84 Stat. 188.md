@@ -1,6 +1,6 @@
 ### §§871 to 880a. Repealed. Pub. L. 91–230, title VI, §662(3), Apr. 13, 1970, 84 Stat. 188
 
-Section 871, Pub. L. 89–10, title VI, §601, formerly §601(a), as added Pub. L. 89–750, title I, §161, Nov. 3, 1966, 80 Stat. 1204; renumbered §601 and amended Pub. L. 90–247, title I, §§151(4), 152(b)(2), title III, §301(c)(1), Jan. 2, 1968, 81 Stat. 800, 803, 813, authorized grants to States for education of handicapped children.
+Section 871, Pub. L. 89–10, title VI, §601, formerly §601(a), as added Pub. L. 89–750, title I, §161, Nov. 3, 1966, 80 Stat. 1204; renumbered §601 and amended Pub.L. 90–247, title I, §§151(4), 152(b)(2), title III, §301(c)(1), Jan. 2, 1968, 81 Stat. 800, 803, 813, authorized grants to States for education of handicapped children.
 
 Section 872, Pub. L. 89–10, title VI, §602, formerly §601(b), as added Pub. L. 89–750, title I, §161, Nov. 3, 1966, 80 Stat. 1204; renumbered §602 and amended Pub. L. 90–247, title I, §§151(4), 152(b)(3), title III, §301(c)(2), Jan. 2, 1968, 81 Stat. 800, 803, 813, authorized appropriations of $50,000,000; $150,000,000; $162,500,000; and $200,000,000 for fiscal years ending June 30, 1967, 1968, 1969, 1970, respectively.
 
@@ -24,7 +24,7 @@ Section 878, Pub. L. 89–10, title VI, §611, formerly §608, as added Pub. L. 
 
 Section 879, Pub. L. 89–10, title VI, §612, formerly §609, as added Pub. L. 89–750, title I, §161, Nov. 3, 1966, 80 Stat. 1208; renumbered §612, Pub. L. 90–247, title I, §151(3), Jan. 2, 1968, 81 Stat. 800, provided for a bureau for education and training of the handicapped.
 
-Section 880, Pub. L. 89–10, title VI, §613, formerly §610, as added Pub. L. 89–750, title I, §161, Nov. 3, 1966,80 Stat. 1208; renumbered §613, Pub. L. 90–247, title I, §151(3), Jan. 2, 1968, 81 Stat. 800, provided for labor standards requirement (prevailing wage rates).
+Section 880, Pub. L. 89–10, title VI, §613, formerly §610, as added Pub. L. 89–750, title I, §161, Nov. 3, 1966, 80 Stat. 1208; renumbered §613, Pub. L. 90–247, title I, §151(3), Jan. 2, 1968, 81 Stat. 800, provided for labor standards requirement (prevailing wage rates).
 
 Section 880a, Pub. L. 89–10, title VI, §614, formerly §602, as added Pub. L. 89–750, title I, §161, Nov. 3, 1966, 80 Stat. 1204; renumbered §614, Pub. L. 90–247, title I, §152(a), Jan. 2, 1968, 81 Stat. 803, defined “handicapped children”.
 

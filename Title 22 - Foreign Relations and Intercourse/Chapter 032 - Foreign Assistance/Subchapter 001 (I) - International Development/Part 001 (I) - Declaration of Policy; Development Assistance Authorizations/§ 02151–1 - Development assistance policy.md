@@ -4,7 +4,7 @@
 
 The Congress finds that the efforts of developing countries to build and maintain the social and economic institutions necessary to achieve self-sustaining growth and to provide opportunities to improve the quality of life for their people depend primarily upon successfully marshalling their own economic and human resources. The Congress recognizes that the magnitude of these efforts exceeds the resources of developing countries and therefore accepts that there will be a long-term need for wealthy countries to contribute additional resources for development purposes. The United States should take the lead in concert with other nations to mobilize such resources from public and private sources.
 
-Provision of development resources must be adapted to the needs and capabilities of specific developing countries. United States assistance to countries with low per capita incomes whichhave limited access to private external resources should primarily be provided on concessional terms. Assistance to other developing countries should generally consist of programs which facilitate their access to private capital markets, investment, and technical skills, whether directly through guarantee or reimbursable programs by the United States Government or indirectly through callable capital provided to the international financial institutions.
+Provision of development resources must be adapted to the needs and capabilities of specific developing countries. United States assistance to countries with low per capita incomes which have limited access to private external resources should primarily be provided on concessional terms. Assistance to other developing countries should generally consist of programs which facilitate their access to private capital markets, investment, and technical skills, whether directly through guarantee or reimbursable programs by the United States Government or indirectly through callable capital provided to the international financial institutions.
 
 Bilateral assistance and United States participation in multilateral institutions shall emphasize programs in support of countries which pursue development strategies designed to meet basic human needs and achieve self-sustaining growth with equity.
 
@@ -30,9 +30,11 @@ Assistance under this part should be used not only for the purpose of transferri
 
 &emsp;&emsp;(D) promotion of greater equality of income distribution, including measures such as more progressive taxation and more equitable returns to small farmers;
 
-&emsp;&emsp;(E) reduction of rates of unemployment and underemployment; and
+&emsp;&emsp;(E) reduction of rates of unemployment and underemployment;
 
-&emsp;&emsp;(F) increase in literacy.
+&emsp;&emsp;(F) increase in literacy; and
+
+&emsp;&emsp;(G) progress in combating corruption and improving transparency and accountability in the public and private sector.
 
 &emsp;(5) United States development assistance should focus on critical problems in those functional sectors which affect the lives of the majority of the people in the developing countries; food production and nutrition; rural development and generation of gainful employment; population planning and health; environment and natural resources; education, development administration, and human resource development; and energy development and production.
 
@@ -58,11 +60,13 @@ Assistance under this part should be used not only for the purpose of transferri
 
 &emsp;(16) United States assistance should focus on establishing and upgrading the institutional capacities of developing countries in order to promote long term development. An important component of institution building involves training to expand the human resource potential of people in developing countries.
 
+&emsp;(17) Economic reform and development of effective institutions of democratic governance are mutually reinforcing. The successful transition of a developing country is dependent upon the quality of its economic and governance institutions. Rule of law, mechanisms of accountability and transparency, security of person, property, and investments, are but a few of the critical governance and economic reforms that underpin the sustainability of broad-based economic growth. Programs in support of such reforms strengthen the capacity of people to hold their governments accountable and to create economic opportunity.
+
 #### (c) Worldwide cooperative effort to overcome aspects of absolute poverty
 
 The Congress, recognizing the desirability of overcoming the worst aspects of absolute poverty by the end of this century by, among other measures, substantially lowering infant mortality and birth rates, and increasing life expectancy, food production, literacy, and employment, encourages the President to explore with other countries, through all appropriate channels, the feasibility of a worldwide cooperative effort to overcome the worst aspects of absolute poverty and to assure self-reliant growth in the developing countries by the year 2000.
 
-(Pub. L. 87–195, pt. I, §102, as added Pub. L. 95–424, title I, §101, Oct. 6, 1978, 92 Stat. 938; amended Pub. L. 96–53, title I, §104(a), Aug. 14, 1979, 93 Stat. 360; Pub. L. 99–83, title III, §301, Aug. 8, 1985, 99 Stat. 213.)
+(Pub. L. 87–195, pt. I, §102, as added Pub. L. 95–424, title I, §101, Oct. 6, 1978, 92 Stat. 938; amended Pub. L. 96–53, title I, §104(a), Aug. 14, 1979, 93 Stat. 360; Pub. L. 99–83, title III, §301, Aug. 8, 1985, 99 Stat. 213; Pub. L. 106–309, title II, §203(b), Oct. 17, 2000, 114 Stat. 1092.)
 
 #### References in Text
 
@@ -73,6 +77,10 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
 
 #### Amendments
+
+2000—Subsec. (b)(4)(G). Pub. L. 106–309, §203(b)(1), added subpar. (G).
+
+Subsec. (b)(17). Pub. L. 106–309, §203(b)(2), added par. (17).
 
 1985—Subsec. (b)(13) to (16). Pub. L. 99–83 added pars. (13) to (16).
 
@@ -98,5 +106,5 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2151f, 2151u, 2151v, 2293, 3502 of this title.
+This section is referred to in sections 2151u, 2151v, 2293, 3502 of this title.
 

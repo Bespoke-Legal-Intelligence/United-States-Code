@@ -22,7 +22,7 @@
 
 &emsp;(A) a determination (using the aggregate entry-age normal cost method) of a single level percentage of basic pay for members of the armed forces (other than the Coast Guard) on active duty (other than active duty for training) or full-time National Guard duty (other than full-time National Guard duty for training only); and
 
-&emsp;(B) a determination (using the aggregate entry-age normal cost method) of a singlelevel percentage of basic pay and of compensation (paid pursuant to section 206 of title 37) for members of the Ready Reserve of the armed forces (other than the Coast Guard and other than members on full-time National Guard duty other than for training) who are not otherwise described by subparagraph (A).
+&emsp;(B) a determination (using the aggregate entry-age normal cost method) of a single level percentage of basic pay and of compensation (paid pursuant to section 206 of title 37) for members of the Ready Reserve of the armed forces (other than the Coast Guard and other than members on full-time National Guard duty other than for training) who are not otherwise described by subparagraph (A).
 
 > Such single level percentages shall be used for the purposes of subsection (b) and section 1466(a) of this title.
 
@@ -32,7 +32,7 @@
 
 (4) Contributions to the Fund in accordance with amortization schedules under paragraphs (2) and (3) shall be made as provided in section 1466(b) of this title.
 
-(d) All determinations under this section shall be made using methods and assumptions approved by the Board of Actuaries (including assumptions of interest rates and inflation) and in accordance with generally accepted actuarial principles and practices.
+(d) All determinations under this section shall be made using methods and assumptions approved by the Board of Actuaries (including assumptions of interest rates and inflation) and inaccordance with generally accepted actuarial principles and practices.
 
 (e) The Secretary of Defense shall provide for the keeping of such records as are necessary for determining the actuarial status of the Fund.
 

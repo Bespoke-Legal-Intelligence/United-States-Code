@@ -34,7 +34,11 @@
 
 #### (B) Special rule for end-stage renal disease
 
-&emsp;&emsp;Such term shall not include an individual medically determined to have end-stage renal disease, except that an individual who develops end-stage renal disease while enrolled in a Medicare+Choice plan may continue to be enrolled in that plan.
+&emsp;&emsp;Such term shall not include an individual medically determined to have end-stage renal disease, except that—
+
+&emsp;&emsp;&emsp;(i) an individual who develops end-stage renal disease while enrolled in a Medicare+Choice plan may continue to be enrolled in that plan; and
+
+&emsp;&emsp;&emsp;(ii) in the case of such an individual who is enrolled in a Medicare+Choice plan under clause (i) (or subsequently under this clause), if the enrollment is discontinued under circumstances described in subsection (e)(4)(A) of this section, then the individual will be treated as a “Medicare+Choice eligible individual” for purposes of electing to continue enrollment in another Medicare+Choice plan.
 
 #### (b) Special rules
 
@@ -60,7 +64,7 @@
 
 #### (A) FEHBP
 
-&emsp;&emsp;An individual who is enrolled in a health benefit plan under chapter 89 of title 5 is noteligible to enroll in an MSA plan until such time as the Director of the Office of Management and Budget certifies to the Secretary that the Office of Personnel Management has adopted policies which will ensure that the enrollment of such individuals in such plans will not result in increased expenditures for the Federal Government for health benefit plans under such chapter.
+&emsp;&emsp;An individual who is enrolled in a health benefit plan under chapter 89 of title 5 is not eligible to enroll in an MSA plan until such time as the Director of the Office of Management and Budget certifies to the Secretary that the Office of Personnel Management has adopted policies which will ensure that the enrollment of such individuals in such plans will not result in increased expenditures for the Federal Government for health benefit plans under such chapter.
 
 #### (B) VA and DOD
 
@@ -130,7 +134,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall provide for activities under this subsection to broadly disseminate information to medicare beneficiaries (andprospective medicare beneficiaries) on the coverage options provided under this section in order to promote an active, informed selection among such options.
+&emsp;The Secretary shall provide for activities under this subsection to broadly disseminate information to medicare beneficiaries (and prospective medicare beneficiaries) on the coverage options provided under this section in order to promote an active, informed selection among such options.
 
 #### (2) Provision of notice
 
@@ -220,7 +224,13 @@
 
 #### (B) Premiums
 
-&emsp;&emsp;The Medicare+Choice monthly basic beneficiary premium and Medicare+Choicemonthly supplemental beneficiary premium, if any, for the plan or, in the case of an MSA plan, the Medicare+Choice monthly MSA premium.
+#### (i) In general
+
+&emsp;&emsp;&emsp;The Medicare+Choice monthly basic beneficiary premium and Medicare+Choice monthly supplemental beneficiary premium, if any, for the plan or, in the case of an MSA plan, the Medicare+Choice monthly MSA premium.
+
+#### (ii) Reductions
+
+&emsp;&emsp;&emsp;The reduction in part B premiums, if any.
 
 #### (C) Service area
 
@@ -312,7 +322,7 @@
 
 #### (D) Special information campaign in 1998
 
-&emsp;&emsp;During November 1998 the Secretary shall provide for an educational and publicity campaign to inform Medicare+Choice eligible individuals about the availability of Medicare+Choice plans, and eligible organizations with risk-sharing contracts under section 1395mm of this title, offered in different areas and the election process provided under this section.
+&emsp;&emsp;During November 1998 the Secretary shall provide for an educational and publicity campaign to inform Medicare+Choice eligible individuals about the availability ofMedicare+Choice plans, and eligible organizations with risk-sharing contracts under section 1395mm of this title, offered in different areas and the election process provided under this section.
 
 #### (4) Special election periods
 
@@ -366,7 +376,7 @@
 
 #### (2) During continuous open enrollment periods
 
-&emsp;An election or change of coverage made under subsection (e)(2) of this section shall take effect with the first day of the first calendar month following the date on which the election or change is made, except that if such election or change is made after the 10th day of any calendar month, then the election or change shall not take effect until the first day of the second calendar month following the date on which the election or change is made.
+&emsp;An election or change of coverage made under subsection (e)(2) of this section shall take effect with the first day of the first calendar month following the date on which the election or change is made.
 
 #### (3) Annual, coordinated election period
 
@@ -428,13 +438,13 @@
 
 &emsp;No marketing material or application form may be distributed by a Medicare+Choice organization to (or for the use of) Medicare+�Choice eligible individuals unless—
 
-&emsp;&emsp;(A) at least 45 days before the date of distribution the organization has submitted the material or form to the Secretary for review, and
+&emsp;&emsp;(A) at least 45 days (or 10 days in the case described in paragraph (5)) before the date of distribution the organization has submitted the material or form to the Secretary for review, and
 
 &emsp;&emsp;(B) the Secretary has not disapproved the distribution of such material or form.
 
 #### (2) Review
 
-&emsp;The standards established under section 1395w–26 of this title shall include guidelinesfor the review of any material or form submitted and under such guidelines the Secretary shall disapprove (or later require the correction of) such material or form if the material or form is materially inaccurate or misleading or otherwise makes a material misrepresentation.
+&emsp;The standards established under section 1395w–26 of this title shall include guidelines for the review of any material or form submitted and under such guidelines the Secretary shall disapprove (or later require the correction of) such material or form if the material or form is materially inaccurate or misleading or otherwise makes a material misrepresentation.
 
 #### (3) Deemed approval (1-stop shopping)
 
@@ -448,6 +458,10 @@
 
 &emsp;&emsp;(B) may include a prohibition against a Medicare+Choice organization (or agent of such an organization) completing any portion of any election form used to carry out elections under this section on behalf of any individual.
 
+#### (5) Special treatment of marketing material following model marketing language
+
+&emsp;In the case of marketing material of an organization that uses, without modification, proposed model language specified by the Secretary, the period specified in paragraph (1)(A) shall be reduced from 45 days to 10 days.
+
 #### (i) Effect of election of Medicare+Choice plan option
 
 #### (1) Payments to organizations
@@ -458,13 +472,23 @@
 
 &emsp;Subject to sections 1395w–23(e), 1395w–23(g), 1395w–23(h), 1395w–27(f)(2), 1395ww(d)(11), and 1395ww(h)(3)(D) of this title, only the Medicare+Choice organization shall be entitled to receive payments from the Secretary under this subchapter for services furnished to the individual.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1851, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 275; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(k)(6)(A), title V, §§501(a)(1), (b), (c), 502(a), 519(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–367, 1501A–378 to 1501A–380, 1501A–385.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1851, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 275; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(k)(6)(A), title V, §§501(a)(1), (b), (c), 502(a), 519(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–367, 1501A–378 to 1501A–380, 1501A–385; Pub. L. 106–554, §1(a)(6) \[title VI, §§606(a)(2)(C), 613(a), 619(a), 620(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–558, 2763A–560, 2763A–563.)
 
 #### References in Text
 
 Parts A and B of this subchapter, referred to in text, are classified to section 1395c et seq. and section 1395j et seq., respectively, of this title.
 
 #### Amendments
+
+2000—Subsec. (a)(3)(B). Pub. L. 106–554, §1(a)(6) \[title VI, §620(a)\], substituted “except that—” and cls. (i) and (ii) for “except that an individual who develops end-stage renal disease while enrolled in a Medicare+Choice plan may continue to be enrolled in that plan.”
+
+Subsec. (d)(4)(B). Pub. L. 106–554, §1(a)(6) \[title VI, §606(a)(2)(C)\], designated existing provisions as cl. (i), inserted heading, and added cl. (ii).
+
+Subsec. (f)(2). Pub. L. 106–554, §1(a)(6) \[title VI, §619(a)\], struck out “, except that if such election or change is made after the 10th day of any calendar month, then the election or change shall not take effect until the first day of the second calendar month following the date on which the election or change is made” before period at end.
+
+Subsec. (h)(1)(A). Pub. L. 106–554, §1(a)(6) \[title VI, §613(a)(1)\], inserted “(or 10 days in the case described in paragraph (5))” after “45 days”.
+
+Subsec. (h)(5). Pub. L. 106–554, §1(a)(6) \[title VI, §613(a)(2)\], added par. (5).
 
 1999—Subsec. (b)(1)(A). Pub. L. 106–113, §1000(a)(6) \[title V, §501(c)(1)\], inserted “and except as provided in subparagraph (C)” after “may otherwise provide”.
 
@@ -484,6 +508,24 @@ Subsec. (f)(2). Pub. L. 106–113, §1000(a)(6) \[title V, §502(a)\], inserted 
 
 Subsec. (i)(2). Pub. L. 106–113, §1000(a)(6) \[title III, §321(k)(6)(A)\], struck out “and” after “1395w–27(f)(2),”.
 
+#### Effective Date of 2000 Amendment
+
+Amendment by section 1(a)(6) \[title VI, §606(a)(2)(C)\] of Pub. L. 106–554 applicable to years beginning with 2003, see section 1(a)(6) \[title VI, §606(b)\] of Pub. L. 106–554, set out as a note under section 1395r of this title.
+
+Pub. L. 106–554, §1(a)(6) \[title VI, §613(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–560, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to marketing material submitted on or after January 1, 2001.”
+
+Pub. L. 106–554, §1(a)(6) \[title VI, §619(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–563, provided that: “The amendment made by this section \[amending this section\] shall apply to elections and changes of coverage made on or after June 1, 2001.”
+
+Pub. L. 106–554, §1(a)(6) \[title VI, §620(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–564, provided that:
+
+“(1)
+
+In general.—The amendment made by subsection (a) \[amending this section\] shall apply to terminations and discontinuations occurring on or after the date of the enactment of this Act \[Dec. 21, 2000\].
+
+“(2)
+
+Application to prior plan terminations.—Clause (ii) of section 1851(a)(3)(B) of the Social Security Act \[subsection (a)(3)(B)(ii) of this section\] (as inserted by subsection (a)) shall also apply to individuals whose enrollment in a Medicare+Choice plan was terminated or discontinued after December 31, 1998, and before the date of the enactment of this Act. In applying this paragraph, such an individual shall be treated, for purposes of part C of title XVIII of the Social Security Act \[this part\], as having discontinued enrollment in such a plan as of the date of the enactment of this Act.”
+
 #### Effective Date of 1999 Amendment
 
 Amendment by section 1000(a)(6) \[title III, §321(k)(6)(A)\] of Pub. L. 106–113 effective as if included in the enactment of the Balanced Budget Act of 1997, Pub. L. 105–33, except as otherwise provided, see section 1000(a)(6) \[title III, §321(m)\] of Pub. L. 106–113, set out as a note under section 1395d of this title.
@@ -492,11 +534,39 @@ Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §501(d)\], Nov. 29, 1999, 11
 
 “(1) The amendments made by subsection (a) \[amending this section and section 1395ss of this title\] apply to notices of impending terminations or discontinuances made on or after the date of the enactment of this Act \[Nov. 29, 1999\].
 
-“(2) The amendments made by subsection (c) \[amending this section\] apply to elections made on or after the date of the enactment of this Act \[Nov. 29, 1999\] with respect to eliminations of Medicare+Choice payment areas from a service area that occur before, on, or after the date of the enactment of this Act.”
+“(2) The amendments made by subsection (c) \[amending this section\] apply to elections made on or after thedate of the enactment of this Act \[Nov. 29, 1999\] with respect to eliminations of Medicare+Choice payment areas from a service area that occur before, on, or after the date of the enactment of this Act.”
 
 Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §502(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–380, provided that: “The amendments made by this section \[amending this section\] apply to elections and changes of coverage made on or after January 1, 2000.”
 
 Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §519(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–385, provided that: “The amendment made by subsection (a) \[amending this section\] first applies to campaigns conducted beginning in 2000.”
+
+#### MedPAC Study on Consumer Coalitions
+
+Pub. L. 106–554, §1(a)(6) \[title I, §124\], Dec. 21, 2000, 114 Stat. 2763, 2763A–478, provided that:
+
+“(a)
+
+Study.—The Medicare Payment Advisory Commission shall conduct a study that examines the use of consumer coalitions in the marketing of Medicare+Choice plans under the medicare program under title XVIII of the Social Security Act \[this subchapter\]. The study shall examine—
+
+&emsp;“(1) the potential for increased efficiency in the medicare program through greater beneficiary knowledge of their health care options, decreased marketing costs of Medicare+Choice organizations, and creation of a group market;
+
+&emsp;“(2) the implications of Medicare+Choice plans and medicare supplemental policies (under section 1882 of the Social Security Act (42 U.S.C. 1395ss)) offering medicare beneficiaries in the same geographic location different benefits and premiums based on their affiliation with a consumer coalition;
+
+&emsp;“(3) how coalitions should be governed, how they should be accountable to the Secretary of Health and Human Services, and how potential conflicts of interest in the activities of consumer coalitions should be avoided; and
+
+&emsp;“(4) how such coalitions should be funded.
+
+“(b)
+
+Report.—Not later than 1 year after the date of the enactment of this Act \[Dec. 21, 2000\], the Commission shall submit to Congress a report on the study conducted under subsection (a). The report shall include a recommendation on whether and how a demonstration project might be conducted for the operation of consumer coalitions under the medicare program.
+
+“(c)
+
+Consumer Coalition Defined.—For purposes of this section, the term ‘consumer coalition’ means a nonprofit, community-based group of organizations that—
+
+&emsp;“(1) provides information to medicare beneficiaries about their health care options under the medicare program; and
+
+&emsp;“(2) negotiates benefits and premiums for medicare beneficiaries who are members or otherwise affiliated with the group of organizations with Medicare+Choice organizations offering Medicare+Choice plans, issuers of medicare supplemental policies, issuers of long-term care coverage, and pharmacy benefit managers.”
 
 #### Report on Accounting for VA and DOD Expenditures for Medicare Beneficiaries
 

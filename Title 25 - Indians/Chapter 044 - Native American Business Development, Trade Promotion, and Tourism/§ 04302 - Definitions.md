@@ -1,0 +1,66 @@
+### §4302. Definitions
+
+In this chapter:
+
+#### (1) Eligible entity
+
+&emsp;The term “eligible entity” means an Indian tribe or tribal organization, an Indian arts and crafts organization, as that term is defined in section 305a of this title, a tribal enterprise, a tribal marketing cooperative (as that term is defined by the Secretary, in consultation with the Secretary of the Interior), or any other Indian-owned business.
+
+#### (2) Indian
+
+&emsp;The term “Indian” has the meaning given that term in section 450b(d) of this title.
+
+#### (3) Indian goods and services
+
+&emsp;The term “Indian goods and services” means—
+
+&emsp;&emsp;(A) Indian goods, within the meaning of section 305a of this title;
+
+&emsp;&emsp;(B) goods produced or originated by an eligible entity; and
+
+&emsp;&emsp;(C) services provided by eligible entities.
+
+#### (4) Indian lands
+
+#### (A) In general
+
+&emsp;&emsp;The term “Indian lands” includes lands under the definition of—
+
+&emsp;&emsp;&emsp;(i) the term “Indian country” under section 1151 of title 18; or
+
+&emsp;&emsp;&emsp;(ii) the term “reservation” under—
+
+&emsp;&emsp;&emsp;&emsp;(I) section 1452(d) of this title; or
+
+&emsp;&emsp;&emsp;&emsp;(II) section 1903(10) of this title.
+
+#### (B) Former Indian reservations in Oklahoma
+
+&emsp;&emsp;For purposes of applying section 1452(d) of this title under subparagraph (A)(ii), the term “former Indian reservations in Oklahoma” shall be construed to include lands that are—
+
+&emsp;&emsp;&emsp;(i) within the jurisdictional areas of an Oklahoma Indian tribe (as determined by the Secretary of the Interior); and
+
+&emsp;&emsp;&emsp;(ii) recognized by the Secretary of the Interior as eligible for trust land status under part 151 of title 25, Code of Federal Regulations (as in effect on November 7, 2000).
+
+#### (5) Indian-owned business
+
+&emsp;The term “Indian-owned business” means an entity organized for the conduct of trade or commerce with respect to which at least 50 percent of the property interests of the entity are owned by Indians or Indian tribes (or a combination thereof).
+
+#### (6) Indian tribe
+
+&emsp;The term “Indian tribe” has the meaning given that term in section 450b(e) of this title.
+
+#### (7) Secretary
+
+&emsp;The term “Secretary” means the Secretary of Commerce.
+
+#### (8) Tribal enterprise
+
+&emsp;The term “tribal enterprise” means a commercial activity or business managed or controlled by an Indian tribe.
+
+#### (9) Tribal organization
+
+&emsp;The term “tribal organization” has the meaning given that term in section 450b(<i>l</i>) of this title.
+
+(Pub. L. 106–464, §3, Nov. 7, 2000, 114 Stat. 2013.)
+

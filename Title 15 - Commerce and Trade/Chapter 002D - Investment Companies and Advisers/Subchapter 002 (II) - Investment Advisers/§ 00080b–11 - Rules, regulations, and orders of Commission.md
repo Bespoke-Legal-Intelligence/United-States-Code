@@ -2,7 +2,7 @@
 
 #### (a) Power of Commission
 
-The Commission shall have authority from time to time to make, issue, amend, and rescindsuch rules and regulations and such orders as are necessary or appropriate to the exercise of the functions and powers conferred upon the Commission elsewhere in this subchapter. For the purposes of its rules or regulations the Commission may classify persons and matters within its jurisdiction and prescribe different requirements for different classes of persons or matters.
+The Commission shall have authority from time to time to make, issue, amend, and rescind such rules and regulations and such orders as are necessary or appropriate to the exercise of the functions and powers conferred upon the Commission elsewhere in this subchapter. For the purposes of its rules or regulations the Commission may classify persons and matters within its jurisdiction and prescribe different requirements for different classes of persons or matters.
 
 #### (b) Effective date of regulations
 
@@ -14,7 +14,7 @@ Orders of the Commission under this subchapter shall be issued only after approp
 
 #### (d) Good faith compliance with rules and regulations
 
-No provision of this subchapter imposing any liability shall apply to any act done or omitted in good faith in conformity with any rule, regulation, or order of the Commission, notwithstanding that such rule, regulation, or order may, after such act or omission, be amended or rescinded or be determined by judicial or other authority to be invalid for any reason.
+No provision of this subchapter imposing any liability shall apply to any act done or omitted in good faith in conformity with any rule, regulation, or order of the Commission, notwithstanding that such rule, regulation, or order may, after such act or omission, be amended orrescinded or be determined by judicial or other authority to be invalid for any reason.
 
 (Aug. 22, 1940, ch. 686, title II, §211, 54 Stat. 855; Pub. L. 86–507, §1(16), June 11, 1960, 74 Stat. 201; Pub. L. 86–750, §14, Sept. 13, 1960, 74 Stat. 888; Pub. L. 100–181, title VII, §705, Dec. 4, 1987, 101 Stat. 1264.)
 
@@ -29,20 +29,6 @@ Subsec. (c). Pub. L. 86–507 inserted “or certified mail” after “register
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
-#### Cross References
-
-Rules and regulations under—
-
-&emsp;&emsp;Investment Company Act of 1940, see section 80a–37 of this title.
-
-&emsp;&emsp;Public Utility Holding Company Act of 1935, see section 79t of this title.
-
-&emsp;&emsp;Securities Act of 1933, see section 77s of this title.
-
-&emsp;&emsp;Securities Exchange Act of 1934, see sections 78c and 78w of this title.
-
-&emsp;&emsp;Trust Indenture Act of 1939, see section 77sss of this title.
 
 #### Section Referred to in Other Sections
 

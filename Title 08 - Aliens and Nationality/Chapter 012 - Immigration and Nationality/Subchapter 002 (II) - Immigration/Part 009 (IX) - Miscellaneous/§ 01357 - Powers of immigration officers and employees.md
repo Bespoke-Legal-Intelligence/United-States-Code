@@ -66,7 +66,7 @@ Notwithstanding any other provision of this section other than paragraph (3) of 
 
 (6) The Attorney General may not accept a service under this subsection if the service will be used to displace any Federal employee.
 
-(7) Except as provided in paragraph (8), an officer or employee of a State or political subdivision of a State performing functions under this subsection shall not be treated as a Federal employee for any purpose other than for purposes of chapter 81 of title 5 (relating to compensation for injury) and sections 2671 through 2680 of title 28 (relating to tort claims).
+(7) Except as provided in paragraph (8), an officer or employee of a State or political subdivision of a State performing functions under thissubsection shall not be treated as a Federal employee for any purpose other than for purposes of chapter 81 of title 5 (relating to compensation for injury) and sections 2671 through 2680 of title 28 (relating to tort claims).
 
 (8) An officer or employee of a State or political subdivision of a State acting under color of authority under this subsection, or any agreement entered into under this subsection, shall be considered to be acting under color of Federal authority for purposes of determining the liability, and immunity from suit, of the officer or employee in a civil action brought under Federal or State law.
 
@@ -119,22 +119,6 @@ Amendment by Pub. L. 102–232 effective as if included in the enactment of the 
 #### Effective Date of 1988 Amendment
 
 Amendment by section 2(e) of Pub. L. 100–525 effective as if included in enactment of Immigration Reform and Control Act of 1986, Pub. L. 99–603, see section 2(s) of Pub. L. 100–525, set out as a note under section 1101 of this title.
-
-#### Cross References
-
-Definition of the term—
-
-&emsp;&emsp;Alien, see section 1101(a)(3) of this title.
-
-&emsp;&emsp;Attorney General, see section 1101(a)(5) of this title.
-
-&emsp;&emsp;Entry, see section 1101(a)(13) of this title.
-
-&emsp;&emsp;Immigration officer, see section 1101(a)(18) of this title.
-
-&emsp;&emsp;Service, see section 1101(a)(34) of this title.
-
-&emsp;&emsp;United States, see section 1101(a)(38) of this title.
 
 #### Section Referred to in Other Sections
 

@@ -22,12 +22,6 @@ Minor changes in phraseology were made.
 
 Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by Board of Governors of United States Postal Service and published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
 
-#### Cross References
-
-Seizure and disposition of nonmailable matter, see section 3001 of Title 39, Postal Service.
-
-Use of fictitious, false or assumed name on mail to conduct, or assist in, activity in violation of this section, see section 3003 of Title 39.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 982, 2326 of this title; title 7 section 12a; title 15 sections 78<i>o</i>, 80b–3; title 39 sections 3001, 3003.

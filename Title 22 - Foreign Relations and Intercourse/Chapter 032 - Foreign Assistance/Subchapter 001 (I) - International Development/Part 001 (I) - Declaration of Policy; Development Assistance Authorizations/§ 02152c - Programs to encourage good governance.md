@@ -1,0 +1,148 @@
+### §2152c. Programs to encourage good governance
+
+#### (a) Establishment of programs
+
+#### (1) In general
+
+&emsp;The President is authorized to establish programs that combat corruption, improve transparency and accountability, and promote other forms of good governance in countries described in paragraph (2).
+
+#### (2) Countries described
+
+&emsp;A country described in this paragraph is a country that is eligible to receive assistance under subchapter I of this chapter (including part IV of subchapter II of this chapter) or the Support for East European Democracy (SEED) Act of 1989 \[22 U.S.C. 5401 et seq.\].
+
+#### (3) Priority
+
+&emsp;In carrying out paragraph (1), the President shall give priority to establishing programs in countries that received a significant amount of United States foreign assistance for the prior fiscal year, or in which the United States has a significant economic interest, and that continue to have the most persistent problems with public and private corruption. In determining which countries have the most persistent problems with public and private corruption under the preceding sentence, the President shall take into account criteria such as the Transparency International Annual Corruption Perceptions Index, standards and codes set forth by the International Bank for Reconstruction and Development and the International Monetary Fund, and other relevant criteria.
+
+#### (4) Relation to other laws
+
+#### (A) In general
+
+&emsp;&emsp;Assistance provided for countries under programs established pursuant to paragraph (1) may be made available notwithstanding any other provision of law that restricts assistance to foreign countries. Assistance provided under a program established pursuant to paragraph (1) for a country that would otherwise be restricted from receiving such assistance but for the preceding sentence may not be provided directly to the government of the country.
+
+#### (B) Exception
+
+&emsp;&emsp;Subparagraph (A) does not apply with respect to—
+
+&emsp;&emsp;&emsp;(i) section 2371 of this title or any comparable provision of law prohibiting assistance to countries that support international terrorism; or
+
+&emsp;&emsp;&emsp;(ii) section 907 of the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992.
+
+#### (b) Specific projects and activities
+
+The programs established pursuant to subsection (a) of this section shall include, to the extent appropriate, projects and activities that—
+
+&emsp;(1) support responsible independent media to promote oversight of public and private institutions;
+
+&emsp;(2) implement financial disclosure among public officials, political parties, and candidates for public office, open budgeting processes, and transparent financial management systems;
+
+&emsp;(3) support the establishment of audit offices, inspectors general offices, third party monitoring of government procurement processes, and anti-corruption agencies;
+
+&emsp;(4) promote responsive, transparent, and accountable legislatures and local governments that ensure legislative and local oversight and whistle-blower protection;
+
+&emsp;(5) promote legal and judicial reforms that criminalize corruption and law enforcementreforms and development that encourage prosecutions of criminal corruption;
+
+&emsp;(6) assist in the development of a legal framework for commercial transactions that fosters business practices that promote transparent, ethical, and competitive behavior in the economic sector, such as commercial codes that incorporate international standards and protection of intellectual property rights;
+
+&emsp;(7) promote free and fair national, state, and local elections;
+
+&emsp;(8) foster public participation in the legislative process and public access to government information; and
+
+&emsp;(9) engage civil society in the fight against corruption.
+
+#### (c) Conduct of projects and activities
+
+Projects and activities under the programs established pursuant to subsection (a) of this section may include, among other things, training and technical assistance (including drafting of anti-corruption, privatization, and competitive statutory and administrative codes), drafting of anti-corruption, privatization, and competitive statutory and administrative codes, support for independent media and publications, financing of the program and operating costs of nongovernmental organizations that carry out such projects or activities, and assistance for travel of individuals to the United States and other countries for such projects and activities.
+
+#### (d) Annual report
+
+#### (1) In general
+
+&emsp;The Secretary of State, in consultation with the Secretary of Commerce and the Administrator of the United States Agency for International Development, shall prepare and transmit to the Committee on International Relations and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations of the Senate an annual report on—
+
+&emsp;&emsp;(A) projects and activities carried out under programs established under subsection (a) of this section for the prior year in priority countries identified pursuant to subsection (a)(3) of this section; and
+
+&emsp;&emsp;(B) projects and activities carried out under programs to combat corruption, improve transparency and accountability, and promote other forms of good governance established under other provisions of law for the prior year in such countries.
+
+#### (2) Required contents
+
+&emsp;The report required by paragraph (1) shall contain the following information with respect to each country described in paragraph (1):
+
+&emsp;&emsp;(A) A description of all United States Government-funded programs and initiatives to combat corruption and improve transparency and accountability in the country.
+
+&emsp;&emsp;(B) A description of United States diplomatic efforts to combat corruption and improve transparency and accountability in the country.
+
+&emsp;&emsp;(C) An analysis of major actions taken by the government of the country to combat corruption and improve transparency and accountability in the country.
+
+#### (e) Funding
+
+Amounts made available to carry out the other provisions of subchapter I of this chapter (including part IV of subchapter II of this chapter) and the Support for East European Democracy (SEED) Act of 1989 \[22 U.S.C. 5401 et seq.\] shall be made available to carry out this section.
+
+(Pub. L. 87–195, pt. I, §133, as added Pub. L. 106–309, title II, §205(a), Oct. 17, 2000, 114 Stat. 1092.)
+
+#### References in Text
+
+The Support for East European Democracy (SEED) Act of 1989, referred to in subsecs. (a)(2) and (e), is Pub. L. 101–179, Nov. 28, 1989, 103 Stat. 1298, as amended, which is classified principally to chapter 63 (§5401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5401 of this title and Tables.
+
+Section 907 of the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992, referred to in subsec. (a)(4)(B)(ii), is section 907 of Pub. L. 102–511, which is set out as a note under section 5812 of this title.
+
+#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
+
+References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
+
+#### Delegation of Functions
+
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+
+#### Findings and Purpose
+
+Pub. L. 106–309, title II, §202, Oct. 17, 2000, 114 Stat. 1090, provided that:
+
+“(a)
+
+Findings.—Congress finds the following:
+
+&emsp;“(1) Widespread corruption endangers the stability and security of societies, undermines democracy, and jeopardizes the social, political, and economic development of a society.
+
+&emsp;“(2) Corruption facilitates criminal activities, such as money laundering, hinders economic development, inflates the costs of doing business, and undermines the legitimacy of the government and public trust.
+
+&emsp;“(3) In January 1997 the United Nations General Assembly adopted a resolution urging member states to carefully consider the problems posed by the international aspects of corrupt practices and to study appropriate legislative and regulatory measures to ensure the transparency and integrity of financial systems.
+
+&emsp;“(4) The United States was the first country to criminalize international bribery through the enactment of the Foreign Corrupt Practices Act of 1977 \[Pub. L. 95–213, title I, see Tables for classification\] and United States leadership was instrumental in the passage of the Organization for Economic Cooperation and Development (OECD) Convention on Combatting Bribery of Foreign Public Officials in International Business Transactions.
+
+&emsp;“(5) The Vice President, at the Global Forum on Fighting Corruption in 1999, declared corruption to be a direct threat to the rule of law and the Secretary of State declared corruption to be a matter of profound political and social consequence for our efforts to strengthen democratic governments.
+
+&emsp;“(6) The Secretary of State, at the Inter-American Development Bank's annual meeting in March 2000, declared that despite certain economic achievements, democracy is being threatened as citizens grow weary of the corruption and favoritism of their official institutions and that efforts must be made to improve governance if respect for democratic institutions is to be regained.
+
+&emsp;“(7) In May 1996 the Organization of American States (OAS) adopted the Inter-American Convention Against Corruption requiring countries to provide various forms of international cooperation and assistance to facilitate the prevention, investigation, and prosecution of acts of corruption.
+
+&emsp;“(8) Independent media, committed to fighting corruption and trained in investigative journalism techniques, can both educate the public on the costs of corruption and act as a deterrent against corrupt officials.
+
+&emsp;“(9) Competent and independent judiciary, founded on a merit-based selection process and trained to enforce contracts and protect property rights, is critical for creating a predictable and consistent environment for transparency in legal procedures.
+
+&emsp;“(10) Independent and accountable legislatures, responsive political parties, and transparent electoral processes, in conjunction with professional, accountable, and transparent financial management and procurement policies and procedures, are essential to the promotion of good governance and to the combat of corruption.
+
+&emsp;“(11) Transparent business frameworks, including modern commercial codes and intellectual property rights, are vital to enhancing economic growth and decreasing corruption at all levels of society.
+
+&emsp;“(12) The United States should attempt to improve accountability in foreign countries, including by—
+
+&emsp;&emsp;“(A) promoting transparency and accountability through support for independent media, promoting financial disclosure by public officials, political parties, and candidates for public office, open budgeting processes, adequate and effective internal control systems, suitable financial management systems, and financial and compliance reporting;
+
+&emsp;&emsp;“(B) supporting the establishment of audit offices, inspectors general offices, third party monitoring of government procurement processes, and anti-corruption agencies;
+
+&emsp;&emsp;“(C) promoting responsive, transparent, and accountable legislatures that ensure legislative oversight and whistle-blower protection;
+
+&emsp;&emsp;“(D) promoting judicial reforms that criminalize corruption and promoting law enforcement that prosecutes corruption;
+
+&emsp;&emsp;“(E) fostering business practices that promote transparent, ethical, and competitive behavior in the private sector through the development of an effective legal framework for commerce, including anti-bribery laws, commercial codes that incorporate international standards for business practices, and protection of intellectual property rights; and
+
+&emsp;&emsp;“(F) promoting free and fair national, state, and local elections.
+
+“(b)
+
+Purpose.—The purpose of this title \[see Short Title of 2000 Amendments note set out under section 2151 of this title\] is to ensure that United States assistance programs promote good governance by assisting other countries to combat corruption throughout society and to improve transparency and accountability at all levels of government and throughout the private sector.”
+
+#### Deadline for Initial Report
+
+Pub. L. 106–309, title II, §205(b), Oct. 17, 2000, 114 Stat. 1094, provided that: “The initial annual report required by section 133(d)(1) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2152c(d)(1)\], as added by subsection (a), shall be transmitted not later than 180 days after the date of the enactment of this Act \[Oct. 17, 2000\].”
+

@@ -80,7 +80,7 @@ As used in this section:
 
 &emsp;(2) The term “holiday” means any day designated as a holiday under a Federal statute or Executive order.
 
-(Feb. 13, 1911, ch. 46, §5, 36 Stat. 901; Feb. 7, 1920, ch. 61, 41 Stat. 402; Pub. L. 91–271, title III, §316, June 2, 1970, 84 Stat. 293; Pub. L. 103–66, title XIII, §13811(a), Aug. 10, 1993, 107 Stat. 668.)
+(Feb. 13, 1911, ch. 46, §5, 36 Stat. 901; Feb. 7, 1920, ch. 61, 41 Stat. 402; Pub. L. 91–271, title III, §316,June 2, 1970, 84 Stat. 293; Pub. L. 103–66, title XIII, §13811(a), Aug. 10, 1993, 107 Stat. 668.)
 
 #### Codification
 
@@ -105,10 +105,6 @@ For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 
 #### Transfer of Functions
 
 Functions of all officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of those officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. Customs officers, referred to in this section, are under Department of the Treasury.
-
-#### Cross References
-
-Overtime pay, see section 5541 et seq. of Title 5, Government Organization and Employees.
 
 #### Section Referred to in Other Sections
 

@@ -62,30 +62,6 @@ Section 305(m) of Pub. L. 102–232 provided that the amendment made by that sec
 
 Amendment by Pub. L. 97–116 effective Dec. 29, 1981, see section 21(a) of Pub. L. 97–116, set out as a note under section 1101 of this title.
 
-#### Cross References
-
-Definition of the term—
-
-&emsp;&emsp;Alien, see section 1101(a)(3) of this title.
-
-&emsp;&emsp;Attorney General, see section 1101(a)(5) of this title.
-
-&emsp;&emsp;Lawfully admitted for permanent residence, see section 1101(a)(20) of this title.
-
-&emsp;&emsp;National of the United States, see section 1101(a)(22) of this title.
-
-&emsp;&emsp;Naturalization, see section 1101(a)(23) of this title.
-
-&emsp;&emsp;Residence, see section 1101(a)(33) of this title.
-
-&emsp;&emsp;Service, see section 1101(a)(34) of this title.
-
-&emsp;&emsp;United States, see section 1101(a)(38) of this title.
-
-Record of admission for permanent residence in the case of certain aliens who entered the United States prior to June 28, 1940, see section 1259 of this title.
-
-Records of admission, see section 1230 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1423 of this title; title 20 section 955b; title 42 section 1881.

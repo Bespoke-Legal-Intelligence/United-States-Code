@@ -64,7 +64,7 @@ Subject to subsection (b) of this section, for every major drug producing countr
 
 &emsp;(B) Has that government taken the legal and law enforcement measures to enforce in its territory, to the maximum extent possible, the elimination of illicit cultivation and the suppression of illicit manufacturing of and trafficking in narcotic and psychotropic drugs and other controlled substances, as evidenced by seizures of such drugs and substances and of illicit laboratories and the arrest and prosecution of violators involved in the traffic in such drugs and substances significantly affecting the United States?
 
-&emsp;(C) Has that government taken the legal and law enforcement steps necessary to eliminate,to the maximum extent possible, the laundering in that country of drug-related profits or drug-related moneys, as evidenced by—
+&emsp;(C) Has that government taken the legal and law enforcement steps necessary to eliminate, to the maximum extent possible, the laundering in that country of drug-related profits or drug-related moneys, as evidenced by—
 
 &emsp;&emsp;(i) the enactment and enforcement by that government of laws prohibiting such conduct,
 

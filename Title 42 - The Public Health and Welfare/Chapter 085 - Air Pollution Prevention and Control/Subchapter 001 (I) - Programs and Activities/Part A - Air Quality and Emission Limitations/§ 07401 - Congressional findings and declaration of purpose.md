@@ -66,7 +66,7 @@ Section 711(b) of Pub. L. 101–549 provided that:
 
 Section 406 of Pub. L. 95–95, as amended by Pub. L. 95–190, §14(b)(6), Nov. 16, 1977, 91 Stat. 1405, provided that:
 
-“(a) No suit, action, or other proceeding lawfully commenced by or against the Administrator or any other officer or employee of the United States in his official capacity or in relation to the discharge of his official duties under the Clean Air Act \[this chapter\], as in effect immediately prior to the date of enactment of this Act \[Aug. 7, 1977\] shall abate by reason of the taking effect of the amendments made by this Act \[see Short Title of 1977 Amendment note below\]. The court may, on its own motion or that of any party made at any time within twelve months after such taking effect, allow the same to be maintained by or against the Administrator or such officer or employee.
+“(a) No suit, action, or other proceeding lawfully commenced by or against the Administrator or any other officer or employee of the United States in his official capacity or in relation to the discharge of his official duties under the Clean Air Act \[this chapter\], asin effect immediately prior to the date of enactment of this Act \[Aug. 7, 1977\] shall abate by reason of the taking effect of the amendments made by this Act \[see Short Title of 1977 Amendment note below\]. The court may, on its own motion or that of any party made at any time within twelve months after such taking effect, allow the same to be maintained by or against the Administrator or such officer or employee.
 
 “(b) All rules, regulations, orders, determinations, contracts, certifications, authorizations, delegations, or other actions duly issued, made, or taken by or pursuant to the Clean Air Act \[this chapter\], as in effect immediately prior to the date of enactment of this Act \[Aug. 7, 1977\], and pertaining to any functions, powers, requirements, and duties under the Clean Air Act, as in effect immediately prior to the date of enactment of this Act, and not suspended by the Administrator or the courts, shall continue in full force and effect after the date of enactment of this Act until modified or rescinded in accordance with the Clean Air Act as amended by this Act \[see Short Title of 1977 Amendment note below\].
 
@@ -116,7 +116,7 @@ Pub. L. 89–675, §1, Oct. 15, 1966, 80 Stat. 954, provided: “That this Act \
 
 Section 317, formerly section 14, of act July 14, 1955, as added by section 1 of Pub. L. 88–206, renumbered section 307 by section 101(4) of Pub. L. 89–272, renumbered section 310 by section 2 of Pub. L. 90–148, and renumbered section 317 by Pub. L. 91–604, §12(a), Dec. 31, 1970, 84 Stat. 1705, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Clean Air Act’.”
 
-Section 201 of title II of act July 14, 1955, as added by Pub. L. 89–272, title I, §101(8), Oct. 20, 1965, 79 Stat. 992,and amended by Pub. L. 90–148, §2, Nov. 2, 1967, 81 Stat. 499, provided that: “This title \[enacting subchapter II of this chapter\] may be cited as the ‘National Emission Standards Act’.” Prior to its amendment by Pub. L. 90–148, title II of act June 14, 1955, was known as the “Motor Vehicle Air Pollution Control Act”.
+Section 201 of title II of act July 14, 1955, as added by Pub. L. 89–272, title I, §101(8), Oct. 20, 1965, 79 Stat. 992, and amended by Pub. L. 90–148, §2, Nov. 21, 1967, 81 Stat. 499, provided that: “This title \[enacting subchapter II of this chapter\] may be cited as the ‘National Emission Standards Act’.” Prior to its amendment by Pub. L. 90–148, title II of act June 14, 1955, was known as the “Motor Vehicle Air Pollution Control Act”.
 
 Section 401 of title IV of act July 14, 1955, as added Dec. 31, 1970, Pub. L. 91–604, §14, 84 Stat. 1709, provided that: “This title \[enacting subchapter IV of this chapter\] may be cited as the ‘Noise Pollution and Abatement Act of 1970’.”
 
@@ -214,7 +214,7 @@ Pub. L. 99–499, title IV, Oct. 17, 1986, 100 Stat. 1758, provided that:
 
 &emsp;“(1) High levels of radon gas pose a serious health threat in structures in certain areas of the country.
 
-&emsp;“(2) Various scientific studies have suggested that exposure to radon, including exposure to naturallyoccurring radon and indoor air pollutants, poses a public health risk.
+&emsp;“(2) Various scientific studies have suggested that exposure to radon, including exposure to naturally occurring radon and indoor air pollutants, poses a public health risk.
 
 &emsp;“(3) Existing Federal radon and indoor air pollutant research programs are fragmented and underfunded.
 
@@ -304,7 +304,7 @@ For provisions relating to establishment of National Industrial Pollution Contro
 
 #### Federal Compliance With Pollution Control Standards
 
-For provisions relating to responsibility of head of each Executive agency for compliance with applicable pollution control standards, see Ex. Ord. No. 12088, Oct. 13, 1978, 43 F.R. 47707, set out as a note under section 4321 of this title.
+For provisions relating to responsibility of head of each Executive agency for compliance with applicable pollution control standards, see Ex. Ord. No. 12088, Oct.13, 1978, 43 F.R. 47707, set out as a note under section 4321 of this title.
 
 #### Executive Order No. 10779
 

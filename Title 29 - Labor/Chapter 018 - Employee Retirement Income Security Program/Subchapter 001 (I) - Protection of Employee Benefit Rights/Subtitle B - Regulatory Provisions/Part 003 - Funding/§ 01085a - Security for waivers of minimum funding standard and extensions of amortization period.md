@@ -34,7 +34,7 @@ Except as provided in subsection (c) of this section, the Secretary of the Treas
 
 &emsp;The preceding provisions of this section shall not apply to any plan with respect to which the sum of—
 
-&emsp;&emsp;(A) the outstanding balance of the accumulated funding deficiencies (within the meaning of section 1082(a)(2) of this title and section 412(a) of title 26) of the plan,
+&emsp;&emsp;(A) the outstanding balance of the accumulated funding deficiencies (within themeaning of section 1082(a)(2) of this title and section 412(a) of title 26) of the plan,
 
 &emsp;&emsp;(B) the outstanding balance of the amount of waived funding deficiencies of the plan waived under section 1083 of this title or section 412(d) of title 26, and
 

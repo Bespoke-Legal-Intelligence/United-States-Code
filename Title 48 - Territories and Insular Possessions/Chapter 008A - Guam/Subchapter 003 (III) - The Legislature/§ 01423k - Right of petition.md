@@ -4,7 +4,3 @@ The legislature or any person or group of persons in Guam shall have the unrestr
 
 (Aug. 1, 1950, ch. 512, §21, 64 Stat. 389.)
 
-#### Cross References
-
-Petition for redress of grievances, see Const. Amend. 1.
-

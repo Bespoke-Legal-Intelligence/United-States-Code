@@ -96,7 +96,7 @@ Formula.—Not later than February 1 of each year, the Secretary shall apportion
 
 &emsp;&emsp;&emsp;&emsp;(I) the number of bus passenger miles (as that term is defined in section 5336(c)) of the eligible project of the designated recipient, weighted by severity of nonattainment of the area in which the eligible project is located, as provided in paragraph (2); and
 
-&emsp;&emsp;&emsp;&emsp;(II) the total number of bus passenger miles of all eligible projects in areas with a population of less than 1,000,000 funded under this section, weighted by severity of nonattainment of all areas in which those eligible projects are located, as provided in paragraph (2).
+&emsp;&emsp;&emsp;&emsp;(II) the total number of bus passenger miles of all eligible projects in areas with a population of less than 1,000,000 funded under this section, weighted by severity of nonattainment of all areas inwhich those eligible projects are located, as provided in paragraph (2).
 
 &emsp;(2)
 
@@ -140,7 +140,7 @@ In general.—For purposes of paragraph (1), subject to subparagraph (B) of this
 
 &emsp;&emsp;(B)
 
-Additional adjustment for carbon monoxide areas.—If, in addition to being classified as a nonattainment or maintenance area (as that term is defined in section 101 of title 23) for ozone under subpart2 of part D of title I of the Clean Air Act (42 U.S.C. 7511 et seq.), the area was also classified under subpart 3 of part D of title I of that Act (42 U.S.C. 7512 et seq.) as a nonattainment area for carbon monoxide, the weighted nonattainment or maintenance area fleet and passenger miles for the eligible project, as calculated under subparagraph (A), shall be further multiplied by a factor of 1.2.
+Additional adjustment for carbon monoxide areas.—If, in addition to being classified as a nonattainment or maintenance area (as that term is defined in section 101 of title 23) for ozone under subpart 2 of part D of title I of the Clean Air Act (42 U.S.C. 7511 et seq.), the area was also classified under subpart 3 of part D of title I of that Act (42 U.S.C. 7512 et seq.) as a nonattainment area for carbon monoxide, the weighted nonattainment or maintenance area fleet and passenger miles for the eligible project, as calculated under subparagraph (A), shall be further multiplied by a factor of 1.2.
 
 &emsp;(3)
 

@@ -32,11 +32,7 @@ Section 4(a)(2) of the Department of State Special Agents Retirement Act of 1998
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–382 effective Nov. 13, 1998, with provisions relating to applicability with respect to certain individuals, see section 4 of Pub. L. 105–382, set out as a note under section 4044 of this title.
-
-#### Cross References
-
-Officer retired under this section not barred from employment in a civil service position, see section 3323 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 105–382 effective Nov. 13, 1998, with provisions relating to applicability with respect to certain individuals, see section 4 of Pub. L. 105–382, as amended, set out as a note under section 4044 of this title.
 
 #### Section Referred to in Other Sections
 

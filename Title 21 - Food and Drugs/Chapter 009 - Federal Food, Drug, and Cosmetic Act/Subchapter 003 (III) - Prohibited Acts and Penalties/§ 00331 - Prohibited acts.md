@@ -16,7 +16,7 @@ The following acts and the causing thereof are prohibited:
 
 (g) The manufacture within any Territory of any food, drug, device, or cosmetic that is adulterated or misbranded.
 
-(h) The giving of a guaranty or undertaking referred to in section 333(c)(2) of this title, which guaranty or undertaking is false, except by a person who relied upon a guaranty or undertaking to the same effect signed by, and containing the name and address of, the person residing in the United States from whom he received in good faith the food, drug, device, or cosmetic; or the giving of a guaranty or undertaking referred to in section 333(c)(3) of this title, which guaranty or undertaking is false.
+(h) The giving of a guaranty or undertaking referred to in section 333(c)(2) of this title, which guaranty or undertaking is false, except by a person who relied upon a guaranty or undertaking to the same effect signed by, and containing the name and address of, the person residing in the United States from whom he received in good faith the food, drug, device, orcosmetic; or the giving of a guaranty or undertaking referred to in section 333(c)(3) of this title, which guaranty or undertaking is false.
 
 (i)(1) Forging, counterfeiting, simulating, or falsely representing, or without proper authority using any mark, stamp, tag, label, or other identification device authorized or required by regulations promulgated under the provisions of section 344 or 379e of this title.
 
@@ -46,7 +46,7 @@ The following acts and the causing thereof are prohibited:
 
 (s) The failure to provide the notice required by section 350a(c) or 350a(e) of this title, the failure to make the reports required by section 350a(f)(1)(B) of this title, the failure to retain the records required by section 350a(b)(4) of this title, or the failure to meet the requirements prescribed under section 350a(f)(3) of this title.
 
-(t) The importation of a drug in violation of section 381(d)(1) of this title, the sale, purchase, or trade of a drug or drug sample or the offer to sell, purchase, or trade a drug or drug sample in violation of section 353(c) of this title, the sale, purchase, or trade of a coupon, the offer to sell, purchase, or trade such a coupon, or the counterfeiting of such a coupon in violation of section 353(c)(2) of this title, the distribution of a drug sample in violation of section 353(d) of this title or the failure to otherwise comply with the requirements of section 353(d) of this title, or the distribution of drugs in violation of section353(e) of this title or the failure to otherwise comply with the requirements of section 353(e) of this title.
+(t) The importation of a drug in violation of section 381(d)(1) of this title, the sale, purchase, or trade of a drug or drug sample or the offer to sell, purchase, or trade a drug or drug sample in violation of section 353(c) of this title, the sale, purchase, or trade of a coupon, the offer to sell, purchase, or trade such a coupon, or the counterfeiting of such a coupon in violation of section 353(c)(2) of this title, the distribution of a drug sample in violation of section 353(d) of this title or the failure to otherwise comply with the requirements of section 353(d) of this title, or the distribution of drugs in violation of section 353(e) of this title or the failure to otherwise comply with the requirements of section 353(e) of this title.
 
 (u) The failure to comply with any requirements of the provisions of, or any regulations or orders of the Secretary, under section 360b(a)(4)(A), 360b(a)(4)(D), or 360b(a)(5) of this title.
 
@@ -66,13 +66,17 @@ The following acts and the causing thereof are prohibited:
 
 (z) The dissemination of information in violation of section 360aaa of this title.
 
-(June 25, 1938, ch. 675, §301, 52 Stat. 1042; Dec. 22, 1941, ch. 613, §1, 55 Stat. 851; July 6, 1945, ch. 281, §1, 59 Stat. 463; Mar. 10, 1947, ch. 16, §1, 61 Stat. 11; June 24, 1948, ch. 613, §1, 62 Stat. 582; Mar. 16, 1950, ch. 61, §3(b), 64 Stat. 20; Aug. 7, 1953, ch. 350, §2, 67 Stat. 477; Pub. L. 85–929, §5, Sept. 6, 1958, 72 Stat. 1788; Pub. L. 86–618, title I, §§104, 105(a), July 12, 1960, 74 Stat. 403; Pub. L. 87–781, title I, §§103(c), 104(e)(1), 106(c), 114(a), title III, §304, Oct. 10, 1962, 76 Stat. 784, 785, 788, 791, 795; Pub. L. 89–74, §§5, 9(c), July 15, 1965, 79 Stat. 232, 235; Pub. L. 90–399, §103, July 13, 1968, 82 Stat. 352; Pub. L. 90–639, §2(b), Oct. 24, 1968, 82 Stat. 1361; Pub. L. 91–513, title II, §701(a), Oct. 27, 1970, 84 Stat. 1281; Pub. L. 92–387, §4(e), Aug. 16, 1972, 86 Stat. 562; Pub. L. 94–295, §§3(b), 4(b)(1), 7(b), May 28, 1976, 90 Stat. 576, 580, 582; Pub. L. 96–359, §5, Sept. 26, 1980, 94 Stat. 1193; Pub. L. 99–570, title IV, §4014(b)(2), Oct. 27, 1986, 100 Stat. 3207–120; Pub. L. 100–293, §7(a), Apr. 22, 1988, 102 Stat. 99; Pub. L. 101–502, §5(j), Nov. 3, 1990, 104 Stat. 1289; Pub. L. 101–508, title IV, §4755(c)(2), Nov. 5, 1990, 104 Stat. 1388–210; Pub. L. 102–300, §3(a)(1), June 16, 1992, 106 Stat. 238; Pub. L. 102–571, title I, §107(2), (3), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 103–80, §3(c), Aug. 13, 1993, 107 Stat. 775; Pub. L. 103–396, §2(b)(1), Oct. 22, 1994, 108 Stat. 4154; Pub. L. 103–417, §10(b), Oct. 25, 1994, 108 Stat. 4332; Pub. L. 104–134, title II, §2103, Apr. 26, 1996, 110 Stat. 1321–319; Pub. L. 104–170, title IV, §403, Aug. 3, 1996, 110 Stat. 1514; Pub. L. 104–250, §5(d), Oct. 9, 1996, 110 Stat. 3156; Pub. L. 105–115, title I, §125(a)(2)(A), (C), (b)(2)(B), title II, §§204(b), 210(c), title IV, §§401(b), 421, Nov. 21, 1997, 111 Stat. 2325, 2336, 2345, 2364, 2380.)
+(aa) The importation of a covered product in violation of section 384 of this title, the falsification of any record required to be maintained or provided to the Secretary under such section, or any other violation of regulations under such section.
+
+(June 25, 1938, ch. 675, §301, 52 Stat. 1042; Dec. 22, 1941, ch. 613, §1, 55 Stat. 851; July 6, 1945, ch. 281, §1, 59 Stat. 463; Mar. 10, 1947, ch. 16, §1, 61 Stat. 11; June 24, 1948, ch. 613, §1, 62 Stat. 582; Mar. 16, 1950, ch. 61, §3(b), 64 Stat. 20; Aug. 7, 1953, ch. 350, §2, 67 Stat. 477; Pub. L. 85–929, §5, Sept. 6, 1958, 72 Stat. 1788; Pub. L. 86–618, title I, §§104, 105(a), July 12, 1960, 74 Stat. 403; Pub. L. 87–781, title I, §§103(c), 104(e)(1), 106(c), 114(a), title III, §304, Oct. 10, 1962, 76 Stat. 784, 785, 788, 791, 795; Pub. L. 89–74, §§5, 9(c), July 15, 1965, 79 Stat. 232, 235; Pub. L. 90–399, §103, July 13, 1968, 82 Stat. 352; Pub. L. 90–639, §2(b), Oct. 24, 1968, 82 Stat. 1361; Pub. L. 91–513, title II, §701(a), Oct. 27, 1970, 84 Stat. 1281; Pub. L. 92–387, §4(e), Aug. 16, 1972, 86 Stat. 562; Pub. L. 94–295, §§3(b), 4(b)(1), 7(b), May 28, 1976, 90 Stat. 576, 580, 582; Pub. L. 96–359, §5, Sept. 26, 1980, 94 Stat. 1193; Pub. L. 99–570, title IV, §4014(b)(2), Oct. 27, 1986, 100 Stat. 3207–120; Pub. L. 100–293, §7(a), Apr. 22, 1988, 102 Stat. 99; Pub. L. 101–502, §5(j), Nov. 3, 1990, 104 Stat. 1289; Pub. L. 101–508, title IV, §4755(c)(2), Nov. 5, 1990, 104 Stat. 1388–210; Pub. L. 102–300, §3(a)(1), June 16, 1992, 106 Stat. 238; Pub. L. 102–571, title I, §107(2), (3), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 103–80, §3(c), Aug. 13, 1993, 107 Stat. 775; Pub. L. 103–396, §2(b)(1), Oct. 22, 1994, 108 Stat. 4154; Pub. L. 103–417, §10(b), Oct. 25, 1994, 108 Stat. 4332; Pub. L. 104–134, title II, §2103, Apr. 26, 1996, 110 Stat. 1321–319; Pub. L. 104–170, title IV, §403, Aug. 3, 1996, 110 Stat. 1514; Pub. L. 104–250, §5(d), Oct. 9, 1996, 110 Stat. 3156; Pub. L. 105–115, title I, §125(a)(2)(A), (C), (b)(2)(B), title II, §§204(b), 210(c), title IV, §§401(b), 421, Nov. 21, 1997, 111 Stat. 2325, 2336, 2345, 2364, 2380; Pub. L. 106–387, §1(a) \[title VII, §745(d)(1)\], Oct. 28, 2000, 114 Stat. 1549, 1549A–39.)
 
 #### Amendment of Section
 
 <i>For termination of amendment by section 401(e) of Pub. L. 105–115, see Effective and Termination Dates of 1997 Amendment note below.</i>
 
 #### Amendments
+
+2000—Par. (aa). Pub. L. 106–387 added par. (aa).
 
 1997—Par. (e). Pub. L. 105–115, §125(b)(2)(B), struck out “357(d) or (g),” after “355(i) or (k),”.
 
@@ -230,7 +234,7 @@ Amendment by act Mar. 16, 1950, effective July 1, 1950, see section 7 of that ac
 
 #### Regulations
 
-Secretary of Health and Human Services to promulgate regulations to implement amendments made by section 401 of Pub. L. 105–115 not later than 1 year after Nov. 21, 1997, see section 401(c) of Pub. L. 105–115, set out as a note under section 360aaa of this title.
+Secretary of Health and Human Services to promulgate regulations to implement amendments made bysection 401 of Pub. L. 105–115 not later than 1 year after Nov. 21, 1997, see section 401(c) of Pub. L. 105–115, set out as a note under section 360aaa of this title.
 
 #### Savings Provision
 

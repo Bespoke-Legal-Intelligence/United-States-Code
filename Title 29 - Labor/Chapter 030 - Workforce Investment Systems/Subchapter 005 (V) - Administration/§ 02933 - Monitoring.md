@@ -14,3 +14,7 @@ For the purpose of any investigation or hearing conducted under this chapter by 
 
 (Pub. L. 105–220, title I, §183, Aug. 7, 1998, 112 Stat. 1042.)
 
+#### Prior Provisions
+
+Provisions similar to this section were contained in section 1573 of this title prior to repeal by Pub. L. 105–220.
+

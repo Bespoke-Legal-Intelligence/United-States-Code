@@ -18,7 +18,13 @@
 
 &emsp;&emsp;(iii) grading and drainage work.
 
-(3) The limitation contained in the first sentence of paragraph (1) does not apply to a project for the improvement of a family housing unit or units referred to in that sentence if the project (including the amount requested for the project) is identified in the budget materials submitted to Congress by the Secretary of Defense in connection with the submission to Congress of the budget for a fiscal year pursuant to section 1105 of title 31.
+(3) In determining the applicability of the limitation contained in paragraph (1), the Secretary concerned shall not include as part of the cost of the improvement of the unit or units concerned the following:
+
+&emsp;(A) The cost of the installation of communications, security, or antiterrorism equipment required by an occupant of the unit or units to perform duties assigned to the occupant as a member of the armed forces.
+
+&emsp;(B) The cost of the maintenance or repair of equipment described in subparagraph (A) installed for the purpose specified in such subparagraph.
+
+(4) The limitation contained in the first sentence of paragraph (1) does not apply to a project for the improvement of a family housing unit or units referred to in that sentence if the project (including the amount requested for the project) is identified in the budget materials submitted to Congress by the Secretary of Defense in connection with the submission to Congress of the budget for a fiscal year pursuant to section 1105 of title 31.
 
 (c)(1) The Secretary concerned may construct replacement military family housing units in lieu of improving existing military family housing units if—
 
@@ -38,9 +44,11 @@
 
 (d) This section does not apply to projects authorized for restoration or replacement of housing units that have been damaged or destroyed.
 
-(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 159; amended Pub. L. 99–661, div. B, title VII, §2702(c), Nov. 14, 1986, 100 Stat. 4040; Pub. L. 100–26, §7(k)(3), Apr. 21, 1987, 101 Stat. 284; Pub. L. 100–180, div. B, subdiv. 3, title I, §2305, Dec. 4, 1987, 101 Stat. 1215; Pub. L. 101–189, div. B, title XXVIII, §2804, Nov. 29, 1989, 103 Stat. 1647; Pub. L. 101–510, div. B, title XXVIII, §2812, Nov. 5, 1990, 104 Stat. 1788; Pub. L. 102–484, div. B, title XXVIII, §2802(a), Oct. 23, 1992, 106 Stat. 2605; Pub. L. 103–337, div. B, title XXVIII, §2802, Oct. 5, 1994, 108 Stat. 3050; Pub. L. 104–106, div. A, title XV, §1502(a)(26), Feb. 10, 1996, 110 Stat. 506; Pub. L. 104–201, div. B, title XXVIII, §2803, Sept. 23, 1996, 110 Stat. 2788.)
+(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 159; amended Pub. L. 99–661, div. B, title VII, §2702(c), Nov. 14, 1986, 100 Stat. 4040; Pub. L. 100–26, §7(k)(3), Apr. 21, 1987, 101 Stat. 284; Pub. L. 100–180, div. B, subdiv. 3, title I, §2305, Dec. 4, 1987, 101 Stat. 1215; Pub. L. 101–189, div. B, title XXVIII, §2804, Nov. 29, 1989, 103 Stat. 1647; Pub. L. 101–510, div. B, title XXVIII, §2812, Nov. 5, 1990, 104 Stat. 1788; Pub. L. 102–484, div. B, title XXVIII, §2802(a), Oct. 23, 1992, 106 Stat. 2605; Pub. L. 103–337, div. B, title XXVIII, §2802, Oct. 5, 1994, 108 Stat. 3050; Pub. L. 104–106, div. A, title XV, §1502(a)(26), Feb. 10, 1996, 110 Stat. 506; Pub. L. 104–201, div. B, title XXVIII, §2803, Sept. 23, 1996, 110 Stat. 2788; Pub. L. 106–398, §1 \[div. B, title XXVIII, §2802\], Oct. 30, 2000, 114 Stat. 1654, 1654A–413.)
 
 #### Amendments
+
+2000—Subsec. (b)(3), (4). Pub. L. 106–398 added par. (3) and redesignated former par. (3) as (4).
 
 1996—Subsec. (a)(2). Pub. L. 104–201, §2803(a), inserted “major” before “maintenance or repair” and “Such term does not include day-to-day maintenance and repair work.” at end.
 

@@ -138,10 +138,6 @@ The exception for officers and employees of the Inland Waterways Corporation in 
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
-#### References in Text
-
-Chapter 15 of title 31, District of Columbia Code, referred to in par. (2)(iii), was transferred to chapter 11 (§31–1101 et seq.) of Title 31, Education and Cultural Institutions, of the District of Columbia Code.
-
 #### Amendments
 
 1996—Par. (2)(xii). Pub. L. 104–201 inserted “or” after “Services Administration,” and struck out “, or a vessel employee of the Panama Canal Commission” after “Interior”.
@@ -214,6 +210,16 @@ Pub. L. 103–329, title VI, §633(a), Sept. 30, 1994, 108 Stat. 2425, provided 
 
 Environmental Science Services Administration in Department of Commerce, including offices of Administrator and Deputy Administrator thereof, abolished by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to this title, which created National Oceanic and Atmospheric Administration in Department of Commerce and transferred personnel, property, records, and unexpended balances of funds of Environmental Science Services Administration to such newly created National Oceanic and Atmospheric Administration. Components of Environmental Science Services Administration thus transferred included Weather Bureau \[now National Weather Service\], Coast and Geodetic Survey \[now National Ocean Survey\], Environmental Data Service, National Environmental Satellite Center, and ESSA Research Laboratories.
 
+#### Availability of Premium Pay for Attorneys Employed in Department of Justice
+
+Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §115\], Nov. 29, 1999, 113 Stat. 1535, 1501A–21, provided that:
+
+“(a) None of the funds made available by this or any other Act may be used to pay premium pay under title 5, United States Code, sections 5542–5549, to any individual employed as an attorney, including an Assistant United States Attorney, in the Department of Justice for any work performed on or after the date of the enactment of this Act \[Nov. 29, 1999\].
+
+“(b) Notwithstanding any other provision of law, neither the United States nor any individual or entity acting on its behalf shall be liable for premium pay under title 5, United States Code, sections 5542–5549, for any work performed on or after the date of the enactment of this Act \[Nov. 29, 1999\] by any individual employed as an attorney in the Department of Justice, including an Assistant United States Attorney.”
+
+\[Pub. L. 106–553, §1(a)(2) \[title I, §111\], Dec. 21, 2000, 114 Stat. 2762, 2762A–68, provided that: “Section 115 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 2000 (as enacted into law by section 1000(a)(1) of Public Law 106–113) \[set out above\] shall apply hereafter.”\]
+
 #### Sense of Congress Relating to Law Enforcement Officer Provisions
 
 Section 2(40)(D) of Pub. L. 102–378 provided that: “It is the sense of the Congress that—
@@ -237,14 +243,6 @@ In General.—Notwithstanding any other provision of law, the Drug Enforcement A
 “(b)
 
 Limitation.—The provisions of this section shall apply only to an employee who has received a bonus under this section before January 1, 1992. The provisions of subchapter III of chapter 45 of title 5, United States Code, shall apply to any employee who would otherwise be eligible to receive a bonus under this section, on and after such date.”
-
-#### Cross References
-
-Pay of Federal judges, see sections 5, 44, 135, 172, and 252 of Title 28, Judiciary and Judicial Procedure.
-
-Pay of officers and employees of the Tennessee Valley Authority, see sections 831a, 831b of Title 16, Conservation.
-
-Pay of United States Secret Service Uniformed Division, see section 204 of Title 3, The President.
 
 #### Section Referred to in Other Sections
 

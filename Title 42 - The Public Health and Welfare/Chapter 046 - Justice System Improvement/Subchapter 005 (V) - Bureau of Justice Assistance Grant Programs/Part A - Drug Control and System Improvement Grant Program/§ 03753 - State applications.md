@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(F) an analysis of the relationship of the proposed State efforts to the national drug control strategy; and
 
-&emsp;&emsp;(G) a plan for coordinating the programs to be funded under this subchapter withother federally funded programs, including State and local drug abuse education, treatment, and prevention programs.
+&emsp;&emsp;(G) a plan for coordinating the programs to be funded under this subchapter with other federally funded programs, including State and local drug abuse education, treatment, and prevention programs.
 
 &emsp;(2) A certification that Federal funds made available under the formula grant of this part will not be used to supplant State or local funds, but will be used to increase the amounts of such funds that would, in the absence of Federal funds, be made available for law enforcement activities.
 
@@ -52,17 +52,41 @@
 
 &emsp;&emsp;&emsp;(iv) if personally identifiable information is removed, for a population statistics database, for identification research and protocol development purposes, or for quality control purposes; and
 
-&emsp;&emsp;(C) such laboratory, and each analyst performing DNA analyses at such laboratory, will undergo, at regular intervals of not to exceed 180 days, external proficiency testing by a DNA proficiency testing program meeting the standards issued under section 14131 of this title.
+&emsp;&emsp;(C) such laboratory, and each analyst performing DNA analyses at such laboratory, will undergo semiannual external proficiency testing by a DNA proficiency testing program meeting the standards issued under section 14131 of this title.
+
+&emsp;(13) If any part of the amount received from a grant under this subchapter is to be used to improve the quality, timeliness, and credibility of forensic science services for criminal justice purposes, a certification that, as of December 21, 2000, the State, or unit of local government within the State, has an established—
+
+&emsp;&emsp;(A) forensic science laboratory or forensic science laboratory system, that—
+
+&emsp;&emsp;&emsp;(i) employs 1 or more full-time scientists—
+
+&emsp;&emsp;&emsp;&emsp;(I) whose principal duties are the examination of physical evidence for law enforcement agencies in criminal matters; and
+
+&emsp;&emsp;&emsp;&emsp;(II) who provide testimony with respect to such physical evidence to the criminal justice system;
+
+&emsp;&emsp;&emsp;(ii) employs generally accepted practices and procedures, as established by appropriate accrediting organizations; and
+
+&emsp;&emsp;&emsp;(iii) is accredited by the Laboratory Accreditation Board of the American Society of Crime Laboratory Directors or the National Association of Medical Examiners, or will use a portion of the grant amount to prepare and apply for such accreditation by not later than 2 years after the date on which a grant is initially awarded under this paragraph; or
+
+&emsp;&emsp;(B) medical examiner's office (as defined by the National Association of Medical Examiners) that—
+
+&emsp;&emsp;&emsp;(i) employs generally accepted practices and procedures, as established by appropriate accrediting organizations; and
+
+&emsp;&emsp;&emsp;(ii) is accredited by the Laboratory Accreditation Board of the American Society of Crime Laboratory Directors or the National Association of Medical Examiners, or will use a portion of the grant amount to prepare and apply for such accreditation by not later than 2 years after the date on which a grant is initially awarded under this paragraph.
 
 (b) Within 30 days after November 18, 1988, the Director shall promulgate regulations to implement this section (including the information that must be included and the requirements that the States must meet) in submitting the applications required under this section.
 
-(Pub. L. 90–351, title I, §503, as added Pub. L. 100–690, title VI, §6091(a), Nov. 18, 1988, 102 Stat. 4331; amended Pub. L. 101–649, title V, §507(a), Nov. 29, 1990, 104 Stat. 5050; Pub. L. 102–232, title III, §306(a)(6), Dec. 12, 1991, 105 Stat. 1751; Pub. L. 103–322, title XXI, §210302(b), Sept. 13, 1994, 108 Stat. 2065.)
+(Pub. L. 90–351, title I, §503, as added Pub. L. 100–690, title VI, §6091(a), Nov. 18, 1988, 102 Stat. 4331; amended Pub. L. 101–649, title V, §507(a), Nov. 29, 1990, 104 Stat. 5050; Pub. L. 102–232, title III, §306(a)(6), Dec. 12, 1991, 105 Stat. 1751; Pub. L. 103–322, title XXI, §210302(b), Sept. 13, 1994, 108 Stat. 2065; Pub. L. 106–546, §8(a), Dec. 19, 2000, 114 Stat. 2734; Pub. L. 106–561, §2(b), Dec. 21, 2000, 114 Stat. 2787.)
 
 #### Prior Provisions
 
 For prior sections 503 of Pub. L. 90–351 and prior sections 3753 of this title, see note set out preceding section 3750 of this title.
 
 #### Amendments
+
+2000—Subsec. (a)(12)(C). Pub. L. 106–546 substituted “semiannual” for “, at regular intervals of not to exceed 180 days,”.
+
+Subsec. (a)(13). Pub. L. 106–561 added par. (13).
 
 1994—Subsec. (a)(12). Pub. L. 103–322 added par. (12).
 

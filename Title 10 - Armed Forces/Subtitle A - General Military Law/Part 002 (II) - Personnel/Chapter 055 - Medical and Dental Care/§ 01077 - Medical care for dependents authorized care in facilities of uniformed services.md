@@ -40,7 +40,7 @@
 
 &emsp;(3) The elective correction of minor dermatological blemishes and marks or minor anatomical anomalies.
 
-(c) A dependent participating under a dental plan established under section 1076a of this title may not be provided dental care under section 1076(a) of this title except for emergency dental care, dental care provided outside the United States, and dental care that is not covered by such plan.
+(c) A dependent participating under a dental plan established under section 1076a of this title may not be provided dental care under section 1076(a) of this title except for emergency dental care, dental care provided outside the UnitedStates, and dental care that is not covered by such plan.
 
 (d)(1) Notwithstanding subsection (b)(1), hospice care may be provided under section 1076 of this title in facilities of the uniformed services to a terminally ill patient who chooses (pursuant to regulations prescribed by the Secretary of Defense in consultation with the other administering Secretaries) to receive hospice care rather than continuing hospitalization or other health care services for treatment of the patient's terminal illness.
 
@@ -144,11 +144,11 @@ For effective date of amendment by Pub. L. 89–614, see section 3 of Pub. L. 89
 
 #### Provision of Domiciliary and Custodial Care for Certain CHAMPUS Beneficiaries
 
-Pub. L. 106–65, div. A, title VII, §703, Oct. 5, 1999, 113 Stat. 682, provided that:
+Pub. L. 106–65, div. A, title VII, §703, Oct. 5, 1999, 113 Stat. 682, as amended by Pub. L. 106–398, §1 \[\[div. A\], title VII, § 701(a), (b), (c)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–172, provided that:
 
 “(a)
 
-Continuation of Care.—(1) The Secretary of Defense may, in any case in which the Secretary makes the determination described in paragraph (2), continue to provide payment under the Civilian Health and Medical Program of the Uniformed Services (as defined in section 1072 of title 10, United States Code), for domiciliary or custodial care services provided to an eligible beneficiary that would otherwise be excluded from coverage under regulations implementing section 1077(b)(1) of such title.
+Continuation of Care.—(1) The Secretary of Defense may, in any case in which the Secretary makes the determination described in paragraph (2), continue to provide payment under the Civilian Health and Medical Program of the Uniformed Services (as defined in section 1072 of title 10, United States Code), for domiciliary or custodial care services provided to an eligible beneficiary that would otherwise be excluded from coverage under regulations implementing section 1077(b)(1) of such title or by the prohibition in section 1086(d)(1) of such title.
 
 “(2) A determination under this paragraph is a determination that discontinuation of payment for domiciliary or custodial care services or transition to provision of care under the individual case management program authorized by section 1079(a)(17) of such title would be—
 
@@ -157,6 +157,8 @@ Continuation of Care.—(1) The Secretary of Defense may, in any case in which t
 &emsp;“(B) unjust to such beneficiary.
 
 “(3) As used in this section, the term ‘eligible beneficiary’ means a covered beneficiary (as that term is defined in section 1072 of title 10, United States Code) who, before the effective date of final regulations to implement the individual case management program authorized by section 1079(a)(17) of such title, were provided domiciliary or custodial care services for which the Secretary provided payment.
+
+“(4) The Secretary may provide payment for domiciliary or custodial care services provided to an eligible beneficiary for which payment was discontinued by reason of section 1086(d) of title 10, United States Code, and subsequently reestablished under other legal authority. Such payment is authorized for the period beginning on the date of discontinuation of payment for domiciliary or custodial care services and ending on the date of reestablishment of payment for such services.
 
 “(b)
 
@@ -172,7 +174,11 @@ Survey of Case Management and Custodial Care Policies.—The Secretary of Defens
 
 “(d)
 
-Report on Survey of Case Management and Custodial Care Policies.—Not later than March 31,2000, the Secretary shall submit a report on the survey required by subsection (c) to Congress. The Secretary shall include in the report any recommendations for legislative changes that the Secretary determines necessary to facilitate the case management of the Department of Defense, and a plan for any regulatory changes determined necessary by the Secretary. Such plan shall include any regulatory provisions that the Secretary determines necessary to address equitably the unique needs of the family members of active duty military personnel and to ensure the full integration of the case management program of the Department of Defense with other available family support services activities.”
+Report on Survey of Case Management and Custodial Care Policies.—Not later than March 31, 2000, the Secretary shall submit a report on the survey required by subsection (c) to Congress. The Secretary shall include in the report any recommendations for legislative changes that the Secretary determines necessary to facilitate the case management of the Department of Defense, and a plan for any regulatory changes determined necessary by the Secretary. Such plan shall include any regulatory provisions that the Secretary determines necessary to address equitably the unique needs of the family members of active duty military personnel and to ensure the full integration of the case management program of the Department of Defense with other available family support services activities.
+
+“(e)
+
+Cost Limitation.—The total amount paid for services for eligible beneficiaries under subsection (a) for a fiscal year (together with the costs of administering the authority under that subsection) shall be included in the expenditures limited by section 1079(a)(17)(B) of title 10, United States Code.”
 
 #### Obstetrical Care Facilities
 

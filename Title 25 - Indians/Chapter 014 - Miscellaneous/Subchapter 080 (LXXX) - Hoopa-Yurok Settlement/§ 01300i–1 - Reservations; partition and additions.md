@@ -44,7 +44,7 @@ Effective with the partition of the joint reservation as provided in subsection 
 
 (1) The boundary between the Hoopa Valley Reservation and the Yurok Reservation, after the partition of the joint reservation as provided in this section, shall be the line established by the Bissel-Smith survey.
 
-(2) Upon the partition of the joint reservation as provided in this section, the Secretary shall publish a description of the boundaries of theHoopa Valley Reservation and Yurok Reservation in the Federal Register.
+(2) Upon the partition of the joint reservation as provided in this section, the Secretary shall publish a description of the boundaries of the Hoopa Valley Reservation and Yurok Reservation in the Federal Register.
 
 #### (e) Management of the Yurok Reservation
 

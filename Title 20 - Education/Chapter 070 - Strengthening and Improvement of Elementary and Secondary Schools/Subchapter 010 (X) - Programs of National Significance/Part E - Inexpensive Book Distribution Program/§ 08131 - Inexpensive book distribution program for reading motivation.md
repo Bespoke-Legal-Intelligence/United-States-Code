@@ -44,7 +44,7 @@ The Secretary shall make no payment of the Federal share of the cost of acquirin
 
 #### (d) “Federal share” defined
 
-For the purpose of this section, the term “Federal share” means, with respect to the cost to a subcontractor of purchasing books to be paid under this section, 75 percent of such costs to the subcontractor, except that the Federal sharefor programs serving children of migrant or seasonal farmworkers shall be 100 percent of such costs to the subcontractor.
+For the purpose of this section, the term “Federal share” means, with respect to the cost to a subcontractor of purchasing books to be paid under this section, 75 percent of such costs to the subcontractor, except that the Federal share for programs serving children of migrant or seasonal farmworkers shall be 100 percent of such costs to the subcontractor.
 
 #### (e) Authorization of appropriations
 

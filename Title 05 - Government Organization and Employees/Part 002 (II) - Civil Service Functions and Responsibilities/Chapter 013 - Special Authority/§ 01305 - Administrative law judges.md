@@ -38,7 +38,7 @@ Pub. L. 95–251 substituted “Administrative law judges” for “Hearing exam
 
 #### Effective Date of 1978 Amendment
 
-Amendment by section 801(a)(3)(B)(iii) of Pub. L. 95–454 substituting “5372” for “5362” effective on first day of first applicable pay period beginning on or after the 90th day after Oct. 13, 1978, see section 801(a)(4) of Pub. L. 95–454, set out as an Effective Date note under section 5361 of this title.
+Amendment by section 801(a)(3)(B)(iii) of Pub. L. 95–454 substituting “5372” for “5362” effective on firstday of first applicable pay period beginning on or after the 90th day after Oct. 13, 1978, see section 801(a)(4) of Pub. L. 95–454, set out as an Effective Date note under section 5361 of this title.
 
 Amendment by section 906(a)(12) of Pub. L. 95–454 respecting functions of the Office and the Board effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 
@@ -49,12 +49,6 @@ Amendment by Pub. L. 90–83 effective as of Sept. 6, 1966, for all purposes, se
 #### Termination of Advisory Committees
 
 Advisory committees in existence on Jan. 5, 1973, excluding committees composed wholly of full-time officers or employees of the Federal Government, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to this title.
-
-#### Cross References
-
-Additional requirements imposed by statute or otherwise recognized by law not limited or repealed by this section, see section 559 of this title.
-
-Subsequent statutes to supersede or modify this section only to the extent that they do so expressly, see section 559 of this title.
 
 #### Section Referred to in Other Sections
 

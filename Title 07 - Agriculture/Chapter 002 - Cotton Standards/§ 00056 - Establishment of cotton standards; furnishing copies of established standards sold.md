@@ -12,10 +12,6 @@ The United States Cotton Futures Act, referred to in text, is part A of act Aug.
 
 Section is composed of the first five sentences of subsec. (a) of section 6 of act Mar. 4, 1923, as renumbered by section 401(b), of act Sept. 21, 1944. Last sentence of subsec. (a) of section 6 is classified to section 57 of this title. Subsec. (b) of section 6 is classified to section 57a of this title.
 
-#### Cross References
-
-Disposition of proceeds of sale of cotton and of copies of standards, see section 57 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 55, 57 of this title.

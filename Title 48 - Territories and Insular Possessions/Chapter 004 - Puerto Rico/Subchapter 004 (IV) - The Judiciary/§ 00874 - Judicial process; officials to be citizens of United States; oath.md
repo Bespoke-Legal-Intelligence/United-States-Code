@@ -12,7 +12,3 @@ Provisions similar to those in this section were contained in act Apr. 12, 1900,
 
 “Puerto Rico” substituted in text for “Porto Rico” pursuant to act May 17, 1932, which is classified to section 731a of this title.
 
-#### Federal Rules of Civil Procedure
-
-Power of Supreme Court to prescribe rules of procedure and evidence for district courts, see section 2072 of Title 28, Judiciary and Judicial Procedure.
-

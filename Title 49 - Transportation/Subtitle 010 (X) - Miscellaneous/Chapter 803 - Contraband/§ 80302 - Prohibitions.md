@@ -30,7 +30,7 @@ Definition.—In this section, “contraband” means—
 
 &emsp;(5) a cigarette involved in a violation of chapter 114 of title 18 or a regulation prescribed under chapter 114; or
 
-&emsp;(6)(A) a counterfeit label for a phonorecord, copy of a computer program or computer program documentation or packaging, or copy ofa motion picture or other audiovisual work (as defined in section 2318 of title 18);
+&emsp;(6)(A) a counterfeit label for a phonorecord, copy of a computer program or computer program documentation or packaging, or copy of a motion picture or other audiovisual work (as defined in section 2318 of title 18);
 
 &emsp;(B) a phonorecord or copy in violation of section 2319 of title 18;
 

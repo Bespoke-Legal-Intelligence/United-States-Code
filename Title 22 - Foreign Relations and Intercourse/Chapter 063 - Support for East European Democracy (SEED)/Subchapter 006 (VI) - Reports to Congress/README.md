@@ -9,5 +9,5 @@
 - [&sect; 05472 - Report on confidence building measures by Poland and Hungary](%C2%A7%2005472%20-%20Report%20on%20confidence%20building%20measures%20by%20Poland%20and%20Hungary.md)
 - [&sect; 05473 - Report on environmental problems in Poland and Hungary](%C2%A7%2005473%20-%20Report%20on%20environmental%20problems%20in%20Poland%20and%20Hungary.md)
 - [&sect; 05474 - Annual SEED Program report](%C2%A7%2005474%20-%20Annual%20SEED%20Program%20report.md)
-- [&sect; 05475 - Reports on certain activities](%C2%A7%2005475%20-%20Reports%20on%20certain%20activities.md)
+- [&sect; 05475 - Omitted](%C2%A7%2005475%20-%20Omitted.md)
 - [&sect; 05476 - Notifications to Congress regarding assistance](%C2%A7%2005476%20-%20Notifications%20to%20Congress%20regarding%20assistance.md)

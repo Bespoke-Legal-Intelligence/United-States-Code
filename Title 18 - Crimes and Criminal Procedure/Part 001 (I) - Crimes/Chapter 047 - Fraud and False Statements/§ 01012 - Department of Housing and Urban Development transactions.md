@@ -28,7 +28,3 @@ The provisions of section 1424 of title 42, U.S.C., 1940 ed., The Public Health 
 
 1951—Act Oct. 31, 1951, substituted “Public Housing Administration” for “United States Housing Authority” in section catchline and text, and “Administration” for “Authority”, wherever appearing in text.
 
-#### Cross References
-
-Low-rent housing, see section 1437 et seq. of Title 42, The Public Health and Welfare.
-

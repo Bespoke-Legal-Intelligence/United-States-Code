@@ -16,13 +16,7 @@ Functions authorized by Foreign Assistance Act of 1961, as amended, as exempt, s
 
 #### Section Inapplicable to Armed Services and National Aeronautics and Space Administration
 
-Section inapplicable to procurement of supplies or services by Armed Services and National Aeronautics and Space Administration, see section 2314 of Title 10, Armed Forces.
-
-#### Cross References
-
-Contracts by Secretary of the Treasury for manufacture of distinctive paper for United States securities, see section 5114 of Title 31, Money and Finance.
-
-General Services Administration, section inapplicable to procurement of property or services, see section 260 of this title.
+Section inapplicable to procurement or sale of property or services by Armed Services and National Aeronautics and Space Administration, see section 2314 of Title 10, Armed Forces.
 
 #### Section Referred to in Other Sections
 

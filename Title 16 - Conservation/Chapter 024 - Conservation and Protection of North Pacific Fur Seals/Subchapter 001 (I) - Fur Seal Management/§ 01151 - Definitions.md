@@ -8,7 +8,7 @@
 
 (d) “Fur Seal” means the North Pacific Fur Seal, Callorhinus Ursinus.
 
-(e) “Import” means to land on, bring into, or introduce into, or attempt to land on, bring into, or introduce into, any place subject to thejurisdiction of the United States, whether or not such landing, bringing, or introduction constitutes an importation within the meaning of the customs laws of the United States.
+(e) “Import” means to land on, bring into, or introduce into, or attempt to land on, bring into, or introduce into, any place subject to the jurisdiction of the United States, whether or not such landing, bringing, or introduction constitutes an importation within the meaning of the customs laws of the United States.
 
 (f) “Natives of the Pribilof Islands” means any Aleuts who are permanent residents of the Pribilof Islands, or any organization or entity representing such natives.
 
@@ -44,11 +44,17 @@
 
 Amendment by Pub. L. 102–251 effective on date on which Agreement between United States and Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until date on which Agreement enters into force for United States, see section 308 of Pub. L. 102–251, set out as a note under section 773 of this title.
 
+#### Short Title of 2000 Amendments
+
+Pub. L. 106–562, title I, §101, Dec. 23, 2000, 114 Stat. 2794, provided that: “This title \[enacting section 1169b of this title, amending sections 1161, 1165, and 1166 of this title, repealing section 1165 of this title, enacting provisions set out as notes under this section and section 1161 of this title, amending provisions set out as a note under section 1165 of this title, and repealing provisions set out as a note under section 1165 of this title\] may be referred to as the ‘Pribilof Islands Transition Act’.”
+
+Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(e)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–244, provided that: “This subsection \[enacting section 1169b of this title, amending sections 1161, 1165, and 1166 of this title, repealing section 1165 of this title, enacting provisions set out as notes under this section and section 1161 of this title, amending provisions set out as a note under section 1165 of this title, and repealing provisions set out as a note under section 1165 of this title\] may be referred to as the ‘Pribilof Islands Transition Act’.”
+
 #### Short Title of 1983 Amendment
 
-Section 1 of Pub. L. 98–129 provided: “That this Act \[amending this chapter generally, sections 8332 and 8334 of Title 5, Government Organization and Employees, and section 450i of Title 25, Indians\] may be cited as the ‘Fur Seal Act Amendments of 1983’.”
+Section 1 of Pub. L. 98–129 provided: “That this Act \[amending this chapter generally, sections 8332 and 8334of Title 5, Government Organization and Employees, and section 450i of Title 25, Indians\] may be cited as the ‘Fur Seal Act Amendments of 1983’.”
 
 #### Short Title
 
-Pub. L. 89–702, which is classified principally to this chapter, is popularly known as the “Fur Seal Act of 1966”. Prior to the general amendment of Pub. L. 89–702 by Pub. L. 98–129, section 1 of Pub. L. 89–702 had provided: “That this Act \[enacting this chapter, amending section 2254(g) of former Title 5, Executive Departments and Government Officers and Employees, repealing sections 631a to 631q of this title, and amending provisions set out as a note preceding section 21 of Title 48, Territories and Insular Possessions\] may be cited as the ‘Fur Seal Act of 1966’.”
+Pub. L. 89–702, §1, as added by Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(e)(6)(C)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–248, and Pub. L. 106–562, title I, §106(c), Dec. 23, 2000, 114 Stat. 2799, provided that: “This Act \[generally enacting this chapter, for complete classification, see Tables\] may be cited as the ‘Fur Seal Act of 1966’.”
 

@@ -14,7 +14,7 @@ The Secretary shall expend, at the request of the Wampanoag Tribal Council of Ga
 
 #### (d) Transfer and survey of land to Wampanoag Tribal Council
 
-Any right, title, or interest to lands acquired by the Secretary under this section, and thetitle to public settlement lands conveyed by the town of Gay Head, shall be held in trust for the Wampanoag Tribal Council of Gay Head, Inc. and shall be subject to this subchapter, the Settlement Agreement, and other applicable laws.
+Any right, title, or interest to lands acquired by the Secretary under this section, and the title to public settlement lands conveyed by the town of Gay Head, shall be held in trust for the Wampanoag Tribal Council of Gay Head, Inc. and shall be subject to this subchapter, the Settlement Agreement, and other applicable laws.
 
 #### (e) Proceedings authorized to acquire or to perfect title
 
@@ -30,7 +30,7 @@ The Secretary is authorized to accept and hold in trust for the benefit of the W
 
 #### (g) Application
 
-The terms of this section shall apply to land in the town of Gay Head. Any land acquired by the Wampanoag Tribal Council of Gay Head, Inc., that is located outside the town of Gay Head shall be subject to all the civil and criminal laws, ordinances, and jurisdiction of the Commonwealth of Massachusetts.
+The terms of this section shall apply to land in the town of Gay Head. Any land acquired bythe Wampanoag Tribal Council of Gay Head, Inc., that is located outside the town of Gay Head shall be subject to all the civil and criminal laws, ordinances, and jurisdiction of the Commonwealth of Massachusetts.
 
 #### (h) Spending authority
 

@@ -2,7 +2,7 @@
 
 An agency as defined by section 551 of this title which occasionally or temporarily is insufficiently staffed with administrative law judges appointed under section 3105 of this title may use administrative law judges selected by the Office of Personnel Management from and with the consent of other agencies.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 425; Pub. L. 95–251, §2(a)(1), (b)(2), Mar. 27, 1978, 92 Stat. 183; Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 425; Pub. L. 95–251, §2(a)(1), (b)(2), Mar. 27, 1978, 92 Stat. 183;Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224.)
 
 Historical and Revision Notes
 
@@ -29,14 +29,6 @@ Pub. L. 95–251 substituted references to administrative law judges for referen
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
-
-#### Cross References
-
-Additional requirements imposed by statute or otherwise recognized by law not limited or repealed by this section, see section 559 of this title.
-
-Office of Personnel Management, investigations, reports, and regulations for purposes of this section as relating to administrative law judges, see section 1305 of this title.
-
-Subsequent statutes to be held to supersede or modify this section only to the extent that they do so expressly, see section 559 of this title.
 
 #### Section Referred to in Other Sections
 

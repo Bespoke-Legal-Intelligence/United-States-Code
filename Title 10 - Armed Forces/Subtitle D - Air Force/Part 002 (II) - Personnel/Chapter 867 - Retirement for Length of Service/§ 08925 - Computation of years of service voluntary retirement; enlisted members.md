@@ -88,10 +88,6 @@ Amendment by Pub. L. 103–337 applicable to computation of retired pay of any e
 
 Amendment by Pub. L. 96–343 effective with respect to retired pay payable for months beginning after Sept. 8, 1980, see section 9(c) of Pub. L. 96–343, set out as a note under section 3914 of this title.
 
-#### Cross References
-
-Active service as an officer to be counted as enlisted service for all purposes, see section 8684 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 8914, 8917 of this title.

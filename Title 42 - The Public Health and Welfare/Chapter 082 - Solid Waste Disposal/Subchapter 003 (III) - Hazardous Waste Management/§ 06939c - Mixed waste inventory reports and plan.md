@@ -44,7 +44,7 @@
 
 &emsp;&emsp;(C) A description, including the capacity, number and location, of any existing treatment unit that was not considered in calculating the estimate under subparagraph (A) but that could, alone or in conjunction with other treatment units, be used to treat any of the wastes described in the report required by paragraph (1)(A) to meet the requirements of regulations promulgated pursuant to section 6924(m) of this title.
 
-&emsp;&emsp;(D) For each unit listed in subparagraph (C), a statement of the reasons why the unit was not included in calculating the estimate under subparagraph (A).
+&emsp;&emsp;(D) For each unit listed in subparagraph (C), a statement of the reasons why the unitwas not included in calculating the estimate under subparagraph (A).
 
 &emsp;&emsp;(E) A description, including the capacity, number, location, and estimated date of availability, of each treatment unit currently proposed to increase the treatment capacities estimated under subparagraph (A).
 
@@ -80,13 +80,13 @@
 
 &emsp;(A) For each facility that is located in a State (i) with authority under State law to prohibit land disposal of mixed waste until the waste has been treated and (ii) with both authority under State law to regulate the hazardous components of mixed waste and authorization from the Environmental Protection Agency under section 6926 of this title to regulate the hazardous components of mixed waste, the Secretary of Energy shall submit the plan required under paragraph (1) to the appropriate State regulatory officials for their review and approval, modification, or disapproval. In reviewing the plan, the State shall consider the need for regional treatment facilities. The State shall consult with the Administrator and any other State in which a facility affected by the plan is located and consider public comments in making its determination on the plan. The State shall approve, approve with modifications, or disapprove the plan within 6 months after receipt of the plan.
 
-&emsp;(B) For each facility located in a State that does not have the authority described in subparagraph (A), the Secretary shall submit the plan required under paragraph (1) to the Administrator of the Environmental Protection Agency for review and approval, modification, or disapproval. A copy of the plan also shall be provided by the Secretary to the State in which such facility is located. In reviewing the plan, the Administrator shall consider the need for regional treatment facilities. The Administrator shall consult with the State orStates in which any facility affected by the plan is located and consider public comments in making a determination on the plan. The Administrator shall approve, approve with modifications, or disapprove the plan within 6 months after receipt of the plan.
+&emsp;(B) For each facility located in a State that does not have the authority described in subparagraph (A), the Secretary shall submit the plan required under paragraph (1) to the Administrator of the Environmental Protection Agency for review and approval, modification, or disapproval. A copy of the plan also shall be provided by the Secretary to the State in which such facility is located. In reviewing the plan, the Administrator shall consider the need for regional treatment facilities. The Administrator shall consult with the State or States in which any facility affected by the plan is located and consider public comments in making a determination on the plan. The Administrator shall approve, approve with modifications, or disapprove the plan within 6 months after receipt of the plan.
 
 &emsp;(C) Upon the approval of a plan under this paragraph by the Administrator or a State, the Administrator shall issue an order under section 6928(a) of this title, or the State shall issue an order under appropriate State authority, requiring compliance with the approved plan.
 
 #### (3) Public participation
 
-&emsp;Upon submission of a plan by the Secretary of Energy to the Administrator or a State, and before approval of the plan by the Administrator or a State, the Administrator or State shall publish a notice of the availability of the submitted plan and make such submitted plan available to the public on request.
+&emsp;Upon submission of a plan by the Secretary of Energy to the Administrator or a State, and before approval of the plan by the Administrator or a State, the Administrator or State shall publish a notice of the availability of thesubmitted plan and make such submitted plan available to the public on request.
 
 #### (4) Revisions of plan
 
@@ -122,7 +122,7 @@
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### GAO Report
 

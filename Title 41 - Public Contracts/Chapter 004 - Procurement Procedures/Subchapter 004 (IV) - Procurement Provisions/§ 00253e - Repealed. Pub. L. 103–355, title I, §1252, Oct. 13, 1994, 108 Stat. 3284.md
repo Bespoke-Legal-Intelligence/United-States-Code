@@ -4,5 +4,5 @@ Section, act June 30, 1949, ch. 288, title III, §303E, formerly §303F, as adde
 
 #### Effective Date of Repeal
 
-For effective date and applicability of repeal, see section 10001 of Pub. L. 103–355, set out as an EffectiveDate of 1994 Amendment note under section 251 of this title.
+For effective date and applicability of repeal, see section 10001 of Pub. L. 103–355, set out as an Effective Date of 1994 Amendment note under section 251 of this title.
 

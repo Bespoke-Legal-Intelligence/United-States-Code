@@ -46,7 +46,7 @@ NOW, THEREFORE, by virtue of the authority vested in me by the Constitution and 
 
 #### General Provisions
 
-Section 1. <i>Policy</i>. (a) Each employee of the executive branch of the Federal Government has the right, freely and without fear of penalty or reprisal, to form, join, and assist a labor organization or to refrain from any such activity, and each employee shall be protected in the exercise of this right. Except as otherwise expressly provided in this Order, the right to assist a labor organization extends to participation in the management of the organization and acting for the organization in the capacity of an organization representative, including presentation of its views to officials of the executive branch, the Congress, or other appropriate authority. The head of each agency shall take the action required to assure that employees in the agency are apprised of their rights under this section and that no interference, restraint, coercion, or discrimination is practiced within his agency to encourage or discourage membership in a labor organization.
+Section 1. <i>Policy</i>. (a) Each employee of the executive branch of the Federal Government has the right, freely and without fear of penalty or reprisal, to form, join, and assist a labor organization or to refrain from any such activity, and each employee shall be protected in the exercise of this right. Except as otherwise expressly provided in this Order, the right to assist a labor organization extends to participation in the management ofthe organization and acting for the organization in the capacity of an organization representative, including presentation of its views to officials of the executive branch, the Congress, or other appropriate authority. The head of each agency shall take the action required to assure that employees in the agency are apprised of their rights under this section and that no interference, restraint, coercion, or discrimination is practiced within his agency to encourage or discourage membership in a labor organization.
 
 (b) Paragraph (a) of this section does not authorize participation in the management of a labor organization or acting as a representative of such an organization by a supervisor, except as provided in section 24 of this Order, or by an employee when the participation or activity would result in a conflict or apparent conflict of interest or otherwise be incompatible with law or with the official duties of the employee.
 
@@ -60,7 +60,7 @@ Sec. 2. <i>Definitions</i>. When used in this Order, the term—
 
 (d) \[Revoked by Ex. Ord. No. 11838, Feb. 6, 1975, 40 F.R. 5743.\]
 
-(e) “Labor organization” means a lawful organization of any kind in which employees participate and which exists for the purpose, in whole or in part, of dealing with agencies concerning grievances, personnel policiesand practices, or other matters affecting the working conditions of their employees; but does not include an organization which—
+(e) “Labor organization” means a lawful organization of any kind in which employees participate and which exists for the purpose, in whole or in part, of dealing with agencies concerning grievances, personnel policies and practices, or other matters affecting the working conditions of their employees; but does not include an organization which—
 
 (1) consists of management officials or supervisors, except as provided in section 24 of this Order;
 
@@ -136,7 +136,7 @@ Sec. 4. <i>Powers and Duties of the Federal Labor Relations Authority.</i>
 
 (f) In performing the duties imposed on it by this Section, the Authority may request and use the services and assistance of employees of other agencies in accordance with Section 1 of the Act of March 4, 1915 (38 Stat. 1084, as amended; 31 U.S.C. 686) \[31 U.S.C. 1535\].
 
-Sec. 5. <i>Powers and Duties of the Federal Service Impasses Panel</i>. (a) There is hereby established the Federal Service Impasses Panel as a distinct organizational entity within the Authority. The Panel consists of at least three members appointed by the President, one of whom he designates as chairman. The Authority shall provide the services and staff assistance needed by the Panel.
+Sec. 5. <i>Powers and Duties of the Federal Service Impasses Panel</i>. (a) There is hereby established the FederalService Impasses Panel as a distinct organizational entity within the Authority. The Panel consists of at least three members appointed by the President, one of whom he designates as chairman. The Authority shall provide the services and staff assistance needed by the Panel.
 
 (b) The Panel may consider negotiation impasses as provided in section 17 of this Order and may take any action it considers necessary to settle an impasse.
 
@@ -164,7 +164,7 @@ Sec. 6. <i>Powers and Duties of the Office of the General Counsel and the Assist
 
 (c) In any matter arising under paragraph (b) of this Section, the Assistant Secretary may require a labor organization to cease and desist from violations of this Order and require it to take such affirmative action as he considers appropriate to effectuate the policies of this Order.
 
-(d) In performing the duties imposed on them by this Section, the General Counsel and the Assistant Secretary may request and use the services and assistanceof employees of other agencies in accordance with Section 1 of the Act of March 4, 1915 (38 Stat. 1084, as amended; 31 U.S.C. 686) \[31 U.S.C. 1535\].
+(d) In performing the duties imposed on them by this Section, the General Counsel and the Assistant Secretary may request and use the services and assistance of employees of other agencies in accordance with Section 1 of the Act of March 4, 1915 (38 Stat. 1084, as amended; 31 U.S.C. 686) \[31 U.S.C. 1535\].
 
 #### Recognition
 
@@ -222,7 +222,7 @@ Sec. 10. <i>Exclusive recognition</i>. (a) An agency shall accord exclusive reco
 
 #### Agreements
 
-Sec. 11. <i>Negotiation of agreements</i>. (a) An agency and a labor organization that has been accorded exclusive recognition, through appropriate representatives, shall meet at reasonable times and confer in good faith with respect to personnel policies and practices and matters affecting working conditions, so far as may be appropriate under applicable laws and regulations, includingpolicies set forth in the Federal Personnel Manual; published agency policies and regulations for which a compelling need exists under criteria established by the Federal Labor Relations Authority and which are issued at the agency headquarters level or at the level of a primary national subdivision; a national or other controlling agreement at a higher level in the agency; and this order. They may negotiate an agreement, or any question arising thereunder; determine appropriate techniques, consistent with section 17 of this order, to assist in such negotiation; and execute a written agreement or memorandum of understanding.
+Sec. 11. <i>Negotiation of agreements</i>. (a) An agency and a labor organization that has been accorded exclusive recognition, through appropriate representatives, shall meet at reasonable times and confer in good faith with respect to personnel policies and practices and matters affecting working conditions, so far as may be appropriate under applicable laws and regulations, including policies set forth in the Federal Personnel Manual; published agency policies and regulations for which a compelling need exists under criteria established by the Federal Labor Relations Authority and which are issued at the agency headquarters level or at the level of a primary national subdivision; a national or other controlling agreement at a higher level in the agency; and this order. They may negotiate an agreement, or any question arising thereunder; determine appropriate techniques, consistent with section 17 of this order, to assist in such negotiation; and execute a written agreement or memorandum of understanding.
 
 (b) In prescribing regulations relating to personnel policies and practices and working conditions, an agency shall have due regard for the obligation imposed by paragraph (a) of this section. However, the obligation to meet and confer does not include matters with respect to the mission of an agency; its budget; its organization; the number of employees; and the numbers, types, and grades of positions or employees assigned to an organizational unit, work project or tour of duty; the technology of performing its work; or its internal security practices. This does not preclude the parties from negotiating agreements providing appropriate arrangements for employees adversely affected by the impact of realignment of work forces or technological change.
 
@@ -342,7 +342,7 @@ Sec. 19. <i>Unfair labor practices</i>. (a) Agency management shall not—
 
 Sec. 20. <i>Use of official time</i>. Solicitation of membership or dues, and other internal business of a labor organization, shall be conducted during the non-duty hours of the employees concerned. Employees who represent a recognized labor organization shall not be on official time when negotiating an agreement with agency management, except to the extent that the negotiating parties agree to other arrangements which may provide that the agency will either authorize official time for up to 40 hours or authorize up to one-half the time spent in negotiations during regular working hours, for a reasonable number of employees, which number normally shall not exceed the number of management representatives.
 
-Sec. 21. <i>Allotment of dues</i>. (a) When a labor organization holds formal or exclusive recognition, and the agency and the organization agree in writing to this course of action, an agency may deduct the regular and periodic dues of the organization from the pay of members of the organization in the unit of recognition whomake a voluntary allotment for that purpose, and shall recover the costs of making the deductions. Such an allotment is subject to the regulations of the Office of Personnel Management, which shall include provision for the employee to revoke his authorization at stated six-month intervals. Such an allotment terminates when—
+Sec. 21. <i>Allotment of dues</i>. (a) When a labor organization holds formal or exclusive recognition, and the agency and the organization agree in writing to this course of action, an agency may deduct the regular and periodic dues of the organization from the pay of members of the organization in the unit of recognition who make a voluntary allotment for that purpose, and shall recover the costs of making the deductions. Such an allotment is subject to the regulations of the Office of Personnel Management, which shall include provision for the employee to revoke his authorization at stated six-month intervals. Such an allotment terminates when—
 
 (1) the dues withholding agreement between the agency and the labor organization is terminated or ceases to be applicable to the employee; or
 
@@ -376,7 +376,7 @@ Sec. 26. <i>Effective date</i>. This Order is effective on January 1, 1970, exce
 
 #### Ex. Ord. No. 12871. Labor-Management Partnerships
 
-Ex. Ord. No. 12871, Oct. 1, 1993, 58 F.R. 52201, as amended by Ex. Ord. No. 12983, Dec. 21, 1995, 60 F.R. 66855, provided:
+Ex. Ord. No. 12871, Oct. 1, 1993, 58 F.R. 52201, as amended by Ex. Ord. No. 12983, Dec. 21, 1995, 60 F.R. 66855; Ex. Ord. No. 13156, §1, May 17, 2000, 65 F.R. 31785, provided:
 
 The involvement of Federal Government employees and their union representatives is essential to achieving the National Performance Review's Government reform objectives. Only by changing the nature of Federal labor-management relations so that managers, employees, and employees’ elected union representatives serve as partners will it be possible to design and implement comprehensive changes necessary to reform Government. Labor-management partnerships will champion change in Federal Government agencies to transform them into organizations capable of delivering the highest quality services to the American people.
 
@@ -404,7 +404,7 @@ The National Partnership Council. (a) <i>Establishment and Membership</i>. There
 
 (9) Secretary-Treasurer of the Public Employees Department, AFL–CIO;
 
-(10) A deputy Secretary or other officer with department- or agency-wide authority from two executive departments or agencies (hereafter collectively “agency”), not otherwise represented on the Council; and
+(10) A deputy Secretary or other officer with department- or agency-wide authority from three executive departments or agencies (hereafter collectively “agency”), not otherwise represented on the Council; and
 
 (11) one elected office holder each from both the Senior Executives Association and the Federal Managers Association.
 

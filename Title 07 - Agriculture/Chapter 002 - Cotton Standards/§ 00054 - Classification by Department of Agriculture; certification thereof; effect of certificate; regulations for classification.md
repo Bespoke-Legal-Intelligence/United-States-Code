@@ -4,10 +4,6 @@ Any person who has custody of or a financial interest in any cotton may submit t
 
 (Mar. 4, 1923, ch. 288, §4, 42 Stat. 1517.)
 
-#### Cross References
-
-Charges for determinations made under this section, see section 55 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 55, 58 of this title.

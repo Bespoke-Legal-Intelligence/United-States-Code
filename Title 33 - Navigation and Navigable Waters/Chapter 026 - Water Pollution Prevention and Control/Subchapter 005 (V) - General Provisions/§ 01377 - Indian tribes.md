@@ -18,7 +18,7 @@ In order to ensure the consistent implementation of the requirements of this cha
 
 #### (e) Treatment as States
 
-The Administrator is authorized to treat an Indian tribe as a State for purposes of subchapter II of this chapter and sections 1254, 1256, 1313, 1315, 1318, 1319, 1324, 1329, 1341, 1342, and 1344 of this title to the degree necessary to carry out the objectives of this section, but only if—
+The Administrator is authorized to treat an Indian tribe as a State for purposes of subchapter II of this chapter and sections 1254, 1256, 1313, 1315, 1318, 1319, 1324, 1329, 1341, 1342, 1344, and 1346 of this title to the degree necessary to carry out the objectives of this section, but only if—
 
 &emsp;(1) the Indian tribe has a governing body carrying out substantial governmental duties and powers;
 
@@ -50,7 +50,7 @@ For purposes of this section, the term—
 
 &emsp;(2) “Indian tribe” means any Indian tribe, band, group, or community recognized by the Secretary of the Interior and exercising governmental authority over a Federal Indian reservation.
 
-(June 30, 1948, ch. 758, title V, §518, as added Pub. L. 100–4, title V, §506, Feb. 4, 1987, 101 Stat. 76; amended Pub. L. 100–581, title II, §207, Nov. 1, 1988, 102 Stat. 2940.)
+(June 30, 1948, ch. 758, title V, §518, as added Pub. L. 100–4, title V, §506, Feb. 4, 1987, 101 Stat. 76; amended Pub. L. 100–581, title II, §207, Nov. 1, 1988, 102 Stat. 2940; Pub. L. 106–284, §6, Oct. 10, 2000, 114 Stat. 876.)
 
 #### References in Text
 
@@ -64,9 +64,15 @@ A prior section 518 of act June 30, 1948, was renumbered section 519 and is set 
 
 #### Amendments
 
+2000—Subsec. (e). Pub. L. 106–284 substituted “1344, and 1346 of this title” for “and 1344 of this title” in introductory provisions.
+
 1988—Subsec. (c). Pub. L. 100–581 inserted “, as defined in subsection (h) of this section and former Indian reservations in Oklahoma (as determined by the Secretary of the Interior) and Alaska Native Villages as defined in Public Law 92–203” before period at end.
 
 #### Grants to Indian Tribes
 
-Pub. L. 106–74, title III, Oct. 20, 1999, 113 Stat. 1083, provided in part: “That notwithstanding section 518(f) of the Federal Water Pollution Control Act \[33 U.S.C. 1377(f)\], the Administrator is authorized to use the amounts appropriated for any fiscal year under section 319 of that Act \[33 U.S.C. 1329\] to make grants to Indian tribes pursuant to section 319(h) and 518(e) of that Act”.
+Pub. L. 106–377, §1(a)(1)\[title III\], Oct. 27, 2000, 114 Stat. 1441, 1441A–43, provided in part: “That for fiscal year 2001, and notwithstanding section 518(f) of the Federal Water Pollution Control Act, as amended \[33 U.S.C. 1377(f)\], the Administrator is authorized to use the amounts appropriated for any fiscal year under section 319 of that Act \[33 U.S.C. 1329\] to make grants to Indian tribes pursuant to section 319(h) and 518(e) of that Act”.
+
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 106–74, title III, Oct. 20, 1999, 113 Stat. 1083.
 

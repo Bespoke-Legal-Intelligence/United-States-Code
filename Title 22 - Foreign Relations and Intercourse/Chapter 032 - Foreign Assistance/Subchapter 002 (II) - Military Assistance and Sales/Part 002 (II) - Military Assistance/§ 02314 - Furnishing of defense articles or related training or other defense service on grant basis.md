@@ -10,7 +10,7 @@ In addition to such other provisions as the President may require, no defense ar
 
 &emsp;&emsp;(B) transfer, or permit any officer, employee, or agent of that country to transfer such articles or related training or other defense service by gift, sale, or otherwise, or
 
-&emsp;&emsp;(C) use or permit the use of such articles or related training or other defense service for purposes other than those for which furnished;
+&emsp;&emsp;(C) use or permit the use of such articles or related training or other defense servicefor purposes other than those for which furnished;
 
 &emsp;(2) it will maintain the security of such articles or related training or other defense service, and will provide substantially the same degree of security protection afforded to such articles or related training or other defense service by the United States Government;
 
@@ -56,7 +56,7 @@ In considering a request for approval of any transfer of any weapon, weapons sys
 
 #### (f) Disposition of defense articles furnished on a grant basis; net proceeds to be paid over to the United States
 
-Effective July 1, 1974, no defense article shall be furnished to any country on a grant basis unless such country shall have agreed that the net proceeds of sale received by such country in disposing of any weapon, weapons system, munition, aircraft, military boat, military vessel, or other implement of war received under this part will be paid to the United States Government and shall be available to pay all official costs of the United States Government payable in the currency of that country, including all costs relating to the financing of international educational and cultural exchange activities in which that country participates under the programs authorized by the Mutual Educational and Cultural Exchange Act of 1961 \[22 U.S.C. 2451 et seq.\]. In the case of items which were delivered prior to 1985, the President may waive the requirement that such net proceeds be paid to the United States Government if he determines that to do so is in the national interest of the United States.
+Effective July 1, 1974, no defense article shall be furnished to any country on a grant basis unless such country shall have agreed that the net proceeds of sale received by such country in disposing of any weapon, weapons system, munition, aircraft, military boat, military vessel, or other implement of war received under this part will be paid to the United States Government and shall be available to pay all official costs of the United States Government payable in the currency of that country, including all costs relating to the financing of international educational and cultural exchange activities inwhich that country participates under the programs authorized by the Mutual Educational and Cultural Exchange Act of 1961 \[22 U.S.C. 2451 et seq.\]. In the case of items which were delivered prior to 1985, the President may waive the requirement that such net proceeds be paid to the United States Government if he determines that to do so is in the national interest of the United States.
 
 #### (g) Discrimination on basis of race, religion, national origin, or sex prohibited
 
@@ -78,7 +78,7 @@ Effective July 1, 1974, no defense article shall be furnished to any country on 
 
 &emsp;&emsp;(I) extraordinary circumstances exist which necessitate a continuation of such assistance or education and training transaction, and, if so, a description of such circumstances and the extent to which such assistance or education and training transaction should be continued (subject to such conditions as Congress may impose under this section), and
 
-&emsp;&emsp;(II) on all the facts it is in the national interest of the United States to continue suchassistance or education and training transaction; and
+&emsp;&emsp;(II) on all the facts it is in the national interest of the United States to continue such assistance or education and training transaction; and
 
 &emsp;(iv) such other information as such committee may request.
 
@@ -94,7 +94,7 @@ Effective July 1, 1974, no defense article shall be furnished to any country on 
 
 #### References in Text
 
-This chapter, referred to in subsec. (d)(1), was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+This chapter, referred to in subsec. (d)(1), was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4,1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 The Mutual Security Act of 1954, referred to in subsec. (d)(1), is act Aug. 26, 1954, ch. 937, 68 Stat. 832, as amended by acts July 8, 1955, ch. 301, 69 Stat. 283; July 18, 1956, ch. 627, §§2–11, 70 Stat. 555; Aug. 14, 1957, Pub. L. 85–141, 71 Stat. 355; June 30, 1958, Pub. L. 85–477, ch. 1, §§101–103, ch. II, §§201–205, ch. III, §301, ch. IV, §401, ch. V, §501, 72 Stat. 261; July 24, 1959, Pub. L. 86–108, §2, ch. 1, §101, ch. II, §§201–205(a)–(i), (k)–(n), ch. III, §301, ch. IV, §401(a)–(k), (m), 73 Stat. 246; May 14, 1960, Pub. L. 86–472, ch. I to V, 74 Stat. 134, which was principally classified to chapter 24 (§1750 et seq.) of this title and which was repealed by act July 18, 1956, ch. 627, §8(m), 70 Stat. 559, Pub. L. 85–141, §§2(e) 3, 4(b), 11(d), Aug. 14, 1957, 71 Stat. 356, Pub. L. 86–108, ch. II, §§205(j), ch. IV, 401(1), July 24, 1959, 73 Stat. 250, Pub. L. 86–472, ch. II, §§203(d), 204(k), May 14, 1960, 74 Stat. 138, Pub. L. 87–195, pt. III, §642(a)(2), Sept. 4, 1961, 75 Stat. 460, Pub. L. 94–329, title II, §212(b)(1), June 30, 1976, 90 Stat. 745, Pub. L. 104–127, title II, §228, Apr. 4, 1996, 110 Stat. 963, except for sections 1754, 1783, 1796, 1853, 1928, and 1937 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1754 of this title and Tables.
 

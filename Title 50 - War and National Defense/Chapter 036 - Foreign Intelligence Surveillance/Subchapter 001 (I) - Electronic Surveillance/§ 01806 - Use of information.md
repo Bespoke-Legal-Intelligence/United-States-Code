@@ -10,7 +10,7 @@ No information acquired pursuant to this subchapter shall be disclosed for law e
 
 #### (c) Notification by United States
 
-Whenever the Government intends to enter into evidence or otherwise use or disclose in any trial, hearing, or other proceeding in or before any court, department, officer, agency, regulatory body, or other authority of the United States, against an aggrieved person, any information obtained or derived from an electronic surveillance of that aggrieved person pursuant to the authority of this subchapter, the Government shall, prior to the trial, hearing, or other proceeding or at a reasonable time prior to an effort to so disclose or so use that information or submit it in evidence, notify the aggrieved person and the court or other authority in which the information is to be disclosed or used that the Government intends to so disclose or so use such information.
+Whenever the Government intends to enter into evidence or otherwise use or disclose in any trial, hearing, or other proceeding in or before any court, department, officer, agency, regulatory body, or other authority of the United States, against an aggrieved person, any information obtained or derived from an electronic surveillance of that aggrieved person pursuantto the authority of this subchapter, the Government shall, prior to the trial, hearing, or other proceeding or at a reasonable time prior to an effort to so disclose or so use that information or submit it in evidence, notify the aggrieved person and the court or other authority in which the information is to be disclosed or used that the Government intends to so disclose or so use such information.
 
 #### (d) Notification by States or political subdivisions
 
@@ -44,7 +44,7 @@ In circumstances involving the unintentional acquisition by an electronic, mecha
 
 #### (j) Notification of emergency employment of electronic surveillance; contents; postponement, suspension or elimination
 
-If an emergency employment of electronic surveillance is authorized under section 1805(e) of this title and a subsequent order approving the surveillance is not obtained, the judge shall cause to be served on any United States person named in the application and on such other United States persons subject to electronic surveillance as the judge may determine in his discretion it is in the interest of justice to serve, notice of—
+If an emergency employment of electronic surveillance is authorized under section 1805(e) <sup>1</sup> of this title and a subsequent order approving the surveillance is not obtained, the judge shall cause to be served on any United States person named in the application and on such other United States persons subject to electronic surveillance as the judge may determine in his discretion it is in the interest of justice to serve, notice of—
 
 &emsp;(1) the fact of the application;
 
@@ -56,7 +56,25 @@ If an emergency employment of electronic surveillance is authorized under sectio
 
 (Pub. L. 95–511, title I, §106, Oct. 25, 1978, 92 Stat. 1793.)
 
+#### References in Text
+
+Section 1805(e) of this title, referred to in subsec. (j), was redesignated section 1805(f) of this title by Pub. L. 106–567, title VI, §602(b)(1), Dec. 27, 2000, 114 Stat. 2851.
+
+#### Report on Mechanisms for Determinations of Disclosure of Information for Law Enforcement Purposes
+
+Pub. L. 106–567, title VI, §604(b), Dec. 27, 2000, 114 Stat. 2853, provided that:
+
+“(1) The Attorney General shall submit to the appropriate committees of Congress a report on the authorities and procedures utilized by the Department of Justice for determining whether or not to disclose information acquired under the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.) for law enforcement purposes.
+
+“(2) In this subsection, the term ‘appropriate committees of Congress’ means the following:
+
+&emsp;“(A) The Select Committee on Intelligence and the Committee on the Judiciary of the Senate.
+
+&emsp;“(B) The Permanent Select Committee on Intelligence and the Committee on the Judiciary of the House of Representatives.”
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1802 of this title; title 8 section 1534.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

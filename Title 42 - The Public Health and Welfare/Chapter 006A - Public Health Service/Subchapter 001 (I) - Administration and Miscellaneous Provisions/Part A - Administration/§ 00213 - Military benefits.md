@@ -36,7 +36,7 @@ Active service of commissioned officers of the Service shall be deemed to be act
 
 #### References in Text
 
-The Servicemen's Indemnity Act of 1951, referred to in subsec. (d), is act Apr. 25, 1951, ch. 39, pt. I, 65 Stat. 33, which was classified generally to subchapter II (§851 et seq.) of chapter 13 of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and was repealed by act Aug. 1, 1956, ch. 873, title V, §502(9), 70 Stat. 886.
+The Servicemen's Indemnity Act of 1951, referred to in subsec. (d), is act Apr. 25, 1951, ch. 39, pt. I, 65 Stat.33, which was classified generally to subchapter II (§851 et seq.) of chapter 13 of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and was repealed by act Aug. 1, 1956, ch. 873, title V, §502(9), 70 Stat. 886.
 
 The Soldiers’ and Sailors’ Civil Relief Act of 1940, referred to in subsec. (e), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, as amended, which is classified to section 501 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see section 501 of Title 50, Appendix, and Tables.
 
@@ -64,7 +64,7 @@ Functions of Public Health Service, Surgeon General of Public Health Service, an
 
 Section 501(b)(3) of act Aug. 1, 1956, provided that: “In the case of any individual—
 
-&emsp;“(A) who performed active service (i) as a commissioned officer of the Public Health Service at anytime during the period beginning July 4, 1952, and ending December 31, 1956, or (ii) as a commissioned officer of the Coast and Geodetic Survey at any time during the period beginning July 29, 1945, and ending December 31, 1956; and
+&emsp;“(A) who performed active service (i) as a commissioned officer of the Public Health Service at any time during the period beginning July 4, 1952, and ending December 31, 1956, or (ii) as a commissioned officer of the Coast and Geodetic Survey at any time during the period beginning July 29, 1945, and ending December 31, 1956; and
 
 &emsp;“(B)(i) who became entitled to old-age insurance benefits under section 202(a) of the Social Security Act \[section 402(a) of this title\] prior to January 1, 1957, or
 

@@ -42,7 +42,7 @@ Agency Contributions for Retention in Critical Specialties.—(1) The Secretary 
 
 #### Effective Date
 
-Section and amendment by Pub. L. 106–65 effective only if the President proposes in the 2001 fiscal year budget and there is enacted in the second session of the One Hundred Sixth Congress qualifying offsetting legislation, and authority of members (as defined in this section) to participate in the Thrift Savings Plan under this section effective on the date on which such qualifying offsetting legislation is enacted or 1 year after Oct. 5, 1999, whichever is later, with provision for postponement of authority of members of the Ready Reserve to so participate in the Thrift Savings Plan, see section 663 of Pub. L. 106–65, set out as a note under section 8440e of Title 5, Government Organization and Employees.
+Section and amendment by Pub. L. 106–65 effective 180 days after Oct. 30, 2000, unless postponed, see section 663 of Pub. L. 106–65, as amended, set out as a note under section 8440e of Title 5, Government Organization and Employees.
 
 Section Referred to in Other Sections
 

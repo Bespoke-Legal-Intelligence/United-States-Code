@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment.—The Librarian of Congress, upon the recommendation of the Register of Copyrights, is authorized to appoint and convene copyright arbitration royalty panels.
+Establishment.—The Librarian of Congress, upon the recommendation of the Registerof Copyrights, is authorized to appoint and convene copyright arbitration royalty panels.
 
 (b)
 
@@ -135,24 +135,6 @@ Amendment by Pub. L. 101–318 effective Aug. 27, 1986, see section 3(e)(1) of P
 Amendment by Pub. L. 100–667 effective Jan. 1, 1989, see section 206 of Pub. L. 100–667, set out as an Effective Date note under section 119 of this title.
 
 Amendment by Pub. L. 100–568 effective Mar. 1, 1989, with any cause of action arising under this title before such date being governed by provisions in effect when cause of action arose, see section 13 of Pub. L. 100–568, set out as a note under section 101 of this title.
-
-#### Federal Rules of Civil Procedure
-
-Proof of official record, see rule 44, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-#### Federal Rules of Evidence
-
-Hearsay exception, public records and reports, see rule 803, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-Self-authentication, domestic public documents under seal, see rule 902.
-
-#### Cross References
-
-Authenticated copies of records and papers of department or agency admissible, see section 1733 of Title 28, Judiciary and Judicial Procedure.
-
-Patents for designs, see section 171 et seq. of Title 35, Patents.
-
-Trademarks registrable on principal register, see section 1052 of Title 15, Commerce and Trade.
 
 #### Section Referred to in Other Sections
 

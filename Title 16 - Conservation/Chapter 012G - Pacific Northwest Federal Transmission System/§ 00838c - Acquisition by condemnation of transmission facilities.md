@@ -2,7 +2,7 @@
 
 #### (a) Approval by Congress; exceptions
 
-Unless specifically authorized by Act of Congress, the Administrator shall not expend fundsmade available under this chapter, other than funds specifically appropriated by the Congress for such purpose, to acquire any operating transmission facility by condemnation: <i>Provided</i>, That this provision shall not restrict the acquisition of the right to cross such a facility by condemnation.
+Unless specifically authorized by Act of Congress, the Administrator shall not expend funds made available under this chapter, other than funds specifically appropriated by the Congress for such purpose, to acquire any operating transmission facility by condemnation: <i>Provided</i>, That this provision shall not restrict the acquisition of the right to cross such a facility by condemnation.
 
 #### (b) Notice of request for approval for construction or condemnation to contracting or interconnected entities in Pacific Northwest
 

@@ -54,19 +54,5 @@ Pub. L. 99–640, §9, Nov. 10, 1986, 100 Stat. 3548, provided that:
 
 “(2) The report submitted by the Secretary under this section shall include such recommendations for legislative and administrative action as the Secretary considers appropriate to achieve and maintain the Coast Guard Auxiliary at its optimum strength.”
 
-#### Cross References
-
-Commandant—
-
-&emsp;&emsp;Delegation of powers by Secretary, see section 631 of this title.
-
-&emsp;&emsp;Powers in general, see section 93 of this title.
-
-Secretary—
-
-&emsp;&emsp;Powers in general, see section 92 of this title.
-
-&emsp;&emsp;Supervision of commandant's execution of powers and functions, see section 632 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -72,7 +72,7 @@
 
 #### (6) “Freely associated States” defined
 
-&emsp;As used in this subsection, the term “freely associated States” means the Republic of theMarshall Islands, the Federated States of Micronesia, and the Republic of Palau.
+&emsp;As used in this subsection, the term “freely associated States” means the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau.
 
 #### (c) Secretary of the Interior
 
@@ -214,7 +214,7 @@ From the amount appropriated for any fiscal year under subsection (j) of this se
 
 #### (4)(A) Subgrants to local educational agencies for capacity-building and improvement
 
-&emsp;In any fiscal year in which the percentage increase in the State's allocation under this section exceeds the rate of inflation (as measured by the percentage increase, if any, from the preceding fiscal year in the Consumer Price Index For All Urban Consumers, published by the Bureau of Labor Statistics of the Department of Labor), each State shall reserve, from its allocation under this section, the amount described in subparagraph (B) to make subgrants to local educational agencies,unless that amount is less than $100,000, to assist them in providing direct services and in making systemic change to improve results for children with disabilities through one or more of the following:
+&emsp;In any fiscal year in which the percentage increase in the State's allocation under this section exceeds the rate of inflation (as measured by the percentage increase, if any, from the preceding fiscal year in the Consumer Price Index For All Urban Consumers, published by the Bureau of Labor Statistics of the Department of Labor), each State shall reserve, from its allocation under this section, the amount described in subparagraph (B) to make subgrants to local educational agencies, unless that amount is less than $100,000, to assist them in providing direct services and in making systemic change to improve results for children with disabilities through one or more of the following:
 
 &emsp;&emsp;(i) Direct services, including alternative programming for children who have been expelled from school, and services for children in correctional facilities, children enrolled in State-operated or State-supported schools, and children in charter schools.
 
@@ -262,7 +262,7 @@ From the amount appropriated for any fiscal year under subsection (j) of this se
 
 #### (i) Base payments
 
-&emsp;&emsp;&emsp;The State shall first award each agency described in paragraph (1) the amount that agency would have received under this section for the base year, as defined in subsection (e)(2)(A) of this section, if the State had distributed 75 percent of its grant for that year under section 611(d), as then in effect.
+&emsp;&emsp;&emsp;The State shall first award each agency described in paragraph (1) the amount thatagency would have received under this section for the base year, as defined in subsection (e)(2)(A) of this section, if the State had distributed 75 percent of its grant for that year under section 611(d), as then in effect.
 
 #### (ii) Allocation of remaining funds
 
@@ -334,7 +334,7 @@ For the purpose of this section—
 
 &emsp;&emsp;(D) includes an assurance that the Secretary of the Interior will provide such information as the Secretary of Education may require to comply with section 1418 of this title;
 
-&emsp;&emsp;(E) includes an assurance that the Secretary of the Interior and the Secretary of Health and Human Services have entered into a memorandum of agreement, to be provided to the Secretary of Education, for the coordination of services, resources, and personnel between their respective Federal, State, and local offices and with State and local educational agencies and other entitiesto facilitate the provision of services to Indian children with disabilities residing on or near reservations (such agreement shall provide for the apportionment of responsibilities and costs including, but not limited to, child find, evaluation, diagnosis, remediation or therapeutic measures, and (where appropriate) equipment and medical or personal supplies as needed for a child to remain in school or a program); and
+&emsp;&emsp;(E) includes an assurance that the Secretary of the Interior and the Secretary of Health and Human Services have entered into a memorandum of agreement, to be provided to the Secretary of Education, for the coordination of services, resources, and personnel between their respective Federal, State, and local offices and with State and local educational agencies and other entities to facilitate the provision of services to Indian children with disabilities residing on or near reservations (such agreement shall provide for the apportionment of responsibilities and costs including, but not limited to, child find, evaluation, diagnosis, remediation or therapeutic measures, and (where appropriate) equipment and medical or personal supplies as needed for a child to remain in school or a program); and
 
 &emsp;&emsp;(F) includes an assurance that the Department of the Interior will cooperate with the Department of Education in its exercise of monitoring and oversight of this application, and any agreements entered into between the Secretary of the Interior and other entities under this subchapter, and will fulfill its duties under this subchapter.
 
@@ -360,7 +360,7 @@ For the purpose of this section—
 
 #### (E) Biennial report
 
-&emsp;&emsp;To be eligible to receive a grant pursuant to subparagraph (A), the tribe or tribal organization shall provide to the Secretary of the Interior a biennial report of activities undertaken under this paragraph, including the number of contracts and cooperative agreements entered into, the number of children contacted and receiving services for each year, and the estimated number of children needing services during the 2 years following the one in which the report is made. The Secretary of the Interior shall include a summary of this information on a biennial basis in the report to the Secretary of Education required under this subsection. The Secretary of Education may require any additional information from the Secretary of the Interior.
+&emsp;&emsp;To be eligible to receive a grant pursuant to subparagraph (A), the tribe or tribal organization shall provide to the Secretary of the Interior a biennial report of activities undertaken under this paragraph, including the number of contracts and cooperative agreements entered into, the number of children contacted and receiving services for each year, and the estimated number of children needing services during the 2 years following the one in which the report is made.The Secretary of the Interior shall include a summary of this information on a biennial basis in the report to the Secretary of Education required under this subsection. The Secretary of Education may require any additional information from the Secretary of the Interior.
 
 #### (F) Prohibitions
 
@@ -414,7 +414,7 @@ Subpart 2 of part D of chapter 1 of title I of the Elementary and Secondary Educ
 
 #### Prior Provisions
 
-A prior section 1411, Pub. L. 91–230, title VI, §611, Apr. 13, 1970, 84 Stat. 178; Pub. L. 93–380, title VI, §614(a), (e)(1), (2), Aug. 21, 1974, 88 Stat. 580, 582; Pub. L. 94–142, §§2(a)(1)–(3), 5(a), (c), Nov. 29, 1975, 89 Stat. 773, 776, 794; Pub. L. 95–561, title XIII, §1341(a), Nov. 1, 1978, 92 Stat. 2364; Pub. L. 96–270, §13, June 14, 1980, 94 Stat. 498; Pub. L. 98–199, §§3(b), 15, Dec. 2, 1983, 97 Stat. 1358, 1374; Pub. L. 99–159, title VI, §601, Nov. 22, 1985, 99 Stat. 904; Pub. L. 99–362, §2, July 9, 1986, 100 Stat. 769; Pub. L. 99–457, title II, §201(b), title IV, §§403, 404, Oct. 8, 1986, 100 Stat. 1158, 1173; Pub. L. 100–630, title I, §102(a), Nov. 7, 1988, 102 Stat. 3290; Pub. L. 101–476, title II, §201, title IX, §901(b)(25)–(32), Oct. 30, 1990, 104 Stat. 1111, 1143; Pub. L. 102–73, title VIII, §802(d)(2), (3), July 25, 1991, 105 Stat. 361; Pub. L. 102–119, §§4, 25(a)(4), (19), (b), Oct. 7, 1991, 105 Stat. 587, 606, 607; Pub. L. 103–382, title III, §311, Oct. 20, 1994, 108 Stat. 3931, related to entitlements and allocations, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
+A prior section 1411, Pub. L. 91–230, title VI, §611, Apr. 13, 1970, 84 Stat. 178; Pub. L. 93–380, title VI, §614(a),\(e)(1), (2), Aug. 21, 1974, 88 Stat. 580, 582; Pub. L. 94–142, §§2(a)(1)–(3), 5(a), (c), Nov. 29, 1975, 89 Stat. 773, 776, 794; Pub. L. 95–561, title XIII, §1341(a), Nov. 1, 1978, 92 Stat. 2364; Pub. L. 96–270, §13, June 14, 1980, 94 Stat. 498; Pub. L. 98–199, §§3(b), 15, Dec. 2, 1983, 97 Stat. 1358, 1374; Pub. L. 99–159, title VI, §601, Nov. 22, 1985, 99 Stat. 904; Pub. L. 99–362, §2, July 9, 1986, 100 Stat. 769; Pub. L. 99–457, title II, §201(b), title IV, §§403, 404, Oct. 8, 1986, 100 Stat. 1158, 1173; Pub. L. 100–630, title I, §102(a), Nov. 7, 1988, 102 Stat. 3290; Pub. L. 101–476, title II, §201, title IX, §901(b)(25)–(32), Oct. 30, 1990, 104 Stat. 1111, 1143; Pub. L. 102–73, title VIII, §802(d)(2), (3), July 25, 1991, 105 Stat. 361; Pub. L. 102–119, §§4, 25(a)(4), (19), (b), Oct. 7, 1991, 105 Stat. 587, 606, 607; Pub. L. 103–382, title III, §311, Oct. 20, 1994, 108 Stat. 3931, related to entitlements and allocations, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
 
 #### Effective Date
 

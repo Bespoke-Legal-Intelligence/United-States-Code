@@ -38,7 +38,3 @@ The Secretary of War and the Secretary of the Navy were authorized and directed 
 
 The Secretary of War was directed to cause preliminary examinations and surveys to be made of the harbors and connecting waters of the Great Lakes with a view to determining what additional improvements would be necessary to permit those waterways to accommodate vessels to pass through the Welland Canal when enlarged by the Dominion of Canada, including report as to the character and draft of vessels which might be expected to use the canal when so enlarged, by a provision of the Rivers and Harbors Appropriation Act of 1916, act July 27, 1916, ch. 260, §2, 39 Stat. 411, omitted from the Code as special and temporary.
 
-#### Cross References
-
-Discontinuance of preliminary examination reports, see section 545a of this title.
-

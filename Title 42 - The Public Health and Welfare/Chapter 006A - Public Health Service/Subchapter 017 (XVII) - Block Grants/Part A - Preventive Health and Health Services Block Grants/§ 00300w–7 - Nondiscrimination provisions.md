@@ -8,7 +8,7 @@
 
 #### (b) Failure to comply
 
-Whenever the Secretary finds that a State, or an entity that has received a payment from an allotment to a State under section 300w–1 of this title, has failed to comply with a provision of law referred to in subsection (a)(1) of this section, with subsection (a)(2) of this section, or with an applicable regulation (including one prescribed to carry out subsection (a)(2) of this section), the Secretary shall notify the chief executive officer of the State and shall request him to secure compliance. If within a reasonable periodof time, not to exceed sixty days, the chief executive officer fails or refuses to secure compliance, the Secretary may—
+Whenever the Secretary finds that a State, or an entity that has received a payment from an allotment to a State under section 300w–1 of this title, has failed to comply with a provision of law referred to in subsection (a)(1) of this section, with subsection (a)(2) of this section, or with an applicable regulation (including one prescribed to carry out subsection (a)(2) of this section), the Secretary shall notify the chief executive officer of the State and shall request him to secure compliance. If within a reasonable period of time, not to exceed sixty days, the chief executive officer fails or refuses to secure compliance, the Secretary may—
 
 &emsp;(1) refer the matter to the Attorney General with a recommendation that an appropriate civil action be instituted,
 
@@ -28,9 +28,9 @@ The Age Discrimination Act of 1975, referred to in subsecs. (a)(1) and (b)(2), i
 
 The Education Amendments of 1972, referred to in subsec. (a)(1), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235, as amended. Title IX of the Education Amendments of 1972 is classified principally to chapter 38 (§1681 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title of 1972 Amendment note set out under section 1001 of Title 20 and Tables.
 
-The Civil Rights Act of 1964, referred to in subsecs. (a)(1) and (b)(2), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
+The Civil Rights Act of 1964, referred to in subsecs. (a)(1) and (b)(2), is Pub. L. 88–352, July 2, 1964, 78 Stat.241, as amended. Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 300w–10, 9875 of this title.
+This section is referred to in section 9875 of this title.
 

@@ -40,7 +40,7 @@
 
 &emsp;&emsp;(C) A family planning project receiving a grant or contract under section 300 of this title.
 
-&emsp;&emsp;(D) An entity receiving a grant under subpart II of part C of subchapter XXIV of this chapter (relating to categorical grants for outpatient early intervention services for HIV disease).
+&emsp;&emsp;(D) An entity receiving a grant under subpart II <sup>1</sup> of part C of subchapter XXIV of this chapter (relating to categorical grants for outpatient early intervention services for HIV disease).
 
 &emsp;&emsp;(E) A State-operated AIDS drug purchasing assistance program receiving financial assistance under subchapter XXIV of this chapter.
 
@@ -120,7 +120,7 @@
 
 #### (9) Notice to manufacturers
 
-&emsp;The Secretary shall notify manufacturers of covered outpatient drugs and single State agencies under section 1902(a)(5) of the Social Security Act \[42 U.S.C. 1396a(a)(5)\] of the identities of covered entities under this paragraph, and of entities that no longer meet the requirements of paragraph (5) or that are no longer certified pursuant to paragraph (7).
+&emsp;The Secretary shall notify manufacturers of covered outpatient drugs and single Stateagencies under section 1902(a)(5) of the Social Security Act \[42 U.S.C. 1396a(a)(5)\] of the identities of covered entities under this paragraph, and of entities that no longer meet the requirements of paragraph (5) or that are no longer certified pursuant to paragraph (7).
 
 #### (10) No prohibition on larger discount
 
@@ -128,7 +128,7 @@
 
 #### (b) Other definitions
 
-In this section, the terms “average manufacturer price”, “covered outpatient drug”, and“manufacturer” have the meaning given such terms in section 1927(k) of the Social Security Act \[42 U.S.C. 1396r–8(k)\].
+In this section, the terms “average manufacturer price”, “covered outpatient drug”, and “manufacturer” have the meaning given such terms in section 1927(k) of the Social Security Act \[42 U.S.C. 1396r–8(k)\].
 
 #### (c) References to Social Security Act
 
@@ -145,6 +145,8 @@ A manufacturer is deemed to meet the requirements of subsection (a) of this sect
 The Social Security Act, referred to in subsecs. (a)(1), (3), (4)(L)(i), (5)(A)(i), and (c), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of this title. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.) of chapter 7 of this title, respectively. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 Section 256a of this title, referred to in subsec. (a)(4)(B), was repealed by Pub. L. 104–299, §4(a)(3), Oct. 11, 1996, 110 Stat. 3645.
+
+Subpart II of part C of subchapter XXIV of this chapter, referred to in subsec. (a)(4)(D), was redesignated subpart I of part C of subchapter XXIV of this chapter by Pub. L. 106–345, title III, §301(b)(1), Oct. 20, 2000, 114 Stat. 1345, and is classified to section 300ff–51 et seq. of this title.
 
 The Native Hawaiian Health Care Act of 1988, referred to in subsec. (a)(4)(H), was Pub. L. 100–579, Oct. 31, 1988, 102 Stat. 2916, and subtitle D of title II of Pub. L. 100–690, Nov. 18, 1988, 102 Stat. 4222, which were classified generally to chapter 122 (§11701 et seq.) of this title prior to being amended generally and renamed the Native Hawaiian Health Care Improvement Act by Pub. L. 102–396. For complete classification of this Act to the Code, see Tables.
 

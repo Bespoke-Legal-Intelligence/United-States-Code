@@ -28,7 +28,7 @@
 
 (2)(A) By no later than the date that is 120 days after the date on which an application is submitted to the Secretary under paragraph (1)(A), the Secretary shall determine—
 
-&emsp;(i) if the school is not being operated by the Indian tribe or tribal organization, whether to transfer operation of the school to the Indian tribe or tribal organization, and
+&emsp;(i) if the school is not being operated by the Indian tribe or tribal organization, whether totransfer operation of the school to the Indian tribe or tribal organization, and
 
 &emsp;(ii) whether the school is eligible for assistance under this chapter.
 

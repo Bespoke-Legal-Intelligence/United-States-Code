@@ -38,17 +38,17 @@ The Chairman of the Council shall select one Council member of the <sup>1</sup>
 
 The Migratory Bird Conservation Commission, along with the two members of the Council referred to in subsection (d) of this section, shall approve, reject or reorder the priority of any wetlands conservation projects recommended by the Council based on, to the greatest extent practicable, the criteria of subsection (a) of this section. If the Migratory Bird Conservation Commission approves any wetlands conservation project, Federal funding shall be made available under this chapter and section 669b(b) of this title. If the Migratory Bird Conservation Commission rejects or reorders the priority of any wetlands conservation project recommended by the Council, the Migratory Bird Conservation Commission shall provide the Council and the appropriate Committees with a written statement explaining its rationale for the rejection or the priority modification.
 
-#### (f) Notification of appropriate Committees
-
-The Migratory Bird Conservation Commission shall submit annually to the appropriate Committees a report including a list and description of the wetlands conservation projects approved by the Migratory Bird Conservation Commission for Federal funding under subsection (d) of this section in order of priority; the amounts and sources of Federal and non-Federal funding for such projects; a justification for the approval of such projects and the order of priority for funding such projects; a list and description of the wetlands conservation projects which the Council recommended, in order of priority that the Migratory Bird Conservation Commission approve for Federal funding; and a justification for any rejection or re-ordering of the priority of wetlands conservation projects recommended by the Council that was based on factors other than the criteria of subsection (a) of this section.
-
 (Pub. L. 101–233, §5, Dec. 13, 1989, 103 Stat. 1972; Pub. L. 101–593, title I, §112(4), Nov. 16, 1990, 104 Stat. 2962.)
 
 #### References in Text
 
-The Endangered Species Act, referred to in subsec. (a)(5), probably means the Endangered Species Act of 1973, Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§1531 etseq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+The Endangered Species Act, referred to in subsec. (a)(5), probably means the Endangered Species Act of 1973, Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
 The National Environmental Policy Act of 1969, referred to in subsec. (b), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+
+#### Codification
+
+Subsec. (f) of this section, which required the Migratory Bird Conservation Commission to submit annually to the appropriate Committees (see section 4402(2) of this title) a report including a list and description of the wetlands conservation projects approved by the Migratory Bird Conservation Commission for Federal funding under subsec. (d) in order of priority, the amounts and sources of Federal and non-Federal funding for such projects, a justification for the approval of such projects and the order of priority for funding such projects, a list and description of the wetlands conservation projects which the Council recommended, in order of priority that the Migratory Bird Conservation Commission approve for Federal funding, and a justification for any rejection or re-ordering of the priority of wetlands conservation projects recommended by the Council that was based on factors other than the criteria of subsec. (a), terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 177 of House Document No. 103–7.
 
 #### Amendments
 

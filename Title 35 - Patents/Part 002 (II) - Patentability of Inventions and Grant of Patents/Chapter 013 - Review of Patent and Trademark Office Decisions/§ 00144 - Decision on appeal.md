@@ -2,7 +2,7 @@
 
 The United States Court of Appeals for the Federal Circuit shall review the decision from which an appeal is taken on the record before the Patent and Trademark Office. Upon its determination the court shall issue to the Director its mandate and opinion, which shall be entered of record in the Patent and Trademark Office and shall govern the further proceedings in the case.
 
-(July 19, 1952, ch. 950, 66 Stat. 802; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 97–164, title I, §163(a)(7), Apr. 2, 1982, 96 Stat. 49; Pub. L. 98–620, title IV, §414(a), Nov. 8, 1984, 98 Stat. 3363; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV,§4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582.)
+(July 19, 1952, ch. 950, 66 Stat. 802; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 97–164, title I, §163(a)(7), Apr. 2, 1982, 96 Stat. 49; Pub. L. 98–620, title IV, §414(a), Nov. 8, 1984, 98 Stat. 3363; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582.)
 
 #### Historical and Revision Notes
 
@@ -22,7 +22,7 @@ Language is changed and the last sentence of the corresponding section of existi
 
 #### Effective Date of 1999 Amendment
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of this title.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\]of Pub. L. 106–113, set out as a note under section 1 of this title.
 
 #### Effective Date of 1984 Amendment
 

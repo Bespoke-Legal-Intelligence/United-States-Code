@@ -8,7 +8,7 @@ The President is authorized to provide to any individual unemployed as a result 
 
 #### (1) State assistance
 
-&emsp;A State shall provide, without reimbursement from any funds provided under this chapter, reemployment assistance services underany other law administered by the State to individuals receiving benefits under this section.
+&emsp;A State shall provide, without reimbursement from any funds provided under this chapter, reemployment assistance services under any other law administered by the State to individuals receiving benefits under this section.
 
 #### (2) Federal assistance
 

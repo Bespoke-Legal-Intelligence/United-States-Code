@@ -18,7 +18,7 @@ The Secretary shall administer the provisions of this subchapter relating to the
 
 &emsp;&emsp;(B) that such cancellation shall not occur unless and until operations under such lease or permit shall have been under suspension, or temporary prohibition, by the Secretary, with due extension of any lease or permit term continuously for a period of five years, or for a lesser period upon request of the lessee;
 
-&emsp;&emsp;(C) that such cancellation shall entitle the lessee to receive such compensation as he shows to the Secretary as being equal to the lesser of (i) the fair value of the canceled rights as of the date of cancellation, taking account of both anticipated revenues from the lease and anticipated costs, including costs of compliance with all applicable regulations and operating orders, liability for cleanup costs or damages, or both, in the case of an oilspill, and all other costs reasonably anticipated on the lease, or (ii) the excess, if any, over the lessee's revenues, from the lease (plus interest thereon from the date of receipt to date of reimbursement) of all consideration paid for the lease and all direct expenditures made by the lessee after the date of issuance of such lease and in connection with exploration or development, or both, pursuant to the lease (plus interest on such consideration and such expenditures from date of payment to date of reimbursement), except that (I) with respect to leases issued before September 18, 1978, such compensation shall be equal to the amount specified in clause (i) of this subparagraph; and (II) in the case of joint leases which are canceled due to the failure of one or more partners to exercise due diligence, the innocent parties shall have the right to seek damages for such loss from the responsible party or parties and the right to acquire the interests of the negligent party or parties and be issued the lease in question;
+&emsp;&emsp;(C) that such cancellation shall entitle the lessee to receive such compensation as he shows to the Secretary as being equal to the lesser of (i) the fair value of the canceled rights as of the date of cancellation, taking account of both anticipated revenues from the lease and anticipated costs, including costs of compliance with all applicable regulations and operating orders, liability for cleanup costs or damages, or both, in thecase of an oilspill, and all other costs reasonably anticipated on the lease, or (ii) the excess, if any, over the lessee's revenues, from the lease (plus interest thereon from the date of receipt to date of reimbursement) of all consideration paid for the lease and all direct expenditures made by the lessee after the date of issuance of such lease and in connection with exploration or development, or both, pursuant to the lease (plus interest on such consideration and such expenditures from date of payment to date of reimbursement), except that (I) with respect to leases issued before September 18, 1978, such compensation shall be equal to the amount specified in clause (i) of this subparagraph; and (II) in the case of joint leases which are canceled due to the failure of one or more partners to exercise due diligence, the innocent parties shall have the right to seek damages for such loss from the responsible party or parties and the right to acquire the interests of the negligent party or parties and be issued the lease in question;
 
 &emsp;(3) for the assignment or relinquishment of a lease;
 
@@ -30,7 +30,7 @@ The Secretary shall administer the provisions of this subchapter relating to the
 
 &emsp;(7) for the prompt and efficient exploration and development of a lease area; and
 
-&emsp;(8) for compliance with the national ambient air quality standards pursuant to the CleanAir Act (42 U.S.C. 7401 et seq.), to the extent that activities authorized under this subchapter significantly affect the air quality of any State.
+&emsp;(8) for compliance with the national ambient air quality standards pursuant to the Clean Air Act (42 U.S.C. 7401 et seq.), to the extent that activities authorized under this subchapter significantly affect the air quality of any State.
 
 #### (b) Compliance with regulations as condition for issuance, continuation, assignment, or other transfer of leases
 
@@ -56,7 +56,7 @@ Rights-of-way through the submerged lands of the outer Continental Shelf, whethe
 
 &emsp;(B) Upon the specific request of one or more owner or nonowner shippers able to provide a guaranteed level of throughput, and on the condition that the shipper or shippers requesting such expansion shall be responsible for bearing their proportionate share of the costs and risks related thereto, the Federal Energy Regulatory Commission may, upon finding, after a full hearing with due notice thereof to the interested parties, that such expansion is within technological limits and economic feasibility, order a subsequent expansion of throughput capacity of any pipeline for which the permit, license, easement, right-of-way, or other grant of authority is approved or issued after September 18, 1978. This subparapraph <sup>1</sup> shall not apply to any such grant of authority approved or issued for the Gulf of Mexico or the Santa Barbara Channel.
 
-(2) The Federal Energy Regulatory Commission may, by order or regulation, exempt from any or all of the requirements of paragraph (1) of this subsection any pipeline or class of pipelines which feeds into a facility where oil and gas are first collected or a facility where oil and gas are first separated, dehydrated, or otherwise processed.
+(2) The Federal Energy Regulatory Commission may, by order or regulation, exempt fromany or all of the requirements of paragraph (1) of this subsection any pipeline or class of pipelines which feeds into a facility where oil and gas are first collected or a facility where oil and gas are first separated, dehydrated, or otherwise processed.
 
 (3) The Secretary of Energy and the Federal Energy Regulatory Commission shall consult with and give due consideration to the views of the Attorney General on specific conditions to be included in any permit, license, easement, right-of-way, or grant of authority in order to ensure that pipelines are operated in accordance with the competitive principles set forth in paragraph (1) of this subsection. In preparing any such views, the Attorney General shall consult with the Federal Trade Commission.
 
@@ -66,7 +66,7 @@ Rights-of-way through the submerged lands of the outer Continental Shelf, whethe
 
 (1) The leasee <sup>2</sup> shall produce any oil or gas, or both, obtained pursuant to an approved development and production plan, at rates consistent with any rule or order issued by the President in accordance with any provision of law.
 
-(2) If no rule or order referred to in paragraph (1) has been issued, the lessee shall produce such oil or gas, or both, at rates consistent with any regulation promulgated by the Secretary of Energy which is to assure the maximum rate of production which may be sustained without lossof ultimate recovery of oil or gas, or both, under sound engineering and economic principles, and which is safe for the duration of the activity covered by the approved plan. The Secretary may permit the lessee to vary such rates if he finds that such variance is necessary.
+(2) If no rule or order referred to in paragraph (1) has been issued, the lessee shall produce such oil or gas, or both, at rates consistent with any regulation promulgated by the Secretary of Energy which is to assure the maximum rate of production which may be sustained without loss of ultimate recovery of oil or gas, or both, under sound engineering and economic principles, and which is safe for the duration of the activity covered by the approved plan. The Secretary may permit the lessee to vary such rates if he finds that such variance is necessary.
 
 #### (h) Federal action affecting outer Continental Shelf; notification; recommended changes
 
@@ -110,7 +110,7 @@ Subsec. (c). Pub. L. 95–372 redesignated as subsec. (c) provisions formerly co
 
 Subsec. (d). Pub. L. 95–372 redesignated as subsec. (d) provisions formerly contained in subsec. (b)(2) covering the cancellation and forfeiture of producing leases for failure of the owner to comply with any of the provisions of this subchapter, the lease, or regulations promulgated under this subchapter.
 
-Subsec. (e). Pub. L. 95–372 redesignated as subsec. (e) provisions formerly contained in subsec. (c) relating to pipeline rights-of-way and inserted provisions relating to regulations prescribed by the Secretary of Transportation and assurances of maximum environmental protection through the use of the best available and safest technologies including the safest practices for pipeline burial, and substituted references to the Federal Energy Regulatory Commission and the Secretary of Energy for existing references to the Federal Power Commission and the Interstate Commerce Commission.
+Subsec. (e). Pub. L. 95–372 redesignated as subsec. (e) provisions formerly contained in subsec. (c) relating topipeline rights-of-way and inserted provisions relating to regulations prescribed by the Secretary of Transportation and assurances of maximum environmental protection through the use of the best available and safest technologies including the safest practices for pipeline burial, and substituted references to the Federal Energy Regulatory Commission and the Secretary of Energy for existing references to the Federal Power Commission and the Interstate Commerce Commission.
 
 Subsecs. (f) to (i). Pub. L. 95–372 added subsecs. (f) to (i).
 
@@ -131,18 +131,6 @@ Section 6004(b) of Pub. L. 101–380 provided that: “Section 5(j) of the Outer
 #### Key Largo Coral Reef Preserve
 
 Secretary of the Interior to prescribe rules and regulations governing the protection and conservation of the coral and other mineral resources in the area designated Key Largo Coral Reef Preserve, see Proc. No. 3339, Mar. 15, 1960, 25 F.R. 2352, set out as a note under section 461 of Title 16, Conservation.
-
-#### Cross References
-
-Oil and gas leases on public lands—
-
-&emsp;&emsp;Forfeiture or cancellation of, see section 188 of Title 30, Mineral Lands and Mining.
-
-&emsp;&emsp;Rights-of-way for pipe lines, see section 185 of Title 30.
-
-&emsp;&emsp;Rules and regulations relating to, see section 189 of Title 30.
-
-&emsp;&emsp;Written relinquishment of rights under, see section 187b of Title 30.
 
 #### Section Referred to in Other Sections
 

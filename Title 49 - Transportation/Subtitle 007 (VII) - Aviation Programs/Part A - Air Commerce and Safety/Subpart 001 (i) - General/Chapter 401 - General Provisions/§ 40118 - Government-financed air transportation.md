@@ -130,7 +130,7 @@ Subsec. (f). Pub. L. 104–287, §5(68)(B), inserted heading.
 
 #### Effective Date of 1998 Amendment
 
-Amendment by section 1225(h) of Pub. L. 105–277 effective on earlier of Apr. 1, 1999, or date of abolition of theUnited States Arms Control and Disarmament Agency pursuant to reorganization plan described in section 6601 of Title 22, Foreign Relations and Intercourse, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under section 6511 of Title 22.
+Amendment by section 1225(h) of Pub. L. 105–277 effective on earlier of Apr. 1, 1999, or date of abolition of the United States Arms Control and Disarmament Agency pursuant to reorganization plan described in section 6601 of Title 22, Foreign Relations and Intercourse, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under section 6511 of Title 22.
 
 Amendment by section 1335(p) of Pub. L. 105–277 effective on earlier of Oct. 1, 1999, or date of abolition of the United States Information Agency pursuant to reorganization plan described in section 6601 of Title 22, Foreign Relations and Intercourse, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of Title 22.
 

@@ -56,13 +56,3 @@ In subsection (d), the words “basic or special branch” are substituted for t
 
 In subsection (e), the words “No officer \* \* \* may be \* \* \* unless he is” are substituted for the words “officers of the Army \* \* \* shall \* \* \* possess”. The last 16 words of the first sentence are substituted for the Act of June 28, 1950, ch. 383, Title IV, §404(e), 64 Stat. 274. The last sentence is substituted for 10:1g(f) (1st 9 words).
 
-#### Cross References
-
-Army Staff, assignment or detail of members of Army, see section 3031 of this title.
-
-Commissioned officers in Regular Army, transfer between branches, see section 3283 of this title.
-
-Reserve Forces Policy Board, designation of officer of Regular Army as member, see section 10301 of this title.
-
-Secretary of the Army, authority to assign, detail, and prescribe duties of members of the Army, see section 3013 of this title.
-

@@ -24,13 +24,13 @@ The transfer of an allotment or quota under this section shall be approved acre 
 
 Any lease under this section may be made for such term of years not to exceed five as the parties thereto agree, and on such other terms and conditions except as otherwise provided in this section as the parties thereto agree.
 
-#### (g) Acreage transfer maximums
+#### (g) Transfer of allotments
 
-Under the provisions of this section not more than ten acres of allotment may be transferred to any farm: <i>Provided</i>, That the total acreage allotted to any farm after such transfer shall not exceed 50 per centum of the acreage of cropland in the farm.
+Under this section, the total acreage allotted to any farm after any transfer shall not exceed 50 percent of the acreage of cropland on the farm.
 
 #### (h) Future allotments; referendum voting eligibility
 
-The lease of any part of a tobacco acreage allotment or acreage-poundage quota under this section determined for a farm shall not affect the allotment or quota for the farm from which such allotment or quota is transferred or the farm to which it is transferred, except with respect to the crop year or years specified in the lease. The amount of the acreage allotment and acreage-poundage quota which is leased from a farm shall be considered for purposes of determining future allotments and quotas to have been planted to tobacco on the farm from which such allotment or quota is leased and the production pursuant to the lease shall not be taken into account in establishing allotments or quotas for subsequent years for the farm to which such allotment is leased. The lessor shall be considered to have been engaged in the production of tobacco for purposes of eligibility to vote in the referendum.
+The lease of any part of a tobacco acreage allotment or acreage-poundage quota under this section determined for a farm shall not affect the allotment or quota for the farm from which such allotment or quota is transferred or the farm to which it is transferred, except with respect to the crop year or years specified in the lease. The amount of the acreage allotment and acreage-poundage quota which is leased from a farm shall be considered for purposes of determining future allotments and quotas to havebeen planted to tobacco on the farm from which such allotment or quota is leased and the production pursuant to the lease shall not be taken into account in establishing allotments or quotas for subsequent years for the farm to which such allotment is leased. The lessor shall be considered to have been engaged in the production of tobacco for purposes of eligibility to vote in the referendum.
 
 #### (i) Land utilization agreements; payment adjustments
 
@@ -40,9 +40,11 @@ If the sale or transfer under this section occurs during a period in which the f
 
 The Secretary shall prescribed such regulations and other terms and conditions as he deems necessary for the administration of this section.
 
-(Feb. 16, 1938, ch. 30, title III, §318, as added Pub. L. 90–51, §1, July 7, 1967, 81 Stat. 120; amendedPub. L. 90–387, July 5, 1968, 82 Stat. 293; Pub. L. 92–144, Oct. 23, 1971, 85 Stat. 393; Pub. L. 98–180, title II, §212(a), Nov. 29, 1983, 97 Stat. 1149; Pub. L. 102–566, §1, Oct. 28, 1992, 106 Stat. 4269.)
+(Feb. 16, 1938, ch. 30, title III, §318, as added Pub. L. 90–51, §1, July 7, 1967, 81 Stat. 120; amended Pub. L. 90–387, July 5, 1968, 82 Stat. 293; Pub. L. 92–144, Oct. 23, 1971, 85 Stat. 393; Pub. L. 98–180, title II, §212(a), Nov. 29, 1983, 97 Stat. 1149; Pub. L. 102–566, §1, Oct. 28, 1992, 106 Stat. 4269; Pub. L. 106–224, title II, §204(b)(8), June 20, 2000, 114 Stat. 402.)
 
 #### Amendments
+
+2000—Subsec. (g). Pub. L. 106–224 added heading and text of subsec. (g) and struck out former subsec. (g) which read as follows: “Under the provisions of this section not more than ten acres of allotment may be transferred to any farm: <i>Provided</i>, That the total acreage allotted to any farm after such transfer shall not exceed 50 per centum of the acreage of cropland in the farm.”
 
 1992—Subsec. (e). Pub. L. 102–566 added subsec. (e) and struck out former subsec. (e) which read as follows: “If the normal yield established by the county committee for the farm to which the allotment is transferred does not exceed the normal yield established by the county committee for the farm from which the allotment is transferred by more than 10 per centum, the transfer shall be approved acre for acre. If the normal yield for the farm to which the allotment is transferred exceeds the normal yield for the farm from which the allotment is transferred by more than 10 per centum, the county committee shall make a downward adjustment in the amount of the acreage allotment transferred by multiplying the normal yield established for the farm from which the allotment is transferred by the acreage being transferred and dividing the result by the normal yield established for the farm to which the allotment is transferred.”
 

@@ -44,7 +44,7 @@ Subsec. (a)(3). Pub. L. 102–573, §703(7), amended par. (3) generally. Prior t
 
 Subsec. (b). Pub. L. 102–573, §703(8), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
 
-“(1) The Secretary of the Interior, in cooperation with appropriate Federal, tribal, and State and local law enforcement agencies, shall establish and implement a program for the eradication of marijuana cultivation within Indian country as defined in section 1152 of title 18. The Secretary shall establish a priority for the use of funds appropriated under subsection (b) of this section for those Indian reservations where the scope of the problem is most critical, and such funds shall be available for contracting by Indian tribes pursuant to the Indian Self-Determination Act.
+“(1) The Secretary of the Interior, in cooperation with appropriate Federal, tribal, and State and locallaw enforcement agencies, shall establish and implement a program for the eradication of marijuana cultivation within Indian country as defined in section 1152 of title 18. The Secretary shall establish a priority for the use of funds appropriated under subsection (b) of this section for those Indian reservations where the scope of the problem is most critical, and such funds shall be available for contracting by Indian tribes pursuant to the Indian Self-Determination Act.
 
 “(2)
 

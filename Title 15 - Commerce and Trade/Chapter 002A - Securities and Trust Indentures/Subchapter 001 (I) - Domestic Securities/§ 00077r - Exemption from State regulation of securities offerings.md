@@ -146,18 +146,6 @@ For transfer of functions of Securities and Exchange Commission, with certain ex
 
 Section 102(b) of Pub. L. 104–290 provided that: “The Commission shall conduct a study, after consultation with States, issuers, brokers, and dealers, on the extent to which uniformity of State regulatory requirements for securities or securities transactions has been achieved for securities that are not covered securities (within the meaning of section 18 of the Securities Act of 1933 \[15 U.S.C. 77r\], as amended by paragraph (1) of this subsection). Not later than 1 year after the date of enactment of this Act \[Oct. 11, 1996\], the Commission shall submit a report to the Congress on the results of such study.”
 
-#### Cross References
-
-Jurisdiction of other tribunals unaffected insofar as not in conflict with—
-
-&emsp;&emsp;Investment Company Act of 1940, see section 80a–49 of this title.
-
-&emsp;&emsp;Public Utility Holding Company Act of 1935, see section 79u of this title.
-
-&emsp;&emsp;Securities Exchange Act of 1934, see section 78bb of this title.
-
-&emsp;&emsp;Trust Indenture Act of 1939, see section 77zzz of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 77p, 78bb, 6701 of this title.

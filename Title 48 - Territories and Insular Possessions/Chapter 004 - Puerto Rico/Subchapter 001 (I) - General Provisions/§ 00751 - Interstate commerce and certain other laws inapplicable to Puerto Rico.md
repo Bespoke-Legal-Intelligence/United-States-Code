@@ -1,6 +1,6 @@
 ### §751. Interstate commerce and certain other laws inapplicable to Puerto Rico
 
-Subtitle IV of title 49, and the Safety Appliance Acts and the several amendments made or to be made thereto, shall not apply to Puerto Rico.
+Subtitle IV of title 49, and the Safety Appliance Acts and the several amendments made orto be made thereto, shall not apply to Puerto Rico.
 
 (Mar. 2, 1917, ch. 145, §38, 39 Stat. 964; Mar. 4, 1927, ch. 503, §6, 44 Stat. 1421; May 17, 1932, ch. 190, 47 Stat. 158.)
 

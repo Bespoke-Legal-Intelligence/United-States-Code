@@ -42,7 +42,7 @@ As used in this chapter:
 
 (10) The term “process” means the preparation of a chemical substance or mixture, after its manufacture, for distribution in commerce—
 
-&emsp;(A) in the same form or physical state as, or in a different form or physical state from, thatin which it was received by the person so preparing such substance or mixture, or
+&emsp;(A) in the same form or physical state as, or in a different form or physical state from, that in which it was received by the person so preparing such substance or mixture, or
 
 &emsp;(B) as part of an article containing the chemical substance or mixture.
 
@@ -70,7 +70,7 @@ As used in this chapter:
 
 (14) The term “United States”, when used in the geographic sense, means all of the States.
 
-(Pub. L. 94–469, title I, §3, Oct. 11, 1976, 90 Stat. 2004; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; renumbered title I, Pub. L. 99–519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989; Pub. L. 100–418, title I, §1214(e)(1), Aug. 23, 1988, 102 Stat. 1156.)
+(Pub. L. 94–469, title I, §3, Oct. 11, 1976, 90 Stat. 2004; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat.2095; renumbered title I, Pub. L. 99–519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989; Pub. L. 100–418, title I, §1214(e)(1), Aug. 23, 1988, 102 Stat. 1156.)
 
 #### References in Text
 

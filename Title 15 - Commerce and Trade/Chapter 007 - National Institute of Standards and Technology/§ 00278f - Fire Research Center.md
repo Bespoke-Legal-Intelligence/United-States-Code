@@ -48,11 +48,15 @@ The Secretary shall insure that the results and advances arising from the work o
 
 For purposes of this section, there are authorized to be appropriated an amount not to exceed $5,650,000 for the fiscal year ending September 30, 1980, which amount includes—
 
-&emsp;(1) $525,000 for programs which are recommended in the report submitted to the Congress by the Administrator of the United States Fire Administration pursuant to section 2220(b)(1) of this title; and
+&emsp;(1) $525,000 for programs which are recommended in the report submitted to the Congress by the Administrator of the United States Fire Administration pursuant to section 2220(b)(1) <sup>1</sup> of this title; and
 
 &emsp;(2) $119,000 for adjustments required by law in salaries, pay, retirement, and employee benefits.
 
 (Mar. 3, 1901, ch. 872, §16, as added Pub. L. 93–498, §18, Oct. 29, 1974, 88 Stat. 1545; amended Pub. L. 94–411, §1(b), Sept. 13, 1976, 90 Stat. 1254; Pub. L. 95–422, §§1(b), 2(b), 3(b), Oct. 5, 1978, 92 Stat. 932, 933; Pub. L. 96–121, §3, Nov. 16, 1979, 93 Stat. 863.)
+
+#### References in Text
+
+Section 2220(b)(1) of this title, referred to in subsec. (b)(1), was repealed by Pub. L. 106–503, title I, §110(a)(1)(D), Nov. 13, 2000, 114 Stat. 2302.
 
 #### Prior Provisions
 
@@ -84,11 +88,9 @@ Pub. L. 90–259, §§101, 103, 104, and 201–207, established the National Com
 
 Ex. Ord. No. 11654, Mar. 13, 1972, 37 F.R. 5361, which established in the Department of Commerce the Federal Fire Council and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12379, §19, Aug. 17, 1982, 47 F.R. 36100, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
-#### Cross References
-
-Federal Fire Prevention and Control Act, see section 2201 et seq. of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 2216 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

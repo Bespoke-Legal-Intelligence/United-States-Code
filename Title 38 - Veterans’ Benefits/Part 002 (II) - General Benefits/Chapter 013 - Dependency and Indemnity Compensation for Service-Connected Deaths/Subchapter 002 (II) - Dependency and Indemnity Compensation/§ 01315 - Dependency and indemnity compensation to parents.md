@@ -32,7 +32,7 @@
 
 &emsp;(B) donations from public or private relief or welfare organizations;
 
-&emsp;(C) payments under this chapter (except section 1312(a)) and chapters 11 and 15 of this titleand under the first sentence of section 9(b) of the Veterans’ Pension Act of 1959;
+&emsp;(C) payments under this chapter (except section 1312(a)) and chapters 11 and 15 of this title and under the first sentence of section 9(b) of the Veterans’ Pension Act of 1959;
 
 &emsp;(D) lump-sum death payments under title II of the Social Security Act (42 U.S.C. 401 et seq.);
 
@@ -50,7 +50,7 @@
 
 &emsp;&emsp;(iii) the expenses of the spouse's burial to the extent that such expenses are not reimbursed under chapter 23 or chapter 51 of this title;
 
-&emsp;(I) reimbursements of any kind for any casualty loss (as defined in regulations which the Secretary shall prescribe), but the amount excluded under this clause may not exceed the greater of the fair market value or the reasonable replacement value of the property involved at the time immediately preceding the loss;
+&emsp;(I) reimbursements of any kind for any casualty loss (as defined in regulations which theSecretary shall prescribe), but the amount excluded under this clause may not exceed the greater of the fair market value or the reasonable replacement value of the property involved at the time immediately preceding the loss;
 
 &emsp;(J) amounts equal to amounts paid by a parent of a deceased veteran for—
 
@@ -238,7 +238,7 @@ Subsec. (d). Pub. L. 90–275, §2(c), in providing new annual income limits to 
 
 Subsec. (c). Pub. L. 89–730, §1(b), amended table by providing for increased indemnity compensation while permitting the recipient to earn a higher maximum annual income.
 
-Subsec. (d). Pub. L. 89–730, §1(c), amended table by providing for increased indemnity compensation while permitting the recipients to earn a higher combined maximum annual income.
+Subsec. (d). Pub. L. 89–730, §1(c), amended table by providing for increased indemnity compensation whilepermitting the recipients to earn a higher combined maximum annual income.
 
 Subsec. (g)(1). Pub. L. 89–730, §2, in cl. (C) struck out “chapter 11” and substituted “chapters 11 and 15”, and added cls. (F) to (L).
 

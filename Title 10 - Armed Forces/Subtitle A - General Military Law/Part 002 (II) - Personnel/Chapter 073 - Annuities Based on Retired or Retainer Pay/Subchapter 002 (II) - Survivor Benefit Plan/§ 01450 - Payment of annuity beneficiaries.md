@@ -32,7 +32,7 @@ General rule.—An annuity payable to the beneficiary terminates effective as of
 
 &emsp;(2)
 
-Termination of spouse annuity upon death or remarriage before age 55.—An annuity for a surviving spouse or former spouse shall be paid to the surviving spouse or formerspouse while the surviving spouse or former spouse is living or, if the surviving spouse or former spouse remarries before reaching age 55, until the surviving spouse or former spouse remarries.
+Termination of spouse annuity upon death or remarriage before age 55.—An annuity for a surviving spouse or former spouse shall be paid to the surviving spouse or former spouse while the surviving spouse or former spouse is living or, if the surviving spouse or former spouse remarries before reaching age 55, until the surviving spouse or former spouse remarries.
 
 &emsp;(3)
 
@@ -174,7 +174,7 @@ Effective Date of Reserve-Component Annuities.—
 
 Persons making section 1448(e)
 
-designation.—An annuity elected by a person providing a reserve-component annuity shall be effective in accordance with the designation made by such person under section 1448(e) of this title.
+designation.—A reserve-component annuity shall be effective in accordance with the designation made under section 1448(e) of this title by the person providing the annuity.
 
 &emsp;(2)
 
@@ -268,9 +268,11 @@ Collection from participant of annuity amounts erroneously paid.—A debt under 
 
 Collection from beneficiary.—If the participant dies before the full recovery of the amount of annuity payments described in subparagraph (A)(ii) has been made by the United States, the remaining amount of such annuity payments may be collected from the participant's beneficiary under the Plan if that beneficiary was the recipient of the annuity payments made by reason of this subsection.
 
-(Added Pub. L. 92–425, §1(3), Sept. 21, 1972, 86 Stat. 708; amended Pub. L. 94–496, §1(3), (4), Oct. 14, 1976, 90 Stat. 2375; Pub. L. 95–397, title II, §§203, 207(b), (c), Sept. 30, 1978, 92 Stat. 845, 848; Pub. L. 97–22, §11(a)(3), July 10, 1981, 95 Stat. 137; Pub. L. 97–252, title X, §1003(c), (d), Sept. 8, 1982, 96 Stat. 736; Pub. L. 98–94, title IX, §941(a)(3), (c)(3), Sept. 24, 1983, 97 Stat. 653; Pub. L. 98–525, title VI, §§642(b), 644, Oct. 19, 1984, 98 Stat. 2546, 2548; Pub. L. 99–145, title VII, §§713(b), 717, 718, 719(4)–(6), (8)(A), 722, 723(a), (b)(1), title XIII, §1303(a)(11), Nov. 8, 1985, 99 Stat. 672, 674–677, 739; Pub. L. 99–661, div. A, title VI, §§641(a), (b)(2), (3), 643(a), title XIII, §1343(a)(8)(C), Nov. 14, 1986, 100 Stat. 3885, 3886, 3992; Pub. L. 100–26, §3(3), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–180, div. A, title VI, §636(a), Dec. 4, 1987, 101 Stat. 1106; Pub. L. 100–224, §5(b)(1), Dec. 30, 1987, 101 Stat. 1538; Pub. L. 101–189, div. A, title XIV, §1407(a)(2)–(4), title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1588, 1602; Pub. L. 103–337, div. A, title X, §1070(e)(3), Oct. 5, 1994, 108 Stat. 2859; Pub. L. 104–201, div. A, title VI, §634, Sept. 23, 1996, 110 Stat. 2561; Pub. L. 105–85, div. A, title VI, §642(a), Nov. 18, 1997, 111 Stat. 1799; Pub. L. 105–261, div. A, title VI, §643(b), Oct. 17, 1998, 112 Stat. 2048.)
+(Added Pub. L. 92–425, §1(3), Sept. 21, 1972, 86 Stat. 708; amended Pub. L. 94–496, §1(3), (4), Oct. 14, 1976, 90 Stat. 2375; Pub. L. 95–397, title II, §§203, 207(b), (c), Sept. 30, 1978, 92 Stat. 845, 848; Pub. L. 97–22, §11(a)(3), July 10, 1981, 95 Stat. 137; Pub. L. 97–252, title X, §1003(c), (d), Sept. 8, 1982, 96 Stat. 736; Pub. L. 98–94, title IX, §941(a)(3), (c)(3), Sept. 24, 1983, 97 Stat. 653; Pub. L. 98–525, title VI, §§642(b), 644, Oct. 19, 1984, 98 Stat. 2546, 2548; Pub. L. 99–145, title VII, §§713(b), 717, 718, 719(4)–(6), (8)(A), 722, 723(a), (b)(1), title XIII, §1303(a)(11), Nov. 8, 1985, 99 Stat. 672, 674–677, 739; Pub. L. 99–661, div. A, title VI, §§641(a), (b)(2), (3), 643(a), title XIII, §1343(a)(8)(C), Nov. 14, 1986, 100 Stat. 3885, 3886, 3992; Pub. L. 100–26, §3(3), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–180, div. A, title VI, §636(a), Dec. 4, 1987, 101 Stat. 1106; Pub. L. 100–224, §5(b)(1), Dec. 30, 1987, 101 Stat. 1538; Pub. L. 101–189, div. A, title XIV, §1407(a)(2)–(4), title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1588, 1602; Pub. L. 103–337, div. A, title X, §1070(e)(3), Oct. 5, 1994, 108 Stat. 2859; Pub. L. 104–201, div. A, title VI, §634, Sept. 23, 1996, 110 Stat. 2561; Pub. L. 105–85, div. A, title VI, §642(a), Nov. 18, 1997, 111 Stat. 1799; Pub. L. 105–261, div. A, title VI, §643(b), Oct. 17, 1998, 112 Stat. 2048; Pub. L. 106–398, §1 \[\[div. A\], title VI, §655(c)(4)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–166.)
 
 #### Amendments
+
+2000—Subsec. (j)(1). Pub. L. 106–398 substituted “A reserve-component annuity shall be effective in accordance with the designation made under section 1448(e) of this title by the person providing the annuity.” for “An annuity elected by a person providing a reserve-component annuity shall be effective in accordance with the designation made by such person under section 1448(e) of this title.”
 
 1998—Subsec. (f)(3)(D). Pub. L. 105–261 substituted “the day referred to in section 1448(b)(3)(E)(ii) of this title” for “the first day of the first month which begins after the date of the court order or filing involved”.
 
@@ -374,7 +376,7 @@ Subsec. (f). Pub. L. 97–252, §1003(d), designated existing provisions as par.
 
 1981—Subsec. (d). Pub. L. 97–22 substituted “Office of Personnel Management” for “Civil Service Commission”.
 
-1978—Subsec. (a). Pub. L. 95–397, §203(1), inserted “(or on such other day as he may provide under subsection\(j))” after “death of a person to whom section 1448 of this title applies”.
+1978—Subsec. (a). Pub. L. 95–397, §203(1), inserted “(or on such other day as he may provide under subsection (j))” after “death of a person to whom section 1448 of this title applies”.
 
 Subsec. (d). Pub. L. 95–397, §207(b), substituted “section 8339(j)” for “section 8339(i)”.
 
@@ -412,7 +414,7 @@ Amendment by Pub. L. 97–252 effective Feb. 1, 1983, and applicable to persons 
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–397 effective Oct. 1, 1978, and applicable to annuities payable by virtue of amendment for months beginning on or after such date, see section 210 of Pub. L. 95–397, set out as a note under section 1447 of this title.
+Amendment by Pub. L. 95–397 effective Oct. 1, 1978, and applicable to annuities payable by virtue of amendment for months beginning on or after such date, seesection 210 of Pub. L. 95–397, set out as a note under section 1447 of this title.
 
 #### Effective Date of 1976 Amendment
 
@@ -420,7 +422,7 @@ Amendment by Pub. L. 94–496 effective Sept. 21, 1972, see section 3 of Pub. L.
 
 #### Effectuation of Intended SBP Annuity for Former Spouse When Not Elected by Reason of Untimely Death of Retiree
 
-Pub. L. 106–65, div. A, title VI, §657, Oct. 5, 1999, 113 Stat. 668, provided that:
+Pub. L. 106–65, div. A, title VI, §657, Oct. 5, 1999, 113 Stat. 668, as amended by Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(c)(1)(D)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–292, provided that:
 
 “(a)
 
@@ -428,7 +430,7 @@ Cases Not Covered by Existing Authority.—Paragraph (3) of section 1450(f) of t
 
 &emsp;“(1) incident to a proceeding of divorce, dissolution, or annulment—
 
-&emsp;&emsp;“(A) entered into a written agreement on or after August 21, 1983, to make an election under section 1448(b) of such title to provide an annuity to the former spouse (the agreement thereafter having been incorporated in or ratified or approved by a court order or filed with the court of appropriate jurisdiction in accordance with applicable State law); or
+&emsp;&emsp;“(A) entered into a written agreement on or after August 19, 1983, to make an election under section 1448(b) of such title to provide an annuity to the former spouse (the agreement thereafter having been incorporated in or ratified or approved by a court order or filed with the court of appropriate jurisdiction in accordance with applicable State law); or
 
 &emsp;&emsp;“(B) was required by a court order dated on or after such date to make such an election for the former spouse; and
 
@@ -437,6 +439,8 @@ Cases Not Covered by Existing Authority.—Paragraph (3) of section 1450(f) of t
 “(b)
 
 Adjusted Time Limit for Request by Former Spouse.—For the purposes of paragraph (3)(C) of section 1450(f) of title 10, United States Code, a court order or filing referred to in subsection (a)(1) of this section that is dated before October 19, 1984, shall be deemed to be dated on the date of the enactment of this Act \[Oct. 5, 1999\].”
+
+\[Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(c)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–292, provided that: “In the case of any former spouse to whom paragraph (3) of section 1450(f) of title 10, United States Code, applies by reason of the amendment made by paragraph (1)(D) \[amending section 657 of Pub. L. 106–65, set out above\], the provisions of subsection (b) of section 657 of the National Defense Authorization Act for Fiscal Year 2000 \[Pub. L. 106–65, set out above\] shall be applied by using the date of the enactment of this Act \[Oct. 30, 2000\], rather than the date of the enactment of that Act \[Oct. 5, 1999\].”\]
 
 #### Section Referred to in Other Sections
 

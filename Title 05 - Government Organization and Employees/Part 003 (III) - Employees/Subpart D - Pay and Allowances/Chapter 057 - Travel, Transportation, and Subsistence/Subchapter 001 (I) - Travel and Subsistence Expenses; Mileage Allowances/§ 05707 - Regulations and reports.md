@@ -34,7 +34,7 @@
 
 (c) The Administrator of General Services shall periodically, but at least every 2 years, submit to the Director of the Office of Management and Budget an analysis of estimated total agency payments for such items as travel and transportation of people, average costs and duration of trips, and purposes of official travel; and of estimated total agency payments for employee relocation. This analysis shall be based on a sampling survey of agencies each of which spent more than $5,000,000 during the previous fiscal year on travel and transportation payments, including payments for employee relocation. Agencies shall provide to the Administrator the necessary information in a format prescribed by the Administrator and approved by the Director.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 500; Pub. L. 94–22, §6(a), May 19, 1975, 89 Stat. 85; Pub. L. 99–234, title I, §104, Jan. 2, 1986, 99 Stat. 1758; Pub. L. 101–391, §5(a)(1), Sept. 25, 1990, 104 Stat. 750; Pub. L. 103–329, title VI, §634(b), (c), Sept. 30, 1994, 108 Stat. 2429, 2430; Pub. L. 104–201, div. A, title XVI, §1614(a)(1), Sept. 23, 1996, 110 Stat. 2739; Pub. L. 104–316, title I, §103(e), Oct. 19, 1996, 110 Stat. 3829.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 500; Pub. L. 94–22, §6(a), May 19, 1975, 89 Stat. 85; Pub. L.99–234, title I, §104, Jan. 2, 1986, 99 Stat. 1758; Pub. L. 101–391, §5(a)(1), Sept. 25, 1990, 104 Stat. 750; Pub. L. 103–329, title VI, §634(b), (c), Sept. 30, 1994, 108 Stat. 2429, 2430; Pub. L. 104–201, div. A, title XVI, §1614(a)(1), Sept. 23, 1996, 110 Stat. 2739; Pub. L. 104–316, title I, §103(e), Oct. 19, 1996, 110 Stat. 3829.)
 
 Historical and Revision Notes
 
@@ -79,6 +79,10 @@ Amendment by Pub. L. 99–234 effective (1) on effective date of regulations to 
 #### Regulations; Time for Issuance
 
 Section 6(b) of Pub. L. 94–22 provided that regulations required under the first sentence of subsec. (b)(2) of this section, as amended by subsec. (a) of section 6 of Pub. L. 94–22, were to be issued no later than 30 days after May 19, 1975.
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsection (b)(1) of this section relating to reporting results of investigations to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 174 of House Document No. 103–7.
 
 #### Reports Regarding Foreign Travel
 
@@ -156,7 +160,7 @@ Report.—Not later than 180 days after the date of enactment of this Act \[Oct.
 
 #### Reporting of Employee Relocation Expenses
 
-Pub. L. 105–61, title VI, §635, Oct. 10, 1997, 111 Stat. 1316, provided that: “No later than 30 days after the enactment of this Act \[Oct. 10, 1997\], the Director of the Office of Management and Budget shall require all Federal departments and agencies to report total obligations for the expenses of employee relocation. All obligations incident to employee relocation authorized under either chapter 57 of title 5, United States Code, or section 901 of the Foreign Service Act of 1980 (22U.S.C. 4081; Public Law 96–465), shall be included. Such information for the past, current, and budget years shall be included in the agency budget submission to the President. The Director of the Office of Management and Budget shall prepare a table presenting obligations for the expenses of employee relocation for all departments and agencies, and such table shall be transmitted to Congress each year as part of the President's annual budget.”
+Pub. L. 105–61, title VI, §635, Oct. 10, 1997, 111 Stat. 1316, provided that: “No later than 30 days after the enactment of this Act \[Oct. 10, 1997\], the Director of the Office of Management and Budget shall require all Federal departments and agencies to report total obligations for the expenses of employee relocation. All obligations incident to employee relocation authorized under either chapter 57 of title 5, United States Code, or section 901 of the Foreign Service Act of 1980 (22 U.S.C. 4081; Public Law 96–465), shall be included. Such information for the past, current, and budget years shall be included in the agency budget submission to the President. The Director of the Office of Management and Budget shall prepare a table presenting obligations for the expenses of employee relocation for all departments and agencies, and such table shall be transmitted to Congress each year as part of the President's annual budget.”
 
 #### GAO Audit of Agency Compliance
 

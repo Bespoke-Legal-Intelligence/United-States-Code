@@ -14,7 +14,7 @@ On or before the last day of each calendar quarter, a participating State shall 
 
 &emsp;&emsp;(A) the information provided in accordance with paragraphs (1), (2), and (3) is accurate;
 
-&emsp;&emsp;(B) funds in an amount meeting the minimum requirements of section 4743(b)(3) of this title continue to be available and legally committed to contributions by the State to reserve funds, less any amount that has been contributed by the State to reserve funds subsequent to the State being approved for participation in the Program;
+&emsp;&emsp;(B) funds in an amount meeting the minimum requirements of section 4743(b)(3) ofthis title continue to be available and legally committed to contributions by the State to reserve funds, less any amount that has been contributed by the State to reserve funds subsequent to the State being approved for participation in the Program;
 
 &emsp;&emsp;(C) there has been no unapproved amendment to any participation agreement or the form of participation agreements; and
 

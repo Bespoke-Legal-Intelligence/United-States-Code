@@ -12,7 +12,7 @@
 
 (c) The effective date of an award of disability compensation by reason of section 1151 of this title shall be the date such injury or aggravation was suffered if an application therefor is received within one year from such date.
 
-(d)(1) The effective date of an award of death compensation or dependency and indemnity compensation for which application is received within one year from the date of death shall be the first day of the month in which the death occurred.
+(d)(1) The effective date of an award of death compensation or dependency and indemnity compensation for which application is received within one year from the date of death shall bethe first day of the month in which the death occurred.
 
 (2) The effective date of an award of death pension for which application is received within 45 days from the date of death shall be the first day of the month in which the death occurred.
 
@@ -24,7 +24,7 @@
 
 (g) Subject to the provisions of section 5101 of this title, where compensation, dependency and indemnity compensation, or pension is awarded or increased pursuant to any Act or administrative issue, the effective date of such award or increase shall be fixed in accordance with the facts found but shall not be earlier than the effective date of the Act or administrative issue. In no event shall such award or increase be retroactive for more than one year from the date of application therefor or the date of administrative determination of entitlement, whichever is earlier.
 
-(h) Where an award of pension has been deferred or pension has been awarded at a ratebased on anticipated income for a year and the claimant later establishes that income for that year was at a rate warranting entitlement or increased entitlement, the effective date of such entitlement or increase shall be fixed in accordance with the facts found if satisfactory evidence is received before the expiration of the next calendar year.
+(h) Where an award of pension has been deferred or pension has been awarded at a rate based on anticipated income for a year and the claimant later establishes that income for that year was at a rate warranting entitlement or increased entitlement, the effective date of such entitlement or increase shall be fixed in accordance with the facts found if satisfactory evidence is received before the expiration of the next calendar year.
 
 (i) Whenever any disallowed claim is reopened and thereafter allowed on the basis of new and material evidence resulting from the correction of the military records of the proper service department under section 1552 of title 10, or the change, correction, or modification of a discharge or dismissal under section 1553 of title 10, or from other corrective action by competent authority, the effective date of commencement of the benefits so awarded shall be the date on which an application was filed for correction of the military record or for the change, modification, or correction of a discharge or dismissal, as the case may be, or the date such disallowed claim was filed, whichever date is the later, but in no event shall such award of benefits be retroactive for more than one year from the date of reopening of such disallowed claim. This subsection shall not apply to any application or claim for Government life insurance benefits.
 
@@ -42,7 +42,7 @@
 
 #### Amendments
 
-1994—Subsec. (m). Pub. L. 103–446 struck out subsec. (m) which read as follows: “The effective date of an award of benefits to a surviving spouse based upon termination of actions described in section 103(d)(3) of this title shall not be earlier than the date of receipt of application therefor filed after termination of such actions and after December 31, 1970.”
+1994—Subsec. (m). Pub. L. 103–446 struck out subsec. (m) which read as follows: “The effective date of an award of benefits to a surviving spouse based upon termination of actions described in section 103(d)(3) of thistitle shall not be earlier than the date of receipt of application therefor filed after termination of such actions and after December 31, 1970.”
 
 1991—Pub. L. 102–40, §402(b)(1), renumbered section 3010 of this title as this section.
 
@@ -124,5 +124,5 @@ Amendment by Pub. L. 87–825 effective first day of second calendar month which
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1806, 5111, 5310, 6103 of this title.
+This section is referred to in sections 1822, 5111, 5310, 6103 of this title.
 

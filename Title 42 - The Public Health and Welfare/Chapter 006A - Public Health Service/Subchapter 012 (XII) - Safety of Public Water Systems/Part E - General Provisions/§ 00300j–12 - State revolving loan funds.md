@@ -36,7 +36,7 @@
 
 #### (i) New system capacity
 
-&emsp;&emsp;&emsp;Beginning in fiscal year 1999, the Administrator shall withhold 20 percent of each capitalization grant made pursuant to this section to a State unless the State has met the requirements of section 300g–9(a) of this title (relating to capacity development) and shall withhold 10 percent for fiscal year 2001, 15 percent for fiscal year 2002, and 20 percent for fiscal year 2003 if the State has not complied with the provisions of section 300g–9(c) of this title (relating to capacity development strategies). Not more than a total of 20 percent of the capitalization grants made to a State in any fiscal year may be withheld under the preceding provisions of this clause. All funds withheld by the Administrator pursuant to this clause shall be reallotted by the Administrator on the basis of the same ratio as is applicable to funds allotted under subparagraph (D). None of the funds reallotted by the Administrator pursuant to this paragraph shall be allotted to a State unless the State has met the requirements of section 300g–9 of this title (relating to capacity development).
+&emsp;&emsp;&emsp;Beginning in fiscal year 1999, the Administrator shall withhold 20 percent of each capitalization grant made pursuant to this section to a State unless the State has met the requirements of section 300g–9(a) of this title (relating to capacity development) and shall withhold 10 percent for fiscal year 2001, 15 percent for fiscal year 2002, and 20 percent for fiscal year 2003 if the State has not complied with the provisions of section 300g–9(c) of this title (relating to capacity development strategies). Not more than a total of 20 percent of the capitalization grants made to a State inany fiscal year may be withheld under the preceding provisions of this clause. All funds withheld by the Administrator pursuant to this clause shall be reallotted by the Administrator on the basis of the same ratio as is applicable to funds allotted under subparagraph (D). None of the funds reallotted by the Administrator pursuant to this paragraph shall be allotted to a State unless the State has met the requirements of section 300g–9 of this title (relating to capacity development).
 
 #### (ii) Operator certification
 
@@ -204,7 +204,7 @@ The Administrator shall conduct an assessment of water system capital improvemen
 
 #### (3) Alaska Native villages
 
-&emsp;In the case of a grant for a project under this subsection in an Alaska Native village, the Administrator is also authorized to makegrants to the State of Alaska for the benefit of Native villages. An amount not to exceed 4 percent of the grant amount may be used by the State of Alaska for project management.
+&emsp;In the case of a grant for a project under this subsection in an Alaska Native village, the Administrator is also authorized to make grants to the State of Alaska for the benefit of Native villages. An amount not to exceed 4 percent of the grant amount may be used by the State of Alaska for project management.
 
 #### (4) Needs assessment
 
@@ -262,7 +262,7 @@ There are authorized to be appropriated to carry out the purposes of this sectio
 
 #### (n) Health effects studies
 
-From funds appropriated pursuant to this section for each fiscal year, the Administrator shall reserve $10,000,000 for health effects studieson drinking water contaminants authorized by the Safe Drinking Water Act Amendments of 1996. In allocating funds made available under this subsection, the Administrator shall give priority to studies concerning the health effects of cryptosporidium (as authorized by section 300j–18(c) of this title), disinfection byproducts (as authorized by section 300j–18(c) of this title), and arsenic (as authorized by section 300g–1(b)(12)(A) of this title), and the implementation of a plan for studies of subpopulations at greater risk of adverse effects (as authorized by section 300j–18(a) of this title).
+From funds appropriated pursuant to this section for each fiscal year, the Administrator shall reserve $10,000,000 for health effects studies on drinking water contaminants authorized by the Safe Drinking Water Act Amendments of 1996. In allocating funds made available under this subsection, the Administrator shall give priority to studies concerning the health effects of cryptosporidium (as authorized by section 300j–18(c) of this title), disinfection byproducts (as authorized by section 300j–18(c) of this title), and arsenic (as authorized by section 300g–1(b)(12)(A) of this title), and the implementation of a plan for studies of subpopulations at greater risk of adverse effects (as authorized by section 300j–18(a) of this title).
 
 #### (<i>o</i>) Monitoring for unregulated contaminants
 

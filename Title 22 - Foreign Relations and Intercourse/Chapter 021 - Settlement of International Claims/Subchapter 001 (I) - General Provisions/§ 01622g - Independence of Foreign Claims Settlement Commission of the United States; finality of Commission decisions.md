@@ -6,7 +6,7 @@ Nothing in this Act shall be construed to diminish the independence of the Commi
 
 #### References in Text
 
-This Act, referred to in text, is Pub. L. 96–209, Mar. 14, 1980, 94 Stat. 96, which enacted sections 1622a to 1622g of this title, amended section 5316 of Title 5, Government Organization and Employees, and section 2001 of Title 50, Appendix, War and National Defense, and enacted provisions set out as notes under section 1622a of this title, section 363 of former Title 31, Money and Finance, and section 7546 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, is Pub. L. 96–209, Mar. 14, 1980, 94 Stat. 96, which enacted sections 1622a to1622g of this title, amended section 5316 of Title 5, Government Organization and Employees, and section 2001 of Title 50, Appendix, War and National Defense, and enacted provisions set out as notes under section 1622a of this title, section 363 of former Title 31, Money and Finance, and section 7546 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Tables.
 
 The War Claims Act of 1948, as amended, referred to in text, is act July 3, 1948, ch. 826, 62 Stat. 1240, as amended, which is classified generally to section 2001 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of Title 50, Appendix, and Tables.
 
@@ -21,8 +21,4 @@ Section was not enacted as part of the International Claims Settlement Act of 19
 #### Effective Date
 
 Section effective Mar. 14, 1980, see title VI of Pub. L. 96–209, set out as a note under section 1622a of this title.
-
-#### Federal Rules of Civil Procedure
-
-Writ of mandamus abolished in United States district courts, but relief available by appropriate action or motion, see rule 81, Title 28, Appendix, Judiciary and Judicial Procedure.
 

@@ -6,7 +6,7 @@ The United States Soldiers’ and Airmen's Home and the Naval Home are hereby in
 
 #### (b) Purpose
 
-The purpose of the Retirement Home is to provide, through the United States Soldiers’ andAirmen's Home and the Naval Home, a residence and related services for certain retired and former members of the Armed Forces.
+The purpose of the Retirement Home is to provide, through the United States Soldiers’ and Airmen's Home and the Naval Home, a residence and related services for certain retired and former members of the Armed Forces.
 
 #### (c) Operation
 

@@ -14,7 +14,7 @@ The Director is authorized to negotiate an excess loss agreement, from time to t
 
 #### (d) Submission of excess losses on portfolio basis
 
-All reinsurance claims for losses in excess of losses assumed by the pool shall be submitted on a portfolio basis by such pool in accordance with terms and conditions established by the Director.
+All reinsurance claims for losses in excess of losses assumed by the pool shall be submitted ona portfolio basis by such pool in accordance with terms and conditions established by the Director.
 
 (Pub. L. 90–448, title XIII, §1335, Aug. 1, 1968, 82 Stat. 583; Pub. L. 98–181, title IV, §451(d)(1), Nov. 30, 1983, 97 Stat. 1229.)
 

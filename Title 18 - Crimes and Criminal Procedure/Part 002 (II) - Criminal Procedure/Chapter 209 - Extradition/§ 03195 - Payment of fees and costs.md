@@ -2,11 +2,11 @@
 
 All costs or expenses incurred in any extradition proceeding in apprehending, securing, and transmitting a fugitive shall be paid by the demanding authority.
 
-All witness fees and costs of every nature in cases of international extradition, including the fees of the magistrate, shall be certified by the judge or magistrate before whom the hearing shall take place to the Secretary of State of the United States, and the same shall be paid out of appropriations to defray the expenses of the judiciary or the Department of Justice as the case may be.
+All witness fees and costs of every nature in cases of international extradition, including the fees of the magistrate judge, shall be certified by the judge or magistrate judge before whom the hearing shall take place to the Secretary of State of the United States, and the same shall be paid out of appropriations to defray the expenses of the judiciary or the Department of Justice as the case may be.
 
 The Attorney General shall certify to the Secretary of State the amounts to be paid to the United States on account of said fees and costs in extradition cases by the foreign government requesting the extradition, and the Secretary of State shall cause said amounts to be collected and transmitted to the Attorney General for deposit in the Treasury of the United States.
 
-(June 25, 1948, ch. 645, 62 Stat. 825; Pub. L. 90–578, title III, §301(a)(3), Oct. 17, 1968, 82 Stat. 1115.)
+(June 25, 1948, ch. 645, 62 Stat. 825; Pub. L. 90–578, title III, §301(a)(3), Oct. 17, 1968, 82 Stat. 1115; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
 
 #### Historical and Revision Notes
 
@@ -26,15 +26,11 @@ The words “or the Department of Justice as the case may be” were added at th
 
 #### Change of Name
 
-Reference to United States magistrate or to magistrate deemed to refer to United States magistrate judge pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+Words “magistrate judge” substituted for “magistrate” wherever appearing in text pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 1968 Amendment
 
 Amendment by Pub. L. 90–578 effective Oct. 17, 1968, except when a later effective date is applicable, which is the earlier of a date when implementation of amendment by appointment of magistrates \[now United States magistrate judges\] and assumption of office takes place or third anniversary of enactment of Pub. L. 90–578 on Oct. 17, 1968, see section 403 of Pub. L. 90–578, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
-
-#### Canal Zone
-
-Applicability of section to Canal Zone, see section 14 of this title.
 
 #### Section Referred to in Other Sections
 

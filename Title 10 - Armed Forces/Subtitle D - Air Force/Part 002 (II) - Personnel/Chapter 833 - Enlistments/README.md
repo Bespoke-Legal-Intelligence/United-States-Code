@@ -22,18 +22,6 @@
 
 1958—Pub. L. 85–861, §1(166)(C), (D), Sept. 2, 1958, 72 Stat. 1516, struck out “: enlistment” after “United States” in item 8261, and added item 8263.
 
-#### Cross References
-
-Appointment of enlisted members to cadetships at the Air Force Academy, see section 9342 of this title.
-
-Articles of Military Code to be explained, see section 937 of this title.
-
-Detail of members of Air Force as students, observers, and investigators, see section 9301 of this title.
-
-Fraudulent or unlawful enlistment, punishment, see sections 883, 884 of this title.
-
-Oath of enlistment, see section 502 of this title.
-
 
 ---
 

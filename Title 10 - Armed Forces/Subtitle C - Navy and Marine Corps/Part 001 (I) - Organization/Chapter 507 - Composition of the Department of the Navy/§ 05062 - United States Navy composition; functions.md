@@ -34,10 +34,6 @@ Subsec. (a). Pub. L. 99–433, §511(b)(4)(A), substituted “assigned and, in a
 
 Subsec. (d). Pub. L. 99–433, §511(b)(4)(B), struck out subsec. (d) which related to responsibility for expansion of peacetime naval components to meet the needs of war.
 
-#### Cross References
-
-Transfer, reassignment, consolidation or abolition of functions, powers and duties, see section 125 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 125 of this title.

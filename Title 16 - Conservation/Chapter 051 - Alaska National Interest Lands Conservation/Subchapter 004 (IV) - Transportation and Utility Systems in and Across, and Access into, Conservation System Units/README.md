@@ -18,6 +18,7 @@ This subchapter is referred to in section 3166 of this title.
 - [&sect; 03167 - Rights-of-way terms and conditions](%C2%A7%2003167%20-%20Rights-of-way%20terms%20and%20conditions.md)
 - [&sect; 03168 - Injunctive relief](%C2%A7%2003168%20-%20Injunctive%20relief.md)
 - [&sect; 03169 - Valid existing right of access](%C2%A7%2003169%20-%20Valid%20existing%20right%20of%20access.md)
+- [&sect; 03170 - Special access and access to inholdings](%C2%A7%2003170%20-%20Special%20access%20and%20access%20to%20inholdings.md)
 - [&sect; 03171 - Temporary access](%C2%A7%2003171%20-%20Temporary%20access.md)
 - [&sect; 03172 - North Slope Haul Road](%C2%A7%2003172%20-%20North%20Slope%20Haul%20Road.md)
 - [&sect; 03173 - Stikine River region; Presidential study and report to Congress](%C2%A7%2003173%20-%20Stikine%20River%20region%3B%20Presidential%20study%20and%20report%20to%20Congress.md)

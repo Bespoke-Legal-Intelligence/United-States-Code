@@ -10,7 +10,7 @@ With respect to conditional leases and sales of minerals heretofore or hereafter
 
 #### (c) Patents; royalties: reservation of percentage of gross value of produced or removed minerals and of rentals and bonuses from disposition of minerals
 
-Each patent hereafter issued to the State under the Alaska Statehood Act, including a patent of lands heretofore selected and tentatively approved, shall reserve for the benefit of the Natives, and for payment into the Alaska Native Fund, (1) a royalty of 2 per centum upon the gross value (as such gross value is determined for royalty purposes under any disposition by the State) of the minerals thereafter produced or removed from such lands, and (2) 2 per centum of all revenues thereafter derived by the State from rentals and bonuses from the disposition of such minerals.
+Each patent hereafter issued to the State under the Alaska Statehood Act, including a patent of lands heretofore selected and tentatively approved, shall reserve for the benefit of the Natives, and for payment into the Alaska Native Fund, (1) a royalty of 2 per centum upon the gross value (as such gross value is determined for royalty purposes under any disposition by the State) of the minerals thereafter produced or removed from such lands, and (2) 2per centum of all revenues thereafter derived by the State from rentals and bonuses from the disposition of such minerals.
 
 #### (d) Distribution of bonuses, rentals, and royalties from Federal disposition of minerals in public lands; payments into Alaska Native Fund based on percentage of gross value of produced minerals and of rentals and bonuses; Federal and State share calculation on remaining balance
 
@@ -18,7 +18,7 @@ All bonuses, rentals, and royalties received by the United States after December
 
 #### (e) Federal enforcement; State underpayment: deductions from grants-in-aid or other Federal assistance equal to underpayment and deposit of such amount in Fund
 
-The provisions of this section shall be enforceable by the United States for the benefit of the Natives, and in the event of default by the State in making the payments required, in addition to any other remedies provided by law, there shallbe deducted annually by the Secretary of the Treasury from any grant-in-aid or from any other sums payable to the State under any provision of Federal law an amount equal to any such underpayment, which amount shall be deposited in the Fund.
+The provisions of this section shall be enforceable by the United States for the benefit of the Natives, and in the event of default by the State in making the payments required, in addition to any other remedies provided by law, there shall be deducted annually by the Secretary of the Treasury from any grant-in-aid or from any other sums payable to the State under any provision of Federal law an amount equal to any such underpayment, which amount shall be deposited in the Fund.
 
 #### (f) Oil and gas revenues; amount payable equal to Federal or State royalties in cash or kind
 
@@ -46,9 +46,7 @@ The provisions of this section do not apply to mineral revenues received from th
 
 The Mineral Leasing Act of 1920, referred to in subsec. (a), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§181 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 181 of Title 30 and Tables.
 
-Sections 6(g) and 6(h) of the Alaska Statehood Act, referred to in subsec. (b), are sections 6(g) and 6(h) of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, which are set out as a note preceding section 21 of Title 48, Territories and Insular Possessions.
-
-The Alaska Statehood Act, referred to in subsecs. (c) and (d), is Pub. L. 85–508, July 7, 1958, 72 Stat. 339, as amended, which is set out as a note preceding section 21 of Title 48. For complete classification of this Act to the Code, see Tables.
+The Alaska Statehood Act, referred to in subsecs. (b), (c), and (d), is Pub. L. 85–508, July 7, 1958, 72 Stat. 339, as amended, which is set out as a note preceding section 21 of Title 48. For complete classification of this Act to the Code, see Tables.
 
 Section 407 of the Trans-Alaska Pipeline Authorization Act, referred to in subsec. (g), probably means section 407(a) of Pub. L. 93–153, which is set out as a note below.
 

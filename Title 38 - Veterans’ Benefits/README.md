@@ -1,5 +1,5 @@
 
-38 U.S.C.<br>United States Code, 1999 Edition<br>Title 38 - VETERANS’ BENEFITS<br>From the U.S. Government Publishing Office, www.gpo.gov
+38 U.S.C.<br>United States Code, 2000 Edition<br>Title 38 - VETERANS’ BENEFITS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 38—VETERANS’ BENEFITS
 
@@ -5618,7 +5618,7 @@ General Savings Provision.—An action taken or an offense committed under a pro
 
 #### Title Referred to in Other Sections
 
-This title is referred to in title 5 sections 7511, 8347, 8905a; title 7 section 2012; title 10 sections 1408, 1450, 1451, 12319; title 26 section 6103; title 29 sections 1721, 2913; title 42 sections 290dd–1, 290dd–2, 410, 424a, 659, 10008; title 50 section 2031.
+This title is referred to in title 5 sections 7511, 8347, 8905a; title 7 section 2012; title 10 sections 1408, 1450, 1451, 12319; title 26 section 6103; title 29 section 2913; title 42 sections 290dd–1, 290dd–2, 410, 424a, 659, 10008; title 50 section 2031.
 
 ### <b>PART I—GENERAL PROVISIONS</b>
 
@@ -5640,7 +5640,7 @@ This title is referred to in title 5 sections 7511, 8347, 8905a; title 7 section
 | [<b>13.</b>](Part%20002%20%28II%29%20-%20General%20Benefits/Chapter%20013%20-%20Dependency%20and%20Indemnity%20Compensation%20for%20Service-Connected%20Deaths/README.md) | <b>Dependency and Indemnity Compensation for Service-Connected Deaths</b> | <b>1301</b> |
 | [<b>15.</b>](Part%20002%20%28II%29%20-%20General%20Benefits/Chapter%20015%20-%20Pension%20for%20Non-Service-Connected%20Disability%20or%20Death%20or%20for%20Service/README.md) | <b>Pension for Non-Service-Connected Disability or Death or for Service</b> | <b>1501</b> |
 | [<b>17.</b>](Part%20002%20%28II%29%20-%20General%20Benefits/Chapter%20017%20-%20Hospital%2C%20Nursing%20Home%2C%20Domiciliary%2C%20and%20Medical%20Care/README.md) | <b>Hospital, Nursing Home, Domiciliary, and Medical Care</b> | <b>1701</b> |
-| [<b>18.</b>](Part%20002%20%28II%29%20-%20General%20Benefits/Chapter%20018%20-%20Benefits%20for%20Children%20of%20Vietnam%20Veterans%20Who%20Are%20Born%20with%20Spina%20Bifida/README.md) | <b>Benefits for Children of Vietnam Veterans Who Are Born With Spina Bifida</b> | <b>1801</b> |
+| [<b>18.</b>](Part%20002%20%28II%29%20-%20General%20Benefits/Chapter%20018%20-%20Benefits%20for%20Children%20of%20Vietnam%20Veterans/README.md) | <b>Benefits for Children of Vietnam Veterans</b> | <b>1802</b> |
 | [<b>19.</b>](Part%20002%20%28II%29%20-%20General%20Benefits/Chapter%20019%20-%20Insurance/README.md) | <b>Insurance</b> | <b>1901</b> |
 | [<b>21.</b>](Part%20002%20%28II%29%20-%20General%20Benefits/Chapter%20021%20-%20Specially%20Adapted%20Housing%20for%20Disabled%20Veterans/README.md) | <b>Specially Adapted Housing for Disabled Veterans</b> | <b>2101</b> |
 | [<b>23.</b>](Part%20002%20%28II%29%20-%20General%20Benefits/Chapter%20023%20-%20Burial%20Benefits/README.md) | <b>Burial Benefits</b> | <b>2301</b> |
@@ -5710,6 +5710,8 @@ This title is referred to in title 5 sections 7511, 8347, 8905a; title 7 section
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2000—Pub. L. 106–419, title IV, §401(f)(2), Nov. 1, 2000, 114 Stat. 1861, substituted “Benefits for Children of Vietnam Veterans” and “1802” for “Benefits for Children of Vietnam Veterans Who Are Born With Spina Bifida” and “1801”, respectively, in item for chapter 18.
 
 1998—Pub. L. 105–368, title V, §512(a)(4)(B), Nov. 11, 1998, 112 Stat. 3341, substituted “Appeals for Veterans Claims” for “Veterans Appeals” in item for chapter 72.
 

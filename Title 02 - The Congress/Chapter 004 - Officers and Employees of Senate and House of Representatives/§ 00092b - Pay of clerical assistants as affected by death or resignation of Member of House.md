@@ -16,10 +16,6 @@ Notwithstanding the provisions of section 92a of this title, in case of the deat
 
 Section 4 of act Aug. 21, 1935, provided that: “This joint resolution \[enacting sections 92b to 92d of this title\] shall be effective as of the beginning of the Seventy-fourth Congress, January 3, 1935.”
 
-#### Cross References
-
-Pay of clerical assistants as affected by death of Senator or Representative, see section 92a of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 92b–1, 92c, 92d of this title.

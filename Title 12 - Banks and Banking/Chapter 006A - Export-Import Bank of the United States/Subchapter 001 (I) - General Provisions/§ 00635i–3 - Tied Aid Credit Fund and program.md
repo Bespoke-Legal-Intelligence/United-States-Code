@@ -8,7 +8,7 @@ The Congress finds that—
 
 &emsp;(2) these distortions have caused the United States to lose export sales, with resulting losses in economic growth and employment;
 
-&emsp;(3) these practices undermine market mechanisms that would otherwise result in export purchase decisions made on the basis of price, quality, delivery, and other factors directly related to the export, where official financing is not subsidized and would be a neutral factor in the transaction;
+&emsp;(3) these practices undermine market mechanisms that would otherwise result in exportpurchase decisions made on the basis of price, quality, delivery, and other factors directly related to the export, where official financing is not subsidized and would be a neutral factor in the transaction;
 
 &emsp;(4) support of commercial exports by donor countries with tied aid and partially untied aid credits impedes the growth of developing countries because it diverts development assistance funds from essential developmental purposes; and
 
@@ -26,7 +26,7 @@ The Congress finds that—
 
 &emsp;The Bank shall establish a tied aid credit program under which grants shall be made from funds available in the Tied Aid Credit Fund established under subsection (c) of this section—
 
-&emsp;&emsp;(A) to supplement the financing of a United States export when there is a reasonable expectation that predatory financing will be provided by another country for asale by a competitor of the United States exporter with respect to such export and with special attention to matching tied aid and partially untied aid credits extended by other governments—
+&emsp;&emsp;(A) to supplement the financing of a United States export when there is a reasonable expectation that predatory financing will be provided by another country for a sale by a competitor of the United States exporter with respect to such export and with special attention to matching tied aid and partially untied aid credits extended by other governments—
 
 &emsp;&emsp;&emsp;(i) in violation of the Arrangement; or
 
@@ -78,7 +78,7 @@ The Congress finds that—
 
 #### (d) Consistency with Arrangement
 
-Any export financing involving the use of a grant under the tied aid credit program shall be consistent with the procedures established by the Arrangement, as in effect at the time such financing is approved.
+Any export financing involving the use of a grant under the tied aid credit program shall beconsistent with the procedures established by the Arrangement, as in effect at the time such financing is approved.
 
 #### (e) Authorization
 
@@ -92,7 +92,7 @@ No action taken under this section shall be reviewable by any court, except for 
 
 #### (1) In general
 
-&emsp;On or before October 15, 1992, and every 6 months thereafter, the Bank, in consultation with the Secretary, shall submit a report on tied aid credits to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives.
+&emsp;The Bank, in consultation with the Secretary, shall submit an annual report on tied aid credits to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives.
 
 #### (2) Contents of reports
 
@@ -156,13 +156,15 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;&emsp;(B) financing offers extended for subloans under lines of credit referred to in subparagraph (A) made on or before August 15, 1992, or, in the case of Mexico, on or before December 31, 1992.
 
-(July 31, 1945, ch. 341, §10, formerly §15, as added Pub. L. 99–472, §19, Oct. 15, 1986, 100 Stat. 1205; amended Pub. L. 100–217, Dec. 29, 1987, 101 Stat. 1454; Pub. L. 100–418, title III, §3302(b), Aug. 23, 1988, 102 Stat. 1383; Pub. L. 101–240, title I, §101(b), Dec. 19, 1989, 103 Stat. 2493; Pub. L. 101–513, title V, §562(d), Nov. 5, 1990, 104 Stat. 2036; renumbered §10 and amended Pub. L. 102–429, title I, §§103, 121(c)(4), Oct. 21, 1992, 106 Stat. 2187, 2199; Pub. L. 104–97, §1, Jan. 11, 1996, 109 Stat. 984; Pub. L. 104–107, title V, §579, Feb. 12, 1996, 110 Stat. 751; Pub. L. 105–121, §3, Nov. 26, 1997, 111 Stat. 2528.)
+(July 31, 1945, ch. 341, §10, formerly §15, as added Pub. L. 99–472, §19, Oct. 15, 1986, 100 Stat. 1205; amended Pub. L. 100–217, Dec. 29, 1987, 101 Stat. 1454; Pub. L. 100–418, title III, §3302(b), Aug. 23, 1988, 102 Stat. 1383; Pub. L. 101–240, title I, §101(b), Dec. 19, 1989, 103 Stat. 2493; Pub. L. 101–513, title V, §562(d), Nov. 5, 1990, 104 Stat. 2036; renumbered §10 and amended Pub. L. 102–429, title I, §§103, 121(c)(4), Oct. 21, 1992, 106 Stat. 2187, 2199; Pub. L. 104–97, §1, Jan. 11, 1996, 109 Stat. 984; Pub. L. 104–107, title V, §579, Feb. 12, 1996, 110 Stat. 751; Pub. L. 105–121, §3, Nov. 26, 1997, 111 Stat. 2528; Pub. L. 106–569, title XI, §1103(d)(2), Dec. 27, 2000, 114 Stat. 3031.)
 
 #### Prior Provisions
 
 A prior section 10 of act July 31, 1945, ch. 341, repealed section 713b of Title 15, Commerce and Trade.
 
 #### Amendments
+
+2000—Subsec. (g)(1). Pub. L. 106–569 substituted “The Bank” for “On or before October 15, 1992, and every 6 months thereafter, the Bank” and “submit an annual report” for “submit a report”.
 
 1997—Subsec. (c)(2). Pub. L. 105–121, §3(a), struck out “through September 30, 1997” after “authorized by the Bank”.
 
@@ -236,7 +238,7 @@ Subsec. (g)(2)(E). Pub. L. 101–240, §101(b)(6), amended subpar. (E) generally
 
 #### Change of Name
 
-Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services ofHouse of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Use of Fund To Discourage Predatory Financing Practices
 
@@ -249,4 +251,8 @@ Section 3302(a) of Pub. L. 100–418 provided that: “The Congress finds that�
 &emsp;“(3) in such cases, the United States could continue to lose export sales in connection with the aggressive, and in some cases, unfair, tied aid practices of such countries; and
 
 &emsp;“(4) in such cases, the Export-Import Bank of the United States should continue to use the Tied Aid Credit Fund established by section 15(c) \[now 10(c)\] of the Export-Import Bank Act of 1945 \[12 U.S.C. 635i–3(c)\] to discourage the use of such predatory financing practices.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 635 of this title.
 

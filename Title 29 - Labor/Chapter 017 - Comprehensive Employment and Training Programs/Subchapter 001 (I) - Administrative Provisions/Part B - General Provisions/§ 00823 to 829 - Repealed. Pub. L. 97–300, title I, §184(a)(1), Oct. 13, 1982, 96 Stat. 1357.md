@@ -28,7 +28,3 @@ Section 829, Pub. L. 93–203, title I, §127, as added Pub. L. 95–524, §2, O
 
 Provisions similar to those comprising this section were contained in former sections 849 and 985 of this title prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
-#### Effective Date of Repeal
-
-Section 184(a) of Pub. L. 97–300 provided that the repeal of these sections is effective Oct. 13, 1982.
-

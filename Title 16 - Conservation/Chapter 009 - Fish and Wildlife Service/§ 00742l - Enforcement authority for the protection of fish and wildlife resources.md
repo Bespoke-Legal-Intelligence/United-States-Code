@@ -52,7 +52,7 @@ Notwithstanding any other provision of law, the Secretary of the Interior and th
 
 &emsp;&emsp;&emsp;(iv) sale or other disposal of the items in accordance with applicable law, including auctioneer commissions and related expenses;
 
-&emsp;&emsp;&emsp;(v) payment of any valid liens or other encumbrances on the items and payment for other measures required to clear title to the items; and
+&emsp;&emsp;&emsp;(v) payment of any valid liens or other encumbrances on the items and paymentfor other measures required to clear title to the items; and
 
 &emsp;&emsp;&emsp;(vi) in the case of the Secretary of the Interior only, processing and shipping of eagles and other migratory birds, and parts of migratory birds, for Native American religious purposes.
 

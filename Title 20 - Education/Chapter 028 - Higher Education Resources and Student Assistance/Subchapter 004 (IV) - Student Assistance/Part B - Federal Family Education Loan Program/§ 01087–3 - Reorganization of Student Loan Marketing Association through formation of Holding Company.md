@@ -24,7 +24,7 @@ In the event the shareholders of the Association approve the plan of reorganizat
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in this section, on the reorganization effective date or as soon as practicable thereafter, the Association shall use the Association's best efforts to transfer to the Holding Company or any subsidiary ofthe Holding Company (or both), as directed by the Holding Company, all real and personal property of the Association (both tangible and intangible) other than the remaining property. Subject to the preceding sentence, such transferred property shall include all right, title, and interest in—
+&emsp;&emsp;Except as provided in this section, on the reorganization effective date or as soon as practicable thereafter, the Association shall use the Association's best efforts to transfer to the Holding Company or any subsidiary of the Holding Company (or both), as directed by the Holding Company, all real and personal property of the Association (both tangible and intangible) other than the remaining property. Subject to the preceding sentence, such transferred property shall include all right, title, and interest in—
 
 &emsp;&emsp;&emsp;(i) direct or indirect subsidiaries of the Association (excluding special purpose funding companies in existence on September 30, 1996, and any interest in any government-sponsored enterprise);
 
@@ -78,7 +78,7 @@ In the event the shareholders of the Association approve the plan of reorganizat
 
 &emsp;&emsp;The Association shall obtain such information and make and keep such records as the Secretary of the Treasury may from time to time prescribe concerning—
 
-&emsp;&emsp;&emsp;(i) the financial risk to the Association resulting from the activities of any associated person, to the extent such activities are reasonably likely to have a materialimpact on the financial condition of the Association, including the Association's capital ratio, the Association's liquidity, or the Association's ability to conduct and finance the Association's operations; and
+&emsp;&emsp;&emsp;(i) the financial risk to the Association resulting from the activities of any associated person, to the extent such activities are reasonably likely to have a material impact on the financial condition of the Association, including the Association's capital ratio, the Association's liquidity, or the Association's ability to conduct and finance the Association's operations; and
 
 &emsp;&emsp;&emsp;(ii) the Association's policies, procedures, and systems for monitoring and controlling any such financial risk.
 
@@ -192,7 +192,7 @@ In the event the shareholders of the Association approve the plan of reorganizat
 
 #### (3) Use of Sallie Mae name
 
-&emsp;Subject to paragraph (2), the Association may assign to the Holding Company, or any subsidiary of the Holding Company, the “Sallie Mae” name as a trademark or service mark, except that neither the Holding Company nor any subsidiary of the Holding Company (other than the Association or any subsidiary of the Association) may use the “Sallie Mae” name on, or to identify the issuer of, any debt obligation or other security offered or sold by the Holding Company or any subsidiary of the Holding Company (other than a debt obligation or other security issued to and held by the Holding Company or any subsidiary of the Holding Company). The Association shall remit to the account established under section 1155(e) <sup>2</sup> of this title, $5,000,000, within 60 days of the reorganization effective date as compensation for the right to assign the “Sallie Mae” name as a trademark or service mark.
+&emsp;Subject to paragraph (2), the Association may assign to the Holding Company, or anysubsidiary of the Holding Company, the “Sallie Mae” name as a trademark or service mark, except that neither the Holding Company nor any subsidiary of the Holding Company (other than the Association or any subsidiary of the Association) may use the “Sallie Mae” name on, or to identify the issuer of, any debt obligation or other security offered or sold by the Holding Company or any subsidiary of the Holding Company (other than a debt obligation or other security issued to and held by the Holding Company or any subsidiary of the Holding Company). The Association shall remit to the account established under section 1155(e) <sup>2</sup> of this title, $5,000,000, within 60 days of the reorganization effective date as compensation for the right to assign the “Sallie Mae” name as a trademark or service mark.
 
 #### (4) Disclosure required
 

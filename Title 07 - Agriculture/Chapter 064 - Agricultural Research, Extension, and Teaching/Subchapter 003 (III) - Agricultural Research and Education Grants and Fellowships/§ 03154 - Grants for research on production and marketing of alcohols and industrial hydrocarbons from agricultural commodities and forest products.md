@@ -26,7 +26,7 @@ Of the amounts appropriated in any fiscal year pursuant to the authorization con
 
 #### (c) Minority groups
 
-The Secretary may set aside a portion of funds appropriated for the award of grants under this section and make such amounts available only for grants to eligible colleges and universities that the Secretary determines have unique capabilities for achieving the objective of full participation of minority groups in research on the production and marketing of alcohols and industrial hydrocarbons from agricultural commodities and forest products.
+The Secretary may set aside a portion of funds appropriated for the award of grants under thissection and make such amounts available only for grants to eligible colleges and universities that the Secretary determines have unique capabilities for achieving the objective of full participation of minority groups in research on the production and marketing of alcohols and industrial hydrocarbons from agricultural commodities and forest products.
 
 #### (d) Authorization of appropriations
 

@@ -24,7 +24,7 @@ Encourage interstate and regional cooperation in the planning, acquisition, and 
 
 #### (f) Research and education
 
-(1) Sponsor, engage in, and assist in research relating to outdoor recreation, directly or by contract or cooperative agreements, and make payments for such purposes without regard to the limitations of section 3324(a) and (b) of title 31 concerning advances of funds when he considers such action in the public interest, (2) undertakes studies and assemble information concerning outdoor recreation, directly or by contract or cooperative agreement, and disseminate such information without regard to the provisions of section 3204 of title 39, and (3) cooperate with educational institutions and others in order to assist in establishing education programs and activities and to encourage public use and benefits from outdoor recreation.
+(1) Sponsor, engage in, and assist in research relating to outdoor recreation, directly or by contract or cooperative agreements, and make payments for such purposes without regard tothe limitations of section 3324(a) and (b) of title 31 concerning advances of funds when he considers such action in the public interest, (2) undertakes studies and assemble information concerning outdoor recreation, directly or by contract or cooperative agreement, and disseminate such information without regard to the provisions of section 3204 of title 39, and (3) cooperate with educational institutions and others in order to assist in establishing education programs and activities and to encourage public use and benefits from outdoor recreation.
 
 #### (g) Federal interdepartmental cooperation; coordination of Federal plans and activities; expenditures; reimbursement
 
@@ -47,6 +47,10 @@ In subsec. (f), “section 3324(a) and (b) of title 31” substituted for “sec
 #### Effective Date of 1970 Amendment
 
 For effective date of amendment by Pub. L. 91–375, see section 15(a) of Pub. L. 91–375, set out as an Effective Dates note preceding section 101 of Title 39, Postal Service.
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (c) of this section relating to transmittal to Congress, at five-year intervals, of revisions of nationwide outdoor recreation plan, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 112 of House Document No. 103–7.
 
 #### Study Regarding Improved Outdoor Recreational Access for Persons With Disabilities
 

@@ -6,5 +6,5 @@ There are hereby transferred from the National Wildlife Refuge System to the sea
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 459h–1, 459h–4, 459h–5, 459h–8, 459h–9 of this title.
+This section is referred to in sections 459h, 459h–1, 459h–2, 459h–4, 459h–5, 459h–8, 459h–9 of this title.
 

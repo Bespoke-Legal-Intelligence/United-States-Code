@@ -30,7 +30,7 @@ Regulations.—The Secretary shall prescribe regulations to carry out this secti
 
 Definitions.—In this section:
 
-&emsp;(1) The term “qualifying adoption expenses” means reasonable and necessary expenses that are directly related to the legal adoption of a child under 18 years of age, but only if such adoption is arranged by a qualified adoption agency. Such term does not include any expense incurred—
+&emsp;(1) The term “qualifying adoption expenses” means reasonable and necessary expenses thatare directly related to the legal adoption of a child under 18 years of age, but only if such adoption is arranged by a qualified adoption agency. Such term does not include any expense incurred—
 
 &emsp;&emsp;(A) by an adopting parent for travel; or
 

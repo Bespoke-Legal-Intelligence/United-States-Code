@@ -16,7 +16,3 @@ Section is based on appropriation for the person in charge of heating apparatus 
 
 Change of name of Architect of the Capitol, functions abolished, transferred, etc., by prior acts, see Codification and Prior Provisions notes set out under section 161 of this title.
 
-#### Cross References
-
-Lighting of the Capitol, see sections 167 and 185 of this title.
-

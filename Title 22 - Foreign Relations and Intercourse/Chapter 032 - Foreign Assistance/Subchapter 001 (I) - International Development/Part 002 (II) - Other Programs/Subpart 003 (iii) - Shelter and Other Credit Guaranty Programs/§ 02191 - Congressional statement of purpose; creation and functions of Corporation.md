@@ -42,9 +42,9 @@ In carrying out its purpose, the Corporation, utilizing broad criteria, shall un
 
 &emsp;(m) to refuse to insure, reinsure, or finance any investment subject to performance requirements which would reduce substantially the positive trade benefits likely to accrue to the United States from the investment; and
 
-&emsp;(n) to refuse to insure, reinsure, guarantee, or finance any investment in connection with a project which the Corporation determines will pose an unreasonable or major environmental, health, or safety hazard, or will result in the significant degradation of national parks or similar protected areas.
+&emsp;(n) to refuse to insure, reinsure, guarantee, or finance any investment in connection witha project which the Corporation determines will pose an unreasonable or major environmental, health, or safety hazard, or will result in the significant degradation of national parks or similar protected areas.
 
-(Pub. L. 87–195, pt. I, §231, as added Pub. L. 91–175, pt. I, §105, Dec. 30, 1969, 83 Stat. 809;amended Pub. L. 93–390, §2(1), Aug. 27, 1974, 88 Stat. 763; Pub. L. 95–268, §2, Apr. 24, 1978, 92 Stat. 213; Pub. L. 97–65, §2, Oct. 16, 1981, 95 Stat. 1021; Pub. L. 99–204, §§3, 4(a), Dec. 23, 1985, 99 Stat. 1669; Pub. L. 100–461, title V, §555, Oct. 1, 1988, 102 Stat. 2268–36; Pub. L. 102–549, title I, §101, Oct. 28, 1992, 106 Stat. 3651; Pub. L. 103–392, title I, §105, Oct. 22, 1994, 108 Stat. 4099.)
+(Pub. L. 87–195, pt. I, §231, as added Pub. L. 91–175, pt. I, §105, Dec. 30, 1969, 83 Stat. 809; amended Pub. L. 93–390, §2(1), Aug. 27, 1974, 88 Stat. 763; Pub. L. 95–268, §2, Apr. 24, 1978, 92 Stat. 213; Pub. L. 97–65, §2, Oct. 16, 1981, 95 Stat. 1021; Pub. L. 99–204, §§3, 4(a), Dec. 23, 1985, 99 Stat. 1669; Pub. L. 100–461, title V, §555, Oct. 1, 1988, 102 Stat. 2268–36; Pub. L. 102–549, title I, §101, Oct. 28, 1992, 106 Stat. 3651; Pub. L. 103–392, title I, §105, Oct. 22, 1994, 108 Stat. 4099.)
 
 #### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
 
@@ -90,11 +90,11 @@ Section 1. <i>Transfer to Overseas Private Investment Corporation</i>. All oblig
 
 Sec. 2. <i>Delegation of functions</i>. (a) \[Revoked by Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673.\]
 
-(b) The function of prescribing regulations relating to the reinstatement or restoration of officers and employees of the Corporation to other government positions, when their appointment to a position in the Corporation was made from another government position and their separation from the Corporation was not made for cause, is hereby delegated to the Office of Personnel Management.
+(b) The function of prescribing regulations relating to the reinstatement or restoration of officers and employees of the Corporation to other government positions, when their appointment to a position in the Corporation was made from another government positionand their separation from the Corporation was not made for cause, is hereby delegated to the Office of Personnel Management.
 
 Sec. 3. <i>Allocation and transfer of funds</i>. Funds made available under section 232 of the Act (repealed by section 105 of the Foreign Assistance Act of 1969) \[section 2192 of this title\] which are obligated but unexpended are hereby transferred to the Corporation.
 
-Sec. 4. <i>General provisions</i>. (a) As used in this order, the words “function” or “functions” include any duty,obligation, power, authority, responsibility, right, privilege, discretion, or activity.
+Sec. 4. <i>General provisions</i>. (a) As used in this order, the words “function” or “functions” include any duty, obligation, power, authority, responsibility, right, privilege, discretion, or activity.
 
 (b) The Corporation shall be deemed to be the successor of the Agency for International Development and the Administrator thereof, with respect to all functions vested in the Corporation pursuant to law.
 

@@ -20,7 +20,7 @@ The Board of Directors shall adopt such rules as it may deem appropriate for the
 
 #### (c) Quorum required
 
-No business may be conducted at a meeting of the Board of Directors unless a quorum of the members of the Board is present, and a vote to approve an action requires a majority vote of the members voting.
+No business may be conducted at a meeting of the Board of Directors unless a quorum of themembers of the Board is present, and a vote to approve an action requires a majority vote of the members voting.
 
 #### (d) Chief executive officer
 

@@ -1,0 +1,16 @@
+### §228d. Annual assessment of cattle and hog industries
+
+Not later than March 1 of each year, the Secretary shall submit to Congress and make publicly available a report that—
+
+&emsp;(1) assesses the general economic state of the cattle and hog industries;
+
+&emsp;(2) describes changing business practices in those industries; and
+
+&emsp;(3) identifies market operations or activities in those industries that appear to raise concerns under this chapter.
+
+(Aug. 15, 1921, ch. 64, title IV, §415, as added Pub. L. 106–472, title III, §312(e)(2), Nov. 9, 2000, 114 Stat. 2077.)
+
+#### Prior Provisions
+
+A prior section 415 of act Aug. 15, 1921, was renumbered section 416 and is classified to section 229 of this title.
+

@@ -30,6 +30,7 @@
 | [3515a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2003515a%20-%20Dedicated%20telephone%20service%20between%20employee%20residences%20and%20computer%20centers.md) | Dedicated telephone service between employee residences and computer centers. |
 | [3515b.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2003515b%20-%20Prohibition%20on%20funding%20certain%20experiments%20involving%20human%20participants.md) | Prohibition on funding certain experiments involving human participants. |
 | [3515c.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2003515c%20-%20Offset%20against%20Federal%20payments%20to%20States%20for%20provision%20of%20services.md) | Offset against Federal payments to States for provision of services. |
+| [3515d.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2003515d.md) | Expenses of Office of Inspector General; protective services; investigating non-payment of child support. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

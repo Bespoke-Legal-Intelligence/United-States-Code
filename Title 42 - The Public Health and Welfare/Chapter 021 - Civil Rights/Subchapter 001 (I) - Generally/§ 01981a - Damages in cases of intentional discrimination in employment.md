@@ -4,7 +4,7 @@
 
 #### (1) Civil rights
 
-&emsp;In an action brought by a complaining party under section 706 or 717 of the Civil Rights Act of 1964 \[42 U.S.C. 2000e–5, 2000e–16\] against a respondent who engaged in unlawful intentional discrimination (not an employment practice that is unlawful because of its disparate impact) prohibited under section 703, 704, or 717 of the Act \[42 U.S.C. 2000e–2, 2000e–3, 2000e–16\], and provided that the complaining party cannot recover under section 1981 of this title, the complaining party may recover compensatoryand punitive damages as allowed in subsection (b) of this section, in addition to any relief authorized by section 706(g) of the Civil Rights Act of 1964, from the respondent.
+&emsp;In an action brought by a complaining party under section 706 or 717 of the Civil Rights Act of 1964 \[42 U.S.C. 2000e–5, 2000e–16\] against a respondent who engaged in unlawful intentionaldiscrimination (not an employment practice that is unlawful because of its disparate impact) prohibited under section 703, 704, or 717 of the Act \[42 U.S.C. 2000e–2, 2000e–3, 2000e–16\], and provided that the complaining party cannot recover under section 1981 of this title, the complaining party may recover compensatory and punitive damages as allowed in subsection (b) of this section, in addition to any relief authorized by section 706(g) of the Civil Rights Act of 1964, from the respondent.
 
 #### (2) Disability
 
@@ -68,7 +68,7 @@ As used in this section:
 
 #### References in Text
 
-The Civil Rights Act of 1964, referred to in subsec. (d)(1)(A), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, asamended. Title VII of the Act is classified generally to subchapter VI (§2000e et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (d)(1)(A), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VII of the Act is classified generally to subchapter VI (§2000e et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
 
 The Americans with Disabilities Act of 1990, referred to in subsec. (d)(1)(B) is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended. Title I of the Act is classified generally to subchapter I (§12111 et seq.) of chapter 126 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
 
@@ -78,5 +78,5 @@ Section effective Nov. 21, 1991, except as otherwise provided, see section 402 o
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1988 of this title; title 2 sections 1202, 1311; title 3 section 411.
+This section is referred to in sections 1988, 2000e–16b of this title; title 2 section 1311; title 3 section 411.
 

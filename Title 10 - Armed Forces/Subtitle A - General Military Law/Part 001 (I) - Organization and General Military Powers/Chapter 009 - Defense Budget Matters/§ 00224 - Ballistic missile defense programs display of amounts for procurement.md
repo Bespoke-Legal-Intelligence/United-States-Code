@@ -12,7 +12,7 @@ Covered Programs.—Subsection (a) applies to the following missile defense prog
 
 &emsp;(2) Any system that is part of the core theater missile defense program.
 
-&emsp;(3) Any other ballistic missile defense program that enters production after the date of the enactment of this section and for which research, development, test, and evaluation was carried out by the Ballistic Missile Defense Organization.
+&emsp;(3) Any other ballistic missile defense program that enters production after the date of the enactment of this section and for whichresearch, development, test, and evaluation was carried out by the Ballistic Missile Defense Organization.
 
 (c)
 

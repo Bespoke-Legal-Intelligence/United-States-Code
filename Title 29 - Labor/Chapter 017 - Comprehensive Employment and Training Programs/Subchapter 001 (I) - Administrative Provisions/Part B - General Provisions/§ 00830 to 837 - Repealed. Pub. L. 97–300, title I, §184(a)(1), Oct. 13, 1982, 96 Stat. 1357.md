@@ -28,7 +28,3 @@ Section 836, Pub. L. 93–203, title I, §134, as added Pub. L. 95–524, §2, O
 
 Section 837, Pub. L. 93–203, title I, §135, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 1950, related to establishment of an Office of Management Assistance, the assignment of accountants, management specialists, and other professionals to such office, and reimbursement for services of such office.
 
-#### Effective Date of Repeal
-
-Section 184(a) of Pub. L. 97–300 provided that the repeal of these sections is effective Oct. 13, 1982.
-

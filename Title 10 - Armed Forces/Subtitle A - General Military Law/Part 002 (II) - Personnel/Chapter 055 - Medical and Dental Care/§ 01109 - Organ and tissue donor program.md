@@ -6,7 +6,7 @@ Responsibilities of the Secretary of Defense.—The Secretary of Defense shall e
 
 (b)
 
-Responsibilities of the Secretaries of the Military Departments.—(1) <sup>1</sup> The Secretaries of the military departments shall ensure that—
+Responsibilities of the Secretaries of the Military Departments.—The Secretaries of the military departments shall ensure that—
 
 &emsp;(1) appropriate information about organ and tissue donation is provided—
 
@@ -30,7 +30,11 @@ Responsibilities of the Surgeons General of the Military Departments.—The Surg
 
 &emsp;(2) medical logistical activities can, to the extent possible without jeopardizing operational requirements, support an effective organ and tissue donation program.
 
-(Added Pub. L. 105–261, div. A, title VII, §741(b)(1), Oct. 17, 1998, 112 Stat. 2073.)
+(Added Pub. L. 105–261, div. A, title VII, §741(b)(1), Oct. 17, 1998, 112 Stat. 2073; amended Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(8)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–290.)
+
+#### Amendments
+
+2000—Subsec. (b). Pub. L. 106–398 struck out “(1)” before “The Secretaries” in introductory provisions.
 
 #### Findings
 

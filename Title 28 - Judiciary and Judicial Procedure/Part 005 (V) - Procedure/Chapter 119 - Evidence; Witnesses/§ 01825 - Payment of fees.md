@@ -1,6 +1,6 @@
 ### §1825. Payment of fees
 
-(a) In any case in which the United States or an officer or agency of the United States is a party, the United States marshal for the district shall pay all fees of witnesses on the certificate of the United States attorney or assistant United States attorney, and in the proceedings before a United States magistrate, on the certificate of such magistrate, except that any fees of defense witnesses, other than experts, appearing pursuant to subpoenas issued upon approval of the court, shall be paid by the United States marshal for the district—
+(a) In any case in which the United States or an officer or agency of the United States is a party, the United States marshal for the district shall pay all fees of witnesses on the certificate of the United States attorney or assistant United States attorney, and in the proceedings before a United States magistrate judge, on the certificate of such magistrate judge, except that any fees of defense witnesses, other than experts, appearing pursuant to subpoenas issued upon approval of the court, shall be paid by the United States marshal for the district—
 
 &emsp;(1) on the certificate of a Federal public defender or assistant Federal public defender, in a criminal case in which the defendant is represented by such Federal public defender or assistant Federal public defender, and
 
@@ -14,7 +14,7 @@
 
 (c) Fees and mileage need not be tendered to a witness upon service of a subpoena issued on behalf of the United States or an officer or agency of the United States, upon service of a subpoena issued on behalf of a defendant represented by a Federal public defender, assistant Federal public defender, or other attorney appointed pursuant to section 3006A of title 18, or upon service of a subpoena issued on behalf of a party authorized to proceed in forma pauperis, if the payment of such fees and mileage is to be made by the United States marshal under this section.
 
-(June 25, 1948, ch. 646, 62 Stat. 951; Pub. L. 89–162, Sept. 2, 1965, 79 Stat. 618; Pub. L. 99–651, title I, §104, Nov. 14, 1986, 100 Stat. 3645.)
+(June 25, 1948, ch. 646, 62 Stat. 951; Pub. L. 89–162, Sept. 2, 1965, 79 Stat. 618; Pub. L. 99–651, title I, §104, Nov. 14, 1986, 100 Stat. 3645; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
 
 #### Historical and Revision Notes
 
@@ -28,7 +28,7 @@ Words in section 608 of title 28, U.S.C., 1940 ed., “to which they appear to b
 
 The second paragraph is new. It conforms to Rule 45(e) of the Federal Rules of Civil Procedure but is inconsistent with Rule 17(d) of the Federal Rules of Criminal Procedure and supersedes that rule as to Federal criminal cases. The Department of Justice suggests that Rule 17(d) is unworkable. To attempt compliance each deputy marshal serving process must carry, on the average, $500 in cash on trips to serve process.
 
-The marshal must advance the money from his personal funds. The Comptroller General has not been able to set up any procedure to make it feasible to advance fees to Government witnesses.
+The marshal must advance the money from his personal funds. The Comptroller General has not been ableto set up any procedure to make it feasible to advance fees to Government witnesses.
 
 If a witness is served but fails or refuses to appear, the marshal is out of pocket the money advanced and has no recourse. In the exceptional cases of real necessity, the marshal supplies transportation to an indigent witness under established regulations which protect the disbursement.
 
@@ -36,7 +36,7 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1986—Pub. L. 99–651 amended section generally. Prior to amendment, section read as follows:
+<b>1986</b>—Pub. L. 99–651 amended section generally. Prior to amendment, section read as follows:
 
 “In any case wherein the United States or an officer or agency thereof, is a party, the United States marshal for the district shall pay all fees of witnesses on the certificate of the United States Attorney or Assistant United States Attorney, and in the proceedings before a United States Commissioner, on the certificate of such commissioner.
 
@@ -44,19 +44,15 @@ Changes were made in phraseology.
 
 “Fees and mileage need not be tendered to the witness upon service of a subpena issued in behalf of the United States or an officer or agency thereof, or upon service of a subpena issued on behalf of a party, authorized to proceed in forma pauperis, where the payment thereof is to be made by the United States marshal as authorized in this section.”
 
-1965—Pub. L. 89–162 inserted provisions that, in all proceedings in forma pauperis, for a writ of habeas corpus, or in proceedings under section 2255 of this title, the United States marshal for the district shall pay all fees of witnesses for the party authorized to proceed in forma pauperis on the certificate of the district judge and that fees and mileage need not be tendered to the witness upon service of a subpena issued on behalf of a party authorized to proceed in forma pauperis where the payment thereof is to be made by the United States marshal as authorized in this section.
+<b>1965</b>—Pub. L. 89–162 inserted provisions that, in all proceedings in forma pauperis, for a writ of habeas corpus, or in proceedings under section 2255 of this title, the United States marshal for the district shall pay all fees of witnesses for the party authorized to proceed in forma pauperis on the certificate of the district judge and that fees and mileage need not be tendered to the witness upon service of a subpena issued on behalf of a party authorized to proceed in forma pauperis where the payment thereof is to be made by the United States marshal as authorized in this section.
 
 #### Change of Name
 
-Reference to United States magistrate or to magistrate deemed to refer to United States magistrate judge pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of this title.
+“United States magistrate judge” and “magistrate judge” substituted for “United States magistrate” and “magistrate”, respectively, in subsec. (a) pursuant to section 321 of Pub. L. 101–650, set out as a note under this title.
 
 #### Effective Date of 1986 Amendment
 
 Amendment by Pub. L. 99–651 effective 120 days after Nov. 14, 1986, see section 105 of Pub. L. 99–651, set out as a note under section 3006A of Title 18, Crimes and Criminal Procedure.
-
-#### Cross References
-
-Accounts of marshal, see section 567 of this title.
 
 #### Section Referred to in Other Sections
 

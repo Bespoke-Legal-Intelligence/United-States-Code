@@ -14,7 +14,7 @@ The Congress finds that—
 
 &emsp;(6) the residential and commercial growth of the greater Tucson, Arizona metropolitan area is causing increasing threats to the monument's resources; and
 
-&emsp;(7) the Tucson Mountain unit should be enlarged by the addition of adjacent lands of National Park caliber and Saguaro National Monument should be afforded full recognition and statutory protection as a National Park.
+&emsp;(7) the Tucson Mountain unit should be enlarged by the addition of adjacent lands of National Park caliber and Saguaro NationalMonument should be afforded full recognition and statutory protection as a National Park.
 
 (Pub. L. 103–364, §2, Oct. 14, 1994, 108 Stat. 3467.)
 

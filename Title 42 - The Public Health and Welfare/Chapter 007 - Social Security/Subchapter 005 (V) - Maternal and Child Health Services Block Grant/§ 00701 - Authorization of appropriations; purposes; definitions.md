@@ -1,6 +1,6 @@
 ### §701. Authorization of appropriations; purposes; definitions
 
-(a) To improve the health of all mothers and children consistent with the applicable health status goals and national health objectives established by the Secretary under the Public Health Service Act \[42 U.S.C. 201 et seq.\] for the year 2000, there are authorized to be appropriated $705,000,000 for fiscal year 1994 and each fiscal year thereafter—
+(a) To improve the health of all mothers and children consistent with the applicable health status goals and national health objectives established by the Secretary under the Public Health Service Act \[42 U.S.C. 201 et seq.\] for the year 2000, there are authorized to be appropriated $850,000,000 for fiscal year 2001 and each fiscal year thereafter—
 
 &emsp;(1) for the purpose of enabling each State—
 
@@ -54,7 +54,7 @@
 
 &emsp;&emsp;(B) with respect to infants up to age one, services to assure access to quality preventive and primary care services.
 
-(Aug. 14, 1935, ch. 531, title V, §501, as added Pub. L. 97–35, title XXI, §2192(a), Aug. 13, 1981, 95 Stat. 818; amended Pub. L. 97–248, title I, §137(b)(1), (2), Sept. 3, 1982, 96 Stat. 376; Pub. L. 98–369, div. B, title III, §2372(a), July 18, 1984, 98 Stat. 1110; Pub. L. 99–272, title IX, §9527(a)–(c), Apr. 7, 1986, 100 Stat. 219; Pub. L. 99–509, title IX, §9441(a), Oct. 21, 1986, 100 Stat. 2071; Pub. L. 100–203, title IV, §4118(p)(8), Dec. 22, 1987, 101 Stat. 1330–159; Pub. L. 101–239, title VI, §6501(a), Dec. 19, 1989, 103 Stat. 2273; Pub. L. 103–432, title II, §201, Oct. 31, 1994, 108 Stat. 4453; Pub. L. 105–12, §9(d), Apr. 30, 1997, 111 Stat. 27.)
+(Aug. 14, 1935, ch. 531, title V, §501, as added Pub. L. 97–35, title XXI, §2192(a), Aug. 13, 1981, 95 Stat. 818; amended Pub. L. 97–248, title I, §137(b)(1), (2), Sept. 3, 1982, 96 Stat. 376; Pub. L. 98–369, div. B, title III, §2372(a), July 18, 1984, 98 Stat. 1110; Pub. L. 99–272, title IX, §9527(a)–(c), Apr. 7, 1986, 100 Stat. 219; Pub. L. 99–509, title IX, §9441(a), Oct. 21, 1986, 100 Stat. 2071; Pub. L. 100–203, title IV, §4118(p)(8), Dec. 22, 1987, 101 Stat. 1330–159; Pub. L. 101–239, title VI, §6501(a), Dec. 19, 1989, 103 Stat. 2273; Pub. L. 103–432, title II, §201, Oct. 31, 1994, 108 Stat. 4453; Pub. L. 105–12, §9(d), Apr. 30, 1997, 111 Stat. 27; Pub. L. 106–554, §1(a)(6) \[title IX, §921(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–584.)
 
 #### References in Text
 
@@ -80,6 +80,8 @@ Provisions similar to those comprising former section 701 were contained in sect
 
 #### Amendments
 
+2000—Subsec. (a). Pub. L. 106–554 substituted “$850,000,000 for fiscal year 2001” for “$705,000,000 for fiscal year 1994” in introductory provisions.
+
 1997—Subsec. (a). Pub. L. 105–12 inserted concluding provisions.
 
 1994—Subsec. (a). Pub. L. 103–432 substituted “$705,000,000 for fiscal year 1994” for “$686,000,000 for fiscal year 1990” in introductory provisions.
@@ -103,6 +105,10 @@ Subsec. (b)(1)(A). Pub. L. 99–272, §9527(c), substituted “services for chil
 1982—Subsec. (b)(1)(D). Pub. L. 97–248, §137(b)(1), substituted “title VI” for “title IV”.
 
 Subsec. (b)(2). Pub. L. 97–248, §137(b)(2), substituted “section 9902(2)” for “section 2971d”.
+
+#### Effective Date of 2000 Amendment
+
+Pub. L. 106–554, §1(a)(6) \[title IX, §921(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–585, provided that: “The amendment made by subsection (a) \[amending this section\] takes effect on October 1, 2000.”
 
 #### Effective Date of 1997 Amendment
 
@@ -162,7 +168,7 @@ Section 2194 of Pub. L. 97–35 provided that:
 
 &emsp;“(i) for expenditures by the Secretary under section 502(a) of the Social Security Act \[section 702(a) of this title\] (as amended by this subtitle) by the amounts which the Secretary determines or estimates are payable for consolidated Federal programs (as defined in subsection (c)(2)(B)) from funds for fiscal year 1982, and
 
-&emsp;“(ii) for allotment to each of the States under section 502(b) of such Act \[section 702(b) of this title\] (as so amended) by the amounts which the Secretary determines or estimates are payable to that State (or entities in the State) under the consolidated State programs (as defined in subsection (c)(2)(C)) from funds for fiscal year 1982.
+&emsp;“(ii) for allotment to each of the States under section 502(b) of such Act \[section 702(b) of this title\] (asso amended) by the amounts which the Secretary determines or estimates are payable to that State (or entities in the State) under the consolidated State programs (as defined in subsection (c)(2)(C)) from funds for fiscal year 1982.
 
 “(c) For purposes of this section:
 

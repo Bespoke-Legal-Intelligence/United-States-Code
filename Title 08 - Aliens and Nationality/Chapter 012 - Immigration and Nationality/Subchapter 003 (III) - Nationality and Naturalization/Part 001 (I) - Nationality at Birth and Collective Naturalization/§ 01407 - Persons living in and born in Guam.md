@@ -12,19 +12,3 @@
 
 (June 27, 1952, ch. 477, title III, ch. 1, §307, 66 Stat. 237.)
 
-#### Cross References
-
-Definition of the term—
-
-&emsp;&emsp;Child, as used in subchapters I and II of this chapter, see section 1101(b)(1) of this title.
-
-&emsp;&emsp;Child, as used in this subchapter, see section 1101(c)(1) of this title.
-
-&emsp;&emsp;National, see section 1101(a)(21) of this title.
-
-&emsp;&emsp;National of the United States, see section 1101(a)(22) of this title.
-
-&emsp;&emsp;Residence, see section 1101(a)(33) of this title.
-
-&emsp;&emsp;United States, see section 1101(a)(38) of this title.
-

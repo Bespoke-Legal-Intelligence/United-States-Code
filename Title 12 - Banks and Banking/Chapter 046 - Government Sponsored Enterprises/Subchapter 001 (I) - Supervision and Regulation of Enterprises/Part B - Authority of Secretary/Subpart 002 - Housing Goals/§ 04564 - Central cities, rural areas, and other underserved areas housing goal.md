@@ -28,7 +28,7 @@ The Secretary shall monitor the performance of each enterprise in carrying out t
 
 #### (1) Interim target
 
-&emsp;Notwithstanding any other provision of this section, during the 2-year period beginning onJanuary 1, 1993, the annual target under this section for purchases by each enterprise of mortgages on housing located in central cities shall be 30 percent of the total number of dwelling units financed by mortgage purchases of the enterprise.
+&emsp;Notwithstanding any other provision of this section, during the 2-year period beginning on January 1, 1993, the annual target under this section for purchases by each enterprise of mortgages on housing located in central cities shall be 30 percent of the total number of dwelling units financed by mortgage purchases of the enterprise.
 
 #### (2) Interim goal
 

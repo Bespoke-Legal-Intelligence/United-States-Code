@@ -50,7 +50,7 @@ In general.—The Secretary, in consultation with the Secretary of the Interior 
 
 &emsp;(B)
 
-Advisory committee.—In carrying out subparagraph (A)(i), the Secretary shall establish an independent technical advisory committee to review projects, monitoring plans, and habitat and natural resource needs assessments.
+Advisory committee.—In carrying out subparagraph (A)(i), the Secretary shall establish an independent technical advisory committee to review projects, monitoring plans,and habitat and natural resource needs assessments.
 
 (2)
 
@@ -118,7 +118,7 @@ Requirements.—The Secretary shall—
 
 (1) The Secretary shall, as he determines feasible, dispose of dredged material from the system pursuant to the recommendations of the GREAT I, GREAT II, and GRRM studies.
 
-(2) The Secretary shall establish and request appropriate Federal funding for a program to facilitate productive uses of dredged material. The Secretary shall work with the States which have, within their boundaries, any part of the system to identify potential users of dredged material.
+(2) The Secretary shall establish and request appropriate Federal funding for a program to facilitate productive uses of dredged material. TheSecretary shall work with the States which have, within their boundaries, any part of the system to identify potential users of dredged material.
 
 #### (j) Construction of second lock at locks and dam 26, Mississippi River, Alton, Illinois and Missouri
 
@@ -186,13 +186,77 @@ Subsec. (e)(5). Pub. L. 101–640, §405(4), substituted “12” for “seven�
 
 Subsec. (f)(2)(A). Pub. L. 101–640, §405(5), substituted “15” for “ten”.
 
-#### Upper Mississippi River Comprehensive Plan
+#### Upper Mississippi River Basin Sediment and Nutrient Study
 
-Pub. L. 106–53, title IV, §459, Aug. 17, 1999, 113 Stat. 332, provided that:
+Pub. L. 106–541, title IV, §403, Dec. 11, 2000, 114 Stat. 2634, provided that:
 
 “(a)
 
-Development.—The Secretary shall develop a plan to address water resource and related land resource problems and opportunities in the upper Mississippi and Illinois River basins, from Cairo, Illinois, to the headwaters of the Mississippi River, in the interest of systemic flood damage reduction by means of—
+In General.—In conjunction with the Secretary of Agriculture and the Secretary of the Interior, the Secretary \[of the Army\] shall conduct a study to—
+
+&emsp;“(1) identify and evaluate significant sources of sediment and nutrients in the upper Mississippi River basin;
+
+&emsp;“(2) quantify the processes affecting mobilization, transport, and fate of those sediments and nutrients on land and in water; and
+
+&emsp;“(3) quantify the transport of those sediments and nutrients to the upper Mississippi River and the tributaries of the upper Mississippi River.
+
+“(b)
+
+Study Components.—
+
+&emsp;“(1)
+
+Computer modeling.—In carrying out the study under this section, the Secretary shall develop computer models of the upper Mississippi River basin, at the subwatershed and basin scales, to—
+
+&emsp;&emsp;“(A) identify and quantify sources of sediment and nutrients; and
+
+&emsp;&emsp;“(B) examine the effectiveness of alternative management measures.
+
+&emsp;“(2)
+
+Research.—In carrying out the study under this section, the Secretary shall conduct research to improve the understanding of—
+
+&emsp;&emsp;“(A) fate processes and processes affecting sediment and nutrient transport, with emphasis on nitrogen and phosphorus cycling and dynamics;
+
+&emsp;&emsp;“(B) the influences on sediment and nutrient losses of soil type, slope, climate, vegetation cover, and modifications to the stream drainage network; and
+
+&emsp;&emsp;“(C) river hydrodynamics, in relation to sediment and nutrient transformations, retention, and transport.
+
+“(c)
+
+Use of Information.—On request of a Federal agency, the Secretary may provide information for use in applying sediment and nutrient reduction programs associated with land-use improvements and land management practices.
+
+“(d)
+
+Reports.—
+
+&emsp;“(1)
+
+Preliminary report.—Not later than 2 years after the date of enactment of this Act \[Dec. 11, 2000\], the Secretary shall transmit to Congress a preliminary report that outlines work being conducted on the study components described in subsection (b).
+
+&emsp;“(2)
+
+Final report.—Not later than 5 years after the date of enactment of this Act, the Secretary shall transmit to Congress a report describing the results of the study under this section, including any findings and recommendations of the study.
+
+“(e)
+
+Funding.—
+
+&emsp;“(1)
+
+Authorization of appropriations.—There is authorized to be appropriated to carry out this section $4,000,000 for each of fiscal years 2001 through 2005.
+
+&emsp;“(2)
+
+Federal share.—The Federal share of the cost of carrying out this section shall be 50 percent.”
+
+#### Upper Mississippi River Comprehensive Plan
+
+Pub. L. 106–53, title IV, §459, Aug. 17, 1999, 113 Stat. 332, as amended by Pub. L. 106–541, title IV, §404, Dec. 11, 2000, 114 Stat. 2635, provided that:
+
+“(a)
+
+Development.—The Secretary \[of the Army\] shall develop a plan to address water resource and related land resource problems and opportunities in the upper Mississippi and Illinois River basins, from Cairo, Illinois, to the headwaters of the Mississippi River, in the interest of systemic flood damage reduction by means of—
 
 &emsp;“(1) structural and nonstructural flood control and floodplain management strategies;
 
@@ -240,9 +304,9 @@ Feasibility studies.—Feasibility studies resulting from development of the pla
 
 “(e)
 
-Report.—Not later than 3 years after the date of enactment of this Act \[Aug. 17, 1999\], the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report that includes the plan under subsection (a).”
+Report.—Not later than 3 years after the first date on which funds are appropriated to carry out this section, the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report that includes the plan under subsection (a).”
 
-#### Definitions
+#### “Secretary” Defined
 
 Secretary means the Secretary of the Army, see section 2201 of this title.
 

@@ -58,10 +58,6 @@ In subsection (b), the words “of the United States as miscellaneous receipts�
 
 1965—Subsec. (c). Pub. L. 89–67 substituted “$10,000” for “$1,000”.
 
-#### Cross References
-
-Admiralty and maritime jurisdiction, see Const. Art. 3, §2, cl. 1; section 1333 of Title 28, Judiciary and Judicial Procedure; and section 740 of Title 46, Appendix, Shipping.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 9806 of this title.

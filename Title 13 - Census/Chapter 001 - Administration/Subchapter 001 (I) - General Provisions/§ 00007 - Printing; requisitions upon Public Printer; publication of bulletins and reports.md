@@ -16,10 +16,6 @@ The provisions have been reworded to make it clear that they relate to all stati
 
 For remainder of section 1442 of title 42, U.S.C., 1952 ed. (which section has been transferred in its entirety to this revised title), see Distribution Table.
 
-#### Cross References
-
-Collection and publication of foreign commerce and trade statistics, applicability of section to, see section 307 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 307 of this title.

@@ -45,18 +45,10 @@
 | (b) | Establishment of center. |
 | (c) | Rents and fees. |
 | (d) | Separate account. |
-| <sup>1</sup> (h) | Annual report and budget. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
 | [1108\.](%C2%A7%2001108%20-%20Designation%20of%20Departmental%20Auditorium.md) | Designation of Departmental Auditorium. |
 | [1109\.](%C2%A7%2001109%20-%20Definitions.md) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<i><sup>1</sup></i><i> So in original. There are no subsecs. (e), (f), and (g).</i>
 
 
 ---

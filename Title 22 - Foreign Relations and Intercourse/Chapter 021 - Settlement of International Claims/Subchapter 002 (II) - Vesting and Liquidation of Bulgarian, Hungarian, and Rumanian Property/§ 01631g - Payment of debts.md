@@ -40,7 +40,7 @@ If the aggregate of debt claims filed as prescribed exceeds the money from which
 
 #### (g) Priority of claims
 
-Debt claims shall be paid in the following order of priority: (1) Wage and salary claims, not to exceed $600; (2) claims entitled to priority under sections 3713(a) and 9309 of title 31, except as provided in subsection (h) of this section; (3) all other claims for services rendered; for expenses incurred in connection with such services, for rent, for goods and materials delivered to the debtor, and for payments made to the debtor for goods or services not received by the claimant; (4) all other debt claims. No payment shall be made to claimants within a subordinate class unless the money from which, in accordance with subsection (d) of this section, payment may be made permits payment in full of all allowed claims in every prior class.
+Debt claims shall be paid in the following order of priority: (1) Wage and salary claims, not to exceed $600; (2) claims entitled to priority under sections 3713(a) and 9309 of title 31, except as provided in subsection (h) of this section; (3) all other claims for services rendered; for expenses incurred in connection with such services, for rent, for goods and materials delivered to the debtor, and for payments made to the debtor for goods or services not received by the claimant; (4) all other debt claims. No paymentshall be made to claimants within a subordinate class unless the money from which, in accordance with subsection (d) of this section, payment may be made permits payment in full of all allowed claims in every prior class.
 
 #### (h) Priority as debt due United States
 
@@ -54,13 +54,7 @@ The sole relief and remedy available to any person seeking satisfaction of a deb
 
 #### Codification
 
-In subsec. (g), “sections 3713(a) and 9309 of title 31” substituted for “sections 3466 and 3468 of the RevisedStatutes (31 U.S.C., secs. 191 and 193)” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
-
-#### Federal Rules of Civil Procedure
-
-Intervention, see rule 24, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-One form of action, see rule 2.
+In subsec. (g), “sections 3713(a) and 9309 of title 31” substituted for “sections 3466 and 3468 of the Revised Statutes (31 U.S.C., secs. 191 and 193)” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Section Referred to in Other Sections
 

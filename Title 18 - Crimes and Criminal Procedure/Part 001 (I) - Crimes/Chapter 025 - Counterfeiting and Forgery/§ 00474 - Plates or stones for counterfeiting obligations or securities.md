@@ -1,6 +1,6 @@
 ### §474. Plates or stones for counterfeiting obligations or securities
 
-(a) Whoever, having control, custody, or possession of any plate, stone, or other thing, or any part thereof, from which has been printed, or which may be prepared by direction of the Secretary of the Treasury for the purpose of printing, any obligation or other security of the United States, uses such plate, stone, or other thing, or any part thereof, or knowingly suffers the same to be used for the purpose of printing any such or similar obligation or other security, or any part thereof, except as may be printed for the use of the United States by order of the proper officer thereof; or
+(a) Whoever, having control, custody, or possession of any plate, stone, or other thing, or any part thereof, from which has been printed,or which may be prepared by direction of the Secretary of the Treasury for the purpose of printing, any obligation or other security of the United States, uses such plate, stone, or other thing, or any part thereof, or knowingly suffers the same to be used for the purpose of printing any such or similar obligation or other security, or any part thereof, except as may be printed for the use of the United States by order of the proper officer thereof; or
 
 Whoever makes or executes any plate, stone, or other thing in the likeness of any plate designated for the printing of such obligation or other security; or
 
@@ -37,14 +37,6 @@ Subsec. (b). Pub. L. 102–550, §1552(5), added subsec. (b).
 #### Effective Date of 1996 Amendment
 
 Section 101(f) \[title VI, §648(c)\] of div. A of Pub. L. 104–208 provided that: “This section \[enacting section 514 of this title and amending this section and section 474A of this title\] and the amendments made by this section shall become effective on the date of enactment of this Act \[Sept. 30, 1996\] and shall remain in effect during each fiscal year following that date of enactment.”
-
-#### Canal Zone
-
-Applicability of section to Canal Zone, see section 14 of this title.
-
-#### Cross References
-
-Philatelic reproductions permitted, see section 504 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -42,7 +42,7 @@ The members of the Committee shall elect one of their number to be Chairman.
 
 #### (e) Pay and travel expenses
 
-(1) Except as provided in paragraph (2), members of the Committee shall each be entitled to receive the daily equivalent of the annual rateof basic pay in effect for grade GS–18 of the General Schedule for each day (including traveltime) during which they are engaged in the actual performance of services for the Committee.
+(1) Except as provided in paragraph (2), members of the Committee shall each be entitled to receive the daily equivalent of the annual rate of basic pay in effect for grade GS–18 of the General Schedule for each day (including traveltime) during which they are engaged in the actual performance of services for the Committee.
 
 (2) Members of the Committee who are officers or employees of the Government shall receive no additional pay on account of their service on the Committee.
 
@@ -58,7 +58,7 @@ The members of the Committee shall elect one of their number to be Chairman.
 
 #### (g) Obtaining official data
 
-The Committee may secure directly from any entity of the Government information necessary to enable it to carry out sections 46 to 48c of this title. Upon request of the Chairman of the Committee, the head of such Government entity shall furnish such information to the Committee.
+The Committee may secure directly from any entity of the Government information necessary to enable it to carry out sections 46 to 48c of thistitle. Upon request of the Chairman of the Committee, the head of such Government entity shall furnish such information to the Committee.
 
 #### (h) Administrative support services
 
@@ -100,11 +100,15 @@ Subsec. (d)(4). Pub. L. 93–358, §1(2)(B), added par. (4).
 
 #### Effective Date of 1971 Amendment
 
-Section 2 of Pub. L. 92–28 provided that: “The amendment made by the first section of this Act \[amendingthis section and sections 47 and 48 and enacting sections 48a to 48c of this title\] shall take effect on the first day of the first month which begins more than thirty days after the date of enactment of this Act \[June 23, 1971\].”
+Section 2 of Pub. L. 92–28 provided that: “The amendment made by the first section of this Act \[amending this section and sections 47 and 48 and enacting sections 48a to 48c of this title\] shall take effect on the first day of the first month which begins more than thirty days after the date of enactment of this Act \[June 23, 1971\].”
 
 #### Short Title
 
 Section 7 of act June 25, 1938, as added by Pub. L. 103–355, title X, §10005(f)(6), Oct. 13, 1994, 108 Stat. 3409, provided that: “This Act \[enacting this section and sections 47 to 48c of this title\] may be cited as the ‘Javits-Wagner-O'Day Act’.”
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (i) of this section relating to the requirement that the Committee transmit a report to Congress each year, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 199 of House Document No. 103–7.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

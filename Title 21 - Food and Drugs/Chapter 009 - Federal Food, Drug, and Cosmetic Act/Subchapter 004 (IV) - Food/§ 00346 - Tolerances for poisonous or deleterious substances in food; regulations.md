@@ -28,10 +28,6 @@ Functions vested in Secretary of Health, Education, and Welfare \[now Health and
 
 For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare \[now Health and Human Services\], and of Food and Drug Administration to Federal Security Agency, see note set out under section 41 of this title.
 
-#### Cross References
-
-Pesticide chemical regulations, see section 346a of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 342, 346a, 371 of this title.

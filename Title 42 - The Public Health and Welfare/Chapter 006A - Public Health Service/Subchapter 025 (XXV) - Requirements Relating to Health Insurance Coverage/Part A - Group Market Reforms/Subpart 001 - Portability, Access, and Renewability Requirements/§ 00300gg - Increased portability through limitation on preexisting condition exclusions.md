@@ -2,7 +2,7 @@
 
 #### (a) Limitation on preexisting condition exclusion period; crediting for periods of previous coverage
 
-Subject to subsection (d) of this section, a group health plan, and a health insurance issuer offering group health insurance coverage, may, with respect to a participant or beneficiary, impose a preexisting condition exclusion only if—
+Subject to subsection (d) of this section, a group health plan, and a health insurance issueroffering group health insurance coverage, may, with respect to a participant or beneficiary, impose a preexisting condition exclusion only if—
 
 &emsp;(1) such exclusion relates to a condition (whether physical or mental), regardless of the cause of the condition, for which medical advice, diagnosis, care, or treatment was recommended or received within the 6-month period ending on the enrollment date;
 
@@ -132,7 +132,7 @@ For purposes of this part—
 
 #### (A) In general
 
-&emsp;&emsp;A group health plan, and a health insurance issuer offering group health insurancecoverage, shall provide the certification described in subparagraph (B)—
+&emsp;&emsp;A group health plan, and a health insurance issuer offering group health insurance coverage, shall provide the certification described in subparagraph (B)—
 
 &emsp;&emsp;&emsp;(i) at the time an individual ceases to be covered under the plan or otherwise becomes covered under a COBRA continuation provision,
 
@@ -370,5 +370,5 @@ Reports.—Not later than January 1, 2000, the Secretary shall submit to the app
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 300e, 300gg–1, 300gg–21, 300gg–23, 300gg–41, 300gg–43, 300gg–91, 1395ss, 1397jj of this title.
+This section is referred to in sections 300e, 300gg–1, 300gg–21, 300gg–23, 300gg–41, 300gg–43, 300gg–91, 1395ss, 1396a, 1397jj of this title.
 

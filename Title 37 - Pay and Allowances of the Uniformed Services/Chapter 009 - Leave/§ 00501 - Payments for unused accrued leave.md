@@ -204,7 +204,7 @@ Pub. L. 101–510, div. A, title XI, §1115, Nov. 5, 1990, 104 Stat. 1636, as am
 
 “(a)
 
-Inapplicability of Eligibility Limitation.—The limitation in the second sentence of subsection (b)(3) of section 501 of title 37, United States Code, and in subsection (f) of that section does not apply with respect to the following leave:
+Inapplicability of Eligibility Limitation.—The limitation in the second sentence of subsection (b)(3) ofsection 501 of title 37, United States Code, and in subsection (f) of that section does not apply with respect to the following leave:
 
 &emsp;“(1) Leave accrued by a member of a reserve component of the Armed Forces while serving on active duty (other than for training) in connection with the Persian Gulf conflict pursuant to an order to active duty authorized under section 672, 673, 673b, or 674 \[now 12301, 12302, 12304, or 12306\] of title 10, United States Code.
 
@@ -212,7 +212,7 @@ Inapplicability of Eligibility Limitation.—The limitation in the second senten
 
 &emsp;“(3) Leave accrued by a retired member of the Regular Army, Regular Navy, Regular Air Force, or Regular Marine Corps, a member of the Retired Reserve, or a member of the Fleet Reserve or Fleet Marine Corps Reserve while such retired member or member, as the case may be, is serving on active duty in connection with the Persian Gulf conflict pursuant to an order to active duty authorized by section 688 of title 10, United States Code.
 
-&emsp;“(4) Leave accrued by a member referred to in paragraph (1), (2), or (3) while serving on active duty (other than for training) in connection with the Persian Gulf conflict pursuant to an order to such active duty issued with the consent of the member during a period in which members of the Armed Forces are being ordered to active duty in connection with suchoperation pursuant to a provision of title 10, United States Code, referred to in such paragraph.
+&emsp;“(4) Leave accrued by a member referred to in paragraph (1), (2), or (3) while serving on active duty (other than for training) in connection with the Persian Gulf conflict pursuant to an order to such active duty issued with the consent of the member during a period in which members of the Armed Forces are being ordered to active duty in connection with such operation pursuant to a provision of title 10, United States Code, referred to in such paragraph.
 
 “(b)
 

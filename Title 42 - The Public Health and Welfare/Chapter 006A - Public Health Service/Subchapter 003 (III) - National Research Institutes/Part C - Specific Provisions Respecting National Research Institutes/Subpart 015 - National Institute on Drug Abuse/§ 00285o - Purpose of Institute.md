@@ -6,7 +6,7 @@ The general purpose of the National Institute on Drug Abuse (hereafter in this s
 
 #### (b) Research program
 
-The research program established under this subpart shall encompass the social, behavioral, and biomedical etiology, mental and physical health consequences, and social and economic consequences of drug abuse. In carrying out the program, the Director of the Institute shall give special consideration to projects relating to drug abuse among women (particularly with respect to pregnant women).
+The research program established under this subpart shall encompass the social, behavioral, and biomedical etiology, mental and physical health consequences, and social and economicconsequences of drug abuse. In carrying out the program, the Director of the Institute shall give special consideration to projects relating to drug abuse among women (particularly with respect to pregnant women).
 
 #### (c) Collaboration
 

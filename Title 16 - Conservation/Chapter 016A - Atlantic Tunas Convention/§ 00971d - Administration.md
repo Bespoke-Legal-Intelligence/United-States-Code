@@ -10,7 +10,7 @@ Enforcement activities at sea under the provisions of this chapter for fishing v
 
 #### (c) Regulations and other measures to carry out Commission recommendations
 
-(1)(A) Upon favorable action by the Secretary of State under section 971c(a) of this title on any recommendation of the Commission made pursuant to article VIII of the Convention, the Secretary shall promulgate, pursuant to this subsection, such regulations as may be necessary and appropriate to carry out such recommendation.
+(1)(A) Upon favorable action by the Secretary of State under section 971c(a) of this title on anyrecommendation of the Commission made pursuant to article VIII of the Convention, the Secretary shall promulgate, pursuant to this subsection, such regulations as may be necessary and appropriate to carry out such recommendation.
 
 (B) Not later than June 30, 1991, the Secretary shall promulgate any additional regulations necessary to ensure that the United States is in full compliance with all recommendations made by the Commission that have been accepted by the United States and with other agreements under the Convention between the United States and any nation which is a party to the Convention.
 
@@ -48,7 +48,7 @@ Enforcement activities at sea under the provisions of this chapter for fishing v
 
 &emsp;(A) the entry into the United States of fish in any form of those species which are subject to regulation pursuant to a recommendation of the Commission and which were taken from the Convention area in such manner or in such circumstances as would tend to diminish the effectiveness of the conservation recommendations of the Commission; and
 
-&emsp;(B) the entry into the United States, from any country when the vessels of such country are being used in the conduct of fishing operations in the Convention area in such manneror in such circumstances as would tend to diminish the effectiveness of the conservation recommendations of the Commission, of fish in any form of those species which are subject to regulation pursuant to a recommendation of the Commission and which were taken from the Convention area.
+&emsp;(B) the entry into the United States, from any country when the vessels of such country are being used in the conduct of fishing operations in the Convention area in such manner or in such circumstances as would tend to diminish the effectiveness of the conservation recommendations of the Commission, of fish in any form of those species which are subject to regulation pursuant to a recommendation of the Commission and which were taken from the Convention area.
 
 (5) In the case of repeated and flagrant fishing operations in the Convention area by the vessels of any country which seriously threaten the achievement of the objectives of the Commission's recommendations, the Secretary with the concurrence of the Secretary of State, may by regulations promulgated pursuant to paragraph (2) of this subsection prohibit the entry in any form from such country of other species covered by the Convention as may be under investigation by the Commission and which were taken in the Convention area. Any such prohibition shall continue until the Secretary is satisfied that the condition warranting the prohibition no longer exists, except that all fish in any form of the species under regulation which were previously prohibited from entry shall continue to be prohibited from entry.
 
@@ -115,6 +115,14 @@ Subsec. (d). Pub. L. 101–627, §207, amended subsec. (d) generally, substituti
 #### Transfer of Functions
 
 “Director of the Office of Personnel Management” substituted for “Civil Service Commission” in subsec. (a) pursuant to Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred functions vested by statute in the Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
+
+#### Use of Aircraft in Atlantic Bluefin Tuna Fishing
+
+Pub. L. 106–553, §1(a)(2) \[title VI, §634\], Dec. 21, 2000, 114 Stat. 2762, 2762A–114, provided that: “None of the funds provided in this or any previous Act, or hereinafter made available to the Department of Commerce shall be available to issue or renew, for any fishing vessel, any general or harpoon category fishing permit for Atlantic bluefin tuna that would allow the vessel—
+
+&emsp;“(1) to use an aircraft to locate, or otherwise assist in fishing for, catching, or possessing Atlantic bluefin tuna; or
+
+&emsp;“(2) to fish for, catch, or possessing \[sic\] Atlantic bluefin tuna located by the use of an aircraft.”
 
 #### Section Referred to in Other Sections
 

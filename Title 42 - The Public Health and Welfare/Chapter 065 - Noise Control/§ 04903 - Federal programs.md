@@ -28,3 +28,7 @@ Each department, agency, or instrumentality of the executive, legislative, and j
 
 In subsec. (c)(2), “section 44715 of title 49” substituted for “section 611 of the Federal Aviation Act of 1958 (as amended by section 7 of this Act)” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (b) of this section relating to annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and item 7 on page 20 of House Document No. 103–7.
+

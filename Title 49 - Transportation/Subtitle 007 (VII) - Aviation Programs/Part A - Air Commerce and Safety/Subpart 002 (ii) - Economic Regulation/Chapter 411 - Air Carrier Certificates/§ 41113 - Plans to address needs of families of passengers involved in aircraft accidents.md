@@ -2,7 +2,7 @@
 
 (a)
 
-Submission of Plans.—Not later than 6 months after the date of the enactment of this section, each air carrier holding a certificate of public convenience and necessity under section 41102 of this title shall submit to the Secretary and the Chairman of the National Transportation Safety Board a plan for addressing the needs of the families of passengers involved in any aircraft accident involving an aircraft of the air carrier and resulting in a major loss of life.
+Submission of Plans.—Each air carrier holding a certificate of public convenience and necessity under section 41102 of this title shall submit to the Secretary and the Chairman of the National Transportation Safety Board a plan for addressing the needs of the families of passengers involved in any aircraft accident involving an aircraft of the air carrier and resulting in a major loss of life.
 
 (b)
 
@@ -10,7 +10,7 @@ Contents of Plans.—A plan to be submitted by an air carrier under subsection (
 
 &emsp;(1) A plan for publicizing a reliable, toll-free telephone number, and for providing staff, to handle calls from the families of the passengers.
 
-&emsp;(2) A process for notifying the families of the passengers, before providing any public notice of the names of the passengers, either by utilizing the services of the organization designated for the accident under section 1136(a)(2) of this title or the services of other suitably trained individuals.
+&emsp;(2) A process for notifying the families of the passengers, before providing any public notice of the names of the passengers, either by utilizing the services of the organization designated for the accident under section1136(a)(2) of this title or the services of other suitably trained individuals.
 
 &emsp;(3) An assurance that the notice described in paragraph (2) will be provided to the family of a passenger as soon as the air carrier has verified that the passenger was aboard the aircraft (whether or not the names of all of the passengers have been verified) and, to the extent practicable, in person.
 
@@ -34,23 +34,47 @@ Contents of Plans.—A plan to be submitted by an air carrier under subsection (
 
 &emsp;(13) An assurance that the air carrier will commit sufficient resources to carry out the plan.
 
+&emsp;(14) An assurance that, upon request of the family of a passenger, the air carrier will inform the family of whether the passenger's name appeared on a preliminary passenger manifest for the flight involved in the accident.
+
+&emsp;(15) An assurance that the air carrier will provide adequate training to the employees and agents of the carrier to meet the needs of survivors and family members following an accident.
+
+&emsp;(16) An assurance that the air carrier, in the event that the air carrier volunteers assistance to United States citizens within the United States with respect to an aircraft accident outside the United States involving major loss of life, the air carrier <sup>1</sup> will consult with the Board and the Department of State on the provision of the assistance.
+
 (c)
 
-Certificate Requirement.—After the date that is 6 months after the date of the enactment of this section, the Secretary may not approve an application for a certificate of public convenience and necessity under section 41102 of this title unless the applicant has included as part of such application a plan that meets the requirements of subsection (b).
+Certificate Requirement.—The Secretary may not approve an application for a certificate of public convenience and necessity under section 41102 of this title unless the applicant has included as part of such application a plan that meets the requirements of subsection (b).
 
 (d)
 
-Limitation on Liability.—An air carrier shall not be liable for damages in any action brought in a Federal or State court arising out of the performance of the air carrier in preparing or providing a passenger list pursuant to a plan submitted by the air carrier under subsection (b), unless such liability was caused by conduct of the air carrier which was grossly negligent or which constituted intentional misconduct.
+Limitation on Liability.—An air carrier shall not be liable for damages in any action brought in a Federal or State court arising out of the performance of the air carrier in preparing or providing a passenger list, or in providing information concerning a preliminary passenger manifest, pursuant to a plan submitted by the air carrier under subsection (b), unless such liability was caused by conduct of the air carrier which was grossly negligent or which constituted intentional misconduct.
 
 (e)
 
 Aircraft Accident and Passenger Defined.—In this section, the terms “aircraft accident” and “passenger” have the meanings such terms have in section 1136 of this title.
 
-(Added Pub. L. 104–264, title VII, §703(a), Oct. 9, 1996, 110 Stat. 3267.)
+(f)
 
-#### References in Text
+Statutory Construction.—Nothing in this section may be construed as limiting the actions that an air carrier may take, or the obligations that an air carrier may have, in providing assistance to the families of passengers involved in an aircraft accident.
 
-The date of the enactment of this section, referred to in subsecs. (a) and (c), is the date of enactment of Pub. L. 104–264, which was approved Oct. 9, 1996.
+(Added Pub. L. 104–264, title VII, §703(a), Oct. 9, 1996, 110 Stat. 3267; amended Pub. L. 106–181, title IV, §402(a)(1)–(3), (5)–(c), Apr. 5, 2000, 114 Stat. 129, 130.)
+
+#### Amendments
+
+2000—Subsec. (a). Pub. L. 106–181, §402(a)(5)(A), substituted “Each air carrier” for “Not later than 6 months after the date of the enactment of this section, each air carrier”.
+
+Subsec. (b)(14) to (16). Pub. L. 106–181, §402(a)(1)–(3), added pars. (14) to (16).
+
+Subsec. (c). Pub. L. 106–181, §402(a)(5)(B), substituted “The Secretary” for “After the date that is 6 months after the date of the enactment of this section, the Secretary”.
+
+Subsec. (d). Pub. L. 106–181, §402(b), inserted “, or in providing information concerning a preliminary passenger manifest,” before “pursuant to a plan”.
+
+Subsec. (f). Pub. L. 106–181, §402(c), added subsec. (f).
+
+#### Effective Date of 2000 Amendment
+
+Amendment by section 402(a)(5)(B) to (c) of Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
+
+Pub. L. 106–181, title IV, §402(a)(4), Apr. 5, 2000, 114 Stat. 130, provided that: “The amendments made by paragraphs (1), (2), and (3) \[amending this section\] shall take effect on the 180th day following the date of the enactment of this Act \[Apr. 5, 2000\]. On or before such 180th day, each air carrier holding a certificate of public convenience and necessity under section 41102 of title 49, United States Code, shall submit to the Secretary \[of Transportation\] and the Chairman of the National Transportation Safety Board an updated plan under section 41113 of such title that meets the requirements of the amendments made by paragraphs (1), (2), and (3).”
 
 #### Effective Date
 
@@ -62,7 +86,7 @@ Section 704 of Pub. L. 104–264 provided that:
 
 “(a)
 
-Establishment.—The Secretary of Transportation, in cooperation with the National Transportation Safety Board, the Federal Emergency Management Agency, the American Red Cross, air carriers, and families which have been involved in aircraft accidentsshall establish a task force consisting of representatives of such entities and families, representatives of air carrier employees, and representatives of such other entities as the Secretary considers appropriate.
+Establishment.—The Secretary of Transportation, in cooperation with the National Transportation Safety Board, the Federal Emergency Management Agency, the American Red Cross, air carriers, and families which have been involved in aircraft accidents shall establish a task force consisting of representatives of such entities and families, representatives of air carrier employees, and representatives of such other entities as the Secretary considers appropriate.
 
 “(b)
 

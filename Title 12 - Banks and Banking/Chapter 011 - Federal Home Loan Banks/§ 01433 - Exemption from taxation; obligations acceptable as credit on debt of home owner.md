@@ -8,10 +8,6 @@ Any and all notes, debentures, bonds, and other such obligations issued by any b
 
 1935—Act May 28, 1935, inserted “and consolidated Federal Home Loan Bank bonds and debentures” in first sentence.
 
-#### Cross References
-
-United States obligations and evidences of ownership as subject to Federal taxation, see section 3124(b) of Title 31, Money and Finance.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1441, 1441b of this title.

@@ -14,7 +14,7 @@
 
 #### Effective Date of 1991 Amendment
 
-Amendment by Pub. L. 102–190 applicable to selection boards convened under section 611(a) of this title afterend of 60-day period beginning Dec. 5, 1991, see section 504(e) of Pub. L. 102–190, set out as a note under section 615 of this title.
+Amendment by Pub. L. 102–190 applicable to selection boards convened under section 611(a) of this title after end of 60-day period beginning Dec. 5, 1991, see section 504(e) of Pub. L. 102–190, set out as a note under section 615 of this title.
 
 #### Section Referred to in Other Sections
 

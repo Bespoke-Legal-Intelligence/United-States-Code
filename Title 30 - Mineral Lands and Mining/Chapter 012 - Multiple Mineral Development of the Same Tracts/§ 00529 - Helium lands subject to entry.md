@@ -12,7 +12,3 @@ For definition of “mineral leasing laws”, referred to in text, see section 5
 
 The Mineral Leasing Act, referred to in text, is act Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended, which is classified generally to chapter 3A (§181 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 181 of this title and Tables.
 
-#### Cross References
-
-Cooperative Forest Service research funds excepted, see section 581i–1 of Title 16, Conservation.
-

@@ -8,7 +8,7 @@ For the purposes of this subchapter, the term—
 
 &emsp;(c) “lawsuits” means the actions entitled “Narragansett Tribe of Indians v. Southern Rhode Island Land Development Co., et al., C.A. No. 75–0006 (D.R.I.)” and “Narragansett Tribe of Indians v. Rhode Island Director of Environmental Management, C.A. No. 75–0005 (D.R.I.)”;
 
-&emsp;(d) “private settlement lands” means approximately nine hundred acres of privately held land outlined in red in the map marked“Exhibit A” attached to the Settlement Agreement that are to be acquired by the Secretary from certain private landowners pursuant to sections 1704 and 1707 of this title;
+&emsp;(d) “private settlement lands” means approximately nine hundred acres of privately held land outlined in red in the map marked “Exhibit A” attached to the Settlement Agreement that are to be acquired by the Secretary from certain private landowners pursuant to sections 1704 and 1707 of this title;
 
 &emsp;(e) “public settlement lands” means the lands described in paragraph 2 of the Settlement Agreement that are to be conveyed by the State of Rhode Island to the State Corporation pursuant to legislation as described in section 1706 of this title;
 

@@ -40,7 +40,39 @@ Education and Training Standards for Security Coordinators, Supervisory Personne
 
 (2) The standards shall include initial training, retraining, and continuing education requirements and methods. Those requirements and methods shall be used annually to measure the performance of ground security coordinators and security supervisory personnel.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1217.)
+(e)
+
+Training Standards for Screeners.—
+
+&emsp;(1)
+
+Issuance of final rule.—Not later than May 31, 2001, and after considering comments on the notice published in the Federal Register for January 5, 2000 (65 Fed. Reg. 559 et seq.), the Administrator shall issue a final rule on the certification of screening companies.
+
+&emsp;(2)
+
+Classroom instruction.—
+
+&emsp;&emsp;(A)
+
+In general.—As part of the final rule, the Administrator shall prescribe minimum standards for training security screeners that include at least 40 hours of classroom instruction before an individual is qualified to provide security screening services under section 44901.
+
+&emsp;&emsp;(B)
+
+Classroom equivalency.—Instead of the 40 hours of classroom instruction required under subparagraph (A), the final rule may allow an individual to qualify to provide security screening services if that individual has successfully completed a program that the Administrator determines will train individuals to a level of proficiency equivalent to the level that would be achieved by the classroom instruction under subparagraph (A).
+
+&emsp;(3)
+
+On-the-job training.—In addition to the requirements of paragraph (2), as part of the final rule, the Administrator shall require that before an individual may exercise independent judgment as a security screener under section 44901, the individual shall—
+
+&emsp;&emsp;(A) complete 40 hours of on-the-job training as a security screener; and
+
+&emsp;&emsp;(B) successfully complete an on-the-job training examination prescribed by the Administrator.
+
+(f)
+
+Accessibility of Computer-Based Training Facilities.—The Administrator shall work with air carriers and airports to ensure that computer-based training facilities intended for use by security screeners at an airport regularly serving an air carrier holding a certificate issued by the Secretary of Transportation are conveniently located for that airport and easily accessible.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1217; Pub. L. 106–528, §3, Nov. 22, 2000, 114 Stat. 2519.)
 
 Historical and Revision Notes
 
@@ -81,6 +113,14 @@ In subsection (c)(1)(B), the words “individuals eligible” are substituted fo
 In subsection (c)(2), the words “under this section” are omitted as unnecessary. The words “United States” before “air carriers” are omitted because of the definition of “air carrier” in section 40102(a) of the revised title.
 
 In subsection (d)(1), before clause (A), the words “Not later than 180 days after November 16, 1990” are omitted as obsolete.
+
+#### Amendments
+
+2000—Subsecs. (e), (f). Pub. L. 106–528 added subsecs. (e) and (f).
+
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–528 effective 30 days after Nov. 22, 2000, see section 9 of Pub. L. 106–528, set out as a note under section 106 of this title.
 
 #### Certification of Screening Companies
 

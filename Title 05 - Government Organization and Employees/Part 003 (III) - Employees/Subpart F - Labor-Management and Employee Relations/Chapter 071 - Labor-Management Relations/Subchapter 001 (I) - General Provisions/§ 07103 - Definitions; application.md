@@ -34,9 +34,11 @@
 
 &emsp;&emsp;(E) the Tennessee Valley Authority;
 
-&emsp;&emsp;(F) the Federal Labor Relations Authority; or
+&emsp;&emsp;(F) the Federal Labor Relations Authority;
 
-&emsp;&emsp;(G) the Federal Service Impasses Panel.
+&emsp;&emsp;(G) the Federal Service Impasses Panel; or
+
+&emsp;&emsp;(H) the United States Secret Service and the United States Secret Service Uniformed Division.
 
 &emsp;(4) “labor organization” means an organization composed in whole or in part of employees, in which employees participate and pay dues, and which has as a purpose the dealing with an agency concerning grievances and conditions of employment, but does not include—
 
@@ -122,9 +124,11 @@
 
 (2) The President may issue an order suspending any provision of this chapter with respect to any agency, installation, or activity located outside the 50 States and the District of Columbia, if the President determines that the suspension is necessary in the interest of national security.
 
-(Added Pub. L. 95–454, title VII, §701, Oct. 13, 1978, 92 Stat. 1192; amended Pub. L. 96–465, title II, §2314(g), Oct. 17, 1980, 94 Stat. 2168; Pub. L. 102–54, §13(b)(1), June 13, 1991, 105 Stat. 274; Pub. L. 103–359, title V, §501(j), Oct. 14, 1994, 108 Stat. 3430; Pub. L. 104–201, div. A, title XVI, §1634(a), Sept. 23, 1996, 110 Stat. 2752; Pub. L. 105–220, title III, §341(e), Aug. 7, 1998, 112 Stat. 1092; Pub. L. 105–277, div. G, subdiv. A, title XIV, §1422(b)(1), Oct. 21, 1998, 112 Stat. 2681–792.)
+(Added Pub. L. 95–454, title VII, §701, Oct. 13, 1978, 92 Stat. 1192; amended Pub. L. 96–465, title II, §2314(g), Oct. 17, 1980, 94 Stat. 2168; Pub. L. 102–54, §13(b)(1), June 13, 1991, 105 Stat. 274; Pub. L. 103–359, title V, §501(j), Oct. 14, 1994, 108 Stat. 3430; Pub. L. 104–201, div. A, title XVI, §1634(a),Sept. 23, 1996, 110 Stat. 2752; Pub. L. 105–220, title III, §341(e), Aug. 7, 1998, 112 Stat. 1092; Pub. L. 105–277, div. G, subdiv. A, title XIV, §1422(b)(1), Oct. 21, 1998, 112 Stat. 2681–792; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §139\], Dec. 21, 2000, 114 Stat. 2763, 2763A–235.)
 
 #### Amendments
+
+2000—Subsec. (a)(3)(H). Pub. L. 106–554 added subpar. (H).
 
 1998—Subsec. (a)(2)(B)(iv). Pub. L. 105–277 substituted “Agency for International Development” for “United States International Development Cooperation Agency”.
 
@@ -276,7 +280,7 @@ Exclusions
 
 a. The Office of Enforcement and the Office of Intelligence, including all domestic field offices and intelligence units, of the Drug Enforcement Administration.
 
-b. The Office of Special Operations, the Threat Analysis Group, the Enforcement Operations Division, the Witness Security Division and the Court Security Division in the Office of the Director and the EnforcementDivision in Offices of the United States Marshals in the United States Marshals Service.
+b. The Office of Special Operations, the Threat Analysis Group, the Enforcement Operations Division, the Witness Security Division and the Court Security Division in the Office of the Director and the Enforcement Division in Offices of the United States Marshals in the United States Marshals Service.
 
 1–210. Agencies or subdivisions of the Department of Energy.
 
@@ -422,7 +426,7 @@ Section 1. <i>Suspensions</i>. With regard to United States citizen employees of
 
 (d) The provisions of 5 U.S.C. 7121(b)(3)(C) are suspended with respect to any grievance involving the implementation by the United States Forces of any treaty or agreement, including any minutes or understandings thereto, between the United States and the Government of the host nation.
 
-Sec. 2. <i>Disputes</i>. Disputes between a labor organization and the United States Forces as to whether a particular matter is covered by one or more of the suspensions set forth in this Order shall be referred to the Secretary of Defense. The decision of the Secretary in such disputes shall be made after consultation with theSecretary of State and shall be final. The Secretary of Defense may delegate this authority, but only to the Deputy Secretary of Defense, an Under Secretary of Defense, or an Assistant Secretary of Defense. The functions assigned to the Secretary of State may not be delegated or assigned to anyone below the rank of an Assistant Secretary of State.
+Sec. 2. <i>Disputes</i>. Disputes between a labor organization and the United States Forces as to whether a particular matter is covered by one or more of the suspensions set forth in this Order shall be referred to the Secretary of Defense. The decision of the Secretary in such disputes shall be made after consultation with the Secretary of State and shall be final. The Secretary of Defense may delegate this authority, but only to the Deputy Secretary of Defense, an Under Secretary of Defense, or an Assistant Secretary of Defense. The functions assigned to the Secretary of State may not be delegated or assigned to anyone below the rank of an Assistant Secretary of State.
 
 Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -22,7 +22,7 @@ The method of computing and paying such amounts shall be as follows:
 
 &emsp;(3) The Secretary of the Treasury shall thereupon, through the Fiscal Service of the Treasury Department and prior to audit or settlement by the General Accounting Office, pay to the State, at the time or times fixed by the Secretary of Health and Human Services, the amount so certified.
 
-(Aug. 14, 1935, ch. 531, title I, §3, 49 Stat. 621; Aug. 10, 1939, ch. 666, title I, §102, 53 Stat. 1361; 1940 Reorg. Plan No. III, §1(a)(1), eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1231; Aug. 10, 1946, ch. 951, title V, §501, 60 Stat. 991; June 14, 1948, ch. 468, §3(a), 62 Stat. 439; Aug. 28, 1950, ch. 809, title III, pt. 1, §302(a), pt. 6, §361(c), (d), 64 Stat. 548, 558; July 18, 1952, ch. 945, §8(a), 66 Stat. 778; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Sept. 1, 1954, ch. 1206, title III, §303, 68 Stat. 1097; Aug. 1, 1956, ch. 836, title III, §§301, 311(c), 341, 70 Stat. 846, 848, 852; Pub. L. 85–840, title V, §501, Aug. 28, 1958, 72 Stat. 1047; Pub. L. 86–778, title VI, §601(c), (d), Sept. 13, 1960, 74 Stat. 989, 990; Pub. L. 87–31, §5(a), (b), May 8, 1961, 75 Stat. 77; Pub. L. 87–64, title III, §303(a), June 30, 1961, 75 Stat. 143; Pub. L. 87–543, title I, §§101(a)(1), (b)(1), 132(a), July 25, 1962, 76 Stat. 173, 179, 193; Pub. L. 89–97, title I, §122, title II, §221(a)(4), title IV, §401(a), July 30, 1965, 79 Stat. 353, 357, 414; Pub. L. 90–248, title II, §212(a), Jan. 2, 1968, 81 Stat. 897; Pub. L. 92–512, title III, §301(b), (d), Oct. 20, 1972, 86 Stat. 946, 947; Pub. L. 93–647, §§3(e)(2), 5(a), Jan. 4, 1975, 88 Stat. 2349, 2350; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 97–35, title XXI, §2184(a)(4), title XXIII, §2353(a), Aug. 13, 1981, 95 Stat. 816, 871; Pub. L. 99–603, title I, §121(b)(4), Nov. 6, 1986, 100 Stat. 3391; Pub. L. 103–66, title XIII, §13741(b), Aug. 10, 1993, 107 Stat. 663.)
+(Aug. 14, 1935, ch. 531, title I, §3, 49 Stat. 621; Aug. 10, 1939, ch. 666, title I, §102, 53 Stat. 1361; 1940 Reorg. Plan No. III, §1(a)(1), eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1231; Aug. 10, 1946, ch. 951, title V, §501, 60 Stat. 991; June 14, 1948, ch. 468, §3(a), 62 Stat. 439; Aug. 28, 1950, ch. 809, title III, pt. 1, §302(a), pt. 6, §361(c), (d), 64 Stat. 548, 558; July 18, 1952, ch. 945, §8(a), 66 Stat. 778; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Sept. 1, 1954, ch. 1206, title III, §303, 68 Stat. 1097; Aug. 1, 1956, ch. 836, title III, §§301, 311(c), 341, 70 Stat. 846, 848, 852; Pub. L. 85–840, title V, §501, Aug. 28, 1958, 72 Stat. 1047; Pub. L. 86–778, title VI, §601(c), (d), Sept. 13, 1960,74 Stat. 989, 990; Pub. L. 87–31, §5(a), (b), May 8, 1961, 75 Stat. 77; Pub. L. 87–64, title III, §303(a), June 30, 1961, 75 Stat. 143; Pub. L. 87–543, title I, §§101(a)(1), (b)(1), 132(a), July 25, 1962, 76 Stat. 173, 179, 193; Pub. L. 89–97, title I, §122, title II, §221(a)(4), title IV, §401(a), July 30, 1965, 79 Stat. 353, 357, 414; Pub. L. 90–248, title II, §212(a), Jan. 2, 1968, 81 Stat. 897; Pub. L. 92–512, title III, §301(b), (d), Oct. 20, 1972, 86 Stat. 946, 947; Pub. L. 93–647, §§3(e)(2), 5(a), Jan. 4, 1975, 88 Stat. 2349, 2350; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 97–35, title XXI, §2184(a)(4), title XXIII, §2353(a), Aug. 13, 1981, 95 Stat. 816, 871; Pub. L. 99–603, title I, §121(b)(4), Nov. 6, 1986, 100 Stat. 3391; Pub. L. 103–66, title XIII, §13741(b), Aug. 10, 1993, 107 Stat. 663.)
 
 #### Repeal of Section
 
@@ -80,7 +80,7 @@ Subsec. (a)(5). Pub. L. 87–543, §101(b)(1)(B), added par. (5).
 
 Subsec. (c). Pub. L. 87–543, §101(b)(1)(C), added subsec. (c).
 
-1961—Subsec. (a)(1). Pub. L. 87–64, §303(a)(1), substituted “$31” for “$30” in subpar. (A), “$66” for “$65”in subpar. (B), and “$81” for “$80” and “$66” for “$65” in subpar. (C).
+1961—Subsec. (a)(1). Pub. L. 87–64, §303(a)(1), substituted “$31” for “$30” in subpar. (A), “$66” for “$65” in subpar. (B), and “$81” for “$80” and “$66” for “$65” in subpar. (C).
 
 Pub. L. 87–31, §5(a), substituted “$80” and “$15” for “$77” and “$12”, respectively, in subpar. (C).
 
@@ -126,7 +126,7 @@ In general.—Except as provided in paragraph (2) of this subsection, the amendm
 
 “(2)
 
-Special rule.—In the case of a State whose legislature meets biennially, and does not have a regular session scheduled in calendar year 1994, the amendments made by subsections (a) and (b) shall be effective no later than the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of enactment of this Act \[Aug. 10, 1993\].”
+Special rule.—In the case of a State whose legislature meets biennially, and does not have a regular session scheduled in calendar year 1994, the amendments made by subsections (a) and (b) shall be effective no later than the first day of the first calendar quarterbeginning after the close of the first regular session of the State legislature that begins after the date of enactment of this Act \[Aug. 10, 1993\].”
 
 #### Effective Date of 1986 Amendment
 
@@ -148,7 +148,7 @@ Section 7 of Pub. L. 93–647, as amended by Pub. L. 94–120, §3, Oct. 21, 197
 
 &emsp;“(B) the day in the twelve-month period beginning October 1, 1976,
 
-> which is the last day of the twelve-month period established by the State as its services program year underthat section. Notwithstanding the provisions of subsection (b) of section 2003 of the Social Security Act, as amended by this Act \[section 1397b(b) of this title\], the aggregate expenditures required by that subsection with respect to the first services program year of each State shall be the amount which bears the same ratio to the amount that would otherwise be required under that subsection as the number of months in the State's first services program year bears to twelve.
+> which is the last day of the twelve-month period established by the State as its services program year under that section. Notwithstanding the provisions of subsection (b) of section 2003 of the Social Security Act, as amended by this Act \[section 1397b(b) of this title\], the aggregate expenditures required by that subsection with respect to the first services program year of each State shall be the amount which bears the same ratio to the amount that would otherwise be required under that subsection as the number of months in the State's first services program year bears to twelve.
 
 “(3) Notwithstanding paragraph (1) of this subsection or section 3(f) \[set out as a note under section 1397a of this title\], payments under title IV \[subchapter IV of this chapter\] or section 2002(a)(1) of the Social Security Act \[section 1397a(a)(1) of this title\] with respect to expenditures made prior to October 1, 1978, in connection with the provision of child day care services in day care centers and group day care homes, in the case of children between the ages of six weeks and six years, may be made without regard to the requirements relating to staffing standards which are imposed by or under section 2002(a)(9)(A)(ii) of such Act \[section 1397a(a)(9)(A)(ii) of this title\], so long as the staffing standards actually being applied in the provision of the services involved (A) comply with applicable State law (as in effect at the time the services are provided), (B) are no lower than the corresponding staffing standards which were imposed or required by applicable State law on September 15, 1975, and (C) are no lower, in the case of any day care center or group day care home, than the corresponding standards actually being applied in such center or home on September 15, 1975.
 
@@ -235,10 +235,6 @@ Functions of Federal Security Administrator transferred to Secretary of Health, 
 #### Nonduplication of Payments to States: Prohibition of Payments After December 31, 1969
 
 Prohibition of payments under this subchapter to States with respect to aid or assistance in form of medical or other type of remedial care for any period for which States received payments under subchapter XIX of this chapter or for any period after Dec. 31, 1969, see section 121(b) of Pub. L. 89–97, set out as a note under section 1396b of this title.
-
-#### Cross References
-
-Navajo and Hopi Indians, additional Federal contributions in connection with rehabilitation program, see section 639 of Title 25, Indians.
 
 #### Section Referred to in Other Sections
 

@@ -6,5 +6,5 @@ Notwithstanding any other provision of law, the Secretary of Agriculture is auth
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 3152 of this title; title 16 section 460<i>lll</i>–26.
+This section is referred to in section 3152 of this title; title 16 sections 460<i>lll</i>–26, 1650.
 

@@ -10,3 +10,7 @@ In the event that compliance with provisions of this chapter would be enhanced b
 
 (Pub. L. 105–220, title I, §191, Aug. 7, 1998, 112 Stat. 1054.)
 
+#### Prior Provisions
+
+Provisions similar to this section were contained in sections 1536 and 1537 of this title prior to repeal by Pub. L. 105–220.
+

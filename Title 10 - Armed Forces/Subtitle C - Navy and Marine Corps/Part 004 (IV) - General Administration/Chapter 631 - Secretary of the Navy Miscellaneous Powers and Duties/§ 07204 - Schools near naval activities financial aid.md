@@ -50,7 +50,7 @@ In subsection (b) the words “except the authority to prescribe regulations” 
 
 1984—Pub. L. 98–525, §1401(j)(3)(B), struck out “; transportation of dependents” in section catchline.
 
-Subsec. (a). Pub. L. 98–525, §1401(j)(3)(A), substituted “The Secretary of the Navy may” for “The Secretaryof the Navy may—”, struck out “(1)” before “contribute out of”, thereby eliminating paragraph designation, redesignated cls. (A) to (D) as (1) to (4), respectively, substituted “the activity.” for “the activity; and”, and struck out par. (2), which provided for transportation between the schools and the activity when the schools are not accessible by regular means of transportation.
+Subsec. (a). Pub. L. 98–525, §1401(j)(3)(A), substituted “The Secretary of the Navy may” for “The Secretary of the Navy may—”, struck out “(1)” before “contribute out of”, thereby eliminating paragraph designation, redesignated cls. (A) to (D) as (1) to (4), respectively, substituted “the activity.” for “the activity; and”, and struck out par. (2), which provided for transportation between the schools and the activity when the schools are not accessible by regular means of transportation.
 
 1980—Subsec. (a)(1)(D). Pub. L. 96–513 substituted “National Oceanic and Atmospheric Administration” for “Environmental Science Services Administration”.
 

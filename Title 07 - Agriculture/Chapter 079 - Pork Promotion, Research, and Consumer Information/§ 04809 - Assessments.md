@@ -28,7 +28,7 @@
 
 &emsp;(B) an amount established by the Secretary based on a recommendation of the Delegate Body.
 
-(2) Except as provided in paragraph (3), the rate of assessment in the initial order may beincreased by not more than 0.1 percent per year on recommendation of the Delegate Body.
+(2) Except as provided in paragraph (3), the rate of assessment in the initial order may be increased by not more than 0.1 percent per year on recommendation of the Delegate Body.
 
 (3) The rate of assessment may not exceed 0.50 percent of such market value unless—
 

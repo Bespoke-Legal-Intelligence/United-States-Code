@@ -28,7 +28,7 @@ The Congress finds and declares that—
 
 (6) Subject to the provisions of the Religious Freedom Restoration Act (Public Law 103–141; 42 U.S.C. 2000bb–1) \[42 U.S.C. 2000bb et seq.\], this section shall not be construed to prohibit States from enacting or enforcing reasonable traffic safety laws or regulations.
 
-(7) Subject to the provisions of the Religious Freedom Restoration Act (Public Law 103–141; 42 U.S.C. 2000bb–1), this section does not prohibit the Secretary of Defense from promulgating regulations establishing reasonable limitations on the use, possession, transportation, or distribution of peyote to promote military readiness, safety, or compliance with international law or laws of other countries. Such regulations shall be adopted only after consultation with representatives of traditional Indian religions for which the sacramental use of peyote is integral to their practice.
+(7) Subject to the provisions of the Religious Freedom Restoration Act (Public Law 103–141; 42 U.S.C. 2000bb–1), this section does not prohibit the Secretary of Defense from promulgating regulations establishing reasonable limitations on the use, possession, transportation, or distribution of peyote to promote military readiness, safety, or compliance with international law or laws of other countries. Such regulations shallbe adopted only after consultation with representatives of traditional Indian religions for which the sacramental use of peyote is integral to their practice.
 
 #### (c) Definitions
 
@@ -65,4 +65,8 @@ Nothing in this section shall be construed as abrogating, diminishing, or otherw
 The Religious Freedom Restoration Act, referred to in subsec. (b)(6), (7), probably means the Religious Freedom Restoration Act of 1993, Pub. L. 103–141, Nov. 16, 1993, 107 Stat. 1488, which is classified principally to chapter 21B (§2000bb et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000bb of this title and Tables.
 
 The Alaska Native Claims Settlement Act, referred to in subsec. (c)(2), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 11701 of this title; title 16 sections 410pp–5, 410pp–6, 410aaa–75, 460uu–47, 460jjj–1, 470ii, 543f, 698v–6; title 20 sections 4424, 7902.
 

@@ -158,12 +158,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Cross References
-
-Reorganization of Executive Agencies, see Executive Order No. 6166, §§1, 2, promulgated June 10, 1933, set out as a note under section 901 of Title 5, Government Organization and Employees.
-
-Right of action for death or personal injury within national park or other place under exclusive jurisdiction of United States or governed by State laws, see section 457 of Title 16, Conservation.
-
 
 ---
 

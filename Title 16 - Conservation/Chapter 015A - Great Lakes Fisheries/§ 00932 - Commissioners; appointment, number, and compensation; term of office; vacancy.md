@@ -12,15 +12,19 @@
 
 &emsp;(B) in the event of the absence of a Commissioner from any meeting of the United States Section or the Commission.
 
+(3) Individuals serving as such Commissioners shall not be considered to be Federal employees while performing such service, except for purposes of injury compensation or tort claims liability as provided in chapter 81 of title 5 and chapter 171 of title 28.
+
 (b)(1) Except as provided in paragraph (2), the term of office of Commissioners appointed under subsection (a)(1)(B) of this section is 6 years.
 
 (2) Of the Commissioners first appointed under subsection (a)(1)(B) of this section after November 14, 1986, 1 shall be appointed for a term of 2 years, 1 shall be appointed for a term of 4 years, and 1 shall be appointed for a term of 6 years.
 
-(3) Whenever a vacancy occurs among Commissioners appointed under subsection (a)(1)(B) of this section, the President shall appoint an individual to fill that vacancy for the remainder of the applicable term.
+(3) Whenever a vacancy occurs among Commissioners appointed under subsection (a)(1)(B)of this section, the President shall appoint an individual to fill that vacancy for the remainder of the applicable term.
 
-(June 4, 1956, ch. 358, §3, 70 Stat. 242; Pub. L. 99–659, title IV, §405(a), Nov. 14, 1986, 100 Stat. 3737.)
+(June 4, 1956, ch. 358, §3, 70 Stat. 242; Pub. L. 99–659, title IV, §405(a), Nov. 14, 1986, 100 Stat. 3737; Pub. L. 106–562, title III, §301, Dec. 23, 2000, 114 Stat. 2806.)
 
 #### Amendments
+
+2000—Subsec. (a)(3). Pub. L. 106–562 added par. (3).
 
 1986—Pub. L. 99–659 amended section generally. Prior to amendment, section read as follows: “The United States shall be represented on the Commission by three Commissioners to be appointed by the President, to serve as such during his pleasure, and to receive no compensation for their services as such Commissioners. Of such Commissioners—
 

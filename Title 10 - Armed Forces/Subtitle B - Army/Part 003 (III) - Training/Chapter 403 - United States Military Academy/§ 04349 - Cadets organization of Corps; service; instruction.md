@@ -54,7 +54,3 @@ In subsection (b), the word “perform” is substituted for the words “be sub
 
 In subsection (e), the words “members of the Army” are substituted for the words “private soldier, noncommissioned officer, and officer”. The words “taught and” are omitted as surplusage.
 
-#### Cross References
-
-Nature and effects of alcoholic drinks and narcotics to be studied in the Military Academy, see section 111 et seq. of Title 20, Education.
-

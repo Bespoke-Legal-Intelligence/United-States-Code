@@ -6,9 +6,9 @@ There are authorized to be appropriated $11,000,000 for the fiscal year 1999 and
 
 #### (b) Education and training programs
 
-There are authorized to be appropriated $7,000,000 for fiscal year 1999, and such sums asmay be necessary for the 4 succeeding fiscal years, to carry out the provisions of section 1130a of this title.
+There are authorized to be appropriated $7,000,000 for fiscal year 1999, and such sums as may be necessary for the 4 succeeding fiscal years, to carry out the provisions of section 1130a of this title.
 
-(Pub. L. 89–329, title VI, §614, formerly §613, as added Pub. L. 96–374, title VI, §601(a), Oct. 3, 1980, 94 Stat. 1469; amended Pub. L. 99–498, title VI, §612, Oct. 17, 1986, 100 Stat. 1519; renumbered §614 and amended Pub. L. 100–418, title VI, §§6261(1), 6262, Aug. 23, 1988, 102 Stat. 1520, 1523; Pub. L. 101–600, §7, Nov. 16, 1990, 104 Stat. 3046; Pub. L. 102–325, title VI, §601, July 23, 1992, 106 Stat. 733; Pub. L. 105–244, title VI, §602(c), Oct. 7, 1998, 112 Stat. 1783.)
+(Pub. L. 89–329, title VI, §614, formerly §613, as added Pub. L. 96–374, title VI, §601(a), Oct. 3, 1980, 94 Stat. 1469; amended Pub. L. 99–498, title VI, §612, Oct. 17, 1986, 100 Stat. 1519; renumbered §614 and amended Pub. L. 100–418, title VI, §§6261(1), 6262, Aug. 23, 1988, 102 Stat. 1520, 1523; Pub. L. 101–600, §7, Nov. 16, 1990, 104 Stat. 3046; Pub. L. 102–325, title VI, §601, July 23, 1992, 106Stat. 733; Pub. L. 105–244, title VI, §602(c), Oct. 7, 1998, 112 Stat. 1783.)
 
 #### Amendments
 

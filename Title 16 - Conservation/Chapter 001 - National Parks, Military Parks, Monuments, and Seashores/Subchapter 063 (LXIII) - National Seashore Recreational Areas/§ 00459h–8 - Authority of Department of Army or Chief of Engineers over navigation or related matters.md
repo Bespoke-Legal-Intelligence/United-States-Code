@@ -6,5 +6,5 @@ No provision of sections 459h to 459h–10 of this title, or of any other Act ma
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 459h–1, 459h–4, 459h–5, 459h–6, 459h–9 of this title.
+This section is referred to in sections 459h, 459h–1, 459h–2, 459h–4, 459h–5, 459h–6, 459h–9 of this title.
 

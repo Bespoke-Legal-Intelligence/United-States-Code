@@ -10,7 +10,7 @@ If the applicant is found not entitled to registration, the examiner shall advis
 
 #### (c) Republication of marks registered under prior acts
 
-A registrant of a mark registered under the provisions of the Act of March 3, 1881, or the Act of February 20, 1905, may, at any time prior to the expiration of the registration thereof, upon the payment of the prescribed fee file with the Director an affidavit setting forth those goods stated in the registration on which said mark is in use in commerce and that the registrant claims the benefits of this chapter for said mark. The Director shall publish notice thereof with a reproduction of said mark in the Official Gazette, and notify the registrant of such publication and of the requirement for the affidavit of use or nonuse as provided for in subsection (b) of section 1058 of this title. Marks published under this subsection shall not be subject to the provisions of section 1063 of this title.
+A registrant of a mark registered under the provisions of the Act of March 3, 1881, or the Act of February 20, 1905, may, at any time prior tothe expiration of the registration thereof, upon the payment of the prescribed fee file with the Director an affidavit setting forth those goods stated in the registration on which said mark is in use in commerce and that the registrant claims the benefits of this chapter for said mark. The Director shall publish notice thereof with a reproduction of said mark in the Official Gazette, and notify the registrant of such publication and of the requirement for the affidavit of use or nonuse as provided for in subsection (b) of section 1058 of this title. Marks published under this subsection shall not be subject to the provisions of section 1063 of this title.
 
 (July 5, 1946, ch. 540, title I, §12, 60 Stat. 432; Pub. L. 87–772, §7, Oct. 9, 1962, 76 Stat. 770; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 100–667, title I, §113, Nov. 16, 1988, 102 Stat. 3940; Pub. L. 105–330, title I, §104, Oct. 30, 1998, 112 Stat. 3066; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583.)
 
@@ -61,12 +61,6 @@ Repeal of inconsistent provisions, effect of this chapter on pending proceedings
 #### Transfer of Functions
 
 For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Cross References
-
-Cancellation of registration, see section 1064 of this title.
-
-Supplemental register, subsec. (a) inapplicable to trademarks on, see section 1094 of this title.
 
 #### Section Referred to in Other Sections
 

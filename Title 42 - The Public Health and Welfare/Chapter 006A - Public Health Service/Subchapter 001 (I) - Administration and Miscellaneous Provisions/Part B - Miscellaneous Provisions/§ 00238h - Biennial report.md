@@ -12,6 +12,10 @@ Section was formerly classified to section 300aaa–8 of this title prior to ren
 
 1995—Pub. L. 104–66 amended section catchline and text generally. Prior to amendment, text read as follows: “The Surgeon General shall transmit to the Secretary, for submission to the Congress at the beginning of each regular session, a full report of the administration of the functions of the Service under this chapter, including a detailed statement of receipts and disbursements.”
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which item 3 on page 101 identifies a reporting provision which, as subsequently amended, is contained in this section), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set out as notes under section 1113 of Title 31, Money and Finance.
+
 #### Transfer of Functions
 
 Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.

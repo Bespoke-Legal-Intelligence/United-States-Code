@@ -14,10 +14,6 @@ Sections 463, 467, 473, and 474 of this title, referred to in text, were repeale
 
 The definitions in section 371 of this title apply to this section.
 
-#### Cross References
-
-Amendment of existing water-right contracts by Secretary of the Interior, see section 423d of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 371, 417, 493 of this title.

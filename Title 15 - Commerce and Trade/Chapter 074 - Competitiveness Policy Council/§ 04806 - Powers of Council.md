@@ -36,7 +36,7 @@ The Administrator of General Services shall provide to the Council, on a reimbur
 
 (3) Any such subcouncil shall include a representative of the Federal Government.
 
-(4) Any such subcouncil shall assess the actual or potential competitiveness problems facing the industry or the specific policy issues withwhich the subcouncil is concerned and shall formulate specific recommendations for responses by business, government, and labor—
+(4) Any such subcouncil shall assess the actual or potential competitiveness problems facing the industry or the specific policy issues with which the subcouncil is concerned and shall formulate specific recommendations for responses by business, government, and labor—
 
 &emsp;(A) to encourage adjustment and modernization of the industry involved;
 

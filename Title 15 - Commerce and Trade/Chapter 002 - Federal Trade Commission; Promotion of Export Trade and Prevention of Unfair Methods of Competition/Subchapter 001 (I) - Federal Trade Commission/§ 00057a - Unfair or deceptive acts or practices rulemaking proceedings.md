@@ -220,7 +220,7 @@ Subsec. (f)(3) to (6). Pub. L. 96–37, §1(c)(2), added par. (3) and redesignat
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Effective Date of 1994 Amendment
 
@@ -262,9 +262,9 @@ Section 22 of Pub. L. 96–252 required the Consumer Subcommittee of the Committ
 
 Section 202(c) of Pub. L. 93–637 provided that:
 
-“(1) The amendments made by subsections (a) and (b) of this section \[enacting this section and amending section 46 of this title\] shall not affect the validity of any rule which was promulgated under section 6(g) of the Federal Trade Commission Act \[section 46(g) of this title\] prior to the date of enactment of this section \[Jan. 4, 1975\]. Any proposed rule under section 6(g) of such Act with respect to which presentation of data, views, and arguments was substantially completed before such date may be promulgated in the same manner and with the same validity as such rule could have been promulgated had this section not been enacted.
+“(1) The amendments made by subsections (a) and (b) of this section \[enacting this section and amending section 46 of this title\] shall not affect the validity of any rule which was promulgated under section 6(g) of the Federal Trade Commission Act \[section 46(g) of this title\] prior to the date of enactment of this section\[Jan. 4, 1975\]. Any proposed rule under section 6(g) of such Act with respect to which presentation of data, views, and arguments was substantially completed before such date may be promulgated in the same manner and with the same validity as such rule could have been promulgated had this section not been enacted.
 
-“(2) If a rule described in paragraph (1) of this subsection is valid and if section 18 of the Federal TradeCommission Act \[this section\] would have applied to such rule had such rule been promulgated after the date of enactment of this Act, any substantive change in the rule after it has been promulgated shall be made in accordance with such section 18.”
+“(2) If a rule described in paragraph (1) of this subsection is valid and if section 18 of the Federal Trade Commission Act \[this section\] would have applied to such rule had such rule been promulgated after the date of enactment of this Act, any substantive change in the rule after it has been promulgated shall be made in accordance with such section 18.”
 
 #### Study, Evaluation, and Report by Federal Trade Commission and Administrative Conference of United States on Unfair or Deceptive Acts or Practices; Rulemaking Procedures
 
@@ -272,7 +272,7 @@ Section 202(d) of Pub. L. 93–637, as amended by Pub. L. 94–299, §2, May 29,
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 44, 45, 45a, 46, 57b–3, 2309, 2823, 5711, 5721, 6102, 6502 of this title; title 49 section 32908.
+This section is referred to in sections 44, 45, 45a, 46, 57b–3, 2309, 2823, 5711, 5721, 6102, 6502 of this title; title 12 sections 14, 247, 1827; title 49 section 32908.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

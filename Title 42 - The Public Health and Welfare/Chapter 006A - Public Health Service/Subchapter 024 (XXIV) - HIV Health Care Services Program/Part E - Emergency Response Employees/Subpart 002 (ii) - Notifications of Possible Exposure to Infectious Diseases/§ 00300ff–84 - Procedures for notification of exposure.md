@@ -14,7 +14,7 @@ If a notification under section 300ff–82 of this title or section 300ff–83(d
 
 &emsp;(1) the medical facility sending the notification shall, upon sending the notification, inform the designated officer to whom the notification is sent of the fact that the notification has been sent; and
 
-&emsp;(2) such designated officer shall, not later than 10 days after being informed by the medical facility that the notification has been sent, inform such medical facility whether thedesignated officer has received the notification.
+&emsp;(2) such designated officer shall, not later than 10 days after being informed by the medical facility that the notification has been sent, inform such medical facility whether the designated officer has received the notification.
 
 (July 1, 1944, ch. 373, title XXVI, §2684, as added Pub. L. 101–381, title IV, §411(a), Aug. 18, 1990, 104 Stat. 626; amended Pub. L. 104–146, §12(c)(10), May 20, 1996, 110 Stat. 1374.)
 

@@ -21,5 +21,5 @@ subpart i—general grant provisions”.
 - [&sect; 00300ff&#8211;27a - Spousal notification](%C2%A7%2000300ff%E2%80%9327a%20-%20Spousal%20notification.md)
 - [&sect; 00300ff&#8211;28 - Distribution of funds](%C2%A7%2000300ff%E2%80%9328%20-%20Distribution%20of%20funds.md)
 - [&sect; 00300ff&#8211;29 - Technical assistance](%C2%A7%2000300ff%E2%80%9329%20-%20Technical%20assistance.md)
-- [&sect; 00300ff&#8211;30 - Repealed. Pub. L. 104&#8211;146, &sect;6(b), May 20, 1996, 110 Stat. 1367](%C2%A7%2000300ff%E2%80%9330%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93146%2C%20%C2%A76%28b%29%2C%20May%2020%2C%201996%2C%20110%20Stat.%201367.md)
-- [&sect; 00300ff&#8211;31 - Coordination](%C2%A7%2000300ff%E2%80%9331%20-%20Coordination.md)
+- [&sect; 00300ff&#8211;30 - Supplemental grants](%C2%A7%2000300ff%E2%80%9330%20-%20Supplemental%20grants.md)
+- [&sect; 00300ff&#8211;31 - Repealed. Pub. L. 106&#8211;345, title II, &sect;207(1), Oct. 20, 2000, 114 Stat. 1337](%C2%A7%2000300ff%E2%80%9331%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93345%2C%20title%20II%2C%20%C2%A7207%281%29%2C%20Oct.%2020%2C%202000%2C%20114%20Stat.%201337.md)

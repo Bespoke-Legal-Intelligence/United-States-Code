@@ -1,5 +1,5 @@
 
-42 U.S.C.<br>United States Code, 1999 Edition<br>Title 42 - THE PUBLIC HEALTH AND WELFARE<br>From the U.S. Government Publishing Office, www.gpo.gov
+42 U.S.C.<br>United States Code, 2000 Edition<br>Title 42 - THE PUBLIC HEALTH AND WELFARE<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 42—THE PUBLIC HEALTH AND WELFARE
 
@@ -43,6 +43,7 @@
 | [<b>21.</b>](Chapter%20021%20-%20Civil%20Rights/README.md) | <b>Civil Rights</b> | <b>1981</b> |
 | [<b>21A.</b>](Chapter%20021A%20-%20Privacy%20Protection/README.md) | <b>Privacy Protection</b> | <b>2000aa</b> |
 | [<b>21B.</b>](Chapter%20021B%20-%20Religious%20Freedom%20Restoration/README.md) | <b>Religious Freedom Restoration</b> | <b>2000bb</b> |
+| [<b>21C.</b>](Chapter%20021C%20-%20Protection%20of%20Religious%20Exercise%20in%20Land%20Use%20and%20by%20Institutionalized%20Persons/README.md) | <b>Protection of Religious Exercise in Land Use and by Institutionalized Persons</b> | <b>2000cc</b> |
 | [<b>22.</b>](Chapter%20022%20-%20Indian%20Hospitals%20and%20Health%20Facilities/README.md) | <b>Indian Hospitals and Health Facilities</b> | <b>2001</b> |
 | [<b>23.</b>](Chapter%20023%20-%20Development%20and%20Control%20of%20Atomic%20Energy/README.md) | <b>Development and Control of Atomic Energy</b> | <b>2011</b> |
 | [<b>24.</b>](Chapter%20024%20-%20Disposal%20of%20Atomic%20Energy%20Communities/README.md) | <b>Disposal of Atomic Energy Communities</b> | <b>2301</b> |
@@ -101,7 +102,7 @@
 | [<b>72.</b>](Chapter%20072%20-%20Juvenile%20Justice%20and%20Delinquency%20Prevention/README.md) | <b>Juvenile Justice and Delinquency Prevention</b> | <b>5601</b> |
 | [<b>73.</b>](Chapter%20073%20-%20Development%20of%20Energy%20Sources/README.md) | <b>Development of Energy Sources</b> | <b>5801</b> |
 | [<b>74.</b>](Chapter%20074%20-%20Nonnuclear%20Energy%20Research%20and%20Development/README.md) | <b>Nonnuclear Energy Research and Development</b> | <b>5901</b> |
-| [<b>75.</b>](Chapter%20075%20-%20Programs%20for%20Individuals%20with%20Developmental%20Disabilities/README.md) | <b>Programs for Individuals With Developmental Disabilities</b> | <b>6000</b> |
+| [<b>75.</b>](Chapter%20075%20-%20Programs%20for%20Individuals%20with%20Developmental%20Disabilities/README.md) | <b>Programs for Individuals With Developmental Disabilities \[Repealed\]</b> | <b>6000</b> |
 | [<b>76.</b>](Chapter%20076%20-%20Age%20Discrimination%20in%20Federally%20Assisted%20Programs/README.md) | <b>Age Discrimination in Federally Assisted Programs</b> | <b>6101</b> |
 | [<b>77.</b>](Chapter%20077%20-%20Energy%20Conservation/README.md) | <b>Energy Conservation</b> | <b>6201</b> |
 | [<b>78.</b>](Chapter%20078%20-%20National%20Petroleum%20Reserve%20in%20Alaska/README.md) | <b>National Petroleum Reserve in Alaska</b> | <b>6501</b> |
@@ -111,7 +112,7 @@
 | [<b>82.</b>](Chapter%20082%20-%20Solid%20Waste%20Disposal/README.md) | <b>Solid Waste Disposal</b> | <b>6901</b> |
 | [<b>83.</b>](Chapter%20083%20-%20Energy%20Extension%20Service/README.md) | <b>Energy Extension Service</b> | <b>7001</b> |
 | [<b>84.</b>](Chapter%20084%20-%20Department%20of%20Energy/README.md) | <b>Department of Energy</b> | <b>7101</b> |
-| <b>85.</b> | <b>Air Pollution Prevention and Control</b> | <b>7401</b> |
+| [<b>85.</b>](Chapter%20085%20-%20Air%20Pollution%20Prevention%20and%20Control/README.md) | <b>Air Pollution Prevention and Control</b> | <b>7401</b> |
 | [<b>86.</b>](Chapter%20086%20-%20Earthquake%20Hazards%20Reduction/README.md) | <b>Earthquake Hazards Reduction</b> | <b>7701</b> |
 | [<b>87.</b>](Chapter%20087%20-%20Water%20Research%20and%20Development/README.md) | <b>Water Research and Development \[Repealed or Transferred\]</b> | <b>7801</b> |
 | [<b>88.</b>](Chapter%20088%20-%20Uranium%20Mill%20Tailings%20Radiation%20Control/README.md) | <b>Uranium Mill Tailings Radiation Control</b> | <b>7901</b> |
@@ -168,7 +169,11 @@
 | [<b>138.</b>](Chapter%20138%20-%20Assisted%20Suicide%20Funding%20Restriction/README.md) | <b>Assisted Suicide Funding Restriction</b> | <b>14401</b> |
 | [<b>139.</b>](Chapter%20139%20-%20Volunteer%20Protection/README.md) | <b>Volunteer Protection</b> | <b>14501</b> |
 | [<b>140.</b>](Chapter%20140%20-%20Criminal%20Justice%20Identification%2C%20Information%2C%20and%20Communication/README.md) | <b>Criminal Justice Identification, Information, and Communication</b> | <b>14601</b> |
+| [<b>140A.</b>](Chapter%20140A%20-%20Jennifer%27s%20Law/README.md) | <b>Jennifer's Law</b> | <b>14664</b> |
 | [<b>141.</b>](Chapter%20141%20-%20Commercial%20Space%20Opportunities%20and%20Transportation%20Services/README.md) | <b>Commercial Space Opportunities and Transportation Services</b> | <b>14701</b> |
+| [<b>142.</b>](Chapter%20142%20-%20Poison%20Control%20Center%20Enhancement%20and%20Awareness/README.md) | <b>Poison Control Center Enhancement and Awareness</b> | <b>14801</b> |
+| [<b>143.</b>](Chapter%20143%20-%20Intercountry%20Adoptions/README.md) | <b>Intercountry Adoptions</b> | <b>14901</b> |
+| [<b>144.</b>](Chapter%20144%20-%20Developmental%20Disabilities%20Assistance%20and%20Bill%20of%20Rights/README.md) | <b>Developmental Disabilities Assistance and Bill of Rights</b> | <b>15001</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -215,6 +220,7 @@
 - [Chapter 021 - Civil Rights](Chapter%20021%20-%20Civil%20Rights/README.md)
 - [Chapter 021A - Privacy Protection](Chapter%20021A%20-%20Privacy%20Protection/README.md)
 - [Chapter 021B - Religious Freedom Restoration](Chapter%20021B%20-%20Religious%20Freedom%20Restoration/README.md)
+- [Chapter 021C - Protection of Religious Exercise in Land Use and by Institutionalized Persons](Chapter%20021C%20-%20Protection%20of%20Religious%20Exercise%20in%20Land%20Use%20and%20by%20Institutionalized%20Persons/README.md)
 - [Chapter 022 - Indian Hospitals and Health Facilities](Chapter%20022%20-%20Indian%20Hospitals%20and%20Health%20Facilities/README.md)
 - [Chapter 023 - Development and Control of Atomic Energy](Chapter%20023%20-%20Development%20and%20Control%20of%20Atomic%20Energy/README.md)
 - [Chapter 024 - Disposal of Atomic Energy Communities](Chapter%20024%20-%20Disposal%20of%20Atomic%20Energy%20Communities/README.md)
@@ -340,4 +346,8 @@
 - [Chapter 138 - Assisted Suicide Funding Restriction](Chapter%20138%20-%20Assisted%20Suicide%20Funding%20Restriction/README.md)
 - [Chapter 139 - Volunteer Protection](Chapter%20139%20-%20Volunteer%20Protection/README.md)
 - [Chapter 140 - Criminal Justice Identification, Information, and Communication](Chapter%20140%20-%20Criminal%20Justice%20Identification%2C%20Information%2C%20and%20Communication/README.md)
+- [Chapter 140A - Jennifer's Law](Chapter%20140A%20-%20Jennifer%27s%20Law/README.md)
 - [Chapter 141 - Commercial Space Opportunities and Transportation Services](Chapter%20141%20-%20Commercial%20Space%20Opportunities%20and%20Transportation%20Services/README.md)
+- [Chapter 142 - Poison Control Center Enhancement and Awareness](Chapter%20142%20-%20Poison%20Control%20Center%20Enhancement%20and%20Awareness/README.md)
+- [Chapter 143 - Intercountry Adoptions](Chapter%20143%20-%20Intercountry%20Adoptions/README.md)
+- [Chapter 144 - Developmental Disabilities Assistance and Bill of Rights](Chapter%20144%20-%20Developmental%20Disabilities%20Assistance%20and%20Bill%20of%20Rights/README.md)

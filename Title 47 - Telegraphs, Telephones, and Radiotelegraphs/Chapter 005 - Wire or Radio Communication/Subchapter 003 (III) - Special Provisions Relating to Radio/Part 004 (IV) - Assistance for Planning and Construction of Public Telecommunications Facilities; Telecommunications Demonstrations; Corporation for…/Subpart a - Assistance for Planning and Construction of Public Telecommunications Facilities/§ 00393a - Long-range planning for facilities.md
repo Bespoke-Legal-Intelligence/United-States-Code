@@ -4,7 +4,7 @@
 
 (b) Repealed. Pub. L. 104–66, title I, §1021(a), Dec. 21, 1995, 109 Stat. 712.
 
-(June 19, 1934, ch. 652, title III, §393A, formerly §396, as added Pub. L. 87–447, May 1, 1962, 76 Stat. 67; renumbered §394 and amended Pub. L. 90–129, title II, §201(2), (4), Nov. 7, 1967, 81 Stat. 367; Pub. L. 95–567, title I, §105, Nov. 2, 1978, 92 Stat. 2409; renumbered §393A, Pub. L. 101–437, title II, §203(a)(1), Oct. 18, 1990, 104 Stat. 998; Pub. L. 104–66, title I, §1021(a), Dec. 21, 1995, 109 Stat. 712.)
+(June 19, 1934, ch. 652, title III, §393A, formerly §396, as added Pub. L. 87–447, May 1, 1962, 76 Stat. 67; renumbered §394 and amended Pub. L. 90–129, title II, §201(2), (4), Nov. 7, 1967, 81 Stat. 367; Pub. L. 95–567, title I, §105, Nov. 2, 1978, 92 Stat. 2409; renumbered §393A, Pub. L. 101–437, title II, §203(a)(1), Oct. 17, 1990, 104 Stat. 998; Pub. L. 104–66, title I, §1021(a), Dec. 21, 1995, 109 Stat. 712.)
 
 #### Amendments
 

@@ -60,7 +60,7 @@ Amendment by act Aug. 2, 1946, effective Aug. 2, 1946, see section 245 of that a
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1022a, 1022d, 1022e, 3116, 3132 of this title; title 2 sections 632, 636; title 12 section 225a.
+This section is referred to in sections 1022a, 1022d, 1022e, 3116, 3132 of this title; title 2 sections 632, 636.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “is”.</i>
 

@@ -2,13 +2,13 @@
 
 (a)
 
-Corporate Status.—The corporation shall maintain its status as a corporation incorporated under the laws of Delaware.
+Corporate Status.—The corporation shall maintain its status as a corporation incorporated under the laws of Pennsylvania.
 
 (b)
 
 Tax-Exempt Status.—The corporation shall maintain its status as an organization exempt from taxation under the Internal Revenue Code of 1986 (26 U.S.C. 1 et seq.).
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1348.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1348; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(g)(4)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–294.)
 
 Historical and Revision Notes
 
@@ -33,4 +33,8 @@ Sept. 23, 1996, Pub. L. 104–201, title XVIII, §§1808(e), 1814 (related to du
 &nbsp;
 
 In subsection (a), the words “organized and” and “the State of” are omitted as unnecessary.
+
+#### Amendments
+
+2000—Subsec. (a). Pub. L. 106–398 substituted “Pennsylvania” for “Delaware”.
 

@@ -14,7 +14,7 @@
 
 #### (B) Priority consideration
 
-&emsp;&emsp;The Administrator shall give priority consideration under this section to Long Island Sound, New York and Connecticut; Narragansett Bay, Rhode Island; Buzzards Bay, Massachusetts; Massachusetts Bay, Massachusetts (including Cape Cod Bay and Boston Harbor); Puget Sound, Washington; New York-New Jersey Harbor, New York and New Jersey; Delaware Bay, Delaware and New Jersey; Delaware Inland Bays, Delaware; Albemarle Sound, North Carolina; Sarasota Bay, Florida; San Francisco Bay, California; Santa Monica Bay, California; Galveston Bay, Texas; Barataria-Terrebonne Bay estuary complex, Louisiana; Indian River Lagoon, Florida; and Peconic Bay, New York.
+&emsp;&emsp;The Administrator shall give priority consideration under this section to Long Island Sound, New York and Connecticut; Narragansett Bay, Rhode Island; Buzzards Bay, Massachusetts; Massachusetts Bay, Massachusetts (including Cape Cod Bay and Boston Harbor); Puget Sound, Washington; New York-New Jersey Harbor, New York and New Jersey; Delaware Bay, Delaware and New Jersey; Delaware Inland Bays, Delaware; Albemarle Sound, North Carolina; Sarasota Bay, Florida; San Francisco Bay, California; Santa Monica Bay, California; Galveston Bay, Texas; Barataria-Terrebonne Bay estuary complex, Louisiana; Indian River Lagoon, Florida; Lake Pontchartrain Basin, Louisiana and Mississippi; and Peconic Bay, New York.
 
 #### (3) Boundary dispute exception
 
@@ -80,11 +80,19 @@ A management conference convened under this section shall be convened for a peri
 
 #### (2) Purposes
 
-&emsp;Grants under this subsection shall be made to pay for assisting research, surveys, studies, and modeling and other technical work necessary for the development of a conservation and management plan under this section.
+&emsp;Grants under this subsection shall be made to pay for activities necessary for the development and implementation of a comprehensive conservation and management plan under this section.
 
 #### (3) Federal share
 
-&emsp;The amount of grants to any person (including a State, interstate, or regional agency or entity) under this subsection for a fiscal year shall not exceed 75 percent of the costs of such research, survey, studies, and work and shall be made on condition that the non-Federal share of such costs are provided from non-Federal sources.
+&emsp;The Federal share of a grant to any person (including a State, interstate, or regional agency or entity) under this subsection for a fiscal year—
+
+&emsp;&emsp;(A) shall not exceed—
+
+&emsp;&emsp;&emsp;(i) 75 percent of the annual aggregate costs of the development of a comprehensive conservation and management plan; and
+
+&emsp;&emsp;&emsp;(ii) 50 percent of the annual aggregate costs of the implementation of the plan; and
+
+&emsp;&emsp;(B) shall be made on condition that the non-Federal share of the costs are provided from non-Federal sources.
 
 #### (h) Grant reporting
 
@@ -92,7 +100,7 @@ Any person (including a State, interstate, or regional agency or entity) that re
 
 #### (i) Authorization of appropriations
 
-There are authorized to be appropriated to the Administrator not to exceed $12,000,000 per fiscal year for each of fiscal years 1987, 1988, 1989, 1990, and 1991 for—
+There are authorized to be appropriated to the Administrator not to exceed $35,000,000 for each of fiscal years 2001 through 2005 for—
 
 &emsp;(1) expenses related to the administration of management conferences under this section, not to exceed 10 percent of the amount appropriated under this subsection;
 
@@ -106,7 +114,7 @@ There are authorized to be appropriated to the Administrator not to exceed $12,0
 
 #### (1) Programs
 
-&emsp;In order to determine the need to convene a management conference under this section or at the request of such a management conference, the Administrator shall coordinateand implement, through the National Marine Pollution Program Office and the National Marine Fisheries Service of the National Oceanic and Atmospheric Administration, as appropriate, for one or more estuarine zones—
+&emsp;In order to determine the need to convene a management conference under this section or at the request of such a management conference, the Administrator shall coordinate and implement, through the National Marine Pollution Program Office and the National Marine Fisheries Service of the National Oceanic and Atmospheric Administration, as appropriate, for one or more estuarine zones—
 
 &emsp;&emsp;(A) a long-term program of trend assessment monitoring measuring variations in pollutant concentrations, marine ecology, and other physical or biological environmental parameters which may affect estuarine zones, to provide the Administrator the capacity to determine the potential and actual effects of alternative management strategies and measures;
 
@@ -116,29 +124,37 @@ There are authorized to be appropriated to the Administrator not to exceed $12,0
 
 &emsp;&emsp;(D) a program of research to identify the movements of nutrients, sediments and pollutants through estuarine zones and the impact of nutrients, sediments, and pollutants on water quality, the ecosystem, and designated or potential uses of the estuarine zones.
 
-#### (2) Reports
-
-&emsp;The Administrator, in cooperation with the Administrator of the National Oceanic and Atmospheric Administration, shall submit to the Congress no less often than biennially a comprehensive report on the activities authorized under this subsection including—
-
-&emsp;&emsp;(A) a listing of priority monitoring and research needs;
-
-&emsp;&emsp;(B) an assessment of the state and health of the Nation's estuarine zones, to the extent evaluated under this subsection;
-
-&emsp;&emsp;(C) a discussion of pollution problems and trends in pollutant concentrations with a direct or indirect effect on water quality, the ecosystem, and designated or potential uses of each estuarine zone, to the extent evaluated under this subsection; and
-
-&emsp;&emsp;(D) an evaluation of pollution abatement activities and management measures so far implemented to determine the degree of improvement toward the objectives expressed in subsection (b)(4) of this section.
+#### (2) Omitted
 
 #### (k) Definitions
 
 For purposes of this section, the terms “estuary” and “estuarine zone” have the meanings such terms have in section 1254(n)(3) of this title, except that the term “estuarine zone” shall also include associated aquatic ecosystems and those portions of tributaries draining into the estuary up to the historic height of migration of anadromous fish or the historic head of tidal influence, whichever is higher.
 
-(June 30, 1948, ch. 758, title III, §320, as added Pub. L. 100–4, title III, §317(b), Feb. 4, 1987, 101 Stat. 61; amended Pub. L. 100–202, §101(f) \[title II, 201\], Dec. 22, 1987, 101 Stat. 1329–187, 1329–197; Pub. L. 100–653, title X, §1004, Nov. 14, 1988, 102 Stat. 3836; Pub. L. 100–688, title II, §2001, Nov. 18, 1988, 102 Stat. 4151; Pub. L. 105–362, title V, §501(a)(2), Nov. 10, 1998, 112 Stat. 3283.)
+(June 30, 1948, ch. 758, title III, §320, as added Pub. L. 100–4, title III, §317(b), Feb. 4, 1987, 101 Stat. 61; amended Pub. L. 100–202, §101(f) \[title II, 201\], Dec. 22, 1987, 101 Stat. 1329–187, 1329–197; Pub. L. 100–653, title X, §1004, Nov. 14, 1988, 102 Stat. 3836; Pub. L. 100–688, title II, §2001, Nov. 18, 1988, 102 Stat. 4151; Pub. L. 105–362, title V, §501(a)(2), Nov. 10, 1998, 112 Stat. 3283; Pub. L. 106–457, title III, §§301—303, Nov. 7, 2000, 114 Stat. 1972.)
 
 #### References in Text
 
 Executive Order 12372, referred to in subsec. (b), is Ex. Ord. No. 12372, July 14, 1982, 47 F.R. 30959, as amended, which is set out under section 6506 of Title 31, Money and Finance.
 
+#### Codification
+
+Subsec. (j)(2) of this section, which required the Administrator, in cooperation with the Administrator of the National Oceanic and Atmospheric Administration, to submit to Congress no less often than biennially a comprehensive report on activities authorized under subsec. (j) of this section, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 162 of House Document No. 103–7.
+
 #### Amendments
+
+2000—Subsec. (a)(2)(B). Pub. L. 106–457, §301, inserted “Lake Pontchartrain Basin, Louisiana and Mississippi;” before “and Peconic Bay, New York.”
+
+Subsec. (g)(2), (3). Pub. L. 106–457, §302, added pars. (2) and (3) and struck out former pars. (2) and (3) which read as follows:
+
+“(2)
+
+Purposes.—Grants under this subsection shall be made to pay for assisting research, surveys, studies, and modeling and other technical work necessary for the development of a conservation and management plan under this section.
+
+“(3)
+
+Federal share.—The amount of grants to any person (including a State, interstate, or regional agency or entity) under this subsection for a fiscal year shall not exceed 75 percent of the costs of such research, survey, studies, and work and shall be made on condition that the non-Federal share of such costs are provided from non-Federal sources.”
+
+Subsec. (i). Pub. L. 106–457, §303, substituted “$35,000,000 for each of fiscal years 2001 through 2005” for “$12,000,000 per fiscal year for each of fiscal years 1987, 1988, 1989, 1990, and 1991”.
 
 1998—Subsec. (k). Pub. L. 105–362 substituted “section 1254(n)(3)” for “section 1254(n)(4)”.
 
@@ -188,7 +204,7 @@ Purpose.—The purpose of this title is to protect and enhance the environmental
 
 #### “SEC. 1005. FUNDING SOURCES.
 
-“Within one year of enactment \[Nov. 14, 1988\], the Administrator of the United States Environmental Protection Agency and the Governor of Massachusetts shall undertake to identify and make available sources of funding to support activities pertaining to Massachusetts Bay undertaken pursuant to or authorized by section 320 of the Clean Water Act \[33 U.S.C. 1330\], and shall make every effort to coordinate existing research, monitoring or control efforts with such activities.”
+“Within one year of enactment \[Nov. 14, 1988\], the Administrator of the United States Environmental Protection Agency and the Governor of Massachusetts shall undertake to identify and make available sources of funding to support activities pertaining to Massachusetts Bay undertaken pursuant to or authorized bysection 320 of the Clean Water Act \[33 U.S.C. 1330\], and shall make every effort to coordinate existing research, monitoring or control efforts with such activities.”
 
 #### Purposes and Policies of National Estuary Program
 
@@ -222,5 +238,5 @@ Purposes.—The purposes of this section \[enacting this section\] are to—
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1269, 1270, 1285, 1381, 1383, 1386, 1414b of this title; title 16 sections 1447c, 1455b; title 42 section 7412.
+This section is referred to in sections 1269, 1270, 1273, 1285, 1381, 1383, 1386, 1414b, 2902 of this title; title 16 sections 1447c, 1455b; title 42 section 7412.
 

@@ -24,3 +24,7 @@ Section 5301 of Pub. L. 102–587 provided that: “This subtitle \[subtitle C (
 
 Section 5303 of title V of Pub. L. 102–587 provided that: “Chapter 47 of title 46, United States Code, as added by subsection (a) \[section 5302\], does not apply to a barge abandoned before June 11, 1992, if the barge was removed before the date that is 1 year after the date of enactment of this title \[Nov. 4, 1992\].”
 
+#### Territorial Sea of United States
+
+For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
+

@@ -20,7 +20,7 @@
 
 &emsp;(1) demonstration by 1986 of at least one hundred megawatts of electrical capacity or energy product equivalent from ocean thermal energy conversion systems;
 
-&emsp;(2) demonstration by 1989 of at least five hundred megawatts of electrical capacity orenergy product equivalent from ocean thermal energy conversion systems;
+&emsp;(2) demonstration by 1989 of at least five hundred megawatts of electrical capacity or energy product equivalent from ocean thermal energy conversion systems;
 
 &emsp;(3) achievement in the mid-1990's, for the gulf coast region of the continental United States and for islands in the United States, its possessions and its territories, an average cost of electricity or energy product equivalent produced by installed ocean thermal energy conversion systems that is competitive with conventional energy sources; and
 

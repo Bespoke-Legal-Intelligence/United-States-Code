@@ -4,7 +4,3 @@ The President is hereby authorized to accept membership for the United States in
 
 (July 31, 1945, ch. 342, §1, 59 Stat. 529.)
 
-#### Cross References
-
-Bretton Woods Agreement Act, see sections 286 to 286b, 286c to 286k–1 of this title.
-

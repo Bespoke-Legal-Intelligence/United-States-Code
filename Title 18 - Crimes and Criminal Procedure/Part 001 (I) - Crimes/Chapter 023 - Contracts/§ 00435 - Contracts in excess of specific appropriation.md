@@ -20,13 +20,5 @@ Changes were also made in phraseology.
 
 1994—Pub. L. 103–322, which directed the amendment of this section by substituting “fined under this title” for “fined not more than $5,000”, was executed by making the substitution for “fined not more than $1,000”, to reflect the probable intent of Congress.
 
-#### Cross References
-
-Appropriations as limiting contracts, see sections 11, 12 of Title 41, Public Contracts.
-
-Construction of appropriation acts, see section 1301 of Title 31, Money and Finance.
-
-Removal from office and punishment by fine or imprisonment for expenditures in excess of appropriations, see sections 1517, 1518 of Title 31.
-
 <i><sup>1</sup></i><i> See 1994 Amendment note below.</i>
 

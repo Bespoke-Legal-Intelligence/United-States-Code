@@ -1,0 +1,52 @@
+### §2301. Findings
+
+Congress finds that—
+
+&emsp;(1) the Bureau of Land Management has authority under the Federal Land Policy andManagement Act of 1976 (43 U.S.C. 1701 et seq.) to sell land identified for disposal under its land use planning;
+
+&emsp;(2) the Bureau of Land Management has authority under that Act to exchange Federal land for non-Federal land if the exchange would be in the public interest;
+
+&emsp;(3) through land use planning under that Act, the Bureau of Land Management has identified certain tracts of public land for disposal;
+
+&emsp;(4) the Federal land management agencies of the Departments of the Interior and Agriculture have authority under existing law to acquire land consistent with the mission of each agency;
+
+&emsp;(5) the sale or exchange of land identified for disposal and the acquisition of certain non-Federal land from willing landowners would—
+
+&emsp;&emsp;(A) allow for the reconfiguration of land ownership patterns to better facilitate resource management;
+
+&emsp;&emsp;(B) contribute to administrative efficiency within Federal land management units; and
+
+&emsp;&emsp;(C) allow for increased effectiveness of the allocation of fiscal and human resources within the Federal land management agencies;
+
+&emsp;(6) a more expeditious process for disposal and acquisition of land, established to facilitate a more effective configuration of land ownership patterns, would benefit the public interest;
+
+&emsp;(7) many private individuals own land within the boundaries of Federal land management units and desire to sell the land to the Federal Government;
+
+&emsp;(8) such land lies within national parks, national monuments, national wildlife refuges, national forests, and other areas designated for special management;
+
+&emsp;(9) Federal land management agencies are facing increased workloads from rapidly growing public demand for the use of public land, making it difficult for Federal managers to address problems created by the existence of inholdings in many areas;
+
+&emsp;(10) in many cases, inholders and the Federal Government would mutually benefit from Federal acquisition of the land on a priority basis;
+
+&emsp;(11) proceeds generated from the disposal of public land may be properly dedicated to the acquisition of inholdings and other land that will improve the resource management ability of the Federal land management agencies and adjoining landowners;
+
+&emsp;(12) using proceeds generated from the disposal of public land to purchase inholdings and other such land from willing sellers would enhance the ability of the Federal land management agencies to—
+
+&emsp;&emsp;(A) work cooperatively with private landowners and State and local governments; and
+
+&emsp;&emsp;(B) promote consolidation of the ownership of public and private land in a manner that would allow for better overall resource management;
+
+&emsp;(13) in certain locations, the sale of public land that has been identified for disposal is the best way for the public to receive fair market value for the land; and
+
+&emsp;(14) to allow for the least disruption of existing land and resource management programs, the Bureau of Land Management may use non-Federal entities to prepare appraisal documents for agency review and approval consistent with applicable provisions of the Uniform Standards for Federal Land Acquisition.
+
+(Pub. L. 106–248, title II, §202, July 25, 2000, 114 Stat. 613.)
+
+#### References in Text
+
+The Federal Land Policy and Management Act of 1976, referred to in pars. (1) to (3), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§1701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of this title and Tables.
+
+#### Short Title
+
+Pub. L. 106–248, title II, §201, July 25, 2000, 114 Stat. 613, provided that: “This title \[enacting this chapter\] may be cited as the ‘Federal Land Transaction Facilitation Act’.”
+

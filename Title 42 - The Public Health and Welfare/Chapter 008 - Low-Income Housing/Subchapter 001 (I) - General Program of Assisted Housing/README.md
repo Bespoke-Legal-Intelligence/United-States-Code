@@ -48,5 +48,5 @@ This subchapter is referred to in sections 608a, 1437bbb–5, 3535 of this title
 - [&sect; 01437z&#8211;3 - Pet ownership in public housing](%C2%A7%2001437z%E2%80%933%20-%20Pet%20ownership%20in%20public%20housing.md)
 - [&sect; 01437z&#8211;4 - Resident homeownership programs](%C2%A7%2001437z%E2%80%934%20-%20Resident%20homeownership%20programs.md)
 - [&sect; 01437z&#8211;5 - Required conversion of distressed public housing to tenant-based assistance](%C2%A7%2001437z%E2%80%935%20-%20Required%20conversion%20of%20distressed%20public%20housing%20to%20tenant-based%20assistance.md)
-- [&sect; 01437z&#8211;6 - Services for public housing residents](%C2%A7%2001437z%E2%80%936%20-%20Services%20for%20public%20housing%20residents.md)
+- [&sect; 01437z&#8211;6 - Services for public and Indian housing residents](%C2%A7%2001437z%E2%80%936%20-%20Services%20for%20public%20and%20Indian%20housing%20residents.md)
 - [&sect; 01437z&#8211;7 - Mixed-finance public housing](%C2%A7%2001437z%E2%80%937%20-%20Mixed-finance%20public%20housing.md)

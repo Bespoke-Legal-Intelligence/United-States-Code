@@ -26,13 +26,13 @@ It shall be unlawful for any registered holding company or subsidiary company th
 
 #### (g) Negotiations or transactions by affiliate in contravention of rules and regulations of Commission
 
-It shall be unlawful for any affiliate of any public-utility company, by use of the mails or any means or instrumentality of interstate commerce, or for any affiliate of any public-utility company engaged in interstate commerce, or of any registered holding company or any subsidiary company thereof, by use of the mails or any means or instrumentality of interstate commerce, or otherwise, to negotiate, enter into, or take any step in the performance of any transaction not otherwise unlawful under this chapter, with any such company of which it is an affiliate, in contravention of such rules and regulations or orders regarding reports, accounts, costs, maintenance of competitive conditions, disclosure of interest, duration of contracts, and similar matters as the Commission deems necessary or appropriate to prevent the circumvention of the provisions of this chapter.
+It shall be unlawful for any affiliate of any public-utility company, by use of the mails orany means or instrumentality of interstate commerce, or for any affiliate of any public-utility company engaged in interstate commerce, or of any registered holding company or any subsidiary company thereof, by use of the mails or any means or instrumentality of interstate commerce, or otherwise, to negotiate, enter into, or take any step in the performance of any transaction not otherwise unlawful under this chapter, with any such company of which it is an affiliate, in contravention of such rules and regulations or orders regarding reports, accounts, costs, maintenance of competitive conditions, disclosure of interest, duration of contracts, and similar matters as the Commission deems necessary or appropriate to prevent the circumvention of the provisions of this chapter.
 
 #### (h) Political contributions forbidden
 
 It shall be unlawful for any registered holding company, or any subsidiary company thereof, by use of the mails or any means or instrumentality of interstate commerce, or otherwise, directly or indirectly—
 
-&emsp;(1) to make any contribution whatsoever in connection with the candidacy, nomination,election or appointment of any person for or to any office or position in the Government of the United States, a State, or any political subdivision of a State, or any agency, authority, or instrumentality of any one or more of the foregoing; or
+&emsp;(1) to make any contribution whatsoever in connection with the candidacy, nomination, election or appointment of any person for or to any office or position in the Government of the United States, a State, or any political subdivision of a State, or any agency, authority, or instrumentality of any one or more of the foregoing; or
 
 &emsp;(2) to make any contribution to or in support of any political party or any committee or agency thereof.
 

@@ -6,7 +6,7 @@ The Secretary <sup>1</sup> acting through the National Institute on Drug Abuse,
 
 &emsp;(1) to provide training seminars, educational programs, and technical assistance for the development, demonstration, and evaluation of drug abuse prevention, treatment, and rehabilitation programs; and
 
-&emsp;(2) to conduct demonstration and evaluation projects, with a high priority on preventionand early intervention projects and on identifying new and more effective drug abuse prevention, treatment, and rehabilitation programs.
+&emsp;(2) to conduct demonstration and evaluation projects, with a high priority on prevention and early intervention projects and on identifying new and more effective drug abuse prevention, treatment, and rehabilitation programs.
 
 > In the implementation of his authority under this section, the Secretary shall accord a high priority to applications for grants or contracts for primary prevention programs. For purposes of the preceding sentence, primary prevention programs include programs designed to discourage persons from beginning drug abuse. To the extent that appropriations authorized under this section are used to fund treatment services, the Secretary shall not limit such funding to treatment for opiate abuse, but shall also provide support for treatment for non-opiate drug abuse including polydrug abuse. Furthermore, nothing shall prevent the use of funds provided under this section for programs and projects aimed at the prevention, treatment, and rehabilitation of alcohol abuse and alcoholism as well as drug abuse.
 
@@ -22,7 +22,7 @@ There are authorized to be appropriated $25,000,000 for the fiscal year ending J
 
 (3) Approval of any application for a grant or contract under this section by the Secretary, including the earmarking of financial assistance for a program or project, may be granted only if the application substantially meets a set of criteria that—
 
-&emsp;(A) provide that the activities and services for which assistance under this section is sought will be substantially administered by or under the supervision of the applicant;
+&emsp;(A) provide that the activities and services for which assistance under this section issought will be substantially administered by or under the supervision of the applicant;
 
 &emsp;(B) provide for such methods of administration as are necessary for the proper and efficient operation of such programs or projects; and
 

@@ -31,7 +31,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in title 7 section 5903; title 20 section 3463; title 42 sections 2000e–6, 3534, 7176, 8401, 8819; title 49 sections 103, 104, 106, 703.
+This chapter is referred to in title 7 section 5903; title 20 section 3463; title 42 sections 2000e–6, 3534, 7176, 8401, 8819; title 49 sections 103, 106, 703.
 
 <i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 

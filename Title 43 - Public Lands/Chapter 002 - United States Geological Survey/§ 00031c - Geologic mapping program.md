@@ -48,7 +48,7 @@ The objectives of the geologic mapping program shall include—
 
 &emsp;(1) determining the Nation's geologic framework through systematic development of geologic maps at scales appropriate to the geologic setting and the perceived applications, such maps to be contributed to the national geologic map data base;
 
-&emsp;(2) development of a complementary national geophysical-map data base, geochemical-map data base, and a geochronologic and paleontologic data base that provide value-added descriptive and interpretative information to the geologic-map data base;
+&emsp;(2) development of a complementary national geophysical-map data base, geochemical-map data base, and a geochronologic and paleontologic data base that providevalue-added descriptive and interpretative information to the geologic-map data base;
 
 &emsp;(3) application of cost-effective mapping techniques that assemble, produce, translate and disseminate geologic-map information and that render such information of greater application and benefit to the public; and
 
@@ -148,7 +148,7 @@ The objectives of the geologic mapping program shall include—
 
 #### (C) Use of funds
 
-&emsp;&emsp;The Survey and recipients of grants under the education component shall not use more than 15.25 percent of the Federal funds made available under the education component for any fiscal year to pay indirect, servicing, or program management charges.
+&emsp;&emsp;The Survey and recipients of grants under the education component shall not use morethan 15.25 percent of the Federal funds made available under the education component for any fiscal year to pay indirect, servicing, or program management charges.
 
 #### (D) Federal share
 

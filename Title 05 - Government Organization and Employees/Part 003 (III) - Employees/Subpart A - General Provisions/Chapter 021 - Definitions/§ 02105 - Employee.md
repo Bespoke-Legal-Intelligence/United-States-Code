@@ -160,7 +160,7 @@ Section 7202(m) of Pub. L. 101–508 provided that:
 
 &emsp;“(B) moves without a break in service from employment in the Department of Defense or the Coast Guard that is not described in such section 2105(c) to employment in a nonappropriated fund instrumentality of the Department of Defense or the Coast Guard, respectively, that is described in such section 2105(c).
 
-“(2) The Secretary of Defense, the Secretary of Transportation, the Director of the Office of PersonnelManagement, and the Executive Director of the Federal Retirement Thrift Investment Board, as applicable, shall take such actions as may be practicable to ensure that each individual who has moved as described under paragraph (1) on or after January 1, 1987, and before the date of enactment of this Act \[Nov. 5, 1990\], receives the benefit of the amendments made by this section as if such amendments had been in effect at the time such individual so moved. Each such individual who wishes to make an election of retirement coverage under the amendments made by subsection (j) or (k) of this section \[amending sections 8331, 8347, 8401, and 8461 of this title\] shall complete such election within 180 days after the date of enactment of this Act.”
+“(2) The Secretary of Defense, the Secretary of Transportation, the Director of the Office of Personnel Management, and the Executive Director of the Federal Retirement Thrift Investment Board, as applicable, shall take such actions as may be practicable to ensure that each individual who has moved as described under paragraph (1) on or after January 1, 1987, and before the date of enactment of this Act \[Nov. 5, 1990\], receives the benefit of the amendments made by this section as if such amendments had been in effect at the time such individual so moved. Each such individual who wishes to make an election of retirement coverage under the amendments made by subsection (j) or (k) of this section \[amending sections 8331, 8347, 8401, and 8461 of this title\] shall complete such election within 180 days after the date of enactment of this Act.”
 
 #### Effective Date of 1986 Amendment
 
@@ -206,9 +206,9 @@ Section 7202(n) of Pub. L. 101–508, as amended by Pub. L. 102–378, §5(a)(2)
 
 #### Prohibition of Decrease in Basic Pay Rate of Employees of Nonappropriated Fund Instrumentalities
 
-Amendments by Pub. L. 92–392 not to decrease basic pay rate of subsec. (c) employees in service before effective date of the amendments as to such employees, see section 9(a)(2) of Pub. L. 92–392, set out as a note under section 5343 of this title.
+Amendments by Pub. L. 92–392 not to decrease basic pay rate of subsec. (c) employees in service before effective date of the amendments as to such employees, seesection 9(a)(2) of Pub. L. 92–392, set out as a note under section 5343 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3502, 5334, 5335, 5342, 5365, 5506, 5515, 5537, 5551, 5552, 5581, 5595, 5736, 5751, 5945, 5946, 6103, 6104, 6121, 6301, 6308, 6322, 6323, 6385, 7103, 7119, 7342, 7905, 8171, 8172, 8173, 8311, 8331, 8332, 8347, 8401, 8461, 8701, 8901 of this title; title 10 sections 975, 1587; title 18 section 202; title 19 section 2081; title 22 sections 4341, 4833; title 25 section 450i; title 26 section 7608; title 41 sections 419, 423; title 42 sections 3374, 14614; title 50 section 426.
+This section is referred to in sections 3502, 5334, 5335, 5342, 5365, 5506, 5515, 5537, 5551, 5552, 5581, 5595, 5736, 5751, 5945, 5946, 6103, 6104, 6121, 6301, 6308, 6322, 6323, 6385, 7103, 7119, 7342, 7905, 8171, 8172, 8173, 8311, 8331, 8332, 8347, 8401, 8461, 8701, 8901, 9001 of this title; title 10 sections 975, 1587; title 18 section 202; title 19 section 2081; title 22 sections 3974, 4341, 4833; title 25 section 450i; title 26 section 7608; title 41 sections 419, 423; title 42 sections 3374, 14614; title 50 section 426.
 

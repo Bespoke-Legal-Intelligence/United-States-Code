@@ -16,7 +16,7 @@ The President shall seek to establish in the renegotiation provided for in artic
 
 #### (1) Report in the event of inadequate progress
 
-&emsp;If, during the renegotiations of the Agreement, the President at any time determines that the renegotiations are not progressing satisfactorily and are not likely to result, within twelve months of the commencement thereof, in an expansion of the Agreement to cover purchases by the entities of the governments of developed countries which are the principal purchasers of goods and equipment in appropriate product sectors, he shall so report to the congressional committees referred to in section 2512(c)(1) of this title. Taking into account the objectives set forth in subsections (a) and (b) of this section and the factors required to be analyzed under section 2512(c) of this title, the President shall further report to such committees appropriate actions to seek reciprocity in such product sectors with such countries in the area of government procurement.
+&emsp;If, during the renegotiations of the Agreement, the President at any time determines that the renegotiations are not progressing satisfactorily and are not likely to result, within twelve months of the commencement thereof, in an expansion of the Agreement tocover purchases by the entities of the governments of developed countries which are the principal purchasers of goods and equipment in appropriate product sectors, he shall so report to the congressional committees referred to in section 2512(c)(1) of this title. Taking into account the objectives set forth in subsections (a) and (b) of this section and the factors required to be analyzed under section 2512(c) of this title, the President shall further report to such committees appropriate actions to seek reciprocity in such product sectors with such countries in the area of government procurement.
 
 #### (2) Legislative recommendations
 
@@ -60,7 +60,7 @@ Functions of President under this section delegated to United States Trade Repre
 
 #### Agreement on Government Procurement: Entry Into Force
 
-The Agreement on Government Procurement, as referred to in section 3511(d)(17) of this title, entered intoforce with respect to the United States on Jan. 1, 1995. See note set out under section 3511 of this title.
+The Agreement on Government Procurement, as referred to in section 3511(d)(17) of this title, entered into force with respect to the United States on Jan. 1, 1995. See note set out under section 3511 of this title.
 
 #### Section Referred to in Other Sections
 

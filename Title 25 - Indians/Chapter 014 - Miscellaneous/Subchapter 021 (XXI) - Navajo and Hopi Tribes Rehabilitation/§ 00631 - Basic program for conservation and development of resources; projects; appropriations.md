@@ -14,7 +14,7 @@ In order to further the purposes of existing treaties with the Navajo Indians, t
 
 &emsp;(6) Relocation and resettlement of Navajo and Hopi Indians (Colorado River Indian Reservation), $5,750,000.
 
-&emsp;(7) Roads and trails, $40,000,000; of which not less than $20,000,000 shall be (A) available for contract authority for such construction and improvement of the roads designated as route 1 and route 3 on the Navajo and Hopi Indian Reservations as may be necessary to bring the portion of such roads located in any State up to at least the secondary road standards in effect in such State, and (B) in addition to any amounts expended on such roads under the $20,000,000 authorization provided under this clause prior to amendment.
+&emsp;(7) Roads and trails, $40,000,000; of which not less than $20,000,000 shall be (A) available for contract authority for such construction and improvement of the roads designated as route 1 and route 3 on the Navajo and Hopi IndianReservations as may be necessary to bring the portion of such roads located in any State up to at least the secondary road standards in effect in such State, and (B) in addition to any amounts expended on such roads under the $20,000,000 authorization provided under this clause prior to amendment.
 
 &emsp;(8) Telephone and radio communications systems, $250,000.
 

@@ -4,7 +4,7 @@
 
 (b) Unless otherwise provided in this title, the provisions of title 28 relating to service of process, venue, and limitations of time for bringing action in suits in which the United States, its officers, or employees are parties, and the rules of procedure adopted under title 28 for suits in which the United States, its officers, or employees are parties, shall apply in like manner to suits in which the Postal Service, its officers, or employees are parties.
 
-(c) The provisions of chapter 171 and all other provisions of title 28 relating to tort claims shall apply to tort claims arising out of activities of the Postal Service.
+(c) The provisions of chapter 171 and all other provisions of title 28 relating to tort claimsshall apply to tort claims arising out of activities of the Postal Service.
 
 (d) The Department of Justice shall furnish, under section 411 of this title, the Postal Service such legal representation as it may require, but with the prior consent of the Attorney General the Postal Service may employ attorneys by contract or otherwise to conduct litigation brought by or against the Postal Service or its officers or employees in matters affecting the Postal Service.
 

@@ -24,7 +24,3 @@ The phrase “by competent authority” is omitted as surplusage. The definition
 
 1970—Pub. L. 91–198 substituted “naval flight officer” for “naval aviation observer” and “naval flight officers” for “naval aviation observers,” and struck out requirement that such officer have been in the air at least 100 hours.
 
-#### Cross References
-
-Aviation commands, eligibility, see section 5942 of this title.
-

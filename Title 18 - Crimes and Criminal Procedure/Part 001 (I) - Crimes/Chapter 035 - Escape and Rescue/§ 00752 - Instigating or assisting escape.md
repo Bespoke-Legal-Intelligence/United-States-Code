@@ -36,22 +36,6 @@ Changes were made in phraseology.
 
 1956—Act May 28, 1956, inserted “, or attempt to escape,” after “escape”.
 
-#### Canal Zone
-
-Applicability of section to Canal Zone, see section 14 of this title.
-
-#### Cross References
-
-Arrests by Bureau of Prisons employees, see section 3050 of this title.
-
-Civil commitment and rehabilitation of narcotic addicts, penalties for escape or rescue from custody, see section 2902 of Title 28, Judiciary and Judicial Procedure.
-
-Concealing or harboring an escaped prisoner, see section 1072 of this title.
-
-Introducing dangerous instrumentalities into prisons, see section 1792 of this title.
-
-Rescue of goods, see section 2233 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 14, 3050 of this title; title 8 section 1537; title 28 section 2902; title 42 section 3425.

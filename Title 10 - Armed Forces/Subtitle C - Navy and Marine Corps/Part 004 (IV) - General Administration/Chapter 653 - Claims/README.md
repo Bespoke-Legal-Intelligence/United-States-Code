@@ -15,10 +15,6 @@
 
 1960—Pub. L. 86–533, §1(10)(B), June 29, 1960, 74 Stat. 247, struck out item 7624 “Reports to Congress”.
 
-#### Cross References
-
-Military claims generally, see section 2731 et seq. of this title.
-
 
 ---
 

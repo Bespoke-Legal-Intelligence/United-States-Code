@@ -25,19 +25,15 @@
 
 #### Amendments
 
-1996—Pub. L. 104–317, title II, §206(b), Oct. 19, 1996, 110 Stat. 3850, inserted “and agencies” after “officers” in item 1442.
+<b>1996</b>—Pub. L. 104–317, title II, §206(b), Oct. 19, 1996, 110 Stat. 3850, inserted “and agencies” after “officers” in item 1442.
 
-1984—Pub. L. 98–353, title I, §103(b), July 10, 1984, 98 Stat. 335, added item 1452.
+<b>1984</b>—Pub. L. 98–353, title I, §103(b), July 10, 1984, 98 Stat. 335, added item 1452.
 
-1970—Pub. L. 91–358, title I, §172(d)(2), July 29, 1970, 84 Stat. 591, added item 1451.
+<b>1970</b>—Pub. L. 91–358, title I, §172(d)(2), July 29, 1970, 84 Stat. 591, added item 1451.
 
-1958—Pub. L. 85–554, §5(b), July 25, 1958, 72 Stat. 416, substituted “Nonremovable actions” for “Carriers; non-removable actions” in item 1445.
+<b>1958</b>—Pub. L. 85–554, §5(b), July 25, 1958, 72 Stat. 416, substituted “Nonremovable actions” for “Carriers; non-removable actions” in item 1445.
 
-1956—Act Aug. 10, 1956, ch. 1041, §19(b), 70A Stat. 627, added item 1442a.
-
-#### Cross References
-
-Puerto Rico, removal of causes to United States District Court of Puerto Rico, see section 864 of Title 48, Territories and Insular Possessions.
+<b>1956</b>—Act Aug. 10, 1956, ch. 1041, §19(b), 70A Stat. 627, added item 1442a.
 
 #### Chapter Referred to in Other Section
 

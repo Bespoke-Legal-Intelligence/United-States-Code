@@ -17,25 +17,22 @@
 | Employee | 7 | January 1, 1987, to December 31, 1998. |
 | &nbsp; | 7\.25 | January 1, 1999, to December 31, 1999. |
 | &nbsp; | 7\.4 | January 1, 2000, to December 31, 2000. |
-| &nbsp; | 7\.5 | January 1, 2001, to December 31, 2002. |
-| &nbsp; | 7 | After December 31, 2002. |
+| &nbsp; | 7 | After December 31, 2000. |
 | Congressional employee | 7\.5 | January 1, 1987, to December 31, 1998. |
 | &nbsp; | 7\.75 | January 1, 1999, to December 31, 1999. |
 | &nbsp; | 7\.9 | January 1, 2000, to December 31, 2000. |
-| &nbsp; | 8 | January 1, 2001, to December 31, 2002. |
-| &nbsp; | 7\.5 | After December 31, 2002. |
+| &nbsp; | 7\.5 | After December 31, 2000. |
 | Member | 7\.5 | January 1, 1987, to December 31, 1998. |
 | &nbsp; | 7\.75 | January 1, 1999, to December 31, 1999. |
 | &nbsp; | 7\.9 | January 1, 2000, to December 31, 2000. |
 | &nbsp; | 8 | January 1, 2001, to December 31, 2002. |
 | &nbsp; | 7\.5 | After December 31, 2002. |
-| Law enforcement officer, firefighter, member of the Capitol Police, or air traffic controller | 7\.5 7.75 7.9 8 7.5 | January 1, 1987, to December 31, 1998.January 1, 1999, to December 31, 1999.January 1, 2000, to December 31, 2000.January 1, 2001, to December 31, 2002.After December 31, 2002. |
-| Nuclear materials courier | 7 | January 1, 1987 to October 16, 1998. |
-| &nbsp; | 7\.5 | October 17, 1998 to December 31, 1998. |
-| &nbsp; | 7\.75 | January 1, 1999 to December 31, 1999. |
-| &nbsp; | 7\.9 | January 1, 2000 to December 31, 2000. |
-| &nbsp; | 8 | January 1, 2001 to December 31, 2001. |
-| &nbsp; | 7\.5 | After December 31, 2002. |
+| Law enforcement officer, firefighter, member of the Capitol Police, member of the Supreme Court Police, or air traffic controller | 7\.5 7.75 7.9 7.5 | January 1, 1987, to December 31, 1998.January 1, 1999, to December 31, 1999.January 1, 2000, to December 31, 2000.After December 31, 2000. |
+| Nuclear materials courier | 7 | January 1, 1987, to October 16, 1998. |
+| &nbsp; | 7\.5 | October 17, 1998, to December 31, 1998. |
+| &nbsp; | 7\.75 | January 1, 1999, to December 31, 1999. |
+| &nbsp; | 7\.9 | January 1, 2000, to December 31, 2000. |
+| &nbsp; | 7\.5 | After December 31, 2000. |
 
 (b) Each employee or Member is deemed to consent and agree to the deductions under subsection (a). Notwithstanding any law or regulation affecting the pay of an employee or Member, payment less such deductions is a full and complete discharge and acquittance of all claims and demands for regular services during the period covered by the payment, except the right to any benefits under this subchapter, or under subchapter IV or V of this chapter, based on the service of the employee or Member.
 
@@ -63,11 +60,9 @@
 
 (6) The percentage of basic pay under section 204 of title 37 payable under paragraph (1), with respect to any period of military service performed during—
 
-&emsp;(A) January 1, 1999, through December 31, 1999, shall be 3.25 percent;
+&emsp;(A) January 1, 1999, through December 31, 1999, shall be 3.25 percent; and
 
-&emsp;(B) January 1, 2000, through December 31, 2000, shall be 3.4 percent; and
-
-&emsp;(C) January 1, 2001, through December 31, 2002, shall be 3.5 percent.
+&emsp;(B) January 1, 2000, through December 31, 2000, shall be 3.4 percent.
 
 (f)(1) Each employee or Member who has performed service as a volunteer or volunteer leader under part A of title VIII of the Economic Opportunity Act of 1964, as a full-time volunteer enrolled in a program of at least 1 year's duration under part A, B, or C of title I of the Domestic Volunteer Service Act of 1973, or as a volunteer or volunteer leader under the Peace Corps Act before the date of the separation on which the entitlement to any annuity under this subchapter, or subchapter V of this chapter, is based may pay, in accordance with such regulations as the Office of Personnel Management shall issue, an amount equal to 3 percent of the readjustment allowance paid to the employee or Member under title VIII of the Economic Opportunity Service Act of 1964 or section 5(c) or 6(1) of the Peace Corps Act or the stipend paid to the employee or Member under part A, B, or C of title I of the Domestic Volunteer Service Act of 1973, for each period of service as such a volunteer or volunteer leader. This paragraph shall be subject to paragraph (4).
 
@@ -83,15 +78,13 @@
 
 (4) The percentage of the readjustment allowance or stipend (as the case may be) payable under paragraph (1), with respect to any period of volunteer service performed during—
 
-&emsp;(A) January 1, 1999, through December 31, 1999, shall be 3.25 percent;
+&emsp;(A) January 1, 1999, through December 31, 1999, shall be 3.25 percent; and
 
-&emsp;(B) January 1, 2000, through December 31, 2000, shall be 3.4 percent; and
-
-&emsp;(C) January 1, 2001, through December 31, 2002, shall be 3.5 percent.
+&emsp;(B) January 1, 2000, through December 31, 2000, shall be 3.4 percent.
 
 (g) A Member who has served in a position in the executive branch for which the rate of basic pay was reduced for the duration of the service of the Member to remove the impediment to the appointment of the Member imposed by article I, section 6, clause 2 of the Constitution, or the survivor of such a Member, may deposit to the credit of the Fund an amount equal to the difference between the amount deducted from the basic pay of the Member during that period of service and the amount that would have been deducted if the rate of basic pay which would otherwise have been in effect during that period had been in effect, plus interest computed under section 8334(e).
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 536; amended Pub. L. 100–238, title I, §104(a), Jan. 8, 1988, 101 Stat. 1746; Pub. L. 103–82, title III, §371(b)(2), Sept. 21, 1993, 107 Stat. 911; Pub. L. 103–353, §5(d), (e)(2), Oct. 13, 1994, 108 Stat. 3174; Pub. L. 104–186, title II, §215(14), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 104–316, title I, §103(g), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 105–33, title VII, §7001(b)(1), Aug. 5, 1997, 111 Stat. 657; Pub. L. 105–61, title V, §516(a)(8), Oct. 10, 1997, 111 Stat. 1307; Pub. L. 105–261, div. C, title XXXI, §3154(i)(1), Oct. 17, 1998, 112 Stat. 2255; Pub. L. 106–65, div. A, title X, §1066(d)(3), Oct. 5, 1999, 113 Stat. 773.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 536; amended Pub. L. 100–238, title I, §104(a), Jan. 8, 1988, 101 Stat. 1746; Pub. L. 103–82, title III, §371(b)(2), Sept. 21, 1993, 107 Stat. 911; Pub. L. 103–353, §5(d), (e)(2), Oct. 13, 1994, 108 Stat. 3174; Pub. L. 104–186, title II, §215(14), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 104–316, title I, §103(g), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 105–33, title VII, §7001(b)(1), Aug. 5, 1997, 111 Stat. 657; Pub. L. 105–61, title V, §516(a)(8), Oct. 10, 1997, 111 Stat. 1307; Pub. L. 105–261, div. C, title XXXI, §3154(i)(1), Oct. 17, 1998, 112 Stat. 2255; Pub. L. 106–65, div. A, title X, §1066(d)(3), Oct. 5, 1999, 113 Stat. 773; Pub. L. 106–346, §101(a) \[title V, §505(b)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–52; Pub. L. 106–553, §1(a)(2) \[title III, §308(c)(3)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–87.)
 
 #### References in Text
 
@@ -104,6 +97,14 @@ Parts A, B, and C of title I of the Domestic Volunteer Service Act of 1973, refe
 The Peace Corps Act, referred to in subsec. (f)(1), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, which is classified principally to chapter 34 (§2501 et seq.) of Title 22, Foreign Relations and Intercourse. Sections 5(c) and 6(1) of the Act are classified to sections 2504(c) and 2505(1), respectively, of Title 22. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of Title 22 and Tables.
 
 #### Amendments
+
+2000—Subsec. (a)(3). Pub. L. 106–553 inserted “member of the Supreme Court Police,” after “member of the Capitol Police,” in table for law enforcement officer, firefighter, member of the Capitol Police, or air traffic controller.
+
+Pub. L. 106–346, §101(a) \[title V, §505(b)(1)\], added par. (3) and struck out former par. (3), which set out tables of applicable percentages for employee, Congressional employee, Member, law enforcement officer, firefighter, member of the Capitol Police, air traffic controller, and nuclear materials courier.
+
+Subsec. (e)(6). Pub. L. 106–346, §101(a) \[title V, §505(b)(2)\], inserted “and” at end of subpar. (A), substituted a period for “; and” at end of subpar. (B), and struck out subpar. (C) which read as follows: “January 1, 2001, through December 31, 2002, shall be 3.5 percent.”
+
+Subsec. (f)(4). Pub. L. 106–346, §101(a) \[title V, §505(b)(3)\], inserted “and” at end of subpar. (A), substituted a period for “; and” at end of subpar. (B), and struck out subpar. (C) which read as follows: “January 1, 2001, through December 31, 2002, shall be 3.5 percent.”
 
 1999—Subsec. (a)(3). Pub. L. 106–65, in table for nuclear materials courier, substituted “October 16, 1998” for “the day before the date of the enactment of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999” and “October 17, 1998” for “The date of the enactment of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999”.
 
@@ -147,6 +148,12 @@ Subsec. (e)(2)(B). Pub. L. 103–353, §5(d)(2), inserted before comma at end �
 
 1988—Subsec. (e)(5). Pub. L. 100–238 added par. (5).
 
+#### Effective Date of 2000 Amendments
+
+Amendment by Pub. L. 106–553 effective on the first day of the first applicable pay period that begins on Dec. 21, 2000, and applicable only to an individual who is employed as a member of the Supreme Court Police after Dec. 21, 2000, see section 1(a)(2) \[title III, §308(i), (j)\] of Pub. L. 106–553, set out in a Supreme Court Police Retirement note under section 8331 of this title.
+
+Amendment by Pub. L. 106–346 effective upon the close of calendar year 2000 and applicable thereafter, see section 101(a) \[title V, §505(i)\] of Pub. L. 106–346, set out as a note under section 8334 of this title.
+
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–261 effective at the beginning of the first pay period that begins after Oct. 17, 1998, and applicable only to an individual who is employed as a nuclear materials courier, as defined by section 8331(27) or 8401(33) of this title, after Oct. 17, 1998, see section 3154(m), (n) of Pub. L. 105–261, set out as a note under section 8331 of this title.
@@ -173,5 +180,5 @@ Section 7001(b)(2) of Pub. L. 105–33 provided that: “Contributions under sec
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 8401, 8411, 8415, 8423, 8468 of this title; title 2 section 121b; title 10 section 942; title 22 section 4045; title 28 sections 611, 627; title 40 section 214d; title 42 section 2297h–8; title 50 section 2152.
+This section is referred to in sections 8401, 8411, 8415, 8423, 8468 of this title; title 2 sections 121b, 162b; title 10 section 942; title 22 section 4045; title 28 sections 611, 627; title 40 section 214d; title 42 section 2297h–8; title 50 section 2152.
 

@@ -12,7 +12,7 @@ The Congress finds that—
 
 &emsp;(4) the Antarctic Treaty and the Protocol establish a firm foundation for the conservation of Antarctic resources, for the continuation of international cooperation and the freedom of scientific investigation in Antarctica; and
 
-&emsp;(5) the Antarctic Treaty and the Protocol establish international mechanisms and create legal obligations necessary for the maintenance of Antarctica as a natural reserve devoted to peace and science.
+&emsp;(5) the Antarctic Treaty and the Protocol establish international mechanisms and createlegal obligations necessary for the maintenance of Antarctica as a natural reserve devoted to peace and science.
 
 #### (b) Purpose
 

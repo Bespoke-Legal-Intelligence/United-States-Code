@@ -86,7 +86,7 @@ Requirement of Potential Military Relationship.—Funds appropriated to the Depa
 
 #### Effective Date of 1994 Amendment
 
-For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, setout as a note under section 251 of Title 41, Public Contracts.
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 251 of Title 41, Public Contracts.
 
 #### Pilot Programs for Revitalizing Laboratories and Test and Evaluation Centers of Department of Defense
 
@@ -178,7 +178,7 @@ Pub. L. 103–337, div. A, title II, §257, Oct. 5, 1994, 108 Stat. 2705, as ame
 
 “(a)
 
-Program Required.—The Secretary of Defense, acting through the Director of Defense Research and Engineering, shall carry out a Defense ExperimentalProgram to Stimulate Competitive Research (DEPSCoR) as part of the university research programs of the Department of Defense.
+Program Required.—The Secretary of Defense, acting through the Director of Defense Research and Engineering, shall carry out a Defense Experimental Program to Stimulate Competitive Research (DEPSCoR) as part of the university research programs of the Department of Defense.
 
 “(b)
 
@@ -202,7 +202,7 @@ Eligible States.—(1) The Under Secretary of Defense for Acquisition, Technolog
 
 “(2) The Under Secretary of Defense for Acquisition, Technology, and Logistics shall designate a State as an eligible State if, as determined by the Under Secretary—
 
-&emsp;“(A) the average annual amount of all Department of Defense obligations for science and engineering research and development that were in effect with institutions of higher education in the State for the three fiscal years preceding the fiscal year for which the designation is effective or for the last three fiscal years for which statistics are available is less than the amount determined by multiplying 60 percent times the amount equal to 1/50 of the total average annual amount of all Department of Defense obligations for science and engineering research and development that were in effect with institutions of higher education in the United States for such three preceding or last fiscal years, as the case may be; and
+&emsp;“(A) the average annual amount of all Department of Defense obligations for science and engineering research and development that were in effect with institutions of higher education in the State for the three fiscal years preceding the fiscal year for which the designation is effective or for the last three fiscal years for which statistics are available is less than the amount determined by multiplying 60 percent times the amount equal to 1/50 of the total average annual amount of all Department of Defense obligationsfor science and engineering research and development that were in effect with institutions of higher education in the United States for such three preceding or last fiscal years, as the case may be; and
 
 &emsp;“(B) the State has demonstrated a commitment to developing research bases in the State and to improving science and engineering research and education programs at institutions of higher education in the State.
 
@@ -217,6 +217,28 @@ Coordination With Similar Federal Programs.—(1) The Secretary shall consult wi
 “(f)
 
 State Defined.—In this section, the term ‘State’ means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands, American Samoa, and the Commonwealth of the Northern Mariana Islands.”
+
+#### Defense Laboratories Personnel Demonstration Projects
+
+Pub. L. 103–337, div. A, title III, §342(b), Oct. 5, 1994, 108 Stat. 2721, as amended by Pub. L. 106–65, div. A, title XI, §1109, Oct. 5, 1999, 113 Stat. 779; Pub. L. 106–398, §1 \[\[div. A\], title XI, §1114\], Oct. 30, 2000, 114 Stat. 1654, 1654A–315, provided that:
+
+“(1) The Secretary of Defense may carry out personnel demonstration projects at Department of Defense laboratories designated by the Secretary as Department of Defense science and technology reinvention laboratories.
+
+“(2)(A) Each personnel demonstration project carried out under the authority of paragraph (1) shall be generally similar in nature to the China Lake demonstration project.
+
+“(B) For purposes of subparagraph (A), the China Lake demonstration project is the demonstration project that is authorized by section 6 of the Civil Service Miscellaneous Amendments Act of 1983 \[Pub. L. 98–224, 98 Stat. 49\] to be continued at the Naval Weapons Center, China Lake, California, and at the Naval Ocean Systems Center, San Diego, California.
+
+“(3) If the Secretary carries out a demonstration project at a laboratory pursuant to paragraph (1), section 4703 of title 5, United States Code, shall apply to the demonstration project, except that—
+
+&emsp;“(A) subsection (d) of such section 4703 shall not apply to the demonstration project;
+
+&emsp;“(B) the authority of the Secretary to carry out the demonstration project is that which is provided in paragraph (1) rather than the authority which is provided in such section 4703; and
+
+&emsp;“(C) the Secretary shall exercise the authorities granted to the Office of Personnel Management under such section 4703.
+
+“(4) The employees of a laboratory covered by a personnel demonstration project carried out under this section \[enacting this note\] shall be exempt from, and may not be counted for the purposes of, any constraint or limitation in a statute or regulation in terms of supervisory ratios or maximum number of employees in any specific category or categories of employment that may otherwise be applicable to the employees. The employees shall be managed by the director of the laboratory subject to the supervision of the Under Secretary of Defense for Acquisition, Technology, and Logistics.
+
+“(5) The limitations in section 5373 of title 5, United States Code, do not apply to the authority of the Secretary under this section to prescribe salary schedules and other related benefits.”
 
 #### Inclusion of Women and Minorities in Clinical Research Projects
 
@@ -278,7 +300,7 @@ Funding.—Of the amounts authorized to be appropriated under section 201 \[107 
 
 #### Independent Research and Development; Bid and Proposal Costs; Negotiation of Advance Agreements With Contractors; Annual Report to Congress
 
-Pub. L. 91–441, title II, §203, Oct. 7, 1970, 84 Stat. 906, as amended by Pub. L. 96–342, title II, §208, Sept. 8, 1980, 94 Stat. 1081, provided that no funds authorized to be appropriated to Department of Defense by this or anyother Act were to be used to finance independent research and development or bid and proposal costs unless such work had, in opinion of Secretary of Defense, potential relationship to military functions or operations, and advance agreements regarding payment for such work had been negotiated, prior to repeal by Pub. L. 101–510, div. A, title VIII, §824(b), Nov. 5, 1990, 104 Stat. 1604. See section 2372 of this title.
+Pub. L. 91–441, title II, §203, Oct. 7, 1970, 84 Stat. 906, as amended by Pub. L. 96–342, title II, §208, Sept. 8, 1980, 94 Stat. 1081, provided that no funds authorized to be appropriated to Department of Defense by this or any other Act were to be used to finance independent research and development or bid and proposal costs unless such work had, in opinion of Secretary of Defense, potential relationship to military functions or operations, and advance agreements regarding payment for such work had been negotiated, prior to repeal by Pub. L. 101–510, div. A, title VIII, §824(b), Nov. 5, 1990, 104 Stat. 1604. See section 2372 of this title.
 
 #### Relationship of Research Projects or Studies to Military Function or Operation
 

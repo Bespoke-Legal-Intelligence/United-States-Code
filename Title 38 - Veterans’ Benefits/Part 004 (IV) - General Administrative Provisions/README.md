@@ -1,8 +1,13 @@
 ## PART IV—GENERAL ADMINISTRATIVE PROVISIONS
 
 | Chap. |  | Sec. |
+| :--- | ---: | ---: |
+| [<b>51.</b>](Chapter%20051%20-%20Claims%2C%20Effective%20Dates%2C%20and%20Payments/README.md) | <b>Claims, Effective Dates, and Payments</b> | <b>5101 </b><b><sup>1</sup></b> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |  |
 | :--- | :---: | ---: |
-| [<b>51.</b>](Chapter%20051%20-%20Claims%2C%20Effective%20Dates%2C%20and%20Payments/README.md) | <b>Claims, Effective Dates, and Payments</b> | <b>5101</b> |
 | [<b>53.</b>](Chapter%20053%20-%20Special%20Provisions%20Relating%20to%20Benefits/README.md) | <b>Special Provisions Relating to Benefits</b> | <b>5301</b> |
 | [<b>55.</b>](Chapter%20055%20-%20Minors%2C%20Incompetents%2C%20and%20Other%20Wards/README.md) | <b>Minors, Incompetents, and Other Wards</b> | <b>5501</b> |
 | [<b>57.</b>](Chapter%20057%20-%20Records%20and%20Investigations/README.md) | <b>Records and Investigations</b> | <b>5701</b> |

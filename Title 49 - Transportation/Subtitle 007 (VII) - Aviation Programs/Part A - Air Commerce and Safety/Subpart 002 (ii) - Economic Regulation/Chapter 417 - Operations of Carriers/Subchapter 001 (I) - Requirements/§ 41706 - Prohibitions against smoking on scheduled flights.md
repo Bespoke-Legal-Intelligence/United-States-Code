@@ -2,23 +2,29 @@
 
 (a)
 
-General.—An individual may not smoke in the passenger cabin or lavatory of an aircraft on a scheduled airline flight segment in air transportation or intrastate air transportation that is—
-
-&emsp;(1) between places in a State of the United States, the District of Columbia, Puerto Rico, or the Virgin Islands;
-
-&emsp;(2) between a place in any jurisdiction referred to in clause (1) of this subsection (except Alaska and Hawaii) and a place in any other of those jurisdictions; or
-
-&emsp;(3)(A) scheduled for not more than 6 hours’ duration; and
-
-&emsp;(B)(i) between a place referred to in clause (1) of this subsection (except Alaska and Hawaii) and Alaska or Hawaii; or
-
-&emsp;(ii) between Alaska and Hawaii.
+Smoking Prohibition in Intrastate and Interstate Air Transportation.—An individual may not smoke in an aircraft in scheduled passenger interstate air transportation or scheduled passenger intrastate air transportation.
 
 (b)
 
-Regulations.—The Secretary of Transportation shall prescribe regulations necessary to carry out this section.
+Smoking Prohibition in Foreign Air Transportation.—The Secretary of Transportation shall require all air carriers and foreign air carriers to prohibit smoking in any aircraft in scheduled passenger foreign air transportation.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1141.)
+(c)
+
+Limitation on Applicability.—
+
+&emsp;(1)
+
+In general.—If a foreign government objects to the application of subsection (b) on the basis that subsection (b) provides for an extraterritorial application of the laws of the United States, the Secretary shall waive the application of subsection (b) to a foreign air carrier licensed by that foreign government at such time as an alternative prohibition negotiated under paragraph (2) becomes effective and is enforced by the Secretary.
+
+&emsp;(2)
+
+Alternative prohibition.—If, pursuant to paragraph (1), a foreign government objects to the prohibition under subsection (b), the Secretary shall enter into bilateral negotiations with the objecting foreign government to provide for an alternative smoking prohibition.
+
+(d)
+
+Regulations.—The Secretary shall prescribe such regulations as are necessary to carry out this section.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1141; Pub. L. 106–181, title VII, §708(a), Apr. 5, 2000, 114 Stat. 159.)
 
 Historical and Revision Notes
 
@@ -43,6 +49,32 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §404(d)(1); added Dec. 22, 1987,
 Nov. 21, 1989, Pub. L. 101–164, §335 (related to effective date), 103 Stat. 1099.
 
 In subsection (a), before clause (1), the words “On and after the date of expiration of the 4-month period following December 22, 1987” are omitted as executed. The words “of an aircraft” are added for clarity. The text of 49 App.:1374 (note) is omitted as executed.
+
+#### Amendments
+
+2000—Pub. L. 106–181 amended section catchline and text generally. Prior to amendment, text read as follows:
+
+“(a)
+
+General.—An individual may not smoke in the passenger cabin or lavatory of an aircraft on a scheduled airline flight segment in air transportation or intrastate air transportation that is—
+
+&emsp;“(1) between places in a State of the United States, the District of Columbia, Puerto Rico, or the Virgin Islands;
+
+&emsp;“(2) between a place in any jurisdiction referred to in clause (1) of this subsection (except Alaska and Hawaii) and a place in any other of those jurisdictions; or
+
+&emsp;“(3)(A) scheduled for not more than 6 hours’ duration; and
+
+&emsp;“(B)(i) between a place referred to in clause (1) of this subsection (except Alaska and Hawaii) and Alaska or Hawaii; or
+
+&emsp;“(ii) between Alaska and Hawaii.
+
+“(b)
+
+Regulations.—The Secretary of Transportation shall prescribe regulations necessary to carry out this section.”
+
+#### Effective Date of 2000 Amendment
+
+Pub. L. 106–181, title VII, §708(b), Apr. 5, 2000, 114 Stat. 159, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date that is 60 days after the date of the enactment of this Act \[Apr. 5, 2000\].”
 
 #### Section Referred to in Other Sections
 

@@ -1,6 +1,6 @@
 ### §638. Selective early retirement
 
-(a)(1) A regular officer on the active-duty list of the Army, Navy, Air Force, or Marine Corpsmay be considered for selective early retirement by a selection board convened under section 611(b) of this title if the officer is described in any of subparagraphs (A) through (D) as follows:
+(a)(1) A regular officer on the active-duty list of the Army, Navy, Air Force, or Marine Corps may be considered for selective early retirement by a selection board convened under section 611(b) of this title if the officer is described in any of subparagraphs (A) through (D) as follows:
 
 &emsp;(A) An officer holding the regular grade of lieutenant colonel or commander who has failed of selection for promotion to the grade of colonel or, in the case of an officer of the Navy, captain two or more times and whose name is not on a list of officers recommended for promotion.
 
@@ -36,7 +36,7 @@
 
 (C) An officer not considered by a selection board convened under section 611(b) of this title by reason of subparagraph (B) shall be retired on the date approved for the retirement of that officer as of the convening date of such selection board unless the Secretary concerned approves a modification of such date in order to prevent a personal hardship for the officer or for other humanitarian reasons.
 
-(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2864; amended Pub. L. 97–22, §4(f), July 10, 1981, 95 Stat. 127; Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 100–456, div. A, title V, §504, Sept. 29, 1988, 102 Stat. 1967; Pub. L. 101–510, div. A, title V, §521(b)(2), Nov. 5, 1990, 104 Stat. 1561; Pub. L. 102–190, div. A, title V, §503(a), Dec. 5, 1991, 105 Stat. 1355; Pub. L. 103–160, div. A, title V, §506,Nov. 30, 1993, 107 Stat. 1646; Pub. L. 104–106, div. A, title V, §504(b), Feb. 10, 1996, 110 Stat. 295.)
+(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2864; amended Pub. L. 97–22, §4(f), July 10, 1981, 95 Stat. 127; Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 100–456, div. A, title V, §504, Sept. 29, 1988, 102 Stat. 1967; Pub. L. 101–510, div. A, title V, §521(b)(2), Nov. 5, 1990, 104 Stat. 1561; Pub. L. 102–190, div. A, title V, §503(a), Dec. 5, 1991, 105 Stat. 1355; Pub. L. 103–160, div. A, title V, §506, Nov. 30, 1993, 107 Stat. 1646; Pub. L. 104–106, div. A, title V, §504(b), Feb. 10, 1996, 110 Stat. 295.)
 
 #### Amendments
 

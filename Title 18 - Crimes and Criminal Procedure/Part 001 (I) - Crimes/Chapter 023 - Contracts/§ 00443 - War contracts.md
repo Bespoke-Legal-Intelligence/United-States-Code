@@ -32,7 +32,3 @@ Reference to persons causing or procuring was omitted as unnecessary in view of 
 
 1951—Act Oct. 31, 1951, substituted “12 o'clock noon of December 31, 1946” for “the termination of hostilities in the present war as proclaimed by the President or by a concurrent resolution of the two Houses of Congress”, and, in penultimate paragraph, substituted “Administrator of General Services” for “Director of Contract Settlement”.
 
-#### Cross References
-
-Suspension of limitation of prosecution, see section 3287 of this title.
-

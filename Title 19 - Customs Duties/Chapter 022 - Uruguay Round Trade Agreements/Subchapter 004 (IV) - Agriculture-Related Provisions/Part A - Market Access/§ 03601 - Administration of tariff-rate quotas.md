@@ -16,7 +16,7 @@ The Secretary of Agriculture shall monitor the domestic supply of agricultural p
 
 #### (1) Exclusions
 
-&emsp;The President may, subject to terms and conditions determined appropriate by thePresident, provide that the entry, or withdrawal from warehouse, for consumption in the United States of an agricultural product shall not be subject to the over-quota rate of duty established under a tariff-rate quota if the agricultural product—
+&emsp;The President may, subject to terms and conditions determined appropriate by the President, provide that the entry, or withdrawal from warehouse, for consumption inthe United States of an agricultural product shall not be subject to the over-quota rate of duty established under a tariff-rate quota if the agricultural product—
 
 &emsp;&emsp;(A) is imported by, or for the account of, any agency of the United States or of any foreign embassy;
 

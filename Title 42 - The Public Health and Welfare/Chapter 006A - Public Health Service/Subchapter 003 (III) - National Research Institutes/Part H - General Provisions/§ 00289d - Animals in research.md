@@ -40,7 +40,7 @@ The Director of NIH shall require each applicant for a grant, contract, or coope
 
 &emsp;&emsp;(A) the applicant meets the requirements of the guidelines established under paragraphs (1) and (2) of subsection (a) of this section and has an animal care committee which meets the requirements of subsection (b) of this section; and
 
-&emsp;&emsp;(B) scientists, animal technicians, and other personnel involved with animal care, treatment, and use by the applicant have available to them instruction or training in the humane practice of animal maintenance and experimentation, and the concept, availability, and use of research or testing methods that limit the use of animals or limit animal distress; and
+&emsp;&emsp;(B) scientists, animal technicians, and other personnel involved with animal care, treatment, and use by the applicant have available to them instruction or training inthe humane practice of animal maintenance and experimentation, and the concept, availability, and use of research or testing methods that limit the use of animals or limit animal distress; and
 
 &emsp;(2) a statement of the reasons for the use of animals in the research to be conducted with funds provided under such grant or contract.
 

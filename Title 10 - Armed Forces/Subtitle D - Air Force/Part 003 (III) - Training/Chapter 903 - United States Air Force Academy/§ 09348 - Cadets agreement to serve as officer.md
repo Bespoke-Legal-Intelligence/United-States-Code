@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) will serve on active duty for at least five years immediately after such appointment.
 
-&emsp;(3) That if an appointment described in paragraph (2) is not tendered or if the cadet is permitted to resign as a regular officer before completion of the commissioned service obligation of the cadet, the cadet—
+&emsp;(3) That if an appointment described in paragraph (2) is not tendered or if the cadet is permitted to resign as a regular officer beforecompletion of the commissioned service obligation of the cadet, the cadet—
 
 &emsp;&emsp;(A) will accept an appointment as a commissioned officer as a Reserve in the Air Force for service in the Air Force Reserve; and
 
@@ -90,11 +90,11 @@ Amendment by Pub. L. 104–106 applicable to persons first admitted to United St
 
 #### Effective Date of 1989 Amendment
 
-Amendment by section 511(d) of Pub. L. 101–189 applicable to persons who are first admitted to one of the military service academies after Dec. 31, 1991, see section 511(e) of Pub. L. 101–189, as amended, set out as a note under section 2114 of this title.
+Amendment by section 511(d) of Pub. L. 101–189 applicable to persons who are first admitted to one of themilitary service academies after Dec. 31, 1991, see section 511(e) of Pub. L. 101–189, as amended, set out as a note under section 2114 of this title.
 
 #### Effective Date of 1985 Amendment
 
-Amendment by Pub. L. 99–145 (other than with respect to the authority of the Secretary of the Air Force to prescribe regulations) effective on the date on whichregulations prescribed by the Secretary take effect and applicable to agreements entered into under this section on or after the effective date of such regulations and also with respect to each such agreement that was entered into before the effective date of such regulations by an individual who is a cadet on such date, see section 512(e) of Pub. L. 99–145, set out as a note under section 4348 of this title.
+Amendment by Pub. L. 99–145 (other than with respect to the authority of the Secretary of the Air Force to prescribe regulations) effective on the date on which regulations prescribed by the Secretary take effect and applicable to agreements entered into under this section on or after the effective date of such regulations and also with respect to each such agreement that was entered into before the effective date of such regulations by an individual who is a cadet on such date, see section 512(e) of Pub. L. 99–145, set out as a note under section 4348 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -107,8 +107,4 @@ For effective date of amendment by Pub. L. 88–276, see section 5(c) of Pub. L.
 #### Regulations Implementing 1985 Amendment
 
 Secretary of the Air Force to prescribe regulations required by subsec. (c) of this section as added by Pub. L. 99–145 not later than the end of the 90-day period beginning on Nov. 8, 1985, see section 512(d) of Pub. L. 99–145, set out as a note under section 4348 of this title.
-
-#### Cross References
-
-Effect upon enlisted status of acceptance of appointment as midshipman, see section 516 of this title.
 

@@ -14,7 +14,7 @@ For purposes of this part—
 
 &emsp;(1) the term “advanced nuclear reactor technologies” means—
 
-&emsp;&emsp;(A) advanced light water reactors that may be commercially available in the near-term, including but not limited to mid-sizedreactors with passive safety features for the generation of commercial electric power from nuclear fission; and
+&emsp;&emsp;(A) advanced light water reactors that may be commercially available in the near-term, including but not limited to mid-sized reactors with passive safety features for the generation of commercial electric power from nuclear fission; and
 
 &emsp;&emsp;(B) other advanced nuclear reactor technologies that may require prototype demonstration prior to commercial availability in the mid- or long-term, including but not limited to high-temperature, gas-cooled reactors and liquid metal reactors, for the generation of commercial electric power from nuclear fission;
 

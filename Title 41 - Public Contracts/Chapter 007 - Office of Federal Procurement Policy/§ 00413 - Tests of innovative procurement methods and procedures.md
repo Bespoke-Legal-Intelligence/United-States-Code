@@ -30,7 +30,7 @@ A prior section 15 of Pub. L. 93–400 amended sections 474, 481, and 487 of Tit
 
 #### Change of Name
 
-Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight ofHouse of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Test Program for Executive Agencies
 
@@ -38,7 +38,7 @@ Pub. L. 103–355, title V, §5061, Oct. 13, 1994, 108 Stat. 3352, as amended by
 
 “(a)
 
-In General.—The Administrator for Federal Procurement Policy (in this section referred to as the‘Administrator’) may conduct a program of tests of alternative and innovative procurement procedures. To the extent consistent with this section, such program shall be conducted consistent with section 15 of the Office of Federal Procurement Policy Act (41 U.S.C. 413). No more than 6 such tests shall be conducted under the authority of this subsection, and not more than 1 such test shall be conducted under such authority in an agency.
+In General.—The Administrator for Federal Procurement Policy (in this section referred to as the ‘Administrator’) may conduct a program of tests of alternative and innovative procurement procedures. To the extent consistent with this section, such program shall be conducted consistent with section 15 of the Office of Federal Procurement Policy Act (41 U.S.C. 413). No more than 6 such tests shall be conducted under the authority of this subsection, and not more than 1 such test shall be conducted under such authority in an agency.
 
 “(b)
 

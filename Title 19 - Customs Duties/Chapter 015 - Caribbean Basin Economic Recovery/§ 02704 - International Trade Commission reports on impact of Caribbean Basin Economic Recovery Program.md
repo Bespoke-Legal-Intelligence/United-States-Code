@@ -2,13 +2,17 @@
 
 #### (a) Reporting requirement
 
-The United States International Trade Commission (hereinafter in this section referred to as the “Commission”) shall prepare, and submit to the Congress and to the President, a report regarding the economic impact of this Act on United States industries and consumers during—
+#### (1) In general
 
-&emsp;(1) the twenty-four-month period beginning with August 5, 1983; and
+&emsp;The United States International Trade Commission (in this section referred to as the “Commission”) shall submit to Congress and the President biennial reports regarding the economic impact of this chapter on United States industries and consumers and on the economy of the beneficiary countries.
 
-&emsp;(2) each calendar year occurring thereafter until duty-free treatment under this chapter is terminated under section 2706(b) <sup>1</sup> of this title.
+#### (2) First report
 
-> For purposes of this section, industries in the Commonwealth of Puerto Rico and the insular possessions of the United States shall be considered to be United States industries.
+&emsp;The first report shall be submitted not later than September 30, 2001.
+
+#### (3) Treatment of Puerto Rico, etc.
+
+&emsp;For purposes of this section, industries in the Commonwealth of Puerto Rico and the insular possessions of the United States are considered to be United States industries.
 
 #### (b) Requisite areas of Commission assessment
 
@@ -22,7 +26,7 @@ The United States International Trade Commission (hereinafter in this section re
 
 &emsp;(A) analyze the production, trade and consumption of United States products affected by this Act, taking into consideration employment, profit levels, and use of productive facilities with respect to the domestic industries concerned, and such other economic factors in such industries as it considers relevant, including prices, wages, sales, inventories, patterns of demand, capital investment, obsolescence of equipment, and diversification of production; and
 
-&emsp;(B) describe the nature and extent of any significant change in employment, profit levels, and use of productive facilities, and suchother conditions as it deems relevant in the domestic industries concerned, which it believes are attributable to this Act.
+&emsp;(B) describe the nature and extent of any significant change in employment, profit levels, and use of productive facilities, and such other conditions as it deems relevant in the domestic industries concerned, which it believes are attributable to this Act.
 
 #### (c) Time of submission of reports; public participation
 
@@ -30,13 +34,25 @@ The United States International Trade Commission (hereinafter in this section re
 
 (2) The Commission shall provide opportunity for the submission by the public, either orally or in writing, or both, of information relating to matters that will be addressed in the reports.
 
-(Pub. L. 98–67, title II, §215, Aug. 5, 1983, 97 Stat. 393.)
+(Pub. L. 98–67, title II, §215, Aug. 5, 1983, 97 Stat. 393; Pub. L. 106–200, title II, §211(d)(1), May 18, 2000, 114 Stat. 287.)
 
 #### References in Text
 
-This Act, referred to in subsecs. (a) and (b), probably should be “this title” meaning title II of Pub. L. 98–67, Aug. 5, 1983, 97 Stat. 384, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under section 2701 of this title and Tables.
+This Act, referred to in subsec. (b), probably should be “this title” meaning title II of Pub. L. 98–67, Aug. 5, 1983, 97 Stat. 384, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
 Section 2706(b) of this title, referred to in subsec. (a)(2), was in the original “section 216(b)” which is classified to section 2705 of this title, but was translated as meaning section 218(b) as the probable intent of Congress. Section 2706(b) was repealed by Pub. L. 101–382, title II, §211, Aug. 20, 1990, 104 Stat. 655.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+#### Amendments
+
+2000—Subsec. (a). Pub. L. 106–200 inserted heading and amended text generally. Prior to amendment, text read as follows: “The United States International Trade Commission (hereinafter in this section referred to as the ‘Commission’) shall prepare, and submit to the Congress and to the President, a report regarding the economic impact of this Act on United States industries and consumers during—
+
+&emsp;“(1) the twenty-four-month period beginning with August 5, 1983; and
+
+&emsp;“(2) each calendar year occurring thereafter until duty-free treatment under this chapter is terminated under section 2706(b) of this title.
+
+> For purposes of this section, industries in the Commonwealth of Puerto Rico and the insular possessions of the United States shall be considered to be United States industries.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 3204 of this title.
 

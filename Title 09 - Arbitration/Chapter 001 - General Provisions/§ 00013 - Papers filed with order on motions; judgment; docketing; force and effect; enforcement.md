@@ -1,6 +1,6 @@
 ### §13. Papers filed with order on motions; judgment; docketing; force and effect; enforcement
 
-The party moving for an order confirming, modifying, or correcting an award shall, at thetime such order is filed with the clerk for the entry of judgment thereon, also file the following papers with the clerk:
+The party moving for an order confirming, modifying, or correcting an award shall, at the time such order is filed with the clerk for the entry of judgment thereon, also file the following papers with the clerk:
 
 (a) The agreement; the selection or appointment, if any, of an additional arbitrator or umpire; and each written extension of the time, if any, within which to make the award.
 
@@ -17,12 +17,6 @@ The judgment so entered shall have the same force and effect, in all respects, a
 #### Derivation
 
 Act Feb. 12, 1925, ch. 213, §13, 43 Stat. 886.
-
-#### Federal Rules of Civil Procedure
-
-Books and records kept by district court clerks and entries therein, see rule 79, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-Entry of judgment, see rule 58, Title 28, Appendix.
 
 #### Section Referred to in Other Sections
 

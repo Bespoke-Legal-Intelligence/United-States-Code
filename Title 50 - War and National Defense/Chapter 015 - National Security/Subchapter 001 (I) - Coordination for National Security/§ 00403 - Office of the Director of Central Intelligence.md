@@ -156,67 +156,7 @@ Pub. L. 103–178, title IV, §401, Dec. 3, 1993, 107 Stat. 2037, authorized Dir
 
 #### Central Intelligence Agency Consolidation Plan
 
-Pub. L. 102–183, title VI, §601, Dec. 4, 1991, 105 Stat. 1269, provided that:
-
-“(a)
-
-Funding Limitation.—Of the amount authorized by this Act \[see Tables for classification\] for the Central Intelligence Agency Program, not more than $10,000,000 is authorized for costs associated with the land acquisition and related expenditures necessary to implement a plan for consolidation of Central Intelligence Agency facilities. None of such funds may be obligated to implement such plan until all of the conditions set forth in subsection (d) have been met and (except as provided in subsection (c)) a period of 60 days beginning on the date on which all of such conditions have been met has expired. Any certification or report required under that subsection shall be provided in writing to the intelligence committees and the appropriations committees. If any of the required certifications cannot be provided, then the Director of Central Intelligence shall reopen the planning process with respect to the consolidation plan to the extent required to address any procedures that were determined to be deficient.
-
-“(b)
-
-Additional Funding.—Pursuant to the procedures set forth in the joint explanatory statement of managers to accompany the conference report on the bill H.R. 2038 of the 102d Congress \[Pub. L. 102–183\], an amount not to exceed $20,000,000 is authorized and may be made available if the Director determines that funds in addition to the amount specified in subsection (a) are required during fiscal year 1992 for costs associated with the land acquisition and related expenditures necessary to implement the consolidation plan.
-
-“(c)
-
-Limited Waiver of 60-
-
-Day Review Period.—The Director may spend not to exceed $500,000 of the funds specified in subsection (a) for options and agreements to ensure the continued availability of property under consideration for the consolidation plan without regard to the 60-day period specified in subsection (a).
-
-“(d)
-
-Conditions.—The following conditions and certifications must be met before the funds specified in subsection (a) may be obligated:
-
-&emsp;“(1) The Director of Central Intelligence has certified—
-
-&emsp;&emsp;“(A) that with respect to procedures governing land acquisition by the Central Intelligence Agency—
-
-&emsp;&emsp;&emsp;“(i) there are written procedures for such acquisition currently in effect;
-
-&emsp;&emsp;&emsp;“(ii) those procedures are consistent with land acquisition procedures of the General Services Administration; and
-
-&emsp;&emsp;&emsp;“(iii) the process used by the Central Intelligence Agency in developing the consolidation plan was in accordance with those written procedures; and
-
-&emsp;&emsp;“(B) that with respect to contracts of the Agency for construction and for the acquisition of movable property, equipment, and services, the procedures of the Agency are consistent with procedures under the Federal Acquisition Regulation.
-
-&emsp;“(2) The Administrator of General Services has provided a written report stating that in the opinion ofthe Administrator (A) implementing the consolidation plan will result in cost savings to the United States Government, and (B) the consolidation plan will conform to applicable local governmental regulations.
-
-&emsp;“(3) The Director of the Office of Management and Budget has certified—
-
-&emsp;&emsp;“(A) that the consolidation plan (and associated costs) have been reviewed by the Office of Management and Budget;
-
-&emsp;&emsp;“(B) that the funding for such plan is consistent with the 1990 budget agreement; and
-
-&emsp;&emsp;“(C) that funding for such plan has been approved by the Administration for fiscal year 1992.
-
-&emsp;“(4) The Inspector General of the Central Intelligence Agency has certified that corrective actions, if any, recommended as a result of the Inspector General's inquiry into the consolidation plan, and concurred in by the Director of Central Intelligence, will be implemented.
-
-&emsp;“(5) The Director of Central Intelligence has provided to the intelligence committees and appropriations committees a written report on the consolidation plan that includes—
-
-&emsp;&emsp;“(A) a comprehensive site evaluation, including zoning, site engineering, and environmental requirements, logistics, physical and technical security, and communications compatibility;
-
-&emsp;&emsp;“(B) a description of the anticipated effect of implementing the consolidation plan on personnel of the Central Intelligence Agency, including a discussion of the organizations and personnel that will be relocated and the rationale for such relocations and the Director's assurance that personnel are consulted and considered in the consolidation effort; and
-
-&emsp;&emsp;“(C) the Director's assurances that the Director, in evaluating and approving the plan, has considered global changes and budget constraints that may have the effect of reducing Central Intelligence Agency personnel requirements in the future.
-
-“(e)
-
-Definitions.—For purposes of this section:
-
-&emsp;“(1) The term ‘intelligence committees’ means the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
-
-&emsp;“(2) The term ‘appropriations committees’ means the Committees on Appropriations of the Senate and the House of Representatives.”
-
-Similar provisions were contained in Pub. L. 102–172, title VIII, §8083A, Nov. 26, 1991, 105 Stat. 1191.
+Pub. L. 102–183, title VI, §601, Dec. 4, 1991, 105 Stat. 1269, authorized funding in fiscal year 1992 for costs associated with the land acquisition and related expenditures necessary to implement a plan for consolidation of Central Intelligence Agency facilities. Similar provisions were contained in Pub. L. 102–172, title VIII, §8083A, Nov. 26, 1991, 105 Stat. 1191.
 
 #### Equal Employment Opportunity Plan
 

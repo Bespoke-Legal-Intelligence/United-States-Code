@@ -18,11 +18,3 @@ This Act, referred to in text, means act Aug. 5, 1935, which enacted this chapte
 
 For delegation to Secretary of the Treasury of authority vested in President by this section, see Ex. Ord. No. 10289, §1(b), Sept. 17, 1951, 16 F.R. 9499, set out as a note under section 301 of Title 3, The President.
 
-#### Cross References
-
-Boarding vessels, see section 1581 of this title.
-
-Certain functions of Secretary of Commerce relating to shipping and navigation transferred to Commissioner of Customs and Commandant of the Coast Guard, see note set out at beginning of chapter 1 of Title 46, Appendix, Shipping.
-
-Hovering vessel defined, see sections 1401, 1709 of this title.
-

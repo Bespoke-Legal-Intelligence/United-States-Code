@@ -2,19 +2,31 @@
 
 #### (a) In general
 
-The Secretary, acting through the Director of the Centers for Disease Control and Prevention, may make grants to States and local health departments for the purpose of enabling such States and departments to carry out programs—
+The Secretary, acting through the Director of the Centers for Disease Control and Prevention, may make grants to States and local health departments for the purpose of enabling such States and departments to carry out programs that may include the following:
 
-&emsp;(1) to screen men for prostate cancer as a preventive health measure;
+&emsp;(1) To identify factors that influence the attitudes or levels of awareness of men and health care practitioners regarding screening for prostate cancer.
 
-&emsp;(2) to provide appropriate referrals for medical treatment of men screened pursuant to paragraph (1) and to ensure, to the extent practicable, the provision of appropriate follow-up services;
+&emsp;(2) To evaluate, in consultation with the Agency for Health Care Policy and Research and the National Institutes of Health, the effectiveness of screening strategies for prostate cancer.
 
-&emsp;(3) to develop and disseminate public information and education programs for the detection and control of prostate cancer;
+&emsp;(3) To identify, in consultation with the Agency for Health Care Policy and Research, issues related to the quality of life for men after prostrate <sup>1</sup> cancer screening and followup.
 
-&emsp;(4) to improve the education, training, and skills of health professionals (including appropriate allied health professionals) in the detection and control of prostate cancer;
+&emsp;(4) To develop and disseminate public information and education programs for prostate cancer, including appropriate messages about the risks and benefits of prostate cancer screening for the general public, health care providers, policy makers and other appropriate individuals.
 
-&emsp;(5) to establish mechanisms through which the States and such departments can monitor the quality of screening procedures for prostate cancer, including the interpretation of such procedures; and
+&emsp;(5) To improve surveillance for prostate cancer.
 
-&emsp;(6) to evaluate activities conducted under paragraphs (1) through (5) through appropriate surveillance or program monitoring activities.
+&emsp;(6) To address the needs of underserved and minority populations regarding prostate cancer.
+
+&emsp;(7) Upon a determination by the Secretary, who shall take into consideration recommendations by the United States Preventive Services Task Force and shall seek input, where appropriate, from professional societies and other private and public entities, that there is sufficient consensus on the effectiveness of prostate cancer screening—
+
+&emsp;&emsp;(A) to screen men for prostate cancer as a preventive health measure;
+
+&emsp;&emsp;(B) to provide appropriate referrals for the medical treatment of men who have been screened under subparagraph (A) and to ensure, to the extent practicable, the provision of appropriate followup services and support services such as case management;
+
+&emsp;&emsp;(C) to establish mechanisms through which State and local health departments can monitor the quality of screening procedures for prostate cancer, including the interpretation of such procedures; and
+
+&emsp;&emsp;(D) to improve, in consultation with the Health Resources and Services Administration, the education, training, and skills of health practitioners (including appropriate allied health professionals) in the detection and control of prostate cancer.
+
+&emsp;(8) To evaluate activities conducted under paragraphs (1) through (7) through appropriate surveillance or program monitoring activities.
 
 #### (b) Requirement of matching funds
 
@@ -26,7 +38,7 @@ The Secretary, acting through the Director of the Centers for Disease Control an
 
 &emsp;(A) Non-Federal contributions required in paragraph (1) may be in cash or in kind, fairly evaluated, including equipment or services (and excluding indirect or overhead costs). Amounts provided by the Federal Government, or services assisted or subsidized to any significant extent by the Federal Government, may not be included in determining the amount of such non-Federal contributions.
 
-&emsp;(B) In making a determination of the amount of non-Federal contributions for purposes of paragraph (1), the Secretary may include only non-Federal contributions in excess of the average amount of non-Federal contributions made by the applicant involved toward the purpose described in subsection (a) of this section for the 2-year period preceding the fiscal year for which the applicant involved is applying to receive a grant under such subsection.
+&emsp;(B) In making a determination of the amount of non-Federal contributions for purposes of paragraph (1), the Secretary may include only non-Federal contributions in excess of the average amount of non-Federal contributions made by the applicant involved toward the purpose described in subsection (a) of this section for the 2-year period preceding the fiscal year for which the applicant involved isapplying to receive a grant under such subsection.
 
 &emsp;(C) In making a determination of the amount of non-Federal contributions for purposes of paragraph (1), the Secretary shall, subject to subparagraphs (A) and (B) of this paragraph, include any non-Federal amounts expended pursuant to title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] by the applicant involved toward the purpose described in paragraphs (1) and (2) of subsection (a) of this section.
 
@@ -38,11 +50,11 @@ The Secretary may not make a grant under subsection (a) of this section unless t
 
 The Secretary may not make a grant under subsection (a) of this section unless the applicant involved agrees—
 
-&emsp;(1) to ensure that, initially and throughout the period during which amounts are received pursuant to the grant, not less than 60 percent of the grant is expended to provide each of theservices or activities described in paragraphs (1) and (2) of such subsection;
+&emsp;(1) to ensure that, initially and throughout the period during which amounts are received pursuant to the grant, not less than 60 percent of the grant is expended to provide each of the services or activities described in paragraphs (1) and (2) of such subsection;
 
 &emsp;(2) to ensure that, by the end of any second fiscal year of payments pursuant to the grant, each of the services or activities described in such subsection is provided; and
 
-&emsp;(3) to ensure that not more than 40 percent of the grant is expended to provide the services or activities described in paragraphs (3) through (6) of such section.<sup>1</sup>
+&emsp;(3) to ensure that not more than 40 percent of the grant is expended to provide the services or activities described in paragraphs (3) through (6) of such section.<sup>2</sup>
 
 #### (e) Additional required agreements
 
@@ -84,7 +96,7 @@ The Secretary may not make a grant under subsection (a) of this section unless t
 
 &emsp;The Secretary may not make a grant under subsection (a) of this section unless the applicant involved agrees that—
 
-&emsp;&emsp;(A) the applicant will establish such fiscal control and fund accounting procedures as may be necessary to ensure the proper disbursal of, and accounting for, amounts received by the applicant under such section; <sup>2</sup> and
+&emsp;&emsp;(A) the applicant will establish such fiscal control and fund accounting procedures as may be necessary to ensure the proper disbursal of, and accounting for, amounts received by the applicant under such section; <sup>3</sup> and
 
 &emsp;&emsp;(B) upon request, the applicant will provide records maintained pursuant to paragraph (1) to the Secretary or the Comptroller of the United States for purposes of auditing the expenditures by the applicant of the grant.
 
@@ -98,7 +110,7 @@ The Secretary may not make a grant under subsection (a) of this section unless�
 
 &emsp;(1) the applicant involved submits to the Secretary a description of the purposes for which the applicant intends to expend the grant;
 
-&emsp;(2) the description identifies the populations, areas, and localities in the applicant <sup>3</sup> with a need for the services or activities described in subsection (a) of this section;
+&emsp;(2) the description identifies the populations, areas, and localities in the applicant <sup>4</sup> with aneed for the services or activities described in subsection (a) of this section;
 
 &emsp;(3) the description provides information relating to the services and activities to be provided, including a description of the manner in which the services and activities will be coordinated with any similar services or activities of public or nonprivate entities; and
 
@@ -110,7 +122,7 @@ The Secretary may not make a grant under subsection (a) of this section unless a
 
 #### (i) Method and amount of payment
 
-The Secretary shall determine the amount of a grant made under subsection (a) of this section. Payments under such grants may be made in advance on the basis of estimates or by wayof reimbursement, with necessary adjustments on account of the underpayments or overpayments, and in such installments and on such terms and conditions as the Secretary finds necessary to carry out the purposes of such grants.
+The Secretary shall determine the amount of a grant made under subsection (a) of this section. Payments under such grants may be made in advance on the basis of estimates or by way of reimbursement, with necessary adjustments on account of the underpayments or overpayments, and in such installments and on such terms and conditions as the Secretary finds necessary to carry out the purposes of such grants.
 
 #### (j) Technical assistance and provision of supplies and services in lieu of grant funds
 
@@ -132,19 +144,35 @@ For purposes of this section, the term “units of local government” includes 
 
 #### (1) In general
 
-&emsp;For the purpose of carrying out this section, there are authorized to be appropriated $20,000,000 for fiscal year 1993, and such sums as may be necessary for each of the fiscal years 1994 through 1998.
+&emsp;For the purpose of carrying out this section, there are authorized to be appropriated $20,000,000 for fiscal year 1993, and such sums as may be necessary for each of the fiscal years 1994 through 2004.
 
 #### (2) Allocation for technical assistance
 
 &emsp;Of the amounts appropriated under paragraph (1) for a fiscal year, the Secretary shall reserve not more than 20 percent for carrying out subsection (j)(1) of this section.
 
-(July 1, 1944, ch. 373, title III, §317D, as added Pub. L. 102–531, title III, §308, Oct. 27, 1992, 106 Stat. 3495; amended Pub. L. 103–43, title XX, §2010(i)(1)(B)(iv), June 10, 1993, 107 Stat. 213; Pub. L. 103–183, title VII, §705(b), Dec. 14, 1993, 107 Stat. 2241; Pub. L. 105–392, title IV, §401(a)(3), Nov. 13, 1998, 112 Stat. 3587.)
+(July 1, 1944, ch. 373, title III, §317D, as added Pub. L. 102–531, title III, §308, Oct. 27, 1992, 106 Stat. 3495; amended Pub. L. 103–43, title XX, §2010(i)(1)(B)(iv), June 10, 1993, 107 Stat. 213; Pub. L. 103–183, title VII, §705(b), Dec. 14, 1993, 107 Stat. 2241; Pub. L. 105–392, title IV, §401(a)(3), Nov. 13, 1998, 112 Stat. 3587; Pub. L. 106–505, title VI, §602(a), Nov. 13, 2000, 114 Stat. 2345.)
 
 #### References in Text
 
 The Social Security Act, referred to in subsec. (b)(2)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Amendments
+
+2000—Subsec. (a). Pub. L. 106–505, §602(a)(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The Secretary, acting through the Director of the Centers for Disease Control and Prevention, may make grants to States and local health departments for the purpose of enabling such States and departments to carry out programs—
+
+&emsp;“(1) to screen men for prostate cancer as a preventive health measure;
+
+&emsp;“(2) to provide appropriate referrals for medical treatment of men screened pursuant to paragraph (1) and to ensure, to the extent practicable, the provision of appropriate follow-up services;
+
+&emsp;“(3) to develop and disseminate public information and education programs for the detection and control of prostate cancer;
+
+&emsp;“(4) to improve the education, training, and skills of health professionals (including appropriate allied health professionals) in the detection and control of prostate cancer;
+
+&emsp;“(5) to establish mechanisms through which the States and such departments can monitor the quality of screening procedures for prostate cancer, including the interpretation of such procedures; and
+
+&emsp;“(6) to evaluate activities conducted under paragraphs (1) through (5) through appropriate surveillance or program monitoring activities.”
+
+Subsec. (<i>l</i>)(1). Pub. L. 106–505, §602(a)(2), substituted “2004” for “1998”.
 
 1998—Subsec. (<i>l</i>)(1). Pub. L. 105–392 made technical amendment to directory language of Pub. L. 103–183. See 1993 Amendment note below.
 
@@ -156,9 +184,11 @@ Subsec. (<i>l</i>)(1). Pub. L. 103–183, as amended by Pub. L. 105–392, subst
 
 Amendment by Pub. L. 105–392 deemed to have taken effect immediately after enactment of Pub. L. 103–183, see section 401(e) of Pub. L. 105–392, set out as a note under section 242m of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subsection.”</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “prostate”.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “subsection;”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be “subsection.”</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “application”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be “subsection;”.</i>
+
+<i><sup>4</sup></i><i> So in original. Probably should be “application”.</i>
 

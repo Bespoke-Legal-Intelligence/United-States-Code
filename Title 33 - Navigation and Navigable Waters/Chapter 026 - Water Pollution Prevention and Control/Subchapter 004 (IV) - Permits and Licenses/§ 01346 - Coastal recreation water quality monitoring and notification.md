@@ -1,0 +1,170 @@
+### §1346. Coastal recreation water quality monitoring and notification
+
+#### (a) Monitoring and notification
+
+#### (1) In general
+
+&emsp;Not later than 18 months after October 10, 2000, after consultation and in cooperation with appropriate Federal, State, tribal, and local officials (including local health officials), and after providing public notice and an opportunity for comment, the Administrator shall publish performance criteria for—
+
+&emsp;&emsp;(A) monitoring and assessment (including specifying available methods for monitoring) of coastal recreation waters adjacent to beaches or similar points of access that are used by the public for attainment of applicable water quality standards for pathogens and pathogen indicators; and
+
+&emsp;&emsp;(B) the prompt notification of the public, local governments, and the Administrator of any exceeding of or likelihood of exceeding applicable water quality standards for coastal recreation waters described in subparagraph (A).
+
+#### (2) Level of protection
+
+&emsp;The performance criteria referred to in paragraph (1) shall provide that the activities described in subparagraphs (A) and (B) of that paragraph shall be carried out as necessary for the protection of public health and safety.
+
+#### (b) Program development and implementation grants
+
+#### (1) In general
+
+&emsp;The Administrator may make grants to States and local governments to develop and implement programs for monitoring and notification for coastal recreation waters adjacent to beaches or similar points of access that are used by the public.
+
+#### (2) Limitations
+
+#### (A) In general
+
+&emsp;&emsp;The Administrator may award a grant to a State or a local government to implement a monitoring and notification program if—
+
+&emsp;&emsp;&emsp;(i) the program is consistent with the performance criteria published by the Administrator under subsection (a) of this section;
+
+&emsp;&emsp;&emsp;(ii) the State or local government prioritizes the use of grant funds for particularcoastal recreation waters based on the use of the water and the risk to human health presented by pathogens or pathogen indicators;
+
+&emsp;&emsp;&emsp;(iii) the State or local government makes available to the Administrator the factors used to prioritize the use of funds under clause (ii);
+
+&emsp;&emsp;&emsp;(iv) the State or local government provides a list of discrete areas of coastal recreation waters that are subject to the program for monitoring and notification for which the grant is provided that specifies any coastal recreation waters for which fiscal constraints will prevent consistency with the performance criteria under subsection (a) of this section; and
+
+&emsp;&emsp;&emsp;(v) the public is provided an opportunity to review the program through a process that provides for public notice and an opportunity for comment.
+
+#### (B) Grants to local governments
+
+&emsp;&emsp;The Administrator may make a grant to a local government under this subsection for implementation of a monitoring and notification program only if, after the 1-year period beginning on the date of publication of performance criteria under subsection (a)(1) of this section, the Administrator determines that the State is not implementing a program that meets the requirements of this subsection, regardless of whether the State has received a grant under this subsection.
+
+#### (3) Other requirements
+
+#### (A) Report
+
+&emsp;&emsp;A State recipient of a grant under this subsection shall submit to the Administrator, in such format and at such intervals as the Administrator determines to be appropriate, a report that describes—
+
+&emsp;&emsp;&emsp;(i) data collected as part of the program for monitoring and notification as described in subsection (c) of this section; and
+
+&emsp;&emsp;&emsp;(ii) actions taken to notify the public when water quality standards are exceeded.
+
+#### (B) Delegation
+
+&emsp;&emsp;A State recipient of a grant under this subsection shall identify each local government to which the State has delegated or intends to delegate responsibility for implementing a monitoring and notification program consistent with the performance criteria published under subsection (a) of this section (including any coastal recreation waters for which the authority to implement a monitoring and notification program would be subject to the delegation).
+
+#### (4) Federal share
+
+#### (A) In general
+
+&emsp;&emsp;The Administrator, through grants awarded under this section, may pay up to 100 percent of the costs of developing and implementing a program for monitoring and notification under this subsection.
+
+#### (B) Non-Federal share
+
+&emsp;&emsp;The non-Federal share of the costs of developing and implementing a monitoring and notification program may be—
+
+&emsp;&emsp;&emsp;(i) in an amount not to exceed 50 percent, as determined by the Administrator in consultation with State, tribal, and local government representatives; and
+
+&emsp;&emsp;&emsp;(ii) provided in cash or in kind.
+
+#### (c) Content of State and local government programs
+
+As a condition of receipt of a grant under subsection (b) of this section, a State or local government program for monitoring and notification under this section shall identify—
+
+&emsp;(1) lists of coastal recreation waters in the State, including coastal recreation waters adjacent to beaches or similar points of access that are used by the public;
+
+&emsp;(2) in the case of a State program for monitoring and notification, the process by which the State may delegate to local governments responsibility for implementing the monitoring and notification program;
+
+&emsp;(3) the frequency and location of monitoring and assessment of coastal recreation waters based on—
+
+&emsp;&emsp;(A) the periods of recreational use of the waters;
+
+&emsp;&emsp;(B) the nature and extent of use during certain periods;
+
+&emsp;&emsp;(C) the proximity of the waters to known point sources and nonpoint sources of pollution; and
+
+&emsp;&emsp;(D) any effect of storm events on the waters;
+
+&emsp;(4)(A) the methods to be used for detecting levels of pathogens and pathogen indicators that are harmful to human health; and
+
+&emsp;(B) the assessment procedures for identifying short-term increases in pathogens and pathogen indicators that are harmful to human health in coastal recreation waters (including increases in relation to storm events);
+
+&emsp;(5) measures for prompt communication of the occurrence, nature, location, pollutants involved, and extent of any exceeding of, or likelihood of exceeding, applicable water quality standards for pathogens and pathogen indicators to—
+
+&emsp;&emsp;(A) the Administrator, in such form as the Administrator determines to be appropriate; and
+
+&emsp;&emsp;(B) a designated official of a local government having jurisdiction over land adjoining the coastal recreation waters for which the failure to meet applicable standards is identified;
+
+&emsp;(6) measures for the posting of signs at beaches or similar points of access, or functionally equivalent communication measures that are sufficient to give notice to the public that the coastal recreation waters are not meeting or are not expected to meet applicable water quality standards for pathogens and pathogen indicators; and
+
+&emsp;(7) measures that inform the public of the potential risks associated with water contact activities in the coastal recreation watersthat do not meet applicable water quality standards.
+
+#### (d) Federal agency programs
+
+Not later than 3 years after October 10, 2000, each Federal agency that has jurisdiction over coastal recreation waters adjacent to beaches or similar points of access that are used by the public shall develop and implement, through a process that provides for public notice and an opportunity for comment, a monitoring and notification program for the coastal recreation waters that—
+
+&emsp;(1) protects the public health and safety;
+
+&emsp;(2) is consistent with the performance criteria published under subsection (a) of this section;
+
+&emsp;(3) includes a completed report on the information specified in subsection (b)(3)(A) of this section, to be submitted to the Administrator; and
+
+&emsp;(4) addresses the matters specified in subsection (c) of this section.
+
+#### (e) Database
+
+The Administrator shall establish, maintain, and make available to the public by electronic and other means a national coastal recreation water pollution occurrence database that provides—
+
+&emsp;(1) the data reported to the Administrator under subsections (b)(3)(A)(i) and (d)(3) of this section; and
+
+&emsp;(2) other information concerning pathogens and pathogen indicators in coastal recreation waters that—
+
+&emsp;&emsp;(A) is made available to the Administrator by a State or local government, from a coastal water quality monitoring program of the State or local government; and
+
+&emsp;&emsp;(B) the Administrator determines should be included.
+
+#### (f) Technical assistance for monitoring floatable material
+
+The Administrator shall provide technical assistance to States and local governments for the development of assessment and monitoring procedures for floatable material to protect public health and safety in coastal recreation waters.
+
+#### (g) List of waters
+
+#### (1) In general
+
+&emsp;Beginning not later than 18 months after the date of publication of performance criteria under subsection (a) of this section, based on information made available to the Administrator, the Administrator shall identify, and maintain a list of, discrete coastal recreation waters adjacent to beaches or similar points of access that are used by the public that—
+
+&emsp;&emsp;(A) specifies any waters described in this paragraph that are subject to a monitoring and notification program consistent with the performance criteria established under subsection (a) of this section; and
+
+&emsp;&emsp;(B) specifies any waters described in this paragraph for which there is no monitoring and notification program (including waters for which fiscal constraints will prevent the State or the Administrator from performing monitoring and notification consistent with the performance criteria established under subsection (a) of this section).
+
+#### (2) Availability
+
+&emsp;The Administrator shall make the list described in paragraph (1) available to the public through—
+
+&emsp;&emsp;(A) publication in the Federal Register; and
+
+&emsp;&emsp;(B) electronic media.
+
+#### (3) Updates
+
+&emsp;The Administrator shall update the list described in paragraph (1) periodically as new information becomes available.
+
+#### (h) EPA implementation
+
+In the case of a State that has no program for monitoring and notification that is consistent with the performance criteria published under subsection (a) of this section after the last day of the 3-year period beginning on the date on which the Administrator lists waters in the State under subsection (g)(1)(B) of this section, the Administrator shall conduct a monitoring and notification program for the listed waters based on a priority ranking established by the Administrator using funds appropriated for grants under subsection (i) of this section—
+
+&emsp;(1) to conduct monitoring and notification; and
+
+&emsp;(2) for related salaries, expenses, and travel.
+
+#### (i) Authorization of appropriations
+
+There is authorized to be appropriated for making grants under subsection (b) of this section, including implementation of monitoring and notification programs by the Administrator under subsection (h) of this section, $30,000,000 for each of fiscal years 2001 through 2005.
+
+(June 30, 1948, ch. 758, title IV, §406, as added Pub. L. 106–284, §4, Oct. 10, 2000, 114 Stat. 872.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1377 of this title.
+

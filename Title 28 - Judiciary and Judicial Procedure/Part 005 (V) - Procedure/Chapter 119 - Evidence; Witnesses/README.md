@@ -15,33 +15,11 @@
 
 #### Amendments
 
-1978—Pub. L. 95–539, §2(b), Oct. 28, 1978, 92 Stat. 2042, added items 1827 and 1828.
+<b>1978</b>—Pub. L. 95–539, §2(b), Oct. 28, 1978, 92 Stat. 2042, added items 1827 and 1828.
 
-1970—Pub. L. 91–563, §5(b), Dec. 19, 1970, 84 Stat. 1478, struck out item 1823 “United States officers and employees”.
+<b>1970</b>—Pub. L. 91–563, §5(b), Dec. 19, 1970, 84 Stat. 1478, struck out item 1823 “United States officers and employees”.
 
 Pub. L. 91–452, title III, §301(b), Oct. 15, 1970, 84 Stat. 932, added item 1826.
-
-#### Federal Rules of Civil Procedure
-
-Civil cases—
-
-&emsp;&emsp;Evidence, see Federal Rules of Evidence, Appendix to this title.
-
-&emsp;&emsp;Subpoena for attendance of witnesses, see Rule 45.
-
-#### Federal Rules of Criminal Procedure
-
-Subpoena for attendance of witnesses, see Rule 17, Title 18, Appendix, Crimes and Criminal Procedure.
-
-#### Rules of Evidence
-
-Evidence, see Rule 26, Federal Rules of Criminal Procedure, Title 18, Appendix, Crimes and Criminal Procedure, and Federal Rules of Evidence, Appendix to this title.
-
-Expert witnesses, see section 701 et seq., Federal Rules of Evidence.
-
-#### Cross References
-
-Criminal cases, witnesses and evidence, see sections 3481 et seq. of Title 18, Crimes and Criminal Procedure.
 
 #### Chapter Referred to in Other Sections
 

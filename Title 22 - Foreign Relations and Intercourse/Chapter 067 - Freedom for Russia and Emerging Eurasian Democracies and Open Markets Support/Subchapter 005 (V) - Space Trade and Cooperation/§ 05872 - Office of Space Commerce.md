@@ -10,7 +10,7 @@ The Office of Space Commerce—
 
 &emsp;(1) shall monitor the progress of any discussions described in section 5871(c)(1) of this title that are being conducted; and
 
-&emsp;(2) shall advise the Administrator of the National Aeronautics and Space Administration as to the impact on United States industry of each potential acquisition of space hardware, space technology, or space services from the independent states of the former Soviet Union, specifically including any anticompetitive issues the Office may observe.
+&emsp;(2) shall advise the Administrator of the National Aeronautics and Space Administration as to the impact on United States industry of each potential acquisition of space hardware, space technology, or space services from theindependent states of the former Soviet Union, specifically including any anticompetitive issues the Office may observe.
 
 (Pub. L. 102–511, title VI, §602, Oct. 24, 1992, 106 Stat. 3347.)
 

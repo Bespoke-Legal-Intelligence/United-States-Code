@@ -20,7 +20,7 @@ If, in any investigation initiated under chapter 1 of title II of the Trade Act 
 
 #### (c) “Contribute importantly” defined
 
-For purposes of this section and section 3372(a) of this title, the term “contribute importantly” refers to an important cause, but not necessarily the most important cause.
+For purposes of this section and section 3372(a) of this title, the term “contribute importantly”refers to an important cause, but not necessarily the most important cause.
 
 (Pub. L. 103–182, title III, §311, Dec. 8, 1993, 107 Stat. 2106.)
 

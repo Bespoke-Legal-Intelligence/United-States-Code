@@ -24,7 +24,7 @@
 
 &emsp;A State educational agency shall use not more than 5 percent of the amount available under subsection (a) of this section for activities such as—
 
-&emsp;&emsp;(A) training and technical assistance concerning drug and violence prevention for local educational agencies and educational service agencies, including teachers, administrators, coaches and athletic directors, other staff, parents, students, community leaders, health service providers, local law enforcement officials, and judicial officials;
+&emsp;&emsp;(A) training and technical assistance concerning drug and violence prevention for local educational agencies and educational service agencies, including teachers, administrators, coaches and athletic directors, other staff, parents, students, communityleaders, health service providers, local law enforcement officials, and judicial officials;
 
 &emsp;&emsp;(B) the development, identification, dissemination, and evaluation of the most readily available, accurate, and up-to-date curriculum materials (including videotapes, software, and other technology-based learning resources), for consideration by local educational agencies;
 
@@ -110,7 +110,7 @@ If a local educational agency chooses not to apply to receive the amount allocat
 
 #### References in Text
 
-Section 7111 of this title, referred to in subsec. (a)(1), (2)(A)(i), was in the original “section 4111”, meaningsection 4111 of Pub. L. 89–10, which was translated as reading section 4011 of that Act to reflect the probable intent of Congress, because Pub. L. 89–10 does not contain a section 4111, but does contain a section 4011 which relates to State allotments.
+Section 7111 of this title, referred to in subsec. (a)(1), (2)(A)(i), was in the original “section 4111”, meaning section 4111 of Pub. L. 89–10, which was translated as reading section 4011 of that Act to reflect the probable intent of Congress, because Pub. L. 89–10 does not contain a section 4111, but does contain a section 4011 which relates to State allotments.
 
 Section 5121 of this Act (as such section was in effect on the day preceding October 20, 1994), referred to in subsec. (a)(2)(A), means section 5121 of Pub. L. 89–10, as added by Pub. L. 100–297, title I, §1001, Apr. 28, 1988, 102 Stat. 254, as amended, which was classified to section 3191 of this title prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519.
 

@@ -16,9 +16,19 @@ For purposes of subsection (a) of this section, services under such subsection a
 
 #### (c) Funding
 
-Notwithstanding section 1397dd(a) of this title, from the amounts appropriated in such section for each of fiscal years 1998 through 2002, $30,000,000, to remain available until expended, is hereby transferred and made available in such fiscal year for grants under this section.
+#### (1) Transferred funds
 
-(July 1, 1944, ch. 373, title III, §330C, as added Pub. L. 105–33, title IV, §4922, Aug. 5, 1997, 111 Stat. 574; amended Pub. L. 105–174, title III, §3001, May 1, 1998, 112 Stat. 82.)
+&emsp;Notwithstanding section 1397dd(a) of this title, from the amounts appropriated in such section for each of fiscal years 1998 through 2002, $30,000,000, to remain available until expended, is hereby transferred and made available in such fiscal year for grants under this section.
+
+#### (2) Appropriations
+
+&emsp;For the purpose of making grants under this section, there is appropriated, out of any money in the Treasury not otherwise appropriated—
+
+&emsp;&emsp;(A) $70,000,000 for each of fiscal years 2001 and 2002 (which shall be combined with amounts transferred under paragraph (1) for each such fiscal years); and
+
+&emsp;&emsp;(B) $100,000,000 for fiscal year 2003.
+
+(July 1, 1944, ch. 373, title III, §330C, as added Pub. L. 105–33, title IV, §4922, Aug. 5, 1997, 111 Stat. 574; amended Pub. L. 105–174, title III, §3001, May 1, 1998, 112 Stat. 82; Pub. L. 106–554, §1(a)(6) \[title IX, §931(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–585.)
 
 #### References in Text
 
@@ -27,6 +37,8 @@ The Indian Self-Determination Act, referred to in subsec. (b)(2), is title I of 
 The Indian Health Care Improvement Act, referred to in subsec. (b)(3), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, as amended. Title V of the Act is classified generally to subchapter IV (§1651 et seq.) of chapter 18 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 25 and Tables.
 
 #### Amendments
+
+2000—Subsec. (c). Pub. L. 106–554 designated existing provisions as par. (1), inserted par. heading, and added par. (2).
 
 1998—Subsec. (c). Pub. L. 105–174 inserted “, to remain available until expended,” after “fiscal years 1998 through 2002, $30,000,000”.
 

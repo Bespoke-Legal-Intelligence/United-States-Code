@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-It shall be unlawful knowingly to transport any gambling device to any place in a State or a possession of the United States from any place outside of such State or possession: <i>Provided</i>, That this section shall not apply to transportation of any gambling device to a place in anyState which has enacted a law providing for the exemption of such State from the provisions of this section, or to a place in any subdivision of a State if the State in which such subdivision is located has enacted a law providing for the exemption of such subdivision from the provisions of this section, nor shall this section apply to any gambling device used or designed for use at and transported to licensed gambling establishments where betting is legal under applicable State laws: <i>Provided, further</i>, That it shall not be unlawful to transport in interstate or foreign commerce any gambling device into any State in which the transported gambling device is specifically enumerated as lawful in a statute of that State.
+It shall be unlawful knowingly to transport any gambling device to any place in a State or a possession of the United States from any place outside of such State or possession: <i>Provided</i>, That this section shall not apply to transportation of any gambling device to a place in any State which has enacted a law providing for the exemption of such State from the provisions of this section, or to a place in any subdivision of a State if the State in which such subdivision is located has enacted a law providing for the exemption of such subdivision from the provisions of this section, nor shall this section apply to any gambling device used or designed for use at and transported to licensed gambling establishments where betting is legal under applicable State laws: <i>Provided, further</i>, That it shall not be unlawful to transport in interstate or foreign commerce any gambling device into any State in which the transported gambling device is specifically enumerated as lawful in a statute of that State.
 
 #### (b) Authority of Federal Trade Commission
 
@@ -33,10 +33,6 @@ Pub. L. 102–251, §202(a)(2), which directed that “, District of Columbia,�
 #### Effective Date of 1962 Amendment
 
 Amendment effective on sixtieth day after Oct. 18, 1962, see section 7 of Pub. L. 87–840, set out as a note under section 1171 of this title.
-
-#### Cross References
-
-Penalty for violations, see section 1176 of this title.
 
 #### Section Referred to in Other Sections
 

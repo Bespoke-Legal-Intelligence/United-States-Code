@@ -2,7 +2,7 @@
 
 #### (a) Analysis by agencies, United States embassies and overseas missions of Agency for International Development; factors considered; affirmative investigation of adverse impacts; availability of information to public
 
-(1) In the course of reviewing assistance proposals of the multilateral development banks, the Administrator of the Agency for International Development, in consultation with the Secretary of the Treasury and the Secretary of State, shall ensure that other agencies and appropriate United States embassies and overseas missions of the Agency for International Development are instructed to analyze, where feasible, the environmental impacts of multilateral development loans well in advance of such loans’approval by the relevant institutions to determine whether the proposals will contribute to the sustainable development of the borrowing country.
+(1) In the course of reviewing assistance proposals of the multilateral development banks,the Administrator of the Agency for International Development, in consultation with the Secretary of the Treasury and the Secretary of State, shall ensure that other agencies and appropriate United States embassies and overseas missions of the Agency for International Development are instructed to analyze, where feasible, the environmental impacts of multilateral development loans well in advance of such loans’ approval by the relevant institutions to determine whether the proposals will contribute to the sustainable development of the borrowing country.
 
 (2) To the extent possible, such reviews shall address the economic viability of the project, adverse impacts on the environment, natural resources, public health, and indigenous peoples, and recommendations as to measures, including alternatives, that could eliminate or mitigate adverse impacts.
 
@@ -28,7 +28,7 @@ Section 1303 of Pub. L. 95–118 is based on section 701 of title VII of H.R. 37
 
 #### Change of Name
 
-Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Section Referred to in Other Sections
 

@@ -28,7 +28,7 @@ The functions of the Foundation shall be the planning, development, and implemen
 
 &emsp;(ii) The voting members of the Board, other than those referred to in clause (i), shall be appointed in accordance with procedures established by such bylaws.
 
-&emsp;(C) The voting members of the Board shall be individuals who are not Federal officers or employees and who have demonstrated an interest in rural tourism development. Of such voting members, at least a majority shall have experience and expertise in tourism trade promotion, at least one shall have experience and expertise in resource conservation, at least one shall have experience and expertise in financial administration in a fiduciary capacity, at least one shall be a representative of an Indian tribe who has experience and expertise in rural tourism on an Indian reservation, at least one shall represent a regional or national organization or association with a major interest in rural tourism development or promotion, and at least one shall be a representative of a State who is responsible for tourism promotion.
+&emsp;(C) The voting members of the Board shall be individuals who are not Federal officers or employees and who have demonstrated an interest in rural tourism development. Of such voting members, at least a majority shall have experience and expertise in tourism trade promotion, at least one shall have experience and expertise in resource conservation, at least one shall have experience and expertise in financial administration in a fiduciary capacity, at least one shall be a representative of an Indian tribe who has experience and expertise in rural tourism on an Indian reservation, atleast one shall represent a regional or national organization or association with a major interest in rural tourism development or promotion, and at least one shall be a representative of a State who is responsible for tourism promotion.
 
 &emsp;(D) Voting members of the Board shall each serve a term of six years, except that—
 
@@ -80,7 +80,7 @@ The Foundation shall have the power to enter into contracts, to execute instrume
 
 #### (1) In general
 
-&emsp;In carrying out the provisions of this section, the Board may adopt bylaws, rules, and regulations necessary for the administration of its functions and may hire officers and employees and contract for any other necessary services. Such officers and employees shall be appointed without regard to the provisions oftitle 5 governing appointments in the competitive service and may be paid without regard to the provisions of chapters 51 and 53 of such title relating to classification and General Schedule pay rates.
+&emsp;In carrying out the provisions of this section, the Board may adopt bylaws, rules, and regulations necessary for the administration of its functions and may hire officers and employees and contract for any other necessary services. Such officers and employees shall be appointed without regard to the provisions of title 5 governing appointments in the competitive service and may be paid without regard to the provisions of chapters 51 and 53 of such title relating to classification and General Schedule pay rates.
 
 #### (2) Services
 
@@ -134,5 +134,5 @@ Section was enacted as part of the Tourism Policy and Export Promotion Act of 19
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 

@@ -6,7 +6,7 @@
 
 &emsp;&emsp;(i) is entitled to basic educational assistance under this chapter; or
 
-&emsp;&emsp;(ii) is on active duty in the Armed Forces and but for clause (1)(A)(i) or clause (2)(A) of section 3011(a) or clause (1)(A)(i) or (ii) or clause (2) of section 3012(a) of this title would be eligible for such basic educational assistance; and
+&emsp;&emsp;(ii) is on active duty in the Armed Forces and but for clause (1)(A)(i) or clause (2) of section 3011(a) or clause (1)(A)(i) or (ii) or clause (2) of section 3012(a) of this title would be eligible for such basic educational assistance; and
 
 &emsp;(B) who dies while on active duty or within one year after discharge or release from active duty,
 
@@ -36,9 +36,11 @@
 
 (c) A payment under this section shall be considered to be a benefit under this title and, for purposes of section 3035(b)(1), it shall be considered to be an entitlement earned under this subchapter.
 
-(Added Pub. L. 100–689, title I, §101(a), Nov. 18, 1988, 102 Stat. 4161, §1417; amended Pub. L.101–237, title IV, §423(a)(3), (b)(1)(A), Dec. 18, 1989, 103 Stat. 2091, 2092; renumbered §3017 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §308, Oct. 29, 1992, 106 Stat. 4329; Pub. L. 104–275, title IV, §405(c)(2), Oct. 9, 1996, 110 Stat. 3340.)
+(Added Pub. L. 100–689, title I, §101(a), Nov. 18, 1988, 102 Stat. 4161, §1417; amended Pub. L. 101–237, title IV, §423(a)(3), (b)(1)(A), Dec. 18, 1989, 103 Stat. 2091, 2092; renumbered §3017 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §308, Oct. 29, 1992, 106 Stat. 4329; Pub. L. 104–275, title IV, §405(c)(2), Oct. 9, 1996, 110 Stat. 3340; Pub. L. 106–419, title I, §102(a)(2), Nov. 1, 2000, 114 Stat. 1824.)
 
 #### Amendments
+
+2000—Subsec. (a)(1)(A)(ii). Pub. L. 106–419 substituted “clause (2) of section 3011(a)” for “clause (2)(A) of section 3011(a)”.
 
 1996—Subsec. (a)(2)(A)(i). Pub. L. 104–275 substituted “Servicemembers’ Group” for “Servicemen's Group”.
 

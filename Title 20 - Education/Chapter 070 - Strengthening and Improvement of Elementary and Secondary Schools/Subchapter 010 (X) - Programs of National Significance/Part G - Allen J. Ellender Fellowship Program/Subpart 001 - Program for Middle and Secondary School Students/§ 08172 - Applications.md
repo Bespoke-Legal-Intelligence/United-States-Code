@@ -2,7 +2,7 @@
 
 #### (a) Application required
 
-No grant under this subpart may be made except upon an application at such time, in such manner, and accompanied by such information as the Secretary may reasonably require.
+No grant under this subpart may be made except upon an application at such time, in suchmanner, and accompanied by such information as the Secretary may reasonably require.
 
 #### (b) Contents of application
 

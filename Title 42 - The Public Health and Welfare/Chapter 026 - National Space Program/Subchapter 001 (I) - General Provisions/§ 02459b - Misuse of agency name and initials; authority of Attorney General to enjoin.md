@@ -4,5 +4,9 @@
 
 (b) Whenever it appears to the Attorney General that any person is engaged in an act or practice which constitutes or will constitute conduct prohibited by subsection (a) of this section, the Attorney General may initiate a civil proceeding in a district court of the United States to enjoin such act or practice.
 
-(Pub. L. 85–568, title III, §310, as added Pub. L. 98–52, title I, §107, July 15, 1983, 97 Stat. 284.)
+(Pub. L. 85–568, title III, §311, formerly §310, as added Pub. L. 98–52, title I, §107, July 15, 1983, 97 Stat. 284; renumbered §311, Pub. L. 106–391, title III, §324(a)(1), Oct. 30, 2000, 114 Stat. 1599.)
+
+#### Prior Provisions
+
+A prior section 311 of Pub. L. 85–568 was renumbered section 312 and is classified to section 2459c of this title.
 

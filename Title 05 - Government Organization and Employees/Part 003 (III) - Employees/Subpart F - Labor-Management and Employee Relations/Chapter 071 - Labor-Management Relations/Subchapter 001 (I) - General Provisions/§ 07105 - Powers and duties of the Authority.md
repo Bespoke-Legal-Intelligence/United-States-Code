@@ -40,7 +40,7 @@
 
 (2) The Authority may delegate to any administrative law judge appointed under subsection (d) of this section its authority under section 7118 of this title to determine whether any person has engaged in or is engaging in an unfair labor practice.
 
-(f) If the Authority delegates any authority to any regional director or administrative law judge to take any action pursuant to subsection (e) of this section, the Authority may, upon application by any interested person filed within 60 days after the date of the action, review such action, but the review shall not, unless specifically ordered by the Authority, operate as a stay of action. The Authority may affirm, modify, or reverse any action reviewed under this subsection. If the Authority does not undertake to grant review of the action under this subsection within 60 days after the later of—
+(f) If the Authority delegates any authority to any regional director or administrative lawjudge to take any action pursuant to subsection (e) of this section, the Authority may, upon application by any interested person filed within 60 days after the date of the action, review such action, but the review shall not, unless specifically ordered by the Authority, operate as a stay of action. The Authority may affirm, modify, or reverse any action reviewed under this subsection. If the Authority does not undertake to grant review of the action under this subsection within 60 days after the later of—
 
 &emsp;(1) the date of the action; or
 

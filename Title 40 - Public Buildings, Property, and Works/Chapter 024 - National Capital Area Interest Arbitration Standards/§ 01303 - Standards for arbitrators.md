@@ -30,7 +30,7 @@ An arbitrator rendering an arbitration award involving the employees of an inter
 
 #### (c) Requirements for final award
 
-In resolving a dispute submitted to arbitration involving the employees of an interstate compact agency operating in the national capital area, the arbitrator shall issue a written awardthat demonstrates that all the factors set forth in subsections (a) and (b) of this section have been considered and applied. An award may grant an increase in pay rates or benefits (including insurance and pension benefits), or reduce hours of work, only if the arbitrator concludes that any costs to the agency do not adversely affect the public welfare. The arbitrator's conclusion regarding the public welfare must be supported by substantial evidence.
+In resolving a dispute submitted to arbitration involving the employees of an interstate compact agency operating in the national capital area, the arbitrator shall issue a written award that demonstrates that all the factors set forth in subsections (a) and (b) of this section have been considered and applied. An award may grant an increase in pay rates or benefits (including insurance and pension benefits), or reduce hours of work, only if the arbitrator concludes that any costs to the agency do not adversely affect the public welfare. The arbitrator's conclusion regarding the public welfare must be supported by substantial evidence.
 
 (Pub. L. 104–50, title IV, §404, Nov. 15, 1995, 109 Stat. 464.)
 

@@ -2,7 +2,7 @@
 
 #### Codification
 
-Present provisions relating to personnel and compensation of Congressional officers and employees maybe found elsewhere in this chapter and in Acts and Resolutions cited in notes hereunder. Section was based on the following acts:
+Present provisions relating to personnel and compensation of Congressional officers and employees may be found elsewhere in this chapter and in Acts and Resolutions cited in notes hereunder. Section was based on the following acts:
 
 1949—Jan. 19, 1949, ch. 2, §1(d), (f), 63 Stat. 4.
 
@@ -81,6 +81,8 @@ In addition to these acts the following House Resolutions affected the salary of
 #### Legislative Branch Appropriation Acts
 
 The following acts have provided for funds for the operation of Congress:
+
+Pub. L. 106–554, §1(a)(2) \[title I\], Dec. 21, 2000, 114 Stat. 2763, 2763A–93.
 
 Pub. L. 106–57, title I, Sept. 29, 1999, 113 Stat. 408.
 

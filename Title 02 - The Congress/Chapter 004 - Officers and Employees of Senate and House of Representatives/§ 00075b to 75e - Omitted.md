@@ -6,7 +6,7 @@ Section 75b, act May 1, 1947, ch. 49, title I, 61 Stat. 58, accorded Clerk of Ho
 
 Sections 75c to 75e were omitted from the Code for lack of general applicability.
 
-Section 75c, based on H. Res. No. 449, Sept. 21, 1961, enacted into permanent law by Pub. L. 87–730, §103, Oct.2, 1962, 76 Stat. 693, related to basic compensation of Assistant Tally Clerks in Office of Clerk of House.
+Section 75c, based on H. Res. No. 449, Sept. 21, 1961, enacted into permanent law by Pub. L. 87–730, §103, Oct. 2, 1962, 76 Stat. 693, related to basic compensation of Assistant Tally Clerks in Office of Clerk of House.
 
 Section 75d, based on H. Res. No. 331, June 7, 1961, enacted into permanent law by Pub. L. 87–730, §103, Oct. 2, 1962, 76 Stat. 693, related to basic compensation of stationery and assistant stationery clerks.
 

@@ -56,7 +56,7 @@ Implementation grants may be used for activities to carry out homeownership prog
 
 #### (1) Form and procedure
 
-&emsp;An application for an implementation grant shall be submitted by an applicant in suchform and in accordance with such procedures as the Secretary shall establish.
+&emsp;An application for an implementation grant shall be submitted by an applicant in such form and in accordance with such procedures as the Secretary shall establish.
 
 #### (2) Minimum requirements
 
@@ -110,7 +110,7 @@ The Secretary shall notify each applicant, not later than 6 months after the dat
 
 #### References in Text
 
-The Fair Housing Act, referred to in subsec. (d)(2)(K), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, as amended, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
+The Fair Housing Act, referred to in subsec. (d)(2)(K), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81,as amended, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
 
 The Civil Rights Act of 1964, referred to in subsec. (d)(2)(K), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
 

@@ -10,7 +10,3 @@ Section 143 related to regulations for mailing, transportation, etc., of insect 
 
 Section 144, amended Sept. 3, 1954, ch. 1263, §16, 68 Stat. 1232, related to punishment for unlawful transportation or removal of insect pests.
 
-#### Continuation of Provisions
-
-Sections amended or repealed by Pub. L. 85–36 to continue in force as to rights, liabilities and violations that occurred before May 23, 1957, and findings, regulations, other orders, permits and certificates issued before May 23, 1957, as remaining in effect until modified, see section 111 of Pub. L. 85–36 set out as a note under section 147a of this title.
-

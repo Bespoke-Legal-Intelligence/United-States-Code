@@ -22,7 +22,7 @@ The President may designate a foreign country or instrumentality for purposes of
 
 #### (c) Modification or withdrawal of waivers and designations
 
-The President may modify or withdraw any waiver granted pursuant to subsection (a) of this section or designation made pursuant to subsection (b) of this section.
+The President may modify or withdraw any waiver granted pursuant to subsection (a) of thissection or designation made pursuant to subsection (b) of this section.
 
 #### (d) Omitted
 
@@ -224,7 +224,7 @@ NOW, THEREFORE, by virtue of the authority vested in me as President by the Cons
 
 Section 1. In applying the provisions of the Buy American Act, the heads of the agencies listed in Annex 1, Parts A and B, of this order are requested, as of the date of this order, to apply no price differential between articles, materials, or supplies of U.S. origin and those originating in the member states of the EC.
 
-Sec. 2. For purposes of this order, the rule of origin specified in section 308 of the Trade Agreements Act of1979, as amended (19 U.S.C. 2518), shall apply in determining whether goods originate in the member states of the EC.
+Sec. 2. For purposes of this order, the rule of origin specified in section 308 of the Trade Agreements Act of 1979, as amended (19 U.S.C. 2518), shall apply in determining whether goods originate in the member states of the EC.
 
 Sec. 3. This order shall apply only to solicitations, issued by agencies listed in Annex 1, Parts A and B, of this order, above the threshold amounts set forth in Annex 2.
 
@@ -262,7 +262,7 @@ Department of Labor
 
 Department of State
 
-Department of Transportation (The national security consideration currently applicable to the Department of Defense under the GATT Government Procurement Code is equally applicable under this Agreement to the Coast Guard)
+Department of Transportation (The national security consideration currently applicable to the Department of Defense under the GATT Government ProcurementCode is equally applicable under this Agreement to the Coast Guard)
 
 Department of the Treasury
 

@@ -90,12 +90,6 @@ Amendment by Pub. L. 94–131 effective Jan. 24, 1978, and applicable on and aft
 
 Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 93–596, set out as a note under section 1111 of Title 15, Commerce and Trade.
 
-#### Cross References
-
-Benefit of filing date in foreign country, see section 119 of this title.
-
-Filing application in foreign country, see section 184 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 11, 102, 119 of this title.

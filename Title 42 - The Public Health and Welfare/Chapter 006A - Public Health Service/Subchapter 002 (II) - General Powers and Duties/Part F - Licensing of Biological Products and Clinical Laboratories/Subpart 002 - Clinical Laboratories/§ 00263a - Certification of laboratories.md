@@ -136,9 +136,7 @@ No person may solicit or accept materials derived from the human body for labora
 
 &emsp;&emsp;&emsp;(ii) such other means as the Secretary determines appropriate.
 
-#### (3) Report
-
-&emsp;The Secretary shall annually prepare and submit, to the Committee on Energy and Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate, a report that describes the results of the evaluation conducted under paragraph (2)(D).
+#### (3) Omitted
 
 #### (f) Standards
 
@@ -178,7 +176,7 @@ No person may solicit or accept materials derived from the human body for labora
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall establish standards for the proficiency testing programs for laboratories issued a certificate under this section which are conducted by the Secretary, conducted by an organization approved under subparagraph (C), or conducted by an approved accrediting body. The standards shall require that a laboratory issued a certificateunder this section be tested for each examination and procedure conducted within a category of examinations or procedures for which it has received a certificate, except for examinations and procedures for which the Secretary has determined that a proficiency test cannot reasonably be developed. The testing shall be conducted on a quarterly basis, except where the Secretary determines for technical and scientific reasons that a particular examination or procedure may be tested less frequently (but not less often than twice per year).
+&emsp;&emsp;The Secretary shall establish standards for the proficiency testing programs for laboratories issued a certificate under this section which are conducted by the Secretary, conducted by an organization approved under subparagraph (C), or conducted by an approved accrediting body. The standards shall require that a laboratory issued a certificate under this section be tested for each examination and procedure conducted within a category of examinations or procedures for which it has received a certificate, except for examinations and procedures for which the Secretary has determined that a proficiency test cannot reasonably be developed. The testing shall be conducted on a quarterly basis, except where the Secretary determines for technical and scientific reasons that a particular examination or procedure may be tested less frequently (but not less often than twice per year).
 
 #### (B) Criteria
 
@@ -402,6 +400,10 @@ In carrying out this section, the Secretary shall consult with appropriate priva
 
 The Social Security Act, referred to in subsecs. (i)(3) and (n)(6), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII and XIX of the Social Security Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
+#### Codification
+
+Subsec. (e)(3) of this section, which required the Secretary to annually prepare and submit to certain committees of Congress a report describing the results of the evaluation conducted under subsec. (e)(2)(D) of this section, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 96 of House Document No. 103–7.
+
 #### Amendments
 
 1997—Subsec. (d)(3). Pub. L. 105–115 amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “The examinations and procedures identified in paragraph (2) are simple laboratory examinations and procedures which, as determined by the Secretary, have an insignificant risk of an erroneous result, including those which—
@@ -414,10 +416,6 @@ The Social Security Act, referred to in subsecs. (i)(3) and (n)(6), is act Aug. 
 
 1988—Pub. L. 100–578 substituted “Certification of laboratories” for “Licensing of laboratories” in section catchline, and amended text generally, revising and restating as subsecs. (a) to (q) provisions of former subsecs. (a) to (<i>l</i>).
 
-#### Change of Name
-
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
 #### Effective Date of 1997 Amendment
 
 Amendment by Pub. L. 105–115 effective 90 days after Nov. 21, 1997, except as otherwise provided, see section 501 of Pub. L. 105–115, set out as a note under section 321 of Title 21, Food and Drugs.
@@ -429,10 +427,6 @@ Section 3 of Pub. L. 100–578 provided that: “Subsections (g)(1), (h), (i), (
 #### Effective Date
 
 Section 5(b) of Pub. L. 90–174 provided that: “The amendment made by subsection (a) \[enacting this section\] shall become effective on the first day of the thirteenth month after the month \[December 1967\] in which it is enacted, except that the Secretary of Health, Education, and Welfare may postpone such effective date for such additional period as he finds necessary, but not beyond the first day of the 19th month after such month \[December 1967\] in which the amendment is enacted.”
-
-#### Short Title
-
-Section 5(c) of Pub. L. 90–174 provided that: “This section \[enacting this section and provisions set out as a note under this section\] may be cited as the ‘Clinical Laboratories Improvement Act of 1967.’ ”
 
 #### Studies
 

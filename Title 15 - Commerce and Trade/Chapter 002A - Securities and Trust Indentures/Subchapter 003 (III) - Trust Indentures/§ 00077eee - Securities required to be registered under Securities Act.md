@@ -24,7 +24,7 @@ Subject to the provisions of section 77ddd of this title, a registration stateme
 
 #### (c) Information required in prospectus
 
-A prospectus relating to any such security shall include to the extent the Commission may prescribe by rules and regulations as necessary and appropriate in the public interest or for the protection of investors, as though such inclusion were required by section 10 of the Securities Actof 1933 \[15 U.S.C. 77j\], a written statement containing the analysis set forth in the registration statement, of any indenture provisions with respect to the matters specified in paragraph (2) of subsection (a) of this section, together with a supplementary analysis, prepared by the Commission, of such provisions and of the effect thereof, if, in the opinion of the Commission, the inclusion of such supplementary analysis is necessary or appropriate in the public interest or for the protection of investors, and the Commission so declares by order after notice and, if demanded by the issuer, opportunity for hearing thereon. Such order shall be entered prior to the effective date of registration, except that if opportunity for hearing thereon is demanded by the issuer such order shall be entered within a reasonable time after such opportunity for hearing.
+A prospectus relating to any such security shall include to the extent the Commission may prescribe by rules and regulations as necessary and appropriate in the public interest or for the protection of investors, as though such inclusion were required by section 10 of the Securities Act of 1933 \[15 U.S.C. 77j\], a written statement containing the analysis set forth in the registration statement, of any indenture provisions with respect to the matters specified in paragraph (2) of subsection (a) of this section, together with asupplementary analysis, prepared by the Commission, of such provisions and of the effect thereof, if, in the opinion of the Commission, the inclusion of such supplementary analysis is necessary or appropriate in the public interest or for the protection of investors, and the Commission so declares by order after notice and, if demanded by the issuer, opportunity for hearing thereon. Such order shall be entered prior to the effective date of registration, except that if opportunity for hearing thereon is demanded by the issuer such order shall be entered within a reasonable time after such opportunity for hearing.
 
 #### (d) Applicability of other statutory provisions
 
@@ -51,28 +51,6 @@ Amendment by act Aug. 10, 1954, effective 60 days after Aug. 10, 1954, see note 
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
-#### Cross References
-
-Application for qualification of indenture—
-
-&emsp;&emsp;Section as applicable to, see section 77ggg of this title.
-
-&emsp;&emsp;To include information and documents required by this section, see section 77ggg of this title.
-
-Computation of aggregate principal amount of securities for exemption purposes to disregard securities to which this section is not applicable, see section 77ddd of this title.
-
-Definition of term, prospectus, as limited by subsec. (c) of this section, see section 77ccc of this title.
-
-Order of disqualification of trustee for material conflict of interest in two or more indentures pursuant to subsec. (b) of this section, see section 77jjj of this title.
-
-Prohibitions relating to interstate commerce and the mails unless prospectus requirements of this section are complied with, see section 77fff of this title.
-
-Review of Commission orders pursuant to subsec. (b) of this section, see section 77vvv of this title.
-
-Rules and regulations, authority of Commission to make, issue, amend, and rescind, see section 77sss of this title.
-
-Transactions exempt from Securities Act of 1933, section as inapplicable to, see section 77ddd of this title.
 
 #### Section Referred to in Other Sections
 

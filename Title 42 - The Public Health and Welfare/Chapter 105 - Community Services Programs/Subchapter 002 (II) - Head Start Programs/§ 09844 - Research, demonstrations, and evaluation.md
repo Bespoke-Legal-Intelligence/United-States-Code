@@ -128,7 +128,7 @@ The Secretary shall take necessary steps to ensure that all studies, reports, pr
 
 #### (4) Programs
 
-&emsp;The Secretary shall ensure that the research focuses primarily on Head Start programs that operate in the 50 States, the Commonwealth of Puerto Rico, or the District of Columbia and that do not specifically target special populations.
+&emsp;The Secretary shall ensure that the research focuses primarily on Head Start programs thatoperate in the 50 States, the Commonwealth of Puerto Rico, or the District of Columbia and that do not specifically target special populations.
 
 #### (5) Analysis
 
@@ -182,7 +182,7 @@ The Secretary shall take necessary steps to ensure that all studies, reports, pr
 
 #### (A) Submission of interim reports
 
-&emsp;&emsp;The organization shall prepare and submit to the Secretary two interim reports on the research. The first interim report shall describe the design of the research, and the rationale for the design, including a description of how potential sources of variation in impact of Head Start programs have beenconsidered in designing the research. The second interim report shall describe the status of the research and preliminary findings of the research, as appropriate.
+&emsp;&emsp;The organization shall prepare and submit to the Secretary two interim reports on the research. The first interim report shall describe the design of the research, and the rationale for the design, including a description of how potential sources of variation in impact of Head Start programs have been considered in designing the research. The second interim report shall describe the status of the research and preliminary findings of the research, as appropriate.
 
 #### (B) Submission of final report
 

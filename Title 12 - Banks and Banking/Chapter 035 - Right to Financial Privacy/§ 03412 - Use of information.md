@@ -40,7 +40,7 @@ Notwithstanding section 3401(6) <sup>1</sup> of this title or any other provisi
 
 The Right of Financial Privacy Act of 1978, and the Financial Privacy Act of 1978, referred to in subsec. (b), both probably mean title XI of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3697, known as the Right to Financial Privacy Act of 1978, which is classified generally to this chapter (§3401 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 3401 of this title and Tables.
 
-The Privacy Act of 1974, referred to in subsec. (b), is Pub. L. 93–579, Dec. 31, 1974, 88 Stat. 1896, which enacted section 552a of Title 5, Government Organization and Employees, and provisions set out as notes under section 552a of Title 5.
+The Privacy Act of 1974, referred to in subsec. (b), is Pub. L. 93–579, Dec. 31, 1974, 88 Stat. 1896, which enactedsection 552a of Title 5, Government Organization and Employees, and provisions set out as notes under section 552a of Title 5.
 
 Section 3401(6) of this title, referred to in subsec. (e), was redesignated section 3401(7) of this title by Pub. L. 101–73, title IX, §941(1), Aug. 9, 1989, 103 Stat. 496.
 

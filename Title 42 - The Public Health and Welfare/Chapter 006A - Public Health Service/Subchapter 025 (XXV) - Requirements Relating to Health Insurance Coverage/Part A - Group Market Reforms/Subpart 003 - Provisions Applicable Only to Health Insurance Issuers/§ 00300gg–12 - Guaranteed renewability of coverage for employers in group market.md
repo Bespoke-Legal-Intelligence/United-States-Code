@@ -42,7 +42,7 @@ A health insurance issuer may nonrenew or discontinue health insurance coverage 
 
 &emsp;&emsp;(B) the issuer offers to each plan sponsor provided coverage of this type in such market, the option to purchase all (or, in the case of the large group market, any) other health insurance coverage currently being offered by the issuer to a group health plan in such market; and
 
-&emsp;&emsp;(C) in exercising the option to discontinue coverage of this type and in offering the option of coverage under subparagraph (B), the issuer acts uniformly without regard to the claims experience of those sponsors or any health status-related factor relating to any participants or beneficiaries covered or new participants or beneficiaries who may become eligible for such coverage.
+&emsp;&emsp;(C) in exercising the option to discontinue coverage of this type and in offering the option of coverage under subparagraph (B), the issuer acts uniformly without regard to the claims experience of those sponsors or any health status-related factor relating to anyparticipants or beneficiaries covered or new participants or beneficiaries who may become eligible for such coverage.
 
 #### (2) Discontinuance of all coverage
 

@@ -14,7 +14,7 @@ The Federal Communications Commission (in this chapter referred to as the “Com
 
 &emsp;(ii) be financially interested in any company or other entity engaged in the business of communication by wire or radio or in the use of the electromagnetic spectrum;
 
-&emsp;(iii) be financially interested in any company or other entity which controls any company or other entity specified in clause (i) or clause (ii), or which derives a significant portion of its total income from ownership of stocks, bonds, or other securities of any such company or other entity; or
+&emsp;(iii) be financially interested in any company or other entity which controls any company or other entity specified in clause (i) or clause (ii), or which derives a significant portion of its total income from ownership ofstocks, bonds, or other securities of any such company or other entity; or
 
 &emsp;(iv) be employed by, hold any official relation to, or own any stocks, bonds, or other securities of, any person significantly regulated by the Commission under this chapter;
 
@@ -44,7 +44,7 @@ commissioners <sup>1</sup> shall be appointed for terms of five years and until
 
 #### (d) Compensation of Commission members
 
-Each Commissioner shall receive an annual salary at the annual rate payable from time to time for level IV of the Executive Schedule, payable in monthly installments. The Chairman ofthe Commission, during the period of his service as Chairman, shall receive an annual salary at the annual rate payable from time to time for level III of the Executive Schedule.
+Each Commissioner shall receive an annual salary at the annual rate payable from time to time for level IV of the Executive Schedule, payable in monthly installments. The Chairman of the Commission, during the period of his service as Chairman, shall receive an annual salary at the annual rate payable from time to time for level III of the Executive Schedule.
 
 #### (e) Principal office; special sessions
 
@@ -56,7 +56,7 @@ The principal office of the Commission shall be in the District of Columbia, whe
 
 (2) Without regard to the civil-service laws, but subject to chapter 51 and subchapter III of chapter 53 of title 5, each commissioner may appoint three professional assistants and a secretary, each of whom shall perform such duties as such commissioner shall direct. In addition, the chairman of the Commission may appoint, without regard to the civil-service laws, but subject to chapter 51 and subchapter III of chapter 53 of title 5, and administrative assistant who shall perform such duties as the chairman shall direct.
 
-(3) The Commission shall fix a reasonable rate of extra compensation for overtime services of engineers in charge and radio engineers of the Field Engineering and Monitoring Bureau of the Federal Communications Commission, who may be required to remain on duty between the hours of 5 o'clock postmeridian and 8 o'clock antemeridian or on Sundays or holidays to perform services in connection with the inspection of ship radio equipment and apparatus for the purposes of part II of subchapter III of this chapter or the Great Lakes Agreement, on the basis of one-half day's additional pay for each two hours or fraction thereof of at least one hour that the overtime extends beyond 5 o'clock postmeridian (but not to exceed two and one-half days’ pay for the full period from 5 o'clock postmeridian to 8 o'clock antemeridian) and two additional days’ pay for Sunday or holiday duty. The said extra compensation for overtime services shall be paid by the master, owner, or agent of such vessel to the local United States collector of customs or his representative, who shall deposit such collection into the Treasury of the United States to an appropriately designated receipt account: <i>Provided</i>, That the amounts of such collections received by the said collector of customs or his representatives shall be covered into the Treasury as miscellaneous receipts; and the payments of such extra compensation to the several employees entitled thereto shall be made from the annual appropriations for salaries and expenses of the Commission: <i>Provided further</i>, That to the extent that the annual appropriations which are authorized to be made from the general fund of the Treasury are insufficient, there are authorized to be appropriated from the general fund of the Treasury such additional amounts as may be necessary to the extent that the amounts of such receipts are in excess of the amounts appropriated: <i>Provided further</i>, That such extra compensation shall be paid if such field employees have been ordered to report for duty and have so reported whether the actual inspection of the radio equipment or apparatus takes place or not: <i>And provided further</i>, That in those ports where customary working hours are other than those hereinabove mentioned, the engineers in charge are vested with authority to regulate the hours of such employees so as to agree with prevailing working hours in said ports where inspections are to be made, but nothing contained in this proviso shall be construed in any manner to alter the length of a working day for the engineers in charge and radio engineers or the overtime pay herein fixed: and <i>Provided further</i>, That, in the alternative, an entity designated by the Commission may make the inspections referred to in this paragraph.
+(3) The Commission shall fix a reasonable rate of extra compensation for overtime services of engineers in charge and radio engineers of the Field Engineering and Monitoring Bureau of the Federal Communications Commission, who may be required to remain on duty between the hours of 5 o'clock postmeridian and 8 o'clock antemeridian or on Sundays or holidays to perform services in connection with the inspection of ship radio equipment and apparatus for the purposes of part II of subchapter III of this chapter or the Great Lakes Agreement, on the basis of one-half day's additional pay for each two hours or fraction thereof of at least one hour that the overtime extends beyond 5 o'clock postmeridian (but not to exceed two and one-half days’ pay for the full period from 5 o'clock postmeridian to 8 o'clock antemeridian) and two additional days’pay for Sunday or holiday duty. The said extra compensation for overtime services shall be paid by the master, owner, or agent of such vessel to the local United States collector of customs or his representative, who shall deposit such collection into the Treasury of the United States to an appropriately designated receipt account: <i>Provided</i>, That the amounts of such collections received by the said collector of customs or his representatives shall be covered into the Treasury as miscellaneous receipts; and the payments of such extra compensation to the several employees entitled thereto shall be made from the annual appropriations for salaries and expenses of the Commission: <i>Provided further</i>, That to the extent that the annual appropriations which are authorized to be made from the general fund of the Treasury are insufficient, there are authorized to be appropriated from the general fund of the Treasury such additional amounts as may be necessary to the extent that the amounts of such receipts are in excess of the amounts appropriated: <i>Provided further</i>, That such extra compensation shall be paid if such field employees have been ordered to report for duty and have so reported whether the actual inspection of the radio equipment or apparatus takes place or not: <i>And provided further</i>, That in those ports where customary working hours are other than those hereinabove mentioned, the engineers in charge are vested with authority to regulate the hours of such employees so as to agree with prevailing working hours in said ports where inspections are to be made, but nothing contained in this proviso shall be construed in any manner to alter the length of a working day for the engineers in charge and radio engineers or the overtime pay herein fixed: and <i>Provided further</i>, That, in the alternative, an entity designated by the Commission may make the inspections referred to in this paragraph.
 
 (4)(A) The Commission, for purposes of preparing or administering any examination for an amateur station operator license, may accept and employ the voluntary and uncompensated services of any individual who holds an amateur station operator license of a higher class than the class of license for which the examination is being prepared or administered. In the case of examinations for the highest class of amateur station operator license, the Commission may accept and employ such services of any individual who holds such class of license.
 
@@ -96,7 +96,7 @@ The principal office of the Commission shall be in the District of Columbia, whe
 
 > Nothing in this clause shall be construed to grant individuals recruited and trained under this subparagraph any authority to issue sanctions to violators or to take any enforcement action other than any action which the Commission may prescribe by rule.
 
-(D) The Commission shall have the authority to endorse certification of individuals to perform transmitter installation, operation, maintenance, and repair duties in the private land mobile services and fixed services (as defined by the Commission by rule) if such certification programs are conducted by organizations or committees which are representative of the users in those services and which consist of individuals who are not officers or employees of the Federal Government.
+(D) The Commission shall have the authority to endorse certification of individuals to perform transmitter installation, operation, maintenance, and repair duties in the private land mobile services and fixed services (as defined bythe Commission by rule) if such certification programs are conducted by organizations or committees which are representative of the users in those services and which consist of individuals who are not officers or employees of the Federal Government.
 
 (E) The authority of the Commission established in this paragraph shall not be subject to or affected by the provisions of part III of title 5 or section 1342 of title 31.
 
@@ -142,7 +142,7 @@ The principal office of the Commission shall be in the District of Columbia, whe
 
 (C) For the purpose of Federal law on income taxes, estate taxes, and gift taxes, property or services accepted under the authority of subparagraph (A) shall be deemed to be a gift, bequest, or devise to the United States.
 
-(D) The Commission shall promulgate regulations to carry out the provisions of this paragraph. Such regulations shall include provisions to preclude the acceptance of any gift, bequest, or donation that would create a conflict of interest or the appearance of a conflict of interest.
+(D) The Commission shall promulgate regulations to carry out the provisions of this paragraph. Such regulations shall include provisionsto preclude the acceptance of any gift, bequest, or donation that would create a conflict of interest or the appearance of a conflict of interest.
 
 #### (h) Quorum; seal
 
@@ -202,7 +202,7 @@ Federal law on income taxes, estate taxes, and gift taxes, referred to in subsec
 
 In subsec. (f)(1), (2) “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification of 1949” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
-In subsec. (f)(4)(E), “section 1342 of title 31” substituted for “section 3679(b) of the Revised Statutes (31 U.S.C. 665(b))” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (f)(4)(E), “section 1342 of title 31” substituted for “section 3679(b) of the Revised Statutes (31 U.S.C. 665(b))” on authority of Pub. L. 97–258, §4(b),Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
 
@@ -312,6 +312,10 @@ Section 501(b)(4) of Pub. L. 97–253 provided that: “The amendments made in p
 
 Amendment by act Aug. 13, 1954, effective Nov. 13, 1954, see section 6 of act Aug. 13, 1954, set out as an Effective Date note under section 507 of this title.
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsecs. (g)(2)(C) and (k) of this section relating to requirements to submit regular periodic reports to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 5th and 9th items on page 167 of House Document No. 103–7.
+
 #### Transfer of Functions
 
 All offices of collector of customs, referred to in subsec. (f)(3), in Bureau of Customs of Department of the Treasury to which appointments were required to be made by President with advice and consent of Senate ordered abolished with such offices to be terminated not later than Dec. 31, 1966, by Reorg. Plan No. 1 of 1965, eff. May 25, 1965, 30 F.R. 7035, 79 Stat. 1317, set out in the Appendix to Title 5, Government Organization and Employees. All functions of offices eliminated were already vested in Secretary of the Treasury by Reorg. Plan No. 26 of 1950, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5.
@@ -320,7 +324,7 @@ All offices of collector of customs, referred to in subsec. (f)(3), in Bureau of
 
 Section 6 of Pub. L. 100–594, as amended by Pub. L. 101–396, §5, Sept. 28, 1990, 104 Stat. 849; Pub. L. 102–538, title II, §212, Oct. 27, 1992, 106 Stat. 3545, provided that:
 
-“(a) During fiscal years 1992 and 1993, the Federal Communications Commission is authorized to make grants to, or enter into cooperative agreements with, private nonprofit organizations designated by the Secretary of Labor under title V of the Older Americans Act of 1965 (42 U.S.C. 3056 et seq.) to utilize the talents of older Americans in programs authorized by otherprovisions of law administered by the Commission (and consistent with such provisions of law) in providing technical and administrative assistance for projects related to the implementation, promotion, or enforcement of the regulations of the Commission.
+“(a) During fiscal years 1992 and 1993, the Federal Communications Commission is authorized to make grants to, or enter into cooperative agreements with, private nonprofit organizations designated by the Secretary of Labor under title V of the Older Americans Act of 1965 (42 U.S.C. 3056 et seq.) to utilize the talents of older Americans in programs authorized by other provisions of law administered by the Commission (and consistent with such provisions of law) in providing technical and administrative assistance for projects related to the implementation, promotion, or enforcement of the regulations of the Commission.
 
 “(b) Prior to awarding any grant or entering into any agreement under subsection (a), the Office of the Managing Director of the Commission shall certify to the Commission that such grant or agreement will not—
 
@@ -353,12 +357,6 @@ Pub. L. 97–253, title V, §501(a), Sept. 8, 1982, 96 Stat. 805, provided that:
 &emsp;“(3) is to occur on June 30, 1983;
 
 > no person shall be appointed to fill such office after such date, and such office shall be abolished on July 1, 1983.”
-
-#### Federal Rules of Civil Procedure
-
-Effect of Rule 44 on this section, see note by Advisory Committee under rule 44, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-Proof of official records, see rule 44.
 
 #### Section Referred to in Other Sections
 

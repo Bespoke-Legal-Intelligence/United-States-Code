@@ -7,9 +7,11 @@
 | (a) | Borrower cancellation. |
 | (b) | Automatic termination. |
 | (c) | Final termination. |
-| (d) | No further payments. |
-| (e) | Return of unearned premiums. |
-| (f) | Exceptions for high risk loans. |
+| (d) | Treatment of loan modifications. |
+| (e) | No further payments. |
+| (f) | Return of unearned premiums. |
+| (g) | Exceptions for high risk loans. |
+| (h) | Accrued obligation for premium payments. |
 | [4903\.](%C2%A7%2004903%20-%20Disclosure%20requirements.md) | Disclosure requirements. |
 | (a) | Disclosures for new mortgages at time of transaction. |
 | (b) | Disclosures for existing mortgages. |

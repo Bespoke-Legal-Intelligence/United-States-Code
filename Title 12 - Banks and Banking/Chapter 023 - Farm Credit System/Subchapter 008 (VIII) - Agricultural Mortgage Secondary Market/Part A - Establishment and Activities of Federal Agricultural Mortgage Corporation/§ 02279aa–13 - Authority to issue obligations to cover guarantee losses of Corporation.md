@@ -36,7 +36,7 @@ The aggregate amount of obligations issued by the Corporation under subsection (
 
 #### (1) Authority to use proceeds from sale of Treasury securities
 
-&emsp;For the purpose of purchasing obligations of the Corporation, the Secretary of the Treasury may use as a public debt transaction the proceeds from the sale by the Secretary of any securities issued under chapter 31 of title 31, and the purposes for which securities may be issued under such chapter are extended to include such purchases.
+&emsp;For the purpose of purchasing obligations of the Corporation, the Secretary of the Treasurymay use as a public debt transaction the proceeds from the sale by the Secretary of any securities issued under chapter 31 of title 31, and the purposes for which securities may be issued under such chapter are extended to include such purchases.
 
 #### (2) Treatment of transactions
 

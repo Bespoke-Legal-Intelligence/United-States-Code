@@ -40,7 +40,7 @@
 
 &emsp;A medical child support order meets the requirements of this paragraph only if such order clearly specifies—
 
-&emsp;&emsp;(A) the name and the last known mailing address (if any) of the participant and the name and mailing address of each alternate recipient covered by the order, except that, to the extent provided in the order, the name and mailing address of an official of a State or a political subdivision thereof may be substituted for the mailing address of any such alternate recipient,
+&emsp;&emsp;(A) the name and the last known mailing address (if any) of the participant and the name and mailing address of each alternaterecipient covered by the order, except that, to the extent provided in the order, the name and mailing address of an official of a State or a political subdivision thereof may be substituted for the mailing address of any such alternate recipient,
 
 &emsp;&emsp;(B) a reasonable description of the type of coverage to be provided to each such alternate recipient, or the manner in which such type of coverage is to be determined, and
 
@@ -100,7 +100,7 @@
 
 #### (B) Treatment as participant for purposes of reporting and disclosure requirements
 
-&emsp;&emsp;A person who is an alternate recipient under any medical child support order shall be considered a participant under the plan for purposes of the reporting and disclosure requirements of part 1 of this subtitle.
+&emsp;&emsp;A person who is an alternate recipient under any medical child support order shallbe considered a participant under the plan for purposes of the reporting and disclosure requirements of part 1 of this subtitle.
 
 #### (8) Direct provision of benefits provided to alternate recipients
 
@@ -154,7 +154,7 @@ A group health plan may not reduce its coverage of the costs of pediatric vaccin
 
 Any regulations prescribed under this section shall be prescribed by the Secretary of Labor, in consultation with the Secretary of Health and Human Services.
 
-(Pub. L. 93–406, title I, §609, as added Pub. L. 103–66, title IV, §4301(a), Aug. 10, 1993, 107 Stat. 371; amended Pub. L. 104–193, title III, §381(a), Aug. 22, 1996, 110 Stat. 2257; Pub. L. 105–33, title V, §§5611(a), (b), 5612(a), 5613(a), (b), Aug. 5, 1997, 111 Stat. 647, 648; Pub. L. 105–200, title IV, §401(d), (h)(2)(A)(iii), (B), (3)(A), July 16, 1998, 112 Stat. 662, 668.)
+(Pub. L. 93–406, title I, §609, as added Pub. L. 103–66, title IV, §4301(a), Aug. 10, 1993, 107 Stat. 371; amended Pub. L. 104–193, title III, §381(a), Aug. 22, 1996, 110 Stat. 2257; Pub. L. 105–33, titleV, §§5611(a), (b), 5612(a), 5613(a), (b), Aug. 5, 1997, 111 Stat. 647, 648; Pub. L. 105–200, title IV, §401(d), (h)(2)(A)(iii), (B), (3)(A), July 16, 1998, 112 Stat. 662, 668.)
 
 #### References in Text
 
@@ -200,7 +200,7 @@ Pub. L. 105–200, title IV, §401(h)(3)(B), July 16, 1998, 112 Stat. 668, provi
 
 Section 5611(c) of Pub. L. 105–33 provided that: “The amendments made by this section \[amending this section\] shall apply with respect to medical child support orders issued on or after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
-Section 5612(b) of Pub. L. 105–33 provided that: “The amendment made by this section \[amending this section\] shall be effective as if included in the enactment of section 381 of the Personal Responsibility and WorkOpportunity Reconciliation Act of 1996 (Public Law 104–193; 110 Stat. 2257).”
+Section 5612(b) of Pub. L. 105–33 provided that: “The amendment made by this section \[amending this section\] shall be effective as if included in the enactment of section 381 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (Public Law 104–193; 110 Stat. 2257).”
 
 Section 5613(c) of Pub. L. 105–33 provided that: “The amendments made by this section \[amending this section\] shall apply with respect to medical child support orders issued on or after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
@@ -308,7 +308,7 @@ Medical child support order.—The term ‘medical child support order’ means 
 
 &emsp;&emsp;&emsp;“(ii) is made pursuant to a law relating to medical child support described in section 1908 of the Social Security Act \[42 U.S.C. 1396g–1\] (as added by section 13822 \[13623\] of the Omnibus Budget Reconciliation Act of 1993 \[Pub. L. 103–66\]) with respect to a church group health plan,
 
-&nbsp;&nbsp;if such judgment, decree, or order: (I) is issued by a court of competent jurisdiction; or (II) is issued through an administrative process established under State law and has the force and effect of law under applicable State law. For purposes of this paragraph, an administrative notice which is issued pursuant to an administrative process referred to in subclause (II) of the preceding sentence and whichhas the effect of an order described in clause (i) or (ii) of the preceding sentence shall be treated as such an order.
+&nbsp;&nbsp;if such judgment, decree, or order: (I) is issued by a court of competent jurisdiction; or (II) is issued through an administrative process established under State law and has the force and effect of law under applicable State law. For purposes of this paragraph, an administrative notice which is issued pursuant to an administrative process referred to in subclause (II) of the preceding sentence and which has the effect of an order described in clause (i) or (ii) of the preceding sentence shall be treated as such an order.
 
 &emsp;&emsp;“(D)
 
@@ -396,7 +396,7 @@ Effective date.—The provisions of this subsection shall take effect on the dat
 
 “(g)
 
-Report and Recommendations Regarding the Enforcement of Qualified Medical Child Support Orders.—Not later than 8 months after the issuance of the report to the Congress pursuant to subsection (a)(5) \[section 401(a)(5) of Pub. L. 105–200, 42 U.S.C. 651 note\],the Secretary of Health and Human Services and the Secretary of Labor shall jointly submit to each House of the Congress a report containing recommendations for appropriate legislation to improve the effectiveness of, and enforcement of, qualified medical child support orders under the provisions of subsection (f) of this section and section 609(a) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1169(a)).”
+Report and Recommendations Regarding the Enforcement of Qualified Medical Child Support Orders.—Not later than 8 months after the issuance of the report to the Congress pursuant to subsection (a)(5) \[section 401(a)(5) of Pub. L. 105–200, 42 U.S.C. 651 note\], the Secretary of Health and Human Services and the Secretary of Labor shall jointly submit to each House of the Congress a report containing recommendations for appropriate legislation to improve the effectiveness of, and enforcement of, qualified medical child support orders under the provisions of subsection (f) of this section and section 609(a) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1169(a)).”
 
 #### Plan Amendments Not Required Until January 1, 1994
 

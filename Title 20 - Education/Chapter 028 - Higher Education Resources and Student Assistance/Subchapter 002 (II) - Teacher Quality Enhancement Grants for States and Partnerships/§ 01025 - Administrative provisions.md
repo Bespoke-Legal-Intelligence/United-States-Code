@@ -56,7 +56,7 @@
 
 #### (1) State grants
 
-&emsp;Each eligible State receiving a grant under section 1022 or 1024 of this title shall provide, from non-Federal sources, an amount equal to 50 percent of the amount of the grant (in cash or in kind) to carry out the activities supported by the grant.
+&emsp;Each eligible State receiving a grant under section 1022 or 1024 of this title shall provide,from non-Federal sources, an amount equal to 50 percent of the amount of the grant (in cash or in kind) to carry out the activities supported by the grant.
 
 #### (2) Partnership grants
 

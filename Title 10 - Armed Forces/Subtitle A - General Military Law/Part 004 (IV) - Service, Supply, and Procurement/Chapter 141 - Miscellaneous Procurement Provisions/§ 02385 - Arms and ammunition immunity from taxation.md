@@ -20,9 +20,3 @@ Jan. 6, 1951, ch. 1213, subch. VII, §706, 64 Stat. 1236.
 
 The words “No \* \* \* may be” are substituted for the words “None \* \* \* shall be subject to any”. The words “by any Act” are omitted as surplusage.
 
-#### Cross References
-
-Machine guns and other firearms, exemptions from taxes, see section 5851 et seq. of Title 26, Internal Revenue Code.
-
-Sales to Defense Department of firearms, ammunition, etc., as exempt from taxation, see section 4182 of Title 26.
-

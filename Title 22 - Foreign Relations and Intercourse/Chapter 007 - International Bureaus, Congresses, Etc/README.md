@@ -164,9 +164,12 @@
 | 262r–4. | Annual report and testimony on state of international financial system, IMF reform, and compliance with IMF agreements. |
 | (a) | Reports. |
 | (b) | Testimony. |
-| 262r–5. | Audits of International Monetary Fund. |
-| (a) | Access to materials. |
-| (b) | Reports. |
+| 262r–5. | Repealed. |
+| 262r–6. | Reports on policies, operations, and management of international financial institutions. |
+| (a) | Annual report on financial operations. |
+| (b) | Annual report on United States supported policies. |
+| (c) | Omitted. |
+| (d) | Report on debt relief. |
 | [262s.](%C2%A7%2000262s%20-%20Multilateral%20development%20bank%20procurement.md) | Multilateral development bank procurement. |
 | (a) | Executive Directors. |
 | (b) | Officer of procurement. |
@@ -216,7 +219,7 @@
 | (b) | Authorization for transfers of funds. |
 | [275\.](%C2%A7%2000275%20-%20International%20Hydrographic%20Bureau.md) | International Hydrographic Bureau. |
 | [275a.](%C2%A7%2000275a%20-%20Permanent%20International%20Commission%20of%20the%20Congresses%20of%20Navigation%3B%20authorization%20of%20appropriations.md) | Permanent International Commission of the Congresses of Navigation; authorization of appropriations. |
-| 276a to 276b. | Repealed. |
+| 276a to 276b. Repealed. |  |
 | [276c.](%C2%A7%2000276c%20-%20Designation%20of%20Senate%20delegates%20to%20Conferences%20of%20the%20Interparliamentary%20Union.md) | Designation of Senate delegates to Conferences of the Interparliamentary Union. |
 | 276c–1. | Reports of expenditures by members of American groups or delegations and employees; consolidated reports by Congressional committees; public inspection. |
 | 276c–2. | Employee benefits for United States citizen-representatives to international financial institutions; Treasury Department as collecting, accounting, and depositing agency for employee payments; contributions from appropriated funds. |
@@ -344,6 +347,16 @@
 | 277d–40. | Authorization of appropriations. |
 | 277d–41. | American-Mexican Boundary Treaty, Presidio flood control project; authorization of flood control agreement. |
 | 277d–42. | Construction, operation, and maintenance of flood control works; authorization of appropriations; restrictions. |
+| 277d–43. | Definitions. |
+| 277d–44. | Actions to be taken by the Commission and the Administrator. |
+| (a) | Secondary treatment. |
+| (b) | Comprehensive plan. |
+| (c) | Contract. |
+| (d) | Implementation. |
+| 277d–45. | Negotiation of new Treaty Minute. |
+| (a) | Congressional statement. |
+| (b) | Negotiation. |
+| 277d–46. | Authorization of appropriations. |
 | [277e.](Subchapter%20004%20%28IV%29%20-%20International%20Boundary%20and%20Water%20Commission/%C2%A7%2000277e%20-%20Disposal%20of%20lands%3B%20issuance%20of%20licenses%20for%20use%20of%20lands%3B%20compensation%20for%20injured%20property.md) | Disposal of lands; issuance of licenses for use of lands; compensation for injured property. |
 | [277f.](Subchapter%20004%20%28IV%29%20-%20International%20Boundary%20and%20Water%20Commission/%C2%A7%2000277f%20-%20Valley%20Gravity%20Canal%20and%20Storage%20Project.md) | Valley Gravity Canal and Storage Project. |
 | [277g.](Subchapter%20004%20%28IV%29%20-%20International%20Boundary%20and%20Water%20Commission/%C2%A7%2000277g%20-%20Agreements%20to%20correct%20pollution%20of%20Rio%20Grande.md) | Agreements to correct pollution of Rio Grande. |
@@ -755,6 +768,7 @@
 | (b) | Annual reports by Fund on levels of military spending. |
 | (c) | Analysis and assessment of military spending to be included in article IV consultations by Fund. |
 | [286nn.](Subchapter%20015%20%28XV%29%20-%20International%20Monetary%20Fund%20and%20Bank%20for%20Reconstruction%20and%20Development/%C2%A7%2000286nn%20-%20Approval%20of%20contributions%20for%20debt%20reductions%20for%20the%20poorest%20countries.md) | Approval of contributions for debt reductions for the poorest countries. |
+| 286<i>oo.</i> | Principles for International Monetary Fund lending. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1196,7 +1210,8 @@
 - [&sect; 00262r&#8211;2 - Combined report on effect of pending multilateral development bank loans on environment, natural resources, public health, and&#8230;](%C2%A7%2000262r%E2%80%932%20-%20Combined%20report%20on%20effect%20of%20pending%20multilateral%20development%20bank%20loans%20on%20environment%2C%20natural%20resources%2C%20public%20health%2C%20and%E2%80%A6.md)
 - [&sect; 00262r&#8211;3 - Reports on financial stabilization programs led by International Monetary Fund in connection with financing from Exchange&#8230;](%C2%A7%2000262r%E2%80%933%20-%20Reports%20on%20financial%20stabilization%20programs%20led%20by%20International%20Monetary%20Fund%20in%20connection%20with%20financing%20from%20Exchange%E2%80%A6.md)
 - [&sect; 00262r&#8211;4 - Annual report and testimony on state of international financial system, IMF reform, and compliance with IMF agreements](%C2%A7%2000262r%E2%80%934%20-%20Annual%20report%20and%20testimony%20on%20state%20of%20international%20financial%20system%2C%20IMF%20reform%2C%20and%20compliance%20with%20IMF%20agreements.md)
-- [&sect; 00262r&#8211;5 - Audits of International Monetary Fund](%C2%A7%2000262r%E2%80%935%20-%20Audits%20of%20International%20Monetary%20Fund.md)
+- [&sect; 00262r&#8211;5 - Repealed. Pub. L. 106&#8211;429, &sect;101(a) \[title V, &sect;592\], Nov. 6, 2000, 114 Stat. 1900, 1900A&#8211;59](%C2%A7%2000262r%E2%80%935%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93429%2C%20%C2%A7101%28a%29%20%5Btitle%20V%2C%20%C2%A7592%5D%2C%20Nov.%206%2C%202000%2C%20114%20Stat.%201900%2C%201900A%E2%80%9359.md)
+- [&sect; 00262r&#8211;6 - Reports on policies, operations, and management of international financial institutions](%C2%A7%2000262r%E2%80%936%20-%20Reports%20on%20policies%2C%20operations%2C%20and%20management%20of%20international%20financial%20institutions.md)
 - [&sect; 00262s - Multilateral development bank procurement](%C2%A7%2000262s%20-%20Multilateral%20development%20bank%20procurement.md)
 - [&sect; 00262s&#8211;1 - Procurement opportunities for United States firms](%C2%A7%2000262s%E2%80%931%20-%20Procurement%20opportunities%20for%20United%20States%20firms.md)
 - [&sect; 00262s&#8211;2 - Commercial Service Officers and multilateral development bank procurement](%C2%A7%2000262s%E2%80%932%20-%20Commercial%20Service%20Officers%20and%20multilateral%20development%20bank%20procurement.md)

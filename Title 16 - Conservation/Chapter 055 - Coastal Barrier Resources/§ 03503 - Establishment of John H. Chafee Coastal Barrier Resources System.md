@@ -2,7 +2,13 @@
 
 #### (a) Establishment
 
-There is established the John H. Chafee Coastal Barrier Resources System, which shall consist of those undeveloped coastal barriers and other areas located on the coasts of the United States that are identified and generally depicted on the maps on file with the Secretary entitled “Coastal Barrier Resources System”, dated October 24, 1990, as such maps may be revised by the Secretary under section 4 of the Coastal Barrier Improvement Act of 1990.
+There is established the John H. Chafee Coastal Barrier Resources System, which shall consist of those undeveloped coastal barriers and other areas located on the coasts of the United States that are identified and generally depicted on the maps on file with the Secretary entitled “Coastal Barrier Resources System”, dated October 24, 1990, as those maps may be modified, revised, or corrected under—
+
+&emsp;(1) subsection (f)(3) of this section;
+
+&emsp;(2) section 4 of the Coastal Barrier Improvement Act of 1990 (16 U.S.C. 3503 note; Public Law 101–591); or
+
+&emsp;(3) any other provision of law enacted on or after November 16, 1990, that specifically authorizes the modification, revision, or correction.
 
 #### (b) System maps
 
@@ -12,13 +18,95 @@ The Secretary shall keep the maps referred to in subsection (a) of this section 
 
 At least once every 5 years, the Secretary shall review the maps referred to in subsection (a) of this section and shall make, in consultation with the appropriate State, local, and Federal officials, such minor and technical modifications to the boundaries of System units as are necessary solely to reflect changes that have occurred in the size or location of any System unit as a result of natural forces.
 
-(Pub. L. 97–348, §4, Oct. 18, 1982, 96 Stat. 1654; Pub. L. 97–396, §8, Dec. 31, 1982, 96 Stat. 2007; Pub. L. 100–707, title II, §204(b), Nov. 23, 1988, 102 Stat. 4713; Pub. L. 101–591, §3, Nov. 16, 1990, 104 Stat. 2931; Pub. L. 106–167, §3(c)(3), Dec. 9, 1999, 113 Stat. 1804.)
+#### (d) Additions to System
+
+The Secretary may add a parcel of real property to the System, if—
+
+&emsp;(1) the owner of the parcel requests, in writing, that the Secretary add the parcel to the System; and
+
+&emsp;(2) the parcel is an undeveloped coastal barrier.
+
+#### (e) Addition of excess Federal property
+
+#### (1) Consultation and determination
+
+&emsp;Prior to transfer or disposal of excess property under the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.) that may be an undeveloped coastal barrier, the Administrator of General Services shall consult with and obtain from the Secretary a determination as to whether and what portion of the property constitutes an undeveloped coastal barrier. Not later than 180 days after the initiation of such consultation, the Secretary shall make and publish notice of such determination. Immediately upon issuance of a positive determination, the Secretary shall—
+
+&emsp;&emsp;(A) prepare a map depicting the undeveloped coastal barrier portion of such property; and
+
+&emsp;&emsp;(B) publish in the Federal Register notice of the addition of such property to the System.
+
+#### (2) Effective date of inclusion
+
+&emsp;An area to be added to the System under this subsection shall be part of the System effective on the date on which the Secretary publishes notice in the Federal Register under paragraph (1)(B) with respect to that area.
+
+#### (f) Maps
+
+The Secretary shall—
+
+&emsp;(1) keep a map showing the location of each boundary modification made under subsection (c) of this section and of each parcel of real property added to the System under subsection (d) or (e) of this section on file and available for public inspection in the Office of the Director of the United States Fish and Wildlife Service and in such other offices of the Service as the Director considers appropriate;
+
+&emsp;(2) provide a copy of the map to—
+
+&emsp;&emsp;(A) the State and unit of local government in which the property is located;
+
+&emsp;&emsp;(B) the Committees; and
+
+&emsp;&emsp;(C) the Federal Emergency Management Agency; and
+
+&emsp;(3) revise the maps referred to in subsection (a) of this section to reflect each boundary modification under subsection (c) of this section and each addition of real property to the System under subsection (d) or (e) of this section, after publishing in the Federal Register a notice of any such proposed revision.
+
+#### (g) Guidelines for certain recommendations and determinations
+
+#### (1) In general
+
+&emsp;In making any recommendation to the Congress regarding the addition of any area to the System or in determining whether, at the time of the inclusion of a System unit within the System, a coastal barrier is undeveloped, the Secretary shall consider whether within the area—
+
+&emsp;&emsp;(A) the density of development is less than 1 structure per 5 acres of land above mean high tide; and
+
+&emsp;&emsp;(B) there is existing infrastructure consisting of—
+
+&emsp;&emsp;&emsp;(i) a road, with a reinforced road bed, to each lot or building site in the area;
+
+&emsp;&emsp;&emsp;(ii) a wastewater disposal system sufficient to serve each lot or building site in the area;
+
+&emsp;&emsp;&emsp;(iii) electric service for each lot or building site in the area; and
+
+&emsp;&emsp;&emsp;(iv) a fresh water supply for each lot or building site in the area.
+
+#### (2) Structure defined
+
+&emsp;In paragraph (1), the term “structure” means a walled and roofed building, other than a gas or liquid storage tank, that—
+
+&emsp;&emsp;(A) is principally above ground and affixed to a permanent site, including a manufactured home on a permanent foundation; and
+
+&emsp;&emsp;(B) covers an area of at least 200 square feet.
+
+#### (3) Savings clause
+
+&emsp;Nothing in this subsection supersedes the official maps referred to in subsection (a) of this section.
+
+(Pub. L. 97–348, §4, Oct. 18, 1982, 96 Stat. 1654; Pub. L. 97–396, §8, Dec. 31, 1982, 96 Stat. 2007; Pub. L. 100–707, title II, §204(b), Nov. 23, 1988, 102 Stat. 4713; Pub. L. 101–591, §3, Nov. 16, 1990, 104 Stat. 2931; Pub. L. 106–167, §3(c)(3), Dec. 9, 1999, 113 Stat. 1804; Pub. L. 106–514, §§2–3(b)(1), (c), (d), Nov. 13, 2000, 114 Stat. 2394, 2395.)
 
 #### References in Text
 
-Section 4 of the Coastal Barrier Improvement Act of 1990, referred to in subsec. (a), is section 4 of Pub. L. 101–591, which is set out below.
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (e)(1), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Provisions of the Act relating to management and disposal of Government property are classified to chapter 10 (§471 et seq.) of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
+
+#### Codification
+
+The text of section 4(d) of Pub. L. 101–591, which was transferred and redesignated so as to appear as subsec. (e) of this section and amended by Pub. L. 106–514, was based on Pub. L. 101–591, §4(d), Nov. 16, 1990, 104 Stat. 2933, formerly included in a note set out under this section.
 
 #### Amendments
+
+2000—Subsec. (a). Pub. L. 106–514, §3(d), substituted “which shall consist of those undeveloped coastal barriers and other areas located on the coasts of the United States that are identified and generally depicted on the maps on file with the Secretary entitled ‘Coastal Barrier Resources System’, dated October 24, 1990, as those maps may be modified, revised, or corrected under—” and pars. (1) to (3) for “which shall consist of those undeveloped coastal barriers and other areas located on the coasts of the United States that are identified and generally depicted on the maps on file with the Secretary entitled ‘Coastal Barrier Resources System’, dated October 24, 1990, as such maps may be revised by the Secretary under section 4 of the Coastal Barrier Improvement Act of 1990.”
+
+Subsec. (d). Pub. L. 106–514, §3(a), added subsec. (d).
+
+Subsec. (e). Pub. L. 106–514, §3(b)(1), transferred and redesignated the text of section 4(d) of Pub. L. 101–591 so as to appear as subsec. (e) of this section, in par. (1), substituted “180” for “one hundred and eighty” in introductory provisions and struck out “shall” before “publish” in subpar. (B), in par. (2), substituted “paragraph (1)(B)” for “subsection (d)(1)(B)”, and struck out par. (3), which required revision of maps as soon as practicable after a unit was added to the System. See Codification note above.
+
+Subsec. (f). Pub. L. 106–514, §3(c), added subsec. (f).
+
+Subsec. (g). Pub. L. 106–514, §2, added subsec. (g).
 
 1999—Pub. L. 106–167, §3(c)(3)(A), substituted “John H. Chafee Coastal Barrier Resources System” for “Coastal Barrier Resources System” in section catchline.
 
@@ -29,6 +117,76 @@ Subsec. (a). Pub. L. 106–167, §3(c)(3)(B), substituted “the John H. Chafee 
 1988—Pub. L. 100–707 amended section generally to provide that the Coastal Barrier Resources System include those undeveloped coastal barriers located on the Atlantic and Gulf Coasts of the United States and included within the System on Apr. 19, 1983, and the Great Lakes barriers, to make all System maps available to public inspection, and to revise and update provisions for making boundary modifications.
 
 1982—Subsec. (a)(1). Pub. L. 97–396 inserted “(but excluding maps T02 and T03)” after “A01 through T12”, and “and the maps designated T02A and T03A, dated December 8, 1982” after “and dated September 30, 1982”.
+
+#### Digital Mapping Pilot Project
+
+Pub. L. 106–514, §6, Nov. 13, 2000, 114 Stat. 2396, provided that:
+
+“(a)
+
+In General.—
+
+&emsp;“(1)
+
+Project.—The Secretary of the Interior (referred to in this section as the ‘Secretary’), in consultation with the Director of the Federal Emergency Management Agency, shall carry out a pilot project to determine the feasibility and cost of creating digital versions of the John H. Chafee Coastal Barrier Resources System maps referred to in section 4(a) of the Coastal Barrier Resources Act (16 U.S.C. 3503(a)) (as amended by section 3(d)).
+
+&emsp;“(2)
+
+Number of units.—The pilot project shall consist of the creation of digital maps for no more than 75 units and no fewer than 50 units of the John H. Chafee Coastal Barrier Resources System (referred to in this section as the ‘System’), 1/3 of which shall be otherwise protected areas (as defined in section 12 of the Coastal Barrier Improvement Act of 1990 (16 U.S.C. 3503 note; Public Law 101–591)).
+
+“(b)
+
+Data.—
+
+&emsp;“(1)
+
+Use of existing data.—To the maximum extent practicable, in carrying out the pilot project under this section, the Secretary shall use digital spatial data in the possession of State, local, and Federal agencies including digital orthophotos, and shoreline, elevation, and bathymetric data.
+
+&emsp;“(2)
+
+Provision of data by other agencies.—The head of a Federal agency that possesses data referred to in paragraph (1) shall, upon request of the Secretary, promptly provide the data to the Secretary at no cost.
+
+&emsp;“(3)
+
+Additional data.—If the Secretary determines that data necessary to carry out the pilot projectunder this section do not exist, the Secretary shall enter into an agreement with the Director of the United States Geological Survey under which the Director shall obtain, in cooperation with other Federal agencies, as appropriate, and provide to the Secretary the data required to carry out this section.
+
+&emsp;“(4)
+
+Data standards.—All data used or created to carry out this section shall comply with—
+
+&emsp;&emsp;“(A) the National Spatial Data Infrastructure established by Executive Order 12906 (59 Fed. Reg. 17671 (April 13, 1994)) \[43 U.S.C. 1457 note\]; and
+
+&emsp;&emsp;“(B) any other standards established by the Federal Geographic Data Committee established by Office of Management and Budget Circular A–16.
+
+“(c)
+
+Digital Maps Not Controlling.—Any determination as to whether a location is inside or outside the System shall be made without regard to the digital maps created under this section.
+
+“(d)
+
+Report.—
+
+&emsp;“(1)
+
+In general.—Not later than 3 years after the date of enactment of this Act \[Nov. 13, 2000\], the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Resources of the House of Representatives a report that describes the results of the pilot project and the feasibility, data needs, and costs of completing digital maps for the entire System.
+
+&emsp;“(2)
+
+Contents.—The report shall include a description of—
+
+&emsp;&emsp;“(A) the cooperative agreements that would be necessary to complete digital mapping of the entire System;
+
+&emsp;&emsp;“(B) the extent to which the data necessary to complete digital mapping of the entire System are available;
+
+&emsp;&emsp;“(C) the need for additional data to complete digital mapping of the entire System;
+
+&emsp;&emsp;“(D) the extent to which the boundary lines on the digital maps differ from the boundary lines on the original maps; and
+
+&emsp;&emsp;“(E) the amount of funding necessary to complete digital mapping of the entire System.
+
+“(e)
+
+Authorization of Appropriations.—There is authorized to be appropriated to the Secretary to carry out this section $500,000 for each of fiscal years 2002 through 2004.”
 
 #### Findings
 
@@ -62,6 +220,10 @@ References.—Any reference in a law, map, regulation, document, paper, or other
 
 The following acts directed the Secretary of the Interior to make technical revisions and corrections to maps relating to particular units of the John H. Chafee Coastal Barrier Resources System:
 
+Pub. L. 106–360, §1, Oct. 27, 2000, 114 Stat. 1399.
+
+Pub. L. 106–332, Oct. 19, 2000, 114 Stat. 1306.
+
 Pub. L. 106–128, §1, Dec. 6, 1999, 113 Stat. 1652.
 
 Pub. L. 106–116, §1, Nov. 29, 1999, 113 Stat. 1544.
@@ -80,7 +242,7 @@ Pub. L. 102–440, title III, §303, Oct. 23, 1992, 106 Stat. 2234.
 
 #### Correction of Errors in Maps; Modification of Boundaries; Additions to System
 
-Pub. L. 101–591, §4, Nov. 16, 1990, 104 Stat. 2932, provided that:
+Pub. L. 101–591, §4, Nov. 16, 1990, 104 Stat. 2932, as amended by Pub. L. 106–514, §3(b)(1)(A), (2), Nov. 13, 2000, 114 Stat. 2395, provided that:
 
 “(a)
 
@@ -110,7 +272,7 @@ Recommendations of State and Local Governments for Boundary Modifications.—(1)
 
 > may each submit to the Secretary recommendations for minor and technical modifications to the boundaries of existing units of the System located in that local government or State, respectively.
 
-“(2) If, in the case of any minor and technical modification to the boundaries of System units made under the authority of subsection (d) of this section, an appropriate chief executive officer of a State, county or equivalent jurisdiction, or State coastal zone management agency to which notice was given in accordance with this subsection files comments disagreeing with all or part of the modification and the Secretary makes a modification which is in conflict with such comments, or if the Secretary fails to adopt a modification pursuant to a proposal submitted by an appropriate State coastal zone management agency under paragraph (1) of this subsection, the Secretary shall submit to the chief executive officer a written justification for the failure to make modifications consistent with such comments or proposals.
+“(2) If, in the case of any minor and technical modification to the boundaries of System units made underthe authority of section 4(e) of the Coastal Barrier Resources Act (16 U.S.C. 3503(e)), an appropriate chief executive officer of a State, county or equivalent jurisdiction, or State coastal zone management agency to which notice was given in accordance with this subsection files comments disagreeing with all or part of the modification and the Secretary makes a modification which is in conflict with such comments, or if the Secretary fails to adopt a modification pursuant to a proposal submitted by an appropriate State coastal zone management agency under paragraph (1) of this subsection, the Secretary shall submit to the chief executive officer a written justification for the failure to make modifications consistent with such comments or proposals.
 
 “(c)
 
@@ -144,25 +306,7 @@ Elections.—Not later than 18 months after the date of the enactment of this Ac
 
 Effective date of election.—An area elected by a local government, Governor of a State, or qualified organization to be added to the System under this subsection shall be part of the System effective on the date on which the Secretary publishes notice in the Federal Register under subsection (e)(1)(C) with respect to that election.
 
-“(d)
-
-Addition of Excess Federal Property.—
-
-&emsp;“(1)
-
-Consultation and determination.—Prior to transfer or disposal of excess property under the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.) that may be an undeveloped coastal barrier, the Administrator of General Services shall consult with and obtain from the Secretary a determination as to whether and what portion of the property constitutes an undeveloped coastal barrier. Not later than one hundred and eighty days after the initiation of such consultation, the Secretary shall make and publish notice of such determination. Immediately upon issuance of a positive determination, the Secretary shall—
-
-&emsp;&emsp;“(A) prepare a map depicting the undeveloped coastal barrier portion of such property; and
-
-&emsp;&emsp;“(B) shall publish in the Federal Register notice of the addition of such property to the System.
-
-&emsp;“(2)
-
-Effective date of inclusion.—An area to be added to the System under this subsection shall be part of the System effective on the date on which the Secretary publishes notice in the Federal Register under subsection (d)(1)(B) with respect to that area.
-
-&emsp;“(3)
-
-Revision of maps.—As soon as practicable after the date on which a unit is added to the System under subsection (d)(2), the Secretary shall revise the maps referred to in section 4(a) of the Act \[16 U.S.C. 3503(a)\] (as amended by section 3 of this Act) to reflect each such addition.
+“\[(d) Redesignated section 3503(e) of this title.\]
 
 “(e)
 
@@ -184,15 +328,7 @@ In general.—Not later than 2 years after the date of the enactment of this Act
 
 &emsp;“(2)
 
-Effective date of modifications.—A modification of the boundaries of a unit of the System under paragraph (1)(A) shall take effect on the date on which the Secretary published notice in the Federal Register under paragraph (1)(C) with respect to that modification.
-
-“(f)
-
-Notification Regarding Modifications and Elections.—Not less than 30 days before the effective date of any modification of the boundaries of a unit of the System under subsection (d)(1)(A), or of an election of a local government, Governor of a State, or qualified organization to add an area of qualified coastal barrier to the System pursuant to subsection (c) or of an addition to the System pursuant to subsection (d), the Secretary shall submit written notice of such modification or election to—
-
-&emsp;“(1) the Committee on Merchant Marine and Fisheries \[now Committee on Resources\] of the House of Representatives and the Committee on Environment and Public Works of the Senate; and
-
-&emsp;“(2) appropriate State and Federal officials.”
+Effective date of modifications.—A modification of the boundaries of a unit of the System under paragraph (1)(A) shall take effect on the date on which the Secretary published notice in the Federal Register under paragraph (1)(C) with respect to that modification.”
 
 #### Pacific Coastal Barrier Protection Study and Maps
 
@@ -200,7 +336,7 @@ Section 6 of Pub. L. 101–591 directed Secretary of the Interior, not later tha
 
 #### Report Regarding Coastal Barrier Management
 
-Pub. L. 101–591, §8, Nov. 16, 1990, 104 Stat. 2937, established the Coastal Barriers Task Force, provided for its membership, required the Task Force to submit a report to Congress regarding the Coastal Barrier Resources System not later than the expiration of the 2-year period beginning on Nov. 16, 1990, and required the Task Force to terminate 90 days after submission of the report.
+Pub. L. 101–591, §8, Nov. 16, 1990, 104 Stat. 2937, which established the Coastal Barriers Task Force, provided for its membership, required the Task Force to submit a report to Congress regarding the Coastal Barrier Resources System not later than the expiration of the 2-year period beginning on Nov. 16, 1990, and required the Task Force to terminate 90 days after submission of the report, was repealed by Pub. L. 106–514, §4(b), Nov. 13, 2000, 114 Stat. 2396.
 
 #### Definitions
 

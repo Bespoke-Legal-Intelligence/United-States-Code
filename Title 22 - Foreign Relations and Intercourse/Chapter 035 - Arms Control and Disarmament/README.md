@@ -58,7 +58,7 @@
 | [2578\.](Subchapter%20003%20%28III%29%20-%20Functions/%C2%A7%2002578%20-%20Negotiating%20records.md) | Negotiating records. |
 | (a) | Preparation of records. |
 | (b) | Negotiating and implementation records. |
-| [2579\.](Subchapter%20003%20%28III%29%20-%20Functions/%C2%A7%2002579%20-%20Comprehensive%20compilation%20of%20arms%20control%2C%20nonproliferation%2C%20and%20disarmament%20studies.md) | Comprehensive compilation of arms control, nonproliferation, and disarmament studies. |
+| [2579\.](Subchapter%20003%20%28III%29%20-%20Functions/%C2%A7%2002579%20-%20Omitted.md) | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -76,7 +76,7 @@
 | (g) | Oaths and sworn statements. |
 | (h) | Delegation of functions. |
 | (i) | Rules and regulations. |
-| 2582, 2583. | Repealed. |
+| 2582, 2583. Repealed. |  |
 | [2584\.](Subchapter%20004%20%28IV%29%20-%20Additional%20General%20Provisions/%C2%A7%2002584%20-%20Dual%20compensation%20exemption.md) | Dual compensation exemption. |
 | 2585 to 2593. Repealed. |  |
 | [2593a.](Subchapter%20004%20%28IV%29%20-%20Additional%20General%20Provisions/%C2%A7%2002593a%20-%20Annual%20report%20to%20Congress.md) | Annual report to Congress. |

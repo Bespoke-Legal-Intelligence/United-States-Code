@@ -30,7 +30,7 @@ Any officer or employee of the Department designated by the Secretary to conduct
 
 &emsp;(5) make, prior to the institution of libel proceedings under section 334(a)(2) of this title, seizures of drugs or containers or of equipment, punches, dies, plates, stones, labeling, or other things, if they are, or he has reasonable grounds to believe that they are, subject to seizure and condemnation under such section 334(a)(2). In the event of seizure pursuant to this paragraph (5), libel proceedings under section 334(a)(2) of this title shall be instituted promptly and the property seized be placed under the jurisdiction of the court.
 
-(June 25, 1938, ch. 675, §702, 52 Stat. 1056; Pub. L. 87–781, title III, §§307(b), 308, Oct. 10, 1962, 76 Stat. 796; Pub. L. 89–74, §8(a), July 15, 1965, 79 Stat. 234; Pub. L. 91–513, title II, §701(f), Oct. 27, 1970, 84 Stat. 1282; Pub. L. 102–300, §6(b)(2), June 16, 1992, 106 Stat. 240; Pub. L. 103–80, §3(dd)(2), Aug. 13, 1993, 107 Stat. 779; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(12)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–584.)
+(June 25, 1938, ch. 675, §702, 52 Stat. 1056; Pub. L. 87–781, title III, §§307(b), 308, Oct. 10, 1962, 76 Stat. 796; Pub. L. 89–74, §8(a), July 15, 1965, 79 Stat. 234; Pub. L. 91–513, title II, §701(f), Oct. 27, 1970, 84 Stat. 1282; Pub. L. 102–300, §6(b)(2), June16, 1992, 106 Stat. 240; Pub. L. 103–80, §3(dd)(2), Aug. 13, 1993, 107 Stat. 779; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(12)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–584.)
 
 #### Amendments
 
@@ -67,10 +67,6 @@ Amendment by Pub. L. 91–513 not to affect or abate any prosecutions for any vi
 #### Transfer of Functions
 
 For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare \[now Health and Human Services\], and of Food and Drug Administration in the Department of Agriculture to Federal Security Agency, see note set out under section 41 of this title.
-
-#### Federal Rules of Civil Procedure
-
-Admiralty and maritime rules of practice (which included libel procedures) were superseded, and civil andadmiralty procedures in United States district courts were unified, effective July 1, 1966, see rule 1 and Supplemental Rules for Certain Admiralty and Maritime Claims, Title 28, Appendix, Judiciary and Judicial Procedure.
 
 #### Section Referred to in Other Sections
 

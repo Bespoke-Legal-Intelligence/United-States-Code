@@ -22,3 +22,7 @@ Feb. 20, 1896, ch. 23, §3 (1st sentence), 29 Stat. 9.
 
 The words “submit an annual report” are substituted for “report annually” for consistency in the revised title.
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under this section is listed on page 192), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+

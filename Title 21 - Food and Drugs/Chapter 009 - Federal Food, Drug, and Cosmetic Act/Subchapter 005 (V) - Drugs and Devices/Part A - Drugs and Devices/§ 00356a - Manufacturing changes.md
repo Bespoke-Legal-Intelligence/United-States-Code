@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-With respect to a drug for which there is in effect an approved application under section 355 or 360b of this title or a license under section 262 of title 42, a change from the manufacturing process approved pursuant to such application or license may be made, and the drug as made with the change may be distributed, if—
+With respect to a drug for which there is in effect an approved application under section 355 or360b of this title or a license under section 262 of title 42, a change from the manufacturing process approved pursuant to such application or license may be made, and the drug as made with the change may be distributed, if—
 
 &emsp;(1) the holder of the approved application or license (referred to in this section as a “holder”) has validated the effects of the change in accordance with subsection (b) of this section; and
 
@@ -34,7 +34,7 @@ For purposes of subsection (a)(1) of this section, a drug made with a manufactur
 
 #### (1) In general
 
-&emsp;For purposes of subsection (a)(2)(B) of this section, the Secretary may regulate drugsmade with manufacturing changes that are not major manufacturing changes as follows:
+&emsp;For purposes of subsection (a)(2)(B) of this section, the Secretary may regulate drugs made with manufacturing changes that are not major manufacturing changes as follows:
 
 &emsp;&emsp;(A) The Secretary may in accordance with paragraph (2) authorize holders to distribute such drugs without submitting a supplemental application for such changes.
 
@@ -64,7 +64,7 @@ For purposes of subsection (a)(1) of this section, a drug made with a manufactur
 
 &emsp;&emsp;&emsp;(i) The holder involved may commence distribution of the drug involved 30 days after the Secretary receives the supplemental application under such paragraph, unless the Secretary notifies the holder within such 30-day period that prior approval of the application is required before distribution may be commenced.
 
-&emsp;&emsp;&emsp;(ii) The Secretary may designate a category of such changes for the purpose of providing that, in the case of a change that is in such category, the holder involved may commence distribution of the drug involved upon the receipt by the Secretary of a supplemental application for the change.
+&emsp;&emsp;&emsp;(ii) The Secretary may designate a category of such changes for the purpose ofproviding that, in the case of a change that is in such category, the holder involved may commence distribution of the drug involved upon the receipt by the Secretary of a supplemental application for the change.
 
 &emsp;&emsp;&emsp;(iii) If the Secretary disapproves the supplemental application, the Secretary may order the manufacturer to cease the distribution of the drugs that have been made with the manufacturing change.
 

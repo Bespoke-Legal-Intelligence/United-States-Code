@@ -12,10 +12,6 @@ R.S. §48 derived from act Sept. 30, 1850, ch. 90, §1, 9 Stat. 523.
 
 R.S. §47 constitutes first clause and R.S. §48 constitutes remainder.
 
-#### Cross References
-
-Speaker authorized to designate a substitute in his office to sign certificates for salary and accounts, see section 50 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 50 of this title.

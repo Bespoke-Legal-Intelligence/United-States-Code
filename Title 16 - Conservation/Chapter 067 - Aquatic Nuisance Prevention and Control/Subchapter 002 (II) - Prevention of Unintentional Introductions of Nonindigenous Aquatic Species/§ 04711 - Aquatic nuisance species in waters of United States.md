@@ -132,7 +132,7 @@
 
 #### (d) Report to Congress
 
-Not sooner than 24 months after the date of issuance of guidelines pursuant to subsection (c) of this section and not later than 30 months after such date, and after consultation with interested and affected persons, the Secretary shall prepare and submit to Congress a report containing the information required pursuant to paragraphs (1) and (2) of subsection (e) of this section.
+Not sooner than 24 months after the date of issuance of guidelines pursuant to subsection (c) of this section and not later than 30 months after such date, and after consultation with interested and affected persons, the Secretaryshall prepare and submit to Congress a report containing the information required pursuant to paragraphs (1) and (2) of subsection (e) of this section.
 
 #### (e) Periodic review and revision
 
@@ -226,7 +226,7 @@ Not sooner than 24 months after the date of issuance of guidelines pursuant to s
 
 #### (h) Coordination with other agencies
 
-In carrying out the programs under this section, the Secretary is encouraged to use, to the maximum extent practicable, the expertise, facilities, members, or personnel of established agencies and organizations that have routine contact with vessels, including the Animal and Plant Health Inspection Service of the Department of Agriculture, the National Cargo Bureau, port administrations, and ship pilots’ associations.
+In carrying out the programs under this section, the Secretary is encouraged to use, to themaximum extent practicable, the expertise, facilities, members, or personnel of established agencies and organizations that have routine contact with vessels, including the Animal and Plant Health Inspection Service of the Department of Agriculture, the National Cargo Bureau, port administrations, and ship pilots’ associations.
 
 #### (i) Consultation with Canada, Mexico, and other foreign governments
 

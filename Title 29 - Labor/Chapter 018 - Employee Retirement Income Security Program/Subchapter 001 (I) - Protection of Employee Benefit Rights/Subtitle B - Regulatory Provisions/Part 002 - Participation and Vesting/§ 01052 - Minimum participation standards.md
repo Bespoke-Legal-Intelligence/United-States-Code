@@ -14,7 +14,7 @@
 
 (3)(A) For purposes of this section, the term “year of service” means a 12-month period during which the employee has not less than 1,000 hours of service. For purposes of this paragraph, computation of any 12-month period shall be made with reference to the date on which the employee's employment commenced, except that, in accordance with regulations prescribed by the Secretary, such computation may be made by reference to the first day of a plan year in the case of an employee who does not complete 1,000 hours of service during the 12-month period beginning on the date his employment commenced.
 
-(B) In the case of any seasonal industry where the customary period of employment is less than 1,000 hours during a calendar year, theterm “year of service” shall be such period as may be determined under regulations prescribed by the Secretary.
+(B) In the case of any seasonal industry where the customary period of employment is less than 1,000 hours during a calendar year, the term “year of service” shall be such period as may be determined under regulations prescribed by the Secretary.
 
 (C) For purposes of this section, the term “hour of service” means a time of service determined under regulations prescribed by the Secretary.
 

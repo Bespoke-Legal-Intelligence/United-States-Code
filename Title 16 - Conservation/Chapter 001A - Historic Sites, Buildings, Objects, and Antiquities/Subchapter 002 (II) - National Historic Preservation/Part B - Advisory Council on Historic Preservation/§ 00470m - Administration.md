@@ -10,7 +10,7 @@ The Council shall have a General Counsel, who shall be appointed by the Executiv
 
 #### (c) Appointment and compensation of officers and employees
 
-The Executive Director of the Council may appoint and fix the compensation of such officers and employees in the competitive service as are necessary to perform the functions of the Council at rates not to exceed that now or hereafter prescribed for the highest rate for grade 15 of the General Schedule under section 5332 of title 5: <i>Provided, however</i>, That the Executive Director, with the concurrence of the Chairman, may appoint and fix the compensation of not to exceed five employees in the competitive service at rates not to exceed that now or hereafter prescribed for the highest rate of grade 17 of the General Schedule under section 5332 of title 5.
+The Executive Director of the Council may appoint and fix the compensation of such officersand employees in the competitive service as are necessary to perform the functions of the Council at rates not to exceed that now or hereafter prescribed for the highest rate for grade 15 of the General Schedule under section 5332 of title 5: <i>Provided, however</i>, That the Executive Director, with the concurrence of the Chairman, may appoint and fix the compensation of not to exceed five employees in the competitive service at rates not to exceed that now or hereafter prescribed for the highest rate of grade 17 of the General Schedule under section 5332 of title 5.
 
 #### (d) Appointment and compensation of additional personnel
 
@@ -26,9 +26,9 @@ Financial and administrative services (including those related to budgeting, acc
 
 #### (g) Use of funds, personnel, facilities, and services of Council members
 
-Any Federal agency may provide the Council, with or without reimbursement as may be agreed upon by the Chairman and the agency, with such funds, personnel, facilities and services under its jurisdiction and control as may be needed by the Council to carry out its duties, to the extent that such funds, personnel, facilities, and services are requested by the Council and are otherwise available for the purpose. Any funds provided to the Council pursuant to this subsection must be expended by the end of the fiscal year following the fiscal year in which the funds are received by the Council. To the extent of available appropriations, the Council may obtain by purchase, rental, donation, or otherwise, such additional property facilities, and services as may be needed to carry out its duties and may also receive donations of moneys for such purpose, and the Executive Director is authorized, in his discretion, to accept, hold, use, expend, and administer the same for the purposes of this subchapter.
+Any Federal agency may provide the Council, with or without reimbursement as may be agreed upon by the Chairman and the agency, with such funds, personnel, facilities and services under its jurisdiction and control as may be needed by the Council to carry out its duties, to the extent that such funds, personnel, facilities, and services are requested by the Council and are otherwise available for that purpose. Any funds provided to the Council pursuant to this subsection must be expended by the end of the fiscal year following the fiscal year in which the funds are received by the Council. To the extent of available appropriations, the Council may obtain by purchase, rental, donation, or otherwise, such additional property facilities, and services as may be needed to carry out its duties and may also receive donations of moneys for such purpose, and the Executive Director is authorized, in his discretion, to accept, hold, use, expend, and administer the same for the purposes of this subchapter.
 
-(Pub. L. 89–665, title II, §205, Oct. 15, 1966, 80 Stat. 919; Pub. L. 91–243, §1(g), May 9, 1970, 84 Stat. 204; Pub. L. 94–422, title II, §201(7), Sept. 28, 1976, 90 Stat. 1321; Pub. L. 96–515, title III, §301(i), (j), Dec. 12, 1980, 94 Stat. 2999; Pub. L. 104–333, div. I, title V, §509(c)(4), Nov. 12, 1996, 110 Stat. 4158.)
+(Pub. L. 89–665, title II, §205, Oct. 15, 1966, 80 Stat. 919; Pub. L. 91–243, §1(g), May 9, 1970, 84 Stat. 204; Pub. L. 94–422, title II, §201(7), Sept. 28, 1976, 90 Stat. 1321; Pub. L. 96–515, title III, §301(i), (j), Dec. 12, 1980, 94 Stat. 2999; Pub. L. 104–333, div. I, title V, §509(c)(4), Nov. 12, 1996, 110 Stat. 4158; Pub. L. 106–176, title I, §109, Mar. 10, 2000, 114 Stat. 26.)
 
 #### References in Text
 
@@ -41,6 +41,8 @@ In subsecs. (d) and (f), “chapter 51 and subchapter III of chapter 53 of title
 In subsec. (f), “(31 U.S.C. 1513(d), 1514)” was substituted for “(31 U.S.C. 665(g))” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
+
+2000—Subsec. (g). Pub. L. 106–176 substituted “for that purpose.” for “for the purpose.”.
 
 1996—Subsec. (g). Pub. L. 104–333 amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “The members of the Council specified in paragraphs (2) through (4) of section 470i(a) of this title shall provide the Council, with or without reimbursement as may be agreed upon by the Chairman and the members, with such funds, personnel, facilities, and services under their jurisdiction and control as may be needed by the Council to carry out its duties, to the extent that such funds, personnel, facilities, and services are requested by the Council and are otherwise available for that purpose. To the extent of available appropriations, the Council may obtain, by purchase, rental, donation, or otherwise, such additional property, facilities, and services as may be needed to carry out its duties and may also receive donations of moneys for such purpose, and the Executive Director is authorized, in his discretion, to accept, hold, use, expend, and administer the same for the purposes of this subchapter.”
 

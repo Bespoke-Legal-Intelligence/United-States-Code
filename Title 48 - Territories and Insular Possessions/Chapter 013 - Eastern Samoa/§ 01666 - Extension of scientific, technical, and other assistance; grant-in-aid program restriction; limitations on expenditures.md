@@ -6,7 +6,7 @@ Upon request of the Secretary of the Interior—
 
 &emsp;(b) the Secretary of Agriculture may extend to American Samoa the benefits of the Richard B. Russell National School Lunch Act, as amended \[42 U.S.C. 1751 et seq.\]; and
 
-&emsp;(c) the Secretary of Health, Education, and Welfare may extend to American Samoa thebenefits of the Vocational Education Act of 1946, the Hospital Survey and Construction Act \[42 U.S.C. 291 et seq.\], and section 246 of title 42, all as amended.
+&emsp;(c) the Secretary of Health, Education, and Welfare may extend to American Samoa the benefits of the Vocational Education Act of 1946, the Hospital Survey and Construction Act \[42 U.S.C. 291 et seq.\], and section 246 of title 42, all as amended.
 
 (Pub. L. 87–688, §1, Sept. 25, 1962, 76 Stat. 586; Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §709(a)(7)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–312; Pub. L. 106–78, title VII, §752(b)(18), Oct. 22, 1999, 113 Stat. 1170.)
 

@@ -26,18 +26,6 @@ Minor changes were made in phraseology.
 
 Section 552(b) of Pub. L. 101–510 provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective as of January 1, 1989.”
 
-#### Cross References
-
-Disqualification from holding any office of honor, trust, or profit, additional grounds for, see sections 592, 593, 1901, 2381, 2385, and 2387 of this title.
-
-Theft of—
-
-&emsp;&emsp;Court record or process, see section 1506 of this title.
-
-&emsp;&emsp;Records, see section 641 of this title.
-
-War contract records, see section 443 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in title 22 section 3622.

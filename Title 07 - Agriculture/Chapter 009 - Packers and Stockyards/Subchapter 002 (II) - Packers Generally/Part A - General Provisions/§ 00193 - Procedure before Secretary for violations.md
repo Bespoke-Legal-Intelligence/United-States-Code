@@ -2,7 +2,7 @@
 
 #### (a) Complaint; hearing; intervention
 
-Whenever the Secretary has reason to believe that any packer has violated or is violating any provision of this subchapter, he shall cause a complaint in writing to be served upon the packer, stating his charges in that respect, and requiring the packer to attend and testify at a hearing at a time and place designated therein, at least thirty days after the service of such complaint; and at such time and place there shall be afforded the packer a reasonable opportunity to be informed as to the evidence introduced against him (including the right of cross-examination), and to be heard in person or by counsel and through witnesses, under such regulations as the Secretary may prescribe. Any person for good cause shown may on application be allowed by the Secretary to intervene in such proceeding, and appear in person or by counsel. At any time prior to the close of the hearing the Secretary may amend the complaint; but in case of any amendment adding new charges the hearing shall, on the request of the packer, be adjourned for a period not exceeding fifteen days.
+Whenever the Secretary has reason to believe that any packer has violated or is violating any provision of this subchapter, he shall cause a complaint in writing to be served upon the packer, stating his charges in that respect, and requiring the packer to attend and testify at a hearing at a time and place designated therein, at least thirty days after the service of such complaint; and at such time and place there shall be afforded the packer a reasonable opportunity to be informed as to the evidence introduced against him (including the right of cross-examination), and to be heard in person or by counsel and through witnesses, under such regulations as the Secretary may prescribe. Any person for good cause shown may on application be allowed by the Secretary to intervene in such proceeding, and appear in person or by counsel. At any time prior to the close of the hearing the Secretary may amend the complaint; but in caseof any amendment adding new charges the hearing shall, on the request of the packer, be adjourned for a period not exceeding fifteen days.
 
 #### (b) Report and order; penalty
 
@@ -31,16 +31,6 @@ Act June 25, 1948, as amended by act May 24, 1949, substituted “court of appea
 #### Transfer of Functions
 
 Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, §1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
-
-#### Cross References
-
-Enforcement by Secretary of Agriculture under this chapter, with respect to activities subject to this chapter, of requirements imposed under section 1601 et seq. of Title 15, Commerce and Trade, see section 1607 of Title 15.
-
-Enforcement of orders by district courts, see section 2351 of Title 28, Judiciary and Judicial Procedure.
-
-Finality of orders under this section, see section 194 of this title.
-
-Punishment for violation of order, see section 195 of this title.
 
 #### Section Referred to in Other Sections
 

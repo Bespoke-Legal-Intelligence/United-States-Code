@@ -20,7 +20,7 @@
 
 (B) The Trade Representative shall, before making any determination under subparagraph (A), consult with appropriate committees established pursuant to section 2155 of this title.
 
-(2)(A) By no later than the date that is 30 days after the date on which a country is identified under section 2242(a)(2) of this title, the Trade Representative shall initiate an investigation under this subchapter with respect to any act, policy, or practice of that country that—
+(2)(A) By no later than the date that is 30 days after the date on which a country is identifiedunder section 2242(a)(2) of this title, the Trade Representative shall initiate an investigation under this subchapter with respect to any act, policy, or practice of that country that—
 
 &emsp;(i) was the basis for such identification, and
 
@@ -44,7 +44,7 @@ In determining whether to initiate an investigation under subsection (a) or (b) 
 
 #### Prior Provisions
 
-A prior section 302 of Pub. L. 93–618, title III, Jan. 3, 1975, 88 Stat. 2043, which related to the procedure for Congressional disapproval of certain actions taken by the President to eliminate foreign import restrictions and export subsidies and which was classified to this section, was omitted in the general revision of title III of Pub. L. 93–618 by Pub. L. 96–39, title IX, §901, July 26, 1979, 93 Stat. 295.
+A prior section 302 of Pub. L. 93–618, title III, Jan. 3, 1975, 88 Stat. 2043, which related to the procedure for Congressional disapproval of certain actions taken by the President to eliminate foreign import restrictions and export subsidies and which was classified to this section, was omitted in the general revision of chapter 1 of title III of Pub. L. 93–618 by Pub. L. 96–39, title IX, §901, July 26, 1979, 93 Stat. 295.
 
 #### Amendments
 

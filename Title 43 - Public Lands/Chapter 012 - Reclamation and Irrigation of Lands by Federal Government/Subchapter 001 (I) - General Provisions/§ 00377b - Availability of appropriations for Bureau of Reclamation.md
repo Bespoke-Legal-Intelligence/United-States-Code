@@ -30,7 +30,7 @@ The Federal Property and Administrative Services Act of 1949, referred to in tex
 
 Section is comprised of the second, third, fourth, and sixth undesignated pars. under headings “
 
-Bureau ofReclamation” and “
+Bureau of Reclamation” and “
 
 administrative provisions” in title II of Pub. L. 102–377, Oct. 2, 1992, 106 Stat. 1330, 1331.
 

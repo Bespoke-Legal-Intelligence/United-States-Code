@@ -108,7 +108,7 @@ Use of Intelligence in Analysis of POW/MIA Cases in Department of Defense.—The
 
 #### Congressional Statement of Purpose
 
-Section 569(a) of Pub. L. 104–106 provided that: “The purpose of this section \[enacting this chapter and section 655 of this title, amending sections 552, 553, 555, and 556 of Title 37, Pay and Allowances of the Uniformed Services, and enacting provisions set out as a note under section 5561 of Title 5, Government Organization and Employees\] is to ensure that any member of the Armed Forces (and any Department of Defense civilianemployee or contractor employee who serves with or accompanies the Armed Forces in the field under orders) who becomes missing or unaccounted for is ultimately accounted for by the United States and, as a general rule, is not declared dead solely because of the passage of time.”
+Section 569(a) of Pub. L. 104–106 provided that: “The purpose of this section \[enacting this chapter and section 655 of this title, amending sections 552, 553, 555, and 556 of Title 37, Pay and Allowances of the Uniformed Services, and enacting provisions set out as a note under section 5561 of Title 5, Government Organization and Employees\] is to ensure that any member of the Armed Forces (and any Department of Defense civilian employee or contractor employee who serves with or accompanies the Armed Forces in the field under orders) who becomes missing or unaccounted for is ultimately accounted for by the United States and, as a general rule, is not declared dead solely because of the passage of time.”
 
 #### Section Referred to in Other Sections
 

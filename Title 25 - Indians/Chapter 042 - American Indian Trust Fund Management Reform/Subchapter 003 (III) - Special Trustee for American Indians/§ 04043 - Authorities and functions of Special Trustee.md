@@ -54,7 +54,7 @@
 
 &emsp;The Special Trustee shall ensure that—
 
-&emsp;&emsp;(A) the policies, procedures, practices, and systems of the Bureau, the Bureau of Land Management, and the Minerals ManagementService related to the discharge of the Secretary's trust responsibilities are coordinated, consistent, and integrated, and
+&emsp;&emsp;(A) the policies, procedures, practices, and systems of the Bureau, the Bureau of Land Management, and the Minerals Management Service related to the discharge of the Secretary's trust responsibilities are coordinated, consistent, and integrated, and
 
 &emsp;&emsp;(B) the Department prepares comprehensive and coordinated written policies and procedures for each phase of the trust management business cycle.
 
@@ -127,6 +127,108 @@ The Special Trustee shall report to the Secretary and the Committee on Natural R
 #### Change of Name
 
 Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+
+#### Lands Title Report Commission
+
+Pub. L. 106–569, title V, §501, Dec. 27, 2000, 114 Stat. 2959, provided that:
+
+“(a)
+
+Establishment.—Subject to sums being provided in advance in appropriations Acts, there is established a Commission to be known as the Lands Title Report Commission (hereafter in this section referred to as the ‘Commission’) to facilitate home loan mortgages on Indian trust lands. The Commission will be subject to oversight by the Committee on Banking and Financial Services \[now Committee on Financial Services\] of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate.
+
+“(b)
+
+Membership.—
+
+&emsp;“(1)
+
+Appointment.—The Commission shall be composed of 12 members, appointed not later than 90 days after the date of the enactment of this Act \[Dec. 27, 2000\] as follows:
+
+&emsp;&emsp;“(A) Four members shall be appointed by the President.
+
+&emsp;&emsp;“(B) Four members shall be appointed by the Chairperson of the Committee on Banking and Financial Services \[now Committee on Financial Services\] of the House of Representatives.
+
+&emsp;&emsp;“(C) Four members shall be appointed by the Chairperson of the Committee on Banking, Housing, and Urban Affairs of the Senate.
+
+&emsp;“(2)
+
+Qualifications.—
+
+&emsp;&emsp;“(A)
+
+Members of tribes.—At all times, not less than eight of the members of the Commission shall be members of federally recognized Indian tribes.
+
+&emsp;&emsp;“(B)
+
+Experience in land title matters.—All members of the Commission shall have experience in and knowledge of land title matters relating to Indian trust lands.
+
+&emsp;“(3)
+
+Chairperson.—The Chairperson of the Commission shall be one of the members of the Commission appointed under paragraph (1)(C), as elected by the members of the Commission.
+
+&emsp;“(4)
+
+Vacancies.—Any vacancy on the Commission shall not affect its powers, but shall be filled in the manner in which the original appointment was made.
+
+&emsp;“(5)
+
+Travel expenses.—Members of the Commission shall serve without pay, but each member shall receive travel expenses, including per diem in lieu of subsistence, in accordance with sections 5702 and 5703 of title 5, United States Code.
+
+“(c)
+
+Initial Meeting.—The Chairperson of the Commission shall call the initial meeting of the Commission. Such meeting shall be held within 30 days after the Chairperson of the Commission determines that sums sufficient for the Commission to carry out its duties under this Act \[probably should be “section”\] have been appropriated for such purpose.
+
+“(d)
+
+Duties.—The Commission shall analyze the system of the Bureau of Indian Affairs of the Department of the Interior for maintaining land ownership records and title documents and issuing certified title status reports relating to Indian trust lands and, pursuant to such analysis, determine how best to improve or replace the system—
+
+&emsp;“(1) to ensure prompt and accurate responses to requests for title status reports;
+
+&emsp;“(2) to eliminate any backlog of requests for title status reports; and
+
+&emsp;“(3) to ensure that the administration of the system will not in any way impair or restrict the ability of Native Americans to obtain conventional loans for purchase of residences located on Indian trust lands, including any actions necessary to ensure that the system will promptly be able to meet future demands for certified title status reports, taking into account the anticipated complexity and volume of such requests.
+
+“(e)
+
+Report.—Not later than the date of the termination of the Commission under subsection (h), the Commission shall submit a report to the Committee on Banking and Financial Services \[now Committee on Financial Services\] of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate describing the analysis and determinations made pursuant to subsection (d).
+
+“(f)
+
+Powers.—
+
+&emsp;“(1)
+
+Hearings and sessions.—The Commission may, for the purpose of carrying out this section, hold hearings, sit and act at times and places, take testimony, and receive evidence as the Commission considers appropriate.
+
+&emsp;“(2)
+
+Staff of federal agencies.—Upon request of the Commission, the head of any Federal departmentor agency may detail, on a reimbursable basis, any of the personnel of that department or agency to the Commission to assist it in carrying out its duties under this section.
+
+&emsp;“(3)
+
+Obtaining official data.—The Commission may secure directly from any department or agency of the United States information necessary to enable it to carry out this section. Upon request of the Chairperson of the Commission, the head of that department or agency shall furnish that information to the Commission.
+
+&emsp;“(4)
+
+Mails.—The Commission may use the United States mails in the same manner and under the same conditions as other departments and agencies of the United States.
+
+&emsp;“(5)
+
+Administrative support services.—Upon the request of the Commission, the Administrator of General Services shall provide to the Commission, on a reimbursable basis, the administrative support services necessary for the Commission to carry out its duties under this section.
+
+&emsp;“(6)
+
+Staff.—The Commission may appoint personnel as it considers appropriate, subject to the provisions of title 5, United States Code, governing appointments in the competitive service, and shall pay such personnel in accordance with the provisions of chapter 51 and subchapter III of chapter 53 of that title relating to classification and General Schedule pay rates.
+
+“(g)
+
+Authorization of Appropriations.—There is authorized to be appropriated to carry out this section such sums as may be necessary, and any amounts appropriated pursuant to this subsection shall remain available until expended.
+
+“(h)
+
+Termination.—The Commission shall terminate 1 year after the date of the initial meeting of the Commission.”
+
+Substantially identical provisions were contained in Pub. L. 106–568, title X, §1001, Dec. 27, 2000, 114 Stat. 2923.
 
 #### Section Referred to in Other Sections
 

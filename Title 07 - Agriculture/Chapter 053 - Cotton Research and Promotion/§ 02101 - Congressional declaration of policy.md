@@ -18,7 +18,7 @@ Section 20 of Pub. L. 89–502 provided that: “This Act \[enacting this chapte
 
 #### Short Title of 1990 Amendment
 
-Section 1990 of Pub. L. 101–624 provided that: “This subtitle \[subtitle G (§§1990–1998) of title XIX of Pub. L. 101–624, amending this section and sections 2106 to 2110 and 2116 of this title, and enacting provisions set out below\] may be cited as the ‘Cotton Research and Promotion Act Amendments of 1990’.”
+Section 1990 of Pub. L. 101–624 provided that: “This subtitle \[subtitle G (§§1990–1998) of title XIX of Pub. L.101–624, amending this section and sections 2106 to 2110 and 2116 of this title, and enacting provisions set out below\] may be cited as the ‘Cotton Research and Promotion Act Amendments of 1990’.”
 
 #### Short Title
 

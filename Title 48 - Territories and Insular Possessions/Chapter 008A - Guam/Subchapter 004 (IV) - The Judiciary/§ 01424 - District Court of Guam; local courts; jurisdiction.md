@@ -12,7 +12,7 @@ The District Court of Guam shall have the jurisdiction of a district court of th
 
 In addition to the jurisdiction described in subsection (b) of this section, the District Court of Guam shall have original jurisdiction in all other causes in Guam, jurisdiction over which is not then vested by the legislature in another court or other courts established by it. In causes brought in the district court solely on the basis of this subsection, the district court shall be considered a court established by the laws of Guam for the purpose of determining the requirements of indictment by grand jury or trial by jury.
 
-(Aug. 1, 1950, ch. 512, §22, 64 Stat. 389; Aug. 27, 1954, ch. 1017, §1, 68 Stat. 882; Pub. L. 85–444, §§1,2, June 4, 1958, 72 Stat. 178, 179; Pub. L. 95–598, title III, §335, Nov. 6, 1978, 92 Stat. 2680; Pub. L. 98–454, title VIII, §§801, 803, title X, §1001, Oct. 5, 1984, 98 Stat. 1741, 1743, 1745.)
+(Aug. 1, 1950, ch. 512, §22, 64 Stat. 389; Aug. 27, 1954, ch. 1017, §1, 68 Stat. 882; Pub. L. 85–444, §§1, 2, June 4, 1958, 72 Stat. 178, 179; Pub. L. 95–598, title III, §335, Nov. 6, 1978, 92 Stat. 2680; Pub. L. 98–454, title VIII, §§801, 803, title X, §1001, Oct. 5, 1984, 98 Stat. 1741, 1743, 1745.)
 
 #### Amendments
 
@@ -32,7 +32,7 @@ Section 1005 of Pub. L. 98–454 provided that: “Titles VII, VIII, IX, and X o
 
 #### Effective Date of 1978 Amendment
 
-Amendment by section 335(b) of Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub. L. 95–598, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+Amendment by section 335(b) of Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub. L. 95–598, setout as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
 Section 402(e) of Pub. L. 95–598, which provided a prospective effective date for the amendment of subsec. (a) by section 335(a) of Pub. L. 95–598, was repealed by section 1001 of Pub. L. 98–454.
 

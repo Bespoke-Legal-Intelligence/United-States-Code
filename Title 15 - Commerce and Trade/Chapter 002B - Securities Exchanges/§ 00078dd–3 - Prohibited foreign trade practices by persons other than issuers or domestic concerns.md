@@ -36,7 +36,7 @@ Subsection (a) of this section shall not apply to any facilitating or expediting
 
 It shall be an affirmative defense to actions under subsection (a) of this section that—
 
-&emsp;(1) the payment, gift, offer, or promise of anything of value that was made, was lawful under the written laws and regulations of the foreign official's, political party's, party official's, or candidate's country; or
+&emsp;(1) the payment, gift, offer, or promise of anything of value that was made, was lawful under the written laws and regulations of theforeign official's, political party's, party official's, or candidate's country; or
 
 &emsp;(2) the payment, gift, offer, or promise of anything of value that was made, was a reasonable and bona fide expenditure, such as travel and lodging expenses, incurred by or on behalf of a foreign official, party, party official, or candidate and was directly related to—
 
@@ -70,7 +70,7 @@ It shall be an affirmative defense to actions under subsection (a) of this secti
 
 For purposes of this section:
 
-&emsp;(1) The term “person”, when referring to an offender, means any natural person other than a national of the United States (as defined in section 1101 of title 8 <sup>1</sup> or any corporation,partnership, association, joint-stock company, business trust, unincorporated organization, or sole proprietorship organized under the law of a foreign nation or a political subdivision thereof.
+&emsp;(1) The term “person”, when referring to an offender, means any natural person other than a national of the United States (as defined in section 1101 of title 8 <sup>1</sup> or any corporation, partnership, association, joint-stock company, business trust, unincorporated organization, or sole proprietorship organized under the law of a foreign nation or a political subdivision thereof.
 
 &emsp;(2)(A) The term “foreign official” means any officer or employee of a foreign government or any department, agency, or instrumentality thereof, or of a public international organization, or any person acting in an official capacity for or on behalf of any such government or department, agency, or instrumentality, or for or on behalf of any such public international organization.
 

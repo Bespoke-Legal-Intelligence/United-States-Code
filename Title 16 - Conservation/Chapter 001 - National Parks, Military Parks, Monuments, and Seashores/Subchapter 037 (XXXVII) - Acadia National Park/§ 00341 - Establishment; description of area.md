@@ -20,7 +20,7 @@ Pub. L. 99–420, title I, Sept. 25, 1986, 100 Stat. 955, provided that:
 
 #### “SEC. 101. BOUNDARIES OF ACADIA NATIONAL PARK.
 
-“In order to protect and conserve the land and water resources of Acadia National Park in the State ofMaine (hereinafter in this title referred to as ‘the Park’), and to facilitate the administration of the Park, the boundary depicted on the map entitled ‘Acadia National Park Boundary Map’, numbered 123–80011, and dated May 1986 (hereinafter in this title referred to as ‘the map’) is hereby established as the permanent boundary for the Park. The map shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior, and it shall be made available to the Registry of Deeds for Hancock and Knox Counties, Maine.
+“In order to protect and conserve the land and water resources of Acadia National Park in the State of Maine (hereinafter in this title referred to as ‘the Park’), and to facilitate the administration of the Park, the boundary depicted on the map entitled ‘Acadia National Park Boundary Map’, numbered 123–80011,and dated May 1986 (hereinafter in this title referred to as ‘the map’) is hereby established as the permanent boundary for the Park. The map shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior, and it shall be made available to the Registry of Deeds for Hancock and Knox Counties, Maine.
 
 #### “SEC. 102. LANDS WITHIN BOUNDARIES.
 
@@ -60,7 +60,7 @@ Pub. L. 99–420, title I, Sept. 25, 1986, 100 Stat. 955, provided that:
 
 “(g) Notwithstanding any other provision of this section, the Secretary is authorized to acquire by donation or exchange lands or interests therein in the area identified on the map as ‘Schooner Head’, which is outside the boundary of the park. The Secretary is further authorized to acquire conservation easements on such lands by purchase with donated or appropriated funds if he determines after written notice to the owner and after providing a reasonable opportunity to comment on such notice, that the property is being developed or proposed to be developed in a manner which is significantly different from or a significant expansion of development existing as of November 1, 1985, as defined in subsection (b) of this section.
 
-“(h)(1) The Secretary is authorized to acquire conservation easements by purchase from a willing seller or by donation on parcels of land adjacent to the Park on Schoodic Peninsula, the islands of Hancock County, and the islands of Knox County east and south of the Penobscot Ship Channel, except such islands as lie within the town of Isle au Haut, Knox County. Parcelssubject to conservation easements acquired or accepted by the Secretary under this subsection must possess one or more of the following characteristics:
+“(h)(1) The Secretary is authorized to acquire conservation easements by purchase from a willing seller or by donation on parcels of land adjacent to the Park on Schoodic Peninsula, the islands of Hancock County, and the islands of Knox County east and south of the Penobscot Ship Channel, except such islands as lie within the town of Isle au Haut, Knox County. Parcels subject to conservation easements acquired or accepted by the Secretary under this subsection must possess one or more of the following characteristics:
 
 &emsp;“(A) important scenic, ecological, historic, archeological, or cultural resources;
 

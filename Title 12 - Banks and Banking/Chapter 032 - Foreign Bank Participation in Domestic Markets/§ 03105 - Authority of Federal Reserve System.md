@@ -54,7 +54,7 @@
 
 &emsp;Except as provided in paragraph (6), the Board may not approve an application under paragraph (1) unless it determines that—
 
-&emsp;&emsp;(A) the foreign bank engages directly in the business of banking outside of theUnited States and is subject to comprehensive supervision or regulation on a consolidated basis by the appropriate authorities in its home country; and
+&emsp;&emsp;(A) the foreign bank engages directly in the business of banking outside of the United States and is subject to comprehensive supervision or regulation on a consolidated basis by the appropriate authorities in its home country; and
 
 &emsp;&emsp;(B) the foreign bank has furnished to the Board the information it needs to adequately assess the application.
 
@@ -228,7 +228,7 @@ The Board shall request and consider any views of the appropriate State bank sup
 
 #### (A) Insured branch
 
-&emsp;&emsp;The term “insured branch” has the meaning given such term in section 3(s) of the Federal Deposit Insurance Act \[12 U.S.C. 1813(s)\].
+&emsp;&emsp;The term “insured branch” has the meaning given such term in section 3(s) of theFederal Deposit Insurance Act \[12 U.S.C. 1813(s)\].
 
 #### (B) Money laundering offense defined
 
@@ -268,7 +268,7 @@ Sections 461, 463, 464, 465, and 466 of this title, referred to in subsec. (a)(1
 
 For definition of “this chapter”, referred to in subsecs. (d)(3)(C), (4) and (e)(1), see References in Text note set out under section 3101 of this title.
 
-The Bank Holding Company Act of 1956, referred to in subsecs. (d)(3)(C) and (e)(1)(B)(ii), is act May 9, 1956, ch.240, 70 Stat. 133, as amended, which is classified principally to chapter 17 (§1841 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1841 of this title and Tables.
+The Bank Holding Company Act of 1956, referred to in subsecs. (d)(3)(C) and (e)(1)(B)(ii), is act May 9, 1956, ch. 240, 70 Stat. 133, as amended, which is classified principally to chapter 17 (§1841 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1841 of this title and Tables.
 
 The Federal Deposit Insurance Act, referred to in subsec. (e)(1)(B)(ii), is act Sept. 21, 1950, ch. 967, §2, 64 Stat. 873, as amended, which is classified generally to chapter 16 (§1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of this title and Tables.
 
@@ -322,7 +322,7 @@ Subsec. (j). Pub. L. 102–242, §214(b), as amended by Pub. L. 102–550, §160
 
 #### Change of Name
 
-Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Effective Date of 1994 Amendment
 

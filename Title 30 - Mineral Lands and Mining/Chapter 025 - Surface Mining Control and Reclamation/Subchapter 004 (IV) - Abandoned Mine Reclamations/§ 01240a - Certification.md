@@ -2,7 +2,7 @@
 
 #### (a) Certification of completion of coal reclamation
 
-The Governor of a State, or the head of a governing body of an Indian tribe, with an approved abandoned mine reclamation program under section 1235 of this title may certify to the Secretary that all of the priorities stated in section1233(a) of this title for eligible lands and waters pursuant to section 1234 of this title have been achieved. The Secretary, after notice in the Federal Register and opportunity for public comment, shall concur with such certification if the Secretary determines that such certification is correct.
+The Governor of a State, or the head of a governing body of an Indian tribe, with an approved abandoned mine reclamation program under section 1235 of this title may certify to the Secretary that all of the priorities stated in section 1233(a) of this title for eligible lands and waters pursuant to section 1234 of this title have been achieved. The Secretary, after notice in the Federal Register and opportunity for public comment, shall concur with such certification if the Secretary determines that such certification is correct.
 
 #### (b) Eligible lands, waters, and facilities
 
@@ -42,13 +42,13 @@ The provisions of sections 1237 and 1238 of this title shall apply to subsection
 
 #### References in Text
 
-The Uranium Mill Tailings Radiation Control Act of 1978, referred to in subsec. (d), is Pub. L. 95–604, Nov. 8, 1978, 92 Stat. 3021, as amended, which is classified principally to chapter 88 (§7901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7901 of Title 42 and Tables.
+The Uranium Mill Tailings Radiation Control Act of 1978, referred to in subsec. (d), is Pub. L. 95–604, Nov. 8,1978, 92 Stat. 3021, as amended, which is classified principally to chapter 88 (§7901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7901 of Title 42 and Tables.
 
 The Comprehensive Environmental Response Compensation and Liability Act of 1980, referred to in subsec. (d), probably means the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§9601 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of Title 42 and Tables.
 
 #### Prior Provisions
 
-A prior section 411 of Pub. L. 95–87 was renumbered section 412 and is classified to section 1241 of this title.
+A prior section 411 of Pub. L. 95–87 was renumbered section 412 and was classified to section 1241 of this title, prior to being omitted from the Code.
 
 #### Effective Date
 

@@ -4,7 +4,7 @@
 
 #### (1) General rule
 
-&emsp;It is an unfair immigration-related employment practice for a person or other entity todiscriminate against any individual (other than an unauthorized alien, as defined in section 1324a(h)(3) of this title) with respect to the hiring, or recruitment or referral for a fee, of the individual for employment or the discharging of the individual from employment—
+&emsp;It is an unfair immigration-related employment practice for a person or other entity to discriminate against any individual (other than an unauthorized alien, as defined in section 1324a(h)(3) of this title) with respect to the hiring, or recruitment or referral for a fee, of the individual for employment or the discharging of the individual from employment—
 
 &emsp;&emsp;(A) because of such individual's national origin, or
 
@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(A) is a citizen or national of the United States, or
 
-&emsp;&emsp;(B) is an alien who is lawfully admitted for permanent residence, is granted the status of an alien lawfully admitted for temporary residence under section 1160(a) or 1255a(a)(1) of this title, is admitted as a refugee under section 1157 of this title, or is granted asylum under section 1158 of this title; but does not include (i) an alien who fails to apply for naturalization within six months of the date the alien first becomes eligible (by virtue of period of lawful permanent residence) to apply for naturalization or, if later, within six months after November 6, 1986, and (ii) an alien who has applied on a timely basis, but has not been naturalized as a citizen within 2 years after the date of the application, unless the alien can establish that the alien is actively pursuing naturalization, except that time consumed in the Service's processing the application shall not be counted toward the 2-year period.
+&emsp;&emsp;(B) is an alien who is lawfully admitted for permanent residence, is granted the status of an alien lawfully admitted for temporary residence under section 1160(a) or 1255a(a)(1)of this title, is admitted as a refugee under section 1157 of this title, or is granted asylum under section 1158 of this title; but does not include (i) an alien who fails to apply for naturalization within six months of the date the alien first becomes eligible (by virtue of period of lawful permanent residence) to apply for naturalization or, if later, within six months after November 6, 1986, and (ii) an alien who has applied on a timely basis, but has not been naturalized as a citizen within 2 years after the date of the application, unless the alien can establish that the alien is actively pursuing naturalization, except that time consumed in the Service's processing the application shall not be counted toward the 2-year period.
 
 #### (4) Additional exception providing right to prefer equally qualified citizens
 
@@ -72,7 +72,7 @@
 
 #### (1) By Special Counsel
 
-&emsp;The Special Counsel shall investigate each charge received and, within 120 days of the date of the receipt of the charge, determine whether or not there is reasonable cause to believe that the charge is true and whether or not to bring a complaint with respect to the charge before an administrative law judge. The Special Counsel may, on his own initiative, conduct investigations respecting unfair immigration-related employment practices and, based on such an investigation and subject to paragraph (3), file a complaint before such a judge.
+&emsp;The Special Counsel shall investigate each charge received and, within 120 days of the date of the receipt of the charge, determine whether or not there is reasonable cause to believe that the charge is true and whether or not to bring a complaint with respect to the charge before an administrative law judge.The Special Counsel may, on his own initiative, conduct investigations respecting unfair immigration-related employment practices and, based on such an investigation and subject to paragraph (3), file a complaint before such a judge.
 
 #### (2) Private actions
 
@@ -104,7 +104,7 @@
 
 #### (2) Authority of administrative law judges
 
-&emsp;In conducting investigations and hearings under this subsection <sup>1</sup> and in accordance with regulations of the Attorney General, the Special Counsel and administrative law judges shall have reasonable access to examine evidence of any person or entity being investigated. The administrative law judges by subpoena may compel the attendance of witnesses and the production of evidence at any designated place or hearing. In case of contumacy or refusal to obey a subpoena lawfully issuedunder this paragraph and upon application of the administrative law judge, an appropriate district court of the United States may issue an order requiring compliance with such subpoena and any failure to obey such order may be punished by such court as a contempt thereof.
+&emsp;In conducting investigations and hearings under this subsection <sup>1</sup> and in accordance with regulations of the Attorney General, the Special Counsel and administrative law judges shall have reasonable access to examine evidence of any person or entity being investigated. The administrative law judges by subpoena may compel the attendance of witnesses and the production of evidence at any designated place or hearing. In case of contumacy or refusal to obey a subpoena lawfully issued under this paragraph and upon application of the administrative law judge, an appropriate district court of the United States may issue an order requiring compliance with such subpoena and any failure to obey such order may be punished by such court as a contempt thereof.
 
 #### (g) Determinations
 
@@ -124,7 +124,7 @@
 
 &emsp;&emsp;&emsp;(i) to comply with the requirements of section 1324a(b) of this title with respect to individuals hired (or recruited or referred for employment for a fee) during a period of up to three years;
 
-&emsp;&emsp;&emsp;(ii) to retain for the period referred to in clause (i) and only for purposes consistent with section 1324a(b)(5) of this title, the name and address of each individual who applies, in person or in writing, for hiring for an existing position, or for recruiting or referring for a fee, for employment in the United States;
+&emsp;&emsp;&emsp;(ii) to retain for the period referred to in clause (i) and only for purposes consistent with section 1324a(b)(5) of this title, thename and address of each individual who applies, in person or in writing, for hiring for an existing position, or for recruiting or referring for a fee, for employment in the United States;
 
 &emsp;&emsp;&emsp;(iii) to hire individuals directly and adversely affected, with or without back pay;
 
@@ -186,7 +186,7 @@ In any complaint respecting an unfair immigration-related employment practice, a
 
 #### (4) Awarding of attorneys’ fees
 
-&emsp;In any judicial proceeding under subsection (i) of this section or this subsection, the court, in its discretion, may allow a prevailing party, other than the United States, a reasonable attorney's fee as part of costs but only if the losing party's argument is without reasonable foundation in law and fact.
+&emsp;In any judicial proceeding under subsection (i) of this section or this subsection, the court,in its discretion, may allow a prevailing party, other than the United States, a reasonable attorney's fee as part of costs but only if the losing party's argument is without reasonable foundation in law and fact.
 
 #### (k) Termination dates
 
@@ -324,7 +324,7 @@ Amendment by Pub. L. 100–525 effective as if included in enactment of Immigrat
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the GeneralSchedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 #### No Effect on EEOC Authority
 

@@ -98,7 +98,7 @@ No policy of health insurance may make payment of benefits under the policy seco
 
 (1) Payment of compensation under the Program to a petitioner for a vaccine-related injury or death associated with the administration of a vaccine before October 1, 1988, shall be made by the Secretary from appropriations under subsection (j) of this section.
 
-(2) Payment of compensation under the Program to a petitioner for a vaccine-related injury or death associated with the administration of a vaccine on or after October 1, 1988, shall be made from the Vaccine Injury Compensation Trust Fund established under section 9510 of title 26.
+(2) Payment of compensation under the Program to a petitioner for a vaccine-related injuryor death associated with the administration of a vaccine on or after October 1, 1988, shall be made from the Vaccine Injury Compensation Trust Fund established under section 9510 of title 26.
 
 #### (j) Authorization
 
@@ -210,7 +210,7 @@ Amendment by Pub. L. 101–502 effective Sept. 30, 1990, see section 5(h) of Pub
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 applicable to all pending and subsequently filed petitions, see section6601(s)(2) of Pub. L. 101–239, set out as a note under section 300aa–10 of this title.
+Amendment by Pub. L. 101–239 applicable to all pending and subsequently filed petitions, see section 6601(s)(2) of Pub. L. 101–239, set out as a note under section 300aa–10 of this title.
 
 #### Effective Date of 1988 Amendment
 

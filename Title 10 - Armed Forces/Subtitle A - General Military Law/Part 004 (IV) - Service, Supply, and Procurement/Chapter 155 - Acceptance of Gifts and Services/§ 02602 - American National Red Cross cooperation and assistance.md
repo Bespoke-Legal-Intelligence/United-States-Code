@@ -68,11 +68,3 @@ Pub. L. 103–377, div. A, title III, §383(b), Oct. 5, 1994, 108 Stat. 2740, pr
 
 &emsp;“(3) An assessment of the alternatives available to the Secretary for obtaining such emergency communications services, including the provision of such services by the Department of Defense.”
 
-#### Cross References
-
-Equipment for instruction and practice, loan to American National Red Cross, see section 2542 of this title.
-
-Fees for execution and issuance of passport, see section 214 of Title 22, Foreign Relations and Intercourse.
-
-Military installations, erection and use of buildings license to American National Red Cross, see section 2670 of this title.
-

@@ -1,0 +1,52 @@
+### §6224. Participation in administrative proceedings; waivers; agreements
+
+#### (a) Participation in administrative proceedings
+
+Any partner has the right to participate in any administrative proceeding relating to the determination of partnership items at the partnership level.
+
+#### (b) Partner may waive rights
+
+#### (1) In general
+
+&emsp;A partner may at any time waive—
+
+&emsp;&emsp;(A) any right such partner has under this subchapter, and
+
+&emsp;&emsp;(B) any restriction under this subchapter on action by the Secretary.
+
+#### (2) Form
+
+&emsp;Any waiver under paragraph (1) shall be made by a signed notice in writing filed with the Secretary.
+
+#### (c) Settlement agreement
+
+In the absence of a showing of fraud, malfeasance, or misrepresentation of fact—
+
+#### (1) Binds all parties
+
+&emsp;A settlement agreement between the Secretary and 1 or more partners in a partnership with respect to the determination of partnership items for any partnership taxable year shall (except as otherwise provided in such agreement) be binding on all parties to such agreement with respect to the determination of partnership items for such partnership taxable year. An indirect partner is bound by any such agreement entered into by the pass-thru partner unless the indirect partner has been identified as provided in section 6223(c)(3).
+
+#### (2) Other partners have right to enter into consistent agreements
+
+&emsp;If the Secretary enters into a settlement agreement with any partner with respect to partnership items for any partnership taxable year, the Secretary shall offer to any other partner who so requests settlement terms for the partnership taxable year which are consistent with those contained in such settlement agreement. Except in the case of an election under paragraph (2) or (3) of section 6223(e) to have a settlement agreement described in this paragraph apply, this paragraph shall apply with respect to a settlement agreement entered into with a partner before notice of a final partnership administrative adjustment is mailed to the tax matters partner only if such other partner makes the request before the expiration of 150 days after the day on which such notice is mailed to the tax matters partner.
+
+#### (3) Tax matters partner may bind certain other partners
+
+#### (A) In general
+
+&emsp;&emsp;A partner who is not a notice partner (and not a member of a notice group described in subsection (b)(2) of section 6223) shall be bound by any settlement agreement—
+
+&emsp;&emsp;&emsp;(i) which is entered into by the tax matters partner, and
+
+&emsp;&emsp;&emsp;(ii) in which the tax matters partner expressly states that such agreement shall bind the other partners.
+
+#### (B) Exception
+
+&emsp;&emsp;Subparagraph (A) shall not apply to any partner who (within the time prescribed by the Secretary) files a statement with theSecretary providing that the tax matters partner shall not have the authority to enter into a settlement agreement on behalf of such partner.
+
+(Added Pub. L. 97–248, title IV, §402(a), Sept. 3, 1982, 96 Stat. 651.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 6223, 6234, 6601 of this title.
+

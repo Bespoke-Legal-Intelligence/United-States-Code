@@ -16,7 +16,7 @@
 
 &emsp;(B) Payment shall be made within 180 days from the date of the order setting aside or disapproving the sentence by court-martial to a dismissal or a dishonorable or bad-conduct discharge if a rehearing or new trial has been ordered but charges have not been referred to a rehearing or new trial within 120 days from the date of that order.
 
-&emsp;(C) If a rehearing or new trial has been ordered and a dismissal or a dishonorable or bad-conduct discharge is not included in the resultof such rehearing or new trial, payment shall be made within 60 days of the date of the announcement of the result of such rehearing or new trial.
+&emsp;(C) If a rehearing or new trial has been ordered and a dismissal or a dishonorable or bad-conduct discharge is not included in the result of such rehearing or new trial, payment shall be made within 60 days of the date of the announcement of the result of such rehearing or new trial.
 
 &emsp;(D) If a rehearing or new trial has been ordered and a dismissal or a dishonorable or bad-conduct discharge is included in the result of such rehearing or new trial, but such dismissal or discharge is not later executed, payment shall be made within 60 days of the date of the order which set aside, disapproved, or otherwise vacated such dismissal or discharge.
 
@@ -32,7 +32,7 @@
 
 #### Effective Date
 
-Section to take effect at end of 60-day period beginning on Nov. 20, 1981, to apply to each member whose sentence by court-martial is approved on or after Jan. 20, 1982, under section 864 or 865 of this title by officer exercising general court-martial jurisdiction under provisions of such section as it existed on day before effective date of Military Justice Act of 1983 (Pub. L. 98–209), or under section 860 of this title by officer empowered to act on sentence on or after that effective date, see section 7(a), (b)(1) of Pub. L. 97–81, set out as a note under section 706 of this title.
+Section to take effect at end of 60-day period beginning on Nov. 20, 1981, to apply to each member whose sentence by court-martial is approved on or after Jan. 20, 1982, under section 864 or 865 of this title by officerexercising general court-martial jurisdiction under provisions of such section as it existed on day before effective date of Military Justice Act of 1983 (Pub. L. 98–209), or under section 860 of this title by officer empowered to act on sentence on or after that effective date, see section 7(a), (b)(1) of Pub. L. 97–81, set out as a note under section 706 of this title.
 
 #### Section Referred to in Other Sections
 

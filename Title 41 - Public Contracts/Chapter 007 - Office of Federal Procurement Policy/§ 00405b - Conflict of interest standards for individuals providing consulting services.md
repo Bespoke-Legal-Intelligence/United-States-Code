@@ -42,3 +42,7 @@ Executive order 12333, referred to in subsec. (d), is set out as a note under se
 
 Section was enacted as part of the Department of Defense Appropriations Act, 1989, and not as part of the Office of Federal Procurement Policy Act which comprises this chapter.
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsec. (d) of this section is listed on page 156), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+

@@ -168,7 +168,7 @@ Alternative System.—(1) If the Secretary makes a determination under subsectio
 
 “(2) Not later than one year after the Secretary develops test procedures under paragraph (1), the Federal Trade Commission (hereafter in this section referred to as the ‘Commission’) shall prescribe labeling rules under section 324 of such Act (42 U.S.C. 6294) for commercial office equipment for which the Secretary has prescribed test procedures under paragraph (1) except that, with respect to any type of commercial office equipment (or class thereof), the Secretary may determine that such labeling is not technologically feasible or economically justified or is not likely to assist consumers in making purchasing decisions.
 
-“(3) For purposes of sections 323, 324, and 327 of such Act \[42 U.S.C. 6293, 6294, 6297\], each product for which the Secretary has established test procedures or labeling rules pursuant to this subsection shall be considered a new covered product under section 322 of suchAct (42 U.S.C. 6292) to the extent necessary to carry out this subsection.
+“(3) For purposes of sections 323, 324, and 327 of such Act \[42 U.S.C. 6293, 6294, 6297\], each product for which the Secretary has established test procedures or labeling rules pursuant to this subsection shall be considered a new covered product under section 322 of such Act (42 U.S.C. 6292) to the extent necessary to carry out this subsection.
 
 “(4) For purposes of section 327(a) of such Act, the term ‘this part’ includes this subsection to the extent necessary to carry out this subsection.”
 

@@ -62,7 +62,7 @@ Soundproofing and acquisition of certain residential buildings and properties.�
 
 &emsp;&emsp;(iii) if the Secretary determines that the proposed projects are compatible with the purposes of this chapter;
 
-&emsp;(C) to an airport operator and unit of local government referred to in paragraph (1)(A) or (1)(B) of this subsection to carry out any part of a program developed before February 18, 1980, or before implementing regulations were prescribed, if the Secretary decides the program is substantially consistent with reducing existing noncompatible uses and preventing the introduction of additional noncompatible uses and the purposes of this chapter will be furthered by promptly carrying out the program; and
+&emsp;(C) to an airport operator and unit of local government referred to in paragraph (1)(A) or\(1)(B) of this subsection to carry out any part of a program developed before February 18, 1980, or before implementing regulations were prescribed, if the Secretary decides the program is substantially consistent with reducing existing noncompatible uses and preventing the introduction of additional noncompatible uses and the purposes of this chapter will be furthered by promptly carrying out the program; and
 
 &emsp;(D) to an airport operator and unit of local government referred to in paragraph (1)(A) or (1)(B) of this subsection to soundproof a building in the noise impact area surrounding the airport that is used primarily for educational or medical purposes and that the Secretary decides is adversely affected by airport noise.
 
@@ -80,11 +80,15 @@ Soundproofing and acquisition of certain residential buildings and properties.�
 
 &emsp;(B) any provision that the Secretary decides is inconsistent with, or unnecessary to carry out, this chapter.
 
+(6)
+
+Aircraft noise primarily caused by military aircraft.—The Secretary may make a grant under this subsection for a project even if the purpose of the project is to mitigate the effect of noise primarily caused by military aircraft at an airport.
+
 (d)
 
 Government Relief From Liability.—The Government is not liable for damages from aviation noise because of action taken under this section.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1285; Pub. L. 103–305, title I, §119, Aug. 23, 1994, 108 Stat. 1580; Pub. L. 103–429, §6(71), Oct. 31, 1994, 108 Stat. 4387.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1285; Pub. L. 103–305, title I, §119, Aug. 23, 1994, 108 Stat. 1580; Pub. L. 103–429, §6(71), Oct. 31, 1994, 108 Stat. 4387; Pub. L. 106–181, title I, §154, Apr. 5, 2000, 114 Stat. 88.)
 
 Historical and Revision Notes
 
@@ -150,6 +154,8 @@ Section 301(d)(4)(B) of the Airport and Airway Safety and Capacity Expansion Act
 
 #### Amendments
 
+2000—Subsec. (c)(6). Pub. L. 106–181 added par. (6).
+
 1994—Subsec. (c)(1)(A). Pub. L. 103–429, §6(71)(A), inserted “and” after semicolon at end.
 
 Subsec. (c)(1)(B). Pub. L. 103–429, §6(71)(B), substituted a period for semicolon at end.
@@ -173,6 +179,10 @@ Subsec. (c)(4). Pub. L. 103–305, §119(3), struck out “paragraph (1) of” b
 Pub. L. 103–305, §119(1), redesignated par. (3) as (4). Former par. (4) redesignated (5).
 
 Subsec. (c)(5). Pub. L. 103–305, §119(1), redesignated par. (4) as (5).
+
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
 
 #### Section Referred to in Other Sections
 

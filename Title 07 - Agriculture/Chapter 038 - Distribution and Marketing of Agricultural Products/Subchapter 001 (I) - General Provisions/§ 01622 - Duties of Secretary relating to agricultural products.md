@@ -20,7 +20,27 @@ To conduct, assist, foster, and direct studies and informational programs design
 
 #### (e) Development of new markets
 
-To foster and assist in the development of new or expanded markets (domestic and foreign) and new and expanded uses and in the moving of larger quantities of agricultural products through the private marketing system to consumers in the United States and abroad.
+#### (1) In general
+
+&emsp;To foster and assist in the development of new or expanded markets (domestic and foreign) and new and expanded uses and in the moving of larger quantities of agricultural products through the private marketing system to consumers in the United States and abroad.
+
+#### (2) Fees and penalties
+
+#### (A) In general
+
+&emsp;&emsp;In carrying out paragraph (1), the Secretary may assess and collect reasonable fees and late payment penalties to mediate and arbitrate disputes arising between parties in connection with transactions involving agricultural products moving in foreign commerce under the jurisdiction of a multinational entity.
+
+#### (B) Deposit
+
+&emsp;&emsp;Fees and penalties collected under subparagraph (A) shall be deposited into the account that incurred the cost of providing the mediation or arbitration service.
+
+#### (C) Availability
+
+&emsp;&emsp;Fees and penalties collected under subparagraph (A) shall be available to the Secretary without further Act of appropriation and shall remain available until expended to pay the expenses of the Secretary for providing mediation and arbitration services under this paragraph.
+
+#### (D) No requirement for use of services
+
+&emsp;&emsp;No person shall be required by the Secretary to use the mediation and arbitration services provided under this paragraph.
 
 #### (f) Increasing consumer education
 
@@ -32,7 +52,7 @@ To collect and disseminate marketing information, including adequate outlook inf
 
 #### (h) Inspection and certification of products in interstate commerce; credit and future availability of funds; investment; certificates as evidence; penalties
 
-To inspect, certify, and identify the class, quality, quantity, and condition of agricultural products when shipped or received in interstate commerce, under such rules and regulations as the Secretary of Agriculture may prescribe, including assessment and collection of such fees as will be reasonable and as nearly as may be to cover the cost of the service rendered, to the end that agricultural products may be marketed to the best advantage, that trading may be facilitated, and that consumers may be able to obtain the quality product which they desire, except that no person shall be required to use the service authorized by this subsection. Any fees collected under this subsection, late payment penalties, the proceeds from the sales of samples, and interest earned from the investment of such funds shall be credited to the trust fund account that incurs the cost of the services provided under this subsection and shall remain available without fiscal year limitation to pay the expenses of the Secretary incident to providing such services. Such funds may be invested by the Secretary in insured or fully collateralized, interest-bearing accounts or, at the discretion of the Secretary, by the Secretary of the Treasury in United States Government debt instruments. Any official certificate issued under the authority of this subsection shall be received by all officers and all courts of the United States as prima facie evidence of the truth of the statements therein contained. Whoever knowingly shall falsely make, issue, alter, forge, or counterfeit any official certificate, memorandum, mark, or other identification, or device for making such mark or identification, with respect to inspection, class, grade, quality, size, quantity, or condition, issued or authorized under this section or knowingly cause or procure, or aid, assist in, or be a party to, such false making, issuing, altering, forging, or counterfeiting, or whoever knowingly shall possess, without promptly notifying the Secretary of Agriculture or his representative, utter, publish, or use as true, or cause to be uttered, published, or used as true, any such falsely made, altered, forged, or counterfeited official certificate, memorandum, mark, identification, or device, or whoever knowingly represents that an agricultural product has been officially inspected or graded (by an authorized inspector or grader) under the authority of this section when such commodity has in fact not been so graded or inspected shall be fined not more than $1,000 or imprisoned not more than one year, or both. Shell eggs packed under the voluntary grading program of the Department of Agriculture shall not have beenshipped for sale previous to being packed under the program, as determined under a regulation promulgated by the Secretary.
+To inspect, certify, and identify the class, quality, quantity, and condition of agricultural products when shipped or received in interstate commerce, under such rules and regulations as the Secretary of Agriculture may prescribe, including assessment and collection of such fees as will be reasonable and as nearly as may be to cover the cost of the service rendered, to the end that agricultural products may be marketed to the best advantage, that trading may be facilitated, and that consumers may be able to obtain the quality product which they desire, except that no person shall be required to use the service authorized by this subsection. Any fees collected under this subsection, late payment penalties, the proceeds from the sales of samples, and interest earned from the investment of such funds shall be credited to the trust fund account that incurs the cost of the services provided under this subsection and shall remain available without fiscal year limitation to pay the expenses of the Secretary incident to providing such services. Such funds may be invested by the Secretary in insured or fully collateralized, interest-bearing accounts or, at the discretion of the Secretary, by the Secretary of the Treasury in United States Government debt instruments. Any official certificate issued under the authority of this subsection shall be received by all officers and all courts of the United States as prima facie evidence of the truth of the statements therein contained. Whoever knowingly shall falsely make, issue, alter, forge, or counterfeit any official certificate, memorandum, mark, or other identification, or device for making such mark or identification, with respect to inspection, class, grade, quality, size, quantity, or condition, issued or authorized under this section or knowingly cause or procure, or aid, assist in, or be a party to, such false making, issuing, altering, forging, or counterfeiting, or whoever knowingly shall possess, without promptly notifying the Secretary of Agriculture or his representative, utter, publish, or use as true, or cause to be uttered, published, or used as true, any such falsely made, altered, forged, or counterfeited official certificate, memorandum, mark, identification, or device, or whoever knowingly represents that an agricultural product has been officially inspected or graded (by an authorized inspector or grader) under the authority of this section when such commodity has in fact not been so graded or inspected shall be fined not more than $1,000 or imprisoned not more than one year, or both. Shell eggs packed under the voluntary grading program of the Department of Agriculture shall not have been shipped for sale previous to being packed under the program, as determined under a regulation promulgated by the Secretary.
 
 #### (i) Development of facilities for assembling, processing, transporting, etc.
 
@@ -58,9 +78,11 @@ To conduct, assist, encourage, and promote research, investigation, and experime
 
 To conduct such other research and services and to perform such other activities as will facilitate the marketing, distribution, processing, and utilization of agricultural products through commercial channels.
 
-(Aug. 14, 1946, ch. 966, title II, §203, 60 Stat. 1087; Aug. 9, 1955, ch. 632, §1, 69 Stat. 553; Pub. L. 95–113, title II, §206, Sept. 29, 1977, 91 Stat. 920; Pub. L. 97–31, §12(2), Aug. 6, 1981, 95 Stat. 153; Pub. L. 98–403, §2, Aug. 28, 1984, 98 Stat. 1480; Pub. L. 98–443, §9(j), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 105–277, div. A, §101(a) \[title VII, §755(a)\], Oct. 21, 1998, 112 Stat. 2681, 2681–34.)
+(Aug. 14, 1946, ch. 966, title II, §203, 60 Stat. 1087; Aug. 9, 1955, ch. 632, §1, 69 Stat. 553; Pub. L. 95–113, title II, §206, Sept. 29, 1977, 91 Stat. 920; Pub. L. 97–31, §12(2), Aug. 6, 1981, 95 Stat. 153; Pub. L. 98–403, §2, Aug. 28, 1984, 98 Stat. 1480;Pub. L. 98–443, §9(j), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 105–277, div. A, §101(a) \[title VII, §755(a)\], Oct. 21, 1998, 112 Stat. 2681, 2681–34; Pub. L. 106–472, title III, §303, Nov. 9, 2000, 114 Stat. 2069.)
 
 #### Amendments
+
+2000—Subsec. (e). Pub. L. 106–472 inserted subsec. heading, designated existing provisions as par. (1), inserted par. heading, and added par. (2).
 
 1998—Subsec. (h). Pub. L. 105–277 inserted at end “Shell eggs packed under the voluntary grading program of the Department of Agriculture shall not have been shipped for sale previous to being packed under the program, as determined under a regulation promulgated by the Secretary.”
 
@@ -94,31 +116,21 @@ Executive and administrative functions of Maritime Commission transferred to Cha
 
 #### Agricultural Processing Equipment; Inspection and Certification; Fee
 
-Pub. L. 106–78, title VII, §734, Oct. 22, 1999, 113 Stat. 1165, provided that: “None of the funds made available by this Act or any other Act for any fiscal year may be used to carry out section 302(h) \[203(h)\] of the Agricultural Marketing Act of 1946 (7 U.S.C. 1622(h)) unless the Secretary of Agriculture inspects and certifies agricultural processing equipment, and imposes a fee for the inspection and certification, in a manner that is similar to the inspection and certification of agricultural products under that section, as determined by the Secretary: <i>Provided</i>, That this provision shall not affect the authority of the Secretary to carry out the Federal Meat Inspection Act (21 U.S.C. 601 et seq.), the Poultry Products Inspection Act (21 U.S.C. 451 et seq.), or the Egg Products Inspection Act (21 U.S.C. 1031 et seq.).”
+Pub. L. 106–387, §1(a) \[title VII, §729\], Oct. 28, 2000, 114 Stat. 1549, 1549A–33, provided that: “Hereafter, none of the funds appropriated by this Act or any other Act may be used to:
 
-Similar provisions were contained in the following prior appropriation act:
+&emsp;“(1) carry out the proviso under 7 U.S.C. 1622(f); or
+
+&emsp;“(2) carry out 7 U.S.C. 1622(h) unless the Secretary of Agriculture inspects and certifies agricultural processing equipment, and imposes a fee for the inspection and certification, in a manner that is similar to the inspection and certification of agricultural products under that section, as determined by the Secretary: <i>Provided</i>, That this provision shall not affect the authority of the Secretary to carry out the Federal Meat Inspection Act (21 U.S.C. 601 et seq.), the Poultry Products Inspection Act (21 U.S.C. 451 et seq.), or the Egg Products Inspection Act (21 U.S.C. 1031 et seq.).”
+
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 106–78, title VII, §734, Oct. 22, 1999, 113 Stat. 1165.
 
 Pub. L. 105–277, div. A, §101(a) \[title VII, §747\], Oct. 21, 1998, 112 Stat. 2681, 2681–32, as amended by Pub. L. 106–31, title V, §5001(c), May 21, 1999, 113 Stat. 109.
 
 #### Collection and Dissemination of Information on Prices Received for Bulk Cheese
 
-Pub. L. 105–18, title II, §1001, June 12, 1997, 111 Stat. 172, provided that:
-
-“(a)
-
-In General.—Not later than 30 days after the date of enactment of this Act \[June 12, 1997\], the Secretary of Agriculture shall collect and disseminate, on a weekly basis, statistically reliable information, obtained from cheese manufacturing areas in the United States on prices received and terms of trade involving bulk cheese, including information on the national average price for bulk cheese sold through spot and forward contract transactions. To the maximum extent practicable, the Secretary shall report the prices and terms of trade for spot and forward contract transactions separately.
-
-“(b)
-
-Confidentiality.—All information provided to, or acquired by, the Secretary under subsection (a) shall be kept confidential by each officer and employee of the Department of Agriculture except that general weekly statements may be issued that are based on the information and that do not identify the information provided by any person.
-
-“(c)
-
-Report.—Not later than 150 days after the date of enactment of this Act \[June 12, 1997\], the Secretary shall report to the Committee on Agriculture, and the Committee on Appropriations, of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry, and the Committee on Appropriations, of the Senate, on the rate of reporting compliance by cheese manufacturers with respect to the information collected under subsection (a). At the time of the report, the Secretary may submit legislative recommendations to improve the rate of reporting compliance.
-
-“(d)
-
-Termination of Effectiveness.—The authority provided by subsection (a) terminates effective April 5, 1999.”
+Pub. L. 105–18, title II, §1001, June 12, 1997, 111 Stat. 172, provided that not later than 30 days after June 12, 1997, Secretary of Agriculture was to collect and disseminate, on weekly basis, statistically reliable information, obtained from cheese manufacturing areas in United States, on prices received and terms of trade involving bulk cheese, including information on national average price for bulk cheese sold through spot and forward contract transactions, and further provided for confidentiality of information provided to, or acquired by, Secretary, report to Congress not later than 150 days after June 12, 1997, on rate of reporting compliance by cheese manufacturers with respect to information collected, and for termination of authority to collect information on Apr. 5, 1999.
 
 #### Lamb Price and Supply Reporting Services Report and System
 
@@ -263,10 +275,6 @@ Report.—The Secretary of Agriculture shall report to Congress on the research 
 #### “SEC. 1354. AUTHORIZATION OF APPROPRIATIONS.
 
 “There are authorized to be appropriated to carry out the activities required under this subtitle, $4,000,000 for each fiscal year.”
-
-#### Cross References
-
-Investigation of quality and condition of produce received in interstate commerce, see section 499n of this title.
 
 #### Section Referred to in Other Sections
 

@@ -4,13 +4,15 @@ The Assistant Secretary shall carry out a program for making grants to States un
 
 &emsp;(1) which, 5 or more days a week (except in a rural area where such frequency is not feasible (as defined by the Assistant Secretary by regulation) and a lesser frequency is approved by the State agency), provide at least one hot or other appropriate meal per day and any additional meals which the recipient of a grant or contract under this subpart may elect to provide;
 
-&emsp;(2) which shall be provided in congregate settings; and
+&emsp;(2) which shall be provided in congregate settings, including adult day care facilities and multigenerational meal sites; and
 
 &emsp;(3) which may include nutrition education services and other appropriate nutrition services for older individuals.
 
-(Pub. L. 89–73, title III, §331, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1536; amended Pub. L. 102–375, title III, §313, Sept. 30, 1992, 106 Stat. 1238; Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990.)
+(Pub. L. 89–73, title III, §331, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1536; amended Pub. L. 102–375, title III, §313, Sept. 30, 1992, 106 Stat. 1238; Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990; Pub. L. 106–501, title III, §312(c), Nov. 13, 2000, 114 Stat. 2252.)
 
 #### Amendments
+
+2000—Par. (2). Pub. L. 106–501 inserted “, including adult day care facilities and multigenerational meal sites” before semicolon.
 
 1993—Pub. L. 103–171 substituted “Assistant Secretary” for “Commissioner” in introductory provisions and par. (1).
 
@@ -26,5 +28,5 @@ Operation of predecessor projects under successor provisions, see section 501(b)
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 3017 of this title.
+This section is referred to in section 3032c of this title.
 

@@ -22,15 +22,57 @@ The Director of the Institute may designate National Drug Abuse Research Centers
 
 #### (b) Grants
 
-The Director of the Institute shall, under such conditions as the Secretary may reasonably require, make annual grants to Centers which have been designated under this section. No funds provided under a grant under this subsection may be used for the purchase of any land or the purchase, construction, preservation, or repair of any building. For the purposes of the preceding sentence, the term “construction” has the meaning given that term by section 292a(1) <sup>2</sup> of this title.
+The Director of the Institute shall, under such conditions as the Secretary may reasonably require, make annual grants to Centers which have been designated under this section. No funds provided under a grant under this subsection may be used for the purchase of any land or the purchase, construction, preservation, or repair of any building. For the purposes of thepreceding sentence, the term “construction” has the meaning given that term by section 292a(1) <sup>2</sup> of this title.
 
-(July 1, 1944, ch. 373, title IV, §464N, as added Pub. L. 102–321, title I, §123(b), July 10, 1992, 106 Stat. 361; amended Pub. L. 102–352, §2(a)(4), Aug. 26, 1992, 106 Stat. 938.)
+#### (c) Methamphetamine research
+
+#### (1) Grants or cooperative agreements
+
+&emsp;The Director of the Institute may make grants or enter into cooperative agreements to expand the current and on-going interdisciplinary research and clinical trials with treatment centers of the National Drug Abuse Treatment Clinical Trials Network relating to methamphetamine abuse and addiction and other biomedical, behavioral, and social issues related to methamphetamine abuse and addiction.
+
+#### (2) Use of funds
+
+&emsp;Amounts made available under a grant or cooperative agreement under paragraph (1) for methamphetamine abuse and addiction may be used for research and clinical trials relating to—
+
+&emsp;&emsp;(A) the effects of methamphetamine abuse on the human body, including the brain;
+
+&emsp;&emsp;(B) the addictive nature of methamphetamine and how such effects differ with respect to different individuals;
+
+&emsp;&emsp;(C) the connection between methamphetamine abuse and mental health;
+
+&emsp;&emsp;(D) the identification and evaluation of the most effective methods of prevention of methamphetamine abuse and addiction;
+
+&emsp;&emsp;(E) the identification and development of the most effective methods of treatment of methamphetamine addiction, including pharmacological treatments;
+
+&emsp;&emsp;(F) risk factors for methamphetamine abuse;
+
+&emsp;&emsp;(G) effects of methamphetamine abuse and addiction on pregnant women and their fetuses; and
+
+&emsp;&emsp;(H) cultural, social, behavioral, neurological and psychological reasons that individuals abuse methamphetamine, or refrain from abusing methamphetamine.
+
+#### (3) Research results
+
+&emsp;The Director shall promptly disseminate research results under this subsection to Federal, State and local entities involved in combating methamphetamine abuse and addiction.
+
+#### (4) Authorization of appropriations
+
+#### (A) Authorization of appropriations
+
+&emsp;&emsp;There is authorized to be appropriated to carry out paragraph (1), such sums as may be necessary for each fiscal year.
+
+#### (B) Supplement not supplant
+
+&emsp;&emsp;Amounts appropriated pursuant to the authorization of appropriations in subparagraph (A) for a fiscal year shall supplement and not supplant any other amounts appropriated in such fiscal year for research on methamphetamine abuse and addiction.
+
+(July 1, 1944, ch. 373, title IV, §464N, as added Pub. L. 102–321, title I, §123(b), July 10, 1992, 106 Stat. 361; amended Pub. L. 102–352, §2(a)(4), Aug. 26, 1992, 106 Stat. 938; Pub. L. 106–310, div. B, title XXXVI, §3631, Oct. 17, 2000, 114 Stat. 1235.)
 
 #### References in Text
 
 Section 292a of this title, referred to in subsec. (b), was in the original a reference to section 701 of act July 1, 1944. Section 701 of that Act was omitted in the general revision of subchapter V of this chapter by Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 1994. Pub. L. 102–408 enacted a new section 701 of act July 1, 1944, relating to statement of purpose, and a new section 702, relating to scope and duration of loan insurance program, which are classified to sections 292 and 292a, respectively, of this title. For provisions relating to definitions, see sections 292<i>o</i> and 295p of this title.
 
 #### Amendments
+
+2000—Subsec. (c). Pub. L. 106–310 added subsec. (c).
 
 1992—Subsec. (b). Pub. L. 102–352 substituted “292a(1)” for “292a(2)”.
 

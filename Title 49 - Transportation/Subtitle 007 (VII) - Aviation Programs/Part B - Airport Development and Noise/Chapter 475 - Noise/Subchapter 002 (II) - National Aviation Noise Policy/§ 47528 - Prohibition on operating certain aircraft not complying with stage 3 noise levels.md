@@ -6,7 +6,7 @@ Prohibition.—Except as provided in subsection (b) or (f) of this section and s
 
 (b)
 
-Waivers.—(1) If, not later than July 1, 1999, at least 85 percent of the aircraft used by an air carrier to provide air transportation comply with the stage 3 noise levels, the carrier may apply for a waiver of subsection (a) of this section for the remaining aircraft used by the carrier to provide air transportation. The application must be filed with the Secretary not later than January 1, 1999, and must include a plan with firm orders for making all aircraft used by the carrier to provide air transportation comply with the noise levels not later than December 31, 2003.
+Waivers.—(1) If, not later than July 1, 1999, at least 85 percent of the aircraft used by an air carrier or foreign air carrier to provide air transportation comply with the stage 3 noise levels, the carrier may apply for a waiver of subsection (a) of this section for the remaining aircraft used by the carrier to provide air transportation. The application must be filed with the Secretary not later than January 1, 1999, or, in the case of a foreign air carrier, the 15th day following the date of the enactment of the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century and must include a plan with firm orders for making all aircraft used by the carrier to provide air transportation comply with the noise levels not later than December 31, 2003.
 
 (2) The Secretary may grant a waiver under this subsection if the Secretary finds it would be in the public interest. In making the finding, the Secretary shall consider the effect of granting the waiver on competition in the air carrier industry and on small community air service.
 
@@ -46,7 +46,7 @@ Hawaiian Operations.—(1) In this subsection, “turnaround service” means a 
 
 (3) An air carrier may provide turnaround service in Hawaii using stage 2 aircraft with a maximum weight of more than 75,000 pounds only if the carrier provided the service on November 5, 1990.
 
-(4) An air carrier operating Stage 2 aircraft under this subsection may transport Stage 2 aircraft to or from the 48 contiguous States on a non-revenue basis in order—
+(4) An air carrier operating stage 2 aircraft under this subsection may transport stage 2 aircraft to or from the 48 contiguous States on a nonrevenue basis in order—
 
 &emsp;(A) to perform maintenance (including major alterations) or preventative maintenance on aircraft operated, or to be operated, within the limitations of paragraph (2)(B); or
 
@@ -58,13 +58,13 @@ Aircraft Modification, Disposal, Scheduled Heavy Maintenance, or Leasing.—
 
 &emsp;(1)
 
-In general.—The Secretary shall permit a person to operate after December 31, 1999, a Stage 2 aircraft in nonrevenue service through the airspace of the United States or to or from an airport in the contiguous 48 States in order to—
+In general.—The Secretary shall permit a person to operate after December 31, 1999, a stage 2 aircraft in nonrevenue service through the airspace of the United States or to or from an airport in the contiguous 48 States in order to—
 
 &emsp;&emsp;(A) sell, lease, or use the aircraft outside the contiguous 48 States;
 
 &emsp;&emsp;(B) scrap the aircraft;
 
-&emsp;&emsp;(C) obtain modifications to the aircraft to meet Stage 3 noise levels;
+&emsp;&emsp;(C) obtain modifications to the aircraft to meet stage 3 noise levels;
 
 &emsp;&emsp;(D) perform scheduled heavy maintenance or significant modifications on the aircraft at a maintenance facility located in the contiguous 48 States;
 
@@ -76,9 +76,13 @@ In general.—The Secretary shall permit a person to operate after December 31, 
 
 &emsp;(2)
 
-Procedure to be published.—The Secretary shall establish and publish, not later than 30 days after the date of enactment of this Act a procedure to implement paragraph (1) of this subsection through the use of categorical waivers, ferry permits, or other means.
+Procedure To Be Published.—Not later than 30 days after the date of the enactment of this subsection, the Secretary shall establish and publish a procedure to implement paragraph (1) through the use of categorical waivers, ferry permits, or other means.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1291; Pub. L. 106–113, div. B, §1000(a)(5) \[title II, §231(a), (b)(1)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–300, 1501A–301.)
+(g)
+
+Statutory Construction.—Nothing in this section may be construed as interfering with, nullifying, or otherwise affecting determinations made by the Federal Aviation Administration, or to be made by the Administration with respect to applications under part 161 of title 14, Code of Federal Regulations, that were pending on November 1, 1999.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1291; Pub. L. 106–113, div. B, §1000(a)(5) \[title II, §231(a), (b)(1)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–300, 1501A–301; Pub. L. 106–181, title VII, §721(a)–(c)(1), (d), Apr. 5, 2000, 114 Stat. 164, 165.)
 
 Historical and Revision Notes
 
@@ -120,13 +124,41 @@ In subsection (e)(1), the words “the operation of” are omitted as surplus. T
 
 #### References in Text
 
-The date of the enactment of this Act, referred to in subsec. (f)(2), probably means the date of enactment of Pub. L. 106–113, which enacted subsec. (f) of this section and which was approved Nov. 29, 1999.
+The date of the enactment of the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century, referred to in subsec. (b)(1), is the date of enactment of Pub. L. 106–181, which was approved Apr. 5, 2000.
+
+The date of the enactment of this subsection, referred to in subsec. (f)(2), is the date of enactment of Pub. L. 106–181, which was approved Apr. 5, 2000.
 
 #### Amendments
 
-1999—Pub. L. 106–113, §1000(a)(5) \[title II, §231(a)\], which directed the amendment of section 47528 by substituting “subsection (b) or (f)” for “subsection (b)” in subsec. (a), adding a par. (4) to subsec. (e), and adding subsec. (f) at the end, without specifying the Code title to be amended, was executed by making the amendments to this section, to reflect the probable intent of Congress.
+2000—Pub. L. 106–181, §721(a), repealed Pub. L. 106–113, §1000(a)(5) \[title II, §231\]. See 1999 Amendment notes and Construction of 2000 Amendment note below.
 
-Subsec. (a). Pub. L. 106–113, §1000(a)(5) \[title II, §231(b)(1)\], inserted “(for which an airworthiness certificate other than an experimental certificate has been issued by the Administrator)” after “civil subsonic turbojet”.
+Subsec. (a). Pub. L. 106–181, §721(b)(1), (c)(1), substituted “subsection (b) or (f)” for “subsection (b)” and inserted “(for which an airworthiness certificate other than an experimental certificate has been issued by the Administrator)” after “civil subsonic turbojet”.
+
+Subsec. (b)(1). Pub. L. 106–181, §721(d), in first sentence, inserted “or foreign air carrier” after “air carrier”, and, in last sentence, inserted “or, in the case of a foreign air carrier, the 15th day following the date of the enactment of the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century” after “January 1, 1999,”.
+
+Subsec. (e)(4). Pub. L. 106–181, §721(b)(2), added par. (4).
+
+Subsecs. (f), (g). Pub. L. 106–181, §721(b)(3), added subsecs. (f) and (g).
+
+1999—Pub. L. 106–113, §1000(a)(5) \[title II, §231(a)\], which directed the amendment of section 47528 by substituting “subsection (b) or (f)” for “subsection (b)” in subsec. (a), adding a par. (4) to subsec. (e), and adding subsec. (f) at the end, without specifying the Code title to be amended, was repealed by Pub. L. 106–181, §721(a). See Construction of 2000 Amendment note below.
+
+Subsec. (a). Pub. L. 106–113, §1000(a)(5) \[title II, §231(b)(1)\], which inserted “(for which an airworthiness certificate other than an experimental certificate has been issued by the Administrator)” after “civil subsonic turbojet”, was repealed by Pub. L. 106–181, §721(a). See Construction of 2000 Amendment note below.
+
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
+
+#### Regulations
+
+Pub. L. 106–181, title VII, §721(c)(2), Apr. 5, 2000, 114 Stat. 165, provided that: “Regulations contained in title 14, Code of Federal Regulations, that implement section 47528 of title 49, United States Code, and related provisions shall be deemed to incorporate the amendment made by paragraph (1) \[amending this section\] on the date of the enactment of this Act \[Apr. 5, 2000\].”
+
+#### Construction of 2000 Amendment
+
+Pub. L. 106–181, title VII, §721(a), Apr. 5, 2000, 114 Stat. 164, provided that: “Section 231 of H.R. 3425 of the 106th Congress, as enacted into law by section 1000(a)(5) of Public Law 106–113 \[amending this section\], is repealed and the provisions of law amended by such section shall be read as if such section had not been enacted into law.”
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (d)(2) of this section relating to the requirement that the Secretary submit an annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 7th item on page 132 of House Document No. 103–7.
 
 #### Section Referred to in Other Sections
 

@@ -36,3 +36,7 @@ A prior section 11 of Pub. L. 91–598 was renumbered section 15 and is classifi
 
 1978—Subsec. (a). Pub. L. 95–283 substituted “pursuant to section 78ccc(e)(3) and section 78iii(f) of this title” for “or regulations pursuant to section 78ccc(e) and 78iii(f) of this title”.
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (c)(2) of this section relating to submittal of annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 191 of House Document No. 103–7.
+

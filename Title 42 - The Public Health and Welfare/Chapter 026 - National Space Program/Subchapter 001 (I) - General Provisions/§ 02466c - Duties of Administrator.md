@@ -10,13 +10,13 @@ Each year the Administrator shall submit to the President of the Senate, the Spe
 
 #### (c) Reduction of base price
 
-(1) If at any time the Administrator finds that the policy goals contained in section 2466a of this title are not being achieved, the Administrator shall have authority to reduce the base price established in subsection (a) of this section after forty-five days following receipt by the President of the Senate, the Speaker of the House, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Science, Space, and Technology of the House of Representatives of a notice by the Administrator containing a description of the proposed reduction together with a full and complete statement of the facts and circumstances which necessitate such proposed reduction.
+(1) If at any time the Administrator finds that the policy goals contained in section 2466a of this title are not being achieved, the Administrator shall have authority to reduce the baseprice established in subsection (a) of this section after forty-five days following receipt by the President of the Senate, the Speaker of the House, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Science, Space, and Technology of the House of Representatives of a notice by the Administrator containing a description of the proposed reduction together with a full and complete statement of the facts and circumstances which necessitate such proposed reduction.
 
 (2) In no case shall the minimum price established under subsection (c)(1) of this section be less than additive cost.
 
 #### (d) Lower-priced or no-cost flights for users involved in research, etc., with Space Administration
 
-The Administrator may set a price lower than the price determined under subsection (a) or (c)of this section, or provide no-cost flights, for any commercial or foreign user of the Space Transportation System who is involved in research, development or demonstration programs with the National Aeronautics and Space Administration.
+The Administrator may set a price lower than the price determined under subsection (a) or (c) of this section, or provide no-cost flights, for any commercial or foreign user of the Space Transportation System who is involved in research, development or demonstration programs with the National Aeronautics and Space Administration.
 
 #### (e) Customer incentives
 

@@ -2,7 +2,7 @@
 
 (a) The Secretary may make grants to any Governor of a State for the training and certification of individuals to conduct energy audits.
 
-(b) Before making a grant under subsection (a) of this section to a Governor, the Secretary must receive from the Governor an application containing—
+(b) Before making a grant under subsection (a) of this section to a Governor, the Secretarymust receive from the Governor an application containing—
 
 &emsp;(A) any information which the Secretary deems is necessary to carry out this subchapter; and
 

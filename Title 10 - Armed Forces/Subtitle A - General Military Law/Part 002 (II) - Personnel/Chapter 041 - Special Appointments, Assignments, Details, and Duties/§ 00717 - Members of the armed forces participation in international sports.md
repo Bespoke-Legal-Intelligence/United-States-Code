@@ -60,7 +60,7 @@ Subsec. (a)(2). Pub. L. 98–525, §1534(2), included qualifying events and prep
 
 Subsec. (b). Pub. L. 98–525, §1534(3), struck out reference to subsec. (e).
 
-Subsec. (c). Pub. L. 98–525, §1534(4), (6), designated existing provisions as par. (1), substituted “$3,000,000” for “$800,000” and “October 1, 1980” for “March 14, 1955”, redesignated subsec. (d) as par. (2), and substituted “October 1, 1980” for “March 14, 1955”.
+Subsec. (c). Pub. L. 98–525, §1534(4), (6), designated existing provisions as par. (1), substituted “$3,000,000” for“$800,000” and “October 1, 1980” for “March 14, 1955”, redesignated subsec. (d) as par. (2), and substituted “October 1, 1980” for “March 14, 1955”.
 
 Subsecs. (d), (e). Pub. L. 98–525, §1534(7), redesignated subsec. (e) as (d). Former subsec. (d) redesignated par. (2) of subsec. (c).
 

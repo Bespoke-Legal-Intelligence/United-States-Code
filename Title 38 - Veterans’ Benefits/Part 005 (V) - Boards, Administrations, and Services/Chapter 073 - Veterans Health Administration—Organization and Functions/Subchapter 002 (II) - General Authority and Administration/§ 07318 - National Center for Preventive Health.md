@@ -14,7 +14,7 @@
 
 (c) In carrying out the purposes of the Center, the Director shall do the following:
 
-&emsp;(1) Develop and maintain current information on clinical activities of the Veterans Health Administration relating to preventivehealth services, including activities relating to—
+&emsp;(1) Develop and maintain current information on clinical activities of the Veterans Health Administration relating to preventive health services, including activities relating to—
 
 &emsp;&emsp;(A) the on-going provision of regularly-furnished services; and
 

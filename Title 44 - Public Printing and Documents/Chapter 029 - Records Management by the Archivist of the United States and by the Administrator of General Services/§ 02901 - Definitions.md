@@ -48,7 +48,7 @@ As used in this chapter, and chapters 21, 25, 31, and 33 of this title—
 
 &emsp;(13) the term “executive agency” shall have the meaning given such term by section 3(a) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 472(a));
 
-&emsp;(14) the term “Federal agency” means any executive agency or any establishment in the legislative or judicial branch of the Government (except the Supreme Court, the Senate, the House of Representatives, and the Architect of the Capitol and any activities under the direction of the Architect of the Capitol); and
+&emsp;(14) the term “Federal agency” means any executive agency or any establishment in the legislative or judicial branch of the Government (except the Supreme Court, the Senate, the House of Representatives, and the Architect of the Capitol and any activities underthe direction of the Architect of the Capitol); and
 
 &emsp;(15) the term “Administrator” means the Administrator of General Services.
 

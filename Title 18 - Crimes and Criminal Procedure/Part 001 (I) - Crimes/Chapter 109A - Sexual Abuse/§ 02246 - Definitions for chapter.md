@@ -44,5 +44,5 @@ Par. (2)(D). Pub. L. 103–322, §40502, added subpar. (D).
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2423 of this title; title 42 section 3756.
+This section is referred to in section 2423 of this title; title 20 section 9134; title 42 section 3756.
 

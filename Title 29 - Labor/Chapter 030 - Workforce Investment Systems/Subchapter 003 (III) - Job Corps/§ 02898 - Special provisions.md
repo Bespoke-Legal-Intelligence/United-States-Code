@@ -24,7 +24,7 @@ Transactions conducted by a private for-profit or nonprofit entity that is an op
 
 #### (e) Management fee
 
-The Secretary shall provide each operator and (in an appropriate case, as determined by the Secretary) service provider with an equitable and negotiated management fee of not less than 1 percent of the amount of the funding provided under the appropriate agreement specified in section 2887 of this title.
+The Secretary shall provide each operator and (in an appropriate case, as determined by the Secretary) service provider with an equitable and negotiated management fee of not less than1 percent of the amount of the funding provided under the appropriate agreement specified in section 2887 of this title.
 
 #### (f) Donations
 
@@ -39,4 +39,8 @@ Notwithstanding any other provision of law, if the Administrator of General Serv
 #### References in Text
 
 The Federal Property and Administrative Services Act of 1949, referred to in subsec. (c)(1), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title II of that Act, is classified principally to subchapter II (§481 et seq.) of chapter 10 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
+
+#### Prior Provisions
+
+Provisions similar to this section were contained in sections 1707 and 1709 of this title prior to repeal by Pub. L. 105–220.
 

@@ -52,7 +52,7 @@ To be eligible to obtain assistance under subsection (a) of this section—
 
 &emsp;&emsp;&emsp;(i) the payment of prior liens;
 
-&emsp;&emsp;&emsp;(ii) taxes and assessments, depreciation, management costs, the yearly percentage decrease or increase in the value of the property, and lost interest income, eachcalculated for the average holding period for the type of property involved;
+&emsp;&emsp;&emsp;(ii) taxes and assessments, depreciation, management costs, the yearly percentage decrease or increase in the value of the property, and lost interest income, each calculated for the average holding period for the type of property involved;
 
 &emsp;&emsp;&emsp;(iii) resale expenses, such as repairs, commissions, and advertising; and
 
@@ -156,6 +156,26 @@ To be eligible to obtain assistance under subsection (a) of this section—
 
 &emsp;Beginning with fiscal year 2000 not later than 12 months before the end of the term of a shared appreciation arrangement, the Secretary shall notify the borrower involved of the provisions of the arrangement.
 
+#### (7) Financing of recapture payment
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary may amortize a recapture payment owed to the Secretary under this subsection.
+
+#### (B) Term
+
+&emsp;&emsp;The term of an amortization under this paragraph may not exceed 25 years.
+
+#### (C) Interest rate
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The interest rate applicable to an amortization under this paragraph may not exceed the rate applicable to a loan to reacquire homestead property less 100 basis points.
+
+#### (ii) Existing amortizations and loans
+
+&emsp;&emsp;&emsp;The interest rate applicable to an amortization or loan made by the Secretary before October 28, 2000, to finance a recapture payment owed to the Secretary under this subsection may not exceed the rate applicable to a loan to reacquire homestead property less 100 basis points.
+
 #### (f) Determination to restructure
 
 If the appeal process results in a determination that a loan is eligible for restructuring, the Secretary shall restructure the loan in the manner consistent with this section, taking into consideration the restructuring recommendations, if any, of the appeals officer.
@@ -190,7 +210,7 @@ Once an appeal has been filed under section 1983b <sup>1</sup> of this title, a
 
 #### (j) Independent appraisals
 
-An appeal filed with the appeals division under section 1983b of this title may include a request by the borrower for an independent appraisal of any property securing the loan. On such request, the appeals division shall present the borrower with a list of three appraisers approved by the county supervisor, from which the borrower shall select an appraiser to conduct the appraisal, the cost of which shall be borne by the borrower. The results of such appraisal shall be considered in any final determination concerning the loan. A copy of any appraisal made under this paragraph shall be provided to the borrower.
+An appeal filed with the appeals division under section 1983b of this title may include a request by the borrower for an independent appraisal of any property securing the loan. On such request,the appeals division shall present the borrower with a list of three appraisers approved by the county supervisor, from which the borrower shall select an appraiser to conduct the appraisal, the cost of which shall be borne by the borrower. The results of such appraisal shall be considered in any final determination concerning the loan. A copy of any appraisal made under this paragraph shall be provided to the borrower.
 
 #### (k) Partial liquidations
 
@@ -228,7 +248,7 @@ The Secretary may not use the authority provided by this section to reduce or te
 
 The Secretary may provide not more than $300,000 in principal and interest forgiveness under this section per borrower.
 
-(Pub. L. 87–128, title III, §353, as added Pub. L. 100–233, title VI, §615(a), Jan. 6, 1988, 101 Stat. 1678; amended Pub. L. 101–624, title XVIII, §1816(a)–(d), (f)–(h), Nov. 28, 1990, 104 Stat. 3826–3828; Pub. L. 102–237, title V, §501(h), Dec. 13, 1991, 105 Stat. 1868; Pub. L. 104–127, title VI, §§645, 661(j), Apr. 4, 1996, 110 Stat. 1103, 1107; Pub. L. 105–277, div. A, §101(a) \[title VIII, §§807, 808\], Oct. 21, 1998, 112 Stat. 2681, 2681–40; Pub. L. 106–31, title III, §3019(b), May 21, 1999, 113 Stat. 99.)
+(Pub. L. 87–128, title III, §353, as added Pub. L. 100–233, title VI, §615(a), Jan. 6, 1988, 101 Stat. 1678; amended Pub. L. 101–624, title XVIII, §1816(a)–(d), (f)–(h), Nov. 28, 1990, 104 Stat. 3826–3828; Pub. L. 102–237, title V, §501(h), Dec. 13, 1991, 105 Stat. 1868; Pub. L. 104–127, title VI, §§645, 661(j), Apr. 4, 1996, 110 Stat. 1103, 1107; Pub. L. 105–277, div. A, §101(a) \[title VIII, §§807, 808\], Oct. 21, 1998, 112 Stat. 2681, 2681–40; Pub. L. 106–31, title III, §3019(b), May 21, 1999, 113 Stat. 99; Pub. L. 106–387, §1(a) \[title VIII, §818(a)\], Oct. 28, 2000, 114 Stat. 1549, 1549A–58.)
 
 #### References in Text
 
@@ -237,6 +257,8 @@ For definition of “this chapter”, referred to in subsecs. (a), (c)(5), and (
 Section 1983b of this title, referred to in subsec. (h), was repealed by Pub. L. 103–354, title II, §281(c), Oct. 13, 1994, 108 Stat. 3233.
 
 #### Amendments
+
+2000—Subsec. (e)(7). Pub. L. 106–387 added par. (7).
 
 1999—Subsec. (c)(3)(C). Pub. L. 106–31 substituted “110 percent” for “100 percent”.
 

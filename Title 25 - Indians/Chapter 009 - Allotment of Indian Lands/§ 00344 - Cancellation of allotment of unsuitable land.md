@@ -4,7 +4,3 @@ If any Indian of a tribe whose surplus lands have been ceded or opened to dispos
 
 (Mar. 3, 1909, ch. 263, 35 Stat. 784.)
 
-#### Cross References
-
-Provisions of sections 331 to 334, 339, 341, 342, 348, 349, 354, and 381 not to extend to any Indians in the former Indian Territory, see section 349 of this title.
-

@@ -126,7 +126,7 @@ Reserve Components.—The following definitions relating to the reserve componen
 
 &emsp;(6) The term “reserve”, with respect to an enlistment, appointment, grade, or office, means enlistment, appointment, grade, or office held as a Reserve of one of the armed forces.
 
-&emsp;(7) The term “reserve active-status list” means a single list for the Army, Navy, Air Force, or Marine Corps (required to be maintained under section 14002 of this title) that contains the names of all officers of thatarmed force except warrant officers (including commissioned warrant officers) who are in an active status in a reserve component of the Army, Navy, Air Force, or Marine Corps and are not on an active-duty list.
+&emsp;(7) The term “reserve active-status list” means a single list for the Army, Navy, Air Force, or Marine Corps (required to be maintained under section 14002 of this title) that contains the names of all officers of that armed force except warrant officers (including commissioned warrant officers) who are in an active status in a reserve component of the Army, Navy, Air Force, or Marine Corps and are not on an active-duty list.
 
 (d)
 
@@ -440,7 +440,7 @@ Sept. 3, 1954, ch. 1257, §102(6), 68 Stat. 1150.
 
 The words “, other than a commissioned warrant officer,” are inserted to reflect 50:1181(1).
 
-\[Clause (35).\] The word “original” is defined to make clear that when used in relation to an appointment it refers to the member's first appointment in his currentseries of appointments and excludes any appointment made before a lapse in service.
+\[Clause (35).\] The word “original” is defined to make clear that when used in relation to an appointment it refers to the member's first appointment in his current series of appointments and excludes any appointment made before a lapse in service.
 
 #### References in Text
 
@@ -606,35 +606,23 @@ Authority vested by this title in “military departments”, “the Secretary c
 
 Authority vested by this title in “military departments”, “the Secretary concerned”, or “the Secretary of Defense” to be exercised, with respect to commissioned officers of Public Health Service, by Secretary of Health and Human Services or his designee, see section 213a of Title 42, The Public Health and Welfare.
 
-#### Coordination of Section 1066 of Pub. L. 106–65 With Other Provisions of Pub. L. 106–65
+#### Coordination of Certain Sections of an Act With Other Provisions of That Act
+
+Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(h)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–294, provided that: “For purposes of applying amendments made by provisions of this Act other than provisions of this section \[section 1087 of H.R. 5408, as enacted by section 1 of Pub. L. 106–398, see Tables for classification\], this section shall be treated as having been enacted immediately before the other provisions of this Act.”
 
 Pub. L. 106–65, div. A, title X, §1066(e), Oct. 5, 1999, 113 Stat. 773, provided that: “For purposes of applying amendments made by provisions of this Act other than provisions of this section \[see Tables for classification\], this section shall be treated as having been enacted immediately before the other provisions of this Act.”
 
-#### Coordination of Section 1069 of Pub. L. 105–261 With Other Provisions of Pub. L. 105–261
-
 Pub. L. 105–261, div. A, title X, §1069(e), Oct. 17, 1998, 112 Stat. 2137, provided that: “For purposes of applying amendments made by provisions of this Act other than provisions of this section \[see Tables for classification\], this section shall be treated as having been enacted immediately before the other provisions of this Act.”
-
-#### Coordination of Section 1073 of Pub. L. 105–85 With Other Provisions of Pub. L. 105–85
 
 Pub. L. 105–85, div. A, title X, §1073(i), Nov. 18, 1997, 111 Stat. 1907, provided that: “For purposes of applying amendments made by provisions of this Act other than provisions of this section \[see Tables for classification\], this section shall be treated as having been enacted immediately before the other provisions of this Act.”
 
-#### Coordination of Section 1074 of Pub. L. 104–201 With Other Provisions of Pub. L. 104–201
-
 Section 1074(e) of Pub. L. 104–201 provided that: “For purposes of applying amendments made by provisions of this Act other than provisions of this section \[see Tables for classification\], this section shall be treated as having been enacted immediately before the other provisions of this Act.”
-
-#### Coordination of Title XV of Div. A of Pub. L. 104–106 With Other Provisions of Pub. L. 104–106
 
 Section 1506 of title XV of div. A of Pub. L. 104–106 provided that: “For purposes of applying amendments made by provisions of this Act other than provisions of this title \[see Tables for classification\], this title shall be treated as having been enacted immediately before the other provisions of this Act.”
 
-#### Coordination of Section 1070 of Pub. L. 103–337 With Other Provisions of Pub. L. 103–337
-
 Section 1070(h) of Pub. L. 103–337 provided that: “For purposes of applying amendments made by provisions of this Act other than this section \[see Tables for classification\], this section shall be treated as having been enacted immediately before the other provisions of this Act.”
 
-#### Coordination of Section 1182 of Pub. L. 103–160 With Other Provisions of Pub. L. 103–160
-
 Pub. L. 103–160, div. A, title XI, §1182(h), Nov. 30, 1993, 107 Stat. 1774, provided that: “For purposes of applying the amendments made by provisions of this Act other than this section \[see Tables for classification\], this section shall be treated as having been enacted immediately before the other provisions of this Act.”
-
-#### Coordination of Sections 1052, 1053, and 1054 of Pub. L. 102–484 With Other Provisions of Pub. L. 102–484
 
 Section 1055 of Pub. L. 102–484 provided that: “For purposes of applying the amendments made by provisions of this Act other than sections 1052, 1053, and 1054 \[see Tables for classification\], those sections shall be treated as having been enacted immediately before the other provisions of this Act.”
 
@@ -650,15 +638,7 @@ Pub. L. 102–25, §3, Apr. 6, 1991, 105 Stat. 77, as amended by Pub. L. 102–1
 
 &emsp;“(4) The term ‘congressional defense committees’ has the meaning given that term in section 3 of the National Defense Authorization Act for Fiscal Year 1991 (Public Law 101–510; 104 Stat. 1498).”
 
-#### Cross References
-
-Army, see section 3001 of this title.
-
-Enlistment, Army or Air Force, see sections 3251, 8251 of this title.
-
-Partial mobilization, see section 10207 of this title.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3750, 6246, 8750 of this title; title 5 sections 8331, 8401; title 14 section 423; title 18 section 232; title 20 sections 1078, 1087dd; title 31 section 3711; title 33 sections 853<i>o</i>, 857–1; title 37 sections 101, 308; title 39 section 3401; title 41 section 259; title 42 sections 2651, 5170b, 7235, 12639; title 46 App. section 1187b; title 50 App. section 592.
+This section is referred to in sections 3750, 6246, 8750 of this title; title 5 sections 8331, 8401; title 8 section 1154; title 14 section 423; title 15 section 636; title 18 section 232; title 20 sections 1078, 1087dd; title 31 section 3711; title 33 sections 853<i>o</i>, 857–1; title 37 sections 101, 308; title 39 section 3401; title 41 section 259; title 42 sections 2651, 5170b, 7235, 12639; title 46 App. section 1187b; title 50 App. section 592.
 

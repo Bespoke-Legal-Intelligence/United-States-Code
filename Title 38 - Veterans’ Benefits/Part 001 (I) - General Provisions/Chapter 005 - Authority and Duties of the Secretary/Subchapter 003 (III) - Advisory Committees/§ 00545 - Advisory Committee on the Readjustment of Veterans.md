@@ -166,7 +166,7 @@ In General.—The Commission shall—
 
 “(b)
 
-Review of Programs To Assist Members of the Armed Forces at Separation.—(1) While carrying out the general duties specified in subsection (a), the members of the Commission appointed under subparagraphs (C) and (D) of section 701(b)(1) and the member specified in subparagraph (B) of section 701(b)(3) shall review primarily the programs intended to assist members of the Armed Forces at the time of their separation from service in the Armed Forces, including programs designed to assist families of such members.
+Review of Programs To Assist Members of the Armed Forces at Separation.—(1) While carrying outthe general duties specified in subsection (a), the members of the Commission appointed under subparagraphs (C) and (D) of section 701(b)(1) and the member specified in subparagraph (B) of section 701(b)(3) shall review primarily the programs intended to assist members of the Armed Forces at the time of their separation from service in the Armed Forces, including programs designed to assist families of such members.
 
 “(2) In carrying out the review, those members of the Commission shall determine the following:
 
@@ -226,7 +226,7 @@ Review of Programs To Assist Veterans.—(1) While carrying out the general duti
 
 “(d)
 
-Reports.—(1) Not later than 90 days after the date on which all members of the Commission have been appointed under section 701(b)(1), the Commissionshall submit to the Committees on Veterans’ Affairs and Armed Services of the Senate and the Committees on Veterans’ Affairs and National Security of the House of Representatives \[now Committees on Veterans’ Affairs and Armed Services of the House of Representatives\] a report setting forth a plan for the work of the Commission. The Commission shall develop the plan in consultation with the Secretary of Defense, the Secretary of Veterans Affairs, the Secretary of Labor, and the heads of other appropriate departments and agencies of the Government.
+Reports.—(1) Not later than 90 days after the date on which all members of the Commission have been appointed under section 701(b)(1), the Commission shall submit to the Committees on Veterans’ Affairs and Armed Services of the Senate and the Committees on Veterans’ Affairs and National Security of the House of Representatives \[now Committees on Veterans’ Affairs and Armed Services of the House of Representatives\] a report setting forth a plan for the work of the Commission. The Commission shall develop the plan in consultation with the Secretary of Defense, the Secretary of Veterans Affairs, the Secretary of Labor, and the heads of other appropriate departments and agencies of the Government.
 
 “(2)(A) Not later than 18 months after the date of the first meeting of the Commission, the Commission shall submit to the committees referred to in paragraph (1), and to the Secretary of Defense, the Secretary of Veterans Affairs, and the Secretary of Labor, a report setting forth the activities, findings, and recommendations of the Commission, including any recommendations for legislative action and administrative action as the Commission considers appropriate.
 
@@ -270,7 +270,7 @@ Travel and Travel Expenses.—(1) Members and personnel of the Commission may tr
 
 “(c)
 
-Staff.—(1) The chairman of the Commission may, without regard to civil service laws and regulations, appoint and terminate an executive director and up to five additional staff members as may be necessary to enable the Commission to perform its duties. In appointing an individual as executive director, the chairman shall, to the maximum extent practicable, attempt to appoint an individual who is a veteran. The employment of an executive director shall be subject to confirmation by the Commission.
+Staff.—(1) The chairman of the Commission may, without regard to civil service laws and regulations, appoint and terminate an executive director and up to five additional staff members as may be necessary to enable the Commission to perform its duties. In appointing an individual as executive director, thechairman shall, to the maximum extent practicable, attempt to appoint an individual who is a veteran. The employment of an executive director shall be subject to confirmation by the Commission.
 
 “(2) The chairman of the Commission may fix the compensation of the executive director and other personnel without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code, relating to classification of positions and General Schedule pay rates, except that the rate of pay for the executive director and other staff members may not exceed the rate payable for level V of the Executive Schedule under section 5316 of such title.
 

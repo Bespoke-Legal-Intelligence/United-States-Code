@@ -8,14 +8,6 @@ The Public Printer shall print in slip form copies of public and private laws, p
 
 Based on 44 U.S. Code, 1964 ed., §191 (Jan. 12, 1895, ch. 23, §56, 28 Stat. 609; July 10, 1952, ch. 632, §7, 66 Stat. 541).
 
-#### Cross References
-
-Distribution of Government publications to the Library of Congress, see section 1718 of this title.
-
-Postal conventions, number of copies to be printed, see section 712 of this title.
-
-Private bills, number and distribution, see section 706 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 711, 712 of this title.

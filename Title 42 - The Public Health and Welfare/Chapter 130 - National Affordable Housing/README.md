@@ -19,17 +19,19 @@
 | [12705a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions%20and%20Policies/%C2%A7%2012705a%20-%20Purposes%20of%20Removal%20of%20Regulatory%20Barriers%20to%20Affordable%20Housing%20Act.md) | Purposes of Removal of Regulatory Barriers to Affordable Housing Act. |
 | [12705b.](Subchapter%20001%20%28I%29%20-%20General%20Provisions%20and%20Policies/%C2%A7%2012705b%20-%20Definition%20of%20regulatory%20barriers%20to%20affordable%20housing.md) | Definition of regulatory barriers to affordable housing. |
 | [12705c.](Subchapter%20001%20%28I%29%20-%20General%20Provisions%20and%20Policies/%C2%A7%2012705c%20-%20Grants%20for%20regulatory%20barrier%20removal%20strategies%20and%20implementation.md) | Grants for regulatory barrier removal strategies and implementation. |
-| (a) | In general. |
-| (b) | State grants. |
-| (c) | Local grants. |
+| (a) | Funding. |
+| (b) | Grant authority. |
+| (c) | Repealed. |
 | (d) | Definitions. |
 | (e) | Application and selection. |
-| (f) | Allocation of amounts. |
+| (f) | Selection of grantees. |
 | (g) | Coordination with clearinghouse. |
 | (h) | Reports to Secretary. |
 | [12705d.](Subchapter%20001%20%28I%29%20-%20General%20Provisions%20and%20Policies/%C2%A7%2012705d%20-%20Regulatory%20barriers%20clearinghouse.md) | Regulatory barriers clearinghouse. |
 | (a) | Establishment. |
 | (b) | Functions. |
+| (c) | Organization. |
+| (d) | Timing. |
 | [12706\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions%20and%20Policies/%C2%A7%2012706%20-%20Certification.md) | Certification. |
 | [12707\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions%20and%20Policies/%C2%A7%2012707%20-%20Citizen%20participation.md) | Citizen participation. |
 | (a) | In general. |
@@ -251,7 +253,7 @@
 | (b) | Audits of recipients. |
 | [12834\.](Subchapter%20002%20%28II%29%20-%20Investment%20in%20Affordable%20Housing/Part%20F%20-%20General%20Provisions/%C2%A7%2012834%20-%20Uniform%20recordkeeping%20and%20reports%20to%20Congress.md) | Uniform recordkeeping and reports to Congress. |
 | (a) | Uniform requirements. |
-| (b) | Report to Congress. |
+| (b) | Omitted. |
 | [12835\.](Subchapter%20002%20%28II%29%20-%20Investment%20in%20Affordable%20Housing/Part%20F%20-%20General%20Provisions/%C2%A7%2012835%20-%20Citizen%20participation.md) | Citizen participation. |
 | [12836\.](Subchapter%20002%20%28II%29%20-%20Investment%20in%20Affordable%20Housing/Part%20F%20-%20General%20Provisions/%C2%A7%2012836%20-%20Labor.md) | Labor. |
 | (a) | In general. |

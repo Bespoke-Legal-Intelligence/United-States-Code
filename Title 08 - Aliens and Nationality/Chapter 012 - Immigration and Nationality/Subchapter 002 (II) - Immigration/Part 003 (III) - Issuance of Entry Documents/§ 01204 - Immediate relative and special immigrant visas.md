@@ -12,7 +12,3 @@ A consular officer may, subject to the limitations provided in section 1201 of t
 
 For effective date of amendment by Pub. L. 89–236, see section 20 of Pub. L. 89–236, set out as a note under section 1151 of this title.
 
-#### Cross References
-
-Definition of consular officer, immigrant visa, special immigrant, see section 1101 of this title.
-

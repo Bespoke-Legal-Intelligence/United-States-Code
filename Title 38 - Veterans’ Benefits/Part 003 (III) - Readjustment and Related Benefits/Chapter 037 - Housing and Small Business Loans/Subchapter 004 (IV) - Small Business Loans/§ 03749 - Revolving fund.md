@@ -1,6 +1,6 @@
 ### §3749. Revolving fund
 
-(a) There is established in the Treasury a revolving fund to be known as the “Department of Veterans Affairs Small Business Loan Revolving Fund” (hereinafter in this section referred to as the “fund”).
+(a) There is established in the Treasury a revolving fund to be known as the “Department of Veterans Affairs Small Business Loan RevolvingFund” (hereinafter in this section referred to as the “fund”).
 
 (b) Amounts in the fund shall be available to the Secretary without fiscal year limitation for all loan guaranty and direct loan operations under this subchapter other than administrative expenses and may not be used for any other purpose.
 

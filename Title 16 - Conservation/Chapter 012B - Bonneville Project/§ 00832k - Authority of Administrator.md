@@ -20,10 +20,6 @@ The Administrator may, in the name of the United States, under the supervision o
 
 Functions of Secretary of the Interior with respect to Bonneville Power Administration transferred to Secretary of Energy by section 7152(a)(1)(D), (2) of Title 42, The Public Health and Welfare, with Bonneville Power Administration to be preserved as a distinct organizational entity within Department of Energy and headed by an Administrator.
 
-#### Federal Rules of Civil Procedure
-
-One form of civil action, see rule 2, Title 28, Appendix, Judiciary and Judicial Procedure.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 838i of this title.

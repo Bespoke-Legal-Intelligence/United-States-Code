@@ -6,7 +6,7 @@
 
 &emsp;(2) will be able to negotiate it for full value.
 
-(b)(1) If a check or warrant is prohibited from being sent to a foreign country under subsection (a) of this section, the drawer shall hold the check or warrant until the end of the calendar quarter after the date of the check or warrant.
+(b)(1) If a check or warrant is prohibited from being sent to a foreign country under subsection (a) of this section, the drawer shall hold thecheck or warrant until the end of the calendar quarter after the date of the check or warrant.
 
 (2) The Secretary may release the check or warrant for delivery during the calendar quarter after the date of the check or warrant if the Secretary decides that conditions have changed to ensure reasonably that the payee—
 
@@ -104,5 +104,5 @@ In subsection (d)(3), the words “does not affect” are substituted for “Not
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3328, 3330 of this title; title 38 sections 5121, 5309; title 42 section 402.
+This section is referred to in sections 3328, 3330 of this title; title 38 sections 5121, 5309; title 42 sections 402, 1004.
 

@@ -50,10 +50,6 @@ Amendment by section 121(b)(3) of Pub. L. 101–649 effective Oct. 1, 1991, and 
 
 Amendment by section 543(b)(2) of Pub. L. 101–649 applicable to actions taken after Nov. 29, 1990, see section 543(c) of Pub. L. 101–649, set out as a note under section 1221 of this title.
 
-#### Cross References
-
-Definition of entry, immigration laws, immigration officer, and United States, see section 1101 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1101, 1225, 1329, 1330 of this title; title 10 section 374.

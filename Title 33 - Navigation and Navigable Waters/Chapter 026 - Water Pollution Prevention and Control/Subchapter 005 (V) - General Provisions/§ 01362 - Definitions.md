@@ -12,7 +12,7 @@ Except as otherwise specifically provided, when used in this chapter:
 
 (5) The term “person” means an individual, corporation, partnership, association, State, municipality, commission, or political subdivision of a State, or any interstate body.
 
-(6) The term “pollutant” means dredged spoil, solid waste, incinerator residue, sewage, garbage, sewage sludge, munitions, chemical wastes, biological materials, radioactive materials, heat, wrecked or discarded equipment, rock, sand, cellar dirt and industrial, municipal, and agricultural waste discharged into water. This term does not mean (A) “sewage from vessels or a discharge incidental to the normal operation of a vessel of the Armed Forces” within the meaning of section 1322 of this title; or (B) water, gas, or other material which is injected into a well to facilitate production of oil or gas, or water derived in association with oil or gas production and disposed of in a well, if the well used either to facilitate production or for disposal purposes is approved by authority of the State in which the well is located, and if such State determines that such injection or disposal will not result in the degradation of ground or surface water resources.
+(6) The term “pollutant” means dredged spoil, solid waste, incinerator residue, sewage, garbage, sewage sludge, munitions, chemical wastes, biological materials, radioactive materials, heat, wrecked or discarded equipment, rock, sand, cellar dirt and industrial, municipal,and agricultural waste discharged into water. This term does not mean (A) “sewage from vessels or a discharge incidental to the normal operation of a vessel of the Armed Forces” within the meaning of section 1322 of this title; or (B) water, gas, or other material which is injected into a well to facilitate production of oil or gas, or water derived in association with oil or gas production and disposed of in a well, if the well used either to facilitate production or for disposal purposes is approved by authority of the State in which the well is located, and if such State determines that such injection or disposal will not result in the degradation of ground or surface water resources.
 
 (7) The term “navigable waters” means the waters of the United States, including the territorial seas.
 
@@ -42,9 +42,57 @@ Except as otherwise specifically provided, when used in this chapter:
 
 (20) The term “medical waste” means isolation wastes; infectious agents; human blood and blood products; pathological wastes; sharps; body parts; contaminated bedding; surgical wastes and potentially contaminated laboratory wastes; dialysis wastes; and such additional medical items as the Administrator shall prescribe by regulation.
 
-(June 30, 1948, ch. 758, title V, §502, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 886; amended Pub. L. 95–217, §33(b), Dec. 27, 1977, 91 Stat. 1577; Pub. L. 100–4, title V, §§502(a), 503, Feb. 4, 1987, 101 Stat. 75; Pub. L. 100–688, title III, §3202(a), Nov. 18, 1988, 102 Stat. 4154; Pub. L. 104–106, div. A, title III, §325(c)(3), Feb. 10, 1996, 110 Stat. 259.)
+(21)
+
+Coastal recreation waters.—
+
+&emsp;(A)
+
+In general.—The term “coastal recreation waters” means—
+
+&emsp;&emsp;(i) the Great Lakes; and
+
+&emsp;&emsp;(ii) marine coastal waters (including coastal estuaries) that are designated under section 1313(c) of this title by a State for use for swimming, bathing, surfing, or similar water contact activities.
+
+&emsp;(B)
+
+Exclusions.—The term “coastal recreation waters” does not include—
+
+&emsp;&emsp;(i) inland waters; or
+
+&emsp;&emsp;(ii) waters upstream of the mouth of a river or stream having an unimpaired natural connection with the open sea.
+
+(22)
+
+Floatable material.—
+
+&emsp;(A)
+
+In general.—The term “floatable material” means any foreign matter that may float or remain suspended in the water column.
+
+&emsp;(B)
+
+Inclusions.—The term “floatable material” includes—
+
+&emsp;&emsp;(i) plastic;
+
+&emsp;&emsp;(ii) aluminum cans;
+
+&emsp;&emsp;(iii) wood products;
+
+&emsp;&emsp;(iv) bottles; and
+
+&emsp;&emsp;(v) paper products.
+
+(23)
+
+Pathogen indicator.—The term “pathogen indicator” means a substance that indicates the potential for human infectious disease.
+
+(June 30, 1948, ch. 758, title V, §502, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 886; amended Pub. L. 95–217, §33(b), Dec. 27, 1977, 91 Stat. 1577; Pub. L. 100–4, title V, §§502(a), 503, Feb. 4, 1987, 101 Stat. 75; Pub. L. 100–688, title III, §3202(a),Nov. 18, 1988, 102 Stat. 4154; Pub. L. 104–106, div. A, title III, §325(c)(3), Feb. 10, 1996, 110 Stat. 259; Pub. L. 106–284, §5, Oct. 10, 2000, 114 Stat. 875.)
 
 #### Amendments
+
+2000—Pars. (21) to (23). Pub. L. 106–284 added pars. (21) to (23).
 
 1996—Par. (6)(A). Pub. L. 104–106 substituted “ ‘sewage from vessels or a discharge incidental to the normal operation of a vessel of the Armed Forces’ ” for “ ‘sewage from vessels’ ”.
 
@@ -60,13 +108,9 @@ Par. (14). Pub. L. 100–4, §503, inserted “agricultural stormwater discharge
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-#### Territorial Sea of United States
+#### Territorial Sea and Contiguous Zone of United States
 
-For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
-
-#### Contiguous Zone of United States
-
-For extension of contiguous zone of United States, see Proc. No. 7219, Sept. 2, 1999, 64 F.R. 48701, set out as a note under section 1331 of Title 43, Public Lands.
+For extension of territorial sea and contiguous zone of United States, see Proc. No. 5928 and Proc. No. 7219, respectively, set out as notes under section 1331 of Title 43, Public Lands.
 
 #### Definition of “Point Source”
 

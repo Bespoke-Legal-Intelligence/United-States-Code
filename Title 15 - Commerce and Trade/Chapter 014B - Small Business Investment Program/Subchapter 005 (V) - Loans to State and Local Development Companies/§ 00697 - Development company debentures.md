@@ -40,7 +40,7 @@ No guarantee may be made with respect to any debenture under subsection (a) of t
 
 (1) The purpose of this subsection is to facilitate the orderly and necessary flow of long-term loans from certified development companies to small business concerns.
 
-(2) Notwithstanding the provisions of the constitution or laws of any State limiting the rate or amount of interest which may be charged, taken, received, or reserved, the maximum legalrate of interest on any commercial loan which funds any portion of the cost of the project financed pursuant to this section or section 697a of this title which is not funded by a debenture guaranteed under this section shall be a rate which is established by the Administrator of the Small Business Administration under the authority of this section.
+(2) Notwithstanding the provisions of the constitution or laws of any State limiting the rate or amount of interest which may be charged, taken, received, or reserved, the maximum legal rate of interest on any commercial loan which funds any portion of the cost of the project financed pursuant to this section or section 697a of this title which is not funded by a debenture guaranteed under this section shall be a rate which is established by the Administrator of the Small Business Administration under the authority of this section.
 
 (3) The Administrator is authorized and directed to establish and publish quarterly a maximum legal interest rate for any commercial loan which funds any portion of the cost of the project financed pursuant to this section or section 697a of this title which is not funded by a debenture guaranteed under this section.
 
@@ -74,7 +74,7 @@ No guarantee may be made with respect to any debenture under subsection (a) of t
 
 #### (f) Effective date
 
-The fees authorized by subsections (b) and (c) of this section shall apply to financings approved by the Administration on or after October 1, 1996, but shall not apply to financings approved by the Administration on or after October 1, 2000.
+The fees authorized by subsections (b) and (d) of this section shall apply to financings approved by the Administration on or after October 1, 1996, but shall not apply to financings approved by the Administration on or after October 1, 2003.
 
 #### (g) Calculation of subsidy rate
 
@@ -104,13 +104,15 @@ All fees, interest, and profits received and retained by the Administration unde
 
 &emsp;&emsp;(C) for any project financed after September 30, 1996, shall not pay any default interest rate higher than the interest rate on the note prior to the date of default.
 
-(Pub. L. 85–699, title V, §503, as added Pub. L. 96–302, title I, §113(a), July 2, 1980, 94 Stat. 837; amended Pub. L. 100–590, title I, §§112(c), 114,117(a), Nov. 3, 1988, 102 Stat. 2996–2998; Pub. L. 101–515, title V, §8, Nov. 5, 1990, 104 Stat. 2144; Pub. L. 103–403, title II, §213(1), Oct. 22, 1994, 108 Stat. 4184; Pub. L. 104–36, §6, Oct. 12, 1995, 109 Stat. 297; Pub. L. 104–208, div. D, title II, §§202(b)–(e), 203, Sept. 30, 1996, 110 Stat. 3009–735, 3009–736; Pub. L. 105–135, title II, §222, Dec. 2, 1997, 111 Stat. 2604.)
+(Pub. L. 85–699, title V, §503, as added Pub. L. 96–302, title I, §113(a), July 2, 1980, 94 Stat. 837; amended Pub. L. 100–590, title I, §§112(c), 114, 117(a), Nov. 3, 1988, 102 Stat. 2996–2998; Pub. L. 101–515, title V, §8, Nov. 5, 1990, 104 Stat. 2144; Pub. L. 103–403, title II, §213(1), Oct. 22, 1994, 108 Stat. 4184; Pub. L. 104–36, §6, Oct. 12, 1995, 109 Stat. 297; Pub. L. 104–208, div. D, title II, §§202(b)–(e), 203, Sept. 30, 1996, 110 Stat. 3009–735, 3009–736; Pub. L. 105–135, title II, §222, Dec. 2, 1997, 111 Stat. 2604; Pub. L. 106–554, §1(a)(9) \[title III, §304\], Dec. 21, 2000, 114 Stat. 2763, 2763A–684.)
 
 #### References in Text
 
 For definition of “this chapter”, referred to in subsecs. (b)(7)(A)(ii) and (g), see References in Text note set out under section 661 of this title.
 
 #### Amendments
+
+2000—Subsec. (f). Pub. L. 106–554 amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: “The fees authorized by subsections (b) and (c) of this section shall apply to financings approved by the Administration on or after October 1, 1996, but shall not apply to financings approved by the Administration on or after October 1, 2000.”
 
 1997—Subsec. (b)(7)(A). Pub. L. 105–135, §222(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “assesses and collects a fee, which shall be payable by the borrower, in an amount equal to the lesser of—
 
@@ -142,7 +144,7 @@ Subsec. (c). Pub. L. 100–590, §112(c)(B), formerly §112(c)(1)(B), as amended
 
 Subsec. (d). Pub. L. 100–590, §112(c)(A), formerly §112(c)(1)(A), as amended by Pub. L. 103–403, redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 100–590, §117, which directed substitution of “(1) For purposes of” for “For purposes of”, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and added par. (2), was executed to subsec. (e) to reflect the probable intent of Congress and the intervening redesignation of subsec. (d) as (e) by Pub. L. 100–590, §112(c)(1).
+Subsec. (e). Pub. L. 100–590, §117, which directed substitution of “(1) For purposes of” for “For purposes of”,redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and added par. (2), was executed to subsec. (e) to reflect the probable intent of Congress and the intervening redesignation of subsec. (d) as (e) by Pub. L. 100–590, §112(c)(1).
 
 Pub. L. 100–590, §112(c)(A), formerly §112(c)(1)(A), as amended by Pub. L. 103–403, redesignated former subsec. (d) as (e).
 
@@ -168,7 +170,7 @@ Section effective Oct. 1, 1980, see section 507 of Pub. L. 96–302, set out as 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 636, 696, 697a, 697d, 697e, 697f of this title.
+This section is referred to in sections 636, 696, 697a, 697d, 697e, 697f, 697g of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

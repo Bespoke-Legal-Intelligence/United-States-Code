@@ -52,7 +52,7 @@
 
 > and the master of any such vessel engaged in such fishery, shall be deemed to have violated this subchapter, and shall be subject to the penalties of this subchapter except in the case of unknowing violations before January 1, 1990.
 
-(D) If the owner of a vessel has obtained and maintains a current and valid exemption fromthe Secretary under this section and meets the requirements set forth in this section, the owner of such vessel, and the master and crew members of the vessel, shall not be subject to the penalties set forth in this subchapter for the incidental taking of marine mammals while such vessel is engaged in a fishery to which the exemption applies.
+(D) If the owner of a vessel has obtained and maintains a current and valid exemption from the Secretary under this section and meets the requirements set forth in this section, the owner of such vessel, and the master and crew members of the vessel, shall not be subject to the penalties set forth in this subchapter for the incidental taking of marine mammals while such vessel is engaged in a fishery to which the exemption applies.
 
 (E) Each owner of a vessel engaged in any fishery not identified in paragraph (1)(A)(i) or (ii), and the master and crew members of such a vessel, shall not be subject to the penalties set forth in this subchapter for the incidental taking of marine mammals if such owner reports to the Secretary, in such form and manner as the Secretary may require, instances of lethal incidental taking in the course of that fishery.
 
@@ -92,7 +92,7 @@ The owner of each vessel holding an exemption granted under subsection (b) of th
 
 #### (e) Observers on board exempted vessels; confidentiality of information; authorization of appropriations
 
-(1) For each fishery identified under subsection (b)(1)(A)(i) of this section, the Secretary shall, after consultation with the appropriate Regional Fishery Management Councils, other Federal and State agencies, and other interested parties, and subject to paragraph (6), place observers on board exempted vessels so as to monitor not less than 20 percent nor more than 35 percent of the fishing operations by vessels in the fishery to obtain statistically reliable information on the species and number of marine mammals incidentally taken in the fishery. If the Secretary determines that fewer than 20 percent of the fishing operations by vessels in the fishery will be monitored during the course of the fishing season, the Secretary shall implement the alternative observation program described in subsection (f) of this section to the extent necessary to supplement the observer program described in this subsection.
+(1) For each fishery identified under subsection (b)(1)(A)(i) of this section, the Secretary shall, after consultation with the appropriate Regional Fishery Management Councils, other Federal and State agencies, and other interested parties, and subject to paragraph (6), place observers on board exempted vessels so as to monitor not less than 20 percent nor more than 35 percent of the fishing operations by vessels in the fishery to obtain statistically reliable information on the species and number of marine mammals incidentally taken in the fishery. Ifthe Secretary determines that fewer than 20 percent of the fishing operations by vessels in the fishery will be monitored during the course of the fishing season, the Secretary shall implement the alternative observation program described in subsection (f) of this section to the extent necessary to supplement the observer program described in this subsection.
 
 (2) When determining the distribution of observers among fisheries and between vessels in a particular fishery, the Secretary shall be guided by the following standards:
 
@@ -142,7 +142,7 @@ The owner of each vessel holding an exemption granted under subsection (b) of th
 
 #### (g) Review of information and evaluation of effects of incidental taking on population stocks of marine mammals; promulgation of emergency regulations to mitigate immediate and significant adverse impacts; action to mitigate non-immediate impacts
 
-(1) The Secretary shall review information regarding the incidental taking of marine mammals and evaluate the effects of such incidental taking on the affected population stocks of marine mammals.
+(1) The Secretary shall review information regarding the incidental taking of marine mammals and evaluate the effects of such incidentaltaking on the affected population stocks of marine mammals.
 
 (2) If the Secretary finds, based on the information received from the programs established under subsections (c), (d), (e), and (f) of this section, that the incidental taking of marine mammals in a fishery is having an immediate and significant adverse impact on a marine mammal population stock or, in the case of Steller sea lions and North Pacific fur seals, that more than 1,350 and 50, respectively, will be incidentally killed during a calendar year, the Secretary shall consult with appropriate Regional Fishery Management Councils and State fishery managers and prescribe emergency regulations to prevent to the maximum extent practicable any further taking. Any emergency regulations prescribed under this paragraph—
 
@@ -192,7 +192,7 @@ The Secretary, in consultation with any other Federal agency to the extent that 
 
 #### (<i>l</i>) Suggested regime governing incidental taking of marine mammals following termination of interim exemptions
 
-(1) The Chairman of the Marine Mammal Commission shall, after consultation with interested parties and not later than February 1, 1990, transmit to the Secretary and make available to the public recommended guidelines to govern the incidental taking of marine mammals in the course of commercial fishing operations, other than those subject to section 1374(h)(2) of this title, after October 1, 1993. Such guidelines shall be developed by the Commission and its Committee of Scientific Advisers on Marine Mammals and shall—
+(1) The Chairman of the Marine Mammal Commission shall, after consultation with interestedparties and not later than February 1, 1990, transmit to the Secretary and make available to the public recommended guidelines to govern the incidental taking of marine mammals in the course of commercial fishing operations, other than those subject to section 1374(h)(2) of this title, after October 1, 1993. Such guidelines shall be developed by the Commission and its Committee of Scientific Advisers on Marine Mammals and shall—
 
 &emsp;(A) be designed to provide a scientific rationale and basis for determining how many marine mammals may be incidentally taken under a regime to be adopted to govern such taking after October 1, 1993;
 
@@ -274,7 +274,7 @@ Section 404(a)(2) of Pub. L. 104–43 provided that: “The amendment made by pa
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 
-Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdictiontransferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

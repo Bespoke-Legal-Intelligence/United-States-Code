@@ -6,7 +6,7 @@ Every official agency, every State agency delegated authority under this chapter
 
 #### (b) Period of maintenance
 
-Every official agency, every State agency delegated authority under this chapter, and everyperson licensed to perform any official inspection or official weighing or supervision of weighing function under this chapter required to maintain records under this section shall keep such records for a period of five years after the inspection, weighing, or transaction, which is the subject of the record, occurred: <i>Provided</i>, That grain samples shall be required to be maintained only for such period not in excess of ninety days as the Secretary, after consultation with the grain trade and taking into account the needs and circumstances of local markets, shall prescribe; and in specific cases other records may be required by the Secretary to be maintained for not more than three years in addition to the five-year period whenever in the judgment of the Secretary the retention of such records for the longer period is necessary for the effective administration and enforcement of this chapter.
+Every official agency, every State agency delegated authority under this chapter, and every person licensed to perform any official inspection or official weighing or supervision of weighing function under this chapter required to maintain records under this section shall keep such records for a period of five years after the inspection, weighing, or transaction, which is the subject of the record, occurred: <i>Provided</i>, That grain samples shall be required to be maintained only for such period not in excess of ninety days as the Secretary, after consultation with the grain trade and taking into account the needs and circumstances of local markets, shall prescribe; and in specific cases other records may be required by the Secretary to be maintained for not more than three years in addition to the five-year period whenever in the judgment of the Secretary the retention of such records for the longer period is necessary for the effective administration and enforcement of this chapter.
 
 #### (c) Access to records; audits
 
@@ -36,7 +36,7 @@ Subsec. (c). Pub. L. 103–156, §12(k)(2), substituted “the Administrator” 
 
 Subsec. (c). Pub. L. 95–113, §1604(i)(1), (2), inserted “, every State delegated authority under this chapter,” after “official agency” and corrected a typographical error in Pub. L. 94–582 under which “delegate authority of this chapter” had been erroneously used instead of “delegated authority under this chapter”.
 
-Subsec. (d). Pub. L. 95–113, §1601, substituted “shall maintain such complete and accurate records for such period of time as the Administrator may, by regulation, prescribe for the purpose of the administration and enforcement of this chapter” for “shall, within the five-year period thereafter, maintain complete and accurate records of purchases, sales, transportation, storage, weighing, handling, treating, cleaning, drying, blending, and other processing, and official inspection and official weighing of grain,”.
+Subsec. (d). Pub. L. 95–113, §1601, substituted “shall maintain such complete and accurate records for such period of time as the Administrator may, by regulation, prescribe for the purpose of the administration and enforcement of this chapter” for “shall, within the five-year period thereafter, maintain complete and accurate records of purchases, sales, transportation, storage, weighing, handling, treating, cleaning, drying,blending, and other processing, and official inspection and official weighing of grain,”.
 
 1976—Subsec. (a). Pub. L. 94–582 substituted “official agency” for “official inspection agency” and “Administrator” for “Secretary” and inserted reference to licensed performance of official weighing or supervision of weighing function.
 
@@ -52,7 +52,7 @@ Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L
 
 #### Effective Date of 1976 Amendment
 
-For effective date of amendment by Pub. L. 94–582, see section 27 of Pub. L. 94–582, set out as a note under section 74 of this title.
+Amendment by Pub. L. 94–582 effective 30 days after Oct. 21, 1976, see section 27 of Pub. L. 94–582, as amended, set out as a note under section 74 of this title.
 
 #### Effective Date
 
@@ -60,7 +60,7 @@ For effective date of section, see section 2 of Pub. L. 90–487, set out as an 
 
 #### Maintenance of Records Not Involving Official Inspection or Official Weighing
 
-Pub. L. 103–111, title I, Oct. 21, 1993, 107 Stat. 1055, provided in part: “That hereafter, none of the funds available to the Federal Grain Inspection Service may beused to pay the salaries of any person or persons who require, or who authorize payments from fee-supported funds to any person or persons who require nonexport, nonterminal interior elevators to maintain records not involving official inspection or official weighing in the United States under Public Law 94–582 \[see Short Title of 1976 Amendment note set out under section 71 of this title\] other than those necessary to fulfill the purposes of such Act.”
+Pub. L. 103–111, title I, Oct. 21, 1993, 107 Stat. 1055, provided in part: “That hereafter, none of the funds available to the Federal Grain Inspection Service may be used to pay the salaries of any person or persons who require, or who authorize payments from fee-supported funds to any person or persons who require nonexport, nonterminal interior elevators to maintain records not involving official inspection or official weighing in the United States under Public Law 94–582 \[see Short Title of 1976 Amendment note set out under section 71 of this title\] other than those necessary to fulfill the purposes of such Act.”
 
 Similar provisions were contained in the following prior appropriation acts:
 

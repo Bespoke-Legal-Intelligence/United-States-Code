@@ -8,7 +8,3 @@ Whenever a Representative, Delegate, Resident Commissioner, or a United States S
 
 1996—Pub. L. 104–186 substituted “Chief Administrative Officer of the House of Representatives in” for “Sergeant at Arms of the House in” and “Chief Administrative Officer of the House of Representatives shall be” for “Sergeant at Arms of the House shall be paid to the Clerk of the House and”.
 
-#### Cross References
-
-Claims for overpayment of pay or allowances to Senators, see section 130c of this title.
-

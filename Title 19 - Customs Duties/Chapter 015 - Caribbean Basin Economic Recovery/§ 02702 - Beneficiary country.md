@@ -10,6 +10,10 @@
 
 &emsp;(C) The term “HTS” means Harmonized Tariff Schedule of the United States.
 
+&emsp;(D) The term “NAFTA” means the North American Free Trade Agreement entered into between the United States, Mexico, and Canada on December 17, 1992.
+
+&emsp;(E) The terms “WTO” and “WTO member” have the meanings given those terms in section 3501 of this title.
+
 (2) If the President has designated any country as a beneficiary country for purposes of this chapter, he shall not terminate such designation (either by issuing a proclamation for that purpose or by issuing a proclamation which has the effect of terminating such designation) unless, at least sixty days before such termination, he has notified the House of Representatives and the Senate and has notified such country of his intention to terminate such designation, together with the considerations entering into such decision.
 
 #### (b) Countries eligible for designation as beneficiary countries; conditions
@@ -94,7 +98,7 @@ Virgin Islands, British
 
 &emsp;&emsp;&emsp;(i) prompt, adequate, and effective compensation has been or is being made to such citizen, corporation, partnership, or association,
 
-&emsp;&emsp;&emsp;(ii) good-faith negotiations to provide prompt, adequate, and effective compensation under the applicable provisions of international law are in progress, or such country is otherwise taking steps to discharge its obligations under internationallaw with respect to such citizen, corporation, partnership, or association, or
+&emsp;&emsp;&emsp;(ii) good-faith negotiations to provide prompt, adequate, and effective compensation under the applicable provisions of international law are in progress, or such country is otherwise taking steps to discharge its obligations under international law with respect to such citizen, corporation, partnership, or association, or
 
 &emsp;&emsp;&emsp;(iii) a dispute involving such citizen, corporation, partnership, or association, over compensation for such a seizure has been submitted to arbitration under the provisions of the Convention for the Settlement of Investment Disputes, or in another mutually agreed upon forum, and
 
@@ -142,13 +146,21 @@ In determining whether to designate any country a beneficiary country under this
 
 #### (e) Withdrawal or suspension of duty-free treatment to specific articles
 
-(1) The President may, after the requirements of subsection (a)(2) of this section and paragraph (2) have been met—
+(1)(A) The President may, after the requirements of subsection (a)(2) of this section and paragraph (2) have been met—
 
-&emsp;(A) withdraw or suspend the designation of any country as a beneficiary country, or
+&emsp;(i) withdraw or suspend the designation of any country as a beneficiary country, or
 
-&emsp;(B) withdraw, suspend, or limit the application of duty-free treatment under this chapter to any article of any country,
+&emsp;(ii) withdraw, suspend, or limit the application of duty-free treatment under this chapter to any article of any country,
 
 > if, after such designation, the President determines that as a result of changed circumstances such country would be barred from designation as a beneficiary country under subsection (b) of this section.
+
+(B) The President may, after the requirements of subsection (a)(2) of this section and paragraph (2) have been met—
+
+&emsp;(i) withdraw or suspend the designation of any country as a CBTPA beneficiary country; or
+
+&emsp;(ii) withdraw, suspend, or limit the application of preferential treatment under section 2703(b)(2) and (3) of this title to any article of any country,
+
+> if, after such designation, the President determines that, as a result of changed circumstances, the performance of such country is not satisfactory under the criteria set forth in section 2703(b)(5)(B) of this title.
 
 (2)(A) The President shall publish in the Federal Register notice of the action the President proposes to take under paragraph (1) at least 30 days prior to taking such action.
 
@@ -164,11 +176,23 @@ In determining whether to designate any country a beneficiary country under this
 
 &emsp;&emsp;(II) the time and place at which such written comments will be accepted.
 
+(3) If preferential treatment under section 2703(b)(2) and (3) of this title is withdrawn, suspended, or limited with respect to a CBTPA beneficiary country, such country shall not be deemed to be a “party” for the purposes of applying section 2703(b)(5)(C) of this title to imports of articles for which preferential treatment has been withdrawn, suspended, or limited with respect to such country.
+
 #### (f) Reporting requirements
 
-On or before October 1, 1993, and the close of each 3-year period thereafter, the President shall submit to the Congress a complete report regarding the operation of this chapter, including the results of a general review of beneficiary countries based on the considerations described in subsections (b) and (c) of this section.
+#### (1) In general
 
-(Pub. L. 98–67, title II, §212, Aug. 5, 1983, 97 Stat. 384; Pub. L. 99–570, title IX, §9002(b), Oct. 27, 1986, 100 Stat. 3207–166; Pub. L. 100–418, title I, §§1214(q)(1), 1909(c), Aug. 23, 1988, 102 Stat. 1159, 1318; Pub. L. 101–382, title II, §§213, 214, Aug. 20, 1990, 104 Stat. 656; Pub. L. 103–465, title VI, §621(a)(2), Dec. 8, 1994, 108 Stat. 4992; Pub. L. 104–188, title I, §1954(a)(3), Aug. 20, 1996, 110 Stat. 1927.)
+&emsp;Not later than December 31, 2001, and every 2 years thereafter during the period this chapter is in effect, the United States Trade Representative shall submit to Congress a report regarding the operation of this chapter, including—
+
+&emsp;&emsp;(A) with respect to subsections (b) and (c) of this section, the results of a general review of beneficiary countries based on the considerations described in such subsections; and
+
+&emsp;&emsp;(B) the performance of each beneficiary country or CBTPA beneficiary country, as the case may be, under the criteria set forth in section 2703(b)(5)(B) of this title.
+
+#### (2) Public comment
+
+&emsp;Before submitting the report described in paragraph (1), the United States Trade Representative shall publish a notice in the Federal Register requesting public comments on whether beneficiary countries are meeting the criteria listed in section 2703(b)(5)(B) of this title.
+
+(Pub. L. 98–67, title II, §212, Aug. 5, 1983, 97 Stat. 384; Pub. L. 99–570, title IX, §9002(b), Oct. 27, 1986, 100 Stat. 3207–166; Pub. L. 100–418, title I, §§1214(q)(1), 1909(c), Aug. 23, 1988, 102 Stat. 1159, 1318; Pub. L. 101–382, title II, §§213, 214, Aug. 20, 1990, 104 Stat. 656; Pub. L. 103–465, title VI, §621(a)(2), Dec. 8, 1994, 108 Stat. 4992; Pub. L. 104–188, title I, §1954(a)(3), Aug. 20, 1996, 110 Stat. 1927; Pub. L. 106–200, title II, §211(b), (c)(1), (e)(2), May 18, 2000, 114 Stat. 286, 287.)
 
 #### References in Text
 
@@ -185,6 +209,14 @@ This chapter, referred to in subsec. (e)(1)(B), was in the original “this subt
 Subsec. (d) of this section amended general headnote 3(a) of the Tariff Schedules of the United States. The Tariff Schedules were replaced by the Harmonized Tariff Schedule of the United States. See References in Text note above.
 
 #### Amendments
+
+2000—Subsec. (a)(1)(D), (E). Pub. L. 106–200, §211(e)(2), added subpars. (D) and (E).
+
+Subsec. (e)(1). Pub. L. 106–200, § 211(b)(1), designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), and added subpar. (B).
+
+Subsec. (e)(3). Pub. L. 106–200, §211(b)(2), added par. (3).
+
+Subsec. (f). Pub. L. 106–200, §211(c)(1), inserted heading and amended text generally. Prior to amendment, text read as follows: “On or before October 1, 1993, and the close of each 3-year period thereafter, the President shall submit to the Congress a complete report regarding the operation of this chapter, including the results of a general review of beneficiary countries based on the considerations described in subsections (b) and (c) of this section.”
 
 1996—Subsec. (b)(7). Pub. L. 104–188 substituted “2467(4)” for “2462(a)(4)”.
 

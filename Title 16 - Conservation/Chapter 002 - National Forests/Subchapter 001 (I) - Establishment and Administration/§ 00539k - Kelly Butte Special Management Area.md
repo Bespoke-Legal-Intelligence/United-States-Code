@@ -34,9 +34,7 @@ Congress does not intend that the designation of the Kelly Butte Special Managem
 
 #### References in Text
 
-The U.S. mining laws, referred to in subsec. (b)(4), are classified generally to Title 30, Mineral Lands and Mining.
-
-Mineral leasing laws, referred to in subsec. (b)(4), have been defined in sections 351, 505, 530, and 541e of Title 30, Mineral Lands and Mining, to mean acts Oct. 20, 1914, ch. 330, 38 Stat. 741; Feb. 25, 1920, ch. 85, 41 Stat. 437; Apr. 17, 1926, ch. 158, 44 Stat. 301; and Feb. 7, 1927, ch. 66, 44 Stat. 1057. The act of Oct. 20, 1914, was repealed by Pub. L. 86–252, §1, Sept. 9, 1959, 73 Stat. 490. The act of Feb. 25, 1920, is known as the Mineral Leasing Act and is classified generally to chapter 3A (§181 et seq.) of Title 30. The act of Apr. 17, 1926, is classified generally to subchapter VIII (§271 et seq.) of chapter 3A of Title 30. The act of Feb. 7, 1927, is classified principally to subchapter IX (§281 et seq.) of chapter 3A of Title 30. For complete classification of these Acts to the Code, see Tables.
+The U.S. mining laws and the mineral leasing laws, referred to in subsec. (b)(4), are classified generally to Title 30, Mineral Lands and Mining.
 
 The Geothermal Steam Act of 1970, referred to in subsec. (b)(4), is Pub. L. 91–581, Dec. 24, 1970, 84 Stat. 1566, as amended, which is classified principally to chapter 23 (§1001 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 30 and Tables.
 
@@ -118,7 +116,7 @@ Findings.—Congress finds that—
 
 &emsp;&emsp;“(ii) have lower public recreation and other public values than the Plum Creek offered land;
 
-&emsp;“(6) time is of the essence in consummating a land exchange because delays may force Plum Creek to road or log the offered land and thereby diminish the public values for which the offered land is to be acquired; and
+&emsp;“(6) time is of the essence in consummating a land exchange because delays may force Plum Creek toroad or log the offered land and thereby diminish the public values for which the offered land is to be acquired; and
 
 &emsp;“(7) it is in the public interest to complete the land exchange at the earliest practicable date so that the offered land can be acquired and preserved by the United States for permanent public management, use, and enjoyment.
 
@@ -172,7 +170,7 @@ Offered Land Title.—If Plum Creek conveys title acceptable to the Secretary to
 
 “(d)
 
-Land Donation.—Plum Creek agrees that it will convey, in the form of a voluntary donation, title acceptable to the Secretary in and to lands and interests in lands comprising approximately 320 acres, described as Township 22 North, Range 11 East, S1/2 of Section 13, if Plum Creek conveys title to lands and interests pursuant to subsections (a) or (c). It is the intention of Congress that any portion of such donated land which the Secretary determines qualifies as wilderness be, upon the date of its acquisition by the United States, incorporated in and managed as part of the adjacent Alpine Lakes Wilderness (as designated by Public Law 94–357) in accordance with section 6(a) of the Wilderness Act (16 U.S.C. 1135).
+Land Donation.—Plum Creek agrees that it will convey, in the form of a voluntary donation, title acceptable to the Secretary in and to lands and interestsin lands comprising approximately 320 acres, described as Township 22 North, Range 11 East, S1/2 of Section 13, if Plum Creek conveys title to lands and interests pursuant to subsections (a) or (c). It is the intention of Congress that any portion of such donated land which the Secretary determines qualifies as wilderness be, upon the date of its acquisition by the United States, incorporated in and managed as part of the adjacent Alpine Lakes Wilderness (as designated by Public Law 94–357) in accordance with section 6(a) of the Wilderness Act (16 U.S.C. 1135).
 
 #### “SEC. 605. EXCHANGE VALUATION, APPRAISALS AND EQUALIZATION.
 
@@ -190,7 +188,7 @@ In general.—The values of the offered and selected land—
 
 &emsp;“(2)
 
-Appraisal assumption.—In order to ensure the equitable and uniform appraisal of both the offered and selected land directed for exchange by this Act, all appraisals shall determine the highest and bestuse of the offered and selected land in accordance with applicable provisions of the Washington State Forest Practices Act and rules and regulations thereunder, including alternative measures for protecting critical habitat pursuant to a habitat conservation plan as provided in Washington Administrative Code 222–16–080–(6).
+Appraisal assumption.—In order to ensure the equitable and uniform appraisal of both the offered and selected land directed for exchange by this Act, all appraisals shall determine the highest and best use of the offered and selected land in accordance with applicable provisions of the Washington State Forest Practices Act and rules and regulations thereunder, including alternative measures for protecting critical habitat pursuant to a habitat conservation plan as provided in Washington Administrative Code 222–16–080–(6).
 
 &emsp;“(3)
 
@@ -300,7 +298,7 @@ Land acquired by the secretary.—
 
 &emsp;&emsp;“(A)
 
-In general.—Land acquired by the Secretary under this Act shall become part of the Mt. Baker-Snoqualmie, Gifford Pinchot or Wenatchee National Forests, as appropriate.
+In general.—Land acquired by the Secretary under this Act shall become part of the Mt.Baker-Snoqualmie, Gifford Pinchot or Wenatchee National Forests, as appropriate.
 
 &emsp;&emsp;“(B)
 
@@ -314,7 +312,7 @@ Modification of boundaries.—
 
 &emsp;&emsp;“(C)
 
-Management.—Land acquired by the Secretary under this Act shall have the status of lands acquired under the Act of March 1, 1911 \[act Mar. 1,1911, ch. 186, 36 Stat. 961, see Tables for classification\] and shall be managed in accordance with the laws, rules, regulations and guidelines applicable to the National Forest System.
+Management.—Land acquired by the Secretary under this Act shall have the status of lands acquired under the Act of March 1, 1911 \[act Mar. 1, 1911, ch. 186, 36 Stat. 961, see Tables for classification\] and shall be managed in accordance with the laws, rules, regulations and guidelines applicable to the National Forest System.
 
 &emsp;“(2)
 
@@ -392,7 +390,7 @@ Purchase Consultation.—In furtherance of subsection (a), the Secretary is auth
 
 “(c)
 
-Other Agreements.—Nothing in this Act shall be construed to prohibit the Secretary from entering into additional agreements or contracts with Plum Creek to purchase, exchange or otherwise acquire lands from Plum Creek in Washington or any other state under the laws, rules and regulations generally applicable to Federal land acquisitions.
+Other Agreements.—Nothing in this Act shall be construed to prohibit the Secretary from entering into additional agreements or contracts with Plum Creek to purchase, exchange or otherwise acquire landsfrom Plum Creek in Washington or any other state under the laws, rules and regulations generally applicable to Federal land acquisitions.
 
 #### “SEC. 608. TIETON RIVER STUDY.
 
@@ -402,7 +400,7 @@ Other Agreements.—Nothing in this Act shall be construed to prohibit the Secre
 
 “(a)
 
-Finding.—The Congress finds that certain lands which were identified for exchange to the United States in the I–90 Land Exchange process have been, or may be, deleted from the final exchange under this Act due to value equalization or other reasons. However, some or all of such deleted lands, or other Plum Creek lands, may possess attributes that merit their conveyance to the United States in a follow-up land exchange, including lands in or around the Carbon River, the Yakima River, the Pacific Crest Trail, Watch Mountain andGoat Mountain on the Gifford Pinchot National Forest, the Green River and the Manastash late successional reserve.
+Finding.—The Congress finds that certain lands which were identified for exchange to the United States in the I–90 Land Exchange process have been, or may be, deleted from the final exchange under this Act due to value equalization or other reasons. However, some or all of such deleted lands, or other Plum Creek lands, may possess attributes that merit their conveyance to the United States in a follow-up land exchange, including lands in or around the Carbon River, the Yakima River, the Pacific Crest Trail, Watch Mountain and Goat Mountain on the Gifford Pinchot National Forest, the Green River and the Manastash late successional reserve.
 
 “(b)
 

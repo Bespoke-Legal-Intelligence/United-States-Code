@@ -12,7 +12,7 @@ The Administrator shall establish national programs for the prevention, reductio
 
 &emsp;(4) establish advisory committees composed of recognized experts in various aspects of pollution and representatives of the public to assist in the examination and evaluation of research progress and proposals and to avoid duplication of research;
 
-&emsp;(5) in cooperation with the States, and their political subdivisions, and other Federal agencies establish, equip, and maintain a water quality surveillance system for the purpose of monitoring the quality of the navigable waters and ground waters and the contiguous zone and the oceans and the Administrator shall, to the extent practicable, conduct such surveillance by utilizing the resources of the National Aeronautics and Space Administration, the National Oceanic and Atmospheric Administration, the United States Geological Survey, and the Coast Guard, and shall report on such quality not later than 90 days after the date of convening of each session of Congress; and
+&emsp;(5) in cooperation with the States, and their political subdivisions, and other Federal agencies establish, equip, and maintain a water quality surveillance system for the purpose ofmonitoring the quality of the navigable waters and ground waters and the contiguous zone and the oceans and the Administrator shall, to the extent practicable, conduct such surveillance by utilizing the resources of the National Aeronautics and Space Administration, the National Oceanic and Atmospheric Administration, the United States Geological Survey, and the Coast Guard, and shall report on such quality not later than 90 days after the date of convening of each session of Congress; and
 
 &emsp;(6) initiate and promote the coordination and acceleration of research designed to develop the most effective practicable tools and techniques for measuring the social and economic costs and benefits of activities which are subject to regulation under this chapter; and shall transmit a report on the results of such research to the Congress not later than January 1, 1974.
 
@@ -20,7 +20,7 @@ The Administrator shall establish national programs for the prevention, reductio
 
 In carrying out the provisions of subsection (a) of this section the Administrator is authorized to—
 
-&emsp;(1) collect and make available, through publications and other appropriate means, the results of and other information, including appropriate recommendations by him in connection therewith, pertaining to such researchand other activities referred to in paragraph (1) of subsection (a) of this section;
+&emsp;(1) collect and make available, through publications and other appropriate means, the results of and other information, including appropriate recommendations by him in connection therewith, pertaining to such research and other activities referred to in paragraph (1) of subsection (a) of this section;
 
 &emsp;(2) cooperate with other Federal departments and agencies, State water pollution control agencies, interstate agencies, other public and private agencies, institutions, organizations, industries involved, and individuals, in the preparation and conduct of such research and other activities referred to in paragraph (1) of subsection (a) of this section;
 
@@ -94,7 +94,7 @@ The Secretary of the department in which the Coast Guard is operating shall enga
 
 #### (k) Land acquisition
 
-In carrying out the provisions of this section relating to the conduct by the Administrator of demonstration projects and the development of field laboratories and research facilities, the Administrator may acquire land and interests therein by purchase, with appropriated or donated funds, by donation, or by exchange for acquired or public lands under his jurisdiction which he classifies as suitable for disposition. The values of the properties so exchanged either shall be approximately equal, or if they are not approximately equal, the values shall be equalized by the payment of cash to the grantor or to the Administrator as the circumstances require.
+In carrying out the provisions of this section relating to the conduct by the Administrator of demonstration projects and the development of field laboratories and research facilities, the Administrator may acquire land and interests therein by purchase, with appropriated or donated funds, by donation, or by exchange for acquired or public lands under his jurisdiction which he classifies as suitable for disposition.The values of the properties so exchanged either shall be approximately equal, or if they are not approximately equal, the values shall be equalized by the payment of cash to the grantor or to the Administrator as the circumstances require.
 
 #### (<i>l</i>) Collection and dissemination of scientific knowledge on effects and control of pesticides in water
 
@@ -152,15 +152,29 @@ The Administrator shall, in cooperation with State and Federal agencies and publ
 
 #### (u) Authorization of appropriations
 
-There is authorized to be appropriated (1) not to exceed $100,000,000 per fiscal year for the fiscal year ending June 30, 1973, the fiscal year ending June 30, 1974, and the fiscal year ending June 30, 1975, not to exceed $14,039,000 for the fiscal year ending September 30, 1980, not to exceed $20,697,000 for the fiscal year ending September 30, 1981, not to exceed $22,770,000 for the fiscal year ending September 30, 1982, such sums as may be necessary for fiscal years 1983 through 1985, and not to exceed $22,770,000 per fiscal year for each of the fiscal years 1986 through 1990, for carrying out the provisions of this section, other than subsections (g)(1) and (2), (p), (r), and (t) of this section, except that such authorizations are not for any research, development, or demonstration activity pursuant to such provisions; (2) not to exceed $7,500,000 for fiscal years 1973, 1974, and 1975, $2,000,000 for fiscal year 1977, $3,000,000 for fiscal year 1978, $3,000,000 for fiscal year 1979, $3,000,000 for fiscal year 1980, $3,000,000 for fiscal year 1981, $3,000,000 for fiscal year 1982, such sums as may be necessary for fiscal years 1983 through 1985, and $3,000,000 per fiscal year for each of the fiscal years 1986 through 1990, for carrying out the provisions of subsection (g)(1) of this section; (3) not to exceed $2,500,000 for fiscal years 1973, 1974, and 1975, $1,000,000 for fiscal year 1977, $1,500,000 for fiscal year 1978, $1,500,000 for fiscal year 1979, $1,500,000 for fiscal year 1980, $1,500,000 for fiscal year 1981, $1,500,000 for fiscal year 1982, such sums as may be necessary for fiscal years 1983 through 1985, and $1,500,000 per fiscal year for each of the fiscal years 1986 through 1990, for carrying out the provisions of subsection (g)(2) of this section; (4) not to exceed $10,000,000 for each of the fiscal years ending June 30, 1973, June 30, 1974, and June 30, 1975, for carrying out the provisions of subsection (p) of this section; (5) not to exceed $15,000,000 per fiscal year for the fiscal years ending June 30, 1973, June 30, 1974, and June 30, 1975, for carrying out the provisions of subsection (r) of this section; and (6) not to exceed $10,000,000 per fiscal year for the fiscal years ending June 30, 1973, June 30, 1974, and June 30, 1975, for carrying out the provisions of subsection (t) of this section.
+There is authorized to be appropriated (1) not to exceed $100,000,000 per fiscal year for the fiscal year ending June 30, 1973, the fiscal year ending June 30, 1974, and the fiscal year ending June 30, 1975, not to exceed $14,039,000 for the fiscal year ending September 30, 1980, not to exceed $20,697,000 for the fiscal year ending September 30, 1981, not to exceed $22,770,000 for the fiscal year ending September 30, 1982, such sums as may be necessary for fiscal years 1983 through 1985, and not to exceed $22,770,000 per fiscal year for each of the fiscal years 1986 through 1990, for carrying out the provisions of this section, other than subsections (g)(1) and (2), (p), (r), and (t) of this section, except that such authorizations are not for any research, development, or demonstration activity pursuant to such provisions; (2) not to exceed $7,500,000 for fiscal years 1973, 1974, and 1975, $2,000,000 for fiscal year 1977, $3,000,000 for fiscal year 1978, $3,000,000 for fiscal year 1979, $3,000,000 for fiscal year 1980, $3,000,000 for fiscal year 1981, $3,000,000 for fiscal year 1982, such sums as may be necessary for fiscal years 1983 through 1985, and $3,000,000 per fiscal year for each of the fiscal years 1986 through 1990, for carrying out the provisions of subsection (g)(1)of this section; (3) not to exceed $2,500,000 for fiscal years 1973, 1974, and 1975, $1,000,000 for fiscal year 1977, $1,500,000 for fiscal year 1978, $1,500,000 for fiscal year 1979, $1,500,000 for fiscal year 1980, $1,500,000 for fiscal year 1981, $1,500,000 for fiscal year 1982, such sums as may be necessary for fiscal years 1983 through 1985, and $1,500,000 per fiscal year for each of the fiscal years 1986 through 1990, for carrying out the provisions of subsection (g)(2) of this section; (4) not to exceed $10,000,000 for each of the fiscal years ending June 30, 1973, June 30, 1974, and June 30, 1975, for carrying out the provisions of subsection (p) of this section; (5) not to exceed $15,000,000 per fiscal year for the fiscal years ending June 30, 1973, June 30, 1974, and June 30, 1975, for carrying out the provisions of subsection (r) of this section; and (6) not to exceed $10,000,000 per fiscal year for the fiscal years ending June 30, 1973, June 30, 1974, and June 30, 1975, for carrying out the provisions of subsection (t) of this section.
 
-(June 30, 1948, ch. 758, title I, §104, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 819; amended Pub. L. 93–207, §1(1), Dec. 28, 1973, 87 Stat. 906; Pub. L. 93–592, §1, Jan. 2, 1975, 88 Stat. 1924; Pub. L. 95–217, §§4(a), (b), 6, 7, Dec. 27, 1977, 91 Stat. 1566, 1567; Pub. L. 95–576, §1(a), Nov. 2, 1978, 92 Stat. 2467; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 96–483, §1(a), Oct. 21, 1980, 94 Stat. 2360; Pub. L. 100–4, title I, §§101(a), 102, Feb. 4, 1987, 101 Stat. 8, 9; Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 1000; Pub. L. 105–362, title V, §501(a)(1), (d)(2)(A), Nov. 10, 1998, 112 Stat. 3283.)
+#### (v) Studies concerning pathogen indicators in coastal recreation waters
+
+Not later than 18 months after October 10, 2000, after consultation and in cooperation with appropriate Federal, State, tribal, and local officials (including local health officials), the Administrator shall initiate, and, not later than 3 years after October 10, 2000, shall complete, in cooperation with the heads of other Federal agencies, studies to provide additional information for use in developing—
+
+&emsp;(1) an assessment of potential human health risks resulting from exposure to pathogens in coastal recreation waters, including nongastrointestinal effects;
+
+&emsp;(2) appropriate and effective indicators for improving detection in a timely manner in coastal recreation waters of the presence of pathogens that are harmful to human health;
+
+&emsp;(3) appropriate, accurate, expeditious, and cost-effective methods (including predictive models) for detecting in a timely manner in coastal recreation waters the presence of pathogens that are harmful to human health; and
+
+&emsp;(4) guidance for State application of the criteria for pathogens and pathogen indicators to be published under section 1314(a)(9) of this title to account for the diversity of geographic and aquatic conditions.
+
+(June 30, 1948, ch. 758, title I, §104, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 819; amended Pub. L. 93–207, §1(1), Dec. 28, 1973, 87 Stat. 906; Pub. L. 93–592, §1, Jan. 2, 1975, 88 Stat. 1924; Pub. L. 95–217, §§4(a), (b), 6, 7, Dec. 27, 1977, 91 Stat. 1566, 1567; Pub. L. 95–576, §1(a), Nov. 2, 1978, 92 Stat. 2467; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 96–483, §1(a), Oct. 21, 1980, 94 Stat. 2360; Pub. L. 100–4, title I, §§101(a), 102, Feb. 4, 1987, 101 Stat. 8, 9; Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 1000; Pub. L. 105–362, title V, §501(a)(1), (d)(2)(A), Nov. 10, 1998, 112 Stat. 3283; Pub. L. 106–284, §3(a), Oct. 10, 2000, 114 Stat. 871.)
 
 #### Codification
 
 In subsecs. (b)(4) and (g)(3)(A), “section 3324(a) and (b) of title 31” substituted for reference to section 3648 of the Revised Statutes \[31 U.S.C. 529\] on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
+
+2000—Subsec. (v). Pub. L. 106–284 added subsec. (v).
 
 1998—Subsec. (a)(5). Pub. L. 105–362, §501(d)(2)(A)(i), substituted “not later than 90 days after the date of convening of each session of Congress” for “in the report required under subsection (a) of section 1375 of this title”.
 
@@ -210,9 +224,9 @@ Pub. L. 95–308, §8, June 30, 1978, 92 Stat. 359, set forth Congressional find
 
 #### Contiguous Zone of United States
 
-For extension of contiguous zone of United States, see Proc. No. 7219, Sept. 2, 1999, 64 F.R. 48701, set out as a note under section 1331 of Title 43, Public Lands.
+For extension of contiguous zone of United States, see Proc. No. 7219, set out as a note under section 1331 of Title 43, Public Lands.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1254a, 1255, 1263, 1322, 1330, 1376, 1377 of this title.
+This section is referred to in sections 1254a, 1255, 1263, 1314, 1322, 1330, 1376, 1377 of this title.
 

@@ -24,10 +24,6 @@ Prior section 901 was renumbered section 2301 of this title.
 
 Provisions similar to those in this section were contained in section 218(a) of this title prior to repeal by Pub. L. 102–83, §2(a).
 
-#### Cross References
-
-Protection of Federal property under jurisdiction of Administrator of General Services, see sections 318 to 318d of Title 40, Public Buildings, Property, and Works.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 902 of this title.

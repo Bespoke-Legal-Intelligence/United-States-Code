@@ -56,7 +56,7 @@ Technical Amendment.—Rule 15(c)(3) of the Federal Rules of Civil Procedure for
 
 “(b)
 
-Amendment to Forms.—Form 1–A, Notice of Lawsuit and Request for Waiver of Service of Summons, and Form 1–B, Waiver of Service of Summons, included in the transmittal by the Supreme Court described in subsection (a), shall not be effective and Form 18–A, Notice and Acknowledgment for Service by Mail, abrogated by the Supreme Court in such transmittal, effective December 1, 1991, shall continue in effect on or after that date.”
+Amendment to Forms.—Form 1–A, Notice of Lawsuit and Request for Waiver of Service of Summons, and Form 1–B, Waiver of Service of Summons, included in the transmittal by the Supreme Court described in subsection (a), shall not be effective andForm 18–A, Notice and Acknowledgment for Service by Mail, abrogated by the Supreme Court in such transmittal, effective December 1, 1991, shall continue in effect on or after that date.”
 
 #### Amendments to Civil Rules Proposed April 28, 1982
 
@@ -64,7 +64,7 @@ Pub. L. 97–462, §5, Jan. 12, 1983, 96 Stat. 2530, provided that: “The amend
 
 Pub. L. 97–227, Aug. 2, 1982, 96 Stat. 246, provided: “That notwithstanding the provisions of section 2072 of title 28, United States Code, the amendments to rule 4 of the Federal Rules of Civil Procedure as proposed by the Supreme Court of the United States and transmitted to the Congress by the Chief Justice on April 28, 1982, shall take effect on October 1, 1983, unless previously approved, disapproved, or modified by Act of Congress.
 
-“Sec. 2. This Act shall be effective as of August 1, 1982, but shall not apply to the service of process thattakes place between August 1, 1982, and the date of enactment of this Act \[Aug. 2, 1982\].”
+“Sec. 2. This Act shall be effective as of August 1, 1982, but shall not apply to the service of process that takes place between August 1, 1982, and the date of enactment of this Act \[Aug. 2, 1982\].”
 
 #### Amendments to Criminal Rules and Rules of Evidence Proposed April 30, 1979; Postponement of Effective Date
 

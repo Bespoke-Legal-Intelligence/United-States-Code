@@ -12,10 +12,6 @@ The following acts are hereby declared injurious to commerce in naval stores and
 
 (Mar. 3, 1923, ch. 217, §5, 42 Stat. 1436.)
 
-#### Cross References
-
-Punishment for violating the provisions of this section, see section 96 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 96 of this title.

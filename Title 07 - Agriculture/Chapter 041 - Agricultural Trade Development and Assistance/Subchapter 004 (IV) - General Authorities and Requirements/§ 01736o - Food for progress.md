@@ -106,7 +106,7 @@ As used in this section, the term “independent states of the former Soviet Uni
 
 #### References in Text
 
-The Agricultural Trade Development and Assistance Act of 1954, referred to in subsecs. (e) and (f)(5), is act July 10, 1954, ch. 469, 68 Stat. 454, as amended, which is classified generally to this chapter (§1691 et seq.). TitleI of the Act is classified to subchapter II (§1701 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of this title and Tables.
+The Agricultural Trade Development and Assistance Act of 1954, referred to in subsecs. (e) and (f)(5), is act July 10, 1954, ch. 469, 68 Stat. 454, as amended, which is classified generally to this chapter (§1691 et seq.). Title I of the Act is classified to subchapter II (§1701 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of this title and Tables.
 
 #### Codification
 
@@ -140,7 +140,7 @@ Subsec. (<i>l</i>)(1). Pub. L. 104–127, §227(7), substituted “1996 through 
 
 Subsec. (m). Pub. L. 104–127, §227(8), in introductory provisions, struck out “with respect to the independent states of the former Soviet Union” after “this section” and substituted “agricultural trade organizations, intergovernmental organizations, private voluntary organizations, and cooperatives” for “private voluntary organizations and cooperatives”, and in par. (2), struck out “in the independent states” after “the use” and substituted “agricultural trade organizations, intergovernmental organizations, private voluntary organizations, and cooperatives” for “private voluntary organizations and cooperatives”.
 
-1992—Subsec. (b). Pub. L. 102–511, §701(1), designated existing provisions as par. (1), inserted “(including the independent states of the former Soviet Union)” after “such countries”, substituted “cooperatives, or other private entities” for “or cooperatives”, and added par. (2).
+1992—Subsec. (b). Pub. L. 102–511, §701(1), designated existing provisions as par. (1), inserted “(including theindependent states of the former Soviet Union)” after “such countries”, substituted “cooperatives, or other private entities” for “or cooperatives”, and added par. (2).
 
 Subsec. (f)(1). Pub. L. 102–511, §701(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Commodities made available under section 1431(b) of this title for use in carrying out this section shall be provided on a grant basis.”
 

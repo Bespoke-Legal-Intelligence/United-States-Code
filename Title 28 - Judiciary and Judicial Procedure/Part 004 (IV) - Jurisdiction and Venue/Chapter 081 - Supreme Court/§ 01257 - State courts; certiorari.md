@@ -24,7 +24,7 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1988—Pub. L. 100–352 struck out “appeal;” before “certiorari” in section catchline and amended text generally. Prior to amendment, text read as follows: “Final judgments or decrees rendered by the highest court of a State in which a decision could be had, may be reviewed by the Supreme Court as follows:
+<b>1988</b>—Pub. L. 100–352 struck out “appeal;” before “certiorari” in section catchline and amended text generally. Prior to amendment, text read as follows: “Final judgments or decrees rendered by the highest court of a State in which a decision could be had, may be reviewed by the Supreme Court as follows:
 
 &emsp;“(1) By appeal, where is drawn in question the validity of a treaty or statute of the United States and the decision is against its validity.
 
@@ -34,7 +34,7 @@ Changes were made in phraseology.
 
 “For the purposes of this section, the term ‘highest court of a State’ includes the District of Columbia Court of Appeals.”
 
-1970—Pub. L. 91–358 provided that for the purposes of this section, the term “highest court of a State” includes the District of Columbia Court of Appeals.
+<b>1970</b>—Pub. L. 91–358 provided that for the purposes of this section, the term “highest court of a State” includes the District of Columbia Court of Appeals.
 
 #### Effective Date of 1988 Amendment
 
@@ -43,26 +43,6 @@ Amendment by Pub. L. 100–352 effective ninety days after June 27, 1988, except
 #### Effective Date of 1970 Amendment
 
 Section 199(a) of title I of Pub. L. 91–358 provided that: “The effective date of this title (and the amendments made by this title) \[enacting sections 1363, 1451, and 2113 of this title and amending this section, sections 292 and 1869 of this title, section 5102 of Title 5, Government Organization and Employees, and section 260a of Title 42, The Public Health and Welfare\] shall be the first day of the seventh calendar month which begins after the date of the enactment of this Act \[July 29, 1970\].”
-
-#### Rules of the Supreme Court
-
-Jurisdiction on writ of certiorari, see rules 10 to 16, Appendix to this title.
-
-#### Cross References
-
-Determination on review, see section 2106 of this title.
-
-Quorum of Supreme Court justices absent, disposition of case, see section 2109 of this title.
-
-Review of State court decisions—
-
-&emsp;&emsp;Priority of criminal cases, see section 2102 of this title.
-
-&emsp;&emsp;Procedure and effect, see section 2104 of this title.
-
-Time for appeal or certiorari, see section 2101 of this title.
-
-Writs, see section 1651 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -28,7 +28,7 @@ Application of Certain Additional Laws.—Section 552 of title 5, this part, and
 
 (f)
 
-Tax Exemption for Certain Commuter Authorities.—A commuter authority that was eligible to make a contract with Amtrak Commuter to provide commuter rail passengertransportation but which decided to provide its own rail passenger transportation beginning January 1, 1983, is exempt, effective October 1, 1981, from paying a tax or fee to the same extent Amtrak is exempt.
+Tax Exemption for Certain Commuter Authorities.—A commuter authority that was eligible to make a contract with Amtrak Commuter to provide commuter rail passenger transportation but which decided to provide its own rail passenger transportation beginning January 1, 1983, is exempt, effective October 1, 1981, from paying a tax or fee to the same extent Amtrak is exempt.
 
 (g)
 
@@ -250,7 +250,7 @@ The Railroad Unemployment Insurance Act, referred to in subsec. (c), is act June
 
 The Railroad Retirement Tax Act, referred to in subsec. (c), is act Aug. 16, 1954, ch. 736, §§3201, 3202, 3211, 3212, 3221, and 3231 to 3233, 68A Stat. 431, as amended, which is classified generally to chapter 22 (§3201 et seq.) of Title 26, Internal Revenue Code. For complete classification of this Act to the Code, see section 3233 of Title 26 and Tables.
 
-The District of Columbia Business Corporation Act, referred to in subsec. (e), is act June 8, 1954, ch. 269, 68 Stat. 179, as amended, which appears in chapter 3 (§29–301 et seq.) of Title 29, Corporations, of the District of Columbia Code.
+The District of Columbia Business Corporation Act, referred to in subsec. (e), is act June 8, 1954, ch. 269, 68 Stat. 179, as amended, which is not classified to the Code.
 
 #### Amendments
 

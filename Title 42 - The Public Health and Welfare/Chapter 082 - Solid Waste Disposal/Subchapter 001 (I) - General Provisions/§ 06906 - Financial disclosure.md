@@ -32,6 +32,10 @@ Any officer or employee who is subject to, and knowingly violates, this section 
 
 (Pub. L. 89–272, title II, §1007, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2802.)
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of reporting provisions in subsec. (b)(2) of this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 14th item on page 164 of House Document No. 103–7.
+
 #### Transfer of Functions
 
 For transfer of certain enforcement functions of Administrator or other official of Environmental Protection Agency under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, see note set out under section 6903 of this title.

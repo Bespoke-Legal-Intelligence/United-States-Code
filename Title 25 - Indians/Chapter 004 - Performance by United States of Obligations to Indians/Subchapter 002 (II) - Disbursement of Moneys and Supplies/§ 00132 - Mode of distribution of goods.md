@@ -12,7 +12,3 @@ R.S. §2090 derived from act Apr. 10, 1869, ch. 16, §2, 16 Stat. 39.
 
 The services of Indian agents have been dispensed with. See note set out under section 64 of this title.
 
-#### Cross References
-
-Persons present at delivery of goods, see section 112 of this title.
-

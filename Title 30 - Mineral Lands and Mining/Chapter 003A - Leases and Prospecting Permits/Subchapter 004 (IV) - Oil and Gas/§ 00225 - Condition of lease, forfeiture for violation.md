@@ -16,10 +16,6 @@ See note set out under section 181 of this title.
 
 Terms and conditions of mineral leases on submerged lands of outer Continental Shelf, see section 1337 of Title 43, Public Lands.
 
-#### Cross References
-
-Surrender of leases, see section 188a of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in title 10 sections 7421, 7435.

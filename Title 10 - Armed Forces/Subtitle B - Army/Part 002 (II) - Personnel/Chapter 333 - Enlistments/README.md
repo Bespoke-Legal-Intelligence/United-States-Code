@@ -23,22 +23,6 @@
 
 1958—Pub. L. 85–861, §1(71)(C), Sept. 2, 1958, 72 Stat. 1465, added item 3263.
 
-#### Cross References
-
-Appointment of enlisted men to cadetships at the Military Academy, see section 4342 of this title.
-
-Articles of Military Code to be explained, see section 937 of this title.
-
-Detail of members of Army as students, observers, and investigators, see section 4301 of this title.
-
-Effect upon enlisted status of acceptance of appointment as cadet, see section 516 of this title.
-
-Fraudulent or unlawful enlistment, punishment, see sections 883, 884 of this title.
-
-General military law provisions, see section 501 et seq. of this title.
-
-Oath of enlistment, see section 502 of this title.
-
 
 ---
 

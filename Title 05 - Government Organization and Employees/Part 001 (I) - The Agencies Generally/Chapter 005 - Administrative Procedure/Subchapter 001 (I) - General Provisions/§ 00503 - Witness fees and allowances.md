@@ -34,7 +34,3 @@ This section was part of title IV of the Revised Statutes. The Act of July 26, 1
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
-#### Cross References
-
-Government officers and employees, see sections 5515, 5537, 5751, and 6322 of this title.
-

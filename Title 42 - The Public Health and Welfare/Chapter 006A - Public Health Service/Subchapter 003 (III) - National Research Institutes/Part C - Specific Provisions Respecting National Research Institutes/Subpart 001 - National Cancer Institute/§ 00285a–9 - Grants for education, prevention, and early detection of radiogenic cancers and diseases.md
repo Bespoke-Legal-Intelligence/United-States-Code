@@ -1,0 +1,58 @@
+### §285a–9. Grants for education, prevention, and early detection of radiogenic cancers and diseases
+
+#### (a) Definition
+
+In this section the term “entity” means any—
+
+&emsp;(1) National Cancer Institute-designated cancer center;
+
+&emsp;(2) Department of Veterans Affairs hospital or medical center;
+
+&emsp;(3) Federally Qualified Health Center, community health center, or hospital;
+
+&emsp;(4) agency of any State or local government, including any State department of health; or
+
+&emsp;(5) nonprofit organization.
+
+#### (b) In general
+
+The Secretary, acting through the Administrator of the Health Resources and Services Administration in consultation with the Director of the National Institutes of Health and the Director of the Indian Health Service, may make competitive grants to any entity for the purpose of carrying out programs to—
+
+&emsp;(1) screen individuals described under section 4(a)(1)(A)(i) or 5(a)(1)(A) of the Radiation Exposure Compensation Act (42 U.S.C. 2210 note) for cancer as a preventative health measure;
+
+&emsp;(2) provide appropriate referrals for medical treatment of individuals screened under paragraph (1) and to ensure, to the extent practicable, the provision of appropriate follow-up services;
+
+&emsp;(3) develop and disseminate public information and education programs for the detection, prevention, and treatment of radiogenic cancers and diseases; and
+
+&emsp;(4) facilitate putative applicants in the documentation of claims as described in section 5(a) of the Radiation Exposure Compensation Act (42 U.S.C. 2210 note).
+
+#### (c) Indian Health Service
+
+The programs under subsection (a) of this section shall include programs provided through the Indian Health Service or through tribal contracts, compacts, grants, or cooperative agreements with the Indian Health Service and which are determined appropriate to raising the health status of Indians.
+
+#### (d) Grant and contract authority
+
+Entities receiving a grant under subsection (b) of this section may expend the grant to carry out the purpose described in such subsection.
+
+#### (e) Health coverage unaffected
+
+Nothing in this section shall be construed to affect any coverage obligation of a governmental or private health plan or program relating to an individual referred to under subsection (b)(1) of this section.
+
+#### (f) Report to Congress
+
+Beginning on October 1 of the year following the date on which amounts are first appropriated to carry out this section and annually on each October 1 thereafter, the Secretary shall submit a report to the Committee on the Judiciary and the Committee on Health, Education, Labor, and Pensions of the Senate and to the Committee on the Judiciary and the Committee on Commerce of the House of Representatives. Each report shall summarize the expenditures and programs funded under this section as the Secretary determines to be appropriate.
+
+#### (g) Authorization of appropriations
+
+There are authorized to be appropriated for the purpose of carrying out this section $20,000,000 for fiscal year 1999 and such sums as may be necessary for each of the fiscal years 2000 through 2009.
+
+(July 1, 1944, ch. 373, title IV, §417C, as added Pub. L. 106–245, §4, July 10, 2000, 114 Stat. 508.)
+
+#### References in Text
+
+Sections 4 and 5 of the Radiation Exposure Compensation Act, referred to in subsec. (b)(1) and (4), are sections 4 and 5 of Pub. L. 101–426, which are set out as a note under section 2210 of this title.
+
+#### Change of Name
+
+Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+

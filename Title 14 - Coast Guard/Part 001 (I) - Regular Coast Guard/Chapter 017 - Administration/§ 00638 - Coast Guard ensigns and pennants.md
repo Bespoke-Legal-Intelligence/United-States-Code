@@ -18,7 +18,3 @@ Unauthorized display of such insignia is made illegal anywhere rather than only 
 
 The language is broadened to include “any person violating this section”; existing law applies to masters of offending vessels only. 81st Congress, House Report No. 557.
 
-#### Cross References
-
-Reserve and Auxiliary flags and pennants, see section 891 of this title.
-

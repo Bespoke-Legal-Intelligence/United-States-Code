@@ -39,7 +39,6 @@
 | [1224\.](Subchapter%20003%20%28III%29%20-%20State%20Mining%20and%20Mineral%20Resources%20Research%20Institutes/%C2%A7%2001224%20-%20Duties%20of%20Secretary.md) | Duties of Secretary. |
 | (a) | Consulting with other agencies; prescribing rules and regulations; furnishing advice and assistance; coordinating research. |
 | (b) | Annual ascertainment of compliance. |
-| (c) | Annual report to Congress. |
 | [1225\.](Subchapter%20003%20%28III%29%20-%20State%20Mining%20and%20Mineral%20Resources%20Research%20Institutes/%C2%A7%2001225%20-%20Effect%20on%20colleges%20and%20universities.md) | Effect on colleges and universities. |
 | [1226\.](Subchapter%20003%20%28III%29%20-%20State%20Mining%20and%20Mineral%20Resources%20Research%20Institutes/%C2%A7%2001226%20-%20Research.md) | Research. |
 | (a) | Coordination with existing programs; availability of information to public. |
@@ -138,7 +137,7 @@
 | (e) | Utilities and other facilities. |
 | (f) | Public facilities related to coal or minerals industry. |
 | (g) | Application of other provisions. |
-| [1241\.](Subchapter%20004%20%28IV%29%20-%20Abandoned%20Mine%20Reclamations/%C2%A7%2001241%20-%20Annual%20report%20to%20Congress.md) | Annual report to Congress. |
+| [1241\.](Subchapter%20004%20%28IV%29%20-%20Abandoned%20Mine%20Reclamations/%C2%A7%2001241%20-%20Omitted.md) | Omitted. |
 | [1242\.](Subchapter%20004%20%28IV%29%20-%20Abandoned%20Mine%20Reclamations/%C2%A7%2001242%20-%20Powers%20of%20Secretary%20or%20State.md) | Powers of Secretary or State. |
 | (a) | Engage in work, promulgate rules and regulations, etc., to implement and administer this subchapter. |
 | (b) | Engage in cooperative projects. |

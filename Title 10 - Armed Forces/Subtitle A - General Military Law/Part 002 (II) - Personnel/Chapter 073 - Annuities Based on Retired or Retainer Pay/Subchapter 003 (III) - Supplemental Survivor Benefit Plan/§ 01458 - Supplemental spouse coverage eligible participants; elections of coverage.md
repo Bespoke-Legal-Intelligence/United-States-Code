@@ -18,7 +18,7 @@ Elections to be voluntary.—A person may not be ordered or required to elect (o
 
 (b)
 
-Limitation on Eligibility for Certain SBP Participants Not Affected by Two-Tier Annuity Computation.—A person is not eligible to make an election under this section if (as determined by the Secretary concerned) the annuity of a spouse or former spouse beneficiary of that person under the Survivor Benefit Plan will be computed under section 1451(e) of this title. However, such a person may waive the right to have that annuity computed under section 1451(e) of this title. Any such election is irrevocable. A person making such a waiver may make an election under this section as in the case of any other participant in the Survivor Benefit Plan.
+Limitation on Eligibility for Certain SBP Participants Not Affected by Two-TierAnnuity Computation.—A person is not eligible to make an election under this section if (as determined by the Secretary concerned) the annuity of a spouse or former spouse beneficiary of that person under the Survivor Benefit Plan will be computed under section 1451(e) of this title. However, such a person may waive the right to have that annuity computed under section 1451(e) of this title. Any such election is irrevocable. A person making such a waiver may make an election under this section as in the case of any other participant in the Survivor Benefit Plan.
 
 (c)
 
@@ -116,7 +116,7 @@ Change of Former Spouse Beneficiary to Spouse or Child Beneficiary.—If a perso
 
 (i)
 
-Reinstatement of Discontinued Annuity Upon Reinstatement of SBP Annuity.—If a person who is providing an annuity for a former spouse under the Survivor Benefit Plan and a supplemental spouse annuity for that former spouse under this subchapter discontinues participation in the Survivor Benefit Plan under any provision of law and subsequently resumes participation in that Plan under any provision of law, the participation of that person in the Supplemental Survivor Benefit Plan under this chapter shall be reinstated effective on the day on which participation in the Survivor Benefit Plan resumes.
+Reinstatement of Discontinued Annuity Upon Reinstatement of SBP Annuity.—If aperson who is providing an annuity for a former spouse under the Survivor Benefit Plan and a supplemental spouse annuity for that former spouse under this subchapter discontinues participation in the Survivor Benefit Plan under any provision of law and subsequently resumes participation in that Plan under any provision of law, the participation of that person in the Supplemental Survivor Benefit Plan under this chapter shall be reinstated effective on the day on which participation in the Survivor Benefit Plan resumes.
 
 (Added Pub. L. 101–189, div. A, title XIV, §1404(a)(1), Nov. 29, 1989, 103 Stat. 1581; amended Pub. L. 102–190, div. A, title VI, §653(c)(1), Dec. 5, 1991, 105 Stat. 1388.)
 

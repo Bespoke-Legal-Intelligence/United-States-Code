@@ -26,9 +26,3 @@ This chapter, referred to in subsecs. (a) and (c), was in the original “this A
 
 Act June 25, 1948, eff. Sept. 1, 1948, substituted “United States attorney” for “district attorney” in subsec. (c). See section 541 of Title 28, Judiciary and Judicial Procedure, and Historical and Revision Notes thereunder.
 
-#### Federal Rules of Civil Procedure
-
-Application, see rule 81, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-Judgment and costs, see rule 54.
-

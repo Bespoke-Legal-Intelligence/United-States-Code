@@ -10,10 +10,6 @@ The agreements described in subsection (a) of this section shall continue in eff
 
 (Pub. L. 99–371, title II, §208, formerly title IV, §409, Aug. 4, 1986, 100 Stat. 794; renumbered title II, §209, Pub. L. 102–421, title I, §101(b)(5), (6), Oct. 16, 1992, 106 Stat. 2151; amended Pub. L. 103–73, title II, §204(g), Aug. 11, 1993, 107 Stat. 735; renumbered §208 and amended Pub. L. 105–244, title IX, §921, Oct. 7, 1998, 112 Stat. 1831.)
 
-#### Codification
-
-Section is also set out in D.C. Code, §31–1842.9.
-
 #### Prior Provisions
 
 A prior section 208 of Pub. L. 99–371 was classified to section 4358 of this title, prior to repeal by Pub. L. 105–244.

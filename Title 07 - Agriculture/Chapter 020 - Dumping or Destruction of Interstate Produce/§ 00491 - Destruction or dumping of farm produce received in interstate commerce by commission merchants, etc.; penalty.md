@@ -8,10 +8,6 @@ After June 30, 1927, any person, firm, association, or corporation receiving any
 
 Section constitutes part of section 1 of act Mar. 3, 1927. Remainder of section 1 was classified to section 492 of this title.
 
-#### Cross References
-
-Unfair conduct by commission merchants, see section 499b of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 499c, 499d, 499n of this title.

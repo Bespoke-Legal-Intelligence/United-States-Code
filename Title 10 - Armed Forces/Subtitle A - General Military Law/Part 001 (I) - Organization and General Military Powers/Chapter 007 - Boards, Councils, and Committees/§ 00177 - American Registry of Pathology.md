@@ -1,6 +1,6 @@
 ### §177. American Registry of Pathology
 
-(a)(1) There is authorized to be established a nonprofit corporation to be known as the American Registry of Pathology which shall not for any purpose be an agency or establishment of the United States Government. The American Registry of Pathology shall be subject to the provisions of this section and, to the extent not inconsistent with this section, to the District of Columbia Nonprofit Corporation Act (D.C. Code, sec. 29–501 et seq.).
+(a)(1) There is authorized to be established a nonprofit corporation to be known as the American Registry of Pathology which shall not for any purpose be an agency or establishment of the United States Government. The American Registry of Pathology shall be subject to the provisions of this section and, to the extent not inconsistent with this section, to the District ofColumbia Nonprofit Corporation Act (D.C. Code, sec. 29–501 et seq.).
 
 (2) The American Registry of Pathology shall have a Board of Members (hereinafter in this section referred to as the “Board”) consisting of not less than eleven individuals who are representatives of those professional societies and organizations which sponsor individual registries of pathology at the Armed Forces Institute of Pathology, of whom one shall be elected annually by the Board to serve as chairman. Each such sponsor shall appoint one member to the Board for a term of four years.
 
@@ -36,7 +36,7 @@
 
 #### References in Text
 
-The District of Columbia Nonprofit Corporation Act, referred to in subsec. (a)(1), (4), is Pub. L. 87–569, Aug. 6, 1962, 76 Stat. 265, as amended, which appears in chapter 5 (§29–501 et seq.) of Title 29, Corporations, of the District of Columbia Code.
+The District of Columbia Nonprofit Corporation Act, referred to in subsec. (a)(1), (4), is Pub. L. 87–569, Aug. 6, 1962, 76 Stat. 265, as amended, which is not classified to the Code.
 
 #### Amendments
 

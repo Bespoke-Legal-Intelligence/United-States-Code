@@ -14,3 +14,7 @@
 
 (Pub. L. 99–660, title IX, §922, Nov. 14, 1986, 100 Stat. 3807.)
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (b) of this section relating to the transmittal to Congress of an annual report, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the last item on page 99 of House Document No. 103–7.
+

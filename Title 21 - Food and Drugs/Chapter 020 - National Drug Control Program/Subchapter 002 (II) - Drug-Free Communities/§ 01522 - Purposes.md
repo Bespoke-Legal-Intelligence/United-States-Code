@@ -8,7 +8,7 @@ The purposes of this subchapter are—
 
 &emsp;(3) to enhance intergovernmental cooperation and coordination on the issue of substance abuse among youth;
 
-&emsp;(4) to serve as a catalyst for increased citizen participation and greater collaboration among all sectors and organizations of a community that first demonstrates a long-term commitment to reducing substance abuse among youth;
+&emsp;(4) to serve as a catalyst for increased citizen participation and greater collaborationamong all sectors and organizations of a community that first demonstrates a long-term commitment to reducing substance abuse among youth;
 
 &emsp;(5) to rechannel resources from the fiscal year 1998 Federal drug control budget to provide technical assistance, guidance, and financial support to communities that demonstrate a long-term commitment in reducing substance abuse among youth;
 

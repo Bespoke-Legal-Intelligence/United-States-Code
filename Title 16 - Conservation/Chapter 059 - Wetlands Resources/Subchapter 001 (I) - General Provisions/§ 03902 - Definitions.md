@@ -6,7 +6,7 @@ For the purpose of this chapter:
 
 &emsp;(2) The term “designated unit” means a unit of the National Wildlife Refuge System designated by the Secretary under section 3911(a)(2) of this title.
 
-&emsp;(3) The term “hydric soil” means soil that, in its undrained condition, is saturated, flooded, or ponded long enough during a growingseason to develop an anaerobic condition that supports the growth and regeneration of hydrophytic vegetation.
+&emsp;(3) The term “hydric soil” means soil that, in its undrained condition, is saturated, flooded, or ponded long enough during a growing season to develop an anaerobic condition that supports the growth and regeneration of hydrophytic vegetation.
 
 &emsp;(4) The term “hydrophytic vegetation” means a plant growing in—
 

@@ -10,11 +10,3 @@ Based on title 18, U.S.C., 1940 ed., §180 (Mar. 4, 1909, ch. 321, §94, 35 Stat
 
 “General Accounting Office” was substituted for “proper accounting officer of the Treasury”.
 
-#### Cross References
-
-Account as evidence of embezzlement, see section 3497 of this title.
-
-Accounting generally for public money, see section 643 of this title.
-
-Embezzlement of public money, see section 641 of this title.
-

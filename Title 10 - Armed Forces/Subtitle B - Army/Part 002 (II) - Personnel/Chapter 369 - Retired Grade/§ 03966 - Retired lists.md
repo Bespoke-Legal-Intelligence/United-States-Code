@@ -78,7 +78,3 @@ July 24, 1956, ch. 677, §2(f), (g), 70 Stat. 623.
 
 1958—Pub. L. 85–861 struck out provisions in subsecs. (a) and (b) which required annual publication in the official Army Register of the retired list.
 
-#### Cross References
-
-Army Register, see section 122 of this title.
-

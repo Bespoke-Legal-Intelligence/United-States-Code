@@ -2,7 +2,7 @@
 
 (a)
 
-General Authority.—If the Secretary of Transportation does not receive a certification under section 60105 of this title, the Secretarymay make an agreement with a State authority (including a municipality if the agreement applies to intrastate gas pipeline transportation) authorizing it to take necessary action. Each agreement shall—
+General Authority.—If the Secretary of Transportation does not receive a certification under section 60105 of this title, the Secretary may make an agreement with a State authority (including a municipality if the agreement applies to intrastate gas pipeline transportation) authorizing it to take necessary action. Each agreement shall—
 
 &emsp;(1) establish an adequate program for record maintenance, reporting, and inspection designed to assist compliance with applicable safety standards prescribed under this chapter; and
 

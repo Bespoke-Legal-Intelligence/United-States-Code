@@ -8,7 +8,7 @@
 
 &emsp;(3) an officer or employee of the United States or any department or agency thereof; or
 
-&emsp;(4) a person receiving any salary or compensation for services from money derived from the Treasury of the United States; to knowingly solicit any contribution within the meaning of section 301(8) of the Federal Election Campaign Act of 1971 from any other such officer, employee, or person. Any person who violates this section shall be fined under thistitle or imprisoned not more than 3 years, or both.
+&emsp;(4) a person receiving any salary or compensation for services from money derived from the Treasury of the United States; to knowingly solicit any contribution within the meaning of section 301(8) of the Federal Election Campaign Act of 1971 from any other such officer, employee, or person. Any person who violates this section shall be fined under this title or imprisoned not more than 3 years, or both.
 
 (b) The prohibition in subsection (a) shall not apply to any activity of an employee (as defined in section 7322(1) of title 5) or any individual employed in or under the United States Postal Service or the Postal Rate Commission, unless that activity is prohibited by section 7323 or 7324 of such title.
 
@@ -45,10 +45,6 @@ Amendment by Pub. L. 103–94 effective 120 days after Oct. 6, 1993, but not to 
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–187 effective Jan. 8, 1980, see section 301(a) of Pub. L. 96–187, set out as a note under section 431 of Title 2, The Congress.
-
-#### Cross References
-
-Place of solicitation, see section 607 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -20,7 +20,3 @@ R.S. 1296 (less 1st 9 words).
 
 The words “members of the Air Force” are substituted for the words “troops of the United States”.
 
-#### Cross References
-
-Uniforms, general military law provisions, see section 771 et seq. of this title.
-

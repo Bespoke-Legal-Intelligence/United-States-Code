@@ -24,7 +24,11 @@ Minor changes were made in phraseology.
 
 1955—Act June 1, 1955, included in section catchline and in text, provision for penalties for threats against the President-elect and the Vice President.
 
+#### Short Title of 2000 Amendment
+
+Pub. L. 106–544, §1, Dec. 19, 2000, 114 Stat. 2715, provided that: “This Act \[amending sections 879, 3056 and 3486 of this title, repealing section 3486A of this title, and enacting provisions set out as notes under section 3056 of this title, section 551 of Title 5, Government Organization and Employees, and section 566 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Presidential Threat Protection Act of 2000’.”
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 115, 879, 3056, 4247 of this title; title 8 section 1227.
+This section is referred to in sections 115, 879, 3056, 3486, 4247 of this title; title 8 section 1227.
 

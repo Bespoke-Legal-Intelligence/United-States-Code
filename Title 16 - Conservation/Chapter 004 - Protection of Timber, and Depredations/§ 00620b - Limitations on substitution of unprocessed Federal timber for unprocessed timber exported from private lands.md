@@ -36,11 +36,11 @@ Applicability.—In the case of the purchase by a person of unprocessed timber o
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), no person may, beginning 21 days after August 20, 1990, purchase from any other person unprocessed timber originating from Federal landswest of the 100th meridian in the contiguous 48 States if such person would be prohibited from purchasing such timber directly from a department or agency of the United States. Acquisitions of western red cedar which are domestically processed into finished products to be sold into domestic or international markets are exempt from the prohibition contained in this paragraph.
+&emsp;Except as provided in paragraph (2), no person may, beginning 21 days after August 20, 1990, purchase from any other person unprocessed timber originating from Federal lands west of the 100th meridian in the contiguous 48 States if such person would be prohibited from purchasing such timber directly from a department or agency of the United States. Acquisitions of western red cedar which are domestically processed into finished products to be sold into domestic or international markets are exempt from the prohibition contained in this paragraph.
 
 #### (2) Exceptions
 
-&emsp;(A) The Secretary of Agriculture shall, as soon as practicable but not later than 9 months after August 20, 1990, establish, by rule, a limited amount of unprocessed timber originating from Federal lands described in subparagraph (B) which may be purchased by a person otherwise covered by the prohibition contained in paragraph (1). Such limit shall equal—
+&emsp;(A) The Secretary of Agriculture shall, as soon as practicable but not later than 9 months after August 20, 1990, establish, byrule, a limited amount of unprocessed timber originating from Federal lands described in subparagraph (B) which may be purchased by a person otherwise covered by the prohibition contained in paragraph (1). Such limit shall equal—
 
 &emsp;&emsp;(i) the amount of such timber acquired by such person, based on the higher of the applicant's actual timber purchasing receipts or the appropriate Federal agency's records, during fiscal years 1988, 1989, and 1990, divided by 3, or
 

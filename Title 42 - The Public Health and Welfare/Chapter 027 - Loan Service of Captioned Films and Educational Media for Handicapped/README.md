@@ -2,7 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| 2491 to 2494. Repealed. |  |
+| 2491 to 2494. Repealed. |  |
 | [2495\.](%C2%A7%2002495%20-%20National%20Advisory%20Committee%20on%20Education%20of%20the%20Deaf.md) | National Advisory Committee on Education of the Deaf. |
 | (a) | Establishment; number and appointment of members; representation of interests; Chairman; term of office; vacancies; restriction on term. |
 | (b) | Functions of Advisory Committee. |

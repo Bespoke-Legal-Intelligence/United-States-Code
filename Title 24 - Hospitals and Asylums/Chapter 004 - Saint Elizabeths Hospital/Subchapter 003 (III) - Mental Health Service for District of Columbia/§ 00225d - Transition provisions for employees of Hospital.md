@@ -14,11 +14,11 @@ Employees of the Hospital directly affected by the assumption of programs and fu
 
 (1) While on the retention list or the District or Federal agency reemployment priority list, the system implementation plan shall provide to Hospital employees a right-of-first-refusal to District employment in positions for which such employees may qualify, (A) created under the system implementation plan in the comprehensive District mental health system, (B) available under the Department of Human Services of the District, and (C) available at the District of Columbia General Hospital.
 
-(2) In accordance with Federal regulations, the Secretary shall establish retention registers of Hospital employees and provide such retention registers to the District government. Employment in positions identified in the system implementation plan under subsection (b) of this section shall be offered to Hospital employees by the District government according to each such employee's relative standing on the retention registers.
+(2) In accordance with Federal regulations, the Secretary shall establish retention registers ofHospital employees and provide such retention registers to the District government. Employment in positions identified in the system implementation plan under subsection (b) of this section shall be offered to Hospital employees by the District government according to each such employee's relative standing on the retention registers.
 
 (3) Employee appeals concerning the retention registers established by the Secretary shall be in accordance with Federal regulations.
 
-(4) Employee appeals concerning employment offers by the District shall be in accordance with the District of Columbia Government Comprehensive Merit Personnel Act of 1978 \[D.C. Code, §1–601 et seq.\].
+(4) Employee appeals concerning employment offers by the District shall be in accordance with the District of Columbia Government Comprehensive Merit Personnel Act of 1978.
 
 #### (d) Federal agency reemployment priority list; right-of-first-refusal; Department of Health and Human Services; separation; maintenance of lists; District agency reemployment priority list; refusal of employment offer; acceptance of nontemporary employment
 
@@ -28,7 +28,7 @@ Employees of the Hospital directly affected by the assumption of programs and fu
 
 (3) A Federal agency reemployment priority list and a displaced employees program shall be maintained for employees of the Hospital by the Secretary and the Office of Personnel Management in accordance with Federal regulations for Federal employees separated by reduction-in-force procedures.
 
-(4) The Mayor shall create and maintain, in consultation with the Secretary, a District agency reemployment priority list of those employees of the Hospital on the retention registers who are not offered employment under subsection (c) of this section. Individuals who refuse an offer of employment under subsection (c) of this section shall be ineligible for inclusion on the District agency reemployment priority list. Such reemployment priority list shall be administered in accordance with procedures established pursuant to the District of Columbia Government Comprehensive Merit Personnel Act of 1978 (D.C. Law 2–139) \[D.C. Code, §1–601.1 et seq.\].
+(4) The Mayor shall create and maintain, in consultation with the Secretary, a District agency reemployment priority list of those employees of the Hospital on the retention registers who are not offered employment under subsection (c) of this section. Individuals who refuse an offer of employment under subsection (c) of this section shall be ineligible for inclusion on the District agency reemployment priority list. Such reemployment priority list shall be administered in accordance with procedures established pursuant to the District of Columbia Government Comprehensive Merit Personnel Act of 1978 (D.C. Law 2–139).
 
 (5) Acceptance of nontemporary employment as a result of referral from any retention list or agency reemployment priority list shall automatically terminate an individual's severance pay as of the effective date of such employment.
 
@@ -40,7 +40,7 @@ Any contract entered into by the District of Columbia for the provision of menta
 
 #### References in Text
 
-The District of Columbia Government Comprehensive Merit Personnel Act of 1978, referred to in subsecs. (c)(4) and (d)(4), is D.C. Law 2–139, Mar. 3, 1979, which appears in chapter 6 (§1–601.1 et seq.) of Title 1, Administration, of the District of Columbia Code.
+The District of Columbia Government Comprehensive Merit Personnel Act of 1978, referred to in subsecs. (c)(4) and (d)(4), is D.C. Law 2–139, Mar. 3, 1979, as amended, which is not classified to the Code.
 
 #### Continued Coverage Under Certain Federal Employee Benefits Programs for Certain Employees of Saint Elizabeths Hospital
 

@@ -76,9 +76,13 @@ Amendment by act Oct. 26, 1949, effective Oct. 26, 1949, see section 16(a) of ac
 
 Acts Oct. 26, 1949, ch. 736, §4, 63 Stat. 911, and Oct. 28, 1949, ch. 782, cited as a credit to this section, were repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, §8, 80 Stat. 632, 655.
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which reports required under paragraphs (1) and (3) of subsec. (d) of this section are listed on page 124), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+
 #### Transfer of Functions
 
-Functions relating to enforcement and administration of equal pay provisions vested by subsecs. (d)(1) and (f) of this section in Secretary of Labor and Civil Service Commission transferred to Equal Employment Opportunity Commission by Reorg. Plan No. 1 of 1978, §1, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
+Functions relating to enforcement and administration of equal pay provisions vested by subsecs. (d)(1) and (f) of this section in Secretary of Labor and CivilService Commission transferred to Equal Employment Opportunity Commission by Reorg. Plan No. 1 of 1978, §1, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
 
 “Director of the Office of Personnel Management” substituted for “Civil Service Commission” in subsec. (f), pursuant to Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred all functions vested by statute in United States Civil Service Commission to Director of the Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
 

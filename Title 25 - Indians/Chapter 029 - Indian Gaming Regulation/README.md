@@ -17,7 +17,6 @@
 | [2706\.](%C2%A7%2002706%20-%20Powers%20of%20Commission.md) | Powers of Commission. |
 | (a) | Budget approval; civil fines; fees; subpoenas; permanent orders. |
 | (b) | Monitoring; inspection of premises; investigations; access to records; mail; contracts; hearings; oaths; regulations. |
-| (c) | Report. |
 | [2707\.](%C2%A7%2002707%20-%20Commission%20staffing.md) | Commission staffing. |
 | (a) | General Counsel. |
 | (b) | Staff. |
@@ -78,7 +77,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 712e, 941<i>l</i>, 1708, 1775b of this title; title 31 section 5312.
+This chapter is referred to in sections 81, 712e, 941<i>l</i>, 1708, 1775b, 4303 of this title; title 31 section 5312.
 
 
 ---

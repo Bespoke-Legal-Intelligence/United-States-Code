@@ -8,7 +8,7 @@ The legislature shall be the judge of the selection and qualification of its own
 
 1998—Pub. L. 105–291 substituted “a simple majority” for “eleven”.
 
-1968—Pub. L. 90–497 inserted a quorum requirement, provided that a quorum of the legislature consist ofeleven of its members, and made presence of a quorum requisite to passage of a law.
+1968—Pub. L. 90–497 inserted a quorum requirement, provided that a quorum of the legislature consist of eleven of its members, and made presence of a quorum requisite to passage of a law.
 
 #### Effective Date of 1968 Amendment
 

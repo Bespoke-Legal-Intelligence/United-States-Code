@@ -36,9 +36,9 @@ Any of the district courts of the United States within the jurisdiction of which
 
 Each manufacturer of manufactured homes shall submit the building plans for every model of such manufactured homes to the Secretary or his designee for the purpose of inspection under this section. The manufacturer must certify that each such building plan meets the Federal construction and safety standards in force at that time before the model involved is produced.
 
-#### (f) Records, reports and information from manufacturers, distributors and dealers of manufactured homes; inspection and examination of relevant books, papers, records and documents by designated person
+#### (f) Records, reports and information from manufacturers, distributors and retailers of manufactured homes; inspection and examination of relevant books, papers, records and documents by designated person
 
-Each manufacturer, distributor, and dealer of manufactured homes shall establish and maintain such records, make such reports, and provide such information as the Secretary may reasonably require to enable him to determine whether such manufacturer, distributor, or dealer has acted or is acting in compliance with this chapter and Federal manufactured home construction and safety standards prescribed pursuant to this chapter and shall, upon request of a person duly designated by the Secretary, permit such person to inspect appropriate books, papers, records, and documents relevant to determining whether such manufacturer, distributor, or dealer has acted or is acting in compliance with this chapter and manufactured home construction and safety standards prescribed pursuant to this chapter.
+Each manufacturer, distributor, and retailer of manufactured homes shall establish and maintain such records, make such reports, and provide such information as the Secretary may reasonably require to enable him to determine whether such manufacturer, distributor, or retailer has acted or is acting in compliance with this chapter and Federal manufactured home construction and safety standards prescribed pursuant to this chapter and shall, upon request of a person duly designated by the Secretary, permit such person to inspect appropriate books, papers, records, and documents relevant to determining whether such manufacturer, distributor, or retailer has acted or is acting in compliance with this chapter and manufactured home construction and safety standards prescribed pursuant to this chapter.
 
 #### (g) Performance and technical data from manufacturer; persons required to receive notification of data
 
@@ -52,7 +52,7 @@ Each manufacturer of manufactured homes shall provide to the Secretary such perf
 
 All information reported to or otherwise obtained by the Secretary or his representative pursuant to subsection (b), (c), (f), or (g) of this section which contains or relates to a trade secret, or which, if disclosed, would put the person furnishing such information at a substantial competitive disadvantage, shall be considered confidential, except that such information may be disclosed to other officers or employees concerned with carrying out this chapter or when relevant in any proceeding under this chapter. Nothing in this section shall authorize the withholding of information by the Secretary or any officer or employee under his control from the duly authorized committees of the Congress.
 
-(Pub. L. 93–383, title VI, §614, Aug. 22, 1974, 88 Stat. 707; Pub. L. 96–399, title III, §308(c)(4), Oct. 8, 1980, 94 Stat. 1641; Pub. L. 97–35, title III, §339B(c), Aug. 13, 1981, 95 Stat. 417.)
+(Pub. L. 93–383, title VI, §614, Aug. 22, 1974, 88 Stat. 707; Pub. L. 96–399, title III, §308(c)(4), Oct. 8, 1980, 94 Stat. 1641; Pub. L. 97–35, title III, §339B(c), Aug. 13, 1981, 95 Stat. 417; Pub. L. 106–569, title VI, §603(b)(2), Dec. 27, 2000, 114 Stat. 2999.)
 
 #### Codification
 
@@ -60,7 +60,13 @@ References to “mobile homes”, wherever appearing in text, changed to “manu
 
 #### Amendments
 
+2000—Subsec. (f). Pub. L. 106–569 substituted “retailer” for “dealer” wherever appearing.
+
 1980—Subsecs. (a), (c)(5), (f), (g). Pub. L. 96–399 substituted “manufactured home” for “mobile home” wherever appearing.
+
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–569 effective Dec. 27, 2000, except that amendment has no effect on any order or interpretative bulletin issued under this chapter and published as a proposed rule pursuant to 5 U.S.C. 553 on or before Dec. 27, 2000, see section 612 of Pub. L. 106–569, set out as a note under section 5401 of this title.
 
 #### Section Referred to in Other Sections
 

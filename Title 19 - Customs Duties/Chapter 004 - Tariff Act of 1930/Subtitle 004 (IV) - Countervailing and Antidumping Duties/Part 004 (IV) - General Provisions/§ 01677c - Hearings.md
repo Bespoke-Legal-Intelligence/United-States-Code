@@ -8,7 +8,7 @@
 
 #### (2) Exception
 
-&emsp;If investigations are initiated under part I and part II of this subtitle regarding the samemerchandise from the same country within 6 months of each other (but before a final determination is made in either investigation), the holding of a hearing by the Commission in the course of one of the investigations shall be treated as compliance with paragraph (1) for both investigations, unless the Commission considers that special circumstances require that a hearing be held in the course of each of the investigations. During any investigation regarding which the holding of a hearing is waived under this paragraph, the Commission shall allow any party to submit such additional written comment as it considers relevant.
+&emsp;If investigations are initiated under part I and part II of this subtitle regarding the same merchandise from the same country within 6 months of each other (but before a final determination is made in either investigation), the holding of a hearing by the Commission in the course of one of the investigations shall be treated as compliance with paragraph (1) for both investigations, unless the Commission considers that special circumstances require that a hearing be held in the course of each of the investigations. During any investigation regarding which the holding of a hearing is waived under this paragraph, the Commissionshall allow any party to submit such additional written comment as it considers relevant.
 
 #### (b) Procedures
 

@@ -1,10 +1,10 @@
 ### §3161. Time limits and exclusions
 
-(a) In any case involving a defendant charged with an offense, the appropriate judicial officer, at the earliest practicable time, shall, after consultation with the counsel for the defendant and the attorney for the Government, set the case for trial on a day certain, or list it for trial on a weekly or other short-term trial calendar at a place within the judicial district, so as to assure a speedy trial.
+(a) In any case involving a defendant charged with an offense, the appropriate judicial officer,at the earliest practicable time, shall, after consultation with the counsel for the defendant and the attorney for the Government, set the case for trial on a day certain, or list it for trial on a weekly or other short-term trial calendar at a place within the judicial district, so as to assure a speedy trial.
 
 (b) Any information or indictment charging an individual with the commission of an offense shall be filed within thirty days from the date on which such individual was arrested or served with a summons in connection with such charges. If an individual has been charged with a felony in a district in which no grand jury has been in session during such thirty-day period, the period of time for filing of the indictment shall be extended an additional thirty days.
 
-(c)(1) In any case in which a plea of not guilty is entered, the trial of a defendant charged in an information or indictment with the commission of an offense shall commence within seventy days from the filing date (and making public) of the information or indictment, or from the date the defendant has appeared before a judicial officer of the court in which such charge is pending, whichever date last occurs. If a defendant consents in writing to be tried before a magistrate on a complaint, the trial shall commence within seventy days from the date of such consent.
+(c)(1) In any case in which a plea of not guilty is entered, the trial of a defendant charged in an information or indictment with the commission of an offense shall commence within seventy days from the filing date (and making public) of the information or indictment, or from the date the defendant has appeared before a judicial officer of the court in which such charge is pending, whichever date last occurs. If a defendant consents in writing to be tried before a magistrate judge on a complaint, the trial shall commence within seventy days from the date of such consent.
 
 (2) Unless the defendant consents in writing to the contrary, the trial shall not commence less than thirty days from the date on which the defendant first appears through counsel or expressly waives counsel and elects to proceed pro se.
 
@@ -24,9 +24,9 @@
 
 &emsp;&emsp;(A) delay resulting from any proceeding, including any examinations, to determine the mental competency or physical capacity of the defendant;
 
-&emsp;&emsp;(B) delay resulting from any proceeding, including any examination of the defendant, pursuant to section 2902 of title 28, United States Code;
+&emsp;&emsp;(B) delay resulting from any proceeding, including any examination of the defendant, pursuant to section 2902 <sup>1</sup> of title 28, United States Code;
 
-&emsp;&emsp;(C) delay resulting from deferral of prosecution pursuant to section 2902 of title 28, United States Code;
+&emsp;&emsp;(C) delay resulting from deferral of prosecution pursuant to section 2902 <sup>1</sup> of title 28, United States Code;
 
 &emsp;&emsp;(D) delay resulting from trial with respect to other charges against the defendant;
 
@@ -50,7 +50,7 @@
 
 &emsp;(4) Any period of delay resulting from the fact that the defendant is mentally incompetent or physically unable to stand trial.
 
-&emsp;(5) Any period of delay resulting from the treatment of the defendant pursuant to section 2902 of title 28, United States Code.
+&emsp;(5) Any period of delay resulting from the treatment of the defendant pursuant to section 2902 <sup>1</sup> of title 28, United States Code.
 
 &emsp;(6) If the information or indictment is dismissed upon motion of the attorney for the Government and thereafter a charge is filed against the defendant for the same offense, or any offense required to be joined with that offense, any period of delay from the date the charge was dismissed to the date the time limitation would commence to run as to the subsequent charge had there been no previous charge.
 
@@ -62,7 +62,7 @@
 
 &emsp;&emsp;(i) Whether the failure to grant such a continuance in the proceeding would be likely to make a continuation of such proceeding impossible, or result in a miscarriage of justice.
 
-&emsp;&emsp;(ii) Whether the case is so unusual or so complex, due to the number of defendants,the nature of the prosecution, or the existence of novel questions of fact or law, that it is unreasonable to expect adequate preparation for pretrial proceedings or for the trial itself within the time limits established by this section.
+&emsp;&emsp;(ii) Whether the case is so unusual or so complex, due to the number of defendants, the nature of the prosecution, or the existence of novel questions of fact or law, that it is unreasonable to expect adequate preparation for pretrial proceedings or for the trial itself within the time limits established by this section.
 
 &emsp;&emsp;(iii) Whether, in a case in which arrest precedes indictment, delay in the filing of the indictment is caused because the arrest occurs at a time such that it is unreasonable to expect return and filing of the indictment within the period specified in section 3161(b), or because the facts upon which the grand jury must base its determination are unusual or complex.
 
@@ -72,7 +72,7 @@
 
 &emsp;(9) Any period of delay, not to exceed one year, ordered by a district court upon an application of a party and a finding by a preponderance of the evidence that an official request, as defined in section 3292 of this title, has been made for evidence of any such offense and that it reasonably appears, or reasonably appeared at the time the request was made, that such evidence is, or was, in such foreign country.
 
-(i) If trial did not commence within the time limitation specified in section 3161 because the defendant had entered a plea of guilty or nolo contendere subsequently withdrawn to any or all charges in an indictment or information, the defendant shall be deemed indicted with respect to all charges therein contained within the meaning of section 3161, on the day the order permitting withdrawal of the plea becomes final.
+(i) If trial did not commence within the time limitation specified in section 3161 because the defendant had entered a plea of guilty or nolo contendere subsequently withdrawn to any or all charges in an indictment or information, the defendant shall be deemed indicted with respect to all charges therein contained within themeaning of section 3161, on the day the order permitting withdrawal of the plea becomes final.
 
 (j)(1) If the attorney for the Government knows that a person charged with an offense is serving a term of imprisonment in any penal institution, he shall promptly—
 
@@ -90,7 +90,11 @@
 
 (2) If the defendant is absent (as defined by subsection (h)(3)) on the day set for trial, and the defendant's subsequent appearance before the court on a bench warrant or other process or surrender to the court occurs not more than 21 days after the day set for trial, the time limit required by subsection (c), as extended by subsection (h), shall be further extended by 21 days.
 
-(Added Pub. L. 93–619, title I, §101, Jan. 3, 1975, 88 Stat. 2076; amended Pub. L. 96–43, §§2–5, Aug. 2, 1979, 93 Stat. 327, 328; Pub. L. 98–473, title II, §1219, Oct. 12, 1984, 98 Stat. 2167; Pub. L. 100–690, title VI, §6476, Nov. 18, 1988, 102 Stat. 4380.)
+(Added Pub. L. 93–619, title I, §101, Jan. 3, 1975, 88 Stat. 2076; amended Pub. L. 96–43, §§2–5, Aug. 2, 1979, 93 Stat. 327, 328; Pub. L. 98–473, title II, §1219, Oct. 12, 1984, 98 Stat. 2167; Pub. L. 100–690, title VI, §6476, Nov. 18, 1988, 102 Stat. 4380; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
+
+#### References in Text
+
+Section 2902 of title 28, referred to in subsec. (h)(1)(B), (C), (5), was repealed by Pub. L. 106–310, div. B, title XXXIV, §3405(c)(1), Oct. 17, 2000, 114 Stat. 1221.
 
 #### Amendments
 
@@ -118,7 +122,7 @@ Subsec. (h)(8)(B)(iv). Pub. L. 96–43, §5(c), added cl. (iv).
 
 #### Change of Name
 
-Reference to United States magistrate or to magistrate deemed to refer to United States magistrate judge pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+Words “magistrate judge” substituted for “magistrate” in subsec. (c)(1) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 1984 Amendment
 
@@ -135,4 +139,6 @@ Section 1 of Pub. L. 93–619 provided: “That this Act \[enacting this chapter
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 3162, 3163, 3164, 3165, 3166, 3167, 3174 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

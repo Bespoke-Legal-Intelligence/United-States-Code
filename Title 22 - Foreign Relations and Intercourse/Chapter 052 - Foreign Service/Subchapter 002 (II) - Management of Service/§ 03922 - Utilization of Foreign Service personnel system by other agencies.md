@@ -26,7 +26,7 @@
 
 > shall in the case of their respective agencies exercise the functions vested in the Secretary by this chapter.
 
-(Pub. L. 96–465, title I, §202, Oct. 17, 1980, 94 Stat. 2078; Pub. L. 97–241, title III, §303(b), Aug. 24, 1982, 96 Stat. 291; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1335(k)(1), title XIV, §1422(b)(4)(A), Oct. 21, 1998, 112 Stat. 2681–789, 2681–793; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §332\], Nov. 29, 1999, 113 Stat. 1536, 1501A–439.)
+(Pub. L. 96–465, title I, §202, Oct. 17, 1980, 94 Stat. 2078; Pub. L. 97–241, title III, §303(b), Aug. 24, 1982, 96 Stat. 291; Pub. L. 105–277, div. G, subdiv.A, title XIII, §1335(k)(1), title XIV, §1422(b)(4)(A), Oct. 21, 1998, 112 Stat. 2681–789, 2681–793; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §332\], Nov. 29, 1999, 113 Stat. 1536, 1501A–439.)
 
 #### References in Text
 

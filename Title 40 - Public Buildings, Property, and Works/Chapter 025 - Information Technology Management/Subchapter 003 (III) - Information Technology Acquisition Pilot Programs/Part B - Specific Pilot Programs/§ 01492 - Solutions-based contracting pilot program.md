@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Administrator may authorize the heads of any of the executive agencies, in accordance with subsection (d)(2) of this section, to carry out a pilot program to test the feasibility of using solutions-based contracting for acquisition of information technology.
+The Administrator may authorize the heads of any of the executive agencies, in accordance with subsection (d) of this section, to carry out a pilot program to test the feasibility of using solutions-based contracting for acquisition of information technology.
 
 #### (b) Solutions-based contracting described
 
@@ -82,7 +82,7 @@ The Administrator shall require use of a process with the following aspects for 
 
 &emsp;&emsp;(A) Identification of the most qualified source or sources, primarily on the basis of the oral proposals, presentations, and discussions, and written proposals submitted in accordance with paragraph (7).
 
-&emsp;&emsp;(B) Conduct for 30 to 60 days (or a longer period, if approved by the Administrator) of a program definition phase (funded, in the case of the source ultimately awarded the contract, by the Federal Government)—
+&emsp;&emsp;(B) Conduct for 30 to 60 days (or a longer period, if approved by the Administrator) of a program definition phase—
 
 &emsp;&emsp;&emsp;(i) during which the selected source or sources, in consultation with one or more intended users, develops a conceptual system design and technical approach, defines logical phases for the project, and estimates the total cost and the cost for each phase; and
 
@@ -102,27 +102,13 @@ The Administrator shall require use of a process with the following aspects for 
 
 &emsp;Application of a standard for awarding a contract within 105 to 120 days after issuance of the solicitation, except that the Administrator may approve the application of a longer standard period.
 
-#### (d) Pilot program design
+#### (d) Pilot program projects
 
-#### (1) Joint public-private working group
+The Administrator shall authorize to be carried out under the pilot program—
 
-&emsp;The Administrator, in consultation with the Administrator for the Office of Information and Regulatory Affairs, shall establish a joint working group of Federal Government personnel and representatives of the information technology industry to design a plan for conduct of any pilot program carried out under this section.
+&emsp;(1) not more than 10 projects, each of which has an estimated cost of at least $25,000,000 and not more than $100,000,000; and
 
-#### (2) Content of plan
-
-&emsp;The plan shall provide for use of solutions-based contracting in the Department of Defense and not more than two other executive agencies for a total of—
-
-&emsp;&emsp;(A) not more than 10 projects, each of which has an estimated cost of between $25,000,000 and $100,000,000; and
-
-&emsp;&emsp;(B) not more than 10 projects, each of which has an estimated cost of between $1,000,000 and $5,000,000, to be set aside for small business concerns.
-
-#### (3) Complexity of projects
-
-&emsp;(A) Subject to subparagraph (C), each acquisition project under the pilot program shall be sufficiently complex to provide for meaningful evaluation of the use of solutions-based contracting for acquisition of information technology for executive agencies.
-
-&emsp;(B) In order for an acquisition project to satisfy the requirement in subparagraph (A), the solution for attainment of the executive agency's objectives under the project should not be obvious, but rather shall involve a need for some innovative development and systems integration.
-
-&emsp;(C) An acquisition project should not be so extensive or lengthy as to result in unduedelay in the evaluation of the use of solutions-based contracting.
+&emsp;(2) not more than 10 projects for small business concerns, each of which has an estimated cost of at least $1,000,000 and not more than $5,000,000.
 
 #### (e) Monitoring by GAO
 
@@ -132,9 +118,15 @@ The Comptroller General of the United States shall—
 
 &emsp;(2) submit to Congress periodic reports containing the views of the Comptroller General on the activities, results, and findings under the pilot program.
 
-(Pub. L. 104–106, div. E, title LIII, §5312, Feb. 10, 1996, 110 Stat. 692; Pub. L. 105–85, div. A, title VIII, §852, Nov. 18, 1997, 111 Stat. 1851.)
+(Pub. L. 104–106, div. E, title LIII, §5312, Feb. 10, 1996, 110 Stat. 692; Pub. L. 105–85, div. A, title VIII, §852, Nov. 18, 1997, 111 Stat. 1851; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §809\], Oct. 30, 2000, 114 Stat. 1654, 1654A–208.)
 
 #### Amendments
+
+2000—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title VIII, §809(a)(1)\], substituted “subsection (d)” for “subsection (d)(2)”.
+
+Subsec. (c)(9)(B). Pub. L. 106–398, §1 \[\[div. A\], title VIII, §809(b)\], substituted “program definition phase—” for “program definition phase (funded, in the case of the source ultimately awarded the contract, by the Federal Government)—” in introductory provisions.
+
+Subsec. (d). Pub. L. 106–398, §1 \[\[div. A\], title VIII, §809(a)(2)\], added subsec. (d) and struck out former subsec. (d) which required the Administrator to establish a joint working group of Federal Government personnel and representatives of the information technology industry to design a plan for conduct of any pilot program carried out under this section.
 
 1997—Subsec. (c)(9)(A). Pub. L. 105–85, §852(a)(1), substituted “or sources,” for “, and ranking of alternative sources,”.
 

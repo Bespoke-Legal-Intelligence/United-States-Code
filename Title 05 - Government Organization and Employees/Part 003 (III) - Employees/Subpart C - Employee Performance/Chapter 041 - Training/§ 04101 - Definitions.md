@@ -66,7 +66,7 @@ In paragraph (6)(C), the word “agency” is omitted as unnecessary and to avoi
 
 In paragraph (6)(E), the words “individuals other than civilian or military personnel of the Government” are substituted for “an individual not a civilian or military officer or employee of the Government of the United States or of the municipal government of the District of Columbia” to conform to paragraph (5).
 
-The definition of “Commission” in former section 2302(4) is omitted as unnecessary as the title “CivilService Commission” is fully set out the first time it is used in each section of this chapter.
+The definition of “Commission” in former section 2302(4) is omitted as unnecessary as the title “Civil Service Commission” is fully set out the first time it is used in each section of this chapter.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -89,14 +89,6 @@ For transfer of Environmental Science Services Administration to National Oceani
 #### Delegation of Functions
 
 Functions of President under subsec. (6)(B) of this section delegated to head of each agency concerned, see section 402 of Ex. Ord. No. 11348, Apr. 20, 1967, 32 F.R. 6335, set out as a note under section 4103 of this title.
-
-#### Cross References
-
-Executive departments, see section 101 of this title.
-
-Government corporation, see section 103 of this title.
-
-Independent establishment, see section 104 of this title.
 
 #### Section Referred to in Other Sections
 

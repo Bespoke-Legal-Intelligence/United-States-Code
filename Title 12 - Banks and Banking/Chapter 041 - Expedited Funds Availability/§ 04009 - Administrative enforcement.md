@@ -16,7 +16,7 @@ Compliance with the requirements imposed under this chapter, including regulatio
 
 &emsp;(3) the Federal Credit Union Act \[12 U.S.C. 1751 et seq.\], by the National Credit Union Administration Board with respect to any Federal credit union or insured credit union.
 
-> The terms used in paragraph (1) that are not defined in this chapter or otherwise defined in section 3(s) of the Federal Deposit Insurance Act (12 U.S.C. 1813(s)) shall have the meaning given to them in section 1(b) of the International Banking Act of 1978 (12 U.S.C. 3101).
+> The terms used in paragraph (1) that are not defined in this chapter or otherwise defined in section 3(s) of the Federal Deposit Insurance Act\(12 U.S.C. 1813(s)) shall have the meaning given to them in section 1(b) of the International Banking Act of 1978 (12 U.S.C. 3101).
 
 #### (b) Additional powers
 

@@ -26,11 +26,11 @@ The Commissioner, in accordance with the provisions of this part, may make grant
 
 The term “reservation” includes Indian reservations, public domain Indian allotments, former Indian reservations in Oklahoma, and land held by incorporated Native groups, regional corporations, and village corporations under the provisions of the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\].
 
-(Pub. L. 93–112, title I, §121, as added Pub. L. 105–220, title IV, §404, Aug. 7, 1998, 112 Stat. 1166;amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §402(b)(10)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–413.)
+(Pub. L. 93–112, title I, §121, as added Pub. L. 105–220, title IV, §404, Aug. 7, 1998, 112 Stat. 1166; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §402(b)(10)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–413.)
 
 #### References in Text
 
-The Alaska Native Claims Settlement Act, referred to in subsec. (c), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in subsec. (c), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat.688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 #### Prior Provisions
 

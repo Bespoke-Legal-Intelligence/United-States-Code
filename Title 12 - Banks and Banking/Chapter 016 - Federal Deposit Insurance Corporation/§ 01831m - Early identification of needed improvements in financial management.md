@@ -4,7 +4,7 @@
 
 #### (1) Report required
 
-&emsp;Each insured depository institution shall submit an annual report to the Corporation, the appropriate Federal banking agency, andany appropriate State bank supervisor (including any State bank supervisor of a host State).
+&emsp;Each insured depository institution shall submit an annual report to the Corporation, the appropriate Federal banking agency, and any appropriate State bank supervisor (including any State bank supervisor of a host State).
 
 #### (2) Contents of report
 
@@ -94,7 +94,7 @@ Each insured depository institution shall prepare—
 
 #### (B) Duties
 
-&emsp;&emsp;An independent audit committee's duties shall include reviewing with managementand the independent public accountant the basis for the reports issued under subsections (b)(2), (c), and (d) of this section.
+&emsp;&emsp;An independent audit committee's duties shall include reviewing with management and the independent public accountant the basis for the reports issued under subsections (b)(2), (c), and (d) of this section.
 
 #### (C) Criteria applicable to committees of large insured depository institutions
 
@@ -230,10 +230,6 @@ This section shall not apply with respect to any fiscal year of any insured depo
 
 (Sept. 21, 1950, ch. 967, §2\[36\], as added Pub. L. 102–242, title I, §112(a), Dec. 19, 1991, 105 Stat. 2242; amended Pub. L. 102–550, title XVI, §1603(b)(3), Oct. 28, 1992, 106 Stat. 4079; Pub. L. 103–325, title III, §314, Sept. 23, 1994, 108 Stat. 2221; Pub. L. 104–208, div. A, title II, §§2301, 2704(d)(14)(Z), Sept. 30, 1996, 110 Stat. 3009–419, 3009–494.)
 
-#### Amendment of Subsection (i)(3)
-
-<i>Pub. L. 104–208, div. A, title II, §2704(c), (d)(14)(Z), Sept. 30, 1996, 110 Stat. 3009–487, 3009–494, provided that, effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, subsection (i)(3) of this section is amended by striking “affected deposit insurance fund” and inserting “Deposit Insurance Fund”.</i>
-
 #### Amendments
 
 1996—Subsec. (a)(3). Pub. L. 104–208, §2301(c), inserted at end “Notwithstanding the preceding sentence, the Corporation and the appropriate Federal banking agencies may designate certain information as privileged and confidential and not available to the public.”
@@ -251,6 +247,8 @@ Attestation requirements—Any attestation pursuant to paragraph (1) shall be ma
 Subsec. (g)(1)(A). Pub. L. 104–208, §2301(b)(1), inserted “, except as provided in subparagraph (D)” after “management of the institution”.
 
 Subsec. (g)(1)(D). Pub. L. 104–208, §2301(b)(2), added subpar. (D).
+
+Subsec. (i)(3). Pub. L. 104–208, §2704(d)(14)(Z), which directed substitution of “Deposit Insurance Fund” for “affected deposit insurance fund”, was not executed. See Effective Date of 1996 Amendment note below.
 
 1994—Subsec. (g)(2)(D). Pub. L. 103–325, §314(b), added subpar. (D).
 

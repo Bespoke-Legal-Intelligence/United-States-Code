@@ -24,10 +24,6 @@ The words “in the competitive service” are added for clarity. The reference 
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
-#### Cross References
-
-Restriction on contract for services, see section 490c of Title 40, Public Buildings, Property, and Works.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 2302, 3320 of this title; title 2 section 1316a; title 3 section 115; title 22 section 1438.

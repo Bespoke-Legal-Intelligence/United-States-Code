@@ -16,9 +16,3 @@ Section was not enacted as part of the Puerto Rican Federal Relations Act which 
 
 “Puerto Rico” substituted in text for “Porto Rico” pursuant to act May 17, 1932, which is classified to section 731a of this title.
 
-#### Cross References
-
-Puerto Rico empowered to impose tariff duties on coffee imported into Puerto Rico from foreign countries through United States, see sections 1319 and 1319a of Title 19, Customs Duties.
-
-Taxation of shipments to and from the United States, see sections 7652 and 7653 of Title 26, Internal Revenue Code.
-

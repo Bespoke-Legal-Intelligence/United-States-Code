@@ -6,7 +6,7 @@ The National Science Foundation, the Department of Energy, the National Institut
 
 &emsp;(1) support research, development, and demonstration of advanced networking technologies to increase the capabilities and improve the performance of the Internet;
 
-&emsp;(2) develop an advanced testbed network connecting a significant number of research sites, including universities, Federal research institutions, and other appropriate researchpartner institutions, to support networking research and to demonstrate new networking technologies; and
+&emsp;(2) develop an advanced testbed network connecting a significant number of research sites, including universities, Federal research institutions, and other appropriate research partner institutions, to support networking research and to demonstrate new networking technologies; and
 
 &emsp;(3) develop and demonstrate advanced Internet applications that meet important national goals or agency mission needs, and that are supported by the activities described in paragraphs (1) and (2).
 
@@ -22,7 +22,7 @@ The President's Information Technology Advisory Committee (established pursuant 
 
 &emsp;&emsp;&emsp;(i) geographic penalties (as defined in section 7(1) of the Next Generation Internet Research Act of 1998); <sup>1</sup>
 
-&emsp;&emsp;&emsp;(ii) the adequacy of access to the Internet by Historically Black Colleges and Universities, Hispanic Serving Institutions, and small colleges and universities (whose enrollment is less than 5,000) and the degree of participation of those institutions in activities described in subsection (a) of this section; and
+&emsp;&emsp;&emsp;(ii) the adequacy of access to the Internet by Historically Black Colleges and Universities, Hispanic Serving Institutions, and small colleges and universities (whose enrollment is less than 5,000) andthe degree of participation of those institutions in activities described in subsection (a) of this section; and
 
 &emsp;&emsp;&emsp;(iii) technology transfer to and from the private sector;
 

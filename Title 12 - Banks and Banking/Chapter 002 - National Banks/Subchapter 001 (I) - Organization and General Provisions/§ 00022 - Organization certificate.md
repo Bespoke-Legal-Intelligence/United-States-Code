@@ -16,7 +16,7 @@ Fifth. The fact that the certificate is made to enable such persons to avail the
 
 #### References in Text
 
-Title 62 of the Revised Statutes, referred to in par. Fifth, was in the original “this Title” meaning title 62 of the Revised Statutes, consisting of R.S. §§5133 to 5244, which are classified to sections 21, 22 to 24a, 25a, 26 to 29, 35 to 37, 39, 43, 51, 52, 53, 56, 57, 59 to 62, 66, 71, 72 to 76, 81, 83 to 86, 90, 91, 93, 93a, 94, 101a, 102, 104, 107 to 110, 123, 124, 131 to 138, 141 to 144, 151, 152, 161, 164, 168 to 175, 181 to 186, 192 to 196, 215c, 481 to 485, 501, 541, 548, and 582 of this title. See, also, sections 8, 333, 334, 475, 656, 709, 1004, and 1005 of Title 18, Crimes and Criminal Procedure. For complete classification of R.S. §§5133 to 5244 to the Code, see Tables.
+Title 62 of the Revised Statutes, referred to in par. Fifth, was in the original “this Title” meaning title 62 of the Revised Statutes, consisting of R.S. §§5133 to 5244, which are classified to sections 21, 22 to 24a, 25a, 26, 27, 29, 35 to 37, 39, 43, 52, 53, 56, 57, 59 to 62, 66, 71, 72 to 76, 81, 83 to 86, 90, 91, 93, 93a, 94, 141 to 144, 161, 164, 181, 182, 192 to 194, 196, 215c, 481 to 485, 501, 541, 548, and 582 of this title. See, also, sections 8, 333, 334, 475, 656, 709, 1004, and 1005 of Title 18, Crimes and Criminal Procedure. For complete classification of R.S. §§5133 to 5244 to the Code, see Tables.
 
 #### Codification
 
@@ -27,10 +27,4 @@ R.S. §5134 derived from act June 3, 1864, ch. 106, §6, 13 Stat. 101, which was
 1982—Par. First. Pub. L. 97–320 struck out “and be subject to the approval of the Comptroller of the Currency” after “national”.
 
 1959—Par. First. Pub. L. 86–230 substituted “which named shall include the word ‘national’ and be” for “which name shall be”.
-
-#### Cross References
-
-Business, transaction in place specified in organization certificate, see section 81 of this title.
-
-Change of name or location, see section 30 of this title.
 

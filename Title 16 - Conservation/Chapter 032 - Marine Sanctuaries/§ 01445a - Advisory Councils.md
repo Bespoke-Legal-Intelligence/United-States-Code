@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary may establish one or more advisory councils (in this section referred to as an “Advisory Council”) to provide assistance to the Secretary regarding the designation and management of national marine sanctuaries. The Advisory Councils shall be exempt from the Federal Advisory Committee Act.
+The Secretary may establish one or more advisory councils (in this section referred to as an “Advisory Council”) to advise and make recommendations to the Secretary regarding the designation and management of national marine sanctuaries. The Advisory Councils shall be exempt from the Federal Advisory Committee Act.
 
 #### (b) Membership
 
@@ -34,7 +34,7 @@ The following guidelines apply with respect to the conduct of business meetings 
 
 &emsp;(4) Minutes of each meeting shall be kept and contain a summary of the attendees and matters discussed.
 
-(Pub. L. 92–532, title III, §315, as added Pub. L. 102–587, title II, §2112, Nov. 4, 1992, 106 Stat. 5046; amended Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 104–283, §§5, 9(f), Oct. 11, 1996, 110 Stat. 3363, 3368.)
+(Pub. L. 92–532, title III, §315, as added Pub. L. 102–587, title II, §2112, Nov. 4, 1992, 106 Stat. 5046; amended Pub. L. 104–283, §§5, 9(f), Oct. 11, 1996, 110 Stat. 3363, 3368; Pub. L. 106–513, §§16, 19(b)(5), Nov. 13, 2000, 114 Stat. 2391, 2393.)
 
 #### References in Text
 
@@ -42,13 +42,11 @@ The Federal Advisory Committee Act, referred to in subsec. (a), is Pub. L. 92–
 
 #### Amendments
 
+2000—Subsec. (a). Pub. L. 106–513, §16, substituted “advise and make recommendations” for “provide assistance”.
+
+Subsec. (b)(2). Pub. L. 106–513, §19(b)(5), made technical amendment to reference in original act which appears in text as reference to section 1852 of this title.
+
 1996—Pub. L. 104–283, §9(f), made technical amendment to directory language of Pub. L. 102–587, §2112, which added this section.
 
-Subsec. (b)(2). Pub. L. 104–208 made technical amendment to reference in original act which appears in text as reference to section 1852 of this title.
-
 Subsec. (e)(3). Pub. L. 104–283, §5, inserted before period at end “, except that in the case of a meeting of an Advisory Council established to provide assistance regarding any individual national marine sanctuary the notice is not required to be published in the Federal Register”.
-
-#### Effective Date of 1996 Amendment
-
-Section 101(a) \[title II, §211(b)\] of div. A of Pub. L. 104–208 provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
 

@@ -48,7 +48,7 @@ Any State agency that desires to receive funds to carry out a program under this
 
 &emsp;(1) describes the procedures to be used, consistent with the State plan under section 6311 of this title, to assess the educational needs of the children to be served;
 
-&emsp;(2) provides assurances that in making services available to youth in adult correctional facilities, priority will be given to such youth who are likely to complete incarceration within a 2-year period;
+&emsp;(2) provides assurances that in making services available to youth in adult correctionalfacilities, priority will be given to such youth who are likely to complete incarceration within a 2-year period;
 
 &emsp;(3) describes the program, including a budget for the first year of the program, with annual updates to be provided to the State educational agency;
 
@@ -60,7 +60,7 @@ Any State agency that desires to receive funds to carry out a program under this
 
 &emsp;(7) includes data showing that the agency has maintained fiscal effort required of a local educational agency, in accordance with section 8891 of this title;
 
-&emsp;(8) describes how the programs will be coordinated with other appropriate State and Federal programs, such as programs under the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\] or title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\], vocational education programs, State and local dropout prevention programs, and special education programs;
+&emsp;(8) describes how the programs will be coordinated with other appropriate State and Federal programs, such as programs under title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\], vocational education programs, State and local dropout prevention programs, and special education programs;
 
 &emsp;(9) describes how appropriate professional development will be provided to teachers and other staff;
 
@@ -88,15 +88,9 @@ Any State agency that desires to receive funds to carry out a program under this
 
 (Pub. L. 89–10, title I, §1414, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3593; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(18)(B), (f)(13)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–422, 2681–431.)
 
-#### Amendment of Subsection (c)(8)
-
-<i>Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(f)(13)(B), (g)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–431, 2681–435, provided that, effective July 1, 2000, subsection (c)(8) is amended by striking “the Job Training Partnership Act or”.</i>
-
 #### References in Text
 
 The Goals 2000: Educate America Act, referred to in subsec. (a)(1), is Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended, which is classified principally to chapter 68 (§5801 et seq.) of this title (except subchapters V (§5931 et seq.) and IX (§6001 et seq.)). For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
-
-The Job Training Partnership Act, referred to in subsec. (c)(8), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
 
 The Workforce Investment Act of 1998, referred to in subsec. (c)(8), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of this title and Tables.
 
@@ -104,7 +98,9 @@ The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in subs
 
 #### Amendments
 
-1998—Subsec. (c)(8). Pub. L. 105–277, §101(f) \[title VIII, §405(d)(18)(B)\], substituted “programs under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998” for “programs under the Job Training Partnership Act”.
+1998—Subsec. (c)(8). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(13)(B)\], struck out “the Job Training Partnership Act or” before “title I of the Workforce Investment Act of 1998”.
+
+Pub. L. 105–277, §101(f) \[title VIII, §405(d)(18)(B)\], substituted “programs under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998” for “programs under the Job Training Partnership Act”.
 
 #### Effective Date of 1998 Amendment
 

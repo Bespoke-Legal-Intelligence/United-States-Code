@@ -546,6 +546,10 @@ Section 407(d) of Pub. L. 104–99, which directed the Secretary of Housing and 
 
 Section 1064(c) of Pub. L. 100–628 provided that: “In developing regulations to carry out the amendments made by this section \[amending this section\], the Secretary of Housing and Urban Development may delegate to mortgagees the authority to make determinations on behalf of the Secretary, and the Secretary shall rely on certifications and post audit reviews to the greatest extent possible.”
 
+#### Transfer of HUD Assets in Revitalization Areas
+
+Pub. L. 106–554, §1(a)(7) \[title I, §142\], Dec. 21, 2000, 114 Stat. 2763, 2763A–618, provided that: “In carrying out the program under section 204(h) of the National Housing Act (12 U.S.C. 1710(h)), upon the request of the chief executive officer of a county or the government of appropriate jurisdiction and not later than 60 days after such request is made, the Secretary of Housing and Urban Development shall designate as a revitalization area all portions of such county that meet the criteria for such designation under paragraph (3) of such section.”
+
 #### Settlement Costs in the Financing of Federal Housing Administration and Veterans’ Administration Assisted Housing; Study and Recommendations to Congress on Reduction and Standardization of Costs
 
 Pub. L. 91–351, title VII, §701, July 24, 1970, 84 Stat. 461, provided that:
@@ -560,13 +564,9 @@ Pub. L. 91–351, title VII, §701, July 24, 1970, 84 Stat. 461, provided that:
 
 “(b) The Secretary and the Administrator shall undertake a joint study and make recommendations to the Congress not later than one year after the date of enactment of this Act \[July 24, 1970\] with respect to legislative and administrative actions which should be taken to reduce mortgage settlement costs and to standardize these costs for all geographic areas.”
 
-#### Cross References
-
-United States obligations and evidences of ownership as subject to Federal taxation, see section 3124(b) of Title 31, Money and Finance.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1706c, 1709, 1712, 1715e, 1715k, 1715<i>l</i>, 1715m, 1715n, 1715u, 1715x, 1715y, 1715z–3, 1715z–12, 1715z–13, 1715z–17, 1748h–1, 1748h–2, 1750c, 3763 of this title; title 42 section 11408.
+This section is referred to in sections 1706c, 1709, 1712, 1715e, 1715k, 1715<i>l</i>, 1715m, 1715n, 1715u, 1715x, 1715y, 1715z–3, 1715z–11a, 1715z–12, 1715z–13, 1715z–17, 1748h–1, 1748h–2, 1750c, 3763 of this title; title 42 section 11408.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “mortgagee”.</i>
 

@@ -6,7 +6,7 @@ Congress finds that—
 
 &emsp;(2) the Black Canyon of the Gunnison and adjacent upland include a variety of unique ecological, geological, scenic, historical, and wildlife components enhanced by the serenity and rural western setting of the area;
 
-&emsp;(3) the Black Canyon of the Gunnison and adjacent land provide extensive opportunities for educational and recreational activities, and are publicly used for hiking, camping, andfishing, and for wilderness value, including solitude;
+&emsp;(3) the Black Canyon of the Gunnison and adjacent land provide extensive opportunities for educational and recreational activities, and are publicly used for hiking, camping, and fishing, and for wilderness value, including solitude;
 
 &emsp;(4) adjacent public land downstream of the Black Canyon of the Gunnison National Monument has wilderness value and offers unique geological, paleontological, scientific, educational, and recreational resources;
 

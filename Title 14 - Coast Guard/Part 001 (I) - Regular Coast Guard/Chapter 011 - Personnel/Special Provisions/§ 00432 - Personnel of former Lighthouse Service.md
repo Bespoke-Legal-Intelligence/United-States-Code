@@ -16,7 +16,7 @@
 
 (2) The additional compensation authorized by this subsection shall be included in any computation of compensation under section 6 of the Act of June 20, 1918 (33 U.S.C. 763).
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 526; Aug. 9, 1955, ch. 650, §§1, 2, 69 Stat. 577; Pub. L. 86–309, Sept. 21, 1959, 73 Stat. 585; Pub. L. 91–278, §1(10), June 12, 1970, 84 Stat. 305; Pub. L. 96–23, §5(a), June 13, 1979, 93 Stat. 68; Pub. L. 97–295, §2(11), (13), Oct. 12, 1982, 96 Stat. 1302; Pub. L. 98–557, §15(a)(3)(B), Oct. 30, 1984, 98 Stat. 2865; Pub. L. 99–640, §10(a)(7), Nov. 10, 1986, 100 Stat. 3549.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 526; Aug. 9, 1955, ch. 650, §§1, 2, 69 Stat. 577; Pub. L. 86–309, Sept. 21,1959, 73 Stat. 585; Pub. L. 91–278, §1(10), June 12, 1970, 84 Stat. 305; Pub. L. 96–23, §5(a), June 13, 1979, 93 Stat. 68; Pub. L. 97–295, §2(11), (13), Oct. 12, 1982, 96 Stat. 1302; Pub. L. 98–557, §15(a)(3)(B), Oct. 30, 1984, 98 Stat. 2865; Pub. L. 99–640, §10(a)(7), Nov. 10, 1986, 100 Stat. 3549.)
 
 #### Historical and Revision Notes
 
@@ -49,14 +49,6 @@ Subsec. (g). Act Aug. 9, 1955, §2, authorized head of department in which the C
 #### Retroactive Pay
 
 Section 5(b) of Pub. L. 96–23 provided that: “The Coast Guard may issue retroactive pay to its remaining civilian lighthouse keepers in an amount equal to the difference between what the keeper actually received and what he would have received under the General Schedule salary rates had there not been a statutory limitation of $7,500 on his annual salary. This amount is to be calculated from the time at which his salary reached the statutory limitation to the date of enactment of this Act \[June 13, 1979\].”
-
-#### Cross References
-
-Retention on active list—
-
-&emsp;&emsp;Captains, see section 289 of this title.
-
-&emsp;&emsp;Rear admirals, see section 290 of this title.
 
 #### Section Referred to in Other Sections
 

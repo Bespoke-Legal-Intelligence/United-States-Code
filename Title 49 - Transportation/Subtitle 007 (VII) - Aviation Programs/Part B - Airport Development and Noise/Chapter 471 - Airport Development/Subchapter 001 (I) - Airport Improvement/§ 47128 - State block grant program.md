@@ -2,7 +2,7 @@
 
 (a)
 
-General Requirements.—The Secretary of Transportation shall prescribe regulations to carry out a State block grant program. The regulations shall provide that the Secretary may designate not more than 8 qualified States for fiscal year 1997 and 9 qualified States for each fiscal year thereafter to assume administrative responsibility for all airport grant amounts available under this subchapter, except for amounts designated for use at primary airports.
+General Requirements.—The Secretary of Transportation shall prescribe regulations to carry out a State block grant program. The regulations shall provide that the Secretary may designate not more than 9 qualified States for fiscal years 2000 and 2001 and 10 qualified States for each fiscal year thereafter to assume administrative responsibility for all airport grant amounts available under this subchapter, except for amounts designated for use at primary airports.
 
 (b)
 
@@ -22,7 +22,7 @@ Applications and Selection.—A State wishing to participate in the program must
 
 Safety and Security Needs and Needs of System.—Before deciding whether a planning process is satisfactory or a programming process is acceptable under subsection (b)(2) or (b)(3) of this section, the Secretary shall ensure that the process provides for meeting critical safety and security needs and that the programming process ensures that the needs of the national airport system will be addressed in deciding which projects will receive money from the Government. In carrying out this subsection, the Secretary shall permit a State to use the priority system of the State if such system is not inconsistent with the national priority system.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1277; Pub. L. 103–429, §6(70), Oct. 31, 1994, 108 Stat. 4387; Pub. L. 104–264, title I, §147(a)–(c)(1), Oct. 9, 1996, 110 Stat. 3223; Pub. L. 104–287, §5(84), Oct. 11, 1996, 110 Stat. 3397; Pub. L. 105–102, §3(d)(1)(E), Nov. 20, 1997, 111 Stat. 2215.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1277; Pub. L. 103–429, §6(70), Oct. 31, 1994, 108 Stat. 4387; Pub. L. 104–264, title I, §147(a)–(c)(1), Oct. 9, 1996, 110 Stat. 3223; Pub. L. 104–287, §5(84), Oct. 11, 1996, 110 Stat. 3397; Pub. L. 105–102, §3(d)(1)(E), Nov. 20, 1997, 111 Stat. 2215; Pub. L. 106–181, title I, §138, Apr. 5, 2000, 114 Stat. 85.)
 
 Historical and Revision Notes
 
@@ -76,13 +76,15 @@ This makes a clarifying amendment to the catchline for 49:47128(d).
 
 #### Amendments
 
+2000—Subsec. (a). Pub. L. 106–181 substituted “9 qualified States for fiscal years 2000 and 2001 and 10 qualified States for each fiscal year thereafter” for “8 qualified States for fiscal year 1997 and 9 qualified States for each fiscal year thereafter”.
+
 1997—Subsec. (d). Pub. L. 105–102 repealed Pub. L. 104–287, §5(84). See 1996 Amendment note below.
 
 1996—Pub. L. 104–264, §147(c)(1)(A), substituted “grant program” for “grant pilot program” in section catchline.
 
 Subsec. (a). Pub. L. 104–264, §147(a)(1), (c)(1)(B), substituted “block grant program” for “block grant pilot program” and “8 qualified States for fiscal year 1997 and 9 qualified States for each fiscal year thereafter” for “7 qualified States”.
 
-Subsec. (b). Pub. L. 104–264, §147(a)(2), (3), struck out “(1)” before “A State wishing”, redesignated subpars. (A) to (E) as pars. (1) to (5), respectively, and struck out former par. (2) which read as follows: “For the fiscal years ending September 30, 1993–1996, the States selected shall include Illinois, Missouri, and North Carolina.”
+Subsec. (b). Pub. L. 104–264, §147(a)(2), (3), struck out “(1)” before “A State wishing”, redesignated subpars.\(A) to (E) as pars. (1) to (5), respectively, and struck out former par. (2) which read as follows: “For the fiscal years ending September 30, 1993–1996, the States selected shall include Illinois, Missouri, and North Carolina.”
 
 Subsec. (c). Pub. L. 104–264, §147(b), substituted “(b)(2) or (b)(3)” for “(b)(1)(B) or (C)” and inserted at end “In carrying out this subsection, the Secretary shall permit a State to use the priority system of the State if such system is not inconsistent with the national priority system.”
 
@@ -95,6 +97,10 @@ Pub. L. 104–264, §147(c)(1)(C), struck out subsec. (d) which read as follows:
 Ending Effective Date and Report.—This section is effective only through September 30, 1996.”
 
 1994—Subsec. (c). Pub. L. 103–429 substituted “subsection (b)(1)(B) or (C)” for “subsection (b)(2) or (3)”.
+
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -112,5 +118,5 @@ Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 47116 of this title.
+This section is referred to in sections 47109, 47116 of this title.
 

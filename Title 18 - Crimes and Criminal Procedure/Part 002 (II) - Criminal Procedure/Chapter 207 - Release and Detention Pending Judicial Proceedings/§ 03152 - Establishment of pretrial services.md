@@ -2,11 +2,11 @@
 
 (a) On and after the date of the enactment of the Pretrial Services Act of 1982, the Director of the Administrative Office of the United States Courts (hereinafter in this chapter referred to as the “Director”) shall, under the supervision and direction of the Judicial Conference of the United States, provide directly, or by contract or otherwise (to such extent and in such amounts as are provided in appropriation Acts), for the establishment of pretrial services in each judicial district (other than the District of Columbia). Pretrial services established under this section shall be supervised by a chief probation officer appointed under section 3654 of this title or by a chief pretrial services officer selected under subsection (c) of this section.
 
-(b) Beginning eighteen months after the date of the enactment of the Pretrial Services Act of 1982, if an appropriate United States district court and the circuit judicial council jointly recommend the establishment under this subsection of pretrial services in a particular district, pretrial services shall be established under the general authority of the Administrative Office of the United States Courts.
+(b) Beginning eighteen months after the date of the enactment of the Pretrial Services Act of 1982, if an appropriate United States district court and the circuit judicial council jointly recommend the establishment under this subsection of pretrial services in a particular district, pretrial services shall be established underthe general authority of the Administrative Office of the United States Courts.
 
-(c) The pretrial services established under subsection (b) of this section shall be supervised by a chief pretrial services officer selected by a panel consisting of the chief judge of the circuit, the chief judge of the district, and a magistrate of the district or their designees. The chief pretrial services officer appointed under this subsection shall be an individual other than one serving under authority of section 3654 of this title.
+(c) The pretrial services established under subsection (b) of this section shall be supervised by a chief pretrial services officer selected by a panel consisting of the chief judge of the circuit, the chief judge of the district, and a magistrate judge of the district or their designees. The chief pretrial services officer appointed under this subsection shall be an individual other than one serving under authority of section 3654 of this title.
 
-(Added Pub. L. 93–619, title II, §201, Jan. 3, 1975, 88 Stat. 2086; amended Pub. L. 97–267, §2, Sept. 27, 1982, 96 Stat. 1136.)
+(Added Pub. L. 93–619, title II, §201, Jan. 3, 1975, 88 Stat. 2086; amended Pub. L. 97–267, §2, Sept. 27, 1982, 96 Stat. 1136; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
 
 #### References in Text
 
@@ -22,7 +22,7 @@ A prior section 3152, as added by Pub. L. 89–465, §3(a), June 22, 1966, 80 St
 
 #### Change of Name
 
-Reference to United States magistrate or to magistrate deemed to refer to United States magistrate judge pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+Words “magistrate judge” substituted for “magistrate” in subsec. (c) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
 #### Authorization of Appropriations
 

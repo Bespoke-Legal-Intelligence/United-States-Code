@@ -12,21 +12,11 @@ Words “or other capital offense” inserted after “treason” and “jurors�
 
 Words “shall be delivered to him”, at end of section, were omitted as unnecessary.
 
-Rule 10 of the Federal Rules of Criminal Procedure requires that the defendant in every case be given a copy of the indictment or information before he is called upon to plead. Thus there is no conflict between the rule and the revised section.
+Rule 10 of the Federal Rules of Criminal Procedure requires that the defendant in every case be given acopy of the indictment or information before he is called upon to plead. Thus there is no conflict between the rule and the revised section.
 
 Minor changes in phraseology were made.
 
 #### Amendments
 
 1994—Pub. L. 103–322 inserted before period at end “, except that such list of the veniremen and witnesses need not be furnished if the court finds by a preponderance of the evidence that providing the list may jeopardize the life or safety of any person”.
-
-#### Federal Rules of Criminal Procedure
-
-Copy of indictment or information to defendant before plea, see rule 10, Appendix to this title.
-
-#### Cross References
-
-Qualification and drawing of trial jurors, see section 1861 et seq. of Title 28, Judiciary and Judicial Procedure.
-
-Witnesses and evidence, see section 3481 et seq. of this title.
 

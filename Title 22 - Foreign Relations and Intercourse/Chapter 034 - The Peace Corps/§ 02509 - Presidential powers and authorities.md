@@ -56,7 +56,7 @@ The provisions of section 2702 of this title shall apply to volunteers and perso
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
 
-The Renegotiation Act of 1951, as amended, referred to in subsec. (d), is act Mar. 23, 1951, ch. 15, 65 Stat. 7, as amended, which was classified principally to section1211 et seq. of Title 50, Appendix, War and National Defense, prior to its omission from the Code. See Codification note preceding section 1211 of Title 50, Appendix.
+The Renegotiation Act of 1951, as amended, referred to in subsec. (d), is act Mar. 23, 1951, ch. 15, 65 Stat. 7, as amended, which was classified principally to section 1211 et seq. of Title 50, Appendix, War and National Defense, prior to its omission from the Code. See Codification note preceding section 1211 of Title 50, Appendix.
 
 #### Amendments
 
@@ -98,7 +98,7 @@ Section 604(c) of Pub. L. 97–113 provided: “To the extent that the authoriti
 
 #### Waiver of Certain Laws by President Under Subsec. (d)
 
-For determination under subsec. (d) of this section that it is in the furtherance of the purposes of this chapter and that the functions under this chapter may be performed without regard to the applicable laws specified in section 1 and 2 of Ex. Ord. No. 11223, May 12, 1965, 30 F.R. 6635, set out as a note under section 2393 of this title, with certain limitations see section 1–402 of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29203, set out as a note under section 2501 of this title.
+For determination under subsec. (d) of this section that it is in the furtherance of the purposes of thischapter and that the functions under this chapter may be performed without regard to the applicable laws specified in section 1 and 2 of Ex. Ord. No. 11223, May 12, 1965, 30 F.R. 6635, set out as a note under section 2393 of this title, with certain limitations see section 1–402 of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29203, set out as a note under section 2501 of this title.
 
 #### Section Referred to in Other Sections
 

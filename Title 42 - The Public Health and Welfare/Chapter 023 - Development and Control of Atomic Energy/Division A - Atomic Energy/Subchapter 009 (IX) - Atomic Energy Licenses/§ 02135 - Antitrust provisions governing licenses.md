@@ -44,7 +44,7 @@ Provisions similar to this section were contained in section 1807(c) of this tit
 
 #### Amendments
 
-1970—Subsec. (c). Pub. L. 91–560 designated existing provisions as pars. (1), (2), (4), and (5) and amended such provisions by extending the time for the Attorney General to give advice from 90 to 180 days and provided for review of licenses once granted under section 2133 of this title, and when the Attorney General recommends that there be a hearing, authorized the Commission tohold hearings and permit the Attorney General to appear as a party and to make a finding as to whether the activities under the license would be inconsistent with the antitrust laws, and in par. (3), provided for a review of the permit issued under section 2134(b) of this title, and added pars. (6) to (8).
+1970—Subsec. (c). Pub. L. 91–560 designated existing provisions as pars. (1), (2), (4), and (5) and amended such provisions by extending the time for the Attorney General to give advice from 90 to 180 days and provided for review of licenses once granted under section 2133 of this title, and when the Attorney General recommends that there be a hearing, authorized the Commission to hold hearings and permit the Attorney General to appear as a party and to make a finding as to whether the activities under the license would be inconsistent with the antitrust laws, and in par. (3), provided for a review of the permit issued under section 2134(b) of this title, and added pars. (6) to (8).
 
 1964—Subsec. (a). Pub. L. 88–489 struck out “, including the provisions which vest title to all special nuclear material in the United States,” before “shall relieve any person”.
 

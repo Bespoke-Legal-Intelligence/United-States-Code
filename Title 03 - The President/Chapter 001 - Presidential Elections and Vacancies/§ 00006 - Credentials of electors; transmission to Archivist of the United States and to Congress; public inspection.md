@@ -14,6 +14,10 @@ It shall be the duty of the executive of each State, as soon as practicable afte
 
 Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L. 98–497, set out as a note under section 2102 of Title 44, Public Printing and Documents.
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the requirement under this section that the Archivist transmit to Congress copies of certificates of ascertainment is listed as a report on page 179), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 15 of this title.

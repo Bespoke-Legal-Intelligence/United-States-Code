@@ -4,7 +4,3 @@ No person shall be punished for any criminal contempt allegedly committed outsid
 
 (Pub. L. 86–257, title VI, §608, Sept. 14, 1959, 73 Stat. 541.)
 
-#### Federal Rules of Criminal Procedure
-
-Criminal contempt, see Rule 42, Federal Rules of Criminal Procedure, Title 18, Appendix.
-

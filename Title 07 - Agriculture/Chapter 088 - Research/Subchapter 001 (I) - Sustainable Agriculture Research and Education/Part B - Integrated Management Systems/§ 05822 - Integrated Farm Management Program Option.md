@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary of Agriculture (hereafter in this section referred to as the “Secretary”) shall, by regulation, establish a voluntary program, to beknown as the “Integrated Farm Management Program Option” (hereafter referred to in this section as the “program”), designed to assist producers of agricultural commodities in adopting integrated, multiyear, site-specific farm management plans by reducing farm program barriers to resource stewardship practices and systems.
+The Secretary of Agriculture (hereafter in this section referred to as the “Secretary”) shall, by regulation, establish a voluntary program, to be known as the “Integrated Farm Management Program Option” (hereafter referred to in this section as the “program”), designed to assist producers of agricultural commodities in adopting integrated, multiyear, site-specific farm management plans by reducing farm program barriers to resource stewardship practices and systems.
 
 #### (b) Definitions
 
@@ -68,7 +68,7 @@ Each plan approved by the Secretary shall—
 
 &emsp;&emsp;(B) the prevention of the degradation of farmland soils, the long-term improvement of the fertility and physical properties of such soils; and
 
-&emsp;&emsp;(C) the protection of water supplies from contamination by managing or minimizing agricultural pollutants if their management or minimization results in positive economic and environmental benefits;
+&emsp;&emsp;(C) the protection of water supplies from contamination by managing or minimizingagricultural pollutants if their management or minimization results in positive economic and environmental benefits;
 
 &emsp;(5) assist the producer to comply with all Federal, State, and local requirements designed to protect soil, wetland, wildlife habitat, and the quality of groundwater and surface water; and
 
@@ -84,7 +84,7 @@ Each plan approved by the Secretary shall—
 
 #### (B) Technical assistance
 
-&emsp;&emsp;In administering the program, the Secretary, in consultation with the local conservation districts, and any State or local authorities deemed appropriate by the Secretary, shall provide technical assistance to producers in developing and implementing plans, evaluating the effectiveness of plans,and assessing the costs and benefits of farming operations and practices. The plans may draw on handbooks and technical guides and may also include other practices appropriate to the particular circumstances of the producer and the purposes of the program.
+&emsp;&emsp;In administering the program, the Secretary, in consultation with the local conservation districts, and any State or local authorities deemed appropriate by the Secretary, shall provide technical assistance to producers in developing and implementing plans, evaluating the effectiveness of plans, and assessing the costs and benefits of farming operations and practices. The plans may draw on handbooks and technical guides and may also include other practices appropriate to the particular circumstances of the producer and the purposes of the program.
 
 #### (C) Flexibility
 
@@ -188,7 +188,7 @@ Subsec. (f)(5). Pub. L. 102–237, §201(a)(3), substituted “assist” for “
 
 Subsec. (h)(7)(B)(i). Pub. L. 102–237, §201(a)(4)(A), inserted before period at end of first sentence “, but only to the extent that such number exceeds the number of acres resulting from the reduction in payment acres under an amendment made by section 1101 of the Omnibus Budget Reconciliation Act of 1990 (Public Law 101–508; 104 Stat. 1388–1)”.
 
-Subsec. (h)(7)(B)(ii). Pub. L. 102–237, §201(a)(4)(B), substituted “under section 101B(c)(1)(D), 103B(c)(1)(D), 105B(c)(1)(E), or 107B(c)(1)(E)” for “under section 101B(c)(1)(B), section 103B(c)(1)(B), section 105A(c)(1)(B), or section 107A(c)(1)(B)”.
+Subsec. (h)(7)(B)(ii). Pub. L. 102–237, §201(a)(4)(B), substituted “under section 101B(c)(1)(D), 103B(c)(1)(D), 105B(c)(1)(E), or 107B(c)(1)(E)” for “under section101B(c)(1)(B), section 103B(c)(1)(B), section 105A(c)(1)(B), or section 107A(c)(1)(B)”.
 
 1990—Subsec. (d). Pub. L. 101–508, §1204(a)(1), substituted “enroll not less than” for “enroll not more than”.
 

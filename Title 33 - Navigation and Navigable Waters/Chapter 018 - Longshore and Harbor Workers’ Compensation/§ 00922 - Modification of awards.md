@@ -12,7 +12,7 @@ Pub. L. 98–426, §27(a)(2), substituted “Secretary” for “commission”. 
 
 1938—Act June 25, 1938, permitted review of compensation case at any time prior to one year after rejection of claim and authorized award of compensation.
 
-1934—Act May 26, 1934, permitted review based on a mistake in a determination of fact; substituted provision for review of compensation case at any time prior to one year after date of last payment of compensation, whether or not compensation order was issued, for original provision for review at any time during term of award and after compensation order in respect of such award had become final; authorized reinstatement of compensation; and inserted exception clause.
+1934—Act May 26, 1934, permitted review based on a mistake in a determination of fact; substituted provision for review of compensation case at any time prior to one year after date of last payment of compensation,whether or not compensation order was issued, for original provision for review at any time during term of award and after compensation order in respect of such award had become final; authorized reinstatement of compensation; and inserted exception clause.
 
 #### Effective Date of 1984 Amendment
 

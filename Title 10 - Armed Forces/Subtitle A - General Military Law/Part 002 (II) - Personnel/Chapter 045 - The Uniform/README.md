@@ -23,16 +23,6 @@
 
 1968—Pub. L. 90–235, §8(1)(B), Jan. 2, 1968, 81 Stat. 764, added item 771a.
 
-#### Cross References
-
-Particular provisions relating to uniforms—
-
-&emsp;&emsp;Coast Guard, see sections 483 to 485, 891, 892 of Title 14, Coast Guard.
-
-&emsp;&emsp;National Guard, see sections 701, 705 of Title 32, National Guard.
-
-&emsp;&emsp;Naval service, see sections 6155, 6156 of this title.
-
 
 ---
 

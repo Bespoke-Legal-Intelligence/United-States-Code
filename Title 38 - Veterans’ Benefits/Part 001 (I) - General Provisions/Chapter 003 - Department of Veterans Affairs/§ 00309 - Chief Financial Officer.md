@@ -6,5 +6,5 @@ The Secretary shall designate the Assistant Secretary whose functions include bu
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in section 4(c) of Pub. L. 100–527, known as the Department of Veterans Affairs Act, prior to repeal by Pub. L. 102–83, §3(3).
+Provisions similar to those in this section were contained in section 4(c) of Pub. L. 100–527, known as theDepartment of Veterans Affairs Act, prior to repeal by Pub. L. 102–83, §3(3).
 

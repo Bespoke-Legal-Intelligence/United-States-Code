@@ -53,11 +53,13 @@
 | [1735\.](%C2%A7%2001735%20-%20Sexually%20oriented%20advertisements.md) | Sexually oriented advertisements. |
 | [1736\.](%C2%A7%2001736%20-%20Restrictive%20use%20of%20information.md) | Restrictive use of information. |
 | [1737\.](%C2%A7%2001737%20-%20Manufacturer%20of%20sexually%20related%20mail%20matter.md) | Manufacturer of sexually related mail matter. |
-| [1738\.](%C2%A7%2001738%20-%20Mailing%20private%20identification%20documents%20without%20a%20disclaimer.md) | Mailing private identification documents without a disclaimer. |
+| \[1738. | Repealed.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2000—Pub. L. 106–578, §4, Dec. 28, 2000, 114 Stat. 3076, struck out item 1738 “Mailing private identification documents without a disclaimer”.
 
 1994—Pub. L. 103–322, title XXXII, §320108(b)(2), Sept. 13, 1994, 108 Stat. 2113, added item 1716D.
 
@@ -76,40 +78,6 @@ Pub. L. 100–574, §§1(b)(2), 2(b), Oct. 31, 1988, 102 Stat. 2893, added items
 Pub. L. 90–384, §1(b), July 5, 1968, 82 Stat. 292, struck out item 1727 “Postage accounting”.
 
 1960—Pub. L. 86–682, §8, Sept. 2, 1960, 74 Stat. 706, added items 1733 and 1734.
-
-#### Cross References
-
-Assault or interference with postal clerk, see section 2116 of this title.
-
-Breaking and entering into post office, see section 2115 of this title.
-
-Definition of postal service, see section 12 of this title.
-
-False—
-
-&emsp;&emsp;Claims for postal losses, see section 288 of this title.
-
-&emsp;&emsp;Statements in matters within jurisdiction of Federal agency, see section 1001 of this title.
-
-Forcible entry into railway or steamboat post office, see section 2116 of this title.
-
-Mail fraud, see sections 1341, 1342 of this title.
-
-Money orders, counterfeiting, see section 500 of this title.
-
-Postage stamps, domestic and foreign, counterfeiting, see sections 501 and 502 of this title.
-
-Postal—
-
-&emsp;&emsp;Employee having interest in mail contract, see section 440 of this title.
-
-&emsp;&emsp;Supply contracts, combinations to fix prices or to prevent bids, see section 441 of this title.
-
-Postmarking stamps, counterfeiting, see section 503 of this title.
-
-Robbery of mail matter, see section 2114 of this title.
-
-Venue of prosecution, see section 3237 of this title.
 
 #### Chapter Referred to in Other Sections
 
@@ -171,4 +139,4 @@ This chapter is referred to in title 39 sections 1008, 3001.
 - [&sect; 01735 - Sexually oriented advertisements](%C2%A7%2001735%20-%20Sexually%20oriented%20advertisements.md)
 - [&sect; 01736 - Restrictive use of information](%C2%A7%2001736%20-%20Restrictive%20use%20of%20information.md)
 - [&sect; 01737 - Manufacturer of sexually related mail matter](%C2%A7%2001737%20-%20Manufacturer%20of%20sexually%20related%20mail%20matter.md)
-- [&sect; 01738 - Mailing private identification documents without a disclaimer](%C2%A7%2001738%20-%20Mailing%20private%20identification%20documents%20without%20a%20disclaimer.md)
+- [&sect; 01738 - Repealed. Pub. L. 106&#8211;578, &sect;4, Dec. 28, 2000, 114 Stat. 3076](%C2%A7%2001738%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93578%2C%20%C2%A74%2C%20Dec.%2028%2C%202000%2C%20114%20Stat.%203076.md)

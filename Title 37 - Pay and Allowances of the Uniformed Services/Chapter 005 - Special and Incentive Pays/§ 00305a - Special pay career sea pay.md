@@ -1,96 +1,24 @@
 ### §305a. Special pay: career sea pay
 
-(a) Under regulations prescribed by the President, a member of a uniformed service who is entitled to basic pay is also entitled, while on sea duty, to special pay at the applicable rate under subsection (b).
+(a)
 
-(b) The monthly rates for special pay under subsection (a) are as follows:
+Availability of Special Pay.—A member of a uniformed service who is entitled to basic pay is also entitled, while on sea duty, to special pay at the applicable rate under subsection (b).
 
-ENLISTED MEMBERS
+(b)
 
-| Pay grade | Years of sea duty |  |  |  |  |  |
-| :--- | :---: | :---: | :---: | :---: | :---: | ---: |
-| 1 or less | Over 1 | Over 2 | Over 3 | Over 4 | Over 5 |  |
-| E–4 | $50 | $60 | $120 | $150 | $160 | $160 |
-| E–5 | 50 | 60 | 120 | 150 | 170 | 315 |
-| E–6 | 100 | 100 | 120 | 150 | 170 | 315 |
-| E–7 | 100 | 100 | 120 | 175 | 190 | 350 |
-| E–8 | 100 | 100 | 120 | 175 | 190 | 350 |
-| E–9 | 100 | 100 | 120 | 175 | 190 | 350 |
-|  |  |  |  |  |  |  |
-|  | Over | Over | Over | Over | Over | Over |
-|  | 6 | 7 | 8 | 9 | 10 | 11 |
-|  |  |  |  |  |  |  |
-| E–4 | $160 | $160 | $160 | $160 | $160 | $160 |
-| E–5 | 325 | 350 | 350 | 350 | 350 | 350 |
-| E–6 | 325 | 350 | 350 | 365 | 365 | 365 |
-| E–7 | 350 | 375 | 390 | 400 | 400 | 410 |
-| E–8 | 350 | 375 | 390 | 400 | 400 | 410 |
-| E–9 | 350 | 375 | 390 | 400 | 400 | 410 |
-|  |  |  |  |  |  |  |
-|  | Over | Over | Over | Over | Over |  |
-|  | 12 | 13 | 14 | 16 | 18 |  |
-|  |  |  |  |  |  |  |
-| E–4 | $160 | $160 | $160 | $160 | $160 |  |
-| E–5 | 350 | 350 | 350 | 350 | 350 |  |
-| E–6 | 380 | 395 | 410 | 425 | 450 |  |
-| E–7 | 420 | 450 | 475 | 500 | 500 |  |
-| E–8 | 420 | 450 | 475 | 500 | 520 |  |
-| E–9 | 420 | 450 | 475 | 520 | 520 |  |
+Rates; Maximum.—The Secretary concerned shall prescribe the monthly rates for special pay applicable to members of each armed force under the Secretary's jurisdiction. No monthly rate may exceed $750.
 
-WARRANT OFFICERS
+(c)
 
-| Pay grade | Years of sea duty |  |  |  |  |  |
-| :--- | :---: | :---: | :---: | :---: | :---: | ---: |
-| 1 or less | Over 1 | Over 2 | Over 3 | Over 4 | Over 5 |  |
-| W–1 | $130 | $135 | $140 | $150 | $170 | $175 |
-| W–2 | 150 | 150 | 150 | 150 | 170 | 260 |
-| W–3 | 150 | 150 | 150 | 150 | 170 | 270 |
-| W–4 | 150 | 150 | 150 | 150 | 170 | 290 |
-| W–5 | 150 | 150 | 150 | 150 | 170 | 290 |
-|  |  |  |  |  |  |  |
-|  | Over | Over | Over | Over | Over | Over |
-|  | 6 | 7 | 8 | 9 | 10 | 11 |
-|  |  |  |  |  |  |  |
-| W–1 | $200 | $250 | $270 | $300 | $325 | $325 |
-| W–2 | 265 | 265 | 270 | 310 | 340 | 340 |
-| W–3 | 280 | 285 | 290 | 310 | 350 | 375 |
-| W–4 | 310 | 310 | 310 | 310 | 350 | 375 |
-| W–5 | 310 | 310 | 310 | 310 | 350 | 375 |
-|  |  |  |  |  |  |  |
-|  | Over | Over | Over | Over | Over |  |
-|  | 12 | 14 | 16 | 18 | 20 |  |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
-| W–1 | $340 | $360 | $375 | $375 | $375 |  |
-| W–2 | 375 | 400 | 400 | 400 | 400 |  |
-| W–3 | 400 | 425 | 425 | 450 | 450 |  |
-| W–4 | 400 | 450 | 450 | 500 | 500 |  |
-| W–5 | 400 | 450 | 450 | 500 | 500 |  |
+Premium.—A member of a uniformed service entitled to career sea pay under this section who has served 36 consecutive months of sea duty is also entitled to a career sea pay premium for the thirty-seventh consecutive month and each subsequent consecutive month of sea duty served by such member. The monthly amount of the premium shall be prescribed by the Secretary concerned, but may not exceed $350.
 
-COMMISSIONED OFFICERS
+(d)
 
-| Pay grade | Years of sea duty |  |  |  |  |  |  |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | ---: |
-| Over 3 | Over 4 | Over 5 | Over 6 | Over 7 | Over 8 | Over 9 |  |
-| O–1 | $150 | $160 | $185 | $190 | $195 | $205 | $215 |
-| O–2 | 150 | 160 | 185 | 190 | 195 | 205 | 215 |
-| O–3 | 150 | 160 | 185 | 190 | 195 | 205 | 215 |
-| O–4 | 185 | 190 | 200 | 205 | 215 | 220 | 220 |
-| O–5 | 225 | 225 | 225 | 225 | 230 | 245 | 250 |
-| O–6 | 225 | 230 | 230 | 240 | 255 | 265 | 280 |
-|  |  |  |  |  |  |  |  |
-|  | Over | Over | Over | Over | Over | Over | Over |
-|  | 10 | 11 | 12 | 14 | 16 | 18 | 20 |
-|  |  |  |  |  |  |  |  |
-| O–1 | $225 | $225 | $240 | $250 | $260 | $270 | $280 |
-| O–2 | 225 | 225 | 240 | 250 | 260 | 270 | 280 |
-| O–3 | 225 | 225 | 240 | 260 | 270 | 280 | 290 |
-| O–4 | 225 | 225 | 240 | 270 | 280 | 290 | 300 |
-| O–5 | 260 | 265 | 265 | 285 | 300 | 315 | 340 |
-| O–6 | 290 | 300 | 310 | 325 | 340 | 355 | 380 |
+Regulations.—The Secretary concerned shall prescribe regulations for the administration of this section for the armed force or armedforces under the jurisdiction of the Secretary. The entitlements under this section shall be subject to the regulations.
 
-(c) Under regulations prescribed by the President, a member of a uniformed service who is entitled to career sea pay under this section whohas served 36 consecutive months of sea duty (other than an enlisted member in a pay grade above E–4 with more than five years of sea duty) is entitled to a career sea pay premium of $100 a month for the thirty-seventh consecutive month and each subsequent consecutive month of sea duty served by such member.
+(e)
 
-(d)(1) In this section, the term “sea duty” means duty performed by a member—
+Definition of Sea Duty.—(1) In this section, the term “sea duty” means duty performed by a member—
 
 &emsp;(A) while permanently or temporarily assigned to a ship and—
 
@@ -112,9 +40,19 @@ COMMISSIONED OFFICERS
 
 &emsp;(B) in a port that is more than 50 miles from its homeport.
 
-(Added Pub. L. 95–485, title VIII, §804(a)(1), (2), Oct. 20, 1978, 92 Stat. 1620; amended Pub. L. 96–343, §3(a), (b), Sept. 8, 1980, 94 Stat. 1124; Pub. L. 96–579, §4(a), Dec. 23, 1980, 94 Stat. 3364; Pub. L. 97–60, title I, §116, Oct. 14, 1981, 95 Stat. 996; Pub. L. 97–295, §3(1), Oct. 12, 1982, 96 Stat. 1303; Pub. L. 98–525, title VI, §623(a), Oct. 19, 1984, 98 Stat. 2541; Pub. L. 99–145, title VI, §634(a), Nov. 8, 1985, 99 Stat. 647; Pub. L. 100–26, §8(e)(5), Apr. 21, 1987, 101 Stat. 286; Pub. L. 100–180, div. A, title VI, §621(a)–(c), Dec. 4, 1987, 101 Stat. 1097, 1099; Pub. L. 100–224, §5(a)(1), Dec. 30, 1987, 101 Stat. 1538; Pub. L. 100–456, div. A, title XII, §1233(b)(1), Sept. 29, 1988, 102 Stat. 2057; Pub. L. 101–189, div. A, title VI, §653(b), Nov. 29, 1989, 103 Stat. 1462; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title XI, §1111(d)(3), Dec. 5, 1991, 105 Stat. 1492; Pub. L. 104–106, div. A, title VI, §618, Feb. 10, 1996, 110 Stat. 362; Pub. L. 105–85, div. A, title VI, §620, Nov. 18, 1997, 111 Stat. 1790.)
+(Added Pub. L. 95–485, title VIII, §804(a)(1), (2), Oct. 20, 1978, 92 Stat. 1620; amended Pub. L. 96–343, §3(a), (b), Sept. 8, 1980, 94 Stat. 1124; Pub. L. 96–579, §4(a), Dec. 23, 1980, 94 Stat. 3364; Pub. L. 97–60, title I, §116, Oct. 14, 1981, 95 Stat. 996; Pub. L. 97–295, §3(1), Oct. 12, 1982, 96 Stat. 1303; Pub. L. 98–525, title VI, §623(a), Oct. 19, 1984, 98 Stat. 2541; Pub. L. 99–145, title VI, §634(a), Nov. 8, 1985, 99 Stat. 647; Pub. L. 100–26, §8(e)(5), Apr. 21, 1987, 101 Stat. 286; Pub. L. 100–180, div. A, title VI, §621(a)–(c), Dec. 4, 1987, 101 Stat. 1097, 1099; Pub. L. 100–224, §5(a)(1), Dec. 30, 1987, 101 Stat. 1538; Pub. L. 100–456, div. A, title XII, §1233(b)(1), Sept. 29, 1988, 102 Stat. 2057; Pub. L. 101–189, div. A, title VI, §653(b), Nov. 29, 1989, 103 Stat. 1462; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title XI, §1111(d)(3), Dec. 5, 1991, 105 Stat. 1492; Pub. L. 104–106, div. A, title VI, §618, Feb. 10, 1996, 110 Stat. 362; Pub. L. 105–85, div. A, title VI, §620, Nov. 18, 1997, 111 Stat. 1790; Pub. L. 106–398, §1 \[\[div. A\], title VI, §630(a), (b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–156.)
 
 #### Amendments
+
+2000—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title VI, §630(a)(1)\], inserted heading and substituted “A member” for “Under regulations prescribed by the President, a member” in text.
+
+Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title VI, §630(a)(3)\], added subsec. (b) and struck out former subsec. (b) which contained tables specifying the monthly rates for special pay under subsec. (a) for enlisted members, warrant officers, and commissioned officers.
+
+Subsec. (c). Pub. L. 106–398, §1 \[\[div. A\], title VI, §630(a)(3)\], added subsec. (c) and struck out former subsec. (c) which read as follows: “Under regulations prescribed by the President, a member of a uniformed service who is entitled to career sea pay under this section who has served 36 consecutive months of sea duty (other than an enlisted member in a pay grade above E–4 with more than five years of sea duty) is entitled to a career sea pay premium of $100 a month for the thirty-seventh consecutive month and each subsequent consecutive month of sea duty served by such member.”
+
+Subsec. (d). Pub. L. 106–398, §1 \[\[div. A\], title VI, §630(a)(3)\], added subsec. (d). Former subsec. (d) redesignated (e).
+
+Subsec. (e). Pub. L. 106–398, §1 \[\[div. A\], title VI, §630(a)(2), (b)\], redesignated subsec. (d) as (e) and inserted heading.
 
 1997—Subsec. (d)(1)(A). Pub. L. 105–85, §620(1), struck out “, ship-based staff, or ship-based aviation unit” after “assigned to a ship”.
 
@@ -148,7 +86,7 @@ Subsec. (d). Pub. L. 100–180, §621(c), amended subsec. (d) generally. Prior t
 
 Pub. L. 100–26 substituted “In this section,” for “For the purposes of this section,”.
 
-1985—Subsec. (b). Pub. L. 99–145 amended table for warrant officers for pay grade W–3 by substituting “330” for “310” in column for “Over 12”, and for pay grade W–4, substituted “320” for “310” in column for “Over 10”, substituted “330” for “310” in column for“Over 11”, and “350” for “310” in column for “Over 12”, inserted columns for “Over 14”, “Over 16”, “Over 18”, and “Over 20”, and in table for commissioned officers inserted columns for “Over 14”, “Over 16”, “Over 18”, and “Over 20”, and struck out the subscript qualifier for pay grades O–1 and O–2, which read: “Commissioned officers with at least four years of active service as enlisted members or as noncommissioned warrant officers”.
+1985—Subsec. (b). Pub. L. 99–145 amended table for warrant officers for pay grade W–3 by substituting “330” for “310” in column for “Over 12”, and for pay grade W–4, substituted “320” for “310” in column for “Over 10”, substituted “330” for “310” in column for “Over 11”, and “350” for “310” in column for “Over 12”, inserted columns for “Over 14”, “Over 16”, “Over 18”, and “Over 20”, and in table for commissioned officers inserted columns for “Over 14”, “Over 16”, “Over 18”, and “Over 20”, and struck out the subscript qualifier for pay grades O–1 and O–2, which read: “Commissioned officers with at least four years of active service as enlisted members or as noncommissioned warrant officers”.
 
 1984—Subsec. (b). Pub. L. 98–525 amended table relating to rates of pay for enlisted members by substituting “265” for “255” and “320” for “310” in column for “Over 10”, “265” for “255” and “330” for “310” in column for “Over 11”, “280” for “255”, “320” for “310”, and “350” for “310” in column for “Over 12”, and inserted columns for “Over 13”, “Over 14”, “Over 16”, and “Over 18”.
 
@@ -163,6 +101,10 @@ Subsec. (b). Pub. L. 96–579 substituted special monthly pay table for enlisted
 Pub. L. 96–343 substituted provision authorizing monthly rates of special pay of $29 for over 3 years, $40 for over 5 years, $52 for over 7 years, $63 for over 10 years, $86 for over 11 years, and $115 for over 12 years for provision authorizing monthly rates of special pay during fiscal year 1979 or 1980 of $25 for over 3 years, $35 for over 5 years, and $55 for over 12 years and for fiscal year 1981 rates of $25 for over 3 years, $35 for over 5 years, $45 for over 7 years, and $55 for over 12 years.
 
 Subsecs. (c), (d). Pub. L. 96–579 added subsecs. (c) and (d).
+
+#### Effective Date of 2000 Amendment
+
+Pub. L. 106–398, §1 \[\[div. A\], title VI, §630(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–156, provided that: “The amendments made by this section \[amending this section\] shall take effect on October 1, 2000, and shall apply with respect to months beginning on or after that date.”
 
 #### Effective Date of 1991 Amendment
 

@@ -24,7 +24,7 @@
 | (a) | Misbranded consumer commodities. |
 | (b) | Unfair or deceptive acts or practices in commerce. |
 | (c) | Imports. |
-| [1457\.](%C2%A7%2001457%20-%20Annual%20reports%20to%20Congress%3B%20submission%20dates.md) | Annual reports to Congress; submission dates. |
+| [1457\.](%C2%A7%2001457%20-%20Omitted.md) | Omitted. |
 | [1458\.](%C2%A7%2001458%20-%20Cooperation%20with%20State%20authorities%3B%20transmittal%20of%20regulations%20to%20States%3B%20noninterference%20with%20existing%20programs.md) | Cooperation with State authorities; transmittal of regulations to States; noninterference with existing programs. |
 | [1459\.](%C2%A7%2001459%20-%20Definitions.md) | Definitions. |
 | [1460\.](%C2%A7%2001460%20-%20Savings%20provisions.md) | Savings provisions. |
@@ -47,7 +47,7 @@ This chapter is referred to in title 21 sections 379r, 379s, 1033, 1049, 1052.
 - [&sect; 01454 - Rules and regulations](%C2%A7%2001454%20-%20Rules%20and%20regulations.md)
 - [&sect; 01455 - Procedure for promulgation of regulations](%C2%A7%2001455%20-%20Procedure%20for%20promulgation%20of%20regulations.md)
 - [&sect; 01456 - Enforcement](%C2%A7%2001456%20-%20Enforcement.md)
-- [&sect; 01457 - Annual reports to Congress; submission dates](%C2%A7%2001457%20-%20Annual%20reports%20to%20Congress%3B%20submission%20dates.md)
+- [&sect; 01457 - Omitted](%C2%A7%2001457%20-%20Omitted.md)
 - [&sect; 01458 - Cooperation with State authorities; transmittal of regulations to States; noninterference with existing programs](%C2%A7%2001458%20-%20Cooperation%20with%20State%20authorities%3B%20transmittal%20of%20regulations%20to%20States%3B%20noninterference%20with%20existing%20programs.md)
 - [&sect; 01459 - Definitions](%C2%A7%2001459%20-%20Definitions.md)
 - [&sect; 01460 - Savings provisions](%C2%A7%2001460%20-%20Savings%20provisions.md)

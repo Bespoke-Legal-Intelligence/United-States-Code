@@ -8,7 +8,11 @@ The Secretary may issue special use permits which authorize the conduct of speci
 
 &emsp;(2) to promote public use and understanding of a sanctuary resource.
 
-#### (b) Permit terms
+#### (b) Public notice required
+
+The Secretary shall provide appropriate public notice before identifying any category of activity subject to a special use permit under subsection (a) of this section.
+
+#### (c) Permit terms
 
 A permit issued under this section—
 
@@ -18,9 +22,9 @@ A permit issued under this section—
 
 &emsp;(3) shall require that activities carried out under the permit be conducted in a manner that does not destroy, cause the loss of, or injure sanctuary resources; and
 
-&emsp;(4) shall require the permittee to purchase and maintain comprehensive general liability insurance against claims arising out of activities conducted under the permit and to agree to hold the United States harmless against such claims.
+&emsp;(4) shall require the permittee to purchase and maintain comprehensive general liability insurance, or post an equivalent bond, against claims arising out of activities conducted under the permit and to agree to hold the United States harmless against such claims.
 
-#### (c) Fees
+#### (d) Fees
 
 #### (1) Assessment and collection
 
@@ -34,7 +38,7 @@ A permit issued under this section—
 
 &emsp;&emsp;(B) costs incurred, or expected to be incurred, by the Secretary as a direct result of the conduct of the activity for which the permit is issued, including costs of monitoring the conduct of the activity; and
 
-&emsp;&emsp;(C) an amount which represents the fair market value of the use of the sanctuary resource and a reasonable return to the United States Government.
+&emsp;&emsp;(C) an amount which represents the fair market value of the use of the sanctuary resource.
 
 #### (3) Use of fees
 
@@ -42,9 +46,13 @@ A permit issued under this section—
 
 &emsp;&emsp;(A) for issuing and administering permits under this section; and
 
-&emsp;&emsp;(B) for expenses of designating and managing national marine sanctuaries.
+&emsp;&emsp;(B) for expenses of managing national marine sanctuaries.
 
-#### (d) Violations
+#### (4) Waiver or reduction of fees
+
+&emsp;The Secretary may accept in-kind contributions in lieu of a fee under paragraph (2)(C), or waive or reduce any fee assessed under this subsection for any activity that does not derive profit from the access to or use of sanctuary resources.
+
+#### (e) Violations
 
 Upon violation of a term or condition of a permit issued under this section, the Secretary may—
 
@@ -54,13 +62,29 @@ Upon violation of a term or condition of a permit issued under this section, the
 
 &emsp;(3) both.
 
-#### (e) Reports
+#### (f) Reports
 
-Each person issued a permit under this section shall submit an annual report to the Secretary not later than December 31 of each year which describes activities conducted under that permit and revenues derived from such activities during the year.
+Each person issued a permit under this section shall submit an annual report to the Secretarynot later than December 31 of each year which describes activities conducted under that permit and revenues derived from such activities during the year.
 
-#### (f) Fishing
+#### (g) Fishing
 
 Nothing in this section shall be considered to require a person to obtain a permit under this section for the conduct of any fishing activities in a national marine sanctuary.
 
-(Pub. L. 92–532, title III, §310, as added Pub. L. 100–627, title II, §203(3), Nov. 7, 1988, 102 Stat. 3214.)
+(Pub. L. 92–532, title III, §310, as added Pub. L. 100–627, title II, §203(3), Nov. 7, 1988, 102 Stat. 3214; amended Pub. L. 106–513, §11, Nov. 13, 2000, 114 Stat. 2389.)
+
+#### Amendments
+
+2000—Subsec. (b). Pub. L. 106–513, §11(1), added subsec. (b). Former subsec. (b) redesignated (c).
+
+Subsec. (c). Pub. L. 106–513, §11(1), (2), redesignated subsec. (b) as (c) and substituted “insurance, or post an equivalent bond,” for “insurance” in par. (4). Former subsec. (c) redesignated (d).
+
+Subsec. (d). Pub. L. 106–513, §11(1), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
+
+Subsec. (d)(2)(C). Pub. L. 106–513, §11(3), substituted “resource.” for “resource and a reasonable return to the United States Government.”
+
+Subsec. (d)(3)(B). Pub. L. 106–513, §11(4), struck out “designating and” after “expenses of”.
+
+Subsec. (d)(4). Pub. L. 106–513, §11(5), added par. (4).
+
+Subsecs. (e) to (g). Pub. L. 106–513, §11(1), redesignated subsecs. (d) to (f) as (e) to (g), respectively.
 

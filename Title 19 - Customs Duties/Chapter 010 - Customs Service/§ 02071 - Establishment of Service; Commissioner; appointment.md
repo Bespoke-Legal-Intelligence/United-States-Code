@@ -1,6 +1,6 @@
 ### §2071. Establishment of Service; Commissioner; appointment
 
-There shall be in the Department of the Treasury a service to be known as the United StatesCustoms Service, and a Commissioner of Customs. The Commissioner of Customs, who shall be appointed by the President by and with the advice and consent of the Senate, shall—
+There shall be in the Department of the Treasury a service to be known as the United States Customs Service, and a Commissioner of Customs. The Commissioner of Customs, who shall be appointed by the President by and with the advice and consent of the Senate, shall—
 
 &emsp;(1) be at the head of the United States Customs Service;
 
@@ -78,7 +78,7 @@ Restrictions Regarding Program.—
 
 &emsp;“(2) Preclearance operations may not be commenced in the country selected for testing under subsection (a) unless the Commissioner of Customs and the Commissioner of Immigration and Naturalization jointly certify that—
 
-&emsp;&emsp;“(A) there exists a bilateral agreement between the United States Government and the governmentof such country which protects the interests of the United States and affords diplomatic protection to United States employees working at the preclearance location;
+&emsp;&emsp;“(A) there exists a bilateral agreement between the United States Government and the government of such country which protects the interests of the United States and affords diplomatic protection to United States employees working at the preclearance location;
 
 &emsp;&emsp;“(B) the facilities at the preclearance location conform to Federal Inspection Services standards and are suitable for the duties to be performed therein;
 
@@ -102,7 +102,7 @@ Report.—As soon as practicable after September 30, 1992, the Commissioner of C
 
 &emsp;&emsp;“(B) expedited customs processing at United States ports of entry;
 
-&emsp;“(3) the opinion of the Commissioner of Customs regarding the efficacy of extending preclearance operations to other countries within the Caribbean Basin that are developing tourism industries, and if the opinion is affirmative, the identity of those countries to which such operations should be extended and the estimated costs and results of such extensions; and
+&emsp;“(3) the opinion of the Commissioner of Customs regarding the efficacy of extending preclearance operations to other countries within the Caribbean Basin that are developing tourism industries, and if the opinion is affirmative, the identity of those countriesto which such operations should be extended and the estimated costs and results of such extensions; and
 
 &emsp;“(4) such other matters that the Commissioner of Customs considers relevant.”
 

@@ -1,18 +1,8 @@
 Part F—National Commission for Employment Policy
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 1502 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a closing parenthesis.</i>
-
 
 ---
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 01771 - Statement of purpose](%C2%A7%2001771%20-%20Statement%20of%20purpose.md)
-- [&sect; 01772 - Establishment](%C2%A7%2001772%20-%20Establishment.md)
-- [&sect; 01773 - Functions](%C2%A7%2001773%20-%20Functions.md)
-- [&sect; 01774 - Administrative provisions](%C2%A7%2001774%20-%20Administrative%20provisions.md)
-- [&sect; 01775 - Reports](%C2%A7%2001775%20-%20Reports.md)
+- [&sect; 01771 to 1775 - Repealed. Pub. L. 105&#8211;220, title I, &sect;199(b)(2), Aug. 7, 1998, 112 Stat. 1059](%C2%A7%2001771%20to%201775%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93220%2C%20title%20I%2C%20%C2%A7199%28b%29%282%29%2C%20Aug.%207%2C%201998%2C%20112%20Stat.%201059.md)

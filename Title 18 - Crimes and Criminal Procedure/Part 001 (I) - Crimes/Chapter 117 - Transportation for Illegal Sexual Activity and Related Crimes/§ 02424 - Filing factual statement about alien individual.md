@@ -44,18 +44,6 @@ Subsec. (b). Pub. L. 99–628, §5(c)(5), substituted “that person” for “h
 
 Amendment by Pub. L. 91–452 effective on sixtieth day following Oct. 15, 1970, and not to affect any immunity to which any individual is entitled under this section by reason of any testimony given before sixtieth day following Oct. 15, 1970, see section 260 of Pub. L. 91–452, set out as an Effective Date; Savings Provision note under section 6001 of this title.
 
-#### Canal Zone
-
-Applicability of section to Canal Zone, see section 14 of this title.
-
-#### Cross References
-
-Importation of aliens for immoral purposes as forbidden, see section 1328 of Title 8, Aliens and Nationality.
-
-International agreement signed May 18, 1904, for the suppression of the white-slave traffic is set forth, with the adherence of the United States thereto, in 35 Stat. 1979.
-
-Prevention of transportation in foreign commerce of alien women and girls under international agreement, see section 1557 of Title 8, Aliens and Nationality.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 14, 1961 of this title.

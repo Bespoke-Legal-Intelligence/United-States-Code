@@ -16,7 +16,7 @@
 
 (h)(1) Upon request by a service relief society and subject to paragraph (2), an amount owed by a member of the uniformed services to the relief society may be deducted from the pay on final statement of such member and paid to that relief society.
 
-(2) An amount may not be deducted under paragraph (1) from the pay of a member unless the Secretary concerned makes a determination of the amount owed in accordance with the regulations prescribed under subsection (c). Any amount determined to be owed to a service relief society under this paragraph shall be considered an amount that the member is administratively determined to owe the United States under subsection (c) and shall be collectible in accordance with such subsection.
+(2) An amount may not be deducted under paragraph (1) from the pay of a member unless the Secretary concerned makes a determinationof the amount owed in accordance with the regulations prescribed under subsection (c). Any amount determined to be owed to a service relief society under this paragraph shall be considered an amount that the member is administratively determined to owe the United States under subsection (c) and shall be collectible in accordance with such subsection.
 
 (3) The Secretaries concerned shall prescribe regulations to carry out this subsection.
 
@@ -152,7 +152,7 @@ Subsec. (i)(2). Pub. L. 101–510, §1533(b)(2), added par. (2) and struck out f
 
 &emsp;“(B) credited to the funds available for the operation of the Naval Home, in the case of deductions from the pay of enlisted members and warrant officers in the Navy, Marine Corps, or Coast Guard (when it is operating as a service in the Navy).”
 
-Subsec. (i)(2)(B). Pub. L. 101–510, §1533(b)(1), which directed amendment of subpar. (B) by substituting “, warrant officer, and limited duty officer” for “andwarrant officer”, could not be executed because the words “and warrant officer” did not appear.
+Subsec. (i)(2)(B). Pub. L. 101–510, §1533(b)(1), which directed amendment of subpar. (B) by substituting “, warrant officer, and limited duty officer” for “and warrant officer”, could not be executed because the words “and warrant officer” did not appear.
 
 Subsec. (i)(3). Pub. L. 101–510, §1533(b)(3), substituted “Armed Forces Retirement Home Board” for “Governor of the Naval Home and the board of commissioners for the United States Soldiers’ and Airmen's Home” and “of the Armed Forces Retirement Home” for “of the homes”.
 
@@ -196,5 +196,5 @@ Section 633(b) of Pub. L. 100–180 provided that: “Subsection (h) of section 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 5 section 5514; title 10 section 1055; title 24 section 419.
+This section is referred to in title 5 section 5514; title 10 section 1055; title 24 sections 419, 424.
 

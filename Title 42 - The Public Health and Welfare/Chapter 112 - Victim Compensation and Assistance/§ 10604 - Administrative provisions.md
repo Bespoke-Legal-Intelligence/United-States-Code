@@ -70,7 +70,7 @@ Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of P
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–690 not applicable with respect to a State compensation program that was an eligible State crime victim compensation program on Nov. 18, 1988, until Oct. 1, 1991, see section 7129 of Pub. L. 100–690, as amended, set out as a note under section 10601 of this title.
+Amendment by Pub. L. 100–690 not applicable with respect to a State compensation program that was an eligible State crime victim compensation program on Nov. 18, 1988, until Oct. 1, 1991, see section 7129 of Pub.L. 100–690, as amended, set out as a note under section 10601 of this title.
 
 #### Reports on Amounts Received and Distributed From Fines for Violations of Trade Secrets Provisions
 

@@ -20,3 +20,7 @@ Historical and Revision Notes
 
 Oct. 30, 1984, Pub. L. 98–561, §13, 98 Stat. 2912.
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of reporting provisions in this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 204 of House Document No. 103–7.
+

@@ -134,7 +134,7 @@ Subject to the provisions of this chapter and to such terms and conditions as th
 
 &emsp;&emsp;&emsp;&emsp;(II) the total amount of net interest credited to the depository institution's deposits during the period beginning on May 1, 1989, and ending on the date of the transfer of deposits in connection with such transaction; or
 
-&emsp;&emsp;&emsp;(ii) the amount which is equal to the total deposits of such insured depository institution on the date of the transfer of deposits in connection with such transaction.
+&emsp;&emsp;&emsp;(ii) the amount which is equal to the total deposits of such insured depositoryinstitution on the date of the transfer of deposits in connection with such transaction.
 
 #### (E) Exit and entrance fees
 
@@ -146,7 +146,7 @@ Subject to the provisions of this chapter and to such terms and conditions as th
 
 &emsp;&emsp;&emsp;&emsp;(II) shall be paid to the Financing Corporation, if the Secretary of the Treasury determines that the Financing Corporation has exhausted all other sources of funding for interest payments on the obligations of the Financing Corporation and orders that such fees be paid to the Financing Corporation;
 
-&emsp;&emsp;&emsp;(ii) in the case of a conversion transaction in which the resulting or acquiringdepository institution is not a Bank Insurance Fund member, an exit fee in an amount to be determined by the Corporation (and assessed in accordance with subparagraph (F)(ii)) which shall be deposited in the Bank Insurance Fund; and
+&emsp;&emsp;&emsp;(ii) in the case of a conversion transaction in which the resulting or acquiring depository institution is not a Bank Insurance Fund member, an exit fee in an amount to be determined by the Corporation (and assessed in accordance with subparagraph (F)(ii)) which shall be deposited in the Bank Insurance Fund; and
 
 &emsp;&emsp;&emsp;(iii) an entrance fee in an amount to be determined by the Corporation (and assessed in accordance with subparagraph (F)(ii)), except that—
 
@@ -334,7 +334,7 @@ Subject to the provisions of this chapter and to such terms and conditions as th
 
 #### (ii) Underpayment
 
-&emsp;&emsp;&emsp;If the amount of compensation estimated by and paid to the Corporation by 1 or more such commonly controlled depository institutions is less than the actual loss incurred by the Corporation, the Corporation shall redetermine in its discretion the liability of each such commonly controlled depository institution to the Corporation and shall require each such commonly controlled depository institution to make payment of any additional liability to the Corporation.
+&emsp;&emsp;&emsp;If the amount of compensation estimated by and paid to the Corporation by 1 or more such commonly controlled depository institutions is less than the actual loss incurred by the Corporation, the Corporation shall redetermine in its discretion the liability of each such commonly controlled depository institution to theCorporation and shall require each such commonly controlled depository institution to make payment of any additional liability to the Corporation.
 
 #### (3) Review
 
@@ -402,7 +402,7 @@ Subject to the provisions of this chapter and to such terms and conditions as th
 
 &emsp;&emsp;(A) such affiliate was receiving cash payments from the Federal Savings and Loan Insurance Corporation under an assistance agreement or note entered into before August 9, 1989;
 
-&emsp;&emsp;(B) the Federal Savings and Loan Insurance Corporation, or such other entity which has succeeded to the payment obligations of such Corporation with respect to such assistance agreement or note, is unable to continue such payments; and
+&emsp;&emsp;(B) the Federal Savings and Loan Insurance Corporation, or such other entity whichhas succeeded to the payment obligations of such Corporation with respect to such assistance agreement or note, is unable to continue such payments; and
 
 &emsp;&emsp;(C) such affiliate—
 
@@ -418,37 +418,7 @@ Subject to the provisions of this chapter and to such terms and conditions as th
 
 &emsp;&emsp;(B) 1 depository institution is controlled by another depository institution.
 
-(Sept. 21, 1950, ch. 967, §2\[5\], 64 Stat. 876; Pub. L. 95–369, §6(c)(7), Sept. 17, 1978, 92 Stat. 616; Pub. L. 97–320, title VII, §703(c), Oct. 15, 1982, 96 Stat. 1539; Pub. L. 101–73, title II, §§201(a), 206(a), Aug. 9, 1989, 103 Stat. 187, 195; Pub. L. 102–242, title I, §115(a), title III, §302(e)(1), (2), title V, §501(a),Dec. 19, 1991, 105 Stat. 2249, 2349, 2388; Pub. L. 102–550, title XVI, §§1605(a)(5)(B), 1607(a), Oct. 28, 1992, 106 Stat. 4085, 4089; Pub. L. 102–558, title III, §§303(b)(6)(B), 305, Oct. 28, 1992, 106 Stat. 4225, 4226; Pub. L. 103–204, §9, Dec. 17, 1993, 107 Stat. 2388; Pub. L. 103–325, title III, §319(b), title VI, §602(a)(2), (3), Sept. 23, 1994, 108 Stat. 2225, 2288; Pub. L. 104–208, div. A, title II, §§2201(a), 2702(i), 2704(d)(14)(B)–(E), Sept. 30, 1996, 110 Stat. 3009–403, 3009–483, 3009–491.)
-
-#### Amendment of Section
-
-<i>Pub. L. 104–208, div. A, title II, §2704(c), (d)(14)(B)–(E), Sept. 30, 1996, 110 Stat. 3009–487, 3009–491, provided that, effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, this section is amended as follows:</i>
-
-<i>(1) In subsection (b)(5), by striking “the Bank Insurance Fund or the Savings Association Insurance Fund;” and inserting “Deposit Insurance Fund,”;</i>
-
-<i>(2) In subsection (d), by striking paragraphs (2) and (3);</i>
-
-<i>(3) In subsection (d)—</i>
-
-<i>(A) in paragraph (1)(A), by striking “reserve ratios in the Bank Insurance Fund and the Savings Association Insurance Fund” and inserting “the reserve ratio of the Deposit Insurance Fund”;</i>
-
-<i>(B) by striking paragraph (1)(B) and inserting the following:</i>
-
-#### “(2) Fee credited to the deposit insurance fund
-
-“The fee paid by the depository institution under paragraph (1) shall be credited to the Deposit Insurance Fund.”;
-
-<i>(C) by striking “(1) Uninsured institutions.—”; and</i>
-
-<i>(D) by redesignating subparagraphs (A) and (C) as paragraphs (1) and (3), respectively, and moving the margins 2 ems to the left; and</i>
-
-<i>(4) in subsection (e)—</i>
-
-<i>(A) in paragraph (5)(A), by striking “Bank Insurance Fund or the Savings Association Insurance Fund” and inserting “Deposit Insurance Fund”;</i>
-
-<i>(B) by striking paragraph (6); and</i>
-
-<i>(C) by redesignating paragraphs (7), (8), and (9) as paragraphs (6), (7), and (8), respectively.</i>
+(Sept. 21, 1950, ch. 967, §2\[5\], 64 Stat. 876; Pub. L. 95–369, §6(c)(7), Sept. 17, 1978, 92 Stat. 616; Pub. L. 97–320, title VII, §703(c), Oct. 15, 1982, 96 Stat. 1539; Pub. L. 101–73, title II, §§201(a), 206(a), Aug. 9, 1989, 103 Stat. 187, 195; Pub. L. 102–242, title I, §115(a), title III, §302(e)(1), (2), title V, §501(a), Dec. 19, 1991, 105 Stat. 2249, 2349, 2388; Pub. L. 102–550, title XVI, §§1605(a)(5)(B), 1607(a), Oct. 28, 1992, 106 Stat. 4085, 4089; Pub. L. 102–558, title III, §§303(b)(6)(B), 305, Oct. 28, 1992, 106 Stat. 4225, 4226; Pub. L. 103–204, §9, Dec. 17, 1993, 107 Stat. 2388; Pub. L. 103–325, title III, §319(b), title VI, §602(a)(2), (3), Sept. 23, 1994, 108 Stat. 2225, 2288; Pub. L. 104–208, div. A, title II, §§2201(a), 2702(i), 2704(d)(14)(B)–(E), Sept. 30, 1996, 110 Stat. 3009–403, 3009–483, 3009–491.)
 
 #### References in Text
 
@@ -460,7 +430,11 @@ Section is derived from subsec. (f)(2) of former section 264 of this title. See 
 
 #### Amendments
 
-1996—Subsec. (d)(3)(A). Pub. L. 104–208, §2201(a)(1), substituted “if the transaction is approved by” for “with the prior written approval of”.
+1996—Subsec. (b)(5). Pub. L. 104–208, §2704(d)(14)(B), which directed substitution of “Deposit Insurance Fund,” for “the Bank Insurance Fund or the Savings Association Insurance Fund;”, was not executed. See Effective Date of 1996 Amendment note below.
+
+Subsec. (d). Pub. L. 104–208, §2704(d)(14)(C) and (D), which directed the amendment of subsec. (d) by striking out par. (1) designation and heading, redesignating subpar. (A) of par. (1) as par. (1), realigning margin, and substituting “the reserve ratio of the Deposit Insurance Fund” for “reserve ratios in the Bank Insurance Fund and the Savings Association Insurance Fund”, striking out subpar. (B) of par. (1) and pars. (2) and (3) and adding new par. (2), and redesignating subpar. (C) of par. (1) as par. (3) and realigning margin, was not executed. See Effective Date of 1996 Amendment note below.
+
+Subsec. (d)(3)(A). Pub. L. 104–208, §2201(a)(1), substituted “if the transaction is approved by” for “with the prior written approval of”.
 
 Subsec. (d)(3)(C). Pub. L. 104–208, §2702(i)(1), substituted “Except as provided in subparagraph (K), the adjusted attributable deposit amount” for “The adjusted attributable deposit amount” in introductory provisions.
 
@@ -469,6 +443,10 @@ Subsec. (d)(3)(E). Pub. L. 104–208, §2201(a)(2), added cl. (iii), redesignate
 Subsec. (d)(3)(G) to (J). Pub. L. 104–208, §2201(a)(3), (4), redesignated subpars. (H) to (J) as (G) to (I), respectively and struck out former subpar. (G) which related to expedited approval of acquisitions.
 
 Subsec. (d)(3)(K). Pub. L. 104–208, §2702(i)(2), added subpar. (K).
+
+Subsec. (e)(5)(A). Pub. L. 104–208, §2704(d)(14)(E)(i), which directed substitution of “Deposit Insurance Fund” for “Bank Insurance Fund or the Savings Association Insurance Fund”, was not executed. See Effective Date of 1996 Amendment note below.
+
+Subsec. (e)(6) to (9). Pub. L. 104–208, §2704(d)(14)(E)(ii), (iii), which directed striking out par. (6) and redesignating pars. (7) to (9) as (6) to (8), respectively, was not executed. See Effective Date of 1996 Amendment note below.
 
 1994—Subsec. (b)(5). Pub. L. 103–325, §602(a)(2), substituted comma for semicolon at end.
 

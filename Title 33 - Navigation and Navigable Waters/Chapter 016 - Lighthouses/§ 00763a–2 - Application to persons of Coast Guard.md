@@ -16,7 +16,3 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 Coast Guard transferred to Department of Transportation, and all functions, powers, and duties relating to Coast Guard of Secretary of the Treasury and of other officers and offices of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, §6(b)(1), Oct. 15, 1966, 80 Stat. 938. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in section 3 of Title 14. See section 108 of Title 49, Transportation.
 
-#### Cross References
-
-For other provisions relating to section 763 of this title, see sections 763a–1, 765, and 766 of this title.
-

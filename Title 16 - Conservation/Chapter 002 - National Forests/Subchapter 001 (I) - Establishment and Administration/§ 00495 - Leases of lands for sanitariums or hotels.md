@@ -12,12 +12,6 @@ The Secretary of Agriculture is authorized, under such rules and regulations as 
 
 Act Feb. 1, 1905 transferred certain functions with regard to administration of national forests from Secretary of the Interior to Secretary of Agriculture.
 
-#### Cross References
-
-Contracts for sale of forest products, use of national-forest lands, etc., exempt from requirements of section 20 of Title 41 where amount involved is less than $300, see section 20a of Title 41, Public Contracts.
-
-Use and occupation of lands in national forests for summer homes, hotels, stores, and other recreation facilities, see section 497 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 496 of this title.

@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—PAY
 
-#### Cross References
-
-Pay and allowances generally, see Title 37, Pay and Allowances of the Uniformed Services.
-
 
 ---
 

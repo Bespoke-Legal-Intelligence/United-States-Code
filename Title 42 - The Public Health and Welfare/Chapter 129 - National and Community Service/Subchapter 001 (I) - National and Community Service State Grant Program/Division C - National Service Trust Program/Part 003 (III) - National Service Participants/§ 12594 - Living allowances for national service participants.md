@@ -8,7 +8,7 @@
 
 #### (2) Limitation on Federal share
 
-&emsp;The amount of the annual living allowance provided under paragraph (1) that may be paid using assistance provided under section 12571 of this title and using any other Federal fundsshall not exceed 85 percent of the total average annual <sup>1</sup> provided to VISTA volunteers under section 4955 of this title.
+&emsp;The amount of the annual living allowance provided under paragraph (1) that may be paid using assistance provided under section 12571 of this title and using any other Federal funds shall not exceed 85 percent of the total average annual <sup>1</sup> provided to VISTA volunteers under section 4955 of this title.
 
 #### (3) Maximum living allowance
 
@@ -78,7 +78,7 @@ A State or other recipient of assistance under section 12571 of this title shall
 
 #### (g) Waiver of limitation on Federal share
 
-The Corporation may waive in whole or in part the limitation on the Federal share specified inthis section with respect to a particular national service program in any fiscal year if the Corporation determines that such a waiver would be equitable due to a lack of available financial resources at the local level.
+The Corporation may waive in whole or in part the limitation on the Federal share specified in this section with respect to a particular national service program in any fiscal year if the Corporation determines that such a waiver would be equitable due to a lack of available financial resources at the local level.
 
 #### (h) Limitation on number of terms of service for federally subsidized living allowance
 

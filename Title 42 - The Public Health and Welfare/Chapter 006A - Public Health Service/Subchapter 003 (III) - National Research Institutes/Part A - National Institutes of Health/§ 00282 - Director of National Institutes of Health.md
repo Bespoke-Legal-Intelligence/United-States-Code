@@ -8,7 +8,7 @@ The National Institutes of Health shall be headed by the Director of the Nationa
 
 In carrying out the purposes of section 241 of this title, the Secretary, acting through the Director of NIH—
 
-&emsp;(1) shall be responsible for the overall direction of the National Institutes of Health and for the establishment and implementation of general policies respecting the managementand operation of programs and activities within the National Institutes of Health;
+&emsp;(1) shall be responsible for the overall direction of the National Institutes of Health and for the establishment and implementation of general policies respecting the management and operation of programs and activities within the National Institutes of Health;
 
 &emsp;(2) shall coordinate and oversee the operation of the national research institutes and administrative entities within the National Institutes of Health;
 
@@ -102,7 +102,7 @@ The Secretary, acting through the Director of NIH and the Directors of the agenc
 
 #### (i) Discretionary fund; uses; report to Congressional committees; authorization of appropriations
 
-(1) There is established a fund, consisting of amounts appropriated under paragraph (3) and made available for the fund, for use by the Director of NIH to carry out the activities authorized in this chapter for the National Institutes of Health. The purposes for which such fund may be expended include—
+(1) There is established a fund, consisting of amounts appropriated under paragraph (3) and made available for the fund, for use by the Director of NIH to carry out the activities authorized in this chapter for the National Institutesof Health. The purposes for which such fund may be expended include—
 
 &emsp;(A) providing for research on matters that have not received significant funding relative to other matters, responding to new issues and scientific emergencies, and acting on research opportunities of high priority;
 
@@ -116,7 +116,7 @@ The Secretary, acting through the Director of NIH and the Directors of the agenc
 
 #### (j) Data bank of information on clinical trials for drugs for serious or life-threatening diseases and conditions
 
-(1)(A) The Secretary, acting through the Director of NIH, shall establish, maintain, and operate a data bank of information on clinical trials for drugs for serious or life-threatening diseases and conditions (in this subsection referred to as the “data bank”). The activities of the data bank shall be integrated and coordinated with related activities of other agencies of the Department of Health and Human Services,and to the extent practicable, coordinated with other data banks containing similar information.
+(1)(A) The Secretary, acting through the Director of NIH, shall establish, maintain, and operate a data bank of information on clinical trials for drugs for serious or life-threatening diseases and conditions (in this subsection referred to as the “data bank”). The activities of the data bank shall be integrated and coordinated with related activities of other agencies of the Department of Health and Human Services, and to the extent practicable, coordinated with other data banks containing similar information.
 
 (B) The Secretary shall establish the data bank after consultation with the Commissioner of Food and Drugs, the directors of the appropriate agencies of the National Institutes of Health (including the National Library of Medicine), and the Director of the Centers for Disease Control and Prevention.
 
@@ -150,7 +150,7 @@ The Secretary, acting through the Director of NIH and the Directors of the agenc
 
 The Director of NIH shall carry out the program established in part F of subchapter X of this chapter (relating to interagency research on trauma).
 
-(July 1, 1944, ch. 373, title IV, §402, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 823; amended Pub. L. 100–607, title I, §111, Nov. 4, 1988, 102 Stat. 3052; Pub. L. 102–321, title I, §163(b)(3), July 10, 1992, 106 Stat. 376; Pub. L. 103–43, title I, §141(b), title II, §§201, 202, 206, 208, 210(b), (c), title III, §303(b), June 10, 1993, 107 Stat. 139, 144, 148–150, 153; Pub. L. 105–115, title I, §113(a), Nov. 21, 1997, 111 Stat. 2310; Pub. L. 105–362, title VI, §601(a)(1)(A), Nov. 10, 1998, 112 Stat. 3285; Pub. L. 105–392, title IV, §409, Nov. 13, 1998, 112 Stat. 3589.)
+(July 1, 1944, ch. 373, title IV, §402, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 823; amended Pub. L. 100–607, title I, §111, Nov. 4, 1988, 102 Stat. 3052; Pub. L. 102–321, title I, §163(b)(3), July 10, 1992, 106 Stat. 376; Pub. L. 103–43, title I, §141(b), title II, §§201, 202, 206, 208, 210(b), (c), title III, §303(b), June 10, 1993, 107 Stat. 139, 144, 148–150, 153; Pub. L. 105–115, title I, §113(a), Nov. 21, 1997, 111 Stat. 2310; Pub. L. 105–362, title VI,§601(a)(1)(A), Nov. 10, 1998, 112 Stat. 3285; Pub. L. 105–392, title IV, §409, Nov. 13, 1998, 112 Stat. 3589.)
 
 #### References in Text
 
@@ -200,7 +200,7 @@ Subsec. (k). Pub. L. 103–43, §303(b), added subsec. (k).
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Effective Date of 1997 Amendment
 
@@ -254,7 +254,7 @@ Section 1912 of Pub. L. 103–43 directed Secretary of Health and Human Services
 
 #### Master Plan for Physical Infrastructure for Research
 
-Section 2002 of Pub. L. 103–43 directed Secretary of Health and Human Services, acting through Director ofthe National Institutes of Health, not later than June 1, 1994, to present to Congress a master plan to provide for replacement or refurbishment of less than adequate buildings, utility equipment and distribution systems (including the resources that provide electrical and other utilities, chilled water, air handling, and other services that the Secretary, acting through the Director, deemed necessary), roads, walkways, parking areas, and grounds that underpin the laboratory and clinical facilities of the National Institutes of Health, and provided that the plan could make recommendations for the undertaking of new projects that are consistent with the objectives of this section, such as encircling the National Institutes of Health Federal enclave with an adequate chilled water conduit.
+Section 2002 of Pub. L. 103–43 directed Secretary of Health and Human Services, acting through Director of the National Institutes of Health, not later than June 1, 1994, to present to Congress a master plan to provide for replacement or refurbishment of less than adequate buildings, utility equipment and distribution systems (including the resources that provide electrical and other utilities, chilled water, air handling, and other services that the Secretary, acting through the Director, deemed necessary), roads, walkways, parking areas, and grounds that underpin the laboratory and clinical facilities of the National Institutes of Health, and provided that the plan could make recommendations for the undertaking of new projects that are consistent with the objectives of this section, such as encircling the National Institutes of Health Federal enclave with an adequate chilled water conduit.
 
 #### Section Referred to in Other Sections
 

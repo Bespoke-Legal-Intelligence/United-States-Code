@@ -8,10 +8,6 @@ In all cases where private property shall be taken by the United States for the 
 
 Section is from act July 18, 1918, popularly known as the “Rivers and Harbors Appropriation Act of 1918”.
 
-#### Cross References
-
-Condemnation for flood control, section as applicable to, see sections 701c–2 and 702d of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 701c–2, 702d of this title.

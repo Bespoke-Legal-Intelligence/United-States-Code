@@ -18,3 +18,7 @@ The Secretary is authorized to—
 
 (Pub. L. 105–220, title I, §160, Aug. 7, 1998, 112 Stat. 1020.)
 
+#### Prior Provisions
+
+Provisions similar to this section were contained in section 1708 of this title prior to repeal by Pub. L. 105–220.
+

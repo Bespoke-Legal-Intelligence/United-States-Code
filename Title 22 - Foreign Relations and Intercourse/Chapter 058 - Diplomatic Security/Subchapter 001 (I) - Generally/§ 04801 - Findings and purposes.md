@@ -14,7 +14,7 @@ The Congress finds and declares that—
 
 The purposes of this chapter are—
 
-&emsp;(1) to set forth the responsibility of the Secretary of State with respect to the security ofdiplomatic operations in the United States and abroad;
+&emsp;(1) to set forth the responsibility of the Secretary of State with respect to the security of diplomatic operations in the United States and abroad;
 
 &emsp;(2) to maximize coordination by the Department of State with Federal, State, and local agencies and agencies of foreign governments in order to enhance security programs;
 
@@ -38,7 +38,7 @@ This chapter, referred to in subsec. (b), was in the original “titles I throug
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–236 applicable with respect to officials, offices, and bureaus of Department of State when executive orders, regulations, or departmental directives implementing the amendments by sections 161 and 162 of Pub. L. 103–236 become effective, or 90 days after Apr. 30, 1994, whichever comes earlier, see section 161(b) of Pub. L. 103–236, as amended, set out as a note under section 2651a of this title.
+Amendment by Pub. L. 103–236 applicable with respect to officials, offices, and bureaus of Department of State when executive orders, regulations, or departmental directives implementing the amendments by sections 161 and 162 of Pub. L. 103–236 become effective, or 90 days after Apr. 30, 1994, whichever comes earlier,see section 161(b) of Pub. L. 103–236, as amended, set out as a note under section 2651a of this title.
 
 #### Short Title of 1999 Amendment
 

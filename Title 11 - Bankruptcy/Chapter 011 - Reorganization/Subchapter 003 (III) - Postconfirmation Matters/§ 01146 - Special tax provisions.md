@@ -1,6 +1,6 @@
 ### §1146. Special tax provisions
 
-(a) For the purposes of any State or local law imposing a tax on or measured by income, thetaxable period of a debtor that is an individual shall terminate on the date of the order for relief under this chapter, unless the case was converted under section 706 of this title.
+(a) For the purposes of any State or local law imposing a tax on or measured by income, the taxable period of a debtor that is an individual shall terminate on the date of the order for relief under this chapter, unless the case was converted under section 706 of this title.
 
 (b) The trustee shall make a State or local tax return of income for the estate of an individual debtor in a case under this chapter for each taxable period after the order for relief under this chapter during which the case is pending.
 
@@ -28,7 +28,7 @@ The House amendment retains the State and local rules in the House bill with one
 
 #### senate report no. 95–989
 
-Section 1146 provides special tax rules applicable to Title 11 reorganizations. Subsection (a) provides that the taxable period of an individual debtor terminates on the date of the order for relief, unless the case has been converted into a reorganization from a liquidation proceeding.
+Section 1146 provides special tax rules applicable to Title 11 reorganizations. Subsection (a) provides that the taxable period of an individual debtor terminates on the date of the order for relief, unless the case hasbeen converted into a reorganization from a liquidation proceeding.
 
 Subsection (b) requires the trustee of the estate of an individual debtor in a reorganization to file a tax return for each taxable period while the case is pending after the order for relief. For corporations in chapter 11, the trustee is required to file the tax returns due while the case is pending (sec. 346(c)(2)).
 

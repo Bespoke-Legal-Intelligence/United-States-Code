@@ -2,7 +2,7 @@
 
 #### (a) Preparation and adoption by Commission
 
-The Commission is hereby charged with the duty of preparing and adopting a comprehensive, consistent, and coordinated plan for the National Capital, which plan shall include the Commission's recommendations or proposals for Federal developments or projects in the environs, and those District elements, or amendments thereto, of the comprehensive plan adopted by the Council and with respect to which the Commission has not determined a negative impact to exist, which elements or amendments shall be incorporated into such comprehensive plan without change. The Commission shall collaborate with the National Capital Regional Planning Council in the development of those elements of the plan for the National Capital which should be incorporated in the regional plan provided for in section 71b of this title. While consistency between the respective proposals of the Commission and the National Capital Regional Planning Council shall be sought, lack of action or agreement by the National Capital Regional Planning Council shall not prevent the Commission from adopting any part of its plan or any recommendation or proposal for Federal developments or projects in the environs. The Commission may include in its plan any portion of any plan adopted by the National Capital Regional Planning Council or any planning agency in the environs and from time to time make recommendations of collateral interest to the National Capital Regional Planning Council or to the aforesaid agencies.
+The Commission is hereby charged with the duty of preparing and adopting a comprehensive, consistent, and coordinated plan for the National Capital, which plan shall include the Commission's recommendations or proposals for Federal developments or projects in the environs, and those District elements, or amendments thereto, of the comprehensive plan adopted by the Council and with respect to which the Commission has not determined a negative impact to exist, which elements or amendments shall be incorporated into such comprehensive plan without change. The Commission shall collaborate with the National Capital Regional Planning Council in the development of those elements of the plan for the National Capital which should be incorporated in the regional plan provided for in section 71b of this title. While consistency between the respective proposals of the Commission and the National Capital Regional Planning Council shall be sought,lack of action or agreement by the National Capital Regional Planning Council shall not prevent the Commission from adopting any part of its plan or any recommendation or proposal for Federal developments or projects in the environs. The Commission may include in its plan any portion of any plan adopted by the National Capital Regional Planning Council or any planning agency in the environs and from time to time make recommendations of collateral interest to the National Capital Regional Planning Council or to the aforesaid agencies.
 
 #### (b), (c) Repealed. Pub. L. 93–198, title II, §203(c)(3), Dec. 24, 1973, 87 Stat. 782
 
@@ -26,8 +26,6 @@ Section 71b of this title, referred to in subsec. (a), was omitted from the Code
 
 The words “National Capital Regional Planning” were added before references to “Council” where necessary to avoid possible confusion between references to such Council and the District of Columbia Council.
 
-Section is also set out in D.C. Code, §1–2003.
-
 #### Prior Provisions
 
 Provisions similar to those concerning preparation and maintenance of a comprehensive plan for the National Capital and its environs were contained in section 71 of this title prior to amendment by act July 19, 1952.
@@ -42,17 +40,13 @@ Subsecs. (b), (c). Pub. L. 93–198, §203(c)(3), repealed provisions of subsec.
 
 #### Transfer of Functions
 
-“Council of the District of Columbia” substituted in text for “District of Columbia Council” pursuant to section 401 of Pub. L. 93–198. District of Columbia Council, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by Pub. L. 93–198, title VII, §711, Dec. 24, 1973, 87 Stat. 818, classified to section 1–211 of the District of Columbia Code, and replaced by Council of District of Columbia, as provided by section 401 of Pub. L. 93–198, classified to section 1–221 of the District of Columbia Code.
+“Council of the District of Columbia” substituted in text for “District of Columbia Council” pursuant to section 401 of Pub. L. 93–198. District of Columbia Council, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by Pub. L. 93–198, title VII, §711, Dec. 24, 1973, 87 Stat. 818, and replaced by Council of District of Columbia, as provided by section 401 of Pub. L. 93–198.
 
 Previously, reference to the Board of Commissioners of the District of Columbia had been changed to the District of Columbia Council pursuant to section 402(28) of Reorganization Plan No. 3 of 1967, 32 F.R. 11669, set out in the Appendix to Title 5, Government Organization and Employees, which transferred the regulatory and other functions of the Board of Commissioners relating to consultations concerning the formation of one or more citizens advisory councils under subsec. (e) of this section to the District of Columbia Council, subject to the right of the Commissioner as provided by section 406 of the Plan. For provisions abolishing the District of Columbia Council, see section 201 of Reorg. Plan No. 3 of 1967.
 
 #### Abolition of Council
 
 National Capital Regional Planning Council, referred to in subsec. (a), abolished by Reorg. Plan No. 5 of 1966, eff. Sept. 8, 1966, 31 F.R. 11857, 80 Stat. 1611, set out as a note under section 71b of this title.
-
-#### Definitions
-
-The definitions in section 1–202 of the District of Columbia Code apply to this section as amended by Pub. L. 93–198.
 
 #### Ex. Ord. No. 11815. Delegation of Presidential Function of Establishing Metes and Bounds of National Capital Service Area
 

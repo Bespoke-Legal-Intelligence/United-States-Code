@@ -25,12 +25,6 @@
 
 1958—Pub. L. 85–861, §1(182), Sept. 2, 1958, 72 Stat. 1533, struck out item 8546 “Duties: medical officers, contract surgeons; attendance on families of members”.
 
-#### Cross References
-
-Reserve Forces Policy Board, designation of officer of Regular Air Force as member, see section 10301 of this title.
-
-Special appointments, assignments, details and duties, general military law provisions, see section 711 et seq. of this title.
-
 
 ---
 

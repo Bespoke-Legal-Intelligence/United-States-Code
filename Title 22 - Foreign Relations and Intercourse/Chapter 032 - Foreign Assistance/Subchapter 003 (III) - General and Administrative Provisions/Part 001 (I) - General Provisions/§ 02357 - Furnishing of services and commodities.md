@@ -10,7 +10,7 @@ Whenever the President determines it to be consistent with and in furtherance of
 
 #### (b) Agency contracts with individuals to perform services
 
-When any agency of the United States Government provides services on an advance-of-funds or reimbursable basis under this section, such agency may contract with individuals for personal service abroad or in the United States toperform such services or to replace officers or employees of the United States Government who are assigned by the agency to provide such services. Such individuals shall not be regarded as employees of the United States Government for the purpose of any law administered by the Director of the Office of Personnel Management.
+When any agency of the United States Government provides services on an advance-of-funds or reimbursable basis under this section, such agency may contract with individuals for personal service abroad or in the United States to perform such services or to replace officers or employees of the United States Government who are assigned by the agency to provide such services. Such individuals shall not be regarded as employees of the United States Government forthe purpose of any law administered by the Director of the Office of Personnel Management.
 
 #### (c) Excess property
 
@@ -80,7 +80,7 @@ Section 122(b) of Pub. L. 95–88 provided that: “For purposes of implementing
 
 #### Transfer of Functions
 
-“Director of the Office of Personnel Management” substituted for “Civil Service Commission” in subsec. (b) pursuant to Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred all functions vested by statute in the United States Civil Service Commission to the Director of the Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
+“Director of the Office of Personnel Management” substituted for “Civil Service Commission” in subsec.\(b) pursuant to Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred all functions vested by statute in the United States Civil Service Commission to the Director of the Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
 
 #### Authority of Secretary of State
 
@@ -120,5 +120,5 @@ Advisory committees in existence on Jan. 5, 1973, to terminate not later than th
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 287e–2, 2358 of this title; title 40 section 512.
+This section is referred to in sections 287e–2, 2358, 2395 of this title; title 40 section 512.
 

@@ -40,7 +40,7 @@ The Secretary shall make grants under this subchapter on a formula basis to the 
 
 #### References in Text
 
-Section 5116d(3) of this title, referred to in subsec. (b)(3), was in the original “section 205(a)(3)” and was translated as reading “section 205(3)”, meaning section 205(3) of Pub. L. 93–247, to reflect the probable intent ofCongress, because section 205 does not contain subsections.
+Section 5116d(3) of this title, referred to in subsec. (b)(3), was in the original “section 205(a)(3)” and was translated as reading “section 205(3)”, meaning section 205(3) of Pub. L. 93–247, to reflect the probable intent of Congress, because section 205 does not contain subsections.
 
 #### Prior Provisions
 

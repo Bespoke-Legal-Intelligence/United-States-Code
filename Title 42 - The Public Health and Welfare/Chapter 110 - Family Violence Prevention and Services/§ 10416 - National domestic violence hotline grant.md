@@ -54,25 +54,29 @@ A grant may not be made under this section unless an application for such grant 
 
 #### (1) In general
 
-&emsp;There are authorized to be appropriated to carry out this section—
-
-&emsp;&emsp;(A) $1,000,000 for fiscal year 1995;
-
-&emsp;&emsp;(B) $400,000 for fiscal year 1996;
-
-&emsp;&emsp;(C) $400,000 for fiscal year 1997;
-
-&emsp;&emsp;(D) $400,000 for fiscal year 1998;
-
-&emsp;&emsp;(E) $400,000 for fiscal year 1999; and
-
-&emsp;&emsp;(F) $400,000 for fiscal year 2000.
+&emsp;There are authorized to be appropriated to carry out this section $2,000,000 for each of fiscal years 2001 through 2005.
 
 #### (2) Availability
 
 &emsp;Funds authorized to be appropriated under paragraph (1) shall remain available until expended.
 
-(Pub. L. 98–457, title III, §316, as added Pub. L. 103–322, title IV, §40211, Sept. 13, 1994, 108 Stat. 1925.)
+(Pub. L. 98–457, title III, §316, as added Pub. L. 103–322, title IV, §40211, Sept. 13, 1994, 108 Stat. 1925; amended Pub. L. 106–386, div. B, title II, §1204, Oct. 28, 2000, 114 Stat. 1507.)
+
+#### Amendments
+
+2000—Subsec. (f)(1). Pub. L. 106–386 added par. (1) and struck out heading and text of former par. (1). Text read as follows: “There are authorized to be appropriated to carry out this section—
+
+&emsp;“(A) $1,000,000 for fiscal year 1995;
+
+&emsp;“(B) $400,000 for fiscal year 1996;
+
+&emsp;“(C) $400,000 for fiscal year 1997;
+
+&emsp;“(D) $400,000 for fiscal year 1998;
+
+&emsp;“(E) $400,000 for fiscal year 1999; and
+
+&emsp;“(F) $400,000 for fiscal year 2000.”
 
 #### Section Referred to in Other Sections
 

@@ -50,11 +50,11 @@ Merchandise which is introduced or attempted to be introduced into the United St
 
 #### References in Text
 
-The Controlled Substances Act, referred to in subsec. (c)(1)(B), is title II of Pub. L. 91–513, Oct. 27, 1970, 84Stat. 1242, as amended, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
+The Controlled Substances Act, referred to in subsec. (c)(1)(B), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
 
 #### Codification
 
-In subsec. (c)(1)(C), “section 80302 of title 49” substituted for “section 1 of the Act of August 9, 1939 (49 U.S.C. App. 781)” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
+In subsec. (c)(1)(C), “section 80302 of title 49” substituted for “section 1 of the Act of August 9, 1939 (49U.S.C. App. 781)” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 
 #### Amendments
 

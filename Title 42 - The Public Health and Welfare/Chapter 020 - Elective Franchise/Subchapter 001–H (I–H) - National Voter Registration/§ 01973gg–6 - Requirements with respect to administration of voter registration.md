@@ -68,7 +68,7 @@ Any State program or activity to protect the integrity of the electoral process 
 
 #### (d) Removal of names from voting rolls
 
-(1) A State shall not remove the name of a registrant from the official list of eligible voters in elections for Federal office on the ground that the registrant has changed residence unless the registrant—
+(1) A State shall not remove the name of a registrant from the official list of eligible voters inelections for Federal office on the ground that the registrant has changed residence unless the registrant—
 
 &emsp;(A) confirms in writing that the registrant has changed residence to a place outside the registrar's jurisdiction in which the registrant is registered; or
 

@@ -1,6 +1,6 @@
 ### §2147. Inspection by legally constituted law enforcement agencies
 
-The Secretary shall promulgate rules and regulations requiring dealers, exhibitors, researchfacilities, and operators of auction sales subject to section 2142 of this title to permit inspection of their animals and records at reasonable hours upon request by legally constituted law enforcement agencies in search of lost animals.
+The Secretary shall promulgate rules and regulations requiring dealers, exhibitors, research facilities, and operators of auction sales subject to section 2142 of this title to permit inspection of their animals and records at reasonable hours upon request by legally constituted law enforcement agencies in search of lost animals.
 
 (Pub. L. 89–544, §17, Aug. 24, 1966, 80 Stat. 352; Pub. L. 91–579, §18, Dec. 24, 1970, 84 Stat. 1564.)
 

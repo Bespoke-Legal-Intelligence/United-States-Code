@@ -72,7 +72,7 @@ The written contract (referred to in this subpart) between the Secretary and an 
 
 &emsp;&emsp;&emsp;(i) to accept provision of such a scholarship to the individual;
 
-&emsp;&emsp;&emsp;(ii) to maintain enrollment in a course of study described in subsection (b)(1)(B) of this section until the individual completes the course of study;
+&emsp;&emsp;&emsp;(ii) to maintain enrollment in a course of study described in subsection (b)(1)(B) ofthis section until the individual completes the course of study;
 
 &emsp;&emsp;&emsp;(iii) while enrolled in such course of study, to maintain an acceptable level of academic standing (as determined under regulations of the Secretary by the educational institution offering such course of study); and
 
@@ -110,31 +110,7 @@ The written contract (referred to in this subpart) between the Secretary and an 
 
 Notwithstanding any other provision of law, individuals who have entered into written contracts with the Secretary under this section, while undergoing academic training, shall not be counted against any employment ceiling affecting the Department.
 
-#### (i) Annual report to Congress; contents
-
-Not later than March 1 of each year, the Secretary shall submit to the Congress a report providing, with respect to the preceding fiscal year—
-
-&emsp;(1) the number, and type of health profession training, of students receiving scholarships under the Scholarship Program;
-
-&emsp;(2) the educational institutions at which such students are receiving their training;
-
-&emsp;(3) the number of applications filed under this section in the school year beginning in such year and in prior school years;
-
-&emsp;(4) the amount of scholarship payments made for each of tuition, stipends, and other expenses, in the aggregate and at each educational institution for the school year beginning in such year and for prior school years;
-
-&emsp;(5)(A) the number, and type of health professions training, of individuals who have breached the contract under subsection (f) of this section through any of the actions specified in subsection (a) or (b) of section 254<i>o</i> of this title; and
-
-&emsp;(B) with respect to such individuals—
-
-&emsp;&emsp;(i) the educational institutions with respect to which payments have been made or were to be made under the contract;
-
-&emsp;&emsp;(ii) the amounts for which the individuals are liable to the United States under section 254<i>o</i> of this title;
-
-&emsp;&emsp;(iii) the extent of payment by the individuals of such amounts; and
-
-&emsp;&emsp;(iv) if known, the basis for the decision of the individuals to breach the contract under subsection (f) of this section; and
-
-&emsp;(6) the effectiveness of the Secretary in recruiting health professionals to participate in the Scholarship Program, and in encouraging and assisting such professionals with respect to providing primary health services to health professional shortage areas after the completion of the period of obligated service under such Program.
+#### (i) Omitted
 
 (July 1, 1944, ch. 373, title III, §338A, formerly title VII, §751, as added Pub. L. 94–484, title IV, §408(b)(1), Oct. 12, 1976, 90 Stat. 2281; amended Pub. L. 95–215, §5, Dec. 19, 1977, 91 Stat. 1506; Pub. L. 95–623, §12(c), Nov. 9, 1978, 92 Stat. 3457; Pub. L. 95–626, title I, §113(b), Nov. 10, 1978, 92 Stat. 3563; Pub. L. 96–32, §7(i), July 10, 1979, 93 Stat. 84; renumbered §338A and amended Pub. L. 97–35, title XXVII, §2709(a), (b), Aug. 13, 1981, 95 Stat. 908; Pub. L. 99–129, title II, §210(b), Oct. 22, 1985, 99 Stat. 537; Pub. L. 100–607, title VI, §629(a)(2), Nov. 4, 1988, 102 Stat. 3146; Pub. L. 101–509, title V, §529 \[title I, §101(b)(4)(K)\], Nov. 5, 1990, 104 Stat. 1427, 1440; Pub. L. 101–597, title II, §201, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3021, 3035.)
 
@@ -148,7 +124,9 @@ Section 292k of this title, referred to in subsec. (g)(1)(A), was in the origina
 
 #### Codification
 
-In subsec. (g)(2), “section 3324(a) and (b) of title 31” substituted for “section 3648 of the Revised Statutes (31 U.S.C. 529)” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (g)(2), “section 3324(a) and (b) of title 31” substituted for “section 3648 of the Revised Statutes (31U.S.C. 529)” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+
+Subsec. (i) of this section, which required the Secretary to submit an annual report to Congress on the Scholarship Program, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 96 of House Document No. 103–7.
 
 Section was formerly classified to section 294t of this title prior to its renumbering by Pub. L. 97–35.
 
@@ -174,7 +152,7 @@ Pub. L. 101–597, §201(c), amended subsec. (d) generally. Prior to amendment, 
 
 &emsp;&emsp;“(B) for the school year beginning in calendar year 1979, by individuals who are entering their first or second year of study in a course of study or program described in subsection (b)(1)(B) of this section in such school year; and
 
-&emsp;&emsp;“(C) for each school year thereafter, by individuals who are entering their first year of study in acourse of study or program described in subsection (b)(1)(B) of this section in such school year.”
+&emsp;&emsp;“(C) for each school year thereafter, by individuals who are entering their first year of study in a course of study or program described in subsection (b)(1)(B) of this section in such school year.”
 
 Subsec. (f)(1)(B)(iv). Pub. L. 101–597, §401(b)\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area in closing provisions.
 
@@ -248,7 +226,7 @@ Section 408(b)(2) of Pub. L. 94–484, as amended, eff. Oct. 12, 1976, by Pub. L
 
 “(B) The provisions of section 225(f)(1) of the Public Health Service Act (as in effect on September 30, 1977) \[former section 234(f)(1) of this title\] prescribing the financial obligation of a participant in the Public Health and National Health Service Corps Scholarship Program who fails to complete an active duty service obligation incurred under that Program shall apply to any individual who received a scholarship under such Program from appropriations for such Program for any fiscal year ending before October 1, 1977.
 
-“(C) If an individual received a scholarship under the Public Health and National Health Service Corps Scholarship Program for any school year beginning before the date of the enactment of this Act \[Oct. 12, 1976\], periods of internship or residency served by such individual in a facility of the National Health Service Corps or other facility of the Public Health Service shall be creditable in satisfying such individual's service obligation incurred under that Program for such scholarship or for any scholarship received under the National Health Service Corps Scholarship Program for any subsequent school year. If an individual received a scholarship under the Public Health and National Health Service Corps Program for the first time fromappropriations for such Program for the fiscal year ending September 30, 1977, periods of internship or residency served by such individual in such a facility shall be creditable in satisfying such individual's service obligation incurred under that Program for such scholarship.”
+“(C) If an individual received a scholarship under the Public Health and National Health Service Corps Scholarship Program for any school year beginning before the date of the enactment of this Act \[Oct. 12, 1976\], periods of internship or residency served by such individual in a facility of the National Health Service Corps or other facility of the Public Health Service shall be creditable in satisfying such individual's service obligation incurred under that Program for such scholarship or for any scholarship received under the National Health Service Corps Scholarship Program for any subsequent school year. If an individual received a scholarship under the Public Health and National Health Service Corps Program for the first time from appropriations for such Program for the fiscal year ending September 30, 1977, periods of internship or residency served by such individual in such a facility shall be creditable in satisfying such individual's service obligation incurred under that Program for such scholarship.”
 
 #### Section Referred to in Other Sections
 

@@ -54,7 +54,7 @@ Pub. L. 103–423, Oct. 25, 1994, 108 Stat. 4358, provided that:
 
 #### “SEC. 2. PRESIDENTIAL STATEMENT OF NATIONAL SECURITY OBJECTIVES.
 
-“The President shall prepare and submit to the President pro tempore of the Senate and the Speaker of the House of Representatives (hereafter, ‘Congress’) not later than seven days after enactment of this resolution \[Oct. 25, 1994\] a statement of the national security objectives to be achieved by Operation Uphold Democracy, and a detailed description of United States policy, the military mission and the general rules of engagement under which operations of United States Armed Forces are conducted in and around Haiti, including the role of United States Armed Forces regarding Haitian on Haitian violence, and efforts to disarm Haitian military or police forces, or civilians. Changes or modifications to such objectives, policy, military mission, or general rules of engagement shall be submitted to Congress within forty-eight hours of approval.
+“The President shall prepare and submit to the President pro tempore of the Senate and the Speaker of the House of Representatives (hereafter, ‘Congress’) not later than seven days after enactment of this resolution \[Oct. 25, 1994\] a statement of the national security objectives to be achieved by Operation Uphold Democracy, and a detailed description of United States policy, the military mission and the general rules of engagement under which operations of United States Armed Forces are conducted in and around Haiti, including the role of United States Armed Forces regarding Haitian on Haitian violence, and efforts to disarm Haitian military or police forces, or civilians. Changesor modifications to such objectives, policy, military mission, or general rules of engagement shall be submitted to Congress within forty-eight hours of approval.
 
 #### “SEC. 3. REPORT ON THE SITUATION IN HAITI.
 
@@ -306,7 +306,7 @@ Sec. 2. (a) The Congress finds that—
 
 “
 
-Sec. 3. The President is authorized, for purposes of section 5(b) of the War Powers Resolution \[50 U.S.C. 1544(b)\], to continue participation by United States Armed Forces in the Multinational Force in Lebanon, subject to the provisions of section 6 of this joint resolution. Such participation shall be limited to performance of the functions, and shall be subject to the limitations, specified in the agreement establishing the Multinational Force in Lebanon as set forth in the exchange of letters between the Governments of the United States and Lebanon dated September 25, 1982, except that this shall not preclude such protectivemeasures as may be necessary to ensure the safety of the Multinational Force in Lebanon.
+Sec. 3. The President is authorized, for purposes of section 5(b) of the War Powers Resolution \[50 U.S.C. 1544(b)\], to continue participation by United States Armed Forces in the Multinational Force in Lebanon, subject to the provisions of section 6 of this joint resolution. Such participation shall be limited to performance of the functions, and shall be subject to the limitations, specified in the agreement establishing the Multinational Force in Lebanon as set forth in the exchange of letters between the Governments of the United States and Lebanon dated September 25, 1982, except that this shall not preclude such protective measures as may be necessary to ensure the safety of the Multinational Force in Lebanon.
 
 #### “reports to the congress
 
@@ -328,7 +328,7 @@ Sec. 4. As required by section 4(c) of the War Powers Resolution \[50 U.S.C. 154
 
 “
 
-Sec. 5. (a) The Congress declares that the participation of the armed forces of other countries in the Multinational Force in Lebanon is essential to maintain the international character of the peacekeeping function in Lebanon.
+Sec. 5. (a) The Congress declares that the participation of the armed forces of other countries in theMultinational Force in Lebanon is essential to maintain the international character of the peacekeeping function in Lebanon.
 
 “(b) The Congress believes that it should continue to be the policy of the United States to promote continuing discussions with Israel, Syria, and Lebanon with the objective of bringing about the withdrawal of all foreign troops from Lebanon and establishing an environment which will permit the Lebanese Armed Forces to carry out their responsibilities in the Beirut area.
 

@@ -10,11 +10,3 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 References to Commissioner of General Land Office and registers of United States Land Offices changed to Secretary of the Interior or such officer as he may designate and “Bureau of Land Management” substituted for “General Land Office” on authority of section 403 of Reorg. Plan No. 3 of 1946. See note set out under section 1 of this title.
 
-#### Federal Rules of Civil Procedure
-
-Proof of official records, see rule 44, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-#### Cross References
-
-Government records and papers; copies, see section 1733 of Title 28, Judiciary and Judicial Procedure.
-

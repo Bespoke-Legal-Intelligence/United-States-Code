@@ -50,7 +50,7 @@ The Administrator may by regulation designate any fuel or fuel additive (includi
 
 #### (1) Civil penalties
 
-&emsp;Any person who violates subsection (a), (f), (g), (k), (<i>l</i>), (m), or (n) of this section or the regulations prescribed under subsection (c), (h), (i), (k), (<i>l</i>), (m), or (n) of this section or who fails to furnish any information or conduct any tests required by the Administrator under subsection (b) of this section shall beliable to the United States for a civil penalty of not more than the sum of $25,000 for every day of such violation and the amount of economic benefit or savings resulting from the violation. Any violation with respect to a regulation prescribed under subsection (c), (k), (<i>l</i>), or (m) of this section which establishes a regulatory standard based upon a multiday averaging period shall constitute a separate day of violation for each and every day in the averaging period. Civil penalties shall be assessed in accordance with subsections (b) and (c) of section 7524 of this title.
+&emsp;Any person who violates subsection (a), (f), (g), (k), (<i>l</i>), (m), or (n) of this section or the regulations prescribed under subsection (c), (h), (i), (k), (<i>l</i>), (m), or (n) of this section or who fails to furnish any information or conduct any tests required by the Administrator under subsection (b) of this section shall be liable to the United States for a civil penalty of not more than the sum of $25,000 for every day of such violation and the amount of economic benefit or savings resulting from the violation. Any violation with respect to a regulation prescribed under subsection (c), (k), (<i>l</i>), or (m) of this section which establishes a regulatory standard based upon a multiday averaging period shall constitute a separate day of violation for each and every day in the averaging period. Civil penalties shall be assessed in accordance with subsections (b) and (c) of section 7524 of this title.
 
 #### (2) Injunctive authority
 
@@ -76,7 +76,7 @@ The Administrator may by regulation designate any fuel or fuel additive (includi
 
 #### (f) New fuels and fuel additives
 
-(1)(A) Effective upon March 31, 1977, it shall be unlawful for any manufacturer of any fuel or fuel additive to first introduce into commerce, or to increase the concentration in use of, any fuel or fuel additive for general use in light duty motor vehicles manufactured after model year 1974 which is not substantially similar to any fuel or fuel additive utilized in the certification of any model year 1975, or subsequent model year, vehicle or engine under section 7525 of this title.
+(1)(A) Effective upon March 31, 1977, it shall be unlawful for any manufacturer of any fuel or fuel additive to first introduce into commerce, or to increase the concentration in use of, any fuel or fuel additive for general use in light duty motor vehicles manufactured after model year 1974 which is not substantially similar to anyfuel or fuel additive utilized in the certification of any model year 1975, or subsequent model year, vehicle or engine under section 7525 of this title.
 
 (B) Effective upon November 15, 1990, it shall be unlawful for any manufacturer of any fuel or fuel additive to first introduce into commerce, or to increase the concentration in use of, any fuel or fuel additive for use by any person in motor vehicles manufactured after model year 1974 which is not substantially similar to any fuel or fuel additive utilized in the certification of any model year 1975, or subsequent model year, vehicle or engine under section 7525 of this title.
 
@@ -172,7 +172,7 @@ The Administrator may by regulation designate any fuel or fuel additive (includi
 
 #### (3) More stringent of formula or performance standards
 
-&emsp;The regulations referred to in paragraph (1) shall require compliance with the more stringent of either the requirements set forth insubparagraph (A) or the requirements of subparagraph (B) of this paragraph. For purposes of determining the more stringent provision, clause (i) and clause (ii) of subparagraph (B) shall be considered independently.
+&emsp;The regulations referred to in paragraph (1) shall require compliance with the more stringent of either the requirements set forth in subparagraph (A) or the requirements of subparagraph (B) of this paragraph. For purposes of determining the more stringent provision, clause (i) and clause (ii) of subparagraph (B) shall be considered independently.
 
 #### (A) Formula
 
@@ -232,7 +232,7 @@ The Administrator may by regulation designate any fuel or fuel additive (includi
 
 &emsp;&emsp;(A) The sale or dispensing by any person of conventional gasoline to ultimate consumers in any covered area.
 
-&emsp;&emsp;(B) The sale or dispensing by any refiner, blender, importer, or marketer of conventional gasoline for resale in any covered area, without (i) segregating such gasoline from reformulated gasoline, and (ii) clearlymarking such conventional gasoline as “conventional gasoline, not for sale to ultimate consumer in a covered area”.
+&emsp;&emsp;(B) The sale or dispensing by any refiner, blender, importer, or marketer of conventional gasoline for resale in any covered area, without (i) segregating such gasoline from reformulated gasoline, and (ii) clearly marking such conventional gasoline as “conventional gasoline, not for sale to ultimate consumer in a covered area”.
 
 > &emsp;Any refiner, blender, importer or marketer who purchases property segregated and marked conventional gasoline, and thereafter labels, represents, or wholesales such gasoline as reformulated gasoline shall also be in violation of this subsection. The Administrator may impose sampling, testing, and recordkeeping requirements upon any refiner, blender, importer, or marketer to prevent violations of this section.
 
@@ -256,7 +256,7 @@ The Administrator may by regulation designate any fuel or fuel additive (includi
 
 &emsp;(C) The regulations promulgated under subparagraphs (A) and (B) shall ensure the enforcement of the requirements for the issuance, application, and transfer of the credits. Such regulations shall prohibit the granting or transfer of such credits for use with respect to any gasoline in a nonattainment area, to the extent the use of such credits would result in any of the following:
 
-&emsp;&emsp;(i) An average gasoline aromatic hydrocarbon content (by volume) for the nonattainment (taking into account all gasoline sold for use in conventional gasoline-fueled vehicles in the nonattainment area) higher than the average fuel aromatic hydrocarbon content (by volume) that would occur in the absence of using any such credits.
+&emsp;&emsp;(i) An average gasoline aromatic hydrocarbon content (by volume) for the nonattainment (taking into account all gasoline sold for use in conventional gasoline-fueledvehicles in the nonattainment area) higher than the average fuel aromatic hydrocarbon content (by volume) that would occur in the absence of using any such credits.
 
 &emsp;&emsp;(ii) An average gasoline oxygen content (by weight) for the nonattainment area (taking into account all gasoline sold for use in conventional gasoline-fueled vehicles in the nonattainment area) lower than the average gasoline oxygen content (by weight) that would occur in the absence of using any such credits.
 
@@ -274,7 +274,7 @@ The Administrator may by regulation designate any fuel or fuel additive (includi
 
 #### (C) Compliance determined for each pollutant independently
 
-&emsp;&emsp;In determining whether there is an increase in emissions in violation of the prohibition contained in subparagraph (A) the Administrator shall consider an increase in each air pollutant referred to in clauses (i) through (iv) as a separate violation of suchprohibition, except that the Administrator shall promulgate regulations to provide that any increase in emissions of oxides of nitrogen resulting from adding oxygenates to gasoline may be offset by an equivalent or greater reduction (on a mass basis) in emissions of volatile organic compounds, carbon monoxide, or toxic air pollutants, or any combination of the foregoing.
+&emsp;&emsp;In determining whether there is an increase in emissions in violation of the prohibition contained in subparagraph (A) the Administrator shall consider an increase in each air pollutant referred to in clauses (i) through (iv) as a separate violation of such prohibition, except that the Administrator shall promulgate regulations to provide that any increase in emissions of oxides of nitrogen resulting from adding oxygenates to gasoline may be offset by an equivalent or greater reduction (on a mass basis) in emissions of volatile organic compounds, carbon monoxide, or toxic air pollutants, or any combination of the foregoing.
 
 #### (D) Compliance period
 
@@ -380,7 +380,7 @@ The Administrator may by regulation designate any fuel or fuel additive (includi
 
 #### (D) Covered area
 
-&emsp;&emsp;The 9 ozone nonattainment areas having a 1980 population in excess of 250,000 and having the highest ozone design value during the period 1987 through 1989 shall be “covered areas” for purposes of this subsection. Effective one year after the reclassification of any ozone nonattainment area as a Severe ozone nonattainment area under section 7511(b) of this title, such Severe area shall also be a “covered area” for purposes of this subsection.
+&emsp;&emsp;The 9 ozone nonattainment areas having a 1980 population in excess of 250,000 and having the highest ozone design value duringthe period 1987 through 1989 shall be “covered areas” for purposes of this subsection. Effective one year after the reclassification of any ozone nonattainment area as a Severe ozone nonattainment area under section 7511(b) of this title, such Severe area shall also be a “covered area” for purposes of this subsection.
 
 #### (E) Reformulated gasoline
 
@@ -420,7 +420,7 @@ Effective beginning January 1, 1995, no person may sell or dispense to an ultima
 
 &emsp;(C)(i) Any person may petition the Administrator to make a finding that there is, or is likely to be, for any area, an inadequate domestic supply of, or distribution capacity for, oxygenated gasoline meeting the requirements of paragraph (2) or fuel additives (oxygenates) necessary to meet such requirements. The Administrator shall act on such petition within 6 months after receipt of the petition.
 
-&emsp;(ii) If the Administrator determines, in response to a petition under clause (i), that there is an inadequate supply or capacity described in clause (i), the Administrator shall delay the effective date of paragraph (2) for 1 year. Upon petition, the Administrator may extend such effective date for one additional year. No partial delay or lesser waiver may be granted under this clause.
+&emsp;(ii) If the Administrator determines, in response to a petition under clause (i), thatthere is an inadequate supply or capacity described in clause (i), the Administrator shall delay the effective date of paragraph (2) for 1 year. Upon petition, the Administrator may extend such effective date for one additional year. No partial delay or lesser waiver may be granted under this clause.
 
 &emsp;(iii) In granting waivers under this subparagraph the Administrator shall consider distribution capacity separately from the adequacy of domestic supply and shall grant such waivers in such manner as will assure that, if supplies of oxygenated gasoline are limited, areas having the highest design value for carbon monoxide will have a priority in obtaining oxygenated gasoline which meets the requirements of paragraph (2).
 
@@ -476,7 +476,7 @@ Subsec. (f)(1). Pub. L. 101–549, §214(a), designated existing provisions as s
 
 Subsec. (f)(3). Pub. L. 101–549, §214(b), substituted reference to paragraph (1)(A) for reference to paragraph (1).
 
-Subsec. (g). Pub. L. 101–549, §215, amended subsec. (g) generally, substituting present provisions for provisions which defined “gasoline”, “refinery”, and “small refinery” and which limited Administrator's authority to require small refineries to reduce average lead content per gallon of gasoline.
+Subsec. (g). Pub. L. 101–549, §215, amended subsec. (g) generally, substituting present provisions for provisions which defined “gasoline”, “refinery”, and “smallrefinery” and which limited Administrator's authority to require small refineries to reduce average lead content per gallon of gasoline.
 
 Subsec. (h). Pub. L. 101–549, §216, added subsec. (h).
 

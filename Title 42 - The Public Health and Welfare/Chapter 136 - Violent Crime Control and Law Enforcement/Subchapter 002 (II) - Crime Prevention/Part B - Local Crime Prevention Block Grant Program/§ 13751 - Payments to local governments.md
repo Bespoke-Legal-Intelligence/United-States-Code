@@ -32,7 +32,7 @@
 
 &emsp;&emsp;&emsp;(ii) the use and sale of illegal drugs by juveniles.
 
-&emsp;&emsp;(H) Youth anticrime councils to give intermediate and secondary school students astructured forum through which to work with community organizations, law enforcement officials, government and media representatives, and school administrators and faculty to address issues regarding youth and violence.
+&emsp;&emsp;(H) Youth anticrime councils to give intermediate and secondary school students a structured forum through which to work with community organizations, law enforcement officials, government and media representatives, and school administrators and faculty to address issues regarding youth and violence.
 
 &emsp;&emsp;(I) Award of grants or contracts to the Boys and Girls Clubs of America, a national nonprofit youth organization, to establish Boys and Girls Clubs in public housing.
 
@@ -100,6 +100,284 @@ Funds made available under this part to units of local government shall not be u
 
 (Pub. L. 103–322, title III, §30201, Sept. 13, 1994, 108 Stat. 1838.)
 
+#### National Police Athletic League Youth Enrichment
+
+Pub. L. 106–367, Oct. 27, 2000, 114 Stat. 1412, provided that:
+
+#### “SECTION 1. SHORT TITLE.
+
+“This Act may be cited as the ‘National Police Athletic League Youth Enrichment Act of 2000’.
+
+#### “SEC. 2. FINDINGS.
+
+“Congress makes the following findings:
+
+&emsp;“(1) The goals of the Police Athletic League are to—
+
+&emsp;&emsp;“(A) increase the academic success of youth participants in PAL programs;
+
+&emsp;&emsp;“(B) promote a safe, healthy environment for youth under the supervision of law enforcement personnel where mutual trust and respect can be built;
+
+&emsp;&emsp;“(C) increase school attendance by providing alternatives to suspensions and expulsions;
+
+&emsp;&emsp;“(D) reduce the juvenile crime rate in participating designated communities and the number of police calls involving juveniles during nonschool hours;
+
+&emsp;&emsp;“(E) provide youths with alternatives to drugs, alcohol, tobacco, and gang activity;
+
+&emsp;&emsp;“(F) create positive communications and interaction between youth and law enforcement personnel; and
+
+&emsp;&emsp;“(G) prepare youth for the workplace.
+
+&emsp;“(2) The Police Athletic League, during its 55-year history as a national organization, has proven to be a positive force in the communities it serves.
+
+&emsp;“(3) The Police Athletic League is a network of 1,700 facilities serving over 3,000 communities. There are 320 PAL chapters throughout the United States, the Virgin Islands, and the Commonwealth of Puerto Rico, serving 1,500,000 youths, ages 5 to 18, nationwide.
+
+&emsp;“(4) Based on PAL chapter demographics, approximately 82 percent of the youths who benefit from PAL programs live in inner cities and urban areas.
+
+&emsp;“(5) PAL chapters are locally operated, volunteer-driven organizations. Although most PAL chapters are sponsored by a law enforcement agency, PAL chapters receive no direct funding from law enforcement agencies and are dependent in large part on support from the private sector, such as individuals, business leaders, corporations, and foundations. PAL chapters have been exceptionally successful in balancing public funds with private sector donations and maximizing community involvement.
+
+&emsp;“(6) Today's youth face far greater risks than did their parents and grandparents. Law enforcement statistics demonstrate that youth between the ages of 12 and 17 are at risk of committing violent acts and being victims of violent acts between the hours of 3 p.m. and 8 p.m.
+
+&emsp;“(7) Greater numbers of students are dropping out of school and failing in school, even though the consequences of academic failure are more dire in 1999 than ever before.
+
+&emsp;“(8) Many distressed areas in the United States are still underserved by PAL chapters.
+
+#### “SEC. 3. PURPOSE.
+
+“The purpose of this Act is to provide adequate resources in the form of—
+
+&emsp;“(1) assistance for the 320 established PAL chapters to increase of services to the communities they are serving; and
+
+&emsp;“(2) seed money for the establishment of 250 (50 per year over a 5-year period) additional local PAL chapters in public housing projects and other distressed areas, including distressed areas with a majority population of Native Americans, by not later than fiscal year 2006.
+
+#### “SEC. 4. DEFINITIONS.
+
+“In this Act:
+
+&emsp;“(1)
+
+Assistant attorney general.—The term ‘Assistant Attorney General’ means the Assistant Attorney General for the Office of Justice Programs of the Department of Justice.
+
+&emsp;“(2)
+
+Distressed area.—The term ‘distressed area’ means an urban, suburban, or rural area with a high percentage of high-risk youth, as defined in section 509A of the Public Health Service Act (42 U.S.C. 290aa–8(f)) \[now 42 U.S.C. 290bb–23(g)\].
+
+&emsp;“(3)
+
+PAL chapter.—The term ‘PAL chapter’ means a chapter of a Police or Sheriff's Athletic/Activities League.
+
+&emsp;“(4)
+
+Police athletic league.—The term ‘Police Athletic League’ means the private, nonprofit, national representative organization for 320 Police or Sheriff's Athletic/Activities Leagues throughout the United States (including the Virgin Islands and the Commonwealth of Puerto Rico).
+
+&emsp;“(5)
+
+Public housing; project.—The terms ‘public housing’ and ‘project’ have the meanings given those terms in section 3(b) of the United States Housing Act of 1937 (42 U.S.C. 1437a(b)).
+
+#### “SEC. 5. GRANTS AUTHORIZED.
+
+“(a)
+
+In General.—Subject to appropriations, for each of fiscal years 2001 through 2005, the Assistant Attorney General shall award a grant to the Police Athletic League for the purpose of establishing PAL chapters to serve public housing projects and other distressed areas, and expanding existing PAL chapters to serve additional youths.
+
+“(b)
+
+Application.—
+
+&emsp;“(1)
+
+Submission.—In order to be eligible to receive a grant under this section, the Police Athletic League shall submit to the Assistant Attorney General an application, which shall include—
+
+&emsp;&emsp;“(A) a long-term strategy to establish 250 additional PAL chapters and detailed summary of those areas in which new PAL chapters will be established, or in which existing chapters will be expanded to serve additional youths, during the next fiscal year;
+
+&emsp;&emsp;“(B) a plan to ensure that there are a total of not less than 570 PAL chapters in operation before January 1, 2004;
+
+&emsp;&emsp;“(C) a certification that there will be appropriate coordination with those communities where new PAL chapters will be located; and
+
+&emsp;&emsp;“(D) an explanation of the manner in which new PAL chapters will operate without additional, direct Federal financial assistance once assistance under this Act is discontinued.
+
+&emsp;“(2)
+
+Review.—The Assistant Attorney General shall review and take action on an application submitted under paragraph (1) not later than 120 days after the date of such submission.
+
+#### “SEC. 6. USE OF FUNDS.
+
+“(a)
+
+In General.—
+
+&emsp;“(1)
+
+Assistance for new and expanded chapters.—Amounts made available under a grant awarded under this Act shall be used by the Police Athletic League to provide funding for the establishment of PAL chapters serving public housing projects and other distressed areas, or the expansion of existing PAL chapters.
+
+&emsp;“(2)
+
+Program requirements.—Each new or expanded PAL chapter assisted under paragraph (1) shall carry out not less than four programs during nonschool hours, of which—
+
+&emsp;&emsp;“(A) not less than two programs shall provide—
+
+&emsp;&emsp;&emsp;“(i) mentoring assistance;
+
+&emsp;&emsp;&emsp;“(ii) academic assistance;
+
+&emsp;&emsp;&emsp;“(iii) recreational and athletic activities; or
+
+&emsp;&emsp;&emsp;“(iv) technology training; and
+
+&emsp;&emsp;“(B) any remaining programs shall provide—
+
+&emsp;&emsp;&emsp;“(i) drug, alcohol, and gang prevention activities;
+
+&emsp;&emsp;&emsp;“(ii) health and nutrition counseling;
+
+&emsp;&emsp;&emsp;“(iii) cultural and social programs;
+
+&emsp;&emsp;&emsp;“(iv) conflict resolution training, anger management, and peer pressure training;
+
+&emsp;&emsp;&emsp;“(v) job skill preparation activities; or
+
+&emsp;&emsp;&emsp;“(vi) Youth Police Athletic League Conferences or Youth Forums.
+
+“(b)
+
+Additional Requirements.—In carrying out the programs under subsection (a), a PAL chapter shall, to the maximum extent practicable—
+
+&emsp;“(1) use volunteers from businesses, academic communities, social organizations, and law enforcement organizations to serve as mentors or to assist in other ways;
+
+&emsp;“(2) ensure that youth in the local community participate in designing the after-school activities;
+
+&emsp;“(3) develop creative methods of conducting outreach to youth in the community;
+
+&emsp;“(4) request donations of computer equipment and other materials and equipment; and
+
+&emsp;“(5) work with State and local park and recreation agencies so that activities funded with amounts made available under a grant under this Act will not duplicate activities funded from other sources in the community served.
+
+#### “SEC. 7. REPORTS.
+
+“(a)
+
+Report to Assistant Attorney General.—For each fiscal year for which a grant is awarded under this Act, the Police Athletic League shall submit to the Assistant Attorney General a report on the use of amounts made available under the grant.
+
+“(b)
+
+Report to Congress.—Not later than May 1 of each fiscal year for which amounts are made available to carry out this Act, the Assistant Attorney General shall submit to the Committees on the Judiciary of the Senate and the House of Representatives a report that details the progress made under this Act in establishing and expanding PAL chapters in public housing projects and other distressed areas, and the effectiveness of the PAL programs in reducing drug abuse, school dropouts, and juvenile crime.
+
+#### “SEC. 8. AUTHORIZATION OF APPROPRIATIONS.
+
+“(a)
+
+In General.—There are authorized to be appropriated to carry out this Act $16,000,000 for each of fiscal years 2001 through 2005.
+
+“(b)
+
+Funding for Program Administration.—Of the amount made available to carry out this Act in each fiscal year—
+
+&emsp;“(1) not less than 2 percent shall be used for research and evaluation of the grant program under this Act;
+
+&emsp;“(2) not less than 1 percent shall be used for technical assistance related to the use of amounts made available under grants awarded under this Act; and
+
+&emsp;“(3) not less than 1 percent shall be used for the management and administration of the grant program under this Act, except that the total amount made available under this paragraph for administration of that program shall not exceed 6 percent.”
+
+#### Kids 2000 Crime Prevention and Computer Education Initiative
+
+Pub. L. 106–313, title I, §112, Oct. 17, 2000, 114 Stat. 1260, provided that:
+
+“(a)
+
+Short Title.—This section may be cited as the ‘Kids 2000 Act’.
+
+“(b)
+
+Findings.—Congress makes the following findings:
+
+&emsp;“(1) There is an increasing epidemic of juvenile crime throughout the United States.
+
+&emsp;“(2) It is well documented that the majority of juvenile crimes take place during after-school hours.
+
+&emsp;“(3) Knowledge of technology is becoming increasingly necessary for children in school and out of school.
+
+&emsp;“(4) The Boys and Girls Clubs of America have 2,700 clubs throughout all 50 States, serving over 3,000,000 boys and girls primarily from at-risk communities.
+
+&emsp;“(5) The Boys and Girls Clubs of America have the physical structures in place for immediate implementation of an after-school technology program.
+
+&emsp;“(6) Building technology centers and providing integrated content and full-time staffing at those centers in the Boys and Girls Clubs of America nationwide will help foster education, job training, and an alternative to crime for at-risk youth.
+
+&emsp;“(7) Partnerships between the public sector and the private sector are an effective way of providing after-school technology programs in the Boys and Girls Clubs of America.
+
+&emsp;“(8) PowerUp: Bridging the Digital Divide is an entity comprised of more than a dozen nonprofit organizations, major corporations, and Federal agencies that have joined together to launch a major new initiative to help ensure that America's underserved young people acquire the skills, experiences, and resources they need to succeed in the digital age.
+
+&emsp;“(9) Bringing PowerUp into the Boys and Girls Clubs of America will be an effective way to ensure that our youth have a safe, crime-free environment in which to learn the technological skills they need to close the divide between young people who have access to computer-based information and technology-related skills and those who do not.
+
+“(c)
+
+After-School Technology Grants to the Boys and Girls Clubs of America.—
+
+&emsp;“(1)
+
+Purposes.—The Attorney General shall make grants to the Boys and Girls Clubs of America for the purpose of funding effective after-school technology programs, such as PowerUp, in order to provide—
+
+&emsp;&emsp;“(A) constructive technology-focused activities that are part of a comprehensive program to provide access to technology and technology training to youth during after-school hours, weekends, and school vacations;
+
+&emsp;&emsp;“(B) supervised activities in safe environments for youth; and
+
+&emsp;&emsp;“(C) full-time staffing with teachers, tutors, and other qualified personnel.
+
+&emsp;“(2)
+
+Subawards.—The Boys and Girls Clubs of America shall make subawards to local boys and girls clubs authorizing expenditures associated with providing technology programs such as PowerUp, including the hiring of teachers and other personnel, procurement of goods and services, including computer equipment, or such other purposes as are approved by the Attorney General.
+
+“(d)
+
+Applications.—
+
+&emsp;“(1)
+
+Eligibility.—In order to be eligible to receive a grant under this section, an applicant for a subaward (specified in subsection (c)(2)) shall submit an application to the Boys and Girls Clubs of America, in such form and containing such information as the Attorney General may reasonably require.
+
+&emsp;“(2)
+
+Application requirements.—Each application submitted in accordance with paragraph (1) shall include—
+
+&emsp;&emsp;“(A) a request for a subgrant to be used for the purposes of this section;
+
+&emsp;&emsp;“(B) a description of the communities to be served by the grant, including the nature of juvenile crime, violence, and drug use in the communities;
+
+&emsp;&emsp;“(C) written assurances that Federal funds received under this section will be used to supplement and not supplant, non-Federal funds that would otherwise be available for activities funded under this section;
+
+&emsp;&emsp;“(D) written assurances that all activities funded under this section will be supervised by qualified adults;
+
+&emsp;&emsp;“(E) a plan for assuring that program activities will take place in a secure environment that is free of crime and drugs;
+
+&emsp;&emsp;“(F) a plan outlining the utilization of content-based programs such as PowerUp, and the provision of trained adult personnel to supervise the after-school technology training; and
+
+&emsp;&emsp;“(G) any additional statistical or financial information that the Boys and Girls Clubs of America may reasonably require.
+
+“(e)
+
+Grant Awards.—In awarding subgrants under this section, the Boys and Girls Clubs of America shall consider—
+
+&emsp;“(1) the ability of the applicant to provide the intended services;
+
+&emsp;“(2) the history and establishment of the applicant in providing youth activities; and
+
+&emsp;“(3) the extent to which services will be provided in crime-prone areas and technologically underserved populations, and efforts to achieve an equitable geographic distribution of the grant awards.
+
+“(f)
+
+Authorization of Appropriations.—
+
+&emsp;“(1)
+
+In general.—There is authorized to be appropriated $20,000,000 for each of the fiscal years 2001 through 2006 to carry out this section.
+
+&emsp;“(2)
+
+Source of funds.—Funds to carry out this section may be derived from the Violent Crime Reduction Trust Fund.
+
+&emsp;“(3)
+
+Continued availability.—Amounts made available under this subsection shall remain available until expended.”
+
 #### Establishment of Boys and Girls Clubs
 
 Pub. L. 104–294, title IV, §401, Oct. 11, 1996, 110 Stat. 3496, as amended by Pub. L. 105–133, §1, Dec. 2, 1997, 111 Stat. 2568, provided that:
@@ -114,7 +392,7 @@ Findings.—The Congress finds that—
 
 &emsp;&emsp;“(A) the Boys and Girls Clubs of America, chartered by an Act of Congress on December 10, 1991 \[Pub. L. 102–199, see Tables for classification\], during its 90-year history as a national organization, has proven itself as a positive force in the communities it serves;
 
-&emsp;&emsp;“(B) there are 1,810 Boys and Girls Clubs facilities throughout the United States, Puerto Rico, and theUnited States Virgin Islands, serving 2,420,000 youths nationwide;
+&emsp;&emsp;“(B) there are 1,810 Boys and Girls Clubs facilities throughout the United States, Puerto Rico, and the United States Virgin Islands, serving 2,420,000 youths nationwide;
 
 &emsp;&emsp;“(C) 71 percent of the young people who benefit from Boys and Girls Clubs programs live in our inner cities and urban areas;
 

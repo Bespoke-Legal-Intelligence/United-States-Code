@@ -46,7 +46,7 @@ Subsecs. (b), (c), Pub. L. 94–161, §305(a)(3), added subsecs. (b) and (c).
 
 #### Effective Date of 1986 Amendment
 
-Section 1(c) of Pub. L. 99–631 provided that: “The amendments made by subsections (a) and (b) \[amending this section and sections 2151n, 2346d, 5001, 5012 to 5016, 5019, 5034, 5035, 5039, 5053, 5056, 5059, 5062 to 5064, 5067 to 5072, 5081, 5082, 5091, 5092, 5095, 5100, 5101, and 5112 of this title\] shall be deemed to have taken effect upon the enactment of the Comprehensive Anti-Apartheid Act of 1986 \[Oct. 2, 1986\].”
+Section 1(c) of Pub. L. 99–631 provided that: “The amendments made by subsections (a) and (b) \[amending this section and sections 2151n, 2346d, 5001, 5012 to 5016, 5019, 5034, 5035, 5039, 5053, 5056, 5059, 5062 to 5064, 5067 to 5072, 5081, 5082, 5091, 5092, 5095, 5100, 5101, and 5112 of thistitle\] shall be deemed to have taken effect upon the enactment of the Comprehensive Anti-Apartheid Act of 1986 \[Oct. 2, 1986\].”
 
 #### Effective Date of 1985 Amendment
 
@@ -66,5 +66,5 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2151d, 2151f, 2151h, 2151u, 2293 of this title.
+This section is referred to in sections 2151d, 2151h, 2151u, 2293 of this title.
 

@@ -32,7 +32,7 @@ Notwithstanding any other provision of this section, the Secretary may convert t
 
 #### (i) Increase of marketing quotas and acreage allotments to meet demand
 
-Notwithstanding any other provision of this chapter, whenever after investigation the Secretary determines with respect to any kind of tobacco that a substantial difference exists in the usage or market outlets for any one or more of the types comprising such kind of tobacco and that the quantity of tobacco of such type or types to be produced under the marketing quotas and acreage allotments established pursuant to this section would not be sufficient to provide an adequate supply for estimated market demands and carry-over requirements for such type or types of tobacco, the Secretary shall increase the marketing quotas and acreageallotments for farms producing such type or types of tobacco in the preceding year to the extent necessary to make available a supply of such type or types of tobacco adequate to meet such demands and carry-over requirements. The increases in farm marketing quotas and acreage allotments shall be made on the basis of the production of such type or types of tobacco during the period of years considered in establishing farm marketing quotas and acreage allotments for such kind of tobacco. The additional production authorized by this subsection shall be in addition to the national marketing quota established for such kind of tobacco pursuant to section 1312 of this title. The increase in acreage under this subsection shall not be considered in establishing future State or farm acreage allotments.
+Notwithstanding any other provision of this chapter, whenever after investigation the Secretary determines with respect to any kind of tobacco that a substantial difference exists in the usage or market outlets for any one or more of the types comprising such kind of tobacco and that the quantity of tobacco of such type or types to be produced under the marketing quotas and acreage allotments established pursuant to this section would not be sufficient to provide an adequate supply for estimated market demands and carry-over requirements for such type or types of tobacco, the Secretary shall increase the marketing quotas and acreage allotments for farms producing such type or types of tobacco in the preceding year to the extent necessary to make available a supply of such type or types of tobacco adequate to meet such demands and carry-over requirements. The increases in farm marketing quotas and acreage allotments shall be made on the basis of the production of such type or types of tobacco during the period of years considered in establishing farm marketing quotas and acreage allotments for such kind of tobacco. The additional production authorized by this subsection shall be in addition to the national marketing quota established for such kind of tobacco pursuant to section 1312 of this title. The increase in acreage under this subsection shall not be considered in establishing future State or farm acreage allotments.
 
 #### (j) Tobacco acreage allotments for 1956, 1957, and 1958
 
@@ -97,12 +97,6 @@ Amount of price support for fire-cured, dark air-cured, and Virginia sun-cured t
 #### Apportionment of Burley Acreage Allotment
 
 Joint Res. Mar. 31, 1944, ch. 149, 58 Stat. 136, provided that notwithstanding the provisions of this section the burley tobacco acreage allotment which would otherwise be established for any farm having a burley acreage allotment in 1943 should be less than one acre, or 25 per centum of the cropland, whichever is the smaller, and the acreage required for apportionment under the resolution should be in addition to the National and State acreage allotments.
-
-#### Cross References
-
-Agreements for adjustment of acreage or production of basic agricultural commodities, see section 608 et seq. of this title.
-
-Delegation of regulatory functions of Secretary of Agriculture, see section 450c et seq. of this title.
 
 #### Section Referred to in Other Sections
 

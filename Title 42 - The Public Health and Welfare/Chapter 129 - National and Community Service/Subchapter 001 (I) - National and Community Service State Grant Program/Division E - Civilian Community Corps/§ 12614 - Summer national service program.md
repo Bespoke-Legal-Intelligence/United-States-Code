@@ -20,7 +20,7 @@ Section was formerly classified to section 12653c of this title prior to renumbe
 
 #### Prior Provisions
 
-A prior section 12614, Pub. L. 101–610, title I, §163, Nov. 16, 1990, 104 Stat. 3158; Pub. L. 102–384, §7(b), Oct.5, 1992, 106 Stat. 1456, related to higher education benefits for those selected for Peace Corps or VISTA demonstration programs, prior to repeal by Pub. L. 103–82, §104(a).
+A prior section 12614, Pub. L. 101–610, title I, §163, Nov. 16, 1990, 104 Stat. 3158; Pub. L. 102–384, §7(b), Oct. 5, 1992, 106 Stat. 1456, related to higher education benefits for those selected for Peace Corps or VISTA demonstration programs, prior to repeal by Pub. L. 103–82, §104(a).
 
 #### Amendments
 

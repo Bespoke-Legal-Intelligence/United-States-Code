@@ -124,5 +124,5 @@ Recovery of Costs.—The costs of reproducing and distributing maps prepared und
 
 #### “SEC. 3206. AUTHORIZATION OF APPROPRIATIONS.
 
-“There are authorized to be appropriated to carry out section 3202 not more than $100,000 for fiscal year 1989. Amounts appropriated pursuant to this section shall remain available until expended.”
+“There are authorized to be appropriated to carry out section 3202 not more than $100,000 for fiscal year 1989.Amounts appropriated pursuant to this section shall remain available until expended.”
 

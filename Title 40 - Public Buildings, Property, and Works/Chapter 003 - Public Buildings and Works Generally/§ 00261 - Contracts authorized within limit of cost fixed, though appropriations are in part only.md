@@ -14,16 +14,6 @@ Functions of Secretary of the Treasury relating to Administration of Public Buil
 
 Transfer of functions by act June 30, 1949, ch. 288, 63 Stat. 380, effective July 1, 1949, see section 605 of act June 30, 1949, set out as an Effective Date note under section 471 of this title.
 
-#### Cross References
-
-Appropriations, expenditures or contract obligations in excess of funds prohibited, see section 1341 of Title 31, Money and Finance.
-
-Contracts for erection, repair, or furnishing of public buildings or for public improvements forbidden to exceed amount appropriated for that purpose, see section 12 of Title 41, Public Contracts.
-
-No appropriation act to be construed as authorizing execution of contract for amount in excess of appropriations unless appropriation act in specific terms declares that contract may be made, see section 1301 of Title 31, Money and Finance.
-
-Officer or employee contracting beyond specific appropriation, see section 435 of Title 18, Crimes and Criminal Procedure.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in title 16 sections 79g, 460bb–2.

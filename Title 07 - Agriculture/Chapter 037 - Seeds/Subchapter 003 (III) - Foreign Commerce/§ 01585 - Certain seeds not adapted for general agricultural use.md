@@ -12,7 +12,3 @@ A prior section 1585, act Aug. 9, 1939, ch. 615, title III, §303, formerly §30
 
 Section effective on the date of entry into force of the WTO Agreement with respect to the United States (Jan. 1, 1995), except as otherwise provided, see section 451 of Pub. L. 103–465, set out as a note under section 3601 of Title 19, Customs Duties.
 
-#### Cross References
-
-Delegation of regulatory functions of Secretary of Agriculture, see section 450c et seq. of this title.
-

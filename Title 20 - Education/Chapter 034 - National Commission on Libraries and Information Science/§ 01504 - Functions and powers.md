@@ -66,3 +66,7 @@ The Museum and Library Services Act, referred to in subsec. (b)(1)(A), is title 
 
 1973—Subsec. (a)(2). Pub. L. 93–29 required the Commission to conduct studies, surveys, and analyses of the special library and informational needs of elderly persons.
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (a)(7) of this section relating to submitting annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 181 of House Document No. 103–7.
+

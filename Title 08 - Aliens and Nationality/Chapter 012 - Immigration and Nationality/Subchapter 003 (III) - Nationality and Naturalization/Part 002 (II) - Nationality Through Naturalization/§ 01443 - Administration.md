@@ -46,20 +46,6 @@ Subsec. (h). Pub. L. 101–649, §406, added subsec. (h).
 
 Section 305(m) of Pub. L. 102–232 provided that the amendment made by that section is effective as if included in section 407(d) of the Immigration Act of 1990, Pub. L. 101–649.
 
-#### Cross References
-
-Citizenship textbooks, publication and distribution; use of naturalization fees, see section 1457 of this title.
-
-Definition of the term—
-
-&emsp;&emsp;Attorney General, see section 1101(a)(5) of this title.
-
-&emsp;&emsp;Person of good moral character, see section 1101(f) of this title.
-
-&emsp;&emsp;Residence, see section 1101(a)(33) of this title.
-
-&emsp;&emsp;Service, see section 1101(a)(34) of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1457 of this title.

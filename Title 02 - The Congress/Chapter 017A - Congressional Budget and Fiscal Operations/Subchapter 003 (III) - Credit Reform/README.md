@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in section 900 of this title; title 12 sections 635, 635i–6; title 22 sections 2186, 2197; title 23 section 181; title 31 section 3720C; title 38 section 3722; title 42 sections 254b, 292i; title 47 section 614.
+This subchapter is referred to in section 900 of this title; title 12 sections 635, 635i–6; title 22 sections 2124, 2186, 2197; title 23 section 181; title 31 section 3720C; title 38 section 3722; title 42 sections 254b, 292i; title 47 section 614.
 
 
 ---

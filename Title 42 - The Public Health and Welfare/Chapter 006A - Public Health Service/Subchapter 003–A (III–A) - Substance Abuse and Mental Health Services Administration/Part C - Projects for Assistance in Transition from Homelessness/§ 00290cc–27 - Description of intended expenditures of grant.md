@@ -20,7 +20,7 @@ The Secretary may not make payments under section 290cc–21 of this title unles
 
 #### (1) In general
 
-&emsp;The Secretary may not make payments under section 290cc–21 of this title unless the services to be provided pursuant to the description required in subsection (a) of this section are consistent with the State comprehensive mental health services plan required in subpart 2 <sup>1</sup> of part B of subchapter XVII of this chapter.
+&emsp;The Secretary may not make payments under section 290cc–21 of this title unless theservices to be provided pursuant to the description required in subsection (a) of this section are consistent with the State comprehensive mental health services plan required in subpart 2 <sup>1</sup> of part B of subchapter XVII of this chapter.
 
 #### (2) Special rule
 

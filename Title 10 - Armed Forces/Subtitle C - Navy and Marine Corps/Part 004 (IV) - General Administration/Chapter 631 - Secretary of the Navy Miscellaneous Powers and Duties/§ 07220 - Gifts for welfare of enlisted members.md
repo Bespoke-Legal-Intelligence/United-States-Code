@@ -20,7 +20,3 @@ June 30, 1932, ch. 318, 47 Stat. 424 (2d proviso).
 
 The words “and contributions from organizations, individuals, or others” are omitted as surplusage.
 
-#### Cross References
-
-Acceptance of gifts and services, see section 2601 et seq. of this title.
-

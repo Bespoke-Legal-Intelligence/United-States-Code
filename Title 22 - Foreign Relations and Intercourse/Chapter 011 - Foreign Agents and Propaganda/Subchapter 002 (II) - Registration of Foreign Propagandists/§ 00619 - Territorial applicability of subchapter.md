@@ -12,3 +12,7 @@ For definition of Canal Zone, referred to in text, see section 3602(b) of this t
 
 Words “including the Philippine Islands,” omitted from section pursuant to Proc. No. 2695, which granted independence to the Philippine Islands under the authority of section 1394 of this title, under which section Proc. No. 2695 is set out as a note.
 
+#### Effective Date
+
+Section effective on the sixtieth day after Apr. 29, 1942, except that prior to such sixtieth day the Attorney General may make, prescribe, amend, and rescind such rules, regulations, and forms as may be necessary to carry out act Apr. 29, 1942, see section 3 of act Apr. 29, 1942, set out as an Effective Date of 1942 Amendment note under section 611 of this title.
+

@@ -40,7 +40,7 @@ In the case of any experiment or demonstration project conducted under subsectio
 
 #### (2) Termination and final report
 
-&emsp;The authority under the preceding provisions of this section (including any waivergranted pursuant to subsection (c) of this section) shall terminate 5 years after December 17, 1999. Not later than 90 days after the termination of any experiment or demonstration project carried out under this section, the Commissioner shall submit to the Committee on Ways and Means of the House of Representatives and to the Committee on Finance of the Senate a final report with respect to that experiment or demonstration project.
+&emsp;The authority under the preceding provisions of this section (including any waiver granted pursuant to subsection (c) of this section) shall terminate 5 years after December 17, 1999. Not later than 90 days after the termination of any experiment or demonstration project carried out under this section, the Commissioner shall submit to the Committee on Ways and Means of the House of Representatives and to the Committee on Finance of the Senate a final report with respect to that experiment or demonstration project.
 
 (Aug. 14, 1935, ch. 531, title II, §234, as added Pub. L. 106–170, title III, §301(a), Dec. 17, 1999, 113 Stat. 1900.)
 

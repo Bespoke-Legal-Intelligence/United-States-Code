@@ -16,7 +16,7 @@ This amendment, adding a new section 14, together with amended section 5 will cl
 
 #### References in Text
 
-Among the sections of this title, referred to in text, as being by their terms applicable to and within the Canal Zone are: section 1261 making Liquor Traffic provisions of sections 1261 to 1265 inapplicable to Canal Zone; section 3183, relating to extradition of fugitives from state, territory or possession into Canal Zone: sections 3241 relating to jurisdiction of offenses under certain sections: sections 3771 and 3772, relating to power of Supreme Court to prescribe rules of procedure in a criminal case to and including the verdict and after the verdict.
+Among the sections of this title, referred to in text, as being by their terms applicable to and within the Canal Zone are: section 1261 making Liquor Traffic provisions of sections 1261 to 1265 inapplicable to CanalZone; section 3183, relating to extradition of fugitives from state, territory or possession into Canal Zone: sections 3241 relating to jurisdiction of offenses under certain sections: sections 3771 and 3772, relating to power of Supreme Court to prescribe rules of procedure in a criminal case to and including the verdict and after the verdict.
 
 Section 2157 of this title, referred to in subsec. (a), was repealed by Pub. L. 103–322, title XXXIII, §330004(13), Sept. 13, 1994, 108 Stat. 2142.
 
@@ -37,18 +37,6 @@ The Canal Zone Code, referred to in subsec. (b), was enacted by Pub. L. 87–845
 #### Effective Date of 1962 Amendment
 
 Section 25 of Pub. L. 87–845 provided that: “This Act \[enacting section 4210 of this title and section 858 of Title 50, War and National Defense, and amending this section, section 1934 of Title 22, Foreign Relations and Intercourse, section 196 of Title 24, Hospitals and Asylums, sections 414, 547, 1404, and 1406 of Title 28, Judiciary and Judicial Procedure, and sections 191a and 191b of Title 50\] takes effect January 2, 1963. Laws enacted after January 9, 1962, that are inconsistent with this Act, supersede it to the extent of the inconsistency.”
-
-#### Federal Rules of Criminal Procedure
-
-Applicability of rules, see rule 54, Appendix to this title.
-
-#### Cross References
-
-Extradition of fugitives from Canal Zone into extraterritorial jurisdiction of United States, see section 3183 of this title.
-
-Liquor traffic provisions inapplicable to Canal Zone, see section 1261 of this title.
-
-Term United States as not including Canal Zone, see section 5 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

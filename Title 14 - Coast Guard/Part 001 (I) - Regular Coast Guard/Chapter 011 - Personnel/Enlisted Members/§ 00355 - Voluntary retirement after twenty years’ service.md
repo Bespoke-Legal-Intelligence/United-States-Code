@@ -16,10 +16,6 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 1984—Pub. L. 98–557 substituted reference to enlisted member for reference to enlisted man.
 
-#### Cross References
-
-Retirement where higher grade has been held, see section 362 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 362 of this title.

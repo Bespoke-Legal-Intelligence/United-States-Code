@@ -64,7 +64,7 @@ Any utilization and quality control peer review organization entering into a con
 
 &emsp;(6)(A) The organization shall, consistent with the provisions of its contract under this part, apply professionally developed norms of care, diagnosis, and treatment based upon typical patterns of practice within the geographic area served by the organization as principal points of evaluation and review, taking into consideration national norms where appropriate. Such norms with respect to treatment for particular illnesses or health conditions shall include—
 
-&emsp;&emsp;(i) the types and extent of the health care services which, taking into account differing, but acceptable, modes of treatment and methods of organizing and delivering care, are considered within the range of appropriate diagnosis and treatment of such illness or health condition, consistent with professionally recognized and accepted patterns of care; and
+&emsp;&emsp;(i) the types and extent of the health care services which, taking into account differing, but acceptable, modes of treatment and methods of organizing and delivering care, are considered within the range of appropriate diagnosis and treatment of such illness or health condition, consistent withprofessionally recognized and accepted patterns of care; and
 
 &emsp;&emsp;(ii) the type of health care facility which is considered, consistent with such standards, to be the type in which health care services which are medically appropriate for such illness or condition can most economically be provided.
 
@@ -142,35 +142,7 @@ Each contract under this part shall require that the utilization and quality con
 
 > the hospital may provide the patient (or the patient's representative) with a notice (meeting conditions prescribed by the Secretary under section 1395pp of this title) of the determination.
 
-(2) If—
-
-&emsp;(A) a hospital has determined that a patient no longer requires inpatient hospital care, but
-
-&emsp;(B) the attending physician has not agreed with the hospital's determination,
-
-> the hospital may request the appropriate peer review organization to review under subsection (a) of this section the validity of the hospital's determination. If the hospital requests such a review, it shall also notify the patient that the review has been requested.
-
-(3)(A) If a patient (or a patient's representative)—
-
-&emsp;(i) has received a notice under paragraph (1), and
-
-&emsp;(ii) requests the appropriate peer review organization to review the determination,
-
-> then, the organization shall conduct a review under subsection (a) of this section of the validity of the hospital's determination and shall provide notice (by telephone and in writing) to the patient or representative and the hospital and attending physician involved of the results of the review. Such review shall be conducted regardless of whether or not the hospital will charge for continued hospital care or whether or not the patient will be liable for payment for such continued care.
-
-(B) If a patient (or a patient's representative) requests a review under subparagraph (A) while the patient is still an inpatient in the hospital and not later than noon of the first working day after the date the patient receives the notice under paragraph (1), then—
-
-&emsp;(i) the hospital shall provide to the appropriate peer review organization the records required to review the determination by the close of business of such first working day, and
-
-&emsp;(ii) the peer review organization must provide the notice under subparagraph (A) by not later than one full working day after the date the organization has received the request and such records.
-
-(4) If—
-
-&emsp;(A) a request is made under paragraph (3)(A) not later than noon of the first working day after the date the patient (or patient's representative) receives the notice under paragraph (1), and
-
-&emsp;(B) the conditions described in section 1395pp(a)(2) of this title with respect to the patient or representative are met,
-
-> the hospital may not charge the patient for inpatient hospital services furnished before noon of the day after the date the patient or representative receives notice of the peer review organization's decision.
+(2) to (4) Repealed. Pub. L. 106–554, §1(a)(6) \[title V, §521(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–543.
 
 (5) In any review conducted under paragraph (2) or (3), the organization shall solicit the views of the patient involved (or the patient's representative).
 
@@ -178,13 +150,15 @@ Each contract under this part shall require that the utilization and quality con
 
 The Secretary, in consultation with appropriate experts, shall identify methods that would be available to assist peer review organizations (under subsection (a)(4) of this section) in identifying those cases which are more likely than others to be associated with a quality of services which does not meet professionally recognized standards of health care.
 
-(Aug. 14, 1935, ch. 531, title XI, §1154, as added Pub. L. 97–248, title I, §143, Sept. 3, 1982, 96 Stat. 385; amended Pub. L. 97–448, title III, §309(b)(3), (4), Jan. 12, 1983, 96 Stat. 2408, 2409; Pub. L. 99–272, title IX, §§9307(b), 9401(a), 9403(a), 9405(a), Apr. 7, 1986, 100 Stat. 193, 196, 200, 201; Pub. L. 99–509, title IX, §§9343(d), 9351(a), 9352(b), 9353(a)(1)–(3), (c)(1), Oct. 21, 1986, 100 Stat. 2040, 2043, 2044–2047; Pub. L. 100–203, title IV, §§4039(h)(3), (4), 4093(a), 4094(a)–(c)(1)(A), (2)(A), (B), 4096(c), Dec. 22, 1987, 101 Stat. 1330–135 to 1330–137, 1330–139, as amended Pub. L. 100–360, title IV, §411(e)(3), (j)(3)(A), July 1, 1988, 102 Stat. 775, 791; Pub. L. 100–360, title II, §203(d)(2), title IV, §411(j)(2), (3)(B), (4)(C), July 1, 1988, 102 Stat. 724, 775, 791; Pub. L. 100–485, title VI, §608(d)(25)(B), Oct. 13, 1988, 102 Stat. 2421; Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–239, title VI, §6224(a)(1), (b)(1), Dec. 19, 1989, 103 Stat. 2257; Pub. L. 101–508, title IV, §§4205(b)(1), (d)(1)(A), (g)(1)(A), (2)(A), 4207(a)(1)(B), formerly 4027(a)(1)(B), 4358(b)(3), Nov. 5, 1990, 104 Stat. 1388–113 to 1388–115, 1388–117, 1388–137; Pub. L. 103–432, title I, §§156(a)(2)(A), (b)(2)(A), 160(d)(4), 171(h)(2), Oct. 31, 1994, 108 Stat. 4440, 4441, 4444, 4450.)
+(Aug. 14, 1935, ch. 531, title XI, §1154, as added Pub. L. 97–248, title I, §143, Sept. 3, 1982, 96 Stat. 385; amended Pub. L. 97–448, title III, §309(b)(3), (4), Jan. 12, 1983, 96 Stat. 2408, 2409; Pub. L. 99–272, title IX, §§9307(b), 9401(a), 9403(a), 9405(a), Apr. 7, 1986, 100 Stat. 193, 196, 200, 201; Pub. L. 99–509, title IX, §§9343(d), 9351(a), 9352(b), 9353(a)(1)–(3), (c)(1), Oct. 21, 1986, 100 Stat. 2040, 2043, 2044–2047; Pub. L. 100–203, title IV, §§4039(h)(3), (4), 4093(a), 4094(a)–(c)(1)(A), (2)(A), (B), 4096(c), Dec. 22, 1987, 101 Stat. 1330–135 to 1330–137, 1330–139, as amended Pub. L. 100–360, title IV, §411(e)(3), (j)(3)(A), July 1, 1988, 102 Stat. 775, 791; Pub. L. 100–360, title II, §203(d)(2), title IV, §411(j)(2), (3)(B), (4)(C), July 1, 1988, 102 Stat. 724, 775, 791; Pub. L. 100–485, title VI, §608(d)(25)(B), Oct. 13, 1988, 102 Stat. 2421; Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–239, title VI, §6224(a)(1), (b)(1), Dec. 19, 1989, 103 Stat. 2257; Pub. L. 101–508, title IV, §§4205(b)(1), (d)(1)(A), (g)(1)(A), (2)(A), 4207(a)(1)(B), formerly 4027(a)(1)(B), 4358(b)(3),Nov. 5, 1990, 104 Stat. 1388–113 to 1388–115, 1388–117, 1388–137; Pub. L. 103–432, title I, §§156(a)(2)(A), (b)(2)(A), 160(d)(4), 171(h)(2), Oct. 31, 1994, 108 Stat. 4440, 4441, 4444, 4450; Pub. L. 106–554, §1(a)(6) \[title V, §521(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–543.)
 
 #### Prior Provisions
 
 A prior section 1320c–3, act Aug. 14, 1935, ch. 531, title XI, §1154, as added Oct. 30, 1972, Pub. L. 92–603, title II, §249F(b), 86 Stat. 1432; amended Oct. 25, 1977, Pub. L. 95–142, §5(b), (d)(2)(C), 91 Stat. 1184, 1186; Dec. 5, 1980, Pub. L. 96–499, title IX, §924(a), 94 Stat. 2628; Aug. 13, 1981, Pub. L. 97–35, title XXI, §§2112(a)(1), (2)(B), (b), 2113(c), 2121(e), 95 Stat. 793, 794, 796, related to trial period for Professional Standards Review Organizations, prior to the general revision of this part by Pub. L. 97–248.
 
 #### Amendments
+
+2000—Subsec. (e)(2) to (4). Pub. L. 106–554 struck out pars. (2) to (4), which had: in par. (2), authorized peer review organization review of validity of hospital's determination that a patient no longer required inpatient hospital care but attending physician had not agreed with the hospital's determination; in par. (3), authorized review of the determination where patient or patient's representative had received a notice under par. (1) and requested the review; and in par. (4), directed that hospital could not charge patient for inpatient services furnished before noon of the day after the date the patient or representative received notice of the decision where request for review had been made not later than noon of the first working day after notice under par. (1) had been received and section 1395pp(a)(2) conditions had been met.
 
 1994—Subsec. (a)(4)(B). Pub. L. 103–432, §171(h)(2), substituted “(or that is subject to review under section 1395ss(t)(3) of this title)” for “(or subject to review under section 1395ss(t) of this title)”.
 
@@ -288,6 +262,10 @@ Subsec. (f). Pub. L. 99–509, §9353(a)(3), added subsec. (f).
 
 Subsec. (a)(2)(B). Pub. L. 97–448, §309(b)(4), struck out “posthospital” before “extended care services”.
 
+#### Effective Date of 2000 Amendment
+
+Pub. L. 106–554, §1(a)(6) \[title V, §521(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–543, provided that: “The amendments made by this section \[amending this section and sections 1395w–22 and 1395ff of this title\] shall apply with respect to initial determinations made on or after October 1, 2002.”
+
 #### Effective Date of 1994 Amendment
 
 Section 156(a)(3) of Pub. L. 103–432 provided that: “The amendments made by this subsection \[amending this section and sections 1395<i>l</i>, 1395m, 1395y, and 1395cc of this title and repealing section 1320c–13 of this title\] shall apply to services provided on or after the date of the enactment of this Act \[Oct. 31, 1994\].”
@@ -344,7 +322,7 @@ Amendment by Pub. L. 101–234 effective Jan. 1, 1990, see section 201(c) of Pub
 
 Amendment by Pub. L. 100–485 effective as if included in the enactment of the Medicare Catastrophic Coverage Act of 1988, Pub. L. 100–360, see section 608(g)(1) of Pub. L. 100–485, set out as a note under section 704 of this title.
 
-Section 203(g) of Pub. L. 100–360, which had provided that the amendments made by section 203 of Pub. L. 100–360 (amending this section and sections 1395h, 1395kto 1395n, 1395w–2, 1395x, 1395z, and 1395aa of this title) were to apply to items and services furnished on or after January 1, 1990, was repealed by Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981.
+Section 203(g) of Pub. L. 100–360, which had provided that the amendments made by section 203 of Pub. L. 100–360 (amending this section and sections 1395h, 1395k to 1395n, 1395w–2, 1395x, 1395z, and 1395aa of this title) were to apply to items and services furnished on or after January 1, 1990, was repealed by Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981.
 
 Except as specifically provided in section 411 of Pub. L. 100–360, amendment by section 411(e)(3), (j)(2), (3), (4)(C) of Pub. L. 100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
 
@@ -406,7 +384,7 @@ Section 9353(a)(4) of Pub. L. 99–509 provided that: “The Secretary of Health
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1320c–1, 1320c–2, 1320c–4, 1320c–7, 1320c–9, 1395u, 1395w–22, 1395cc, 1395mm, 1396r–2 of this title.
+This section is referred to in sections 1320c–1, 1320c–2, 1320c–4, 1320c–7, 1320c–9, 1395u, 1395w–22, 1395cc, 1395ff, 1395mm, 1396r–2 of this title.
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

@@ -16,15 +16,11 @@ Phrase (2), reading “or committed in connection with the acquisition, care, ha
 
 The revised section extends its provisions to all offenses involving the disposition of any property, real or personal, of the United States. This extension is more apparent than real since phrase (2), added as the result of said Act, was merely a more specific statement of offenses embraced in phrase (1) of this section.
 
-The revised section is written in general terms as permanent legislation applicable whenever the UnitedStates is at war. (See, also, reviser's note under section 284 of this title.)
+The revised section is written in general terms as permanent legislation applicable whenever the United States is at war. (See, also, reviser's note under section 284 of this title.)
 
 The last paragraph was added to obviate any possibility of doubt as to meaning of terms defined in section 103 of title 41, U.S.C., 1940 ed., Public Contracts.
 
 Changes were made in phraseology.
-
-#### Cross References
-
-Termination of war contracts, see section 101 et seq. of Title 41, Public Contracts.
 
 #### Section Referred to in Other Sections
 

@@ -48,7 +48,7 @@ As used in this part, the term “home- and community-based health services”�
 
 #### References in Text
 
-Section 300ff–22 of this title, referred to in subsec. (a), was amended by Pub. L. 104–146, §3(c)(2)(A)(i), May 20, 1996, 110 Stat. 1354, and, as so amended, no longer contains a subsec. (a).
+Section 300ff–22 of this title, referred to in subsec. (a), was amended by Pub. L. 104–146, §3(c)(2)(A)(i), (ii), May20, 1996, 110 Stat. 1354, and Pub. L. 106–345, title II, §202(1), Oct. 20, 2000, 114 Stat. 1330, and as so amended, provisions formerly contained in section 300ff–22(a)(2) are now contained in section 300ff–22(a)(3).
 
 #### Prior Provisions
 

@@ -44,9 +44,19 @@ Offices, Bureaus, and Divisions.—The Board shall establish offices necessary t
 
 (h)
 
+Chief Financial Officer.—The Chairman shall designate an officer or employee of the Board as the Chief Financial Officer. The Chief Financial Officer shall—
+
+&emsp;(1) report directly to the Chairman on financial management and budget execution;
+
+&emsp;(2) direct, manage, and provide policy guidance and oversight on financial management and property and inventory control; and
+
+&emsp;(3) review the fees, rents, and other charges imposed by the Board for services and things of value it provides, and suggest appropriate revisions to those charges to reflect costs incurred by the Board in providing those services and things of value.
+
+(i)
+
 Seal.—The Board shall have a seal that shall be judicially recognized.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 746.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 746; Pub. L. 106–424, §10, Nov. 1, 2000, 114 Stat. 1886.)
 
 Historical and Revision Notes
 
@@ -105,4 +115,12 @@ In subsection (e), before clause (1), the words “is the chief executive and ad
 In subsection (f), the words “duties and powers” are substituted for “function” for consistency in the revised title and with other titles of the Code.
 
 In subsection (g), the text of 49 App.:1902(c)(1) is omitted as unnecessary because of 40:ch. 10.
+
+#### Amendments
+
+2000—Subsecs. (h), (i). Pub. L. 106–424 added subsec. (h) and redesignated former subsec. (h) as (i).
+
+#### Improved Audit Procedures
+
+Pub. L. 106–424, §11, Nov. 1, 2000, 114 Stat. 1887, provided that: “The National Transportation Safety Board, in consultation with the Inspector General of the Department of Transportation, shall develop and implement comprehensive internal audit controls for its financial programs based on the findings and recommendations of the private sector audit firm contract entered into by the Board in March, 2000. The improved internal audit controls shall, at a minimum, address Board asset management systems, including systems for accounting management, debt collection, travel, and property and inventory management and control.”
 

@@ -12,10 +12,6 @@ A provision in the original enactment of this section requiring filing of copies
 
 Duties, powers, and functions under this section relating to operation of telegraph lines by railroad and telegraph lines granted Government aid in construction of their lines imposed on and vested in Federal Communications Commission by act June 19, 1934. See section 601 of this title.
 
-#### Cross References
-
-Exclusive jurisdiction of district court of the United States of action for recovery of forfeiture, see section 1355 of Title 28, Judiciary and Judicial Procedure.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 12, 15, 601 of this title.

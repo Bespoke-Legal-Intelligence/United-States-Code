@@ -46,9 +46,11 @@ Amendment by section 1482(b) of Pub. L. 101–510 effective Oct. 1, 1991, see se
 
 #### Citizenship Requirement Not Applicable
 
-Pub. L. 106–79, title VIII, §8002, Oct. 25, 1999, 113 Stat. 1230, provided that: “During the current fiscal year, provisions of law prohibiting the payment of compensation to, or employment of, any person not a citizen of the United States shall not apply to personnel of the Department of Defense: <i>Provided</i>, That salary increases granted to direct and indirect hire foreign national employees of the Department of Defense funded by this Act \[see Tables for classification\] shall not be at a rate in excess of the percentage increase authorized by law for civilian employees of the Department of Defense whose pay is computed under the provisions of section 5332 of title 5, United States Code, or at a rate in excess of the percentage increase provided by the appropriate host nation to its own employees, whichever is higher: <i>Provided further</i>, That this section shall not apply to Department of Defense foreign service national employees serving at United States diplomatic missions whose pay is set by the Department of State under the Foreign Service Act of 1980 \[22 U.S.C. 3901 et seq.\]: <i>Provided further</i>, That the limitations of this provision shall not apply to foreign national employees of the Department of Defense in the Republic of Turkey.”
+Pub. L. 106–259, title VIII, §8002, Aug. 9, 2000, 114 Stat. 674, provided that: “During the current fiscal year, provisions of law prohibiting the payment of compensation to, or employment of, any person not a citizen of the United States shall not apply to personnel of the Department of Defense: <i>Provided</i>, That salary increases granted to direct and indirect hire foreign national employees of the Department of Defense funded by this Act \[see Tables for classification\] shall not be at a rate in excess of the percentage increase authorized by law for civilian employees of the Department of Defense whose pay is computed under the provisions of section 5332 of title 5, United States Code, or at a rate in excess of the percentage increase provided by the appropriate host nation to its own employees, whichever is higher: <i>Provided further</i>, That this section shall not apply to Department of Defense foreign service national employees serving at United States diplomatic missions whose pay is set by the Department of State under the Foreign Service Act of 1980 \[22 U.S.C. 3901 et seq.\]: <i>Provided further</i>, That the limitations of this provision shall not apply to foreign national employees of the Department of Defense in the Republic of Turkey.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 106–79, title VIII, §8002, Oct. 25, 1999, 113 Stat. 1230.
 
 Pub. L. 105–262, title VIII, §8002, Oct. 17, 1998, 112 Stat. 2296.
 
@@ -167,12 +169,4 @@ July 2, 1942, ch. 477, §1, 56 Stat. 613.
 #### Salary Increases to Foreign National Employees; Notice to Congress
 
 Pub. L. 100–463, title VIII, §8114, Oct. 1, 1988, 102 Stat. 2270–38, which directed Secretary of Defense to notify House and Senate Committees on Appropriations when salary increases granted to foreign national employees were at a rate in excess of the percentage pay increase authorized by law for civilian employees of Department of Defense whose pay was computed under section 5332 of title 5 or at a rate in excess of the percentage increase provided to National Government employees of the host nation, whichever was higher, was repealed and restated in subsec. (b) of this section by Pub. L. 101–510, §1481(d)(1)(B), (4)(A).
-
-#### Cross References
-
-Citizenship requirement for Federal employees compensated from appropriated funds, see section 3101 note of Title 5, Government Organization and Employees.
-
-Department of Navy, employment of aliens by, see section 7473 of this title.
-
-Research and development contracts, delegation of authority, see section 2356 of this title.
 

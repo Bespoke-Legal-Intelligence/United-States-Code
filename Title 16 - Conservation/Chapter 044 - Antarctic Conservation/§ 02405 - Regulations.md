@@ -2,7 +2,7 @@
 
 #### (a) Regulations to be issued by Director
 
-(1) The Director shall issue such regulations as are necessary and appropriate to implementAnnex II and Annex V to the Protocol and the provisions of this chapter which implement those annexes, including section 2403(b)(2), (3), (4), and (5) of this title. The Director shall designate as native species—
+(1) The Director shall issue such regulations as are necessary and appropriate to implement Annex II and Annex V to the Protocol and the provisions of this chapter which implement those annexes, including section 2403(b)(2), (3), (4), and (5) of this title. The Director shall designate as native species—
 
 &emsp;(A) each species of the class Aves;
 
@@ -30,7 +30,7 @@ The regulations to be issued under subsection (a)(1) and (2) of this section sha
 
 #### References in Text
 
-The Act to Prevent Pollution from Ships, referred to in subsec. (b), is Pub. L. 96–478, Oct. 21, 1980, 94 Stat. 2297, as amended, which is classified principally to chapter 33 (§1901 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of Title 33 and Tables.
+The Act to Prevent Pollution from Ships, referred to in subsec. (b), is Pub. L. 96–478, Oct. 21, 1980, 94 Stat. 2297, as amended, which is classified principally to chapter 33 (§1901 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of thisAct to the Code, see Short Title note set out under section 1901 of Title 33 and Tables.
 
 #### Amendments
 

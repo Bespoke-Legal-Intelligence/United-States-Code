@@ -20,7 +20,7 @@
 
 &emsp;(G) such other criteria as the Secretary may prescribe.
 
-(3) The Federal share of the cost of any project conducted under this chapter shall not exceed 75 percent of the total estimated cost of the project, unless—
+(3) The Federal share of the cost of any project conducted under this chapter shall not exceed 75percent of the total estimated cost of the project, unless—
 
 &emsp;(A) the State has adopted an interstate fishery management plan for the resource to which the project applies; or
 

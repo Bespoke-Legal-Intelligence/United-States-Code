@@ -32,7 +32,7 @@ The stockpile requirements shall be based on those strategic and critical materi
 
 #### (d) Effect of alternative mobilization periods
 
-The Secretary shall also include in each report under this section an examination of the effect that alternative mobilization periods under themilitary conflict scenario required under subsection (b) of this section, as well as a range of other military conflict scenarios addressing potentially more serious threats to national security, would have on the Secretary's recommendations under subsection (a)(1) of this section with respect to stockpile requirements.
+The Secretary shall also include in each report under this section an examination of the effect that alternative mobilization periods under the military conflict scenario required under subsection (b) of this section, as well as a range of other military conflict scenarios addressing potentially more serious threats to national security, would have on the Secretary's recommendations under subsection (a)(1) of this section with respect to stockpile requirements.
 
 #### (e) Plans of President
 

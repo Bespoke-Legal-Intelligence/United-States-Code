@@ -16,7 +16,7 @@ Congress finds that—
 
 &emsp;(6) the cooperative development, financing, and implementation of a coordinated national program of pecan promotion, research, industry information, and consumer information are necessary to maintain and expand existing markets and develop new markets for pecans; and
 
-&emsp;(7) pecans move in interstate and foreign commerce, and pecans that do not move in such channels of commerce directly burden or affect interstate commerce in pecans.
+&emsp;(7) pecans move in interstate and foreign commerce, and pecans that do not move insuch channels of commerce directly burden or affect interstate commerce in pecans.
 
 #### (b) Policy
 

@@ -32,7 +32,7 @@ As used in this chapter—
 
 &emsp;(11) “aggrieved person” means a person who was a party to any intercepted wire, oral, or electronic communication or a person against whom the interception was directed;
 
-&emsp;(12) “electronic communication” means any transfer of signs, signals, writing, images,sounds, data, or intelligence of any nature transmitted in whole or in part by a wire, radio, electromagnetic, photoelectronic or photooptical system that affects interstate or foreign commerce, but does not include—
+&emsp;(12) “electronic communication” means any transfer of signs, signals, writing, images, sounds, data, or intelligence of any nature transmitted in whole or in part by a wire, radio, electromagnetic, photoelectronic or photooptical system that affects interstate or foreign commerce, but does not include—
 
 &emsp;&emsp;(A) any wire or oral communication;
 

@@ -68,10 +68,6 @@ Subsec. (f). Pub. L. 95–551 redesignated former subsec. (f) as (e).
 
 1965—Subsec. (f). Pub. L. 89–189 added subsec. (f).
 
-#### Cross References
-
-Leader of Naval Academy Band, allowances, see section 424 of this title.
-
 Section Referred to in Other Sections
 
 This section is referred to in section 424 of this title.

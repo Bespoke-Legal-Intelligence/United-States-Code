@@ -40,7 +40,7 @@
 
 #### (b) Dollar limits on expenditures by candidates for office of President of United States
 
-(1) No candidate for the office of President of the United States who is eligible under section 9003 of title 26 (relating to condition for eligibility for payments) or under section 9033 oftitle 26 (relating to eligibility for payments) to receive payments from the Secretary of the Treasury may make expenditures in excess of—
+(1) No candidate for the office of President of the United States who is eligible under section 9003 of title 26 (relating to condition for eligibility for payments) or under section 9033 of title 26 (relating to eligibility for payments) to receive payments from the Secretary of the Treasury may make expenditures in excess of—
 
 &emsp;(A) $10,000,000, in the case of a campaign for nomination for election to such office, except the aggregate of expenditures under this subparagraph in any one State shall not exceed the greater of 16 cents multiplied by the voting age population of the State (as certified under subsection (e) of this section), or $200,000; or
 
@@ -92,11 +92,11 @@ No candidate or political committee shall knowingly accept any contribution or m
 
 #### (g) Attribution of multi-State expenditures to candidate's expenditure limitation in each State
 
-The Commission shall prescribe rules under which any expenditure by a candidate for presidential nominations for use in 2 or more States shall be attributed to such candidate's expenditure limitation in each such State, based on the voting age population in such State which can reasonably be expected to be influenced by such expenditure.
+The Commission shall prescribe rules under which any expenditure by a candidate for presidential nominations for use in 2 or more States shall be attributed to such candidate's expenditure limitation in each such State, based on thevoting age population in such State which can reasonably be expected to be influenced by such expenditure.
 
 #### (h) Senatorial candidates
 
-Notwithstanding any other provision of this Act, amounts totaling not more than $17,500may be contributed to a candidate for nomination for election, or for election, to the United States Senate during the year in which an election is held in which he is such a candidate, by the Republican or Democratic Senatorial Campaign Committee, or the national committee of a political party, or any combination of such committees.
+Notwithstanding any other provision of this Act, amounts totaling not more than $17,500 may be contributed to a candidate for nomination for election, or for election, to the United States Senate during the year in which an election is held in which he is such a candidate, by the Republican or Democratic Senatorial Campaign Committee, or the national committee of a political party, or any combination of such committees.
 
 (Pub. L. 92–225, title III, §315, formerly §320, as added Pub. L. 94–283, title I, §112(2), May 11, 1976, 90 Stat. 486; renumbered §315, Pub. L. 96–187, title I, §105(5), Jan. 8, 1980, 93 Stat. 1354; amended Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
 

@@ -8,7 +8,7 @@
 
 #### (2) List of high probability areas
 
-&emsp;In carrying out such study, the Administrator shall identify and compile a list of areas within the United States which the Administrator determines have a high probability of including schools which have elevated levels of radon.
+&emsp;In carrying out such study, the Administrator shall identify and compile a list ofareas within the United States which the Administrator determines have a high probability of including schools which have elevated levels of radon.
 
 #### (3) Basis of list
 

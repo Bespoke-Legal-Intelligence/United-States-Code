@@ -12,7 +12,7 @@ Each such report shall show the aggregate dollar value and quantity of defense a
 
 &emsp;(2) were furnished with the financial assistance of the United States Government, including through loans and guarantees; or
 
-&emsp;(3) were licensed for export under section 38 of the Arms Export Control Act \[22 U.S.C. 2778\].
+&emsp;(3) were licensed for export under section 38 of the Arms Export Control Act \[22 U.S.C. 2778\] and, if so, a specification of those defense articles that were exported during the fiscal year covered by the report.
 
 #### (c) Information relating to military imports
 
@@ -22,7 +22,7 @@ Each such report shall also include the total amount of military items manufactu
 
 All unclassified portions of such report shall be made available to the public on the Internet through the Department of State.
 
-(Pub. L. 87–195, pt. III, §655, as added Pub. L. 104–106, div. A, title XIII, §1324(c), Feb. 10, 1996, 110 Stat. 481; amended Pub. L. 104–164, title I, §148, July 21, 1996, 110 Stat. 1435; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XIII, §1306\], Nov. 29, 1999, 113 Stat. 1536, 1501A–512.)
+(Pub. L. 87–195, pt. III, §655, as added Pub. L. 104–106, div. A, title XIII, §1324(c), Feb. 10, 1996, 110 Stat. 481; amended Pub. L. 104–164, title I, §148, July 21, 1996, 110 Stat. 1435; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XIII, §1306\], Nov. 29, 1999, 113 Stat. 1536, 1501A–512; Pub. L. 106–280, title VII, §702, Oct. 6, 2000, 114 Stat. 861.)
 
 #### References in Text
 
@@ -35,6 +35,8 @@ The Arms Export Control Act, referred to in subsec. (b)(1), is Pub. L. 90–629,
 A prior section 2415, Pub. L. 87–195, pt. III, §655, as added Pub. L. 92–226, pt. III, §304(b), Feb. 7, 1972, 86 Stat. 29; amended Pub. L. 93–559, §39(a), Dec. 30, 1974, 88 Stat. 1810; Pub. L. 94–329, title IV, §413(a), June 30, 1976, 90 Stat. 761, related to limitation in amounts to be expended for assistance to Cambodia, prior to repeal by Pub. L. 95–424, title VI, §§604, 605, Oct. 6, 1978, 92 Stat. 961, effective Oct. 1, 1978.
 
 #### Amendments
+
+2000—Subsec. (b)(3). Pub. L. 106–280 inserted before the period at end “and, if so, a specification of those defense articles that were exported during the fiscal year covered by the report”.
 
 1999—Subsec. (b). Pub. L. 106–113, §1000(a)(7) \[title XIII, §1306(a)\], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Each such report shall show the aggregate dollar value and quantity of defense articles (including excess defense articles), defense services, and international military education and training authorized by the United States, excluding that which is pursuant to activies reportable under title V of the National Security Act of 1947, to each foreign country and international organization. The report shall specify, by category, whether such defense articles—
 

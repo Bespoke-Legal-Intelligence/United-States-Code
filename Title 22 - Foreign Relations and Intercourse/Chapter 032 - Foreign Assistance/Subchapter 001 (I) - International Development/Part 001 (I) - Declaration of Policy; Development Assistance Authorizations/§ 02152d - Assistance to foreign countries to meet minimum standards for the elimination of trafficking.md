@@ -1,0 +1,36 @@
+### §2152d. Assistance to foreign countries to meet minimum standards for the elimination of trafficking
+
+#### (a) Authorization
+
+The President is authorized to provide assistance to foreign countries directly, or through nongovernmental and multilateral organizations, for programs, projects, and activities designed to meet the minimum standards for the elimination of trafficking (as defined in section 7102 of this title), including—
+
+&emsp;(1) the drafting of laws to prohibit and punish acts of trafficking;
+
+&emsp;(2) the investigation and prosecution of traffickers;
+
+&emsp;(3) the creation and maintenance of facilities, programs, projects, and activities for the protection of victims; and
+
+&emsp;(4) the expansion of exchange programs and international visitor programs for governmental and nongovernmental personnel to combat trafficking.
+
+#### (b) Funding
+
+Amounts made available to carry out the other provisions of subchapter I of this chapter (including part IV of subchapter II of this chapter) and the Support for East European Democracy (SEED) Act of 1989 \[22 U.S.C. 5401 et seq.\] shall be made available to carry out this section.
+
+(Pub. L. 87–195, pt. I, §134, as added Pub. L. 106–386, div. A, §109, Oct. 28, 2000, 114 Stat. 1481.)
+
+#### References in Text
+
+The Support for East European Democracy (SEED) Act of 1989, referred to in subsec. (b), is Pub. L. 101–179, Nov. 28, 1989, 103 Stat. 1298, as amended, which is classified principally to chapter 63 (§5401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5401 of this title and Tables.
+
+#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
+
+References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
+
+#### Delegation of Functions
+
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 7110 of this title.
+

@@ -2,7 +2,7 @@
 
 The Secretary of the Treasury shall instruct the United States Executive Director of the Fund to propose that the Fund adopt the following policies with respect to international lending:
 
-&emsp;(1) In its consultations with a member government on its economic policies pursuant toarticle IV of the Articles of Agreement of the Fund, the Fund should—
+&emsp;(1) In its consultations with a member government on its economic policies pursuant to article IV of the Articles of Agreement of the Fund, the Fund should—
 
 &emsp;&emsp;(A) intensify its examination of the trend and volume of external indebtedness of private and public borrowers in the member country and comment, as appropriate, in its report to the Executive Board from the viewpoint of the contribution of such borrowings to the economic stability of the borrower; and
 

@@ -1,6 +1,6 @@
 ### §1722. False evidence to secure second-class rate
 
-Whoever knowingly submits to the Postal Service or to any officer or employee of thePostal Service, any false evidence relative to any publication for the purpose of securing the admission thereof at the second-class rate, for transportation in the mails, shall be fined under this title.
+Whoever knowingly submits to the Postal Service or to any officer or employee of the Postal Service, any false evidence relative to any publication for the purpose of securing the admission thereof at the second-class rate, for transportation in the mails, shall be fined under this title.
 
 (June 25, 1948, ch. 645, 62 Stat. 783; Pub. L. 91–375, §6(j)(30), Aug. 12, 1970, 84 Stat. 780; Pub. L. 103–322, title XXXIII, §330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)
 
@@ -20,5 +20,5 @@ Minor verbal change was made.
 
 #### Effective Date of 1970 Amendment
 
-Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by Board of Governors of United States Postal Service and published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
+Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor byBoard of Governors of United States Postal Service and published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
 

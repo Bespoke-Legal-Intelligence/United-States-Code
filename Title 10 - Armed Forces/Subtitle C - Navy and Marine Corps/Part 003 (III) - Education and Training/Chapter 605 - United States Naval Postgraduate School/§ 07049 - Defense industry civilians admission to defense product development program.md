@@ -1,0 +1,66 @@
+### §7049. Defense industry civilians: admission to defense product development program
+
+(a)
+
+Authority for Admission.—The Secretary of the Navy may permit eligible defense industry employees to receive instruction at the Naval Postgraduate School in accordance with this section. Any such defense industry employee may only be enrolled in, and may only be provided instruction in, a program leading to a master's degree in a curriculum related to defense product development. No more than 10 such defense industry employees may be enrolled at any one time. Upon successful completion of the course of instruction in which enrolled, any such defense industry employee may be awarded an appropriate degree under section 7048 of this title.
+
+(b)
+
+Eligible Defense Industry Employees.—For purposes of this section, an eligible defense industry employee is an individual employed by a private firm that is engaged in providing to the Department of Defense significant and substantial defense-related systems, products, or services. A defense industry employee admitted for instruction at the school remains eligible for such instruction only so long as that person remains employed by the same firm.
+
+(c)
+
+Annual Certification by the Secretary of the Navy.—Defense industry employees may receive instruction at the school during any academic year only if, before the start of that academic year, the Secretary of the Navy determines, and certifies to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives, that providing instruction to defense industry employees under this section during that year—
+
+&emsp;(1) will further the military mission of the school;
+
+&emsp;(2) will enhance the ability of the Department of Defense and defense-oriented private sector contractors engaged in the design and development of defense systems to reduce the product and project lead times required to bring such systems to initial operational capability; and
+
+&emsp;(3) will be done on a space-available basis and not require an increase in the size of the faculty of the school, an increase in the course offerings of the school, or an increase in the laboratory facilities or other infrastructure of the school.
+
+(d)
+
+Program Requirements.—The Secretary of the Navy shall ensure that—
+
+&emsp;(1) the curriculum for the defense product development program in which defense industry employees may be enrolled under this section is not readily available through other schools and concentrates on defense product development functions that are conducted by military organizations and defense contractors working in close cooperation; and
+
+&emsp;(2) the course offerings at the school continue to be determined solely by the needs of the Department of Defense.
+
+(e)
+
+Tuition.—The Superintendent of the school shall charge tuition for students enrolled under this section at a rate not less than the rate charged for employees of the United States outside the Department of the Navy.
+
+(f)
+
+Standards of Conduct.—While receiving instruction at the school, students enrolled under this section, to the extent practicable, are subject to the same regulations governing academic performance, attendance, norms of behavior, and enrollment as apply to Government civilian employees receiving instruction at the school.
+
+(g)
+
+Use of Funds.—Amounts received by the school for instruction of students enrolled under this section shall be retained by the school to defray the costs of such instruction. The source, and the disposition, of such funds shall be specifically identified in records of the school.
+
+(Added Pub. L. 106–398, §1 \[\[div. A\], title V, §535(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–112.)
+
+#### Program Evaluation and Report
+
+Pub. L. 106–398, §1 \[\[div. A\], title V, §535(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–113, provided that:
+
+“(1) Before the start of the fourth year of instruction, but no earlier than the start of the third year of instruction, of defense industry employees at the Naval Postgraduate School under section 7049 of title 10, United States Code, as added by subsection (a), the Secretary of the Navy shall conduct an evaluation of the admission of such students under that section. The evaluation shall include the following:
+
+&emsp;“(A) An assessment of whether the authority for instruction of nongovernment civilians at the school has resulted in a discernible benefit for the Government.
+
+&emsp;“(B) Determination of whether the receipt and disposition of funds received by the school as tuition for instruction of such civilians at the school have been properly identified in records of the school.
+
+&emsp;“(C) A summary of the disposition and uses made of those funds.
+
+&emsp;“(D) An assessment of whether instruction of such civilians at the school is in the best interests of the Government.
+
+“(2) Not later than 30 days after completing the evaluation referred to in paragraph (1), the Secretary of the Navy shall submit to the Secretary of Defense a report on the program under such section. The report shall include—
+
+&emsp;“(A) the results of the evaluation under paragraph (1);
+
+&emsp;“(B) the Secretary's conclusions and recommendation with respect to continuing to allow nongovernment civilians to receive instruction at the Naval Postgraduate School as part of a program related to defense product development; and
+
+&emsp;“(C) any proposals for legislative changes recommended by the Secretary.
+
+“(3) Not later than 60 days after receiving the report of the Secretary of the Navy under paragraph (2), the Secretary of Defense shall submit the report, together with any comments that the Secretary considers appropriate, to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives.”
+

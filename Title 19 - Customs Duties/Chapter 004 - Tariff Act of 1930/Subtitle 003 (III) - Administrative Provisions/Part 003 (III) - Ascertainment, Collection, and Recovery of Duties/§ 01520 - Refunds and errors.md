@@ -50,7 +50,7 @@ Prior provisions somewhat similar to those in subdivisions (1) and (3) of paragr
 
 Provisions concerning the refund of moneys collected as duties in accordance with any decision, etc., of the Secretary of the Treasury, with provisos concerning reliquidations, correction of errors, household effects and other articles exempt from duty, were contained in act March 3, 1875, ch. 136, 18 Stat. 469, which was also repealed by section 643 of the act of Sept. 21, 1922.
 
-R.S. §3011 (as amended by act Feb. 27, 1877, ch. 69, §1, 19 Stat. 247, and act Feb. 1, 1888, ch. 4, 25 Stat. 6) andsection 3012, relative to actions to recover duties paid under protest, and sections 30121/2 and 3013, relative to refunds, were repealed by the Customs Administrative Act of June 10, 1890, ch. 407, §29. 26 Stat. 141.
+R.S. §3011 (as amended by act Feb. 27, 1877, ch. 69, §1, 19 Stat. 247, and act Feb. 1, 1888, ch. 4, 25 Stat. 6) and section 3012, relative to actions to recover duties paid under protest, and sections 30121/2 and 3013, relative to refunds, were repealed by the Customs Administrative Act of June 10, 1890, ch. 407, §29. 26 Stat. 141.
 
 Act June 7, 1924, ch. 357, 43 Stat. 660, authorizing the remission of unpaid customs duties on material belonging to the United States and theretofore imported by the War Department, was omitted from the Code as temporary.
 
@@ -72,7 +72,7 @@ Pub. L. 103–182, §642(b), struck out subsec. (d) which read as follows: “If
 
 Subsec. (d). Pub. L. 98–573, §210(b), added subsec. (d).
 
-1978—Subsec. (c)(1). Pub. L. 95–410 substituted “appropriate customs officer within one year after the date of liquidation or exaction” for “customs service within one year after the date of entry, or transaction, or within ninety days after liquidation or exaction when the liquidation or exaction is made more than nine months after the date of the entry, or transaction”.
+1978—Subsec. (c)(1). Pub. L. 95–410 substituted “appropriate customs officer within one year after the date of liquidation or exaction” for “customs service withinone year after the date of entry, or transaction, or within ninety days after liquidation or exaction when the liquidation or exaction is made more than nine months after the date of the entry, or transaction”.
 
 1970—Subsec. (c). Pub. L. 91–271 in introductory material substituted “the appropriate customs officer may, in accordance with regulations prescribed by the Secretary,” for “the Secretary of the Treasury may authorize a collector to”, and in par. (1) struck out “appraisement” wherever appearing and substituted “ninety” and “nine” for “sixty” and “ten”, respectively.
 
@@ -119,12 +119,6 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 #### Availability of Transportation and Storage Facilities for Military Purposes
 
 Act Sept. 29, 1942, ch. 567, 56 Stat. 761, authorized removal of merchandise in bond or customs custody from transportation and storage facilities needed for military purposes, prior to repeal by act July 25, 1947, ch. 327, §1, 61 Stat. 449.
-
-#### Cross References
-
-Appropriation account covering “Refunding moneys erroneously received and covered (Customs)” abolished and unobligated balances transferred to surplus fund of Treasury, see section 1322 of Title 31, Money and Finance.
-
-Provisions for abatement and refund of duties in case of injury to goods while in any public or private warehouse under bond, see section 1563 of this title.
 
 #### Section Referred to in Other Sections
 

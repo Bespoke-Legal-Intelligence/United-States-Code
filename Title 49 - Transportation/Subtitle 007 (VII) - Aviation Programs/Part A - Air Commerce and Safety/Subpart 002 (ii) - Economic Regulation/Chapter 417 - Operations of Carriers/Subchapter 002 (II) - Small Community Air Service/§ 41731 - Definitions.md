@@ -6,11 +6,13 @@ General.—In this subchapter—
 
 &emsp;(1) “eligible place” means a place in the United States that—
 
-&emsp;&emsp;(A) was an eligible point under section 419 of the Federal Aviation Act of 1958 before October 1, 1988;
+&emsp;&emsp;(A)(i) was an eligible point under section 419 of the Federal Aviation Act of 1958 before October 1, 1988;
 
-&emsp;&emsp;(B) received scheduled air transportation at any time after January 1, 1990; and
+&emsp;&emsp;(ii) received scheduled air transportation at any time after January 1, 1990; and
 
-&emsp;&emsp;(C) is not listed in Department of Transportation Orders 89–9–37 and 89–12–52 as a place ineligible for compensation under this subchapter.
+&emsp;&emsp;(iii) is not listed in Department of Transportation Orders 89–9–37 and 89–12–52 as a place ineligible for compensation under this subchapter; or
+
+&emsp;&emsp;(B) determined,<sup>1</sup> on or after October 1, 1988, and before the date of the enactment of the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century, under this subchapter by the Secretary to be eligible to receive subsidized small community air service under section 41736(a).
 
 &emsp;(2) “enhanced essential air service” means scheduled air transportation to an eligible place of a higher level or quality than basic essential air service described in section 41732 of this title.
 
@@ -24,7 +26,7 @@ General.—In this subchapter—
 
 Limitation on Authority To Decide a Place Not an Eligible Place.—The Secretary of Transportation may not decide that a place described in subsection (a)(1) of this section is not an eligible place on the basis of a passenger subsidy at that place or on another basis that is not specifically stated in this subchapter.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1143.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1143; Pub. L. 106–181, title II, §208, Apr. 5, 2000, 114 Stat. 95.)
 
 Historical and Revision Notes
 
@@ -74,9 +76,49 @@ In subsection (a)(3)–(5), the word “boardings” is substituted for “enpla
 
 #### References in Text
 
-Section 419 of the Federal Aviation Act of 1958, referred to in subsec. (a)(1)(A), is section 419 of Pub. L. 85–726, which was classified to section 1389 of former Title 49, Transportation, and was repealed and reenacted as this subchapter by Pub. L. 103–272, §§1(e), 7(b), July 5, 1994, 108 Stat. 1143, 1379.
+Section 419 of the Federal Aviation Act of 1958, referred to in subsec. (a)(1)(A)(i), is section 419 of Pub. L. 85–726, which was classified to section 1389 of former Title 49, Transportation, and was repealed and reenacted as this subchapter by Pub. L. 103–272, §§1(e), 7(b), July 5, 1994, 108 Stat. 1143, 1379.
+
+The date of the enactment of the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century, referred to in subsec. (a)(1)(B), is the date of enactment of Pub. L. 106–181, which was approved Apr. 5, 2000.
+
+#### Amendments
+
+2000—Subsec. (a)(1). Pub. L. 106–181 redesignated subpars. (A), (B), and (C) as cls. (i), (ii), and (iii), respectively, of subpar (A) and added subpar. (B).
+
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
+
+#### Marketing Practices
+
+Pub. L. 106–181, title II, §207, Apr. 5, 2000, 114 Stat. 94, provided that:
+
+“(a)
+
+Review of Marketing Practices That Adversely Affect Service to Small or Medium Communities.—Not later than 180 days after the date of the enactment of this Act \[Apr. 5, 2000\], the Secretary \[of Transportation\] shall review the marketing practices of air carriers that may inhibit the availability of quality, affordable air transportation services to small- and medium-sized communities, including—
+
+&emsp;“(1) marketing arrangements between airlines and travel agents;
+
+&emsp;“(2) code-sharing partnerships;
+
+&emsp;“(3) computer reservation system displays;
+
+&emsp;“(4) gate arrangements at airports;
+
+&emsp;“(5) exclusive dealing arrangements; and
+
+&emsp;“(6) any other marketing practice that may have the same effect.
+
+“(b)
+
+Regulations.—If the Secretary finds, after conducting the review, that marketing practices inhibit the availability of affordable air transportation services to small- and medium-sized communities, then, after public notice and an opportunity for comment, the Secretary may issue regulations that address the problem or take other appropriate action.
+
+“(c)
+
+Statutory Construction.—Nothing in this section expands the authority or jurisdiction of the Secretary to issue regulations under chapter 417 of title 49, United States Code, or under any other law.”
 
 #### Restrictions on Essential Air Service Subsidies
+
+Pub. L. 106–181, title II, §205, Apr. 5, 2000, 114 Stat. 94, provided that: “The Secretary \[of Transportation\] may provide assistance under subchapter II of chapter 417 of title 49, United States Code, with respect to a place that is located within 70 highway miles of a hub airport (as defined by section 41731 of such title) if the most commonly used highway route between the place and the hub airport exceeds 70 miles.”
 
 Pub. L. 106–69, title III, §332, Oct. 9, 1999, 113 Stat. 1022, provided that: “Hereafter, notwithstanding 49 U.S.C. 41742, no essential air service subsidies shall be provided to communities in the 48 contiguous States that are located fewer than 70 highway miles from the nearest large or medium hub airport, or that require a rate of subsidy per passenger in excess of $200 unless such point is greater than 210 miles from the nearest large or medium hub airport.”
 
@@ -88,5 +130,7 @@ Pub. L. 105–66, title III, §336, Oct. 27, 1997, 111 Stat. 1447.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 41110, 41714, 41715, 47116 of this title.
+This section is referred to in sections 41110, 41719, 41743, 41744, 47116 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “was determined,”.</i>
 

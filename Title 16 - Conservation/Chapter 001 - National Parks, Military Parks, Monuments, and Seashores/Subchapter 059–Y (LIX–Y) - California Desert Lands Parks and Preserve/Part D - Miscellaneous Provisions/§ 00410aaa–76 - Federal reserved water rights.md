@@ -6,7 +6,7 @@ Except as otherwise provided in section 204 of this Act, with respect to each wi
 
 #### (b) Protection of rights reserved
 
-The Secretary and all other officers of the United States shall take all steps necessary toprotect the rights reserved by this section, including the filing by the Secretary of a claim for the quantification of such rights in any present or future appropriate stream adjudication in the courts of the State of California in which the United States is or may be joined in accordance with section 666 of title 43.
+The Secretary and all other officers of the United States shall take all steps necessary to protect the rights reserved by this section, including the filing by the Secretary of a claim for the quantification of such rights in any present or future appropriate stream adjudication in the courts of the State of California in which the United States is or may be joined in accordance with section 666 of title 43.
 
 #### (c) Relinquishment or reduction of rights
 

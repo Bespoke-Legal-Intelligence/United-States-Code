@@ -16,10 +16,6 @@ The effective date of this chapter, referred to in text, is the 180th day immedi
 
 Panama Railroad Company redesignated Panama Canal Company by act Sept. 26, 1950, ch. 1049, §2(a)(2), 64 Stat. 1038. References to Panama Canal Company in laws of the United States are deemed to refer to Panama Canal Commission pursuant to section 3602(b)(5) of Title 22, Foreign Relations and Intercourse.
 
-#### Cross References
-
-United States defined, see section 1101 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1452 of this title.

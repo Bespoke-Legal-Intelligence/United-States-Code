@@ -14,7 +14,7 @@ Where any employer or his insurance carrier or compensation fund pays or is requ
 
 #### (b) Charging of premiums as prohibiting reimbursement
 
-No reimbursement shall be made under this subchapter in any case in which the Secretaryfinds that the benefits paid or payable were on account of injury, detention, or death which arose from a war-risk hazard for which a premium (which included an additional charge or loading for such hazard) was charged.
+No reimbursement shall be made under this subchapter in any case in which the Secretary finds that the benefits paid or payable were on account of injury, detention, or death which arose from a war-risk hazard for which a premium (which included an additional charge or loading for such hazard) was charged.
 
 #### (c) Injury or death occurring within any State
 

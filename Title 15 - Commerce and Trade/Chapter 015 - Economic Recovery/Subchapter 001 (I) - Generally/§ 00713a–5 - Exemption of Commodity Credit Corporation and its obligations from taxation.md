@@ -12,9 +12,3 @@ Sections 713a–1 to 713a–5, referred to in text, was in the original “this 
 
 For exception of functions of corporations of Department of Agriculture from transfer of functions to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, see Exceptions From Transfer of Functions note set out under section 712a of this title.
 
-#### Cross References
-
-Provisions of section as applicable to federally chartered corporation, see section 714d of this title.
-
-United States obligations and evidences of ownership as subject to Federal taxation, see section 3124 of Title 31, Money and Finance.
-

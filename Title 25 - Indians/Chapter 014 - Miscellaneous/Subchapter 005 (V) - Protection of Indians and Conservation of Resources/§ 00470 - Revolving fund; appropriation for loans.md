@@ -14,12 +14,6 @@ There is authorized to be appropriated, out of any funds in the Treasury not oth
 
 Use of Revolving Loan Fund for Indians to assist Klamath Indians during period for terminating Federal supervision, see note set out under section 564 of this title. Funds to be administered as a single Indian Revolving Loan Fund after Apr. 12, 1974, see section 1461 of this title.
 
-#### Cross References
-
-Right-of-way grant, consent of tribal officials, see section 324 of this title.
-
-Ute Indians, use of tribal funds, regulations for making loans from revolving fund authorized by this section to govern funds advanced for loans, see sections 671, 674, and 676 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 470a, 473, 473a, 671, 674, 676 of this title.

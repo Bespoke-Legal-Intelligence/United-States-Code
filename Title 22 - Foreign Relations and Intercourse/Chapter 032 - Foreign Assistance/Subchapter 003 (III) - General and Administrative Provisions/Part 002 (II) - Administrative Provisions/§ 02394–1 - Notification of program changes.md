@@ -18,7 +18,7 @@ The notification requirement of this section does not apply to the reprogramming
 
 #### (c) Funds in the International Affairs Budget Function; reprogramming
 
-The President shall notify the chairman of the Committee on Foreign Relations of the Senate and the chairman of the Committee on Foreign Affairs of the House of Representatives concerning any reprogramming of funds in the International Affairs Budget Function, the authorizations of appropriations for which are in their respective jurisdictions, to the same degree and with the same conditions as the President notifies the Committees on Appropriations. The requirements of this subsection are in addition to, and not in lieu of, other notification requirements.
+The President shall notify the chairman of the Committee on Foreign Relations of the Senateand the chairman of the Committee on Foreign Affairs of the House of Representatives concerning any reprogramming of funds in the International Affairs Budget Function, the authorizations of appropriations for which are in their respective jurisdictions, to the same degree and with the same conditions as the President notifies the Committees on Appropriations. The requirements of this subsection are in addition to, and not in lieu of, other notification requirements.
 
 (Pub. L. 87–195, pt. III, §634A, formerly §671, as added Pub. L. 95–88, title I, §130, Aug. 3, 1977, 91 Stat. 543; renumbered §634A, Pub. L. 95–424, title V, §502(b), Oct. 6, 1978, 92 Stat. 959; amended Pub. L. 97–113, title VII, §704, Dec. 29, 1981, 95 Stat. 1544; Pub. L. 99–83, title XII, §1209(a), Aug. 8, 1985, 99 Stat. 278; Pub. L. 103–437, §9(a)(6), Nov. 2, 1994, 108 Stat. 4588.)
 
@@ -58,5 +58,5 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 287e–2, 2151f, 2194, 2274, 2291, 2291–5, 2291a, 2291c, 2291e, 2291g, 2291j,2293, 2295b, 2295c, 2318, 2321h, 2321j, 2346c, 2394aa–2, 2420, 2763, 2799c, 5476, 5605, 6039, 6062, 6063 of this title.
+This section is referred to in sections 287e–2, 2152b, 2194, 2274, 2291, 2291–5, 2291a, 2291c, 2291e, 2291g, 2291j, 2293, 2295b, 2295c, 2318, 2321h, 2321j, 2346c, 2394aa–2, 2420, 2763, 2799c, 5476, 5605, 6039, 6062, 6063, 7102 of this title.
 

@@ -160,7 +160,7 @@ For purposes of this subchapter:
 
 #### (27) State Commission
 
-&emsp;The term “State Commission” means a State Commission on National and Community Service maintained by a State pursuant to section 12638 of this title. Except when used in section 12638 of this title, the term includes an alternative administrative entity for a State approved by the Corporation under such section to act in lieu of a State Commission.
+&emsp;The term “State Commission” means a State Commission on National and Community Service maintained by a State pursuantto section 12638 of this title. Except when used in section 12638 of this title, the term includes an alternative administrative entity for a State approved by the Corporation under such section to act in lieu of a State Commission.
 
 #### (28) State educational agency
 

@@ -12,10 +12,6 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 Provisions of this section as not amended, modified or repealed by the Submerged Lands Act, see section 1303 of Title 43, Public Lands.
 
-#### Cross References
-
-Tennessee Valley Authority, see section 831 et seq. of Title 16, Conservation.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in title 16 section 839e.

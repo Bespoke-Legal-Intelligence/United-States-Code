@@ -44,7 +44,7 @@ For purposes of this chapter—
 
 &emsp;(13) The term “outer Continental Shelf energy activity” means any exploration for, or any development or production of, oil or natural gas from the outer Continental Shelf (as defined in section 1331(a) of title 43) or the siting, construction, expansion, or operation of any new or expanded energy facilities directly required by such exploration, development, or production.
 
-&emsp;(14) The term “person” means any individual; any corporation, partnership, association, or other entity organized or existing under the laws of any state; the Federal Government; any state, regional, or local government; or any entity of any such Federal, state, regional, or local government.
+&emsp;(14) The term “person” means any individual; any corporation, partnership, association, or other entity organized or existing under the laws of any state; the Federal Government;any state, regional, or local government; or any entity of any such Federal, state, regional, or local government.
 
 &emsp;(15) The term “public facilities and public services” means facilities or services which are financed, in whole or in part, by any state or political subdivision thereof, including, but not limited to, highways and secondary roads, parking, mass transit, docks, navigation aids, fire and police protection, water supply, waste collection and treatment (including drainage), schools and education, and hospitals and health care. Such term may also include any other facility or service so financed which the Secretary finds will support increased population.
 
@@ -60,7 +60,7 @@ For purposes of this chapter—
 
 The Submerged Lands Act, referred to in par. (1), is act May 22, 1953, ch. 65, 67 Stat. 29, as amended, which is classified generally to subchapters I and II (§§1301 et seq., 1311 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43 and Tables.
 
-Act of March 2, 1917, referred to in par. (1), is act Mar. 2, 1917, ch. 145, 39 Stat. 951, as amended, known as thePuerto Rican Federal Relations Act and also as the Jones Act, which is classified principally to chapter 4 (§731 et seq.) of Title 48, Territories and Insular Possessions. Section 8 of the Act is classified to section 749 of Title 48. For complete classification of this Act to the Code, see Short Title note set out under section 731 of Title 48 and Tables.
+Act of March 2, 1917, referred to in par. (1), is act Mar. 2, 1917, ch. 145, 39 Stat. 951, as amended, known as the Puerto Rican Federal Relations Act and also as the Jones Act, which is classified principally to chapter 4 (§731 et seq.) of Title 48, Territories and Insular Possessions. Section 8 of the Act is classified to section 749 of Title 48. For complete classification of this Act to the Code, see Short Title note set out under section 731 of Title 48 and Tables.
 
 Act of March 24, 1976, referred to in par. (1), is Pub. L. 94–241, Mar. 24, 1976, 90 Stat. 263, as amended, which is classified generally to subchapter I (§1801 et seq.) of chapter 17 of Title 48. The Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America is set out as a note under section 1801 of Title 48. For complete classification of this Act to the Code, see Tables.
 
@@ -136,7 +136,7 @@ WHEREAS the establishment of an Exclusive Economic Zone by the United States wil
 
 NOW, THEREFORE, I, RONALD REAGAN, by the authority vested in me as President by the Constitution and laws of the United States of America, do hereby proclaim the sovereign rights and jurisdiction of the United States of America and confirm also the rights and freedoms of all States within an Exclusive Economic Zone, as described herein.
 
-The Exclusive Economic Zone of the United States is a zone contiguous to the territorial sea, including zones contiguous to the territorial sea of the United States, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands (to the extent consistent with the Covenant and the United Nations Trusteeship Agreement), and United States overseas territories and possessions. The Exclusive Economic Zone extends to a distance 200 nautical miles from the baseline from which the breadth of the territorial sea is measured. In cases where the maritime boundary with a neighboring State remains to be determined, the boundary of the Exclusive Economic Zone shall be determined by theUnited States and other State concerned in accordance with equitable principles.
+The Exclusive Economic Zone of the United States is a zone contiguous to the territorial sea, including zones contiguous to the territorial sea of the United States, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands (to the extent consistent with the Covenant and the United Nations Trusteeship Agreement), and United States overseas territories and possessions. The Exclusive Economic Zone extends to a distance 200 nautical miles from the baseline from which the breadth of the territorial sea is measured. In cases where the maritime boundary with a neighboring State remains to be determined, the boundary of the Exclusive Economic Zone shall be determined by the United States and other State concerned in accordance with equitable principles.
 
 Within the Exclusive Economic Zone, the United States has, to the extent permitted by international law, (a) sovereign rights for the purpose of exploring, exploiting, conserving and managing natural resources, both living and non-living, of the seabed and subsoil and the superjacent waters and with regard to other activities for the economic exploitation and exploration of the zone, such as the production of energy from the water, currents and winds; and (b) jurisdiction with regard to the establishment and use of artificial islands, and installations and structures having economic purposes, and the protection and preservation of the marine environment.
 
@@ -149,14 +149,6 @@ Without prejudice to the sovereign rights and jurisdiction of the United States,
 IN WITNESS WHEREOF, I have hereunto set my hand this tenth day of March, in the year of our Lord nineteen hundred and eighty-three, and of the Independence of the United States of America the two hundred and seventh.
 
 Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Territorial Sea of United States
-
-For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
-
-#### Contiguous Zone of United States
-
-For extension of contiguous zone of United States, see Proc. No. 7219, Sept. 2, 1999, 64 F.R. 48701, set out as a note under section 1331 of Title 43, Public Lands.
 
 #### Section Referred to in Other Sections
 

@@ -30,7 +30,7 @@ Each regulated battery or rechargeable consumer product without an easily remova
 
 &emsp;(3) On each rechargeable consumer product containing a regulated battery that is not easily removable, the phrase “CONTAINS NICKEL-CADMIUM BATTERY. BATTERY MUST BE RECYCLED OR DISPOSED OF PROPERLY.” or “CONTAINS SEALED LEAD BATTERY. BATTERY MUST BE RECYCLED.”, as applicable.
 
-&emsp;(4) On the packaging of each rechargeable consumer product, and the packaging of eachregulated battery sold separately from such a product, unless the required label is clearly visible through the packaging, the phrase “CONTAINS NICKEL-CADMIUM BATTERY. BATTERY MUST BE RECYCLED OR DISPOSED OF PROPERLY.” or “CONTAINS SEALED LEAD BATTERY. BATTERY MUST BE RECYCLED.”, as applicable.
+&emsp;(4) On the packaging of each rechargeable consumer product, and the packaging of each regulated battery sold separately from such a product, unless the required label is clearly visible through the packaging, the phrase “CONTAINS NICKEL-CADMIUM BATTERY. BATTERY MUST BE RECYCLED OR DISPOSED OF PROPERLY.” or “CONTAINS SEALED LEAD BATTERY. BATTERY MUST BE RECYCLED.”, as applicable.
 
 #### (c) Existing or alternative labeling
 
@@ -68,7 +68,7 @@ Each regulated battery or rechargeable consumer product without an easily remova
 
 #### (e) Uniformity
 
-After the effective dates of a requirement set forth in subsection (a), (b), or (c) of this section or a regulation promulgated by the Administrator under subsection (d) of this section, no Federal agency, State, or political subdivision of a State may enforce any easy removability or environmental labeling requirement for a rechargeable battery or rechargeable consumer product that is not identical to the requirement or regulation.
+After the effective dates of a requirement set forth in subsection (a), (b), or (c) of this section or a regulation promulgated by the Administrator under subsection (d) of this section, no Federal agency, State, or political subdivision of a State may enforce any easy removability or environmental labeling requirement for a rechargeable battery or rechargeable consumerproduct that is not identical to the requirement or regulation.
 
 #### (f) Exemptions
 

@@ -6,7 +6,7 @@ A liquidation made in accordance with section 1500 of this title or any reliquid
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §501, 42 Stat. 966. That section was superseded by section 501 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §501, 42Stat. 966. That section was superseded by section 501 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 Prior provisions for appeals to reappraisement and for a further appeal to be assigned to a board of general appraisers, with further provisions as to the fee to be paid, the proceedings on appeal, and the conclusiveness of decisions, were contained in act Oct. 3, 1913, ch. 16, §III, M, 38 Stat. 186, prior to repeal by act Sept. 21, 1922, ch. 356, title IV, §643, 42 Stat. 989.
 

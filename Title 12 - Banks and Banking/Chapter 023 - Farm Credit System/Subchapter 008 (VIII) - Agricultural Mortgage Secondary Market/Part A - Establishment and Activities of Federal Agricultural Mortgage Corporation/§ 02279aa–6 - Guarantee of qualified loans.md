@@ -48,7 +48,7 @@ As a condition for providing any guarantees under this section for securities is
 
 #### (5) No discrimination against States with borrowers rights
 
-&emsp;The facility may not refuse to purchase qualified loans originating in States that have established borrowers rights laws either by statute or under the constitution of such States, except that the facility may require discounts or charge fees reasonably related to costs and expenses arising from such statutes or constitutional provisions.
+&emsp;The facility may not refuse to purchase qualified loans originating in States that have established borrowers rights laws either by statute or under the constitution of suchStates, except that the facility may require discounts or charge fees reasonably related to costs and expenses arising from such statutes or constitutional provisions.
 
 #### (c) Additional authority of Board
 
@@ -90,7 +90,7 @@ To ensure the liquidity of securities for which guarantees have been provided un
 
 #### (A) Terms
 
-&emsp;&emsp;The obligations issued under this subsection shall have maturities and bear ratesof interest as determined by the Corporation, and may be redeemable at the option of the Corporation before maturity in the manner stipulated in the obligations.
+&emsp;&emsp;The obligations issued under this subsection shall have maturities and bear rates of interest as determined by the Corporation, and may be redeemable at the option of the Corporation before maturity in the manner stipulated in the obligations.
 
 #### (B) Requirement
 

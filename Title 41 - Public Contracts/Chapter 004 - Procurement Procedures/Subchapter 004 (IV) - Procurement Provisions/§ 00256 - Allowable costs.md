@@ -68,7 +68,7 @@ An action of an executive agency under subsection (a) or (b) of this section—
 
 &emsp;(L) Costs of commercial insurance that protects against the costs of the contractor for correction of the contractor's own defects in materials or workmanship.
 
-&emsp;(M) Costs of severance pay paid by the contractor to foreign nationals employed by the contractor under a service contract performed outside the United States, to the extent that the amount of severance pay paid in any case exceeds the amount paid in the industry involved under the customary or prevailing practice for firms in that industry providing similar services in the United States, as determined under the Federal Acquisition Regulation.
+&emsp;(M) Costs of severance pay paid by the contractor to foreign nationals employed by the contractor under a service contract performed outside the United States, to the extent that the amount of severance pay paid in any case exceeds the amount paid in the industry involved under the customary or prevailing practice for firms in that industry providingsimilar services in the United States, as determined under the Federal Acquisition Regulation.
 
 &emsp;(N) Costs of severance pay paid by the contractor to a foreign national employed by the contractor under a service contract performed in a foreign country if the termination of the employment of the foreign national is the result of the closing of, or the curtailment of activities at, a United States facility in that country at the request of the government of that country.
 
@@ -92,7 +92,7 @@ An action of an executive agency under subsection (a) or (b) of this section—
 
 (C) An executive agency shall make the final determination regarding whether to grant a waiver under subparagraph (A) with respect to a covered contract before award of the contract.
 
-(3) The provisions of the Federal Acquisition Regulation implementing this section may establish appropriate definitions, exclusions, limitations, and qualifications. Any submission by acontractor of costs which are incurred by the contractor and which are claimed to be allowable under Department of Energy management and operating contracts shall be considered a “proposal for settlement of indirect costs incurred by the contractor for any period after such costs have been accrued”, as used in this section.
+(3) The provisions of the Federal Acquisition Regulation implementing this section may establish appropriate definitions, exclusions, limitations, and qualifications. Any submission by a contractor of costs which are incurred by the contractor and which are claimed to be allowable under Department of Energy management and operating contracts shall be considered a “proposal for settlement of indirect costs incurred by the contractor for any period after such costs have been accrued”, as used in this section.
 
 #### (f) Required regulations
 
@@ -148,7 +148,7 @@ The regulations referred to in subsections (e) and (f)(1) of this section shall 
 
 #### (h) Contractor certification required
 
-(1) A proposal for settlement of indirect costs applicable to a covered contract shall include a certification by an official of the contractor that, to the best of the certifying official's knowledge and belief, all indirect costs included in the proposal are allowable. Any such certification shall be in a form prescribed in the Federal Acquisition Regulation.
+(1) A proposal for settlement of indirect costs applicable to a covered contract shall include acertification by an official of the contractor that, to the best of the certifying official's knowledge and belief, all indirect costs included in the proposal are allowable. Any such certification shall be in a form prescribed in the Federal Acquisition Regulation.
 
 (2) An executive agency may, in an exceptional case, waive the requirement for certification under paragraph (1) in the case of any contract if the agency—
 
@@ -186,7 +186,7 @@ In a proceeding before a board of contract appeals, the United States Court of F
 
 > &emsp;by reason of the violation or failure referred to in paragraph (1).
 
-&emsp;(E) A disposition of the proceeding by consent or compromise if such action could haveresulted in a disposition described in subparagraph (A), (B), (C), or (D).
+&emsp;(E) A disposition of the proceeding by consent or compromise if such action could have resulted in a disposition described in subparagraph (A), (B), (C), or (D).
 
 (3) In the case of a proceeding referred to in paragraph (1) that is commenced by the United States and is resolved by consent or compromise pursuant to an agreement entered into by a contractor and the United States, the costs incurred by the contractor in connection with such proceeding that are otherwise not allowable as reimbursable costs under such paragraph may be allowed to the extent specifically provided in such agreement.
 
@@ -298,7 +298,7 @@ Definitions.—In this section:
 
 “(c)
 
-Effective Date.—Any amendments to the Federal Acquisition Regulation made pursuant to subsection (a) shall apply with respect to costs incurred after the date on which the amendments made by section 2101 apply (as provided in section 10001) \[set out as an Effective Date of 1994 Amendment note under section 251 of this title\]) or the date on which the amendments made by section 2151 apply (as provided in section 10001), whichever is later.”
+Effective Date.—Any amendments to the Federal Acquisition Regulation made pursuant to subsection (a) shall apply with respect to costs incurredafter the date on which the amendments made by section 2101 apply (as provided in section 10001) \[set out as an Effective Date of 1994 Amendment note under section 251 of this title\]) or the date on which the amendments made by section 2151 apply (as provided in section 10001), whichever is later.”
 
 #### Section Referred to in Other Sections
 

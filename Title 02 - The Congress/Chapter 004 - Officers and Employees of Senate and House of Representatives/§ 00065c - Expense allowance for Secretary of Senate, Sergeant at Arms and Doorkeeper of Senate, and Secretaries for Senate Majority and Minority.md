@@ -8,7 +8,7 @@
 
 #### Amendments
 
-1986—Subsec. (a). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+1986—Subsec. (a). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 1983—Subsec. (a). Pub. L. 98–63, which directed that “$3,000” be substituted for “$2,000” in first sentence of subsec. (a), was executed by making the substitution in second sentence as the probable intent of Congress.
 

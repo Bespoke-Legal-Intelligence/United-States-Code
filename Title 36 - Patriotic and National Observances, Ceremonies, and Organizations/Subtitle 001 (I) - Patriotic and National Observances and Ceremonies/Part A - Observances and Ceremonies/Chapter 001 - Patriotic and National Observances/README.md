@@ -48,6 +48,466 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### James Madison Commemoration Commission
+
+Pub. L. 106–550, Dec. 19, 2000, 114 Stat. 2745, provided that:
+
+#### “SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+“(a)
+
+Short Title.—This Act may be cited as the ‘James Madison Commemoration Commission Act’.
+
+“(b)
+
+Table of Contents.—\[Omitted.\]
+
+#### “SEC. 2. CONGRESSIONAL FINDINGS.
+
+“Congress finds that—
+
+&emsp;“(1) March 16, 2001, marks the 250th anniversary of the birth of James Madison;
+
+&emsp;“(2) as a delegate to the Continental Congress, and to the Annapolis Convention of 1786, James Madison foresaw the need for a more effective national government and was a persuasive advocate for such a government at the Philadelphia Constitutional Convention of 1787;
+
+&emsp;“(3) James Madison worked tirelessly and successfully at the Constitutional Convention to mold a national charter, the United States Constitution, that combined both energy and restraint, empowering the legislature, the executive, and the judiciary, within a framework of limited government, separated powers, and a system of federalism;
+
+&emsp;“(4) James Madison was an eloquent proponent of the first 10 amendments to the Constitution, the Bill of Rights;
+
+&emsp;“(5) James Madison faithfully served his country as a Representative in Congress from 1789 to 1797, as Secretary of State from 1801 to 1809, and as President of the United States from 1809 to 1817;
+
+&emsp;“(6) as President, James Madison showed courage and resolute will in leading the United States to victory over Great Britain in the War of 1812;
+
+&emsp;“(7) James Madison's political writings, as exemplified by his Notes on the Federal Convention and his contributions to The Federalist Papers, are among the most distinguished of American state papers;
+
+&emsp;“(8) by his learning, his devotion to ordered liberty, and by the force of his intellect, James Madison made an indispensable contribution to the American tradition of democratic constitutional republicanism embodied in the Constitution of the United States, and is justifiably acclaimed as father of the Constitution;
+
+&emsp;“(9) it is appropriate to remember, honor, and renew the legacy of James Madison for the American people and, indeed for all mankind; and
+
+&emsp;“(10) as the Nation approaches March 16, 2001, marking the anniversary of the birth of James Madison, it is appropriate to establish a commission for the commemoration of that anniversary.
+
+#### “SEC. 3. ESTABLISHMENT.
+
+“A commission to be known as the James Madison Commemoration Commission (in this Act referred to as the ‘Commission’) and a committee to be known as the James Madison Commemoration Advisory Committee (in this Act referred to as the ‘Advisory Committee’) are established.
+
+#### “SEC. 4. DUTIES.
+
+“(a)
+
+Commission.—The Commission shall—
+
+&emsp;“(1) in cooperation with the Advisory Committee and the Library of Congress, direct the Government Printing Office to compile and publish a substantial number of copies of a book (as directed by the Commission) containing a selection of the most important writings of James Madison and tributes to him by members of the Commission and other persons that the Commission deems appropriate;
+
+&emsp;“(2) in cooperation with the Advisory Committee and the Library of Congress, plan and coordinate 1 or more symposia, at least 1 of which will be held on March 16, 2001, and all of which will be devoted to providing a better understanding of James Madison's contribution to American political culture;
+
+&emsp;“(3) in cooperation with the Advisory Committee recognize such other events celebrating James Madison's birth and life as official events of the Commission;
+
+&emsp;“(4) develop and coordinate any other activities relating to the anniversary of the birth of James Madison as may be appropriate;
+
+&emsp;“(5) accept essay papers (via the Internet or otherwise) from students attending public and private institutions of elementary and secondary education in any State regarding James Madison's life and contributions to America and award certificates to students who author exceptional papers on this subject; and
+
+&emsp;“(6) bestow honorary memberships to the Commission or to the Advisory Committee upon such persons as it deems appropriate.
+
+“(b)
+
+Advisory Committee.—The Advisory Committee shall—
+
+&emsp;“(1) submit a suggested selection of James Madison's most important writings to the Commission for the Commission to consider for inclusion in the book printed as provided in subsection (a)(1);
+
+&emsp;“(2) submit a list and description of events concerning the birth and life of James Madison to the Commission for the Commission's consideration in recognizing such events as official ‘Commission Events’; and
+
+&emsp;“(3) make such other recommendations to the Commission as a majority of its members deem appropriate.
+
+#### “SEC. 5. MEMBERSHIP.
+
+“(a)
+
+Membership of the Commission.—
+
+&emsp;“(1)
+
+Number and appointment.—The Commission shall be composed of 19 members, as follows:
+
+&emsp;&emsp;“(A) The Chief Justice of the United States or such individual's delegate who is an Associate Justice of the Supreme Court of the United States.
+
+&emsp;&emsp;“(B) The Majority Leader and the Minority Leader of the Senate or each such individual's delegate who is a Member of the Senate.
+
+&emsp;&emsp;“(C) The Speaker of the House of Representatives and the Minority Leader of the House of Representatives or each such individual's delegate who is a Member of the House of Representatives.
+
+&emsp;&emsp;“(D) The Chairman and the Ranking Member of the Committee on the Judiciary of the Senate or each such individual's delegate who is a member of such committee.
+
+&emsp;&emsp;“(E) The Chairman and the Ranking Member of the Committee on the Judiciary of the House of Representatives or each such individual's delegate who is a member of such committee.
+
+&emsp;&emsp;“(F) Two Members of the Senate selected by the Majority Leader of the Senate and 2 Members of the Senate selected by the Minority Leader of the Senate.
+
+&emsp;&emsp;“(G) Two members of the House of Representatives selected by the Speaker of the House of Representatives and 2 Members of the House of Representatives selected by the Minority Leader of the House of Representatives.
+
+&emsp;&emsp;“(H) Two members of the executive branch selected by the President of the United States.
+
+&emsp;“(2)
+
+Chairman and vice chairman.—The Chief Justice of the United States shall serve as Chairman of the Commission and the members of the Commission shall select a vice chairman from its members, unless the Chief Justice appoints a delegate to serve in his stead, in which circumstance, the members of the Commission shall select a chairman and vice chairman from its members.
+
+“(b)
+
+Membership of the Advisory Committee.—
+
+&emsp;“(1)
+
+Number and appointment.—The Advisory Committee shall be composed of 14 members, as follows:
+
+&emsp;&emsp;“(A) The Archivist of the United States or such individual's delegate.
+
+&emsp;&emsp;“(B) The Secretary of the Smithsonian Institution or such individual's delegate.
+
+&emsp;&emsp;“(C) The Executive Director of Montpelier, the home of James Madison, and the 2001 Planning Committee of Montpelier or such individual's delegate.
+
+&emsp;&emsp;“(D) The President of James Madison University in Harrisonburg, Virginia or such individual's delegate.
+
+&emsp;&emsp;“(E) The Director of the James Madison Center, James Madison University in Harrisonburg, Virginia or such individual's delegate.
+
+&emsp;&emsp;“(F) The President of the James Madison Memorial Fellowship Foundation or such individual's delegate.
+
+&emsp;&emsp;“(G) Two members, who are not Members of Congress but have expertise on the legal and historical significance of James Madison, selected by the Majority Leader of the Senate, and 2 members, who are not Members of Congress but have expertise on the legal and historical significance of James Madison, selected by the Minority Leader of the Senate.
+
+&emsp;&emsp;“(H) Two members, who are not Members of Congress but who have expertise on the legal and historical significance of James Madison, selected by the Speaker of the House of Representatives, and 2 members, who are not Members of Congress but who have expertise on the legal and historical significance of James Madison, selected by the Minority Leader of the House of Representatives.
+
+&emsp;“(2)
+
+Chairman and vice chairman.—The members of the Advisory Committee shall select a chairman and vice chairman from its members.
+
+“(c)
+
+Terms.—Each member of the Commission shall be selected and each member of the Advisory Committee shall be selected not later than 90 days after the date of enactment of this Act \[Dec. 19, 2000\] and shall serve for the life of the Commission and the Advisory Committee, respectively.
+
+“(d)
+
+Vacancies.—A vacancy in the Commission shall be filled in the same manner in which the original appointment was made in subsection (a). A vacancy in the Advisory Committee shall be filled by the person holding the office named in subsection (b) or his designate.
+
+“(e)
+
+Compensation.—
+
+&emsp;“(1)
+
+Rates of pay.—Members of the Commission and the Advisory Committee shall serve without pay.
+
+&emsp;“(2)
+
+Travel expenses.—Each member of the Commission and the Advisory Committee may receive travel expenses, including per diem in lieu of subsistence, in accordance with sections 5702 and 5703 of title 5, United States Code.
+
+“(f)
+
+Meetings.—The Commission shall meet at the call of its chairman or a majority of its members. The Advisory Committee shall meet at the call of the chairman or a majority of its members.
+
+“(g)
+
+Approval of Actions.—All official actions of the Commission under this Act shall be approved by the affirmative vote of not less than a majority of the members. All official actions of the Advisory Committee under this Act shall be approved by the affirmative vote of not less than a majority of the members.
+
+#### “SEC. 6. POWERS.
+
+“(a)
+
+Delegation of Authority.—Any member or staff person of the Commission may, if authorized by the Commission, take any action that the Commission is authorized to take by this Act.
+
+“(b)
+
+Contract Authority.—
+
+&emsp;“(1)
+
+In general.—The Commission may procure services and property, and make or enter into contracts, leases, or other legal agreements, in order to carry out this Act.
+
+&emsp;“(2)
+
+Restriction.—The contracts, leases, or other legal agreements made or entered into by the Commission shall not extend beyond the date of termination of the Commission.
+
+&emsp;“(3)
+
+Termination.—All supplies and property acquired by the Commission under this Act that remain in the possession of the Commission on the date of termination of the Commission shall become the property of the General Services Administration upon the date of the termination.
+
+“(c)
+
+Information.—
+
+&emsp;“(1)
+
+In general.—The Commission may secure directly from any Federal agency information necessary to enable it to carry out this Act. Upon request of the chairperson of the Commission, the head of the Federal agency shall furnish the information to the Commission.
+
+&emsp;“(2)
+
+Exception.—Paragraph (1) shall not apply to any information that the Commission is prohibited to secure or request by another law.
+
+“(d)
+
+Rules and Regulations.—The Commission may adopt such rules and regulations as may be necessary to conduct meetings and carry out its duties under this Act. The Commission may also adopt such rules for the Advisory Committee.
+
+“(e)
+
+Mails.—The Commission may use the United States mails in the same manner and under the same conditions as other Federal agencies, and the Committee on the Judiciary of the Senate may mail items on behalf of the Commission.
+
+“(f)
+
+Necessary and Proper Powers.—The Commission may exercise such other powers as are necessary and proper in carrying out and effecting the purposes of this Act.
+
+#### “SEC. 7. STAFFING AND SUPPORT.
+
+“The Chairman of the Committee on the Judiciary of the Senate, the Chairman of the Committee on the Judiciary of the House of Representatives, and the Librarian of Congress shall provide the Commission and the Advisory Committee with such assistance, including staff support, facilities, and supplies at no charge, as may be necessary to carry out its duties.
+
+#### “SEC. 8. CONTRIBUTIONS.
+
+“(a)
+
+Donations.—The Commission may accept donations of money, personal services, and property, both real and personal, including books, manuscripts, miscellaneous printed matter, memorabilia, relics, and other materials related to James Madison.
+
+“(b)
+
+Use of Funds.—
+
+&emsp;“(1)
+
+In general.—Any funds donated to the Commission may be used by the Commission to carry out this Act. The source and amount of such funds shall be listed in the interim and final reports required under section 9.
+
+&emsp;“(2)
+
+Procurement requirements.—
+
+&emsp;&emsp;“(A)
+
+In general.—In addition to any procurement requirement otherwise applicable to the Commission, the Commission shall conduct procurements of property or services involving donated funds pursuant to the small purchase procedures required by section 303(g) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(g)). Section 15(j) of the Small Business Act (15 U.S.C. 644(j)) shall not apply to such procurements.
+
+&emsp;&emsp;“(B)
+
+Definition.—In this paragraph, the term ‘donated funds’ means any funds of which 50 percent or more derive from funds donated to the Commission.
+
+“(c)
+
+Volunteer Services.—Notwithstanding section 1342 of title 31, United States Code, the Commission may accept and use voluntary and uncompensated services as the Commission determines necessary.
+
+“(d)
+
+Remaining Funds.—Funds remaining upon the date of termination of the Commission shall be used to ensure the proper disposition of property donated to the Commission as specified in the final report required by section 9.
+
+#### “SEC. 9. REPORTS.
+
+“(a)
+
+Interim Report.—Not later than February 15, 2001, the Commission shall prepare and submit to the President and Congress an interim report detailing the activities of the Commission, including an accounting of funds received and expended by the Commission, during the period beginning on the date of enactment of this Act \[Dec. 19, 2000\] and ending on December 31, 2000.
+
+“(b)
+
+Final Report.—Not later than February 15, 2002, the Commission shall submit to the President and to Congress a final report containing—
+
+&emsp;“(1) a summary of the activities of the Commission;
+
+&emsp;“(2) a final accounting of funds received and expended by the Commission;
+
+&emsp;“(3) the findings, conclusions, and recommendations of the Commission;
+
+&emsp;“(4) specific recommendations concerning the final disposition of historically significant items donated to the Commission under section 8(a), if any; and
+
+&emsp;“(5) any additional views of any member of the Commission concerning the Commission's recommendations that such member requests to be included in the final report.
+
+#### “SEC. 10. AUDIT OF FINANCIAL TRANSACTIONS.
+
+“(a)
+
+In General.—The Inspector General of the General Services Administration shall audit financial transactions of the Commission, including financial transactions involving donated funds, in accordance with generally accepted auditing standards. In conducting an audit pursuant to this section, the Inspector General shall have access to all books, accounts, financial records, reports, files, and other papers, items, or property in use by the Commission, as necessary to facilitate the audit, and shall be afforded full facilities for verifying transactions with the balances or securities held by depositories, fiscal agents, and custodians.
+
+“(b)
+
+Audit Reports.—Not later than March 15, 2001, the Inspector General of the General Services Administration shall submit to the President and to Congress a report detailing the results of any audit of the financial transactions of the Commission conducted before January 1, 2001. Not later than March 15, 2002, such Inspector General shall submit to the President and to Congress a report detailing the results of any audit of the financial transactions of the Commission conducted during the period beginning on January 1, 2001, and ending on December 31, 2001.
+
+#### “SEC. 11. TERMINATION.
+
+“The Commission and the Advisory Committee shall terminate not later than 60 days following submission of the final report required by section 9.
+
+#### “SEC. 12. AUTHORIZATION OF APPROPRIATIONS.
+
+“There are authorized to be appropriated to carry out this Act $250,000 for fiscal year 2001.”
+
+#### Abraham Lincoln Bicentennial Commission
+
+Pub. L. 106–173, Feb. 25, 2000, 114 Stat. 14, provided that:
+
+#### “SECTION 1. SHORT TITLE.
+
+“This Act may be cited as the ‘Abraham Lincoln Bicentennial Commission Act’.
+
+#### “SEC. 2. FINDINGS.
+
+“Congress makes the following findings:
+
+&emsp;“(1) Abraham Lincoln, the 16th President, was one of the Nation's most prominent leaders, demonstrating true courage during the Civil War, one of the greatest crises in the Nation's history.
+
+&emsp;“(2) Born of humble roots in Hardin County, Kentucky, on February 12, 1809, Abraham Lincoln rose to the Presidency through a legacy of honesty, integrity, intelligence, and commitment to the United States.
+
+&emsp;“(3) With the belief that all men were created equal, Abraham Lincoln led the effort to free all slaves in the United States.
+
+&emsp;“(4) Abraham Lincoln had a generous heart, with malice toward none and with charity for all.
+
+&emsp;“(5) Abraham Lincoln gave the ultimate sacrifice for the country Lincoln loved, dying from an assassin's bullet on April 15, 1865.
+
+&emsp;“(6) All Americans could benefit from studying the life of Abraham Lincoln, for Lincoln's life is a model for accomplishing the ‘American Dream’ through honesty, integrity, loyalty, and a lifetime of education.
+
+&emsp;“(7) The year 2009 will be the bicentennial anniversary of the birth of Abraham Lincoln, and a commission should be established to study and recommend to Congress activities that are fitting and proper to celebrate that anniversary in a manner that appropriately honors Abraham Lincoln.
+
+#### “SEC. 3. ESTABLISHMENT.
+
+“There is established a commission to be known as the Abraham Lincoln Bicentennial Commission (referred to in this Act as the ‘Commission’).
+
+#### “SEC. 4. DUTIES.
+
+“The Commission shall have the following duties:
+
+&emsp;“(1) To study activities that may be carried out by the Federal Government to determine whether the activities are fitting and proper to honor Abraham Lincoln on the occasion of the bicentennial anniversary of Lincoln's birth, including—
+
+&emsp;&emsp;“(A) the minting of an Abraham Lincoln bicentennial penny;
+
+&emsp;&emsp;“(B) the issuance of an Abraham Lincoln bicentennial postage stamp;
+
+&emsp;&emsp;“(C) the convening of a joint meeting or joint session of Congress for ceremonies and activities relating to Abraham Lincoln;
+
+&emsp;&emsp;“(D) a redesignation of the Lincoln Memorial, or other activity with respect to the Memorial; and
+
+&emsp;&emsp;“(E) the acquisition and preservation of artifacts associated with Abraham Lincoln.
+
+&emsp;“(2) To recommend to Congress the activities that the Commission considers most fitting and proper to honor Abraham Lincoln on such occasion, and the entity or entities in the Federal Government that the Commission considers most appropriate to carry out such activities.
+
+#### “SEC. 5. MEMBERSHIP.
+
+“(a)
+
+Number and Appointment.—The Commission shall be composed of 15 members appointed as follows:
+
+&emsp;“(1) Two members, each of whom shall be a qualified citizen described in subsection (b), appointed by the President.
+
+&emsp;“(2) One member, who shall be a qualified citizen described in subsection (b), appointed by the President on the recommendation of the Governor of Illinois.
+
+&emsp;“(3) One member, who shall be a qualified citizen described in subsection (b), appointed by the President on the recommendation of the Governor of Indiana.
+
+&emsp;“(4) One member, who shall be a qualified citizen described in subsection (b), appointed by the President on the recommendation of the Governor of Kentucky.
+
+&emsp;“(5) Three members, at least one of whom shall be a Member of the House of Representatives, appointed by the Speaker of the House of Representatives.
+
+&emsp;“(6) Three members, at least one of whom shall be a Senator, appointed by the majority leader of the Senate.
+
+&emsp;“(7) Two members, at least one of whom shall be a Member of the House of Representatives, appointed by the minority leader of the House of Representatives.
+
+&emsp;“(8) Two members, at least one of whom shall be a Senator, appointed by the minority leader of the Senate.
+
+“(b)
+
+Qualified Citizen.—A qualified citizen described in this subsection is a private citizen of the United States with—
+
+&emsp;“(1) a demonstrated dedication to educating others about the importance of historical figures and events; and
+
+&emsp;“(2) substantial knowledge and appreciation of Abraham Lincoln.
+
+“(c)
+
+Time of Appointment.—Each initial appointment of a member of the Commission shall be made before the expiration of the 120-day period beginning on the date of the enactment of this Act \[Feb. 25, 2000\].
+
+“(d)
+
+Continuation of Membership.—If a member of the Commission was appointed to the Commission as a Member of Congress, and ceases to be a Member of Congress, that member may continue to serve on the Commission for not longer than the 30-day period beginning on the date that member ceases to be a Member of Congress.
+
+“(e)
+
+Terms.—Each member shall be appointed for the life of the Commission.
+
+“(f)
+
+Vacancies.—A vacancy in the Commission shall not affect the powers of the Commission but shall be filled in the manner in which the original appointment was made.
+
+“(g)
+
+Basic Pay.—Members shall serve on the Commission without pay.
+
+“(h)
+
+Travel Expenses.—Each member shall receive travel expenses, including per diem in lieu of subsistence, in accordance with sections 5702 and 5703 of title 5, United States Code.
+
+“(i)
+
+Quorum.—Five members of the Commission shall constitute a quorum but a lesser number may hold hearings.
+
+“(j)
+
+Chair.—The Commission shall select a Chair from among the members of the Commission.
+
+“(k)
+
+Meetings.—The Commission shall meet at the call of the Chair. Periodically, the Commission shall hold a meeting in Springfield, Illinois.
+
+#### “SEC. 6. DIRECTOR AND STAFF.
+
+“(a)
+
+Director.—The Commission may appoint and fix the pay of a Director and such additional personnel as the Commission considers to be appropriate.
+
+“(b)
+
+Applicability of Certain Civil Service Laws.—
+
+&emsp;“(1)
+
+Director.—The Director of the Commission may be appointed without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of that title relating to classification and General Schedule pay rates.
+
+&emsp;“(2)
+
+Staff.—The staff of the Commission shall be appointed subject to the provisions of title 5, United States Code, governing appointments in the competitive service, and shall be paid in accordance with the provisions of chapter 51 and subchapter III of chapter 53 of that title relating to classification and General Schedule pay rates.
+
+#### “SEC. 7. POWERS.
+
+“(a)
+
+Hearings and Sessions.—The Commission may, for the purpose of carrying out this Act, hold such hearings, sit and act at such times and places, take such testimony, and receive such evidence as the Commission considers to be appropriate.
+
+“(b)
+
+Powers of Members and Agents.—Any member or agent of the Commission may, if authorized by the Commission, take any action that the Commission is authorized to take by this Act.
+
+“(c)
+
+Obtaining Official Data.—The Commission may secure directly from any department or agency of the United States information necessary to enable the Commission to carry out this Act. Upon request of the Chair of the Commission, the head of that department or agency shall furnish that information to the Commission.
+
+“(d)
+
+Mails.—The Commission may use the United States mails in the same manner and under the same conditions as other departments and agencies of the United States.
+
+“(e)
+
+Administrative Support Services.—Upon the request of the Commission, the Administrator of General Services shall provide to the Commission, on a reimbursable basis, the administrative support services necessary for the Commission to carry out its responsibilities under this Act.
+
+#### “SEC. 8. REPORTS.
+
+“(a)
+
+Interim Reports.—The Commission may submit to Congress such interim reports as the Commission considers to be appropriate.
+
+“(b)
+
+Final Report.—The Commission shall submit a final report to Congress not later than the expiration of the 4-year period beginning on the date of the formation of the Commission. The final report shall contain—
+
+&emsp;“(1) a detailed statement of the findings and conclusions of the Commission;
+
+&emsp;“(2) the recommendations of the Commission; and
+
+&emsp;“(3) any other information that the Commission considers to be appropriate.
+
+#### “SEC. 9. BUDGET ACT COMPLIANCE.
+
+“Any spending authority provided under this Act shall be effective only to such extent and in such amounts as are provided in appropriation Acts.
+
+#### “SEC. 10. TERMINATION.
+
+“The Commission shall terminate 120 days after submitting the final report of the Commission pursuant to section 8.
+
+#### “SEC. 11. AUTHORIZATION OF APPROPRIATIONS.
+
+“There are authorized to be appropriated such sums as may be necessary to carry out this Act.”
+
 #### Proc. No. 4934. Armed Forces Day
 
 Proc. No. 4934, Apr. 16, 1982, 47 F.R. 16767, provided:
@@ -70,91 +530,11 @@ Proclamation 4571 of May 15, 1978, is hereby superseded.
 
 IN WITNESS WHEREOF, I have hereunto set my hand this 16th day of April, in the year of our Lord nineteen hundred and eighty-two and of the Independence of the United States of America the two hundred and sixth.
 
-Ronald Reagan.
+Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Ex. Ord. No. 13072. White House Millennium Council
+#### Executive Order No. 13072
 
-Ex. Ord. No. 13072, Feb. 2, 1998, 63 F.R. 6041, provided:
-
-By the authority vested as me as President by the Constitution and the laws of the United States of America, and in order to announce the formation of a Council to recognize national and local projects that commemorate the millennium, it is hereby ordered as follows:
-
-Section 1. <i>Policy</i>. The White House, the Department of Education, and all executive branch agencies shall lead the country in a national and educational celebration of our culture, democracy, and citizenry. The Federal Government has a special responsibility to inspire the American people to reflect upon and commemorate the achievements of this country's past and to celebrate the possibilities of the future. To carry forward this country's great democratic tradition and enrich the lives of our children and the children of the 21st century, the Federal Government shall encourage Americans to make plans to mark the new millennium in communities across America. By leading this country in a grand educational celebration of the past and future, the Federal Government has an unprecedented opportunity to energize and unite the Nation with a renewed sense of optimism in the accomplishments and promise of America.
-
-Sec. 2. <i>White House Millennium Council</i>. (a) To enable the White House, the Department of Education, and executive branch agencies to provide national leadership in this historic time, I hereby announce the formation of the White House Millennium Council.
-
-(b) The White House Millennium Council shall be composed of a Director, Deputy Director, administrative staff, and a representative from each of the following:
-
-&emsp;(1) Department of State;
-
-&emsp;(2) Department of the Treasury;
-
-&emsp;(3) Department of Defense;
-
-&emsp;(4) Department of Justice;
-
-&emsp;(5) Department of the Interior;
-
-&emsp;(6) Department of Agriculture;
-
-&emsp;(7) Department of Commerce;
-
-&emsp;(8) Department of Labor;
-
-&emsp;(9) Department of Health and Human Services;
-
-&emsp;(10) Department of Housing and Urban Development;
-
-&emsp;(11) Department of Transportation;
-
-&emsp;(12) Department of Energy;
-
-&emsp;(13) Department of Education;
-
-&emsp;(14) Department of Veterans Affairs;
-
-&emsp;(15) Environmental Protection Agency;
-
-&emsp;(16) Office of Management and Budget;
-
-&emsp;(17) Small Business Administration;
-
-&emsp;(18) United States Information Agency; and
-
-&emsp;(19) General Services Administration.
-
-> At the Director's discretion, the Director may request other agencies to be represented on the Council.
-
-(c) The mission of the Council is to lead the country in a celebration of the new millennium by initiating and recognizing national and local projects that contribute in educational, creative, and productive ways to America's commemoration of this historic time. To these ends, the Council shall:
-
-(1) Mark the 200th anniversary of the occupancy of the White House by American Presidents, the 200th anniversary of the establishment of the Federal capital city in Washington, D.C., and the 200th anniversary of the first meeting of the Congress in the Capitol, celebrating these events in the year 2000 as milestones in our democratic system of government;
-
-(2) Plan events to recognize the history and past accomplishments of America that reflect upon the present forces shaping society and that encourage thoughtful planning for the future;
-
-(3) Produce informational and resource materials to educate the American people concerning our Nation's past and to inspire thought concerning the future;
-
-(4) Encourage communities and citizens to initiate and to participate in local projects that inspire Americans to remember their past achievements, understand the present challenges to society, and make concrete contributions to the next generations of their families, communities, and country;
-
-(5) Work with Federal agencies, the Congress, elected officials, and all citizens to plan activities and programs that will unite the American people in contemplation and celebration of the next century and the new millennium;
-
-(6) Make recommendations to the Secretary of the Interior regarding the provision of assistance from funds made available for Save America's Treasures in the Historic Preservation Fund to public and private entities that are protecting America's threatened cultural treasures. These treasures include significant documents, works of art, maps, journals, and historic structures that document and illuminate the history and culture of the United States;
-
-(7) Encourage Federal agencies to develop programs to commemorate and celebrate the new millennium in ways consistent with their individual agency missions and that advance a more unified America in the 21st century;
-
-(8) Encourage Federal agencies, through local branches and offices, to reach out into communities and inspire citizens to participate in grassroots activities and to give permanent gifts to the future;
-
-(9) Work in partnership with private-sector and nonprofit entities that initiate productive and worthwhile national and community-based efforts to commemorate the new millennium and encourage citizen participation, volunteerism, and philanthropy;
-
-(10) Highlight public and private millennium initiatives that promote the goals of the Council; and
-
-(11) Cooperate with other nations that are planning millennium events to expand the opportunities for international communication and understanding.
-
-Sec. 3. <i>Administration</i>. To the extent permitted by law, the heads of executive departments and agencies shall provide such information and assistance as may be necessary for the Council to carry out its functions.
-
-Sec. 4. <i>Judicial Review</i>. This order does not create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or any other person.
-
-William J. Clinton.
-
-\[For abolition of United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau), transfer of functions, and treatment of references thereto, see sections 6531, 6532, and 6551 of Title 22, Foreign Relations and Intercourse.\]
+Ex. Ord. No. 13072, Feb. 2, 1998, 63 F.R. 6041, provided for formation of the White House Millennium Council to lead the country in a celebration of the new millennium by initiating and recognizing national and local projects that contributed in educational, creative, and productive ways to America's commemoration of that historic time.
 
 
 ---

@@ -8,7 +8,7 @@
 | [2354\.](%C2%A7%2002354%20-%20Contracts%20indemnification%20provisions.md) | Contracts: indemnification provisions. |
 | \[2355 to 2357. Repealed.\] |  |
 | [2358\.](%C2%A7%2002358%20-%20Research%20and%20development%20projects.md) | Research and development projects. |
-| \[2359. | Repealed.\] |
+| [2359\.](%C2%A7%2002359%20-%20Science%20and%20technology%20programs%20to%20be%20conducted%20so%20as%20to%20foster%20the%20transition%20of%20science%20and%20technology%20to%20higher%20levels%20of%20research%E2%80%A6.md) | Science and technology programs to be conducted so as to foster the transition of science and technology to higher levels of research, development, test, and evaluation. |
 | [2360\.](%C2%A7%2002360%20-%20Research%20and%20development%20laboratories%20contracts%20for%20services%20of%20university%20students.md) | Research and development laboratories: contracts for services of university students. |
 | [2361\.](%C2%A7%2002361%20-%20Award%20of%20grants%20and%20contracts%20to%20colleges%20and%20universities%20requirement%20of%20competition.md) | Award of grants and contracts to colleges and universities: requirement of competition. |
 | \[2362, 2363. Repealed.\] |  |
@@ -28,6 +28,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2000—Pub. L. 106–398, §1 \[\[div. A\], title IX, §904(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–225, added item 2359.
 
 1999—Pub. L. 106–65, div. A, title II, §244(b), Oct. 5, 1999, 113 Stat. 552, added item 2374a.
 
@@ -61,7 +63,7 @@ Pub. L. 100–26, §3(1)(B), Apr. 21, 1987, 101 Stat. 273, made technical amendm
 
 1986—Pub. L. 99–661, div. A, title II, §234(c)(2), Nov. 14, 1986, 100 Stat. 3849, as amended by Pub. L. 100–26, §3(1)(B), Apr. 21, 1987, 101 Stat. 273, added item 2364.
 
-Pub. L. 99–500, §101(c) \[title X, §§909(a)(2), 910(a)(2), 912(a)(2)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–143, 1783–144, 1783–146, and Pub. L. 99–591, §101(c) \[title X, §§909(a)(2), 910(a)(2), 912(a)(2)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–143, 3341–144, 3341–146; Pub. L. 99–661, div. A, title IX, formerly title IV, §§909(a)(2), 910(a)(2), 912(a)(2), Nov. 14, 1986, 100 Stat. 3849, 3922, 3924, 3926, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; as amended by Pub. L. 100–26, §5(3)(B), Apr. 21, 1987, 101 Stat. 274, amended analysis identically, adding items 2365, 2366, and 2367.
+Pub. L. 99–500, §101(c) \[title X, §§909(a)(2), 910(a)(2), 912(a)(2)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–143,1783–144, 1783–146, and Pub. L. 99–591, §101(c) \[title X, §§909(a)(2), 910(a)(2), 912(a)(2)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–143, 3341–144, 3341–146; Pub. L. 99–661, div. A, title IX, formerly title IV, §§909(a)(2), 910(a)(2), 912(a)(2), Nov. 14, 1986, 100 Stat. 3849, 3922, 3924, 3926, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; as amended by Pub. L. 100–26, §5(3)(B), Apr. 21, 1987, 101 Stat. 274, amended analysis identically, adding items 2365, 2366, and 2367.
 
 1985—Pub. L. 99–145, title I, §123(a)(2), title XIV, §1457(b), Nov. 8, 1985, 99 Stat. 601, 763, added items 2362 and 2363.
 
@@ -74,14 +76,6 @@ Pub. L. 99–500, §101(c) \[title X, §§909(a)(2), 910(a)(2), 912(a)(2)\], Oct
 1962—Pub. L. 87–651, title II, §208(b), Sept. 7, 1962, 76 Stat. 523, added item 2358.
 
 1958—Pub. L. 85–599, §3(d), Aug. 6, 1958, 72 Stat. 516, struck out item 2351 “Policy, plans, and coordination”.
-
-#### Cross References
-
-Amount of fee on cost-plus-a-fixed-fee contract for developmental or research work, see section 2306 of this title.
-
-Employment of non-citizens, laws relating to not applicable to research and development activities, see section 1584 of this title.
-
-Naval contracts for research, see section 7522 of this title.
 
 
 ---
@@ -96,7 +90,7 @@ Naval contracts for research, see section 7522 of this title.
 - [&sect; 02356 - Repealed. Pub. L. 104&#8211;106, div. A, title VIII, &sect;802(a), Feb. 10, 1996, 110 Stat. 390](%C2%A7%2002356%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93106%2C%20div.%20A%2C%20title%20VIII%2C%20%C2%A7802%28a%29%2C%20Feb.%2010%2C%201996%2C%20110%20Stat.%20390.md)
 - [&sect; 02357 - Repealed. Pub. L. 101&#8211;510, div. A, title XIII, &sect;1301(11), Nov. 5, 1990, 104 Stat. 1668](%C2%A7%2002357%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93510%2C%20div.%20A%2C%20title%20XIII%2C%20%C2%A71301%2811%29%2C%20Nov.%205%2C%201990%2C%20104%20Stat.%201668.md)
 - [&sect; 02358 - Research and development projects](%C2%A7%2002358%20-%20Research%20and%20development%20projects.md)
-- [&sect; 02359 - Repealed. Pub. L. 101&#8211;510, div. A, title XIII, &sect;1322(a)(5), Nov. 5, 1990, 104 Stat. 1671](%C2%A7%2002359%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93510%2C%20div.%20A%2C%20title%20XIII%2C%20%C2%A71322%28a%29%285%29%2C%20Nov.%205%2C%201990%2C%20104%20Stat.%201671.md)
+- [&sect; 02359 - Science and technology programs to be conducted so as to foster the transition of science and technology to higher levels of research&#8230;](%C2%A7%2002359%20-%20Science%20and%20technology%20programs%20to%20be%20conducted%20so%20as%20to%20foster%20the%20transition%20of%20science%20and%20technology%20to%20higher%20levels%20of%20research%E2%80%A6.md)
 - [&sect; 02360 - Research and development laboratories contracts for services of university students](%C2%A7%2002360%20-%20Research%20and%20development%20laboratories%20contracts%20for%20services%20of%20university%20students.md)
 - [&sect; 02361 - Award of grants and contracts to colleges and universities requirement of competition](%C2%A7%2002361%20-%20Award%20of%20grants%20and%20contracts%20to%20colleges%20and%20universities%20requirement%20of%20competition.md)
 - [&sect; 02362 - Repealed. Pub. L. 103&#8211;160, div. A, title VIII, &sect;821(a)(3), Nov. 30, 1993, 107 Stat. 1704](%C2%A7%2002362%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93160%2C%20div.%20A%2C%20title%20VIII%2C%20%C2%A7821%28a%29%283%29%2C%20Nov.%2030%2C%201993%2C%20107%20Stat.%201704.md)

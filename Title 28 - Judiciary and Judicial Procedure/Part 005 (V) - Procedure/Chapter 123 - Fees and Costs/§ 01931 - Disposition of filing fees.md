@@ -12,17 +12,17 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–317, §401(b)(1), substituted “$90” for “$60”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–317, §401(b)(1), substituted “$90” for “$60”.
 
 Subsec. (b). Pub. L. 104–317, §401(b)(2), substituted “$150” for “$120” and “$90” for “$60”.
 
-1992—Pub. L. 102–572 substituted present provisions for former provisions which read as follows:
+<b>1992</b>—Pub. L. 102–572 substituted present provisions for former provisions which read as follows:
 
 “The following portion of moneys paid to the clerk of court as filing fees under this chapter shall be deposited into a special fund of the Treasury to be available to offset funds appropriated for the operation and maintenance of the courts of the United States:
 
 “Under section 1914(a), $60.”
 
-1989—Pub. L. 101–162, which directed that “as provided in annual appropriation acts” be struck out before colon, was executed by striking out “as provided in annual appropriation Acts” before colon as probable intent of Congress.
+<b>1989</b>—Pub. L. 101–162, which directed that “as provided in annual appropriation acts” be struck out before colon, was executed by striking out “as provided in annual appropriation Acts” before colon as probable intent of Congress.
 
 #### Effective Date of 1996 Amendment
 
@@ -33,6 +33,8 @@ Amendment by Pub. L. 104–317 effective 60 days after Oct. 19, 1996, see sectio
 Amendment by Pub. L. 102–572 effective Jan. 1, 1993, see section 1101(a) of Pub. L. 102–572, set out as a note under section 905 of Title 2, The Congress.
 
 #### Disposition of Fees
+
+Pub. L. 106–518, title I, §102, Nov. 13, 2000, 114 Stat. 2411, provided that: “For fiscal year 2001 and each fiscal year thereafter, any portion of miscellaneous fees collected as prescribed by the Judicial Conference of the United States under sections 1913, 1914(b), 1926(a), 1930(b), and 1932 of title 28, United States Code, exceeding the amount of such fees in effect on September 30, 2000, shall be deposited into the special fund of the Treasury established under section 1931 of title 28, United States Code.”
 
 Section 404 of Pub. L. 104–317 provided that:
 
@@ -50,7 +52,11 @@ Effective Date.—This section shall take effect 60 days after the date of the e
 
 #### Collection and Deposit of Miscellaneous Bankruptcy Fees
 
-Section 406(b) of Pub. L. 101–162, as amended by Pub. L. 103–121, title I, §111(a)(3), (b)(4), Oct. 27, 1993, 107 Stat. 1164; Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §113\], Nov. 29, 1999, 113 Stat. 1535, 1501A–20, provided that: “All fees as shall be hereafter collected for any service enumerated after item 18 of the bankruptcy miscellaneous fee schedule prescribed by the Judicial Conference of the United States pursuant to 28 U.S.C. section 1930(b) and 33.87 percent of the fees hereafter collected under 28 U.S.C. section 1930(a)(1) and 25 percent of the fees hereafter collected under 28 U.S.C. section 1930(a)(3) shall be deposited as offsetting receipts to the fund established under 28 U.S.C. section 1931 and shall remain available to the Judiciary until expended to reimburse any appropriation for the amount paid out of such appropriation for expenses of the Courts of Appeals, District Courts, and other Judicial Services and the Administrative Office of the United States Courts. The Judicial Conference shall report to the Committees on Appropriations of the House of Representatives and the Senate on a quarterly basis beginning on the first day of each fiscal year regarding the sums deposited in said fund.”
+Section 406(b) of Pub. L. 101–162, as amended by Pub. L. 103–121, title I, §111(a)(3), (b)(4), Oct. 27, 1993, 107 Stat. 1164; Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §113\], Nov. 29, 1999, 113 Stat. 1535, 1501A–20; Pub. L. 106–518, title II, §209(a), Nov. 13, 2000, 114 Stat. 2415, provided that: “All fees as shall be hereafter collected for any service not of a kind described in any of the items enumerated as items 1 through 7 and as items 9 through 18, as in effect on November 21, 1989, of the bankruptcy miscellaneous fee schedule prescribed by the Judicial Conference of the United States pursuant to 28 U.S.C. section 1930(b) and 33.87 percent of the fees hereafter collected under 28 U.S.C. section 1930(a)(1) and 25 percent of the fees hereafter collected under 28 U.S.C. section 1930(a)(3) shall be deposited as offsetting receipts to the fund established under 28 U.S.C. section 1931 and shall remain available to the Judiciary until expended to reimburse any appropriation for the amount paid out of such appropriation for expenses of the Courts of Appeals, District Courts, and other Judicial Services and the Administrative Office of the United States Courts. The Judicial Conference shall report to the Committees on Appropriations of the House of Representatives and the Senate on a quarterly basis beginning on the first day of each fiscal year regarding the sums deposited in said fund.”
+
+\[For termination, effective May 15, 2000, of provisions relating to a quarterly report to the Committees on Appropriations of the House of Representatives and the Senate in section 406(b) of Pub. L. 101–162, as amended, set out above, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 12 of House Document No. 103–7.\]
+
+\[Pub. L. 106–518, title II, §209(b), Nov. 13, 2000, 114 Stat. 2415, provided that: “The amendment made by subsection (a) \[amending section 406(b) of Pub. L. 101–162, set out above\] shall not apply with respect to fees collected before the date of enactment of this Act \[Nov. 13, 2000\].”\]
 
 \[Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §113\], Nov. 29, 1999, 113 Stat. 1535, 1501A–20, provided that the amendment to section 406(b) of Pub. L. 101–162, set out above, is effective 30 days after Nov. 29, 1999.\]
 
@@ -58,5 +64,5 @@ Section 406(b) of Pub. L. 101–162, as amended by Pub. L. 103–121, title I, �
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 604, 1827 of this title.
+This section is referred to in sections 604, 1827, 1930 of this title.
 

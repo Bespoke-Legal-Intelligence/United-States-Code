@@ -1,6 +1,6 @@
 ### §883j. Ocean satellite data
 
-The Administrator of the National Oceanic and Atmospheric Administration (hereinafter referred to in this subtitle <sup>1</sup> as the “Administration”) shall take such actions, including the sponsorship of applied research, as may be necessary to assure the future availability and usefulness of ocean satellite data to the maritime community.
+The Administrator of the National Oceanic and Atmospheric Administration (hereinafterreferred to in this subtitle <sup>1</sup> as the “Administration”) shall take such actions, including the sponsorship of applied research, as may be necessary to assure the future availability and usefulness of ocean satellite data to the maritime community.
 
 (Pub. L. 99–272, title VI, §6082, Apr. 7, 1986, 100 Stat. 135.)
 

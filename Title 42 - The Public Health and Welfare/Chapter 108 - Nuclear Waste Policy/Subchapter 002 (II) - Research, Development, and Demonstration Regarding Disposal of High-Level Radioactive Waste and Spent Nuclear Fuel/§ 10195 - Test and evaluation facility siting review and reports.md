@@ -22,7 +22,7 @@ The Secretary shall enter into written agreements with the Governor of the State
 
 &emsp;(2) procedures by which the Secretary shall consider and respond to comments and recommendations made by such Governor or governing body, including the period in which the Secretary shall so respond;
 
-&emsp;(3) the documents the Department is to submit to such Governor or governing body, thetiming for such submissions, the timing for such Governor or governing body to identify public health and safety concerns and the process to be followed to try to eliminate those concerns;
+&emsp;(3) the documents the Department is to submit to such Governor or governing body, the timing for such submissions, the timing for such Governor or governing body to identify public health and safety concerns and the process to be followed to try to eliminate those concerns;
 
 &emsp;(4) procedures by which the Secretary and either such Governor or governing body may review or modify the agreement periodically; and
 

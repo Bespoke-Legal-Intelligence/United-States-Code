@@ -46,11 +46,27 @@ A certification under the procedures authorized by this section shall—
 
 &emsp;&emsp;(B) is authorized and consents on behalf of the tribe and such officer to accept the jurisdiction of the Federal courts for the purpose of enforcement of the responsibilities of the certifying officer as such an official.
 
-(Pub. L. 104–330, title I, §105, Oct. 26, 1996, 110 Stat. 4028.)
+#### (d) Environmental compliance
+
+The Secretary may waive the requirements under this section if the Secretary determines that a failure on the part of a recipient to comply with provisions of this section—
+
+&emsp;(1) will not frustrate the goals of the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] or any other provision of law that furthers the goals of that Act;
+
+&emsp;(2) does not threaten the health or safety of the community involved by posing an immediate or long-term hazard to residents of that community;
+
+&emsp;(3) is a result of inadvertent error, including an incorrect or incomplete certification provided under subsection (c)(1) of this section; and
+
+&emsp;(4) may be corrected through the sole action of the recipient.
+
+(Pub. L. 104–330, title I, §105, Oct. 26, 1996, 110 Stat. 4028; Pub. L. 106–568, title X, §1003(d), Dec. 27, 2000, 114 Stat. 2926; Pub. L. 106–569, title V, §503(d), Dec. 27, 2000, 114 Stat. 2962.)
 
 #### References in Text
 
 The National Environmental Policy Act of 1969, referred to in text, is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+
+#### Amendments
+
+2000—Subsec. (d). Pub. L. 106–568 and Pub. L. 106–569 amended section identically, adding subsec. (d).
 
 #### Effective Date
 

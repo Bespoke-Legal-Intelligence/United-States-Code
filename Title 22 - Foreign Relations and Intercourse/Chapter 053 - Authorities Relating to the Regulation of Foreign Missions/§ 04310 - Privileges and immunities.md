@@ -4,7 +4,3 @@ Nothing in this chapter shall be construed to limit the authority of the United 
 
 (Aug. 1, 1956, ch. 841, title II, §210, as added Pub. L. 97–241, title II, §202(b), Aug. 24, 1982, 96 Stat. 290.)
 
-#### Codification
-
-Section is also set out in D.C. Code, §5–1210.
-

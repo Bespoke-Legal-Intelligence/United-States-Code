@@ -90,10 +90,6 @@ In subsection (c), the words “by the Government”, “authority of”, and �
 
 In subsection (d), the words “by the Congress” and “the making of” are omitted as surplusage. The words “or both” are inserted to conform to subsection (a).
 
-#### Cross References
-
-Delegation of authority, see section 2356 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 284, 1887 of this title; title 42 sections 241, 284, 1870, 1887.

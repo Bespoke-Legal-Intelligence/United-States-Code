@@ -62,7 +62,3 @@ Amendment by Pub. L. 85–861 effective August 10, 1956, see section 33(g) of Pu
 
 Prohibition against accrual of increase in pay or allowances for service performed prior to Aug. 6, 1958, see note set out under section 4336 of this title.
 
-#### Cross References
-
-Retirement of permanent professors after more than 30 years of service as a commissioned officer, see section 8920 of this title.
-

@@ -2,7 +2,7 @@
 
 #### (a) Activities along or in vicinity of pipeline right-of-way; strict liability; limitation on liability; subrogation; emergency subsistence and other aid; exemption for State of Alaska
 
-(1) Except when the holder of the pipeline right-of-way granted pursuant to this chaptercan prove that damages in connection with or resulting from activities along or in the vicinity of the proposed trans-Alaskan pipeline right-of-way were caused solely by an act of war or negligence of the United States, other government entity, or the damaged party, such holder shall be strictly liable to all damaged parties, public or private, without regard to fault for such damages, and without regard to ownership of any affected lands, structures, fish, wildlife, or biotic or other natural resources relied upon by Alaska Natives, Native organizations, or others for subsistence or economic purposes. Claims for such injury or damages may be determined by arbitration or judicial proceedings.
+(1) Except when the holder of the pipeline right-of-way granted pursuant to this chapter can prove that damages in connection with or resulting from activities along or in the vicinity of the proposed trans-Alaskan pipeline right-of-way were caused solely by an act of war or negligence of the United States, other government entity, or the damaged party, such holder shall be strictly liable to all damaged parties, public or private, without regard to fault for such damages, and without regard to ownership of any affected lands, structures, fish, wildlife, or biotic or other natural resources relied upon by Alaska Natives, Native organizations, or others for subsistence or economic purposes. Claims for such injury or damages may be determined by arbitration or judicial proceedings.
 
 (2) Liability under paragraph (1) of this subsection shall be limited to $350,000,000 for any one incident, and the holders of the right-of-way or permit shall be liable for any claim allowed in proportion to their ownership interest in the right-of-way or permit. Liability of such holders for damages in excess of $350,000,000 shall be in accord with ordinary rules of negligence.
 
@@ -14,77 +14,9 @@
 
 #### (b) Control and removal of pollutants at expense of right-of-way holder
 
-If any area in the State of Alaska within or without the right-of-way or permit area granted under this chapter is polluted by any activities related to the Trans-Alaska Pipeline System, including operation of the terminal, conducted by or on behalf of the holder to whom such right-of-way or permit was granted, and such pollution damages or threatens to damage aquatic life, wildlife, or public or private property, the control and total removal of the pollutant shall be at the expense of such holder, including any administrative and other costs incurred by the Secretary or any other Federal or State officer or agency. Upon failure of such holder to adequately control and remove such pollutant, the Secretary, in cooperation with other Federal, State, or local agencies, or in cooperation with such holder, or both, shall have the right to accomplish the control and removal at the expense of such holder.
-
-#### (c) Discharges of oil from vessels loaded at terminal facilities of pipeline; strict liability; limitation on liability; apportionment of liability; establishment and operation of Trans-Alaska Pipeline Liability Fund
-
-(1) Notwithstanding the provisions of any other law, if oil that has been transported through the trans-Alaska pipeline is loaded on a vessel at the terminal facilities of the pipeline, the owner and operator of the vessel (jointly and severally) and the Trans-Alaska Pipeline Liability Fund established by this subsection, shall be strictly liable without regard to fault in accordance with the provisions of this subsection for all damages, including clean-up costs, sustained by any person or entity, public or private, including residents of Canada, as the result of discharges of oil from such vessel.
-
-(2) Strict liability shall not be imposed under this subsection if the owner or operator of the vessel, or the Fund, can prove that the damages were caused solely by an act or war or by the negligence of the United States or other governmental agency. Strict liability shall not be imposed under this subsection with respect to the claim of a damaged party if the owner or operator of the vessel, or the Fund, can prove that the damage was caused by the negligence of such party.
-
-(3) Strict liability for all claims arising out of any one incident shall not exceed $100,000,000. The owner and operator of the vessel shall be jointly and severally liable for the first $14,000,000 of such claims that are allowed. Financial responsibility for $14,000,000 shall be demonstrated in accordance with the provisions of section 1321(p) <sup>1</sup> of title 33 before the oil is loaded. The Fund shall be liable for the balance of the claims that are allowed up to $100,000,000. If the total claims allowed exceed $100,000,000, they shall be reduced proportionately. The unpaid portion of any claim may be asserted and adjudicated under other applicable Federal or state <sup>2</sup> law. The Fund shall expeditiously pay claims under this subsection, including such $14,000,000, if the owner or operator of a vessel has not paid any such claim within 90 days after such claim has been submitted to such owner or operator. Upon payment of any such claim, the Fund shall be subrogated under applicable State and Federal laws to all rights of any person entitled to recover under this subsection. In any action brought by the Fund against an owner or operator or an affiliate thereof to recover amounts under this paragraph, the Fund shall be entitled to recover prejudgment interest, costs, reasonable attorney's fees, and, in the discretion of the court, penalties.
-
-(4)(A) The Trans-Alaska Pipeline Liability Fund is hereby established as a non-profit corporate entity that may sue and be sued in its own name. The Fund shall be administered by the holders of the trans-Alaska pipeline right-of-way under regulations prescribed by the Secretary. The Fund shall be subject to an annual audit by the Comptroller General, and a copy of the audit shall be submitted to the Congress.
-
-(B) No present or former officer or trustee of the Fund shall be subject to any liability incurred by the Fund or by the present or former officers or trustees of the Fund, other than liability for gross negligence or willful misconduct.
-
-(C)(i) Subject to clause (ii), each officer and each trustee of the Fund—
-
-&emsp;(I) shall be indemnified against all claims and liabilities to which he or she has or shall become subject by reason of serving or having served as an officer or trustee, or by reason of any action taken, omitted, or neglected by him or her as an officer or trustee; and
-
-&emsp;(II) shall be reimbursed for all attorney's fees reasonably incurred in connection with any claim or liability.
-
-(ii) No officer or trustee shall be indemnified against, or be reimbursed for, any expenses incurred in connection with, any claim or liability arising out of his or her gross negligence or willful misconduct.
-
-(5) The operator of the pipeline shall collect from the owner of the oil at the time it is loaded on the vessel a fee of five cents per barrel. The collection shall cease when $100,000,000 has been accumulated in the Fund, and it shall be resumed when the accumulation in the Fund falls below $100,000,000, except that after August 18, 1990, the amount to be accumulated shall be $100,000,000 or the amount determined by the trustees and certified to the Congress by the Comptroller General as necessary to pay claims arising from incidents occurring prior to August 18, 1990, and administrative costs, whichever is less.
-
-(6) The collections under paragraph (5) shall be delivered to the Fund. Costs of administration shall be paid from the money paid to the Fund, and all sums not needed for administration and the satisfaction of claims shall be invested prudently in income-producing securities approved by the Secretary. Income from such securities shall be added to the principal of the Fund.
-
-(7) The provisions of this subsection shall apply only to vessels engaged in transportation between the terminal facilities of the pipeline and ports under the jurisdiction of the United States. Strict liability under this subsection shall cease when the oil has first been brought ashore at a port under the jurisdiction of the United States.
-
-(8) In any case where liability without regard to fault is imposed pursuant to this subsection and the damages involved were caused by the unseaworthiness of the vessel or by negligence, the owner and operator of the vessel, and the Fund, as the case may be shall be subrogated under applicable State and Federal laws to the rights under said laws of any person entitled to recovery hereunder. If any subrogee brings an action based on unseaworthiness of the vessel or negligence of its owner or operator, it may recover from any affiliate of the owner or operator, if the respective owner or operator fails to satisfy any claim by the subrogee allowed under this paragraph.
-
-(9) This subsection shall not be interpreted to preempt the field of strict liability or to preclude any State from imposing additional requirements.
-
-(10) If the Fund is unable to satisfy a claim asserted and finally determined under this subsection, the Fund may borrow the money needed to satisfy the claim from any commercial credit source, at the lowest available rate of interest, subject to approval of the Secretary.
-
-(11) For purposes of this subsection only, the term “affiliate” includes—
-
-&emsp;(A) Any person owned or effectively controlled by the vessel owner or operator; or
-
-&emsp;(B) Any person that effectively controls or has the power effectively to control the vessel owner or operator by—
-
-&emsp;&emsp;(i) stock interest, or
-
-&emsp;&emsp;(ii) representation on a board of directors or similar body, or
-
-&emsp;&emsp;(iii) contract or other agreement with other stockholders, or
-
-&emsp;&emsp;(iv) otherwise; or
-
-&emsp;(C) Any person which is under common ownership or control with the vessel owner or operator.
-
-(12) The term “person” means an individual, a corporation, a partnership, an association, a joint-stock company, a business trust, or an unincorporated organization.
-
-(13) For any claims against the Fund, the term “damages” shall include, but not be limited to—
-
-&emsp;(A) the net loss of taxes, revenues, fees, royalties, rents, or other revenues incurred by a State or a political subdivision of a State due to injury, destruction, or loss of real property, personal property, or natural resources, or diminished economic activity due to a discharge of oil; and
-
-&emsp;(B) the net cost of providing increased or additional public services during or after removal activities due to a discharge of oil, including protection from fire, safety, or health hazards, incurred by a State or political subdivision of a State.
-
-(14) Paragraphs (1) through (13) shall apply only to claims arising from incidents occurring before August 18, 1990. The Oil Pollution Act of 1990 \[33 U.S.C. 2701 et seq.\] shall apply to any incident, or any claims arising from an incident, occurring on or after August 18, 1990.
+If any area in the State of Alaska within or without the right-of-way or permit area granted under this chapter is polluted by any activitiesrelated to the Trans-Alaska Pipeline System, including operation of the terminal, conducted by or on behalf of the holder to whom such right-of-way or permit was granted, and such pollution damages or threatens to damage aquatic life, wildlife, or public or private property, the control and total removal of the pollutant shall be at the expense of such holder, including any administrative and other costs incurred by the Secretary or any other Federal or State officer or agency. Upon failure of such holder to adequately control and remove such pollutant, the Secretary, in cooperation with other Federal, State, or local agencies, or in cooperation with such holder, or both, shall have the right to accomplish the control and removal at the expense of such holder.
 
 (Pub. L. 93–153, title II, §204, Nov. 16, 1973, 87 Stat. 586; Pub. L. 101–380, title VIII, §§8101, 8102(a)(1), (4), (b)–(e), Aug. 18, 1990, 104 Stat. 565–567.)
-
-#### Repeal of Subsection (c)
-
-<i>Pub. L. 101–380, title VIII, §8102(a)(1), (5)(A), Aug. 18, 1990, 104 Stat. 565, 566, provided that subsection (c) of this section is repealed effective 60 days after the date on which the Comptroller General certifies to Congress that: (i) all claims arising under subsection (c) of this section have been resolved, (ii) all actions for the recovery of amounts subject to subsection (c) of this section have been resolved, and (iii) all administrative expenses reasonably necessary for and incidental to the implementation of subsection (c) of this section have been paid.</i>
-
-#### References in Text
-
-Section 1321(p) of title 33, referred to in subsec. (c)(3), was repealed by Pub. L. 101–380, title II, §2002(b)(4), Aug. 18, 1990, 104 Stat. 507.
-
-The Oil Pollution Act of 1990, referred to in subsec. (c)(14), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484,which is classified principally to chapter 40 (§2701 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of Title 33 and Tables.
 
 #### Amendments
 
@@ -93,6 +25,8 @@ The Oil Pollution Act of 1990, referred to in subsec. (c)(14), is Pub. L. 101–
 Subsec. (a)(2). Pub. L. 101–380, §8101(b), substituted “$350,000,000” for “$50,000,000” in two places.
 
 Subsec. (b). Pub. L. 101–380, §8101(c), inserted “in the State of Alaska” after “any area”, “related to the Trans-Alaska Pipeline System, including operation of the terminal,” after “any activities”, and “or State” after “any other Federal”.
+
+Subsec. (c). Pub. L. 101–380, §8102(a)(1), struck out subsec. (c) which related to liability for discharges of oil loaded at terminal facilities and to establishment of Trans-Alaska Pipeline Liability Fund.
 
 Subsec. (c)(2). Pub. L. 101–380, §8102(b), substituted “caused solely by” for “caused by”.
 
@@ -108,7 +42,7 @@ Subsec. (c)(13), (14). Pub. L. 101–380, §8102(c), added pars. (13) and (14).
 
 Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 1990, see section 1020 of Pub. L. 101–380, set out as an Effective Date note under section 2701 of Title 33, Navigation and Navigable Waters.
 
-Section 8102(a)(5)(A) of Pub. L. 101–380 provided that: “The repeal by paragraph (1) \[repealing subsec. (c) of this section\] shall be effective 60 days after the date on which the Comptroller General of the United States certifies to the Congress that—
+Section 8102(a)(5)(A) of Pub. L. 101–380 provided that: “The repeal by paragraph (1) \[repealing subsec. (c) of this section\] shall be effective 60 days after the date on which the Comptroller General of the United States certifies to the Congress \[certified July 5, 2000\] that—
 
 &emsp;“(i) all claims arising under section 204(c) of the Trans-Alaska Pipeline Authorization Act (43 U.S.C. 1653(c)) have been resolved,
 
@@ -166,13 +100,9 @@ Section 8102(a)(5)(B) of Pub. L. 101–380 provided that: “Upon the effective 
 
 #### Preservation of Rights and Remedies of Contributors to TAPS Fund
 
-Section 8102(a)(6) provided that: “This subsection \[amending this section and enacting provisions set out as notes above\] is intended expressly to preserve anyand all rights and remedies of contributors to the TAPS Fund under section 1491 of title 28, United States Code (commonly referred to as the ‘Tucker Act’).”
+Section 8102(a)(6) provided that: “This subsection \[amending this section and enacting provisions set out as notes above\] is intended expressly to preserve any and all rights and remedies of contributors to the TAPS Fund under section 1491 of title 28, United States Code (commonly referred to as the ‘Tucker Act’).”
 
 #### Section Referred to in Other Sections
 
 This section is referred to in title 26 section 9509.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be capitalized.</i>
 

@@ -12,14 +12,6 @@ Based on Title 35, U.S.C., 1946 ed., §§74, 75 (Feb. 4, 1887, ch. 105, §§1, 2
 
 Language is changed.
 
-#### Cross References
-
-Damages recoverable in action for copyright infringement, see section 501 of Title 17, Copyrights.
-
-Patented articles marked as such and notice of infringement, see section 287 of this title.
-
-Patents for design generally, see section 171 et seq. of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 157, 296 of this title.

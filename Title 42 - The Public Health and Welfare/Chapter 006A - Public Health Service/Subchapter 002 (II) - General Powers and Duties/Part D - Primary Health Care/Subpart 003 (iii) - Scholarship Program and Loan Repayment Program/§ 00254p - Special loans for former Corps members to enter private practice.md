@@ -14,7 +14,7 @@ The Secretary may, out of appropriations authorized under section 254k of this t
 
 &emsp;(3) to such additional conditions as the Secretary may require to carry out this section.
 
-> Such a loan shall be used to assist such individual in meeting the costs of beginning the practice of such individual's profession in accordance with such agreement, including the costs of acquiring equipment and renovating facilities for use in providing health services, and of hiring nurses and other personnel to assist in providing health services. Such loan may not be used for the purchase or construction of any building.
+> Such a loan shall be used to assist such individual in meeting the costs of beginning the practice of such individual's profession in accordance with such agreement, including the costs of acquiring equipment and renovating facilities for use in providing health services, and of hiring nurses and other personnel to assist in providing health services. Such loan may not beused for the purchase or construction of any building.
 
 #### (b) Amount of loan; maximum interest rate
 

@@ -34,7 +34,7 @@ Any insured depository institution which, under subsection (c) or (d) of this se
 
 #### (f) Additional restrictions
 
-The Corporation may impose, by regulation or order, such additional restrictions on the acceptance of brokered deposits by any institutionas the Corporation may determine to be appropriate.
+The Corporation may impose, by regulation or order, such additional restrictions on the acceptance of brokered deposits by any institution as the Corporation may determine to be appropriate.
 
 #### (g) Definitions relating to deposit broker
 
@@ -128,5 +128,5 @@ Section 301(d) of Pub. L. 102–242 provided that: “The Corporation shall prom
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1821, 1831f–1, 4313 of this title.
+This section is referred to in sections 1821, 4313 of this title.
 

@@ -16,19 +16,51 @@ Notwithstanding any other provision of this subchapter, payments to which any ho
 
 The annual report of the Secretary which is required by section 1671 of title 25 shall include (along with the matters specified in section 1643 of title 25) a detailed statement of the status of the hospitals and skilled nursing facilities of the Service in terms of their compliance with the applicable conditions and requirements of this subchapter and of the progress being made by such hospitals and facilities (under plans submitted under subsection (b) of this section and otherwise) toward the achievement of such compliance.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1880, as added Pub. L. 94–437, title IV, §401(b), Sept. 30, 1976, 90 Stat. 1408; amended Pub. L. 102–573, title VII, §701(d), Oct. 29, 1992, 106 Stat. 4572.)
+#### (e) Services provided by Indian Health Service, Indian tribe, or tribal organization
+
+(1)(A) Notwithstanding section 1395n(d) of this title, subject to subparagraph (B), the Secretary shall make payment under part B of this subchapter to a hospital or an ambulatory care clinic (whether provider-based or freestanding) that is operated by the Indian Health Service or by an Indian tribe or tribal organization (as defined for purposes of subsection (a) of this section) for services described in paragraph (2) furnished in or at the direction of the hospital or clinic under the same situations, terms, and conditions as would apply if the services were furnished in or at the direction of such a hospital or clinic that was not operated by such Service, tribe, or organization.
+
+(B) Payment shall not be made for services under subparagraph (A) to the extent that payment is otherwise made for such services under this subchapter.
+
+(2) The services described in this paragraph are the following:
+
+&emsp;(A) Services for which payment is made under section 1395w–4 of this title.
+
+&emsp;(B) Services furnished by a practitioner described in section 1395u(b)(18)(C) of this title for which payment under part B of this subchapter is made under a fee schedule.
+
+&emsp;(C) Services furnished by a physical therapist or occupational therapist as described in section 1395x(p) of this title for which payment under part B of this subchapter is made under a fee schedule.
+
+(3) Subsection (c) of this section shall not apply to payments made under this subsection.
+
+#### (f) Cross reference
+
+For provisions relating to the authority of certain Indian tribes, tribal organizations, and Alaska Native health organizations to elect to directly bill for, and receive payment for, health care services provided by a hospital or clinic of such tribes or organizations and for which payment may be made under this subchapter, see section 1645 of title 25.
+
+(Aug. 14, 1935, ch. 531, title XVIII, §1880, as added Pub. L. 94–437, title IV, §401(b), Sept. 30, 1976, 90 Stat. 1408; amended Pub. L. 102–573, title VII, §701(d), Oct. 29, 1992, 106 Stat. 4572; Pub. L. 106–417, §3(b)(1), Nov. 1, 2000, 114 Stat. 1815; Pub. L. 106–554, §1(a)(6) \[title IV, §432(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–525.)
+
+#### References in Text
+
+Part B of this subchapter, referred to in subsec. (e)(1)(A), (2)(B), (C), is classified to section 1395j et seq. of this title.
 
 #### Amendments
 
+2000—Subsec. (e). Pub. L. 106–554, §1(a)(6) \[title IV, §432(a)(2)\], added subsec. (e). Former subsec. (e) redesignated (f).
+
+Pub. L. 106–417 added subsec. (e).
+
+Subsec. (f). Pub. L. 106–554, §1(a)(6) \[title IV, §432(a)(1)\], redesignated subsec. (e) as (f).
+
 1992—Subsec. (d). Pub. L. 102–573 made technical amendment to the reference to section 1671 of title 25 to reflect renumbering of corresponding section of original act.
 
-#### Demonstration Program for Direct Billing of Medicare, Medicaid, and Other Third Party Payors
+#### Effective Date of 2000 Amendment
 
-Pub. L. 94–437, title IV, §405, as added by Pub. L. 100–713, title IV, §402, Nov. 23, 1988, 102 Stat. 4818, formerly set out as a note under this section, was transferred and is set out as section 1645 of Title 25, Indians.
+Amendment by section 1(a)(6) \[title IV, §432(a)\] of Pub. L. 106–554 applicable to services furnished on or after July 1, 2001, see section 1(a)(6) \[title IV, §432(c)\] of Pub. L. 106–554, set out as a note under section 1395u of this title.
+
+Amendment by Pub. L. 106–417 effective Oct. 1, 2000, see section 3(c) of Pub. L. 106–417, set out as a note under section 1645 of Title 25, Indians.
 
 #### Medicare Payments Not Considered in Determining Appropriations for Indian Health Care
 
-Section 401(c) of Pub. L. 94–437 provided that any payments received for services provided to beneficiaries under this section were not to be considered in determining appropriations for health care and services to Indians, prior to the general amendment of section 401 of Pub. L. 94–437 by Pub. L. 102–573, title IV, §401(a), Oct. 29, 1992, 106 Stat. 4565. Similar provisions are contained in section 401(a) of Pub. L. 94–437, which is classified to section 1641(a) of Title 25, Indians.
+Section 401(c) of Pub. L. 94–437 provided that any payments received for services provided to beneficiariesunder this section were not to be considered in determining appropriations for health care and services to Indians, prior to the general amendment of section 401 of Pub. L. 94–437 by Pub. L. 102–573, title IV, §401(a), Oct. 29, 1992, 106 Stat. 4565. Similar provisions are contained in section 401(a) of Pub. L. 94–437, which is classified to section 1641(a) of Title 25, Indians.
 
 #### Preference in Services for Indians With Medicare Coverage Not Authorized
 
@@ -36,5 +68,5 @@ Section 401(d) of Pub. L. 94–437, which provided that nothing in this section 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1395f, 1395n of this title; title 25 section 1680c.
+This section is referred to in sections 1395f, 1395n, 1395u, 1395y of this title; title 25 sections 1645, 1680c.
 

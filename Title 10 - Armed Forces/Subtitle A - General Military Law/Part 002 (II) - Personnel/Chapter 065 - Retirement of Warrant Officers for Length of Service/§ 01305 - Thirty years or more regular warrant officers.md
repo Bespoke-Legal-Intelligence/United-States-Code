@@ -86,16 +86,6 @@ Amendment by Pub. L. 102–190 effective Feb. 1, 1992, see section 1132 of Pub. 
 
 Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 87–649, set out as a note preceding section 101 of Title 37, Pay and Allowances of the Uniformed Services.
 
-#### Cross References
-
-Coast Guard warrant officers, retirement in cases where higher grade has been held, see section 334 of Title 14, Coast Guard.
-
-Computation of retired pay, see section 1401 of this title.
-
-Retirement of warrant officers for age, see section 1263 of this title.
-
-Suspension during war or emergency, see section 644 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1263, 1401, 1406 of this title; title 14 section 334.

@@ -14,7 +14,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning a
 
 #### Codification
 
-Section is comprised of the first three pars. of section 9 of act Dec. 23, 1913, as amended. The first par. of this section is comprised of the first par. of section 9 as amended in 1917 (40 Stat. 232). The second par. of this section was added as a new par. to follow the first par. of section 9, by act Aug. 17, 1950. The third par. of this section originally constituted the second par. of section 9, as amended by act Feb. 25, 1927, and became the third par. when act Aug. 17, 1950 added the new second par. The fourth to twenty-third pars. of section 9, as amended, are classified to sections 322 to 338a of this title. Section 329a of this title, which was based on par. twelve of section 9, was omitted from the Code. Paragraph twenty-two of section 9, which was classified to section 337 of this title, was repealed by Pub. L. 89–485, §13(g), July 1, 1966, 80 Stat. 243.
+Section is comprised of the first three pars. of section 9 of act Dec. 23, 1913, as amended. The first par. of this section is comprised of the first par. of section 9 as amended in 1917 (40 Stat. 232). The second par. of this section was added as a new par. to follow the first par. of section 9, by act Aug. 17, 1950. The third par. of this section originally constituted the second par. of section 9, as amended by act Feb. 25, 1927, and became thethird par. when act Aug. 17, 1950 added the new second par. The fourth to twenty-third pars. of section 9, as amended, are classified to sections 322 to 338a of this title. Section 329a of this title, which was based on par. twelve of section 9, was omitted from the Code. Paragraph twenty-two of section 9, which was classified to section 337 of this title, was repealed by Pub. L. 89–485, §13(g), July 1, 1966, 80 Stat. 243.
 
 #### Amendments
 
@@ -41,10 +41,6 @@ Functions vested by any provision of law in Comptroller of the Currency, referre
 #### Abolition of Reconstruction Finance Corporation
 
 Section 6(a) of Reorg. Plan No. 1 of 1957, eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647, set out in the Appendix to Title 5, Government Organization and Employees, abolished Reconstruction Finance Corporation.
-
-#### Cross References
-
-Member banks of Federal reserve as subject to penalties under sections 321 to 329, 330 to 336, 338, see section 501 of this title.
 
 #### Section Referred to in Other Sections
 

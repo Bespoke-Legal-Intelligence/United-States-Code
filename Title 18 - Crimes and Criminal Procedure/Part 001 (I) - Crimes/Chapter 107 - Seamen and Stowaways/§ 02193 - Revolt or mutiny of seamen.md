@@ -14,7 +14,3 @@ Punishment provision for mandatory fine and imprisonment was rephrased in the al
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $2,000”.
 
-#### Cross References
-
-Willful disobedience to lawful command at sea and assault upon master or mate, see section 11501 of Title 46, Shipping.
-

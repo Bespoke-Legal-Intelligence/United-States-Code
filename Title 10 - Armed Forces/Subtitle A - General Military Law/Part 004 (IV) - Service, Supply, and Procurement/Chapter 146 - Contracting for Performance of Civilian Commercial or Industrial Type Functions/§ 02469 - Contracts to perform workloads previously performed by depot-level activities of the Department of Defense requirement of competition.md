@@ -32,7 +32,7 @@ Subsecs. (a), (b). Pub. L. 105–85, §355(b), substituted “maintenance and re
 
 “(a)
 
-Requirement for Competition.—The Secretary of Defense or the Secretary of a military department may not change the performance of a depot-level maintenance workload that has a value of not less than $3,000,000 and is being performed by a depot-level activity of the Department of Defense to performance by a contractor unless the Secretary uses competitive procedures for the selection of the contractor to perform such workload.
+Requirement for Competition.—The Secretary of Defense or the Secretary of a military department may not change the performance of a depot-level maintenance workload that has a value of not less than$3,000,000 and is being performed by a depot-level activity of the Department of Defense to performance by a contractor unless the Secretary uses competitive procedures for the selection of the contractor to perform such workload.
 
 “(b)
 

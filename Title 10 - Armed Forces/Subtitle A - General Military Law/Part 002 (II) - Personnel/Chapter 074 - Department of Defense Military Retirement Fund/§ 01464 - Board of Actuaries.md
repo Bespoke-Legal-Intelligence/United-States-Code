@@ -2,7 +2,7 @@
 
 (a)(1) There is established in the Department of Defense a Department of Defense Retirement Board of Actuaries (hereinafter in this chapter referred to as the “Board”). The Board shall consist of three members, who shall be appointed by the President from among qualified professional actuaries who are members of the Society of Actuaries.
 
-(2)(A) Except as provided in subparagraph (B), the members of the Board shall serve for a term of 15 years, except that a member of the Board appointed to fill a vacancy occurring before the end of the term for which his predecessor wasappointed shall only serve until the end of such term. A member may serve after the end of his term until his successor has taken office. A member of the Board may be removed by the President for misconduct or failure to perform functions vested in the Board, and for no other reason.
+(2)(A) Except as provided in subparagraph (B), the members of the Board shall serve for a term of 15 years, except that a member of the Board appointed to fill a vacancy occurring before the end of the term for which his predecessor was appointed shall only serve until the end of such term. A member may serve after the end of his term until his successor has taken office. A member of the Board may be removed by the President for misconduct or failure to perform functions vested in the Board, and for no other reason.
 
 (B) Of the members of the Board who are first appointed under this subsection, one each shall be appointed for terms ending five, ten, and fifteen years, respectively, after the date of appointment, as designated by the President at the time of appointment.
 
@@ -20,7 +20,7 @@
 
 #### Effective Date
 
-Section 925(b)(1) of Pub. L. 98–94 provided that: “Section 1464 (relating to the Board of Actuaries) of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 1983.”
+Section 925(b)(1) of Pub. L. 98–94 provided that: “Section 1464 (relating to the Board of Actuaries) of title 10,United States Code, as added by subsection (a), shall take effect on October 1, 1983.”
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

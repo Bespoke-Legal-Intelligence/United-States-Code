@@ -12,9 +12,9 @@ The appropriations made under this heading, referred to in text, refers to appro
 
 “federal subsidy for saint elizabeths hospital” of title II, “Department of Health and Human Services”, of the Departments of Labor, Health and Human Services, and Education and Related Agencies Appropriation Act, 1989, Pub. L. 100–436.
 
-The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII and XIX of the Social Security Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-Section 9(c) of Public Law 98–621, referred to in text, is section 9(c) of Pub. L. 98–621, Nov. 8, 1984, 98 Stat. 3378, par. (1) of which is classified to section 225g(c)(1) of this title, and par. (2) of which amended section 502 of the District of Columbia Self-Government and Governmental Reorganization Act, Pub. L. 93–198, title V, Dec. 24, 1973, 87 Stat. 813, which appears as section 47–3406 of Title 47, Taxation and Fiscal Affairs, of the District of Columbia Code.
+Section 9(c) of Public Law 98–621, referred to in text, is section 9(c) of Pub. L. 98–621, Nov. 8, 1984, 98 Stat. 3378, par. (1) of which is classified to section 225g(c) of this title.
 
 #### Codification
 

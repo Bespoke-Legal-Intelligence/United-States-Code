@@ -22,7 +22,7 @@ In awarding grants under this subchapter, the Director of the Bureau of Justice 
 
 &emsp;(3) has a violent crime rate at or above the national average as determined by the Federal Bureau of Investigation; or
 
-&emsp;(4) has not received a block grant under the Local Law Enforcement Block Grant programdescribed under the heading “Violent Crime Reduction Programs, State and Local Law Enforcement Assistance” of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1998 (Public Law 105–119).
+&emsp;(4) has not received a block grant under the Local Law Enforcement Block Grant program described under the heading “Violent Crime Reduction Programs, State and Local Law Enforcement Assistance” of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1998 (Public Law 105–119).
 
 #### (d) Minimum amount
 
@@ -34,13 +34,29 @@ A qualifying State, unit of local government, or Indian tribe may not receive mo
 
 #### (f) Matching funds
 
-The portion of the costs of a program provided by a grant under subsection (a) of this section may not exceed 50 percent. Any funds appropriated by Congress for the activities of any agency of an Indian tribal government or the Bureau of Indian Affairs performing law enforcement functions on any Indian lands may be used to provide the non-Federal share of a matching requirement funded under this subsection.
+#### (1) In general
+
+&emsp;The portion of the costs of a program provided by a grant under subsection (a) of this section—
+
+&emsp;&emsp;(A) may not exceed 50 percent; and
+
+&emsp;&emsp;(B) shall equal 50 percent, if—
+
+&emsp;&emsp;&emsp;(i) such grant is to a unit of local government with fewer than 100,000 residents;
+
+&emsp;&emsp;&emsp;(ii) the Director of the Bureau of Justice Assistance determines that the quantity of vests to be purchased with such grant is reasonable; and
+
+&emsp;&emsp;&emsp;(iii) such portion does not cause such grant to violate the requirements of subsection (e) of this section.
+
+#### (2) Indian assistance
+
+&emsp;Any funds appropriated by Congress for the activities of any agency of an Indian tribal government or the Bureau of Indian Affairs performing law enforcement functions on any Indian lands may be used to provide the non-Federal share of a matching requirement funded under this subsection.
 
 #### (g) Allocation of funds
 
-At least half of the funds available under this subchapter shall be awarded to units of local government with fewer than 100,000 residents.
+Funds available under this subchapter shall be awarded, without regard to subsection (c) of thissection, to each qualifying unit of local government with fewer than 100,000 residents. Any remaining funds available under this subchapter shall be awarded to other qualifying applicants.
 
-(Pub. L. 90–351, title I, §2501, as added Pub. L. 105–181, §3(a)(3), June 16, 1998, 112 Stat. 513.)
+(Pub. L. 90–351, title I, §2501, as added Pub. L. 105–181, §3(a)(3), June 16, 1998, 112 Stat. 513; amended Pub. L. 106–517, §3(a), (b), Nov. 13, 2000, 114 Stat. 2407, 2408.)
 
 #### References in Text
 
@@ -50,9 +66,29 @@ The Departments of Commerce, Justice, and State, the Judiciary, and Related Agen
 
 A prior section 2501 of Pub. L. 90–351 was renumbered section 2601 and is classified to section 3797 of this title.
 
+#### Amendments
+
+2000—Subsec. (f). Pub. L. 106–517, §3(a), designated first sentence as par. (1), inserted par. heading, substituted “subsection (a) of this section—” and subpars. (A) and (B) for “subsection (a) of this section may not exceed 50 percent.”, and designated second sentence as par. (2) and inserted par. heading.
+
+Subsec. (g). Pub. L. 106–517, §3(b), amended heading and text of subsec. (g) generally. Prior to amendment, text read as follows: “At least half of the funds available under this subchapter shall be awarded to units of local government with fewer than 100,000 residents.”
+
 #### Transfer of Functions
 
 Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 3742(3) through (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) \[title I, §108(b)\] of Pub. L. 106–113, set out as a note under section 3741 of this title.
+
+#### Findings of 2000 Amendments
+
+Pub. L. 106–517, §2, Nov. 13, 2000, 114 Stat. 2407, provided that: “Congress finds that—
+
+&emsp;“(1) the number of law enforcement officers who are killed in the line of duty would significantly decrease if every law enforcement officer in the United States had the protection of an armor vest;
+
+&emsp;“(2) according to studies, between 1985 and 1994, 709 law enforcement officers in the United States were killed in the line of duty;
+
+&emsp;“(3) the Federal Bureau of Investigation estimates that the risk of fatality to law enforcement officers while not wearing an armor vest is 14 times higher than for officers wearing an armor vest;
+
+&emsp;“(4) according to studies, between 1985 and 1994, bullet-resistant materials helped save the lives of more than 2,000 law enforcement officers in the United States; and
+
+&emsp;“(5) the Executive Committee for Indian Country Law Enforcement Improvements reports that violent crime in Indian country has risen sharply, despite a decrease in the national crime rate, and has concluded that there is a ‘public safety crisis in Indian country’.”
 
 #### Findings and Purpose of 1998 Amendments
 

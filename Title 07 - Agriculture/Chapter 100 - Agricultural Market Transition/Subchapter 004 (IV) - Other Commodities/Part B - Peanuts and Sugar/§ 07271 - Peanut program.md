@@ -78,7 +78,7 @@
 
 #### (i) Quota peanuts
 
-&emsp;&emsp;&emsp;For quota peanuts, the net gains over and above the loan indebtedness and othercosts or losses incurred on peanuts placed in the pool.
+&emsp;&emsp;&emsp;For quota peanuts, the net gains over and above the loan indebtedness and other costs or losses incurred on peanuts placed in the pool.
 
 #### (ii) Additional peanuts
 

@@ -2,7 +2,7 @@
 
 #### (a) Jurisdiction of United States district courts; administrative action
 
-The several district courts of the United States are vested with jurisdiction specifically to enforce, and to prevent and restrain any person from violating any plan or regulation made or issued under this chapter. The facts relating to any civil action authorized to be brought under this subsection shall be referred to the Attorney General for appropriate action: <i>Provided</i>, That nothing in this chapter shall be construed as requiring the Secretary to refer to the Attorney General violations of this chapter whenever the Secretary believes that the administration and enforcement of any such plan or regulation would be adequately served by administrative action under subsection (b) of this section or suitable written notice or warning to any person committing such violations.
+The several district courts of the United States are vested with jurisdiction specifically to enforce, and to prevent and restrain any person from violating any plan or regulation madeor issued under this chapter. The facts relating to any civil action authorized to be brought under this subsection shall be referred to the Attorney General for appropriate action: <i>Provided</i>, That nothing in this chapter shall be construed as requiring the Secretary to refer to the Attorney General violations of this chapter whenever the Secretary believes that the administration and enforcement of any such plan or regulation would be adequately served by administrative action under subsection (b) of this section or suitable written notice or warning to any person committing such violations.
 
 #### (b) Civil penalties; cease and desist orders; appeal; failure to comply with order or assessment; further proceedings and penalties
 
@@ -12,7 +12,7 @@ The several district courts of the United States are vested with jurisdiction sp
 
 (3) Any person who fails to obey a cease and desist order after it has become final and unappealable, or after the appropriate court of appeals has entered a final judgment in favor of the Secretary, shall be subject to a civil penalty assessed by the Secretary, after opportunity for a hearing and for judicial review under the procedures specified in subsections (b)(1) and (2) of this section, of not more than $500 for each offense, and each day during which such failure continues shall be deemed a separate offense.
 
-(4) If any person fails to pay an assessment of a civil penalty after it has become a final and unappealable order, or after the appropriate court of appeals has entered final judgment in favor of the Secretary, the Secretary shall refer the matter to the Attorney General for recoveryof the amount assessed in any appropriate district court of the United States. In such action, the validity and appropriateness of the final order imposing the civil penalty shall not be subject to review.
+(4) If any person fails to pay an assessment of a civil penalty after it has become a final and unappealable order, or after the appropriate court of appeals has entered final judgment in favor of the Secretary, the Secretary shall refer the matter to the Attorney General for recovery of the amount assessed in any appropriate district court of the United States. In such action, the validity and appropriateness of the final order imposing the civil penalty shall not be subject to review.
 
 (Pub. L. 91–670, title III, §312, Jan. 11, 1971, 84 Stat. 2045; Pub. L. 97–244, §3, Aug. 26, 1982, 96 Stat. 310.)
 

@@ -14,7 +14,7 @@
 
 &emsp;&emsp;&emsp;(ii) 0.25 percent of the sum shall be available to carry out section 2326(h) of this title; and
 
-&emsp;&emsp;(C) in the case of each of the fiscal years 2000 through 2003, 0.54 percent to carry out section 9273 of this title.
+&emsp;&emsp;(C) in the case of each of the fiscal years 2001 through 2003, 0.54 percent to carry out section 9273 of this title.
 
 #### (2) State allotment formula
 
@@ -64,11 +64,11 @@
 
 #### (B) Ratable reduction
 
-&emsp;&emsp;If for any fiscal year the amount appropriated for allotments under this section is insufficient to satisfy the provisions of subparagraph (A), the payments to all States under such subparagraph shall be ratably reduced.
+&emsp;&emsp;If for any fiscal year the amount appropriated for allotments under this section isinsufficient to satisfy the provisions of subparagraph (A), the payments to all States under such subparagraph shall be ratably reduced.
 
 #### (b) Reallotment
 
-If the Secretary determines that any amount of any State's allotment under subsection (a) ofthis section for any fiscal year will not be required for such fiscal year for carrying out the activities for which such amount has been allotted, the Secretary shall make such amount available for reallotment. Any such reallotment among other States shall occur on such dates during the same year as the Secretary shall fix, and shall be made on the basis of criteria established by regulation. No funds may be reallotted for any use other than the use for which the funds were appropriated. Any amount reallotted to a State under this subsection for any fiscal year shall remain available for obligation during the succeeding fiscal year and shall be deemed to be part of the State's allotment for the year in which the amount is obligated.
+If the Secretary determines that any amount of any State's allotment under subsection (a) of this section for any fiscal year will not be required for such fiscal year for carrying out the activities for which such amount has been allotted, the Secretary shall make such amount available for reallotment. Any such reallotment among other States shall occur on such dates during the same year as the Secretary shall fix, and shall be made on the basis of criteria established by regulation. No funds may be reallotted for any use other than the use for which the funds were appropriated. Any amount reallotted to a State under this subsection for any fiscal year shall remain available for obligation during the succeeding fiscal year and shall be deemed to be part of the State's allotment for the year in which the amount is obligated.
 
 #### (c) Allotment ratio
 
@@ -100,7 +100,7 @@ If the Secretary determines that any amount of any State's allotment under subse
 
 For the purpose of this section, the term “State” means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and the United States Virgin Islands.
 
-(Pub. L. 88–210, title I, §111, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3083.)
+(Pub. L. 88–210, title I, §111, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3083; amended Pub. L. 106–246, div. B, title II, §2403(b), July 13, 2000, 114 Stat. 555.)
 
 #### References in Text
 
@@ -111,6 +111,10 @@ Section 101 and part A of title I of the Carl D. Perkins Vocational and Applied 
 Provisions similar to this section were contained in section 2311 of this title, prior to the general amendment of this chapter by Pub. L. 105–332.
 
 A prior section 2321, Pub. L. 88–210, title I, §111, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2441; amended Pub. L. 101–392, title I, §111, Sept. 25, 1990, 104 Stat. 763; Pub. L. 103–382, title III, §391(s)(1), Oct. 20, 1994, 108 Stat. 4024, related to State administration, prior to the general amendment of this chapter by Pub. L. 105–332. See section 2341 of this title.
+
+#### Amendments
+
+2000—Subsec. (a)(1)(C). Pub. L. 106–246 substituted “fiscal years 2001” for “fiscal years 2000”.
 
 #### Section Referred to in Other Sections
 

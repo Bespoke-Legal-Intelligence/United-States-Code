@@ -18,7 +18,3 @@ Nothing in this section shall be deemed to permit the Administrator to use any l
 
 The Federal Property and Administrative Services Act of 1949, as amended, referred to in subsecs. (a) and (b), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Provisions of that act relating to disposal of government property are classified to chapter 10 (§471 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 471 of this title and Tables.
 
-#### Cross References
-
-Design and construction of public buildings to accommodate the physically handicapped, see section 4151 et seq. of Title 42, The Public Health and Welfare.
-

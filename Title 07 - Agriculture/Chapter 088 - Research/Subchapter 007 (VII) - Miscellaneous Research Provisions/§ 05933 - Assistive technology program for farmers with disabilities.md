@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(D) provide specialized education programs to enhance the professional competencies of rural agricultural professionals, rehabilitation and health care providers, vocational counselors, and other providers of service to individuals with disabilities, and their families, who engage in farming or farm-related occupations; and
 
-&emsp;&emsp;(E) mobilize rural volunteer resources, including peer counseling among farmers with disabilities and rural ingenuity networks promoting cost effective methods or accommodating disabilities in farming and farm-related activities.
+&emsp;&emsp;(E) mobilize rural volunteer resources, including peer counseling among farmers withdisabilities and rural ingenuity networks promoting cost effective methods or accommodating disabilities in farming and farm-related activities.
 
 #### (4) Extension Service agencies
 

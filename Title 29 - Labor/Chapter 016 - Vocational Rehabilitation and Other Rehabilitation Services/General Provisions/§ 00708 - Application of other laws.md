@@ -6,7 +6,7 @@ The provisions of chapter 71 of title 31 and of title V of the Act of October 15
 
 #### References in Text
 
-Act of October 15, 1977, referred to in text, is Pub. L. 95–134, Oct. 15, 1977, 91 Stat. 1159, as amended, popularlyknown as the Omnibus Territories Act of 1977. Title V of the Act enacted section 4368b of Title 42, The Public Health and Welfare, and section 1469a of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
+Act of October 15, 1977, referred to in text, is Pub. L. 95–134, Oct. 15, 1977, 91 Stat. 1159, as amended, popularly known as the Omnibus Territories Act of 1977. Title V of the Act enacted section 4368b of Title 42, The Public Health and Welfare, and section 1469a of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 

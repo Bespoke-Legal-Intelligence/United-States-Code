@@ -34,7 +34,3 @@ Historical and Revision Notes
 
 Aug. 7, 1947, ch. 512, §502(a) (last 24 words), 61 Stat. 884.
 
-#### Cross References
-
-Rank, see section 741 of this title.
-

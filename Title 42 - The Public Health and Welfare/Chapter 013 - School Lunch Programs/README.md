@@ -59,6 +59,7 @@
 | (m) | Food and nutrition projects. |
 | (n) | Buy American. |
 | (<i>o</i>) | Procurement contracts. |
+| (p) | Grant for demonstration project. |
 | [1761\.](%C2%A7%2001761%20-%20Summer%20food%20service%20programs%20for%20children%20in%20service%20institutions.md) | Summer food service programs for children in service institutions. |
 | (a) | Assistance to States; definitions; facilities to be used; eligible service institutions; order of priority in participation; assistance to rural area eligible service institutions to participate in the programs; reimbursement of camps, limitations, local, municipal and county institutions to be run by government; eligible private nonprofit organizations. |
 | (b) | Service institutions. |
@@ -89,12 +90,12 @@
 | 1763, 1764. Repealed. |  |
 | [1765\.](%C2%A7%2001765%20-%20Election%20to%20receive%20cash%20payments.md) | Election to receive cash payments. |
 | [1766\.](%C2%A7%2001766%20-%20Child%20and%20adult%20care%20food%20program.md) | Child and adult care food program. |
-| (a) | Grants-in-aid; “institution” defined; guidelines for institutions providing care to children outside of school hours; eligibility. |
+| (a) | Grant authority and institution eligibility. |
 | (b) | Limitations on cash assistance. |
 | (c) | Formula for computation of payments; national average payment rate. |
-| (d) | Requirements for approval; notification; reapplication. |
+| (d) | Institution approval and applications. |
 | (e) | Hearing. |
-| (f) | State disbursement to institutions. |
+| (f) | State disbursements to institutions. |
 | (g) | Meals served by participating institutions; compliance assistance. |
 | (h) | Donation of agricultural commodities by Secretary; measurement of value; annual readjustment of assistance; cash in lieu of commodities; Department of Defense child care feeding program. |
 | (i) | Availability of money for audits. |
@@ -121,6 +122,7 @@
 | (c) | Alternative counting and claiming procedures. |
 | (d) | Fortified fluid milk. |
 | (e) | Breakfast pilot projects. |
+| (f) | Summer food pilot projects. |
 | [1769a.](%C2%A7%2001769a%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93193%2C%20title%20VII%2C%20%C2%A7710%2C%20Aug.%2022%2C%201996%2C%20110%20Stat.%202301.md) | Repealed. |
 | [1769b.](%C2%A7%2001769b%20-%20Department%20of%20Defense%20overseas%20dependents%E2%80%99%20schools.md) | Department of Defense overseas dependents’ schools. |
 | (a) | Purpose of program; availability of payments and commodities. |
@@ -162,7 +164,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1633, 1643, 1772, 1776, 1776a, 1776b, 1779, 1782, 1785, 9858m of this title; title 7 sections 1431c, 4004; title 8 sections 1255a, 1613, 1615, 1632; title 20 sections 1070a–22, 1070a–24, 1070a–26, 6313; title 26 section 1397E; title 31 section 3803; title 40 section 474; title 48 section 1666.
+This chapter is referred to in sections 1633, 1643, 1772, 1776, 1776a, 1776b, 1779, 1782, 1785, 9858m, 9859c of this title; title 7 sections 1431c, 4004; title 8 sections 1255a, 1613, 1615, 1632; title 20 sections 1070a–22, 1070a–24, 1070a–26, 6313; title 26 section 1397E; title 31 section 3803; title 40 section 474; title 48 section 1666.
 
 
 ---

@@ -14,7 +14,7 @@ Except with the prior approval of the Board under section 1865(b) of this title 
 
 #### (c) Performance where State bank is shareholder or member
 
-A bank service company in which a State bank is a shareholder or member shall perform only those services that such State bank shareholder or member is authorized to performunder the law of the State in which such State bank operates and shall perform such services only at locations in the State in which such State bank shareholder or member could be authorized to perform such services.
+A bank service company in which a State bank is a shareholder or member shall perform only those services that such State bank shareholder or member is authorized to perform under the law of the State in which such State bank operates and shall perform such services only at locations in the State in which such State bank shareholder or member could be authorized to perform such services.
 
 #### (d) Performance where national bank is shareholder or member
 
@@ -28,7 +28,7 @@ A bank service company that has both national bank and State bank shareholders o
 
 Notwithstanding the other provisions of this section or any other provision of law, other than the provisions of Federal and State branching law regulating the geographic location of banks to the extent that those laws are applicable to an activity authorized by this subsection, a bank service company may perform at any geographic location any service, other than deposit taking, that the Board has determined, by regulation, to be permissible for a bank holding company under section 1843(c)(8) of this title as of the day before November 12, 1999.
 
-(Pub. L. 87–856, §4, Oct. 23, 1962, 76 Stat. 1132; Pub. L. 97–320, title VII, §709, Oct. 15, 1982, 96 Stat. 1542; Pub. L. 97–457, §32(b)(2), Jan. 12, 1983, 96 Stat. 2511; Pub. L. 104–208, div. A, title II, §2613(e), Sept. 30, 1996, 110 Stat. 3009–477; Pub. L. 106–102, title I, §102(b)(2), Nov. 12, 1999, 113 Stat. 1342.)
+(Pub. L. 87–856, §4, Oct. 23, 1962, 76 Stat. 1132; Pub. L. 97–320, title VII, §709, Oct. 15, 1982, 96Stat. 1542; Pub. L. 97–457, §32(b)(2), Jan. 12, 1983, 96 Stat. 2511; Pub. L. 104–208, div. A, title II, §2613(e), Sept. 30, 1996, 110 Stat. 3009–477; Pub. L. 106–102, title I, §102(b)(2), Nov. 12, 1999, 113 Stat. 1342.)
 
 #### Amendments
 

@@ -26,7 +26,7 @@ The toxic chemical source reduction and recycling report required under subsecti
 
 &emsp;(5) A ratio of production in the reporting year to production in the previous year. The ratio should be calculated to most closely reflect all activities involving the toxic chemical. In specific industrial classifications subject to this section, where a feedstock or some variable other than production is the primary influence on waste characteristics or volumes, the report may provide an index based on that primary variable for each toxic chemical. The Administrator is encouraged to develop production indexes to accommodate individual industries for use on a voluntary basis.
 
-&emsp;(6) The techniques which were used to identify source reduction opportunities. Techniques listed should include, but are not limited to, employee recommendations, external and internal audits, participative team management, and material balance audits. Each type of source reduction listed under paragraph (3) should be associated with the techniques or multiples of techniques used to identify the source reduction technique.
+&emsp;(6) The techniques which were used to identify source reduction opportunities. Techniques listed should include, but are not limited to, employee recommendations, external and internal audits, participative team management, and material balance audits. Eachtype of source reduction listed under paragraph (3) should be associated with the techniques or multiples of techniques used to identify the source reduction technique.
 
 &emsp;(7) The amount of any toxic chemical released into the environment which resulted from a catastrophic event, remedial action, or other one-time event, and is not associated with production processes during the reporting year.
 

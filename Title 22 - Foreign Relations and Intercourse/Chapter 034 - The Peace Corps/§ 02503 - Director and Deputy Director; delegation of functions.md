@@ -2,7 +2,7 @@
 
 #### (a) Appointment
 
-The President may appoint, by and with the advice and consent of the Senate, a Director of the Peace Corps and a Deputy Director of the Peace Corps.
+The President may appoint, by and with the advice and consent of the Senate, a Director ofthe Peace Corps and a Deputy Director of the Peace Corps.
 
 #### (b) Exercise of functions by Director
 
@@ -38,7 +38,7 @@ This chapter, referred to in subsecs. (b) and (c), was in the original “this A
 
 #### Effective Date of 1964 Amendment
 
-Amendment by Pub. L. 88–426 effective on first day of first pay period which begins on or after July 1, 1964,except to extent provided in section 501(c) of Pub. L. 88–426, see section 501 of Pub. L. 88–426.
+Amendment by Pub. L. 88–426 effective on first day of first pay period which begins on or after July 1, 1964, except to extent provided in section 501(c) of Pub. L. 88–426, see section 501 of Pub. L. 88–426.
 
 #### Transfer of Functions
 
@@ -51,8 +51,4 @@ Functions of President under subsecs. (c)(1), (4), (d) delegated to Director of 
 #### Continuing Functions of Director of Peace Corps From December 14, 1981
 
 Section 601(d)(2) of Pub. L. 97–113 provided: “The Director of the Peace Corps shall continue to exercise all the functions under the Peace Corps Act \[this chapter\] or any other law or authority which the Director was performing on December 14, 1981.”
-
-#### Cross References
-
-Compensation of Director and Deputy Director of Peace Corps, see sections 5314 and 5315 of Title 5, Government Organization and Employees.
 

@@ -10,15 +10,21 @@ The Commission shall cooperate with the Department of Agriculture and any other 
 
 #### (c) Furnishing of information; confidentiality
 
-The Department of Agriculture and any other Department or Federal agency which has market information sought by the Commission shall furnish it to the Commission upon the request of any authorized employee of the Commission. The Commission shall abide by any rules of confidentiality applying to such information.
+The Department of Agriculture and any other Department or Federal agency which has market information sought by the Commission shall furnish it to the Commission upon the request of any authorized employee of the Commission.The Commission shall abide by any rules of confidentiality applying to such information.
 
 #### (d) Disclosure of business transactions, market positions, trade secrets, or names of customers
 
 The Commission shall not disclose in such reports data and information which would separately disclose the business transactions or market positions of any person and trade secrets or names of customers except as provided in section 12 of this title.
 
-(Sept. 21, 1922, ch. 369, §16, as added Pub. L. 93–463, title IV, §414, Oct. 23, 1974, 88 Stat. 1414; amended Pub. L. 97–444, title II, §232, Jan. 11, 1983, 96 Stat. 2320.)
+#### (e) Application
+
+This section shall not apply to investigations involving any security underlying a security futures product.
+
+(Sept. 21, 1922, ch. 369, §16, as added Pub. L. 93–463, title IV, §414, Oct. 23, 1974, 88 Stat. 1414; amended Pub. L. 97–444, title II, §232, Jan. 11, 1983, 96 Stat. 2320; Pub. L. 106–554, §1(a)(5) \[title II, §251(e)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–443.)
 
 #### Amendments
+
+2000—Subsec. (e). Pub. L. 106–554 added subsec. (e).
 
 1983—Subsec. (d). Pub. L. 97–444 prohibited disclosure of market positions.
 
@@ -64,7 +70,7 @@ Reports.—
 
 &emsp;“(1)
 
-Preliminary report.—Not later than January 15, 1987, the Comptroller General shall submit a preliminary report on the results of the study required under subsection (a) to the Committee on Agriculture of the House of Representatives and the Committeeon Agriculture, Nutrition, and Forestry of the Senate.
+Preliminary report.—Not later than January 15, 1987, the Comptroller General shall submit a preliminary report on the results of the study required under subsection (a) to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate.
 
 &emsp;“(2)
 
@@ -73,4 +79,8 @@ Final report.—Not later than 1 year after the date of enactment of this Act \[
 #### Potato Futures Study; Submission of Report to Congress
 
 Pub. L. 95–405, §27, Sept. 30, 1978, 92 Stat. 877, required, within one year of Oct. 1, 1978, Secretary of Agriculture to (1) conduct a comprehensive study of marketing of Irish potatoes and of making and trading of contracts of sale for future delivery of Irish potatoes, including rules and regulations pertaining to such trading issued by Commodity Futures Trading Commission or any contract market designated by Commission; and (2) submit to each House of Congress a detailed report on results of such study, and that report should also include any proposals Secretary may have concerning any legislation needed to implement such recommendations and concerning any modifications and rules and regulations needed to improve regulation of such contracts by Commission or any contract market designated by Commission.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 6f, 6k, 7b–1 of this title.
 

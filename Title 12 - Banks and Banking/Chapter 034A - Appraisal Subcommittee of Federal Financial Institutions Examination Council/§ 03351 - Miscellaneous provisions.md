@@ -26,7 +26,7 @@ Funds available to the Federal financial institutions regulatory agencies may be
 
 #### (d) Prohibition against discrimination
 
-Criteria established by the Federal financial institutions regulatory agencies, the FederalNational Mortgage Association, the Federal Home Loan Mortgage Corporation, and the Resolution Trust Corporation for appraiser qualifications in addition to State certification or licensing shall not exclude a certified or licensed appraiser for consideration for an assignment solely by virtue of membership or lack of membership in any particular appraisal organization.
+Criteria established by the Federal financial institutions regulatory agencies, the Federal National Mortgage Association, the Federal Home Loan Mortgage Corporation, and the Resolution Trust Corporation for appraiser qualifications in addition to State certification or licensing shall not exclude a certified or licensed appraiser for consideration for an assignment solely by virtue of membership or lack of membership in any particular appraisal organization.
 
 #### (e) Other requirements
 

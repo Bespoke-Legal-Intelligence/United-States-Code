@@ -22,7 +22,7 @@ The Secretary, in consultation with the Bureau of the Census of the Department o
 
 #### References in Text
 
-Public Law 101–301, referred to in subsec. (b), is Pub. L. 101–301, May 24, 1990, 104 Stat. 206. Section 11 of Pub. L. 101–301, which authorized feasibility study for the establishment of a National Center for Native American Studies and Policy Development, is not classified to the Code. For complete classification of this Act to the Code, see Tables.
+Public Law 101–301, referred to in subsec. (b), is Pub. L. 101–301, May 24, 1990, 104 Stat. 206. Section 11 of Pub.L. 101–301, which authorized feasibility study for the establishment of a National Center for Native American Studies and Policy Development, is not classified to the Code. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 

@@ -12,11 +12,13 @@
 
 (c) The special medical advisory group shall meet on a regular basis as prescribed by the Secretary. The number, terms of service, pay, and allowances of members of the advisory group shall be prescribed in accordance with existing law and regulations.
 
-(d) Not later than February 1 of each year, the special medical advisory group shall submit to the Secretary and the Congress a report on the activities of the advisory group during the preceding fiscal year.
+(d) Not later than February 1 of each year, the special medical advisory group shall submit to the Secretary and the Congress a report on the activities of the advisory group during the preceding fiscal year. No report shall be required under this subsection after December 31, 2004.
 
-(Added Pub. L. 102–40, title IV, §401(a)(3), May 7, 1991, 105 Stat. 215; amended Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–446, title XII, §1201(e)(20), Nov. 2, 1994, 108 Stat. 4686.)
+(Added Pub. L. 102–40, title IV, §401(a)(3), May 7, 1991, 105 Stat. 215; amended Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–446, title XII, §1201(e)(20), Nov. 2, 1994, 108 Stat. 4686; Pub. L. 106–419, title IV, §403(c)(5), Nov. 1, 2000, 114 Stat. 1864.)
 
 #### Amendments
+
+2000—Subsec. (d). Pub. L. 106–419 inserted at end “No report shall be required under this subsection after December 31, 2004.”
 
 1994—Subsec. (d). Pub. L. 103–446 substituted “the activities of the advisory group” for “the advisory groups activities”.
 

@@ -60,10 +60,6 @@ In subsection (b), the words “and a part of a year that is less than six month
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
 
-#### Cross References
-
-Pension to persons serving ten years, see section 6160 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1203, 1206 of this title; title 38 section 1161.

@@ -20,15 +20,17 @@ The Board shall be comprised of—
 
 &emsp;(1) the Secretary, or the Secretary's designee;
 
-&emsp;(2) 6 members appointed by the Secretary who shall represent appropriate Federal, State, and local agencies, State and local historic preservation commissions, and other public and international organizations,<sup>1</sup> and
+&emsp;(2) 6 members appointed by the Secretary who shall represent appropriate Federal, State, and local agencies, State and local historic preservation commissions, and other public and international organizations; and
 
 &emsp;(3) 6 members appointed by the Secretary on the basis of outstanding professional qualifications who represent major organizations in the fields of archaeology, architecture, conservation, curation, engineering, history, historic preservation, landscape architecture, planning, or preservation education.
 
-(Pub. L. 89–665, title IV, §404, as added Pub. L. 102–575, title XL, §4022, Oct. 30, 1992, 106 Stat. 4766.)
+(Pub. L. 89–665, title IV, §404, as added Pub. L. 102–575, title XL, §4022, Oct. 30, 1992, 106 Stat. 4766; amended Pub. L. 106–208, §5(a)(14), May 26, 2000, 114 Stat. 319.)
+
+#### Amendments
+
+2000—Subsec. (c)(2). Pub. L. 106–208 substituted a semicolon for a comma after “organizations”.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in section 470x–1 of this title.
-
-<i><sup>1</sup></i><i> So in original. The comma probably should be a semicolon.</i>
 

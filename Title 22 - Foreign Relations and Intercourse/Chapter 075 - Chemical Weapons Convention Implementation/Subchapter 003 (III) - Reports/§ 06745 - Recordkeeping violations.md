@@ -6,7 +6,7 @@ It shall be unlawful for any person willfully to fail or refuse—
 
 &emsp;(2) to submit any report, notice, or other information to the United States Government in accordance with this chapter or any regulation prescribed under this chapter; or
 
-&emsp;(3) to permit access to or copying of any record that is exempt from disclosure under this chapter or any regulation prescribed under this chapter.
+&emsp;(3) to permit access to or copying of any record that is exempt from disclosure underthis chapter or any regulation prescribed under this chapter.
 
 (Pub. L. 105–277, div. I, title IV, §405, Oct. 21, 1998, 112 Stat. 2681–883.)
 

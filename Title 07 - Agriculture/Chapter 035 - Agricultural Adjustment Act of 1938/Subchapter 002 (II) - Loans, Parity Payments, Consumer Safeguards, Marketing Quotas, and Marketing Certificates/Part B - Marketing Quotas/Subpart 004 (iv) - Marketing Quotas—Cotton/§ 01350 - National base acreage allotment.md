@@ -48,7 +48,7 @@ A prior section 1350, act Feb. 16, 1938, ch. 30, title III, §350, 52 Stat. 60, 
 
 #### Amendments
 
-1973—Subsec. (a). Pub. L. 93–86, §1(19)(A), (D), (E), substituted “1971 through 1977” for “1971, 1972, and1973” and “1972 through 1977” for “1972 and 1973” and inserted requirement that the national base acreage allotment for the 1974 through 1977 crops shall not be less than eleven million acres.
+1973—Subsec. (a). Pub. L. 93–86, §1(19)(A), (D), (E), substituted “1971 through 1977” for “1971, 1972, and 1973” and “1972 through 1977” for “1972 and 1973” and inserted requirement that the national base acreage allotment for the 1974 through 1977 crops shall not be less than eleven million acres.
 
 Subsec. (e)(2). Pub. L. 93–86, §1(19)(F), substituted “soybeans, wheat, feed grains, guar, castor beans, triticale, oats, rye or such other crops as the Secretary may deem appropriate” for “soybeans, wheat or feed grains”.
 

@@ -10,7 +10,7 @@ It is the purpose of this subpart to make incentive grants available to States t
 
 &emsp;&emsp;(B) eligible students for campus-based community service work-study; and
 
-&emsp;(2) carrying out the activities described in section 1070c–4 of this title.
+&emsp;(2) carrying out the activities described in section 1070c–3a of this title.
 
 #### (b) Authorization of appropriations; availability
 
@@ -26,13 +26,15 @@ It is the purpose of this subpart to make incentive grants available to States t
 
 &emsp;Sums appropriated pursuant to the authority of paragraph (1) for any fiscal year shall remain available for payments to States under this subpart until the end of the fiscal year succeeding the fiscal year for which such sums were appropriated.
 
-(Pub. L. 89–329, title IV, §415A, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat. 1332; amended Pub. L. 102–325, title IV, §404(a), July 23, 1992, 106 Stat. 506; Pub. L. 105–244, title IV, §407(b), (c)(1), Oct. 7, 1998, 112 Stat. 1666, 1667.)
+(Pub. L. 89–329, title IV, §415A, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat. 1332; amended Pub. L. 102–325, title IV, §404(a), July 23, 1992, 106 Stat. 506; Pub. L. 105–244, title IV, §407(b), (c)(1), Oct. 7, 1998, 112 Stat. 1666, 1667; Pub. L. 106–554, §1(a)(1) \[title III, §316(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–47.)
 
 #### Prior Provisions
 
 A prior section 1070c, Pub. L. 89–329, title IV, §415A, as added Pub. L. 92–318, title I §131(b)(1), June 23, 1972, 86 Stat. 255; amended Pub. L. 94–482, title I, §123(a), (c)(1), Oct. 12, 1976, 90 Stat. 2094; Pub. L. 95–43, §1(b)(3), June 15, 1977, 91 Stat. 218; Pub. L. 96–49, §5(a)(4), Aug. 13, 1979, 93 Stat. 352; Pub. L. 96–374, title IV, §404(a), Oct. 3, 1980, 94 Stat. 1406, related to purpose and authorization of appropriations for grants to States for State student incentives, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
+
+2000—Subsec. (a)(2). Pub. L. 106–554, which directed amendment of section 415 of the Higher Education Act of 1965 in section 415A(a)(2) by substituting “section 1070c–3a of this title” for “section 1070c–4 of this title”, was executed by making the substitution in subsec. (a)(2) of this section, which is section 415A of the Higher Education Act of 1965, to reflect the probable intent of Congress.
 
 1998—Subsec. (a). Pub. L. 105–244, §407(c)(1), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “It is the purpose of this subpart to make incentive grants available to States to assist States in providing grants to—
 

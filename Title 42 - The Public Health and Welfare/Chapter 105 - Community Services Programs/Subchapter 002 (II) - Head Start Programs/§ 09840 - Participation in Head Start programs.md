@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(ii) a child who has been determined to meet the low-income criteria and who is participating in a Head Start program in a program year shall be considered to continue to meet the low-income criteria through the end of the succeeding program year.
 
-> In determining, for purposes of this paragraph, whether a child who has applied for enrollmentin a Head Start program meets the low-income criteria, an entity may consider evidence of family income during the 12 months preceding the month in which the application is submitted, or during the calendar year preceding the calendar year in which the application is submitted, whichever more accurately reflects the needs of the family at the time of application.
+> In determining, for purposes of this paragraph, whether a child who has applied for enrollment in a Head Start program meets the low-income criteria, an entity may consider evidence of family income during the 12 months preceding the month in which the application is submitted, or during the calendar year preceding the calendar year in which the application is submitted, whichever more accurately reflects the needs of the family at the time of application.
 
 (2) Whenever a Head Start program is operated in a community with a population of 1,000 or less individuals and—
 
@@ -24,7 +24,7 @@
 
 &emsp;(D) not less than 50 percent of the families to be served in the community are eligible under the eligibility criteria established by the Secretary under paragraph (1);
 
-> the Head Start program in each such locality shall establish the criteria for eligibility, except that no child residing in such community whose family is eligible under such eligibility criteria shall, by virtue of such project's eligibility criteria, be denied an opportunity to participate in such program. During the period beginning on October 30, 1984, and ending on October 1, 1994, and unless specifically authorized in any statute of the United States enacted after October 30, 1984, the Secretary may not make any change in the method, as in effect on April 25, 1984, of calculating income used to prescribe eligibility for the participation of persons in the Head Start programs assisted under this subchapter if such change would result in any reduction in, or exclusion from, participation of persons in any of such programs.
+> the Head Start program in each such locality shall establish the criteria for eligibility, except that no child residing in such community whose family is eligible under such eligibility criteria shall, by virtue of such project's eligibility criteria, be denied an opportunity to participate in such program. During the period beginning on October 30, 1984, and ending on October 1, 1994, and unless specifically authorized in any statute of the United States enacted after October 30, 1984, the Secretary may not make any change in the method, as in effect on April 25, 1984, of calculating income used to prescribe eligibility for the participation of persons in the Head Start programs assisted under this subchapter if suchchange would result in any reduction in, or exclusion from, participation of persons in any of such programs.
 
 #### (b) Establishment of fee schedule or charging of fees; payment by families willing and able to pay
 
@@ -78,7 +78,7 @@ Subsec. (c). Pub. L. 101–501, §114, inserted at end “The Secretary may not 
 
 1986—Subsec. (a)(2). Pub. L. 99–425 substituted “1990” for “1986” in closing provisions.
 
-1984—Subsec. (a)(2). Pub. L. 98–558, §105(a), inserted at end “During the period beginning on October 30, 1984, and ending on October 1, 1986, and unless specifically authorized in any statute of the United States enacted after October 30, 1984, the Secretary may not make any change in the method, as in effect on April 25, 1984, of calculating income used to prescribe eligibility for the participation of persons in the Head Start programs assisted under this subchapter if such change would result in any reduction in, or exclusion from, participation of persons in any of such programs.”
+1984—Subsec. (a)(2). Pub. L. 98–558, §105(a), inserted at end “During the period beginning on October 30, 1984,and ending on October 1, 1986, and unless specifically authorized in any statute of the United States enacted after October 30, 1984, the Secretary may not make any change in the method, as in effect on April 25, 1984, of calculating income used to prescribe eligibility for the participation of persons in the Head Start programs assisted under this subchapter if such change would result in any reduction in, or exclusion from, participation of persons in any of such programs.”
 
 Subsec. (c). Pub. L. 98–558, §105(b), added subsec. (c).
 

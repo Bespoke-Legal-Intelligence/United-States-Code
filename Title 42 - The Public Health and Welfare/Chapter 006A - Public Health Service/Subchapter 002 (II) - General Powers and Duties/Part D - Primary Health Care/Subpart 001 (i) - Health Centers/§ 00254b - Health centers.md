@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;For purposes of this section, the term “health center” means an entity that serves a population that is medically underserved, or a special medically underserved population comprised of migratory and seasonal agriculturalworkers, the homeless, and residents of public housing, by providing, either through the staff and supporting resources of the center or through contracts or cooperative arrangements—
+&emsp;For purposes of this section, the term “health center” means an entity that serves a population that is medically underserved, or a special medically underserved population comprised of migratory and seasonal agricultural workers, the homeless, and residents of public housing, by providing, either through the staff and supporting resources of the center or through contracts or cooperative arrangements—
 
 &emsp;&emsp;(A) required primary health services (as defined in subsection (b)(1) of this section); and
 
@@ -100,7 +100,7 @@ For purposes of this section:
 
 #### (A) In general
 
-&emsp;&emsp;The term “medically underserved population” means the population of an urban or rural area designated by the Secretary as an area with a shortage of personal health services or a population group designated by theSecretary as having a shortage of such services.
+&emsp;&emsp;The term “medically underserved population” means the population of an urban or rural area designated by the Secretary as an area with a shortage of personal health services or a population group designated by the Secretary as having a shortage of such services.
 
 #### (B) Criteria
 
@@ -162,7 +162,7 @@ For purposes of this section:
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall establish a program under which the Secretary may, in accordance with this subsection and to the extent that appropriations are provided in advance for such program, guarantee the principal and interest on loans made by non-Federal lenders to health centers funded under thissection for the costs of developing and operating managed care networks or plans.
+&emsp;&emsp;The Secretary shall establish a program under which the Secretary may, in accordance with this subsection and to the extent that appropriations are provided in advance for such program, guarantee the principal and interest on loans made by non-Federal lenders to health centers funded under this section for the costs of developing and operating managed care networks or plans.
 
 #### (B) Use of funds
 
@@ -222,13 +222,13 @@ For purposes of this section:
 
 #### (C) Waiver
 
-&emsp;&emsp;The Secretary may waive the loan origination fee for a health center applicant who demonstrates to the Secretary that the applicant will be unable to meet the conditions of the loan if the applicant incurs the additional cost of the fee.
+&emsp;&emsp;The Secretary may waive the loan origination fee for a health center applicant whodemonstrates to the Secretary that the applicant will be unable to meet the conditions of the loan if the applicant incurs the additional cost of the fee.
 
 #### (4) Defaults
 
 #### (A) In general
 
-&emsp;&emsp;Subject to the requirements of the Credit Reform Act of 1990 (2 U.S.C. 661 et seq.), theSecretary may take such action as may be necessary to prevent a default on a loan guaranteed under this subsection, including the waiver of regulatory conditions, deferral of loan payments, renegotiation of loans, and the expenditure of funds for technical and consultative assistance, for the temporary payment of the interest and principal on such a loan, and for other purposes. Any such expenditure made under the preceding sentence on behalf of a health center or centers shall be made under such terms and conditions as the Secretary shall prescribe, including the implementation of such organizational, operational, and financial reforms as the Secretary determines are appropriate and the disclosure of such financial or other information as the Secretary may require to determine the extent of the implementation of such reforms.
+&emsp;&emsp;Subject to the requirements of the Credit Reform Act of 1990 (2 U.S.C. 661 et seq.), the Secretary may take such action as may be necessary to prevent a default on a loan guaranteed under this subsection, including the waiver of regulatory conditions, deferral of loan payments, renegotiation of loans, and the expenditure of funds for technical and consultative assistance, for the temporary payment of the interest and principal on such a loan, and for other purposes. Any such expenditure made under the preceding sentence on behalf of a health center or centers shall be made under such terms and conditions as the Secretary shall prescribe, including the implementation of such organizational, operational, and financial reforms as the Secretary determines are appropriate and the disclosure of such financial or other information as the Secretary may require to determine the extent of the implementation of such reforms.
 
 #### (B) Foreclosure
 
@@ -296,7 +296,7 @@ For purposes of this section:
 
 #### (C) Use of nongrant funds
 
-&emsp;&emsp;Nongrant funds described in clauses (i) and (ii) of subparagraph (A), including any suchfunds in excess of those originally expected, shall be used as permitted under this section, and may be used for such other purposes as are not specifically prohibited under this section if such use furthers the objectives of the project.
+&emsp;&emsp;Nongrant funds described in clauses (i) and (ii) of subparagraph (A), including any such funds in excess of those originally expected, shall be used as permitted under this section, and may be used for such other purposes as are not specifically prohibited under this section if such use furthers the objectives of the project.
 
 #### (f) Infant mortality grants
 
@@ -450,7 +450,7 @@ For purposes of this section:
 
 &emsp;&emsp;(E) the center—
 
-&emsp;&emsp;&emsp;(i) has or will have a contractual or other arrangement with the agency of the State, in which it provides services, whichadministers or supervises the administration of a State plan approved under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] for the payment of all or a part of the center's costs in providing health services to persons who are eligible for medical assistance under such a State plan; or
+&emsp;&emsp;&emsp;(i) has or will have a contractual or other arrangement with the agency of the State, in which it provides services, which administers or supervises the administration of a State plan approved under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] for the payment of all or a part of the center's costs in providing health services to persons who are eligible for medical assistance under such a State plan; or
 
 &emsp;&emsp;&emsp;(ii) has made or will make every reasonable effort to enter into such an arrangement;
 
@@ -568,7 +568,7 @@ In carrying out this section, the Secretary may enter into a memorandum of agree
 
 #### (1) In general
 
-&emsp;Each entity which receives a grant under subsection (e) of this section shall establishand maintain such records as the Secretary shall require.
+&emsp;Each entity which receives a grant under subsection (e) of this section shall establish and maintain such records as the Secretary shall require.
 
 #### (2) Availability
 
@@ -616,7 +616,7 @@ The Credit Reform Act of 1990, referred to in subsec. (d)(4)(A), probably means 
 
 The Social Security Act, referred to in subsec. (j)(3)(E)(i), (F), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.) of chapter 7 of this title, respectively. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
-The Indian Self-Determination Act, referred to in subsec. (j)(3)(H), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
+The Indian Self-Determination Act, referred to in subsec. (j)(3)(H), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of Title 25, Indians. For complete classification of thisAct to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
 
 The Indian Health Care Improvement Act, referred to in subsec. (j)(3)(H), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, as amended, which is classified principally to chapter 18 (§1601 et seq.) of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 25 and Tables.
 
@@ -656,7 +656,7 @@ Section 4(e) of Pub. L. 104–299 provided that: “After consultation with the 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 256c, 297q, 1396d, 1397ee of this title; title 29 section 774.
+This section is referred to in sections 247b–3a, 254c–6, 254c–8, 254c–9, 256c, 290bb–37, 297q, 299a–1, 1396d, 1397ee of this title; title 29 section 774.
 
 <i><sup>1</sup></i><i> So in original. Probably should be subsection “(j)(3)(H)(ii)”.</i>
 

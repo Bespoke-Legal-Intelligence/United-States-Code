@@ -20,7 +20,7 @@
 
 &emsp;&emsp;&emsp;(i) 75 percent of the expenditures by the State for services to children and families in accordance with the application and the expenditure rules of section 629b(a)(4) of this title; or
 
-&emsp;&emsp;&emsp;(ii) the allotment of the State under section 629c of this title for fiscal year 1994, reduced by any amount paid to the State pursuant to subparagraph (A) of this paragraph.
+&emsp;&emsp;&emsp;(ii) the allotment of the State under section 629c of this title for fiscal year 1994,reduced by any amount paid to the State pursuant to subparagraph (A) of this paragraph.
 
 #### (b) Prohibitions
 

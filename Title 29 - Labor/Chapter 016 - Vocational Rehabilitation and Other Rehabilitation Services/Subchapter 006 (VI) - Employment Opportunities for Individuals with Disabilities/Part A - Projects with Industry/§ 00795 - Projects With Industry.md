@@ -58,7 +58,7 @@ No payment shall be made by the Commissioner under any agreement with a grant re
 
 &emsp;(1) provides an assurance that individuals with disabilities placed under such agreement shall receive at least the applicable minimum wage;
 
-&emsp;(2) provides an assurance that any individual with a disability placed under this part shallbe afforded terms and benefits of employment equal to terms and benefits that are afforded to the similarly situated nondisabled co-workers of the individual, and that such individuals with disabilities shall not be segregated from their co-workers; and
+&emsp;(2) provides an assurance that any individual with a disability placed under this part shall be afforded terms and benefits of employment equal to terms and benefits that are afforded to the similarly situated nondisabled co-workers of the individual, and that such individuals with disabilities shall not be segregated from their co-workers; and
 
 &emsp;(3) provides an assurance that an annual evaluation report containing information specified under subsection (a)(5) of this section shall be submitted as determined to be appropriate by the Commissioner.
 

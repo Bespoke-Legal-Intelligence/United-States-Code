@@ -30,7 +30,7 @@
 
 (2) A decision to terminate an investigation under subchapter II may not be considered in any action or other proceeding under this section.
 
-(3) If, based on evidence presented to it under this section, the Merit Systems Protection Board determines that there is reason to believe that a current employee may have committed aprohibited personnel practice, the Board shall refer the matter to the Special Counsel to investigate and take appropriate action under section 1215.
+(3) If, based on evidence presented to it under this section, the Merit Systems Protection Board determines that there is reason to believe that a current employee may have committed a prohibited personnel practice, the Board shall refer the matter to the Special Counsel to investigate and take appropriate action under section 1215.
 
 (g)(1)(A) If the Board orders corrective action under this section, such corrective action may include—
 
@@ -58,7 +58,7 @@
 
 1994—Subsec. (d)(1). Pub. L. 103–424, §4(a), added par. (1) and struck out former par. (1) which read as follows: “At the request of an employee, former employee, or applicant for employment seeking corrective action under subsection (a), the Board may issue a subpoena for the attendance and testimony of any person or the production of documentary or other evidence from any person if the Board finds that such subpoena is necessary for the development of relevant evidence.”
 
-Subsec. (e)(1). Pub. L. 103–424, §4(b), which directed the amendment of section 1221(e)(1), without specifying the Code title to be amended, by inserting at end “The employee may demonstrate that the disclosure was a contributing factor in the personnel action through circumstantial evidence, such as evidence that—
+Subsec. (e)(1). Pub. L. 103–424, §4(b), which directed the amendment of section 1221(e)(1), without specifyingthe Code title to be amended, by inserting at end “The employee may demonstrate that the disclosure was a contributing factor in the personnel action through circumstantial evidence, such as evidence that—
 
 &emsp;“(A) the official taking the personnel action knew of the disclosure; and
 

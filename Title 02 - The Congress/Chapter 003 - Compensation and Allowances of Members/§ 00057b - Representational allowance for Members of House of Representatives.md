@@ -30,7 +30,3 @@ A prior section 57b, Pub. L. 104–53, title III, §314, Nov. 19, 1995, 109 Stat
 
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
-#### Cross References
-
-For establishment of Members’ Representational Allowance, see Committee Order No. 41, set out as a note under section 57 of this title.
-

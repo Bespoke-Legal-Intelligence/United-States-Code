@@ -10,7 +10,7 @@
 
 (2) The remarriage of the surviving spouse of a veteran shall not bar the furnishing of benefits specified in paragraph (5) to such person as the surviving spouse of the veteran if the remarriage has been terminated by death or divorce unless the Secretary determines that the divorce was secured through fraud or collusion.
 
-(3) If the surviving spouse of a veteran ceases living with another person and holding himselfor herself out openly to the public as that person's spouse, the bar to granting that person benefits as the surviving spouse of the veteran shall not apply in the case of the benefits specified in paragraph (5).
+(3) If the surviving spouse of a veteran ceases living with another person and holding himself or herself out openly to the public as that person's spouse, the bar to granting that person benefits as the surviving spouse of the veteran shall not apply in the case of the benefits specified in paragraph (5).
 
 (4) The first month of eligibility for benefits for a surviving spouse by reason of this subsection shall be the month after—
 
@@ -92,7 +92,7 @@ Amendment by Pub. L. 90–77 effective first day of first calendar month which b
 
 #### Limitation on Payments
 
-Pub. L. 106–117, title V, §502(d), Nov. 30, 1999, 113 Stat. 1574, provided that: “No payment may be made to aperson by reason of paragraphs (2) and (3) of section 103(d) of title 38, United States Code, as added by subsection (a), for any period before the effective date specified in subsection (c) \[set out as an Effective Date of 1999 Amendment note above\].”
+Pub. L. 106–117, title V, §502(d), Nov. 30, 1999, 113 Stat. 1574, provided that: “No payment may be made to a person by reason of paragraphs (2) and (3) of section 103(d) of title 38, United States Code, as added by subsection (a), for any period before the effective date specified in subsection (c) \[set out as an Effective Date of 1999 Amendment note above\].”
 
 #### Applicability of Amendments
 

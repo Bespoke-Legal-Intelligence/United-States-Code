@@ -20,27 +20,21 @@ It shall be the duty and function of the Administration to—
 
 &emsp;(8) gather statistics in the field of aging which other Federal agencies are not collecting, and take whatever action is necessary to achieve coordination of activities carried out or assisted by all departments, agencies, and instrumentalities of the Federal Government with respect to the collection, preparation, and dissemination of information relevant to older individuals;
 
-&emsp;(9) stimulate more effective use of existing resources and available services for the aged and aging, including existing legislative protections with particular emphasis on the application of the Age Discrimination in Employment Act of 1967 \[29 U.S.C. 621 et seq.\];
+&emsp;(9) develop basic policies and set priorities with respect to the development and operation of programs and activities conducted under authority of this chapter;
 
-&emsp;(10) develop basic policies and set priorities with respect to the development and operation of programs and activities conducted under authority of this chapter;
+&emsp;(10) coordinate Federal programs and activities related to such purposes;
 
-&emsp;(11) coordinate Federal programs and activities related to such purposes;
+&emsp;(11) coordinate, and assist in, the planning and development by public (including Federal, State, and local agencies) and private organizations of programs for older individuals, with a view to the establishment of a nationwide network of comprehensive, coordinated services and opportunities for such individuals;
 
-&emsp;(12) coordinate, and assist in, the planning and development by public (including Federal, State, and local agencies) and private organizations of programs for older individuals, with a view to the establishment of a nationwide network of comprehensive, coordinated services and opportunities for such individuals;
+&emsp;(12) carry on a continuing evaluation of the programs and activities related to the objectives of this chapter, with particular attention to the impact of medicare and medicaid, the Age Discrimination in Employment Act of 1967 \[29 U.S.C. 621 et seq.\], and the programs of the National Housing Act \[12 U.S.C. 1701 et seq.\] relating to housing for older individuals and the setting of standards for the licensing of nursing homes, intermediate care homes, and other facilities providing care for such individuals;
 
-&emsp;(13) convene conferences of such authorities and officials of public (including Federal, State, and local agencies) and nonprofit private organizations concerned with the development and operation of programs for older individuals as the Assistant Secretary deems necessary or proper for the development and implementation of policies related to the objectives of this chapter;
+&emsp;(13) provide information and assistance to private organizations for the establishment and operation by them of programs and activities related to the objectives of this chapter;
 
-&emsp;(14) develop and operate programs providing services and opportunities as authorized by this chapter which are not otherwise provided by existing programs for older individuals;
+&emsp;(14) develop, in coordination with other agencies, a national plan for meeting the needs for trained personnel in the field of aging, and for training persons for carrying out programs related to the objectives of this chapter, and conduct and provide for the conducting of such training;
 
-&emsp;(15) carry on a continuing evaluation of the programs and activities related to the objectives of this chapter, with particular attention to the impact of medicare and medicaid, the Age Discrimination in Employment Act of 1967 \[29 U.S.C. 621 et seq.\], and the programs of the National Housing Act \[12 U.S.C. 1701 et seq.\] relating to housing for older individuals and the setting of standards for the licensing of nursing homes, intermediate care homes, and other facilities providing care for such individuals;
+&emsp;(15) consult with national organizations representing minority individuals to develop and disseminate training packages and to provide technical assistance efforts designed to assist State and area agencies on aging, and service providers, in providing services to older individuals with greatest economic need or individuals with greatest social need, with particular attention to and specific objectives for providing services to low-income minority individuals and older individuals residing in rural areas;
 
-&emsp;(16) provide information and assistance to private organizations for the establishment and operation by them of programs and activities related to the objectives of this chapter;
-
-&emsp;(17) develop, in coordination with other agencies, a national plan for meeting the needs for trained personnel in the field of aging, and for training persons for carrying out programs related to the objectives of this chapter, and conduct and provide for the conducting of such training;
-
-&emsp;(18) consult with national organizations representing minority individuals to develop and disseminate training packages and to provide technical assistance efforts designed to assist State and area agencies on aging, and service providers, in providing services to older individuals with greatest economic need or individuals with greatest social need, with particular attention to and specific objectives for providing services to low-income minority individuals;
-
-&emsp;(19) collect for each fiscal year, for fiscal years beginning after September 30, 1988, directly or by contract, statistical data regarding programs and activities carried out with funds provided under this chapter, including—
+&emsp;(16) collect for each fiscal year, for fiscal years beginning after September 30, 1988, directly or by contract, statistical data regarding programs and activities carried out with funds provided under this chapter, including—
 
 &emsp;&emsp;(A) with respect to each type of service or activity provided with such funds—
 
@@ -52,9 +46,9 @@ It shall be the duty and function of the Administration to—
 
 &emsp;&emsp;(B) the number of senior centers which received such funds; and
 
-&emsp;&emsp;(C) the extent to which each area agency on aging designated under section 3025(a) of this title satisfied the requirements of paragraphs (2) and (5)(A) of section 3026(a) of this title;
+&emsp;&emsp;(C) the extent to which each area agency on aging designated under section 3025(a) of this title satisfied the requirements of paragraphs (2) and (4)(A) of section 3026(a) of this title;
 
-&emsp;(20) obtain from—
+&emsp;(17) obtain from—
 
 &emsp;&emsp;(A) the Department of Agriculture information explaining the requirements for eligibility to receive benefits under the Food Stamp Act of 1977 \[7 U.S.C. 2011 et seq.\]; and
 
@@ -62,7 +56,7 @@ It shall be the duty and function of the Administration to—
 
 > &emsp;and distribute such information, in written form, to State agencies, for redistribution to area agencies on aging, to carry out outreach activities and application assistance;
 
-&emsp;(21)(A) establish and operate the National Ombudsman Resource Center (in this paragraph referred to as the “Center”), under the administration of the Director of the Office of Long-Term Care Ombudsman Programs, that will—
+&emsp;(18)(A) establish and operate the National Ombudsman Resource Center (in this paragraph referred to as the “Center”), under the administration of the Director of the Office of Long-Term Care Ombudsman Programs, that will—
 
 &emsp;&emsp;(i) by grant or contract—
 
@@ -78,39 +72,23 @@ It shall be the duty and function of the Administration to—
 
 &emsp;&emsp;(ii) assist State Long-Term Care Ombudsmen in the implementation of State Long-Term Care Ombudsman programs; and
 
-&emsp;(B) make available to the Center not less than the amount of resources made available to the Long-Term Care Ombudsman National Resource Center for fiscal year 1990;
+&emsp;(B) make available to the Center not less than the amount of resources made available to the Long-Term Care Ombudsman National Resource Center for fiscal year 2000;
 
-&emsp;(22) issue regulations, and conduct strict monitoring of State compliance with the requirements in effect, under this chapter to prohibit conflicts of interest and to maintain the integrity and public purpose of services provided and service providers, under this chapter in all contractual and commercial relationships, and include in such regulations a requirement that as a condition of being designated as an area agency on aging such agency shall—
+&emsp;(19) conduct strict monitoring of State compliance with the requirements in effect, under this chapter to prohibit conflicts of interest and to maintain the integrity and public purpose of services provided and service providers, under this chapter in all contractual and commercial relationships;
 
-&emsp;&emsp;(A) disclose to the Assistant Secretary and the State agency involved—
+&emsp;(20) encourage, and provide technical assistance to, States and area agencies on aging to carry out outreach to inform older individuals with greatest economic need who may be eligible to receive, but are not receiving, supplemental security income benefits under title XVI of the Social Security Act (42 U.S.C. 1381 et seq.) (or assistance under a State plan program under such title), medical assistance under title XIX of such Act (42 U.S.C. 1396 et seq.), and benefits under the Food Stamp Act of 1977 (7 U.S.C. 2011 et seq.), of the requirements for eligibility to receive such benefits and such assistance;
 
-&emsp;&emsp;&emsp;(i) the identity of each nongovernmental entity with which such agency has a contract or commercial relationship relating to providing any service to older individuals; and
+&emsp;(21) establish information and assistance services as priority services for older individuals, and develop and operate, either directly or through contracts, grants, or cooperative agreements, a National Eldercare Locator Service, providing information and assistance services through a nationwide toll-free number to identify community resources for older individuals;
 
-&emsp;&emsp;&emsp;(ii) the nature of such contract or such relationship;
+&emsp;(22) develop guidelines for area agencies on aging to follow in choosing and evaluating providers of legal assistance;
 
-&emsp;&emsp;(B) demonstrate that a loss or diminution in the quantity or quality of the services provided, or to be provided, under this chapter by such agency has not resulted and will not result from such contract or such relationship;
+&emsp;(23) develop guidelines and a model job description for choosing and evaluating legal assistance developers referred to in section 3027(a)(13) of this title and section 3058j of this title;
 
-&emsp;&emsp;(C) demonstrate that the quantity or quality of the services to be provided under this chapter by such agency will be enhanced as a result of such contract or such relationship; and
+&emsp;(24) establish and carry out pension counseling and information programs described in section 3020e–1 of this title;
 
-&emsp;&emsp;(D) on the request of the Assistant Secretary or the State, for the purpose of monitoring compliance with this chapter (including conducting an audit), disclose all sources and expenditures of funds received or expended to provide services to older individuals;
+&emsp;(25) provide technical assistance, training, and other means of assistance to State agencies, area agencies on aging, and service providers regarding State and local data collection and analysis;
 
-&emsp;(23) encourage, and provide technical assistance to, States and area agencies on aging to carry out outreach to inform older individuals with greatest economic need who may be eligible to receive, but are not receiving, supplemental security income benefits under title XVI of the Social Security Act (42 U.S.C. 1381 et seq.) (or assistance under a State plan program under such title), medical assistance under title XIX of such Act (42 U.S.C. 1396 et seq.), and benefits under the Food Stamp Act of 1977 (7 U.S.C. 2011 et seq.), of the requirements for eligibility to receive such benefits and such assistance;
-
-&emsp;(24) establish information and assistance services as priority services for older individuals;
-
-&emsp;(25) develop guidelines for area agencies on aging to follow in choosing and evaluating providers of legal assistance;
-
-&emsp;(26) develop guidelines and a model job description for choosing and evaluating legal assistance developers referred to in sections 3027(a)(18) and 3058j(b)(2) of this title;
-
-&emsp;(27)(A) conduct a study to determine ways in which Federal funds might be more effectively targeted to low-income minority older individuals, and older individuals residing in rural areas, to better meet the needs of States with a disproportionate number of older individuals with greatest economic need and older individuals with greatest social need;
-
-&emsp;(B) conduct a study to determine ways in which Federal funds might be more effectively targeted to better meet the needs of States with disproportionate numbers of older individuals, including methods of allotting funds under subchapter III of this chapter, using the most recent estimates of the population of older individuals; and
-
-&emsp;(C) not later than January 1, 1995, submit a report containing the findings resulting from the studies described in subparagraphs (A) and (B) to the Speaker of the House of Representatives and the President pro tempore of the Senate;
-
-&emsp;(28) provide technical assistance, training, and other means of assistance to State agencies, area agencies on aging, and service providers regarding State and local data collection and analysis;
-
-&emsp;(29) design and implement, for purposes of compliance with paragraph (19), uniform data collection procedures for use by State agencies, including—
+&emsp;(26) design and implement, for purposes of compliance with paragraph (19), uniform data collection procedures for use by State agencies, including—
 
 &emsp;&emsp;(A) uniform definitions and nomenclature;
 
@@ -122,7 +100,15 @@ It shall be the duty and function of the Administration to—
 
 &emsp;&emsp;(E) procedures for the assessment of unmet needs for services under this chapter; and
 
-&emsp;(30) require that all Federal grants and contracts made under this subchapter and subchapter IV of this chapter be made in accordance with a competitive bidding process established by the Assistant Secretary by regulation.
+&emsp;(27) improve the delivery of services to older individuals living in rural areas through—
+
+&emsp;&emsp;(A) synthesizing results of research on how best to meet the service needs of older individuals in rural areas;
+
+&emsp;&emsp;(B) developing a resource guide on best practices for States, area agencies on aging, and service providers;
+
+&emsp;&emsp;(C) providing training and technical assistance to States to implement these best practices of service delivery; and
+
+&emsp;&emsp;(D) submitting a report on the States’ experiences in implementing these best practices and the effect these innovations are having on improving service delivery in rural areas to the relevant committees not later than 36 months after November 13, 2000.
 
 #### (b) Policy alternatives in long-term care
 
@@ -136,17 +122,9 @@ In order to strengthen the involvement of the Administration in the development 
 
 &emsp;(4) participate in all departmental and interdepartmental activities to provide a leadership role for the Administration, State agencies, and area agencies on aging in the development and implementation of a national community-based long-term care program for older individuals.
 
-#### (c) Encouragement by Assistant Secretary of program and activity by voluntary social services group; establishment of and technical assistance to State and area volunteer coordinators
+#### (c) Encouragement by Assistant Secretary of program and activity by voluntary social services group
 
-(1) In executing the duties and functions of the Administration under this chapter and carrying out the programs and activities provided for by this chapter, the Assistant Secretary, in consultation with the Corporation for National and Community Service, shall take all possible steps to encourage and permit voluntary groups active in supportive services, including youth organizations active at the high school or college levels, to participate and be involved individually or through representative groups in such programs or activities to the maximum extent feasible, through the performance of advisory or consultative functions, and in other appropriate ways.
-
-(2)(A) In executing the duties and functions of the Administration under this chapter and in carrying out the programs and activities provided for by this chapter, the Assistant Secretary shall act to encourage and assist the establishment and use of—
-
-&emsp;(i) area volunteer service coordinators, as described in section 3026(a)(12) of this title, by area agencies on aging; and
-
-&emsp;(ii) State volunteer service coordinators, as described in section 3027(a)(31) of this title, by State agencies.
-
-(B) The Assistant Secretary shall provide technical assistance to the area and State volunteer services coordinators.
+In executing the duties and functions of the Administration under this chapter and carryingout the programs and activities provided for by this chapter, the Assistant Secretary, in consultation with the Corporation for National and Community Service, shall take all possible steps to encourage and permit voluntary groups active in supportive services, including youth organizations active at the high school or college levels, to participate and be involved individually or through representative groups in such programs or activities to the maximum extent feasible, through the performance of advisory or consultative functions, and in other appropriate ways.
 
 #### (d) National Center on Elder Abuse
 
@@ -174,13 +152,13 @@ In order to strengthen the involvement of the Administration in the development 
 
 &emsp;(ii) not later than 60 days before the date on which the Assistant Secretary establishes such priorities, publish in the Federal Register for public comment a statement of such proposed priorities.
 
-(4) The Assistant Secretary shall make available to the Center such resources as are necessary for the Center to carry out effectively the functions of the Center under this chapter and not less than the amount of resources made available to the Resource Center on Elder Abuse for fiscal year 1990.
+(4) The Assistant Secretary shall make available to the Center such resources as are necessary for the Center to carry out effectively the functions of the Center under this chapter and not less than the amount of resources made available to the Resource Center on Elder Abuse for fiscal year 2000.
 
 #### (e) National Aging Information Center
 
 (1)(A) The Assistant Secretary shall make grants or enter into contracts with eligible entities to establish the National Aging Information Center (in this subsection referred to as the “Center”) to—
 
-&emsp;(i) provide information about education and training projects established under part A, and research and demonstration projects, and other activities, established under part B, of subchapter IV of this chapter to persons requesting such information;
+&emsp;(i) provide information about grants and projects under subchapter IV of this chapter;
 
 &emsp;(ii) annually compile, analyze, publish, and disseminate—
 
@@ -192,7 +170,7 @@ In order to strengthen the involvement of the Administration in the development 
 
 &emsp;(iii) biennially compile, analyze, publish, and disseminate statistical data collected on the functions, staffing patterns, and funding sources of State agencies and area agencies on aging;
 
-&emsp;(iv) analyze the information collected under section 3011(c)(3)(F) of this title by the Director of the Office for American Indian, Alaskan Native, and Native Hawaiian Aging, and the information provided by the Resource Centers on Native American Elders under section 3035m of this title;
+&emsp;(iv) analyze the information collected under section 3011(c)(3)(F) of this title by the Director of the Office for American Indian, Alaskan Native, and Native Hawaiian Aging;
 
 &emsp;(v) provide technical assistance, training, and other means of assistance to State agencies, area agencies on aging, and service providers, regarding State and local data collection and analysis; and
 
@@ -224,19 +202,113 @@ In order to strengthen the involvement of the Administration in the development 
 
 &emsp;(ix) other persons with an interest in the field of aging.
 
-(Pub. L. 89–73, title II, §202, July 14, 1965, 79 Stat. 220; Pub. L. 93–29, title II, §201(b), May 3, 1973, 87 Stat. 31; Pub. L. 94–135, title I, §114(b), (c), Nov. 28, 1975, 89 Stat. 725; Pub. L. 95–478, title I, §102(a), title V, §503(b)(2), (4), Oct. 18, 1978, 92 Stat. 1513, 1559; Pub. L. 97–115, §§2(b), (c), 3(d), Dec. 29, 1981, 95 Stat. 1595, 1597; Pub. L. 98–459, title II, §202, Oct. 9, 1984, 98 Stat. 1768; Pub. L. 100–175, title I, §§103(a), 105(a), 106(a), 155(a), Nov. 29, 1987, 101 Stat. 928, 930, 952; Pub. L. 102–321, title I, §163(c)(2)(A), July 10, 1992, 106 Stat. 377; Pub. L. 102–375, title I, §102(b)(10)(A), title II, §202(a)–(f), title VII, §708(c)(1), title IX, §904(a)(4), Sept. 30, 1992, 106 Stat. 1202, 1205–1208, 1292, 1306; Pub. L. 103–82, title IV, §405(g)(1), Sept. 21, 1993, 107 Stat. 921; Pub. L. 103–171, §§2(2), (3), 3(a)(3), Dec. 2, 1993, 107 Stat. 1988, 1990.)
+#### (f) Development of performance outcome measures
+
+(1) The Assistant Secretary, in accordance with the process described in paragraph (2), and in collaboration with a representative group of State agencies, tribal organizations, area agencies on aging, and providers of services involved in the performance outcome measures shall develop and publish by December 31, 2001, a set of performance outcome measures for planning, managing, and evaluating activities performed and services provided under this chapter. To the maximum extent possible, the Assistant Secretary shall use data currently collected (as of the date of development of the measures) by State agencies, area agencies on aging, and service providers through the National Aging Program Information System and other applicable sources of information in developing such measures.
+
+(2) The process for developing the performance outcome measures described in paragraph (1) shall include—
+
+&emsp;(A) a review of such measures currently in use by State agencies and area agencies on aging (as of the date of the review);
+
+&emsp;(B) development of a proposed set of such measures that provides information about the major activities performed and services provided under this chapter;
+
+&emsp;(C) pilot testing of the proposed set of such measures, including an identification of resource, infrastructure, and data collection issues at the State and local levels; and
+
+&emsp;(D) evaluation of the pilot test and recommendations for modification of the proposed set of such measures.
+
+(Pub. L. 89–73, title II, §202, July 14, 1965, 79 Stat. 220; Pub. L. 93–29, title II, §201(b), May 3, 1973, 87 Stat. 31; Pub. L. 94–135, title I, §114(b), (c), Nov. 28, 1975, 89 Stat. 725; Pub. L. 95–478, title I, §102(a), title V, §503(b)(2), (4), Oct. 18, 1978, 92 Stat. 1513, 1559; Pub. L. 97–115, §§2(b), (c), 3(d), Dec. 29, 1981, 95 Stat. 1595, 1597; Pub. L. 98–459, title II, §202, Oct. 9, 1984, 98 Stat. 1768; Pub. L. 100–175, title I, §§103(a), 105(a), 106(a), 155(a), Nov. 29, 1987, 101 Stat. 928, 930, 952; Pub. L. 102–321, title I, §163(c)(2)(A), July 10, 1992, 106 Stat. 377; Pub. L. 102–375, title I, §102(b)(10)(A), title II, §202(a)–(f), title VII, §708(c)(1), title IX, §904(a)(4), Sept. 30, 1992, 106 Stat. 1202, 1205–1208, 1292, 1306; Pub. L. 103–82, title IV, §405(g)(1), Sept. 21, 1993, 107 Stat. 921; Pub. L. 103–171, §§2(2), (3), 3(a)(3), Dec. 2, 1993, 107 Stat. 1988, 1990; Pub. L. 106–501, title II, §201, title VIII, §801(b)(2), Nov. 13, 2000, 114 Stat. 2229, 2291.)
 
 #### References in Text
 
-The Age Discrimination in Employment Act of 1967, referred to in subsec. (a)(9), (15), is Pub. L. 90–202, Dec. 15, 1967, 81 Stat. 602, as amended, which is classified generally to chapter 14 (§621 et seq.) of Title 29, Labor.For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 29 and Tables.
+The Age Discrimination in Employment Act of 1967, referred to in subsec. (a)(12), is Pub. L. 90–202, Dec. 15, 1967, 81 Stat. 602, as amended, which is classified generally to chapter 14 (§621 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 29 and Tables.
 
-The National Housing Act, referred to in subsec. (a)(15), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to chapter 13 (§1701 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
+The National Housing Act, referred to in subsec. (a)(12), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to chapter 13 (§1701 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
 
-The Food Stamp Act of 1977, referred to in subsec. (a)(20)(A), (23), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, as amended, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+The Food Stamp Act of 1977, referred to in subsec. (a)(17)(A), (20), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, as amended, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
-The Social Security Act, referred to in subsecs. (a)(20)(B), (23), and (b)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XI, XVI, and XIX of that Act are classified generally to subchapters XI (§1301 et seq.), XVI (§1381 et seq.), and XIX (§1396 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsecs. (a)(17)(B), (20), and (b)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XI, XVI, and XIX of that Act are classified generally to subchapters XI (§1301 et seq.), XVI (§1381 et seq.), and XIX (§1396 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+
+#### Codification
+
+November 13, 2000, referred to in subsec. (a)(27)(D), was in the original “enactment”, which was translated as meaning the date of enactment of Pub. L. 106–501, which enacted subsec. (a)(27), to reflect the probable intent of Congress.
 
 #### Amendments
+
+2000—Subsec. (a)(9). Pub. L. 106–501, §201(1)(A), redesignated par. (10) as (9) and struck out former par. (9) which read as follows: “stimulate more effective use of existing resources and available services for the aged and aging, including existing legislative protections with particular emphasis on the application of the Age Discrimination in Employment Act of 1967;”.
+
+Subsec. (a)(10), (11). Pub. L. 106–501, §201(1)(A), redesignated pars. (11) and (12) as (10) and (11), respectively. Former par. (10) redesignated (9).
+
+Subsec. (a)(12). Pub. L. 106–501, §201(1)(B), redesignated par. (15) as (12). Former par. (12) redesignated (11).
+
+Subsec. (a)(13), (14). Pub. L. 106–501, §201(1)(B), redesignated pars. (16) and (17) as (13) and (14), respectively, and struck out former pars. (13) and (14), which read as follows:
+
+“(13) convene conferences of such authorities and officials of public (including Federal, State, and local agencies) and nonprofit private organizations concerned with the development and operation of programs for older individuals as the Assistant Secretary deems necessary or proper for the development and implementation of policies related to the objectives of this chapter;
+
+“(14) develop and operate programs providing services and opportunities as authorized by this chapter which are not otherwise provided by existing programs for older individuals;”.
+
+Subsec. (a)(15). Pub. L. 106–501, §201(1)(B), (C), redesignated par. (18) as (15) and inserted “and older individuals residing in rural areas” after “low-income minority individuals”. Former par. (15) redesignated (12).
+
+Subsec. (a)(16). Pub. L. 106–501, §201(1)(B), redesignated par. (19) as (16). Former par. (16) redesignated (13).
+
+Subsec. (a)(16)(C). Pub. L. 106–501, §801(b)(2)(A)(i), which directed that par. (19)(C) be amended by substituting “paragraphs (2) and (4)(A) of section 3026(a)” for “paragraphs (2) and (5)(A) of section 3026(a)”, was executed by making the substitution in par. (16)(C), to reflect the probable intent of Congress and the redesignation of par. (19) as (16) by Pub. L. 106–501, §201(1)(B). See above.
+
+Subsec. (a)(17). Pub. L. 106–501, §201(1)(B), redesignated par. (20) as (17). Former par. (17) redesignated (14).
+
+Subsec. (a)(18). Pub. L. 106–501, §201(1)(B), (D), redesignated par. (21) as (18) and substituted “2000” for “1990” in subpar. (B). Former par. (18) redesignated (15).
+
+Subsec. (a)(19). Pub. L. 106–501, §201(1)(E), added par. (19) and struck out former par. (19) which directed theAdministration to issue regulations, and conduct strict monitoring of State compliance with the requirements in effect, under this chapter to prohibit conflicts of interest and to maintain the integrity and public purpose of services provided and service providers, under this chapter in all contractual and commercial relationships, and to include in such regulations certain conditions for being designated as an area agency on aging.
+
+Pub. L. 106–501, §201(1)(B), redesignated par. (22) as (19). Former par. (19) redesignated (16).
+
+Subsec. (a)(20). Pub. L. 106–501, §201(1)(B), redesignated par. (23) as (20). Former par. (20) redesignated (17).
+
+Subsec. (a)(21). Pub. L. 106–501, §201(1)(F), added par. (21) and struck out former par. (21) which read as follows: “establish information and assistance services as priority services for older individuals;”.
+
+Pub. L. 106–501, §201(1)(B), redesignated par. (24) as (21). Former par. (21) redesignated (18).
+
+Subsec. (a)(22). Pub. L. 106–501, §201(1)(B), redesignated par. (25) as (22). Former par. (22) redesignated (19).
+
+Subsec. (a)(23). Pub. L. 106–501, §801(b)(2)(A)(ii), which directed that par. (26) be amended by substituting “section 3027(a)(13) of this title and section 3058j of this title” for “sections 3027(a)(18) and 3058j(b)(2) of this title”, was executed by making the substitution in par. (23), to reflect the probable intent of Congress and the redesignation of par. (26) as (23) by Pub. L. 106–501, §201(1)(B). See below.
+
+Pub. L. 106–501, §201(1)(B), redesignated par. (26) as (23). Former par. (23) redesignated (20).
+
+Subsec. (a)(24). Pub. L. 106–501, §201(1)(G), added par. (24) and struck out former par. (24) which read as follows:
+
+“(24)(A) conduct a study to determine ways in which Federal funds might be more effectively targeted to low-income minority older individuals, and older individuals residing in rural areas, to better meet the needs of States with a disproportionate number of older individuals with greatest economic need and older individuals with greatest social need;
+
+“(B) conduct a study to determine ways in which Federal funds might be more effectively targeted to better meet the needs of States with disproportionate numbers of older individuals, including methods of allotting funds under subchapter III of this chapter, using the most recent estimates of the population of older individuals; and
+
+“(C) not later than January 1, 1995, submit a report containing the findings resulting from the studies described in subparagraphs (A) and (B) to the Speaker of the House of Representatives and the President pro tempore of the Senate;”.
+
+Pub. L. 106–501, §201(1)(B), redesignated par. (27) as (24). Former par. (24) redesignated (21).
+
+Subsec. (a)(25), (26). Pub. L. 106–501, §201(1)(B), redesignated pars. (28) and (29) as (25) and (26), respectively. Former pars. (25) and (26) redesignated (22) and (23), respectively.
+
+Subsec. (a)(27). Pub. L. 106–501, §201(1)(I), added par. (27).
+
+Pub. L. 106–501, §201(1)(H), which directed amendment of subsec. (a) by striking out par. (27) and redesignating the remaining pars., could only be executed by striking out par. (27) because there were no remaining pars. in subsec. (a) after amendment by Pub. L. 106–501, §201(1)(B). Prior to amendment, par. (27) read as follows: “require that all Federal grants and contracts made under this subchapter and subchapter IV of this chapter be made in accordance with a competitive bidding process established by the Assistant Secretary by regulation.”
+
+Pub. L. 106–501, §201(1)(B), redesignated par. (30) as (27). Former par. (27) redesignated (24).
+
+Subsec. (a)(28) to (30). Pub. L. 106–501, §201(1)(B), redesignated pars. (28) to (30) as (25) to (27), respectively.
+
+Subsec. (c). Pub. L. 106–501, §801(b)(2)(B), struck out par. (1) designation before “In executing the duties” and struck out par. (2) which read as follows:
+
+“(2)(A) In executing the duties and functions of the Administration under this chapter and in carrying out the programs and activities provided for by this chapter, the Assistant Secretary shall act to encourage and assist the establishment and use of—
+
+&emsp;“(i) area volunteer service coordinators, as described in section 3026(a)(12) of this title, by area agencies on aging; and
+
+&emsp;“(ii) State volunteer service coordinators, as described in section 3027(a)(31) of this title, by State agencies.
+
+“(B) The Assistant Secretary shall provide technical assistance to the area and State volunteer services coordinators.”
+
+Subsec. (d)(4). Pub. L. 106–501, §201(2), substituted “2000” for “1990”.
+
+Subsec. (e)(1)(A)(i). Pub. L. 106–501, §801(b)(2)(C)(i), added cl. (i) and struck out former cl. (i) which read as follows: “provide information about education and training projects established under part A, and research and demonstration projects, and other activities, established under part B, of subchapter IV of this chapter to persons requesting such information;”.
+
+Subsec. (e)(1)(A)(iv). Pub. L. 106–501, §801(b)(2)(C)(ii), struck out “, and the information provided by the Resource Centers on Native American Elders under section 3035m of this title” before semicolon at end.
+
+Subsec. (f). Pub. L. 106–501, §201(3), added subsec. (f).
 
 1993—Pub. L. 103–171, §3(a)(3)(A), substituted “Assistant Secretary” for “Commissioner” in section catchline.
 
@@ -390,7 +462,7 @@ Section 202(h) of Pub. L. 102–375 provided that: “Not later than 1 year afte
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3011, 3018, 3027, 3037, 3058d, 3058g of this title.
+This section is referred to in sections 3011, 3018, 3020f, 3027, 3058g of this title.
 
 <i><sup>1</sup></i><i> So in original. The semicolon probably should be a period.</i>
 

@@ -10,7 +10,7 @@
 
 &emsp;(D) The government of a country not a member of the North Atlantic Treaty Organization but which is designated by the Secretary of Defense, subject to the limitations prescribed in subsection (b), as a government with which the Secretary may enter into agreements under this section.
 
-(2) An agreement referred to in paragraph (1) is an agreement under which the United States agrees to provide logistic support, supplies, and services to military forces of a country or organization referred to in paragraph (1) in return for the reciprocal provisions of logistic support, supplies, and services by such government or organization to elements of the armed forces.
+(2) An agreement referred to in paragraph (1) is an agreement under which the United Statesagrees to provide logistic support, supplies, and services to military forces of a country or organization referred to in paragraph (1) in return for the reciprocal provisions of logistic support, supplies, and services by such government or organization to elements of the armed forces.
 
 (b) The Secretary of Defense may not designate a country for an agreement under this section unless—
 

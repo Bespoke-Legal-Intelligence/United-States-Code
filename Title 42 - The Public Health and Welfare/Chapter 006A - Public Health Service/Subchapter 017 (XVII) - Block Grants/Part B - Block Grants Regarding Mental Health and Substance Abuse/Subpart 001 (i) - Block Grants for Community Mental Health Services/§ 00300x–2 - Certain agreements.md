@@ -6,7 +6,7 @@
 
 &emsp;With respect to children with a serious emotional disturbance, a funding agreement for a grant under section 300x of this title is that—
 
-&emsp;&emsp;(A) in the case of a grant for fiscal year 1993, the State involved will expend not less than 10 percent of the grant to increase (relative to fiscal year 1992) funding for the system of integrated services described in section 300x–1(b)(9) of this title;
+&emsp;&emsp;(A) in the case of a grant for fiscal year 1993, the State involved will expend not less than 10 percent of the grant to increase (relative to fiscal year 1992) funding for the system of integrated services described in section 300x–1(b)(9) <sup>1</sup> of this title;
 
 &emsp;&emsp;(B) in the case of a grant for fiscal year 1994, the State will expend not less than 10 percent of the grant to increase (relative to fiscal year 1993) funding for such system; and
 
@@ -14,7 +14,7 @@
 
 #### (2) Waiver
 
-&emsp;(A) Upon the request of a State, the Secretary may provide to the State a waiver of all or part of the requirement established in paragraph (1) if the Secretary determines that the State is providing an adequate level of comprehensive community mental health services for children with a serious emotional distrubance,<sup>1</sup> as indicated by a comparison of the number of such children for which such services are sought with the availability in the State of the services.
+&emsp;(A) Upon the request of a State, the Secretary may provide to the State a waiver of all or part of the requirement established in paragraph (1) if the Secretary determines that the State is providing an adequate level of comprehensive community mental health services for children with a serious emotional distrubance,<sup>2</sup> as indicated by a comparison of the number of such children for which such services are sought with the availability in the State of the services.
 
 &emsp;(B) The Secretary shall approve or deny a request for a waiver under subparagraph (A) not later than 120 days after the date on which the request is made.
 
@@ -50,11 +50,21 @@ The criteria referred to in subsection (b)(2) of this section regarding communit
 
 (July 1, 1944, ch. 373, title XIX, §1913, as added Pub. L. 102–321, title II, §201(2), July 10, 1992, 106 Stat. 381.)
 
+#### References in Text
+
+Section 300x–1(b)(9) of this title, referred to in subsec. (a)(1)(A), was repealed by Pub. L. 106–310, div. B, title XXXII, §3204(a), Oct. 17, 2000, 114 Stat. 1192. Provisions relating to a system of integrated social services formerly contained in section 300x–1(b)(9) are now contained in section 300x–1(b)(3) of this title.
+
 #### Prior Provisions
 
 A prior section 300x–2, act July 1, 1944, ch. 373, title XIX, §1914, formerly §1913, as added Aug. 13, 1981, Pub. L. 97–35, title IX, §901, 95 Stat. 545; renumbered §1914 and amended Oct. 19, 1984, Pub. L. 98–509, title I, §106(a), (c)–(e), (g), 98 Stat. 2358, 2359; Nov. 18, 1988, Pub. L. 100–690, title II, §2022(e), 102 Stat. 4197; Aug. 16, 1989, Pub. L. 101–93, §2(c)(1), 103 Stat. 605, related to payment to States of allotments of grants for alcohol, drug abuse, and mental health services, prior to repeal by Pub. L. 102–321, §201(2).
 
 A prior section 1913 of act July 1, 1944, was classified to section 300x–1b of this title and repealed by Pub. L. 102–321.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “disturbance,”.</i>
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1395x of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “disturbance,”.</i>
 

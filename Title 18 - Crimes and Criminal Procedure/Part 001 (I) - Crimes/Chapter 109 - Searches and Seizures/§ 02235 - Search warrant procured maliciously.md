@@ -14,16 +14,6 @@ Minor changes were made in phraseology.
 
 1996—Pub. L. 104–294 substituted “fined under this title” for “fined not more than $1,000”.
 
-#### Canal Zone
-
-Applicability of section to Canal Zone, see section 14 of this title.
-
-#### Cross References
-
-Jurisdiction of offenses, see section 3241 of this title.
-
-Minor offenses tried by United States magistrate judges as excluding offenses punishable under this section, see section 3401 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 14 of this title; title 21 section 885.

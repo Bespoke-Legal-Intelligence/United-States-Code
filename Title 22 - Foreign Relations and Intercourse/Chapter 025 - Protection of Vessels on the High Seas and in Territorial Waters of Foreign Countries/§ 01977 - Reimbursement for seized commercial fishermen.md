@@ -8,7 +8,7 @@ The Secretary, upon receipt of an application filed with him at any time after t
 
 &emsp;(2) the owner of such vessel and its crew for the market value of fish caught before seizure of such vessel and confiscated or spoiled during the period of detention; and
 
-&emsp;(3) the owner of such vessel and its crew for not to exceed 50 per centum of the gross income lost as a direct result of such seizure and detention, as determined by the Secretary of the Interior, based on the value of the average catch per day's fishing during the three most recent calendar years immediately preceding such seizure and detention of the vessel seized, or, if such experience is not available, then of all commercial fishing vessels of the United States engaged in the same fishery as that of the type and size of the seized vessel.
+&emsp;(3) the owner of such vessel and its crew for not to exceed 50 per centum of the gross income lost as a direct result of such seizure and detention, as determined by the Secretary of Commerce, based on the value of the average catch per day's fishing during the three most recent calendar years immediately preceding such seizure and detention of the vessel seized, or, if such experience is not available, then of all commercial fishing vessels of the United States engaged in the same fishery as that of the type and size of the seized vessel.
 
 #### (b) Distribution of payments according to commercial fishing practices and procedures
 
@@ -16,7 +16,7 @@ Payments made by the Secretary under paragraphs (2) and (3) of subsection (a) of
 
 #### (c) Establishment of fees; amount of fees; credit of fees to separate Treasury account; payment from collected fees; authorization of appropriations
 
-The Secretary shall from time to time establish by regulation fees which shall be paid by the owners of vessels entering into agreements under this section. Such fees shall be adequate (1) to recover the costs of administering this section, and (2) to cover a reasonable portion of any payments made by the Secretary under this section. All fees collected by the Secretary shall be credited to a separate account established in the Treasury of the United States which shall remain available without fiscal year limitationto carry out the provisions of this section. Those fees not currently needed for payments under this section shall be kept on deposit or invested in obligations of, or guaranteed by, the United States and all revenues accruing from such deposits or investments shall be credited to such separate account. If a transfer of funds is made to the separate account under section 1975(b)(2) of this title with respect to an unpaid claim and such claim is later paid, the amount so paid shall be covered into the Treasury as miscellaneous receipts. All payments under this section shall be made first out of such fees so long as they are available and thereafter out of funds which are hereby authorized to be appropriated to such account to carry out the provisions of this section.
+The Secretary shall from time to time establish by regulation fees which shall be paid by the owners of vessels entering into agreements under this section. Such fees shall be adequate (1) to recover the costs of administering this section, and (2) to cover a reasonable portion of any payments made by the Secretary under this section. All fees collected by the Secretary shall be credited to a separate account established in the Treasury of the United States which shall remain available without fiscal year limitation to carry out the provisions of this section. Those fees not currently needed for payments under this section shall be kept on deposit or invested in obligations of, or guaranteed by, the United States and all revenues accruing from such deposits or investments shall be credited to such separate account. If a transfer of funds is made to the separate account under section 1975(b)(2) of this title with respect to an unpaid claim and such claim is later paid, the amount so paid shall be covered into the Treasury as miscellaneous receipts. All payments under this section shall be made first out of such fees so long as they are available and thereafter out of funds which are hereby authorized to be appropriated to such account to carry out the provisions of this section.
 
 #### (d) Finality of determinations; insured losses
 
@@ -24,7 +24,7 @@ All determinations made under this section shall be final. No payment under this
 
 #### (e) Effective date
 
-The provisions of this section shall be effective until October 1, 2000; except that payments may be made under this section only to such extent and in such amounts as are provided in advance in appropriation Acts.
+The provisions of this section shall be effective until October 1, 2003; except that payments may be made under this section only to such extent and in such amounts as are provided in advance in appropriation Acts.
 
 #### (f) Definitions
 
@@ -34,9 +34,13 @@ For the purposes of this section—
 
 &emsp;(2) the term “owner” includes any charterer of a commercial fishing vessel.
 
-(Aug. 27, 1954, ch. 1018, §7, as added Pub. L. 90–482, §1, Aug. 12, 1968, 82 Stat. 729; amended Pub. L. 92–569, §4, Oct. 26, 1972, 86 Stat. 1183; Pub. L. 92–594, §§1, 2, Oct. 27, 1972, 86 Stat. 1313; Pub. L. 94–273, §3(17), Apr. 21, 1976, 90 Stat. 377; Pub. L. 95–194, §1, Nov. 18, 1977, 91 Stat. 1413; Pub. L. 95–376, §1, Sept. 18, 1978, 92 Stat. 714; Pub. L. 97–68, §1, Oct. 26, 1981, 95 Stat. 1040; Pub. L. 98–364, title III, §301, July 17, 1984, 98 Stat. 444; Pub. L. 99–659, title IV, §408, Nov. 14, 1986, 100 Stat. 3740; Pub. L. 100–151, §1, Nov. 3, 1987, 101 Stat. 884; Pub. L. 100–350, §2, June 27, 1988, 102 Stat. 660; Pub. L. 101–627, title III, §301, Nov. 28, 1990, 104 Stat. 4462; Pub. L. 104–43, title IV, §403, Nov. 3, 1995, 109 Stat. 390.)
+(Aug. 27, 1954, ch. 1018, §7, as added Pub. L. 90–482, §1, Aug. 12, 1968, 82 Stat. 729; amended Pub. L. 92–569, §4, Oct. 26, 1972, 86 Stat. 1183; Pub. L. 92–594, §§1, 2, Oct. 27, 1972, 86 Stat. 1313; Pub. L. 94–273, §3(17), Apr. 21, 1976, 90 Stat. 377; Pub. L. 95–194, §1, Nov. 18, 1977, 91 Stat. 1413; Pub. L. 95–376, §1, Sept. 18, 1978, 92 Stat. 714; Pub. L. 97–68, §1, Oct. 26, 1981, 95 Stat. 1040; Pub. L. 98–364, title III, §301, July 17, 1984, 98 Stat. 444; Pub. L. 99–659, title IV, §408, Nov. 14, 1986, 100 Stat. 3740; Pub. L. 100–151, §1, Nov. 3, 1987, 101 Stat. 884; Pub. L. 100–350, §2, June 27, 1988, 102 Stat. 660; Pub. L. 101–627, title III, §301, Nov. 28, 1990, 104 Stat. 4462; Pub. L. 104–43, title IV, §403, Nov. 3, 1995, 109 Stat. 390; Pub. L. 106–450, title I, §102, Nov. 7, 2000, 114 Stat. 1941.)
 
 #### Amendments
+
+2000—Subsec. (a)(3). Pub. L. 106–450, §102(b), substituted “Secretary of Commerce” for “Secretary of the Interior”.
+
+Subsec. (e). Pub. L. 106–450, §102(a), substituted “2003” for “2000”.
 
 1995—Subsec. (c). Pub. L. 104–43, §403(a), struck out after second sentence “The amount fixed by the Secretary shall be predicated upon at least 331/3 per centum of the contribution by the Government.”
 
@@ -74,7 +78,7 @@ Section 408 of Pub. L. 99–659 provided that the amendment made by that section
 
 #### Effective Date of 1972 Amendment
 
-Amendment by Pub. L. 92–569 applicable with respect to seizure of vessels of the United States occurring on or after Oct. 26, 1972, see section 6 of Pub. L. 92–569, set out as a note under section 1972 of this title.
+Amendment by Pub. L. 92–569 applicable with respect to seizure of vessels of the United States occurring onor after Oct. 26, 1972, see section 6 of Pub. L. 92–569, set out as a note under section 1972 of this title.
 
 #### Section Referred to in Other Sections
 

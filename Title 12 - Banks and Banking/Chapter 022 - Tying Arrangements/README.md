@@ -15,7 +15,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1843, 1850, 3106 of this title.
+This chapter is referred to in sections 1843, 1850, 3106 of this title; title 15 section 6701.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

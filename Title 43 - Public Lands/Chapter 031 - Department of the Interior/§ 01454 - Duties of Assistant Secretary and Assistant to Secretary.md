@@ -1,6 +1,6 @@
 ### §1454. Duties of Assistant Secretary and Assistant to Secretary
 
-The Assistant Secretary of the Interior shall perform such duties in the Department of theInterior as shall be prescribed by the Secretary, or may be required by law. The assistant to the Secretary of the Interior is authorized to sign such official papers and documents as the Secretary may direct.
+The Assistant Secretary of the Interior shall perform such duties in the Department of the Interior as shall be prescribed by the Secretary, or may be required by law. The assistant to the Secretary of the Interior is authorized to sign such official papers and documents as the Secretary may direct.
 
 (R.S. §439; Mar. 28, 1918, ch. 29, 40 Stat. 499.)
 

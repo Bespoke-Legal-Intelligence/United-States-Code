@@ -30,11 +30,3 @@ Minor changes were made in phraseology.
 
 1996—Pub. L. 104–294 substituted “fined under this title” for “fined not more than $1,000”.
 
-#### Cross References
-
-False representation as officer and search by impersonator, see section 913 of this title.
-
-Minor offenses tried by United States magistrate judges as excluding offenses punishable under this section, see section 3401 of this title.
-
-Unreasonable searches and seizures prohibited, see Const. Amend. 4.
-

@@ -20,7 +20,7 @@ Members, Chairman, Pay, and Expenses.—(1) The committee is composed of not mor
 
 (2) The Administrator shall designate the chairman of the committee.
 
-(3) A member of the committee serves without pay. However, the Administrator may allow a member, when attending meetings of the committee or a subordinate committee, expenses as authorized under section 5703 of title 5.
+(3) A member of the committee serves without pay. However, the Administrator may allow amember, when attending meetings of the committee or a subordinate committee, expenses as authorized under section 5703 of title 5.
 
 (c)
 
@@ -98,5 +98,5 @@ Except as otherwise specifically provided, amendment by Pub. L. 104–264 applic
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 106, 40119, 44501, 48102 of this title.
+This section is referred to in sections 40119, 44501, 48102 of this title.
 

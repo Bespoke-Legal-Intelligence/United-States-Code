@@ -66,7 +66,7 @@ In any case where the Secretary finds that an individual's enrollment or nonenro
 
 > there shall be a special enrollment period described in paragraph (3). In the case of an individual not described in the previous sentence who has not attained the age of 65, has enrolled (or has been deemed to have enrolled) in the medical insurance program established under this part during the individual's initial enrollment period, or is an individual described in the second sentence of paragraph (1), has enrolled in such program during any subsequent special enrollment period under this subsection during which the individual was not enrolled in a large group health plan (as that term is defined in section 1395y(b)(1)(B)(iii) of this title) by reason of the individual's current employment status (or the current employment status of a family member of the individual), and has not terminated enrollment under this section at any time at which the individual is not enrolled in such a large group health plan by reason of the individual's current employment status (or the current employment status of a family member of the individual), there shall be a special enrollment period described in paragraph (3)(B).
 
-(3)(A) The special enrollment period referred to in the first sentences of paragraphs (1) and (2) is the period including each month during anypart of which the individual is enrolled in a group health plan described in section 1395y(b)(1)(A)(v) of this title by reason of current employment status ending with the last day of the eighth consecutive month in which the individual is at no time so enrolled.
+(3)(A) The special enrollment period referred to in the first sentences of paragraphs (1) and (2) is the period including each month during any part of which the individual is enrolled in a group health plan described in section1395y(b)(1)(A)(v) of this title by reason of current employment status ending with the last day of the eighth consecutive month in which the individual is at no time so enrolled.
 
 (B) The special enrollment period referred to in the second sentences of paragraphs (1) and (2) is the period including each month during any part of which the individual is enrolled in a large group health plan (as that term is defined in section 1395y(b)(1)(B)(iii) of this title) by reason of the individual's current employment status (or the current employment status of a family member of the individual) ending with the last day of the eighth consecutive month in which the individual is at no time so enrolled.
 
@@ -84,13 +84,23 @@ In any case where the Secretary finds that an individual's enrollment or nonenro
 
 (B) The special enrollment period referred to in subparagraph (A) is the 6-month period beginning on the first day of the month which includes the date of the enrollment termination described in subparagraph (A)(ii).
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1837, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 304; amended Pub. L. 89–384, §3(a), (b), Apr. 8, 1966, 80 Stat. 105; Pub. L. 90–248, title I, §§136(a), 145(a), (b), Jan. 2, 1968, 81 Stat. 853, 859; Pub. L. 92–603, title II, §§201(c)(2), 206(a), 259(a), 260, Oct. 30, 1972, 86 Stat. 1372, 1378, 1448; Pub. L. 96–265, title I, §103(a)(3), June 9, 1980, 94 Stat. 444; Pub. L. 96–499, title IX, §945(a), (b), Dec. 5, 1980, 94 Stat. 2642; Pub. L. 97–35, title XXI, §2151(a)(1), (2), Aug. 13, 1981, 95 Stat. 801; Pub. L. 98–369, div. B, title III, §§2338(b), 2354(b)(10), July 18, 1984, 98 Stat. 1092, 1101; Pub. L. 99–272, title IX, §§9201(c)(1), 9219(a)(2), Apr. 7, 1986, 100 Stat. 171, 182; Pub. L. 99–509, title IX, §9319(c)(1)–(3), Oct. 21, 1986, 100 Stat. 2011; Pub. L. 99–514, title XVIII, §1895(b)(12), Oct. 22, 1986, 100 Stat. 2934; Pub. L. 101–239, title VI, §6202(b)(4)(C), (c)(1), Dec. 19, 1989, 103 Stat. 2233; Pub. L. 103–432, title I, §§147(f)(1)(A), 151(c)(2), Oct. 31, 1994, 108 Stat. 4430, 4435; Pub. L. 105–33, title IV, §§4581(b)(1), 4631(a)(2), Aug. 5, 1997, 111 Stat. 465, 486.)
+#### (j) Special rules for individuals with ALS
+
+In applying this section in the case of an individual who is entitled to benefits under part A of this subchapter pursuant to the operation of section 426(h) of this title, the following special rules apply:
+
+&emsp;(1) The initial enrollment period under subsection (d) of this section shall begin on the first day of the first month in which the individual satisfies the requirement of section 1395<i>o</i>(1) of this title.
+
+&emsp;(2) In applying subsection (g)(1) of this section, the initial enrollment period shall begin on the first day of the first month of entitlement to disability insurance benefits referred to in such subsection.
+
+(Aug. 14, 1935, ch. 531, title XVIII, §1837, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 304; amended Pub. L. 89–384, §3(a), (b), Apr. 8, 1966, 80 Stat. 105; Pub. L. 90–248, title I, §§136(a), 145(a), (b), Jan. 2, 1968, 81 Stat. 853, 859; Pub. L. 92–603, title II, §§201(c)(2), 206(a), 259(a), 260, Oct. 30, 1972, 86 Stat. 1372, 1378, 1448; Pub. L. 96–265, title I, §103(a)(3), June 9, 1980, 94 Stat. 444; Pub. L. 96–499, title IX, §945(a), (b), Dec. 5, 1980, 94 Stat. 2642; Pub. L. 97–35, title XXI, §2151(a)(1), (2), Aug. 13, 1981, 95 Stat. 801; Pub. L. 98–369, div. B, title III, §§2338(b), 2354(b)(10), July 18, 1984, 98 Stat. 1092, 1101; Pub. L. 99–272, title IX, §§9201(c)(1), 9219(a)(2), Apr. 7, 1986, 100 Stat. 171, 182; Pub. L. 99–509, title IX, §9319(c)(1)–(3), Oct. 21, 1986, 100 Stat. 2011; Pub. L. 99–514, title XVIII, §1895(b)(12), Oct. 22, 1986, 100 Stat. 2934; Pub. L. 101–239, title VI, §6202(b)(4)(C), (c)(1), Dec. 19, 1989, 103 Stat. 2233; Pub. L. 103–432, title I, §§147(f)(1)(A), 151(c)(2), Oct. 31, 1994, 108 Stat. 4430, 4435; Pub. L. 105–33, title IV, §§4581(b)(1), 4631(a)(2), Aug. 5, 1997, 111 Stat. 465, 486; Pub. L. 106–554, §1(a)(6) \[title I, §115(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–474.)
 
 #### References in Text
 
-Part A of this subchapter, referred to in subsecs. (c), (h), and (i)(4)(A), is classified to section 1395c et seq. of this title.
+Part A of this subchapter, referred to in subsecs. (c), (h), (i)(4)(A), and (j), is classified to section 1395c et seq. of this title.
 
 #### Amendments
+
+2000—Subsec. (j). Pub. L. 106–554 added subsec. (j).
 
 1997—Subsec. (i)(1) to (3). Pub. L. 105–33, §4631(a)(2), substituted “1395y(b)(1)(B)(iii) of this title” for “1395y(b)(1)(B)(iv) of this title” wherever appearing.
 
@@ -120,7 +130,7 @@ Subsec. (i)(2). Pub. L. 101–239, §6202(c)(1)(B), substituted “(1)(A)” for
 
 Pub. L. 101–239, §6202(b)(4)(C), substituted “section 1395y(b)(1)(A)(v)” and “section 1395y(b)(1)(B)(iv)” for “section 1395y(b)(3)(A)(iv)” and “section 1395y(b)(4)(B)”, respectively.
 
-Subsec. (i)(3). Pub. L. 101–239, §6202(b)(4)(C), substituted “section 1395y(b)(1)(A)(v)” and “section1395y(b)(1)(B)(iv)” for “section 1395y(b)(3)(A)(iv)” and “section 1395y(b)(4)(B)”, respectively.
+Subsec. (i)(3). Pub. L. 101–239, §6202(b)(4)(C), substituted “section 1395y(b)(1)(A)(v)” and “section 1395y(b)(1)(B)(iv)” for “section 1395y(b)(3)(A)(iv)” and “section 1395y(b)(4)(B)”, respectively.
 
 1986—Subsec. (i)(1). Pub. L. 99–509, §9319(c)(1), inserted sentence at end providing for a special enrollment period described in paragraph (3)(B) for individuals not age 65, enrolled in a large health plan, and having elected not to enroll during initial enrollment period.
 
@@ -176,13 +186,17 @@ Subsec. (e). Pub. L. 90–248, §145(b), provided for an annual general enrollme
 
 Subsec. (d). Pub. L. 89–384, §3(b), substituted March 1, 1966, for January 1, 1966.
 
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–554 applicable to benefits for months beginning July 1, 2001, see section 1(a)(6) \[title I, §115(c)\] of Pub. L. 106–554, set out as a note under section 426 of this title.
+
 #### Effective Date of 1997 Amendment
 
 Section 4581(c) of Pub. L. 105–33 provided that: “The amendments made by this section \[amending this section and sections 1395q and 1395r of this title\] shall apply to involuntary terminations of coverage under a group health plan occurring on or after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
 #### Effective Date of 1994 Amendment
 
-Section 147(f)(1)(C) of Pub. L. 103–432 provided that: “The amendments made by subparagraphs (A) and (B) \[amending this section and section 1395q of this title\] shall take effect on the first day of the first month that begins after the expiration of the 120-day period that begins on the date of the enactment of this Act \[Oct. 31, 1994\].”
+Section 147(f)(1)(C) of Pub. L. 103–432 provided that: “The amendments made by subparagraphs (A) and (B)\[amending this section and section 1395q of this title\] shall take effect on the first day of the first month that begins after the expiration of the 120-day period that begins on the date of the enactment of this Act \[Oct. 31, 1994\].”
 
 Section 151(c)(2) of Pub. L. 103–432 provided that the amendment made by that section is effective as if included in the enactment of Pub. L. 103–66.
 
@@ -194,7 +208,7 @@ Section 6202(c)(3) of Pub. L. 101–239 provided that: “The amendments made by
 
 #### Effective Date of 1986 Amendments
 
-Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if included in enactment of theConsolidated Omnibus Budget Reconciliation Act of 1985, Pub. L. 99–272, see section 1895(e) of Pub. L. 99–514, set out as a note under section 162 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if included in enactment of the Consolidated Omnibus Budget Reconciliation Act of 1985, Pub. L. 99–272, see section 1895(e) of Pub. L. 99–514, set out as a note under section 162 of Title 26, Internal Revenue Code.
 
 Amendment by Pub. L. 99–509 applicable to enrollments occurring on or after Jan. 1, 1987, see section 9319(f)(2) of Pub. L. 99–509, set out as a note under section 1395y of this title.
 

@@ -34,7 +34,7 @@ The agreements and leases authorized by section 801 of this title shall be subje
 
 #### (8) Limitation on alteration and parking facility construction costs
 
-&emsp;the total cost of all alterations referred to in paragraph (1) and all construction referred to in paragraph (3) shall not exceed $16,000,000, except that total cost of such alterations shall not exceed $5,000,000.
+&emsp;the total cost of all alterations referred to in paragraph (1) and all construction referred toin paragraph (3) shall not exceed $16,000,000, except that total cost of such alterations shall not exceed $5,000,000.
 
 #### (b) Other terms and conditions
 

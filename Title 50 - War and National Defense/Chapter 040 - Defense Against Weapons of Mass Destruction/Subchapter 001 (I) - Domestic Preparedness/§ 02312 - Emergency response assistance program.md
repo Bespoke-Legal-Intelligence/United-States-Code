@@ -32,7 +32,7 @@ The civilian personnel eligible to receive assistance under the program are civi
 
 (B) Capabilities used under paragraph (1) shall be capabilities that are especially relevant to the particular assistance for which the capabilities are used.
 
-(3) If the lead official is not the Secretary of Defense, and requests assistance from the Department of Defense that, in the judgment of the Secretary of Defense would affect military readiness or adversely affect national security,the Secretary of Defense may appeal the request for Department of Defense assistance by the lead official to the President.
+(3) If the lead official is not the Secretary of Defense, and requests assistance from the Department of Defense that, in the judgment of the Secretary of Defense would affect military readiness or adversely affect national security, the Secretary of Defense may appeal the request for Department of Defense assistance by the lead official to the President.
 
 #### (e) Available assistance
 

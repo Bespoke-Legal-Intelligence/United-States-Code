@@ -32,7 +32,7 @@ There shall be at the head of the Center the Director of Technology, who shall b
 
 &emsp;&emsp;&emsp;(ii) improving the transfer of biomedical research to the clinical setting; and
 
-&emsp;&emsp;&emsp;(iii) in consultation with the National Institute on Drug Abuse, and through interagency agreements or grants, examining addiction and rehabilitation researchand the application of technology to expanding the effectiveness or availability of drug treatment;
+&emsp;&emsp;&emsp;(iii) in consultation with the National Institute on Drug Abuse, and through interagency agreements or grants, examining addiction and rehabilitation research and the application of technology to expanding the effectiveness or availability of drug treatment;
 
 &emsp;&emsp;(C) make a priority ranking of such needs identified in subparagraphs (A) and (B) according to fiscal and technological feasibility, as part of a National Counter-Drug Enforcement Research and Development Program;
 

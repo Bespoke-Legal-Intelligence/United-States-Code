@@ -152,7 +152,7 @@ For the purposes of this chapter, the following definitions shall apply:
 
 #### References in Text
 
-Section 1 of the Housing and Urban Development Act of 1965, referred to in par. (7)(B), is section 1 of Pub. L.89–117, which is set out as a Short Title of 1965 Amendment note under section 1701 of Title 12, Banks and Banking.
+Section 1 of the Housing and Urban Development Act of 1965, referred to in par. (7)(B), is section 1 of Pub. L. 89–117, which is set out as a Short Title of 1965 Amendment note under section 1701 of Title 12, Banks and Banking.
 
 #### Section Referred to in Other Sections
 

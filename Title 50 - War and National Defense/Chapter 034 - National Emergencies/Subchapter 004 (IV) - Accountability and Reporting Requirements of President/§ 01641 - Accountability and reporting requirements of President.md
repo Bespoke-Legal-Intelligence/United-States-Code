@@ -6,7 +6,7 @@ When the President declares a national emergency, or Congress declares war, the 
 
 #### (b) Presidential orders, rules and regulations; transmittal to Congress
 
-All such significant orders of the President, including Executive orders, and such rules andregulations shall be transmitted to the Congress promptly under means to assure confidentiality where appropriate.
+All such significant orders of the President, including Executive orders, and such rules and regulations shall be transmitted to the Congress promptly under means to assure confidentiality where appropriate.
 
 #### (c) Expenditures during national emergency; Presidential reports to Congress
 

@@ -58,7 +58,7 @@ Availability of Records and Property of Amtrak and Rail Carriers.—Amtrak and, 
 
 (g)
 
-Comptroller General's Report to Congress.—The Comptroller General shall submitto Congress a report on each audit, giving comments and information necessary to inform Congress on the financial operations and condition of Amtrak and recommendations related to those operations and conditions. The report also shall specify any financial transaction or undertaking the Comptroller General considers is carried out without authority of law. When the Comptroller General submits a report to Congress, the Comptroller General shall submit a copy of it to the President, the Secretary, and Amtrak at the same time.
+Comptroller General's Report to Congress.—The Comptroller General shall submit to Congress a report on each audit, giving comments and information necessary to inform Congress on the financial operations and condition of Amtrak and recommendations related to those operations and conditions. The report also shall specify any financial transaction or undertaking the Comptroller General considers is carried out without authority of law. When the Comptroller General submits a report to Congress, the Comptroller General shall submit a copy of it to the President, the Secretary, and Amtrak at the same time.
 
 (h)
 
@@ -144,11 +144,15 @@ In subsection (g), the word “giving” is substituted for “The report to the
 
 #### References in Text
 
-Section 24902(b) of this title, referred to in subsec. (b)(1)(A), was redesignated section 24902(a) and section 24902(e) was redesignated section 24902(b) by Pub. L. 105–134, title IV, §405(b)(1)(A), Dec. 2, 1997, 111 Stat. 2586.
+Section 24902(b) of this title, referred to in subsec. (b)(1)(A), was redesignated section 24902(a) and section24902(e) was redesignated section 24902(b) by Pub. L. 105–134, title IV, §405(b)(1)(A), Dec. 2, 1997, 111 Stat. 2586.
 
 #### Amendments
 
 1997—Subsec. (h). Pub. L. 105–134 added subsec. (h).
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsecs. (a), (b)(1), (c), and (d) of this section relating to requirements to submit regular periodic reports to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, the 3rd item on page 176 and the 6th and 7th items on page 204 of House Document No. 103–7.
 
 #### Amtrak To Notify Congress of Lobbying Relationships
 

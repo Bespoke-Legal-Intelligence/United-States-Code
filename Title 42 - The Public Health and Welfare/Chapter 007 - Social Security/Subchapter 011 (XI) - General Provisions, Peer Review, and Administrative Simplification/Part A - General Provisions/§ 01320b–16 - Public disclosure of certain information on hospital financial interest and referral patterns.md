@@ -1,6 +1,6 @@
 ### §1320b–16. Public disclosure of certain information on hospital financial interest and referral patterns
 
-The Secretary shall make available to the public, in a form and manner specified by the Secretary, information disclosed to the Secretary pursuant to section 1395cc(a)(1)(S) of this title.
+The Secretary shall make available to the public, in a form and manner specified by theSecretary, information disclosed to the Secretary pursuant to section 1395cc(a)(1)(S) of this title.
 
 (Aug. 14, 1935, ch. 531, title XI, §1146, as added Pub. L. 105–33, title IV, §4321(c), Aug. 5, 1997, 111 Stat. 395.)
 

@@ -40,7 +40,7 @@
 
 (3) Any determination of the Postal Service to close or consolidate a post office shall be in writing and shall include the findings of the Postal Service with respect to the considerations required to be made under paragraph (2) of this subsection. Such determination and findings shall be made available to persons served by such post office.
 
-(4) The Postal Service shall take no action to close or consolidate a post office until 60 daysafter its written determination is made available to persons served by such post office.
+(4) The Postal Service shall take no action to close or consolidate a post office until 60 days after its written determination is made available to persons served by such post office.
 
 (5) A determination of the Postal Service to close or consolidate any post office may be appealed by any person served by such office to the Postal Rate Commission within 30 days after such determination is made available to such person under paragraph (3). The Commission shall review such determination on the basis of the record before the Postal Service in the making of such determination. The Commission shall make a determination based upon such review no later than 120 days after receiving any appeal under this paragraph. The Commission shall set aside any determination, findings, and conclusions found to be—
 

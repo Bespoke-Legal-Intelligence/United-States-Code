@@ -8,7 +8,7 @@ For the purpose of improving the state of engineering and construction in the Un
 
 #### (1) In general
 
-&emsp;If the Secretary determines that information developed as a result of research and development activities conducted by the Corps of Engineers is likely to be subject to a cooperative research and development agreement within 2 years of its development and that such information would be a trade secret or commercial or financial information thatwould be privileged or confidential if the information had been obtained from a non-Federal party participating in a cooperative research and development agreement under section 12 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710a), the Secretary may provide appropriate protection against the dissemination of such information, including exemption from subchapter II of chapter 5 of title 5, until the earlier of the date the Secretary enters into such an agreement with respect to such technology or the last day of the 2-year period beginning on the date of such determination.
+&emsp;If the Secretary determines that information developed as a result of research and development activities conducted by the Corps of Engineers is likely to be subject to a cooperative research and development agreement within 2 years of its development and that such information would be a trade secret or commercial or financial information that would be privileged or confidential if the information had been obtained from a non-Federal party participating in a cooperative research and development agreement under section 12 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710a), the Secretary may provide appropriate protection against the dissemination of such information, including exemption from subchapter II of chapter 5 of title 5, until the earlier of the date the Secretary enters into such an agreement with respect to such technology or the last day of the 2-year period beginning on the date of such determination.
 
 #### (2) Treatment
 
@@ -24,7 +24,7 @@ The research, development, or utilization of any technology pursuant to an agree
 
 #### (e) Authorization of appropriations
 
-To carry out the purposes of this section, there is authorized to be appropriated to the Secretary of the Army civil works funds $3,000,000 for fiscal year 1989, $4,000,000 for fiscal year 1990, $5,000,000 for fiscal year 1991, and $6,000,000 for each fiscal year thereafter.
+To carry out the purposes of this section, there is authorized to be appropriated to theSecretary of the Army civil works funds $3,000,000 for fiscal year 1989, $4,000,000 for fiscal year 1990, $5,000,000 for fiscal year 1991, and $6,000,000 for each fiscal year thereafter.
 
 #### (f) Funding from other Federal sources
 

@@ -26,7 +26,7 @@ Moratorium.—(1) Subject to paragraph (2), upon notification with respect to an
 
 &emsp;(B) the date of an agreement between the head of the Executive agency concerned and the Secretary as a result of the consultations under subsection (c).
 
-(2) Paragraph (1) shall not apply with respect to an administrative action or proposed administrative action if the head of the Executiveagency concerned determines that the delay in enforcement of the administrative action or proposed administrative action will pose an actual threat of an imminent and substantial endangerment to public health or the environment.
+(2) Paragraph (1) shall not apply with respect to an administrative action or proposed administrative action if the head of the Executive agency concerned determines that the delay in enforcement of the administrative action or proposed administrative action will pose an actual threat of an imminent and substantial endangerment to public health or the environment.
 
 (e)
 

@@ -1,5 +1,5 @@
 
-26 U.S.C.<br>United States Code, 1999 Edition<br>Title 26 - INTERNAL REVENUE CODE<br>From the U.S. Government Publishing Office, www.gpo.gov
+26 U.S.C.<br>United States Code, 2000 Edition<br>Title 26 - INTERNAL REVENUE CODE<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 26—INTERNAL REVENUE CODE
 
@@ -15559,7 +15559,7 @@ The Internal Revenue Title referred to in subsection (a)(1) is as follows: \* \
 
 #### Amendments
 
-1986—Subsecs. (a)(1), (c). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+<b>1986</b>—Subsecs. (a)(1), (c). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
 #### Redesignation of Internal Revenue Code of 1954; References
 
@@ -15583,47 +15583,42 @@ References in Laws, Etc.—Except when inappropriate, any reference in any law, 
 
 | Subtitle |  |
 | :--- | ---: |
-| A. | Income taxes §§1–1564.<sup>1</sup> |
+| A. | Income taxes. |
+| B. | Estate and gift taxes. |
+| C. | Employment taxes. |
+| D. | Miscellaneous excise taxes. |
+| E. | Alcohol, tobacco, and certain other excise taxes. |
+| F. | Procedure and administration. |
+| G. | The Joint Committee on Taxation. |
+| H. | Financing of Presidential election campaigns. |
+| I. | Trust Fund Code. |
+| J. | Coal industry health benefits.<sup>1</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 |  |  |
 | :--- | ---: |
-| B. | Estate and gift taxes §§2001–2663. |
-| C. | Employment taxes §§3101–3510. |
-| D. | Miscellaneous excise taxes §§4001–5000. |
-| E. | Alcohol, tobacco, and certain other excise taxes §§5001–5881. |
-| F. | Procedure and administration §§6001–7873. |
-| G. | The Joint Committee on Taxation §§8001–8023. |
-| H. | Financing of Presidential election campaigns §§9001–9042. |
-| I. | Trust Fund Code §§9500–9602. |
-| J. | Coal industry health benefits §§9701–9722.<sup>2</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
-| K. | Group health plan requirements §§9801–9833.<sup>1</sup> |
+| K. | Group health plan requirements. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
-1997—Pub. L. 105–34, title XV, §1531(b)(3), Aug. 5, 1997, 111 Stat. 1085, added subtitle K heading “Group health plan requirements” and struck out former subtitle K heading “Group health plan portability, access, and renewability requirements”.
+<b>1997</b>—Pub. L. 105–34, title XV, §1531(b)(3), Aug. 5, 1997, 111 Stat. 1085, added subtitle K heading “Group health plan requirements” and struck out former subtitle K heading “Group health plan portability, access, and renewability requirements”.
 
-1996—Pub. L. 104–191, title IV, §401(b), Aug. 21, 1996, 110 Stat. 2082, added subtitle K heading “Group health plan portability, access, and renewability requirements”.
+<b>1996</b>—Pub. L. 104–191, title IV, §401(b), Aug. 21, 1996, 110 Stat. 2082, added subtitle K heading “Group health plan portability, access, and renewability requirements”.
 
-1982—Pub. L. 97–248, title III, §§307(b)(2), 308(a), Sept. 3, 1982, 96 Stat. 590, 591, provided that, applicable topayments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, subtitle C heading is amended to read “Employment taxes and collection of income tax at source”. Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97 Stat. 369, repealed subtitle A (§§301–308) of title III of Pub. L. 97–248 as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 \[now 1986\] \[this title\] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
+<b>1982</b>—Pub. L. 97–248, title III, §§307(b)(2), 308(a), Sept. 3, 1982, 96 Stat. 590, 591, provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, subtitle C heading is amended to read “Employment taxes and collection of income tax at source”. Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97 Stat. 369, repealed subtitle A (§§301–308) of title III of Pub. L. 97–248 as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 \[now 1986\] \[this title\] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
 
-1981—Pub. L. 97–119, title I, §103(c)(2), Dec. 29, 1981, 95 Stat. 1638, added subtitle I heading “Trust Fund Code”.
+<b>1981</b>—Pub. L. 97–119, title I, §103(c)(2), Dec. 29, 1981, 95 Stat. 1638, added subtitle I heading “Trust Fund Code”.
 
-1976—Pub. L. 94–455, title XIX, §1907(b)(2), Oct. 4, 1976, 90 Stat. 1836, substituted in subtitle G heading “The Joint Committee on Taxation” for “The Joint Committee on Internal Revenue Taxation”.
+<b>1976</b>—Pub. L. 94–455, title XIX, §1907(b)(2), Oct. 4, 1976, 90 Stat. 1836, substituted in subtitle G heading “The Joint Committee on Taxation” for “The Joint Committee on Internal Revenue Taxation”.
 
-1974—Pub. L. 93–443, title IV, §408(a), Oct. 15, 1974, 88 Stat. 1297, added subtitle H heading “Financing of Presidential election campaigns”.
+<b>1974</b>—Pub. L. 93–443, title IV, §408(a), Oct. 15, 1974, 88 Stat. 1297, added subtitle H heading “Financing of Presidential election campaigns”.
 
 #### Title Referred to in Other Sections
 
-This title is referred to in title 2 sections 31a–2, 31a–3, 60c–1, 65c, 632, 651, 691e, 691f, 1610; title 5 sections 5514, 8440, 8440e; title 10 section 2401; title 11 sections 346, 745; title 12 sections 1825, 3413; title 15 sections 78c, 78kkk, 80a–3, 80b–3, 631b; title 16 sections 460<i>lll</i>–47, 470b, 1855; title 18 section 4043; title 20 sections 1087–1, 1087–2, 1087ee, 1087ss, 1087vv; title 22 sections 3307, 3968, 4071i, 4071j, 5401; title 25 sections 983f, 1716, 2719; title 29 sections 1002, 1061, 1083, 1146, 1301, 1453, 1706, 2897; title 30 section 1473; title 31 sections 1324, 3105, 3106, 3124, 3332, 3701, 3711, 3716, 3718, 3720B, 3729, 3801; title 33 section 2717; title 36 sections 20208, 20708, 20909, 21008, 21108, 22908, 40108, 50108, 60108, 70108, 70308, 80508, 100108, 110108, 140708, 150109, 151508, 152108, 152708, 152909, 154508, 154709, 170309, 170508, 190309, 210309, 220708, 230509, 240108; title 38 sections 7361, 7363; title 40 sections 207c–2, 270a; title 42 sections 401, 405, 408, 416, 604, 1007, 1395b–5, 1395y, 1471, 4636, 5055, 8217, 10702; title 45 sections 231m, 1347; title 46 App. section 1177; title 49 section 326; title 50 section 2154.
+This title is referred to in title 2 sections 31a–2, 31a–3, 31a–4, 60c–1, 65c, 632, 651, 691e, 691f, 1610; title 5 sections 5514, 8432, 8440, 8440e; title 10 section 2401; title 11 sections 346, 745; title 12 sections 1825, 3413; title 15 sections 78c, 78kkk, 80a–3, 80b–3, 631b; title 16 sections 460<i>lll</i>–47, 470b, 1855; title 18 sections 983, 4043; title 20 sections 1087–1, 1087–2, 1087ee, 1087ss, 1087vv; title 22 sections 3307, 3968, 4071i, 4071j, 5401; title 25 sections 983f, 1716, 2719; title 29 sections 1002, 1061, 1083, 1146, 1301, 1453, 2897; title 30 section 1473; title 31 sections 1324, 3105, 3106, 3124, 3332, 3701, 3711, 3716, 3718, 3720B, 3729, 3801; title 33 section 2717; title 36 sections 20208, 20708, 20909, 21008, 21108, 22908, 40108, 50108, 60108, 70108, 70308, 80508, 100108, 110108, 140708, 150109, 151508, 152108, 152708, 152909, 154508, 154709, 170309, 170508, 190309, 210309, 220708, 230509, 240108; title 38 sections 7361, 7363; title 40 sections 207c–2, 270a; title 42 sections 401, 405, 408, 416, 604, 1007, 1395b–5, 1395y, 1471, 4636, 5055, 8217, 10702; title 45 sections 231m, 1347; title 46 App. section 1177; title 49 section 326; title 50 section 2154.
 
 #### Table of Contents
 
@@ -15633,11 +15628,11 @@ This title is referred to in title 2 sections 31a–2, 31a–3, 60c–1, 65c, 63
 
 | Chapter |  | Sec. |
 | :--- | :---: | ---: |
-| [<b>1.</b>](Chapter%20001%20-%20Normal%20Taxes%20and%20Surtaxes/README.md) | <b>Normal taxes and surtaxes</b> | <b>1</b> |
-| [<b>2.</b>](Chapter%20002%20-%20Tax%20on%20Self-Employment%20Income/README.md) | <b>Tax on self-employment income</b> | <b>1401</b> |
-| [<b>3.</b>](Chapter%20003%20-%20Withholding%20of%20Tax%20on%20Nonresident%20Aliens%20and%20Foreign%20Corporations/README.md) | <b>Withholding of tax on nonresident aliens and foreign corporations</b> | <b>1441</b> |
+| [<b>1.</b>](Subtitle%20A%20-%20Income%20Taxes/Chapter%20001%20-%20Normal%20Taxes%20and%20Surtaxes/README.md) | <b>Normal taxes and surtaxes</b> | <b>1</b> |
+| [<b>2.</b>](Subtitle%20A%20-%20Income%20Taxes/Chapter%20002%20-%20Tax%20on%20Self-Employment%20Income/README.md) | <b>Tax on self-employment income</b> | <b>1401</b> |
+| [<b>3.</b>](Subtitle%20A%20-%20Income%20Taxes/Chapter%20003%20-%20Withholding%20of%20Tax%20on%20Nonresident%20Aliens%20and%20Foreign%20Corporations/README.md) | <b>Withholding of tax on nonresident aliens and foreign corporations</b> | <b>1441</b> |
 | <b>\[4, 5.</b> | <b>Repealed.\]</b> |  |
-| [<b>6.</b>](Chapter%20006%20-%20Consolidated%20Returns/README.md) | <b>Consolidated returns</b> | <b>1501</b> |
+| [<b>6.</b>](Subtitle%20A%20-%20Income%20Taxes/Chapter%20006%20-%20Consolidated%20Returns/README.md) | <b>Consolidated returns</b> | <b>1501</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -15645,10 +15640,10 @@ This title is referred to in title 2 sections 31a–2, 31a–3, 60c–1, 65c, 63
 
 |  |  |  |
 | :--- | :---: | ---: |
-| [<b>11.</b>](Chapter%20011%20-%20Estate%20Tax/README.md) | <b>Estate tax</b> | <b>2001</b> |
-| [<b>12.</b>](Chapter%20012%20-%20Gift%20Tax/README.md) | <b>Gift tax</b> | <b>2501</b> |
-| [<b>13.</b>](Chapter%20013%20-%20Tax%20on%20Generation-Skipping%20Transfers/README.md) | <b>Tax on generation skipping transfers</b> | <b>2601</b> |
-| [<b>14.</b>](Chapter%20014%20-%20Special%20Valuation%20Rules/README.md) | <b>Special valuation rules</b> | <b>2701</b> |
+| [<b>11.</b>](Subtitle%20B%20-%20Estate%20and%20Gift%20Taxes/Chapter%20011%20-%20Estate%20Tax/README.md) | <b>Estate tax</b> | <b>2001</b> |
+| [<b>12.</b>](Subtitle%20B%20-%20Estate%20and%20Gift%20Taxes/Chapter%20012%20-%20Gift%20Tax/README.md) | <b>Gift tax</b> | <b>2501</b> |
+| [<b>13.</b>](Subtitle%20B%20-%20Estate%20and%20Gift%20Taxes/Chapter%20013%20-%20Tax%20on%20Generation-Skipping%20Transfers/README.md) | <b>Tax on generation skipping transfers</b> | <b>2601</b> |
+| [<b>14.</b>](Subtitle%20B%20-%20Estate%20and%20Gift%20Taxes/Chapter%20014%20-%20Special%20Valuation%20Rules/README.md) | <b>Special valuation rules</b> | <b>2701</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -15656,12 +15651,12 @@ This title is referred to in title 2 sections 31a–2, 31a–3, 60c–1, 65c, 63
 
 |  |  |  |
 | :--- | :---: | ---: |
-| [<b>21.</b>](Chapter%20021%20-%20Federal%20Insurance%20Contributions%20Act/README.md) | <b>Federal insurance contributions act</b> | <b>3101</b> |
-| [<b>22.</b>](Chapter%20022%20-%20Railroad%20Retirement%20Tax%20Act/README.md) | <b>Railroad retirement tax act</b> | <b>3201</b> |
-| [<b>23.</b>](Chapter%20023%20-%20Federal%20Unemployment%20Tax%20Act/README.md) | <b>Federal unemployment tax act</b> | <b>3301</b> |
-| [<b>23A.</b>](Chapter%20023A%20-%20Railroad%20Unemployment%20Repayment%20Tax/README.md) | <b>Railroad unemployment repayment tax</b> | <b>3321</b> |
-| [<b>24.</b>](Chapter%20024%20-%20Collection%20of%20Income%20Tax%20at%20Source%20on%20Wages/README.md) | <b>Collection of income tax at source on wages</b> | <b>3401</b> |
-| [<b>25.</b>](Chapter%20025%20-%20General%20Provisions%20Relating%20to%20Employment%20Taxes/README.md) | <b>General provisions relating to employment taxes</b> | <b>3501</b> |
+| [<b>21.</b>](Subtitle%20C%20-%20Employment%20Taxes/Chapter%20021%20-%20Federal%20Insurance%20Contributions%20Act/README.md) | <b>Federal insurance contributions act</b> | <b>3101</b> |
+| [<b>22.</b>](Subtitle%20C%20-%20Employment%20Taxes/Chapter%20022%20-%20Railroad%20Retirement%20Tax%20Act/README.md) | <b>Railroad retirement tax act</b> | <b>3201</b> |
+| [<b>23.</b>](Subtitle%20C%20-%20Employment%20Taxes/Chapter%20023%20-%20Federal%20Unemployment%20Tax%20Act/README.md) | <b>Federal unemployment tax act</b> | <b>3301</b> |
+| [<b>23A.</b>](Subtitle%20C%20-%20Employment%20Taxes/Chapter%20023A%20-%20Railroad%20Unemployment%20Repayment%20Tax/README.md) | <b>Railroad unemployment repayment tax</b> | <b>3321</b> |
+| [<b>24.</b>](Subtitle%20C%20-%20Employment%20Taxes/Chapter%20024%20-%20Collection%20of%20Income%20Tax%20at%20Source%20on%20Wages/README.md) | <b>Collection of income tax at source on wages</b> | <b>3401</b> |
+| [<b>25.</b>](Subtitle%20C%20-%20Employment%20Taxes/Chapter%20025%20-%20General%20Provisions%20Relating%20to%20Employment%20Taxes/README.md) | <b>General provisions relating to employment taxes</b> | <b>3501</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -15669,23 +15664,23 @@ This title is referred to in title 2 sections 31a–2, 31a–3, 60c–1, 65c, 63
 
 |  |  |  |
 | :--- | :---: | ---: |
-| [<b>31.</b>](Chapter%20031%20-%20Retail%20Excise%20Taxes/README.md) | <b>Retail excise taxes</b> | <b>4001</b> |
-| [<b>32.</b>](Chapter%20032%20-%20Manufacturers%20Excise%20Taxes/README.md) | <b>Manufacturers excise taxes</b> | <b>4061</b> |
-| [<b>33.</b>](Chapter%20033%20-%20Facilities%20and%20Services/README.md) | <b>Facilities and services</b> | <b>4231</b> |
-| [<b>34.</b>](Chapter%20034%20-%20Policies%20Issued%20by%20Foreign%20Insurers/README.md) | <b>Policies issued by foreign insurers</b> | <b>4301</b> |
-| [<b>35.</b>](Chapter%20035%20-%20Taxes%20on%20Wagering/README.md) | <b>Taxes on wagering</b> | <b>4401</b> |
-| [<b>36.</b>](Chapter%20036%20-%20Certain%20Other%20Excise%20Taxes/README.md) | <b>Certain other excise taxes</b> | <b>4451</b> |
+| [<b>31.</b>](Subtitle%20D%20-%20Miscellaneous%20Excise%20Taxes/Chapter%20031%20-%20Retail%20Excise%20Taxes/README.md) | <b>Retail excise taxes</b> | <b>4001</b> |
+| [<b>32.</b>](Subtitle%20D%20-%20Miscellaneous%20Excise%20Taxes/Chapter%20032%20-%20Manufacturers%20Excise%20Taxes/README.md) | <b>Manufacturers excise taxes</b> | <b>4061</b> |
+| [<b>33.</b>](Subtitle%20D%20-%20Miscellaneous%20Excise%20Taxes/Chapter%20033%20-%20Facilities%20and%20Services/README.md) | <b>Facilities and services</b> | <b>4231</b> |
+| [<b>34.</b>](Subtitle%20D%20-%20Miscellaneous%20Excise%20Taxes/Chapter%20034%20-%20Policies%20Issued%20by%20Foreign%20Insurers/README.md) | <b>Policies issued by foreign insurers</b> | <b>4301</b> |
+| [<b>35.</b>](Subtitle%20D%20-%20Miscellaneous%20Excise%20Taxes/Chapter%20035%20-%20Taxes%20on%20Wagering/README.md) | <b>Taxes on wagering</b> | <b>4401</b> |
+| [<b>36.</b>](Subtitle%20D%20-%20Miscellaneous%20Excise%20Taxes/Chapter%20036%20-%20Certain%20Other%20Excise%20Taxes/README.md) | <b>Certain other excise taxes</b> | <b>4451</b> |
 | <b>\[37.</b> | <b>Repealed.\]</b> |  |
 | <b>38.</b> | <b>Environmental taxes</b> | <b>4611</b> |
-| [<b>39.</b>](Chapter%20039%20-%20Registration-Required%20Obligations/README.md) | <b>Registration-required obligations</b> | <b>4701</b> |
-| [<b>40.</b>](Chapter%20040%20-%20General%20Provisions%20Relating%20to%20Occupational%20Taxes/README.md) | <b>General provisions relating to occupational taxes</b> | <b>4901</b> |
-| [<b>41.</b>](Chapter%20041%20-%20Public%20Charities/README.md) | <b>Public charities</b> | <b>4911</b> |
-| [<b>42.</b>](Chapter%20042%20-%20Private%20Foundations%3B%20and%20Certain%20Other%20Tax-Exempt%20Organizations/README.md) | <b>Private foundations; and certain other tax-exempt organizations</b> | <b>4940</b> |
-| [<b>43.</b>](Chapter%20043%20-%20Qualified%20Pension%2C%20Etc.%2C%20Plans/README.md) | <b>Qualified pension, etc., plans</b> | <b>4971</b> |
-| [<b>44.</b>](Chapter%20044%20-%20Qualified%20Investment%20Entities/README.md) | <b>Qualified investment entities</b> | <b>4981</b> |
+| [<b>39.</b>](Subtitle%20D%20-%20Miscellaneous%20Excise%20Taxes/Chapter%20039%20-%20Registration-Required%20Obligations/README.md) | <b>Registration-required obligations</b> | <b>4701</b> |
+| [<b>40.</b>](Subtitle%20D%20-%20Miscellaneous%20Excise%20Taxes/Chapter%20040%20-%20General%20Provisions%20Relating%20to%20Occupational%20Taxes/README.md) | <b>General provisions relating to occupational taxes</b> | <b>4901</b> |
+| [<b>41.</b>](Subtitle%20D%20-%20Miscellaneous%20Excise%20Taxes/Chapter%20041%20-%20Public%20Charities/README.md) | <b>Public charities</b> | <b>4911</b> |
+| [<b>42.</b>](Subtitle%20D%20-%20Miscellaneous%20Excise%20Taxes/Chapter%20042%20-%20Private%20Foundations%3B%20and%20Certain%20Other%20Tax-Exempt%20Organizations/README.md) | <b>Private foundations; and certain other tax-exempt organizations</b> | <b>4940</b> |
+| [<b>43.</b>](Subtitle%20D%20-%20Miscellaneous%20Excise%20Taxes/Chapter%20043%20-%20Qualified%20Pension%2C%20Etc.%2C%20Plans/README.md) | <b>Qualified pension, etc., plans</b> | <b>4971</b> |
+| [<b>44.</b>](Subtitle%20D%20-%20Miscellaneous%20Excise%20Taxes/Chapter%20044%20-%20Qualified%20Investment%20Entities/README.md) | <b>Qualified investment entities</b> | <b>4981</b> |
 | <b>\[45.</b> | <b>Repealed.\]</b> |  |
-| [<b>46.</b>](Chapter%20046%20-%20Golden%20Parachute%20Payments/README.md) | <b>Golden parachute payments</b> | <b>4999</b> |
-| [<b>47.</b>](Chapter%20047%20-%20Certain%20Group%20Health%20Plans/README.md) | <b>Certain group health plans</b> | <b>5000</b> |
+| [<b>46.</b>](Subtitle%20D%20-%20Miscellaneous%20Excise%20Taxes/Chapter%20046%20-%20Golden%20Parachute%20Payments/README.md) | <b>Golden parachute payments</b> | <b>4999</b> |
+| [<b>47.</b>](Subtitle%20D%20-%20Miscellaneous%20Excise%20Taxes/Chapter%20047%20-%20Certain%20Group%20Health%20Plans/README.md) | <b>Certain group health plans</b> | <b>5000</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -15693,10 +15688,10 @@ This title is referred to in title 2 sections 31a–2, 31a–3, 60c–1, 65c, 63
 
 |  |  |  |
 | :--- | :---: | ---: |
-| [<b>51.</b>](Chapter%20051%20-%20Distilled%20Spirits%2C%20Wines%2C%20and%20Beer/README.md) | <b>Distilled spirits, wines, and beer</b> | <b>5001</b> |
-| [<b>52.</b>](Chapter%20052%20-%20Tobacco%20Products%20and%20Cigarette%20Papers%20and%20Tubes/README.md) | <b>Cigars, cigarettes, smokeless tobacco, pipe tobacco, and cigarette papers and tubes</b> | <b>5701</b> |
-| [<b>53.</b>](Chapter%20053%20-%20Machine%20Guns%2C%20Destructive%20Devices%2C%20and%20Certain%20Other%20Firearms/README.md) | <b>Machine guns, destructive devices, and certain other firearms</b> | <b>5801</b> |
-| [<b>54.</b>](Chapter%20054%20-%20Greenmail/README.md) | <b>Greenmail</b> | <b>5881</b> |
+| [<b>51.</b>](Subtitle%20E%20-%20Alcohol%2C%20Tobacco%2C%20and%20Certain%20Other%20Excise%20Taxes/Chapter%20051%20-%20Distilled%20Spirits%2C%20Wines%2C%20and%20Beer/README.md) | <b>Distilled spirits, wines, and beer</b> | <b>5001</b> |
+| [<b>52.</b>](Subtitle%20E%20-%20Alcohol%2C%20Tobacco%2C%20and%20Certain%20Other%20Excise%20Taxes/Chapter%20052%20-%20Tobacco%20Products%20and%20Cigarette%20Papers%20and%20Tubes/README.md) | <b>Cigars, cigarettes, smokeless tobacco, pipe tobacco, and cigarette papers and tubes</b> | <b>5701</b> |
+| [<b>53.</b>](Subtitle%20E%20-%20Alcohol%2C%20Tobacco%2C%20and%20Certain%20Other%20Excise%20Taxes/Chapter%20053%20-%20Machine%20Guns%2C%20Destructive%20Devices%2C%20and%20Certain%20Other%20Firearms/README.md) | <b>Machine guns, destructive devices, and certain other firearms</b> | <b>5801</b> |
+| [<b>54.</b>](Subtitle%20E%20-%20Alcohol%2C%20Tobacco%2C%20and%20Certain%20Other%20Excise%20Taxes/Chapter%20054%20-%20Greenmail/README.md) | <b>Greenmail</b> | <b>5881</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -15704,26 +15699,26 @@ This title is referred to in title 2 sections 31a–2, 31a–3, 60c–1, 65c, 63
 
 |  |  |  |
 | :--- | :---: | ---: |
-| [<b>61.</b>](Chapter%20061%20-%20Information%20and%20Returns/README.md) | <b>Information and returns</b> | <b>6001</b> |
-| [<b>62.</b>](Chapter%20062%20-%20Time%20and%20Place%20for%20Paying%20Tax/README.md) | <b>Time and place for paying tax</b> | <b>6151</b> |
-| [<b>63.</b>](Chapter%20063%20-%20Assessment/README.md) | <b>Assessment</b> | <b>6201</b> |
-| [<b>64.</b>](Chapter%20064%20-%20Collection/README.md) | <b>Collection</b> | <b>6301</b> |
-| [<b>65.</b>](Chapter%20065%20-%20Abatements%2C%20Credits%2C%20and%20Refunds/README.md) | <b>Abatements, credits, and refunds</b> | <b>6401</b> |
-| [<b>66.</b>](Chapter%20066%20-%20Limitations/README.md) | <b>Limitations</b> | <b>6501</b> |
-| [<b>67.</b>](Chapter%20067%20-%20Interest/README.md) | <b>Interest</b> | <b>6601</b> |
-| [<b>68.</b>](Chapter%20068%20-%20Additions%20to%20the%20Tax%2C%20Additional%20Amounts%2C%20and%20Assessable%20Penalties/README.md) | <b>Additions to the tax, additional amounts, and assessable penalties</b> | <b>6651</b> |
-| [<b>69.</b>](Chapter%20069%20-%20General%20Provisions%20Relating%20to%20Stamps/README.md) | <b>General provisions relating to stamps</b> | <b>6801</b> |
-| [<b>70.</b>](Chapter%20070%20-%20Jeopardy%2C%20Receiverships%2C%20Etc/README.md) | <b>Jeopardy, receiverships, etc.</b> | <b>6851</b> |
-| [<b>71.</b>](Chapter%20071%20-%20Transferees%20and%20Fiduciaries/README.md) | <b>Transferees and fiduciaries</b> | <b>6901</b> |
-| [<b>72.</b>](Chapter%20072%20-%20Licensing%20and%20Registration/README.md) | <b>Licensing and registration</b> | <b>7001</b> |
-| [<b>73.</b>](Chapter%20073%20-%20Bonds/README.md) | <b>Bonds</b> | <b>7101</b> |
-| [<b>74.</b>](Chapter%20074%20-%20Closing%20Agreements%20and%20Compromises/README.md) | <b>Closing agreements and compromises</b> | <b>7121</b> |
-| [<b>75.</b>](Chapter%20075%20-%20Crimes%2C%20Other%20Offenses%2C%20and%20Forfeitures/README.md) | <b>Crimes, other offenses, and forfeitures</b> | <b>7201</b> |
-| [<b>76.</b>](Chapter%20076%20-%20Judicial%20Proceedings/README.md) | <b>Judicial proceedings</b> | <b>7401</b> |
-| [<b>77.</b>](Chapter%20077%20-%20Miscellaneous%20Provisions/README.md) | <b>Miscellaneous provisions</b> | <b>7501</b> |
-| [<b>78.</b>](Chapter%20078%20-%20Discovery%20of%20Liability%20and%20Enforcement%20of%20Title/README.md) | <b>Discovery of liability and enforcement of title</b> | <b>7601</b> |
-| [<b>79.</b>](Chapter%20079%20-%20Definitions/README.md) | <b>Definitions</b> | <b>7701</b> |
-| [<b>80.</b>](Chapter%20080%20-%20General%20Rules/README.md) | <b>General Rules</b> | <b>7801</b> |
+| [<b>61.</b>](Subtitle%20F%20-%20Procedure%20and%20Administration/Chapter%20061%20-%20Information%20and%20Returns/README.md) | <b>Information and returns</b> | <b>6001</b> |
+| [<b>62.</b>](Subtitle%20F%20-%20Procedure%20and%20Administration/Chapter%20062%20-%20Time%20and%20Place%20for%20Paying%20Tax/README.md) | <b>Time and place for paying tax</b> | <b>6151</b> |
+| [<b>63.</b>](Subtitle%20F%20-%20Procedure%20and%20Administration/Chapter%20063%20-%20Assessment/README.md) | <b>Assessment</b> | <b>6201</b> |
+| [<b>64.</b>](Subtitle%20F%20-%20Procedure%20and%20Administration/Chapter%20064%20-%20Collection/README.md) | <b>Collection</b> | <b>6301</b> |
+| [<b>65.</b>](Subtitle%20F%20-%20Procedure%20and%20Administration/Chapter%20065%20-%20Abatements%2C%20Credits%2C%20and%20Refunds/README.md) | <b>Abatements, credits, and refunds</b> | <b>6401</b> |
+| [<b>66.</b>](Subtitle%20F%20-%20Procedure%20and%20Administration/Chapter%20066%20-%20Limitations/README.md) | <b>Limitations</b> | <b>6501</b> |
+| [<b>67.</b>](Subtitle%20F%20-%20Procedure%20and%20Administration/Chapter%20067%20-%20Interest/README.md) | <b>Interest</b> | <b>6601</b> |
+| [<b>68.</b>](Subtitle%20F%20-%20Procedure%20and%20Administration/Chapter%20068%20-%20Additions%20to%20the%20Tax%2C%20Additional%20Amounts%2C%20and%20Assessable%20Penalties/README.md) | <b>Additions to the tax, additional amounts, and assessable penalties</b> | <b>6651</b> |
+| [<b>69.</b>](Subtitle%20F%20-%20Procedure%20and%20Administration/Chapter%20069%20-%20General%20Provisions%20Relating%20to%20Stamps/README.md) | <b>General provisions relating to stamps</b> | <b>6801</b> |
+| [<b>70.</b>](Subtitle%20F%20-%20Procedure%20and%20Administration/Chapter%20070%20-%20Jeopardy%2C%20Receiverships%2C%20Etc/README.md) | <b>Jeopardy, receiverships, etc.</b> | <b>6851</b> |
+| [<b>71.</b>](Subtitle%20F%20-%20Procedure%20and%20Administration/Chapter%20071%20-%20Transferees%20and%20Fiduciaries/README.md) | <b>Transferees and fiduciaries</b> | <b>6901</b> |
+| [<b>72.</b>](Subtitle%20F%20-%20Procedure%20and%20Administration/Chapter%20072%20-%20Licensing%20and%20Registration/README.md) | <b>Licensing and registration</b> | <b>7001</b> |
+| [<b>73.</b>](Subtitle%20F%20-%20Procedure%20and%20Administration/Chapter%20073%20-%20Bonds/README.md) | <b>Bonds</b> | <b>7101</b> |
+| [<b>74.</b>](Subtitle%20F%20-%20Procedure%20and%20Administration/Chapter%20074%20-%20Closing%20Agreements%20and%20Compromises/README.md) | <b>Closing agreements and compromises</b> | <b>7121</b> |
+| [<b>75.</b>](Subtitle%20F%20-%20Procedure%20and%20Administration/Chapter%20075%20-%20Crimes%2C%20Other%20Offenses%2C%20and%20Forfeitures/README.md) | <b>Crimes, other offenses, and forfeitures</b> | <b>7201</b> |
+| [<b>76.</b>](Subtitle%20F%20-%20Procedure%20and%20Administration/Chapter%20076%20-%20Judicial%20Proceedings/README.md) | <b>Judicial proceedings</b> | <b>7401</b> |
+| [<b>77.</b>](Subtitle%20F%20-%20Procedure%20and%20Administration/Chapter%20077%20-%20Miscellaneous%20Provisions/README.md) | <b>Miscellaneous provisions</b> | <b>7501</b> |
+| [<b>78.</b>](Subtitle%20F%20-%20Procedure%20and%20Administration/Chapter%20078%20-%20Discovery%20of%20Liability%20and%20Enforcement%20of%20Title/README.md) | <b>Discovery of liability and enforcement of title</b> | <b>7601</b> |
+| [<b>79.</b>](Subtitle%20F%20-%20Procedure%20and%20Administration/Chapter%20079%20-%20Definitions/README.md) | <b>Definitions</b> | <b>7701</b> |
+| [<b>80.</b>](Subtitle%20F%20-%20Procedure%20and%20Administration/Chapter%20080%20-%20General%20Rules/README.md) | <b>General Rules</b> | <b>7801</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -15731,8 +15726,8 @@ This title is referred to in title 2 sections 31a–2, 31a–3, 60c–1, 65c, 63
 
 |  |  |  |
 | :--- | :---: | ---: |
-| [<b>91.</b>](Chapter%20091%20-%20Organization%20and%20Membership%20of%20the%20Joint%20Committee/README.md) | <b>Organization and membership of the Joint Committee</b> | <b>8001</b> |
-| [<b>92.</b>](Chapter%20092%20-%20Powers%20and%20Duties%20of%20the%20Joint%20Committee/README.md) | <b>Powers and duties of the Joint Committee</b> | <b>8021</b> |
+| [<b>91.</b>](Subtitle%20G%20-%20The%20Joint%20Committee%20on%20Taxation/Chapter%20091%20-%20Organization%20and%20Membership%20of%20the%20Joint%20Committee/README.md) | <b>Organization and membership of the Joint Committee</b> | <b>8001</b> |
+| [<b>92.</b>](Subtitle%20G%20-%20The%20Joint%20Committee%20on%20Taxation/Chapter%20092%20-%20Powers%20and%20Duties%20of%20the%20Joint%20Committee/README.md) | <b>Powers and duties of the Joint Committee</b> | <b>8021</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -15740,8 +15735,8 @@ This title is referred to in title 2 sections 31a–2, 31a–3, 60c–1, 65c, 63
 
 |  |  |  |
 | :--- | :---: | ---: |
-| [<b>95.</b>](Chapter%20095%20-%20Presidential%20Election%20Campaign%20Fund/README.md) | <b>Presidential election campaign fund</b> | <b>9001</b> |
-| [<b>96.</b>](Chapter%20096%20-%20Presidential%20Primary%20Matching%20Payment%20Account/README.md) | <b>Presidential primary matching payment account</b> | <b>9031</b> |
+| [<b>95.</b>](Subtitle%20H%20-%20Financing%20of%20Presidential%20Election%20Campaigns/Chapter%20095%20-%20Presidential%20Election%20Campaign%20Fund/README.md) | <b>Presidential election campaign fund</b> | <b>9001</b> |
+| [<b>96.</b>](Subtitle%20H%20-%20Financing%20of%20Presidential%20Election%20Campaigns/Chapter%20096%20-%20Presidential%20Primary%20Matching%20Payment%20Account/README.md) | <b>Presidential primary matching payment account</b> | <b>9031</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -15749,7 +15744,7 @@ This title is referred to in title 2 sections 31a–2, 31a–3, 60c–1, 65c, 63
 
 |  |  |  |
 | :--- | :---: | ---: |
-| [<b>98.</b>](Chapter%20098%20-%20Trust%20Fund%20Code/README.md) | <b>Trust Fund Code</b> | <b>9501</b> |
+| [<b>98.</b>](Subtitle%20I%20-%20Trust%20Fund%20Code/Chapter%20098%20-%20Trust%20Fund%20Code/README.md) | <b>Trust Fund Code</b> | <b>9501</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -15757,7 +15752,7 @@ This title is referred to in title 2 sections 31a–2, 31a–3, 60c–1, 65c, 63
 
 |  |  |  |
 | :--- | :---: | ---: |
-| [<b>99.</b>](Chapter%20099%20-%20Coal%20Industry%20Health%20Benefits/README.md) | <b>Coal industry health benefits</b> | <b>9701</b> |
+| [<b>99.</b>](Subtitle%20J%20-%20Coal%20Industry%20Health%20Benefits/Chapter%20099%20-%20Coal%20Industry%20Health%20Benefits/README.md) | <b>Coal industry health benefits</b> | <b>9701</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -15765,101 +15760,25 @@ This title is referred to in title 2 sections 31a–2, 31a–3, 60c–1, 65c, 63
 
 |  |  |  |
 | :--- | :---: | ---: |
-| [<b>100.</b>](Chapter%20100%20-%20Group%20Health%20Plan%20Requirements/README.md) | <b>Group health plan portability, access, and renewability requirements</b> | <b>9801</b> |
+| [<b>100.</b>](Subtitle%20K%20-%20Group%20Health%20Plan%20Requirements/Chapter%20100%20-%20Group%20Health%20Plan%20Requirements/README.md) | <b>Group health plan portability, access, and renewability requirements</b> | <b>9801</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-## Subtitle A—Income Taxes
-
-| Chapter |  |
-| :--- | ---: |
-| [1\.](Chapter%20001%20-%20Normal%20Taxes%20and%20Surtaxes/README.md) | Normal taxes and surtaxes. |
-| [2\.](Chapter%20002%20-%20Tax%20on%20Self-Employment%20Income/README.md) | Tax on self-employment income. |
-| [3\.](Chapter%20003%20-%20Withholding%20of%20Tax%20on%20Nonresident%20Aliens%20and%20Foreign%20Corporations/README.md) | Withholding of tax on nonresident aliens and foreign corporations. |
-| \[4, 5. | Repealed.\] |
-| [6\.](Chapter%20006%20-%20Consolidated%20Returns/README.md) | Consolidated returns. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Amendments
-
-1997—Pub. L. 105–34, title XI, §1131(c)(4), Aug. 5, 1997, 111 Stat. 980, struck out item for chapter 5 “Tax on transfers to avoid income tax”.
-
-1990—Pub. L. 101–508, title XI, §11801(b)(11), Nov. 5, 1990, 104 Stat. 1388–522, struck out item for chapter 4 “Rules applicable to recovery of excessive profits on government contracts”.
-
-1984—Pub. L. 98–369, div. A, title IV, §474(r)(29)(D), July 18, 1984, 98 Stat. 844, struck out “and tax-free covenant bonds” at end of item for chapter 3.
-
-#### Subtitle Referred to in Other Sections
-
-This subtitle is referred to in sections 810, 2056A, 2107, 3402, 3502, 3507, 3508, 4911, 4980, 4999, 5041, 5881, 6011, 6012, 6013, 6038A, 6075, 6111, 6159, 6164, 6201, 6211, 6212, 6213, 6214, 6229, 6231, 6234, 6242, 6311, 6315, 6401, 6404, 6420, 6421, 6427, 6501, 6601, 6621, 6672, 6682, 6694, 6695, 6696, 6702, 6871, 6901, 6905, 7001, 7463, 7491, 7701, 7851, 7852, 7872, 7873 of this title; title 22 sections 1627, 5510; title 25 sections 1729, 1754; title 31 section 3105; title 42 sections 411, 11371; title 45 section 231m; title 48 section 1421i; title 50 App. section 2017e.
+<i><sup>1</sup></i><i> Editorially supplied. Subtitle J added by Pub. L. 102–486 without corresponding amendment of title analysis.</i>
 
 
 ---
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [Chapter 001 - Normal Taxes and Surtaxes](Chapter%20001%20-%20Normal%20Taxes%20and%20Surtaxes/README.md)
-- [Chapter 002 - Tax on Self-Employment Income](Chapter%20002%20-%20Tax%20on%20Self-Employment%20Income/README.md)
-- [Chapter 003 - Withholding of Tax on Nonresident Aliens and Foreign Corporations](Chapter%20003%20-%20Withholding%20of%20Tax%20on%20Nonresident%20Aliens%20and%20Foreign%20Corporations/README.md)
-- [Chapter 004 - Repealed](Chapter%20004%20-%20Repealed/README.md)
-- [Chapter 005 - Repealed](Chapter%20005%20-%20Repealed/README.md)
-- [Chapter 006 - Consolidated Returns](Chapter%20006%20-%20Consolidated%20Returns/README.md)
-- [Chapter 011 - Estate Tax](Chapter%20011%20-%20Estate%20Tax/README.md)
-- [Chapter 012 - Gift Tax](Chapter%20012%20-%20Gift%20Tax/README.md)
-- [Chapter 013 - Tax on Generation-Skipping Transfers](Chapter%20013%20-%20Tax%20on%20Generation-Skipping%20Transfers/README.md)
-- [Chapter 014 - Special Valuation Rules](Chapter%20014%20-%20Special%20Valuation%20Rules/README.md)
-- [Chapter 021 - Federal Insurance Contributions Act](Chapter%20021%20-%20Federal%20Insurance%20Contributions%20Act/README.md)
-- [Chapter 022 - Railroad Retirement Tax Act](Chapter%20022%20-%20Railroad%20Retirement%20Tax%20Act/README.md)
-- [Chapter 023 - Federal Unemployment Tax Act](Chapter%20023%20-%20Federal%20Unemployment%20Tax%20Act/README.md)
-- [Chapter 023A - Railroad Unemployment Repayment Tax](Chapter%20023A%20-%20Railroad%20Unemployment%20Repayment%20Tax/README.md)
-- [Chapter 024 - Collection of Income Tax at Source on Wages](Chapter%20024%20-%20Collection%20of%20Income%20Tax%20at%20Source%20on%20Wages/README.md)
-- [Chapter 025 - General Provisions Relating to Employment Taxes](Chapter%20025%20-%20General%20Provisions%20Relating%20to%20Employment%20Taxes/README.md)
-- [Chapter 031 - Retail Excise Taxes](Chapter%20031%20-%20Retail%20Excise%20Taxes/README.md)
-- [Chapter 032 - Manufacturers Excise Taxes](Chapter%20032%20-%20Manufacturers%20Excise%20Taxes/README.md)
-- [Chapter 033 - Facilities and Services](Chapter%20033%20-%20Facilities%20and%20Services/README.md)
-- [Chapter 034 - Policies Issued by Foreign Insurers](Chapter%20034%20-%20Policies%20Issued%20by%20Foreign%20Insurers/README.md)
-- [Chapter 035 - Taxes on Wagering](Chapter%20035%20-%20Taxes%20on%20Wagering/README.md)
-- [Chapter 036 - Certain Other Excise Taxes](Chapter%20036%20-%20Certain%20Other%20Excise%20Taxes/README.md)
-- [Chapter 037 - Repealed](Chapter%20037%20-%20Repealed/README.md)
-- [Chapter 038 - Repealed](Chapter%20038%20-%20Repealed/README.md)
-- [Chapter 038 - Environmental Taxes](Chapter%20038%20-%20Environmental%20Taxes/README.md)
-- [Chapter 039 - Registration-Required Obligations](Chapter%20039%20-%20Registration-Required%20Obligations/README.md)
-- [Chapter 040 - General Provisions Relating to Occupational Taxes](Chapter%20040%20-%20General%20Provisions%20Relating%20to%20Occupational%20Taxes/README.md)
-- [Chapter 041 - Public Charities](Chapter%20041%20-%20Public%20Charities/README.md)
-- [Chapter 042 - Private Foundations; and Certain Other Tax-Exempt Organizations](Chapter%20042%20-%20Private%20Foundations%3B%20and%20Certain%20Other%20Tax-Exempt%20Organizations/README.md)
-- [Chapter 043 - Qualified Pension, Etc., Plans](Chapter%20043%20-%20Qualified%20Pension%2C%20Etc.%2C%20Plans/README.md)
-- [Chapter 044 - Qualified Investment Entities](Chapter%20044%20-%20Qualified%20Investment%20Entities/README.md)
-- [Chapter 045 - Repealed](Chapter%20045%20-%20Repealed/README.md)
-- [Chapter 046 - Golden Parachute Payments](Chapter%20046%20-%20Golden%20Parachute%20Payments/README.md)
-- [Chapter 047 - Certain Group Health Plans](Chapter%20047%20-%20Certain%20Group%20Health%20Plans/README.md)
-- [Chapter 051 - Distilled Spirits, Wines, and Beer](Chapter%20051%20-%20Distilled%20Spirits%2C%20Wines%2C%20and%20Beer/README.md)
-- [Chapter 052 - Tobacco Products and Cigarette Papers and Tubes](Chapter%20052%20-%20Tobacco%20Products%20and%20Cigarette%20Papers%20and%20Tubes/README.md)
-- [Chapter 053 - Machine Guns, Destructive Devices, and Certain Other Firearms](Chapter%20053%20-%20Machine%20Guns%2C%20Destructive%20Devices%2C%20and%20Certain%20Other%20Firearms/README.md)
-- [Chapter 054 - Greenmail](Chapter%20054%20-%20Greenmail/README.md)
-- [Chapter 061 - Information and Returns](Chapter%20061%20-%20Information%20and%20Returns/README.md)
-- [Chapter 062 - Time and Place for Paying Tax](Chapter%20062%20-%20Time%20and%20Place%20for%20Paying%20Tax/README.md)
-- [Chapter 063 - Assessment](Chapter%20063%20-%20Assessment/README.md)
-- [Chapter 064 - Collection](Chapter%20064%20-%20Collection/README.md)
-- [Chapter 065 - Abatements, Credits, and Refunds](Chapter%20065%20-%20Abatements%2C%20Credits%2C%20and%20Refunds/README.md)
-- [Chapter 066 - Limitations](Chapter%20066%20-%20Limitations/README.md)
-- [Chapter 067 - Interest](Chapter%20067%20-%20Interest/README.md)
-- [Chapter 068 - Additions to the Tax, Additional Amounts, and Assessable Penalties](Chapter%20068%20-%20Additions%20to%20the%20Tax%2C%20Additional%20Amounts%2C%20and%20Assessable%20Penalties/README.md)
-- [Chapter 069 - General Provisions Relating to Stamps](Chapter%20069%20-%20General%20Provisions%20Relating%20to%20Stamps/README.md)
-- [Chapter 070 - Jeopardy, Receiverships, Etc](Chapter%20070%20-%20Jeopardy%2C%20Receiverships%2C%20Etc/README.md)
-- [Chapter 071 - Transferees and Fiduciaries](Chapter%20071%20-%20Transferees%20and%20Fiduciaries/README.md)
-- [Chapter 072 - Licensing and Registration](Chapter%20072%20-%20Licensing%20and%20Registration/README.md)
-- [Chapter 073 - Bonds](Chapter%20073%20-%20Bonds/README.md)
-- [Chapter 074 - Closing Agreements and Compromises](Chapter%20074%20-%20Closing%20Agreements%20and%20Compromises/README.md)
-- [Chapter 075 - Crimes, Other Offenses, and Forfeitures](Chapter%20075%20-%20Crimes%2C%20Other%20Offenses%2C%20and%20Forfeitures/README.md)
-- [Chapter 076 - Judicial Proceedings](Chapter%20076%20-%20Judicial%20Proceedings/README.md)
-- [Chapter 077 - Miscellaneous Provisions](Chapter%20077%20-%20Miscellaneous%20Provisions/README.md)
-- [Chapter 078 - Discovery of Liability and Enforcement of Title](Chapter%20078%20-%20Discovery%20of%20Liability%20and%20Enforcement%20of%20Title/README.md)
-- [Chapter 079 - Definitions](Chapter%20079%20-%20Definitions/README.md)
-- [Chapter 080 - General Rules](Chapter%20080%20-%20General%20Rules/README.md)
-- [Chapter 091 - Organization and Membership of the Joint Committee](Chapter%20091%20-%20Organization%20and%20Membership%20of%20the%20Joint%20Committee/README.md)
-- [Chapter 092 - Powers and Duties of the Joint Committee](Chapter%20092%20-%20Powers%20and%20Duties%20of%20the%20Joint%20Committee/README.md)
-- [Chapter 095 - Presidential Election Campaign Fund](Chapter%20095%20-%20Presidential%20Election%20Campaign%20Fund/README.md)
-- [Chapter 096 - Presidential Primary Matching Payment Account](Chapter%20096%20-%20Presidential%20Primary%20Matching%20Payment%20Account/README.md)
-- [Chapter 098 - Trust Fund Code](Chapter%20098%20-%20Trust%20Fund%20Code/README.md)
-- [Chapter 099 - Coal Industry Health Benefits](Chapter%20099%20-%20Coal%20Industry%20Health%20Benefits/README.md)
-- [Chapter 100 - Group Health Plan Requirements](Chapter%20100%20-%20Group%20Health%20Plan%20Requirements/README.md)
+- [Subtitle A - Income Taxes](Subtitle%20A%20-%20Income%20Taxes/README.md)
+- [Subtitle B - Estate and Gift Taxes](Subtitle%20B%20-%20Estate%20and%20Gift%20Taxes/README.md)
+- [Subtitle C - Employment Taxes](Subtitle%20C%20-%20Employment%20Taxes/README.md)
+- [Subtitle D - Miscellaneous Excise Taxes](Subtitle%20D%20-%20Miscellaneous%20Excise%20Taxes/README.md)
+- [Subtitle E - Alcohol, Tobacco, and Certain Other Excise Taxes](Subtitle%20E%20-%20Alcohol%2C%20Tobacco%2C%20and%20Certain%20Other%20Excise%20Taxes/README.md)
+- [Subtitle F - Procedure and Administration](Subtitle%20F%20-%20Procedure%20and%20Administration/README.md)
+- [Subtitle G - The Joint Committee on Taxation](Subtitle%20G%20-%20The%20Joint%20Committee%20on%20Taxation/README.md)
+- [Subtitle H - Financing of Presidential Election Campaigns](Subtitle%20H%20-%20Financing%20of%20Presidential%20Election%20Campaigns/README.md)
+- [Subtitle I - Trust Fund Code](Subtitle%20I%20-%20Trust%20Fund%20Code/README.md)
+- [Subtitle J - Coal Industry Health Benefits](Subtitle%20J%20-%20Coal%20Industry%20Health%20Benefits/README.md)
+- [Subtitle K - Group Health Plan Requirements](Subtitle%20K%20-%20Group%20Health%20Plan%20Requirements/README.md)

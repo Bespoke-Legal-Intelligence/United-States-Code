@@ -89,6 +89,8 @@
 | (b) | Computation. |
 | (c) | Loan payment rate. |
 | (d) | Exception for extra long staple cotton. |
+| (e) | Transition. |
+| (f) | Beneficial interest. |
 | [7236\.](Subchapter%20003%20%28III%29%20-%20Nonrecourse%20Marketing%20Assistance%20Loans%20and%20Loan%20Deficiency%20Payments/%C2%A7%2007236%20-%20Special%20marketing%20loan%20provisions%20for%20upland%20cotton.md) | Special marketing loan provisions for upland cotton. |
 | (a) | Cotton user marketing certificates. |
 | (b) | Special import quota. |
@@ -283,6 +285,8 @@ st CENTURY PRODUCTION AGRICULTURE
 | (g) | Use of Commodity Credit Corporation. |
 | (h) | Exclusions. |
 | (i) | Payment and income limitations. |
+| (j) | Omitted. |
+| (k) | Service fee. |
 | [7334\.](Subchapter%20008%20%28VIII%29%20-%20Miscellaneous%20Commodity%20Provisions/%C2%A7%2007334%20-%20Flood%20risk%20reduction.md) | Flood risk reduction. |
 | (a) | In general. |
 | (b) | Duties of producers. |
@@ -295,7 +299,7 @@ st CENTURY PRODUCTION AGRICULTURE
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1308, 1308–3, 1508, 7334 of this title; title 16 sections 3811, 3821, 3839bb.
+This chapter is referred to in sections 1308, 1308–3, 1508, 1515, 7334 of this title; title 16 sections 3811, 3821, 3839bb.
 
 
 ---

@@ -16,7 +16,7 @@ If any licensee shall permit any person who is a legally qualified candidate for
 
 #### (b) Broadcast media rates
 
-The charges made for the use of any broadcasting station by any person who is a legallyqualified candidate for any public office in connection with his campaign for nomination for election, or election, to such office shall not exceed—
+The charges made for the use of any broadcasting station by any person who is a legally qualified candidate for any public office in connection with his campaign for nomination for election, or election, to such office shall not exceed—
 
 &emsp;(1) during the forty-five days preceding the date of a primary or primary runoff election and during the sixty days preceding the date of a general or special election in which such person is a candidate, the lowest unit charge of the station for the same class and amount of time for the same period; and
 
@@ -46,7 +46,7 @@ Subsecs. (e) to (g). Pub. L. 93–443, §402(a), struck out subsec. (e) provisio
 
 1972—Subsec. (a). Pub. L. 92–225, §103(a)(2)(B), inserted “under this subsection” after “No obligation is imposed”.
 
-Subsec. (b). Pub. L. 92–225, §103(a)(1), substituted in introductory text “by any person who is a legally qualified candidate for any public office in connection with his campaign for nomination for election, or election, to such office”, for “for any of the purposes set forth in this section”, added par. (1), designated existing provisions as par. (2), inserted therein the opening words “at any other time,” and substituted “by other users thereof” for “for other purposes”.
+Subsec. (b). Pub. L. 92–225, §103(a)(1), substituted in introductory text “by any person who is a legallyqualified candidate for any public office in connection with his campaign for nomination for election, or election, to such office”, for “for any of the purposes set forth in this section”, added par. (1), designated existing provisions as par. (2), inserted therein the opening words “at any other time,” and substituted “by other users thereof” for “for other purposes”.
 
 Subsecs. (c) to (g). Pub. L. 92–225, §104(c), added subsecs. (c) to (f) and redesignated former subsec. (c) as (g).
 

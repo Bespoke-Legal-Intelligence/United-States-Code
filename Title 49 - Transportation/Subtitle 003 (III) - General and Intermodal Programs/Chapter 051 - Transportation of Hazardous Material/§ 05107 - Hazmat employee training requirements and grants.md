@@ -40,7 +40,7 @@ Certification of Training.—After completing the training, each hazmat employer
 
 (d)
 
-Coordination of Training Requirements.—In consultation with the Administrator of the Environmental Protection Agency and the Secretary of Labor, the Secretary of Transportation shall ensure that the training requirements prescribed under this section do not conflict with or duplicate—
+Coordination of Training Requirements.—In consultation with the Administratorof the Environmental Protection Agency and the Secretary of Labor, the Secretary of Transportation shall ensure that the training requirements prescribed under this section do not conflict with or duplicate—
 
 &emsp;(1) the requirements of regulations the Secretary of Labor prescribes related to hazard communication, and hazardous waste operations, and emergency response that are contained in part 1910 of title 29, Code of Federal Regulations; and
 

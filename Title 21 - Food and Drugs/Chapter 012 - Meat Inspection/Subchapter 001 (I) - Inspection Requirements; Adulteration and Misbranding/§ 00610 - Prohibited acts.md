@@ -12,7 +12,7 @@ No person, firm, or corporation shall, with respect to any cattle, sheep, swine,
 
 #### (c) Sales, transportation, and other transactions
 
-&emsp;sell, transport, offer for sale or transportation, or receive for transportation, in commerce, (1) any such articles which (A) are capable of use as human food and (B) are adulterated or misbranded at the time of such sale, transportation, offer for sale or transportation, or receipt for transportation; or (2) any articles required to be inspected under thissubchapter unless they have been so inspected and passed;
+&emsp;sell, transport, offer for sale or transportation, or receive for transportation, in commerce, (1) any such articles which (A) are capable of use as human food and (B) are adulterated or misbranded at the time of such sale, transportation, offer for sale or transportation, or receipt for transportation; or (2) any articles required to be inspected under this subchapter unless they have been so inspected and passed;
 
 #### (d) Adulteration or misbranding
 

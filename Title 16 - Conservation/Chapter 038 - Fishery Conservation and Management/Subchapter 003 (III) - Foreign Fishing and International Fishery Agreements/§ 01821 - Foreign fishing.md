@@ -134,7 +134,7 @@ Foreign fishing shall not be authorized for the fishing vessels of any foreign n
 
 #### (g) Preliminary fishery management plans
 
-The Secretary, when notified by the Secretary of State that any foreign nation has submitted an application under section 1824(b) of this title shall prepare a preliminary fishery management plan for any fishery covered by such application if the Secretary determines that no fishery management plan for that fishery will be preparedand implemented, pursuant to subchapter IV of this chapter, before March 1, 1977. To the extent practicable, each such plan—
+The Secretary, when notified by the Secretary of State that any foreign nation has submitted an application under section 1824(b) of this title shall prepare a preliminary fishery management plan for any fishery covered by such application if the Secretary determines that no fishery management plan for that fishery will be prepared and implemented, pursuant to subchapter IV of this chapter, before March 1, 1977. To the extent practicable, each such plan—
 
 &emsp;(1) shall contain a preliminary description of the fishery and a preliminary determination as to—
 
@@ -210,7 +210,7 @@ Notwithstanding any other provision of this subchapter, foreign fishing vessels 
 
 #### References in Text
 
-This chapter, referred to in subsecs. (c), (d), (e)(2)(C)(iii), (g), and (h)(3), (6)(D), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+This chapter, referred to in subsecs. (c), (d), (e)(2)(C)(iii), (g), and (h)(3), (6)(D), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-StevensFishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 #### Amendments
 

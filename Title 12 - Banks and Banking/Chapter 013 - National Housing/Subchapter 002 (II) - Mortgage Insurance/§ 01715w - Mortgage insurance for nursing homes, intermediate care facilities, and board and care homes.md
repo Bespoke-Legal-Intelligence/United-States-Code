@@ -14,7 +14,7 @@ The purpose of this section is to assist in the provision of facilities for any 
 
 For the purposes of this section—
 
-&emsp;(1) the term “nursing home” means a public facility, proprietary facility or facility of a private nonprofit corporation or association,licensed or regulated by the State (or, if there is no State law providing for such licensing and regulation by the State, by the municipality or other political subdivision in which the facility is located), for the accommodation of convalescents or other persons who are not acutely ill and not in need of hospital care but who require skilled nursing care and related medical services, in which such nursing care and medical services are prescribed by, or are performed under the general direction of, persons licensed to provide such care or services in accordance with the laws of the State where the facility is located;
+&emsp;(1) the term “nursing home” means a public facility, proprietary facility or facility of a private nonprofit corporation or association, licensed or regulated by the State (or, if there is no State law providing for such licensing and regulation by the State, by the municipality or other political subdivision in which the facility is located), for the accommodation of convalescents or other persons who are not acutely ill and not in need of hospital care but who require skilled nursing care and related medical services, in which such nursing care and medical services are prescribed by, or are performed under the general direction of, persons licensed to provide such care or services in accordance with the laws of the State where the facility is located;
 
 &emsp;(2) the term “intermediate care facility” means a proprietary facility or facility of a private nonprofit corporation or association licensed or regulated by the State (or, if there is no State law providing for such licensing and regulation by the State, by the municipality or other political subdivision in which the facility is located) for the accommodation of persons who, because of incapacitating infirmities, require minimum but continuous care but are not in need of continuous medical or nursing services;
 
@@ -42,13 +42,13 @@ The Secretary is authorized to insure any mortgage (including advances on such m
 
 In order to carry out the purposes of this section, the Secretary is authorized to insure any mortgage which covers a new or rehabilitated nursing home,,<sup>2</sup> assisted living facility, or intermediate care facility, including a new addition to an existing nursing home, assisted living facility, or intermediate care facility and regardless of whether the existing home or facility is being rehabilitated, or any combination of nursing home, assisted living facility, and intermediate care facility or a board and care home, including equipment to be used in its operation, subject to the following conditions:
 
-&emsp;(1) The mortgage shall be executed by a mortgagor approved by the Secretary. The Secretary may in his discretion require any such mortgagor to be regulated or restricted as to charges and methods of financing, and, in addition thereto, if the mortgagor is a corporate entity, as to capital structure and rate of return. As an aid to the regulation or restriction of any mortgagor with respect to any of the foregoing matters, the Secretary may make such contracts with and acquire for not to exceed $100 such stock or interest in suchmortgagor as he may deem necessary. Any stock or interest so purchased shall be paid for out of the General Insurance Fund, and shall be redeemed by the mortgagor at par upon the termination of all obligations of the Secretary under the insurance.
+&emsp;(1) The mortgage shall be executed by a mortgagor approved by the Secretary. The Secretary may in his discretion require any such mortgagor to be regulated or restricted as to charges and methods of financing, and, in addition thereto, if the mortgagor is a corporate entity, as to capital structure and rate of return. As an aid to the regulation or restriction of any mortgagor with respect to any of the foregoing matters, the Secretary may make such contracts with and acquire for not to exceed $100 such stock or interest in such mortgagor as he may deem necessary. Any stock or interest so purchased shall be paid for out of the General Insurance Fund, and shall be redeemed by the mortgagor at par upon the termination of all obligations of the Secretary under the insurance.
 
 &emsp;(2) The mortgage shall involve a principal obligation in an amount not to exceed 90 per centum of the estimated value of the property or project, or 95 percent of the estimated value of the property or project in the case of a mortgagor that is a private nonprofit corporation or association (under the meaning given such term for purposes of section 1715<i>l</i>(d)(3) of this title), including—
 
 &emsp;&emsp;(A) equipment to be used in the operation of the home or facility or combined home and facility when the proposed improvements are completed and the equipment is installed; or
 
-&emsp;&emsp;(B) a solar energy system (as defined in subparagraph (3) of the last paragraph of section 1703(a) of this title) or residential energy conservation measures (as defined in section 8211(11)(A) through (G) and (I) of title 42) <sup>3</sup> in cases where the Secretary determines that such measures are in addition to those required under the minimum property standards and will be cost-effective over the life of the measure.
+&emsp;&emsp;(B) a solar energy system (as defined in subparagraph (3) of the last paragraph of section 1703(a) of this title) or residential energy conservation measures (as defined in section 8211(11)(A) through (G) and (I) of title 42) <sup>3</sup> in cases where the Secretary determines that such measures are in addition tothose required under the minimum property standards and will be cost-effective over the life of the measure.
 
 &emsp;(3) The mortgage shall—
 
@@ -66,7 +66,7 @@ In order to carry out the purposes of this section, the Secretary is authorized 
 
 &emsp;&emsp;(i) the Secretary determines that the level of financing acquired by the mortgagor and any other resources available for the facility will be sufficient to ensure that the facility contains dwelling units and facilities for the provision of supportive services in accordance with subsection (b)(6) of this section;
 
-&emsp;&emsp;(ii) the mortgagor provides assurances satisfactory to the Secretary that each dwelling unit in the facility will not be occupiedby more than 1 person without the consent of all such occupants; and
+&emsp;&emsp;(ii) the mortgagor provides assurances satisfactory to the Secretary that each dwelling unit in the facility will not be occupied by more than 1 person without the consent of all such occupants; and
 
 &emsp;&emsp;(iii) the appropriate State licensing agency for the State, municipality, or other political subdivision in which the facility is or is to be located provides such assurances as the Secretary considers necessary that the facility will comply with any applicable standards and requirements for such facilities.
 
@@ -80,7 +80,7 @@ The provisions of subsections (d), (e), (g), (h), (i), (j), (k), (<i>l</i>), and
 
 #### (g) Regulations covering intermediate care facilities; consultations
 
-The Secretary shall prescribe such regulations as may be necessary to carry out the provisions of this section relating to intermediate care facilities, after consulting with the Secretary of Health and Human Services with respect to any health or medical aspects of the program which may be involved in such regulations.
+The Secretary shall prescribe such regulations as may be necessary to carry out the provisionsof this section relating to intermediate care facilities, after consulting with the Secretary of Health and Human Services with respect to any health or medical aspects of the program which may be involved in such regulations.
 
 #### (h) Consultations concerning need for and availability of intermediate care facilities
 
@@ -118,7 +118,7 @@ The Secretary shall establish schedules and deadlines for the processing and app
 
 The General Insurance Fund, referred to in subsec. (d)(1), was established by section 1735c of this title.
 
-Section 8211 of title 42, referred to in subsec. (d)(2)(B), was omitted from the Code pursuant to section 8229 ofTitle 42, The Public Health and Welfare, which terminated authority under that section on June 30, 1989.
+Section 8211 of title 42, referred to in subsec. (d)(2)(B), was omitted from the Code pursuant to section 8229 of Title 42, The Public Health and Welfare, which terminated authority under that section on June 30, 1989.
 
 Section 1521 of the Public Health Service Act, referred to in subsec. (d)(4)(A), is section 1521 of act July 1, 1944, which was classified to section 300m of Title 42, The Public Health and Welfare, prior to repeal, effective Jan. 1, 1987, by Pub. L. 99–660, title VII, §701(a), Nov. 14, 1986, 100 Stat. 3799.
 
@@ -219,6 +219,10 @@ Pub. L. 105–276, title II, §214(b), Oct. 21, 1998, 112 Stat. 2486, provided t
 #### Regulations
 
 Section 410(c) of Pub. L. 100–242 provided that: “The Secretary of Housing and Urban Development shall issue such regulations as may be necessary to carry out the amendments made by this section \[amending this section\] by not later than the expiration of the 90-day period following the date of the enactment of this Act \[Feb. 5, 1988\].”
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of reporting provisions in subsec. (j) of this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 105 of House Document No. 103–7.
 
 #### Delegation of Processing of Mortgage Insurance
 

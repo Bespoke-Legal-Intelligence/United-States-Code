@@ -1,6 +1,6 @@
 ### §7601. Sales: members of the naval service and Coast Guard; widows and widowers; civilian employees and other persons
 
-(a) Such stores as the Secretary of the Navy designates may be procured and sold to membersof the naval service, members of the Coast Guard, and widows and widowers of such members.
+(a) Such stores as the Secretary of the Navy designates may be procured and sold to members of the naval service, members of the Coast Guard, and widows and widowers of such members.
 
 (b) The Secretary may, by regulation, provide for the procurement and sale of stores designated by him to such civilian officers and employees of the United States, and such other persons, as he considers proper—
 

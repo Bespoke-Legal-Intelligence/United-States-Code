@@ -12,7 +12,7 @@
 
 (b) A claim may be allowed under subsection (a) only if—
 
-&emsp;(1) it is presented in writing within two years after it accrues, except that if the claim accrues in time of war or armed conflict or if such a war or armed conflict intervenes within two years after it accrues, and if good cause is shown, the claim may be presented not later than two years after the war or armed conflict is terminated;
+&emsp;(1) it is presented in writing within two years after it accrues, except that if the claimaccrues in time of war or armed conflict or if such a war or armed conflict intervenes within two years after it accrues, and if good cause is shown, the claim may be presented not later than two years after the war or armed conflict is terminated;
 
 &emsp;(2) it is not covered by section 2734 of this title or section 2672 of title 28;
 
@@ -199,12 +199,6 @@ For transfer of functions of Public Health Service, see note set out under secti
 #### Claims for Injury or Death Accrued Before March 30, 1956
 
 Section 17 of Pub. L. 85–861 disallowed claims for personal injury or death under section 2733 of this title, for more than the cost of reasonable medical, hospital, and burial expenses actually incurred if the claim accrued before March 30, 1956.
-
-#### Cross References
-
-Administrative adjustment of tort claims, see section 2672 of Title 28, Judiciary and Judicial Procedure.
-
-Travel and transportation; dependents; household and personal effects; motor vehicles; sale of bulky items; claims for proceeds; appropriations chargeable as not amending or repealing this section, see section 5564 of Title 5, Government Organization and Employees; section 554 of Title 37, Pay and Allowances of the Uniformed Services.
 
 #### Section Referred to in Other Sections
 

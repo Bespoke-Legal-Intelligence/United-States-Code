@@ -16,3 +16,7 @@ The Secretary shall administer the program established under section 8272 of thi
 
 1980—Pub. L. 96–294 inserted provisions relating to inapplicability of section 553 of title 5 and substituted “requirements” for “rules and regulations” in par. (2).
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of the reporting provision in par. (3) of this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 3rd item on page 87 of House Document No. 103–7.
+

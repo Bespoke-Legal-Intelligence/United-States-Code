@@ -96,7 +96,7 @@ As used in this section:
 
 &emsp;&emsp;(ii) a youth described in section 12614(a) of this title; or
 
-&emsp;&emsp;(iii) an eligible youth described in section 1693 of title 29 or an individual described in section 2884 of title 29.
+&emsp;&emsp;(iii) an individual described in section 2884 of title 29.
 
 #### (2) Participation
 
@@ -136,12 +136,6 @@ In making a grant under subsection (c) of this section with respect to a demonst
 
 (Pub. L. 101–610, title I, §198C, as added Pub. L. 103–82, title I, §104(c), Sept. 21, 1993, 107 Stat. 843; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(42)(B), (f)(33)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–428, 2681–434.)
 
-#### Amendment of Subsection (e)(1)(B)(iii)
-
-<i>Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(f)(33)(A), (g)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–434, 2681–435, provided that, effective July 1, 2000, subsection (e)(1)(B) of this section is amended by striking clause (iii) and inserting the following:</i>
-
-(iii) an individual described in section 2884 of title 29.
-
 #### References in Text
 
 The Defense Base Closure and Realignment Act of 1990, referred to in subsec. (b)(1)(A), is part A of title XXIX of div. B of Pub. L. 101–510, Nov. 5, 1990, 104 Stat. 1808, which is set out as a note under section 2687 of Title 10, Armed Forces. For complete classification of this Act to the Code, see Tables.
@@ -158,7 +152,9 @@ A prior section 12653c, Pub. L. 101–610, title I, §195C, as added Pub. L. 102
 
 1998—Subsec. (b)(1). Pub. L. 105–277, §101(f) \[title VIII, §405(d)(42)(B)(i)\], substituted “a military installation being closed or realigned under—” and subpars. (A) and (B) for “a military installation described in section 1662d(e)(1) of title 29”.
 
-Subsec. (e)(1)(B)(iii). Pub. L. 105–277, §101(f) \[title VIII, §405(d)(42)(B)(ii)\], added cl. (iii) and struck out former cl. (iii) which read as follows: “an eligible youth described in section 1693 of title 29.”
+Subsec. (e)(1)(B)(iii). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(33)(A)\], added cl. (iii) and struck out former cl. (iii) which read as follows: “an eligible youth described in section 1693 of title 29 or an individual described in section 2884 of title 29.”
+
+Pub. L. 105–277, §101(f) \[title VIII, §405(d)(42)(B)(ii)\], added cl. (iii) and struck out former cl. (iii) which read as follows: “an eligible youth described in section 1693 of title 29.”
 
 #### Effective Date of 1998 Amendment
 

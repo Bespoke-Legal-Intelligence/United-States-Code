@@ -28,7 +28,7 @@ The Congress declares that a priority goal of constructing the International Spa
 
 #### Space Station Commercial Development Demonstration Program
 
-Pub. L. 106–74, title IV, §434, Oct. 20, 1999, 113 Stat. 1097, provided that:
+Pub. L. 106–74, title IV, §434, Oct. 20, 1999, 113 Stat. 1097, as amended by Pub. L. 106–391, title II, §204, Oct. 30, 2000, 114 Stat. 1590, provided that:
 
 “(a)
 
@@ -40,7 +40,7 @@ Use of Receipts for Commercial Use.—Any receipts collected by NASA from the co
 
 “(c)
 
-Report.—NASA shall submit an annual report to the Congress that identifies all receipts that are collected under this section, the use of the receipts and the status of the demonstration. NASA shall submit afinal report on the status of the demonstration, including any recommendation for expansion, within 120 days of the completion of the assembly of the International Space Station or the end of fiscal year 2004, whichever is earlier.
+Report.—NASA shall submit an annual report to the Congress that identifies all receipts that are collected under this section, the use of the receipts and the status of the demonstration. NASA shall submit a final report on the status of the demonstration, including any recommendation for expansion, within 120 days of the completion of the assembly of the International Space Station or the end of fiscal year 2002, whichever is earlier.
 
 “(d)
 
@@ -48,5 +48,5 @@ Definitions.—As used in this section, the term ‘United States commercial use
 
 “(e)
 
-Termination.—The demonstration program established under this section shall apply to United States commercial use agreements that are entered into prior to the date of the completion of the International Space Station or the end of fiscal year 2004, whichever is earlier.”
+Termination.—The demonstration program established under this section shall apply to United States commercial use agreements that are entered into prior to the date of the completion of the International Space Station or the end of fiscal year 2002, whichever is earlier.”
 

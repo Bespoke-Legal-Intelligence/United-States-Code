@@ -78,7 +78,7 @@ Annual review.—The Secretary of the Treasury shall prescribe regulations requi
 
 &emsp;&emsp;(A) review, at least once each year, the qualified business customers of such institution with respect to whom an exemption has been granted under this subsection; and
 
-&emsp;&emsp;(B) upon the completion of such review, resubmit information about such customers,with such modifications as the institution determines to be appropriate, to the Secretary for the Secretary's approval.
+&emsp;&emsp;(B) upon the completion of such review, resubmit information about such customers, with such modifications as the institution determines to be appropriate, to the Secretary for the Secretary's approval.
 
 &emsp;(6) 2-
 

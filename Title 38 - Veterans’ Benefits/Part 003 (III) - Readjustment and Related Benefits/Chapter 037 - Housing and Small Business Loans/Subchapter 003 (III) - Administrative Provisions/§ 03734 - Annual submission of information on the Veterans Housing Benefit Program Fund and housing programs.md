@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(A) Fees collected under section 3729(a) of this title for each category of loan guaranteed, insured, or made under this chapter or collected under section 3729(b) of this title for assumed loans.
 
-&emsp;&emsp;(B) Federal Government payments under section 3729(a)(3) of this title.
+&emsp;&emsp;(B) Federal Government payments under section 3729(a)(3) <sup>1</sup> of this title.
 
 &emsp;&emsp;(C) Investment income.
 
@@ -38,6 +38,10 @@
 
 (Added Pub. L. 101–237, title III, §302(b)(1), Dec. 18, 1989, 103 Stat. 2070, §1834; renumbered §3734 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–368, title VI, §602(d), (e)(1)(F), (3)(A), Nov. 11, 1998, 112 Stat. 3346, 3347.)
 
+#### References in Text
+
+Section 3729 of this title, referred to in subsec. (b)(2)(B), was amended by Pub. L. 106–419, title IV, §402(b), Nov. 1, 2000, 114 Stat. 1861, and, as so amended, subsec. (a) of that section no longer contains a par. (3).
+
 #### Amendments
 
 1998—Pub. L. 105–368, §602(e)(3)(A), substituted “Veterans Housing Benefit Program Fund and housing programs” for “Loan Guaranty Revolving Fund and the Guaranty and Indemnity Fund” in section catchline.
@@ -48,7 +52,7 @@ Subsec. (a)(2). Pub. L. 105–368, §602(e)(1)(F)(i)(II), substituted “fund,�
 
 Subsec. (b). Pub. L. 105–368, §602(e)(1)(F)(ii), substituted “the fund” for “each fund” in introductory provisions.
 
-Subsec. (b)(2)(B) to (G). Pub. L. 105–368, §602(e)(1)(F)(iii), redesignated subpars. (C) to (G) as (B) to (F), respectively, in subpar. (B), substituted “section 3729(a)(3)” for “subsections (a)(3) and (c)(2) of section 3729”, and struck out former subpar. (B) which read asfollows: “Federal Government contributions made under clauses (A) and (B) of section 3725(c)(2) of this title.”
+Subsec. (b)(2)(B) to (G). Pub. L. 105–368, §602(e)(1)(F)(iii), redesignated subpars. (C) to (G) as (B) to (F), respectively, in subpar. (B), substituted “section 3729(a)(3)” for “subsections (a)(3) and (c)(2) of section 3729”, and struck out former subpar. (B) which read as follows: “Federal Government contributions made under clauses (A) and (B) of section 3725(c)(2) of this title.”
 
 Subsec. (c). Pub. L. 105–368, §602(d), added subsec. (c).
 
@@ -59,4 +63,6 @@ Subsec. (b)(2). Pub. L. 102–83, §5(c)(1), substituted “3729(a)” for “18
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–368 effective Oct. 1, 1998, see section 602(f) of Pub. L. 105–368, set out as a note under section 2106 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

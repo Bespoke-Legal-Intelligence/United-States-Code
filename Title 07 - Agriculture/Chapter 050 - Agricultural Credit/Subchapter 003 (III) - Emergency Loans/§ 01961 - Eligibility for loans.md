@@ -14,9 +14,51 @@ The Secretary shall make and insure loans under this subchapter only to the exte
 
 &emsp;Not later than 180 days after April 4, 1996, the Secretary shall determine the appropriate level of insurance to be required under paragraph (1).
 
+#### (3) Loans to poultry farmers
+
+#### (A) Inability to obtain insurance
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Notwithstanding any other provision of this subchapter, the Secretary may make a loan to a poultry farmer under this subchapter to cover the loss of a chicken house for which the farmer did not have hazard insurance at the time of the loss, if the farmer—
+
+&emsp;&emsp;&emsp;&emsp;(I) applied for, but was unable, to obtain hazard insurance for the chicken house;
+
+&emsp;&emsp;&emsp;&emsp;(II) uses the loan to rebuild the chicken house in accordance with industry standards in effect on the date the farmer submits an application for the loan (referred to in this paragraph as “current industry standards”);
+
+&emsp;&emsp;&emsp;&emsp;(III) obtains, for the term of the loan, hazard insurance for the full market value of the chicken house; and
+
+&emsp;&emsp;&emsp;&emsp;(IV) meets the other requirements for the loan under this subchapter.
+
+#### (ii) Amount
+
+&emsp;&emsp;&emsp;Subject to the limitation contained in section 1964(a)(2) of this title, the amount of a loan made to a poultry farmer under clause (i) shall be an amount that will allow the farmer to rebuild the chicken house in accordance with current industry standards.
+
+#### (B) Loans to comply with current industry standards
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Notwithstanding any other provision of this subchapter, the Secretary may make a loan to a poultry farmer under this subchapter to cover the loss of a chicken house for which the farmer had hazard insurance at the time of the loss, if—
+
+&emsp;&emsp;&emsp;&emsp;(I) the amount of the hazard insurance is less than the cost of rebuilding the chicken house in accordance with current industry standards;
+
+&emsp;&emsp;&emsp;&emsp;(II) the farmer uses the loan to rebuild the chicken house in accordance with current industry standards;
+
+&emsp;&emsp;&emsp;&emsp;(III) the farmer obtains, for the term of the loan, hazard insurance for the full market value of the chicken house; and
+
+&emsp;&emsp;&emsp;&emsp;(IV) the farmer meets the other requirements for the loan under this subchapter.
+
+#### (ii) Amount
+
+&emsp;&emsp;&emsp;Subject to the limitation contained in section 1964(a)(2) of this title, the amount of a loan made to a poultry farmer under clause (i) shall be the difference between—
+
+&emsp;&emsp;&emsp;&emsp;(I) the amount of the hazard insurance obtained by the farmer; and
+
+&emsp;&emsp;&emsp;&emsp;(II) the cost of rebuilding the chicken house in accordance with current industry standards.
+
 #### (c) Family farm system
 
-The Secretary shall conduct the emergency loan program under this subchapter in a manner that will foster and encourage the family farm system of agriculture, consistent with the reaffirmation of policy and declaration of the intent of Congress contained in section 2266(a) of this title.
+The Secretary shall conduct the emergency loan program under this subchapter in a mannerthat will foster and encourage the family farm system of agriculture, consistent with the reaffirmation of policy and declaration of the intent of Congress contained in section 2266(a) of this title.
 
 #### (d) Definitions
 
@@ -26,13 +68,15 @@ For the purposes of this subchapter—
 
 &emsp;(2) “able to obtain sufficient credit elsewhere” means able to obtain sufficient credit elsewhere to finance the applicant's actual needs at reasonable rates and terms, taking into consideration prevailing private and cooperative rates and terms in the community in or near which the applicant resides for loans for similar purposes and periods of time.
 
-(Pub. L. 87–128, title III, §321, Aug. 8, 1961, 75 Stat. 311; Pub. L. 87–832, Oct. 15, 1962, 76 Stat. 958; Pub. L. 93–24, §§2, 3, 6, Apr. 20, 1973, 87 Stat. 24, 25; Pub. L. 93–237, §10(a), (d), Jan. 2, 1974, 87 Stat. 1025; Pub. L. 94–68, §§2, 3, Aug. 5, 1975, 89 Stat. 381; Pub. L. 95–334, title I, §118, Aug. 4, 1978, 92 Stat. 426; Pub. L. 96–302, title I, §120(a), July 2, 1980, 94 Stat. 841; Pub. L. 96–438, §3(a), (b)(1),Oct. 13, 1980, 94 Stat. 1872; Pub. L. 97–35, title I, §161, Aug. 13, 1981, 95 Stat. 378; Pub. L. 98–258, title VI, §602(a), Apr. 10, 1984, 98 Stat. 138; Pub. L. 99–198, title XIII, §1308(a), (b)(1), Dec. 23, 1985, 99 Stat. 1522; Pub. L. 100–707, title I, §109(c)(1), Nov. 23, 1988, 102 Stat. 4708; Pub. L. 104–127, title VI, §621(a), Apr. 4, 1996, 110 Stat. 1091.)
+(Pub. L. 87–128, title III, §321, Aug. 8, 1961, 75 Stat. 311; Pub. L. 87–832, Oct. 15, 1962, 76 Stat. 958; Pub. L. 93–24, §§2, 3, 6, Apr. 20, 1973, 87 Stat. 24, 25; Pub. L. 93–237, §10(a), (d), Jan. 2, 1974, 87 Stat. 1025; Pub. L. 94–68, §§2, 3, Aug. 5, 1975, 89 Stat. 381; Pub. L. 95–334, title I, §118, Aug. 4, 1978, 92 Stat. 426; Pub. L. 96–302, title I, §120(a), July 2, 1980, 94 Stat. 841; Pub. L. 96–438, §3(a), (b)(1), Oct. 13, 1980, 94 Stat. 1872; Pub. L. 97–35, title I, §161, Aug. 13, 1981, 95 Stat. 378; Pub. L. 98–258, title VI, §602(a), Apr. 10, 1984, 98 Stat. 138; Pub. L. 99–198, title XIII, §1308(a), (b)(1), Dec. 23, 1985, 99 Stat. 1522; Pub. L. 100–707, title I, §109(c)(1), Nov. 23, 1988, 102 Stat. 4708; Pub. L. 104–127, title VI, §621(a), Apr. 4, 1996, 110 Stat. 1091; Pub. L. 106–387, §1(a) \[title VIII, §833\], Oct. 28, 2000, 114 Stat. 1549, 1549A–61.)
 
 #### References in Text
 
 The Disaster Relief and Emergency Assistance Act, referred to in subsec. (a), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, known as The Robert T. Stafford Disaster Relief and Emergency Assistance Act, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 #### Amendments
+
+2000—Subsec. (b)(3). Pub. L. 106–387 added par. (3).
 
 1996—Subsec. (b). Pub. L. 104–127 added subsec. (b) and struck out former subsec. (b) which read as follows: “An applicant shall be ineligible for financial assistance under this subchapter for crop losses if crop insurance was available to the applicant for such crop losses under the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.).”
 

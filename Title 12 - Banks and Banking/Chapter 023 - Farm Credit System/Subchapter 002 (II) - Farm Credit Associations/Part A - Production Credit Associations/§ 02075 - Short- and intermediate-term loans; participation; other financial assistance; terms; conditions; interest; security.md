@@ -18,7 +18,7 @@ Each production credit association, under standards prescribed by the board of d
 
 #### (2) Limitation
 
-&emsp;The aggregate of such housing loans in an association to persons other than farmers or ranchers shall not exceed 15 percent of the outstanding loans at the end of its preceding fiscal year except on prior approval by the Farm Credit Bank of the district. The aggregate of such housing loans in any farm credit district shall not exceed 15 percent of the outstanding loans of all associations in the district at the end of the preceding fiscal year.
+&emsp;The aggregate of such housing loans in an association to persons other than farmers or ranchers shall not exceed 15 percent of theoutstanding loans at the end of its preceding fiscal year except on prior approval by the Farm Credit Bank of the district. The aggregate of such housing loans in any farm credit district shall not exceed 15 percent of the outstanding loans of all associations in the district at the end of the preceding fiscal year.
 
 #### (3) Rural areas
 
@@ -56,7 +56,7 @@ Each production credit association, under standards prescribed by the board of d
 
 &emsp;If the Farm Credit Administration Board approves the extension of credit and technical assistance under paragraph (1), the association shall approve or deny the application for credit within 90 days after receipt of the application from the borrower.
 
-(Pub. L. 92–181, title II, §2.4, as added Pub. L. 100–233, title IV, §401, Jan. 6, 1988, 101 Stat. 1632;amended Pub. L. 100–399, title IV, §401(p), (q), Aug. 17, 1988, 102 Stat. 997; Pub. L. 101–624, title XVIII, §1832(b), Nov. 28, 1990, 104 Stat. 3832.)
+(Pub. L. 92–181, title II, §2.4, as added Pub. L. 100–233, title IV, §401, Jan. 6, 1988, 101 Stat. 1632; amended Pub. L. 100–399, title IV, §401(p), (q), Aug. 17, 1988, 102 Stat. 997; Pub. L. 101–624, title XVIII, §1832(b), Nov. 28, 1990, 104 Stat. 3832.)
 
 #### Prior Provisions
 

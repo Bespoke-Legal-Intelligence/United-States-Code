@@ -8,7 +8,3 @@ The plaintiff shall cause a copy of his petition filed under section 345 of this
 
 “United States attorney” substituted in text for “district attorney of the United States” on authority of act June 25, 1948. See section 541 of Title 28, Judiciary and Judicial Procedure.
 
-#### Federal Rules of Civil Procedure
-
-Pleas and demurrers abolished, see rule 7, Title 28, Appendix, Judiciary and Judicial Procedure.
-

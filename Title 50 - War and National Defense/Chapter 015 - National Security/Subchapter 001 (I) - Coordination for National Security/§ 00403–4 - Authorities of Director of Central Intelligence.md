@@ -14,25 +14,33 @@ No funds made available under the National Foreign Intelligence Program may be r
 
 #### (d) Transfer of funds or personnel within National Foreign Intelligence Program
 
-(1) In addition to any other authorities available under law for such purposes, the Director of Central Intelligence, with the approval of the Director of the Office of Management and Budget, may transfer funds appropriated for a program within the National Foreign Intelligence Program to another such program and, in accordance with procedures to be developed by the Director and the heads of affected departments and agencies, may transfer personnel authorized for an element of the intelligence community to another such element for periods up to a year.
+(1)(A) In addition to any other authorities available under law for such purposes, the Director of Central Intelligence, with the approval of the Director of the Office of Management and Budget, may transfer funds appropriated for a program within the National Foreign Intelligence Program to another such program and, in accordance with procedures to be developed by the Director and the heads of affected departments and agencies, may transfer personnel authorized for an element of the intelligence community to another such element for periods up to a year.
 
-(2) A transfer of funds or personnel may be made under this subsection only if—
+(B) The Director may only delegate any duty or authority given the Director under this subsection to the Deputy Director of Central Intelligence for Community Management.
 
-&emsp;(A) the funds or personnel are being transferred to an activity that is a higher priority intelligence activity;
+(2)(A) A transfer of funds or personnel may be made under this subsection only if—
 
-&emsp;(B) the need for funds or personnel for such activity is based on unforeseen requirements;
+&emsp;(i) the funds or personnel are being transferred to an activity that is a higher priority intelligence activity;
 
-&emsp;(C) the transfer does not involve a transfer of funds to the Reserve for Contingencies of the Central Intelligence Agency;
+&emsp;(ii) the need for funds or personnel for such activity is based on unforeseen requirements;
 
-&emsp;(D) the transfer does not involve a transfer of funds or personnel from the Federal Bureau of Investigation; and
+&emsp;(iii) the transfer does not involve a transfer of funds to the Reserve for Contingencies of the Central Intelligence Agency;
 
-&emsp;(E) the Secretary or head of the department which contains the affected element or elements of the intelligence community does not object to such transfer.
+&emsp;(iv) the transfer does not involve a transfer of funds or personnel from the Federal Bureau of Investigation; and
+
+&emsp;(v) subject to subparagraph (B), the Secretary or head of the department which contains the affected element or elements of the intelligence community does not object to such transfer.
+
+(B)(i) Except as provided in clause (ii), the authority to object to a transfer under subparagraph (A)(v) may not be delegated by the Secretary or head of the department involved.
+
+(ii) With respect to the Department of Defense, the authority to object to such a transfer may be delegated by the Secretary of Defense, but only to the Deputy Secretary of Defense.
+
+(iii) An objection to a transfer under subparagraph (A)(v) shall have no effect unless submitted to the Director of Central Intelligence in writing.
 
 (3) Funds transferred under this subsection shall remain available for the same period as the appropriations account to which transferred.
 
 (4) Any transfer of funds under this subsection shall be carried out in accordance with existing procedures applicable to reprogramming notifications for the appropriate congressional committees. Any proposed transfer for which notice is given to the appropriate congressional committees shall be accompanied by a report explaining the nature of the proposed transfer and how it satisfies the requirements of this subsection. In addition, the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives shall be promptly notified of any transfer of funds made pursuant to this subsection in any case in which the transfer would not have otherwise required reprogramming notification under procedures in effect as of October 24, 1992.
 
-(5) The Director shall promptly submit to the Select Committee on Intelligence of the Senate and to the Permanent Select Committee on Intelligence of the House of Representatives and,in the case of the transfer of personnel to or from the Department of Defense, the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives, a report on any transfer of personnel made pursuant to this subsection. The Director shall include in any such report an explanation of the nature of the transfer and how it satisfies the requirements of this subsection.
+(5) The Director shall promptly submit to the Select Committee on Intelligence of the Senate and to the Permanent Select Committee on Intelligence of the House of Representatives and, in the case of the transfer of personnel to or from the Department of Defense, the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives, a report on any transfer of personnel made pursuant to this subsection. The Director shall include in any such report an explanation of the nature of the transfer and how it satisfies the requirements of this subsection.
 
 #### (e) Coordination with foreign governments
 
@@ -50,13 +58,17 @@ The Director shall, in coordination with the heads of departments and agencies w
 
 Notwithstanding the provisions of any other law, the Director may, in the Director's discretion, terminate the employment of any officer or employee of the Central Intelligence Agency whenever the Director shall deem such termination necessary or advisable in the interests of the United States. Any such termination shall not affect the right of the officer or employee terminated to seek or accept employment in any other department or agency of the Government if declared eligible for such employment by the Office of Personnel Management.
 
-(July 26, 1947, ch. 343, title I, §104, as added Pub. L. 102–496, title VII, §705(a)(3), Oct. 24, 1992, 106 Stat. 3192; amended Pub. L. 104–106, div. A, title XV, §1502(f)(5), Feb. 10, 1996, 110 Stat. 510; Pub. L. 104–293, title VIII, §807(b), Oct. 11, 1996, 110 Stat. 3480; Pub. L. 106–65, div. A, title X, §1067(16), Oct. 5, 1999, 113 Stat. 775.)
+(July 26, 1947, ch. 343, title I, §104, as added Pub. L. 102–496, title VII, §705(a)(3), Oct. 24, 1992, 106 Stat. 3192; amended Pub. L. 104–106, div. A, title XV, §1502(f)(5), Feb. 10, 1996, 110 Stat. 510; Pub. L. 104–293, title VIII, §807(b), Oct. 11, 1996, 110 Stat. 3480; Pub. L. 106–65, div. A, title X, §1067(16), Oct. 5, 1999, 113 Stat. 775; Pub. L. 106–567, title I, §105, Dec. 27, 2000, 114 Stat. 2834.)
 
 #### Prior Provisions
 
 A prior section 104 of act July 26, 1947, was renumbered section 108 and is classified to section 404a of this title.
 
 #### Amendments
+
+2000—Subsec. (d)(1). Pub. L. 106–567, §105(b), designated existing provisions as subpar. (A) and added subpar. (B).
+
+Subsec. (d)(2). Pub. L. 106–567, §105(a), designated existing provisions as subpar. (A), redesignated former subpars. (A) to (E) as cls. (i) to (v), respectively, of subpar. (A), in cl. (v) substituted “subject to subparagraph (B), the Secretary or head” for “the Secretary or head”, and added subpar. (B).
 
 1999—Subsec. (d)(5). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 
@@ -102,7 +114,7 @@ Definitions.—For purposes of this section—
 
 “(b)
 
-Establishment of Program.—In order to avoid or minimize the need for involuntary separations due to downsizing, reorganization, transfer of function, or other similar action, the Director may establish a program under which employees may be offered separation pay to separate from service voluntarily (whether by retirement or resignation). An employee who receives separation pay under such program may not be reemployed by the Central Intelligence Agency for the 12-month period beginning on the effective date of the employee's separation. An employee who receives separation pay under this section on the basis of a separationoccurring on or after the date of the enactment of the Federal Workforce Restructuring Act of 1994 \[Mar. 30, 1994\] and accepts employment with the Government of the United States within 5 years after the date of the separation on which payment of the separation pay is based shall be required to repay the entire amount of the separation pay to the Central Intelligence Agency. If the employment is with an Executive agency (as defined by section 105 of title 5, United States Code), the Director of the Office of Personnel Management may, at the request of the head of the agency, waive the repayment if the individual involved possesses unique abilities and is the only qualified applicant available for the position. If the employment is with an entity in the legislative branch, the head of the entity or the appointing official may waive the repayment if the individual involved possesses unique abilities and is the only qualified applicant available for the position. If the employment is with the judicial branch, the Director of the Administrative Office of the United States Courts may waive the repayment if the individual involved possesses unique abilities and is the only qualified applicant available for the position.
+Establishment of Program.—In order to avoid or minimize the need for involuntary separations due to downsizing, reorganization, transfer of function, or other similar action, the Director may establish a program under which employees may be offered separation pay to separate from service voluntarily (whether by retirement or resignation). An employee who receives separation pay under such program may not be reemployed by the Central Intelligence Agency for the 12-month period beginning on the effective date of the employee's separation. An employee who receives separation pay under this section on the basis of a separation occurring on or after the date of the enactment of the Federal Workforce Restructuring Act of 1994 \[Mar. 30, 1994\] and accepts employment with the Government of the United States within 5 years after the date of the separation on which payment of the separation pay is based shall be required to repay the entire amount of the separation pay to the Central Intelligence Agency. If the employment is with an Executive agency (as defined by section 105 of title 5, United States Code), the Director of the Office of Personnel Management may, at the request of the head of the agency, waive the repayment if the individual involved possesses unique abilities and is the only qualified applicant available for the position. If the employment is with an entity in the legislative branch, the head of the entity or the appointing official may waive the repayment if the individual involved possesses unique abilities and is the only qualified applicant available for the position. If the employment is with the judicial branch, the Director of the Administrative Office of the United States Courts may waive the repayment if the individual involved possesses unique abilities and is the only qualified applicant available for the position.
 
 “(c)
 

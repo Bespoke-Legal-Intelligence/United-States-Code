@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—COMMUNITY MENTAL HEALTH CENTERS
 
-#### Cross References
-
-The Mental Health Systems Act, see section 9401 et seq. of this title.
-
 
 ---
 

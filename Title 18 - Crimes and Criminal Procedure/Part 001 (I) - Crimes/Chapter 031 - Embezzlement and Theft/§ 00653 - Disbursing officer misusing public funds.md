@@ -22,12 +22,6 @@ Minor changes were made in phraseology.
 
 Pub. L. 103–322, §330016(1)(H), substituted “fined under this title” for “fined not more than $1,000” after “he shall be”.
 
-#### Cross References
-
-Persons to whom section applicable, see section 649 of this title.
-
-Property and fiscal officers, see section 708 of Title 32, National Guard.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 649 of this title.

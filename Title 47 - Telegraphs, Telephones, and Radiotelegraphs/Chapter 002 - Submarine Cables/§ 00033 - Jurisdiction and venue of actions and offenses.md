@@ -8,11 +8,3 @@ The district courts of the United States shall have jurisdiction over all offens
 
 Words “and writs of error” after “appeals” deleted in view of section 1 of act Jan. 31, 1928, which abolished writs of error and provided for similar relief by appeal.
 
-#### Federal Rules of Criminal Procedure
-
-Special venue provisions of section as not affected by rule 18, see Notes of Advisory Committee on Rules set out under rule 18, Title 18, Appendix, Crimes and Criminal Procedure.
-
-#### Cross References
-
-Venue in civil actions generally, see section 1391 of Title 28, Judiciary and Judicial Procedure.
-

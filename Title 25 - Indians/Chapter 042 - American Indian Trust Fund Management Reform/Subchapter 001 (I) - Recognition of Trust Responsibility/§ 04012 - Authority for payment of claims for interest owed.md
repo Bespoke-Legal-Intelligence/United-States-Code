@@ -4,7 +4,7 @@ The Secretary shall make payments to an individual Indian in full satisfaction o
 
 &emsp;(1) by a reconciliation process of individual Indian money accounts, or
 
-&emsp;(2) by the individual and presented to the Secretary with supporting documentation, andis verified by the Secretary pursuant to the Department's policy for addressing accountholder losses.
+&emsp;(2) by the individual and presented to the Secretary with supporting documentation, and is verified by the Secretary pursuant to the Department's policy for addressing accountholder losses.
 
 (Pub. L. 103–412, title I, §104, Oct. 25, 1994, 108 Stat. 4241.)
 

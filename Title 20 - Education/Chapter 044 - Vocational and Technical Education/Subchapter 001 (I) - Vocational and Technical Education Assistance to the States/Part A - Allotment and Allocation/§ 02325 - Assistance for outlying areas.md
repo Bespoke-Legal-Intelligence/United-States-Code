@@ -32,7 +32,7 @@ Notwithstanding any other provision of law, the Republic of the Marshall Islands
 
 Provisions similar to this section were contained in section 2311a of this title, prior to the general amendment of this chapter by Pub. L. 105–332.
 
-A prior section 2325, Pub. L. 88–210, title I, §115, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2449;amended Pub. L. 101–392, title I, §115, Sept. 25, 1990, 104 Stat. 770; Pub. L. 101–476, title IX, §901(a)(2), Oct. 30, 1990, 104 Stat. 1142; Pub. L. 103–382, title III, §391(s)(3), Oct. 20, 1994, 108 Stat. 4024, related to State and local standards and measures, prior to the general amendment of this chapter by Pub. L. 105–332.
+A prior section 2325, Pub. L. 88–210, title I, §115, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2449; amended Pub. L. 101–392, title I, §115, Sept. 25, 1990, 104 Stat. 770; Pub. L. 101–476, title IX, §901(a)(2), Oct. 30, 1990, 104 Stat. 1142; Pub. L. 103–382, title III, §391(s)(3), Oct. 20, 1994, 108 Stat. 4024, related to State and local standards and measures, prior to the general amendment of this chapter by Pub. L. 105–332.
 
 #### Section Referred to in Other Sections
 

@@ -24,16 +24,6 @@ Admission of Alaska into the Union was accomplished Jan. 3, 1959, on issuance of
 
 Section 2 of Pub. L. 85–736 provided that the period commencing in 1957 for the performance of annual assessment work under this section shall end at 12 o'clock meridian on the 1st day of July 1958, and the period commencing in 1958 for the performance of such annual assessment work shall commence at 12 o'clock meridian on the 1st day of July 1958, and shall continue to 12 o'clock meridian on Sept. 1, 1959.
 
-#### Cross References
-
-Alaska, annual labor or improvements on mining claims, see section 49e of this title.
-
-Extension of time for annual assessment work on lands containing valuable source material, see note under section 541a of this title.
-
-Michigan, Minnesota and Wisconsin mineral lands, see section 48 of this title.
-
-Temporary deferment of annual assessment work on mining claims, see section 28b et seq. of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 24, 28–1, 28b, 29, 33, 37, 38, 39, 40, 42, 46, 47, 48, 49, 102, 541b of this title; title 16 section 460mm–1; title 25 section 640d–10; title 43 sections 1712, 1714, 1732; title 50 App. section 565.

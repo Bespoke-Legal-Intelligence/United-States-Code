@@ -8,7 +8,7 @@ Within 24 hours (or such other period of time as may be provided under subsectio
 
 &emsp;(2) any foreign vessel from a domestic port;
 
-&emsp;(3) any vessel of the United States having on board bonded merchandise or foreign merchandise for which entry has not been made; or
+&emsp;(3) any vessel of the United States having on board foreign merchandise for which entry has not been made; or
 
 &emsp;(4) any vessel which has visited a hovering vessel or has delivered or received merchandise while outside the territorial sea;
 
@@ -32,7 +32,7 @@ The Secretary may by regulation—
 
 &emsp;(3) authorize the Customs Service to permit entry or preliminary entry of any vessel to be made at a place other than a designated port of entry, under such conditions as may be prescribed.
 
-(June 17, 1930, ch. 497, title IV, §434, 46 Stat. 711; Aug. 5, 1935, ch. 438, title III. §301, 49 Stat. 527; 1946 Reorg. Plan No. 3, §§101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097; Pub. L. 91–271, title III, §301(b), June 2, 1970, 84 Stat. 287; Pub. L. 103–182, title VI, §653, Dec. 8, 1993, 107 Stat. 2210.)
+(June 17, 1930, ch. 497, title IV, §434, 46 Stat. 711; Aug. 5, 1935, ch. 438, title III. §301, 49 Stat. 527; Pub. L. 91–271, title III, §301(b), June 2, 1970, 84 Stat. 287; Pub. L. 103–182, title VI, §653, Dec. 8, 1993, 107 Stat. 2210; Pub. L. 106–476, title I, §1452(a)(2), Nov. 9, 2000, 114 Stat. 2167.)
 
 #### Prior Provisions
 
@@ -50,19 +50,21 @@ Special provisions to facilitate the entry of steamships running in an establish
 
 #### Amendments
 
+2000—Subsec. (a)(3). Pub. L. 106–476 struck out “bonded merchandise or” before “foreign merchandise”.
+
 1993—Pub. L. 103–182 amended section generally. Prior to amendment, section read as follows: “Except as otherwise provided by law, and under such regulations as the Commissioner of Customs may prescribe, the master of a vessel of the United States arriving in the United States from a foreign port or place shall, within forty-eight hours after its arrival within the limits of any customs collection district, make formal entry of the vessel at the customhouse by producing and depositing with the appropriate customs officer the vessel's crew list, its register, or document in lieu thereof, the clearance and bills of health issued to the vessel at the foreign port or ports from which it arrived, together with the original and one copy of the manifest, and shall make oath that the ownership of the vessel is as indicated in the register, or document in lieu thereof, and that the manifest was made out in accordance with section 1431 of this title.”
 
 1970—Pub. L. 91–271 substituted reference to appropriate customs officer for reference to collector.
 
 1935—Act Aug. 5, 1935, inserted “or document in lieu thereof” after “indicated in the register”.
 
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–476, except as otherwise provided, applicable with respect to goods entered, or withdrawn from warehouse, for consumption, on or after the 15th day after Nov. 9, 2000, see section 1471 of Pub. L. 106–476, set out as a note under section 58c of this title.
+
 #### Effective Date of 1970 Amendment
 
 For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 91–271, set out as a note under section 1500 of this title.
-
-#### Transfer of Functions
-
-“Commissioner of Customs” substituted in text for “Secretary of Commerce” on authority of Reorg. Plan No. 3 of 1946, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Section Referred to in Other Sections
 

@@ -202,7 +202,7 @@ Reports.—
 
 &emsp;“(1)
 
-In general.—The Secretary shall prepare and submit to the Committee on Labor and Human Resources of the Senate and the Committee on Commerce of the House of Representatives a report that contains—
+In general.—The Secretary shall prepare and submit to the Committee on Labor and Human Resources of the Senate and the Committee on Commerce \[now Committee on Energy and Commerce\] of the House of Representatives a report that contains—
 
 &emsp;&emsp;“(A) a summary of the study conducted under subsection (c);
 

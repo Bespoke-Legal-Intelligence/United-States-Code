@@ -138,14 +138,6 @@ Authority vested by this chapter in “military departments”, “the Secretary
 
 Ex. Ord. No. 12239, Sept. 21, 1980, 45 F.R. 62967, which related to suspension of certain promotion and disability separation limitations, was revoked by Ex. Ord. No. 12396, Dec. 9, 1982, 47 F.R. 55897, set out as a note under section 301 of Title 3, The President.
 
-#### Cross References
-
-Grade on retirement for physical disability, see section 1372 of this title.
-
-Members on temporary disability retired list, retirement under this section, see section 1210 of this title.
-
-Pension to persons serving ten years, see section 6160 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1202, 1203, 1204, 1205, 1206, 1207a, 1210, 1372, 1401, 1402, 1402a, 1406, 1407 of this title; title 42 section 213a.

@@ -8,7 +8,3 @@ All mining claims under the Mining Law of 1872, as amended and supplemented (30 
 
 Section 3 of this Act, referred to in text, is section 3 of Pub. L. 94–429, which amended sections 123 and 450y–2 of this title; repealed sections 350, 350a, 447, and 450z of this title; and repealed act June 22, 1936 (49 Stat. 1817) which was not classified to the Code. The units of the National Park System listed in such section 3 are: Crater Lake National Park, Mount McKinley National Park, Death Valley National Monument, Glacier Bay National Monument, Coronado National Memorial, and Organ Pipe Cactus National Monument.
 
-#### Cross References
-
-Mining district regulations by miners, recordation of mining claims made after May 10, 1872, see section 28 of Title 30, Mineral Lands and Mining.
-

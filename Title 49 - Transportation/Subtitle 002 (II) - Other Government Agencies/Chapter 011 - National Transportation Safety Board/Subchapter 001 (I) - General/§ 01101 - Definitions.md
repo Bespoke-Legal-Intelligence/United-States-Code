@@ -1,8 +1,8 @@
 ### §1101. Definitions
 
-Section 40102(a) of this title applies to this chapter.
+Section 2101(17a) of title 46 and section 40102(a) of this title apply to this chapter. In this chapter, the term “accident” includes damage to or destruction of vehicles in surface or air transportation or pipelines, regardless of whether the initiating event is accidental or otherwise.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 746.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 746; Pub. L. 106–424, §2, Nov. 1, 2000, 114 Stat. 1883.)
 
 Historical and Revision Notes
 
@@ -21,6 +21,14 @@ Historical and Revision Notes
 A number of the source provisions of the chapter are taken from 49 App.:ch. 20. The text of 49 App.:ch. 20 contains general definitions, some of which are used in those source provisions.
 
 This section is included to ensure that the identical definitions that are relevant are used without repeating them. The source provisions for the definitions are found in the revision note for section 40102(a) of the revised title.
+
+#### Amendments
+
+2000—Pub. L. 106–424 amended section catchline and text generally. Prior to amendment, text read as follows: “Section 40102(a) of this title applies to this chapter.”
+
+#### Short Title of 2000 Amendment
+
+Pub. L. 106–424, §1(a), Nov. 1, 2000, 114 Stat. 1883, provided that: “This Act \[enacting section 1137 of this title, amending this section and sections 1111, 1113 to 1115, 1118, 1131, 1154, 44721, and 46301 of this title, and enacting provisions set out as notes under sections 1111, 1113, 1131, 44703, and 44721 of this title\] may be cited as the ‘National Transportation Safety Board Amendments Act of 2000’.”
 
 #### Short Title of 1996 Amendment
 

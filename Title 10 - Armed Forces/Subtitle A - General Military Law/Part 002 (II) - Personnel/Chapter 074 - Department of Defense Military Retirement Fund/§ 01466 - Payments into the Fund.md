@@ -68,7 +68,7 @@ Subsec. (a)(1)(B), (2)(B). Pub. L. 99–500 and Pub. L. 99–591, title I, §101
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–65, div. A, title VI, §651(c), Oct. 5, 1999, 113 Stat. 664, provided that: “The amendments made bythis section \[amending this section and repealing section 5532 of Title 5, Government Organization and Employees\] shall take effect on October 1, 1999.”
+Pub. L. 106–65, div. A, title VI, §651(c), Oct. 5, 1999, 113 Stat. 664, provided that: “The amendments made by this section \[amending this section and repealing section 5532 of Title 5, Government Organization and Employees\] shall take effect on October 1, 1999.”
 
 #### Effective Date of 1987 Amendment
 

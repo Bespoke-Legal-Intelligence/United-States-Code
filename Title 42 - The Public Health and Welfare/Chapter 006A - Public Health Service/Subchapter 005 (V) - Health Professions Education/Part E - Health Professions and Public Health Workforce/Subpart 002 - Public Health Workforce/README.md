@@ -4,8 +4,6 @@ subpart 2—public health workforce
 
 This subpart is referred to in section 295<i>o</i>–1 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “travel time,”.</i>
-
 
 ---
 

@@ -10,7 +10,7 @@ Except with respect to projects and programs for which binding commitments have 
 
 &emsp;(3) title VI of the Housing and Community Development Act of 1987;
 
-&emsp;(4) section 8(e)(2) of the United States Housing Act of 1937 \[42 U.S.C. 1437f(e)(2)\], except for funds allocated under such section for single room occupancy dwellings as authorized by title IV of the Stewart B. McKinney Homeless Assistance Act \[42 U.S.C. 11361 et seq.\]; and
+&emsp;(4) section 8(e)(2) of the United States Housing Act of 1937 \[42 U.S.C. 1437f(e)(2)\], except for funds allocated under such section for single room occupancy dwellings as authorized by title IV of the McKinney-Vento Homeless Assistance Act \[42 U.S.C. 11361 et seq.\]; and
 
 &emsp;(5) section 810 of the Housing and Community Development Act of 1974 \[12 U.S.C. 1706e\].
 
@@ -22,19 +22,23 @@ Except with respect to projects and programs for which binding commitments have 
 
 #### (2) No effect on SRO program
 
-&emsp;The provision of law referred to in subsection (a)(4) of this section shall remain in effect with respect to single room occupancy dwellings as authorized by title IV of the Stewart B. McKinney Homeless Assistance Act \[42 U.S.C. 11361 et seq.\].
+&emsp;The provision of law referred to in subsection (a)(4) of this section shall remain in effect with respect to single room occupancy dwellings as authorized by title IV of the McKinney-Vento Homeless Assistance Act \[42 U.S.C. 11361 et seq.\].
 
 #### (c) Disposition of repayments
 
 Any amounts received on or after October 1, 1991, as repayments or recaptures in connection with the programs referred to in subsection (a) of this section and any other amounts for such programs that remain or become unobligated on or after such date, shall be paid into the general fund of the Treasury.
 
-(Pub. L. 101–625, title II, §289, Nov. 28, 1990, 104 Stat. 4128.)
+(Pub. L. 101–625, title II, §289, Nov. 28, 1990, 104 Stat. 4128; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675.)
 
 #### References in Text
 
 Title VI of the Housing and Community Development Act of 1987 \[Pub. L. 100–242\], referred to in subsec. (a)(3), is set out as a note under section 1715<i>l</i> of Title 12, Banks and Banking.
 
-The Stewart B. McKinney Homeless Assistance Act, referred to in subsecs. (a)(4), (b)(2), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended. Title IV of the Act is classified principally to subchapter IV (§11361 et seq.) of chapter 119 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of this title and Tables.
+The McKinney-Vento Homeless Assistance Act, referred to in subsecs. (a)(4), (b)(2), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended. Title IV of the Act is classified principally to subchapter IV (§11361 et seq.) of chapter 119 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of this title and Tables.
+
+#### Amendments
+
+2000—Subsecs. (a)(4), (b)(2). Pub. L. 106–400 substituted “McKinney-Vento Homeless Assistance Act” for “Stewart B. McKinney Homeless Assistance Act”.
 
 #### Section Referred to in Other Sections
 

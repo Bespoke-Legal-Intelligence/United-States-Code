@@ -12,33 +12,3 @@ The Congress finds and declares that—
 
 Pub. L. 94–429, which enacted this chapter, amended sections 123 and 450y–2 of this title, and repealed sections 350, 350a, 447, and 450z of this title, is popularly known as the “Mining in the Parks Act”.
 
-#### Cross References
-
-Coal land, entry of unappropriated or unreserved Federal coal lands, see section 71 of Title 30, Mineral Lands and Mining.
-
-Exploration program for the discovery of minerals, financial assistance, see section 641 of Title 30.
-
-Leases and Prospecting Permits—
-
-&emsp;&emsp;Lands subject to disposition, see section 181 of Title 30.
-
-&emsp;&emsp;Oil and gas lands, see section 226 of Title 30.
-
-&emsp;&emsp;Oil shale lands, see section 241 of Title 30.
-
-&emsp;&emsp;Phosphate lands, see section 211 of Title 30.
-
-&emsp;&emsp;Potash lands, see section 281 of Title 30.
-
-&emsp;&emsp;Sodium lands, see section 261 of Title 30.
-
-&emsp;&emsp;Sulphur lands, see section 271 of Title 30.
-
-Mineral Lands and Regulations—
-
-&emsp;&emsp;Lands open to purchase by citizens, see section 22 of Title 30.
-
-&emsp;&emsp;Locators’ rights of possession and enjoyment, see section 26 of Title 30.
-
-&emsp;&emsp;Mineral lands reserved, see section 21 of Title 30.
-

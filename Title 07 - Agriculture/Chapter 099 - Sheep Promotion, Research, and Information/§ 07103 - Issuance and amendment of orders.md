@@ -16,7 +16,7 @@ Subject to subsection (b) of this section, the Secretary shall issue orders unde
 
 #### (3) Issuance of orders
 
-&emsp;After notice and opportunity for public comment are given as provided in paragraph (2), the Secretary shall issue an order, taking into consideration the comments received, that includes provisions necessary to ensure that the order is in conformity with this chapter. The order shall be issued not later than 180 days following publication of the proposed order.
+&emsp;After notice and opportunity for public comment are given as provided in paragraph (2), the Secretary shall issue an order, taking intoconsideration the comments received, that includes provisions necessary to ensure that the order is in conformity with this chapter. The order shall be issued not later than 180 days following publication of the proposed order.
 
 #### (4) Referendum
 

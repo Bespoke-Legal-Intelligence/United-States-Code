@@ -10,7 +10,7 @@ Notwithstanding any other provision of sections 459f to 459f–11 of this title,
 
 #### (c) Cooperative agreements and technical assistance to protect seashore resources
 
-The Secretary is authorized to enter into cooperative agreements with local, State, and Federal agencies and with educational institutions and nonprofit entities to coordinate research designed to ensure full protection of the natural and cultural resources of the seashore, consistent with the purposes for which the seashore was established, and other applicable law. TheSecretary is also authorized to provide technical assistance to local, State, and Federal agencies and to educational institutions and non-profit entities in order to further such purposes. The Secretary shall submit a report every two years to the Congress on the results of the coordinated research program authorized by this section and plans to implement the recommendations arising from such research.
+The Secretary is authorized to enter into cooperative agreements with local, State, and Federal agencies and with educational institutions and nonprofit entities to coordinate research designed to ensure full protection of the natural and cultural resources of the seashore, consistent with the purposes for which the seashore was established, and other applicable law. The Secretary is also authorized to provide technical assistance to local, State, and Federal agencies and to educational institutions and non-profit entities in order to further such purposes. The Secretary shall submit a report every two years to the Congress on the results of the coordinated research program authorized by this section and plans to implement the recommendations arising from such research.
 
 (Pub. L. 89–195, §6, Sept. 21, 1965, 79 Stat. 826; Pub. L. 102–320, §1(5), July 10, 1992, 106 Stat. 321.)
 
@@ -21,6 +21,22 @@ Act of September 28, 1962, referred to in subsec. (b), popularly known as the Re
 #### Amendments
 
 1992—Subsec. (c). Pub. L. 102–320 added subsec. (c).
+
+#### Designation of Center to Honor Herbert H. Bateman
+
+Pub. L. 106–480, Nov. 9, 2000, 114 Stat. 2186, provided that:
+
+#### “SECTION 1. DESIGNATION.
+
+“A building proposed to be located within the boundaries of the Chincoteague National Wildlife Refuge, on Assateague Island, Virginia, shall be known and designated as the ‘Herbert H. Bateman Education and Administrative Center’.
+
+#### “SEC. 2. REFERENCES.
+
+“Any reference in a law, map, regulation, document, paper, or other record of the United States to the building referred to in section 1 shall be deemed to be a reference to the ‘Herbert H. Bateman Education and Administrative Center’.”
+
+Similar provisions were contained in Pub. L. 106–369, §8, Oct. 27, 2000, 114 Stat. 1419.
+
+Pub. L. 106–291, title I, §141, Oct. 11, 2000, 114 Stat. 949, provided that the building housing the visitors center within the boundaries of the Chincoteague National Wildlife Refuge on Assateague Island, Virginia, was to be known and designated as the “Herbert H. Bateman Educational and Administrative Center”.
 
 #### Section Referred to in Other Sections
 

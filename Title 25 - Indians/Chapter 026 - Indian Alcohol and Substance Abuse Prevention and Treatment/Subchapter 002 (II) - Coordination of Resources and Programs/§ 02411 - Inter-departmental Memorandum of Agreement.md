@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Not later than 120 days after October 27, 1986, the Secretary of the Interior and the Secretary of Health and Human Services shall develop andenter into a Memorandum of Agreement which shall, among other things—
+Not later than 120 days after October 27, 1986, the Secretary of the Interior and the Secretary of Health and Human Services shall develop and enter into a Memorandum of Agreement which shall, among other things—
 
 &emsp;(1) determine and define the scope of the problem of alcohol and substance abuse for Indian tribes and their members and its financial and human costs, and specifically identify such problems affecting Indian youth,
 

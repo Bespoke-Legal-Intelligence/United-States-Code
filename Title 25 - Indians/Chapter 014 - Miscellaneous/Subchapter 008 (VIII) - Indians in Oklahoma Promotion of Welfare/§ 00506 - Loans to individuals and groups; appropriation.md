@@ -8,11 +8,3 @@ The Secretary is authorized to make loans to individual Indians and to associati
 
 Use of Revolving Loan Fund for Indians to assist Klamath Indians during period for terminating Federal supervision, see note set out under section 564 of this title. Funds to be administered as a single Indian Revolving Loan Fund after Apr. 12, 1974, see section 1461 of this title.
 
-#### Cross References
-
-Inapplicability of section to Osage County, Oklahoma, see section 508 of this title.
-
-Indians eligible for loans, see section 480 of this title.
-
-Interest charges to be covered into revolving fund, see section 470a of this title.
-

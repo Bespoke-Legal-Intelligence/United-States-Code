@@ -8,7 +8,3 @@ The Secretary of the Interior is authorized, in his discretion, and whenever for
 
 Act of February 8, 1887, referred to in text, was in the original “the statute aforesaid” and “the act of February eighth, eighteen hundred and eighty-seven”, respectively. The act appears in 24 Stat. 388, and is popularly known as the Indian General Allotment Act. For classification of this act to the Code, see Short Title note set out under section 331 of this title and Tables.
 
-#### Cross References
-
-Certain lands not to be allotted in severalty to any Indian, see section 461 of this title.
-

@@ -18,14 +18,6 @@ The first part is revised in language and amplified. The phrase “and that the 
 
 Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of this title.
 
-#### Cross References
-
-Issue of patent, generally, see section 151 et seq. of this title.
-
-Patentability of invention generally, see section 100 et seq. of this title.
-
-Proceedings in the Patent and Trademark Office, see section 21 et seq. of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 111 of this title.

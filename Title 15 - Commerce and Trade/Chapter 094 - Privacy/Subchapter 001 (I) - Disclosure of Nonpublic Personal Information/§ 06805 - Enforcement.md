@@ -24,7 +24,7 @@ This subchapter and the regulations prescribed thereunder shall be enforced by t
 
 &emsp;(6) Under State insurance law, in the case of any person engaged in providing insurance, by the applicable State insurance authority of the State in which the person is domiciled, subject to section 6701 of this title.
 
-&emsp;(7) Under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\], by the Federal Trade Commission for any other financial institution or other person that is not subject to the jurisdiction of any agency or authority under paragraphs (1) through (6) of this subsection.
+&emsp;(7) Under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\], by the Federal TradeCommission for any other financial institution or other person that is not subject to the jurisdiction of any agency or authority under paragraphs (1) through (6) of this subsection.
 
 #### (b) Enforcement of section 6801
 
@@ -58,7 +58,7 @@ The Investment Company Act of 1940, referred to in subsec. (a)(4), is title I of
 
 The Investment Advisers Act of 1940, referred to in subsec. (a)(5), is title II of act Aug. 22, 1940, ch. 686, 54 Stat. 847, as amended, which is classified generally to subchapter II (§80b–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80b–20 of this title and Tables.
 
-The Federal Trade Commission Act, referred to in subsec. (a)(7), is act Sept. 26, 1914, ch. 311, 38 Stat. 717,as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Federal Trade Commission Act, referred to in subsec. (a)(7), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
 #### Section Referred to in Other Sections
 

@@ -78,10 +78,6 @@ A prior section 1590, act June 17, 1930, ch. 497, title IV, §590, 46 Stat. 750,
 
 For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
 
-#### Contiguous Zone of United States
-
-For extension of contiguous zone of United States, see Proc. No. 7219, Sept. 2, 1999, 64 F.R. 48701, set out as a note under section 1331 of Title 43, Public Lands.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in title 18 section 1956.

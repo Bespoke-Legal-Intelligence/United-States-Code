@@ -42,7 +42,7 @@
 | [2152\.](%C2%A7%2002152%20-%20Separability.md) | Separability. |
 | [2153\.](%C2%A7%2002153%20-%20Fees%20and%20authorization%20of%20appropriations.md) | Fees and authorization of appropriations. |
 | [2154\.](%C2%A7%2002154%20-%20Effective%20dates.md) | Effective dates. |
-| [2155\.](%C2%A7%2002155%20-%20Annual%20report%20to%20the%20President%20of%20the%20Senate%20and%20the%20Speaker%20of%20the%20House%20of%20Representatives.md) | Annual report to the President of the Senate and the Speaker of the House of Representatives. |
+| [2155\.](%C2%A7%2002155%20-%20Omitted.md) | Omitted. |
 | [2156\.](%C2%A7%2002156%20-%20Animal%20fighting%20venture%20prohibition.md) | Animal fighting venture prohibition. |
 | (a) | Sponsoring or exhibiting animal in any fighting venture. |
 | (b) | Buying, selling, delivering, or transporting animals for participation in animal fighting venture. |
@@ -102,7 +102,7 @@ This chapter is referred to in title 16 section 1374.
 - [&sect; 02152 - Separability](%C2%A7%2002152%20-%20Separability.md)
 - [&sect; 02153 - Fees and authorization of appropriations](%C2%A7%2002153%20-%20Fees%20and%20authorization%20of%20appropriations.md)
 - [&sect; 02154 - Effective dates](%C2%A7%2002154%20-%20Effective%20dates.md)
-- [&sect; 02155 - Annual report to the President of the Senate and the Speaker of the House of Representatives](%C2%A7%2002155%20-%20Annual%20report%20to%20the%20President%20of%20the%20Senate%20and%20the%20Speaker%20of%20the%20House%20of%20Representatives.md)
+- [&sect; 02155 - Omitted](%C2%A7%2002155%20-%20Omitted.md)
 - [&sect; 02156 - Animal fighting venture prohibition](%C2%A7%2002156%20-%20Animal%20fighting%20venture%20prohibition.md)
 - [&sect; 02157 - Release of trade secrets](%C2%A7%2002157%20-%20Release%20of%20trade%20secrets.md)
 - [&sect; 02158 - Protection of pets](%C2%A7%2002158%20-%20Protection%20of%20pets.md)

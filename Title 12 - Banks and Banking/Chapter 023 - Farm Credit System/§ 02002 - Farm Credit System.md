@@ -96,11 +96,13 @@ Prerequisites.—The proposal developed under subsection (a)(2) shall not be sub
 
 &emsp;“(3)
 
-Submission to stockholders.—Not later than the end of the 18-month period after the date of enactment of this Act \[Jan. 6, 1988\], each Farm CreditBank involved, in consultation with the special committee, shall submit the proposed merger affecting such bank to the voting stockholders of each such bank.
+Submission to stockholders.—Not later than the end of the 18-month period after the date of enactment of this Act \[Jan. 6, 1988\], each Farm Credit Bank involved, in consultation with the special committee, shall submit the proposed merger affecting such bank to the voting stockholders of each such bank.
 
 &emsp;“(4)
 
 Stockholder vote.—Each association shall be entitled to cast a number of votes equal to the number of voting stockholders of such association.”
+
+\[For termination, effective May 15, 2000, of reporting provisions in section 412(a)(3) of Pub. L. 100–233, set out above, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 166 of House Document No. 103–7.\]
 
 #### Applicability of Laws Enacted After January 1, 1960
 

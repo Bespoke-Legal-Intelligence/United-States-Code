@@ -8,9 +8,9 @@
 
 &emsp;(3) after such service, continues on active duty or in the Selected Reserve without a break in service (except as described in section 3012(b)(2) of this title); and
 
-&emsp;(4) but for section 3011(a)(1)(A)(i)(I) or 3012(a)(1)(A)(ii) of this title would be eligible for basic educational assistance,
+&emsp;(4) but for section 3011(a)(1)(A)(i)(I) <sup>1</sup> or 3012(a)(1)(A)(ii) of this title would be eligible for basic educational assistance,
 
-> may receive educational assistance under this chapter for enrollment in an approved program of education while continuing to perform the duty described in section 3011(a)(1)(A)(i)(I) or 3012(a)(1)(A)(ii) of this title.
+> may receive educational assistance under this chapter for enrollment in an approved program of education while continuing to perform the duty described in section 3011(a)(1)(A)(i)(I) <sup>1</sup> or 3012(a)(1)(A)(ii) of this title.
 
 (b) A member of the Armed Forces who—
 
@@ -34,6 +34,10 @@
 
 (Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2558, §1416; amended Pub. L. 99–576, title III, §321(4), Oct. 28, 1986, 100 Stat. 3278; Pub. L. 100–689, title I, §103(b)(4), Nov. 18, 1988, 102 Stat. 4165; renumbered §3016 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
 
+#### References in Text
+
+Section 3011(a)(1)(A)(i), referred to in subsec. (a), was amended generally by Pub. L. 106–419, title I, §103(a)(1)(A), Nov. 1, 2000, 114 Stat. 1825, and, as so amended, does not contain a subcl. (I).
+
 #### Amendments
 
 1991—Pub. L. 102–83, §5(a), renumbered section 1416 of this title as this section.
@@ -47,4 +51,6 @@ Subsec. (c). Pub. L. 102–83, §5(c)(1), substituted “3018(b)(3)(A)” for �
 1988—Subsec. (c). Pub. L. 100–689 added subsec. (c).
 
 1986—Pub. L. 99–576 amended section generally. Prior to amendment, section read as follows: “A member of the Armed Forces who has completed at least two years of service on active duty after June 30, 1985, has continued on active duty or in the Selected Reserve without a break in service (except as described in section 1412(b)(2) of this title), and who but for section 1411(a)(1) or 1412(a)(1) of this title would be eligible for basic educational assistance may receive educational assistance under this chapter for enrollment in an approved program of education while continuing to perform the duty described in section 1411(a)(1) or 1412(a)(1) of this title.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

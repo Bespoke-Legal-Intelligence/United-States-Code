@@ -56,7 +56,7 @@ Contracts for Multiple Workloads.—(1) A solicitation may be issued for a singl
 
 &emsp;(C) the solicitation of offers for the contract is issued more than 60 days after the date on which the Secretary submits the report.
 
-(2) The Comptroller General shall review each report submitted under paragraph (1)(B) and, not later than 30 days after the report is submitted to Congress, shall submit to Congress the Comptroller General's views regarding the determination of the Secretary that is set forth in the report, together with any other findings that the Comptroller General considers appropriate.
+(2) The Comptroller General shall review each report submitted under paragraph (1)(B) and,not later than 30 days after the report is submitted to Congress, shall submit to Congress the Comptroller General's views regarding the determination of the Secretary that is set forth in the report, together with any other findings that the Comptroller General considers appropriate.
 
 (f)
 

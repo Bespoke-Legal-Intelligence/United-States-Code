@@ -10,7 +10,3 @@ The preference right of the Secretary to purchase shall be considered as waived 
 
 1947—Act Aug. 4, 1947, provided for waiver of preference by failure to purchase after notice.
 
-#### Cross References
-
-Inapplicability of section to Osage County, Oklahoma, see section 508 of this title.
-

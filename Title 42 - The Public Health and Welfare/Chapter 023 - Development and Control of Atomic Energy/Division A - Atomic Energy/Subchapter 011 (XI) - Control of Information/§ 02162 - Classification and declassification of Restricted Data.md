@@ -70,7 +70,7 @@ Dwight D. Eisenhower.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Modification of Executive Order No. 10899
 
-Ex. Ord. No. 10899, Dec. 9, 1960, 25 F.R. 12729, set out above, when referring to functions of the Atomic Energy Commission is modified to provide that all such functions shall be exercised by the Secretary of Energy and the Nuclear Regulatory Commission, see section 4(a)(1) of Ex. Ord. No. 12038, Feb. 3, 1978, 43 F.R. 4957, set out as a note under section 7151 of this title.
+Ex. Ord. No. 10899, Dec. 9, 1960, 25 F.R. 12729, set out above, when referring to functions of the Atomic Energy Commission is modified to provide that all such functions shall be exercised by the Secretary of Energyand the Nuclear Regulatory Commission, see section 4(a)(1) of Ex. Ord. No. 12038, Feb. 3, 1978, 43 F.R. 4957, set out as a note under section 7151 of this title.
 
 #### Ex. Ord. No. 11057. Communication of Restricted Data by Department of State
 
@@ -88,7 +88,7 @@ John F. Kennedy.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Modification of Executive Order No. 11057
 
-Ex. Ord. No. 11057, Oct. 18, 1962, 27 F.R. 10289, set out above, when referring to functions of the Atomic Energy Commission is modified to provide that all suchfunctions shall be exercised by the Secretary of Energy and the Nuclear Regulatory Commission, see section 4(a)(1) of Ex. Ord. No. 12038, Feb. 3, 1978, 43 F.R. 4957, set out as a note under section 7151 of this title.
+Ex. Ord. No. 11057, Oct. 18, 1962, 27 F.R. 10289, set out above, when referring to functions of the Atomic Energy Commission is modified to provide that all such functions shall be exercised by the Secretary of Energy and the Nuclear Regulatory Commission, see section 4(a)(1) of Ex. Ord. No. 12038, Feb. 3, 1978, 43 F.R. 4957, set out as a note under section 7151 of this title.
 
 #### Section Referred to in Other Sections
 

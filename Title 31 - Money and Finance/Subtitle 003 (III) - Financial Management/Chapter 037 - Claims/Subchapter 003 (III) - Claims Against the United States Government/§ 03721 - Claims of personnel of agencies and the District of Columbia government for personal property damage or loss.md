@@ -32,7 +32,7 @@
 
 &emsp;(3) no part of the loss was caused by any negligent or wrongful act of the claimant or an agent or employee of the claimant.
 
-(g) A claim may be allowed under this section only if it is presented in writing within 2 years after the claim accrues. However, if a claim under subsection (b) of this section accrues during war or an armed conflict in which an armed force of the United States is involved, or has accrued within 2 years before war or an armed conflict begins, and for cause shown, the claim must be presented within 2 years after the cause no longer exists or after the war or armed conflict ends, whichever is earlier. An armed conflict begins and ends as stated in a concurrent resolution of Congress or a decision of the President.
+(g) A claim may be allowed under this section only if it is presented in writing within 2 years after the claim accrues. However, if a claim under subsection (b) of this section accrues during war or an armed conflict in which an armed force of the United States is involved, or has accrued within 2 years before war or an armed conflict begins, and for cause shown, the claimmust be presented within 2 years after the cause no longer exists or after the war or armed conflict ends, whichever is earlier. An armed conflict begins and ends as stated in a concurrent resolution of Congress or a decision of the President.
 
 (h) The head of the agency—
 
@@ -186,7 +186,7 @@ In subsection (h)(1), the words “the surviving . . . of a dead member, offic
 
 Subsection (h)(2) is substituted for “Claims of survivors shall be settled and paid in the order named” in 31:241(a)(3) and (b)(2) and “Claims of survivors shall be settled and paid in the order set forth in the preceding sentence” in 31:243a(b) for clarity.
 
-In subsection (i), the words “to the contrary” are omitted as surplus. The words “representative of a claimant” are substituted for “agent or attorney” for clarity and consistency. The words “be paid or delivered to or” are omitted as surplus. The word “payment” is substituted for “amount paid in settlement” to eliminate unnecessary words. The words “individual . . . submitted and settled . . . the authority of” are omitted as surplus. The words “and the same shall be unlawful” are omitted because of the restatement. The words “shall be deemed guilty of a misdemeanor and upon conviction thereof . . . in any sum” are omitted as surplus.
+In subsection (i), the words “to the contrary” are omitted as surplus. The words “representative of a claimant” are substituted for “agent or attorney” forclarity and consistency. The words “be paid or delivered to or” are omitted as surplus. The word “payment” is substituted for “amount paid in settlement” to eliminate unnecessary words. The words “individual . . . submitted and settled . . . the authority of” are omitted as surplus. The words “and the same shall be unlawful” are omitted because of the restatement. The words “shall be deemed guilty of a misdemeanor and upon conviction thereof . . . in any sum” are omitted as surplus.
 
 In subsection (j), the words “the purposes of” in 31:241(b)(1)(1st sentence words before 5th comma) are omitted as surplus. The words “(except subsection (b) to the extent that subsection (b) applies to the military departments, the Department of Defense, and the Coast Guard)” are substituted for the source provisions because of the restatement. The words “to carry out this section” after “regulations” are added for clarity.
 

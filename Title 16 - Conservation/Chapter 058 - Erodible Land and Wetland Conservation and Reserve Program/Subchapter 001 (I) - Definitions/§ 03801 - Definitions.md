@@ -114,7 +114,7 @@ The date of enactment of this subparagraph, referred to in subsec. (a)(9)(C), is
 
 #### Amendments
 
-1996—Subsec. (a)(2) to (6). Pub. L. 104–127, §301(a), added pars. (2) and (3) and redesignated former pars. (2)to (4) as (4) to (6), respectively. Former pars. (5) and (6) redesignated (7) and (8), respectively.
+1996—Subsec. (a)(2) to (6). Pub. L. 104–127, §301(a), added pars. (2) and (3) and redesignated former pars. (2) to (4) as (4) to (6), respectively. Former pars. (5) and (6) redesignated (7) and (8), respectively.
 
 Subsec. (a)(7). Pub. L. 104–127, §301(b), added par. (7) and struck out former par. (7) which read as follows: “The term ‘field’ means such term as is defined in section 718.2(b)(9) of title 7 of the Code of Federal Regulations (as of January 1, 1985), except that any highly erodible land on which an agricultural commodity is produced after December 23, 1985, and that is not exempt under section 3812 of this title shall be considered as part of the field in which such land was included on December 23, 1985, unless the Secretary permits modification of the boundaries of the field to carry out subchapters I through V of this chapter.”
 
@@ -131,6 +131,10 @@ Subsec. (a)(10) to (18). Pub. L. 104–127, §301(a)(1), redesignated pars. (8) 
 1990—Subsec. (a)(16). Pub. L. 101–624 substituted introductory provisions and subpars. (A) to (C) for “The term ‘wetland’, except when such term is part of the term ‘converted wetland’, means land that has a predominance of hydric soils and that is inundated or saturated by surface or groundwater at a frequency and duration sufficient to support, and that under normal circumstances does support, a prevalence of hydrophytic vegetation typically adapted for life in saturated soil conditions.”
 
 1986—Subsec. (a)(16). Pub. L. 99–349 inserted provision that for purposes of this Act, and any other Act, the term “wetland” shall not include lands in Alaska identified as having high potential for agricultural development which have a predominance of permafrost soils.
+
+#### Short Title of 2000 Amendment
+
+Pub. L. 106–387, §1(a) \[title XI, §1101\], Oct. 28, 2000, 114 Stat. 1549, 1549A–75, provided that: “This title \[amending sections 3831 and 3832 of this title and enacting provisions set out as notes under section 3831 of this title\] may be cited as the ‘Conservation of Farmable Wetland Act of 2000’.”
 
 #### Short Title of 1990 Amendment
 

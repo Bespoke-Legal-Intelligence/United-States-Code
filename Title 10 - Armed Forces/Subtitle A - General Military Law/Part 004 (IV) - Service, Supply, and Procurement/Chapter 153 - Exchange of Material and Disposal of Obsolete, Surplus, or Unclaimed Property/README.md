@@ -9,15 +9,22 @@
 | [2575\.](%C2%A7%2002575%20-%20Disposition%20of%20unclaimed%20property.md) | Disposition of unclaimed property. |
 | [2576\.](%C2%A7%2002576%20-%20Surplus%20military%20equipment%20sale%20to%20State%20and%20local%20law%20enforcement%20and%20firefighting%20agencies.md) | Surplus military equipment: sale to State and local law enforcement and firefighting agencies. |
 | [2576a.](%C2%A7%2002576a%20-%20Excess%20personal%20property%20sale%20or%20donation%20for%20law%20enforcement%20activities.md) | Excess personal property: sale or donation for law enforcement activities. |
+| [2576b.](%C2%A7%2002576b%20-%20Excess%20personal%20property%20sale%20or%20donation%20to%20assist%20firefighting%20agencies.md) | Excess personal property: sale or donation to assist firefighting agencies. |
 | [2577\.](%C2%A7%2002577%20-%20Disposal%20of%20recyclable%20materials.md) | Disposal of recyclable materials. |
 | [2578\.](%C2%A7%2002578%20-%20Vessels%20transfer%20between%20departments.md) | Vessels: transfer between departments. |
 | [2579\.](%C2%A7%2002579%20-%20War%20booty%20procedures%20for%20handling%20and%20retaining%20battlefield%20objects.md) | War booty: procedures for handling and retaining battlefield objects. |
 | [2580\.](%C2%A7%2002580%20-%20Donation%20of%20excess%20chapel%20property.md) | Donation of excess chapel property. |
 | [2581\.](%C2%A7%2002581%20-%20Excess%20UH%E2%80%931%20Huey%20and%20AH%E2%80%931%20Cobra%20helicopters%20requirements%20for%20transfer%20to%20foreign%20countries.md) | Excess UH–1 Huey and AH–1 Cobra helicopters: requirements for transfer to foreign countries. |
+| 2582\. | Military equipment identified on United States munitions list: annual report of public sales. |
+| 2582\.<sup>1</sup> | Military working dogs: transfer and adoption at end of useful working life. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2000—Pub. L. 106–446, §1(b), Nov. 6, 2000, 114 Stat. 1933, added item 2582 relating to military working dogs.
+
+Pub. L. 106–398, §1 \[\[div. A\], title III, §381(b), title XVII, §1706(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–85, 1654A–367, added items 2576b and 2582 relating to military equipment identified on United States munitions list.
 
 1998—Pub. L. 105–261, div. A, title XII, §1234(b), Oct. 17, 1998, 112 Stat. 2157, added item 2581.
 
@@ -39,17 +46,9 @@ Pub. L. 100–370, §1(k)(2), July 19, 1988, 102 Stat. 848, added item 2578.
 
 1958—Pub. L. 85–861, §1(50), Sept. 2, 1958, 72 Stat. 1459, substituted “property” for “supplies” in item 2571.
 
-#### Cross References
+<i><sup>1</sup></i><i> Another section 2555 is set out after section 2554 of this title.</i>
 
-Disposal of obsolete or surplus material—
-
-&emsp;&emsp;Air Force, see section 9681 et seq. of this title.
-
-&emsp;&emsp;Army, see section 4681 et seq. of this title.
-
-&emsp;&emsp;Navy, see section 7541 et seq. of this title.
-
-Property records, basis and reports, see section 2721 of this title.
+<i><sup>1</sup></i><i> So in original. Probably should be “2583”.</i>
 
 
 ---
@@ -63,8 +62,11 @@ Property records, basis and reports, see section 2721 of this title.
 - [&sect; 02575 - Disposition of unclaimed property](%C2%A7%2002575%20-%20Disposition%20of%20unclaimed%20property.md)
 - [&sect; 02576 - Surplus military equipment sale to State and local law enforcement and firefighting agencies](%C2%A7%2002576%20-%20Surplus%20military%20equipment%20sale%20to%20State%20and%20local%20law%20enforcement%20and%20firefighting%20agencies.md)
 - [&sect; 02576a - Excess personal property sale or donation for law enforcement activities](%C2%A7%2002576a%20-%20Excess%20personal%20property%20sale%20or%20donation%20for%20law%20enforcement%20activities.md)
+- [&sect; 02576b - Excess personal property sale or donation to assist firefighting agencies](%C2%A7%2002576b%20-%20Excess%20personal%20property%20sale%20or%20donation%20to%20assist%20firefighting%20agencies.md)
 - [&sect; 02577 - Disposal of recyclable materials](%C2%A7%2002577%20-%20Disposal%20of%20recyclable%20materials.md)
 - [&sect; 02578 - Vessels transfer between departments](%C2%A7%2002578%20-%20Vessels%20transfer%20between%20departments.md)
 - [&sect; 02579 - War booty procedures for handling and retaining battlefield objects](%C2%A7%2002579%20-%20War%20booty%20procedures%20for%20handling%20and%20retaining%20battlefield%20objects.md)
 - [&sect; 02580 - Donation of excess chapel property](%C2%A7%2002580%20-%20Donation%20of%20excess%20chapel%20property.md)
 - [&sect; 02581 - Excess UH&#8211;1 Huey and AH&#8211;1 Cobra helicopters requirements for transfer to foreign countries](%C2%A7%2002581%20-%20Excess%20UH%E2%80%931%20Huey%20and%20AH%E2%80%931%20Cobra%20helicopters%20requirements%20for%20transfer%20to%20foreign%20countries.md)
+- [&sect; 02582 - Military equipment identified on United States munitions list annual report of public sales](%C2%A7%2002582%20-%20Military%20equipment%20identified%20on%20United%20States%20munitions%20list%20annual%20report%20of%20public%20sales.md)
+- [&sect; 02582 - 1 Military working dogs transfer and adoption at end of useful working life](%C2%A7%2002582%20-%201%20Military%20working%20dogs%20transfer%20and%20adoption%20at%20end%20of%20useful%20working%20life.md)

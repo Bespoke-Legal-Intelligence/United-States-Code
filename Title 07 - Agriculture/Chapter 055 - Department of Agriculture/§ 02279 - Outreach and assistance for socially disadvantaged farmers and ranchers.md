@@ -4,11 +4,11 @@
 
 #### (1) In general
 
-&emsp;The Secretary of Agriculture (hereafter referred to in this section as the “Secretary”) shall provide outreach and technical assistance to encourage and assist socially disadvantaged farmers and ranchers to own and operate farms and ranches and to participate in agricultural programs. This assistanceshould include information on application and bidding procedures, farm management, and other essential information to participate in agricultural programs.
+&emsp;The Secretary of Agriculture (hereafter referred to in this section as the “Secretary”) shall provide outreach and technical assistance to encourage and assist socially disadvantaged farmers and ranchers to own and operate farms and ranches and to participate in agricultural programs. This assistance should include information on application and bidding procedures, farm management, and other essential information to participate in agricultural programs.
 
 #### (2) Grants and contracts
 
-&emsp;The Secretary may make grants and enter into contracts and other agreements in the furtherance of this section with the following entities—
+&emsp;The Secretary may make grants and enter into contracts and other agreements in thefurtherance of this section with the following entities—
 
 &emsp;&emsp;(A) any community based organization that—
 

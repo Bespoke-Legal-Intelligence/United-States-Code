@@ -10,7 +10,7 @@ Procurements For or With Other Agencies.—Subject to subsection (a), to facilit
 
 &emsp;(1) the head of an agency may delegate functions and assign responsibilities relating to procurement to any officer or employee within such agency;
 
-&emsp;(2) the heads of two or more agencies may by agreement delegate procurement functions and assign procurement responsibilities from one agency to another of those agencies or toan officer or civilian employee of another of those agencies; and
+&emsp;(2) the heads of two or more agencies may by agreement delegate procurement functions and assign procurement responsibilities from one agency to another of those agencies or to an officer or civilian employee of another of those agencies; and
 
 &emsp;(3) the heads of two or more agencies may create joint or combined offices to exercise procurement functions and responsibilities.
 
@@ -79,8 +79,4 @@ Amendment by Pub. L. 98–369 applicable with respect to any solicitation for bi
 #### Effective Date of 1962 Amendment
 
 For effective date of amendment by Pub. L. 87–653, see section 1(h) of Pub. L. 87–653, set out as a note under section 2304 of this title.
-
-#### Cross References
-
-Research and development contracts, delegation of authority, see section 2356 of this title.
 

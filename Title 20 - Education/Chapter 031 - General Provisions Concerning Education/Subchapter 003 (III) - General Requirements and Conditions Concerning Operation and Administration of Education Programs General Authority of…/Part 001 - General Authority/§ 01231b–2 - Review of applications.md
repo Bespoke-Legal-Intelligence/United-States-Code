@@ -10,7 +10,7 @@ Any applicant or recipient aggrieved by the failure of a State educational agenc
 
 #### (c) Records; availability
 
-Each State educational agency shall make available at reasonable times and places to each applicant or recipient under a program to which this section applies all records of such agency pertaining to any review or appeal such applicant or recipient is conducting under this section, including records of other applicants.
+Each State educational agency shall make available at reasonable times and places to each applicant or recipient under a program to which this section applies all records of such agencypertaining to any review or appeal such applicant or recipient is conducting under this section, including records of other applicants.
 
 #### (d) Termination of assistance for noncompliance with provisions or orders
 

@@ -20,7 +20,7 @@ Pub. L. 105–85, div. A, title VIII, §853, Nov. 18, 1997, 111 Stat. 1851, prov
 
 #### Fulfillment Standards for Mandatory Training
 
-Pub. L. 102–484, div. A, title VIII, §812(c), Oct. 23, 1992, 106 Stat. 2451, as amended by Pub. L. 105–85, div. A, title X, §1073(d)(2)(A), Nov. 18, 1997, 111 Stat. 1905, provided that the Secretary of Defense, acting through theUnder Secretary of Defense for Acquisition and Technology, was to develop, not later than 90 days after Oct. 23, 1992, fulfillment standards, and implement a program, for purposes of the training requirements of sections 1723, 1724, and 1735 of this title, and that the standards were to take effect as of Nov. 5, 1990, and cease to be in effect on Oct. 1, 1997.
+Pub. L. 102–484, div. A, title VIII, §812(c), Oct. 23, 1992, 106 Stat. 2451, as amended by Pub. L. 105–85, div. A, title X, §1073(d)(2)(A), Nov. 18, 1997, 111 Stat. 1905, provided that the Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Technology, was to develop, not later than 90 days after Oct. 23, 1992, fulfillment standards, and implement a program, for purposes of the training requirements of sections 1723, 1724, and 1735 of this title, and that the standards were to take effect as of Nov. 5, 1990, and cease to be in effect on Oct. 1, 1997.
 
 #### Section Referred to in Other Sections
 

@@ -42,7 +42,7 @@ Moneys credited to the development fund pursuant to subsection (b) and clauses (
 
 #### (g) Repayment of costs
 
-All revenues credited to the development fund in accordance with clause (c)(2) of this section (excluding only those revenues derived from thesale of power and energy for use in Arizona during the payout period of the Central Arizona Project as authorized herein) and such other revenues as remain in the development fund after making the payments required by subsections (d) and (f) of this section shall be available (1) to make payments, if any, as required by sections 616aa–1 and 620d–1 of this title, (2) for repayment to the general fund of the Treasury the costs of each salinity control unit or separable feature thereof <sup>1</sup> the costs of measures to replace incidental fish and wildlife values foregone, and the costs of on-farm measures payable from the Lower Colorado River Basin Development Fund in accordance with sections 1595(a)(2), 1595(a)(3), and 1595(b) of this title and (3) upon appropriation by the Congress, to assist in the repayment of reimbursable costs incurred in connection with units hereafter constructed to provide for the augmentation of the water supplies of the Colorado River for use below Lee Ferry as may be authorized as a result of the investigations and recommendations made pursuant to sections 1511 and 1513(a) of this title.
+All revenues credited to the development fund in accordance with clause (c)(2) of this section (excluding only those revenues derived from the sale of power and energy for use in Arizona during the payout period of the Central Arizona Project as authorized herein) and such other revenues as remain in the development fund after making the payments required by subsections (d) and (f) of this section shall be available (1) to make payments, if any, as required by sections 616aa–1 and 620d–1 of this title, (2) for repayment to the general fund of the Treasury the costs of each salinity control unit or separable feature thereof <sup>1</sup> the costs of measures to replace incidental fish and wildlife values foregone, and the costs of on-farm measures payable from the Lower Colorado River Basin Development Fund in accordance with sections 1595(a)(2), 1595(a)(3), and 1595(b) of this title and (3) upon appropriation by the Congress, to assist in the repayment of reimbursable costs incurred in connection with units hereafter constructed to provide for the augmentation of the water supplies of the Colorado River for use below Lee Ferry as may be authorized as a result of the investigations and recommendations made pursuant to sections 1511 and 1513(a) of this title.
 
 #### (h) Interest rate
 
@@ -69,6 +69,10 @@ Subsec. (g). Pub. L. 98–569 inserted “the costs of measures to replace incid
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–569 effective Oct. 30, 1984, see section 6 of Pub. L. 98–569, set out as a note under section 1591 of this title.
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsec. (i) of this section is listed as the 7th item on page 114), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set out as notes under section 1113 of Title 31, Money and Finance.
 
 #### Section Referred to in Other Sections
 

@@ -2,7 +2,7 @@
 
 (a) There are authorized to be appropriated to carry out the foregoing provisions of this chapter, except as otherwise specifically provided, with respect to the payment of claims, under section 2210 of this title, an amount not to exceed $25,210,000 for the fiscal year ending September 30, 1980, which amount includes—
 
-&emsp;(1) $4,781,000 for programs which are recommended in the report submitted to the Congress by the Administrator pursuant to section 2220(b)(1) of this title;
+&emsp;(1) $4,781,000 for programs which are recommended in the report submitted to the Congress by the Administrator pursuant to section 2220(b)(1) <sup>1</sup> of this title;
 
 &emsp;(2) $9,430,000 for the National Academy for Fire Prevention and Control;
 
@@ -10,9 +10,9 @@
 
 &emsp;(4) $500,000 for additional rural firefighting technical assistance and information activities;
 
-&emsp;(5) $500,000 for the study required by section 2222 of this title; and
+&emsp;(5) $500,000 for the study required by section 2222 <sup>1</sup> of this title; and
 
-&emsp;(6) $110,000 for the study required by section 2223 of this title.
+&emsp;(6) $110,000 for the study required by section 2223 <sup>1</sup> of this title.
 
 (b) There are authorized to be appropriated for the additional administrative expenses of the Federal Emergency Management Agency, which are related to this chapter and which result from Reorganization Plan Numbered 3 of 1978 (submitted June 19, 1978) and related Executive orders, an amount not to exceed $600,000 for the fiscal year ending September 30, 1980.
 
@@ -38,7 +38,7 @@
 
 > The funds authorized under section 278f of this title shall be in addition to funds authorized in any other law for research and development at the Fire Research Center of the National Institute of Standards and Technology.
 
-(e) Except as otherwise specifically provided with respect to the payment of claims under section 2210 of this title, to carry out the purposesof this chapter, there are authorized to be appropriated—
+(e) Except as otherwise specifically provided with respect to the payment of claims under section 2210 of this title, to carry out the purposes of this chapter, there are authorized to be appropriated—
 
 &emsp;(1) $15,720,000 for the fiscal year ending September 30, 1984, and $20,983,000 for the fiscal year ending September 30, 1985; and
 
@@ -62,9 +62,15 @@
 
 &emsp;(F) $27,529,000 for the fiscal year ending September 30, 1994;
 
-&emsp;(G) $29,664,000 for the fiscal year ending September 30, 1998; and
+&emsp;(G) $29,664,000 for the fiscal year ending September 30, 1998;
 
-&emsp;(H) $30,554,000 for the fiscal year ending September 30, 1999.
+&emsp;(H) $30,554,000 for the fiscal year ending September 30, 1999;
+
+&emsp;(I) $44,753,000 for fiscal year 2001, of which $3,000,000 is for research activities, and $250,000 may be used for contracts or grants to non-Federal entities for data analysis, including general fire profiles and special fire analyses and report projects, and of which $6,000,000 is for anti-terrorism training, including associated curriculum development, for fire and emergency services personnel;
+
+&emsp;(J) $47,800,000 for fiscal year 2002, of which $3,250,000 is for research activities, and $250,000 may be used for contracts or grants to non-Federal entities for data analysis, including general fire profiles and special fire analyses and report projects, and of which $7,000,000 is for anti-terrorism training, including associated curriculum development, for fire and emergency services personnel; and
+
+&emsp;(K) $50,000,000 for fiscal year 2003, of which $3,500,000 is for research activities, and $250,000 may be used for contracts or grants to non-Federal entities for data analysis, including general fire profiles and special fire analyses and report projects, and of which $8,000,000 is for anti-terrorism training, including associated curriculum development, for fire and emergency services personnel.
 
 (2) Of the amounts referred to in paragraph (1), not more than $4,150,000 is authorized to be appropriated for each fiscal year for National Emergency Training Center site administration.
 
@@ -78,15 +84,21 @@
 
 &emsp;(4) $250,000 for each of the fiscal years 1995 and 1996 for salaries and expenses for carrying out section 2221 of this title.
 
-(Pub. L. 93–498, §17, Oct. 29, 1974, 88 Stat. 1545; Pub. L. 94–411, §1(a), Sept. 13, 1976, 90 Stat. 1254; Pub. L. 95–422, §1(a), Oct. 5, 1978, 92 Stat. 932; Pub. L. 96–121, §1, Nov. 16, 1979, 93 Stat. 863; Pub. L. 96–472, title II, §201, Oct. 19, 1980, 94 Stat. 2260; Pub. L. 97–80, title II, §201, Nov. 20, 1981, 95 Stat. 1081; Pub. L. 98–241, title II, §201, Mar. 22, 1984, 98 Stat. 95; Pub. L. 99–97, Sept. 26, 1985, 99 Stat. 465; Pub. L. 99–359, §1, July 8, 1986, 100 Stat. 764; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 100–476, §1, Oct. 6, 1988, 102 Stat. 2304; Pub. L. 102–522, title I, §101, Oct. 26, 1992, 106 Stat. 3410; Pub. L. 103–254, §7, May 19, 1994, 108 Stat. 682; Pub. L. 105–108, §2, Nov. 20, 1997, 111 Stat. 2264.)
+(Pub. L. 93–498, §17, Oct. 29, 1974, 88 Stat. 1545; Pub. L. 94–411, §1(a), Sept. 13, 1976, 90 Stat. 1254; Pub. L. 95–422, §1(a), Oct. 5, 1978, 92 Stat. 932; Pub. L. 96–121, §1, Nov. 16, 1979, 93 Stat. 863; Pub. L. 96–472, title II, §201, Oct. 19, 1980, 94 Stat. 2260; Pub. L. 97–80, title II, §201, Nov. 20, 1981, 95 Stat. 1081; Pub. L. 98–241, title II, §201, Mar. 22, 1984, 98 Stat. 95; Pub. L. 99–97, Sept. 26, 1985, 99 Stat. 465; Pub. L. 99–359, §1, July 8, 1986, 100 Stat. 764; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 100–476, §1, Oct. 6, 1988, 102 Stat. 2304; Pub. L. 102–522, title I, §101, Oct. 26, 1992, 106 Stat. 3410; Pub. L. 103–254, §7, May 19, 1994, 108 Stat. 682; Pub. L. 105–108, §2, Nov. 20, 1997, 111 Stat. 2264; Pub. L. 106–503, title I, §102, Nov. 13, 2000, 114 Stat. 2298.)
 
 #### References in Text
+
+Section 2220(b)(1) of this title, referred to in subsec. (a)(1), was repealed by Pub. L. 106–503, title I, §110(a)(1)(D), Nov. 13, 2000, 114 Stat. 2302.
+
+Sections 2222 and 2223 of this title, referred to in subsec. (a)(5), (6), respectively, were repealed by Pub. L. 106–503, title I, §110(a)(1)(B), Nov. 13, 2000, 114 Stat. 2302.
 
 Reorganization Plan Numbered 3 of 1978, referred to in subsec. (b), is set out in the Appendix to Title 5, Government Organization and Employees.
 
 The National Bureau of Standards Authorization Act for fiscal years 1981 and 1982, referred to in subsec. (d)(1)(A), is Pub. L. 96–461, Oct. 15, 1980, 94 Stat. 2049, which enacted section 278g of this title, amended sections 278d and 278h of this title, and enacted provisions set out as notes under section 278g of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+
+2000—Subsec. (g)(1)(I) to (K). Pub. L. 106–503 added subpars. (I) to (K).
 
 1997—Subsec. (g)(1)(G), (H). Pub. L. 105–108 added subpars. (G) and (H).
 
@@ -108,7 +120,7 @@ Subsec. (g). Pub. L. 100–476 added subsec. (g).
 
 1980—Subsec. (c). Pub. L. 96–472 added subsec. (c).
 
-1979—Subsec. (a). Pub. L. 96–121 designated existing provisions as subsec. (a), substituted provisions authorizing to be appropriated an amount not to exceed $25,210,000 for fiscal year ending Sept. 30, 1980, for provisions authorizing appropriations not to exceed $3,750,000 for the transitional fiscal quarter of July 1, 1976 through Sept. 30, 1976, not to exceed $15,000,000 for fiscal year ending Sept. 30, 1977, not to exceed $20,000,000 for fiscal year ending Sept. 30, 1978, and not to exceed $24,352,000 for fiscal year ending Sept. 30, 1979, and added pars. (1) to (6).
+1979—Subsec. (a). Pub. L. 96–121 designated existing provisions as subsec. (a), substituted provisions authorizing to be appropriated an amount not to exceed $25,210,000 for fiscal year ending Sept. 30, 1980, for provisions authorizing appropriations not to exceed $3,750,000 for the transitional fiscal quarter of July 1,1976 through Sept. 30, 1976, not to exceed $15,000,000 for fiscal year ending Sept. 30, 1977, not to exceed $20,000,000 for fiscal year ending Sept. 30, 1978, and not to exceed $24,352,000 for fiscal year ending Sept. 30, 1979, and added pars. (1) to (6).
 
 Subsec. (b). Pub. L. 96–121 added subsec. (b).
 
@@ -126,5 +138,7 @@ Section 8 of Pub. L. 103–254 provided that: “Notwithstanding any other provi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2206, 2220 of this title.
+This section is referred to in section 2206 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

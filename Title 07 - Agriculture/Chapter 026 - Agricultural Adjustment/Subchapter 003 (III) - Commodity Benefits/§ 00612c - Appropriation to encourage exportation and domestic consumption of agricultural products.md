@@ -56,7 +56,7 @@ Act Aug. 25, 1937, ch. 757, title I, §1, 50 Stat. 762, provided for availabilit
 
 #### Use of Appropriation
 
-Section 301 of act July 30, 1947, ch. 356, title III, 61 Stat. 550, provided that, notwithstanding section 612c of this title, no more than $44,000,000 would be available during the fiscal year ending June 30, 1948, for use in effectuating this chapter; that $65,000,000 of the fiscal year 1948 appropriation were made available to carry out the National School Lunch Act of June 4, 1946,without regard to the 25 per cent limitation in section 612c and exclusive of funds expended pursuant to the last sentence of section 9 of the National School Lunch Act: provided that no part of such funds were to be used for nonfood assistance under section 5 of said Act; and that the remainder of the fund appropriated by said Act for the fiscal year 1948 was rescinded effective July 1, 1947, carried to the surplus fund, and covered into the Treasury immediately thereafter.
+Section 301 of act July 30, 1947, ch. 356, title III, 61 Stat. 550, provided that, notwithstanding section 612c of this title, no more than $44,000,000 would be available during the fiscal year ending June 30, 1948, for use in effectuating this chapter; that $65,000,000 of the fiscal year 1948 appropriation were made available to carry out the National School Lunch Act of June 4, 1946, without regard to the 25 per cent limitation in section 612c and exclusive of funds expended pursuant to the last sentence of section 9 of the National School Lunch Act: provided that no part of such funds were to be used for nonfood assistance under section 5 of said Act; and that the remainder of the fund appropriated by said Act for the fiscal year 1948 was rescinded effective July 1, 1947, carried to the surplus fund, and covered into the Treasury immediately thereafter.
 
 #### Cancellation or Rescission of Appropriation
 
@@ -126,7 +126,7 @@ Pub. L. 100–435, title I, §130, Sept. 19, 1988, 102 Stat. 1655, was redesigna
 
 #### Encouragement of Food Processing and Distribution by Eligible Recipient Agencies
 
-Pub. L. 100–435, title II, §220, Sept. 19, 1988, 102 Stat. 1659, as amended by Pub. L. 101–624, title XVII,§1772(h)(5), Nov. 28, 1990, 104 Stat. 3809; Pub. L. 102–237, title IX, §942, Dec. 13, 1991, 105 Stat. 1893, provided that, not later than 60 days after Sept. 19, 1988, Secretary of Agriculture was, to extent that Commodity Credit Corporation's inventory levels permitted, solicit applications for surplus commodities available for distribution under section 202 of Pub. L. 98–8 (7 U.S.C. 7502), and further provided for requirements for solicitations as well as review of applications, prior to repeal by Pub. L. 104–193, title VIII, §873(2), Aug. 22, 1996, 110 Stat. 2346.
+Pub. L. 100–435, title II, §220, Sept. 19, 1988, 102 Stat. 1659, as amended by Pub. L. 101–624, title XVII, §1772(h)(5), Nov. 28, 1990, 104 Stat. 3809; Pub. L. 102–237, title IX, §942, Dec. 13, 1991, 105 Stat. 1893, provided that, not later than 60 days after Sept. 19, 1988, Secretary of Agriculture was, to extent that Commodity Credit Corporation's inventory levels permitted, solicit applications for surplus commodities available for distribution under section 202 of Pub. L. 98–8 (7 U.S.C. 7502), and further provided for requirements for solicitations as well as review of applications, prior to repeal by Pub. L. 104–193, title VIII, §873(2), Aug. 22, 1996, 110 Stat. 2346.
 
 #### Food Bank Demonstration Projects
 
@@ -134,11 +134,11 @@ Pub. L. 100–435, title V, §502, Sept. 19, 1988, 102 Stat. 1671, authorized Se
 
 #### Commodity Distribution Reform
 
-Pub. L. 100–237, §§1–4, 7, 13–18, Jan. 8, 1988, 101 Stat. 1733, 1739, 1740, 1742, 1743, as amended by Pub. L. 101–624, title XVII, §§1772(h)(3), (4), 1773(a)–(e), Nov. 28, 1990, 104 Stat. 3809–3811; Pub. L. 102–342, title IV, §401, Aug. 14, 1992, 106 Stat. 914; Pub. L. 103–448, title III, §303, Nov. 2, 1994, 108 Stat. 4750; Pub. L. 105–336, title III, §§301, 302, Oct. 31, 1998, 112 Stat. 3167, 3168; Pub. L. 106–78, title VII, §752(b)(1), Oct. 22, 1999, 113 Stat. 1169, provided that:
+Pub. L. 100–237, §§1–4, 7, 13–18, Jan. 8, 1988, 101 Stat. 1733, 1739, 1740, 1742, 1743, as amended by Pub. L. 101–624, title XVII, §§1772(h)(3), (4), 1773(a)–(e), Nov. 28, 1990, 104 Stat. 3809–3811; Pub. L. 102–342, title IV, §401, Aug. 14, 1992, 106 Stat. 914; Pub. L. 103–448, title III, §303, Nov. 2, 1994, 108 Stat. 4750; Pub. L. 105–336, title III, §§301, 302, Oct. 31, 1998, 112 Stat. 3167, 3168; Pub. L. 106–78, title VII, §752(b)(1), Oct. 22, 1999, 113 Stat. 1169; Pub. L. 106–472, title III, §307(a), Nov. 9, 2000, 114 Stat. 2073, provided that:
 
 #### “SECTION 1. SHORT TITLE.
 
-“This Act \[amending section 1431e of this title and sections 1755, 1769, and 1786 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section and section 1786 of Title 42\] may be cited as the ‘Commodity Distribution Reform Act and WIC Amendments of 1987’.
+“This Act \[amending section 1431e of this title and sections 1755, 1769, and 1786 of Title 42, The Public Health and Welfare, and enacting provisions set out asnotes under this section and section 1786 of Title 42\] may be cited as the ‘Commodity Distribution Reform Act and WIC Amendments of 1987’.
 
 #### “SEC. 2. STATEMENT OF PURPOSE; SENSE OF CONGRESS.
 
@@ -224,7 +224,7 @@ Duties of Secretary With Respect to Provision of Commodities.—With respect to 
 
 &emsp;“(1) before the end of the 270-day period beginning on the date of the enactment of this Act \[Jan. 8, 1988\]—
 
-&emsp;&emsp;“(A) implement a system to provide recipient agencies with options with respect to package sizes and forms of such commodities, based on information received from such agencies under subsection\(f)(2), taking into account the duty of the Secretary—
+&emsp;&emsp;“(A) implement a system to provide recipient agencies with options with respect to package sizes and forms of such commodities, based on information received from such agencies under subsection (f)(2), taking into account the duty of the Secretary—
 
 &emsp;&emsp;&emsp;“(i) to remove surplus stocks of agricultural commodities through the Commodity Credit Corporation;
 
@@ -244,7 +244,7 @@ Duties of Secretary With Respect to Provision of Commodities.—With respect to 
 
 &emsp;&emsp;“(B) implement procedures to monitor the manner in which State distribution agencies carry out their responsibilities;
 
-&emsp;“(2) provide technical assistance to recipient agencies on the use of such commodities, including handling, storage, and menu planning and shall distribute to all recipient agencies suggested recipes for the use of donated commodities and products (the recipe cards shall be distributed as soon as practicable after the date of enactment of this Act \[Jan. 8, 1988\] and updated on a regular basis taking into consideration the Dietary Guidelines for Americans published by the Secretary of Agriculture and the Secretary of Health and Human Services, as in effect at the time of the update of the recipe files);
+&emsp;“(2) provide technical assistance to recipient agencies on the use of such commodities, including handling, storage, and menu planning and shall distribute to all recipient agencies suggested recipes for the use of donated commodities and products (the recipe cards shall be distributed as soon as practicable afterthe date of enactment of this Act \[Jan. 8, 1988\] and updated on a regular basis taking into consideration the Dietary Guidelines for Americans published by the Secretary of Agriculture and the Secretary of Health and Human Services, as in effect at the time of the update of the recipe files);
 
 &emsp;“(3) before the end of the 120-day period beginning on the date of the enactment of this Act \[Jan. 8, 1988\], implement a system under which the Secretary shall—
 
@@ -500,7 +500,7 @@ Crediting of Recovered Funds.—Funds recovered from a supplier or other entity 
 
 “(e)
 
-Termination Date.—The authority provided by this section terminates effective October 1, 2000.
+Termination Date.—The authority provided by this section terminates effective October 1, 2003.
 
 #### “SEC. 16. AUTHORITY TO ACCEPT COMMODITIES DONATED BY FEDERAL SOURCES.
 
@@ -542,7 +542,7 @@ Payment.—Notwithstanding section 202(d) of the Federal Property and Administra
 
 #### “SEC. 18. GENERAL EFFECTIVE DATE.
 
-“Except as otherwise provided in this Act, this Act and the amendments made by this Act \[see section 1above\] shall take effect on the date of the enactment of this Act \[Jan. 8, 1988\].”
+“Except as otherwise provided in this Act, this Act and the amendments made by this Act \[see section 1 above\] shall take effect on the date of the enactment of this Act \[Jan. 8, 1988\].”
 
 \[Pub. L. 106–78, §752(b)(1), which directed amendment of section 13(3)(A) of Pub. L. 100–237, was executed by amending section 17(3)(A) of Pub. L. 100–237, set out above, to reflect the probable intent of Congress.\]
 
@@ -552,7 +552,7 @@ Pub. L. 100–232, §3, Jan. 5, 1988, 101 Stat. 1566, authorized Secretary of Ag
 
 #### Continuation of Distribution of Agricultural Commodities to Low-Income Elderly at Existing Levels
 
-Section 1562(d) of Pub. L. 99–198 provided that: “Notwithstanding any other provision of law, in implementing the commodity supplemental food program under section 4 of the Agriculture and Consumer Protection Act of 1973 \[Pub. L. 93–86, set out as a note below\], the Secretary of Agriculture shall allow agencies distributing agricultural commodities to low-income elderly people under such programs on the date of enactment of this Act \[Dec. 23, 1985\] to continue such distribution at levels no lower than existing caseloads.”
+Section 1562(d) of Pub. L. 99–198 provided that: “Notwithstanding any other provision of law, in implementing the commodity supplemental food program under section 4 of the Agriculture and Consumer Protection Act of 1973 \[Pub. L. 93–86, set out as a note below\], the Secretary of Agriculture shall allow agencies distributing agricultural commodities to low-income elderly people under such programs on the date of enactmentof this Act \[Dec. 23, 1985\] to continue such distribution at levels no lower than existing caseloads.”
 
 #### Report to Congress on Activities of Program Conducted Under Temporary Emergency Food Assistance Act of 1983
 
@@ -570,9 +570,7 @@ Pub. L. 97–253, title I, §135, Sept. 8, 1982, 96 Stat. 772, authorized Secret
 
 #### Distribution of Commodities to Individuals in Cases of Hardship
 
-Pub. L. 106–78, title VII, §709, Oct. 22, 1999, 113 Stat. 1161, provided that: “Notwithstanding any other provision of this Act \[see Tables for classification\], commodities acquired by the Department in connection with Commodity Credit Corporation and section 32 \[this section\] price support operations may be used, as authorized by law (15 U.S.C. 714c and 7 U.S.C. 612c), to provide commodities to individuals in cases of hardship as determined by the Secretary of Agriculture.”
-
-Similar provisions were contained in the following prior appropriations acts:
+Pub. L. 106–78, title VII, §709, Oct. 22, 1999, 113 Stat. 1161, which provided that commodities acquired by the Department in connection with Commodity Credit Corporation and price support operations under this section could be used, as authorized by this section and section 714c of Title 15, Commerce and Trade, to provide commodities to individuals in cases of hardship as determined by the Secretary of Agriculture, was from the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriation Act, 2000, and was not repeated in subsequent appropriation acts. Similar provisions were contained in the following prior appropriations acts:
 
 Pub. L. 105–277, div. A, §101(a) \[title VII, §709\], Oct. 21, 1998, 112 Stat. 2681, 2681–26.
 
@@ -616,7 +614,7 @@ Pub. L. 93–86, §4, Aug. 10, 1973, 87 Stat. 249, as amended by Pub. L. 93–34
 
 “(a) Notwithstanding any other provision of law, the Secretary may, during fiscal years 1991 through 2002, purchase and distribute sufficient agricultural commodities with funds appropriated from the general fund of the Treasury to maintain the traditional level of assistance for food assistance programs as are authorized by law, including but not limited to distribution to institutions (including hospitals and facilities caring for needy infants and children), supplemental feeding programs serving women, infants, and children or elderly persons, or both, wherever located, disaster areas, summer camps for children, the United States Trust Territory of the Pacific Islands, and Indians, whenever a tribal organization requests distribution of federally donated foods pursuant to section 4(b) of the Food Stamp Act of 1977 \[section 2013(b) of this title\]. In providing for commodity distribution to Indians, the Secretary shall improve the variety and quantity of commodities supplied to Indians in order to provide them an opportunity to obtain a more nutritious diet.
 
-“(b) The Secretary may furnish commodities to summer camps for children in which the number of adults participating in camp activities as compared with the number of children 18 years of age and under so participating is not unreasonable in light of the nature of such camp and the characteristics of the children in attendance.”
+“(b) The Secretary may furnish commodities to summer camps for children in which the number of adultsparticipating in camp activities as compared with the number of children 18 years of age and under so participating is not unreasonable in light of the nature of such camp and the characteristics of the children in attendance.”
 
 “(c) Whoever embezzles, willfully misapplies, steals or obtains by fraud any agricultural commodity or its products (or any funds, assets, or property deriving from donation of such commodities) provided under this section, or under section 416 of the Agricultural Act of 1949 (7 U.S.C. 1431), section 32 of the Act of August 24, 1935 (7 U.S.C. 612c), section 709 of the Food and Agriculture Act of 1965 (7 U.S.C. 1446a–1), or the Emergency Food Assistance Act of 1983 \[7 U.S.C. 7501 et seq.\], whether received directly or indirectly from the United States Department of Agriculture, or whoever receives, conceals, or retains such commodities, products, funds, assets, or property for personal use or gain, knowing such commodities, products, funds, assets, or property have been embezzled, willfully misapplied, stolen, or obtained by fraud shall, if such commodities, products, funds, assets, or property are of a value of $100 or more, be fined not more than $10,000 or imprisoned not more than five years, or both, or if such commodities, products, funds, assets, or property are of value of less than $100, shall be fined not more than $1,000 or imprisoned for not more than one year, or both.”
 
@@ -700,7 +698,7 @@ Use of funds appropriated under this section for implementing section 1753 of Ti
 
 #### Transfer of Funds to Schools in Need of Additional Assistance in School Breakfast Program
 
-Authorization for transfer of funds under this section to assist schools in need of additional funds in schoolbreakfast program, see note set out under section 1773 of Title 42, The Public Health and Welfare.
+Authorization for transfer of funds under this section to assist schools in need of additional funds in school breakfast program, see note set out under section 1773 of Title 42, The Public Health and Welfare.
 
 #### Additional Funds for Food Service Programs for Children; Apportionment to States; Special Assistance; Consultation With Child Nutrition Council; Reimbursement From Supplemental Appropriation
 
@@ -712,7 +710,7 @@ Act Aug. 9, 1955, ch. 671, 69 Stat. 608, authorized the Secretary of Agriculture
 
 #### Eligibility of Supplemental Security Income Recipients for Food Stamps During the Period Ending September 30, 1978
 
-Pub. L. 93–233, §8(b)(3), Dec. 31, 1973, 87 Stat. 956, as amended by Pub. L. 93–335, §1(b), July 8, 1974, 88 Stat. 291; Pub. L. 94–44, §3(b), June 28, 1975, 89 Stat. 235; Pub. L. 94–365, §2(2), July 14, 1976, 90 Stat. 990; Pub. L. 95–59, §3(2), June 30, 1977, 91 Stat. 255, provided that: “For the period ending September 30, 1978, no individual, who receives supplemental security income benefits under title XVI of the Social Security Act \[section 1381 et seq. of Title 42, The Public Health and Welfare\], State supplementary payments described in section 1616 of such Act \[section 1382e of Title 42\], or payments of the type referred to in section 212(a) of Public Law 93–66 \[set out as a note under section 1382 of Title 42\], shall be considered to be a member of a household for any purpose of the food distribution program for families under section 32 of Public Law 74–320 \[this section\], section 416 of the Agricultural Act of 1949 \[section 1431 of this title\], or any other law, for any month during such period, if, for such month, such individual resides in a State which provides State supplementary payments (A) of the type described in section 1616(a) of the Social Security Act \[section 1382e(a) of Title 42\], and (B) the level of which has been found by the Secretary of Health, Education, and Welfare to have been specifically increased so as to include the bonus value of food stamps.”
+Pub. L. 93–233, §8(b)(3), Dec. 31, 1973, 87 Stat. 956, as amended by Pub. L. 93–335, §1(b), July 8, 1974, 88 Stat. 291; Pub. L. 94–44, §3(b), June 28, 1975, 89 Stat. 235; Pub. L. 94–365, §2(2), July 14, 1976, 90 Stat. 990; Pub. L. 95–59,§3(2), June 30, 1977, 91 Stat. 255, provided that: “For the period ending September 30, 1978, no individual, who receives supplemental security income benefits under title XVI of the Social Security Act \[section 1381 et seq. of Title 42, The Public Health and Welfare\], State supplementary payments described in section 1616 of such Act \[section 1382e of Title 42\], or payments of the type referred to in section 212(a) of Public Law 93–66 \[set out as a note under section 1382 of Title 42\], shall be considered to be a member of a household for any purpose of the food distribution program for families under section 32 of Public Law 74–320 \[this section\], section 416 of the Agricultural Act of 1949 \[section 1431 of this title\], or any other law, for any month during such period, if, for such month, such individual resides in a State which provides State supplementary payments (A) of the type described in section 1616(a) of the Social Security Act \[section 1382e(a) of Title 42\], and (B) the level of which has been found by the Secretary of Health, Education, and Welfare to have been specifically increased so as to include the bonus value of food stamps.”
 
 \[Amendment by Pub. L. 93–335 effective July 1, 1974, see section 1(c) of Pub. L. 93–335, set out as an Effective Date of 1974 Amendment note under section 1382 of Title 42. Section 3 of Pub. L. 95–59 provided in part that the amendment of section 8 of Pub. L. 93–233 by section 3(2) of Pub. L. 95–59 is effective July 1, 1977.\]
 
@@ -731,16 +729,6 @@ Use of funds made available under this section for distribution of surplus fishe
 #### Home Economics Training
 
 Authorization of schools to use surplus foods received under this section to train students in home economics, see note set out under section 1431 of this title.
-
-#### Cross References
-
-Secretary of Agriculture not precluded from carrying on programs under this section by International Wheat Agreement Act of 1949, see section 1641 of this title.
-
-Supplemental appropriations to encourage exportation and domestic consumption of agricultural products, see section 1855 of this title.
-
-Transfer of funds to Federal Surplus Commodities Corporation to effectuate clause (2) of this section, see section 713c of Title 15, Commerce and Trade.
-
-Utilization of services and facilities of Commodity Credit Corporation in carrying out program under this section, see section 1424 of this title.
 
 #### Section Referred to in Other Sections
 

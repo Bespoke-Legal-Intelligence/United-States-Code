@@ -18,20 +18,6 @@ Said section 385 conferred two powers. The first part authorizing courts of the 
 
 Changes in phraseology and arrangement were made.
 
-#### Federal Rules of Criminal Procedure
-
-Prosecution of criminal contempt by summary disposition or notice and hearing, see rule 42, Appendix to this title.
-
-Statutory provisions defining criminal contempts, see Notes of Advisory Committee on Rules, rule 42.
-
-#### Cross References
-
-Foreign witnesses, see section 1784 of Title 28, Judiciary and Judicial Procedure.
-
-Garnishee, failure to appear at term for which summoned, as contempt, see section 2405 of Title 28.
-
-Obstruction of justice, see section 1501 et seq. of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 3148 of this title.

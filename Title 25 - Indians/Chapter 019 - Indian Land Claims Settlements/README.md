@@ -395,6 +395,65 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER XI—SANTO DOMINGO PUEBLO LAND CLAIMS SETTLEMENT
+
+|  |  |
+| :--- | ---: |
+| [1777\.](Subchapter%20011%20%28XI%29%20-%20Santo%20Domingo%20Pueblo%20Land%20Claims%20Settlement/%C2%A7%2001777%20-%20Findings%20and%20purposes.md) | Findings and purposes. |
+| (a) | Findings. |
+| (b) | Purpose. |
+| (c) | Rule of construction. |
+| [1777a.](Subchapter%20011%20%28XI%29%20-%20Santo%20Domingo%20Pueblo%20Land%20Claims%20Settlement/%C2%A7%2001777a%20-%20Definitions.md) | Definitions. |
+| [1777b.](Subchapter%20011%20%28XI%29%20-%20Santo%20Domingo%20Pueblo%20Land%20Claims%20Settlement/%C2%A7%2001777b%20-%20Ratification%20of%20Settlement%20Agreement.md) | Ratification of Settlement Agreement. |
+| [1777c.](Subchapter%20011%20%28XI%29%20-%20Santo%20Domingo%20Pueblo%20Land%20Claims%20Settlement/%C2%A7%2001777c%20-%20Resolution%20of%20disputes%20and%20claims.md) | Resolution of disputes and claims. |
+| (a) | Relinquishment, extinguishment, and compromise of Santo Domingo claims. |
+| (b) | Trust funds; authorization of appropriations. |
+| (c) | Activities upon compromise. |
+| [1777d.](Subchapter%20011%20%28XI%29%20-%20Santo%20Domingo%20Pueblo%20Land%20Claims%20Settlement/%C2%A7%2001777d%20-%20Affirmation%20of%20accurate%20boundaries%20of%20Santo%20Domingo%20Pueblo%20Grant.md) | Affirmation of accurate boundaries of Santo Domingo Pueblo Grant. |
+| (a) | In general. |
+| (b) | Limitation. |
+| (c) | Acquisition of Federal lands. |
+| (d) | Land subject to provisions. |
+| (e) | Rule of construction. |
+| [1777e.](Subchapter%20011%20%28XI%29%20-%20Santo%20Domingo%20Pueblo%20Land%20Claims%20Settlement/%C2%A7%2001777e%20-%20Miscellaneous%20provisions.md) | Miscellaneous provisions. |
+| (a) | Exchange of certain lands with New Mexico. |
+| (b) | Other exchanges of land. |
+| (c) | Approval of certain resolutions. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER XII—TORRES-MARTINEZ DESERT CAHUILLA INDIANS CLAIMS SETTLEMENT
+
+|  |  |
+| :--- | ---: |
+| [1778\.](Subchapter%20012%20%28XII%29%20-%20Torres-Martinez%20Desert%20Cahuilla%20Indians%20Claims%20Settlement/%C2%A7%2001778%20-%20Congressional%20findings%20and%20purpose.md) | Congressional findings and purpose. |
+| (a) | Findings. |
+| (b) | Purpose. |
+| [1778a.](Subchapter%20012%20%28XII%29%20-%20Torres-Martinez%20Desert%20Cahuilla%20Indians%20Claims%20Settlement/%C2%A7%2001778a%20-%20Definitions.md) | Definitions. |
+| [1778b.](Subchapter%20012%20%28XII%29%20-%20Torres-Martinez%20Desert%20Cahuilla%20Indians%20Claims%20Settlement/%C2%A7%2001778b%20-%20Ratification%20of%20Settlement%20Agreement.md) | Ratification of Settlement Agreement. |
+| [1778c.](Subchapter%20012%20%28XII%29%20-%20Torres-Martinez%20Desert%20Cahuilla%20Indians%20Claims%20Settlement/%C2%A7%2001778c%20-%20Settlement%20funds.md) | Settlement funds. |
+| (a) | Establishment of tribal and allottees settlement trust funds accounts. |
+| (b) | Contributions to the settlement trust funds. |
+| (c) | Administration of settlement trust funds. |
+| [1778d.](Subchapter%20012%20%28XII%29%20-%20Torres-Martinez%20Desert%20Cahuilla%20Indians%20Claims%20Settlement/%C2%A7%2001778d%20-%20Trust%20land%20acquisition%20and%20status.md) | Trust land acquisition and status. |
+| (a) | Acquisition and placement of lands into trust. |
+| (b) | Restrictions on gaming. |
+| (c) | Water rights. |
+| [1778e.](Subchapter%20012%20%28XII%29%20-%20Torres-Martinez%20Desert%20Cahuilla%20Indians%20Claims%20Settlement/%C2%A7%2001778e%20-%20Permanent%20flowage%20easements.md) | Permanent flowage easements. |
+| (a) | Conveyance of easement to Coachella Valley Water District. |
+| (b) | Conveyance of easement to Imperial Irrigation District. |
+| [1778f.](Subchapter%20012%20%28XII%29%20-%20Torres-Martinez%20Desert%20Cahuilla%20Indians%20Claims%20Settlement/%C2%A7%2001778f%20-%20Satisfaction%20of%20claims%2C%20waivers%2C%20and%20releases.md) | Satisfaction of claims, waivers, and releases. |
+| (a) | Satisfaction of claims. |
+| (b) | Approval of waivers and releases. |
+| [1778g.](Subchapter%20012%20%28XII%29%20-%20Torres-Martinez%20Desert%20Cahuilla%20Indians%20Claims%20Settlement/%C2%A7%2001778g%20-%20Miscellaneous%20provisions.md) | Miscellaneous provisions. |
+| (a) | Eligibility for benefits. |
+| (b) | Eligibility for other services not affected. |
+| (c) | Preservation of existing rights. |
+| (d) | Amendment of Settlement Agreement. |
+| [1778h.](Subchapter%20012%20%28XII%29%20-%20Torres-Martinez%20Desert%20Cahuilla%20Indians%20Claims%20Settlement/%C2%A7%2001778h%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 ---
 
@@ -410,3 +469,5 @@
 - [Subchapter 008 (VIII) - Seneca Nation (New York) Land Claims Settlement](Subchapter%20008%20%28VIII%29%20-%20Seneca%20Nation%20%28New%20York%29%20Land%20Claims%20Settlement/README.md)
 - [Subchapter 009 (IX) - Mohegan Nation (Connecticut) Land Claims Settlement](Subchapter%20009%20%28IX%29%20-%20Mohegan%20Nation%20%28Connecticut%29%20Land%20Claims%20Settlement/README.md)
 - [Subchapter 010 (X) - Crow Land Claims Settlement](Subchapter%20010%20%28X%29%20-%20Crow%20Land%20Claims%20Settlement/README.md)
+- [Subchapter 011 (XI) - Santo Domingo Pueblo Land Claims Settlement](Subchapter%20011%20%28XI%29%20-%20Santo%20Domingo%20Pueblo%20Land%20Claims%20Settlement/README.md)
+- [Subchapter 012 (XII) - Torres-Martinez Desert Cahuilla Indians Claims Settlement](Subchapter%20012%20%28XII%29%20-%20Torres-Martinez%20Desert%20Cahuilla%20Indians%20Claims%20Settlement/README.md)

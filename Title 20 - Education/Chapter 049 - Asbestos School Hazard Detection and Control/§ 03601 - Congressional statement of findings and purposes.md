@@ -42,7 +42,7 @@ Section 1221 of this title, referred to in subsec. (b)(2), was amended generally
 
 #### Short Title
 
-Section 1 of Pub. L. 96–270 provided that: “This Act \[enacting this chapter and amending section 1411 ofthis title\] may be cited as the ‘Asbestos School Hazard Detection and Control Act of 1980’.”
+Section 1 of Pub. L. 96–270 provided that: “This Act \[enacting this chapter and amending section 1411 of this title\] may be cited as the ‘Asbestos School Hazard Detection and Control Act of 1980’.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -4,7 +4,3 @@ Whenever, in any law or treaty or in any patent issued to Indian allottees for l
 
 (Sept. 21, 1922, ch. 367, §6, 42 Stat. 995.)
 
-#### Cross References
-
-Certain lands not to be allotted in severalty to any Indian, see section 461 of this title.
-

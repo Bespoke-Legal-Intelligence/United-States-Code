@@ -16,7 +16,7 @@ In meeting the responsibilities under subsection (a) of this section, the Secret
 
 #### (c) Establishment of project reservoirs; restrictions and requirements of new programs
 
-(1) To the extent that individuals aged sixteen and over and able, willing, and seeking to work are not and in the judgment of the President cannot be provided with private job opportunities or job opportunities under other programs and actions in existence, in accord with the goals and timetables set forth in the Employment Act of 1946 \[15 U.S.C. 1021 et seq.\], the President shall, as may be authorized by law, establish reservoirs of public employment and private nonprofit employment projects, to be approved by the Secretary of Labor, through expansion of activities carried out under the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\] or title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\] and other existing employment and training projects or through such new programs as are determined necessary by the President or through both such projects and such programs.
+(1) To the extent that individuals aged sixteen and over and able, willing, and seeking to work are not and in the judgment of the President cannot be provided with private job opportunities or job opportunities under other programs and actions in existence, in accord with the goals and timetables set forth in the Employment Act of 1946 \[15 U.S.C. 1021 et seq.\], the President shall, as may be authorized by law, establish reservoirs of public employment and private nonprofit employment projects, to be approved by the Secretary of Labor, through expansion of title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\] and other existing employment and training projects or through such new programs as are determined necessary by the President or through both such projects and such programs.
 
 (2) New programs as may be authorized by law after October 27, 1978, referred to in paragraph (c)(1)—
 
@@ -46,31 +46,27 @@ The Secretary, in carrying out the provisions of this section, shall establish r
 
 (Pub. L. 95–523, title II, §206, Oct. 27, 1978, 92 Stat. 1902; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(12)(A), (f)(10)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–420, 2681–431.)
 
-#### Amendment of Section
-
-<i>Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(f)(10), (g)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–431, 2681–435, provided that, effective July 1, 2000, this section is amended as follows:</i>
-
-<i>(1) in subsection (b), in the matter preceding paragraph (1), by striking “CETA” and insert</i><i>ing “the Job Training Partnership Act and”; and</i>
-
-<i>(2) in subsection (c)(1), by striking “activities carried out under the Job Training Partnership Act or”.</i>
-
 #### References in Text
 
 For definition of “this chapter”, referred to in subsecs. (a) and (d)(2), see References in Text note set out under section 3102 of this title.
 
 The Employment Act of 1946, referred to in subsecs. (a) and (c), is act Feb. 20, 1946, ch. 33, 60 Stat. 23, as amended, which is classified generally to chapter 21 (§1021 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1021 of this title and Tables.
 
-The Job Training Partnership Act, referred to in subsecs. (b) and (c)(1), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
+The Job Training Partnership Act, referred to in subsec. (b), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which was classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor, prior to repeal by Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. For complete classification of this Act to the Code, see Tables.
 
 The Workforce Investment Act of 1998, referred to in subsecs. (b) and (c)(1), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
 #### Amendments
 
-1998—Subsec. (b). Pub. L. 105–277, §101(f) \[title VIII, §405(d)(12)(A)(i)(I)\], substituted “the Job Training Partnership Act and title I of the Workforce Investment Act of 1998” for “CETA” in introductory provisions.
+1998—Subsec. (b). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(10)(A)\], which directed the amendment of subsec. (b) by substituting “the Job Training Partnership Act and” for “CETA” in introductory provisions, could not be executed because “CETA” did not appear in introductory provisions subsequent to amendment by Pub. L. 105–277, §101(f) \[title VIII, §405(d)(12)(A)(i)(I)\]. See below.
+
+Pub. L. 105–277, §101(f) \[title VIII, §405(d)(12)(A)(i)(I)\], substituted “the Job Training Partnership Act and title I of the Workforce Investment Act of 1998” for “CETA” in introductory provisions.
 
 Subsec. (b)(1). Pub. L. 105–277, §101(f) \[title VIII, §405(d)(12)(A)(i)(II)\], struck out “(including use of section 110 of CETA when necessary)” before semicolon at end.
 
-Subsec. (c)(1). Pub. L. 105–277, §101(f) \[title VIII, §405(d)(12)(A)(ii)\], substituted “activities carried out under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998” for “CETA”.
+Subsec. (c)(1). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(10)(B)\], struck out “activities carried out under the Job Training Partnership Act or” before “title I of the Workforce Investment Act of 1998”.
+
+Pub. L. 105–277, §101(f) \[title VIII, §405(d)(12)(A)(ii)\], substituted “activities carried out under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998” for “CETA”.
 
 #### Effective Date of 1998 Amendment
 

@@ -1,6 +1,6 @@
 ### §1926. Water and waste facility loans and grants
 
-#### (a) Criteria; definitions; limitation on allowable uses of Federal funds; inclusion of interest or other income in gross income on sale of insured loan
+#### (a) In general
 
 (1) The Secretary is also authorized to make or insure loans to associations, including corporations not operated for profit, Indian tribes on Federal and State reservations and other federally recognized Indian tribes, and public and quasi-public agencies to provide for the application or establishment of soil conservation practices, shifts in land use, the conservation, development, use, and control of water, and the installation or improvement of drainage or waste disposal facilities, recreational developments, and essential community facilities including necessary related equipment, all primarily serving farmers, ranchers, farm tenants, farm laborers, rural businesses, and other rural residents, and to furnish financial assistance or other aid in planning projects for such purposes. The Secretary may also make loans to any borrower to whom a loan has been made under the Rural Electrification Act of 1936 (7 U.S.C. 901 et seq.), for the conservation, development, use, and control of water, and the installation of drainage or waste disposal facilities, primarily serving farmers, ranchers, farm tenants, farm laborers, rural businesses, and other rural residents. When any loan made for a purpose specified in this paragraph is sold out of the Agricultural Credit Insurance Fund as an insured loan, the interest or other income thereon paid to an insured holder shall be included in gross income for purposes of chapter 1 of title 26. With respect to loans of less than $500,000 made or insured under this paragraph that are evidenced by notes and mortgages, as distinguished from bond issues, borrowers shall not be required to appoint bond counsel to review the legal validity of the loan whenever the Secretary has available legal counsel to perform such review.
 
@@ -72,7 +72,7 @@ Authorization of appropriations.—There are authorized to be appropriated to ca
 
 (C) The Secretary shall obtain from all other Federal departments and agencies comprehensive, relevant, and applicable information on programs under their jurisdiction that are operated in rural areas.
 
-(D) Of the sums authorized to be appropriated to carry out the provisions of this chapter, not more than $1,000,000 per year may be expended to carry out the provisions of this paragraph.
+(D) Of the sums authorized to be appropriated to carry out the provisions of this chapter, notmore than $1,000,000 per year may be expended to carry out the provisions of this paragraph.
 
 (13) In the making of loans and grants for community waste disposal and water facilities under paragraphs (1) and (2) of this subsection the Secretary shall accord highest priority to the application of any municipality or other public agency (including an Indian tribe on a Federal or State reservation or other federally recognized Indian tribal group) in a rural community having a population not in excess of five thousand five hundred and which, in the case of water facility loans, has a community water supply system, where the Secretary determines that due to unanticipated diminution or deterioration of its water supply, immediate action is needed, or in the case of waste disposal, has a community waste disposal system, where the Secretary determines that due to unanticipated occurrences the system is not adequate to the needs of the community. The Secretary shall utilize the Soil Conservation Service in rendering technical assistance to applicants under this paragraph to the extent he deems appropriate.
 
@@ -114,7 +114,7 @@ Community facilities grant program.—
 
 &emsp;(A)
 
-In general.—The Secretary may make grants, in a total amount not to exceed $10,000,000 for any fiscal year, to associations, units of general local government, nonprofit corporations, and federally recognized Indian tribes to provide the Federal share of the costof developing specific essential community facilities in rural areas.
+In general.—The Secretary may make grants, in a total amount not to exceed $10,000,000 for any fiscal year, to associations, units of general local government, nonprofit corporations, Indian tribes (as such term is defined under section 450b(e) of title 25),<sup>1</sup> and federally recognized Indian tribes to provide the Federal share of the cost of developing specific essential community facilities in rural areas.
 
 &emsp;(B)
 
@@ -132,6 +132,58 @@ Maximum amount.—The amount of a grant provided under this paragraph for a faci
 
 Graduated scale.—The Secretary shall provide for a graduated scale for the amount of the Federal share provided under this paragraph, with higher Federal shares for facilities in communities that have lower community population and income levels, as determined by the Secretary.
 
+(20)
+
+Community facilities grant program for rural communities with extreme unemployment and severe economic depression.—
+
+&emsp;(A)
+
+Definition of not employed rate.—In this paragraph, the term “not employed rate”, with respect to a community, means the percentage of individuals over the age of 18 who reside within the community and who are ready, willing, and able to be employed but are unable to find employment, as determined by the department of labor of the State in which the community is located.
+
+&emsp;(B)
+
+Grant authority.—The Secretary may make grants to associations, units of general local government, nonprofit corporations, andIndian tribes (as defined in section 450b of title 25) in a State to provide the Federal share of the cost of developing specific essential community facilities in rural communities with respect to which the not employed rate is greater than the lesser of—
+
+&emsp;&emsp;(i) 500 percent of the average national unemployment rate on November 9, 2000, as determined by the Bureau of Labor Statistics; or
+
+&emsp;&emsp;(ii) 200 percent of the average national unemployment rate during the Great Depression, as determined by the Bureau of Labor Statistics.
+
+&emsp;(C)
+
+Federal share.—Paragraph (19)(B) shall apply to a grant made under this paragraph.
+
+&emsp;(D)
+
+Authorization of appropriations.—There are authorized to be appropriated to carry out this paragraph $50,000,000 for fiscal year 2001 and such sums as are necessary for each subsequent fiscal year, of which not more than 5 percent of the amount made available for a fiscal year shall be available for community planning and implementation.
+
+(21)
+
+Community facilities grant program for rural communities with high levels of out-migration or loss of population.—
+
+&emsp;(A)
+
+Grant authority.—The Secretary may make grants to associations, units of general local government, nonprofit corporations, and Indian tribes (as defined in section 450b of title 25) in a State to provide the Federal share of the cost of developing specific essential community facilities in any geographic area—
+
+&emsp;&emsp;(i) that is represented by—
+
+&emsp;&emsp;&emsp;(I) any political subdivision of a State;
+
+&emsp;&emsp;&emsp;(II) an Indian tribe on a Federal or State reservation; or
+
+&emsp;&emsp;&emsp;(III) other federally recognized Indian tribal group;
+
+&emsp;&emsp;(ii) that is located in a rural area (as defined in section 2009 of this title);
+
+&emsp;&emsp;(iii) with respect to which, during the most recent 5-year period, the net out-migration of inhabitants, or other population loss, from the area equals or exceeds 5 percent of the population of the area; and
+
+&emsp;&emsp;(iv) that has a median household income that is less than the nonmetropolitan median household income of the United States.
+
+&emsp;(B)
+
+Federal share.—Paragraph (19)(B) shall apply to a grant made under this paragraph.
+
+&emsp;(C) Authorization of appropriations.—There are authorized to be appropriated to carry out this paragraph $50,000,000 for fiscal year 2001 and such sums as are necessary for each subsequent fiscal year, of which not more than 5 percent of the amount made available for a fiscal year shall be available for community planning and implementation.
+
 #### (b) Curtailment or limitation of service prohibited
 
 The service provided or made available through any such association shall not be curtailed or limited by inclusion of the area served by such association within the boundaries of any municipal corporation or other public body, or by the granting of any private franchise for similar service within such area during the term of such loan; nor shall the happening of any such event be the basis of requiring such association to secure any franchise, license, or permit as a condition to continuing to serve the area served by the association at the time of the occurrence of such event.
@@ -142,7 +194,7 @@ The service provided or made available through any such association shall not be
 
 Any amounts appropriated under this section shall remain available until expended, and any amounts authorized for any fiscal year under this section but not appropriated may be appropriated for any succeeding fiscal year.
 
-(Pub. L. 87–128, title III, §306, Aug. 8, 1961, 75 Stat. 308; Pub. L. 87–703, title IV, §401(2), Sept. 27, 1962, 76 Stat. 632; Pub. L. 89–240, §1, Oct. 7, 1965, 79 Stat. 931; Pub. L. 89–769, §6(b), Nov. 6, 1966, 80 Stat. 1318; Pub. L. 90–488, §§3–5, Aug. 15, 1968, 82 Stat. 770; Pub. L. 91–524, title VIII, §806(a), Nov. 30, 1970, 84 Stat. 1383; Pub. L. 91–606, title III, §302(2), Dec. 31, 1970, 84 Stat. 1759; Pub. L. 91–617, §1(a), Dec. 31, 1970, 84 Stat. 1855; Pub. L. 92–419, title I, §§104–112, Aug. 30, 1972, 86 Stat. 658, 659; Pub. L. 91–524, title VIII, §816(c), as added Pub. L. 93–86, §1(27)(B), Aug. 10, 1973, 87 Stat. 240; Pub. L. 95–334, title I, §§104–107(a), Aug. 4, 1978, 92 Stat. 421, 422; Pub. L. 96–355, §7, Sept. 24, 1980, 94 Stat. 1174; Pub. L. 96–438, §2(1), Oct. 13, 1980, 94 Stat. 1871; Pub. L. 97–35, title I, §121, Aug. 13, 1981, 95 Stat. 368; Pub. L. 99–198, title XIII, §1304(a), Dec. 23, 1985, 99 Stat. 1519; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 101–624, title XXIII, §§2316(b), 2321, 2328, 2329, 2341, 2342, 2393, Nov. 28, 1990, 104 Stat. 4008, 4010, 4017, 4026, 4027, 4057; Pub. L. 102–237, title VII, §701(a), (h)(1)(A), (B), Dec. 13, 1991, 105 Stat. 1879, 1880; Pub. L. 103–129, §3, Nov. 1, 1993, 107 Stat. 1366; Pub. L. 103–354, title II, §235(b)(5), Oct. 13, 1994, 108 Stat. 3222; Pub. L. 104–127, title VII, §§741(a), 758, 763, Apr. 4, 1996, 110 Stat. 1122, 1132, 1148.)
+(Pub. L. 87–128, title III, §306, Aug. 8, 1961, 75 Stat. 308; Pub. L. 87–703, title IV, §401(2), Sept. 27, 1962, 76 Stat. 632; Pub. L. 89–240, §1, Oct. 7, 1965, 79 Stat. 931; Pub. L. 89–769, §6(b), Nov. 6, 1966, 80 Stat. 1318; Pub. L. 90–488, §§3–5, Aug. 15, 1968, 82 Stat. 770; Pub. L. 91–524, title VIII, §806(a), Nov. 30, 1970, 84 Stat. 1383; Pub. L. 91–606, title III, §302(2), Dec. 31, 1970, 84 Stat. 1759; Pub. L. 91–617, §1(a), Dec. 31, 1970, 84 Stat. 1855; Pub. L. 92–419, title I, §§104–112, Aug. 30, 1972, 86 Stat. 658, 659; Pub. L. 91–524, title VIII, §816(c), as added Pub. L. 93–86, §1(27)(B), Aug. 10, 1973, 87 Stat. 240; Pub. L. 95–334, title I, §§104–107(a), Aug. 4, 1978, 92 Stat. 421, 422; Pub. L. 96–355, §7, Sept. 24, 1980, 94 Stat. 1174; Pub. L. 96–438, §2(1), Oct. 13, 1980, 94 Stat. 1871; Pub. L. 97–35, title I, §121, Aug. 13, 1981, 95 Stat. 368; Pub. L. 99–198, title XIII, §1304(a), Dec. 23, 1985, 99 Stat. 1519; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 101–624, title XXIII, §§2316(b), 2321, 2328, 2329, 2341, 2342, 2393, Nov. 28, 1990, 104 Stat. 4008, 4010, 4017, 4026, 4027, 4057; Pub. L. 102–237, title VII, §701(a), (h)(1)(A), (B), Dec. 13, 1991, 105 Stat. 1879, 1880; Pub. L. 103–129, §3, Nov. 1, 1993, 107 Stat. 1366; Pub. L. 103–354, title II, §235(b)(5), Oct. 13, 1994, 108 Stat. 3222; Pub. L. 104–127, title VII, §§741(a), 758, 763, Apr. 4, 1996, 110 Stat. 1122, 1132, 1148; Pub. L. 106–387, §1(a) \[title VII, §773\], Oct. 28, 2000, 114 Stat. 1549, 1549A–45; Pub. L. 106–472, title III, §§304(a), 305(a), Nov. 9, 2000, 114 Stat. 2070, 2071.)
 
 #### References in Text
 
@@ -157,6 +209,12 @@ Act of August 30, 1890 (26 Stat. 417–419, as amended; 7 U.S.C. 321–326 and 3
 For definition of “this chapter”, referred to in subsec. (a)(12)(D), (18), see note set out under section 1921 of this title.
 
 #### Amendments
+
+2000—Subsec. (a)(19)(A). Pub. L. 106–387, which directed amendment of section 306(a)(19)(A) of the Consolidated Farmers Home Administration Act of 1961 by inserting “, Indian tribes (as such term is defined under section 450b(e) of title 25),” after “nonprofit corporations”, was executed to this section, which is section 306(a)(19)(A) of the Consolidated Farm and Rural Development Act, to reflect the probable intent of Congress.
+
+Subsec. (a)(20). Pub. L. 106–472, §304(a), added par. (20).
+
+Subsec. (a)(21). Pub. L. 106–472, §305(a), added par. (21).
 
 1996—Subsec. (a)(2). Pub. L. 104–127, §741(a)(1), substituted “$590,000,000” for “$500,000,000”.
 
@@ -224,7 +282,7 @@ Subsec. (a)(16) to (19). Pub. L. 99–198 added pars. (16) to (19).
 
 1980—Subsec. (a)(7). Pub. L. 96–438 provided that for the purpose of loans for essential community facilities under subsection (a)(1) of this section, terms “rural” and “rural area” may include any area in any city or town with a population not in excess of twenty thousand.
 
-Subsec. (a)(11) to (15). Pub. L. 96–355 in par. (11) substituted provisions authorizing annual grants not to exceed $15,000,000 for rural development technical assistance, rural community leadership development, etc., for provisions authorizing annual grants not to exceed $10,000,000 for preparation of comprehensive plans for rural development or designated aspects of suchrural development, added par. (12), and redesignated former pars. (12) to (14) as (13) to (15), respectively.
+Subsec. (a)(11) to (15). Pub. L. 96–355 in par. (11) substituted provisions authorizing annual grants not to exceed $15,000,000 for rural development technical assistance, rural community leadership development, etc., for provisions authorizing annual grants not to exceed $10,000,000 for preparation of comprehensive plans for rural development or designated aspects of such rural development, added par. (12), and redesignated former pars. (12) to (14) as (13) to (15), respectively.
 
 1978—Subsec. (a)(1). Pub. L. 95–334, §104, inserted provisions respecting bond counsel requirements for loans under $500,000.
 
@@ -288,7 +346,23 @@ Amendment by Pub. L. 89–769 applicable with respect to any major disaster occu
 
 #### Transfer of Functions
 
-Powers, duties, and assets of agencies, offices, and other entities within Department of Agriculture relating to rural development functions transferred to RuralDevelopment Administration by section 2302(b) of Pub. L. 101–624.
+Powers, duties, and assets of agencies, offices, and other entities within Department of Agriculture relating to rural development functions transferred to Rural Development Administration by section 2302(b) of Pub. L. 101–624.
+
+#### Assistance in Rural Alaska
+
+Pub. L. 106–387, §1(a) \[title VII, §736\], Oct. 28, 2000, 114 Stat. 1549, 1549A–33, provided that:“Notwithstanding any other provision of law, for any fiscal year, in the case of a high cost, isolated rural area of the State of Alaska that is not connected to a road system—
+
+&emsp;“(1) in the case of assistance provided by the Rural Housing Service for single family housing under title V of the Housing Act of 1949 (7 \[42\] U.S.C. 1471 et seq.), the maximum income level for the assistance shall be 150 percent of the average income level in metropolitan areas of the State;
+
+&emsp;“(2) in the case of community facility loans and grants provided under paragraphs (1) and (19), respectively, of section 306(a) of the Consolidated Farm and Rural Development Act (7 U.S.C. 1926(a)) and assistance provided under programs carried out by the Rural Utilities Service, the maximum income level for the loans, grants, and assistance shall be 150 percent of the average income level in nonmetropolitan areas of the State;
+
+&emsp;“(3) in the case of a business and industry guaranteed loan made under section 310B(a)(1) of the Consolidated Farm and Rural Development Act (7 U.S.C. 1932(a)(1)), to the extent permitted under that Act, the Secretary of Agriculture shall—
+
+&emsp;&emsp;“(A) guarantee the repayment of 90 percent of the principal and interest due on the loan; and
+
+&emsp;&emsp;“(B) charge a loan origination and servicing fee in an amount not to exceed 1 percent of the amount of the loan; and
+
+&emsp;“(4) in the case of assistance provided under the Rural Community Development Initiative for fiscal year 2001 carried out under the rural community advancement program established under subtitle E of the Consolidated Farm and Rural Development Act (7 U.S.C. 2009 et seq.), the median household income level, and the not employed rate, with respect to applicants for assistance under the Initiative shall be scored on a community-by-community basis.”
 
 #### Temporary Expanded Eligibility of Certain Timber-Dependent Communities in Pacific Northwest for Loans and Grants From Rural Development Administration
 
@@ -322,7 +396,7 @@ Section 2324 of Pub. L. 101–624 directed Secretary to establish national rural
 
 #### Interest Rate Restructuring for Certain Borrowers
 
-Pub. L. 100–233, title VI, §615(b)(2), Jan. 6, 1988, 101 Stat. 1682, provided that: “Effective July 29, 1987, the interest rate charged on any loan of $2,000,000 or more made on such date under section 306 \[7 U.S.C. 1926\] to any nonprofit corporation shall be the interest rate quoted to such nonprofit corporation by the Farmers Home Administration on June 22, 1987, in the request for obligation of funds made with respect to the loan.”
+Pub. L. 100–233, title VI, §615(b)(2), Jan. 6, 1988, 101 Stat. 1682, provided that: “Effective July 29, 1987, theinterest rate charged on any loan of $2,000,000 or more made on such date under section 306 \[7 U.S.C. 1926\] to any nonprofit corporation shall be the interest rate quoted to such nonprofit corporation by the Farmers Home Administration on June 22, 1987, in the request for obligation of funds made with respect to the loan.”
 
 #### Lease of Certain Acquired Property
 
@@ -331,4 +405,6 @@ Pub. L. 100–233, title VI, §620, Jan. 6, 1988, 101 Stat. 1684, provided that:
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 917, 1927, 1929, 1929a, 1983, 1983a, 1992, 2001a, 2009, 2009d, 2204b, 2204b–1, 6613, 6942, 6944 of this title; title 16 section 2106; title 42 section 5153.
+
+<i><sup>1</sup></i><i> So in original.</i>
 

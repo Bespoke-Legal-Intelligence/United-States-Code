@@ -138,7 +138,7 @@ Pub. L. 104–88, title IV, §408, Dec. 29, 1995, 109 Stat. 958, provided that:
 
 “(a)
 
-Advance Notice.—The Federal Highway Administration shall issue an advance notice of proposed rulemaking dealing with a variety of fatigue-related issues pertaining to commercial motor vehicle motor vehicle safety (including 8 hours of continuous sleep after 10 hours of driving, loading and unloading operations, automated and tamper-proof recording devices, rest and recovery cycles, fatigue and stress in longer combination vehicles, fitness for duty, and other appropriate regulatory and enforcement countermeasures for reducing fatigue-related incidents and increasing driver alertness) not later than March 1, 1996.
+Advance Notice.—The Federal Highway Administration shall issue an advance notice of proposed rulemaking dealing with a variety of fatigue-related issues pertaining to commercial motor vehicle motor vehicle safety (including 8 hours of continuous sleep after 10hours of driving, loading and unloading operations, automated and tamper-proof recording devices, rest and recovery cycles, fatigue and stress in longer combination vehicles, fitness for duty, and other appropriate regulatory and enforcement countermeasures for reducing fatigue-related incidents and increasing driver alertness) not later than March 1, 1996.
 
 “(b)
 
@@ -228,7 +228,7 @@ Pub. L. 104–59, title III, §346, Nov. 28, 1995, 109 Stat. 615, as amended by 
 
 “(a)
 
-In General.—After notice and opportunity for comment, the Secretary shall develop and implement a pilot program for the purpose of evaluating waivers of the regulations issued by the Secretary pursuant to sections 31136 and 31502 of title 49, United States Code,relating to maximum on-duty time, and sections 31102 and 31104(j) of such title, relating to the Motor Carrier Safety Assistance Program, to permit any period of 7 or 8 consecutive days to end with the beginning of an off-duty period of 24 or more consecutive hours for the purposes of determining maximum on-duty time for drivers of motor vehicles making intrastate home heating oil deliveries that occur within 100 air miles of a central terminal or distribution point of the delivery of such oil. The Secretary may approve up to 5 States to participate in the pilot program during the winter heating season in the 6-month period beginning on November 1, 1996.
+In General.—After notice and opportunity for comment, the Secretary shall develop and implement a pilot program for the purpose of evaluating waivers of the regulations issued by the Secretary pursuant to sections 31136 and 31502 of title 49, United States Code, relating to maximum on-duty time, and sections 31102 and 31104(j) of such title, relating to the Motor Carrier Safety Assistance Program, to permit any period of 7 or 8 consecutive days to end with the beginning of an off-duty period of 24 or more consecutive hours for the purposes of determining maximum on-duty time for drivers of motor vehicles making intrastate home heating oil deliveries that occur within 100 air miles of a central terminal or distribution point of the delivery of such oil. The Secretary may approve up to 5 States to participate in the pilot program during the winter heating season in the 6-month period beginning on November 1, 1996.
 
 “(b)
 

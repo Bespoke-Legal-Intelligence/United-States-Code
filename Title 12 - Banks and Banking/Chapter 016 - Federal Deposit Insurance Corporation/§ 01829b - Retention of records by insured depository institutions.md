@@ -2,7 +2,7 @@
 
 #### (a) Congressional findings and declaration of purpose
 
-(1) The Congress finds that adequate records maintained by insured depository institutions have a high degree of usefulness in criminal, tax, and regulatory investigations and proceedings. The Congress further finds that microfilm or other reproductions and other records made by banks <sup>1</sup> of checks, as well as records kept by banks <sup>1</sup> of the identity of persons maintaining or authorized to act with respect to accountstherein, have been of particular value in this respect.
+(1) The Congress finds that adequate records maintained by insured depository institutions have a high degree of usefulness in criminal, tax, and regulatory investigations and proceedings. The Congress further finds that microfilm or other reproductions and other records made by banks <sup>1</sup> of checks, as well as records kept by banks <sup>1</sup> of the identity of persons maintaining or authorized to act with respect to accounts therein, have been of particular value in this respect.
 
 (2) It is the purpose of this section to require the maintenance of appropriate types of records by insured depository institutions in the United States where such records have a high degree of usefulness in criminal, tax, or regulatory investigations or proceedings.
 
@@ -54,7 +54,7 @@ Each insured depository institution shall make, to the extent that the regulatio
 
 #### (e) Identity of persons making reportable currency and foreign transactions
 
-Subject to the requirements of any regulations prescribed jointly by the Secretary and the Board under paragraph (2) or (3) of subsection (b) of this section, whenever any individual engages (whether as principal, agent, or bailee) in any transaction with an insured depository institution which is required to be reported or recorded under subchapter II of chapter 53 of title 31, the insured depository institution shall require and retain such evidence of the identity of that individual as the Secretary may prescribe as appropriate under the circumstances.
+Subject to the requirements of any regulations prescribed jointly by the Secretary andthe Board under paragraph (2) or (3) of subsection (b) of this section, whenever any individual engages (whether as principal, agent, or bailee) in any transaction with an insured depository institution which is required to be reported or recorded under subchapter II of chapter 53 of title 31, the insured depository institution shall require and retain such evidence of the identity of that individual as the Secretary may prescribe as appropriate under the circumstances.
 
 #### (f) Additions to or substitutes for required records
 
@@ -126,7 +126,7 @@ Willful violation of regulations under this section punishable by fine of not mo
 
 #### Administrative Procedure
 
-Administrative procedure and judicial review provisions of subchapter II (§551 et seq.) of chapter 5 and chapter 7 (§701 et seq.) of Title 5, Government Organization and Employees, applicable to all proceedings under this section, see section 1959 of this title.
+Administrative procedure and judicial review provisions of subchapter II (§551 et seq.) of chapter 5 andchapter 7 (§701 et seq.) of Title 5, Government Organization and Employees, applicable to all proceedings under this section, see section 1959 of this title.
 
 #### Responsibility for Compliance
 

@@ -2,7 +2,7 @@
 
 #### (a) Sugarcane
 
-The Secretary shall make loans available to processors of domestically grown sugarcane at a rate equal to 18 cents per pound for raw cane sugar.
+The Secretary shall make loans available to processors of domestically grown sugarcane at arate equal to 18 cents per pound for raw cane sugar.
 
 #### (b) Sugar beets
 
@@ -16,7 +16,7 @@ The Secretary shall make loans available to processors of domestically grown sug
 
 #### (2) Extent of reduction
 
-&emsp;The Secretary shall not reduce the loan rate under subsection (a) or (b) of this sectionbelow a rate that provides an equal measure of support to that provided by other major sugar growing, producing, and exporting countries, based on an examination of both domestic and export subsidies subject to reduction in the Agreement on Agriculture.
+&emsp;The Secretary shall not reduce the loan rate under subsection (a) or (b) of this section below a rate that provides an equal measure of support to that provided by other major sugar growing, producing, and exporting countries, based on an examination of both domestic and export subsidies subject to reduction in the Agreement on Agriculture.
 
 #### (3) Announcement of reduction
 
@@ -58,17 +58,13 @@ The Secretary shall make loans available to processors of domestically grown sug
 
 #### (e) Loan type; processor assurances
 
-#### (1) Recourse loans
+#### (1) Nonrecourse loans
 
-&emsp;Subject to paragraph (2), the Secretary shall carry out this section through the use of recourse loans.
+&emsp;The Secretary shall carry out this section through the use of nonrecourse loans.
 
-#### (2) Nonrecourse loans
+#### (2) Processor assurances
 
-&emsp;During any fiscal year in which the tariff rate quota for imports of sugar into the United States is established at, or is increased to, a level in excess of 1,500,000 short tons raw value, the Secretary shall carry out this section by making available nonrecourse loans. Any recourse loan previously made available by the Secretary under this section during the fiscal year shall be changed by the Secretary into a nonrecourse loan.
-
-#### (3) Processor assurances
-
-&emsp;If the Secretary is required under paragraph (2) to make nonrecourse loans available during a fiscal year or to change recourse loans into nonrecourse loans, the Secretary shall obtain from each processor that receives a loan under this section such assurances as the Secretary considers adequate to ensure that the processor will provide payments to producers that are proportional to the value of the loan received by the processor for sugar beets and sugarcane delivered by producers served by the processor. The Secretary may establish appropriate minimum payments for purposes of this paragraph.
+&emsp;The Secretary shall obtain from each processor that receives a loan under this section such assurances as the Secretary considers adequate to ensure that the processor will provide payments to producers that are proportional to the value of the loan received by the processor for sugar beets and sugarcane delivered by producers served by the processor. The Secretary may establish appropriate minimum payments for purposes of this paragraph.
 
 #### (f) Marketing assessment
 
@@ -146,5 +142,17 @@ The Secretary shall make loans available to processors of domestically grown sug
 
 This section (other than subsection (f) of this section) shall be effective only for the 1996 through 2002 crops of sugar beets and sugarcane.
 
-(Pub. L. 104–127, title I, §156, Apr. 4, 1996, 110 Stat. 931.)
+(Pub. L. 104–127, title I, §156, Apr. 4, 1996, 110 Stat. 931; Pub. L. 106–387, §1(a) \[title VIII, §836\], Oct. 28, 2000, 114 Stat. 1549, 1549A–62.)
+
+#### Amendments
+
+2000—Subsec. (e)(1). Pub. L. 106–387, §1(a) \[title VIII, §836(1)(B)\], substituted “The” for “Subject to paragraph (2), the”.
+
+Pub. L. 106–387, §1(a) \[title VIII, §836(1)(A)\], substituted “nonrecourse” for “recourse”.
+
+Subsec. (e)(2), (3). Pub. L. 106–387, §1(a) \[title VIII, §836(2)–(4)\], redesignated par. (3) as (2), substituted “The Secretary shall” for “If the Secretary is required under paragraph (2) to make nonrecourse loans available during a fiscal year or to change recourse loans into nonrecourse loans, the Secretary shall”, and struck out heading and text of former par. (2). Text read as follows: “During any fiscal year in which the tariff rate quota for imports of sugar into the United States is established at, or is increased to, a level in excess of 1,500,000 short tons raw value, the Secretary shall carry out this section by making available nonrecourse loans. Any recourse loan previously made available by the Secretary under this section during the fiscal year shall be changed by the Secretary into a nonrecourse loan.”
+
+#### Regulations
+
+Pub. L. 106–387, §1(a) \[title VIII, §840\], Oct. 28, 2000, 114 Stat. 1549, 1549A–63, provided that: “As soon as practicable after the date of enactment of this Act \[Oct. 28, 2000\], the Secretary and the Commodity Credit Corporation, as appropriate, shall issue such regulations as are necessary to implement sections 804, 805, 806, 809, 810, 811, 812, 814, 815, 816, 836, 837, 838, 839, 841, 843, 844, and 845 of this title \[amending this section and section 3720B of Title 31, Money and Finance, enacting provisions set out as notes under section 3720B of Title 31, and amending provisions set out as a note under section 1421 of this title\]: <i>Provided</i>, That the issuance of the regulations shall be made without regard to: (1) the notice and comment provisions of section 553 of title 5, United States Code; (2) the Statement of Policy of the Secretary of Agriculture effective July 24, 1971 (36 Fed. Reg. 13804), relating to notices of proposed rulemaking and public participation in rulemaking; and (3) chapter 35 of title 44, United States Code (commonly known as the ‘Paperwork Reduction Act’): <i>Provided further</i>, That in carrying out this section, the Secretary shall use the authority provided under section 808 of title 5, United States Code.”
 

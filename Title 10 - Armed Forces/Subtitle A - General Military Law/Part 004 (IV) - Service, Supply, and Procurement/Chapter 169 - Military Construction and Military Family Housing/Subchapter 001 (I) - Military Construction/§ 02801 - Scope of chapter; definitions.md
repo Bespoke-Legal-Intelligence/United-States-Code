@@ -24,7 +24,7 @@
 
 1996—Subsec. (c)(4). Pub. L. 104–106 substituted “the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on National Security and the Committee on Appropriations of the” for “the Committees on Armed Services and on Appropriations of the Senate and”.
 
-1992—Subsec. (c)(4). Pub. L. 102–496 inserted before period at end “and, with respect to any project to be carried out by, or for the use of, an intelligence componentof the Department of Defense, the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate”.
+1992—Subsec. (c)(4). Pub. L. 102–496 inserted before period at end “and, with respect to any project to be carried out by, or for the use of, an intelligence component of the Department of Defense, the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate”.
 
 Subsec. (d). Pub. L. 102–484 substituted “sections 2830 and 2835” for “sections 2828(g) and 2830”.
 

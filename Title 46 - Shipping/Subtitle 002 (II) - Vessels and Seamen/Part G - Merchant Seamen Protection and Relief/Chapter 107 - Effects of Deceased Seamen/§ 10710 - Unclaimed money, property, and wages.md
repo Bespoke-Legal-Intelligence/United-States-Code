@@ -18,7 +18,3 @@ Historical and Revision Notes
 
 Section 10710 provides that if no claim is made to a deceased seaman's property and wages within six years, the court shall sell the property and deposit the proceeds into the Treasury trust fund receipt account “Unclaimed Moneys of Individuals Whose Whereabouts are Unknown”.
 
-#### Cross References
-
-Refund of amounts erroneously deposited in unclaimed trust fund, see section 1322 of Title 31, Money and Finance.
-

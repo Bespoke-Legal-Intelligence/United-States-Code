@@ -38,13 +38,15 @@ Post-Education Joint Duty Assignments.—(1) The Secretary of Defense shall ensu
 
 (e)
 
-Duration of Principal Course of Instruction at Armed Forces Staff College.—(1) The duration of the principal course of instruction offered at the Armed Forces Staff College may not be less than three months.
+Duration of Principal Course of Instruction at Joint Forces Staff College.—(1) The duration of the principal course of instruction offered at the Joint Forces Staff College may not be less than three months.
 
-(2) In this subsection, the term “principal course of instruction” means any course of instruction offered at the Armed Forces Staff College as Phase II joint professional military education.
+(2) In this subsection, the term “principal course of instruction” means any course of instruction offered at the Joint Forces Staff College as Phase II joint professional military education.
 
-(Added Pub. L. 99–433, title IV, §401(a), Oct. 1, 1986, 100 Stat. 1027; amended Pub. L. 101–189, div. A, title XI, §1123(c)(1), Nov. 29, 1989, 103 Stat. 1557; Pub. L. 102–190, div. A, title IX, §912(a), Dec. 5, 1991, 105 Stat. 1452; Pub. L. 103–160, div. A, title IX, §933(a), Nov. 30, 1993, 107 Stat. 1735.)
+(Added Pub. L. 99–433, title IV, §401(a), Oct. 1, 1986, 100 Stat. 1027; amended Pub. L. 101–189, div. A, title XI, §1123(c)(1), Nov. 29, 1989, 103 Stat. 1557; Pub. L. 102–190, div. A, title IX, §912(a), Dec. 5, 1991, 105 Stat. 1452; Pub. L. 103–160, div. A, title IX, §933(a), Nov. 30, 1993, 107 Stat. 1735; Pub. L. 106–398, §1 \[\[div. A\], title IX, §913(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–230.)
 
 #### Amendments
+
+2000—Subsec. (e). Pub. L. 106–398 substituted “Joint Forces Staff College” for “Armed Forces Staff College” wherever appearing in heading and text.
 
 1993—Subsec. (d). Pub. L. 103–160 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “
 
@@ -64,7 +66,7 @@ Section 933(b) of Pub. L. 103–160 provided that: “The amendments made by sub
 
 #### Effective Date of 1991 Amendment
 
-Section 912(b) of Pub. L. 102–190, as amended by Pub. L. 102–484, div. A, title IX, §921, Oct. 23, 1992, 106 Stat. 2473, provided that: “The amendment made by subsection (a)(2) \[amending this section\] shall not apply with respect to the Armed Forces Staff College until January 1, 1994.”
+Pub. L. 102–190, div. A, title IX, §912(b), Dec. 5, 1991, 105 Stat. 1452, as amended by Pub. L. 102–484, div. A, title IX, §921, Oct. 23, 1992, 106 Stat. 2473, provided that the amendment made by section 912(a)(2) of Pub. L. 102–190 to this section was not to apply with respect to the Armed Forces Staff College until Jan. 1, 1994.
 
 #### Implementation of Subsection (e)
 

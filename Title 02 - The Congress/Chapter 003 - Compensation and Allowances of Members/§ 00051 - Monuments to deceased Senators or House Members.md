@@ -46,7 +46,3 @@ Sec. 3. There is authorized to be appropriated $300,000 for grants to be made un
 
 Sec. 4. No authority under this Act \[this note\] to make payments shall be effective except to the extent and in such amounts as provided in advance in appropriations Acts.”
 
-#### Cross References
-
-Arrangements for attendance of funeral of deceased House Members, payment of funeral expenses and expenses of attending funeral rites, see section 124 of this title.
-

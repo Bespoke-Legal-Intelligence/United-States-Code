@@ -1,6 +1,6 @@
 ### §8412. Immediate retirement
 
-(a) An employee or Member who is separated from the service after attaining the applicableminimum retirement age under subsection (h) and completing 30 years of service is entitled to an annuity.
+(a) An employee or Member who is separated from the service after attaining the applicable minimum retirement age under subsection (h) and completing 30 years of service is entitled to an annuity.
 
 (b) An employee or Member who is separated from the service after becoming 60 years of age and completing 20 years of service is entitled to an annuity.
 
@@ -8,9 +8,9 @@
 
 (d) An employee who is separated from the service, except by removal for cause on charges of misconduct or delinquency—
 
-&emsp;(1) after completing 25 years of service as a law enforcement officer, member of the Capitol Police, firefighter, or nuclear materials courier, or any combination of such service totaling at least 25 years, or
+&emsp;(1) after completing 25 years of service as a law enforcement officer, member of the Capitol Police or Supreme Court Police, firefighter, or nuclear materials courier, or any combination of such service totaling at least 25 years, or
 
-&emsp;(2) after becoming 50 years of age and completing 20 years of service as a law enforcement officer, member of the Capitol Police, firefighter, or nuclear materials courier, or any combination of such service totaling at least 20 years,
+&emsp;(2) after becoming 50 years of age and completing 20 years of service as a law enforcement officer, member of the Capitol Police or Supreme Court Police, firefighter, or nuclear materials courier, or any combination of such service totaling at least 20 years,
 
 > is entitled to an annuity.
 
@@ -48,13 +48,15 @@
 
 &emsp;(E) for an individual whose date of birth is after December 31, 1969, 57 years of age.
 
-(2)(A) For an individual whose date of birth occurs during the 5-year period consisting of calendar years 1948 through 1952, the age increase factor shall be equal to two-twelfths times the number of months in the period beginning with January 1948 and ending with December of the year in which the date of birth occurs.
+(2)(A) For an individual whose date of birth occurs during the 5-year period consisting of calendar years 1948 through 1952, the age increasefactor shall be equal to two-twelfths times the number of months in the period beginning with January 1948 and ending with December of the year in which the date of birth occurs.
 
 (B) For an individual whose date of birth occurs during the 5-year period consisting of calendar years 1965 through 1969, the age increase factor shall be equal to two-twelfths times the number of months in the period beginning with January 1965 and ending with December of the year in which the date of birth occurs.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 524; amended Pub. L. 99–556, title I, §105(a), Oct. 27, 1986, 100 Stat. 3131; Pub. L. 101–428, §3(a), Oct. 15, 1990, 104 Stat. 929; Pub. L. 105–261, div. C, title XXXI, §3154(g), Oct. 17, 1998, 112 Stat. 2255.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 524; amended Pub. L. 99–556, title I, §105(a), Oct. 27, 1986, 100 Stat. 3131; Pub. L. 101–428, §3(a), Oct. 15, 1990, 104 Stat. 929; Pub. L. 105–261, div. C, title XXXI, §3154(g), Oct. 17, 1998, 112 Stat. 2255; Pub. L. 106–553, §1(a)(2) \[title III, §308(c)(1)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–87.)
 
 #### Amendments
+
+2000—Subsec. (d). Pub. L. 106–553 inserted “or Supreme Court Police” after “Capitol Police” in pars. (1) and (2).
 
 1998—Subsec. (d)(1), (2). Pub. L. 105–261 substituted “firefighter, or nuclear materials courier” for “or firefighter”.
 
@@ -62,11 +64,15 @@
 
 1986—Subsec. (g). Pub. L. 99–556 designated existing provisions as par. (1) and added par. (2).
 
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–553 effective on the first day of the first applicable pay period that begins on Dec. 21, 2000, and applicable only to an individual who is employed as a member of the Supreme Court Police after Dec. 21, 2000, see section 1(a)(2) \[title III, §308(i), (j)\] of Pub. L. 106–553, set out in a Supreme Court Police Retirement note under section 8331 of this title.
+
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–261 effective at the beginning of the first pay period that begins after Oct. 17, 1998, and applicable only to an individual who is employed as a nuclear materials courier, as defined by section 8331(27) or 8401(33) of this title, after Oct. 17, 1998, see section 3154(m), (n) of Pub. L. 105–261, set out as a note under section 8331 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 6302, 8413, 8414, 8415, 8420, 8421, 8421a, 8425, 8442, 8452, 8462, 8464, 8901 of this title; title 22 sections 4045, 4046, 4052, 4071d.
+This section is referred to in sections 5597, 6302, 8413, 8414, 8415, 8420, 8421, 8421a, 8425, 8442, 8452, 8462, 8464, 8901 of this title; title 10 section 10218; title 22 sections 4045, 4046, 4052, 4071d.
 

@@ -14,3 +14,7 @@ The President shall conduct a study which shall monitor the weatherization activ
 
 This Act, referred to in text, is Pub. L. 95–619, Nov. 9, 1978, 92 Stat. 3206, as amended, known as the National Energy Conservation Policy Act. For complete classification of this Act to the Code, see Short Title note set out under section 8201 of this title and Tables.
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in this section relating to the requirement that the President report annually to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the last item on page 40 of House Document No. 103–7.
+

@@ -40,7 +40,7 @@
 
 (f) It shall be unlawful for any licensee or permittee willfully to manufacture, import, purchase, distribute, or receive explosive materials without making such records as the Secretary may by regulation require, including, but not limited to, a statement of intended use, the name, date, place of birth, social security number or taxpayer identification number, and place of residence of any natural person to whom explosive materials are distributed. If explosive materials are distributed to a corporation or other business entity, such records shall include the identity and principal and local places of business and the name, date, place of birth, and place of residence of the natural person acting as agent of the corporation or other business entity in arranging the distribution.
 
-(g) It shall be unlawful for any licensee or permittee knowingly to make any false entry in any record which he is required to keep pursuant to this section or regulations promulgated under section 847 of this title.
+(g) It shall be unlawful for any licensee or permittee knowingly to make any false entry inany record which he is required to keep pursuant to this section or regulations promulgated under section 847 of this title.
 
 (h) It shall be unlawful for any person to receive, possess, transport, ship, conceal, store, barter, sell, dispose of, or pledge or accept as security for a loan, any stolen explosive materials which are moving as, which are part of, which constitute, or which have been shipped or transported in, interstate or foreign commerce, either before or after such materials were stolen, knowing or having reasonable cause to believe that the explosive materials were stolen.
 
@@ -56,7 +56,7 @@
 
 > to ship or transport any explosive in interstate or foreign commerce or to receive or possess any explosive which has been shipped or transported in interstate or foreign commerce.
 
-(j) It shall be unlawful for any person to store any explosive material in a manner not in conformity with regulations promulgated by the Secretary. In promulgating such regulations, the Secretary shall take into consideration theclass, type, and quantity of explosive materials to be stored, as well as the standards of safety and security recognized in the explosives industry.
+(j) It shall be unlawful for any person to store any explosive material in a manner not in conformity with regulations promulgated by the Secretary. In promulgating such regulations, the Secretary shall take into consideration the class, type, and quantity of explosive materials to be stored, as well as the standards of safety and security recognized in the explosives industry.
 
 (k) It shall be unlawful for any person who has knowledge of the theft or loss of any explosive materials from his stock, to fail to report such theft or loss within twenty-four hours of discovery thereof, to the Secretary and to appropriate local authorities.
 
@@ -98,7 +98,7 @@ Prohibition.—It shall be unlawful for any person—
 
 &emsp;&emsp;(B) to teach or demonstrate to any person the making or use of an explosive, a destructive device, or a weapon of mass destruction, or to distribute to any person, by any means, information pertaining to, in whole or in part, the manufacture or use of an explosive, destructive device, or weapon of mass destruction, knowing that such person intends to use the teaching, demonstration, or information for, or in furtherance of, an activity that constitutes a Federal crime of violence.
 
-(Added Pub. L. 91–452, title XI, §1102(a), Oct. 15, 1970, 84 Stat. 953; amended Pub. L. 100–690, title VI, §6474(c), (d), Nov. 18, 1988, 102 Stat. 4380; Pub. L. 101–647, title XXXV, §3521, Nov. 29, 1990, 104 Stat. 4923; Pub. L. 103–322, title XI, §§110508, 110516, Sept. 13, 1994, 108 Stat. 2018, 2020; Pub. L. 104–132, title VI, §603, title VII, §707, Apr. 24, 1996, 110 Stat. 1289, 1296; Pub. L. 106–54, §2(a), Aug. 17, 1999, 113 Stat. 398.)
+(Added Pub. L. 91–452, title XI, §1102(a), Oct. 15, 1970, 84 Stat. 953; amended Pub. L. 100–690, titleVI, §6474(c), (d), Nov. 18, 1988, 102 Stat. 4380; Pub. L. 101–647, title XXXV, §3521, Nov. 29, 1990, 104 Stat. 4923; Pub. L. 103–322, title XI, §§110508, 110516, Sept. 13, 1994, 108 Stat. 2018, 2020; Pub. L. 104–132, title VI, §603, title VII, §707, Apr. 24, 1996, 110 Stat. 1289, 1296; Pub. L. 106–54, §2(a), Aug. 17, 1999, 113 Stat. 398.)
 
 #### References in Text
 
@@ -120,7 +120,7 @@ Subsec. (i). Pub. L. 103–322, §110508, inserted “or possess” after “rec
 
 Subsec. (i)(3). Pub. L. 101–647, §3521(2), substituted “; or” for a period.
 
-1988—Subsec. (d)(5). Pub. L. 100–690, §6474(c), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “is an unlawful user of marihuana (as defined in section 4761 of the Internal Revenue Code of 1954) orany depressant or stimulant drug (as defined in section 201(v) of the Federal Food, Drug, and Cosmetic Act) or narcotic drug (as defined in section 4721(a) of the Internal Revenue Code of 1954); or”.
+1988—Subsec. (d)(5). Pub. L. 100–690, §6474(c), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “is an unlawful user of marihuana (as defined in section 4761 of the Internal Revenue Code of 1954) or any depressant or stimulant drug (as defined in section 201(v) of the Federal Food, Drug, and Cosmetic Act) or narcotic drug (as defined in section 4721(a) of the Internal Revenue Code of 1954); or”.
 
 Subsec. (i)(3). Pub. L. 100–690, §6474(d), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “who is an unlawful user of or addicted to marihuana (as defined in section 4761 of the Internal Revenue Code of 1954) or any depressant or stimulant drug (as defined in section 201(v) of the Federal Food, Drug, and Cosmetic Act) or narcotic drug (as defined in section 4731(a) of the Internal Revenue Code of 1954); or”.
 

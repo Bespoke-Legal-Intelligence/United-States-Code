@@ -42,13 +42,13 @@ Actual transfer of lands and management responsibilities under this section shal
 
 #### (e) Management pending transfer
 
-In the 24-month period following November 28, 1990, the Secretary shall carry out any and all programmed maintenance on the portions of the project outlined in subsection (d) of this section.
+In the 24-month period following November 28, 1990, the Secretary shall carry out any and allprogrammed maintenance on the portions of the project outlined in subsection (d) of this section.
 
 #### (f) Contract for continued O\&M
 
 #### (1) In general
 
-&emsp;During the period beginning on November 28, 1992, and ending on September 30, 1993, the Secretary is authorized and directed to offer to enter into a contract with the St. JohnsRiver Water Management District and the Southwest Florida Water Management District of the State of Florida for the continued operation and maintenance by the Secretary of the portions of the project described in subsection (d) of this section. The maintenance shall be performed at a level of service that is necessary to ensure safe operating conditions and to prevent deterioration of the structures. No major rehabilitations or renovations shall be performed by the Secretary in such portions of the project during such period.
+&emsp;During the period beginning on November 28, 1992, and ending on September 30, 1993, the Secretary is authorized and directed to offer to enter into a contract with the St. Johns River Water Management District and the Southwest Florida Water Management District of the State of Florida for the continued operation and maintenance by the Secretary of the portions of the project described in subsection (d) of this section. The maintenance shall be performed at a level of service that is necessary to ensure safe operating conditions and to prevent deterioration of the structures. No major rehabilitations or renovations shall be performed by the Secretary in such portions of the project during such period.
 
 #### (2) Funding
 

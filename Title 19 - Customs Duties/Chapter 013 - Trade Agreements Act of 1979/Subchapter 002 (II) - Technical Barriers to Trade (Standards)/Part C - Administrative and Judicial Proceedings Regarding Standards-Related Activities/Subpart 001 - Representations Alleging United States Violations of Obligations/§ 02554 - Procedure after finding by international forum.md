@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-If an appropriate international forum finds that a standards-related activity being engaged in within the United States conflicts with the obligations of the United States under the Agreement, the interagency trade organization established under section 1872(a) of this title shall review the finding and the matters related thereto with a view to recommending appropriate action.
+If an appropriate international forum finds that a standards-related activity being engagedin within the United States conflicts with the obligations of the United States under the Agreement, the interagency trade organization established under section 1872(a) of this title shall review the finding and the matters related thereto with a view to recommending appropriate action.
 
 #### (b) Cross reference
 

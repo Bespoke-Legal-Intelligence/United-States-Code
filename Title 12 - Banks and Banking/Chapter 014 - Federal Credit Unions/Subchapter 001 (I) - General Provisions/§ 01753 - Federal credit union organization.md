@@ -42,10 +42,6 @@ Transfer of functions of Farm Credit Administration and Governor thereof, genera
 
 Functions of Governor of Farm Credit Administration under this section transferred to Federal Deposit Insurance Corporation by Reorg. Plan No. 1 of 1947.
 
-#### Cross References
-
-National Labor Relations Act not violated by employer's provision of facilities for operations of Federal Credit Union, see section 158a of Title 29, Labor.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1773 of this title.

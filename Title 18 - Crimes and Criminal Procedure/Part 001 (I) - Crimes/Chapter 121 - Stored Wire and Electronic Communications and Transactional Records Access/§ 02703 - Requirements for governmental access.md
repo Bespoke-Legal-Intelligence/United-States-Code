@@ -2,7 +2,7 @@
 
 (a)
 
-Contents of Electronic Communications in Electronic Storage.—A governmental entity may require the disclosure by a provider of electronic communication service of the contents of an electronic communication, that is in electronic storage in an electronic communications system for one hundred and eighty days or less, only pursuant to a warrant issued under the Federal Rules of Criminal Procedure or equivalent State warrant. A governmental entity may require the disclosure by a provider of electronic communications services of the contents of an electronic communication that has been in electronic storage in an electronic communications system for more than one hundred and eighty days by the means available under subsection (b) of this section.
+Contents of Electronic Communications in Electronic Storage.—A governmental entity may require the disclosure by a provider of electronic communication service of the contents of an electronic communication, that is in electronic storage in an electronic communications system for one hundred and eighty days or less, only pursuant to a warrant issued under the Federal Rules of Criminal Procedure or equivalent State warrant. A governmental entity may require the disclosure by a provider of electronic communications services of the contents of an electronic communication that has been in electronic storage in an electronic communicationssystem for more than one hundred and eighty days by the means available under subsection (b) of this section.
 
 (b)
 
@@ -62,7 +62,7 @@ In general.—A provider of wire or electronic communication services or a remot
 
 Period of retention.—Records referred to in paragraph (1) shall be retained for a period of 90 days, which shall be extended for an additional 90-day period upon a renewed request by the governmental entity.
 
-(Added Pub. L. 99–508, title II, §201\[(a)\], Oct. 21, 1986, 100 Stat. 1861; amended Pub. L. 100–690, title VII, §§7038, 7039, Nov. 18, 1988, 102 Stat. 4399; Pub. L. 103–322, title XXXIII, §330003(b), Sept. 13, 1994, 108 Stat. 2140; Pub. L. 103–414, title II, §207(a), Oct. 25, 1994, 108 Stat. 4292; Pub. L. 104–132, title VIII, §804, Apr. 24, 1996, 110 Stat. 1305; Pub. L. 104–293, title VI, §601(b), Oct. 11, 1996, 110 Stat. 3469; Pub. L. 104–294, title VI, §605(f), Oct. 11, 1996, 110 Stat. 3510; Pub. L. 105–184, §8, June 23, 1998, 112 Stat. 522.)
+(Added Pub. L. 99–508, title II, §201\[(a)\], Oct. 21, 1986, 100 Stat. 1861; amended Pub. L. 100–690, title VII, §§7038, 7039, Nov. 18, 1988, 102 Stat. 4399; Pub. L. 103–322, title XXXIII, §330003(b), Sept. 13, 1994, 108 Stat. 2140; Pub. L. 103–414, title II, §207(a), Oct. 25, 1994, 108 Stat. 4292; Pub. L. 104–132, title VIII, §804, Apr. 24, 1996, 110 Stat. 1305; Pub. L.104–293, title VI, §601(b), Oct. 11, 1996, 110 Stat. 3469; Pub. L. 104–294, title VI, §605(f), Oct. 11, 1996, 110 Stat. 3510; Pub. L. 105–184, §8, June 23, 1998, 112 Stat. 522.)
 
 #### References in Text
 

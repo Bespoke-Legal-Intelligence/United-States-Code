@@ -6,7 +6,7 @@ If after a hearing on a complaint made by any person under section 499f of this 
 
 #### (b) Failure to comply with order of Secretary; suit to enforce liability; order as evidence; costs and fees
 
-If any commission merchant, dealer, or broker does not pay the reparation award within the time specified in the Secretary's order, the complainant, or any person for whose benefit such order was made, may within three years of thedate of the order file in the district court of the United States for the district in which he resides or in which is located the principal place of business of the commission merchant, dealer, or broker, or in any State court having general jurisdiction of the parties, a petition setting forth briefly the causes for which he claims damages and the order of the Secretary in the premises. The orders, writs, and processes of the district courts may in these cases run, be served, and be returnable anywhere in the United States. Such suit in the district court shall proceed in all respects like other civil suits for damages, except that the findings and orders of the Secretary shall be prima-facie evidence of the facts therein stated, and the petitioner shall not be liable for costs in the district court, nor for costs at any subsequent state of the proceedings, unless they accrue upon his appeal. If the petitioner finally prevails, he shall be allowed a reasonable attorney's fee, to be taxed and collected as a part of the costs of the suit.
+If any commission merchant, dealer, or broker does not pay the reparation award within the time specified in the Secretary's order, the complainant, or any person for whose benefit such order was made, may within three years of the date of the order file in the district court of the United States for the district in which he resides or in which is located the principal place of business of the commission merchant, dealer, or broker, or in any State court having general jurisdiction of the parties, a petition setting forth briefly the causes for which he claims damages and the order of the Secretary in the premises. The orders, writs, and processes of the district courts may in these cases run, be served, and be returnable anywhere in the United States. Such suit in the district court shall proceed in all respects like other civil suits for damages, except that the findings and orders of the Secretary shall be prima-facie evidence of the facts therein stated, and the petitioner shall not be liable for costs in the district court, nor for costs at any subsequent state of the proceedings, unless they accrue upon his appeal. If the petitioner finallyprevails, he shall be allowed a reasonable attorney's fee, to be taxed and collected as a part of the costs of the suit.
 
 #### (c) Appeal from reparation order; proceedings
 
@@ -49,20 +49,6 @@ Subsec. (d). Act Aug. 20, 1937, inserted proviso.
 1934—Subsec. (b). Act Apr. 13, 1934, §11, inserted after first sentence “The orders, writs and processes of the district courts may in these cases run, be served, and be returnable anywhere in the United States.”
 
 Subsecs. (c), (d). Act Apr. 13, 1934, §§12, 13, added subsecs. (c) and (d).
-
-#### Federal Rules of Civil Procedure
-
-Costs, application of Rules of Civil Procedure, see rules 54 and 81, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-#### Cross References
-
-Delegation of regulatory functions of Secretary of Agriculture, see section 450c of this title.
-
-Exclusive jurisdiction of courts of appeals to set aside orders of Secretary of Agriculture under this chapter except those orders issued under subsection (a) of this section, see section 2342 of Title 28, Judiciary and Judicial Procedure.
-
-Review of orders by courts of appeals, see section 2341 et seq. of Title 28.
-
-Venue of proceedings to set aside orders of Secretary of Agriculture under this chapter except subsec. (a) of this section, see section 2343 of Title 28.
 
 #### Section Referred to in Other Sections
 

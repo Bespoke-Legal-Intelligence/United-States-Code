@@ -22,12 +22,6 @@ A special problem under this provision is what to do with works whose ordinary s
 
 1997—Pub. L. 105–80 designated existing provisions as subsec. (a) and added subsec. (b).
 
-#### Cross References
-
-Duration and renewal of registration of trademarks, see sections 1058 and 1059 of Title 15, Commerce and Trade.
-
-Duration of term of patents, see section 154 of Title 35, Patents.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 301, 305 of this title.

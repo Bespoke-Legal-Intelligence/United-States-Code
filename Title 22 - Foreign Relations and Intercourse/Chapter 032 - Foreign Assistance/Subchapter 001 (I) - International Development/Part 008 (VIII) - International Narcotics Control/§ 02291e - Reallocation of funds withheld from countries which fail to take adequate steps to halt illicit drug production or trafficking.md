@@ -30,5 +30,5 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 #### Supersedure of Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1989
 
-Section 4206(b) of Pub. L. 100–690, which provided that the enactment of this section superseded section 578(d) of Pub. L. 100–461, 102 Stat. 2268–46, and that funds couldbe transferred under subsec. (a)(1) of this section notwithstanding section 514 of Pub. L. 100–461, 102 Stat. 2268–23, was repealed by Pub. L. 102–583, §6(e)(1), Nov. 2, 1992, 106 Stat. 4933.
+Section 4206(b) of Pub. L. 100–690, which provided that the enactment of this section superseded section 578(d) of Pub. L. 100–461, 102 Stat. 2268–46, and that funds could be transferred under subsec. (a)(1) of this section notwithstanding section 514 of Pub. L. 100–461, 102 Stat. 2268–23, was repealed by Pub. L. 102–583, §6(e)(1), Nov. 2, 1992, 106 Stat. 4933.
 

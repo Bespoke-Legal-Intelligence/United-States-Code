@@ -6,6 +6,10 @@
 | [132\.](%C2%A7%2000132%20-%20Departments%20of%20Library.md) | Departments of Library. |
 | [132a.](%C2%A7%2000132a%20-%20Appropriations%20for%20increase%20of%20general%20library.md) | Appropriations for increase of general library. |
 | 132a–1. | Obligations for reimbursable and revolving fund activities; limitation. |
+| 132a–2. | Furniture, furnishings, and office and library equipment; transfer of funds. |
+| (a) | Transfer of funds. |
+| (b) | Availability of funds. |
+| (c) | Approval of Congress. |
 | [132b.](%C2%A7%2000132b%20-%20Joint%20Committee%20on%20the%20Library.md) | Joint Committee on the Library. |
 | [133\.](%C2%A7%2000133%20-%20Joint%20Committee%20during%20recess%20of%20Congress.md) | Joint Committee during recess of Congress. |
 | [134\.](%C2%A7%2000134%20-%20Incidental%20expenses%20of%20law%20library.md) | Incidental expenses of law library. |
@@ -22,7 +26,7 @@
 | 137a, 137b. Omitted. |  |
 | [137c.](%C2%A7%2000137c%20-%20Withdrawal%20of%20books%20from%20Library%20of%20Congress.md) | Withdrawal of books from Library of Congress. |
 | [138\.](%C2%A7%2000138%20-%20Law%20library%3B%20hours%20kept%20open.md) | Law library; hours kept open. |
-| [139\.](%C2%A7%2000139%20-%20Report%20of%20Librarian%20of%20Congress.md) | Report of Librarian of Congress. |
+| [139\.](%C2%A7%2000139%20-%20Omitted.md) | Omitted. |
 | [140\.](%C2%A7%2000140%20-%20Employees%3B%20fitness.md) | Employees; fitness. |
 | [141\.](%C2%A7%2000141%20-%20Duties%20of%20Architect%20of%20the%20Capitol%20and%20Librarian%20of%20Congress.md) | Duties of Architect of the Capitol and Librarian of Congress. |
 | [141a.](%C2%A7%2000141a%20-%20Design%2C%20installation%2C%20and%20maintenance%20of%20security%20systems%3B%20transfer%20of%20responsibility.md) | Design, installation, and maintenance of security systems; transfer of responsibility. |
@@ -63,7 +67,15 @@
 | [161\.](%C2%A7%2000161%20-%20Tax%20exemption%20of%20gifts%2C%20etc.%2C%20to%20Library%20of%20Congress.md) | Tax exemption of gifts, etc., to Library of Congress. |
 | [162\.](%C2%A7%2000162%20-%20Compensation%20of%20Library%20of%20Congress%20employees.md) | Compensation of Library of Congress employees. |
 | [162a.](%C2%A7%2000162a%20-%20Gross%20salary%20of%20Library%20of%20Congress%20employees.md) | Gross salary of Library of Congress employees. |
-| [163\.](%C2%A7%2000163%20-%20Report%20to%20Congress%20by%20Library%20of%20Congress%20Trust%20Fund%20Board.md) | Report to Congress by Library of Congress Trust Fund Board. |
+| [162b.](%C2%A7%2000162b%20-%20Little%20Scholars%20Child%20Development%20Center%3B%20employee%20compensation%20and%20personnel%20matters.md) | Little Scholars Child Development Center; employee compensation and personnel matters. |
+| (a) | Election of coverage; creditable service; qualification for survivor annuities and disability benefits; contributions to thrift savings plan; certification concerning creditable service. |
+| (b) | Health insurance coverage. |
+| (c) | Life insurance coverage. |
+| (d) | Government contributions by Librarian from available appropriations. |
+| (e) | Payroll and personnel functions of Library of Congress. |
+| (f) | Responsibilities of Center. |
+| (g) | Regulations. |
+| [163\.](%C2%A7%2000163%20-%20Omitted.md) | Omitted. |
 | [164\.](%C2%A7%2000164%20-%20Index%20and%20digest%20of%20State%20legislation%3B%20preparation.md) | Index and digest of State legislation; preparation. |
 | [164a.](%C2%A7%2000164a%20-%20Official%20distribution%20of%20State%20legislation%20index%20and%20digest.md) | Official distribution of State legislation index and digest. |
 | [165\.](%C2%A7%2000165%20-%20Authorization%20for%20appropriation%20for%20biennial%20index.md) | Authorization for appropriation for biennial index. |
@@ -158,6 +170,25 @@
 | (c) | Credits to revolving fund. |
 | (d) | Unobligated balances. |
 | (e) | Annual report. |
+| [182a.](%C2%A7%2000182a%20-%20Revolving%20fund%20for%20audio%20and%20video%20duplication%20services%20associated%20with%20audiovisual%20conservation%20center.md) | Revolving fund for audio and video duplication services associated with audiovisual conservation center. |
+| (a) | Establishment. |
+| (b) | Fees for services. |
+| (c) | Contents of fund. |
+| (d) | Use of amounts in fund. |
+| [182b.](%C2%A7%2000182b%20-%20Revolving%20fund%20for%20gift%20shop%2C%20decimal%20classification%2C%20photo%20duplication%2C%20and%20related%20services.md) | Revolving fund for gift shop, decimal classification, photo duplication, and related services. |
+| (a) | Establishment. |
+| (b) | Individual accounting requirement. |
+| (c) | Fees for services. |
+| (d) | Contents of accounts in fund. |
+| (e) | Use of amounts. |
+| [182c.](%C2%A7%2000182c%20-%20Revolving%20fund%20for%20FEDLINK%20program%20and%20Federal%20Research%20program.md) | Revolving fund for FEDLINK program and Federal Research program. |
+| (a) | Establishment. |
+| (b) | Individual accounting requirement. |
+| (c) | Fees for services. |
+| (d) | Contents of fund. |
+| (e) | Use of amounts in fund. |
+| (f) | Programs described. |
+| [182d.](%C2%A7%2000182d%20-%20Audits%20by%20Comptroller%20General.md) | Audits by Comptroller General. |
 | [183\.](%C2%A7%2000183%20-%20Written%20history%20of%20the%20House%20of%20Representatives.md) | Written history of the House of Representatives. |
 | (a) | In general. |
 | (b) | Guidelines. |
@@ -179,6 +210,7 @@
 - [&sect; 00132 - Departments of Library](%C2%A7%2000132%20-%20Departments%20of%20Library.md)
 - [&sect; 00132a - Appropriations for increase of general library](%C2%A7%2000132a%20-%20Appropriations%20for%20increase%20of%20general%20library.md)
 - [&sect; 00132a&#8211;1 - Obligations for reimbursable and revolving fund activities; limitation](%C2%A7%2000132a%E2%80%931%20-%20Obligations%20for%20reimbursable%20and%20revolving%20fund%20activities%3B%20limitation.md)
+- [&sect; 00132a&#8211;2 - Furniture, furnishings, and office and library equipment; transfer of funds](%C2%A7%2000132a%E2%80%932%20-%20Furniture%2C%20furnishings%2C%20and%20office%20and%20library%20equipment%3B%20transfer%20of%20funds.md)
 - [&sect; 00132b - Joint Committee on the Library](%C2%A7%2000132b%20-%20Joint%20Committee%20on%20the%20Library.md)
 - [&sect; 00133 - Joint Committee during recess of Congress](%C2%A7%2000133%20-%20Joint%20Committee%20during%20recess%20of%20Congress.md)
 - [&sect; 00134 - Incidental expenses of law library](%C2%A7%2000134%20-%20Incidental%20expenses%20of%20law%20library.md)
@@ -195,7 +227,7 @@
 - [&sect; 00137a, 137b - Omitted](%C2%A7%2000137a%2C%20137b%20-%20Omitted.md)
 - [&sect; 00137c - Withdrawal of books from Library of Congress](%C2%A7%2000137c%20-%20Withdrawal%20of%20books%20from%20Library%20of%20Congress.md)
 - [&sect; 00138 - Law library; hours kept open](%C2%A7%2000138%20-%20Law%20library%3B%20hours%20kept%20open.md)
-- [&sect; 00139 - Report of Librarian of Congress](%C2%A7%2000139%20-%20Report%20of%20Librarian%20of%20Congress.md)
+- [&sect; 00139 - Omitted](%C2%A7%2000139%20-%20Omitted.md)
 - [&sect; 00140 - Employees; fitness](%C2%A7%2000140%20-%20Employees%3B%20fitness.md)
 - [&sect; 00141 - Duties of Architect of the Capitol and Librarian of Congress](%C2%A7%2000141%20-%20Duties%20of%20Architect%20of%20the%20Capitol%20and%20Librarian%20of%20Congress.md)
 - [&sect; 00141a - Design, installation, and maintenance of security systems; transfer of responsibility](%C2%A7%2000141a%20-%20Design%2C%20installation%2C%20and%20maintenance%20of%20security%20systems%3B%20transfer%20of%20responsibility.md)
@@ -237,7 +269,8 @@
 - [&sect; 00161 - Tax exemption of gifts, etc., to Library of Congress](%C2%A7%2000161%20-%20Tax%20exemption%20of%20gifts%2C%20etc.%2C%20to%20Library%20of%20Congress.md)
 - [&sect; 00162 - Compensation of Library of Congress employees](%C2%A7%2000162%20-%20Compensation%20of%20Library%20of%20Congress%20employees.md)
 - [&sect; 00162a - Gross salary of Library of Congress employees](%C2%A7%2000162a%20-%20Gross%20salary%20of%20Library%20of%20Congress%20employees.md)
-- [&sect; 00163 - Report to Congress by Library of Congress Trust Fund Board](%C2%A7%2000163%20-%20Report%20to%20Congress%20by%20Library%20of%20Congress%20Trust%20Fund%20Board.md)
+- [&sect; 00162b - Little Scholars Child Development Center; employee compensation and personnel matters](%C2%A7%2000162b%20-%20Little%20Scholars%20Child%20Development%20Center%3B%20employee%20compensation%20and%20personnel%20matters.md)
+- [&sect; 00163 - Omitted](%C2%A7%2000163%20-%20Omitted.md)
 - [&sect; 00164 - Index and digest of State legislation; preparation](%C2%A7%2000164%20-%20Index%20and%20digest%20of%20State%20legislation%3B%20preparation.md)
 - [&sect; 00164a - Official distribution of State legislation index and digest](%C2%A7%2000164a%20-%20Official%20distribution%20of%20State%20legislation%20index%20and%20digest.md)
 - [&sect; 00165 - Authorization for appropriation for biennial index](%C2%A7%2000165%20-%20Authorization%20for%20appropriation%20for%20biennial%20index.md)
@@ -284,5 +317,9 @@
 - [&sect; 00180 - Legislative information retrieval system](%C2%A7%2000180%20-%20Legislative%20information%20retrieval%20system.md)
 - [&sect; 00181 - Program for exchange of information among legislative branch agencies](%C2%A7%2000181%20-%20Program%20for%20exchange%20of%20information%20among%20legislative%20branch%20agencies.md)
 - [&sect; 00182 - Cooperative Acquisitions Program Revolving Fund](%C2%A7%2000182%20-%20Cooperative%20Acquisitions%20Program%20Revolving%20Fund.md)
+- [&sect; 00182a - Revolving fund for audio and video duplication services associated with audiovisual conservation center](%C2%A7%2000182a%20-%20Revolving%20fund%20for%20audio%20and%20video%20duplication%20services%20associated%20with%20audiovisual%20conservation%20center.md)
+- [&sect; 00182b - Revolving fund for gift shop, decimal classification, photo duplication, and related services](%C2%A7%2000182b%20-%20Revolving%20fund%20for%20gift%20shop%2C%20decimal%20classification%2C%20photo%20duplication%2C%20and%20related%20services.md)
+- [&sect; 00182c - Revolving fund for FEDLINK program and Federal Research program](%C2%A7%2000182c%20-%20Revolving%20fund%20for%20FEDLINK%20program%20and%20Federal%20Research%20program.md)
+- [&sect; 00182d - Audits by Comptroller General](%C2%A7%2000182d%20-%20Audits%20by%20Comptroller%20General.md)
 - [&sect; 00183 - Written history of the House of Representatives](%C2%A7%2000183%20-%20Written%20history%20of%20the%20House%20of%20Representatives.md)
 - [&sect; 00183a - Oral history of the House of Representatives](%C2%A7%2000183a%20-%20Oral%20history%20of%20the%20House%20of%20Representatives.md)

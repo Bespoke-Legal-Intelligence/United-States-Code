@@ -22,7 +22,7 @@ The flag, when carried in a procession with another flag or flags, should be eit
 
 (j) When the flag is displayed over the middle of the street, it should be suspended vertically with the union to the north in an east and west street or to the east in a north and south street.
 
-(k) When used on a speaker's platform, the flag, if displayed flat, should be displayed above and behind the speaker. When displayed from a staff in a church or public auditorium, the flag of the United States of America should hold the position of superior prominence, in advance of the audience, and in the position of honor at the clergyman's or speaker's right as he faces the audience. Any other flag so displayed should be placed on the left of the clergyman or speaker or to the right of the audience.
+(k) When used on a speaker's platform, the flag, if displayed flat, should be displayed aboveand behind the speaker. When displayed from a staff in a church or public auditorium, the flag of the United States of America should hold the position of superior prominence, in advance of the audience, and in the position of honor at the clergyman's or speaker's right as he faces the audience. Any other flag so displayed should be placed on the left of the clergyman or speaker or to the right of the audience.
 
 (<i>l</i>) The flag should form a distinctive feature of the ceremony of unveiling a statue or monument, but it should never be used as the covering for the statue or monument.
 
@@ -76,7 +76,7 @@ The flag shall also be flown at half-staff for such period at all United States 
 
 (c) An Associate Justice of the Supreme Court, a member of the Cabinet, a former Vice President, the President pro tempore of the Senate, the Majority Leader of the Senate, the Minority Leader of the Senate, the Majority Leader of the House of Representatives, or the Minority Leader of the House of Representatives: from the day of death until interment.
 
-2\. The flag of the United States shall be flown at half-staff on all buildings, grounds, and naval vessels of the Federal Government in the metropolitan area of the District of Columbia on the day of death and on the following day upon the death of a United States Senator, Representative, Territorial Delegate, or the Resident Commissioner from the Commonwealth of Puerto Rico, and it shall also be flown at half-staff on all buildings, grounds, and naval vessels of the Federal Government in the State, Congressional District, Territory, or Commonwealth of such Senator, Representative, Delegate, or Commissioner, respectively, from the day of death until interment.
+2\. The flag of the United States shall be flown at half-staff on all buildings, grounds, and naval vessels of the Federal Government in the metropolitan area of the District of Columbia on the day of death and on the following day upon the death of a United States Senator, Representative, Territorial Delegate, or the Resident Commissioner from the Commonwealth of Puerto Rico, and it shall also be flown at half-staff on all buildings, grounds, and naval vessels of the Federal Government in the State, Congressional District, Territory, or Commonwealth of such Senator, Representative, Delegate,or Commissioner, respectively, from the day of death until interment.
 
 3\. The flag of the United States shall be flown at half-staff on all buildings and grounds of the Federal Government in a State, Territory, or possession of the United States upon the death of the Governor of such State, Territory, or possession from the day of death until interment.
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Notwithstanding any other provision of law, any vessel meeting the definition of a largeyacht as provided in subsection (b) of this section and which is otherwise dutiable may be imported without the payment of duty if imported with the intention to offer for sale at a boat show in the United States. Payment of duty shall be deferred, in accordance with this section, until such large yacht is sold.
+Notwithstanding any other provision of law, any vessel meeting the definition of a large yacht as provided in subsection (b) of this section and which is otherwise dutiable may be imported without the payment of duty if imported with the intention to offer for sale at a boatshow in the United States. Payment of duty shall be deferred, in accordance with this section, until such large yacht is sold.
 
 #### (b) Definition
 

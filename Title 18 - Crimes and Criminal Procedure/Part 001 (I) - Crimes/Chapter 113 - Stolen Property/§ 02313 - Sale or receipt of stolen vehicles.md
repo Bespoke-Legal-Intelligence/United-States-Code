@@ -16,7 +16,7 @@ Definitions of “aircraft,” “motor vehicle,” and “interstate or foreign
 
 The third sentence of said section 408, relating to transporting stolen aircraft or motor vehicles, is incorporated in section 2312 of this title.
 
-The first sentence of said section 408, providing the short title, and the fifth sentence thereof, relating to venue, were omitted. (See reviser's note under section 2312 of this title.)
+The first sentence of said section 408, providing the short title, and the fifth sentence thereof, relating tovenue, were omitted. (See reviser's note under section 2312 of this title.)
 
 Minor changes were made in phraseology.
 
@@ -27,10 +27,6 @@ Minor changes were made in phraseology.
 1990—Pub. L. 101–647 designated existing provisions as subsec. (a) and added subsec. (b).
 
 1984—Pub. L. 98–547 inserted “possesses,” after “receives,” and substituted “which has crossed a State or United States boundary after being stolen,” for “moving as, or which is a part of, or which constitutes interstate or foreign commerce,”.
-
-#### Cross References
-
-Venue of offense involving more than one district, see section 3237 of this title.
 
 #### Section Referred to in Other Sections
 

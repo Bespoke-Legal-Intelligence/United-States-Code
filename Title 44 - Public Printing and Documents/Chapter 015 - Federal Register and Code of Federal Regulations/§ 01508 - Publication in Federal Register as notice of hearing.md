@@ -4,7 +4,7 @@ A notice of hearing or of opportunity to be heard, required or authorized to be 
 
 &emsp;(1) not less than the time specifically prescribed for the publication of the notice by the appropriate Act of Congress; or
 
-&emsp;(2) not less than fifteen days when time for publication is not specifically prescribed bythe Act, without prejudice, however, to the effectiveness of a notice of less than fifteen days where the shorter period is reasonable.
+&emsp;(2) not less than fifteen days when time for publication is not specifically prescribed by the Act, without prejudice, however, to the effectiveness of a notice of less than fifteen days where the shorter period is reasonable.
 
 (Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1276.)
 

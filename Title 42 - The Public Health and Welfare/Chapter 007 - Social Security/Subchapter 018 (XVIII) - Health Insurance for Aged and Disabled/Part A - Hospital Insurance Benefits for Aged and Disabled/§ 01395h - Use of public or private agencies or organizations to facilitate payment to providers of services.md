@@ -10,7 +10,7 @@ The Secretary shall not enter into or renew an agreement with any agency or orga
 
 &emsp;(1) he finds—
 
-&emsp;&emsp;(A) after applying the standards, criteria, and procedures developed under subsection (f) of this section, that to do so is consistent with the effective and efficient administration of this part, and
+&emsp;&emsp;(A) after applying the standards, criteria, and procedures developed under subsection\(f) of this section, that to do so is consistent with the effective and efficient administration of this part, and
 
 &emsp;&emsp;(B) that such agency or organization is willing and able to assist the providers to which payments are made through it under this part in the application of safeguards against unnecessary utilization of services furnished by them to individuals entitled to hospital insurance benefits under section 426 of this title, and the agreement provides for such assistance; and
 
@@ -62,7 +62,7 @@ The Secretary shall not enter into or renew an agreement with any agency or orga
 
 #### (d) Nomination of agency or organization; withdrawal
 
-If the nomination of an agency or organization as provided in this section is made by a group or association of providers of services, it shall not be binding on members of the group or association which notify the Secretary of their election to that effect. Any provider may, upon such notice as may be specified in the agreement under this section with an agency or organization, withdraw its nomination to receive payments through such agency or organization. Any provider which has withdrawn its nomination, and any provider which has not made a nomination, may elect to receive payments from any agency or organization which has entered into an agreement with the Secretary under this section if the Secretary and such agency or organization agree to it.
+If the nomination of an agency or organization as provided in this section is made by a group or association of providers of services, it shall not be binding on members of the group or association which notify the Secretary of their election to that effect. Any provider may, upon such notice as may be specified in the agreement underthis section with an agency or organization, withdraw its nomination to receive payments through such agency or organization. Any provider which has withdrawn its nomination, and any provider which has not made a nomination, may elect to receive payments from any agency or organization which has entered into an agreement with the Secretary under this section if the Secretary and such agency or organization agree to it.
 
 #### (e) Assignment or reassignment of provider of services; designation of agency or organization to perform provider services and home health agency functions
 
@@ -76,7 +76,7 @@ If the nomination of an agency or organization as provided in this section is ma
 
 (4) Notwithstanding subsections (a) and (d) of this section and paragraphs (1), (2), and (3) of this subsection, the Secretary shall designate regional agencies or organizations which have entered into an agreement with him under this section to perform functions under such agreement with respect to home health agencies (as defined in section 1395x(<i>o</i>) of this title) in the region, except that in assigning such agencies to such designated regional agencies or organizations the Secretary shall assign a home health agency which is a subdivision of a hospital (and such agency and hospital are affiliated or under common control) only if, after applying such criteria relating to administrative efficiency and effectiveness as he shall promulgate, he determines that such assignment would result in the more effective and efficient administration of this subchapter. By not later than July 1, 1987, the Secretary shall limit the number of such regional agencies or organizations to not more than ten.
 
-(5) Notwithstanding any other provision of this subchapter, the Secretary shall designate the agency or organization which has entered into an agreement under this section to perform functions under such an agreement with respect to each hospice program, except that with respect to a hospice program which is a subdivision of a provider of services (and such hospiceprogram and provider of services are under common control) due regard shall be given to the agency or organization which performs the functions under this section for the provider of services.
+(5) Notwithstanding any other provision of this subchapter, the Secretary shall designate the agency or organization which has entered into an agreement under this section to perform functions under such an agreement with respect to each hospice program, except that with respect to a hospice program which is a subdivision of a provider of services (and such hospice program and provider of services are under common control) due regard shall be given to the agency or organization which performs the functions under this section for the provider of services.
 
 #### (f) Development of standards, criteria, and procedures by Secretary for evaluation of agency or organization performance
 
@@ -132,7 +132,7 @@ An agreement with an agency or organization under this section shall require tha
 
 No agency or organization may carry out (or receive payment for carrying out) any activity pursuant to an agreement under this section to the extent that the activity is carried out pursuant to a contract under the Medicare Integrity Program under section 1395ddd of this title.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1816, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 297; amended Pub. L. 92–603, title II, §243(b), Oct. 30, 1972, 86 Stat. 1422; Pub. L. 95–142, §14(a), Oct. 25, 1977, 91 Stat. 1198; Pub. L. 96–499, title IX, §930(<i>o</i>), Dec. 5, 1980, 94 Stat. 2632; Pub. L. 97–248, title I, §122(c)(3), Sept. 3, 1982, 96 Stat. 359; Pub. L. 98–369, div. B, title III, §2326(b), (c)(1), (d)(1), July 18, 1984, 98 Stat. 1087; Pub. L. 99–509, title IX, §§9311(b), 9352(a)(2), Oct. 21, 1986, 100 Stat. 1997, 2044; Pub. L. 100–203, title IV, §§4031(a)(1), 4032(a), (b), 4035(a)(1), 4085(d)(1), Dec. 22, 1987, 101 Stat. 1330–75 to 1330–78, 1330–130; Pub. L. 100–360, title II, §203(f), title IV, §411(e)(1)(B), July 1, 1988, 102 Stat. 725, 775; Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–239, title VI, §§6003(g)(3)(D)(vi), 6202(d)(1), Dec. 19, 1989, 103 Stat. 2153, 2234; Pub. L. 101–508, title IV, §4005(c)(1)(A), Nov. 5, 1990, 104 Stat. 1388–41; Pub. L. 103–66, title XIII, §13568(a), (b), Aug. 10, 1993, 107 Stat. 608; Pub. L. 103–432, title I, §§110(d)(2), 151(b)(1)(A), (2)(A), Oct. 31, 1994, 108 Stat. 4408, 4433, 4434; Pub. L. 104–191, title II, §202(b)(1), Aug. 21, 1996, 110 Stat. 1998; Pub. L. 105–33, title IV, §4201(c)(1), Aug. 5, 1997, 111 Stat. 373.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1816, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 297; amended Pub. L. 92–603, title II, §243(b), Oct. 30, 1972, 86 Stat. 1422; Pub. L. 95–142, §14(a), Oct. 25, 1977, 91 Stat. 1198; Pub. L. 96–499, title IX, §930(<i>o</i>), Dec. 5, 1980, 94 Stat. 2632; Pub. L. 97–248, title I, §122(c)(3), Sept. 3, 1982, 96 Stat. 359; Pub. L. 98–369, div. B, title III, §2326(b), (c)(1), (d)(1), July 18, 1984, 98 Stat. 1087; Pub. L. 99–509, title IX, §§9311(b), 9352(a)(2), Oct. 21, 1986, 100 Stat. 1997, 2044; Pub. L. 100–203, title IV, §§4031(a)(1), 4032(a), (b), 4035(a)(1), 4085(d)(1), Dec. 22, 1987, 101 Stat. 1330–75 to 1330–78, 1330–130; Pub. L. 100–360, title II, §203(f), title IV, §411(e)(1)(B), July 1, 1988, 102 Stat. 725, 775; Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–239, title VI, §§6003(g)(3)(D)(vi), 6202(d)(1), Dec. 19, 1989, 103 Stat. 2153, 2234; Pub. L. 101–508, title IV, §4005(c)(1)(A), Nov. 5, 1990, 104 Stat. 1388–41; Pub. L. 103–66, title XIII, §13568(a), (b), Aug. 10, 1993, 107 Stat. 608; Pub. L. 103–432, titleI, §§110(d)(2), 151(b)(1)(A), (2)(A), Oct. 31, 1994, 108 Stat. 4408, 4433, 4434; Pub. L. 104–191, title II, §202(b)(1), Aug. 21, 1996, 110 Stat. 1998; Pub. L. 105–33, title IV, §4201(c)(1), Aug. 5, 1997, 111 Stat. 373.)
 
 #### References in Text
 
@@ -292,7 +292,7 @@ Section 427 of Pub. L. 100–360, which provided that the Administrator of the H
 
 #### Amendments to Agreements and Contracts Necessary To Implement Section 4031(a) of Pub. L. 100–203
 
-Section 4031(a)(3)(B) of Pub. L. 100–203 provided that: “The Secretary of Health and Human Services shall provide for such timely amendments to agreements under section 1816 of the Social Security Act \[this section\] and contracts under section 1842 of such Act \[section 1395u of this title\], and regulations, to such extent as may be necessary to implement the provisions of this subsection \[amending this section and section 1395u of this title\] on a timely basis.”
+Section 4031(a)(3)(B) of Pub. L. 100–203 provided that: “The Secretary of Health and Human Services shall provide for such timely amendments to agreements under section 1816 of the Social Security Act \[this section\] and contracts under section 1842 of such Act \[section 1395u of this title\], and regulations, to such extentas may be necessary to implement the provisions of this subsection \[amending this section and section 1395u of this title\] on a timely basis.”
 
 #### Prohibition of Policies Other Than as Provided by Section 4031 of Pub. L. 100–203 Intended To Slow Down Medicare Payments; Budget Considerations
 
@@ -322,7 +322,7 @@ Section 2326(a) of Pub. L. 98–369, as amended by Pub. L. 98–617, §3(a)(2), 
 
 Section 118 of Pub. L. 97–248, as amended by Pub. L. 99–272, title IX, §9216(a), Apr. 7, 1986, 100 Stat. 180, provided that: “In addition to any funds otherwise provided for payments to intermediaries and carriers under agreements entered into under sections 1816 and 1842 of the Social Security Act \[this section and section 1395u of this title\], there are transferred from the Federal Hospital Insurance Trust Fund and the Federal Supplementary Medical Insurance Fund in such proportions as the Secretary of Health and Human Services determines to be appropriate, an additional $45,000,000 for each of fiscal years 1983, 1984, and 1985, and $105,000,000 for each of fiscal years 1986, 1987, and 1988 for payments to such intermediaries and carriers under such agreements to be used exclusively for purposes of carrying out provider cost audits, of reviewing medical necessity, and of recovering third-party liability payments, consistent with the provisions of sections 1816 and 1842 of the Social Security Act.”
 
-\[Section 9216(b) of Pub. L. 99–272 provided that: “The amendments made by subsection (a) \[amending section118 of Pub. L. 97–248, set out above\] shall apply to fiscal years beginning with fiscal year 1986.”\]
+\[Section 9216(b) of Pub. L. 99–272 provided that: “The amendments made by subsection (a) \[amending section 118 of Pub. L. 97–248, set out above\] shall apply to fiscal years beginning with fiscal year 1986.”\]
 
 #### Developmental Date for Standards, Criteria, and Procedures Pursuant to Subsec. (f) of This Section
 
@@ -330,7 +330,7 @@ Section 14(b) of Pub. L. 95–142 directed the Secretary of Health, Education, a
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1320a–3, 1320c–2, 1320c–3, 1395g, 1395u, 1395w–27, 1395hh, 1395mm, 1395<i>oo</i>, 1395pp, 1395ddd of this title.
+This section is referred to in sections 1320a–3, 1320c–2, 1320c–3, 1395g, 1395u, 1395w–27, 1395cc–2, 1395ff, 1395hh, 1395mm, 1395<i>oo</i>, 1395pp, 1395ddd of this title.
 
 <i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
 

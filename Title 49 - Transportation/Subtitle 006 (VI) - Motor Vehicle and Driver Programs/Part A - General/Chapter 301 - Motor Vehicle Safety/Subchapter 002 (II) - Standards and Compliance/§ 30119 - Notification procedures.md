@@ -126,7 +126,7 @@ In subsection (b), the words “in a notification under subsection (a)(5) of thi
 
 In subsection (c)(1), the words “Secretary's” and “that there is a defect or failure to comply” are omitted as surplus. The word “final” is added for clarity.
 
-In subsection (c)(2), the words “decides that a safety-related defect or noncompliance exists” are substituted for “makes a determination with respect to a defect or failure to comply” for clarity.
+In subsection (c)(2), the words “decides that a safety-related defect or noncompliance exists” are substitutedfor “makes a determination with respect to a defect or failure to comply” for clarity.
 
 In subsection (d), the text of 15:1413(c) (1st sentence words before cl. (1)) is incorporated into each paragraph as appropriate.
 
@@ -142,5 +142,5 @@ In subsection (e), the word “replacement” is added for clarity and consisten
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 30102, 30103, 30117, 30118, 30120, 30121, 30141, 30147, 30165, 30167 of this title.
+This section is referred to in sections 30102, 30103, 30117, 30118, 30120, 30121, 30141, 30147, 30165, 30166, 30167 of this title.
 

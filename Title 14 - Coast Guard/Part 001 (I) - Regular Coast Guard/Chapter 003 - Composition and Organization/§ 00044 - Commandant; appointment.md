@@ -34,7 +34,3 @@ Section 2 of Pub. L. 86–474 provided that: “The increased grade of admiral f
 
 Section 3 of Pub. L. 86–474 provided that: “Except as provided by section 2 \[set out as a note under this section\], the amendments by section 1 \[amending sections 41, 42, 44, 46, 47, 186 to 191, 222, 247(c), 365, and 462 of this title, and repealing sections 45, 48, and 49 of this title\] shall not operate to change or deprive the present incumbents serving as Commandant, Assistant Commandant \[now Vice Commandant\], and Engineer in Chief of any rights, benefits and privileges appertaining to such offices on the day preceding the date of enactment of this Act \[May 14, 1960\], nor to divest them of their offices for the terms appointed.”
 
-#### Cross References
-
-General powers of Commandant, see section 93 of this title.
-

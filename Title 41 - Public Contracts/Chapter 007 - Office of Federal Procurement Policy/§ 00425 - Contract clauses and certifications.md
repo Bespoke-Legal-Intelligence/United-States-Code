@@ -20,7 +20,7 @@ A provision of law may not be construed as requiring a certification by a contra
 
 &emsp;(B) written justification for such certification requirement is provided to the Administrator for Federal Procurement Policy by the Federal Acquisition Regulatory Council, and the Administrator approves in writing the inclusion of such certification requirement.
 
-(2)(A) A requirement for a certification by a contractor or offeror may not be included in aprocurement regulation of an executive agency unless—
+(2)(A) A requirement for a certification by a contractor or offeror may not be included in a procurement regulation of an executive agency unless—
 
 &emsp;(i) the certification requirement is specifically imposed by statute; or
 

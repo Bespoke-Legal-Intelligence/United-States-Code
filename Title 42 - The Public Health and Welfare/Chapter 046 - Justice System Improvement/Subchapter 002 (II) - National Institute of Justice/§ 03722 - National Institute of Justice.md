@@ -6,7 +6,7 @@ There is established within the Department of Justice, under the general authori
 
 #### (b) Director of Institute; appointment by President; authority; restrictions
 
-The Institute shall be headed by a Director appointed by the President, by and with the advice and consent of the Senate. The Director shall have had experience in justice research. The Director shall report to the Attorney General through the Assistant Attorney General. The Director shall have final authority over all grants, cooperative agreements, and contracts awarded by the Institute. The Director shall not engage in any other employment than that of serving as Director; nor shall the Director hold any office in, or act in any capacity for, any organization, agency, or institution with which the Institute makes any contract or other arrangement under this chapter.
+The Institute shall be headed by a Director appointed by the President, by and with the advice and consent of the Senate. The Director shall have had experience in justice research. The Director shall report to the Attorney General through the Assistant Attorney General. TheDirector shall have final authority over all grants, cooperative agreements, and contracts awarded by the Institute. The Director shall not engage in any other employment than that of serving as Director; nor shall the Director hold any office in, or act in any capacity for, any organization, agency, or institution with which the Institute makes any contract or other arrangement under this chapter.
 
 #### (c) Duties and functions
 
@@ -62,7 +62,7 @@ To insure that all criminal and civil justice research is carried out in a coord
 
 #### Prior Provisions
 
-A prior section 3722, Pub. L. 90–351, title I, §202, June 19, 1968, 82 Stat. 198; Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 198, provided for making of grants to State planning agencies, prior to the general amendment of this chapter by Pub. L. 96–157.
+A prior section 3722, Pub. L. 90–351, title I, §202, June 19, 1968, 82 Stat. 198; Pub. L. 93–83, §2, Aug. 6, 1973, 87Stat. 198, provided for making of grants to State planning agencies, prior to the general amendment of this chapter by Pub. L. 96–157.
 
 #### Amendments
 

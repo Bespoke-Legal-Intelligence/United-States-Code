@@ -8,7 +8,7 @@ It is the purpose of this subchapter to promote school readiness by enhancing th
 
 1998—Pub. L. 105–285 amended section catchline and text generally. Prior to amendment, text read as follows:
 
-“(a) In recognition of the role which Project Head Start has played in the effective delivery of comprehensive health, educational, nutritional, social, and other services to economically disadvantaged children and their families, it is the purpose of this subchapter to extend the authority for the appropriation of funds for such program.
+“(a) In recognition of the role which Project Head Start has played in the effective delivery of comprehensive health, educational, nutritional, social, and other services to economically disadvantaged children andtheir families, it is the purpose of this subchapter to extend the authority for the appropriation of funds for such program.
 
 “(b) In carrying out the provisions of this subchapter, the Secretary of Health and Human Services shall continue the administrative arrangement responsible for meeting the needs of migrant, non-English language background, and Indian children and shall assure that appropriate funding is provided to meet such needs.”
 

@@ -7,7 +7,7 @@
 
 - [&sect; 00081 - Place of business](%C2%A7%2000081%20-%20Place%20of%20business.md)
 - [&sect; 00082 - Repealed. Pub. L. 97&#8211;320, title IV, &sect;402, Oct. 15, 1982, 96 Stat. 1510](%C2%A7%2000082%20-%20Repealed.%20Pub.%20L.%2097%E2%80%93320%2C%20title%20IV%2C%20%C2%A7402%2C%20Oct.%2015%2C%201982%2C%2096%20Stat.%201510.md)
-- [&sect; 00083 - Loans on or purchase by bank of own stock](%C2%A7%2000083%20-%20Loans%20on%20or%20purchase%20by%20bank%20of%20own%20stock.md)
+- [&sect; 00083 - Loans by bank on its own stock](%C2%A7%2000083%20-%20Loans%20by%20bank%20on%20its%20own%20stock.md)
 - [&sect; 00084 - Lending limits](%C2%A7%2000084%20-%20Lending%20limits.md)
 - [&sect; 00085 - Rate of interest on loans, discounts and purchases](%C2%A7%2000085%20-%20Rate%20of%20interest%20on%20loans%2C%20discounts%20and%20purchases.md)
 - [&sect; 00086 - Usurious interest; penalty for taking; limitations](%C2%A7%2000086%20-%20Usurious%20interest%3B%20penalty%20for%20taking%3B%20limitations.md)

@@ -50,7 +50,7 @@ Regulations to carry out this part may not require local programs to follow a pa
 
 The Federal Advisory Committee Act, referred to in subsec. (b)(4)(B), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-The Negotiated Rulemaking Act of 1990, referred to in subsec. (b)(4)(B), is Pub. L. 101–648, Nov. 29, 1990, 104 Stat. 4969, which enacted subchapter III (§561 et seq.) of chapter 5 of Title 5 and provisions set out as notesunder section 561 of Title 5. For complete classification of this Act to the Code, see Short Title note set out under section 561 of Title 5 and Tables.
+The Negotiated Rulemaking Act of 1990, referred to in subsec. (b)(4)(B), is Pub. L. 101–648, Nov. 29, 1990, 104 Stat. 4969, which enacted subchapter III (§561 et seq.) of chapter 5 of Title 5 and provisions set out as notes under section 561 of Title 5. For complete classification of this Act to the Code, see Short Title note set out under section 561 of Title 5 and Tables.
 
 #### Section Referred to in Other Sections
 

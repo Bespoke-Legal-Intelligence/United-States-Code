@@ -210,6 +210,10 @@ In subsection (f)(4)(A)(i), the words “imposing” and “with respect to such
 
 Subsec. (d)(3). Pub. L. 105–134, §107(b), added par. (3).
 
+#### General Services Administration Services
+
+Pub. L. 106–554, §1(a)(4) \[div. A, §1110\], Dec. 21, 2000, 114 Stat. 2763, 2763A–202, provided that: “Amtrak is authorized to obtain services from the Administrator of General Services, and the Administrator is authorized to provide services to Amtrak, under sections 201(b) and 211(b) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 481(b) and 491(b)) for fiscal year 2001 and each fiscal year thereafter until the fiscal year that Amtrak operates without Federal operating grant funds appropriated for its benefit, as required by sections 24101(d) and 24104(a) of title 49, United States Code.”
+
 #### Rail and Motor Carrier Passenger Service
 
 Pub. L. 105–134, title I, §108, Dec. 2, 1997, 111 Stat. 2574, provided that:

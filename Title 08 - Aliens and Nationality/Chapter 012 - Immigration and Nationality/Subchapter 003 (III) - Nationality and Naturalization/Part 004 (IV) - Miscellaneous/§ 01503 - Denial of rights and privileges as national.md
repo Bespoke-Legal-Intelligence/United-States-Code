@@ -24,26 +24,6 @@ Subsec. (c). Pub. L. 104–208, §308(d)(4)(P)(ii), substituted “denied admiss
 
 Amendment by Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
-#### Cross References
-
-Definition of the term—
-
-&emsp;&emsp;Alien, see section 1101(a)(3) of this title.
-
-&emsp;&emsp;Application for admission, see section 1101(a)(4) of this title.
-
-&emsp;&emsp;Attorney General, see section 1101(a)(5) of this title.
-
-&emsp;&emsp;Consular officer, see section 1101(a)(9) of this title.
-
-&emsp;&emsp;National of the United States, see section 1101(a)(22) of this title.
-
-&emsp;&emsp;Residence, see section 1101(a)(33) of this title.
-
-&emsp;&emsp;United States, see section 1101(a)(38) of this title.
-
-Judicial review of orders of deportation and exclusion, see section 1105a of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1501 of this title.

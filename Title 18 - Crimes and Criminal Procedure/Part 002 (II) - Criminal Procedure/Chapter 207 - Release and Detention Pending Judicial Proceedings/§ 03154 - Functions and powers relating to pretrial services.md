@@ -12,7 +12,7 @@ Pretrial services functions shall include the following:
 
 &emsp;(5) Inform the court and the United States attorney of all apparent violations of pretrial release conditions, arrests of persons released to the custody of providers of pretrial services or under the supervision of providers of pretrial services, and any danger that any such person may come to pose to any other person or the community, and recommend appropriate modifications of release conditions.
 
-&emsp;(6) Serve as coordinator for other local agencies which serve or are eligible to serve as custodians under this chapter and advise thecourt as to the eligibility, availability, and capacity of such agencies.
+&emsp;(6) Serve as coordinator for other local agencies which serve or are eligible to serve as custodians under this chapter and advise the court as to the eligibility, availability, and capacity of such agencies.
 
 &emsp;(7) Assist persons released under this chapter in securing any necessary employment, medical, legal, or social services.
 

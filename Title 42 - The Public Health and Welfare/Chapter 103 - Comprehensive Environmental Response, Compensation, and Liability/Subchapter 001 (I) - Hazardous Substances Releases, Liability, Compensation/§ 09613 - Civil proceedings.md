@@ -2,7 +2,7 @@
 
 #### (a) Review of regulations in Circuit Court of Appeals of the United States for the District of Columbia
 
-Review of any regulation promulgated under this chapter may be had upon application by anyinterested person only in the Circuit Court of Appeals of the United States for the District of Columbia. Any such application shall be made within ninety days from the date of promulgation of such regulations. Any matter with respect to which review could have been obtained under this subsection shall not be subject to judicial review in any civil or criminal proceeding for enforcement or to obtain damages or recovery of response costs.
+Review of any regulation promulgated under this chapter may be had upon application by any interested person only in the Circuit Court of Appeals of the United States for the District of Columbia. Any such application shall be made within ninety days from the date of promulgation of such regulations. Any matter with respect to which review could have been obtained under this subsection shall not be subject to judicial review in any civil or criminal proceeding for enforcement or to obtain damages or recovery of response costs.
 
 #### (b) Jurisdiction; venue
 
@@ -58,7 +58,7 @@ In any action by the United States under this chapter, process may be served in 
 
 &emsp;&emsp;(B) for a remedial action, within 6 years after initiation of physical on-site construction of the remedial action, except that, if the remedial action is initiated within 3 years after the completion of the removal action, costs incurred in the removal action may be recovered in the cost recovery action brought under this subparagraph.
 
-> &emsp;In any such action described in this subsection, the court shall enter a declaratory judgment on liability for response costs or damages that will be binding on any subsequent action or actions to recover further response costs or damages. A subsequent action or actions under section 9607 of this title for further response costs at the vessel or facility may be maintained at any time during the response action, but must be commenced no later than 3 years after the date of completion of all response action. Except as otherwise provided in this paragraph, an action may be commenced under section 9607 of this title for recovery of costs at any time after such costs have been incurred.
+> &emsp;In any such action described in this subsection, the court shall enter a declaratory judgment on liability for response costs ordamages that will be binding on any subsequent action or actions to recover further response costs or damages. A subsequent action or actions under section 9607 of this title for further response costs at the vessel or facility may be maintained at any time during the response action, but must be commenced no later than 3 years after the date of completion of all response action. Except as otherwise provided in this paragraph, an action may be commenced under section 9607 of this title for recovery of costs at any time after such costs have been incurred.
 
 #### (3) Contribution
 
@@ -110,7 +110,7 @@ In any action commenced under this chapter or under the Solid Waste Disposal Act
 
 #### (2) Standard
 
-&emsp;In considering objections raised in any judicial action under this chapter, the court shall uphold the President's decision in selecting the response action unless the objecting partycan demonstrate, on the administrative record, that the decision was arbitrary and capricious or otherwise not in accordance with law.
+&emsp;In considering objections raised in any judicial action under this chapter, the court shall uphold the President's decision in selecting the response action unless the objecting party can demonstrate, on the administrative record, that the decision was arbitrary and capricious or otherwise not in accordance with law.
 
 #### (3) Remedy
 

@@ -12,11 +12,11 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1992—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1992</b>—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-1982—Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims” and “enter judgment” for “report findings”.
+<b>1982</b>—Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims” and “enter judgment” for “report findings”.
 
-1954—Act Sept. 3, 1954, substituted “Trial before judges” for “Place of taking evidence” in section catchline and repealed second par. relating to taking of testimony.
+<b>1954</b>—Act Sept. 3, 1954, substituted “Trial before judges” for “Place of taking evidence” in section catchline and repealed second par. relating to taking of testimony.
 
 #### Effective Date of 1992 Amendment
 

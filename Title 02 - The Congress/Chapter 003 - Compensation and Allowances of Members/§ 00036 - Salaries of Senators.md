@@ -26,7 +26,3 @@ R.S. §51.
 
 The first section of amendment XX to the Constitution provides in part: “\* \* \* the terms of Senators and Representatives \[shall end\] at noon on the 3d day of January, of the years in which such terms would have ended if this article had not been ratified; and the terms of their successors shall then begin.”
 
-#### Cross References
-
-Claims for overpayment or pay or allowances to Senators, see section 130c of this title.
-

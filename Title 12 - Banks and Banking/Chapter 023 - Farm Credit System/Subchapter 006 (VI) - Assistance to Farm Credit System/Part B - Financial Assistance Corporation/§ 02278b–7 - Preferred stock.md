@@ -14,7 +14,7 @@
 
 #### (B) Exception
 
-&emsp;&emsp;Stock issued under this section shall be issued under such terms and conditions as to enable the Secretary of the Treasury, withrespect to any of such stock the Secretary purchases under section 2278b–6(d)(3)(B)(iii) of this title, and the Farm Credit System Insurance Corporation, with respect to any of such stock that the Insurance Corporation purchases or otherwise acquires under section 2278b–6(d)(3)(B)(iii) of this title or section 2278b–6(d)(4)(B)(ii) of this title, to establish for such stock a stated dividend rate equal to the current market yield on outstanding, marketable obligations of the United States with maturities of 30 years, plus a premium to reflect the cost of capital for institutions in financial distress.
+&emsp;&emsp;Stock issued under this section shall be issued under such terms and conditions as to enable the Secretary of the Treasury, with respect to any of such stock the Secretary purchases under section 2278b–6(d)(3)(B)(iii) of this title, and the Farm Credit System Insurance Corporation, with respect to any of such stock that the Insurance Corporation purchases or otherwise acquires under section 2278b–6(d)(3)(B)(iii) of this title or section 2278b–6(d)(4)(B)(ii) of this title, to establish for such stock a stated dividend rate equal to the current market yield on outstanding, marketable obligations of the United States with maturities of 30 years, plus a premium to reflect the cost of capital for institutions in financial distress.
 
 #### (3) Voting rights
 

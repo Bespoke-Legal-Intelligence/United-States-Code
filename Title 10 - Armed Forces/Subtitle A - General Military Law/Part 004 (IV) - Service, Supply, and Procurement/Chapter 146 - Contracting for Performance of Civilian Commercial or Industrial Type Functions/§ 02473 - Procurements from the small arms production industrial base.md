@@ -32,7 +32,7 @@ Applicability.—This section applies only to procurements of covered property a
 
 (e)
 
-Submission of Certified Cost or Pricing Data.—If a procurement under subsection (a) is a procurement of a commercial item, the Secretary may, notwithstanding section 2306a(b)(1)(B) of this title, require the submission of certified cost or pricing data under section 2306a(a) of this title.
+Submission of Certified Cost or Pricing Data.—If a procurement under subsection (a) is a procurement of a commercial item, the Secretary may, notwithstanding section2306a(b)(1)(B) of this title, require the submission of certified cost or pricing data under section 2306a(a) of this title.
 
 (Added Pub. L. 104–201, div. A, title VIII, §832(a), Sept. 23, 1996, 110 Stat. 2616; amended Pub. L. 105–261, div. A, title VIII, §809(a)–(d), Oct. 17, 1998, 112 Stat. 2085, 2086; Pub. L. 106–65, div. A, title VIII, §815(b), Oct. 5, 1999, 113 Stat. 712.)
 
@@ -42,7 +42,7 @@ Submission of Certified Cost or Pricing Data.—If a procurement under subsectio
 
 Subsec. (b)(2). Pub. L. 106–65, §815(b)(2), inserted “such” after “Modifications of”.
 
-1998—Subsec. (a). Pub. L. 105–261, §809(a), substituted “Requirement” for “Authority” in heading and “Inorder to preserve the small arms production industrial base, the Secretary of Defense shall” for “To the extent that the Secretary of Defense determines necessary to preserve the small arms production industrial base, the Secretary may” in text, and inserted before period at end “, unless the Secretary determines, with regard to a particular procurement, that such requirement is not necessary to preserve the small arms production industrial base”.
+1998—Subsec. (a). Pub. L. 105–261, §809(a), substituted “Requirement” for “Authority” in heading and “In order to preserve the small arms production industrial base, the Secretary of Defense shall” for “To the extent that the Secretary of Defense determines necessary to preserve the small arms production industrial base, the Secretary may” in text, and inserted before period at end “, unless the Secretary determines, with regard to a particular procurement, that such requirement is not necessary to preserve the small arms production industrial base”.
 
 Subsec. (b). Pub. L. 105–261, §809(b), (c)(1), substituted “Subject to subsection (d), subsection” for “Subsection” in introductory provisions and inserted “, including repair parts consisting of barrels, receivers, and bolts” before period in par. (1).
 

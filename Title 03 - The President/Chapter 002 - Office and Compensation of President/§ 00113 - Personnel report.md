@@ -26,6 +26,10 @@ For the effective date of this section, referred to in subsec. (a), see section 
 
 Section applicable to any fiscal year beginning on or after Oct. 1, 1978, see section 6(a) of Pub. L. 95–570, set out as an Effective Date of 1978 Amendment note under section 102 of this title.
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the report required by subsec. (a) of this section is listed on page 21), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.

@@ -44,26 +44,6 @@ Section 1 of Pub. L. 89–465 provided: “That this Act \[enacting sections 314
 
 Section 2 of Pub. L. 89–465 provided that: “The purpose of this Act \[enacting sections 3146 to 3152 of this title, amending sections 3041, 3141 to 3143, and 3568 of this title and enacting provisions set out as a note above\] is to revise the practices relating to bail to assure that all persons, regardless of their financial status, shall not needlessly be detained pending their appearance to answer charges, to testify, or pending appeal, when detention serves neither the ends of justice nor the public interest.”
 
-#### Federal Rules of Criminal Procedure
-
-Amount of bail may be fixed by court and endorsed on warrant, see rule 9, Appendix to this title.
-
-Release from custody—
-
-&emsp;Generally, see rule 46.
-
-&emsp;Criminal contempt proceedings, see rule 42.
-
-&emsp;Removal proceedings, see rule 40.
-
-Secrecy of indictment pending defendant's custody or release pending trial, see rule 6.
-
-United States magistrate judges authorized to detain or conditionally release arrested persons, see rule 5.
-
-#### Cross References
-
-Power of courts and magistrate judges to arrest, detain, or conditionally release Federal offenders, see section 3041 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 3156 of this title.

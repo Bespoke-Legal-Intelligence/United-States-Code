@@ -12,7 +12,7 @@ Subsequent to the commencement of the use of the property described in subsectio
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (a), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title III of the Act is classified generally to subchapter III (§501 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (a), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title III of the Act is classified generally to subchapter III\(§501 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The Wagner-Peyser Act, referred to in subsec. (a), is act June 6, 1933, ch. 49, 48 Stat. 113, as amended, which is classified generally to chapter 4B (§49 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 49 of this title and Tables.
 

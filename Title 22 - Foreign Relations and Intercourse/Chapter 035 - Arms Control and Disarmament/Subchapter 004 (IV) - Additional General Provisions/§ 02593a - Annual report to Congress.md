@@ -38,7 +38,7 @@ If the President in consecutive reports submitted to the Congress under this sec
 
 #### (d) Additional requirement
 
-Each report required by this section shall include a discussion of each significant issue described in subsection (a)(6) of this section that was contained in a previous report issued under this section during 1995, or after December 31, 1995, until the question or concern has been resolved and such resolution has been reported in detail to the appropriate committees of Congress (as defined in section 1102(1) of the Arms Control, Non-Proliferation, and Security Assistance Act of 1999).
+Each report required by this section shall include a discussion of each significant issue described in subsection (a)(6) of this section that was contained in a previous report issued under this section during 1995, or after December 31, 1995, until the question or concern has been resolved and such resolution has been reported in detail to the appropriate committees of Congress (as defined in section 1102(1) of the ArmsControl, Non-Proliferation, and Security Assistance Act of 1999).
 
 (Pub. L. 87–297, title IV, §403, formerly §51, as added and amended Pub. L. 103–236, title VII, §717(a)(3), title VIII, §828(a), Apr. 30, 1994, 108 Stat. 498, 520; renumbered §403 and amended, Pub. L. 105–277, div. G, subdiv. A, title XII, §1223(15), (21), Oct. 21, 1998, 112 Stat. 2681–771, 2681–772; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1113\], Nov. 29, 1999, 113 Stat. 1536, 1501A–487.)
 
@@ -84,7 +84,7 @@ Amendment by section 828(a) of Pub. L. 103–236 effective 60 days after Apr. 30
 
 #### Requirement for Transmittal of Summaries
 
-Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1118\], Nov. 29, 1999, 113 Stat. 1536, 1501A–489, provided that: “Whenever a United States delegation engaging in negotiations on arms control, nonproliferation, or disarmament submits to the Secretary of State a summary of the activities of the delegation or the status of those negotiations, a copy of each such summary shall be further transmitted by the Secretary of State to the Committee on Foreign Relations of the Senate and tothe Committee on International Relations of the House of Representatives promptly.”
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1118\], Nov. 29, 1999, 113 Stat. 1536, 1501A–489, provided that: “Whenever a United States delegation engaging in negotiations on arms control, nonproliferation, or disarmament submits to the Secretary of State a summary of the activities of the delegation or the status of those negotiations, a copy of each such summary shall be further transmitted by the Secretary of State to the Committee on Foreign Relations of the Senate and to the Committee on International Relations of the House of Representatives promptly.”
 
 #### Transmission of Executive Branch Reports Providing Congress With Classified Summaries of Arms Control Developments
 

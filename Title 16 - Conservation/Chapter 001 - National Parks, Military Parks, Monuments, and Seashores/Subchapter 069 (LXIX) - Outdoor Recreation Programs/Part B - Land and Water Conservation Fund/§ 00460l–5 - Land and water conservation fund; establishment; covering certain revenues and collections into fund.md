@@ -22,7 +22,7 @@ The amounts provided for in section 460<i>l</i>–11 of this title.
 
 The provisions of the Independent Offices Appropriation Act, referred to in subsec. (a), are the provisions of Pub. L. 87–741, Oct. 3, 1962, 76 Stat. 716, appearing under the heading “Operating Expenses, Utilization and Disposal Service” which were not classified to the Code.
 
-The Federal Property and Administrative Services Act of 1949, as amended, referred to in subsec. (a), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Provisions of that act relating to disposal of Government property are classified to chapter 10 (§471 et seq.) of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
+The Federal Property and Administrative Services Act of 1949, as amended, referred to in subsec. (a), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Provisions of that act relating to disposal of Government property are classified to chapter 10 (§471 et seq.) of Title 40, Public Buildings, Property, and Works. Forcomplete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
 
 The Outer Continental Shelf Lands Act, referred to in subsec. (c)(2), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1331 of Title 43 and Tables.
 
@@ -128,7 +128,7 @@ Sec. 6. <i>Coordination</i>. (a) The Secretary of the Interior shall after consu
 
 (3) Review and revision, if needed, of the criteria for designation set forth in Section 3 of this Order.
 
-(d) Except with respect to the schedule of fees and the criteria prescribed by the Secretary pursuant to subsection (b)(1) of this section, measures and regulations adopted by the Secretary pursuant to this Order shall not become effective until 30 days after they are presented for the consideration of the other officials described in Section 1(b). Any such official who does not concur in any such measure or regulation may, within that 30-day period, refer the matter to the Recreation Advisory Council established under Executive Order No. 11017 \[superseded by Ex. Ord. No. 11278, which in turn was revoked by Ex. Ord. No. 11472 which is set out as a note under section 4321 of Title 42\] for resolution.If a proposed measure is referred to the Council for resolution, it shall not become effective until approved by the Council. With the approval of all other officials described in Section 1(b) of this Order, the provisions of this subsection may be waived with respect to any specific measure or regulation adopted by the Secretary of the Interior pursuant to this order so that any such measure or regulation may be made effective before the expiration of the 30-day waiting period prescribed by the first sentence of this subsection.
+(d) Except with respect to the schedule of fees and the criteria prescribed by the Secretary pursuant to subsection (b)(1) of this section, measures and regulations adopted by the Secretary pursuant to this Order shall not become effective until 30 days after they are presented for the consideration of the other officials described in Section 1(b). Any such official who does not concur in any such measure or regulation may, within that 30-day period, refer the matter to the Recreation Advisory Council established under Executive Order No. 11017 \[superseded by Ex. Ord. No. 11278, which in turn was revoked by Ex. Ord. No. 11472 which is set out as a note under section 4321 of Title 42\] for resolution. If a proposed measure is referred to the Council for resolution, it shall not become effective until approved by the Council. With the approval of all other officials described in Section 1(b) of this Order, the provisions of this subsection may be waived with respect to any specific measure or regulation adopted by the Secretary of the Interior pursuant to this order so that any such measure or regulation may be made effective before the expiration of the 30-day waiting period prescribed by the first sentence of this subsection.
 
 Sec. 7. <i>Review of contracts</i>. The officials described in Section 1(b) of this Order shall, within a reasonable time, review all existing contracts and other arrangements between their respective agencies and any non-Federal public entity which relate to non-Federal management of Federally-owned outdoor recreation areas. Special attention shall be given to any provision in any such contract or other arrangement which prohibits or discourages in any way such non-Federal public entity from charging recreation user fees. Unless otherwise prohibited by law, each such restrictive provision shall be the subject of renegotiation designed to accomplish a modification thereof that will permit the charging of recreation user fees.
 
@@ -136,15 +136,9 @@ Sec. 8. <i>Regulations</i>. The Secretary of the Interior is authorized to issue
 
 Lyndon B. Johnson.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Cross References
-
-Distribution of surplus government property, see section 485 of Title 40, Public Buildings, Property, and Works, and section 1622 of Title 50, Appendix, War and National Defense.
-
-Uniform application of Pub. L. 90–401, July 15, 1968, classified to this section and sections 460<i>l</i>–7, 460<i>l</i>–9, 460<i>l</i>–10a to 460<i>l</i>–10c, and 460<i>l</i>–22 of this title, to all areas of national park system when not in conflict with specific provisions applicable to an area, see section 1c of this title.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 460<i>l</i>–7, 460<i>l</i>–10, 1248, 2508 of this title; title 40 section 885.
+This section is referred to in sections 460<i>l</i>–7, 460<i>l</i>–10, 460nnn–122, 1248, 2508 of this title; title 40 section 885.
 
 <i><sup>1</sup></i><i> So in original. Probably should be section “485(b)–(e)”.</i>
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Commitment to Custody of Bureau of Prisons.—A person who has been sentenced to aterm of imprisonment pursuant to the provisions of subchapter D of chapter 227 shall be committed to the custody of the Bureau of Prisons until the expiration of the term imposed, or until earlier released for satisfactory behavior pursuant to the provisions of section 3624.
+Commitment to Custody of Bureau of Prisons.—A person who has been sentenced to a term of imprisonment pursuant to the provisions of subchapter D of chapter 227 shall be committed to the custody of the Bureau of Prisons until the expiration of the term imposed, or until earlier released for satisfactory behavior pursuant to the provisions of section 3624.
 
 (b)
 
@@ -86,7 +86,7 @@ Authorization of appropriations.—There are authorized to be appropriated to ca
 
 Definitions.—As used in this subsection—
 
-&emsp;&emsp;(A) the term “residential substance abuse treatment” means a course of individual and group activities, lasting between 6 and 12months, in residential treatment facilities set apart from the general prison population—
+&emsp;&emsp;(A) the term “residential substance abuse treatment” means a course of individual and group activities, lasting between 6 and 12 months, in residential treatment facilities set apart from the general prison population—
 
 &emsp;&emsp;&emsp;(i) directed at the substance abuse problems of the prisoner; and
 

@@ -18,19 +18,3 @@ Other provisions of section 124 of title 28, U.S.C., 1940 ed., were retained in 
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $3,000”.
 
-#### Cross References
-
-Bribery, generally, see section 201 et seq. of this title.
-
-Civil actions against trustees and receivers, see section 959 of Title 28, Judiciary and Judicial Procedure.
-
-Embezzlement, see section 645 of this title.
-
-Fee agreements, punishment, see section 155 of this title.
-
-Investigation of violation of laws, see section 3057 of this title.
-
-Management of property by trustees and receivers according to State laws, see section 959 of Title 28, Judiciary and Judicial Procedure.
-
-National banks, embezzlement or misapplication of funds, see section 656 of this title.
-

@@ -18,7 +18,7 @@ The Congress affirms the reality of the special and unique educational needs of 
 
 #### (e) Federal relations
 
-The Congress declares its commitment to these policies and its support, to the full extentof its responsibility, for Federal relations with the Indian Nations.
+The Congress declares its commitment to these policies and its support, to the full extent of its responsibility, for Federal relations with the Indian Nations.
 
 #### (f) Termination
 

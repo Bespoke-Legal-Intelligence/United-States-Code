@@ -20,7 +20,3 @@ Act Mar. 3, 1911, conferred powers and duties of former circuit courts on distri
 
 Section 20(b) of Pub. L. 97–457 provided that: “The amendment made by subsection (a) \[amending this section\] shall be deemed to have taken effect upon the enactment of Public Law 97–320 \[Oct. 15, 1982\].”
 
-#### Cross References
-
-Jurisdiction and venue in suits against national banks, see sections 1348 and 1394 of Title 28, Judiciary and Judicial Procedure.
-

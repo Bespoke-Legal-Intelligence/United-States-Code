@@ -2,7 +2,7 @@
 
 (a) Omitted
 
-(b) One-half of the unobligated balance remaining before December 11, 1980, under subsection (k) <sup>1</sup> of section 1321 of title 33 and all sums appropriated under section 1364(b) <sup>1</sup> of title 33 shall be transferred to the Fund established under subchapter II <sup>1</sup> of this chapter.
+(b) One-half of the unobligated balance remaining before December 11, 1980, under subsection (k) <sup>1</sup> of section 1321 of title 33 and allsums appropriated under section 1364(b) <sup>1</sup> of title 33 shall be transferred to the Fund established under subchapter II <sup>1</sup> of this chapter.
 
 (c) In any case in which any provision of section 1321 of title 33 is determined to be in conflict with any provisions of this chapter, the provisions of this chapter shall apply.
 

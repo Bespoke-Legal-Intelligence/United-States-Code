@@ -34,10 +34,6 @@ This section \[section 3\] corrects a typographical error in section 114 of titl
 
 1949—Act May 24, 1949, corrected spelling of “maim”.
 
-#### Cross References
-
-Actions aboard aircraft in special aircraft jurisdiction of United States in violation of this section punishable as provided herein, see section 46506 of Title 49, Transportation.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in title 49 section 46506.

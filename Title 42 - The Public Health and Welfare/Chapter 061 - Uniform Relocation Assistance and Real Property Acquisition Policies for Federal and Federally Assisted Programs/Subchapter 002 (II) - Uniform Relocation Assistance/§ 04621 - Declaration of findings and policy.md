@@ -16,7 +16,7 @@ The Congress finds and declares that—
 
 #### (b) Policy
 
-This subchapter establishes a uniform policy for the fair and equitable treatment of persons displaced as a direct result of programs or projects undertaken by a Federal agency or with Federal financial assistance. The primary purpose of this subchapter is to ensure that such persons shall not suffer disproportionate injuries as a result of programs and projects designed for the benefit of the public as a whole and to minimize the hardship of displacement on such persons.
+This subchapter establishes a uniform policy for the fair and equitable treatment of personsdisplaced as a direct result of programs or projects undertaken by a Federal agency or with Federal financial assistance. The primary purpose of this subchapter is to ensure that such persons shall not suffer disproportionate injuries as a result of programs and projects designed for the benefit of the public as a whole and to minimize the hardship of displacement on such persons.
 
 #### (c) Congressional intent
 

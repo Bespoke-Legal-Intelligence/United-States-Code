@@ -2,7 +2,7 @@
 
 (a)
 
-General Requirements.—The Secretary of Transportation shall designate current or former military airports for which grants may be made under section 47117(e)(1)(B) of this title. The maximum number of airports bearing such designation at any time is 12. The Secretary may only so designate an airport (other than an airport so designated before August 24, 1994) if—
+General Requirements.—The Secretary of Transportation shall designate current or former military airports for which grants may be made under section 47117(e)(1)(B) of this title. The maximum number of airports bearing such designation at any time is 15. The Secretary may only so designate an airport (other than an airport so designated before August 24, 1994) if—
 
 &emsp;(1) the airport is a former military installation closed or realigned under—
 
@@ -12,27 +12,27 @@ General Requirements.—The Secretary of Transportation shall designate current 
 
 &emsp;&emsp;(C) section 2905 of the Defense Base Closure and Realignment Act of 1990 (10 U.S.C. 2687 note); or
 
-&emsp;(2) the Secretary finds that such grants would—
-
-&emsp;&emsp;(A) reduce delays at an airport with more than 20,000 hours of annual delays in commercial passenger aircraft takeoffs and landings; or
-
-&emsp;&emsp;(B) enhance airport and air traffic control system capacity in a metropolitan area or reduce current and projected flight delays.
+&emsp;(2) the airport is a military installation with both military and civil aircraft operations.
 
 (b)
 
-Survey.—Not later than September 30, 1991, the Secretary shall complete a survey of current and former military airports to identify which airports have the greatest potential to improve the capacity of the national air transportation system. The survey shall identify the capital development needs of those airports to make them part of the system and which ofthose qualify for grants under section 47104 of this title.
+Survey.—Not later than September 30, 1991, the Secretary shall complete a survey of current and former military airports to identify which airports have the greatest potential to improve the capacity of the national air transportation system. The survey shall identify the capital development needs of those airports to make them part of the system and which of those qualify for grants under section 47104 of this title.
 
 (c)
 
-Considerations.—In carrying out this section, the Secretary shall consider only current or former military airports that, when at least partly converted to civilian commercial or reliever airports as part of the national air transportation system, will enhance airport and air traffic control system capacity in major metropolitan areas and reduce current and projected flight delays.
+Considerations.—In carrying out this section, the Secretary shall consider only current or former military airports for designation under this section if a grant under section 47117(e)(1)(B) would—
+
+&emsp;(1) reduce delays at an airport with more than 20,000 hours of annual delays in commercial passenger aircraft takeoffs and landings; or
+
+&emsp;(2) enhance airport and air traffic control system capacity in a metropolitan area or reduce current and projected flight delays.
 
 (d)
 
-Grants.—Grants under section 47117(e)(1)(E) <sup>1</sup> of this title may be made for an airport designated under subsection (a) of this section for the 5 fiscal years following the designation, and for subsequent 5-fiscal-year periods if the Secretary determines that the airport satisfies the designation criteria under subsection (a) at the beginning of each such subsequent 5-fiscal-year period.
+Grants.—Grants under section 47117(e)(1)(B) of this title may be made for an airport designated under subsection (a) of this section for the 5 fiscal years following the designation, and for subsequent periods, each not to exceed 5 fiscal years, if the Secretary determines that the airport satisfies the designation criteria under subsection (a) at the beginning of each such subsequent period.
 
 (e)
 
-Terminal Building Facilities.—Not more than $5,000,000 for each airport from amounts the Secretary distributes under section 47115 of this title for a fiscal year is available to the sponsor of a current or former military airport the Secretary designates under this section to construct, improve, or repair a terminal building facility, including terminal gates used for revenue passengers getting on or off aircraft. A gate constructed, improved, or repaired under this subsection—
+Terminal Building Facilities.—Not more than $7,000,000 for each airport from amounts the Secretary distributes under section 47115 of this title for a fiscal year is available to the sponsor of a current or former military airport the Secretary designates under this section to construct, improve, or repair a terminal building facility, including terminal gates used for revenue passengers getting on or off aircraft. A gate constructed, improved, or repaired under this subsection—
 
 &emsp;(1) may not be leased for more than 10 years; and
 
@@ -40,9 +40,13 @@ Terminal Building Facilities.—Not more than $5,000,000 for each airport from a
 
 (f)
 
-Parking Lots, Fuel Farms, Utilities, and Hangars.—Not more than a total of $4,000,000 for each airport from amounts the Secretary distributes under section 47115 of this title for fiscal years beginning after September 30, 1992, is available to the sponsor of a current or former military airport the Secretary designates under this section to construct, improve, or repair airport surface parking lots, fuel farms, utilities, and hangars.
+Parking Lots, Fuel Farms, Utilities, Hangars, and Air Cargo Terminals.—Not more than a total of $7,000,000 for each airport from amounts the Secretary distributes under section 47115 of this title for fiscal years beginning after September 30, 1992, is available to the sponsor of a current or former military airport the Secretary designates under this section to construct, improve, or repair airport surface parking lots, fuel farms, utilities, and hangars and air cargo terminals of an area that is 50,000 square feet or less.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1273; Pub. L. 103–305, title I, §116(b)–(d), Aug. 23, 1994, 108 Stat. 1579; Pub. L. 104–264, title I, §124(a)–(c), Oct. 9, 1996, 110 Stat. 3219, 3220; Pub. L. 104–287, §5(83), Oct. 11, 1996, 110 Stat. 3397.)
+(g)
+
+Designation of General Aviation Airport.—Notwithstanding any other provision of this section, one of the airports bearing a designation under subsection (a) may be a general aviation airport that was a former military installation closed or realigned under a section referred to in subsection (a)(1).
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1273; Pub. L. 103–305, title I, §116(b)–(d), Aug. 23, 1994, 108 Stat. 1579; Pub. L. 104–264, title I, §124(a)–(c), Oct. 9, 1996, 110 Stat. 3219, 3220; Pub. L. 104–287, §5(83), Oct. 11, 1996, 110 Stat. 3397; Pub. L. 106–181, title I, §130, Apr. 5, 2000, 114 Stat. 78.)
 
 Historical and Revision Notes
 
@@ -104,9 +108,25 @@ Section 201 of the Defense Authorization Amendments and Base Closure and Realign
 
 Section 2905 of the Defense Base Closure and Realignment Act of 1990, referred to in subsec. (a)(1)(C), is section 2905 of Pub. L. 101–510, which is set out in a note under section 2687 of Title 10.
 
-Section 47117(e)(1)(E), referred to in subsec. (d), was redesignated section 47117(e)(1)(B) by Pub. L. 104–264, title I, §123(b)(3), Oct. 9, 1996, 110 Stat. 3219.
-
 #### Amendments
+
+2000—Subsec. (a). Pub. L. 106–181, §130(a)(1)(A), substituted “15” for “12” in introductory provisions.
+
+Subsec. (a)(2). Pub. L. 106–181, §130(a)(1)(B), added par. (2) and struck out former par. (2) which read as follows: “the Secretary finds that such grants would—
+
+&emsp;“(A) reduce delays at an airport with more than 20,000 hours of annual delays in commercial passenger aircraft takeoffs and landings; or
+
+&emsp;“(B) enhance airport and air traffic control system capacity in a metropolitan area or reduce current and projected flight delays.”
+
+Subsec. (c). Pub. L. 106–181, §130(a)(2), added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: “In carrying out this section, the Secretary shall consider only current or former military airports that, when at least partly converted to civilian commercial or reliever airports as part of the national air transportation system, will enhance airport and air traffic control system capacity in major metropolitan areas and reduce current and projected flight delays.”
+
+Subsec. (d). Pub. L. 106–181, §130(a)(3), substituted “47117(e)(1)(B)” for “47117(e)(1)(E)”, “periods, each not to exceed 5 fiscal years,” for “5-fiscal-year periods”, and “each such subsequent period” for “each such subsequent 5-fiscal-year period”.
+
+Subsec. (e). Pub. L. 106–181, §130(b), substituted “$7,000,000” for “$5,000,000”.
+
+Subsec. (f). Pub. L. 106–181, §130(c), in heading, substituted “Hangars, and Air Cargo Terminals” for “and Hangars” and, in text, substituted “$7,000,000” for “$4,000,000” and inserted “and air cargo terminals of an area that is 50,000 square feet or less” before period at end.
+
+Subsec. (g). Pub. L. 106–181, §130(a)(4), added subsec. (g).
 
 1996—Subsec. (a). Pub. L. 104–287, §5(83)(A), which directed amendment of subsec. (a) by substituting “before August 24, 1994” for “on or before the date of the enactment of this sentence”, could not be executed because the phrase to be amended did not appear subsequent to amendment by Pub. L. 104–264, §124(a). See below.
 
@@ -128,6 +148,10 @@ Subsec. (d). Pub. L. 103–305, §116(c), struck out at end “If an airport doe
 
 Subsec. (f). Pub. L. 103–305, §116(d), substituted “September 30, 1993–1996” for “September 30, 1993–1995”.
 
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
+
 #### Effective Date of 1996 Amendments
 
 Amendment by section 5(83)(A) of Pub. L. 104–287 effective Sept. 30, 1998, see section 8(2) of Pub. L. 104–287, as amended, set out as a note under section 47117 of this title.
@@ -137,6 +161,4 @@ Except as otherwise specifically provided, amendment by Pub. L. 104–264 applic
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 47110, 47117 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

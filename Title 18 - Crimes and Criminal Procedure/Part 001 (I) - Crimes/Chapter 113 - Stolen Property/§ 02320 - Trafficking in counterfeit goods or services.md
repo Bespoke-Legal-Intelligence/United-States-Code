@@ -44,7 +44,7 @@
 
 &emsp;(3) The number of cases referred by other agencies or sources.
 
-&emsp;(4) The number and outcome, including settlements, sentences, recoveries, and penalties, of all prosecutions brought under sections 2318, 2319, 2319A, and 2320 of title 18.
+&emsp;(4) The number and outcome, including settlements, sentences, recoveries, and penalties,of all prosecutions brought under sections 2318, 2319, 2319A, and 2320 of title 18.
 
 (Added Pub. L. 98–473, title II, §1502(a), Oct. 12, 1984, 98 Stat. 2178; amended Pub. L. 103–322, title XXXII, §320104(a), title XXXIII, §330016(1)(U), Sept. 13, 1994, 108 Stat. 2110, 2148; Pub. L. 104–153, §5, July 2, 1996, 110 Stat. 1387; Pub. L. 105–147, §2(f), Dec. 16, 1997, 111 Stat. 2679; Pub. L. 105–225, §4(b), Aug. 12, 1998, 112 Stat. 1499; Pub. L. 105–354, §2(c)(1), Nov. 3, 1998, 112 Stat. 3244.)
 

@@ -16,7 +16,7 @@ Each State regulatory authority (with respect to each electric utility for which
 
 (1) Not later than 2 years after November 9, 1978 (or after October 24, 1992, in the case of standards under paragraphs (7), (8), and (9) of section 2621(d) of this title), each State regulatory authority (with respect to each electric utility for which it has ratemaking authority) and each nonregulated electric utility shall commence the consideration referred to in section 2621 of this title, or set a hearing date for such consideration, with respect to each standard established by section 2621(d) of this title.
 
-(2) Not later than three years after November 9, 1978 (or after October 24, 1992, in the case of standards under paragraphs (7), (8), and (9) of section 2621(d) of this title), each State regulatory authority (with respect to each electricutility for which it has ratemaking authority), and each nonregulated electric utility, shall complete the consideration, and shall make the determination, referred to in section 2621 of this title with respect to each standard established by section 2621(d) of this title.
+(2) Not later than three years after November 9, 1978 (or after October 24, 1992, in the case of standards under paragraphs (7), (8), and (9) of section 2621(d) of this title), each State regulatory authority (with respect to each electric utility for which it has ratemaking authority), and each nonregulated electric utility, shall complete the consideration, and shall make the determination, referred to in section 2621 of this title with respect to each standard established by section 2621(d) of this title.
 
 #### (c) Failure to comply
 

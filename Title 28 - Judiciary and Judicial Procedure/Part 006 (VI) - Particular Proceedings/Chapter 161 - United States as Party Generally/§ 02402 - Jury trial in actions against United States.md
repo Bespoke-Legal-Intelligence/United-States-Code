@@ -16,9 +16,9 @@ Provisions of title 28, U.S.C., 1940 ed., §41(20) relating to jurisdiction of d
 
 #### Amendments
 
-1996—Pub. L. 104–331 substituted “Subject to chapter 179 of this title, any action” for “Any action”.
+<b>1996</b>—Pub. L. 104–331 substituted “Subject to chapter 179 of this title, any action” for “Any action”.
 
-1954—Act July 30, 1954, permitted a jury trial at the request of either party in actions under section 1346(a)(1) of this title.
+<b>1954</b>—Act July 30, 1954, permitted a jury trial at the request of either party in actions under section 1346(a)(1) of this title.
 
 #### Effective Date of 1996 Amendment
 

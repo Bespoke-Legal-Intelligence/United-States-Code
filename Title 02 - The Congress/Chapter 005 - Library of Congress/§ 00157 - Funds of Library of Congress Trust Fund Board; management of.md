@@ -8,10 +8,6 @@ The moneys or securities composing the trust funds given or bequeathed to the bo
 
 Section is comprised of second par. of section 2 of act Mar. 3, 1925. First, third, and fourth pars. of section 2 are classified to sections 156, 158, and 158a of this title, respectively.
 
-#### Cross References
-
-Library of Congress gift fund and trust fund, investment account, to be classified on books of Treasury as trust funds, see section 1321 of Title 31, Money and Finance.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 158a, 160 of this title.

@@ -1,6 +1,6 @@
 ### §1065. Incontestability of right to use mark under certain conditions
 
-Except on a ground for which application to cancel may be filed at any time under paragraphs (3) and (5) of section 1064 of this title, and except to the extent, if any, to which the use of a mark registered on the principal register infringes a valid right acquired under the law of any State or Territory by use of a mark or trade name continuing from a date prior to the date of registration under this chapter of such registered mark, the right of the registrant to usesuch registered mark in commerce for the goods or services on or in connection with which such registered mark has been in continuous use for five consecutive years subsequent to the date of such registration and is still in use in commerce, shall be incontestable: <i>Provided</i>, That—
+Except on a ground for which application to cancel may be filed at any time under paragraphs (3) and (5) of section 1064 of this title, and except to the extent, if any, to which the use of a mark registered on the principal register infringes a valid right acquired under the law of any State or Territory by use of a mark or trade name continuing from a date prior to the date of registration under this chapter of such registered mark, the right of the registrant to use such registered mark in commerce for the goods or services on or in connection with which such registered mark has been in continuous use for five consecutive years subsequent to the date of such registration and is still in use in commerce, shall be incontestable: <i>Provided</i>, That—
 
 &emsp;(1) there has been no final decision adverse to registrant's claim of ownership of such mark for such goods or services, or to registrant's right to register the same or to keep the same on the register; and
 
@@ -55,12 +55,6 @@ Repeal of inconsistent provisions, effect of this chapter on pending proceedings
 #### Transfer of Functions
 
 For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Cross References
-
-Registration of marks used exclusively and continuously for five years preceding application, see section 1052 of this title.
-
-Supplemental register, section inapplicable to trademarks on, see section 1094 of this title.
 
 #### Section Referred to in Other Sections
 

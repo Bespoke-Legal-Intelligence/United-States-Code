@@ -1,6 +1,6 @@
 ### §1037. Counsel before foreign judicial tribunals and administrative agencies; court costs and bail
 
-(a) Under regulations to be prescribed by him, the Secretary concerned may employ counsel, and pay counsel fees, court costs, bail, and other expenses incident to the representation, before the judicial tribunals and administrative agencies of any foreign nation, of persons subject to the Uniform Code of Military Justice and of persons not subject to the Uniform Code of Military Justice who are employed by or accompanying the armed forces in an area outside the United States and the territories and possessions of the United States, the Northern Mariana Islands, and the Commonwealth of Puerto Rico. So far as practicable, these regulations shall be uniform for all armed forces.
+(a) Under regulations to be prescribed by him, the Secretary concerned may employ counsel,and pay counsel fees, court costs, bail, and other expenses incident to the representation, before the judicial tribunals and administrative agencies of any foreign nation, of persons subject to the Uniform Code of Military Justice and of persons not subject to the Uniform Code of Military Justice who are employed by or accompanying the armed forces in an area outside the United States and the territories and possessions of the United States, the Northern Mariana Islands, and the Commonwealth of Puerto Rico. So far as practicable, these regulations shall be uniform for all armed forces.
 
 (b) The person on whose behalf a payment is made under this section is not liable to reimburse the United States for that payment, unless he is responsible for forfeiture of bail provided under subsection (a).
 
@@ -55,10 +55,6 @@ Section 681(b) of Pub. L. 99–145 provided that: “The amendment made by subse
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
-
-#### Cross References
-
-Employment of attorneys or counsel by head of department, see section 3106 of Title 5, Government Organization and Employees.
 
 #### Section Referred to in Other Sections
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Future-Years Mission Budget.—The Secretary of Defense shall submit to Congress for each fiscal year a future-years mission budget for the military programs of the Department of Defense. That budget shall be submitted for any fiscal year not later than 60 days after the date on which the President's budget for that fiscal year is submitted to Congress pursuant to section 1105 of title 31.
+Future-Years Mission Budget.—The Secretary of Defense shall submit to Congress foreach fiscal year a future-years mission budget for the military programs of the Department of Defense. That budget shall be submitted for any fiscal year not later than 60 days after the date on which the President's budget for that fiscal year is submitted to Congress pursuant to section 1105 of title 31.
 
 (b)
 

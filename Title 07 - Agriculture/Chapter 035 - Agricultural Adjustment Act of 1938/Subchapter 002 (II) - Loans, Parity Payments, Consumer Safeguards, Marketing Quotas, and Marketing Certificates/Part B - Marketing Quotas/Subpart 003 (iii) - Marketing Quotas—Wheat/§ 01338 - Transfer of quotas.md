@@ -26,7 +26,3 @@ Section inapplicable to 1978 through 1981 crops of wheat, see section 404 of Pub
 
 Pub. L. 91–524, title IV, §404(1), Nov. 30, 1970, 84 Stat. 1366, as amended by Pub. L. 93–86, §1(11), Aug. 10, 1973, 87 Stat. 229, provided that this section is not applicable to 1971 through 1977 crops of wheat.
 
-#### Cross References
-
-Delegation of regulatory functions of Secretary of Agriculture, see section 450c et seq. of this title.
-

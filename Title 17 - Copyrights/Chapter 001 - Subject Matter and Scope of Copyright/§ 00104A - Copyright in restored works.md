@@ -94,7 +94,7 @@ Notices of intent filed with the copyright office.—(A)(i) A notice of intent f
 
 &emsp;(2)
 
-Notices of intent served on a reliance party.—(A) Notices of intent to enforce a restored copyright may be served on a reliance party at any time after the date of restoration of the restored copyright.
+Notices of intent served on a reliance party.—(A) Notices of intent to enforce a restored copyright may be served on a relianceparty at any time after the date of restoration of the restored copyright.
 
 &emsp;(B) Notices of intent to enforce a restored copyright served on a reliance party shall be signed by the owner or the owner's agent, shall identify the restored work and the work in which the restored work is used, if any, in detail sufficient to identify them, and shall include an English translation of the title, any other alternative titles known to the owner by which the work may be identified, the use or uses to which the owner objects, and an address and telephone number at which the reliance party may contact the owner. If the notice is signed by an agent, the agency relationship must have been constituted in writing and signed by the owner before service of the notice.
 
@@ -264,7 +264,7 @@ Subsec. (h)(2), (3). Pub. L. 105–80, §2(3), (4), amended pars. (2) and (3) ge
 
 1996—Subsec. (h)(3). Pub. L. 104–295 substituted “subsection (g)” for “section 104A(g)”.
 
-1994—Pub. L. 103–465 substituted “Copyright in restored works” for “Copyright in certain motion pictures” as section catchline and amended text generally, substituting present provisions for provisions restoring copyright in certain motion pictures and providing for effective date of protection as well as use of previously owned copies.
+1994—Pub. L. 103–465 substituted “Copyright in restored works” for “Copyright in certain motion pictures” as section catchline and amended text generally,substituting present provisions for provisions restoring copyright in certain motion pictures and providing for effective date of protection as well as use of previously owned copies.
 
 #### Effective Date of 1998 Amendment
 

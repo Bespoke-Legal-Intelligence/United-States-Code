@@ -28,11 +28,11 @@ The Administrative Office of the United States Courts Personnel Act of 1990, ref
 
 #### Amendments
 
-1990—Subsec. (a). Pub. L. 101–474, §5(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Director shall appoint and fix the compensation of necessary employees of the Administrative Office in accordance with the provisions of chapter 51 and subchapter III of chapter 53 of title 5, relating to classification and General Schedule pay rates.”
+<b>1990</b>—Subsec. (a). Pub. L. 101–474, §5(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Director shall appoint and fix the compensation of necessary employees of the Administrative Office in accordance with the provisions of chapter 51 and subchapter III of chapter 53 of title 5, relating to classification and General Schedule pay rates.”
 
 Subsec. (b). Pub. L. 101–474, §5(q), and Pub. L. 101–650 amended subsec. (b) identically, substituting “604(a)(16)(B)” for “604(a)(15)(B)”.
 
-1978—Pub. L. 95–539, among other changes, substituted provision authorizing the Director to appoint and fix the compensation of necessary employees in accordance with chapter 51 and subchapter III of chapter 53 of title 5 for provision authorizing the Director, subject to the provisions of the civil service laws, to appoint necessary employees for the Administrative Office and inserted provisions relating to appointing and fixing the compensation of certified interpreters, to obtaining personal services as authorized by section 3109 of title 5, and to transferring to the Director all of the functions of the officers and employees of the Administrative Office and all the functions of the organizational units of the Administrative Office with power in the Director to delegate his authority.
+<b>1978</b>—Pub. L. 95–539, among other changes, substituted provision authorizing the Director to appoint and fix the compensation of necessary employees in accordance with chapter 51 and subchapter III of chapter 53 of title 5 for provision authorizing the Director, subject to the provisions of the civil service laws, to appoint necessary employees for the Administrative Office and inserted provisions relating to appointing and fixing the compensation of certified interpreters, to obtaining personal services as authorized by section 3109 of title 5, and to transferring to the Director all of the functions of the officers and employees of the Administrative Office and all the functions of the organizational units of the Administrative Office with power in the Director to delegate his authority.
 
 #### Effective Date of 1978 Amendment
 

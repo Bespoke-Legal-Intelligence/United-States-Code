@@ -8,15 +8,3 @@ The Attorney General is authorized and directed to prepare from the records in t
 
 Section effective 180 days after June 27, 1952, see section 407 of act June 27, 1952, set out as a note under section 1101 of this title.
 
-#### Cross References
-
-Definition of the term—
-
-&emsp;&emsp;Alien, see section 1101(a)(3) of this title.
-
-&emsp;&emsp;Attorney General, see section 1101(a)(5) of this title.
-
-&emsp;&emsp;Naturalization, see section 1101(a)(23) of this title.
-
-&emsp;&emsp;Service, see section 1101(a)(34) of this title.
-

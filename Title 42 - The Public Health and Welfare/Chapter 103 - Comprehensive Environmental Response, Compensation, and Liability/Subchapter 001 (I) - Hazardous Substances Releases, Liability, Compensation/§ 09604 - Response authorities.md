@@ -20,7 +20,7 @@ Limitations on Response.—The President shall not provide for a removal or reme
 
 (4)
 
-Exception to Limitations.—Notwithstanding paragraph (3) of this subsection, to the extent authorized by this section, the President may respond to any release or threat of release if in the President's discretion, it constitutes apublic health or environmental emergency and no other person with the authority and capability to respond to the emergency will do so in a timely manner.
+Exception to Limitations.—Notwithstanding paragraph (3) of this subsection, to the extent authorized by this section, the President may respond to any release or threat of release if in the President's discretion, it constitutes a public health or environmental emergency and no other person with the authority and capability to respond to the emergency will do so in a timely manner.
 
 #### (b) Investigations, monitoring, coordination, etc., by President
 
@@ -50,7 +50,7 @@ State Credits.—
 
 &emsp;(A)
 
-Granting of credit.—The President shall grant a State a credit against the share of the costs, for which it is responsible under paragraph (3) with respect to a facility listed on the National Priorities List under the National Contingency Plan, for amounts expended by a State for remedial action at such facility pursuant to a contract or cooperativeagreement with the President. The credit under this paragraph shall be limited to those State expenses which the President determines to be reasonable, documented, direct out-of-pocket expenditures of non-Federal funds.
+Granting of credit.—The President shall grant a State a credit against the share of the costs, for which it is responsible under paragraph (3) with respect to a facility listed on the National Priorities List under the National Contingency Plan, for amounts expended by a State for remedial action at such facility pursuant to a contract or cooperative agreement with the President. The credit under this paragraph shall be limited to those State expenses which the President determines to be reasonable, documented, direct out-of-pocket expenditures of non-Federal funds.
 
 &emsp;(B)
 
@@ -66,7 +66,7 @@ Response actions between 1978 and 1980.—The credit under this paragraph shall 
 
 &emsp;(D)
 
-State expenses after december 11, 1980, in excess of 10 percent of costs.—The credit under this paragraph shall include 90 percent of State expenses incurred at a facility owned, but not operated, by such State or by a political subdivision thereof. Such credit applies only to expenses incurred pursuant to a contract or cooperative agreement under subsection (d) of this section and only to expenses incurred after December 11, 1980, but before October 17, 1986.
+State expenses after december 11, 1980, in excess of 10 percent of costs.—The credit under this paragraph shall include 90 percent of State expenses incurred at a facility owned, but not operated, by such State or by a political subdivision thereof. Such credit applies only to expenses incurred pursuant to a contract or cooperative agreement under subsection (d) of this section and only to expensesincurred after December 11, 1980, but before October 17, 1986.
 
 &emsp;(E)
 
@@ -108,7 +108,7 @@ Cooperative Agreements.—
 
 &emsp;(A)
 
-State applications.—A State or political subdivision thereof or Indian tribe may apply to the President to carry out actions authorized in this section. If the President determines that the State or political subdivision or Indian tribe has the capability to carry outany or all of such actions in accordance with the criteria and priorities established pursuant to section 9605(a)(8) of this title and to carry out related enforcement actions, the President may enter into a contract or cooperative agreement with the State or political subdivision or Indian tribe to carry out such actions. The President shall make a determination regarding such an application within 90 days after the President receives the application.
+State applications.—A State or political subdivision thereof or Indian tribe may apply to the President to carry out actions authorized in this section. If the President determines that the State or political subdivision or Indian tribe has the capability to carry out any or all of such actions in accordance with the criteria and priorities established pursuant to section 9605(a)(8) of this title and to carry out related enforcement actions, the President may enter into a contract or cooperative agreement with the State or political subdivision or Indian tribe to carry out such actions. The President shall make a determination regarding such an application within 90 days after the President receives the application.
 
 &emsp;(B)
 
@@ -120,7 +120,7 @@ Reimbursements.—Any State which expended funds during the period beginning Sep
 
 (2) If the President enters into a cost-sharing agreement pursuant to subsection (c) of this section or a contract or cooperative agreement pursuant to this subsection, and the State or political subdivision thereof fails to comply with any requirements of the contract, the President may, after providing sixty days notice, seek in the appropriate Federal district court to enforce the contract or to recover any funds advanced or any costs incurred because of the breach of the contract by the State or political subdivision.
 
-(3) Where a State or a political subdivision thereof is acting in behalf of the President, the President is authorized to provide technical and legal assistance in the administration and enforcement of any contract or subcontract in connection with response actions assisted under this subchapter, and to intervene in any civil action involving the enforcement of such contract or subcontract.
+(3) Where a State or a political subdivision thereof is acting in behalf of the President, the President is authorized to provide technical and legal assistance in the administration and enforcement of any contract or subcontract in connection with response actions assisted underthis subchapter, and to intervene in any civil action involving the enforcement of such contract or subcontract.
 
 (4) Where two or more noncontiguous facilities are reasonably related on the basis of geography, or on the basis of the threat, or potential threat to the public health or welfare or the environment, the President may, in his discretion, treat these related facilities as one for purposes of this section.
 
@@ -224,7 +224,7 @@ Reimbursements.—Any State which expended funds during the period beginning Sep
 
 #### (f) Contracts for response actions; compliance with Federal health and safety standards
 
-In awarding contracts to any person engaged in response actions, the President or the State, in any case where it is awarding contracts pursuant to a contract entered into under subsection (d) of this section, shall require compliance with Federal health and safety standards established under section 9651(f) of this title by contractors and subcontractors as a condition of such contracts.
+In awarding contracts to any person engaged in response actions, the President or the State, in any case where it is awarding contracts pursuant to a contract entered into under subsection (d) of this section, shall require compliance with Federal health and safety standardsestablished under section 9651(f) of this title by contractors and subcontractors as a condition of such contracts.
 
 #### (g) Rates for wages and labor standards applicable to covered work
 
@@ -250,7 +250,7 @@ Notwithstanding any other provision of law, subject to the provisions of section
 
 &emsp;(E) either independently or as part of other health status survey, conduct periodic survey and screening programs to determine relationships between exposure to toxic substances and illness. In cases of public health emergencies, exposed persons shall be eligible for admission to hospitals and other facilities and services operated or provided by the Public Health Service.
 
-(2)(A) Within 6 months after October 17, 1986, the Administrator of the Agency for Toxic Substances and Disease Registry (ATSDR) and the Administrator of the Environmental Protection Agency (“EPA”) shall prepare a list, in order of priority, of at least 100 hazardous substances which are most commonly found at facilities on the National Priorities List and which, in their sole discretion, they determine are posing the most significant potential threat to humanhealth due to their known or suspected toxicity to humans and the potential for human exposure to such substances at facilities on the National Priorities List or at facilities to which a response to a release or a threatened release under this section is under consideration.
+(2)(A) Within 6 months after October 17, 1986, the Administrator of the Agency for Toxic Substances and Disease Registry (ATSDR) and the Administrator of the Environmental Protection Agency (“EPA”) shall prepare a list, in order of priority, of at least 100 hazardous substances which are most commonly found at facilities on the National Priorities List and which, in their sole discretion, they determine are posing the most significant potential threat to human health due to their known or suspected toxicity to humans and the potential for human exposure to such substances at facilities on the National Priorities List or at facilities to which a response to a release or a threatened release under this section is under consideration.
 
 (B) Within 24 months after October 17, 1986, the Administrator of ATSDR and the Administrator of EPA shall revise the list prepared under subparagraph (A). Such revision shall include, in order of priority, the addition of 100 or more such hazardous substances. In each of the 3 consecutive 12-month periods that follow, the Administrator of ATSDR and the Administrator of EPA shall revise, in the same manner as provided in the 2 preceding sentences, such list to include not fewer than 25 additional hazardous substances per revision. The Administrator of ATSDR and the Administrator of EPA shall not less often than once every year thereafter revise such list to include additional hazardous substances in accordance with the criteria in subparagraph (A).
 
@@ -284,7 +284,7 @@ Notwithstanding any other provision of law, subject to the provisions of section
 
 &emsp;(iii) such other scientific and technical factors as the Administrator of ATSDR may determine are necessary for the effective implementation of this subsection.
 
-(C) In the development and implementation of any research program under this paragraph, theAdministrator of ATSDR and the Administrator of EPA shall coordinate such research program implemented under this paragraph with the National Toxicology Program and with programs of toxicological testing established under the Toxic Substances Control Act \[15 U.S.C. 2601 et seq.\] and the Federal Insecticide, Fungicide and Rodenticide Act \[7 U.S.C. 136 et seq.\]. The purpose of such coordination shall be to avoid duplication of effort and to assure that the hazardous substances listed pursuant to this subsection are tested thoroughly at the earliest practicable date. Where appropriate, consistent with such purpose, a research program under this paragraph may be carried out using such programs of toxicological testing.
+(C) In the development and implementation of any research program under this paragraph, the Administrator of ATSDR and the Administrator of EPA shall coordinate such research program implemented under this paragraph with the National Toxicology Program and with programs of toxicological testing established under the Toxic Substances Control Act \[15 U.S.C. 2601 et seq.\] and the Federal Insecticide, Fungicide and Rodenticide Act \[7 U.S.C. 136 et seq.\]. The purpose of such coordination shall be to avoid duplication of effort and to assure that the hazardous substances listed pursuant to this subsection are tested thoroughly at the earliest practicable date. Where appropriate, consistent with such purpose, a research program under this paragraph may be carried out using such programs of toxicological testing.
 
 (D) It is the sense of the Congress that the costs of research programs under this paragraph be borne by the manufacturers and processors of the hazardous substance in question, as required in programs of toxicological testing under the Toxic Substances Control Act \[15 U.S.C. 2601 et seq.\]. Within 1 year after October 17, 1986, the Administrator of EPA shall promulgate regulations which provide, where appropriate, for payment of such costs by manufacturers and processors under the Toxic Substances Control Act, and registrants under the Federal Insecticide, Fungicide, and Rodenticide Act \[7 U.S.C. 136 et seq.\], and recovery of such costs from responsible parties under this chapter.
 
@@ -302,7 +302,7 @@ Notwithstanding any other provision of law, subject to the provisions of section
 
 (G) The purpose of health assessments under this subsection shall be to assist in determining whether actions under paragraph (11) of this subsection should be taken to reduce human exposure to hazardous substances from a facility and whether additional information on human exposure and associated health risks is needed and should be acquired by conducting epidemiological studies under paragraph (7), establishing a registry under paragraph (8), establishing a health surveillance program under paragraph (9), or through other means. In using the results of health assessments for determining additional actions to be taken under this section, the Administrator of ATSDR may consider additional information on the risks to the potentially affected population from all sources of such hazardous substances including known point or nonpoint sources other than those from the facility in question.
 
-(H) At the completion of each health assessment, the Administrator of ATSDR shall provide the Administrator of EPA and each affectedState with the results of such assessment, together with any recommendations for further actions under this subsection or otherwise under this chapter. In addition, if the health assessment indicates that the release or threatened release concerned may pose a serious threat to human health or the environment, the Administrator of ATSDR shall so notify the Administrator of EPA who shall promptly evaluate such release or threatened release in accordance with the hazard ranking system referred to in section 9605(a)(8)(A) of this title to determine whether the site shall be placed on the National Priorities List or, if the site is already on the list, the Administrator of ATSDR may recommend to the Administrator of EPA that the site be accorded a higher priority.
+(H) At the completion of each health assessment, the Administrator of ATSDR shall provide the Administrator of EPA and each affected State with the results of such assessment, together with any recommendations for further actions under this subsection or otherwise under this chapter. In addition, if the health assessment indicates that the release or threatened release concerned may pose a serious threat to human health or the environment, the Administrator of ATSDR shall so notify the Administrator of EPA who shall promptly evaluate such release or threatened release in accordance with the hazard ranking system referred to in section 9605(a)(8)(A) of this title to determine whether the site shall be placed on the National Priorities List or, if the site is already on the list, the Administrator of ATSDR may recommend to the Administrator of EPA that the site be accorded a higher priority.
 
 (7)(A) Whenever in the judgment of the Administrator of ATSDR it is appropriate on the basis of the results of a health assessment, the Administrator of ATSDR shall conduct a pilot study of health effects for selected groups of exposed individuals in order to determine the desirability of conducting full scale epidemiological or other health studies of the entire exposed population.
 
@@ -338,7 +338,7 @@ Notwithstanding any other provision of law, subject to the provisions of section
 
 (12) In any case which is the subject of a petition, a health assessment or study, or a research program under this subsection, nothing in this subsection shall be construed to delay or otherwise affect or impair the authority of the President, the Administrator of ATSDR, or the Administrator of EPA to exercise any authority vested in the President, the Administrator of ATSDR or the Administrator of EPA under any other provision of law (including, but not limited to, the imminent hazard authority of section 7003 of the Solid Waste Disposal Act \[42 U.S.C. 6973\]) or the response and abatement authorities of this chapter.
 
-(13) All studies and results of research conducted under this subsection (other than health assessments) shall be reported or adopted only after appropriate peer review. Such peer review shall be completed, to the maximum extentpracticable, within a period of 60 days. In the case of research conducted under the National Toxicology Program, such peer review may be conducted by the Board of Scientific Counselors. In the case of other research, such peer review shall be conducted by panels consisting of no less than three nor more than seven members, who shall be disinterested scientific experts selected for such purpose by the Administrator of ATSDR or the Administrator of EPA, as appropriate, on the basis of their reputation for scientific objectivity and the lack of institutional ties with any person involved in the conduct of the study or research under review. Support services for such panels shall be provided by the Agency for Toxic Substances and Disease Registry, or by the Environmental Protection Agency, as appropriate.
+(13) All studies and results of research conducted under this subsection (other than health assessments) shall be reported or adopted only after appropriate peer review. Such peer review shall be completed, to the maximum extent practicable, within a period of 60 days. In the case of research conducted under the National Toxicology Program, such peer review may be conducted by the Board of Scientific Counselors. In the case of other research, such peer review shall be conducted by panels consisting of no less than three nor more than seven members, who shall be disinterested scientific experts selected for such purpose by the Administrator of ATSDR or the Administrator of EPA, as appropriate, on the basis of their reputation for scientific objectivity and the lack of institutional ties with any person involved in the conduct of the study or research under review. Support services for such panels shall be provided by the Agency for Toxic Substances and Disease Registry, or by the Environmental Protection Agency, as appropriate.
 
 (14) In the implementation of this subsection and other health-related authorities of this chapter, the Administrator of ATSDR shall assemble, develop as necessary, and distribute to the States, and upon request to medical colleges, physicians, and other health professionals, appropriate educational materials (including short courses) on the medical surveillance, screening, and methods of diagnosis and treatment of injury or disease related to exposure to hazardous substances (giving priority to those listed in paragraph (2)), through such means as the Administrator of ATSDR deems appropriate.
 
@@ -378,7 +378,7 @@ Reorganization Plan Numbered 14 of 1950, referred to in subsec. (g)(2), is set o
 
 The Toxic Substances Control Act, referred to in subsec. (i)(5)(C), (D), is Pub. L. 94–469, Oct. 11, 1976, 90 Stat. 2003, as amended, which is classified generally to chapter 53 (§2601 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 15 and Tables.
 
-The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (i)(5)(C), (D), is act June 25,1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables.
+The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (i)(5)(C), (D), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables.
 
 #### Amendments
 
@@ -423,6 +423,10 @@ Subsec. (e)(7). Pub. L. 99–499, §104(m), (n), redesignated par. (2) as (7), a
 Subsec. (i). Pub. L. 99–499, §110, designated existing provisions as par. (1), redesignated former pars. (1) to (5) as subpars. (A) to (E), respectively, of par. (1), in introductory provisions of par. (1), struck out “and” after “Health Administration,” and inserted “the Secretary of Transportation, and appropriate State and local health officials,” in par. (1)(D), inserted “where appropriate”, and added pars. (2) to (18).
 
 Subsec. (j). Pub. L. 99–499, §104(<i>o</i>)(1), added subsec. (j).
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (i)(10) of this section relating to the requirement that the Administrator of ATSDR submit a biennial report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 13th item on page 154 of House Document No. 103–7.
 
 #### Coordination of Titles I to IV of Pub. L. 99–499
 

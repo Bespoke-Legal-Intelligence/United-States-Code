@@ -6,7 +6,7 @@
 
 &emsp;(1) Such stamps shall be issued, sold, and the fees therefor collected, by the State agency or by the authorized agents of such agency.
 
-&emsp;(2) Notice of the requirement to possess such stamps shall be displayed prominently in all places where State hunting, trapping, or fishing licenses are sold. To the maximum extentpracticable, the sale of such stamps shall be combined with the sale of such State hunting, trapping, and fishing licenses.
+&emsp;(2) Notice of the requirement to possess such stamps shall be displayed prominently in all places where State hunting, trapping, or fishing licenses are sold. To the maximum extent practicable, the sale of such stamps shall be combined with the sale of such State hunting, trapping, and fishing licenses.
 
 &emsp;(3) Except for expenses incurred in the printing, issuing, or selling of such stamps, the fees collected for such stamps by the State agency shall be utilized in carrying out conservation and rehabilitation programs implemented under this subchapter in the State concerned. Such fees may be used by the State agency to acquire lands or interests therein from willing sellers or donors to provide public access to program lands that have no existing public access for enhancement of outdoor recreation and wildlife conservation: <i>Provided</i>, That the Secretary of Agriculture and the Secretary of the Interior maintain such access, or ensure that maintenance is provided for such access, through or to lands within their respective jurisdiction.
 

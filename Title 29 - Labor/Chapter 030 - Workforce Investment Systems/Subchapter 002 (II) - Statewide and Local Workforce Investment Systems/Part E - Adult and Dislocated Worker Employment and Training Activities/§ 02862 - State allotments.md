@@ -22,7 +22,7 @@ The Secretary shall—
 
 #### (ii) Applicability of additional requirements
 
-&emsp;&emsp;&emsp;From the amount reserved under clause (i), the Secretary shall provide assistance to the outlying areas for adult employment and training activities and statewide workforce investment activities in accordance with the requirements of section2852(b)(1)(B) of this title, except that the reference in section 2852(b)(1)(B)(i)(II) of this title to sections 252(d) and 262(a)(1) of the Job Training Partnership Act \[29 U.S.C. 1631(d), 1642(a)(1)\] shall be deemed to be a reference to section 202(a)(1) of the Job Training Partnership Act \[29 U.S.C. 1602(a)(1)\] (as in effect on the day before August 7, 1998).
+&emsp;&emsp;&emsp;From the amount reserved under clause (i), the Secretary shall provide assistanceto the outlying areas for adult employment and training activities and statewide workforce investment activities in accordance with the requirements of section 2852(b)(1)(B) of this title, except that the reference in section 2852(b)(1)(B)(i)(II) of this title to sections 252(d) and 262(a)(1) of the Job Training Partnership Act shall be deemed to be a reference to section 202(a)(1) of the Job Training Partnership Act (as in effect on the day before August 7, 1998).
 
 #### (B) States
 
@@ -58,7 +58,7 @@ The Secretary shall—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) an amount based on 90 percent of the allotment percentage of the State for the preceding fiscal year; or
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) 100 percent of the allotment of the State under section 202 of the Job Training Partnership Act \[29 U.S.C. 1602\] (as in effect on the day before August 7, 1998) for fiscal year 1998.
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) 100 percent of the allotment of the State under section 202 of the Job Training Partnership Act (as in effect on the day before August 7, 1998) for fiscal year 1998.
 
 #### (II) Small State minimum allotment
 
@@ -74,7 +74,7 @@ The Secretary shall—
 
 #### (IV) Minimum funding
 
-&emsp;&emsp;&emsp;&emsp;In any fiscal year in which the remainder described in clause (i) does not exceed $960,000,000, the minimum allotments under subclauses (I) and (II) shall be calculated by the methodology for calculating the corresponding allotments under part A of title II of the Job Training Partnership Act \[29 U.S.C. 1601 et seq.\], as in effect on July 1, 1998.
+&emsp;&emsp;&emsp;&emsp;In any fiscal year in which the remainder described in clause (i) does not exceed $960,000,000, the minimum allotments under subclauses (I) and (II) shall be calculated by the methodology for calculating the corresponding allotments under part A of title II of the Job Training Partnership Act, as in effect on July 1, 1998.
 
 #### (v) Definitions
 
@@ -86,11 +86,11 @@ The Secretary shall—
 
 #### (II) Allotment percentage
 
-&emsp;&emsp;&emsp;&emsp;The term “allotment percentage”, used with respect to fiscal year 2000 or a subsequent fiscal year, means a percentage of the remainder described in clause (i) that is received through an allotment made under this subparagraph for the fiscal year. The term, used with respect to fiscal year 1998 or 1999, means the percentage of the amounts allotted to States under section 202(a) of the Job Training Partnership Act \[29 U.S.C. 1602(a)\] (as in effect on the day before August 7, 1998) that is received under such section by the State involved for fiscal year 1998 or 1999.
+&emsp;&emsp;&emsp;&emsp;The term “allotment percentage”, used with respect to fiscal year 2000 or a subsequent fiscal year, means a percentage of the remainder described in clause (i) that is received through an allotment made under this subparagraph for the fiscal year. The term, used with respect to fiscal year 1998 or 1999, means the percentage of the amounts allotted to States under section 202(a) of the Job Training Partnership Act (as in effect on the day before August 7, 1998) that is received under such section by the State involved for fiscal year 1998 or 1999.
 
 #### (III) Area of substantial unemployment
 
-&emsp;&emsp;&emsp;&emsp;The term “area of substantial unemployment” means any area that is of sufficient size and scope to sustain a program of workforce investment activities carried out under this subchapter and that has an average rate of unemployment of at least 6.5 percent for the most recent 12 months, as determined by the Secretary. For purposes of this subclause, determinations of areas of substantial unemployment shall be made once each fiscal year.
+&emsp;&emsp;&emsp;&emsp;The term “area of substantial unemployment” means any area that is of sufficient size and scope to sustain a program of workforce investment activities carried out under this subchapter and that has an average rate of unemployment of at least 6.5 percent for the most recent 12 months, as determined by theSecretary. For purposes of this subclause, determinations of areas of substantial unemployment shall be made once each fiscal year.
 
 #### (IV) Disadvantaged adult
 
@@ -122,7 +122,7 @@ The Secretary shall—
 
 #### (ii) Applicability of additional requirements
 
-&emsp;&emsp;&emsp;From the amount reserved under clause (i), the Secretary shall provide assistance to the outlying areas for dislocated worker employment and training activities and statewide workforce investment activities in accordance with the requirements of section 2852(b)(1)(B) of this title, except that the reference in section 2852(b)(1)(B)(i)(II) of this title to sections 252(a) and 262(a)(1) of the Job Training Partnership Act \[29 U.S.C. 1631(a), 1642(a)(1)\] shall be deemed to be a reference to section 302(e) of the Job Training Partnership Act \[29 U.S.C. 1652(e)\] (as in effect on the day before August 7, 1998).
+&emsp;&emsp;&emsp;From the amount reserved under clause (i), the Secretary shall provide assistance to the outlying areas for dislocated worker employment and training activities and statewide workforce investment activities in accordance with the requirements of section 2852(b)(1)(B) of this title, except that the reference in section 2852(b)(1)(B)(i)(II) of this title to sections 252(a) and 262(a)(1) of the Job Training Partnership Act shall be deemed to be a reference to section 302(e) of the Job Training Partnership Act \[29 U.S.C. 1652(e)\] (as in effect on the day before August 7, 1998).
 
 #### (B) States
 
@@ -182,7 +182,7 @@ The Secretary shall—
 
 #### References in Text
 
-The Job Training Partnership Act, referred to in subsec. (b)(1)(B)(iv)(IV), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended. Part A of title II of the Act is classified generally to part A (§1601 et seq.) of subchapter II of chapter 19 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of this title and Tables.
+The Job Training Partnership Act, referred to in subsec. (b)(1)(A)(ii), (B)(iv)(I)(bb), (IV), (v)(II), (2)(A)(ii), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which was repealed by Pub. L. 105–220, title I, §199(b)(2), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Part A of title II of the Act was classified generally to part A (§1601 et seq.) of subchapter II of chapter 19 of this title, prior to repeal by Pub. L. 105–220. Sections 202, 252, 262, and 302 of the Act were classified to sections 1602, 1631, 1642, and 1652 of this title, respectively, prior to repeal by Pub. L. 105–220. For complete classification of this Act to the Code, see Tables.
 
 #### Section Referred to in Other Sections
 

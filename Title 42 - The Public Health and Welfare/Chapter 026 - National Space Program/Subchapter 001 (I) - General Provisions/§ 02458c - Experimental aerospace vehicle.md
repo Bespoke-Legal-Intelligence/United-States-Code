@@ -44,7 +44,7 @@ The Administrator may provide liability insurance for, or indemnification to, th
 
 #### (1) Administrator authorized to waive
 
-&emsp;The Administrator, on behalf of the United States, and its departments, agencies, and related entities, may reciprocally waive claims with a developer or cooperating party and with the related entities of that developer or cooperating party under which each party to the waiver agrees to be responsible, and agrees to ensure that its own related entities are responsible, for damage or loss to its property for which it is responsible, or for losses resulting from any injury or death sustained by its own employees or agents, as a result of activities connected to the agreement or use of the experimental aerospace vehicle.
+&emsp;The Administrator, on behalf of the United States, and its departments, agencies, and instrumentalities, may reciprocally waive claims with a developer or cooperating party and with the related entities of that developer or cooperating party under which each party to the waiver agrees to be responsible, and agrees to ensure that its own related entities are responsible, for damage or loss to its property for which it is responsible, or for losses resulting from any injury or death sustained by its own employees or agents, as a result of activities connected to the agreement or use of the experimental aerospace vehicle.
 
 #### (2) Limitations
 
@@ -59,6 +59,10 @@ The Administrator may provide liability insurance for, or indemnification to, th
 #### (C) Indemnification for damages
 
 &emsp;&emsp;A reciprocal waiver under paragraph (1) may not be used as the basis of a claim by the Administration, or the developer or cooperating party, for indemnification against the other for damages paid to a natural person, or that natural person's estate, survivors, or subrogees, for injury or death sustained by that natural person as a result of activities connected to the agreement or use of the experimental aerospace vehicle.
+
+#### (D) Willful misconduct
+
+&emsp;&emsp;A reciprocal waiver under paragraph (1) may not relieve the United States, the developer, the cooperating party, or the related entities of the developer or cooperating party, of liability for damage or loss resulting from willful misconduct.
 
 #### (3) Effect on previous waivers
 
@@ -100,11 +104,31 @@ In this section:
 
 &emsp;The Administrator may not provide indemnification to a developer under this section for launches subject to license under section 70117(g)(1) of title 49.
 
-(Pub. L. 85–568, title III, as added Pub. L. 106–74, title IV, §435(a), Oct. 20, 1999, 113 Stat. 1097.)
+#### (f) Termination
+
+#### (1) In general
+
+&emsp;The provisions of this section shall terminate on December 31, 2002, except that the Administrator may extend the termination date to a date not later than September 30, 2005, if the Administrator determines that such extension is in the interests of the United States.
+
+#### (2) Effect of termination on agreement
+
+&emsp;The termination of this section shall not terminate or otherwise affect any cross-waiver agreement, insurance agreement, indemnification agreement, or other agreement entered into under this section, except as may be provided in that agreement.
+
+(Pub. L. 85–568, title III, §309, formerly title III, as added Pub. L. 106–74, title IV, §435(a), Oct. 20, 1999, 113 Stat. 1097; designated §309 and amended Pub. L. 106–391, title III, §324(a)(2), (b), Oct. 30, 2000, 114 Stat. 1599, 1600.)
 
 #### Codification
 
-Pub. L. 106–74 directed the insertion of this section after section 308 of Pub. L. 85-568 without providing a section number.
-
 October 20, 1999, referred to in subsec. (c)(3), was in the original ”the date of the enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 106–74, which enacted this section, to reflect the probable intent of Congress.
+
+#### Prior Provisions
+
+A prior section 309 of Pub. L. 85–568 was renumbered section 310 and is classified to section 2459 of this title.
+
+#### Amendments
+
+2000—Subsec. (c)(1). Pub. L. 106–391, §324(b)(1), substituted “departments, agencies, and instrumentalities” for “departments, agencies, and related entities”.
+
+Subsec. (c)(2)(D). Pub. L. 106–391, §324(b)(2), added subpar. (D).
+
+Subsec. (f). Pub. L. 106–391, §324(b)(3), added subsec. (f).
 

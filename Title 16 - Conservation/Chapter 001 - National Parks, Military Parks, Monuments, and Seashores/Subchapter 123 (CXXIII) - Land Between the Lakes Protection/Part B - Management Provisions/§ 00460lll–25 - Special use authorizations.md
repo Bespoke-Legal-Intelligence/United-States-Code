@@ -4,7 +4,7 @@
 
 In addition to other authorities for the authorization of special uses within the National Forest System, within the Recreation Area, the Secretary may, on such terms and conditions as the Secretary may prescribe—
 
-&emsp;(1) convey for no consideration perpetual easements to governmental units for public roads over United States Route 68 and the Trace, and such other rights-of-way as the Secretary and a governmental unit may agree;
+&emsp;(1) convey for no consideration perpetual easements to governmental units for publicroads over United States Route 68 and the Trace, and such other rights-of-way as the Secretary and a governmental unit may agree;
 
 &emsp;(2) transfer or lease to governmental units developed recreation sites or other facilities to be managed for public purposes; and
 

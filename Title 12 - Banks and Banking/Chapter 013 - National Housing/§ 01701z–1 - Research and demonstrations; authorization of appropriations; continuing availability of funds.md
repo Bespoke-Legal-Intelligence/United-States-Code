@@ -6,7 +6,7 @@ The Secretary of Housing and Urban Development is authorized and directed to und
 
 #### References in Text
 
-This title, referred to in text, is title V of the Housing and Urban Development Act of 1970, Pub. L. 91–609, Dec. 31, 1970, 84 Stat. 1784, as amended, which is classified generally to section 1701z–1 et seq. of this title. Forcomplete classification of this Act to the Code, see Short Title of 1970 Amendments note set out under section 1701 of this title and Tables.
+This title, referred to in text, is title V of the Housing and Urban Development Act of 1970, Pub. L. 91–609, Dec. 31, 1970, 84 Stat. 1784, as amended, which is classified generally to section 1701z–1 et seq. of this title. For complete classification of this Act to the Code, see Short Title of 1970 Amendments note set out under section 1701 of this title and Tables.
 
 #### Codification
 
@@ -14,7 +14,7 @@ Section was enacted as part of the Housing and Urban Development Act of 1970, an
 
 #### Amendments
 
-1992—Pub. L. 102–550 substituted “There is authorized to be appropriated to carry out this title $35,000,000 for fiscal year 1993 and $36,470,000 for fiscal year 1994.” for “There are authorized to be appropriated to carry out this title $21,200,000 for fiscal year 1991 and $22,100,000 for fiscal year 1992. From any amounts appropriated under this section for fiscal year 1991, the Secretary shall use not more than $500,000 to carry out a demonstration project to test affordable housing technologies, and shall include in the annual report under section 3536 of title 42 (for the appropriate year) a statement of the activities under the demonstration program and findings resulting from the program. The statement shall set forth the amount and use of funds expended by the Secretary under the program for the year relating to the report and the Secretary shall include such a statement in each such annual report for each year that amounts appropriated under this section are used under the demonstration. All funds so appropriated shall remain available until expended unless specifically limited.”
+1992—Pub. L. 102–550 substituted “There is authorized to be appropriated to carry out this title $35,000,000 for fiscal year 1993 and $36,470,000 for fiscal year 1994.” for “There are authorized to be appropriated to carry out this title $21,200,000 for fiscal year 1991 and $22,100,000 for fiscal year 1992. From any amounts appropriated under this section for fiscal year 1991, the Secretary shall use not more than $500,000 to carry out a demonstration project to test affordable housing technologies, and shall include in the annual report under section 3536 of title 42 (for the appropriate year) a statement of the activities under the demonstration program and findings resulting from the program. The statement shall set forth the amount and use of funds expended by the Secretary under the program for the year relating to the report and the Secretary shall include such a statement in each such annual report foreach year that amounts appropriated under this section are used under the demonstration. All funds so appropriated shall remain available until expended unless specifically limited.”
 
 1990—Pub. L. 101–625 substituted provisions authorizing appropriations of $21,200,000 for 1991 and $22,100,000 for 1992, for provisions authorizing $17,000,000 for 1988 and $18,000,000 for 1989, and added provisions limiting amount to be used for demonstration project in 1991 and requiring that annual report include statement relating to such project.
 

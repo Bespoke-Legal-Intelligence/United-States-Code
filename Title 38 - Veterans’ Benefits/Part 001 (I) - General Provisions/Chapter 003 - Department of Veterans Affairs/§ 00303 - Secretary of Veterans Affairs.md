@@ -76,7 +76,7 @@ Budget Information.—In the documentation providing detailed information on the
 
 “(b)
 
-Report on Feasibility.—If the Secretary of Veterans Affairs or the Secretary of Labor determines that, with respect to any services or benefits referred to in subsection (a), it is not feasible to identify an estimated dollar amount to be obligated for furnishing such services or benefits only to veterans described in that subsection for any fiscal year, the Secretary of Veterans Affairs and the Secretary of Labor shall, with respect to an appropriation request for such fiscal year relating to such services or benefits, report to the Committees on Veterans’ Affairs of the Senate and the House of Representatives the reasons for the infeasibility. The report shall be submitted contemporaneously with the budget submission for such fiscal year. The report shall specify (1) the information, systems, equipment, or personnel that would be required in order for it to be feasible for the Secretary of Veterans Affairs or the Secretary of Labor to identify such amount, and (2) the actions to be taken in order to ensure that it will be feasible to make such an estimate in connection with the submission of the budget request for the next fiscal year.”
+Report on Feasibility.—If the Secretary of Veterans Affairs or the Secretary of Labor determines that, with respect to any services or benefits referred to in subsection (a), it is not feasible to identify an estimated dollar amount to be obligated for furnishingsuch services or benefits only to veterans described in that subsection for any fiscal year, the Secretary of Veterans Affairs and the Secretary of Labor shall, with respect to an appropriation request for such fiscal year relating to such services or benefits, report to the Committees on Veterans’ Affairs of the Senate and the House of Representatives the reasons for the infeasibility. The report shall be submitted contemporaneously with the budget submission for such fiscal year. The report shall specify (1) the information, systems, equipment, or personnel that would be required in order for it to be feasible for the Secretary of Veterans Affairs or the Secretary of Labor to identify such amount, and (2) the actions to be taken in order to ensure that it will be feasible to make such an estimate in connection with the submission of the budget request for the next fiscal year.”
 
 #### Information and Training Concerning AIDS Prevention
 
@@ -100,13 +100,9 @@ Required Elements of Information Program.—In conducting the program under subs
 
 “(c)
 
-Training in AIDS Prevention.—The Secretary shall establish and carry out a program that providesfor education, training, and other activities (including continuing education and infection control programs) regarding AIDS and the human immunodeficiency virus designed to improve the effectiveness and safety of all health-care personnel and all health-care support personnel involved in the furnishing of care under programs administered by the Department of Veterans Affairs.”
+Training in AIDS Prevention.—The Secretary shall establish and carry out a program that provides for education, training, and other activities (including continuing education and infection control programs) regarding AIDS and the human immunodeficiency virus designed to improve the effectiveness and safety of all health-care personnel and all health-care support personnel involved in the furnishing of care under programs administered by the Department of Veterans Affairs.”
 
 #### Emergency Preparedness Functions
 
 For assignment of certain emergency preparedness functions to Secretary of Veterans Affairs, see Parts 1, 2, and 27 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 5195 of Title 42, The Public Health and Welfare.
-
-#### Cross References
-
-Compensation of Secretary of Veterans Affairs, see section 5312 of Title 5, Government Organization and Employees.
 

@@ -22,9 +22,5 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 
 #### Delegation of Functions
 
-Functions of President under this section, except authority to adopt and alter an official seal or emblem,delegated to Director of Peace Corps by section 1–103 of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, eff. May 16, 1979, set out as a note under section 2501 of this title.
-
-#### Cross References
-
-Emblems, insignia and names, unauthorized use, see section 701 of Title 18, Crimes and Criminal Procedure.
+Functions of President under this section, except authority to adopt and alter an official seal or emblem, delegated to Director of Peace Corps by section 1–103 of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, eff. May 16, 1979, set out as a note under section 2501 of this title.
 

@@ -14,11 +14,3 @@ Words “district court of the United States” were substituted for “United S
 
 Changes were made in phraseology.
 
-#### Federal Rules of Civil Procedure
-
-Application of Rules, see rule 81, Appendix to this title.
-
-#### Cross References
-
-Power of district court to bring before it proper parties, whether or not served with State court process, see section 1447 of this title.
-

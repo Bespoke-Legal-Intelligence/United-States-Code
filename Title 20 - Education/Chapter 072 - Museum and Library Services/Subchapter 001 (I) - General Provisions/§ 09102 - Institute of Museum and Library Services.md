@@ -66,7 +66,7 @@ Effect on Personnel.—
 
 &emsp;“(1)
 
-In general.—Except as otherwise provided by this section, the transfer pursuant to this section of full-time personnel (except special Government employees) and part-time personnel holding permanent positions shall not cause any such employee to be separated or reduced in grade or compensation for 1year after the date of transfer of such employee under this section.
+In general.—Except as otherwise provided by this section, the transfer pursuant to this section of full-time personnel (except special Government employees) and part-time personnel holding permanent positions shall not cause any such employee to be separated or reduced in grade or compensation for 1 year after the date of transfer of such employee under this section.
 
 &emsp;“(2)
 
@@ -128,7 +128,7 @@ Recommended legislation.—After consultation with the appropriate committees of
 
 &emsp;“(2)
 
-Submission to congress.—Not later than 6 months after the effective date of this section \[Sept. 30, 1996\], the Director of the Institute of Museum and Library Services shall submit to the appropriate committees of Congress the recommended legislation referred to under paragraph (1).”
+Submission to congress.—Not later than 6 months after the effective date of this section \[Sept. 30, 1996\], the Director of the Institute of Museum and Library Services shall submit to the appropriatecommittees of Congress the recommended legislation referred to under paragraph (1).”
 
 #### Transition and Transfer of Funds
 

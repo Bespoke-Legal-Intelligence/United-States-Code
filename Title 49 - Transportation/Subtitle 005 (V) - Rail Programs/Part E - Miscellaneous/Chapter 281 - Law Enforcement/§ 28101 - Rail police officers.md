@@ -1,6 +1,6 @@
 ### §28101. Rail police officers
 
-Under regulations prescribed by the Secretary of Transportation, a rail police officer who isemployed by a rail carrier and certified or commissioned as a police officer under the laws of a State may enforce the laws of any jurisdiction in which the rail carrier owns property, to the extent of the authority of a police officer certified or commissioned under the laws of that jurisdiction, to protect—
+Under regulations prescribed by the Secretary of Transportation, a rail police officer who is employed by a rail carrier and certified or commissioned as a police officer under the laws of a State may enforce the laws of any jurisdiction in which the rail carrier owns property, to the extent of the authority of a police officer certified or commissioned under the laws of that jurisdiction, to protect—
 
 &emsp;(1) employees, passengers, or patrons of the rail carrier;
 
@@ -28,7 +28,7 @@ Historical and Revision Notes
 
 Nov. 29, 1990, Pub. L. 101–647, §1704, 104 Stat. 4846.
 
-The words “to the extent of the authority of a police officer certified or commissioned under the laws of that jurisdiction” are placed before clause (1) rather than at the end of clause (4), as in the source provision, to reflect the probable intent of Congress.
+The words “to the extent of the authority of a police officer certified or commissioned under the laws of thatjurisdiction” are placed before clause (1) rather than at the end of clause (4), as in the source provision, to reflect the probable intent of Congress.
 
 #### Amendments
 

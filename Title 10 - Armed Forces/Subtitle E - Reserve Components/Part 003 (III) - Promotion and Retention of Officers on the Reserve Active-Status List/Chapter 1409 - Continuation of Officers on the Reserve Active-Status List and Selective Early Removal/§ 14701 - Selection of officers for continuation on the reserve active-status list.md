@@ -2,7 +2,7 @@
 
 (a)
 
-Consideration for Continuation.—(1) Upon application, a reserve officer of the Army, Navy, Air Force, or Marine Corps who is required to be removed from the reserve active-status list under section 14505, 14506, or 14507 of this title may, subject to the needs of the service and to section 14509 of this title, be considered for continuation on the reserve active-status list by a selection board convened under section 14101(b) of this title.
+Consideration for Continuation.—(1) A reserve officer of the Army, Navy, Air Force, or Marine Corps who is required to be removed from the reserve active-status list under section 14505, 14506, or 14507 of this title may, subject to the needs of the service and to section 14509 of this title, be considered for continuation on the reserve active-status list by a selection board convened under section 14101(b) of this title.
 
 (2) A reserve officer who holds the grade of captain in the Army, Air Force, or Marine Corps or the grade of lieutenant in the Navy and who is subject to separation under section 14513 of this title may not be continued on the reserve active-status list under this subsection for a period which extends beyond the last day of the month in which the officer completes 20 years of commissioned service.
 
@@ -28,7 +28,11 @@ Instructions To Continuation Boards.—A continuation board convened under secti
 
 Regulations.—The Secretary of Defense shall prescribe regulations for the administration of this section.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2954.)
+(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2954; amended Pub. L. 106–398, §1 \[\[div. A\], title V, §522\], Oct. 30, 2000, 114 Stat. 1654, 1654A–108.)
+
+#### Amendments
+
+2000—Subsec. (a)(1). Pub. L. 106–398 substituted “A reserve officer” for “Upon application, a reserve officer”.
 
 #### Effective Date
 

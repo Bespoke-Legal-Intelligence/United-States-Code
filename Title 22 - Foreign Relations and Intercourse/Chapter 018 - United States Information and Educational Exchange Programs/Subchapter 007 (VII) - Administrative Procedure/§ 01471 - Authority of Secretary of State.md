@@ -120,7 +120,7 @@ Definitions.—For purposes of this section—
 
 &emsp;&emsp;“(C) has been incorporated or otherwise legally organized in the United States for more than 5 years before the issuance date of the Invitation For Bids or the Request For Proposals with respect to a modernization project under subsection (b);
 
-&emsp;&emsp;“(D) has proven, as indicated by prior contracting experience, to possess the technical, managerial, and financial capability to successfully complete a project similar in nature and technical complexity to that being contracted for;
+&emsp;&emsp;“(D) has proven, as indicated by prior contracting experience, to possess the technical, managerial,and financial capability to successfully complete a project similar in nature and technical complexity to that being contracted for;
 
 &emsp;&emsp;“(E)(i) employs United States citizens in at least 80 percent of its principal management positions in the United States;
 

@@ -26,7 +26,7 @@
 
 #### (c) Consideration of proposals made by Secretary to amend regulations issued under section 753 of title 15; exception
 
-(1) Pursuant to the procedures specified in section 7174 of this title and except as provided in paragraph (2), the Commission shall have jurisdiction to consider any proposal by the Secretary to amend the regulation required to be issued under section 753(a) <sup>1</sup> of title 15 which is required by section 757 or 760a <sup>1</sup> of title 15 to be transmitted by the President to, and reviewed by, each House of Congress, under section 6421 of this title.
+(1) Pursuant to the procedures specified in section 7174 of this title and except as provided in paragraph (2), the Commission shall have jurisdiction to consider any proposal by the Secretary to amend the regulation required to be issued under section 753(a) <sup>1</sup> of title 15 which is required by section 757 or 760a <sup>1</sup> of title 15 to be transmitted by the President to, and reviewedby, each House of Congress, under section 6421 of this title.
 
 (2) In the event that the President determines that an emergency situation of overriding national importance exists and requires the expeditious promulgation of a rule described in paragraph (1), the President may direct the Secretary to assume sole jurisdiction over the promulgation of such rule, and such rule shall be transmitted by the President to, and reviewed by, each House of Congress under section 757 or 760a <sup>1</sup> of title 15, and section 6421 of this title.
 
@@ -38,11 +38,11 @@ The Commission shall have jurisdiction to hear and determine any other matter ar
 
 &emsp;(2) involving any other agency determination which the Secretary determines shall be made on the record after an opportunity for an agency hearing,
 
-> except that nothing in this subsection shall require that functions under sections 6213 and 6214 of this title shall be within the jurisdiction of the Commission unless the Secretary assigns such a function to the Commission.
+> except that nothing in this subsection shall require that functions under sections 6213 and 6214 <sup>1</sup> of this title shall be within the jurisdiction of the Commission unless the Secretary assigns such a function to the Commission.
 
 #### (e) Matters assigned by Secretary after public notice and matters referred under section 7174 of this title
 
-In addition to the other provisions of this section, the Commission shall have jurisdictionover any other matter which the Secretary may assign to the Commission after public notice, or which are required to be referred to the Commission pursuant to section 7174 of this title.
+In addition to the other provisions of this section, the Commission shall have jurisdiction over any other matter which the Secretary may assign to the Commission after public notice, or which are required to be referred to the Commission pursuant to section 7174 of this title.
 
 #### (f) Limitation
 
@@ -65,6 +65,8 @@ The Federal Power Act, referred to in subsec. (a)(1)(A), (B), and (F), is act Ju
 The Natural Gas Act, referred to in subsec. (a)(1)(E), (F), is act June 21, 1938, ch. 556, 52 Stat. 821, as amended, which is classified generally to chapter 15B (§717 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 717w of Title 15 and Tables.
 
 Sections 753, 757, and 760a of title 15, referred to in subsec. (c), were omitted from the Code pursuant to section 760g of Title 15, which provided for the expiration of the President's authority under those sections on Sept. 30, 1981.
+
+Section 6214 of this title, referred to in subsec. (d), was repealed by Pub. L. 106–469, title I, §103(3), Nov. 9, 2000, 114 Stat. 2029.
 
 #### Amendments
 
@@ -138,7 +140,7 @@ Rates Deemed Just and Reasonable.—Except as provided in subsection (b)—
 
 &emsp;“(1) any rate in effect for the 365-day period ending on the date of the enactment of this Act \[Oct. 24, 1992\] shall be deemed to be just and reasonable (within the meaning of section 1(5) of the Interstate Commerce Act \[former 49 U.S.C. 1(5)\]); and
 
-&emsp;“(2) any rate in effect on the 365th day preceding the date of such enactment shall be deemed to be just and reasonable (within the meaning of such section1(5)) regardless of whether or not, with respect to such rate, a new rate has been filed with the Commission during such 365-day period;
+&emsp;“(2) any rate in effect on the 365th day preceding the date of such enactment shall be deemed to be just and reasonable (within the meaning of such section 1(5)) regardless of whether or not, with respect to such rate, a new rate has been filed with the Commission during such 365-day period;
 
 > if the rate in effect, as described in paragraph (1) or (2), has not been subject to protest, investigation, or complaint during such 365-day period.
 

@@ -28,13 +28,13 @@ The Secretary shall conduct a careful and detailed evaluation of each institute 
 
 #### (f) Authorization of appropriations in general
 
-(1) For the purpose of carrying out this section, there is authorized to be appropriated to the Secretary the sum of $5,000,000 for fiscal year 1996, $7,000,000 for each of fiscal years 1997 and 1998, and $9,000,000 for each of fiscal years 1999 and 2000, such sums to remain available until expended.
+(1) For the purpose of carrying out this section, there is authorized to be appropriated to the Secretary the sum of $9,000,000 for fiscal year 2001, $10,000,000 for each of fiscal years 2002 and 2003, and $12,000,000 for each of fiscal years 2004 and 2005, such sums to remain available until expended.
 
 (2) Any sums appropriated under this subsection but which fail to be obligated by the close of the fiscal year for which they were appropriated shall be transferred by the Secretary and available for obligation during the succeeding fiscal year under the terms of subsection (g) of this section.
 
 #### (g) Additional appropriations where research focused on water problems of interstate nature
 
-(1) There is further authorized to be appropriated to the Secretary of the Interior the sum of $3,000,000 for each of fiscal years 1996 through 2000 only for reimbursement of the direct cost expenses of additional research or synthesis of the results of research by institutes which focuses on water problems and issues of a regional or interstate nature beyond those of concern only to a single State and which relate to specific program priorities identified jointly by the Secretary and the institutes. Such funds when appropriated shall be matched on a not less than dollar-for-dollar basis by funds made available to institutes or groups of institutes, by States or other non-Federal sources. Funds made available under this subsection shall remain available until expended.
+(1) There is further authorized to be appropriated to the Secretary of the Interior the sum of $3,000,000 for fiscal year 2001, $4,000,000 for each of fiscal years 2002 and 2003, and $6,000,000 for each of fiscal years 2004 and 2005 only for reimbursement of the direct cost expenses of additional research or synthesis of the results of research by institutes which focuses on water problems and issues of a regional or interstatenature beyond those of concern only to a single State and which relate to specific program priorities identified jointly by the Secretary and the institutes. Such funds when appropriated shall be matched on a not less than dollar-for-dollar basis by funds made available to institutes or groups of institutes, by States or other non-Federal sources. Funds made available under this subsection shall remain available until expended.
 
 (2) Research funds made available under this subsection shall be made on a competitive basis subject to the merit of the proposal, the need for the information to be produced, and the opportunity such funds will provide for training of water resources scientists or professionals.
 
@@ -64,13 +64,17 @@ The Secretary shall conduct a careful and detailed evaluation of each institute 
 
 &emsp;Nothing in this chapter shall preempt the rights and authorities of any State with respect to its water resources or management of those resources.
 
-(Pub. L. 98–242, title I, §104, Mar. 22, 1984, 98 Stat. 98; Pub. L. 101–397, §1(b)–(h), (m), Sept. 28, 1990, 104 Stat. 852, 853; Pub. L. 104–147, §§3–6, May 24, 1996, 110 Stat. 1376.)
+(Pub. L. 98–242, title I, §104, Mar. 22, 1984, 98 Stat. 98; Pub. L. 101–397, §1(b)–(h), (m), Sept. 28, 1990, 104 Stat. 852, 853; Pub. L. 104–147, §§3–6, May 24, 1996, 110 Stat. 1376; Pub. L. 106–374, Oct. 27, 2000, 114 Stat. 1434.)
 
 #### References in Text
 
 Act approved July 2, 1862, referred to in subsec. (a), is act July 2, 1862, ch. 130, 12 Stat. 503, as amended, popularly known as the “Morrill Act” and also as the “First Morrill Act”, which is classified generally to subchapter I (§301 et seq.) of chapter 13 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 301 of Title 7 and Tables.
 
 #### Amendments
+
+2000—Subsec. (f)(1). Pub. L. 106–374, §1, substituted “$9,000,000 for fiscal year 2001, $10,000,000 for each of fiscal years 2002 and 2003, and $12,000,000 for each of fiscal years 2004 and 2005” for “$5,000,000 for fiscal year 1996, $7,000,000 for each of fiscal years 1997 and 1998, and $9,000,000 for each of fiscal years 1999 and 2000”.
+
+Subsec. (g)(1). Pub. L. 106–374, §2, in first sentence, substituted “$3,000,000 for fiscal year 2001, $4,000,000 for each of fiscal years 2002 and 2003, and $6,000,000 for each of fiscal years 2004 and 2005” for “$3,000,000 for each of fiscal years 1996 through 2000”.
 
 1996—Subsec. (c). Pub. L. 104–147, §3, substituted “2 non-Federal dollars for every 1 Federal dollar” for “one non-Federal dollar for every Federal dollar during the fiscal years ending September 30, 1985, and September 30, 1986, one and one-half non-Federal dollars for each Federal dollar during the fiscal years ending September 30, 1987, and September 30, 1988, and two non-Federal dollars for each Federal dollar during the fiscal year ending September 30, 1989 and thereafter”.
 
@@ -100,7 +104,7 @@ Subsec. (g). Pub. L. 101–397, §1(m), added subsec. (g).
 
 Section 2 of Pub. L. 101–397 provided that:
 
-“(a) The Secretary of the Interior, in consultation with the Secretary of Agriculture and the Administrator of the Environmental Protection Agency, is authorized to enter into contracts or cooperative agreements, as the Secretary deems appropriate, with national laboratories (including Los Alamos National Laboratory) to carry out water resources research, development, and demonstration projects within the authorities of Public Law 98–242 \[42 U.S.C. 10301 et seq.\] (including the effects of potential climate changes on surface and ground water quality and quantity and the elimination of contamination of ground water aquifers).
+“(a) The Secretary of the Interior, in consultation with the Secretary of Agriculture and the Administrator of the Environmental Protection Agency, is authorized to enter into contracts or cooperative agreements, as the Secretary deems appropriate, with national laboratories (including Los Alamos NationalLaboratory) to carry out water resources research, development, and demonstration projects within the authorities of Public Law 98–242 \[42 U.S.C. 10301 et seq.\] (including the effects of potential climate changes on surface and ground water quality and quantity and the elimination of contamination of ground water aquifers).
 
 “(b) The water resources research authorized in this section shall be undertaken under such rules and regulations as the Secretary deems appropriate and shall be carried out in close consultation and collaboration with the institutes established pursuant to Public Law 98–242 \[42 U.S.C. 10301 et seq.\], to the extent such research work affects the State in which the institute exists, and to the extent such institute agrees to consult and collaborate.
 

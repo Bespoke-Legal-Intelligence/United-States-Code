@@ -1,6 +1,6 @@
 ### §1392. Defendants or property in different districts in same State
 
-Any civil action, of a local nature, involving property located in different districts in thesame State, may be brought in any of such districts.
+Any civil action, of a local nature, involving property located in different districts in the same State, may be brought in any of such districts.
 
 (June 25, 1948, ch. 646, 62 Stat. 935; Pub. L. 104–220, §1, Oct. 1, 1996, 110 Stat. 3023.)
 
@@ -24,7 +24,7 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1996—Pub. L. 104–220 struck out “(b)” before “Any civil action” and struck out subsec. (a) which read as follows: “Any civil action, not of a local nature, against defendants residing in different districts in the same State, may be brought in any of such districts.”
+<b>1996</b>—Pub. L. 104–220 struck out “(b)” before “Any civil action” and struck out subsec. (a) which read as follows: “Any civil action, not of a local nature, against defendants residing in different districts in the same State, may be brought in any of such districts.”
 
 #### Section Referred to in Other Sections
 

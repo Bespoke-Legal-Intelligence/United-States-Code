@@ -52,7 +52,7 @@ The Secretary of Health and Human Services shall make grants to eligible States 
 
 &emsp;&emsp;&emsp;(iii) if the State involved has proposed the funding of additional projects targeted at the areas of highest need;
 
-> &emsp;&emsp;to carry out the activities and projects that are consistent with the activities describedin subsection (e)(1) of this section. The activities and projects for which such grants are made shall be selected by the Secretary from among proposed activities and projects submitted to the Secretary by the States. Such grants shall be made to the States for redistribution to the persons on whose behalf the State submitted an application under subsection (b) of this section.
+> &emsp;&emsp;to carry out the activities and projects that are consistent with the activities described in subsection (e)(1) of this section. The activities and projects for which such grants are made shall be selected by the Secretary from among proposed activities and projects submitted to the Secretary by the States. Such grants shall be made to the States for redistribution to the persons on whose behalf the State submitted an application under subsection (b) of this section.
 
 #### (d) Priority
 
@@ -142,7 +142,7 @@ The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(8
 
 Subsec. (c)(3)(A). Pub. L. 101–93, §4(1)(B), substituted “subsection (g)” for “subsection (h)”.
 
-Subsec. (d). Pub. L. 101–226, which directed amendment of section 3521(d) of the National Narcotics Leadership Act of 1988 by adding par. (8) and redesignating former par. (8) as (9), was executed to section 3521(d) of Pub. L. 100–690, the Anti-Drug Abuse Act of 1988, as the probable intent of Congress. Subtitle A (§§1001–1012) of title I of Pub. L. 100–690 is the National Narcotics Leadership Act of 1988.
+Subsec. (d). Pub. L. 101–226, which directed amendment of section 3521(d) of the National Narcotics Leadership Act of 1988 by adding par. (8) and redesignating former par. (8) as (9), was executed to section 3521(d) of Pub. L. 100–690, the Anti-Drug Abuse Act of 1988, as theprobable intent of Congress. Subtitle A (§§1001–1012) of title I of Pub. L. 100–690 is the National Narcotics Leadership Act of 1988.
 
 #### Termination of Trust Territory of the Pacific Islands
 

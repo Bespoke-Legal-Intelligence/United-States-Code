@@ -14,7 +14,7 @@ When used in this chapter, except where the context requires otherwise—
 
 &emsp;(f) the term “interstate or foreign commerce” means commerce from any State to or through any other State, or to or through any foreign country;
 
-&emsp;(g) the term “grain” means corn, wheat, rye, oats, barley, flaxseed, sorghum, soybeans,mixed grain, and any other food grains, feed grains, and oilseeds for which standards are established under section 76 of this title;
+&emsp;(g) the term “grain” means corn, wheat, rye, oats, barley, flaxseed, sorghum, soybeans, mixed grain, and any other food grains, feed grains, and oilseeds for which standards are established under section 76 of this title;
 
 &emsp;(h) the term “export grain” means grain for shipment from the United States to any place outside thereof;
 
@@ -58,7 +58,7 @@ When used in this chapter, except where the context requires otherwise—
 
 #### Amendments
 
-1994—Pub. L. 103–354 substituted “Secretary” for “Administrator” wherever appearing in subsecs. (i) to (k),\(m), (n), (u) to (w), and (y), redesignated subsec. (bb) as (z), and struck out former subsecs. (z) and (aa) which read as follows:
+1994—Pub. L. 103–354 substituted “Secretary” for “Administrator” wherever appearing in subsecs. (i) to (k), (m), (n), (u) to (w), and (y), redesignated subsec. (bb) as (z), and struck out former subsecs. (z) and (aa) which read as follows:
 
 “(z) the term ‘Administrator’ means the Administrator of the Federal Grain Inspection Service or delegates of the Administrator;
 
@@ -82,7 +82,7 @@ Subsec. (m). Pub. L. 95–113, §1604(a)(2), substituted “or subsection (c) of
 
 Subsec. (x). Pub. L. 95–113, §1604(a)(3), substituted “under standards provided for in this chapter” for “under standards provided in this chapter”.
 
-Subsec. (y). Pub. L. 95–113, §1604(a)(4), substituted “such supervision by official inspection personnel of the grain-weighing process as is determined by the Administrator to be adequate to reasonably assure the integrity and accuracy of the weighing and of certificates which set forth the weight of the grain and such physical inspection by such personnel of the premises at which the grain weighing is performed as will reasonably assure that all the grain intended to be weighed has been weighed and discharged into the elevator or conveyance” for “the supervision of the weighing process and of the certification of the weight of grain, and the physical inspection of the premises at which the weighing is performed to assure that all the grain intended to be weighed has been weighed and discharged into the elevator or conveyance represented on the weight certificate or other document”.
+Subsec. (y). Pub. L. 95–113, §1604(a)(4), substituted “such supervision by official inspection personnel ofthe grain-weighing process as is determined by the Administrator to be adequate to reasonably assure the integrity and accuracy of the weighing and of certificates which set forth the weight of the grain and such physical inspection by such personnel of the premises at which the grain weighing is performed as will reasonably assure that all the grain intended to be weighed has been weighed and discharged into the elevator or conveyance” for “the supervision of the weighing process and of the certification of the weight of grain, and the physical inspection of the premises at which the weighing is performed to assure that all the grain intended to be weighed has been weighed and discharged into the elevator or conveyance represented on the weight certificate or other document”.
 
 1976—Subsec. (i). Pub. L. 94–582, §3(a), substituted “Administrator” for “Secretary”, and expanded definition of “official inspection” to include determination “(by original inspection, and when requested, reinspection and appeal inspection)” and determination and certification of the condition of vessels and other carriers or receptacles for the transportation of grain insofar as it may affect the quality or condition of the grain.
 
@@ -120,7 +120,7 @@ Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L
 
 #### Effective Date of 1976 Amendment
 
-For effective date of amendment by Pub. L. 94–582, see section 27 of Pub. L. 94–582, set out as a note under section 74 of this title.
+Amendment by Pub. L. 94–582 effective 30 days after Oct. 21, 1976, see section 27 of Pub. L. 94–582, as amended, set out as a note under section 74 of this title.
 
 #### Effective Date of 1968 Amendment
 

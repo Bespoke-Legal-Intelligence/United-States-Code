@@ -6,7 +6,7 @@ To the extent that the taking of any action which is necessary or related to the
 
 &emsp;(1) to the fullest extent permitted by the provisions of law administered by such officer or agency, but
 
-&emsp;(2) without regard to any provision of law which is waived pursuant to section 719f(g) ofthis title issue or grant such certificates, permits, rights-of-way, leases, and other authorizations at the earliest practicable date.
+&emsp;(2) without regard to any provision of law which is waived pursuant to section 719f(g) of this title issue or grant such certificates, permits, rights-of-way, leases, and other authorizations at the earliest practicable date.
 
 #### (b) Expedition and precedence of actions on applications or requests
 

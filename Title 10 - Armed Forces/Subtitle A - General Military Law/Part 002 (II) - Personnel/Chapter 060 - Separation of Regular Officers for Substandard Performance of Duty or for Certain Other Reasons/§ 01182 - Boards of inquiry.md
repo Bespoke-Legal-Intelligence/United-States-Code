@@ -14,11 +14,17 @@
 
 (B) An officer who has been required to show cause for retention on active duty under subsection (b) of section 1181 of this title and who is thereafter retained on active duty may not again be required to show cause for retention on active duty under such subsection solely because of conduct which was the subject of the previous proceedings, unless the findings or recommendations of the board of inquiry that considered his case are determined to have been obtained by fraud or collusion.
 
-(Added Pub. L. 96–513, title I, §110, Dec. 12, 1980, 94 Stat. 2872; amended Pub. L. 105–261, div. A, title V, §503(b)(1), Oct. 17, 1998, 112 Stat. 2003.)
+(Added Pub. L. 96–513, title I, §110, Dec. 12, 1980, 94 Stat. 2872; amended Pub. L. 105–261, div. A, title V, §503(b)(1), Oct. 17, 1998, 112 Stat. 2003; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(d)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–292.)
 
 #### Amendments
 
-1998—Subsec. (c). Pub. L. 105–261, which directed substitution of “recommend to the Secretary concerned that the officer not be retained on active duty” for “send the record of proceedings to a board of review convened under section 1183 of this title”, was executed by making the substitution for “send the record of its proceedings to a board of review convened under section 1183 of this title”, to reflect the probable intent of Congress.
+2000—Subsec. (c). Pub. L. 106–398 made technical correction to directory language of Pub. L. 105–261, §503(b)(1). See 1998 Amendment note below.
+
+1998—Subsec. (c). Pub. L. 105–261, §503(b)(1), as amended by Pub. L. 106–398, substituted “recommend to the Secretary concerned that the officer not be retained on active duty” for “send the record of its proceedings to a board of review convened under section 1183 of this title”.
+
+#### Effective Date of 2000 Amendment
+
+Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–292, provided that the amendment made by section 1 \[\[div. A\], title X, §1087(d)(2)\] is effective Oct. 17, 1998, and as if included in the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999, Pub. L. 105–261, as enacted.
 
 #### Section Referred to in Other Sections
 

@@ -14,7 +14,7 @@ There is hereby established the Advisory Commission of the San Francisco Maritim
 
 &emsp;(5) 2 members appointed for terms of 5 years, who shall have professional expertise in maritime history or historic preservation.
 
-> Any member of the Commission appointed for a definite term may serve after the expiration of his term until his successor is appointed. A vacancy in the Commission shall be filled in the manner in which the original appointment was made.
+> Any member of the Commission appointed for a definite term may serve after the expiration ofhis term until his successor is appointed. A vacancy in the Commission shall be filled in the manner in which the original appointment was made.
 
 #### (b) Compensation
 
@@ -34,7 +34,7 @@ The Commission may make such bylaws, rules, and regulations as it considers nece
 
 #### (f) Functions
 
-The Commission shall advise the Secretary on the management and development of the park.The Secretary, or his designee, shall from time to time, but at least semiannually, meet and consult with the Commission on matters relating to the management and development of the park.
+The Commission shall advise the Secretary on the management and development of the park. The Secretary, or his designee, shall from time to time, but at least semiannually, meet and consult with the Commission on matters relating to the management and development of the park.
 
 #### (g) Termination
 

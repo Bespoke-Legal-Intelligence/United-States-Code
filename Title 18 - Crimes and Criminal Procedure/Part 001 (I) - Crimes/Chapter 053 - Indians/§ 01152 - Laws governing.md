@@ -16,10 +16,6 @@ See reviser's note under section 1153 of this title as to effect of consolidatio
 
 Minor changes were made in translations and phraseology.
 
-#### Cross References
-
-State jurisdiction over offenses committed by or against Indians in the Indian country, see section 1162 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1162, 3598, 4042, 5032 of this title; title 25 sections 1725, 2442, 2802.

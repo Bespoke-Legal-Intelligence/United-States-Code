@@ -8,7 +8,7 @@
 
 &emsp;(A) for statements and reports in connection with the campaign for nomination for election of a candidate to the office of President or Vice President, each State in which an expenditure is made on behalf of the candidate; and
 
-&emsp;(B) for statements and reports in connection with the campaign for nomination for election, or election, of a candidate to the office of Senator or Representative in, or Delegate or Resident Commissioner to, the Congress, the State in which the candidate seeks election; except that political committees other than authorized committees are only required tofile, and Secretaries of State required to keep, that portion of the report applicable to candidates seeking election in that State.
+&emsp;(B) for statements and reports in connection with the campaign for nomination for election, or election, of a candidate to the office of Senator or Representative in, or Delegate or Resident Commissioner to, the Congress, the State in which the candidate seeks election; except that political committees other than authorized committees are only required to file, and Secretaries of State required to keep, that portion of the report applicable to candidates seeking election in that State.
 
 #### (b) Duties of State officers
 

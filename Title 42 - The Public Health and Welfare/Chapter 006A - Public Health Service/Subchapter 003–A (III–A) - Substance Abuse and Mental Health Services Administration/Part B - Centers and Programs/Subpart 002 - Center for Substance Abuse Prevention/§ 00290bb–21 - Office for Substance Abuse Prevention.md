@@ -24,9 +24,11 @@ The Director of the Prevention Center shall—
 
 &emsp;(8) support the development of model, innovative, community-based programs to discourage alcohol and drug abuse among young people;
 
-&emsp;(9) prepare for distribution documentary films and public service announcements for television and radio to educate the public concerning the dangers to health resulting from the consumption of alcohol and drugs and, to the extent feasible, use appropriate private organizations and business concerns in the preparation of such announcements; and
+&emsp;(9) collaborate with the Attorney General of the Department of Justice to develop programs to prevent drug abuse among high risk youth;
 
-&emsp;(10) develop and support innovative demonstration programs designed to identify and deter the improper use or abuse of anabolic steroids by students, especially students in secondary schools.
+&emsp;(10) prepare for distribution documentary films and public service announcements for television and radio to educate the public, especially adolescent audiences, concerning the dangers to health resulting from the consumption of alcohol and drugs and, to the extent feasible, use appropriate private organizations and business concerns in the preparation of such announcements; and
+
+&emsp;(11) develop and support innovative demonstration programs designed to identify and deter the improper use or abuse of anabolic steroids by students, especially students in secondary schools.
 
 #### (c) Grants, contracts and cooperative agreements
 
@@ -34,9 +36,9 @@ The Director may make grants and enter into contracts and cooperative agreements
 
 #### (d) National data base
 
-The Director of the Prevention Center shall establish a national data base providing information on programs for the prevention of substance abuse. The data base shall contain information appropriate for use by public entities and information appropriate for use by nonprofit private entities.
+The Director of the Prevention Center shall establish a national data base providing information on programs for the prevention of substance abuse. The data base shall contain information appropriate for use by public entitiesand information appropriate for use by nonprofit private entities.
 
-(July 1, 1944, ch. 373, title V, §515, formerly §508, as added Pub. L. 99–570, title IV, §4005(a), Oct. 27, 1986, 100 Stat. 3207–111; amended Pub. L. 100–690, title II, §2051(a)–(c), Nov. 18, 1988, 102 Stat. 4206; Pub. L. 101–93, §3(a), Aug. 16, 1989, 103 Stat. 609; Pub. L. 101–647, title XIX, §1906, Nov. 29, 1990, 104 Stat. 4854; renumbered §515 and amended Pub. L. 102–321, title I, §113(b)–(e), July 10, 1992, 106 Stat. 345; Pub. L. 102–531, title III, §312(d)(10), Oct. 27, 1992, 106 Stat. 3505.)
+(July 1, 1944, ch. 373, title V, §515, formerly §508, as added Pub. L. 99–570, title IV, §4005(a), Oct. 27, 1986, 100 Stat. 3207–111; amended Pub. L. 100–690, title II, §2051(a)–(c), Nov. 18, 1988, 102 Stat. 4206; Pub. L. 101–93, §3(a), Aug. 16, 1989, 103 Stat. 609; Pub. L. 101–647, title XIX, §1906, Nov. 29, 1990, 104 Stat. 4854; renumbered §515 and amended Pub. L. 102–321, title I, §113(b)–(e), July 10, 1992, 106 Stat. 345; Pub. L. 102–531, title III, §312(d)(10), Oct. 27, 1992, 106 Stat. 3505; Pub. L. 106–310, div. B, title XXXI, §3112(b), Oct. 17, 2000, 114 Stat. 1188.)
 
 #### References in Text
 
@@ -53,6 +55,12 @@ A prior section 515 of act July 1, 1944, was classified to section 290cc of this
 Another prior section 515 of act July 1, 1944, which was classified to section 229d of this title, was successively renumbered by subsequent acts and transferred, see section 238<i>l</i> of this title.
 
 #### Amendments
+
+2000—Subsec. (b)(9). Pub. L. 106–310, §3112(b)(2), added par. (9). Former par. (9) redesignated (10).
+
+Subsec. (b)(10). Pub. L. 106–310, §3112(b)(1), (3), redesignated par. (9) as (10) and substituted “educate the public, especially adolescent audiences, concerning” for “educate the public concerning”. Former par. (10) redesignated (11).
+
+Subsec. (b)(11). Pub. L. 106–310, §3112(b)(1), redesignated par. (10) as (11).
 
 1992—Subsec. (a). Pub. L. 102–321, §113(e)(1), substituted “(hereafter referred to in this part as the ‘Prevention Center’)” for “(hereafter in this part referred to as the ‘Office’)”.
 

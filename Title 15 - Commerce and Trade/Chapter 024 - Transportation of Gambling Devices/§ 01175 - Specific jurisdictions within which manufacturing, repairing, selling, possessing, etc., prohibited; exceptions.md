@@ -8,7 +8,7 @@ It shall be unlawful to manufacture, recondition, repair, sell, transport, posse
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), this section does not prohibit—
+&emsp;Except for a voyage or a segment of a voyage that begins and ends in the State of Hawaii, or as provided in paragraph (2), this section does not prohibit—
 
 &emsp;&emsp;(A) the repair, transport, possession, or use of a gambling device on a vessel that is not within the boundaries of any State or possession of the United States;
 
@@ -60,27 +60,25 @@ It shall be unlawful to manufacture, recondition, repair, sell, transport, posse
 
 &emsp;(C) is of at least 60 hours duration.
 
-(Jan. 2, 1951, ch. 1194, §5, 64 Stat. 1135; Pub. L. 102–251, title II, §202(b), Mar. 9, 1992, 106 Stat. 61; Pub. L. 104–264, title XII, §1222, Oct. 9, 1996, 110 Stat. 3286; Pub. L. 104–324, title XI, §1106, Oct. 19, 1996, 110 Stat. 3967.)
+(Jan. 2, 1951, ch. 1194, §5, 64 Stat. 1135; Pub. L. 102–251, title II, §202(b), Mar. 9, 1992, 106 Stat. 61; Pub. L. 104–264, title XII, §1222, Oct. 9, 1996, 110 Stat. 3286; Pub. L. 104–324, title XI, §1106, Oct. 19, 1996, 110 Stat. 3967; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §147\], Dec. 21, 2000, 114 Stat. 2763, 2763A–251.)
 
 #### Amendments
 
+2000—Subsec. (b)(1). Pub. L. 106–554 inserted “for a voyage or a segment of a voyage that begins and ends in the State of Hawaii, or” after “Except” in introductory provisions.
+
 1996—Subsec. (b)(1)(C). Pub. L. 104–324, §1106(b), added subpar. (C).
 
-(b)(2)(C). Pub. L. 104–264, §1222, and Pub. L. 104–324, §1106(a), made substantially identical amendments, adding subpar. (C). The text of subpar. (C) is based on amendment by Pub. L. 104–324.
+Subsec. (b)(2)(C). Pub. L. 104–264, §1222, and Pub. L. 104–324, §1106(a), made substantially identical amendments, adding subpar. (C). The text of subpar. (C) is based on amendment by Pub. L. 104–324.
 
 Subsec. (c). Pub. L. 104–324, §1106(c), added subsec. (c).
 
-1992—Subsec. (a). Pub. L. 102–251, §202(b)(1), (2), designated existing provisions as subsec. (a), inserted heading, and inserted before period at end “, includingon a vessel documented under chapter 121 of title 46 or documented under the laws of a foreign country”.
+1992—Subsec. (a). Pub. L. 102–251, §202(b)(1), (2), designated existing provisions as subsec. (a), inserted heading, and inserted before period at end “, including on a vessel documented under chapter 121 of title 46 or documented under the laws of a foreign country”.
 
 Subsec. (b). Pub. L. 102–251, §202(b)(3), added subsec. (b).
 
 #### Effective Date of 1996 Amendment
 
 Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of Title 49, Transportation.
-
-#### Cross References
-
-Penalty for violations, see section 1176 of this title.
 
 #### Section Referred to in Other Sections
 

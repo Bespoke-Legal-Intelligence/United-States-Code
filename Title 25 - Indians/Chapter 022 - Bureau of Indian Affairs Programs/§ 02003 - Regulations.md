@@ -6,11 +6,11 @@ The provisions of part 32 of title 25 of the Code of Federal Regulations, as in 
 
 #### (b) Application of parts 31, 33, 36, 39, 42, and 43 of title 25 of Code of Federal Regulations
 
-The provisions of parts 31, 33, 36, 39, 42, and 43 of title 25 of the Code of Federal Regulations, as in effect on January 1, 1987, shall be applied by the Federal Government and shall not, before July 1, 1989, be amended, revoked, or altered in any manner. No officer or employee of the executive branch shall have the authority to issue any other regulations, prior to July 1, 1989, that supersede, supplement, or otherwise affect the provisions of such parts. To the extent that the provisions of such parts do not conform with this Act or any statutory provision of law enacted before November 1, 1978,<sup>1</sup> the provisions of this Act and the provisions of such other statutory law shall govern.
+The provisions of parts 31, 33, 36, 39, 42, and 43 of title 25 of the Code of Federal Regulations, asin effect on January 1, 1987, shall be applied by the Federal Government and shall not, before July 1, 1989, be amended, revoked, or altered in any manner. No officer or employee of the executive branch shall have the authority to issue any other regulations, prior to July 1, 1989, that supersede, supplement, or otherwise affect the provisions of such parts. To the extent that the provisions of such parts do not conform with this Act or any statutory provision of law enacted before November 1, 1978,<sup>1</sup> the provisions of this Act and the provisions of such other statutory law shall govern.
 
 #### (c) Regulations prescribed after June 30, 1989
 
-After June 30, 1989, no regulation prescribed for the application of any program providedunder this chapter shall become effective unless—
+After June 30, 1989, no regulation prescribed for the application of any program provided under this chapter shall become effective unless—
 
 &emsp;(1) the regulation has been published as a proposed regulation in the Federal Register,
 

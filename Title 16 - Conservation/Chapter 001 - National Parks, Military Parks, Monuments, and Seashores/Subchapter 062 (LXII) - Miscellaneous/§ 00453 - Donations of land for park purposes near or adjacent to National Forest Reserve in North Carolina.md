@@ -8,7 +8,3 @@ The Secretary of the Interior is authorized to accept for park purposes any land
 
 “Government national forest” substituted in text for “Government forest reserve” on authority of act Mar. 4, 1907, ch. 2907, 34 Stat. 1269, which provided that forest reserves shall hereafter be known as national forests.
 
-#### Cross References
-
-Acceptance of donations of property and money for purposes of national park and monument system, see section 6 of this title.
-

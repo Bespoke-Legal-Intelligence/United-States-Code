@@ -2,7 +2,7 @@
 
 #### (a) Persons eligible for appointment as trustee
 
-(1) There shall at all times be one or more trustees under every indenture qualified or to be qualified pursuant to this subchapter, at least one of whom shall at all times be a corporation organized and doing business under the laws of the United States or of any State or Territory or of the District of Columbia or a corporation or other person permitted to act as trustee by the Commission (referred to in this subchapter as the institutional trustee), which (A) is authorized under such laws to exercise corporate trust powers, and (B) is subject to supervision or examination by Federal, State, Territorial, or District of Columbia authority. The Commission may, pursuant to such rules and regulations as it may prescribe, or by order on application, permit a corporation or other person organized and doing business under the laws of a foreign government to act as sole trustee under an indenture qualified or to be qualified pursuant to this subchapter, if such corporation or other person (i) is authorized under such laws to exercise corporate trust powers, and (ii) is subject to supervision or examination by authority of such foreign government or a political subdivision thereof substantially equivalent to supervision or examination applicable to United States institutional trustees. In prescribing such rules and regulations or making such order, the Commission shall consider whether under such laws, a United States institutional trustee is eligible to act as sole trustee under an indenture relating to securities sold within the jurisdiction of such foreign government.
+(1) There shall at all times be one or more trustees under every indenture qualified or to be qualified pursuant to this subchapter, at least one of whom shall at all times be a corporation organized and doing business under the laws of the United States or of any State or Territory or of the District of Columbia or a corporation or other person permitted to act as trustee by the Commission (referred to in this subchapter as the institutional trustee), which (A) is authorized under such laws to exercise corporate trust powers, and (B) is subject to supervision or examination by Federal, State, Territorial, or District of Columbia authority. The Commission may, pursuant to such rules and regulations as it may prescribe, or by order on application, permit a corporation or other person organized and doing business under the laws of a foreign government to act as sole trustee under an indenture qualified or to be qualified pursuant to this subchapter, if such corporation or other person (i) is authorized under such laws to exercise corporate trust powers, and (ii) is subject to supervision or examination by authority of such foreign government or a political subdivision thereof substantially equivalent to supervision or examination applicable to United States institutional trustees. In prescribing such rules and regulations or making such order, the Commission shall consider whether under such laws,a United States institutional trustee is eligible to act as sole trustee under an indenture relating to securities sold within the jurisdiction of such foreign government.
 
 (2) Such institution <sup>1</sup> trustee shall have at all times a combined capital and surplus of a specified minimum amount, which shall not be less than $150,000. If such institutional trustee publishes reports of condition at least annually, pursuant to law or to the requirements of said supervising or examining authority, the indenture may provide that, for the purposes of this paragraph, the combined capital and surplus of such trustee shall be deemed to be its combined capital and surplus as set forth in its most recent report of condition so published.
 
@@ -20,7 +20,7 @@ If any indenture trustee has or shall acquire any conflicting interest as herein
 
 &emsp;(ii) in the event that such trustee shall fail to comply with the provisions of clause (i) of this subsection, such trustee shall, within 10 days after the expiration of such 90-day period, transmit notice of such failure to the indenture security holders in the manner and to the extent provided in subsection (c) of section 77mmm of this title; and
 
-&emsp;(iii) subject to the provisions of subsection (e) of section 77<i>ooo</i> of this title, unless such trustee's duty to resign is stayed as provided below in this subsection, any security holder who has been a bona fide holder of indenturesecurities for at least six months may, on behalf of himself and all others similarly situated, petition any court of competent jurisdiction for the removal of such trustee, and the appointment of a successor, if such trustee fails, after written request thereof by such holder to comply with the provisions of clause (i) of this subsection.
+&emsp;(iii) subject to the provisions of subsection (e) of section 77<i>ooo</i> of this title, unless such trustee's duty to resign is stayed as provided below in this subsection, any security holder who has been a bona fide holder of indenture securities for at least six months may, on behalf of himself and all others similarly situated, petition any court of competent jurisdiction for the removal of such trustee, and the appointment of a successor, if such trustee fails, after written request thereof by such holder to comply with the provisions of clause (i) of this subsection.
 
 For the purposes of this subsection, an indenture trustee shall be deemed to have a conflicting interest if the indenture securities are in default (as such term is defined in such indenture, but exclusive of any period of grace or requirement of notice) and—
 
@@ -54,7 +54,7 @@ For the purposes of this subsection, an indenture trustee shall be deemed to hav
 
 &emsp;(6) such trustee is the beneficial owner of, or holds as collateral security for an obligation which is in default as hereinafter defined—
 
-&emsp;&emsp;(A) 5 per centum or more of the voting securities, or 10 per centum or more of any other class of security, of an obligor upon the indenture securities, not including indentures <sup>2</sup> securities and securities issuedunder any other indenture under which such trustee is also trustee, or
+&emsp;&emsp;(A) 5 per centum or more of the voting securities, or 10 per centum or more of any other class of security, of an obligor upon the indenture securities, not including indentures <sup>2</sup> securities and securities issued under any other indenture under which such trustee is also trustee, or
 
 &emsp;&emsp;(B) 10 per centum or more of any class of security of an underwriter for any such obligor;
 
@@ -82,7 +82,7 @@ For the purposes of this subsection, the term “underwriter” when used with r
 
 Except in the case of a default in the payment of the principal of or interest on any indenture security, or in the payment of any sinking or purchase fund installment, the indenture trustee shall not be required to resign as provided by this subsection if such trustee shall have sustained the burden of proving, on application to the Commission and after opportunity for hearing thereon, that—
 
-&emsp;(i) the default under the indenture may be cured or waived during a reasonable periodand under the procedures described in such application, and
+&emsp;(i) the default under the indenture may be cured or waived during a reasonable period and under the procedures described in such application, and
 
 &emsp;(ii) a stay of the trustee's duty to resign will not be inconsistent with the interests of holders of the indenture securities. The filing of such an application shall automatically stay the performance of the duty to resign until the Commission orders otherwise.
 
@@ -115,26 +115,6 @@ Subsec. (b). Pub. L. 101–550, §408, amended subsec. (b) generally.
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
-#### Cross References
-
-Definition of term, default, when preferential collection of claim against obligor is involved, see section 77kkk of this title.
-
-Effect of prescribed indenture provisions, see section 77rrr of this title.
-
-Information and documents in registration statement to determine eligibility and conflicting interest of indenture trustee under subsecs. (a) and (b) of this section, see section 77eee of this title.
-
-Investigation of prospective trustee to determine eligibility under this section, see section 77uuu of this title.
-
-Refusal order—
-
-&emsp;&emsp;When indenture does not conform to the requirements of this section, see section 77eee of this title.
-
-&emsp;&emsp;When indenture trustee is ineligible or has conflicting interest, see section 77eee of this title.
-
-Reports by indenture trustee with respect to its eligibility and qualifications under this section, see section 77mmm of this title.
-
-Rules and regulations prescribing method of calculating percentages of voting securities and other securities, see section 77sss of this title.
 
 #### Section Referred to in Other Sections
 

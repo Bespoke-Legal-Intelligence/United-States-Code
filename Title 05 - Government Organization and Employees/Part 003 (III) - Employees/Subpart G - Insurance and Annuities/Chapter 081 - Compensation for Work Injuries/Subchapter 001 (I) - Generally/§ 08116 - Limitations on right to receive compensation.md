@@ -8,11 +8,11 @@
 
 &emsp;(3) other benefits administered by the Department of Veterans Affairs unless such benefits are payable for the same injury or the same death; and
 
-&emsp;(4) retired pay, retirement pay, retainer pay, or equivalent pay for service in the Armed Forces or other uniformed services, subject to the reduction of such pay in accordance with section 5532(b) <sup>1</sup> of title 5, United States Code.
+&emsp;(4) retired pay, retirement pay, retainer pay, or equivalent pay for service in the Armed Forces or other uniformed services.
 
 > However, eligibility for or receipt of benefits under subchapter III of chapter 83 of this title, or another retirement system for employees of the Government, does not impair the right of the employee to compensation for scheduled disabilities specified by section 8107(c) of this title.
 
-(b) An individual entitled to benefits under this subchapter because of his injury, or becauseof the death of an employee, who also is entitled to receive from the United States under a provision of statute other than this subchapter payments or benefits for that injury or death (except proceeds of an insurance policy), because of service by him (or in the case of death, by the deceased) as an employee or in the armed forces, shall elect which benefits he will receive. The individual shall make the election within 1 year after the injury or death or within a further time allowed for good cause by the Secretary of Labor. The election when made is irrevocable, except as otherwise provided by statute.
+(b) An individual entitled to benefits under this subchapter because of his injury, or because of the death of an employee, who also is entitled to receive from the United States under a provision of statute other than this subchapter payments or benefits for that injury or death (except proceeds of an insurance policy), because of service by him (or in the case of death, by the deceased) as an employee or in the armed forces, shall elect which benefits he will receive. The individual shall make the election within 1 year after the injury or death or within a further time allowed for good cause by the Secretary of Labor. The election when made is irrevocable, except as otherwise provided by statute.
 
 (c) The liability of the United States or an instrumentality thereof under this subchapter or any extension thereof with respect to the injury or death of an employee is exclusive and instead of all other liability of the United States or the instrumentality to the employee, his legal representative, spouse, dependents, next of kin, and any other person otherwise entitled to recover damages from the United States or the instrumentality because of the injury or death in a direct judicial proceeding, in a civil action, or in admiralty, or by an administrative or judicial proceeding under a workmen's compensation statute or under a Federal tort liability statute. However, this subsection does not apply to a master or a member of a crew of a vessel.
 
@@ -20,9 +20,9 @@
 
 &emsp;(1) benefits received under section 223 of the Social Security Act (on account of disability) shall be subject to reduction on account of benefits paid under this subchapter pursuant to the provisions of section 224 of the Social Security Act; and
 
-&emsp;(2) in the case of benefits received on account of age or death under title II of the Social Security Act, compensation payable under this subchapter based on the Federal service of an employee shall be reduced by the amount of any such social security benefits payable that are attributable to Federal service of that employee covered by chapter 84 of this title. However, eligibility for or receipt of benefits under chapter 84 of this title, or benefits under title II of the Social Security Act by virtue of service covered by chapter 84 of this title, does not affect the right of the employee to compensation for scheduled disabilities specified by section 8107(c) of this title.
+&emsp;(2) in the case of benefits received on account of age or death under title II of the Social Security Act, compensation payable under this subchapter based on the Federal service of an employee shall be reduced by the amount ofany such social security benefits payable that are attributable to Federal service of that employee covered by chapter 84 of this title. However, eligibility for or receipt of benefits under chapter 84 of this title, or benefits under title II of the Social Security Act by virtue of service covered by chapter 84 of this title, does not affect the right of the employee to compensation for scheduled disabilities specified by section 8107(c) of this title.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 542; Pub. L. 90–83, §1(56), Sept. 11, 1967, 81 Stat. 210; Pub. L. 93–416, §9(a), Sept. 7, 1974, 88 Stat. 1145; Pub. L. 99–335, title II, §207(e), June 6, 1986, 100 Stat. 595; Pub. L. 102–54, §13(b)(1), June 13, 1991, 105 Stat. 274.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 542; Pub. L. 90–83, §1(56), Sept. 11, 1967, 81 Stat. 210; Pub. L. 93–416, §9(a), Sept. 7, 1974, 88 Stat. 1145; Pub. L. 99–335, title II, §207(e), June 6, 1986, 100 Stat. 595; Pub. L. 102–54, §13(b)(1), June 13, 1991, 105 Stat. 274; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(f)(3)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–293.)
 
 Historical and Revision Notes<br>1966
 
@@ -92,11 +92,11 @@ The words “another retirement system for employees of the Government” are su
 
 #### References in Text
 
-Section 5532 of title 5, referred to in subsec. (a)(4), was repealed by Pub. L. 106–65, div. A, title VI, §651(a)(1), Oct. 5, 1999, 113 Stat. 664.
-
 The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Sections 223 and 224 are classified to sections 423 and 424a, respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
+
+2000—Subsec. (a)(4). Pub. L. 106–398 struck out “, subject to the reduction of such pay in accordance with section 5532(b) of title 5, United States Code” after “uniformed services”.
 
 1991—Subsec. (a)(3). Pub. L. 102–54 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
@@ -110,7 +110,7 @@ Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub.
 
 #### Effective Date of 1974 Amendment
 
-Section 9(b) of Pub. L. 93–416 provided that: “The amendment made by this section \[amending this section\] shall be effective with respect to disability ordeath occurring before or after the date of enactment of this Act \[Sept. 7, 1974\] and without regard to any election under section 8116(b) of the Act \[subsec. (b) of this section\]; but no payment shall be made by reason of such amendment for any period prior to the date of enactment of this Act.”
+Section 9(b) of Pub. L. 93–416 provided that: “The amendment made by this section \[amending this section\] shall be effective with respect to disability or death occurring before or after the date of enactment of this Act \[Sept. 7, 1974\] and without regard to any election under section 8116(b) of the Act \[subsec. (b) of this section\]; but no payment shall be made by reason of such amendment for any period prior to the date of enactment of this Act.”
 
 #### Personnel Not Affected by 1967 Increase
 
@@ -119,6 +119,4 @@ Increases authorized under amendment by section 1(56) of Pub. L. 90–83 not app
 #### Section Referred to in Other Sections
 
 This section is referred to in title 22 section 3715d.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

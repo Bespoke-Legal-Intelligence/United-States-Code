@@ -1,5 +1,5 @@
 
-25 U.S.C.<br>United States Code, 1999 Edition<br>Title 25 - INDIANS<br>From the U.S. Government Publishing Office, www.gpo.gov
+25 U.S.C.<br>United States Code, 2000 Edition<br>Title 25 - INDIANS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 25—INDIANS
 
@@ -45,11 +45,13 @@
 | [<b>36.</b>](Chapter%20036%20-%20Indian%20Employment%2C%20Training%20and%20Related%20Services/README.md) | <b>Indian Employment, Training and Related Services</b> | <b>3401</b> |
 | [<b>37.</b>](Chapter%20037%20-%20Indian%20Energy%20Resources/README.md) | <b>Indian Energy Resources</b> | <b>3501</b> |
 | [<b>38.</b>](Chapter%20038%20-%20Indian%20Tribal%20Justice%20Support/README.md) | <b>Indian Tribal Justice Support</b> | <b>3601</b> |
+| [<b>38A.</b>](Chapter%20038A%20-%20Indian%20Tribal%20Justice%20Technical%20and%20Legal%20Assistance/README.md) | <b>Indian Tribal Justice Technical and Legal Assistance</b> | <b>3651</b> |
 | [<b>39.</b>](Chapter%20039%20-%20American%20Indian%20Agricultural%20Resource%20Management/README.md) | <b>American Indian Agricultural Resource Management</b> | <b>3701</b> |
 | [<b>40.</b>](Chapter%20040%20-%20Indian%20Dams%20Safety/README.md) | <b>Indian Dams Safety</b> | <b>3801</b> |
 | [<b>41.</b>](Chapter%20041%20-%20Indian%20Lands%20Open%20Dump%20Cleanup/README.md) | <b>Indian Lands Open Dump Cleanup</b> | <b>3901</b> |
 | [<b>42.</b>](Chapter%20042%20-%20American%20Indian%20Trust%20Fund%20Management%20Reform/README.md) | <b>American Indian Trust Fund Management Reform</b> | <b>4001</b> |
 | [<b>43.</b>](Chapter%20043%20-%20Native%20American%20Housing%20Assistance%20and%20Self-Determination/README.md) | <b>Native American Housing Assistance and Self-Determination</b> | <b>4101</b> |
+| [<b>44.</b>](Chapter%20044%20-%20Native%20American%20Business%20Development%2C%20Trade%20Promotion%2C%20and%20Tourism/README.md) | <b>Native American Business Development, Trade Promotion, and Tourism</b> | <b>4301</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -98,8 +100,10 @@
 - [Chapter 036 - Indian Employment, Training and Related Services](Chapter%20036%20-%20Indian%20Employment%2C%20Training%20and%20Related%20Services/README.md)
 - [Chapter 037 - Indian Energy Resources](Chapter%20037%20-%20Indian%20Energy%20Resources/README.md)
 - [Chapter 038 - Indian Tribal Justice Support](Chapter%20038%20-%20Indian%20Tribal%20Justice%20Support/README.md)
+- [Chapter 038A - Indian Tribal Justice Technical and Legal Assistance](Chapter%20038A%20-%20Indian%20Tribal%20Justice%20Technical%20and%20Legal%20Assistance/README.md)
 - [Chapter 039 - American Indian Agricultural Resource Management](Chapter%20039%20-%20American%20Indian%20Agricultural%20Resource%20Management/README.md)
 - [Chapter 040 - Indian Dams Safety](Chapter%20040%20-%20Indian%20Dams%20Safety/README.md)
 - [Chapter 041 - Indian Lands Open Dump Cleanup](Chapter%20041%20-%20Indian%20Lands%20Open%20Dump%20Cleanup/README.md)
 - [Chapter 042 - American Indian Trust Fund Management Reform](Chapter%20042%20-%20American%20Indian%20Trust%20Fund%20Management%20Reform/README.md)
 - [Chapter 043 - Native American Housing Assistance and Self-Determination](Chapter%20043%20-%20Native%20American%20Housing%20Assistance%20and%20Self-Determination/README.md)
+- [Chapter 044 - Native American Business Development, Trade Promotion, and Tourism](Chapter%20044%20-%20Native%20American%20Business%20Development%2C%20Trade%20Promotion%2C%20and%20Tourism/README.md)

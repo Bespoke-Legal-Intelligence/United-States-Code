@@ -18,7 +18,7 @@
 
 #### (B) Publication of proposed modifications and proposed additional safe harbors
 
-&emsp;&emsp;After considering the proposals described in clauses (i) and (ii) of subparagraph (A), the Secretary, in consultation with the Attorney General, shall publish in the Federal Register proposed modifications to existing safe harbors and proposed additional safe harbors, if appropriate, with a 60-day comment period. After considering any public comments received during this period, the Secretary shall issue final rules modifying the existing safe harbors and establishing new safe harbors, as appropriate.
+&emsp;&emsp;After considering the proposals described in clauses (i) and (ii) of subparagraph (A), the Secretary, in consultation with the Attorney General, shall publish in the Federal Register proposed modifications to existing safe harbors and proposed additional safe harbors, if appropriate, with a 60-day comment period. After considering any publiccomments received during this period, the Secretary shall issue final rules modifying the existing safe harbors and establishing new safe harbors, as appropriate.
 
 #### (C) Report
 
@@ -108,13 +108,13 @@
 
 &emsp;&emsp;Under the regulations promulgated pursuant to subparagraph (A)—
 
-&emsp;&emsp;&emsp;(i) the Secretary shall be required to issue to a party requesting an advisory opinion by not later than 60 days after the request is received; and
+&emsp;&emsp;&emsp;(i) the Secretary shall be required to issue to a party requesting an advisoryopinion by not later than 60 days after the request is received; and
 
 &emsp;&emsp;&emsp;(ii) the fee charged to the party requesting an advisory opinion shall be equal to the costs incurred by the Secretary in responding to the request.
 
 #### (6) Application of subsection
 
-&emsp;This subsection shall apply to requests for advisory opinions made on or after the date which is 6 months after August 21, 1996, and before the date which is 4 years after August 21, 1996.
+&emsp;This subsection shall apply to requests for advisory opinions made on or after the date which is 6 months after August 21, 1996.
 
 #### (c) Special fraud alerts
 
@@ -136,7 +136,7 @@
 
 &emsp;&emsp;(B) the volume and frequency of the conduct that would be identified in the special fraud alert.
 
-(Aug. 14, 1935, ch. 531, title XI, §1128D, as added Pub. L. 104–191, title II, §205, Aug. 21, 1996, 110 Stat. 2000; amended Pub. L. 105–33, title IV, §4331(a)(1), Aug. 5, 1997, 111 Stat. 395; Pub. L. 105–277, div. J, title V, §5201(c), Oct. 21, 1998, 112 Stat. 2681–917.)
+(Aug. 14, 1935, ch. 531, title XI, §1128D, as added Pub. L. 104–191, title II, §205, Aug. 21, 1996, 110 Stat. 2000; amended Pub. L. 105–33, title IV, §4331(a)(1), Aug. 5, 1997, 111 Stat. 395; Pub. L. 105–277, div. J, title V, §5201(c), Oct. 21, 1998, 112 Stat. 2681–917; Pub. L. 106–554, §1(a)(6) \[title V, §543\], Dec. 21, 2000, 114 Stat. 2763, 2763A–551.)
 
 #### References in Text
 
@@ -147,6 +147,8 @@ Section 5 of the Inspector General Act of 1978, referred to in subsec. (a)(1)(C)
 The Internal Revenue Code of 1986, referred to in subsec. (b)(3)(B), is classified generally to Title 26, Internal Revenue Code.
 
 #### Amendments
+
+2000—Subsec. (b)(6). Pub. L. 106–554 struck out “, and before the date which is 4 years after August 21, 1996” before period at end.
 
 1998—Subsec. (b)(2)(A). Pub. L. 105–277 inserted “or section 1320a–7a(i)(6) of this title” before period at end.
 

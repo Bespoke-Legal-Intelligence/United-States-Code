@@ -2,7 +2,7 @@
 
 #### Codification
 
-Sections, which made provision for a Director of the Coast and Geodetic Survey and for a Deputy Directorand covered their appointment, rank, pay, and allowances, have been omitted in view of 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, set out as a note under section 851 of this title, which abolished such offices and transferred their functions to the Secretary of Commerce. For further details, see Transfer of Functions note set out under section 851 of this title.
+Sections, which made provision for a Director of the Coast and Geodetic Survey and for a Deputy Director and covered their appointment, rank, pay, and allowances, have been omitted in view of 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, set out as a note under section 851 of this title, which abolished such offices and transferred their functions to the Secretary of Commerce. For further details, see Transfer of Functions note set out under section 851 of this title.
 
 Section 852, acts June 4, 1920, ch. 228, §1, 41 Stat. 825; June 5, 1920, ch. 235, §1, 41 Stat. 929; Feb. 16, 1929, ch. 221, §5, 45 Stat. 1187; Mar. 18, 1936, ch. 147, 49 Stat. 1164, provided for the appointment and reappointment of the Director of the Coast and Geodetic Survey.
 

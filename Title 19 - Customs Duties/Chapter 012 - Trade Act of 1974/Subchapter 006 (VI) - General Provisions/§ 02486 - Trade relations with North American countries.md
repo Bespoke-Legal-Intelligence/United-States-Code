@@ -2,7 +2,7 @@
 
 #### (a) Negotiations for free trade area with Canada
 
-It is the sense of the Congress that the United States should enter into a trade agreement with Canada which will guarantee continued stability to the economies of the United States and Canada. In order to promote such economic stability, the President may initiate negotiations for a trade agreement with Canada to establish a free trade area covering the United States and Canada. Nothing in this section shall be construed as prior approval of any legislation which may be necessary to implement such a trade agreement.
+It is the sense of the Congress that the United States should enter into a trade agreement withCanada which will guarantee continued stability to the economies of the United States and Canada. In order to promote such economic stability, the President may initiate negotiations for a trade agreement with Canada to establish a free trade area covering the United States and Canada. Nothing in this section shall be construed as prior approval of any legislation which may be necessary to implement such a trade agreement.
 
 #### (b) Regional study
 

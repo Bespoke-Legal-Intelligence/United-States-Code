@@ -16,7 +16,7 @@ Remedy and Enforcement Authority.—(1) If the head of the agency determines tha
 
 &emsp;(B) Order the contractor to reinstate the person to the position that the person held before the reprisal, together with the compensation (including back pay), employment benefits, and other terms and conditions of employment that would apply to the person in that position if the reprisal had not been taken.
 
-&emsp;(C) Order the contractor to pay the complainant an amount equal to the aggregate amount of all costs and expenses (including attorneys’ fees and expert witnesses’ fees) that were reasonably incurred by the complainant for, or in connection with, bringing the complaint regarding the reprisal, as determined by the head of the agency.
+&emsp;(C) Order the contractor to pay the complainant an amount equal to the aggregateamount of all costs and expenses (including attorneys’ fees and expert witnesses’ fees) that were reasonably incurred by the complainant for, or in connection with, bringing the complaint regarding the reprisal, as determined by the head of the agency.
 
 (2) Whenever a person fails to comply with an order issued under paragraph (1), the head of the agency shall file an action for enforcement of such order in the United States district court for a district in which the reprisal was found to have occurred. In any action brought under this paragraph, the court may grant appropriate relief, including injunctive relief and compensatory and exemplary damages.
 

@@ -130,7 +130,7 @@ Amendment by Pub. L. 102–321 effective Oct. 1, 1992, with provision for progra
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 242, 254m, 282, 284, 285a–3, 285b–4, 285c–2, 285d–2, 285e–2, 287c, 288–4, 288–5, 299a, 300cc–16 of this title.
+This section is referred to in sections 254m, 282, 284, 285a–3, 285b–4, 285c–2, 285d–2, 285e–2, 287c, 288–4, 288–5, 299a, 300cc–16 of this title.
 
 <i><sup>1</sup></i><i> So in original. Reference to Administration probably should not appear.</i>
 

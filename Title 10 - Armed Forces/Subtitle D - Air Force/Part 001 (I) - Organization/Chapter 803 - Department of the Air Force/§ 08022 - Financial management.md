@@ -1,6 +1,6 @@
 ### §8022. Financial management
 
-(a) The Secretary of the Air Force shall provide that the Assistant Secretary of the Air Force for Financial Management shall direct and manage financial management activitiesand operations of the Department of the Air Force, including ensuring that financial management systems of the Department of the Air Force comply with subsection (b). The authority of the Assistant Secretary for such direction and management shall include the authority to—
+(a) The Secretary of the Air Force shall provide that the Assistant Secretary of the Air Force for Financial Management shall direct and manage financial management activities and operations of the Department of the Air Force, including ensuring that financial management systems of the Department of the Air Force comply with subsection (b). The authority of the Assistant Secretary for such direction and management shall include the authority to—
 
 &emsp;(1) supervise and direct the preparation of budget estimates of the Department of the Air Force and otherwise carry out, with respect to the Department of the Air Force, the functions specified for the Under Secretary of Defense (Comptroller) in section 135(c) of this title;
 

@@ -40,10 +40,6 @@ Nothing in this section shall be construed to require the Commission, in determi
 
 Amendment by Pub. L. 97–35 effective Aug. 13, 1981, see section 1215 of Pub. L. 97–35, set out as a note under section 2052 of this title.
 
-#### Federal Rules of Civil Procedure
-
-Admiralty and maritime rules of practice (which included libel procedures) were superseded, and civil and admiralty procedures in United States district courts were unified, effective July 1, 1966, see rule 1 and Supplemental Rules for Certain Admiralty and Maritime Claims, Title 28, Appendix, Judiciary and Judicial Procedure.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 2055, 2064, 2066 of this title; title 42 section 300j–22.

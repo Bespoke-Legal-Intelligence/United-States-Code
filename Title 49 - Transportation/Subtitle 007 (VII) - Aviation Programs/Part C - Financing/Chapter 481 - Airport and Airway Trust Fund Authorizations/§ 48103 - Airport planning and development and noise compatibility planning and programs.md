@@ -1,8 +1,20 @@
 ### §48103. Airport planning and development and noise compatibility planning and programs
 
-The total amounts which shall be available after September 30, 1998, to the Secretary of Transportation out of the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 (26 U.S.C. 9502) to make grants for airport planning and airport development under section 47104 of this title, airport noise compatibility planning under section 47505(a)(2) of this title, and carrying out noise compatibility programs under section 47504(c) of this title shall be $2,410,000,000 for the fiscal year ending September 30, 1999.
+The total amounts which shall be available after September 30, 1998, to the Secretary of Transportation out of the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 (26 U.S.C. 9502) to make grants for airport planning and airport development under section 47104 of this title, airport noise compatibility planning under section 47505(a)(2) of this title, and carrying out noise compatibility programs under section 47504(c) of this title shall be—
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1296; Pub. L. 103–305, title I, §101(a), Aug. 23, 1994, 108 Stat. 1570; Pub. L. 104–264, title I, §101(a), Oct. 9, 1996, 110 Stat. 3216; Pub. L. 105–277, div. C, title I, §110(b)(1), Oct. 21, 1998, 112 Stat. 2681–587; Pub. L. 106–6, §2(a), Mar. 31, 1999, 113 Stat. 10; Pub. L. 106–31, title VI, §6002(a), May 21, 1999, 113 Stat. 113; Pub. L. 106–59, §1(a), Sept. 29, 1999, 113 Stat. 482.)
+&emsp;(1) $2,410,000,000 for fiscal year 1999;
+
+&emsp;(2) $2,475,000,000 for fiscal year 2000;
+
+&emsp;(3) $3,200,000,000 for fiscal year 2001;
+
+&emsp;(4) $3,300,000,000 for fiscal year 2002; and
+
+&emsp;(5) $3,400,000,000 for fiscal year 2003.
+
+> Such sums shall remain available until expended.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1296; Pub. L. 103–305, title I, §101(a), Aug. 23, 1994, 108 Stat. 1570; Pub. L. 104–264, title I, §101(a), Oct. 9, 1996, 110 Stat. 3216; Pub. L. 105–277, div. C, title I, §110(b)(1), Oct. 21, 1998, 112 Stat. 2681–587; Pub. L. 106–6, §2(a), Mar. 31, 1999, 113 Stat. 10; Pub. L. 106–31, title VI, §6002(a), May 21, 1999, 113 Stat.113; Pub. L. 106–59, §1(a), Sept. 29, 1999, 113 Stat. 482; Pub. L. 106–181, title I, §101(a), Apr. 5, 2000, 114 Stat. 65.)
 
 Historical and Revision Notes
 
@@ -30,6 +42,8 @@ In this section, references to the aggregate amounts for fiscal years ending bef
 
 #### Amendments
 
+2000—Pub. L. 106–181 substituted “shall be—” along with pars. (1) to (5) and concluding provisions for “shall be $2,410,000,000 for the fiscal year ending September 30, 1999.”
+
 1999—Pub. L. 106–59 substituted “$2,410,000,000 for the fiscal year ending September 30, 1999.” for “$2,050,000,000 for the period beginning October 1, 1998 and ending August 6, 1999.”
 
 Pub. L. 106–31 substituted “$2,050,000,000 for the period beginning October 1, 1998 and ending August 6, 1999.” for “$1,607,000,000 for the 8-month period beginning October 1, 1998.”.
@@ -42,11 +56,27 @@ Pub. L. 106–6 substituted “$1,607,000,000 for the 8-month period beginning O
 
 1994—Pub. L. 103–305 substituted “The total amounts which shall be available after September 30, 1981, to the Secretary of Transportation” for “Not more than a total of $15,966,700,000 is available to the Secretary of Transportation for the fiscal years ending September 30, 1982–1993,” and inserted before period at end “shall be $17,583,500,000 for fiscal years ending before October 1, 1994, $19,744,500,000 for fiscal years ending before October 1, 1995, and $21,958,500,000 for fiscal years ending before October 1, 1996”.
 
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
+
 #### Effective Date of 1996 Amendment
 
 Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 
+#### Notice of Grants
+
+Pub. L. 106–181, title I, §159, Apr. 5, 2000, 114 Stat. 90, provided that:
+
+“(a)
+
+Timely Announcement.—The Secretary \[of Transportation\] shall announce a grant to be made with funds made available under section 48103 of title 49, United States Code, in a timely fashion after receiving necessary documentation concerning the grant from the Administrator \[of the Federal Aviation Administration\].
+
+“(b)
+
+Notice to Committees.—If the Secretary provides any committee of Congress advance notice of a grant to be made with funds made available under section 48103 of title 49, United States Code, the Secretary shall provide, on the same date, such notice to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.”
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 47102, 47104, 47107, 47110, 47113, 47114, 47115, 47116, 47117, 47504, 47505, 48104, 48108 of this title.
+This section is referred to in sections 40117, 47102, 47104, 47107, 47110, 47113, 47114, 47115, 47116, 47117, 47136, 47504, 47505, 48108, 48112, 48113 of this title.
 

@@ -34,11 +34,7 @@ Definition of Authorization.—For purposes of this section, the term ‘authori
 
 Implementation.—This section shall take effect upon promulgation of Forest Service regulations for the collection of fees for processing of special use authorizations and for related monitoring activities.”
 
-#### Cross References
-
-Contracts for sale of forest products, use of national-forest lands, etc., exempt from requirements of section 20 of Title 41, where amount involved is less than $300, see section 20a of Title 41, Public Contracts.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 460aaa–2, 497b, 497c of this title.
+This section is referred to in sections 460aaa–2, 497b, 497c, 6203 of this title.
 

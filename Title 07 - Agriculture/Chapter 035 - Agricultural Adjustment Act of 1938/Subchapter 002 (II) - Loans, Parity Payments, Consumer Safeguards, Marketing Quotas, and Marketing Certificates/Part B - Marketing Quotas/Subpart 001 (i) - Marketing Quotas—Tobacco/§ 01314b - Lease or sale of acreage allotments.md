@@ -22,7 +22,7 @@ The lease and transfer or sale and transfer of any allotment shall not be effect
 
 #### (d) Allotments for other years unaffected; inclusion of amount in transferors’ plantings; referendum voting rights
 
-The lease and transfer of any part of a tobacco acreage allotment determined for a farm shall not affect the allotment for the farm from which such acreage allotment is transferred or thefarm to which it is transferred, except with respect to the crop year specified in the lease. The amount of acreage allotment which is leased from a farm shall be considered for purpose of determining future allotments to have been planted to tobacco on the farm from which such allotment is transferred and the production pursuant to the lease and transfer shall not be taken into account in establishing allotments for subsequent years for the farm to which such allotment is transferred. The lessor shall be considered to have been engaged in the production of tobacco for the purpose of eligibility to vote in the referendum.
+The lease and transfer of any part of a tobacco acreage allotment determined for a farm shall not affect the allotment for the farm from which such acreage allotment is transferred or the farm to which it is transferred, except with respect to the crop year specified in the lease. The amount of acreage allotment which is leased from a farm shall be considered for purpose of determining future allotments to have been planted to tobacco on the farm from which such allotment is transferred and the production pursuant to the lease and transfer shall not be taken into account in establishing allotments for subsequent years for the farm to which such allotment is transferred. The lessor shall be considered to have been engaged in the production of tobacco for the purpose of eligibility to vote in the referendum.
 
 #### (e) Limitation on amount of acreage allotment; “tillable cropland” defined
 
@@ -118,7 +118,7 @@ Subsec. (a)(2). Pub. L. 98–180, §206(b)(1), struck out par. (2) which read as
 
 &emsp;“(i) the county in which such farm is located has suffered a loss of not less than 10 per centum of the acreage of Flue-cured tobacco planted for harvest in such crop year;
 
-&emsp;“(ii) the lessor involved has suffered a loss of not less than 10 per centum of the acreage of Flue-cured tobacco planted for harvest on such farm in such crop year; and
+&emsp;“(ii) the lessor involved has suffered a loss of not less than 10 per centum of the acreage of Flue-curedtobacco planted for harvest on such farm in such crop year; and
 
 &emsp;“(iii) such lease will not impair the effective operation of the tobacco marketing quota or price support program.
 
@@ -132,7 +132,7 @@ Subsec. (a)(2). Pub. L. 98–180, §206(b)(1), struck out par. (2) which read as
 
 “(C) No sublease or other transfer of such allotment or quota may be made by such lessee during the period of such lease.”
 
-Subsec. (c). Pub. L. 98–180, §206(a), struck out provisions requiring the lessor and lessee, in addition to a copy of the lease, to file with the county committee a written statement certifying compliance with the provisions of this section, authorizing the county committee, after notice and opportunity for hearing, to determine that a knowingly false statement was made in such written statement, specifying penalties for suchfalse statement, directing that notice of the determination be mailed to the lessor or lessee, and permitting the lessor or lessee, if dissatisfied with such determination, to review such determination under section 1363 of this title.
+Subsec. (c). Pub. L. 98–180, §206(a), struck out provisions requiring the lessor and lessee, in addition to a copy of the lease, to file with the county committee a written statement certifying compliance with the provisions of this section, authorizing the county committee, after notice and opportunity for hearing, to determine that a knowingly false statement was made in such written statement, specifying penalties for such false statement, directing that notice of the determination be mailed to the lessor or lessee, and permitting the lessor or lessee, if dissatisfied with such determination, to review such determination under section 1363 of this title.
 
 Subsec. (e)(1). Pub. L. 98–180, §206(b)(2), substituted “the sale of a Flue-cured tobacco acreage allotment or poundage quota” for “Flue-cured tobacco”.
 
@@ -170,7 +170,7 @@ Subsec. (g). Pub. L. 91–284, §4, repealed provision for filing of leases for 
 
 1968—Subsec. (a). Pub. L. 90–559 provided for a one year extension through 1970.
 
-1967—Subsec. (a). Pub. L. 90–6 struck out provision which restricted leasing and transferring of a Maryland tobacco allotment unless at least 75 percent of the allotment for the farm had been actually planted on such farm during each of the two immediately preceding years.
+1967—Subsec. (a). Pub. L. 90–6 struck out provision which restricted leasing and transferring of a Marylandtobacco allotment unless at least 75 percent of the allotment for the farm had been actually planted on such farm during each of the two immediately preceding years.
 
 Subsec. (e). Pub. L. 90–52 removed 5 acre limitation on amount of tobacco allotment acreage which may be leased and transferred to any farm.
 
@@ -184,7 +184,7 @@ Subsec. (g). Pub. L. 89–29 substituted “1965 crop year” for “1964 crop y
 
 Subsec. (h). Pub. L. 88–469, §2, repealed subsec. (h) which related to filing of leases for 1963 crop year.
 
-1963—Subsec. (a). Pub. L. 88–68, §1(1), extended to crop years 1964 and 1965 provisions permitting lease of tobacco acreage allotments, substituted “or” for “, and for the 1963 crop year, other than”, inserted “1962 or1963” before “allotment” in the Maryland tobacco provision and precluded the leasing of 1964 or 1965 Maryland tobacco allotment from the farm unless at least 75 per centum of the allotment for the farm was actually planted on such farm during each of the two immediately preceding years.
+1963—Subsec. (a). Pub. L. 88–68, §1(1), extended to crop years 1964 and 1965 provisions permitting lease of tobacco acreage allotments, substituted “or” for “, and for the 1963 crop year, other than”, inserted “1962 or 1963” before “allotment” in the Maryland tobacco provision and precluded the leasing of 1964 or 1965 Maryland tobacco allotment from the farm unless at least 75 per centum of the allotment for the farm was actually planted on such farm during each of the two immediately preceding years.
 
 Subsec. (b). Pub. L. 88–68, §1(2), required annual basis for leases and eliminated provisions against leases for any period exceeding 1 year and for renewal of 1963 crop year leases, except renewal of 1963 crop year leases for cigar-filler and cigar-binder (types 42, 43, 44, 53, 54, and 55).
 

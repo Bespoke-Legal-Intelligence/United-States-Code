@@ -32,7 +32,7 @@ Act
 
 July 9, 1952, ch. 608, §§706 (less last 15 words of 1st sentence, and less applicability to enlistments), 707 (less applicability to enlistments), 66 Stat. 503.
 
-In subsection (a), the words “at any time”, “of any person”, and “from the National Guard of the United States or from the Air National Guard of the United States” are omitted as surplusage. The words “highest regular or reserve grade ever held by him in the Army” are substituted for the words “highest permanent gradepreviously held in the Army or any component thereof”, since “permanent” grades are held only in a component and there are no “non-permanent” grades held in a component.
+In subsection (a), the words “at any time”, “of any person”, and “from the National Guard of the United States or from the Air National Guard of the United States” are omitted as surplusage. The words “highest regular or reserve grade ever held by him in the Army” are substituted for the words “highest permanent grade previously held in the Army or any component thereof”, since “permanent” grades are held only in a component and there are no “non-permanent” grades held in a component.
 
 In subsection (b), the words “appointment as a Reserve” are substituted for the words “appointment or \* \* \* as a Reserve officer or”. The words “whose Federal recognition as a member \* \* \* is withdrawn” are substituted for the words “ceases to hold a status as a federally recognized member”.
 
@@ -72,7 +72,7 @@ Pub. L. 103–337, §1636(a), struck out at end “Notwithstanding any other pro
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under section 113 of this title.
+Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, titleXVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under section 113 of this title.
 
 #### Effective Date of 1994 Amendments
 

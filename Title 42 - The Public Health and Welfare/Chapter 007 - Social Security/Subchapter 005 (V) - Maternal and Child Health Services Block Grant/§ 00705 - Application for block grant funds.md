@@ -42,7 +42,7 @@
 
 &emsp;&emsp;&emsp;(i) special consideration (where appropriate) for the continuation of the funding of special projects in the State previously funded under this subchapter (as in effect before August 31, 1981), and
 
-&emsp;&emsp;&emsp;(ii) a reasonable proportion (based upon the State's previous use of funds under this subchapter) of such sums to carry out the purposes described in subparagraphs (A) through (D) of section 701(a)(1) of this title;
+&emsp;&emsp;&emsp;(ii) a reasonable proportion (based upon the State's previous use of funds under this subchapter) of such sums to carry out the purposes described in subparagraphs\(A) through (D) of section 701(a)(1) of this title;
 
 &emsp;&emsp;(D) if any charges are imposed for the provision of health services assisted by the State under this subchapter, such charges (i) will be pursuant to a public schedule of charges, (ii) will not be imposed with respect to services provided to low income mothers or children, and (iii) will be adjusted to reflect the income, resources, and family size of the individual provided the services;
 
@@ -88,7 +88,7 @@ Provisions similar to those comprising former section 705 were contained in sect
 
 Subsec. (a). Pub. L. 101–239, §6503(b)(2), (3), inserted “(a)” before “In order to be entitled” and “an application (in a standardized form specified by the Secretary) that” after “must prepare and transmit to the Secretary”.
 
-Subsec. (a)(1). Pub. L. 101–239, §6503(b)(4), added par. (1) and struck out former par. (1) which read as follows: “a report describing the intended use of payments the State is to receive under this subchapter for the fiscal year, including (A) a description of those populations, areas, and localities in the State which the State has identified as needing maternal and child health services, (B) a statement of goals and objectives for meeting those needs, (C) information on the types of services to be provided and the categories or characteristics of individuals to be served, and (D) data the State intends to collect respecting activities conducted with such payments; and”.
+Subsec. (a)(1). Pub. L. 101–239, §6503(b)(4), added par. (1) and struck out former par. (1) which read as follows: “a report describing the intended use of payments theState is to receive under this subchapter for the fiscal year, including (A) a description of those populations, areas, and localities in the State which the State has identified as needing maternal and child health services, (B) a statement of goals and objectives for meeting those needs, (C) information on the types of services to be provided and the categories or characteristics of individuals to be served, and (D) data the State intends to collect respecting activities conducted with such payments; and”.
 
 Subsec. (a)(2) to (4). Pub. L. 101–239, §6503(b)(4), added pars. (2) to (4) and redesignated former par. (2) as (5).
 

@@ -6,7 +6,7 @@
 
 &emsp;(1) either party may request the Federal Service Impasses Panel to consider the matter, or
 
-&emsp;(2) the parties may agree to adopt a procedure for binding arbitration of the negotiation impasse, but only if the procedure is approved by the Panel.
+&emsp;(2) the parties may agree to adopt a procedure for binding arbitration of the negotiationimpasse, but only if the procedure is approved by the Panel.
 
 (c)(1) The Federal Service Impasses Panel is an entity within the Authority, the function of which is to provide assistance in resolving negotiation impasses between agencies and exclusive representatives.
 

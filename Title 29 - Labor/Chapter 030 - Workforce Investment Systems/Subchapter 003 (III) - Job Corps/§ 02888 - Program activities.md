@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Each Job Corps center shall provide enrollees with an intensive, well organized, and fully supervised program of education, vocational training, work experience, recreational activities, physical rehabilitation and development, and counseling. Each Job Corps center shall provide enrollees assigned to the center with access to core services described in section 2864(d)(2) of this title and the intensive services described in section 2864(d)(3) of this title.
+&emsp;Each Job Corps center shall provide enrollees with an intensive, well organized, and fullysupervised program of education, vocational training, work experience, recreational activities, physical rehabilitation and development, and counseling. Each Job Corps center shall provide enrollees assigned to the center with access to core services described in section 2864(d)(2) of this title and the intensive services described in section 2864(d)(3) of this title.
 
 #### (2) Relationship to opportunities
 
@@ -49,6 +49,10 @@ The Secretary shall also provide continued services to graduates, including prov
 The Secretary shall, to the extent practicable, provide child care at or near Job Corps centers, for individuals who require child care for their children in order to participate in the Job Corps.
 
 (Pub. L. 105–220, title I, §148, Aug. 7, 1998, 112 Stat. 1011.)
+
+#### Prior Provisions
+
+Provisions similar to this section were contained in section 1698 of this title prior to repeal by Pub. L. 105–220.
 
 #### Section Referred to in Other Sections
 

@@ -36,7 +36,7 @@ The provisions of act July 18, 1866, §39, and of act Mar. 2, 1867, §2, which w
 
 #### Amendments
 
-1986—Subsec. (a). Pub. L. 99–570 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “If any officer or person authorized to make searches and seizures shall have cause to suspect the presence in any dwelling house, store, or other building or place of any merchandise upon which the duties have not been paid, or which has been otherwise brought into the United States contrary to law, he may make application, under oath, to any justice of the peace, to any municipal, county, State, or Federal judge, or to any United States magistrate, and shall thereupon be entitled to a warrant to enter such dwelling house in the daytime only, or such store or other place at night or by day, and to search for and seize such merchandise: <i>Provided</i>, That if any such house, store, or other building, or place in which such merchandise shall befound, is upon or within ten feet of the boundary line between the United States and a foreign country, such portion thereof as is within the United States may forthwith be taken down or removed.”
+1986—Subsec. (a). Pub. L. 99–570 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “If any officer or person authorized to make searches and seizures shall have cause to suspect the presence in any dwelling house, store, or other building or place of any merchandise upon which the duties have not been paid, or which has been otherwise brought into the United States contrary to law, he may make application, under oath, to any justice of the peace, to any municipal, county, State, or Federal judge, or to any United States magistrate, and shall thereupon be entitled to a warrant to enter such dwelling house in the daytime only, or such store or other place at night or by day, and to search for and seize such merchandise: <i>Provided</i>, That if any such house, store, or other building, or place in which such merchandise shall be found, is upon or within ten feet of the boundary line between the United States and a foreign country, such portion thereof as is within the United States may forthwith be taken down or removed.”
 
 1970—Subsec. (a). Pub. L. 91–271 struck out “collector of customs or other” before “officer or person”.
 
@@ -47,10 +47,6 @@ The provisions of act July 18, 1866, §39, and of act Mar. 2, 1867, §2, which w
 #### Effective Date of 1970 Amendment
 
 For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 91–271, set out as a note under section 1500 of this title.
-
-#### Cross References
-
-Depositing goods in buildings on boundary, penalty for, see section 547 of Title 18, Crimes and Criminal Procedure.
 
 #### Section Referred to in Other Sections
 

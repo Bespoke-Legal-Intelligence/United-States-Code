@@ -22,11 +22,3 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 Act May 10, 1934, abolished offices of General Counsel and Assistant General Counsel for Bureau of Internal Revenue and offices of Solicitor and Assistant Solicitor of the Treasury, and transferred powers, duties, and functions thereof to General Counsel for Department of the Treasury.
 
-#### Cross References
-
-Administration of real estate acquired by the United States in payment of debts arising under the internal revenue laws, see section 7506 of Title 26, Internal Revenue Code.
-
-Distraint on real estate, see section 6331 et seq. of Title 26.
-
-Purchase of lands sold on execution by the United States, see section 3715 of Title 31, Money and Finance.
-

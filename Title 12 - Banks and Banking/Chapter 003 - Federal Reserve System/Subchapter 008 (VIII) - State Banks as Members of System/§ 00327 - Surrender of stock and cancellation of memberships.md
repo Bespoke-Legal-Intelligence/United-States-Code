@@ -20,12 +20,6 @@ Section is comprised of the ninth par. of section 9 of act Dec. 23, 1913, as ame
 
 Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
 
-#### Cross References
-
-Number of directors of State bank or trust company, violation as subjecting to forfeiture of membership in Federal Reserve System under this section, see section 71a of this title.
-
-Termination of membership in Federal Deposit Insurance Corporation as ground for terminating membership in Federal Reserve System, see section 1818 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 71a of this title.

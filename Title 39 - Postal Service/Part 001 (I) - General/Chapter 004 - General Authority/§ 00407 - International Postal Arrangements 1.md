@@ -1,6 +1,6 @@
 ### §407. International Postal Arrangements <sup>1</sup>
 
-(a)(1) The Secretary of State shall have primary responsibility for formulation, coordination and oversight of policy with respect to United States participation in the UniversalPostal Union, including the Universal Postal Convention and other Acts of the Universal Postal Union, amendments thereto, and all postal treaties and conventions concluded within the framework of the Convention and such Acts.
+(a)(1) The Secretary of State shall have primary responsibility for formulation, coordination and oversight of policy with respect to United States participation in the Universal Postal Union, including the Universal Postal Convention and other Acts of the Universal Postal Union, amendments thereto, and all postal treaties and conventions concluded within the framework of the Convention and such Acts.
 
 (2) Subject to subsection (d), the Secretary may, with the consent of the President, negotiate and conclude treaties, conventions and amendments referred to in paragraph (1).
 
@@ -31,24 +31,6 @@ Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board o
 #### Transfer of Funds to State Department
 
 Pub. L. 105–277, §101(h) \[title VI, §633(d)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–524, provided that: “In fiscal year 1999 and each fiscal year hereafter, the Postal Service shall allocate to the Department of State from any funds available to the Postal Service such sums as may be reasonable, documented and auditable for the Department of State to carry out the activities of Section 407 of title 39 of the United States Code.”
-
-#### Delegation of Authority
-
-Memorandum of President of the United States, Dec. 15, 1994, 59 F.R. 65471, provided:
-
-Memorandum for the Governors of the United States Postal Service
-
-I have been advised by the Department of Justice that the United States District Court for the District of Delaware held in <i>UPS Worldwide Forwarding v. United States Postal Service</i>, Civil Action No. 93–340, May 16, 1994 \[853 F. Supp. 800\], that the Postal Service must obtain the approval of the President to establish rates of postage or other charges on mail matter conveyed between the United States and other countries.
-
-On appeal of the decision to the United States Court of Appeals for the Third Circuit, the Government argues that the explicit consent of the President is not required. In the view of the Government, to the extent that 39 U.S.C. 407(a) does require the President to consent, it does not require that consent be given in any particular manner. The Government's position is that the failure of the President to object to the establishment of international postage rates and other charges is consent to the establishment of such rates and other charges. This has been the practice of the Government for the past 120 years.
-
-To the extent that the District Court's decision creates or appears to create an obligation for the President to give his consent to the establishment of rates of postage and other charges on mail matter conveyed between the United States and other countries in a particular manner, by virtue of the authority vested in me by the Constitution and the laws of the United States of America, including section 301 of title 3 of the United States Code, I hereby delegate to the Governors of the United States Postal Service, as defined by section 202(a) of title 39 of the United States Code, any authority vested in me by section 407(a) of title 39 of the United States Code, with respect to the establishment of rates of postage and other charges on mail matter conveyed between the United States and other countries. This delegation is effective until the date on which the Third Circuit Court of Appeals issues its mandate in the aforementioned appeal. This delegation relates only to the establishment of rates of postage and other charges on mail matter conveyed between the United States and other countries; it does not affect the obligation of the Postal Service to seek the consent of the President to negotiate and conclude postal treaties or conventions.
-
-This memorandum shall be published in the Federal Register.
-
-William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-\[<i>UPS Worldwide Forwarding v. United States Postal Service</i>, 853 F. Supp. 800, D.C. Del., 1994, reversed 66 F.3d 621 (3rd Cir. 1995), cert. denied, 516 U.S. 1171 (1996)\]
 
 <i><sup>1</sup></i><i> So in original. “Postal Arrangements” probably should not be capitalized.</i>
 

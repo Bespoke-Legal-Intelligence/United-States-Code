@@ -22,7 +22,7 @@ Any agreement entered into under subsection (a) of this section shall not requir
 
 (1) An individual employed by the Office of the Architect of the Capitol, the United States Botanic Garden, or the Senate Restaurant may request the Architect to withhold sums from his pay for remittance to the appropriate authorities of the State that he designates. Amounts of withholdings shall be made in accordance with those provisions of the law of that State which apply generally to withholding by employers.
 
-(2) An individual may have in effect at any time only one request for withholdings, and he may not have more than two such requests in effect with respect to different States during any one calendar year. The request for withholdings is effective on the first day of the first pay period commencing on or after the day on whichthe request is received in the Office of the Architect, the Botanic Garden Office, or the Senate Restaurant Accounting Office except that—
+(2) An individual may have in effect at any time only one request for withholdings, and he may not have more than two such requests in effect with respect to different States during any one calendar year. The request for withholdings is effective on the first day of the first pay period commencing on or after the day on which the request is received in the Office of the Architect, the Botanic Garden Office, or the Senate Restaurant Accounting Office except that—
 
 &emsp;(A) when the Architect first enters into an agreement with a State, a request for withholdings shall be effective on such date as the Architect may determine; and
 
@@ -45,14 +45,4 @@ This section imposes no duty, burden, or requirement upon the United States, or 
 For the purposes of this section, “State” means any of the States of the United States.
 
 (Pub. L. 94–59, title V, §501, July 25, 1975, 89 Stat. 290.)
-
-#### Cross References
-
-Withholding State income taxes—
-
-&emsp;&emsp;Generally, see section 5517 of Title 5, Government Organization and Employees.
-
-&emsp;&emsp;Clerk and Sergeant at Arms of the House of Representatives, see section 60e–1a of Title 2, The Congress.
-
-&emsp;&emsp;Secretary of the Senate, see section 60c–3 of Title 2.
 

@@ -56,7 +56,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 &emsp;&emsp;(C) has not assisted in the persecution of any person or persons on account of race, religion, nationality, membership in a particular social group, or political opinion, and
 
-&emsp;&emsp;(D) is registered or registering under the Military Selective Service Act \[50 App.U.S.C. 451 et seq.\], if the alien is required to be so registered under that Act.
+&emsp;&emsp;(D) is registered or registering under the Military Selective Service Act \[50 App. U.S.C. 451 et seq.\], if the alien is required to be so registered under that Act.
 
 > &emsp;For purposes of this subsection, an alien in the status of a Cuban and Haitian entrant described in paragraph (1) or (2)(A) of section 501(e) of Public Law 96–422 \[8 U.S.C. 1522 note\] shall be considered to have entered the United States and to be in an unlawful status in the United States.
 
@@ -192,7 +192,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 #### (6) Penalties for false statements in applications
 
-&emsp;Whoever files an application for adjustment of status under this section and knowingly and willfully falsifies, misrepresents, conceals, or covers up a material fact or makes any false, fictitious, or fraudulent statements or representations, or makes or uses any false writing or document knowing the same to contain any false, fictitious, or fraudulent statement or entry, shall be fined in accordance with title 18 or imprisoned not more than five years, or both.
+&emsp;Whoever files an application for adjustment of status under this section and knowingly andwillfully falsifies, misrepresents, conceals, or covers up a material fact or makes any false, fictitious, or fraudulent statements or representations, or makes or uses any false writing or document knowing the same to contain any false, fictitious, or fraudulent statement or entry, shall be fined in accordance with title 18 or imprisoned not more than five years, or both.
 
 #### (7) Application fees
 
@@ -202,7 +202,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 #### (B) Use of fees
 
-&emsp;&emsp;The Attorney General shall deposit payments received under this paragraph in a separate account and amounts in such account shall be available, without fiscal yearlimitation, to cover administrative and other expenses incurred in connection with the review of applications filed under this section.
+&emsp;&emsp;The Attorney General shall deposit payments received under this paragraph in a separate account and amounts in such account shall be available, without fiscal year limitation, to cover administrative and other expenses incurred in connection with the review of applications filed under this section.
 
 #### (C) Immigration-related unfair employment practices
 
@@ -262,7 +262,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 #### (2) During application period
 
-&emsp;The Attorney General shall provide that in the case of an alien who presents a prima facie application for adjustment of status under subsection (a) of this section during the application period, and until a final determination on the application has been made in accordance with this section, the alien—
+&emsp;The Attorney General shall provide that in the case of an alien who presents a prima facieapplication for adjustment of status under subsection (a) of this section during the application period, and until a final determination on the application has been made in accordance with this section, the alien—
 
 &emsp;&emsp;(A) may not be deported, and
 
@@ -276,7 +276,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 #### (2) No review for late filings
 
-&emsp;No denial of adjustment of status under this section based on a late filing of an application for such adjustment may be reviewed by a court of the United States or of any State orreviewed in any administrative proceeding of the United States Government.
+&emsp;No denial of adjustment of status under this section based on a late filing of an application for such adjustment may be reviewed by a court of the United States or of any State or reviewed in any administrative proceeding of the United States Government.
 
 #### (3) Administrative review
 
@@ -352,7 +352,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 &emsp;&emsp;(A) except as provided in paragraphs (2) and (3), the alien is not eligible for—
 
-&emsp;&emsp;&emsp;(i) any program of financial assistance furnished under Federal law (whether through grant, loan, guarantee, or otherwise) on the basis of financial need, as such programs are identified by the Attorney General in consultation with other appropriate heads of the various departmentsand agencies of Government (but in any event including the State program of assistance under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\]),
+&emsp;&emsp;&emsp;(i) any program of financial assistance furnished under Federal law (whether through grant, loan, guarantee, or otherwise) on the basis of financial need, as such programs are identified by the Attorney General in consultation with other appropriate heads of the various departments and agencies of Government (but in any event including the State program of assistance under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\]),
 
 &emsp;&emsp;&emsp;(ii) medical assistance under a State plan approved under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\], and
 
@@ -414,13 +414,13 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 &emsp;&emsp;(E) The Headstart-Follow Through Act \[42 U.S.C. 2921 et seq.\].
 
-&emsp;&emsp;(F) The Job Training Partnership Act \[29 U.S.C. 1501 et seq.\] or title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\].
+&emsp;&emsp;(F) Title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\].
 
 &emsp;&emsp;(G) Title IV of the Higher Education Act of 1965 \[20 U.S.C. 1070 et seq., 42 U.S.C. 2751 et seq.\].
 
 &emsp;&emsp;(H) The Public Health Service Act \[42 U.S.C. 201 et seq.\].
 
-&emsp;&emsp;(I) Titles V, XVI, and XX \[42 U.S.C. 701 et seq., 1381 et seq., 1397 et seq.\], and parts B, D, and E of title IV \[42 U.S.C. 620 et seq., 651 et seq., 670 et seq.\], of the Social Security Act (and titles I, X, XIV, and XVI of such Act \[42 U.S.C. 301 et seq., 1201 et seq., 1351 et seq., 1381 et seq.\] as in effect without regard to the amendment made by section 301 of the Social Security Amendments of 1972).
+&emsp;&emsp;(I) Titles V, XVI, and XX \[42 U.S.C. 701 et seq., 1381 et seq., 1397 et seq.\], and parts B, D,and E of title IV \[42 U.S.C. 620 et seq., 651 et seq., 670 et seq.\], of the Social Security Act (and titles I, X, XIV, and XVI of such Act \[42 U.S.C. 301 et seq., 1201 et seq., 1351 et seq., 1381 et seq.\] as in effect without regard to the amendment made by section 301 of the Social Security Amendments of 1972).
 
 #### (5) Adjustment not affecting Fascell-Stone benefits
 
@@ -428,13 +428,9 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 #### (i) Dissemination of information on legalization program
 
-Beginning not later than the date designated by the Attorney General under subsection\(a)(1)(A) of this section, the Attorney General, in cooperation with qualified designated entities, shall broadly disseminate information respecting the benefits which aliens may receive under this section and the requirements to obtain such benefits.
+Beginning not later than the date designated by the Attorney General under subsection (a)(1)(A) of this section, the Attorney General, in cooperation with qualified designated entities, shall broadly disseminate information respecting the benefits which aliens may receive under this section and the requirements to obtain such benefits.
 
 (June 27, 1952, ch. 477, title II, ch. 5, §245A, as added Pub. L. 99–603, title II, §201(a)(1), Nov. 6, 1986, 100 Stat. 3394; amended Pub. L. 100–525, §2(h)(1), Oct. 24, 1988, 102 Stat. 2611; Pub. L. 101–649, title VI, §603(a)(13), title VII, §703, Nov. 29, 1990, 104 Stat. 5083, 5086; Pub. L. 102–140, title I, Oct. 28, 1991, 105 Stat. 785; Pub. L. 102–232, title III, §307(<i>l</i>)(6), Dec. 12, 1991, 105 Stat. 1756; Pub. L. 103–382, title III, §394(g), Oct. 20, 1994, 108 Stat. 4028; Pub. L. 103–416, title I, §108(b), title II, §219(<i>l</i>)(1), Oct. 25, 1994, 108 Stat. 4310, 4317; Pub. L. 104–132, title IV, §431(a), Apr. 24, 1996, 110 Stat. 1273; Pub. L. 104–193, title I, §110(s)(2), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 104–208, div. C, title III, §§308(g)(2)(B), (5)(A)(iii), 377(a), 384(d)(1), title VI, §623(a), Sept. 30, 1996, 110 Stat. 3009–622, 3009–623, 3009–649, 3009–653, 3009–696; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(4), (f)(4)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419, 2681–430; Pub. L. 105–332, §3(a), Oct. 31, 1998, 112 Stat. 3125; Pub. L. 106–78, title VII, §752(b)(5), Oct. 22, 1999, 113 Stat. 1169.)
-
-#### Amendment of Subsection (h)(4)(F)
-
-<i>Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(f)(4), (g)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–430, 2681–435, provided that, effective July 1, 2000, subsection (h)(4)(F) of this section is amended by substituting “Title I” for “The Job Training Partnership Act or title I”.</i>
 
 #### References in Text
 
@@ -466,13 +462,11 @@ The Elementary and Secondary Education Act of 1965, referred to in subsec. (h)(4
 
 The Headstart-Follow Through Act, referred to in subsec. (h)(4)(E), is title V of Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 527, as amended, which was classified generally to subchapter V (§2921 et seq.) of chapter 34 of Title 42, The Public Health and Welfare, prior to repeal by Pub. L. 97–35, title VI, §683(a), Aug. 13, 1981, 95 Stat. 519. For complete classification of this Act to the Code, see Tables.
 
-The Job Training Partnership Act, referred to in subsec. (h)(4)(F), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified principally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
-
 The Workforce Investment Act of 1998, referred to in subsec. (h)(4)(F), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
 The Higher Education Act of 1965, referred to in subsec. (h)(4)(G), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title IV of the Higher Education Act of 1965 is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
-The Public Health Service Act, referred to in subsec. (h)(4)(H), is act July 1, 1944, ch. 373, 58 Stat. 682, asamended, which is classified generally to chapter 6A (§201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The Public Health Service Act, referred to in subsec. (h)(4)(H), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended, which is classified generally to chapter 6A (§201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 #### Prior Provisions
 
@@ -484,7 +478,9 @@ A prior section 1255a, Pub. L. 85–316, §9, Sept. 11, 1957, 71 Stat. 641, prov
 
 1998—Subsec. (h)(4)(C). Pub. L. 105–332 substituted “Carl D. Perkins Vocational and Technical Education Act of 1998” for “Vocational Education Act of 1963”.
 
-Subsec. (h)(4)(F). Pub. L. 105–277, §101(f) \[title VIII, §405(d)(4)\], substituted “The Job Training Partnership Act or title I of the Workforce Investment Act of 1998.” for “The Job Training Partnership Act.”
+Subsec. (h)(4)(F). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(4)\], substituted “Title I” for “The Job Training Partnership Act or title I”.
+
+Pub. L. 105–277, §101(f) \[title VIII, §405(d)(4)\], substituted “The Job Training Partnership Act or title I of the Workforce Investment Act of 1998.” for “The Job Training Partnership Act.”
 
 1996—Subsec. (a)(1)(B). Pub. L. 104–208, §308(g)(5)(A)(iii), inserted “(as in effect before October 1, 1996)” after “section 1252 of this title”.
 
@@ -548,11 +544,11 @@ Subsec. (c)(1). Pub. L. 100–525, §2(h)(1)(C), amended closing provisions gene
 
 Subsec. (c)(5). Pub. L. 100–525, §2(h)(1)(D)(ii), substituted semicolon for period at end of first sentence and inserted “except that the Attorney General may provide, in the Attorney General's discretion, for the furnishing of information furnished under this section in the same manner and circumstances as census information may be disclosed by the Secretary of Commerce under section 8 of title 13.”
 
-Subsec. (c)(5)(A). Pub. L. 100–525, §2(h)(1)(D)(i), inserted “or for the preparation of reports to Congress under section 404 of the Immigration Reform and Control Act of 1986” after “paragraph (6)”.
+Subsec. (c)(5)(A). Pub. L. 100–525, §2(h)(1)(D)(i), inserted “or for the preparation of reports to Congressunder section 404 of the Immigration Reform and Control Act of 1986” after “paragraph (6)”.
 
 Subsec. (d)(2)(B)(ii). Pub. L. 100–525, §2(h)(1)(E)(ii), inserted at end “Subclause (II) (prohibiting the waiver of section 1182(a)(15) of this title) shall not apply to an alien who is or was an aged, blind, or disabled individual (as defined in section 1614(a)(1) of the Social Security Act).”
 
-Subsec. (d)(2)(B)(ii)(II). Pub. L. 100–525, §2(h)(1)(E)(i), struck out “by an alien other than an alien who is eligible for benefits under title XVI of the Social Security Act or section 212 of Public Law 93–66 for the month in which such alien is granted lawful temporary residencestatus under subsection (a) of this section” after “permanent residence”.
+Subsec. (d)(2)(B)(ii)(II). Pub. L. 100–525, §2(h)(1)(E)(i), struck out “by an alien other than an alien who is eligible for benefits under title XVI of the Social Security Act or section 212 of Public Law 93–66 for the month in which such alien is granted lawful temporary residence status under subsection (a) of this section” after “permanent residence”.
 
 #### Effective Date of 1998 Amendment
 
@@ -704,7 +700,7 @@ Section 204 of Pub. L. 99–603, as amended by Pub. L. 100–525, §2(k), Oct. 2
 
 #### Application of Certain State Assistance Provisions
 
-Section 303(c) of Pub. L. 99–603, defined “eligible legalized alien” relative to State legalization assistance, prior to repeal by Pub. L. 100–525, §2(n)(3), Oct. 24, 1988, 102 Stat. 2613.
+Section 303(c) of Pub. L. 99–603, defined “eligible legalized alien” relative to State legalization assistance,prior to repeal by Pub. L. 100–525, §2(n)(3), Oct. 24, 1988, 102 Stat. 2613.
 
 #### Reports on Legalization Program
 
@@ -716,7 +712,7 @@ In General.—The President shall transmit to Congress two reports on the legali
 
 “(b)
 
-Initial Report Describing Legalized Aliens.—The first report, which shall be transmitted not laterthan 18 months after the end of the application period for adjustment to lawful temporary residence status under the program, shall include a description of the population whose status is legalized under the program, including—
+Initial Report Describing Legalized Aliens.—The first report, which shall be transmitted not later than 18 months after the end of the application period for adjustment to lawful temporary residence status under the program, shall include a description of the population whose status is legalized under the program, including—
 
 &emsp;“(1) geographical origins and manner of entry of these aliens into the United States,
 

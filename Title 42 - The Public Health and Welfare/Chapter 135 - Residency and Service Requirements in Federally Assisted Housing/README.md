@@ -48,11 +48,12 @@
 | (b) | Responsibilities. |
 | (c) | Included services. |
 | (d) | Covered federally assisted housing. |
-| [13632\.](Subchapter%20003%20%28III%29%20-%20Service%20Coordinators%20for%20Elderly%20and%20Disabled%20Residents%20of%20Federally%20Assisted%20Housing/%C2%A7%2013632%20-%20Grants%20for%20costs%20of%20providing%20service%20coordinators%20in%20multifamily%20housing%20assisted%20under%20National%20Housing%20Act.md) | Grants for costs of providing service coordinators in multifamily housing assisted under National Housing Act. |
+| (e) | Services for low-income elderly or disabled families residing in vicinity of certain projects. |
+| (f) | Protection against telemarketing fraud. |
+| [13632\.](Subchapter%20003%20%28III%29%20-%20Service%20Coordinators%20for%20Elderly%20and%20Disabled%20Residents%20of%20Federally%20Assisted%20Housing/%C2%A7%2013632%20-%20Grants%20for%20costs%20of%20providing%20service%20coordinators%20in%20certain%20federally%20assisted%20housing.md) | Grants for costs of providing service coordinators in certain federally assisted housing. |
 | (a) | Authority. |
 | (b) | Application and selection. |
-| (c) | Authorization of appropriations. |
-| (d) | Eligible project expense. |
+| (c) | Eligible project expense. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -66,7 +66,3 @@ In subsections (d) and (e) all that part of the source text preceding the provis
 
 1985—Subsec. (e). Pub. L. 99–145 substituted “persons” for “men”.
 
-#### Cross References
-
-Review of courts-martial, see section 859 et seq. of this title.
-

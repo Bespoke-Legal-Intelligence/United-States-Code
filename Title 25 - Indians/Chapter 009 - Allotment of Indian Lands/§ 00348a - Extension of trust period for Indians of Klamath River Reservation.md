@@ -4,7 +4,3 @@ The period of trust on lands allotted to Indians of the Klamath River Reservatio
 
 (Dec. 24, 1942, ch. 814, 56 Stat. 1081.)
 
-#### Cross References
-
-Extension of trust period by Executive Order, see notes set out under section 348 of this title.
-

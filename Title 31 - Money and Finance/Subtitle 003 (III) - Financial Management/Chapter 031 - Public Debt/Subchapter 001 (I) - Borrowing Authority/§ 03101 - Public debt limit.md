@@ -40,7 +40,7 @@ In subsection (a), the words “is deemed to be” are substituted for “shall 
 
 #### References in Text
 
-The Rules of the House of Representatives for the One Hundred Sixth Congress were adopted and amended generally by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Provisions formerly appearing in Rule XLIX, referred to in subsec. (b), are now contained in Rule XXIII.
+The Rules of the House of Representatives for the One Hundred Sixth Congress were adopted and amended generally by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Provisions formerly appearing in Rule XLIX, referred to in subsec. (b), were contained in Rule XXIII, which was subsequently repealed by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 Section 1272(a) of the Internal Revenue Code of 1986, referred to in subsec. (c), is classified to section 1272(a) of Title 26, Internal Revenue Code.
 

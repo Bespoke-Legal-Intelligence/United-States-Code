@@ -4,7 +4,3 @@ Subject to the policy declared in section 851 of this title, the provisions of s
 
 (Aug. 24, 1935, ch. 641, §60, 49 Stat. 782.)
 
-#### Federal Rules of Civil Procedure
-
-Process, see rule 4, Title 28, Appendix, Judiciary and Judicial Procedure.
-

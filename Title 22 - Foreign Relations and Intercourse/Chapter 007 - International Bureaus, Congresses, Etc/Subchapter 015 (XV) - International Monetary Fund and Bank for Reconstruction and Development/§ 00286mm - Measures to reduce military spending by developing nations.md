@@ -8,7 +8,7 @@
 
 #### (2) Progress report to the Congress
 
-&emsp;No later than 1 year after October 24, 1992, the Secretary of the Treasury shall submit to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs and the Committee on Foreign Relations of the Senate a report on the status of the development by the Fund of a workable economic methodology to measure military spending by developing countries.
+&emsp;No later than 1 year after October 24, 1992, the Secretary of the Treasury shall submit to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs and the Committee on Foreign Relations of the Senate a report on the status of the development by the Fund of a workableeconomic methodology to measure military spending by developing countries.
 
 #### (b) Annual reports by Fund on levels of military spending
 
@@ -22,5 +22,5 @@ The United States Executive Director of the Fund shall use the voice and vote of
 
 #### Change of Name
 
-Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 

@@ -90,7 +90,7 @@ The Secretary is authorized—
 
 &emsp;(ii) the individual, either alone or together with other individuals, represents, under a voting trust, power of attorney, proxy, or similar agreement, one or more persons who have, individually or in combination with the other persons represented or the individual representing them, a substantial ownership interest in the institution; or
 
-&emsp;(iii) the individual is a member of the board of directors, the chief executive officer, or other executive officer of the institution or of an entity that holds a substantial ownership interest in the institution.
+&emsp;(iii) the individual is a member of the board of directors, the chief executive officer, orother executive officer of the institution or of an entity that holds a substantial ownership interest in the institution.
 
 (B) The Secretary may determine that an entity exercises substantial control over one or more institutions participating in a program under this subchapter and part C of subchapter I of chapter 34 of title 42 if the Secretary determines that the entity directly or indirectly holds a substantial ownership interest in the institution.
 
@@ -270,7 +270,7 @@ Subsec. (j)(1). Pub. L. 103–208, §2(i)(14), amended par. (1) generally. Prior
 
 Amendment by sections 102(a)(6)(B), (b)(6), (7) and 493(a), (b), (d)–(h) of Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
 
-Pub. L. 105–244, title IV, §493(c)(2), Oct. 7, 1998, 112 Stat. 1762, provided that: “The amendment made by paragraph (1) \[amending this section\] shall be effective with respect to any unpaid refunds that were first required to be paid to a lender or to the Secretary on or after 90 days after the date of enactment of this Act \[Oct. 7, 1998\].”
+Pub. L. 105–244, title IV, §493(c)(2), Oct. 7, 1998, 112 Stat. 1762, provided that: “The amendment made by paragraph (1) \[amending this section\] shall be effectivewith respect to any unpaid refunds that were first required to be paid to a lender or to the Secretary on or after 90 days after the date of enactment of this Act \[Oct. 7, 1998\].”
 
 #### Effective Date of 1993 Amendment
 

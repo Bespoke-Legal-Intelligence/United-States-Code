@@ -10,7 +10,3 @@ Based on title 18, U.S.C., 1940 ed., §602 (R.S. §1027).
 
 Minor changes were made in phraseology.
 
-#### Federal Rules of Criminal Procedure
-
-Warrants and summonses generally, see rules 4 and 9, Appendix to this title.
-

@@ -20,10 +20,6 @@
 
 Section 623 of Pub. L. 95–619 provided that not later than 6 months after Nov. 9, 1978, the Secretary of Energy submit a report on the coordination of Federal energy conservation programs involving State and local government.
 
-#### Cross References
-
-Emergency energy conservation program, see section 8511 et seq. of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 6323a of this title.

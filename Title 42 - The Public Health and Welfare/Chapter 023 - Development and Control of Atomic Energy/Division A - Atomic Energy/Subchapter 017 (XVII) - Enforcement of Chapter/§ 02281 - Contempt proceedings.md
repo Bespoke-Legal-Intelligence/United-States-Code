@@ -12,7 +12,3 @@ Provisions similar to this section were contained in section 1816(d) of this tit
 
 Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
 
-#### Federal Rules of Civil Procedure
-
-Subpena, see rule 45, Title 28, Appendix, Judiciary and Judicial Procedure.
-

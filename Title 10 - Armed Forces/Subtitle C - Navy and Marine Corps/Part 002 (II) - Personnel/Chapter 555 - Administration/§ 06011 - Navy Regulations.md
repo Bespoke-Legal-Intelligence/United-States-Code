@@ -32,7 +32,3 @@ Section 204(b) of Pub. L. 97–60 provided that: “United States Navy regulatio
 
 For delegation to Secretary of Defense of authority vested in President by section 591 of former Title 34, see Ex. Ord. No. 10621, July 1, 1955, 20 F.R. 4759, set out as a note under section 301 of Title 3, The President.
 
-#### Cross References
-
-Uniform Code of Military Justice, see section 801 et seq. of this title.
-

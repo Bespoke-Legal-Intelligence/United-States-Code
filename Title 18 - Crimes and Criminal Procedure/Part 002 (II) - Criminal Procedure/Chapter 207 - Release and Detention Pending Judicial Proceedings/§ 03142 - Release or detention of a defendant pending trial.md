@@ -18,7 +18,7 @@ Release on Personal Recognizance or Unsecured Appearance Bond.—The judicial of
 
 (c)
 
-Release on Conditions.—(1) If the judicial officer determines that the release described insubsection (b) of this section will not reasonably assure the appearance of the person as required or will endanger the safety of any other person or the community, such judicial officer shall order the pretrial release of the person—
+Release on Conditions.—(1) If the judicial officer determines that the release described in subsection (b) of this section will not reasonably assure the appearance of the person as required or will endanger the safety of any other person or the community, such judicial officer shall order the pretrial release of the person—
 
 &emsp;(A) subject to the condition that the person not commit a Federal, State, or local crime during the period of release; and
 
@@ -124,7 +124,7 @@ Factors To Be Considered.—The judicial officer shall, in determining whether t
 
 &emsp;&emsp;(B) whether, at the time of the current offense or arrest, the person was on probation, on parole, or on other release pending trial, sentencing, appeal, or completion of sentence for an offense under Federal, State, or local law; and
 
-&emsp;(4) the nature and seriousness of the danger to any person or the community that would beposed by the person's release. In considering the conditions of release described in subsection (c)(1)(B)(xi) or (c)(1)(B)(xii) of this section, the judicial officer may upon his own motion, or shall upon the motion of the Government, conduct an inquiry into the source of the property to be designated for potential forfeiture or offered as collateral to secure a bond, and shall decline to accept the designation, or the use as collateral, of property that, because of its source, will not reasonably assure the appearance of the person as required.
+&emsp;(4) the nature and seriousness of the danger to any person or the community that would be posed by the person's release. In considering the conditions of release described in subsection (c)(1)(B)(xi) or (c)(1)(B)(xii) of this section, the judicial officer may upon his own motion, or shall upon the motion of the Government, conduct an inquiry into the source of the property to be designated for potential forfeiture or offered as collateral to secure a bond, and shall decline to accept the designation, or the use as collateral, of property that, because of its source, will not reasonably assure the appearance of the person as required.
 
 (h)
 
@@ -218,5 +218,5 @@ Amendment by Pub. L. 99–646 effective 30 days after Nov. 10, 1986, see section
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2263, 3041, 3042, 3062, 3143, 3144, 3146, 3148, 3156, 3582, 4014 of this title; title 8 sections 1536, 1537; title 28 section 636.
+This section is referred to in sections 2263, 3041, 3042, 3062, 3143, 3144, 3146, 3148, 3156, 3264, 3265, 3582, 4014 of this title; title 8 sections 1536, 1537; title 28 section 636.
 

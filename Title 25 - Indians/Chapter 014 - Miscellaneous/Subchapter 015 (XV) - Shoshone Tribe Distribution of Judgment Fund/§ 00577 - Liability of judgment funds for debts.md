@@ -4,10 +4,6 @@ In no event shall any portion of the Shoshone judgment fund become liable, payab
 
 (July 27, 1939, ch. 387, §7, 53 Stat. 1130.)
 
-#### Cross References
-
-Shoshone judgment fund, see section 571 of this title and note.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 571, 575 of this title.

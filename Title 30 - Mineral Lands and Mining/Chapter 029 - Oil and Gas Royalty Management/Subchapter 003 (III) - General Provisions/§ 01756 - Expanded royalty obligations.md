@@ -4,7 +4,3 @@ Any lessee is liable for royalty payments on oil or gas lost or wasted from a le
 
 (Pub. L. 97–451, title III, §308, Jan. 12, 1983, 96 Stat. 2462.)
 
-#### References in Text
-
-Mineral leasing laws, referred to in text, are defined in sections 351, 505, 530, and 541e of this title.
-

@@ -1,6 +1,6 @@
 ### §31100. Purpose
 
-The purpose of this subchapter is to ensure that the Secretary, States, and other political jurisdictions work in partnership to establish programs to improve motor carrier, commercialmotor vehicle, and driver safety to support a safe and efficient transportation system by—
+The purpose of this subchapter is to ensure that the Secretary, States, and other politicaljurisdictions work in partnership to establish programs to improve motor carrier, commercial motor vehicle, and driver safety to support a safe and efficient transportation system by—
 
 &emsp;(1) focusing resources on strategic safety investments to promote safe for-hire and private transportation, including transportation of passengers and hazardous materials, to identify high-risk carriers and drivers, and to invest in activities likely to generate maximum reductions in the number and severity of commercial motor vehicle crashes;
 
@@ -102,7 +102,7 @@ Report to congress.—The Secretary shall report annually to Congress the conten
 
 “(f)
 
-Expediting Regulatory Proceedings.—The Administrator shall designate a regulatory ombudsman to expedite rulemaking proceedings. The Secretary and the Administrator shall each delegate to the ombudsman such authority as may be necessary for the ombudsman to expedite rulemaking proceedings of the Administration to comply with statutory and internal departmental deadlines, including authority to—
+Expediting Regulatory Proceedings.—The Administrator shall designate a regulatory ombudsman toexpedite rulemaking proceedings. The Secretary and the Administrator shall each delegate to the ombudsman such authority as may be necessary for the ombudsman to expedite rulemaking proceedings of the Administration to comply with statutory and internal departmental deadlines, including authority to—
 
 &emsp;“(1) make decisions to resolve disagreements between officials in the Administration who are participating in a rulemaking process; and
 

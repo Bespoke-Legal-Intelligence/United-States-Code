@@ -56,7 +56,7 @@ Public Law 83–472, referred to in subsec. (d), is act July 2, 1954, ch. 457, 6
 
 #### Codification
 
-Subsec. (c)(2) of this section amended section 502 of the District of Columbia Self-Government and Governmental Reorganization Act (Pub. L. 93–198, title V, Dec. 24, 1973, 87 Stat. 813), which appears as section 47–3406 of Title 47, Taxation and Fiscal Affairs, of the District of Columbia Code.
+Subsec. (c)(2) of this section amended section 502 of the District of Columbia Self-Government and Governmental Reorganization Act (Pub. L. 93–198, title V, Dec. 24, 1973, 87 Stat. 813), which is not classified to the Code.
 
 #### Section Referred to in Other Sections
 

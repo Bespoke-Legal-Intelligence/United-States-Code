@@ -10,7 +10,7 @@ In the case of any experimental, pilot, or demonstration project which, in the j
 
 &emsp;(B) costs of such project which would not otherwise be a permissible use of funds under part A of subchapter IV of this chapter and which are not included as part of the costs of projects under section 1310 of this title, shall to the extent and for the period prescribed by the Secretary, be regarded as a permissible use of funds under such part.
 
-> In addition, not to exceed $4,000,000 of the aggregate amount appropriated for payments toStates under such subchapters for any fiscal year beginning after June 30, 1967, shall be available, under such terms and conditions as the Secretary may establish, for payments to States to cover so much of the cost of such projects as is not covered by payments under such subchapters and is not included as part of the cost of projects for purposes of section 1310 of this title.
+> In addition, not to exceed $4,000,000 of the aggregate amount appropriated for payments to States under such subchapters for any fiscal year beginning after June 30, 1967, shall be available, under such terms and conditions as the Secretary may establish, for payments to States to cover so much of the cost of such projects as is not covered by payments under such subchapters and is not included as part of the cost of projects for purposes of section 1310 of this title.
 
 #### (b) Child support enforcement programs
 
@@ -54,7 +54,35 @@ In the case of any experimental, pilot, or demonstration project undertaken unde
 
 (7) If an original condition of approval of a waiver project was that Federal expenditures under the project not exceed the Federal expenditures that would otherwise have been made, the Secretary shall take such steps as may be necessary to ensure that, in the extension of the project under this subsection, such condition continues to be met. In applying the previous sentence, the Secretary shall take into account the Secretary's best estimate of rates of change in expenditures at the time of the extension.
 
-(Aug. 14, 1935, ch. 531, title XI, §1115, as added Pub. L. 87–543, title I, §122, July 25, 1962, 76 Stat. 192; amended Pub. L. 89–97, title I, §121(c)(3), July 30, 1965, 79 Stat. 352; Pub. L. 90–36, §2, June 29, 1967, 81 Stat. 94; Pub. L. 90–248, title II, §§241(c)(4), 247, Jan. 2, 1968, 81 Stat. 917, 918; Pub. L. 93–233, §18(z–2)(1)(B), Dec. 31, 1973, 87 Stat. 973; Pub. L. 93–647, §3(c), Jan. 4, 1975, 88 Stat. 2349; Pub. L. 95–216, title IV, §404, Dec. 20, 1977, 91 Stat. 1562; Pub. L. 97–35, title XXIII, §2353(g), Aug. 13, 1981, 95 Stat. 872; Pub. L. 98–369, div. B, title VI, §2663(e)(5), July 18, 1984, 98 Stat. 1168; Pub. L. 98–378, §10, Aug. 16, 1984, 98 Stat. 1317; Pub. L. 99–272, title XIV, §14001(b)(2), Apr. 7, 1986, 100 Stat. 328; Pub. L. 100–485, title V, §503, Oct. 13, 1988, 102 Stat. 2402; Pub. L. 104–193, title I, §108(g)(2), Aug. 22, 1996, 110 Stat. 2168; Pub. L. 105–33, title IV, §4757(a), Aug. 5, 1997, 111 Stat. 527.)
+#### (f) Application for extension of waiver project; submission; approval
+
+An application by the chief executive officer of a State for an extension of a waiver project the State is operating under an extension under subsection (e) of this section (in this subsection referred to as the “waiver project”) shall be submitted and approved or disapproved in accordance with the following:
+
+&emsp;(1) The application for an extension of the waiver project shall be submitted to the Secretary at least 120 days prior to the expiration of the current period of the waiver project.
+
+&emsp;(2) Not later than 45 days after the date such application is received by the Secretary, the Secretary shall notify the State if the Secretary intends to review the terms and conditions of the waiver project. A failure to provide such notification shall be deemed to be an approval of the application.
+
+&emsp;(3) Not later than 45 days after the date a notification is made in accordance with paragraph (2), the Secretary shall inform the State of proposed changes in the terms and conditions of the waiver project. A failure to provide such information shall be deemed to be an approval of the application.
+
+&emsp;(4) During the 30-day period that begins on the date information described in paragraph (3) is provided to a State, the Secretary shall negotiate revised terms and conditions of the waiver project with the State.
+
+&emsp;(5)(A) Not later than 120 days after the date an application for an extension of the waiver project is submitted to the Secretary (or such later date agreed to by the chief executive officer of the State), the Secretary shall—
+
+&emsp;&emsp;(i) approve the application subject to such modifications in the terms and conditions—
+
+&emsp;&emsp;&emsp;(I) as have been agreed to by the Secretary and the State; or
+
+&emsp;&emsp;&emsp;(II) in the absence of such agreement, as are determined by the Secretary to be reasonable, consistent with the overall objectives of the waiver project, and not in violation of applicable law; or
+
+&emsp;&emsp;(ii) disapprove the application.
+
+&emsp;(B) A failure by the Secretary to approve or disapprove an application submitted under this subsection in accordance with the requirements of subparagraph (A) shall be deemed to be an approval of the application subject to such modifications in the terms and conditions as have been agreed to (if any) by the Secretary and the State.
+
+&emsp;(6) An approval of an application for an extension of a waiver project under this subsection shall be for a period not to exceed 3 years.
+
+&emsp;(7) An extension of a waiver project under this subsection shall be subject to the final reporting and evaluation requirements of paragraphs (4) and (5) of subsection (e) of this section (taking into account the extension under this subsection with respect to any timing requirements imposed under those paragraphs).
+
+(Aug. 14, 1935, ch. 531, title XI, §1115, as added Pub. L. 87–543, title I, §122, July 25, 1962, 76 Stat. 192; amended Pub. L. 89–97, title I, §121(c)(3), July 30, 1965, 79 Stat. 352; Pub. L. 90–36, §2, June 29, 1967, 81 Stat. 94; Pub. L. 90–248, title II, §§241(c)(4), 247, Jan. 2, 1968, 81 Stat. 917, 918; Pub. L. 93–233, §18(z–2)(1)(B), Dec. 31, 1973, 87 Stat. 973; Pub. L. 93–647, §3(c), Jan. 4, 1975, 88 Stat. 2349; Pub. L. 95–216, title IV, §404, Dec. 20, 1977, 91 Stat. 1562; Pub. L. 97–35, title XXIII, §2353(g), Aug. 13, 1981, 95 Stat. 872; Pub. L. 98–369, div. B, title VI, §2663(e)(5), July 18, 1984, 98 Stat. 1168; Pub. L. 98–378, §10, Aug. 16, 1984, 98 Stat. 1317; Pub. L. 99–272, title XIV, §14001(b)(2), Apr. 7, 1986, 100 Stat. 328; Pub. L. 100–485, title V, §503, Oct. 13, 1988, 102 Stat. 2402; Pub. L. 104–193, title I, §108(g)(2), Aug. 22, 1996, 110 Stat. 2168; Pub. L. 105–33, title IV, §4757(a), Aug. 5, 1997, 111 Stat. 527; Pub. L. 106–554, §1(a)(6) \[title VII, §703(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–574.)
 
 #### References in Text
 
@@ -63,6 +91,8 @@ Parts A and D of subchapter IV of this chapter, referred to in text, are classif
 Sections 1382 and 1383 of this title, referred to in subsec. (a)(1), (2), respectively, are references to sections 1382 and 1383 of this title as they existed prior to the general revision of this subchapter by Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1465, eff. Jan. 1, 1974. The prior sections (which are set out as notes under sections 1382 and 1383, respectively, of this title) continue in effect for Puerto Rico, Guam, and the Virgin Islands.
 
 #### Amendments
+
+2000—Subsec. (f). Pub. L. 106–554 added subsec. (f).
 
 1997—Subsec. (e). Pub. L. 105–33 added subsec. (e).
 
@@ -114,6 +144,10 @@ Pub. L. 90–248, §247, substituted in second sentence “$4,000,000” for “
 
 1965—Pub. L. 89–97 included in enumeration in opening phrase, and cls. (a) and (b), subchapter XIX of this chapter, and sections 1396a and 1396b of this title, respectively.
 
+#### Effective Date of 2000 Amendment
+
+Pub. L. 106–554, §1(a)(6) \[title VII, §703(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–575, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to requests for extensions of demonstration projects pending or submitted on or after the date of the enactment of this Act \[Dec. 21, 2000\].”
+
 #### Effective Date of 1997 Amendment
 
 Section 4757(b) of Pub. L. 105–33 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to demonstration projects initially approved before, on, or after the date of the enactment of this Act \[Aug. 5, 1997\].”
@@ -136,7 +170,7 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, except as otherwise explici
 
 #### Effective Date of 1975 Amendment
 
-Amendment by Pub. L. 93–647 effective with respect to payments under sections 603 and 803 of this title forquarters commencing after Sept. 30, 1975, see section 7(b) of Pub. L. 93–647, set out as a note under section 303 of this title.
+Amendment by Pub. L. 93–647 effective with respect to payments under sections 603 and 803 of this title for quarters commencing after Sept. 30, 1975, see section 7(b) of Pub. L. 93–647, set out as a note under section 303 of this title.
 
 #### Effective Date of 1973 Amendment
 
@@ -166,7 +200,7 @@ State Demonstration Projects To Encourage Innovative Education and Training Prog
 
 “(c)
 
-Demonstrations To Ensure Long Term Family Self-Sufficiency Through Community-Based Services.—Any State, using funds made available to it from appropriations made pursuant to subsection (d) in conjunction with its other resources, may conduct demonstrations to test more effective methods of providing coordination and services to ensure long term family self-sufficiency through community-based comprehensive family support services involving a partnership between the State agency administering or supervising the administrating of the State's plan under section 402 of the Social Security Act \[section 602 of this title\] and community-based organizations having experience and demonstrated effectiveness in providing services.
+Demonstrations To Ensure Long Term Family Self-Sufficiency Through Community-Based Services.—Any State, using funds made available to it from appropriations made pursuant to subsection (d) in conjunction with its other resources, may conduct demonstrations to test more effective methods of providingcoordination and services to ensure long term family self-sufficiency through community-based comprehensive family support services involving a partnership between the State agency administering or supervising the administrating of the State's plan under section 402 of the Social Security Act \[section 602 of this title\] and community-based organizations having experience and demonstrated effectiveness in providing services.
 
 “(d)
 
@@ -264,7 +298,7 @@ Applications; Selection Criteria.—(1) In selecting States to conduct demonstra
 
 “(e)
 
-Evaluation and Report.—(1) Each State conducting a demonstration project under this section shall submit to the Secretary for his approval an evaluation plan that provides for examining the effectiveness of the project in both the home base and peripheral area of the State.
+Evaluation and Report.—(1) Each State conducting a demonstration project under this sectionshall submit to the Secretary for his approval an evaluation plan that provides for examining the effectiveness of the project in both the home base and peripheral area of the State.
 
 “(2) Not later than October 1, 1992, the Secretary shall submit to the Congress a report containing a summary of the evaluations conducted by States pursuant to the plans described in paragraph (1).
 

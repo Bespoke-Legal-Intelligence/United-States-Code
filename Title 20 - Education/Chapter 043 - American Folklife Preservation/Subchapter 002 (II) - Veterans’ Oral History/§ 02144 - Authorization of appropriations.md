@@ -1,0 +1,10 @@
+### §2144. Authorization of appropriations
+
+There are authorized to be appropriated to carry out this subchapter—
+
+&emsp;(1) $250,000 for fiscal year 2001; and
+
+&emsp;(2) such sums as may be necessary for each succeeding fiscal year.
+
+(Pub. L. 106–380, §5, Oct. 27, 2000, 114 Stat. 1449.)
+

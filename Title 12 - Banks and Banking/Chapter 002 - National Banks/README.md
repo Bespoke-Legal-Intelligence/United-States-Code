@@ -67,7 +67,7 @@
 
 |  |  |
 | :--- | ---: |
-| [51\.](Subchapter%20002%20%28II%29%20-%20Capital%2C%20Stock%2C%20and%20Stockholders/%C2%A7%2000051%20-%20Requisite%20of%20capital%20and%20surplus.md) | Requisite of capital and surplus. |
+| [51\.](Subchapter%20002%20%28II%29%20-%20Capital%2C%20Stock%2C%20and%20Stockholders/%C2%A7%2000051%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93569%2C%20title%20XII%2C%20%C2%A71233%28c%29%2C%20Dec.%2027%2C%202000%2C%20114%20Stat.%203037.md) | Repealed. |
 | [51a.](Subchapter%20002%20%28II%29%20-%20Capital%2C%20Stock%2C%20and%20Stockholders/%C2%A7%2000051a%20-%20Preferred%20stock%3B%20issuance%20authorized.md) | Preferred stock; issuance authorized. |
 | [51b.](Subchapter%20002%20%28II%29%20-%20Capital%2C%20Stock%2C%20and%20Stockholders/%C2%A7%2000051b%20-%20Dividends%2C%20voting%2C%20and%20retirement%20of%20preferred%20stock%3B%20individual%20liability.md) | Dividends, voting, and retirement of preferred stock; individual liability. |
 | 51b–1. | Consideration of preferred stock in determining impairment of capital; dividends; retirement. |
@@ -115,7 +115,9 @@
 | :--- | ---: |
 | [81\.](Subchapter%20004%20%28IV%29%20-%20Regulation%20of%20the%20Banking%20Business%3B%20Powers%20and%20Duties%20of%20National%20Banks/%C2%A7%2000081%20-%20Place%20of%20business.md) | Place of business. |
 | [82\.](Subchapter%20004%20%28IV%29%20-%20Regulation%20of%20the%20Banking%20Business%3B%20Powers%20and%20Duties%20of%20National%20Banks/%C2%A7%2000082%20-%20Repealed.%20Pub.%20L.%2097%E2%80%93320%2C%20title%20IV%2C%20%C2%A7402%2C%20Oct.%2015%2C%201982%2C%2096%20Stat.%201510.md) | Repealed. |
-| [83\.](Subchapter%20004%20%28IV%29%20-%20Regulation%20of%20the%20Banking%20Business%3B%20Powers%20and%20Duties%20of%20National%20Banks/%C2%A7%2000083%20-%20Loans%20on%20or%20purchase%20by%20bank%20of%20own%20stock.md) | Loans on or purchase by bank of own stock. |
+| [83\.](Subchapter%20004%20%28IV%29%20-%20Regulation%20of%20the%20Banking%20Business%3B%20Powers%20and%20Duties%20of%20National%20Banks/%C2%A7%2000083%20-%20Loans%20by%20bank%20on%20its%20own%20stock.md) | Loans by bank on its own stock. |
+| (a) | General prohibition. |
+| (b) | Exclusion. |
 | [84\.](Subchapter%20004%20%28IV%29%20-%20Regulation%20of%20the%20Banking%20Business%3B%20Powers%20and%20Duties%20of%20National%20Banks/%C2%A7%2000084%20-%20Lending%20limits.md) | Lending limits. |
 | (a) | Total loans and extensions of credit. |
 | (b) | Definitions. |
@@ -332,6 +334,16 @@
 | (a) | In general. |
 | (b) | Scope of application. |
 | (c) | Definitions. |
+| 215a–2. | Expedited procedures for certain reorganizations. |
+| (a) | In general. |
+| (b) | Reorganization plan. |
+| (c) | Rights of dissenting shareholders. |
+| (d) | Effect of reorganization. |
+| (e) | Approval under the Bank Holding Company Act. |
+| 215a–3. | Mergers and consolidations with subsidiaries and nonbank affiliates. |
+| (a) | In general. |
+| (b) | Scope. |
+| (c) | Regulations. |
 | [215b.](Subchapter%20016%20%28XVI%29%20-%20Consolidation%20and%20Merger/%C2%A7%2000215b%20-%20Definitions.md) | Definitions. |
 | [215c.](Subchapter%20016%20%28XVI%29%20-%20Consolidation%20and%20Merger/%C2%A7%2000215c%20-%20Mergers%2C%20consolidations%2C%20and%20other%20acquisitions%20authorized.md) | Mergers, consolidations, and other acquisitions authorized. |
 | (a) | In general. |

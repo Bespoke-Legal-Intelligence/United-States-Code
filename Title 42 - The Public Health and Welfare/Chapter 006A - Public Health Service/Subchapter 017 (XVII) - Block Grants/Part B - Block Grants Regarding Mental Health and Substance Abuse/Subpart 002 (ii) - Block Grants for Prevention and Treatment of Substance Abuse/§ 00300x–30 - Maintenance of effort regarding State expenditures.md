@@ -2,9 +2,13 @@
 
 #### (a) In general
 
-With respect to the principal agency of a State for carrying out authorized activities, a funding agreement for a grant under section 300x–21 of this title for the State for a fiscal year is thatsuch agency will for such year maintain aggregate State expenditures for authorized activities at a level that is not less than the average level of such expenditures maintained by the State for the 2-year period preceding the fiscal year for which the State is applying for the grant.
+With respect to the principal agency of a State for carrying out authorized activities, a funding agreement for a grant under section 300x–21 of this title for the State for a fiscal year is that such agency will for such year maintain aggregate State expenditures for authorized activities at a level that is not less than the average level of such expenditures maintained by the State for the 2-year period preceding the fiscal year for which the State is applying for the grant.
 
-#### (b) Waiver
+#### (b) Exclusion of certain funds
+
+The Secretary may exclude from the aggregate State expenditures under subsection (a) of this section, funds appropriated to the principle agency for authorized activities which are of a non-recurring nature and for a specific purpose.
+
+#### (c) Waiver
 
 #### (1) In general
 
@@ -18,7 +22,7 @@ With respect to the principal agency of a State for carrying out authorized acti
 
 &emsp;Any waiver provided by the Secretary under paragraph (1) shall be applicable only to the fiscal year involved.
 
-#### (c) Noncompliance by State
+#### (d) Noncompliance by State
 
 #### (1) In general
 
@@ -28,11 +32,15 @@ With respect to the principal agency of a State for carrying out authorized acti
 
 &emsp;The Secretary may make a grant under section 300x–21 of this title for a fiscal year only if the State involved submits to the Secretary information sufficient for the Secretary to make the determination required in paragraph (1).
 
-(July 1, 1944, ch. 373, title XIX, §1930, as added Pub. L. 102–321, title II, §202, July 10, 1992, 106 Stat. 397.)
+(July 1, 1944, ch. 373, title XIX, §1930, as added Pub. L. 102–321, title II, §202, July 10, 1992, 106 Stat. 397; amended Pub. L. 106–310, div. B, title XXXIII, §3303(c), Oct. 17, 2000, 114 Stat. 1210.)
 
 #### Prior Provisions
 
 A prior section 1930 of act July 1, 1944, was classified to section 300y–9 of this title prior to repeal by Pub. L. 99–280.
+
+#### Amendments
+
+2000—Subsecs. (b) to (d). Pub. L. 106–310 added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
 #### Section Referred to in Other Sections
 

@@ -4,7 +4,7 @@ As used in this subchapter, the term—
 
 &emsp;(1) “Secretary” means the Secretary of Commerce, acting through the Economic Development Administration.
 
-&emsp;(2) “State” includes the several States, the District of Columbia, the Commonwealth ofPuerto Rico, the Virgin Islands, Guam, American Samoa, and the Trust Territory of the Pacific Islands.
+&emsp;(2) “State” includes the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Trust Territory of the Pacific Islands.
 
 &emsp;(3) “local government” means any city, county, town, parish, or other political subdivision of a State, and any Indian tribe.
 

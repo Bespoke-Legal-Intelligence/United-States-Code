@@ -1,36 +1,48 @@
 ### §1110. Aircraft equipment and vessels
 
-(a)(1) The right of a secured party with a security interest in equipment described in paragraph (2) or of a lessor or conditional vendor of such equipment to take possession of such equipment in compliance with a security agreement, lease, or conditional sale contract is not affected by section 362, 363, or 1129 or by any power of the court to enjoin the taking of possession unless—
+(a)(1) Except as provided in paragraph (2) and subject to subsection (b), the right of a secured party with a security interest in equipment described in paragraph (3), or of a lessor or conditional vendor of such equipment, to take possession of such equipment in compliance with a security agreement, lease, or conditional sale contract, and to enforce any of its other rights or remedies, under such security agreement, lease, or conditional sale contract, to sell, lease, or otherwise retain or dispose of such equipment, is not limited or otherwise affected by any other provision of this title or by any power of the court.
 
-&emsp;(A) before the date that is 60 days after the date of the order for relief under this chapter, the trustee, subject to the court's approval, agrees to perform all obligations of the debtor that become due on or after the date of the order under such security agreement, lease, or conditional sale contract; and
+(2) The right to take possession and to enforce the other rights and remedies described in paragraph (1) shall be subject to section 362 if—
+
+&emsp;(A) before the date that is 60 days after the date of the order for relief under this chapter, the trustee, subject to the approval of the court, agrees to perform all obligations of the debtor under such security agreement, lease, or conditional sale contract; and
 
 &emsp;(B) any default, other than a default of a kind specified in section 365(b)(2), under such security agreement, lease, or conditional sale contract—
 
-&emsp;&emsp;(i) that occurs before the date of the order is cured before the expiration of such 60-day period; and
+&emsp;&emsp;(i) that occurs before the date of the order is cured before the expiration of such 60-day period;
 
-&emsp;&emsp;(ii) that occurs after the date of the order is cured before the later of—
+&emsp;&emsp;(ii) that occurs after the date of the order and before the expiration of such 60-day period is cured before the later of—
 
 &emsp;&emsp;&emsp;(I) the date that is 30 days after the date of the default; or
 
-&emsp;&emsp;&emsp;(II) the expiration of such 60-day period.
+&emsp;&emsp;&emsp;(II) the expiration of such 60-day period; and
 
-(2) Equipment is described in this paragraph if it is—
+&emsp;&emsp;(iii) that occurs on or after the expiration of such 60-day period is cured in compliance with the terms of such security agreement, lease, or conditional sale contract, if a cure is permitted under that agreement, lease, or contract.
 
-&emsp;(A) an aircraft, aircraft engine, propeller, appliance, or spare part (as defined in section 40102 of title 49) that is subject to a security interest granted by, leased to, or conditionally sold to a debtor that is a citizen of the United States (as defined in section 40102 of title 49) holding an air carrier operating certificate issued by the Secretary of Transportation pursuant to chapter 447 of title 49 for aircraft capable of carrying 10 or more individuals or 6,000 pounds or more of cargo; or
+(3) The equipment described in this paragraph—
 
-&emsp;(B) a documented vessel (as defined in section 30101(1) of title 46) that is subject to a security interest granted by, leased to, or conditionally sold to a debtor that is a water carrier that holds a certificate of public convenience and necessity or permit issued by the Interstate Commerce Commission.
+&emsp;(A) is—
 
-(3) Paragraph (1) applies to a secured party, lessor, or conditional vendor acting in its own behalf or acting as trustee or otherwise in behalf of another party.
+&emsp;&emsp;(i) an aircraft, aircraft engine, propeller, appliance, or spare part (as defined in section 40102 of title 49) that is subject to a security interest granted by, leased to, or conditionally sold to a debtor that, at the time such transaction is entered into, holds an air carrier operating certificate issued pursuant to chapter 447 of title 49 for aircraft capable of carrying 10 or more individuals or 6,000 pounds or more of cargo; or
 
-(b) The trustee and the secured party, lessor, or conditional vendor whose right to take possession is protected under subsection (a) may agree, subject to the court's approval, to extend the 60-day period specified in subsection (a)(1).
+&emsp;&emsp;(ii) a documented vessel (as defined in section 30101(1) of title 46) that is subject to a security interest granted by, leased to, or conditionally sold to a debtor that is a water carrier that, at the time such transaction is entered into, holds a certificate of public convenience and necessity or permit issued by the Department of Transportation; and
 
-(c) With respect to equipment first placed in service on or prior to the date of enactment of this subsection, for purposes of this section—
+&emsp;(B) includes all records and documents relating to such equipment that are required, under the terms of the security agreement, lease, or conditional sale contract, to be surrendered or returned by the debtor in connection with the surrender or return of such equipment.
+
+(4) Paragraph (1) applies to a secured party, lessor, or conditional vendor acting in its own behalf or acting as trustee or otherwise in behalf of another party.
+
+(b) The trustee and the secured party, lessor, or conditional vendor whose right to take possession is protected under subsection (a) may agree, subject to the approval of the court, to extend the 60-day period specified in subsection (a)(1).
+
+(c)(1) In any case under this chapter, the trustee shall immediately surrender and return to a secured party, lessor, or conditional vendor, described in subsection (a)(1), equipment described in subsection (a)(3), if at any time after the date of the order for relief under this chapter such secured party, lessor, or conditional vendor is entitled pursuant to subsection (a)(1) to take possession of such equipment and makes a written demand for such possession to the trustee.
+
+(2) At such time as the trustee is required under paragraph (1) to surrender and return equipment described in subsection (a)(3), any lease of such equipment, and any security agreement or conditional sale contract relating to such equipment, if such security agreement or conditional sale contract is an executory contract, shall be deemed rejected.
+
+(d) With respect to equipment first placed in service on or before October 22, 1994, for purposes of this section—
 
 &emsp;(1) the term “lease” includes any written agreement with respect to which the lessor and the debtor, as lessee, have expressed in the agreement or in a substantially contemporaneous writing that the agreement is to be treated as a lease for Federal income tax purposes; and
 
 &emsp;(2) the term “security interest” means a purchase-money equipment security interest.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2629; Pub. L. 103–272, §5(c), July 5, 1994, 108 Stat. 1373; Pub. L. 103–394, title II, §201(a), Oct. 22, 1994, 108 Stat. 4119.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2629; Pub. L. 103–272, §5(c), July 5, 1994, 108 Stat. 1373; Pub. L. 103–394, title II, §201(a), Oct. 22, 1994, 108 Stat. 4119; Pub. L. 106–181, title VII, §744(b), Apr. 5, 2000, 114 Stat. 177.)
 
 #### Historical and Revision Notes
 
@@ -48,15 +60,13 @@ The section overrides the automatic stay or any power of the court to enjoin tak
 
 The effect of this section will be the same if the debtor has granted the security interest to the financer or if the debtor is leasing equipment from a financer that has leveraged the lease and leased the equipment subject to a security interest of a third party.
 
-#### References in Text
-
-The date of enactment of this subsection, referred to in subsec. (c), is the date of enactment of Pub. L. 103–394, which added subsec. (c) and was approved Oct. 22, 1994.
-
 #### Amendments
+
+2000—Pub. L. 106–181 amended section catchline and text generally, substituting present provisions consisting of subsecs. (a) to (d) for former subsecs. (a) to (c) which contained somewhat similar provisions.
 
 1994—Pub. L. 103–394 amended section generally. Prior to amendment, section read as follows:
 
-“(a) The right of a secured party with a purchase-money equipment security interest in, or of a lessor or conditional vendor of, whether as trustee or otherwise, aircraft, aircraft engines, propellers, appliances, or spare parts, as defined in section 40102(a) of title 49, or vessels of the United States, as defined in section 30101 of title 46, that are subject to a purchase-money equipment security interest granted by, leased to, or conditionally sold to, a debtor that is an air carrier operating under a certificate of convenience and necessity issued by the Secretary of Transportation, or a water carrier that holds a certificate of public convenience and necessity or permit issued by the Interstate Commerce Commission, as the case may be, to take possession of such equipment in compliance with the provisions of a purchase-money equipment security agreement, lease, or conditional sale contract, as the case may be, is not affected by section 362 or 363 of this title or by any power of the court to enjoin such taking of possession, unless—
+“(a) The right of a secured party with a purchase-money equipment security interest in, or of a lessor or conditional vendor of, whether as trustee or otherwise, aircraft, aircraft engines, propellers, appliances, or spare parts, as defined in section 40102(a) of title 49, or vessels of the United States, as defined in section 30101of title 46, that are subject to a purchase-money equipment security interest granted by, leased to, or conditionally sold to, a debtor that is an air carrier operating under a certificate of convenience and necessity issued by the Secretary of Transportation, or a water carrier that holds a certificate of public convenience and necessity or permit issued by the Interstate Commerce Commission, as the case may be, to take possession of such equipment in compliance with the provisions of a purchase-money equipment security agreement, lease, or conditional sale contract, as the case may be, is not affected by section 362 or 363 of this title or by any power of the court to enjoin such taking of possession, unless—
 
 &emsp;“(1) before 60 days after the date of the order for relief under this chapter, the trustee, subject to the court's approval, agrees to perform all obligations of the debtor that become due on or after such date under such security agreement, lease, or conditional sale contract, as the case may be; and
 
@@ -73,6 +83,10 @@ The date of enactment of this subsection, referred to in subsec. (c), is the dat
 “(b) The trustee and the secured party, lessor, or conditional vendor, as the case may be, whose right to take possession is protected under subsection (a) of this section may agree, subject to the court's approval, to extend the 60-day period specified in subsection (a)(1) of this section.”
 
 Subsec. (a). Pub. L. 103–272 substituted “section 40102(a) of title 49” for “section 101 of the Federal Aviation Act of 1958 (49 U.S.C. 1301)”, “section 30101 of title 46” for “subsection B(4) of the Ship Mortgage Act, 1920 (46 U.S.C. 911(4))”, and “Secretary of Transportation” for “Civil Aeronautics Board”.
+
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of Title 49, Transportation.
 
 #### Effective Date of 1994 Amendment
 
@@ -92,7 +106,7 @@ Pub. L. 103–7, Mar. 17, 1993, 107 Stat. 36, provided that:
 
 #### “SEC. 2. TREATMENT OF AIRCRAFT EQUIPMENT SETTLEMENT LEASES WITH THE PENSION BENEFIT GUARANTY CORPORATION.
 
-“In the case of any settlement of liability under title IV of the Employee Retirement Income Security Act of1974 \[29 U.S.C. 1301 et seq.\] entered into by the Pension Benefit Guaranty Corporation and one or more other parties, if—
+“In the case of any settlement of liability under title IV of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1301 et seq.\] entered into by the Pension Benefit Guaranty Corporation and one or more other parties, if—
 
 &emsp;“(1) such settlement was entered into before, on, or after the date of the enactment of this Act \[Mar. 17, 1993\],
 

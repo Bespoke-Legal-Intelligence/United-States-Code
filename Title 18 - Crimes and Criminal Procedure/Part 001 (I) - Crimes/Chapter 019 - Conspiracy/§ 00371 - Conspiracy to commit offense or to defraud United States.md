@@ -1,6 +1,6 @@
 ### §371. Conspiracy to commit offense or to defraud United States
 
-If two or more persons conspire either to commit any offense against the United States, or to defraud the United States, or any agency thereof in any manner or for any purpose, and one or more of such persons do any act to effect the object of the conspiracy, each shall be fined under this title or imprisoned not more than five years, or both.
+If two or more persons conspire either to commit any offense against the United States, or todefraud the United States, or any agency thereof in any manner or for any purpose, and one or more of such persons do any act to effect the object of the conspiracy, each shall be fined under this title or imprisoned not more than five years, or both.
 
 If, however, the offense, the commission of which is the object of the conspiracy, is a misdemeanor only, the punishment for such conspiracy shall not exceed the maximum punishment provided for such misdemeanor.
 
@@ -31,32 +31,6 @@ A number of special conspiracy provisions, relating to specific offenses, which 
 #### Amendments
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
-
-#### Canal Zone
-
-Applicability of section to Canal Zone, see section 14 of this title.
-
-#### Cross References
-
-Civil rights, conspiracy against, see section 241 of this title.
-
-Claims; conspiracy to obtain allowance or payment, see section 286 of this title.
-
-Conspiracy to—
-
-&emsp;&emsp;Cast away or destroy vessel, see section 2271 of this title.
-
-&emsp;&emsp;Gather defense information, see section 794 of this title.
-
-&emsp;&emsp;Injure property of foreign government, see section 956 of this title.
-
-&emsp;&emsp;Kidnap, see section 1201 of this title.
-
-Limitation period on conspiracy of attempting to evade or defeat any tax or the payment thereof, see section 6531 of Title 26, Internal Revenue Code.
-
-Seditious conspiracy, see section 2384 of this title.
-
-Wire or oral communications, authorization for interception, to provide evidence of conspiracies to commit certain offenses, see section 2516 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -16,7 +16,7 @@ Submission and Contents.—Not later than August 15, 1997, and every 2 years the
 
 &emsp;(6) an analysis and evaluation of—
 
-&emsp;&emsp;(A) research activities, including their policy implications, completed as a result of the United States Government and private sponsorship; and
+&emsp;&emsp;(A) research activities, including their policy implications, completed as a result ofthe United States Government and private sponsorship; and
 
 &emsp;&emsp;(B) technological progress in safety achieved.
 
@@ -103,6 +103,10 @@ In subsection (b), the words “annual” and “the report requirements of” a
 Subsec. (a). Pub. L. 104–304, §15(a)(2), inserted first sentence and struck out former first sentence which read as follows: “The Secretary of Transportation shall submit to Congress not later than August 15 of each odd-numbered year a report on carrying out this chapter for the prior calendar year for gas and a report on carrying out this chapter for the prior calendar year for hazardous liquid.”
 
 1995—Subsec. (a). Pub. L. 104–66 substituted “of each odd-numbered year” for “of each year” in first sentence of introductory provisions.
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the 7th and 9th items on page 135 identify reporting provisions which, as subsequently amended, are contained in this section), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 
 #### Section Referred to in Other Sections
 

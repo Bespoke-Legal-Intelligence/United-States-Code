@@ -2,7 +2,7 @@
 
 (a)
 
-Prompt Indemnification Required.—(1) In the event of a loss that is covered by vessel war risk insurance, the Secretary of Defense shall promptly indemnify the Secretary of Transportation for the amount of the loss consistent with the indemnification agreement between the twoSecretaries that underlies such insurance. The Secretary of Defense shall make such indemnification—
+Prompt Indemnification Required.—(1) In the event of a loss that is covered by vessel war risk insurance, the Secretary of Defense shall promptly indemnify the Secretary of Transportation for the amount of the loss consistent with the indemnification agreement between the two Secretaries that underlies such insurance. The Secretary of Defense shall make such indemnification—
 
 &emsp;(A) in the case of a claim for the loss of a vessel, not later than 90 days after the date on which the Secretary of Transportation determines the claim to be payable or that amounts are due under the policy that provided the vessel war risk insurance; and
 

@@ -16,7 +16,7 @@
 
 (3) Each such request—
 
-&emsp;(A) shall be accompanied by a written certification signed by the department or agencyhead or deputy department or agency head concerned, or by a senior official designated for this purpose by the department or agency head concerned (whose rank shall be no lower than Assistant Secretary or Assistant Director), and shall certify that—
+&emsp;(A) shall be accompanied by a written certification signed by the department or agency head or deputy department or agency head concerned, or by a senior official designated for this purpose by the department or agency head concerned (whose rank shall be no lower than Assistant Secretary or Assistant Director), and shall certify that—
 
 &emsp;&emsp;(i) the person concerned is or was an employee within the meaning of paragraph (2)(A);
 

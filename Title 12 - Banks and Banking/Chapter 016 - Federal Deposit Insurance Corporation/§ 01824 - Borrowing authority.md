@@ -2,7 +2,7 @@
 
 #### (a) Borrowing from Treasury
 
-The Corporation is authorized to borrow from the Treasury, and the Secretary of the Treasury is authorized and directed to loan to the Corporation on such terms as may be fixed by the Corporation and the Secretary, such funds as in the judgment of the Board of Directors of theCorporation are from time to time required for insurance purposes, not exceeding in the aggregate $30,000,000,000 outstanding at any one time, subject to the approval of the Secretary of the Treasury: <i>Provided</i>, That the rate of interest to be charged in connection with any loan made pursuant to this subsection shall not be less than an amount determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities. For such purpose the Secretary of the Treasury is authorized to use as a public-debt transaction the proceeds of the sale of any securities hereafter issued under chapter 31 of title 31, and the purposes for which securities may be issued under chapter 31 of title 31 are extended to include such loans. Any such loan shall be used by the Corporation solely in carrying out its functions with respect to such insurance. All loans and repayments under this subsection shall be treated as public-debt transactions of the United States. The Corporation may employ any funds obtained under this section for purposes of the Bank Insurance Fund or the Savings Association Insurance Fund and the borrowing shall become a liability of each such fund to the extent funds are employed therefor. There are hereby appropriated to the Secretary, for fiscal year 1989 and each fiscal year thereafter, such sums as may be necessary to carry out this subsection.
+The Corporation is authorized to borrow from the Treasury, and the Secretary of the Treasury is authorized and directed to loan to the Corporation on such terms as may be fixed by the Corporation and the Secretary, such funds as in the judgment of the Board of Directors of the Corporation are from time to time required for insurance purposes, not exceeding in the aggregate $30,000,000,000 outstanding at any one time, subject to the approval of the Secretary of the Treasury: <i>Provided</i>, That the rate of interest to be charged in connection with any loan made pursuant to this subsection shall not be less than an amount determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities. For such purpose the Secretary of the Treasury is authorized to use as a public-debt transaction the proceeds of the sale of any securities hereafter issued under chapter 31 of title 31, and the purposes for which securities may be issued under chapter 31 of title 31 are extended to include such loans. Any such loan shall be used by the Corporation solely in carrying out its functions with respect to such insurance. All loans and repayments under this subsection shall be treated as public-debt transactions of the United States. The Corporation may employ any funds obtained under this section for purposes of the Bank Insurance Fund or the Savings Association Insurance Fund and the borrowing shall become a liability of each such fund to the extent funds are employed therefor. There are hereby appropriated to the Secretary, for fiscal year 1989 and each fiscal year thereafter, such sums as may be necessary to carry out this subsection.
 
 #### (b) Borrowing from Federal Financing Bank
 
@@ -88,26 +88,6 @@ The Corporation is authorized to issue and sell the Corporation's obligations, o
 
 (Sept. 21, 1950, ch. 967, §2\[14\], 64 Stat. 890; Pub. L. 101–73, title II, §218, Aug. 9, 1989, 103 Stat. 261; Pub. L. 101–508, title II, §2005, Nov. 5, 1990, 104 Stat. 1388–16; Pub. L. 102–242, title I, §§101, 103(a), 105, Dec. 19, 1991, 105 Stat. 2236, 2237, 2239; Pub. L. 102–550, title XVI, §1603(a)(2), Oct. 28, 1992, 106 Stat. 4078; Pub. L. 103–204, §10, Dec. 17, 1993, 107 Stat. 2389; Pub. L. 104–208, div. A, title II, §2704(d)(14)(N)–(Q), Sept. 30, 1996, 110 Stat. 3009–493.)
 
-#### Amendment of Section
-
-<i>Pub. L. 104–208, div. A, title II, §2704(c), (d)(14)(N)–(Q), Sept. 30, 1996, 110 Stat. 3009–487, 3009–493, provided that, effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, this section is amended as follows:</i>
-
-<i>(1) In subsection (a), in the 5th sentence—</i>
-
-<i>(A) by striking “Bank Insurance Fund or the Savings Association Insurance Fund” and inserting “Deposit Insurance Fund”; and</i>
-
-<i>(B) by striking “each such fund” and inserting “the Deposit Insurance Fund”;</i>
-
-<i>(2) In subsection (b), by striking “Bank Insurance Fund or Savings Association Insurance Fund” and inserting “Deposit Insurance Fund”;</i>
-
-<i>(3) In subsection (c), by striking paragraph (3); and</i>
-
-<i>(4) In subsection (d)—</i>
-
-<i>(A) by striking “BIF” each place such term appears and inserting “DIF”; and</i>
-
-<i>(B) by striking “Bank Insurance Fund” each place such term appears and inserting “Deposit Insurance Fund”.</i>
-
 #### References in Text
 
 The Federal Financing Bank Act of 1973, referred to in subsec. (b), is Pub. L. 93–224, Dec. 29, 1973, 87 Stat. 937, as amended, which is classified generally to chapter 24 (§2281 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2281 of this title and Tables.
@@ -121,6 +101,14 @@ The Federal Financing Bank Act of 1973, referred to in subsec. (b), is Pub. L. 9
 Section is derived from subsec. (<i>o</i>) of former section 264 of this title. See Codification note set out under section 1811 of this title.
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–208, §2704(d)(14)(N), which directed substitution of “Deposit Insurance Fund” for “Bank Insurance Fund or the Savings Association Insurance Fund” and “the Deposit Insurance Fund” for “each such fund” in fifth sentence, was not executed. See Effective Date of 1996 Amendment note below.
+
+Subsec. (b). Pub. L. 104–208, §2704(d)(14)(O), which directed substitution of “Deposit Insurance Fund” for “Bank Insurance Fund or Savings Association Insurance Fund”, was not executed. See Effective Date of 1996 Amendment note below.
+
+Subsec. (c)(3). Pub. L. 104–208, §2704(d)(14)(P), which directed striking out par. (3), was not executed. See Effective Date of 1996 Amendment note below.
+
+Subsec. (d). Pub. L. 104–208, §2704(d)(14)(Q), which directed substitution of “DIF” for “BIF” and “Deposit Insurance Fund” for “Bank Insurance Fund” wherever appearing, was not executed. See Effective Date of 1996 Amendment note below.
 
 1993—Subsec. (c)(3). Pub. L. 103–204 added par. (3).
 
@@ -138,7 +126,7 @@ Subsec. (d). Pub. L. 102–242, §105, added subsec. (d).
 
 #### Change of Name
 
-Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Effective Date of 1996 Amendment
 

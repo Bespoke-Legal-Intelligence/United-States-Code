@@ -10,7 +10,7 @@
 
 (b) The Secretary of Defense shall prescribe regulations to carry out this section.
 
-(c) Whoever is guilty of an act or omission which violates a requirement prescribed under subsection (a)(1) or (2), which act or omission would be punishable if committed or omitted within the jurisdiction of the State or Territoryin which the installation or facility is located, by the laws thereof in effect at the time of that act or omission, is guilty of a like offense and is subject to a like punishment.
+(c) Whoever is guilty of an act or omission which violates a requirement prescribed under subsection (a)(1) or (2), which act or omission would be punishable if committed or omitted within the jurisdiction of the State or Territory in which the installation or facility is located, by the laws thereof in effect at the time of that act or omission, is guilty of a like offense and is subject to a like punishment.
 
 (d) This section does not modify any rights granted by the treaty or otherwise to any Indian tribe or to the members thereof.
 

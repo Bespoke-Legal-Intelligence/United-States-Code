@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Governor of a State shall establish a State workforce investment board to assist in the development of the State plan described insection 2822 of this title and to carry out the other functions described in subsection (d) of this section.
+The Governor of a State shall establish a State workforce investment board to assist in the development of the State plan described in section 2822 of this title and to carry out the other functions described in subsection (d) of this section.
 
 #### (b) Membership
 
@@ -80,11 +80,11 @@ The State Board shall assist the Governor in—
 
 #### (1) In general
 
-&emsp;For purposes of complying with subsections (a), (b), and (c) of this section, a State may use any State entity (including a State council, State workforce development board, combination of regional workforce development boards, or similar entity) that—
+&emsp;For purposes of complying with subsections (a), (b), and (c) of this section, a State may use any State entity (including a State council,State workforce development board, combination of regional workforce development boards, or similar entity) that—
 
 &emsp;&emsp;(A) was in existence on December 31, 1997;
 
-&emsp;&emsp;(B)(i) was established pursuant to section 122 or title VII of the Job Training Partnership Act \[29 U.S.C. 1532, 1792 et seq.\], as in effect on December 31, 1997; or
+&emsp;&emsp;(B)(i) was established pursuant to section 122 or title VII of the Job Training Partnership Act, as in effect on December 31, 1997; or
 
 &emsp;&emsp;(ii) is substantially similar to the State board described in subsections (a), (b), and (c) of this section; and
 
@@ -118,7 +118,7 @@ This chapter, referred to in subsec. (d)(2), was in the original “this title�
 
 Section 2323(b)(14) of title 20, referred to in subsec. (d)(3), was omitted in the general amendment of chapter 44 (§2301 et seq.) of Title 20, Education, by Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3076.
 
-The Job Training Partnership Act, referred to in subsec. (e)(1)(B)(i), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended. Title VII of the Act is classified generally to subchapter VI (§1792 et seq.) of chapter 19 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of this title and Tables.
+The Job Training Partnership Act, referred to in subsec. (e)(1)(B)(i), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended. Section 122 and title VII of the Act were classified to section 1532 and subchapter VI (§1792 et seq.) of chapter 19 of this title, respectively, prior to repeal by Pub. L. 105–220, title I, §199(b)(2), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. For complete classification of this Act to the Code, see Tables.
 
 This Act, referred to in subsec. (e)(2), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended, known as the Workforce Investment Act of 1998. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 

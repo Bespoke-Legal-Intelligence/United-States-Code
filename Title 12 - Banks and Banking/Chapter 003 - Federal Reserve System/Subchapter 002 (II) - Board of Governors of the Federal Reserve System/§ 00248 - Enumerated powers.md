@@ -4,7 +4,7 @@ The Board of Governors of the Federal Reserve System shall be authorized and emp
 
 #### (a) Examination of accounts and affairs of banks; publication of weekly statements; reports of liabilities and assets of depository institutions; covered institutions
 
-(1) To examine at its discretion the accounts, books, and affairs of each Federal reserve bankand of each member bank and to require such statements and reports as it may deem necessary. The said board shall publish once each week a statement showing the condition of each Federal reserve bank and a consolidated statement for all Federal reserve banks. Such statements shall show in detail the assets and liabilities of the Federal reserve banks, single and combined, and shall furnish full information regarding the character of the money held as reserve and the amount, nature, and maturities of the paper and other investments owned or held by Federal reserve banks.
+(1) To examine at its discretion the accounts, books, and affairs of each Federal reserve bank and of each member bank and to require such statements and reports as it may deem necessary. The said board shall publish once each week a statement showing the condition of each Federal reserve bank and a consolidated statement for all Federal reserve banks. Such statements shall show in detail the assets and liabilities of the Federal reserve banks, single and combined, and shall furnish full information regarding the character of the money held as reserve and the amount, nature, and maturities of the paper and other investments owned or held by Federal reserve banks.
 
 (2) To require any depository institution specified in this paragraph to make, at such intervals as the Board may prescribe, such reports of its liabilities and assets as the Board may determine to be necessary or desirable to enable the Board to discharge its responsibility to monitor and control monetary and credit aggregates. Such reports shall be made (A) directly to the Board in the case of member banks and in the case of other depository institutions whose reserve requirements under sections 461, 463, 464, 465, and 466 of this title exceed zero, and (B) for all other reports to the Board through the (i) Federal Deposit Insurance Corporation in the case of insured State nonmember banks, savings banks, and mutual savings banks, (ii) National Credit Union Administration Board in the case of insured credit unions, (iii) the Director of the Office of Thrift Supervision in the case of any savings association which is an insured depository institution (as defined in section 1813 of this title) or which is a member as defined in section 1422 of this title, and (iv) such State officer or agency as the Board may designate in the case of any other type of bank, savings and loan association, or credit union. The Board shall endeavor to avoid the imposition of unnecessary burdens on reporting institutions and the duplication of other reporting requirements. Except as otherwise required by law, any data provided to any department, agency, or instrumentality of the United States pursuant to other reporting requirement shall be made available to the Board. The Board may classify depository institutions for the purposes of this paragraph and may impose different requirements on each such class.
 
@@ -50,7 +50,7 @@ To delegate, by published order or rule and subject to subchapter II of chapter 
 
 #### (<i>l</i>) Employing attorneys, experts, assistants, and clerks; salaries and fees
 
-To employ such attorneys, experts, assistants, clerks, or other employees as may be deemednecessary to conduct the business of the board. All salaries and fees shall be fixed in advance by said board and shall be paid in the same manner as the salaries of the members of said board.
+To employ such attorneys, experts, assistants, clerks, or other employees as may be deemed necessary to conduct the business of the board. All salaries and fees shall be fixed in advance by said board and shall be paid in the same manner as the salaries of the members of said board. All such attorneys, experts, assistants, clerks, and other employees shall be appointed without regard to the provisions of the Act of January sixteenth, eighteen hundred and eighty-three (volume twenty-two, United States Statutes at Large, page four hundred and three), and amendments thereto, or any rule or regulation made in pursuance thereof: <i>Provided</i>, That nothing herein shall prevent the President from placing said employees in the classified service.
 
 #### (m) \[Repealed\]
 
@@ -76,13 +76,13 @@ This chapter, referred to in subsecs, (c), (h), (i), and (n), was in the origina
 
 Reference in subsec. (e) to “section 20 of this Act” means section 20 of the Federal Reserve Act which is not classified to the code. Since section 20 does not set forth any reserve requirements, section 19 of the Federal Reserve Act might have been intended. For provisions of section 19 relating to reserve requirements, see note above.
 
+The Act of January sixteenth, eighteen hundred and eighty-three, referred to in subsec. (<i>l</i>), is act Jan. 16, 1883, ch. 27, 22 Stat. 403, as amended, which enacted section 42 of Title 40, Public Buildings, Property, and Works, and sections 632, 633, 635, 637, 638, and 640 to 642aof former Title 5, Executive Departments and Government Officers and Employees. For complete classification of this Act to the Code, see Tables. The sections that were classified to former Title 5 were repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 632, the first section of which enacted Title 5, Government Organization and Employees. For distribution of former sections of Title 5 into the revised Title 5, see table at the beginning of Title 5.
+
 This title, referred to in subsec. (p), probably should read “this Act”, meaning act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, known as the Federal Reserve Act, which does not contain titles. For complete classification of this Act to the Code, see References in Text note set out under section 226 of this title and Tables.
 
 #### Codification
 
 In subsec. (k), “subchapter II of chapter 5, and chapter 7, of title 5” was substituted for “the Administrative Procedure Act” on authority of section 7(b) of Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
-
-Provisions of subsec. (<i>l</i>), which authorized appointment of attorneys, experts, assistants, clerks and other employees without regard to the provisions of the act of January sixteenth, eighteen hundred and eighty-three, and amendments thereto, or any rule or regulation made in pursuance thereof, were omitted as obsolete. Appointments in the executive branch are now subject to the civil service laws unless specifically excepted by such laws or by laws enacted subsequent to Executive Order No. 8743, Apr. 23, 1941, issued by the President pursuant to act Nov. 26, 1940, ch. 919, title I, §1, 54 Stat. 1211, which covered most excepted positions into the classified (competitive) civil service. The Order is set out as a note under section 3301 of Title 5, Government Organization and Employees. All positions under the Board of Governors, Federal Reserve System are now excepted from the competitive service under Schedule A of the Civil Service Rules.
 
 Section is comprised of section 11 of act Dec. 23, 1913. The fourteenth par. of section 16 of act Dec. 23, 1913, which formerly constituted subsec. (<i>o</i>) of this section, is now classified to section 248–1 of this title.
 
@@ -154,7 +154,7 @@ Section 108 of title I of Pub. L. 96–221 provided that: “This title \[enacti
 
 #### Effective Date of 1959 Amendment
 
-Amendment by Pub. L. 86–114 effective three years after July 28, 1959, see section 3(b) of Pub. L. 86–114, set out as a Central Reserve and Reserve Cities note under section 141 of this title.
+Amendment by Pub. L. 86–114 effective three years after July 28, 1959, see section 3(b) of Pub. L. 86–114, setout as a Central Reserve and Reserve Cities note under section 141 of this title.
 
 #### Construction of 1991 Amendment
 
@@ -171,16 +171,6 @@ Ex. Ord. No. 6359, Oct. 25, 1933, as amended by Ex. Ord. No. 11825, Dec. 31, 197
 #### Ex. Ord. No. 10547. Inspection of Statistical Transcript Cards
 
 Ex. Ord. No. 10547, July 27, 1954, 19 F.R. 4661, required statistical transcript cards submitted with, or prepared by the Internal Revenue Service from, corporation income tax returns for the taxable years ending after June 30, 1951, and before July 1, 1952, to be open to inspection by the Board of Governors of the Federal Reserve System as an aid in executing the powers conferred upon such Board by this section, such inspection to be in accordance and upon compliance with the rules and regulations prescribed by the Secretary of the Treasury in T.D. 6081, 19 F.R. 4666.
-
-#### Cross References
-
-Consolidation with State banks, see section 215 of this title.
-
-Expansion of credit, see section 5301 et seq. of Title 31, Money and Finance.
-
-Federal reserve bank's liability under subsec. (h) for certification of check when amount of deposit is inadequate, see section 501 of this title.
-
-Right to amend, separability of provisions, of act Mar. 9, 1933, see sections 212 of this title.
 
 #### Section Referred to in Other Sections
 

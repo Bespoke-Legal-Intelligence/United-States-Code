@@ -14,7 +14,7 @@ The Attorney General may, in his discretion, upon investigation fully establishi
 
 #### (d) Effect of cessation of hostilities
 
-An alien who is a native, citizen, subject, or denizen of any country, state, or sovereignty with which the United States is at war shall cease to be an alien enemy within the meaning of this section upon the determination by proclamation of the President, or by concurrent resolution of the Congress, that hostilities between the United States and such country, state, or sovereignty have ended.
+An alien who is a native, citizen, subject, or denizen of any country, state, or sovereigntywith which the United States is at war shall cease to be an alien enemy within the meaning of this section upon the determination by proclamation of the President, or by concurrent resolution of the Congress, that hostilities between the United States and such country, state, or sovereignty have ended.
 
 #### (e) Apprehension and removal
 
@@ -33,18 +33,6 @@ Pub. L. 101–649, §407(c)(13), substituted “application” for “petition�
 Subsec. (c). Pub. L. 101–649, §407(c)(13), substituted “an application” for “a petition” wherever appearing.
 
 Subsec. (d). Pub. L. 101–649, §407(e)(2), struck out at end “Notwithstanding the provisions of section 405(b) of this Act, this subsection shall also apply to the case of any such alien whose petition for naturalization was filed prior to the effective date of this chapter and which is still pending on that date.”
-
-#### Cross References
-
-Definition of the term—
-
-&emsp;&emsp;Alien, see section 1101(a)(3) of this title.
-
-&emsp;&emsp;Attorney General, see section 1101(a)(5) of this title.
-
-&emsp;&emsp;Naturalization, see section 1101(a)(23) of this title.
-
-&emsp;&emsp;United States, see section 1101(a)(38) of this title.
 
 #### Section Referred to in Other Sections
 

@@ -30,7 +30,7 @@
 
 (2) The Secretary concerned may not make an exchange under paragraph (1) unless the monetary value of property transferred, or services provided, to the United States under the exchange is not less than the value of the property transferred by the United States. The Secretary concerned may waive the limitation in the preceding sentence in the case of an exchange of property for property in any case in which the Secretary determines that the item to be received by the United States in the exchange will significantly enhance the historical collection of the property administered by the Secretary.
 
-(c) This section applies to the following types of property held by a military department or theCoast Guard: books, manuscripts, works of art, historical artifacts, drawings, plans, models, and condemned or obsolete combat materiel.
+(c) This section applies to the following types of property held by a military department or the Coast Guard: books, manuscripts, works of art, historical artifacts, drawings, plans, models, and condemned or obsolete combat materiel.
 
 (d)(1) A loan or gift made under this section shall be subject to regulations prescribed by the Secretary concerned and to regulations under section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486).
 
@@ -120,11 +120,7 @@ Veterans memorial object.—The term ‘veterans memorial object’ means any ob
 
 “(c)
 
-Period of Moratorium.—The moratorium period for the purposes of this section is the period beginningon the date of the enactment of this Act \[Oct. 5, 1999\] and ending on September 30, 2001.”
-
-#### Cross References
-
-Loan or gift of obsolete material and articles of historical interest by Secretary of the Navy, see section 7545 of this title.
+Period of Moratorium.—The moratorium period for the purposes of this section is the period beginning on the date of the enactment of this Act \[Oct. 5, 1999\] and ending on September 30, 2001.”
 
 #### Section Referred to in Other Sections
 

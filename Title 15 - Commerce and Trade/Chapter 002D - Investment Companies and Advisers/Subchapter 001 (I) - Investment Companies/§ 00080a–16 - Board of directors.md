@@ -8,7 +8,7 @@ Nothing herein shall, however, preclude a registered investment company from div
 
 #### (b) Term vacancies
 
-Any vacancy on the board of directors of a registered investment company which occurs in connection with compliance with section 80a–15(f)(1)(A) of this title and which must be filled by a person who is not an interested person of either party to a transaction subject to section 80a–15(f)(1)(A) of this title shall be filled only by a person (1) who has been selected and proposed for election by a majority of the directors of such company who are not such interested persons, and (2) who has been elected by the holders of the outstanding voting securities of such company, except that in the case of the death, disqualification, or bona fide resignation of a director selected and elected pursuant to clauses (1) and (2) of this subsection (b), the vacancy created thereby may be filled as provided in subsection (a) of this section.
+Any vacancy on the board of directors of a registered investment company which occurs in connection with compliance with section 80a–15(f)(1)(A) of this title and which must be filled by a person who is not an interested person of either party to a transaction subject to section 80a–15(f)(1)(A) of this title shall be filled only by a person (1) who has been selected and proposed for election by a majority of the directors of such company who are not such interested persons, and (2) who has been elected by the holders of the outstanding voting securities of such company, except that in the case of the death, disqualification, or bona fide resignation of a director selected and elected pursuant toclauses (1) and (2) of this subsection (b), the vacancy created thereby may be filled as provided in subsection (a) of this section.
 
 #### (c) Trustees of common-law trusts
 
@@ -39,18 +39,6 @@ Amendment by Pub. L. 94–29 effective June 4, 1975, see section 31(a) of Pub. L
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
-#### Cross References
-
-Certain affiliated persons and underwriters ineligible, see section 80a–9 of this title.
-
-Common law trusts, approval deemed vote of majority of outstanding voting securities, see section 80a–15 of this title.
-
-Ratification of employment of account for common-law trust, see section 80a–31 of this title.
-
-Shares of registered management company as nonvoting, see section 80a–18 of this title.
-
-Written approval deemed equivalent of a vote, see section 80a–13 of this title.
 
 #### Section Referred to in Other Sections
 

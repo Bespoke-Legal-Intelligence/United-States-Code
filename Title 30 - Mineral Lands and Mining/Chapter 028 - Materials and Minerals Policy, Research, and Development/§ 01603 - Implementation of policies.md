@@ -10,7 +10,7 @@ For the purpose of implementing the policies set forth in section 1602 of this t
 
 &emsp;&emsp;(B) enhanced methods or processes for the more efficient production and use of renewable and nonrenewable resources;
 
-&emsp;&emsp;(C) improved methods for the extraction, processing, use, recovery, and recycling of materials which encourage the conservation of materials, energy, and the environment; and
+&emsp;&emsp;(C) improved methods for the extraction, processing, use, recovery, and recycling ofmaterials which encourage the conservation of materials, energy, and the environment; and
 
 &emsp;&emsp;(D) improved understanding of current and new materials performance, processing, substitution, and adaptability in engineering designs;
 

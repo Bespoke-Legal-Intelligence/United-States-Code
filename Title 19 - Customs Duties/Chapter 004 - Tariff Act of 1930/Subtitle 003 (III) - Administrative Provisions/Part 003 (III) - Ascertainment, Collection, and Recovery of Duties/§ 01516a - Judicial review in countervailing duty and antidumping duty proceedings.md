@@ -86,7 +86,7 @@
 
 &emsp;&emsp;&emsp;(i) under subsection (g)(12)(B) of this section, the day after the date of publication in the Federal Register of notice that article 1904 of the NAFTA has been suspended, or
 
-&emsp;&emsp;&emsp;(ii) under subsection (g)(12)(D) of this section, the day after the date that notice of settlement is published in the Federal Register.
+&emsp;&emsp;&emsp;(ii) under subsection (g)(12)(D) of this section, the day after the date that noticeof settlement is published in the Federal Register.
 
 &emsp;&emsp;(E) For a determination described in clause (vii) of paragraph (2)(B), the 31st day after the date on which notice of the implementation of the determination is published in the Federal Register.
 
@@ -292,7 +292,7 @@ For purposes of this section—
 
 #### (ii) Subparagraph (B) actions
 
-&emsp;&emsp;&emsp;No claim shall be heard, and no temporary restraining order or temporary orpermanent injunction shall be issued, under an action commenced under subparagraph (B), unless the party seeking review first files an undertaking with adequate security in an amount to be fixed by the court sufficient to recompense parties affected for any loss, expense, or damage caused by the improvident or erroneous issuance of such order or injunction. If a court upholds the constitutionality of the determination in question in such action, the court shall award to a prevailing party fees and expenses, in addition to any costs incurred by that party, unless the court finds that the position of the other party was substantially justified or that special circumstances make an award unjust.
+&emsp;&emsp;&emsp;No claim shall be heard, and no temporary restraining order or temporary or permanent injunction shall be issued, under an action commenced under subparagraph (B), unless the party seeking review first files an undertaking with adequate security in an amount to be fixed by the court sufficient to recompense parties affected for any loss, expense, or damage caused by the improvident or erroneous issuance of such order or injunction. If a court upholds the constitutionality of the determination in question in such action, the court shall award to a prevailing party fees and expenses, in addition to any costs incurred by that party, unless the court finds that the position of the other party was substantially justified or that special circumstances make an award unjust.
 
 #### (G) Panel record
 
@@ -306,7 +306,7 @@ For purposes of this section—
 
 #### (A) Application
 
-&emsp;&emsp;In the case of a determination for which binational panel review is requested pursuant to article 1904 of the NAFTA or of the Agreement, the rules provided in this paragraph shall apply, notwithstanding the provisions of subsection (c) of this section.
+&emsp;&emsp;In the case of a determination for which binational panel review is requested pursuant to article 1904 of the NAFTA or of theAgreement, the rules provided in this paragraph shall apply, notwithstanding the provisions of subsection (c) of this section.
 
 #### (B) General rule
 
@@ -400,7 +400,7 @@ For purposes of this section—
 
 &emsp;&emsp;If the operation of article 1904 of the NAFTA is suspended in accordance with paragraph 8(a) or 9 of article 1905 of the NAFTA—
 
-&emsp;&emsp;&emsp;(i) upon the request of an authorized person described in subparagraph (C), any final determination that is the subject of a binational panel review or an extraordinary challenge committee review shall be transferred to the United States Court of International Trade (in accordance with rules issued by the Court) for review under subsection (a) of this section; or
+&emsp;&emsp;&emsp;(i) upon the request of an authorized person described in subparagraph (C), anyfinal determination that is the subject of a binational panel review or an extraordinary challenge committee review shall be transferred to the United States Court of International Trade (in accordance with rules issued by the Court) for review under subsection (a) of this section; or
 
 &emsp;&emsp;&emsp;(ii) in a case in which—
 
@@ -442,7 +442,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(III) an interested party that was a party to the proceeding in connection with which panel review was requested, but only if the time for filing notices of appearance in the panel review has not expired.
 
-(June 17, 1930, ch. 497, title IV, §516A, as added Pub. L. 96–39, title X, §1001(a), July 26, 1979, 93 Stat. 300; amended Pub. L. 96–417, title VI, §§601(7), 608, Oct. 10, 1980, 94 Stat. 1744, 1745; Pub. L. 96–542, §2, Dec. 17, 1980, 94 Stat. 3210; Pub. L. 97–164, title I, §163(a)(2), Apr. 2, 1982, 96 Stat. 49;Pub. L. 98–573, title VI, §623(a), Oct. 30, 1984, 98 Stat. 3040; Pub. L. 99–514, title XVIII, §1888(6), Oct. 22, 1986, 100 Stat. 2925; Pub. L. 100–449, title IV, §401, Sept. 28, 1988, 102 Stat. 1878; Pub. L. 101–382, title I, §134(a)(3), Aug. 20, 1990, 104 Stat. 649; Pub. L. 103–182, title IV, §411, Dec. 8, 1993, 107 Stat. 2140; Pub. L. 103–465, title I, §129(e), title II, §§220(b), 270(a)(1)(N), 271(b), Dec. 8, 1994, 108 Stat. 4838, 4864, 4917, 4921; Pub. L. 104–295, §§20(a)(1), 21(c)(3), 22, Oct. 11, 1996, 110 Stat. 3526, 3530, 3531.)
+(June 17, 1930, ch. 497, title IV, §516A, as added Pub. L. 96–39, title X, §1001(a), July 26, 1979, 93 Stat. 300; amended Pub. L. 96–417, title VI, §§601(7), 608, Oct. 10, 1980, 94 Stat. 1744, 1745; Pub. L. 96–542, §2, Dec. 17, 1980, 94 Stat. 3210; Pub. L. 97–164, title I, §163(a)(2), Apr. 2, 1982, 96 Stat. 49; Pub. L. 98–573, title VI, §623(a), Oct. 30, 1984, 98 Stat. 3040; Pub. L. 99–514, title XVIII, §1888(6), Oct. 22, 1986, 100 Stat. 2925; Pub. L. 100–449, title IV, §401, Sept. 28, 1988, 102 Stat. 1878; Pub. L. 101–382, title I, §134(a)(3), Aug. 20, 1990, 104 Stat. 649; Pub. L. 103–182, title IV, §411, Dec. 8, 1993, 107 Stat. 2140; Pub. L. 103–465, title I, §129(e), title II, §§220(b), 270(a)(1)(N), 271(b), Dec. 8, 1994, 108 Stat. 4838, 4864, 4917, 4921; Pub. L. 104–295, §§20(a)(1), 21(c)(3), 22, Oct. 11, 1996, 110 Stat. 3526, 3530, 3531.)
 
 #### References in Text
 
@@ -594,7 +594,7 @@ Amendment by Pub. L. 103–182 effective on the date the North American Free Tra
 
 #### Effective and Termination Dates of 1988 Amendment
 
-Amendment by Pub. L. 100–449 effective on date United States-Canada Free-Trade Agreement entersinto force (Jan. 1, 1989), and to cease to have effect on date Agreement ceases to be in force, see section 501(a), (c) of Pub. L. 100–449, set out in a note under section 2112 of this title.
+Amendment by Pub. L. 100–449 effective on date United States-Canada Free-Trade Agreement enters into force (Jan. 1, 1989), and to cease to have effect on date Agreement ceases to be in force, see section 501(a), (c) of Pub. L. 100–449, set out in a note under section 2112 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -624,7 +624,7 @@ Transitional Rules.—
 
 &emsp;“(1)
 
-Certain protests, petitions, actions, etc.—The amendments made by this title \[enacting this section and amending sections 1514, 1515, and 1516 of this title and sections 1541, 1582, 2632, 2633, and 2637 of Title 28, Judiciary and Judicial Procedure\] shall not apply with respect to—
+Certain protests, petitions, actions, etc.—The amendments made by this title \[enacting thissection and amending sections 1514, 1515, and 1516 of this title and sections 1541, 1582, 2632, 2633, and 2637 of Title 28, Judiciary and Judicial Procedure\] shall not apply with respect to—
 
 &emsp;&emsp;“(A) any protest, petition, or notice of desire to contest filed before the effective date \[Jan. 1, 1980\] under section 514, 516(a), or 516(d), respectively, of the Tariff Act of 1930 \[section 1514, 1516(a), or 1516(d) of this title\];
 

@@ -98,7 +98,7 @@ Section effective July 1, 1949, see section 605 of act June 30, 1949, set out as
 
 #### Small Business Act
 
-Amendment to this section by section 2711(a)(3) of Pub. L. 98–369 not to affect or supersede the provisions of section 637(a) of Title 15, Commerce and Trade, see section 2711(c) of Pub. L. 98–369, set out as a note under section 253 of this title.
+Amendment to this section by section 2711(a)(3) of Pub. L. 98–369 not to affect or supersede the provisionsof section 637(a) of Title 15, Commerce and Trade, see section 2711(c) of Pub. L. 98–369, set out as a note under section 253 of this title.
 
 #### Definitions
 

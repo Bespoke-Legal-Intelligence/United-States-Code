@@ -20,7 +20,7 @@ The Administrator shall—
 
 &emsp;&emsp;(B) to establish the methods by which the requirement to file written statements specified in subsection (a) of this section will be monitored and enforced, including appropriate provision for the filing by such officers and employees of such statements and the review by the Administrator of such statements; and
 
-&emsp;(2) report to the Congress on June 1 of each calendar year with respect to such disclosures and the actions taken in regard thereto during the preceding calendar year.
+&emsp;(2) Omitted.
 
 #### (c) Exemption of positions by Administrator
 
@@ -37,6 +37,8 @@ Any officer or employee who is subject to, and knowingly violates, this section,
 This Act, referred to in subsec. (a)(1), (2), is Pub. L. 95–155, Nov. 8, 1977, 91 Stat. 1257, as amended, known as the Environmental Research, Development, and Demonstration Authorization Act of 1978, which to the extent classified to the Code enacted sections 300j–3a, 4361a, 4361b, and 4363 to 4367 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
+
+Subsec. (b)(2) of this section, which required the Administrator to report to Congress on June 1 of each calendar year with respect to such disclosures and the actions taken in regard thereto during the preceding calendar year, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, item 9 on page 164 of House Document No. 103–7.
 
 Section was enacted as part of the Environmental Research, Development, and Demonstration Authorization Act of 1978, and not as part of the National Environmental Policy Act of 1969 which comprises this chapter.
 

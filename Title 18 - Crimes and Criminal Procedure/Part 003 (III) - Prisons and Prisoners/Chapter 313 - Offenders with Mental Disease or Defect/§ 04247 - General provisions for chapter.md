@@ -20,7 +20,7 @@ Definitions.—As used in this chapter—
 
 (b)
 
-Psychiatric or Psychological Examination.—A psychiatric or psychological examination ordered pursuant to this chapter shall be conducted by a licensed or certified psychiatrist or psychologist, or, if the court finds it appropriate, by more than one such examiner. Each examiner shall be designated by the court, except that if the examination is ordered under section 4245 or 4246, upon the request of the defendant an additional examiner may be selected by the defendant. For the purposes of an examination pursuant to an order under section 4241, 4244, or 4245, the court may commit the person to be examined for a reasonable period, but not to exceed thirty days, and under section 4242, 4243, or 4246, for a reasonable period, but not to exceed forty-five days, to the custody of the Attorney General for placement in a suitable facility. Unless impracticable, the psychiatric or psychological examination shall be conducted in the suitable facility closest to the court. The director of the facility may apply for a reasonable extension, but not to exceed fifteen days undersection 4241, 4244, or 4245, and not to exceed thirty days under section 4242, 4243, or 4246, upon a showing of good cause that the additional time is necessary to observe and evaluate the defendant.
+Psychiatric or Psychological Examination.—A psychiatric or psychological examination ordered pursuant to this chapter shall be conducted by a licensed or certified psychiatrist or psychologist, or, if the court finds it appropriate, by more than one such examiner. Each examiner shall be designated by the court, except that if the examination is ordered under section 4245 or 4246, upon the request of the defendant an additional examiner may be selected by the defendant. For the purposes of an examination pursuant to an order under section 4241, 4244, or 4245, the court may commit the person to be examined for a reasonable period, but not to exceed thirty days, and under section 4242, 4243, or 4246, for a reasonable period, but not to exceed forty-five days, to the custody of the Attorney General for placement in a suitable facility. Unless impracticable, the psychiatric or psychological examination shall be conducted in the suitable facility closest to the court. The director of the facility may apply for a reasonable extension, but not to exceed fifteen days under section 4241, 4244, or 4245, and not to exceed thirty days under section 4242, 4243, or 4246, upon a showing of good cause that the additional time is necessary to observe and evaluate the defendant.
 
 (c)
 
@@ -82,7 +82,7 @@ Authority and Responsibility of the Attorney General.—The Attorney General—
 
 &emsp;(D) shall consult with the Secretary of the Department of Health and Human Services in the general implementation of the provisions of this chapter and in the establishment of standards for facilities used in the implementation of this chapter.
 
-(j) Sections 4241, 4242, 4243, and 4244 do not apply to a prosecution under an Act of Congressapplicable exclusively to the District of Columbia or the Uniform Code of Military Justice.
+(j) Sections 4241, 4242, 4243, and 4244 do not apply to a prosecution under an Act of Congress applicable exclusively to the District of Columbia or the Uniform Code of Military Justice.
 
 (Added Sept. 7, 1949, ch. 535, §1, 63 Stat. 687; amended Pub. L. 98–473, title II, §403(a), Oct. 12, 1984, 98 Stat. 2065; Pub. L. 100–690, title VII, §§7044, 7047(a), Nov. 18, 1988, 102 Stat. 4400, 4401; Pub. L. 103–322, title XXXIII, §330003(d), Sept. 13, 1994, 108 Stat. 2141; Pub. L. 105–33, title XI, §11204(2), (3), Aug. 5, 1997, 111 Stat. 739.)
 
@@ -109,10 +109,6 @@ Subsec. (e)(1)(B). Pub. L. 100–690, §7044, inserted at end “A copy of each 
 #### Effective Date of 1997 Amendment
 
 Amendment by Pub. L. 105–33 effective Oct. 1, 1997, except as otherwise provided in title XI of Pub. L. 105–33, see section 11721 of Pub. L. 105–33, set out as a note under section 4246 of this title.
-
-#### Cross References
-
-For application of this chapter to persons subject to chapter 47 of Title 10, Armed Forces, see section 876b of Title 10.
 
 #### Section Referred to in Other Sections
 

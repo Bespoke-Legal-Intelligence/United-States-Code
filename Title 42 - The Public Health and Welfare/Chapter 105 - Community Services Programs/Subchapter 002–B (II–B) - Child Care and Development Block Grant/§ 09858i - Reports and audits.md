@@ -70,7 +70,7 @@
 
 &emsp;&emsp;(B) the monthly cost of child care services, and the portion of such cost that is paid for with assistance provided under this subchapter, listed by the type of child care services provided;
 
-&emsp;&emsp;(C) the number of payments made by the State through vouchers, contracts, cash, and disregards under public benefit programs, listed by the type of child care services provided;
+&emsp;&emsp;(C) the number of payments made by the State through vouchers, contracts, cash, anddisregards under public benefit programs, listed by the type of child care services provided;
 
 &emsp;&emsp;(D) the manner in which consumer education information was provided to parents and the number of parents to whom such information was provided; and
 

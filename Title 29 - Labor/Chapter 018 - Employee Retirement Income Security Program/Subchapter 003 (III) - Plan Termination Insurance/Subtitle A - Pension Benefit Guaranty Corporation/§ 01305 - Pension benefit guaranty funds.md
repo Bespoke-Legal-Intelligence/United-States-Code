@@ -34,7 +34,7 @@ There are established on the books of the Treasury of the United States for revo
 
 &emsp;(E) to pay to participants and beneficiaries the estimated amount of benefits which are guaranteed by the corporation under this subchapter and the estimated amount of other benefits to which plan assets are allocated under section 1344 of this title, under single-employer plans which are unable to pay benefits when due or which are abandoned.
 
-(3) Whenever the corporation determines that the moneys of any fund are in excess of current needs, it may request the investment of such amounts as it determines advisable by the Secretary of the Treasury in obligations issued or guaranteed by the United States but, until all borrowings under subsection (c) of this section have been repaid, the obligations in which suchexcess moneys are invested may not yield a rate of return in excess of the rate of interest payable on such borrowings.
+(3) Whenever the corporation determines that the moneys of any fund are in excess of current needs, it may request the investment of such amounts as it determines advisable by the Secretary of the Treasury in obligations issued or guaranteed by the United States but, until all borrowings under subsection (c) of this section have been repaid, the obligations in which such excess moneys are invested may not yield a rate of return in excess of the rate of interest payable on such borrowings.
 
 #### (c) Authority to issue notes or other obligations; purchase by Secretary of the Treasury as public debt transaction
 

@@ -22,7 +22,7 @@ The term of office of each member of the Council appointed under subsection (a)(
 
 &emsp;(1) of the members first appointed under such paragraph, four shall serve for a term of one year, four shall serve for a term of two years, and four shall serve for a term of three years, as determined by the Secretary of Defense and the Secretary of Education at the time of their appointment, and
 
-&emsp;(2) any member appointed to fill a vacancy occurring before the expiration of the term forwhich his predecessor was appointed shall be appointed for the remainder of such term.
+&emsp;(2) any member appointed to fill a vacancy occurring before the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term.
 
 > No member appointed under subsection (a)(2) of this section shall serve more than two full terms on the Council.
 

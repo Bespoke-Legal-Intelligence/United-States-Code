@@ -8,6 +8,9 @@
 | [77b.](Subchapter%20001%20%28I%29%20-%20Domestic%20Securities/%C2%A7%2000077b%20-%20Definitions%3B%20promotion%20of%20efficiency%2C%20competition%2C%20and%20capital%20formation.md) | Definitions; promotion of efficiency, competition, and capital formation. |
 | (a) | Definitions. |
 | (b) | Consideration of promotion of efficiency, competition, and capital formation. |
+| 77b–1. | Swap agreements. |
+| (a) | Non-security-based swap agreements. |
+| (b) | Security-based swap agreements. |
 | [77c.](Subchapter%20001%20%28I%29%20-%20Domestic%20Securities/%C2%A7%2000077c%20-%20Classes%20of%20securities%20under%20this%20subchapter.md) | Classes of securities under this subchapter. |
 | (a) | Exempted securities. |
 | (b) | Additional exemptions. |
@@ -69,6 +72,7 @@
 | (a) | Use of interstate commerce for purpose of fraud or deceit. |
 | (b) | Use of interstate commerce for purpose of offering for sale. |
 | (c) | Exemptions of section 77c not applicable to this section. |
+| (d) | Authority with respect to security-based swap agreements. |
 | [77r.](Subchapter%20001%20%28I%29%20-%20Domestic%20Securities/%C2%A7%2000077r%20-%20Exemption%20from%20State%20regulation%20of%20securities%20offerings.md) | Exemption from State regulation of securities offerings. |
 | (a) | Scope of exemption. |
 | (b) | Covered securities. |

@@ -19,14 +19,6 @@
 
 1985—Pub. L. 99–145, title XIII, §1301(c)(3)(C), Nov. 8, 1985, 99 Stat. 736, inserted “the” before “naval service” and “and widowers” after “widows” in item 7601.
 
-#### Cross References
-
-General military law—
-
-&emsp;&emsp;Commissary stores, private operation, see section 2482 of this title.
-
-&emsp;&emsp;Property records: basis, reports, see section 2721 of this title.
-
 
 ---
 

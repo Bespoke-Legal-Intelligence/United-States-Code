@@ -96,7 +96,7 @@ A center that provides or manages residential housing after October 1, 1994, sha
 
 #### (1) In general
 
-&emsp;The director of the designated State unit shall periodically review each center receiving funds under this section to determine whether such center is in compliance with the standards and assurances set forth in section 796f–4of this title. If the director of the designated State unit determines that any center receiving funds under this section is not in compliance with the standards and assurances set forth in section 796f–4 of this title, the director of the designated State unit shall immediately notify such center that it is out of compliance.
+&emsp;The director of the designated State unit shall periodically review each center receiving funds under this section to determine whether such center is in compliance with the standards and assurances set forth in section 796f–4 of this title. If the director of the designated State unit determines that any center receiving funds under this section is not in compliance with the standards and assurances set forth in section 796f–4 of this title, the director of the designated State unit shall immediately notify such center that it is out of compliance.
 
 #### (2) Enforcement
 

@@ -40,10 +40,6 @@ The provisions of this section shall in no way derogate from authority for conde
 
 1989—Subsec. (a). Pub. L. 101–205 designated first sentence as par. (1) and redesignated cls. (1) to (3) as cls. (A) to (C), respectively, designated second sentence aspar. (2) and inserted “(A) be distributed in accordance with paragraph (5), or (B)” after “entry of the decree,”, designated third and fourth sentences as pars. (3) and (4), respectively, and added par. (5).
 
-#### Federal Rules of Civil Procedure
-
-Admiralty and maritime rules of practice (which included libel procedures) were superseded, and civil and admiralty procedures in United States district courts were unified, effective July 1, 1966, see rule 1 and Supplemental Rules for Certain Admiralty and Maritime Claims, Title 28, Appendix, Judiciary and Judicial Procedure.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 454, 467a of this title.

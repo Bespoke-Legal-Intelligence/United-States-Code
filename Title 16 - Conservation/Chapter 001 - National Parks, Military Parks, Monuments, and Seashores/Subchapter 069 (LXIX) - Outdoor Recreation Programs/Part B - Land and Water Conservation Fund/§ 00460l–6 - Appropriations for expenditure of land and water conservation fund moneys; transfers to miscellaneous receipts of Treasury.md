@@ -10,5 +10,5 @@ Moneys covered into the fund shall be available for expenditure for the purposes
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 460<i>l</i>–5, 460<i>l</i>–10a, 460<i>l</i>–10b of this title.
+This section is referred to in sections 460<i>l</i>–5, 460<i>l</i>–10a, 460<i>l</i>–10b of this title; title 43 section 2305.
 

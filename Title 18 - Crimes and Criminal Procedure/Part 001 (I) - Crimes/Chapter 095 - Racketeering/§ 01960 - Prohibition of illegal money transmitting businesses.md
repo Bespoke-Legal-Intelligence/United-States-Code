@@ -28,5 +28,5 @@
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 982, 984, 986, 1956 of this title; title 12 sections 1786, 1818; title 31 section 5328.
+This section is referred to in sections 982, 986, 1956 of this title; title 12 sections 1786, 1818; title 31 section 5328.
 

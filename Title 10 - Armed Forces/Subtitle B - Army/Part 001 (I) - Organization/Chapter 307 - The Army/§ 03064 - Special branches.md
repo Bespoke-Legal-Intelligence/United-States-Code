@@ -54,9 +54,3 @@ Subsecs. (b), (c). Pub. L. 96–513, §231(2), (3), added subsec. (b) and redesi
 
 Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to prescribe regulations under the amendment by Pub. L. 96–513 effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under section 101 of this title.
 
-#### Cross References
-
-Chief of Chaplains: appointment; duties, see section 3036 of this title.
-
-Judge Advocate General, Assistant Judge Advocate General, and general officers of Judge Advocate General's Corps: appointment; duties, see section 3037 of this title.
-

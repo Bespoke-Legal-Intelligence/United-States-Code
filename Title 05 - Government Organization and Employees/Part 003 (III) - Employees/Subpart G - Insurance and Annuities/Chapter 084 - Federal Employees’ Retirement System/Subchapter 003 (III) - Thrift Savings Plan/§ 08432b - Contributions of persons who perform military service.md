@@ -70,9 +70,9 @@
 
 (Added Pub. L. 103–353, §4(a)(1), Oct. 13, 1994, 108 Stat. 3170; amended Pub. L. 106–65, div. A, title VI, §661(a)(3)(A), (C), Oct. 5, 1999, 113 Stat. 671.)
 
-#### Contingent Amendment of Subsections (b)(2)(B) and (c)
+#### Amendment of Subsections (b)(2)(B) and (c)
 
-<i>Pub. L. 106–65, div. A, title VI, §§661(a)(3)(A), (C), 663, Oct. 5, 1999, 113 Stat. 671, 673, provided that effective only if the President proposes in the 2001 fiscal year budget and there is enacted in the second session of the One Hundred Sixth Congress qualifying offsetting legislation, this section is amended as follows:</i>
+<i>Pub. L. 106–65, div. A, title VI, §§661(a)(3)(A), (C), 663, Oct. 5, 1999, 113 Stat. 671, 673, as amended by Pub. L. 106–398, §1 \[\[div. A\], title VI, §661(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–167, provided that effective 180 days after Oct. 30, 2000, unless postponed, this section is amended as follows:</i>
 
 <i>(1) in subsection (b)(2)(B) by inserting “or 8440e” after “section 8432(a); and</i>
 
@@ -90,7 +90,7 @@ Section 8433(h), referred to in subsec. (h)(2)(A), was redesignated section 8433
 
 #### Effective Date of 1999 Amendment
 
-Amendment by Pub. L. 106–65 effective only if the President proposes in the 2001 fiscal year budget and there is enacted in the second session of the One Hundred Sixth Congress qualifying offsetting legislation, see section 663 of Pub. L. 106–65, set out as an Effective Date note under section 8440e of this title.
+Amendment by Pub. L. 106–65 effective 180 days after Oct. 30, 2000, unless postponed, see section 663 of Pub. L. 106–65, as amended, set out as an Effective Date note under section 8440e of this title.
 
 #### Effective Date
 
@@ -106,7 +106,7 @@ Effective Date; Applicability.—This section \[enacting this section and amendi
 
 “(f)
 
-Rules for Applying Amendments to Employees Restored or Reemployed Before Effective Date.—In the case of any employee (described in subsection (e)(2)) who is reemployed or restored (in the circumstances described in section 8432b(a) of title 5, United States Code, as amended by this section) before the date of enactment of this Act \[Oct. 13, 1994\], the amendments made by this section \[enacting this section and amending sections 8351, 8432, and 8433 of this title\] shall apply to such employee, in accordance with their terms, subject to the following:
+Rules for Applying Amendments to Employees Restored or Reemployed Before Effective Date.—In the case of any employee (described in subsection (e)(2)) who is reemployed or restored (in the circumstances described in section 8432b(a) of title 5, United States Code, as amended by this section) before the date of enactment of this Act \[Oct. 13, 1994\], the amendments made by this section \[enacting this section and amending sections 8351, 8432, and 8433 of this title\] shall applyto such employee, in accordance with their terms, subject to the following:
 
 &emsp;“(1) The employee shall be deemed not to have been reemployed or restored until—
 

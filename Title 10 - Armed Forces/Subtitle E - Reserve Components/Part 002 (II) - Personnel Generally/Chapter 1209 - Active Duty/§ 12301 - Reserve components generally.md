@@ -108,7 +108,7 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 1994—Pub. L. 103–337, §1662(e)(2), renumbered section 672 of this title as this section.
 
-Subsec. (b). Pub. L. 103–337, §1675(c)(1)(A), substituted “(or, in the case of the District of Columbia National Guard, the commanding general of the District of Columbia National Guard)” for “or Territory or Puerto Rico or the commanding general of the District of Columbia National Guard, as the case may be”.
+Subsec. (b). Pub. L. 103–337, §1675(c)(1)(A), substituted “(or, in the case of the District of Columbia NationalGuard, the commanding general of the District of Columbia National Guard)” for “or Territory or Puerto Rico or the commanding general of the District of Columbia National Guard, as the case may be”.
 
 Subsec. (d). Pub. L. 103–337, §1675(c)(1)(B), struck out “or Territory, Puerto Rico, or the District of Columbia, whichever is” after “authority of the State”.
 
@@ -143,12 +143,6 @@ Amendment by section 33(a)(5) of Pub. L. 85–861 effective Aug. 10, 1956, see s
 #### Rule of Construction for Duplicate Authorization and Appropriation Provisions of Public Laws 99–500, 99–591, and 99–661
 
 For rule of construction for certain duplicate provisions of Public Laws 99–500, 99–591, and 99–661, see Pub. L. 100–26, §6, Apr. 21, 1987, 101 Stat. 274, set out as a note under section 2302 of this title.
-
-#### Cross References
-
-Ready Reserve, composition and authorized strength of, see section 10142 of this title.
-
-Standby Reserve, composition of, see section 10151 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -36,7 +36,7 @@ Subject to the availability of funds appropriated under the authority of subsect
 
 &emsp;(F) the obligated service of a scholarship recipient shall not be performed by the recipient through membership in the National Health Service Corps; and
 
-&emsp;(G) the requirements of sections 254d through 254k of this title, section 254m of thistitle, other than subsection (b)(5) of that section, and section 254n of this title applicable to scholarship assistance provided under section 254<i>l</i> of this title shall not apply to the scholarship assistance provided under subsection (a) of this section.
+&emsp;(G) the requirements of sections 254d through 254k of this title, section 254m of this title, other than subsection (b)(5) of that section, and section 254n of this title applicable to scholarship assistance provided under section 254<i>l</i> of this title shall not apply to the scholarship assistance provided under subsection (a) of this section.
 
 (2) The Native Hawaiian Health Scholarship program shall not be administered by or through the Indian Health Service.
 

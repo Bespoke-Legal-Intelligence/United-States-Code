@@ -72,7 +72,7 @@ Par. (2)(b). Pub. L. 87–772 substituted “publisher” for “published”.
 
 #### Effective Date of 1999 Amendment
 
-Amendment by Pub. L. 106–113 applicable to all domain names registered before, on, or after Nov. 29, 1999, see section 1000(a)(9) \[title III, §3010\] of Pub. L. 106–113, set out as a note under section 1117 of this title.
+Amendment by Pub. L. 106–113 applicable to all domain names registered before, on, or after Nov. 29, 1999,see section 1000(a)(9) \[title III, §3010\] of Pub. L. 106–113, set out as a note under section 1117 of this title.
 
 #### Effective Date of 1998 Amendment
 
@@ -89,10 +89,6 @@ Amendment by Pub. L. 100–667 effective one year after Nov. 16, 1988, see secti
 #### Repeal and Effect on Existing Rights
 
 Repeal of inconsistent provisions, effect of this chapter on pending proceedings and existing registrations and rights under prior acts, see notes set out under section 1051 of this title.
-
-#### Cross References
-
-Defenses to action for infringement, see section 1115 of this title.
 
 #### Section Referred to in Other Sections
 

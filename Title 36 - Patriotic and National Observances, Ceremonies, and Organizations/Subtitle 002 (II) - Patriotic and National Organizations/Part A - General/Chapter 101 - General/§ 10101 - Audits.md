@@ -104,7 +104,159 @@ In subsection (a), before clause (1), the words “Except as otherwise provided�
 
 In subsection (b)(1)(B), the words “supplemented . . . by” and “carried on by the corporation” are omitted as unnecessary.
 
+#### Termination of Reporting Requirements
+
+With respect to corporations listed below, for termination, effective May 15, 2000, of reporting provisions in subsec. (b)(1) of this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and pages 196 through 208 of House Document No. 103–7.
+
+Agricultural Hall of Fame
+
+American Chemical Society
+
+American Council of Learned Societies
+
+American Ex-Prisoners of War
+
+American Gold Star Mothers, Incorporated
+
+American Historical Association
+
+The American Legion
+
+The American National Theater and Academy
+
+The American Society of International Law
+
+American Symphony Orchestra League
+
+American War Mothers
+
+AMVETS (American Veterans of World War II, Korea, and Vietnam)
+
+Army and Navy Union of the United States of America
+
+Aviation Hall of Fame
+
+Big Brothers-Big Sisters of America
+
+Blinded Veterans Association
+
+Blue Star Mothers of America, Inc.
+
+Board For Fundamental Education
+
+Boy Scouts of America
+
+Boys \& Girls Clubs of America
+
+Catholic War Veterans of the United States of America, Incorporated
+
+Civil Air Patrol
+
+Congressional Medal of Honor Society of the United States of America
+
+Daughters of Union Veterans of the Civil War 1861–1865
+
+Disabled American Veterans
+
+Former Members of Congress
+
+The Foundation of the Federal Bar Association
+
+Future Farmers of America
+
+General Federation of Women's Clubs
+
+Girl Scouts of the United States of America
+
+Gold Star Wives of America
+
+Italian American War Veterans of the United States
+
+Jewish War Veterans of the United States of America, Incorporated
+
+Jewish War Veterans, U.S.A., National Memorial, Incorporated
+
+Ladies of the Grand Army of the Republic
+
+Legion of Valor of the United States of America, Incorporated
+
+Little League Baseball, Incorporated
+
+Marine Corps League
+
+The Military Chaplains Association of the United States of America
+
+Military Order of the Purple Heart of the United States of America, Incorporated
+
+National Academy of Public Administration
+
+National Academy of Sciences
+
+National Conference of State Societies, Washington, District of Columbia
+
+National Conference on Citizenship
+
+National Council on Radiation Protection and Measurements
+
+National Federation of Music Clubs
+
+National Fund for Medical Education
+
+National Mining Hall of Fame and Museum
+
+National Music Council
+
+National Safety Council
+
+National Ski Patrol System, Incorporated
+
+National Society, Daughters of the American Colonists
+
+The National Society of the Daughters of the American Revolution
+
+National Society of the Sons of the American Revolution
+
+National Tropical Botanical Garden
+
+National Woman's Relief Corps, Auxiliary to the Grand Army of the Republic
+
+The National Yoemen F
+
+Naval Sea Cadet Corps
+
+Navy Club of the United States of America
+
+Navy Wives Clubs of America
+
+Non Commissioned Officers Association of the United States of America, Incorporated
+
+Paralyzed Veterans of America
+
+Pearl Harbor Survivors Association
+
+Polish Legion of American Veterans, U.S.A.
+
+Reserve Officers Association of the United States
+
+Sons of Union Veterans of the Civil War
+
+369th Veterans’ Association
+
+United Service Organizations, Incorporated
+
+United States Capitol Historical Society
+
+United States Submarine Veterans of World War II
+
+Veterans of Foreign Wars of the United States
+
+Veterans of World War I of the United States of America, Incorporated
+
+Vietnam Veterans of America, Inc.
+
+Women's Army Corps Veterans’ Association
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 20212, 20307, 20712, 20913, 21012, 21112, 21507, 22912, 23109, 40112, 40707, 50112, 60112, 70112, 70312, 70708, 100112, 110112, 130510, 140712, 150113, 150909, 151108, 151512, 152112, 152913, 153510, 154512, 154713, 170313, 170512, 190313, 200106, 210107, 210313, 220314, 220712, 230513, 240112 of this title; title 16 sections 583j–5, 3706, 5807; title 20 section 5509.
+This section is referred to in sections 20212, 20307, 20712, 20913, 21012, 21112, 21507, 22912, 23109, 40112, 40707,50112, 60112, 70112, 70312, 70708, 100112, 110112, 130510, 140712, 150113, 150909, 151108, 151512, 152112, 152913, 153510, 154512, 154713, 170313, 170512, 190313, 200106, 210107, 210313, 220314, 220712, 230513, 240112 of this title; title 16 sections 583j–5, 3706, 5807; title 20 section 5509; title 25 section 458bbb.
 

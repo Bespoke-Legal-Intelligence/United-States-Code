@@ -1,5 +1,5 @@
 
-3 U.S.C.<br>United States Code, 1999 Edition<br>Title 3 - THE PRESIDENT<br>From the U.S. Government Publishing Office, www.gpo.gov
+3 U.S.C.<br>United States Code, 2000 Edition<br>Title 3 - THE PRESIDENT<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 3—THE PRESIDENT
 
@@ -382,7 +382,7 @@ R.S. §1833
 
 52
 
-RS. §1834
+R.S. §1834
 
 109
 

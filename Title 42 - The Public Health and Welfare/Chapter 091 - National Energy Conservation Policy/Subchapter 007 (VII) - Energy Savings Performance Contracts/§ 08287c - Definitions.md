@@ -10,7 +10,7 @@ For purposes of this subchapter, the following definitions apply:
 
 &emsp;&emsp;(B) the increased efficient use of existing energy sources by cogeneration or heat recovery, excluding any cogeneration process for other than a federally owned building or buildings or other federally owned facilities.
 
-&emsp;(3) The terms “energy savings contract” and “energy savings performance contract” mean a contract which provides for the performance of services for the design, acquisition, installation, testing, operation, and, where appropriate, maintenance and repair, of an identified energy conservation measure or series of measures at one or more locations. Such contracts—
+&emsp;(3) The terms “energy savings contract” and “energy savings performance contract” meana contract which provides for the performance of services for the design, acquisition, installation, testing, operation, and, where appropriate, maintenance and repair, of an identified energy conservation measure or series of measures at one or more locations. Such contracts—
 
 &emsp;&emsp;(A) may provide for appropriate software licensing agreements; and
 

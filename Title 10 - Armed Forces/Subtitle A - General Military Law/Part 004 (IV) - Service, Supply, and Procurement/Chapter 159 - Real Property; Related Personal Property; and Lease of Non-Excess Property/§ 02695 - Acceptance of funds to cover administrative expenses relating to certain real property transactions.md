@@ -26,3 +26,7 @@ Use of Amounts Collected.—Amounts collected under subsection (a) for administr
 
 1999—Subsec. (b). Pub. L. 106–65 inserted “involving real property under the control of the Secretary of a military department” after “transactions” in introductory provisions and added par. (4).
 
+#### Administrative Costs of Land Conveyances
+
+Pub. L. 106–541, title II, §226, Dec. 11, 2000, 114 Stat. 2598, provided that: “Notwithstanding any other provision of law, the administrative costs associated with the conveyance of property by the Secretary to a non-Federal governmental or nonprofit entity shall be limited to the extent that the Secretary determines that such limitation is necessary to complete the conveyance based on the entity's ability to pay.”
+

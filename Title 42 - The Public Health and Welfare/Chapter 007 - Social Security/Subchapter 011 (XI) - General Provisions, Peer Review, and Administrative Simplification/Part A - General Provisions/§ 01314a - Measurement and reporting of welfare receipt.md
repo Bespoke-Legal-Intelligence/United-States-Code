@@ -86,7 +86,7 @@ The Secretary of Health and Human Services (in this section referred to as the �
 
 #### (2) Coverage
 
-&emsp;The report shall include analysis of families and individuals receiving assistance under means-tested benefit programs, including the program of aid to families with dependent children under part A of subchapter IV of this chapter, the food stamp program under the Food Stamp Act of 1977 (7 U.S.C. 2011 et seq.), and the Supplemental Security Income program under subchapter XVI of this chapter, or as general assistance under programs administered by State and local governments.
+&emsp;The report shall include analysis of families and individuals receiving assistance undermeans-tested benefit programs, including the program of aid to families with dependent children under part A of subchapter IV of this chapter, the food stamp program under the Food Stamp Act of 1977 (7 U.S.C. 2011 et seq.), and the Supplemental Security Income program under subchapter XVI of this chapter, or as general assistance under programs administered by State and local governments.
 
 #### (3) Contents
 
@@ -143,4 +143,6 @@ Subsec. (d)(4). Pub. L. 105–200, §410(h)(2), substituted “subsection (b)(3)
 #### Change of Name
 
 Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
+
+Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 

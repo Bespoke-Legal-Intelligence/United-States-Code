@@ -36,13 +36,13 @@ The Contract Disputes Act of 1978, referred to in subsec. (a), is Pub. L. 95–5
 
 #### Amendments
 
-1978—Subsec. (a). Pub. L. 95–563 inserted Contract Disputes Act of 1978 exception.
+<b>1978</b>—Subsec. (a). Pub. L. 95–563 inserted Contract Disputes Act of 1978 exception.
 
-1966—Subsec. (b). Pub. L. 89–506 struck out provisions dealing with a tort claim of $2,500 or under as a special category of tort claim requiring preliminary administrative action and substituted provisions requiring presentation of all tort claims to the appropriate Federal agency in writing within two years after the claim accrues and commencement of an action within six months of the date of mailing of notice of final denial of the claim by the agency to which it was presented for provisions requiring commencement of an action within two years after the claim accrues.
+<b>1966</b>—Subsec. (b). Pub. L. 89–506 struck out provisions dealing with a tort claim of $2,500 or under as a special category of tort claim requiring preliminary administrative action and substituted provisions requiring presentation of all tort claims to the appropriate Federal agency in writing within two years after the claim accrues and commencement of an action within six months of the date of mailing of notice of final denial of the claim by the agency to which it was presented for provisions requiring commencement of an action within two years after the claim accrues.
 
-1959—Subsec. (b). Pub. L. 86–238 substituted “$2,500” for “$1,000” in two places.
+<b>1959</b>—Subsec. (b). Pub. L. 86–238 substituted “$2,500” for “$1,000” in two places.
 
-1949—Subsec. (b). Act Apr. 25, 1949, the time limitation on bringing tort actions from 1 year to 2 years.
+<b>1949</b>—Subsec. (b). Act Apr. 25, 1949, the time limitation on bringing tort actions from 1 year to 2 years.
 
 #### Effective Date of 1978 Amendment
 

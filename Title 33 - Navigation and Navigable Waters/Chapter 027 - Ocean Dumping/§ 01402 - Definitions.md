@@ -60,11 +60,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of Pub. L. 96–70, title II, Sept. 27, 1979, 93 Stat. 493, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
 
-#### Territorial Sea of United States
+#### Territorial Sea and Contiguous Zone of United States
 
-For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
-
-#### Contiguous Zone of United States
-
-For extension of contiguous zone of United States, see Proc. No. 7219, Sept. 2, 1999, 64 F.R. 48701, set out as a note under section 1331 of Title 43, Public Lands.
+For extension of territorial sea and contiguous zone of United States, see Proc. No. 5928 and Proc. No. 7219, respectively, set out as notes under section 1331 of Title 43, Public Lands.
 

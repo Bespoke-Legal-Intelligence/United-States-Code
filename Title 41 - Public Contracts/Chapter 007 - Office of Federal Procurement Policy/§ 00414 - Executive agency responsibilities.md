@@ -22,5 +22,5 @@ To further achieve effective, efficient, and economic administration of the Fede
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 252c, 253, 418, 421 of this title; title 10 sections 133, 2302c, 2304, 2435; title 15 section 637; title 49 section 40110; title 50 section 2402.
+This section is referred to in sections 252c, 253, 418, 421 of this title; title 10 sections 133, 2225, 2302c, 2304, 2435; title 15 section 637; title 49 section 40110; title 50 section 2402.
 

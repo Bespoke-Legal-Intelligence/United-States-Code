@@ -12,12 +12,6 @@ Section is from act Mar. 3, 1899, popularly known as the “Rivers and Harbors A
 
 1986—Pub. L. 99–662 substituted “or to sink” for “or to voluntarily or carelessly sink”, struck out “accidentally or otherwise,” after “navigable channel,”, and inserted “, lessee, or operator” after “owner” in three places.
 
-#### Cross References
-
-Marking of obstructions, see section 86 of Title 14, Coast Guard.
-
-Sunken craft, see section 86 of Title 14.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 410, 411, 412, 413, 418 of this title.

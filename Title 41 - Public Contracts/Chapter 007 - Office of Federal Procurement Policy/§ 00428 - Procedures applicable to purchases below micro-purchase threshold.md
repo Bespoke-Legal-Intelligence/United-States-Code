@@ -12,7 +12,7 @@ A purchase by an executive agency with an anticipated value of the micro-purchas
 
 #### (c) Purchases without competitive quotations
 
-A purchase not greater than $2,500 may be made without obtaining competitive quotationsif an employee of an executive agency or a member of the Armed Forces of the United States authorized to do so determines that the price for the purchase is reasonable.
+A purchase not greater than $2,500 may be made without obtaining competitive quotations if an employee of an executive agency or a member of the Armed Forces of the United States authorized to do so determines that the price for the purchase is reasonable.
 
 #### (d) Equitable distribution
 

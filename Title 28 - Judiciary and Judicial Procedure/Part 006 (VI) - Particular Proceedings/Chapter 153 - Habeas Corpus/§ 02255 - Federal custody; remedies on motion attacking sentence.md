@@ -46,9 +46,9 @@ Section 408 of the Controlled Substances Act, referred to in text, is classified
 
 #### Amendments
 
-1996—Pub. L. 104–132 inserted at end three new undesignated paragraphs beginning “A 1-year period of limitation”, “Except as provided in section 408 of the Controlled Substances Act”, and “A second or successive motion must be certified” and struck out second and fifth undesignated pars. providing, respectively, that “A motion for such relief may be made at any time.” and “The sentencing court shall not be required to entertain a second or successive motion for similar relief on behalf of the same prisoner.”
+<b>1996</b>—Pub. L. 104–132 inserted at end three new undesignated paragraphs beginning “A 1-year period of limitation”, “Except as provided in section 408 of the Controlled Substances Act”, and “A second or successive motion must be certified” and struck out second and fifth undesignated pars. providing, respectively, that “A motion for such relief may be made at any time.” and “The sentencing court shall not be required to entertain a second or successive motion for similar relief on behalf of the same prisoner.”
 
-1949—Act May 24, 1949, substituted “court established by Act of Congress” for “court of the United States” in first par.
+<b>1949</b>—Act May 24, 1949, substituted “court established by Act of Congress” for “court of the United States” in first par.
 
 #### Section Referred to in Other Sections
 
@@ -64,7 +64,7 @@ Rules and forms governing proceedings under sections 2254 and 2255 of this title
 
 ### <b>RULES GOVERNING SECTION 2255 PROCEEDINGS FOR THE UNITED STATES DISTRICT COURTS</b>
 
-#### (<i>Effective February 1, 1977, as amended to January 23, 2000)</i>
+#### (<i>Effective February 1, 1977, as amended to January 2, 2001)</i>
 
 Rule
 
@@ -228,7 +228,7 @@ Subdivision (b). The amendment takes into account 28 U.S.C. §1746, enacted afte
 
 #### Amendments
 
-1976—Subd. (b). Pub. L. 94–426, §2(3), inserted “substantially” after “The motion shall be in”, and struck out requirement that the motion follow the prescribed form.
+<b>1976</b>—Subd. (b). Pub. L. 94–426, §2(3), inserted “substantially” after “The motion shall be in”, and struck out requirement that the motion follow the prescribed form.
 
 Subd. (d). Pub. L. 94–426, §2(4), inserted “substantially” after “district court does not”, and struck out provision which permitted the clerk to return a motion for noncompliance without a judge so directing.
 
@@ -422,7 +422,7 @@ The amendment to Rule 8 is one of a series of parallel amendments to Federal Rul
 
 #### Amendments
 
-1976—Subd. (b). Pub. L. 94–577, §2(a)(2), substituted provisions which authorized magistrates, when designated to do so in accordance with section 636(b) of this title, to conduct hearings, including evidentiary hearings, on the petition and to submit to a judge of the court proposed findings of fact and recommendations for disposition, which directed the magistrate to file proposed findings and recommendations with the court with copies furnished to all parties, which allowed parties thus served 10 days to file written objections thereto, and which directed a judge of the court to make de novo determinations of the objected-to portions and to accept, reject, or modify the findings or recommendations for provisions under which the magistrate had been empowered only to recommend to the district judge that an evidentiary hearing be held or that the petition be dismissed.
+<b>1976</b>—Subd. (b). Pub. L. 94–577, §2(a)(2), substituted provisions which authorized magistrates, when designated to do so in accordance with section 636(b) of this title, to conduct hearings, including evidentiary hearings, on the petition and to submit to a judge of the court proposed findings of fact and recommendations for disposition, which directed the magistrate to file proposed findings and recommendations with the court with copies furnished to all parties, which allowed parties thus served 10 days to file written objections thereto, and which directed a judge of the court to make de novo determinations of the objected-to portions and to accept, reject, or modify the findings or recommendations for provisions under which the magistrate had been empowered only to recommend to the district judge that an evidentiary hearing be held or that the petition be dismissed.
 
 Subd. (c). Pub. L. 94–577, §2(b)(2), substituted “and the hearing shall be conducted” for “and shall conduct the hearing.”
 
@@ -512,7 +512,7 @@ For further discussion applicable to this rule, see the advisory committee note 
 
 #### Amendments
 
-1976—Subd. (a). Pub. L. 94–426, §2(9), struck out provision which established a rebuttable presumption of prejudice to government if the petition was filed more than five years after conviction.
+<b>1976</b>—Subd. (a). Pub. L. 94–426, §2(9), struck out provision which established a rebuttable presumption of prejudice to government if the petition was filed more than five years after conviction.
 
 Subd. (b). Pub. L. 94–426, §2(10), substituted “constituted an abuse of the procedure governed by these rules” for “is not excusable”.
 
@@ -532,7 +532,7 @@ This amendment conforms the rule to 18 U.S.C. §636. See Advisory Committee Note
 
 #### Amendments
 
-1976—Pub. L. 94–426 inserted “, and to the extent the district court has established standards and criteria for the performance of such duties,” after “rule of the district court”.
+<b>1976</b>—Pub. L. 94–426 inserted “, and to the extent the district court has established standards and criteria for the performance of such duties,” after “rule of the district court”.
 
 #### Change of Name
 
@@ -1124,9 +1124,9 @@ I hereby certify that the movant herein has the sum of $\_\_\_\_\_\_\_\_ on acco
 
 > \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Authorized Officer of&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Authorized Officer of&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-Institution&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Institution&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 > (As amended Apr. 28, 1982, eff. Aug. 1, 1982.)
 

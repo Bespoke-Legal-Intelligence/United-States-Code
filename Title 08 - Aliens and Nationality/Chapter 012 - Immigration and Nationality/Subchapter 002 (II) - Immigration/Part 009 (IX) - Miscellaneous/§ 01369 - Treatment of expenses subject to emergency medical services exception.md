@@ -24,7 +24,7 @@ For purposes of this section, the term “emergency medical condition” means a
 
 #### (e) Effective date
 
-Subsection (a) of this section shall apply to medical assistance for care and treatment of an emergency medical condition furnished on or after January 1, 1997.
+Subsection (a) of this section shall apply to medical assistance for care and treatment of anemergency medical condition furnished on or after January 1, 1997.
 
 (Pub. L. 104–208, div. C, title V, §562, Sept. 30, 1996, 110 Stat. 3009–682.)
 

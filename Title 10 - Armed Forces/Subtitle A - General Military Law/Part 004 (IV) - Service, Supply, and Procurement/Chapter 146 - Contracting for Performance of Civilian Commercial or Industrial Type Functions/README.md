@@ -4,6 +4,7 @@
 | :--- | ---: |
 | [2460\.](%C2%A7%2002460%20-%20Definition%20of%20depot-level%20maintenance%20and%20repair.md) | Definition of depot-level maintenance and repair. |
 | [2461\.](%C2%A7%2002461%20-%20Commercial%20or%20industrial%20type%20functions%20required%20studies%20and%20reports%20before%20conversion%20to%20contractor%20performance.md) | Commercial or industrial type functions: required studies and reports before conversion to contractor performance. |
+| [2461a.](%C2%A7%2002461a%20-%20Development%20of%20system%20for%20monitoring%20cost%20savings%20resulting%20from%20workforce%20reductions.md) | Development of system for monitoring cost savings resulting from workforce reductions. |
 | [2462\.](%C2%A7%2002462%20-%20Contracting%20for%20certain%20supplies%20and%20services%20required%20when%20cost%20is%20lower.md) | Contracting for certain supplies and services required when cost is lower. |
 | [2463\.](%C2%A7%2002463%20-%20Collection%20and%20retention%20of%20cost%20information%20data%20on%20converted%20services%20and%20functions.md) | Collection and retention of cost information data on converted services and functions. |
 | [2464\.](%C2%A7%2002464%20-%20Core%20logistics%20capabilities.md) | Core logistics capabilities. |
@@ -14,14 +15,17 @@
 | [2469\.](%C2%A7%2002469%20-%20Contracts%20to%20perform%20workloads%20previously%20performed%20by%20depot-level%20activities%20of%20the%20Department%20of%20Defense%20requirement%20of%20competition.md) | Contracts to perform workloads previously performed by depot-level activities of the Department of Defense: requirement of competition. |
 | [2469a.](%C2%A7%2002469a%20-%20Use%20of%20competitive%20procedures%20in%20contracting%20for%20performance%20of%20depot-level%20maintenance%20and%20repair%20workloads%20formerly%20performed%20at%E2%80%A6.md) | Use of competitive procedures in contracting for performance of depot-level maintenance and repair workloads formerly performed at certain military installations. |
 | [2470\.](%C2%A7%2002470%20-%20Depot-level%20activities%20of%20the%20Department%20of%20Defense%20authority%20to%20compete%20for%20maintenance%20and%20repair%20workloads%20of%20other%20Federal%20agencies.md) | Depot-level activities of the Department of Defense: authority to compete for maintenance and repair workloads of other Federal agencies. |
-| [2471\.](%C2%A7%2002471%20-%20Persons%20outside%20the%20Department%20of%20Defense%20lease%20of%20excess%20depot-level%20equipment%20and%20facilities%20by.md) | Persons outside the Department of Defense: lease of excess depot-level equipment and facilities by. |
+| \[2471. | Repealed.\] |
 | [2472\.](%C2%A7%2002472%20-%20Management%20of%20depot%20employees.md) | Management of depot employees. |
 | [2473\.](%C2%A7%2002473%20-%20Procurements%20from%20the%20small%20arms%20production%20industrial%20base.md) | Procurements from the small arms production industrial base. |
 | [2474\.](%C2%A7%2002474%20-%20Centers%20of%20Industrial%20and%20Technical%20Excellence%20designation%3B%20public-private%20partnerships.md) | Centers of Industrial and Technical Excellence: designation; public-private partnerships. |
+| [2475\.](%C2%A7%2002475%20-%20Consolidation%2C%20restructuring%2C%20or%20reengineering%20of%20organizations%2C%20functions%2C%20or%20activities%20notification%20requirements.md) | Consolidation, restructuring, or reengineering of organizations, functions, or activities: notification requirements. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2000—Pub. L. 106–398, §1 \[\[div. A\], title III, §§341(g)(2), 353(b), 354(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–64, 1654A–73, 1654A–75, added items 2461a and 2475 and struck out item 2471 “Persons outside the Department of Defense: lease of excess depot-level equipment and facilities by”.
 
 1999—Pub. L. 106–65, div. A, title III, §342(b)(2), Oct. 5, 1999, 113 Stat. 569, added item 2467 and struck former item 2467 “Cost comparisons: requirements with respect to retirement costs and consultation with employees”.
 
@@ -50,6 +54,7 @@ Pub. L. 104–106, div. A, title III, §311(f)(2), Feb. 10, 1996, 110 Stat. 248,
 
 - [&sect; 02460 - Definition of depot-level maintenance and repair](%C2%A7%2002460%20-%20Definition%20of%20depot-level%20maintenance%20and%20repair.md)
 - [&sect; 02461 - Commercial or industrial type functions required studies and reports before conversion to contractor performance](%C2%A7%2002461%20-%20Commercial%20or%20industrial%20type%20functions%20required%20studies%20and%20reports%20before%20conversion%20to%20contractor%20performance.md)
+- [&sect; 02461a - Development of system for monitoring cost savings resulting from workforce reductions](%C2%A7%2002461a%20-%20Development%20of%20system%20for%20monitoring%20cost%20savings%20resulting%20from%20workforce%20reductions.md)
 - [&sect; 02462 - Contracting for certain supplies and services required when cost is lower](%C2%A7%2002462%20-%20Contracting%20for%20certain%20supplies%20and%20services%20required%20when%20cost%20is%20lower.md)
 - [&sect; 02463 - Collection and retention of cost information data on converted services and functions](%C2%A7%2002463%20-%20Collection%20and%20retention%20of%20cost%20information%20data%20on%20converted%20services%20and%20functions.md)
 - [&sect; 02464 - Core logistics capabilities](%C2%A7%2002464%20-%20Core%20logistics%20capabilities.md)
@@ -60,7 +65,8 @@ Pub. L. 104–106, div. A, title III, §311(f)(2), Feb. 10, 1996, 110 Stat. 248,
 - [&sect; 02469 - Contracts to perform workloads previously performed by depot-level activities of the Department of Defense requirement of competition](%C2%A7%2002469%20-%20Contracts%20to%20perform%20workloads%20previously%20performed%20by%20depot-level%20activities%20of%20the%20Department%20of%20Defense%20requirement%20of%20competition.md)
 - [&sect; 02469a - Use of competitive procedures in contracting for performance of depot-level maintenance and repair workloads formerly performed at&#8230;](%C2%A7%2002469a%20-%20Use%20of%20competitive%20procedures%20in%20contracting%20for%20performance%20of%20depot-level%20maintenance%20and%20repair%20workloads%20formerly%20performed%20at%E2%80%A6.md)
 - [&sect; 02470 - Depot-level activities of the Department of Defense authority to compete for maintenance and repair workloads of other Federal agencies](%C2%A7%2002470%20-%20Depot-level%20activities%20of%20the%20Department%20of%20Defense%20authority%20to%20compete%20for%20maintenance%20and%20repair%20workloads%20of%20other%20Federal%20agencies.md)
-- [&sect; 02471 - Persons outside the Department of Defense lease of excess depot-level equipment and facilities by](%C2%A7%2002471%20-%20Persons%20outside%20the%20Department%20of%20Defense%20lease%20of%20excess%20depot-level%20equipment%20and%20facilities%20by.md)
+- [&sect; 02471 - Repealed. Pub. L. 106&#8211;398, &sect;1 \[\[div. A\], title III, &sect;341(g)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A&#8211;64](%C2%A7%2002471%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93398%2C%20%C2%A71%20%5B%5Bdiv.%20A%5D%2C%20title%20III%2C%20%C2%A7341%28g%29%281%29%5D%2C%20Oct.%2030%2C%202000%2C%20114%20Stat.%201654%2C%201654A%E2%80%9364.md)
 - [&sect; 02472 - Management of depot employees](%C2%A7%2002472%20-%20Management%20of%20depot%20employees.md)
 - [&sect; 02473 - Procurements from the small arms production industrial base](%C2%A7%2002473%20-%20Procurements%20from%20the%20small%20arms%20production%20industrial%20base.md)
 - [&sect; 02474 - Centers of Industrial and Technical Excellence designation; public-private partnerships](%C2%A7%2002474%20-%20Centers%20of%20Industrial%20and%20Technical%20Excellence%20designation%3B%20public-private%20partnerships.md)
+- [&sect; 02475 - Consolidation, restructuring, or reengineering of organizations, functions, or activities notification requirements](%C2%A7%2002475%20-%20Consolidation%2C%20restructuring%2C%20or%20reengineering%20of%20organizations%2C%20functions%2C%20or%20activities%20notification%20requirements.md)

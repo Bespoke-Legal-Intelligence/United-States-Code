@@ -4,15 +4,17 @@
 
 (b) Under joint regulations to be prescribed by the administering Secretaries, a member or former member of a uniformed service who is entitled to retired or retainer pay, or equivalent pay may, upon request, be given medical and dental care in any facility of any uniformed service, subject to the availability of space and facilities and the capabilities of the medical and dental staff. The administering Secretaries may, with the agreement of the Secretary of Veterans Affairs, provide care to persons covered by this subsection in facilities operated by the Secretary of Veterans Affairs and determined by him to be available for this purpose on a reimbursable basis at rates approved by the President.
 
-(c)(1) Funds appropriated to a military department may be used to provide medical and dental care to persons entitled to such care by law or regulations, including the provision of such care (other than elective private treatment) in private facilities for members of the armed forces. If a private facility or health care provider providing care under this subsection is a health care provider under the Civilian Health and Medical Program of the Uniformed Services, the Secretary of Defense, after consultation with the other administering Secretaries, may by regulation require the private facility or health care provider to provide such care in accordance with the same payment rules (subject to any modifications considered appropriate by the Secretary) as apply under that program.
+(c)(1) Funds appropriated to a military department, the Department of Transportation (with respect to the Coast Guard when it is not operating as a service in the Navy), or the Department of Health and Human Services (with respect to the National Oceanic and Atmospheric Administration and the Public Health Service) may be used to provide medical and dental care to persons entitled to such care by law or regulations, including the provision of such care (other than elective private treatment) in private facilities for members of the uniformed services. If a private facility or health care provider providing care under this subsection is a health care provider under the Civilian Health and Medical Program of the Uniformed Services, the Secretary of Defense, after consultation with the other administering Secretaries, may by regulation require the private facility or health care provider to provide such care in accordance with the same payment rules (subject to any modifications considered appropriate by the Secretary) as apply under that program.
 
-(2)(A) Subject to such exceptions as the Secretary of Defense considers necessary, coverage for medical care for members of the armed forces under this subsection, and standards with respect to timely access to such care, shall be comparable to coverage for medical care and standards for timely access to such care under the managed care option of the TRICARE program known as TRICARE Prime.
+(2)(A) Subject to such exceptions as the Secretary of Defense considers necessary, coverage for medical care for members of the uniformed services under this subsection, and standards with respect to timely access to such care, shall be comparable to coverage for medical care and standards for timely access to such care under the managed care option of the TRICARE program known as TRICARE Prime.
 
 (B) The Secretary of Defense shall enter into arrangements with contractors under the TRICARE program or with other appropriate contractors for the timely and efficient processing of claims under this subsection.
 
-(3)(A) The Secretary of Defense may not require a member of the armed forces described in subparagraph (B) to receive routine primarymedical care at a military medical treatment facility.
+(C) The Secretary of Defense shall consult with the other administering Secretaries in the administration of this paragraph.
 
-(B) A member referred to in subparagraph (A) is a member of the armed forces on active duty who is entitled to medical care under this subsection and who—
+(3)(A) A member of the uniformed services described in subparagraph (B) may not be required to receive routine primary medical care at a military medical treatment facility.
+
+(B) A member referred to in subparagraph (A) is a member of the uniformed services on active duty who is entitled to medical care under this subsection and who—
 
 &emsp;(i) receives a duty assignment described in subparagraph (C); and
 
@@ -28,7 +30,7 @@
 
 &emsp;(iv) Any other permanent duty designated by the Secretary concerned for purposes of this paragraph.
 
-(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1446; amended Pub. L. 89–614, §2(2), Sept. 30, 1966, 80 Stat. 862; Pub. L. 96–513, title V, §511(36), (37), Dec. 12, 1980, 94 Stat. 2923; Pub. L. 98–525, title XIV, §1401(e)(1), Oct. 19, 1984, 98 Stat. 2616; Pub. L. 98–557, §19(3), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 101–189, div. A, title VII, §729, title XVI, §1621(a)(2), Nov. 29, 1989, 103 Stat. 1481, 1603; Pub. L. 101–510, div. A, title XIV, §1484(j)(1), Nov. 5, 1990, 104 Stat. 1718; Pub. L. 104–106, div. A, title VII, §723, Feb. 10, 1996, 110 Stat. 377; Pub. L. 104–201, div. A, title VII, §725(d), Sept. 23, 1996, 110 Stat. 2596; Pub. L. 105–85, div. A, title VII, §731(a)(1), Nov. 18, 1997, 111 Stat. 1810.)
+(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1446; amended Pub. L. 89–614, §2(2), Sept. 30, 1966, 80 Stat. 862; Pub. L. 96–513, title V, §511(36), (37), Dec. 12, 1980, 94 Stat. 2923; Pub. L. 98–525, title XIV, §1401(e)(1), Oct. 19, 1984, 98 Stat. 2616; Pub. L. 98–557, §19(3), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 101–189, div. A, title VII, §729, title XVI, §1621(a)(2), Nov. 29, 1989, 103 Stat. 1481, 1603; Pub. L. 101–510, div. A, title XIV, §1484(j)(1), Nov. 5, 1990, 104 Stat. 1718; Pub. L. 104–106, div. A, title VII, §723, Feb. 10, 1996, 110 Stat. 377; Pub. L. 104–201, div. A, title VII, §725(d), Sept. 23, 1996, 110 Stat. 2596; Pub. L. 105–85, div. A, title VII, §731(a)(1), Nov. 18, 1997, 111 Stat. 1810; Pub. L. 106–398, §1 \[\[div. A\], title VII, §722(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–185.)
 
 Historical and Revision Notes
 
@@ -62,6 +64,14 @@ A prior section 1074, act Aug. 10, 1956, ch. 1041, 70A Stat. 82, related to enac
 
 #### Amendments
 
+2000—Subsec. (c). Pub. L. 106–398, §1 \[\[div. A\], title VII, §722(a)(1)(A)\], substituted “uniformed services” for “armed forces” in pars. (1), (2)(A), and (3)(B).
+
+Subsec. (c)(1). Pub. L. 106–398, §1 \[\[div. A\], title VII, §722(a)(1)(B)\], inserted “, the Department of Transportation (with respect to the Coast Guard when it is not operating as a service in the Navy), or the Department of Health and Human Services (with respect to the National Oceanic and Atmospheric Administration and the Public Health Service)” after “military department”.
+
+Subsec. (c)(2)(C). Pub. L. 106–398, §1 \[\[div. A\], title VII, §722(a)(1)(C)\], added subpar. (C).
+
+Subsec. (c)(3)(A). Pub. L. 106–398, §1 \[\[div. A\], title VII, §722(a)(1)(D)\], substituted “A member of the uniformed services described in subparagraph (B) may not be required” for “The Secretary of Defense may not require a member of the armed forces described in subparagraph (B)”.
+
 1997—Subsec. (c). Pub. L. 105–85 designated existing provisions as par. (1) and added pars. (2) and (3).
 
 1996—Subsec. (d). Pub. L. 104–201 struck out subsec. (d) which read as follows:
@@ -94,6 +104,10 @@ Subsec. (b). Pub. L. 96–513, §511(36), (37), substituted “Secretary of Heal
 
 1966—Subsec. (b). Pub. L. 89–614 struck out provision which excepted from medical and dental care a member or former member who is entitled to retired pay under chapter 67 of this title and has served less than eight years on active duty (other than for training) and authorized care to be provided to persons covered by subsec. (b) in facilities operated by the Administrator of Veterans’ Affairs and available on a reimbursable basis at rates approved by the Bureau of the Budget.
 
+#### Effective Date of 2000 Amendment
+
+Pub. L. 106–398, §1 \[\[div. A\], title VII, §722(c)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–186, provided that: “The amendments made by subsections (a)(1) and (b)(1) \[amending this section and section 1079 of this title\] shall take effect on October 1, 2001.”
+
 #### Effective Date of 1997 Amendment
 
 Section 731(a)(2) of Pub. L. 105–85 provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply with respect to coverage of medical care for, and the provision of such care to, a member of the Armed Forces under section 1074(c) of title 10, United States Code, on and after the later of the following:
@@ -120,7 +134,7 @@ Authority of President under subsec. (b) to approve uniform rates of reimburseme
 
 #### Health Care at Former Uniformed Services Treatment Facilities for Active Duty Members Stationed at Certain Remote Locations
 
-Pub. L. 106–65, div. A, title VII, §706, Oct. 5, 1999, 113 Stat. 684, provided that:
+Pub. L. 106–65, div. A, title VII, §706, Oct. 5, 1999, 113 Stat. 684, as amended by Pub. L. 106–398, §1 \[\[div. A\], title VII, §722(a)(3)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–185, provided that:
 
 “(a)
 
@@ -128,7 +142,7 @@ Authority.—Health care may be furnished by a designated provider pursuant to a
 
 “(b)
 
-Eligibility.—A member of the Armed Forces is eligible for health care under subsection (a) if the member is a member described in section 731(c) of the National Defense Authorization Act for Fiscal Year 1998 (Public Law 105–85; 111 Stat. 1811; 10 U.S.C. 1074 note).
+Eligibility.—A member of the uniformed services (as defined in section 1072(1) of title 10, United States Code) is eligible for health care under subsection (a) if the member is a member described in section 731(c) of the National Defense Authorization Act for Fiscal Year 1998 (Public Law 105–85; 111 Stat. 1811; 10 U.S.C. 1074 note).
 
 “(c)
 
@@ -140,13 +154,13 @@ Reimbursement Rates.—The Secretary of Defense, in consultation with the design
 
 #### Temporary Authority for Managed Care Expansion to Members on Active Duty at Certain Remote Locations; “TRICARE Program” and “TRICARE Prime Plan” Defined
 
-Section 731(b)–(f) of Pub. L. 105–85 provided that:
+Pub. L. 105–85, div. A, title VII, §731(b)–(f), Nov. 18, 1997, 111 Stat. 1811, 1812, as amended by Pub. L. 106–398, §1 \[\[div. A\], title VII, §722(a)(2), (b)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–185, 1654A–186, provided that:
 
 “(b)
 
-Temporary Authority for Managed Care Expansion to Members on Active Duty at Certain Remote Locations.—(1) A member of the Armed Forces described in subsection (c) is entitled to receive care under the Civilian Health and Medical Program of the Uniformed Services. In connection with such care, the Secretary of Defense shall waive the obligation of the member to pay a deductible, copayment, or annual fee that would otherwise be applicable under that program for care provided to the members under the program.
+Temporary Authority for Managed Care Expansion to Members on Active Duty at Certain Remote Locations.—(1) A member of the uniformed services described in subsection (c) is entitled to receive care under the Civilian Health and Medical Program of the Uniformed Services. In connection with such care, the Secretary of Defense shall waive the obligation of the member to pay a deductible, copayment, or annual fee that would otherwise be applicable under that program for care provided to the members under the program. A dependent of the member, as described in subparagraph (A), (D), or (I) of section 1072(2) of title 10, United States Code, who is residing with the member shall have the same entitlement to care and to waiver of charges as the member.
 
-“(2) A member who is entitled under paragraph (1) to receive health care services under CHAMPUS shall receive such care from a network provider under the TRICARE program if such a provider is available in the service area of the member.
+“(2) A member or dependent of the member, as the case may be, who is entitled under paragraph (1) to receive health care services under CHAMPUS shall receive such care from a network provider under the TRICARE program if such a provider is available in the service area of the member.
 
 “(3) Paragraph (1) shall take effect on the date of the enactment of this Act \[Nov. 18, 1997\] and shall expire with respect to a member upon the later of the following:
 
@@ -154,9 +168,11 @@ Temporary Authority for Managed Care Expansion to Members on Active Duty at Cert
 
 &emsp;“(B) The date on which the amendments made by subsection (a) \[amending this section\] apply with respect to the coverage of medical care for, and provision of such care to, the member.
 
+“(4) The Secretary of Defense shall consult with the other administering Secretaries in the administration of this subsection.
+
 “(c)
 
-Eligible Members.—A member referred to in subsection (b) is a member of the Armed Forces on active duty who—
+Eligible Members.—A member referred to in subsection (b) is a member of the uniformed services on active duty who—
 
 &emsp;“(1) receives a duty assignment described in subsection (d); and
 
@@ -174,7 +190,7 @@ Duty Assignments Covered.—A duty assignment referred to in subsection (c)(1) m
 
 &emsp;“(2) Permanent duty at an educational institution to instruct, administer a program of instruction, or provide administrative services in support of a program of instruction for the Reserve Officers’ Training Corps.
 
-&emsp;“(3) Permanent duty as a full-time adviser to a unit of a reserve component of the Armed Forces.
+&emsp;“(3) Permanent duty as a full-time adviser to a unit of a reserve component of the uniformed services.
 
 &emsp;“(4) Any other permanent duty designated by the Secretary concerned for purposes of this subsection.
 
@@ -188,7 +204,19 @@ Definitions.—In this section \[amending this section and enacting provisions s
 
 &emsp;“(1) The term ‘TRICARE program’ has the meaning given that term in section 1072(7) of title 10, United States Code.
 
-&emsp;“(2) The term ‘TRICARE Prime plan’ means a plan under the TRICARE program that provides for the voluntary enrollment of persons for the receipt of health care services to be furnished in a manner similar to the manner in which health care services are furnished by health maintenance organizations.”
+&emsp;“(2) The term ‘TRICARE Prime plan’ means a plan under the TRICARE program that provides for the voluntary enrollment of persons for the receipt of health care services to be furnished in a manner similar to the manner in which health care services are furnished by health maintenance organizations.
+
+&emsp;“(3) The terms ‘uniformed services’ and ‘administering Secretaries’ have the meanings given those terms in section 1072 of title 10, United States Code.”
+
+\[Pub. L. 106–398, §1 \[\[div. A\], title VII, §722(c)(2), (3)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–186, provided that:
+
+\[“(2) The amendments made by subsection (a)(2) \[amending section 731(b)–(f) of Pub. L. 105–85, set out above\], with respect to members of the uniformed services, and the amendments made by subsection (b)(2) \[amending section 731(b)–(f) of Pub. L. 105–85, set out above\], with respect to dependents of members, shall take effect on the date of the enactment of this Act \[Oct. 30, 2000\] and shall expire with respect to a member or the dependents of a member, respectively, on the later of the following:
+
+&emsp;\[“(A) The date that is one year after the date of the enactment of this Act.
+
+&emsp;\[“(B) The date on which the policies required by the amendments made by subsection (a)(1) or (b)(1) \[amending this section and section 1079 of this title\] are implemented with respect to the coverage of medical care for and provision of such care to the member or dependents, respectively.
+
+\[“(3) Section 731(b)(3) of Public Law 105–85 \[set out above\] does not apply to a member of the Coast Guard, the National Oceanic and Atmospheric Administration, or the Commissioned Corps of the Public Health Service, or to a dependent of a member of a uniformed service.”\]
 
 #### Independent Research Regarding Gulf War Syndrome
 
@@ -584,5 +612,5 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1072, 1074a, 1074d, 1074e, 1075, 1078a, 1086, 1087, 1095, 1095a, 1097, 1097a, 1108 of this title; title 38 section 8111; title 42 section 1395ggg.
+This section is referred to in sections 1072, 1074a, 1074d, 1074e, 1075, 1078a, 1079, 1086, 1087, 1095, 1095a, 1097, 1097a, 1108 of this title; title 38 section 8111; title 42 section 1395ggg.
 

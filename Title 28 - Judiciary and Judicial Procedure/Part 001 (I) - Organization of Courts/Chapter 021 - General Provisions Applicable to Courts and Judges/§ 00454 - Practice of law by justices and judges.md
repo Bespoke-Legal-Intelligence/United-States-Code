@@ -10,10 +10,6 @@ Based on title 28, U.S.C., 1940 ed., §373 (Mar. 3, 1911, ch. 231, §258, 36 Sta
 
 Changes in phraseology were made.
 
-#### Rules of the Supreme Court
-
-Clerks to justices not to practice, see rule 7, Appendix to this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 460 of this title.

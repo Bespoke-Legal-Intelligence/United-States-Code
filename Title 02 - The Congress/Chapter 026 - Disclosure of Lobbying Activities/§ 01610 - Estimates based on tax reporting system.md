@@ -28,7 +28,7 @@ A person, other than a lobbying firm, who is required to account and does accoun
 
 Any registrant that elects to make estimates required by this chapter under the procedures authorized by subsection (a) or (b) of this section for reporting or threshold purposes shall—
 
-&emsp;(1) inform the Secretary of the Senate and the Clerk of the House of Representatives that the registrant has elected to make its estimates under such procedures; and
+&emsp;(1) inform the Secretary of the Senate and the Clerk of the House of Representatives thatthe registrant has elected to make its estimates under such procedures; and
 
 &emsp;(2) make all such estimates, in a given calendar year, under such procedures.
 

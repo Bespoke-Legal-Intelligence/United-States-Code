@@ -24,7 +24,7 @@ For the purposes of this chapter—
 
 (5) The term “training establishment” has the meaning given such term in section 3452(e) of this title.
 
-(Added Pub. L. 94–502, title IV, §404, Oct. 15, 1976, 90 Stat. 2394, §1602; amended Pub. L. 96–466, title IV, §401, Oct. 17, 1980, 94 Stat. 2201; Pub. L. 98–223, title II, §203(a), Mar. 2, 1984, 98 Stat. 41; Pub. L. 99–576, title III, §§309(a)(2), 310(a), Oct. 28, 1986, 100 Stat. 3270, 3271; Pub. L. 100–689, title I, §108(b)(1), Nov. 18, 1988, 102 Stat. 4169; Pub. L. 102–54, §14(c)(6), June 13, 1991, 105 Stat. 285; renumbered §3202 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
+(Added Pub. L. 94–502, title IV, §404, Oct. 15, 1976, 90 Stat. 2394, §1602; amended Pub. L. 96–466, title IV, §401, Oct. 17, 1980, 94 Stat. 2201; Pub. L.98–223, title II, §203(a), Mar. 2, 1984, 98 Stat. 41; Pub. L. 99–576, title III, §§309(a)(2), 310(a), Oct. 28, 1986, 100 Stat. 3270, 3271; Pub. L. 100–689, title I, §108(b)(1), Nov. 18, 1988, 102 Stat. 4169; Pub. L. 102–54, §14(c)(6), June 13, 1991, 105 Stat. 285; renumbered §3202 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
 
 #### References in Text
 

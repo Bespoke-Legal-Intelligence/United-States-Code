@@ -20,7 +20,3 @@ June 3, 1916, ch. 134, §109; restated June 4, 1920, ch. 227, subch. 1, §47; re
 
 The reference to 10:1106 is omitted, since that section related only to sales of uniforms and equipment to cadets at the United States Military Academy. The reference to 10:904 is omitted as covered by the language of the revised section. The words “at average current costs, including overhead, as determined by the Secretary concerned” are inserted to reflect sections 4621 and 9621 of title 10, which apply to all sales of individual clothing and equipment. The words “articles of individual clothing and equipment” are substituted for the words “uniforms, accouterments, and equipment”. The words “active and inactive”, “on proper identification”, and “rules and” are omitted as surplusage.
 
-#### Cross References
-
-Sale of serviceable material to members of Army or Air Force, see sections 4621 and 9621 of Title 10, Armed Forces.
-

@@ -46,7 +46,7 @@ Subsecs. (c) to (e). Pub. L. 103–394, §501(d)(5)(B), substituted “1208, or 
 
 Subsec. (f). Pub. L. 103–394, §311, added subsec. (f).
 
-1986—Subsec. (b). Pub. L. 99–554, §257(i)(1), substituted references to sections 1201(a), 1221, and 1228(a) of thistitle for reference to section 1328(a) of this title, and inserted reference to section 1208 of this title.
+1986—Subsec. (b). Pub. L. 99–554, §257(i)(1), substituted references to sections 1201(a), 1221, and 1228(a) of this title for reference to section 1328(a) of this title, and inserted reference to section 1208 of this title.
 
 Subsecs. (c) to (e). Pub. L. 99–554, §257(i)(2), (3), inserted reference to section 1208 of this title.
 

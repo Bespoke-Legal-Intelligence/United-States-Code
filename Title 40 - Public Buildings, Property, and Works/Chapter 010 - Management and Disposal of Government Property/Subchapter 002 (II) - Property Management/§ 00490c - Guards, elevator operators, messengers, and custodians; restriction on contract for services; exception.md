@@ -42,7 +42,3 @@ Pub. L. 98–151, §112, Nov. 14, 1983, 97 Stat. 976.
 
 Pub. L. 97–377, §120, Dec. 21, 1982, 96 Stat. 1913.
 
-#### Cross References
-
-Preference eligibles, examinations for positions of guards, elevator operators, messengers, and custodians, see section 3310 of Title 5, Government Organization and Employees.
-

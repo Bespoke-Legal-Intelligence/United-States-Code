@@ -10,5 +10,5 @@ Section was not enacted as part of act July 31, 1945, ch. 339, 59 Stat. 512, kno
 
 #### Short Title
 
-Section 1 of Pub. L. 90–349 provided: “That this Act \[enacting this section and sections 286<i>o</i> to 286r of this title and amending sections 412, 415, 417, and 467 of Title 12, Banks and Banking\] may be cited as the ‘Special Drawing Rights Act’.”
+Section 1 of Pub. L. 90–349 provided: “That this Act \[enacting this section and sections 286<i>o</i> to 286r of thistitle and amending sections 412, 415, 417, and 467 of Title 12, Banks and Banking\] may be cited as the ‘Special Drawing Rights Act’.”
 

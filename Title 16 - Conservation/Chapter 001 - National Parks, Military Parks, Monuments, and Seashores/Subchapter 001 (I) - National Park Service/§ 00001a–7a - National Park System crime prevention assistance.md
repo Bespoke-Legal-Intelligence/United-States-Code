@@ -32,7 +32,3 @@ Funds provided under this section may be used—
 
 (Pub. L. 91–383, §13, as added Pub. L. 103–322, title IV, §40132, Sept. 13, 1994, 108 Stat. 1917.)
 
-#### Cross References
-
-Violent Crime Reduction Trust Fund, see section 14211 of Title 42, The Public Health and Welfare.
-

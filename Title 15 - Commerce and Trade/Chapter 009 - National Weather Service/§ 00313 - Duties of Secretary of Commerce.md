@@ -36,7 +36,7 @@ Responsibilities.—(1) The Secretary of Defense shall have the responsibility f
 
 “(c)
 
-Management Plans.—(1) The Secretary of Defense and the Secretary of Commerce shall jointly develop and, within 120 days after the date of enactment of this Act \[Oct. 29, 1992\], submit to the Congress amanagement plan for the program established under this section, which shall include organizational structure, goals, major tasks, and funding profiles for the 5-year duration of the program.
+Management Plans.—(1) The Secretary of Defense and the Secretary of Commerce shall jointly develop and, within 120 days after the date of enactment of this Act \[Oct. 29, 1992\], submit to the Congress a management plan for the program established under this section, which shall include organizational structure, goals, major tasks, and funding profiles for the 5-year duration of the program.
 
 “(2) The Secretary of Defense and the Secretary of Commerce, in consultation with the Tropical Cyclone Research Advisory Committee established by section 107(a)(2), shall jointly develop and, within 4 years after the date of enactment of this Act, submit to the Congress a management plan providing for continued tropical cyclone surveillance and reconnaissance which will adequately protect the citizens of the coastal areas of the United States.
 
@@ -222,9 +222,9 @@ Establishment.—There is established a committee of 12 members to be known as t
 
 Membership and Terms.—(1) The Committee shall consist of—
 
-&emsp;“(A) five members representing agencies and departments of the United States which are responsiblefor providing or using weather services, including but not limited to the National Weather Service, the Department of Defense, the Federal Aviation Administration, and the Federal Emergency Management Agency; and
+&emsp;“(A) five members representing agencies and departments of the United States which are responsible for providing or using weather services, including but not limited to the National Weather Service, the Department of Defense, the Federal Aviation Administration, and the Federal Emergency Management Agency; and
 
-&emsp;“(B) seven members to be appointed by the Secretary from civil defense and public safety organizations, news media, any labor organization certified by the Federal Labor Relations Authority as an exclusive representative of weather service employees, meteorological experts, and private sector users of weather information such as pilots and farmers.
+&emsp;“(B) seven members to be appointed by the Secretary from civil defense and public safety organizations, news media, any labor organization certified bythe Federal Labor Relations Authority as an exclusive representative of weather service employees, meteorological experts, and private sector users of weather information such as pilots and farmers.
 
 “(2) The terms of office of a member of the Committee shall be 3 years; except that, of the original membership, four shall serve a 5-year term, four shall serve a 4-year term, and four shall serve a 3-year term. No individual may serve for more than one additional 3-year term.
 
@@ -333,12 +333,4 @@ Sec. 2. The Chief of the Weather Bureau is empowered to make such expenditures a
 “
 
 Sec. 3. Any executive department or independent establishment is hereby authorized to cooperate with the Chief of the Weather Bureau in carrying out the purposes of this Act, and for such purposes may lend or transfer to the Chief of the Weather Bureau any officer or employee of such department or establishment and any property, equipment, lands, or buildings under its control.”
-
-#### Cross References
-
-Counterfeit weather forecasts, punishing the issue or publication of, see section 2074 of Title 18, Crimes and Criminal Procedure.
-
-Flood control, current information to aid, see section 706 of Title 33, Navigation and Navigable Waters.
-
-Printing and distribution of reports of Secretary of Agriculture and of the Weather Bureau, see sections 1301 and 1310 of Title 44, Public Printing and Documents.
 

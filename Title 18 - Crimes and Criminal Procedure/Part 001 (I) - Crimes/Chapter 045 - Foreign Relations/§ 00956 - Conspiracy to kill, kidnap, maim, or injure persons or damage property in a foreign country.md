@@ -8,7 +8,7 @@
 
 &emsp;(B) imprisonment for not more than 35 years if the offense is conspiracy to maim.
 
-(b) Whoever, within the jurisdiction of the United States, conspires with one or more persons, regardless of where such other person or persons are located, to damage or destroy specific property situated within a foreign country and belonging to a foreign government or to any political subdivision thereof with which the United States is at peace, or any railroad, canal, bridge, airport, airfield, or other public utility, public conveyance, or public structure, or any religious, educational, or cultural property so situated, shall, if any of the conspirators commits an act within the jurisdiction of the United States to effect any object of the conspiracy, be imprisoned not more than 25 years.
+(b) Whoever, within the jurisdiction of the United States, conspires with one or more persons, regardless of where such other person or persons are located, to damage or destroy specific property situated within a foreign country and belonging to a foreign government or to any political subdivision thereof with which theUnited States is at peace, or any railroad, canal, bridge, airport, airfield, or other public utility, public conveyance, or public structure, or any religious, educational, or cultural property so situated, shall, if any of the conspirators commits an act within the jurisdiction of the United States to effect any object of the conspiracy, be imprisoned not more than 25 years.
 
 (June 25, 1948, ch. 645, 62 Stat. 744; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–132, title VII, §704(a), Apr. 24, 1996, 110 Stat. 1294.)
 
@@ -25,16 +25,6 @@ Based on section 234 of title 22, U.S.C., 1940 ed., Foreign Relations and Interc
 “(b) Any indictment or information under this section shall describe the specific property which it was the object of the conspiracy to injure or destroy.”
 
 1994—Subsec. (a). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
-
-#### Canal Zone
-
-Applicability of section to Canal Zone, see section 14 of this title.
-
-#### Cross References
-
-Jurisdiction of offenses, see section 3241 of this title.
-
-Letters, writings, etc., in violation of this section as nonmailable, see section 1717 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -4,13 +4,13 @@
 
 Whenever—
 
-&emsp;(1) any action taken under part 1 of subchapter II of this chapter or subchapter III of this chapter; or
+&emsp;(1) any action taken under part 1 of subchapter II of this chapter or subchapter III of this chapter, or under part 2 of subchapter IV of this chapter; or
 
 &emsp;(2) any judicial or administrative tariff reclassification that becomes final after August 23, 1988;
 
 > increases or imposes any duty or other import restriction, the President—
 
-&emsp;(A) may enter into trade agreements with foreign countries or instrumentalities for the purpose of granting new concessions as compensation in order to maintain the generallevel of reciprocal and mutually advantageous concessions; and
+&emsp;(A) may enter into trade agreements with foreign countries or instrumentalities for the purpose of granting new concessions as compensation in order to maintain the general level of reciprocal and mutually advantageous concessions; and
 
 &emsp;(B) may proclaim such modification or continuance of any existing duty, or such continuance of existing duty-free or excise treatment, as he determines to be required or appropriate to carry out any such agreement.
 
@@ -40,9 +40,11 @@ Notwithstanding the provisions of subsection (a) of this section, the authority 
 
 The provisions of this section shall apply by reason of action taken under subchapter III of this chapter only if the President determines that action authorized under this section is necessary or appropriate to meet the international obligations of the United States.
 
-(Pub. L. 93–618, title I, §123, Jan. 3, 1975, 88 Stat. 1989; Pub. L. 100–418, title I, §§1104, 1401(b)(1)(A), Aug. 23, 1988, 102 Stat. 1132, 1239.)
+(Pub. L. 93–618, title I, §123, Jan. 3, 1975, 88 Stat. 1989; Pub. L. 100–418, title I, §§1104, 1401(b)(1)(A), Aug. 23, 1988, 102 Stat. 1132, 1239; Pub. L. 106–286, div. A, title I, §104, Oct. 10, 2000, 114 Stat. 891.)
 
 #### Amendments
+
+2000—Subsec. (a)(1). Pub. L. 106–286 inserted “, or under part 2 of subchapter IV of this chapter” after “subchapter III of this chapter”.
 
 1988—Subsec. (a). Pub. L. 100–418, §1104(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Whenever any action has been taken under section 2253 of this title to increase or impose any duty or other import restriction, the President—
 

@@ -28,7 +28,7 @@
 
 #### (B) To providers and parents
 
-&emsp;&emsp;Not later than 30 days after the date on which the State educational agency provides notice under subparagraph (A), each local educational agency described in paragraph (1) shall, as a condition on the agency's receipt of funds made available under subchapter I of this chapter, provide public notice to potential providers of tutorial assistance operating in the jurisdiction of theagency, and parents residing in such jurisdiction, regarding the availability of the subgrants under this section.
+&emsp;&emsp;Not later than 30 days after the date on which the State educational agency provides notice under subparagraph (A), each local educational agency described in paragraph (1) shall, as a condition on the agency's receipt of funds made available under subchapter I of this chapter, provide public notice to potential providers of tutorial assistance operating in the jurisdiction of the agency, and parents residing in such jurisdiction, regarding the availability of the subgrants under this section.
 
 #### (3) Application
 
@@ -36,7 +36,7 @@
 
 #### (4) Exception
 
-&emsp;If no local educational agency within the State submits an application to receive a subgrant under this section within the 6-month period beginning on the date on which the State educational agency provided notice to the local educational agencies regarding the availability of the subgrants, the State educational agency may use funds otherwise reserved under <sup>1</sup> 6661c(2) of this title for the purpose of providing local reading improvement subgrants under section 6661d of this title if the State educational agency certifies to the Secretary that the requirements of paragraph (2) have been met and each local educational agency in the State described in subparagraph (B) of such paragraph has demonstrated to the State educational agency that no provider of tutorial assistance described in such subparagraph requested the local educational agency to submit under paragraph (3) an application for a tutorial assistance subgrant.
+&emsp;If no local educational agency within the State submits an application to receive a subgrant under this section within the 6-month period beginning on the date on which the State educational agency provided notice to the local educational agencies regarding the availability of the subgrants, the State educational agency may use funds otherwisereserved under <sup>1</sup> 6661c(2) of this title for the purpose of providing local reading improvement subgrants under section 6661d of this title if the State educational agency certifies to the Secretary that the requirements of paragraph (2) have been met and each local educational agency in the State described in subparagraph (B) of such paragraph has demonstrated to the State educational agency that no provider of tutorial assistance described in such subparagraph requested the local educational agency to submit under paragraph (3) an application for a tutorial assistance subgrant.
 
 #### (b) Use of funds
 
@@ -72,7 +72,7 @@
 
 &emsp;&emsp;&emsp;(i) give priority to children who are determined, through State or local reading assessments, to be most in need of tutorial assistance; and
 
-&emsp;&emsp;&emsp;(ii) give priority, in cases where children are determined, through State or local reading assessments, to be equally in needof tutorial assistance, based on a random selection principle.
+&emsp;&emsp;&emsp;(ii) give priority, in cases where children are determined, through State or local reading assessments, to be equally in need of tutorial assistance, based on a random selection principle.
 
 &emsp;&emsp;(F) The development of a methodology by which payments are made directly to tutorial assistance providers who are identified and selected pursuant to this section and selected for funding. Such methodology shall include the making of a contract, consistent with State and local law, between the provider and the local educational agency. Such contract shall satisfy the following requirements:
 

@@ -12,7 +12,7 @@ Insurance and Reinsurance.—(1) Subject to subsection (b) of this section and s
 
 (b)
 
-Presidential Approval.—The Secretary may provide insurance or reinsurance under subsection (a) of this section only with the approval of the President. The President may approve the insurance or reinsurance only after decidingthat the continued operation of the American aircraft or foreign-flag aircraft to be insured or reinsured is necessary to carry out the foreign policy of the United States Government.
+Presidential Approval.—The Secretary may provide insurance or reinsurance under subsection (a) of this section only with the approval of the President. The President may approve the insurance or reinsurance only after deciding that the continued operation of the American aircraft or foreign-flag aircraft to be insured or reinsured is necessary to carry out the foreign policy of the United States Government.
 
 (c)
 

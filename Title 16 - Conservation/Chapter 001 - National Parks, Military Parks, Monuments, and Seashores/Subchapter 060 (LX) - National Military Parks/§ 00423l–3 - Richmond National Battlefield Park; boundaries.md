@@ -1,0 +1,16 @@
+### §423<i>l</i>–3. Richmond National Battlefield Park; boundaries
+
+#### (a) Establishment and purpose
+
+For the purpose of protecting, managing, and interpreting the resources associated with the Civil War battles in and around the City of Richmond, Virginia, there is established the Richmond National Battlefield Park consisting of approximately 7,307 acres of land, as generally depicted on the map entitled “Richmond National Battlefield Park Boundary Revision”, numbered 367N.E.F.A.80026A, and dated September 2000. The map shall be on file in the appropriate offices of the National Park Service.
+
+#### (b) Boundary adjustments
+
+The Secretary may make minor adjustments in the boundaries of the battlefield park consistent with section 460<i>l</i>–9(c) of this title.
+
+(Pub. L. 106–511, title V, §503, Nov. 13, 2000, 114 Stat. 2374.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 423<i>l</i>–1, 423<i>l</i>–2, 423<i>l</i>–4, 423<i>l</i>–5, 423<i>l</i>–6 of this title.
+

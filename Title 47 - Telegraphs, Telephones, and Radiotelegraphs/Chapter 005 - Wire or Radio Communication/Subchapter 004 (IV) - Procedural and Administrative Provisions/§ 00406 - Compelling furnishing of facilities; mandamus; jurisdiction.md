@@ -4,9 +4,3 @@ The district courts of the United States shall have jurisdiction upon the relati
 
 (June 19, 1934, ch. 652, title IV, §406, 48 Stat. 1095.)
 
-#### Federal Rules of Civil Procedure
-
-Application, see rule 81, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-Effect of rules on this section, see note by Advisory Committee under rule 81.
-

@@ -2,7 +2,7 @@
 
 #### (a) Basis for apportionment
 
-The amounts appropriated and made available for grants to the States for the purposes this <sup>1</sup> subchapter shall be apportioned among the States by the Secretary on the basis of needs as determined by him.
+The amounts appropriated and made available for grants to the States for the purposes of this subchapter shall be apportioned among the States by the Secretary on the basis of needs as determined by him.
 
 #### (b) Basis; notification to State; reapportionment
 
@@ -18,9 +18,11 @@ A minimum of 10 per centum of the annual apportionment distributed by the Secret
 
 The Secretary shall establish guidelines for the use and distribution of funds under subsection (c) of this section to insure that no local government receives a disproportionate share of the funds available, and may include a maximum or minimum limitation on the amount of funds distributed to any single local government. The guidelines shall not limit the ability of any State to distribute more than 10 per centum of its annual apportionment under subsection (c) of this section, nor shall the Secretary require any State to exceed the 10 per centum minimum distribution to local governments.
 
-(Pub. L. 89–665, title I, §103, Oct. 15, 1966, 80 Stat. 916; Pub. L. 94–422, title II, §201(2), Sept. 28, 1976, 90 Stat. 1319; Pub. L. 96–515, title II, §203, Dec. 12, 1980, 94 Stat. 2993; Pub. L. 102–575, title XL, §4010, Oct. 30, 1992, 106 Stat. 4759.)
+(Pub. L. 89–665, title I, §103, Oct. 15, 1966, 80 Stat. 916; Pub. L. 94–422, title II, §201(2), Sept. 28, 1976, 90 Stat. 1319; Pub. L. 96–515, title II, §203, Dec. 12, 1980, 94 Stat. 2993; Pub. L. 102–575, title XL, §4010, Oct. 30, 1992, 106 Stat. 4759; Pub. L. 106–208, §5(a)(6), May 26, 2000, 114 Stat. 318.)
 
 #### Amendments
+
+2000—Subsec. (a). Pub. L. 106–208 substituted “purposes of this subchapter” for “purposes this subchapter” and “determined by him.” for “determined by him:.”.
 
 1992—Subsec. (a). Pub. L. 102–575, §4010(1), substituted “for the purposes this subchapter” for “for comprehensive statewide historic surveys and plans under this subchapter”.
 
@@ -30,11 +32,9 @@ Subsec. (b). Pub. L. 102–575, §4010(2), (3), substituted “as the Secretary 
 
 Subsecs. (c), (d). Pub. L. 96–515, §203(b), added subsecs. (c) and (d).
 
-1976—Subsec. (a). Pub. L. 94–422 struck out proviso that amount granted to any one State shall not exceed 50 per centum of total cost of comprehensive statewide historic survey and plan for that State, as determined by Secretary.
+1976—Subsec. (a). Pub. L. 94–422, which directed amendment of subsec. (a) by deleting “Provided, however, That the amount granted to any one State shall not exceed 50 per centum of the total cost of the comprehensive statewide historic survey and plan for that State, as determined by the Secretary,” after “determined by him:”, was executed by deleting the quotedlanguage, which did not contain a comma after “Secretary”, to reflect the probable intent of Congress.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in section 470a of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “of this”.</i>
 

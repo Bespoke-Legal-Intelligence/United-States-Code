@@ -36,7 +36,7 @@ The State plan shall include—
 
 &emsp;&emsp;(ii) other activities authorized under this chapter;
 
-&emsp;&emsp;(iii) programs authorized under the Wagner-Peyser Act (29 U.S.C. 49 et seq.), title II of this Act \[20 U.S.C. 9201 et seq.\], title I of the Rehabilitation Act of 1973 (29 U.S.C. 720 et seq.), part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.), and section 6(d)(4) of the Food Stamp Act of 1977 (7 U.S.C. 2015(d)(4)), activities authorized under title V of the Older Americans Act of 1965 (42 U.S.C. 3056 et seq.), and postsecondary vocational education activities authorized underthe Carl D. Perkins Vocational and Applied Technology Education Act (20 U.S.C. 2301 et seq.);
+&emsp;&emsp;(iii) programs authorized under the Wagner-Peyser Act (29 U.S.C. 49 et seq.), title II of this Act \[20 U.S.C. 9201 et seq.\], title I of the Rehabilitation Act of 1973 (29 U.S.C. 720 et seq.), part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.), and section 6(d)(4) of the Food Stamp Act of 1977 (7 U.S.C. 2015(d)(4)), activities authorized under title V of the Older Americans Act of 1965 (42 U.S.C. 3056 et seq.), and postsecondary vocational education activities authorized under the Carl D. Perkins Vocational and Applied Technology Education Act (20 U.S.C. 2301 et seq.);
 
 &emsp;&emsp;(iv) work programs authorized under section 6(<i>o</i>) of the Food Stamp Act of 1977 (7 U.S.C. 2015(<i>o</i>));
 
@@ -126,7 +126,7 @@ The Rehabilitation Act of 1973, referred to in subsec. (b)(8)(A)(iii), is Pub. L
 
 The Social Security Act, referred to in subsec. (b)(8)(A)(iii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Older Americans Act of 1965, referred to in subsec. (b)(8)(A)(iii), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, as amended. Title V of the Act, known as the “Older Americans Community Services Employment Act”, is classified generally to subchapter IX (§3056 et seq.) of chapter 35 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of Title 42 and Tables.
+The Older Americans Act of 1965, referred to in subsec. (b)(8)(A)(iii), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, as amended. Title V of the Act, known as the Older American Community Service Employment Act, is classified generally to subchapter IX (§3056 et seq.) of chapter 35 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of Title 42 and Tables.
 
 The Carl D. Perkins Vocational and Applied Technology Education Act, referred to in subsec. (b)(8)(A)(iii), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which was classified generally to chapter 44 (§2301 et seq.) of Title 20, Education, prior to being amended generally and renamed the Carl D. Perkins Vocational and Technical Education Act of 1998 by Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3076. For complete classification of Pub. L. 88–210 to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
 

@@ -62,7 +62,7 @@ Changes in arrangement and phraseology were made.
 
 #### Amendments
 
-1970—Subsec. (b)(1). Pub. L. 91–272 provided for holding court at Richmond.
+<b>1970</b>—Subsec. (b)(1). Pub. L. 91–272 provided for holding court at Richmond.
 
-1954—Subsec. (a)(3). Act Feb. 10, 1954, provided for holding court at Lafayette.
+<b>1954</b>—Subsec. (a)(3). Act Feb. 10, 1954, provided for holding court at Lafayette.
 

@@ -16,7 +16,7 @@ Pennsylvania is divided into three judicial districts to be known as the Eastern
 
 ### Western District
 
-(c) The Western District comprises the counties of Allegheny, Armstrong, Beaver, Bedford,Blair, Butler, Cambria, Clarion, Clearfield, Crawford, Elk, Erie, Fayette, Forest, Greene, Indiana, Jefferson, Lawrence, McKean, Mercer, Somerset, Venango, Warren, Washington, and Westmoreland.
+(c) The Western District comprises the counties of Allegheny, Armstrong, Beaver, Bedford, Blair, Butler, Cambria, Clarion, Clearfield, Crawford, Elk, Erie, Fayette, Forest, Greene, Indiana, Jefferson, Lawrence, McKean, Mercer, Somerset, Venango, Warren, Washington, and Westmoreland.
 
 &emsp;&emsp;Court for the Western District shall be held at Erie, Johnstown, and Pittsburgh.
 
@@ -42,15 +42,15 @@ By Senate amendment to the bill, Blair County was transferred from the Middle Di
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–277, §101(b) \[title VI, §624(a)(1)\], substituted “and Philadelphia” for “Philadelphia, and Schuylkill”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–277, §101(b) \[title VI, §624(a)(1)\], substituted “and Philadelphia” for “Philadelphia, and Schuylkill”.
 
 Subsec. (b). Pub. L. 105–277, §101(b) \[title VI, §624(a)(2)\], inserted “Schuylkill,” after “Potter,”.
 
-1992—Subsec. (a). Pub. L. 102–396 inserted “Lancaster,” before “Reading”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–396 inserted “Lancaster,” before “Reading”.
 
-1978—Subsec. (c). Pub. L. 95–573 provided for holding court at Johnstown.
+<b>1978</b>—Subsec. (c). Pub. L. 95–573 provided for holding court at Johnstown.
 
-1970—Subsec. (a). Pub. L. 91–272 provided for holding court at Allentown and Reading.
+<b>1970</b>—Subsec. (a). Pub. L. 91–272 provided for holding court at Allentown and Reading.
 
 #### Effective Date of 1998 Amendment
 

@@ -56,7 +56,7 @@ Limitation on Obligations.—The Secretary may not incur an obligation under a c
 
 (f)
 
-Notification Required for Transfers.—A transfer of appropriated amounts to a Fund under paragraph (1)(B) or (2)(B) of subsection (c) may be made only after the end of the 30-day period beginning on the date the Secretary of Defense submits written notice of, and justification for, the transfer to the appropriate committees of Congress.
+Notification Required for Transfers.—A transfer of appropriated amounts to a Fundunder paragraph (1)(B) or (2)(B) of subsection (c) may be made only after the end of the 30-day period beginning on the date the Secretary of Defense submits written notice of, and justification for, the transfer to the appropriate committees of Congress.
 
 (g)
 

@@ -1,6 +1,6 @@
 ### §5905. Comprehensive plan and implementing program for energy research, development, and demonstration; transmission to Congress; purposes; scope of program; comprehensive environment and safety program implementing plan; development and transmission to Congress
 
-(a) Pursuant to the authority and directions of this chapter and the Energy Reorganization Act of 1974 (Public Law 93–438) \[42 U.S.C. 5801 et seq.\], the Department of Energy Organization Act (42 U.S.C. 7101 et seq.), and titles XX through XXIII of the Energy Policy Act of 1992 \[42 U.S.C. 13401 et seq., 13451 et seq., 13501 et seq., 13521 et seq.\], the Secretary, in consultation with the Advisory Board established under section 2302 of the Energy Policy Act of 1992 \[42 U.S.C. 13522\], shall transmit to the Congress, on or before June 30, 1975, a comprehensive plan for energy research, development, and demonstration. This plan shall be appropriately revised annually as provided in section 5914(a) of this title. Such plan shall be designed to achieve—
+(a) Pursuant to the authority and directions of this chapter and the Energy Reorganization Act of 1974 (Public Law 93–438) \[42 U.S.C. 5801 et seq.\], the Department of Energy Organization Act (42 U.S.C. 7101 et seq.), and titles XX through XXIII of the Energy Policy Act of 1992 \[42 U.S.C. 13401 et seq., 13451 et seq., 13501 et seq., 13521 et seq.\], the Secretary, in consultation with the Advisory Board established under section 2302 of the Energy Policy Act of 1992 \[42 U.S.C. 13522\], shall transmit to the Congress, on or before June 30, 1975, a comprehensive plan for energy research, development, and demonstration. This plan shall be appropriately revised annually as provided in section 5914(a) <sup>1</sup> of this title. Such plan shall be designed to achieve—
 
 &emsp;(1) solutions to immediate and short-term (the period up to 5 years after submission of the plan or its annual revision) energy supply system and associated environmental problems;
 
@@ -8,7 +8,7 @@
 
 &emsp;(3) solutions to long-term (the period beyond 10 years after submission of the plan or its annual revision) energy supply system and associated environmental problems.
 
-(b)(1) Based on the comprehensive energy research, development, and demonstration plandeveloped under subsection (a) of this section, the Secretary, in consultation with the Advisory Board established under section 2302 of the Energy Policy Act of 1992 \[42 U.S.C. 13522\], shall develop and transmit to the Congress, on or before June 30, 1975, a comprehensive nonnuclear energy research, development, and demonstration program to implement the nonnuclear research, development, and demonstration aspects of the comprehensive plan. Such program shall be updated and transmitted to the Congress annually as part of the report required under section 5914 of this title.
+(b)(1) Based on the comprehensive energy research, development, and demonstration plan developed under subsection (a) of this section, the Secretary, in consultation with the Advisory Board established under section 2302 of the Energy Policy Act of 1992 \[42 U.S.C. 13522\], shall develop and transmit to the Congress, on or before June 30, 1975, a comprehensive nonnuclear energy research, development, and demonstrationprogram to implement the nonnuclear research, development, and demonstration aspects of the comprehensive plan. Such program shall be updated and transmitted to the Congress annually as part of the report required under section 5914 <sup>1</sup> of this title.
 
 (2) This program shall be designed to achieve solutions to the energy supply and associated environmental problems in the immediate and short-term, middle-term, and long-term time intervals described in subsection (a)(1) through (3) of this section. In formulating the nonnuclear aspects of this program, the Secretary, in consultation with the Advisory Board established under section 2302 of the Energy Policy Act of 1992 \[42 U.S.C. 13522\], shall evaluate the economic, environmental, and technological merits of each aspect of the program.
 
@@ -60,7 +60,7 @@
 
 &emsp;(S) to implement titles XX through XXIII of the Energy Policy Act of 1992 \[42 U.S.C. 13401 et seq., 13451 et seq., 13501 et seq., 13521 et seq.\].
 
-(c) Based upon the comprehensive plan developed under subsection (a) of this section, the Secretary, in consultation with the Advisory Board established under section 2302 of the Energy Policy Act of 1992 \[42 U.S.C. 13522\], shall develop and transmit to the Congress, on or before September 1, 1978, a comprehensive environment and safety program to insure the full consideration and evaluation of all environmental, health, and safety impacts of each element, program, or initiative contained in the nuclear and nonnuclear energy research, development, and demonstration plans. Such program shall be updated and transmitted to the Congress annually as part of the report required under section 5914 of this title.
+(c) Based upon the comprehensive plan developed under subsection (a) of this section, the Secretary, in consultation with the Advisory Board established under section 2302 of the Energy Policy Act of 1992 \[42 U.S.C. 13522\], shall develop and transmit to the Congress, on or before September 1, 1978, a comprehensive environment and safety program to insure the full consideration and evaluation of all environmental, health, and safety impacts of each element, program, or initiative contained in the nuclear and nonnuclear energy research, development, and demonstration plans. Such program shall be updated and transmitted to the Congress annually as part of the report required under section 5914 <sup>1</sup> of this title.
 
 (Pub. L. 93–577, §6, Dec. 31, 1974, 88 Stat. 1881; Pub. L. 95–91, title III, §301(a), title VII, §§703, 707, Aug. 4, 1977, 91 Stat. 577, 606, 607; Pub. L. 95–238, title II, §206(a), Feb. 25, 1978, 92 Stat. 61; Pub. L. 102–486, title XXIII, §2303(a), Oct. 24, 1992, 106 Stat. 3092.)
 
@@ -71,6 +71,8 @@ The Energy Reorganization Act of 1974, referred to in subsec. (a), is Pub. L. 93
 The Department of Energy Organization Act, referred to in subsec. (a), is Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, as amended, which is classified principally to chapter 84 (§7101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
 
 The Energy Policy Act of 1992, referred to in subsecs. (a) and (b)(3)(S), is Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2776. Titles XX through XXIII of the Act are classified generally to subchapters VIII (§13401 et seq.), IX (§13451 et seq.), X (§13501 et seq.), and XI (§13521 et seq.), respectively, of chapter 134 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 13201 of this title and Tables.
+
+Section 5914 of this title, referred to in subsecs. (a), (b)(1), and (c), was omitted from the Code.
 
 The Solar Heating and Cooling Act of 1974, referred to in subsec. (b)(3), probably means the Solar Heating and Cooling Demonstration Act of 1974, Pub. L. 93–409, Sept. 3, 1974, 88 Stat. 1069, as amended, which is classified generally to subchapter I (§5501 et seq.) of chapter 71 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5501 of this title and Tables.
 
@@ -116,5 +118,7 @@ Nonapplicability of provisions of title II of Pub. L. 95–238 with respect to a
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5914, 12006, 13522 of this title; title 15 section 2709.
+This section is referred to in sections 12006, 13522 of this title; title 15 section 2709.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

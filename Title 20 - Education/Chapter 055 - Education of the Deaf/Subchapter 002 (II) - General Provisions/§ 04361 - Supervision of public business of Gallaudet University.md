@@ -10,8 +10,6 @@ Section was not enacted as part of the Education of the Deaf Act of 1986, which 
 
 Section was formerly classified to section 691h of this title.
 
-Section is also set out in D.C. Code, §31–1803.
-
 #### Change of Name
 
 Pursuant to section 101(a) of Pub. L. 99–371, which is classified to section 4301(a) of this title, “Gallaudet University” was substituted in text for “Gallaudet College” which had been substituted in text for “Columbia Institution for the Deaf” pursuant to section 1 of act June 18, 1954, which was formerly classified to section 691 of this title. Previously, act Mar. 4, 1911, ch. 285, 36 Stat. 1422, had redesignated the “Columbia Institution for the Deaf and Dumb” as the “Columbia Institution for the Deaf”.

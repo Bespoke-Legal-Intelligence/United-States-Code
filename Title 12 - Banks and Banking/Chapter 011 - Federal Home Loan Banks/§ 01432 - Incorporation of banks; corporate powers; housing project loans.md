@@ -18,15 +18,11 @@ Subsec. (b). Pub. L. 106–102, §606(d)(2), substituted “Federal home loan ba
 
 1989—Subsec. (a). Pub. L. 101–73 substituted “Board” for “board” wherever appearing.
 
-1970—Subsec. (b). Pub. L. 91–609 extended authority to make housing project loans to acquisition, holding, and disposition of loans, or interest therein, having benefit of any guaranty under section 2181 or 2182 of title 22 or such sections as hereafter amended or extended, or of any commitment or agreement for any such guaranty.
+1970—Subsec. (b). Pub. L. 91–609 extended authority to make housing project loans to acquisition, holding, anddisposition of loans, or interest therein, having benefit of any guaranty under section 2181 or 2182 of title 22 or such sections as hereafter amended or extended, or of any commitment or agreement for any such guaranty.
 
 1968—Pub. L. 90–448 designated existing provisions as subsec. (a) and added subsec. (b).
 
 1966—Pub. L. 89–754 substituted “but, except with the prior approval of the board, no bank building shall be bought or erected to house any such bank, or leased by such bank under any lease” for “but no bank building shall be bought or erected to house any such bank, nor shall any such bank make any lease” in second sentence.
-
-#### Cross References
-
-Punishment for use of words “Federal Home Loan Bank”, see section 709 of Title 18, Crimes and Criminal Procedure.
 
 #### Section Referred to in Other Sections
 

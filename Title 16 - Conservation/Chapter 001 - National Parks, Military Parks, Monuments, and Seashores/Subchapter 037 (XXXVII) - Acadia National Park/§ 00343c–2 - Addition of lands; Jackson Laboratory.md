@@ -22,7 +22,7 @@ Beginning at a stone bound set in the ground in the southerly side of State High
 
 &emsp;thence north 22 degrees 40 minutes west and always following a northeasterly line of land of the United States of America, 460 feet to an iron pin in the ledge;
 
-&emsp;thence north 14 degrees 05 minutes west and always following an easterly line of land of the United States of America, 281.7 feet to the point of beginning, and containing 4.828 acres.
+&emsp;thence north 14 degrees 05 minutes west and always following an easterly line of land of theUnited States of America, 281.7 feet to the point of beginning, and containing 4.828 acres.
 
 > Said land, upon acceptance of title thereto, shall become a part of the Acadia National Park.
 

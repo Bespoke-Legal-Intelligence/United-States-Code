@@ -78,7 +78,7 @@ The remainder of said section 753b of title 18, U.S.C., 1940 ed., is incorporate
 
 #### References in Text
 
-Section 170101(a)(3) of the Violent Crime Control and Law Enforcement Act of 1994, referred to in subsec.\(c)(3), is classified to section 14071(a)(3) of Title 42, The Public Health and Welfare.
+Section 170101(a)(3) of the Violent Crime Control and Law Enforcement Act of 1994, referred to in subsec. (c)(3), is classified to section 14071(a)(3) of Title 42, The Public Health and Welfare.
 
 #### Amendments
 
@@ -95,6 +95,10 @@ Subsecs. (c), (d). Pub. L. 105–119, §115(a)(8)(A)(iv), added subsec. (c) and 
 #### Effective Date of 1997 Amendment
 
 Amendment by Pub. L. 105–119 effective 1 year after Nov. 26, 1997, see section 115(c)(1) of Pub. L. 105–119, set out as a note under section 14071 of Title 42, The Public Health and Welfare.
+
+#### Reimbursement for Certain Expenses Outside of Federal Institutions
+
+Pub. L. 106–553, §1(a)(2) \[title I\], Dec. 21, 2000, 114 Stat. 2762, 2762A–55, provided in part: “That hereafter amounts appropriated for Federal Prisoner Detention shall be available to reimburse the Federal Bureau of Prisons for salaries and expenses of transporting, guarding and providing medical care outside of Federal penal and correctional institutions to prisoners awaiting trial or sentencing.”
 
 #### Guidelines for States Regarding Infectious Diseases in Correctional Institutions
 
@@ -121,10 +125,6 @@ Pub. L. 100–690, title VII, §7302, Nov. 18, 1988, 102 Stat. 4463, provided th
 &emsp;“(2) establishing and regulating drug treatment programs for inmates held in such facilities in coordination and cooperation with the National Institute on Drug Abuse; and
 
 &emsp;“(3) establishing and managing work programs in accordance with guidelines under the Bureau of Prisons for persons held in such facilities and in cooperation with the installation commander.”
-
-#### Cross References
-
-Expenses of transportation of prisoners, see section 4008 of this title.
 
 #### Section Referred to in Other Sections
 

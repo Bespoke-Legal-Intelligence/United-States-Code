@@ -36,13 +36,13 @@ The Secretary, through the Under Secretary, as appropriate, shall—
 
 &emsp;(7) identify technological needs, problems, and opportunities within and across industrial sectors that, if addressed, could make a significant contribution to the economy of the United States;
 
-&emsp;(8) assess whether the capital, technical and other resources being allocated to domestic industrial sectors which are likely to generatenew technologies are adequate to meet private and social demands for goods and services and to promote productivity and economic growth;
+&emsp;(8) assess whether the capital, technical and other resources being allocated to domestic industrial sectors which are likely to generate new technologies are adequate to meet private and social demands for goods and services and to promote productivity and economic growth;
 
 &emsp;(9) propose and support studies and policy experiments, in cooperation with other Federal agencies, to determine the effectiveness of measures with the potential of advancing United States technological innovation;
 
 &emsp;(10) provide that cooperative efforts to stimulate industrial innovation be undertaken between the Under Secretary and other officials in the Department of Commerce responsible for such areas as trade and economic assistance;
 
-&emsp;(11) encourage and assist the creation of centers and other joint initiatives by State of <sup>1</sup> local governments, regional organizations, private businesses, institutions of higher education, nonprofit organizations, or Federal laboratories to encourage technology transfer, to stimulate innovation, and to promote an appropriate climate for investment in technology-related industries;
+&emsp;(11) encourage and assist the creation of centers and other joint initiatives by State or local governments, regional organizations, private businesses, institutions of higher education, nonprofit organizations, or Federal laboratories to encourage technology transfer, to stimulate innovation, and to promote an appropriate climate for investment in technology-related industries;
 
 &emsp;(12) propose and encourage cooperative research involving appropriate Federal entities, State or local governments, regional organizations, colleges or universities, nonprofit organizations, or private industry to promote the common use of resources, to improve training programs and curricula, to stimulate interest in high technology careers, and to encourage the effective dissemination of technology skills within the wider community;
 
@@ -158,7 +158,7 @@ The Secretary, through the Under Secretary, as appropriate, shall—
 
 &emsp;&emsp;&emsp;(vi) the evaluation criteria with respect to which the overall management and effectiveness of the program will be evaluated.
 
-(Pub. L. 96–480, §5, Oct. 21, 1980, 94 Stat. 2312; Pub. L. 99–382, §2, Aug. 14, 1986, 100 Stat. 811; Pub. L. 99–502, §9(b)(3)–(5), (e)(2)(A), Oct. 20, 1986, 100 Stat. 1795, 1797; Pub. L. 100–519, title II, §201(a)–(c), (d)(2), Oct. 24, 1988, 102 Stat. 2593, 2594; Pub. L. 102–245, title III, §306, Feb. 14, 1992, 106 Stat. 20; Pub. L. 105–309, §9, Oct. 30, 1998, 112 Stat. 2938.)
+(Pub. L. 96–480, §5, Oct. 21, 1980, 94 Stat. 2312; Pub. L. 99–382, §2, Aug. 14, 1986, 100 Stat. 811; Pub. L. 99–502, §9(b)(3)–(5), (e)(2)(A), Oct. 20, 1986, 100 Stat. 1795, 1797; Pub. L. 100–519, title II, §201(a)–(c), (d)(2), Oct. 24, 1988, 102 Stat. 2593, 2594; Pub. L. 102–245, title III, §306, Feb. 14, 1992, 106 Stat. 20; Pub. L. 105–309, §9, Oct. 30, 1998, 112Stat. 2938; Pub. L. 106–404, §7(3), Nov. 1, 2000, 114 Stat. 1745.)
 
 #### References in Text
 
@@ -169,6 +169,8 @@ The Metric Conversion Act of 1975, referred to in subsec. (c)(4), is Pub. L. 94�
 Subsec. (e) of this section, which required Secretary to prepare and submit to President and Congress, within 3 years after Oct. 21, 1980, a report on progress, findings, and conclusions of activities conducted pursuant to this section and sections 3705, 3707, 3710, 3711, and 3712 of this title (as then in effect) and recommendations for possible modifications thereof, was omitted from the Code.
 
 #### Amendments
+
+2000—Subsec. (c)(11). Pub. L. 106–404 substituted “State or local governments” for “State of local governments”.
 
 1998—Subsec. (f). Pub. L. 105–309 added subsec. (f).
 
@@ -215,6 +217,4 @@ Section 201(f) of Pub. L. 100–519, as added by Pub. L. 100–685, title II, §
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 3703, 3713 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “or”.</i>
 

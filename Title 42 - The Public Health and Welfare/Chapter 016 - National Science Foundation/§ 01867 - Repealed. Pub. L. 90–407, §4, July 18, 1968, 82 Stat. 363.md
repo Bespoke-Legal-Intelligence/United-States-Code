@@ -4,5 +4,5 @@ Section, act May 10, 1950, ch. 171, §8, 64 Stat. 152, authorized a committee fo
 
 #### Continuation of Existing Offices, Procedures, and Organization of the National Science Foundation
 
-Amendment by Pub. L. 90–407 intended to continue in effect the existing offices, procedures, and organizationof the Foundation, see section 16 of Pub. L. 90–407, set out as a note under section 1862 of this title.
+Amendment by Pub. L. 90–407 intended to continue in effect the existing offices, procedures, and organization of the Foundation, see section 16 of Pub. L. 90–407, set out as a note under section 1862 of this title.
 

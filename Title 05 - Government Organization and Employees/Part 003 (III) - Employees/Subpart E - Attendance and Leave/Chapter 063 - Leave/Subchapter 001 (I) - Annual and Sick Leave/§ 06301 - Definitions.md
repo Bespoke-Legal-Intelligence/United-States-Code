@@ -92,7 +92,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### References in Text
 
-Section 102(a)(3) of the Foreign Service Act of 1980, referred to in par. (2)(xii), was redesignated section102(3) of that Act by Pub. L. 98–164, which struck out the designation “(a)” and struck out subsec. (b) of section 102. Section 102 is classified to section 3902 of Title 22, Foreign Relations and Intercourse.
+Section 102(a)(3) of the Foreign Service Act of 1980, referred to in par. (2)(xii), was redesignated section 102(3) of that Act by Pub. L. 98–164, which struck out the designation “(a)” and struck out subsec. (b) of section 102. Section 102 is classified to section 3902 of Title 22, Foreign Relations and Intercourse.
 
 Section 312 of the Foreign Service Act of 1980, referred to in text, is classified to section 3952 of Title 22.
 
@@ -150,17 +150,11 @@ Pub. L. 100–566, §1, Oct. 31, 1988, 102 Stat. 2834, provided that: “This Ac
 
 #### Employees of the District of Columbia
 
-Pub. L. 99–335, title II, §207(c)(2), as added by Pub. L. 99–556, title II, §201, Oct. 27, 1986, 100 Stat. 3135, provided that: “The amendment made by paragraph (1) \[amending this section\] shall not result in the coverage, under subchapter I of chapter 63 of title 5, United States Code, of any individual (or class of individuals) employed by the government of the District of Columbia who would not have been covered under such subchapter if such amendment had not been made.”
+Pub. L. 99–335, title II, §207(c)(2), as added by Pub. L. 99–556, title II, §201, Oct. 27, 1986, 100 Stat. 3135, providedthat: “The amendment made by paragraph (1) \[amending this section\] shall not result in the coverage, under subchapter I of chapter 63 of title 5, United States Code, of any individual (or class of individuals) employed by the government of the District of Columbia who would not have been covered under such subchapter if such amendment had not been made.”
 
 #### Executive Order No. 10540
 
 Ex. Ord. No. 10540, June 29, 1954, 19 F.R. 3983, which related to the designation of certain officers as exempt from the Annual and Sick Leave Act of 1951, was revoked by section 2–201 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out as a note under section 1101 of this title.
-
-#### Cross References
-
-Leave, members of armed forces, entitlement and accumulation, see section 701 et seq. of Title 10, Armed Forces.
-
-Leaves of absence in United States to personnel of Department of Veterans Affairs assigned to the Republic of the Philippines, see section 707 of Title 38, Veterans’ Benefits.
 
 #### Section Referred to in Other Sections
 

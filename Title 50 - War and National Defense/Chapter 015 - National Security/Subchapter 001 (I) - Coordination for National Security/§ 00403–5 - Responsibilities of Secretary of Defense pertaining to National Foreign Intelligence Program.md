@@ -76,6 +76,10 @@ Subsec. (d). Pub. L. 104–293, §808(2), added subsec. (d).
 
 Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 1124 of Pub. L. 104–201, set out as a note under section 193 of Title 10, Armed Forces.
 
+#### Role of Director of Central Intelligence in Experimental Personnel Program for Certain Scientific and Technical Personnel
+
+Pub. L. 106–567, title V, §501, Dec. 27, 2000, 114 Stat. 2850, provided that: “If the Director of Central Intelligence requests that the Secretary of Defense exercise any authority available to the Secretary under section 1101(b) of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 (Public Law 105–261; 5 U.S.C. 3104 note) to carry out a program of special personnel management authority at the National Imagery and Mapping Agency and the National Security Agency in order to facilitate recruitment of eminent experts in science and engineering at such agencies, the Secretary shall respond to such request not later than 30 days after the date of such request.”
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 411 of this title.

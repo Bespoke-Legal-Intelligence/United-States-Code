@@ -120,7 +120,7 @@ Upon the request of the Committee, the National Trust shall provide to the Commi
 
 #### (j) Relationship to other law
 
-The Federal Advisory Committee Act (5 U.S.C. App.) shall apply to the Committee, except thatmeetings of the Committee may be closed to the public by majority vote and section 14(b) of that Act does not apply to the Committee.
+The Federal Advisory Committee Act (5 U.S.C. App.) shall apply to the Committee, except that meetings of the Committee may be closed to the public by majority vote and section 14(b) of that Act does not apply to the Committee.
 
 #### (k) Termination
 

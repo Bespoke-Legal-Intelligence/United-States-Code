@@ -14,34 +14,6 @@ Section 502(a) \[subsec. (a) of this section\] reasserts the discretionary power
 
 Under subsection (b), which is the counterpart of provisions in sections 112 and 113 of the present statute \[sections 112 and 113 of former title 17\], a copyright owner who has obtained an injunction in one State will be able to enforce it against a defendant located anywhere else in the United States.
 
-#### Federal Rules of Civil Procedure
-
-Injunctions, generally, see rule 65, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-Security—
-
-&emsp;&emsp;Upon granting injunction pending appeal, see rule 62.
-
-&emsp;&emsp;Upon granting preliminary injunction, see rule 65.
-
-Territorial extent of effective service of process, see rule 4.
-
-#### Federal Forms of Civil Procedure
-
-Form of complaint for injunction and damages, see form 17, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-#### Cross References
-
-Acts of infringement—
-
-&emsp;&emsp;Making and distributing phonorecords, see section 115 of this title.
-
-&emsp;&emsp;Secondary transmission of primary transmission, see section 111 of this title.
-
-Power of court to punish for contempt for disobedience to decrees or orders, see section 401 of Title 18, Crimes and Criminal Procedure.
-
-Works consisting of sounds, image, or both, the first fixation of which is made simultaneously with its transmission, as subject to this section, although not yet registered, see section 411 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 109, 111, 115, 119, 122, 411, 510, 512, 1101 of this title.

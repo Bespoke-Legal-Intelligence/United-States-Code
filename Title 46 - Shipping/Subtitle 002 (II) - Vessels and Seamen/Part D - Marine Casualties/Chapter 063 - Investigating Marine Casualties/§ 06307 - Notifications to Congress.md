@@ -22,9 +22,13 @@ Historical and Revision Notes
 
 Subsection (a) requires the Secretary to notify the Merchant Marine and Fisheries Committee and the Senate Commerce Committee in advance of any hearing concerning a major marine accident (as defined by regulation) where there has been a loss of life.
 
-Subsection (b) requires the Coast Guard to supply the Merchant Marine and Fisheries Committee and theSenate Commerce Committee with any requested marine casualty information, if its release is not specifically prohibited by law.
+Subsection (b) requires the Coast Guard to supply the Merchant Marine and Fisheries Committee and the Senate Commerce Committee with any requested marine casualty information, if its release is not specifically prohibited by law.
 
 Subsection (c) requires the Secretary to submit an annual report to Congress summarizing the marine casualties reported during the prior fiscal year, with a brief statement of action taken concerning those casualties.
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of reporting provisions in subsec. (c) of this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 10th item on page 136 of House Document No. 103–7.
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 

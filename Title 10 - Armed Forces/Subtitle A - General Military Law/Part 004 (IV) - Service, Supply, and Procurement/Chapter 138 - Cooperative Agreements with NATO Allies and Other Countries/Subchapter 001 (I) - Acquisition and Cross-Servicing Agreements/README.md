@@ -32,7 +32,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 2350c, 2350d of this title.
+This subchapter is referred to in section 2350d of this title.
 
 
 ---

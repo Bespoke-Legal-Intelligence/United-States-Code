@@ -36,9 +36,7 @@ A consumer reporting agency may not prohibit a user of a consumer report furnish
 
 &emsp;&emsp;(A) the identity of the end-user of the report (or information); and
 
-&emsp;&emsp;(B) each permissible purpose under section 1681b of this title
-
-for which the report is furnished to the end-user of the report (or information).
+&emsp;&emsp;(B) each permissible purpose under section 1681b of this title for which the report is furnished to the end-user of the report (or information).
 
 #### (2) Responsibilities of procurers for resale
 

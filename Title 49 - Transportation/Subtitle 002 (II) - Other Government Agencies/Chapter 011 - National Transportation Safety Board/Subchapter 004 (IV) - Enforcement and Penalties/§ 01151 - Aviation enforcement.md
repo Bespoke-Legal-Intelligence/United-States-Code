@@ -2,21 +2,21 @@
 
 (a)
 
-Civil Actions by Board.—The National Transportation Safety Board may bring a civil action in a district court of the United States against a person to enforce section 1132, 1134(b) or (f)(1)(related to an aircraft accident), or 1155(a) of this title or a regulation prescribed or order issued under any of those sections. An action under this subsection may be brought in the judicial district in which the person does business or the violation occurred.
+Civil Actions by Board.—The National Transportation Safety Board may bring a civil action in a district court of the United States against a person to enforce section 1132, 1134(b) or (f)(1) (related to an aircraft accident), 1136(g)(2), or 1155(a) of this title or a regulation prescribed or order issued under any of those sections. An action under this subsection may be brought in the judicial district in which the person does business or the violation occurred.
 
 (b)
 
 Civil Actions by Attorney General.—On request of the Board, the Attorney General may bring a civil action in an appropriate court—
 
-&emsp;(1) to enforce section 1132, 1134(b) or (f)(1)(related to an aircraft accident), or 1155(a) of this title or a regulation prescribed or order issued under any of those sections; and
+&emsp;(1) to enforce section 1132, 1134(b) or (f)(1) (related to an aircraft accident), 1136(g)(2), or 1155(a) of this title or a regulation prescribed or order issued under any of those sections; and
 
 &emsp;(2) to prosecute a person violating those sections or a regulation prescribed or order issued under any of those sections.
 
 (c)
 
-Participation of Board.—On request of the Attorney General, the Board may participate in a civil action to enforce section 1132, 1134(b) or (f)(1)(related to an aircraft accident), or 1155(a) of this title.
+Participation of Board.—On request of the Attorney General, the Board may participate in a civil action to enforce section 1132, 1134(b) or (f)(1) (related to an aircraft accident), 1136(g)(2), or 1155(a) of this title.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 756.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 756; Pub. L. 106–181, title IV, §401(a)(2), Apr. 5, 2000, 114 Stat. 129.)
 
 Historical and Revision Notes
 
@@ -79,4 +79,12 @@ In subsection (a), the words “their duly authorized agents” are omitted as s
 In subsection (b), before clause (1), the words “Attorney General” are substituted for “any district attorney of the United States” in 49 App.:1487(b) because of 28:509. The words “to whom the Board or Secretary of Transportation may apply” are omitted as surplus. The words “may bring a civil action” are substituted for “is authorized to institute . . . all necessary proceedings” for consistency with rule 2 of the Federal Rules of Civil Procedure (28 App. U.S.C.). The words “under the direction of the Attorney General” are omitted as unnecessary because of 28:516. The text of 49 App.:1487(b) (words after last comma) is omitted as obsolete.
 
 In subsection (c), the words “civil action” are substituted for “proceeding in court” for consistency with rule 2 of the Federal Rules of Civil Procedure (28 App. U.S.C.).
+
+#### Amendments
+
+2000—Pub. L. 106–181 inserted “1136(g)(2),” before “or 1155(a)” in subsecs. (a), (b)(1), and (c).
+
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
 

@@ -110,7 +110,7 @@
 
 (B) The period of service represented by an amount of severance pay repaid by an employee under subparagraph (A) shall be considered service for which severance pay has not been received by the employee under this section.
 
-(C) Amounts repaid to an agency under this paragraph shall be credited to the appropriation available for the pay of employees of the agency for the fiscal year in which received. Amountsso credited shall be merged with, and shall be available for the same purposes and the same period as, the other funds in that appropriation.
+(C) Amounts repaid to an agency under this paragraph shall be credited to the appropriation available for the pay of employees of the agency for the fiscal year in which received. Amounts so credited shall be merged with, and shall be available for the same purposes and the same period as, the other funds in that appropriation.
 
 (3) If an employee fails to repay to an agency an amount required to be repaid under paragraph (2)(A), that amount is recoverable from the employee as a debt due the United States.
 
@@ -150,7 +150,7 @@ In subsection (a)(1)(A), the term “Executive agency” is substituted for “t
 
 The definition in subsection (a)(2) continues the application of the section to only civilian officers and employees, and does not encompass members of the uniformed services as they are not “employed” in or under an agency. Throughout the section, the word “officer”, in the phrase “officer or employee”, is omitted as included within “employee”. The last 40 words of 5 App. U.S.C. 1117(a) are codified in subsection (g).
 
-In subsection (a)(2)(i), the words “Executive Schedule” are substituted for “Federal Executive Salary Schedule” to reflect the provisions of 5 U.S.C. 5311. The words “of the General Schedule of the Classification Act of 1949, as amended” are omitted as unnecessary.
+In subsection (a)(2)(i), the words “Executive Schedule” are substituted for “Federal Executive Salary Schedule” to reflect the provisions of 5 U.S.C. 5311. Thewords “of the General Schedule of the Classification Act of 1949, as amended” are omitted as unnecessary.
 
 In subsection (a)(2)(ii), the words “without a break in service of more than 3 days” are coextensive with and substituted for “without a break in service or after a separation of three days or less”.
 
@@ -180,7 +180,7 @@ Subsec. (j). Pub. L. 106–65, §3243, added subsec. (j).
 
 1998—Subsec. (a)(1)(F). Pub. L. 105–275, §308(a)(1), struck out “, but only with respect to the United States Senate Restaurants” after “Capitol”.
 
-Subsec. (a)(2)(viii). Pub. L. 105–275, §§308(a)(2), 309(a)(1)(A), struck out “of the United States SenateRestaurants” after “an employee” and “or” after the semicolon.
+Subsec. (a)(2)(viii). Pub. L. 105–275, §§308(a)(2), 309(a)(1)(A), struck out “of the United States Senate Restaurants” after “an employee” and “or” after the semicolon.
 
 Subsec. (a)(2)(ix), (x). Pub. L. 105–275, §309(a)(1)(B), added cl. (ix) and redesignated former cl. (ix) as (x).
 

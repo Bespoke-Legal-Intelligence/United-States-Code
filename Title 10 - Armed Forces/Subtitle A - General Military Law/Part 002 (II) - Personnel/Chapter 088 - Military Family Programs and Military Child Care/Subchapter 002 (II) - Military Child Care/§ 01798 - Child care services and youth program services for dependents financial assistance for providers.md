@@ -42,7 +42,7 @@ Funding.—To provide financial assistance under this subsection, the Secretary 
 
 (d)
 
-Biennial Report.—(1) Every two years the Secretary of Defense shall submit to Congress a report on the exercise of authority under this section. The report shall include an evaluation of the effectiveness of that authority for meeting the needs of members of the armed forces or employees of the Department of Defense for child care services and youth program services. The report may include any recommendations for legislation that the Secretary considers appropriate to enhance the capability of the Department of Defense to meet those needs.
+Biennial Report.—(1) Every two years the Secretary of Defense shall submit to Congress a report on the exercise of authority under this section. The report shall include an evaluationof the effectiveness of that authority for meeting the needs of members of the armed forces or employees of the Department of Defense for child care services and youth program services. The report may include any recommendations for legislation that the Secretary considers appropriate to enhance the capability of the Department of Defense to meet those needs.
 
 (2) A biennial report under this subsection may be combined with the biennial report under section 1799(d) of this title into a single report for submission to Congress.
 

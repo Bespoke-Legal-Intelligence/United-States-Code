@@ -40,7 +40,7 @@ If the requirements of subsections (c) and (g) of this section are satisfied, th
 
 #### (e) Declaration regarding alterations, priorities, voting power, and other rights of security holders
 
-If the requirements of subsection (g) of this section are satisfied, the Commission shall permit a declaration to become effective regarding the exercise of a privilege or right to alter the priorities, preferences, voting power, or other rights of the holders of an outstanding security unless the Commission finds that such exercise of such privilege or right will result in an unfair or inequitable distribution of voting power among holders of the securities of the declarant or is otherwise detrimental to the public interest or the interest of investors or consumers.
+If the requirements of subsection (g) of this section are satisfied, the Commission shall permit a declaration to become effective regarding the exercise of a privilege or right to alter the priorities, preferences, voting power, or other rights of the holders of an outstanding security unless the Commission finds that such exercise of such privilege or right will result in an unfairor inequitable distribution of voting power among holders of the securities of the declarant or is otherwise detrimental to the public interest or the interest of investors or consumers.
 
 #### (f) Order permitting declaration to become effective
 
@@ -55,12 +55,6 @@ If a State commission or State securities commission, having jurisdiction over a
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
-#### Cross References
-
-Rules and regulations, authority of Commission to make, issue, amend, and rescind, see section 79t of this title.
-
-Unlawful transactions by registered companies except in accordance with declaration effective under this section, see section 79f of this title.
 
 #### Section Referred to in Other Sections
 

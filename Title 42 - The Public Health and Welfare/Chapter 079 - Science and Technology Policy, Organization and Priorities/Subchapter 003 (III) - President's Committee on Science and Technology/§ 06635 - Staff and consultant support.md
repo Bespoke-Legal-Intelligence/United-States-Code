@@ -2,7 +2,7 @@
 
 (a) In the performance of its functions under sections 6633 and 6634 of this title, the Committee is authorized—
 
-&emsp;(1) to select, appoint, employ, and fix the compensation of such specialists and other experts as may be necessary for the carrying out of its duties and functions, and to select, appoint, and employ, subject to the civil servicelaws, such other officers and employees as may be necessary for carrying out its duties and functions; and
+&emsp;(1) to select, appoint, employ, and fix the compensation of such specialists and other experts as may be necessary for the carrying outof its duties and functions, and to select, appoint, and employ, subject to the civil service laws, such other officers and employees as may be necessary for carrying out its duties and functions; and
 
 &emsp;(2) to provide for participation of such civilian and military personnel as may be detailed to the Committee pursuant to subsection (b) of this section for carrying out the functions of the Committee.
 

@@ -16,7 +16,7 @@
 
 #### (b) Appeal to Supreme Court
 
-Notwithstanding any other provision of law, any order of the United States District Court for the District of Columbia which is issued pursuant to an action brought under paragraph (1), (2), or (3) of subsection (a) of this section shall be reviewable by appeal directly to the Supreme Court of the United States. Any such appeal shall be taken by a notice of appeal filed within 10 days after such order is entered; and the jurisdictional statement shall be filed within 30 days after such order is entered. No stay of an orderissued pursuant to an action brought under paragraph (1), (2), or (3) of subsection (a) of this section shall be issued by a single Justice of the Supreme Court.
+Notwithstanding any other provision of law, any order of the United States District Court for the District of Columbia which is issued pursuant to an action brought under paragraph (1), (2), or (3) of subsection (a) of this section shall be reviewable by appeal directly to the Supreme Court of the United States. Any such appeal shall be taken by a notice of appeal filed within 10 days after such order is entered; and the jurisdictional statement shall be filed within 30 days after such order is entered. No stay of an order issued pursuant to an action brought under paragraph (1), (2), or (3) of subsection (a) of this section shall be issued by a single Justice of the Supreme Court.
 
 #### (c) Expedited consideration
 
@@ -24,7 +24,7 @@ It shall be the duty of the District Court for the District of Columbia and the 
 
 #### (d) Noncompliance with sequestration procedures
 
-(1) If it is finally determined by a court of competent jurisdiction that an order issued by the President under section 904 of this title for any fiscal year—
+(1) If it is finally determined by a court of competent jurisdiction that an order issued bythe President under section 904 of this title for any fiscal year—
 
 &emsp;(A) does not reduce automatic spending increases under any program specified in section 906(a) of this title if such increases are required to be reduced by subchapter I of this chapter (or reduces such increases by a greater extent than is so required), or
 

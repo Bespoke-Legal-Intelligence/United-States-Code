@@ -42,7 +42,7 @@ No more than one assessment may be assessed under subsection (a) of this section
 
 &emsp;Except as provided in paragraph (2), assessment rates shall be recommended by the Board and approved by the Secretary, except that the maximum assessment shall not exceed—
 
-&emsp;&emsp;(A) during the period commencing on the effective date of the issuance of a plan and ending on the date the referendum is conducted under section 6011(a) of this title, one-half cent per pound for in-shell pecansas determined by the Board and approved by the Secretary; and
+&emsp;&emsp;(A) during the period commencing on the effective date of the issuance of a plan and ending on the date the referendum is conducted under section 6011(a) of this title, one-half cent per pound for in-shell pecans as determined by the Board and approved by the Secretary; and
 
 &emsp;&emsp;(B) after such period, 2 cents per pound for in-shell pecans.
 

@@ -16,7 +16,3 @@ A prior section 33, act Mar. 3, 1883, ch. 143, 22 Stat. 632, entitled Senators t
 
 Section 112(e) of Pub. L. 97–51 provided that: “The amendments and repeals made by this section \[enacting section 35a of this title and amending this section and sections 39 and 60c–1 of this title\] shall be effective in the case of compensation payable for months after December 1981.”
 
-#### Cross References
-
-Claims for overpayment of pay or allowances to Senators, see section 130c of this title.
-

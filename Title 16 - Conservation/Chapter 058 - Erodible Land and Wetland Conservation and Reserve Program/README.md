@@ -75,6 +75,12 @@ I74subpart a—general provisions
 | (a) | Establishment. |
 | (b) | Administration. |
 | (c) | Conservation priority areas. |
+| [3830a.](Subchapter%20004%20%28IV%29%20-%20Agricultural%20Resources%20Conservation%20Program/Part%20001%20%28I%29%20-%20Environmental%20Conservation%20Acreage%20Reserve%20Program/Subpart%20a%20-%20General%20Provisions/%C2%A7%2003830a%20-%20Good%20faith%20reliance.md) | Good faith reliance. |
+| (a) | In general. |
+| (b) | Types of relief. |
+| (c) | Relation to other law. |
+| (d) | Exception. |
+| (e) | Applicability of relief. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -90,6 +96,7 @@ I74subpart a—general provisions
 | (e) | Duration of contract. |
 | (f) | Conservation priority areas. |
 | (g) | Multi-year grasses and legumes. |
+| (h) | Pilot program for enrollment of wetland and buffer acreage in conservation reserve. |
 | [3832\.](Subchapter%20004%20%28IV%29%20-%20Agricultural%20Resources%20Conservation%20Program/Part%20001%20%28I%29%20-%20Environmental%20Conservation%20Acreage%20Reserve%20Program/Subpart%20b%20-%20Conservation%20Reserve/%C2%A7%2003832%20-%20Duties%20of%20owners%20and%20operators.md) | Duties of owners and operators. |
 | (a) | Terms of contract. |
 | (b) | Conversion plan provisions. |
@@ -287,7 +294,7 @@ I74subpart a—general provisions
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in title 7 sections 1308–3, 1308–4, 6932, 6962, 7334.
+This chapter is referred to in title 7 sections 1308–3, 1308–4, 1515, 6932, 6962, 7334.
 
 
 ---

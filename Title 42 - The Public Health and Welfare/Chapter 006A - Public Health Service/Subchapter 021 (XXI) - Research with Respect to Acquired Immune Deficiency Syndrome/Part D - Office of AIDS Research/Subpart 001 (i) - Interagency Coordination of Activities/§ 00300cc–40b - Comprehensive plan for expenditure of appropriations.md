@@ -36,7 +36,7 @@ With respect to AIDS activities of the agencies of the National Institutes of He
 
 #### (1) Full-funding budget
 
-&emsp;(A) With respect to a fiscal year, the Director of the Office shall prepare and submit directly to the President, for review and transmittal to the Congress, a budget estimate for carrying out the Plan for the fiscal year, after reasonable opportunity for comment (but without change) by the Secretary, the Director of the National Institutes of Health, and the advisory council established under section 300cc–40a of this title. The budget estimateshall include an estimate of the number and type of personnel needs for the Office.
+&emsp;(A) With respect to a fiscal year, the Director of the Office shall prepare and submit directly to the President, for review and transmittal to the Congress, a budget estimate for carrying out the Plan for the fiscal year, after reasonable opportunity for comment (but without change) by the Secretary, the Director of the National Institutes of Health, and the advisory council established under section 300cc–40a of this title. The budget estimate shall include an estimate of the number and type of personnel needs for the Office.
 
 &emsp;(B) The budget estimate submitted under subparagraph (A) shall estimate the amounts necessary for the agencies of the National Institutes of Health to carry out all AIDS activities determined by the Director of the Office to be appropriate, without regard to the probability that such amounts will be appropriated.
 

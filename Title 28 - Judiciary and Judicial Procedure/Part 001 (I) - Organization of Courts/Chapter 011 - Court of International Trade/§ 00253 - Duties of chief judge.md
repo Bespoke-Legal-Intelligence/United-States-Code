@@ -24,17 +24,17 @@ Changes were made in phraseology and arrangement.
 
 #### Amendments
 
-1996—Pub. L. 104–317 struck out “; precedence of judges” after “chief judge” in section catchline and struck out subsecs. (d) and (e) which read as follows:
+<b>1996</b>—Pub. L. 104–317 struck out “; precedence of judges” after “chief judge” in section catchline and struck out subsecs. (d) and (e) which read as follows:
 
 “(d) Whenever the chief judge is unable to perform the duties of his office or the office is vacant, his powers and duties shall devolve upon the judge next in precedence who is able to act, until such disability is removed or another chief judge is appointed and duly qualified.
 
 “(e) The chief judge shall have precedence and shall preside at any session which he attends. Other judges shall have precedence and shall preside according to the seniority of their commissions. Judges whose commissions bear the same date shall have precedence according to seniority in age.”
 
-1980—Subsec. (a). Pub. L. 96–417 redesignated the Customs Court as the Court of International Trade.
+<b>1980</b>—Subsec. (a). Pub. L. 96–417 redesignated the Customs Court as the Court of International Trade.
 
-1970—Pub. L. 91–271 reorganized existing provisions into lettered subsecs. (a) to (e) and made minor changes in phraseology.
+<b>1970</b>—Pub. L. 91–271 reorganized existing provisions into lettered subsecs. (a) to (e) and made minor changes in phraseology.
 
-1959—Pub. L. 86–243 required the chief judge to supervise the fiscal affairs and clerical force of the court, with the approval of the court.
+<b>1959</b>—Pub. L. 86–243 required the chief judge to supervise the fiscal affairs and clerical force of the court, with the approval of the court.
 
 #### Effective Date of 1980 Amendment
 

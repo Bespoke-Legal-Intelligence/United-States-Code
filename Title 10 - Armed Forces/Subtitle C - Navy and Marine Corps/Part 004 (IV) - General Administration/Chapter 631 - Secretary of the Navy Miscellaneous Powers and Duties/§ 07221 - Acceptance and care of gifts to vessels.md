@@ -1,6 +1,6 @@
 ### §7221. Acceptance and care of gifts to vessels
 
-The Secretary of the Navy may accept and care for such gifts of silver, colors, books, or other articles of equipment or furniture as, in accordance with custom, are made to vessels of the Navy. Necessary expenses incident to the care of gifts that are accepted shall be paid fromthe appropriation for the maintenance and operation of vessels.
+The Secretary of the Navy may accept and care for such gifts of silver, colors, books, or other articles of equipment or furniture as, in accordance with custom, are made to vessels of the Navy. Necessary expenses incident to the care of gifts that are accepted shall be paid from the appropriation for the maintenance and operation of vessels.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 446.)
 
@@ -19,8 +19,4 @@ Historical and Revision Notes
 May 20, 1908, ch. 182, 35 Stat. 171.
 
 The words “in the form” and “by States, municipalities, or otherwise” are omitted as surplusage. The words “the appropriation for the maintenance and operation of vessels” are substituted for the words “the appropriation ‘Equipment of Vessels’ ” to identify by a general description, rather than by a specific appropriation title, the appropriation authorized to be used.
-
-#### Cross References
-
-Acceptance of gifts and services, see section 2601 et seq. of this title.
 

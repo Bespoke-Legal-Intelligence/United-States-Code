@@ -18,12 +18,6 @@ Provision with respect to property in different districts was added to conform w
 
 See, also, section 1392 of this title which fixes venue of an action involving property in different districts in the same State.
 
-#### Cross References
-
-Jurisdiction of district courts in eminent domain proceedings, see section 1358 of this title.
-
-Venue of action involving property in different districts in same state, see section 1392 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in title 16 section 79c; title 42 section 2222.

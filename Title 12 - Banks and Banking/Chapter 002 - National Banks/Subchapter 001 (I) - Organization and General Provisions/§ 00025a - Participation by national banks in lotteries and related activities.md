@@ -18,7 +18,7 @@ A national bank may not permit—
 
 &emsp;(1) the use of any part of any of its banking offices by any persons for any purpose forbidden to the bank under subsection (a) of this section, or
 
-&emsp;(2) direct access by the public from any of its banking offices to any premises used by anyperson for any purpose forbidden to the bank under subsection (a) of this section.
+&emsp;(2) direct access by the public from any of its banking offices to any premises used by any person for any purpose forbidden to the bank under subsection (a) of this section.
 
 #### (c) Definitions
 
@@ -34,7 +34,7 @@ As used in this section—
 
 &emsp;&emsp;(C) any record or tabulation of the result of one or more events in which any participant has no interest except for its bearing upon the possibility that he may become a winner.
 
-&emsp;(3) The term “lottery ticket” includes any right, privilege, or possibility (and any ticket, receipt, record, or other evidence of any such right, privilege, or possibility) of becoming a winner in a lottery.
+&emsp;(3) The term “lottery ticket” includes any right, privilege, or possibility (and any ticket,receipt, record, or other evidence of any such right, privilege, or possibility) of becoming a winner in a lottery.
 
 #### (d) Lawful banking services connected with operation of lotteries
 

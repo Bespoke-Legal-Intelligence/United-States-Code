@@ -2,7 +2,7 @@
 
 In order to minimize the burden caused by existing application and reporting procedures for certain grant-in-aid programs available to the Virgin Islands, Guam, American Samoa, the Trust Territory of the Pacific Islands, and the Government of the Northern Mariana Islands (hereafter referred to as “Insular Areas”) it is declared to be the policy of the Congress, notwithstanding any provision of law to the contrary, that:
 
-(a) Any department or agency of the Government of the United States which administers any Act of Congress which specifically provides for making grants to any Insular Area underwhich payments received may be used by such Insular Area only for certain specified purposes (other than direct payments to classes of individuals) may, acting through appropriate administrative authorities of such department or agency, consolidate any or all grants made to such area for any fiscal year or years.
+(a) Any department or agency of the Government of the United States which administers any Act of Congress which specifically provides for making grants to any Insular Area under which payments received may be used by such Insular Area only for certain specified purposes (other than direct payments to classes of individuals) may, acting through appropriate administrative authorities of such department or agency, consolidate any or all grants made to such area for any fiscal year or years.
 
 (b) Any consolidated grant for any insular area shall not be less than the sum of all grants which such area would otherwise be entitled to receive for such year.
 

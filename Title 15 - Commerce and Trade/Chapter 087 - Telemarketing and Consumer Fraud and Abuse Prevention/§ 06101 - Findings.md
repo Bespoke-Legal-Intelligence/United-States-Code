@@ -14,7 +14,99 @@ The Congress makes the following findings:
 
 (Pub. L. 103–297, §2, Aug. 16, 1994, 108 Stat. 1545.)
 
+#### Short Title of 2000 Amendment
+
+Pub. L. 106–534, §1, Nov. 22, 2000, 114 Stat. 2555, provided that: “This Act \[enacting provisions set out as notes under this section and section 3732 of Title 42, The Public Health and Welfare\] may be cited as the ‘Protecting Seniors From Fraud Act’.”
+
 #### Short Title
 
 Section 1 of Pub. L. 103–297 provided that: “This Act \[enacting this chapter and section 9b of Title 7, Agriculture, and amending section 52 of this title\] may be cited as the ‘Telemarketing and Consumer Fraud and Abuse Prevention Act’.”
+
+#### Congressional Findings
+
+Pub. L. 106–534, §2, Nov. 22, 2000, 114 Stat. 2555, provided that: “Congress makes the following findings:
+
+&emsp;“(1) Older Americans are among the most rapidly growing segments of our society.
+
+&emsp;“(2) Our Nation's elderly are too frequently the victims of violent crime, property crime, and consumer and telemarketing fraud.
+
+&emsp;“(3) The elderly are often targeted and retargeted in a range of fraudulent schemes.
+
+&emsp;“(4) The TRIAD program, originally sponsored by the National Sheriffs’ Association, International Association of Chiefs of Police, and the American Association of Retired Persons unites sheriffs, police chiefs, senior volunteers, elder care providers, families, and seniors to reduce the criminal victimization of the elderly.
+
+&emsp;“(5) Congress should continue to support TRIAD and similar community partnerships that improve the safety and quality of life for millions of senior citizens.
+
+&emsp;“(6) There are few other community-based efforts that forge partnerships to coordinate criminal justice and social service resources to improve the safety and security of the elderly.
+
+&emsp;“(7) According to the National Consumers League, telemarketing fraud costs consumers nearly $40,000,000,000 each year.
+
+&emsp;“(8) Senior citizens are often the target of telemarketing fraud.
+
+&emsp;“(9) Fraudulent telemarketers compile the names of consumers who are potentially vulnerable to telemarketing fraud into the so-called ‘mooch lists’.
+
+&emsp;“(10) It is estimated that 56 percent of the names on such ‘mooch lists’ are individuals age 50 or older.
+
+&emsp;“(11) The Federal Bureau of Investigation and the Federal Trade Commission have provided resources to assist private-sector organizations to operate outreach programs to warn senior citizens whose names appear on confiscated ‘mooch lists’.
+
+&emsp;“(12) The Administration on Aging was formed, in part, to provide senior citizens with the resources, information, and assistance their special circumstances require.
+
+&emsp;“(13) The Administration on Aging has a system in place to inform senior citizens of the dangers of telemarketing fraud.
+
+&emsp;“(14) Senior citizens need to be warned of the dangers of telemarketing fraud before they become victims of such fraud.”
+
+#### Senior Fraud Prevention Program
+
+Pub. L. 106–534, §3, Nov. 22, 2000, 114 Stat. 2556, provided that:
+
+“(a)
+
+Authorization of Appropriations.—There is authorized to be appropriated to the Attorney General $1,000,000 for each of the fiscal years 2001 through 2005 for programs for the National Association of TRIAD.
+
+“(b)
+
+Comptroller General.—The Comptroller General of the United States shall submit to Congress a report on the effectiveness of the TRIAD program 180 days prior to the expiration of the authorization under this Act \[see Short Title of 2000 Amendment note above\], including an analysis of TRIAD programs and activities; identification of impediments to the establishment of TRIADs across the Nation; and recommendations to improve the effectiveness of the TRIAD program.”
+
+#### Dissemination of Information
+
+Pub. L. 106–534, §4, Nov. 22, 2000, 114 Stat. 2556, provided that:
+
+“(a)
+
+In General.—The Secretary of Health and Human Services, acting through the Assistant Secretary of Health and Human Services for Aging, shall provide to the Attorney General of each State and publicly disseminate in each State, including dissemination to area agencies on aging, information designed to educate senior citizens and raise awareness about the dangers of fraud, including telemarketing and sweepstakes fraud.
+
+“(b)
+
+Information.—In carrying out subsection (a), the Secretary shall—
+
+&emsp;“(1) inform senior citizens of the prevalence of telemarketing and sweepstakes fraud targeted against them;
+
+&emsp;“(2) inform senior citizens how telemarketing and sweepstakes fraud work;
+
+&emsp;“(3) inform senior citizens how to identify telemarketing and sweepstakes fraud;
+
+&emsp;“(4) inform senior citizens how to protect themselves against telemarketing and sweepstakes fraud, including an explanation of the dangers of providing bank account, credit card, or other financial or personal information over the telephone to unsolicited callers;
+
+&emsp;“(5) inform senior citizens how to report suspected attempts at or acts of fraud;
+
+&emsp;“(6) inform senior citizens of their consumer protection rights under Federal law; and
+
+&emsp;“(7) provide such other information as the Secretary considers necessary to protect senior citizens against fraudulent telemarketing and sweepstakes promotions.
+
+“(c)
+
+Means of Dissemination.—The Secretary shall determine the means to disseminate information under this section. In making such determination, the Secretary shall consider—
+
+&emsp;“(1) public service announcements;
+
+&emsp;“(2) a printed manual or pamphlet;
+
+&emsp;“(3) an Internet website;
+
+&emsp;“(4) direct mailings; and
+
+&emsp;“(5) telephone outreach to individuals whose names appear on so-called ‘mooch lists’ confiscated from fraudulent marketers.
+
+“(d)
+
+Priority.—In disseminating information under this section, the Secretary shall give priority to areas with high incidents of fraud against senior citizens.”
 

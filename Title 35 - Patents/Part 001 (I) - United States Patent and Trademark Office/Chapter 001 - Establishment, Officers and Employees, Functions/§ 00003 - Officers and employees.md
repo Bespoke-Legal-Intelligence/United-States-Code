@@ -6,7 +6,7 @@ Under Secretary and Director.—
 
 &emsp;(1)
 
-In general.—The powers and duties of the United States Patent and Trademark Office shall be vested in an Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office (in this title referred to as the “Director”), who shall be a citizen of the United States and who shall be appointed by the President, by and with the advice and consent of the Senate. The Director shall be a person who has a professional background and experience in patent or trademark law.
+In general.—The powers and duties of the United States Patent and Trademark Office shall be vested in an Under Secretary ofCommerce for Intellectual Property and Director of the United States Patent and Trademark Office (in this title referred to as the “Director”), who shall be a citizen of the United States and who shall be appointed by the President, by and with the advice and consent of the Senate. The Director shall be a person who has a professional background and experience in patent or trademark law.
 
 &emsp;(2)
 
@@ -56,7 +56,7 @@ Removal.—The Commissioners may be removed from office by the Secretary for mis
 
 Other officers and employees.—The Director shall—
 
-&emsp;&emsp;(A) appoint such officers, employees (including attorneys), and agents of the Officeas the Director considers necessary to carry out the functions of the Office; and
+&emsp;&emsp;(A) appoint such officers, employees (including attorneys), and agents of the Office as the Director considers necessary to carry out the functions of the Office; and
 
 &emsp;&emsp;(B) define the title, authority, and duties of such officers and employees and delegate to them such of the powers vested in the Office as the Director may determine.
 
@@ -128,7 +128,7 @@ This entire title is subject to Reorganization Plan No. 5 of 1950 (64 Stat. 1263
 
 #### References in Text
 
-For the effective date of the Patent and Trademark Office Efficiency Act, referred to in subsecs. (d) to (f),as 4 months after Nov. 29, 1999, see section 1009(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as an Effective Date of 1999 Amendment note under section 1 of this title.
+For the effective date of the Patent and Trademark Office Efficiency Act, referred to in subsecs. (d) to (f), as 4 months after Nov. 29, 1999, see section 1009(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as an Effective Date of 1999 Amendment note under section 1 of this title.
 
 #### Amendments
 
@@ -205,14 +205,6 @@ Section 1(c) of Pub. L. 86–370 provided that: “The amendments made by this s
 &emsp;“(2) any incumbent of any such position, his appointment thereto, his rate of compensation, or his right to receive such compensation,
 
 > until appropriate action is taken under authority of such amendments.”
-
-#### Cross References
-
-Classification and compensation of civil service employees, see section 5101 et seq. of Title 5, Government Organization and Employees.
-
-Compensation of Commissioner, see section 5316 of Title 5.
-
-Employment of clerks and employees in governmental departments, see section 3101 of Title 5.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

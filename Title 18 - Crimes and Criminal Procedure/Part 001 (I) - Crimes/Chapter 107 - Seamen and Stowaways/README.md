@@ -18,10 +18,6 @@
 
 1990—Pub. L. 101–647, title XII, §1207(b), Nov. 29, 1990, 104 Stat. 4832, struck out item 2198 “Seduction of female passenger”.
 
-#### Cross References
-
-Vessel of the United States defined, see section 9 of this title.
-
 
 ---
 

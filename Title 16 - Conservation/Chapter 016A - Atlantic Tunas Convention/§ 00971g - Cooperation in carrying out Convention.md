@@ -22,7 +22,7 @@ None of the prohibitions deriving from this chapter, or contained in the laws or
 
 &emsp;(B) has enacted laws or promulgated regulations which (i) are less restrictive than the regulations promulgated pursuant to this chapter, or (ii) are not effectively enforced.
 
-> If a State requests the opportunity for an agency hearing on the record, the Secretary shall notapply regulations promulgated pursuant to this chapter within that State's boundaries unless the hearing record supports a determination under paragraph (A) or (B). Such regulations shall apply until the Secretary determines that the State is effectively enforcing within its boundaries measures which are not less restrictive than such regulations.
+> If a State requests the opportunity for an agency hearing on the record, the Secretary shall not apply regulations promulgated pursuant to this chapter within that State's boundaries unless the hearing record supports a determination under paragraph (A) or (B). Such regulationsshall apply until the Secretary determines that the State is effectively enforcing within its boundaries measures which are not less restrictive than such regulations.
 
 #### (e) Continuing review of State laws and regulations
 
@@ -33,8 +33,4 @@ To insure that the purposes of subsection (d) of this section are carried out, t
 #### Territorial Sea of United States
 
 For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
-
-#### Contiguous Zone of United States
-
-For extension of contiguous zone of United States, see Proc. No. 7219, Sept. 2, 1999, 64 F.R. 48701, set out as a note under section 1331 of Title 43, Public Lands.
 

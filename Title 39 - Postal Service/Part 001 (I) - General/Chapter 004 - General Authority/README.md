@@ -17,10 +17,13 @@
 | [413\.](%C2%A7%2000413%20-%20Postal%20services%20at%20diplomatic%20posts.md) | Postal services at diplomatic posts. |
 | [414\.](%C2%A7%2000414%20-%20Special%20postage%20stamps.md) | Special postage stamps. |
 | [415\.](%C2%A7%2000415%20-%20Prohibition%20on%20restriction%20or%20elimination%20of%20services.md) | Prohibition on restriction or elimination of services. |
+| [416\.](%C2%A7%2000416%20-%20Authority%20to%20issue%20semipostals.md) | Authority to issue semipostals. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2000—Pub. L. 106–253, §2(d), July 28, 2000, 114 Stat. 636, added item 416.
 
 1998—Pub. L. 105–241, §4(b), Sept. 28, 1998, 112 Stat. 1573, added item 415.
 
@@ -48,3 +51,4 @@
 - [&sect; 00413 - Postal services at diplomatic posts](%C2%A7%2000413%20-%20Postal%20services%20at%20diplomatic%20posts.md)
 - [&sect; 00414 - Special postage stamps](%C2%A7%2000414%20-%20Special%20postage%20stamps.md)
 - [&sect; 00415 - Prohibition on restriction or elimination of services](%C2%A7%2000415%20-%20Prohibition%20on%20restriction%20or%20elimination%20of%20services.md)
+- [&sect; 00416 - Authority to issue semipostals](%C2%A7%2000416%20-%20Authority%20to%20issue%20semipostals.md)

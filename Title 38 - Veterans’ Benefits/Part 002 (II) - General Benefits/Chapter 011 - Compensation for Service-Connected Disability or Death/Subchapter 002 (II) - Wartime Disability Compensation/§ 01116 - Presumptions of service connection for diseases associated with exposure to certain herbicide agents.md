@@ -2,7 +2,7 @@
 
 (a)(1) For the purposes of section 1110 of this title, and subject to section 1113 of this title—
 
-&emsp;(A) a disease specified in paragraph (2) of this subsection becoming manifest as specified in that paragraph in a veteran who, during active military, naval, or air service, served inthe Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975; and
+&emsp;(A) a disease specified in paragraph (2) of this subsection becoming manifest as specified in that paragraph in a veteran who, during active military, naval, or air service, served in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975; and
 
 &emsp;(B) each additional disease (if any) that (i) the Secretary determines in regulations prescribed under this section warrants a presumption of service-connection by reason of having positive association with exposure to an herbicide agent, and (ii) becomes manifest within the period (if any) prescribed in such regulations in a veteran who, during active military, naval, or air service, served in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975, and while so serving was exposed to that herbicide agent,
 
@@ -20,11 +20,11 @@
 
 &emsp;(E) Porphyria cutanea tarda becoming manifest to a degree of disability of 10 percent or more within a year after the last date on which the veteran performed active military, naval, or air service in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975.
 
-&emsp;(F) Respiratory cancers (cancer of the lung, bronchus, larynx, or trachea) becoming manifest to a degree <sup>1</sup> of 10 percent or more within 30 years after the last date on which the veteran performed active military, naval, or air service in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975.
+&emsp;(F) Respiratory cancers (cancer of the lung, bronchus, larynx, or trachea) becoming manifest to a degree of disability of 10 percent or more within 30 years after the last date on which the veteran performed active military, naval, or air service in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975.
 
 &emsp;(G) Multiple myeloma becoming manifest to a degree of disability of 10 percent or more.
 
-(3) For the purposes of this subsection, a veteran who, during active military, naval, or air service, served in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975, and has a disease referred to in paragraph (1)(B) of this subsection shall be presumed to have been exposed during such service to an herbicide agent containing dioxin or 2,4-dichlorophenoxyacetic acid, and may be presumed to have been exposed during such service to any other chemical compound in an herbicide agent, unless there is affirmative evidence to establish that the veteran was not exposed to any such agent during that service.
+(3) For the purposes of this subsection, a veteran who, during active military, naval, or airservice, served in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975, and has a disease referred to in paragraph (1)(B) of this subsection shall be presumed to have been exposed during such service to an herbicide agent containing dioxin or 2,4-dichlorophenoxyacetic acid, and may be presumed to have been exposed during such service to any other chemical compound in an herbicide agent, unless there is affirmative evidence to establish that the veteran was not exposed to any such agent during that service.
 
 (4) For purposes of this section, the term “herbicide agent” means a chemical in an herbicide used in support of the United States and allied military operations in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975.
 
@@ -42,19 +42,21 @@
 
 (d) Whenever a disease is removed from regulations prescribed under this section—
 
-&emsp;(1) a veteran who was awarded compensation for such disease on the basis of the presumption provided in subsection (a) before the effective date of the removal shall continue tobe entitled to receive compensation on that basis; and
+&emsp;(1) a veteran who was awarded compensation for such disease on the basis of the presumption provided in subsection (a) before the effective date of the removal shall continue to be entitled to receive compensation on that basis; and
 
 &emsp;(2) a survivor of a veteran who was awarded dependency and indemnity compensation for the death of a veteran resulting from such disease on the basis of such presumption shall continue to be entitled to receive dependency and indemnity compensation on such basis.
 
 (e) Subsections (b) through (d) shall cease to be effective 10 years after the first day of the fiscal year in which the National Academy of Sciences transmits to the Secretary the first report under section 3 of the Agent Orange Act of 1991.
 
-(Added Pub. L. 102–4, §2(a)(1), Feb. 6, 1991, 105 Stat. 11, §316; renumbered §1116 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title V, §505, title XII, §1201(e)(6), Nov. 2, 1994, 108 Stat. 4664, 4685; Pub. L. 104–275, title V, §505(b), Oct. 9, 1996, 110 Stat. 3342.)
+(Added Pub. L. 102–4, §2(a)(1), Feb. 6, 1991, 105 Stat. 11, §316; renumbered §1116 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title V, §505, title XII, §1201(e)(6), Nov. 2, 1994, 108 Stat. 4664, 4685; Pub. L. 104–275, title V, §505(b), Oct. 9, 1996, 110 Stat. 3342; Pub. L. 106–419, title IV, §404(a)(1), Nov. 1, 2000, 114 Stat. 1864.)
 
 #### References in Text
 
 Section 3 of the Agent Orange Act of 1991, referred to in subsecs. (b)(2), (c)(1)(A), and (e), is section 3 of Pub. L. 102–4, which is set out below.
 
 #### Amendments
+
+2000—Subsec. (a)(2)(F). Pub. L. 106–419 inserted “of disability” after “to a degree”.
 
 1996—Subsec. (a)(1)(A). Pub. L. 104–275, §505(b)(2), substituted “during the period beginning on January 9, 1962, and ending on May 7, 1975” for “during the Vietnam era”.
 
@@ -80,7 +82,7 @@ Amendment by Pub. L. 104–275 effective Jan. 1, 1997, with no benefit to be pai
 
 #### Agreement With National Academy of Sciences
 
-Section 3 of Pub. L. 102–4, as amended by Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–86, title V, §503(a), (b)(1), Aug. 14, 1991, 105 Stat. 424, 425, provided that:
+Section 3 of Pub. L. 102–4, as amended by Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–86,title V, §503(a), (b)(1), Aug. 14, 1991, 105 Stat. 424, 425, provided that:
 
 “(a)
 
@@ -158,7 +160,7 @@ Liability Insurance.—(1) The Secretary may provide liability insurance for the
 
 “(3) The cost of the liability insurance referred to in paragraph (1) shall be made from funds available to carry out this section.
 
-“(4) The Secretary shall reimburse the Academy or person referred to in paragraph (2) for the cost of any judgments (if any) and reasonable attorney's fees and incidental expenses, not compensated by the liability insurance referred to in paragraph (1) or by any other insurance maintained by the Academy, incurred by the Academy or person referred to in paragraph (2), in connection with any legal or administrative proceedings arising out of or in connection with the work to be performed under the agreement referred to in paragraph (1). Reimbursement of the cost of such judgments, attorney's fees, and incidental expenses shall be paid from funds appropriated for such reimbursement or appropriated to carry out this section, but in no event shall any such reimbursement be made from funds authorized pursuant to section 1304 of title 31, United States Code.”
+“(4) The Secretary shall reimburse the Academy or person referred to in paragraph (2) for the cost of any judgments (if any) and reasonable attorney's fees and incidental expenses, not compensated by the liability insurance referred to in paragraph (1) or by any otherinsurance maintained by the Academy, incurred by the Academy or person referred to in paragraph (2), in connection with any legal or administrative proceedings arising out of or in connection with the work to be performed under the agreement referred to in paragraph (1). Reimbursement of the cost of such judgments, attorney's fees, and incidental expenses shall be paid from funds appropriated for such reimbursement or appropriated to carry out this section, but in no event shall any such reimbursement be made from funds authorized pursuant to section 1304 of title 31, United States Code.”
 
 #### Results of Examinations and Treatment of Veterans for Disabilities Related to Exposure to Certain Herbicides or to Service in Vietnam
 
@@ -252,7 +254,7 @@ Establishment of Program.—Subject to subsections (e) and (f), the Secretary of
 
 “(b)
 
-Program Requirements.—(1) Under the program established pursuant to subsection (a), the Secretary shall, pursuant to criteria prescribed pursuant to paragraph (2), award contracts or furnish financial assistance to non-Government entities for the conduct of studies referred to in subsection (a).
+Program Requirements.—(1) Under the program established pursuant to subsection (a), the Secretaryshall, pursuant to criteria prescribed pursuant to paragraph (2), award contracts or furnish financial assistance to non-Government entities for the conduct of studies referred to in subsection (a).
 
 “(2) The Secretary shall prescribe criteria for (A) the selection of entities to be awarded contracts or to receive financial assistance under the program, and (B) the approval of studies to be conducted under such contracts or with such financial assistance.
 
@@ -427,6 +429,4 @@ Pub. L. 96–151, title III, §307, Dec. 20, 1979, 93 Stat. 1097, as amended by 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1103, 1113 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “of disability”.</i>
 

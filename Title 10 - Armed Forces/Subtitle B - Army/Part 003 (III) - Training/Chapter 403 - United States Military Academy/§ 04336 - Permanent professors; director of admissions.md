@@ -22,11 +22,11 @@ Act
 
 Aug. 7, 1947, ch. 512, §520(a), 61 Stat. 912.
 
-The word “grade” is substituted for the word “rank”. The words “pay, and allowances” are omitted, since they are determined by the grade held. 10:1079a (a) (last proviso), and the words “Hereafter each of”, “who have been or may hereafter be”, and “and appointed in” are omitted as surplusage.
+The word “grade” is substituted for the word “rank”. The words “pay, and allowances” are omitted, sincethey are determined by the grade held. 10:1079a (a) (last proviso), and the words “Hereafter each of”, “who have been or may hereafter be”, and “and appointed in” are omitted as surplusage.
 
 #### 1958 Act
 
-The word “regular” is deleted \[in sections 4335 and 4336\] to make clear that a Dean or professor of theUnited States Military Academy holds only the office of “Dean” or “professor” and not the office of “brigadier general” or “colonel”, as the case may be, even though he is entitled to the pay and allowances of that grade.
+The word “regular” is deleted \[in sections 4335 and 4336\] to make clear that a Dean or professor of the United States Military Academy holds only the office of “Dean” or “professor” and not the office of “brigadier general” or “colonel”, as the case may be, even though he is entitled to the pay and allowances of that grade.
 
 #### Amendments
 
@@ -57,12 +57,4 @@ Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub.
 #### Service Performed as Registrar Prior to Aug. 6, 1958
 
 Section 2 of Pub. L. 85–600 provided that: “No increase in pay or allowances accrues by reason of the enactment of this Act \[amending this section and sections 3075, 3204, 3205, 3283, 3296, 3883, 3886, 4331, 4333, 4334, 8075, 8204, 8205, 8296, 8883, 8886, 9331, 9333, 9334, and 9336 of this title\] for service performed before this Act takes effect \[Aug. 6, 1958\].”
-
-#### Cross References
-
-Retirement of permanent professors—
-
-&emsp;&emsp;Higher grade for service, see section 3962 of this title.
-
-&emsp;&emsp;More than 30 years service as a commissioned officer, see section 3920 of this title.
 

@@ -16,12 +16,6 @@ Minor changes in phraseology were also made.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $500”.
 
-#### Cross References
-
-Jurisdiction of offenses, see section 3241 of this title.
-
-Philatelic reproductions permitted, see section 504 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 981, 982, 1956 of this title.

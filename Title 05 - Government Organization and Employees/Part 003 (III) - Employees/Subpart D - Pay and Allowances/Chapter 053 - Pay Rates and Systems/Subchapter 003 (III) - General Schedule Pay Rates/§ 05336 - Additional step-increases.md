@@ -54,15 +54,9 @@ Section 205 of Pub. L. 98–615 provided that amendment by Pub. L. 98–615 was 
 
 #### Effective Date of 1978 Amendment
 
-Section 504(a) of Pub. L. 95–454 provided that amendment by section 503(h) of Pub. L. 95–454 was effective on first day of first applicable pay period which began on or after Oct. 1, 1981, except it could take effect with respect to any category or categories of positions before such day to extent prescribed by Director of Office of Personnel Management.
+Section 504(a) of Pub. L. 95–454 provided that amendment by section 503(h) of Pub. L. 95–454 was effective on first day of first applicable pay period which began on or after Oct. 1, 1981, except it could take effect with respect to any category or categories of positions beforesuch day to extent prescribed by Director of Office of Personnel Management.
 
 Amendment by section 906(a)(2) of Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
-
-#### Cross References
-
-Incentive awards, see section 4501 et seq. of this title.
-
-Performance ratings, see section 4301 et seq. of this title.
 
 #### Section Referred to in Other Sections
 

@@ -26,10 +26,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Cross References
-
-Third party tort liability to United States for hospital and medical care, see section 2651 et seq. of Title 42, The Public Health and Welfare.
-
 
 ---
 

@@ -87,7 +87,7 @@ Assistance for voluntary population planning.
 
 (c)
 
-Assistance for health programs; special health needs of children and mothers; Child Survival Fund; promotion of immunization and oral rehydration.
+Assistance for health programs; special health needs of children and mothers; Child Survival Fund; promotion of immunization and oral rehydration; control of AIDS and tuberculosis.
 
 (d)
 
@@ -102,6 +102,20 @@ Research and analysis.
 Prohibition on use of funds for performance or research respecting abortions or involuntary sterilization.
 
 (g)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| 2151b–1. | Assistance for malaria prevention, treatment, control, and elimination. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Assistance.
+
+(b)
 
 Authorization of appropriations.
 
@@ -152,45 +166,33 @@ Financing cooperative projects among United States, Israel, and developing count
 |  |  |
 | :--- | ---: |
 | [2151e.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20001%20%28I%29%20-%20Declaration%20of%20Policy%3B%20Development%20Assistance%20Authorizations/%C2%A7%2002151e%20-%20Appropriate%20technology.md) | Appropriate technology. |
-| [2151f.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20001%20%28I%29%20-%20Declaration%20of%20Policy%3B%20Development%20Assistance%20Authorizations/%C2%A7%2002151f%20-%20Private%20sector%20revolving%20fund.md) | Private sector revolving fund. |
+| [2151f.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20001%20%28I%29%20-%20Declaration%20of%20Policy%3B%20Development%20Assistance%20Authorizations/%C2%A7%2002151f%20-%20Micro-%20and%20small%20enterprise%20development%20credits.md) | Micro- and small enterprise development credits. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 (a)
 
-Establishment.
+Findings and policy.
 
 (b)
 
-Funding.
+Program.
 
 (c)
 
-Authorized uses; determination of small business enterprise; maximum amounts available; interest rate.
+Eligibility criteria.
 
 (d)
 
-Remittance of excess assets.
+Additional requirement.
 
 (e)
 
-Fee for carrying out activities.
+Procurement provision.
 
 (f)
 
-Transfer of unobligated funds upon termination.
-
-(g)
-
-Inclusion of proposed projects in annual congressional presentation documents.
-
-(h)
-
-Annual report to Congress.
-
-(i)
-
-Loan guarantees.
+Availability of funds.
 
 |  |  |
 | :--- | ---: |
@@ -247,7 +249,7 @@ Promotion of civil and political rights.
 
 (f)
 
-Country reports on human rights practices.
+Annual country reports on human rights practices.
 
 |  |  |
 | :--- | ---: |
@@ -589,6 +591,98 @@ Eligibility for grants.
 
 Use of funds.
 
+|  |  |
+| :--- | ---: |
+| [2152a.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20001%20%28I%29%20-%20Declaration%20of%20Policy%3B%20Development%20Assistance%20Authorizations/%C2%A7%2002152a%20-%20Microenterprise%20development%20grant%20assistance.md) | Microenterprise development grant assistance. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Findings and policy.
+
+(b)
+
+Authorization.
+
+(c)
+
+Monitoring system.
+
+(d)
+
+Level of assistance.
+
+(e)
+
+Definitions.
+
+|  |  |
+| :--- | ---: |
+| [2152b.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20001%20%28I%29%20-%20Declaration%20of%20Policy%3B%20Development%20Assistance%20Authorizations/%C2%A7%2002152b%20-%20United%20States%20Microfinance%20Loan%20Facility.md) | United States Microfinance Loan Facility. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Establishment.
+
+(b)
+
+Disbursements.
+
+(c)
+
+General provisions.
+
+(d)
+
+Funding.
+
+(e)
+
+Definitions.
+
+|  |  |
+| :--- | ---: |
+| [2152c.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20001%20%28I%29%20-%20Declaration%20of%20Policy%3B%20Development%20Assistance%20Authorizations/%C2%A7%2002152c%20-%20Programs%20to%20encourage%20good%20governance.md) | Programs to encourage good governance. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Establishment of programs.
+
+(b)
+
+Specific projects and activities.
+
+(c)
+
+Conduct of projects and activities.
+
+(d)
+
+Annual report.
+
+(e)
+
+Funding.
+
+|  |  |
+| :--- | ---: |
+| [2152d.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20001%20%28I%29%20-%20Declaration%20of%20Policy%3B%20Development%20Assistance%20Authorizations/%C2%A7%2002152d%20-%20Assistance%20to%20foreign%20countries%20to%20meet%20minimum%20standards%20for%20the%20elimination%20of%20trafficking.md) | Assistance to foreign countries to meet minimum standards for the elimination of trafficking. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Authorization.
+
+(b)
+
+Funding.
+
 #### Part II—Other Programs
 
 I74subpart i—multilateral and regional development programs
@@ -613,10 +707,6 @@ Regional programs.
 (c)
 
 Federal funds to multilateral lending institutions and multilateral organizations for loans to foreign countries; increase.
-
-(d)
-
-Transfer of funds; use of international or multilateral lending organizations.
 
 #### subpart ii—american schools and hospitals abroad; prototype desalting plants
 
@@ -829,7 +919,7 @@ Credits to reserve fund.
 
 (g)
 
-Reports to Congress.
+Omitted.
 
 (h)
 
@@ -871,7 +961,7 @@ Limitation on outstanding commitments.
 
 (h)
 
-Biannual reports to Congress.
+Omitted.
 
 (i)
 
@@ -994,6 +1084,10 @@ President.
 (d)
 
 Officers and staff.
+
+(e)
+
+Investment advisory council.
 
 |  |  |
 | :--- | ---: |
@@ -1339,7 +1433,7 @@ Congressional objectives and findings.
 
 (b)
 
-Congressional objectives and declaration for collation of components to increase world food production.
+Congressional declaration for collation of components to increase world food production.
 
 (c)
 
@@ -1352,6 +1446,18 @@ Universities.
 (e)
 
 Administrator.
+
+(f)
+
+Public and private partners of universities.
+
+(g)
+
+Agriculture.
+
+(h)
+
+Agriculturists.
 
 |  |  |
 | :--- | ---: |
@@ -1375,6 +1481,10 @@ Activity objectives.
 
 Function of Administrator.
 
+(e)
+
+Special programs.
+
 |  |  |
 | :--- | ---: |
 | [2220c.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20002%20%28II%29%20-%20Other%20Programs/Subpart%20012%20%28xii%29%20-%20Famine%20Prevention%20and%20Freedom%20from%20Hunger/%C2%A7%2002220c%20-%20Board%20for%20International%20Food%20and%20Agricultural%20Development.md) | Board for International Food and Agricultural Development. |
@@ -1395,7 +1505,7 @@ Specific, but not exclusive, duties.
 
 (d)
 
-Subordinate units; creation of Joint Research Committee, Joint Committee on Country Programs, and other units.
+Subordinate units; creation of Joint Policy Committee, Joint Operations Committee, and other units.
 
 (e)
 
@@ -1498,6 +1608,14 @@ International Atomic Energy Agency; safeguards and inspections of nuclear fissil
 (j)
 
 Authorization of appropriations for multilateral and regional drug abuse control programs.
+
+(k)
+
+Authorization of appropriations for Global Alliance for Vaccines and Immunizations.
+
+(<i>l</i>)
+
+Authorization of appropriations for International AIDS Vaccine Initiative.
 
 |  |  |
 | :--- | ---: |
@@ -2410,6 +2528,28 @@ Allocations concerned with performance record of recipient countries without con
 
 Report to Congress on use of certain authorities relating to human rights conditions.
 
+(h)
+
+Report on practices of recipient countries relating to trafficking in persons.
+
+|  |  |
+| :--- | ---: |
+| [2305\.](Subchapter%20002%20%28II%29%20-%20Military%20Assistance%20and%20Sales/Part%20001%20%28I%29%20-%20Declaration%20of%20Policy/%C2%A7%2002305%20-%20National%20Security%20Assistance%20Strategy.md) | National Security Assistance Strategy. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Multiyear plan.
+
+(b)
+
+Elements of the Strategy.
+
+(c)
+
+Covered assistance.
+
 #### Part II—Military Assistance
 
 |  |  |
@@ -2754,6 +2894,13 @@ In general.
 
 High-income foreign countries described.
 
+|  |  |
+| :--- | ---: |
+| [2347f.](Subchapter%20002%20%28II%29%20-%20Military%20Assistance%20and%20Sales/Part%20005%20%28V%29%20-%20International%20Military%20Education%20and%20Training/%C2%A7%2002347f%20-%20Consultation%20requirement.md) | Consultation requirement. |
+| [2347g.](Subchapter%20002%20%28II%29%20-%20Military%20Assistance%20and%20Sales/Part%20005%20%28V%29%20-%20International%20Military%20Education%20and%20Training/%C2%A7%2002347g%20-%20Records%20regarding%20foreign%20participants.md) | Records regarding foreign participants. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Part VI—Peacekeeping Operations
 
 |  |  |
@@ -2935,6 +3082,47 @@ Assistance to foreign countries to procure explosives detection devices and othe
 (c)
 
 Assistance to foreign countries.
+
+#### Part IX—Nonproliferation and Export Control Assistance
+
+|  |  |
+| :--- | ---: |
+| [2349bb.](Subchapter%20002%20%28II%29%20-%20Military%20Assistance%20and%20Sales/Part%20009%20%28IX%29%20-%20Nonproliferation%20and%20Export%20Control%20Assistance/%C2%A7%2002349bb%20-%20Purposes.md) | Purposes. |
+| 2349bb–1. | Authorization of assistance. |
+| 2349bb–2. | Transit interdiction. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Allocation of funds.
+
+(b)
+
+Priority to certain countries.
+
+|  |  |
+| :--- | ---: |
+| 2349bb–3. | Limitations. |
+| 2349bb–4. | Authorization of appropriations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Authorization of appropriations.
+
+(b)
+
+Availability of funds.
+
+(c)
+
+Treatment of fiscal year 2001 appropriations.
+
+(d)
+
+Covered activities.
 
 #### SUBCHAPTER III—GENERAL AND ADMINISTRATIVE PROVISIONS
 
@@ -3206,7 +3394,32 @@ Certification by President of inadvisability to specify nature of use of funds; 
 | :--- | ---: |
 | [2365\.](Subchapter%20003%20%28III%29%20-%20General%20and%20Administrative%20Provisions/Part%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002365%20-%20Contract%20authority.md) | Contract authority. |
 | [2366\.](Subchapter%20003%20%28III%29%20-%20General%20and%20Administrative%20Provisions/Part%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002366%20-%20Availability%20of%20funds.md) | Availability of funds. |
-| [2367\.](Subchapter%20003%20%28III%29%20-%20General%20and%20Administrative%20Provisions/Part%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002367%20-%20Termination%20of%20assistance%3B%20availability%20of%20funds%20for%20winding%20up%20programs%3B%20participant%20training.md) | Termination of assistance; availability of funds for winding up programs; participant training. |
+| [2367\.](Subchapter%20003%20%28III%29%20-%20General%20and%20Administrative%20Provisions/Part%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002367%20-%20Termination%20expenses.md) | Termination expenses. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Liability to contractors.
+
+(c)
+
+Termination expenses.
+
+(d)
+
+Guaranty programs.
+
+(e)
+
+Relation to other provisions.
+
+|  |  |
+| :--- | ---: |
 | 2368, 2369. | Repealed. |
 | [2370\.](Subchapter%20003%20%28III%29%20-%20General%20and%20Administrative%20Provisions/Part%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002370%20-%20Prohibitions%20against%20furnishing%20assistance.md) | Prohibitions against furnishing assistance. |
 
@@ -3847,6 +4060,14 @@ Financial transactions with foreign governments; exemption.
 
 Cost-type contracts with educational institutions; payment of reimbursable indirect costs.
 
+(<i>l</i>)
+
+Program oversight.
+
+(m)
+
+Working capital fund.
+
 |  |  |
 | :--- | ---: |
 | [2395a.](Subchapter%20003%20%28III%29%20-%20General%20and%20Administrative%20Provisions/Part%20002%20%28II%29%20-%20Administrative%20Provisions/%C2%A7%2002395a%20-%20International%20agreements%20concerning%20debt%20relief%3B%20transmittal%20to%20Congressional%20committees.md) | International agreements concerning debt relief; transmittal to Congressional committees. |
@@ -4432,7 +4653,7 @@ Eligibility criteria.
 |  |  |
 | :--- | ---: |
 | [2430h.](Subchapter%20003%E2%80%93A%20%28III%E2%80%93A%29%20-%20Enterprise%20for%20the%20Americas%20Initiative/%C2%A7%2002430h%20-%20Enterprise%20for%20the%20Americas%20Board.md) | Enterprise for the Americas Board. |
-| [2430i.](Subchapter%20003%E2%80%93A%20%28III%E2%80%93A%29%20-%20Enterprise%20for%20the%20Americas%20Initiative/%C2%A7%2002430i%20-%20Annual%20reports%20to%20Congress.md) | Annual reports to Congress. |
+| [2430i.](Subchapter%20003%E2%80%93A%20%28III%E2%80%93A%29%20-%20Enterprise%20for%20the%20Americas%20Initiative/%C2%A7%2002430i%20-%20Omitted.md) | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -4609,7 +4830,7 @@ Supplemental views in annual report.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1975, 2370a, 2428b, 2429a–2, 2601, 2751, 2761, 2763, 2765, 2771, 2775, 2780, 2785, 2795, 2795a, 2799aa, 2799aa–1, 3501, 3503, 5401, 5476, 5605, 5813, 6003, 6006, 6021, 6041, 6401, 6593, 6713 of this title; title 13 section 301; title 16 section 973r; title 40 section 483; title 48 section 1904; title 49 section 44908.
+This chapter is referred to in sections 1975, 2305, 2370a, 2428b, 2429a–2, 2601, 2751, 2761, 2763, 2765, 2771, 2775, 2780, 2785, 2795, 2795a, 2799aa, 2799aa–1, 3501, 3503, 5401, 5476, 5605, 5813, 6003, 6006, 6021, 6041, 6401, 6593, 6713, 6982, 7102 of this title; title 13 section 301; title 16 section 973r; title 40 section 483; title 48 section 1904; title 49 section 44908.
 
 
 ---

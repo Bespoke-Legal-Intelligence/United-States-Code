@@ -22,7 +22,7 @@
 
 (e) If the balance available to the Coast Guard installation under this section at the end of a fiscal year is in excess of $200,000, the amount of that excess shall be deposited in the general fund of the Treasury as offsetting receipts of the Department in which the Coast Guard is operating and ascribed to Coast Guard activities.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 547; Oct. 31, 1951, ch. 654, §2(11), 65 Stat. 707; Pub. L. 97–295, §2(4),Oct. 12, 1982, 96 Stat. 1301; Pub. L. 102–587, title V, §5202, Nov. 4, 1992, 106 Stat. 5071; Pub. L. 104–324, title IV, §408, title XI, §1119, Oct. 19, 1996, 110 Stat. 3925, 3973.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 547; Oct. 31, 1951, ch. 654, §2(11), 65 Stat. 707; Pub. L. 97–295, §2(4), Oct. 12, 1982, 96 Stat. 1301; Pub. L. 102–587, title V, §5202, Nov. 4, 1992, 106 Stat. 5071; Pub. L. 104–324, title IV, §408, title XI, §1119, Oct. 19, 1996, 110 Stat. 3925, 3973.)
 
 #### Historical and Revision Notes
 
@@ -38,7 +38,7 @@ The Federal Property and Administrative Services Act of 1949, referred to in sub
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–324, §408, inserted “to the Coast Guard Auxiliary, including any incorporated unit thereof,” after “with or without charge,” and struck out “to any incorporated unit of the Coast Guard Auxiliary,” after “Boy Scouts of America,”.
+1996—Subsec. (a). Pub. L. 104–324, §408, inserted “to the Coast Guard Auxiliary, including any incorporatedunit thereof,” after “with or without charge,” and struck out “to any incorporated unit of the Coast Guard Auxiliary,” after “Boy Scouts of America,”.
 
 Subsec. (c)(2). Pub. L. 104–324, §1119, inserted “, except that the Commandant may conduct sales of materials for which the proceeds of sale will not exceed $5,000 under regulations prescribed by the Commandant” before period at end.
 

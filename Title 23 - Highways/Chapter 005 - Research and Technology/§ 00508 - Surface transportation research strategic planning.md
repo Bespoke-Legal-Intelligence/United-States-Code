@@ -4,7 +4,7 @@
 
 In General.—The Secretary shall—
 
-&emsp;(1) establish a strategic planning process, consistent with section 306 of title 5 for the Department of Transportation to determine national transportation research and technology development priorities related to surface transportation;
+&emsp;(1) establish a strategic planning process, consistent with section 306 of title 5 for theDepartment of Transportation to determine national transportation research and technology development priorities related to surface transportation;
 
 &emsp;(2) coordinate Federal surface transportation research and technology development activities;
 
@@ -178,7 +178,7 @@ Objectives.—The plan shall provide for the following:
 
 &emsp;“(5)
 
-Cooperation with industry.—A primary component of the plan shall be cooperation with industry in carrying out this part \[part A (§§6001–6024) of title VI of Pub. L. 102–240, enacting sections 325 and 326 of this title, sections 3711b and 3711c of Title 15, Commerce and Trade, section 111 of Title 49, Transportation, and section 1625 of former Title 49, Transportation, amending sections 204, 307, and 321 of this title, section 5316 of Title 5, Government Organization and Employees, sections 3708 and 3712 to 3715 of Title 15, sections 101 and 301 of Title 49, and sections 1607c and 1608 of former Title 49, enacting provisions set out as notes under sections 101, 112, and 307 of this title and sections 111 and 301 of Title 49, and amending provisions set out as notes under section 1608 of former Title 49\] and strengthening the manufacturing capabilities of United States firms in order to produce products for surface transportation systems.
+Cooperation with industry.—A primary component of the plan shall be cooperation with industry in carrying out this part \[part A (§§6001–6024) of title VI of Pub. L. 102–240, enacting sections 325 and 326 ofthis title, sections 3711b and 3711c of Title 15, Commerce and Trade, section 111 of Title 49, Transportation, and section 1625 of former Title 49, Transportation, amending sections 204, 307, and 321 of this title, section 5316 of Title 5, Government Organization and Employees, sections 3708 and 3712 to 3715 of Title 15, sections 101 and 301 of Title 49, and sections 1607c and 1608 of former Title 49, enacting provisions set out as notes under sections 101, 112, and 307 of this title and sections 111 and 301 of Title 49, and amending provisions set out as notes under section 1608 of former Title 49\] and strengthening the manufacturing capabilities of United States firms in order to produce products for surface transportation systems.
 
 &emsp;“(6)
 

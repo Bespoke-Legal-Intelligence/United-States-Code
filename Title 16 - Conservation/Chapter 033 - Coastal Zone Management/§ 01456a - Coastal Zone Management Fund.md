@@ -1,6 +1,6 @@
 ### §1456a. Coastal Zone Management Fund
 
-(a)(1) The obligations of any coastal state or unit of general purpose local government to repay loans made pursuant to this section as in effect before November 5, 1990, and any repayment schedule established pursuant to this chapter as in effect before November 5, 1990, are not altered by any provision of this chapter. Such loans shall be repaid under authority of this subsection and the Secretary may issue regulations governing such repayment. If the Secretary finds that any coastal state or unit oflocal government is unable to meet its obligations pursuant to this subsection because the actual increases in employment and related population resulting from coastal energy activity and the facilities associated with such activity do not provide adequate revenues to enable such State or unit to meet such obligations in accordance with the appropriate repayment schedule, the Secretary shall, after review of the information submitted by such State or unit, take any of the following actions:
+(a)(1) The obligations of any coastal state or unit of general purpose local government to repay loans made pursuant to this section as in effect before November 5, 1990, and any repayment schedule established pursuant to this chapter as in effect before November 5, 1990, are not altered by any provision of this chapter. Such loans shall be repaid under authority of this subsection and the Secretary may issue regulations governing such repayment. If the Secretary finds that any coastal state or unit of local government is unable to meet its obligations pursuant to this subsection because the actual increases in employment and related population resulting from coastal energy activity and the facilities associated with such activity do not provide adequate revenues to enable such State or unit to meet such obligations in accordance with the appropriate repayment schedule, the Secretary shall, after review of the information submitted by such State or unit, take any of the following actions:
 
 &emsp;(A) Modify the terms and conditions of such loan.
 
@@ -32,9 +32,11 @@
 
 &emsp;&emsp;(v) to provide financial support to coastal states for use for investigating and applying the public trust doctrine to implement State management programs approved under section 1455 of this title.
 
-(3) On December 1, of each year, the Secretary shall transmit to the Congress an annual report on the Fund, including the balance of the Fund and an itemization of all deposits into and disbursements from the Fund in the preceding fiscal year.
-
 (Pub. L. 89–454, title III, §308, as added Pub. L. 94–370, §7, July 26, 1976, 90 Stat. 1019; amended Pub. L. 95–372, title V, §§501, 503(a)–(d), Sept. 18, 1978, 92 Stat. 690, 692, 693; Pub. L. 96–464, §7, Oct. 17, 1980, 94 Stat. 2064; Pub. L. 99–272, title VI, §6047, Apr. 7, 1986, 100 Stat. 128; Pub. L. 101–508, title VI, §6209, Nov. 5, 1990, 104 Stat. 1388–308; Pub. L. 102–587, title II, §2205(b)(1)(A), (B), (15)–(18), Nov. 4, 1992, 106 Stat. 5050, 5052; Pub. L. 104–150, §§2(b)(2), 5, June 3, 1996, 110 Stat. 1380, 1381.)
+
+#### Codification
+
+Subsec. (b)(3) of this section, which required the Secretary to transmit to Congress an annual report on the Fund, including the balance of the Fund and an itemization of all deposits into and disbursements from the Fund, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 143 of House Document No. 103–7.
 
 #### Amendments
 
@@ -60,7 +62,7 @@ Subsec. (a)(1). Pub. L. 102–587, §2205(b)(16), in first sentence, made techni
 
 Pub. L. 102–587, §2205(b)(1)(A), substituted “coastal state” for “coastal State” in two places.
 
-Subsec. (b)(1). Pub. L. 102–587, §2205(b)(17), (18), struck out “(hereinafter in this section referred to as the ‘Fund’)” after “Management Fund’ ” and inserted “and fees deposited into the Fund under section 1456(i)(3) of this title” after “subsection (a) of this section”.
+Subsec. (b)(1). Pub. L. 102–587, §2205(b)(17), (18), struck out “(hereinafter in this section referred to as the‘Fund’)” after “Management Fund’ ” and inserted “and fees deposited into the Fund under section 1456(i)(3) of this title” after “subsection (a) of this section”.
 
 Subsec. (b)(2)(B)(vi). Pub. L. 102–587, §2205(b)(1)(B), substituted “coastal states” for “coastal States”.
 
@@ -78,7 +80,7 @@ Subsec. (a)(1)(B). Pub. L. 95–372, §503(b)(1), substituted “subsection (c)(
 
 Subsec. (a)(1)(C) to (G). Pub. L. 95–372, §503(b)(2), added subpar. (C) and redesignated former subpars. (C) to (F) as (D) to (G).
 
-Subsec. (b)(2). Pub. L. 95–372, §501(a), substituted in provisions preceding subpar. (A) “Subject to paragraph (3), the amounts payable” for “The amounts granted”and “subparagraphs (A), (B), and (C)” for “subparagraphs (A), (B), (C), and (D)”, in subpar. (A) “one-half” for “one-third”, and in subpars. (B) and (C) “one-quarter” for “one-sixth” and struck out subpar. (D), which related to a ratio involving the number of individuals who obtain new employment as a result of new or expanded outer Continental Shelf energy activities.
+Subsec. (b)(2). Pub. L. 95–372, §501(a), substituted in provisions preceding subpar. (A) “Subject to paragraph (3), the amounts payable” for “The amounts granted” and “subparagraphs (A), (B), and (C)” for “subparagraphs (A), (B), (C), and (D)”, in subpar. (A) “one-half” for “one-third”, and in subpars. (B) and (C) “one-quarter” for “one-sixth” and struck out subpar. (D), which related to a ratio involving the number of individuals who obtain new employment as a result of new or expanded outer Continental Shelf energy activities.
 
 Subsec. (b)(3). Pub. L. 95–372, §501(b)(2), added par. (3). Former par. (3) redesignated (4).
 
@@ -101,14 +103,6 @@ Amendment by section 2(b)(2) of Pub. L. 104–150 effective Oct. 1, 1999, see se
 #### Extension of Authority To Make Loans Under Subsection (d)(1)
 
 Pub. L. 99–626, §6, Nov. 7, 1986, 100 Stat. 3506, provided that: “The authority of the Secretary of Commerce to make loans under paragraph (1) of subsection (d) of section 308 of the Coastal Zone Management Act of 1972 (Public Law 92–583, 16 U.S.C. 1451, et seq.) as amended \[16 U.S.C. 1456a(d)(1)\], shall extend to September 30, 1987, for loans made to eligible States or units pursuant to and in accord with agreements entered into between the Secretary and any State prior to September 30, 1986, that provided for a total sum of loans to be made to that State or its units, but such loan authority shall be limited to $7,000,000.”
-
-#### Territorial Sea of United States
-
-For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
-
-#### Contiguous Zone of United States
-
-For extension of contiguous zone of United States, see Proc. No. 7219, Sept. 2, 1999, 64 F.R. 48701, set out as a note under section 1331 of Title 43, Public Lands.
 
 #### Section Referred to in Other Sections
 

@@ -6,7 +6,7 @@
 
 &emsp;(B) prevent the production of a record, document, or other object, in an official proceeding; or
 
-&emsp;(C) prevent the communication by any person to a law enforcement officer or judge of the United States of information relating to the commission or possible commission of a Federal offense or a violation of conditions of probation, parole, or release pending judicial proceedings;
+&emsp;(C) prevent the communication by any person to a law enforcement officer or judge of the United States of information relating to the commission or possible commission of a Federal offense or a violation of conditions ofprobation, parole, or release pending judicial proceedings;
 
 > shall be punished as provided in paragraph (2).
 
@@ -56,7 +56,7 @@
 
 (f) In a prosecution for an offense under this section, no state of mind need be proved with respect to the circumstance—
 
-&emsp;(1) that the official proceeding before a judge, court, magistrate, grand jury, or government agency is before a judge or court of the United States, a United States magistrate, a bankruptcy judge, a Federal grand jury, or a Federal Government agency; or
+&emsp;(1) that the official proceeding before a judge, court, magistrate judge, grand jury, or government agency is before a judge or court of the United States, a United States magistrate judge, a bankruptcy judge, a Federal grand jury, or a Federal Government agency; or
 
 &emsp;(2) that the judge is a judge of the United States or that the law enforcement officer is an officer or employee of the Federal Government or a person authorized to act for or on behalf of the Federal Government or serving the Federal Government as an adviser or consultant.
 
@@ -66,7 +66,7 @@
 
 (i) If the offense under this section occurs in connection with a trial of a criminal case, the maximum term of imprisonment which may be imposed for the offense shall be the higher of that otherwise provided by law or the maximum term that could have been imposed for any offense charged in such case.
 
-(Added Pub. L. 97–291, §4(a), Oct. 12, 1982, 96 Stat. 1249; amended Pub. L. 99–646, §61, Nov. 10, 1986, 100 Stat. 3614; Pub. L. 100–690, title VII, §7029(a), (c), Nov. 18, 1988, 102 Stat. 4397, 4398; Pub. L. 103–322, title VI, §60018, title XXXIII, §330016(1)(O), (U), Sept. 13, 1994, 108 Stat. 1975, 2148; Pub. L. 104–214, §1(2), Oct. 1, 1996, 110 Stat. 3017; Pub. L. 104–294, title VI, §604(b)(31), Oct. 11, 1996, 110 Stat. 3508.)
+(Added Pub. L. 97–291, §4(a), Oct. 12, 1982, 96 Stat. 1249; amended Pub. L. 99–646, §61, Nov. 10, 1986, 100 Stat. 3614; Pub. L. 100–690, title VII, §7029(a), (c), Nov. 18, 1988, 102 Stat. 4397, 4398; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 103–322, title VI, §60018, title XXXIII, §330016(1)(O), (U), Sept. 13, 1994, 108 Stat. 1975, 2148; Pub. L. 104–214, §1(2), Oct. 1, 1996, 110 Stat. 3017; Pub. L. 104–294, title VI, §604(b)(31), Oct. 11, 1996, 110 Stat. 3508.)
 
 #### Amendments
 
@@ -86,11 +86,11 @@ Subsec. (h). Pub. L. 100–690, §7029(a), added subsec. (h).
 
 1986—Subsec. (a). Pub. L. 99–646, §61(2), (3), added subsec. (a) and redesignated former subsec. (a) as (b).
 
-Subsecs. (b) to (g). Pub. L. 99–646, §61(1), (3), redesignated former subsec. (a) as (b), inserted “, delay, or prevent”, and redesignated former subsecs. (b) to (f) as (c) to (g), respectively.
+Subsecs. (b) to (g). Pub. L. 99–646, §61(1), (3), redesignated former subsec. (a) as (b), inserted “, delay, orprevent”, and redesignated former subsecs. (b) to (f) as (c) to (g), respectively.
 
 #### Change of Name
 
-Reference to United States magistrate or to magistrate deemed to refer to United States magistrate judge pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+Words “magistrate judge” and “United States magistrate judge” substituted for “magistrate” and “United States magistrate”, respectively, in subsec. (f)(1) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 1996 Amendment
 

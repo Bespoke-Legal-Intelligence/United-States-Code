@@ -16,7 +16,7 @@
 
 &emsp;(C) reciprocal concessions obtained;
 
-&emsp;(D) changes in trade agreements (including the incorporation therein of actions taken for import relief and compensation provided therefor);
+&emsp;(D) changes in trade agreements (including the incorporation therein of actions taken forimport relief and compensation provided therefor);
 
 &emsp;(E) the extension or withdrawal of nondiscriminatory treatment by the United States with respect to the products of foreign countries;
 
@@ -80,7 +80,7 @@
 
 &emsp;(C) conclusions and recommendations, based upon the projections referred to in subparagraph (B), for policy changes, including trade policy, exchange rate policy, fiscal policy, and other policies that should be implemented to improve the outlook.
 
-(2) To the extent that subjects referred to in paragraph (1)(A), (B), or (C) are covered in the national trade policy agenda required under subsection (a)(1)(B) of this section or in other reports required by this chapter or other law, the Trade Representative and the Secretary of the Treasury may, as appropriate, draw on the information, analysis, and conclusions, if any, inthose reports for the purposes of preparing the report required by this subsection.
+(2) To the extent that subjects referred to in paragraph (1)(A), (B), or (C) are covered in the national trade policy agenda required under subsection (a)(1)(B) of this section or in other reports required by this chapter or other law, the Trade Representative and the Secretary of the Treasury may, as appropriate, draw on the information, analysis, and conclusions, if any, in those reports for the purposes of preparing the report required by this subsection.
 
 (3) The Trade Representative and the Secretary of the Treasury shall consult with the Chairman of the Board of Governors of the Federal Reserve System in the preparation of each report required under this subsection.
 
@@ -90,7 +90,7 @@
 
 #### (c) ITC reports
 
-The United States International Trade Commission shall submit to the Congress, at least once a year, a factual report on the operation of the trade agreements program.
+The United States International Trade Commission shall submit to the Congress, at leastonce a year, a factual report on the operation of the trade agreements program.
 
 (Pub. L. 93–618, title I, §163, Jan. 3, 1975, 88 Stat. 2009; Pub. L. 100–418, title I, §1641, Aug. 23, 1988, 102 Stat. 1271.)
 
@@ -104,7 +104,7 @@ This chapter, referred to in subsecs. (a)(1)(A) and (b), was in the original “
 
 #### Trade Deficit Review Commission
 
-Pub. L. 105–277, div. A, §127, Oct. 21, 1998, 112 Stat. 2681–547, as amended by Pub. L. 106–57, title III, §311, Sept. 29, 1999, 113 Stat. 427, provided that:
+Pub. L. 105–277, div. A, §127, Oct. 21, 1998, 112 Stat. 2681–547, as amended by Pub. L. 106–57, title III, §311, Sept. 29, 1999, 113 Stat. 427; Pub. L. 106–246, div. B, title II, §2501, July 13, 2000, 114 Stat. 556, provided that:
 
 “(a)
 
@@ -272,7 +272,7 @@ Final Report.—
 
 &emsp;“(1)
 
-In general.—Not later than 12 months after the date of the initial meeting of the Commission, the Commission shall submit to the President and Congress a final report which contains—
+In general.—Not later than 15 months after the date of the initial meeting of the Commission, the Commission shall submit to the President and Congress a final report which contains—
 
 &emsp;&emsp;“(A) the findings and conclusions of the Commission described in subsection (d); and
 
@@ -320,7 +320,7 @@ In general.—The Chairperson of the Commission may, without regard to the civil
 
 &emsp;&emsp;“(B)
 
-Compensation.—The Chairperson of the Commission may fix the compensation of the executive director and other personnel without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code, relating to classification of positions and General Schedule pay rates, except that the rate of pay for the executive director and other personnel may not exceedthe rate payable for level V of the Executive Schedule under section 5316 of such title.
+Compensation.—The Chairperson of the Commission may fix the compensation of the executive director and other personnel without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code, relating to classification of positions and General Schedule pay rates, except that the rate of pay for the executive director and other personnel may not exceed the rate payable for level V of the Executive Schedule under section 5316 of such title.
 
 &emsp;“(4)
 
@@ -336,7 +336,7 @@ Applicability of certain pay authorities.—
 
 &emsp;&emsp;“(A)
 
-In general.—An individual who is a member of the Commission and is an annuitant or otherwise covered by section 8344 or 8468 of title 5, United States Code, by reason of membership on the Commission is not subject to the provisions of section 8344 or 8468 (whichever is applicable) with respect to such membership.
+In general.—An individual who is a member of the Commission and is an annuitant or otherwise covered by section 8344 or 8468 of title 5, United States Code, by reason of membership on the Commission is not subject to the provisions of section8344 or 8468 (whichever is applicable) with respect to such membership.
 
 &emsp;&emsp;“(B)
 

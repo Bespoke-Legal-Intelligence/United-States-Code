@@ -10,7 +10,15 @@
 
 The second paragraph (13) of subsection (b) of section 8332 of title 5, referred to in subsec. (a)(1), relates to service performed by a Native of the Pribilof Islands. That par. (13) was added by subsec. (b) of section 209 of Pub. L. 89–702 (as added by section 2 of Pub. L. 98–129) and is set out in the Code as the first par. (13) of subsec. (b) of section 8332 of Title 5, Government Organization and Employees.
 
+#### Codification
+
+Another section 212 of Pub. L. 89–702 is classified to section 1169b of this title.
+
 #### Effective Date
 
 Section 2208(c) of Pub. L. 98–369 provided that: “The amendments made by this section \[enacting this section and amending section 8332 of Title 5, Government Organization and Employees\] shall take effect as of October 14, 1983.”
+
+<i><sup>1</sup></i><i> So in original. No subsec. (b) has been enacted.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

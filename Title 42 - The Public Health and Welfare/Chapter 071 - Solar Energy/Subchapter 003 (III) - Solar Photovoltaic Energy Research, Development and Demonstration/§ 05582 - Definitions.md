@@ -6,7 +6,7 @@ For purposes of this subchapter—
 
 &emsp;(2) the term “solar photovoltaic energy system” may be used interchangeably with the term “photovoltaic system”;
 
-&emsp;(3) a “hybrid solar photovoltaic energy system” is a system of components that generates electricity from incident sunlight by means of the photovoltaic effect and, in conjunction with electronic and, if appropriate, optical, thermal and storage devices, provides electricity, as well as heat and/or light for individual, commercial, industrial, agricultural, or governmental use;
+&emsp;(3) a “hybrid solar photovoltaic energy system” is a system of components that generates electricity from incident sunlight by means of the photovoltaic effect and, in conjunction with electronic and, if appropriate,optical, thermal and storage devices, provides electricity, as well as heat and/or light for individual, commercial, industrial, agricultural, or governmental use;
 
 &emsp;(4) “photovoltaic effect” refers to the physical phenomenon exhibited under certain circumstances by some materials in which a portion of the light energy striking the material is directly converted to electrical energy;
 

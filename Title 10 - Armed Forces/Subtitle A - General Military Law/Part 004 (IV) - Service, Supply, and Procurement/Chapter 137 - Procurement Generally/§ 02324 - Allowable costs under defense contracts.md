@@ -74,7 +74,7 @@ Specific Costs Not Allowable.—(1) The following costs are not allowable under 
 
 &emsp;(O) Costs incurred by a contractor in connection with any criminal, civil, or administrative proceeding commenced by the United States or a State, to the extent provided in subsection (k).
 
-&emsp;(P) Costs of compensation of senior executives of contractors for a fiscal year, regardless of the contract funding source, to the extent that such compensation exceeds thebenchmark compensation amount determined applicable for the fiscal year by the Administrator for Federal Procurement Policy under section 39 of the Office of Federal Procurement Policy Act (41 U.S.C. 435).
+&emsp;(P) Costs of compensation of senior executives of contractors for a fiscal year, regardless of the contract funding source, to the extent that such compensation exceeds the benchmark compensation amount determined applicable for the fiscal year by the Administrator for Federal Procurement Policy under section 39 of the Office of Federal Procurement Policy Act (41 U.S.C. 435).
 
 (2)(A) The Secretary of Defense may provide in a military banking contract that the provisions of paragraphs (1)(M) and (1)(N) shall not apply to costs incurred under the contract by the contractor for payment of mandated foreign national severance pay. The Secretary may include such a provision in a military banking contract only if the Secretary determines, with respect to that contract, that the contractor has taken (or has established plans to take) appropriate actions within the contractor's control to minimize the amount and number of incidents of the payment of severance pay by the contractor to employees under the contract who are foreign nationals.
 
@@ -208,7 +208,7 @@ Proceeding Costs Not Allowable.—(1) Except as otherwise provided in this subse
 
 (ii) Regulations issued for the purpose of clause (i) shall provide for appropriate consideration of the complexity of procurement litigation, generally accepted principles governing the award of legal fees in civil actions involving the United States as a party, and such other factors as may be appropriate.
 
-(C) In the case of a proceeding referred to in subparagraph (A), contractor costs otherwise allowable as reimbursable costs under this paragraph are not allowable if (i) such proceeding involves the same contractor misconduct alleged as the basis of another criminal, civil, or administrative proceeding, and (ii) the costs of suchother proceeding are not allowable under paragraph (1).
+(C) In the case of a proceeding referred to in subparagraph (A), contractor costs otherwise allowable as reimbursable costs under this paragraph are not allowable if (i) such proceeding involves the same contractor misconduct alleged as the basis of another criminal, civil, or administrative proceeding, and (ii) the costs of such other proceeding are not allowable under paragraph (1).
 
 (6) In this subsection:
 
@@ -234,7 +234,7 @@ Proceeding Costs Not Allowable.—(1) Except as otherwise provided in this subse
 
 Definitions.—In this section:
 
-&emsp;(1)(A) The term “covered contract” means a contract for an amount in excess of $500,000 that is entered into by the head of an agency, except that such term does not include a fixed-price contract without cost incentives or any firm fixed-price contract for the purchase of commercial items.
+&emsp;(1)(A) The term “covered contract” means a contract for an amount in excess of $500,000that is entered into by the head of an agency, except that such term does not include a fixed-price contract without cost incentives or any firm fixed-price contract for the purchase of commercial items.
 
 &emsp;(B) Effective on October 1 of each year that is divisible by five, the amount set forth in subparagraph (A) shall be adjusted to the equivalent amount in constant fiscal year 1994 dollars. An amount, as so adjusted, that is not evenly divisible by $50,000 shall be rounded to the nearest multiple of $50,000. In the case of an amount that is evenly divisible by $25,000 but is not evenly divisible by $50,000, the amount shall be rounded to the next higher multiple of $50,000.
 
@@ -456,7 +456,7 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 #### Effective Date of 1992 Amendments
 
-Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a noteunder section 171 of Title 28, Judiciary and Judicial Procedure.
 
 Section 818(b) of Pub. L. 102–484 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 23, 1992\] and shall apply, as provided in regulations prescribed by the Secretary of Defense, with respect to proposals for settlement of indirect costs for which the Federal Government has not formally initiated an audit before that date.”
 
@@ -506,7 +506,7 @@ Section 826(b) of Pub. L. 100–456 provided that: “The Secretary of Defense s
 
 Section 832(b) of Pub. L. 100–456 related to regulations for the implementation of subsec. (e)(1)(N) of this section, prior to repeal by Pub. L. 100–700, §8(c), Nov. 19, 1988, 102 Stat. 4638.
 
-Section 101(b) \[title VIII, §8112(b), (c)\] of Pub. L. 99–190 required the regulations required under section911(b) of Pub. L. 99–145, set out below, to be submitted to Congress before the publication of such regulations in accordance with 41 U.S.C. 418b and directed the Comptroller General, within 180 days of publication of the regulations, to submit to Congress a report on the Comptroller General's initial evaluation under subsection (j)(1) of this section.
+Section 101(b) \[title VIII, §8112(b), (c)\] of Pub. L. 99–190 required the regulations required under section 911(b) of Pub. L. 99–145, set out below, to be submitted to Congress before the publication of such regulations in accordance with 41 U.S.C. 418b and directed the Comptroller General, within 180 days of publication of the regulations, to submit to Congress a report on the Comptroller General's initial evaluation under subsection (j)(1) of this section.
 
 Section 911(b) of Pub. L. 99–145 provided that:
 
@@ -600,7 +600,7 @@ Section 833 of Pub. L. 100–456, as amended by Pub. L. 101–189, div. A, title
 
 “(a)
 
-Air Fare Discount Agreements.—The Administrator of General Services shall enter into negotiations with commercial air carriers with a view to achieving agreements that permit personnel of contractors who are traveling solely in the performance of covered contracts to be transported by such carriers at the samediscount air passenger transportation rates as such carriers charge for travel by Federal Government employees traveling at Government expense.
+Air Fare Discount Agreements.—The Administrator of General Services shall enter into negotiations with commercial air carriers with a view to achieving agreements that permit personnel of contractors who are traveling solely in the performance of covered contracts to be transported by such carriers at the same discount air passenger transportation rates as such carriers charge for travel by Federal Government employees traveling at Government expense.
 
 “(b)
 
@@ -620,7 +620,7 @@ Expiration.—This section shall cease to be effective three years after the dat
 
 #### Burden of Proof in Government Contract Dispute Resolution
 
-Section 933 of Pub. L. 99–145, which provided that in proceeding before the Armed Services Board of Contract Appeals, United States Claims Court, or any other Federal court in which reasonableness of indirect costs for which a contractor seeks reimbursement from Department of Defense is in issue, the burden of proof is upon the contractor to establish that such costs are reasonable, was repealed and restated in subsec. (j) of this section by Pub. L. 100–370, §1(f)(3)(A)(ii), (B), July 19, 1988, 102 Stat. 846.
+Section 933 of Pub. L. 99–145, which provided that in proceeding before the Armed Services Board of Contract Appeals, United States Claims Court, or anyother Federal court in which reasonableness of indirect costs for which a contractor seeks reimbursement from Department of Defense is in issue, the burden of proof is upon the contractor to establish that such costs are reasonable, was repealed and restated in subsec. (j) of this section by Pub. L. 100–370, §1(f)(3)(A)(ii), (B), July 19, 1988, 102 Stat. 846.
 
 #### Section Referred to in Other Sections
 

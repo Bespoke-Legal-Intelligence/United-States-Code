@@ -46,7 +46,7 @@
 
 &emsp;&emsp;&emsp;(i) shall consider any comments regarding the application of the entity for such a grant that are received by the Secretary from the State in which the entity is located; and
 
-&emsp;&emsp;&emsp;(ii) shall give special consideration to the entity if the State agrees to provide a portion of the non-Federal contributions required in subsection (c) of this section regarding such a grant.
+&emsp;&emsp;&emsp;(ii) shall give special consideration to the entity if the State agrees to provide a portion of the non-Federal contributionsrequired in subsection (c) of this section regarding such a grant.
 
 #### (c) Matching funds
 
@@ -60,7 +60,7 @@
 
 &emsp;&emsp;(C) for any fourth such fiscal year, is not less than $1 for each $1 of Federal funds provided in the grant; and
 
-&emsp;&emsp;(D) for any fifth such fiscal year, is not less than $2 for each $1 of Federal funds provided in the grant.
+&emsp;&emsp;(D) for any fifth and sixth such fiscal year,<sup>2</sup> is not less than $2 for each $1 of Federal funds provided in the grant.
 
 #### (2) Determination of amount contributed
 
@@ -68,7 +68,7 @@
 
 &emsp;(B) In making a determination of the amount of non-Federal contributions for purposes of subparagraph (A), the Secretary may include only non-Federal contributions in excess of the average amount of non-Federal contributions made by the public entity involved toward the purpose described in subsection (a) of this section for the 2-year period preceding the first fiscal year for which the entity receives a grant under such section.
 
-(July 1, 1944, ch. 373, title V, §561, as added Pub. L. 102–321, title I, §119, July 10, 1992, 106 Stat. 349; amended Pub. L. 103–43, title XX, §2017(1), June 10, 1993, 107 Stat. 218.)
+(July 1, 1944, ch. 373, title V, §561, as added Pub. L. 102–321, title I, §119, July 10, 1992, 106 Stat. 349; amended Pub. L. 103–43, title XX, §2017(1), June 10, 1993, 107 Stat. 218; Pub. L. 106–310, div. B, title XXXI, §3105(a), Oct. 17, 2000, 114 Stat. 1175.)
 
 #### References in Text
 
@@ -82,6 +82,8 @@ A prior section 290ff, act July 1, 1944, ch. 373, title V, §561, as added Nov. 
 
 #### Amendments
 
+2000—Subsec. (c)(1)(D). Pub. L. 106–310 substituted “fifth and sixth such fiscal year” for “fifth such fiscal year”.
+
 1993—Subsec. (a)(2). Pub. L. 103–43, §2017(1)(A), substituted “this part” for “this subpart”.
 
 Subsec. (b)(1)(B), (C). Pub. L. 103–43, §2017(1)(B), substituted “is such a grantee” for “is receiving such payments”.
@@ -90,9 +92,23 @@ Subsec. (b)(1)(B), (C). Pub. L. 103–43, §2017(1)(B), substituted “is such a
 
 Part effective Oct. 1, 1992, with provision for programs providing financial assistance, see section 801(c), (d) of Pub. L. 102–321, set out as an Effective Date of 1992 Amendment note under section 236 of this title.
 
+#### Current Grantees
+
+Pub. L. 106–310, div. B, title XXXI, §3105(e), Oct. 17, 2000, 114 Stat. 1175, provided that:
+
+“(1)
+
+In general.—Entities with active grants under section 561 of the Public Health Service Act (42 U.S.C. 290ff) on the date of the enactment of this Act \[Oct. 17, 2000\] shall be eligible to receive a sixth year of funding under the grant in an amount not to exceed the amount that such grantee received in the fifth year of funding under such grant. Such sixth year may be funded without requiring peer and Advisory Council review as required under section 504 of such Act (42 U.S.C. 290aa–3).
+
+“(2)
+
+Limitation.—Paragraph (1) shall apply with respect to a grantee only if the grantee agrees to comply with the provisions of section 561 as amended by subsection (a).”
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 290ff–1, 290ff–2, 290ff–3, 290ff–4 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “years,”.</i>
 

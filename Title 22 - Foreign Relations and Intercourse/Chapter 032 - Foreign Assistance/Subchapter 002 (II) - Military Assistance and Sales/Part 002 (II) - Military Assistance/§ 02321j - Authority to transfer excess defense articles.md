@@ -14,7 +14,7 @@ The President is authorized to transfer excess defense articles under this secti
 
 &emsp;(C) the transfer of such articles will not have an adverse impact on the military readiness of the United States;
 
-&emsp;(D) with respect to a proposed transfer of such articles on a grant basis, such a transfer is preferable to a transfer on a sales basis, after taking into account the potential proceeds from, and likelihood of, such sales, and the comparative foreign policy benefits that may accrue to the United States as the result of a transfer on either a grant or sales basis;
+&emsp;(D) with respect to a proposed transfer of such articles on a grant basis, such a transferis preferable to a transfer on a sales basis, after taking into account the potential proceeds from, and likelihood of, such sales, and the comparative foreign policy benefits that may accrue to the United States as the result of a transfer on either a grant or sales basis;
 
 &emsp;(E) the President determines that the transfer of such articles will not have an adverse impact on the national technology and industrial base and, particularly, will not reduce the opportunities of entities in the national technology and industrial base to sell new or used equipment to the countries to which such articles are transferred; and
 
@@ -50,7 +50,7 @@ Section 2392(d) of this title shall not apply with respect to transfers of exces
 
 &emsp;&emsp;(B) the recipient is a developing country receiving less than $10,000,000 of assistance under part V of this subchapter (relating to international military education and training) or section 23 of the Arms Export Control Act (22 U.S.C. 2763; relating to the Foreign Military Financing program) in the fiscal year in which the transportation is provided;
 
-&emsp;&emsp;(C) the total weight of the transfer does not exceed 25,000 pounds; and
+&emsp;&emsp;(C) the total weight of the transfer does not exceed 50,000 pounds; and
 
 &emsp;&emsp;(D) such transportation is accomplished on a space available basis.
 
@@ -90,7 +90,7 @@ Documents described in subsection (a) of this section justifying the transfer of
 
 For purposes of this section, the term “excess defense articles” shall be deemed to include excess property of the Coast Guard, and the term “Department of Defense” shall be deemed, with respect to such excess property, to include the Coast Guard.
 
-(Pub. L. 87–195, pt. II, §516, as added Pub. L. 99–661, div. A, title XI, §1101, Nov. 14, 1986, 100 Stat. 3960; amended Pub. L. 100–202, §101(b) \[title VIII, §8143\], Dec. 22, 1987, 101 Stat. 1321–43, 1329–89; Pub. L. 101–189, div. A, title IX, §934, Nov. 29, 1989, 103 Stat. 1538; Pub. L. 101–513, title V, §589, Nov. 5, 1990, 104 Stat. 2057; Pub. L. 102–190, div. A, title X, §1049(a), Dec. 5, 1991, 105 Stat. 1469; Pub. L. 102–391, title V, §574, Oct. 6, 1992, 106 Stat. 1683; Pub. L. 102–484, div. A, title XIII, §1313, Oct. 23, 1992, 106 Stat. 2548; Pub. L. 103–160, div. A, title XI, §1182(c)(2), title XIV, §1421, Nov. 30, 1993, 107 Stat. 1772, 1829; Pub. L. 103–236, title VII, §731(a), Apr. 30, 1994, 108 Stat. 502; Pub. L. 104–106, div. A, title X, §1012(g)(1), Feb. 10, 1996, 110 Stat. 422; Pub. L. 104–164, title I, §104(a), July 21, 1996, 110 Stat. 1424; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XII, §§1211(b), 1213\], Nov. 29, 1999, 113 Stat. 1536, 1501A–497, 1501A–498.)
+(Pub. L. 87–195, pt. II, §516, as added Pub. L. 99–661, div. A, title XI, §1101, Nov. 14, 1986, 100 Stat. 3960; amended Pub. L. 100–202, §101(b) \[title VIII, §8143\], Dec. 22, 1987, 101 Stat. 1321–43, 1329–89; Pub. L. 101–189, div. A, title IX, §934, Nov. 29, 1989, 103 Stat. 1538; Pub. L. 101–513, title V, §589, Nov. 5, 1990, 104 Stat. 2057; Pub. L. 102–190, div. A, title X, §1049(a), Dec. 5, 1991, 105 Stat. 1469; Pub. L. 102–391, title V, §574, Oct. 6, 1992, 106 Stat. 1683; Pub. L. 102–484, div. A, title XIII, §1313, Oct. 23, 1992, 106 Stat. 2548; Pub. L. 103–160, div. A, title XI, §1182(c)(2), title XIV, §1421, Nov. 30, 1993, 107 Stat. 1772, 1829; Pub. L. 103–236, title VII, §731(a), Apr. 30, 1994, 108 Stat. 502; Pub. L. 104–106, div. A, title X, §1012(g)(1), Feb. 10, 1996, 110 Stat. 422; Pub. L. 104–164, title I, §104(a), July 21, 1996, 110 Stat. 1424; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XII, §§1211(b), 1213\], Nov. 29, 1999, 113 Stat. 1536, 1501A–497, 1501A–498; Pub. L. 106–280, title I, §122, Oct. 6, 2000, 114 Stat. 851.)
 
 #### References in Text
 
@@ -103,6 +103,8 @@ The Arms Export Control Act, referred to in subsec. (f)(1), is Pub. L. 90–629,
 A prior section 2321j, Pub. L. 87–195, pt. II, §516, as added Pub. L. 94–329, title I, §105, June 30, 1976, 90 Stat. 732; amended Pub. L. 95–92, §§5(b), 7(b), Aug. 4, 1977, 91 Stat. 615, 617; Pub. L. 95–384, §7(b), Sept. 26, 1978, 92 Stat. 732; Pub. L. 96–92, §5(c), Oct. 29, 1979, 93 Stat. 703; Pub. L. 96–533, title I, §112(d), Dec. 16, 1980, 94 Stat. 3139, provided for termination of authorities contained in this part other than the authorities contained in sections 2318, 2321h, and 2321i of this title, prior to repeal by Pub. L. 97–113, title I, §110(d), Dec. 29, 1981, 95 Stat. 1526.
 
 #### Amendments
+
+2000—Subsec. (e)(2)(C). Pub. L. 106–280 substituted “50,000” for “25,000”.
 
 1999—Subsec. (b)(2). Pub. L. 106–113, §1000(a)(7) \[title XII, §1211(b)\], inserted “and thereafter for the four-period beginning on October 1, 2000,” after “October 1, 1996,”.
 
@@ -144,7 +146,7 @@ Subsecs. (c), (d). Pub. L. 100–202, §101(b) \[title VIII, §8143(c)(2)\], ins
 
 #### Effective Date of 1996 Amendment
 
-Section 1012(g)(2) of Pub. L. 104–106 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to the transfer of a vessel on or after the date of the enactment of this Act \[Feb. 10, 1996\] (other than a vessel the transfer of which is authorized by subsection (a) \[110 Stat. 421\] or by law before the date of the enactment of this Act).”
+Section 1012(g)(2) of Pub. L. 104–106 provided that: “The amendment made by paragraph (1) \[amending thissection\] shall apply with respect to the transfer of a vessel on or after the date of the enactment of this Act \[Feb. 10, 1996\] (other than a vessel the transfer of which is authorized by subsection (a) \[110 Stat. 421\] or by law before the date of the enactment of this Act).”
 
 #### Effective Date of 1993 Amendment
 
@@ -234,7 +236,7 @@ Maintenance of Military Balance in Eastern Mediterranean.—
 
 &emsp;“(1)
 
-United states policy.—The Congress intends that excess defense articles be made available under this section consistent with the United States policy, established by section 841 of the International Cooperation Act of 1989 \[probably means section 841 ofH.R. 2655, 101st Congress, which was not enacted\], of maintaining the military balance in the Eastern Mediterranean.
+United states policy.—The Congress intends that excess defense articles be made available under this section consistent with the United States policy, established by section 841 of the International Cooperation Act of 1989 \[probably means section 841 of H.R. 2655, 101st Congress, which was not enacted\], of maintaining the military balance in the Eastern Mediterranean.
 
 &emsp;“(2)
 
@@ -266,7 +268,7 @@ Uses of excess defense articles.—Excess defense articles may be furnished to a
 
 &emsp;“(3)
 
-Role of the secretary of state.—The Secretary of State shall determine the eligibility of countries to receive excess defense articles under subsection (a)(2) and insure that any transfer is coordinated with other antinarcotics enforcement programs assisted by the United States Government.
+Role of the secretary of state.—The Secretary of State shall determine the eligibility ofcountries to receive excess defense articles under subsection (a)(2) and insure that any transfer is coordinated with other antinarcotics enforcement programs assisted by the United States Government.
 
 &emsp;“(4)
 
@@ -296,7 +298,7 @@ Pub. L. 100–202, §101(e) \[title V, §582\], Dec. 22, 1987, 101 Stat. 1329–
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 287e–2 of this title.
+This section is referred to in sections 287e–2, 2305 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “four-year period”.</i>
 

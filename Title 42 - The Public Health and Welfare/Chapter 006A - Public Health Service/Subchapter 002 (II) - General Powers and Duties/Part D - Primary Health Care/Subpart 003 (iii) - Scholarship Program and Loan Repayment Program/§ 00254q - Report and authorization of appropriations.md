@@ -1,26 +1,12 @@
 ### §254q. Report and authorization of appropriations
 
-#### (a) Report
-
-The Secretary shall report on March 1 of each year to the Committee on Labor and Human Resources of the Senate, the Committee on Energy and Commerce of the House of Representatives, and the Committees on Appropriations of the Senate and the House of Representatives on—
-
-&emsp;(1) the number of providers of health care who will be needed for the Corps during the 5 fiscal years beginning after the date the report is filed; and
-
-&emsp;(2) the number—
-
-&emsp;&emsp;(A) of scholarships the Secretary proposes to provide under the Scholarship Program during such 5 fiscal years;
-
-&emsp;&emsp;(B) of individuals for whom the Secretary proposes to make loan repayments under the Loan Repayment Program during such 5 fiscal years; and
-
-&emsp;&emsp;(C) of individuals who have no obligation under section 254m of this title and who the Secretary proposes to have as members of the Corps during such 5 fiscal years,
-
-> in order to provide such number of health care providers.
+#### (a) Omitted
 
 #### (b) Funding
 
 #### (1) Authorization of appropriations
 
-&emsp;For the purpose of carrying out this subpart, there are authorized to be appropriated $63,900,000 for fiscal year 1991, and such sums as may be necessary for each of the fiscal years 1992 through 2000.
+&emsp;For the purpose of carrying out this subpart, there are authorized to be appropriated$63,900,000 for fiscal year 1991, and such sums as may be necessary for each of the fiscal years 1992 through 2000.
 
 #### (2) Reservation of amounts
 
@@ -40,15 +26,15 @@ A prior section 254q, act July 1, 1944, ch. 373, title III, §338G, formerly tit
 
 A prior section 338H of act July 1, 1944, was renumbered section 338I by Pub. L. 101–597 and is classified to section 254q–1 of this title.
 
+#### Codification
+
+Subsec. (a) of this section, which required the Secretary to report annually to certain committees of Congress on plans related to meeting the National Health Service Corps’ anticipated requirements for providers of health care, including the proposed number of scholarships under the Scholarship Program, the proposed number of loan repayments under the Loan Repayment Program, and the number of individuals who, without obligation under section 254m of this title, the Secretary proposes to have as members of the Corps, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 96 of House Document No. 103–7.
+
 #### Amendments
 
 1990—Subsec. (a). Pub. L. 101–597, §205(a), substituted “March 1” for “January 20” and “5 fiscal years” for “3 fiscal years” wherever appearing.
 
 Subsec. (b). Pub. L. 101–597, §205(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “There are authorized to be appropriated such sums as may be necessary for scholarships and loan repayments under this subpart.”
-
-#### Change of Name
-
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 

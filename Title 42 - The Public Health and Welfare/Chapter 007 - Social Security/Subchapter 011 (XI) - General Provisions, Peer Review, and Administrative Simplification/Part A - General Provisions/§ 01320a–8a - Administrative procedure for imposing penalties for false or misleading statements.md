@@ -40,17 +40,25 @@ A person subject to a period of nonpayment of benefits under subchapter II of th
 
 #### (e) Definition
 
-In this section, the term “benefits under subchapter XVI of this chapter” includes State supplementary payments made by the Commissioner pursuant to an agreement under section 1382e(a) of this title or section 212(b) of Public Law 93–66.
+In this section, the term “benefits under subchapter VIII or XVI of this chapter” includes State supplementary payments made by the Commissioner pursuant to an agreement under section 1010a or 1382e(a) of this title or section 212(b) of Public Law 93–66, as the case may be.
 
 #### (f) Consultations
 
 The Commissioner of Social Security shall consult with the Inspector General of the Social Security Administration regarding initiating actions under this section.
 
-(Aug. 14, 1935, ch. 531, title XI, §1129A, as added Pub. L. 106–169, title II, §207(a), Dec. 14, 1999, 113 Stat. 1837.)
+(Aug. 14, 1935, ch. 531, title XI, §1129A, as added Pub. L. 106–169, title II, §207(a), Dec. 14, 1999, 113 Stat. 1837; amended Pub. L. 106–554, §1(a)(1) \[title V, §518(b)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–74.)
 
 #### References in Text
 
 Section 212(b) of Public Law 93–66, referred to in subsec. (e), is section 212(b) of Pub. L. 93–66, title II, July 9, 1973, 87 Stat. 155, as amended, which is set out as a note under section 1382 of this title.
+
+#### Amendments
+
+2000—Subsec. (e). Pub. L. 106–554, §1(a)(1) \[title V, §518(b)(2)(B), (D)\], inserted “1010a or” after “agreement under section” and “, as the case may be” before period at end.
+
+Pub. L. 106–554, §1(a)(1) \[title V, §518(b)(2)(C)\], which directed the amendment of subsec. (e) by inserting “1010A or” before “1382(e)(a)”, could not be executed because “1382(e)(a)” does not appear in text.
+
+Pub. L. 106–554, §1(a)(1) \[title V, §518(b)(2)(A)\], which directed the amendment of subsec. (e) by inserting “VIII or” after “benefits under”, was executed by making the insertion after “benefits under subchapter” to reflect the probable intent of Congress.
 
 #### Effective Date
 

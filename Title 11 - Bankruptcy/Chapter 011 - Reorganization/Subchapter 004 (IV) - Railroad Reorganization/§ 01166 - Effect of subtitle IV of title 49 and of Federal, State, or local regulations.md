@@ -12,7 +12,7 @@ Except with respect to abandonment under section 1170 of this title, or merger, 
 
 I74legislative statements
 
-Section 1166 of the House amendment is derived from sections 1164 and 1165 of the House bill. An alternative proposal contained in section 1168(1) of the Senate bill is rejected as violative of the principle of equal treatment of all creditors under title 11.
+Section 1166 of the House amendment is derived from sections 1164 and 1165 of the House bill. An alternativeproposal contained in section 1168(1) of the Senate bill is rejected as violative of the principle of equal treatment of all creditors under title 11.
 
 #### senate report no. 95–989
 
@@ -42,7 +42,7 @@ Section 601(b) of the Regional Rail Reorganization Act of 1973, referred to in p
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commencedunder this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
+Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
 
 #### Section Referred to in Other Sections
 

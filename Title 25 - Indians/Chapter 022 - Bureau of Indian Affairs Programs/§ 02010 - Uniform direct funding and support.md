@@ -54,13 +54,13 @@ In the exercise of its authority under this section, a local school board may re
 
 (1) A financial plan under subsection (b) of this section for a school may include, at the discretion of the local administrator and the school board of such school, a provision for a summer program of academic and support services for students of the school. Any such program may include activities related to the prevention of alcohol and substance abuse. The Assistant Secretary of Indian Affairs shall provide for the utilization of any such school facility during any summer in which such utilization is requested.
 
-(2) Notwithstanding any other provision of law, funds authorized under the Act of April 16, 1934 (25 U.S.C. 452 et seq.) and this Act may be used to augment the services provided in each summer program at the option, and under the control, of the tribe or Indian controlled school receiving such funds.
+(2) Notwithstanding any other provision of law, funds authorized under the Act of April 16, 1934 (25 U.S.C. 452 et seq.) and this Act may be used to augment the services provided in each summer program at the option, and under thecontrol, of the tribe or Indian controlled school receiving such funds.
 
 (3) The Assistant Secretary of Indian Affairs, acting through the Director of the Office, shall provide technical assistance and coordination for any program described in paragraph (1) and shall, to the extent possible, encourage the coordination of such programs with any other summer programs that might benefit Indian youth, regardless of the funding source or administrative entity of any such program.
 
 #### (f) Cooperative agreements
 
-(1) From funds allotted to a Bureau school under section 2007 of this title, the Secretary shall, if specifically requested by the tribal governing body (within the meaning of section2001(k) of this title), implement any cooperative agreement entered into between the tribe, the Bureau school board, and the local public school district which meets the requirements of paragraph (2) and involves the school. The tribe, the Bureau school board, and the local public school district shall determine the terms of the agreement. Such agreement may encompass coordination of all or any part of the following:
+(1) From funds allotted to a Bureau school under section 2007 of this title, the Secretary shall, if specifically requested by the tribal governing body (within the meaning of section 2001(k) of this title), implement any cooperative agreement entered into between the tribe, the Bureau school board, and the local public school district which meets the requirements of paragraph (2) and involves the school. The tribe, the Bureau school board, and the local public school district shall determine the terms of the agreement. Such agreement may encompass coordination of all or any part of the following:
 
 &emsp;(A) Academic program and curriculum, unless the Bureau school is currently accredited by a State or regional accrediting entity and would not continue to be so accredited.
 

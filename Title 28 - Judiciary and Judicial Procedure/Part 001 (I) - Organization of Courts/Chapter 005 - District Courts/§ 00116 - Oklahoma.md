@@ -4,7 +4,7 @@ Oklahoma is divided into three judicial districts to be known as the Northern, E
 
 ### Northern District
 
-(a) The Northern District comprises the counties of Craig, Creek, Delaware, Mayes, Nowata, Osage, Ottawa, Pawnee, Rogers, Tulsa, and Washington.
+(a) The Northern District comprises the counties of Craig, Creek, Delaware, Mayes, Nowata,Osage, Ottawa, Pawnee, Rogers, Tulsa, and Washington.
 
 &emsp;&emsp;Court for the Northern District shall be held at Bartlesville, Miami, Pawhuska, Tulsa, and Vinita.
 
@@ -40,7 +40,7 @@ Changes in arrangement and phraseology were made.
 
 #### Amendments
 
-1966—Pub. L. 89–526 transferred from the Eastern District in subsec. (b) to the Western District in subsec. (c) the counties of Garvin, Grady, Jefferson, McClain, and Stephens and the places for holding court at Chickasha and Pauls Valley.
+<b>1966</b>—Pub. L. 89–526 transferred from the Eastern District in subsec. (b) to the Western District in subsec. (c) the counties of Garvin, Grady, Jefferson, McClain, and Stephens and the places for holding court at Chickasha and Pauls Valley.
 
 #### Effective Date of 1966 Amendment
 

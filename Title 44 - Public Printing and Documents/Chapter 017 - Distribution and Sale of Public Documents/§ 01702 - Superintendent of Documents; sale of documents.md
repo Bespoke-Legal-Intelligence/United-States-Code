@@ -16,22 +16,6 @@ This section incorporates only part of former section 73. The balance will be fo
 
 “House of Representatives Publications Distribution Service” is substituted for “House Folding Room” because of the change of name under authority of Public Law 88–652.
 
-#### Cross References
-
-Copyrights, catalog of entries; distribution and sale, see section 707 of Title 17, Copyrights.
-
-Economic Indicators, distribution, see section 1025 of Title 15, Commerce and Trade.
-
-Prices for sales copies of publication, cost basis plus 50 percent and discounts, see section 1708 of this title.
-
-Printing of reentry permits and blank forms of manifest and crew lists; sale to public, see section 1352 of Title 8, Aliens and Nationality.
-
-Reprinting of documents required for sale, see section 1707 of this title.
-
-Senate Service Department and House Publications Distribution Service, see section 740 of this title.
-
-United States Statutes at Large, distribution, see section 728 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 4102 of this title; title 28 section 594.

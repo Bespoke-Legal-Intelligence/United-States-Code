@@ -14,7 +14,7 @@ For purposes of this subchapter only:
 
 #### (2) Natural disaster
 
-&emsp;The term “natural disaster” means any hurricane, tornado, storm, flood, high water,wind-driven water, tidal wave, tsunami, earthquake, volcanic eruption, landslide, mudslide, snowstorm, drought, fire, or other catastrophe in any part of the United States which causes, or which may cause, substantial damage or injury to civilian property or persons.
+&emsp;The term “natural disaster” means any hurricane, tornado, storm, flood, high water, wind-driven water, tidal wave, tsunami, earthquake, volcanic eruption, landslide, mudslide, snowstorm, drought, fire, or other catastrophe in any part of the United States which causes, or which may cause, substantial damage or injury to civilian property or persons.
 
 #### (3) Emergency preparedness
 

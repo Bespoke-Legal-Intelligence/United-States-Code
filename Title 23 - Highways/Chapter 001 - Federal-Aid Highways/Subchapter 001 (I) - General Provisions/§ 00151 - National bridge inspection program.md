@@ -28,7 +28,7 @@ Training Program for Bridge Inspectors.—The Secretary, in cooperation with the
 
 (d)
 
-Availability of Funds.—To carry out this section, the Secretary may use funds made available pursuant to the provisions of section 104(a), section 502, and section 144 of this title.
+Availability of Funds.—To carry out this section, the Secretary may use funds madeavailable pursuant to the provisions of section 104(a), section 502, and section 144 of this title.
 
 (Added Pub. L. 100–17, title I, §125(a), Apr. 2, 1987, 101 Stat. 166; amended Pub. L. 105–178, title I, §1212(a)(2)(A)(ii), title V, §5119(e), June 9, 1998, 112 Stat. 193, 452.)
 

@@ -8,10 +8,6 @@ The Secretary of Agriculture may, when in his judgment such action will be in th
 
 1976—Pub. L. 94–588 struck out “or” before “(3)” and substituted “, or (4) protecting and improving the future productivity of the renewable resources of the forest land on such sale area, including sale area improvement operations, maintenance and construction, reforestation and wildlife habitat management” for “: <i>Provided</i>, That the total amount so required to be deposited by any purchaser shall not exceed, on an acreage basis, the average cost of planting (including the production or purchase of young trees) other comparable national-forest lands during the previous three years”.
 
-#### Cross References
-
-Classification, appropriation, and disbursement of trust funds, see section 1321 of Title 31, Money and Finance.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 500 of this title.

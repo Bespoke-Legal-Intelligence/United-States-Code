@@ -12,7 +12,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;(C) an individual with a developmental disability;
 
-&emsp;(3) the term “developmental disability” has the same meaning as in section 6001(7) <sup>1</sup> of this title;
+&emsp;(3) the term “developmental disability” has the same meaning as in section 15002 of this title;
 
 &emsp;(4) the term “equipment” has the same meaning given that term by section 198(a)(8) of the Elementary and Secondary Education Act of 1965; <sup>1</sup>
 
@@ -30,15 +30,15 @@ For purposes of this subchapter—
 
 &emsp;(11) the term “State educational agency” has the meaning given that term under section 8801 of title 20.
 
-(Pub. L. 97–35, title VI, §670G, as added Pub. L. 98–558, title I, §109, Oct. 30, 1984, 98 Stat. 2883; amended Pub. L. 99–425, title III, §303, Sept. 30, 1986, 100 Stat. 967; Pub. L. 101–501, title III, §305(c), Nov. 3, 1990, 104 Stat. 1250; Pub. L. 103–382, title III, §394(<i>l</i>), Oct. 20, 1994, 108 Stat. 4029; Pub. L. 105–244, title I, §102(a)(13)(H), Oct. 7, 1998, 112 Stat. 1621.)
+(Pub. L. 97–35, title VI, §670G, as added Pub. L. 98–558, title I, §109, Oct. 30, 1984, 98 Stat. 2883; amended Pub. L. 99–425, title III, §303, Sept. 30, 1986, 100 Stat. 967; Pub. L. 101–501, title III, §305(c), Nov. 3, 1990, 104 Stat. 1250; Pub. L. 103–382, title III, §394(<i>l</i>), Oct. 20, 1994, 108 Stat. 4029; Pub. L. 105–244, title I, §102(a)(13)(H), Oct. 7, 1998, 112 Stat. 1621; Pub. L. 106–402, title IV, §401(b)(12), Oct. 30, 2000, 114 Stat. 1739.)
 
 #### References in Text
 
-Section 6001(7) of this title, referred to in par. (3), was subsequently amended, and section 6001(7) no longer defines the term “developmental disability”. However, such term is defined elsewhere in that section.
-
-Section 198 of the Elementary and Secondary Education Act of 1965, referred to in par. (4), is section 198 of Pub. L. 89–10, title I, as added Pub. L. 95–561, title I, §101(a), Nov. 1, 1978, 92 Stat. 2198, as amended, whichwas classified to section 2854 of Title 20, Education, prior to the general revision of Pub. L. 89–10 by Pub. L. 100–297, title I, §1001, Apr. 28, 1988, 102 Stat. 140.
+Section 198 of the Elementary and Secondary Education Act of 1965, referred to in par. (4), is section 198 of Pub. L. 89–10, title I, as added Pub. L. 95–561, title I, §101(a), Nov. 1, 1978, 92 Stat. 2198, as amended, which was classified to section 2854 of Title 20, Education, prior to the general revision of Pub. L. 89–10 by Pub. L. 100–297, title I, §1001, Apr. 28, 1988, 102 Stat. 140.
 
 #### Amendments
+
+2000—Par. (3). Pub. L. 106–402 substituted “section 15002 of this title” for “section 6001(7) of this title”.
 
 1998—Par. (5). Pub. L. 105–244, which directed amendment of section 670G(5) of the Child Care and Development Block Grant Act of 1990 (42 U.S.C. 9877(5)) by substituting “section 1001” for “section 1141(a)”, was executed to this section, which is section 670G(5) of subchapter E of chapter 8 of subtitle A of title VI of Pub. L. 97–35, known as the State Dependent Care Development Grants Act, to reflect the probable intent of Congress.
 

@@ -124,7 +124,7 @@ Pub. L. 104–65, §16(b), redesignated subsec. (d) as (c).
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–117, title V, §511(d)(2), Nov. 30, 1999, 113 Stat. 1576, provided that: “If pursuant to subsection (a)\[113 Stat. 1575\] the amendments specified in subsection (c) \[amending this section\] are made, those amendments shall take effect as of October 31, 1998, as if included in subsection (f) of section 3304 of title 5, United States Code, as enacted by section 2 of the Veterans Employment Opportunities Act of 1998 (Public Law 105–339; 112 Stat. 3182).”
+Pub. L. 106–117, title V, §511(d)(2), Nov. 30, 1999, 113 Stat. 1576, provided that: “If pursuant to subsection (a) \[113 Stat. 1575\] the amendments specified in subsection (c) \[amending this section\] are made, those amendments shall take effect as of October 31, 1998, as if included in subsection (f) of section 3304 of title 5, United States Code, as enacted by section 2 of the Veterans Employment Opportunities Act of 1998 (Public Law 105–339; 112 Stat. 3182).”
 
 #### Effective Date of 1995 Amendment
 
@@ -139,10 +139,6 @@ Section 17(b) of Pub. L. 104–65 provided that: “The amendment made by this s
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
-
-#### Cross References
-
-President's power to grant exceptions from provisions of subsec. (a) of this section, see section 3302 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -22,20 +22,6 @@
 
 1984—Pub. L. 98–547, title III, §301(b), Oct. 25, 1984, 98 Stat. 2771, added item 553.
 
-#### Cross References
-
-Bribery of public officials, see section 201 of this title.
-
-Enforcement provisions, section 1581 et seq. of Title 19, Customs Duties.
-
-Forfeitures; penalty for aiding unlawful importation, see section 1595a of Title 19.
-
-Libel of vessels and vehicles, see section 1594 of Title 19.
-
-Search of vehicles and persons, see section 482 of Title 19.
-
-Searches and seizures, see section 1595 of Title 19.
-
 
 ---
 

@@ -26,7 +26,7 @@ False and incomplete information.—The filing of false or materially incomplete
 
 (b)
 
-Contents of Registration.—The registration of a money transmitting business under subsection (a) shall include the following information:
+Contents of Registration.—The registration of a money transmitting business undersubsection (a) shall include the following information:
 
 &emsp;(1) The name and location of the business.
 

@@ -12,7 +12,7 @@
 
 &emsp;(B) specifically states that such provision of law modifies or supersedes the provisions of this section; and
 
-&emsp;(C) specifically identifies the particular college or university involved and states that thegrant to be made or the contract to be awarded, as the case may be, pursuant to such provision of law is being made or awarded in contravention of subsection (a).
+&emsp;(C) specifically identifies the particular college or university involved and states that the grant to be made or the contract to be awarded, as the case may be, pursuant to such provision of law is being made or awarded in contravention of subsection (a).
 
 (2) A grant may not be made, or a contract awarded, pursuant to a provision of law that authorizes or requires the making of the grant, or the awarding of the contract, in a manner that is inconsistent with subsection (a) until—
 

@@ -18,9 +18,5 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1988—Pub. L. 100–702 inserted at end “A law clerk appointed under this section shall be exempt from the provisions of subchapter I of chapter 63 of title 5, unless specifically included by the appointing judge or by local rule of court.”
-
-#### Cross References
-
-Compensation and expenses of court officers and employees, see section 604 of this title.
+<b>1988</b>—Pub. L. 100–702 inserted at end “A law clerk appointed under this section shall be exempt from the provisions of subchapter I of chapter 63 of title 5, unless specifically included by the appointing judge or by local rule of court.”
 

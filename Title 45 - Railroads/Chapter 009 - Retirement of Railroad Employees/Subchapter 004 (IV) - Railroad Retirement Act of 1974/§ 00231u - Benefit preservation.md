@@ -6,7 +6,7 @@
 
 &emsp;(B) the first fiscal year during which the Board would recommend suspension of the authority to borrow contained in section 360(d) of this title, in order to prevent depletion of the Railroad Retirement Account; and
 
-&emsp;(C) the amount, if any, of adjustments (stated in terms of percentage of taxable payroll), and any other changes such as cash flow adjustments, necessary to preserve the financial solvency of the Railroad Retirement Account,if such adjustments were effective at the beginning of the next succeeding fiscal year.
+&emsp;(C) the amount, if any, of adjustments (stated in terms of percentage of taxable payroll), and any other changes such as cash flow adjustments, necessary to preserve the financial solvency of the Railroad Retirement Account, if such adjustments were effective at the beginning of the next succeeding fiscal year.
 
 (2) Not less than 20 nor more than 30 days after the submission of a written report under this subsection which indicates that, in the absence of any adjustments, the Railroad Retirement Account will contain insufficient funds to pay the full amount of the benefits under this subchapter which are payable from that Account at some time during the five-year period covered by the report, the Board shall publish such report in the Federal Register.
 
@@ -20,7 +20,7 @@
 
 &emsp;(1) provide a constant level of benefits at the maximum level possible for every month of that fiscal year; and
 
-&emsp;(2) provide that no individual shall receive less during that fiscal year than the amount otherwise payable if the employee's service as an employee after December 31, 1936, had been covered under the Social Security Act \[42 U.S.C. 301 et seq.\], minus the amount of any reduction required under section 231b(m) or 231c(i) of this title.
+&emsp;(2) provide that no individual shall receive less during that fiscal year than the amountotherwise payable if the employee's service as an employee after December 31, 1936, had been covered under the Social Security Act \[42 U.S.C. 301 et seq.\], minus the amount of any reduction required under section 231b(m) or 231c(i) of this title.
 
 > Unless otherwise provided by law enacted after August 13, 1981, or by a later report filed by the Board under subsection (a) of this section, regulations issued by the Board under this subsection shall apply beginning with the fiscal year designated by the Board in its written report under subsection (a) of this section. Any Board regulation which becomes effective under this subsection may be modified, rescinded, or superseded in the same manner and to the same extent as in the case of any other Board regulation issued under authority of this subchapter.
 

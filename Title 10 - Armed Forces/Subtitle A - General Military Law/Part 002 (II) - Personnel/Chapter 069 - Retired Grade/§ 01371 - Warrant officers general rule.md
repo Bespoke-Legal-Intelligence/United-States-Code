@@ -1,6 +1,6 @@
 ### §1371. Warrant officers: general rule
 
-Unless entitled to a higher retired grade under some other provision of law, a warrant officerretires, as determined by the Secretary concerned, in the permanent regular or reserve warrant officer grade, if any, that he held on the day before the date of his retirement, or in any higher warrant officer grade in which he served on active duty satisfactorily, as determined by the Secretary, for a period of more than 30 days.
+Unless entitled to a higher retired grade under some other provision of law, a warrant officer retires, as determined by the Secretary concerned, in the permanent regular or reserve warrant officer grade, if any, that he held on the day before the date of his retirement, or in any higher warrant officer grade in which he served on active duty satisfactorily, as determined by the Secretary, for a period of more than 30 days.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 104.)
 

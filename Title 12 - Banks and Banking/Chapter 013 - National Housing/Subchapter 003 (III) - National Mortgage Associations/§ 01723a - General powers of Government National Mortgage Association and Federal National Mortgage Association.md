@@ -216,7 +216,7 @@ Subsec. (h). Pub. L. 90–448, §802(ee), added subsec. (h).
 
 #### Change of Name
 
-Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Effective Date of 1974 Amendment
 
@@ -237,12 +237,6 @@ Advisory councils established after Jan. 5, 1973, to terminate not later than th
 #### Proposal by Federal National Mortgage Association Respecting Mortgage-Backed Securities Program; Approval, Etc.
 
 Pub. L. 96–399, title III, §330, Oct. 8, 1980, 94 Stat. 1652, provided that: “If the Federal National Mortgage Association submits to the Secretary of Housing and Urban Development or the Secretary of the Treasury, after the date of enactment of this section \[Oct. 8, 1980\], a proposal with respect to undertaking a mortgage-backed securities program, the Secretary of Housing and Urban Development or the Secretary of the Treasury, as the case may be, shall, within 90 days after submission of such proposal, approve the proposal or transmit to the Congress a report explaining why the proposal has not been approved.”
-
-#### Cross References
-
-Penalty for false advertising or misuse of name of Federal National Mortgage Association, see section 709 of Title 18, Crimes and Criminal Procedure.
-
-United States obligations and evidences of ownership as subject to Federal taxation, see section 3124(b) of Title 31, Money and Finance.
 
 #### Section Referred to in Other Sections
 

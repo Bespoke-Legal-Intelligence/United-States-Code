@@ -58,7 +58,13 @@
 
 (B) Notification under this paragraph shall be provided by employing agencies at an appropriate point in time before each period under paragraph (1) so that employees may be aware of their rights under section 8905a of this title when making enrollment decisions during such period.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 603; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 98–615, §3(4), Nov. 8, 1984, 98 Stat. 3203; Pub. L. 99–53, §2(a), (c), June 17, 1985, 99 Stat. 94; Pub. L. 99–251, title I, §§103, 104(a), Feb. 27, 1986, 100 Stat. 14; Pub. L. 99–335, title II, §207(m), June 6, 1986, 100 Stat. 598; Pub. L. 100–654, title II, §§201(c), (d), 202(c), Nov. 14, 1988, 102 Stat. 3845; Pub. L. 102–378, §2(77), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 105–261, div. A, title VII, §721(b)(1), Oct. 17, 1998, 112 Stat. 2065.)
+(h)(1) An unenrolled employee who is required by a court or administrative order to provide health insurance coverage for a child who meets the requirements of section 8901(5) may enroll for self and family coverage in a health benefits plan under this chapter. If such employee fails to enroll for self and family coverage in a health benefits plan that provides full benefits and services in the location in which the child resides, and the employee does not provide documentation showing that such coverage has been provided through other health insurance, the employing agency shall enroll the employee in a self and family enrollment in the option which provides the lower level of coverage under the Service Benefit Plan.
+
+(2) An employee who is enrolled as an individual in a health benefits plan under this chapter and who is required by a court or administrative order to provide health insurance coverage for a child who meets the requirements of section 8901(5) may change to a self and family enrollment in the same or another health benefits plan under this chapter. If such employee fails to change to a self and family enrollment and the employee does not provide documentation showing that such coverage has been provided through other health insurance, the employing agency shall change the enrollment of the employee to a self and family enrollment in the plan in which the employee is enrolled if that plan provides full benefits and services in the location where the child resides. If the plan in which the employee is enrolled does not provide full benefits and services in the location in which the child resides, or, if the employee fails to change to a self and family enrollment in a plan that provides full benefits and services in the location where the child resides, the employing agency shall change the coverage of the employee to a self and family enrollment in the option which provides the lower level of coverage under the Service Benefits Plan.
+
+(3) The employee may not discontinue the self and family enrollment in a plan that provides full benefits and services in the location in which the child resides for so long as the court or administrative order remains in effect and the child continues to meet the requirements of section 8901(5), unless the employee provides documentation showing that such coverage has been provided through other health insurance.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 603; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 98–615, §3(4), Nov. 8, 1984, 98 Stat. 3203; Pub. L. 99–53, §2(a), (c), June 17, 1985, 99 Stat. 94; Pub. L. 99–251, title I, §§103, 104(a), Feb. 27, 1986, 100 Stat. 14; Pub. L. 99–335, title II, §207(m), June 6, 1986, 100 Stat. 598; Pub. L. 100–654, title II, §§201(c), (d), 202(c), Nov. 14, 1988, 102 Stat. 3845; Pub. L. 102–378, §2(77), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 105–261, div. A, title VII, §721(b)(1), Oct. 17, 1998, 112 Stat. 2065; Pub. L. 106–394, §2, Oct. 30, 2000, 114 Stat. 1629.)
 
 Historical and Revision Notes
 
@@ -85,6 +91,8 @@ In subsection (b)(1)(C), the words “before January 1, 1965” are substituted 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
 #### Amendments
+
+2000—Subsec. (h). Pub. L. 106–394 added subsec. (h).
 
 1998—Subsecs. (d) to (g). Pub. L. 105–261 added subsec. (d) and redesignated former subsecs. (d) to (f) as (e) to (g), respectively.
 
@@ -150,7 +158,7 @@ Sec. 2. (a) Notwithstanding any other provision of law, an annuitant, as defined
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 6302 of this title.
+This section is referred to in section 6302 of this title; title 2 section 162b.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

@@ -44,7 +44,7 @@
 
 (1) In any case in which the Secretary of Energy determines that the Secretary may be required to indemnify a person or entity under this section for any claim for injury to person or property referred to in subsection (b)(1) of this section, the Secretary may settle or defend the claim on behalf of that person or entity.
 
-(2) In any case described in paragraph (1), if the person or entity that the Secretary may berequired to indemnify does not allow the Secretary to settle or defend the claim, the person or entity may not be indemnified with respect to that claim under this section.
+(2) In any case described in paragraph (1), if the person or entity that the Secretary may be required to indemnify does not allow the Secretary to settle or defend the claim, the person or entity may not be indemnified with respect to that claim under this section.
 
 #### (e) Relationship to other law
 

@@ -14,7 +14,7 @@ Requirements.—The curriculum developed under subsection (a) of this section—
 
 &emsp;&emsp;(B) recommended basic courses and minimum number of hours of instruction necessary for public sector employees to be able to respond safely and efficiently to an accident or incident involving the transportation of hazardous material and to plan those responses; and
 
-&emsp;&emsp;(C) appropriate emergency response training and planning programs for public sector employees developed under other United States Government grant programs, including those developed with grants made under section 126(g) of the Superfund Amendments and Reauthorization Act of 1986 (42 U.S.C. 9660a); and
+&emsp;&emsp;(C) appropriate emergency response training and planning programs for public sectoremployees developed under other United States Government grant programs, including those developed with grants made under section 126(g) of the Superfund Amendments and Reauthorization Act of 1986 (42 U.S.C. 9660a); and
 
 &emsp;(2) may include recommendations on material appropriate for use in a recommended basic course described in clause (1)(B) of this subsection.
 

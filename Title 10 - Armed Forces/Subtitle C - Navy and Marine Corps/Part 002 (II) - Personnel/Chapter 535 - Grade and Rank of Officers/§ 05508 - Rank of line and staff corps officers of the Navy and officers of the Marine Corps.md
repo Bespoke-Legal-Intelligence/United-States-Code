@@ -20,7 +20,7 @@ Aug. 7, 1947, ch. 512, §311(d)(2), 61 Stat. 852; Aug. 5, 1949, ch. 402, §1(c),
 
 The word “rank” is substituted for the words “take precedence” throughout the section for uniformity of expression.
 
-In subsection (a) the first sentence is broadened to include officers of the Marine Corps and officers not on alineal list. Inclusion of the Marine Corps is possible because the sentence reflects the rule referred to by the Attorney General (25 Op. Atty. Gen. 517) as “an unwritten law of the Army and Navy” as to relative rank between officers in different services. Officers not on a lineal list may properly be included since the statement is consistent with the provisions for assigning lineal position to such officers when they become entitled to be placed on a list.
+In subsection (a) the first sentence is broadened to include officers of the Marine Corps and officers not on a lineal list. Inclusion of the Marine Corps is possible because the sentence reflects the rule referred to by the Attorney General (25 Op. Atty. Gen. 517) as “an unwritten law of the Army and Navy” as to relative rank between officers in different services. Officers not on a lineal list may properly be included since the statement is consistent with the provisions for assigning lineal position to such officers when they become entitled to be placed on a list.
 
 #### Amendments
 
@@ -31,8 +31,4 @@ In subsection (a) the first sentence is broadened to include officers of the Mar
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under section 101 of this title.
-
-#### Cross References
-
-Running mates, see section 5665 of this title.
 

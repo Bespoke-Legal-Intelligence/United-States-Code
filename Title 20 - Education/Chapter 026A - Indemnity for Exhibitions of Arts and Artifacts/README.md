@@ -21,7 +21,7 @@
 | (a) | Regulations for prompt adjustment. |
 | (b) | Certification. |
 | [976\.](%C2%A7%2000976%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-| [977\.](%C2%A7%2000977%20-%20Annual%20report%20to%20Congress.md) | Annual report to Congress. |
+| [977\.](%C2%A7%2000977%20-%20Omitted.md) | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -36,4 +36,4 @@
 - [&sect; 00974 - Indemnity limits](%C2%A7%2000974%20-%20Indemnity%20limits.md)
 - [&sect; 00975 - Claims for losses](%C2%A7%2000975%20-%20Claims%20for%20losses.md)
 - [&sect; 00976 - Authorization of appropriations](%C2%A7%2000976%20-%20Authorization%20of%20appropriations.md)
-- [&sect; 00977 - Annual report to Congress](%C2%A7%2000977%20-%20Annual%20report%20to%20Congress.md)
+- [&sect; 00977 - Omitted](%C2%A7%2000977%20-%20Omitted.md)

@@ -6,7 +6,7 @@
 
 &emsp;(B) in the case of a marriage after retirement, the annuitant did not file an election under section 8416(b) or (c), as the case may be.
 
-(2) A spouse acquired after retirement is entitled to an annuity under this subsection (as provided in paragraph (1)) only upon electing this annuity instead of any other survivor benefit to which such spouse may be entitled under this subchapter or section 8424 or under another retirement system for Government employees.
+(2) A spouse acquired after retirement is entitled to an annuity under this subsection (as provided in paragraph (1)) only upon electing this annuity instead of any other survivor benefit to which such spouse may be entitled under thissubchapter or section 8424 or under another retirement system for Government employees.
 
 (b)(1) If an employee or Member dies after completing at least 18 months of civilian service creditable under section 8411 and is survived by a widow or widower, the widow or widower is entitled to—
 
@@ -76,7 +76,7 @@
 
 &emsp;(2) the surviving spouse of the individual had been previously married to such individual and subsequently divorced, and the aggregate time married is at least 9 months.
 
-(f)(1) Subject to paragraph (4), a survivor who is entitled to an annuity under subsection (a)shall also be entitled to a supplementary annuity under this subsection.
+(f)(1) Subject to paragraph (4), a survivor who is entitled to an annuity under subsection (a) shall also be entitled to a supplementary annuity under this subsection.
 
 (2) A supplementary annuity under this subsection shall be equal to the lesser of—
 
@@ -126,7 +126,7 @@
 
 &emsp;&emsp;(A) the amount of the annuity which would otherwise be payable to such widow or widower under this section; and
 
-&emsp;&emsp;(B) the amount of the annuity payable to any former spouse of the deceased employee, Member, or annuitant, or former employee or Member, based on an election made under section 8417(b) or a court order previously issued or agreement previously entered into as described in section 8445(a).
+&emsp;&emsp;(B) the amount of the annuity payable to any former spouse of the deceased employee,Member, or annuitant, or former employee or Member, based on an election made under section 8417(b) or a court order previously issued or agreement previously entered into as described in section 8445(a).
 
 &emsp;(2) The amount payable under subsection (b)(1)(A) to a widow or widower may not exceed the difference between—
 

@@ -10,7 +10,7 @@
 
 (b)(1) The Board may hear any case appealed to it or may refer the case to an administrative law judge appointed under section 3105 of this title or other employee of the Board designated by the Board to hear such cases, except that in any case involving a removal from the service, the case shall be heard by the Board, an employee experienced in hearing appeals, or an administrative law judge. The Board, administrative law judge, or other employee (as the case may be) shall make a decision after receipt of the written representations of the parties to the appeal and after opportunity for a hearing under subsection (a)(1) of this section. A copy of the decision shall be furnished to each party to the appeal and to the Office of Personnel Management.
 
-(2)(A) If an employee or applicant for employment is the prevailing party in an appeal underthis subsection, the employee or applicant shall be granted the relief provided in the decision effective upon the making of the decision, and remaining in effect pending the outcome of any petition for review under subsection (e), unless—
+(2)(A) If an employee or applicant for employment is the prevailing party in an appeal under this subsection, the employee or applicant shall be granted the relief provided in the decision effective upon the making of the decision, and remaining in effect pending the outcome of any petition for review under subsection (e), unless—
 
 &emsp;(i) the deciding official determines that the granting of such relief is not appropriate; or
 
@@ -68,7 +68,7 @@
 
 (g)(1) Except as provided in paragraph (2) of this subsection, the Board, or an administrative law judge or other employee of the Board designated to hear a case, may require payment by the agency involved of reasonable attorney fees incurred by an employee or applicant for employment if the employee or applicant is the prevailing party and the Board, administrative law judge, or other employee (as the case may be) determines that payment by the agency is warranted in the interest of justice, including any case in which a prohibited personnel practice was engaged in by the agency or any case in which the agency's action was clearly without merit.
 
-(2) If an employee or applicant for employment is the prevailing party and the decision is based on a finding of discrimination prohibited under section 2302(b)(1) of this title, the payment of attorney fees shall be in accordance with the standards prescribed under section706(k) of the Civil Rights Act of 1964 (42 U.S.C. 2000e–5(k)).
+(2) If an employee or applicant for employment is the prevailing party and the decision is based on a finding of discrimination prohibited under section 2302(b)(1) of this title, the payment of attorney fees shall be in accordance with the standards prescribed under section 706(k) of the Civil Rights Act of 1964 (42 U.S.C. 2000e–5(k)).
 
 (h) The Board may, by regulation, provide for one or more alternative methods for settling matters subject to the appellate jurisdiction of the Board which shall be applicable at the election of an applicant for employment or of an employee who is not in a unit for which a labor organization is accorded exclusive recognition, and shall be in lieu of other procedures provided for under this section. A decision under such a method shall be final, unless the Board reopens and reconsiders a case at the request of the Office of Personnel Management under subsection (e) of this section.
 
@@ -159,6 +159,10 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 #### Savings Provision
 
 For effect of Pub. L. 101–12 on orders, rules, and regulations issued before effective date of Pub. L. 101–12, administrative proceedings pending at time provisions of Pub. L. 101–12 take effect, and suits and other proceedings as in effect immediately before effective date of Pub. L. 101–12, see section 7 of Pub. L. 101–12, set out as a note under section 1201 of this title.
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of reporting provisions in subsec. (i)(2) of this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 177 of House Document No. 103–7.
 
 #### Executive Order No. 11787
 

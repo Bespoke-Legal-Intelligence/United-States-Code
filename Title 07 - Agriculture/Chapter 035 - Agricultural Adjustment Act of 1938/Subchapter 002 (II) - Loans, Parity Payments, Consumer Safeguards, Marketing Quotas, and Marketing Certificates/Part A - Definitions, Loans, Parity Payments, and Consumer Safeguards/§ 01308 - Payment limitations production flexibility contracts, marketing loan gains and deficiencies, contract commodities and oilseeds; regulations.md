@@ -26,7 +26,7 @@ Notwithstanding any other provision of law:
 
 &emsp;&emsp;(i) defining the term “person”; and
 
-&emsp;&emsp;(ii) prescribing such rules as the Secretary determines necessary to assure a fair and reasonable application of the limitation established under this section.
+&emsp;&emsp;(ii) prescribing such rules as the Secretary determines necessary to assure a fair andreasonable application of the limitation established under this section.
 
 > &emsp;Such regulations shall incorporate the provisions in subparagraphs (B) through (E) of this paragraph, paragraphs (6) and (7), and sections 1308–1 through 1308–3 of this title.
 
@@ -42,7 +42,7 @@ Notwithstanding any other provision of law:
 
 &emsp;(II) In defining the term “person” as it will apply to irrevocable trusts and estates, the Secretary shall ensure that fair and equitable treatment is given to trusts and estates and the beneficiaries thereof.
 
-&emsp;(III) Notwithstanding any other provision of law, to be considered a separate person under this section, an irrevocable trust (other than atrust established prior to January 1, 1987) must not allow for modification or termination of the trust by the grantor, allow for the grantor to have any future, contingent, or remainder interest in the corpus of the trust, or provide for the transfer of the corpus of the trust to the remainder beneficiary in less than 20 years from the date the trust is established except in cases where the transfer is contingent on the remainder beneficiary achieving at least the age of majority or is contingent on the death of the grantor or income beneficiary.
+&emsp;(III) Notwithstanding any other provision of law, to be considered a separate person under this section, an irrevocable trust (other than a trust established prior to January 1, 1987) must not allow for modification or termination of the trust by the grantor, allow for the grantor to have any future, contingent, or remainder interest in the corpus of the trust, or provide for the transfer of the corpus of the trust to the remainder beneficiary in less than 20 years from the date the trust is established except in cases where the transfer is contingent on the remainder beneficiary achieving at least the age of majority or is contingent on the death of the grantor or income beneficiary.
 
 &emsp;(iii) The regulations shall provide that, with respect to any married couple, the husband and wife shall be considered to be one person, except that, for the purpose of the application of the limitations established under this section—
 
@@ -60,7 +60,7 @@ Notwithstanding any other provision of law:
 
 &emsp;(7) Regulations of the Secretary shall establish time limits for the various steps involved with notice, hearing, decision, and the appeals procedure in order to ensure expeditious handling and settlement of payment limitation disputes. Notwithstanding any other provision of law, actions taken by an individual or other entity in good faith on action or advice of an authorized representative of the Secretary may be accepted as meeting the requirement under this section or section 1308–1 of this title, to the extent the Secretary deems it desirable in order to provide fair and equitable treatment.
 
-(Pub. L. 99–198, title X, §1001, Dec. 23, 1985, 99 Stat. 1444; Pub. L. 99–500, §108(a), Oct. 18, 1986, 100 Stat. 1783–346, and Pub. L. 99–591, §108(a), Oct. 30, 1986, 100 Stat. 3341–346; Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 428; Pub. L. 100–203, title I, §§1301(a)(1), (2), 1303, 1305(c), 1307, Dec. 22, 1987, 101 Stat. 1330–12, 1330–16, 1330–18, 1330–19; Pub. L. 101–217, §§1, 2, Dec. 11, 1989, 103 Stat. 1857; Pub. L. 101–624, title XI, §1111(a), (c), (e), Nov. 28, 1990, 104 Stat. 3497–3499; Pub. L. 102–237, title I, §118(b), Dec. 13, 1991, 105 Stat. 1841; Pub. L. 103–66, title I, §1101(b)(3)(A), Aug. 10, 1993, 107 Stat. 314; Pub. L. 104–127, title I, §115(b), Apr. 4, 1996, 110 Stat. 902.)
+(Pub. L. 99–198, title X, §1001, Dec. 23, 1985, 99 Stat. 1444; Pub. L. 99–500, §108(a), Oct. 18, 1986, 100 Stat. 1783–346, and Pub. L. 99–591, §108(a), Oct. 30, 1986, 100 Stat. 3341–346; Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 428; Pub. L. 100–203, title I, §§1301(a)(1), (2), 1303, 1305(c), 1307, Dec. 22,1987, 101 Stat. 1330–12, 1330–16, 1330–18, 1330–19; Pub. L. 101–217, §§1, 2, Dec. 11, 1989, 103 Stat. 1857; Pub. L. 101–624, title XI, §1111(a), (c), (e), Nov. 28, 1990, 104 Stat. 3497–3499; Pub. L. 102–237, title I, §118(b), Dec. 13, 1991, 105 Stat. 1841; Pub. L. 103–66, title I, §1101(b)(3)(A), Aug. 10, 1993, 107 Stat. 314; Pub. L. 104–127, title I, §115(b), Apr. 4, 1996, 110 Stat. 902.)
 
 #### References in Text
 
@@ -140,7 +140,7 @@ Par. (7). Pub. L. 100–203, §1305(c), added par. (7).
 
 Par. (2). Pub. L. 99–500 and Pub. L. 99–591, §108(a)(1), in temporarily amending par. (2) generally, designated existing provision as subpar. (A), and in subpar. (A) as so designated, substituted provision limiting, for each of the 1987 through 1990 crops, the total amount of payments set forth in subpar. (B) that any one person be entitled to as not to exceed $250,000 and inserting honey as an eligible crop for provision limiting, for each of the 1986 through 1990 crops, the total amount of disaster payments not any one person be entitled to as not to exceed $100,000, and added subpars. (B) and (C). See Effective and Termination Dates of 1986 Amendment note below.
 
-Par. (3). Pub. L. 99–500 and Pub. L. 99–591, §108(a)(1), temporarily substituted provision authorizing the Secretary, if he determines that a limitation will have an adverse effect on a program, to adjust upward such limitation as appropriate or necessary for provision specifying what is not included within the term “payments”as used in this section. See Effective and Termination Dates of 1986 Amendment note below.
+Par. (3). Pub. L. 99–500 and Pub. L. 99–591, §108(a)(1), temporarily substituted provision authorizing the Secretary, if he determines that a limitation will have an adverse effect on a program, to adjust upward such limitation as appropriate or necessary for provision specifying what is not included within the term “payments” as used in this section. See Effective and Termination Dates of 1986 Amendment note below.
 
 Par. (5)(A). Pub. L. 99–500 and Pub. L. 99–591, §108(a)(2), temporarily inserted provision that the term “person” not include any cooperative association of producers that markets commodities for producers with respect to the commodities so marketed for producers. See Effective and Termination Dates of 1986 Amendment note below.
 
@@ -222,7 +222,7 @@ Section 1305(d) of Pub. L. 100–203 provided that: “Notwithstanding section 1
 
 Section 108(c) of Pub. L. 99–500 and Pub. L. 99–591 provided that:
 
-“(1)(A) The Secretary of Agriculture shall review the regulations in effect on the date of enactment of this Act \[Oct. 18, 1986\] that define ‘person’ under section 1001of the Food Security Act of 1985 \[this section\] and related regulations in effect on such date otherwise affecting the payment limitations under such section, to determine ways in which such regulations can be revised to better ensure the fair and reasonable application of limitations and eliminate fraud and abuse in the application of such payment limitations.
+“(1)(A) The Secretary of Agriculture shall review the regulations in effect on the date of enactment of this Act \[Oct. 18, 1986\] that define ‘person’ under section 1001 of the Food Security Act of 1985 \[this section\] and related regulations in effect on such date otherwise affecting the payment limitations under such section, to determine ways in which such regulations can be revised to better ensure the fair and reasonable application of limitations and eliminate fraud and abuse in the application of such payment limitations.
 
 “(B) The Secretary also shall review the amendments to section 1001 of the Food Security Act of 1985 made by this section.
 
@@ -238,7 +238,7 @@ Pub. L. 99–198 (last sentence), as added by Pub. L. 99–500, §101(a) \[title
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1308–1, 1308–2, 1308–4, 1308a, 1441, 1471g, 7213, 7215, 7333 of this title; title 16 section 2106a.
+This section is referred to in sections 1308–1, 1308–2, 1308–4, 1308a, 1441, 1471g, 1524, 7213, 7215, 7333 of this title; title 16 section 2106a.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

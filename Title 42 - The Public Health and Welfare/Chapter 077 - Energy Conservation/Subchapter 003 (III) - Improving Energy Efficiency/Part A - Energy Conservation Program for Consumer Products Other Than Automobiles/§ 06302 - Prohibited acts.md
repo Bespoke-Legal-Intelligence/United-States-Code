@@ -16,7 +16,7 @@ It shall be unlawful—
 
 #### (b) “New covered product” defined
 
-For purposes of this section, the term “new covered product” means a covered product thetitle of which has not passed to a purchaser who buys such product for purposes other than (1) reselling such product, or (2) leasing such product for a period in excess of one year.
+For purposes of this section, the term “new covered product” means a covered product the title of which has not passed to a purchaser who buys such product for purposes other than (1) reselling such product, or (2) leasing such product for a period in excess of one year.
 
 (Pub. L. 94–163, title III, §332, Dec. 22, 1975, 89 Stat. 928; Pub. L. 100–12, §11(a)(3), (b)(5), Mar. 17, 1987, 101 Stat. 125.)
 

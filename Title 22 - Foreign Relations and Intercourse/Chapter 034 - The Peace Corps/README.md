@@ -56,7 +56,7 @@
 | (h) | Hospitalization and medical treatment for Foreign Service local employees. |
 | (i) | Procurement of legal services. |
 | (j) | Malpractice protection. |
-| [2510\.](%C2%A7%2002510%20-%20Reports%20to%20Congress.md) | Reports to Congress. |
+| [2510\.](%C2%A7%2002510%20-%20Omitted.md) | Omitted. |
 | [2511\.](%C2%A7%2002511%20-%20Peace%20Corps%20National%20Advisory%20Council.md) | Peace Corps National Advisory Council. |
 | (a) | Establishment. |
 | (b) | Functions. |
@@ -105,7 +105,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 2275, 2371, 2398, 4071c, 5424 of this title; title 5 sections 8332, 8334, 8411, 8422; title 20 sections 1087ee, 1092; title 26 sections 912, 3121, 3122, 6051; title 42 sections 292d, 292r, 297b, 405, 409, 410, 12639.
+This chapter is referred to in sections 2275, 2371, 2398, 4071c, 5424 of this title; title 5 sections 8332, 8334, 8411,8422; title 20 sections 1087ee, 1092; title 26 sections 912, 3121, 3122, 6051; title 42 sections 292d, 292r, 297b, 405, 409, 410, 12639.
 
 
 ---
@@ -123,7 +123,7 @@ This chapter is referred to in sections 2275, 2371, 2398, 4071c, 5424 of this ti
 - [&sect; 02507 - Training program](%C2%A7%2002507%20-%20Training%20program.md)
 - [&sect; 02508 - Foreign participants; admission into the United States as nonimmigrants; removal](%C2%A7%2002508%20-%20Foreign%20participants%3B%20admission%20into%20the%20United%20States%20as%20nonimmigrants%3B%20removal.md)
 - [&sect; 02509 - Presidential powers and authorities](%C2%A7%2002509%20-%20Presidential%20powers%20and%20authorities.md)
-- [&sect; 02510 - Reports to Congress](%C2%A7%2002510%20-%20Reports%20to%20Congress.md)
+- [&sect; 02510 - Omitted](%C2%A7%2002510%20-%20Omitted.md)
 - [&sect; 02511 - Peace Corps National Advisory Council](%C2%A7%2002511%20-%20Peace%20Corps%20National%20Advisory%20Council.md)
 - [&sect; 02512 - Experts and consultants](%C2%A7%2002512%20-%20Experts%20and%20consultants.md)
 - [&sect; 02513 - Assignment of personnel to foreign governments or international organizations](%C2%A7%2002513%20-%20Assignment%20of%20personnel%20to%20foreign%20governments%20or%20international%20organizations.md)

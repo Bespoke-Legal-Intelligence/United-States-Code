@@ -46,7 +46,7 @@
 
 &emsp;(ii) to cancel, adjust, compromise, or reduce the amount of such loan; or
 
-&emsp;(iii) to modify any term or condition of such loan, including any term or condition relating to the rate of interest or the time of payment of any installment of principal or interest, or portion thereof, that is payable under such loan.
+&emsp;(iii) to modify any term or condition of such loan, including any term or condition relating to the rate of interest or the time of payment of any installment of principal or interest, orportion thereof, that is payable under such loan.
 
 (C) The Office shall carry out all instructions received under subparagraph (B) from the Commissioner.
 

@@ -2,7 +2,7 @@
 
 In this chapter:
 
-&emsp;(1) The term “head of an agency” means the Secretary of Defense, the Secretary of the Army, the Secretary of the Navy, the Secretary of the Air Force, the Secretary of Transportation, and the Administrator of the National Aeronautics and Space Administration.
+&emsp;(1) The term “head of an agency” means the Secretary of Defense, the Secretary of theArmy, the Secretary of the Navy, the Secretary of the Air Force, the Secretary of Transportation, and the Administrator of the National Aeronautics and Space Administration.
 
 &emsp;(2) The term “competitive procedures” means procedures under which the head of an agency enters into a contract pursuant to full and open competition. Such term also includes—
 
@@ -74,7 +74,7 @@ Act
 
 Feb. 19, 1948, ch. 65, §9 (less clause (b)), 62 Stat. 24.
 
-In clause (1), the words “(if any)” are omitted as surplusage. The words “Secretary of the Treasury” are substituted for the words “Commandant, United States Coast Guard, Treasury Department”, since the functions of the Coast Guard and its officers, while operating under the Department of the Treasury, were vested in the Secretary of the Treasury by 1950 Reorganization Plan No. 26, effective July 31, 1950, 64 Stat. 1280. Under that plan the Secretary of the Treasury was authorized to delegate any of those functions to the agencies and employees of the Department of the Treasury.
+In clause (1), the words “(if any)” are omitted as surplusage. The words “Secretary of the Treasury” are substituted for the words “Commandant, United States Coast Guard, Treasury Department”, since the functions of the Coast Guard and its officers, while operating under the Department of the Treasury, were vested in the Secretary of the Treasury by 1950 Reorganization Plan No. 26, effective July 31, 1950, 64 Stat. 1280. Underthat plan the Secretary of the Treasury was authorized to delegate any of those functions to the agencies and employees of the Department of the Treasury.
 
 Clauses (2) and (3) are inserted for clarity, and are based on the usage of those terms throughout the revised chapter.
 
@@ -158,7 +158,7 @@ Section 301(e) of Pub. L. 85–568 provided that: “This section \[amending thi
 
 #### Short Title of 1986 Amendment
 
-Section 101(c) \[title X, §900\] of Pub. L. 99–500 and Pub. L. 99–591, and section 900 of title IX of division A of Pub. L. 99–661, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, provided that: “This title \[enacting sections 133a, 2306a, 2325–2328, 2365–2367, 2397b, 2397c, 2408, 2409, 2416, and 2435–2437 of this title, amending sections 133, 134, 135, 138, 171, 1622, 2301, 2304, 2305, 2306, 2320, 2321, 2323, 2384, 2406, 2411, 2413, 2432, and 2433 of this title, sections 5314 and 5315 of Title 5, Government Organization and Employees, sections 632, 637, and 644 of Title 15, Commerce and Trade, and section 416 of Title 41, Public Contracts, renumbering section 2416 as 2417 of this title, enacting provisions set out as notes under sections 113, 1621, 2304, 2305, 2306a, 2320, 2323, 2325–2328, 2365–2367, 2384, 2397b, 2406, 2408, 2409, 2416, 2432, 2435–2437 of this title and section 632 of Title 15, amending provisions set out as a note under this section, and repealing provisions set out as notes under section 2304 and 2397a of this title\] may be cited as the ‘Defense Acquisition Improvement Act of 1986’.”
+Section 101(c) \[title X, §900\] of Pub. L. 99–500 and Pub. L. 99–591, and section 900 of title IX of division A of Pub. L. 99–661, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, provided that: “This title \[enacting sections 133a, 2306a, 2325–2328, 2365–2367, 2397b, 2397c, 2408, 2409, 2416, and 2435–2437 of this title, amending sections 133, 134, 135, 138, 171, 1622, 2301, 2304, 2305, 2306, 2320, 2321, 2323, 2384, 2406, 2411, 2413, 2432, and2433 of this title, sections 5314 and 5315 of Title 5, Government Organization and Employees, sections 632, 637, and 644 of Title 15, Commerce and Trade, and section 416 of Title 41, Public Contracts, renumbering section 2416 as 2417 of this title, enacting provisions set out as notes under sections 113, 1621, 2304, 2305, 2306a, 2320, 2323, 2325–2328, 2365–2367, 2384, 2397b, 2406, 2408, 2409, 2416, 2432, 2435–2437 of this title and section 632 of Title 15, amending provisions set out as a note under this section, and repealing provisions set out as notes under section 2304 and 2397a of this title\] may be cited as the ‘Defense Acquisition Improvement Act of 1986’.”
 
 #### Short Title of 1985 Amendment
 
@@ -167,6 +167,62 @@ Pub. L. 99–145, title IX, §901, Nov. 8, 1985, 99 Stat. 682, provided that: �
 #### Short Title of 1984 Amendment
 
 Section 1201 of title XII of Pub. L. 98–525 provided that: “This title \[enacting sections 2303a, 2317 to 2323, 2384a, 2402 to 2405, and 2411 to 2416 of this title, amending sections 139a, 139b, 2302, 2305, 2311, 2384, and 2401 of this title, enacting provisions set out as notes under this section and sections 139, 139a, 2303a, 2305, 2318, 2319, 2322, 2323, 2384, 2384a, 2392, and 2402 of this title, amending provisions set out as notes under sections 2392, 2401, and 2452 of this title, and repealing provisions set out as notes under section 2304 of this title\] may be cited as the ‘Defense Procurement Reform Act of 1984’.”
+
+#### Improvements in Procurements of Services
+
+Pub. L. 106–398, §1 \[\[div. A\], title VIII, §821\], Oct. 30, 2000, 114 Stat. 1654, 1654A–217, provided that:
+
+“(a)
+
+Preference for Performance-Based Service Contracting.—Not later than 180 days after the date of the enactment of this Act \[Oct. 30, 2000\], the Federal Acquisition Regulation issued in accordance with sections 6 and 25 of the Office of Federal Procurement Policy Act (41 U.S.C. 405 and 421) shall be revised to establish a preference for use of contracts and task orders for the purchase of services in the following order of precedence:
+
+&emsp;“(1) A performance-based contract or performance-based task order that contains firm fixed prices for the specific tasks to be performed.
+
+&emsp;“(2) Any other performance-based contract or performance-based task order.
+
+&emsp;“(3) Any contract or task order that is not a performance-based contract or a performance-based task order.
+
+“(b)
+
+Incentive for Use of Performance-Based Service Contracts.—(1) A Department of Defense performance-based service contract or performance-based task order may be treated as a contract for the procurement of commercial items if—
+
+&emsp;“(A) the contract or task order is valued at $5,000,000 or less;
+
+&emsp;“(B) the contract or task order sets forth specifically each task to be performed and, for each task—
+
+&emsp;&emsp;“(i) defines the task in measurable, mission-related terms;
+
+&emsp;&emsp;“(ii) identifies the specific end products or output to be achieved; and
+
+&emsp;&emsp;“(iii) contains a firm fixed price; and
+
+&emsp;“(C) the source of the services provides similar services contemporaneously to the general public under terms and conditions similar to those offered to the Federal Government.
+
+“(2) The special simplified procedures provided in the Federal Acquisition Regulation pursuant to section 2304(g)(1)(B) of title 10, United States Code, shall not apply to a performance-based service contract or performance-based task order that is treated as a contract for the procurement of commercial items under paragraph (1).
+
+“(3) Not later than 2 years after the date of the enactment of this Act \[Oct. 30, 2000\], the Comptroller General shall submit a report on the implementation of this subsection to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\].
+
+“(4) The authority under this subsection shall not apply to contracts entered into or task orders issued more than 3 years after the date of the enactment of this Act.
+
+“(c)
+
+Centers of Excellence in Service Contracting.—Not later than 180 days after the date of the enactment of this Act \[Oct. 30, 2000\], the Secretary of each military department shall establish at least one center of excellence in contracting for services. Each center of excellence shall assist the acquisition community by identifying, and serving as a clearinghouse for, best practices in contracting for services in the public and private sectors.
+
+“(d)
+
+Enhanced Training in Service Contracting.—(1) The Secretary of Defense shall ensure that classes focusing specifically on contracting for services are offered by the Defense Acquisition University and the Defense Systems Management College and are otherwise available to contracting personnel throughout the Department of Defense.
+
+“(2) The Secretary of each military department and the head of each Defense Agency shall ensure that the personnel of the department or agency, as the case may be, who are responsible for the awarding and management of contracts for services receive appropriate training that is focused specifically on contracting for services.
+
+“(e)
+
+Definitions.—In this section:
+
+&emsp;“(1) The term ‘performance-based’, with respect to a contract, a task order, or contracting, means that the contract, task order, or contracting, respectively, includes the use of performance work statements that set forth contract requirements in clear, specific, and objective terms with measurable outcomes.
+
+&emsp;“(2) The term ‘commercial item’ has the meaning given the term in section 4(12) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12)).
+
+&emsp;“(3) The term ‘Defense Agency’ has the meaning given the term in section 101(a)(11) of title 10, United States Code.”
 
 #### Program To Increase Business Innovation in Defense Acquisition Programs
 
@@ -320,7 +376,7 @@ Applicability.—(1) Subsections (f) and (g) apply to the following contracts, i
 
 &emsp;“(A) A contract that is awarded or modified during the period described in paragraph (2).
 
-&emsp;“(B) A contract that is awarded before the beginning of such period, that is to be performed (or maybe performed), in whole or in part, during such period, and that may be modified as appropriate at no cost to the Government.
+&emsp;“(B) A contract that is awarded before the beginning of such period, that is to be performed (or may be performed), in whole or in part, during such period, and that may be modified as appropriate at no cost to the Government.
 
 “(2) The period referred to in paragraph (1), with respect to a facility designated under subsection (b), is the period that—
 
@@ -400,7 +456,7 @@ Regulations.—The Secretary of Defense shall prescribe in regulations the follo
 
 &emsp;“(1)
 
-Information provided by department of defense relating to payment.—(A) Subject to section 552(b)(1) of title 5, United States Code, upon the request of a subcontractor or supplier of a contractor performing a Department of Defense contract, theDepartment of Defense shall promptly make available to such subcontractor or supplier the following information:
+Information provided by department of defense relating to payment.—(A) Subject to section 552(b)(1) of title 5, United States Code, upon the request of a subcontractor or supplier of a contractor performing a Department of Defense contract, the Department of Defense shall promptly make available to such subcontractor or supplier the following information:
 
 &emsp;&emsp;“(i) Whether requests for progress payments or other payments have been submitted by the contractor to the Department of Defense in connection with that contract.
 
@@ -484,7 +540,7 @@ GAO Report.—(1) The Comptroller General of the United States shall conduct an 
 
 &emsp;&emsp;&emsp;“(I) include in its subcontracts a payment term requiring payment within 7 days (or some other fixed term) after receiving payment from the Government; and
 
-&emsp;&emsp;&emsp;“(II) submit with its payment request to the Government a certification that it has timely paid its subcontractors in accordance with theirsubcontracts from funds previously received as progress payments and will timely make required payments to such subcontractors from the proceeds of the progress payment covered by the certification;
+&emsp;&emsp;&emsp;“(II) submit with its payment request to the Government a certification that it has timely paid its subcontractors in accordance with their subcontracts from funds previously received as progress payments and will timely make required payments to such subcontractors from the proceeds of the progress payment covered by the certification;
 
 &emsp;&emsp;“(iii) evaluating the feasibility and desirability of requiring that all prime contractors (other than a construction prime contractor subject to the provisions of sections 3903(b) and 3905 of title 31, United States Code) furnish with its payment request to the Government proof of payment of the amounts included in such payment request for payments made to subcontractors and suppliers;
 
@@ -572,7 +628,7 @@ Pub. L. 106–65, div. A, title VIII, §811(d)(2), (3), Oct. 5, 1999, 113 Stat. 
 
 Section 807(a) of Pub. L. 102–484 provided that: “Within 15 days after the date of the enactment of this Act \[Oct. 23, 1992\], the Secretary of Defense shall publish in the Department of Defense Supplement to the Federal Acquisition Regulation the Department of Defense policy for the pilot Mentor-Protege Program and the regulations, directives, and administrative guidance pertaining to such program as such policy, regulations, directives, and administrative guidance existed on December 6, 1991. Proposed modifications to that policy and any amendments of the matters published pursuant to the preceding sentence that are proposed in order to implement any of the amendments made by this section shall be published for public comment within 60 days after the date of the enactment of this Act and shall be published in final form within 120 days after such date.”
 
-Pub. L. 101–510, div. A, title VIII, §831, Nov. 5, 1990, 104 Stat. 1607, as amended by Pub. L. 102–25, title VII, §704(c), Apr. 6, 1991, 105 Stat. 119; Pub. L. 102–172, title VIII, §8064A, Nov. 26, 1991, 105 Stat. 1186; Pub. L. 102–190, div. A, title VIII, §814(b), Dec. 5, 1991, 105 Stat. 1425; Pub. L. 102–484, div. A, title VIII, §§801(h)(4), 807(b)(1), title X, §1054(d), Oct. 23, 1992, 106 Stat. 2445, 2448, 2503; Pub. L. 103–160, div. A, title VIII, §813(b)(1), (c), Nov. 30, 1993, 107 Stat. 1703; Pub. L. 104–106, div. A, title VIII, §824, Feb. 10, 1996, 110 Stat. 399; Pub. L. 104–201, div. A, title VIII, §802, Sept. 23, 1996, 110 Stat. 2604; Pub. L. 105–85, div. A, title VIII, §821(a), title X, §1073(c)(6), Nov. 18, 1997, 111 Stat. 1840, 1904; Pub. L. 106–65, div. A, title VIII, §811(a)–(d)(1), (e), Oct. 5, 1999, 113 Stat. 706, 707, 709, provided that:
+Pub. L. 101–510, div. A, title VIII, §831, Nov. 5, 1990, 104 Stat. 1607, as amended by Pub. L. 102–25, title VII, §704(c), Apr. 6, 1991, 105 Stat. 119; Pub. L. 102–172, title VIII, §8064A, Nov. 26, 1991, 105 Stat. 1186; Pub. L. 102–190, div. A, title VIII, §814(b), Dec. 5, 1991, 105 Stat. 1425; Pub. L. 102–484, div. A, title VIII, §§801(h)(4), 807(b)(1), title X, §1054(d), Oct. 23, 1992, 106 Stat. 2445, 2448, 2503; Pub. L. 103–160, div. A, title VIII, §813(b)(1), (c), Nov. 30, 1993, 107 Stat. 1703; Pub. L. 104–106, div. A, title VIII, §824, Feb. 10, 1996, 110 Stat. 399; Pub. L. 104–201, div. A, title VIII, §802, Sept. 23, 1996, 110 Stat. 2604; Pub. L. 105–85, div. A, title VIII, §821(a), title X, §1073(c)(6), Nov. 18, 1997, 111 Stat. 1840, 1904; Pub. L. 106–65, div. A, title VIII, §811(a)–(d)(1), (e), Oct. 5, 1999, 113 Stat. 706, 707, 709; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §807\], Oct. 30, 2000, 114 Stat. 1654, 1654A–208, provided that:
 
 “(a)
 
@@ -668,7 +724,7 @@ Incentives for Mentor Firms.—(1) The Secretary of Defense may provide to a men
 
 “(h)
 
-Relationship to Small Business Act.—(1) For purposes of the Small Business Act \[15 U.S.C. 631 et seq.\], no determination of affiliation or control (either direct or indirect) may be found between a protege firm and its mentor firm on the basis that the mentor firm has agreed to furnish (or has furnished) to its protege firm pursuant to a mentor-protege agreement any form of developmental assistance described in subsection (f).
+Relationship to Small Business Act.—(1) For purposes of the Small Business Act \[15 U.S.C. 631 et seq.\], no determination of affiliation or control (eitherdirect or indirect) may be found between a protege firm and its mentor firm on the basis that the mentor firm has agreed to furnish (or has furnished) to its protege firm pursuant to a mentor-protege agreement any form of developmental assistance described in subsection (f).
 
 “(2) Notwithstanding section 8 of the Small Business Act (15 U.S.C. 637), the Small Business Administration may not determine a disadvantaged small business concern to be ineligible to receive any assistance authorized under the Small Business Act on the basis that such business concern has participated in the Mentor-Protege Program or has received assistance pursuant to any developmental assistance agreement authorized under such program.
 
@@ -728,9 +784,11 @@ Definitions.—In this section:
 
 &emsp;&emsp;“(B) a business entity owned and controlled by an Indian tribe as defined by section 8(a)(13) of the Small Business Act (15 U.S.C. 637(a)(13));
 
-&emsp;&emsp;“(C) a business entity owned and controlled by a Native Hawaiian Organization as defined by section 8(a)(15) of the Small Business Act (15 U.S.C. 637(a)(15)); or
+&emsp;&emsp;“(C) a business entity owned and controlled by a Native Hawaiian Organization as defined by section 8(a)(15) of the Small Business Act (15 U.S.C. 637(a)(15));
 
-&emsp;&emsp;“(D) a qualified organization employing the severely disabled.
+&emsp;&emsp;“(D) a qualified organization employing the severely disabled; or
+
+&emsp;&emsp;“(E) a small business concern owned and controlled by women, as defined in section 8(d)(3)(D) of the Small Business Act (15 U.S.C. 637(d)(3)(D)).
 
 &emsp;“(3) The term ‘small business concern owned and controlled by socially and economically disadvantaged individuals’ has the meaning given such term in section 8(d)(3)(C) of the Small Business Act (15 U.S.C. 637(d)(3)(C)).
 
@@ -758,7 +816,7 @@ Definitions.—In this section:
 
 \[“(2) Section 831 of the National Defense Authorization Act for Fiscal Year 1991, as in effect on September 30, 1999, shall continue to apply with respect to mentor-protege agreements entered into before October 1, 1999.”\]
 
-\[Section 807(b)(2) of Pub. L. 102–484 provided that: “The amendment made by this subsection \[amendingsection 831 of Pub. L. 101–510, set out above\] shall take effect as of November 5, 1990.”\]
+\[Section 807(b)(2) of Pub. L. 102–484 provided that: “The amendment made by this subsection \[amending section 831 of Pub. L. 101–510, set out above\] shall take effect as of November 5, 1990.”\]
 
 #### Credit for Indian Contracting in Meeting Certain Minority Subcontracting Goals
 
@@ -817,7 +875,7 @@ Rule for Date of Enactment.—(1) The date of the enactment of the provisions of
 
 #### Contract Goal for Minorities
 
-Section 1207 of Pub. L. 99–661, as amended by Pub. L. 100–180, div. A, title VIII, §806(d), 101 Stat. 1127; Pub. L. 100–456, div. A, title VIII, §844, Sept. 29, 1988, 102 Stat. 2027; Pub. L. 101–189, div. A, title VIII, §831, Nov. 29, 1989, 103 Stat. 1507; Pub. L. 101–510, div. A, title VIII, §§811, 832, title XIII, §§1302(d), 1312(b), Nov. 5, 1990, 104 Stat. 1596, 1612, 1669, 1670; Pub. L. 102–25, title VII, §§704(a)(6), 705(e), Apr. 6, 1991, 105 Stat. 118, 120, which set contract goals for small disadvantaged businesses and certain institutions of higher education, was repealed and restated in section 2323 of this title by Pub. L. 102–484, §801(a)(1)(B), (h)(1).
+Section 1207 of Pub. L. 99–661, as amended by Pub. L. 100–180, div. A, title VIII, §806(d), 101 Stat. 1127; Pub. L.100–456, div. A, title VIII, §844, Sept. 29, 1988, 102 Stat. 2027; Pub. L. 101–189, div. A, title VIII, §831, Nov. 29, 1989, 103 Stat. 1507; Pub. L. 101–510, div. A, title VIII, §§811, 832, title XIII, §§1302(d), 1312(b), Nov. 5, 1990, 104 Stat. 1596, 1612, 1669, 1670; Pub. L. 102–25, title VII, §§704(a)(6), 705(e), Apr. 6, 1991, 105 Stat. 118, 120, which set contract goals for small disadvantaged businesses and certain institutions of higher education, was repealed and restated in section 2323 of this title by Pub. L. 102–484, §801(a)(1)(B), (h)(1).
 
 #### Minimum Percentage of Competitive Procurements
 
@@ -833,7 +891,7 @@ Definition.—For the purposes of this section, the term ‘competitive procurem
 
 #### Defense Procurement Reform: Congressional Findings and Policy
 
-Section 1202 of Pub. L. 98–525, as amended by Pub. L. 99–500, §101(c) \[title X, §953(c)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–172, and Pub. L. 99–591, §101(c) \[title X, §953(c)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–172; Pub. L. 99–661, div. A, title IX, formerly title IV, §953(c), Nov. 14, 1986, 100 Stat. 3952, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, provided that: “The Congress finds that recent disclosures of excessive payments by the Department of Defense for replenishment parts have undermined confidence by the publicand Congress in the defense procurement system. The Secretary of Defense should make every effort to reform procurement practices relating to replenishment parts. Such efforts should, among other matters, be directed to the elimination of excessive pricing of replenishment spare parts and the recovery of unjustified payments. Specifically, the Secretary should—
+Section 1202 of Pub. L. 98–525, as amended by Pub. L. 99–500, §101(c) \[title X, §953(c)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–172, and Pub. L. 99–591, §101(c) \[title X, §953(c)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–172; Pub. L. 99–661, div. A, title IX, formerly title IV, §953(c), Nov. 14, 1986, 100 Stat. 3952, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, provided that: “The Congress finds that recent disclosures of excessive payments by the Department of Defense for replenishment parts have undermined confidence by the public and Congress in the defense procurement system. The Secretary of Defense should make every effort to reform procurement practices relating to replenishment parts. Such efforts should, among other matters, be directed to the elimination of excessive pricing of replenishment spare parts and the recovery of unjustified payments. Specifically, the Secretary should—
 
 &emsp;“(1) direct that officials in the Department of Defense refuse to enter into contracts unless the proposed prices are fair and reasonable;
 

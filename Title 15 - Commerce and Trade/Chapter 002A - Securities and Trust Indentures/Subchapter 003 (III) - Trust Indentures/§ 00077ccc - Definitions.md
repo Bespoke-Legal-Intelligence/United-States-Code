@@ -10,7 +10,7 @@ When used in this subchapter, unless the context otherwise requires—
 
 &emsp;(4) The term “underwriter” means any person who has purchased from an issuer with a view to, or offers or sells for an issuer in connection with, the distribution of any security, or participates or has a direct or indirect participation in any such undertaking, or participates or has a participation in the direct or indirect underwriting of any such undertaking; but such term shall not include a person whose interest is limited to a commission from an underwriter or dealer not in excess of the usual and customary distributors’ or sellers’ commission.
 
-&emsp;(5) The term “director” means any director of a corporation, or any individual performingsimilar functions with respect to any organization whether incorporated or unincorporated.
+&emsp;(5) The term “director” means any director of a corporation, or any individual performing similar functions with respect to any organization whether incorporated or unincorporated.
 
 &emsp;(6) The term “executive officer” means the president, every vice president, every trust officer, the cashier, the secretary, and the treasurer of a corporation, and any individual customarily performing similar functions with respect to any organization whether incorporated or unincorporated, but shall not include the chairman of the board of directors.
 
@@ -75,22 +75,4 @@ Amendment by act Aug. 10, 1954, effective 60 days after Aug. 10, 1954, see note 
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
-#### Cross References
-
-Definition of terms—
-
-&emsp;&emsp;Cash transactions and self-liquidating paper, rules and regulations prescribing, see section 77sss of this title.
-
-&emsp;&emsp;Director and underwriter under Investment Advisers Act of 1940, see section 80b–2 of this title.
-
-&emsp;&emsp;Indenture security holder when preferential collection of claims against obligor is involved, see section 77kkk of this title.
-
-&emsp;&emsp;Sale or sell, and director under Securities Exchange Act of 1934, see section 78c of this title.
-
-&emsp;&emsp;Sale or sell, director, and voting security under Public Utility Holding Company Act of 1935, see section 79b of this title.
-
-&emsp;&emsp;Sale or sell, prospectus, underwriter, director, and voting security under Investment Company Act of 1940, see section 80a–2 of this title.
-
-&emsp;&emsp;Security and underwriter for purposes of determining eligibility and disqualification of indenture trustee, see section 77jjj of this title.
 

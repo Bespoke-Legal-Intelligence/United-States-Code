@@ -4,7 +4,7 @@ The words defined in this section shall have the following meaning when found in
 
 “Commerce” means commerce among the several States or with foreign nations, or in any Territory of the United States or in the District of Columbia, or between any such Territory and another, or between any such Territory and any State or foreign nation, or between the District of Columbia and any State or Territory or foreign nation.
 
-“Corporation” shall be deemed to include any company, trust, so-called Massachusetts trust, or association, incorporated or unincorporated, which is organized to carry on business for its own profit or that of its members, and has shares of capital or capital stock or certificates of interest, and any company, trust, so-called Massachusetts trust, or association, incorporated or unincorporated, without shares of capital or capital stock or certificates of interest, except partnerships, which is organized to carry on business for its own profit or that of its members.
+“Corporation” shall be deemed to include any company, trust, so-called Massachusetts trust, or association, incorporated or unincorporated, which is organized to carry on business for its own profit or that of its members, and has shares of capital or capital stock or certificates of interest, and any company, trust, so-called Massachusetts trust, or association, incorporated or unincorporated, without shares of capital or capital stock or certificates of interest, except partnerships, which is organized tocarry on business for its own profit or that of its members.
 
 “Documentary evidence” includes all documents, papers, correspondence, books of account, and financial and corporate records.
 
@@ -37,8 +37,4 @@ The Act entitled “An Act to supplement existing laws against unlawful restrain
 1991—Pub. L. 102–242 added par. defining “Banks”.
 
 1938—Act Mar. 21, 1938, amended section generally.
-
-#### Cross References
-
-Additional definitions, see sections 45 and 55 of this title.
 

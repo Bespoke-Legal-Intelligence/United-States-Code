@@ -104,7 +104,7 @@
 
 #### (E) Critically undercapitalized
 
-&emsp;&emsp;An insured credit union is “critically undercapitalized” if it has a net worth ratio of less than 2 percent (or such higher net worth ratio, not to exceed 3 percent, as the Board may specify by regulation).
+&emsp;&emsp;An insured credit union is “critically undercapitalized” if it has a net worth ratioof less than 2 percent (or such higher net worth ratio, not to exceed 3 percent, as the Board may specify by regulation).
 
 #### (2) Adjusting net worth levels
 
@@ -128,7 +128,7 @@
 
 #### (1) In general
 
-&emsp;The regulations required under subsection (b)(1) of this section shall include a risk-basednet worth requirement for insured credit unions that are complex, as defined by the Board based on the portfolios of assets and liabilities of credit unions.
+&emsp;The regulations required under subsection (b)(1) of this section shall include a risk-based net worth requirement for insured credit unions that are complex, as defined by the Board based on the portfolios of assets and liabilities of credit unions.
 
 #### (2) Standard
 
@@ -398,7 +398,7 @@ Pub. L. 105–219, title III, §301(c), Aug. 7, 1998, 112 Stat. 930, provided th
 
 #### Report to Congress
 
-Pub. L. 105–219, title III, §301(f), Aug. 7, 1998, 112 Stat. 931, provided that: “When the Board publishes proposed regulations pursuant to subsection (d)(1)(A) \[set out above\], or promulgates final regulations pursuant to subsection (d)(1)(B) \[set out above\], the Board shall submit to the Congress a report that specifically explains—
+Pub. L. 105–219, title III, §301(f), Aug. 7, 1998, 112 Stat. 931, provided that: “When the Board publishes proposedregulations pursuant to subsection (d)(1)(A) \[set out above\], or promulgates final regulations pursuant to subsection (d)(1)(B) \[set out above\], the Board shall submit to the Congress a report that specifically explains—
 
 &emsp;“(1) how the regulations carry out section 216(b)(1)(B) of the Federal Credit Union Act \[12 U.S.C. 1790d(b)(1)(B)\] (as added by this section), relating to the cooperative character of credit unions; and
 

@@ -22,12 +22,6 @@ Section 103(d) of Pub. L. 103–412 provided that: “The amendment made by subs
 
 For transfer of functions of other officers, employees, and agencies of Department of the Treasury, with certain exceptions, to Secretary of the Treasury, with power to delegate, see Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5, Government Organization and Employees.
 
-#### Cross References
-
-Trust funds on deposit in Treasury, see sections 1321 and 1322 of Title 31, Money and Finance.
-
-Ute Indians, division of trust funds, shares to be credited to existing accounts established pursuant to sections 161a to 161d of this title, see section 672 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 161d, 672, 1776d of this title.

@@ -24,7 +24,7 @@ The location, replacement, or expansion of chanceries in the District of Columbi
 
 (2) Regulations issued to carry out this section shall provide appropriate opportunities for participation by the public in proceedings concerning the location, replacement, or expansion of chanceries.
 
-(3) A final determination concerning the location, replacement, or expansion of a chancery shall be made not later than six months after the date of the filing of an application with respect to such location, replacement, or expansion. Such determination shall not be subject to the administrative proceedings of any other agency or official except as provided in this chapter.
+(3) A final determination concerning the location, replacement, or expansion of a chanceryshall be made not later than six months after the date of the filing of an application with respect to such location, replacement, or expansion. Such determination shall not be subject to the administrative proceedings of any other agency or official except as provided in this chapter.
 
 #### (d) Criteria for determination
 
@@ -79,10 +79,6 @@ Approval by the Board of Zoning Adjustment or the Zoning Commission or, except a
 Provisions of law (other than this chapter) applicable with respect to the location, replacement, or expansion of real property in the District of Columbia shall apply with respect to chanceries only to the extent that they are consistent with this section.
 
 (Aug. 1, 1956, ch. 841, title II, §206, as added Pub. L. 97–241, title II, §202(b), Aug. 24, 1982, 96 Stat. 286.)
-
-#### Codification
-
-Section is also set out in D.C. Code, §5–1206.
 
 #### Section Referred to in Other Sections
 

@@ -4,11 +4,15 @@ It is hereby found that the activities of commodity trading advisors and commodi
 
 &emsp;(1) their advice, counsel, publications, writings, analyses, and reports are furnished and distributed, and their contracts, solicitations, subscriptions, agreements, and other arrangements with clients take place and are negotiated and performed by the use of the mails and other means and instrumentalities of interstate commerce;
 
-&emsp;(2) their advice, counsel, publications, writings, analyses, and reports customarily relate to and their operations are directed toward and cause the purchase and sale of commodities for future delivery on or subject to the rules of contract markets; and
+&emsp;(2) their advice, counsel, publications, writings, analyses, and reports customarily relate to and their operations are directed toward and cause the purchase and sale of commodities for future delivery on or subject to the rules of contract markets or derivatives transaction execution facilities; and
 
-&emsp;(3) the foregoing transactions occur in such volume as to affect substantially transactions on contract markets.
+&emsp;(3) the foregoing transactions occur in such volume as to affect substantially transactions on contract markets or derivatives transaction execution facilities.
 
-(Sept. 21, 1922, ch. 369, §4<i>l</i>, as added Pub. L. 93–463, title II, §205(a), Oct. 23, 1974, 88 Stat. 1397.)
+(Sept. 21, 1922, ch. 369, §4<i>l</i>, as added Pub. L. 93–463, title II, §205(a), Oct. 23, 1974, 88 Stat. 1397; Pub. L. 106–554, §1(a)(5) \[title I, §123(a)(10)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–408.)
+
+#### Amendments
+
+2000—Pars. (2), (3). Pub. L. 106–554 inserted “or derivatives transaction execution facilities” after “contract markets”.
 
 #### Effective Date
 

@@ -4,7 +4,7 @@ The consent of Congress is given to the States of Arizona, California, Colorado,
 
 (a) Such consent is given upon condition that a representative of the United States, to be appointed by the President, shall participate in the negotiations and shall make report to Congress of the proceedings and of any compact or agreement entered into.
 
-(b) No such compact or agreement shall be binding or obligatory upon any of such Statesunless and until it has been approved by the legislature of each of such States and by the Congress of the United States.
+(b) No such compact or agreement shall be binding or obligatory upon any of such States unless and until it has been approved by the legislature of each of such States and by the Congress of the United States.
 
 (Dec. 21, 1928, ch. 42, §19, 45 Stat. 1065.)
 

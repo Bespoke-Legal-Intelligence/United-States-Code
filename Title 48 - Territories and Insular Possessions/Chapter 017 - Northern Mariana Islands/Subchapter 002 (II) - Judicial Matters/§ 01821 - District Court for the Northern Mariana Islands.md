@@ -12,7 +12,7 @@ There is established for and within the Northern Mariana Islands a court of reco
 
 (3) The President shall appoint, by and with the advice and consent of the Senate, a United States attorney and United States marshal for the Northern Mariana Islands to whose offices the provisions of chapters 35 and 37 of title 28, respectively, shall apply.
 
-(4) If the President appoints a judge for the District Court for the Northern Mariana Islandsor a United States attorney or a United States marshal for the Northern Mariana Islands who at that time is serving in the same capacity in another district, the appointment shall, without prejudice to a subsequent appointment, be for the unexpired term of such judge or officer.
+(4) If the President appoints a judge for the District Court for the Northern Mariana Islands or a United States attorney or a United States marshal for the Northern Mariana Islands who at that time is serving in the same capacity in another district, the appointment shall, without prejudice to a subsequent appointment, be for the unexpired term of such judge or officer.
 
 #### (c) Applicability of Federal rules and statutory requirements
 
@@ -38,7 +38,7 @@ Section was formerly classified to section 1694 of this title.
 
 Subsec. (b)(2). Pub. L. 98–454, §901(b), inserted “or a recalled senior judge of the District Court of Guam or of the District Court of the Northern Mariana Islands” after “President” in first sentence.
 
-Subsec. (c). Pub. L. 98–454, §901(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The provisions of chapters 43 and 49 of title 28, and the rules heretofore or hereafter promulgated and made effective by the Congress or the Supreme Court of the United States pursuant to titles 11, 18, and 28 shall apply to the District Court for the Northern Mariana Islands and appeals therefrom where appropriate, except as otherwise provided in articles IV and V of the covenant provided by the Act of March 24, 1976 (90 Stat. 263). The terms ‘attorney for the government’ and ‘United States attorney’ as used in the Federal Rules of Criminal Procedure (rule 54(c)) shall, when applicable to cases arising under the laws of the Northern Mariana Islands, include the attorney general of the Northern Mariana Islands or any other person or persons as may be authorized by the laws of the Northern Marianas to act therein.”
+Subsec. (c). Pub. L. 98–454, §901(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read asfollows: “The provisions of chapters 43 and 49 of title 28, and the rules heretofore or hereafter promulgated and made effective by the Congress or the Supreme Court of the United States pursuant to titles 11, 18, and 28 shall apply to the District Court for the Northern Mariana Islands and appeals therefrom where appropriate, except as otherwise provided in articles IV and V of the covenant provided by the Act of March 24, 1976 (90 Stat. 263). The terms ‘attorney for the government’ and ‘United States attorney’ as used in the Federal Rules of Criminal Procedure (rule 54(c)) shall, when applicable to cases arising under the laws of the Northern Mariana Islands, include the attorney general of the Northern Mariana Islands or any other person or persons as may be authorized by the laws of the Northern Marianas to act therein.”
 
 #### Effective Date of 1984 Amendment
 

@@ -2,7 +2,7 @@
 
 #### (a) Scope of coverage
 
-This part shall apply to any employee benefit plan described in section 1003(a) of this title (and not exempted under section 1003(b) of this title), other than—
+This part shall apply to any employee benefit plan described in section 1003(a) of this title (andnot exempted under section 1003(b) of this title), other than—
 
 &emsp;(1) a plan which is unfunded and is maintained by an employer primarily for the purpose of providing deferred compensation for a select group of management or highly compensated employees; or
 

@@ -56,7 +56,7 @@ Section 3(b) of Pub. L. 101–227 provided that:
 
 “(1) Subject to the provisions of paragraph (2), the amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 1990.
 
-“(2) Notwithstanding any other provision of this section, the amendments made by subsection (a) shall nottake effect, if no law to provide for reconciliation pursuant to section 5 of the concurrent resolution on the budget for the fiscal year 1990 is enacted before October 1, 1990.” \[Omnibus Budget Reconciliation Act of 1989, Pub. L. 101–239, Dec. 19, 1989, 103 Stat. 2106, was enacted Dec. 19, 1989.\]
+“(2) Notwithstanding any other provision of this section, the amendments made by subsection (a) shall not take effect, if no law to provide for reconciliation pursuant to section 5 of the concurrent resolution on the budget for the fiscal year 1990 is enacted before October 1, 1990.” \[Omnibus Budget Reconciliation Act of 1989, Pub. L. 101–239, Dec. 19, 1989, 103 Stat. 2106, was enacted Dec. 19, 1989.\]
 
 #### Section Referred to in Other Sections
 

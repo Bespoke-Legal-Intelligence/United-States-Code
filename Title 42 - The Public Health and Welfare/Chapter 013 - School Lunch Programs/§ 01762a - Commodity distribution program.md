@@ -20,7 +20,7 @@ Notwithstanding any other provision of law, the Secretary, during the period beg
 
 #### (c) Authorization of appropriations for purchase of products or for cash payments in lieu of donations
 
-The Secretary may use funds appropriated from the general fund of the Treasury to purchase agricultural commodities and their products of the types customarily purchased for donation under section 311(a)(4) of the Older Americans Act of 1965 \[42 U.S.C. 3030a(a)(4)\] or for cash payments in lieu of such donations under section 311(b)(1) of such Act \[42 U.S.C. 3030a(b)(1)\]. There are hereby authorized to be appropriated such sums as are necessary to carry out the purposes of this subsection.
+The Secretary may use funds appropriated from the general fund of the Treasury to purchase agricultural commodities and their products of the types customarily purchased for donation under section 311(a)(4) <sup>1</sup> of the Older Americans Act of 1965 or for cash payments in lieu of such donations under section 311(b)(1) <sup>1</sup> of such Act. There are hereby authorized to be appropriated such sums as are necessary to carry out the purposes of this subsection.
 
 #### (d) Assistance procedures; cost and benefits, review; technical assistance; report to Congress; food quality standards contracting procedures
 
@@ -58,7 +58,7 @@ Commodity only schools shall be eligible to receive donated commodities equal in
 
 The Child Nutrition Act of 1966, referred to in subsecs. (a)(1) and (d), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, as amended, which is classified generally to chapter 13A (§1771 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of this title and Tables.
 
-The Older Americans Act of 1965, referred to in subsec. (a)(1), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, as amended. Title III of the Older Americans Act of 1965 is classified generally to subchapter III (§3021 et seq.) of chapter 35 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
+The Older Americans Act of 1965, referred to in subsecs. (a)(1) and (c), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, as amended. Title III of the Older Americans Act of 1965 is classified generally to subchapter III (§3021 et seq.) of chapter 35 of this title. Section 311 of the Act, which is classified to section 3030a of this title, was amended by Pub. L. 106–501, title III, §309, Nov. 13, 2000, 114 Stat. 2246, and, as so amended, new subsecs. (a) and (b) were added, former subsec. (a)(4) was redesignated (c)(4) and repealed, and former subsec. (b)(1) was redesignated (d)(1). For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
 
 Section 1581 of the Food Security Act, referred to in subsec. (g), is section 1581 of Pub. L. 99–198, title XV, Dec. 23, 1985, 99 Stat. 1594, which is not classified to the Code.
 
@@ -96,7 +96,7 @@ Subsec. (g)(3)(A). Pub. L. 101–147, §103(c), substituted last four sentences 
 
 1988—Subsec. (g)(3)(A). Pub. L. 100–356, §2(c), inserted at end “The Secretary shall complete action on any claim submitted under this subparagraph not later than 45 days after June 28, 1988.”
 
-Pub. L. 100–356, §2(a), inserted at end “The Secretary, in computing losses sustained by any school districtunder the preceding sentence, shall base such computation on the actual amount of assistance received by such school district under this chapter for the school year ending June 30, 1982, including—
+Pub. L. 100–356, §2(a), inserted at end “The Secretary, in computing losses sustained by any school district under the preceding sentence, shall base such computation on the actual amount of assistance received by such school district under this chapter for the school year ending June 30, 1982, including—
 
 &emsp;“(i) the value of assistance in the form of commodities provided in addition to those provided pursuant to section 1755(e) of this title; and
 
@@ -159,4 +159,6 @@ Section 304 of Pub. L. 103–448 directed Comptroller General of the United Stat
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1755, 1760 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -48,9 +48,3 @@ Subsection (a) of this section shall not apply with respect to any employee who,
 
 Section effective Aug. 7, 1977, except as otherwise expressly provided, see section 406(d) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
 
-#### Federal Rules of Civil Procedure
-
-Injunctions, see rule 65, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-Writ of mandamus abolished in United States district courts, but relief available by appropriate action or motion, see rule 81.
-

@@ -42,7 +42,7 @@
 
 > expressly provides for such survivor annuity.
 
-(2) Paragraph (1) shall apply only to payments made by the Executive Director after the dateon which the Executive Director receives written notice of the election, decree, order, or agreement, and such additional information and documentation as the Executive Director may require.
+(2) Paragraph (1) shall apply only to payments made by the Executive Director after the date on which the Executive Director receives written notice of the election, decree, order, or agreement, and such additional information and documentation as the Executive Director may require.
 
 (3) The amount of the survivor annuity payable from the Thrift Savings Fund to a former spouse of a deceased employee, Member, former employee, or former Member under this section may not exceed the excess, if any, of—
 
@@ -76,7 +76,7 @@
 
 (h) The protections provided by this section are in addition to the protections provided by section 8467 of this title.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 547; amended Pub. L. 101–335, §§5(c), 6(a)(3), July 17, 1990, 104 Stat. 322, 323; Pub. L. 102–484, div. D, title XLIV, §4437(b), Oct. 23, 1992, 106 Stat. 2724; Pub. L. 103–226, §9(d), (i)(9)–(15), Mar. 30, 1994, 108 Stat. 120, 122; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §204\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–376.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 547; amended Pub. L. 101–335,§§5(c), 6(a)(3), July 17, 1990, 104 Stat. 322, 323; Pub. L. 102–484, div. D, title XLIV, §4437(b), Oct. 23, 1992, 106 Stat. 2724; Pub. L. 103–226, §9(d), (i)(9)–(15), Mar. 30, 1994, 108 Stat. 120, 122; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §204\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–376.)
 
 #### Amendments
 
@@ -96,7 +96,7 @@ Subsec. (g). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §204(4)(
 
 Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §204(4)(B)\]\], which directed insertion of “and (h)” after “8344(g)” was executed by making the insertion after “8433(g)” to reflect the probable intent of Congress.
 
-1994—Subsec. (a)(1)(A). Pub. L. 103–226, §9(d)(1), substituted “subsection (b)(3) or (b)(4) of section 8433 ofthis title or change an election previously made under subsection (b)(1) or (b)(2)” for “subsection (b)(3), (b)(4), (c)(3), or (c)(4) of section 8433 of this title or change an election previously made under subsection (b)(1), (b)(2), (c)(1), or (c)(2)”.
+1994—Subsec. (a)(1)(A). Pub. L. 103–226, §9(d)(1), substituted “subsection (b)(3) or (b)(4) of section 8433 of this title or change an election previously made under subsection (b)(1) or (b)(2)” for “subsection (b)(3), (b)(4), (c)(3), or (c)(4) of section 8433 of this title or change an election previously made under subsection (b)(1), (b)(2), (c)(1), or (c)(2)”.
 
 Subsec. (a)(1)(B). Pub. L. 103–226, §9(i)(9), substituted “subsection (b)” for “subsection (c)”.
 

@@ -20,13 +20,3 @@ Minor changes were made in phraseology.
 
 1996—Pub. L. 104–294 substituted “fined under this title” for “fined not more than $1,000” in first par.
 
-#### Cross References
-
-Entry on coal lands in general, see section 71 et seq. of Title 30, Mineral Lands and Mining.
-
-Entry under nonmineral land laws of coal lands with reservation of coal to United States, see section 81 et seq. of Title 30.
-
-Lease of mineral deposits within acquired lands, see section 351 et seq. of Title 30.
-
-Leases and prospecting permits on lands containing coal, see sections 181 et seq., 201 et seq., of Title 30.
-

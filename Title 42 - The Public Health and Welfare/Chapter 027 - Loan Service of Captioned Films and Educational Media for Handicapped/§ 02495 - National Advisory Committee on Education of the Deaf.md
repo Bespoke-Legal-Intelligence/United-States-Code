@@ -8,7 +8,7 @@
 
 (3) The Secretary shall from time to time designate one of the members of the Advisory Committee to serve as Chairman of the Advisory Committee.
 
-(4) Each member of the Advisory Committee shall serve for a term of four years, except that any member appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed only for the remainder of such term, and except that the terms of the office of the members first taking office shall expire, as designated by the Secretary at the time of appointment, three at the end of the first year, three at the end of the second year, three at the end of the third year, and three at the end of the fourth year after the date of appointment.
+(4) Each member of the Advisory Committee shall serve for a term of four years, except that any member appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed only for the remainder of such term, and except that the terms of the office of the members first taking office shall expire, as designated by the Secretary at the time of appointment, three at the end of the first year, three at the end of the second year, three at the end ofthe third year, and three at the end of the fourth year after the date of appointment.
 
 (5) A member of the Advisory Committee shall not be eligible to serve continuously for more than one term.
 
@@ -22,7 +22,7 @@ The Secretary may, at the request of the Advisory Committee appoint such special
 
 #### (d) Compensation and travel expenses
 
-Members of the Advisory Committee, and advisory or technical personnel appointed pursuant to subsection (c) of this section, while attending meetings or conferences of the Advisory Committee or otherwise serving on business of the Advisory Committee, shall be entitled to receive compensation at rates fixed by the Secretary, but not exceeding $100 per day including travel time and while serving away from their homes or regular places of business they may beallowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons in the Government service employed intermittently.
+Members of the Advisory Committee, and advisory or technical personnel appointed pursuant to subsection (c) of this section, while attending meetings or conferences of the Advisory Committee or otherwise serving on business of the Advisory Committee, shall be entitled to receive compensation at rates fixed by the Secretary, but not exceeding $100 per day including travel time and while serving away from their homes or regular places of business they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons in the Government service employed intermittently.
 
 #### (e) Meetings
 

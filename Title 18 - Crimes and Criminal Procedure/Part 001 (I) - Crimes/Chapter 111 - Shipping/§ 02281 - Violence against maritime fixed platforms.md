@@ -72,6 +72,10 @@ Subsec. (c). Pub. L. 104–294 inserted before period at end “, and the term �
 
 Section effective Mar. 6, 1995, see section 60019(c)(1), (2)(B) of Pub. L. 103–322, set out as a note under section 2280 of this title.
 
+#### Territorial Sea of United States
+
+For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1956, 2332b, 2339A, 3286, 3592 of this title.

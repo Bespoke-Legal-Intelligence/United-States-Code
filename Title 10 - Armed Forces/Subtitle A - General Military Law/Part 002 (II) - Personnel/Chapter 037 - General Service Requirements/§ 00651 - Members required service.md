@@ -46,7 +46,7 @@ Act
 
 June 24, 1948, ch. 625, §4(d)(3) (less 4th sentence, and less applicability to members of National Security Training Corps); added June 19, 1951, ch. 144, §1(g) (last par., less 4th sentence, and less applicability to members of National Security Training Corps), 65 Stat. 79; July 9, 1952, ch. 608, §813, 66 Stat. 509.
 
-In subsection (a), the word “male” is inserted, since the source statute (Universal Military Training and Service Act (50 U.S.C. App. 451 et seq.)) applies only to male persons. The words “subsequent to the date of enactment of this paragraph \[June 19, 1951\]” are omitted as executed. The words “becomes a member” are substituted for the words “is inducted, enlisted, or appointed \* \* \* in”. The words “in the armed forces” are substituted for the words “on active training and service in the Armed Forces \* \* \* and in a reserve component”. The last sentence is substituted for the words “or in training in the National Security Training Corps”. The words “under any provision of law” and “including the reserve components thereof” are omitted as surplusage.
+In subsection (a), the word “male” is inserted, since the source statute (Universal Military Training andService Act (50 U.S.C. App. 451 et seq.)) applies only to male persons. The words “subsequent to the date of enactment of this paragraph \[June 19, 1951\]” are omitted as executed. The words “becomes a member” are substituted for the words “is inducted, enlisted, or appointed \* \* \* in”. The words “in the armed forces” are substituted for the words “on active training and service in the Armed Forces \* \* \* and in a reserve component”. The last sentence is substituted for the words “or in training in the National Security Training Corps”. The words “under any provision of law” and “including the reserve components thereof” are omitted as surplusage.
 
 In subsection (b), the words “who is not a Reserve” are inserted, since the eight year obligation for Reserves is covered by subsection (a). The words “active duty” are substituted for the words “active training and service”. The last eight words are substituted for the words “and shall serve therein for the remainder of the period which he is required to serve under this paragraph”. The words “physically and mentally” and 50 App.:454(d)(3) (last 15 words of 2d sentence) are omitted as surplusage.
 
@@ -101,12 +101,6 @@ Amendment by Pub. L. 96–107 applicable to individuals who become members of an
 #### Effective Date of 1977 Amendment
 
 Section 803(b) of Pub. L. 95–79 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on the first day of the seventh calendar month beginning after the month in which this Act is enacted \[July 1977\] and shall apply to any female person who becomes a member of an Armed Force on or after such day.”
-
-#### Cross References
-
-Appointment as officer in armed force instead of transfer to reserve component, see section 12208 of this title.
-
-Enlistment in armed force instead of transfer to reserve component, see section 12104 of this title.
 
 #### Section Referred to in Other Sections
 

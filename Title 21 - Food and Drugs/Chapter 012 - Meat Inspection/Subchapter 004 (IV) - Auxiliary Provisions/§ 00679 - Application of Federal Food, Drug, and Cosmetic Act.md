@@ -18,7 +18,3 @@ The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b), is act Jun
 
 “Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (b) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
 
-#### Cross References
-
-Federal Food, Drug, and Cosmetic Act defined, see section 601 of this title.
-

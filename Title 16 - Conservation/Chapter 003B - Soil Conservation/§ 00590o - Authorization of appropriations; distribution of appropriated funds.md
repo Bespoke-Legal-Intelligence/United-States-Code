@@ -6,7 +6,7 @@ To enable the Secretary of Agriculture to carry out the purposes of section 590g
 
 #### Amendments
 
-1996—Pub. L. 104–127 substituted “section 590g” for “sections 590g and 590h”, struck out “A specified amount or percentage of the appropriation shall be designated for long-term agreements based on farm and ranch conservation plans approved by local conservation districts, where such districts are organized.” before “The Secretary shall distribute”, and struck outlast par. which read as follows: “Notwithstanding the foregoing provisions of this section and the provisions of section 590g(g) of this title, programs of soil-building practices, soil- and water-conserving practices, and agriculture-related pollution prevention and abatement practices shall be based on a distribution of the funds available for payments and grants among the several States in accordance with their conservation needs, as determinated by the Secretary, except that the proportion allocated to any State shall not be reduced by more than 15 per centum from the distribution of such funds for the next preceding program year. In carrying out such programs, the Secretary shall give particular consideration to conservation problems on farm lands diverted from crops under acreage allotment programs and to the maintenance of a proper balance between soil conserving and soil depleting crops on the farm.”
+1996—Pub. L. 104–127 substituted “section 590g” for “sections 590g and 590h”, struck out “A specified amount or percentage of the appropriation shall be designated for long-term agreements based on farm and ranch conservation plans approved by local conservation districts, where such districts are organized.” before “The Secretary shall distribute”, and struck out last par. which read as follows: “Notwithstanding the foregoing provisions of this section and the provisions of section 590g(g) of this title, programs of soil-building practices, soil- and water-conserving practices, and agriculture-related pollution prevention and abatement practices shall be based on a distribution of the funds available for payments and grants among the several States in accordance with their conservation needs, as determinated by the Secretary, except that the proportion allocated to any State shall not be reduced by more than 15 per centum from the distribution of such funds for the next preceding program year. In carrying out such programs, the Secretary shall give particular consideration to conservation problems on farm lands diverted from crops under acreage allotment programs and to the maintenance of a proper balance between soil conserving and soil depleting crops on the farm.”
 
 1977—Pub. L. 95–113 inserted provisions directing that appropriated funds be available until expended, that funds be made available for long-term agreements, and that the Secretary distribute the available funds among the several States in accordance with their conservation needs as determined by the Secretary and struck out provisions setting out a formula for determining the proper allocation of funds as between the various commodities and making reference to programs of soil-building practices, soil-conserving and water-conserving practices, and agricultural-related pollution prevention and abatement practices.
 
@@ -27,14 +27,6 @@ Section 105 of act Feb. 16, 1938, as amended by section 1 of act Apr. 7, 1938, p
 #### Transfer of Functions
 
 Functions respecting lands under jurisdiction of Department of the Interior, see Transfer of Functions note set out under section 590a of this title.
-
-#### Cross References
-
-Commodity Credit Corporation loans, see section 1391 of Title 7, Agriculture.
-
-Utilization of local agencies, see section 1388 of Title 7.
-
-Wheat marketing quotas, penalty provisions, see section 1340 of Title 7.
 
 #### Section Referred to in Other Sections
 

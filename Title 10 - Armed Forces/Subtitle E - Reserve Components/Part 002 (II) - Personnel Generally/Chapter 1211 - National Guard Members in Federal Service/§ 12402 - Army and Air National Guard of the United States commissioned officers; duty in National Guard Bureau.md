@@ -20,12 +20,6 @@ Provisions similar to those in this section were contained in sections 3496 and 
 
 Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under section 113 of this title.
 
-#### Cross References
-
-National Guard Bureau, assignment of officers of regular or reserve components, see section 10507 of this title.
-
-Payment of pay and allowances for the Chief of the National Guard Bureau and officers ordered to active duty under this section, see section 107 of Title 32, National Guard.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 523, 641, 10507 of this title; title 32 section 107; title 37 section 204.

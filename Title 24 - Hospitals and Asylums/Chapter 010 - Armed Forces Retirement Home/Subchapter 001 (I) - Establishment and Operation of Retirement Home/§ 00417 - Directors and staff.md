@@ -40,11 +40,11 @@ The Secretary of Defense may appoint the Director referred to in subsection (a) 
 
 #### (e) Staff
 
-(1) A Director, subject to the approval of the Retirement Home Board, may appoint and fixthe pay of such principal staff as the Director considers appropriate to assist the Director in operating the facility of the Retirement Home for which the Director is appointed.
+(1) A Director, subject to the approval of the Retirement Home Board, may appoint and fix the pay of such principal staff as the Director considers appropriate to assist the Director in operating the facility of the Retirement Home for which the Director is appointed.
 
 (2) The staff shall include persons with experience and expertise in the operation and management of retirement homes and in the provision of long-term medical care for older persons.
 
-(3) The Director may exempt four physicians employed at the Retirement Home from the provisions of subsections (a), (b), and (c) of section 5532 <sup>1</sup> of title 5, if the Director determines that the exemption is necessary to recruit or retain well-qualified physicians for the Retirement Home. An exemption granted under this section shall apply to the retired pay of the physician payable for the first month after the month in which the exemption is granted and shall terminate upon any break in employment with the Retirement Home of three days or more.
+(3) The Director may exempt four physicians employed at the Retirement Home from the provisions of subsections (a), (b), and (c) of section 5532 <sup>1</sup> of title 5, if the Director determines that the exemption is necessary to recruit or retain well-qualified physicians for the Retirement Home. An exemption granted under this sectionshall apply to the retired pay of the physician payable for the first month after the month in which the exemption is granted and shall terminate upon any break in employment with the Retirement Home of three days or more.
 
 #### (f) Annual evaluation of Directors
 

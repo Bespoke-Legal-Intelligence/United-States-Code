@@ -24,7 +24,7 @@ In this chapter:
 
 #### (4) Career guidance and academic counseling
 
-&emsp;The term “career guidance and academic counseling” means providing access to information regarding career awareness and planning with respect to an individual's occupational and academic future that shall involve guidance and counseling with respect to career options, financial aid, and postsecondary options.
+&emsp;The term “career guidance and academic counseling” means providing access to information regarding career awareness and planning with respect to an individual's occupational and academic future that shall involve guidance and counseling with respect to careeroptions, financial aid, and postsecondary options.
 
 #### (5) Charter school
 
@@ -114,13 +114,13 @@ In this chapter:
 
 #### (18) Outlying area
 
-&emsp;The term “outlying area” means the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau.
+&emsp;The term “outlying area” means the United States Virgin Islands, Guam, AmericanSamoa, the Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau.
 
 #### (19) Postsecondary educational institution
 
 &emsp;The term “postsecondary educational institution” means—
 
-&emsp;&emsp;(A) an institution of higher education that provides not less than a 2-year program ofinstruction that is acceptable for credit toward a bachelor's degree;
+&emsp;&emsp;(A) an institution of higher education that provides not less than a 2-year program of instruction that is acceptable for credit toward a bachelor's degree;
 
 &emsp;&emsp;(B) a tribally controlled college or university; or
 
@@ -210,7 +210,7 @@ In this chapter:
 
 #### (A) In general
 
-&emsp;&emsp;The term “vocational and technical student organization” means an organizationfor individuals enrolled in a vocational and technical education program that engages in vocational and technical activities as an integral part of the instructional program.
+&emsp;&emsp;The term “vocational and technical student organization” means an organization for individuals enrolled in a vocational and technical education program that engages in vocational and technical activities as an integral part of the instructional program.
 
 #### (B) State and national units
 

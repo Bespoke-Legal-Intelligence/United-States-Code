@@ -14,11 +14,3 @@ The first sentence of section 770 of title 28, U.S.C., 1940 ed., providing gener
 
 Changes were made in phraseology.
 
-#### Federal Rules of Civil Procedure
-
-Jury trial of right, see rule 38, Appendix to this title.
-
-#### Federal Rules of Criminal Procedure
-
-Trial by jury, see rule 23, Title 18, Appendix, Crimes and Criminal Procedure.
-

@@ -26,7 +26,7 @@ Within 90 days after August 14, 1976, the Secretary shall—
 
 #### (f) Authorization of appropriations
 
-For the purpose of carrying out this part, there are authorized to be appropriated for fiscal years 1999 through 2003 such sums as may be necessary.
+For the purpose of carrying out this part, there are authorized to be appropriated for fiscalyears 1999 through 2003 such sums as may be necessary.
 
 #### (g) State Energy Advisory Board
 
@@ -86,7 +86,7 @@ The Energy Conservation and Production Act, referred to in subsec. (g)(2)(A)(i),
 
 Subsec. (g). Pub. L. 101–440, §5, added subsec. (g).
 
-1978—Subsecs. (a) to (c), (e). Pub. L. 95–619, §691(b)(2), substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing.
+1978—Subsecs. (a) to (c), (e). Pub. L. 95–619, §691(b)(2), substituted “Secretary” for “Administrator”, meaningAdministrator of the Federal Energy Administration, wherever appearing.
 
 Subsec. (f). Pub. L. 95–619, §621, authorized to be appropriated $50,000,000 for fiscal year 1979.
 
@@ -95,6 +95,10 @@ Subsec. (f). Pub. L. 95–619, §621, authorized to be appropriated $50,000,000 
 Subsec. (e). Pub. L. 94–385, §432(d)(2), added subsec. (e).
 
 Subsec. (f). Pub. L. 94–385, §432(d)(1), (3), redesignated former subsec. (d) as (f) and inserted “(other than section 6327 of this title)” after “part”.
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the 16th item on page 87 identifies a reporting provision which, as subsequently amended, is contained in subsec. (c) of this section and in which the 14th item on page 91 identifies a reporting provision in subsec. (g)(8) of this section), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 
 #### Section Referred to in Other Sections
 

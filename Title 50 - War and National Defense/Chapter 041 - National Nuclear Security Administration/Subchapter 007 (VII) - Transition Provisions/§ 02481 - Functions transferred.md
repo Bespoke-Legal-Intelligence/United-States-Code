@@ -28,5 +28,5 @@ In the case of any environmental remediation and waste management activity of an
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2484 of this title.
+This section is referred to in sections 2402, 2409, 2484 of this title.
 

@@ -14,9 +14,9 @@
 
 &emsp;(6) Oversee, periodically review, and make recommendations to heads of agencies on the administrative structure of agencies with respect to their financial management activities.
 
-&emsp;(7) Develop and maintain qualification standards for agency Chief Financial Officers and for agency Deputy Chief Financial Officers appointed under sections 901 and 903, respectively.
+&emsp;(7) Develop and maintain qualification standards for agency Chief Financial Officers and for agency Deputy Chief Financial Officers appointed under sections 901 and 903, respectively (excluding any officer designated or appointed under section 901(c)).
 
-&emsp;(8) Provide advice to agency heads with respect to the selection of agency Chief Financial Officers and Deputy Chief Financial Officers.
+&emsp;(8) Provide advice to agency heads with respect to the selection of agency Chief Financial Officers and Deputy Chief Financial Officers (excluding any officer designated or appointed under section 901(c)).
 
 &emsp;(9) Provide advice to agencies regarding the qualifications, recruitment, performance, and retention of other financial management personnel.
 
@@ -72,14 +72,6 @@
 
 (Added Pub. L. 101–576, title II, §202(b), Nov. 15, 1990, 104 Stat. 2839; amended Pub. L. 103–272, §4(f)(1)(B), July 5, 1994, 108 Stat. 1361; Pub. L. 106–58, title VI, §638(g), Sept. 29, 1999, 113 Stat. 476.)
 
-#### Amendment of Subsection (a)(7), (8)
-
-<i>Pub. L. 106–58, title VI, §638(g), (h), Sept. 29, 1999, 113 Stat. 476, provided that, effective at noon on Jan. 20, 2001, subsection (a) of this section is amended—</i>
-
-<i>(1) in paragraph (7) by striking “respectively.” and inserting “respectively (excluding any officer designated or appointed under section 901(c)).”; and</i>
-
-<i>(2) in paragraph (8) by striking “Officers.” and inserting “Officers (excluding any officer designated or appointed under section 901(c)).”.</i>
-
 #### References in Text
 
 Section 302 of the Chief Financial Officers Act of 1990 \[Pub. L. 101–576\], referred to in subsec. (a)(12), is set out as a note under section 901 of this title.
@@ -89,6 +81,10 @@ Section 302 of the Chief Financial Officers Act of 1990 \[Pub. L. 101–576\], r
 A prior section 503 was renumbered section 505 of this title.
 
 #### Amendments
+
+1999—Subsec. (a)(7). Pub. L. 106–58, §638(g)(1), substituted “respectively (excluding any officer designated or appointed under section 901(c)).” for “respectively.”
+
+Subsec. (a)(8). Pub. L. 106–58, §638(g)(2), substituted “Officers (excluding any officer designated or appointed under section 901(c)).” for “Officers.”
 
 1994—Subsec. (b)(9). Pub. L. 103–272 substituted “Perform” for “perform”.
 

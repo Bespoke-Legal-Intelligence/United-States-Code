@@ -2,7 +2,7 @@
 
 #### (a) Control of insects, pests, and grass diseases
 
-Materials and equipment for the control of incipient or emergency outbreaks of insects, pests, or grass diseases, including grasshoppers, Mormon crickets, and chinch bugs, may be procured with any sums appropriated to carry out the provisions of sections 148 to 148e of title 7 without regard to the provisions of section 5 of this title, and the transportation thereof may be under such conditions and means as shall be determined by the Secretary of Agriculture to be most advantageous.
+Materials and equipment for the control of incipient or emergency outbreaks of insects, pests, or grass diseases, including grasshoppers, Mormon crickets, and chinch bugs, may be procured with any sums appropriated to carry out the provisions of sections 148 to 148e <sup>1</sup> of title 7 without regard to the provisions of section 5 of this title, and the transportation thereof may be under such conditions and means as shall be determined by the Secretary of Agriculture to be most advantageous.
 
 #### (b) Omitted
 
@@ -17,6 +17,8 @@ The lumber and other forest products produced by Indian enterprises from the for
 (June 24, 1940, ch. 412, 54 Stat. 504; Oct. 10, 1940, ch. 851, §3, 54 Stat. 1111.)
 
 #### References in Text
+
+Sections 148 to 148e of title 7, referred to in subsec. (a), were repealed. Sections 148, 148a, and 148c to 148e were repealed by Pub. L. 106–224, title IV, §438(a)(6), June 20, 2000, 114 Stat. 454, and section 148b was repealed by Act Oct. 10, 1940, ch. 851, §4, 54 Stat. 1111.
 
 Act of March 28, 1908 (35 Stat. 51), referred to in subsec. (c), probably means act Mar. 28, 1908, ch. 111, 35 Stat. 51, which is not classified to the Code.
 
@@ -75,4 +77,6 @@ A prior section 6b, acts Feb. 23, 1931, ch. 281, 46 Stat. 1363; June 30, 1932, c
 #### Transfer of Functions
 
 Functions of all officers, agencies and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, §1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out in the Appendix to Title 5, Government Organization and Employees.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

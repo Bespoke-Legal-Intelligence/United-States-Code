@@ -18,7 +18,7 @@ An organization is engaged in “civilian military activity” if:
 
 &emsp;(4) it engages, either with or without arms, in drills or parades of a military or naval character; or
 
-&emsp;(5) it engages in any other form of organized activity which in the opinion of the Attorney General constitutes preparation for military action;
+&emsp;(5) it engages in any other form of organized activity which in the opinion of the AttorneyGeneral constitutes preparation for military action;
 
 An organization is “subject to foreign control” if:
 

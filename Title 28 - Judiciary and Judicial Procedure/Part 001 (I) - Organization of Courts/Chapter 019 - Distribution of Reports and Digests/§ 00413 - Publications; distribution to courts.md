@@ -2,7 +2,7 @@
 
 Distribution of publications to Federal courts in accordance with the provisions of this chapter shall not be made to any place where such court is held in a building not owned or controlled by the United States unless such publications are committed to the custody of an officer of the United States at such building.
 
-The Attorney General and the Director in the procurement of law books, books of reference orperiodicals may exchange or sell similar items and apply the allowance or proceeds to payment in whole or in part of the cost of the items procured.
+The Attorney General and the Director in the procurement of law books, books of reference or periodicals may exchange or sell similar items and apply the allowance or proceeds to payment in whole or in part of the cost of the items procured.
 
 (June 25, 1948, ch. 646, 62 Stat. 906; May 24, 1949, ch. 139, §69, 63 Stat. 100; July 10, 1952, ch. 632, §6, 66 Stat. 541.)
 
@@ -16,7 +16,7 @@ Section consolidates provisions of section 1131 of title 26, U.S.C., 1940 ed., r
 
 Other provisions of section 1131 of title 26, U.S.C., 1940 ed., are incorporated in section 604 of this title.
 
-Provisions of section 530 of title 28, U.S.C., 1940 ed., limiting the price to be paid for volumes of the Federal Reporter and other similar reports were omitted after consultation with the Administrative Office of United States Courts as more properly covered by current appropriation acts. Similar provisions relating to the Federal Digest and the United States Code Annotated were omitted as covered in current appropriation acts. (See Act June 29, 1944, ch. 286, title II, §212, 58 Stat. 361, 387.)
+Provisions of section 530 of title 28, U.S.C., 1940 ed., limiting the price to be paid for volumes of the Federal Reporter and other similar reports were omitted after consultation with the Administrative Office of United States Courts as more properly covered by current appropriation acts. Similar provisions relating to theFederal Digest and the United States Code Annotated were omitted as covered in current appropriation acts. (See Act June 29, 1944, ch. 286, title II, §212, 58 Stat. 361, 387.)
 
 Provisions of said section 337 of title 28, U.S.C., 1940 ed., that books are to remain United States property, so marked, and transmitted to successors in office of persons receiving them, were omitted as covered by section 414 of this title.
 
@@ -50,7 +50,7 @@ Subsection (b) of this section incorporates in section 413 of title 28, U.S.C., 
 
 #### Amendments
 
-1952—Act July 10, 1952, amended section generally, and permitted delivery of publication to buildings controlled by the Government as well as to buildings owned by it.
+<b>1952</b>—Act July 10, 1952, amended section generally, and permitted delivery of publication to buildings controlled by the Government as well as to buildings owned by it.
 
-1949—Act May 24, 1949, struck out reference to the Tax Court in former provisions enumerating judges and courts to receive certain publications, and inserted provisions set out as second par.
+<b>1949</b>—Act May 24, 1949, struck out reference to the Tax Court in former provisions enumerating judges and courts to receive certain publications, and inserted provisions set out as second par.
 

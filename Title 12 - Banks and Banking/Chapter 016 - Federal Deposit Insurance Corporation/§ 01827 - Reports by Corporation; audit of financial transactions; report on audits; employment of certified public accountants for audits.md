@@ -22,6 +22,10 @@
 
 &emsp;Such report shall be submitted to the President of the Senate and the Speaker of the House of Representatives, who shall cause the same to be printed for the information of Congress, and the President as soon as practicable after the first day of January each year.
 
+#### (3) Coordination with other report requirements
+
+&emsp;The report required under this subsection shall include the report required under section 57a(f)(7) of title 15.
+
 #### (b) Quarterly reports to Treasury
 
 #### (1) Financial operating plans and forecasts
@@ -44,7 +48,7 @@
 
 #### (1) Financial information
 
-&emsp;The Corporation shall continue to provide to the Director of the Office of Management and Budget financial information consistent with that contained in the reports that were being provided to the Director immediately prior to the effective date of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989.
+&emsp;The Corporation shall continue to provide to the Director of the Office of Management andBudget financial information consistent with that contained in the reports that were being provided to the Director immediately prior to the effective date of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989.
 
 #### (2) Financial operating plans and forecasts
 
@@ -76,39 +80,7 @@ A report of each audit conducted under subsection (b) of this section shall be m
 
 For the purpose of conducting such audit the Comptroller General is authorized in his discretion to employ by contract, without regard to section 5 of title 41, professional services of firms and organizations of certified public accountants, with the concurrence of the Corporation, for temporary periods or for special purposes. The Corporation shall reimburse the General Accounting Office for the cost of any such audit as billed therefor by the Comptroller General, and the General Accounting Office shall deposit the sums so reimbursed into the Treasury as miscellaneous receipts.
 
-#### (h) Additional reports
-
-#### (1) In general
-
-&emsp;In addition to the reports required under subsections (a), (b), and (c) of this section, the Corporation shall submit to Congress not later than April 30 and October 31 of each year, a semiannual report on the activities and efforts of the Corporation for the 6-month period ending on the last day of the month prior to the month in which such report is required to be submitted.
-
-#### (2) Contents of report
-
-&emsp;Each semiannual report required under this subsection shall include the following information with respect to the Corporation's assets and liabilities and the assets and liabilities of institutions for which the Corporation serves as a conservator or receiver:
-
-&emsp;&emsp;(A) A statement of the total book value of all assets held or managed by the Corporation at the beginning and end of the reporting period.
-
-&emsp;&emsp;(B) A statement of the total book value of such assets which are under contract to be managed by private persons and entities at the beginning and end of the reporting period.
-
-&emsp;&emsp;(C) The number of employees of the Corporation at the beginning and end of the reporting period.
-
-&emsp;&emsp;(D) A statement of the total amount expended on private contractors for the management of such assets.
-
-&emsp;&emsp;(E) A statement of the efforts of the Corporation to maximize the efficient utilization of the resources of the private sector during the reporting period and in future reporting periods and a description of the policies and procedures adopted to ensure adequate competition and fair and consistent treatment of qualified third parties seeking to provide services to the Corporation.
-
-(Sept. 21, 1950, ch. 967, §2\[17\], 64 Stat. 890; Pub. L. 93–604, title VI, §602, Jan. 2, 1975, 88 Stat. 1963; Pub. L. 101–73, title II, §220(a), Aug. 9, 1989, 103 Stat. 263; Pub. L. 102–242, title IV, §427, Dec. 19, 1991, 105 Stat. 2378; Pub. L. 104–208, div. A, title II, §2704(d)(14)(S), (T), Sept. 30, 1996, 110 Stat. 3009–493, 3009–494.)
-
-#### Amendment of Section
-
-<i>Pub. L. 104–208, div. A, title II, §2704(c), (d)(14)(S), (T), Sept. 30, 1996, 110 Stat. 3009–487, 3009–493, 3009–494, provided that, effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, this section is amended as follows:</i>
-
-<i>(1) In subsection (a)—</i>
-
-<i>(A) in the subsection heading, by striking “BIF, SAIF,” and inserting “Deposit Insurance Fund”; and</i>
-
-<i>(B) in paragraph (1), by striking “the Bank Insurance Fund, the Savings Association Insurance Fund,” each place such term appears and inserting “the Deposit Insurance Fund”; and</i>
-
-<i>(2) In subsection (d), by striking “the Bank Insurance Fund, the Savings Association Insurance Fund,” each place such term appears and inserting “the Deposit Insurance Fund”.</i>
+(Sept. 21, 1950, ch. 967, §2\[17\], 64 Stat. 890; Pub. L. 93–604, title VI, §602, Jan. 2, 1975, 88 Stat. 1963; Pub. L. 101–73, title II, §220(a), Aug. 9, 1989, 103 Stat. 263; Pub. L. 102–242, title IV, §427, Dec. 19, 1991, 105 Stat. 2378; Pub. L. 104–208, div. A, title II, §2704(d)(14)(S), (T), Sept. 30, 1996, 110 Stat. 3009–493, 3009–494; Pub. L. 106–569, title XI, §§1103(a), 1104(b), Dec. 27, 2000, 114 Stat. 3030, 3032.)
 
 #### References in Text
 
@@ -119,6 +91,14 @@ The effective date of the Financial Institutions Reform, Recovery, and Enforceme
 Subsec. (a) is derived from subsec. (r) of former section 264 of this title. See Codification note set out under section 1811 of this title.
 
 #### Amendments
+
+2000—Subsec. (a)(3). Pub. L. 106–569, §1103(a), added par. (3).
+
+Subsec. (h). Pub. L. 106–569, §1104(b), struck out subsec. (h) which related to additional reports.
+
+1996—Subsec. (a). Pub. L. 104–208, §2704(d)(14)(S), which directed substitution of “the Deposit Insurance Fund” for “BIF, SAIF,” in heading and “the Deposit Insurance Fund” for “the Bank Insurance Fund, the Savings Association Insurance Fund,” wherever appearing in par. (1), was not executed. See Effective Date of 1996 Amendment note below.
+
+Subsec. (d). Pub. L. 104–208, §2704(d)(14)(T), which directed substitution of “the Deposit Insurance Fund” for “the Bank Insurance Fund, the Savings Association Insurance Fund,” in two places, was not executed. See Effective Date of 1996 Amendment note below.
 
 1991—Subsec. (h). Pub. L. 102–242 added subsec. (h).
 

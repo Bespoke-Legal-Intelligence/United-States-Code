@@ -16,11 +16,15 @@ The Commission shall submit to the Congress an annual report listing for the pre
 
 #### References in Text
 
-The Atomic Energy Act of 1954, as amended, referred to in text, is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921, and amended, which is classified generally to chapter 23 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
+The Atomic Energy Act of 1954, as amended, referred to in text, is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921, and amended, which is classified generally to chapter 23 (§2011 et seq.)of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
 
 #### Amendments
 
 1995—Pub. L. 104–66 substituted “an annual report listing for the previous fiscal year” for “each quarter a report listing for that period” in first sentence.
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the 9th item on page 186 identifies a reporting provision which, as subsequently amended, is contained in this section), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 
 #### Transfer of Functions
 

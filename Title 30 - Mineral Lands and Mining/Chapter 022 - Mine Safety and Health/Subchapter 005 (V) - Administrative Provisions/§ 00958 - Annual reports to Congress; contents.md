@@ -16,6 +16,10 @@
 
 Amendment by Pub. L. 95–164 effective 120 days after Nov. 9, 1977, except as otherwise provided, see section 307 of Pub. L. 95–164, set out as a note under section 801 of this title.
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (a) of this section relating to requirement to submit annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 124 of House Document No. 103–7.
+
 #### Transfer of Functions
 
 Functions vested by law in Office of Science and Technology and in Director or Deputy Director of Office of Science and Technology transferred to Director of National Science Foundation, and Office of Science and Technology, including offices of Director and Deputy Director, provided for by sections 1 and 2 of Reorg. Plan No. 2 of 1962, eff. June 8, 1962, 27 F.R. 5419, 76 Stat. 1253, was abolished by sections 2 and 3(a)(5) of Reorg. Plan No. 1 of 1973, eff. July 1, 1973, 38 F.R. 9579, 87 Stat. 1089, set out in the Appendix to Title 5, Government Organization and Employees.

@@ -28,7 +28,7 @@ Except as provided in subsection (c) of this section, the Commission is authoriz
 
 &emsp;(4) special nuclear materials in quantities not sufficient to form a critical mass.
 
-> During the duration of such an agreement it is recognized that the State shall have authorityto regulate the materials covered by the agreement for the protection of the public health and safety from radiation hazards.
+> During the duration of such an agreement it is recognized that the State shall have authority to regulate the materials covered by the agreement for the protection of the public health and safety from radiation hazards.
 
 #### (c) Commission regulation of certain activities
 
@@ -72,7 +72,7 @@ The Administrator of the Environmental Protection Agency shall consult qualified
 
 #### (i) Inspections and other functions; training and other assistance
 
-The Commission in carrying out its licensing and regulatory responsibilities under this chapter is authorized to enter into agreements with any State, or group of States, to perform inspections or other functions on a cooperative basis as the Commission deems appropriate. The Commission is also authorized to provide training, with or without charge, to employees of, and such other assistance to, any State or political subdivision thereof or group of States as the Commission deems appropriate. Any such provision or assistance by the Commission shall take into account the additional expenses that maybe incurred by a State as a consequence of the State's entering into an agreement with the Commission pursuant to subsection (b) of this section.
+The Commission in carrying out its licensing and regulatory responsibilities under this chapter is authorized to enter into agreements with any State, or group of States, to perform inspections or other functions on a cooperative basis as the Commission deems appropriate. The Commission is also authorized to provide training, with or without charge, to employees of, and such other assistance to, any State or political subdivision thereof or group of States as the Commission deems appropriate. Any such provision or assistance by the Commission shall take into account the additional expenses that may be incurred by a State as a consequence of the State's entering into an agreement with the Commission pursuant to subsection (b) of this section.
 
 #### (j) Reserve power to terminate or suspend agreements; emergency situations; State nonaction on causes of danger; authority exercisable only during emergency and commensurate with danger
 
@@ -104,7 +104,7 @@ As used in this section, the term “State” means any State, Territory, or pos
 
 #### (<i>o</i>) State compliance requirements: compliance with section 2113(b) of this title and health and environmental protection standards; procedures for licenses, rulemaking, and license impact analysis; amendment of agreements for transfer of State collected funds; proceedings duplication restriction; alternative requirements
 
-In the licensing and regulation of byproduct material, as defined in section 2014(e)(2) of this title, or of any activity which results in the production of byproduct material as so defined under an agreement entered into pursuant to subsection (b) of this section, a State shall require—
+In the licensing and regulation of byproduct material, as defined in section 2014(e)(2) of this title, or of any activity which results in the production of byproduct material as so defined under an agreement entered into pursuant tosubsection (b) of this section, a State shall require—
 
 &emsp;(1) compliance with the requirements of subsection (b) of section 2113 of this title (respecting ownership of byproduct material and land), and
 

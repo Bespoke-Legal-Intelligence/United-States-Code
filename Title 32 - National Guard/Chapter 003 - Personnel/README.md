@@ -54,32 +54,6 @@
 
 1958—Pub. L. 85–861, §2(8), Sept. 2, 1958, 72 Stat. 1544, added items 309 and 310.
 
-#### Cross References
-
-Active Federal status, see section 12401 of Title 10, Armed Forces.
-
-Appointments as reserve officers, see section 12201 et seq. of Title 10.
-
-Army National Guard and Air National Guard in Federal service, call, see section 12406 of Title 10.
-
-Army Reserve or Air Force Reserve—
-
-&emsp;&emsp;Transfer from Army National Guard of United States or Air National Guard of United States to, see sections 12105, 12213, and 12214 of Title 10.
-
-&emsp;&emsp;Transfer to upon withdrawal as member of Army National Guard or Air National Guard, see section 12106 of Title 10.
-
-Basic policy for order of Army National Guard of the United States and Air National Guard of the United States into Federal service, see section 10103 of Title 10.
-
-Pay and allowances generally, see Title 37, Pay and Allowances of the Uniformed Services.
-
-Reserve components: detail of members of regular and reserve components to assist, see section 12501 of Title 10, Armed Forces.
-
-Status when not in Federal service, see sections 10107 and 10113 of Title 10.
-
-Uniform, when wearing by persons not on active duty authorized, see section 772 of Title 10.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
 
 ---
 

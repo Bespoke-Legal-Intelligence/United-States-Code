@@ -26,7 +26,7 @@ A State shall be eligible for a grant under this subchapter for a fiscal year if
 
 &emsp;&emsp;(C) has the capacity to provide operational support (both financial and programmatic) and training and technical assistance, to the Statewide network of community-based, prevention-focused, family resource and support programs, through innovative, interagency funding and interdisciplinary service delivery mechanisms; and
 
-&emsp;&emsp;(D) will integrate its efforts with individuals and organizations experienced in working in partnership with families with children with disabilities and with the child abuse and neglect prevention activities of the State, and demonstrate a financial commitment to those activities.
+&emsp;&emsp;(D) will integrate its efforts with individuals and organizations experienced in working in partnership with families with children with disabilities and with the childabuse and neglect prevention activities of the State, and demonstrate a financial commitment to those activities.
 
 (Pub. L. 93–247, title II, §202, as added Pub. L. 104–235, title I, §121, Oct. 3, 1996, 110 Stat. 3081.)
 

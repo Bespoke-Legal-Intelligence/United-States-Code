@@ -10,7 +10,7 @@
 
 (c)(1) Whenever the Secretary determines under section 1118(c) of this title that a presumption of service connection for an undiagnosed illness (or combination of undiagnosed illnesses) previously established under this section is no longer warranted—
 
-&emsp;(A) a veteran who was awarded compensation under this section for such illness (or combination of illnesses) on the basis of the presumption shall continue to be entitled to receive compensation under this section on that basis; and
+&emsp;(A) a veteran who was awarded compensation under this section for such illness (or combination of illnesses) on the basis of thepresumption shall continue to be entitled to receive compensation under this section on that basis; and
 
 &emsp;(B) a survivor of a veteran who was awarded dependency and indemnity compensation for the death of a veteran resulting from the disease on the basis of the presumption before that date shall continue to be entitled to receive dependency and indemnity compensation on that basis.
 
@@ -54,7 +54,7 @@ Assessment by National Academy of Sciences.—Not later than April 1, 1999, the 
 
 &emsp;“(1) assess whether a methodology could be used by the Department of Veterans Affairs for determining the efficacy of treatments furnished to, and health outcomes (including functional status) of, Persian Gulf War veterans who have been treated for illnesses which may be associated with their service in the Persian Gulf War; and
 
-&emsp;“(2) identify, to the extent feasible, with respect to each undiagnosed illness prevalent among such veterans and for any other chronic illness that the Academy determines to warrant such review, empiricallyvalid models of treatment for such illness which employ successful treatment modalities for populations with similar symptoms.
+&emsp;“(2) identify, to the extent feasible, with respect to each undiagnosed illness prevalent among such veterans and for any other chronic illness that the Academy determines to warrant such review, empirically valid models of treatment for such illness which employ successful treatment modalities for populations with similar symptoms.
 
 “(b)
 
@@ -192,7 +192,7 @@ Determinations of Associations Between Agents and Illnesses.—(1) For each agen
 
 “(f)
 
-Review of Potential Treatment Models for Certain Illnesses.—Under the agreement under subsection (b), the National Academy of Sciences shall separately review, for each chronic undiagnosed illnessidentified under subsection (c)(1)(B) and for any other chronic illness that the Academy determines to warrant such review, the available scientific data in order to identify empirically valid models of treatment for such illnesses which employ successful treatment modalities for populations with similar symptoms.
+Review of Potential Treatment Models for Certain Illnesses.—Under the agreement under subsection (b), the National Academy of Sciences shall separately review, for each chronic undiagnosed illness identified under subsection (c)(1)(B) and for any other chronic illness that the Academy determines to warrant such review, the available scientific data in order to identify empirically valid models of treatment for such illnesses which employ successful treatment modalities for populations with similar symptoms.
 
 “(g)
 
@@ -276,7 +276,7 @@ Sections 102 to 105, 107, 109, and 110 of title I of Pub. L. 103–446, as amend
 
 &emsp;“(2) Significant numbers of veterans of the Persian Gulf War are suffering from illnesses, or are exhibiting symptoms of illness, that cannot now be diagnosed or clearly defined. As a result, many of these conditions or illnesses are not considered to be service connected under current law for purposes of benefits administered by the Department of Veterans Affairs.
 
-&emsp;“(3) The National Institutes of Health Technology Assessment Workshop on the Persian Gulf Experienceand Health, held in April 1994, concluded that the complex biological, chemical, physical, and psychological environment of the Southwest Asia theater of operations produced complex adverse health effects in Persian Gulf War veterans and that no single disease entity or syndrome is apparent. Rather, it may be that the illnesses suffered by those veterans result from multiple illnesses with overlapping symptoms and causes that have yet to be defined.
+&emsp;“(3) The National Institutes of Health Technology Assessment Workshop on the Persian Gulf Experience and Health, held in April 1994, concluded that the complex biological, chemical, physical, and psychological environment of the Southwest Asia theater of operations produced complex adverse health effects in Persian Gulf War veterans and that no single disease entity or syndrome is apparent. Rather, it may be that the illnesses suffered by those veterans result from multiple illnesses with overlapping symptoms and causes that have yet to be defined.
 
 &emsp;“(4) That workshop concluded that the information concerning the range and intensity of exposure to toxic substances by military personnel in the Southwest Asia theater of operations is very limited and that such information was collected only after a considerable delay.
 

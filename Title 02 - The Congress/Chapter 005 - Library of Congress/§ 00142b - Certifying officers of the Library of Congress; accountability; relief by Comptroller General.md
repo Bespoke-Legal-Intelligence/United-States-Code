@@ -12,10 +12,6 @@ On and after June 13, 1957, each officer and employee of the Library of Congress
 
 1972—Pub. L. 92–310 struck out provisions which required officers and employees of Library who are authorized to certify vouchers for payment to give a bond.
 
-#### Cross References
-
-General provisions concerning responsibilities of certifying officers, see section 3528 of Title 31, Money and Finance.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 142d of this title.

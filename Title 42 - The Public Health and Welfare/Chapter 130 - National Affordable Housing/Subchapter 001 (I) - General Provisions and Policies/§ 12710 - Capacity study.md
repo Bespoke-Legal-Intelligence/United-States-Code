@@ -6,7 +6,7 @@ The Secretary shall ensure that the Department of Housing and Urban Development 
 
 #### (b) Report
 
-Not later than 60 days after November 28, 1990, and annually thereafter, the Secretary shall prepare and submit to the Committee on Banking, Housing, and Urban Affairs of the Senate andthe Committee on Banking, Finance and Urban Affairs of the House of Representatives a study detailing the Department's plan to maintain such capacity, together with any recommendations for legislative and administrative action as the Secretary determines to be appropriate.
+Not later than 60 days after November 28, 1990, and annually thereafter, the Secretary shall prepare and submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives a study detailing the Department's plan to maintain such capacity, together with any recommendations for legislative and administrative action as the Secretary determines to be appropriate.
 
 (Pub. L. 101–625, title I, §110, Nov. 28, 1990, 104 Stat. 4093; Pub. L. 102–550, title IV, §407, Oct. 28, 1992, 106 Stat. 3778.)
 
@@ -20,5 +20,5 @@ This Act, referred to in subsec. (a), is Pub. L. 101–625, Nov. 28, 1990, 104 S
 
 #### Change of Name
 
-Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 

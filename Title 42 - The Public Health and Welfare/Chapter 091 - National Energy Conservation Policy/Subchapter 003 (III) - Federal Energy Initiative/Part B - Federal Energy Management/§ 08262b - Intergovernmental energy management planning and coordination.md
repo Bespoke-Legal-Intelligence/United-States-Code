@@ -20,7 +20,7 @@ Such workshops and conferences shall focus on the following (but may include oth
 
 #### (c) Establishment of workshop timetable
 
-As a part of the first report to be submitted pursuant to section 8262a of this title, the Administrator shall set forth the schedule for the regional energy management workshops to be conducted under this section. Not less than five such workshops shall be held by September 30, 1993, and at least one such workshop shall be held in each of the 10 Federal regions every two years beginning on September 30, 1993.
+As a part of the first report to be submitted pursuant to section 8262a of this title, the Administrator shall set forth the schedule for the regional energy management workshops to be conducted under this section. Not less than five such workshops shall be held by September 30, 1993, and at least one such workshop shall beheld in each of the 10 Federal regions every two years beginning on September 30, 1993.
 
 (Pub. L. 102–486, title I, §156, Oct. 24, 1992, 106 Stat. 2855.)
 

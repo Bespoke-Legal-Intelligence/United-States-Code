@@ -1,10 +1,46 @@
 ### §8432. Contributions
 
-(a) An employee or Member may contribute to the Thrift Savings Fund in any pay period, pursuant to an election under subsection (b)(1), an amount not to exceed 10 percent of such individual's basic pay for such period. Contributions made under this subsection during any 6-month period for which an election period is provided under subsection (b)(1) shall be made each pay period during such 6-month period pursuant to a program of regular contributions provided in regulations prescribed by the Executive Director.
+(a)(1) An employee or Member may contribute to the Thrift Savings Fund in any pay period, pursuant to an election under subsection (b), an amount not to exceed the maximum percentage of such employee's or Member's basic pay for such pay period allowable under paragraph (2). Contributions under this subsection pursuant to such an election shall, with respect to each pay period for which such election remains in effect, be made in accordance with a program of regular contributions provided in regulations prescribed by the Executive Director.
+
+(2) The maximum percentage allowable under this paragraph shall be determined in accordance with the following table:
+
+<b>In the case of a pay period</b>
+
+<b>The maximum percent-</b>
+
+<b>beginning in fiscal year:</b>
+
+<b>  age allowable is:</b>
+
+&emsp;&emsp;2001
+
+11&nbsp;&nbsp;&nbsp;
+
+&emsp;&emsp;2002
+
+12&nbsp;&nbsp;&nbsp;
+
+&emsp;&emsp;2003
+
+13&nbsp;&nbsp;&nbsp;
+
+&emsp;&emsp;2004
+
+14&nbsp;&nbsp;&nbsp;
+
+&emsp;&emsp;2005
+
+15&nbsp;&nbsp;&nbsp;
+
+&emsp;&emsp;2006 or thereafter
+
+100\.&nbsp;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 (b)(1)(A) The Executive Director shall prescribe regulations under which employees and Members shall be afforded a reasonable period every 6 months to elect to make contributions under subsection (a), to modify the amount to be contributed under such subsection, or to terminate such contributions. An election to make such contributions shall remain in effect until modified or terminated.
 
-(B) The amount to be contributed pursuant to an election under subparagraph (A) shall be the percentage of basic pay or amount designated by the employee or Member.
+(B) The amount to be contributed pursuant to an election under subparagraph (A) (or any election allowable by virtue of paragraph (4)) shall be the percentage of basic pay or amount designated by the employee or Member.
 
 (2) Under the regulations—
 
@@ -16,11 +52,19 @@
 
 &emsp;(D) an election to terminate may be made under this subparagraph at any time other than during a period afforded under paragraph (1).
 
-(3) Notwithstanding paragraph (2)(A), an employee or Member who elects to become subject to this chapter under section 301 of the Federal Employees’ Retirement System Act of 1986 may make the first election for the purpose of subsection (a) during the period prescribed for such purpose by the Executive Director. The period prescribed by the Executive Director shall commence on the date on which the employee or Member makes the election to become subject to this chapter.
+(3) An employee or Member who elects to become subject to this chapter under section 301 of the Federal Employees’ Retirement System Actof 1986 may make the first election for the purpose of subsection (a) during the period prescribed for such purpose by the Executive Director. The period prescribed by the Executive Director shall commence on the date on which the employee or Member makes the election to become subject to this chapter.
 
-(4)(A) Notwithstanding paragraph (2)(A), an employee or Member who is an employee or Member on January 1, 1987, and continues as an employee or Member without a break in service through April 1, 1987, may make the first election for the purpose of subsection (a) during the election period prescribed for such purpose by the Executive Director. The Executive Director shall prescribe an election period for such purpose which shall commence on April 1, 1987. An election by such an employee or Member during that election period shall be effective on the first day of the employee's or Member's first pay period which begins after the date on which the employee or Member makes that election.
+(4) The Executive Director shall prescribe such regulations as may be necessary to carry out the following:
 
-(B) Notwithstanding subsection (a), the maximum amount that an employee or Member may contribute during any pay period which begins on or after April 1, 1987, and before October 1, 1987, pursuant to an election made during the election period provided under subparagraph (A) is the amount equal to 15 percent of such individual's basic pay for such pay period.
+&emsp;(A) Notwithstanding subparagraph (A) of paragraph (2), an employee or Member described in such subparagraph shall be afforded a reasonable opportunity to first make an election under this subsection beginning on the date of commencing service or, if that is not administratively feasible, beginning on the earliest date thereafter that such an election becomes administratively feasible, as determined by the Executive Director.
+
+&emsp;(B) An employee or Member described in subparagraph (B) of paragraph (2) shall be afforded a reasonable opportunity to first make an election under this subsection (based on the appointment or election described in such subparagraph) beginning on the date of commencing service pursuant to such appointment or election or, if that is not administratively feasible, beginning on the earliest date thereafter that such an election becomes administratively feasible, as determined by the Executive Director.
+
+&emsp;(C) Notwithstanding the preceding provisions of this paragraph, contributions under paragraphs (1) and (2) of subsection (c) shall not be payable with respect to any pay period before the earliest pay period for which such contributions would otherwise be allowable under this subsection if this paragraph had not been enacted.
+
+&emsp;(D) Sections 8351(a)(2), 8440a(a)(2), 8440b(a)(2), 8440c(a)(2), and 8440d(a)(2) shall be applied in a manner consistent with the purposes of subparagraphs (A) and (B), to the extent those subparagraphs can be applied with respect thereto.
+
+&emsp;(E) Nothing in this paragraph shall affect paragraph (3).
 
 (c)(1)(A) At the time prescribed by the Executive Director, but no later than 12 days after the end of the pay period that includes the first date on which an employee or Member may make contributions under subsection (a) (without regard to whether the employee or Member has elected to make such contributions during such pay period), and within such time as the Executive Director may prescribe with respect to succeeding pay periods (but no later than 12 days after the end of each such pay period), the employing agency shall contribute to the Thrift Savings Fund for the benefit of such employee or Member the amount equal to 1 percent of the basic pay of such employee or Member for such pay period.
 
@@ -42,7 +86,7 @@
 
 &emsp;(i) such portion of the total amount of the employee's or Member's contribution as does not exceed 3 percent of such employee's or Member's basic pay for such period; and
 
-&emsp;(ii) one-half of such portion of the amount of the employee's or Member's contribution asexceeds 3 percent, but does not exceed 5 percent, of such employee's or Member's basic pay for such pay period.
+&emsp;(ii) one-half of such portion of the amount of the employee's or Member's contribution as exceeds 3 percent, but does not exceed 5 percent, of such employee's or Member's basic pay for such pay period.
 
 (C) Notwithstanding subparagraph (B), the amount contributed under subparagraph (A) by an employing agency with respect to any contribution made by an employee or Member during any pay period which begins after the date on which such employee or Member makes an election under subsection (b)(4) and before July 1, 1987, shall be the amount equal to the sum of—
 
@@ -108,7 +152,17 @@
 
 (2) The Executive Director shall prescribe regulations to ensure that any employee to whom this subsection applies shall, within a reasonable time after being restored or reemployed (in the manner described in section 8432b(a)(2)), be afforded the opportunity to make, for purposes of this section, any election which would be allowable during a period described in subsection (b)(1)(A).
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 541; amended Pub. L. 99–509, title VI, §6001(a)(1), (2), Oct. 21, 1986, 100 Stat. 1929, 1930; Pub. L. 100–20, §1(b), Apr. 7, 1987, 101 Stat. 265; Pub. L. 100–238, title I, §§114, 115, 121, Jan. 8, 1988, 101 Stat. 1751, 1752; Pub. L. 103–353, §§4(c), 5(e)(3), Oct. 13, 1994, 108 Stat. 3172, 3174; Pub. L. 104–93, title III, §304(a), Jan. 6, 1996, 109 Stat. 965; Pub. L. 104–186, title II, §215(16), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 104–316, title I, §103(g), Oct. 19, 1996, 110 Stat. 3829.)
+(j)(1) For the purpose of this subsection—
+
+&emsp;(A) the term “eligible rollover distribution” has the meaning given such term by section 402(c)(4) of the Internal Revenue Code of 1986; and
+
+&emsp;(B) the term “qualified trust” has the meaning given such term by section 402(c)(8) of the Internal Revenue Code of 1986.
+
+(2) An employee or Member may contribute to the Thrift Savings Fund an eligible rollover that a qualified trust could accept under the InternalRevenue Code of 1986. A contribution made under this subsection shall be made in the form described in section 401(a)(31) of the Internal Revenue Code of 1986. In the case of an eligible rollover distribution, the maximum amount transferred to the Thrift Savings Fund shall not exceed the amount which would otherwise have been included in the employee's or Member's gross income for Federal income tax purposes.
+
+(3) The Executive Director shall prescribe regulations to carry out this subsection.
+
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 541; amended Pub. L. 99–509, title VI, §6001(a)(1), (2), Oct. 21, 1986, 100 Stat. 1929, 1930; Pub. L. 100–20, §1(b), Apr. 7, 1987, 101 Stat. 265; Pub. L. 100–238, title I, §§114, 115, 121, Jan. 8, 1988, 101 Stat. 1751, 1752; Pub. L. 103–353, §§4(c), 5(e)(3), Oct. 13, 1994, 108 Stat. 3172, 3174; Pub. L. 104–93, title III, §304(a), Jan. 6, 1996, 109 Stat. 965; Pub. L. 104–186, title II, §215(16), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 104–316, title I, §103(g), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 106–361, §§1(a), 2(a), (b)(1)–(3), Oct. 27, 2000, 114 Stat. 1400, 1401; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §138(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–233.)
 
 #### References in Text
 
@@ -116,9 +170,25 @@ Section 301 of the Federal Employees’ Retirement System Act of 1986 \[Pub. L. 
 
 Section 204 of the Federal Employees’ Retirement Contribution Temporary Adjustment Act of 1983 \[Pub. L. 98–168\], referred to in subsec. (c)(3)(B)(iii), is set out as a note under section 8331 of this title.
 
-Section 415 of the Internal Revenue Code of 1986, referred to in subsec. (d), is classified to section 415 of Title 26, Internal Revenue Code.
+The Internal Revenue Code of 1986, referred to in subsecs. (d) and (j), is classified generally to Title 26, Internal Revenue Code.
 
 #### Amendments
+
+2000—Subsec. (a). Pub. L. 106–554 designated existing provisions as par. (1), substituted “the maximum percentage of such employee's or Member's basic pay for such pay period allowable under paragraph (2).” for “10 percent of such individual's basic pay for such period.”, and added par. (2).
+
+Pub. L. 106–361, §2(b)(1), substituted “(b)” for “(b)(1)” and “Contributions under this subsection pursuant to such an election shall, with respect to each pay period for which such election remains in effect, be made in accordance with a program of regular contributions provided in regulations prescribed by the Executive Director” for “Contributions made under this subsection during any 6-month period for which an election period is provided under subsection (b)(1) shall be made each pay period during such 6-month period pursuant to a program of regular contributions provided in regulations prescribed by the Executive Director”.
+
+Subsec. (b)(1)(B). Pub. L. 106–361, §2(b)(2), inserted “(or any election allowable by virtue of paragraph (4))” after “subparagraph (A)”.
+
+Subsec. (b)(3). Pub. L. 106–361, §2(b)(3), substituted “An” for “Notwithstanding paragraph (2)(A), an”.
+
+Subsec. (b)(4). Pub. L. 106–361, §2(a), amended par. (4) generally. Prior to amendment, par. (4) read as follows:
+
+“(A) Notwithstanding paragraph (2)(A), an employee or Member who is an employee or Member on January 1, 1987, and continues as an employee or Member without a break in service through April 1, 1987, may make the first election for the purpose of subsection (a) during the election period prescribed for such purpose by the Executive Director. The Executive Director shall prescribe an election period for such purpose which shall commence on April 1, 1987. An election by such an employee or Member during that election period shall be effective on the first day of the employee's or Member's first pay period which begins after the date on which the employee or Member makes that election.
+
+“(B) Notwithstanding subsection (a), the maximum amount that an employee or Member may contribute during any pay period which begins on or after April 1, 1987, and before October 1, 1987, pursuant to an election made during the election period provided under subparagraph (A) is the amount equal to 15 percent of such individual's basic pay for such pay period.”
+
+Subsec. (j). Pub. L. 106–361, §1(a), added subsec. (j).
 
 1996—Subsec. (e). Pub. L. 104–186 substituted “Chief Administrative Officer of the House of Representatives, the Chief Administrative Officer may pay from the applicable accounts” for “Clerk of the House of Representatives, the Clerk may pay from the contingent fund”.
 
@@ -148,6 +218,12 @@ Subsec. (c)(1). Pub. L. 99–509, §6001(a)(2)(A), designated existing provision
 
 Subsec. (c)(2)(C). Pub. L. 99–509, §6001(a)(2)(B), added subpar. (C).
 
+#### Effective Date of 2000 Amendment
+
+Pub. L. 106–361, §1(b), Oct. 27, 2000, 114 Stat. 1400, provided that: “The amendment made by this section \[amending this section\] shall take effect at the earliest practicable date after September 30, 2000, as determined by the Executive Director in regulations.”
+
+Pub. L. 106–361, §2(c)(1), Oct. 27, 2000, 114 Stat. 1401, provided that: “The amendments made by this section\[amending this section and sections 8439, 8440a, and 8440d of this title\] shall take effect at the earliest practicable date after September 30, 2000, as determined by the Executive Director in regulations.”
+
 #### Effective Date of 1996 Amendment
 
 Section 304(b) of Pub. L. 104–93 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to offenses upon which the requisite annuity forfeitures are based occurring on or after the date of the enactment of this Act \[Jan. 6, 1996\].”
@@ -165,6 +241,10 @@ Section 6001(f) of Pub. L. 99–509 provided that: “This section \[amending th
 #### Regulations
 
 Section 6001(d) of Pub. L. 99–509 provided that: “The Executive Director of the Federal Retirement Thrift Investment Board may prescribe regulations to carry out subsections (a), (b), and (c) \[amending this section, enacting provisions set out as notes under this section, and amending provisions set out as a note under section 8351 of this title\] and the amendments made by subsections (a) and (b).”
+
+#### Savings Provisions
+
+Pub. L. 106–361, §2(c)(2), Oct. 27, 2000, 114 Stat. 1401, provided that: “Notwithstanding any other provision of this section \[amending this section and sections 8439, 8440a, and 8440d of this title and enacting provisions set out as a note under this section\], until the amendments made by this section take effect \[see Effective Date of 2000 Amendment note above\], title 5, United States Code, shall be applied as if this section had not been enacted.”
 
 #### Eligibility of Certain Individuals To Participate in Thrift Savings Plan
 
@@ -230,9 +310,9 @@ Section 6001(c) of Pub. L. 99–509 provided that the requirement that contribut
 
 #### Plan for Delayed Contributions to Thrift Savings Fund
 
-Section 312 of Pub. L. 99–335 directed Executive Director of Federal Retirement Thrift Investment Board to transmit to Congress, not later than Jan. 1, 1988, a plan to afford Federal employees and Members of Congress who make less than maximum amount of authorized contributions to Thrift Savings Fund in any period an opportunity to contribute to such Fund, in a later period, the excess of such amount over the amount contributed during such period, with plan to include such recommendations for legislation as Executive Director considered appropriate.
+Section 312 of Pub. L. 99–335 directed Executive Director of Federal Retirement Thrift Investment Board to transmit to Congress, not later than Jan. 1, 1988, a plan to afford Federal employees and Members of Congress who make less than maximum amount of authorized contributions to Thrift Savings Fund in any period anopportunity to contribute to such Fund, in a later period, the excess of such amount over the amount contributed during such period, with plan to include such recommendations for legislation as Executive Director considered appropriate.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 8351, 8401, 8432a, 8432b, 8432c, 8433, 8437, 8439, 8440a, 8440b, 8440c, 8440d, 8479 of this title; title 10 section 942; title 40 section 214d; title 42 section 2297h–8.
+This section is referred to in sections 8351, 8401, 8432a, 8432b, 8432c, 8433, 8437, 8439, 8440a, 8440b, 8440c, 8440d, 8440e, 8479 of this title; title 2 section 162b; title 10 section 942; title 37 section 211; title 40 section 214d; title 42 section 2297h–8.
 

@@ -16,7 +16,3 @@ For purposes of promotion which is now or may hereafter be authorized for office
 
 Amendment by act Oct. 12, 1949, effective Oct. 1, 1949, see section 533(a) of act Oct. 12, 1949, set out as an Effective Date of 1949 Amendment note under section 853<i>o</i> of this title.
 
-#### Cross References
-
-Credit of service as deck officer or junior engineer and certain other active service for retirement and retirement pay, see section 853<i>o</i>–1 of this title.
-

@@ -2,7 +2,7 @@
 
 #### (a) Establishment; membership
 
-There is hereby established the Kalaupapa National Historical Park Advisory Commission (hereinafter referred to as the “Commission”), which shall consist of eleven members each appointed by the Secretary for a term of five years as follows:
+There is hereby established the Kalaupapa National Historical Park Advisory Commission\(hereinafter referred to as the “Commission”), which shall consist of eleven members each appointed by the Secretary for a term of five years as follows:
 
 &emsp;(1) seven members who shall be present or former patients, elected by the patient community; and
 
@@ -28,5 +28,5 @@ The Commission shall expire twenty-five years from December 22, 1980.
 
 #### References in Text
 
-This Act, referred to in subsec. (c), is Pub. L. 96–565, Dec. 22, 1980, 94 Stat. 3321, as amended, which enactedthis subchapter and provisions set out as a note under section 2991a of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsec. (c), is Pub. L. 96–565, Dec. 22, 1980, 94 Stat. 3321, as amended, which enacted this subchapter and provisions set out as a note under section 2991a of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Tables.
 

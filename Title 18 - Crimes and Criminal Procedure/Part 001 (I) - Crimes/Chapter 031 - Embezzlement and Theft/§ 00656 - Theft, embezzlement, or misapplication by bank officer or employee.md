@@ -4,7 +4,7 @@ Whoever, being an officer, director, agent or employee of, or connected in any c
 
 As used in this section, the term “national bank” is synonymous with “national banking association”; “member bank” means and includes any national bank, state bank, or bank and trust company which has become a member of one of the Federal Reserve banks; “insured bank” includes any bank, banking association, trust company, savings bank, or other banking institution, the deposits of which are insured by the Federal Deposit Insurance Corporation; and the term “branch or agency of a foreign bank” means a branch or agency described in section 20(9) of this title. For purposes of this section, the term “depository institution holding company” has the meaning given such term in section 3 of the Federal Deposit Insurance Act.
 
-(June 25, 1948, ch. 645, 62 Stat. 729; Pub. L. 101–73, title IX, §961(b), Aug. 9, 1989, 103 Stat. 499; Pub. L. 101–647, title XXV, §§2504(b), 2595(a)(1), 2597(f), Nov. 29, 1990, 104 Stat. 4861, 4906, 4909; Pub. L. 103–322, title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–294, title VI, §§601(f)(1), 606(a), Oct. 11, 1996, 110 Stat. 3499, 3511.)
+(June 25, 1948, ch. 645, 62 Stat. 729; Pub. L. 101–73, title IX, §961(b), Aug. 9, 1989, 103 Stat. 499; Pub.L. 101–647, title XXV, §§2504(b), 2595(a)(1), 2597(f), Nov. 29, 1990, 104 Stat. 4861, 4906, 4909; Pub. L. 103–322, title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–294, title VI, §§601(f)(1), 606(a), Oct. 11, 1996, 110 Stat. 3499, 3511.)
 
 #### Historical and Revision Notes
 
@@ -18,7 +18,7 @@ The words “national bank” were substituted for “national banking associati
 
 The special and separate provisions of the original section relating to embezzlement by national bank receivers or Federal Reserve agents are readily combined in the revised section by including these officers in the initial enumeration of persons at whom the act is directed and by inserting the word “purloins” after “embezzles, abstracts,” and the phrase “or any moneys, funds, assets, or securities intrusted to the custody or care,” following the words “of such bank”.
 
-The last paragraph of the revised section includes the definitions of sections 221 and 264(c) of title 12, U.S.C., 1940 ed., Banks and Banking, made applicable by express provision of the original section. These were written in, with only such changes of phraseology as were necessary, in order to make the revised section complete and self-contained. For meaning of “bank,” asused in bank robbery statute, see section 2113 of this title.
+The last paragraph of the revised section includes the definitions of sections 221 and 264(c) of title 12, U.S.C., 1940 ed., Banks and Banking, made applicable by express provision of the original section. These were written in, with only such changes of phraseology as were necessary, in order to make the revised section complete and self-contained. For meaning of “bank,” as used in bank robbery statute, see section 2113 of this title.
 
 Section 597 of title 12, U.S.C., 1940 ed., Banks and Banking, likewise was separated into two parts, one of which was combined with the embezzlement provisions of said section 592 to form this section. The other part was combined with the related provisions of said section 592 to form section 1005 of this title.
 
@@ -52,7 +52,7 @@ Section 3 of the Federal Deposit Insurance Act, referred to in text, is classifi
 
 1994—Pub. L. 103–322, in first par., substituted “fined under this title” for “fined not more than $1,000” after “he shall be”.
 
-1990—Pub. L. 101–647, §2597(f)(1), in first par., directed substitution of “national bank, insured bank, branch or agency of a foreign bank, or organization operating under section 25 or section 25(a) of the Federal Reserve Act,” for “national bank, or insured bank” which was executed by making the substitution for “national bank or insured bank” to reflect the probable intent of Congress, and inserted “insured bank, branch, agency, or organization” after “receiver of a national bank,”, “, branch, agency, or organization” after “misapplies any of the moneys, funds or credits of such bank”, and “branch, agency, or organization” after “custody or care of such bank,”.
+1990—Pub. L. 101–647, §2597(f)(1), in first par., directed substitution of “national bank, insured bank, branch or agency of a foreign bank, or organization operating under section 25 or section 25(a) of the Federal Reserve Act,” for “national bank, or insured bank” which was executed by making the substitution for “national bank or insured bank” to reflect the probable intent of Congress, and inserted “insured bank, branch, agency, or organization” after “receiver of a national bank,”, “, branch, agency, or organization” after “misappliesany of the moneys, funds or credits of such bank”, and “branch, agency, or organization” after “custody or care of such bank,”.
 
 Pub. L. 101–647, §2595(a)(1)(A), (B), in first par., inserted “depository institution holding company,” after “Federal Reserve Bank, member bank,” and “or holding company” after “such bank” in two places.
 
@@ -63,10 +63,6 @@ Pub. L. 101–647, §2597(f)(2), in second par., struck out “and” after “o
 Pub. L. 101–647, §2595(a)(1)(C), in second par., inserted at end “For purposes of this section, the term ‘depository institution holding company’ has the meaning given such term in section 3 of the Federal Deposit Insurance Act.”
 
 1989—Pub. L. 101–73, in first par., substituted “$1,000,000” for “$5,000” and “20 years” for “five years”.
-
-#### Cross References
-
-Federal Reserve System, laws applicable on becoming member bank, see section 324 of Title 12, Banks and Banking.
 
 #### Section Referred to in Other Sections
 

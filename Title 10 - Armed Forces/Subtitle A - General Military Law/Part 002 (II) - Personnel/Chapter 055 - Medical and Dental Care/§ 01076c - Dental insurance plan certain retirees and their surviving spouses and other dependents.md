@@ -32,7 +32,7 @@ Persons Eligible for Plan.—The following persons are eligible to enroll in the
 
 &emsp;&emsp;(B) who is described in section 1448(d)(1) of this title; or
 
-&emsp;&emsp;(C) who died while on active duty for a period of more than 30 days and whose eligible dependents are not eligible, or no longer eligible, for dental benefits under section 1076a <sup>1</sup> of this title pursuant to subsection (i)(2) of such section.
+&emsp;&emsp;(C) who died while on active duty for a period of more than 30 days and whose eligible dependents are not eligible, or no longer eligible, for dental benefits under section 1076a of this title.
 
 (c)
 
@@ -52,7 +52,7 @@ Coverage.—(1) The Secretary shall prescribe a minimum required period for enro
 
 (f)
 
-Termination of Enrollment.—The Secretary shall terminate the enrollment of any enrollee, and any eligible dependents of the enrollee covered by the enrollment, in the dental insurance plan established under subsection (a) upon the occurrence of the following:
+Required terminations of Enrollment.—The Secretary shall terminate the enrollment of any enrollee, and any eligible dependents of the enrollee covered by the enrollment, in the dental insurance plan established under subsection (a) upon the occurrence of the following:
 
 &emsp;(1) In the case of an enrollment under subsection (b)(1), termination of the member's entitlement to retired pay.
 
@@ -70,6 +70,26 @@ Regulations.—The dental insurance plan established under subsection (a) shall 
 
 (i)
 
+Voluntary Disenrollment.—(1) With respect to enrollment in the dental insurance plan established under subsection (a), the Secretary of Defense—
+
+&emsp;(A) shall allow for a period of up to 30 days at the beginning of the prescribed minimum enrollment period during which an enrollee may disenroll; and
+
+&emsp;(B) shall provide for limited circumstances under which disenrollment shall be permitted during the prescribed enrollment period, without jeopardizing the fiscal integrity of the dental program.
+
+(2) The circumstances described in paragraph (1)(B) shall include—
+
+&emsp;(A) a case in which a retired member, surviving spouse, or dependent of a retired member who is also a Federal employee is assigned to a location outside the jurisdiction of the dental insurance plan established under subsection (a) that prevents utilization of dental benefits under the plan;
+
+&emsp;(B) a case in which a retired member, surviving spouse, or dependent of a retired member is prevented by a serious medical condition from being able to obtain benefits under the plan;
+
+&emsp;(C) a case in which severe financial hardship would result; and
+
+&emsp;(D) any other circumstances which the Secretary considers appropriate.
+
+(3) The Secretary shall establish procedures for timely decisions on requests for disenrollment under this section and for appeal to the TRICARE Management Activity of adverse decisions.
+
+(j)
+
 Definitions.—In this section:
 
 &emsp;(1) The term “eligible dependent” means a dependent described in subparagraph (A), (D), or (I) of section 1072(2) of this title.
@@ -78,13 +98,15 @@ Definitions.—In this section:
 
 &emsp;(3) The term “retired pay” includes retainer pay.
 
-(Added Pub. L. 104–201, div. A, title VII, §703(a)(1), Sept. 23, 1996, 110 Stat. 2588; amended Pub. L. 105–85, div. A, title VII, §§701, 733(b), 734, Nov. 18, 1997, 111 Stat. 1807, 1812, 1813; Pub. L. 105–261, div. A, title VII, §702, Oct. 17, 1998, 112 Stat. 2056; Pub. L. 106–65, div. A, title VII, §704, Oct. 5, 1999, 113 Stat. 683.)
-
-#### References in Text
-
-Section 1076a of this title, referred to in subsec. (b)(5)(C), was repealed and a new section 1076a was added by Pub. L. 106–65, div. A, title VII, §711(a), Oct. 5, 1999, 113 Stat. 685. The new section 1076a does not contain a subsec. (i)(2).
+(Added Pub. L. 104–201, div. A, title VII, §703(a)(1), Sept. 23, 1996, 110 Stat. 2588; amended Pub. L. 105–85, div. A, title VII, §§701, 733(b), 734, Nov. 18, 1997, 111 Stat. 1807, 1812, 1813; Pub. L. 105–261, div. A, title VII, §702, Oct. 17, 1998, 112 Stat. 2056; Pub. L. 106–65, div. A, title VII, §704, Oct. 5, 1999, 113 Stat. 683; Pub. L. 106–398, §1 \[\[div. A\], title VII, §726, title X, §1087(a)(6)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–187, 1654A–290.)
 
 #### Amendments
+
+2000—Subsec. (b)(5)(C). Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(6)\], struck out “pursuant to subsection (i)(2) of such section” after “section 1076a of this title”.
+
+Subsec. (f). Pub. L. 106–398, §1 \[\[div. A\], title VII, §726(b)\], substituted “Required Terminations” for “Termination” in heading.
+
+Subsecs. (i), (j). Pub. L. 106–398, §1 \[\[div. A\], title VII, §726(a)\], added subsec. (i) and redesignated former subsec. (i) as (j).
 
 1999—Subsec. (d). Pub. L. 106–65 amended heading and text of subsec. (d) generally. Text read as follows: “The dental insurance plan established under subsection (a) shall provide benefits for basic dental care and treatment, including diagnostic services, preventative services, basic restorative services (including endodontics), surgical services, and emergency services.”
 
@@ -115,6 +137,4 @@ Section 703(b) of Pub. L. 104–201, as amended by Pub. L. 105–85, div. A, tit
 &emsp;“(1) offer members of the Armed Forces and other persons described in subsection (b) of section 1076c of title 10, United States Code (as added by subsection (a)(1) of this section), the opportunity to enroll in the dental insurance plan required under that section; and
 
 &emsp;“(2) begin to provide benefits under the plan.”
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -8,9 +8,3 @@ The Joint Committee on the Library, whenever, in their judgment, it is expedient
 
 R.S. §1831 derived from act June 10, 1872, ch. 415, §1, 17 Stat. 362.
 
-#### Cross References
-
-Art exhibits, not property of United States, prohibited, see section 189 of this title.
-
-Commission of Fine Arts, see section 104 of this title.
-

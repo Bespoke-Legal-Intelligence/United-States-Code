@@ -10,7 +10,7 @@ The Secretary shall incorporate, in the Secretary's agreements with the State ed
 
 #### (c) Requirements with respect to teaching personnel, curriculum, instruction, etc.
 
-In carrying out the provisions of this chapter, the Secretary shall not impose any requirementwith respect to teaching personnel, curriculum, instruction, methods of instruction, and materials of instruction in any school.
+In carrying out the provisions of this chapter, the Secretary shall not impose any requirement with respect to teaching personnel, curriculum, instruction, methods of instruction, and materials of instruction in any school.
 
 #### (d) Definitions
 
@@ -96,7 +96,7 @@ Facilities, equipment, and personnel provided to a school food authority for a p
 
 &emsp;(ii) the State or eligible service provider has provided notice and information to the public regarding the proposed waiver; and
 
-&emsp;(iii) the State or eligible service provider demonstrates to the satisfaction of the Secretary that the waiver will not increase the overall cost of the program to the Federal Government, and, if the waiver does increase the overall cost to the Federal Government, the cost will be paid from non-Federal funds.
+&emsp;(iii) the State or eligible service provider demonstrates to the satisfaction of the Secretary that the waiver will not increase the overall cost of the program to the FederalGovernment, and, if the waiver does increase the overall cost to the Federal Government, the cost will be paid from non-Federal funds.
 
 (B) The notice and information referred to in subparagraph (A)(ii) shall be provided in the same manner in which the State or eligible service provider customarily provides similar notices and information to the public.
 
@@ -188,7 +188,7 @@ Facilities, equipment, and personnel provided to a school food authority for a p
 
 &emsp;(D) be experienced in assisting in the creation of curriculum-based models in elementary schools;
 
-&emsp;(E) be sponsored by an organization or institution, or be an organization or institution, that provides information, or conducts other educational efforts, concerning the success and productivity of American agriculture and the importance of the free enterprise system to the quality of life in the United States; and
+&emsp;(E) be sponsored by an organization or institution, or be an organization or institution,that provides information, or conducts other educational efforts, concerning the success and productivity of American agriculture and the importance of the free enterprise system to the quality of life in the United States; and
 
 &emsp;(F) be able to provide model curricula, examples, advice, and guidance to schools, community groups, States, and local organizations regarding means of carrying out similar projects.
 
@@ -230,7 +230,47 @@ Facilities, equipment, and personnel provided to a school food authority for a p
 
 In acquiring a good or service for programs under this chapter or the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.) (other than section 17 of that Act (42 U.S.C. 1786)), a State, State agency, school, or school food authority may enter into a contract with a person that has provided specification information to the State, State agency, school, or school food authority for use in developing contract specifications for acquiring such good or service.
 
-(June 4, 1946, ch. 281, §12, formerly §11, 60 Stat. 233; July 12, 1952, ch. 699, §1(c), 66 Stat. 591; Pub. L. 87–688, §3(a), Sept. 25, 1962, 76 Stat. 587; renumbered §12 and amended Pub. L. 87–823, §5, Oct. 15, 1962, 76 Stat. 945; Pub. L. 91–248, §1(b), May 14, 1970, 84 Stat. 208; Pub. L. 94–105, §9, Oct. 7, 1975, 89 Stat. 514; Pub. L. 95–166, §§3, 19(c), Nov. 10, 1977, 91 Stat. 1332, 1345; Pub. L. 95–627, §§6(a), 10(a), (b), Nov. 10, 1978, 92 Stat. 3620, 3623; Pub. L. 96–499, title II, §205, Dec. 5, 1980, 94 Stat. 2601; Pub. L. 97–35, title VIII, §§808(a), 813(d), 819(c), Aug. 13, 1981, 95 Stat. 527, 530, 533; Pub. L. 99–500, title III, §§325(a), 326, 373(a), Oct. 18, 1986, 100 Stat. 1783–361, 1783–369, and Pub. L. 99–591, title III, §§325(a), 326, 373(a), Oct. 30, 1986, 100 Stat. 3341–364, 3341–365, 3341–372; Pub. L. 99–661, div. D, title II, §§4205(a), 4206, title V, §4503(a), Nov. 14, 1986, 100 Stat. 4072, 4073, 4081; Pub. L. 100–71, title I, §101(a), July 11, 1987, 101 Stat. 429; Pub. L. 101–147, title III, §§306, 312(1), Nov. 10, 1989, 103 Stat. 914, 916; Pub. L. 103–448, title I, §§112(a)(1),\(b)–(d), 113, Nov. 2, 1994, 108 Stat. 4708–4712; Pub. L. 104–193, title VII, §§701(b), 705, Aug. 22, 1996, 110 Stat. 2288, 2290; Pub. L. 105–336, title I, §§104, 107(j)(3)(A), Oct. 31, 1998, 112 Stat. 3147, 3153.)
+#### (p) Grant for demonstration project
+
+#### (1) Use of funds for WIC demonstration project
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary shall make grants of funds under this subsection to a State—
+
+&emsp;&emsp;&emsp;(i) for purposes that include carrying out the demonstration project under section 17(r) of the Child Nutrition Act of 1966 (42 U.S.C. 1786(r)); and
+
+&emsp;&emsp;&emsp;(ii) for the purpose described in clause (i), in amounts not to exceed $10,000 for each fiscal year for each site in the State.
+
+#### (B) Apportionment
+
+&emsp;&emsp;A State that receives a grant under subparagraph (A) shall apportion the funds received to ensure that each site in the State receives not more than $10,000 for any fiscal year.
+
+#### (2) Evaluations of demonstration project
+
+&emsp;The Secretary shall conduct an evaluation of the demonstration project and grant program for identification and enrollment efforts funded under this subsection that include a determination of—
+
+&emsp;&emsp;(A) the number of children enrolled as a result of the enactment of this subsection;
+
+&emsp;&emsp;(B) the income levels of the families of enrolled children;
+
+&emsp;&emsp;(C) the cost of identification and enrollment assistance services provided under the project or grant program;
+
+&emsp;&emsp;(D) the effect on the caseloads of local agencies that carry out the special supplemental nutrition program for woman, infants, and children established under section 17 of the Child Nutrition Act of 1966 (42 U.S.C. 1786); and
+
+&emsp;&emsp;(E) such other factors as the Secretary determines to be appropriate.
+
+#### (3) Funding
+
+#### (A) In general
+
+&emsp;&emsp;Out of any moneys in the Treasury not otherwise appropriated, the Secretary of the Treasury shall provide to the Secretary to carry out this subsection $1,000,000 for the period of fiscal years 2001 through 2004, to remain available until expended but not later than September 30, 2004.
+
+#### (B) Receipt and acceptance
+
+&emsp;&emsp;The Secretary shall be entitled to receive the funds and shall accept the funds provided under subparagraph (A), without further appropriation.
+
+(June 4, 1946, ch. 281, §12, formerly §11, 60 Stat. 233; July 12, 1952, ch. 699, §1(c), 66 Stat. 591; Pub. L. 87–688, §3(a), Sept. 25, 1962, 76 Stat. 587; renumbered §12 and amended Pub. L. 87–823, §5, Oct. 15, 1962, 76 Stat. 945; Pub. L. 91–248, §1(b), May 14, 1970, 84 Stat. 208; Pub. L. 94–105, §9, Oct. 7, 1975, 89 Stat. 514; Pub. L. 95–166, §§3, 19(c), Nov. 10, 1977, 91 Stat. 1332, 1345; Pub. L. 95–627, §§6(a), 10(a), (b), Nov. 10, 1978, 92 Stat. 3620, 3623; Pub. L. 96–499, title II, §205, Dec. 5, 1980, 94 Stat. 2601; Pub. L. 97–35, title VIII, §§808(a), 813(d), 819(c),Aug. 13, 1981, 95 Stat. 527, 530, 533; Pub. L. 99–500, title III, §§325(a), 326, 373(a), Oct. 18, 1986, 100 Stat. 1783–361, 1783–369, and Pub. L. 99–591, title III, §§325(a), 326, 373(a), Oct. 30, 1986, 100 Stat. 3341–364, 3341–365, 3341–372; Pub. L. 99–661, div. D, title II, §§4205(a), 4206, title V, §4503(a), Nov. 14, 1986, 100 Stat. 4072, 4073, 4081; Pub. L. 100–71, title I, §101(a), July 11, 1987, 101 Stat. 429; Pub. L. 101–147, title III, §§306, 312(1), Nov. 10, 1989, 103 Stat. 914, 916; Pub. L. 103–448, title I, §§112(a)(1), (b)–(d), 113, Nov. 2, 1994, 108 Stat. 4708–4712; Pub. L. 104–193, title VII, §§701(b), 705, Aug. 22, 1996, 110 Stat. 2288, 2290; Pub. L. 105–336, title I, §§104, 107(j)(3)(A), Oct. 31, 1998, 112 Stat. 3147, 3153; Pub. L. 106–224, title II, §242(b)(3), June 20, 2000, 114 Stat. 412.)
 
 #### References in Text
 
@@ -255,6 +295,8 @@ The Individuals with Disabilities Education Act, referred to in subsec. (<i>l</i
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+
+2000—Subsec. (p). Pub. L. 106–224 added subsec. (p).
 
 1998—Subsec. (d)(1)(A)(i), (ii). Pub. L. 105–336, §107(j)(3)(A)(i), struck out “mental or physical” before “disabilities”.
 
@@ -370,7 +412,7 @@ Pub. L. 101–147, §306(a)(2), amended subsec. (i), as amended identically by P
 
 1987—Subsec. (d)(5). Pub. L. 100–71 amended par. (5) generally. Prior to amendment, par. (5) read as follows: “ ‘School’ means (A) any public or nonprofit private school of high school grade or under, (B) any public or licensed nonprofit private residential child care institution (including, but not limited to, orphanages and homes for the mentally retarded, but excluding Job Corps Centers funded by the Department of Labor), and (C) with respect to the Commonwealth of Puerto Rico, nonprofit child care centers certified as such by the Governor of Puerto Rico. For purposes of clauses (A) and (B) of this paragraph, the term ‘nonprofit’, when applied to any such private school or institution, means any such school or institution which is exempt from tax under section 501(c)(3) of title 26. On July 1, 1988, and each July 1 thereafter, the Secretary shall adjust the tuition limitation amount prescribed in clause (A) of the first sentence of this paragraph to reflect changes in the Consumer Price Index for All Urban Consumers during the most recent 12-month period for which the data is available.”
 
-1986—Subsec. (d)(5). Pub. L. 99–661, §4205(a)(2), inserted “On July 1, 1988, and each July 1 thereafter, the Secretary shall adjust the tuition limitation amount prescribed in clause (A) of the first sentence of this paragraph to reflect changes in the Consumer Price Index for All Urban Consumers during the most recent 12-month period for which the data is available.”
+1986—Subsec. (d)(5). Pub. L. 99–661, §4205(a)(2), inserted “On July 1, 1988, and each July 1 thereafter, the Secretary shall adjust the tuition limitation amountprescribed in clause (A) of the first sentence of this paragraph to reflect changes in the Consumer Price Index for All Urban Consumers during the most recent 12-month period for which the data is available.”
 
 Subsec. (d)(5)(A). Pub. L. 99–500 and Pub. L. 99–591, §325(a), which directed the amendment of subpar. (A) by striking out “except private schools whose average yearly tuition exceeds $1,500 per child,” after “grade or under,” was executed by striking out “except private schools whose average yearly tuition exceeds $2,000 per child,” after “grade or under,” to reflect the probable intent of Congress and the intervening amendment of subpar. (A) by Pub. L. 99–661, §4205(a)(1). See below.
 
@@ -420,6 +462,10 @@ Pub. L. 87–688 inserted “American Samoa,” after “Guam”.
 
 Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–224 effective Oct. 1, 2000, see section 242(c) of Pub. L. 106–224, set out as a note under section 1758 of this title.
+
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–336 effective Oct. 1, 1998, see section 401 of Pub. L. 105–336, set out as a note under section 1755 of this title.
@@ -466,7 +512,7 @@ Amendment by act July 12, 1952, effective only with respect to funds appropriate
 
 #### Study of Cost Accounting Requirements
 
-Section 21 of Pub. L. 94–105 prohibited Secretary from delaying or withholding or causing any State to delay or withhold payments for reimbursement of per-meal costs on basis of noncompliance with cost accounting procedures until requirements of subsec. (b) of this section have been met, and called for a study by Secretary of additional personnel and training needs of States, school districts, and schools resulting from requirement of full cost accounting procedures, such report with recommendations to be submitted to appropriate committees of Congress within one year after Oct. 7, 1975.
+Section 21 of Pub. L. 94–105 prohibited Secretary from delaying or withholding or causing any State to delayor withhold payments for reimbursement of per-meal costs on basis of noncompliance with cost accounting procedures until requirements of subsec. (b) of this section have been met, and called for a study by Secretary of additional personnel and training needs of States, school districts, and schools resulting from requirement of full cost accounting procedures, such report with recommendations to be submitted to appropriate committees of Congress within one year after Oct. 7, 1975.
 
 #### Section Referred to in Other Sections
 

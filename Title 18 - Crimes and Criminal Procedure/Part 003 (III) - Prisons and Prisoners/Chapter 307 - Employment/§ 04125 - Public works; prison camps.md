@@ -6,7 +6,7 @@
 
 (c) The expenses of transferring and maintaining prisoners at such camps and of operating such camps shall be paid from the appropriation “Support of United States prisoners”, which may, in the discretion of the Attorney General, be reimbursed for such expenses.
 
-(d) As part of the expense of operating such camps the Attorney General is authorized to provide for the payment to the inmates or their dependents such pecuniary earnings as he may deem proper, under such rules and regulations as he may prescribe.
+(d) As part of the expense of operating such camps the Attorney General is authorized to provide for the payment to the inmates or theirdependents such pecuniary earnings as he may deem proper, under such rules and regulations as he may prescribe.
 
 (e) All other laws of the United States relating to the imprisonment, transfer, control, discipline, escape, release of, or in any way affecting prisoners, shall apply to prisoners transferred to such camps.
 

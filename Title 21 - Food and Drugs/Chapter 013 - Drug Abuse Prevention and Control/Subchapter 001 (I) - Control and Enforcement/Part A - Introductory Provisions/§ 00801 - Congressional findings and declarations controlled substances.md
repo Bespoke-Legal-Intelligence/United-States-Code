@@ -38,9 +38,17 @@ Section 704 of title II of Pub. L. 91–513 provided that:
 
 “(c) Sections 305 (relating to labels and labeling) \[section 825 of this title\], and 306 (relating to manufacturing quotas) \[section 826 of this title\] shall become effective on the date specified in subsection (a) of this section, except that the Attorney General may by order published in the Federal Register postpone the effective date of either or both of these sections for such period as he may determine to be necessary for the efficient administration of this title \[see Short Title note below\].”
 
+#### Short Title of 2000 Amendments
+
+Pub. L. 106–310, div. B, title XXXV, §3501, Oct. 17, 2000, 114 Stat. 1222, provided that: “This title \[amending sections 823 and 824 of this title\] may be cited as the ‘Drug Addiction Treatment Act of 2000’.”
+
+Pub. L. 106–310, div. B, title XXXVI, §3601, Oct. 17, 2000, 114 Stat. 1227, provided that: “This title \[enacting section 864 of this title and sections 290aa–5b and 290bb–9 of Title 42, The Public Health and Welfare, amending sections 802, 830, 853, 856, and 863 of this title, sections 3663 and 3663A of Title 18, Crimes and Criminal Procedure, section 524 of Title 28, Judiciary and Judicial Procedure, and sections 285<i>o</i>–2 and 3751 of Title 42, and enacting provisions set out as notes under this section and sections 802, 872, 873, 886, and 1706 of this title, sections 524 and 994 of Title 28, and sections 201, 290aa–4, 290aa–5b and 3751 of Title 42\] may be cited as the ‘Methamphetamine Anti-Proliferation Act of 2000’.”
+
+Pub. L. 106–172, §1, Feb. 18, 2000, 114 Stat. 7, provided that: “This Act \[amending sections 802, 827, 841 and 960 of this title and enacting provisions set out as notes under this section and section 812 of this title\] may be cited as the ‘Hillory J. Farias and Samantha Reid Date-Rape Drug Prohibition Act of 2000’.”
+
 #### Short Title of 1998 Amendment
 
-Pub. L. 105–277, div. C, title VIII, §801(a), Oct. 21, 1998, 112 Stat. 2681–693, provided that: “This title \[enacting section 1713 of this title and section 2291–5 of Title 22, Foreign Relations and Intercourse, amending section 956 of this title, and enacting provisions set out as notes under sections 801 and 956 of this title and section 2291 of Title 22\] may be cited as the ‘Western Hemisphere Drug Elimination Act’.”
+Pub. L. 105–277, div. C, title VIII, §801(a), Oct. 21, 1998, 112 Stat. 2681–693, provided that: “This title \[enactingsection 1713 of this title and section 2291–5 of Title 22, Foreign Relations and Intercourse, amending section 956 of this title, and enacting provisions set out as notes under sections 801 and 956 of this title and section 2291 of Title 22\] may be cited as the ‘Western Hemisphere Drug Elimination Act’.”
 
 Pub. L. 105–277, div. C, title VIII, subtitle G (§§871, 872), §871, Oct. 21, 1998, 112 Stat. 2681–707, and Pub. L. 105–357, §1, Nov. 10, 1998, 112 Stat. 3271, provided that such subtitle and such Act, which amended section 956 of this title and enacted provisions set out as notes under section 956 of this title “may be cited as the ‘Controlled Substances Trafficking Prohibition Act’.”
 
@@ -96,11 +104,11 @@ Pub. L. 99–570, title I, §1991, Oct. 27, 1986, 100 Stat. 3207–59, provided 
 
 Pub. L. 98–473, title II, §501, Oct. 12, 1984, 98 Stat. 2068, provided that: “This chapter \[chapter V (§§501–525) of title II of Pub. L. 98–473, enacting section 845a of this title, amending sections 802, 811, 812, 822–824, 827, 841, 843, 845, 873, 881, 952, 953, 957, 958, 960, and 962 of this title, and enacting provisions set out as a note under this section\] may be cited as the ‘Controlled Substances Penalties Amendments Act of 1984’.”
 
-Pub. L. 98–473, title II, §506(a), Oct. 12, 1984, 98 Stat. 2070, provided that: “This part \[part B of chapter V (§§506–525) of title II of Pub. L. 98–473, amending sections 802, 811, 812, 822–824, 827, 843, 873, 881, 952, 953, 957, and 958 of this title\] may be cited as the ‘Dangerous Drug Diversion Control Act of 1984’.”
+Pub. L. 98–473, title II, §506(a), Oct. 12, 1984, 98 Stat. 2070, provided that: “This part \[part B of chapter V\(§§506–525) of title II of Pub. L. 98–473, amending sections 802, 811, 812, 822–824, 827, 843, 873, 881, 952, 953, 957, and 958 of this title\] may be cited as the ‘Dangerous Drug Diversion Control Act of 1984’.”
 
 #### Short Title of 1978 Amendment
 
-Pub. L. 95–633, §1, Nov. 10, 1978, 92 Stat. 3768, provided: “That this Act \[enacting sections 801a, 830, and 852 ofthis title, amending sections 352, 802, 811, 812, 823, 827, 841 to 843, 872, 881, 952, 953, and 965 of this title and section 242a of Title 42, The Public Health and Welfare, repealing section 830 of this title (effective Jan. 1, 1981), and enacting provisions set out as notes under sections 801a, 812, and 830 of this title\] may be cited as the ‘Psychotropic Substances Act of 1978’.”
+Pub. L. 95–633, §1, Nov. 10, 1978, 92 Stat. 3768, provided: “That this Act \[enacting sections 801a, 830, and 852 of this title, amending sections 352, 802, 811, 812, 823, 827, 841 to 843, 872, 881, 952, 953, and 965 of this title and section 242a of Title 42, The Public Health and Welfare, repealing section 830 of this title (effective Jan. 1, 1981), and enacting provisions set out as notes under sections 801a, 812, and 830 of this title\] may be cited as the ‘Psychotropic Substances Act of 1978’.”
 
 #### Short Title of 1974 Amendment
 
@@ -112,9 +120,101 @@ Pub. L. 91–513, in the provisions preceding section 1 immediately following th
 
 Section 100 of title II of Pub. L. 91–513 provided that: “This title \[enacting this subchapter, repealing section 360a of this title, amending sections 321, 331, 333, 334, 360, 372, and 381 of this title, sections 1114 and 1952 of Title 18, Crimes and Criminal Procedure, and section 242 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section and sections 321 and 822 of this title\] may be cited as the ‘Controlled Substances Act’.”
 
+For short title and complete classification of title III of Pub. L. 91–513, which enacted subchapter II of this chapter, as the “Controlled Substances Import and Export Act”, see section 1000 of Pub. L. 91–513, set out as a note under section 951 of this title.
+
+#### Severability
+
+Pub. L. 106–310, div. B, title XXXVI, §3673, Oct. 17, 2000, 114 Stat. 1246, provided that: “Any provision of this title \[see Short Title of 2000 Amendments note above\] held to be invalid or unenforceable by its terms, or as applied to any person or circumstance, shall be construed as to give the maximum effect permitted by law, unless such provision is held to be utterly invalid or unenforceable, in which event such provision shall be severed from this title and shall not affect the applicability of the remainder of this title, or of such provision, to other persons not similarly situated or to other, dissimilar circumstances.”
+
 #### Continuation of Orders, Rules, and Regulations
 
 Section 705 of title II of Pub. L. 91–513 provided that: “Any orders, rules, and regulations which have been promulgated under any law affected by this title \[see Short Title note above\] and which are in effect on the day preceding enactment of this title \[Oct. 27, 1970\] shall continue in effect until modified, superseded, or repealed.”
+
+#### Anti-Drug Messages on Federal Government Internet Sites
+
+Pub. L. 106–391, title III, §320, Oct. 30, 2000, 114 Stat. 1597, provided that: “Not later than 90 days after the date of the enactment of this Act \[Oct. 30, 2000\], the Administrator \[of the National Aeronautics and Space Administration\], in consultation with the Director of the Office of National Drug Control Policy, shall place anti-drug messages on Internet sites controlled by the National Aeronautics and Space Administration.”
+
+Pub. L. 106–310, div. B, title XXXVI, §3671, Oct. 17, 2000, 114 Stat. 1245, provided that: “Not later than 90 days after the date of the enactment of this Act \[Oct. 17, 2000\], the head of each department, agency, and establishment of the Federal Government shall, in consultation with the Director of the Office of National Drug Control Policy, place antidrug messages on appropriate Internet websites controlled by such department, agency, or establishment which messages shall, where appropriate, contain an electronic hyperlink to the Internet website, if any, of the Office.”
+
+#### Protocols for Investigations and Prosecutions Relating to Date-Rape Drugs and Other Controlled Substances; Annual Report; National Awareness Campaign
+
+Pub. L. 106–172, §§6, 7, Feb. 18, 2000, 114 Stat. 11, provided that:
+
+#### “SEC. 6. DEVELOPMENT OF MODEL PROTOCOLS, TRAINING MATERIALS, FORENSIC FIELD TESTS, AND COORDINATION MECHANISM FOR INVESTIGATIONS AND PROSECUTIONS RELATING TO GAMMA HYDROXYBUTYRIC ACID, OTHER CONTROLLED SUBSTANCES, AND DESIGNER DRUGS.
+
+“(a)
+
+In General.—The Attorney General, in consultation with the Administrator of the Drug Enforcement Administration and the Director of the Federal Bureau of Investigation, shall—
+
+&emsp;“(1) develop—
+
+&emsp;&emsp;“(A) model protocols for the collection of toxicology specimens and the taking of victim statements in connection with investigations into and prosecutions related to possible violations of the Controlled Substances Act \[21 U.S.C. 801 et seq.\] or other Federal or State laws that result in or contribute to rape, other crimes of violence, or other crimes involving abuse of gamma hydroxybutyric acid, other controlled substances, or so-called ‘designer drugs’; and
+
+&emsp;&emsp;“(B) model training materials for law enforcement personnel involved in such investigations; and
+
+&emsp;“(2) make such protocols and training materials available to Federal, State, and local personnel responsible for such investigations.
+
+“(b)
+
+Grant.—
+
+&emsp;“(1)
+
+In general.—The Attorney General shall make a grant, in such amount and to such public or private person or entity as the Attorney General considers appropriate, for the development of forensic field tests to assist law enforcement officials in detecting the presence of gamma hydroxybutyric acid and related substances.
+
+&emsp;“(2)
+
+Authorization of appropriations.—There are authorized to be appropriated such sums as may be necessary to carry out this subsection.
+
+“(c)
+
+Report.—Not later than 180 days after the date of the enactment of this Act \[Feb. 18, 2000\], the Attorney General shall submit to the Committees on the Judiciary of the Senate and House of Representatives a report on current mechanisms for coordinating Federal, State, and local investigations into and prosecutions related to possible violations of the Controlled Substances Act \[21 U.S.C. 801 et seq.\] or other Federal or State laws that result in or contribute to rape, other crimes of violence, or other crimes involving the abuse of gamma hydroxybutyric acid, other controlled substances, or so-called ‘designer drugs’. The report shall also include recommendations for the improvement of such mechanisms.
+
+#### “SEC. 7. ANNUAL REPORT REGARDING DATE-RAPE DRUGS; NATIONAL AWARENESS CAMPAIGN.
+
+“(a)
+
+Annual Report.—The Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) shall periodically submit to Congress reports each of which provides an estimate of the number of incidents of the abuse of date-rape drugs (as defined in subsection (c)) that occurred during the most recent 1-year period for which data are available. The first such report shall be submitted not later than January 15, 2000, and subsequent reports shall be submitted annually thereafter.
+
+“(b)
+
+National Awareness Campaign.—
+
+&emsp;“(1)
+
+Development of plan; recommendations of advisory committee.—
+
+&emsp;&emsp;“(A)
+
+In general.—The Secretary, in consultation with the Attorney General, shall develop a plan for carrying out a national campaign to educate individuals described in subparagraph (B) on the following:
+
+&emsp;&emsp;&emsp;“(i) The dangers of date-rape drugs.
+
+&emsp;&emsp;&emsp;“(ii) The applicability of the Controlled Substances Act \[21 U.S.C. 801 et seq.\] to such drugs, including penalties under such Act.
+
+&emsp;&emsp;&emsp;“(iii) Recognizing the symptoms that indicate an individual may be a victim of such drugs, including symptoms with respect to sexual assault.
+
+&emsp;&emsp;&emsp;“(iv) Appropriately responding when an individual has such symptoms.
+
+&emsp;&emsp;“(B)
+
+Intended population.—The individuals referred to in subparagraph (A) are young adults, youths, law enforcement personnel, educators, school nurses, counselors of rape victims, and emergency room personnel in hospitals.
+
+&emsp;&emsp;“(C)
+
+Advisory committee.—Not later than 180 days after the date of the enactment of this Act \[Feb. 18, 2000\], the Secretary shall establish an advisory committee to make recommendations to the Secretary regarding the plan under subparagraph (A). The committee shall be composed of individuals who collectively possess expertise on the effects of date-rape drugs and on detecting and controlling the drugs.
+
+&emsp;“(2)
+
+Implementation of plan.—Not later than 180 days after the date on which the advisory committee under paragraph (1) is established, the Secretary, in consultation with the Attorney General, shall commence carrying out the national campaign under such paragraph in accordance with the plan developed under such paragraph. The campaign may be carried out directly by the Secretary and through grants and contracts.
+
+&emsp;“(3)
+
+Evaluation by general accounting office.—Not later than 2 years after the date on which the national campaign under paragraph (1) is commenced, the Comptroller General of the United States shall submit to Congress an evaluation of the effects with respect to date-rape drugs of the national campaign.
+
+“(c)
+
+Definition.—For purposes of this section, the term ‘date-rape drugs’ means gamma hydroxybutyric acid and its salts, isomers, and salts of isomers and such other drugs or substances as the Secretary, after consultation with the Attorney General, determines to be appropriate.”
 
 #### Congressional Findings Regarding Methamphetamine Manufacture and Abuse
 
@@ -192,7 +292,7 @@ In General.—The Attorney General shall establish a ‘Suspicious Orders Task F
 
 “(b)
 
-Responsibilities.—The Task Force shall be responsible for developing proposals to define suspicious orders of listed chemicals, and particularly to develop quantifiable parameters which can be used by registrants in determining if an order is a suspicious orderwhich must be reported to DEA. The quantifiable parameters to be addressed will include frequency of orders, deviations from prior orders, and size of orders. The Task Force shall also recommend provisions as to what types of payment practices or unusual business practices shall constitute prima facie suspicious orders. In evaluating the proposals, the Task Force shall consider effectiveness, cost and feasibility for industry and government, and other relevant factors.
+Responsibilities.—The Task Force shall be responsible for developing proposals to define suspicious orders of listed chemicals, and particularly to develop quantifiable parameters which can be used by registrants in determining if an order is a suspicious order which must be reported to DEA. The quantifiable parameters to be addressed will include frequency of orders, deviations from prior orders, and size of orders. The Task Force shall also recommend provisions as to what types of payment practices or unusual business practices shall constitute prima facie suspicious orders. In evaluating the proposals, the Task Force shall consider effectiveness, cost and feasibility for industry and government, and other relevant factors.
 
 “(c)
 
@@ -286,7 +386,7 @@ Pub. L. 100–180, div. A, title XII, §1241, Dec. 4, 1987, 101 Stat. 1162, dire
 
 #### Compliance With Budget Act
 
-Pub. L. 99–570, §3, Oct. 27, 1986, 100 Stat. 3207–1, provided that: “Notwithstanding any other provision of this Act \[see Tables for classification\], any spending authority and any credit authority provided under thisAct shall be effective for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts. For purposes of this Act, the term ‘spending authority’ has the meaning provided in section 401(c)(2) of the Congressional Budget Act of 1974 \[2 U.S.C. 651(c)(2)\] and the term ‘credit authority’ has the meaning provided in section 3(10) of the Congresssional \[sic\] Budget Act of 1974 \[2 U.S.C. 622(10)\].”
+Pub. L. 99–570, §3, Oct. 27, 1986, 100 Stat. 3207–1, provided that: “Notwithstanding any other provision of this Act \[see Tables for classification\], any spending authority and any credit authority provided under this Act shall be effective for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts. For purposes of this Act, the term ‘spending authority’ has the meaning provided in section 401(c)(2) of the Congressional Budget Act of 1974 \[2 U.S.C. 651(c)(2)\] and the term ‘credit authority’ has the meaning provided in section 3(10) of the Congresssional \[sic\] Budget Act of 1974 \[2 U.S.C. 622(10)\].”
 
 #### Drug Interdiction
 
@@ -360,9 +460,9 @@ Amounts authorized.—There are authorized to be appropriated, in addition to an
 
 &emsp;“(3)
 
-Coast guard-bahamas drug interdiction docking facility.—(A) There is authorized to be appropriated for acquisition, construction, and improvements for the Coast Guard for fiscal year 1987, $5,000,000, to be used for initial design engineering, and other activities for construction of a drug interdiction docking facility in the Bahamas to facilitate Coast Guard and Bahamian drug interdiction operations in and through the Bahama Islands. Of the amounts authorized to be appropriated in this subsection, such sums as may be necessary shall be available for necessary communication and air support.
+Coast guard-bahamas drug interdiction docking facility.—(A) There is authorized to be appropriated for acquisition, construction, and improvements for the Coast Guard for fiscal year 1987, $5,000,000, to be used for initial design engineering,and other activities for construction of a drug interdiction docking facility in the Bahamas to facilitate Coast Guard and Bahamian drug interdiction operations in and through the Bahama Islands. Of the amounts authorized to be appropriated in this subsection, such sums as may be necessary shall be available for necessary communication and air support.
 
-&emsp;“(B) The Commandant of the Coast Guard shall use such amounts appropriated pursuant to the authorization in this paragraph as may be necessary to establish a repair, maintenance, and boat lift facility to provide repair and maintenance services for bothCoast Guard and Bahamian marine drug interdiction equipment, vessels, and related assets.
+&emsp;“(B) The Commandant of the Coast Guard shall use such amounts appropriated pursuant to the authorization in this paragraph as may be necessary to establish a repair, maintenance, and boat lift facility to provide repair and maintenance services for both Coast Guard and Bahamian marine drug interdiction equipment, vessels, and related assets.
 
 “(b)
 

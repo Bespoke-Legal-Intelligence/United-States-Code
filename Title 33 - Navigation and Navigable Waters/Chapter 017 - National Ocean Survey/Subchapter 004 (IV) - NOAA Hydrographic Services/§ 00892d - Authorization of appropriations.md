@@ -4,7 +4,7 @@ There is authorized to be appropriated to the Administrator the following:
 
 &emsp;(1) To carry out nautical mapping and charting functions under the Act of 1947 and sections 892a and 892b of this title, except for conducting hydrographic surveys, $33,000,000 for fiscal year 1999, $34,000,000 for fiscal year 2000, and $35,000,000 for fiscal year 2001.
 
-&emsp;(2) To conduct hydrographic surveys under section 892a(a)(1) of this title, including the leasing of ships, $33,000,000 for fiscal year 1999, $35,000,000 for fiscal year 2000, and $37,000,000 for fiscal year 2001. Of these amounts, no more than $16,000,000 is authorized for any one fiscal year to operate hydrographic survey vessels owned and operated by the Administration.
+&emsp;(2) To conduct hydrographic surveys under section 892a(a)(1) of this title, including the leasing of ships, $33,000,000 for fiscal year 1999,$35,000,000 for fiscal year 2000, and $37,000,000 for fiscal year 2001. Of these amounts, no more than $16,000,000 is authorized for any one fiscal year to operate hydrographic survey vessels owned and operated by the Administration.
 
 &emsp;(3) To carry out geodetic functions under the Act of 1947, $25,000,000 for fiscal year 1999, $30,000,000 for fiscal year 2000, and $30,000,000 for fiscal year 2001.
 

@@ -22,7 +22,7 @@ If a provision of this Act provides that the implementation of an action by the 
 
 #### References in Text
 
-This Act, referred to in text, is Pub. L. 103–465, Dec. 8, 1994, 108 Stat. 4809, known as the Uruguay Round Agreements Act. For complete classification of thisAct to the Code, see Short Title note set out under section 3501 of this title and Tables.
+This Act, referred to in text, is Pub. L. 103–465, Dec. 8, 1994, 108 Stat. 4809, known as the Uruguay Round Agreements Act. For complete classification of this Act to the Code, see Short Title note set out under section 3501 of this title and Tables.
 
 #### Delegation of Authority
 

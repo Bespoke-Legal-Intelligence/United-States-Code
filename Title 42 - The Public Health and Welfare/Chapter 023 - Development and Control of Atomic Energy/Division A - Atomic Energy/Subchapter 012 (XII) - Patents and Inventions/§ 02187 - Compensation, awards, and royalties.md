@@ -16,13 +16,13 @@ The Commission shall designate a Patent Compensation Board to consider applicati
 
 (1) In determining a reasonable royalty fee as provided for in section 2183(b) or 2183(e) of this title, the Commission shall take into consideration (A) the advice of the Patent Compensation Board; (B) any defense, general or special, that might be pleaded by a defendant in an action for infringement; (C) the extent to which, if any, such patent was developed through federally financed research; and (D) the degree of utility, novelty, and importance of the invention or discovery, and may consider the cost to the owner of the patent of developing such invention or discovery or acquiring such patent.
 
-(2) In determining what constitutes just compensation as provided for in section 2181 of this title, or in determining the amount of any award under subsection (b)(3) of this section, the Commission shall take into account the considerations set forth in paragraph (1) of this subsection and the actual use of such invention or discovery. Such compensation may be paid by the Commission in periodic payments or in a lump sum.
+(2) In determining what constitutes just compensation as provided for in section 2181 of this title, or in determining the amount of any award under subsection (b)(3) of this section, theCommission shall take into account the considerations set forth in paragraph (1) of this subsection and the actual use of such invention or discovery. Such compensation may be paid by the Commission in periodic payments or in a lump sum.
 
 #### (d) Limitations
 
 Every application under this section shall be barred unless filed within six years after the date on which first accrues the right to such reasonable royalty fee, just compensation, or award for which such application is filed.
 
-(Aug. 1, 1946, ch. 724, title I, §157, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 947; amended Pub.L. 87–206, §11, Sept. 6, 1961, 75 Stat. 478; Pub. L. 93–276, title II, §201, May 10, 1974, 88 Stat. 119; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
+(Aug. 1, 1946, ch. 724, title I, §157, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 947; amended Pub. L. 87–206, §11, Sept. 6, 1961, 75 Stat. 478; Pub. L. 93–276, title II, §201, May 10, 1974, 88 Stat. 119; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 
 #### References in Text
 

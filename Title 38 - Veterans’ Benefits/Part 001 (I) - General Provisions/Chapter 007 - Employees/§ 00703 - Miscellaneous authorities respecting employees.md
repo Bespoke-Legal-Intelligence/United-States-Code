@@ -10,7 +10,7 @@
 
 (e) The Secretary may reimburse employees for the cost of repairing or replacing their personal property damaged or destroyed by patients or domiciliary members while such employees are engaged in the performance of their official duties.
 
-(f)(1) The Secretary, upon determining that an emergency situation exists and that such action is necessary for the effective conduct of the affairs of the Department, may use Government-owned, or leased, vehicles to transport employees to and from their place of employment and the nearest adequate public transportation or, if such public transportation is either unavailable or not feasible to use, to and from their place of employment and their home.
+(f)(1) The Secretary, upon determining that an emergency situation exists and that such actionis necessary for the effective conduct of the affairs of the Department, may use Government-owned, or leased, vehicles to transport employees to and from their place of employment and the nearest adequate public transportation or, if such public transportation is either unavailable or not feasible to use, to and from their place of employment and their home.
 
 (2) The Secretary shall establish reasonable rates to cover the cost of the service rendered under this subsection, and all proceeds collected therefrom shall be applied to the applicable appropriation.
 

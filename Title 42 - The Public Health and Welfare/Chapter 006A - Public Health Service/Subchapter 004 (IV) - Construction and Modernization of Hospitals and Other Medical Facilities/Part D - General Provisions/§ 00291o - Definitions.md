@@ -92,7 +92,7 @@ Amendment by section 119(d) of Pub. L. 91–296 applicable with respect to allot
 
 #### Effective Date of 1964 Amendment
 
-Amendment by Pub. L. 88–581 effective with respect to applications for grants from appropriations for fiscal years beginning after June 30, 1965, see section 3(b) ofPub. L. 88–581, set out as a note under section 291c of this title.
+Amendment by Pub. L. 88–581 effective with respect to applications for grants from appropriations for fiscal years beginning after June 30, 1965, see section 3(b) of Pub. L. 88–581, set out as a note under section 291c of this title.
 
 #### Transfer of Functions
 

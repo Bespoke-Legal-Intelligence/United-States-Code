@@ -2,7 +2,7 @@
 
 #### (a) Complaint; response; satisfaction or investigation
 
-Any person complaining of anything done or omitted to be done by any stockyard owner, market agency, or dealer (hereinafter in this section referred to as the “defendant”) in violation of the provisions of this subchapter, or of an order of the Secretary made under this subchapter, may, at any time within ninety days after the cause of action accrues, apply to the Secretary by petition which shall briefly state the facts, whereupon the complaint thus made shall be forwarded by the Secretary to the defendant, who shall be called upon to satisfy thecomplaint, or to answer it in writing, within a reasonable time to be specified by the Secretary. If the defendant within the time specified makes reparation for the injury alleged to be done he shall be relieved of liability to the complainant only for the particular violation thus complained of. If the defendant does not satisfy the complaint within the time specified, or there appears to be any reasonable ground for investigating the complaint, it shall be the duty of the Secretary to investigate the matters complained of in such manner and by such means as he deems proper.
+Any person complaining of anything done or omitted to be done by any stockyard owner, market agency, or dealer (hereinafter in this section referred to as the “defendant”) in violation of the provisions of this subchapter, or of an order of the Secretary made under this subchapter, may, at any time within ninety days after the cause of action accrues, apply to the Secretary by petition which shall briefly state the facts, whereupon the complaint thus made shall be forwarded by the Secretary to the defendant, who shall be called upon to satisfy the complaint, or to answer it in writing, within a reasonable time to be specified by the Secretary. If the defendant within the time specified makes reparation for the injury alleged to be done he shall be relieved of liability to the complainant only for the particular violation thus complained of. If the defendant does not satisfy the complaint within the time specified, or there appears to be any reasonable ground for investigating the complaint, it shall be the duty of the Secretary to investigate the matters complained of in such manner and by such means as he deems proper.
 
 #### (b) Complaints forwarded by agencies of a State or Territory
 
@@ -10,7 +10,7 @@ The Secretary, at the request of the livestock commissioner, board of agricultur
 
 #### (c) Inquiries instituted by Secretary
 
-The Secretary may at any time institute an inquiry on his own motion, in any case and as to any matter or thing concerning which a complaint is authorized to be made to or before the Secretary, by any provision of this subchapter, or concerning which any question may arise under any of the provisions of this subchapter, or relating to the enforcement of any of the provisions of this subchapter. The Secretary shall have the same power and authority to proceed with any inquiry instituted upon his own motion as though he had been appealed to by petition, including the power to make and enforce any order or orders in the case or relating to the matter or thing concerning which the inquiry is had, except orders for the payment of money.
+The Secretary may at any time institute an inquiry on his own motion, in any case and as to any matter or thing concerning which a complaint is authorized to be made to or before the Secretary, by any provision of this subchapter, or concerning which any question may arise under any of the provisions of this subchapter, or relating to the enforcement of any of the provisions of this subchapter. The Secretary shall have the same power and authority to proceed with any inquiry instituted upon his own motion as though he had been appealed to by petition, including the power to make and enforceany order or orders in the case or relating to the matter or thing concerning which the inquiry is had, except orders for the payment of money.
 
 #### (d) Damage to complainant not required
 
@@ -29,18 +29,6 @@ If the defendant does not comply with an order for the payment of money within t
 #### Amendments
 
 1976—Subsec. (b). Pub. L. 94–410 substituted “livestock” for “live-stock” after “request of the”.
-
-#### Federal Rules of Civil Procedure
-
-Costs, see rule 54, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-#### Cross References
-
-Court of appeals exclusive jurisdiction respecting final orders of Secretary of Agriculture under this chapter, except orders issued under subsec. (e) of this section and section 217a of this title, see section 2342 of Title 28, Judiciary and Judicial Procedure.
-
-Enforcement by Secretary of Agriculture under this chapter, with respect to activities subject to this chapter, of requirements imposed under section 1601 et seq. of Title 15, Commerce and Trade, see section 1607 of Title 15.
-
-Enforcement of liability to individuals for violations, by complaint to Secretary as provided in this section, see section 209 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -90,7 +90,7 @@ Pub. L. 105–330, §201(a)(1)(B), which directed the striking out of “and, th
 
 Subsec. (d)(4). Pub. L. 105–330, §103(c), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The failure to timely file a verified statement of use under this subsection shall result in abandonment of the application.”
 
-1988—Subsec. (a). Pub. L. 100–667, §103(1) to (7), inserted “(a)” preceding introductory provisions and substituted “may apply to register his or her” for “mayregister his”, redesignated former subsecs. (a) to (c) as pars. (1) to (3), respectively, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, in par. (1)(A), substituted “used on or in connection with” for “applied to” and “goods on or in connection” for “goods in connection”, in par. (1)(C), struck out “actually” after “the mark as”, and in par. (2), substituted “prescribed” for “filing”.
+1988—Subsec. (a). Pub. L. 100–667, §103(1) to (7), inserted “(a)” preceding introductory provisions and substituted “may apply to register his or her” for “may register his”, redesignated former subsecs. (a) to (c) as pars. (1) to (3), respectively, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, in par. (1)(A), substituted “used on or in connection with” for “applied to” and “goods on or in connection” for “goods in connection”, in par. (1)(C), struck out “actually” after “the mark as”, and in par. (2), substituted “prescribed” for “filing”.
 
 Subsecs. (b), (c). Pub. L. 100–667, §103(3), (9), added subsecs. (b) and (c) and redesignated former subsecs. (b) and (c) as pars. (2) and (3), respectively, of subsec. (a).
 
@@ -164,7 +164,7 @@ Act July 5, 1946, ch. 540, 60 Stat. 427, which is classified to this chapter, is
 
 Section 46(a) of act July 5, 1946, as amended by Pub. L. 106–43, §6(b), Aug. 5, 1999, 113 Stat. 220, provided in part that all acts and parts of acts inconsistent with this chapter are repealed effective one year from July 5, 1946, but that “nothing contained in this Act \[this chapter\] shall be construed as limiting, restricting, modifying, or repealing any statute in force on the effective date of this Act \[July 5, 1947\] which does not relate to trademarks, or as restricting or increasing the authority of any Federal department or regulatory agency except as may be specifically provided in this Act \[this chapter\].”
 
-Section 48 of act July 5, 1946, provided that: “Section 4 of the Act of January 5, 1905 (U.S.C., title 36, sec. 4), as amended, entitled ‘An Act to incorporate the National Red Cross’ \[see 18 U.S.C. 706\], and section 7 of theAct of June 15, 1916 (U.S.C., title 36, sec. 27), entitled ‘An Act to incorporate the Boy Scouts of America, and for other purposes’ \[see 36 U.S.C. 30905\], and the Act of June 20, 1936 (U.S.C., title 22, sec. 248), entitled ‘An Act to prohibit the commercial use of the coat of arms of the Swiss Confederation’ \[see 18 U.S.C. 708\], are not repealed or affected by this Act.”
+Section 48 of act July 5, 1946, provided that: “Section 4 of the Act of January 5, 1905 (U.S.C., title 36, sec. 4), as amended, entitled ‘An Act to incorporate the National Red Cross’ \[see 18 U.S.C. 706\], and section 7 of the Act of June 15, 1916 (U.S.C., title 36, sec. 27), entitled ‘An Act to incorporate the Boy Scouts of America, and for other purposes’ \[see 36 U.S.C. 30905\], and the Act of June 20, 1936 (U.S.C., title 22, sec. 248), entitled ‘An Act to prohibit the commercial use of the coat of arms of the Swiss Confederation’ \[see 18 U.S.C. 708\], are not repealed or affected by this Act.”
 
 #### Savings Provision
 
@@ -201,16 +201,6 @@ Section 49 of said act July 5, 1946, provided: “Nothing herein \[in this chapt
 #### Emergency Relief From Postal Situation Affecting Trademark Cases
 
 Relief as to filing date of trademark application or registration and excusal of delayed fees or actions affected by postal situation beginning on Mar. 18, 1970, and ending on or about Mar. 30, 1970, see note set out under section 111 of Title 35, Patents.
-
-#### Cross References
-
-Emblems, insignia and names—
-
-&emsp;&emsp;False advertising or misuse of names to indicate Federal agency, see section 709 of Title 18, Crimes and Criminal Procedure.
-
-&emsp;&emsp;Swiss Confederation coat of arms, see section 708 of Title 18.
-
-Red Cross members or agents, false personation, see section 917 of Title 18.
 
 #### Section Referred to in Other Sections
 

@@ -6,15 +6,25 @@
 
 | Grade | Army | Navy | Air Force | Marine Corps |
 | :--- | :---: | :---: | :---: | ---: |
-| Major or Lieutenant Commander | 3,227 | 1,071 | 860 | 140 |
-| Lieutenant Colonel or Commander | 1,611 | 520 | 777 | 90 |
-| Colonel or Navy Captain | 471 | 188 | 297 | 30 |
+| Major or Lieutenant Commander | 3,316 | 1,071 | 948 | 140 |
+| Lieutenant Colonel or Commander | 1,759 | 520 | 852 | 90 |
+| Colonel or Navy Captain | 529 | 188 | 317 | 30 |
 
 (b) Whenever the number of officers serving in any grade is less than the number authorized for that grade under this section, the difference between the two numbers may be applied to increase the number authorized under this section for any lower grade.
 
-(Added Pub. L. 96–513, title I, §103, Dec. 12, 1980, 94 Stat. 2844, §524; amended Pub. L. 97–86, title V, §503(b), Dec. 1, 1981, 95 Stat. 1108; Pub. L. 97–252, title V, §503(b), Sept. 8, 1982, 96 Stat. 727; Pub. L. 98–94, title V, §503(b), Sept. 24, 1983, 97 Stat. 631; Pub. L. 98–525, title IV, §§413(b), 414(a)(4)(A), (B)(i), Oct. 19, 1984, 98 Stat. 2518, 2519; Pub. L. 99–145, title IV, §413(b), Nov. 8, 1985, 99 Stat. 619; Pub. L. 100–180, div. A, title IV, §413(b), Dec. 4, 1987, 101 Stat. 1083; Pub. L. 101–189, div. A, title IV, §413(b), Nov. 29, 1989, 103 Stat. 1433; Pub. L. 102–190, div. A, title IV, §413(b), Dec. 5, 1991, 105 Stat. 1352; Pub. L. 103–160, div. A, title IV, §413(b), Nov. 30, 1993, 107 Stat. 1642; renumbered §12011 and amended Pub. L. 103–337, div. A, title XVI, §1662(a)(2), Oct. 5, 1994, 108 Stat. 2988; Pub. L. 104–106, div. A, title IV, §414(a), Feb. 10, 1996, 110 Stat. 288; Pub. L. 105–261, div. A, title IV, §414(a), Oct. 17, 1998, 112 Stat. 1998; Pub. L. 106–65, div. A, title IV, §414(a), Oct. 5, 1999, 113 Stat. 586.)
+(c) Whenever under section 527 of this title the President may suspend the operation of any provision of section 523, 525, or 526 of this title, the Secretary of Defense may suspend the operation of any provision of this section. Any such suspension shall, if not sooner ended, end in the manner specified in section 527 for a suspension under that section.
+
+(d) Upon increasing under subsection (c)(2) of section 115 of this title the end strength that is authorized under subsection (a)(1)(B) of that section for a fiscal year for active-duty personnel and full-time National Guard duty personnel of an armed force who are to be paid from funds appropriated for reserve personnel, the Secretary of Defense may increase for that fiscal year the limitation that is set forth in subsection (a) of this section for the number of officers of that armed force serving in any grade if the Secretary determines that such action is in the national interest. The percent of the increase may not exceed the percent by which the Secretary increases that end strength.
+
+(Added Pub. L. 96–513, title I, §103, Dec. 12, 1980, 94 Stat. 2844, §524; amended Pub. L. 97–86, title V, §503(b), Dec. 1, 1981, 95 Stat. 1108; Pub. L. 97–252, title V, §503(b), Sept. 8, 1982, 96 Stat. 727; Pub. L. 98–94, title V, §503(b), Sept. 24, 1983, 97 Stat. 631; Pub. L. 98–525, title IV, §§413(b), 414(a)(4)(A), (B)(i), Oct. 19, 1984, 98 Stat. 2518, 2519; Pub. L. 99–145, title IV, §413(b), Nov. 8, 1985,99 Stat. 619; Pub. L. 100–180, div. A, title IV, §413(b), Dec. 4, 1987, 101 Stat. 1083; Pub. L. 101–189, div. A, title IV, §413(b), Nov. 29, 1989, 103 Stat. 1433; Pub. L. 102–190, div. A, title IV, §413(b), Dec. 5, 1991, 105 Stat. 1352; Pub. L. 103–160, div. A, title IV, §413(b), Nov. 30, 1993, 107 Stat. 1642; renumbered §12011 and amended Pub. L. 103–337, div. A, title XVI, §1662(a)(2), Oct. 5, 1994, 108 Stat. 2988; Pub. L. 104–106, div. A, title IV, §414(a), Feb. 10, 1996, 110 Stat. 288; Pub. L. 105–261, div. A, title IV, §414(a), Oct. 17, 1998, 112 Stat. 1998; Pub. L. 106–65, div. A, title IV, §414(a), Oct. 5, 1999, 113 Stat. 586; Pub. L. 106–398, §1 \[\[div. A\], title IV, §§415(a), 421(b), 424(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–94 to 1654A–96.)
 
 #### Amendments
+
+2000—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title IV, §415(a)\], amended table generally, increasing the fiscal year limitation on number of reserve officers in the Army in grade of Major or Lieutenant Commander from 3,227 to 3,316, in grade of Lieutenant Colonel or Commander from 1,611 to 1,759, and in grade of Colonel or Navy Captain from 471 to 529, and in the Air Force in grade of Major or Lieutenant Commander from 860 to 948, in grade of Lieutenant Colonel or Commander from 777 to 852, and in grade of Colonel or Navy Captain from 297 to 317.
+
+Subsec. (c). Pub. L. 106–398, §1 \[\[div. A\], title IV, §421(b)\], added subsec. (c).
+
+Subsec. (d). Pub. L. 106–398, §1 \[\[div. A\], title IV, §424(a)\], added subsec. (d).
 
 1999—Subsec. (a). Pub. L. 106–65 amended table generally, increasing the fiscal year limitation on number of reserve officers in the Army in grade of Major or Lieutenant Commander from 3,219 to 3,227, in grade of Lieutenant Colonel or Commander from 1,524 to 1,611, and in grade of Colonel or Navy Captain from 438 to 471, and in the Air Force in grade of Major or Lieutenant Commander from 791 to 860 and in grade of Lieutenant Colonel or Commander from 713 to 777.
 
@@ -48,7 +58,11 @@ Pub. L. 98–525, §413(b), increased fiscal year limitation on number of reserv
 
 1982—Subsec. (a). Pub. L. 97–252 increased numbers in columns headed “Army”, “Air Force”, and “Marine Corps” from 1,105, 189, and 51 in line for major or lieutenant commander to 1,351, 281, and 95, respectively, from 551, 194, and 35 in line for lieutenant colonel or commander to 671, 267, and 40, respectively, and from 171, 147, and 19 in line for colonel or Navy captain to 234, 170, and 21, respectively.
 
-1981—Subsec. (a). Pub. L. 97–86 increased numbers in columns headed “Army” and “Air Force” from 821 and 170 in line for major or lieutenant commander to 1,105 and 189, respectively, from 503 and 183 in line for lieutenant colonel or commander to 551 and 194, respectively, and from 163 and 146 in line for colonel or Navy captain to 171 and 147, respectively.
+1981—Subsec. (a). Pub. L. 97–86 increased numbers in columns headed “Army” and “Air Force” from 821 and170 in line for major or lieutenant commander to 1,105 and 189, respectively, from 503 and 183 in line for lieutenant colonel or commander to 551 and 194, respectively, and from 163 and 146 in line for colonel or Navy captain to 171 and 147, respectively.
+
+#### Effective Date of 2000 Amendment
+
+Pub. L. 106–398, §1 \[\[div. A\], title IV, §415(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–94, provided that: “The amendments made by this section \[amending this section and section 12012 of this title\] shall take effect on October 1, 2000.”
 
 #### Effective Date of 1998 Amendment
 

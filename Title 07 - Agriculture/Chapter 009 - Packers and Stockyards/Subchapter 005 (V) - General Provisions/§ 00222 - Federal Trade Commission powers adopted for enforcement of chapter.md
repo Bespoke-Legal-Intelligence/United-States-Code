@@ -12,7 +12,3 @@ For the efficient execution of the provisions of this chapter, and in order to p
 
 Executive and administrative functions of Federal Trade Commission, with certain reservations, transferred to Chairman of such Commission by 1950 Reorg. Plan No. 8, §1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out in the Appendix to Title 5, Government Organization and Employees.
 
-#### Federal Rules of Civil Procedure
-
-Subpoena and application of Rules of Civil Procedure, see rules 45 and 81, Title 28, Appendix, Judiciary and Judicial Procedure.
-

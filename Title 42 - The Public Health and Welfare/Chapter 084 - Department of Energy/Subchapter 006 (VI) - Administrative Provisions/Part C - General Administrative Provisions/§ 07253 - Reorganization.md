@@ -1,6 +1,32 @@
 ### §7253. Reorganization
 
-The Secretary is authorized to establish, alter, consolidate or discontinue such organizational units or components within the Department as he may deem to be necessary or appropriate. Such authority shall not extend to the abolition of organizational units or components established by this chapter, or to the transfer of functions vested by this chapter in any organizational unit or component.
+(a) Subject to subsection (b) of this section, the Secretary is authorized to establish, alter, consolidate or discontinue such organizational units or components within the Department as he may deem to be necessary or appropriate. Such authority shall not extend to the abolition of organizational units or components established by this chapter, or to the transfer of functions vested by this chapter in any organizational unit or component.
 
-(Pub. L. 95–91, title VI, §643, Aug. 4, 1977, 91 Stat. 599.)
+(b) <sup>1</sup> The authority of the Secretary to establish, abolish, alter, consolidate, or discontinue any organizational unit or component of the National Nuclear Security Administration is governed by the provisions of section 2409 of title 50.
+
+(b) <sup>1</sup> The authority of the Secretary under subsection (a) of this section does not apply to the National Nuclear Security Administration. The corresponding authority that applies to the Administration is set forth in section 2402(e) <sup>2</sup> of title 50.
+
+(Pub. L. 95–91, title VI, §643, Aug. 4, 1977, 91 Stat. 599; Pub. L. 106–377, §1(a)(2) \[title III, §314(b)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–81; Pub. L. 106–398, §1 \[div. C, title XXXI, §3159(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–470.)
+
+#### References in Text
+
+Section 2402(e) of title 50, referred to in subsec. (b) set out second, probably means the subsec. (e) of section 2402 which relates to reorganization authority and was added by Pub. L. 106–398, §1 \[div. C, title XXXI, §3159(a)\] Oct. 30, 2000, 114 Stat. 1654, 1654A–469.
+
+#### Amendments
+
+2000—Subsec. (a). Pub. L. 106–398, §1 \[div. C, title XXXI, §3159(b)(1)\], which directed amendment of section by substituting “(a) Except as provided in subsection (b) of this section, the Secretary” for “The Secretary”, could not be executed because the words “The Secretary” did not appear after execution of the amendment by Pub. L. 106–377, §1(a)(2) \[title III, §314(b)(1)\]. See below.
+
+Pub. L. 106–377, §1(a)(2) \[title III, §314(b)(1)\], designated existing provisions as subsec. (a) and substituted “Subject to subsection (b) of this section, the Secretary” for “The Secretary”.
+
+Subsec. (b). Pub. L. 106–398, §1 \[div. C, title XXXI, §3159(b)(2)\], added subsec. (b) relating to nonapplicability of authority of Secretary under subsec. (a) of this section to National Nuclear Security Administration.
+
+Pub. L. 106–377, §1(a)(2) \[title III, §314(b)(2)\], added subsec. (b) relating to authority of Secretary as to National Nuclear Security Administration.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 50 section 2409.
+
+<i><sup>1</sup></i><i> So in original. Two subsecs. (b) have been enacted.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

@@ -6,7 +6,7 @@ Section 5402, added Pub. L. 95–454, title V, §501, Oct. 13, 1978, 92 Stat. 11
 
 Section 5403, added Pub. L. 95–454, title V, §501, Oct. 13, 1978, 92 Stat. 1182; amended Pub. L. 98–615, title II, §201(a), Nov. 8, 1984, 98 Stat. 3209; Pub. L. 101–509, title V, §529 \[title I, §101(b)(4)(C)\], Nov. 5, 1990, 104 Stat. 1427, 1439; Pub. L. 102–378, §2(38), Oct. 2, 1992, 106 Stat. 1351, related to general pay increases.
 
-Section 5404, added Pub. L. 95–454, title V, §501, Oct. 13, 1978, 92 Stat. 1183; amended Pub. L. 98–615, title II, §201(a), Nov. 8, 1984, 98 Stat. 3210; Pub. L. 101–103, §3(a), Sept. 30, 1989, 103 Stat. 670, related to merit increases.
+Section 5404, added Pub. L. 95–454, title V, §501, Oct. 13, 1978, 92 Stat. 1183; amended Pub. L. 98–615, title II,§201(a), Nov. 8, 1984, 98 Stat. 3210; Pub. L. 101–103, §3(a), Sept. 30, 1989, 103 Stat. 670, related to merit increases.
 
 Section 5405, added Pub. L. 95–454, title V, §501, Oct. 13, 1978, 92 Stat. 1183; amended Pub. L. 98–615, title II, §201(a), Nov. 8, 1984, 98 Stat. 3211; Pub. L. 101–509, title V, §529 \[title I, §101(b)(3)(C)\], Nov. 5, 1990, 104 Stat. 1427, 1439, related to pay administration.
 
@@ -68,7 +68,7 @@ Deem rates and positions to be under the general schedule.—For purposes of app
 
 &emsp;&emsp;&emsp;“(i) the rate of basic pay determined under this section for an employee shall be treated as a rate of basic pay described in section 5302(8) of such title;
 
-&emsp;&emsp;&emsp;“(ii) the position then currently occupied by an employee who is subject to this section shall bedeemed to be a ‘General Schedule position’ within the meaning of section 5302(9) of such title; and
+&emsp;&emsp;&emsp;“(ii) the position then currently occupied by an employee who is subject to this section shall be deemed to be a ‘General Schedule position’ within the meaning of section 5302(9) of such title; and
 
 &emsp;&emsp;&emsp;“(iii) any employee who is subject to this section shall be considered to be a ‘General Schedule employee’ (as referred to in section 302(b) of FEPCA).
 

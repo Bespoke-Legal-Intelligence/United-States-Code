@@ -46,7 +46,7 @@ Although the basic deposit requirements are limited to works “published with n
 
 The deposit requirement for sound recordings includes “two complete phonorecords of the best edition” and any other visually-perceptible material published with the phonorecords. The reference here is to the text or pictorial matter appearing on record sleeves and album covers or embodied in separate leaflets or booklets included in a sleeve, album, or other container. The required deposit in the case of a sound recording would extend to the entire “package” and not just to the disk, tape, or other phonorecord included as part of it.
 
-Deposits under section 407, although made in the Copyright Office, are “for the use or disposition of the Library of Congress.” Thus, the fundamental criteria governing regulations issued under section 407(c), which allows exemptions from the deposit requirements for certain categories of works, would be theneeds and wants of the Library. The purpose of this provision is to make the deposit requirements as flexible as possible, so that there will be no obligation to make deposits where it serves no purpose, so that only one copy or phonorecord may be deposited where two are not needed, and so that reasonable adjustments can be made to meet practical needs in special cases. The regulations, in establishing special categories for these purposes, would necessarily balance the value of the copies or phonorecords to the collections of the Library of Congress against the burdens and costs to the copyright owner of providing them.
+Deposits under section 407, although made in the Copyright Office, are “for the use or disposition of the Library of Congress.” Thus, the fundamental criteria governing regulations issued under section 407(c), which allows exemptions from the deposit requirements for certain categories of works, would be the needs and wants of the Library. The purpose of this provision is to make the deposit requirements as flexible as possible, so that there will be no obligation to make deposits where it serves no purpose, so that only one copy or phonorecord may be deposited where two are not needed, and so that reasonable adjustments can be made to meet practical needs in special cases. The regulations, in establishing special categories for these purposes, would necessarily balance the value of the copies or phonorecords to the collections of the Library of Congress against the burdens and costs to the copyright owner of providing them.
 
 The Committee adopted an amendment to subsection (c) of section 407, aimed at meeting the concerns expressed by representatives of various artists’ groups concerning the deposit of expensive art works and graphics published in limited editions. Under the present law, optional deposit of photographs is permitted for various classes of works, but not for fine prints, and this has resulted in many artists choosing to forfeit copyright protection rather than bear the expense of depositing “two copies of the best edition.” To avoid this unfair result, the last sentence of subsection (c) would require the Register to issue regulations under which such works would either be exempted entirely from the mandatory deposit or would be subject to an appropriate alternative form of deposit.
 
@@ -69,18 +69,6 @@ Amendment by Pub. L. 100–568 effective Mar. 1, 1989, with any cause of action 
 #### Deposits and Registrations Made After December 31, 1977, in Response to Demand Under Predecessor Demand and Penalty Provisions
 
 Section 110 of Pub. L. 94–553 provided that: “The demand and penalty provisions of section 14 of title 17 as it existed on December 31, 1977, apply to any work in which copyright has been secured by publication with notice of copyright on or before that date, but any deposit and registration made after that date in response to a demand under that section shall be made in accordance with the provisions of title 17 as amended by the first section of this Act.”
-
-#### Cross References
-
-Fee for issuance of a receipt for a deposit, see section 708 of this title.
-
-Jurisdiction of district courts of action or proceeding for recovery or enforcement of fines, see section 1355 of Title 28, Judiciary and Judicial Procedure.
-
-Placement of copies and phonorecords acquired in accordance with this section in American Television and Radio Archives, see section 170 of Title 2, The Congress.
-
-Records of deposits to be kept in Copyright Office, see section 705 of this title.
-
-Retention and deposition of articles deposited in Copyright Office, see section 704 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -50,7 +50,7 @@ Section 3306 of Pub. L. 102–484 provided that:
 
 “(a)
 
-Appointment.—Not later than March 15, 1993, the President shall appoint an advisory committee under section 10(a) of the Strategic and Critical Materials Stock Piling Act (50 U.S.C. 98h–1(a)) to make recommendations to the President concerning the operation and modernization of the National Defense Stockpile.
+Appointment.—Not later than March 15, 1993, the President shall appoint an advisory committee undersection 10(a) of the Strategic and Critical Materials Stock Piling Act (50 U.S.C. 98h–1(a)) to make recommendations to the President concerning the operation and modernization of the National Defense Stockpile.
 
 “(b)
 

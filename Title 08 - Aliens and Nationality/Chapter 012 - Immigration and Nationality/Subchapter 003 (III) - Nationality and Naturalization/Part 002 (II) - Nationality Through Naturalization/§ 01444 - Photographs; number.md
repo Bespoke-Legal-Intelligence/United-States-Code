@@ -32,17 +32,3 @@ One such photograph shall be affixed to each such certificate issued by the Atto
 
 Amendment by Pub. L. 103–416 effective as if included in the enactment of the Immigration Act of 1990, Pub. L. 101–649, see section 219(dd) of Pub. L. 103–416, set out as a note under section 1101 of this title.
 
-#### Cross References
-
-Definition of the term—
-
-&emsp;&emsp;Attorney General, see section 1101(a)(5) of this title.
-
-&emsp;&emsp;Lawfully admitted for permanent residence, see section 1101(a)(20) of this title.
-
-&emsp;&emsp;Naturalization, see section 1101(a)(23) of this title.
-
-&emsp;&emsp;Service, see section 1101(a)(34) of this title.
-
-Photographic studio for benefit of aliens, see section 1443 of this title.
-

@@ -12,7 +12,7 @@ Each annual report required by subsection (a) of this section shall contain—
 
 &emsp;(2) the reports on each specific issue and topic which is required by any other provision of law to be included in the report of the National Advisory Council on International Monetary and Financial Policies required by section 286b(b)(5) of this title, as in effect immediately before December 19, 1989;
 
-&emsp;(3) a description of each loan or other form of financial assistance approved by any international financial institution during the fiscal year covered by such report, and a discussionof how such loan or financial assistance will benefit the people, particularly the poor people, of the recipient country;
+&emsp;(3) a description of each loan or other form of financial assistance approved by any international financial institution during the fiscal year covered by such report, and a discussion of how such loan or financial assistance will benefit the people, particularly the poor people, of the recipient country;
 
 &emsp;(4) a review of the success achieved through the multilateral development banks in reducing or eliminating import restrictions and unfair export subsidies which—
 
@@ -74,7 +74,7 @@ Upon request of the Committee on Banking, Finance and Urban Affairs of the House
 
 &emsp;The Advisory Committee should consist of members appointed by the Secretary of the Treasury, after appropriate consultations with the relevant organizations. Such members should include representatives from industry, representatives from agriculture, representatives from organized labor, representatives from banking and financial services, and representatives from nongovernmental environmental and human rights organizations.
 
-(Pub. L. 95–118, title XVII, §1701, as added Pub. L. 101–240, title V, §541(a), Dec. 19, 1989, 103 Stat. 2514; amended Pub. L. 101–513, title V, §562(c)(10)(A), Nov. 5, 1990, 104 Stat. 2036; Pub. L. 104–208, div. A, title I, §101(c) \[title VII, §710(a)\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–181; Pub. L.105–277, div. A, §101(d) \[title VI, §610(b)\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–228.)
+(Pub. L. 95–118, title XVII, §1701, as added Pub. L. 101–240, title V, §541(a), Dec. 19, 1989, 103 Stat. 2514; amended Pub. L. 101–513, title V, §562(c)(10)(A), Nov. 5, 1990, 104 Stat. 2036; Pub. L. 104–208, div. A, title I, §101(c) \[title VII, §710(a)\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–181; Pub. L. 105–277, div. A, §101(d) \[title VI, §610(b)\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–228.)
 
 #### References in Text
 
@@ -94,7 +94,7 @@ Reorganization Plan No. 4 of 1965, referred to in subsec. (d), is set out in the
 
 #### Change of Name
 
-Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Contents of Reports; Applicability of Statutory Requirements
 
@@ -184,7 +184,7 @@ Hearings.—The Commission or, at its direction, any panel or member of the Comm
 
 &emsp;“(2)
 
-Information.—The Commission may secure directly information that the Commission considersnecessary to enable the Commission to carry out its responsibilities under this section.
+Information.—The Commission may secure directly information that the Commission considers necessary to enable the Commission to carry out its responsibilities under this section.
 
 &emsp;“(3)
 
@@ -240,7 +240,7 @@ Pub. L. 105–277, div. A, §101(d) \[title VI, §606\], Oct. 21, 1998, 112 Stat
 
 #### Definitions
 
-Pub. L. 105–277, div. A, §101(d) \[title VI, §607\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–224, provided that: “For purposes of sections 601 through 606 of this title \[see Tables for classification\], the term ‘appropriate committees’ means the Committees on Appropriations, Foreign Relations, and Banking, Housing, and Urban Affairs of the Senate and the Committees on Appropriations and Banking and Financial Services of the House of Representatives.”
+Pub. L. 105–277, div. A, §101(d) \[title VI, §607\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–224, as amended by Pub. L. 106–200, title IV, §404(a), May 18, 2000, 114 Stat. 291, provided that: “For purposes of sections 601 through 606 of this title \[see Tables for classification\], the term ‘appropriate committees’ means the Committees on Appropriations, Foreign Relations, Finance, and Banking, Housing, and Urban Affairs of the Senate and the Committees on Appropriations, Ways and Means, and Banking and Financial Services \[now Committee on Financial Services\] of the House of Representatives.”
 
 #### Section Referred to in Other Sections
 

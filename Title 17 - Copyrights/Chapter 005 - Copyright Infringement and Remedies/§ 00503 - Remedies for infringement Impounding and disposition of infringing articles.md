@@ -2,7 +2,7 @@
 
 (a) At any time while an action under this title is pending, the court may order the impounding, on such terms as it may deem reasonable, of all copies or phonorecords claimed to have been made or used in violation of the copyright owner's exclusive rights, and of all plates, molds, matrices, masters, tapes, film negatives, or other articles by means of which such copies or phonorecords may be reproduced.
 
-(b) As part of a final judgment or decree, the court may order the destruction or other reasonable disposition of all copies or phonorecords found to have been made or used in violation of the copyright owner's exclusive rights, and of all plates, molds, matrices, masters, tapes, film negatives, or other articles by means of which such copies or phonorecords may be reproduced.
+(b) As part of a final judgment or decree, the court may order the destruction or other reasonable disposition of all copies or phonorecords found to have been made or used in violation ofthe copyright owner's exclusive rights, and of all plates, molds, matrices, masters, tapes, film negatives, or other articles by means of which such copies or phonorecords may be reproduced.
 
 (Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2585.)
 
@@ -15,16 +15,6 @@ The two subsections of section 503 deal respectively with the courts’ power to
 Articles may be impounded under subsection (a) “at any time while an action under this title is pending,” thus permitting seizures of articles alleged to be infringing as soon as suit has been filed and without waiting for an injunction. The same subsection empowers the court to order impounding “on such terms as it may deem reasonable.” The present Supreme Court rules with respect to seizure and impounding were issued even though there is no specific provision authorizing them in the copyright statute, and there appears no need for including a special provision on the point in the bill.
 
 Under section 101(d) of the present statute \[section 101(d) of former title 17\], articles found to be infringing may be ordered to be delivered up for destruction. Section 503(b) of the bill would make this provision more flexible by giving the court discretion to order “destruction or other reasonable disposition” of the articles found to be infringing. Thus, as part of its final judgment or decree, the court could order the infringing articles sold, delivered to the plaintiff, or disposed of in some other way that would avoid needless waste and best serve the ends of justice.
-
-#### Cross References
-
-Acts of infringement—
-
-&emsp;&emsp;Making and distributing phonorecords, see section 115 of this title.
-
-&emsp;&emsp;Secondary transmission of primary transmission, see section 111 of this title.
-
-Works consisting of sounds, images, or both, the first fixation of which is made simultaneously with its transmission, as subject to this section, although not yet registered, see section 411 of this title.
 
 #### Section Referred to in Other Sections
 

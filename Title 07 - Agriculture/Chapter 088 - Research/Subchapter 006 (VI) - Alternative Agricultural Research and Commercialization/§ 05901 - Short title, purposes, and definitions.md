@@ -48,7 +48,7 @@ Corporation.—The term “Corporation” means the Alternative Agricultural Res
 
 &emsp;(6)
 
-Executive director.—The term “Executive Director” means the Executive Directorof the Corporation appointed under section 5903(e) of this title.
+Executive director.—The term “Executive Director” means the Executive Director of the Corporation appointed under section 5903(e) of this title.
 
 &emsp;(7) The term “Fund” means the Alternative Agricultural Research and Commercialization Revolving Fund.
 

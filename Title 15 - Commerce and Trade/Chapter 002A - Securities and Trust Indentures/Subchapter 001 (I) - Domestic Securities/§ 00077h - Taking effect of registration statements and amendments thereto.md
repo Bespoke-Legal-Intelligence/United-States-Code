@@ -18,7 +18,7 @@ If it appears to the Commission at any time that the registration statement incl
 
 #### (e) Examination for issuance of stop order
 
-The Commission is empowered to make an examination in any case in order to determine whether a stop order should issue under subsection (d) of this section. In making such examination the Commission or any officer or officers designated by it shall have access to and may demand the production of any books and papers of, and may administer oaths and affirmations to and examine, the issuer, underwriter, or any other person, in respect of any matter relevant to the examination, and may, in its discretion, require the production of a balance sheet exhibiting the assets and liabilities of the issuer, or its income statement, or both, to be certified to by a public or certified accountant approved by the Commission. If the issuer or underwriter shall fail to cooperate, or shall obstruct or refuse to permit the making of an examination, such conduct shall be proper ground for the issuance of a stop order.
+The Commission is empowered to make an examination in any case in order to determine whether a stop order should issue under subsection (d) of this section. In making such examination the Commission or any officer or officers designated by it shall have access to and may demand the production of any books and papers of, and may administer oaths and affirmations to and examine, the issuer, underwriter, or any other person, in respect of any matter relevant to the examination, and may, in its discretion, require the production of a balance sheet exhibiting the assets and liabilities of the issuer, or its income statement, or both, to be certified to by a public or certified accountant approved by the Commission. If the issuer or underwriter shall fail to cooperate, or shall obstruct or refuse to permit the making of an examination,such conduct shall be proper ground for the issuance of a stop order.
 
 #### (f) Notice requirements
 
@@ -33,24 +33,6 @@ Any notice required under this section shall be sent to or served on the issuer,
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
-#### Cross References
-
-Exempted transactions, see section 77d of this title.
-
-Prohibitions unless registration statement is in effect, see section 77e of this title.
-
-Review by Commission of actions with respect to delegation of its functions, see section 78d–1 of the title.
-
-Suspending effective date of, suspending for specified period, or withdrawing of registration of security for noncompliance with Securities Exchange Act of 1934, see section 78s of this title.
-
-Trust Indenture Act of 1939—
-
-&emsp;&emsp;Qualification of indenture, application for, see section 77ggg of this title.
-
-&emsp;&emsp;Refusal orders, see section 77eee of this title.
-
-&emsp;&emsp;Stop orders, see section 77iii of this title.
 
 #### Section Referred to in Other Sections
 

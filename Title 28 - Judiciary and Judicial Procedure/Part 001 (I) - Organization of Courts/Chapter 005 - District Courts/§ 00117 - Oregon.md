@@ -2,9 +2,9 @@
 
 Oregon constitutes one judicial district.
 
-&emsp;&emsp;Court shall be held at Coquille, Eugene, Klamath Falls, Medford, Pendleton, and Portland.
+&emsp;&emsp;Court shall be held at Coquille, Eugene or Springfield, Klamath Falls, Medford, Pendleton, and Portland.
 
-(June 25, 1948, ch. 646, 62 Stat. 888; Aug. 3, 1950, ch. 514, 64 Stat. 393; Pub. L. 91–272, §7, June 2, 1970, 84 Stat. 297.)
+(June 25, 1948, ch. 646, 62 Stat. 888; Aug. 3, 1950, ch. 514, 64 Stat. 393; Pub. L. 91–272, §7, June 2, 1970, 84 Stat. 297; Pub. L. 106–518, title V, §502, Nov. 13, 2000, 114 Stat. 2422.)
 
 #### Historical and Revision Notes
 
@@ -16,7 +16,9 @@ Changes in arrangement and phraseology were made.
 
 #### Amendments
 
-1970—Pub. L. 91–272 provided for holding court at Coquille.
+<b>2000</b>—Pub. L. 106–518 substituted “Eugene or Springfield” for “Eugene”.
 
-1950—Act Aug. 3, 1950, provided for holding court at Eugene.
+<b>1970</b>—Pub. L. 91–272 provided for holding court at Coquille.
+
+<b>1950</b>—Act Aug. 3, 1950, provided for holding court at Eugene.
 

@@ -38,3 +38,7 @@ The Institute and its directors, officers, employees, and agents shall be subjec
 
 (Pub. L. 98–525, title XVII, §1708, Oct. 19, 1984, 98 Stat. 2657.)
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (h) of this section relating to providing a report of the audit to each House of Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 207 of House Document No. 103–7.
+

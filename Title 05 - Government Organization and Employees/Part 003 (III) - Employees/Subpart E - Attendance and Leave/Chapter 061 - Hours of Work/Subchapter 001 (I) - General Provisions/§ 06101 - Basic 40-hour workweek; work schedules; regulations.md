@@ -172,7 +172,7 @@ Sec. 3. For purposes of this Act (other than title IV) \[this note\]—
 
 “(2) Each agency may conduct one or more experiments under titles I and II of this Act. Such experiments shall be subject to such regulations as the Commission may prescribe under section 305 of this Act.
 
-“(b) The Commission shall, not later than 90 days after the effective date of this section, establish a master plan which shall contain guidelines and criteria bywhich the Commission will study and evaluate experiments conducted under titles I and II of this Act. Such master plan shall provide for the study and evaluation of experiments within a sample of organizations of different size, geographic location, and functions and activities, sufficient to insure adequate evaluation of the impact of varied work schedules on—
+“(b) The Commission shall, not later than 90 days after the effective date of this section, establish a master plan which shall contain guidelines and criteria by which the Commission will study and evaluate experiments conducted under titles I and II of this Act. Such master plan shall provide for the study and evaluation of experiments within a sample of organizations of different size, geographic location, and functions and activities, sufficient to insure adequate evaluation of the impact of varied work schedules on—
 
 &emsp;“(1) the efficiency of Government operations;
 
@@ -228,7 +228,7 @@ Sec. 3. For purposes of this Act (other than title IV) \[this note\]—
 
 “Sec. 103. (a) For purposes of determining compensation for overtime hours in the case of an employee participating in an experiment under section 102—
 
-&emsp;“(1) the head of an agency may, on request of the employee, grant the employee compensatory time off in lieu of payment for such overtime hours, whether or not irregular or occasional in nature and notwithstanding the provisions of sections 5542(a), 5543(a)(1), 5544(a), and 5550 of title 5, United States Code, section 4107(e)(5) of title 38, United States Code section 7 of the Fair Labor Standards Act, as amended \[section 207 of Title 29, Labor\], or any other provision of law; or
+&emsp;“(1) the head of an agency may, on request of the employee, grant the employee compensatory time off in lieu of payment for such overtime hours, whether or not irregular or occasional in nature and notwithstanding the provisions of sections 5542(a), 5543(a)(1),5544(a), and 5550 of title 5, United States Code, section 4107(e)(5) of title 38, United States Code section 7 of the Fair Labor Standards Act, as amended \[section 207 of Title 29, Labor\], or any other provision of law; or
 
 &emsp;“(2) the employee shall be compensated for such overtime hours in accordance with such provisions, as applicable.
 
@@ -328,7 +328,7 @@ Sec. 3. For purposes of this Act (other than title IV) \[this note\]—
 
 #### “application of experiments in the case of negotiated contracts
 
-“Sec. 302. (a) Employees within a unit with respect to which an organization of Government employees hasbeen accorded exclusive recognition shall not be included within any experiment under title I or II of this Act except to the extent expressly provided under a written agreement between the agency and such organization.
+“Sec. 302. (a) Employees within a unit with respect to which an organization of Government employees has been accorded exclusive recognition shall not be included within any experiment under title I or II of this Act except to the extent expressly provided under a written agreement between the agency and such organization.
 
 “(b) The Commission or an agency may not participate in a flexible or compressed schedule experiment under a negotiated contract which contains premium pay provisions which are inconsistent with the provisions of section 103 or 203 of this Act, as applicable.
 
@@ -392,13 +392,7 @@ Pub. L. 97–221, §4, July 23, 1982, 96 Stat. 234, provided that:
 
 “(2) If a schedule established pursuant to a negotiated agreement is terminated under paragraph (1), either the agency or the exclusive representative concerned may, by written notice to the other party within 90 days after the date of such termination, initiate collective bargaining pertaining to the establishment of another flexible or compressed work schedule under subchapter II of chapter 61 of title 5, United States Code, which would be effective for the unexpired portion of the term of the negotiated agreement.”
 
-#### Cross References
-
-Contract Work Hours Standards Act, see section 327 et seq. of Title 40, Public Buildings, Property, and Works.
-
-Overtime and other premium pay, see section 5541 et seq. of this title.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5504, 6122, 6127 of this title; title 32 section 709; title 40 sections 166b–1d, 166b–1e.
+This section is referred to in sections 5504, 6122, 6127 of this title; title 10 sections 4338, 6952, 9338; title 32 section 709; title 40 sections 166b–1d, 166b–1e.
 

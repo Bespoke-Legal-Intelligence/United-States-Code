@@ -4,7 +4,3 @@ The President shall, within nine months of October 30, 1970, transmit to the Con
 
 (Pub. L. 91–515, title V, §501(c), Oct. 30, 1970, 84 Stat. 1310.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4394 of this title.
-

@@ -24,10 +24,6 @@ As used in this chapter—
 
 (Pub. L. 99–371, title II, §201, formerly title IV, §401, Aug. 4, 1986, 100 Stat. 789; renumbered title II, §201, and amended Pub. L. 102–421, title I, §§101(b)(5), (6), 131, 151(a)(3), (b), Oct. 16, 1992, 106 Stat. 2151, 2155, 2164; Pub. L. 103–73, title II, §204(a), Aug. 11, 1993, 107 Stat. 734; Pub. L. 105–244, title IX, §915, Oct. 7, 1998, 112 Stat. 1830.)
 
-#### Codification
-
-Section is also set out in D.C. Code, §31–1842.2a.
-
 #### Prior Provisions
 
 A prior section 201 of Pub. L. 99–371 was renumbered section 111 and is classified to section 4331 of this title.

@@ -26,7 +26,3 @@ Pub. L. 100–175, title I, §191, Nov. 29, 1987, 101 Stat. 967, provided that: 
 
 Joint Res. June 17, 1940, ch. 389, 54 Stat. 401, authorized Bureau of Labor Statistics to furnish a report to Congress before May 1, 1941, on kind, amount, and value of all goods produced in State and Federal prisons.
 
-#### Cross References
-
-Transfer of duties as to ascertaining cost of production in foreign countries, etc., see Codification note set out under section 4 of this title.
-

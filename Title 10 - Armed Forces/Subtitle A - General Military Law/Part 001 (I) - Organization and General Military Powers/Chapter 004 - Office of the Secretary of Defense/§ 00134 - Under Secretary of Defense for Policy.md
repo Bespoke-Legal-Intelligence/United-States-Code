@@ -50,7 +50,7 @@ Time for Implementation.—The Secretary of Defense shall complete the actions n
 
 “(d)
 
-Report.—Not later than 90 days after the date of the enactment of this Act, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives \[now Committee on Armed Services of the House of Representatives\] a report on the plans of the Secretary for implementing the amendments made by subsections (a) and (b) \[enacting section 134b of this title and amending this section\]. The report shall include the following:
+Report.—Not later than 90 days after the date of the enactment of this Act, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on National Security ofthe House of Representatives \[now Committee on Armed Services of the House of Representatives\] a report on the plans of the Secretary for implementing the amendments made by subsections (a) and (b) \[enacting section 134b of this title and amending this section\]. The report shall include the following:
 
 &emsp;“(1) A description of any organizational changes that are to be made within the Department of Defense to implement those amendments.
 

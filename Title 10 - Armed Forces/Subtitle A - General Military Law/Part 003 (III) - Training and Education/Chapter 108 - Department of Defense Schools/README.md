@@ -7,10 +7,13 @@
 | [2163\.](%C2%A7%2002163%20-%20National%20Defense%20University%20masters%20of%20science%20in%20national%20security%20strategy%20and%20in%20national%20resource%20strategy.md) | National Defense University: masters of science in national security strategy and in national resource strategy. |
 | [2164\.](%C2%A7%2002164%20-%20Department%20of%20Defense%20domestic%20dependent%20elementary%20and%20secondary%20schools.md) | Department of Defense domestic dependent elementary and secondary schools. |
 | [2165\.](%C2%A7%2002165%20-%20National%20Defense%20University%20component%20institutions.md) | National Defense University: component institutions. |
+| [2166\.](%C2%A7%2002166%20-%20Western%20Hemisphere%20Institute%20for%20Security%20Cooperation.md) | Western Hemisphere Institute for Security Cooperation. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2000—Pub. L. 106–398, §1 \[\[div. A\], title IX, §911(c)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–228, added item 2166.
 
 1997—Pub. L. 105–107, title V, §501(b), Nov. 20, 1997, 111 Stat. 2262, substituted “Joint Military Intelligence College: academic degrees” for “Defense Intelligence School; master of science of strategic intelligence” in item 2261.
 
@@ -36,7 +39,7 @@ Military Education and Training Programs.—The Secretary of each military depar
 
 #### Sense of Congress on Grade of Heads of Senior Professional Military Education Schools
 
-Pub. L. 103–337, div. A, title IX, §914, Oct. 5, 1994, 108 Stat. 2829, provided that: “It is the sense of Congress that an officer serving in a position as the head of one of the senior professional military education schools of the Department of Defense (or of the separate military departments) should, while so serving, hold a grade not less than the grade (or its equivalent) held by the officer serving in that position on the date of the enactment of this Act \[Oct. 5, 1994\].”
+Pub. L. 103–337, div. A, title IX, §914, Oct. 5, 1994, 108 Stat. 2829, provided that: “It is the sense of Congressthat an officer serving in a position as the head of one of the senior professional military education schools of the Department of Defense (or of the separate military departments) should, while so serving, hold a grade not less than the grade (or its equivalent) held by the officer serving in that position on the date of the enactment of this Act \[Oct. 5, 1994\].”
 
 #### Military Department Affiliation of War College Students
 
@@ -108,3 +111,4 @@ This chapter is referred to in section 1552 of this title.
 - [&sect; 02163 - National Defense University masters of science in national security strategy and in national resource strategy](%C2%A7%2002163%20-%20National%20Defense%20University%20masters%20of%20science%20in%20national%20security%20strategy%20and%20in%20national%20resource%20strategy.md)
 - [&sect; 02164 - Department of Defense domestic dependent elementary and secondary schools](%C2%A7%2002164%20-%20Department%20of%20Defense%20domestic%20dependent%20elementary%20and%20secondary%20schools.md)
 - [&sect; 02165 - National Defense University component institutions](%C2%A7%2002165%20-%20National%20Defense%20University%20component%20institutions.md)
+- [&sect; 02166 - Western Hemisphere Institute for Security Cooperation](%C2%A7%2002166%20-%20Western%20Hemisphere%20Institute%20for%20Security%20Cooperation.md)

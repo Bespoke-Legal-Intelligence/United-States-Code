@@ -8,7 +8,7 @@ For purposes of this part, creditable service of a participant includes—
 
 &emsp;(2) service with respect to which deductions and withholdings under section 204(a)(2) of the Federal Employees’ Retirement Contribution Temporary Adjustment Act of 1983 have been made; and
 
-&emsp;(3) except as provided in subsection (b) of this section, any civilian service performed before January 1, 1989 (other than service under paragraph (1) or (2)), which, but for the amendment made by section 414 of the Federal Employees’ Retirement System Act of 1986, would be creditable under part I of this subchapter (determined without regard to any deposit or redeposit requirement under such part, subchapter III of chapter 83 of title 5 (the Civil Service Retirement System), or title II of the Central Intelligence Agency Retirement Act (50 U.S.C. 2011 et seq.), any requirement that the individual become subject to such part, subchapter, or title after performing the service involved, or any requirement that the individual give notice in writing to the official by whom such individual is paid of such individual's desire to become subject to such part, subchapter, or title).
+&emsp;(3) except as provided in subsection (b) of this section, any civilian service performed before January 1, 1989 (other than service under paragraph (1) or (2)), which, but for the amendment made by section 414 of the Federal Employees’ Retirement System Act of 1986, would be creditable under part I of this subchapter (determined without regard to any deposit or redeposit requirement under such part, subchapter III of chapter 83 of title 5 (the Civil Service Retirement System), or title II of the Central Intelligence Agency Retirement Act (50 U.S.C. 2011 et seq.), any requirement that the individual become subject to such part, subchapter, or title after performing the service involved, or any requirement that the individual give notice in writing to the official bywhom such individual is paid of such individual's desire to become subject to such part, subchapter, or title).
 
 #### (b) Refund of retirement deductions; retirement deduction not made; required deposit; computation of interest
 
@@ -28,7 +28,7 @@ For purposes of this part, creditable service of a participant includes—
 
 &emsp;(C) a full-time volunteer for a period of service of at least 1 year's duration under part A, B, or C of title I of the Domestic Volunteer Service Act of 1973 (42 U.S.C. 4951 et seq.),
 
-> if the participant makes a payment to the Fund equal to 3 percent of pay received for the volunteer service; except, the amount to be paid for volunteer service beginning on January 1, 1999, through December 31, 2002, shall be as follows:
+> if the participant makes a payment to the Fund equal to 3 percent of pay received for the volunteer service; except, the amount to be paid for volunteer service beginning on January 1, 1999, through December 31, 2000, shall be as follows:
 
 &nbsp;
 
@@ -36,7 +36,6 @@ For purposes of this part, creditable service of a participant includes—
 | :--- | :---: | ---: |
 | &nbsp; | 3\.25 | January 1, 1999, to December 31, 1999. |
 | &nbsp; | 3\.4 | January 1, 2000, to December 31, 2000. |
-| &nbsp; | 3\.5 | January 1, 2001, to December 31, 2002. |
 
 (2) The amount of such payments shall be determined in accordance with regulations of the Secretary of State consistent with regulations for making corresponding determinations under chapter 83, title 5, together with interest determined under regulations issued by the Secretary of State.
 
@@ -48,7 +47,7 @@ Credit shall be given under this System to a participant for a period of prior s
 
 A participant who, while on approved leave without pay, serves as a full-time paid employee of a Member or office of the Congress shall continue to make contributions to the Fund based upon the Foreign Service salary rate that would be in effect if the participant were in a pay status. The participant's employing Member or office in the Congress shall make a contribution (from the appropriation or fund which is used for payment of the salary of the participant) determined under section 4071f(a) of this title to the Treasury of the United States to the credit of the Fund. All periods of service for which full contributions to the Fund are made under this subsection shall be counted as creditable service for purposes of this part and shall not, unless all retirement credit is transferred, be counted as creditable service under any other Government retirement system.
 
-(Pub. L. 96–465, title I, §854, as added Pub. L. 99–335, title IV, §415, June 6, 1986, 100 Stat. 616; amended Pub. L. 99–556, title IV, §405, Oct. 27, 1986, 100 Stat. 3137; Pub. L. 100–238, title II, §242, Jan. 8, 1988, 101 Stat. 1776; Pub. L. 103–178, title II, §204(b)(2), Dec. 3, 1993, 107 Stat. 2033; Pub. L. 105–33, title VII, §7001(e)(1)(B), Aug. 5, 1997, 111 Stat. 661.)
+(Pub. L. 96–465, title I, §854, as added Pub. L. 99–335, title IV, §415, June 6, 1986, 100 Stat. 616; amended Pub. L. 99–556, title IV, §405, Oct. 27, 1986, 100 Stat. 3137; Pub. L. 100–238, title II, §242, Jan. 8, 1988, 101 Stat. 1776; Pub. L. 103–178, title II, §204(b)(2), Dec. 3, 1993, 107 Stat. 2033; Pub. L. 105–33, title VII, §7001(e)(1)(B), Aug. 5, 1997, 111 Stat. 661; Pub. L. 106–346, §101(a) \[title V, §505(e)(2)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–54.)
 
 #### References in Text
 
@@ -65,6 +64,8 @@ The Economic Opportunity Act of 1964, referred to in subsec. (c)(1)(B), is Pub. 
 The Domestic Volunteer Service Act of 1973, referred to in subsec. (c)(1)(C), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, as amended. Parts A, B, and C of title I of the Act are classified to Parts A (§4951 et seq.), B (§4971 et seq.), and C (§4991 et seq.), respectively, of subchapter I of chapter 66 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of Title 42 and Tables.
 
 #### Amendments
+
+2000—Subsec. (c)(1). Pub. L. 106–346, in concluding provisions, substituted “December 31, 2000” for “December 31, 2002”, and in table in concluding provisions, struck out item at end relating to service period January 1, 2001, to December 31, 2002.
 
 1997—Subsec. (c). Pub. L. 105–33 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Credit shall be given under this System to a participant for a period of prior satisfactory service as—
 
@@ -85,6 +86,10 @@ Subsec. (d). Pub. L. 103–178, §204(b)(2)(B), substituted “the Central Intel
 1986—Subsec. (d). Pub. L. 99–556, §405(a), which directed that subsec. (d) be amended by substituting “which was deducted and withheld from the individual's basic pay under the other retirement system” for “which would have been deducted from pay under section 4071c(a) of this title had the individual been a participant”, was executed by making the substitution for “which would have been deducted from pay under section 4071e(a) of this title had the individual been a participant”, as the probable intent of Congress.
 
 Subsec. (e). Pub. L. 99–556, §405(b), added subsec. (e).
+
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–346 effective upon the close of calendar year 2000 and applicable thereafter, see section 101(a) \[title V, §505(i)\] of Pub. L. 106–346, set out as a note under section 8334 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1997 Amendment
 

@@ -2,7 +2,7 @@
 
 The Secretary shall promulgate, and may amend, such rules and regulations as he deems necessary to accomplish the purposes of this subchapter. Such rules and regulations shall include, but are not limited to—
 
-&emsp;(a) standards for the use and development of privately owned property within the recreation area, which rules or regulations the Secretary may, to the extent he deems advisable, implement with the authorities delegated to him in section 460gg–6 of this title, and which may differ among the various parcels of land within the recreation area;
+&emsp;(a) standards for the use and development of privately owned property within the recreation area, which rules or regulations the Secretary may, to the extent he deems advisable,implement with the authorities delegated to him in section 460gg–6 of this title, and which may differ among the various parcels of land within the recreation area;
 
 &emsp;(b) standards and guidelines to insure the full protection and preservation of the historic, archeological, and paleontological resources in the recreation area;
 

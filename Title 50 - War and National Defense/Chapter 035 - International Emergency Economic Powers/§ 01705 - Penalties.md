@@ -18,5 +18,5 @@ Pub. L. 102–393 substituted “$50,000” for “$10,000”.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 18 section 1956; title 22 section 2778.
+This section is referred to in title 18 section 1956; title 22 sections 2778, 7108.
 

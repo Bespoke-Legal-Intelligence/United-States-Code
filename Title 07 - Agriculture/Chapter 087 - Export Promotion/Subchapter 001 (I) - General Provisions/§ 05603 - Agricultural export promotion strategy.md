@@ -60,9 +60,3 @@ The strategy developed under subsection (a) of this section shall have the follo
 
 Section 4404 of Pub. L. 100–418 provided that: “The Secretary of Agriculture shall actively use Department of Agriculture concessional programs and export credit guarantee programs to promote the export of wood and processed wood products.”
 
-#### Cross References
-
-North American Free Trade Agreement Implementation Act, see section 3301 et seq. of Title 19, Customs Duties.
-
-Uruguay Round Agreements Act, see section 3501 et seq. of Title 19.
-

@@ -4,7 +4,7 @@
 
 The following costs are not allowable under a covered contract:
 
-&emsp;(1) Costs of entertainment, including amusement, diversion, and social activities and anycosts directly associated with such costs (such as tickets to shows or sports events, meals, lodging, rentals, transportation, and gratuities).
+&emsp;(1) Costs of entertainment, including amusement, diversion, and social activities and any costs directly associated with such costs (such as tickets to shows or sports events, meals, lodging, rentals, transportation, and gratuities).
 
 &emsp;(2) Costs incurred to influence (directly or indirectly) legislative action on any matter pending before Congress or a State legislature.
 

@@ -156,10 +156,6 @@ Ex. Ord. No. 12268, Jan. 15, 1981, 46 F.R. 4671, provided for the implementation
 
 Ex. Ord. No. 12313, July 13, 1981, 46 F.R. 36689, designated Jan. 11, 1981, as date on which all citizens and resident aliens of the United States who had been placed in captive status as a result of seizure of United States Embassy in Iran were returned to United States or otherwise accounted for and were no longer under foreign control.
 
-#### Cross References
-
-Payments to missing members of the uniformed services, see section 551 et seq. of Title 37, Pay and Allowances of the Uniformed Services.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 5564, 5569 of this title; title 10 sections 4342, 6954, 9342; title 26 sections 112, 6013.

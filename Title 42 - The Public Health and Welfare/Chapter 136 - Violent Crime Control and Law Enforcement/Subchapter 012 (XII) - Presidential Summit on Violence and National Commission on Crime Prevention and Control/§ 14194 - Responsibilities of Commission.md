@@ -30,7 +30,7 @@ In addressing the subject of the causes of the demand for drugs, the activities 
 
 &emsp;&emsp;(A) The characteristics of potential illicit drug users and abusers or drug traffickers, including age and social, economic, and educational backgrounds.
 
-&emsp;&emsp;(B) Environmental factors that contribute to illicit drug use and abuse, including the correlation between unemployment, poverty, and homelessness and drug experimentation and abuse.
+&emsp;&emsp;(B) Environmental factors that contribute to illicit drug use and abuse, including thecorrelation between unemployment, poverty, and homelessness and drug experimentation and abuse.
 
 &emsp;&emsp;(C) The effects of substance use and abuse by a relative or friend in contributing to the likelihood and desire of an individual to experiment with illicit drugs.
 

@@ -28,7 +28,7 @@
 
 #### (b) Notice of filing time; publication; basis of decisions; finality of decision
 
-The Commission shall give public notice of the time when, and the limit of time within which,claims may be filed, which notice shall be published in the Federal Register. In addition, the Commission is authorized and directed to mail a similar notice to the last known address of each person appearing in the records of the Department of State as having indicated an intention of filing a claim with respect to a matter concerning which the Commission has jurisdiction under this subchapter. All decisions shall be upon such evidence and written legal contentions as may be presented within such period as may be prescribed therefor by the Commission, and upon the results of any independent investigation of cases which the Commission may deem it advisable to make. Each decision by the Commission pursuant to this subchapter shall be by majority vote, and shall state the reason for such decision, and shall constitute a full and final disposition of the case in which the decision is rendered.
+The Commission shall give public notice of the time when, and the limit of time within which, claims may be filed, which notice shall be published in the Federal Register. In addition, the Commission is authorized and directed to mail a similar notice to the last known address of each person appearing in the records of the Department of State as having indicated an intention of filing a claim with respect to a matter concerning which the Commission has jurisdiction under this subchapter. All decisions shall be upon such evidence and written legal contentions as may be presented within such period as may be prescribed therefor by the Commission, and upon the results of any independent investigation of cases which the Commission may deem it advisable to make. Each decision by the Commission pursuant to this subchapter shall be by majority vote, and shall state the reason for such decision, and shall constitute a full and final disposition of the case in which the decision is rendered.
 
 #### (c) Administration of oaths; examination of witnesses; subpenas; reporting of hearings; witness fees; contempt
 
@@ -52,7 +52,7 @@ The Attorney General shall assign such officers and employees of the Department 
 
 #### (h) Notification of disposition of claims; right to hearing; finality of Commission's decision
 
-The Commission shall notify all claimants of the approval or denial of their claims, stating the reasons and grounds therefor, and, if approved, shall notify such claimants of the amount for which such claims are approved. Any claimant whose claim is denied, or is approved for less than the full amount of such claim, shall be entitled, under such regulations as the Commission may prescribe, to a hearing before the Commission, or its duly authorized representatives, with respect to such claim. Upon such hearing, the Commission may affirm, modify, or revise its former action with respect to such claim, including a denial or reduction in the amount theretofore allowed with respect to such claim. The action of the Commission in allowing or denying any claim under this subchaptershall be final and conclusive on all questions of law and fact and not subject to review by the Secretary of State or any other official, department, agency, or establishment of the United States or by any court by mandamus or otherwise.
+The Commission shall notify all claimants of the approval or denial of their claims, stating the reasons and grounds therefor, and, if approved, shall notify such claimants of the amount for which such claims are approved. Any claimant whose claim is denied, or is approved for less than the full amount of such claim, shall be entitled, under such regulations as the Commission may prescribe, to a hearing before the Commission, or its duly authorized representatives, with respect to such claim. Upon such hearing, the Commission may affirm, modify, or revise its former action with respect to such claim, including a denial or reduction in the amount theretofore allowed with respect to such claim. The action of the Commission in allowing or denying any claim under this subchapter shall be final and conclusive on all questions of law and fact and not subject to review by the Secretary of State or any other official, department, agency, or establishment of the United States or by any court by mandamus or otherwise.
 
 #### (i) Separation of awards
 
@@ -70,7 +70,7 @@ In exercising authority granted after October 8, 1986, under this chapter or any
 
 #### References to This Subchapter Deemed To Include Section 119 of H.R. 2076
 
-References to this subchapter deemed to include section 119 of H.R. 2076, see section 119(b) of H.R. 2076, as enacted into law by Pub. L. 104–91, set out as an Authority of Foreign Claims Settlement Commission note under section 1644 of this title.
+References to this subchapter deemed to include section 119 of H.R. 2076, see section 119(b) of H.R. 2076, asenacted into law by Pub. L. 104–91, set out as an Authority of Foreign Claims Settlement Commission note under section 1644 of this title.
 
 #### Codification
 
@@ -102,29 +102,7 @@ For provisions transferring the Foreign Claims Settlement Commission of the Unit
 
 #### Protests Relating to Awards by Commission; Notice by Publication in Federal Register
 
-Act Mar. 10, 1950, ch. 54, title VI, §615, as added Oct. 18, 1976, Pub. L. 94–542, 90 Stat. 2512, provided that: “Notwithstanding the provision of sections 210 and 211 of the War Claims Act of 1948 (Act of July 3, 1948), as amended by Public Law 87–846 \[sections 2017i and 2017j of Title 50, Appendix, War and National Defense\], the Foreign Claims Settlement Commission established by Reorganization Plan No. 1 of 1954 (68 Stat. 1279) \[set out under section 1622 of this title\] is authorized and directed to receive and consider protests relating to awards made by the Commission during the ten calendar days immediately preceding the expiration of the Commission's mandate to make such awards on May 17, 1967. Any such protests must be filed within ninety days after notice of the enactment of this provision is filed with and published in the Federal Register, which shall take place within thirty days of enactment \[Oct. 18, 1976\]. Such protests may include the submission of new evidence not previously before the Commission, and shall be acted upon within thirty days after receipt by the Commission. The Commission may modifyawards made during the subject period in accordance with the procedures established by the War Claims Act of 1948, \[section 2001 et seq. of Title 50, Appendix\], and any increases in awards determined to be appropriated by the Commission shall be certified to and paid by the Secretary of the Treasury out of funds which are now or may hereafter become available in the War Claims Fund in accordance with section 213 of the Act \[section 2017<i>l</i> of Title 50, Appendix\].”
-
-#### Federal Rules of Civil Procedure
-
-Relief by action or motion instead of relief by mandamus, see rule 81, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-Subpoena, see rule 45.
-
-#### Cross References
-
-Claims against Bulgaria, Hungary, Rumania, Italy, and the Soviet Union, subsecs. (b) to (e), (h), and (j) of section as applicable, see section 1641q of this title.
-
-Claims against Cuba or China, subsecs. (b) to (e), (h), and (j) of section as applicable, see section 1643h of this title.
-
-Claims against Czechoslovakia, subsecs. (b) to (e), (h), and (j) of section as applicable, see section 1642<i>o</i> of this title.
-
-Claims against German Democratic Republic, subsecs. (b) to (e), (h), and (j) of section as applicable, see section 1644m of this title.
-
-Claims against Vietnam, subsecs. (b) to (e) and (h) of section as applicable, see section 1645n of this title.
-
-Contempt, punishment, see sections 401 and 402 of Title 18, Crimes and Criminal Procedure.
-
-Witnesses, fees, see chapter 119 of Title 28, Judiciary and Judicial Procedure.
+Act Mar. 10, 1950, ch. 54, title VI, §615, as added Oct. 18, 1976, Pub. L. 94–542, 90 Stat. 2512, provided that: “Notwithstanding the provision of sections 210 and 211 of the War Claims Act of 1948 (Act of July 3, 1948), as amended by Public Law 87–846 \[sections 2017i and 2017j of Title 50, Appendix, War and National Defense\], the Foreign Claims Settlement Commission established by Reorganization Plan No. 1 of 1954 (68 Stat. 1279) \[set out under section 1622 of this title\] is authorized and directed to receive and consider protests relating to awards made by the Commission during the ten calendar days immediately preceding the expiration of the Commission's mandate to make such awards on May 17, 1967. Any such protests must be filed within ninety days after notice of the enactment of this provision is filed with and published in the Federal Register, which shall take place within thirty days of enactment \[Oct. 18, 1976\]. Such protests may include the submission of new evidence not previously before the Commission, and shall be acted upon within thirty days after receipt by the Commission. The Commission may modify awards made during the subject period in accordance with the procedures established by the War Claims Act of 1948, \[section 2001 et seq. of Title 50, Appendix\], and any increases in awards determined to be appropriated by the Commission shall be certified to and paid by the Secretary of the Treasury out of funds which are now or may hereafter become available in the War Claims Fund in accordance with section 213 of the Act \[section 2017<i>l</i> of Title 50, Appendix\].”
 
 #### Section Referred to in Other Sections
 

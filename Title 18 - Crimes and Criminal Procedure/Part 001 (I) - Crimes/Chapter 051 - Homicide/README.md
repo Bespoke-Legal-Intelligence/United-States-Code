@@ -27,10 +27,6 @@
 
 1972—Pub. L. 92–539, title I, §102, Oct. 24, 1972, 86 Stat. 1071, added items 1116 and 1117.
 
-#### Cross References
-
-Wire or oral communications, authorization for interception, to provide evidence of murder, see section 2516 of this title.
-
 
 ---
 

@@ -22,7 +22,3 @@ This section \[section 50\] strikes the second sentence of section 3240 of title
 
 1949—Act May 24, 1949, struck out “The transfer of such prosecutions shall be made in the manner provided in section 119 of Title 28”.
 
-#### Federal Rules of Criminal Procedure
-
-Venue of criminal prosecutions, see rule 18 et seq., Appendix to this title.
-

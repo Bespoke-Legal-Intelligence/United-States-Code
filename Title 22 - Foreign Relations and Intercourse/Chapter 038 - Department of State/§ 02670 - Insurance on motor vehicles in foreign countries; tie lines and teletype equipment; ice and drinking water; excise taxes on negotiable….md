@@ -34,7 +34,7 @@ The Secretary of State is authorized to—
 
 Section was formerly classified to section 170h of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 
-Subsec. (e) of this section, relating to the payment of the actual expenses of preparing and transporting to their former homes the remains of persons, not United States Government employees, who die away from their homes while participating in international educational exchange activities under the jurisdiction of the Department of State, was omitted pursuant to Reorg. Plan No. 2 of 1977, §9(a)(7), 42 F.R. 62461, 91 Stat. 1639, set out under section 1461 of this title, effective on or before July 1, 1978, at such time as specified by the President, which abolished the functions of the Secretary of State under subsec. (e).
+Subsec. (e) of this section, relating to the payment of the actual expenses of preparing and transporting to their former homes the remains of persons, not United States Government employees, who die away from their homes while participating in international educational exchange activities under the jurisdiction ofthe Department of State, was omitted pursuant to Reorg. Plan No. 2 of 1977, §9(a)(7), 42 F.R. 62461, 91 Stat. 1639, set out under section 1461 of this title, effective on or before July 1, 1978, at such time as specified by the President, which abolished the functions of the Secretary of State under subsec. (e).
 
 #### Amendments
 

@@ -24,7 +24,7 @@ Amendment by Pub. L. 100–203 applicable to advances made on or after Dec. 22, 
 
 #### Retransfer of Amounts Transferred From Federal Unemployment Account to Employment Security Administration Account as of September 30, 1983
 
-Section 205(b) of Pub. L. 98–135 provided that: “Any amounts transferred from the Federal unemploymentaccount to the employment security administration account as of September 30, 1983, shall be transferred back to the Federal unemployment account.”
+Section 205(b) of Pub. L. 98–135 provided that: “Any amounts transferred from the Federal unemployment account to the employment security administration account as of September 30, 1983, shall be transferred back to the Federal unemployment account.”
 
 #### Section Referred to in Other Sections
 

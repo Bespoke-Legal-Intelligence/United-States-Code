@@ -10,7 +10,7 @@ Acceptance of compensation under an award in a compensation order filed by the d
 
 #### (c) Payment into section 944 fund operating as assignment
 
-The payment of such compensation into the fund established in section 944 of this title shalloperate as an assignment to the employer of all right of the legal representative of the deceased (hereinafter referred to as “representative”) to recover damages against such third person.
+The payment of such compensation into the fund established in section 944 of this title shall operate as an assignment to the employer of all right of the legal representative of the deceased (hereinafter referred to as “representative”) to recover damages against such third person.
 
 #### (d) Institution of proceedings or compromise by assignee
 
@@ -58,7 +58,7 @@ The right to compensation or benefits under this chapter shall be the exclusive 
 
 #### Amendments
 
-1984—Subsec. (b). Pub. L. 98–426, §21(a), substituted “Acceptance of compensation under an award in a compensation order filed by the deputy commissioner, an administrative law judge, or the Board shall operate as an assignment to the employer of all rights of the person entitled to compensation to recover damages against such third person unless such person shall commence an action against such third person within six months after such acceptance” for “Acceptance of suchcompensation under an award in a compensation order filed by the deputy commissioner or Board shall operate as an assignment to the employer of all right of the person entitled to compensation to recover damages against such third person unless such person shall commence an action against such third person within six months after such award” and inserted at end “If the employer fails to commence an action against such third person within ninety days after the cause of action is assigned under this section, the right to bring such action shall revert to the person entitled to compensation. For the purpose of this subsection, the term ‘award’ with respect to a compensation order means a formal order issued by the deputy commissioner, an administrative law judge, or Board.”
+1984—Subsec. (b). Pub. L. 98–426, §21(a), substituted “Acceptance of compensation under an award in a compensation order filed by the deputy commissioner, an administrative law judge, or the Board shall operate as an assignment to the employer of all rights of the person entitled to compensation to recover damages against such third person unless such person shall commence an action against such third person within six months after such acceptance” for “Acceptance of such compensation under an award in a compensation order filed by the deputy commissioner or Board shall operate as an assignment to the employer of all right of the person entitled to compensation to recover damages against such third person unless such person shall commence an action against such third person within six months after such award” and inserted at end “If the employer fails to commence an action against such third person within ninety days after the cause of action is assigned under this section, the right to bring such action shall revert to the person entitled to compensation. For the purpose of this subsection, the term ‘award’ with respect to a compensation order means a formal order issued by the deputy commissioner, an administrative law judge, or Board.”
 
 Subsec. (e)(2). Pub. L. 98–426, §21(b), struck out “, less one-fifth of such excess which shall belong to the employer” after “or to the representative”.
 
@@ -101,10 +101,6 @@ Amendment by Pub. L. 98–426 effective Sept. 28, 1984, and applicable both with
 #### Effective Date of 1972 Amendment
 
 Amendment by Pub. L. 92–576 effective 30 days after Oct. 27, 1972, see section 22 of Pub. L. 92–576, set out as a note under section 902 of this title.
-
-#### Cross References
-
-Third party tort liability to United States for hospital and medical care, see section 2651 et seq of Title 42, The Public Health and Welfare.
 
 #### Section Referred to in Other Sections
 

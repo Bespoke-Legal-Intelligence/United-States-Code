@@ -42,15 +42,15 @@
 
 &emsp;&emsp;(B) the administration of this subchapter and subchapter III of this chapter; and
 
-&emsp;(2) perform such other duties as the Board may direct with respect to investment fundsestablished in accordance with subchapter III of this chapter.
+&emsp;(2) perform such other duties as the Board may direct with respect to investment funds established in accordance with subchapter III of this chapter.
 
 (f) Section 14(a)(2) of the Federal Advisory Committee Act shall not apply to the Council.
 
 (Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 579; amended Pub. L. 103–89, §3(b)(1)(N), Sept. 30, 1993, 107 Stat. 982; Pub. L. 106–65, div. A, title VI, §661(a)(6), Oct. 5, 1999, 113 Stat. 672.)
 
-#### Contingent Amendment of Section
+#### Amendment of Section
 
-<i>Pub. L. 106–65, div. A, title VI, §§661(a)(6), 663, Oct. 5, 1999, 113 Stat. 672, 673, provided that effective only if the President proposes in the 2001 fiscal year budget and there is enacted in the second session of the One Hundred Sixth Congress qualifying offsetting legislation, this section is amended—</i>
+<i>Pub. L. 106–65, div. A, title VI, §§661(a)(6), 663, Oct. 5, 1999, 113 Stat. 672, 673, as amended by Pub. L. 106–398, §1 \[\[div. A\], title VI, §661(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–167, provided that effective 180 days after Oct. 30, 2000, unless postponed, this section is amended—</i>
 
 <i>(1) in subsection (a), by striking “14 members” and inserting “15 members”; and</i>
 
@@ -76,7 +76,7 @@ Section 14(a)(2) of the Federal Advisory Committee Act \[Pub. L. 92–463\], ref
 
 #### Effective Date of 1999 Amendment
 
-Amendment by Pub. L. 106–65 effective only if the President proposes in the 2001 fiscal year budget and there is enacted in the second session of the One Hundred Sixth Congress qualifying offsetting legislation, see section 663 of Pub. L. 106–65, set out as an Effective Date note under section 8440e of this title.
+Amendment by Pub. L. 106–65 effective 180 days after Oct. 30, 2000, unless postponed, see section 663 of Pub. L. 106–65, as amended, set out as an Effective Date note under section 8440e of this title.
 
 #### Effective Date of 1993 Amendment
 

@@ -2,7 +2,7 @@
 
 (a) Except as provided in section 1621a(d) of this title, subchapter III–A of this chapter, and section 1680c of this title, all reimbursements received or recovered, under authority of this chapter, Public Law 87–693 (42 U.S.C. 2651, et seq.), or any other provision of law, by reason of the provision of health services by the Service or by a tribe or tribal organization under a contract pursuant to the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\] shall be retained by the Service or that tribe or tribal organization and shall be available for the facilities, and to carry out the programs, of the Service or that tribe or tribal organization to provide health care services to Indians.
 
-(b) The Service may not offset or limit the amount of funds obligated to any service unit orany entity under contract with the Service because of the receipt of reimbursements under subsection (a) of this section.
+(b) The Service may not offset or limit the amount of funds obligated to any service unit or any entity under contract with the Service because of the receipt of reimbursements under subsection (a) of this section.
 
 (Pub. L. 94–437, title II, §207, as added Pub. L. 100–713, title II, §204, Nov. 23, 1988, 102 Stat. 4812; amended Pub. L. 102–573, title VII, §701(c)(1), Oct. 29, 1992, 106 Stat. 4572.)
 

@@ -16,6 +16,42 @@ This chapter, referred to in introductory clause, was in the original “this Ac
 
 1983—Par. (1)(C), (D). Pub. L. 98–52 added cl. (C) and redesignated former cl. (C) as (D).
 
+#### Definitions
+
+Pub. L. 106–391, §3, Oct. 30, 2000, 114 Stat. 1579, provided that: “For purposes of this Act \[see Tables for classification\]—
+
+&emsp;“(1) the term ‘Administrator’ means the Administrator of the National Aeronautics and Space Administration;
+
+&emsp;“(2) the term ‘commercial provider’ means any person providing space transportation services or other space-related activities, the primary control of which is held by persons other than a Federal, State, local, or foreign government;
+
+&emsp;“(3) the term ‘critical path’ means the sequence of events of a schedule of events under which a delay in any event causes a delay in the overall schedule;
+
+&emsp;“(4) the term ‘grant agreement’ has the meaning given that term in section 6302(2) of title 31, United States Code;
+
+&emsp;“(5) the term ‘institution of higher education’ has the meaning given such term in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001);
+
+&emsp;“(6) the term ‘State’ means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any other commonwealth, territory, or possession of the United States; and
+
+&emsp;“(7) the term ‘United States commercial provider’ means a commercial provider, organized under the laws of the United States or of a State, which is—
+
+&emsp;&emsp;“(A) more than 50 percent owned by United States nationals; or
+
+&emsp;&emsp;“(B) a subsidiary of a foreign company and the Secretary of Commerce finds that—
+
+&emsp;&emsp;&emsp;“(i) such subsidiary has in the past evidenced a substantial commitment to the United States market through—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) investments in the United States in long-term research, development, and manufacturing (including the manufacture of major components and subassemblies); and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) significant contributions to employment in the United States; and
+
+&emsp;&emsp;&emsp;“(ii) the country or countries in which such foreign company is incorporated or organized, and, if appropriate, in which it principally conducts its business, affords reciprocal treatment to companies described in subparagraph (A) comparable to that afforded to such foreign company's subsidiary in the United States, as evidenced by—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) providing comparable opportunities for companies described in subparagraph (A) to participate in Government sponsored research and development similar to that authorized under this Act;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) providing no barriers to companies described in subparagraph (A) with respect to local investment opportunities that are not provided to foreign companies in the United States; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) providing adequate and effective protection for the intellectual property rights of companies described in subparagraph (A).”
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 2486b of this title.

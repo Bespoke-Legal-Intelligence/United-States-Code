@@ -74,13 +74,3 @@ Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub.
 
 Procedure in condemnation proceedings, see rule 71A, Title 28, Appendix, Judiciary and Judicial Procedure.
 
-#### Cross References
-
-Condemnation of realty for sites and other uses, see section 257 of Title 40, Public Buildings, Property, and Works.
-
-Helium, conservation, production, purchase and sale of, authority of Secretary of the Interior, see section 167a of Title 50, War and National Defense.
-
-Original jurisdiction of district courts in condemnation proceedings, see section 1358 of Title 28, Judiciary and Judicial Procedure.
-
-Taking possession and title to lands, etc. in advance of final judgment, see sections 258a to 258e of Title 40, Public Buildings, Property, and Works.
-

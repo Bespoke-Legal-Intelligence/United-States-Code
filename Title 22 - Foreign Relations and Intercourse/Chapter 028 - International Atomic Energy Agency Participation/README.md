@@ -18,10 +18,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Cross References
-
-Atomic Energy Act of 1954, see section 2011 et seq. of Title 42, The Public Health and Welfare.
-
 
 ---
 

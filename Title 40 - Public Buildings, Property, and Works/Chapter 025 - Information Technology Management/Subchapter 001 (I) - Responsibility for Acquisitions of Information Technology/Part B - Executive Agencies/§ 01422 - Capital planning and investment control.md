@@ -2,7 +2,7 @@
 
 #### (a) Design of process
 
-In fulfilling the responsibilities assigned under section 3506(h) of title 44, the head of each executive agency shall design and implement in theexecutive agency a process for maximizing the value and assessing and managing the risks of the information technology acquisitions of the executive agency.
+In fulfilling the responsibilities assigned under section 3506(h) of title 44, the head of each executive agency shall design and implement in the executive agency a process for maximizing the value and assessing and managing the risks of the information technology acquisitions of the executive agency.
 
 #### (b) Content of process
 
@@ -24,5 +24,5 @@ The process of an executive agency shall—
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1451 of this title.
+This section is referred to in section 1451 of this title; title 10 section 2225.
 

@@ -30,13 +30,3 @@ Section 8 of act Sept. 14, 1950, provided that: “All temporary withdrawals of 
 
 The second sentence of section 9 of act Sept. 14, 1950, provided: “All provisions of law inconsistent with the provisions of this act \[this subchapter and sections 431a, 451a, 482m, 673b, and 673c of this title\] are hereby repealed to the extent of such inconsistency”.
 
-#### Cross References
-
-Conservation of elk within Grand Teton National Park, see section 673c of this title.
-
-Limitation on further extension or establishment of national parks in Wyoming, see section 451a of this title.
-
-National Elk Refuge in Wyoming, see section 673b of this title.
-
-Wyoming Elk Reserve, see sections 673 and 673a of this title.
-

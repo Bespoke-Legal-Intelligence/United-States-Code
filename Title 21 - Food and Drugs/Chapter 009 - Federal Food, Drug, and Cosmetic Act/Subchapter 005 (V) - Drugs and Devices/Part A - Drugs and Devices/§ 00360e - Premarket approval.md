@@ -64,7 +64,7 @@ A class III device—
 
 #### (d) Action on application for premarket approval
 
-(1)(A) As promptly as possible, but in no event later than one hundred and eighty days after thereceipt of an application under subsection (c) of this section (except as provided in section 360j(<i>l</i>)(3)(D)(ii) of this title or unless, in accordance with subparagraph (B)(i), an additional period as agreed upon by the Secretary and the applicant), the Secretary, after considering the report and recommendation submitted under paragraph (2) of such subsection, shall—
+(1)(A) As promptly as possible, but in no event later than one hundred and eighty days after the receipt of an application under subsection (c) of this section (except as provided in section 360j(<i>l</i>)(3)(D)(ii) of this title or unless, in accordance with subparagraph (B)(i), an additional period as agreed upon by the Secretary and the applicant), the Secretary, after considering the report and recommendation submitted under paragraph (2) of such subsection, shall—
 
 &emsp;(i) issue an order approving the application if he finds that none of the grounds for denying approval specified in paragraph (2) of this subsection applies; or
 
@@ -136,7 +136,7 @@ A class III device—
 
 #### (e) Withdrawal and temporary suspension of approval of application
 
-(1) The Secretary shall, upon obtaining, where appropriate, advice on scientific matters from a panel or panels under section 360c of this title, and after due notice and opportunity for informal hearing to the holder of an approved application for a device, issue an order withdrawing approval of the application if the Secretary finds—
+(1) The Secretary shall, upon obtaining, where appropriate, advice on scientific matters from a panel or panels under section 360c of this title, and after due notice and opportunity for informal hearing to the holder of an approved application for a device, issue an order withdrawingapproval of the application if the Secretary finds—
 
 &emsp;(A) that such device is unsafe or ineffective under the conditions of use prescribed, recommended, or suggested in the labeling thereof;
 
@@ -154,7 +154,7 @@ A class III device—
 
 (2) The holder of an application subject to an order issued under paragraph (1) withdrawing approval of the application may, by petition filed on or before the thirtieth day after the date upon which he receives notice of such withdrawal, obtain review thereof in accordance with either paragraph (1) or (2) of subsection (g) of this section.
 
-(3) If, after providing an opportunity for an informal hearing, the Secretary determines there is reasonable probability that the continuation of distribution of a device under an approved application would cause serious, adverse health consequences or death, the Secretary shall by order temporarily suspend the approval of the application approved under this section. If the Secretary issues such an order, the Secretaryshall proceed expeditiously under paragraph (1) to withdraw such application.
+(3) If, after providing an opportunity for an informal hearing, the Secretary determines there is reasonable probability that the continuation of distribution of a device under an approved application would cause serious, adverse health consequences or death, the Secretary shall by order temporarily suspend the approval of the application approved under this section. If the Secretary issues such an order, the Secretary shall proceed expeditiously under paragraph (1) to withdraw such application.
 
 #### (f) Product development protocol
 
@@ -258,7 +258,7 @@ Orders of the Secretary under this section shall be served (1) in person by any 
 
 (3) The Secretary shall, as promptly as is reasonably achievable, but not later than 12 months after the effective date of the regulation requiring a device to remain in class III, establish a schedule for the promulgation of a subsection (b) of this section regulation for each device which is subject to the regulation requiring the device to remain in class III.
 
-(June 25, 1938, ch. 675, §515, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 552; amended Pub. L. 101–629, §§4(b)(1), 9(a), 18(c), Nov. 28, 1990, 104 Stat. 4515, 4521, 4528; Pub. L. 103–80, §3(t), Aug. 13, 1993, 107 Stat. 778; Pub. L. 105–115, title II, §§201(b), 202, 205(c), 209(b), 216(b), Nov. 21, 1997, 111 Stat. 2334, 2338, 2341, 2349.)
+(June 25, 1938, ch. 675, §515, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 552; amended Pub. L. 101–629, §§4(b)(1), 9(a), 18(c), Nov. 28, 1990,104 Stat. 4515, 4521, 4528; Pub. L. 103–80, §3(t), Aug. 13, 1993, 107 Stat. 778; Pub. L. 105–115, title II, §§201(b), 202, 205(c), 209(b), 216(b), Nov. 21, 1997, 111 Stat. 2334, 2338, 2341, 2349.)
 
 #### Amendments
 

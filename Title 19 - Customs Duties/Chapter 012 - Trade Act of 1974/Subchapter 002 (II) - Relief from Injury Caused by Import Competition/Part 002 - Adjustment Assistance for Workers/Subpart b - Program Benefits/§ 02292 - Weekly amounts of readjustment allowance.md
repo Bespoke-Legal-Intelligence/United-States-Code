@@ -18,10 +18,6 @@ If a training allowance under any Federal law other than this chapter is paid to
 
 (Pub. L. 93–618, title II, §232, Jan. 3, 1975, 88 Stat. 2021; Pub. L. 97–35, title XXV, §2504(a), Aug. 13,1981, 95 Stat. 883; Pub. L. 99–272, title XIII, §13003(c), Apr. 7, 1986, 100 Stat. 301; Pub. L. 100–418, title I, §1423(b), Aug. 23, 1988, 102 Stat. 1246.)
 
-#### Termination of Section
-
-<i>For termination of section by section 285 of Pub. L. 93–618, see Termination Date note set out preceding section 2271 of this title.</i>
-
 #### References in Text
 
 This chapter, referred to in subsec. (c), was in the original “this Act”, meaning Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of this title and Tables.
@@ -49,6 +45,10 @@ Amendment by section 1423(b)(1) effective Aug. 23, 1988, and amendment by sectio
 #### Effective Date of 1981 Amendment and Transition Provisions
 
 Amendment by Pub. L. 97–35 applicable to allowances payable for weeks of unemployment which begin after Sept. 30, 1981, with transition provisions applicable, see section 2514 of Pub. L. 97–35, set out as a note under section 2291 of this title.
+
+#### Termination Date
+
+No assistance, vouchers, allowances, or other payments may be provided under subparts A to C of this part after Sept. 30, 2001, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
 
 #### Reference to Subsection (d) Deemed Reference to (c)
 

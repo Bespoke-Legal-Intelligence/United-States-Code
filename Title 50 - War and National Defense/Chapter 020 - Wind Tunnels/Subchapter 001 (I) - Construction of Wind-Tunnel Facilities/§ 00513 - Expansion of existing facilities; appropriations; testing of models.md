@@ -1,14 +1,18 @@
 ### §513. Expansion of existing facilities; appropriations; testing of models
 
-(a) The Administrator is authorized to expand the facilities at his existing laboratories by the construction of additional supersonic wind tunnels, including buildings, equipment, and accessory construction, and by the acquisition of land and installation of utilities.
+(a) The Administrator is authorized to expand the facilities at his existing laboratories and centers by the construction of additional transsonic, supersonic, and hypersonic wind tunnels, including buildings, equipment, and accessory construction, and by the acquisition of land and installation of utilities.
 
 (b) There is authorized to be appropriated such sums as may be necessary to carry out the purposes of this section, but not to exceed $136,000,000.
 
-(c) The facilities authorized by this section shall be operated and staffed by the Administrator but shall be available primarily to industry for testing experimental models in connection with the development of aircraft and missiles. Such tests shall be scheduled and conducted in accordance with industry's requirements and allocation of laboratory time shall be made in accordance with the public interest, with proper emphasis upon the requirements of each military service and due consideration of civilian needs.
+(c) The facilities authorized by this section shall be operated and staffed by the Administrator but shall be available primarily to industry for testing experimental models in connection with the development of aircraft and missiles. Such tests shall be scheduled and conducted in accordance with industry's requirements and allocation of facility time shall be made in accordance with the public interest, with proper emphasis upon the requirements of each military service and due consideration of civilian needs.
 
-(Oct. 27, 1949, ch. 766, title I, §103, 63 Stat. 937; Pub. L. 85–568, title III, §301(d)(2), (3), July 29, 1958, 72 Stat. 433.)
+(Oct. 27, 1949, ch. 766, title I, §103, 63 Stat. 937; Pub. L. 85–568, title III, §301(d)(2), (3), July 29, 1958, 72 Stat. 433; Pub. L. 106–391, title III, §312(2), Oct. 30, 2000, 114 Stat. 1594.)
 
 #### Amendments
+
+2000—Subsec. (a). Pub. L. 106–391, §312(2)(A), (B), substituted “laboratories and centers” for “laboratories” and “transsonic, supersonic, and hypersonic” for “supersonic”.
+
+Subsec. (c). Pub. L. 106–391, §312(2)(C), substituted “facility” for “laboratory”.
 
 1958—Subsecs. (a), (c). Pub. L. 85–568 substituted “Administrator” for “Committee” in subsecs. (a) and (c), and “his” for “its” in subsec. (a).
 

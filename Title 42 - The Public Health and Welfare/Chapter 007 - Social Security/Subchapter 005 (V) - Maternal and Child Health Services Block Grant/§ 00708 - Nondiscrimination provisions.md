@@ -12,7 +12,7 @@ Whenever the Secretary finds that a State, or an entity that has received a paym
 
 &emsp;(1) refer the matter to the Attorney General with a recommendation that an appropriate civil action be instituted,
 
-&emsp;(2) exercise the powers and functions provided by title VI of the Civil Rights Act of 1964 \[42 U.S.C. 2000d et seq.\], the Age Discrimination Act of 1975 \[42 U.S.C. 6101 et seq.\], or section 504 of the Rehabilitation Act of 1973 \[29 U.S.C. 794\], as may be applicable, or
+&emsp;(2) exercise the powers and functions provided by title VI of the Civil Rights Act of 1964\[42 U.S.C. 2000d et seq.\], the Age Discrimination Act of 1975 \[42 U.S.C. 6101 et seq.\], or section 504 of the Rehabilitation Act of 1973 \[29 U.S.C. 794\], as may be applicable, or
 
 &emsp;(3) take such other action as may be provided by law.
 

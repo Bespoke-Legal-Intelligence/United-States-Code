@@ -16,7 +16,3 @@
 
 Amendment by Pub. L. 100–173 effective 90 days after Nov. 23, 1987, see section 12 of Pub. L. 100–173, set out as a note under section 182 of this title.
 
-#### Cross References
-
-Application to certain licensees, see section 218c of this title.
-

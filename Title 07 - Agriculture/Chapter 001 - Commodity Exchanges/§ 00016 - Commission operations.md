@@ -6,11 +6,11 @@ The Commission may cooperate with any Department or agency of the Government, an
 
 #### (b) Employment of investigators, experts, Administrative Law Judges, consultants, clerks, and other personnel; contracts
 
-(1) The Commission shall have the authority to employ such investigators, special experts, Administrative Law Judges, clerks, and other employees as it may from time to time find necessary for the proper performance of its duties and as may be from time to time appropriated for by Congress.
+(1) The Commission shall have the authority to employ such investigators, special experts,Administrative Law Judges, clerks, and other employees as it may from time to time find necessary for the proper performance of its duties and as may be from time to time appropriated for by Congress.
 
 (2) The Commission may employ experts and consultants in accordance with section 3109 of title 5, and compensate such persons at rates not in excess of the maximum daily rate prescribed for GS–18 under section 5332 of title 5.
 
-(3) The Commission shall also have authority to make and enter into contracts with respect toall matters which in the judgment of the Commission are necessary and appropriate to effectuate the purposes and provisions of this chapter, including, but not limited to, the rental of necessary space at the seat of Government and elsewhere.
+(3) The Commission shall also have authority to make and enter into contracts with respect to all matters which in the judgment of the Commission are necessary and appropriate to effectuate the purposes and provisions of this chapter, including, but not limited to, the rental of necessary space at the seat of Government and elsewhere.
 
 (4) The Commission may request (in accordance with the procedures set forth in subchapter II of chapter 31 of title 5) and the Office of Personnel Management shall authorize pursuant to the request, eight positions in the Senior Executive Service in addition to the number of such positions authorized for the Commission on October 28, 1992.
 
@@ -20,19 +20,29 @@ All of the expenses of the Commissioners, including all necessary expenses for t
 
 #### (d) Authorization of appropriations
 
-There are authorized to be appropriated such sums as are necessary to carry out this chapter for each of fiscal years 1995 through 2000.
+There are authorized to be appropriated such sums as are necessary to carry out this chapter for each of fiscal years 1995 through 2005.
 
-#### (e) Relation to other laws, departments, or agencies
+#### (e) Relation to other law, departments, or agencies
 
-Nothing in this chapter shall supersede or preempt—
+(1) Nothing in this chapter shall supersede or preempt—
 
-&emsp;(1) criminal prosecution under any Federal criminal statute;
+&emsp;(A) criminal prosecution under any Federal criminal statute;
 
-&emsp;(2) the application of any Federal or State statute, including any rule or regulation thereunder, to any transaction in or involving any commodity, product, right, service, or interest (A) that is not conducted on or subject to the rules of a contract market, or, in the case of any State or local law that prohibits or regulates gaming or the operation of “bucket shops” (other than antifraud provisions of general applicability), that is not a transaction or class of transactions that has received or is covered by the terms of any exemption previously granted by the Commission under subsection (c) of section 6 of this title, or (B) (except as otherwise specified by the Commission by rule or regulation) that is not conducted on or subject to the rules of any board of trade, exchange, or market located outside the United States, its territories or possessions, or (C) that is not subject to regulation by the Commission under section 6c or 23 of this title; or
+&emsp;(B) the application of any Federal or State statute (except as provided in paragraph (2)), including any rule or regulation thereunder, to any transaction in or involving any commodity, product, right, service, or interest—
 
-&emsp;(3) the application of any Federal or State statute, including any rule or regulation thereunder, to any person required to be registered or designated under this chapter who shall fail or refuse to obtain such registration or designation.
+&emsp;&emsp;(i) that is not conducted on or subject to the rules of a registered entity or exempt board of trade;
 
-> The Commission may refer any transaction or matter subject to such other Federal or State statutes to any department or agency administering such statutes for such investigation, action, or proceedings as that department or agency shall deem appropriate.
+&emsp;&emsp;(ii) (except as otherwise specified by the Commission by rule or regulation) that is not conducted on or subject to the rules of any board of trade, exchange, or market located outside the United States, its territories or possessions; or
+
+&emsp;&emsp;(iii) that is not subject to regulation by the Commission under section 6c or 23 of this title; or
+
+&emsp;(C) the application of any Federal or State statute, including any rule or regulation thereunder, to any person required to be registered or designated under this chapter who shall fail or refuse to obtain such registration or designation.
+
+(2) This chapter shall supersede and preempt the application of any State or local law that prohibits or regulates gaming or the operation of bucket shops (other than antifraud provisions of general applicability) in the case of—
+
+&emsp;(A) an electronic trading facility excluded under section 2(e) of this title; and
+
+&emsp;(B) an agreement, contract, or transaction that is excluded from this chapter under section 2(c), 2(d), 2(f), or 2(g) of this title or sections 27 to 27f of this title, or exempted under section 2(h) or 6(c) of this title (regardless of whether any such agreement, contract, or transaction is otherwise subject to this chapter).
 
 #### (f) Investigative assistance to foreign futures authorities
 
@@ -50,9 +60,13 @@ Nothing in this chapter shall supersede or preempt—
 
 Consistent with its responsibilities under section 22 of this title, the Commission is directed to facilitate the development and operation of computerized trading as an adjunct to the open outcry auction system. The Commission is further directed to cooperate with the Office of the United States Trade Representative, the Department of the Treasury, the Department of Commerce, and the Department of State in order to remove any trade barriers that may be imposed by a foreign nation on the international use of electronic trading systems.
 
-(Sept. 21, 1922, ch. 369, §12, 42 Stat. 1003; Pub. L. 93–463, title I, §101(b), Oct. 23, 1974, 88 Stat. 1391; Pub. L. 95–405, §20, Sept. 30, 1978, 92 Stat. 875; Pub. L. 97–444, title II, §§228, 229, Jan. 11, 1983, 96 Stat. 2318; Pub. L. 99–641, title I, §106, Nov. 10, 1986, 100 Stat. 3558; Pub. L. 102–546, title II, §§216, 220(a), title III, §§302, 303, title IV, §401, title V, §502(c), Oct. 28, 1992, 106 Stat. 3611, 3614, 3622, 3624, 3631; Pub. L. 104–9, §2, Apr. 21, 1995, 109 Stat. 154.)
+(Sept. 21, 1922, ch. 369, §12, 42 Stat. 1003; Pub. L. 93–463, title I, §101(b), Oct. 23, 1974, 88 Stat. 1391; Pub. L. 95–405, §20, Sept. 30, 1978, 92 Stat. 875; Pub. L. 97–444, title II, §§228, 229, Jan. 11, 1983, 96Stat. 2318; Pub. L. 99–641, title I, §106, Nov. 10, 1986, 100 Stat. 3558; Pub. L. 102–546, title II, §§216, 220(a), title III, §§302, 303, title IV, §401, title V, §502(c), Oct. 28, 1992, 106 Stat. 3611, 3614, 3622, 3624, 3631; Pub. L. 104–9, §2, Apr. 21, 1995, 109 Stat. 154; Pub. L. 106–554, §1(a)(5) \[title I, §§116, 117\], Dec. 21, 2000, 114 Stat. 2763, 2763A–402.)
 
 #### Amendments
+
+2000—Subsec. (d). Pub. L. 106–554, §1(a)(5) \[title I, §116\], substituted “2005” for “2000”.
+
+Subsec. (e). Pub. L. 106–554, §1(a)(5) \[title I, §117\], added subsec. (e) and struck out former subsec. (e) which provided that this chapter did not supersede or preempt criminal prosecutions under Federal criminal statutes or the application of any Federal or State statute to certain specified transactions and persons.
 
 1995—Subsec. (d). Pub. L. 104–9 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “There are authorized to be appropriated to carry out this chapter—
 
@@ -100,5 +114,5 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 15 of this title.
+This section is referred to in sections 2, 7a–3, 15 of this title.
 

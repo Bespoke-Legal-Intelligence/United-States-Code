@@ -38,7 +38,7 @@ The Commissioner of Social Security shall establish and maintain lists which sha
 
 &emsp;&emsp;(A) the person has been convicted of a violation of section 408, 1011, or 1383a of this title;
 
-&emsp;&emsp;(B) except as provided in paragraph (2), payment of benefits to the person in the capacity of representative payee has been revoked or terminated under this section, section 405(j) of this title, or section 1383(a)(2)(A)(ii) <sup>1</sup> of this title by reason ofmisuse of funds paid as benefits under this subchapter, subchapter II, or subchapter XVI of this chapter, respectively; or
+&emsp;&emsp;(B) except as provided in paragraph (2), payment of benefits to the person in the capacity of representative payee has been revoked or terminated under this section, section 405(j) of this title, or section 1383(a)(2)(A)(ii) <sup>1</sup> of this title by reason of misuse of funds paid as benefits under this subchapter, subchapter II, or subchapter XVI of this chapter, respectively; or
 
 &emsp;&emsp;(C) except as provided in paragraph (2)(B), the person is a creditor of the qualified individual and provides the qualified individual with goods or services for consideration.
 
@@ -94,7 +94,7 @@ Any qualified individual who is dissatisfied with a determination by the Commiss
 
 #### (1) In general
 
-&emsp;In advance, to the extent practicable, of the payment of a qualified individual's benefit to a representative payee under subsection (a) of this section, the Commissioner of Social Security shall provide written notice of the Commissioner's initial determination to so make the payment. The notice shall be provided to the qualified individual, except that, if the qualified individual is legally incompetent, then the notice shall be provided solely to the legal guardian or legal representative of the qualified individual.
+&emsp;In advance, to the extent practicable, of the payment of a qualified individual's benefit to a representative payee under subsection (a) of this section, the Commissioner of Social Security shall provide written notice of the Commissioner's initial determination to so make the payment. The notice shall be provided to the qualified individual, except that, if the qualified individual is legally incompetent, then the notice shall be provided solely to thelegal guardian or legal representative of the qualified individual.
 
 #### (2) Specific requirements
 

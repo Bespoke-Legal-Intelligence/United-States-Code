@@ -56,7 +56,7 @@ Any person who enters into an agreement with the Corporation under subsection (b
 
 #### (g) Treatment of Federal Triangle development area
 
-For purposes of the Pennsylvania Avenue Development Corporation Act of 1972 \[40 U.S.C. 871 et seq.\] (other than section 5) \[40 U.S.C. 874\], theFederal Triangle development area shall be treated as being a part of the development area described in section 2(f) of such Act (40 U.S.C. 871(f)). The Corporation shall have the same authority with respect to the Federal Triangle development area as it has with respect to the development area described in such section 2(f).
+For purposes of the Pennsylvania Avenue Development Corporation Act of 1972 \[40 U.S.C. 871 et seq.\] (other than section 5) \[40 U.S.C. 874\], the Federal Triangle development area shall be treated as being a part of the development area described in section 2(f) of such Act (40 U.S.C. 871(f)). The Corporation shall have the same authority with respect to the Federal Triangle development area as it has with respect to the development area described in such section 2(f).
 
 #### (h) Powers of Corporation
 

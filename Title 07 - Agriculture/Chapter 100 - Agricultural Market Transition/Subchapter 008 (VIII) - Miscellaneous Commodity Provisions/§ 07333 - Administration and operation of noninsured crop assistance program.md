@@ -20,6 +20,10 @@
 
 &emsp;&emsp;The term “eligible crop” shall include floricultural, ornamental nursery, and Christmas tree crops, turfgrass sod, seed crops, aquaculture (including ornamental fish), and industrial crops.
 
+#### (C) Combination of similar types or varieties
+
+&emsp;&emsp;At the option of the Secretary, all types or varieties of a crop or commodity, described in subparagraphs (A) and (B), may be considered to be a single eligible crop under this section.
+
 #### (3) Cause of loss
 
 &emsp;To qualify for assistance under this section, the losses of the noninsured commodity shall be due to drought, flood, or other natural disaster, as determined by the Secretary.
@@ -28,29 +32,33 @@
 
 #### (1) Timely application
 
-&emsp;To be eligible for assistance under this section, a producer shall submit an application for noninsured crop disaster assistance at a local office of the Department. The application shall be in such form, contain such information, and be submitted at such time as the Secretary may require.
+&emsp;To be eligible for assistance under this section, a producer shall submit an application for noninsured crop disaster assistance at a local office of the Department. The application shall be in such form, contain such information, and be submitted not later than 30 days before the beginning of the coverage period, as determined by the Secretary.
 
 #### (2) Records
 
-&emsp;A producer shall provide records, as required by the Secretary, of crop acreage, acreage yields, and production.
+&emsp;To be eligible for assistance under this section, a producer shall provide annually to the Secretary records of crop acreage, acreage yields, and production for each crop, as required by the Secretary.
 
 #### (3) Acreage reports
 
-&emsp;A producer shall provide reports on acreage planted or prevented from being planted, as required by the Secretary, by the designated acreage reporting date for the crop and location as established by the Secretary.
+&emsp;A producer shall provide annual reports on acreage planted or prevented from being planted, as required by the Secretary, by the designated acreage reporting date for the crop and location as established by the Secretary.
 
 #### (c) Loss requirements
 
-#### (1) Required area loss
+#### (1) Cause
 
-&emsp;A producer of an eligible crop shall not receive noninsured crop disaster assistance unless the average yield for that crop, or an equivalent measure in the event yield data are not available, in an area falls below 65 percent of the expected area yield, as established by the Secretary.
+&emsp;To be eligible for assistance under this section, a producer of an eligible crop shall have suffered a loss of a noninsured commodity as the result of a cause described in subsection (a)(3) of this section.
 
-#### (2) Prevented planting
+#### (2) Assistance
 
-&emsp;Subject to paragraph (1), the Secretary shall make a prevented planting noninsured cropdisaster assistance payment if the producer is prevented from planting more than 35 percent of the acreage intended for the eligible crop because of drought, flood, or other natural disaster, as determined by the Secretary.
+&emsp;On making a determination described in subsection (a)(3) of this section, the Secretary shall provide assistance under this section to producers of an eligible crop that have suffered a loss as a result of the cause described in subsection (a)(3) of this section.
 
-#### (3) Reduced yields
+#### (3) Prevented planting
 
-&emsp;Subject to paragraph (1), the Secretary shall make a reduced yield noninsured crop disaster assistance payment to a producer if the total quantity of the eligible crop that the producer is able to harvest on any farm is, because of drought, flood, or other natural disaster as determined by the Secretary, less than 50 percent of the expected individual yield for the crop, as determined by the Secretary, factored for the interest of the producer for the crop.
+&emsp;Subject to paragraph (1), the Secretary shall make a prevented planting noninsured crop disaster assistance payment if the producer is prevented from planting more than 35 percent of the acreage intended for the eligible crop because of drought, flood, or other natural disaster, as determined by the Secretary.
+
+#### (4) Area trigger
+
+&emsp;The Secretary shall provide assistance to individual producers without any requirement of an area loss.
 
 #### (d) Payment
 
@@ -120,7 +128,7 @@ The Secretary shall make available to a producer eligible for noninsured assista
 
 #### (f) Contract payments
 
-A producer who has received a guaranteed payment for production, as opposed to delivery,of a crop pursuant to a contract shall have the production of the producer adjusted upward by the amount of the production equal to the amount of the contract payment received.
+A producer who has received a guaranteed payment for production, as opposed to delivery, of a crop pursuant to a contract shall have the production of the producer adjusted upward by the amount of the production equal to the amount of the contract payment received.
 
 #### (g) Use of Commodity Credit Corporation
 
@@ -176,7 +184,27 @@ Noninsured crop disaster assistance under this section shall not cover losses du
 
 &emsp;The Secretary shall issue regulations prescribing such rules as the Secretary determines necessary to ensure a fair and equitable application of section 1308 of this title, the general payment limitation regulations of the Secretary, and the limitations established under this subsection.
 
-(Pub. L. 104–127, title I, §196, Apr. 4, 1996, 110 Stat. 947; Pub. L. 105–277, div. A, §101(a) \[title VIII, §803(b)\], Oct. 21, 1998, 112 Stat. 2681, 2681–38.)
+#### (j) Omitted
+
+#### (k) Service fee
+
+#### (1) In general
+
+&emsp;To be eligible to receive assistance for an eligible crop for a crop year under this section, a producer shall pay to the Secretary (at the time at which the producer submits the application under subsection (b)(1) of this section) a service fee for the eligible crop in an amount that is equal to the lesser of—
+
+&emsp;&emsp;(A) $100 per crop per county; or
+
+&emsp;&emsp;(B) $300 per producer per county, but not to exceed a total of $900 per producer.
+
+#### (2) Waiver
+
+&emsp;The Secretary shall waive the service fee required under paragraph (1) in the case of a limited resource farmer, as defined by the Secretary.
+
+#### (3) Use
+
+&emsp;The Secretary shall deposit service fees collected under this subsection in the Commodity Credit Corporation Fund.
+
+(Pub. L. 104–127, title I, §196, Apr. 4, 1996, 110 Stat. 947; Pub. L. 105–277, div. A, §101(a) \[title VIII, §803(b)\], Oct. 21, 1998, 112 Stat. 2681, 2681–38; Pub. L. 106–224, title I, §109, June 20, 2000, 114 Stat. 371.)
 
 #### References in Text
 
@@ -190,5 +218,29 @@ Section is comprised of section 196 of Pub. L. 104–127. Subsec. (j) of section
 
 #### Amendments
 
+2000—Subsec. (a)(2)(C). Pub. L. 106–224, §109(a), added subpar. (C).
+
+Subsec. (b)(1). Pub. L. 106–224, §109(b), substituted “not later than 30 days before the beginning of the coverage period, as determined by the Secretary” for “at such time as the Secretary may require” in second sentence.
+
+Subsec. (b)(2). Pub. L. 106–224, §109(c)(1), added par. (2) and struck out heading and text of former par. (2). Text read as follows: “A producer shall provide records, as required by the Secretary, of crop acreage, acreage yields, and production.”
+
+Subsec. (b)(3). Pub. L. 106–224, §109(c)(2), inserted “annual” after “shall provide”.
+
+Subsec. (c). Pub. L. 106–224, §109(d), added subsec. (c) and struck out heading and text of former subsec. (c), which authorized noninsured crop disaster assistance if average yield fell below 65 percent of expected yield, if producer was prevented from planting more than 35 percent of intended acreage, or if total quantity of harvest was less than 50 percent of expected yield.
+
+Subsec. (k). Pub. L. 106–224, §109(e), added subsec. (k).
+
 1998–Subsec. (i)(3). Pub. L. 105–277 designated existing provisions as subpar. (A), inserted heading, substituted “Except as provided in subparagraph (B), if a producer” for “If a producer”, and added subpar. (B).
+
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–224 applicable beginning with the 2001 crop of an agricultural commodity, see section 171(b)(2)(G) of Pub. L. 106–224, set out as a note under section 1501 of this title.
+
+#### Savings Clause
+
+Section as in effect on day before June 20, 2000, to continue to apply with respect to 1999 crop year, and to apply with respect to 2000 crop year, to extent application of an amendment by Pub. L. 106–224 is delayed under section 171(b) or by terms of the amendment, see section 173 of Pub. L. 106–224, set out as a note under section 1501 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1506, 1508a, 1515, 1522 of this title.
 

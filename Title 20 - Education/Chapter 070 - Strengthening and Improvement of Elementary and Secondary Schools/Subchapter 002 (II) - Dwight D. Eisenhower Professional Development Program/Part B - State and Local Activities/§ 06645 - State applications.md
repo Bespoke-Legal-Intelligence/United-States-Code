@@ -26,13 +26,13 @@ Each State educational agency that wishes to receive an allotment under this par
 
 &emsp;&emsp;(F) a description of how programs in all core academic subjects, but especially in mathematics and science, will take into account the need for greater access to, and participation in, such disciplines by students from historically underrepresented groups, including females, minorities, individuals with limited English proficiency, the economically disadvantaged, and individuals with disabilities, by incorporating pedagogical strategies and techniques which meet such individuals’ educational needs;
 
-&emsp;&emsp;(G) be consistent with the State's needs assessment under subparagraph (C), and describe how the State will work with teachers, including teachers in schools receiving assistance under part A of subchapter I ofthis chapter, administrators, parents, local educational agencies, schools, educational service agencies, institutions of higher education, and nonprofit organizations of demonstrated effectiveness, to ensure that such individuals develop the capacity to support sustained and intensive, high-quality professional development programs in the core academic subjects;
+&emsp;&emsp;(G) be consistent with the State's needs assessment under subparagraph (C), and describe how the State will work with teachers, including teachers in schools receiving assistance under part A of subchapter I of this chapter, administrators, parents, local educational agencies, schools, educational service agencies, institutions of higher education, and nonprofit organizations of demonstrated effectiveness, to ensure that such individuals develop the capacity to support sustained and intensive, high-quality professional development programs in the core academic subjects;
 
 &emsp;&emsp;(H) describe how the State requirements for licensure of teachers and administrators, including certification and recertification, support challenging State content standards and challenging State student performance standards and whether such requirements are aligned with such standards;
 
 &emsp;&emsp;(I) address the need for improving teaching and learning through teacher development beginning with recruitment, preservice, and induction, and continuing throughout the professional teaching career, taking into account the need, as determined by the State, for greater access to and participation in the teaching profession by individuals from historically underrepresented groups;
 
-&emsp;&emsp;(J) describe how the State will prepare all teachers to teach children with diverse learning needs, including children with disabilities;
+&emsp;&emsp;(J) describe how the State will prepare all teachers to teach children with diverselearning needs, including children with disabilities;
 
 &emsp;&emsp;(K) describe how the State will prepare teachers, and, where appropriate, paraprofessionals, pupil services personnel, and other staff in the collaborative skills needed to appropriately teach children with disabilities, in the core academic subjects;
 

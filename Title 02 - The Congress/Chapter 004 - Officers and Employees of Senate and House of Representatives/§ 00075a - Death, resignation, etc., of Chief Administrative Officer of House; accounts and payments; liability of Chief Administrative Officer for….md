@@ -16,10 +16,6 @@ Pub. L. 104–186, §204(19)(D), inserted at end “The accounts and payments re
 
 1972—Pub. L. 92–310 struck out provisions which related to the sureties on the bond of the former clerk, and which required the disbursing clerk to give a bond.
 
-#### Cross References
-
-Secretary of Senate, death, resignation, or disability, see section 64a of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 75a–1 of this title.

@@ -12,7 +12,7 @@ Operation.—The Attorney General may authorize the operation of the System esta
 
 (c)
 
-User Fees.—Operation of the System established or designated under subsection (a)(1) of this section shall be paid for by user fees and should be self-sufficient and not be dependent on amounts from the United States Government. The amount of fees the operator collects and keeps under this subsection subject to annualappropriation laws, excluding fees the operator collects and pays to an entity providing information to the operator, may be not more than the costs of operating the System.
+User Fees.—Operation of the System established or designated under subsection (a)(1) of this section shall be paid for by user fees and should be self-sufficient and not be dependent onamounts from the United States Government. The amount of fees the operator collects and keeps under this subsection subject to annual appropriation laws, excluding fees the operator collects and pays to an entity providing information to the operator, may be not more than the costs of operating the System.
 
 (d)
 
@@ -102,7 +102,7 @@ Subsecs. (a), (b). Pub. L. 104–152, §3(a), which directed the amendment of th
 
 Subsec. (a)(1). Pub. L. 104–152, §3, substituted “Attorney General shall” for “Secretary of Transportation shall”, “Attorney General decides” for “Secretary decides”, “permit the Attorney General” for “permit the Secretary”, and “Attorney General, in consultation with the Secretary of Transportation” for “Secretary, in consultation with the Attorney General”.
 
-Pub. L. 104–152, §2(c), as amended by Pub. L. 105–102, substituted “National Motor Vehicle Title Information System” for “National Automobile Title Information System” in two places.
+Pub. L. 104–152, §2(c), as amended by Pub. L. 105–102, substituted “National Motor Vehicle Title InformationSystem” for “National Automobile Title Information System” in two places.
 
 Pub. L. 104–152, §2(a), substituted “December 31, 1967” for “January 31, 1966”.
 

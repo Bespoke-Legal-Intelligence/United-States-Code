@@ -30,9 +30,11 @@ For effective date of amendment by Pub. L. 89–236, see section 20 of Pub. L. 8
 
 #### Surcharge for Processing Machine Readable Nonimmigrant Visas
 
-Pub. L. 106–113, div. B, §1000(a)(1) \[title IV\], Nov. 29, 1999, 113 Stat. 1535, 1501A–39, provided in part: “That notwithstanding section 140(a)(5), and the second sentence of section 140(a)(3), of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995 \[Pub. L. 103–236, set out below\], fees may be collected during fiscal years 2000 and 2001, under the authority of section 140(a)(1) of that Act: <i>Provided further</i>, That all fees collected under the preceding proviso shall be deposited in fiscal years 2000 and 2001 as an offsetting collection to appropriations made under this heading to recover costs as set forth under section 140(a)(2) of that Act and shall remain available until expended”.
+Pub. L. 106–553, §1(a)(2) \[title IV\], Dec. 21, 2000, 114 Stat. 2762, 2762A–90, provided in part: “That notwithstanding section 140(a)(5), and the second sentence of section 140(a)(3), of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995 \[Pub. L. 103–236, set out below\], fees may be collected during fiscal years 2001 and 2002, under the authority of section 140(a)(1) of that Act: <i>Provided further</i>, That all fees collected under the preceding proviso shall be deposited in fiscal years 2001 and 2002 as an offsetting collection to appropriations made under this heading to recover costs as set forth under section 140(a)(2) of that Act and shall remain available until expended”.
 
 Similar provisions were contained in the following prior appropriations acts:
+
+Pub. L. 106–113, div. B, §1000(a)(1) \[title IV\], Nov. 29, 1999, 113 Stat. 1535, 1501A–39.
 
 Pub. L. 105–277, div. A, §101(b) \[title IV\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–93.
 
@@ -70,7 +72,7 @@ Pub. L. 103–236, title I, §140(a), Apr. 30, 1994, 108 Stat. 399, as amended b
 
 “(1) Notwithstanding any other provision of law, the Secretary of State is authorized to charge a fee or surcharge for processing machine readable nonimmigrant visas and machine readable combined border crossing identification cards and nonimmigrant visas.
 
-“(2) Fees collected under the authority of paragraph (1) shall be deposited as an offsetting collection to any Department of State appropriation, to recover the costs of providing consular services. Such fees shall remain available for obligation until expended.
+“(2) Fees collected under the authority of paragraph (1) shall be deposited as an offsetting collection to anyDepartment of State appropriation, to recover the costs of providing consular services. Such fees shall remain available for obligation until expended.
 
 “(3) For each of the fiscal years 2000, 2001, and 2002, any amount collected under paragraph (1) that exceeds $316,715,000 for fiscal year 2000, $316,715,000 for fiscal year 2001, and $316,715,000 for fiscal year 2002 may be made available only if a notification is submitted to Congress in accordance with the procedures applicable to reprogramming notifications under section 34 of the State Department Basic Authorities Act of 1956 \[22 U.S.C. 2706\]. For subsequent fiscal years, fees may be collected under the authority of paragraph (1) only in such amounts as shall be prescribed in subsequent authorization Acts.”
 
@@ -83,32 +85,6 @@ Pub. L. 104–56, title I, §118, Nov. 20, 1995, 109 Stat. 552.
 Pub. L. 104–54, title I, §118, Nov. 19, 1995, 109 Stat. 544.
 
 Pub. L. 104–31, §119, Sept. 30, 1995, 109 Stat. 281.
-
-#### Cross References
-
-Definition of the term—
-
-&emsp;&emsp;Alien, see section 1101(a)(3) of this title.
-
-&emsp;&emsp;Attorney General, see section 1101(a)(5) of this title.
-
-&emsp;&emsp;Entry, see section 1101(a)(13) of this title.
-
-&emsp;&emsp;Immigrant visa, see section 1101(a)(16) of this title.
-
-&emsp;&emsp;National, see section 1101(a)(21) of this title.
-
-&emsp;&emsp;National of the United States, see section 1101(a)(22) of this title.
-
-&emsp;&emsp;Nonimmigrant alien, see section 1101(a)(15) of this title.
-
-&emsp;&emsp;Nonimmigrant visa, see section 1101(a)(26) of this title.
-
-&emsp;&emsp;Residence, see section 1101(a)(33) of this title.
-
-&emsp;&emsp;Service, see section 1101(a)(34) of this title.
-
-Reentry permit, see section 1203 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -66,7 +66,7 @@ The foregoing restrictions of this section shall not apply to—
 
 &emsp;&emsp;(A) make available any farm commodity or product thereof owned or controlled by the Corporation for use in relieving distress—
 
-&emsp;&emsp;&emsp;(i) in any area in the United States (including the Virgin Islands) declared by the President to be an acute distress area because of unemployment or other economic cause, if the President finds that the use will not displace or interfere with normalmarketing of agricultural commodities; and
+&emsp;&emsp;&emsp;(i) in any area in the United States (including the Virgin Islands) declared by the President to be an acute distress area because of unemployment or other economic cause, if the President finds that the use will not displace or interfere with normal marketing of agricultural commodities; and
 
 &emsp;&emsp;&emsp;(ii) in connection with any major disaster determined by the President to warrant assistance by the Federal Government under the Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.); and
 
@@ -120,7 +120,7 @@ A prior section 308 of act July 10, 1954, ch. 469, title III, as added Sept. 21,
 
 Pub. L. 100–387 substituted provision authorizing the Commodity Credit Corporation to donate or sell commodities in accordance with subchapter V of this chapter for provision authorizing the Commodity Credit Corporation to make feed for livestock available to certain persons in certain areas during emergencies.
 
-1985—Pub. L. 99–198, §1007, temporarily reenacted substantially without change the amendments made in 1981 by section 1103 of Pub. L. 97–98, which had established a floor for sales of wheat and feed grains in inventory for unrestricted use at 115 per centum of the current national average loan rate for the commodity adjusted for current market differentials reflecting grade, quality, location, and other value factors, plus reasonable carrying charges; designated such provisions as thus reenacted as cl. (A) of the proviso involved and added cl. (B) relating to the Secretary's permitting the repayment of loans at a loan rate less than the loan level determined for such crop; and reenacted,also without change, the amendments by Pub. L. 97–98 which had the price at which purchases had to be made to offset sales in the interest of the efficient conduct of the Corporation's operations to an amount not exceeding the minimum sales price for the commodity for unrestricted use. See Effective and Termination Dates of 1985 Amendment note below.
+1985—Pub. L. 99–198, §1007, temporarily reenacted substantially without change the amendments made in 1981 by section 1103 of Pub. L. 97–98, which had established a floor for sales of wheat and feed grains in inventory for unrestricted use at 115 per centum of the current national average loan rate for the commodity adjusted for current market differentials reflecting grade, quality, location, and other value factors, plus reasonable carrying charges; designated such provisions as thus reenacted as cl. (A) of the proviso involved and added cl. (B) relating to the Secretary's permitting the repayment of loans at a loan rate less than the loan level determined for such crop; and reenacted, also without change, the amendments by Pub. L. 97–98 which had the price at which purchases had to be made to offset sales in the interest of the efficient conduct of the Corporation's operations to an amount not exceeding the minimum sales price for the commodity for unrestricted use. See Effective and Termination Dates of 1985 Amendment note below.
 
 Pub. L. 99–198, §1763(b), inserted provision giving the Commodity Credit Corporation authority to (1) make available feed for livestock to certain persons during emergencies in areas in which feed grains are normally produced and normally available for feed purposes, but in which they are unavailable because of a catastrophe described in the fourth sentence of this section, (2) make such feed available to such persons through feed dealers in the areas, (3) make such feed available at a price not less than the price prescribed in the fourth sentence of this section, and (4) bear any expenses incurred in connection with making such feed available to such persons under this sentence, including transportation and handling costs.
 
@@ -140,7 +140,7 @@ Pub. L. 90–475 required that notwithstanding any other provision of this secti
 
 1966—Pub. L. 89–808 inserted proviso to third sentence prohibiting, whenever carryover at end of any marketing year of a price supported agricultural commodity for which a voluntary adjustment program is in effect will be less than 25 per centum (35 per centum in the case of wheat) of the estimated export and domestic consumption of such commodity during such marketing year, sale of CCC stocks of such commodity during such year for unrestricted use at less than 115 per centum (120 per centum in the case of wheat whenever its carryover will be less than 25 per centum of such estimated export and domestic consumption) of the current price support loan plus reasonable carrying charges.
 
-1965—Pub. L. 89–321 required that notwithstanding any other provision of this section, for the period August 1, 1966, through July 31, 1970, (1) the Commodity Credit Corporation shall sell upland cotton for unrestricted use at the same prices as it sells cotton for export, in no event, however, at less than 110 per centum of the loan rate, and (2) the Commodity Credit Corporation shall sell or make available for unrestricted use at current market prices in each marketing year a quantity of upland cotton equal to the amount by which the production of upland cotton is less than the estimated requirements for domestic use and for export for such marketing year, permitted the Secretary to make such estimates and adjustments therein at such times as he determines will best effectuate the provisions of part (2) of the foregoing sentence, and required such quantities of cotton as are required to be sold under suchsentence to be offered for sale in an orderly manner and so as not to affect market prices unduly.
+1965—Pub. L. 89–321 required that notwithstanding any other provision of this section, for the period August 1, 1966, through July 31, 1970, (1) the Commodity Credit Corporation shall sell upland cotton for unrestricted use at the same prices as it sells cotton for export, in no event, however, at less than 110 per centum of the loan rate, and (2) the Commodity Credit Corporation shall sell or make available for unrestricted use at current market prices in each marketing year a quantity of upland cotton equal to the amount by which the production of upland cotton is less than the estimated requirements for domestic use and for export for such marketing year, permitted the Secretary to make such estimates and adjustments therein at such times as he determines will best effectuate the provisions of part (2) of the foregoing sentence, and required such quantities of cotton as are required to be sold under such sentence to be offered for sale in an orderly manner and so as not to affect market prices unduly.
 
 1964—Pub. L. 88–585 provided that the Corporation, in providing feed to distressed areas, may charge not less than 75 percent of the current basic county support rate including the value of any applicable price support payment in kind, included the Virgin Islands within those areas where such feed can be made obtainable, authorized the Secretary to provide feed by feed dealers under such arrangement that the feed so furnished would be replaced with feed owned or controlled by the Corporation and sold to such persons, and inserted “or other area” after “one or more central locations in each State”.
 
@@ -194,7 +194,7 @@ Section 603 of Pub. L. 95–113 provided that the amendment made by that section
 
 #### Effective and Termination Dates of 1970 Amendment
 
-Section 409 of Pub. L. 91–524, as amended by Pub. L. 93–86, §1(16), Aug. 10, 1973, 87 Stat. 230, provided that the amendment made by that section \[establishing a floor for sales of wheat and feed grains and changing price at which purchases must be made to offset sales in interest of efficient conduct of Corporation's operations\] is effective only with respect to marketing years for 1971 through 1977 crops.
+Section 409 of Pub. L. 91–524, as amended by Pub. L. 93–86, §1(16), Aug. 10, 1973, 87 Stat. 230, provided that the amendment made by that section \[establishing a floor for sales of wheat and feed grains and changing price at which purchases must be made to offset sales in interest of efficient conduct of Corporation's operations\] iseffective only with respect to marketing years for 1971 through 1977 crops.
 
 Section 603 of Pub. L. 91–524, as amended by Pub. L. 93–86, §1(21), Aug. 10, 1973, 87 Stat. 235, provided that the amendment made by that section \[covering sale of upland cotton by Corporation\] is effective only with respect to period beginning Aug. 1, 1971, and ending July 31, 1978.
 
@@ -204,7 +204,7 @@ Amendment by Pub. L. 89–808 effective Jan. 1, 1967, see section 5 of Pub. L. 8
 
 #### Effective and Termination Dates of 1964 Amendment
 
-Section 204 of Pub. L. 88–297, as amended by Pub. L. 89–321, title V, §503(3), Nov. 3, 1965, 79 Stat. 1203; Pub. L. 90–559, §1(1), Oct. 11, 1968, 82 Stat. 996, provided that theamendment made by that section is effective only with respect to marketing years beginning in calendar years 1964 through 1970.
+Section 204 of Pub. L. 88–297, as amended by Pub. L. 89–321, title V, §503(3), Nov. 3, 1965, 79 Stat. 1203; Pub. L. 90–559, §1(1), Oct. 11, 1968, 82 Stat. 996, provided that the amendment made by that section is effective only with respect to marketing years beginning in calendar years 1964 through 1970.
 
 #### Exceptions From Transfer of Functions
 
@@ -278,7 +278,7 @@ Ex. Ord. No. 11336, Mar. 22, 1967, 32 F.R. 4489, provided:
 
 By virtue of the authority vested in me by section 301 of Title 3 of the United States Code, and as President of the United States, it is ordered as follows:
 
-Section 1. (a) The Secretary of Agriculture is hereby designated and empowered to exercise, without the approval, ratification, or other action of the President, the authority vested in the President by clause (1) of the fifth sentence of section 407 of the Agricultural Act of 1949, as amended (7 U.S.C. 1427), to the extent prescribed in subsection (b) of this section.
+Section 1. (a) The Secretary of Agriculture is hereby designated and empowered to exercise, without the approval, ratification, or other action of the President,the authority vested in the President by clause (1) of the fifth sentence of section 407 of the Agricultural Act of 1949, as amended (7 U.S.C. 1427), to the extent prescribed in subsection (b) of this section.
 
 (b) Whenever the Secretary of Agriculture determines that the chronic economic distress of the needy members of an Indian tribe is materially increased by severe drought, flood, hurricane, blizzard, or other uncontrollable catastrophe affecting any reservation or other land designated for Indian use which is utilized by members of such tribe for grazing livestock, he may, under subsection (a) of this section, declare such reservation or other land to be an acute distress area because of unemployment or other economic reasons if he finds that the use of farm commodities or the products thereof made available by the Commodity Credit Corporation for livestock feed in that area will not displace or interfere with normal marketing of agricultural commodities.
 
@@ -289,10 +289,6 @@ Sec. 3. In carrying out the provisions of this order the Secretary of Agricultur
 Sec. 4. The declaration contained in the letter of the President to the Secretary of Agriculture, dated February 1, 1965, that reservation lands in Arizona, Utah and New Mexico, which are grazed in common by Indian tribes, are an acute distress area shall continue in effect until January 1, 1968, or until such earlier date as may be fixed by notice of the Secretary of Agriculture published in the Federal Register.
 
 Lyndon B. Johnson.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Cross References
-
-Agricultural commodity set-aside, dispositions not subject to pricing limitation, see section 1744 of this title.
 
 #### Section Referred to in Other Sections
 

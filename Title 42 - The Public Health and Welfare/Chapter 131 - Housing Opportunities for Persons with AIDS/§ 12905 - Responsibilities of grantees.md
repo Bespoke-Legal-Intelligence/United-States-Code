@@ -34,13 +34,19 @@ The recipient shall agree to maintain and provide the grantee or the Secretary w
 
 &emsp;Notwithstanding any other provision of this chapter, each project sponsor receiving amounts from grants made under this chapter <sup>1</sup> may use not more than 7 percent of the amounts received for administrative costs relating to carrying out eligible activities under section 12904 of this title, including the costs of staff necessary to carry out eligible activities.
 
-(Pub. L. 101–625, title VIII, §856, Nov. 28, 1990, 104 Stat. 4378; Pub. L. 102–550, title VI, §606(f), (j)(4), (11)(A), Oct. 28, 1992, 106 Stat. 3809–3811.)
+#### (h) Environmental review
+
+For purposes of environmental review, a grant under this chapter shall be treated as assistance for a special project that is subject to section 3547 of this title, and shall be subject to the regulations issued by the Secretary to implement such section.
+
+(Pub. L. 101–625, title VIII, §856, Nov. 28, 1990, 104 Stat. 4378; Pub. L. 102–550, title VI, §606(f), (j)(4), (11)(A), Oct. 28, 1992, 106 Stat. 3809–3811; Pub. L. 106–377, §1(a)(1) \[title II, §203(c)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–24.)
 
 #### References in Text
 
-Under this chapter, referred to in subsec. (g)(2), was in the original “under this title”, and was translated asreading “under this subtitle”, meaning under subtitle D (§§851–863) of title VIII of Pub. L. 101–625, to reflect the probable intent of Congress.
+Under this chapter, referred to in subsec. (g)(2), was in the original “under this title”, and was translated as reading “under this subtitle”, meaning under subtitle D (§§851–863) of title VIII of Pub. L. 101–625, to reflect the probable intent of Congress.
 
 #### Amendments
+
+2000—Subsec. (h). Pub. L. 106–377 added subsec. (h).
 
 1992—Subsec. (c). Pub. L. 102–550, §606(j)(4), (11)(A), substituted “eligible persons” for “individuals with acquired immunodeficiency syndrome or related diseases” and “services for such eligible persons” for “services for such individuals”.
 

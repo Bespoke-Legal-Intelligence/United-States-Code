@@ -12,7 +12,7 @@
 
 > For the purposes of this section, section 1335, and section 1441, an alien admitted to the United States for permanent residence shall be deemed a citizen of the State in which such alien is domiciled.
 
-(b) Except when express provision therefor is otherwise made in a statute of the United States, where the plaintiff who files the case originally in the Federal courts is finally adjudged to be entitled to recover less than the sum or value of $75,000, computed without regard to any setoff or counterclaim to which the defendant may be adjudged to be entitled, and exclusive of interest and costs, the district court may deny costs to the plaintiff and, in addition, may impose costs on the plaintiff.
+(b) Except when express provision therefor is otherwise made in a statute of the UnitedStates, where the plaintiff who files the case originally in the Federal courts is finally adjudged to be entitled to recover less than the sum or value of $75,000, computed without regard to any setoff or counterclaim to which the defendant may be adjudged to be entitled, and exclusive of interest and costs, the district court may deny costs to the plaintiff and, in addition, may impose costs on the plaintiff.
 
 (c) For the purposes of this section and section 1441 of this title—
 
@@ -704,31 +704,31 @@ D.C. Code
 
 #### Amendments
 
-1996—Subsecs. (a), (b). Pub. L. 104–317 substituted “$75,000” for “$50,000”.
+<b>1996</b>—Subsecs. (a), (b). Pub. L. 104–317 substituted “$75,000” for “$50,000”.
 
-1988—Subsec. (a). Pub. L. 100–702, §201(a), substituted “$50,000” for “$10,000” in introductory text.
+<b>1988</b>—Subsec. (a). Pub. L. 100–702, §201(a), substituted “$50,000” for “$10,000” in introductory text.
 
 Pub. L. 100–702, §203(a), inserted at end “For the purposes of this section, section 1335, and section 1441, an alien admitted to the United States for permanent residence shall be deemed a citizen of the State in which such alien is domiciled.”
 
 Subsec. (b). Pub. L. 100–702, §201(a), substituted “$50,000” for “$10,000”.
 
-Subsec. (c). Pub. L. 100–702, §202(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “For the purposes of this section and section 1441 of this title, a corporation shall be deemed a citizen of any State by which it has been incorporated and of the State where it has its principal place of business: <i>Provided further</i>, That in any direct action against the insurer of a policy or contract of liability insurance, whether incorporated or unincorporated, to which action the insured is not joined as a party-defendant, such insurer shall be deemed a citizen of the State of which the insured is a citizen, as well as of any State by which the insurer has been incorporated and of the State where it has its principal place of business.”
+Subsec. (c). Pub. L. 100–702, §202(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “For the purposes of this section and section 1441 of this title, a corporation shall be deemed a citizen of any State by which it has been incorporated and of the State where it has its principal place of business: <i>Provided further</i>, That in any direct action against the insurer of a policy or contract of liability insurance,whether incorporated or unincorporated, to which action the insured is not joined as a party-defendant, such insurer shall be deemed a citizen of the State of which the insured is a citizen, as well as of any State by which the insurer has been incorporated and of the State where it has its principal place of business.”
 
-1976—Subsec. (a)(2). Pub. L. 94–583 substituted “and citizens or subjects of a foreign state;” for “, and foreign states or citizens or subjects thereof; and”.
+<b>1976</b>—Subsec. (a)(2). Pub. L. 94–583 substituted “and citizens or subjects of a foreign state;” for “, and foreign states or citizens or subjects thereof; and”.
 
 Subsec. (a)(3). Pub. L. 94–583 substituted “citizens or subjects of a foreign state are additional parties; and” for “foreign states or citizens or subjects thereof are additional parties”.
 
 Subsec. (a)(4). Pub. L. 94–583 added par. (4).
 
-1964—Subsec. (c). Pub. L. 88–439 inserted proviso deeming an insurer of liability insurance, in an action to which the insurer is not joined as a party-defendant, a citizen, of the State of which the insured is a citizen, as well as the State the insurer has been incorporated by and the State where it has its principal place of business.
+<b>1964</b>—Subsec. (c). Pub. L. 88–439 inserted proviso deeming an insurer of liability insurance, in an action to which the insurer is not joined as a party-defendant, a citizen, of the State of which the insured is a citizen, as well as the State the insurer has been incorporated by and the State where it has its principal place of business.
 
-1958—Pub. L. 85–554 included costs in section catchline.
+<b>1958</b>—Pub. L. 85–554 included costs in section catchline.
 
 Subsec. (a). Pub. L. 85–554 substituted “$10,000” for “$3,000”.
 
 Subsecs. (b) to (d). Pub. L. 85–554 added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
 
-1956—Subsec. (b). Act July 26, 1956, included the Commonwealth of Puerto Rico.
+<b>1956</b>—Subsec. (b). Act July 26, 1956, included the Commonwealth of Puerto Rico.
 
 #### Effective Date of 1996 Amendment
 
@@ -753,18 +753,6 @@ Section 2 of Pub. L. 88–439 provided that: “The amendment made by this Act t
 #### Effective Date of 1958 Amendment
 
 Amendment by Pub. L. 85–554 applicable only in the case of actions commenced after July 25, 1958, see section 3 of Pub. L. 85–554, set out as a note under section 1331 of this title.
-
-#### Federal Rules of Civil Procedure
-
-Defenses and objections, see rule 12, Appendix to this title.
-
-#### Cross References
-
-Controversies involving pollution of waters, jurisdiction of actions by States, see section 466g–1 of Title 33, Navigation and Navigable Waters.
-
-Removal of cases from State courts, see section 1441 et seq. of this title.
-
-Venue of actions based on diversity of citizenship, see section 1391 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -24,15 +24,15 @@
 
 (d)(1) The Secretary of Veterans Affairs and the Secretary of Defense shall jointly review plans for the implementation of this section not less often than annually.
 
-(2) Whenever a modification to such plans is agreed to, the Secretaries shall jointly submitto the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on such modification. Any such report shall be submitted within 30 days after the modification is agreed to.
+(2) Whenever a modification to such plans is agreed to, the Secretaries shall jointly submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on such modification. Any such report shall be submitted within 30 days after the modification is agreed to.
 
 (e) The Secretary shall prescribe regulations to govern any exercise of the authority of the Secretary under subsections (a) and (b) of this section and of the Under Secretary for Health under subsection (b)(2)(A) of this section.
 
-(f) Within thirty days after a declaration of a period of war or national emergency described in subsection (a) of this section (or as soon after the end of such thirty-day period as is reasonably practicable), the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the Secretary's allocation of facilities and personnel in order to provide priority hospital care, nursing home care, and medical services under this section to members of the Armed Forces. Thereafter, with respect to any fiscal year in which the authority in subsection (b) of this section to enter into contracts with private facilities has been used, the Secretary shall report within ninety days after the end of such fiscal year to those committees regarding the extent of, and the circumstances under which, such authority was used.
-
-(Added Pub. L. 97–174, §4(a), May 4, 1982, 96 Stat. 74, §5011A; renumbered §8111A, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–54, §14(f)(4), June 13, 1991, 105 Stat. 287; Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 104–262, title I, §101(e)(5), Oct. 9, 1996, 110 Stat. 3181.)
+(Added Pub. L. 97–174, §4(a), May 4, 1982, 96 Stat. 74, §5011A; renumbered §8111A, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–54, §14(f)(4), June 13, 1991, 105 Stat. 287; Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 104–262, title I, §101(e)(5), Oct. 9, 1996, 110 Stat. 3181; Pub. L. 106–419, title IV, §403(b), Nov. 1, 2000, 114 Stat. 1864.)
 
 #### Amendments
+
+2000—Subsec. (f). Pub. L. 106–419 struck out subsec. (f) which read as follows: “Within thirty days after a declaration of a period of war or national emergency described in subsection (a) of this section (or as soon after the end of such thirty-day period as is reasonably practicable), the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the Secretary's allocation of facilities and personnel in order to provide priority hospital care, nursing home care, and medical services under this section to members of the Armed Forces. Thereafter, with respect to any fiscal year in which the authority in subsection (b) of this section to enter into contracts with private facilities has been used, the Secretary shall report within ninety days after the end of such fiscal year to those committees regarding the extent of, and the circumstances under which, such authority was used.”
 
 1996—Subsec. (b)(2)(A). Pub. L. 104–262 substituted “subsection (a) of section 1710” for “subsection (f) of section 1712”.
 

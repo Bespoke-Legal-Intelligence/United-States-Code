@@ -15,7 +15,7 @@
 
 |  |
 | :--- |
-| 2711 to 2729. Repealed. |
+| 2711 to 2729. Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -110,7 +110,7 @@
 
 |  |
 | :--- |
-| 2801 to 2815. Repealed. |
+| 2801 to 2815. Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -144,7 +144,7 @@
 
 |  |
 | :--- |
-| 2861 to 2865. Repealed. |
+| 2861 to 2865. Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -168,7 +168,7 @@
 
 |  |
 | :--- |
-| 2901 to 2907. Repealed. |
+| 2901 to 2907. Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -192,7 +192,7 @@
 
 |  |
 | :--- |
-| 2929 to 2929c. Repealed. |
+| 2929 to 2929c. Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -200,7 +200,7 @@
 
 |  |
 | :--- |
-| 2930 to 2930f. Repealed. |
+| 2930 to 2930f. Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -208,7 +208,7 @@
 
 |  |
 | :--- |
-| 2931 to 2933. Repealed. |
+| 2931 to 2933. Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -226,7 +226,7 @@
 
 |  |
 | :--- |
-| 2972 to 2980. Repealed. |
+| 2972 to 2980. Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -234,7 +234,7 @@
 
 |  |
 | :--- |
-| 2981 to 2981c. Repealed. |
+| 2981 to 2981c. Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -250,7 +250,7 @@
 
 |  |
 | :--- |
-| 2983 to 2983b. Repealed. |
+| 2983 to 2983b. Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -266,7 +266,7 @@
 
 |  |
 | :--- |
-| 2985 to 2985g. Repealed. |
+| 2985 to 2985g. Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -335,7 +335,7 @@
 | (f) | Copy of rule or general statement of policy to Congressional leaders. |
 | [2992c.](Subchapter%20008%20%28VIII%29%20-%20Native%20American%20Programs/%C2%A7%2002992c%20-%20Definitions.md) | Definitions. |
 | [2992d.](Subchapter%20008%20%28VIII%29%20-%20Native%20American%20Programs/%C2%A7%2002992d%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-| 2993 to 2994d. Repealed. |  |
+| 2993 to 2994d. Repealed. |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

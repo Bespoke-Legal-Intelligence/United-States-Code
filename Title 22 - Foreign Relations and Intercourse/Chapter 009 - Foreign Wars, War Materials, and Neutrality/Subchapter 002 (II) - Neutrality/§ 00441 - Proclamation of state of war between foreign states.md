@@ -34,10 +34,6 @@ The purpose of Joint Res. Nov. 4, 1939, was expressed in the first three paragra
 
 “Whereas the United States hereby expressly reserves the right to repeal, change or modify this \[this subchapter\] or any other domestic legislation in the interests of the peace, security or welfare of the United States and its people.”
 
-#### Cross References
-
-Proclamations respecting war and neutrality, see notes preceding section 1 of Title 50, Appendix, War and National Defense.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 444, 445, 447, 448, 450 of this title.

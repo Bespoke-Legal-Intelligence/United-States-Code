@@ -56,7 +56,7 @@ The Congress hereby finds that—
 
 &emsp;(21) the Center has been redesignated as the Nation's missing children clearinghouse and resource center once every 3 years through a competitive selection process conducted by the Office of Juvenile Justice and Delinquency Prevention of the Department of Justice, and has received grants from that Office to conduct the crucial purposes of the Center.
 
-(Pub. L. 93–415, title IV, §402, as added Pub. L. 98–473, title II, §660, Oct. 12, 1984, 98 Stat. 2125;amended Pub. L. 106–71, §2(a), Oct. 12, 1999, 113 Stat. 1032.)
+(Pub. L. 93–415, title IV, §402, as added Pub. L. 98–473, title II, §660, Oct. 12, 1984, 98 Stat. 2125; amended Pub. L. 106–71, §2(a), Oct. 12, 1999, 113 Stat. 1032.)
 
 #### References in Text
 

@@ -4,10 +4,6 @@ An alien crewman, including an alien crewman ineligible for a conditional permit
 
 (June 27, 1952, ch. 477, title II, ch. 6, §253, 66 Stat. 221.)
 
-#### Cross References
-
-Definition of alien, Attorney General, crewman, immigration officer, and United States, see section 1101 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1282, 1284, 1330 of this title.

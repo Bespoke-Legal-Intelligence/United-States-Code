@@ -52,7 +52,7 @@ Whoever—
 
 &emsp;(E) any payment practice specified by the Secretary in regulations promulgated pursuant to section 14(a) of the Medicare and Medicaid Patient and Program Protection Act of 1987; and
 
-&emsp;(F) any remuneration between an organization and an individual or entity providing items or services, or a combination thereof,pursuant to a written agreement between the organization and the individual or entity if the organization is an eligible organization under section 1395mm of this title or if the written agreement, through a risk-sharing arrangement, places the individual or entity at substantial financial risk for the cost or utilization of the items or services, or a combination thereof, which the individual or entity is obligated to provide.
+&emsp;(F) any remuneration between an organization and an individual or entity providing items or services, or a combination thereof, pursuant to a written agreement between the organization and the individual or entity if the organization is an eligible organization under section 1395mm of this title or if the written agreement, through a risk-sharing arrangement, places the individual or entity at substantial financial risk for the cost or utilization of the items or services, or a combination thereof, which the individual or entity is obligated to provide.
 
 #### (c) False statements or representations with respect to condition or operation of institutions
 
@@ -72,7 +72,7 @@ Whoever knowingly and willfully—
 
 > &emsp;when the cost of the services provided therein to the patient is paid for (in whole or in part) under the State plan,
 
-> shall be guilty of a felony and upon conviction thereof shall be fined not more than $25,000 or imprisoned for not more than five years, or both.
+> shall be guilty of a felony and upon conviction thereof shall be fined not more than $25,000 orimprisoned for not more than five years, or both.
 
 #### (e) Violation of assignment terms
 
@@ -102,7 +102,7 @@ Prior to redesignation by Pub. L. 100–93, subsecs. (a) to (d) of this section 
 
 #### Amendments
 
-1997—Subsec. (a). Pub. L. 105–33, §4734(2), in cl. (ii) of concluding provisions, substituted “failure, conversion,or provision of counsel or assistance by any other person” for “failure, or conversion by any other person”.
+1997—Subsec. (a). Pub. L. 105–33, §4734(2), in cl. (ii) of concluding provisions, substituted “failure, conversion, or provision of counsel or assistance by any other person” for “failure, or conversion by any other person”.
 
 Subsec. (a)(6). Pub. L. 105–33, §4734(1), added par. (6) and struck out former par. (6) which read as follows: “knowingly and willfully disposes of assets (including by any transfer in trust) in order for an individual to become eligible for medical assistance under a State plan under subchapter XIX of this chapter, if disposing of the assets results in the imposition of a period of ineligibility for such assistance under section 1396p(c) of this title,”.
 
@@ -214,7 +214,7 @@ Amendment by Pub. L. 100–93 effective at end of fourteen-day period beginning 
 
 #### Effective Date of 1977 Amendment
 
-Section 4(d) of Pub. L. 95–142 provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall apply with respect to acts occurring and statements or representations made on or after the date of the enactment of this Act \[Oct. 25, 1977\].”
+Section 4(d) of Pub. L. 95–142 provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall apply with respect to acts occurringand statements or representations made on or after the date of the enactment of this Act \[Oct. 25, 1977\].”
 
 #### Effective Date
 
@@ -270,7 +270,7 @@ Appointment of negotiated rulemaking committee and facilitator.—The Secretary 
 
 “(6)
 
-Preliminary committee report.—The negotiated rulemaking committee appointed under paragraph (5) shall report to the Secretary, by not later than October 1, 1996, regarding the committee's progress on achieving a consensus with regard to the rulemaking proceeding and whether such consensus is likely to occur before one month before the target date for publication of the rule. If the committee reports that the committee has failed to make significant progress toward such consensus or is unlikely to reachsuch consensus by the target date, the Secretary may terminate such process and provide for the publication of a rule under this subsection through such other methods as the Secretary may provide.
+Preliminary committee report.—The negotiated rulemaking committee appointed under paragraph (5) shall report to the Secretary, by not later than October 1, 1996, regarding the committee's progress on achieving a consensus with regard to the rulemaking proceeding and whether such consensus is likely to occur before one month before the target date for publication of the rule. If the committee reports that the committee has failed to make significant progress toward such consensus or is unlikely to reach such consensus by the target date, the Secretary may terminate such process and provide for the publication of a rule under this subsection through such other methods as the Secretary may provide.
 
 “(7)
 

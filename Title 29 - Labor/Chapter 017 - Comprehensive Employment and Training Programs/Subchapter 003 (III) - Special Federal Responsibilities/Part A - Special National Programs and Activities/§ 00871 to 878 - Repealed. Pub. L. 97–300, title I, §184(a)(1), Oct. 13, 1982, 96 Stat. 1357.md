@@ -30,7 +30,3 @@ Section 877, Pub. L. 93–203, title III, §307, as added Pub. L. 95–524, §2,
 
 Section 878, Pub. L. 93–203, title III, §308, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 1966, related to projects for middle-aged and older workers.
 
-#### Effective Date of Repeal
-
-Section 184(a) of Pub. L. 97–300 provided that the repeal of these sections is effective Oct. 13, 1982.
-

@@ -6,7 +6,7 @@
 
 <i>Expenditure of contributions by State of California; acquisition of sites, easements, etc.—</i>(b) All money contributed by the State of California, as herein provided, shall be expended under the direction of the California De�AE1bris Commission and in such manner as it may require or approve, and no money appropriated under authority of this section shall be expended in the purchase of or payment for any right-of-way, easement, or land acquired for the purposes of this improvement, but all such rights-of-way, easements, and lands shall be provided free of cost to the United States: <i>Provided</i>, That no money paid or expense incurred therefor shall be computed as a part of the contribution of the State of California toward the work of improvement herein provided for within the meaning of paragraph (a) of this section.
 
-<i>Maintenance of works for flood control by State of California—</i>(c) Upon the completion of all works for flood control herein authorized the said works shall be turned over to the State of California for maintenance thereafter; but for all other purposes the United States shall retain such control over the same as it may have the right to exercise upon such completion.
+<i>Maintenance of works for flood control by State of California—</i>(c) Upon the completion of all works for flood control herein authorized the said works shall be turned over to the State of California for maintenance thereafter; but for all other purposes the United States shall retainsuch control over the same as it may have the right to exercise upon such completion.
 
 (Mar. 1, 1917, ch. 144, §2, 39 Stat. 949; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501.)
 
@@ -17,12 +17,6 @@ Department of War designated Department of the Army and title of Secretary of Wa
 #### Termination of Board of Engineers for Rivers and Harbors and Reassignment of Duties and Responsibilities
 
 For termination of Board of Engineers for Rivers and Harbors 180 days after Oct. 31, 1992, and reassignment of duties and responsibilities by Secretary of Army, see section 223 of Pub. L. 102–580, set out as a note under section 541 of this title.
-
-#### Cross References
-
-Classification as trust funds, appropriation and disbursement of funds contributed for rivers and harbors, and funds contributed for flood control, see section 1321 of Title 31, Money and Finance.
-
-Modification of Sacramento River project, see section 704 of this title.
 
 #### Section Referred to in Other Sections
 

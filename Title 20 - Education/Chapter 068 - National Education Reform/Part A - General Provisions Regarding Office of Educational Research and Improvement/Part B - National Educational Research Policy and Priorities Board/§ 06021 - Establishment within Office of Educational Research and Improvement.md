@@ -36,7 +36,7 @@ It shall also be the responsibility of the Board to—
 
 &emsp;(8) solicit advice and information from the educational field, to define research needs and suggestions for research topics, and shall involve educational practitioners, particularly teachers, in this process;
 
-&emsp;(9) solicit advice from practitioners, policymakers, and researchers, and recommend missions for the national research centers assisted under this subchapter by identifying topics which require long-term, sustained, systematic, programmatic, and integrated research and dissemination efforts;
+&emsp;(9) solicit advice from practitioners, policymakers, and researchers, and recommend missions for the national research centers assisted under this subchapter by identifyingtopics which require long-term, sustained, systematic, programmatic, and integrated research and dissemination efforts;
 
 &emsp;(10) provide recommendations for translating research findings into workable, adaptable models for use in policy and in practice across different settings, and recommendations for other forms of dissemination; and
 
@@ -110,7 +110,7 @@ The Board shall consist of 15 members appointed by the Secretary. Of the members
 
 #### (2) Request for additional nominations
 
-&emsp;In the event that the Secretary determines that none of the individuals nominated by the National Academy of Sciences meets the qualifications for membership on the Board specified in subsection (g) of this section, the Secretary may request that such organization make additional nominations.
+&emsp;In the event that the Secretary determines that none of the individuals nominated by theNational Academy of Sciences meets the qualifications for membership on the Board specified in subsection (g) of this section, the Secretary may request that such organization make additional nominations.
 
 #### (i) Nominations for Board membership
 

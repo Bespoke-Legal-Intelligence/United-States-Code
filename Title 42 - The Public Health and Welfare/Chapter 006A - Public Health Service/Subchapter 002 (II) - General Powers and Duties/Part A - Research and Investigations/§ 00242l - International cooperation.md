@@ -2,7 +2,7 @@
 
 #### (a) Cooperative endeavors; statement of purpose
 
-For the purpose of advancing the status of the health sciences in the United States (and thereby the health of the American people), the Secretary may participate with other countries in cooperative endeavors in biomedical research, health care technology, and the health services research and statistical activities authorized by section 242k of this title and by subchapter VII of this chapter.
+For the purpose of advancing the status of the health sciences in the United States (and thereby the health of the American people), the Secretary may participate with other countries incooperative endeavors in biomedical research, health care technology, and the health services research and statistical activities authorized by section 242k of this title and by subchapter VII of this chapter.
 
 #### (b) Authority of Secretary; building construction prohibition
 

@@ -44,7 +44,7 @@ A comprehensive drug and violence prevention program carried out under this subp
 
 &emsp;&emsp;(C) the implementation of strategies, such as conflict resolution and peer mediation, student outreach efforts against violence, anti-crime youth councils (which work with school and community-based organizations to discuss and develop crime prevention strategies), and the use of mentoring programs, to combat school violence and other forms of disruptive behavior, such as sexual harassment and abuse; and
 
-&emsp;&emsp;(D) the development and implementation of character education programs, as a component of a comprehensive drug or violence prevention program, that are tailored by communities, parents and schools; and
+&emsp;&emsp;(D) the development and implementation of character education and training programs that reflect the values of parents, teachers, and local communities, and incorporate elements of good character, including honesty, citizenship, courage, justice, respect, personal responsibility, and trustworthiness; and
 
 &emsp;&emsp;(E) comprehensive, community-wide strategies to prevent or reduce illegal gang activities;
 
@@ -56,7 +56,7 @@ A comprehensive drug and violence prevention program carried out under this subp
 
 &emsp;(8) the promotion of before-and-after school recreational, instructional, cultural, and artistic programs in supervised community settings;
 
-&emsp;(9) drug abuse resistance education programs, designed to teach students to recognize and resist pressures to use alcohol or other drugs, which may include activities such as classroom instruction by uniformed law enforcement officers, resistance techniques, resistance to peer pressure and gang pressure, and provision for parental involvement; and
+&emsp;(9) drug abuse resistance education programs, designed to teach students to recognizeand resist pressures to use alcohol or other drugs, which may include activities such as classroom instruction by uniformed law enforcement officers, resistance techniques, resistance to peer pressure and gang pressure, and provision for parental involvement; and
 
 &emsp;(10) the evaluation of any of the activities authorized under this subsection.
 
@@ -74,7 +74,7 @@ A comprehensive drug and violence prevention program carried out under this subp
 
 Notwithstanding any other provisions of law, any funds expended prior to July 1, 1995, under part B of the Drug-Free Schools and Communities Act of 1986 (as in effect prior to October 20, 1994) for the support of a comprehensive school health program shall be deemed to have been authorized by part B of such Act.
 
-(Pub. L. 89–10, title IV, §4116, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3682.)
+(Pub. L. 89–10, title IV, §4116, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3682; amended Pub. L. 106–554, §1(a)(1) \[title III, §314\], Dec. 21, 2000, 114 Stat. 2763, 2763A–47.)
 
 #### References in Text
 
@@ -83,6 +83,10 @@ Part B of the Drug-Free Schools and Communities Act of 1986 (as in effect prior 
 #### Codification
 
 October 20, 1994, referred to in subsec. (d), was in the original “enactment of the Improving America's Schools Act”, which was translated as meaning enactment of the Improving America's Schools Act of 1994, Pub. L. 103–382, to reflect the probable intent of Congress.
+
+#### Amendments
+
+2000—Subsec. (b)(4)(D). Pub. L. 106–554 added subpar. (D) and struck out former subpar. (D) which read as follows: “the development and implementation of character education programs, as a component of a comprehensive drug or violence prevention program, that are tailored by communities, parents and schools; and”.
 
 #### Development of Model Program of Strategies and Tactics
 
@@ -132,5 +136,5 @@ Authorization of Appropriations.—There is authorized to be appropriated to car
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 7112 of this title.
+This section is referred to in sections 7112, 8293, 8294 of this title.
 

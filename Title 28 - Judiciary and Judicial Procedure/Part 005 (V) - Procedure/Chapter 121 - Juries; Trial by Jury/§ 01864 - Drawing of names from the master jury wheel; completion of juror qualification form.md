@@ -24,21 +24,13 @@ As finally enacted, act July 9, 1947, ch. 211, title IV, 61 Stat. 304, which was
 
 #### Amendments
 
-1988—Subsec. (a). Pub. L. 100–702 amended second sentence generally. Prior to amendment, second sentence read as follows: “The clerk or jury commission shallprepare an alphabetical list of the names drawn, which list shall not be disclosed to any person except pursuant to the district court plan and to sections 1867 and 1868 of this title.”
+<b>1988</b>—Subsec. (a). Pub. L. 100–702 amended second sentence generally. Prior to amendment, second sentence read as follows: “The clerk or jury commission shall prepare an alphabetical list of the names drawn, which list shall not be disclosed to any person except pursuant to the district court plan and to sections 1867 and 1868 of this title.”
 
-1968—Pub. L. 90–274 substituted provisions for the public drawing of names from the master jury wheel, the completion of the jury qualification form, and the penalties for failure to appear and for misrepresentation of material facts for provisions requiring the drawing of names from a jury box, the refilling of the box by the clerk and a jury commissioner, the requirements and compensation of the commissioner, and the alternate placement of names by the clerk and the commissioner.
+<b>1968</b>—Pub. L. 90–274 substituted provisions for the public drawing of names from the master jury wheel, the completion of the jury qualification form, and the penalties for failure to appear and for misrepresentation of material facts for provisions requiring the drawing of names from a jury box, the refilling of the box by the clerk and a jury commissioner, the requirements and compensation of the commissioner, and the alternate placement of names by the clerk and the commissioner.
 
 #### Effective Date of 1968 Amendment
 
 Amendment by Pub. L. 90–274 effective 270 days after Mar. 27, 1968, except as to cases in which an indictment has been returned or a petit jury empaneled prior to such effective date, see section 104 of Pub. L. 90–274, set out as a note under section 1861 of this title.
-
-#### Federal Rules of Civil Procedure
-
-Jurors and juries, see rules 38, 39, 46, 47, and 48, Appendix to this title.
-
-#### Federal Rules of Criminal Procedure
-
-Jurors and juries, see rules 6, 23, 24, and 51, Title 18, Appendix, Crimes and Criminal Procedure.
 
 #### Section Referred to in Other Sections
 

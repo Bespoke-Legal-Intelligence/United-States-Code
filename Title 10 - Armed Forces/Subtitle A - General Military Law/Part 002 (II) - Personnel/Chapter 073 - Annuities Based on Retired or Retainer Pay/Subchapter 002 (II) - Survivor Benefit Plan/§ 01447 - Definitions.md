@@ -110,7 +110,7 @@ In general.—The term “court order” means a court's final decree of divorce
 
 &emsp;&emsp;(B)
 
-Final decree.—The term “final decree” means a decree from which no appeal may be taken or from which no appeal hasbeen taken within the time allowed for the taking of such appeals under the laws applicable to such appeals, or a decree from which timely appeal has been taken and such appeal has been finally decided under the laws applicable to such appeals.
+Final decree.—The term “final decree” means a decree from which no appeal may be taken or from which no appeal has been taken within the time allowed for the taking of such appeals under the laws applicable to such appeals, or a decree from which timely appeal has been taken and such appeal has been finally decided under the laws applicable to such appeals.
 
 &emsp;&emsp;(C)
 

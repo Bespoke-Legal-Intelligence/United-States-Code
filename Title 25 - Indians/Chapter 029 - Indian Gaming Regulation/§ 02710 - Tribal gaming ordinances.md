@@ -158,7 +158,7 @@
 
 &emsp;(II) any civil action that arises before, and any crime that is committed before, the close of such 1-year period shall not be affected by such revocation ordinance or resolution.
 
-(3)(A) Any Indian tribe having jurisdiction over the Indian lands upon which a class III gaming activity is being conducted, or is to be conducted, shall request the State in which such lands are located to enter into negotiations for the purpose of entering into a Tribal-State compact governing the conduct of gaming activities. Upon receiving such a request, the State shall negotiate with the Indian tribe in good faith to enter into such a compact.
+(3)(A) Any Indian tribe having jurisdiction over the Indian lands upon which a class III gaming activity is being conducted, or is to be conducted, shall request the State in which suchlands are located to enter into negotiations for the purpose of entering into a Tribal-State compact governing the conduct of gaming activities. Upon receiving such a request, the State shall negotiate with the Indian tribe in good faith to enter into such a compact.
 
 (B) Any State and any Indian tribe may enter into a Tribal-State compact governing gaming activities on the Indian lands of the Indian tribe, but such compact shall take effect only when notice of approval by the Secretary of such compact has been published by the Secretary in the Federal Register.
 
@@ -180,7 +180,7 @@
 
 (4) Except for any assessments that may be agreed to under paragraph (3)(C)(iii) of this subsection, nothing in this section shall be interpreted as conferring upon a State or any of its political subdivisions authority to impose any tax, fee, charge, or other assessment upon an Indian tribe or upon any other person or entity authorized by an Indian tribe to engage in a class III activity. No State may refuse to enter into the negotiations described in paragraph (3)(A) based upon the lack of authority in such State, or its political subdivisions, to impose such a tax, fee, charge, or other assessment.
 
-(5) Nothing in this subsection shall impair the right of an Indian tribe to regulate class IIIgaming on its Indian lands concurrently with the State, except to the extent that such regulation is inconsistent with, or less stringent than, the State laws and regulations made applicable by any Tribal-State compact entered into by the Indian tribe under paragraph (3) that is in effect.
+(5) Nothing in this subsection shall impair the right of an Indian tribe to regulate class III gaming on its Indian lands concurrently with the State, except to the extent that such regulation is inconsistent with, or less stringent than, the State laws and regulations made applicable by any Tribal-State compact entered into by the Indian tribe under paragraph (3) that is in effect.
 
 (6) The provisions of section 1175 of title 15 shall not apply to any gaming conducted under a Tribal-State compact that—
 
@@ -216,7 +216,7 @@
 
 (v) The mediator appointed by the court under clause (iv) shall submit to the State and the Indian tribe the compact selected by the mediator under clause (iv).
 
-(vi) If a State consents to a proposed compact during the 60-day period beginning on the date on which the proposed compact is submitted by the mediator to the State under clause (v), the proposed compact shall be treated as a Tribal-State compact entered into under paragraph (3).
+(vi) If a State consents to a proposed compact during the 60-day period beginning on the dateon which the proposed compact is submitted by the mediator to the State under clause (v), the proposed compact shall be treated as a Tribal-State compact entered into under paragraph (3).
 
 (vii) If the State does not consent during the 60-day period described in clause (vi) to a proposed compact submitted by a mediator under clause (v), the mediator shall notify the Secretary and the Secretary shall prescribe, in consultation with the Indian tribe, procedures—
 
@@ -242,7 +242,7 @@
 
 #### (e) Approval of ordinances
 
-For purposes of this section, by not later than the date that is 90 days after the date on whichany tribal gaming ordinance or resolution is submitted to the Chairman, the Chairman shall approve such ordinance or resolution if it meets the requirements of this section. Any such ordinance or resolution not acted upon at the end of that 90-day period shall be considered to have been approved by the Chairman, but only to the extent such ordinance or resolution is consistent with the provisions of this chapter.
+For purposes of this section, by not later than the date that is 90 days after the date on which any tribal gaming ordinance or resolution is submitted to the Chairman, the Chairman shall approve such ordinance or resolution if it meets the requirements of this section. Any such ordinance or resolution not acted upon at the end of that 90-day period shall be considered to have been approved by the Chairman, but only to the extent such ordinance or resolution is consistent with the provisions of this chapter.
 
 (Pub. L. 100–497, §11, Oct. 17, 1988, 102 Stat. 2472.)
 

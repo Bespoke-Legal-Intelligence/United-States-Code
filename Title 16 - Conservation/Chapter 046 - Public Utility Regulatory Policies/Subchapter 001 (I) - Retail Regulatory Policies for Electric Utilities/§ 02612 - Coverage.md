@@ -10,7 +10,7 @@ The requirements of this chapter do not apply to the operations of an electric u
 
 #### (c) List of covered utilities
 
-Before the beginning of each calendar year, the Secretary shall publish a list identifyingeach electric utility to which this chapter applies during such calendar year. Promptly after publication of such list each State regulatory authority shall notify the Secretary of each electric utility on the list for which such State regulatory authority has ratemaking authority.
+Before the beginning of each calendar year, the Secretary shall publish a list identifying each electric utility to which this chapter applies during such calendar year. Promptly after publication of such list each State regulatory authority shall notify the Secretary of each electric utility on the list for which such State regulatory authority has ratemaking authority.
 
 (Pub. L. 95–617, title I, §102, Nov. 9, 1978, 92 Stat. 3121.)
 

@@ -34,10 +34,6 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 Pub. L. 99–150, §8, Nov. 13, 1985, 99 Stat. 791, provided that: “A public agency which is a State, political subdivision of a State, or an interstate governmental agency and which discriminates or has discriminated against an employee with respect to the employee's wages or other terms or conditions of employment because on or after February 19, 1985, the employee asserted coverage under section 7 of the Fair Labor Standards Act of 1938 \[29 U.S.C. 207\] shall be held to have violated section 15(a)(3) of such Act \[29 U.S.C. 215(a)(3)\]. The protection against discrimination afforded by the preceding sentence shall be available after August 1, 1986, only for an employee who takes an action described in section 15(a)(3) of such Act.”
 
-#### Cross References
-
-Prohibition of age discrimination under this section, see section 626 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 206, 216, 217, 626 of this title.

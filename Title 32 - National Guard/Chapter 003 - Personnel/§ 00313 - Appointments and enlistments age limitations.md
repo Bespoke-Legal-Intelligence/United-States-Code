@@ -56,10 +56,6 @@ July 30, 1956, ch. 789, §2 (as applicable to age), 70 Stat. 729.
 
 1958—Subsec. (b). Pub. L. 85–861 inserted qualifications for appointment of women with a view to serving as nurses or medical specialists.
 
-#### Cross References
-
-Army National Guard of United States and Air National Guard of United States, enlistment, see section 12107 of Title 10, Armed Forces.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in title 10 section 311.

@@ -12,10 +12,6 @@ A right of way through the public lands of the United States in the State of Ark
 
 Repeal by Pub. L. 94–579 insofar as applicable to the issuance of rights-of-way not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under section 1701 of this title.
 
-#### Cross References
-
-Right-of-way for pipelines over public lands to be granted only under and subject to the provisions, limitations, and conditions enumerated, see section 185 of Title 30, Mineral Lands and Mining.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 967, 968, 969, 970 of this title.

@@ -4,7 +4,3 @@ The provisions of this subchapter, and the name “the Virgin Islands” as used
 
 (June 22, 1936, ch. 699, §1, 49 Stat. 1807.)
 
-#### Cross References
-
-Provisions of this subchapter, not inconsistent with section 1541 et seq. of this title as continued in force and effect, see section 1574 of this title.
-

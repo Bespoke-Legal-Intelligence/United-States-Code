@@ -38,27 +38,25 @@ The aeronautical and space activities of the United States shall be conducted so
 
 The Congress declares that the general welfare of the United States requires that the unique competence in scientific and engineering systems of the National Aeronautics and Space Administration also be directed toward ground propulsion systems research and development. Such development shall be conducted so as to contribute to the objectives of developing energy and petroleum-conserving ground propulsion systems, and of minimizing the environmental degradation caused by such systems.
 
-#### (f) Development of advanced automobile propulsion systems
-
-The Congress declares that the general welfare of the United States requires that the unique competence in scientific and engineering systems of the National Aeronautics and Space Administration also be directed toward the development of advanced automobile propulsion systems. Such development shall be conducted so as to contribute to the achievement of the purposes set forth in section 2701(b) of title 15.
-
-#### (g) Bioengineering research, development, and demonstration programs
+#### (f) Bioengineering research, development, and demonstration programs
 
 The Congress declares that the general welfare of the United States requires that the unique competence of the National Aeronautics and Space Administration in science and engineering systems be directed to assisting in bioengineering research, development, and demonstration programs designed to alleviate and minimize the effects of disability.
 
-#### (h) Purpose of chapter
+#### (g) Purpose of chapter
 
-It is the purpose of this chapter to carry out and effectuate the policies declared in subsections (a), (b), (c), (d), (e), (f), and (g) of this section.
+It is the purpose of this chapter to carry out and effectuate the policies declared in subsections (a), (b), (c), (d), (e), and (f) of this section.
 
-(Pub. L. 85–568, title I, §102, July 29, 1958, 72 Stat. 426; Pub. L. 94–413, §15(a), (b), Sept. 17, 1976, 90 Stat. 1270; Pub. L. 95–238, title III, §311, Feb. 25, 1978, 92 Stat. 83; Pub. L. 95–401, §7, Sept. 30, 1978, 92 Stat. 860; Pub. L. 98–361, title I, §110, July 16, 1984, 98 Stat. 426; Pub. L. 100–685, title II, §214, Nov. 17, 1988, 102 Stat. 4093.)
+(Pub. L. 85–568, title I, §102, July 29, 1958, 72 Stat. 426; Pub. L. 94–413, §15(a), (b), Sept. 17, 1976, 90 Stat. 1270; Pub. L. 95–238, title III, §311, Feb. 25, 1978, 92 Stat. 83; Pub. L. 95–401, §7, Sept. 30, 1978, 92 Stat. 860; Pub. L. 98–361, title I, §110, July 16, 1984, 98 Stat. 426; Pub. L. 100–685, title II, §214, Nov. 17, 1988, 102 Stat. 4093; Pub. L. 106–391, title III, §302(a), Oct. 30, 2000, 114 Stat. 1591.)
 
 #### References in Text
 
 Section 2471 of this title, referred to in subsec. (b), was omitted from the Code.
 
-This chapter, referred to in subsec. (h), was in the original “this Act”, meaning Pub. L. 85–568, July 29, 1958, 72 Stat. 426, as amended. For complete classification of this Act to the Code, see Short Title note below and Tables.
+This chapter, referred to in subsec. (g), was in the original “this Act”, meaning Pub. L. 85–568, July 29, 1958, 72 Stat. 426, as amended. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 #### Amendments
+
+2000—Subsecs. (f) to (h). Pub. L. 106–391 redesignated subsecs. (g) and (h) as (f) and (g), respectively, substituted “and (f)” for “(f), and (g)” in subsec. (g), and struck out former subsec. (f) which read as follows: “The Congress declares that the general welfare of the United States requires that the unique competence in scientific and engineering systems of the National Aeronautics and Space Administration also be directed toward the development of advanced automobile propulsion systems. Such development shall be conducted so as to contribute to the achievement of the purposes set forth in section 2701(b) of title 15.”
 
 1988—Subsec. (d)(9). Pub. L. 100–685, which directed the amendment of subsec. (c) by adding par. (9), was executed to subsec. (d) to reflect the probable intent of Congress and the redesignation of former subsec. (c) as (d) by Pub. L. 98–361.
 
@@ -91,6 +89,388 @@ Pub. L. 101–611, title II, §201, Nov. 16, 1990, 104 Stat. 3205, provided that
 #### Short Title
 
 Section 101 of Pub. L. 85–568 provided that: “This Act \[enacting this chapter and section 799 of Title 18, Crimes and Criminal Procedure, amending section 22–1 of former Title 5, Executive Departments and Government Officers and Employees (which was repealed and reenacted in pertinent part as sections 7531 and 7532 of Title 5, Government Organization and Employees, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 514), sections 2302 and 2303 of Title 10, Armed Forces, section 1114 of Title 18, sections 511, 512, 513, and 515 of Title 50, War and National Defense, and enacting provisions set out as notes under section 2472 of this title and section 2302 of Title 10\] may be cited as the ‘National Aeronautics and Space Act of 1958’.”
+
+#### Commission on the Future of the United States Aerospace Industry
+
+Pub. L. 106–398, §1 \[\[div. A\], title X, §1092\], Oct. 30, 2000, 114 Stat. 1654, 1654A–300, provided that:
+
+“(a)
+
+Establishment.—There is established a commission to be known as the ‘Commission on the Future of the United States Aerospace Industry’ (in this section referred to as the ‘Commission’).
+
+“(b)
+
+Membership.—(1) The Commission shall be composed of 12 members appointed, not later than March 1, 2001, as follows:
+
+&emsp;“(A) Up to six members shall be appointed by the President.
+
+&emsp;“(B) Two members shall be appointed by the Speaker of the House of Representatives.
+
+&emsp;“(C) Two members shall be appointed by the majority leader of the Senate.
+
+&emsp;“(D) One member shall be appointed by the minority leader of the Senate.
+
+&emsp;“(E) One member shall be appointed by the minority leader of the House of Representatives.
+
+“(2) The members of the Commission shall be appointed from among persons with extensive experience and national reputations in aerospace manufacturing, economics, finance, national security, international trade, or foreign policy and persons who are representative of labor organizations associated with the aerospace industry.
+
+“(3) Members shall be appointed for the life of the Commission. A vacancy in the Commission shall not affect its powers, but shall be filled in the same manner as the original appointment.
+
+“(4) The President shall designate one member of the Commission to serve as the chairman of the Commission.
+
+“(5) The Commission shall meet at the call of the chairman. A majority of the members shall constitute a quorum, but a lesser number may hold hearings.
+
+“(c)
+
+Duties.—(1) The Commission shall—
+
+&emsp;“(A) study the issues associated with the future of the United States aerospace industry in the global economy, particularly in relationship to United States national security; and
+
+&emsp;“(B) assess the future importance of the domestic aerospace industry for the economic and national security of the United States.
+
+“(2) In order to fulfill its responsibilities, the Commission shall study the following:
+
+&emsp;“(A) The budget process of the United States Government, particularly with a view to assessing the adequacy of projected budgets of the Federal departments and agencies for aerospace research and development and procurement.
+
+&emsp;“(B) The acquisition process of the Government, particularly with a view to assessing—
+
+&emsp;&emsp;“(i) the adequacy of the current acquisition process of Federal departments and agencies; and
+
+&emsp;&emsp;“(ii) the procedures for developing and fielding aerospace systems incorporating new technologies in a timely fashion.
+
+&emsp;“(C) The policies, procedures, and methods for the financing and payment of Government contracts.
+
+&emsp;“(D) Statutes and regulations governing international trade and the export of technology, particularly with a view to assessing—
+
+&emsp;&emsp;“(i) the extent to which the current system for controlling the export of aerospace goods, services, and technologies reflects an adequate balance between the need to protect national security and the need to ensure unhindered access to the global marketplace; and
+
+&emsp;&emsp;“(ii) the adequacy of United States and multilateral trade laws and policies for maintaining the international competitiveness of the United States aerospace industry.
+
+&emsp;“(E) Policies governing taxation, particularly with a view to assessing the impact of current tax laws and practices on the international competitiveness of the aerospace industry.
+
+&emsp;“(F) Programs for the maintenance of the national space launch infrastructure, particularly with a view to assessing the adequacy of current and projected programs for maintaining the national space launch infrastructure.
+
+&emsp;“(G) Programs for the support of science and engineering education, including current programs for supporting aerospace science and engineering efforts at institutions of higher learning, with a view to determining the adequacy of those programs.
+
+“(d)
+
+Report.—(1) Not later than March 1, 2002, the Commission shall submit a report on its activities to the President and Congress.
+
+“(2) The report shall include the following:
+
+&emsp;“(A) The Commission's findings and conclusions.
+
+&emsp;“(B) The Commission's recommendations for actions by Federal departments and agencies to support the maintenance of a robust aerospace industry in the United States in the 21st century and any recommendations for statutory and regulatory changes to support the implementation of the Commission's findings.
+
+&emsp;“(C) A discussion of the appropriate means for implementing the Commission's recommendations.
+
+“(e)
+
+Administrative Requirements and Authorities.—(1) The Director of the Office of Management and Budget shall ensure that the Commission is provided such administrative services, facilities, staff, and other support services as may be necessary. Any expenses of the Commission shall be paid from funds available to the Director.
+
+“(2) The Commission may hold hearings, sit and act at times and places, take testimony, and receive evidence that the Commission considers advisable to carry out the purposes of this section.
+
+“(3) The Commission may request directly from any department or agency of the United States any information that the Commission considers necessary to carry out the provisions of this section. To the extent consistent with applicable requirements of law and regulations, the head of such department or agency shall furnish such information to the Commission.
+
+“(4) The Commission may use the United States mails in the same manner and under the same conditions as other departments and agencies of the United States.
+
+“(f)
+
+Commission Personnel Matters.—(1) Members of the Commission shall serve without additional compensation for their service on the Commission, except that members appointed from among private citizens may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in Government service under subchapter I of chapter 57 of title 5, United States Code, while away from their homes and places of business in the performance of services for the Commission.
+
+“(2) The chairman of the Commission may appoint staff of the Commission, request the detail of Federal employees, and accept temporary and intermittent services in accordance with section 3161 of title 5, United States Code (as added by section 1101 of this Act).
+
+“(g)
+
+Termination.—The Commission shall terminate 30 days after the date of the submission of its report under subsection (d).”
+
+#### International Space Station
+
+Pub. L. 106–391, title II, §§201–203, 205, Oct. 30, 2000, 114 Stat. 1586–1590, provided that:
+
+#### “SEC. 201. INTERNATIONAL SPACE STATION CONTINGENCY PLAN.
+
+“(a)
+
+Bimonthly Reporting on Russian Status.—Not later than the first day of the first month beginning more than 60 days after the date of the enactment of this Act \[Oct. 30, 2000\], and not later than the first day of every second month thereafter until October 1, 2006, the Administrator \[of the National Aeronautics and Space Administration\] shall report to Congress whether or not the Russians have performed work expected of them and necessary to complete the International Space Station. Each such report shall also include a statement of the Administrator's judgment concerning Russia's ability to perform work anticipated and required to complete the International Space Station before the next report under this subsection.
+
+“(b)
+
+Decision on Russian Critical Path Items.—The President shall notify Congress within 90 days after the date of the enactment of this Act \[Oct. 30, 2000\] of the decision on whether or not to proceed with permanent replacement of any Russian elements in the critical path \[as defined in section 3 of Pub. L. 106–391, 42 U.S.C. 2452 note\] of the International Space Station or any Russian launch services. Such notification shall include the reasons and justifications for the decision and the costs associated with the decision. Such decision shall include a judgment of when all elements identified in Revision E assembly sequence as of June 1999 will be in orbit and operational. If the President decides to proceed with a permanent replacement for any Russian element in the critical path or any Russian launch services, the President shall notify Congress of the reasons and the justification for the decision to proceed with the permanent replacement and the costs associated with the decision.
+
+“(c)
+
+Assurances.—The United States shall seek assurances from the Russian Government that it places a higher priority on fulfilling its commitments to the International Space Station than it places on extending the life of the Mir Space Station, including assurances that Russia will not utilize assets allocated by Russia to the International Space Station for other purposes, including extending the life of Mir.
+
+“(d)
+
+Equitable Utilization.—In the event that any International Partner in the International Space Station Program willfully violates any of its commitments or agreements for the provision of agreed-upon Space Station-related hardware or related goods or services, the Administrator should, in a manner consistent with relevant international agreements, seek a commensurate reduction in the utilization rights of that Partner until such time as the violated commitments or agreements have been fulfilled.
+
+“(e)
+
+Operation Costs.—The Administrator shall, in a manner consistent with relevant international agreements, seek to reduce the National Aeronautics and Space Administration's share of International Space Station common operating costs, based upon any additional capabilities provided to the International Space Station through the National Aeronautics and Space Administration's Russian Program Assurance activities.
+
+#### “SEC. 202. COST LIMITATION FOR THE INTERNATIONAL SPACE STATION.
+
+“(a)
+
+Limitation of Costs.—
+
+&emsp;“(1)
+
+In general.—Except as provided in subsections (c) and (d), the total amount obligated by the National Aeronautics and Space Administration for—
+
+&emsp;&emsp;“(A) costs of the International Space Station may not exceed $25,000,000,000; and
+
+&emsp;&emsp;“(B) space shuttle launch costs in connection with the assembly of the International Space Station may not exceed $17,700,000,000.
+
+&emsp;“(2)
+
+Calculation of launch costs.—For purposes of paragraph (1)(B)—
+
+&emsp;&emsp;“(A) not more than $380,000,000 in costs for any single space shuttle launch shall be taken into account; and
+
+&emsp;&emsp;“(B) if the space shuttle launch costs taken into account for any single space shuttle launch are less than $380,000,000, then the Administrator \[of the National Aeronautics and Space Administration\] shall arrange for a verification, by the General Accounting Office, of the accounting used to determine those costs and shall submit that verification to the Congress within 60 days after the date on which the next budget request is transmitted to the Congress.
+
+“(b)
+
+Costs to Which Limitation Applies.—
+
+&emsp;“(1)
+
+Development costs.—The limitation imposed by subsection (a)(1)(A) does not apply to funding for operations, research, or crew return activities subsequent to substantial completion of the International Space Station.
+
+&emsp;“(2)
+
+Launch costs.—The limitation imposed by subsection (a)(1)(B) does not apply—
+
+&emsp;&emsp;“(A) to space shuttle launch costs in connection with operations, research, or crew return activities subsequent to substantial completion of the International Space Station;
+
+&emsp;&emsp;“(B) to space shuttle launch costs in connection with a launch for a mission on which at least 75 percent of the shuttle payload by mass is devoted to research; nor
+
+&emsp;&emsp;“(C) to any additional costs incurred in ensuring or enhancing the safety and reliability of the space shuttle.
+
+&emsp;“(3)
+
+Substantial completion.—For purposes of this subsection, the International Space Station is considered to be substantially completed when the development costs comprise 5 percent or less of the total International Space Station costs for the fiscal year.
+
+“(c)
+
+Notice of Changes to Space Station Costs.—The Administrator shall provide with each annual budget request a written notice and analysis of any changes under subsection (d) to the amounts set forth in subsection (a) to the Senate Committees on Appropriations and on Commerce, Science, and Transportation and to the House of Representatives Committees on Appropriations and on Science. In addition, such notice may be provided at other times, as deemed necessary by the Administrator. The written notice shall include—
+
+&emsp;“(1) an explanation of the basis for the change, including the costs associated with the change and the expected benefit to the program to be derived from the change;
+
+&emsp;“(2) an analysis of the impact on the assembly schedule and annual funding estimates of not receiving the requested increases; and
+
+&emsp;“(3) an explanation of the reasons that such a change was not anticipated in previous program budgets.
+
+“(d)
+
+Funding for Contingencies.—
+
+&emsp;“(1)
+
+Notice required.—If funding in excess of the limitation provided for in subsection (a) is required to address the contingencies described in paragraph (2), then the Administrator shall provide the written notice required by subsection (c). In the case of funding described in paragraph (3)(A), such notice shall be required prior to obligating any of the funding. In the case of funding described in paragraph (3)(B), such notice shall be required within 15 days after making a decision to implement a change that increases the space shuttle launch costs in connection with the assembly of the International Space Station.
+
+&emsp;“(2)
+
+Contingencies.—The contingencies referred to in paragraph (1) are the following:
+
+&emsp;&emsp;“(A) The lack of performance or the termination of participation of any of the International countries party to the Intergovernmental Agreement.
+
+&emsp;&emsp;“(B) The loss or failure of a United States-provided element during launch or on-orbit.
+
+&emsp;&emsp;“(C) On-orbit assembly problems.
+
+&emsp;&emsp;“(D) New technologies or training to improve safety on the International Space Station.
+
+&emsp;&emsp;“(E) The need to launch a space shuttle to ensure the safety of the crew or to maintain the integrity of the station.
+
+&emsp;“(3)
+
+Amounts.—The total amount obligated by the National Aeronautics and Space Administration to address the contingencies described in paragraph (2) is limited to—
+
+&emsp;&emsp;“(A) $5,000,000,000 for the International Space Station; and
+
+&emsp;&emsp;“(B) $3,540,000,000 for the space shuttle launch costs in connection with the assembly of the International Space Station.
+
+“(e)
+
+Reporting and Review.—
+
+&emsp;“(1)
+
+Identification of costs.—
+
+&emsp;&emsp;“(A)
+
+Space shuttle.—As part of the overall space shuttle program budget request for each fiscal year, the Administrator shall identify separately—
+
+&emsp;&emsp;&emsp;“(i) the amounts of the requested funding that are to be used for completion of the assembly of the International Space Station; and
+
+&emsp;&emsp;&emsp;“(ii) any shuttle research mission described in subsection (b)(2).
+
+&emsp;&emsp;“(B)
+
+International space station.—As part of the overall International Space Station budget request for each fiscal year, the Administrator shall identify the amount to be used for development of the International Space Station.
+
+&emsp;“(2)
+
+Accounting for cost limitations.—As part of the annual budget request to the Congress, the Administrator shall account for the cost limitations imposed by subsection (a).
+
+&emsp;“(3)
+
+Verification of accounting.—The Administrator shall arrange for a verification, by the General Accounting Office, of the accounting submitted to the Congress within 60 days after the date on which the budget request is transmitted to the Congress.
+
+&emsp;“(4)
+
+Inspector general.—Within 60 days after the Administrator provides a notice and analysis to the Congress under subsection (c), the Inspector General of the National Aeronautics and Space Administration shall review the notice and analysis and report the results of the review to the committees to which the notice and analysis were provided.
+
+#### “SEC. 203. RESEARCH ON INTERNATIONAL SPACE STATION.
+
+“(a)
+
+Study.—The Administrator \[of the National Aeronautics and Space Administration\] shall enter into a contract with the National Research Council and the National Academy of Public Administration to jointly conduct a study of the status of life and microgravity research as it relates to the International Space Station. The study shall include—
+
+&emsp;“(1) an assessment of the United States scientific community's readiness to use the International Space Station for life and microgravity research;
+
+&emsp;“(2) an assessment of the current and projected factors limiting the United States scientific community's ability to maximize the research potential of the International Space Station, including, but not limited to, the past and present availability of resources in the life and microgravity research accounts within the Office of Human Spaceflight and the Office of Life and Microgravity Sciences and Applications and the past, present, and projected access to space of the scientific community; and
+
+&emsp;“(3) recommendations for improving the United States scientific community's ability to maximize the research potential of the International Space Station, including an assessment of the relative costs and benefits of—
+
+&emsp;&emsp;“(A) dedicating an annual mission of the Space Shuttle to life and microgravity research during assembly of the International Space Station; and
+
+&emsp;&emsp;“(B) maintaining the schedule for assembly in place at the time of the enactment \[Oct. 30, 2000\].
+
+“(b)
+
+Report.—Not later than 1 year after the date of the enactment of this Act \[Oct. 30, 2000\], the Administrator shall transmit to the Committee on Science of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the results of the study conducted under this section.
+
+#### “SEC. 205. SPACE STATION RESEARCH UTILIZATION AND COMMERCIALIZATION MANAGEMENT.
+
+“(a)
+
+Research Utilization and Commercialization Management Activities.—The Administrator of the National Aeronautics and Space Administration shall enter into an agreement with a non-government organization to conduct research utilization and commercialization management activities of the International Space Station subsequent to substantial completion as defined in section 202(b)(3). The agreement may not take effect less than 120 days after the implementation plan for the agreement is submitted to the Congress under subsection (b).
+
+“(b)
+
+Implementation Plan.—Not later than September 30, 2001, the Administrator shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science of the House of Representatives an implementation plan to incorporate the use of a non-government organization for the International Space Station. The implementation plan shall include—
+
+&emsp;“(1) a description of the respective roles and responsibilities of the Administration and the non-government organization;
+
+&emsp;“(2) a proposed structure for the non-government organization;
+
+&emsp;“(3) a statement of the resources required;
+
+&emsp;“(4) a schedule for the transition of responsibilities; and
+
+&emsp;“(5) a statement of the duration of the agreement.”
+
+#### Aero-Space Transportation Technology Integration
+
+Pub. L. 106–391, title III, §308, Oct. 30, 2000, 114 Stat. 1592, provided that:
+
+“(a)
+
+Integration Plan.—The Administrator \[of the National Aeronautics and Space Administration\] shall develop a plan for the integration of research, development, and experimental demonstration activities in the aeronautics transportation technology and space transportation technology areas where appropriate. The plan shall ensure that integration is accomplished without losing unique capabilities which support the National Aeronautics and Space Administration's defined missions. The plan shall also include appropriate strategies for using aeronautics centers in integration efforts.
+
+“(b)
+
+Reports to Congress.—Not later than 90 days after the date of the enactment of this Act \[Oct. 30, 2000\], the Administrator shall transmit to the Congress a report containing the plan developed under subsection (a). The Administrator shall transmit to the Congress annually thereafter for 5 years a report on progress in achieving such plan, to be transmitted with the annual budget request.”
+
+#### Innovative Technologies for Human Space Flight
+
+Pub. L. 106–391, title III, §313, Oct. 30, 2000, 114 Stat. 1594, provided that:
+
+“(a)
+
+Establishment of Program.—In order to promote a ‘faster, cheaper, better’ approach to the human exploration and development of space, the Administrator \[of the National Aeronautics and Space Administration\] shall establish a Human Space Flight Innovative Technologies program of ground-based and space-based research and development in innovative technologies. The program shall be part of the Technology and Commercialization program.
+
+“(b)
+
+Awards.—At least 75 percent of the amount appropriated for Technology and Commercialization under section 101(b)(4) \[114 Stat. 1581\] for any fiscal year shall be awarded through broadly distributed announcements of opportunity that solicit proposals from educational institutions, industry, nonprofit institutions, National Aeronautics and Space Administration Centers, the Jet Propulsion Laboratory, other Federal agencies, and other interested organizations, and that allow partnerships among any combination of those entities, with evaluation, prioritization, and recommendations made by external peer review panels.
+
+“(c)
+
+Plan.—The Administrator shall provide to the Committee on Science of the House of Representatives and to the Committee on Commerce, Science, and Transportation of the Senate, not later than December 1, 2000, a plan to implement the program established under subsection (a).”
+
+#### Life in the Universe
+
+Pub. L. 106–391, title III, §314, Oct. 30, 2000, 114 Stat. 1595, provided that:
+
+“(a)
+
+Review.—The Administrator \[of the National Aeronautics and Space Administration\] shall enter into appropriate arrangements with the National Academy of Sciences for the conduct of a review of—
+
+&emsp;“(1) international efforts to determine the extent of life in the universe; and
+
+&emsp;“(2) enhancements that can be made to the National Aeronautics and Space Administration's efforts to determine the extent of life in the universe.
+
+“(b)
+
+Elements.—The review required by subsection (a) shall include—
+
+&emsp;“(1) an assessment of the direction of the National Aeronautics and Space Administration's astrobiology initiatives within the Origins program;
+
+&emsp;“(2) an assessment of the direction of other initiatives carried out by entities other than the National Aeronautics and Space Administration to determinethe extent of life in the universe, including other Federal agencies, foreign space agencies, and private groups such as the Search for Extraterrestrial Intelligence Institute;
+
+&emsp;“(3) recommendations about scientific and technological enhancements that could be made to the National Aeronautics and Space Administration's astrobiology initiatives to effectively utilize the initiatives of the scientific and technical communities; and
+
+&emsp;“(4) recommendations for possible coordination or integration of National Aeronautics and Space Administration initiatives with initiatives of other entities described in paragraph (2).
+
+“(c)
+
+Report to Congress.—Not later than 20 months after the date of the enactment of this Act \[Oct. 30, 2000\], the Administrator shall transmit to the Congress a report on the results of the review carried out under this section.”
+
+#### Carbon Cycle Remote Sensing Applications Research
+
+Pub. L. 106–391, title III, §315, Oct. 30, 2000, 114 Stat. 1595, provided that:
+
+“(a)
+
+Carbon Cycle Remote Sensing Applications Research Program.—
+
+&emsp;“(1)
+
+In general.—The Administrator \[of the National Aeronautics and Space Administration\] shall develop a carbon cycle remote sensing applications research program—
+
+&emsp;&emsp;“(A) to provide a comprehensive view of vegetation conditions;
+
+&emsp;&emsp;“(B) to assess and model agricultural carbon sequestration; and
+
+&emsp;&emsp;“(C) to encourage the development of commercial products, as appropriate.
+
+&emsp;“(2)
+
+Use of centers.—The Administrator of the National Aeronautics and Space Administration shall use regional earth science application centers to conduct applications research under this section.
+
+&emsp;“(3)
+
+Researched areas.—The areas that shall be the subjects of research conducted under this section include—
+
+&emsp;&emsp;“(A) the mapping of carbon-sequestering land use and land cover;
+
+&emsp;&emsp;“(B) the monitoring of changes in land cover and management;
+
+&emsp;&emsp;“(C) new approaches for the remote sensing of soil carbon; and
+
+&emsp;&emsp;“(D) region-scale carbon sequestration estimation.
+
+“(b)
+
+Authorization of Appropriations.—There is authorized to be appropriated to carry out this section $5,000,000 of funds authorized by section 102 \[114 Stat. 1581\] for fiscal years 2001 through 2002.”
+
+#### 100th Anniversary of Flight Educational Initiative
+
+Pub. L. 106–391, title III, §317, Oct. 30, 2000, 114 Stat. 1596, provided that:
+
+“(a)
+
+Educational Initiative.—In recognition of the 100th anniversary of the first powered flight, the Administrator \[of the National Aeronautics and Space Administration\], in coordination with the Secretary of Education, shall develop and provide for the distribution, for use in the 2001–2002 academic year and thereafter, of age-appropriate educational materials, for use at the kindergarten, elementary, and secondary levels, on the history of flight, the contribution of flight to global development in the 20th century, the practical benefits of aeronautics and space flight to society, the scientific and mathematical principles used in flight, and any other related topics the Administrator considers appropriate. The Administrator shall integrate into the educational materials plans for the development and flight of the Mars plane.
+
+“(b)
+
+Report to Congress.—Not later than December 1, 2000, the Administrator shall transmit a report to the Congress on activities undertaken pursuant to this section.”
 
 #### Earth Observing System Program
 
@@ -302,7 +682,7 @@ Section 101 of Pub. L. 100–685 provided that: “Congress finds that—
 
 &emsp;“(8) the Administration should encourage the United States private sector investment in space and, to the maximum extent practicable provide frequent flight opportunities for the development of technologies, processes and products that benefit from the space environment;
 
-&emsp;“(9) the Administration should enhance the existing space transportation capability through a robust mixed fleet of manned and unmanned vehicles in order to increase the reliability, productivity, and efficiency and reduce the cost of the Nation's access to space;
+&emsp;“(9) the Administration should enhance the existing space transportation capability through a robustmixed fleet of manned and unmanned vehicles in order to increase the reliability, productivity, and efficiency and reduce the cost of the Nation's access to space;
 
 &emsp;“(10) the United States faces an increasingly successful foreign challenge to its traditional preeminent position in aeronautics which is rapidly reducing its lead in both civil and military aircraft;
 
@@ -336,7 +716,7 @@ Section 101 of Pub. L. 100–685 provided that: “Congress finds that—
 
 &emsp;&emsp;“(B) consist of—
 
-&emsp;&emsp;&emsp;“(i) fundamental research in all aeronautical disciplines, aimed at greater understanding ofaeronautical phenomena and development of new aeronautical concepts; and
+&emsp;&emsp;&emsp;“(i) fundamental research in all aeronautical disciplines, aimed at greater understanding of aeronautical phenomena and development of new aeronautical concepts; and
 
 &emsp;&emsp;&emsp;“(ii) technology development and validation activities aimed at laboratory-scale development and proof-of-concept demonstration of selected concepts with high payoff potential;
 
@@ -381,6 +761,8 @@ Section 217 of Pub. L. 100–685 provided that:
 &emsp;“(9) discusses sociological factors involved in space settlement such as psychology, political science, and legal issues; and
 
 &emsp;“(10) addresses such other topics as the National Aeronautics and Space Administration considers appropriate.”
+
+\[For termination, effective May 15, 2000, of provisions relating to submittal of report to Congress in section 217 of Pub. L. 100–685, set out above, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and item 13 on page 179 of House Document No. 103–7.\]
 
 #### Ten Year Strategic Plan
 
@@ -544,7 +926,7 @@ By virtue of the authority vested in me as President of the United States, it is
 
 Section 1. The Missile Sites Labor Commission is hereby abolished and its functions and responsibilities are transferred to the Federal Mediation and Conciliation Service.
 
-Sec. 2. The Director of the Federal Mediation and Conciliation Service shall establish within the Federal Mediation and Conciliation Service such procedures as may be necessary to provide for continued priority for resolution of labor disputes or potential labor disputes at missile and space sites, and shall seek the continuedcooperation of manufacturers, contractors, construction concerns, and labor unions in avoiding uneconomical operations and work stoppages at missile and space sites.
+Sec. 2. The Director of the Federal Mediation and Conciliation Service shall establish within the Federal Mediation and Conciliation Service such procedures as may be necessary to provide for continued priority for resolution of labor disputes or potential labor disputes at missile and space sites, and shall seek the continued cooperation of manufacturers, contractors, construction concerns, and labor unions in avoiding uneconomical operations and work stoppages at missile and space sites.
 
 Sec. 3. The Department of Defense, the National Aeronautics and Space Administration, and other appropriate government departments and agencies shall continue to cooperate in the avoidance of uneconomical operations and work stoppages at missile and space sites. They shall also assist the Federal Mediation and Conciliation Service in the discharge of its responsibilities under this order.
 

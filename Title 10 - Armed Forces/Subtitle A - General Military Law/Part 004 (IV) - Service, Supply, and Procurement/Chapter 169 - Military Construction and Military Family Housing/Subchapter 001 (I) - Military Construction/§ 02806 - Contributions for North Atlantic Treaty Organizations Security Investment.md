@@ -1,6 +1,6 @@
 ### §2806. Contributions for North Atlantic Treaty Organizations Security Investment
 
-(a) Within amounts authorized by law for such purpose, the Secretary of Defense may make contributions for the United States share of the cost of multilateral programs for the acquisition and construction of military facilities and installations (including international military headquarters) and for related expenses for the collective defense of the North Atlantic Treaty Area.
+(a) Within amounts authorized by law for such purpose, the Secretary of Defense may makecontributions for the United States share of the cost of multilateral programs for the acquisition and construction of military facilities and installations (including international military headquarters) and for related expenses for the collective defense of the North Atlantic Treaty Area.
 
 (b) Funds may not be obligated or expended in connection with the North Atlantic Treaty Organization Security Investment program in any year unless such funds have been authorized by law for such program.
 

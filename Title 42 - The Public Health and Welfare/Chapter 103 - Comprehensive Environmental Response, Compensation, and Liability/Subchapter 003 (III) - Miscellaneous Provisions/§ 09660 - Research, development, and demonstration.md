@@ -98,7 +98,7 @@
 
 #### (B) Solicitation
 
-&emsp;&emsp;Within 90 days after October 17, 1986, and no less often than once every 12 months thereafter, the Administrator shall publish a solicitation for innovative or alternative technologies at a stage of development suitable for full-scale demonstrations at sites at which a response action may be undertaken under section 9604 of this title. The purpose of any such project shall be to demonstrate the use of an alternative or innovative treatment technology with respect to hazardous substances or pollutants or contaminants which are located at the site or which are to be removed from the site. The solicitation notice shall prescribe information to be included in the application, including technical and economic data derived from theapplicant's own research and development efforts, and other information sufficient to permit the Administrator to assess the technology's potential and the types of remedial action to which it may be applicable.
+&emsp;&emsp;Within 90 days after October 17, 1986, and no less often than once every 12 months thereafter, the Administrator shall publish a solicitation for innovative or alternative technologies at a stage of development suitable for full-scale demonstrations at sites at which a response action may be undertaken under section 9604 of this title. The purpose of any such project shall be to demonstrate the use of an alternative or innovative treatment technology with respect to hazardous substances or pollutants or contaminants which are located at the site or which are to be removed from the site. The solicitation notice shall prescribe information to be included in the application, including technical and economic data derived from the applicant's own research and development efforts, and other information sufficient to permit the Administrator to assess the technology's potential and the types of remedial action to which it may be applicable.
 
 #### (C) Applications
 
@@ -114,7 +114,7 @@
 
 #### (F) Demonstration plan
 
-&emsp;&emsp;Within 60 days after the selection of the site under this paragraph to be the location of a demonstration project, the Administrator shall establish a final demonstration plan for the project, based upon the demonstration plan contained in the application for the project. Such plan shall clearly set forth how and when the demonstration project will be carried out.
+&emsp;&emsp;Within 60 days after the selection of the site under this paragraph to be the location of a demonstration project, the Administrator shall establish a final demonstration plan for the project, based upon the demonstration plan contained in the applicationfor the project. Such plan shall clearly set forth how and when the demonstration project will be carried out.
 
 #### (G) Supervision and testing
 
@@ -144,7 +144,7 @@
 
 &emsp;&emsp;(B) The availability of technologies which have been sufficiently developed for field demonstration and which are likely to be cost-effective and reliable.
 
-&emsp;&emsp;(C) The availability and suitability of sites for demonstrating such technologies, takinginto account the physical, biological, chemical, and geological characteristics of the sites, the extent and type of contamination found at the site, and the capability to conduct demonstration projects in such a manner as to assure the protection of human health and the environment.
+&emsp;&emsp;(C) The availability and suitability of sites for demonstrating such technologies, taking into account the physical, biological, chemical, and geological characteristics of the sites, the extent and type of contamination found at the site, and the capability to conduct demonstration projects in such a manner as to assure the protection of human health and the environment.
 
 &emsp;&emsp;(D) The likelihood that the data to be generated from the demonstration project at the site will be applicable to other sites.
 
@@ -316,7 +316,7 @@ Funding.—There is authorized to be appropriated to the Secretary of Energy for
 
 “(5)
 
-Authorization of appropriations.—There is authorized to be appropriated to the Administrator for purposes of carrying out this subsection (other than paragraph (4)) for fiscal years beginning after September 30, 1986, not more than $5,000,000.”
+Authorization of appropriations.—There is authorized to be appropriated to the Administrator for purposes of carrying out this subsection (other thanparagraph (4)) for fiscal years beginning after September 30, 1986, not more than $5,000,000.”
 
 #### Congressional Statement of Purpose
 

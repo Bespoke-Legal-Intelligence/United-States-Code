@@ -46,7 +46,7 @@ Section 5701 of title LVII of div. E of Pub. L. 104–106 provided that: “This
 
 #### Short Title
 
-Section 5001 of div. E of Pub. L. 104–106, as amended by Pub. L. 104–208, div. A, title I, §101(f) \[title VIII, §808(b)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–394, provided that: “This division \[div. E (§§5001–5703) of Pub. L. 104–106, see Tables for classification\] and division D \[§§4001–4402 of Pub. L. 104–106, see Tables for classification\] may be cited as the ‘Clinger-Cohen Act of 1996’.”
+Section 5001 of div. E of Pub. L. 104–106, as amended by Pub. L. 104–208, div. A, title I, §101(f) \[title VIII, §808(b)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–394, provided that: “This division \[div. E (§§5001–5703) of Pub. L. 104–106, see Tables for classification\] and division D\[§§4001–4402 of Pub. L. 104–106, see Tables for classification\] may be cited as the ‘Clinger-Cohen Act of 1996’.”
 
 #### Savings Provision
 
@@ -228,7 +228,7 @@ Sec. 4. <i>Government Information Technology Services Board.</i>
 
 (3) creating and utilizing affinity groups for particular business or technology areas; and
 
-(4) developing with the National Institute of Standards and Technology and with established standards bodies, standards and guidelines pertaining to Federal information systems, consistent with the limitations contained in the Computer Security Act of 1987 (40 U.S.C. 759 note), as amended by the Information Technology Act.
+(4) developing with the National Institute of Standards and Technology and with established standardsbodies, standards and guidelines pertaining to Federal information systems, consistent with the limitations contained in the Computer Security Act of 1987 (40 U.S.C. 759 note), as amended by the Information Technology Act.
 
 (b) <i>Membership</i>. The Services Board shall be composed of individuals from agencies based on their proven expertise or accomplishments in fields necessary to achieve its goals. Major government mission areas such as electronic benefits, electronic commerce, law enforcement, environmental protection, national defense, and health care may be represented on the Services Board to provide a program operations perspective. Initial selection of members will be made by OMB in consultation with other agencies as appropriate. The CIO Council may nominate two members. The Services Board shall recommend new members to OMB for consideration. The Chair will be elected by the Services Board.
 
@@ -302,7 +302,7 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 13103, Sept. 30, 1998, 63 F.R. 53273, provided:
 
-The United States Government is the world's largest purchaser of computer-related services and equipment, purchasing more than $20 billion annually. At a time when a critical component in discussions with our international trading partners concerns their efforts tocombat piracy of computer software and other intellectual property, it is incumbent on the United States to ensure that its own practices as a purchaser and user of computer software are beyond reproach. Accordingly, by the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+The United States Government is the world's largest purchaser of computer-related services and equipment, purchasing more than $20 billion annually. At a time when a critical component in discussions with our international trading partners concerns their efforts to combat piracy of computer software and other intellectual property, it is incumbent on the United States to ensure that its own practices as a purchaser and user of computer software are beyond reproach. Accordingly, by the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
 Section 1. <i>Policy</i>. It shall be the policy of the United States Government that each executive agency shall work diligently to prevent and combat computer software piracy in order to give effect to copyrights associated with computer software by observing the relevant provisions of international agreements in effect in the United States, including applicable provisions of the World Trade Organization Agreement on Trade-Related Aspects of Intellectual Property Rights, the Berne Convention for the Protection of Literary and Artistic Works, and relevant provisions of Federal law, including the Copyright Act.
 
@@ -348,5 +348,5 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 10 section 2223; title 29 section 794d; title 44 section 3502.
+This section is referred to in title 10 section 2223; title 29 section 794d; title 44 sections 3502, 3532.
 

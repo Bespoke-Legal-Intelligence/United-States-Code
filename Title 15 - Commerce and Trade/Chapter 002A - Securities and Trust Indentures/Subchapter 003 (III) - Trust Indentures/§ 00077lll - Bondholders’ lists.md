@@ -30,22 +30,6 @@ Subsec. (b). Pub. L. 101–550, §410(3), substituted “Within” for “The in
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
-#### Cross References
-
-Effect of prescribed indenture provisions, see section 77rrr of this title.
-
-Indenture to provide for transmission of reports to all known holders of indenture securities, see section 77mmm of this title.
-
-Proxies—
-
-&emsp;&emsp;Investment companies, use of mails or instrumentality of interstate commerce to solicit, unlawful, see section 80a–20 of this title.
-
-&emsp;&emsp;Person soliciting by mail or through interstate commerce respecting plan of reorganization, etc., to file copy with Commission, see section 80a–25 of this title.
-
-&emsp;&emsp;Securities registered on National Security Exchange, restrictions, see section 78n of this title.
-
-Refusal order when indenture does not conform to requirements of this section, see section 77eee of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 77ppp, 77rrr of this title.

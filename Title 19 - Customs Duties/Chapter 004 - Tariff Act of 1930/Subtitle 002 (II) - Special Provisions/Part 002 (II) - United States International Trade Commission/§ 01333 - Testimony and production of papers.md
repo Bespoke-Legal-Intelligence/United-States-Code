@@ -36,7 +36,7 @@ Any correspondence, private letters of reprimand, and other documents and files 
 
 #### Codification
 
-As originally enacted subsec. (b) contained a reference to the Supreme Court of the District of Columbia. Act June 25, 1936, substituted “the district court of the United States for the District of Columbia” for “the Supreme Court of the District of Columbia”, and act June 25, 1948, as amended by act May 24, 1949, substituted “United States District Court for the District of Columbia” for “district court of the United States for the District of Columbia”. However, the words “United States District Court for the District of Columbia” have been deleted entirely as superfluous in view of section 132(a) of Title 28, Judiciary and Judicial Procedure, which states that “There shall be in each judicial district a district court which shall be a courtof record known as the United States District Court for the district”, and section 88 of Title 28 which states that “the District of Columbia constitutes one judicial district”.
+As originally enacted subsec. (b) contained a reference to the Supreme Court of the District of Columbia. Act June 25, 1936, substituted “the district court of the United States for the District of Columbia” for “the Supreme Court of the District of Columbia”, and act June 25, 1948, as amended by act May 24, 1949, substituted “United States District Court for the District of Columbia” for “district court of the United States for the District of Columbia”. However, the words “United States District Court for the District of Columbia” have been deleted entirely as superfluous in view of section 132(a) of Title 28, Judiciary and Judicial Procedure, which states that “There shall be in each judicial district a district court which shall be a court of record known as the United States District Court for the district”, and section 88 of Title 28 which states that “the District of Columbia constitutes one judicial district”.
 
 #### Prior Provisions
 
@@ -59,14 +59,4 @@ Subsec. (d). Pub. L. 85–686, §9(b), substituted “pending before the commiss
 #### Effective Date of 1970 Amendment
 
 Amendment by Pub. L. 91–452 effective on sixtieth day following Oct. 15, 1970, and not to affect any immunity to which any individual is entitled under this section by reason of any testimony given before sixtieth day following Oct. 15, 1970, see section 260 of Pub. L. 91–452, set out as an Effective Date; Savings Provision note under section 6001 of Title 18, Crimes and Criminal Procedure.
-
-#### Federal Rules of Civil Procedure
-
-Subpoena, see rule 45, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-Writ of mandamus abolished in United States district courts, but relief available by appropriate action or motion, see rule 81.
-
-#### Cross References
-
-Immunity of witnesses, see section 6001 et seq. of Title 18, Crimes and Criminal Procedure.
 

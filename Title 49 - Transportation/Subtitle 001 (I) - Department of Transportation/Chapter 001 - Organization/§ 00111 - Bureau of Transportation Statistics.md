@@ -216,7 +216,7 @@ Transportation Statistics Annual Report.—The Director shall transmit to the Pr
 
 Proceeds of Data Product Sales.—Notwithstanding section 3302 of title 31, United States Code, funds received by the Bureau from the sale of data products, for necessary expenses incurred, may be credited to the Highway Trust Fund (other than the Mass Transit Account) for the purpose of reimbursing the Bureau for the expenses.
 
-(Added Pub. L. 102–240, title VI, §6006(a), Dec. 18, 1991, 105 Stat. 2172; amended Pub. L. 104–287,§5(2), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 104–324, title XI, §1131, Oct. 19, 1996, 110 Stat. 3985; Pub. L. 105–130, §4(b)(1), Dec. 1, 1997, 111 Stat. 2556; Pub. L. 105–178, title V, §5109(a), June 9, 1998, 112 Stat. 437.)
+(Added Pub. L. 102–240, title VI, §6006(a), Dec. 18, 1991, 105 Stat. 2172; amended Pub. L. 104–287, §5(2), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 104–324, title XI, §1131, Oct. 19, 1996, 110 Stat. 3985; Pub. L. 105–130, §4(b)(1), Dec. 1, 1997, 111 Stat. 2556; Pub. L. 105–178, title V, §5109(a), June 9, 1998, 112 Stat. 437.)
 
 #### References in Text
 
@@ -264,6 +264,14 @@ Pub. L. 104–287 substituted “December 18, 1991” for “the date of the ena
 
 Subsec. (g). Pub. L. 104–287 substituted “December 18, 1991” for “the date of the enactment of this section”.
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the 7th item on page 138 identifies a report to Congress in a provision which, as subsequently amended, is contained in subsec. (j) of this section), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+
+#### Office of Airline Information
+
+Pub. L. 106–181, title I, §103(b), Apr. 5, 2000, 114 Stat. 67, provided that: “There is authorized to be appropriated from the Airport and Airway Trust Fund to the Secretary \[of Transportation\] $4,000,000 for fiscal years beginning after September 30, 2000, to fund the activities of the Office of Airline Information in the Bureau of Transportation Statistics of the Department of Transportation.”
+
 #### International Trade Traffic
 
 Pub. L. 105–178, title V, §5115, June 9, 1998, 112 Stat. 446, as amended by Pub. L. 105–206, title IX, §9011(e), July 22, 1998, 112 Stat. 864, provided that:
@@ -306,7 +314,7 @@ Membership.—The advisory council established under this section shall be compo
 
 “(d)
 
-Applicability of Federal Advisory Committee Act.—The Federal Advisory Committee Act \[5 App. U.S.C.\] shall apply to the advisory council establishedunder this section, except that section 14 of the Federal Advisory Committee Act shall not apply to the Advisory Committee established under this section.”
+Applicability of Federal Advisory Committee Act.—The Federal Advisory Committee Act \[5 App. U.S.C.\] shall apply to the advisory council established under this section, except that section 14 of the Federal Advisory Committee Act shall not apply to the Advisory Committee established under this section.”
 
 #### Study of Data Collection Procedures and Capabilities of Department of Transportation
 

@@ -70,13 +70,23 @@ In addition to amounts otherwise available under this section for such purposes,
 
 &emsp;(3) $400,000 shall be for the Organization of American States (OAS) Inter-American Drug Abuse Control Commission (CICAD) Law Enforcement Training Project, except that the proportion which such amount bears to the total amount of contributions to this specific project may not exceed the proportion which the United States contribution to the budget of the Organization of American States for that fiscal year bears to the total contributions to the budget of the Organization of American States for that fiscal year.
 
-(Pub. L. 87–195, pt. I, §302, Sept. 4, 1961, 75 Stat. 433; Pub. L. 87–565, pt. I, §107, Aug. 1, 1962, 76 Stat. 259; Pub. L. 88–205, pt. I, §108, Dec. 16, 1963, 77 Stat. 383; Pub. L. 88–633, pt. I, §106, Oct. 7, 1964, 78 Stat. 1010; Pub. L. 89–171, pt. I, §106(b), Sept. 6, 1965, 79 Stat. 656; Pub. L. 89–583, pt. I, §107(d), Sept. 19, 1966, 80 Stat. 801; Pub. L. 90–137, pt. I, §110(b), Nov. 14, 1967, 81 Stat. 454; Pub. L. 90–554, pt. I, §108, Oct. 8, 1968, 82 Stat. 962; Pub. L. 91–175, pt. I, §108(b)–(d), Dec. 30, 1969, 83 Stat. 819; Pub. L. 92–226, pt. I, §107, Feb. 7, 1972, 86 Stat. 23; Pub. L. 93–189, §9(2)–(5), Dec. 17, 1973, 87 Stat. 719; Pub. L. 93–559, §9, Dec. 30, 1974, 88 Stat. 1798; Pub. L. 94–161, title III, §313(a), Dec. 20, 1975, 89 Stat. 866; Pub. L. 94–329, title V, §505, June 30, 1976, 90 Stat. 764; Pub. L. 95–88, title I,§118(a), Aug. 3, 1977, 91 Stat. 540; Pub. L. 95–424, title I, §117(a), (b)(1), (c), title VI, §604, Oct. 6, 1978, 92 Stat. 952, 953, 961; Pub. L. 96–53, title I, §114(a), Aug. 14, 1979, 93 Stat. 364; Pub. L. 96–533, title III, §309, Dec. 16, 1980, 94 Stat. 3148; Pub. L. 97–113, title III, §311(b), title VII, §734(a)(1), Dec. 29, 1981, 95 Stat. 1536, 1560; Pub. L. 99–83, title IV, §402(a), Aug. 8, 1985, 99 Stat. 217; Pub. L. 99–529, title IV, §404(2), Oct. 24, 1986, 100 Stat. 3019; Pub. L. 100–690, title IV, §4107, Nov. 18, 1988, 102 Stat. 4266.)
+#### (k) Authorization of appropriations for Global Alliance for Vaccines and Immunizations
+
+In addition to amounts otherwise available under this section, there is authorized to be appropriated to the President $50,000,000 for each of the fiscal years 2001 and 2002 to be available only for United States contributions to the Global Alliance for Vaccines and Immunizations.
+
+#### (<i>l</i>) Authorization of appropriations for International AIDS Vaccine Initiative
+
+In addition to amounts otherwise available under this section, there is authorized to be appropriated to the President $10,000,000 for each of the fiscal years 2001 and 2002 to be available only for United States contributions to the International AIDS Vaccine Initiative.
+
+(Pub. L. 87–195, pt. I, §302, Sept. 4, 1961, 75 Stat. 433; Pub. L. 87–565, pt. I, §107, Aug. 1, 1962, 76 Stat. 259; Pub. L. 88–205, pt. I, §108, Dec. 16, 1963, 77 Stat. 383; Pub. L. 88–633, pt. I, §106, Oct. 7, 1964, 78 Stat. 1010; Pub. L. 89–171, pt. I, §106(b), Sept. 6, 1965, 79 Stat. 656; Pub. L. 89–583, pt. I, §107(d), Sept. 19, 1966, 80 Stat. 801; Pub. L. 90–137, pt. I, §110(b), Nov. 14, 1967, 81 Stat. 454; Pub. L. 90–554, pt. I, §108, Oct. 8, 1968, 82 Stat. 962; Pub. L. 91–175, pt. I, §108(b)–(d), Dec. 30, 1969, 83 Stat. 819; Pub. L. 92–226, pt. I, §107, Feb. 7, 1972, 86 Stat. 23; Pub. L. 93–189, §9(2)–(5), Dec. 17, 1973, 87 Stat. 719; Pub. L. 93–559, §9, Dec. 30, 1974, 88 Stat. 1798; Pub. L. 94–161, title III, §313(a), Dec. 20, 1975, 89 Stat. 866; Pub. L. 94–329, title V, §505, June 30, 1976, 90 Stat. 764; Pub. L. 95–88, title I, §118(a), Aug. 3, 1977, 91 Stat. 540; Pub. L. 95–424, title I, §117(a), (b)(1), (c), title VI, §604, Oct. 6, 1978, 92 Stat. 952, 953, 961; Pub. L. 96–53, title I, §114(a), Aug. 14, 1979, 93 Stat. 364; Pub. L. 96–533, title III, §309, Dec. 16, 1980, 94 Stat. 3148; Pub. L. 97–113, title III, §311(b), title VII, §734(a)(1), Dec. 29, 1981, 95 Stat. 1536, 1560; Pub. L. 99–83, title IV, §402(a), Aug. 8, 1985, 99 Stat. 217; Pub. L. 99–529, title IV, §404(2), Oct. 24, 1986, 100 Stat. 3019; Pub. L. 100–690, title IV, §4107, Nov. 18, 1988, 102 Stat. 4266; Pub. L. 106–264, title I, §112(a), Aug. 19, 2000, 114 Stat. 753.)
 
 #### References in Text
 
 This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### Amendments
+
+2000—Subsecs. (k), (<i>l</i>). Pub. L. 106–264 added subsecs. (k) and (<i>l</i>).
 
 1988—Subsec. (j). Pub. L. 100–690 added subsec. (j).
 

@@ -18,10 +18,6 @@ Another section 1768 of Pub. L. 99–198, cited as a credit to this section, ame
 
 Amendment by Pub. L. 99–198 effective Dec. 23, 1985, except as otherwise provided, see section 1768(f) of Pub. L. 99–198, set out as a note under section 151 of this title.
 
-#### Cross References
-
-Overtime of employees working at establishments which prepare virus, serum, toxin and analogous products, see section 394a of Title 7, Agriculture.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in title 7 section 394a.

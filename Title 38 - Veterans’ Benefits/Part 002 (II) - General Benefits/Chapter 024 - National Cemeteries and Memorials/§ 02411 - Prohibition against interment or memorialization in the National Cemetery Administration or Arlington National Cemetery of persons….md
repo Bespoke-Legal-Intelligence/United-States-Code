@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(A) is found (as provided in subsection (c)) to have committed a Federal capital crime or a State capital crime, but
 
-&emsp;&emsp;(B) has not been convicted of such crime by reason of such person not being availablefor trial due to death or flight to avoid prosecution.
+&emsp;&emsp;(B) has not been convicted of such crime by reason of such person not being available for trial due to death or flight to avoid prosecution.
 
 (c) A finding under subsection (b)(3) shall be made by the appropriate Federal official. Any such finding may only be made based upon a showing of clear and convincing evidence, after an opportunity for a hearing in a manner prescribed by the appropriate Federal official.
 

@@ -14,13 +14,3 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 Words “district land offices” substituted for “offices of registers” and “the Secretary of the Interior or such officers as he may designate” substituted for “them” on authority of section 403 of 1946 Reorg. Plan No. 3 of 1946. See note set out under section 1 of this title.
 
-#### Federal Rules of Civil Procedure
-
-Proof of official records, see rule 44, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-Effect of rule 44 on this section, see note by Advisory Committee set out under that rule.
-
-#### Cross References
-
-Government records and papers; copies, see section 1733 of Title 28, Judiciary and Judicial Procedure.
-

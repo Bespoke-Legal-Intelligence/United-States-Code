@@ -34,7 +34,7 @@ As used in this subchapter, the term—
 
 &emsp;&emsp;(G) on lands used in connection with Federal prisons,
 
-> &emsp;but does not include (i) any Federal building or construction project the exclusion of whichthe President deems to be justified in the public interest, or (ii) any construction project or building owned or controlled by a State government, local government, Indian tribe, or any private entity.
+> &emsp;but does not include (i) any Federal building or construction project the exclusion of which the President deems to be justified in the public interest, or (ii) any construction project or building owned or controlled by a State government, local government, Indian tribe, or any private entity.
 
 (Pub. L. 94–168, §4, Dec. 23, 1975, 89 Stat. 1007; Pub. L. 104–289, §3, Oct. 11, 1996, 110 Stat. 3411.)
 

@@ -2,13 +2,13 @@
 
 #### (a) Establishment in Department of Health and Human Services
 
-The Secretary shall establish in the Department of Health and Human Services an appropriate administrative arrangement to provide a centralized focus for planning and coordinating of all departmental activities affecting adoption and foster care and for carrying out the provisions of this subchapter. The Secretary shall make available such consultant services, on-site technical assistance and personnel, together with appropriate administrative expenses, including salaries and travel costs, as are necessary for carrying out such purposes, including services to facilitate the adoption of children with special needs and particularly of disabled infants with life-threatening conditions and services to couples considering adoption of children with special needs.
+The Secretary shall establish in the Department of Health and Human Services an appropriate administrative arrangement to provide a centralized focus for planning and coordinating of all departmental activities affecting adoption and foster care and for carrying out the provisions of this subchapter. The Secretary shall make available such consultant services, on-sitetechnical assistance and personnel, together with appropriate administrative expenses, including salaries and travel costs, as are necessary for carrying out such purposes, including services to facilitate the adoption of children with special needs and particularly of disabled infants with life-threatening conditions and services to couples considering adoption of children with special needs.
 
 #### (b) Implementation authorities
 
 In connection with carrying out the provisions of this subchapter, the Secretary shall—
 
-&emsp;(1) conduct (directly or by grant to or contract with public or private nonprofit agencies or organizations) an education and trainingprogram on adoption, and prepare, publish, and disseminate (directly or by grant to or contract with public or private nonprofit agencies and organizations) to all interested parties, public and private agencies and organizations (including, but not limited to, hospitals, health care and family planning clinics, and social services agencies), and governmental bodies, information and education and training materials regarding adoption and adoption assistance programs;
+&emsp;(1) conduct (directly or by grant to or contract with public or private nonprofit agencies or organizations) an education and training program on adoption, and prepare, publish, and disseminate (directly or by grant to or contract with public or private nonprofit agencies and organizations) to all interested parties, public and private agencies and organizations (including, but not limited to, hospitals, health care and family planning clinics, and social services agencies), and governmental bodies, information and education and training materials regarding adoption and adoption assistance programs;
 
 &emsp;(2) conduct, directly or by grant or contract with public or private nonprofit organizations, ongoing, extensive recruitment efforts on a national level, develop national public awareness efforts to unite children in need of adoption with appropriate adoptive parents, and establish a coordinated referral system of recruited families with appropriate State or regional adoption resources to ensure that families are served in a timely fashion;
 
@@ -58,7 +58,7 @@ In connection with carrying out the provisions of this subchapter, the Secretary
 
 &emsp;&emsp;&emsp;(viii) any other activities determined by the Secretary to further the purposes of this subchapter; and
 
-&emsp;&emsp;(B) shall be subject to the condition that such grants or contracts may be renewed if documentation is provided to the Secretary demonstrating that appropriate and sufficient placements of such children have occurred during the previous funding period.
+&emsp;&emsp;(B) shall be subject to the condition that such grants or contracts may be renewed if documentation is provided to the Secretarydemonstrating that appropriate and sufficient placements of such children have occurred during the previous funding period.
 
 #### (c) Post legal adoption services
 
@@ -110,7 +110,7 @@ Subsec. (d)(2). Pub. L. 104–235, §212(3), designated existing provisions as s
 
 1992—Subsec. (a). Pub. L. 102–295, §403(1), inserted “, on-site technical assistance” after “consultant services” and “including salaries and travel costs,” after “administrative expenses,” and inserted at end “The Secretary shall, not later than 12 months after May 28, 1992, prepare and submit to the committees of Congress having jurisdiction over such services reports, as appropriate, containing appropriate data concerning the manner in which activities were carried out under this subchapter, and such reports shall be made available to the public.”
 
-Subsec. (b)(1), (2). Pub. L. 102–295, §403(2)(A), (B), added par. (2), redesignated former par. (2) as (1), and struck out former par. (1) which read as follows: “provide (after consultation with other appropriate Federal departments and agencies, including the Bureau of the Census and appropriate State and local agencies) for the establishment and operation of a Federal adoption and foster care data-gathering and analysis system;”.
+Subsec. (b)(1), (2). Pub. L. 102–295, §403(2)(A), (B), added par. (2), redesignated former par. (2) as (1), and struck out former par. (1) which read as follows: “provide (after consultation with other appropriate Federal departments and agencies, including the Bureau of the Census and appropriate State and local agencies) forthe establishment and operation of a Federal adoption and foster care data-gathering and analysis system;”.
 
 Subsec. (b)(4). Pub. L. 102–295, §403(2)(C), inserted “, and to promote professional leadership training of minorities in the adoption field”.
 
@@ -120,7 +120,7 @@ Subsec. (b)(8), (9). Pub. L. 102–295, §403(2)(D), added par. (8) and redesign
 
 Subsecs. (c), (d). Pub. L. 100–294, §202(b), (c), added subsecs. (c) and (d).
 
-1984—Subsec. (a). Pub. L. 98–457, §203(a), (b)(1), substituted “Health and Human Services” for “Health, Education, and Welfare” and inserted provision requiring the Secretary to make available services to facilitate the adoption of children with special needs and particularly of disabled infants with life-threateningconditions and services to couples considering adoption of children with special needs.
+1984—Subsec. (a). Pub. L. 98–457, §203(a), (b)(1), substituted “Health and Human Services” for “Health, Education, and Welfare” and inserted provision requiring the Secretary to make available services to facilitate the adoption of children with special needs and particularly of disabled infants with life-threatening conditions and services to couples considering adoption of children with special needs.
 
 Subsec. (b). Pub. L. 98–457, §203(c)(1), substituted “this subchapter” for “subsection (a) of this section” in provisions preceding par. (1).
 

@@ -18,5 +18,5 @@
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 299 of this title; title 30 section 193.
+This section is referred to in sections 299, 2304 of this title; title 30 section 193.
 

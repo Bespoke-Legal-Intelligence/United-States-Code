@@ -44,7 +44,7 @@ Pub. L. 97–127, Dec. 29, 1981, 95 Stat. 1675, provided:
 
 #### “determination of certain claims
 
-“Sec. 5. (a) The Commission shall receive and determine, in accordance with applicable substantive law,including international law, the validity and amount of claims by nationals of the United States against the Government of the Czechoslovak Socialist Republic for losses resulting from the nationalization or other taking of property owned at the time by nationals of the United States, which nationalization or other taking occurred between August 8, 1958, and the date on which the Agreement enters into force. In making the determination with respect to the validity and amount of any such claim and the value of the property taken, the Commission is authorized to accept the fair or proved value of such property as of the time when the property taken was last operated, used, managed, or controlled by the national or nationals of the United States asserting the claim, regardless of whether such time is prior to the actual date of nationalization or other taking by the Government of the Czechoslovak Socialist Republic.
+“Sec. 5. (a) The Commission shall receive and determine, in accordance with applicable substantive law, including international law, the validity and amount of claims by nationals of the United States against the Government of the Czechoslovak Socialist Republic for losses resulting from the nationalization or other taking of property owned at the time by nationals of the United States, which nationalization or other taking occurred between August 8, 1958, and the date on which the Agreement enters into force. In making the determination with respect to the validity and amount of any such claim and the value of the property taken, the Commission is authorized to accept the fair or proved value of such property as of the time when the property taken was last operated, used, managed, or controlled by the national or nationals of the United States asserting the claim, regardless of whether such time is prior to the actual date of nationalization or other taking by the Government of the Czechoslovak Socialist Republic.
 
 “(b) The Commission shall certify to the Secretary the amount of any award determined pursuant to subsection (a).
 
@@ -70,7 +70,7 @@ Pub. L. 97–127, Dec. 29, 1981, 95 Stat. 1675, provided:
 
 #### “payment of awards
 
-“Sec. 8. (a) As soon as practicable after the date of the enactment of this Act \[Dec. 29, 1981\], the Secretary shall make payments from amounts in the account established pursuant to section 4(b)(1) of this Act on the unpaid balance of each award certified by the Commission pursuant to section 410 of the International Claims Settlement Act of 1949 \[22 U.S.C. 1642i\].
+“Sec. 8. (a) As soon as practicable after the date of the enactment of this Act \[Dec. 29, 1981\], the Secretaryshall make payments from amounts in the account established pursuant to section 4(b)(1) of this Act on the unpaid balance of each award certified by the Commission pursuant to section 410 of the International Claims Settlement Act of 1949 \[22 U.S.C. 1642i\].
 
 “(b) As soon as practicable after the Commission has completed the certification of awards pursuant to section 5(b) of this Act, the Secretary shall make payments on account of each such award from the amounts in the account established pursuant to section 4(b)(2) of this Act.
 
@@ -88,7 +88,7 @@ Pub. L. 97–127, Dec. 29, 1981, 95 Stat. 1675, provided:
 
 “(f) In the event that—
 
-&emsp;“(1) the Secretary is unable, within three years after the date of the establishment of the account prescribed by section 4(b)(1) of this Act, to locate any person entitled to receive payment under this section on account of an award certified by the Commissionpursuant to section 410 of the International Claims Settlement Act of 1949 \[22 U.S.C. 1642i\] or to locate any lawful heirs, successors, or legal representatives of that person, or if no valid application for payment is made by or on behalf of that person within six months after the Secretary has located that person or that person's heirs, successors, or legal representatives; or
+&emsp;“(1) the Secretary is unable, within three years after the date of the establishment of the account prescribed by section 4(b)(1) of this Act, to locate any person entitled to receive payment under this section on account of an award certified by the Commission pursuant to section 410 of the International Claims Settlement Act of 1949 \[22 U.S.C. 1642i\] or to locate any lawful heirs, successors, or legal representatives of that person, or if no valid application for payment is made by or on behalf of that person within six months after the Secretary has located that person or that person's heirs, successors, or legal representatives; or
 
 &emsp;“(2) within six months after the Commission has completed the certification of awards pursuant to sections 5(b) and 6(b) of this Act, no valid application for payment is made by or on behalf of any person entitled to receive payment under this section on account of an award certified by the Commission pursuant to either such section,
 

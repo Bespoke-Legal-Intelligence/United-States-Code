@@ -20,7 +20,7 @@ The Secretary shall carry out subsections (a) and (b) of this section acting thr
 
 The Secretary shall make payments to the Board of Health of the State of Hawaii for the care and treatment (including outpatient care) in its facilities of persons suffering from Hansen's disease at a rate determined by the Secretary. The rate shall be approximately equal to the operating cost per patient of such facilities, except that the rate may not exceed the comparable costs per patient with Hansen's disease for care and treatment provided by the Center referred to in subsection (a) of this section. Payments under this subsection are subject to the availability of appropriations for such purpose.
 
-(July 1, 1944, ch. 373, title III, §320, formerly §331, 58 Stat. 698; June 25, 1948, ch. 654, §4, 62 Stat. 1018; June 25, 1952, ch. 460, 66 Stat. 157; Pub. L. 86–624, §29(b), July 12, 1960, 74 Stat. 419; renumbered §339, Pub. L. 94–484, title IV, §407(b)(2), Oct. 12, 1976, 90 Stat. 2268; renumbered §320, and amended Pub. L. 95–626, title I, §105(a), Nov. 10, 1978, 92 Stat. 3560; Pub. L. 96–32, §7(b), July 10, 1979, 93 Stat. 84; Pub. L. 99–117, §2(a), Oct. 7, 1985, 99 Stat. 491; Pub. L. 105–78, title II, §211(h), Nov. 13, 1997, 111 Stat. 1494.)
+(July 1, 1944, ch. 373, title III, §320, formerly §331, 58 Stat. 698; June 25, 1948, ch. 654, §4, 62Stat. 1018; June 25, 1952, ch. 460, 66 Stat. 157; Pub. L. 86–624, §29(b), July 12, 1960, 74 Stat. 419; renumbered §339, Pub. L. 94–484, title IV, §407(b)(2), Oct. 12, 1976, 90 Stat. 2268; renumbered §320, and amended Pub. L. 95–626, title I, §105(a), Nov. 10, 1978, 92 Stat. 3560; Pub. L. 96–32, §7(b), July 10, 1979, 93 Stat. 84; Pub. L. 99–117, §2(a), Oct. 7, 1985, 99 Stat. 491; Pub. L. 105–78, title II, §211(h), Nov. 13, 1997, 111 Stat. 1494.)
 
 #### References in Text
 
@@ -128,7 +128,7 @@ Section 211(a)–(g) of Pub. L. 105–78 provided that:
 
 &emsp;“(B) During calendar year 1997, any payment under subparagraph (A) shall be made under section 663 of the Treasury, Postal Service, and General Government Appropriations Act, 1997 (as contained in section 101(f) of division A of Public Law 104–208) \[5 U.S.C. 5597 note\], except that, for purposes of this subparagraph, subsection (b) of such section 663 does not apply.
 
-&emsp;“(C) During calendar year 1998, such section 663 applies with respect to payments under subparagraph (A) to the same extent and in the same manner as such section applied with respect to the payments during fiscal year 1997, and for purposes of this subparagraph, the reference in subsection (c)(2)(D) of such section 663 to December 31, 1997, is deemed to be a reference to December 31, 1998.
+&emsp;“(C) During calendar year 1998, such section 663 applies with respect to payments under subparagraph (A) to the same extent and in the same manner assuch section applied with respect to the payments during fiscal year 1997, and for purposes of this subparagraph, the reference in subsection (c)(2)(D) of such section 663 to December 31, 1997, is deemed to be a reference to December 31, 1998.
 
 “(f) The following provisions apply if under subsection (a) the Secretary makes the decision to relocate the Center:
 

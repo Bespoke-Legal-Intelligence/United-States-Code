@@ -26,7 +26,7 @@ Pub. L. 106–57, title II, §209(c), Sept. 29, 1999, 113 Stat. 424, provided th
 
 #### Effective Date
 
-Pub. L. 98–63, title I, §904(c), July 30, 1983, 97 Stat. 337, provided that the provisions of subsection (a) (subsec. (a) of this section) were to take effect on the first day of the first applicable pay period commencing on or after July 30, 1983, prior to being omitted in the general amendment of section 904 of Pub. L. 98–63 by section 209(a) of Pub. L. 106–57.
+Pub. L. 98–63, title I, §904(c), July 30, 1983, 97 Stat. 337, provided that subsec. (a) of this section was to take effect on the first day of the first applicable pay period commencing on or after July 30, 1983, prior to being omitted in the general amendment of section 904 of Pub. L. 98–63 by section 209(a) of Pub. L. 106–57.
 
 #### Salary Increases
 

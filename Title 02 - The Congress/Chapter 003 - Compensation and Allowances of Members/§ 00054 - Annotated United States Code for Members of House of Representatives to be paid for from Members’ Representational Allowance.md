@@ -26,7 +26,3 @@ A prior section 54, based on H. Res. No. 506, Ninetieth Congress, Aug. 21, 1967,
 
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
-#### Cross References
-
-Adjustment of allowances by Committee on House Oversight, see section 57 of this title.
-

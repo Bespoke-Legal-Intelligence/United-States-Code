@@ -32,7 +32,7 @@
 
 #### (2) Content
 
-&emsp;Reports submitted under paragraph (1) shall contain a summary of the information contained in the State reports submitted under subsection (a) of this section, and shall reflect the findings and actions taken as a result of any evaluation conducted by the Corporation.
+&emsp;Reports submitted under paragraph (1) shall contain a summary of the information contained in the State reports submitted undersubsection (a) of this section, and shall reflect the findings and actions taken as a result of any evaluation conducted by the Corporation.
 
 #### (c) Report to Congress by Secretary of Defense
 
@@ -42,7 +42,7 @@
 
 #### (2) Report
 
-&emsp;The Secretary of Defense shall annually submit a report to the appropriate committees ofCongress containing the findings of the study described in paragraph (1) and such recommendations for legislative and administrative reform as the Secretary may determine to be appropriate.
+&emsp;The Secretary of Defense shall annually submit a report to the appropriate committees of Congress containing the findings of the study described in paragraph (1) and such recommendations for legislative and administrative reform as the Secretary may determine to be appropriate.
 
 (Pub. L. 101–610, title I, §172, Nov. 16, 1990, 104 Stat. 3159; Pub. L. 103–82, title I, §114, title IV, §402(b)(1), Sept. 21, 1993, 107 Stat. 861, 918.)
 

@@ -1,6 +1,6 @@
 ### §2377. Authorization of appropriations
 
-There is authorized to be appropriated to carry out this subchapter (other than section2376 of this title) such sums as may be necessary for fiscal year 1999 and each of the 4 succeeding fiscal years.
+There is authorized to be appropriated to carry out this subchapter (other than section 2376 of this title) such sums as may be necessary for fiscal year 1999 and each of the 4 succeeding fiscal years.
 
 (Pub. L. 88–210, title II, §208, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3121.)
 

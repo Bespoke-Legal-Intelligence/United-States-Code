@@ -8,7 +8,7 @@
 
 &emsp;(A) Each State shall generally be designated as a geographic area for purposes of paragraph (1).
 
-&emsp;(B) The Secretary shall establish local or regional areas rather than State areas only where the volume of review activity or other relevant factors (as determined by the Secretary) warrant such an establishment, and the Secretary determines that review activity can be carried out with equal or greater efficiency by establishing such local or regional areas. In applying this subparagraph the Secretary shall take into account the number ofhospital admissions within each State for which payment may be made under subchapter XVIII of this chapter or a State plan approved under subchapter XIX of this chapter, with any State having fewer than 180,000 such admissions annually being established as a single statewide area, and no local or regional area being established which has fewer than 60,000 total hospital admissions (including public and private pay patients) under review annually, unless the Secretary determines that other relevant factors warrant otherwise.
+&emsp;(B) The Secretary shall establish local or regional areas rather than State areas only where the volume of review activity or other relevant factors (as determined by the Secretary) warrant such an establishment, and the Secretary determines that review activity can be carried out with equal or greater efficiency by establishing such local or regional areas. In applying this subparagraph the Secretary shall take into account the number of hospital admissions within each State for which payment may be made under subchapter XVIII of this chapter or a State plan approved under subchapter XIX of this chapter, with any State having fewer than 180,000 such admissions annually being established as a single statewide area, and no local or regional area being established which has fewer than 60,000 total hospital admissions (including public and private pay patients) under review annually, unless the Secretary determines that other relevant factors warrant otherwise.
 
 &emsp;(C) No local or regional area shall be designated which is not a self-contained medical service area, having a full spectrum of services, including medical specialists’ services.
 
@@ -16,7 +16,7 @@
 
 (1) The Secretary shall enter into a contract with a utilization and quality control peer review organization for each area established under subsection (a) of this section if a qualified organization is available in such area and such organization and the Secretary have negotiated a proposed contract which the Secretary determines will be carried out by such organization in a manner consistent with the efficient and effective administration of this part. If more than one such qualified organization meets the requirements of the preceding sentence, priority shall be given to any such organization which is described in section 1320c–1(1)(A) of this title.
 
-(2)(A) Prior to November 15, 1984, the Secretary shall not enter into a contract under this part with any entity which is, or is affiliated with (through management, ownership, or common control), an entity (other than a self-insured employer) which directly or indirectly makes payments to any practitioner or provider whose health care services are reviewed by such entity or would be reviewed by such entity if it entered into a contract with the Secretary under this part. For purposes of this paragraph, an entity shall not be considered to be affiliated with another entity which makes payments (directly or indirectly) to any practitioner or provider, by reason of management, ownership, or common control, if the management, ownership, or common control consists only of members of the governing board being affiliated (through management, ownership, or common control) with a health maintenance organization or competitive medical plan which is an “eligible organization” as defined in section 1395mm(b) of this title.
+(2)(A) Prior to November 15, 1984, the Secretary shall not enter into a contract under thispart with any entity which is, or is affiliated with (through management, ownership, or common control), an entity (other than a self-insured employer) which directly or indirectly makes payments to any practitioner or provider whose health care services are reviewed by such entity or would be reviewed by such entity if it entered into a contract with the Secretary under this part. For purposes of this paragraph, an entity shall not be considered to be affiliated with another entity which makes payments (directly or indirectly) to any practitioner or provider, by reason of management, ownership, or common control, if the management, ownership, or common control consists only of members of the governing board being affiliated (through management, ownership, or common control) with a health maintenance organization or competitive medical plan which is an “eligible organization” as defined in section 1395mm(b) of this title.
 
 (B) If, after November 14, 1984, the Secretary determines that there is no other entity available for an area with which the Secretary can enter into a contract under this part, the Secretary may then enter into a contract under this part with an entity described in subparagraph (A) for such area if such entity otherwise meets the requirements of this part.
 
@@ -48,7 +48,7 @@ Each contract with an organization under this section shall provide that—
 
 &emsp;(8) reimbursement shall be made to the organization on a monthly basis, with payments for any month being made not later than 15 days after the close of such month.
 
-> In evaluating the performance of utilization and quality control peer review organizations undercontracts under this part, the Secretary shall place emphasis on the performance of such organizations in educating providers and practitioners (particularly those in rural areas) concerning the review process and criteria being applied by the organization.
+> In evaluating the performance of utilization and quality control peer review organizations under contracts under this part, the Secretary shall place emphasis on the performance of such organizations in educating providers and practitioners (particularly those in rural areas) concerning the review process and criteria being applied by the organization.
 
 #### (d) Review prior to termination of contract; modification and termination; reviewing panel
 
@@ -92,7 +92,7 @@ The Secretary shall provide that fiscal intermediaries furnish to peer review or
 
 &emsp;(ii) the period of time in which an in-State organization may submit a proposal for the contract ending on such date.
 
-(B) If one or more qualified in-State organizations submits a proposal within the period of time specified under subparagraph (A)(ii), theSecretary shall not automatically renew the current contract on a noncompetitive basis, but shall provide for competition for the contract in the same manner as a new contract under subsection (b) of this section.
+(B) If one or more qualified in-State organizations submits a proposal within the period of time specified under subparagraph (A)(ii), the Secretary shall not automatically renew the current contract on a noncompetitive basis, but shall provide for competition for the contract in the same manner as a new contract under subsection (b) of this section.
 
 (3) For purposes of this subsection, an in-State organization is an organization that has its primary place of business in the State in which review will be conducted (or, which is owned by a parent corporation the headquarters of which is located in such State).
 
@@ -104,7 +104,7 @@ A prior section 1320c–2, act Aug. 14, 1935, ch. 531, title XI, §1153, as adde
 
 #### Amendments
 
-1987—Subsec. (c). Pub. L. 100–203, §4094(d)(1), inserted after and below par. (8) the following: “In evaluating the performance of utilization and quality control peer review organizations under contracts under this part, the Secretary shall place emphasis on the performance of such organizations in educating providers and practitioners (particularly those in rural areas) concerning the review process and criteria being applied by the organization.”
+1987—Subsec. (c). Pub. L. 100–203, §4094(d)(1), inserted after and below par. (8) the following: “In evaluatingthe performance of utilization and quality control peer review organizations under contracts under this part, the Secretary shall place emphasis on the performance of such organizations in educating providers and practitioners (particularly those in rural areas) concerning the review process and criteria being applied by the organization.”
 
 Subsec. (c)(3). Pub. L. 100–203, §4091(a)(2)(A), substituted “three” for “two” and “triennial” for “biennial”.
 
@@ -164,7 +164,7 @@ Section 2347(d) of Pub. L. 98–369 provided that: “The provisions of, and ame
 
 #### Effective Date of 1983 Amendments
 
-Amendment by Pub. L. 98–21 applicable to items and services furnished by or under arrangement with a hospital beginning with its first cost reporting period that begins on or after Oct. 1, 1983, any change in a hospital's cost reporting period made after November 1982to be recognized for such purposes only if the Secretary finds good cause therefor, see section 604(a)(1) of Pub. L. 98–21, set out as a note under section 1395ww of this title.
+Amendment by Pub. L. 98–21 applicable to items and services furnished by or under arrangement with a hospital beginning with its first cost reporting period that begins on or after Oct. 1, 1983, any change in a hospital's cost reporting period made after November 1982 to be recognized for such purposes only if the Secretary finds good cause therefor, see section 604(a)(1) of Pub. L. 98–21, set out as a note under section 1395ww of this title.
 
 Amendment by Pub. L. 97–448 effective as if originally included as a part of this section as this section was added by the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, see section 309(c)(2) of Pub. L. 97–448, set out as a note under section 426–1 of this title.
 
@@ -182,7 +182,7 @@ In general.—In order to permit the Secretary of Health and Human Services an a
 
 “(B)
 
-Effective date.—The amendment made by subparagraph (A) shall apply to contracts expiring on or after the date of the enactment of this Act \[Dec. 22, 1987\].”
+Effective date.—The amendment made by subparagraph (A) shall apply to contracts expiring on orafter the date of the enactment of this Act \[Dec. 22, 1987\].”
 
 #### Section Referred to in Other Sections
 

@@ -1,6 +1,6 @@
 ### §292. District judges
 
-(a) The chief judge of a circuit may designate and assign one or more district judges within the circuit to sit upon the court of appeals or a division thereof whenever the business of that court so requires. Such designations or assignments shall be in conformity with the rules or orders of the court of appeals of the circuit.
+(a) The chief judge of a circuit may designate and assign one or more district judges withinthe circuit to sit upon the court of appeals or a division thereof whenever the business of that court so requires. Such designations or assignments shall be in conformity with the rules or orders of the court of appeals of the circuit.
 
 (b) The chief judge of a circuit may, in the public interest, designate and assign temporarily any district judge of the circuit to hold a district court in any district within the circuit.
 
@@ -38,15 +38,15 @@ Many changes were made in phraseology.
 
 #### Amendments
 
-1982—Subsec. (e). Pub. L. 97–164 struck out “the Court of Claims, the Court of Customs and Patent Appeals or” after “to serve as a judge of” and “in which the need arises” after “chief judge of the court”.
+<b>1982</b>—Subsec. (e). Pub. L. 97–164 struck out “the Court of Claims, the Court of Customs and Patent Appeals or” after “to serve as a judge of” and “in which the need arises” after “chief judge of the court”.
 
-1980—Subsec. (e). Pub. L. 96–417 redesignated the Customs Court as the Court of International Trade.
+<b>1980</b>—Subsec. (e). Pub. L. 96–417 redesignated the Customs Court as the Court of International Trade.
 
-1978—Subsecs. (b), (d). Pub. L. 95–598 directed the amendment of subsec. (b) by substituting “to hold a district court or a bankruptcy court” for “to hold a district court” and the amendment of subsec. (d) by substituting “in a bankruptcy court, district court, or court of appeals” for “either in a district court or court of appeals”, which amendments did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+<b>1978</b>—Subsecs. (b), (d). Pub. L. 95–598 directed the amendment of subsec. (b) by substituting “to hold a district court or a bankruptcy court” for “to hold a district court” and the amendment of subsec. (d) by substituting “in a bankruptcy court, district court, or court of appeals” for “either in a district court or court of appeals”, which amendments did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
-1970—Subsecs. (c) to (e). Pub. L. 91–358 added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
+<b>1970</b>—Subsecs. (c) to (e). Pub. L. 91–358 added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
-1958—Subsecs. (a) to (c). Pub. L. 85–755 reenacted subsecs. (a) to (c) without change.
+<b>1958</b>—Subsecs. (a) to (c). Pub. L. 85–755 reenacted subsecs. (a) to (c) without change.
 
 Subsec. (d). Pub. L. 85–755 incorporated provisions for assignment of district judges to the Court of Customs and Patent Appeals and the Customs Court, formerly contained in section 293 of this title and subsec. (f) of this section.
 
@@ -54,13 +54,13 @@ Subsec. (e). Pub. L. 85–755 struck out subsec. (e) which provided for assignme
 
 Subsec. (f). Pub. L. 85–755 struck out subsec. (f) which provided for assignment of district judges to the Customs Court. See subsec. (d) of this section.
 
-1956—Subsec. (e). Act July 9, 1956, added subsec. (e).
+<b>1956</b>—Subsec. (e). Act July 9, 1956, added subsec. (e).
 
 Subsec. (f). Act July 14, 1956, added subsec. (f).
 
-1954—Subsec. (d). Act Sept. 3, 1954, struck out “United States” from name of Court of Claims.
+<b>1954</b>—Subsec. (d). Act Sept. 3, 1954, struck out “United States” from name of Court of Claims.
 
-1953—Subsec. (d). Act July 28, 1953, added subsec. (d).
+<b>1953</b>—Subsec. (d). Act July 28, 1953, added subsec. (d).
 
 #### Effective Date of 1982 Amendment
 
@@ -68,11 +68,11 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respect to civil actions pending on or commenced on or after such date, see section 701(a) of Pub. L. 96–417, set out as a note under section 251 of this title.
+Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respect to civil actions pending onor commenced on or after such date, see section 701(a) of Pub. L. 96–417, set out as a note under section 251 of this title.
 
 #### Effective Date of 1970 Amendment
 
-Amendment by Pub. L. 91–358 effective on first day of seventh calendar month which begins after July 29,1970, see section 199(a) of Pub. L. 91–358, set out as a note under section 1257 of this title.
+Amendment by Pub. L. 91–358 effective on first day of seventh calendar month which begins after July 29, 1970, see section 199(a) of Pub. L. 91–358, set out as a note under section 1257 of this title.
 
 #### Jurisdiction of United States Court of Customs and Patent Appeals
 
@@ -81,10 +81,4 @@ Amendment by Pub. L. 85–755 not limiting or altering the jurisdiction of the U
 #### Limitation or Alteration of Jurisdiction
 
 Amendment by act July 14, 1956, not to be construed as limiting or altering the jurisdiction heretofore conferred upon the Customs Court \[now United States Court of International Trade\], see section 4 of act July 14, 1956, set out as a note under section 251 of this title.
-
-#### Cross References
-
-Assignment of district judge to serve as judge in District Court of Guam by Chief Justice of the United States, see section 1424b of Title 48, Territories and Insular Possessions.
-
-Assignment of judge to serve temporarily as a judge of the District Court of the Virgin Islands, see section 1614 of Title 48.
 

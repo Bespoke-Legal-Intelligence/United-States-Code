@@ -11,12 +11,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Cross References
-
-General military law provisions, see section 2541 et seq. of this title.
-
-Property records, see section 2721 of this title.
-
 
 ---
 

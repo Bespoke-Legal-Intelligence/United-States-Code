@@ -30,7 +30,7 @@ Contingency Planning; Preparedness.—(A) Providing for the preparation and revi
 
 Advice on Requirements, Programs, and Budget.—(A) Advising the Secretary, under section 163(b)(2) of this title, on the priorities of the requirements identified by the commanders of the unified and specified combatant commands.
 
-&emsp;(B) Advising the Secretary on the extent to which the program recommendations and budget proposals of the military departments and other components of the Department of Defense for a fiscal year conform with the priorities established in strategic plans and with the priorities established for the requirements of the unified and specified combatant commands.
+&emsp;(B) Advising the Secretary on the extent to which the program recommendations and budget proposals of the military departmentsand other components of the Department of Defense for a fiscal year conform with the priorities established in strategic plans and with the priorities established for the requirements of the unified and specified combatant commands.
 
 &emsp;(C) Submitting to the Secretary alternative program recommendations and budget proposals, within projected resource levels and guidance provided by the Secretary, in order to achieve greater conformance with the priorities referred to in clause (B).
 
@@ -68,23 +68,31 @@ Report on Assignment of Roles and Missions.—(1) Not less than once every three
 
 (c)
 
-Risks Under National Military Strategy.—(1) Not later than January 1 each year,the Chairman shall submit to the Secretary of Defense a report providing the Chairman's assessment of the nature and magnitude of the strategic and military risks associated with executing the missions called for under the current National Military Strategy.
+Risks Under National Military Strategy.—(1) Not later than January 1 each year, the Chairman shall submit to the Secretary of Defense a report providing the Chairman's assessment of the nature and magnitude of the strategic and military risks associated with executing the missions called for under the current National Military Strategy.
 
 (2) The Secretary shall forward the report received under paragraph (1) in any year, with the Secretary's comments thereon (if any), to Congress with the Secretary's next transmission to Congress of the annual Department of Defense budget justification materials in support of the Department of Defense component of the budget of the President submitted under section 1105 of title 31 for the next fiscal year. If the Chairman's assessment in such report in any year is that risk associated with executing the missions called for under the National Military Strategy is significant, the Secretary shall include with the report as submitted to Congress the Secretary's plan for mitigating that risk.
 
 (d)
 
-Annual Report on Combatant Command Requirements.—(1) Not later than August 15 of each year, the Chairman shall submit to the committees of Congress named in paragraph (2) a report on the requirements of the combatant commands established under section 161 of this title. The report shall contain the following:
+Annual Report on Combatant Command Requirements.—(1) At or about the time that the budget is submitted to Congress for a fiscal year under section 1105(a) of title 31, the Chairman shall submit to the committees of Congress named in paragraph (2) a report on the requirements of the combatant commands established under section 161 of this title. The report shall contain the following:
 
 &emsp;(A) A consolidation of the integrated priority lists of requirements of the combatant commands.
 
 &emsp;(B) The Chairman's views on the consolidated lists.
 
+&emsp;(C) A description of the extent to which the most recent future-years defense program (under section 221 of this title) addresses the requirements on the consolidated lists.
+
+&emsp;(D) A description of the funding proposed in the President's budget for the next fiscal year, and for the subsequent fiscal years covered by the most recent future-years defense program, to address each deficiency in readiness identified during the joint readiness review conducted under section 117 of this title for the first quarter of the current fiscal year.
+
 (2) The committees of Congress referred to in paragraph (1) are the Committees on Armed Services and the Committees on Appropriations of the Senate and House of Representatives.
 
-(Added Pub. L. 99–433, title II, §201, Oct. 1, 1986, 100 Stat. 1007; amended Pub. L. 106–65, div. A, title X, §1033, Oct. 5, 1999, 113 Stat. 751.)
+(Added Pub. L. 99–433, title II, §201, Oct. 1, 1986, 100 Stat. 1007; amended Pub. L. 106–65, div. A, title X, §1033, Oct. 5, 1999, 113 Stat. 751; Pub. L. 106–398, §1 \[\[div. A\], title IX, §905\], Oct. 30, 2000, 114 Stat. 1654, 1654A–226.)
 
 #### Amendments
+
+2000—Subsec. (d)(1). Pub. L. 106–398, §1 \[\[div. A\], title IX, §905(b)\], substituted “At or about the time that the budget is submitted to Congress for a fiscal year under section 1105(a) of title 31,” for “Not later than August 15 of each year,” in introductory provisions.
+
+Subsec. (d)(1)(C), (D). Pub. L. 106–398, §1 \[\[div. A\], title IX, §905(a)\], added subpars. (C) and (D).
 
 1999—Subsecs. (c), (d). Pub. L. 106–65 added subsecs. (c) and (d).
 
@@ -94,7 +102,7 @@ Pub. L. 105–85, div. A, title III, §326, Nov. 18, 1997, 111 Stat. 1679, provi
 
 “(a)
 
-Means for Measurement.—The Chairman of the Joint Chiefs of Staff shall, to the maximum extent practicable, develop (1) a common means of measuring the operations tempo (OPTEMPO) of each of the Armed Forces, and (2) a common means of measuring the personnel tempo (PERSTEMPO) of each of the Armed Forces. The Chairman shall consult with the other members of the Joint Chiefs of Staff in developing those common means of measurement.
+Means for Measurement.—The Chairman of the Joint Chiefs of Staff shall, to the maximum extent practicable, develop (1) a common means of measuring the operations tempo (OPTEMPO) of each of the Armed Forces, and (2) a common means of measuring the personnel tempo (PERSTEMPO) of each of the ArmedForces. The Chairman shall consult with the other members of the Joint Chiefs of Staff in developing those common means of measurement.
 
 “(b)
 

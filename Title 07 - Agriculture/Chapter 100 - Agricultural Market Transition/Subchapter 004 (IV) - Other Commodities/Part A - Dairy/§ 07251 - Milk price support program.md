@@ -14,7 +14,7 @@ The price of milk shall be supported at the following rates per hundredweight fo
 
 &emsp;(3) During calendar year 1998, $10.05.
 
-&emsp;(4) During each of calendar years 1999 and 2000, $9.90.
+&emsp;(4) During each of calendar years 1999 through 2001, $9.90.
 
 #### (c) Purchase prices
 
@@ -52,9 +52,9 @@ The Secretary shall carry out the program authorized by this section through the
 
 #### (h) Period of effectiveness
 
-This section (other than subsection (g) of this section) shall be effective only during the period beginning on the first day of the first month beginning after April 4, 1996, and ending on December 31, 2000. The program authorized by this section shall terminate on December 31, 2000, and shall be considered to have expired notwithstanding section 907 of title 2.
+This section (other than subsection (g) of this section) shall be effective only during the period beginning on the first day of the first month beginning after April 4, 1996, and ending on December 31, 2001. The program authorized by this section shall terminate on December 31, 2001, and shall be considered to have expired notwithstanding section 907 of title 2.
 
-(Pub. L. 104–127, title I, §141, Apr. 4, 1996, 110 Stat. 914; Pub. L. 106–78, title VIII, §807(a), Oct. 22, 1999, 113 Stat. 1181.)
+(Pub. L. 104–127, title I, §141, Apr. 4, 1996, 110 Stat. 914; Pub. L. 106–78, title VIII, §807(a), Oct. 22, 1999, 113 Stat. 1181; Pub. L. 106–387, §1(a) \[title VII, §742(a)\], Oct. 28, 2000, 114 Stat. 1549, 1549A–35.)
 
 #### References in Text
 
@@ -65,6 +65,10 @@ Section 204 of the Agricultural Act of 1949, referred to in subsec. (e)(1), (2),
 Section is comprised of section 141 of Pub. L. 104–127. Subsec. (g) of section 141 of Pub. L. 104–127 repealed section 1446e of this title and enacted provisions set out as a note under section 1446e of this title.
 
 #### Amendments
+
+2000—Subsec. (b)(4). Pub. L. 106–387, §1(a) \[title VII, §742(a)(1)\], substituted “through 2001” for “and 2000”.
+
+Subsec. (h). Pub. L. 106–387, §1(a) \[title VII, §742(a)(2)\], substituted “2001” for “2000” in two places.
 
 1999—Subsec. (b)(4). Pub. L. 106–78, §807(a)(1), substituted “each of calendar years 1999 and 2000” for “calendar year 1999”.
 

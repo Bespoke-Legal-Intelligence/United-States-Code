@@ -26,7 +26,7 @@ All staff appointments shall be made without regard to the provisions of title 5
 
 (3) The provisions of paragraphs (1) and (2) of this subsection shall be effective as of June 3, 1976.
 
-(Pub. L. 94–304, §8, June 3, 1976, 90 Stat. 662; Pub. L. 99–7, §5, Mar. 27, 1985, 99 Stat. 19; Pub. L.104–186, title II, §218(3), Aug. 20, 1996, 110 Stat. 1747.)
+(Pub. L. 94–304, §8, June 3, 1976, 90 Stat. 662; Pub. L. 99–7, §5, Mar. 27, 1985, 99 Stat. 19; Pub. L. 104–186, title II, §218(3), Aug. 20, 1996, 110 Stat. 1747.)
 
 #### References In Text
 

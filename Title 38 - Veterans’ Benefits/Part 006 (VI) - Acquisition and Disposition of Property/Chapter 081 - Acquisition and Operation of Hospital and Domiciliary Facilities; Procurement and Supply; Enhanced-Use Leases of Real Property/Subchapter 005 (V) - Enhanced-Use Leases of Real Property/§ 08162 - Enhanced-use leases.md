@@ -16,7 +16,7 @@
 
 (3) The provisions of the Act of March 3, 1931 (40 U.S.C. 276a et seq.), shall not, by reason of this section, become inapplicable to property that is leased to another party under an enhanced-use lease.
 
-(4) A property that is leased to another party under an enhanced-use lease may not be considered to be unutilized or underutilized for purposes of section 501 of the Stewart B. McKinney Homeless Assistance Act (42 U.S.C. 11411).
+(4) A property that is leased to another party under an enhanced-use lease may not be considered to be unutilized or underutilized for purposes of section 501 of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11411).
 
 (b)(1) If the Secretary has determined that a property should be leased to another party through an enhanced-use lease, the Secretary shall select the party with whom the lease will be entered into using selection procedures determined by the Secretary that ensure the integrity of the selection process.
 
@@ -50,7 +50,7 @@
 
 &emsp;(D) over one-half of the children to whom child-care services are provided are required to be children of employees of the Department.
 
-(Added Pub. L. 102–86, title IV, §401(a), Aug. 14, 1991, 105 Stat. 417; amended Pub. L. 106–117, title II, §208(a), (b), Nov. 30, 1999, 113 Stat. 1567.)
+(Added Pub. L. 102–86, title IV, §401(a), Aug. 14, 1991, 105 Stat. 417; amended Pub. L. 106–117, title II, §208(a), (b), Nov. 30, 1999, 113 Stat. 1567; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675.)
 
 #### References in Text
 
@@ -59,6 +59,8 @@ Section 421(b) of the Veterans’ Benefits and Services Act of 1988, referred to
 Act of March 3, 1931, referred to in subsec. (a)(3), is act Mar. 3, 1931, ch. 411, 46 Stat. 1494, as amended, known as the Davis-Bacon Act, which is classified generally to sections 276a to 276a–5 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 276a of Title 40 and Tables.
 
 #### Amendments
+
+2000—Subsec. (a)(4). Pub. L. 106–400 substituted “McKinney-Vento Homeless Assistance Act” for “Stewart B. McKinney Homeless Assistance Act”.
 
 1999—Subsec. (a)(2). Pub. L. 106–117, §208(a), inserted subpar. (A) designation before “the Secretary”, redesignated subpars. (A) to (C) as cls. (i) to (iii), respectively, and realigned the margins, substituted “; or” for period at end of cl. (iii), and added subpar. (B).
 

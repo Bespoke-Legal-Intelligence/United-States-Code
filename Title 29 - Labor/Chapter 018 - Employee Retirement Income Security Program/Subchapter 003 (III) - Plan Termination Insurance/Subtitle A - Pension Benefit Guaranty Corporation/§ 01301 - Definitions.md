@@ -62,7 +62,7 @@
 
 &emsp;&emsp;(B) the determination of whether two or more persons are under “common control” shall be made under regulations of the corporation which are consistent and coextensive with regulations prescribed for similar purposes by the Secretary of the Treasury under subsections (b) and (c) of section 414 of title 26; and
 
-&emsp;&emsp;(C)(i) notwithstanding any other provision of this subchapter, during any period in which an individual possesses, directly or indirectly, the power to direct or cause the direction of the management and policies of an affected air carrier of which he was an accountable owner, whether through the ownership of voting securities, by contract, or otherwise, the affected air carrier shall be considered to be under common control not only with those persons described in subparagraph (B), but also with all related persons; and
+&emsp;&emsp;(C)(i) notwithstanding any other provision of this subchapter, during any period in which an individual possesses, directly or indirectly, the power to direct or cause the direction of the management and policies of an affected air carrier of which he was an accountable owner, whether through the ownership of voting securities, by contract, or otherwise, the affected air carrier shall beconsidered to be under common control not only with those persons described in subparagraph (B), but also with all related persons; and
 
 &emsp;&emsp;(ii) for purposes of this subparagraph, the term—
 
@@ -104,7 +104,7 @@
 
 &emsp;&emsp;(A) each participant in the plan,
 
-&emsp;&emsp;(B) each beneficiary under the plan who is a beneficiary of a deceased participant orwho is an alternate payee (within the meaning of section 1056(d)(3)(K) of this title) under an applicable qualified domestic relations order (within the meaning of section 1056(d)(3)(B)(i) of this title),
+&emsp;&emsp;(B) each beneficiary under the plan who is a beneficiary of a deceased participant or who is an alternate payee (within the meaning of section 1056(d)(3)(K) of this title) under an applicable qualified domestic relations order (within the meaning of section 1056(d)(3)(B)(i) of this title),
 
 &emsp;&emsp;(C) each employee organization representing participants in the plan, and
 
@@ -120,7 +120,7 @@
 
 &emsp;(B) the term “Secretary of the Treasury” means the Secretary of the Treasury or such Secretary's delegate.
 
-(Pub. L. 93–406, title IV, §4001, Sept. 2, 1974, 88 Stat. 1003; Pub. L. 96–364, title IV, §402(a)(1), Sept. 26, 1980, 94 Stat. 1296; Pub. L. 99–272, title XI, §11004, Apr. 7, 1986, 100 Stat. 238; Pub. L. 100–203, title IX, §§9312(b)(4), (5), 9313(a)(2)(F), Dec. 22, 1987, 101 Stat. 1330–363, 1330–365; Pub. L. 101–239, title VII, §7891(a)(1), Dec. 19, 1989, 103 Stat. 2445; Pub. L. 102–229, title II, §214, Dec. 12, 1991, 105 Stat. 1718; Pub. L. 103–465, title VII, §761(a)(11), Dec. 8, 1994, 108 Stat. 5034.)
+(Pub. L. 93–406, title IV, §4001, Sept. 2, 1974, 88 Stat. 1003; Pub. L. 96–364, title IV, §402(a)(1), Sept. 26, 1980, 94 Stat. 1296; Pub. L. 99–272, titleXI, §11004, Apr. 7, 1986, 100 Stat. 238; Pub. L. 100–203, title IX, §§9312(b)(4), (5), 9313(a)(2)(F), Dec. 22, 1987, 101 Stat. 1330–363, 1330–365; Pub. L. 101–239, title VII, §7891(a)(1), Dec. 19, 1989, 103 Stat. 2445; Pub. L. 102–229, title II, §214, Dec. 12, 1991, 105 Stat. 1718; Pub. L. 103–465, title VII, §761(a)(11), Dec. 8, 1994, 108 Stat. 5034.)
 
 #### References in Text
 

@@ -70,15 +70,13 @@ Subsecs. (a) to (e). Pub. L. 95–454, §310(2)–(4), added subsec. (a), design
 
 Amendment by section 310 of Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of reporting provisions in subsec. (e) of this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 187 of House Document No. 103–7.
+
 #### Discrimination Prohibited in Employment of Civilian Personnel at Facilities Operated by the Department of Defense in Foreign Countries
 
 Pub. L. 92–129, title I, §106, Sept. 28, 1971, 85 Stat. 355, provided that: “Unless prohibited by treaty, no person shall be discriminated against by the Department of Defense or by any officer or employee thereof, in the employment of civilian personnel at any facility or installation operated by the Department of Defense in any foreign country because such person is a citizen of the United States or is a dependent of a member of the Armed Forces of the United States. As used in this section, the term ‘facility or installation operated by the Department of Defense’ shall include, but shall not be limited to, any officer's club, non-commissioned officers’ club, post exchange, or commissary store.”
-
-#### Cross References
-
-Nondiscrimination on account of age in Federal Government employment, see section 633a of Title 29, Labor.
-
-Nondiscrimination on account of age in Federally assisted programs, see section 6101 et seq. of Title 42, The Public Health and Welfare.
 
 #### Section Referred to in Other Sections
 

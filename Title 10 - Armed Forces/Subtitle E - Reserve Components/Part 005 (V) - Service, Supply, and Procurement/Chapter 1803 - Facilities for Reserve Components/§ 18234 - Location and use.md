@@ -32,20 +32,6 @@ The word “community” is omitted as covered by the word “area”. The word 
 
 Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
 
-#### Cross References
-
-Authorized strength—
-
-&emsp;&emsp;Army and Air Force Reserves, see section 12002 of this title.
-
-&emsp;&emsp;Coast Guard Reserve, see section 702 of Title 14, Coast Guard.
-
-&emsp;&emsp;Definition, see section 101 of this title.
-
-&emsp;&emsp;Naval Reserve and Marine Corps Reserve, see section 12001 of this title.
-
-&emsp;&emsp;Ready Reserve, see section 10141 et seq. of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 18233 of this title.

@@ -86,7 +86,7 @@ Subsec. (d)(1). Pub. L. 100–203, §9306(a)(2)(A), added subsec. (d)(1). Former
 
 Subsec. (d)(2). Pub. L. 100–203, §9306(a)(2)(C), added par. (2).
 
-Subsec. (e)(1). Pub. L. 100–203, §9306(d)(2), substituted “plan, and each affected party (as defined in section 1301(a)(21) of this title) other than the Pension Benefit Guaranty Corporation. Such notice shall include a description of the extent to which the plan is funded forbenefits which are guaranteed under subchapter III of this chapter and the benefit liabilities.” for “plan.”
+Subsec. (e)(1). Pub. L. 100–203, §9306(d)(2), substituted “plan, and each affected party (as defined in section 1301(a)(21) of this title) other than the Pension Benefit Guaranty Corporation. Such notice shall include a description of the extent to which the plan is funded for benefits which are guaranteed under subchapter III of this chapter and the benefit liabilities.” for “plan.”
 
 Subsec. (f). Pub. L. 100–203, §9306(a)(2)(A), redesignated former subsec. (d) as (f).
 
@@ -110,5 +110,5 @@ Amendment by Pub. L. 99–272 effective Jan. 1, 1986, with certain exceptions, s
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1021, 1057, 1082, 1084, 1085a, 1143, 1362, 1423 of this title; title 26 section 412.
+This section is referred to in sections 1021, 1057, 1082, 1084, 1085a, 1362, 1423 of this title; title 26 section 412.
 

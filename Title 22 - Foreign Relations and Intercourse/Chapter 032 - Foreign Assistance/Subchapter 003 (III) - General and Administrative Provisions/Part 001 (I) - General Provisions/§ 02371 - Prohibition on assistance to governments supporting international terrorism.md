@@ -86,5 +86,5 @@ Section 10 of Pub. L. 101–222 provided that: “The use by any government of a
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 262p–4q, 2349aa, 2349aa–10, 2377, 2378, 2398, 2753 of this title; title 28 section 1605.
+This section is referred to in sections 262p–4q, 2152c, 2349aa, 2349aa–10, 2349bb–1, 2349bb–4, 2377, 2378, 2398, 2753, 7205 of this title; title 28 section 1605.
 

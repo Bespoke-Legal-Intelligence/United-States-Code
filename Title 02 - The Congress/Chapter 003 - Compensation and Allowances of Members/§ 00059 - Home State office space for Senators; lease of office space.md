@@ -78,7 +78,7 @@ Or
 
 ### “FOR OFFICIAL USE ONLY”.
 
-(4) No payment shall be made under paragraph (1) for rental payments and operating costs of a mobile office of a Senator which are attributable to or incurred during the 60-day periodending with the date of any primary or general election (whether regular, special, or runoff) in which that Senator is a candidate for public office, unless his candidacy in such election is uncontested.
+(4) No payment shall be made under paragraph (1) for rental payments and operating costs of a mobile office of a Senator which are attributable to or incurred during the 60-day period ending with the date of any primary or general election (whether regular, special, or runoff) in which that Senator is a candidate for public office, unless his candidacy in such election is uncontested.
 
 (5) Payment under paragraph (1) shall be made on a monthly basis and shall be paid upon vouchers approved by the Sergeant at Arms of the Senate.
 

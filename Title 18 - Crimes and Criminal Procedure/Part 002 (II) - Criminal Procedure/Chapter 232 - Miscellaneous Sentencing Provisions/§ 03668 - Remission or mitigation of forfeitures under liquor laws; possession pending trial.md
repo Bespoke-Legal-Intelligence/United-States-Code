@@ -10,7 +10,7 @@ In any such proceeding the court shall not allow the claim of any claimant for r
 
 #### (c) Claimants first entitled to delivery
 
-Upon the request of any claimant whose claim for remission or mitigation is allowed and whose interest is first in the order of priority amongsuch claims allowed in such proceeding and is of an amount in excess of, or equal to, the appraised value of such vehicle or aircraft, the court shall order its return to him; and, upon the joint request of any two or more claimants whose claims are allowed and whose interests are not subject to any prior or intervening interests claimed and allowed in such proceedings, and are of a total amount in excess of, or equal to, the appraised value of such vehicle or aircraft, the court shall order its return to such of the joint requesting claimants as is designated in such request. Such return shall be made only upon payment of all expenses incident to the seizure and forfeiture incurred by the United States. In all other cases the court shall order disposition of such vehicle or aircraft as provided in sections 304f–304m of Title 40, and if such disposition be by public sale, payment from the proceeds thereof, after satisfaction of all such expenses, of any such claim in its order of priority among the claims allowed in such proceedings.
+Upon the request of any claimant whose claim for remission or mitigation is allowed and whose interest is first in the order of priority among such claims allowed in such proceeding and is of an amount in excess of, or equal to, the appraised value of such vehicle or aircraft, the court shall order its return to him; and, upon the joint request of any two or more claimants whose claims are allowed and whose interests are not subject to any prior or intervening interests claimed and allowed in such proceedings, and are of a total amount in excess of, or equal to, the appraised value of such vehicle or aircraft, the court shall order its return to such of the joint requesting claimants as is designated in such request. Such return shall be made only upon payment of all expenses incident to the seizure and forfeiture incurred by the UnitedStates. In all other cases the court shall order disposition of such vehicle or aircraft as provided in sections 304f–304m of Title 40, and if such disposition be by public sale, payment from the proceeds thereof, after satisfaction of all such expenses, of any such claim in its order of priority among the claims allowed in such proceedings.
 
 #### (d) Delivery on bond pending trial
 
@@ -27,18 +27,6 @@ A minor change was made in phraseology.
 #### References in Text
 
 The internal-revenue laws relating to liquor, referred to in subsecs. (a) and (d), are classified generally to chapter 51 (§5001 et seq.) of Title 26, Internal Revenue Code.
-
-#### Cross References
-
-Disposition of seized conveyances, see section 3670 of this title.
-
-Remission of vehicles forfeited under customs or navigation laws, see section 1613 of Title 19, Customs Duties.
-
-Remission or mitigation of forfeiture—
-
-&emsp;&emsp;Distilled spirits, wines, or malt beverages, see section 5688 of Title 26, Internal Revenue Code.
-
-&emsp;&emsp;Under internal revenue laws generally, see section 7327 of Title 26.
 
 #### Section Referred to in Other Sections
 

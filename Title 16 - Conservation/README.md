@@ -1,5 +1,5 @@
 
-16 U.S.C.<br>United States Code, 1999 Edition<br>Title 16 - CONSERVATION<br>From the U.S. Government Publishing Office, www.gpo.gov
+16 U.S.C.<br>United States Code, 2000 Edition<br>Title 16 - CONSERVATION<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 16—CONSERVATION
 
@@ -117,6 +117,7 @@
 | [<b>69.</b>](Chapter%20069%20-%20Wild%20Exotic%20Bird%20Conservation/README.md) | <b>Wild Exotic Bird Conservation</b> | <b>4901</b> |
 | [<b>70.</b>](Chapter%20070%20-%20North%20Pacific%20Anadromous%20Stocks%20Convention/README.md) | <b>North Pacific Anadromous Stocks Convention</b> | <b>5001</b> |
 | [<b>71.</b>](Chapter%20071%20-%20Atlantic%20Coastal%20Fisheries%20Cooperative%20Management/README.md) | <b>Atlantic Coastal Fisheries Cooperative Management</b> | <b>5101</b> |
+| [<b>71A.</b>](Chapter%20071A%20-%20Atlantic%20Striped%20Bass%20Conservation/README.md) | <b>Atlantic Striped Bass Conservation</b> | <b>5151</b> |
 | [<b>72.</b>](Chapter%20072%20-%20Recreational%20Hunting%20Safety/README.md) | <b>Recreational Hunting Safety</b> | <b>5201</b> |
 | [<b>73.</b>](Chapter%20073%20-%20Rhinoceros%20and%20Tiger%20Conservation/README.md) | <b>Rhinoceros and Tiger Conservation</b> | <b>5301</b> |
 | [<b>74.</b>](Chapter%20074%20-%20National%20Maritime%20Heritage/README.md) | <b>National Maritime Heritage</b> | <b>5401</b> |
@@ -125,6 +126,10 @@
 | [<b>77.</b>](Chapter%20077%20-%20Yukon%20River%20Salmon/README.md) | <b>Yukon River Salmon</b> | <b>5701</b> |
 | [<b>78.</b>](Chapter%20078%20-%20National%20Natural%20Resources%20Conservation%20Foundation/README.md) | <b>National Natural Resources Conservation Foundation</b> | <b>5801</b> |
 | [<b>79.</b>](Chapter%20079%20-%20National%20Park%20Service%20Management/README.md) | <b>National Park Service Management</b> | <b>5901</b> |
+| [<b>80.</b>](Chapter%20080%20-%20Neotropical%20Migratory%20Bird%20Conservation/README.md) | <b>Neotropical Migratory Bird Conservation</b> | <b>6101</b> |
+| [<b>81.</b>](Chapter%20081%20-%20User%20Fees%20under%20Forest%20System%20Recreation%20Residence%20Program/README.md) | <b>User Fees Under Forest System Recreation Residence Program</b> | <b>6201</b> |
+| [<b>82.</b>](Chapter%20082%20-%20Great%20Ape%20Conservation/README.md) | <b>Great Ape Conservation</b> | <b>6301</b> |
+| [<b>83.</b>](Chapter%20083%20-%20Coral%20Reef%20Conservation/README.md) | <b>Coral Reef Conservation</b> | <b>6401</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -245,6 +250,7 @@
 - [Chapter 069 - Wild Exotic Bird Conservation](Chapter%20069%20-%20Wild%20Exotic%20Bird%20Conservation/README.md)
 - [Chapter 070 - North Pacific Anadromous Stocks Convention](Chapter%20070%20-%20North%20Pacific%20Anadromous%20Stocks%20Convention/README.md)
 - [Chapter 071 - Atlantic Coastal Fisheries Cooperative Management](Chapter%20071%20-%20Atlantic%20Coastal%20Fisheries%20Cooperative%20Management/README.md)
+- [Chapter 071A - Atlantic Striped Bass Conservation](Chapter%20071A%20-%20Atlantic%20Striped%20Bass%20Conservation/README.md)
 - [Chapter 072 - Recreational Hunting Safety](Chapter%20072%20-%20Recreational%20Hunting%20Safety/README.md)
 - [Chapter 073 - Rhinoceros and Tiger Conservation](Chapter%20073%20-%20Rhinoceros%20and%20Tiger%20Conservation/README.md)
 - [Chapter 074 - National Maritime Heritage](Chapter%20074%20-%20National%20Maritime%20Heritage/README.md)
@@ -253,3 +259,7 @@
 - [Chapter 077 - Yukon River Salmon](Chapter%20077%20-%20Yukon%20River%20Salmon/README.md)
 - [Chapter 078 - National Natural Resources Conservation Foundation](Chapter%20078%20-%20National%20Natural%20Resources%20Conservation%20Foundation/README.md)
 - [Chapter 079 - National Park Service Management](Chapter%20079%20-%20National%20Park%20Service%20Management/README.md)
+- [Chapter 080 - Neotropical Migratory Bird Conservation](Chapter%20080%20-%20Neotropical%20Migratory%20Bird%20Conservation/README.md)
+- [Chapter 081 - User Fees under Forest System Recreation Residence Program](Chapter%20081%20-%20User%20Fees%20under%20Forest%20System%20Recreation%20Residence%20Program/README.md)
+- [Chapter 082 - Great Ape Conservation](Chapter%20082%20-%20Great%20Ape%20Conservation/README.md)
+- [Chapter 083 - Coral Reef Conservation](Chapter%20083%20-%20Coral%20Reef%20Conservation/README.md)

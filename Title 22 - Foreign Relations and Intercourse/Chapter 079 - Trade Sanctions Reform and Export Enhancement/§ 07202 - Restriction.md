@@ -1,0 +1,24 @@
+### §7202. Restriction
+
+#### (a) New sanctions
+
+Except as provided in sections 7203 and 7204 of this title and notwithstanding any other provision of law, the President may not impose a unilateral agricultural sanction or unilateral medical sanction against a foreign country or foreign entity, unless—
+
+&emsp;(1) not later than 60 days before the sanction is proposed to be imposed, the President submits a report to Congress that—
+
+&emsp;&emsp;(A) describes the activity proposed to be prohibited, restricted, or conditioned; and
+
+&emsp;&emsp;(B) describes the actions by the foreign country or foreign entity that justify the sanction; and
+
+&emsp;(2) there is enacted into law a joint resolution stating the approval of Congress for the report submitted under paragraph (1).
+
+#### (b) Existing sanctions
+
+The President shall terminate any unilateral agricultural sanction or unilateral medical sanction that is in effect as of October 28, 2000.
+
+(Pub. L. 106–387, §1(a) \[title IX, §903\], Oct. 28, 2000, 114 Stat. 1549, 1549A–68.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 7201, 7203, 7204, 7206 of this title.
+

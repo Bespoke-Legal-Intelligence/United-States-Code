@@ -30,10 +30,6 @@ Section 203(a) of Act Aug. 23, 1935, changed name of Federal Reserve Board to Bo
 
 For transfer of functions to Secretary of the Treasury, see note set out under section 121 of this title.
 
-#### Cross References
-
-Gold coinage discontinued, see section 5112 of Title 31, Money and Finance.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 348, 420, 421, 467 of this title.

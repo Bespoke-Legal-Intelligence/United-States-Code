@@ -10,7 +10,7 @@
 
 &emsp;(B) to respond to the Administrator with respect to the matters described in subparagraph (A).
 
-> Any report of the Administrator shall include a detailed statement of the information on whichit is based and shall be published in the Federal Register. The agency receiving a request under such a report shall make the requested determination, issue the requested order, and make the requested response within such time as the Administrator specifies in the request, but such time specified may not be less than 90 days from the date the request was made. The response of an agency shall be accompanied by a detailed statement of the findings and conclusions of the agency and shall be published in the Federal Register.
+> Any report of the Administrator shall include a detailed statement of the information on which it is based and shall be published in the Federal Register. The agency receiving a request under such a report shall make the requested determination, issue the requested order, and make the requested response within such time as the Administrator specifies in the request, but such time specified may not be less than 90 days from the date the request was made. The response of an agency shall be accompanied by a detailed statement of the findings and conclusions of the agency and shall be published in the Federal Register.
 
 (2) If the Administrator makes a report under paragraph (1) with respect to a chemical substance or mixture and the agency to which such report was made either—
 
@@ -24,7 +24,7 @@
 
 #### (b) Laws administered by the Administrator
 
-The Administrator shall coordinate actions taken under this chapter with actions taken under other Federal laws administered in whole or in part by the Administrator. If the Administrator determines that a risk to health or the environment associated with a chemical substance or mixture could be eliminated or reduced to a sufficient extent by actions taken under the authorities contained in such other Federal laws, the Administrator shall use such authorities to protect against such risk unless the Administrator determines, in the Administrator's discretion, that it is in the public interest to protect against such risk by actions taken under this chapter. This subsection shall not be construed to relieve the Administrator of any requirement imposed on the Administrator by such other Federal laws.
+The Administrator shall coordinate actions taken under this chapter with actions taken under other Federal laws administered in wholeor in part by the Administrator. If the Administrator determines that a risk to health or the environment associated with a chemical substance or mixture could be eliminated or reduced to a sufficient extent by actions taken under the authorities contained in such other Federal laws, the Administrator shall use such authorities to protect against such risk unless the Administrator determines, in the Administrator's discretion, that it is in the public interest to protect against such risk by actions taken under this chapter. This subsection shall not be construed to relieve the Administrator of any requirement imposed on the Administrator by such other Federal laws.
 
 #### (c) Occupational safety and health
 
@@ -39,4 +39,8 @@ In administering this chapter, the Administrator shall consult and coordinate wi
 #### Change of Name
 
 “Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (d), pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (d) of this section relating to reporting certain coordinating actions annually to Congress in the report required by section 2629 of this title, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 163 of House Document No. 103–7.
 

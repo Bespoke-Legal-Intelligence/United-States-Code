@@ -8,7 +8,3 @@ All laws affecting imports of articles, goods, wares, and merchandise and entry 
 
 For definition of Canal Zone, referred to in text, see section 3602(b) of Title 22, Foreign Relations and Intercourse.
 
-#### Cross References
-
-United States, alien, person, defined, see section 1101 of Title 8, Aliens and Nationality.
-

@@ -22,10 +22,6 @@ Pub. L. 91–382 provided that the amendment made by Pub. L. 91–382 is effecti
 
 Secretary of the Senate to be considered as disabled for purposes of this section only during such period of time as the Majority and Minority Leaders and the President pro tempore of the Senate certify jointly to the Senate that he is unable to perform his duties, see section 64b of this title.
 
-#### Cross References
-
-Clerk of House, death, resignation, etc., see section 75a of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 64b of this title.

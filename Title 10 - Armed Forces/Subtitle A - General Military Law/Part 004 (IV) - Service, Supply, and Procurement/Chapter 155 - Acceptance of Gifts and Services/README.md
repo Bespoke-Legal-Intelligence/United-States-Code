@@ -42,6 +42,8 @@ Pub. L. 104–106, div. A, title III, §377(b), Feb. 10, 1996, 110 Stat. 284, ad
 
 1962—Pub. L. 87–555, §1(2), July 27, 1962, 76 Stat. 244, added item 2603.
 
+<i><sup>1</sup></i><i> So in original. Probably should be “2583”.</i>
+
 
 ---
 

@@ -72,7 +72,7 @@ A local exchange carrier and a cable operator whose telephone service area and c
 
 #### (e) “Telephone service area” defined
 
-For purposes of this section, the term “telephone service area” when used in connection with a common carrier subject in whole or in part to subchapter II of this chapter means the area within which such carrier provided telephone exchange service as of January 1, 1993, but if any common carrier after such date transfers its telephone exchange service facilities to another common carrier, the area to which such facilities provide telephone exchange service shall be treated as part of the telephone servicearea of the acquiring common carrier and not of the selling common carrier.
+For purposes of this section, the term “telephone service area” when used in connection with a common carrier subject in whole or in part to subchapter II of this chapter means the area within which such carrier provided telephone exchange service as of January 1, 1993, but if any common carrier after such date transfers its telephone exchange service facilities to another common carrier, the area to which such facilities provide telephone exchange service shall be treated as part of the telephone service area of the acquiring common carrier and not of the selling common carrier.
 
 (June 19, 1934, ch. 652, title VI, §652, as added Pub. L. 104–104, title III, §302(a), Feb. 8, 1996, 110 Stat. 119.)
 

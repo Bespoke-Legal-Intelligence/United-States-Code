@@ -2,7 +2,7 @@
 
 #### (a) Responsibilities of Federal agencies; program for identification, evaluation, nomination, and protection
 
-(1) The heads of all Federal agencies shall assume responsibility for the preservation of historic properties which are owned or controlled by such agency. Prior to acquiring, constructing, or leasing buildings for purposes of carrying out agency responsibilities, each Federal agency shall use, to the maximum extent feasible, historic properties available to the agency. Each agency shall undertake, consistent with the preservation of such properties and the mission of the agency and the professional standards established pursuant to section 470a(g) of this title, any preservation, as may be necessary to carry out this section.
+(1) The heads of all Federal agencies shall assume responsibility for the preservation of historic properties which are owned or controlled by such agency. Prior to acquiring, constructing, or leasing buildings for purposes of carrying out agency responsibilities, each Federal agency shall use, to the maximum extent feasible, historic properties available to the agency, in accordance with Executive Order No. 13006, issued May 21, 1996 (61 Fed. Reg. 26071). Each agency shall undertake, consistent with the preservation of such properties and the mission of the agency and the professional standards established pursuant to section 470a(g) of this title, any preservation, as may be necessary to carry out this section.
 
 (2) Each Federal agency shall establish (unless exempted pursuant to section 470v of this title), in consultation with the Secretary, a preservation program for the identification, evaluation, and nomination to the National Register of Historic Places, and protection of historic properties. Such program shall ensure—
 
@@ -10,7 +10,7 @@
 
 &emsp;(B) that such properties under the jurisdiction or control of the agency as are listed in or may be eligible for the National Register are managed and maintained in a way that considers the preservation of their historic, archaeological, architectural, and cultural values in compliance with section 470f of this title and gives special consideration to the preservation of such values in the case of properties designated as having National significance;
 
-&emsp;(C) that the preservation of properties not under the jurisdiction or control of the agency, but subject to be potentially affected byagency actions are given full consideration in planning;
+&emsp;(C) that the preservation of properties not under the jurisdiction or control of the agency, but subject to be potentially affected by agency actions are given full consideration in planning;
 
 &emsp;(D) that the agency's preservation-related activities are carried out in consultation with other Federal, State, and local agencies, Indian tribes, Native Hawaiian organizations carrying out historic preservation planning activities, and with the private sector; and
 
@@ -60,19 +60,25 @@ The Secretary shall promulgate regulations under which the requirements of this 
 
 #### (k) Assistance for adversely affected historic property
 
-Each Federal agency shall ensure that the agency will not grant a loan, loan guarantee, permit, license, or other assistance to an applicant who, with intent to avoid the requirements of section 470f of this title, has intentionally significantly adversely affected a historic propertyto which the grant would relate, or having legal power to prevent it, allowed such significant adverse effect to occur, unless the agency, after consultation with the Council, determines that circumstances justify granting such assistance despite the adverse effect created or permitted by the applicant.
+Each Federal agency shall ensure that the agency will not grant a loan, loan guarantee, permit, license, or other assistance to an applicant who, with intent to avoid the requirements of section 470f of this title, has intentionally significantly adversely affected a historic property to which the grant would relate, or having legal power to prevent it, allowed such significant adverse effect to occur, unless the agency, after consultation with the Council, determines that circumstances justify granting such assistance despite the adverse effect created or permitted by the applicant.
 
 #### (<i>l</i>) Documentation of decisions respecting undertakings
 
-With respect to any undertaking subject to section 470f of this title which adversely affects any property included in or eligible for inclusion in the National Register, and for which a Federal agency has not entered into an agreement with the Council, the head of such agency shall document any decision made pursuant to section 470f of this title. The head of such agency may not delegate his or her responsibilities pursuant to such section. Where a section 106 \[16 U.S.C. 470f\] memorandum of agreement has been executed with respect to an undertaking, such memorandum shall govern the undertaking and all of its parts.
+With respect to any undertaking subject to section 470f of this title which adversely affects any property included in or eligible for inclusion in the National Register, and for which a Federal agency has not entered into an agreement pursuant to regulations issued by the Council, the head of such agency shall document any decision made pursuant to section 470f of this title. The head of such agency may not delegate his or her responsibilities pursuant to such section. Where a section 106 \[16 U.S.C. 470f\] memorandum of agreement has been executed with respect to an undertaking, such memorandum shall govern the undertaking and all of its parts.
 
-(Pub. L. 89–665, title I, §110, as added Pub. L. 96–515, title II, §206, Dec. 12, 1980, 94 Stat. 2996; amended Pub. L. 102–575, title XL, §§4006(b), 4012, Oct. 30, 1992, 106 Stat. 4757, 4760.)
+(Pub. L. 89–665, title I, §110, as added Pub. L. 96–515, title II, §206, Dec. 12, 1980, 94 Stat. 2996; amended Pub. L. 102–575, title XL, §§4006(b), 4012, Oct. 30, 1992, 106 Stat. 4757, 4760; Pub. L. 106–208, §§4, 5(a)(8), May 26, 2000, 114 Stat. 318, 319.)
 
 #### References in Text
+
+Executive Order No. 13006, referred to in subsec. (a)(1), is set out as a note under section 601a of Title 40, Public Buildings, Property, and Works.
 
 The National Environmental Policy Act of 1969, referred to in subsec. (i), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 #### Amendments
+
+2000—Subsec. (a)(1). Pub. L. 106–208, §4, substituted “agency, in accordance with Executive Order No. 13006, issued May 21, 1996 (61 Fed. Reg. 26071).” for “agency.” in second sentence.
+
+Subsec. (<i>l</i>). Pub. L. 106–208, §5(a)(8), which directed amendment of section 110(1) of the National Historic Preservation Act by substituting “pursuant to regulations issued by the Council” for “with the Council”, was executed to subsec. (<i>l</i>) of this section to reflect the probable intent of Congress.
 
 1992—Subsec. (a)(1). Pub. L. 102–575, §4012(1), substituted “section 470a(g)” for “section 470a(f)”.
 

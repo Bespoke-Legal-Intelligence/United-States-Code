@@ -26,7 +26,7 @@
 | (b) | Determination of value. |
 | (c) | Inflation percentage. |
 | [1926\.](Subchapter%20001%20%28I%29%20-%20Real%20Estate%20Loans/%C2%A7%2001926%20-%20Water%20and%20waste%20facility%20loans%20and%20grants.md) | Water and waste facility loans and grants. |
-| (a) | Criteria; definitions; limitation on allowable uses of Federal funds; inclusion of interest or other income in gross income on sale of insured loan. |
+| (a) | In general. |
 | (b) | Curtailment or limitation of service prohibited. |
 | (c) | Repealed. |
 | (d) | Carryover of unused authorizations for appropriations. |
@@ -400,9 +400,68 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER VI—DELTA REGIONAL AUTHORITY
+
+|  |  |
+| :--- | ---: |
+| [2009aa.](Subchapter%20006%20%28VI%29%20-%20Delta%20Regional%20Authority/%C2%A7%2002009aa%20-%20Definitions.md) | Definitions. |
+| 2009aa–1. | Delta Regional Authority. |
+| (a) | Establishment. |
+| (b) | Alternate members. |
+| (c) | Voting. |
+| (d) | Duties. |
+| (e) | Administration. |
+| (f) | Federal agency cooperation. |
+| (g) | Administrative expenses. |
+| (h) | Compensation. |
+| (i) | Conflicts of interest. |
+| (j) | Validity of contracts, loans, and grants. |
+| 2009aa–2. | Economic and community development grants. |
+| (a) | In general. |
+| (b) | Funding. |
+| 2009aa–3. | Supplements to Federal grant programs. |
+| (a) | Finding. |
+| (b) | Federal grant program funding. |
+| (c) | Certification. |
+| 2009aa–4. | Local development districts; certification and administrative expenses. |
+| (a) | Definition of local development district. |
+| (b) | Grants to local development districts. |
+| (c) | Duties of local development districts. |
+| 2009aa–5. | Distressed counties and areas and nondistressed counties. |
+| (a) | Designations. |
+| (b) | Distressed counties. |
+| (c) | Nondistressed counties. |
+| (d) | Transportation and basic public infrastructure. |
+| 2009aa–6. | Development planning process. |
+| (a) | State development plan. |
+| (b) | Content of plan. |
+| (c) | Consultation with interested local parties. |
+| (d) | Public participation. |
+| 2009aa–7. | Program development criteria. |
+| (a) | In general. |
+| (b) | No relocation assistance. |
+| (c) | Reduction of funds. |
+| 2009aa–8. | Approval of development plans and projects. |
+| (a) | In general. |
+| (b) | Evaluation by State member. |
+| (c) | Certification. |
+| (d) | Votes for decisions. |
+| 2009aa–9. | Consent of States. |
+| 2009aa–10. | Records. |
+| (a) | Records of the Authority. |
+| (b) | Records of recipients of Federal assistance. |
+| (c) | Annual audit. |
+| 2009aa–11. | Annual report. |
+| 2009aa–12. | Authorization of appropriations. |
+| (a) | In general. |
+| (b) | Administrative expenses. |
+| 2009aa–13. | Termination of authority. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 940, 2204f, 2279, 2279a of this title; title 12 sections 2219d, 2279aa; title 15 section 636; title 16 sections 590h, 3811, 3821; title 21 section 889; title 38 section 3711; title 40 App. section 214; title 42 sections 8813, 9817.
+This chapter is referred to in sections 940, 1515, 2204f, 2279, 2279a of this title; title 12 sections 2219d, 2279aa; title 15 section 636; title 16 sections 590h, 3811, 3821; title 21 section 889; title 38 section 3711; title 40 App. section 214; title 42 sections 8813, 9817.
 
 
 ---
@@ -415,3 +474,4 @@ This chapter is referred to in sections 940, 2204f, 2279, 2279a of this title; t
 - [Subchapter 003 (III) - Emergency Loans](Subchapter%20003%20%28III%29%20-%20Emergency%20Loans/README.md)
 - [Subchapter 004 (IV) - Administrative Provisions](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/README.md)
 - [Subchapter 005 (V) - Rural Community Advancement Program](Subchapter%20005%20%28V%29%20-%20Rural%20Community%20Advancement%20Program/README.md)
+- [Subchapter 006 (VI) - Delta Regional Authority](Subchapter%20006%20%28VI%29%20-%20Delta%20Regional%20Authority/README.md)

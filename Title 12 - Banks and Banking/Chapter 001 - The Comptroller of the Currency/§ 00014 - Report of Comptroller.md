@@ -1,14 +1,16 @@
 ### §14. Report of Comptroller
 
-The Comptroller of the Currency shall make an annual report to Congress.
+The Comptroller of the Currency shall make an annual report to Congress. The report required under this section shall include the report required under section 57a(f)(7) of title 15.
 
-(R.S. §333; Feb. 18, 1875, ch. 80, §1, 18 Stat. 317; Aug. 7, 1946, ch. 770, §1(39), 60 Stat. 869.)
+(R.S. §333; Feb. 18, 1875, ch. 80, §1, 18 Stat. 317; Aug. 7, 1946, ch. 770, §1(39), 60 Stat. 869; Pub. L. 106–569, title XI, §1103(c), Dec. 27, 2000, 114 Stat. 3031.)
 
 #### Codification
 
 R.S. §333 derived from acts June 3, 1864, ch. 106, §61, 13 Stat. 117, and Feb. 19, 1873, ch. 166, 17 Stat. 466. Act June 3, 1864, was the National Bank Act. See section 38 of this title.
 
 #### Amendments
+
+2000—Pub. L. 106–569 inserted at end “The report required under this section shall include the report required under section 57a(f)(7) of title 15.”
 
 1946—Act Aug. 7, 1946, repealed in the opening clause, the requirement that the report to Congress shall be submitted at the commencement of its session, and repealed all provisions prescribing contents of the exhibits in the report.
 

@@ -50,7 +50,7 @@ Contents of Registry.—Except as provided in subsection (c), the Registry shall
 
 “(c)
 
-Individuals Submitting Claims or Making Requests Before Date of Enactment.—If in the case of an individual described in subsection (b)(1) the application, claim, or request referred to in such subsection was submitted, filed, or made, before the date of the enactment of this Act \[Nov. 4, 1992\], the Secretary shall, to the extent feasible, include in the Registry such individual's name and the data and information, if any, described in subsection (b)(2) relating to the individual.
+Individuals Submitting Claims or Making Requests Before Date of Enactment.—If in the case ofan individual described in subsection (b)(1) the application, claim, or request referred to in such subsection was submitted, filed, or made, before the date of the enactment of this Act \[Nov. 4, 1992\], the Secretary shall, to the extent feasible, include in the Registry such individual's name and the data and information, if any, described in subsection (b)(2) relating to the individual.
 
 “(d)
 
@@ -136,7 +136,7 @@ Agreement.—(1) The Secretary of Veterans Affairs and Secretary of Defense join
 
 “(2) The agreement shall require MFUA to provide members of veterans organizations and members of the scientific community (including the Director of the Office of Technology Assessment) with the opportunity to comment on the method or methods MFUA proposes to use in conducting the review.
 
-“(3) The agreement shall permit MFUA, in conducting the review, to examine and evaluate medical records of individuals who are included in the registries referred to in section 705(d) for purposes that MFUA considers appropriate, including the purpose of identifying illnesses of those individuals.
+“(3) The agreement shall permit MFUA, in conducting the review, to examine and evaluate medical records of individuals who are included in the registries referred to in section 705(d) for purposes that MFUAconsiders appropriate, including the purpose of identifying illnesses of those individuals.
 
 “(4) The Secretary of Veterans Affairs and the Secretary of Defense shall seek to enter into the agreement under this section not later than 180 days after the date of the enactment of this Act \[Nov. 4, 1992\].
 
@@ -206,7 +206,7 @@ Reports.—(1) Not later than March 1 of each year, the head of the department o
 
 “(d)
 
-Public Availability of Research Findings.—The head of the department or agency designated under subsection (a) shall ensure that the findings of all research conducted by or for the executive branch relating to the health consequences of military service in the Persian Gulf theater of operations during the Persian Gulf War (including information pertinent to improving provision of care for veterans of such service) are made available to the public through peer-reviewed medical journals, the World Wide Web, and other appropriate media.
+Public Availability of Research Findings.—The head of the department or agency designated under subsection (a) shall ensure that the findings of all research conducted by or for the executive branch relating to the health consequences of military service in the Persian Gulf theater of operations during the Persian Gulf War (including information pertinent to improving provision of care for veterans of such service)are made available to the public through peer-reviewed medical journals, the World Wide Web, and other appropriate media.
 
 “(e)
 

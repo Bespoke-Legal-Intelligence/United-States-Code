@@ -30,9 +30,13 @@ The Congress finds that—
 
 The National Commission on Fire Prevention and Control, established pursuant to Public Law 90–259, referred to in par. (1), refers to the Commission established pursuant to Pub. L. 90–259, title II, §§201–207, Mar. 1, 1968, 82 Stat. 36, which provisions were set out as a note under section 278f of this title. The Commission has expired pursuant to sections 203(c) and 207 of Pub. L. 90–259.
 
+#### Short Title of 2000 Amendment
+
+Pub. L. 106–503, title I, §101, Nov. 13, 2000, 114 Stat. 2298, provided that: “This title \[enacting sections 2230 and 2231 of this title, amending sections 1511, 2203, 2204, 2206, 2209, 2210, 2214 to 2218 and 2220 of this title, sections 151302 to 151304 and 151307 of Title 36, Patriotic and National Observances, Ceremonies, and Organizations, and section 290a of Title 42, The Public Health and Welfare, and repealing sections 2222 and 2223 of this title\] may be cited as the ‘Fire Administration Authorization Act of 2000’.”
+
 #### Short Title of 1997 Amendment
 
-Pub. L. 105–108, §1, Nov. 20, 1997, 111 Stat. 2264, provided that: “This Act \[amending sections 2216, 2225, and2227 of this title and enacting provisions set out as notes under sections 2204 and 2218 of this title\] may be cited as the ‘United States Fire Administration Authorization Act for Fiscal Years 1998 and 1999’.”
+Pub. L. 105–108, §1, Nov. 20, 1997, 111 Stat. 2264, provided that: “This Act \[amending sections 2216, 2225, and 2227 of this title and enacting provisions set out as notes under sections 2204 and 2218 of this title\] may be cited as the ‘United States Fire Administration Authorization Act for Fiscal Years 1998 and 1999’.”
 
 #### Short Title of 1994 Amendment
 
@@ -45,6 +49,28 @@ Pub. L. 101–391, §1, Sept. 25, 1990, 104 Stat. 747, provided that: “This Ac
 #### Short Title
 
 Section 1 of Pub. L. 93–498 provided: “That this Act \[enacting this chapter and section 290a of Title 42, The Public Health and Welfare, amending sections 278f and 1511 of this title, and repealing section 278g of this title\] may be cited as the ‘Federal Fire Prevention and Control Act of 1974’.”
+
+#### Study on Need for Federal Assistance to State and Local Communities To Fund Firefighting and Emergency Response Activities
+
+Pub. L. 106–398, §1 \[\[div. A\], title XVII, §1701(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–363, provided that:
+
+“(1)
+
+Requirement for study.—The Director of the Federal Emergency Management Agency shall conduct a study in conjunction with the National Fire Protection Association to—
+
+&emsp;“(A) define the current role and activities associated with the fire services;
+
+&emsp;“(B) determine the adequacy of current levels of funding; and
+
+&emsp;“(C) provide a needs assessment to identify shortfalls.
+
+“(2)
+
+Time for completion of study; report.—The Director shall complete the study under paragraph (1), and submit a report on the results of the study to Congress, within 18 months after the date of the enactment of this Act \[Oct. 30, 2000\].
+
+“(3)
+
+Authorization of appropriations.—There are authorized to be appropriated to the Federal Emergency Management Agency $300,000 for fiscal year 2001 to carry out the study required by paragraph (1).”
 
 #### Local Firefighter and Emergency Services Training
 
@@ -126,7 +152,7 @@ The Agency shall be headed by a Director, who shall be appointed by the Presiden
 
 #### Sec. 103. The Deputy Director
 
-There shall be within the Agency a Deputy Director, who shall be appointed by the President, by and with the advice and consent of the Senate, and shall be compensated at the rate now or hereafter prescribed by law for level IV of the Executive Schedule \[5 U.S.C. 5315\]. The Deputy Director shall perform such functions asthe Director may from time to time prescribe and shall act as Director during the absence or disability of the Director or in the event of a vacancy in the Office of the Director.
+There shall be within the Agency a Deputy Director, who shall be appointed by the President, by and with the advice and consent of the Senate, and shall be compensated at the rate now or hereafter prescribed by law for level IV of the Executive Schedule \[5 U.S.C. 5315\]. The Deputy Director shall perform such functions as the Director may from time to time prescribe and shall act as Director during the absence or disability of the Director or in the event of a vacancy in the Office of the Director.
 
 #### Sec. 104. Associate Directors
 
@@ -188,7 +214,7 @@ The present situation has severely hampered Federal support of State and local e
 
 If approved by the Congress, the plan will establish the Federal Emergency Management Agency, whose Director shall report directly to the President. The National Fire Prevention and Control Administration (in the Department of Commerce), the Federal Insurance Administration (in the Department of Housing and Urban Development), and oversight responsibility for the Federal Emergency Broadcast System (now assigned in the Executive Office of the President) would be transferred to the Agency. The Agency's Director, its Deputy Director, and its five principal program managers would be appointed by the President with the advice and consent of the Senate.
 
-If the plan takes effect, I will assign to the Federal Emergency Management Agency all authorities and functions vested by law in the President and presently delegated to the Defense Civil Preparedness Agency (inthe Department of Defense). This will include certain engineering and communications support functions for civil defense now assigned to the U.S. Army.
+If the plan takes effect, I will assign to the Federal Emergency Management Agency all authorities and functions vested by law in the President and presently delegated to the Defense Civil Preparedness Agency (in the Department of Defense). This will include certain engineering and communications support functions for civil defense now assigned to the U.S. Army.
 
 I will also transfer to the new Agency all authorities and functions under the Disaster Relief Acts of 1970 and 1974 \[sections 4401 et seq. and 5121 et seq. of Title 42, The Public Health and Welfare\] now delegated to the Federal Disaster Assistance Administration in the Department of Housing and Urban Development.
 
@@ -216,7 +242,7 @@ The new Agency would be in this position. To increase White House oversight and 
 
 The communications, warning, evacuation, and public education processes involved in preparedness for a possible nuclear attack should be developed, tested, and used for major natural and accidental disasters as well. Consolidation of civil defense functions in the new Agency will assure that attack readiness programs are effectively integrated into the preparedness organizations and programs of State and local government, private industry, and volunteer organizations.
 
-While serving an important “all hazards” readiness and response role, civil defense must continue to be fully compatible with and be ready to play an important role in our Nation's overall strategic policy. Accordingly, to maintain a link between our strategic nuclear planning and our nuclear attack preparedness planning, I will make the Secretary of Defense and the National Security Council responsible for oversight of civil defense related programs and policies of the new Agency. This will also include appropriate Department of Defense support in areas like program development, technical support, research, communications, intelligence and emergency operations.
+While serving an important “all hazards” readiness and response role, civil defense must continue to be fully compatible with and be ready to play an important role in our Nation's overall strategic policy. Accordingly, to maintain a link between our strategic nuclear planning and our nuclear attack preparedness planning, I will make the Secretary of Defense and the National Security Council responsible for oversight ofcivil defense related programs and policies of the new Agency. This will also include appropriate Department of Defense support in areas like program development, technical support, research, communications, intelligence and emergency operations.
 
 <i>Third, whenever possible, emergency responsibilities should be extensions of the regular missions of Federal agencies</i>. The primary task of the Federal Emergency Management Agency will be to coordinate and plan for the emergency deployment of resources that have other routine uses. There is no need to develop a separate set of Federal skills and capabilities for those rare occasions when catastrophe occurs.
 
@@ -244,7 +270,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 1–101. Reorganization Plan No. 3 of 1978 (43 FR 41943), which establishes the Federal Emergency Management Agency, provides for the transfer of functions, and the transfer and abolition of agencies and offices, is hereby effective.
 
-1–102. The Director of the Office of Management and Budget shall, in accord with Section 302 of the Reorganization Plan, provide for all the appropriate transfers, including those transfers related to all the functionstransferred from the Department of Commerce, the Department of Housing and Urban Development, and the President.
+1–102. The Director of the Office of Management and Budget shall, in accord with Section 302 of the Reorganization Plan, provide for all the appropriate transfers, including those transfers related to all the functions transferred from the Department of Commerce, the Department of Housing and Urban Development, and the President.
 
 1–103. (a) The functions transferred from the Department of Commerce are those vested in the Secretary of Commerce, the Administrator and Deputy Administrator of the National Fire Prevention and Control Administration (now the United States Fire Administration (Sec. 2(a) of Public Law 95–422)), and the Superintendent of the National Academy for Fire Prevention and Control pursuant to the Federal Fire Prevention and Control Act of 1974, as amended (15 U.S.C. 2201 et seq.) \[this chapter\] but not including any functions vested by the amendments made to other acts by Sections 18 and 23 of that Act (15 U.S.C. 278f and 1511). The functions vested in the Administrator by Sections 24 and 25 of that Act, as added by Sections 3 and 4 of Public Law 95–422 (15 U.S.C. 2220 and 2221), are not transferred to the Director of the Federal Emergency Management Agency. Those functions are transferred with the Administrator and remain vested in him. (Section 201 of the Plan.)
 

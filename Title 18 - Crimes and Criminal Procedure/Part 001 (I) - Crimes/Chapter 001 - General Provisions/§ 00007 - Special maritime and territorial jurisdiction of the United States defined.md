@@ -50,10 +50,6 @@ Other minor changes were necessary now that the section defines a term rather th
 
 Pub. L. 104–132, title IX, §901(a), Apr. 24, 1996, 110 Stat. 1317, provided that: “The Congress declares that all the territorial sea of the United States, as defined by Presidential Proclamation 5928 of December 27, 1988 \[set out as a note under section 1331 of Title 43, Public Lands\], for purposes of Federal criminal jurisdiction is part of the United States, subject to its sovereignty, and is within the special maritime and territorial jurisdiction of the United States for the purposes of title 18, United States Code.”
 
-#### Cross References
-
-Laws of States adopted for areas within Federal jurisdiction, see section 13 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 13, 112, 878, 1116, 1201, 2334, 2340 of this title; title 15 sections 1175, 1243, 1245; title 16 section 3372; title 48 sections 1912, 1934; title 49 section 46506.

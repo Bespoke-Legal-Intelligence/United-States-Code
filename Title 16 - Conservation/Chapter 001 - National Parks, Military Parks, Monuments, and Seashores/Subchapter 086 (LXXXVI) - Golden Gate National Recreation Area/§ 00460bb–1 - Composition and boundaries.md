@@ -2,19 +2,21 @@
 
 #### (a) Areas included and excluded
 
-The recreation area shall comprise the lands, waters, and submerged lands generally depicted on the map entitled: “Revised Boundary Map, Golden Gate National Recreation Area”, numbered NRA–GG–80,003–K and dated October 1978, plus those areas depicted on the map entitled “Point Reyes and GGNRA Amendments and dated October 25, 1979”. The authority of the Secretary to acquire lands in the tract known as San Francisco Assessor's Block number 1592 shall be limited to an area of not more than one and nine-tenths acres. Notwithstanding any other provision of this subchapter, the Secretary shall not acquire the Marin County Assessor's parcels numbered 199–181–01, 199–181–06, 199–181–08, 199–181–13, and 199–181–14, located in the Muir Beach portion of the recreation area. For the purposes of this subchapter, the southern end of the town of Marshall shall be considered to be the Marshall Boat Works. The following additional lands are also hereby included within the boundaries of the recreation area: Marin County Assessor's parcel numbered 119–040–04, 119–040–05, 119–040–18, 166–202–03, 166–010–06, 166–010–07, 166–010–24, 166–010–25, 119–240–19, 166–010–10, 166–010–22, 119–240–03, 119–240–51, 119–240–52, 119–240–54, 166–010–12, 166–010–13, and 119–235–10. The recreation area shall also include the lands and waters in San Mateo County generally depicted on the map entitled “Sweeney Ridge Addition, Golden Gate National Recreation Area”, numbered NRA GG–80,000–A, and dated May 1980. The recreation area shall also include those lands acquired pursuant to the Golden Gate National Recreation Area Addition Act of 1992.
+The recreation area shall comprise the lands, waters, and submerged lands generally depicted on the map entitled: “Revised Boundary Map, Golden Gate National Recreation Area”, numbered NRA–GG–80,003–K and dated October 1978, plus those areas depicted on the map entitled “Point Reyes and GGNRA Amendments anddated October 25, 1979”. The authority of the Secretary to acquire lands in the tract known as San Francisco Assessor's Block number 1592 shall be limited to an area of not more than one and nine-tenths acres. Notwithstanding any other provision of this subchapter, the Secretary shall not acquire the Marin County Assessor's parcels numbered 199–181–01, 199–181–06, 199–181–08, 199–181–13, and 199–181–14, located in the Muir Beach portion of the recreation area. For the purposes of this subchapter, the southern end of the town of Marshall shall be considered to be the Marshall Boat Works. The following additional lands are also hereby included within the boundaries of the recreation area: Marin County Assessor's parcel numbered 119–040–04, 119–040–05, 119–040–18, 166–202–03, 166–010–06, 166–010–07, 166–010–24, 166–010–25, 119–240–19, 166–010–10, 166–010–22, 119–240–03, 119–240–51, 119–240–52, 119–240–54, 166–010–12, 166–010–13, and 119–235–10. The recreation area shall also include the lands and waters in San Mateo County generally depicted on the map entitled “Sweeney Ridge Addition, Golden Gate National Recreation Area”, numbered NRA GG–80,000–A, and dated May 1980. The recreation area shall also include those lands acquired pursuant to the Golden Gate National Recreation Area Addition Act of 1992. The recreation area shall also include the lands generally depicted on the map entitled “Additions to Golden Gate National Recreation Area”, numbered NPS–80,076, and dated July 2000/ PWR–PLRPC.
 
 #### (b) Boundary revisions; notification of Congressional committees; publication in Federal Register
 
 The maps referred to in this section shall be on file and available for public inspection in the Offices of the National Park Service, Department of the Interior, Washington, District of Columbia. After advising the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate (hereinafter referred to as the “committees”) in writing, the Secretary may make minor revisions of the boundaries of the recreation area when necessary by publication of a revised drawing or other boundary description in the Federal Register.
 
-(Pub. L. 92–589, §2, Oct. 27, 1972, 86 Stat. 1299; Pub. L. 93–544, Dec. 26, 1974, 88 Stat. 1741; Pub. L. 95–625, title III, §317(a), Nov. 10, 1978, 92 Stat. 3484; Pub. L. 96–199, title I, §103(a), Mar. 5, 1980, 94 Stat. 68; Pub. L. 96–344, §4(1), Sept. 8, 1980, 94 Stat. 1134; Pub. L. 96–607, title X, §1001(1), (2), Dec. 28, 1980, 94 Stat. 3544; Pub. L. 102–299, §2(b)(1), June 9, 1992, 106 Stat. 236; Pub. L. 103–437, §6(n)(2), Nov. 2, 1994, 108 Stat. 4586.)
+(Pub. L. 92–589, §2, Oct. 27, 1972, 86 Stat. 1299; Pub. L. 93–544, Dec. 26, 1974, 88 Stat. 1741; Pub. L. 95–625, title III, §317(a), Nov. 10, 1978, 92 Stat. 3484; Pub. L. 96–199, title I, §103(a), Mar. 5, 1980, 94 Stat. 68; Pub. L. 96–344, §4(1), Sept. 8, 1980, 94 Stat. 1134; Pub. L. 96–607, title X, §1001(1), (2), Dec. 28, 1980, 94 Stat. 3544; Pub. L. 102–299, §2(b)(1), June 9, 1992, 106 Stat. 236; Pub. L. 103–437, §6(n)(2), Nov. 2, 1994, 108 Stat. 4586; Pub. L. 106–350, §2, Oct. 24, 2000, 114 Stat. 1361.)
 
 #### References in Text
 
 The Golden Gate National Recreational Area Addition Act of 1992, referred to in subsec. (a), is Pub. L. 102–299, June 9, 1992, 106 Stat. 236, which amended this section and enacted provisions set out as a note below. For complete classification of this Act to the Code, see Short Title of 1992 Amendment note below and Tables.
 
 #### Amendments
+
+2000—Subsec. (a). Pub. L. 106–350 inserted at end “The recreation area shall also include the lands generally depicted on the map entitled ‘Additions to Golden Gate National Recreation Area’, numbered NPS–80,076, and dated July 2000/ PWR–PLRPC.”
 
 1994—Subsec. (b). Pub. L. 103–437 substituted “Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate” for “Committees on Interior and Insular Affairs of the United States House of Representatives and the United States Senate”.
 
@@ -35,10 +37,6 @@ Subsec. (b). Pub. L. 96–607, §1001(2), substituted “maps” for “map”.
 #### Change of Name
 
 Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
-#### Short Title of 1992 Amendment
-
-Section 1 of Pub. L. 102–299 provided that: “This Act \[amending this section and enacting provisions set out below\] may be cited as the ‘Golden Gate National Recreation Area Addition Act of 1992’.”
 
 #### Phleger Estate Addition
 

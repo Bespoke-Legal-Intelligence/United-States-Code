@@ -35,6 +35,8 @@
 | (b) | Secretary to monitor landings. |
 | (c) | Regulations to remain in effect until plan implemented. |
 | [5108\.](%C2%A7%2005108%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| (a) | In general. |
+| (b) | Cooperative statistics program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

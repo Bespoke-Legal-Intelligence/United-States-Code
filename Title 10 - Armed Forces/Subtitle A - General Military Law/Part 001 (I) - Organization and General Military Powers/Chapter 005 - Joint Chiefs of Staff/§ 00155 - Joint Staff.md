@@ -12,7 +12,7 @@ Appointment of Officers to Joint Staff.—(1) There is a Joint Staff under the C
 
 &emsp;(C) the Air Force.
 
-(3) Selection of officers of an armed force to serve on the Joint Staff shall be made by theChairman from a list of officers submitted by the Secretary of the military department having jurisdiction over that armed force. Each officer whose name is submitted shall be among those officers considered to be the most outstanding officers of that armed force. The Chairman may specify the number of officers to be included on any such list.
+(3) Selection of officers of an armed force to serve on the Joint Staff shall be made by the Chairman from a list of officers submitted by the Secretary of the military department having jurisdiction over that armed force. Each officer whose name is submitted shall be among those officers considered to be the most outstanding officers of that armed force. The Chairman may specify the number of officers to be included on any such list.
 
 (b)
 
@@ -42,7 +42,7 @@ Tour of Duty of Joint Staff Officers.—(1) An officer who is assigned or detail
 
 (2) In accordance with procedures established by the Secretary of Defense, the Chairman of the Joint Chiefs of Staff may suspend from duty and recommend the reassignment of any officer assigned to the Joint Staff. Upon receipt of such a recommendation, the Secretary concerned shall promptly reassign the officer.
 
-(3) An officer completing a tour of duty with the Joint Staff may not be assigned or detailed to permanent duty on the Joint Staff within two years after relief from that duty except with the approval of the Secretary.
+(3) An officer completing a tour of duty with the Joint Staff may not be assigned or detailedto permanent duty on the Joint Staff within two years after relief from that duty except with the approval of the Secretary.
 
 (4) Paragraphs (1) and (3) do not apply—
 
@@ -104,7 +104,7 @@ Selection.—(1) The Assistant to the Chairman of the Joint Chiefs of Staff for 
 
 &emsp;“(C) are in a grade above the grade of colonel.
 
-“(2) The Assistant to the Chairman of the Joint Chiefs of Staff for Reserve Matters shall be selected by the Chairman from officers of the Army Reserve, theNaval Reserve, the Marine Corps Reserve, or the Air Force Reserve who—
+“(2) The Assistant to the Chairman of the Joint Chiefs of Staff for Reserve Matters shall be selected by the Chairman from officers of the Army Reserve, the Naval Reserve, the Marine Corps Reserve, or the Air Force Reserve who—
 
 &emsp;“(A) are recommended for such selection by the Secretary of the military department concerned;
 

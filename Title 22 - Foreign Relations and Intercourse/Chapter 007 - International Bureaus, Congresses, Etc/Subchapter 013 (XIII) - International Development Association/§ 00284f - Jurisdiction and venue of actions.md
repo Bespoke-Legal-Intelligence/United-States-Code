@@ -4,11 +4,3 @@ For the purpose of any action which may be brought within the United States, its
 
 (Pub. L. 86–565, §8, June 30, 1960, 74 Stat. 294.)
 
-#### Federal Rules of Civil Procedure
-
-One form of action, see rule 2, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-#### Cross References
-
-Removal of cases from State to district courts, see section 1441 et seq. of Title 28, Judiciary and Judicial Procedure.
-

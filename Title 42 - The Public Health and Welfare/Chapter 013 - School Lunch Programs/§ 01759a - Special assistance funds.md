@@ -24,7 +24,7 @@
 
 (iii) If the Secretary determines after considering the best available socioeconomic data that the income level of families of children enrolled in a school has not remained stable, the Secretary may require the submission of applications for free and reduced price lunches, or for free and reduced price lunches and breakfasts, in the first school year of any 4-school-year period for which the school receives special assistance payments under this paragraph, for the purpose of calculating the special assistance payments.
 
-(iv) For the purpose of updating information and reimbursement levels, a school described inclause (i) that carries out a school lunch or school breakfast program may at any time require submission of applications for free and reduced price lunches or for free and reduced price lunches and breakfasts.
+(iv) For the purpose of updating information and reimbursement levels, a school described in clause (i) that carries out a school lunch or school breakfast program may at any time require submission of applications for free and reduced price lunches or for free and reduced price lunches and breakfasts.
 
 (E)(i) In the case of any school that—
 
@@ -84,7 +84,7 @@ Special assistance payments to any State under this section shall be made as pro
 
 (1) The Secretary, when appropriate, may request each school participating in the school lunch program under this chapter to report monthly to the State educational agency the average number of children in the school who received free lunches and the average number of children who received reduced price lunches during the immediately preceding month.
 
-(2) On request of the Secretary, the State educational agency of each State shall report to the Secretary the average number of children in theState who received free lunches and the average number of children in the State who received reduced price lunches during the immediately preceding month.
+(2) On request of the Secretary, the State educational agency of each State shall report to the Secretary the average number of children in the State who received free lunches and the average number of children in the State who received reduced price lunches during the immediately preceding month.
 
 #### (e) Eligibility of commodity only schools for special assistance payments; free and reduced price meals; discrimination and identification prohibited
 
@@ -104,7 +104,7 @@ Commodity only schools shall also be eligible for special assistance payments un
 
 &emsp;&emsp;(B) make the list of schools identified under this subsection available to each school district within the State and to the public;
 
-&emsp;&emsp;(C) provide technical assistance to schools, or school districts containing the schools, to enable the schools to evaluate and receive special assistance under subparagraph (C) or (E) of subsection (a)(1) of this section;
+&emsp;&emsp;(C) provide technical assistance to schools, or school districts containing the schools, toenable the schools to evaluate and receive special assistance under subparagraph (C) or (E) of subsection (a)(1) of this section;
 
 &emsp;&emsp;(D) take any other actions the Secretary determines are consistent with receiving special assistance under subparagraph (C) or (E) of subsection (a)(1) of this section and receiving a grant under this subsection; and
 
@@ -214,7 +214,7 @@ Subsec. (b). Pub. L. 91–248 substituted formula for apportionment of funds amo
 
 Subsec. (c). Pub. L. 91–248 struck out provision requiring that not less than 50 percent of the remaining sums appropriated be apportioned among the States other than Puerto Rico, the Virgin Islands, Guam, and American Samoa, substituted formula for apportionment of special assistance funds among the States based on the total number of children aged three to seventeen, inclusive, in households with incomes of less than $4,000 per annum, for a formula based on the number of free or reduced price lunches served in the preceding fiscal year and the assistance need rate, and provided that further apportionment be made on the same basis as the initial apportionment to any State which justifies the need for additional funds.
 
-Subsec. (e). Pub. L. 91–248 substituted provision requiring that funds disbursed by the State be used to assist schools in financing all or part of the operating costs of the school lunch program, for requirement that disbursed funds be used to assist schools in the purchase of agricultural commodities and other foods, struck out provision relating to the selection of schools to receive funds, and substituted as a basis for determination of the amount of funds to go to each school the need of that school for assistance in meeting the requirements of section 1758 of this title, for such factors as economic condition of area from which school draws attendance, the percentages of free and reduced price lunches being served in such schools, the price of lunches in such schools compared with the average prevailing price of lunches served in the State under this chapter and the need of such schools for assistance as reflected by the financial position of the school's lunch programs.
+Subsec. (e). Pub. L. 91–248 substituted provision requiring that funds disbursed by the State be used to assist schools in financing all or part of the operating costs of the school lunch program, for requirement that disbursed funds be used to assist schools in the purchase of agricultural commodities and other foods, struck out provision relating to the selection of schools to receive funds, and substituted as a basis for determination of the amount of funds to go to each school the need of that school for assistance in meeting the requirements of section 1758 of this title, for such factorsas economic condition of area from which school draws attendance, the percentages of free and reduced price lunches being served in such schools, the price of lunches in such schools compared with the average prevailing price of lunches served in the State under this chapter and the need of such schools for assistance as reflected by the financial position of the school's lunch programs.
 
 Subsec. (f). Pub. L. 91–248 substituted “in the fiscal year beginning two years immediately prior to the fiscal year for which the funds are appropriated” for “in the preceding fiscal year”.
 

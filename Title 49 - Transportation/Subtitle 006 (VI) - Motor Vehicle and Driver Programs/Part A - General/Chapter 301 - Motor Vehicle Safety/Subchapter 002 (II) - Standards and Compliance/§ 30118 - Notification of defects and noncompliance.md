@@ -2,7 +2,7 @@
 
 (a)
 
-Notification by Secretary.—The Secretary of Transportation shall notify the manufacturer of a motor vehicle or replacement equipment immediately after making an initialdecision (through testing, inspection, investigation, or research carried out under this chapter, examining communications under section 30166(f) of this title, or otherwise) that the vehicle or equipment contains a defect related to motor vehicle safety or does not comply with an applicable motor vehicle safety standard prescribed under this chapter. The notification shall include the information on which the decision is based. The Secretary shall publish a notice of each decision under this subsection in the Federal Register. Subject to section 30167(a) of this title, the notification and information are available to any interested person.
+Notification by Secretary.—The Secretary of Transportation shall notify the manufacturer of a motor vehicle or replacement equipment immediately after making an initial decision (through testing, inspection, investigation, or research carried out under this chapter, examining communications under section 30166(f) of this title, or otherwise) that the vehicle or equipment contains a defect related to motor vehicle safety or does not comply with an applicable motor vehicle safety standard prescribed under this chapter. The notification shall include the information on which the decision is based. The Secretary shall publish a notice of each decision under this subsection in the Federal Register. Subject to section 30167(a) of this title, the notification and information are available to any interested person.
 
 (b)
 
@@ -30,7 +30,7 @@ Exemptions.—On application of a manufacturer, the Secretary shall exempt the m
 
 Hearings About Meeting Notification Requirements.—On the motion of the Secretary or on petition of any interested person, the Secretary may conduct a hearing to decide whether the manufacturer has reasonably met the notification requirements under this section. Any interested person may make written and oral presentations of information, views, and arguments on whether the manufacturer has reasonably met the notification requirements. If the Secretary decides that the manufacturer has not reasonably met the notification requirements, the Secretary shall order the manufacturer to take specified action to meet those requirements and may take any other action authorized under this chapter.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 950.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 950; Pub. L. 106–346, §101(a) \[title III, §364\], Oct. 23, 2000, 114 Stat. 1356, 1356A–37; Pub. L. 106–414, §2, Nov. 1, 2000, 114 Stat. 1800.)
 
 Historical and Revision Notes
 
@@ -100,13 +100,23 @@ In subsection (b)(1), the words “may make a final decision” are substituted 
 
 In subsection (b)(2), before clause (A), the words “If the Secretary decides under paragraph (1) of this subsection that the vehicle or equipment contains a defect or does not comply” are added for clarity and because of the restatement. The words “after such presentations by the manufacturer and interested persons” are omitted as surplus. In clause (A), the words “of the defect or noncompliance” are added for clarity.
 
-In subsection (c), before clause (1), the words “A manufacturer of a motor vehicle or replacement equipment” are substituted for “manufactured by him” in 15:1411 for clarity. The words “shall notify” are substituted for “he shall furnish notification to” to eliminate unnecessary words. The words “to the Secretary, if section 1411 of this title applies” in 15:1413(c) (1st sentence cl. (6)) are omitted because of the restatement. The words “of the vehicle or equipment” are added for clarity. The words “and he shall remedy the defect or failure to comply in accordance with section 1414 ofthis title” in 15:1411 are omitted as unnecessary because of the source provisions restated in section 30120 of the revised title.
+In subsection (c), before clause (1), the words “A manufacturer of a motor vehicle or replacement equipment” are substituted for “manufactured by him” in 15:1411 for clarity. The words “shall notify” are substituted for “he shall furnish notification to” to eliminate unnecessary words. The words “to the Secretary, if section 1411 of this title applies” in 15:1413(c) (1st sentence cl. (6)) are omitted because of the restatement. The words “of the vehicle or equipment” are added for clarity. The words “and he shall remedy the defect or failure to comply in accordance with section 1414 of this title” in 15:1411 are omitted as unnecessary because of the source provisions restated in section 30120 of the revised title.
 
 In subsection (d), the words “any requirement under”, “to give notice with respect to”, and “as it relates” are omitted as surplus. The words “The Secretary may take action under this subsection only” are added because of the restatement.
 
 In subsection (e), the words “(including a manufacturer)” are omitted as surplus. The word “information” is substituted for “data” for consistency in the revised title.
 
+#### Amendments
+
+2000—Pub. L. 106–346, §101(a) \[title III, §364\], which directed amendment of this section in subsecs. (a), (b)(1), and (c), by inserting “, original equipment,” before “or replacement equipment” wherever appearing, and in subsec. (c), by redesignating pars. (1) and (2) as subpars. (A) and (B), respectively, and realigning margins, by substituting “(1)
+
+In general.—A manufacturer” for “A manufacturer”, and by adding a new par (2) relating to duty of manufacturers, was repealed by Pub. L. 106–414, §2. See Construction of 2000 Amendment note below.
+
+#### Construction of 2000 Amendment
+
+Pub. L. 106–414, §2, Nov. 1, 2000, 114 Stat. 1800, provided that: “The amendments made to section 30118 of title 49, United States Code, by section 364 of the Department of Transportation and Related Agencies Appropriations Act, 2001 \[Pub. L. 106–346, §101(a) \[title III, §364\], Oct. 23, 2000, 114 Stat. 1356, 1356A–37\] are repealed and such section shall be effective as if such amending section had not been enacted.”
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 30102, 30103, 30117, 30119, 30120, 30121, 30141, 30146, 30147, 30162, 30163, 30165, 30167 of this title.
+This section is referred to in sections 30102, 30103, 30117, 30119, 30120, 30121, 30141, 30146, 30147, 30162, 30163, 30165, 30166, 30167 of this title.
 

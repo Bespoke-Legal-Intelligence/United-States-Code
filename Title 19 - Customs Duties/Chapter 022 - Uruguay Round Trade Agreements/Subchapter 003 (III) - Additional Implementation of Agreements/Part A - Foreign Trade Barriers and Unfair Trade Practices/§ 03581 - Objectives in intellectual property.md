@@ -30,7 +30,3 @@ In General.—Except as provided in subsection (b), this subtitle \[subtitle B (
 
 Section 314(f).—The amendment made by section 314(f) \[amending section 2420 of this title\] takes effect on the date of the enactment of this Act \[Dec. 8, 1994\].”
 
-#### Cross References
-
-North American Free Trade Agreement Implementation Act, see section 3301 et seq. of this title.
-

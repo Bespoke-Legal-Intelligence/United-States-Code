@@ -66,11 +66,3 @@ Undercover Investigations.—(1) Congress finds that the use of undercover inves
 
 Inventory Security Incident Repository.—The Secretary of Defense shall establish and maintain a centralized computer system for recording and organizing information on theft, fraud, and breach of security and incidents involving the loss of Department of Defense supplies (including munitions).”
 
-#### Cross References
-
-Cataloging and standardization of supplies, see section 2451 et seq. of this title.
-
-Interchange of property and services and disposition of obsolete, surplus, or unclaimed property, see section 2571 et seq. of this title.
-
-Real and personal property and lease of non-excess property, see section 2662 et seq. of this title.
-

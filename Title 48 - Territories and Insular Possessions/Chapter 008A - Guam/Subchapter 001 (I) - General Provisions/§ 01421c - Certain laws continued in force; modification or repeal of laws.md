@@ -14,13 +14,3 @@
 
 Section 7 of Pub. L. 90–497 provided that the amendment made by that section is effective on date of enactment of Pub. L. 90–497, which was approved Sept. 11, 1968.
 
-#### Cross References
-
-Acknowledgment of deeds, see section 1421f–1 of this title.
-
-Fair Labor Standards Act, application to Guam, see section 213 of Title 29, Labor.
-
-National Bank Act, application to Guam, see section 41 of Title 12, Banks and Banking.
-
-Park programs, State as including Guam, see section 17n of Title 16, Conservation.
-

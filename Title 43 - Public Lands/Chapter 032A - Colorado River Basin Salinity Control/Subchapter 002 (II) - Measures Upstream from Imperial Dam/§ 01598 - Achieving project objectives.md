@@ -2,7 +2,7 @@
 
 #### (a) Modification of projects
 
-The Secretary is authorized to provide for modifications of the projects authorized by this subchapter as determined to be appropriate for purposes of meeting the objective of this subchapter. No funds for any such modification shall be expended until the expiration of sixty days after the proposed modification has been submitted to appropriate committees of the Congress, except that funds may be expendedprior to the expiration of such sixty days in any case in which the Congress approves an earlier date by concurrent resolution. The Governors of the Colorado River Basin States shall be notified of these changes.
+The Secretary is authorized to provide for modifications of the projects authorized by this subchapter as determined to be appropriate for purposes of meeting the objective of this subchapter. No funds for any such modification shall be expended until the expiration of sixty days after the proposed modification has been submitted to appropriate committees of the Congress, except that funds may be expended prior to the expiration of such sixty days in any case in which the Congress approves an earlier date by concurrent resolution. The Governors of the Colorado River Basin States shall be notified of these changes.
 
 #### (b) Contract authority; authorization of appropriations
 
@@ -10,15 +10,17 @@ The Secretary is hereby authorized to enter into contracts that he deems necessa
 
 #### (c) Implementation of basinwide salinity control program
 
-In addition to the amounts authorized to be appropriated under subsection (b) of this section, there are authorized to be appropriated $75,000,000 for subsection <sup>1</sup> 1592(a) of this title, including constructing the works described in paragraph <sup>1</sup> 1592(a)(6) of this title and carrying out the measures described in such paragraph.<sup>1</sup> Notwithstanding subsection (b) of this section, the Secretary may implement the program under paragraph <sup>1</sup> 1592(a)(6) of this title only to the extent and in such amounts as are provided in advance in appropriations Acts.
+In addition to the amounts authorized to be appropriated under subsection (b) of this section, there are authorized to be appropriated $175,000,000 for section 1592(a) of this title, including constructing the works described in paragraph (6) of section 1592(a) of this title and carrying out the measures described in such paragraph. Notwithstanding subsection (b) of this section, the Secretary may implement the program under section 1592(a)(6) of this title only to the extent and in such amounts as are provided in advance in appropriations Acts.
 
-(Pub. L. 93–320, title II, §208, June 24, 1974, 88 Stat. 274; Pub. L. 98–569, §5, Oct. 30, 1984, 98 Stat. 2939; Pub. L. 104–20, §1(3), July 28, 1995, 109 Stat. 256.)
+(Pub. L. 93–320, title II, §208, June 24, 1974, 88 Stat. 274; Pub. L. 98–569, §5, Oct. 30, 1984, 98 Stat. 2939; Pub. L. 104–20, §1(3), July 28, 1995, 109 Stat. 256; Pub. L. 106–459, §1, Nov. 7, 2000, 114 Stat. 1987.)
 
 #### References in Text
 
 The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, referred to in subsec. (b), is Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, which is classified generally to chapter 61 (§4601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4601 of Title 42 and Tables.
 
 #### Amendments
+
+2000—Subsec.(c). Pub. L. 106–459, in first sentence, substituted “$175,000,000 for section 1592(a) of this title” for “$75,000,000 for subsection 1592(a) of this title” and “paragraph (6) of section 1592(a) of this title” for “paragraph 1592(a)(6) of this title” and, in second sentence, substituted “section 1592(a)(6) of this title” for “paragraph 1592(a)(6) of this title”.
 
 1995—Subsec. (c). Pub. L. 104–20 added subsec. (c).
 
@@ -31,6 +33,4 @@ Pub. L. 98–569, §5(b)(2), inserted “The funds authorized to be appropriated
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–569 effective Oct. 30, 1984, see section 6 of Pub. L. 98–569, set out as a note under section 1591 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 

@@ -14,9 +14,9 @@
 
 (2) The authorities provided in paragraph (1) shall be exercised only in the enforcement of statutes for which the Coast Guard has law enforcement authority, or in exigent circumstances.
 
-(b) The Commandant may designate to have the authority provided under subsection (a) any special agent of the Coast Guard InvestigativeService whose duties include conducting, supervising, or coordinating investigation of criminal activity in programs and operations of the United States Coast Guard.
+(b) The Commandant may designate to have the authority provided under subsection (a) any special agent of the Coast Guard Investigative Service whose duties include conducting, supervising, or coordinating investigation of criminal activity in programs and operations of the United States Coast Guard.
 
-(c) The authority provided under subsection (a) shall be exercised in accordance with guidelines prescribed by the Commandant and approved by the Attorney General and any other applicable guidelines prescribed by the Secretary of Transportation or the Attorney General.
+(c) The authority provided under subsection (a) shall be exercised in accordance with guidelines prescribed by the Commandant and approved by the Attorney General and any otherapplicable guidelines prescribed by the Secretary of Transportation or the Attorney General.
 
 (Added Pub. L. 100–448, §10(a), Sept. 28, 1988, 102 Stat. 1842; amended Pub. L. 105–383, title II, §205(a), Nov. 13, 1998, 112 Stat. 3415.)
 

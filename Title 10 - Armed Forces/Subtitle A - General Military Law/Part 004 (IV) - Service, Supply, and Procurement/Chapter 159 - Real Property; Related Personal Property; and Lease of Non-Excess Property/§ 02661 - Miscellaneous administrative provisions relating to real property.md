@@ -26,7 +26,7 @@ Subsection (b) is based on Pub. L. 99–190, §101(b) \[title VIII, §8005(d), (
 
 #### Prior Provisions
 
-A prior section 2661, act Aug. 10, 1956, ch. 1041, 70A Stat. 147, related to planning and construction of publicworks projects by military departments, prior to repeal by Pub. L. 97–214, §7(1), July 12, 1982, 96 Stat. 173, eff. Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date.
+A prior section 2661, act Aug. 10, 1956, ch. 1041, 70A Stat. 147, related to planning and construction of public works projects by military departments, prior to repeal by Pub. L. 97–214, §7(1), July 12, 1982, 96 Stat. 173, eff. Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date.
 
 #### Study of Establishment of Land Management and Training Center
 

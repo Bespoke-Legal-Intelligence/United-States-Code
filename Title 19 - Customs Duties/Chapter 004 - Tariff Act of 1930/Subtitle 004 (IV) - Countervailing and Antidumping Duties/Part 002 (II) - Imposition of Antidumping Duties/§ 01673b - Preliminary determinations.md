@@ -168,7 +168,7 @@ Subsec. (b)(2). Pub. L. 103–465, §233(a)(6)(A)(ix), (B), substituted “initi
 
 Subsec. (b)(3). Pub. L. 103–465, §213(a), added par. (3).
 
-Subsec. (c)(1). Pub. L. 103–465, §§212(b)(2)(D), 233(a)(6)(A)(x), in concluding provisions, substituted“190th day after the date on which the administering authority initiates an investigation under section 1673a(c) of this title” for “210th day after the date on which a petition is filed under section 1673a(b) of this title” and “initiated” for “commenced”.
+Subsec. (c)(1). Pub. L. 103–465, §§212(b)(2)(D), 233(a)(6)(A)(x), in concluding provisions, substituted “190th day after the date on which the administering authority initiates an investigation under section 1673a(c) of this title” for “210th day after the date on which a petition is filed under section 1673a(b) of this title” and “initiated” for “commenced”.
 
 Subsec. (d). Pub. L. 103–465, §215(b)(1)(B), inserted concluding provisions.
 

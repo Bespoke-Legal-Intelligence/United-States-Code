@@ -16,5 +16,5 @@ R.S. §40 derived from act Aug. 16, 1856, ch. 123, §6, 11 Stat. 49.
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–51 effective in the case of compensation payable for months after December 1981,see section 112(e) of Pub. L. 97–51, set out as a note under section 33 of this title.
+Amendment by Pub. L. 97–51 effective in the case of compensation payable for months after December 1981, see section 112(e) of Pub. L. 97–51, set out as a note under section 33 of this title.
 

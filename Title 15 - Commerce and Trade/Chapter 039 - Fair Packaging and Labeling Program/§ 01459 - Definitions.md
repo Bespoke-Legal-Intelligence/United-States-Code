@@ -26,7 +26,7 @@ For the purpose of this chapter—
 
 (d) The term “person” includes any firm, corporation, or association.
 
-(e) The term “commerce” means (1) commerce between any State, the District of Columbia, the Commonwealth of Puerto Rico, or any territory or possession of the United States, and any place outside thereof, and (2) commerce within the District of Columbia or within any territory or possession of the United States not organized with a legislative body, but shall not include exports to foreign countries.
+(e) The term “commerce” means (1) commerce between any State, the District of Columbia, theCommonwealth of Puerto Rico, or any territory or possession of the United States, and any place outside thereof, and (2) commerce within the District of Columbia or within any territory or possession of the United States not organized with a legislative body, but shall not include exports to foreign countries.
 
 (f) The term “principal display panel” means that part of a label that is most likely to be displayed, presented, shown, or examined under normal and customary conditions of display for retail sale.
 

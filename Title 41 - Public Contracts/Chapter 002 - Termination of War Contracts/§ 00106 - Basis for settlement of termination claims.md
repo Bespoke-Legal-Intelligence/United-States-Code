@@ -36,7 +36,7 @@ The following shall not be included as elements of cost:
 
 &emsp;(ii) The expense of conversion of the contractor's facilities to uses other than the performance of the contract.
 
-&emsp;(iii) Expenses due to the negligence or willful failure of the contractor to discontinue with reasonable promptness the incurring of expenses after the effective date of the termination notice.
+&emsp;(iii) Expenses due to the negligence or willful failure of the contractor to discontinue with reasonable promptness the incurring ofexpenses after the effective date of the termination notice.
 
 &emsp;(iv) Costs incurred in respect to facilities, materials, or services purchased or work done in excess of the reasonable quantitative requirements of the entire contract.
 
@@ -54,7 +54,7 @@ Each contracting agency shall allow and pay interest on the amount due and unpai
 
 #### (g) Amendment of contracts
 
-Where any war contract does not provide for or provides against such fair compensation for its termination, the contracting agency, eitherbefore or after its termination, shall amend such war contract by agreement with the war contractor, or shall authorize, approve, or ratify an amendment of such war contract by the parties thereto, to provide for such fair compensation.
+Where any war contract does not provide for or provides against such fair compensation for its termination, the contracting agency, either before or after its termination, shall amend such war contract by agreement with the war contractor, or shall authorize, approve, or ratify an amendment of such war contract by the parties thereto, to provide for such fair compensation.
 
 (July 1, 1944, ch. 358, §6, 58 Stat. 652; Ex. Ord. No. 9809, §8, eff. Dec. 12, 1946, 11 F.R. 14281; 1947 Reorg. Plan No. 1, §201, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 951; June 30, 1949, ch. 288, title I, §102(b), 63 Stat. 380.)
 

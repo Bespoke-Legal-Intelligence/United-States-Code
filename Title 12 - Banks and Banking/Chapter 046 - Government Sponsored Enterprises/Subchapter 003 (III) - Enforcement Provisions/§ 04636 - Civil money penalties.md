@@ -4,7 +4,7 @@
 
 The Director may impose a civil money penalty in accordance with this section on any enterprise, or any executive officer or director of any enterprise, that—
 
-&emsp;(1) violates any provision of this chapter, the Federal National Mortgage Association Charter Act \[12 U.S.C. 1716 et seq.\], the Federal Home Loan Mortgage Corporation Act \[12 U.S.C. 1451 et seq.\], or any order, rule, or regulation under any such chapter or Act, except that the Director may not enforce compliance with any housing goal established under subpart 2 of part B of subchapter I of this chapter, with section 4566 or 4567 of this title, or with subsection (m) or (n) of section 309 of the Federal National Mortgage Association Charter Act \[12 U.S.C. 1723a(m), (n)\] or subsection (e) or (f) of section 307 of the Federal Home Loan Mortgage Corporation Act \[12 U.S.C. 1456(e), (f)\];
+&emsp;(1) violates any provision of this chapter, the Federal National Mortgage Association Charter Act \[12 U.S.C. 1716 et seq.\], the Federal Home Loan Mortgage Corporation Act \[12 U.S.C. 1451 et seq.\], or any order, rule, or regulation under any such chapter or Act, except that the Director may not enforce compliance with any housing goal established under subpart 2 of part B of subchapter I of this chapter, with section 4566 or 4567 of this title, or with subsection (m) or (n) of section 309 of the Federal National Mortgage Association CharterAct \[12 U.S.C. 1723a(m), (n)\] or subsection (e) or (f) of section 307 of the Federal Home Loan Mortgage Corporation Act \[12 U.S.C. 1456(e), (f)\];
 
 &emsp;(2) violates any final or temporary order issued pursuant to section 4615, 4616, 4631, or 4632 of this title;
 
@@ -80,7 +80,7 @@ A penalty under this section may be imposed only for conduct or violations under
 
 This chapter, referred to in subsec. (a)(1), was in the original “this title”, meaning title XIII of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3941, which is classified principally to this chapter. For complete classification of title XIII to the Code, see Short Title note set out under section 4501 of this title and Tables.
 
-The Federal National Mortgage Association Charter Act, referred to in subsec. (a)(1), is title III of act June 27, 1934, ch. 847, 48 Stat. 1252, as amended, which is classified generally to subchapter III (§1716 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1716 of this title and Tables.
+The Federal National Mortgage Association Charter Act, referred to in subsec. (a)(1), is title III of act June27, 1934, ch. 847, 48 Stat. 1252, as amended, which is classified generally to subchapter III (§1716 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1716 of this title and Tables.
 
 The Federal Home Loan Mortgage Corporation Act, referred to in subsec. (a)(1), is title III of Pub. L. 91–351, July 24, 1970, 84 Stat. 451, as amended, which is classified generally to chapter 11A (§1451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title and Statement of Purpose note set out under section 1451 of this title and Tables.
 

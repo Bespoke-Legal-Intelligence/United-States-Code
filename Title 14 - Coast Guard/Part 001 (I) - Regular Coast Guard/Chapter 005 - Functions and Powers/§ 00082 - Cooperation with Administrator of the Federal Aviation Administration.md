@@ -42,7 +42,3 @@ Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 1124 of Pub. 
 
 Section 1505(2) of Pub. L. 85–726, title XV, Aug. 23, 1958, 72 Stat. 810, provided that the amendment made by Pub. L. 85–726 is effective on 60th day following date on which Administrator of Federal Aviation Agency \[Federal Aviation Administration\] first appointed under Pub. L. 85–726 qualifies and takes office. Administrator appointed, qualified, and took office on Oct. 31, 1958.
 
-#### Cross References
-
-Air navigational facilities on floating ocean stations, see section 90 of this title.
-

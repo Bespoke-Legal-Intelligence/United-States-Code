@@ -34,7 +34,7 @@
 
 1999—Pub. L. 106–113, div. B, §1000(a)(9) \[title I, §1002(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–527, added item 122.
 
-1997—Pub. L. 105–80, §12(a)(2), Nov. 13, 1997, 111 Stat. 1534, substituted “Limitations on exclusive rights: Computer programs” for “Scope of exclusive rights: Use in conjunction with computers and similar information systems” in item 117.
+1997—Pub. L. 105–80, §12(a)(2), Nov. 13, 1997, 111 Stat. 1534, substituted “Limitations on exclusive rights: Computer programs” for “Scope of exclusive rights:Use in conjunction with computers and similar information systems” in item 117.
 
 1996—Pub. L. 104–197, title III, §316(b), Sept. 16, 1996, 110 Stat. 2417, added item 121.
 

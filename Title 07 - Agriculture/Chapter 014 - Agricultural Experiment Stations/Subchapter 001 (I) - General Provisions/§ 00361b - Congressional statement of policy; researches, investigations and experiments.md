@@ -12,10 +12,6 @@ Section was formerly classified to section 363 of this title.
 
 1955—Act Aug. 11, 1955, amended section generally to restate the policy of Congress.
 
-#### Cross References
-
-Additional appropriations for research work, see section 427i of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 361d of this title.

@@ -12,9 +12,7 @@
 
 &emsp;(C) consider, in consultation with the Environmental Protection Agency and other Federal agencies, and where appropriate contain, measures with regard to radon and other indoor air pollutants.
 
-#### (b) Report on comparative standards
-
-The Secretary shall identify and describe, in the report required under section 6837 of this title, the basis for any substantive difference between the Federal building energy standards established under this section (including differences in treatment of energy efficiency and renewable energy) and the appropriate voluntary building energy code.
+#### (b) Omitted
 
 #### (c) Periodic review
 
@@ -25,6 +23,10 @@ The Secretary shall periodically, but not less than once every 5 years, review t
 Interim energy performance standards for new Federal buildings issued by the Secretary under this subchapter as it existed before October 24, 1992, shall remain in effect until the standards established under subsection (a) of this section become effective.
 
 (Pub. L. 94–385, title III, §305, as added Pub. L. 102–486, title I, §101(a)(2), Oct. 24, 1992, 106 Stat. 2784.)
+
+#### Codification
+
+Subsec. (b) of this section, which required the Secretary to identify and describe, in the annual report required under section 6837 of this title, the basis for any substantive difference between the Federal building energy standards established under this section and the appropriate voluntary building energy code, was omitted because of termination of the annual report. See Codification note set out under section 6837 of this title.
 
 #### Prior Provisions
 

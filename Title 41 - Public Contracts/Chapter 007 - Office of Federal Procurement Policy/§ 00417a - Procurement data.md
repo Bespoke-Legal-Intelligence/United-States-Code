@@ -16,7 +16,7 @@ Section 204 of this Act, referred to in subsec. (b), is section 204 of Pub. L. 1
 
 #### Codification
 
-Section was enacted as part of the Women's Business Ownership Act of 1988, and as part of the Office of Federal Procurement Policy Act which comprises this chapter.
+Section was enacted as part of the Women's Business Ownership Act of 1988, and not as part of the Office of Federal Procurement Policy Act which comprises this chapter.
 
 #### Amendments
 

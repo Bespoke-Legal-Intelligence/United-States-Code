@@ -2,17 +2,85 @@
 
 #### (a) Establishment and membership
 
-The Foundation shall have a governing Board of Directors (hereinafter referred to in this chapter as the “Board”), which shall consist of 15 Directors, each of whom shall be a United States citizen and—
+#### (1) In general
 
-&emsp;(1) six of whom must be knowledgeable or experienced in fish and wildlife conservation; and
+&emsp;The Foundation shall have a governing Board of Directors (referred to in this chapter as the “Board”), which shall consist of 25 Directors appointed in accordance with subsection (b) of this section, each of whom shall be a United States citizen.
 
-&emsp;(2) 4 of whom must be educated and experienced in the principles of fish and wildlife management.
+#### (2) Representation of diverse points of view
 
-> The membership of the Board, to the extent practicable, shall represent diverse points of view relating to fish and wildlife conservation. The Director of the United States Fish and Wildlife Service shall be an ex officio nonvoting member of the Board. Appointment to the Board shall not constitute employment by, or the holding of an office of, the United States for the purposes of any Federal law.
+&emsp;To the maximum extent practicable, the membership of the Board shall represent diverse points of view relating to conservation and management of fish, wildlife, plants, and other natural resources.
+
+#### (3) Not Federal employees
+
+&emsp;Appointment as a Director of the Foundation shall not constitute employment by, or the holding of an office of, the United States for the purpose of any Federal law.
 
 #### (b) Appointment and terms
 
-By December 31, 1984, the Secretary of the Interior (hereinafter referred to in this chapter as the “Secretary”) shall appoint the Directors of the Board. The Directors shall be appointed for terms of six years; except that the Secretary, in making the initial appointments to the Board, shall appoint three Directors to a term of two years, three Directors to a term of four years, and three Directors to a term of six years. A vacancy on the Board shall be filled within sixty days of said vacancy in the manner in which the original appointment was made. No individual may serve more than two consecutive terms as a Director. The Secretary of the Interior shall consult with the Under Secretary of Commerce for Oceans and Atmosphere before appointing any Director of the Board.
+#### (1) Agency heads
+
+&emsp;The Director of the United States Fish and Wildlife Service and the Under Secretary of Commerce for Oceans and Atmosphere shall be Directors of the Foundation.
+
+#### (2) Appointments by the Secretary of the Interior
+
+#### (A) In general
+
+&emsp;&emsp;Subject to subparagraph (B), after consulting with the Secretary of Commerce and considering the recommendations submitted by the Board, the Secretary of the Interior shall appoint 23 Directors who meet the criteria established by subsection (a) of this section, of whom—
+
+&emsp;&emsp;&emsp;(i) at least six shall be educated or experienced in fish, wildlife, or other natural resource conservation;
+
+&emsp;&emsp;&emsp;(ii) at least four shall be educated or experienced in the principles of fish, wildlife, or other natural resource management; and
+
+&emsp;&emsp;&emsp;(iii) at least four shall be educated or experienced in ocean and coastal resource conservation.
+
+#### (B) Transition provision
+
+#### (i) Continuation of terms
+
+&emsp;&emsp;&emsp;The 15 Directors serving on the Board as of November 1, 2000, shall continue to serve until the expiration of their terms.
+
+#### (ii) New Directors
+
+&emsp;&emsp;&emsp;Subject to paragraph (3), the Secretary of the Interior shall appoint eight new Directors.
+
+#### (3) Terms
+
+#### (A) In general
+
+&emsp;&emsp;Subject to subparagraph (B), each Director (other than a Director described in paragraph (1)) shall be appointed for a term of 6 years.
+
+#### (B) Initial appointments to new member positions
+
+&emsp;&emsp;Of the Directors appointed by the Secretary of the Interior under paragraph (2)(B)(ii), the Secretary shall appoint, in fiscal year 2001, three Directors for a term of 6 years.
+
+#### (C) Subsequent appointments to new member positions
+
+&emsp;&emsp;Of the Directors appointed by the Secretary of the Interior under paragraph (2)(B)(ii), the Secretary shall appoint, in fiscal year 2002—
+
+&emsp;&emsp;&emsp;(i) two Directors for a term of 2 years; and
+
+&emsp;&emsp;&emsp;(ii) three Directors for a term of 4 years.
+
+#### (4) Vacancies
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary of the Interior shall fill a vacancy on the Board.
+
+#### (B) Term of appointments to fill unexpired terms
+
+&emsp;&emsp;An individual appointed to fill a vacancy that occurs before the expiration of the term of a Director shall be appointed for the remainder of the term.
+
+#### (5) Reappointment
+
+&emsp;An individual (other than an individual described in paragraph (1)) shall not serve more than 2 consecutive terms as a Director, excluding any term of less than 6 years.
+
+#### (6) Request for removal
+
+&emsp;The executive committee of the Board may submit to the Secretary of the Interior a letter describing the nonperformance of a Director and requesting the removal of the Director from the Board.
+
+#### (7) Consultation before removal
+
+&emsp;Before removing any Director from the Board, the Secretary of the Interior shall consult with the Secretary of Commerce.
 
 #### (c) Chairman
 
@@ -46,13 +114,23 @@ Members of the Board shall serve without pay, but may be reimbursed for the actu
 
 &emsp;(B) The first officer or employee appointed by the Board shall be the Secretary of the Board who (i) shall serve, at the direction of the Board, as its chief operating officer, and (ii) shall be knowledgeable and experienced in matters relating to fish and wildlife conservation.
 
-(Pub. L. 98–244, §3, Mar. 26, 1984, 98 Stat. 107; Pub. L. 101–593, title I, §110(b), Nov. 16, 1990, 104 Stat. 2959; Pub. L. 103–232, title I, §103(a)(1), (b), Apr. 11, 1994, 108 Stat. 336.)
+(Pub. L. 98–244, §3, Mar. 26, 1984, 98 Stat. 107; Pub. L. 101–593, title I, §110(b), Nov. 16, 1990, 104 Stat. 2959; Pub. L. 103–232, title I, §103(a)(1), (b), Apr. 11, 1994, 108 Stat. 336; Pub. L. 106–408, title II, §203(a), (b), Nov. 1, 2000, 114 Stat. 1777, 1778.)
 
 #### References in Text
 
 Provisions of title 5 governing appointments in competitive service, referred to in subsec. (g)(2)(A), are classified to section 3301 et seq. of Title 5, Government Organization and Employees.
 
 #### Amendments
+
+2000—Subsec. (a). Pub. L. 106–408, §203(a), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The Foundation shall have a governing Board of Directors (hereinafter referred to in this chapter as the ‘Board’), which shall consist of 15 Directors, each of whom shall be a United States citizen and—
+
+&emsp;“(1) six of whom must be knowledgeable or experienced in fish and wildlife conservation; and
+
+&emsp;“(2) 4 of whom must be educated and experienced in the principles of fish and wildlife management.
+
+> The membership of the Board, to the extent practicable, shall represent diverse points of view relating to fish and wildlife conservation. The Director of the United States Fish and Wildlife Service shall be an ex officio nonvoting member of the Board. Appointment to the Board shall not constitute employment by, or the holding of an office of, the United States for the purposes of any Federal law.”
+
+Subsec. (b). Pub. L. 106–408, §203(b), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “By December 31, 1984, the Secretary of the Interior (hereinafter referred to in this chapter as the ‘Secretary’) shall appoint the Directors of the Board. The Directors shall be appointed for terms of six years; except that the Secretary, in making the initial appointments to the Board, shall appoint three Directors to a term of two years, three Directors to a term of four years, and three Directors to a term of six years. A vacancy on the Board shall be filled within sixty days of said vacancy in the manner in which the original appointment was made. No individual may serve more than two consecutive terms as a Director. The Secretary of the Interior shall consult with the Under Secretary of Commerce for Oceans and Atmosphere before appointing any Director of the Board.”
 
 1994—Subsec. (a). Pub. L. 103–232, §103(b), substituted “15 Directors” for “nine Directors” in introductory provisions and “4” for “three” in par. (2).
 
@@ -78,7 +156,7 @@ Section 103(c) of Pub. L. 103–232 provided that: “Of the Directors on the Bo
 
 #### Completion of Appointments
 
-Section 103(d) of Pub. L. 103–232 provided that: “The Secretary of the Interior shall appoint the additional members of the Board of Directors of the National Fishand Wildlife Foundation authorized by the amendment made by subsection (a) \[(b)\] \[amending this section\], by not later than 60 days after the date of the enactment of this Act \[Apr. 11, 1994\].”
+Section 103(d) of Pub. L. 103–232 provided that: “The Secretary of the Interior shall appoint the additional members of the Board of Directors of the National Fish and Wildlife Foundation authorized by the amendment made by subsection (a) \[(b)\] \[amending this section\], by not later than 60 days after the date of the enactment of this Act \[Apr. 11, 1994\].”
 
 #### Authority of Board Not Affected
 

@@ -36,7 +36,7 @@ Agreement.—An agreement between the Secretary of Defense and a participant in 
 
 (d)
 
-Repayment.—(1) Any person participating in a program established under this section shall agree to pay to the United States the total amount of educational assistance provided to the person under the program if the person is voluntarily separated from service or involuntarily separated for cause from the Department of Defense before the end of the period for whichthe person has agreed to continue in the service of the Department of Defense in an acquisition position.
+Repayment.—(1) Any person participating in a program established under this section shall agree to pay to the United States the total amount of educational assistance provided to the person under the program if the person is voluntarily separated from service or involuntarily separated for cause from the Department of Defense before the end of the period for which the person has agreed to continue in the service of the Department of Defense in an acquisition position.
 
 (2) If an employee fails to fulfill his agreement to pay to the Government the total amount of educational assistance provided to the person under the program, a sum equal to the amount of the educational assistance is recoverable by the Government from the employee or his estate by—
 

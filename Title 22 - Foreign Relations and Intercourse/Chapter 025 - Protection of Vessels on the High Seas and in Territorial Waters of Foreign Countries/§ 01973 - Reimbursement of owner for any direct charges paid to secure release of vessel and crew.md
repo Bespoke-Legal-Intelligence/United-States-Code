@@ -30,10 +30,6 @@ Section 403(b) of Pub. L. 94–265 provided in part that the amendment made by s
 
 Amendment by Pub. L. 92–569 applicable with respect to seizure of vessels of the United States occurring on or after Oct. 26, 1972, except that reimbursements under this section may be made from the fund established by section 1979 of this title with respect to seizure of vessels occurring after Dec. 31, 1970 and before Oct. 26, 1972 if no reimbursement was made before Oct. 26, 1972, see section 6 of Pub. L. 92–569, set out as a note under section 1972 of this title.
 
-#### Federal Rules of Civil Procedure
-
-Admiralty and maritime rules of practice (which included libel procedures) were superseded, and civil and admiralty procedures in United States district courts were unified, effective July 1, 1966, see rule 1 and Supplemental Rules for Certain Admiralty and Maritime Claims, Title 28, Appendix, Judiciary and Judicial Procedure.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1972, 1975, 1977, 1979 of this title.

@@ -20,22 +20,6 @@ Mandatory punishment provision was rephrased in the alternative.
 
 Act Sept. 23, 1950, ch. 1024, §19, 64 Stat. 1005, provided that an indictment for any violation of this section and sections 793 and 794 of this title, other than a violation constituting a capital offense, may be found at any time within ten years next after such violation shall have been committed, but that such section 19 shall not authorize prosecution, trial, or punishment for any offense “now” barred by the provisions of existing law.
 
-#### Canal Zone
-
-Applicability of section to Canal Zone, see section 14 of this title.
-
-#### Cross References
-
-Federal retirement benefits, forfeiture upon conviction of offenses described under this section, see section 8312 of Title 5, Government Organization and Employees.
-
-Forfeiture of veterans’ benefits upon conviction under this section, see section 6105 of Title 38, Veterans’ Benefits.
-
-Harboring and concealing, generally, see section 1071 et seq. of this title.
-
-Jurisdiction of offenses, see section 3241 of this title.
-
-Misprision of felony, see section 4 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 14, 951 of this title; title 5 section 8312; title 38 section 6105; title 42 section 2000aa; title 50 App. sections 19, 34.

@@ -6,7 +6,7 @@ The Secretary shall prescribe such rules and regulations as the Secretary determ
 
 &emsp;(2) the rehabilitation program which such veteran proposes to pursue (whether the same or revised) is suitable to such veteran's abilities, aptitudes, and interests.
 
-(Added Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2181, §1511; amended Pub. L.101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3111, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
+(Added Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2181, §1511; amended Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3111, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
 
 #### Prior Provisions
 

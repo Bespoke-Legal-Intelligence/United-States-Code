@@ -2,7 +2,7 @@
 
 (a) The Secretary concerned shall prescribe regulations to carry out this chapter within his department.
 
-(b) Except as provided in subsection (d), the Secretary concerned has all powers, functions,and duties incident to the determination under this chapter of—
+(b) Except as provided in subsection (d), the Secretary concerned has all powers, functions, and duties incident to the determination under this chapter of—
 
 &emsp;(1) the fitness for active duty of any member of an armed force under his jurisdiction;
 
@@ -88,7 +88,7 @@ Section 1. The terms “uniformed services” and “Secretary” as used in the
 
 Sec. 2. (a) Effective as of October 1, 1949, all duties, powers, and functions incident to the payment of disability retirement pay of members or former members of the uniformed services retired for physical disability or receiving disability retirement pay shall, except as provided in subsection (b) of this section, be vested in the Secretary concerned.
 
-(b) Effective July 1, 1950, all duties, powers, and functions exercised by the Veterans’ Administration pursuant to Executive Order No. 8099 of April 28, 1939, as amended by Executive Order No. 8461 of June 28, 1940, relative to the administration of the retirement-pay provisions of section 1 of the act of August 30, 1935, as amended by section 5 of the act of April 3, 1939, 53 Stat. 557 \[former section 369a of this title\], and amendments thereof, shall, as to cases within their respective jurisdictions, be vested in the Secretary of the Army and the Secretary of the Air Force, and thereafter the Veterans’ Administration shall not be charged in any casewith any further responsibility in the administration of the said retirement-pay provisions. The said Executive Order No. 8099 as amended by the said Executive Order No. 8461 is hereby amended accordingly.
+(b) Effective July 1, 1950, all duties, powers, and functions exercised by the Veterans’ Administration pursuant to Executive Order No. 8099 of April 28, 1939, as amended by Executive Order No. 8461 of June 28, 1940, relative to the administration of the retirement-pay provisions of section 1 of the act of August 30, 1935, as amended by section 5 of the act of April 3, 1939, 53 Stat. 557 \[former section 369a of this title\], and amendments thereof, shall, as to cases within their respective jurisdictions, be vested in the Secretary of the Army and the Secretary of the Air Force, and thereafter the Veterans’ Administration shall not be charged in any case with any further responsibility in the administration of the said retirement-pay provisions. The said Executive Order No. 8099 as amended by the said Executive Order No. 8461 is hereby amended accordingly.
 
 Sec. 3. All duties, powers, and functions incident to the hospitalization, except as provided in section 5 of this order, and re-examination of members of the uniformed services placed on the temporary disability retired list under the provisions of the Career Compensation Act of 1949 shall be vested in the Secretary concerned.
 
@@ -99,8 +99,4 @@ Sec. 5. All duties, powers, and functions incident to the hospitalization of mem
 Sec. 6. Except as provided in section 5 hereof with respect to hospitalization for chronic diseases, nothing in this order shall be construed to affect the duties, powers, and functions of the Public Health Service with respect to hospitalization and medical examination of members and former members of the Coast Guard and the National Oceanic and Atmospheric Administration (formerly Coast and Geodetic Survey) under the Public Health Service Act, approved July 1, 1944 (58 Stat. 682), as amended \[section 201 et seq. of Title 42, The Public Health and Welfare\], and the regulations prescribed by the said Executive Order No. 9703 of March 12, 1946.
 
 Sec. 7. Nothing in this order shall be construed to affect the duties, powers, and functions vested in the Administrator of Veterans’ Affairs pursuant to the provisions of the act of May 24, 1928, entitled “An Act making eligible for retirement, under certain conditions, officers and former officers of the Army, Navy, and Marine Corps of the United States, other than officers of the Regular Army, Navy, or Marine Corps, who incurred physical disability in line of duty while in the service of the United States during the World War” (45 Stat. 735, as amended) \[section 581 of former Title 38\], or by or pursuant to the act of September 26, 1941, entitled “An Act to provide retirement pay and hospital benefits to certain Reserve officers, Army of the United States, disabled while on active duty” (55 Stat. 733) \[former section 456a of this title\].
-
-#### Cross References
-
-Review of decisions of retiring boards and similar boards, see section 1554 of this title.
 

@@ -18,7 +18,7 @@ Burden of Proof.—In a hearing pursuant to subsection (c) of this section, a pe
 
 (e)
 
-Determination and Disposition.—If, after the hearing, the court fails to find by the standard specified in subsection (d) of this section that the person's release would not create a substantial risk of bodily injury to another person or serious damage of property of another due to a present mental disease or defect, the court shall commit the person to the custody of the Attorney General. The Attorney General shall release the person to the appropriate official ofthe State in which the person is domiciled or was tried if such State will assume responsibility for his custody, care, and treatment. The Attorney General shall make all reasonable efforts to cause such a State to assume such responsibility. If, notwithstanding such efforts, neither such State will assume such responsibility, the Attorney General shall hospitalize the person for treatment in a suitable facility until—
+Determination and Disposition.—If, after the hearing, the court fails to find by the standard specified in subsection (d) of this section that the person's release would not create a substantial risk of bodily injury to another person or serious damage of property of another due to a present mental disease or defect, the court shall commit the person to the custody of the Attorney General. The Attorney General shall release the person to the appropriate official of the State in which the person is domiciled or was tried if such State will assume responsibility for his custody, care, and treatment. The Attorney General shall make all reasonable efforts to cause such a State to assume such responsibility. If, notwithstanding such efforts, neither such State will assume such responsibility, the Attorney General shall hospitalize the person for treatment in a suitable facility until—
 
 &emsp;(1) such a State will assume such responsibility; or
 
@@ -42,7 +42,7 @@ Discharge.—When the director of the facility in which an acquitted person is h
 
 (g)
 
-Revocation of Conditional Discharge.—The director of a medical facility responsible for administering a regimen imposed on an acquitted person conditionally discharged under subsection (f) shall notify the Attorney General and the court having jurisdiction over the person of any failure of the person to comply with the regimen. Upon such notice, or upon other probable cause to believe that the person has failed to comply with the prescribed regimen of medical, psychiatric, or psychological care or treatment, the person may be arrested, and, upon arrest, shall be taken without unnecessary delay before the court having jurisdiction over him. The court shall, after a hearing, determine whether the person should be remanded to a suitable facility on the ground that, in light of his failure to comply with the prescribed regimen of medical, psychiatric, or psychological care or treatment, his continued release would create a substantial risk of bodily injury to another person or serious damage to property of another.
+Revocation of Conditional Discharge.—The director of a medical facility responsible for administering a regimen imposed on an acquitted person conditionally discharged under subsection (f) shall notify the Attorney General and the court having jurisdiction over the person of any failure of the person to comply with the regimen. Upon such notice, or upon other probable cause to believe that the person has failed to comply with the prescribed regimen of medical, psychiatric, or psychological care or treatment, the person may be arrested, and, upon arrest, shall be taken without unnecessary delay before the court having jurisdiction over him. The court shall, after a hearing, determine whetherthe person should be remanded to a suitable facility on the ground that, in light of his failure to comply with the prescribed regimen of medical, psychiatric, or psychological care or treatment, his continued release would create a substantial risk of bodily injury to another person or serious damage to property of another.
 
 (h)
 
@@ -72,7 +72,7 @@ In general.—The Attorney General may establish custody over such persons by fi
 
 &emsp;&emsp;(B)
 
-Notice.—The Attorney General shall, by any means reasonably designed to do so, provide written notice of the proposed transfer of custody to such person or such person's guardian, legal representative, or other lawful agent. The person to be transferredshall be afforded an opportunity, not to exceed 15 days, to respond to the proposed transfer of custody, and may, at the court's discretion, be afforded a hearing on the proposed transfer of custody. Such hearing, if granted, shall be limited to a determination of whether the constitutional rights of such person would be violated by the proposed transfer of custody.
+Notice.—The Attorney General shall, by any means reasonably designed to do so, provide written notice of the proposed transfer of custody to such person or such person's guardian, legal representative, or other lawful agent. The person to be transferred shall be afforded an opportunity, not to exceed 15 days, to respond to the proposed transfer of custody, and may, at the court's discretion, be afforded a hearing on the proposed transfer of custody. Such hearing, if granted, shall be limited to a determination of whether the constitutional rights of such person would be violated by the proposed transfer of custody.
 
 &emsp;&emsp;(C)
 
@@ -120,7 +120,7 @@ Section 301(b) of Pub. L. 104–294 provided that: “Notwithstanding any provis
 
 &emsp;“(2) not later than 30 days after the creation of any records by employees, agents, or contractors of the District of Columbia or of St. Elizabeth's Hospital pertaining to persons described in section 4243(i) of title 18, United States Code, provide to the Attorney General copies of all such records created after the date of enactment of this Act;
 
-&emsp;“(3) shall not prevent or impede any employee, agent, or contractor of the District of Columbia or of St. Elizabeth's Hospital who has obtained knowledge of the persons described in section 4243(i) of title 18, United States Code, in the employee's professional capacity from providing that knowledge to the Attorney General, nor shall civil or criminal liability attach to such employees, agents, or contractors who provide such knowledge; and
+&emsp;“(3) shall not prevent or impede any employee, agent, or contractor of the District of Columbia or ofSt. Elizabeth's Hospital who has obtained knowledge of the persons described in section 4243(i) of title 18, United States Code, in the employee's professional capacity from providing that knowledge to the Attorney General, nor shall civil or criminal liability attach to such employees, agents, or contractors who provide such knowledge; and
 
 &emsp;“(4) shall not prevent or impede interviews of persons described in section 4243(i) of title 18, United States Code, by representatives of the Attorney General, if such persons voluntarily consent to such interviews.”
 

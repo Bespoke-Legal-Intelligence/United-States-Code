@@ -94,7 +94,7 @@ Nothing in this chapter supersedes any provision of the Year 2000 Information an
 
 &emsp;&emsp;(D) upon identification of noncompliance the defendant invoking the defense began immediate actions to correct any violation of federally enforceable measurement, monitoring, or reporting requirements; and
 
-&emsp;&emsp;(E) the defendant submitted notice to the appropriate Federal regulatory authority of a Y2K upset within 72 hours from the timethat the defendant became aware of the upset.
+&emsp;&emsp;(E) the defendant submitted notice to the appropriate Federal regulatory authority of a Y2K upset within 72 hours from the time that the defendant became aware of the upset.
 
 #### (4) Grant of a Y2K upset defense
 
@@ -132,7 +132,7 @@ Nothing in this chapter supersedes any provision of the Year 2000 Information an
 
 &emsp;&emsp;(A) four weeks after January 1, 2000; or
 
-&emsp;&emsp;(B) four weeks after notification is made as required under paragraph (2), except that any notification made on or after March 15, 2000, shall not be effective for purposes of this subsection.
+&emsp;&emsp;(B) four weeks after notification is made as required under paragraph (2), except thatany notification made on or after March 15, 2000, shall not be effective for purposes of this subsection.
 
 #### (4) Applicability
 

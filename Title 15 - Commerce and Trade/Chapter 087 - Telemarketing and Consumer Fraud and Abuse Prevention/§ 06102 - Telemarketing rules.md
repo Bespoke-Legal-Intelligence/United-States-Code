@@ -40,7 +40,7 @@ Any violation of any rule prescribed under subsection (a) of this section shall 
 
 &emsp;&emsp;&emsp;(ii) such a rule promulgated by the Securities and Exchange Commission is not necessary or appropriate in the public interest, or for the protection of investors, or would be inconsistent with the maintenance of fair and orderly markets.
 
-> &emsp;&emsp;If the Securities and Exchange Commission determines that an exception described in clause (i) or (ii) applies, the Securities and Exchange Commission shall publish in the Federal Register its determination with the reasons for it.
+> &emsp;&emsp;If the Securities and Exchange Commission determines that an exception described in clause (i) or (ii) applies, the Securities and Exchange Commission shall publish in theFederal Register its determination with the reasons for it.
 
 #### (2) Application
 

@@ -28,27 +28,11 @@ The Secretary, acting through the Administrator of the Health Resources and Serv
 
 &emsp;&emsp;(B) The applicant agrees that, in the case of the research-related functions to be carried out by the applicant pursuant to subsection (a)(1) of this section, the applicant will comply with accepted standards that are applicable to such functions (including accepted standards regarding informed consent and other protections for human subjects).
 
-&emsp;&emsp;(C) For the first and second fiscal years for which grants under subsection (a) of this section are to be made to the applicant, the applicant agrees that, not later than the end of the second fiscal year of receiving such a grant, a significant number of women, infants, children, and youth who are patientsof the applicant will be participating in the projects of research.
-
-&emsp;&emsp;(D) Except as provided in paragraph (3) (and paragraph (4), as applicable), for the third and subsequent fiscal years for which such grants are to be made to the applicant, the Secretary has determined that a significant number of such individuals are participating in the projects.
+&emsp;&emsp;(C) The applicant will demonstrate linkages to research and how access to such research is being offered to patients.
 
 #### (2) Prohibition
 
 &emsp;Receipt of services by a patient shall not be conditioned upon the consent of the patient to participate in research.
-
-#### (3) Significant participation; consideration by Secretary of certain circumstances
-
-&emsp;In administering the requirement of paragraph (1)(D), the Secretary shall take into account circumstances in which a grantee under subsection (a) of this section is temporarily unable to comply with the requirement for reasons beyond the control of the grantee, and shall in such circumstances provide to the grantee a reasonable period of opportunity in which to reestablish compliance with the requirement.
-
-#### (4) Significant participation; temporary waiver for original grantees
-
-#### (A) In general
-
-&emsp;&emsp;In the case of an applicant under subsection (a) of this section who received a grant under such subsection for fiscal year 1995, the Secretary may, subject to subparagraph (B), provide to the applicant a waiver of the requirement of paragraph (1)(D) if the Secretary determines that the applicant is making reasonable progress toward meeting the requirement.
-
-#### (B) Termination of authority for waivers
-
-&emsp;&emsp;The Secretary may not provide any waiver under subparagraph (A) on or after October 1, 1998. Any such waiver provided prior to such date terminates on such date, or on such earlier date as the Secretary may specify.
 
 #### (c) Provisions regarding conduct of research
 
@@ -68,7 +52,7 @@ The Secretary, acting through the Administrator of the Health Resources and Serv
 
 #### (A) In general
 
-&emsp;&emsp;From among the research protocols described in paragraph (1)(B)(ii), the Secretary shall establish a list of research protocols that are appropriate for purposes of subsection (a)(1) of this section. Such list shall be established only after consultation with public and private entities that conduct such research, and with providers of services under subsection (a) of this section and recipients of such services.
+&emsp;&emsp;From among the research protocols described in paragraph (1)(B)(ii), the Secretary shall establish a list of research protocols that are appropriate for purposes of subsection (a)(1) of this section. Such list shallbe established only after consultation with public and private entities that conduct such research, and with providers of services under subsection (a) of this section and recipients of such services.
 
 #### (B) Discretion of Secretary
 
@@ -88,6 +72,8 @@ A grant under subsection (a) of this section may be made only if the applicant f
 
 &emsp;(3) The applicant will provide the patient and the family of the patient with such transportation, child care, and other incidental services as may be necessary to enable the patient and the family to participate in the program established by the applicant pursuant to such subsection.
 
+&emsp;(4) The applicant will provide individuals with information and education on opportunities to participate in HIV/AIDS-related clinical research.
+
 #### (e) Coordination with other entities
 
 A grant under subsection (a) of this section may be made only if the applicant for the grant agrees as follows:
@@ -96,13 +82,19 @@ A grant under subsection (a) of this section may be made only if the applicant f
 
 &emsp;(2) The applicant will participate in the statewide coordinated statement of need under part B of this subchapter (where it has been initiated by the public health agency responsible for administering grants under part B of this subchapter) and in revisions of such statement.
 
-#### (f) Application
+#### (f) Administration
 
-A grant under subsection (a) of this section may be made only if an application for the grant is submitted to the Secretary and the application is in such form, is made in such manner, and contains such agreements, assurances, and information as the Secretary determines to be necessary to carry out this section.
+#### (1) Application
+
+&emsp;A grant under subsection (a) of this section may be made only if an application for the grant is submitted to the Secretary and the application is in such form, is made in such manner, and contains such agreements, assurances, and information as the Secretary determines to be necessary to carry out this section.
+
+#### (2) Quality management program
+
+&emsp;A grantee under this section shall implement a quality management program to assess the extent to which HIV health services provided to patients under the grant are consistent with the most recent Public Health Service guidelines for the treatment of HIV disease and related opportunistic infection, and as applicable, to develop strategies for ensuring that such services are consistent with the guidelines for improvement in the access to and quality of HIV health services.
 
 #### (g) Coordination with National Institutes of Health
 
-The Secretary shall develop and implement a plan that provides for the coordination of the activities of the National Institutes of Health with the activities carried out under this section. In carrying out the preceding sentence, the Secretary shall ensure that projects of research conducted or supported by such Institutes are made aware of applicants and grantees under subsection (a) of this section, shall require that the projects, as appropriate, enter into arrangements for purposes of such subsection, and shall require that each project entering into such an arrangement inform the applicant or grantee under such subsection of the needs of the project for the participation of women, infants, children, and youth.
+The Secretary shall develop and implement a plan that provides for the coordination of the activities of the National Institutes of Health with the activities carried out under this section. In carrying out the preceding sentence, the Secretary shall ensure that projects of research conducted or supported by such Institutes are made aware of applicants and grantees under subsection (a) of this section, shall require that the projects, as appropriate, enter into arrangements for purposes of such subsection, and shall require that each project entering into such an arrangement inform the applicant or grantee under such subsection of the needs of the project for the participation of women, infants, children, and youth. The Secretary acting through the Director of NIH, shall examine the distribution and availability of ongoing and appropriate HIV/AIDS-related research projects to existing sites under this section for purposes of enhancing and expanding voluntary access to HIV-related research, especially within communities that are not reasonably served by such projects. Not later than 12 months after October 20, 2000, the Secretary shall prepare and submit to the appropriate committees of Congress a report that describes the findings made by the Director and the manner in which the conclusions based on those findings can be addressed.
 
 #### (h) Annual review of programs; evaluations
 
@@ -118,21 +110,61 @@ The Secretary shall develop and implement a plan that provides for the coordinat
 
 &emsp;The Secretary shall, directly or through contracts with public and private entities, provide for evaluations of programs carried out pursuant to subsection (a) of this section.
 
-#### (i) Training and technical assistance
+#### (i) Limitation on administrative expenses
+
+#### (1) Determination by Secretary
+
+&emsp;Not later than 12 months after October 20, 2000, the Secretary, in consultation withgrantees under this part, shall conduct a review of the administrative, program support, and direct service-related activities that are carried out under this part to ensure that eligible individuals have access to quality, HIV-related health and support services and research opportunities under this part, and to support the provision of such services.
+
+#### (2) Requirements
+
+#### (A) In general
+
+&emsp;&emsp;Not later than 180 days after the expiration of the 12-month period referred to in paragraph (1) the Secretary, in consultation with grantees under this part, shall determine the relationship between the costs of the activities referred to in paragraph (1) and the access of eligible individuals to the services and research opportunities described in such paragraph.
+
+#### (B) Limitation
+
+&emsp;&emsp;After a final determination under subparagraph (A), the Secretary may not make a grant under this part unless the grantee complies with such requirements as may be included in such determination.
+
+#### (j) Training and technical assistance
 
 Of the amounts appropriated under subsection (j) of this section for a fiscal year, the Secretary may use not more than five percent to provide, directly or through contracts with public and private entities (which may include grantees under subsection (a) of this section), training and technical assistance to assist applicants and grantees under subsection (a) of this section in complying with the requirements of this section.
 
-#### (j) Authorization of appropriations
+#### (k) Authorization of appropriations
 
-For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1996 through 2000.
+For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005.
 
-(July 1, 1944, ch. 373, title XXVI, §2671, as added Pub. L. 101–381, title IV, §401, Aug. 18, 1990, 104 Stat. 617; amended Pub. L. 104–146, §3(e), May 20, 1996, 110 Stat. 1358.)
+(July 1, 1944, ch. 373, title XXVI, §2671, as added Pub. L. 101–381, title IV, §401, Aug. 18, 1990, 104 Stat. 617; amended Pub. L. 104–146, §3(e), May 20, 1996, 110 Stat. 1358; Pub. L. 106–345, title IV, §401, Oct. 20, 2000, 114 Stat. 1347.)
 
 #### References in Text
 
 The Social Security Act, referred to in subsec. (e)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title V of the Act is classified generally to subchapter V (§701 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Amendments
+
+2000—Pub. L. 106–345, §401(a)–(d), which directed amendments to subsecs. (b), (d), (f), and (g) of “section 2671”, without indicating the act to be amended, was executed by making the amendments to this section, which is section 2671 of the Public Health Service Act, to reflect the probable intent of Congress. See below.
+
+Subsec. (b)(1)(C), (D). Pub. L. 106–345, §401(a)(1), added subpar. (C) and struck out former subpars. (C) and (D) which read as follows:
+
+“(C) For the first and second fiscal years for which grants under subsection (a) of this section are to be made to the applicant, the applicant agrees that, not later than the end of the second fiscal year of receiving such a grant, a significant number of women, infants, children, and youth who are patients of the applicant will be participating in the projects of research.
+
+“(D) Except as provided in paragraph (3) (and paragraph (4), as applicable), for the third and subsequent fiscal years for which such grants are to be made to the applicant, the Secretary has determined that a significant number of such individuals are participating in the projects.”
+
+Subsec. (b)(3). Pub. L. 106–345, §401(a)(2), struck out heading and text of par. (3). Text read as follows: “In administering the requirement of paragraph (1)(D), the Secretary shall take into account circumstances in which a grantee under subsection (a) of this section is temporarily unable to comply with the requirement for reasons beyond the control of the grantee, and shall in such circumstances provide to the grantee a reasonable period of opportunity in which to reestablish compliance with the requirement.”
+
+Subsec. (b)(4). Pub. L. 106–345, §401(a)(2), struck out heading and text of par. (4). Text consisted of subpars. (A) and (B) relating to a temporary waiver of requirement of significant participation for original grantees.
+
+Subsec. (d)(4). Pub. L. 106–345, §401(b), added par. (4).
+
+Subsec. (f). Pub. L. 106–345, §401(c), substituted “Administration” for “Application” in subsec. heading, designated existing provisions as par. (1), inserted par. (1) heading, and added par. (2).
+
+Subsec. (g). Pub. L. 106–345, §401(d), inserted at end “The Secretary acting through the Director of NIH, shall examine the distribution and availability of ongoing and appropriate HIV/AIDS-related research projects to existing sites under this section for purposes of enhancing and expanding voluntary access to HIV-related research, especially within communities that are not reasonably served by such projects. Not later than 12 months after October 20, 2000, the Secretary shall prepare and submit to the appropriate committees of Congress a report that describes the findings made by the Director and the manner in which the conclusions based on those findings can be addressed.”
+
+Subsecs. (i), (j). Pub. L. 106–345, §401(e), added subsec. (i) and redesignated former subsec. (i) as (j). Former subsec. (j) redesignated (k).
+
+Subsec. (k). Pub. L. 106–345, §401(f), substituted “fiscal years 2001 through 2005” for “fiscal years 1996 through 2000”.
+
+Pub. L. 106–345, §401(e)(1), redesignated subsec. (j) as (k).
 
 1996—Pub. L. 104–146 amended section generally, substituting provisions authorizing grants for coordinated services and access to research for women, infants, children, and youth living with the HIV virus for provisions authorizing demonstration grants for research and services for pediatric patients regarding AIDS.
 
@@ -142,5 +174,5 @@ Amendment by Pub. L. 104–146 effective Oct. 1, 1996, see section 13 of Pub. L.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 300ff–12, 300ff–23, 300ff–41, 300ff–51 of this title.
+This section is referred to in sections 300ff–12, 300ff–23, 300ff–51 of this title.
 

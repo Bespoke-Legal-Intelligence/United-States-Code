@@ -62,3 +62,7 @@ Title III of the Act of March 3, 1933, referred to in subsecs. (b)(1)(B) and (d)
 
 The Buy American Act of 1988, referred to in subsecs. (b)(1)(B) and (d), is title VII of Pub. L. 100–418, Aug. 23, 1988, 102 Stat. 1545, which enacted section 10b–1 of Title 41, Public Contracts, amended sections 2511 and 2515 of Title 19, Customs Duties, and sections 10a, 10b, 10c, and 10d of Title 41, enacted provisions set out as notes under section 10a of Title 41, and amended provisions set out as notes under section 10c of Title 41. For complete classification of this Act to the Code, see Short Title of 1988 Amendment note set out under section 10a of Title 41 and Tables. For termination of amendments made by this Act, see section 7004 of Pub. L. 100–418, set out as an Effective and Termination Dates of 1988 Amendment note under section 10a of Title 41.
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsec. (b)(1) of this section is listed on page 185), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+

@@ -10,7 +10,11 @@ Service Credit.—A member ordered to funeral honors duty under this section sha
 
 &emsp;(1) service credit under section 12732(a)(2)(E) of title 10; and
 
-&emsp;(2) if authorized by the Secretary concerned, the allowance under section 435 <sup>1</sup> of title 37.
+&emsp;(2) as directed by the Secretary concerned, either—
+
+&emsp;&emsp;(A) the allowance under section 435 of title 37; or
+
+&emsp;&emsp;(B) compensation under section 206 of title 37.
 
 (c)
 
@@ -20,13 +24,17 @@ Reimbursable Expenses.—A member who performs funeral honors duty under this se
 
 Regulations.—The exercise of authority under subsection (a) is subject to regulations prescribed by the Secretary of Defense.
 
-(Added Pub. L. 106–65, div. A, title V, §578(g)(2), Oct. 5, 1999, 113 Stat. 627.)
+(Added Pub. L. 106–65, div. A, title V, §578(g)(2), Oct. 5, 1999, 113 Stat. 627; amended Pub. L. 106–398, §1 \[\[div. A\], title V, §575(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–138.)
 
-#### References in Text
+#### Amendments
 
-Section 435 of title 37, referred to in subsec. (b)(2), probably means the section 435 which relates to funeral honors duty allowances and was added by Pub. L. 106–65, div. A, title V, §578(j), Oct. 5, 1999, 113 Stat. 630.
+2000—Subsec. (b)(2). Pub. L. 106–398 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “if authorized by the Secretary concerned, the allowance under section 435 of title 37.”
+
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–398 applicable with respect to funeral honors duty performed on or after Oct. 1, 2000, see section 1 \[\[div. A\], title V, §575(c)\] of Pub. L. 106–398, set out as a note under section 12503 of Title 10, Armed Forces.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 114 of this title; title 10 sections 1074a, 1076, 1204, 1206, 1481, 12503, 12732; title 37 section 435.
+This section is referred to in section 114 of this title; title 10 sections 1074a, 1076, 1204, 1206, 1481, 12503, 12732; title 28 section 2671; title 37 sections 204, 435.
 

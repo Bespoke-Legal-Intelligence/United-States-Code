@@ -14,7 +14,7 @@
 
 (B) Except as provided in section 3672(e) of this title, a State approving agency may utilize the accreditation of any accrediting association or agency listed pursuant to subparagraph (A) of this paragraph for approval of courses specifically accredited and approved by such accrediting association or agency.
 
-(3)(A) An educational institution shall submit an application for approval of courses to the appropriate State approving agency. In making application for approval, the institution (other than an elementary school or secondary school)shall transmit to the State approving agency copies of its catalog or bulletin which must be certified as true and correct in content and policy by an authorized representative of the institution.
+(3)(A) An educational institution shall submit an application for approval of courses to the appropriate State approving agency. In making application for approval, the institution (other than an elementary school or secondary school) shall transmit to the State approving agency copies of its catalog or bulletin which must be certified as true and correct in content and policy by an authorized representative of the institution.
 
 (B) Each catalog or bulletin transmitted by an institution under subparagraph (A) of this paragraph shall—
 
@@ -66,7 +66,7 @@ Subsec. (b). Pub. L. 94–502, §504(2), inserted provision requiring that schoo
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–446 applicable with respect to programs of education exclusively by correspondence and to correspondence-residence courses commencing more than 90 days after Nov. 2, 1994, see section 605(b) of Pub. L. 103–446, set out as a note under section 3672 of this title.
+Amendment by Pub. L. 103–446 applicable with respect to programs of education exclusively by correspondence and to correspondence-residence coursescommencing more than 90 days after Nov. 2, 1994, see section 605(b) of Pub. L. 103–446, set out as a note under section 3672 of this title.
 
 #### Effective Date of 1980 Amendment
 

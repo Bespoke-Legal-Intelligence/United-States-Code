@@ -122,16 +122,6 @@ Pub. L. 96–418, title VIII, §806(b), Oct. 10, 1980, 94 Stat. 1777, as amended
 
 Pub. L. 85–337, §4(2), Feb. 28, 1958, 72 Stat. 29, added item 2671.
 
-#### Cross References
-
-Property records, basis and reports, see section 2721 of this title.
-
-Real property—
-
-&emsp;&emsp;Air Force, see section 9771 et seq. of this title.
-
-&emsp;&emsp;Army, see section 4771 et seq. of this title.
-
 
 ---
 

@@ -2,7 +2,7 @@
 
 #### (a) Negotiations to exchange
 
-Upon request of the California State Lands Commission (hereinafter in this section referred to as the “Commission”), the Secretary shall enter into negotiations for an agreement to exchange Federal lands or interests therein on the list referred to in subsection (b)(2) of this section for California State School lands or interests therein which are located within the boundaries of one or more of the wilderness areas or park system units designated by this Act (hereinafter in this section referred to as “State School lands.”). The Secretary shall negotiate in good faith to reach a land exchange agreement consistent with the requirements of section 206 of the Federal Land Policy and Management Act of 1976 \[43 U.S.C. 1716\].
+Upon request of the California State Lands Commission (hereinafter in this section referred to as the “Commission”), the Secretary shall enter into negotiations for an agreement to exchange Federal lands or interests therein on the list referred to in subsection (b)(2) of this section for California State School lands or interests therein which are located within the boundaries of one or more of the wilderness areas orpark system units designated by this Act (hereinafter in this section referred to as “State School lands.”). The Secretary shall negotiate in good faith to reach a land exchange agreement consistent with the requirements of section 206 of the Federal Land Policy and Management Act of 1976 \[43 U.S.C. 1716\].
 
 #### (b) Preparation of list
 
@@ -40,7 +40,7 @@ Within six months after October 31, 1994, the Secretary shall send to the Commis
 
 #### (d) No effect on military base closures
 
-The provisions of this section shall not apply to the disposal of property under title II of theDefense Authorization Amendments and Base Closure and Realignment Act (Public Law 100–526; 102 Stat. 2627; 10 U.S.C. 2687 note) or the Defense Base Closure and Realignment Act of 1990 (Public Law 101–510; 104 Stat. 1808; 10 U.S.C. 2687 note).
+The provisions of this section shall not apply to the disposal of property under title II of the Defense Authorization Amendments and Base Closure and Realignment Act (Public Law 100–526; 102 Stat. 2627; 10 U.S.C. 2687 note) or the Defense Base Closure and Realignment Act of 1990 (Public Law 101–510; 104 Stat. 1808; 10 U.S.C. 2687 note).
 
 (Pub. L. 103–433, title VII, §707, Oct. 31, 1994, 108 Stat. 4499.)
 

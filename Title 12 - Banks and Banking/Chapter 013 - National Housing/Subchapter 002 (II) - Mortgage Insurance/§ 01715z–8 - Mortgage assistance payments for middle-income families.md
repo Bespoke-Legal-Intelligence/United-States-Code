@@ -26,7 +26,7 @@ The interest subsidy payments authorized by this section shall cease when (1) th
 
 #### (e) Amount of interest subsidy payments
 
-The interest subsidy payments shall be in an amount equal to the difference, as determined by the Secretary, between the total amount of interest per calendar quarter received by the investor on mortgages assisted under this section and purchased by it and the total amount of interest which the investor would have received if the yield on such mortgages was equal to the sum of (1) the average costs (expressed as an annual percentage rate) to it of all borrowed funds outstanding in the immediately preceding calendar quarter, and (2) such per centum per annum as will provide for administrative and other expenses of the investor and a reasonable economic return, as determined by the Secretary to be necessary and appropriate takinginto account the purpose of this section to provide additional mortgage credit at reasonable rates of interest to middle-income families.
+The interest subsidy payments shall be in an amount equal to the difference, as determined by the Secretary, between the total amount of interest per calendar quarter received by the investor on mortgages assisted under this section and purchased by it and the total amount of interest which the investor would have received if the yield on such mortgages was equal to the sum of (1) the average costs (expressed as an annual percentage rate) to it of all borrowed funds outstanding in the immediately preceding calendar quarter, and (2) such per centum per annum as will provide for administrative and other expenses of the investor and a reasonable economic return, as determined by the Secretary to be necessary and appropriate taking into account the purpose of this section to provide additional mortgage credit at reasonable rates of interest to middle-income families.
 
 #### (f) Adoption of procedures for recertifications of mortgagor's income
 
@@ -84,7 +84,7 @@ Section 501 of Pub. L. 91–351 provided that: “The Congress finds that—
 
 &emsp;“(4) the Government has a responsibility to lessen the disproportionate burden which such families bear as a result of such policies.
 
-> It is the purpose of this title \[enacting this section, and amending sections 1715z–3 and 1719 of this title\] to provide, during periods of high mortgage interest rates, asource of mortgage credit for such families which is within their financial means.”
+> It is the purpose of this title \[enacting this section, and amending sections 1715z–3 and 1719 of this title\] to provide, during periods of high mortgage interest rates, a source of mortgage credit for such families which is within their financial means.”
 
 #### Section Referred to in Other Sections
 

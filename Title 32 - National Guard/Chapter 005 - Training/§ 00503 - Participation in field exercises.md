@@ -44,14 +44,6 @@ In subsection (c), the words “Members of the National Guard participating in a
 
 1988—Subsec. (b). Pub. L. 100–456 struck out “the Canal Zone,” after “Puerto Rico,”.
 
-#### Cross References
-
-Credit for service as members of Army National Guard or Air National Guard of members of Army National Guard of United States or Air National Guard of United States, see section 12602 of Title 10, Armed Forces.
-
-Inactive duty training, duty (other than full-time duty) under this section as, see section 101 of Title 38, Veterans’ Benefits.
-
-Pay grades of National Guard personnel on active duty, see section 204 of Title 37, Pay and Allowances of the Uniformed Services.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 101, 715 of this title; title 5 section 6323; title 10 sections 101, 524, 701, 1054, 1089, 1208, 12732, 12733; title 28 section 2671; title 38 sections 101, 1965, 4312.

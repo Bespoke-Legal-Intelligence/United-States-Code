@@ -24,7 +24,7 @@ The Federal Government shall bear all costs of reclaiming frequencies pursuant t
 
 #### (d) Effective date of reclaimed frequencies
 
-The Commission shall not withdraw licenses for any reclaimed frequencies until the end of the fiscal year following the fiscal year in which a statement under section 924(b)(1)(B) of thistitle pertaining to such frequencies is received by the Commission.
+The Commission shall not withdraw licenses for any reclaimed frequencies until the end of the fiscal year following the fiscal year in which a statement under section 924(b)(1)(B) of this title pertaining to such frequencies is received by the Commission.
 
 #### (e) Effect on other law
 

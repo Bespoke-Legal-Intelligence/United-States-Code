@@ -58,7 +58,7 @@ Status of Persons Providing Services.—(1) Subject to paragraph (3), while prov
 
 &emsp;(D) Chapter 11 of title 18 (relating to conflicts of interest).
 
-(2) Subject to paragraph (3), while providing a nonappropriated fund instrumentality of theUnited States with voluntary services accepted under subsection (a), or receiving training under subsection (c) to provide such an instrumentality with services accepted under subsection (a), a person shall be considered an employee of that instrumentality only for the following purposes:
+(2) Subject to paragraph (3), while providing a nonappropriated fund instrumentality of the United States with voluntary services accepted under subsection (a), or receiving training under subsection (c) to provide such an instrumentality with services accepted under subsection (a), a person shall be considered an employee of that instrumentality only for the following purposes:
 
 &emsp;(A) Subchapter II of chapter 81 of title 5 (relating to compensation of nonappropriated fund employees for work-related injuries).
 
@@ -128,7 +128,7 @@ Section 1061(b) of Pub. L. 103–337 provided that:
 
 “(2) The Secretary may not accept voluntary services under section 1588 of title 10, United States Code (other than services that may have been accepted under such section before the date of the enactment of this Act \[Oct. 5, 1994\]), and may not issue regulations to implement the amendment to such section made by subsection (a), until after the termination of the pilot program.
 
-“(3) Not later than 60 days after the termination of the pilot program, the Secretary shall submit to theCommittees on Armed Services of the Senate and House of Representatives a report on the results of the pilot program.”
+“(3) Not later than 60 days after the termination of the pilot program, the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on the results of the pilot program.”
 
 #### Section Referred to in Other Sections
 

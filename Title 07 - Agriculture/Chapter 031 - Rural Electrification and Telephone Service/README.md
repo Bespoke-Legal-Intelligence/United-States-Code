@@ -34,6 +34,9 @@
 | (a) | No consideration of borrower's level of general funds. |
 | (b) | Loan origination fees. |
 | (c) | Consultants. |
+| [918a.](Subchapter%20001%20%28I%29%20-%20Rural%20Electrification/%C2%A7%2000918a%20-%20Energy%20generation%2C%20transmission%2C%20and%20distribution%20facilities%20efficiency%20grants%20and%20loans%20in%20rural%20communities%20with%20extremely%20high%20energy%E2%80%A6.md) | Energy generation, transmission, and distribution facilities efficiency grants and loans in rural communities with extremely high energy costs. |
+| (a) | In general. |
+| (b) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

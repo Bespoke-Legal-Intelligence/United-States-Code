@@ -18,7 +18,3 @@ Nothing in paragraph (a) of this section shall be construed to prohibit the taki
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000” in par. following par. (b).
 
-#### Cross References
-
-Minor offenses tried by United States magistrate judges as excluding offenses punishable under this section, see section 3401 of this title.
-

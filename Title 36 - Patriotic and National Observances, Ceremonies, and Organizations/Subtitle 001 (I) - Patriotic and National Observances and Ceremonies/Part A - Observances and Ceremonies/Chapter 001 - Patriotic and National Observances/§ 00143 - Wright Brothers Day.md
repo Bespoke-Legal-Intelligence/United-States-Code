@@ -332,7 +332,7 @@ Annual Report.—In each fiscal year in which the Commission is in existence, th
 
 &emsp;“(3) recommendations for any legislation or administrative action that the Commission determines to be appropriate regarding the commemoration of the centennial of powered flight; and
 
-&emsp;“(4) an accounting of funds received and expended by the Commission in the fiscal year that the report concerns, including a detailed description of the source and amount of any funds donated to the Commission in the fiscal year.
+&emsp;“(4) an accounting of funds received and expended by the Commission in the fiscal year that the report concerns, including a detailed description of thesource and amount of any funds donated to the Commission in the fiscal year.
 
 “(b)
 

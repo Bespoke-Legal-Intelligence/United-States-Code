@@ -98,7 +98,7 @@
 
 #### (5) Prior disclosure regarding NAFTA claims
 
-&emsp;An importer shall not be subject to penalties under subsection (a) of this section for making an incorrect claim for preferential tariff treatment under section 3332 of this title if the importer—
+&emsp;An importer shall not be subject to penalties under subsection (a) of this section for makingan incorrect claim for preferential tariff treatment under section 3332 of this title if the importer—
 
 &emsp;&emsp;(A) has reason to believe that the NAFTA Certificate of Origin (as defined in section 1508(b)(1) of this title) on which the claim was based contains incorrect information; and
 
@@ -156,7 +156,7 @@ The provisions of section III, H, of the 1913 act were substituted for provision
 
 Those provisions superseded similar provisions made by R.S. §2864, as amended by act Feb. 18, 1875, ch. 80, 18 Stat. 319, prior to repeal by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 
-R.S. §2839 provided for forfeiture of merchandise entered, but not invoiced according to the actual cost at the place of exportation, with the design to evade payment of duty. It was repealed by the Customs Administrative Act of June 10, 1890, ch. 407, §29, 26 Stat. 141, and provisions of a similar nature were made by section 9 of that act, amended by the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 97, and further amended by the Underwood Tariff Act of Oct. 3, 1913, ch. 16, §III, H, 38 Stat. 183.
+R.S. §2839 provided for forfeiture of merchandise entered, but not invoiced according to the actual cost at the place of exportation, with the design to evade payment of duty. It was repealed by the Customs Administrative Act of June 10, 1890, ch. 407, §29, 26 Stat. 141, and provisions of a similar nature were made by section 9 of that act, amended by the Payne-Aldrich Tariff Act ofAug. 5, 1909, ch. 6, §28, 36 Stat. 97, and further amended by the Underwood Tariff Act of Oct. 3, 1913, ch. 16, §III, H, 38 Stat. 183.
 
 Act June 22, 1874, ch. 391, §16, 18 Stat. 189, required special findings as to fraud in actions, etc., to enforce forfeitures, etc., prior to repeal by Customs Administrative Act of June 10, 1890, ch. 407, §29, 26 Stat. 141.
 
@@ -222,7 +222,7 @@ Section 110(f) of Pub. L. 95–410 provided that:
 
 “(1)(A) Except as provided in subparagraphs (B) and (C), subsections (a), (b), and (c) (other than new subsection (e) of section 592 of the Tariff Act of 1930 as added by subsection (a)) \[subsec. (a), (b), and (c), not including (e) of this section\] shall be effective with respect to proceedings commenced after the 89th day after the date of enactment of this Act \[Oct. 3, 1978\].
 
-“(B) Except as provided in subparagraph (C), section 592 of the Tariff Act of 1930 \[this section\] (as such section existed on the day before the date of enactment of this Act) \[Oct. 3, 1978\] shall apply to any alleged intentional violation thereof involving television receivers that are the product of Japan and that were or are the subject of antidumping proceedings if the alleged intentional violation—
+“(B) Except as provided in subparagraph (C), section 592 of the Tariff Act of 1930 \[this section\] (as such section existed on the day before the date of enactment of this Act) \[Oct. 3, 1978\] shall apply to any alleged intentional violation thereof involving television receiversthat are the product of Japan and that were or are the subject of antidumping proceedings if the alleged intentional violation—
 
 &emsp;“(i) occurred before the date of enactment of this Act, and
 

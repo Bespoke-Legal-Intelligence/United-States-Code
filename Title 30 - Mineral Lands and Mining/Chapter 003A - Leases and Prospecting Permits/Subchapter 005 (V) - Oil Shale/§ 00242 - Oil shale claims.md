@@ -20,7 +20,7 @@ The holder of a valid oil shale mining claim who has filed a patent application 
 
 #### (d) Election
 
-(1) Notwithstanding any other provision of law, within 180 days from the date of which the Secretary provided notice under subsection (a) of this section, a holder of a valid oil shale mining claim for which a patent application was not filed and accepted for processing by the Department of the Interior prior to October 24, 1992, shall file with the Secretary a notice of election to—
+(1) Notwithstanding any other provision of law, within 180 days from the date of which the Secretary provided notice under subsection (a) of this section, a holder of a valid oil shale mining claim for which a patent application was not filed and accepted for processing by the Department of the Interior prior to October 24, 1992,shall file with the Secretary a notice of election to—
 
 &emsp;(A) proceed to limited patent as provided in subsection (e)(1) of this section; or
 

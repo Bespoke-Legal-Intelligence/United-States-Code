@@ -26,7 +26,7 @@ In order to qualify for assistance under this subchapter, the development compan
 
 &emsp;&emsp;(B) expansion of exports,
 
-&emsp;&emsp;(C) expansion of minority business development,
+&emsp;&emsp;(C) expansion of minority business development or women-owned business development,
 
 &emsp;&emsp;(D) rural development,
 
@@ -38,15 +38,17 @@ In order to qualify for assistance under this subchapter, the development compan
 
 &emsp;&emsp;(H) business restructuring arising from Federally mandated standards or policies affecting the environment or the safety and health of employees.
 
-> If eligibility is based upon the criteria set forth in paragraph (2) or (3), the project need not meetthe job creation or job preservation criteria developed by the Administration if the overall portfolio of the development company meets or exceeds such job creation or retention criteria.
+> If eligibility is based upon the criteria set forth in paragraph (2) or (3), the project need not meet the job creation or job preservation criteria developed by the Administration if the overall portfolio of the development company meets or exceeds such job creation or retention criteria.
 
-(Pub. L. 85–699, title V, §501, Aug. 21, 1958, 72 Stat. 696; Pub. L. 100–590, title I, §115(a), (b)(1), Nov. 3, 1988, 102 Stat. 2997; Pub. L. 101–574, title II, §214(a), (b), Nov. 15, 1990, 104 Stat. 2821; Pub. L. 106–50, title IV, §405, Aug. 17, 1999, 113 Stat. 246.)
+(Pub. L. 85–699, title V, §501, Aug. 21, 1958, 72 Stat. 696; Pub. L. 100–590, title I, §115(a), (b)(1), Nov. 3, 1988, 102 Stat. 2997; Pub. L. 101–574, title II, §214(a), (b), Nov. 15, 1990, 104 Stat. 2821; Pub. L. 106–50, title IV, §405, Aug. 17, 1999, 113 Stat. 246; Pub. L. 106–554, §1(a)(9) \[title III, §302\], Dec. 21, 2000, 114 Stat. 2763, 2763A–684.)
 
 #### References in Text
 
 For definition of “this chapter”, referred to in subsec. (b), see References in Text note set out under section 661 of this title.
 
 #### Amendments
+
+2000—Subsec. (d)(3)(C). Pub. L. 106–554 inserted “or women-owned business development” before comma at end.
 
 1999—Subsec. (d)(3)(E)–(H). Pub. L. 106–50 added subpar. (E) and redesignated former subpars. (E) to (G) as (F) to (H), respectively.
 
@@ -125,6 +127,8 @@ In general.—The Administrator shall issue a report on the results of the pilot
 &emsp;“(2)
 
 Reporting period.—The report shall be based on data from, and issued not later than 90 days after the close of, the first eight 8 \[sic\] fiscal quarters of the pilot program's operation after the date of implementation.”
+
+\[Section 204 of title II of div. D of Pub. L. 104–208, set out above, to cease to have effect beginning on the date on which final regulations are issued to carry out section 697g of this title, see section 1(a)(9) \[title III, §307(b)\] of Pub. L. 106–554, set out as a Regulations note under section 697g of this title.\]
 
 #### Section Referred to in Other Sections
 

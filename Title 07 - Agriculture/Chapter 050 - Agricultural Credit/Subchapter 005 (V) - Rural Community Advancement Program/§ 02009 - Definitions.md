@@ -4,7 +4,7 @@ In this subchapter:
 
 #### (1) Rural and rural area
 
-&emsp;The terms “rural” and “rural area” mean, subject to section 1926(a)(7) of this title, acity, town, or unincorporated area that has a population of 50,000 inhabitants or less, other than an urbanized area immediately adjacent to a city, town, or unincorporated area that has a population in excess of 50,000 inhabitants.
+&emsp;The terms “rural” and “rural area” mean, subject to section 1926(a)(7) of this title, a city, town, or unincorporated area that has a population of 50,000 inhabitants or less, other than an urbanized area immediately adjacent to a city, town, or unincorporated area that has a population in excess of 50,000 inhabitants.
 
 #### (2) State
 
@@ -25,4 +25,8 @@ Similar provisions were contained in Pub. L. 105–277, div. A, §101(a) \[title
 #### Termination of Trust Territory of the Pacific Islands
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1926 of this title.
 

@@ -34,7 +34,7 @@ The lands referred to in subsection (a) of this section, and more particularly d
 
 #### (d) Reservation status
 
-Nothing in this subchapter is intended to affect the boundaries of the Puyallup Reservation, except that the lands described in subsection (c) of this section above in paragraphs (1) through (8), and the Outer Hylebos tidelands property referred to in section VIII of the Settlement Agreement, shall have on-reservation status.
+Nothing in this subchapter is intended to affect the boundaries of the Puyallup Reservation, except that the lands described in subsection (c)of this section above in paragraphs (1) through (8), and the Outer Hylebos tidelands property referred to in section VIII of the Settlement Agreement, shall have on-reservation status.
 
 #### (e) Authorization of appropriations
 

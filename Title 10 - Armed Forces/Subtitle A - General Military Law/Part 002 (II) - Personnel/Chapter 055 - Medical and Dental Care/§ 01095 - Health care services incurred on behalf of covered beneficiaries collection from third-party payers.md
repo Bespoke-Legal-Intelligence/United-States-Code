@@ -50,7 +50,7 @@
 
 (j) The Secretary of Defense may enter into an agreement with any health maintenance organization, competitive medical plan, health care prepayment plan, or other similar plan (pursuant to regulations issued by the Secretary) providing for collection under this section from such organization or plan for services provided to a covered beneficiary who is an enrollee in such organization or plan.
 
-(k)(1) To improve the administration of this section and sections 1079(j)(1) and 1086(d) of thistitle, the Secretary of Defense, in consultation with the other administering Secretaries, may prescribe regulations providing for the collection of information regarding insurance, medical service, or health plans of third-party payers held by covered beneficiaries.
+(k)(1) To improve the administration of this section and sections 1079(j)(1) and 1086(d) of this title, the Secretary of Defense, in consultation with the other administering Secretaries, may prescribe regulations providing for the collection of information regarding insurance, medical service, or health plans of third-party payers held by covered beneficiaries.
 
 (2) The collection of information under regulations prescribed under paragraph (1) shall be conducted in the same manner as is provided in section 1862(b)(5) of the Social Security Act (42 U.S.C. 1395y(b)(5)). The Secretary may provide for obtaining from the Commissioner of Social Security employment information comparable to the information provided to the Administrator of the Health Care Financing Administration pursuant to such section. Such regulations may require the mandatory disclosure of Social Security account numbers for all covered beneficiaries.
 

@@ -6,7 +6,7 @@ The Secretary of the Interior is authorized to acquire, by purchase, gift, or le
 
 #### Codification
 
-Section is a combination provision, the latter portion beginning with the words “and any such area,” beingfrom section 3, and the remainder of the section from section 2 of act June 7, 1924.
+Section is a combination provision, the latter portion beginning with the words “and any such area,” being from section 3, and the remainder of the section from section 2 of act June 7, 1924.
 
 #### Amendments
 

@@ -8,11 +8,11 @@
 
 &emsp;(B) encouraging the establishment of programs of assistance and counseling to lower income families to enable them better to achieve and afford adequate housing;
 
-&emsp;(C) providing a broad range of technical assistance through publications and advisory services to public and private organizations which are carrying out, or are desirous of carrying out, programs to expand homeownership and housing opportunities for lower income families; and
+&emsp;(C) providing a broad range of technical assistance through publications and advisory services to public and private organizationswhich are carrying out, or are desirous of carrying out, programs to expand homeownership and housing opportunities for lower income families; and
 
 &emsp;(D) providing grants and loans to public and private organizations carrying out homeownership and housing opportunity programs for lower income families to help cover some of the expenses of such programs.
 
-(2) The Foundation shall be deemed to be a corporation without members organized and established under the provisions of the District of Columbia Nonprofit Corporation Act \[D.C. Code, §29–501 et seq.\], with all the rights, powers, and responsibilities thereof except as limited by this section and any amendments thereto. This section shall constitute the articles of incorporation and charter of the Foundation, which shall not be an agency or instrumentality of the United States Government. The Congress expressly reserves the exclusive right to alter or amend this charter. The Foundation shall have succession until dissolved by Act of Congress. The Foundation shall maintain its principal office in the District of Columbia.
+(2) The Foundation shall be deemed to be a corporation without members organized and established under the provisions of the District of Columbia Nonprofit Corporation Act, with all the rights, powers, and responsibilities thereof except as limited by this section and any amendments thereto. This section shall constitute the articles of incorporation and charter of the Foundation, which shall not be an agency or instrumentality of the United States Government. The Congress expressly reserves the exclusive right to alter or amend this charter. The Foundation shall have succession until dissolved by Act of Congress. The Foundation shall maintain its principal office in the District of Columbia.
 
 (3) No part of the net earnings of the Foundation shall inure to the benefit of any private person, and no substantial part of its activities shall be devoted to attempting to influence legislation. The Foundation shall not participate or intervene in any political campaign on behalf of any candidate for public office. The Foundation shall be operated and administered at all times as a charitable and educational foundation.
 
@@ -42,7 +42,7 @@
 
 &emsp;(A) carry out a continuing program of encouraging private and public organizations at the national, community, and neighborhood levels in the establishment of such programs;
 
-&emsp;(B) assist in the formation of organizations the purpose of which is the development and carrying out of such programs, including the establishment of local development funds for financing housing for lower income families through the pooling of moneys from private sources;
+&emsp;(B) assist in the formation of organizations the purpose of which is the development and carrying out of such programs, including the establishment of local development funds forfinancing housing for lower income families through the pooling of moneys from private sources;
 
 &emsp;(C) identify and arrange for the technical and managerial assistance and personnel needed for the successful operation of such programs by public and private organizations;
 
@@ -100,7 +100,7 @@ There is authorized to be appropriated to the Foundation not to exceed $10,000,0
 
 #### References in Text
 
-The District of Columbia Nonprofit Corporation Act, referred to in subsec. (a)(2), is Pub. L. 87–569, Aug. 6, 1962, 76 Stat. 265, as amended, which appears in chapter 5 (§29–501 et seq.) of Title 29, Corporations, of the District of Columbia Code.
+The District of Columbia Nonprofit Corporation Act, referred to in subsec. (a)(2), is Pub. L. 87–569, Aug. 6, 1962, 76 Stat. 265, as amended, which is not classified to the Code.
 
 #### Codification
 
@@ -113,6 +113,10 @@ Section was enacted as part of the Housing and Urban Development Act of 1968, an
 1975—Subsec. (g)(1). Pub. L. 93–604, §604(1), inserted provision that the audit under this subsection shall be made at least once in every three years.
 
 Subsec. (g)(2). Pub. L. 93–604, §604(2), substituted “six and one-half months following the close of the last year covered by such audit” for “January 15 following the close of the fiscal year for which the audit was made”.
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (f)(1) of this section relating to submittal of an annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 203 of House Document No. 103–7.
 
 #### Office of Economic Opportunity
 

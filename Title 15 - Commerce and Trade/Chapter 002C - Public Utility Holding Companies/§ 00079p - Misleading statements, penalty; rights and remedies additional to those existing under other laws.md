@@ -12,11 +12,3 @@ The Securities Exchange Act of 1934, referred to in subsecs. (a) and (b), is act
 
 The Securities Act of 1933, referred to in subsec. (b), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
 
-#### Cross References
-
-Trust Indenture Act of 1939—
-
-&emsp;&emsp;Jurisdiction under this section as affected by, see section 77zzz of this title.
-
-&emsp;&emsp;Rights and remedies under, see section 77www of this title.
-

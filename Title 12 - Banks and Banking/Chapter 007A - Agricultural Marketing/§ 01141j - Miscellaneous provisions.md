@@ -14,7 +14,7 @@ Third. That the association shall not deal in farm products, farm supplies, and 
 
 #### (b) Speculation prohibited
 
-It shall be unlawful for the governor, or any officer or employee of the Farm Credit Administration to speculate directly or indirectly, in any agricultural commodity or product thereof, or in contracts relating thereto, or in the stock or membership interests of any association or corporation engaged in handling, processing, or disposing of any such commodity or product. Any person violating this subdivision shall upon conviction thereof be fined not more than $10,000, or imprisoned not more than ten years, or both.
+It shall be unlawful for the governor, or any officer or employee of the Farm Credit Administration to speculate directly or indirectly, in any agricultural commodity or product thereof, or in contracts relating thereto, or in the stock or membership interests of any association or corporation engaged in handling, processing, ordisposing of any such commodity or product. Any person violating this subdivision shall upon conviction thereof be fined not more than $10,000, or imprisoned not more than ten years, or both.
 
 #### (c) Confidential information; disclosure prohibited
 
@@ -22,7 +22,7 @@ It shall be unlawful (1) for any cooperative association, stabilization corporat
 
 #### (d) Governmental publications; predictions as to cotton prices prohibited
 
-The inclusion in any governmental report, bulletin, or other such publication hereafter issued or published of any prediction with respectto cotton prices is prohibited. Any officer or employee of the United States who authorizes or is responsible for the inclusion in any such report, bulletin, or other publication of any such prediction, or who knowingly causes the issuance or publication of any such report, bulletin, or other publication containing any such prediction, shall, upon conviction thereof, be fined not less than $500 or more than $5,000, or imprisoned for not more than five years, or both: <i>Provided</i>, That this subdivision shall not apply to the Governor of the Farm Credit Administration when engaged in the performance of his duties herein provided.
+The inclusion in any governmental report, bulletin, or other such publication hereafter issued or published of any prediction with respect to cotton prices is prohibited. Any officer or employee of the United States who authorizes or is responsible for the inclusion in any such report, bulletin, or other publication of any such prediction, or who knowingly causes the issuance or publication of any such report, bulletin, or other publication containing any such prediction, shall, upon conviction thereof, be fined not less than $500 or more than $5,000, or imprisoned for not more than five years, or both: <i>Provided</i>, That this subdivision shall not apply to the Governor of the Farm Credit Administration when engaged in the performance of his duties herein provided.
 
 #### (e) Separability clause
 
@@ -61,12 +61,6 @@ Establishment of Farm Credit Administration as an independent agency, compositio
 #### Exceptions From Transfer of Functions
 
 Functions of Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, §1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Cross References
-
-Agricultural Fair Practices Act of 1967, association of producers as meaning cooperative association defined in this section, see section 2302 of Title 7, Agriculture.
-
-Small Business Administration disaster loans, eligibility of small agricultural cooperatives acting as associations pursuant to this chapter, see section 632(j) of Title 15, Commerce and Trade.
 
 #### Section Referred to in Other Sections
 

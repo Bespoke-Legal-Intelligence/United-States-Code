@@ -42,19 +42,31 @@
 
 &emsp;(2) of the amount under paragraph (1), how much (in the aggregate and by category) was required for the purposes described in subsection (c)(2)(B).
 
-(g) This section shall cease to be effective at the end of the 2-year period beginning on the date on which special postage stamps under this section are first made available to the public.
+(g) This section shall cease to be effective after July 29, 2002, or the end of the 2-year period beginning on the date of the enactment of the Semipostal Authorization Act, whichever is later.
 
-(Added Pub. L. 105–41, §2(a), Aug. 13, 1997, 111 Stat. 1119.)
+(Added Pub. L. 105–41, §2(a), Aug. 13, 1997, 111 Stat. 1119; amended Pub. L. 106–253, §3(a), July 28, 2000, 114 Stat. 636.)
 
 #### References in Text
 
 The date of the enactment of this section, referred to in subsec. (e), is the date of enactment of Pub. L. 105–41, which was approved Aug. 13, 1997.
 
+The date of the enactment of the Semipostal Authorization Act, referred to in subsec. (g), is the date of enactment of Pub. L. 106–253, which was approved July 28, 2000.
+
+#### Amendments
+
+2000—Subsec. (g). Pub. L. 106–253 amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “This section shall cease to be effective at the end of the 2-year period beginning on the date on which special postage stamps under this section are first made available to the public.”
+
 #### Report by Comptroller General of United States
+
+Pub. L. 106–253, §3(b), July 28, 2000, 114 Stat. 637, provided that: “No later than 3 months and no earlier than 6 months before the date as of which section 414 of title 39, United States Code (as amended by this section) is scheduled to expire, the Comptroller General of the United States shall submit to the Congress a report on the operation of such section. Such report shall be in addition to the report required by section 2(b) of Public Law 105–41 \[set out below\], and shall address at least the same matters as were required to be included in that earlier report.”
 
 Section 2(b) of Pub. L. 105–41 provided that: “No later than 3 months (but no earlier than 6 months) before the end of the 2-year period referred to in section 414(g) of title 39, United States Code (as amended by subsection (a)), the Comptroller General of the United States shall submit to the Congress a report on the operation of such section. Such report shall include—
 
 &emsp;“(1) an evaluation of the effectiveness and the appropriateness of the authority provided by such section as a means of fund-raising; and
 
 &emsp;“(2) a description of the monetary and other resources required of the Postal Service in carrying out such section.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 416 of this title.
 

@@ -32,10 +32,6 @@ In paragraph (b) the $3,000 fine was reduced to $1,000 to conform to paragraph (
 
 Subsec. (b). Pub. L. 87–667 substituted “device, paper, or other thing similar” for “device similar”, “paper, or other device issued or authorized in connection with rationing or food and fiber distribution” for “or other device issued or authorized in connection with rationing”, and “devices, papers, or other things are intended to be used unlawfully” for “or other devices may be used unlawfully”, inserted “or other currency” before “of the United States” in two places, and “lawful” before “receptacle, depository”, and provided that nothing in this section shall create immunity from criminal prosecution under the laws of any State, Commonwealth of Puerto Rico, territory, possession, or the District of Columbia.
 
-#### Canal Zone
-
-Applicability of section to Canal Zone, see section 14 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 14 of this title.

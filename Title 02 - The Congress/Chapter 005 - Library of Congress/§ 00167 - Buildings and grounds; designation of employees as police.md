@@ -40,11 +40,11 @@ Section 3 of Pub. L. 100–135 provided that: “The amendments made by section 
 
 #### Effective Date of 1973 Amendment
 
-Section 2 of Pub. L. 93–175 provided that: “The amendment made by this Act \[amending this section\]shall take effect on the first day of the first pay period which begins on or after the date of enactment of this Act \[Dec. 5, 1973\].”
+Section 2 of Pub. L. 93–175 provided that: “The amendment made by this Act \[amending this section\] shall take effect on the first day of the first pay period which begins on or after the date of enactment of this Act \[Dec. 5, 1973\].”
 
 #### Effective Date of 1968 Amendment
 
-Section 3 of Pub. L. 90–610 provided that: “The amendments made by this Act \[amending this section and section 5102 of Title 5, Government Organization and Employees\] shall take effect on the first day of the first pay period which begins on or after the date of enactment of this Act \[Oct. 21, 1968\]. Notwithstanding any provisions of this Act, no rate of basic pay shall be reduced by reason of the enactment of this Act.”
+Section 3 of Pub. L. 90–610 provided that: “The amendments made by this Act \[amending this section and section 5102 of Title 5, Government Organizationand Employees\] shall take effect on the first day of the first pay period which begins on or after the date of enactment of this Act \[Oct. 21, 1968\]. Notwithstanding any provisions of this Act, no rate of basic pay shall be reduced by reason of the enactment of this Act.”
 
 #### Transition Rule for Certain Employees
 

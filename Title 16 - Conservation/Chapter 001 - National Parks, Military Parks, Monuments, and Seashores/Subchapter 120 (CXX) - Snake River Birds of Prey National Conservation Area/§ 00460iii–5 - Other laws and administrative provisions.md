@@ -20,7 +20,7 @@ Public Land Orders 5133 dated October 12, 1971, and 5777 dated November 21, 1980
 
 #### (d) Water
 
-(1) The Congress finds that the United States is currently a party in an adjudication of rights to waters of the Snake River, including water rights claimed by the United States on the basis of the reservation of lands for purposes of conservation of fish and wildlife and that consequently there is no need for this subchapter to effect a reservation by the United States of rights with respect to such waters in order to fulfill the purposes for which the conservation area is established.
+(1) The Congress finds that the United States is currently a party in an adjudication of rights to waters of the Snake River, including water rights claimed by the United States on the basisof the reservation of lands for purposes of conservation of fish and wildlife and that consequently there is no need for this subchapter to effect a reservation by the United States of rights with respect to such waters in order to fulfill the purposes for which the conservation area is established.
 
 (2) Nothing in this subchapter or any action taken pursuant thereto shall constitute either an expressed or implied reservation of water or water rights for any purpose.
 
@@ -32,7 +32,7 @@ Public Land Orders 5133 dated October 12, 1971, and 5777 dated November 21, 1980
 
 #### References in Text
 
-The Endangered Species Act of 1973, referred to in subsec. (a)(1), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat.884, as amended, which is classified generally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+The Endangered Species Act of 1973, referred to in subsec. (a)(1), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
 The National Trails System Act, referred to in subsec. (a)(1), is Pub. L. 90–543, Oct. 2, 1968, 82 Stat. 919, as amended, which is classified generally to chapter 27 (§1241 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1241 of this title and Tables.
 

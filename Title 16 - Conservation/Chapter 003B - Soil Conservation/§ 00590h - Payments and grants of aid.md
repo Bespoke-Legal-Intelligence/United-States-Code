@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(iii) The Secretary may designate local administrative areas within the county or larger area covered by a committee established under clause (i). Only agricultural producers within a local administrative area who participate or cooperate in programs administered within their area shall be eligible for nomination and election to the local committee for that area, under such regulations as the Secretary may prescribe.
 
-&emsp;&emsp;(iv) The Secretary shall solicit and accept nominations from organizations representing the interests of socially disadvantagedgroups (as defined in section 355(e)(1) of the Consolidated Farm and Rural Development Act (7 U.S.C. 2003(e)(1)).
+&emsp;&emsp;(iv) The Secretary shall solicit and accept nominations from organizations representing the interests of socially disadvantaged groups (as defined in section 355(e)(1) of the Consolidated Farm and Rural Development Act (7 U.S.C. 2003(e)(1)).
 
 &emsp;&emsp;(v) Members of each county, area, or local committee shall serve for terms not to exceed 3 years.
 
@@ -78,7 +78,7 @@
 
 (4) Repealed. Apr. 10, 1939, ch. 48, 53 Stat. 573.
 
-(5) In determining normal yield per acre for any county under this section in the case of wheat or corn, the normal yield shall be the average yield per acre therein for such commodity during the ten calendar years immediately preceding the calendar year in which such yield is determined, adjusted for abnormal weather conditions and trends in yields. If for any reason there is no actual yield, or the data therefor are not available for any year, then an appraised yield for such year, determined in accordance with regulations of the Secretary, shall be used.If, on account of drought, flood, insect pests, plant disease, or other uncontrollable natural cause, the yield in any year of such ten-year period is less than 75 per centum of the average (computed without regard to such year), such year shall be eliminated in calculating the normal yield per acre. Such normal yield per acre for any county need be redetermined only when the actual average yield for the ten calendar years immediately preceding the calendar year in which such yield is being reconsidered differs by at least 5 per centum from the actual average yield for the ten years upon which the existing normal yield per acre for the county was based.
+(5) In determining normal yield per acre for any county under this section in the case of wheat or corn, the normal yield shall be the average yield per acre therein for such commodity during the ten calendar years immediately preceding the calendar year in which such yield is determined, adjusted for abnormal weather conditions and trends in yields. If for any reason there is no actual yield, or the data therefor are not available for any year, then an appraised yield for such year, determined in accordance with regulations of the Secretary, shall be used. If, on account of drought, flood, insect pests, plant disease, or other uncontrollable natural cause, the yield in any year of such ten-year period is less than 75 per centum of the average (computed without regard to such year), such year shall be eliminated in calculating the normal yield per acre. Such normal yield per acre for any county need be redetermined only when the actual average yield for the ten calendar years immediately preceding the calendar year in which such yield is being reconsidered differs by at least 5 per centum from the actual average yield for the ten years upon which the existing normal yield per acre for the county was based.
 
 (6) In determining normal yield per acre for any farm under this section in the case of wheat or corn, the normal yield shall be the average yield per acre thereon for such commodity during the ten calendar years immediately preceding the calendar year in which such yield is determined, adjusted for abnormal weather conditions and trends in yields. If for any such year the data are not available, or there is no actual yield, then the normal yield for the farm shall be appraised in accordance with regulations of the Secretary, taking into consideration abnormal weather conditions, the normal yield for the county, and the yield in years for which data are available.
 
@@ -92,7 +92,7 @@ A payment that may be made to a producer under this section may be assigned only
 
 #### References in Text
 
-The Food Security Act of 1985, referred to in subsec. (b)(1), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, as amended. Chapter 4 of subtitle D of title XII of the Act is classified generally to part IV (§3839aa et seq.) of subchapter IV of chapter 58 of this title. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of Title 7, Agriculture, and Tables.
+The Food Security Act of 1985, referred to in subsec. (b)(1), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, as amended. Chapter 4 of subtitle D of title XII of the Act is classified generally to part IV (§3839aa et seq.) of subchapter IV of chapter 58 of this title. For complete classification of this Act to the Code, see Short Title of1985 Amendment note set out under section 1281 of Title 7, Agriculture, and Tables.
 
 The Consolidated Farm and Rural Development Act, referred to in subsec. (b)(5)(D), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended, which is classified principally to chapter 50 (§1921 et seq.) of Title 7. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of Title 7 and Tables.
 
@@ -126,7 +126,7 @@ Pub. L. 99–198, §1711(a)(2), in fourth sentence of fifth par., struck out “
 
 Pub. L. 99–198, §1711(a)(3), in fifth par., inserted provisions directing that each member of a local committee be elected for a term of 3 years, that each local committee meet (A) once each year and shall receive compensation for such meeting by the Secretary at not less than the level in effect on December 31, 1985, and (B) at the direction of the county committee and with the approval of the State committee, such additional times during the year as may be necessary to carry out this section without compensation, and that the meetings of a local committee shall be held on different days of the year.
 
-Pub. L. 99–198, §1711(a)(4), in fifth par., inserted provisions directing that the local committees in each county (A) in a county in which there is more than one local committee, serve as advisors and consultants to the county committee; (B) periodically meet with the county committee and State committee to be informed on farm program issues; (C) communicate with producers within their communities on issues or concerns regarding farm programs; (D) report to the county committee, the State committee, and other interested persons on changes to, or modifications of, farm programs recommended by producers in their communities; and (E) perform such other functions as are required by law or as the Secretary may specify, and that the Secretary ensure that information concerning changes in Federal laws in effect with respect to agricultural programs and the administration of such laws are communicated in a timely manner to local committees in areas that contain agricultural producers who might be affected by such changes.
+Pub. L. 99–198, §1711(a)(4), in fifth par., inserted provisions directing that the local committees in each county (A) in a county in which there is more than one local committee, serve as advisors and consultants to the county committee; (B) periodically meet with the county committee and State committee to be informed on farm program issues; (C) communicate with producers within their communities on issues or concerns regarding farm programs; (D) report to the county committee, the State committee, and other interested persons on changes to, or modifications of, farm programs recommended by producers in their communities; and (E) perform such other functions as are required by law or as the Secretary may specify, and that the Secretary ensure that information concerning changes in Federal laws in effect with respect to agricultural programs and the administration of such laws are communicated in a timely manner to local committees in areas thatcontain agricultural producers who might be affected by such changes.
 
 1980—Subsec. (b). Pub. L. 96–294 added applicability to energy conservation as an area of conservation subject to financial assistance, and provisions setting forth authority for financial assistance to agricultural producers for encouraging energy conservation through cost sharing and technical assistance for shelter belts, etc.
 
@@ -198,7 +198,7 @@ Subsec. (c)(6). Act Apr. 7, 1938, added par. (6).
 
 Subsecs. (d) to (g). Act Feb. 16, 1938, added subsecs. (d) to (g).
 
-Subsec. (g). Act Apr. 7, 1938, substituted second and third sentences for sentences which provided “Such assignment shall be acknowledged by the farmer before the county agricultural extension agent and filed with such agent. The farmer shall file with such county agricultural extension agent an affidavit stating that the assignment is not made to pay or secure any pre-existing indebtedness.”
+Subsec. (g). Act Apr. 7, 1938, substituted second and third sentences for sentences which provided “Such assignment shall be acknowledged by the farmer beforethe county agricultural extension agent and filed with such agent. The farmer shall file with such county agricultural extension agent an affidavit stating that the assignment is not made to pay or secure any pre-existing indebtedness.”
 
 1937—Subsec. (a). Act June 28, 1937, substituted “January 1, 1942” for “January 1, 1938” wherever appearing, and “December 31, 1941” for “December 31, 1937”.
 
@@ -228,7 +228,7 @@ Section 105 of act Feb. 16, 1938, as amended by section 1 of act Apr. 7, 1938, p
 
 #### Transfer of Functions
 
-Functions respecting lands under jurisdiction of Department of the Interior, transfer to Department of theInterior, see Transfer of Functions note set out under section 590a of this title.
+Functions respecting lands under jurisdiction of Department of the Interior, transfer to Department of the Interior, see Transfer of Functions note set out under section 590a of this title.
 
 #### Status of Permanent Employees of County Committees
 
@@ -274,27 +274,13 @@ Pub. L. 87–793, title VI, §1002, Oct. 11, 1962, 76 Stat. 865, provided that: 
 
 #### 1960 Increase in Rates of Compensation of Persons Employed by County Committees
 
-Pub. L. 86–568, title I, §115(a), July 1, 1960, 74 Stat. 302, provided that: “The rates of compensation of persons employed by the county committees established pursuant to section 8(b) of the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590h(b)) shall be increased by amounts equal, as nearly as may be practicable, to the increases provided by this title \[amending section 1113(b) of former Title 5, Executive Departments andGovernment Officers and Employees\] for corresponding rates of compensation in the appropriate schedule or scale of pay.”
+Pub. L. 86–568, title I, §115(a), July 1, 1960, 74 Stat. 302, provided that: “The rates of compensation of persons employed by the county committees established pursuant to section 8(b) of the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590h(b)) shall be increased by amounts equal, as nearly as may be practicable, to the increases provided by this title \[amending section 1113(b) of former Title 5, Executive Departments and Government Officers and Employees\] for corresponding rates of compensation in the appropriate schedule or scale of pay.”
 
 “Increases provided by this title”, referred to above, means increases provided by title I of Pub. L. 86–568.
 
 #### Two County Committees for Certain Counties in Minnesota and Iowa
 
 Pub. L. 85–278, Sept. 2, 1957, 71 Stat. 601, provided: “That, notwithstanding the provisions of subsection (b) of section 8 of the Soil Conservation and Domestic Allotment Act \[subsec. (b) of this section\], two county committees shall be elected annually under such subsection for the counties of Otter Tail, Polk, and Saint Louis, in the State of Minnesota, and for the county of Pottawattamie, in the State of Iowa, and that the actions heretofore or hereafter taken by each of such committees shall be given the same effect in the area served by it as is given to the actions of the county committee in a county served by a single county committee.”
-
-#### Cross References
-
-Commodity Credit Corporation loans, see section 1391 of Title 7, Agriculture.
-
-Emergency farm acreage allotment, see note set out under sections 1334, 1344, and 1358 of Title 7.
-
-Finality of payments and loans under this chapter, see section 1385 of Title 7.
-
-Utilization of local agencies, see section 1388 of Title 7.
-
-Wheat acreage diverted to haying and grazing on request of State committees established under subsec. (b) of this section, see section 1445b–1(e)(8) of Title 7.
-
-Wheat marketing quotas, penalty provisions, see section 1340 of Title 7.
 
 #### Section Referred to in Other Sections
 

@@ -8,7 +8,7 @@
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–368 substituted “The Secretary shall” for “Within 180 days after the date ofthe enactment of this section, the Secretary shall take appropriate steps to”.
+1998—Subsec. (a). Pub. L. 105–368 substituted “The Secretary shall” for “Within 180 days after the date of the enactment of this section, the Secretary shall take appropriate steps to”.
 
 1991—Pub. L. 102–83 renumbered section 1830 of this title as this section.
 

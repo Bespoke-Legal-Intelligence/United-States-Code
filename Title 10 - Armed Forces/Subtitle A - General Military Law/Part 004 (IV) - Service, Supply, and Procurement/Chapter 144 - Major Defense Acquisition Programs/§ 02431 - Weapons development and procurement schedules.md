@@ -138,6 +138,32 @@ ABM Treaty Defined.—In this section, the term ‘ABM Treaty’ means the Treat
 
 #### Memorandum of Understanding for Use of National Laboratories for Ballistic Missile Defense Programs
 
+Pub. L. 106–398, §1 \[div. C, title XXXI, §3132\], Oct. 30, 2000, 114 Stat. 1654, 1654A–455, provided that:
+
+“(a)
+
+Jointly Funded Projects.—The Secretary of Energy and the Secretary of Defense shall modify the memorandum of understanding for the use of the national laboratories for ballistic missile defense programs, entered into under section 3131 of the National Defense Authorization Act for Fiscal Year 1998 (Public Law 105–85; 111 Stat. 2034; 10 U.S.C. 2431 note), to provide for jointly funded projects.
+
+“(b)
+
+Requirements for Projects.—The projects referred to in subsection (a) shall—
+
+&emsp;“(1) be carried out by the National Nuclear Security Administration and the Ballistic Missile Defense Organization; and
+
+&emsp;“(2) contribute to sustaining—
+
+&emsp;&emsp;“(A) the expertise necessary for the viability of such laboratories; and
+
+&emsp;&emsp;“(B) the capabilities required to sustain the nuclear stockpile.
+
+“(c)
+
+Participation by NNSA in Certain BMDO Activities.—The Administrator for Nuclear Security and the Director of the Ballistic Missile Defense Organization shall implement mechanisms that increase the cooperative relationship between those organizations. Those mechanisms may include participation by personnel of the National Nuclear Security Administration in the following activities of the Ballistic Missile Defense Organization:
+
+&emsp;“(1) Peer reviews of technical efforts.
+
+&emsp;“(2) Activities of so-called ‘red teams’.”
+
 Pub. L. 105–85, div. C, title XXXI, §3131, Nov. 18, 1997, 111 Stat. 2034, provided that:
 
 “(a)
@@ -270,7 +296,7 @@ Findings.—(1) Congress hereby reaffirms—
 
 &emsp;“(B) the statement in section 232 of the National Defense Authorization Act for Fiscal Year 1995 (Public Law 103–337; 108 Stat. 2700) that the United States shall not be bound by any international agreement entered into by the President that would substantively modify the ABM Treaty unless the agreement is entered into pursuant to the treaty making power of the President under the Constitution.
 
-“(2) Congress also finds that the demarcation standard described in subsection (b)(1) for compliance of a missile defense system, system upgrade, or system component with the ABM Treaty is based upon current technology.
+“(2) Congress also finds that the demarcation standard described in subsection (b)(1) for compliance of amissile defense system, system upgrade, or system component with the ABM Treaty is based upon current technology.
 
 “(b)
 
@@ -350,7 +376,7 @@ Compliance Review for Brilliant Eyes.—The Secretary of Defense shall review th
 
 Compliance Review for Navy Upper Tier System.—(1) The Secretary of Defense shall review the theater ballistic missile program known as the Navy Upper Tier program to determine whether the development, testing, and deployment of the system being developed under that program would be in compliance with the ABM Treaty, including the interpretation of the Treaty set forth in the enclosure to the July 13, 1993, ACDA letter.
 
-“(2) Of the funds made available to the Department of Defense for fiscal year 1995, not more than $40,000,000 may be obligated for the Navy Upper Tier program before the date on which the Secretary submits to the appropriate congressional committees a report on the compliance of that program with the ABM Treaty, as determined under the compliance review under paragraph (1).
+“(2) Of the funds made available to the Department of Defense for fiscal year 1995, not more than $40,000,000 may be obligated for the Navy Upper Tier program before the date on which the Secretary submits to the appropriate congressional committees a report on the compliance of that program with the ABM Treaty, asdetermined under the compliance review under paragraph (1).
 
 “(e)
 
@@ -524,7 +550,7 @@ Section 222 of Pub. L. 100–180 provided that:
 
 “(a)
 
-SDI Contracts With Foreign Entities.—Funds appropriated to or for the use of the Department of Defense may not be used for the purpose of entering into or carrying out any contract with a foreign government or a foreign firm if the contract provides for the conduct of research, development, test, or evaluation in connection with the Strategic Defense Initiative program.
+SDI Contracts With Foreign Entities.—Funds appropriated to or for the use of the Department of Defense may not be used for the purpose of entering into or carrying out any contract with a foreign government or a foreign firm if the contract provides for the conduct of research, development, test, or evaluationin connection with the Strategic Defense Initiative program.
 
 “(b)
 
@@ -554,7 +580,7 @@ Transition.—The prohibition in subsection (a) shall not apply to a contract en
 
 #### Limitation on Transfer of Certain Military Technology to Independent States of Former Soviet Union
 
-Section 223 of Pub. L. 100–180, as amended by Pub. L. 103–199, title II, §203(a)(1), Dec. 17, 1993, 107 Stat. 2321, provided that: “Military technology developed withfunds appropriated or otherwise made available for the Ballistic Missile Defense Program may not be transferred (or made available for transfer) to Russia or any other independent state of the former Soviet Union by the United States (or with the consent of the United States) unless the President determines, and certifies to the Congress at least 15 days prior to any such transfer, that such transfer is in the national interest of the United States and is to be made for the purpose of maintaining peace.”
+Section 223 of Pub. L. 100–180, as amended by Pub. L. 103–199, title II, §203(a)(1), Dec. 17, 1993, 107 Stat. 2321, provided that: “Military technology developed with funds appropriated or otherwise made available for the Ballistic Missile Defense Program may not be transferred (or made available for transfer) to Russia or any other independent state of the former Soviet Union by the United States (or with the consent of the United States) unless the President determines, and certifies to the Congress at least 15 days prior to any such transfer, that such transfer is in the national interest of the United States and is to be made for the purpose of maintaining peace.”
 
 #### SDI Architecture To Require Human Decision Making
 
@@ -624,7 +650,7 @@ Requirements Applicable to FFRDC.—The Secretary of Defense shall—
 
 &emsp;“(7) require that the contract referred to in subsection (b) include a provision prohibiting the new FFRDC from employing any person who, as a Federal employee or member of the Armed Forces, served in the Strategic Defense Initiative Organization within two years before the date on which such person is to be employed by the new FFRDC; and
 
-&emsp;“(8) require that any contract referred to in subsection (b) require that the Board of Trustees of thenew FFRDC be comprised of individuals who represent a reasonable cross-section of views on the engineering and scientific issues associated with the Strategic Defense Initiative Program.
+&emsp;“(8) require that any contract referred to in subsection (b) require that the Board of Trustees of the new FFRDC be comprised of individuals who represent a reasonable cross-section of views on the engineering and scientific issues associated with the Strategic Defense Initiative Program.
 
 “(e)
 
@@ -714,7 +740,7 @@ Pub. L. 99–145, title IX, §915, Nov. 8, 1985, 99 Stat. 688, as amended by Pub
 
 #### Requirement for Specific Authorization for Deployment of Strategic Defense Initiative System
 
-Pub. L. 99–145, title II, §222, Nov. 8, 1985, 99 Stat. 613, provided that strategic defense system developed as consequence of research, development, test, and evaluation conducted on Strategic Defense Initiative program could not be deployed in whole or in part unless President made a certain determination and certification to Congress and funding for deployment of such system was specifically authorized by legislation enacted after date of certification, prior to repeal by Pub. L. 104–106, div. A, title II, §253(1), Feb. 10, 1996, 110 Stat. 234.
+Pub. L. 99–145, title II, §222, Nov. 8, 1985, 99 Stat. 613, provided that strategic defense system developed asconsequence of research, development, test, and evaluation conducted on Strategic Defense Initiative program could not be deployed in whole or in part unless President made a certain determination and certification to Congress and funding for deployment of such system was specifically authorized by legislation enacted after date of certification, prior to repeal by Pub. L. 104–106, div. A, title II, §253(1), Feb. 10, 1996, 110 Stat. 234.
 
 #### Annual Report on Ballistic Missile Defense Program
 
@@ -722,7 +748,7 @@ Pub. L. 101–189, div. A, title II, §224, Nov. 29, 1989, 103 Stat. 1398, as am
 
 Pub. L. 100–180, div. A, title II, §231(a), Dec. 4, 1987, 101 Stat. 1059, provided that not later than Mar. 15, 1988 and Mar. 15, 1989, the Secretary of Defense was to transmit to Congress a report on the programs that constitute the Strategic Defense Initiative and on any other program relating to defense against ballistic missiles.
 
-Pub. L. 98–525, title XI, §1102, Oct. 19, 1984, 98 Stat. 2580, required Secretary of Defense, at time of his annual budget presentation to Congress beginning with fiscal year 1986 and ending with fiscal year 1990, to transmit to Committees on Armed Services and Foreign Affairs of House of Representatives and Committees on Armed Services and Foreign Relations of Senate, a detailed report on programs that constitute SDI,prior to repeal by Pub. L. 100–180, div. A, title II, §231(b), Dec. 4, 1987, 101 Stat. 1060.
+Pub. L. 98–525, title XI, §1102, Oct. 19, 1984, 98 Stat. 2580, required Secretary of Defense, at time of his annual budget presentation to Congress beginning with fiscal year 1986 and ending with fiscal year 1990, to transmit to Committees on Armed Services and Foreign Affairs of House of Representatives and Committees on Armed Services and Foreign Relations of Senate, a detailed report on programs that constitute SDI, prior to repeal by Pub. L. 100–180, div. A, title II, §231(b), Dec. 4, 1987, 101 Stat. 1060.
 
 #### Plans for Management of Technical Data and Computer Capability Improvements
 
@@ -784,7 +810,7 @@ Pub. L. 98–473, title I, §101(h) \[title VIII, §8100\], Oct. 12, 1984, 98 S
 
 &emsp;“(4) that such testing is fully consistent with the rights and obligations of the United States under the Anti-Ballistic Missile Treaty of 1972 as those rights and obligations exist at the time of such testing.
 
-“(b) During fiscal year 1985, funds appropriated for the purpose of testing the F–15 launched miniature homing vehicle anti-satellite warhead may not be used to conduct more than three tests of that warhead against objects in space.
+“(b) During fiscal year 1985, funds appropriated for the purpose of testing the F–15 launched miniature homing vehicle anti-satellite warhead may not be usedto conduct more than three tests of that warhead against objects in space.
 
 “(c) The limitation on the expenditure of funds provided by subsection (a) of this section shall cease to apply fifteen calendar days after the date of the receipt by Congress of the certification referred to in subsection (a) or March 1, 1985, whichever occurs later.”
 
@@ -858,7 +884,7 @@ Section 811 of Pub. L. 94–106, as amended by Pub. L. 96–107, title VIII, §8
 
 Section 608 of Pub. L. 93–552, title VI, Dec. 27, 1974, 88 Stat. 1763, provided:
 
-“(a) The Secretary of Defense is authorized to assist communities located near the TRIDENT Support Site Bangor, Washington, in meeting the costs of providing increased municipal services and facilities to the residents of such communities, if the Secretary determines that there is an immediate and substantial increase in the need for such services and facilities in such communities as a direct result of work being carried out in connection with the construction, installation, testing,and operation of the TRIDENT Weapon System and that an unfair and excessive financial burden will be incurred by such communities as a result of the increased need for such services and facilities.
+“(a) The Secretary of Defense is authorized to assist communities located near the TRIDENT Support Site Bangor, Washington, in meeting the costs of providing increased municipal services and facilities to the residents of such communities, if the Secretary determines that there is an immediate and substantial increase in the need for such services and facilities in such communities as a direct result of work being carried out in connection with the construction, installation, testing, and operation of the TRIDENT Weapon System and that an unfair and excessive financial burden will be incurred by such communities as a result of the increased need for such services and facilities.
 
 “(b) The Secretary of Defense shall carry out the provisions of this section through existing Federal programs. The Secretary is authorized to supplement funds made available under such Federal programs to the extent necessary to carry out the provisions of this section, and is authorized to provide financial assistance to communities described in subsection (a) of this section to help such communities pay their share of the costs under such programs. The heads of all departments and agencies concerned shall cooperate fully with the Secretary of Defense in carrying out the provisions of this section on a priority basis.
 

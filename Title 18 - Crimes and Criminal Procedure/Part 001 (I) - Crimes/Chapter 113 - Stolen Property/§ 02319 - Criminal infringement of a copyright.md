@@ -46,7 +46,7 @@ The Federal Rules of Criminal Procedure, referred to in subsec. (d)(1), are set 
 
 Subsec. (b). Pub. L. 105–147, §2(d)(2)(A), substituted “section 506(a)(1) of title 17” for “subsection (a) of this section” in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 105–147, §2(d)(2)(B), inserted “including by electronic means,” after “if the offense consists of the reproduction or distribution,” and substituted “which have a total retail value of more than $2,500” for “with a retail value of more than $2,500”.
+Subsec. (b)(1). Pub. L. 105–147, §2(d)(2)(B), inserted “including by electronic means,” after “if the offenseconsists of the reproduction or distribution,” and substituted “which have a total retail value of more than $2,500” for “with a retail value of more than $2,500”.
 
 Pub. L. 105–80, substituted “at least 10 copies” for “at last 10 copies”.
 

@@ -36,9 +36,17 @@ Adequacy of Repairs.—(1) If a manufacturer decides to repair a defective or no
 
 (2) Failure to repair a motor vehicle or replacement equipment adequately not later than 60 days after its presentation is prima facie evidence of failure to repair within a reasonable time. However, the Secretary may extend, by order, the 60-day period if good cause for an extension is shown and the reason is published in the Federal Register before the period ends. Presentation of a vehicle or equipment for repair before the date specified by a manufacturer in a notice under section 30119(a)(5) or 30121(c)(2) of this title is not a presentation under this subsection.
 
+(3) If the Secretary determines that a manufacturer's remedy program is not likely to be capable of completion within a reasonable time, the Secretary may require the manufacturer to accelerate the remedy program if the Secretary finds—
+
+&emsp;(A) that there is a risk of serious injury or death if the remedy program is not accelerated; and
+
+&emsp;(B) that acceleration of the remedy program can be reasonably achieved by expanding the sources of replacement parts, expanding the number of authorized repair facilities, or both.
+
+> The Secretary may prescribe regulations to carry out this paragraph.
+
 (d)
 
-Filing Manufacturer's Remedy Program.—A manufacturer shall file with the Secretary a copy of the manufacturer's program under this section for remedying a defect or noncompliance. The Secretary shall make the program available to the public and publish a notice of availability in the Federal Register.
+Filing Manufacturer's Remedy Program.—A manufacturer shall file with the Secretary a copy of the manufacturer's program under this section for remedying a defect or noncompliance. The Secretary shall make the program available to the public and publish a notice of availability in the Federal Register. A manufacturer's remedy program shall include a plan for reimbursing an owner or purchaser who incurred the cost of the remedy within a reasonable time in advance of the manufacturer's notification under subsection (b) or (c) of section 30118. The Secretary may prescribe regulations establishing what constitutes a reasonable time for purposes of the preceding sentence and other reasonable conditions for the reimbursement plan. In the case of a remedy program involving the replacement of tires, the manufacturer shall include a plan addressing how to prevent, to the extent reasonably within the control of the manufacturer, replaced tires from being resold for installation on a motor vehicle, and how to limit, to the extent reasonably within the control of the manufacturer, the disposal of replaced tires in landfills, particularly throughshredding, crumbling, recycling, recovery, and other alternative beneficial non-vehicular uses. The manufacturer shall include information about the implementation of such plan with each quarterly report to the Secretary regarding the progress of any notification or remedy campaigns.
 
 (e)
 
@@ -50,7 +58,7 @@ Fair Reimbursement to Dealers.—A manufacturer shall pay fair reimbursement to 
 
 (g)
 
-Nonapplication.—(1) The requirement that a remedy be provided without charge does not apply if the motor vehicle or replacement equipment was bought by the first purchaser more than 8 calendar years, or the tire, including an original equipment tire, was bought by the first purchaser more than 3 calendar years, before notice is given under section 30118(c) of this title or an order is issued under section 30118(b) of this title, whichever is earlier.
+Nonapplication.—(1) The requirement that a remedy be provided without charge does not apply if the motor vehicle or replacement equipment was bought by the first purchaser more than 10 calendar years, or the tire, including an original equipment tire, was bought by the first purchaser more than 5 calendar years, before notice is given under section 30118(c) of this title or an order is issued under section 30118(b) of this title, whichever is earlier.
 
 (2) This section does not apply during any period in which enforcement of an order under section 30118(b) of this title is restrained or the order is set aside in a civil action to which section 30121(d) of this title applies.
 
@@ -68,7 +76,15 @@ Limitation on Sale or Lease.—(1) If notification is required by an order under
 
 (2) This subsection does not prohibit a dealer from offering for sale or lease the vehicle or equipment.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 952; Pub. L. 105–178, title VII, §7106(a), June 9, 1998, 112 Stat. 467.)
+(j)
+
+Prohibition on Sales of Replaced Equipment.—No person may sell or lease any motor vehicle equipment (including a tire), for installation on a motor vehicle, that is the subject of a decision under section 30118(b) or a notice required under section 30118(c) in a condition that it may be reasonably used for its original purpose unless—
+
+&emsp;(1) the defect or noncompliance is remedied as required by this section before delivery under the sale or lease; or
+
+&emsp;(2) notification of the defect or noncompliance is required under section 30118(b) but enforcement of the order is set aside in a civil action to which section 30121(d) applies.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 952; Pub. L. 105–178, title VII, §7106(a), June 9, 1998, 112 Stat. 467; Pub. L. 106–414, §§4, 6–8, Nov. 1, 2000, 114 Stat. 1803–1805.)
 
 Historical and Revision Notes
 
@@ -164,7 +180,7 @@ Sept. 9, 1966, Pub. L. 89–563, 80 Stat. 718, §154(d); added Dec. 18, 1991, Pu
 
 In this section, the text of 15:1397(a)(1)(D) (related to 15:1414(a), (b)(1), (2) (1st sentence), and (c), and 1416) is omitted as surplus.
 
-In subsection (a)(1), before clause (A), the words “Subject to subsections (f) and (g) of this section” are added for clarity. The words “with an applicable Federal motor vehicle safety standard . . . which relates to motor vehicle safety” and “pursuant to such notification” are omitted as surplus. The words “shall remedy” are substituted for “shall cause such defect or failureto comply in such motor vehicle or such item of replacement equipment to be remedied” to eliminate unnecessary words. The words “the defect or noncompliance” are added for clarity. In clauses (A) and (B), the words “without charge” are omitted as unnecessary because of the words “without charge” in this subsection before this clause (A). In clause (A), the words “presented for remedy pursuant to such notification” and “of such motor vehicle in full” are omitted as surplus.
+In subsection (a)(1), before clause (A), the words “Subject to subsections (f) and (g) of this section” are added for clarity. The words “with an applicable Federal motor vehicle safety standard . . . which relates to motor vehicle safety” and “pursuant to such notification” are omitted as surplus. The words “shall remedy” are substituted for “shall cause such defect or failure to comply in such motor vehicle or such item of replacement equipment to be remedied” to eliminate unnecessary words. The words “the defect or noncompliance” are added for clarity. In clauses (A) and (B), the words “without charge” are omitted as unnecessary because of the words “without charge” in this subsection before this clause (A). In clause (A), the words “presented for remedy pursuant to such notification” and “of such motor vehicle in full” are omitted as surplus.
 
 Subsection (a)(2) is substituted for 15:1414(a)(2)(A) (last sentence) for clarity.
 
@@ -186,9 +202,19 @@ In subsection (h), the words “any requirement under”, “or to remedy”, an
 
 #### Amendments
 
+2000—Subsec. (c)(3). Pub. L. 106–414, §6(a), added par. (3).
+
+Subsec. (d). Pub. L. 106–414, §7, inserted at end “In the case of a remedy program involving the replacement of tires, the manufacturer shall include a plan addressing how to prevent, to the extent reasonably within the control of the manufacturer, replaced tires from being resold for installation on a motor vehicle, and how to limit, to the extent reasonably within the control of the manufacturer, the disposal of replaced tires in landfills, particularly through shredding, crumbling, recycling, recovery, and other alternative beneficial non-vehicular uses. The manufacturer shall include information about the implementation of such plan with each quarterly report to the Secretary regarding the progress of any notification or remedy campaigns.”
+
+Pub. L. 106–414, §6(b), inserted at end “A manufacturer's remedy program shall include a plan for reimbursing an owner or purchaser who incurred the cost of the remedy within a reasonable time in advance of the manufacturer's notification under subsection (b) or (c) of section 30118. The Secretary may prescribe regulations establishing what constitutes a reasonable time for purposes of the preceding sentence and other reasonable conditions for the reimbursement plan.”
+
+Subsec. (g)(1). Pub. L. 106–414, §4, substituted “10 calendar years” for “8 calendar years” and “5 calendar years” for “3 calendar years”.
+
+Subsec. (j). Pub. L. 106–414, §8, added subsec. (j).
+
 1998—Subsec. (i)(1). Pub. L. 105–178 inserted “(including retailers of motor vehicle equipment)” after “provided to a dealer” in introductory provisions.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 30102, 30103, 30117, 30118, 30119, 30121, 30141, 30147, 30165, 30167 of this title.
+This section is referred to in sections 30102, 30103, 30117, 30118, 30119, 30121, 30141, 30147, 30165, 30166, 30167 of this title.
 

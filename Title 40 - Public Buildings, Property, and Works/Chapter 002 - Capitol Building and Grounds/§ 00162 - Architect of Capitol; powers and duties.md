@@ -8,9 +8,3 @@ The Architect of the Capitol shall perform all the duties relative to the Capito
 
 Change of name of Architect of the Capitol, functions abolished, transferred, etc., by prior acts, see Codification and Prior Provisions notes set out under section 161 of this title.
 
-#### Cross References
-
-Appropriations under control of the Architect of the Capitol, see section 166a–1 of this title.
-
-Duties of Architect with respect to Library of Congress Building, see sections 141 and 143 of Title 2, The Congress.
-

@@ -20,10 +20,6 @@ Mandatory punishment provision was rephrased in the alternative.
 
 1988—Pub. L. 100–690 substituted “shall, for an attempt to commit murder be imprisoned not more than twenty years or fined under this title, or both, and for an attempt to commit manslaughter be imprisoned not more than three years or fined under this title, or both.” for “shall be fined not more than $1,000 or imprisoned not more than three years, or both”.
 
-#### Cross References
-
-Actions aboard aircraft in special aircraft jurisdiction of United States in violation of this section punishable as provided herein, see section 46506 of Title 49, Transportation.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 115, 930, 1114, 1116, 1119, 5032 of this title; title 49 section 46506.

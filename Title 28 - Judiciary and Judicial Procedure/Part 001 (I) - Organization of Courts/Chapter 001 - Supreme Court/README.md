@@ -15,16 +15,6 @@
 
 See Appendix to this title.
 
-#### Cross References
-
-Allotment of Supreme Court Justices to circuits, see section 42 of this title.
-
-Circuit justices competent to sit as judges of the courts of appeals, see section 43 of this title.
-
-Jurisdiction of Supreme Court, see section 1251 et seq. of this title.
-
-<i><sup>1</sup></i><i> Chapter heading amended by Pub. L. 92–397 without corresponding amendment of analysis.</i>
-
 
 ---
 

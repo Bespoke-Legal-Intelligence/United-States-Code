@@ -4,7 +4,3 @@ If the court having jurisdiction of proceedings in respect of any claim or compe
 
 (Mar. 4, 1927, ch. 509, §26, 44 Stat. 1438.)
 
-#### Federal Rules of Civil Procedure
-
-Judgment and costs, see rule 54, Title 28, Appendix, Judiciary and Judicial Procedure.
-

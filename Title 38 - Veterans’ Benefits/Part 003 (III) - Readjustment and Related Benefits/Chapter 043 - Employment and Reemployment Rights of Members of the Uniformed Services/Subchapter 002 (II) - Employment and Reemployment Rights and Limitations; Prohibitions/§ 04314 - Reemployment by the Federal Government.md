@@ -14,7 +14,7 @@
 
 &emsp;(B) it is impossible or unreasonable for the agency to reemploy the person.
 
-(c) If the employer of a person described in subsection (a) was, at the time such person entered the service from which such person seeks reemployment under this section, a part of thejudicial branch or the legislative branch of the Federal Government, and such employer determines that it is impossible or unreasonable for such employer to reemploy such person, such person shall, upon application to the Director of the Office of Personnel Management, be ensured an offer of employment in an alternative position in a Federal executive agency on the basis described in subsection (b).
+(c) If the employer of a person described in subsection (a) was, at the time such person entered the service from which such person seeks reemployment under this section, a part of the judicial branch or the legislative branch of the Federal Government, and such employer determines that it is impossible or unreasonable for such employer to reemploy such person, such person shall, upon application to the Director of the Office of Personnel Management, be ensured an offer of employment in an alternative position in a Federal executive agency on the basis described in subsection (b).
 
 (d) If the adjutant general of a State determines that it is impossible or unreasonable to reemploy a person who was a National Guard technician employed under section 709 of title 32, such person shall, upon application to the Director of the Office of Personnel Management, be ensured an offer of employment in an alternative position in a Federal executive agency on the basis described in subsection (b).
 

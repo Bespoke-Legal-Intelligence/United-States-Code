@@ -4,7 +4,9 @@
 
 (b) Unless otherwise provided by Act of Congress, whenever a forfeiture of property is prescribed as a penalty for violation of an Act of Congress and the seizure takes place on the high seas or on navigable waters within the admiralty and maritime jurisdiction of the United States, such forfeiture may be enforced by libel in admiralty but in cases of seizures on land the forfeiture may be enforced by a proceeding by libel which shall conform as near as may be to proceedings in admiralty.
 
-(June 25, 1948, ch. 646, 62 Stat. 974.)
+(c) If a forfeiture of property is authorized in connection with a violation of an Act of Congress, and any person is charged in an indictment or information with such violation but no specific statutory provision is made for criminal forfeiture upon conviction, the Government may include the forfeiture in the indictment or information in accordance with the Federal Rules of Criminal Procedure, and upon conviction, the court shall order the forfeiture of the property in accordance with the procedures set forth in section 413 of the Controlled Substances Act (21 U.S.C. 853), other than subsection (d) of that section.
+
+(June 25, 1948, ch. 646, 62 Stat. 974; Pub. L. 106–185, §16, Apr. 25, 2000, 114 Stat. 221.)
 
 #### Historical and Revision Notes
 
@@ -22,7 +24,19 @@ Words “Unless otherwise provided by enactment of Congress” were inserted at 
 
 Rule 81 of the Federal Rules of Civil Procedure makes such rules applicable to the appeals in cases of seizures on land. (See also <i>443 Cans of Frozen Egg Product v. United States</i>, 1912, 33 S.Ct. 50, 226 U.S. 172, 57 L.Ed. 174, and <i>Eureka Productions v. Mulligan</i>, C.C.A. 1940, 108 F.2d 760.) The proceeding, which resembles a suit in admiralty in that it is begun by a libel, is, strictly speaking, an “action at law” (The Sarah, 1823, 8 Wheat. 391, 21 U.S. 391, 5 L.Ed. 644; Morris's Cotton, 1869, 8 Wall. 507, 75 U.S. 507, 19 L.Ed. 481; Confiscation cases, 1873, 20 Wall. 92, 87 U.S. 92, 22 L.Ed. 320; <i>Eureka Productions v. Mulligan</i>, supra), even though the statute may direct that the proceedings conform to admiralty as near as may be. <i>In re Graham</i>, 1870, 10 Wall. 541, 19 L.Ed. 981, and <i>443 Cans of Frozen Egg Product v. United States</i>, supra.
 
-Subsection (b) is in conformity with Rule 21 of the Supreme Court Admiralty Rules, which recognizes that a libel may be filed upon seizure for any breach of anyenactment of Congress, whether on land or on the high seas or on navigable waters within the admiralty and maritime jurisdiction of the United States. Such rule also permits an information to be filed, but is rarely, if ever, used at present. Consequently, “information” has been omitted from the text and only “libel” is incorporated.
+Subsection (b) is in conformity with Rule 21 of the Supreme Court Admiralty Rules, which recognizes that a libel may be filed upon seizure for any breach of any enactment of Congress, whether on land or on the high seas or on navigable waters within the admiralty and maritime jurisdiction of the United States. Such rule also permits an information to be filed, but is rarely, if ever, used at present. Consequently, “information” has been omitted from the text and only “libel” is incorporated.
+
+#### References in Text
+
+The Federal Rules of Criminal Procedure, referred to in subsec. (c), are set out in the Appendix to Title 18, Crimes and Criminal Procedure.
+
+#### Amendments
+
+<b>2000</b>—Subsec. (c). Pub. L. 106–185 added subsec. (c).
+
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–185 applicable to any forfeiture proceeding commenced on or after the date that is 120 days after Apr. 25, 2000, see section 21 of Pub. L. 106–185, set out as a note under section 1324 of Title 8, Aliens and Nationality.
 
 #### Federal Civil Penalties Inflation Adjustment
 
@@ -113,8 +127,4 @@ Definition.—For purposes of subsection (a), the term ‘cost-of-living adjustm
 \[Pub. L. 104–134, title III, §31001(s)(2), Apr. 26, 1996, 110 Stat. 1321–373, provided that: “The first adjustment of a civil monetary penalty made pursuant to the amendment made by paragraph (1) \[amending Pub. L. 101–410, set out above\] may not exceed 10 percent of such penalty.”\]
 
 \[For authority of the Director of the Office of Management and Budget to consolidate reports required under the Federal Civil Penalties Inflation Adjustment Act of 1990, Pub. L. 101–410, set out above, to be submitted between Jan. 1, 1995, and Sept. 30, 1997, or to adjust their frequency and due dates, see section 404 of Pub. L. 103–356, set out as a note under section 501 of Title 31, Money and Finance.\]
-
-#### Federal Rules of Civil Procedure
-
-Admiralty and maritime rules of practice (which included libel procedures) were superseded, and civil and admiralty procedures in United States district courts were unified, effective July 1, 1966, see rule 1 and Supplemental Rules for Certain Admiralty and Maritime Claims, Appendix to this title.
 

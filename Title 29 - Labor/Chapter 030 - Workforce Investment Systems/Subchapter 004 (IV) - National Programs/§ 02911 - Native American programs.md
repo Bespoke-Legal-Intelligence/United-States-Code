@@ -184,6 +184,8 @@ Grants, contracts, and cooperative agreements entered into under this section sh
 
 The Indian Self-Determination and Education Assistance Act, referred to in subsec. (a)(2), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
 
+Section 1671 of this title, referred to in subsec. (d)(2)(B), was repealed by Pub. L. 105–220, title I, §199(b)(2), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000.
+
 The Indian Employment, Training and Related Services Demonstration Act of 1992, referred to in subsec. (f), is Pub. L. 102–477, Oct. 23, 1992, 106 Stat. 2302, as amended, which is classified generally to chapter 36 (§3401 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 3401 of Title 25 and Tables.
 
 This Act, referred to in subsec. (g)(1), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended, known as the Workforce Investment Act of 1998. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
@@ -193,6 +195,10 @@ This chapter, referred to in subsec. (h)(3)(A), (6), was in the original “this
 The Federal Advisory Committee Act, referred to in subsec. (h)(4)(G), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 The Single Audit Act of 1984, referred to in subsec. (i), is Pub. L. 98–502, Oct. 19, 1984, 98 Stat. 2327, which is classified generally to chapter 75 (§7501 et seq.) of Title 31, Money and Finance. For complete classification of this Act to the Code, see Short Title note set out under section 7501 of Title 31 and Tables.
+
+#### Prior Provisions
+
+Provisions similar to this section were contained in sections 1671 and 1673 of this title prior to repeal by Pub. L. 105–220.
 
 #### Amendments
 

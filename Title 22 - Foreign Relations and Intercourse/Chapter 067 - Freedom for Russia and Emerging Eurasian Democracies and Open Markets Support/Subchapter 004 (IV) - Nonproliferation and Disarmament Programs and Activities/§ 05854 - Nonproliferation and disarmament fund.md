@@ -36,7 +36,7 @@ Priority in carrying out this section shall be given to the activities described
 
 #### (3) Exemption from certain restrictions
 
-&emsp;Section 531(e) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2346(e)\], and any provision that corresponds to section 510 of the ForeignOperations, Export Financing, and Related Programs Appropriations Act, 1991 (relating to the prohibition on financing exports of nuclear equipment, fuel, and technology), shall not apply with respect to funds used pursuant to this subsection.
+&emsp;Section 531(e) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2346(e)\], and any provision that corresponds to section 510 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1991 (relating to the prohibition on financing exports of nuclear equipment, fuel, and technology), shall not apply with respect to funds used pursuant to this subsection.
 
 (Pub. L. 102–511, title V, §504, Oct. 24, 1992, 106 Stat. 3339.)
 
@@ -66,5 +66,5 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5852, 5855, 5857, 5858 of this title.
+This section is referred to in sections 2349bb, 5852, 5855, 5857, 5858 of this title.
 

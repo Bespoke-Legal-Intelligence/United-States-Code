@@ -94,7 +94,7 @@ Subsec. (d). Act June 25, 1948, repealed subsec. (d) relating to inspection of d
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–418 applicable with respect to investigations initiated after Aug. 23, 1988, and to reviews initiated under section 1673e(c) or 1675 of this title after Aug. 23, 1988, see section 1337(b) of Pub. L. 100–418, set out as a note under section 1671 of this title.
+Amendment by Pub. L. 100–418 applicable with respect to investigations initiated after Aug. 23, 1988, andto reviews initiated under section 1673e(c) or 1675 of this title after Aug. 23, 1988, see section 1337(b) of Pub. L. 100–418, set out as a note under section 1671 of this title.
 
 #### Effective Date of 1982 Amendment
 

@@ -193,7 +193,7 @@ As used in this section, the term “work activities” means—
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), if an individual in a family receiving assistance under the State program funded under this part refuses to engage in work required in accordance with this section, the State shall—
+&emsp;Except as provided in paragraph (2), if an individual in a family receiving assistance underthe State program funded under this part refuses to engage in work required in accordance with this section, the State shall—
 
 &emsp;&emsp;(A) reduce the amount of assistance otherwise payable to the family pro rata (or more, at the option of the State) with respect to any period during a month in which the individual so refuses; or
 
@@ -215,7 +215,7 @@ As used in this section, the term “work activities” means—
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), an adult in a family receiving assistance under a State program funded under this part attributable to funds provided by the Federal Government may filla vacant employment position in order to engage in a work activity described in subsection (d) of this section.
+&emsp;Subject to paragraph (2), an adult in a family receiving assistance under a State program funded under this part attributable to funds provided by the Federal Government may fill a vacant employment position in order to engage in a work activity described in subsection (d) of this section.
 
 #### (2) No filling of certain vacancies
 

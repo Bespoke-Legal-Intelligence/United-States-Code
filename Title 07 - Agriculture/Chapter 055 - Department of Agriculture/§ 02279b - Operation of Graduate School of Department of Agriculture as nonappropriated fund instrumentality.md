@@ -118,7 +118,7 @@ The Graduate School may enter into contracts without regard to the Federal Prope
 
 #### (j) Use of Department facilities and resources
 
-The Graduate School may use the facilities and resources of the Department of Agriculture, on the condition that any costs incurred by the Department that are attributable solely to Graduate School operations and all costs incurred by the Graduate School arising out of such operations shall be paid using funds of the Graduate School. Federal funds may not be used to pay the costs.
+The Graduate School may use the facilities and resources of the Department of Agriculture,on the condition that any costs incurred by the Department that are attributable solely to Graduate School operations and all costs incurred by the Graduate School arising out of such operations shall be paid using funds of the Graduate School. Federal funds may not be used to pay the costs.
 
 (Pub. L. 104–127, title IX, §921, Apr. 4, 1996, 110 Stat. 1191.)
 
@@ -127,8 +127,4 @@ The Graduate School may use the facilities and resources of the Department of Ag
 The Federal Advisory Committee Act, referred to in subsec. (g)(1), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 The Federal Property and Administrative Services Act of 1949, referred to in subsecs. (h)(4) and (i), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Provisions of the Act relating to management and disposal of property and to procurement procedures are classified generally to chapter 10 (§471 et seq.) of Title 40, Public Buildings, Property, and Works, and subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
-
-#### Cross References
-
-Graduate School of Department of Agriculture, providing training, obtaining goods and services, and auditing of records, see section 5922 of this title.
 

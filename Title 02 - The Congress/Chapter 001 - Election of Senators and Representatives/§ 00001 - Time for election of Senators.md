@@ -12,8 +12,6 @@ At the regular election held in any State next preceding the expiration of the t
 
 The first section of Amendment XX to the Constitution provides in part: “\* \* \* the terms of Senators and Representatives \[shall end\] at noon on the 3d day of January, of the years in which such terms would have ended if this article had not been ratified; and the terms of their successors shall then begin.”
 
-#### Cross References
-
 Time for election of Senators, see Const. Art. I, §4, cl. 1.
 
 Vacancies in the Senate, see Const. Amend. XVII.

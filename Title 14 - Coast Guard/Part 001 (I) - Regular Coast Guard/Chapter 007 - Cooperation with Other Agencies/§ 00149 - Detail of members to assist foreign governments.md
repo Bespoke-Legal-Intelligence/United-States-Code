@@ -16,7 +16,3 @@ It seems probable that the increased collaboration with foreign governments afte
 
 1984—Pub. L. 98–557 substituted reference to members for reference to officers and enlisted men in three places in text, and in catchline substituted “members” for “officers and men”.
 
-#### Cross References
-
-State Department, exchange of information with, see section 142 of this title.
-

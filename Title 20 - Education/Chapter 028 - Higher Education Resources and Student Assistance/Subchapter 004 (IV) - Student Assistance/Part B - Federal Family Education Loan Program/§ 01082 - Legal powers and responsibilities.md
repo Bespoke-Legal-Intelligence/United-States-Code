@@ -6,7 +6,7 @@ In the performance of, and with respect to, the functions, powers, and duties, v
 
 &emsp;(1) prescribe such regulations as may be necessary to carry out the purposes of this part, including regulations applicable to third party servicers (including regulations concerning financial responsibility standards for, and the assessment of liabilities for program violations against, such servicers) to establish minimum standards with respect to sound management and accountability of programs under this part, except that in no case shall damages be assessed against the United States for the actions or inactions of such servicers;
 
-&emsp;(2) sue and be sued in any court of record of a State having general jurisdiction or in any district court of the United States, and such district courts shall have jurisdiction of civil actions arising under this part without regard to the amount in controversy, and action instituted under this subsection by or against the Secretary shall survive notwithstandingany change in the person occupying the office of Secretary or any vacancy in that office; but no attachment, injunction, garnishment, or other similar process, mesne or final, shall be issued against the Secretary or property under the Secretary's control and nothing herein shall be construed to except litigation arising out of activities under this part from the application of sections 509, 517, 547, and 2679 of title 28;
+&emsp;(2) sue and be sued in any court of record of a State having general jurisdiction or in anydistrict court of the United States, and such district courts shall have jurisdiction of civil actions arising under this part without regard to the amount in controversy, and action instituted under this subsection by or against the Secretary shall survive notwithstanding any change in the person occupying the office of Secretary or any vacancy in that office; but no attachment, injunction, garnishment, or other similar process, mesne or final, shall be issued against the Secretary or property under the Secretary's control and nothing herein shall be construed to except litigation arising out of activities under this part from the application of sections 509, 517, 547, and 2679 of title 28;
 
 &emsp;(3) include in any contract for Federal loan insurance such terms, conditions, and covenants relating to repayment of principal and payment of interest, relating to the Secretary's obligations and rights to those of eligible lenders, and borrowers in case of default, and relating to such other matters as the Secretary determines to be necessary to assure that the purposes of this part will be achieved; and any term, condition, and covenant made pursuant to this paragraph or pursuant to any other provision of this part may be modified by the Secretary, after notice and opportunity for a hearing, if the Secretary finds that the modification is necessary to protect the United States from the risk of unreasonable loss;
 
@@ -54,9 +54,9 @@ The Secretary shall, with respect to the financial operations arising by reason 
 
 &emsp;&emsp;(A) reviewing applications for loan insurance under section 1079 of this title and issuing contracts for Federal loan insurance, certificates of insurance, and certificates of comprehensive insurance coverage to eligible lenders which are financial or credit institutions subject to examination and supervision by an agency of the United States or of any State;
 
-&emsp;&emsp;(B) receiving claims for payments under section 1080(a) of this title, examining those claims, and pursuant to regulations of the Secretary, approving claims for payment, or requiring lenders to take additional collection action as a condition for payment of claims; and
+&emsp;&emsp;(B) receiving claims for payments under section 1080(a) of this title, examining those claims, and pursuant to regulations of the Secretary, approving claims for payment, orrequiring lenders to take additional collection action as a condition for payment of claims; and
 
-&emsp;&emsp;(C) certifying to the central office when collection of defaulted loans has been completed, compromising or agreeing to the modification of any Federal claim against aborrower (pursuant to regulations of the Secretary issued under subsection (a) of this section), and recommending litigation with respect to any such claim.
+&emsp;&emsp;(C) certifying to the central office when collection of defaulted loans has been completed, compromising or agreeing to the modification of any Federal claim against a borrower (pursuant to regulations of the Secretary issued under subsection (a) of this section), and recommending litigation with respect to any such claim.
 
 #### (e) Use of information on borrowers
 
@@ -116,11 +116,11 @@ Notwithstanding any other provision of law, the Secretary may provide to eligibl
 
 #### (5) Assignees not liable for violations by others
 
-&emsp;If a loan affected by a violation, failure, or substantial misrepresentation is assigned to another holder, the lender or guaranty agency responsible for the violation, failure, or substantial misrepresentation shall remain liable for any civil money penalty provided for under paragraph (1) of this subsection, but the assignee shall not be liable for any such civil money penalty.
+&emsp;If a loan affected by a violation, failure, or substantial misrepresentation is assigned to another holder, the lender or guaranty agency responsible for the violation, failure, or substantial misrepresentation shall remain liablefor any civil money penalty provided for under paragraph (1) of this subsection, but the assignee shall not be liable for any such civil money penalty.
 
 #### (6) Compromise
 
-&emsp;Until a matter is referred to the Attorney General, any civil penalty under paragraph (1)of this subsection may be compromised by the Secretary. In determining the amount of such penalty, or the amount agreed upon in compromise, the Secretary shall consider the appropriateness of the penalty to the resources of the lender or guaranty agency subject to the determination; the gravity of the violation, failure, or substantial misrepresentation; the frequency and persistence of the violation, failure, or substantial misrepresentation; and the amount of any losses resulting from the violation, failure, or substantial misrepresentation. The amount of such penalty, when finally determined, or the amount agreed upon in compromise, may be deducted from any sums owing by the United States to the lender or agency charged, unless the lender or agency has, in the case of a final agency determination, commenced proceedings for judicial review within 90 days of the determination, in which case the deduction may not be made during the pendency of the proceeding.
+&emsp;Until a matter is referred to the Attorney General, any civil penalty under paragraph (1) of this subsection may be compromised by the Secretary. In determining the amount of such penalty, or the amount agreed upon in compromise, the Secretary shall consider the appropriateness of the penalty to the resources of the lender or guaranty agency subject to the determination; the gravity of the violation, failure, or substantial misrepresentation; the frequency and persistence of the violation, failure, or substantial misrepresentation; and the amount of any losses resulting from the violation, failure, or substantial misrepresentation. The amount of such penalty, when finally determined, or the amount agreed upon in compromise, may be deducted from any sums owing by the United States to the lender or agency charged, unless the lender or agency has, in the case of a final agency determination, commenced proceedings for judicial review within 90 days of the determination, in which case the deduction may not be made during the pendency of the proceeding.
 
 #### (h) Authority of the Secretary to impose and enforce limitations, suspensions, and terminations
 
@@ -306,9 +306,19 @@ In the event that all other collection efforts have failed, the Secretary is aut
 
 &emsp;&emsp;&emsp;Notwithstanding any other provision of law, each loan made under a master promissory note under this subsection may be sold or assigned independently of any other loan made under the same promissory note and each such loan shall be separately enforceable in all Federal and State courts on the basis of an original or copy of the master promissory note in accordance with the terms of the master promissory note.
 
-#### (iv) Perfection of security interests in student loans
+#### (E) Perfection of security interests in student loans
 
-&emsp;&emsp;&emsp;Notwithstanding the provisions of any State law to the contrary, including the Uniform Commercial Code as in effect in any State, a security interest in loans made under this part created on behalf of any eligible lender as defined in section 1085(d) of this title may be perfected either through the taking of possession of such loans (which can be through taking possession of an original or copy of the master promissory note) or by the filing of notice of such security interest in such loans in the manner provided by such State law for perfection of security interests in accounts.
+#### (i) In general
+
+&emsp;&emsp;&emsp;Notwithstanding the provisions of any State law to the contrary, including the Uniform Commercial Code as in effect in any State, a security interest in loans made under this part, on behalf of any eligible lender (as defined in section 1085(d) of this title) shall attach, be perfected, and be assigned priority in the manner provided by the applicable State's law for perfection of security interests in accounts, as such law may be amended from time to time (including applicable transition provisions). If any such State's law provides for a statutory lien to be created in such loans, such statutory lien may be created by the entity or entities governed by such State law in accordance with the applicable statutory provisions that created such a statutory lien.
+
+#### (ii) Collateral description
+
+&emsp;&emsp;&emsp;In addition to any other method for describing collateral in a legally sufficient manner permitted under the laws of the State, the description of collateral in any financing statement filed pursuant to this subparagraph shall be deemed legally sufficient if it lists such loans, or refers to records (identifying such loans) retained by the secured party or any designee of the secured party identified in such financing statement, including the debtor or any loan servicer.
+
+#### (iii) Sales
+
+&emsp;&emsp;&emsp;Notwithstanding clauses (i) and (ii) and any provisions of any State law to the contrary, other than any such State's law providing for creation of a statutory lien, an outright sale of loans made under this part shall be effective and perfected automatically upon attachment as defined in the Uniform Commercial Code of such State.
 
 #### (2) Common deferment form
 
@@ -354,7 +364,7 @@ In the event that the Secretary has determined that a guaranty agency is unable 
 
 All officers and directors, and those employees and paid consultants of eligible institutions, eligible lenders, guaranty agencies, loan servicing agencies, accrediting agencies or associations, State licensing agencies or boards, and entities acting as secondary markets (including the Student Loan Marketing Association), who are engaged in making decisions as to the administration of any program or funds under this subchapter and part C of subchapter I of chapter 34 of title 42 or as to the eligibility of any entity or individual to participate under this subchapter and part C of subchapter I of chapter 34 of title 42, shall report to the Secretary, in such manner and at such time as the Secretary shall require, on any financial interest which such individual may hold in any other entity participating in any program assisted under this subchapter and part C of subchapter I of chapter 34 of title 42.
 
-(Pub. L. 89–329, title IV, §432, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1401; amended Pub. L. 100–50, §10(x), (y), June 3, 1987, 101 Stat. 346; Pub. L. 101–239, title II, §2006(a), Dec. 19, 1989, 103 Stat. 2118; Pub. L. 102–325, title IV, §425, July 23, 1992, 106 Stat. 543; Pub. L. 103–208, §2(k)(2), (3), Dec. 20, 1993, 107 Stat. 2485; Pub. L. 104–66, title I, §1042(e), Dec. 21, 1995, 109 Stat. 716; Pub. L. 105–244, title IV, §427, Oct. 7, 1998, 112 Stat. 1702.)
+(Pub. L. 89–329, title IV, §432, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1401; amended Pub. L. 100–50, §10(x), (y), June 3, 1987, 101 Stat. 346; Pub. L. 101–239, title II, §2006(a), Dec. 19, 1989, 103 Stat. 2118; Pub. L. 102–325, title IV, §425, July 23, 1992, 106 Stat. 543; Pub. L. 103–208, §2(k)(2), (3), Dec. 20, 1993, 107 Stat. 2485; Pub. L. 104–66, title I, §1042(e), Dec. 21, 1995, 109 Stat. 716; Pub. L. 105–244, title IV, §427, Oct. 7, 1998, 112 Stat. 1702; Pub. L. 106–554, §1(a)(1) \[title III, §311\], Dec. 21, 2000, 114 Stat. 2763, 2763A–46.)
 
 #### References in Text
 
@@ -369,6 +379,10 @@ This chapter, referred to in subsec. (<i>l</i>)(3)(C), was in the original “th
 A prior section 1082, Pub. L. 89–329, title IV, §432, Nov. 8, 1965, 79 Stat. 1246; Pub. L. 90–460, §3(d), Aug. 3, 1968, 82 Stat. 638; Pub. L. 93–604, title VII, §705(a), Jan. 2, 1975, 88 Stat. 1964; Pub. L. 94–482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2127; Pub. L. 96–88, title III, §301(b)(2), Oct. 17, 1979, 93 Stat. 678; Pub. L. 96–374, title IV, §416(c), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1421, 1503; Pub. L. 99–272, title XVI, §16024, Apr. 7, 1986, 100 Stat. 351, related to functions, powers, and duties of Secretary, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
+
+2000—Subsec. (m)(1)(D)(iv). Pub. L. 106–554, §1(a)(1) \[title III, §311(1)\], struck out heading and text of cl. (iv). Text read as follows: “Notwithstanding the provisions of any State law to the contrary, including the Uniform Commercial Code as in effect in any State, a security interest in loans made under this part created on behalf of any eligible lender as defined in section 1085(d) of this title may be perfected either through the taking of possession of such loans (which can be through taking possession of an original or copy of the master promissory note) or by the filing of notice of such security interest in such loans in the manner provided by such State law for perfection of security interests in accounts.”
+
+Subsec. (m)(1)(E). Pub. L. 106–554, §1(a)(1) \[title III, §311(2)\], added subpar. (E).
 
 1998—Subsec. (f)(1)(B). Pub. L. 105–244, §427(a)(1), substituted “section 1085(d)(1)” for “section 1085(d)(1)(D), (F), or (H)”.
 

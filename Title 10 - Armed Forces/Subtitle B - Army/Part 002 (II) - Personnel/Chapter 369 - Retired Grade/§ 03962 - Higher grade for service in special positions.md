@@ -130,10 +130,6 @@ Section 13(c) of Pub. L. 96–343 provided that:
 
 Section 38 of act Aug. 10, 1956, provided that the President, by and with the advice and consent of the Senate, could extend privilege granted by former sections 3962(a) and 8962(a) of this title to retired officers who served in grade of general or lieutenant general after Dec. 7, 1941, and before July 1, 1946.
 
-#### Cross References
-
-Permanent professors of Military Academy, see section 4336 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1406 of this title.

@@ -18,7 +18,3 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 Compensation of solicitor, see section 5315 of Title 5, Government Organization and Employees.
 
-#### Cross References
-
-Solicitor to act as Secretary of Labor, see Ex. Ord. No. 10513, set out as a note under section 3347 of Title 5, Government Organization and Employees.
-

@@ -2,7 +2,7 @@
 
 #### (a) Civil liability
 
-Except as otherwise provided in this section, any depository institution which fails to complywith any requirement imposed under this chapter or any regulation prescribed under this chapter with respect to any person other than another depository institution is liable to such person in an amount equal to the sum of—
+Except as otherwise provided in this section, any depository institution which fails to comply with any requirement imposed under this chapter or any regulation prescribed under this chapter with respect to any person other than another depository institution is liable to such person in an amount equal to the sum of—
 
 &emsp;(1) any actual damage sustained by such person as a result of the failure;
 

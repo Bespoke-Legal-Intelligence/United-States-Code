@@ -58,7 +58,7 @@ The Secretary shall use funds made available to carry out this section for activ
 
 #### (2) Increase
 
-&emsp;The Secretary may increase the non-Federal share that is required of a recipient of a grantor contract under this section after the first year such recipient receives funds under such grant or contract.
+&emsp;The Secretary may increase the non-Federal share that is required of a recipient of a grant or contract under this section after the first year such recipient receives funds under such grant or contract.
 
 #### (3) Maximum
 

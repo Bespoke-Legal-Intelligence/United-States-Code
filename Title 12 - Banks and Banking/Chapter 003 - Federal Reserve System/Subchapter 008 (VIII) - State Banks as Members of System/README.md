@@ -30,3 +30,4 @@ This subchapter is referred to in sections 349, 501, 1818 of this title; title 7
 - [&sect; 00338 - Examination of affiliates; forfeiture of membership on refusal of affiliate to give information or pay expense](%C2%A7%2000338%20-%20Examination%20of%20affiliates%3B%20forfeiture%20of%20membership%20on%20refusal%20of%20affiliate%20to%20give%20information%20or%20pay%20expense.md)
 - [&sect; 00338a - Investments to promote public welfare and community development; limitation on investments](%C2%A7%2000338a%20-%20Investments%20to%20promote%20public%20welfare%20and%20community%20development%3B%20limitation%20on%20investments.md)
 - [&sect; 00339 - Participation by State member banks in lotteries and related activities](%C2%A7%2000339%20-%20Participation%20by%20State%20member%20banks%20in%20lotteries%20and%20related%20activities.md)
+- [&sect; 00339a - Resolution of clearing banks](%C2%A7%2000339a%20-%20Resolution%20of%20clearing%20banks.md)

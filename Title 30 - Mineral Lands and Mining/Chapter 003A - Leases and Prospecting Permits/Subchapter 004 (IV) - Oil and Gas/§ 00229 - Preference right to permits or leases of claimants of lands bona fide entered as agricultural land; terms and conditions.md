@@ -4,12 +4,6 @@ In the case of lands bona fide entered as agricultural, and not withdrawn or cla
 
 (Feb. 25, 1920, ch. 85, §20, 41 Stat. 445.)
 
-#### Cross References
-
-Lands withdrawn or classified as mineral, see section 121 of this title.
-
-Surrender of leases, see section 188a of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in title 10 sections 7421, 7435.

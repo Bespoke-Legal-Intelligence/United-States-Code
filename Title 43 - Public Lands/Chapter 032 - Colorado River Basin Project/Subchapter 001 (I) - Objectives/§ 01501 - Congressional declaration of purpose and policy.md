@@ -14,7 +14,3 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 Section 101 of Pub. L. 90–537 provided: “That this Act \[enacting this chapter and sections 616aa–1, 620a–1, 620a–2, 620c–1, and 620d–1 of this title, amending sections 616hh, 620, and 620a of this title, and enacting provisions set out as notes under sections 620, 620k, and 1501 of this title\] may be cited as the ‘Colorado River Basin Project Act’.”
 
-#### Cross References
-
-Compliance with Colorado law in diversion and storage of water for projects constructed under authority of this chapter if located within and intended for benefit of Colorado only, see section 620c–1 of this title.
-

@@ -1,11 +1,5 @@
 ### <b>CHAPTER 87—WATER RESEARCH AND DEVELOPMENT</b>
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be followed by a semicolon.</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should not be capitalized.</i>
-
 
 ---
 

@@ -20,7 +20,3 @@ R.S. 428; R.S. 1554; R.S. 1555.
 
 The words “from time to time cause to be”, “transmitted to him”, and “for the purpose of being” are omitted as surplusage. The words “Marine Corps” are inserted for clarity, since the provision is interpreted as applicable thereto.
 
-#### Cross References
-
-Collection of flags, standards, and colors captured by the Army, see section 4714 of this title.
-

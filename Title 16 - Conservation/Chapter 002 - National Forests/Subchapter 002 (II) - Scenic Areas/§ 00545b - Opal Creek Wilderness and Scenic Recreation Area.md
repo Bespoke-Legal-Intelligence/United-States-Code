@@ -36,7 +36,7 @@ The purposes of this section are—
 
 &emsp;On a determination by the Secretary under paragraph (2)—
 
-&emsp;&emsp;(A) the Opal Creek Wilderness, as depicted on the map described in subsection (a)(2) of this section, is hereby designated as wilderness, subject to the provisions of the Wilderness Act of 1964 \[16 U.S.C. 1131 et seq.\], shall become a component of the National Wilderness System, and shall be known as the Opal Creek Wilderness;
+&emsp;&emsp;(A) the Opal Creek Wilderness, as depicted on the map described in subsection (a)(2) of this section, is hereby designated as wilderness, subject to the provisions of the Wilderness Act \[16 U.S.C. 1131 et seq.\], shall become a component of the National Wilderness System, and shall be known as the Opal Creek Wilderness;
 
 &emsp;&emsp;(B) the part of the Bull of the Woods Wilderness that is located in the Willamette National Forest shall be incorporated into the Opal Creek Wilderness; and
 
@@ -54,11 +54,11 @@ The purposes of this section are—
 
 &emsp;&emsp;&emsp;&emsp;(II) Ruth Quartz Mine Number 2, mineral survey number 994, as described in patent number 39–91–0012, dated February 12, 1991;
 
-&emsp;&emsp;&emsp;&emsp;(III) Morning Star Lode, mineral survey number 993, as described in patentnumber 36–91–0011, dated February 12, 1991;
+&emsp;&emsp;&emsp;&emsp;(III) Morning Star Lode, mineral survey number 993, as described in patent number 36–91–0011, dated February 12, 1991;
 
 &emsp;&emsp;&emsp;(ii) all right, title, and interest held by any entity other than the Times Mirror Land and Timber Company, its successors and assigns, in and to lands located in section 18, township 8 south, range 5 east, Marion County, Oregon, Eureka numbers 6, 7, 8, and 13 mining claims; and
 
-&emsp;&emsp;&emsp;(iii) an easement across the Hewitt, Starvation, and Poor Boy Mill Sites, mineral survey number 990, as described in patent number 36–91–0017, dated May 9, 1991. In the sole discretion of the Secretary, such easement may be limited to administrative use if an alternative access route, adequate and appropriate for public use, is provided.
+&emsp;&emsp;&emsp;(iii) an easement across the Hewitt, Starvation, and Poor Boy Mill Sites, mineral survey number 990, as described in patent number 36–91–0017, dated May 9, 1991. In the sole discretion of the Secretary, such easement may be limited toadministrative use if an alternative access route, adequate and appropriate for public use, is provided.
 
 &emsp;&emsp;(B) a binding agreement has been executed by the Secretary and the owners of record as of March 29, 1996, of the following interests, specifying the terms and conditions for the disposition of such interests to the United States Government—
 
@@ -120,7 +120,7 @@ The purposes of this section are—
 
 &emsp;&emsp;Except as provided in this subparagraph, motorized vehicles shall not be permitted in the Scenic Recreation Area. To maintain reasonable motorized and other access to recreation sites and facilities in existence on November 12, 1996, the Secretary shall prepare a transportation plan for the Scenic Recreation Area that—
 
-&emsp;&emsp;&emsp;(i) evaluates the road network within the Scenic Recreation Area to determinewhich roads should be retained and which roads should be closed;
+&emsp;&emsp;&emsp;(i) evaluates the road network within the Scenic Recreation Area to determine which roads should be retained and which roads should be closed;
 
 &emsp;&emsp;&emsp;(ii) provides guidelines for transportation and access consistent with this section;
 
@@ -208,7 +208,7 @@ The purposes of this section are—
 
 #### (D) Public trail access
 
-&emsp;&emsp;The management plan may include public trail access through section 28, township 8south, range 5 east, Willamette Meridian, to Battle Ax Creek, Opal Pool and other areas in the Opal Creek Wilderness and the Opal Creek Scenic Recreation Area.
+&emsp;&emsp;The management plan may include public trail access through section 28, township 8 south, range 5 east, Willamette Meridian, to Battle Ax Creek, Opal Pool and other areas in the Opal Creek Wilderness and the Opal Creek Scenic Recreation Area.
 
 #### (11) Participation
 
@@ -294,11 +294,11 @@ The purposes of this section are—
 
 #### (A) Response actions
 
-&emsp;&emsp;Nothing in this section shall limit the authority of the Secretary or a responsibleparty to conduct an environmental response action in the Scenic Recreation Area in connection with the release, threatened release, or cleanup of a hazardous substance, pollutant, or contaminant, including a response action conducted under the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601 et seq.).
+&emsp;&emsp;Nothing in this section shall limit the authority of the Secretary or a responsible party to conduct an environmental response action in the Scenic Recreation Area in connection with the release, threatened release, or cleanup of a hazardous substance, pollutant, or contaminant, including a response action conducted under the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601 et seq.).
 
 #### (B) Liability
 
-&emsp;&emsp;Nothing in this section shall limit the authority of the Secretary or a responsible party to recover costs related to the release, threatened release, or cleanup of any hazardous substance or pollutant or contaminant in the Scenic Recreation Area.
+&emsp;&emsp;Nothing in this section shall limit the authority of the Secretary or a responsibleparty to recover costs related to the release, threatened release, or cleanup of any hazardous substance or pollutant or contaminant in the Scenic Recreation Area.
 
 #### (3) Maps and description
 
@@ -386,11 +386,11 @@ The purposes of this section are—
 
 &emsp;&emsp;(C) as loans are repaid, make additional grants and loans with the money made available for obligation by such repayments.
 
-(Pub. L. 104–333, div. I, title X, §1023, Nov. 12, 1996, 110 Stat. 4215.)
+(Pub. L. 104–333, div. I, title X, §1023, Nov. 12, 1996, 110 Stat. 4215; Pub. L. 106–176, title I, §125, Mar. 10, 2000, 114 Stat. 30.)
 
 #### References in Text
 
-The Wilderness Act of 1964, referred to in subsec. (c)(1), probably means the Wilderness Act, Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of this title and Tables.
+The Wilderness Act, referred to in subsec. (c)(1)(A), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of this title and Tables.
 
 The Endangered Species Act, referred to in subsec. (d)(2)(B), probably means the Endangered Species Act of 1973, Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
@@ -400,9 +400,7 @@ The Oregon Wilderness Act of 1984, referred to in subsec. (d)(3)(A), is Pub. L. 
 
 The public land laws, referred to in subsec. (d)(7)(A)(i), are classified generally to Title 43, Public Lands.
 
-The mining laws, referred to in subsec. (d)(7)(A)(ii), (8)(D), are classified generally to Title 30, Mineral Lands and Mining.
-
-The mineral leasing laws, referred to in subsec. (d)(7)(A)(iii), have been defined in sections 351, 505, 530, and 541e of Title 30 to mean acts Oct. 20, 1914, ch. 330, 38 Stat. 741; Feb. 25, 1920, ch. 85, 41 Stat. 437; Apr. 17, 1926, ch. 158, 44 Stat. 301; and Feb. 7, 1927, ch. 66, 44 Stat. 1057. The act of Oct. 20, 1914, was repealed by Pub. L. 86–252, §1, Sept. 9, 1959, 73 Stat. 490. The act of Feb. 25, 1920, is known as the Mineral Leasing Act and is classified generally to chapter 3A (§181 et seq.) of Title 30. The act of Apr. 17, 1926, is classified generally to subchapter VIII (§271 et seq.) of chapter 3A of Title 30. The act of Feb. 7, 1927, is classified principally to subchapter IX (§281 et seq.) of chapter 3A of Title 30. For complete classification of these Acts to the Code, see Tables.
+The mining laws and the mineral leasing laws, referred to in subsec. (d)(7)(A)(ii), (iii), (8)(D), are classified generally to Title 30, Mineral Lands and Mining.
 
 The geothermal leasing laws, referred to in subsec. (d)(7)(A)(iii), are classified principally to chapter 23 (§1001 et seq.) of Title 30.
 
@@ -416,6 +414,10 @@ Section is comprised of section 1023 of Pub. L. 104–333. Subsec. (c)(1)(A) of 
 
 Provisions substantially identical to the text of this section were enacted by title I of div. B of Pub. L. 104–208, Sept. 30, 1996, 110 Stat. 3009–523, known as the Opal Creek Wilderness and Opal Creek Scenic Recreation Area Act of 1996.
 
+#### Amendments
+
+2000—Subsec. (c)(1)(A). Pub. L. 106–176 struck out “of 1964” after “Wilderness Act”.
+
 #### Short Title
 
 Pub. L. 104–208, div. B, title I, §101, Sept. 30, 1996, 110 Stat. 3009–523, provided that: “This title \[see Codification note above\] may be cited as the ‘Opal Creek Wilderness and Opal Creek Scenic Recreation Area Act of 1996’.”
@@ -423,4 +425,16 @@ Pub. L. 104–208, div. B, title I, §101, Sept. 30, 1996, 110 Stat. 3009–523,
 #### Termination of Advisory Councils
 
 Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+
+<i><sup>1</sup></i><i> So in original. No subpar. (B) has been enacted.</i>
+
+<i><sup>2</sup></i><i> So in original. No subpar. (B) has been enacted.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be capitalized.</i>
+
+<i><sup>4</sup></i><i> So in original. Probably should be “section”.</i>
+
+<i><sup>5</sup></i><i> So in original. The semicolon probably should be a period.</i>
+
+<i><sup>6</sup></i><i> So in original. Probably should be “if”.</i>
 

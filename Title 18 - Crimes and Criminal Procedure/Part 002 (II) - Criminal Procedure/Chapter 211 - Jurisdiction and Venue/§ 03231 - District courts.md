@@ -18,23 +18,3 @@ The language of said section 588d of title 12, U.S.C., 1940 ed., which related t
 
 The text of this section was changed by Senate amendment. See Senate Report No. 1620, amendment No. 10, 80th Cong.
 
-#### Cross References
-
-Civil jurisdiction of Federal courts, see section 1331 et seq. of Title 28, Judiciary and Judicial Procedure.
-
-Exclusive jurisdiction of Federal courts, see sections 1251, 1333, 1334, 1338, 1351, 1355, 1356 of Title 28.
-
-Jurisdiction of juvenile delinquents, see section 5033 of this title.
-
-Jurisdiction over felonies in Yellowstone National Park, see section 131 of Title 28, Judiciary and Judicial Procedure.
-
-Refusal to appear or testify before court-martial military commission, etc., jurisdiction of offense, see section 847 of Title 10, Armed Forces.
-
-Special maritime and territorial jurisdiction of the United States, see section 7 of this title.
-
-United States commissioners, jurisdiction to try petty offenses, see section 3401 of this title.
-
-Venue of civil actions, see section 1391 et seq. of Title 28, Judiciary and Judicial Procedure.
-
-Wire or oral communications, authorization for interception, to provide evidence of certain Federal and State offenses, see section 2516 of this title.
-

@@ -40,7 +40,7 @@ Before approving a management program submitted by a coastal state, the Secretar
 
 &emsp;&emsp;(H) A planning process for energy facilities likely to be located in, or which may significantly affect, the coastal zone, including a process for anticipating the management of the impacts resulting from such facilities.
 
-&emsp;&emsp;(I) A planning process for assessing the effects of, and studying and evaluating ways to control, or lessen the impact of, shoreline erosion, and to restore areas adversely affected by such erosion.
+&emsp;&emsp;(I) A planning process for assessing the effects of, and studying and evaluating ways to control, or lessen the impact of, shorelineerosion, and to restore areas adversely affected by such erosion.
 
 &emsp;(3) The State has—
 
@@ -114,7 +114,7 @@ A coastal state may amend or modify a management program which it has submitted 
 
 &emsp;(3)(A) Except as provided in subparagraph (B), a coastal state may not implement any amendment, modification, or other change as part of its approved management program unless the amendment, modification, or other change is approved by the Secretary under this subsection.
 
-&emsp;(B) The Secretary, after determining on a preliminary basis, that an amendment, modification, or other change which has been submitted for approval under this subsection is likely to meet the program approval standards in this section, may permit the State to expend funds awarded under this section to begin implementing the proposed amendment, modification, or change. This preliminary approval shall not extend for more than 6 months andmay not be renewed. A proposed amendment, modification, or change which has been given preliminary approval and is not finally approved under this paragraph shall not be considered an enforceable policy for purposes of section 1456 of this title.
+&emsp;(B) The Secretary, after determining on a preliminary basis, that an amendment, modification, or other change which has been submitted for approval under this subsection is likely to meet the program approval standards in this section, may permit the State to expend funds awarded under this section to begin implementing the proposed amendment, modification, or change. This preliminary approval shall not extend for more than 6 months and may not be renewed. A proposed amendment, modification, or change which has been given preliminary approval and is not finally approved under this paragraph shall not be considered an enforceable policy for purposes of section 1456 of this title.
 
 (Pub. L. 89–454, title III, §306, as added Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1283; amended Pub. L. 93–612, §1(2), Jan. 2, 1975, 88 Stat. 1974; Pub. L. 94–370, §5, July 26, 1976, 90 Stat. 1017; Pub. L. 96–464, §5(a), Oct. 17, 1980, 94 Stat. 2062; Pub. L. 99–272, title VI, §6043(b)(1), (c), Apr. 7, 1986, 100 Stat. 124, 125; Pub. L. 101–508, title VI, §6206(a), Nov. 5, 1990, 104 Stat. 1388–303; Pub. L. 102–587, title II, §2205(b)(1)(A), (B), (8), Nov. 4, 1992, 106 Stat. 5050, 5051.)
 
@@ -146,7 +146,7 @@ Subsec. (c)(8). Pub. L. 94–370, §5(3), inserted “planning for, and” befor
 
 Subsec. (g). Pub. L. 94–370, §5(4), inserted requirement that except for pre-Oct. 1, 1978 amendments of management programs, for purposes of complying with section 1454(b)(7), (8), and (9) of this title, no grant shall be made under this section to any coastal state after the date of an amendment until approved by Secretary.
 
-1975—Subsec. (b). Pub. L. 93–612 substituted provisos establishing maximum amount of annual grant for fiscal years 1975, 1976, and 1977, establishing a minimum of 1 per centum of the total appropriated amount, and providing for waiver of the 1 per centum minimum upon request of the coastal State, for proviso limiting an annual administrative grant to a maximum of 10 per centum and a minimum of 1 per centum of the total appropriated amount.
+1975—Subsec. (b). Pub. L. 93–612 substituted provisos establishing maximum amount of annual grant for fiscal years 1975, 1976, and 1977, establishing a minimum of 1 per centum of the total appropriated amount, and providing for waiver of the 1 per centum minimum upon request of the coastal State, for proviso limitingan annual administrative grant to a maximum of 10 per centum and a minimum of 1 per centum of the total appropriated amount.
 
 #### Effective Date of 1980 Amendment
 

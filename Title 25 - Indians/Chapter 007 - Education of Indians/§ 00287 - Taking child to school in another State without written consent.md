@@ -4,7 +4,3 @@ No Indian child shall be taken from any school in any State or Territory to a sc
 
 (June 10, 1896, ch. 398, §1, 29 Stat. 348.)
 
-#### Cross References
-
-Provisions preventing Government from assuming expense of transporting pupils beyond limits of State or territory, see section 290 of this title.
-

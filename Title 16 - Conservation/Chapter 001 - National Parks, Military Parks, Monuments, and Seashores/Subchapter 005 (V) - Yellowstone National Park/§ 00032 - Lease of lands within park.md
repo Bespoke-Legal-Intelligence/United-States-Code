@@ -16,10 +16,6 @@ The second paragraph of the section is from act Aug. 3, 1894, which contained a 
 
 A further provision that “so much of that portion of the act of March third, eighteen hundred and eighty-three, relating to the Yellowstone Park as conflict with the act, be and the same is hereby, repealed” and the portion of the act March 3, 1883, referred to in such provision, have been omitted from the Code, the last named portion having been superseded by the Acts cited to text.
 
-#### Cross References
-
-Leases of land in national parks generally, see section 3 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 33 of this title.

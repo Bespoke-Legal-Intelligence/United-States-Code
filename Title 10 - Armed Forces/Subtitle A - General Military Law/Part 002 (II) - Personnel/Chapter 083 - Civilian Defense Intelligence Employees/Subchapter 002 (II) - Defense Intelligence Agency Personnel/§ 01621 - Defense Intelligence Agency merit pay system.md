@@ -32,7 +32,7 @@ Amendment by Pub. L. 103–89 effective Nov. 1, 1993, see section 3(c) of Pub. L
 
 #### Effective Date of 1984 Amendment
 
-Section 205 of Pub. L. 98–615 provided that amendment by Pub. L. 98–615 was effective Oct. 1, 1984, and applicable with respect to pay periods commencing on or after that date, with certain exceptions and qualifications.
+Section 205 of Pub. L. 98–615 provided that amendment by Pub. L. 98–615 was effective Oct. 1, 1984, and applicable with respect to pay periods commencing on orafter that date, with certain exceptions and qualifications.
 
 #### Effective Date
 

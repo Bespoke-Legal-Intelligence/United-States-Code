@@ -30,7 +30,7 @@ Loans under this section shall be on such terms and conditions as the Governor o
 
 &emsp;(D) Within 30 days after the end of each fiscal year, the Governor shall determine to the nearest 0.01 percent the cost of money rate for the fiscal year, by calculating the sum of the results of the following calculations:
 
-&emsp;&emsp;(i) The aggregate of all amounts received by the telephone bank during the fiscal year from the issuance of class A stock, multiplied by the rate of return payable by the telephone bank during the fiscal year, as specified in section 946(c) of this title, to holders of class A stock, which product is divided by the aggregate of the amounts advanced by the telephone bank during the fiscal year.
+&emsp;&emsp;(i) The aggregate of all amounts received by the telephone bank during the fiscal yearfrom the issuance of class A stock, multiplied by the rate of return payable by the telephone bank during the fiscal year, as specified in section 946(c) of this title, to holders of class A stock, which product is divided by the aggregate of the amounts advanced by the telephone bank during the fiscal year.
 
 &emsp;&emsp;(ii) The aggregate of all amounts received by the telephone bank during the fiscal year from the issuance of class B stock, multiplied by the rate at which dividends are payable by the telephone bank during the fiscal year, as specified in section 946(d) of this title, to holders of class B stock, which product is divided by the aggregate of the amounts advanced by the telephone bank during the fiscal year. For purposes of the calculation under this subparagraph, such rate shall be zero.
 
@@ -114,13 +114,13 @@ Loans under this section shall be on such terms and conditions as the Governor o
 
 &emsp;(F)(i) Notwithstanding subparagraph (B), if a borrower holds a commitment for a loan under this section made on or after October 1, 1987, and before December 22, 1987, part or all of the proceeds of which have not been advanced as of December 22, 1987, the borrower may, until the later of the date the next advance under the loan commitment is made or 90 days after December 22, 1987, elect to have the interest rate specified in the loan commitment apply to the unadvanced portion of the loan in lieu of the rate which (but for this clause) would apply to the unadvanced portion under this paragraph. If any borrower makes an election under this clause with respect to a loan, the Governor shall adjust the interest rate which applies to the unadvanced portion of the loan accordingly.
 
-&emsp;(ii)(I) If the telephone bank, pursuant to section 947(b) of this title, issues telephone debentures on any date to refinance telephone debentures or other obligations of the telephone bank, the telephone bank shall, in addition to any interest rate reduction required by any other provision of this paragraph, for the period applicable to the advance, reduce the interest rate charged on each advance madeunder this section during the fiscal year in which the refinanced debentures or other obligations were originally issued by the amount applicable to the advance.
+&emsp;(ii)(I) If the telephone bank, pursuant to section 947(b) of this title, issues telephone debentures on any date to refinance telephone debentures or other obligations of the telephone bank, the telephone bank shall, in addition to any interest rate reduction required by any other provision of this paragraph, for the period applicable to the advance, reduce the interest rate charged on each advance made under this section during the fiscal year in which the refinanced debentures or other obligations were originally issued by the amount applicable to the advance.
 
 &emsp;(II) For purposes of subclause (I), the term “the period applicable to the advance” means the period beginning on the issue date described in subclause (I) and ending on the earlier of the date the advance matures or is completely prepaid.
 
 &emsp;(III) For purposes of subclause (I), the term “the amount applicable to the advance” means an amount which fully reflects that percentage of the funds saved by the telephone bank as a result of the refinancing which is equal to the percentage representation of the advance in all advances described in subclause (I).
 
-&emsp;(IV) Within 60 days after any issue date described in subclause (I), the Governor shall amend the loan documentation for each advance described in subclause (I), as necessary, to reflect any interest rate reduction applicable to the advance by reason of this clause, and shall notify each affected borrower of the reduction.
+&emsp;(IV) Within 60 days after any issue date described in subclause (I), the Governor shallamend the loan documentation for each advance described in subclause (I), as necessary, to reflect any interest rate reduction applicable to the advance by reason of this clause, and shall notify each affected borrower of the reduction.
 
 &emsp;(G) Within 30 days after the publication of any determination made under subparagraph (D), any affected borrower may obtain review of the determination, or any other equitable relief as may be determined appropriate, by the United States court of appeals for the judicial circuit in which the borrower does business by filing a written petition requesting the court to set aside or modify such determination. On receipt of such a petition, the clerk of the court shall transmit a copy of the petition to the Governor. On receipt of a copy of such a petition from the clerk of the court, the Governor shall file with the court the record on which the determination is based. The court shall have jurisdiction to affirm, set aside, or modify the determination.
 
@@ -172,7 +172,7 @@ Loans under this section shall be on such terms and conditions as the Governor o
 
 #### (10) Applications considered under section 935(d)(2)
 
-&emsp;On request of any applicant who is eligible for a loan under this section for which funds are not available, the applicant shall be considered to have applied for a loan under section 935(d)(2) of this title.
+&emsp;On request of any applicant who is eligible for a loan under this section for which fundsare not available, the applicant shall be considered to have applied for a loan under section 935(d)(2) of this title.
 
 #### (c) Payment schedule; adjustment; loan period
 

@@ -2,11 +2,11 @@
 
 #### (a) Filing of statement of all ownership of securities of issuer by owner of more than ten per centum of any class of security
 
-Every person who is directly or indirectly the beneficial owner of more than 10 per centum of any class of any equity security (other than an exempted security) which is registered pursuant to section 78<i>l</i> of this title, or who is a director or an officer of the issuer of such security, shall file, at the time of the registration of such security on a national securities exchange or by theeffective date of a registration statement filed pursuant to section 78<i>l</i>(g) of this title, or within ten days after he becomes such beneficial owner, director, or officer, a statement with the Commission (and, if such security is registered on a national securities exchange, also with the exchange) of the amount of all equity securities of such issuer of which he is the beneficial owner, and within ten days after the close of each calendar month thereafter, if there has been a change in such ownership during such month, shall file with the Commission (and if such security is registered on a national securities exchange, shall also file with the exchange), a statement indicating his ownership at the close of the calendar month and such changes in his ownership as have occurred during such calendar month.
+Every person who is directly or indirectly the beneficial owner of more than 10 per centum of any class of any equity security (other than an exempted security) which is registered pursuant to section 78<i>l</i> of this title, or who is a director or an officer of the issuer of such security, shall file, at the time of the registration of such security on a national securities exchange or by the effective date of a registration statement filed pursuant to section 78<i>l</i>(g) of this title, or within ten days after he becomes such beneficial owner, director, or officer, a statement with the Commission (and, if such security is registered on a national securities exchange, also with the exchange) of the amount of all equity securities of such issuer of which he is the beneficial owner, and within ten days after the close of each calendar month thereafter, if there has been a change in such ownership or if such person shall have purchased or sold a security-based swap agreement (as defined in section 206B of the Gramm-Leach-Bliley Act) involving such equity security during such month, shall file with the Commission (and if such security is registered on a national securities exchange, shall also file with the exchange), a statement indicating his ownership at the close of the calendar month and such changes in his ownership and such purchases and sales of such security-based swap agreements as have occurred during such calendar month.
 
 #### (b) Profits from purchase and sale of security within six months
 
-For the purpose of preventing the unfair use of information which may have been obtained by such beneficial owner, director, or officer by reason of his relationship to the issuer, any profit realized by him from any purchase and sale, or any sale and purchase, of any equity security of such issuer (other than an exempted security) within any period of less than six months, unless such security was acquired in good faith in connection with a debt previously contracted, shall inure to and be recoverable by the issuer, irrespective of any intention on the part of such beneficial owner, director, or officer in entering into such transaction of holding the security purchased or of not repurchasing the security sold for a period exceeding six months. Suit to recover such profit may be instituted at law or in equity in any court of competent jurisdiction by the issuer, or by the owner of any security of the issuer in the name and in behalf of the issuer if the issuer shall fail or refuse to bring such suit within sixty days after request or shall fail diligently to prosecute the same thereafter; but no such suit shall be brought more than two years after the date such profit was realized. This subsection shall not be construed to cover any transaction where such beneficial owner was not such both at the time of the purchase and sale, or the sale and purchase, of the security involved, or any transaction or transactions which the Commission by rules and regulations may exempt as not comprehended within the purpose of this subsection.
+For the purpose of preventing the unfair use of information which may have been obtained by such beneficial owner, director, or officer by reason of his relationship to the issuer, any profit realized by him from any purchase and sale, or any sale and purchase, of any equity security of such issuer (other than an exempted security) or a security-based swap agreement (as defined in section 206B of the Gramm-Leach-Bliley Act) involving any such equity security within any period of less than six months, unless such security or security-based swap agreement was acquired in good faith in connection with a debt previously contracted, shall inure to and be recoverable by the issuer, irrespective of any intention on the part of such beneficial owner, director, or officer in entering into such transaction of holding the security or security-based swap agreement purchased or of not repurchasing the security or security-based swap agreement sold for a period exceeding six months. Suit to recover such profit may be instituted at law or in equity in any court of competent jurisdiction by the issuer, or by the owner of any security of the issuer in the name and in behalf of the issuer if the issuer shall fail or refuse to bring such suit within sixty days after request or shall fail diligently to prosecute the same thereafter; but no such suit shall be brought more than two years after the date such profit was realized. This subsection shall not be construed to cover any transaction where such beneficial owner was not such both at the time of the purchase and sale, or the sale and purchase, of the security or security-based swap agreement (as defined in section 206B of the Gramm-Leach-Bliley Act) involved, or any transaction or transactions which the Commission by rules and regulations may exempt as not comprehended within the purpose of this subsection.
 
 #### (c) Conditions for sale of security by beneficial owner, director, or officer
 
@@ -20,9 +20,27 @@ The provisions of subsection (b) of this section shall not apply to any purchase
 
 The provisions of this section shall not apply to foreign or domestic arbitrage transactions unless made in contravention of such rules and regulations as the Commission may adopt in order to carry out the purposes of this section.
 
-(June 6, 1934, ch. 404, title I, §16, 48 Stat. 896; Pub. L. 88–467, §8, Aug. 20, 1964, 78 Stat. 579.)
+#### (f) Treatment of transactions in security futures products
+
+The provisions of this section shall apply to ownership of and transactions in security futures products.
+
+#### (g) Limitation on Commission authority
+
+The authority of the Commission under this section with respect to security-based swap agreements (as defined in section 206B of the Gramm-Leach-Bliley Act) shall be subject to the restrictions and limitations of section 78c–1(b) of this title.
+
+(June 6, 1934, ch. 404, title I, §16, 48 Stat. 896; Pub. L. 88–467, §8, Aug. 20, 1964, 78 Stat. 579; Pub. L. 106–554, §1(a)(5) \[title II, §208(b)(3), title III, §303(g), (h)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–435, 2763A–455, 2763A–456.)
+
+#### References in Text
+
+Section 206B of the Gramm-Leach-Bliley Act, referred to in subsecs. (a), (b), and (g), is section 206B of Pub. L. 106–102, which is set out in a note under section 78c of this title.
 
 #### Amendments
+
+2000—Subsecs. (a), (b). Pub. L. 106–554, §1(a)(5) \[title III, §303(g)\], amended subsecs. (a) and (b) generally, revising provisions to extend application to security-based swap agreements.
+
+Subsec. (f). Pub. L. 106–554, §1(a)(5) \[title II, §208(b)(3)\], added subsec. (f).
+
+Subsec. (g). Pub. L. 106–554, §1(a)(5) \[title III, §303(h)\], added subsec. (g).
 
 1964—Subsec. (a). Pub. L. 88–467, §8(a), substituted “registered pursuant to section 78<i>l</i> of this title” for “registered on a national securities exchange”, “Commission (and, if such security is registered on a national securities exchange, also with the exchange)” for “exchange (and a duplicate original thereof with the Commission)”, “a change” for “any change”, and “Commission (and if such security is registered on a national securities exchange, shall also file with the exchange) a statement” for “exchange a statement (and a duplicate original thereof with the Commission)”, and inserted “on a national securities exchange or by the effective date of a registration statement filed pursuant to section 78<i>l</i>(g) of this title” after “registration of such security”.
 
@@ -36,23 +54,7 @@ Amendment by Pub. L. 88–467 effective Aug. 20, 1964, see section 13 of Pub. L.
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
-#### Federal Rules of Civil Procedure
-
-One form of action, see rule 2, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-#### Cross References
-
-Effective date, see section 78hh of this title.
-
-Persons owning securities or affiliated with closed-end company, duties and liabilities of, see section 80a–29 of this title.
-
-Rules and regulations, power of Commission to make, see section 78w of this title.
-
-Securities with unlisted trading privileges, exemption from the operation of this section, see section 78<i>l</i> of this title.
-
-Short sales in contravention of rules and regulations of Commission, see section 78j of this title.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 78c, 78<i>l</i>, 78hh, 79q of this title; title 26 section 83.
+This section is referred to in sections 78c, 78c–1, 78j, 78<i>l</i>, 78hh, 79q of this title; title 26 section 83.
 

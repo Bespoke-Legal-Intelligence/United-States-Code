@@ -1,6 +1,6 @@
 ### §11202. Qualified service
 
-For purposes of this chapter, a person shall be considered to have engaged in qualified service if, between August 16, 1945, and December 31, 1946, the person—
+For purposes of this chapter, a person shall be considered to have engaged in qualified serviceif, between August 16, 1945, and December 31, 1946, the person—
 
 &emsp;(1) was a member of the United States merchant marine (including the Army Transport Service and the Naval Transport Service) serving as a crewmember of a vessel that was—
 

@@ -56,7 +56,7 @@ The State may designate all or part of the State, or all or part of the client p
 
 &emsp;&emsp;&emsp;(i) awarding grants to, or entering into contracts with, such entities for the purpose of providing such services and payments directly to individuals eligible for benefits; or
 
-&emsp;&emsp;&emsp;(ii) if a State makes payments directly to eligible individuals or energy suppliers,making contracts with such entities to administer such programs, including—
+&emsp;&emsp;&emsp;(ii) if a State makes payments directly to eligible individuals or energy suppliers, making contracts with such entities to administer such programs, including—
 
 &emsp;&emsp;&emsp;&emsp;(I) determining eligibility;
 

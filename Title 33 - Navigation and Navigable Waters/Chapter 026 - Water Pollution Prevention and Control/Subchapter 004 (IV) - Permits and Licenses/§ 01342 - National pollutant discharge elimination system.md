@@ -2,7 +2,7 @@
 
 #### (a) Permits for discharge of pollutants
 
-(1) Except as provided in sections 1328 and 1344 of this title, the Administrator may, after opportunity for public hearing issue a permit for the discharge of any pollutant, or combination of pollutants, notwithstanding section 1311(a) of this title, upon condition that such discharge will meet either (A) all applicable requirements under sections 1311, 1312, 1316, 1317, 1318, and 1343 of this title, or (B) prior to the taking of necessary implementing actions relating to all such requirements, such conditions as the Administrator determines are necessary to carry out the provisions of this chapter.
+(1) Except as provided in sections 1328 and 1344 of this title, the Administrator may, after opportunity for public hearing issue a permit for the discharge of any pollutant, or combination of pollutants, notwithstanding section 1311(a) of this title, upon condition that such dischargewill meet either (A) all applicable requirements under sections 1311, 1312, 1316, 1317, 1318, and 1343 of this title, or (B) prior to the taking of necessary implementing actions relating to all such requirements, such conditions as the Administrator determines are necessary to carry out the provisions of this chapter.
 
 (2) The Administrator shall prescribe conditions for such permits to assure compliance with the requirements of paragraph (1) of this subsection, including conditions on data and information collection, reporting, and such other requirements as he deems appropriate.
 
@@ -40,7 +40,7 @@ At any time after the promulgation of the guidelines required by subsection (i)(
 
 (4) To insure that the Administrator receives notice of each application (including a copy thereof) for a permit;
 
-(5) To insure that any State (other than the permitting State), whose waters may be affected by the issuance of a permit may submit written recommendations to the permitting State (and the Administrator) with respect to any permit application and, if any part of such written recommendations are not accepted by the permitting State, that the permitting State will notifysuch affected State (and the Administrator) in writing of its failure to so accept such recommendations together with its reasons for so doing;
+(5) To insure that any State (other than the permitting State), whose waters may be affected by the issuance of a permit may submit written recommendations to the permitting State (and the Administrator) with respect to any permit application and, if any part of such written recommendations are not accepted by the permitting State, that the permitting State will notify such affected State (and the Administrator) in writing of its failure to so accept such recommendations together with its reasons for so doing;
 
 (6) To insure that no permit will be issued if, in the judgment of the Secretary of the Army acting through the Chief of Engineers, after consultation with the Secretary of the department in which the Coast Guard is operating, anchorage and navigation of any of the navigable waters would be substantially impaired thereby;
 
@@ -78,7 +78,7 @@ Limitations on partial permit program returns and withdrawals.—A State may ret
 
 #### (e) Waiver of notification requirement
 
-In accordance with guidelines promulgated pursuant to subsection (i)(2) of section 1314 of this title, the Administrator is authorized to waive the requirements of subsection (d) of this section at the time he approves a program pursuant to subsection (b) of this section for anycategory (including any class, type, or size within such category) of point sources within the State submitting such program.
+In accordance with guidelines promulgated pursuant to subsection (i)(2) of section 1314 of this title, the Administrator is authorized to waive the requirements of subsection (d) of this section at the time he approves a program pursuant to subsection (b) of this section for any category (including any class, type, or size within such category) of point sources within the State submitting such program.
 
 #### (f) Point source categories
 
@@ -234,9 +234,25 @@ To the extent a treatment works (as defined in section 1292 of this title) which
 
 &emsp;Not later than October 1, 1993, the Administrator, in consultation with State and local officials, shall issue regulations (based on the results of the studies conducted under paragraph (5)) which designate stormwater discharges, other than those discharges described in paragraph (2), to be regulated to protect water quality and shall establish a comprehensive program to regulate such designated sources. The program shall, at a minimum, (A) establish priorities, (B) establish requirements for State stormwater management programs, and (C) establish expeditious deadlines. The program may include performance standards, guidelines, guidance, and management practices and treatment requirements, as appropriate.
 
-(June 30, 1948, ch. 758, title IV, §402, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 880; amended Pub. L. 95–217, §§33(c), 50, 54(c)(1), 65, 66, Dec. 27, 1977, 91 Stat. 1577, 1588, 1591, 1599, 1600; Pub. L. 100–4, title IV, §§401–404(a), 404(c), formerly 404(d), 405, Feb. 4, 1987, 101 Stat. 65–67, 69, renumbered §404(c), Pub. L. 104–66, title II, §2021(e)(2), Dec. 21, 1995, 109 Stat. 727; Pub. L. 102–580, title III, §364, Oct. 31, 1992, 106 Stat. 4862.)
+#### (q) Combined sewer overflows
+
+#### (1) Requirement for permits, orders, and decrees
+
+&emsp;Each permit, order, or decree issued pursuant to this chapter after December 21, 2000, for a discharge from a municipal combined storm and sanitary sewer shall conform to the Combined Sewer Overflow Control Policy signed by the Administrator on April 11, 1994 (in this subsection referred to as the “CSO control policy”).
+
+#### (2) Water quality and designated use review guidance
+
+&emsp;Not later than July 31, 2001, and after providing notice and opportunity for public comment, the Administrator shall issue guidance to facilitate the conduct of water quality and designated use reviews for municipal combined sewer overflow receiving waters.
+
+#### (3) Report
+
+&emsp;Not later than September 1, 2001, the Administrator shall transmit to Congress a report on the progress made by the Environmental Protection Agency, States, and municipalities in implementing and enforcing the CSO control policy.
+
+(June 30, 1948, ch. 758, title IV, §402, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 880; amended Pub. L. 95–217, §§33(c), 50, 54(c)(1), 65, 66, Dec. 27, 1977, 91 Stat. 1577, 1588, 1591, 1599, 1600; Pub. L. 100–4, title IV, §§401–404(a), 404(c), formerly 404(d), 405, Feb. 4, 1987, 101 Stat. 65–67, 69, renumbered §404(c), Pub. L. 104–66, title II, §2021(e)(2), Dec. 21, 1995, 109 Stat. 727; Pub. L. 102–580, title III, §364, Oct. 31, 1992, 106 Stat. 4862; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §112(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–224.)
 
 #### Amendments
+
+2000—Subsec. (q). Pub. L. 106–554 added subsec. (q).
 
 1992—Subsec. (p)(1), (6). Pub. L. 102–580 substituted “October 1, 1994” for “October 1, 1992” in par. (1) and “October 1, 1993” for “October 1, 1992” in par. (6).
 
@@ -332,9 +348,9 @@ Limitations on statutory construction.—Nothing in this section \[amending sect
 
 &emsp;“(A) to require the Administrator to permit the discharge of gypsum or gypsum waste into the navigable waters,
 
-&emsp;“(B) to affect the procedures and standards applicable to the Administrator in issuing permits under section 402(a)(1)(B) of the Federal Water Pollution Control Act \[33 U.S.C. 1342(a)(1)(B)\], and
+&emsp;“(B) to affect the procedures and standards applicable to the Administrator in issuing permits undersection 402(a)(1)(B) of the Federal Water Pollution Control Act \[33 U.S.C. 1342(a)(1)(B)\], and
 
-&emsp;“(C) to affect the authority of any State to deny or condition certification under section 401 of such Act\[33 U.S.C. 1341\] with respect to the issuance of permits under section 402(a)(1)(B) of such Act.”
+&emsp;“(C) to affect the authority of any State to deny or condition certification under section 401 of such Act \[33 U.S.C. 1341\] with respect to the issuance of permits under section 402(a)(1)(B) of such Act.”
 
 #### Log Transfer Facilities
 
@@ -358,5 +374,5 @@ Section 54(c)(2) of Pub. L. 95–217 provided that any State permit program appr
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1251, 1283, 1284, 1285, 1288, 1311, 1314, 1317, 1318, 1319, 1321, 1323, 1328, 1341, 1343, 1344, 1345, 1365, 1369, 1371, 1373, 1377, 2104, 2803 of this title; title 42 sections 6903, 6924, 6925, 6939e, 9601.
+This section is referred to in sections 1251, 1283, 1284, 1285, 1288, 1301, 1311, 1314, 1317, 1318, 1319, 1321, 1323, 1328, 1341, 1343, 1344, 1345, 1365, 1369, 1371, 1373, 1377, 2104, 2803 of this title; title 42 sections 6903, 6924, 6925, 6939e, 9601.
 

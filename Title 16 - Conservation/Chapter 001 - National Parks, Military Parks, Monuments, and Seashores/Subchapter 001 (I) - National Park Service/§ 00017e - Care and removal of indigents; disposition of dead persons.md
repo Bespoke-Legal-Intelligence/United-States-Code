@@ -4,10 +4,6 @@ The Secretary of the Interior is authorized, in his discretion, to provide, out 
 
 (May 26, 1930, ch. 324, §6, 46 Stat. 382.)
 
-#### Cross References
-
-Uniform application of this section to all areas of national park system when not in conflict with specific provisions applicable to an area, see section 1c of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1c of this title.

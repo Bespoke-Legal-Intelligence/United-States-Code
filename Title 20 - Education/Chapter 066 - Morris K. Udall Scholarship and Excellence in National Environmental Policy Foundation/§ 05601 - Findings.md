@@ -6,7 +6,7 @@ The Congress finds that—
 
 &emsp;(2) Congressman Morris K. Udall has had a lasting impact on this Nation's environment, public lands, and natural resources, and has instilled in this Nation's youth a love of the air, land, and water;
 
-&emsp;(3) Congressman Morris K. Udall has been a champion of the rights of Native Americans and Alaska Natives and has used his leadership in the Congress to strengthen tribal self-governance; and
+&emsp;(3) Congressman Morris K. Udall has been a champion of the rights of Native Americansand Alaska Natives and has used his leadership in the Congress to strengthen tribal self-governance; and
 
 &emsp;(4) it is a fitting tribute to the leadership, courage, and vision Congressman Morris K. Udall exemplifies to establish in his name programs to encourage the continued use, enjoyment, education, and exploration of our Nation's rich and bountiful natural resources.
 

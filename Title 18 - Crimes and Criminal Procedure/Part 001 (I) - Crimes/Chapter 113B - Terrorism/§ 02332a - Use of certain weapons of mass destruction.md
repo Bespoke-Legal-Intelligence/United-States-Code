@@ -58,5 +58,5 @@ Subsec. (c). Pub. L. 104–132, §725(3), redesignated subsec. (b) as (c).
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 842, 1956, 2332b, 2339A, 3286, 3592 of this title.
+This section is referred to in sections 842, 1956, 2332b, 2339A, 3286, 3592 of this title; title 22 section 2296c.
 

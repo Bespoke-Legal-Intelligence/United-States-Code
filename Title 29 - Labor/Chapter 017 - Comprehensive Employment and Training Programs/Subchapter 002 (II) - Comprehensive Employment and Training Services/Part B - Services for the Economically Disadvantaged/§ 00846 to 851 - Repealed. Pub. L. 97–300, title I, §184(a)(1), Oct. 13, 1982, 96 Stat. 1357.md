@@ -28,7 +28,3 @@ Section 851, Pub. L. 93–203, title II, §216, as added Pub. L. 95–524, §2, 
 
 A prior section 851, Pub. L. 93–203, title II, §211, Dec. 28, 1973, 87 Stat. 857; Pub. L. 93–567, title I, §103, Dec. 31, 1974, 88 Stat. 1847, related to determinations by Secretary of areas of substantial unemployment, prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
-#### Effective Date of Repeal
-
-Section 184(a) of Pub. L. 97–300 provided that the repeal of these sections is effective Oct. 13, 1982.
-

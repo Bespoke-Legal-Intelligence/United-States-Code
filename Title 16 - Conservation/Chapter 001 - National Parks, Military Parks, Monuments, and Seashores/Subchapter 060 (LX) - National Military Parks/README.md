@@ -1,9 +1,5 @@
 ### SUBCHAPTER LX—NATIONAL MILITARY PARKS
 
-#### Cross References
-
-Purchase of real estate for future military parks, see section 455c of this title.
-
 
 ---
 
@@ -42,9 +38,13 @@ Purchase of real estate for future military parks, see section 455c of this titl
 - [&sect; 00423h&#8211;2 - Acquisition of lands; publication in Federal Register; administration](%C2%A7%2000423h%E2%80%932%20-%20Acquisition%20of%20lands%3B%20publication%20in%20Federal%20Register%3B%20administration.md)
 - [&sect; 00423h&#8211;3 - Authorization of appropriation](%C2%A7%2000423h%E2%80%933%20-%20Authorization%20of%20appropriation.md)
 - [&sect; 00423i - Omitted](%C2%A7%2000423i%20-%20Omitted.md)
-- [&sect; 00423j - Richmond National Battlefield Park; establishment](%C2%A7%2000423j%20-%20Richmond%20National%20Battlefield%20Park%3B%20establishment.md)
-- [&sect; 00423k - Acceptance of donations of lands and funds; acquisition of lands](%C2%A7%2000423k%20-%20Acceptance%20of%20donations%20of%20lands%20and%20funds%3B%20acquisition%20of%20lands.md)
-- [&sect; 00423l - Administration, protection, and development](%C2%A7%2000423l%20-%20Administration%2C%20protection%2C%20and%20development.md)
+- [&sect; 00423j to 423l - Repealed. Pub. L. 106&#8211;511, title V, &sect;507, Nov. 13, 2000, 114 Stat. 2376](%C2%A7%2000423j%20to%20423l%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93511%2C%20title%20V%2C%20%C2%A7507%2C%20Nov.%2013%2C%202000%2C%20114%20Stat.%202376.md)
+- [&sect; 00423l&#8211;1 - Short title; definitions](%C2%A7%2000423l%E2%80%931%20-%20Short%20title%3B%20definitions.md)
+- [&sect; 00423l&#8211;2 - Findings and purpose](%C2%A7%2000423l%E2%80%932%20-%20Findings%20and%20purpose.md)
+- [&sect; 00423l&#8211;3 - Richmond National Battlefield Park; boundaries](%C2%A7%2000423l%E2%80%933%20-%20Richmond%20National%20Battlefield%20Park%3B%20boundaries.md)
+- [&sect; 00423l&#8211;4 - Land acquisition](%C2%A7%2000423l%E2%80%934%20-%20Land%20acquisition.md)
+- [&sect; 00423l&#8211;5 - Park administration](%C2%A7%2000423l%E2%80%935%20-%20Park%20administration.md)
+- [&sect; 00423l&#8211;6 - Authorization of appropriations](%C2%A7%2000423l%E2%80%936%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 00423m - Eutaw Springs Battlefield Site; establishment; purpose](%C2%A7%2000423m%20-%20Eutaw%20Springs%20Battlefield%20Site%3B%20establishment%3B%20purpose.md)
 - [&sect; 00423n - Acceptance of lands and funds; acquisition of lands](%C2%A7%2000423n%20-%20Acceptance%20of%20lands%20and%20funds%3B%20acquisition%20of%20lands.md)
 - [&sect; 00423o - Administration, protection, and development](%C2%A7%2000423o%20-%20Administration%2C%20protection%2C%20and%20development.md)
@@ -136,6 +136,13 @@ Purchase of real estate for future military parks, see section 455c of this titl
 - [&sect; 00430f&#8211;3 - Conveyance of lands for recreational area; development and use](%C2%A7%2000430f%E2%80%933%20-%20Conveyance%20of%20lands%20for%20recreational%20area%3B%20development%20and%20use.md)
 - [&sect; 00430f&#8211;4 - Jurisdiction of lands](%C2%A7%2000430f%E2%80%934%20-%20Jurisdiction%20of%20lands.md)
 - [&sect; 00430f&#8211;5 - Siege and Battle of Corinth](%C2%A7%2000430f%E2%80%935%20-%20Siege%20and%20Battle%20of%20Corinth.md)
+- [&sect; 00430f&#8211;6 - Corinth Unit of the Shiloh National Military Park; findings and purposes](%C2%A7%2000430f%E2%80%936%20-%20Corinth%20Unit%20of%20the%20Shiloh%20National%20Military%20Park%3B%20findings%20and%20purposes.md)
+- [&sect; 00430f&#8211;7 - Definitions](%C2%A7%2000430f%E2%80%937%20-%20Definitions.md)
+- [&sect; 00430f&#8211;8 - Establishment of Unit](%C2%A7%2000430f%E2%80%938%20-%20Establishment%20of%20Unit.md)
+- [&sect; 00430f&#8211;9 - Land acquisition](%C2%A7%2000430f%E2%80%939%20-%20Land%20acquisition.md)
+- [&sect; 00430f&#8211;10 - Park management and administration](%C2%A7%2000430f%E2%80%9310%20-%20Park%20management%20and%20administration.md)
+- [&sect; 00430f&#8211;11 - Authorization of special resource study](%C2%A7%2000430f%E2%80%9311%20-%20Authorization%20of%20special%20resource%20study.md)
+- [&sect; 00430f&#8211;12 - Authorization of appropriations](%C2%A7%2000430f%E2%80%9312%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 00430g - Gettysburg National Military Park](%C2%A7%2000430g%20-%20Gettysburg%20National%20Military%20Park.md)
 - [&sect; 00430g&#8211;1 - Exchange of lands](%C2%A7%2000430g%E2%80%931%20-%20Exchange%20of%20lands.md)
 - [&sect; 00430g&#8211;2 - Exchange of lands](%C2%A7%2000430g%E2%80%932%20-%20Exchange%20of%20lands.md)

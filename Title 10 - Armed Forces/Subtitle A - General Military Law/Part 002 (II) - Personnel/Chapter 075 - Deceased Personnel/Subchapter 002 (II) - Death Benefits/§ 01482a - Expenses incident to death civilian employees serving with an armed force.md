@@ -2,7 +2,7 @@
 
 (a)
 
-Payment of Expenses.—The Secretary concerned may pay the expenses incident to the death of a civilian employee who dies of injuriesincurred in connection with the employee's service with an armed force in a contingency operation, or who dies of injuries incurred in connection with a terrorist incident occurring during the employee's service with an armed force, as follows:
+Payment of Expenses.—The Secretary concerned may pay the expenses incident to the death of a civilian employee who dies of injuries incurred in connection with the employee's service with an armed force in a contingency operation, or who dies of injuries incurred in connection with a terrorist incident occurring during the employee's service with an armed force, as follows:
 
 &emsp;(1) Round-trip transportation and prescribed allowances for one person to escort the remains of the employee to the place authorized under section 5742(b)(1) of title 5.
 

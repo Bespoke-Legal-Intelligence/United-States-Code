@@ -4,9 +4,3 @@ The adult heirs of any deceased Indian to whom a trust or other patent containin
 
 (May 27, 1902, ch. 888, §7, 32 Stat. 275.)
 
-#### Cross References
-
-Allotments of deceased Indians located within limits of National Forest in Minnesota may be relinquished by the heirs to the United States, see act May 23, 1908, ch. 193, §3, 39 Stat. 271.
-
-Certain lands not to be allotted in severalty to any Indian, see section 461 of this title.
-

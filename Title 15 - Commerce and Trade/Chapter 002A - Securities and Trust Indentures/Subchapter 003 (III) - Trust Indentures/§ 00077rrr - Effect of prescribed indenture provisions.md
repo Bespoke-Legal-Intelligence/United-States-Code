@@ -20,7 +20,3 @@ The provisions of sections 77jjj to and including 77qqq of this title that impos
 
 Subsec. (c). Pub. L. 101–550, §417(2), added subsec. (c).
 
-#### Cross References
-
-Refusal order when indenture does not conform to requirements of this section, see section 77eee of this title.
-

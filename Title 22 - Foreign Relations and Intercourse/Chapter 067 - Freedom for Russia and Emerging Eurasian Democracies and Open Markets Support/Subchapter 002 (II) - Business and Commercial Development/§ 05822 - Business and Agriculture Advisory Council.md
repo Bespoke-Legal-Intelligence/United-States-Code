@@ -4,7 +4,7 @@
 
 The President is authorized to establish an advisory council to be known as the Independent States Business and Agriculture Advisory Council (hereinafter in this section referred to as the “Council”)—
 
-&emsp;(1) to consult with and advise the President periodically regarding programs of assistance for the independent states of the former Soviet Union; and
+&emsp;(1) to consult with and advise the President periodically regarding programs of assistancefor the independent states of the former Soviet Union; and
 
 &emsp;(2) to evaluate, and consult periodically with the President regarding, the adequacy of bilateral and multilateral assistance programs that would facilitate exports by United States companies to, and investments by United States companies in, the independent states.
 

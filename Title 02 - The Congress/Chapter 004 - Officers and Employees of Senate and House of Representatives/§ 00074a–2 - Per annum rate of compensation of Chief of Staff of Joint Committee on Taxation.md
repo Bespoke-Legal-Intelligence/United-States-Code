@@ -14,7 +14,5 @@ Section effective as of beginning of first pay period which begins on or after O
 
 #### Cross References
 
-Appointment of Chief of Staff, see section 8004 of Title 26, Internal Revenue Code.
-
 Compensation of Legislative Counsel of House of Representatives, see section 282b of this title.
 

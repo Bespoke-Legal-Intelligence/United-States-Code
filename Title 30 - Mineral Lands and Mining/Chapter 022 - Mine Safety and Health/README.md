@@ -389,7 +389,7 @@
 | (e) | Premium schedule studies and investigations. |
 | (f) | Regulations relating to premium rates. |
 | (g) | Black Lung Compensation Insurance Fund. |
-| (h) | Annual report to Congress. |
+| (h) | Omitted. |
 | (i) | Authorization of appropriations. |
 | [944\.](Subchapter%20004%20%28IV%29%20-%20Black%20Lung%20Benefits/Part%20C%20-%20Claims%20for%20Benefits%20After%20December%2031%2C%201973/%C2%A7%2000944%20-%20Statement%20of%20reasons%20for%20denial%20of%20claim.md) | Statement of reasons for denial of claim. |
 | [945\.](Subchapter%20004%20%28IV%29%20-%20Black%20Lung%20Benefits/Part%20C%20-%20Claims%20for%20Benefits%20After%20December%2031%2C%201973/%C2%A7%2000945%20-%20Review%20of%20claims%20pending%20on%2C%20or%20denied%20on%20or%20before%2C%20March%201%2C%201978.md) | Review of claims pending on, or denied on or before, March 1, 1978. |

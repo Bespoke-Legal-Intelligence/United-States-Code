@@ -44,19 +44,33 @@ As used in this section the “regular rate” at which an employee is employed 
 
 &emsp;(2) payments made for occasional periods when no work is performed due to vacation, holiday, illness, failure of the employer to provide sufficient work, or other similar cause; reasonable payments for traveling expenses, or other expenses, incurred by an employee in the furtherance of his employer's interests and properly reimbursable by the employer; and other similar payments to an employee which are not made as compensation for his hours of employment;
 
-&emsp;(3) Sums <sup>1</sup> paid in recognition of services performed during a given period if either, (a) both the fact that payment is to be made and the amount of the payment are determined at the sole discretion of the employer at or near the end of the period and not pursuant to any prior contract, agreement, or promise causing the employee to expect such payments regularly; or (b) the payments are made pursuantto a bona fide profit-sharing plan or trust or bona fide thrift or savings plan, meeting the requirements of the Administrator set forth in appropriate regulations which he shall issue, having due regard among other relevant factors, to the extent to which the amounts paid to the employee are determined without regard to hours of work, production, or efficiency; or (c) the payments are talent fees (as such talent fees are defined and delimited by regulations of the Administrator) paid to performers, including announcers, on radio and television programs;
+&emsp;(3) Sums <sup>1</sup> paid in recognition of services performed during a given period if either, (a) both the fact that payment is to be made and the amount of the payment are determined at the sole discretion of the employer at or near the end of the period and not pursuant to any prior contract, agreement, or promise causing the employee to expect such payments regularly; or (b) the payments are made pursuant to a bona fide profit-sharing plan or trust or bona fide thrift or savings plan, meeting the requirements of the Administrator set forth in appropriate regulations which he shall issue, having due regard among other relevant factors, to the extent to which the amounts paid to the employee are determined without regard to hours of work, production, or efficiency; or (c) the payments are talent fees (as such talent fees are defined and delimited by regulations of the Administrator) paid to performers, including announcers, on radio and television programs;
 
 &emsp;(4) contributions irrevocably made by an employer to a trustee or third person pursuant to a bona fide plan for providing old-age, retirement, life, accident, or health insurance or similar benefits for employees;
 
 &emsp;(5) extra compensation provided by a premium rate paid for certain hours worked by the employee in any day of workweek because such hours are hours worked in excess of eight in a day or in excess of the maximum workweek applicable to such employee under subsection (a) of this section or in excess of the employee's normal working hours or regular working hours, as the case may be;
 
-&emsp;(6) extra compensation provided by a premium rate paid for work by the employee on Saturdays, Sundays, holidays, or regular days of rest, or on the sixth or seventh day of the workweek, where such premium rate is not less than one and one-half times the rate established in good faith for like work performed in nonovertime hours on other days; or
+&emsp;(6) extra compensation provided by a premium rate paid for work by the employee on Saturdays, Sundays, holidays, or regular days of rest, or on the sixth or seventh day of the workweek, where such premium rate is not less than one and one-half times the rate established in good faith for like work performed in nonovertime hours on other days;
 
-&emsp;(7) extra compensation provided by a premium rate paid to the employee, in pursuance of an applicable employment contract or collective-bargaining agreement, for work outside of the hours established in good faith by the contract or agreement as the basic, normal, or regular workday (not exceeding eight hours) or workweek (not exceeding the maximum workweek applicable to such employee under subsection (a) of this section,<sup>2</sup> where such premium rate is not less than one and one-half times the rate established in good faith by the contract or agreement for like work performed during such workday or workweek.
+&emsp;(7) extra compensation provided by a premium rate paid to the employee, in pursuance of an applicable employment contract or collective-bargaining agreement, for work outside of the hours established in good faith by the contract or agreement as the basic, normal, or regular workday (not exceeding eight hours) or workweek (not exceeding the maximum workweek applicable to such employee under subsection (a) of this section,<sup>2</sup> where such premium rate is not less than one and one-half times the rate established in good faith by the contract or agreement for like work performed during such workday or workweek; or
+
+&emsp;(8) any value or income derived from employer-provided grants or rights provided pursuant to a stock option, stock appreciation right, or bona fide employee stock purchase program which is not otherwise excludable under any of paragraphs (1) through (7) if—
+
+&emsp;&emsp;(A) grants are made pursuant to a program, the terms and conditions of which are communicated to participating employees either at the beginning of the employee's participation in the program or at the time of the grant;
+
+&emsp;&emsp;(B) in the case of stock options and stock appreciation rights, the grant or right cannot be exercisable for a period of at least 6 months after the time of grant (except that grants or rights may become exercisable because of an employee's death, disability, retirement, or a change in corporate ownership, or other circumstances permitted by regulation), and the exercise price is at least 85 percent of the fair market value of the stock at the time of grant;
+
+&emsp;&emsp;(C) exercise of any grant or right is voluntary; and
+
+&emsp;&emsp;(D) any determinations regarding the award of, and the amount of, employer-provided grants or rights that are based on performance are—
+
+&emsp;&emsp;&emsp;(i) made based upon meeting previously established performance criteria (which may include hours of work, efficiency, or productivity) of any business unit consisting of at least 10 employees or of a facility, except that, any determinations may be based on length of service or minimum schedule of hours or days of work; or
+
+&emsp;&emsp;&emsp;(ii) made based upon the past performance (which may include any criteria) of one or more employees in a given period so long as the determination is in the sole discretion of the employer and not pursuant to any prior contract.
 
 #### (f) Employment necessitating irregular hours of work
 
-No employer shall be deemed to have violated subsection (a) of this section by employing any employee for a workweek in excess of the maximum workweek applicable to such employee under subsection (a) of this section if such employee is employed pursuant to a bona fide individual contract, or pursuant to an agreement made as a result of collective bargaining by representatives of employees, if the duties of such employee necessitate irregular hours of work, and the contract or agreement (1) specifies a regular rate of pay of not less than the minimum hourly rate provided in subsection (a) or (b) of section 206 of this title (whichever may be applicable) and compensation at not less than one and one-half times such rate for all hours worked in excess of such maximum workweek, and (2) provides a weekly guaranty of pay for not more than sixty hours based on the rates so specified.
+No employer shall be deemed to have violated subsection (a) of this section by employing anyemployee for a workweek in excess of the maximum workweek applicable to such employee under subsection (a) of this section if such employee is employed pursuant to a bona fide individual contract, or pursuant to an agreement made as a result of collective bargaining by representatives of employees, if the duties of such employee necessitate irregular hours of work, and the contract or agreement (1) specifies a regular rate of pay of not less than the minimum hourly rate provided in subsection (a) or (b) of section 206 of this title (whichever may be applicable) and compensation at not less than one and one-half times such rate for all hours worked in excess of such maximum workweek, and (2) provides a weekly guaranty of pay for not more than sixty hours based on the rates so specified.
 
 #### (g) Employment at piece rates
 
@@ -70,13 +84,15 @@ No employer shall be deemed to have violated subsection (a) of this section by e
 
 > and if (i) the employee's average hourly earnings for the workweek exclusive of payments described in paragraphs (1) through (7) of subsection (e) of this section are not less than the minimum hourly rate required by applicable law, and (ii) extra overtime compensation is properly computed and paid on other forms of additional pay required to be included in computing the regular rate.
 
-#### (h) Extra compensation creditable toward overtime compensation
+#### (h) Credit toward minimum wage or overtime compensation of amounts excluded from regular rate
 
-Extra compensation paid as described in paragraphs (5), (6), and (7) of subsection (e) of this section shall be creditable toward overtime compensation payable pursuant to this section.
+(1) Except as provided in paragraph (2), sums excluded from the regular rate pursuant to subsection (e) of this section shall not be creditable toward wages required under section 206 of this title or overtime compensation required under this section.
+
+(2) Extra compensation paid as described in paragraphs (5), (6), and (7) of subsection (e) of this section shall be creditable toward overtime compensation payable pursuant to this section.
 
 #### (i) Employment by retail or service establishment
 
-No employer shall be deemed to have violated subsection (a) of this section by employing any employee of a retail or service establishment for a workweek in excess of the applicable workweek specified therein, if (1) the regular rate of pay of such employee is in excess of one and one-half times the minimum hourly rate applicable to him under section 206 of this title, and (2) more than half his compensation for a representative period (not less than one month) represents commissions on goods or services. Indetermining the proportion of compensation representing commissions, all earnings resulting from the application of a bona fide commission rate shall be deemed commissions on goods or services without regard to whether the computed commissions exceed the draw or guarantee.
+No employer shall be deemed to have violated subsection (a) of this section by employing any employee of a retail or service establishment for a workweek in excess of the applicable workweek specified therein, if (1) the regular rate of pay of such employee is in excess of one and one-half times the minimum hourly rate applicable to him under section 206 of this title, and (2) more than half his compensation for a representative period (not less than one month) represents commissions on goods or services. In determining the proportion of compensation representing commissions, all earnings resulting from the application of a bona fide commission rate shall be deemed commissions on goods or services without regard to whether the computed commissions exceed the draw or guarantee.
 
 #### (j) Employment in hospital or establishment engaged in care of sick, aged, or mentally ill
 
@@ -202,7 +218,7 @@ Any employer may employ any employee for a period or periods of not more than 10
 
 &emsp;(3) does not include job specific training.
 
-(June 25, 1938, ch. 676, §7, 52 Stat. 1063; Oct. 29, 1941, ch. 461, 55 Stat. 756; July 20, 1949, ch. 352, §1, 63 Stat. 446; Oct. 26, 1949, ch. 736, §7, 63 Stat. 912; Pub. L. 87–30, §6, May 5, 1961, 75 Stat. 69; Pub. L. 89–601, title II, §§204(c), (d), 212(b), title IV, §§401–403, Sept. 23, 1966, 80 Stat. 835–837, 841, 842; Pub. L. 93–259, §§6(c)(1), 7(b)(2), 9(a), 12(b), 19, 21(a), Apr. 8, 1974, 88 Stat. 60, 62, 64, 66, 68; Pub. L. 99–150, §§2(a), 3(a)–(c)(1), Nov. 13, 1985, 99 Stat. 787, 789; Pub. L. 101–157, §7, Nov. 17, 1989, 103 Stat. 944; Pub. L. 104–26, §2, Sept. 6, 1995, 109 Stat. 264.)
+(June 25, 1938, ch. 676, §7, 52 Stat. 1063; Oct. 29, 1941, ch. 461, 55 Stat. 756; July 20, 1949, ch. 352, §1,63 Stat. 446; Oct. 26, 1949, ch. 736, §7, 63 Stat. 912; Pub. L. 87–30, §6, May 5, 1961, 75 Stat. 69; Pub. L. 89–601, title II, §§204(c), (d), 212(b), title IV, §§401–403, Sept. 23, 1966, 80 Stat. 835–837, 841, 842; Pub. L. 93–259, §§6(c)(1), 7(b)(2), 9(a), 12(b), 19, 21(a), Apr. 8, 1974, 88 Stat. 60, 62, 64, 66, 68; Pub. L. 99–150, §§2(a), 3(a)–(c)(1), Nov. 13, 1985, 99 Stat. 787, 789; Pub. L. 101–157, §7, Nov. 17, 1989, 103 Stat. 944; Pub. L. 104–26, §2, Sept. 6, 1995, 109 Stat. 264; Pub. L. 106–202, §2(a), (b), May 18, 2000, 114 Stat. 308, 309.)
 
 #### References in Text
 
@@ -213,6 +229,10 @@ The effective date of the Fair Labor Standards Amendments of 1966, referred to i
 Section 6(c)(3) of the Fair Labor Standards Amendments of 1974, referred to in subsec. (k)(1), is Pub. L. 93–259, §6(c)(3), Apr. 8, 1974, 88 Stat. 61, which is set out as a note under section 213 of this title.
 
 #### Amendments
+
+2000—Subsec. (e)(8). Pub. L. 106–202, §2(a), added par. (8).
+
+Subsec. (h). Pub. L. 106–202, §2(b), designated existing provisions as par. (2) and added par. (1).
 
 1995—Subsec. (<i>o</i>)(6), (7). Pub. L. 104–26 added par. (6) and redesignated former par. (6) as (7).
 
@@ -286,6 +306,10 @@ Subsecs. (f) and (g). Act Oct. 26, 1949, added subsecs. (f) and (g).
 
 1941—Subsec. (b)(2) amended by act Oct. 29, 1941.
 
+#### Effective Date of 2000 Amendment
+
+Pub. L. 106–202, §2(c), May 18, 2000, 114 Stat. 309, provided that: “The amendments made by this section \[amending this section\] shall take effect on the date that is 90 days after the date of enactment of this Act \[May 18, 2000\].”
+
 #### Effective Date of 1995 Amendment
 
 Section 3 of Pub. L. 104–26 provided that: “The amendments made by section 2 \[amending this section\] shall apply after the date of the enactment of this Act \[Sept. 6, 1995\] and with respect to actions brought in a court after the date of the enactment of this Act.”
@@ -314,9 +338,23 @@ Amendment by Pub. L. 87–30 effective upon expiration of one hundred and twenty
 
 Amendment by act Oct. 26, 1949, effective ninety days after Oct. 26, 1949, see section 16(a) of act Oct. 26, 1949, set out as a note under section 202 of this title.
 
+#### Regulations
+
+Pub. L. 106–202, §2(e), May 18, 2000, 114 Stat. 309, provided that: “The Secretary of Labor may promulgate such regulations as may be necessary to carry out the amendments made by this Act \[amending this section\].”
+
 #### Transfer of Functions
 
 Functions of all other officers of Department of Labor and functions of all agencies and employees of that Department, with exception of functions vested by Administrative Procedure Act (now covered by sections 551 et seq. and 701 et seq. of Title 5, Government Organization and Employees) in hearing examiners employed by Department, transferred to Secretary of Labor, with power vested in him to authorize their performance or performance of any of his functions by any of those officers, agencies, and employees, by Reorg. Plan No. 6 of 1950, §§1, 2, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5.
+
+#### Liability of Employers
+
+Pub. L. 106–202, §2(d), May 18, 2000, 114 Stat. 309, provided that: “No employer shall be liable under the Fair Labor Standards Act of 1938 \[29 U.S.C. 201 et seq.\] for any failure to include in an employee's regular rate (as defined for purposes of such Act) any income or value derived from employer-provided grants or rights obtained pursuant to any stock option, stock appreciation right, or employee stock purchase program if—
+
+&emsp;“(1) the grants or rights were obtained before the effective date described in subsection (c) \[set out as an Effective Date of 2000 Amendment note above\];
+
+&emsp;“(2) the grants or rights were obtained within the 12-month period beginning on the effective date described in subsection (c), so long as such program was in existence on the date of enactment of this Act \[May 18, 2000\] and will require shareholder approval to modify such program to comply with section 7(e)(8) of the Fair Labor Standards Act of 1938 \[29 U.S.C. 207(e)(8)\] (as added by the amendments made by subsection (a)); or
+
+&emsp;“(3) such program is provided under a collective bargaining agreement that is in effect on the effective date described in subsection (c).”
 
 #### Compensatory Time; Collective Bargaining Agreements in Effect on April 15, 1986
 
@@ -349,28 +387,6 @@ Harry S Truman.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 #### Definition of “Administrator”
 
 The term “Administrator” as meaning the Administrator of the Wage and Hour Division, see section 204 of this title.
-
-#### Cross References
-
-Action by employee to recover unpaid overtime compensation and liquidated damages, see section 216 of this title.
-
-American Samoa employees not subject to provisions of this section, see section 213 of this title.
-
-Employees performing services within foreign country or certain territory under jurisdiction of United States as not subject to provisions of this section, see section 213 of this title.
-
-Forty-hour workweek for employees covered by Walsh-Healey Act, see section 35 of Title 41, Public Contracts.
-
-Hours of labor on public works, see section 327 et seq. of Title 40, Public Buildings, Property, and Works.
-
-Hours worked defined, see section 203 of this title.
-
-Liability for overtime work performed prior to July 20, 1949, see section 216b of this title.
-
-Preliminary and post-liminary activities not compensable, see section 254 of this title.
-
-Rate of overtime for employees covered by Walsh-Healey Act, see section 40 of Title 41, Public Contracts.
-
-Walsh-Healey Act inapplicable to employees entering into agreements with employees under paragraphs 1 or 2 of subsection (b) of this section, see section 35 of Title 41.
 
 #### Section Referred to in Other Sections
 

@@ -12,7 +12,7 @@ There is hereby created and established a permanent police force, to be known as
 
 #### Amendments
 
-1992—Cl. (10). Pub. L. 102–499 substituted “when such officials are in the United States to conduct officialbusiness with the United States Government” for “, pursuant to invitations of the United States Government”.
+1992—Cl. (10). Pub. L. 102–499 substituted “when such officials are in the United States to conduct official business with the United States Government” for “, pursuant to invitations of the United States Government”.
 
 1991—Cl. (8)(C). Pub. L. 102–138, §135(b)(1), amended subcl. (C) generally. Prior to amendment, subcl. (C) read as follows: “when the extraordinary protective need arises in association with a visit to or occurs at a permanent mission to an international organization of which the United States is a member or an observer mission invited to participate in the work of such organization, provided that such protection may be provided for motorcades and at other places associated with such a visit and may be extended at places of temporary domicile in connection with such a visit; and”.
 
@@ -77,10 +77,6 @@ Functions of all officers of Department of the Treasury, and functions of all ag
 #### Reimbursement to State and Local Governments for Protective Services for Foreign Missions
 
 Section 135(b)(5) of Pub. L. 102–138 provided that: “Protective services provided by a State or local government at any time during the period beginning on January 1, 1989, and ending on September 30, 1991, which were performed in connection with visits described in section 202(8) of title 3, United States Code, as amended by this subsection, shall be deemed to be reimbursement obligations entered into pursuant to section 208(a) of that title as if the amendment made by paragraph (1) of this subsection \[amending this section\] was in effect during that period and the services had been requested by the Secretary of State.”
-
-#### Cross References
-
-Secret Service uniforms to display U.S. flag emblem or colors, see section 210a of Title 40, Public Buildings, Property, and Works.
 
 #### Section Referred to in Other Sections
 

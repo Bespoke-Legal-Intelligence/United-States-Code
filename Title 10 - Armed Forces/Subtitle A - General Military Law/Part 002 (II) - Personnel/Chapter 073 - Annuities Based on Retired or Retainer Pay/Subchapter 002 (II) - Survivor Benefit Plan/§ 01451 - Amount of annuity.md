@@ -26,7 +26,7 @@ Rule if beneficiary eligible for social security offset computation.—If the be
 
 &emsp;(2)
 
-Reserve-component annuity.—In the case of a reserve-component annuity provided to a beneficiary under section 1450(a) of this title (other than under section 1450(a)(4)), themonthly annuity payable to the beneficiary shall be determined as follows:
+Reserve-component annuity.—In the case of a reserve-component annuity provided to a beneficiary under section 1450(a) of this title (other than under section 1450(a)(4)), the monthly annuity payable to the beneficiary shall be determined as follows:
 
 &emsp;&emsp;(A)
 
@@ -114,7 +114,7 @@ Servicemembers not yet granted retired pay.—In the case of an annuity provided
 
 &emsp;(4)
 
-Rate of pay to be used in computing annuity.—In the case of an annuity paid under section 1448(f) of this title by reason of the service of a person who first became a member of a uniformed service before September 8, 1980, the retired pay of the person providingthe annuity shall for the purposes of paragraph (1) be computed on the basis of the rates of basic pay in effect on the effective date of the annuity.
+Rate of pay to be used in computing annuity.—In the case of an annuity paid under section 1448(f) of this title by reason of the service of a person who first became a member of a uniformed service before September 8, 1980, the retired pay of the person providing the annuity shall for the purposes of paragraph (1) be computed on the basis of the rates of basic pay in effect on the effective date of the annuity.
 
 (d)
 
@@ -258,7 +258,7 @@ Percentage of increase.—The increase shall be by the same percent as the perce
 
 &emsp;(2)
 
-Recomputation at age 62.—When the retired pay of a person who first became a member of a uniformed service on or after August 1, 1986, and who is a participant in the Plan is recomputed under section 1410 of this title upon the person's becoming 62 years of age, the base amount applicable to that person shall be recomputed (effective on the effective date of the recomputation of such retired pay under section 1410 of this title) so as to be the amount equal to the amount of the base amount that would be in effect on that date if increases in such base amount under paragraph (1) had been computed as provided in paragraph (2) of section 1401a(b) of this title (rather than under paragraph (3) of that section).
+Recomputation at age 62.—When the retired pay of a person who first became a member of a uniformed service on or after August 1, 1986, and who is a participant in the Plan isrecomputed under section 1410 of this title upon the person's becoming 62 years of age, the base amount applicable to that person shall be recomputed (effective on the effective date of the recomputation of such retired pay under section 1410 of this title) so as to be the amount equal to the amount of the base amount that would be in effect on that date if increases in such base amount under paragraph (1) had been computed as provided in paragraph (2) of section 1401a(b) of this title (rather than under paragraph (3) of that section).
 
 &emsp;(3)
 
@@ -296,7 +296,7 @@ annuity—” in heading.
 
 1989—Subsec. (c)(3). Pub. L. 101–189, §1403(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “In the case of an annuity provided by a member described in section 1448(d)(1)(C) of this title, the retired pay to which the member would have been entitled when he died shall be determined based upon the rate of basic pay in effect at the time of death for the highest grade other than a commissioned officer grade in which the member served on active duty satisfactorily, as determined by the Secretary concerned.”
 
-Subsec. (c)(4). Pub. L. 101–189, §1407(a)(5), inserted “by reason of the service of a person who first became amember of a uniformed service before September 8, 1980”.
+Subsec. (c)(4). Pub. L. 101–189, §1407(a)(5), inserted “by reason of the service of a person who first became a member of a uniformed service before September 8, 1980”.
 
 Subsec. (e)(1). Pub. L. 101–189, §1407(a)(6), substituted “beneficiaries under the Plan” for “beneficiaries under the plan” in introductory provisions.
 
@@ -364,7 +364,7 @@ Amendment by Pub. L. 106–65 effective Oct. 1, 1999, see section 644 of Pub. L.
 
 #### Effective Date of 1989 Amendment
 
-Section 1407(b)(2) of Pub. L. 101–189 provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply only with respect to the computation of an annuity for a person who becomes aformer spouse under a divorce that becomes final after the date of the enactment of this Act \[Nov. 29, 1989\].”
+Section 1407(b)(2) of Pub. L. 101–189 provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply only with respect to the computation of an annuity for a person who becomes a former spouse under a divorce that becomes final after the date of the enactment of this Act \[Nov. 29, 1989\].”
 
 #### Effective Date of 1988 Amendment
 

@@ -46,7 +46,7 @@
 
 #### (4) Avoidance of conflict of interest
 
-&emsp;A person may not be an agent, broker, consultant, or other representative of the UnitedStates Government, an importer, or an importing country in connection with agricultural commodities provided under this chapter during a fiscal year in which such person provides or acts as an agent, broker, consultant, or other representative of a person engaged in providing ocean transportation or transportation-related services for such commodities. For the purpose of this paragraph, the term “transportation-related services” means lightening, stevedoring, bagging, or inland transportation to the destination point.
+&emsp;A person may not be an agent, broker, consultant, or other representative of the United States Government, an importer, or an importing country in connection with agricultural commodities provided under this chapter during a fiscal year in which such person provides or acts as an agent, broker, consultant, or other representative of a person engaged in providing ocean transportation or transportation-related services for such commodities. For the purpose of this paragraph, the term “transportation-related services” means lightening, stevedoring, bagging, or inland transportation to the destination point.
 
 #### (c) Subchapters III and III–A program
 
@@ -62,6 +62,10 @@
 
 &emsp;Freight agents employed by the Agency for International Development under subchapters III and III–A of this chapter shall not represent any foreign government during the period of their contract with the United States Government.
 
+#### (4) Prepositioning
+
+&emsp;Funds made available for fiscal years 2001 and 2002 to carry out subchapters III and III-A of this chapter may be used by the Administrator to procure, transport, and store agricultural commodities for prepositioning within the United States and in foreign countries, except that for each such fiscal year not more than $2,000,000 of such funds may be used to store agricultural commodities for prepositioning in foreign countries.
+
 #### (d) Timing of shipments
 
 In determining the timing of the shipment of agricultural commodities to be provided under this chapter, the Secretary or the Administrator, as appropriate, shall consider—
@@ -76,7 +80,7 @@ An agreement under subchapters II and III–A of this chapter shall, to the exte
 
 &emsp;(1) November 30 of the first fiscal year in which agricultural commodities are to be shipped under the agreement; or
 
-&emsp;(2) 60 days after the date of enactment of the annual Rural Development, Agriculture, and Related Agencies Appropriations Act for the first fiscal year in which agricultural commodities are to be shipped under the agreement,
+&emsp;(2) 60 days after the date of enactment of the annual Rural Development, Agriculture, andRelated Agencies Appropriations Act for the first fiscal year in which agricultural commodities are to be shipped under the agreement,
 
 > whichever is later.
 
@@ -102,7 +106,7 @@ An agreement under subchapters II and III–A of this chapter shall, to the exte
 
 &emsp;The President shall submit such report not later than January 15 of each year to the Committee on Agriculture and the Committee on Foreign Affairs of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate.
 
-(July 10, 1954, ch. 469, title IV, §407, as added Pub. L. 89–808, §2(E), Nov. 11, 1966, 80 Stat. 1537; amended Pub. L. 90–436, §8, July 29, 1968, 82 Stat. 451; Pub. L. 94–161, title II, §210, Dec. 20, 1975, 89 Stat. 854; Pub. L. 101–508, title I, §1204(b)(3), Nov. 5, 1990, 104 Stat. 1388–11; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3650; Pub. L. 102–237, title III, §§319, 324, 325, 328, 329, 332, Dec. 13, 1991, 105 Stat. 1857, 1858; Pub. L. 104–66, title I, §1011(e), Dec. 21, 1995, 109 Stat. 709; Pub. L. 104–127, title II, §216, Apr. 4, 1996, 110 Stat. 957.)
+(July 10, 1954, ch. 469, title IV, §407, as added Pub. L. 89–808, §2(E), Nov. 11, 1966, 80 Stat. 1537; amended Pub. L. 90–436, §8, July 29, 1968, 82 Stat. 451; Pub. L. 94–161, title II, §210, Dec. 20, 1975, 89 Stat. 854; Pub. L. 101–508, title I, §1204(b)(3), Nov. 5, 1990, 104 Stat. 1388–11; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3650; Pub. L. 102–237, title III, §§319, 324, 325, 328, 329, 332, Dec. 13, 1991, 105 Stat. 1857, 1858; Pub. L. 104–66, title I, §1011(e), Dec. 21, 1995, 109 Stat. 709; Pub. L. 104–127, title II, §216, Apr. 4, 1996, 110 Stat. 957; Pub. L. 106–472, title III, §310(b), Nov. 9, 2000, 114 Stat. 2076.)
 
 #### References in Text
 
@@ -111,6 +115,8 @@ The Federal Property and Administrative Services Act of 1949, referred to in sub
 The Food for Progress Act of 1985, referred to in subsec. (f)(2)(C), is Pub. L. 99–198, title XI, §1110, Dec. 23, 1985, 99 Stat. 1472, as amended, which is classified to section 1736<i>o</i> of this title.
 
 #### Amendments
+
+2000—Subsec. (c)(4). Pub. L. 106–472 added par. (4).
 
 1996—Pub. L. 104–127, §216(2)–(5), which directed amendment of subsecs. (c), (d), (g), and (h), respectively, of this section, was executed to subsecs. (b), (c), (f), and (g), respectively, of this section, to reflect the probable intent of Congress and the intervening amendment by Pub. L. 104–66 which struck out subsec. (b) and redesignated subsecs. (c) to (h) as (b) to (g), respectively. See 1995 Amendment note below.
 

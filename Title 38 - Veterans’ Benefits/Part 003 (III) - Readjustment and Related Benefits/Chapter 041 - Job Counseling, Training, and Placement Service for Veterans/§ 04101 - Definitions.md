@@ -14,7 +14,7 @@ For the purposes of this chapter—
 
 &emsp;&emsp;(A) the spouse of any person who died of a service-connected disability,
 
-&emsp;&emsp;(B) the spouse of any member of the Armed Forces serving on active duty who, at the time of application for assistance under this chapter, is listed, pursuant to section 556 of title 37 and regulations issued thereunder, by the Secretary concerned in one or more of the following categories and has been so listed for a total of more than ninety days: (i) missing in action, (ii) captured inline of duty by a hostile force, or (iii) forcibly detained or interned in line of duty by a foreign government or power, or
+&emsp;&emsp;(B) the spouse of any member of the Armed Forces serving on active duty who, at the time of application for assistance under this chapter, is listed, pursuant to section 556 of title 37 and regulations issued thereunder, by the Secretary concerned in one or more of the following categories and has been so listed for a total of more than ninety days: (i) missing in action, (ii) captured in line of duty by a hostile force, or (iii) forcibly detained or interned in line of duty by a foreign government or power, or
 
 &emsp;&emsp;(C) the spouse of any person who has a total disability permanent in nature resulting from a service-connected disability or the spouse of a veteran who died while a disability so evaluated was in existence.
 
@@ -24,7 +24,7 @@ For the purposes of this chapter—
 
 &emsp;(8) The term “Secretary” means the Secretary of Labor.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1221, §2010; renumbered §2001, Pub. L. 87–675, §1(a), Sept. 19, 1962, 76 Stat. 558; amended Pub. L. 89–358, §6(c)(1), Mar. 3, 1966, 80 Stat. 27; Pub. L. 92–540, title V, §502(a), Oct. 24, 1972, 86 Stat. 1094; Pub. L. 93–508, title IV, §401(a), Dec. 3, 1974, 88 Stat. 1592; Pub. L. 96–466, title V, §503, title VIII, §801(h), Oct. 17, 1980, 94 Stat. 2203, 2216; Pub. L. 100–323, §§3(b), 15(a)(1), May 20, 1988, 102 Stat. 562, 574; renumbered §4101 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1221, §2010; renumbered §2001, Pub. L. 87–675, §1(a), Sept. 19, 1962, 76 Stat. 558; amended Pub. L. 89–358, §6(c)(1), Mar. 3, 1966, 80 Stat. 27; Pub. L. 92–540, title V, §502(a), Oct. 24, 1972, 86 Stat. 1094; Pub.L. 93–508, title IV, §401(a), Dec. 3, 1974, 88 Stat. 1592; Pub. L. 96–466, title V, §503, title VIII, §801(h), Oct. 17, 1980, 94 Stat. 2203, 2216; Pub. L. 100–323, §§3(b), 15(a)(1), May 20, 1988, 102 Stat. 562, 574; renumbered §4101 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
 
 #### References in Text
 
@@ -80,7 +80,5 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Employment Assistance and Services for Veterans Ineligible for Assistance
 
-Pub. L. 96–466, title V, §512, Oct. 17, 1980, 94 Stat. 2207, as amended by Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(28)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–424, provided that: “The Secretary of Labor shall assure that any veteran who is made ineligible for employment assistance under chapter 41 of title 38, United States Code, by virtue of the amendments made by section 503(1) of this Act \[amending this section\] shall be provided with the employment assistance and services made available under the provisions of the Act entitled ‘An Act to provide for the establishment of a national employment system and for cooperation with theStates in the promotion of such system, and for other purposes’, approved June 6, 1933 (commonly referred to as the ‘Wagner-Peyser Act’), (29 U.S.C. 49–49k), the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\] or title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\], and other applicable provisions of law.”
-
-\[Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(f)(20), (g)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–432, 2681–435, provided that, effective July 1, 2000, section 512 of Pub. L. 96–466, set out above, is amended by striking “the Job Training Partnership Act or”.\]
+Pub. L. 96–466, title V, §512, Oct. 17, 1980, 94 Stat. 2207, as amended by Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(28), (f)(20)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–424, 2681–432, provided that: “The Secretary of Labor shall assure that any veteran who is made ineligible for employment assistance under chapter 41 of title 38, United States Code, by virtue of the amendments made by section 503(1) of this Act \[amending this section\] shall be provided with the employment assistance and services made available under the provisions of the Act entitled ‘An Act to provide for the establishment of a national employment system and for cooperation with the States in the promotion of such system, and for other purposes’, approved June 6, 1933 (commonly referred to as the ‘Wagner-Peyser Act’), (29 U.S.C. 49–49k), title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\], and other applicable provisions of law.”
 

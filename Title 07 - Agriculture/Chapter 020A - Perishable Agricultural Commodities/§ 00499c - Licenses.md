@@ -18,7 +18,7 @@ Any person violating this provision may, upon a showing satisfactory to the Secr
 
 #### (3) One-time fee for retailers and grocery wholesalers that are dealers
 
-&emsp;During the three-year period beginning on November 15, 1995, a retailer or grocery wholesaler making an initial application for a license under this section shall pay the license fee required under subparagraph (A), (B), or (C) of paragraph (4) for license renewals in the year in which the initial application is made. After the end of such period, a retailer or grocery wholesaler making an initial application for a license under this section shall pay an administrative fee equal to $100. In either case, a retailer or grocery wholesaler paying a fee under this paragraph shall not be required to pay any fee for renewal of the license for subsequent years.
+&emsp;During the three-year period beginning on November 15, 1995, a retailer or grocery wholesaler making an initial application for a license under this section shall pay the license fee required under subparagraph (A), (B), or (C) of paragraph (4) for license renewals in the year in which the initial application is made. After the end of such period, a retailer or grocery wholesaler making an initial application for a license under this section shall pay an administrative fee equal to $100. In either case, a retailer or grocery wholesaler paying a fee under this paragraph shall not be requiredto pay any fee for renewal of the license for subsequent years.
 
 #### (4) Gradual elimination of annual fees for retailers and grocery wholesalers that are dealers
 
@@ -95,14 +95,6 @@ Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L
 #### Transfer of Functions
 
 Functions vested by law (including reorganization plan) in Bureau of the Budget or Director of Bureau of the Budget transferred to President by section 101 of 1970 Reorg. Plan No. 2. Section 102 of 1970 Reorg. Plan No. 2 redesignated Bureau of the Budget as Office of Management and Budget and offices of Director of Bureau of the Budget, Deputy Director of Bureau of the Budget, and Assistant Directors of Bureau of the Budget as Director of Office of Management and Budget, Deputy Director of Office of Management and Budget, and Assistant Directors of Office of Management and Budget, respectively. Section 103 of 1970 Reorg. Plan No. 2 transferred all records, property, personnel, and funds of Bureau to Office of Management and Budget. See part I of Reorg. Plan No. 2 of 1970, set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Cross References
-
-Delegation of regulatory functions of Secretary of Agriculture, see section 450c of this title.
-
-Exclusive jurisdiction of district courts in actions for recovery of penalties, see section 1355 of Title 28, Judiciary and Judicial Procedure.
-
-Venue of action for penalty, see section 1395 of Title 28.
 
 #### Section Referred to in Other Sections
 

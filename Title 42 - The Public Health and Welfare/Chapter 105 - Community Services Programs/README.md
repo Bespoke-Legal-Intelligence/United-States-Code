@@ -241,6 +241,26 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER II–C—CHILD CARE SAFETY AND HEALTH GRANTS
+
+|  |  |
+| :--- | ---: |
+| [9859\.](Subchapter%20002%E2%80%93C%20%28II%E2%80%93C%29%20-%20Child%20Care%20Safety%20and%20Health%20Grants/%C2%A7%2009859%20-%20Definitions.md) | Definitions. |
+| [9859a.](Subchapter%20002%E2%80%93C%20%28II%E2%80%93C%29%20-%20Child%20Care%20Safety%20and%20Health%20Grants/%C2%A7%2009859a%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [9859b.](Subchapter%20002%E2%80%93C%20%28II%E2%80%93C%29%20-%20Child%20Care%20Safety%20and%20Health%20Grants/%C2%A7%2009859b%20-%20Programs.md) | Programs. |
+| [9859c.](Subchapter%20002%E2%80%93C%20%28II%E2%80%93C%29%20-%20Child%20Care%20Safety%20and%20Health%20Grants/%C2%A7%2009859c%20-%20Amounts%20reserved%3B%20allotments.md) | Amounts reserved; allotments. |
+| (a) | Amounts reserved. |
+| (b) | State allotments. |
+| (c) | Data and information. |
+| (d) | Definition. |
+| [9859d.](Subchapter%20002%E2%80%93C%20%28II%E2%80%93C%29%20-%20Child%20Care%20Safety%20and%20Health%20Grants/%C2%A7%2009859d%20-%20State%20applications.md) | State applications. |
+| [9859e.](Subchapter%20002%E2%80%93C%20%28II%E2%80%93C%29%20-%20Child%20Care%20Safety%20and%20Health%20Grants/%C2%A7%2009859e%20-%20Use%20of%20funds.md) | Use of funds. |
+| (a) | In general. |
+| (b) | Supplement, not supplant. |
+| [9859f.](Subchapter%20002%E2%80%93C%20%28II%E2%80%93C%29%20-%20Child%20Care%20Safety%20and%20Health%20Grants/%C2%A7%2009859f%20-%20Reports.md) | Reports. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### SUBCHAPTER III—FOLLOW THROUGH PROGRAMS
 
 |  |
@@ -291,6 +311,7 @@
 - [Subchapter 002 (II) - Head Start Programs](Subchapter%20002%20%28II%29%20-%20Head%20Start%20Programs/README.md)
 - [Subchapter 002&#8211;A (II&#8211;A) - Head Start Transition Project](Subchapter%20002%E2%80%93A%20%28II%E2%80%93A%29%20-%20Head%20Start%20Transition%20Project/README.md)
 - [Subchapter 002&#8211;B (II&#8211;B) - Child Care and Development Block Grant](Subchapter%20002%E2%80%93B%20%28II%E2%80%93B%29%20-%20Child%20Care%20and%20Development%20Block%20Grant/README.md)
+- [Subchapter 002&#8211;C (II&#8211;C) - Child Care Safety and Health Grants](Subchapter%20002%E2%80%93C%20%28II%E2%80%93C%29%20-%20Child%20Care%20Safety%20and%20Health%20Grants/README.md)
 - [Subchapter 003 (III) - Follow Through Programs](Subchapter%20003%20%28III%29%20-%20Follow%20Through%20Programs/README.md)
 - [Subchapter 004 (IV) - Grants to States for Planning and Development of Dependent Care Programs and for Other Purposes](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Planning%20and%20Development%20of%20Dependent%20Care%20Programs%20and%20for%20Other%20Purposes/README.md)
 - [Subchapter 005 (V) - Comprehensive Child Development Program](Subchapter%20005%20%28V%29%20-%20Comprehensive%20Child%20Development%20Program/README.md)

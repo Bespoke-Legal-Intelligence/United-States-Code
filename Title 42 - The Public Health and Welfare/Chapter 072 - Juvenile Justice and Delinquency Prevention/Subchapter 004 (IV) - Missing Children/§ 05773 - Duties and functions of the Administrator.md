@@ -120,7 +120,11 @@ Subsec. (b)(4). Pub. L. 100–690, §7285(b)(3), (4), added par. (4).
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–690 effective Oct. 1, 1988, with the report required by subsec. (a)(5) of this sectionwith respect to fiscal year 1988 to be submitted not later than Aug. 1, 1989, notwithstanding the 180-day period provided in subsec. (a)(5) of this section, see section 7296(a), (b)(3) of Pub. L. 100–690, as amended, set out as a note under section 5601 of this title.
+Amendment by Pub. L. 100–690 effective Oct. 1, 1988, with the report required by subsec. (a)(5) of this section with respect to fiscal year 1988 to be submitted not later than Aug. 1, 1989, notwithstanding the 180-day period provided in subsec. (a)(5) of this section, see section 7296(a), (b)(3) of Pub. L. 100–690, as amended, set out as a note under section 5601 of this title.
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (a)(5) of this section relating to submittal of annual report to the Speaker of the House of Representatives and the President pro tempore of the Senate, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 2nd item on page 122 of House Document No. 103–7.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -18,7 +18,7 @@ The Congress further declares that it is the purpose of the Full Employment and 
 
 #### (e) Federal controls
 
-The Congress further declares that, although it is the purpose under the Full Employment and Balanced Growth Act of 1978 \[15 U.S.C. 3101 et seq.\] to seek diligently and to encourage the voluntary cooperation of the private sector in helping to achieve the objectives of such Act, no provisions of such Act or this chapter shall be used, with respect to any portion of the privatesector of the economy, to provide for Federal Government control of production, employment, allocation of resources, or wages and prices, except to the extent authorized under other Federal laws.
+The Congress further declares that, although it is the purpose under the Full Employment and Balanced Growth Act of 1978 \[15 U.S.C. 3101 et seq.\] to seek diligently and to encourage the voluntary cooperation of the private sector in helping to achieve the objectives of such Act, no provisions of such Act or this chapter shall be used, with respect to any portion of the private sector of the economy, to provide for Federal Government control of production, employment, allocation of resources, or wages and prices, except to the extent authorized under other Federal laws.
 
 #### (f) Expansion of private employment
 
@@ -42,7 +42,7 @@ The Congress further declares that it is the purpose of the Full Employment and 
 
 #### (i) Investment needs of private enterprise
 
-The Congress further declares that it is the continuing policy and responsibility of the Federal Government, in cooperation with State and local governments, to use all practical means consistent with other essential considerations of national policy to provide sufficient incentives to assure meeting the investment needs of private enterprise, including the needs of small and medium sized businesses, in order to increase the production of goods, the provision of services, employment, the opportunity for profit, the payment of taxes, and to reduce and control inflation. To the extent it is reasonably possible to do so, private enterprise investments in depressed urban and rural areas should be promoted to reduce the high levels of unemployment that exist there.
+The Congress further declares that it is the continuing policy and responsibility of the Federal Government, in cooperation with State and local governments, to use all practical means consistent with other essential considerations ofnational policy to provide sufficient incentives to assure meeting the investment needs of private enterprise, including the needs of small and medium sized businesses, in order to increase the production of goods, the provision of services, employment, the opportunity for profit, the payment of taxes, and to reduce and control inflation. To the extent it is reasonably possible to do so, private enterprise investments in depressed urban and rural areas should be promoted to reduce the high levels of unemployment that exist there.
 
 #### (j) Reliance on private sector
 

@@ -1,6 +1,6 @@
 ### §30124. Buzzers indicating nonuse of safety belts
 
-A motor vehicle safety standard prescribed under this chapter may not require or allow amanufacturer to comply with the standard by using a safety belt interlock designed to prevent starting or operating a motor vehicle if an occupant is not using a safety belt or a buzzer designed to indicate a safety belt is not in use, except a buzzer that operates only during the 8-second period after the ignition is turned to the “start” or “on” position.
+A motor vehicle safety standard prescribed under this chapter may not require or allow a manufacturer to comply with the standard by using a safety belt interlock designed to prevent starting or operating a motor vehicle if an occupant is not using a safety belt or a buzzer designed to indicate a safety belt is not in use, except a buzzer that operates only during the 8-second period after the ignition is turned to the “start” or “on” position.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 957.)
 

@@ -124,7 +124,7 @@
 
 #### (1) Allowances to be offset from income of institutionalized spouse
 
-&emsp;After an institutionalized spouse is determined or redetermined to be eligible for medical assistance, in determining the amount of the spouse's income that is to be applied monthly to payment for the costs of care in the institution, there shall be deducted from the spouse's monthly income the following amounts in the following order:
+&emsp;After an institutionalized spouse is determined or redetermined to be eligible for medical assistance, in determining the amount of the spouse's income that is to be appliedmonthly to payment for the costs of care in the institution, there shall be deducted from the spouse's monthly income the following amounts in the following order:
 
 &emsp;&emsp;(A) A personal needs allowance (described in section 1396a(q)(1) of this title), in an amount not less than the amount specified in section 1396a(q)(2) of this title.
 
@@ -148,7 +148,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Each State shall establish a minimum monthly maintenance needs allowance foreach community spouse which, subject to subparagraph (C), is equal to or exceeds—
+&emsp;&emsp;Each State shall establish a minimum monthly maintenance needs allowance for each community spouse which, subject to subparagraph (C), is equal to or exceeds—
 
 &emsp;&emsp;&emsp;(i) the applicable percent (described in subparagraph (B)) of 1/12 of the income official poverty line (defined by the Office of Management and Budget and revised annually in accordance with section 9902(2) of this title) for a family unit of 2 members; plus
 
@@ -342,7 +342,7 @@ Section 303(g) of Pub. L. 100–360, as amended by Pub. L. 100–485, title VI, 
 
 “(C) Notwithstanding subparagraphs (A) and (B), a State may continue to apply the policies contained in the State plan as of June 30, 1988, with respect to resources disposed of before July 1, 1988, and the laws and policies established by the State as of June 30, 1988, or provided for before July 1, 1988, shall continue to apply through September 30, 1989, (and may, at a State's option continue after such date) to inter-spousal transfers occurring before October 1, 1989.
 
-“(3) The amendments made by subsection (c) \[amending sections 1382 and 1382b of this title\] shall apply to transfers occurring on or after July 1, 1988, without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.
+“(3) The amendments made by subsection (c) \[amending sections 1382 and 1382b of this title\] shall apply totransfers occurring on or after July 1, 1988, without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.
 
 “(4) The amendment made by subsection (d) \[amending section 1396a of this title\] is effective on and after April 8, 1988. The final rule of the Health Care Financing Administration published on February 8, 1988 (53 Federal Register 3586) is superseded to the extent inconsistent with the amendment made by subsection (d).
 

@@ -100,6 +100,10 @@ The Federal Property and Administrative Services Act of 1949, referred to in sub
 
 Subsec. (c)(11) to (15). Pub. L. 92–526, §1(b), added pars. (11) to (13) and redesignated former pars. (11) and (12) as (14) and (15), respectively.
 
+#### Termination of Administrative Conference of United States
+
+For termination of Administrative Conference of United States, see note set out preceding section 591 of this title.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 593 of this title.

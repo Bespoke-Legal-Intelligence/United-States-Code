@@ -80,13 +80,3 @@ Amendment by Pub. L. 98–94 effective Oct. 1, 1983, see section 1212(e) of Pub.
 
 For effective date of amendment by Pub. L. 90–168, see section 7 of Pub. L. 90–168, set out as a note under section 138 of this title.
 
-#### Cross References
-
-Air Force Reserve Forces policy committee, see section 10305 of this title.
-
-Army Reserve Forces policy committee, see section 10302 of this title.
-
-Marine Corps Reserve Policy Board, see section 10304 of this title.
-
-Naval Reserve Policy Board, see section 10303 of this title.
-

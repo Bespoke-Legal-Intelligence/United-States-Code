@@ -36,13 +36,21 @@ It is unlawful—
 
 &emsp;&emsp;&emsp;(ii) fish contained in such fishing gear;
 
-&emsp;&emsp;(L) to forcibly assault, resist, oppose, impede, intimidate, sexually harass, bribe, or interfere with any observer on a vessel underthis chapter, or any data collector employed by the National Marine Fisheries Service or under contract to any person to carry out responsibilities under this chapter;
+&emsp;&emsp;(L) to forcibly assault, resist, oppose, impede, intimidate, sexually harass, bribe, or interfere with any observer on a vessel under this chapter, or any data collector employed by the National Marine Fisheries Service or under contract to any person to carry out responsibilities under this chapter;
 
 &emsp;&emsp;(M) to engage in large-scale driftnet fishing that is subject to the jurisdiction of the United States, including use of a fishing vessel of the United States to engage in such fishing beyond the exclusive economic zone of any nation;
 
-&emsp;&emsp;(N) to strip pollock of its roe and discard the flesh of the pollock; or
+&emsp;&emsp;(N) to strip pollock of its roe and discard the flesh of the pollock;
 
-&emsp;&emsp;(O) to knowingly and willfully fail to disclose, or to falsely disclose, any financial interest as required under section 1852(j) of this title, or to knowingly vote on a Council decision in violation of section 1852(j)(7)(A) of this title.
+&emsp;&emsp;(O) to knowingly and willfully fail to disclose, or to falsely disclose, any financial interest as required under section 1852(j) of this title, or to knowingly vote on a Council decision in violation of section 1852(j)(7)(A) of this title; or
+
+&emsp;&emsp;(P)(i) to remove any of the fins of a shark (including the tail) and discard the carcass of the shark at sea;
+
+&emsp;&emsp;(ii) to have custody, control, or possession of any such fin aboard a fishing vessel without the corresponding carcass; or
+
+&emsp;&emsp;(iii) to land any such fin without the corresponding carcass.
+
+> &emsp;For purposes of subparagraph (P) there is a rebuttable presumption that any shark fins landed from a fishing vessel or found on board a fishing vessel were taken, held, or landed in violation of subparagraph (P) if the total weight of shark fins landed or found on board exceeds 5 percent of the total weight of shark carcasses landed or found on board.
 
 &emsp;(2) for any vessel other than a vessel of the United States, and for the owner or operator of any vessel other than a vessel of the United States, to engage—
 
@@ -58,7 +66,7 @@ It is unlawful—
 
 &emsp;&emsp;(C) except as permitted under section 1856(c) of this title, in fish processing (as defined in paragraph (4)(A) of such section) within the internal waters of a State (as defined in paragraph (4)(B) of such section);
 
-&emsp;(3) for any vessel of the United States, and for the owner or operator of any vessel of the United States, to transfer at sea directly or indirectly, or attempt to so transfer at sea, any United States harvested fish to any foreign fishing vessel, while such foreign vessel is within the exclusive economic zone or within the boundaries of any State except to the extent that the foreign fishing vessel has been permitted under section 1824(d) of this title or section 1856(c) of this title to receive such fish;
+&emsp;(3) for any vessel of the United States, and for the owner or operator of any vessel of theUnited States, to transfer at sea directly or indirectly, or attempt to so transfer at sea, any United States harvested fish to any foreign fishing vessel, while such foreign vessel is within the exclusive economic zone or within the boundaries of any State except to the extent that the foreign fishing vessel has been permitted under section 1824(d) of this title or section 1856(c) of this title to receive such fish;
 
 &emsp;(4) for any fishing vessel other than a vessel of the United States to operate, and for the owner or operator of a fishing vessel other than a vessel of the United States to operate such vessel, in the exclusive economic zone or within the boundaries of any State, if—
 
@@ -70,7 +78,7 @@ It is unlawful—
 
 &emsp;(5) for any vessel of the United States, and for the owner or operator of any vessel of the United States, to engage in fishing in the waters of a foreign nation in a manner that violates an international fishery agreement between that nation and the United States that has been subject to Congressional oversight in the manner described in section 1823 of this title, or any regulations issued to implement such an agreement; except that the binding provisions of such agreement and implementing regulations shall have been published in the Federal Register prior to such violation.
 
-(Pub. L. 94–265, title III, §307, Apr. 13, 1976, 90 Stat. 355; Pub. L. 95–354, §5(4), Aug. 28, 1978, 92 Stat. 521; Pub. L. 97–191, §2, June 1, 1982, 96 Stat. 107; Pub. L. 97–453, §15(b), Jan. 12, 1983, 96 Stat. 2492; Pub. L. 99–659, title I, §§101(c)(2), 107(a), Nov. 14, 1986, 100 Stat. 3707, 3713; Pub. L. 100–629, §4, Nov. 7, 1988, 102 Stat. 3286; Pub. L. 101–224, §8, Dec. 12, 1989, 103 Stat. 1907; Pub. L. 101–627, title I, §113, Nov. 28, 1990, 104 Stat. 4453; Pub. L. 102–251, title III, §301(h), Mar. 9, 1992, 106 Stat. 64; Pub. L. 104–297, title I, §113, title IV, §405(b)(1), Oct. 11, 1996, 110 Stat. 3597, 3621.)
+(Pub. L. 94–265, title III, §307, Apr. 13, 1976, 90 Stat. 355; Pub. L. 95–354, §5(4), Aug. 28, 1978, 92 Stat. 521; Pub. L. 97–191, §2, June 1, 1982, 96 Stat. 107; Pub. L. 97–453, §15(b), Jan. 12, 1983, 96 Stat. 2492; Pub. L. 99–659, title I, §§101(c)(2), 107(a), Nov. 14, 1986, 100 Stat. 3707, 3713; Pub. L. 100–629, §4, Nov. 7, 1988, 102 Stat. 3286; Pub. L. 101–224, §8, Dec. 12, 1989, 103 Stat. 1907; Pub. L. 101–627, title I, §113, Nov. 28, 1990, 104 Stat. 4453; Pub. L. 102–251, title III, §301(h), Mar. 9, 1992, 106 Stat. 64; Pub. L. 104–297, title I, §113, title IV, §405(b)(1), Oct. 11, 1996, 110 Stat. 3597, 3621; Pub. L. 106–557, §3, Dec. 21, 2000, 114 Stat. 2772.)
 
 #### Amendment of Section
 
@@ -90,7 +98,9 @@ The Atlantic Coastal Fisheries Cooperative Management Act, referred to in par. (
 
 #### Amendments
 
-1996—Par. (1)(J)(i). Pub. L. 104–297, §113(a), substituted “plan implemented” for “plan, implemented” and inserted before semicolon at end “, or in the absence of any such plan, is smaller than the minimum possession size in effect at the time under a coastal fishery management plan for American lobster adopted by the Atlantic States Marine Fisheries Commissionunder the Atlantic Coastal Fisheries Cooperative Management Act (16 U.S.C. 5101 et seq.)”.
+2000—Par. (1). Pub. L. 106–557 added subpar. (P) and concluding provisions.
+
+1996—Par. (1)(J)(i). Pub. L. 104–297, §113(a), substituted “plan implemented” for “plan, implemented” and inserted before semicolon at end “, or in the absence of any such plan, is smaller than the minimum possession size in effect at the time under a coastal fishery management plan for American lobster adopted by the Atlantic States Marine Fisheries Commission under the Atlantic Coastal Fisheries Cooperative Management Act (16 U.S.C. 5101 et seq.)”.
 
 Par. (1)(K). Pub. L. 104–297, §113(b)(2), substituted “gear;” for “gear,” at end of cl. (ii) and struck out concluding provisions which read as follows: “or to attempt to do so;”.
 
@@ -120,7 +130,7 @@ Par. (5). Pub. L. 101–627, §113(b), added par. (5).
 
 Pars. (2)(B), (3). Pub. L. 99–659, §101(c)(2), substituted “exclusive economic zone” for “fishery conservation zone”.
 
-1983—Par. (2)(A). Pub. L. 97–453, §15(b)(A), substituted “in fishing within the boundaries of any State, except recreational fishing permitted under section 1821(j) of this title” for “in fishing within the boundaries of any State”.
+1983—Par. (2)(A). Pub. L. 97–453, §15(b)(A), substituted “in fishing within the boundaries of any State, except recreational fishing permitted under section 1821(j) ofthis title” for “in fishing within the boundaries of any State”.
 
 Par. (2)(B). Pub. L. 97–453, §15(b)(B), inserted “, except recreational fishing permitted under section 1821(j) of this title,” after “in fishing”.
 
@@ -148,7 +158,7 @@ Section 312 of Pub. L. 94–265, provided that this section and sections 1858 to
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 971e, 1821, 1827, 1852, 1853, 1858, 1859, 1860, 1861, 3606, 5103 of this title.
+This section is referred to in sections 971e, 1821, 1827, 1852, 1853, 1858, 1859, 1860, 1861, 3606, 5103, 5158 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

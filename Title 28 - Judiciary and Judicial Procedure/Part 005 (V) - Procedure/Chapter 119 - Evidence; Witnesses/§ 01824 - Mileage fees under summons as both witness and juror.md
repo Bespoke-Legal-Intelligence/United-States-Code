@@ -12,7 +12,3 @@ Words “or as a witness in two or more cases pending in the same court and tria
 
 Changes were made in phraseology.
 
-#### Federal Rules of Civil Procedure
-
-Subpoena, see rule 45, Appendix to this title.
-

@@ -10,7 +10,7 @@
 
 #### (b) Establishment; advice and assistance of Academies-Research Council and other agencies and organizations knowledgeable in building technology
 
-(1) There is authorized to be established, for the purposes described in subsection (a)(3) of this section, an appropriate nonprofit, nongovernmental instrument to be known as the National Institute of Building Sciences (hereinafter referred to as the “Institute”), which shall not be an agency or establishment of the United States Government. The Institute shall be subject to the provisions of this section and, to the extent consistent with this section, to a charter of the Congress if such a charter is requested and issued or to the District of Columbia Nonprofit Corporation Act \[D.C. Code, §29–501 et seq.\] if that is deemed preferable.
+(1) There is authorized to be established, for the purposes described in subsection (a)(3) of this section, an appropriate nonprofit, nongovernmental instrument to be known as the National Institute of Building Sciences (hereinafter referred to as the “Institute”), which shall not be an agency or establishment of the United States Government. The Institute shall be subject to the provisions of this section and, to the extent consistent with this section, to a charter of the Congress if such a charter is requested and issued or to the District of Columbia Nonprofit Corporation Act if that is deemed preferable.
 
 (2) The Academies-Research Council, along with other agencies and organizations which are knowledgeable in the field of building technology, shall advise and assist in (A) the establishment of the Institute; (B) the development of an organizational framework to encourage and provide for the maximum feasible participation of public and private scientific, technical, and financial organizations, institutions, and agencies now engaged in activities pertinent to the development, promulgation, and maintenance of performance criteria, standards, and other technical provisions for building codes and other regulations; and (C) the promulgation of appropriate organizational rules and procedures including those for the selection and operation of a technical staff, such rules and procedures to be based upon the primary object of promoting the public interest and insuring that the widest possible variety of interests and experience essential to the functions of the Institute are represented in the Institute's operations. Recommendations of the Academies-Research Council shall be based upon consultations with and recommendations from various private organizations and institutions, labor, private industry, and governmental agencies entities operating in the field, and the Consultative Council as provided for under subsection (c)(8) of this section.
 
@@ -28,7 +28,7 @@
 
 (5) The President shall designate one of the members appointed to the initial Board as Chairman; thereafter, the members of the initial and succeeding Boards shall annually elect one of their number as Chairman. The members of the Board shall also elect one or more of their Members as Vice Chairman. Terms of the Chairman and Vice Chairman shall be for one year and no individual shall serve as Chairman or Vice Chairman for more than two consecutive terms.
 
-(6) The members of the initial or succeeding Boards shall not, by reason of such membership, be deemed to be employees of the United States Government. They shall, while attending meetings of the Board or while engaged in duties related to such meetings or in other activities of the Board pursuant to this section, be entitled to receive compensation at the rate of $100 per day including traveltime, and while away from their homes or regular places of business they may be allowed travel expenses, including per diem in lieu of subsistence, equal to that authorized under section 5703 of title 5, for persons in the Government service employed intermittently.
+(6) The members of the initial or succeeding Boards shall not, by reason of such membership, be deemed to be employees of the United States Government. They shall, while attending meetings of the Board or while engaged in duties related to such meetings or in other activities of the Board pursuant to this section, be entitledto receive compensation at the rate of $100 per day including traveltime, and while away from their homes or regular places of business they may be allowed travel expenses, including per diem in lieu of subsistence, equal to that authorized under section 5703 of title 5, for persons in the Government service employed intermittently.
 
 (7) The Institute shall have a president and such other executive officers and employees as may be appointed by the Board at rates of compensation fixed by the Board. No such executive officer or employee may receive any salary or other compensation from any source other than the Institute during the period of his employment by the Institute.
 
@@ -70,7 +70,7 @@
 
 (1) Every department, agency, and establishment of the Federal Government, in carrying out any building or construction, or any building- or construction-related programs, which involves direct expenditures, and in developing technical requirements for any such building or construction, shall be encouraged to accept the technical findings of the Institute, or any nationally recognized performance criteria, standards, and other technical provisions for building regulations brought about by the Institute, which may be applicable.
 
-(2) All projects and programs involving Federal assistance in the form of loans, grants, guarantees, insurance, or technical aid, or in any other form, shall be encouraged to accept, use, and comply with any of the technical findings of the Institute, or any nationally recognized performance criteria, standards, and other technical provisions for building codes and other regulations brought about by the Institute, which may be applicable to the purposes for which the assistance is to be used.
+(2) All projects and programs involving Federal assistance in the form of loans, grants, guarantees, insurance, or technical aid, or in any other form, shall be encouraged to accept, use, and comply with any of the technical findings of the Institute, or any nationally recognized performance criteria, standards, and othertechnical provisions for building codes and other regulations brought about by the Institute, which may be applicable to the purposes for which the assistance is to be used.
 
 (3) Every department, agency, and establishment of the Federal Government having responsibility for building or construction, or for building- or construction-related programs, is authorized and encouraged to request authorization and appropriations for grants to the Institute for its general support, and is authorized to contract with and accept contracts from the Institute for specific services where deemed appropriate by the responsible Federal official involved.
 
@@ -114,7 +114,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Any agency of the Federal Government involved in any building or construction mayparticipate in the Advanced Building Technology Program with the Council to develop and implement programs to incorporate one or more of the recommended new technologies in a new or existing building within the agency.
+&emsp;&emsp;Any agency of the Federal Government involved in any building or construction may participate in the Advanced Building Technology Program with the Council to develop and implement programs to incorporate one or more of the recommended new technologies in a new or existing building within the agency.
 
 #### (B) Required assurances
 
@@ -136,7 +136,7 @@
 
 #### (5) Report to the Institute
 
-&emsp;The Council shall submit to the Institute annually a description of its activities under the Advanced Building Technology Program for inclusion in the Institute's annual report to the Congress under subsection (j) of this section.
+&emsp;The Council shall submit to the Institute annually a description of its activities under theAdvanced Building Technology Program for inclusion in the Institute's annual report to the Congress under subsection (j) of this section.
 
 #### (i) Authorization of appropriations
 
@@ -150,7 +150,7 @@ The Institute shall submit an annual report for the preceding fiscal year to the
 
 #### References in Text
 
-The District of Columbia Nonprofit Corporation Act, referred to in subsec. (b)(1), is Pub. L. 87–569, Aug. 6, 1962, 76 Stat. 265, as amended, which appears in chapter 5 (§29–501 et seq.) of Title 29, Corporations, of the District of Columbia Code.
+The District of Columbia Nonprofit Corporation Act, referred to in subsec. (b)(1), is Pub. L. 87–569, Aug. 6, 1962, 76 Stat. 265, as amended, which is not classified to the Code.
 
 #### Codification
 

@@ -6,13 +6,3 @@
 
 (Aug. 26, 1935, ch. 687, title I, §27, 49 Stat. 836.)
 
-#### Cross References
-
-Liability of controlling persons under—
-
-&emsp;&emsp;Investment Company Act of 1940, see section 80a–47 of this title.
-
-&emsp;&emsp;Securities Act of 1933, see section 77<i>o</i> of this title.
-
-&emsp;&emsp;Securities Exchange Act of 1934, see section 78t of this title.
-

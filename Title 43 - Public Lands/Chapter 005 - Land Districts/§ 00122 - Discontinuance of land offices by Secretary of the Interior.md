@@ -12,9 +12,3 @@ R.S. §2248 derived from act June 12, 1840, ch. 36, §2, 5 Stat. 385.
 
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under section 1451 of this title.
 
-#### Cross References
-
-Annexation of district in which land office discontinued because of excessive costs to some other adjoining district, see section 125 of this title.
-
-Consolidation of land offices by Secretary of the Interior where practicable and consistent with public interest, see section 124 of this title.
-

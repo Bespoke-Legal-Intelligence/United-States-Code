@@ -36,7 +36,7 @@ Each member of the Council appointed under paragraph (1), and under paragraphs (
 
 #### (d) Vacancies; term of office of members already appointed
 
-A vacancy in the Council shall not affect its powers, but shall be filled, not later than sixty days after such vacancy commences, in the same manner as the original appointment (and for the balance of any unexpired terms). The members of the Advisory Council on Historic Preservation appointed by the President under this subchapter as in effect on the day before December 12, 1980, shall remain in office until all members of the Council, as specified in this section, have been appointed. The members first appointed under this section shall be appointed not later than one hundred and eighty days after December 12, 1980.
+A vacancy in the Council shall not affect its powers, but shall be filled, not later than sixty days after such vacancy commences, in the same manner as the original appointment (and for the balance of any unexpired terms). The membersof the Advisory Council on Historic Preservation appointed by the President under this subchapter as in effect on the day before December 12, 1980, shall remain in office until all members of the Council, as specified in this section, have been appointed. The members first appointed under this section shall be appointed not later than one hundred and eighty days after December 12, 1980.
 
 #### (e) Designation of Vice Chairman
 
@@ -64,7 +64,7 @@ Subsec. (b). Pub. L. 96–515, §301(b), substituted “(2) through (8) (other t
 
 Subsec. (c). Pub. L. 96–515, §301(c), substituted provision that the Chairman appointed by the President from the general public, each of the four experts appointed by the President, and each of the three at-large members appointed by the President from the general public serve a term of four years from the expiration of his predecessor's term, except that the members first appointed serve terms of one to four years in such a manner as to insure that the terms of not more than two of them expire in any one year, the one Governor and the one mayor appointed by the President serve for the term of their elected office but not in excess of four years, an appointed member not serve for more than two terms, and an appointed member whose term expired serve until his successor has been appointed for provision that each of the twelve members appointed by the President from outside the Federal Government serve for a term of five years from expiration of his predecessor's term, except that the members first appointed serve for terms of one to five years in such a manner as to insure that the terms of not less than one nor more than two of them expire in any one year.
 
-Subsec. (d). Pub. L. 96–515, §301(d), inserted provision that a vacancy be filled not later than sixty days after it commences, members of the Council appointed by the President before Dec. 12, 1980 remain in office until all members of the Council, as specified by this section,have been appointed, and members first appointed be appointed not later than 180 days after Dec. 12, 1980.
+Subsec. (d). Pub. L. 96–515, §301(d), inserted provision that a vacancy be filled not later than sixty days after it commences, members of the Council appointed by the President before Dec. 12, 1980 remain in office until all members of the Council, as specified by this section, have been appointed, and members first appointed be appointed not later than 180 days after Dec. 12, 1980.
 
 Subsec. (e). Pub. L. 96–515, §301(e), substituted provision authorizing the President to designate a Vice Chairman from among specified members of the Council for provision authorizing the President to designate a Chairman and Vice Chairman.
 
@@ -93,10 +93,6 @@ Subsec. (b). Pub. L. 91–243, §1(c), substituted “(10)” for “(6)”.
 Subsec. (c). Pub. L. 91–243, §1(d), substituted “(11)” for “(8)”.
 
 Subsec. (f). Pub. L. 91–243, §1(e), substituted “Eleven” for “Eight”.
-
-#### Cross References
-
-Exemption from Federal Advisory Committee Act, see section 470q of this title.
 
 #### Section Referred to in Other Sections
 

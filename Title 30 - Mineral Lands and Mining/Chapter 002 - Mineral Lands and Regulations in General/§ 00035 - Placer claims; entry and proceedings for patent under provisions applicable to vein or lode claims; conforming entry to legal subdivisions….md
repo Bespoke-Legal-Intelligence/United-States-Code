@@ -14,16 +14,6 @@ R.S. §2331 derived from act May 10, 1872, ch. 152, §10, 17 Stat. 94.
 
 Provisions of this section as not amended, modified or repealed by the Submerged Lands Act, see section 1303 of Title 43, Public Lands.
 
-#### Cross References
-
-Alaska, mining laws relating to placer claims extended to, see section 49b of this title.
-
-Building stone lands, see section 161 of this title.
-
-Michigan, Minnesota and Wisconsin mineral lands, see section 48 of this title.
-
-Saline lands, see section 162 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 24, 29, 33, 37, 38, 39, 40, 42, 46, 47, 48, 49, 102, 541b of this title; title 16 section 460mm–1; title 25 section 640d–10; title 43 sections 1712, 1714, 1732.

@@ -32,7 +32,11 @@ The Director may carry out a program under which elements of the Agency provide 
 
 &emsp;(E) Other receipts from the sale or exchange of equipment or property of a central service provider as a result of activities under the program.
 
-&emsp;(F) Such other amounts as the Director is authorized to deposit in or transfer to the Fund.
+&emsp;(F) Receipts from individuals in reimbursement for utility services and meals provided under the program.
+
+&emsp;(G) Receipts from individuals for the rental of property and equipment under the program.
+
+&emsp;(H) Such other amounts as the Director is authorized to deposit in or transfer to the Fund.
 
 (3) Amounts in the Fund shall be available, without fiscal year limitation, for the following purposes:
 
@@ -46,7 +50,7 @@ The total value of all orders for items or services to be provided under the pro
 
 #### (e) Payment for items and services
 
-(1) A Government agency provided items or services under the program shall pay the central service provider concerned for such items or services an amount equal to the costs incurred by the provider in providing such items or services plus any fee imposed under subsection (f) of this section. In calculating such costs, the Director shall take into account personnel costs (including costs associated with salaries, annual leave, and workers’ compensation), plant and equipment costs (including depreciation of plant and equipment), operation and maintenance expenses, amortized costs, and other expenses.
+(1) A Government agency provided items or services under the program shall pay the central service provider concerned for such items or services an amount equal to the costs incurred by the provider in providing such items or services plus any fee imposed under subsection (f) of this section. In calculating such costs, the Director shall take into account personnel costs (including costs associated with salaries, annual leave, and workers’ compensation), plant and equipment costs (including depreciation of plant and equipment other than structures owned by the Agency), operation and maintenance expenses, amortized costs, and other expenses.
 
 (2) Payment for items or services under paragraph (1) may take the form of an advanced payment by an agency from appropriations available to such agency for the procurement of such items or services.
 
@@ -66,7 +70,7 @@ The total value of all orders for items or services to be provided under the pro
 
 (1) Not later than December 31 each year, the Inspector General of the Central Intelligence Agency shall conduct an audit of the activities under the program during the preceding fiscal year.
 
-(2) The Director of the Office of Management and Budget shall determine the form and content of annual audits under paragraph (1). Such audits shall include an itemized accounting of the items or services provided, the costs associated with the items or services provided, the payments and any fees received for the items or services provided, and the agencies provided items or services.
+(2) The Director of the Office of Management and Budget shall determine the form and content of financial statements to be prepared with respect to the program. Office of Management and Budget guidance shall also determine the procedures for conducting annual audits under paragraph (1)..<sup>1</sup> Such audits shall include an itemized accounting of the items or services provided, the costs associated with the items or services provided, the payments and any fees received for the items or services provided, and the agencies provided items or services.
 
 (3) Not later than 30 days after the completion of an audit under paragraph (1), the Inspector General shall submit a copy of the audit to the following:
 
@@ -90,9 +94,19 @@ The total value of all orders for items or services to be provided under the pro
 
 (3) The Director of Central Intelligence and the Director of the Office of Management and Budget may not undertake any action under paragraph (2) until 60 days after the date on which the Directors jointly submit notice of such action to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
 
-(June 20, 1949, ch. 227, §21, as added Pub. L. 105–107, title IV, §403(a), Nov. 20, 1997, 111 Stat. 2258; amended Pub. L. 106–120, title IV, §401, Dec. 3, 1999, 113 Stat. 1615.)
+(June 20, 1949, ch. 227, §21, as added Pub. L. 105–107, title IV, §403(a), Nov. 20, 1997, 111 Stat. 2258; amended Pub. L. 106–120, title IV, §401, Dec. 3, 1999, 113 Stat. 1615; Pub. L. 106–567, title IV, §401, Dec. 27, 2000, 114 Stat. 2847.)
+
+#### Codification
+
+Section was enacted as part of the Central Intelligence Agency Act of 1949, and not as part of the National Security Act of 1947 which comprises this chapter.
 
 #### Amendments
+
+2000—Subsec. (c)(2)(F) to (H). Pub. L. 106–567, §401(a), added subpars. (F) and (G) and redesignated former subpar. (F) as (H).
+
+Subsec. (e)(1). Pub. L. 106–567, §401(b), in second sentence, inserted “other than structures owned by the Agency” after “depreciation of plant and equipment”.
+
+Subsec. (g)(2). Pub. L. 106–567, §401(c), substituted “financial statements to be prepared with respect to the program. Office of Management and Budget guidance shall also determine the procedures for conducting annual audits under paragraph (1).” for “annual audits under paragraph (1)”.
 
 1999—Subsec. (a). Pub. L. 106–120, §401(a), substituted “, nonappropriated fund entities or instrumentalities associated or affiliated with the Agency, and other” for “and to other”.
 
@@ -106,9 +120,13 @@ Subsec. (h)(1). Pub. L. 106–120, §401(d), substituted “2002” for “2000�
 
 #### Availability of Funds Credited to Central Services Working Capital Fund
 
-Pub. L. 106–79, title VIII, §8048, Oct. 25, 1999, 113 Stat. 1241, provided in part: “That funds appropriated, transferred, or otherwise credited to the Central Intelligence Agency Central Services Working Capital Fund during this or any prior or subsequent fiscal year shall remain available until expended.”
+Pub. L. 106–259, title VIII, §8045, Aug. 9, 2000, 114 Stat. 684, provided in part: “That funds appropriated, transferred, or otherwise credited to the Central Intelligence Agency Central Services Working Capital Fund during this or any prior or subsequent fiscal year shall remain available until expended.”
 
-Similar provisions were contained in the following prior appropriation act:
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 106–79, title VIII, §8048, Oct. 25, 1999, 113 Stat. 1241.
 
 Pub. L. 105–262, title VIII, §8048, Oct. 17, 1998, 112 Stat. 2307.
+
+<i><sup>1</sup></i><i> So in original.</i>
 

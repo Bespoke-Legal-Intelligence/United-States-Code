@@ -10,11 +10,11 @@ Pending decision as to the admission of an article being imported or offered for
 
 #### (c) Charges concerning refused articles
 
-All expenses (including travel, per diem or subsistence, and salaries of officers or employees of the United States) in connection with the destruction provided for in subsection (a) of this section and the supervision of the relabeling or other action authorized under the provisions of subsection (b) of this section, the amount of such expenses to be determined in accordance with regulations, and all expenses in connection with the storage, cartage, or labor with respect to any article refused admission under subsection (a) of this section, shall be paid by the owner or consignee and, in default of such payment, shall constitute a lien against any future importations made by such owner or consignee.
+All expenses (including travel, per diem or subsistence, and salaries of officers or employees of the United States) in connection with the destruction provided for in subsection (a) of thissection and the supervision of the relabeling or other action authorized under the provisions of subsection (b) of this section, the amount of such expenses to be determined in accordance with regulations, and all expenses in connection with the storage, cartage, or labor with respect to any article refused admission under subsection (a) of this section, shall be paid by the owner or consignee and, in default of such payment, shall constitute a lien against any future importations made by such owner or consignee.
 
 #### (d) Reimportation
 
-(1) Except as provided in paragraph (2), no drug subject to section 353(b) of this title or composed wholly or partly of insulin which is manufactured in a State and exported may be imported into the United States unless the drug is imported by the manufacturer of the drug.
+(1) Except as provided in paragraph (2) and section 384 of this title, no drug subject to section 353(b) of this title or composed wholly or partly of insulin which is manufactured in a State and exported may be imported into the United States unless the drug is imported by the manufacturer of the drug.
 
 (2) The Secretary may authorize the importation of a drug the importation of which is prohibited by paragraph (1) if the drug is required for emergency medical care.
 
@@ -64,17 +64,41 @@ All expenses (including travel, per diem or subsistence, and salaries of officer
 
 #### (f) Labeling of exported drugs
 
-(1) If a drug (other than insulin, an antibiotic drug, an animal drug, or a drug exported under section 382 of this title) being exported in accordance with subsection (e) of this section is being exported to a country that has different or additional labeling requirements or conditions for use and such country requires the drug to be labeled in accordance with those requirements or uses, such drug may be labeled in accordance with such requirements and conditions for use in the country to which such drug is being exported if it also is labeled in accordance with the requirements of this chapter.
+(1) If a drug (other than insulin, an antibiotic drug, an animal drug, or a drug exported undersection 382 of this title) being exported in accordance with subsection (e) of this section is being exported to a country that has different or additional labeling requirements or conditions for use and such country requires the drug to be labeled in accordance with those requirements or uses, such drug may be labeled in accordance with such requirements and conditions for use in the country to which such drug is being exported if it also is labeled in accordance with the requirements of this chapter.
 
 (2) If, pursuant to paragraph (1), the labeling of an exported drug includes conditions for use that have not been approved under this chapter, the labeling must state that such conditions for use have not been approved under this chapter. A drug exported under section 382 of this title is exempt from this section.
 
-(June 25, 1938, ch. 675, §801, 52 Stat. 1058; Oct. 18, 1949, ch. 696, §§1–3, 63 Stat. 882; Pub. L. 87–781, title III, §306, Oct. 10, 1962, 76 Stat. 796; Pub. L. 90–399, §106, July 13, 1968, 82 Stat. 353; Pub. L. 91–513, title II, §701(h), Oct. 27, 1970, 84 Stat. 1282;Pub. L. 94–295, §§3(f), 4(b)(3), May 28, 1976, 90 Stat. 578, 580; Pub. L. 100–293, §3, Apr. 22, 1988, 102 Stat. 96; Pub. L. 102–300, §6(b)(1), June 16, 1992, 106 Stat. 240; Pub. L. 102–353, §5, Aug. 26, 1992, 106 Stat. 943; Pub. L. 103–80, §3(cc), (dd)(1), Aug. 13, 1993, 107 Stat. 778, 779; Pub. L. 104–134, title II, §2102(a)–(c), Apr. 26, 1996, 110 Stat. 1321–313, 1321–314; Pub. L. 104–180, title VI, §603(a), (b), Aug. 6, 1996, 110 Stat. 1594, 1595; Pub. L. 105–115, title I, §125(a)(2)(D), Nov. 21, 1997, 111 Stat. 2325.)
+#### (g) Warning notice of importation in violation of chapter
+
+(1) With respect to a prescription drug being imported or offered for import into the United States, the Secretary, in the case of an individual who is not in the business of such importations, may not send a warning notice to the individual unless the following conditions are met:
+
+&emsp;(A) The notice specifies, as applicable to the importation of the drug, that the Secretary has made a determination that—
+
+&emsp;&emsp;(i) importation is in violation of subsection (a) of this section because the drug is or appears to be adulterated, misbranded, or in violation of section 355 of this title;
+
+&emsp;&emsp;(ii) importation is in violation of subsection (a) of this section because the drug is or appears to be forbidden or restricted in sale in the country in which it was produced or from which it was exported;
+
+&emsp;&emsp;(iii) importation is or appears to be in violation of subsection (d)(1) of this section; or
+
+&emsp;&emsp;(iv) importation otherwise is or appears to be in violation of Federal law.
+
+&emsp;(B) The notice does not specify any provision described in subparagraph (A) that is not applicable to the importation of the drug.
+
+&emsp;(C) The notice states the reasons underlying such determination by the Secretary, including a brief application to the principal facts involved of the provision of law described in subparagraph (A) that is the basis of the determination by the Secretary.
+
+(2) For purposes of this section, the term “warning notice”, with respect to the importation of a drug, means a communication from the Secretary (written or otherwise) notifying a person, or clearly suggesting to the person, that importing the drug for personal use is, or appears to be, a violation of this chapter.
+
+(June 25, 1938, ch. 675, §801, 52 Stat. 1058; Oct. 18, 1949, ch. 696, §§1–3, 63 Stat. 882; Pub. L. 87–781, title III, §306, Oct. 10, 1962, 76 Stat. 796; Pub. L. 90–399, §106, July 13, 1968, 82 Stat. 353; Pub. L. 91–513, title II, §701(h), Oct. 27, 1970, 84 Stat. 1282; Pub. L. 94–295, §§3(f), 4(b)(3), May 28, 1976, 90 Stat. 578, 580; Pub. L. 100–293, §3, Apr. 22, 1988, 102 Stat. 96; Pub. L. 102–300, §6(b)(1), June 16, 1992, 106 Stat. 240; Pub. L. 102–353, §5, Aug. 26, 1992, 106 Stat. 943; Pub. L. 103–80, §3(cc), (dd)(1), Aug. 13, 1993, 107 Stat. 778, 779; Pub. L. 104–134, title II, §2102(a)–(c), Apr. 26, 1996, 110 Stat. 1321–313, 1321–314; Pub. L. 104–180, title VI, §603(a), (b), Aug. 6, 1996, 110 Stat. 1594, 1595; Pub. L. 105–115, title I, §125(a)(2)(D), Nov. 21, 1997, 111 Stat. 2325; Pub. L. 106–387, §1(a) \[title VII, §§745(c)(1), 746(c)\], Oct. 28, 2000, 114 Stat. 1549, 1549A–36, 1549A–40.)
 
 #### References in Text
 
 The Controlled Substances Import and Export Act, referred to in subsec. (a), is title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, as amended, which is classified principally to subchapter II (§951 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 951 of this title and Tables.
 
 #### Amendments
+
+2000—Subsec. (d)(1). Pub. L. 106–387, §1(a) \[title VII, §745(c)(1)\], inserted “and section 384 of this title” after “paragraph (2)”.
+
+Subsec. (g). Pub. L. 106–387, §1(a) \[title VII, §746(c)\], added subsec. (g).
 
 1997—Subsec. (d)(1). Pub. L. 105–115 inserted “or composed wholly or partly of insulin” after “353(b) of this title”.
 
@@ -142,9 +166,23 @@ Secretary and Department of Health, Education, and Welfare redesignated Secretar
 
 For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare \[now Health and Human Services\], and of Food and Drug Administration in the Department of Agriculture to Federal Security Agency, see note set out under section 41 of this title.
 
+#### Findings
+
+Pub. L. 106–387, §1(a) \[title VII, §746(b)\], Oct. 28, 2000, 114 Stat. 1549, 1549A–40, provided that: “The Congress finds as follows:
+
+&emsp;“(1) Patients and their families sometimes have reason to import into the United States drugs that have been approved by the Food and Drug Administration (‘FDA’).
+
+&emsp;“(2) There have been circumstances in which—
+
+&emsp;&emsp;“(A) an individual seeking to import such a drug has received a notice from FDA that importing the drug violates or may violate the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\]; and
+
+&emsp;&emsp;“(B) the notice failed to inform the individual of the reasons underlying the decision to send the notice.
+
+&emsp;“(3) FDA should not send a warning notice regarding the importation of a drug without providing to the individual involved a statement of the underlying reasons for the notice.”
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 331, 333, 334, 360, 371, 382 of this title; title 15 section 1456; title 42 section 262.
+This section is referred to in sections 331, 333, 334, 360, 371, 382, 384 of this title; title 15 section 1456; title 42 section 262.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
 

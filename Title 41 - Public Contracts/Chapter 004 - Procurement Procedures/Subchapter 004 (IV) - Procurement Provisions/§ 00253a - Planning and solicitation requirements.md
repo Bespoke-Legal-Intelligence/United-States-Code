@@ -80,7 +80,7 @@ An executive agency, in issuing a solicitation for a contract to be awarded usin
 
 #### Amendments
 
-1996—Subsec. (b). Pub. L. 104–106 inserted “a procurement for commercial items using special simplified procedures or” after “(other than for” in introductory provisions.
+1996—Subsec. (b). Pub. L. 104–106 inserted “a procurement for commercial items using special simplifiedprocedures or” after “(other than for” in introductory provisions.
 
 1994—Subsec. (b). Pub. L. 103–355, §4402(b), substituted “a purchase for an amount not greater than the simplified acquisition threshold)” for “small purchases)” in introductory provisions.
 

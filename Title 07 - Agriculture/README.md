@@ -1,5 +1,5 @@
 
-7 U.S.C.<br>United States Code, 1999 Edition<br>Title 7 - AGRICULTURE<br>From the U.S. Government Publishing Office, www.gpo.gov
+7 U.S.C.<br>United States Code, 2000 Edition<br>Title 7 - AGRICULTURE<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 7—AGRICULTURE
 
@@ -12,10 +12,10 @@
 | [<b>5.</b>](Chapter%20005%20-%20Importation%20of%20Adulterated%20Seeds/README.md) | <b>Importation of Adulterated Seeds \[Repealed\]</b> | <b>111</b> |
 | [<b>6.</b>](Chapter%20006%20-%20Insecticides%20and%20Environmental%20Pesticide%20Control/README.md) | <b>Insecticides and Environmental Pesticide Control</b> | <b>121</b> |
 | [<b>6A.</b>](Chapter%20006A%20-%20National%20Laboratory%20Accreditation/README.md) | <b>National Laboratory Accreditation</b> | <b>138</b> |
-| [<b>7.</b>](Chapter%20007%20-%20Insect%20Pests%20Generally/README.md) | <b>Insect Pests Generally</b> | <b>141</b> |
-| [<b>7A.</b>](Chapter%20007A%20-%20Golden%20Nematode/README.md) | <b>Golden Nematode</b> | <b>150</b> |
-| [<b>7B.</b>](Chapter%20007B%20-%20Plant%20Pests/README.md) | <b>Plant Pests</b> | <b>150aa</b> |
-| [<b>8.</b>](Chapter%20008%20-%20Nursery%20Stock%20and%20Other%20Plants%20and%20Plant%20Products/README.md) | <b>Nursery Stock and Other Plants and Plant Products</b> | <b>151</b> |
+| [<b>7.</b>](Chapter%20007%20-%20Insect%20Pests%20Generally/README.md) | <b>Insect Pests Generally \[Repealed, Omitted, or Transferred\]</b> | <b>141</b> |
+| [<b>7A.</b>](Chapter%20007A%20-%20Golden%20Nematode/README.md) | <b>Golden Nematode \[Repealed\]</b> | <b>150</b> |
+| [<b>7B.</b>](Chapter%20007B%20-%20Plant%20Pests/README.md) | <b>Plant Pests \[Repealed\]</b> | <b>150aa</b> |
+| [<b>8.</b>](Chapter%20008%20-%20Nursery%20Stock%20and%20Other%20Plants%20and%20Plant%20Products/README.md) | <b>Nursery Stock and Other Plants and Plant Products \[Repealed, Omitted, or Transferred\]</b> | <b>151</b> |
 | [<b>8A.</b>](Chapter%20008A%20-%20Rubber%20and%20Other%20Critical%20Agricultural%20Materials/README.md) | <b>Rubber and Other Critical Agricultural Materials</b> | <b>171</b> |
 | [<b>9.</b>](Chapter%20009%20-%20Packers%20and%20Stockyards/README.md) | <b>Packers and Stockyards</b> | <b>181</b> |
 | [<b>10.</b>](Chapter%20010%20-%20Warehouses/README.md) | <b>Warehouses</b> | <b>241</b> |
@@ -55,7 +55,7 @@
 | [<b>37.</b>](Chapter%20037%20-%20Seeds/README.md) | <b>Seeds</b> | <b>1551</b> |
 | [<b>38.</b>](Chapter%20038%20-%20Distribution%20and%20Marketing%20of%20Agricultural%20Products/README.md) | <b>Distribution and Marketing of Agricultural Products</b> | <b>1621</b> |
 | [<b>39.</b>](Chapter%20039%20-%20Stabilization%20of%20International%20Wheat%20Market/README.md) | <b>Stabilization of International Wheat Market</b> | <b>1641</b> |
-| [<b>40.</b>](Chapter%20040%20-%20Halogeton%20Glomeratus%20Control/README.md) | <b>Halogeton Glomeratus Control</b> | <b>1651</b> |
+| [<b>40.</b>](Chapter%20040%20-%20Halogeton%20Glomeratus%20Control/README.md) | <b>Halogeton Glomeratus Control \[Repealed\]</b> | <b>1651</b> |
 | [<b>41.</b>](Chapter%20041%20-%20Agricultural%20Trade%20Development%20and%20Assistance/README.md) | <b>Agricultural Trade Development and Assistance</b> | <b>1691</b> |
 | [<b>42.</b>](Chapter%20042%20-%20Agricultural%20Commodity%20Set-Aside/README.md) | <b>Agricultural Commodity Set-Aside</b> | <b>1741</b> |
 | [<b>43.</b>](Chapter%20043%20-%20Foreign%20Market%20Development/README.md) | <b>Foreign Market Development</b> | <b>1761</b> |
@@ -120,6 +120,8 @@
 | [<b>101.</b>](Chapter%20101%20-%20Agricultural%20Promotion/README.md) | <b>Agricultural Promotion</b> | <b>7401</b> |
 | [<b>102.</b>](Chapter%20102%20-%20Emergency%20Food%20Assistance/README.md) | <b>Emergency Food Assistance</b> | <b>7501</b> |
 | [<b>103.</b>](Chapter%20103%20-%20Agricultural%20Research%2C%20Extension%2C%20and%20Education%20Reform/README.md) | <b>Agricultural Research, Extension, and Education Reform</b> | <b>7601</b> |
+| [<b>104.</b>](Chapter%20104%20-%20Plant%20Protection/README.md) | <b>Plant Protection</b> | <b>7701</b> |
+| [<b>105.</b>](Chapter%20105%20-%20Hass%20Avocado%20Promotion%2C%20Research%2C%20and%20Information/README.md) | <b>Hass Avocado Promotion, Research, and Information</b> | <b>7801</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -243,3 +245,5 @@
 - [Chapter 101 - Agricultural Promotion](Chapter%20101%20-%20Agricultural%20Promotion/README.md)
 - [Chapter 102 - Emergency Food Assistance](Chapter%20102%20-%20Emergency%20Food%20Assistance/README.md)
 - [Chapter 103 - Agricultural Research, Extension, and Education Reform](Chapter%20103%20-%20Agricultural%20Research%2C%20Extension%2C%20and%20Education%20Reform/README.md)
+- [Chapter 104 - Plant Protection](Chapter%20104%20-%20Plant%20Protection/README.md)
+- [Chapter 105 - Hass Avocado Promotion, Research, and Information](Chapter%20105%20-%20Hass%20Avocado%20Promotion%2C%20Research%2C%20and%20Information/README.md)

@@ -16,7 +16,7 @@ General Authority.—(1) Amtrak may make an agreement with a rail carrier or reg
 
 (3) Amtrak's right to use the facilities or have the services provided is conditioned on payment of the compensation. If the compensation is not paid promptly, the rail carrier or authority entitled to it may bring an action against Amtrak to recover the amount owed.
 
-(4) Amtrak shall seek immediate and appropriate legal remedies to enforce its contractrights when track maintenance on a route over which Amtrak operates falls below the contractual standard.
+(4) Amtrak shall seek immediate and appropriate legal remedies to enforce its contract rights when track maintenance on a route over which Amtrak operates falls below the contractual standard.
 
 (b)
 

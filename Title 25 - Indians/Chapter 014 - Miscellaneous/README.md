@@ -264,6 +264,10 @@ Statutory requirements; technical assistance; precontract negotiation phase; fix
 
 Rental rates for housing for Government employees in Alaska.
 
+(<i>o</i>)
+
+Patient records.
+
 |  |  |
 | :--- | ---: |
 | 450j–1. | Contract funding and indirect costs. |
@@ -280,49 +284,53 @@ Reductions and increases in amount of funds provided.
 
 (c)
 
-Treatment of shortfalls in indirect cost recoveries.
+Annual reports.
 
 (d)
 
-Liability for indebtedness incurred before fiscal year 1992.
+Treatment of shortfalls in indirect cost recoveries.
 
 (e)
 
-Limitation on remedies relating to cost disallowances.
+Liability for indebtedness incurred before fiscal year 1992.
 
 (f)
 
-Addition to contract of full amount contractor entitled; adjustment.
+Limitation on remedies relating to cost disallowances.
 
 (g)
 
-Indirect costs for contracts for construction programs.
+Addition to contract of full amount contractor entitled; adjustment.
 
 (h)
 
-Indian Health Service and Bureau of Indian Affairs budget consultations.
+Indirect costs for contracts for construction programs.
 
 (i)
 
-Use of funds for matching or cost participation requirements.
+Indian Health Service and Bureau of Indian Affairs budget consultations.
 
 (j)
 
-Allowable uses of funds without approval of Secretary.
+Use of funds for matching or cost participation requirements.
 
 (k)
 
-Suspension, withholding, or delay in payment of funds.
+Allowable uses of funds without approval of Secretary.
 
 (<i>l</i>)
 
-Use of program income earned.
+Suspension, withholding, or delay in payment of funds.
 
 (m)
 
-Reduction of administrative or other responsibilities of Secretary; use of savings.
+Use of program income earned.
 
 (n)
+
+Reduction of administrative or other responsibilities of Secretary; use of savings.
+
+(<i>o</i>)
 
 Rebudgeting by tribal organization.
 
@@ -491,12 +499,12 @@ Revision and amendment.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part D—Tribal Self-Governance
+#### Part D—Tribal Self-Governance—Department of the Interior
 
 |  |  |
 | :--- | ---: |
-| [458aa.](Subchapter%20002%20%28II%29%20-%20Indian%20Self-Determination%20and%20Education%20Assistance/Part%20D%20-%20Tribal%20Self-Governance/%C2%A7%2000458aa%20-%20Establishment.md) | Establishment. |
-| [458bb.](Subchapter%20002%20%28II%29%20-%20Indian%20Self-Determination%20and%20Education%20Assistance/Part%20D%20-%20Tribal%20Self-Governance/%C2%A7%2000458bb%20-%20Selection%20of%20participating%20Indian%20tribes.md) | Selection of participating Indian tribes. |
+| [458aa.](Subchapter%20002%20%28II%29%20-%20Indian%20Self-Determination%20and%20Education%20Assistance/Part%20D%20-%20Tribal%20Self-Governance%E2%80%94Department%20of%20the%20Interior/%C2%A7%2000458aa%20-%20Establishment.md) | Establishment. |
+| [458bb.](Subchapter%20002%20%28II%29%20-%20Indian%20Self-Determination%20and%20Education%20Assistance/Part%20D%20-%20Tribal%20Self-Governance%E2%80%94Department%20of%20the%20Interior/%C2%A7%2000458bb%20-%20Selection%20of%20participating%20Indian%20tribes.md) | Selection of participating Indian tribes. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -518,7 +526,7 @@ Planning phase.
 
 |  |  |
 | :--- | ---: |
-| [458cc.](Subchapter%20002%20%28II%29%20-%20Indian%20Self-Determination%20and%20Education%20Assistance/Part%20D%20-%20Tribal%20Self-Governance/%C2%A7%2000458cc%20-%20Funding%20agreements.md) | Funding agreements. |
+| [458cc.](Subchapter%20002%20%28II%29%20-%20Indian%20Self-Determination%20and%20Education%20Assistance/Part%20D%20-%20Tribal%20Self-Governance%E2%80%94Department%20of%20the%20Interior/%C2%A7%2000458cc%20-%20Funding%20agreements.md) | Funding agreements. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -572,8 +580,8 @@ Incorporate self-determination provisions.
 
 |  |  |
 | :--- | ---: |
-| [458dd.](Subchapter%20002%20%28II%29%20-%20Indian%20Self-Determination%20and%20Education%20Assistance/Part%20D%20-%20Tribal%20Self-Governance/%C2%A7%2000458dd%20-%20Budget%20request.md) | Budget request. |
-| [458ee.](Subchapter%20002%20%28II%29%20-%20Indian%20Self-Determination%20and%20Education%20Assistance/Part%20D%20-%20Tribal%20Self-Governance/%C2%A7%2000458ee%20-%20Reports.md) | Reports. |
+| [458dd.](Subchapter%20002%20%28II%29%20-%20Indian%20Self-Determination%20and%20Education%20Assistance/Part%20D%20-%20Tribal%20Self-Governance%E2%80%94Department%20of%20the%20Interior/%C2%A7%2000458dd%20-%20Budget%20request.md) | Budget request. |
+| [458ee.](Subchapter%20002%20%28II%29%20-%20Indian%20Self-Determination%20and%20Education%20Assistance/Part%20D%20-%20Tribal%20Self-Governance%E2%80%94Department%20of%20the%20Interior/%C2%A7%2000458ee%20-%20Reports.md) | Reports. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -595,7 +603,7 @@ Report on Central Office funds.
 
 |  |  |
 | :--- | ---: |
-| [458ff.](Subchapter%20002%20%28II%29%20-%20Indian%20Self-Determination%20and%20Education%20Assistance/Part%20D%20-%20Tribal%20Self-Governance/%C2%A7%2000458ff%20-%20Disclaimers.md) | Disclaimers. |
+| [458ff.](Subchapter%20002%20%28II%29%20-%20Indian%20Self-Determination%20and%20Education%20Assistance/Part%20D%20-%20Tribal%20Self-Governance%E2%80%94Department%20of%20the%20Interior/%C2%A7%2000458ff%20-%20Disclaimers.md) | Disclaimers. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -613,7 +621,7 @@ Application of other sections of subchapter.
 
 |  |  |
 | :--- | ---: |
-| [458gg.](Subchapter%20002%20%28II%29%20-%20Indian%20Self-Determination%20and%20Education%20Assistance/Part%20D%20-%20Tribal%20Self-Governance/%C2%A7%2000458gg%20-%20Regulations.md) | Regulations. |
+| [458gg.](Subchapter%20002%20%28II%29%20-%20Indian%20Self-Determination%20and%20Education%20Assistance/Part%20D%20-%20Tribal%20Self-Governance%E2%80%94Department%20of%20the%20Interior/%C2%A7%2000458gg%20-%20Regulations.md) | Regulations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -635,7 +643,516 @@ Effect.
 
 |  |  |
 | :--- | ---: |
-| [458hh.](Subchapter%20002%20%28II%29%20-%20Indian%20Self-Determination%20and%20Education%20Assistance/Part%20D%20-%20Tribal%20Self-Governance/%C2%A7%2000458hh%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [458hh.](Subchapter%20002%20%28II%29%20-%20Indian%20Self-Determination%20and%20Education%20Assistance/Part%20D%20-%20Tribal%20Self-Governance%E2%80%94Department%20of%20the%20Interior/%C2%A7%2000458hh%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part E—Tribal Self-Governance—Indian Health Service
+
+|  |  |
+| :--- | ---: |
+| [458aaa.](Subchapter%20002%20%28II%29%20-%20Indian%20Self-Determination%20and%20Education%20Assistance/Part%20E%20-%20Tribal%20Self-Governance%E2%80%94Indian%20Health%20Service/%C2%A7%2000458aaa%20-%20Definitions.md) | Definitions. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Indian tribe.
+
+|  |  |
+| :--- | ---: |
+| 458aaa–1. | Establishment. |
+| 458aaa–2. | Selection of participating Indian tribes. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Continuing participation.
+
+(b)
+
+Additional participants.
+
+(c)
+
+Applicant pool.
+
+(d)
+
+Planning phase.
+
+(e)
+
+Grants.
+
+(f)
+
+Receipt of grant not required.
+
+|  |  |
+| :--- | ---: |
+| 458aaa–3. | Compacts. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Compact required.
+
+(b)
+
+Contents.
+
+(c)
+
+Existing compacts.
+
+(d)
+
+Term and effective date.
+
+|  |  |
+| :--- | ---: |
+| 458aaa–4. | Funding agreements. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Funding agreement required.
+
+(b)
+
+Contents.
+
+(c)
+
+Inclusion in compact or funding agreement.
+
+(d)
+
+Funding agreement terms.
+
+(e)
+
+Subsequent funding agreements.
+
+(f)
+
+Existing funding agreements.
+
+(g)
+
+Stable base funding.
+
+|  |  |
+| :--- | ---: |
+| 458aaa–5. | General provisions. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Applicability.
+
+(b)
+
+Conflicts of interest.
+
+(c)
+
+Audits.
+
+(d)
+
+Records.
+
+(e)
+
+Redesign and consolidation.
+
+(f)
+
+Retrocession.
+
+(g)
+
+Withdrawal.
+
+(h)
+
+Nonduplication.
+
+|  |  |
+| :--- | ---: |
+| 458aaa–6. | Provisions relating to the Secretary. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Mandatory provisions.
+
+(b)
+
+Final offer.
+
+(c)
+
+Rejection of final offers.
+
+(d)
+
+Burden of proof.
+
+(e)
+
+Good faith.
+
+(f)
+
+Savings.
+
+(g)
+
+Trust responsibility.
+
+(h)
+
+Decisionmaker.
+
+|  |  |
+| :--- | ---: |
+| 458aaa–7. | Transfer of funds. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Multiyear funding.
+
+(c)
+
+Amount of funding.
+
+(d)
+
+Prohibitions.
+
+(e)
+
+Other resources.
+
+(f)
+
+Reimbursement to Indian Health Service.
+
+(g)
+
+Prompt Payment Act.
+
+(h)
+
+Interest or other income on transfers.
+
+(i)
+
+Carryover of funds.
+
+(j)
+
+Program income.
+
+(k)
+
+Limitation of costs.
+
+|  |  |
+| :--- | ---: |
+| 458aaa–8. | Construction projects. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Negotiations.
+
+(c)
+
+Codes and standards.
+
+(d)
+
+Responsibility for completion.
+
+(e)
+
+Funding.
+
+(f)
+
+Approval.
+
+(g)
+
+Wages.
+
+(h)
+
+Application of other laws.
+
+|  |  |
+| :--- | ---: |
+| 458aaa–9. | Federal procurement laws and regulations. |
+| 458aaa–10. | Civil actions. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Contract defined.
+
+(b)
+
+Applicability of certain laws.
+
+(c)
+
+References.
+
+|  |  |
+| :--- | ---: |
+| 458aaa–11. | Facilitation. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Secretarial interpretation.
+
+(b)
+
+Regulation waiver.
+
+(c)
+
+Access to Federal property.
+
+(d)
+
+Matching or cost-participation requirement.
+
+(e)
+
+State facilitation.
+
+(f)
+
+Rules of construction.
+
+|  |  |
+| :--- | ---: |
+| 458aaa–12. | Budget request. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Requirement of annual budget request.
+
+(b)
+
+Present funding; shortfalls.
+
+|  |  |
+| :--- | ---: |
+| 458aaa–13. | Reports. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Annual report.
+
+(b)
+
+Contents.
+
+(c)
+
+Report on fund distribution method.
+
+|  |  |
+| :--- | ---: |
+| 458aaa–14. | Disclaimers. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+No funding reduction.
+
+(b)
+
+Federal trust and treaty responsibilities.
+
+(c)
+
+Obligations of the United States.
+
+|  |  |
+| :--- | ---: |
+| 458aaa–15. | Application of other sections of this subchapter. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Mandatory application.
+
+(b)
+
+Discretionary application.
+
+|  |  |
+| :--- | ---: |
+| 458aaa–16. | Regulations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Committee.
+
+(c)
+
+Adaptation of procedures.
+
+(d)
+
+Effect.
+
+(e)
+
+Effect of circulars, policies, manuals, guidances, and rules.
+
+|  |  |
+| :--- | ---: |
+| 458aaa–17. | Appeals. |
+| 458aaa–18. | Authorization of appropriations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Availability of appropriations.
+
+#### Part F—American Indian Education Foundation
+
+|  |  |
+| :--- | ---: |
+| [458bbb.](Subchapter%20002%20%28II%29%20-%20Indian%20Self-Determination%20and%20Education%20Assistance/Part%20F%20-%20American%20Indian%20Education%20Foundation/%C2%A7%2000458bbb%20-%20American%20Indian%20Education%20Foundation.md) | American Indian Education Foundation. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Perpetual existence.
+
+(c)
+
+Nature of corporation.
+
+(d)
+
+Place of incorporation and domicile.
+
+(e)
+
+Purposes.
+
+(f)
+
+Board of Directors.
+
+(g)
+
+Officers.
+
+(h)
+
+Powers.
+
+(i)
+
+Principal office.
+
+(j)
+
+Service of process.
+
+(k)
+
+Liability of officers and agents.
+
+(<i>l</i>)
+
+Restrictions.
+
+(m)
+
+Transfer of donated funds.
+
+(n)
+
+Audits.
+
+|  |  |
+| :--- | ---: |
+| 458bbb–1. | Administrative services and support. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Provision of support by Secretary.
+
+(b)
+
+Reimbursement.
+
+(c)
+
+Continuation of certain services.
+
+|  |  |
+| :--- | ---: |
+| 458bbb–2. | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -4357,6 +4874,91 @@ Payments to minors or persons under legal disability.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER XLIX–A—SHAWNEE TRIBE STATUS
+
+|  |  |
+| :--- | ---: |
+| [1041\.](Subchapter%20049%E2%80%93A%20%28XLIX%E2%80%93A%29%20-%20Shawnee%20Tribe%20Status/%C2%A7%2001041%20-%20Findings.md) | Findings. |
+| [1041a.](Subchapter%20049%E2%80%93A%20%28XLIX%E2%80%93A%29%20-%20Shawnee%20Tribe%20Status/%C2%A7%2001041a%20-%20Definitions.md) | Definitions. |
+| [1041b.](Subchapter%20049%E2%80%93A%20%28XLIX%E2%80%93A%29%20-%20Shawnee%20Tribe%20Status/%C2%A7%2001041b%20-%20Federal%20recognition%2C%20trust%20relationship%2C%20and%20program%20eligibility.md) | Federal recognition, trust relationship, and program eligibility. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Federal recognition.
+
+(b)
+
+Program eligibility.
+
+|  |  |
+| :--- | ---: |
+| [1041c.](Subchapter%20049%E2%80%93A%20%28XLIX%E2%80%93A%29%20-%20Shawnee%20Tribe%20Status/%C2%A7%2001041c%20-%20Establishment%20of%20a%20tribal%20roll.md) | Establishment of a tribal roll. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Approval of base roll.
+
+(b)
+
+Base roll eligibility.
+
+(c)
+
+Future membership.
+
+|  |  |
+| :--- | ---: |
+| [1041d.](Subchapter%20049%E2%80%93A%20%28XLIX%E2%80%93A%29%20-%20Shawnee%20Tribe%20Status/%C2%A7%2001041d%20-%20Organization%20of%20the%20Tribe%3B%20tribal%20constitution.md) | Organization of the Tribe; tribal constitution. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Existing constitution and governing body.
+
+(b)
+
+Constitution.
+
+|  |  |
+| :--- | ---: |
+| [1041e.](Subchapter%20049%E2%80%93A%20%28XLIX%E2%80%93A%29%20-%20Shawnee%20Tribe%20Status/%C2%A7%2001041e%20-%20Tribal%20land.md) | Tribal land. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Land acquisition.
+
+(b)
+
+Restriction.
+
+|  |  |
+| :--- | ---: |
+| [1041f.](Subchapter%20049%E2%80%93A%20%28XLIX%E2%80%93A%29%20-%20Shawnee%20Tribe%20Status/%C2%A7%2001041f%20-%20Jurisdiction.md) | Jurisdiction. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Rule of construction.
+
+|  |  |
+| :--- | ---: |
+| [1041g.](Subchapter%20049%E2%80%93A%20%28XLIX%E2%80%93A%29%20-%20Shawnee%20Tribe%20Status/%C2%A7%2001041g%20-%20Individual%20Indian%20land.md) | Individual Indian land. |
+| [1041h.](Subchapter%20049%E2%80%93A%20%28XLIX%E2%80%93A%29%20-%20Shawnee%20Tribe%20Status/%C2%A7%2001041h%20-%20Treaties%20not%20affected.md) | Treaties not affected. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### SUBCHAPTER L—TILLAMOOK AND NEHALEM BANDS OF THE TILLAMOOK INDIANS: DISTRIBUTION OF JUDGMENT FUND
 
 |  |  |
@@ -5809,6 +6411,91 @@ Election of tribal officials; procedures.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER LXXXV—GRATON RANCHERIA RESTORATION
+
+|  |  |
+| :--- | ---: |
+| [1300n.](Subchapter%20085%20%28LXXXV%29%20-%20Graton%20Rancheria%20Restoration/%C2%A7%2001300n%20-%20Findings.md) | Findings. |
+| 1300n–1. | Definitions. |
+| 1300n–2. | Restoration of Federal recognition, rights, and privileges. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Federal recognition.
+
+(b)
+
+Restoration of rights and privileges.
+
+(c)
+
+Federal services and benefits.
+
+(d)
+
+Hunting, fishing, trapping, gathering, and water rights.
+
+(e)
+
+Certain rights not altered.
+
+|  |  |
+| :--- | ---: |
+| 1300n–3. | Transfer of land to be held in trust. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Lands to be taken in trust.
+
+(b)
+
+Former trust lands of the Graton Rancheria.
+
+(c)
+
+Lands to be part of reservation.
+
+(d)
+
+Lands to be nontaxable.
+
+|  |  |
+| :--- | ---: |
+| 1300n–4. | Membership rolls. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Compilation of tribal membership roll.
+
+(b)
+
+Criteria for membership.
+
+(c)
+
+Conclusive proof of Graton Indian ancestry.
+
+|  |  |
+| :--- | ---: |
+| 1300n–5. | Interim government. |
+| 1300n–6. | Tribal constitution. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Election; time; procedure.
+
+(b)
+
+Election of tribal officials; procedures.
+
 
 ---
 
@@ -5874,6 +6561,7 @@ Election of tribal officials; procedures.
 - [Subchapter 047 (XLVII) - Cherokee Nation Distribution of Judgment Fund](Subchapter%20047%20%28XLVII%29%20-%20Cherokee%20Nation%20Distribution%20of%20Judgment%20Fund/README.md)
 - [Subchapter 048 (XLVIII) - Snake or Paiute Indians of Oregon Distribution of Judgment Fund](Subchapter%20048%20%28XLVIII%29%20-%20Snake%20or%20Paiute%20Indians%20of%20Oregon%20Distribution%20of%20Judgment%20Fund/README.md)
 - [Subchapter 049 (XLIX) - Shawnee Tribe or Nation Distribution of Judgment Fund](Subchapter%20049%20%28XLIX%29%20-%20Shawnee%20Tribe%20or%20Nation%20Distribution%20of%20Judgment%20Fund/README.md)
+- [Subchapter 049&#8211;A (XLIX&#8211;A) - Shawnee Tribe Status](Subchapter%20049%E2%80%93A%20%28XLIX%E2%80%93A%29%20-%20Shawnee%20Tribe%20Status/README.md)
 - [Subchapter 050 (L) - Tillamook and Nehalem Bands of the Tillamook Indians Distribution of Judgment Fund](Subchapter%20050%20%28L%29%20-%20Tillamook%20and%20Nehalem%20Bands%20of%20the%20Tillamook%20Indians%20Distribution%20of%20Judgment%20Fund/README.md)
 - [Subchapter 051 (LI) - Confederated Tribes of the Colville Reservation Distribution of Judgment Fund](Subchapter%20051%20%28LI%29%20-%20Confederated%20Tribes%20of%20the%20Colville%20Reservation%20Distribution%20of%20Judgment%20Fund/README.md)
 - [Subchapter 052 (LII) - Quileute and Hoh Tribes of Washington Distribution of Judgment Fund](Subchapter%20052%20%28LII%29%20-%20Quileute%20and%20Hoh%20Tribes%20of%20Washington%20Distribution%20of%20Judgment%20Fund/README.md)
@@ -5910,3 +6598,4 @@ Election of tribal officials; procedures.
 - [Subchapter 082 (LXXXII) - Little Traverse Bay Bands of Odawa Indians; Little River Band of Ottawa Indians](Subchapter%20082%20%28LXXXII%29%20-%20Little%20Traverse%20Bay%20Bands%20of%20Odawa%20Indians%3B%20Little%20River%20Band%20of%20Ottawa%20Indians/README.md)
 - [Subchapter 083 (LXXXIII) - Auburn Indian Restoration](Subchapter%20083%20%28LXXXIII%29%20-%20Auburn%20Indian%20Restoration/README.md)
 - [Subchapter 084 (LXXXIV) - Paskenta Band of Nomlaki Indians of California](Subchapter%20084%20%28LXXXIV%29%20-%20Paskenta%20Band%20of%20Nomlaki%20Indians%20of%20California/README.md)
+- [Subchapter 085 (LXXXV) - Graton Rancheria Restoration](Subchapter%20085%20%28LXXXV%29%20-%20Graton%20Rancheria%20Restoration/README.md)

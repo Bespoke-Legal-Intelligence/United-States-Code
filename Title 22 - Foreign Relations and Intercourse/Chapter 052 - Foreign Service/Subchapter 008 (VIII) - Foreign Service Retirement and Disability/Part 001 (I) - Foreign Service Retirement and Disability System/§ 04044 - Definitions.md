@@ -118,7 +118,7 @@ Par. (14). Pub. L. 99–335, §402(a)(3), inserted “under this part” after �
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–382, §4, Nov. 13, 1998, 112 Stat. 3409, provided that:
+Pub. L. 105–382, §4, Nov. 13, 1998, 112 Stat. 3409, as amended by Pub. L. 106–554, §1(a)(4) \[div. B, title I, §145(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–250, provided that:
 
 “(a)
 
@@ -138,7 +138,7 @@ Election for Current Participants.—
 
 &emsp;“(1)
 
-Eligibility.—An election under this subsection may be made by any currently employed participant under chapter 8 of the Foreign Service Act of 1980 \[22 U.S.C. 4041 et seq.\] who is serving or has served as a special agent, or by a survivor of a special agent who was eligible to make an election under this section.
+Eligibility.—An election under this subsection may be made by any currently employed participant or participant who was serving as of January 1, 1997 under chapter 8 of the Foreign Service Act of 1980 \[22 U.S.C. 4041 et seq.\] who is serving or has served as a special agent, or by a survivor of a special agent who was eligible to make an election under this section.
 
 &emsp;“(2)
 
@@ -183,6 +183,8 @@ Election Deadline.—An election under subsection (b) must be made not later tha
 “(e)
 
 Definition.—For purposes of this section, the term ‘special agent’ has the meaning given such term under section 804(15) of the Foreign Service Act of 1980 (22 U.S.C. 4044(15)), as amended by section 2(a).”
+
+\[Pub. L. 106–554, §1(a)(4) \[div. B, title I, §145(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–250, provided that: “The amendment made by this section \[amending section 4 of Pub. L. 105–382, set out above\] shall take effect on January 1, 2001.”\]
 
 #### Effective Date of 1988 Amendment
 

@@ -22,10 +22,6 @@ Whenever the Secretary determines, with respect to any certification of eligibil
 
 (Pub. L. 93–618, title II, §223, Jan. 3, 1975, 88 Stat. 2019; Pub. L. 103–182, title V, §503(a), Dec. 8, 1993, 107 Stat. 2151.)
 
-#### Termination of Section
-
-<i>For termination of section by section 285 of Pub. L. 93–618, see Termination Date note set out preceding section 2271 of this title.</i>
-
 #### References in Text
 
 For the effective date of this part, referred to in subsec. (b)(2), see Effective and Termination Date note set out preceding section 2271 of this title.
@@ -37,6 +33,10 @@ For the effective date of this part, referred to in subsec. (b)(2), see Effectiv
 #### Effective Date of 1993 Amendment
 
 Amendment by Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States \[Jan. 1, 1994\], see section 506(a) of Pub. L. 103–182, set out as an Effective Date note under section 2331 of this title.
+
+#### Termination Date
+
+No assistance, vouchers, allowances, or other payments may be provided under subparts A to C of this part after Sept. 30, 2001, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
 
 #### Section Referred to in Other Sections
 

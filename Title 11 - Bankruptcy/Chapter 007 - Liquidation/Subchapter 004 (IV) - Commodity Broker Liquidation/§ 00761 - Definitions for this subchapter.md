@@ -4,7 +4,7 @@ In this subchapter—
 
 &emsp;(1) “Act” means Commodity Exchange Act;
 
-&emsp;(2) “clearing organization” means organization that clears commodity contracts made on, or subject to the rules of, a contract market or board of trade;
+&emsp;(2) “clearing organization” means a derivatives clearing organization registered under the Act;
 
 &emsp;(3) “Commission” means Commodity Futures Trading Commission;
 
@@ -24,9 +24,9 @@ In this subchapter—
 
 &emsp;(6) “commodity options dealer” means person that extends credit to, or that accepts cash, a security, or other property from, a customer of such person for the purchase or sale of an interest in a commodity option;
 
-&emsp;(7) “contract market” means board of trade designated as a contract market by the Commission under the Act;
+&emsp;(7) “contract market” means a registered entity;
 
-&emsp;(8) “contract of sale”, “commodity”, “future delivery”, “board of trade”, and “futures commission merchant” have the meanings assigned to those terms in the Act;
+&emsp;(8) “contract of sale”, “commodity”, “derivatives clearing organization”, “future delivery”, “board of trade”, “registered entity”, and “futures commission merchant” have the meanings assigned to those terms in the Act;
 
 &emsp;(9) “customer” means—
 
@@ -110,7 +110,7 @@ In this subchapter—
 
 &emsp;(14) “leverage transaction merchant” means person in the business of engaging in leverage transactions;
 
-&emsp;(15) “margin payment” means payment or deposit of cash, a security, or other property,that is commonly known to the commodities trade as original margin, initial margin, maintenance margin, or variation margin, including mark-to-market payments, settlement payments, variation payments, daily settlement payments, and final settlement payments made as adjustments to settlement prices;
+&emsp;(15) “margin payment” means payment or deposit of cash, a security, or other property, that is commonly known to the commodities trade as original margin, initial margin, maintenance margin, or variation margin, including mark-to-market payments, settlement payments, variation payments, daily settlement payments, and final settlement payments made as adjustments to settlement prices;
 
 &emsp;(16) “member property” means customer property received, acquired, or held by or for the account of a debtor that is a clearing organization, from or for the proprietary account of a customer that is a clearing member of the debtor; and
 
@@ -130,7 +130,7 @@ In this subchapter—
 
 &emsp;&emsp;&emsp;(ii) any cash, security, or other property of such customer transferred to such other person under section 766 of this title to margin or secure such transferred commodity contract.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2615; Pub. L. 97–222, §16, July 27, 1982, 96 Stat. 238; Pub. L. 98–353, title III, §485, July 10, 1984, 98 Stat. 383; Pub. L. 103–394, title V, §501(d)(29), Oct. 22, 1994, 108 Stat. 4146.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2615; Pub. L. 97–222, §16, July 27, 1982, 96 Stat. 238; Pub. L. 98–353, title III, §485, July 10, 1984, 98 Stat. 383; Pub. L. 103–394, title V, §501(d)(29), Oct. 22, 1994, 108 Stat. 4146; Pub. L. 106–554, §1(a)(5) \[title I, §112(c)(6)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–395.)
 
 #### Historical and Revision Notes
 
@@ -156,7 +156,7 @@ Paragraph (10) \[enacted as (9)\] defines the term “customer” to mean with r
 
 The definition of “customer” serves to isolate that class of persons entitled to the protection subchapter IV provides to customers. In addition, section 101(5) defines “commodity broker” to mean a futures commission merchant, foreign futures commission merchant, clearing organization, leverage transaction merchant, or commodity options dealer, with respect to which there is a customer. Accordingly, the definition of customer also serves to designate those entities which must utilize chapter 7 and are precluded from reorganizing under chapter 11.
 
-Paragraph (11) \[enacted as (10)\] defines “customer property” to mean virtually all property or proceeds thereof, received, acquired, or held by or for the account of the debtor for a customer arising out of or in connection with a transaction involving a commodity contract.
+Paragraph (11) \[enacted as (10)\] defines “customer property” to mean virtually all property or proceedsthereof, received, acquired, or held by or for the account of the debtor for a customer arising out of or in connection with a transaction involving a commodity contract.
 
 Paragraph (12) defines “distribution share” to mean the amount to which a customer is entitled under section 765(a).
 
@@ -180,9 +180,15 @@ Paragraph (15) \[enacted as (17)\] defines “net equity” to include the value
 
 #### References in Text
 
-The Commodity Exchange Act, referred to in pars. (1), (7), (8), and (17), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. Sections 4c(b) and 19 of the Act are classified to sections 6c(b) and 23, respectively, of Title 7. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
+The Commodity Exchange Act, referred to in pars. (1), (2), (8), and (17), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. Sections 4c(b) and 19 of the Act are classified to sections 6c(b) and 23, respectively, of Title 7. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
 #### Amendments
+
+2000—Par. (2). Pub. L. 106–554, §1(a)(5) \[title I, §112(c)(6)(A)\], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “ ‘clearing organization’ means organization that clears commodity contracts made on, or subject to the rules of, a contract market or board of trade;”.
+
+Par. (7). Pub. L. 106–554, §1(a)(5) \[title I, §112(c)(6)(B)\], amended par. (7) generally. Prior to amendment, par. (7) read as follows: “ ‘contract market’ means board of trade designated as a contract market by the Commission under the Act;”.
+
+Par. (8). Pub. L. 106–554, §1(a)(5) \[title I, §112(c)(6)(C)\], amended par. (8) generally. Prior to amendment, par. (8) read as follows: “ ‘contract of sale’, ‘commodity’, ‘future delivery’, ‘board of trade’, and ‘futures commission merchant’ have the meanings assigned to those terms in the Act;”.
 
 1994—Par. (1). Pub. L. 103–394, §501(d)(29)(A), struck out “(7 U.S.C. 1 et seq.)” after “Act”.
 

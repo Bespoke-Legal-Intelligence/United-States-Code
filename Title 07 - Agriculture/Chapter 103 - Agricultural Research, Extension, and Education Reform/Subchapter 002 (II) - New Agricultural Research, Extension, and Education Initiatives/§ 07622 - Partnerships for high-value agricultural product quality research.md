@@ -76,7 +76,7 @@ Research or extension supported by an eligible partnership may address the full 
 
 #### (3) Matching funds
 
-&emsp;An eligible partnership shall contribute an amount of non-Federal funds for the operation of the partnership that is at least equal to the amount of grant funds received by the partnership under this section.
+&emsp;An eligible partnership shall contribute an amount of non-Federal funds for the operationof the partnership that is at least equal to the amount of grant funds received by the partnership under this section.
 
 #### (f) Limitation on use of grant funds
 

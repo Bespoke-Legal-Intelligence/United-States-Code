@@ -2,11 +2,11 @@
 
 #### (a) Persons possessing cause of action; persons liable
 
-In case any part of the registration statement, when such part became effective, contained an untrue statement of a material fact or omitted to state a material fact required to be stated therein or necessary to make the statements therein not misleading, any person acquiring such security (unless it is proved that at the time of such acquisition he knew of such untruth or omission) may, either at law or in equity, in any court of competent jurisdiction, sue—
+In case any part of the registration statement, when such part became effective, contained an untrue statement of a material fact or omitted to state a material fact required to be statedtherein or necessary to make the statements therein not misleading, any person acquiring such security (unless it is proved that at the time of such acquisition he knew of such untruth or omission) may, either at law or in equity, in any court of competent jurisdiction, sue—
 
 &emsp;(1) every person who signed the registration statement;
 
-&emsp;(2) every person who was a director of (or person performing similar functions) or partner in the issuer at the time of the filing ofthe part of the registration statement with respect to which his liability is asserted;
+&emsp;(2) every person who was a director of (or person performing similar functions) or partner in the issuer at the time of the filing of the part of the registration statement with respect to which his liability is asserted;
 
 &emsp;(3) every person who, with his consent, is named in the registration statement as being or about to become a director, person performing similar functions, or partner;
 
@@ -73,42 +73,6 @@ Nothing in amendment by Pub. L. 104–67 to be deemed to create or ratify any im
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
-#### Federal Rules of Civil Procedure
-
-Costs, see rule 54, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-One form of action, see rule 2.
-
-#### Cross References
-
-Effective date of amendment to registration statement, see section 80a–24 of this title.
-
-Fraudulent interstate transactions, see section 77q of this title.
-
-Information and documents to determine eligibility of indenture trustee and analysis of indenture, section as inapplicable to, see section 77eee of this title.
-
-Liability for misleading statements under—
-
-&emsp;&emsp;Public Utility Holding Company Act of 1935, see section 79p of this title.
-
-&emsp;&emsp;Securities Exchange Act of 1934, see section 78r of this title.
-
-Liability of controlling persons under this section, see section 77<i>o</i> of this title.
-
-Limitation of actions, see section 77m of this title.
-
-Material misstatements and unlawful representations under the Investment Advisers Act of 1940, see sections 80b–7 and 80b–8 of this title.
-
-Prospectus not part of registration statement, see section 77j of this title.
-
-Taxation of costs, see section 1920 of Title 28, Judiciary and Judicial Procedure.
-
-Undertaking, for costs and reasonable attorneys’ fees under—
-
-&emsp;&emsp;Securities Exchange Act of 1934, see sections 78i and 78r of this title.
-
-&emsp;&emsp;Trust Indenture Act of 1939, see sections 77<i>ooo</i> and 77www of this title.
 
 #### Section Referred to in Other Sections
 

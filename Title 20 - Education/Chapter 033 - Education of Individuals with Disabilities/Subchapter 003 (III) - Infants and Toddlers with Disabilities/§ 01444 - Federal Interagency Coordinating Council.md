@@ -34,7 +34,7 @@ The Council shall be composed of—
 
 &emsp;(3) a representative of the Maternal and Child Health Services Block Grant Program;
 
-&emsp;(4) a representative of programs administered under the Developmental Disabilities Assistance and Bill of Rights Act \[42 U.S.C. 6000 et seq.\];
+&emsp;(4) a representative of programs administered under the Developmental Disabilities Assistance and Bill of Rights Act of 2000 \[42 U.S.C. 15001 et seq.\];
 
 &emsp;(5) a representative of the Health Care Financing Administration;
 
@@ -78,7 +78,7 @@ The Council shall meet at least quarterly and in such places as the Council deem
 
 The Council shall—
 
-&emsp;(1) advise and assist the Secretary of Education, the Secretary of Health and Human Services, the Secretary of Defense, the Secretary of the Interior, the Secretary of Agriculture, and the Commissioner of Social Security in the performance of their responsibilities related to serving children from birth through age 5 who are eligible for services under this subchapter or under subchapter II of this chapter;
+&emsp;(1) advise and assist the Secretary of Education, the Secretary of Health and Human Services, the Secretary of Defense, the Secretary of the Interior, the Secretary of Agriculture, and the Commissioner of Social Security in the performance of their responsibilities related to serving children from birththrough age 5 who are eligible for services under this subchapter or under subchapter II of this chapter;
 
 &emsp;(2) conduct policy analyses of Federal programs related to the provision of early intervention services and special educational and related services to infants and toddlers with disabilities and their families, and preschool children with disabilities, in order to determine areas of conflict, overlap, duplication, or inappropriate omission;
 
@@ -98,17 +98,21 @@ No member of the Council shall cast a vote on any matter that would provide dire
 
 The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the establishment or operation of the Council.
 
-(Pub. L. 91–230, title VI, §644, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 121.)
+(Pub. L. 91–230, title VI, §644, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 121; amended Pub. L. 106–402, title IV, §401(b)(1), Oct. 30, 2000, 114 Stat. 1737.)
 
 #### References in Text
 
-The Developmental Disabilities Assistance and Bill of Rights Act, referred to in subsec. (b)(4), is title I of Pub. L. 88–164, as added by Pub. L. 98–527, §2, Oct. 19, 1984, 98 Stat. 2662, and amended, which is classified generally to chapter 75 (§6000 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6000 of Title 42 and Tables.
+The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsec. (b)(4), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677, which is classified principally to chapter 144 (§15001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of Title 42 and Tables.
 
 The Federal Advisory Committee Act, referred to in subsec. (f), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Prior Provisions
 
 A prior section 1444, Pub. L. 91–230, title VI, §643, formerly §644, Apr. 13, 1970, 84 Stat. 186; Pub. L. 93–380, title VI, §619, Aug. 21, 1974, 88 Stat. 585; Pub. L. 95–49, §5, June 17, 1977, 91 Stat. 231; Pub. L. 98–199, §12, Dec. 2, 1983, 97 Stat. 1374; Pub. L. 99–457, title III, §314, Oct. 8, 1986, 100 Stat. 1171; renumbered §643 and amended Pub. L. 101–476, title V, §§503, 504, title IX, §901(b)(147), (148), Oct. 30, 1990, 104 Stat. 1138, 1149; Pub. L. 102–119, §25(b), Oct. 7, 1991, 105 Stat. 607, authorized appropriations, prior to repeal by Pub. L. 105–17, title II, §203(c), June 4, 1997, 111 Stat. 157, effective Oct. 1, 1997.
+
+#### Amendments
+
+2000—Subsec. (b)(4). Pub. L. 106–402 substituted “the Developmental Disabilities Assistance and Bill of Rights Act of 2000” for “the Developmental Disabilities Assistance and Bill of Rights Act”.
 
 #### Section Referred to in Other Sections
 

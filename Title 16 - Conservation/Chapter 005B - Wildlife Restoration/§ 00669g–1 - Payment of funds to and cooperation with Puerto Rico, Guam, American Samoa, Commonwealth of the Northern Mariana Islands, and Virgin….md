@@ -38,3 +38,7 @@ Amendment by act July 2, 1956, applicable only with respect to fiscal years begi
 
 Act May 19, 1956, ch. 313, ch. VI, §601, 70 Stat. 169, authorized increases of not more than 20 percent in the annual appropriations for the former territories of Alaska and Hawaii, and Puerto Rico and the Virgin Islands.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in section 669c of this title.
+

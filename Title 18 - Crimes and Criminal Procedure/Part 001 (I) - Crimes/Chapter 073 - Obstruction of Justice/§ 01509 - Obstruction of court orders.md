@@ -10,7 +10,3 @@ No injunctive or other civil relief against the conduct made criminal by this se
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000” in first par.
 
-#### Cross References
-
-Minor offenses tried by United States magistrate judges as excluding offenses punishable under this section, see section 3401 of this title.
-

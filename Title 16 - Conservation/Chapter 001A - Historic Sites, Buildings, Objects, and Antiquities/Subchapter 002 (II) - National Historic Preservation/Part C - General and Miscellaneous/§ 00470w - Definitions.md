@@ -10,7 +10,7 @@ As used in this subchapter, the term—
 
 &emsp;(4) “Indian tribe” or “tribe” means an Indian tribe, band, nation, or other organized group or community, including a Native village, Regional Corporation or Village Corporation, as those terms are defined in section 1602 of title 43, which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
 
-&emsp;(5) “Historic property” or “historic resource” means any prehistoric or historic district, site, building, structure, or object included in, or eligible for inclusion on the National Register, including artifacts, records,and material remains related to such a property or resource.
+&emsp;(5) “Historic property” or “historic resource” means any prehistoric or historic district, site, building, structure, or object included in, or eligible for inclusion on the National Register, including artifacts, records, and material remains related to such a property or resource.
 
 &emsp;(6) “National Register” or “Register” means the National Register of Historic Places established under section 470a of this title.
 
@@ -44,7 +44,7 @@ As used in this subchapter, the term—
 
 &emsp;&emsp;&emsp;(ii) review appropriate documentation submitted in conjunction with the Historic Preservation Fund;
 
-&emsp;&emsp;&emsp;(iii) provide general advice and guidance to the State Historic Preservation Officer,<sup>1</sup> and
+&emsp;&emsp;&emsp;(iii) provide general advice and guidance to the State Historic Preservation Officer; and
 
 &emsp;&emsp;&emsp;(iv) perform such other duties as may be appropriate.
 
@@ -76,15 +76,17 @@ As used in this subchapter, the term—
 
 > &emsp;The term includes, but is not limited to, the Office of Hawaiian Affairs of the State of Hawaii and Hui Malama I Na Kupuna O Hawai'i Nei, an organization incorporated under the laws of the State of Hawaii.
 
-(Pub. L. 89–665, title III, §301, as added Pub. L. 96–515, title V, §501, Dec. 12, 1980, 94 Stat. 3001; amended Pub. L. 102–575, title XL, §4019(a), Oct. 30, 1992, 106 Stat. 4763.)
+(Pub. L. 89–665, title III, §301, as added Pub. L. 96–515, title V, §501, Dec. 12, 1980, 94 Stat. 3001; amended Pub. L. 102–575, title XL, §4019(a), Oct. 30, 1992, 106 Stat. 4763; Pub. L. 106–208, §5(a)(10), May 26, 2000, 114 Stat. 319.)
 
 #### Amendments
+
+2000—Par. (12)(C)(iii). Pub. L. 106–208 substituted semicolon for comma after “Officer”.
 
 1992—Par. (1). Pub. L. 102–575, §4019(a)(1), struck out “, except that in the case of any Federal program exempted under section 470v of this title, the agency administering such program shall not be treated as an agency with respect to such program” after “title 5”.
 
 Par. (2). Pub. L. 102–575, §4019(a)(2), substituted “the Trust Territory of the Pacific Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, and, upon termination of the Trusteeship Agreement for the Trust Territory of the Pacific Islands, the Republic of Palau” for “the Trust Territories of the Pacific Islands”.
 
-Par. (4). Pub. L. 102–575, §4019(a)(3), amended par. (4) generally. Prior to amendment, par. (4) read as follows:“ ‘Indian tribe’ means the governing body of any Indian tribe, band, nation, or other group which is recognized as an Indian tribe by the Secretary of the Interior and for which the United States holds land in trust or restricted status for that entity or its members. Such term also includes any Native village corporation, regional corporation, and Native Group established pursuant to the Alaska Native Claims Settlement Act.”
+Par. (4). Pub. L. 102–575, §4019(a)(3), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “ ‘Indian tribe’ means the governing body of any Indian tribe, band, nation, or other group which is recognized as an Indian tribe by the Secretary of the Interior and for which the United States holds land in trust or restricted status for that entity or its members. Such term also includes any Native village corporation, regional corporation, and Native Group established pursuant to the Alaska Native Claims Settlement Act.”
 
 Par. (5). Pub. L. 102–575, §4019(a)(4), substituted “Register, including artifacts, records, and material remains related to such a property or resource.” for “Register; such term includes artifacts, records, and remains which are related to such a district, site, building, structure, or object.”
 
@@ -107,6 +109,4 @@ Pars. (14) to (18). Pub. L. 102–575, §4019(a)(12), added pars. (14) to (18).
 #### Historic Preservation Fund Matching Grant Assistance
 
 Pub. L. 102–381, title I, Oct. 5, 1992, 106 Stat. 1382, provided in part: “That the Trust Territory of the Pacific Islands is a State eligible for Historic Preservation Fund matching grant assistance, in fiscal year 1993 and thereafter, as authorized under 16 U.S.C. 470w(2)”.
-
-<i><sup>1</sup></i><i> So in original. The comma probably should be a semicolon.</i>
 

@@ -1,6 +1,0 @@
-### §1372. Omitted
-
-#### Codification
-
-Section, acts July 8, 1937, ch. 443, §1, 50 Stat. 478; Sept. 26, 1950, ch. 1049, §2(a), (b), 64 Stat. 1038, related to relief of employee not entitled to retirement benefits and was omitted as not of general application, and as covered by the Canal Zone Code.
-

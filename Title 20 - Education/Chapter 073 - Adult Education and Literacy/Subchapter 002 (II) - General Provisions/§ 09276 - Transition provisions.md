@@ -32,7 +32,7 @@ The Secretary of Labor shall take such actions as the Secretary determines to be
 
 #### (2) Additional requirements
 
-&emsp;Not to exceed 2 percent of any allotment to any State from amounts appropriated under the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\] or under this Act for fiscal year 1998 or 1999 may be made available to carry out planning authorized under paragraph (1) and not less than 50 percent of any such amount used to carry out planning authorized under paragraph (1) shall be made available to local entities for the planning purposes described in such paragraph.
+&emsp;Not to exceed 2 percent of any allotment to any State from amounts appropriated under the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\] or under this Act for fiscal year 1998 or 1999 may be made available to carry out planning authorized under paragraph (1)and not less than 50 percent of any such amount used to carry out planning authorized under paragraph (1) shall be made available to local entities for the planning purposes described in such paragraph.
 
 #### (e) Reorganization
 

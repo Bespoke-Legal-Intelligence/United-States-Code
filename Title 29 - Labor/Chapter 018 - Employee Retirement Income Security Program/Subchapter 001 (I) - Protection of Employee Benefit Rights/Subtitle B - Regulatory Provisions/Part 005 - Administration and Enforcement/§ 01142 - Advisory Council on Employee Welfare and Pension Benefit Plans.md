@@ -12,7 +12,7 @@
 
 #### (b) Duties and functions
 
-It shall be the duty of the Council to advise the Secretary with respect to the carrying out of his functions under this chapter and to submit to the Secretary recommendations with respect thereto. The Council shall meet at least four times each year and at such other times as the Secretary requests. In his annual report submitted pursuant to section 1143(b) of this title, the Secretary shall include each recommendation which he has received from the Council during the preceding calendar year.
+It shall be the duty of the Council to advise the Secretary with respect to the carrying out of his functions under this chapter and to submit to the Secretary recommendations with respect thereto. The Council shall meet at least four times each year and at such other times as the Secretary requests. In his annual report submitted pursuant to section 1143(b) <sup>1</sup> of this title, the Secretary shall include each recommendation which he has received from the Council during the preceding calendar year.
 
 #### (c) Executive secretary; secretarial and clerical services
 
@@ -34,6 +34,8 @@ Section 14(a) of the Federal Advisory Committee Act (relating to termination) sh
 
 This chapter, referred to in subsecs. (a)(2), (b), was in the original “this Act”, meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
+Section 1143(b) of this title, referred to in subsec. (b), was omitted from the Code.
+
 Section 14(a) of the Federal Advisory Committee Act, referred to in subsec. (e), is section 14(a) of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Regulations
@@ -42,5 +44,7 @@ Secretary authorized, effective Sept. 2, 1974, to promulgate regulations whereve
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the GeneralSchedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

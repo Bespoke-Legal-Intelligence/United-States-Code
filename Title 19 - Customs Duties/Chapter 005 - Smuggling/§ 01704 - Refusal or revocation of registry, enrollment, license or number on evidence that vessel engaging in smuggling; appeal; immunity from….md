@@ -22,9 +22,5 @@ Functions of all officers of Department of the Treasury and functions of all age
 
 “Secretary of the Treasury” substituted in text for “Secretary of Commerce” and functions under this section relating to the numbering of vessels vested in Commandant of Coast Guard instead of collectors of customs on authority of Reorg. Plan No. 3 of 1946, set out in the Appendix to Title 5.
 
-#### Cross References
-
-Definition of enrollment, license, or register with respect to vessel documentation, see section 12101 of Title 46, Shipping.
-
 <i><sup>1</sup></i><i> So in original.</i>
 

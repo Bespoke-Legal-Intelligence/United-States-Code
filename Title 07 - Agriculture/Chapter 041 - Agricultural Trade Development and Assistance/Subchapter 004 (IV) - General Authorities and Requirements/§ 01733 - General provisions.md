@@ -14,7 +14,7 @@ The Secretary or the Administrator, as appropriate, shall ensure that the import
 
 #### (c) Transshipment
 
-The Secretary or the Administrator, as appropriate, shall, under such terms and conditions as are determined to be appropriate, require commitments designed to prevent or restrict the resale or transshipment to other countries, or use for other than domestic purposes, of agricultural commodities donated or purchased under this chapter.
+The Secretary or the Administrator, as appropriate, shall, under such terms and conditions as are determined to be appropriate, require commitments designed to prevent or restrict the resale or transshipment to other countries, or usefor other than domestic purposes, of agricultural commodities donated or purchased under this chapter.
 
 #### (d) Private trade channels and small business
 
@@ -92,7 +92,7 @@ In carrying out this chapter, reasonable precautions shall be taken to safeguard
 
 Local currencies that are made available for use under this chapter may not be used to pay for the performance of abortions as a method of family planning or to motivate or coerce any person to practice abortions.
 
-(July 10, 1954, ch. 469, title IV, §403, as added Pub. L. 86–341, title I, §14, Sept. 21, 1959, 73 Stat. 610; amended Pub. L. 87–703, title II, §201(3), Sept. 27, 1962, 76 Stat. 611; Pub. L. 88–638, §1(17), Oct. 8, 1964, 78 Stat. 1037; Pub. L. 89–808, §2(E), Nov. 11, 1966, 80 Stat. 1536; Pub. L. 95–113, title XII, §1206, Sept. 29, 1977, 91 Stat. 956; Pub. L. 96–533, title IV, §407, Dec. 16, 1980, 94 Stat. 3151; Pub. L. 97–98, title XII, §1214, Dec. 22, 1981, 95 Stat. 1282; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3646; Pub. L. 102–237, title III, §321, Dec. 13, 1991, 105 Stat. 1857; Pub. L. 104–127, title II, §213, Apr. 4, 1996, 110 Stat. 956.)
+(July 10, 1954, ch. 469, title IV, §403, as added Pub. L. 86–341, title I, §14, Sept. 21, 1959, 73 Stat.610; amended Pub. L. 87–703, title II, §201(3), Sept. 27, 1962, 76 Stat. 611; Pub. L. 88–638, §1(17), Oct. 8, 1964, 78 Stat. 1037; Pub. L. 89–808, §2(E), Nov. 11, 1966, 80 Stat. 1536; Pub. L. 95–113, title XII, §1206, Sept. 29, 1977, 91 Stat. 956; Pub. L. 96–533, title IV, §407, Dec. 16, 1980, 94 Stat. 3151; Pub. L. 97–98, title XII, §1214, Dec. 22, 1981, 95 Stat. 1282; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3646; Pub. L. 102–237, title III, §321, Dec. 13, 1991, 105 Stat. 1857; Pub. L. 104–127, title II, §213, Apr. 4, 1996, 110 Stat. 956.)
 
 #### Amendments
 

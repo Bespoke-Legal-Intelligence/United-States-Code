@@ -12,7 +12,7 @@ Prohibitions.—(1) A person may not discharge an employee, or discipline or dis
 
 &emsp;&emsp;(ii) the employee has a reasonable apprehension of serious injury to the employee or the public because of the vehicle's unsafe condition.
 
-(2) Under paragraph (1)(B)(ii) of this subsection, an employee's apprehension of serious injury is reasonable only if a reasonable individual in the circumstances then confronting the employee would conclude that the unsafe condition establishes a real danger of accident, injury, or serious impairment to health. To qualify for protection, the employee must have sought from the employer, and been unable to obtain, correction of the unsafe condition.
+(2) Under paragraph (1)(B)(ii) of this subsection, an employee's apprehension of seriousinjury is reasonable only if a reasonable individual in the circumstances then confronting the employee would conclude that the unsafe condition establishes a real danger of accident, injury, or serious impairment to health. To qualify for protection, the employee must have sought from the employer, and been unable to obtain, correction of the unsafe condition.
 
 (b)
 
@@ -94,5 +94,5 @@ In subsection (d), the text of 49 App.:2305(e) (last sentence) is omitted as unn
 
 #### Employee Protections
 
-Pub. L. 105–178, title IV, §4023, June 9, 1998, 112 Stat. 415, provided that: “Not later than 2 years after the date of enactment of this Act \[June 9, 1998\], the Secretary \[of Transportation\], in conjunction with the Secretary of Labor, shall report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives on the effectiveness of existing statutory employee protections provided for under section 31105 of title 49, United States Code. The report shall include recommendations to address any statutory changes necessary to strengthen the enforcement of such employee protection provisions.”
+Pub. L. 105–178, title IV, §4023, June 9, 1998, 112 Stat. 415, provided that: “Not later than 2 years after the date of enactment of this Act \[June 9, 1998\], the Secretary \[of Transportation\], in conjunction with theSecretary of Labor, shall report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives on the effectiveness of existing statutory employee protections provided for under section 31105 of title 49, United States Code. The report shall include recommendations to address any statutory changes necessary to strengthen the enforcement of such employee protection provisions.”
 

@@ -6,7 +6,7 @@ Standard Form.—The Secretary of Defense, after consultation with the other adm
 
 (b)
 
-Time for Submission.—A claim for payment for services provided under this chaptershall be submitted as provided in such regulations not later than one year after the services are provided.
+Time for Submission.—A claim for payment for services provided under this chapter shall be submitted as provided in such regulations not later than one year after the services are provided.
 
 (Added Pub. L. 102–190, div. A, title VII, §716(a)(1), Dec. 5, 1991, 105 Stat. 1403; amended Pub. L. 105–85, div. A, title VII, §738(a), Nov. 18, 1997, 111 Stat. 1815.)
 

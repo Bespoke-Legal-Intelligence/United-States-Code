@@ -30,7 +30,7 @@ The Secretary shall pay to the holder of a loan described in section 1078(a)(1)(
 
 #### (4) Special rule
 
-&emsp;A borrower whose loan has been discharged pursuant to this subsection shall not be precluded from receiving additional grants, loans, or work assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 for which the borrower would be otherwise eligible (but for the default on such discharged loan). The amount discharged under this subsection shall be treated the same as loans under section 1087ee(a)(5) of this title.
+&emsp;A borrower whose loan has been discharged pursuant to this subsection shall not be precluded from receiving additional grants, loans, or work assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 for which the borrower would be otherwise eligible (but for the default on such dischargedloan). The amount discharged under this subsection shall be treated the same as loans under section 1087ee(a)(5) of this title.
 
 #### (5) Reporting
 

@@ -252,7 +252,7 @@ Subject to subsection (c) of this section, any consumer reporting agency may fur
 
 #### (6) Notification system by agencies that operate nationwide
 
-&emsp;Each consumer reporting agency that compiles and maintains files on consumers on a nationwide basis shall establish and maintain a notification system for purposes of paragraph (5) jointly with other such consumer reporting agencies.
+&emsp;Each consumer reporting agency that compiles and maintains files on consumers on a nationwide basis shall establish and maintaina notification system for purposes of paragraph (5) jointly with other such consumer reporting agencies.
 
 #### (f) Certain use or obtaining of information prohibited
 
@@ -270,7 +270,7 @@ A consumer reporting agency shall not furnish for employment purposes, or in con
 
 #### References in Text
 
-Executive Order No. 12958, referred to in subsec. (b)(4)(E)(i), is Ex. Ord. No. 12958, Apr. 17, 1995, 60 F.R.19825, as amended, which is set out under section 435 of Title 50, War and National Defense.
+Executive Order No. 12958, referred to in subsec. (b)(4)(E)(i), is Ex. Ord. No. 12958, Apr. 17, 1995, 60 F.R. 19825, as amended, which is set out under section 435 of Title 50, War and National Defense.
 
 #### Amendments
 

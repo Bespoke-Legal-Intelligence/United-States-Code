@@ -12,10 +12,6 @@ The moneys derived from the sale of such lands shall be covered into the reclama
 
 Act of June 17, 1902, referred to in text, is popularly known as the Reclamation Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 371 of this title and Tables.
 
-#### Cross References
-
-Sale of lands appraised at not exceeding $300, see section 375a of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 375a of this title.

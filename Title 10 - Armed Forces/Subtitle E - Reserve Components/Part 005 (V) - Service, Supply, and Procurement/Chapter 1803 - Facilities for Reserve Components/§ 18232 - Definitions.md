@@ -4,11 +4,11 @@ In this chapter:
 
 &emsp;(1) The term “State” means any of the States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and each territory and possession of the United States and includes political subdivisions and military units thereof and tax-supported agencies therein.
 
-&emsp;(2) The term “facility” includes any (A) interest in land, (B) armory or other structure, and (C) storage or other facility normally needed for the administration and training of any unit of the reserve components of the armed forces.
+&emsp;(2) The term “facility” includes any (A) interest in land, (B) armory, readiness center, or other structure, and (C) storage or other facility normally needed for the administration and training of any unit of the reserve components of the armed forces.
 
-&emsp;(3) The term “armory” means a structure that houses one or more units of a reserve component and is used for training and administering those units. It includes a structure that is appurtenant to such a structure and houses equipment used for that training and administration.
+&emsp;(3) The terms “armory” and “readiness center” mean a structure that houses one or more units of a reserve component and is used for training and administering those units. Such terms include a structure that is appurtenant to such a structure and houses equipment used for that training and administration.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 121, §2232; Pub. L. 85–861, §1(36), Sept. 2, 1958, 72 Stat. 1456; Pub. L. 97–214, §3(d)(1), July 12, 1982, 96 Stat. 170; Pub. L. 100–26, §7(k)(2), Apr. 21, 1987, 101 Stat. 284; renumbered §18232, Pub. L. 103–337, div. A, title XVI, §1664(b)(2), Oct. 5, 1994, 108 Stat. 3010.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 121, §2232; Pub. L. 85–861, §1(36), Sept. 2, 1958, 72 Stat. 1456; Pub. L. 97–214, §3(d)(1), July 12, 1982, 96 Stat. 170; Pub. L. 100–26, §7(k)(2), Apr. 21, 1987, 101 Stat. 284; renumbered §18232, Pub. L. 103–337, div. A, title XVI, §1664(b)(2), Oct. 5, 1994, 108 Stat. 3010; Pub. L. 106–398, §1 \[div. B, title XXVIII, §2807(a), (b)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–415.)
 
 Historical and Revision Notes<br>1956
 
@@ -26,7 +26,7 @@ Act
 
 Sept. 11, 1950, ch. 945, §7, 64 Stat. 831.
 
-Clause (1) is substituted for 50:886(b). The words “(2) Puerto Rico; and (3) the District of Columbia” are omitted, since they are specifically included, where applicable, in the revised chapter. The words “together with any improvement thereto” and “of the UnitedStates” are omitted as surplusage. 50:886(c) is omitted, since the reserve components of the armed forces are named in section 261 of this title. 50:886(d) is omitted, since its subject matter is covered by other relevant sections of the revised chapter.
+Clause (1) is substituted for 50:886(b). The words “(2) Puerto Rico; and (3) the District of Columbia” are omitted, since they are specifically included, where applicable, in the revised chapter. The words “together with any improvement thereto” and “of the United States” are omitted as surplusage. 50:886(c) is omitted, since the reserve components of the armed forces arenamed in section 261 of this title. 50:886(d) is omitted, since its subject matter is covered by other relevant sections of the revised chapter.
 
 1958
 
@@ -47,6 +47,10 @@ Aug. 9, 1955, ch. 662, §1(g), (h), 69 Stat. 594.
 The last sentence of 50:886(b) is omitted as surplusage.
 
 #### Amendments
+
+2000—Par. (2)(B). Pub. L. 106–398, §1 \[div. B, title XXVIII, §2807(b)(1)\], substituted “armory, readiness center, or other structure” for “armory or other structure”.
+
+Par. (3). Pub. L. 106–398, §1 \[div. B, title XXVIII, §2807(a)\], substituted “The terms ‘armory’ and ‘readiness center’ mean” for “The term ‘armory’ means” and “Such terms include” for “It includes”.
 
 1994—Pub. L. 103–337 renumbered section 2232 of this title as this section.
 

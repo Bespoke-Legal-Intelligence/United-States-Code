@@ -29,3 +29,7 @@
 - [&sect; 05162 - Advance of non-Federal share](%C2%A7%2005162%20-%20Advance%20of%20non-Federal%20share.md)
 - [&sect; 05163 - Limitation on use of sliding scales](%C2%A7%2005163%20-%20Limitation%20on%20use%20of%20sliding%20scales.md)
 - [&sect; 05164 - Rules and regulations](%C2%A7%2005164%20-%20Rules%20and%20regulations.md)
+- [&sect; 05165 - Mitigation planning](%C2%A7%2005165%20-%20Mitigation%20planning.md)
+- [&sect; 05165a - Minimum standards for public and private structures](%C2%A7%2005165a%20-%20Minimum%20standards%20for%20public%20and%20private%20structures.md)
+- [&sect; 05165b - Management costs](%C2%A7%2005165b%20-%20Management%20costs.md)
+- [&sect; 05165c - Public notice, comment, and consultation requirements](%C2%A7%2005165c%20-%20Public%20notice%2C%20comment%2C%20and%20consultation%20requirements.md)

@@ -10,7 +10,7 @@ Section 157a, Pub. L. 88–163, Oct. 30, 1963, 77 Stat. 281, provided for regula
 
 Section 158, acts June 7, 1897, ch. 4, §3, 30 Stat. 102; May 21, 1948, ch. 328, §3, 62 Stat. 249; Aug. 14, 1958, Pub. L. 85–656, §1, 72 Stat. 612, set out penalties for violations by pilots, engineers, mates, or masters. See section 2072 of this title.
 
-Section 159, acts June 7, 1897, ch. 4, §4, 30 Stat. 103; May 21, 1948, ch. 328, §3, 62 Stat. 249; Aug. 14, 1958, Pub.L. 85–656, §1, 72 Stat. 612, provided for a penalty for violations by vessels. See section 2072 of this title.
+Section 159, acts June 7, 1897, ch. 4, §4, 30 Stat. 103; May 21, 1948, ch. 328, §3, 62 Stat. 249; Aug. 14, 1958, Pub. L. 85–656, §1, 72 Stat. 612, provided for a penalty for violations by vessels. See section 2072 of this title.
 
 #### Effective Date of Repeal
 

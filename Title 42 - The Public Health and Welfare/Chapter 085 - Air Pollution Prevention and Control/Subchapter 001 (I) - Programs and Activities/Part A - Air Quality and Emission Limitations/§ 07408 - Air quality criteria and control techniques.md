@@ -144,7 +144,7 @@ Subsecs. (e), (f). Pub. L. 95–95, §105, added subsecs. (e) and (f).
 
 #### Effective Date of 1977 Amendment
 
-Amendment by Pub. L. 95–95 effective Aug. 7, 1977, except as otherwise expressly provided, see section 406(d)of Pub. L. 95–95, set out as a note under section 7401 of this title.
+Amendment by Pub. L. 95–95 effective Aug. 7, 1977, except as otherwise expressly provided, see section 406(d) of Pub. L. 95–95, set out as a note under section 7401 of this title.
 
 #### Modification or Rescission of Rules, Regulations, Orders, Determinations, Contracts, Certifications, Authorizations, Delegations, and Other Actions
 

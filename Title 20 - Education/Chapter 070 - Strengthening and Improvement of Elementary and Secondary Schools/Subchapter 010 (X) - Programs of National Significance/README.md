@@ -16,5 +16,5 @@
 - [Part I - 21st Century Community Learning Centers](Part%20I%20-%2021st%20Century%20Community%20Learning%20Centers/README.md)
 - [Part J - Urban and Rural Education Assistance](Part%20J%20-%20Urban%20and%20Rural%20Education%20Assistance/README.md)
 - [Part K - National Writing Project](Part%20K%20-%20National%20Writing%20Project/README.md)
-- [Part L - Extended Time for Learning and Longer School Year](Part%20L%20-%20Extended%20Time%20for%20Learning%20and%20Longer%20School%20Year/README.md)
+- [Part L - Physical Education for Progress](Part%20L%20-%20Physical%20Education%20for%20Progress/README.md)
 - [Part M - Territorial Assistance](Part%20M%20-%20Territorial%20Assistance/README.md)

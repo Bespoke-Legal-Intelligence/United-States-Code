@@ -16,10 +16,6 @@ R.S. §5221 derived from act June 3, 1864, ch. 106, §42, 13 Stat. 112, which wa
 
 Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
 
-#### Cross References
-
-New banks organized by Federal Deposit Insurance Corporation after closing of old bank, non-application of this section to, see section 1821 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 186, 1821 of this title.

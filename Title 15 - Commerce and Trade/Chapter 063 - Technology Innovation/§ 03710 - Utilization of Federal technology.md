@@ -2,7 +2,7 @@
 
 #### (a) Policy
 
-(1) It is the continuing responsibility of the Federal Government to ensure the full use of theresults of the Nation's Federal investment in research and development. To this end the Federal Government shall strive where appropriate to transfer federally owned or originated technology to State and local governments and to the private sector.
+(1) It is the continuing responsibility of the Federal Government to ensure the full use of the results of the Nation's Federal investment in research and development. To this end the Federal Government shall strive where appropriate to transfer federally owned or originated technology to State and local governments and to the private sector.
 
 (2) Technology transfer, consistent with mission responsibilities, is a responsibility of each laboratory science and engineering professional.
 
@@ -10,7 +10,7 @@
 
 #### (b) Establishment of Research and Technology Applications Offices
 
-Each Federal laboratory shall establish an Office of Research and technology Applications. Laboratories having existing organizational structures which perform the functions of this section may elect to combine the Office of Research and Technology Applications within the existing organization. The staffing and funding levels for these offices shall be determined between each Federal laboratory and the Federal agency operating or directing the laboratory, except that (1) each laboratory having 200 or more full-time equivalent scientific, engineering, and related technical positions shall provide one or more full-time equivalent positions as staff for its Office of Research and Technology Applications, and (2) each Federal agency which operates or directs one or more Federal laboratories shall make available sufficient funding, either as a separate line item or from the agency's research and development budget, to support the technology transfer function at the agency and at its laboratories, including support of the Offices of Research and Technology Applications. Furthermore, individuals filling positions in an Office of Research and Technology Applications shall be included in the overall laboratory/agency management development program so as to ensure that highly competent technical managers are full participants in the technology transfer process. The agency head shall submit to Congress at the time the President submits the budget to Congress an explanation of the agency's technology transfer program for the preceding year and the agency's plans for conducting its technology transfer function for the upcoming year, including plans for securing intellectual property rights in laboratory innovations with commercial promise and plans for managing such innovations so as to benefit the competitiveness of United States industry.
+Each Federal laboratory shall establish an Office of Research and technology Applications. Laboratories having existing organizational structures which perform the functions of this section may elect to combine the Office of Research and Technology Applications within the existing organization. The staffing and funding levels for these offices shall be determined between each Federal laboratory and the Federal agency operating or directing the laboratory, except that (1) each laboratory having 200 or more full-time equivalent scientific, engineering, and related technical positions shall provide one or more full-time equivalent positions as staff for its Office of Research and Technology Applications, and (2) each Federal agency which operates or directs one or more Federal laboratories shall make available sufficient funding, either as a separate line item or from the agency's research and development budget, to support the technology transfer function at the agency and at its laboratories, including support of the Offices of Research and Technology Applications. Furthermore, individuals filling positions in an Office of Research and Technology Applications shall be included in the overall laboratory/agency management development program so as to ensure that highly competent technical managers are full participants in the technology transfer process.
 
 #### (c) Functions of Research and Technology Applications Offices
 
@@ -42,11 +42,11 @@ The National Technical Information Service shall—
 
 &emsp;(5) use appropriate technology transfer mechanisms such as personnel exchanges and computer-based systems; and
 
-&emsp;(6) maintain a permanent archival repository and clearinghouse for the collection and dissemination of nonclassified scientific, technical, and engineering information.
+&emsp;(6) maintain a permanent archival repository and clearinghouse for the collection anddissemination of nonclassified scientific, technical, and engineering information.
 
 #### (e) Establishment of Federal Laboratory Consortium for Technology Transfer
 
-(1) There is hereby established the Federal Laboratory Consortium for Technology Transfer (hereinafter referred to as the “Consortium”)which, in cooperation with Federal Laboratories <sup>1</sup> and the private sector, shall—
+(1) There is hereby established the Federal Laboratory Consortium for Technology Transfer (hereinafter referred to as the “Consortium”) which, in cooperation with Federal laboratories and the private sector, shall—
 
 &emsp;(A) develop and (with the consent of the Federal laboratory concerned) administer techniques, training courses, and materials concerning technology transfer to increase the awareness of Federal laboratory employees regarding the commercial potential of laboratory technology and innovations;
 
@@ -84,13 +84,47 @@ The National Technical Information Service shall—
 
 (6) Not later than one year after October 20, 1986, and every year thereafter, the Chairman of the Consortium shall submit a report to the President, to the appropriate authorization and appropriation committees of both Houses of the Congress, and to each agency with respect to which a transfer of funding is made (for the fiscal year or years involved) under paragraph (7), concerning the activities of the Consortium and the expenditures made by it under this subsection during the year for which the report is made. Such report shall include an annual independent audit of the financial statements of the Consortium, conducted in accordance with generally accepted accounting principles.
 
-(7)(A) Subject to subparagraph (B), an amount equal to 0.008 percent of the budget of each Federal agency from any Federal source, including related overhead, that is to be utilized by or on behalf of the laboratories of such agency for a fiscal year referred to in subparagraph (B)(ii) shall be transferred by such agency to the National Institute of Standards and Technology at the beginning of the fiscal year involved. Amounts so transferred shall be provided by the Institute to the Consortium for the purpose of carrying out activities of the Consortium under this subsection.
+(7)(A) Subject to subparagraph (B), an amount equal to 0.008 percent of the budget of each Federal agency from any Federal source, including related overhead, that is to be utilized by or on behalf of the laboratories of such agency for a fiscal year referred to in subparagraph (B)(ii) shall be transferred by such agency to the National Institute of Standards and Technology at the beginning of the fiscal year involved. Amounts so transferred shall be provided by the Institute to the Consortium for the purpose ofcarrying out activities of the Consortium under this subsection.
 
-(B) A transfer shall be made by any Federal agency under subparagraph (A), for any fiscal year, only if the amount so transferred by thatagency (as determined under such subparagraph) would exceed $10,000.
+(B) A transfer shall be made by any Federal agency under subparagraph (A), for any fiscal year, only if the amount so transferred by that agency (as determined under such subparagraph) would exceed $10,000.
 
 (C) The heads of Federal agencies and their designees, and the directors of Federal laboratories, may provide such additional support for operations of the Consortium as they deem appropriate.
 
-#### (f) Repealed. Pub. L. 104–66, title III, §3001(f), Dec. 21, 1995, 109 Stat. 734
+#### (f) Agency reports on utilization
+
+#### (1) In general
+
+&emsp;Each Federal agency which operates or directs one or more Federal laboratories or which conducts activities under sections 207 and 209 of title 35 shall report annually to the Office of Management and Budget, as part of the agency's annual budget submission, on the activities performed by that agency and its Federal laboratories under the provisions of this section and of sections 207 and 209 of title 35.
+
+#### (2) Contents
+
+&emsp;The report shall include—
+
+&emsp;&emsp;(A) an explanation of the agency's technology transfer program for the preceding fiscal year and the agency's plans for conducting its technology transfer function, including its plans for securing intellectual property rights in laboratory innovations with commercial promise and plans for managing its intellectual property so as to advance the agency's mission and benefit the competitiveness of United States industry; and
+
+&emsp;&emsp;(B) information on technology transfer activities for the preceding fiscal year, including—
+
+&emsp;&emsp;&emsp;(i) the number of patent applications filed;
+
+&emsp;&emsp;&emsp;(ii) the number of patents received;
+
+&emsp;&emsp;&emsp;(iii) the number of fully-executed licenses which received royalty income in the preceding fiscal year, categorized by whether they are exclusive, partially-exclusive, or non-exclusive, and the time elapsed from the date on which the license was requested by the licensee in writing to the date the license was executed;
+
+&emsp;&emsp;&emsp;(iv) the total earned royalty income including such statistical information as the total earned royalty income, of the top 1 percent, 5 percent, and 20 percent of the licenses, the range of royalty income, and the median, except where disclosure of such information would reveal the amount of royalty income associated with an individual license or licensee;
+
+&emsp;&emsp;&emsp;(v) what disposition was made of the income described in clause (iv);
+
+&emsp;&emsp;&emsp;(vi) the number of licenses terminated for cause; and
+
+&emsp;&emsp;&emsp;(vii) any other parameters or discussion that the agency deems relevant or unique to its practice of technology transfer.
+
+#### (3) Copy to Secretary; Attorney General; Congress
+
+&emsp;The agency shall transmit a copy of the report to the Secretary of Commerce and the Attorney General for inclusion in the annual report to Congress and the President required by subsection (g)(2) of this section.
+
+#### (4) Public availability
+
+&emsp;Each Federal agency reporting under this subsection is also strongly encouraged to make the information contained in such report available to the public through Internet sites or other electronic means.
 
 #### (g) Functions of Secretary
 
@@ -102,7 +136,27 @@ The National Technical Information Service shall—
 
 &emsp;(C) furnish advice and assistance, upon request, to Federal agencies concerning their cooperative research and development programs and projects.
 
-(2) Two years after October 20, 1986, and every two years thereafter, the Secretary shall submit a summary report to the President and the Congress on the use by the agencies and the Secretary of the authorities specified in this chapter. Other Federal agencies shall cooperate in the report's preparation.
+(2)
+
+Reports.—
+
+&emsp;(A)
+
+Annual report required.—The Secretary, in consultation with the Attorney General and the Commissioner of Patents and Trademarks, shall submit each fiscal year, beginning 1 year after November 1, 2000, a summary report to the President, the United States Trade Representative, and the Congress on the use by Federal agencies and the Secretary of the technology transfer authorities specified in this chapter and in sections 207 and 209 of title 35.
+
+&emsp;(B)
+
+Content.—The report shall—
+
+&emsp;&emsp;(i) draw upon the reports prepared by the agencies under subsection (f) of this section;
+
+&emsp;&emsp;(ii) discuss technology transfer best practices and effective approaches in the licensing and transfer of technology in the context of the agencies’ missions; and
+
+&emsp;&emsp;(iii) discuss the progress made toward development of additional useful measures of the outcomes of technology transfer programs of Federal agencies.
+
+&emsp;(C)
+
+Public availability.—The Secretary shall make the report available to the public through Internet sites or other electronic means.
 
 (3) Not later than one year after October 20, 1986, the Secretary shall submit to the President and the Congress a report regarding—
 
@@ -110,15 +164,39 @@ The National Technical Information Service shall—
 
 &emsp;(B) the feasibility and cost of compiling and maintaining a current and comprehensive inventory of all federally funded training software.
 
-#### (h) Repealed. Pub. L. 100–519, title II, §212(a)(4), Oct. 24, 1988, 102 Stat. 2595
+#### (h) Duplication of reporting
+
+The reporting obligations imposed by this section—
+
+&emsp;(1) are not intended to impose requirements that duplicate requirements imposed by the Government Performance and Results Act of 1993 (31 U.S.C. 1101 note);
+
+&emsp;(2) are to be implemented in coordination with the implementation of that Act; and
+
+&emsp;(3) are satisfied if an agency provided the information concerning technology transfer activities described in this section in its annual submission under the Government Performance and Results Act of 1993 (31 U.S.C. 1101 note).
 
 #### (i) Research equipment
 
-The Director of a laboratory, or the head of any Federal agency or department, may loan, lease, or give research equipment that is excess to the needs of the laboratory, agency, or department to an educational institution or nonprofit organization for the conduct of technical and scientific education and research activities. Title of ownership shall transfer with a gift under the <sup>2</sup> section.
+The Director of a laboratory, or the head of any Federal agency or department, may loan, lease, or give research equipment that is excess to the needs of the laboratory, agency, or department to an educational institution or nonprofit organization for the conduct of technical and scientific education and research activities. Title of ownership shall transfer with a gift under this section.
 
-(Pub. L. 96–480, §11, Oct. 21, 1980, 94 Stat. 2318; renumbered §10 and amended Pub. L. 99–502, §§3–5, 9(e)(1), Oct. 20, 1986, 100 Stat. 1787, 1789, 1791, 1797; renumbered §11 and amended Pub. L. 100–418, title V, §§5115(b)(2), 5122(a)(1), 5162(b), 5163(c)(1), (3), Aug. 23, 1988, 102 Stat. 1433, 1438, 1450, 1451; Pub. L. 100–519, title II, §§201(d)(3), 212(a)(4), Oct. 24, 1988, 102 Stat. 2594, 2595; Pub. L. 101–189, div. C, title XXXI, §3133(e), Nov. 29, 1989, 103 Stat. 1679; Pub. L. 102–245, title III, §§301, 303, Feb. 14, 1992, 106 Stat. 19, 20; Pub. L. 104–66, title III, §3001(f), Dec. 21, 1995, 109 Stat. 734; Pub. L. 104–113, §§3, 9, Mar. 7, 1996, 110 Stat. 775, 779; Pub. L. 105–394, title II, §212(d), Nov. 13, 1998, 112 Stat. 3655.)
+(Pub. L. 96–480, §11, Oct. 21, 1980, 94 Stat. 2318; renumbered §10 and amended Pub. L. 99–502, §§3–5, 9(e)(1), Oct. 20, 1986, 100 Stat. 1787, 1789, 1791, 1797; renumbered §11 and amended Pub. L. 100–418, title V, §§5115(b)(2), 5122(a)(1), 5162(b), 5163(c)(1), (3), Aug. 23, 1988, 102 Stat. 1433, 1438, 1450, 1451; Pub. L. 100–519, title II, §§201(d)(3), 212(a)(4), Oct. 24, 1988, 102 Stat. 2594, 2595; Pub. L. 101–189, div. C, title XXXI, §3133(e), Nov. 29, 1989, 103 Stat. 1679; Pub. L. 102–245, title III, §§301, 303, Feb. 14, 1992, 106 Stat. 19, 20; Pub. L. 104–66, title III, §3001(f), Dec. 21, 1995, 109 Stat. 734; Pub. L. 104–113, §§3, 9, Mar. 7, 1996, 110 Stat. 775, 779; Pub. L. 105–394, title II, §212(d), Nov. 13, 1998, 112 Stat. 3655; Pub. L. 106–404, §§7(5), (6), 10(a), Nov. 1, 2000, 114 Stat. 1745–1747.)
+
+#### References in Text
+
+The Government Performance and Results Act of 1993, referred to in subsec. (h), is Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 285, which enacted section 306 of Title 5, Government Organization and Employees, sections 1115 to 1119, 9703, and 9704 of Title 31, Money and Finance, and sections 2801 to 2805 of Title 39, Postal Service, amended section 1105 of Title 31, and enacted provisions set out as notes under sections 1101 and 1115 of Title 31. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under section 1101 of Title 31 and Tables.
 
 #### Amendments
+
+2000—Subsec. (b). Pub. L. 106–404, §10(a)(1), struck out at end “The agency head shall submit to Congress at the time the President submits the budget to Congress an explanation of the agency's technology transfer program for the preceding year and the agency's plans for conducting its technology transfer function for the upcoming year, including plans for securing intellectual property rights in laboratory innovations with commercial promise and plans for managing such innovations so as to benefit the competitiveness of United States industry.”
+
+Subsec. (e)(1). Pub. L. 106–404, §7(5), substituted “in cooperation with Federal laboratories” for “in cooperation with Federal Laboratories” in introductory provisions.
+
+Subsec. (f). Pub. L. 106–404, §10(a)(2), added subsec. (f).
+
+Subsec. (g)(2). Pub. L. 106–404, §10(a)(3), added par. (2) and struck out former par. (2) which read as follows: “Two years after October 20, 1986, and every two years thereafter, the Secretary shall submit a summary report to the President and the Congress on the use by the agencies and the Secretary of the authorities specified in this chapter. Other Federal agencies shall cooperate in the report's preparation.”
+
+Subsec. (h). Pub. L. 106–404, §10(a)(4), added subsec. (h).
+
+Subsec. (i). Pub. L. 106–404, §7(6), substituted “a gift under this section” for “a gift under the section”.
 
 1998—Subsec. (e)(1)(K). Pub. L. 105–394 added subpar. (K).
 
@@ -150,7 +228,7 @@ Subsec. (e)(8). Pub. L. 102–245, §301(d), struck out former par. (8) which re
 
 Subsec. (i). Pub. L. 102–245, §303, added subsec. (i).
 
-1989—Subsec. (b). Pub. L. 101–189 struck out “after September 30, 1981,” after “(2)”, substituted “sufficient funding, either as a separate line item or from the agency's research and development budget,” for “not less than 0.5 percent of the agency's research and development budget”, struck out “agency head may waive the requirement set forth in clause (2) of the preceding sentence. If the agency head waives such requirement, the” after “transfer process. The”, and substituted “agency's technology transfer program for the preceding year and the agency's plans for conducting its technology transfer function for the upcoming year, including plans for securing intellectual property rights in laboratory innovations with commercial promise and plans for managing such innovations so as to benefit the competitiveness of United States industry” for “reasons for the waiver and alternate plans for conducting the technology transfer function at the agency”.
+1989—Subsec. (b). Pub. L. 101–189 struck out “after September 30, 1981,” after “(2)”, substituted “sufficient funding, either as a separate line item or from the agency's research and development budget,” for “notless than 0.5 percent of the agency's research and development budget”, struck out “agency head may waive the requirement set forth in clause (2) of the preceding sentence. If the agency head waives such requirement, the” after “transfer process. The”, and substituted “agency's technology transfer program for the preceding year and the agency's plans for conducting its technology transfer function for the upcoming year, including plans for securing intellectual property rights in laboratory innovations with commercial promise and plans for managing such innovations so as to benefit the competitiveness of United States industry” for “reasons for the waiver and alternate plans for conducting the technology transfer function at the agency”.
 
 1988—Subsec. (d)(6). Pub. L. 100–418, §5163(c)(3), added par. (6).
 
@@ -192,6 +270,10 @@ Subsecs. (e), (f). Pub. L. 99–502, §§3, 4(d), added subsec. (e), redesignate
 
 Subsec. (g). Pub. L. 99–502, §5, added subsec. (g).
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (e)(6) of this section relating to requirement to submit annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 171 of House Document No. 103–7.
+
 #### Ex. Ord. No. 12591. Facilitating Access to Science and Technology
 
 Ex. Ord. No. 12591, Apr. 10, 1987, 52 F.R. 13414, as amended by Ex. Ord. No. 12618, Dec. 22, 1987, 52 F.R. 48661, provided:
@@ -210,7 +292,7 @@ Section 1. <i>Transfer of Federally Funded Technology.</i>
 
 (B) to license, assign, or waive rights to intellectual property developed by the laboratory either under such cooperative research or development agreements and from within individual laboratories.
 
-(2) identify and encourage persons to act as conduits between and among Federal laboratories, universities,and the private sector for the transfer of technology developed from federally funded research and development efforts;
+(2) identify and encourage persons to act as conduits between and among Federal laboratories, universities, and the private sector for the transfer of technology developed from federally funded research and development efforts;
 
 (3) ensure that State and local governments, universities, and the private sector are provided with information on the technology, expertise, and facilities available in Federal laboratories;
 
@@ -269,8 +351,4 @@ Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 3704b–2, 3708, 3713, 3715 of this title; title 10 section 2371a; title 29 section 3032.
-
-<i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be “this”.</i>
 

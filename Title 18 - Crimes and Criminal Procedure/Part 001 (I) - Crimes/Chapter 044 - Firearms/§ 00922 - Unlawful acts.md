@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(C) nothing in this paragraph shall be construed as applying in any manner in the District of Columbia, the Commonwealth of Puerto Rico, or any possession of the United States differently than it would apply if the District of Columbia, the Commonwealth of Puerto Rico, or the possession were in fact a State of the United States;
 
-&emsp;(3) for any person, other than a licensed importer, licensed manufacturer, licensed dealer, or licensed collector to transport into or receive in the State where he resides (or if the person is a corporation or other business entity, the State where it maintains a place of business) any fire arm purchased or otherwise obtained by such person outside that State, except that this paragraph (A) shall not preclude any person who lawfully acquires a firearm by bequest or intestate succession in a State other than his State of residence from transporting the firearm into or receiving it inthat State, if it is lawful for such person to purchase or possess such firearm in that State, (B) shall not apply to the transportation or receipt of a firearm obtained in conformity with subsection (b)(3) of this section, and (C) shall not apply to the transportation of any firearm acquired in any State prior to the effective date of this chapter;
+&emsp;(3) for any person, other than a licensed importer, licensed manufacturer, licensed dealer, or licensed collector to transport into or receive in the State where he resides (or if the person is a corporation or other business entity, the State where it maintains a place of business) any fire arm purchased or otherwise obtained by such person outside that State, except that this paragraph (A) shall not preclude any person who lawfully acquires a firearm by bequest or intestate succession in a State other than his State of residence from transporting the firearm into or receiving it in that State, if it is lawful for such person to purchase or possess such firearm in that State, (B) shall not apply to the transportation or receipt of a firearm obtained in conformity with subsection (b)(3) of this section, and (C) shall not apply to the transportation of any firearm acquired in any State prior to the effective date of this chapter;
 
 &emsp;(4) for any person, other than a licensed importer, licensed manufacturer, licensed dealer, or licensed collector, to transport in interstate or foreign commerce any destructive device, machinegun (as defined in section 5845 of the Internal Revenue Code of 1986), short-barreled shotgun, or short-barreled rifle, except as specifically authorized by the Secretary consistent with public safety and necessity;
 
@@ -52,7 +52,7 @@
 
 &emsp;(4) to any person any destructive device, machinegun (as defined in section 5845 of the Internal Revenue Code of 1986), short-barreled shotgun, or short-barreled rifle, except as specifically authorized by the Secretary consistent with public safety and necessity; and
 
-&emsp;(5) any firearm or armor-piercing ammunition to any person unless the licensee notes in his records, required to be kept pursuant to section 923 of this chapter, the name, age, and place of residence of such person if the person is an individual, or the identity and principaland local places of business of such person if the person is a corporation or other business entity.
+&emsp;(5) any firearm or armor-piercing ammunition to any person unless the licensee notes in his records, required to be kept pursuant to section 923 of this chapter, the name, age, and place of residence of such person if the person is an individual, or the identity and principal and local places of business of such person if the person is a corporation or other business entity.
 
 > Paragraphs (1), (2), (3), and (4) of this subsection shall not apply to transactions between licensed importers, licensed manufacturers, licensed dealers, and licensed collectors. Paragraph (4) of this subsection shall not apply to a sale or delivery to any research organization designated by the Secretary.
 
@@ -60,7 +60,7 @@
 
 &emsp;(1) the transferee submits to the transferor a sworn statement in the following form:
 
-&emsp;&emsp;“Subject to penalties provided by law, I swear that, in the case of any firearm other than a shotgun or a rifle, I am twenty-one years or more of age, or that, in the case of a shotgun or a rifle, I am eighteen years or more of age; that I am not prohibited by the provisions of chapter 44 of title 18, United States Code, from receiving a firearm in interstate or foreign commerce; and that my receipt of this firearm will not be in violation of any statute of the State and published ordinance applicable to the locality in which I reside. Further, the true title, name, and address of the principal law enforcement officer of the locality to which the firearm will be delivered are \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+&emsp;&emsp;“Subject to penalties provided by law, I swear that, in the case of any firearm other than a shotgun or a rifle, I am twenty-one years or more of age, or that, in the case of a shotgun or a rifle, I am eighteen years or more of age; that I am not prohibited by the provisions of chapter 44 of title 18, United States Code, from receiving a firearm in interstate or foreign commerce; and that my receipt of this firearm will not be in violation of any statute of the State and published ordinance applicable to the locality inwhich I reside. Further, the true title, name, and address of the principal law enforcement officer of the locality to which the firearm will be delivered are \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 > &emsp;&emsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -118,7 +118,7 @@
 
 &emsp;(2) who is a fugitive from justice;
 
-&emsp;(3) who is an unlawful user of or addicted to any controlled substance (as defined in section 102 of the Controlled Substances Act (21 U.S.C. 802));
+&emsp;(3) who is an unlawful user of or addicted to any controlled substance (as defined in section102 of the Controlled Substances Act (21 U.S.C. 802));
 
 &emsp;(4) who has been adjudicated as a mental defective or who has been committed to a mental institution;
 
@@ -182,7 +182,7 @@
 
 &emsp;(A) the term “firearm” does not include the frame or receiver of any such weapon;
 
-&emsp;(B) the term “major component” means, with respect to a firearm, the barrel, the slide or cylinder, or the frame or receiver of the firearm; and
+&emsp;(B) the term “major component” means, with respect to a firearm, the barrel, the slideor cylinder, or the frame or receiver of the firearm; and
 
 &emsp;(C) the term “Security Exemplar” means an object, to be fabricated at the direction of the Secretary, that is—
 
@@ -440,7 +440,7 @@
 
 (4) Paragraph (1) shall not apply to—
 
-&emsp;(A) the manufacture for, transfer to, or possession by the United States or a department or agency of the United States or a State or a department, agency, or political subdivision of a State, or a transfer to or possession by a law enforcement officer employed by such an entity for purposes of law enforcement (whether on or off duty);
+&emsp;(A) the manufacture for, transfer to, or possession by the United States or a department or agency of the United States or a State or a department, agency, or political subdivision ofa State, or a transfer to or possession by a law enforcement officer employed by such an entity for purposes of law enforcement (whether on or off duty);
 
 &emsp;(B) the transfer to a licensee under title I of the Atomic Energy Act of 1954 for purposes of establishing and maintaining an on-site physical protection system and security organization required by Federal law, or possession by an employee or contractor of such licensee on-site for such purposes or off-site for purposes of licensee-authorized training or transportation of nuclear materials;
 
@@ -2206,7 +2206,7 @@ Determination of Timetables.—Not later than 6 months after the date of enactme
 
 “(b)
 
-Establishment of System.—Not later than 60 months after the date of the enactment of this Act \[Nov. 30, 1993\], the Attorney General shall establish a national instant criminal background check system that any licensee may contact, by telephone or by other electronic means in addition to the telephone, for information, to be supplied immediately, on whether receipt of a firearm by a prospective transferee would violate section 922 of title 18, United States Code, or State law.
+Establishment of System.—Not later than 60 months after the date of the enactment of this Act \[Nov. 30, 1993\], the Attorney General shall establish a national instant criminal background check system that any licensee may contact, by telephone or byother electronic means in addition to the telephone, for information, to be supplied immediately, on whether receipt of a firearm by a prospective transferee would violate section 922 of title 18, United States Code, or State law.
 
 “(c)
 
@@ -2276,7 +2276,7 @@ Section 106(b) of Pub. L. 103–159, as amended by Pub. L. 103–322, title XXI,
 
 “(1)
 
-Grants for the improvement of criminal records.—The Attorney General, through the Bureau of Justice Statistics, shall, subject to appropriationsand with preference to States that as of the date of enactment of this Act \[Nov. 30, 1993\] have the lowest percent currency of case dispositions in computerized criminal history files, make a grant to each State to be used—
+Grants for the improvement of criminal records.—The Attorney General, through the Bureau of Justice Statistics, shall, subject to appropriations and with preference to States that as of the date of enactment of this Act \[Nov. 30, 1993\] have the lowest percent currency of case dispositions in computerized criminal history files, make a grant to each State to be used—
 
 &emsp;“(A) for the creation of a computerized criminal history record system or improvement of an existing system;
 

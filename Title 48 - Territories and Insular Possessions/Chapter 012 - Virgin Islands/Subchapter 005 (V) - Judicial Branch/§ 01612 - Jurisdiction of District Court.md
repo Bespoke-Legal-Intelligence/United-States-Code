@@ -38,10 +38,6 @@ Section 402(e) of Pub. L. 95–598, which provided a prospective effective date 
 
 Section 703(b) of Pub. L. 98–454 provided that: “The provisions of this section \[amending this section\] shall not result in the loss of jurisdiction of the District Court of the Virgin Islands over any complaint or proceeding pending in it on the day preceding the effective date of this amendatory Act \[see Effective Date of 1984 Amendment note set out under section 1424 of this title\] and such complaint and proceeding may be pursued to final determination in the District Court of the Virgin Islands, the United States Court of Appeals for the Third Circuit, and the Supreme Court, notwithstanding the provisions of this amendatory Act \[Pub. L. 98–454\].”
 
-#### Cross References
-
-Federal question, amount in controversy, see sections 1331 and 1332 of Title 28, Judiciary and Judicial Procedure.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1561, 1611, 1614 of this title.

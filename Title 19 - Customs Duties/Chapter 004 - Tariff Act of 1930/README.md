@@ -40,7 +40,12 @@
 | (b) | Exception. |
 | (c) | Regulations. |
 | [1307\.](Subtitle%20002%20%28II%29%20-%20Special%20Provisions/Part%20001%20%28I%29%20-%20Miscellaneous/%C2%A7%2001307%20-%20Convict-made%20goods%3B%20importation%20prohibited.md) | Convict-made goods; importation prohibited. |
-| [1308\.](Subtitle%20002%20%28II%29%20-%20Special%20Provisions/Part%20001%20%28I%29%20-%20Miscellaneous/%C2%A7%2001308%20-%20Repealed.%20Pub.%20L.%2087%E2%80%93456%2C%20title%20III%2C%20%C2%A7301%28a%29%2C%20May%2024%2C%201962%2C%2076%20Stat.%2075.md) | Repealed. |
+| [1308\.](Subtitle%20002%20%28II%29%20-%20Special%20Provisions/Part%20001%20%28I%29%20-%20Miscellaneous/%C2%A7%2001308%20-%20Prohibition%20on%20importation%20of%20dog%20and%20cat%20fur%20products.md) | Prohibition on importation of dog and cat fur products. |
+| (a) | Definitions. |
+| (b) | Prohibitions. |
+| (c) | Penalties and enforcement. |
+| (d) | Publication of names of certain violators. |
+| (e) | Reports. |
 | [1309\.](Subtitle%20002%20%28II%29%20-%20Special%20Provisions/Part%20001%20%28I%29%20-%20Miscellaneous/%C2%A7%2001309%20-%20Supplies%20for%20certain%20vessels%20and%20aircraft.md) | Supplies for certain vessels and aircraft. |
 | (a) | Exemption from customs duties and internal-revenue tax. |
 | (b) | Drawback. |
@@ -80,6 +85,7 @@
 | (u) | Eligibility of entered or withdrawn merchandise. |
 | (v) | Multiple drawback claims. |
 | (w) | Limited applicability for certain agricultural products. |
+| (x) | Drawbacks for recovered materials. |
 | [1313a.](Subtitle%20002%20%28II%29%20-%20Special%20Provisions/Part%20001%20%28I%29%20-%20Miscellaneous/%C2%A7%2001313a%20-%20Appropriations%20for%20refunds%2C%20drawbacks%2C%20bounties%2C%20etc.md) | Appropriations for refunds, drawbacks, bounties, etc. |
 | [1314\.](Subtitle%20002%20%28II%29%20-%20Special%20Provisions/Part%20001%20%28I%29%20-%20Miscellaneous/%C2%A7%2001314%20-%20Repealed.%20June%2025%2C%201938%2C%20ch.%20679%2C%20%C2%A735%2C%2052%20Stat.%201092%2C%20eff.%20July%2025%2C%201938.md) | Repealed. |
 | [1315\.](Subtitle%20002%20%28II%29%20-%20Special%20Provisions/Part%20001%20%28I%29%20-%20Miscellaneous/%C2%A7%2001315%20-%20Effective%20date%20of%20rates%20of%20duty.md) | Effective date of rates of duty. |
@@ -386,6 +392,8 @@ I74subpart a—definitions
 | (f) | Statistical enumeration. |
 | (g) | Statement of cost of production. |
 | (h) | Admissibility of data electronically transmitted. |
+| (i) | Special rule for foreign trade zone operations. |
+| (j) | Treatment of multiple entries of merchandise as single transaction. |
 | [1484a.](Subtitle%20003%20%28III%29%20-%20Administrative%20Provisions/Part%20003%20%28III%29%20-%20Ascertainment%2C%20Collection%2C%20and%20Recovery%20of%20Duties/%C2%A7%2001484a%20-%20Articles%20returned%20from%20space%20not%20to%20be%20construed%20as%20importation.md) | Articles returned from space not to be construed as importation. |
 | [1484b.](Subtitle%20003%20%28III%29%20-%20Administrative%20Provisions/Part%20003%20%28III%29%20-%20Ascertainment%2C%20Collection%2C%20and%20Recovery%20of%20Duties/%C2%A7%2001484b%20-%20Deferral%20of%20duty%20on%20large%20yachts%20imported%20for%20sale%20at%20United%20States%20boat%20shows.md) | Deferral of duty on large yachts imported for sale at United States boat shows. |
 | (a) | In general. |
@@ -543,6 +551,7 @@ I74subpart a—definitions
 | [1555\.](Subtitle%20003%20%28III%29%20-%20Administrative%20Provisions/Part%20004%20%28IV%29%20-%20Transportation%20in%20Bond%20and%20Warehousing%20of%20Merchandise/%C2%A7%2001555%20-%20Bonded%20warehouses.md) | Bonded warehouses. |
 | (a) | Designation; preconditions; bonding requirements; supervision. |
 | (b) | Duty-free sales enterprises. |
+| (c) | International travel merchandise. |
 | [1556\.](Subtitle%20003%20%28III%29%20-%20Administrative%20Provisions/Part%20004%20%28IV%29%20-%20Transportation%20in%20Bond%20and%20Warehousing%20of%20Merchandise/%C2%A7%2001556%20-%20Bonded%20warehouses%3B%20regulations%20for%20establishing.md) | Bonded warehouses; regulations for establishing. |
 | [1557\.](Subtitle%20003%20%28III%29%20-%20Administrative%20Provisions/Part%20004%20%28IV%29%20-%20Transportation%20in%20Bond%20and%20Warehousing%20of%20Merchandise/%C2%A7%2001557%20-%20Entry%20for%20warehouse.md) | Entry for warehouse. |
 | (a) | Withdrawal of merchandise; time; payment of charges. |
@@ -924,6 +933,12 @@ I74subpart a—review of amount of duty and agreements other than quantitative r
 | (c) | Pending and suspended countervailing duty investigations. |
 | (d) | Publication in Federal Register. |
 | (e) | Request for simultaneous expedited review under section 1675(c). |
+| [1675c.](Subtitle%20004%20%28IV%29%20-%20Countervailing%20and%20Antidumping%20Duties/Part%20003%20%28III%29%20-%20Reviews%3B%20Other%20Actions%20Regarding%20Agreements/Subpart%20a%20-%20Review%20of%20Amount%20of%20Duty%20and%20Agreements%20Other%20Than%20Quantitative%20Restriction%20Agreements/%C2%A7%2001675c%20-%20Continued%20dumping%20and%20subsidy%20offset.md) | Continued dumping and subsidy offset. |
+| (a) | In general. |
+| (b) | Definitions. |
+| (c) | Distribution procedures. |
+| (d) | Parties eligible for distribution of antidumping and countervailing duties assessed. |
+| (e) | Special accounts. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1037,9 +1052,24 @@ I74subpart a—review of amount of duty and agreements other than quantitative r
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBTITLE V—REQUIREMENTS APPLICABLE TO IMPORTS OF CERTAIN CIGARETTES
+
+|  |  |
+| :--- | ---: |
+| [1681\.](Subtitle%20005%20%28V%29%20-%20Requirements%20Applicable%20to%20Imports%20of%20Certain%20Cigarettes/%C2%A7%2001681%20-%20Definitions.md) | Definitions. |
+| [1681a.](Subtitle%20005%20%28V%29%20-%20Requirements%20Applicable%20to%20Imports%20of%20Certain%20Cigarettes/%C2%A7%2001681a%20-%20Requirements%20for%20entry%20of%20certain%20cigarettes.md) | Requirements for entry of certain cigarettes. |
+| (a) | General rule. |
+| (b) | Exemptions. |
+| (c) | Customs certifications required for cigarette imports. |
+| [1681b.](Subtitle%20005%20%28V%29%20-%20Requirements%20Applicable%20to%20Imports%20of%20Certain%20Cigarettes/%C2%A7%2001681b%20-%20Enforcement.md) | Enforcement. |
+| (a) | Civil penalty. |
+| (b) | Forfeitures. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 81c, 3538 of this title; title 7 section 624; title 13 section 301; title 15 section 69d; title 16 section 1540; title 26 sections 993, 5007; title 33 section 2236; title 42 section 9163.
+This chapter is referred to in sections 81c, 3538 of this title; title 7 section 624; title 13 section 301; title 15 section 69d; title 16 section 1540; title 18 section 983; title 26 sections 993, 5007; title 33 section 2236; title 42 section 9163.
 
 
 ---
@@ -1050,3 +1080,4 @@ This chapter is referred to in sections 81c, 3538 of this title; title 7 section
 - [Subtitle 002 (II) - Special Provisions](Subtitle%20002%20%28II%29%20-%20Special%20Provisions/README.md)
 - [Subtitle 003 (III) - Administrative Provisions](Subtitle%20003%20%28III%29%20-%20Administrative%20Provisions/README.md)
 - [Subtitle 004 (IV) - Countervailing and Antidumping Duties](Subtitle%20004%20%28IV%29%20-%20Countervailing%20and%20Antidumping%20Duties/README.md)
+- [Subtitle 005 (V) - Requirements Applicable to Imports of Certain Cigarettes](Subtitle%20005%20%28V%29%20-%20Requirements%20Applicable%20to%20Imports%20of%20Certain%20Cigarettes/README.md)

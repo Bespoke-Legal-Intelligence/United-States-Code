@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 3002, 3011, 3013a, 3020c, 3026, 3027, 3030g–12, 3030bb, 3031, 3056a, 3058d of this title.
+This subchapter is referred to in sections 3002, 3011, 3013a, 3020c, 3026, 3027, 3030, 3030a, 3058d of this title.
 
 
 ---
@@ -13,4 +13,5 @@ This subchapter is referred to in sections 3002, 3011, 3013a, 3020c, 3026, 3027,
 - [&sect; 03057a - Sense of Congress](%C2%A7%2003057a%20-%20Sense%20of%20Congress.md)
 - [Part A - Indian Program](Part%20A%20-%20Indian%20Program/README.md)
 - [Part B - Native Hawaiian Program](Part%20B%20-%20Native%20Hawaiian%20Program/README.md)
-- [Part C - General Provisions](Part%20C%20-%20General%20Provisions/README.md)
+- [Part C - Native American Caregiver Support Program](Part%20C%20-%20Native%20American%20Caregiver%20Support%20Program/README.md)
+- [Part D - General Provisions](Part%20D%20-%20General%20Provisions/README.md)

@@ -30,7 +30,7 @@ Commuter Airports.—In developing the terms required by subsection (b) for airp
 
 (e)
 
-Effective Date.—Any regulation establishing the terms required by subsection (b) for airports covered by subsection (a)(2) shall not take effect until such regulation, and a report on the economic impact of the regulation on air service to the airports covered by the rule, hasbeen submitted to Congress and 120 days have elapsed following the date of such submission.
+Effective Date.—Any regulation establishing the terms required by subsection (b) for airports covered by subsection (a)(2) shall not take effect until such regulation, and a report on the economic impact of the regulation on air service to the airports covered by the rule, has been submitted to Congress and 120 days have elapsed following the date of such submission.
 
 (f)
 
@@ -82,7 +82,11 @@ Subsec. (f). Pub. L. 104–264, §404(d), added subsec. (f).
 
 Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 
+#### Small Airport Certification
+
+Pub. L. 106–181, title V, §518, Apr. 5, 2000, 114 Stat. 145, provided that: “Not later than 60 days after the date of the enactment of this Act \[Apr. 5, 2000\], the Administrator \[of the Federal Aviation Administration\] shall issue a notice of proposed rulemaking on implementing section 44706(a)(2) of title 49, United States Code, relating to issuance of airport operating certificates for small scheduled passenger air carrier operations. Not later than 1 year after the last day of the period for public comment provided for in the notice of proposed rulemaking, the Administrator shall issue a final rule on implementing such program.”
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 106, 44701, 44711, 45302, 46310, 47110, 47501, 47531 of this title.
+This section is referred to in sections 44701, 44711, 45302, 46310, 47110, 47116, 47501, 47531 of this title.
 

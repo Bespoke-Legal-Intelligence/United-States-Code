@@ -9,10 +9,13 @@
 | [4045\.](%C2%A7%2004045%20-%20Authority%20to%20conduct%20autopsies.md) | Authority to conduct autopsies. |
 | [4046\.](%C2%A7%2004046%20-%20Shock%20incarceration%20program.md) | Shock incarceration program. |
 | [4047\.](%C2%A7%2004047%20-%20Prison%20impact%20assessments.md) | Prison impact assessments. |
+| [4048\.](%C2%A7%2004048%20-%20Fees%20for%20health%20care%20services%20for%20prisoners.md) | Fees for health care services for prisoners. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2000—Pub. L. 106–294, §2(b), Oct. 12, 2000, 114 Stat. 1040, added item 4048.
 
 1994—Pub. L. 103–322, title II, §20402(b), Sept. 13, 1994, 108 Stat. 1825, added item 4047.
 
@@ -34,3 +37,4 @@
 - [&sect; 04045 - Authority to conduct autopsies](%C2%A7%2004045%20-%20Authority%20to%20conduct%20autopsies.md)
 - [&sect; 04046 - Shock incarceration program](%C2%A7%2004046%20-%20Shock%20incarceration%20program.md)
 - [&sect; 04047 - Prison impact assessments](%C2%A7%2004047%20-%20Prison%20impact%20assessments.md)
+- [&sect; 04048 - Fees for health care services for prisoners](%C2%A7%2004048%20-%20Fees%20for%20health%20care%20services%20for%20prisoners.md)

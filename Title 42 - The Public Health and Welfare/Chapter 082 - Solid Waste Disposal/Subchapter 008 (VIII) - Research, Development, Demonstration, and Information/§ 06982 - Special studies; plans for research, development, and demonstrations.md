@@ -16,7 +16,7 @@ For purposes of determining priorities for research on recovery of materials and
 
 &emsp;(2) the potential for research, development, and demonstration without Federal action, including the degree of restraint on such potential posed by the risks involved, and
 
-&emsp;(3) the magnitude of effort and period of time necessary to develop the technology tothe point where Federal assistance can be ended.
+&emsp;(3) the magnitude of effort and period of time necessary to develop the technology to the point where Federal assistance can be ended.
 
 #### (d) Small-scale and low technology study
 
@@ -82,7 +82,7 @@ The Administrator shall conduct research and report on the economics of, and imp
 
 &emsp;(E) the need for further research, development, and demonstration in the area of resource conservation.
 
-(2) The study required in paragraph (1)(D) may include pilot scale projects, and shall consider and evaluate alternative strategies with respect to—
+(2) The study required in paragraph (1)(D) may include pilot scale projects, and shall considerand evaluate alternative strategies with respect to—
 
 &emsp;(A) the product categories on which such charges would be imposed;
 
@@ -208,7 +208,7 @@ The Administrator shall compile, and not later than October 1, 1986, submit to t
 
 #### (s) Extending landfill life and reusing landfilled areas
 
-The Administrator shall conduct detailed, comprehensive studies of methods to extend the useful life of sanitary landfills and to better usesites in which filled or closed landfills are located. Such studies shall address—
+The Administrator shall conduct detailed, comprehensive studies of methods to extend the useful life of sanitary landfills and to better use sites in which filled or closed landfills are located. Such studies shall address—
 
 &emsp;(1) methods to reduce the volume of materials before placement in landfills;
 
@@ -250,7 +250,7 @@ Subsec. (<i>l</i>). Pub. L. 95–609, §7(t)(5), struck out requirement of submi
 
 #### Change of Name
 
-Committee on Interstate and Foreign Commerce of the House of Representatives changed to Committee on Energy and Commerce immediately prior to noon on Jan. 3, 1981, by House Resolution No. 549, Ninety-sixth Congress, Mar. 25, 1980. Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Interstate and Foreign Commerce of the House of Representatives changed to Committee on Energy and Commerce immediately prior to noon on Jan. 3, 1981, by House Resolution No. 549, Ninety-sixth Congress, Mar. 25, 1980. Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Transfer of Functions
 

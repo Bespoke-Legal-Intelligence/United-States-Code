@@ -90,6 +90,10 @@ A housing plan under this section for an Indian tribe shall be in a form prescri
 
 &emsp;&emsp;(E) a certification that policies are in effect and are available for review by the Secretary and the public governing the management and maintenance of housing assisted with grant amounts provided under this chapter.
 
+#### (6) Certain families
+
+&emsp;With respect to assistance provided under section 4131(b)(2) of this title by a recipient to Indian families that are not low-income families, evidence that there is a need for housing for each such family during that period that cannot reasonably be met without such assistance.
+
 #### (d) Participation of tribally designated housing entity
 
 A plan under this section for an Indian tribe may be prepared and submitted on behalf of the tribe by the tribally designated housing entity for the tribe, but only if such plan contains a certification by the recognized tribal government of the grant beneficiary that such tribe—
@@ -102,33 +106,35 @@ A plan under this section for an Indian tribe may be prepared and submitted on b
 
 A plan under this section may cover more than 1 Indian tribe, but only if the certification requirements under subsection (d) of this section are complied with by each such grant beneficiary covered.
 
-#### (f) Plans for small tribes
-
-#### (1) Separate requirements
-
-&emsp;The Secretary may—
-
-&emsp;&emsp;(A) establish requirements for submission of plans under this section and the information to be included in such plans applicable to small Indian tribes and small tribally designated housing entities; and
-
-&emsp;&emsp;(B) waive any requirements under this section that the Secretary determines are burdensome or unnecessary for such tribes and housing entities.
-
-#### (2) Small tribes
-
-&emsp;The Secretary may define small Indian tribes and small tribally designated housing entities based on the number of dwelling units assisted under this subchapter by the tribe or housing entity or owned or operated pursuant to a contract under the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\] between the Secretary and the Indian housing authority for the tribe.
-
-#### (g) Regulations
+#### (f) Regulations
 
 The requirements relating to the contents of plans under this section shall be established by regulation, pursuant to section 4116 of this title.
 
-(Pub. L. 104–330, title I, §102, Oct. 26, 1996, 110 Stat. 4023; Pub. L. 105–276, title V, §595(e)(5), Oct. 21, 1998, 112 Stat. 2657.)
+(Pub. L. 104–330, title I, §102, Oct. 26, 1996, 110 Stat. 4023; Pub. L. 105–276, title V, §595(e)(5), Oct. 21, 1998, 112 Stat. 2657; Pub. L. 106–568, title X,§1003(b), (c), Dec. 27, 2000, 114 Stat. 2926; Pub. L. 106–569, title V, §503(b), (c), Dec. 27, 2000, 114 Stat. 2962.)
 
 #### References in Text
 
-The United States Housing Act of 1937, referred to in subsecs. (c)(4)(D) and (f)(2), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
+The United States Housing Act of 1937, referred to in subsec. (c)(4)(D), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
 
 The Civil Rights Act of 1968, referred to in subsec. (c)(5)(A), is Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 73, as amended. Title II of the Act is classified generally to subchapter I (§1301 et seq.) of chapter 15 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of Title 42 and Tables.
 
 #### Amendments
+
+2000—Subsec. (c)(6). Pub. L. 106–568, §1003(b), and Pub. L. 106–569, §503(b), amended subsec. (c) identically, adding par. (6).
+
+Subsecs. (f), (g). Pub. L. 106–568, §1003(c), and Pub. L. 106–569, §503(c), amended section identically, redesignating subsec. (g) as (f) and striking out heading and text of former subsec. (f). Text read as follows:
+
+“(1)
+
+Separate requirements.—The Secretary may—
+
+&emsp;“(A) establish requirements for submission of plans under this section and the information to be included in such plans applicable to small Indian tribes and small tribally designated housing entities; and
+
+&emsp;“(B) waive any requirements under this section that the Secretary determines are burdensome or unnecessary for such tribes and housing entities.
+
+“(2)
+
+Small tribes.—The Secretary may define small Indian tribes and small tribally designated housing entities based on the number of dwelling units assisted under this subchapter by the tribe or housing entity or owned or operated pursuant to a contract under the United States Housing Act of 1937 between the Secretary and the Indian housing authority for the tribe.”
 
 1998—Subsec. (a). Pub. L. 105–276 redesignated par. (1) as (1)(A), par. (2) as (1)(B), and par. (3) as (2), and inserted “or” at end of par. (1)(A).
 

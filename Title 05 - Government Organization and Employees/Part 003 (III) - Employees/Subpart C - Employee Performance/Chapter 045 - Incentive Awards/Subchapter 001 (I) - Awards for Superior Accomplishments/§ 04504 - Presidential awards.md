@@ -98,10 +98,6 @@ Sec. 4. The form and procedures for making nominations for this award shall be p
 
 (c) Persons appointed by the President are not eligible for this award unless, in the opinion of the Office, they are currently serving in a career position.
 
-#### Cross References
-
-Cash awards for suggestions, inventions or scientific achievements, see section 1124 of Title 10, Armed Forces.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 4502 of this title; title 15 section 3710c.

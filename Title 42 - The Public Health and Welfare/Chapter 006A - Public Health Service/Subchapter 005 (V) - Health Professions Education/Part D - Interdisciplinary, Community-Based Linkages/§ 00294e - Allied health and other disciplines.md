@@ -32,7 +32,7 @@ Activities of the type described in this subsection include the following:
 
 &emsp;&emsp;&emsp;(ii) who agree upon completion of the training program to practice in a medically underserved community;
 
-> &emsp;&emsp;that shall be utilized to assist in the payment of all or part of the costs associatedwith tuition, fees and such other stipends as the Secretary may consider necessary; and
+> &emsp;&emsp;that shall be utilized to assist in the payment of all or part of the costs associated with tuition, fees and such other stipends as the Secretary may consider necessary; and
 
 &emsp;&emsp;(J) those to meet the costs of projects to plan, develop, and operate or maintain graduate programs in behavioral and mental health practice.
 

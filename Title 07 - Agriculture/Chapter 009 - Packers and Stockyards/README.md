@@ -164,6 +164,7 @@
 | (h) | Exclusive jurisdiction of court of appeals; finality of decree; appeal to Supreme Court; stay of decree. |
 | 228b–4. | Violation of final order by live poultry dealer; penalty. |
 | [228c.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2000228c%20-%20Federal%20preemption%20of%20State%20and%20local%20requirements.md) | Federal preemption of State and local requirements. |
+| [228d.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2000228d%20-%20Annual%20assessment%20of%20cattle%20and%20hog%20industries.md) | Annual assessment of cattle and hog industries. |
 | [229\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2000229%20-%20Separability.md) | Separability. |
 | [229a.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2000229a%20-%20Repealed.%20Pub.%20L.%20106%E2%80%9378%2C%20title%20IX%2C%20%C2%A7913%28a%29%2C%20Oct.%2022%2C%201999%2C%20113%20Stat.%201205.md) | Repealed. |
 

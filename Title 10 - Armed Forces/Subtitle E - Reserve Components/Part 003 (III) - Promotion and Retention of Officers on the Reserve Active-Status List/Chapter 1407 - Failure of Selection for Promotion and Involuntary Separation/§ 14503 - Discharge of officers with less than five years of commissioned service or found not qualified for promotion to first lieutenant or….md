@@ -26,7 +26,7 @@ Regulations.—Discharges under this section shall be made under regulations pre
 
 #### Prior Provisions
 
-Provisions similar to those in subsecs. (a) and (b) of this section were contained in sections 3819(b) and8819(c) of this title, prior to repeal by Pub. L. 103–337, §1629(a)(2), (c)(2).
+Provisions similar to those in subsecs. (a) and (b) of this section were contained in sections 3819(b) and 8819(c) of this title, prior to repeal by Pub. L. 103–337, §1629(a)(2), (c)(2).
 
 #### Rights for Officers With Over Three Years Service
 

@@ -48,13 +48,7 @@
 | (u) | Limits on loans to one borrower. |
 | (v) | Reports of condition. |
 | (w) | Forfeiture of franchise for money laundering or cash transaction reporting offenses. |
-| [1465\.](%C2%A7%2001465%20-%20Liquid%20asset%20requirements.md) | Liquid asset requirements. |
-| (a) | In general. |
-| (b) | Maintenance of account. |
-| (c) | Calculation. |
-| (d) | Deficiency assessments. |
-| (e) | Reduction or suspension. |
-| (f) | Regulating authority. |
+| [1465\.](%C2%A7%2001465%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93569%2C%20title%20XII%2C%20%C2%A71201%28a%29%2C%20Dec.%2027%2C%202000%2C%20114%20Stat.%203032.md) | Repealed. |
 | [1466\.](%C2%A7%2001466%20-%20Applicability.md) | Applicability. |
 | [1466a.](%C2%A7%2001466a%20-%20District%20associations.md) | District associations. |
 | (a) | In general. |
@@ -122,7 +116,7 @@ This chapter is referred to in sections 1441a, 1831k, 1843, 3204, 3401 of this t
 - [&sect; 01462a - Director of Office of Thrift Supervision](%C2%A7%2001462a%20-%20Director%20of%20Office%20of%20Thrift%20Supervision.md)
 - [&sect; 01463 - Supervision of savings associations](%C2%A7%2001463%20-%20Supervision%20of%20savings%20associations.md)
 - [&sect; 01464 - Federal savings associations](%C2%A7%2001464%20-%20Federal%20savings%20associations.md)
-- [&sect; 01465 - Liquid asset requirements](%C2%A7%2001465%20-%20Liquid%20asset%20requirements.md)
+- [&sect; 01465 - Repealed. Pub. L. 106&#8211;569, title XII, &sect;1201(a), Dec. 27, 2000, 114 Stat. 3032](%C2%A7%2001465%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93569%2C%20title%20XII%2C%20%C2%A71201%28a%29%2C%20Dec.%2027%2C%202000%2C%20114%20Stat.%203032.md)
 - [&sect; 01466 - Applicability](%C2%A7%2001466%20-%20Applicability.md)
 - [&sect; 01466a - District associations](%C2%A7%2001466a%20-%20District%20associations.md)
 - [&sect; 01467 - Examination fees](%C2%A7%2001467%20-%20Examination%20fees.md)

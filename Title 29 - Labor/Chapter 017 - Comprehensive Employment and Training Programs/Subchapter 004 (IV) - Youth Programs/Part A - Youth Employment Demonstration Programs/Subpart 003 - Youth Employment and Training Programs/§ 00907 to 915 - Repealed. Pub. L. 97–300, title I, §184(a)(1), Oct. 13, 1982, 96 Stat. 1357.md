@@ -8,7 +8,7 @@ Section 908, Pub. L. 93–203, title IV, §432, as added Pub. L. 95–524, §2, 
 
 Provisions similar to those comprising this section were contained in former section 894a of this title prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
-Section 909, Pub. L. 93–203, title IV, §433, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 1983; amended Pub. L. 97–35, title VII, §701(d)(1), Aug. 13, 1981, 95 Stat. 520, related to allocation of funds for youth employment and training programs.
+Section 909, Pub. L. 93–203, title IV, §433, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 1983; amended Pub. L. 97–35, title VII, §701(d)(1), Aug. 13, 1981, 95 Stat.520, related to allocation of funds for youth employment and training programs.
 
 Provisions similar to those comprising this section were contained in former section 894b of this title prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
@@ -43,8 +43,4 @@ Provisions similar to those comprising this section were contained in former sec
 Section 915, Pub. L. 93–203, title IV, §439, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 1988, related to youth employment incentive and social bonus program.
 
 A prior section 915, Pub. L. 93–203, title IV, §405, Dec. 28, 1973, 87 Stat. 865, related to special limitations on screening and selection of applicants, prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
-
-#### Effective Date of Repeal
-
-Section 184(a) of Pub. L. 97–300 provided that the repeal of these sections is effective Oct. 13, 1982.
 

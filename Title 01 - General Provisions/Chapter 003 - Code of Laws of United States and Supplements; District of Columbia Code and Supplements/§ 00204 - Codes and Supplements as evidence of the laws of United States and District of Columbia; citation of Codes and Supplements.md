@@ -64,17 +64,13 @@ Title 39, Postal Service—Pub. L. 86–682, §1, Sept. 2, 1960, 74 Stat. 578, a
 
 Title 44, Public Printing and Documents—Pub. L. 90–620, §1, Oct. 22, 1968, 82 Stat. 1238.
 
-Title 46, Shipping—Pub. L. 98–89, §1, Aug. 26, 1983, 97 Stat. 500; Pub. L. 99–509, title V, subtitle B, §5101, Oct.21, 1986, 100 Stat. 1913; Pub. L. 100–710, title I, §102, Nov. 23, 1988, 102 Stat. 4739.
+Title 46, Shipping—Pub. L. 98–89, §1, Aug. 26, 1983, 97 Stat. 500; Pub. L. 99–509, title V, subtitle B, §5101, Oct. 21, 1986, 100 Stat. 1913; Pub. L. 100–710, title I, §102, Nov. 23, 1988, 102 Stat. 4739.
 
 Title 49, Transportation—Pub. L. 95–473, §1, Oct. 17, 1978, 92 Stat. 1337; Pub. L. 97–449, §1, Jan. 12, 1983, 96 Stat. 2413; Pub. L. 103–272, §1, July 5, 1994, 108 Stat. 745.
 
 #### Title 26, Internal Revenue Code
 
 The Internal Revenue Code of 1954 was enacted in the form of a separate code by act Aug. 16, 1954, ch. 736, 68A Stat. 1. Pub. L. 99–514, §2(a), Oct. 22, 1986, 100 Stat. 2095, provided that the Internal Revenue Title enacted Aug. 16, 1954, as heretofore, hereby, or hereafter amended, may be cited as the “Internal Revenue Code of 1986”. The sections of Title 26, United States Code, are identical to the sections of the Internal Revenue Code.
-
-#### Federal Rules of Civil Procedure
-
-Proof of official record, see rule 44, Title 28, Appendix, Judiciary and Judicial Procedure.
 
 #### Section Referred to in Other Sections
 

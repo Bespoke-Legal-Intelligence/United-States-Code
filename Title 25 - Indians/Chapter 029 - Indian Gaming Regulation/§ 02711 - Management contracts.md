@@ -52,7 +52,7 @@ The Chairman shall not approve any contract if the Chairman determines that—
 
 &emsp;&emsp;(C) has knowingly and willfully provided materially important false statements or information to the Commission or the Indian tribe pursuant to this chapter or has refused to respond to questions propounded pursuant to subsection (a)(2) of this section; or
 
-&emsp;&emsp;(D) has been determined to be a person whose prior activities, criminal record if any, or reputation, habits, and associations pose a threat to the public interest or to theeffective regulation and control of gaming, or create or enhance the dangers of unsuitable, unfair, or illegal practices, methods, and activities in the conduct of gaming or the carrying on of the business and financial arrangements incidental thereto;
+&emsp;&emsp;(D) has been determined to be a person whose prior activities, criminal record if any, or reputation, habits, and associations pose a threat to the public interest or to the effective regulation and control of gaming, or create or enhance the dangers of unsuitable, unfair, or illegal practices, methods, and activities in the conduct of gaming or the carrying on of the business and financial arrangements incidental thereto;
 
 &emsp;(2) the management contractor has, or has attempted to, unduly interfere or influence for its gain or advantage any decision or process of tribal government relating to the gaming activity;
 

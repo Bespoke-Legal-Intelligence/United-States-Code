@@ -1,22 +1,6 @@
 ### §3307. Administrative provisions
 
-#### (a) Biennial report
-
-The Secretary shall submit a biennial report to the Congress on the programs established under this subchapter. Such report shall include—
-
-&emsp;(1) a description of significant administrative actions taken by the Secretary under this subchapter;
-
-&emsp;(2) the number of grants made under the authority of this subchapter;
-
-&emsp;(3) the number of applications denied for such grants and the reasons therefor;
-
-&emsp;(4) the remedial actions taken to enable applicants to be approved;
-
-&emsp;(5) the number of students served, by tribe;
-
-&emsp;(6) statistics on the academic pursuits of the students provided assistance under this subchapter and the average amount of assistance provided; and
-
-&emsp;(7) such additional information as the Secretary considers significant.
+#### (a) Omitted
 
 #### (b) Role of Director
 
@@ -47,4 +31,8 @@ For the purposes of this subchapter:
 #### References in Text
 
 The Indian Self-Determination Act, referred to in subsec. (e), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+
+#### Codification
+
+Subsec. (a) of this section, which required the Secretary to submit a biennial report to Congress on programs established under this subchapter, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 79 of House Document No. 103–7.
 

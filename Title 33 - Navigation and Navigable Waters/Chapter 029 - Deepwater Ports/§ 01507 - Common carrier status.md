@@ -6,7 +6,7 @@ A deepwater port and a storage facility serviced directly by that deepwater port
 
 #### (b) Discrimination prohibition; exceptions
 
-A licensee is not discriminating under this section and is not subject to common carrier regulations under subsection (a) of this section when that licensee—
+A licensee is not discriminating under this section and is not subject to common carrierregulations under subsection (a) of this section when that licensee—
 
 &emsp;(1) is subject to effective competition for the transportation of oil from alternative transportation systems; and
 

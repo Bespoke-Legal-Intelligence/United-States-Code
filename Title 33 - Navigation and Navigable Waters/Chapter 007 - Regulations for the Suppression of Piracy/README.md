@@ -12,10 +12,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Cross References
-
-Piracy and other offenses on the high seas, see section 1651 et seq. of Title 18, Crimes and Criminal Procedure.
-
 
 ---
 

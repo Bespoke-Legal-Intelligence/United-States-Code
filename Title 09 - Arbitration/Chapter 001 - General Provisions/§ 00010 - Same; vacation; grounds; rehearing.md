@@ -10,7 +10,7 @@
 
 (4) Where the arbitrators exceeded their powers, or so imperfectly executed them that a mutual, final, and definite award upon the subject matter submitted was not made.
 
-(5) Where an award is vacated and the time within which the agreement required the award to be made has not expired the court may, in its discretion, direct a rehearing by the arbitrators.
+(5) Where an award is vacated and the time within which the agreement required the awardto be made has not expired the court may, in its discretion, direct a rehearing by the arbitrators.
 
 (b) The United States district court for the district wherein an award was made that was issued pursuant to section 580 of title 5 may make an order vacating the award upon the application of a person, other than a party to the arbitration, who is adversely affected or aggrieved by the award, if the use of arbitration or the award is clearly inconsistent with the factors set forth in section 572 of title 5.
 

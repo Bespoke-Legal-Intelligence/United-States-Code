@@ -14,7 +14,3 @@ Any person who shall receive any compensation, rebate, or reward, or shall enter
 
 (May 13, 1954, ch. 201, §9, 68 Stat. 96.)
 
-#### Cross References
-
-Embezzlement, theft, conversion, etc., see section 641 et seq., of Title 18, Crimes and Criminal Procedure.
-

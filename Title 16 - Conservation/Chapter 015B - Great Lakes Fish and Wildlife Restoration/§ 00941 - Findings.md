@@ -20,7 +20,7 @@ The Congress finds and declares the following:
 
 #### Codification
 
-Pub. L. 101–537 and Pub. L. 101–646 enacted identical sections. Title II of Pub. L. 101–646 was repealed by Pub. L. 105–265.
+Title I of Pub. L. 101–537 and title II of Pub. L. 101–646 enacted identical sections. Title II of Pub. L. 101–646 was repealed by Pub. L. 105–265.
 
 #### Amendments
 

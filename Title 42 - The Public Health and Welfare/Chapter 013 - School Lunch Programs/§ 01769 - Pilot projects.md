@@ -182,7 +182,85 @@ The Secretary may conduct pilot projects in not more than three States in which 
 
 &emsp;&emsp;No amounts may be provided under this subsection unless specifically provided in appropriations Acts.
 
-(June 4, 1946, ch. 281, §18, formerly §20, as added Pub. L. 95–166, §10(2), Nov. 10, 1977, 91 Stat. 1336; amended Pub. L. 95–627, §11, Nov. 10, 1978, 92 Stat. 3624; renumbered §18 and amended Pub. L. 99–500, title III, §§327, 371(c)(1), Oct. 18, 1986, 100 Stat. 1783–362, 1783–368, and Pub. L. 99–591, title III, §§327, 371(c)(1), Oct. 30, 1986, 100 Stat. 3341–365, 3341–372; renumbered §18 and amended Pub. L. 99–661, div. D, title II, §4207, title V, §4501(c)(1), Nov. 14, 1986, 100 Stat. 4073, 4080; Pub. L. 100–237, §5, Jan. 8, 1988, 101 Stat. 1739; Pub. L. 101–147, title I, §107, title II, §205(a), title III, §311, Nov. 10, 1989, 103 Stat. 886, 910, 916; Pub. L. 102–342, title I, §101(a), title III, §301, Aug. 14, 1992, 106 Stat. 911, 913; Pub. L. 102–512, title I, §102, Oct. 24, 1992, 106 Stat. 3363; Pub. L. 103–448, title I, §§117(a)(2)(A), (b), 118, Nov. 2, 1994, 108 Stat. 4717, 4719; Pub. L. 104–193, title VII, §709, Aug. 22, 1996, 110 Stat. 2301; Pub. L. 105–336, title I, §109(a)–(c)(1), Oct. 31, 1998, 112 Stat. 3154–3156.)
+#### (f) Summer food pilot projects
+
+#### (1) Definition of eligible State
+
+&emsp;In this subsection, the term “eligible State” means a State in which (based on data available in July 2000)—
+
+&emsp;&emsp;(A) the percentage obtained by dividing—
+
+&emsp;&emsp;&emsp;(i) the sum of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the average daily number of children attending the summer food service program in the State in July 1999; and
+
+&emsp;&emsp;&emsp;&emsp;(II) the average daily number of children receiving free or reduced price meals under the school lunch program in the State in July 1999; by
+
+&emsp;&emsp;&emsp;(ii) the average daily number of children receiving free or reduced price meals under the school lunch program in the State in March 1999; is less than 50 percent of
+
+&emsp;&emsp;(B) the percentage obtained by dividing—
+
+&emsp;&emsp;&emsp;(i) the sum of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the average daily number of children attending the summer food service program in all States in July 1999; and
+
+&emsp;&emsp;&emsp;&emsp;(II) the average daily number of children receiving free or reduced price meals under the school lunch program in all States in July 1999; by
+
+&emsp;&emsp;&emsp;(ii) the average daily number of children receiving free or reduced price meals under the school lunch program in all States in March 1999.
+
+#### (2) Pilot projects
+
+&emsp;During the period of fiscal years 2001 through 2003, the Secretary shall carry out a summer food pilot project in each eligible State to increase the number of children participating in the summer food service program in the State.
+
+#### (3) Support levels for service institutions
+
+#### (A) Food service
+
+&emsp;&emsp;Under the pilot project, a service institution (other than a service institution described in section 1761(a)(7) of this title) in an eligible State shall receive the maximum amounts for food service under section 1761(b)(1) of this title without regard to the requirement under section 1761(b)(1)(A) of this title that payments shall equal the full cost of food service operations.
+
+#### (B) Administrative costs
+
+&emsp;&emsp;Under the pilot project, a service institution (other than a service institution described in section 1761(a)(7) of this title) in an eligible State shall receive the maximum amounts for administrative costs determined by the Secretary under section 1761(b)(4) of this title without regard to the requirement under section 1761(b)(3) of this title that payments to service institutions shall equal the full amount of State-approved administrative costs incurred.
+
+#### (C) Compliance
+
+&emsp;&emsp;A service institution that receives assistance under this subsection shall comply with all provisions of section 1761 of this title other than subsections (b)(1)(A) and (b)(3) of section 1761 of this title.
+
+#### (4) Maintenance of effort
+
+&emsp;Expenditures of funds from State and local sources for maintenance of a summer food service program shall not be diminished as a result of assistance from the Secretary received under this subsection.
+
+#### (5) Evaluation of pilot projects
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary, acting through the Administrator of the Food and Nutrition Service, shall conduct an evaluation of the pilot project.
+
+#### (B) Content
+
+&emsp;&emsp;An evaluation under this paragraph shall describe—
+
+&emsp;&emsp;&emsp;(i) any effect on participation by children and service institutions in the summer food service program in the eligibleState in which the pilot project is carried out;
+
+&emsp;&emsp;&emsp;(ii) any effect of the pilot project on the quality of the meals and supplements served in the eligible State in which the pilot project is carried out; and
+
+&emsp;&emsp;&emsp;(iii) any effect of the pilot project on program integrity.
+
+#### (6) Reports
+
+#### (A) Interim report
+
+&emsp;&emsp;Not later than December 1, 2002, the Secretary shall submit to the Committee on Education and the Workforce of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate an interim report that describes the status of, and any progress made by, each pilot project being carried out under this subsection as of the date of submission of the report.
+
+#### (B) Final report
+
+&emsp;&emsp;Not later than April 30, 2004, the Secretary shall submit to the Committee on Education and the Workforce of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a final report that includes—
+
+&emsp;&emsp;&emsp;(i) the evaluations completed by the Secretary under paragraph (5); and
+
+&emsp;&emsp;&emsp;(ii) any recommendations of the Secretary concerning the pilot projects.
+
+(June 4, 1946, ch. 281, §18, formerly §20, as added Pub. L. 95–166, §10(2), Nov. 10, 1977, 91 Stat. 1336; amended Pub. L. 95–627, §11, Nov. 10, 1978, 92 Stat. 3624; renumbered §18 and amended Pub. L. 99–500, title III, §§327, 371(c)(1), Oct. 18, 1986, 100 Stat. 1783–362, 1783–368, and Pub. L. 99–591, title III, §§327, 371(c)(1), Oct. 30, 1986, 100 Stat. 3341–365, 3341–372; renumbered §18 and amended Pub. L. 99–661, div. D, title II, §4207, title V, §4501(c)(1), Nov. 14, 1986, 100 Stat. 4073, 4080; Pub. L. 100–237, §5, Jan. 8, 1988, 101 Stat. 1739; Pub. L. 101–147, title I, §107, title II, §205(a), title III, §311, Nov. 10, 1989, 103 Stat. 886, 910, 916; Pub. L. 102–342, title I, §101(a), title III, §301, Aug. 14, 1992, 106 Stat. 911, 913; Pub. L. 102–512, title I, §102, Oct. 24, 1992, 106 Stat. 3363; Pub. L. 103–448, title I, §§117(a)(2)(A), (b), 118, Nov. 2, 1994, 108 Stat. 4717, 4719; Pub. L. 104–193, title VII, §709, Aug. 22, 1996, 110 Stat. 2301; Pub. L. 105–336, title I, §109(a)–(c)(1), Oct. 31, 1998, 112 Stat. 3154–3156; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §102(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–215.)
 
 #### References in Text
 
@@ -197,6 +275,8 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 A prior section 18 of act June 4, 1946, which was classified to section 1767 of this title, was repealed.
 
 #### Amendments
+
+2000—Subsec. (f). Pub. L. 106–554 added subsec. (f).
 
 1998—Subsec. (c). Pub. L. 105–336, §109(a), (c)(1), redesignated subsec. (d) as (c) and struck out former subsec. (c) which related to demonstration program for prevention of boarder babies.
 
@@ -236,7 +316,7 @@ Subsec. (c)(2)(B)(i). Pub. L. 102–512 substituted “Each private nonprofit or
 
 Subsec. (c)(3)(A). Pub. L. 102–342, §101(a)(2), inserted at end “The projects shall receive reimbursement payments for meals and supplements served on Saturdays, Sundays, and holidays, at the request of the sponsor of any such project. The meal pattern requirements of this subparagraph may be modified as necessary by the Secretary to take into account the needs of infants.”
 
-Subsec. (c)(5)(A). Pub. L. 102–342, §101(a)(1), (3), substituted “not less than $350,000 in each of fiscal years 1991 and 1992, not less than $650,000 in fiscal year 1993, and not less than $800,000 in fiscal year 1994,” for “and not less than $350,000 in each of the fiscal years 1991, 1992, 1993, and 1994,” and inserted “State, city, local, or county governments, other public entities, or” before “private nonprofit”.
+Subsec. (c)(5)(A). Pub. L. 102–342, §101(a)(1), (3), substituted “not less than $350,000 in each of fiscal years1991 and 1992, not less than $650,000 in fiscal year 1993, and not less than $800,000 in fiscal year 1994,” for “and not less than $350,000 in each of the fiscal years 1991, 1992, 1993, and 1994,” and inserted “State, city, local, or county governments, other public entities, or” before “private nonprofit”.
 
 Subsec. (c)(7). Pub. L. 102–342, §101(a)(4), added par. (7).
 

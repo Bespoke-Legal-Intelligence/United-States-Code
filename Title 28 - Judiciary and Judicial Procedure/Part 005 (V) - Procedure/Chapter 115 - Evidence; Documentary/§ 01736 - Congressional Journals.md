@@ -10,13 +10,3 @@ Based on title 28, U.S.C., 1940 ed., §676 (R.S. §895).
 
 Changes in phraseology were made.
 
-#### Federal Rules of Civil Procedure
-
-Proof of official records, see rule 44, Appendix to this title.
-
-Effect of rule 44 on former section 676 of this title, see note by Advisory Committee under rule 44.
-
-#### Federal Rules of Criminal Procedure
-
-Proof of official records, see rule 27, and note of the Advisory Committee under rule 27, Title 18, Appendix, Crimes and Criminal Procedure.
-

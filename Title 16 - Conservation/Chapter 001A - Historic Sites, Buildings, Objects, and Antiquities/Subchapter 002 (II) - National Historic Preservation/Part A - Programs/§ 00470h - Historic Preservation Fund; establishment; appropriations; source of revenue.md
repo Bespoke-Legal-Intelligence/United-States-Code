@@ -1,8 +1,8 @@
 ### §470h. Historic Preservation Fund; establishment; appropriations; source of revenue
 
-To carry out the provisions of this subchapter, there is hereby established the Historic Preservation Fund (hereafter referred to as the “fund”) in the Treasury of the United States. There shall be covered into such fund $24,400,000 for fiscal year 1977, $100,000,000 for fiscal year 1978, $100,000,000 for fiscal year 1979, $150,000,000 for fiscal year 1980, and $150,000,000 for fiscal year 1981, and $150,000,000 for each of fiscal years 1982 through 1997, from revenues due and payable to the United States under the Outer Continental Shelf Lands Act (67 Stat. 462, 469), as amended (43 U.S.C. 338 <sup>1</sup>), and/or under section 7433(b) of title 10, notwithstanding any provision of law that such proceeds shall be credited to miscellaneous receipts of the Treasury. Such moneys shall be used only to carry out the purposes of this subchapter and shall be available for expenditure only when appropriated by the Congress. Any moneys not appropriated shall remain available in the fund until appropriated for said purposes: <i>Provided</i>, That appropriations made pursuant to this paragraph may be made without fiscal year limitation.
+To carry out the provisions of this subchapter, there is hereby established the Historic Preservation Fund (hereafter referred to as the “fund”) in the Treasury of the United States. There shall be covered into such fund $24,400,000 for fiscal year 1977, $100,000,000 for fiscal year 1978, $100,000,000 for fiscal year 1979, $150,000,000 for fiscal year 1980, and $150,000,000 for fiscal year 1981, and $150,000,000 for each of fiscal years 1982 through 2005, from revenues due and payable to the United States under the Outer Continental Shelf Lands Act (67 Stat. 462, 469), as amended (43 U.S.C. 1338), and/or under section 7433(b) of title 10, notwithstanding any provision of law that such proceeds shall be credited to miscellaneous receipts of the Treasury. Such moneys shall be used only to carry out the purposes of this subchapter and shall be available for expenditure only when appropriated by the Congress. Any moneys not appropriated shall remain available in the fund until appropriated for said purposes: <i>Provided</i>, That appropriations made pursuant to this paragraph may be made without fiscal year limitation.
 
-(Pub. L. 89–665, title I, §108, Oct. 15, 1966, 80 Stat. 917; Pub. L. 91–243, §1(a), May 9, 1970, 84 Stat. 204; Pub. L. 93–54, §1(a), July 1, 1973, 87 Stat. 139; Pub. L. 94–422, title II, §201(4), Sept. 28, 1976, 90 Stat. 1320; Pub. L. 96–515, title II, §205, Dec. 12, 1980, 94 Stat. 2995; Pub. L. 100–127, Oct. 9, 1987, 101 Stat. 800; Pub. L. 102–575, title XL, §4011, Oct. 30, 1992, 106 Stat. 4760.)
+(Pub. L. 89–665, title I, §108, Oct. 15, 1966, 80 Stat. 917; Pub. L. 91–243, §1(a), May 9, 1970, 84 Stat. 204; Pub. L. 93–54, §1(a), July 1, 1973, 87 Stat. 139; Pub. L. 94–422, title II, §201(4), Sept. 28, 1976, 90 Stat. 1320; Pub. L. 96–515, title II, §205, Dec. 12, 1980, 94 Stat. 2995; Pub. L. 100–127, Oct. 9, 1987, 101 Stat. 800; Pub. L. 102–575, title XL, §4011, Oct. 30, 1992, 106 Stat. 4760; Pub. L. 106–208, §§2, 5(a)(7), May 26, 2000, 114 Stat. 318, 319.)
 
 #### References in Text
 
@@ -13,6 +13,8 @@ The Outer Continental Shelf Lands Act, referred to in text, is act Aug. 7, 1953,
 “Section 7433(b) of title 10” substituted in text for “the Act of June 4, 1920 (41 Stat. 813), as amended (30 U.S.C. 191)”, which was classified to section 524 of former Title 34, Navy, on authority of act Aug. 10, 1956, ch. 1041, §49(b), 70A Stat. 640, the first section of which enacted Title 10, Armed Forces.
 
 #### Amendments
+
+2000—Pub. L. 106–208 substituted “through 2005” for “through 1997” and “(43 U.S.C. 1338)” for “(43 U.S.C. 338)”.
 
 1992—Pub. L. 102–575 substituted “1997” for “1992”.
 
@@ -33,6 +35,4 @@ Section 504 of Pub. L. 96–515 provided that: “The Secretary shall submit a r
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 470a, 470d, 470h–1 of this title.
-
-<i><sup>1</sup></i><i> So in original. Should be “1338”.</i>
 

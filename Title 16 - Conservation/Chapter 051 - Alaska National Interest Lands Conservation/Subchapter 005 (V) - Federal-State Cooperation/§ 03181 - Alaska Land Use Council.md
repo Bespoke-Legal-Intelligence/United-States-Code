@@ -54,7 +54,7 @@ The Council shall meet at the call of the Cochairmen, but not less than four tim
 
 #### (h) Rules
 
-The Council shall adopt such internal rules of procedure as it deems necessary. All Council meetings shall be open to the public, and at least fifteen days prior to the date when any meeting of the Council is to take place the Cochairman shall publish public notice of such meeting in the Federal Register and in newspapers of general circulation in various areas throughout Alaska.
+The Council shall adopt such internal rules of procedure as it deems necessary. All Councilmeetings shall be open to the public, and at least fifteen days prior to the date when any meeting of the Council is to take place the Cochairman shall publish public notice of such meeting in the Federal Register and in newspapers of general circulation in various areas throughout Alaska.
 
 #### (i) Functions of the Council
 
@@ -113,4 +113,8 @@ The Council shall establish and implement a public participation program to assi
 #### References in Text
 
 This Act, referred to in subsecs. (f)(3), (5) and (i)(2)(A)(i), (ii), and (iii), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (g) of this section relating to submitting report to Congress no later than February 1 of each calendar year, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 154 of House Document No. 103–7.
 

@@ -50,7 +50,7 @@
 
 &emsp;(B) an entity or organization described in section 170(c)(2) of the Internal Revenue Code of 1986.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2600; Pub. L. 97–222, §5, July 27, 1982, 96 Stat. 236; Pub. L. 98–353, title III, §§394, 463, July 10, 1984, 98 Stat. 365, 378; Pub. L. 99–554, title II, §283(n), Oct. 27, 1986, 100 Stat. 3117; Pub. L. 101–311, title I, §104, title II, §204, June 25, 1990, 104 Stat. 268, 269; Pub. L. 103–394, title V, §501(b)(5), Oct. 22, 1994, 108 Stat. 4142; Pub. L. 105–183, §§2, 3(a), June 19, 1998, 112 Stat. 517.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2600; Pub. L. 97–222, §5, July 27, 1982, 96 Stat. 236; Pub. L.98–353, title III, §§394, 463, July 10, 1984, 98 Stat. 365, 378; Pub. L. 99–554, title II, §283(n), Oct. 27, 1986, 100 Stat. 3117; Pub. L. 101–311, title I, §104, title II, §204, June 25, 1990, 104 Stat. 268, 269; Pub. L. 103–394, title V, §501(b)(5), Oct. 22, 1994, 108 Stat. 4142; Pub. L. 105–183, §§2, 3(a), June 19, 1998, 112 Stat. 517.)
 
 #### Historical and Revision Notes
 

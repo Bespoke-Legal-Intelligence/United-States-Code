@@ -42,12 +42,6 @@
 
 1970—Pub. L. 91–287, §3, June 23, 1970, 84 Stat. 322, inserted item 3303a and struck out items 3304 “Lists and schedules of records lacking preservation value; submission to Congress by Administrator of General Services”, 3305 “Examination of lists and schedules by joint congressional committee and report to Congress”, 3306 “Disposal of records by head of Government agency upon notification by Administrator of General Services of action by joint congressional committee”, and 3307 “Disposal of records upon failure of joint congressional committee to act”.
 
-#### Cross References
-
-Reports from Federal agencies on their activities under this chapter, authority of Archivist and Administrator of General Services to obtain; correction of violations, see section 2115 of this title.
-
-Safeguards against removal or loss of records, prohibition against alienation or destruction except in accordance with this chapter, see section 3105 of this title.
-
 #### Chapter Referred to in Other Sections
 
 This chapter is referred to in sections 1503, 2115, 2116, 2901, 2902, 3504 of this title; title 5 section 552b; title 28 section 594; title 49 section 30302.

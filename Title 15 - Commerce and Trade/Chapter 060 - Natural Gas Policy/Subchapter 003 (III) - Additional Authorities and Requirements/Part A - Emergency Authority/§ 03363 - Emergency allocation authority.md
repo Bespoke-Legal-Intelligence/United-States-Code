@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In order to assist in meeting natural gas requirements for high-priority uses of natural gas during any natural gas supply emergency declared under section 3361 of this title, the President may, by order, allocate supplies of natural gas under subsections (b), (c), and (d) of this section to—
+In order to assist in meeting natural gas requirements for high-priority uses of natural gasduring any natural gas supply emergency declared under section 3361 of this title, the President may, by order, allocate supplies of natural gas under subsections (b), (c), and (d) of this section to—
 
 &emsp;(1) any interstate pipeline;
 
@@ -120,7 +120,7 @@ The President may request that representatives of pipelines, local distribution 
 
 #### (1) In general
 
-&emsp;If the parties to any order issued under subsection (b), (c), (d), or (h) of this section fail to agree upon the terms of compensation for natural gas deliveries or transportation requiredpursuant to such order, the President, after a hearing held either before or after such order takes effect, shall, by supplemental order, prescribe the amount of compensation to be paid for such deliveries or transportation and for any other expenses incurred in delivering or transporting natural gas.
+&emsp;If the parties to any order issued under subsection (b), (c), (d), or (h) of this section fail to agree upon the terms of compensation for natural gas deliveries or transportation required pursuant to such order, the President, after a hearing held either before or after such order takes effect, shall, by supplemental order, prescribe the amount of compensation to be paid for such deliveries or transportation and for any other expenses incurred in delivering or transporting natural gas.
 
 #### (2) Calculation of compensation for certain boiler fuel natural gas
 

@@ -1,6 +1,6 @@
 ### §620. Active-duty lists
 
-(a) The Secretary of the military department concerned shall maintain a single list of all officers (other than officers described in section 641 of this title) who are on active duty for each armed force under his jurisdiction (other than the Coast Guard when it is operating as a service in the Navy).
+(a) The Secretary of the military department concerned shall maintain a single list of all officers (other than officers described in section 641 of this title) who are on active duty for eacharmed force under his jurisdiction (other than the Coast Guard when it is operating as a service in the Navy).
 
 (b) Officers shall be carried on the active-duty list of the armed force of which they are members in the order of seniority of the grade in which they are serving on active duty. Officers serving in the same grade shall be carried in the order of their rank in that grade.
 

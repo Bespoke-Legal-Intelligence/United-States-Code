@@ -18,7 +18,3 @@ A prior section 8019 was renumbered section 8038 of this title.
 
 Amendment by Pub. L. 100–456 applicable to appointments made under this section on and after Sept. 29, 1988, see section 703(c) of Pub. L. 100–456, set out as a note under section 3019 of this title.
 
-#### Cross References
-
-Compensation of General Counsel of Department of the Air Force, see section 5316 of Title 5, Government Organization and Employees.
-

@@ -6,7 +6,7 @@
 
 &emsp;Except as provided in paragraph (2), the Secretary is authorized to reserve not more than 0.50 percent of the amount appropriated to carry out each program authorized under this chapter—
 
-&emsp;&emsp;(A) to carry out comprehensive evaluations of categorical programs and demonstration projects, and studies of programeffectiveness, under this chapter, and the administrative impact of such programs on schools and local educational agencies in accordance with subsection (b) of this section;
+&emsp;&emsp;(A) to carry out comprehensive evaluations of categorical programs and demonstration projects, and studies of program effectiveness, under this chapter, and the administrative impact of such programs on schools and local educational agencies in accordance with subsection (b) of this section;
 
 &emsp;&emsp;(B) to evaluate the aggregate short- and long-term effects and cost efficiencies across Federal programs under this chapter and related Federal preschool, elementary and secondary programs under other Federal law; and
 

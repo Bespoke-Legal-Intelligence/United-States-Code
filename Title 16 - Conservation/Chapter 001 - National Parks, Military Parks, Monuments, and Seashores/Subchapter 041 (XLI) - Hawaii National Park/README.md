@@ -14,7 +14,7 @@
 - [&sect; 00392 - Acquisition of privately owned lands](%C2%A7%2000392%20-%20Acquisition%20of%20privately%20owned%20lands.md)
 - [&sect; 00392a - Provisions of section 392 extended to additional lands](%C2%A7%2000392a%20-%20Provisions%20of%20section%20392%20extended%20to%20additional%20lands.md)
 - [&sect; 00392b - Conveyance of added lands to United States by Governor](%C2%A7%2000392b%20-%20Conveyance%20of%20added%20lands%20to%20United%20States%20by%20Governor.md)
-- [&sect; 00392c - Addition to Hawaii Volcanoes National Park](%C2%A7%2000392c%20-%20Addition%20to%20Hawaii%20Volcanoes%20National%20Park.md)
+- [&sect; 00392c - Addition to Hawai&#8216;i Volcanoes National Park](%C2%A7%2000392c%20-%20Addition%20to%20Hawai%E2%80%98i%20Volcanoes%20National%20Park.md)
 - [&sect; 00393 - Entries under land laws; rights-of-way; lands excluded](%C2%A7%2000393%20-%20Entries%20under%20land%20laws%3B%20rights-of-way%3B%20lands%20excluded.md)
 - [&sect; 00394 - Control; rules and regulations; leases; appropriations](%C2%A7%2000394%20-%20Control%3B%20rules%20and%20regulations%3B%20leases%3B%20appropriations.md)
 - [&sect; 00395 - Exclusive jurisdiction in United States; exceptions; laws applicable; fugitives from justice](%C2%A7%2000395%20-%20Exclusive%20jurisdiction%20in%20United%20States%3B%20exceptions%3B%20laws%20applicable%3B%20fugitives%20from%20justice.md)

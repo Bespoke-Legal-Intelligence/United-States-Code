@@ -4,7 +4,7 @@
 
 Authority.—Subject to subsection (c), the Secretary of Defense may, in the case of any individual who is a qualified former intelligence employee, use appropriated funds—
 
-&emsp;(1) to assist that individual in finding and qualifying for employment other than in an intelligence component of the Department of Defense;
+&emsp;(1) to assist that individual in finding and qualifying for employment other than in a defense intelligence position;
 
 &emsp;(2) to assist that individual in meeting the expenses of treatment of medical or psychological disabilities of that individual; and
 
@@ -12,11 +12,11 @@ Authority.—Subject to subsection (c), the Secretary of Defense may, in the cas
 
 (b)
 
-Qualified Former Intelligence Employees.—For purposes of this section, a qualified former intelligence employee is an individual who was employed as a civilian employee of the Department of Defense in a sensitive position in an intelligence component of the Department of Defense—
+Qualified Former Intelligence Employees.—For purposes of this section, a qualified former intelligence employee is an individual who was employed as a civilian employee of the Department of Defense in a sensitive defense intelligence position—
 
-&emsp;(1) who has been found to be ineligible for continued access to information designated as “Sensitive Compartmented Information” and employment with the intelligence component; or
+&emsp;(1) who has been found to be ineligible for continued access to information designated as “Sensitive Compartmented Information” and employment in a defense intelligence position; or
 
-&emsp;(2) whose employment with the intelligence component has been terminated.
+&emsp;(2) whose employment in a defense intelligence position has been terminated.
 
 (c)
 
@@ -28,11 +28,11 @@ Conditions.—Assistance may be provided to a qualified former intelligence empl
 
 (d)
 
-Duration of Assistance.—Assistance may not be provided under this section in the case of any individual after the end of the five-year period beginning on the date of the termination of the employment of the individual with an intelligence component of the Department of Defense.
+Duration of Assistance.—Assistance may not be provided under this section in the case of any individual after the end of the five-year period beginning on the date of the termination of the employment of the individual with in <sup>1</sup> a defense intelligence position.
 
 (e)
 
-Annual Report.—(1) The Secretary of Defense shall submit to the congressional committees specified in paragraph (2) an annual reportwith respect to any expenditure made under this section.
+Annual Report.—(1) The Secretary of Defense shall submit to the congressional committees specified in paragraph (2) an annual report with respect to any expenditure made under this section.
 
 (2) The committees referred to in paragraph (1) are the following:
 
@@ -40,17 +40,21 @@ Annual Report.—(1) The Secretary of Defense shall submit to the congressional 
 
 &emsp;(B) The Committee on Armed Services, the Committee on Appropriations, and the Select Committee on Intelligence of the Senate.
 
-(f)
-
-Definition.—In this section, the term “intelligence component of the Department of Defense” includes the National Reconnaissance Office and any intelligence component of a military department.
-
-(Added Pub. L. 103–359, title VIII, §806(a)(1), Oct. 14, 1994, 108 Stat. 3441, §1599; amended Pub. L. 104–106, div. A, title XV, §1502(a)(11), Feb. 10, 1996, 110 Stat. 503; renumbered §1611 and amended Pub. L. 104–201, div. A, title XVI, §1632(c), Sept. 23, 1996, 110 Stat. 2749; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774.)
+(Added Pub. L. 103–359, title VIII, §806(a)(1), Oct. 14, 1994, 108 Stat. 3441, §1599; amended Pub. L. 104–106, div. A, title XV, §1502(a)(11), Feb. 10, 1996, 110 Stat. 503; renumbered §1611 and amended Pub. L. 104–201, div. A, title XVI, §1632(c), Sept. 23, 1996, 110 Stat. 2749; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, §1 \[\[div. A\], title XI, §1141(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–318.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 1604(e)(4) of this title and in section 17 of Pub. L. 86–36 as added by Pub. L. 102–88, title V, §503, Aug. 14, 1991, 105 Stat. 436, set out as a note under section 402 of Title 50, War and National Defense, prior to repeal by Pub. L. 103–359, §806(b).
 
 #### Amendments
+
+2000—Subsec. (a)(1). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1141(b)(1)\], substituted “a defense intelligence position” for “an intelligence component of the Department of Defense”.
+
+Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1141(b)(2)\], substituted “sensitive defense intelligence position” for “sensitive position in an intelligence component of the Department of Defense” in introductory provisions and “in a defense intelligence position” for “with the intelligence component” in pars. (1) and (2).
+
+Subsec. (d). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1141(b)(3)\], substituted “in a defense intelligence position” for “an intelligence component of the Department of Defense”.
+
+Subsec. (f). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1141(b)(4)\], struck out heading and text of subsec. (f). Text read as follows: “In this section, the term ‘intelligence component of the Department of Defense’ includes the National Reconnaissance Office and any intelligence component of a military department.”
 
 1999—Subsec. (e)(2)(A). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
 
@@ -79,4 +83,6 @@ Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 1635 of Pub. 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1612, 1613 of this title.
+
+<i><sup>1</sup></i><i> So in original.</i>
 

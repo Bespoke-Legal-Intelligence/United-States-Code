@@ -68,7 +68,7 @@ Subsec. (b)(11). Pub. L. 105–85, §343(f), added par. (11).
 
 #### Savings Provision
 
-Section 343(h) of Pub. L. 105–85 provided that: “Nothing in the amendments made by this section \[amendingthis section\] is intended to modify environmental laws or laws relating to the siting of facilities.”
+Section 343(h) of Pub. L. 105–85 provided that: “Nothing in the amendments made by this section \[amending this section\] is intended to modify environmental laws or laws relating to the siting of facilities.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “material”.</i>
 

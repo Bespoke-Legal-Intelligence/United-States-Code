@@ -1,14 +1,12 @@
-Part <sup>1</sup> N—National Foundation for the Centers for Disease Control and Prevention
+Part N—National Foundation for the Centers for Disease Control and Prevention
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+#### Codification
 
-<i><sup>2</sup></i><i> So in original. Probably should be “subsection”.</i>
-
-<i><sup>1</sup></i><i> So in original. Probably should be part “M”.</i>
+This part was formerly set out preceding part M of this subchapter.
 
 
 ---
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 00280d&#8211;11 - Establishment and duties of Foundation](%C2%A7%2000280d%E2%80%9311%20-%20Establishment%20and%20duties%20of%20Foundation.md)
+- [&sect; 00280e&#8211;11 - Establishment and duties of Foundation](%C2%A7%2000280e%E2%80%9311%20-%20Establishment%20and%20duties%20of%20Foundation.md)

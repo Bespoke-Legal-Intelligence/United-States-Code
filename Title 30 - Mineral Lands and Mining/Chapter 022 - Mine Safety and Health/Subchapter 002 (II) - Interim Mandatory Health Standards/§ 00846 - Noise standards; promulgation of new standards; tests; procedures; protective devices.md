@@ -8,7 +8,7 @@ On and after the operative date of this subchapter, the standards on noise presc
 
 For the operative date of this subchapter, referred to in text, see section 509 of Pub. L. 91–173, set out as an Effective Date note under section 801 of this title.
 
-The Walsh-Healey Public Contracts Act, as amended, referred to in text, probably means act June 30, 1936,ch. 881, 49 Stat. 2036, as amended, known as the Walsh-Healey Act, which is classified generally to sections 35 to 45 of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 35 of Title 41 and Tables. See also section 262 of Title 29, Labor.
+The Walsh-Healey Public Contracts Act, as amended, referred to in text, probably means act June 30, 1936, ch. 881, 49 Stat. 2036, as amended, known as the Walsh-Healey Act, which is classified generally to sections 35 to 45 of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 35 of Title 41 and Tables. See also section 262 of Title 29, Labor.
 
 #### Change of Name
 

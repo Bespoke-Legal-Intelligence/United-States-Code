@@ -35,3 +35,4 @@
 - [&sect; 01962d&#8211;19 - Cooperation of Secretary of the Interior with State and local regulatory and law enforcement officials in enforcement of laws or&#8230;](%C2%A7%2001962d%E2%80%9319%20-%20Cooperation%20of%20Secretary%20of%20the%20Interior%20with%20State%20and%20local%20regulatory%20and%20law%20enforcement%20officials%20in%20enforcement%20of%20laws%20or%E2%80%A6.md)
 - [&sect; 01962d&#8211;20 - Prohibition on Great Lakes diversions](%C2%A7%2001962d%E2%80%9320%20-%20Prohibition%20on%20Great%20Lakes%20diversions.md)
 - [&sect; 01962d&#8211;21 - John Glenn Great Lakes basin program](%C2%A7%2001962d%E2%80%9321%20-%20John%20Glenn%20Great%20Lakes%20basin%20program.md)
+- [&sect; 01962d&#8211;22 - Great Lakes fishery and ecosystem restoration](%C2%A7%2001962d%E2%80%9322%20-%20Great%20Lakes%20fishery%20and%20ecosystem%20restoration.md)

@@ -1,6 +1,6 @@
 ### §502. Required drills and field exercises
 
-(a) Under regulations to be prescribed by the Secretary of the Army or the Secretary of theAir Force, as the case may be, each company, battery, squadron, and detachment of the National Guard, unless excused by the Secretary concerned, shall—
+(a) Under regulations to be prescribed by the Secretary of the Army or the Secretary of the Air Force, as the case may be, each company, battery, squadron, and detachment of the National Guard, unless excused by the Secretary concerned, shall—
 
 &emsp;(1) assemble for drill and instruction, including indoor target practice, at least 48 times each year; and
 
@@ -20,7 +20,7 @@
 
 &emsp;(3) the training is of the type prescribed by the Secretary concerned.
 
-(e) An appropriately rated member of the National Guard who performs an aerial flight under competent orders may receive credit for attending drill for the purposes of this section, if the flight prevented him from attending a regularly scheduled drill.
+(e) An appropriately rated member of the National Guard who performs an aerial flightunder competent orders may receive credit for attending drill for the purposes of this section, if the flight prevented him from attending a regularly scheduled drill.
 
 (f) Under regulations to be prescribed by the Secretary of the Army or Secretary of the Air Force, as the case may be, a member of the National Guard may—
 
@@ -95,20 +95,6 @@ In subsection (e), the word “member” is substituted for the words “officer
 #### Effective Date of 1967 Amendment
 
 Amendment by Pub. L. 90–168 effective first day of first calendar month following date of enactment of Pub. L. 90–168, which was approved Dec. 1, 1967, see section 7 of Pub. L. 90–168, set out as a note under section 138 of Title 10, Armed Forces.
-
-#### Cross References
-
-Appropriations for pay, disbursement and accounting, see section 1012 of Title 37, Pay and Allowances of the Uniformed Services.
-
-Authorized number of enlisted members in pay grades E–8 and E–9 that may be on full-time National Guard duty, see section 12012 of Title 10, Armed Forces.
-
-Credit for service as members of Army National Guard or Air National Guard of members of Army National Guard of United States or Air National Guard of United States, see section 12602 of Title 10.
-
-Inactive duty training, duty (other than full-time duty) under this section as, see section 101 of Title 38, Veterans’ Benefits.
-
-Pay grades of National Guard personnel on active duty, see section 204 of Title 37, Pay and Allowances of the Uniformed Services.
-
-Training duty compensation of members of National Guard, see section 206 of Title 37.
 
 #### Section Referred to in Other Sections
 

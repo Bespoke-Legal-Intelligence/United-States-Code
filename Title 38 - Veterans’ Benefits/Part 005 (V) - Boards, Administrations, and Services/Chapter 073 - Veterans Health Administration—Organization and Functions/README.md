@@ -29,6 +29,7 @@
 | [7320\.](Subchapter%20002%20%28II%29%20-%20General%20Authority%20and%20Administration/%C2%A7%2007320%20-%20Centers%20for%20mental%20illness%20research%2C%20education%2C%20and%20clinical%20activities.md) | Centers for mental illness research, education, and clinical activities. |
 | [7321\.](Subchapter%20002%20%28II%29%20-%20General%20Authority%20and%20Administration/%C2%A7%2007321%20-%20Committee%20on%20Care%20of%20Severely%20Chronically%20Mentally%20Ill%20Veterans.md) | Committee on Care of Severely Chronically Mentally Ill Veterans. |
 | [7322\.](Subchapter%20002%20%28II%29%20-%20General%20Authority%20and%20Administration/%C2%A7%2007322%20-%20Breast%20cancer%20mammography%20policy.md) | Breast cancer mammography policy. |
+| [7323\.](Subchapter%20002%20%28II%29%20-%20General%20Authority%20and%20Administration/%C2%A7%2007323%20-%20Required%20consultations%20with%20nurses.md) | Required consultations with nurses. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -59,6 +60,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2000—Pub. L. 106–419, title II, §201(b)(2), Nov. 1, 2000, 114 Stat. 1840, added item 7323.
 
 1997—Pub. L. 105–114, title II, §208(a)(2), Nov. 21, 1997, 111 Stat. 2289, added item 7322.
 
@@ -99,10 +102,6 @@ Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984, substit
 1962—Pub. L. 87–793, §803(b), Oct. 11, 1962, 76 Stat. 861, substituted “Administration” for “Specialist ratings” in item 4108.
 
 Pub. L. 87–574, §4(3), Aug. 6, 1962, 76 Stat. 309, inserted “; residencies and internships” in item 4114.
-
-#### Cross References
-
-Student-employees pay provisions, nonlimitation of authority conferred on Secretary by this chapter, see section 5355 of Title 5, Government Organization and Employees.
 
 #### Chapter Referred to in Other Sections
 

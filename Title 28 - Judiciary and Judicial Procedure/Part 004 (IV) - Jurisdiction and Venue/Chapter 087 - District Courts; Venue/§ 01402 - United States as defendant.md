@@ -28,13 +28,13 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1982—Subsec. (a). Pub. L. 97–164 inserted “in a district court” after “civil action” in introductory provisions preceding par. (1). The phrase “civil action” also appeared in par. (2), but no change was made to reflect the probable intent of Congress as indicated on page 79 of House Report No. 97–312.
+<b>1982</b>—Subsec. (a). Pub. L. 97–164 inserted “in a district court” after “civil action” in introductory provisions preceding par. (1). The phrase “civil action” also appeared in par. (2), but no change was made to reflect the probable intent of Congress as indicated on page 79 of House Report No. 97–312.
 
-1972—Subsec. (d). Pub. L. 92–562 added subsec. (d).
+<b>1972</b>—Subsec. (d). Pub. L. 92–562 added subsec. (d).
 
-1966—Subsec. (c). Pub. L. 89–719 added subsec. (c).
+<b>1966</b>—Subsec. (c). Pub. L. 89–719 added subsec. (c).
 
-1958—Subsec. (a). Pub. L. 85–920 provided for venue and change of venue in tax refund suits by corporation.
+<b>1958</b>—Subsec. (a). Pub. L. 85–920 provided for venue and change of venue in tax refund suits by corporation.
 
 #### Effective Date of 1982 Amendment
 
@@ -43,12 +43,6 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 #### Effective Date of 1966 Amendment
 
 Amendment by Pub. L. 89–719 applicable after Nov. 2, 1966, see section 203 of Pub. L. 89–719, set out as a note under section 1346 of this title.
-
-#### Cross References
-
-Actions on war risk insurance claims, see section 1292 of Title 46, Appendix, Shipping.
-
-Jurisdiction and legal remedy for unauthorized use or disclosure of patents and technical information, seesection 2356 of Title 22, Foreign Relations and Intercourse.
 
 #### Section Referred to in Other Sections
 

@@ -32,6 +32,8 @@ General.—The lease between the Secretary of Transportation and the Metropolita
 
 &emsp;(C) The Airports Authority may not increase or decrease the number of instrument flight rule takeoffs and landings authorized by the High Density Rule (14 CFR 93.121 et seq.) at Ronald Reagan Washington National Airport on October 18, 1986, and may not impose a limitation on the number of passengers taking off or landing at Ronald Reagan Washington National Airport.
 
+&emsp;(D) Subparagraph (C) does not apply to any increase in the number of instrument flight rule takeoffs and landings necessary to implement exemptions granted by the Secretary under section 41718.
+
 &emsp;(6)(A) Except as specified in subparagraph (B) of this paragraph, the Airports Authority shall assume all rights, liabilities, and obligations of the Metropolitan Washington Airports on June 7, 1987, including leases, permits, licenses, contracts, agreements, claims, tariffs, accounts receivable, accounts payable, and litigation related to those rights and obligations, regardless whether judgment has been entered, damages awarded, or appeal taken. The Airports Authority must cooperate in allowing representatives of the Attorney General and the Secretary adequate access to employees and records when needed for the performance of duties and powers related to the period before June 7, 1987. The Airports Authority shall assume responsibility for the Federal Aviation Administration's Master Plans for the Metropolitan Washington Airports.
 
 &emsp;(B) The procedure for disputes resolution contained in any contract entered into on behalf of the United States Government before June 7, 1987, continues to govern the performance of the contract unless otherwise agreed to by the parties to the contract. Claims for monetary damages founded in tort, by or against the Government as the owner and operator of the Metropolitan Washington Airports, arising before June 7, 1987, shall be adjudicated as if the lease had not been entered into.
@@ -66,7 +68,7 @@ Enforcement of Lease Provisions.—The district courts of the United States have
 
 Extension of Lease.—The Secretary and the Airports Authority may at any time negotiate an extension of the lease.
 
-(Added Pub. L. 105–102, §2(26), Nov. 20, 1997, 111 Stat. 2207; amended Pub. L. 105–154, §2(a)(1)(D), Feb. 6, 1998, 112 Stat. 3.)
+(Added Pub. L. 105–102, §2(26), Nov. 20, 1997, 111 Stat. 2207; amended Pub. L. 105–154, §2(a)(1)(D), Feb. 6, 1998, 112 Stat. 3; Pub. L. 106–181, title II, §231(e)(2), Apr. 5, 2000, 114 Stat. 113.)
 
 Historical and Revision Notes
 
@@ -154,9 +156,15 @@ A prior section 49104 was renumbered section 50104 of this title.
 
 #### Amendments
 
+2000—Subsec. (a)(5)(D). Pub. L. 106–181 added subpar. (D).
+
 1998—Subsec. (a)(5)(C), (9)(A), (B). Pub. L. 105–154 substituted “Ronald Reagan Washington National Airport” for “Washington National Airport” wherever appearing.
+
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 41714, 49106 of this title.
+This section is referred to in sections 41714, 41718, 49106 of this title.
 

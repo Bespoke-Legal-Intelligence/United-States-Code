@@ -10,7 +10,7 @@ The Secretary shall conduct the following studies, and shall make a report or re
 
 &emsp;(B) any gaps and inconsistencies in present controls;
 
-&emsp;(C) the need for controlling the sale of certain used electronic products, particularly antiquated X-ray equipment, without upgrading such products to meet the standards for new products or separate standards for used products;
+&emsp;(C) the need for controlling the sale of certain used electronic products, particularly antiquated X-ray equipment, without upgradingsuch products to meet the standards for new products or separate standards for used products;
 
 &emsp;(D) measures to assure consistent and effective control of the aforementioned health hazards;
 

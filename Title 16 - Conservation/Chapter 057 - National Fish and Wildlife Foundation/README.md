@@ -21,6 +21,8 @@
 | (e) | Acquisition, management, and disposal of real property. |
 | (f) | Establishment of national whale conservation endowment fund. |
 | (g) | Consultation. |
+| (h) | Expenditures for printing services or capital equipment. |
+| (i) | Notice to Members of Congress. |
 | [3704\.](%C2%A7%2003704%20-%20Administrative%20services%20and%20support.md) | Administrative services and support. |
 | (a) | Provision of services. |
 | (b) | Reimbursement. |
@@ -32,9 +34,10 @@
 | [3707\.](%C2%A7%2003707%20-%20United%20States%20release%20from%20liability.md) | United States release from liability. |
 | [3708\.](%C2%A7%2003708%20-%20Reservation%20of%20right%20to%20amend%20or%20repeal%20chapter.md) | Reservation of right to amend or repeal chapter. |
 | [3709\.](%C2%A7%2003709%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-| (a) | Authorization. |
-| (b) | Use of amounts appropriated. |
-| (c) | Additional authorization. |
+| (a) | Authorization of appropriations. |
+| (b) | Additional authorization. |
+| (c) | Prohibition on use of grant amounts for litigation and lobbying expenses. |
+| [3710\.](%C2%A7%2003710%20-%20Limitation%20on%20authority.md) | Limitation on authority. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -52,3 +55,4 @@
 - [&sect; 03707 - United States release from liability](%C2%A7%2003707%20-%20United%20States%20release%20from%20liability.md)
 - [&sect; 03708 - Reservation of right to amend or repeal chapter](%C2%A7%2003708%20-%20Reservation%20of%20right%20to%20amend%20or%20repeal%20chapter.md)
 - [&sect; 03709 - Authorization of appropriations](%C2%A7%2003709%20-%20Authorization%20of%20appropriations.md)
+- [&sect; 03710 - Limitation on authority](%C2%A7%2003710%20-%20Limitation%20on%20authority.md)

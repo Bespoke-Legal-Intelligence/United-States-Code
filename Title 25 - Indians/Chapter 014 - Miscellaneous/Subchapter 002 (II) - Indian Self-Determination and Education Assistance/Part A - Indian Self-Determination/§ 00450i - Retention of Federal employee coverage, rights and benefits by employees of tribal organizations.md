@@ -8,7 +8,7 @@ Notwithstanding the provisions of sections 8347(<i>o</i>), 8713, and 8914 of tit
 
 &emsp;(1) To retain coverage, rights, and benefits under subchapter I of chapter 81 (“Compensation for Work Injuries”) of title 5, and for this purpose his employment with the tribal organization shall be deemed employment by the United States. However, if an injured employee, or his dependents in case of his death, receives from the tribal organization any payment (including an allowance, gratuity, payment under an insurance policy for which the premium is wholly paid by the tribal organization, or other benefit of any kind) on account of the same injury or death, the amount of that payment shall be credited against any benefit payable under subchapter I of chapter 81 of title 5, as follows:
 
-&emsp;&emsp;(A) payments on account of injury or disability shall be credited against disabilitycompensation payable to the injured employee; and
+&emsp;&emsp;(A) payments on account of injury or disability shall be credited against disability compensation payable to the injured employee; and
 
 &emsp;&emsp;(B) payments on account of death shall be credited against death compensation payable to dependents of the deceased employee.
 
@@ -48,7 +48,7 @@ The status of an Indian (as defined in section 479 of this title) appointed (exc
 
 #### Codification
 
-Section is comprised of section 104 of Pub. L. 93–638. Subsecs. (a) to (d) of section 104 of Pub. L. 93–638 areclassified to section 3371 of Title 5, Government Organization and Employees, section 2004b of Title 42, The Public Health and Welfare, section 456 of Title 50, Appendix, War and National Defense, and section 4762 of Title 42, respectively. Subsecs. (k) and (<i>l</i>) of section 104 of Pub. L. 93–638 are classified to section 3372 of Title 5.
+Section is comprised of section 104 of Pub. L. 93–638. Subsecs. (a) to (d) of section 104 of Pub. L. 93–638 are classified to section 3371 of Title 5, Government Organization and Employees, section 2004b of Title 42, The Public Health and Welfare, section 456 of Title 50, Appendix, War and National Defense, and section 4762 of Title 42, respectively. Subsecs. (k) and (<i>l</i>) of section 104 of Pub. L. 93–638 are classified to section 3372 of Title 5.
 
 #### Prior Provisions
 
@@ -88,7 +88,7 @@ Sec. 3. The Secretary of Labor is hereby designated and empowered to exercise, w
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 450b, 458ff of this title; title 5 section 8336; title 26 section 3121; title 42 section 410.
+This section is referred to in sections 450b, 458ff, 458aaa–15 of this title; title 5 section 8336; title 26 section 3121; title 42 section 410.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “with”.</i>
 

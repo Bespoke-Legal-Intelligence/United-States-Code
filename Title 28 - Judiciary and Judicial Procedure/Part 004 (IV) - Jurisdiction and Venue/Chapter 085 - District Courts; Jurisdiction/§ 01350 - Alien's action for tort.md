@@ -32,7 +32,7 @@ Liability.—An individual who, under actual or apparent authority, or color of 
 
 “(b)
 
-Exhaustion of Remedies.—A court shall decline to hear a claim under this section if the claimant hasnot exhausted adequate and available remedies in the place in which the conduct giving rise to the claim occurred.
+Exhaustion of Remedies.—A court shall decline to hear a claim under this section if the claimant has not exhausted adequate and available remedies in the place in which the conduct giving rise to the claim occurred.
 
 “(c)
 
@@ -59,8 +59,4 @@ Torture.—For the purposes of this Act—
 &emsp;&emsp;“(C) the threat of imminent death; or
 
 &emsp;&emsp;“(D) the threat that another individual will imminently be subjected to death, severe physical pain or suffering, or the administration or application of mind altering substances or other procedures calculated to disrupt profoundly the senses or personality.”
-
-#### Cross References
-
-Amount in controversy immaterial in action under this section, see Historical and Revision Notes under section 1331 of this title.
 

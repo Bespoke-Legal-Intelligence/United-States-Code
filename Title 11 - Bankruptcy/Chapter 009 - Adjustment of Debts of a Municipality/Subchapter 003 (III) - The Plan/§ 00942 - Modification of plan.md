@@ -1,6 +1,6 @@
 ### §942. Modification of plan
 
-The debtor may modify the plan at any time before confirmation, but may not modify theplan so that the plan as modified fails to meet the requirements of this chapter. After the debtor files a modification, the plan as modified becomes the plan.
+The debtor may modify the plan at any time before confirmation, but may not modify the plan so that the plan as modified fails to meet the requirements of this chapter. After the debtor files a modification, the plan as modified becomes the plan.
 
 (Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2624.)
 

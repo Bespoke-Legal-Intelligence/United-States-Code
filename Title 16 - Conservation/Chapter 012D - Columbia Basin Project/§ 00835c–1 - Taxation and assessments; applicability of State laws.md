@@ -2,11 +2,11 @@
 
 #### (a) Payments in lieu of taxes
 
-The Secretary may enter into agreements to pay annual sums in lieu of taxes to any State or political subdivision thereof with respect to any real property situated therein after it is acquired pursuant to the authority of sections 835 and 835a to 835c–5 <sup>1</sup> of this title and before execution by the United States of a contract of sale covering it, out of funds derived from the leasing of such lands. The amount so paid for any year upon any such property shall not exceed the taxes that would be paid to the State or subdivision as the case may be upon such property if it were not exempt from taxation thereby.
+The Secretary may enter into agreements to pay annual sums in lieu of taxes to any State or political subdivision thereof with respect to any real property situated therein after it is acquired pursuant to the authority of this Act and before execution by the United States of a contract of sale covering it, out of funds derived from the leasing of such lands. The amount so paid for any year upon any such property shall not exceed the taxes that would be paid to the State or subdivision as the case may be upon such property if it were not exempt from taxation thereby.
 
 #### (b) Lands acquired by United States
 
-Any public lands within the project and any lands or interests in lands acquired by the United States under sections 835 and 835a to 835c–5 <sup>1</sup> of this title, beginning at such date or dates and subject to such provisions and limitations as may be fixed or provided by regulations made under section 835c–4 of this title, shall be (i) subject to the provisions of the laws of the State of Washington relating to the organization, government, and regulation of irrigation, reclamation, and conservancy districts, and (ii) subject to legal assessment or taxation by any such district, and to liens for such assessments and taxes and to all proceedings for the enforcement thereof, in the same manner and to the same extent as privately owned lands of like character. The United States does not assume any obligation for amounts so assessed or taxed; and any proceedings to enforce them shall be subject to any title then remaining in the United States, to any prior lien reserved to the United States for unpaid installments under land sale contracts made under sections 835 and 835a to 835c–5 <sup>1</sup> of this title, and to any lien for any other charges, accrued or unaccrued, under and by virtue of such contracts or any contract between the United States and the district in which the land is located.
+Any public lands within the project and any lands or interests in lands acquired by the United States under this Act, beginning at such date or dates and subject to such provisions and limitations as may be fixed or provided by regulations made under section 8 \[16 U.S.C. 835c–4\], shall be (i) subject to the provisions of the laws of the State of Washington relating to the organization, government, and regulation of irrigation, reclamation, and conservancy districts, and (ii) subject to legal assessment or taxation by any such district, and to liens for such assessments and taxes and to all proceedings for the enforcement thereof, in the same manner and to the same extent as privately owned lands of like character. The United States does not assume any obligation for amounts so assessed or taxed; and any proceedings to enforce them shall be subject to any title then remaining in the United States, to any prior lien reserved to the United States for unpaid installments under land sale contracts made under this Act, and to any lien for any other charges, accrued or unaccrued, under and by virtue of such contracts or any contract between the United States and the district in which the land is located.
 
 #### (c) Sale of project lands
 
@@ -16,15 +16,9 @@ In addition to taxation or assessment under subsection (b) of this section upon 
 
 #### References in Text
 
-Sections 835a, 835b, 835c–3 and 835c–5, included within the reference in subsecs. (a) and (b) to sections 835a to 835c–5 of this title, were repealed by Pub. L. 87–728, §3, Oct. 1, 1962, 76 Stat. 678.
+This Act, referred to in subsecs. (a) and (b), is act May 27, 1937, ch. 269, as amended generally by act Mar. 10, 1943, ch. 14, 57 Stat. 14, known as The Columbia Basin Project Act, which enacted this section, sections 835, 835a to 835c, and 835c–2 to 835c–5 of this title, and provisions set out as a note under section 835 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 835 of this title and Tables.
 
 #### Amendments
 
-1962—Subsec. (b). Pub. L. 87–728 struck out “Regulations to carry out this subsection shall be effectivewhen filed for record in the manner provided in section 835a(f) of this title”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 835, 835c, 835c–2, 835c–4, 835d of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+1962—Subsec. (b). Pub. L. 87–728 struck out “Regulations to carry out this subsection shall be effective when filed for record in the manner provided in section 835a(f) of this title”.
 

@@ -8,7 +8,7 @@ Restricting Communications With Members of Congress and Inspector General Prohib
 
 (b)
 
-Prohibition of Retaliatory Personnel Actions.—(1) No person may take (or threaten to take) an unfavorable personnel action, or withhold (or threaten to withhold) a favorable personnel action, as a reprisal against a member of the armed forces for making or preparing—
+Prohibition of Retaliatory Personnel Actions.—(1) No person may take (or threatento take) an unfavorable personnel action, or withhold (or threaten to withhold) a favorable personnel action, as a reprisal against a member of the armed forces for making or preparing—
 
 &emsp;(A) a communication to a Member of Congress or an Inspector General that (under subsection (a)) may not be restricted; or
 
@@ -34,7 +34,7 @@ Inspector General Investigation of Allegations of Prohibited Personnel Actions.�
 
 &emsp;(B) Gross mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety.
 
-(3)(A) An Inspector General receiving an allegation as described in paragraph (1) shall expeditiously determine whether there is sufficient evidence to warrant an investigation of the allegation.
+(3)(A) An Inspector General receiving an allegation as described in paragraph (1) shall expeditiously determine, in accordance with regulations prescribed under subsection (h), whether there is sufficient evidence to warrant an investigation of the allegation.
 
 (B) If the Inspector General receiving such an allegation is an Inspector General within a military department, that Inspector General shall promptly notify the Inspector General of the Department of Defense of the allegation. Such notification shall be made in accordance with regulations prescribed under subsection (h).
 
@@ -54,7 +54,7 @@ Inspector General Investigation of Underlying Allegations.—Upon receiving an a
 
 (e)
 
-Reports on Investigations.—(1) After completion of an investigation under subsection (c) or (d) or, in the case of an investigation under subsection (c) by an Inspector General within a military department, after approval of the report of that investigation under subsection (c)(3)(E), the Inspector General conducting the investigation shall submit a report on the results of the investigation to the Secretary of Defense (or to the Secretary of Transportation in the case of a member of the Coast Guard when the Coast Guard is not operating as a service in the Navy) and shall transmit a copy of the report on the results of the investigation to the member of the armed forces who made the allegation investigated. The report shall be transmitted to the Secretary, and the copy of the report shall be transmitted to the member, not later than 30 days after the completion of the investigation or, in the case of an investigation under subsection (c) by an Inspector General within a military department, after approval of the report of that investigation under subsection (c)(3)(E).
+Reports on Investigations.—(1) After completion of an investigation under subsection (c) or (d) or, in the case of an investigation under subsection (c) by an Inspector General within a military department, after approval of the report of that investigation under subsection (c)(3)(E), the Inspector General conducting the investigation shall submit a report on the results of the investigation to the Secretary of Defense (or to the Secretary of Transportation in the case of a member of the Coast Guard when the Coast Guard is not operating as a service in the Navy) and shall transmit a copy of the report on the results of the investigation to the member of the armed forces who made the allegation investigated. The report shall be transmitted to the Secretary, and the copy of the report shall be transmitted to the member, not later than 30 days after the completion ofthe investigation or, in the case of an investigation under subsection (c) by an Inspector General within a military department, after approval of the report of that investigation under subsection (c)(3)(E).
 
 (2) In the copy of the report transmitted to the member, the Inspector General shall ensure the maximum disclosure of information possible, with the exception of information that is not required to be disclosed under section 552 of title 5. However, the copy need not include summaries of interviews conducted, nor any document acquired, during the course of the investigation. Such items shall be transmitted to the member, if the member requests the items, with the copy of the report or after the transmittal to the member of the copy of the report, regardless of whether the request for those items is made before or after the copy of the report is transmitted to the member.
 
@@ -110,25 +110,17 @@ Definitions.—In this section:
 
 &emsp;(1) The term “Member of Congress” includes any Delegate or Resident Commissioner to Congress.
 
-&emsp;(2) The term “Inspector General” means the following:
+&emsp;(2) The term “Inspector General” means any of the following:
 
 &emsp;&emsp;(A) The Inspector General of the Department of Defense.
 
-&emsp;&emsp;(B) The Inspector General of the Department of Transportation, in the case of a member of the Coast Guard when the Coast Guard is not operating as a service in the Navy.
+&emsp;&emsp;(B) The Inspector General of the Department of Transportation, in the case of a member of the Coast Guard when the CoastGuard is not operating as a service in the Navy.
 
-&emsp;&emsp;(C) The Inspector General of the Army, in the case of a member of the Army.
-
-&emsp;&emsp;(D) The Naval Inspector General, in the case of a member of the Navy.
-
-&emsp;&emsp;(E) The Inspector General of the Air Force, in the case of a member of the Air Force.
-
-&emsp;&emsp;(F) The Deputy Naval Inspector General for Marine Corps Matters, in the case of a member of the Marine Corps.
-
-&emsp;&emsp;(G) An officer of the armed forces assigned or detailed under regulations of the Secretary concerned to serve as an Inspector General at any command level in one of the armed forces.
+&emsp;&emsp;(C) Any officer of the armed forces or employee of the Department of Defense who is assigned or detailed to serve as an Inspector General at any level in the Department of Defense.
 
 &emsp;(3) The term “unlawful discrimination” means discrimination on the basis of race, color, religion, sex, or national origin.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 80; Pub. L. 98–525, title XIV, §1405(19)(A), (B)(i), Oct. 19, 1984, 98 Stat. 2622; Pub. L. 100–456, div. A, title VIII, §846(a)(1), Sept. 29, 1988, 102 Stat. 2027; Pub. L. 101–225, title II, §202, Dec. 12, 1989, 103 Stat. 1910; Pub. L. 103–337, div. A, title V, §531(a)–(g)(1), Oct. 5, 1994, 108 Stat. 2756–2758; Pub. L. 105–261, div. A, title IX, §933, Oct. 17, 1998, 112 Stat. 2107.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 80; Pub. L. 98–525, title XIV, §1405(19)(A), (B)(i), Oct. 19, 1984, 98 Stat. 2622; Pub. L. 100–456, div. A, title VIII, §846(a)(1), Sept. 29, 1988, 102 Stat. 2027; Pub. L. 101–225, title II, §202, Dec. 12, 1989, 103 Stat. 1910; Pub. L. 103–337, div. A, title V, §531(a)–(g)(1), Oct. 5, 1994, 108 Stat. 2756–2758; Pub. L. 105–261, div. A, title IX, §933, Oct. 17, 1998, 112 Stat. 2107; Pub. L. 106–398, §1 \[\[div. A\], title IX, §903\], Oct. 30, 2000, 114 Stat. 1654, 1654A–224.)
 
 Historical and Revision Notes
 
@@ -151,6 +143,22 @@ The words “prevented”, “directly or indirectly”, “concerning any subje
 The Inspector General Act of 1978, referred to in subsec. (b)(1)(B)(ii), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+
+2000—Subsec. (c)(3)(A). Pub. L. 106–398, §1 \[\[div. A\], title IX, §903(a)\], inserted “, in accordance with regulations prescribed under subsection (h),” after “shall expeditiously determine”.
+
+Subsec. (i)(2). Pub. L. 106–398, §1 \[\[div. A\], title IX, §903(b)(1)\], inserted “any of” after “means” in introductory provisions.
+
+Subsec. (i)(2)(C) to (G). Pub. L. 106–398, §1 \[\[div. A\], title IX, §903(b)(2), (3)\], added subpar. (C) and struck out former subpars. (C) to (G) which read as follows:
+
+“(C) The Inspector General of the Army, in the case of a member of the Army.
+
+“(D) The Naval Inspector General, in the case of a member of the Navy.
+
+“(E) The Inspector General of the Air Force, in the case of a member of the Air Force.
+
+“(F) The Deputy Naval Inspector General for Marine Corps Matters, in the case of a member of the Marine Corps.
+
+“(G) An officer of the armed forces assigned or detailed under regulations of the Secretary concerned to serve as an Inspector General at any command level in one of the armed forces.”
 
 1998—Subsec. (b)(1)(B)(ii). Pub. L. 105–261, §933(f)(2), substituted “subsection (i)) or any other Inspector General appointed under the Inspector General Act of 1978” for “subsection (j))”.
 
@@ -176,7 +184,7 @@ Subsec. (i). Pub. L. 105–261, §933(f)(1), redesignated subsec. (j) as (i). Fo
 
 Subsec. (j). Pub. L. 105–261, §933(f)(1), redesignated subsec. (j) as (i).
 
-Subsec. (j)(2). Pub. L. 105–261, §933(e), substituted “means the following:” for “means—” in introductory provisions, added subpars. (A) to (F), redesignated former subpar. (B) as (G) and substituted “An officer” for “an officer” in that subpar., and struck out former subpar. (A) which read as follows: “an Inspector General appointed under the Inspector General Act of 1978; and”.
+Subsec. (j)(2). Pub. L. 105–261, §933(e), substituted “means the following:” for “means—” in introductory provisions, added subpars. (A) to (F), redesignated former subpar. (B) as (G) and substituted “An officer”for “an officer” in that subpar., and struck out former subpar. (A) which read as follows: “an Inspector General appointed under the Inspector General Act of 1978; and”.
 
 1994—Pub. L. 103–337, §531(g)(1), substituted “Protected communications” for “Communicating with a Member of Congress or Inspector General” in section catchline.
 
@@ -254,7 +262,7 @@ Pub. L. 102–190, div. A, title VIII, §843, Dec. 5, 1991, 105 Stat. 1449, prov
 
 “(a)
 
-Regulations Required.—The Secretary of Defense shall prescribe regulations prohibiting members of the Armed Forces from taking or threatening to take any unfavorable personnel action, or withholding or threatening to withhold a favorable personnel action, as a reprisal against any member of the Armed Forces for making or preparing a lawful communication to any employee of the Department of Defense or any member of the Armed Forces who is assigned to or belongs to an organization which has as its primary responsibility audit, inspection, investigation, or enforcement of any law or regulation.
+Regulations Required.—The Secretary of Defense shall prescribe regulations prohibiting membersof the Armed Forces from taking or threatening to take any unfavorable personnel action, or withholding or threatening to withhold a favorable personnel action, as a reprisal against any member of the Armed Forces for making or preparing a lawful communication to any employee of the Department of Defense or any member of the Armed Forces who is assigned to or belongs to an organization which has as its primary responsibility audit, inspection, investigation, or enforcement of any law or regulation.
 
 “(b)
 

@@ -8,7 +8,7 @@
 
 #### (b) Notification and request to secure compliance; referral to Attorney General or other action by Secretary
 
-Whenever the Secretary finds that a State or other entity that has received financial assistance under this chapter has failed to comply with a provision of law referred to in subsection (a)(1) of this section, with subsection (a)(2) of this section, or with an applicable regulation (including one prescribed to carry out subsection (a)(2) of this section), the Secretary shall notify the chief executive officer of the State and shall request such officer to secure compliance. If, within a reasonable period of time, not to exceed sixty days, the chief executive officer fails or refuses to secure compliance, the Secretary may—
+Whenever the Secretary finds that a State or other entity that has received financial assistance under this chapter has failed to comply with a provision of law referred to in subsection (a)(1) of this section, with subsection (a)(2) of this section, or with an applicable regulation (including one prescribed to carry out subsection (a)(2) of this section), the Secretary shall notify the chief executive officer of the State and shall request such officer to securecompliance. If, within a reasonable period of time, not to exceed sixty days, the chief executive officer fails or refuses to secure compliance, the Secretary may—
 
 &emsp;(1) refer the matter to the Attorney General of the United States with a recommendation that an appropriate civil action be instituted,
 
@@ -30,7 +30,7 @@ The Education Amendments of 1972, referred to in subsecs. (a)(1), (b)(2), is Pub
 
 The Civil Rights Act of 1964, referred to in subsecs. (a)(1), (b)(2), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§2000d et seq.) of this title. For complete classification of this Act to the Code, see note set out under section 2000a of this title and Tables.
 
-This part, referred to in subsec. (a)(1), probably was intended to be a reference to this title, meaning title III of Pub. L. 98–457 which enacted this chapter, because title III was not divided into parts and because similar references to programs or activities funded in whole orin part with funds made available, referred to “this title”.
+This part, referred to in subsec. (a)(1), probably was intended to be a reference to this title, meaning title III of Pub. L. 98–457 which enacted this chapter, because title III was not divided into parts and because similar references to programs or activities funded in whole or in part with funds made available, referred to “this title”.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -12,5 +12,5 @@ The Board is authorized—
 
 #### Amendments
 
-1988—Par. (1). Pub. L. 100–702 inserted “and the Deputy Director” after “Director”.
+<b>1988</b>—Par. (1). Pub. L. 100–702 inserted “and the Deputy Director” after “Director”.
 

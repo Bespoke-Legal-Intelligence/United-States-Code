@@ -40,11 +40,3 @@ Reference to the pay grades corresponding to the military grades is omitted as u
 
 Amendment by Pub. L. 102–190 effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out as a note under section 521 of this title.
 
-#### Cross References
-
-Appointment of Coast Guard temporary warrant officers, see section 214 of Title 14, Coast Guard.
-
-Regular warrant officer grades, see section 571 of this title.
-
-Permanent reserve warrant officer grades, see section 12241 of this title.
-

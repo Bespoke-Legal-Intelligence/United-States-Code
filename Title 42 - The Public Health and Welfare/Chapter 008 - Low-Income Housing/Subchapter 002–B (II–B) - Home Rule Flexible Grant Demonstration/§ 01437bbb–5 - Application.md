@@ -28,13 +28,13 @@ The Secretary shall provide for jurisdictions to submit applications for approva
 
 &emsp;(7) shall include information sufficient, in the determination of the Secretary—
 
-&emsp;&emsp;(A) to demonstrate that the jurisdiction has or will have management and administrative capacity sufficient to carry out the plan under paragraph (2), including a demonstration that the applicant has a history of effectively administering amounts provided under other programs of the Department of Housing and Urban Development, such as the community development block grant program, the HOME investment partnerships program, and the programs for assistance for the homeless under the Stewart B. McKinney Homeless Assistance Act \[42 U.S.C. 11301 et seq.\];
+&emsp;&emsp;(A) to demonstrate that the jurisdiction has or will have management and administrative capacity sufficient to carry out the plan under paragraph (2), including a demonstration that the applicant has a history of effectively administering amounts provided under other programs of the Department of Housing and Urban Development, such as the community development block grant program, the HOME investment partnerships program, and the programs for assistance for the homeless under the McKinney-Vento Homeless Assistance Act \[42 U.S.C. 11301 et seq.\];
 
 &emsp;&emsp;(B) to demonstrate that carrying out the plan will not result in excessive duplication of administrative efforts and costs, particularly with respect to activities performed by public housing agencies operating within the boundaries of the jurisdiction;
 
 &emsp;&emsp;(C) to describe the function and activities to be carried out by such public housing agencies affected by the plan; and
 
-&emsp;&emsp;(D) to demonstrate that the amounts received by the jurisdiction will be maintained separate from other funds available to the jurisdiction and will be used only to carry out the plan;
+&emsp;&emsp;(D) to demonstrate that the amounts received by the jurisdiction will be maintained separate from other funds available to thejurisdiction and will be used only to carry out the plan;
 
 &emsp;(8) shall include information describing how the jurisdiction will make decisions regarding asset management of housing for low-income families under programs for covered housing assistance or assisted with grant amounts under this subchapter;
 
@@ -106,11 +106,15 @@ This subchapter may not be construed to require any change in the legal status o
 
 In carrying out this subchapter, the Secretary may provide for a streamlined public housing agency plan and planning process under section 1437c–1 of this title for participating jurisdictions.
 
-(Sept. 1, 1937, ch. 896, title IV, §406, as added Pub. L. 105–276, title V, §561, Oct. 21, 1998, 112 Stat. 2620.)
+(Sept. 1, 1937, ch. 896, title IV, §406, as added Pub. L. 105–276, title V, §561, Oct. 21, 1998, 112 Stat. 2620; amended Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675.)
 
 #### References in Text
 
-The Stewart B. McKinney Homeless Assistance Act, referred to in subsec. (a)(7)(A), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended, which is classified principally to chapter 119 (§11301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of this title and Tables.
+The McKinney-Vento Homeless Assistance Act, referred to in subsec. (a)(7)(A), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended, which is classified principally to chapter 119 (§11301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of this title and Tables.
+
+#### Amendments
+
+2000—Subsec. (a)(7)(A). Pub. L. 106–400 substituted “McKinney-Vento Homeless Assistance Act” for “Stewart B. McKinney Homeless Assistance Act”.
 
 #### Section Referred to in Other Sections
 

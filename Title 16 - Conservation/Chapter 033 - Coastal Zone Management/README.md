@@ -103,7 +103,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 544<i>l</i>, 1455b, 3505, 3509 of this title; title 33 sections 1503, 1508, 2801; title 42 sections 9111, 9115; title 43 sections 1351, 1866; title 46 section 13101.
+This chapter is referred to in sections 544<i>l</i>, 1455b, 3505, 6406 of this title; title 33 sections 1503, 1508, 2801; title 42 sections 9111, 9115; title 43 sections 1351, 1866; title 46 section 13101.
 
 
 ---

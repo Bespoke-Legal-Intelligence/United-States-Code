@@ -2,7 +2,7 @@
 
 (a)
 
-Federal Charter.—Theodore Roosevelt Association (in this chapter, the “corporation”) is a body corporate and politic in the District of Columbia.
+Federal Charter.—Theodore Roosevelt Association (in this chapter, the “corporation”)is a body corporate and politic in the District of Columbia.
 
 (b)
 

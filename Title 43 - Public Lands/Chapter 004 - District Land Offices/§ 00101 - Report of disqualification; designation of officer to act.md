@@ -10,5 +10,5 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 Word “officer” substituted for “register” and “Secretary of the Interior or such officer as he may designate” substituted for “Commissioner of the General Land Office” on authority of section 403 of Reorg. Plan No. 3 of 1946. See note set out under section 1 of this title.
 
-Act Mar. 3, 1925, abolished office of surveyor general and transferred administration of all activities incharge of surveyors general to Field Surveying Service under jurisdiction of United States Supervisor of Surveys.
+Act Mar. 3, 1925, abolished office of surveyor general and transferred administration of all activities in charge of surveyors general to Field Surveying Service under jurisdiction of United States Supervisor of Surveys.
 

@@ -16,7 +16,7 @@
 
 (b)(1) The United States shall not be responsible for any obligation of the Bank which is incurred after the Final Government Equity Redemption Date.
 
-(2) As soon as practicable after August 13, 1981, the Board shall adopt bylaws which will assist in expediting and coordinating the activities whichwill occur with respect to the Final Government Equity Redemption Date.
+(2) As soon as practicable after August 13, 1981, the Board shall adopt bylaws which will assist in expediting and coordinating the activities which will occur with respect to the Final Government Equity Redemption Date.
 
 (Pub. L. 95–351, title I, §116, as added Pub. L. 97–35, title III, §391(a)(1), Aug. 13, 1981, 95 Stat. 433.)
 

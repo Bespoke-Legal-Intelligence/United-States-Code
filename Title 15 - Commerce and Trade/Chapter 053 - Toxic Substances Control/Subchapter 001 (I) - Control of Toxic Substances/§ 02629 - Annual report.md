@@ -16,6 +16,10 @@ The Administrator shall prepare and submit to the President and the Congress on 
 
 (Pub. L. 94–469, title I, §30, Oct. 11, 1976, 90 Stat. 2050; renumbered title I, Pub. L. 99–519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989.)
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in this section relating to submitting annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 163 of House Document No. 103–7.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 2608 of this title.

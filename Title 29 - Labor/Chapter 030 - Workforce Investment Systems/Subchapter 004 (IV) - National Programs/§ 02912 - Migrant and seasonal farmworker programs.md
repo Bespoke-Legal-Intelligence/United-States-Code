@@ -40,7 +40,7 @@ To be eligible to receive a grant or enter into a contract under this section, a
 
 #### (d) Authorized activities
 
-Funds made available under this section and section 2852(b)(1)(A)(iii) of this title shall beused to carry out workforce investment activities (including youth activities) and provide related assistance for eligible migrant and seasonal farmworkers, which may include employment, training, educational assistance, literacy assistance, an English language program, worker safety training, housing, supportive services, dropout prevention activities, followup services for those individuals placed in employment, self-employment and related business enterprise development education as needed by eligible migrant and seasonal farmworkers and identified pursuant to the plan required by subsection (c) of this section, and technical assistance relating to capacity enhancement in such areas as management information technology.
+Funds made available under this section and section 2852(b)(1)(A)(iii) of this title shall be used to carry out workforce investment activities (including youth activities) and provide related assistance for eligible migrant and seasonal farmworkers, which may include employment, training, educational assistance, literacy assistance, an English language program, worker safety training, housing, supportive services, dropout prevention activities, followup services for those individuals placed in employment, self-employment and related business enterprise development education as needed by eligible migrant and seasonal farmworkers and identified pursuant to the plan required by subsection (c) of this section, and technical assistance relating to capacity enhancement in such areas as management information technology.
 
 #### (e) Consultation with Governors and local boards
 
@@ -93,6 +93,10 @@ In this section:
 The Single Audit Act of 1984, referred to in subsec. (g), is Pub. L. 98–502, Oct. 19, 1984, 98 Stat. 2327, which is classified generally to chapter 75 (§7501 et seq.) of Title 31, Money and Finance. For complete classification of this Act to the Code, see Short Title note set out under section 7501 of Title 31 and Tables.
 
 Section 334, referred to in subsec. (h)(1)(A), is section 334 of Pub. L. 105–220, which is set out as a note under section 2701 of this title. However, section 334 does not contain a subsec. (a)(2)(B) and does not define the term “poverty line”. “Poverty line” is defined for purposes of this chapter in section 2801 of this title.
+
+#### Prior Provisions
+
+Provisions similar to this section were contained in sections 1672 and 1673 of this title prior to repeal by Pub. L. 105–220.
 
 #### Amendments
 

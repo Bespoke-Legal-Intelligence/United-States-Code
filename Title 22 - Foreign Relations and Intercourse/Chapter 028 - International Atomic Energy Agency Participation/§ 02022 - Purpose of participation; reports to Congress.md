@@ -14,13 +14,13 @@ The participation of the United States in the International Atomic Energy Agency
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives and Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives and Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### References in Text
 
 Statute, referred to in text, is the “Statute of the International Atomic Energy Agency”.
 
-The Atomic Energy Act of 1954, as amended, referred to in text, is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921, and amended, which is classified generally to chapter 23 (§2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
+The Atomic Energy Act of 1954, as amended, referred to in text, is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921, and amended,which is classified generally to chapter 23 (§2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
 
 #### Transfer of Functions
 

@@ -170,11 +170,11 @@ Subsecs. (f), (g). Pub. L. 103–382, §534(2), (3), added subsec. (f) and redes
 
 Subsec. (c)1. Pub. L. 87–749, §1(c), provided that the allotment shall be to the Federal Extension Service for various services and for coordinating the extension work of the Department, States, Territories and Possessions, and struck out provisions which required the Secretary to allot the funds among the States, Alaska, Hawaii, and Puerto Rico according to special needs.
 
-Subsec. (c)2. Pub. L. 87–749, §1(d), substituted provisions authorizing 20 per centum of the remainder of the appropriated funds to be paid to the States in equal proportions, 40 per centum of such funds to be paid to the States in the proportion that the rural population of each bears to the total rural population of the States, and the balance to be paid the States in the proportion that the farm population of each bears to the total farm population of the States, for provisions paying 50 per centum of the remaining sum to the States, Alaska, Hawaii and Puerto Rico in the proportion that the rural population of each had to the total rural population of all, and the balance in the proportion that the farm population of each had to the farm population of all, and struck out “, Alaska, Hawaii, and Puerto Rico” from first proviso.
+Subsec. (c)2. Pub. L. 87–749, §1(d), substituted provisions authorizing 20 per centum of the remainder of the appropriated funds to be paid to the States in equal proportions, 40 per centum of such funds to be paid to the States in the proportion that the rural population of each bears to the total rural population of theStates, and the balance to be paid the States in the proportion that the farm population of each bears to the total farm population of the States, for provisions paying 50 per centum of the remaining sum to the States, Alaska, Hawaii and Puerto Rico in the proportion that the rural population of each had to the total rural population of all, and the balance in the proportion that the farm population of each had to the farm population of all, and struck out “, Alaska, Hawaii, and Puerto Rico” from first proviso.
 
 Subsec. (d). Pub. L. 87–749, §1(e), inserted “additional” after “receive such”.
 
-1953—Act June 26, 1953, amended section generally, and, among other changes: (1) divided section into subsections; (2) substituted general authorization for appropriations for former authorization for specific annual appropriations; (3) inserted references to Alaska,Hawaii, and Puerto Rico; and (4) substituted provisions relating to allotment and apportionment of appropriations for former provisions for such apportionment on basis of rural population, and farm population, as determined by latest census.
+1953—Act June 26, 1953, amended section generally, and, among other changes: (1) divided section into subsections; (2) substituted general authorization for appropriations for former authorization for specific annual appropriations; (3) inserted references to Alaska, Hawaii, and Puerto Rico; and (4) substituted provisions relating to allotment and apportionment of appropriations for former provisions for such apportionment on basis of rural population, and farm population, as determined by latest census.
 
 #### Effective Date of 1998 Amendment
 
@@ -191,10 +191,6 @@ Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L
 #### Effective Date of 1972 Amendment
 
 Amendment by Pub. L. 92–318 effective after June 30, 1970, see section 506(n) of Pub. L. 92–318, set out as an Effective Date note under section 326a of this title.
-
-#### Cross References
-
-Penalty mail, authorization to use, see section 3202 of Title 39, Postal Service.
 
 #### Section Referred to in Other Sections
 

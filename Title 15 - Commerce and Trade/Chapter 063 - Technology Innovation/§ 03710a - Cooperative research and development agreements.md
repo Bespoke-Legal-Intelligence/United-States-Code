@@ -2,7 +2,7 @@
 
 #### (a) General authority
 
-Each Federal agency may permit the director of any of its Government-operated Federal laboratories, and, to the extent provided in an agency-approved joint work statement, the director of any of its Government-owned, contractor-operated laboratories—
+Each Federal agency may permit the director of any of its Government-operated Federal laboratories, and, to the extent provided in an agency-approved joint work statement or, if permitted by the agency, in an agency-approved annual strategic plan, the director of any of its Government-owned, contractor-operated laboratories—
 
 &emsp;(1) to enter into cooperative research and development agreements on behalf of such agency (subject to subsection (c) of this section) with other Federal agencies; units of State or local government; industrial organizations (including corporations, partnerships, and limited partnerships, and industrial development organizations); public and private foundations; nonprofit organizations (including universities); or other persons (including licensees of inventions owned by the Federal agency); and
 
@@ -10,7 +10,7 @@ Each Federal agency may permit the director of any of its Government-operated Fe
 
 #### (b) Enumerated authority
 
-(1) Under an agreement entered into pursuant to subsection (a)(1) of this section, the laboratory may grant, or agree to grant in advance, to a collaborating party patent licenses or assignments, or options thereto, in any invention made in whole or in part by a laboratory employee under the agreement, for reasonable compensation when appropriate. The laboratory shall ensure, through such agreement, that the collaborating party has the option to choose an exclusive license for a pre-negotiated field of use for any such invention under the agreement or, if there is more than one collaborating party, that the collaborating parties are offered the option to hold licensing rights that collectively encompass the rights that would be held under such an exclusive license by one party. In consideration for the Government's contribution under the agreement, grants under this paragraph shall be subject to the following explicit conditions:
+(1) Under an agreement entered into pursuant to subsection (a)(1) of this section, the laboratory may grant, or agree to grant in advance, to a collaborating party patent licenses or assignments, or options thereto, in any invention made in whole or in part by a laboratory employee under the agreement, or, subject to section 209 of title 35, may grant a license to an invention which is federally owned, for which a patent application was filed before the signing of the agreement, and directly within the scope of the work under the agreement, for reasonable compensation when appropriate. The laboratory shall ensure, through such agreement, that the collaborating party has the option to choose an exclusive license for a pre-negotiated field of use for any such invention under the agreement or, if there is more than one collaborating party, that the collaborating parties are offered the option to hold licensing rights that collectively encompass the rights that would be held under such an exclusive license by one party. In consideration for the Government's contribution under the agreement, grants under this paragraph shall be subject to the following explicit conditions:
 
 &emsp;(A) A nonexclusive, nontransferable, irrevocable, paid-up license from the collaborating party to the laboratory to practice the invention or have the invention practiced throughout the world by or on behalf of the Government. In the exercise of such license, the Government shall not publicly disclose trade secrets or commercial or financial information that is privileged or confidential within the meaning of section 552(b)(4) of title 5 or which would be considered as such if it had been obtained from a non-Federal party.
 
@@ -36,7 +36,7 @@ Each Federal agency may permit the director of any of its Government-operated Fe
 
 &emsp;(A) accept, retain, and use funds, personnel, services, and property from a collaborating party and provide personnel, services, and property to a collaborating party;
 
-&emsp;(B) use funds received from a collaborating party in accordance with subparagraph (A) to hire personnel to carry out the agreement who will not be subject to full-time-equivalent restrictions of the agency;
+&emsp;(B) use funds received from a collaborating party in accordance with subparagraph (A) to hire personnel to carry out the agreement whowill not be subject to full-time-equivalent restrictions of the agency;
 
 &emsp;(C) to the extent consistent with any applicable agency requirements or standards of conduct, permit an employee or former employee of the laboratory to participate in an effort to commercialize an invention made by the employee or former employee while in the employment or service of the Government; and
 
@@ -51,6 +51,12 @@ Each Federal agency may permit the director of any of its Government-operated Fe
 &emsp;(B) for purposes described in clauses (i), (ii), (iii), and (iv) of section 3710c(a)(1)(B) of this title; and
 
 &emsp;(C) for scientific research and development consistent with the research and development missions and objectives of the laboratory.
+
+(6)(A) In the case of a laboratory that is part of the National Nuclear Security Administration, a designated official of that Administration may waive any license retained by the Government under paragraph (1)(A), (2), or (3)(D), in whole or in part and according to negotiated terms and conditions, if the designated official finds that the retention of the license by the Government would substantially inhibit the commercialization of an invention that would otherwise serve an important national security mission.
+
+(B) The authority to grant a waiver under subparagraph (A) shall expire on the date that is five years after October 30, 2000. The expiration under the preceding sentence of authority to grant a waiver under subparagraph (A) shall not affect any waiver granted under that subparagraph before the expiration of such authority.
+
+(C) Not later than February 15 of each year, the Administrator for Nuclear Security shall submit to Congress a report on any waivers granted under this paragraph during the preceding year.
 
 #### (c) Contract considerations
 
@@ -72,23 +78,15 @@ Each Federal agency may permit the director of any of its Government-operated Fe
 
 (B) In any case in which the head of an agency or his designee disapproves or requires the modification of an agreement presented by the director of a Government-operated laboratory under this section, the head of the agency or such designee shall transmit a written explanation of such disapproval or modification to the head of the laboratory concerned.
 
-(C)(i) Except as provided in subparagraph (D), any agency which has contracted with a non-Federal entity to operate a laboratory shall review and approve, request specific modifications to, or disapprove a joint work statement that is submitted by the director of such laboratory within 90 days after such submission. In any case where an agency has requested specific modifications to a joint work statement, the agency shall approve or disapprove any resubmission of such joint work statement within 30 days after such resubmission, or 90 days after the original submission, whichever occurs later. No agreement may be entered into by a Government-owned, contractor-operated laboratory under this section before both approval of the agreement under clause (iv) and approval under this clause of a joint work statement.
-
-(ii) In any case in which an agency which has contracted with a non-Federal entity to operate a laboratory disapproves or requests the modification of a joint work statement submitted under this section, the agency shall promptly transmit a written explanation of such disapproval or modification to the director of the laboratory concerned.
-
-(iii) Any agency which has contracted with a non-Federal entity to operate a laboratory or laboratories shall develop and provide to such laboratory or laboratories one or more model cooperative research and development agreements, for the purposes of standardizing practices and procedures, resolving common legal issues, and enabling review of cooperative research and development agreements to be carried out in a routine and prompt manner.
-
-(iv) An agency which has contracted with a non-Federal entity to operate a laboratory shall review each agreement under this section. Within 30 days after the presentation, by the director of the laboratory, of such agreement, the agency shall, on the basis of such review, approve or request specific modification to such agreement. Such agreement shall not take effect before approval under this clause.
-
-(v) If an agency fails to complete a review under clause (iv) within the 30-day period specified therein, the agency shall submit to the Congress, within 10 days after the end of that 30-day period, a report on the reasons for such failure. The agency shall, at the end of each successive 30-day period thereafter during which such failure continues, submit to the Congress another report on the reasons for the continuing failure. Nothing in this clause relieves the agency of the requirement to complete a review under clause (iv).
-
-(vi) In any case in which an agency which has contracted with a non-Federal entity to operate a laboratory requests the modification of an agreement presented under this section, the agency shall promptly transmit a written explanation of such modification to the director of the laboratory concerned.
-
-(D)(i) Any non-Federal entity that operates a laboratory pursuant to a contract with a Federal agency shall submit to the agency any cooperative research and development agreement that the entity proposes to enter into with a small business firm and the joint work statement required with respect to that agreement.
+(C)(i) Any non-Federal entity that operates a laboratory pursuant to a contract with a Federal agency shall submit to the agency any cooperative research and development agreement that the entity proposes to enter into and the joint work statement if required with respect to that agreement.
 
 (ii) A Federal agency that receives a proposed agreement and joint work statement under clause (i) shall review and approve, request specific modifications to, or disapprove the proposed agreement and joint work statement within 30 days after such submission. No agreement may be entered into by a Government-owned, contractor-operated laboratory under this section before both approval of the agreement and approval of a joint work statement under this clause.
 
 (iii) In any case in which an agency which has contracted with an entity referred to in clause (i) disapproves or requests the modification of a cooperative research and development agreement or joint work statement submitted under that clause, the agency shall transmit a written explanation of such disapproval or modification to the head of the laboratory concerned.
+
+(iv) Any agency that has contracted with a non-Federal entity to operate a laboratory may develop and provide to such laboratory one or more model cooperative research and development agreements for purposes of standardizing practices and procedures, resolving common legal issues, and enabling review of cooperative research and development agreements to be carried out in a routine and prompt manner.
+
+(v) A Federal agency may waive the requirements of clause (i) or (ii) under such circumstances as the agency considers appropriate.
 
 (6) Each agency shall maintain a record of all agreements entered into under this section.
 
@@ -132,13 +130,21 @@ In implementing this section, each agency which has contracted with a non-Federa
 
 &emsp;(2) Classified information and unclassified sensitive information protected by law, regulation, or Executive order shall be appropriately safeguarded.
 
-(Pub. L. 96–480, §12, as added and renumbered §11, Pub. L. 99–502, §§2, 9(e)(1), Oct. 20, 1986, 100 Stat. 1785, 1797; renumbered §12, Pub. L. 100–418, title V, §5122(a)(1), Aug. 23, 1988, 102 Stat. 1438; amended Pub. L. 100–519, title III, §301, Oct. 24, 1988, 102 Stat. 2597; Pub. L. 101–189, div. C, title XXXI, §3133(a), (b), Nov. 29, 1989, 103 Stat. 1675, 1677; Pub. L. 102–25, title VII, §705(g), Apr. 6, 1991, 105 Stat. 121; Pub. L. 102–245, title III, §302(a), Feb. 14, 1992, 106 Stat. 20; Pub. L. 102–484, div. C, title XXXI, §3135(a), Oct. 23, 1992, 106 Stat. 2640; Pub. L. 103–160, div. C, title XXXI, §3160, Nov. 30, 1993, 107 Stat. 1957; Pub. L. 104–113, §4, Mar. 7, 1996, 110 Stat. 775.)
+(Pub. L. 96–480, §12, as added and renumbered §11, Pub. L. 99–502, §§2, 9(e)(1), Oct. 20, 1986, 100Stat. 1785, 1797; renumbered §12, Pub. L. 100–418, title V, §5122(a)(1), Aug. 23, 1988, 102 Stat. 1438; amended Pub. L. 100–519, title III, §301, Oct. 24, 1988, 102 Stat. 2597; Pub. L. 101–189, div. C, title XXXI, §3133(a), (b), Nov. 29, 1989, 103 Stat. 1675, 1677; Pub. L. 102–25, title VII, §705(g), Apr. 6, 1991, 105 Stat. 121; Pub. L. 102–245, title III, §302(a), Feb. 14, 1992, 106 Stat. 20; Pub. L. 102–484, div. C, title XXXI, §3135(a), Oct. 23, 1992, 106 Stat. 2640; Pub. L. 103–160, div. C, title XXXI, §3160, Nov. 30, 1993, 107 Stat. 1957; Pub. L. 104–113, §4, Mar. 7, 1996, 110 Stat. 775; Pub. L. 106–398, §1 \[div. C, title XXXI, §3196\], Oct. 30, 2000, 114 Stat. 1654, 1654A–481; Pub. L. 106–404, §3, Nov. 1, 2000, 114 Stat. 1742.)
 
 #### References in Text
 
 Executive Order No. 12344, referred to in subsec. (d)(2), is set out as a note under section 7158 of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+2000—Subsec. (a). Pub. L. 106–398, §1 \[div. C, title XXXI, §3196(a)\], substituted “joint work statement or, if permitted by the agency, in an agency-approved annual strategic plan,” for “joint work statement,” in introductory provisions.
+
+Subsec. (b)(1). Pub. L. 106–404, in first sentence, inserted “or, subject to section 209 of title 35, may grant a license to an invention which is federally owned, for which a patent application was filed before the signing of the agreement, and directly within the scope of the work under the agreement,” after “under the agreement,”.
+
+Subsec. (b)(6). Pub. L. 106–398, §1 \[div. C, title XXXI, §3196(b)\], added par. (6).
+
+Subsec. (c)(5)(C), (D). Pub. L. 106–398, §1 \[div. C, title XXXI, §3196(c)\], redesignated subpar. (D) as (C), struck out “with a small business firm” after “enter into” and inserted “if” after “statement” in cl. (i), added cls. (iv) and (v), and struck out former subpar. (C) which related to the duties of an agency which has contracted with a non-Federal entity to operate a laboratory with respect to review and approval of joint work statements and agreements under this section and with respect to providing the entity with model cooperative research and development agreements.
 
 1996—Subsec. (b). Pub. L. 104–113 amended subsec. (b) generally, to require that laboratory ensure that collaborating party be provided option of choosing exclusive license for pre-negotiated field of use for any invention under agreement or that collaborating party be offered option of holding licensing rights that collectively encompass rights that would be held under such exclusive license by one party, to set forth explicit conditions that grants under par. (1) were to be subject to, and to require laboratory to ensure that collaborating party might retain title to any invention made solely by its employee in exchange for normally granting Government nonexclusive, nontransferable, irrevocable, paid-up license to practice invention by or on behalf of Government for research or for other Government purposes.
 
@@ -183,6 +189,38 @@ Subsec. (g). Pub. L. 101–189, §3133(b), added subsec. (g).
 1988—Subsec. (a)(2). Pub. L. 100–519, §301(1), substituted “or other intellectual property developed at the laboratory and other inventions or other intellectual property” for “at the laboratory and other inventions”.
 
 Subsec. (b)(4), (5). Pub. L. 100–519, §301(2), added par. (4) and redesignated former par. (4) as (5).
+
+#### Review of Cooperative Research and Development Agreement Procedures
+
+Pub. L. 106–404, §8, Nov. 1, 2000, 114 Stat. 1746, provided that:
+
+“(a)
+
+Review.—Within 90 days after the date of the enactment of this Act \[Nov. 1, 2000\], each Federal agency with a federally funded laboratory that has in effect on that date of the enactment one or more cooperative research and development agreements under section 12 ofthe Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710a) shall report to the Committee on National Security of the National Science and Technology Council and the Congress on the general policies and procedures used by that agency to gather and consider the views of other agencies on—
+
+&emsp;“(1) joint work statements under section 12(c)(5)(C) or (D) of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710a(c)(5)(C) or (D)); or
+
+&emsp;“(2) in the case of laboratories described in section 12(d)(2)(A) of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710a(d)(2)(A)), cooperative research and development agreements under such section 12,
+
+> with respect to major proposed cooperative research and development agreements that involve critical national security technology or may have a significant impact on domestic or international competitiveness.
+
+“(b)
+
+Procedures.—Within 1 year after the date of the enactment of this Act \[Nov. 1, 2000\], the Committee on National Security of the National Science and Technology Council, in conjunction with relevant Federal agencies and national laboratories, shall—
+
+&emsp;“(1) determine the adequacy of existing procedures and methods for interagency coordination and awareness with respect to cooperative research and development agreements described in subsection (a); and
+
+&emsp;“(2) establish and distribute to appropriate Federal agencies—
+
+&emsp;&emsp;“(A) specific criteria to indicate the necessity for gathering and considering the views of other agencies on joint work statements or cooperative research and development agreements as described in subsection (a); and
+
+&emsp;&emsp;“(B) additional procedures, if any, for carrying out such gathering and considering of agency views with respect to cooperative research and development agreements described in subsection (a).
+
+> Procedures established under this subsection shall be designed to the extent possible to use or modify existing procedures, to minimize burdens on Federal agencies, to encourage industrial partnerships with national laboratories, and to minimize delay in the approval or disapproval of joint work statements and cooperative research and development agreements.
+
+“(c)
+
+Limitation.—Nothing in this Act \[see Short Title of 2000 Amendment note set out under section 3701 of this title\], nor any procedures established under this section shall provide to the Office of Science and Technology Policy, the National Science and Technology Council, or any Federal agency the authority to disapprove a cooperative research and development agreement or joint work statement, under section 12 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710a), of another Federal agency.”
 
 #### Magnetic Levitation Technology
 
@@ -232,5 +270,5 @@ Section 3133(d) of Pub. L. 101–189, as amended by Pub. L. 101–510, div. A, t
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 278n, 3710c, 3714, 3715, 5528 of this title; title 7 section 7624; title 10 sections 2371a, 2500, 2519; title 23 sections 403, 502; title 33 section 2313; title 42 sections 2123, 13541; title 49 section 309.
+This section is referred to in sections 278n, 3710c, 3714, 3715, 5528 of this title; title 7 section 7624; title 10 sections 2371a, 2500, 2519; title 23 sections 403, 502; title 33 section 2313; title 35 section 209; title 42 sections 2123, 13541; title 49 section 309.
 

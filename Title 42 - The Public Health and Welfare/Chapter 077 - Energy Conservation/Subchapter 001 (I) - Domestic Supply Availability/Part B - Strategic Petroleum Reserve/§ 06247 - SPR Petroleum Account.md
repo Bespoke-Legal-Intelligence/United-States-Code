@@ -6,19 +6,19 @@ The Secretary of the Treasury shall establish in the Treasury of the United Stat
 
 #### (b) Obligation of funds for acquisition, transportation, and injection of petroleum products into SPR
 
-Amounts in the Account may be obligated by the Secretary of Energy for the acquisition, transportation, and injection of petroleum products into the Strategic Petroleum Reserve, and the drawdown and delivery of petroleum products from the Reserve—
+Amounts in the Account may be obligated by the Secretary of Energy for the acquisition, transportation, and injection of petroleum products into the Strategic Petroleum Reserve, for test sales of petroleum products from the Reserve, and for the drawdown, sale, and delivery of petroleum products from the Reserve—
 
-&emsp;(1) in the case of fiscal year 1982, in an aggregate amount, not to exceed $3,900,000,000, as may be provided in advance in appropriation Acts;
+&emsp;(1) Repealed. Pub. L. 106–469, title I, §103(19)(A)(ii), Nov. 9, 2000, 114 Stat. 2033;
 
-&emsp;(2) in the case of any fiscal year after fiscal year 1982, subject to section 7270 of this title, in such aggregate amounts as may be appropriated in advance in appropriation Acts; and
+&emsp;(2) in the case of any fiscal year, subject to section 7270 of this title, in such aggregate amounts as may be appropriated in advance in appropriation Acts; and
 
-&emsp;(3) in the case of any fiscal year, notwithstanding section 7270 of this title, in an aggregate amount equal to the aggregate amount of the receipts to the United States from the sale of petroleum products in any drawdown and distribution of the Strategic Petroleum Reserve under section 6241 of this title, including a drawdown and distribution carried out under subsection (g) of such section, or from the sale of petroleum products under section 6240(f) of this title.
+&emsp;(3) in the case of any fiscal year, notwithstanding section 7270 of this title, in an aggregate amount equal to the aggregate amount of the receipts to the United States from the sale of petroleum products in any drawdown anddistribution of the Strategic Petroleum Reserve under section 6241 of this title, including a drawdown and distribution carried out under subsection (g) of such section, or from the sale of petroleum products under section 6240(f) of this title.
 
 > Funds available to the Secretary of Energy for obligation under this subsection may remain available without fiscal year limitation.
 
 #### (c) Provision and deposit of funds
 
-The Secretary of the Treasury shall provide and deposit into the Account such sums as maybe necessary to meet obligations of the Secretary of Energy under subsection (b) of this section.
+The Secretary of the Treasury shall provide and deposit into the Account such sums as may be necessary to meet obligations of the Secretary of Energy under subsection (b) of this section.
 
 #### (d) Off-budgeting procedures
 
@@ -28,19 +28,25 @@ The Account, the deposits and withdrawals from the Account, and the transactions
 
 &emsp;(2) shall not be deemed to be budget authority, spending authority, budget outlays, or Federal revenues for purposes of title III of Public Law 93–344, as amended \[2 U.S.C. 631 et seq.\].
 
-#### (e) Interim storage facilities
-
-(1) Except as provided in paragraph (2), nothing in this part shall be construed to limit the Account from being used to meet expenses relating to interim storage facilities for the storage of petroleum products for the Strategic Petroleum Reserve.
-
-(2) In any fiscal year, amounts in the Account may not be obligated for expenses relating to interim storage facilities in excess of 10 percent of the total amounts in the Account obligated in such fiscal year. If the amount obligated in any fiscal year for interim storage expenses is less than the amount of the 10-percent limit under the preceding sentence for that fiscal year, then the amount of the 10-percent limit applicable in the following fiscal year shall be increased by the amount by which the limit exceeded the amount obligated for such expenses.
-
-(Pub. L. 94–163, title I, §167, as added Pub. L. 97–35, title X, §1034(a)(1), Aug. 13, 1981, 95 Stat. 619; amended Pub. L. 97–229, §4(b)(2)(A), Aug. 3, 1982, 96 Stat. 251; Pub. L. 99–58, title I, §103(b)(3), (4), July 2, 1985, 99 Stat. 104; Pub. L. 101–383, §5(b)(1), (2), Sept. 15, 1990, 104 Stat. 729; Pub. L. 102–486, title XIV, §1404(b)(1), Oct. 24, 1992, 106 Stat. 2995.)
+(Pub. L. 94–163, title I, §167, as added Pub. L. 97–35, title X, §1034(a)(1), Aug. 13, 1981, 95 Stat. 619; amended Pub. L. 97–229, §4(b)(2)(A), Aug. 3, 1982, 96 Stat. 251; Pub. L. 99–58, title I, §103(b)(3), (4), July 2, 1985, 99 Stat. 104; Pub. L. 101–383, §5(b)(1), (2), Sept. 15, 1990, 104 Stat. 729; Pub. L. 102–486, title XIV, §1404(b)(1), Oct. 24, 1992, 106 Stat. 2995; Pub. L. 106–469, title I, §103(19), Nov. 9, 2000, 114 Stat. 2033.)
 
 #### References in Text
 
 Public Law 93–344, as amended, referred to in subsec. (d)(2), is Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended, known as the Congressional Budget and Impoundment Control Act of 1974. Title III of that Act is classified generally to subchapter I (§631 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2 and Tables.
 
 #### Amendments
+
+2000—Subsec. (b). Pub. L. 106–469, §103(19)(A)(i), substituted “for test sales of petroleum products from the Reserve, and for the drawdown, sale,” for “and the drawdown” in introductory provisions.
+
+Subsec. (b)(1). Pub. L. 106–469, §103(19)(A)(ii), struck out par. (1) which read as follows: “in the case of fiscal year 1982, in an aggregate amount, not to exceed $3,900,000,000, as may be provided in advance in appropriation Acts;”.
+
+Subsec. (b)(2). Pub. L. 106–469, §103(19)(A)(iii), struck out “after fiscal year 1982” after “any fiscal year”.
+
+Subsec. (e). Pub. L. 106–469, §103(19)(B), struck out subsec. (e) which read as follows:
+
+“(1) Except as provided in paragraph (2), nothing in this part shall be construed to limit the Account from being used to meet expenses relating to interim storage facilities for the storage of petroleum products for the Strategic Petroleum Reserve.
+
+“(2) In any fiscal year, amounts in the Account may not be obligated for expenses relating to interim storage facilities in excess of 10 percent of the total amounts in the Account obligated in such fiscal year. If the amount obligated in any fiscal year for interim storage expenses is less than the amount of the 10-percent limit under the preceding sentence for that fiscal year, then the amount of the 10-percent limit applicable in the following fiscal year shall be increased by the amount by which the limit exceeded the amount obligated for such expenses.”
 
 1992—Subsec. (d). Pub. L. 102–486 substituted “under subsection (g)” for “subsection (g)”.
 
@@ -65,8 +71,4 @@ Pub. L. 106–113, div. B, §1000(a)(3) \[title II\], Nov. 29, 1999, 113 Stat. 1
 #### Acquisition, Transportation, and Injection of Petroleum Products for SPR; Applicability of Subsec. (d)
 
 Section 1034(c) of Pub. L. 97–35 provided that: “The provisions of section 167(d) of such Act, as added by subsection (a) of this section \[subsec. (d) of this section\], shall apply with respect to the outlays associated with unexpended balances of appropriations made available and obligated as of the end of fiscal year 1981 for the acquisition, transportation, and injection of petroleum products for the Strategic Petroleum Reserve to the same extent and manner as such provisions apply with respect to withdrawals from the SPR Petroleum Account.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6240 of this title.
 

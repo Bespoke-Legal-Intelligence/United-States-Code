@@ -12,11 +12,11 @@ Section was not enacted as part of the Johnson-O'Malley Act which comprises this
 
 1968—Pub. L. 90–333 expanded area of permissible uses to which Secretary may put donated property by substituting provisions allowing inclusion of programs otherwise authorized by law intended to benefit Indians for provisions limiting permissible uses to programs otherwise authorized by law only if it could be shown that property would benefit a particular Indian institution or individual, and inserted provisions for an annual report to Congress on donations received and allocations made from such donations.
 
-#### Cross References
+#### Termination of Reporting Requirements
 
-Deposit of funds received in Treasury as trust funds, see section 1321 of Title 31, Money and Finance.
+For termination, effective May 15, 2000, of provisions in this section relating to making an annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 113 of House Document No. 103–7.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 22 section 2124c.
+This section is referred to in section 458bbb of this title; title 22 section 2124c.
 

@@ -4,7 +4,7 @@ For purposes of this subchapter—
 
 &emsp;(1) the term “foreign person” means—
 
-&emsp;&emsp;(A) an individual who is not a citizen of the United States or an alien admitted for permanent residence to the United States; or
+&emsp;&emsp;(A) an individual who is not a citizen of the United States or an alien admitted forpermanent residence to the United States; or
 
 &emsp;&emsp;(B) a corporation, partnership, or other nongovernment entity which is created or organized under the laws of a foreign country or which has its principal place of business outside the United States;
 

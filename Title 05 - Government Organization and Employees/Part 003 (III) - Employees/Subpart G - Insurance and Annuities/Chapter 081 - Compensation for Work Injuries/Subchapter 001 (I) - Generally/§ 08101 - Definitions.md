@@ -30,9 +30,9 @@ For the purpose of this subchapter—
 
 &emsp;(3) “medical, surgical, and hospital services and supplies” includes services and supplies by podiatrists, dentists, clinical psychologists, optometrists, chiropractors, osteopathic practitioners and hospitals within the scope of their practice as defined by State law. Reimbursable chiropractic services are limited to treatment consisting of manual manipulation of the spine to correct a subluxation as demonstrated by X-ray to exist, and subject to regulation by the Secretary;
 
-&emsp;(4) “monthly pay” means the monthly pay at the time of injury, or the monthly pay at the time disability begins, or the monthly pay at the time compensable disability recurs, if the recurrence begins more than 6 months after the injured employee resumes regular full-time employment with the United States, whichever is greater, except when otherwise determined under section 8113 of this title with respect to any period;
+&emsp;(4) “monthly pay” means the monthly pay at the time of injury, or the monthly pay at the time disability begins, or the monthly pay at the time compensable disability recurs, if the recurrence begins more than 6 months after the injured employee resumes regular full-time employment with the United States, whichever is greater, except when otherwisedetermined under section 8113 of this title with respect to any period;
 
-&emsp;(5) “injury” includes, in addition to injury by accident, a disease proximately caused by the employment, and damage to or destruction of medical braces, artificial limbs, andother prosthetic devices which shall be replaced or repaired, and such time lost while such device or appliance is being replaced or repaired; except that eyeglasses and hearing aids would not be replaced, repaired, or otherwise compensated for, unless the damages or destruction is incident to a personal injury requiring medical services;
+&emsp;(5) “injury” includes, in addition to injury by accident, a disease proximately caused by the employment, and damage to or destruction of medical braces, artificial limbs, and other prosthetic devices which shall be replaced or repaired, and such time lost while such device or appliance is being replaced or repaired; except that eyeglasses and hearing aids would not be replaced, repaired, or otherwise compensated for, unless the damages or destruction is incident to a personal injury requiring medical services;
 
 &emsp;(6) “widow” means the wife living with or dependent for support on the decedent at the time of his death, or living apart for reasonable cause or because of his desertion;
 
@@ -88,7 +88,7 @@ For the purpose of this subchapter—
 
 &emsp;(19) “organ” means a part of the body that performs a special function, and for purposes of this subchapter excludes the brain, heart, and back; and
 
-&emsp;(20) “United States medical officers and hospitals” includes medical officers and hospitals of the Army, Navy, Air Force, Department of Veterans Affairs, and United States Public Health Service, and any other medical officeror hospital designated as a United States medical officer or hospital by the Secretary of Labor.
+&emsp;(20) “United States medical officers and hospitals” includes medical officers and hospitals of the Army, Navy, Air Force, Department of Veterans Affairs, and United States Public Health Service, and any other medical officer or hospital designated as a United States medical officer or hospital by the Secretary of Labor.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 532; Pub. L. 90–83, §1(4), (48), Sept. 11, 1967, 81 Stat. 196, 209; Pub. L. 93–416, §1, Sept. 7, 1974, 88 Stat. 1143; Pub. L. 96–499, title IV, §421(b), Dec. 5, 1980, 94 Stat. 2608; Pub. L. 97–463, §4, Jan. 12, 1983, 96 Stat. 2532; Pub. L. 102–54, §13(b)(1), June 13, 1991, 105 Stat. 274.)
 
@@ -230,8 +230,6 @@ In paragraph (19), the words “July 1966 and each later month” are substitute
 
 Act of August 25, 1958, 72 Stat. 838, referred to in par. (1)(E), is set out as a note under section 102 of Title 3, The President.
 
-Sections 521–535 of title 4, District of Columbia Code, referred to in par. (1)(iv), were transferred to sections 4–607, 4–609, 4–610, 4–612, 4–613, 4–615, 4–616, 4–618 to 4–620, 4–622, 4–626, 4–627, 4–629, and 4–630, respectively, of Title 4, Police and Fire Departments, of the District of Columbia Code.
-
 #### Amendments
 
 1991—Par. (20). Pub. L. 102–54 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
@@ -276,35 +274,15 @@ Functions of Public Health Service, Surgeon General of Public Health Service, an
 
 #### Processing of Claims Filed by District of Columbia Employees
 
-Pub. L. 93–198, title II, §204(e), Dec. 24, 1973, 87 Stat. 783, provided that: “All functions of the Secretary under chapter 81 of title 5 of the United States Code, with respect to the processing of claims filed by employees of the government of the District for compensation for work injuries, are transferred to and shall be exercised by the Commissioner, effective the day after the day on which the District establishes an independent personnel system or systems.” An independent personnel system was established for the District by D.C. Law 2–139, Mar. 3, 1979, 25 DCR 5740, which appears in chapter 6 (§1–601 et seq.) of Title 1, Administration, of the District of Columbia Code.
+Pub. L. 93–198, title II, §204(e), Dec. 24, 1973, 87 Stat. 783, provided that: “All functions of the Secretary under chapter 81 of title 5 of the United States Code, with respect to the processing of claims filed by employees of the government of the District for compensation for work injuries, are transferred to and shall be exercised by the Commissioner, effective the day after the day on which the District establishes an independent personnel system or systems.” An independent personnel system was established for the District by D.C. Law 2–139, Mar. 3, 1979, 25 DCR 5740.
 
 #### Study and Report to Congress by Secretary of Labor of Provisions and Programs Under Subchapter
 
 Section 27 of Pub. L. 93–416 directed Secretary of Labor to conduct a study of the provisions of this subchapter and its programs which was to include: hearings, research, and other activities necessary to formulate recommendations; an examination of need for authority to increase allowances for services of attendants above the maximum fixed by section 8111 of this title in exceptional circumstances; an examination of the effectiveness of this subchapter; and recommendations as to survivor benefits; report results of the study together with his findings and recommendations not later than 12 months after Sept. 7, 1974.
 
-#### Cross References
-
-Applicability of this subchapter to compensation for injury, death, or detention of employees of contractors with United States outside of the United States, see sections 1701 to 1706 and 1711 to 1717 of Title 42, The Public Health and Welfare.
-
-Civil Service disability retirement annuity and compensation for injury or disability under this subchapter covering the same period of time as mutually exclusive, see sections 8337 and 8451 of this title.
-
-Compensation for injury or death of temporary members of Reserve and Auxiliary members of Coast Guard, see section 707 of Title 14, Coast Guard.
-
-Compensation under Defense Base Act for disability or death to persons employed at Military, Air, and Naval Bases outside the United States not to include employees covered by this subchapter, see section 1654 of Title 42, The Public Health and Welfare.
-
-Dependency and indemnity compensation for service connected deaths, see section 1316 of Title 38, Veterans’ Benefits.
-
-International organizations, coverage of employees transferring to, see section 3582 of this title.
-
-Internees under War Claims Act, see section 2004 of Title 50, Appendix, War and National Defense.
-
-Saint Lawrence Seaway Development Corporation, contributions to fund, see section 987 of Title 33, Navigation and Navigable Waters.
-
-Third party tort liability to United States for hospital and medical care, see section 2651 et seq. of Title 42, The Public Health and Welfare.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3373, 3374, 7902, 8110, 8118, 8133, 8191, 8192 of this title; title 16 sections 1a–6, 18i, 558c, 670c, 742f, 773a, 4604; title 20 section 76<i>l</i>; title 22 section 3973; title 29 sections 1706, 2897; title 30 section 902; title 42 sections 3796b, 5055, 12620, 12651g, 12655n.
+This section is referred to in sections 3373, 3374, 7902, 8110, 8118, 8133, 8191, 8192 of this title; title 16 sections 1a–6, 18i, 558c, 670c, 742f, 773a, 4604; title 20 section 76<i>l</i>; title 22 section 3973; title 29 section 2897; title 30 section 902; title 42 sections 3796b, 5055, 12620, 12651g, 12655n.
 
 <i><sup>1</sup></i><i> So in original. Pub. L. 93–416 added par. (F) immediately after par. (iv), rather than after par. (E).</i>
 

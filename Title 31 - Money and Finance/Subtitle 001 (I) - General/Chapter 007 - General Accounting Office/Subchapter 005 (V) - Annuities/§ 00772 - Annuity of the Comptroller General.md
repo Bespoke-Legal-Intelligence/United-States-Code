@@ -8,7 +8,7 @@
 
 &emsp;(2) 50 percent of the pay if the Comptroller General served less than 10 years.
 
-(c) A Comptroller General who, when appointed, is or has been subject to subchapter III of chapter 83 or chapter 84 of title 5 remains subject to such subchapter III or such chapter 84 (as the case may be) unless the Comptroller General elects in writing to receive an annuity under this section. An election is irrevocable and must be made within 10 years and 60 days after the start of service as Comptroller General. A Comptroller General electing to receive an annuity under this section is entitled to a refund of the lump-sum credit to the account of the Comptroller General in the Civil Service Retirement and Disability Fund.
+(c) A Comptroller General who, when appointed, is or has been subject to subchapter III of chapter 83 or chapter 84 of title 5 remains subject to such subchapter III or such chapter 84 (as the case may be) unless the Comptroller General elects in writing to receive an annuity under this section. An election is irrevocable and must be made within 10 years and 60 days after the start of service as Comptroller General. A Comptroller General electing to receive an annuityunder this section is entitled to a refund of the lump-sum credit to the account of the Comptroller General in the Civil Service Retirement and Disability Fund.
 
 (d) A Comptroller General (except a Comptroller General remaining subject to subchapter III of chapter 83 of title 5) shall—
 

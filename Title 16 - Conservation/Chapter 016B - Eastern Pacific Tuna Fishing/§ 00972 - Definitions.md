@@ -20,10 +20,6 @@ Section 1 of Pub. L. 98–445 provided: “That this Act \[enacting this chapter
 
 For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
 
-#### Contiguous Zone of United States
-
-For extension of contiguous zone of United States, see Proc. No. 7219, Sept. 2, 1999, 64 F.R. 48701, set out as a note under section 1331 of Title 43, Public Lands.
-
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 
 <i><sup>2</sup></i><i> So in original. The comma probably should be a semicolon.</i>

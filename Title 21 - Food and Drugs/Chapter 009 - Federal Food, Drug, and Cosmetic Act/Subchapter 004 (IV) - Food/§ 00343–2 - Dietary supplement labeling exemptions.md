@@ -20,7 +20,7 @@ Subsection (a) of this section shall not apply to or restrict a retailer or whol
 
 #### (c) Burden of proof
 
-In any proceeding brought under subsection (a) of this section, the burden of proof shall beon the United States to establish that an article or other such matter is false or misleading.
+In any proceeding brought under subsection (a) of this section, the burden of proof shall be on the United States to establish that an article or other such matter is false or misleading.
 
 (June 25, 1938, ch. 675, §403B, as added Pub. L. 103–417, §5, Oct. 25, 1994, 108 Stat. 4328.)
 

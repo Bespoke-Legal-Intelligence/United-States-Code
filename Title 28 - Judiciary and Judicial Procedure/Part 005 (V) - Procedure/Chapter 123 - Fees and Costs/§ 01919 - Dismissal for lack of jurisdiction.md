@@ -14,9 +14,9 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1992—Pub. L. 102–572 substituted “Dismissal” for “District courts; dismissal” in section catchline and inserted reference to Court of Federal Claims in text.
+<b>1992</b>—Pub. L. 102–572 substituted “Dismissal” for “District courts; dismissal” in section catchline and inserted reference to Court of Federal Claims in text.
 
-1980—Pub. L. 96–417 included dismissals in Court of International Trade for want of jurisdiction.
+<b>1980</b>—Pub. L. 96–417 included dismissals in Court of International Trade for want of jurisdiction.
 
 #### Effective Date of 1992 Amendment
 

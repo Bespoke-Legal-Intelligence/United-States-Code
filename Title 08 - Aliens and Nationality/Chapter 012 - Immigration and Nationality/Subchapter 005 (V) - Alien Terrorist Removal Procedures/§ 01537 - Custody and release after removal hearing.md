@@ -46,7 +46,7 @@
 
 #### (3) Subsequent removal
 
-&emsp;Following the completion of a sentence of confinement by an alien described in paragraph (1), or following the completion of Statecriminal proceedings which do not result in a sentence of confinement of an alien released to the custody of State authorities pursuant to paragraph (2), such an alien shall be returned to the custody of the Attorney General who shall proceed to the removal of the alien under this subchapter.
+&emsp;Following the completion of a sentence of confinement by an alien described in paragraph (1), or following the completion of State criminal proceedings which do not result in a sentence of confinement of an alien released to the custody of State authorities pursuant to paragraph (2), such an alien shall be returned to the custody of the Attorney General who shall proceed to the removal of the alien under this subchapter.
 
 #### (d) Application of certain provisions relating to escape of prisoners
 

@@ -24,7 +24,3 @@ This section \[section 5\] substitutes, in section 244 of title 18, U.S.C., “a
 
 1949—Act May 24, 1949, substituted “any of the armed forces of the United States” for enumeration of the specific branches.
 
-#### Cross References
-
-Uniforms, wearing without authority, see section 702 of this title.
-

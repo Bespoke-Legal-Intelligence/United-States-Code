@@ -8,10 +8,6 @@ Nothing in this Act shall prevent a cooperative association from returning to it
 
 This Act, referred to in text, is act June 19, 1936, ch. 592, 49 Stat. 1526, popularly known as the Robinson-Patman Antidiscrimination Act and also as the Robinson-Patman Price Discrimination Act, which enacted sections 13a, 13b, and 21a of this title and amended section 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 13 of this title and Tables.
 
-#### Cross References
-
-Exemptions on non-profit institutions from provisions of this section, see section 13c of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in title 10 section 7430; title 28 section 1407; title 42 sections 6202, 8235f; title 49 section 10706.

@@ -14,7 +14,7 @@
 
 (c) In any case where the amount to be received by the United States is not more than $100,000, the Secretary may delegate his authority under this section to any person designated by him.
 
-(d) Upon acceptance of payment by the Secretary, the settlement or compromise of a claim under this section is final and conclusive notwithstanding any other provision of law.
+(d) Upon acceptance of payment by the Secretary, the settlement or compromise of a claimunder this section is final and conclusive notwithstanding any other provision of law.
 
 (e) This section does not apply to any claim while there is pending as to that claim a suit filed by or against the United States.
 
@@ -63,12 +63,4 @@ The first proviso of 34 U.S.C. 600a, stating that this section is supplementary 
 1989—Subsec. (c). Pub. L. 101–189 substituted “$100,000” for “$10,000”.
 
 1965—Subsec. (c). Pub. L. 89–67 substituted “$10,000” for “$1,000”.
-
-#### Cross References
-
-Suits in admiralty—
-
-&emsp;&emsp;Against United States for damages caused by or for towage or salvage services, see section 781 et seq. of Title 46, Appendix, Shipping.
-
-&emsp;&emsp;By or against vessels or cargoes of United States, see section 741 et seq. of Title 46, Appendix.
 

@@ -442,32 +442,9 @@ I74subpart a—petitions and determinations
 
 #### Part 4—Adjustment Assistance for Communities
 
-|  |  |
-| :--- | ---: |
-| [2371\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20004%20-%20Adjustment%20Assistance%20for%20Communities/%C2%A7%2002371%20-%20Petitions%20and%20determinations.md) | Petitions and determinations. |
-| (a) | Filing of petition; receipt of petition; initiation of investigation. |
-| (b) | Public hearing. |
-| (c) | Certification. |
-| (d) | Allowable period for determination. |
-| (e) | Size and boundaries of trade impacted areas; criteria. |
-| (f) | Termination of certification of eligibility. |
-| [2372\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20004%20-%20Adjustment%20Assistance%20for%20Communities/%C2%A7%2002372%20-%20Trade%20Impacted%20Area%20Councils%20for%20Adjustment%20Assistance.md) | Trade Impacted Area Councils for Adjustment Assistance. |
-| (a) | Establishment. |
-| (b) | Duty and function of Councils. |
-| (c) | Grants for staff. |
-| (d) | Applications for adjustment assistance. |
-| [2373\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20004%20-%20Adjustment%20Assistance%20for%20Communities/%C2%A7%2002373%20-%20Program%20benefits.md) | Program benefits. |
-| (a) | Types of adjustment assistance. |
-| (b) | Approval of adjustment assistance plan. |
-| (c) | Public Works and Economic Development Act of 1965. |
-| (d) | Loan guarantees. |
-| (e) | Agreement of State or community to pay a portion of liability arising on loan guarantees. |
-| (f) | Preference to corporations with employee stock ownership plan; requisite features of plan. |
-| (g) | Maximum United States share of loan guarantees. |
-| [2374\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20004%20-%20Adjustment%20Assistance%20for%20Communities/%C2%A7%2002374%20-%20Community%20Adjustment%20Assistance%20Fund.md) | Community Adjustment Assistance Fund. |
-| (a) | Establishment. |
-| (b) | Authorization of appropriations. |
-| (c) | Authorization for loan guarantees. |
+|  |
+| :--- |
+| 2371 to 2374. Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -533,47 +510,87 @@ I74subpart a—petitions and determinations
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER IV—TRADE RELATIONS WITH COUNTRIES NOT CURRENTLY RECEIVING NONDISCRIMINATORY TREATMENT
+#### SUBCHAPTER IV—TRADE RELATIONS WITH COUNTRIES NOT RECEIVING NONDISCRIMINATORY TREATMENT
+
+#### Part 1—Trade Relations With Certain Countries
 
 |  |  |
 | :--- | ---: |
-| [2431\.](Subchapter%20004%20%28IV%29%20-%20Trade%20Relations%20with%20Countries%20Not%20Currently%20Receiving%20Nondiscriminatory%20Treatment/%C2%A7%2002431%20-%20Exception%20of%20products%20of%20certain%20countries%20or%20areas.md) | Exception of products of certain countries or areas. |
-| [2432\.](Subchapter%20004%20%28IV%29%20-%20Trade%20Relations%20with%20Countries%20Not%20Currently%20Receiving%20Nondiscriminatory%20Treatment/%C2%A7%2002432%20-%20Freedom%20of%20emigration%20in%20East-West%20trade.md) | Freedom of emigration in East-West trade. |
+| [2431\.](Subchapter%20004%20%28IV%29%20-%20Trade%20Relations%20with%20Countries%20Not%20Receiving%20Nondiscriminatory%20Treatment/Part%20001%20-%20Trade%20Relations%20with%20Certain%20Countries/%C2%A7%2002431%20-%20Exception%20of%20products%20of%20certain%20countries%20or%20areas.md) | Exception of products of certain countries or areas. |
+| [2432\.](Subchapter%20004%20%28IV%29%20-%20Trade%20Relations%20with%20Countries%20Not%20Receiving%20Nondiscriminatory%20Treatment/Part%20001%20-%20Trade%20Relations%20with%20Certain%20Countries/%C2%A7%2002432%20-%20Freedom%20of%20emigration%20in%20East-West%20trade.md) | Freedom of emigration in East-West trade. |
 | (a) | Actions of nonmarket economy countries making them ineligible for normal trade relations, programs of credits, credit guarantees, or investment guarantees, or commercial agreements. |
 | (b) | Presidential determination and report to Congress that nation is not violating freedom of emigration. |
 | (c) | Waiver authority of President. |
 | (d) | Extension of waiver authority. |
 | (e) | Countries not covered. |
-| [2433\.](Subchapter%20004%20%28IV%29%20-%20Trade%20Relations%20with%20Countries%20Not%20Currently%20Receiving%20Nondiscriminatory%20Treatment/%C2%A7%2002433%20-%20United%20States%20personnel%20missing%20in%20action%20in%20Southeast%20Asia.md) | United States personnel missing in action in Southeast Asia. |
+| [2433\.](Subchapter%20004%20%28IV%29%20-%20Trade%20Relations%20with%20Countries%20Not%20Receiving%20Nondiscriminatory%20Treatment/Part%20001%20-%20Trade%20Relations%20with%20Certain%20Countries/%C2%A7%2002433%20-%20United%20States%20personnel%20missing%20in%20action%20in%20Southeast%20Asia.md) | United States personnel missing in action in Southeast Asia. |
 | (a) | Penalty for noncooperating countries. |
 | (b) | Exception. |
-| [2434\.](Subchapter%20004%20%28IV%29%20-%20Trade%20Relations%20with%20Countries%20Not%20Currently%20Receiving%20Nondiscriminatory%20Treatment/%C2%A7%2002434%20-%20Extension%20of%20nondiscriminatory%20treatment.md) | Extension of nondiscriminatory treatment. |
+| [2434\.](Subchapter%20004%20%28IV%29%20-%20Trade%20Relations%20with%20Countries%20Not%20Receiving%20Nondiscriminatory%20Treatment/Part%20001%20-%20Trade%20Relations%20with%20Certain%20Countries/%C2%A7%2002434%20-%20Extension%20of%20nondiscriminatory%20treatment.md) | Extension of nondiscriminatory treatment. |
 | (a) | Presidential proclamation. |
 | (b) | Limitation on period of effectiveness. |
 | (c) | Suspension or withdrawal of extensions of nondiscriminatory treatment. |
-| [2435\.](Subchapter%20004%20%28IV%29%20-%20Trade%20Relations%20with%20Countries%20Not%20Currently%20Receiving%20Nondiscriminatory%20Treatment/%C2%A7%2002435%20-%20Commercial%20agreements.md) | Commercial agreements. |
+| [2435\.](Subchapter%20004%20%28IV%29%20-%20Trade%20Relations%20with%20Countries%20Not%20Receiving%20Nondiscriminatory%20Treatment/Part%20001%20-%20Trade%20Relations%20with%20Certain%20Countries/%C2%A7%2002435%20-%20Commercial%20agreements.md) | Commercial agreements. |
 | (a) | Presidential authority. |
 | (b) | Terms of agreements. |
 | (c) | Congressional action. |
-| [2436\.](Subchapter%20004%20%28IV%29%20-%20Trade%20Relations%20with%20Countries%20Not%20Currently%20Receiving%20Nondiscriminatory%20Treatment/%C2%A7%2002436%20-%20Market%20disruption.md) | Market disruption. |
+| [2436\.](Subchapter%20004%20%28IV%29%20-%20Trade%20Relations%20with%20Countries%20Not%20Receiving%20Nondiscriminatory%20Treatment/Part%20001%20-%20Trade%20Relations%20with%20Certain%20Countries/%C2%A7%2002436%20-%20Market%20disruption.md) | Market disruption. |
 | (a) | Investigation by International Trade Commission; report; publication. |
 | (b) | Affirmative determination. |
 | (c) | Products of Communist countries. |
 | (d) | Petitions to initiate consultations as provided for by safeguard arrangements. |
 | (e) | Definitions; factors determining existence of market disruption. |
-| [2437\.](Subchapter%20004%20%28IV%29%20-%20Trade%20Relations%20with%20Countries%20Not%20Currently%20Receiving%20Nondiscriminatory%20Treatment/%C2%A7%2002437%20-%20Procedure%20for%20Congressional%20approval%20or%20disapproval%20of%20extension%20of%20nondiscriminatory%20treatment%20and%20Presidential%20reports.md) | Procedure for Congressional approval or disapproval of extension of nondiscriminatory treatment and Presidential reports. |
+| [2437\.](Subchapter%20004%20%28IV%29%20-%20Trade%20Relations%20with%20Countries%20Not%20Receiving%20Nondiscriminatory%20Treatment/Part%20001%20-%20Trade%20Relations%20with%20Certain%20Countries/%C2%A7%2002437%20-%20Procedure%20for%20Congressional%20approval%20or%20disapproval%20of%20extension%20of%20nondiscriminatory%20treatment%20and%20Presidential%20reports.md) | Procedure for Congressional approval or disapproval of extension of nondiscriminatory treatment and Presidential reports. |
 | (a) | Transmission of nondiscriminatory treatment documents to Congress. |
 | (b) | Transmission of freedom of emigration documents to Congress. |
 | (c) | Effective date of proclamations and agreements; disapproval of reports. |
-| [2438\.](Subchapter%20004%20%28IV%29%20-%20Trade%20Relations%20with%20Countries%20Not%20Currently%20Receiving%20Nondiscriminatory%20Treatment/%C2%A7%2002438%20-%20Payment%20by%20Czechoslovakia%20of%20amounts%20owed%20United%20States%20citizens%20and%20nationals.md) | Payment by Czechoslovakia of amounts owed United States citizens and nationals. |
+| [2438\.](Subchapter%20004%20%28IV%29%20-%20Trade%20Relations%20with%20Countries%20Not%20Receiving%20Nondiscriminatory%20Treatment/Part%20001%20-%20Trade%20Relations%20with%20Certain%20Countries/%C2%A7%2002438%20-%20Payment%20by%20Czechoslovakia%20of%20amounts%20owed%20United%20States%20citizens%20and%20nationals.md) | Payment by Czechoslovakia of amounts owed United States citizens and nationals. |
 | (a) | Renegotiation of 1974 agreement. |
 | (b) | Provisional retention of gold. |
-| [2439\.](Subchapter%20004%20%28IV%29%20-%20Trade%20Relations%20with%20Countries%20Not%20Currently%20Receiving%20Nondiscriminatory%20Treatment/%C2%A7%2002439%20-%20Freedom%20to%20emigrate%20to%20join%20a%20very%20close%20relative%20in%20United%20States.md) | Freedom to emigrate to join a very close relative in United States. |
+| [2439\.](Subchapter%20004%20%28IV%29%20-%20Trade%20Relations%20with%20Countries%20Not%20Receiving%20Nondiscriminatory%20Treatment/Part%20001%20-%20Trade%20Relations%20with%20Certain%20Countries/%C2%A7%2002439%20-%20Freedom%20to%20emigrate%20to%20join%20a%20very%20close%20relative%20in%20United%20States.md) | Freedom to emigrate to join a very close relative in United States. |
 | (a) | Sanctions for emigration restrictions. |
 | (b) | Report to Congress concerning emigration policies. |
 | (c) | Exemption from application of section. |
 | (d) | Additional exemption from application of section. |
 | 2440, 2441. Repealed. |  |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part 2—Relief From Market Disruption to Industries and Diversion of Trade to the United States Market
+
+|  |  |
+| :--- | ---: |
+| [2451\.](Subchapter%20004%20%28IV%29%20-%20Trade%20Relations%20with%20Countries%20Not%20Receiving%20Nondiscriminatory%20Treatment/Part%20002%20-%20Relief%20from%20Market%20Disruption%20to%20Industries%20and%20Diversion%20of%20Trade%20to%20the%20United%20States%20Market/%C2%A7%2002451%20-%20Action%20to%20address%20market%20disruption.md) | Action to address market disruption. |
+| (a) | Presidential action. |
+| (b) | Initiation of an investigation. |
+| (c) | Market disruption. |
+| (d) | Factors in determination. |
+| (e) | Time for Commission determinations. |
+| (f) | Recommendations of Commission on proposed remedies. |
+| (g) | Report by Commission. |
+| (h) | Opportunity to present views and evidence on proposed measure and recommendation to the President. |
+| (i) | Critical circumstances. |
+| (j) | Agreements with the People's Republic of China. |
+| (k) | Standard for Presidential action. |
+| (<i>l</i>) | Publication of decision and reports. |
+| (m) | Effective date of relief. |
+| (n) | Modifications of relief. |
+| (<i>o</i>) | Extension of action. |
+| [2451a.](Subchapter%20004%20%28IV%29%20-%20Trade%20Relations%20with%20Countries%20Not%20Receiving%20Nondiscriminatory%20Treatment/Part%20002%20-%20Relief%20from%20Market%20Disruption%20to%20Industries%20and%20Diversion%20of%20Trade%20to%20the%20United%20States%20Market/%C2%A7%2002451a%20-%20Action%20in%20response%20to%20trade%20diversion.md) | Action in response to trade diversion. |
+| (a) | Monitoring by Customs Service. |
+| (b) | Initiation of investigation. |
+| (c) | Actions described. |
+| (d) | Basis for determination of significant diversion. |
+| (e) | Commission determination; agreement authority. |
+| (f) | Public comment. |
+| (g) | Recommendation to the President. |
+| (h) | Presidential action. |
+| (i) | Duration of action. |
+| (j) | Review of circumstances. |
+| [2451b.](Subchapter%20004%20%28IV%29%20-%20Trade%20Relations%20with%20Countries%20Not%20Receiving%20Nondiscriminatory%20Treatment/Part%20002%20-%20Relief%20from%20Market%20Disruption%20to%20Industries%20and%20Diversion%20of%20Trade%20to%20the%20United%20States%20Market/%C2%A7%2002451b%20-%20Regulations%3B%20termination%20of%20provision.md) | Regulations; termination of provision. |
+| (a) | To carry out restrictions and monitoring. |
+| (b) | To carry out agreements. |
+| (c) | Termination date. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -599,6 +616,11 @@ I74subpart a—petitions and determinations
 | [2464\.](Subchapter%20005%20%28V%29%20-%20Generalized%20System%20of%20Preferences/%C2%A7%2002464%20-%20Review%20and%20report%20to%20Congress.md) | Review and report to Congress. |
 | [2465\.](Subchapter%20005%20%28V%29%20-%20Generalized%20System%20of%20Preferences/%C2%A7%2002465%20-%20Date%20of%20termination.md) | Date of termination. |
 | [2466\.](Subchapter%20005%20%28V%29%20-%20Generalized%20System%20of%20Preferences/%C2%A7%2002466%20-%20Agricultural%20exports%20of%20beneficiary%20developing%20countries.md) | Agricultural exports of beneficiary developing countries. |
+| [2466a.](Subchapter%20005%20%28V%29%20-%20Generalized%20System%20of%20Preferences/%C2%A7%2002466a%20-%20Designation%20of%20sub-Saharan%20African%20countries%20for%20certain%20benefits.md) | Designation of sub-Saharan African countries for certain benefits. |
+| (a) | Authority to designate. |
+| (b) | Preferential tariff treatment for certain articles. |
+| (c) | Beneficiary sub-Saharan African countries, etc. |
+| [2466b.](Subchapter%20005%20%28V%29%20-%20Generalized%20System%20of%20Preferences/%C2%A7%2002466b%20-%20Termination%20of%20benefits%20for%20sub-Saharan%20African%20countries.md) | Termination of benefits for sub-Saharan African countries. |
 | [2467\.](Subchapter%20005%20%28V%29%20-%20Generalized%20System%20of%20Preferences/%C2%A7%2002467%20-%20Definitions.md) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -653,7 +675,7 @@ This chapter is referred to in sections 1352, 2502, 2804, 2805, 3004, 3105 of th
 - [Subchapter 001 (I) - Negotiating and Other Authority](Subchapter%20001%20%28I%29%20-%20Negotiating%20and%20Other%20Authority/README.md)
 - [Subchapter 002 (II) - Relief from Injury Caused by Import Competition](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/README.md)
 - [Subchapter 003 (III) - Enforcement of United States Rights under Trade Agreements and Response to Certain Foreign Trade Practices](Subchapter%20003%20%28III%29%20-%20Enforcement%20of%20United%20States%20Rights%20under%20Trade%20Agreements%20and%20Response%20to%20Certain%20Foreign%20Trade%20Practices/README.md)
-- [Subchapter 004 (IV) - Trade Relations with Countries Not Currently Receiving Nondiscriminatory Treatment](Subchapter%20004%20%28IV%29%20-%20Trade%20Relations%20with%20Countries%20Not%20Currently%20Receiving%20Nondiscriminatory%20Treatment/README.md)
+- [Subchapter 004 (IV) - Trade Relations with Countries Not Receiving Nondiscriminatory Treatment](Subchapter%20004%20%28IV%29%20-%20Trade%20Relations%20with%20Countries%20Not%20Receiving%20Nondiscriminatory%20Treatment/README.md)
 - [Subchapter 005 (V) - Generalized System of Preferences](Subchapter%20005%20%28V%29%20-%20Generalized%20System%20of%20Preferences/README.md)
 - [Subchapter 006 (VI) - General Provisions](Subchapter%20006%20%28VI%29%20-%20General%20Provisions/README.md)
 - [Subchapter 007 (VII) - Tariff Treatment of Products of, and Other Sanctions Against, Uncooperative Major Drug Producing or Drug-Transit Countries](Subchapter%20007%20%28VII%29%20-%20Tariff%20Treatment%20of%20Products%20of%2C%20and%20Other%20Sanctions%20Against%2C%20Uncooperative%20Major%20Drug%20Producing%20or%20Drug-Transit%20Countries/README.md)

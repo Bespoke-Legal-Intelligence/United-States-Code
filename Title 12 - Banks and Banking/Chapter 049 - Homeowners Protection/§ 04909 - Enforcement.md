@@ -24,7 +24,7 @@ Compliance with the requirements imposed under this chapter shall be enforced un
 
 #### (2) Enforcement authority under other Acts
 
-&emsp;In addition to the powers of any agency referred to in subsection (a) of this section underany provision of law specifically referred to in such subsection, each such agency may exercise, for purposes of enforcing compliance with any requirement imposed under this chapter, any other authority conferred on such agency by law.
+&emsp;In addition to the powers of any agency referred to in subsection (a) of this section under any provision of law specifically referred to in such subsection, each such agency may exercise, for purposes of enforcing compliance with any requirement imposed under this chapter, any other authority conferred on such agency by law.
 
 #### (c) Enforcement and reimbursement
 

@@ -54,7 +54,7 @@ Subsec. (b)(6). Pub. L. 89–126 struck out provisions which required special re
 
 #### Effective Date of 1954 Amendment
 
-Amendment by act Aug. 9, 1954, effective upon initial appointment of President, First Vice President, andone member of the Board of Directors of the Export-Import Bank of Washington, see section 4 of act Aug. 9, 1954, set out as a note under section 635a of Title 12, Banks and Banking.
+Amendment by act Aug. 9, 1954, effective upon initial appointment of President, First Vice President, and one member of the Board of Directors of the Export-Import Bank of Washington, see section 4 of act Aug. 9, 1954, set out as a note under section 635a of Title 12, Banks and Banking.
 
 #### Repeals
 
@@ -104,17 +104,13 @@ Sec. 3. <i>Functions of the Secretary of the Treasury</i>. (a) Functions which a
 
 Sec. 4. <i>Information</i>. (a) All agencies and officers of the Government, including representatives of the United States to international financial organizations, (1) shall keep the Council or the Secretary of the Treasury, as the case may be, fully informed concerning the foreign loan, financial, exchange, and monetary transactions in which they engage or may engage or with respect to which they have other responsibility, and (2) shall provide the Council, the Secretary of State, and the Secretary with such further information or data in their possession as the Council, the Secretary of State, or the Secretary, as the case may be, may deem necessary to the appropriate discharge of the responsibilities of the Council, the Secretary of State, and Secretary under Sections 2 and 3 of this order, respectively.
 
-(b) The Council shall from time to time transmit to all appropriate agencies and officers of the Governmentstatements of the policies of the Council under this order and such other information relating to the above-mentioned transactions or to the functions of the Council hereunder as the Council shall deem desirable.
+(b) The Council shall from time to time transmit to all appropriate agencies and officers of the Government statements of the policies of the Council under this order and such other information relating to the above-mentioned transactions or to the functions of the Council hereunder as the Council shall deem desirable.
 
 Sec. 5. <i>Executive Order No. 10033</i>. Section 2(a) of Executive Order No. 10033 of February 8, 1949 \[set out as a note under section 286f of this title\], is hereby amended by substituting for the name “National Advisory Council on International Monetary and Financial Problems” the following: “National Advisory Council on International Monetary and Financial Policies.”
 
 Sec. 6. <i>Effective date</i>. The provisions of this order shall be effective as of January 1, 1966.
 
 Sec. 7. <i>Functions of the Secretary of State</i>. The Secretary of State shall advise both the Secretary of the Treasury and the appropriate United States representatives to the International Bank for Reconstruction and Development, the International Development Association, the International Finance Corporation, the Inter-American Development Bank, the Asian Development Bank, the African Development Fund,, \[sic\] African Development Bank, Inter-American Investment Corporation, Multilateral Investment Guarantee Agency, and European Bank for Reconstruction and Development on the development aspects of matters relating to those institutions and their activities.
-
-#### Cross References
-
-Inter-American Development Bank, applicability of provisions, see section 283b of this title.
 
 #### Section Referred to in Other Sections
 

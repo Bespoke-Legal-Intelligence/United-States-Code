@@ -34,3 +34,7 @@ Subsec. (c). Pub. L. 102–238, §3(2), added subsec. (c).
 
 Subsec. (b). Pub. L. 98–608 included subsec. (b) within this section and substituted a period for the dash after “tribal land consolidation plan”, thereby correcting errors originally contained in this section as enacted by Pub. L. 97–459, which, as the result of inadvertent error in the execution of committee amendments (see House Report No. 97–908, Sept. 30, 1982) to the bill, enacted subsec. (b) as part of section 206(b) of Pub. L. 97–459 and ended it with “tribal land consolidation plan—”.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 2204, 2212 of this title.
+

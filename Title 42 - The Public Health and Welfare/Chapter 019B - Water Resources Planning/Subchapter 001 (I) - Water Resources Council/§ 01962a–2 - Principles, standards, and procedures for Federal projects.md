@@ -20,7 +20,7 @@ Functions of President under this section delegated to Chairman of Water Resourc
 
 #### Computation of Prices for Agricultural Commodities for Use in Evaluation of Water Resources Development Projects
 
-Pub. L. 100–460, title VI, §632, Oct. 1, 1988, 102 Stat. 2262, provided that: “Hereafter, none of the funds appropriated in this or any other Act shall be used to alter the method of computing normalized prices for agricultural commodities for use by any Federal agency in evaluating water resources development projectsto be undertaken in whole or in part with Federal funds that was in effect as of January 1, 1986.”
+Pub. L. 100–460, title VI, §632, Oct. 1, 1988, 102 Stat. 2262, provided that: “Hereafter, none of the funds appropriated in this or any other Act shall be used to alter the method of computing normalized prices for agricultural commodities for use by any Federal agency in evaluating water resources development projects to be undertaken in whole or in part with Federal funds that was in effect as of January 1, 1986.”
 
 Similar provisions were contained in Pub. L. 100–202, §101(k) \[title VI, §634\], Dec. 22, 1987, 101 Stat. 1329–322, 1329–357.
 

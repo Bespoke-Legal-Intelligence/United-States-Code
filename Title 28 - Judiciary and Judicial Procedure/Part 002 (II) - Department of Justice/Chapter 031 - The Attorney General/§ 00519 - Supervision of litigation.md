@@ -26,7 +26,7 @@ The words “special attorneys appointed under section 543” are substituted fo
 
 #### Case Management Information and Tracking Systems for Federal Judicial Districts and Divisions of Department; Preparation, Submission, Etc., of Plan
 
-Pub. L. 96–132, §11, Nov. 30, 1979, 93 Stat. 1047, required the Attorney General, not later than Apr. 15, 1980, after consultation with the Director of the Executive Office of United States Attorneys and such Assistant Attorneys as appropriate, to prepare and submit to the Committees on the Judiciary of the Senate and the House of Representatives a plan for the activation and coordination, within the Department of Justice, of compatible, comprehensive case management information and tracking systems for each of the judicial districts of the United States and for each of the divisions of the Department.
+Pub. L. 96–132, §11, Nov. 30, 1979, 93 Stat. 1047, required the Attorney General, not later than Apr. 15, 1980, after consultation with the Director of the Executive Office of United States Attorneys and such Assistant Attorneys as appropriate, to prepare and submit to the Committees on the Judiciary of the Senate and the House of Representatives a plan for the activation and coordination, within the Department of Justice, of compatible, comprehensive case management information and tracking systems for each of the judicial districts ofthe United States and for each of the divisions of the Department.
 
 #### Report to Congress Regarding Provisions of Law Considered Unconstitutional by the Department of Justice; Declaration of Such Position
 
@@ -52,7 +52,7 @@ Section 1. <i>Guidelines to Promote Just and Efficient Government Civil Litigati
 
 (a) <i>Pre-filing Notice of a Complaint</i>. No litigation counsel shall file a complaint initiating civil litigation without first making a reasonable effort to notify all disputants about the nature of the dispute and to attempt to achieve a settlement, or confirming that the referring agency that previously handled the dispute has made a reasonable effort to notify the disputants and to achieve a settlement or has used its conciliation processes.
 
-(b) <i>Settlement Conferences</i>. As soon as practicable after ascertaining the nature of a dispute in litigation, and throughout the litigation, litigation counsel shallevaluate settlement possibilities and make reasonable efforts to settle the litigation. Such efforts shall include offering to participate in a settlement conference or moving the court for a conference pursuant to Rule 16 of the Federal Rules of Civil Procedure \[28 App. U.S.C.\] in an attempt to resolve the dispute without additional civil litigation.
+(b) <i>Settlement Conferences</i>. As soon as practicable after ascertaining the nature of a dispute in litigation, and throughout the litigation, litigation counsel shall evaluate settlement possibilities and make reasonable efforts to settle the litigation. Such efforts shall include offering to participate in a settlement conference or moving the court for a conference pursuant to Rule 16 of the Federal Rules of Civil Procedure \[28 App. U.S.C.\] in an attempt to resolve the dispute without additional civil litigation.
 
 (c) <i>Alternative Methods of Resolving the Dispute in Litigation</i>. Litigation counsel shall make reasonable attempts to resolve a dispute expeditiously and properly before proceeding to trial.
 
@@ -162,7 +162,7 @@ Sec. 4. <i>Principles to Promote Just and Efficient Administrative Adjudications
 
 (c) <i>Bias</i>. All Federal agencies should review their administrative adjudicatory processes to identify any type of bias on the part of the decision-makers that results in an injustice to persons who appear before administrative adjudicatory tribunals; regularly train all fact-finders, administrative law judges, and other decision-makers to eliminate such bias; and establish appropriate mechanisms to receive and resolve complaints of such bias from persons who appear before administrative adjudicatory tribunals.
 
-(d) <i>Public Education</i>. All Federal agencies should develop effective and simple methods, including the use of electronic technology, to educate the public about its claims/benefits policies and procedures.
+(d) <i>Public Education</i>. All Federal agencies should develop effective and simple methods, including the useof electronic technology, to educate the public about its claims/benefits policies and procedures.
 
 Sec. 5. <i>Coordination by the Department of Justice.</i>
 

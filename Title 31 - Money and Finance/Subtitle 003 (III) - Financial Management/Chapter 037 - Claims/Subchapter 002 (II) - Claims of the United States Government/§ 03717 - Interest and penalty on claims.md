@@ -28,7 +28,7 @@
 
 (g) This section does not apply—
 
-&emsp;(1) if a statute, regulation required by statute, loan agreement, or contract prohibitscharging interest or assessing charges or explicitly fixes the interest or charges; and
+&emsp;(1) if a statute, regulation required by statute, loan agreement, or contract prohibits charging interest or assessing charges or explicitly fixes the interest or charges; and
 
 &emsp;(2) to a claim under a contract executed before October 25, 1982, that is in effect on October 25, 1982.
 
@@ -112,7 +112,7 @@ Subsec. (i). Pub. L. 104–134, §31001(q), added subsec. (i).
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3701, 3711 of this title; title 5 section 5514; title 7 sections 147a, 2260a, 2371; title 10 section 2739; title 15 section 80a–24; title 21 section 136a; title 22 section 2671; title 26 section 6103; title 42 section 404.
+This section is referred to in sections 3701, 3711 of this title; title 5 section 5514; title 7 sections 2260a, 2371, 7753, 7759; title 10 section 2739; title 15 section 80a–24; title 21 section 136a; title 22 section 2671; title 26 section 6103; title 42 sections 404, 1383.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “, judicial, or”.</i>
 

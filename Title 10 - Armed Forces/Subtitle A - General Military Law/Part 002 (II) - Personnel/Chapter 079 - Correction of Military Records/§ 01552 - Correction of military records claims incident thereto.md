@@ -1,6 +1,6 @@
 ### §1552. Correction of military records: claims incident thereto
 
-(a)(1) The Secretary of a military department may correct any military record of the Secretary's department when the Secretary considers it necessary to correct an error or remove an injustice. Except as provided in paragraph (2), such corrections shall be made by the Secretary acting through boards of civilians of the executive part of that military department. The Secretary of Transportation may in the same manner correct any military record of the Coast Guard.
+(a)(1) The Secretary of a military department may correct any military record of the Secretary's department when the Secretary considers it necessary to correct an error or remove aninjustice. Except as provided in paragraph (2), such corrections shall be made by the Secretary acting through boards of civilians of the executive part of that military department. The Secretary of Transportation may in the same manner correct any military record of the Coast Guard.
 
 (2) The Secretary concerned is not required to act through a board in the case of the correction of a military record announcing a decision that a person is not eligible to enlist (or reenlist) or is not accepted for enlistment (or reenlistment) or announcing the promotion and appointment of an enlisted member to an initial or higher grade or the decision not to promote an enlisted member to a higher grade. Such a correction may be made only if the correction is favorable to the person concerned.
 
@@ -139,12 +139,6 @@ Pub. L. 101–225, title II, §212, Dec. 12, 1989, 103 Stat. 1914, provided that
 &emsp;“(1) amend part 52 of title 33, Code of Federal Regulations, governing the proceedings of the board established by the Secretary under section 1552 of title 10, United States Code, to ensure that a complete application for correction of military records is processed expeditiously and that final action on the application is taken within 10 months of its receipt; and
 
 &emsp;“(2) appoint and maintain a permanent staff, and a panel of civilian officers or employees to serve as members of the board, which are adequate to ensure compliance with paragraph (1) of this subsection.”
-
-#### Cross References
-
-Correction of discharge, see section 3462 of Title 38, Veterans’ Benefits.
-
-Effective dates of awards, see section 5110 of Title 38.
 
 #### Section Referred to in Other Sections
 

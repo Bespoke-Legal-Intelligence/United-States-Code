@@ -32,10 +32,6 @@ In the last sentence, the words “This section does not” are substituted for 
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
-#### Cross References
-
-Payment of expenses of government employees incident to attendance at meetings, see section 4110 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in title 22 section 1474.

@@ -48,7 +48,7 @@ A State may provide financial assistance from its water pollution control revolv
 
 #### (g) Priority list requirement
 
-The State may provide financial assistance from its water pollution control revolving fundonly with respect to a project for construction of a treatment works described in subsection (c)(1) of this section if such project is on the State's priority list under section 1296 of this title. Such assistance may be provided regardless of the rank of such project on such list.
+The State may provide financial assistance from its water pollution control revolving fund only with respect to a project for construction of a treatment works described in subsection (c)(1) of this section if such project is on the State's priority list under section 1296 of this title. Such assistance may be provided regardless of the rank of such project on such list.
 
 #### (h) Eligibility of non-Federal share of construction grant projects
 
@@ -58,5 +58,5 @@ A State water pollution control revolving fund may provide assistance (other tha
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1382 of this title.
+This section is referred to in sections 1301, 1382 of this title.
 

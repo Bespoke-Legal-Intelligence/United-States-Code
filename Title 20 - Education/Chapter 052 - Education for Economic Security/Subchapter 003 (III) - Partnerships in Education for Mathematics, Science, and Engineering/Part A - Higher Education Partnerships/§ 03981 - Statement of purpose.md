@@ -16,5 +16,5 @@ It is the purpose of this part to supplement State and local resources to—
 
 #### Short Title
 
-Section 301 of Pub. L. 98–377, as amended by Pub. L. 100–418, title VI, §6031(b)(2), Aug. 23, 1988, 102 Stat. 1483, provided that: “This part \[part A (§§301–309) of title III of Pub. L. 100–418 enacting this part\] may be cited as the ‘Partnerships in Education for Mathematics, Science, and Engineering Act’.”
+Section 301 of Pub. L. 98–377, as amended by Pub. L. 100–418, title VI, §6031(b)(2), Aug. 23, 1988, 102 Stat. 1483, provided that: “This part \[part A (§§301–309) of title III of Pub. L. 98–377 enacting this part\] may be cited as the ‘Partnerships in Education for Mathematics, Science, and Engineering Act’.”
 

@@ -24,7 +24,7 @@
 
 &emsp;(A) the Secretary certifies that the State titling system complies with the Secretary's guidelines for a titling system under section 13106(b)(8) of this title; and
 
-&emsp;(B) information on the vessel covered by the mortgage, security agreement, or instrument is made available to the Secretary under chapter 125 of this title.
+&emsp;(B) information on the vessel covered by the mortgage, security agreement, or instrumentis made available to the Secretary under chapter 125 of this title.
 
 (2) This subsection applies to mortgages, security agreements, or instruments covering vessels titled in a State after—
 
@@ -36,7 +36,7 @@
 
 (e) If a vessel is already covered by a preferred mortgage when an application for titling or documentation is filed—
 
-&emsp;(1) the status of the preferred mortgage covering the vessel to be titled in the State is determined by the law of the jurisdiction wherethe vessel is currently titled or documented; and
+&emsp;(1) the status of the preferred mortgage covering the vessel to be titled in the State is determined by the law of the jurisdiction where the vessel is currently titled or documented; and
 
 &emsp;(2) the status of the preferred mortgage covering the vessel to be documented under chapter 121 is determined by subsection (a) of this section.
 
@@ -110,7 +110,7 @@ Under section 31322(a)(2) a “vessel operated only for pleasure” is exempt fr
 
 Under subsection (c)(2), if a vessel covered by a preferred mortgage that includes more than one vessel or property that is not a vessel is to be sold on the order of a district court <i>in rem</i>, and there is not a separate discharge, then the mortgage constitutes a lien on that vessel in the full amount of the outstanding mortgage indebtedness, and an allocation of mortgage indebtedness for purposes of a separate discharge may not be made. This change is made to eliminate the formula that did not work and to allow the vessel to be sold free and clear, regardless of the amount of the sale.
 
-Under subsection (d) of section 31322, a mortgage or other instrument representing financing of a vessel under State law that is made under applicable State law and covers the whole of a vessel titled in a State is deemed to be a preferred mortgage if two conditions are fulfilled. The first condition is that the Secretary must certify that the State in which the vessel is titled has a titling system that complies with the Secretary's vessel titling guidelines established under section 13106(b)(8) of title 46. Congress mandated the promulgation of these guidelines in the Recreational BoatingSafety Act of 1986, Public Law 99–626. The second condition is that the State in which the vessel is titled must make information available to the Secretary for the vessel identification system established under chapter 125 of title 46 (as enacted by this Act) on the vessel covered by the mortgage or other instrument. This status only applies to vessels titled in the State after those two conditions are met. The phrase “instrument representing financing of a vessel under State law” is used in addition to “mortgage” because State laws do not always use the term mortgage when referring to financing. It is intended, however, that the financing covered by this phrase would be the same as that covered by the concept of a mortgage under other Federal law.
+Under subsection (d) of section 31322, a mortgage or other instrument representing financing of a vessel under State law that is made under applicable State law and covers the whole of a vessel titled in a State is deemed to be a preferred mortgage if two conditions are fulfilled. The first condition is that the Secretary must certify that the State in which the vessel is titled has a titling system that complies with the Secretary's vessel titling guidelines established under section 13106(b)(8) of title 46. Congress mandated the promulgation of these guidelines in the Recreational Boating Safety Act of 1986, Public Law 99–626. The second condition is that the State in which the vessel is titled must make information available to the Secretary for the vessel identification system established under chapter 125 of title 46 (as enacted by this Act) on the vessel covered by the mortgage or other instrument. This status only applies to vessels titled in the State after those two conditions are met. The phrase “instrument representing financing of a vessel under State law” is used in addition to “mortgage” because State laws do not always use the term mortgage when referring to financing. It is intended, however, that the financing covered by this phrase would be the same as that covered by the concept of a mortgage under other Federal law.
 
 Paragraph (2) of subsection (d) clarifies that mortgages or other financing instruments may obtain preferred status under subsection (d) if they cover vessels titled in a State after the Secretary certifies the compliance of the State's titling system, and the State begins making vessel identification information available to the Secretary. Preferred mortgage status can only be attained when these two conditions are in effect. Mortgages or financing instruments made prior to that are not preferred and, if these two conditions cease to exist, new mortgages or forecasting instruments made after that time cannot attain preferred status.
 

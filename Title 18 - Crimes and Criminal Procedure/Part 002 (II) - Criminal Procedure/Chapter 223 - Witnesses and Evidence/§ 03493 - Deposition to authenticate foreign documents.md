@@ -8,18 +8,6 @@ The consular officer to whom any commission authorized under section 3492 of thi
 
 Based on section 695c of title 28, U.S.C., 1940 ed., Judicial Code and Judiciary (June 20, 1936, ch. 640, §4, 49 Stat. 1563).
 
-#### Federal Rules of Criminal Procedure
-
-Proof of official records, see rule 27, Appendix to this title.
-
-#### Cross References
-
-Commission to consular officers to authenticate foreign documents, see section 3492 of this title.
-
-Fees for witnesses and interpreters, see section 3495 of this title.
-
-Regulations as to commissions and fees of witnesses, etc., see section 3496 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 3492, 3495, 3496 of this title.

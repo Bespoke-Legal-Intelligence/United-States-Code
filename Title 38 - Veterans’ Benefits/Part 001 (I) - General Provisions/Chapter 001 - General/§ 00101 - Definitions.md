@@ -16,7 +16,7 @@ For the purposes of this title—
 
 &emsp;(iii) who, after attaining the age of eighteen years and until completion of education or training (but not after attaining the age of twenty-three years), is pursuing a course of instruction at an approved educational institution;
 
-> and who is a legitimate child, a legally adopted child, a stepchild who is a member of a veteran's household or was a member at the time of the veteran's death, or an illegitimate child but, as to the alleged father, only if acknowledged in writing signed by him, or if he has been judicially ordered to contribute to the child's support or has been, before his death, judicially decreed to be the father of such child, or if he is otherwise shown by evidence satisfactory to theSecretary to be the father of such child. A person shall be deemed, as of the date of death of a veteran, to be the legally adopted child of such veteran if such person was at the time of the veteran's death living in the veteran's household and was legally adopted by the veteran's surviving spouse before August 26, 1961, or within two years after the veteran's death; however, this sentence shall not apply if at the time of the veteran's death, such person was receiving regular contributions toward the person's support from some individual other than the veteran or the veteran's spouse, or from any public or private welfare organization which furnishes services or assistance for children. A person with respect to whom an interlocutory decree of adoption has been issued by an appropriate adoption authority shall be recognized thereafter as a legally adopted child, unless and until that decree is rescinded, if the child remains in the custody of the adopting parent or parents during the interlocutory period. A person who has been placed for adoption under an agreement entered into by the adopting parent or parents with any agency authorized under law to so act shall be recognized thereafter as a legally adopted child, unless and until such agreement is terminated, if the child remains in the custody of the adopting parent or parents during the period of placement for adoption under such agreement. A person described in clause (ii) of the first sentence of this subparagraph who was a member of a veteran's household at the time the person became 18 years of age and who is adopted by the veteran shall be recognized as a legally adopted child of the veteran regardless of the age of such person at the time of adoption.
+> and who is a legitimate child, a legally adopted child, a stepchild who is a member of a veteran's household or was a member at the time of the veteran's death, or an illegitimate child but, asto the alleged father, only if acknowledged in writing signed by him, or if he has been judicially ordered to contribute to the child's support or has been, before his death, judicially decreed to be the father of such child, or if he is otherwise shown by evidence satisfactory to the Secretary to be the father of such child. A person shall be deemed, as of the date of death of a veteran, to be the legally adopted child of such veteran if such person was at the time of the veteran's death living in the veteran's household and was legally adopted by the veteran's surviving spouse before August 26, 1961, or within two years after the veteran's death; however, this sentence shall not apply if at the time of the veteran's death, such person was receiving regular contributions toward the person's support from some individual other than the veteran or the veteran's spouse, or from any public or private welfare organization which furnishes services or assistance for children. A person with respect to whom an interlocutory decree of adoption has been issued by an appropriate adoption authority shall be recognized thereafter as a legally adopted child, unless and until that decree is rescinded, if the child remains in the custody of the adopting parent or parents during the interlocutory period. A person who has been placed for adoption under an agreement entered into by the adopting parent or parents with any agency authorized under law to so act shall be recognized thereafter as a legally adopted child, unless and until such agreement is terminated, if the child remains in the custody of the adopting parent or parents during the period of placement for adoption under such agreement. A person described in clause (ii) of the first sentence of this subparagraph who was a member of a veteran's household at the time the person became 18 years of age and who is adopted by the veteran shall be recognized as a legally adopted child of the veteran regardless of the age of such person at the time of adoption.
 
 (B) For the purposes of subparagraph (A) of this paragraph, in the case of an adoption under the laws of any jurisdiction other than a State (as defined in section 101(20) of this title and including the Commonwealth of the Northern Mariana Islands)—
 
@@ -52,9 +52,9 @@ For the purposes of this title—
 
 (12) The term “veteran of any war” means any veteran who served in the active military, naval, or air service during a period of war.
 
-(13) The term “compensation” means a monthly payment made by the Secretary to a veteran because of service-connected disability, or to a surviving spouse, child, or parent of a veteran because of the service-connected death of the veteran occurring before January 1, 1957.
+(13) The term “compensation” means a monthly payment made by the Secretary to a veteranbecause of service-connected disability, or to a surviving spouse, child, or parent of a veteran because of the service-connected death of the veteran occurring before January 1, 1957.
 
-(14) The term “dependency and indemnity compensation” means a monthly payment made by the Secretary to a surviving spouse, child, orparent (A) because of a service-connected death occurring after December 31, 1956, or (B) pursuant to the election of a surviving spouse, child, or parent, in the case of such a death occurring before January 1, 1957.
+(14) The term “dependency and indemnity compensation” means a monthly payment made by the Secretary to a surviving spouse, child, or parent (A) because of a service-connected death occurring after December 31, 1956, or (B) pursuant to the election of a surviving spouse, child, or parent, in the case of such a death occurring before January 1, 1957.
 
 (15) The term “pension” means a monthly or other periodic payment made by the Secretary to a veteran because of service, age, or non-service-connected disability, or to a surviving spouse or child of a veteran because of the non-service-connected death of the veteran.
 
@@ -102,9 +102,19 @@ For the purposes of this title—
 
 &emsp;(C) training (other than active duty for training) by a member of, or applicant for membership (as defined in section 8140(g) of title 5) in, the Senior Reserve Officers’ Training Corps prescribed under chapter 103 of title 10.
 
-> In the case of a member of the Army National Guard or Air National Guard of any State, such term means duty (other than full-time duty) under sections 316, 502, 503, 504, or 505 of title 32, or the prior corresponding provisions of law. Such term does not include (i) work or study performed in connection with correspondence courses, (ii) attendance at an educational institution in an inactive status, or (iii) duty performed as a temporary member of the Coast Guard Reserve.
+> In the case of a member of the Army National Guard or Air National Guard of any State, such term means duty (other than full-time duty)under sections 316, 502, 503, 504, or 505 of title 32, or the prior corresponding provisions of law. Such term does not include (i) work or study performed in connection with correspondence courses, (ii) attendance at an educational institution in an inactive status, or (iii) duty performed as a temporary member of the Coast Guard Reserve.
 
-(24) The term “active military, naval, or air service” includes active duty, any period of active duty for training during which the individual concerned was disabled or died from a disease or injury incurred or aggravated in line of duty, and any period of inactive duty training during which the individual concerned was disabled or died from an injury incurred or aggravated in line of duty.
+(24) The term “active military, naval, or air service” includes—
+
+&emsp;(A) active duty;
+
+&emsp;(B) any period of active duty for training during which the individual concerned was disabled or died from a disease or injury incurred or aggravated in line of duty; and
+
+&emsp;(C) any period of inactive duty training during which the individual concerned was disabled or died—
+
+&emsp;&emsp;(i) from an injury incurred or aggravated in line of duty; or
+
+&emsp;&emsp;(ii) from an acute myocardial infarction, a cardiac arrest, or a cerebrovascular accident occurring during such training.
 
 (25) The term “Secretary concerned” means—
 
@@ -158,13 +168,15 @@ For the purposes of this title—
 
 (33) The term “Persian Gulf War” means the period beginning on August 2, 1990, and ending on the date thereafter prescribed by Presidential proclamation or by law.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1106; Pub. L. 86–195, Aug. 25, 1959, 73 Stat. 424; Pub. L. 87–674, §1, Sept. 19, 1962, 76 Stat. 558; Pub. L. 87–815, §3, Oct. 15, 1962, 76 Stat. 927; Pub. L. 88–450, §4(c), (d), Aug. 19, 1964, 78 Stat. 504; Pub. L. 89–311, §2(c)(1), Oct. 31, 1965, 79 Stat. 1155; Pub. L. 89–358, §4(d), Mar. 3, 1966, 80 Stat. 24; Pub. L. 90–77, title II, §201, Aug. 31, 1967, 81 Stat. 181; Pub. L. 91–24, §§1(a), (b), 16, June 11, 1969, 83 Stat. 33, 35; Pub. L. 91–262, §1, May 21, 1970, 84 Stat. 256; Pub. L. 91–588, §9(a), (b), Dec. 24, 1970, 84 Stat. 1584; Pub. L. 91–621, §6(a)(1), (2), Dec. 31, 1970, 84 Stat. 1864; Pub. L. 92–198, §5(a), Dec. 15, 1971, 85 Stat. 664; Pub. L. 92–540, title IV, §407, Oct. 24, 1972, 86 Stat. 1092; Pub. L. 94–169, title I, §101(1), Dec. 23, 1975, 89 Stat. 1013; Pub. L. 94–417, §1(b), Sept. 21, 1976, 90 Stat. 1277; Pub. L. 95–126, §3, Oct. 8, 1977, 91 Stat. 1108; Pub. L. 95–202, title III, §309(a), Nov. 23, 1977, 91 Stat. 1446; Pub. L. 95–588, title III, §301, Nov. 4, 1978, 92 Stat. 2506; Pub. L. 96–22, title IV, §401, June 13, 1979, 93 Stat. 62; Pub. L. 97–37, §3(a), Aug. 14, 1981, 95 Stat. 936; Pub. L. 97–295, §4(2), (95)(A), Oct. 12, 1982, 96 Stat. 1304, 1313; Pub. L. 97–306, title I, §113(a), Oct. 14, 1982, 96 Stat. 1432; Pub. L. 98–223, title II, §201, Mar. 2, 1984, 98 Stat. 41; Pub. L. 99–576, title VII, §702(1), Oct. 28, 1986, 100 Stat. 3301; Pub. L. 100–322, title I, §103(a), title III, §311, May 20, 1988, 102 Stat. 493, 534; Pub. L. 100–456, div. A, title VI, §633(c), Sept. 29, 1988, 102 Stat. 1987; Pub. L. 101–237, §2(a), Dec. 18, 1989, 103 Stat. 2062; Pub. L. 102–25, title III, §332, Apr. 6, 1991, 105 Stat. 88; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; Pub. L. 102–54, §14(a)(1), June 13, 1991, 105 Stat. 282; Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 103–446, title XII, §1201(a)(1), Nov. 2, 1994, 108 Stat. 4682; Pub. L. 104–275, title V, §505(a), Oct. 9, 1996, 110 Stat. 3342.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1106; Pub. L. 86–195, Aug. 25, 1959, 73 Stat. 424; Pub. L. 87–674, §1, Sept. 19, 1962, 76 Stat. 558; Pub. L. 87–815, §3, Oct. 15, 1962, 76 Stat. 927; Pub. L. 88–450, §4(c), (d), Aug. 19, 1964, 78 Stat. 504; Pub. L. 89–311, §2(c)(1), Oct. 31, 1965, 79 Stat. 1155; Pub. L. 89–358, §4(d), Mar. 3, 1966, 80 Stat. 24; Pub. L. 90–77, title II, §201, Aug. 31, 1967, 81 Stat. 181; Pub. L. 91–24, §§1(a), (b), 16, June 11, 1969, 83 Stat. 33, 35; Pub. L. 91–262, §1, May 21, 1970, 84 Stat. 256; Pub. L. 91–588, §9(a), (b), Dec. 24, 1970, 84 Stat. 1584; Pub. L. 91–621, §6(a)(1), (2), Dec. 31, 1970, 84 Stat. 1864; Pub. L. 92–198, §5(a), Dec. 15, 1971, 85 Stat. 664; Pub. L. 92–540, title IV, §407, Oct. 24, 1972, 86 Stat. 1092; Pub. L. 94–169, title I, §101(1), Dec. 23, 1975, 89 Stat. 1013; Pub. L. 94–417, §1(b), Sept. 21, 1976, 90 Stat. 1277; Pub. L. 95–126, §3, Oct. 8, 1977, 91 Stat. 1108; Pub. L. 95–202, title III, §309(a), Nov. 23, 1977, 91 Stat. 1446; Pub. L. 95–588, title III, §301, Nov. 4, 1978, 92 Stat. 2506; Pub. L. 96–22, title IV, §401, June 13, 1979, 93 Stat. 62; Pub. L. 97–37, §3(a), Aug. 14, 1981, 95 Stat. 936; Pub. L. 97–295, §4(2), (95)(A), Oct. 12, 1982, 96 Stat. 1304, 1313; Pub. L. 97–306, title I, §113(a), Oct. 14, 1982, 96 Stat. 1432; Pub. L. 98–223, title II, §201, Mar. 2, 1984, 98 Stat. 41; Pub. L. 99–576, title VII, §702(1), Oct. 28, 1986, 100 Stat. 3301; Pub. L. 100–322, title I, §103(a), title III, §311, May 20, 1988, 102 Stat. 493, 534; Pub. L. 100–456, div. A, title VI, §633(c), Sept. 29, 1988, 102 Stat. 1987; Pub. L. 101–237, §2(a), Dec. 18, 1989, 103 Stat. 2062; Pub. L. 102–25, title III, §332, Apr. 6, 1991, 105 Stat. 88; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; Pub. L. 102–54, §14(a)(1), June 13, 1991, 105 Stat. 282; Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 103–446, title XII, §1201(a)(1), Nov. 2, 1994, 108 Stat. 4682; Pub. L. 104–275, title V, §505(a), Oct. 9, 1996, 110 Stat. 3342; Pub. L. 106–419, title III, §301(a), Nov. 1, 2000, 114 Stat. 1852.)
 
 #### References in Text
 
 For definition of Canal Zone, referred to in par. (20), see section 3602(b) of Title 22, Foreign Relations and Intercourse.
 
 #### Amendments
+
+2000—Par. (24). Pub. L. 106–419 amended par. (24) generally. Prior to amendment, par. (24) read as follows: “The term ‘active military, naval, or air service’ includes active duty, any period of active duty for training during which the individual concerned was disabled or died from a disease or injury incurred or aggravated in line of duty, and any period of inactive duty training during which the individual concerned was disabled or died from an injury incurred or aggravated in line of duty.”
 
 1996—Par. (29). Pub. L. 104–275 amended par. (29) generally. Prior to amendment, par. (29) read as follows: “The term ‘Vietnam era’ means the period beginning August 5, 1964, and ending on May 7, 1975.”
 
@@ -326,6 +338,14 @@ Section 405 of Pub. L. 90–77 provided that:
 
 Amendment by Pub. L. 89–311 effective first day of second calendar month following Oct. 31, 1965, see section 9 of Pub. L. 89–311, set out as a note under section 1114 of this title.
 
+#### Short Title of 2000 Amendments
+
+Pub. L. 106–475, §1, Nov. 9, 2000, 114 Stat. 2096, provided that: “This Act \[enacting sections 5100, 5102 to 5103A, and 5126 of this title, amending sections 5106 and 5107 of this title, repealing former sections 5102 and 5103 of this title, and enacting provisions set out as a note under section 5107 of this title\] may be cited as the ‘Veterans Claims Assistance Act of 2000’.”
+
+Pub. L. 106–419, §1(a), Nov. 1, 2000, 114 Stat. 1822, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Veterans Benefits and Health Care Improvement Act of 2000’.”
+
+Pub. L. 106–413, §1, Nov. 1, 2000, 114 Stat. 1798, provided that: “This Act \[enacting provisions set out as notes under section 1114 of this title\] may be cited as the ‘Veterans’ Compensation Cost-of-Living Adjustment Act of 2000’.”
+
 #### Short Title of 1999 Amendments
 
 Pub. L. 106–118, §1(a), Nov. 30, 1999, 113 Stat. 1601, provided that: “This Act \[amending sections 1114, 1115, 1162, 1311, 1313, and 1314 of this title and enacting provisions set out as notes under section 1114 of this title\] may be cited as the ‘Veterans’ Compensation Cost-of-Living Adjustment Act of 1999’.”
@@ -348,7 +368,7 @@ Pub. L. 105–178, title VIII, §8201, June 9, 1998, 112 Stat. 492, provided tha
 
 #### Short Title of 1997 Amendments
 
-Pub. L. 105–114, §1(a), Nov. 21, 1997, 111 Stat. 2277, provided that: “This Act \[enacting sections 319, 516, 1771 to 1774, and 7322 of this title, amending sections 1710, 1717, 1720, 1720A, 1720C, 1801, 1804, 1806, 2303, 3015, 3018C, 3680A, 3735, 3761, 3762, 5310, 7618, 8153, and 8169 of this title and sections 11448 and 11450 of Title 42, The Public Healthand Welfare, repealing section 8168 of this title, enacting provisions set out as notes under sections 319, 516, 1710, 1801, 7322, and 7611 of this title, amending provisions set out as a note under section 7721 of this title, and repealing provisions set out as notes under sections 527, 1712, 1718, and 7721 of this title\] may be cited as the ‘Veterans’ Benefits Act of 1997’.”
+Pub. L. 105–114, §1(a), Nov. 21, 1997, 111 Stat. 2277, provided that: “This Act \[enacting sections 319, 516, 1771 to 1774, and 7322 of this title, amending sections 1710, 1717, 1720, 1720A, 1720C, 1801, 1804, 1806, 2303, 3015, 3018C, 3680A, 3735, 3761, 3762, 5310, 7618, 8153, and 8169 of this title and sections 11448 and 11450 of Title 42, The Public Health and Welfare, repealing section 8168 of this title, enacting provisions set out as notes under sections 319, 516, 1710, 1801, 7322, and 7611 of this title, amending provisions set out as a note under section 7721 of this title, and repealing provisions set out as notes under sections 527, 1712, 1718, and 7721 of this title\] may be cited as the ‘Veterans’ Benefits Act of 1997’.”
 
 Pub. L. 105–98, §1(a), Nov. 19, 1997, 111 Stat. 2155, provided that: “This Act \[amending sections 1114, 1115, 1162, 1311, 1313, and 1314 of this title and enacting provisions set out as notes under section 1114 of this title\] may be cited as the ‘Veterans’ Compensation Rate Amendments of 1997’.”
 
@@ -490,7 +510,7 @@ Pub. L. 98–543, §1(a), Oct. 24, 1984, 98 Stat. 2735, provided that: “This A
 
 For short title of Pub. L. 98–542 as the “Veterans’ Dioxin and Radiation Exposure Compensation Standards Act”, see section 1 of Pub. L. 98–542, set out as a note under section 1154 of this title.
 
-Pub. L. 98–528, §1(a), Oct. 19, 1984, 98 Stat. 2686, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Veterans’ Health Care Act of 1984’.”
+Pub. L. 98–528, §1(a), Oct. 19, 1984, 98 Stat. 2686, provided that: “This Act \[see Tables for classification\]may be cited as the ‘Veterans’ Health Care Act of 1984’.”
 
 Pub. L. 98–525, title VII, §701, Oct. 19, 1984, 98 Stat. 2553, as amended by Pub. L. 100–48, §2, June 1, 1987, 101 Stat. 331, provided that: “This title \[see Tables for classification\] may be cited as the ‘Montgomery GI Bill Act of 1984’.”
 
@@ -520,7 +540,7 @@ Pub. L. 97–37, §1(a), Aug. 14, 1981, 95 Stat. 935, provided that: “this Act
 
 #### Short Title of 1980 Amendments
 
-Pub. L. 96–466, §1(a), Oct. 17, 1980, 94 Stat. 2171, provided that: “this Act \[see Tables for classification\] maybe cited as the ‘Veterans’ Rehabilitation and Education Amendments of 1980’.”
+Pub. L. 96–466, §1(a), Oct. 17, 1980, 94 Stat. 2171, provided that: “this Act \[see Tables for classification\] may be cited as the ‘Veterans’ Rehabilitation and Education Amendments of 1980’.”
 
 Pub. L. 96–385, §1(a), Oct. 7, 1980, 94 Stat. 1528, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Veterans’ Disability Compensation and Housing Benefits Amendments of 1980’.”
 
@@ -570,7 +590,7 @@ Pub. L. 94–433, §1, Sept. 30, 1976, 90 Stat. 1374, provided: “That this Act
 
 Pub. L. 94–432, §1, Sept. 30, 1976, 90 Stat. 1369, provided: “That this Act \[see Tables for classification\] may be cited as the ‘Veterans and Survivors Pension Adjustment Act of 1976’.”
 
-Pub. L. 94–324, §1, June 30, 1976, 90 Stat. 721, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Veterans Housing Amendments Act of 1976’.”
+Pub. L. 94–324, §1, June 30, 1976, 90 Stat. 720, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Veterans Housing Amendments Act of 1976’.”
 
 #### Short Title of 1975 Amendments
 
@@ -578,7 +598,7 @@ Section 1 of Pub. L. 94–169 provided: “That this Act \[see Tables for classi
 
 Pub. L. 94–123, §1, Oct. 22, 1975, 89 Stat. 669, provided: “That this Act \[see Tables for classification\] may be cited as the ‘Veterans’ Administration Physician and Dentist Pay Comparability Act of 1975’.”
 
-Pub. L. 94–71, §1, Aug. 5, 1975, 89 Stat. 395, provided: “That this Act \[see Tables for classification\] may be cited as the ‘Veterans Disability Compensation and Survivor Benefits Act of 1975’.”
+Pub. L. 94–71, §1, Aug. 5, 1975, 89 Stat. 395, provided: “That this Act \[see Tables for classification\] may becited as the ‘Veterans Disability Compensation and Survivor Benefits Act of 1975’.”
 
 #### Short Title of 1974 Amendments
 
@@ -698,5 +718,5 @@ Section 3 of Pub. L. 100–322 provided that: “For purposes of this Act \[see 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2301, 3771, 4303, 5302, 8111A of this title; title 5 sections 2108, 3501, 6303; title 7 section 1983; title 8 sections 1612, 1613, 1622; title 10 sections 1413, 1491, 2641; title 15 section 632; title 26 sections 3121, 6334; title 42 sections 410, 1477, 11448; title 43 section 1629g; title 49 section 47112; title 50 App. section 591.
+This section is referred to in sections 2301, 3729, 3771, 4303, 5302, 8111A of this title; title 5 sections 2108, 3501, 6303; title 7 section 1983; title 8 sections 1612, 1613, 1622; title 10 sections 1413, 1491, 2641; title 15 section 632; title 26 sections 3121, 6334; title 42 sections 410, 1477, 11448; title 43 section 1629g; title 49 section 47112; title 50 App. section 591.
 

@@ -1,12 +1,6 @@
 ### §7425. Acquisition by condemnation and purchase
 
-(a) Whenever the Secretary is unable to make arrangements he considers satisfactory for—
-
-&emsp;(1) exchanges of land or agreements for conservation authorized by section 7424 of this title; or
-
-&emsp;(2) contracts for joint, unit, or other cooperative plans with respect to lands or leases authorized by section 7426 of this title;
-
-> he may acquire, with the approval of the President, such privately owned lands and leases—
+(a) Whenever the Secretary is unable to make arrangements he considers satisfactory for exchanges of land or agreements for conservation authorized by section 7424 of this title, the Secretary may acquire, with the approval of the President, such privately owned lands and leases—
 
 &emsp;(1) by purchase, inside the naval petroleum reserves, or outside those reserves on the same geologic structure; and
 
@@ -14,7 +8,7 @@
 
 (b) The Secretary shall report annually to Congress all proceedings for purchase and condemnation under this section.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 458; Pub. L. 94–258, title II, §201(6), Apr. 5, 1976, 90 Stat. 309; Pub. L. 96–513, title V, §513(32)(A), Dec. 12, 1980, 94 Stat. 2933.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 458; Pub. L. 94–258, title II, §201(6), Apr. 5, 1976, 90 Stat. 309; Pub. L. 96–513, title V, §513(32)(A), Dec. 12, 1980, 94 Stat. 2933; Pub. L. 106–398, §1 \[div. C, title XXXIV, §3402(b)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–484.)
 
 Historical and Revision Notes
 
@@ -34,6 +28,14 @@ The words “Whenever the Secretary of the Navy is unable” are substituted for
 
 #### Amendments
 
+2000—Subsec. (a). Pub. L. 106–398 substituted “for exchanges of land or agreements for conservation authorized by section 7424 of this title, the Secretary may acquire” for “for—
+
+&emsp;“(1) exchanges of land or agreements for conservation authorized by section 7424 of this title; or
+
+&emsp;“(2) contracts for joint, unit, or other cooperative plans with respect to lands or leases authorized by section 7426 of this title;
+
+> he may acquire”.
+
 1980—Subsec. (a). Pub. L. 96–513 substituted “Naval Petroleum Reserve Numbered 1” for “naval petroleum reserve numbered 1”.
 
 1976—Subsec. (a). Pub. L. 94–258 struck out “of the Navy” after “Secretary”.
@@ -41,10 +43,6 @@ The words “Whenever the Secretary of the Navy is unable” are substituted for
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
-
-#### Federal Rules of Civil Procedure
-
-Condemnation, see rule 71A, Title 28, Appendix, Judiciary and Judicial Procedure.
 
 #### Section Referred to in Other Sections
 

@@ -26,7 +26,7 @@ Subsec. (b). Pub. L. 92–419, §603(b)(4), added subsec. (b).
 
 #### Change of Name
 
-Secretary of Agriculture substituted for Commissioner of Agriculture in text pursuant to sections 1 and4 of act Feb. 9, 1889, which are classified to section 2202 of this title. See, also, section 2205 of this title.
+Secretary of Agriculture substituted for Commissioner of Agriculture in text pursuant to sections 1 and 4 of act Feb. 9, 1889, which are classified to section 2202 of this title. See, also, section 2205 of this title.
 
 #### Effective Date of 1980 Amendment
 

@@ -12,11 +12,11 @@ Amounts made available pursuant to this section shall be used for vocational and
 
 #### (1) In general
 
-&emsp;If the sums appropriated for any fiscal year for grants under this section are not sufficient to pay in full the total amount which approved applicants are eligible to receive under this section for such fiscal year, the Secretary shall first allocate to each such applicant who received funds under this part for the preceding fiscal year an amount equal to 100 percent of the product of the per capita payment for the preceding fiscal year and such applicant's Indian student count for the current program year, plus an amount equal to the actual cost of any increase to the per capita figure resulting from inflationary increases to necessary costs beyond the institution's control.
+&emsp;If the sums appropriated for any fiscal year for grants under this section are not sufficient to pay in full the total amount which approved applicants are eligible to receive under this section for such fiscal year, the Secretary shall first allocate to each such applicant who received funds under this part for the preceding fiscal year an amount equal to 100 percent of the product of the per capita payment for the preceding fiscal year and such applicant'sIndian student count for the current program year, plus an amount equal to the actual cost of any increase to the per capita figure resulting from inflationary increases to necessary costs beyond the institution's control.
 
 #### (2) Per capita determination
 
-&emsp;For the purposes of paragraph (1), the per capita payment for any fiscal year shall be determined by dividing the amount available for grants to tribally controlled postsecondary vocational and technical institutions under thissection for such program year by the sum of the Indian student counts of such institutions for such program year. The Secretary shall, on the basis of the most accurate data available from the institutions, compute the Indian student count for any fiscal year for which such count was not used for the purpose of making allocations under this section.
+&emsp;For the purposes of paragraph (1), the per capita payment for any fiscal year shall be determined by dividing the amount available for grants to tribally controlled postsecondary vocational and technical institutions under this section for such program year by the sum of the Indian student counts of such institutions for such program year. The Secretary shall, on the basis of the most accurate data available from the institutions, compute the Indian student count for any fiscal year for which such count was not used for the purpose of making allocations under this section.
 
 #### (d) Applications
 
@@ -76,7 +76,7 @@ Any tribally controlled postsecondary vocational and technical institution that 
 
 #### (C) Contents
 
-&emsp;&emsp;The report required by subparagraph (B) shall include the number, type, and cost of meeting the needs described in subparagraph (A), and rank each institution by relative need.
+&emsp;&emsp;The report required by subparagraph (B) shall include the number, type, and cost ofmeeting the needs described in subparagraph (A), and rank each institution by relative need.
 
 #### (D) Priority
 
@@ -86,7 +86,7 @@ Any tribally controlled postsecondary vocational and technical institution that 
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall provide for the conduct of a long-term study of the facilities ofeach institution eligible for assistance under this section.
+&emsp;&emsp;The Secretary shall provide for the conduct of a long-term study of the facilities of each institution eligible for assistance under this section.
 
 #### (B) Contents
 
@@ -130,9 +130,9 @@ In this section:
 
 #### (i) Authorization of appropriations
 
-There are authorized to be appropriated to carry out this section $4,000,000 for fiscal year 1999 and each of the 4 succeeding fiscal years.
+There are authorized to be appropriated to carry out this section $4,000,000 for fiscal year 1999 and such sums as may be necessary for each of the 4 succeeding fiscal years.
 
-(Pub. L. 88–210, title I, §117, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3097.)
+(Pub. L. 88–210, title I, §117, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3097; amended Pub. L. 106–554, §1(a)(1) \[title III, §310\], Dec. 21, 2000, 114 Stat. 2763, 2763A–46.)
 
 #### References in Text
 
@@ -151,6 +151,10 @@ October 31, 1998, referred to in subsec. (g)(3)(C), was in the original “the d
 Provisions similar to this section were contained in section 2397 et seq. of this title, prior to the general amendment of this chapter by Pub. L. 105–332.
 
 A prior section 2327, Pub. L. 88–210, title I, §117, as added Pub. L. 101–392, title I, §116, Sept. 25, 1990, 104 Stat. 772, related to program evaluation and improvement, prior to the general amendment of this chapter by Pub. L. 105–332. See section 2343 of this title.
+
+#### Amendments
+
+2000—Subsec. (i). Pub. L. 106–554 inserted “such sums as may be necessary for” before “each of the 4 succeeding fiscal years”.
 
 #### Section Referred to in Other Sections
 

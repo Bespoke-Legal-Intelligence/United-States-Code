@@ -32,7 +32,3 @@ Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (sub
 
 Annual appropriations to meet the obligations of membership in various international organizations were contained in acts listed in a note set out under section 269a of this title.
 
-#### Cross References
-
-Consent by State Department to contributions to international organizations and reports to Congress, see section 262a of this title.
-

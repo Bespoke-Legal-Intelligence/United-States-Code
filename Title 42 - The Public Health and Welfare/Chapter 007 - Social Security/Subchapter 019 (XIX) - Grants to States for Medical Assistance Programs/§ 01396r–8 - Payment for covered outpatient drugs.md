@@ -16,7 +16,7 @@
 
 #### (4) Effect on existing agreements
 
-&emsp;In the case of a rebate agreement in effect between a State and a manufacturer on November 5, 1990, such agreement, for the initial agreement period specified therein, shall be considered to be a rebate agreement in compliance with this section with respect to that State, if the State agrees to report to the Secretary any rebates paid pursuant to the agreement and such agreement provides for a minimum aggregate rebate of 10 percent of the State's total expenditures under the State plan for coverage of the manufacturer's drugs under this subchapter. If, after the initial agreement period, the State establishes to the satisfaction of the Secretary that an agreement in effect on November 5, 1990, provides for rebates that are at least as large as the rebates otherwise required under this section, and the State agrees to report any rebates under the agreement to the Secretary, the agreement shall be considered to be a rebate agreement in compliance with the section for the renewal periods of such agreement.
+&emsp;In the case of a rebate agreement in effect between a State and a manufacturer on November 5, 1990, such agreement, for the initialagreement period specified therein, shall be considered to be a rebate agreement in compliance with this section with respect to that State, if the State agrees to report to the Secretary any rebates paid pursuant to the agreement and such agreement provides for a minimum aggregate rebate of 10 percent of the State's total expenditures under the State plan for coverage of the manufacturer's drugs under this subchapter. If, after the initial agreement period, the State establishes to the satisfaction of the Secretary that an agreement in effect on November 5, 1990, provides for rebates that are at least as large as the rebates otherwise required under this section, and the State agrees to report any rebates under the agreement to the Secretary, the agreement shall be considered to be a rebate agreement in compliance with the section for the renewal periods of such agreement.
 
 #### (5) Limitation on prices of drugs purchased by covered entities
 
@@ -72,7 +72,7 @@
 
 #### (B) Offset against medical assistance
 
-&emsp;&emsp;Amounts received by a State under this section (or under an agreement authorized by the Secretary under subsection (a)(1) of this section or an agreement described in subsection (a)(4) of this section) in any quarter shall be considered to be a reduction in the amount expended under the State plan in the quarter for medical assistance for purposes of section 1396b(a)(1) of this title.
+&emsp;&emsp;Amounts received by a State under this section (or under an agreement authorized by the Secretary under subsection (a)(1) ofthis section or an agreement described in subsection (a)(4) of this section) in any quarter shall be considered to be a reduction in the amount expended under the State plan in the quarter for medical assistance for purposes of section 1396b(a)(1) of this title.
 
 #### (2) State provision of information
 
@@ -92,7 +92,7 @@
 
 &emsp;&emsp;&emsp;(i) not later than 30 days after the last day of each rebate period under the agreement (beginning on or after January 1, 1991), on the average manufacturer price (as defined in subsection (k)(1) of this section) and, (for single source drugs and innovator multiple source drugs), the manufacturer's best price (as defined in subsection (c)(2)(B) of this section) for covered outpatient drugs for the rebate period under the agreement, and
 
-&emsp;&emsp;&emsp;(ii) not later than 30 days after the date of entering into an agreement under thissection on the average manufacturer price (as defined in subsection (k)(1) of this section) as of October 1, 1990 <sup>1</sup> for each of the manufacturer's covered outpatient drugs.
+&emsp;&emsp;&emsp;(ii) not later than 30 days after the date of entering into an agreement under this section on the average manufacturer price (as defined in subsection (k)(1) of this section) as of October 1, 1990 <sup>1</sup> for each of the manufacturer's covered outpatient drugs.
 
 #### (B) Verification surveys of average manufacturer price
 
@@ -148,7 +148,7 @@
 
 #### (C) Delay before reentry
 
-&emsp;&emsp;In the case of any rebate agreement with a manufacturer under this section which is terminated, another such agreement with the manufacturer (or a successor manufacturer) may not be entered into until a periodof 1 calendar quarter has elapsed since the date of the termination, unless the Secretary finds good cause for an earlier reinstatement of such an agreement.
+&emsp;&emsp;In the case of any rebate agreement with a manufacturer under this section which is terminated, another such agreement with the manufacturer (or a successor manufacturer) may not be entered into until a period of 1 calendar quarter has elapsed since the date of the termination, unless the Secretary finds good cause for an earlier reinstatement of such an agreement.
 
 #### (c) Determination of amount of rebate
 
@@ -212,7 +212,7 @@
 
 &emsp;&emsp;&emsp;The term “best price”—
 
-&emsp;&emsp;&emsp;&emsp;(I) shall be inclusive of cash discounts, free goods that are contingent on any purchase requirement, volume discounts, and rebates (other than rebates under this section);
+&emsp;&emsp;&emsp;&emsp;(I) shall be inclusive of cash discounts, free goods that are contingent on anypurchase requirement, volume discounts, and rebates (other than rebates under this section);
 
 &emsp;&emsp;&emsp;&emsp;(II) shall be determined without regard to special packaging, labeling, or identifiers on the dosage form or product or package; and
 
@@ -234,7 +234,7 @@
 
 #### (B) Treatment of subsequently approved drugs
 
-&emsp;&emsp;In the case of a covered outpatient drug approved by the Food and Drug Administration after October 1, 1990, clause (ii)(II) of subparagraph (A) shall be applied by substituting “the first full calendar quarterafter the day on which the drug was first marketed” for “the calendar quarter beginning July 1, 1990” and “the month prior to the first month of the first full calendar quarter after the day on which the drug was first marketed” for “September 1990”.
+&emsp;&emsp;In the case of a covered outpatient drug approved by the Food and Drug Administration after October 1, 1990, clause (ii)(II) of subparagraph (A) shall be applied by substituting “the first full calendar quarter after the day on which the drug was first marketed” for “the calendar quarter beginning July 1, 1990” and “the month prior to the first month of the first full calendar quarter after the day on which the drug was first marketed” for “September 1990”.
 
 #### (3) Rebate for other drugs
 
@@ -358,7 +358,7 @@
 
 #### (1) In general
 
-&emsp;(A) In order to meet the requirement of section 1396b(i)(10)(B) of this title, a State shall provide, by not later than January 1, 1993, for a drug use review program described in paragraph (2) for covered outpatient drugs in order to assure that prescriptions (i) are appropriate, (ii) are medically necessary, and (iii) are not likely to result in adverse medical results. The program shall be designed to educate physicians and pharmacists to identify and reduce the frequency of patterns of fraud, abuse, gross overuse, or inappropriate or medically unnecessary care, among physicians, pharmacists, and patients, or associated with specific drugs or groups of drugs, as well as potential and actual severe adverse reactions to drugs including education on therapeutic appropriateness, overutilization and underutilization, appropriate use of generic products, therapeutic duplication, drug-disease contraindications, drug-drug interactions, incorrect drug dosage or duration of drug treatment, drug-allergy interactions, and clinical abuse/misuse.
+&emsp;(A) In order to meet the requirement of section 1396b(i)(10)(B) of this title, a State shall provide, by not later than January 1, 1993, fora drug use review program described in paragraph (2) for covered outpatient drugs in order to assure that prescriptions (i) are appropriate, (ii) are medically necessary, and (iii) are not likely to result in adverse medical results. The program shall be designed to educate physicians and pharmacists to identify and reduce the frequency of patterns of fraud, abuse, gross overuse, or inappropriate or medically unnecessary care, among physicians, pharmacists, and patients, or associated with specific drugs or groups of drugs, as well as potential and actual severe adverse reactions to drugs including education on therapeutic appropriateness, overutilization and underutilization, appropriate use of generic products, therapeutic duplication, drug-disease contraindications, drug-drug interactions, incorrect drug dosage or duration of drug treatment, drug-allergy interactions, and clinical abuse/misuse.
 
 &emsp;(B) The program shall assess data on drug use against predetermined standards, consistent with the following:
 
@@ -418,7 +418,7 @@
 
 #### (B) Retrospective drug use review
 
-&emsp;&emsp;The program shall provide, through its mechanized drug claims processing and information retrieval systems (approved by the Secretary under section 1396b(r) of this title) or otherwise, for the ongoing periodic examination of claims data and other records in order to identify patterns of fraud, abuse, gross overuse, or inappropriate or medically unnecessary care, among physicians, pharmacists and individuals receiving benefits under this subchapter, or associated with specific drugs or groups of drugs.
+&emsp;&emsp;The program shall provide, through its mechanized drug claims processing and information retrieval systems (approved by the Secretary under section 1396b(r) of this title) or otherwise, for the ongoing periodicexamination of claims data and other records in order to identify patterns of fraud, abuse, gross overuse, or inappropriate or medically unnecessary care, among physicians, pharmacists and individuals receiving benefits under this subchapter, or associated with specific drugs or groups of drugs.
 
 #### (C) Application of standards
 
@@ -432,7 +432,7 @@
 
 #### (A) Establishment
 
-&emsp;&emsp;Each State shall provide for the establishment of a drug use review board (hereinafterreferred to as the “DUR Board”) either directly or through a contract with a private organization.
+&emsp;&emsp;Each State shall provide for the establishment of a drug use review board (hereinafter referred to as the “DUR Board”) either directly or through a contract with a private organization.
 
 #### (B) Membership
 
@@ -486,27 +486,7 @@
 
 &emsp;&emsp;(B) the Secretary may permit, in the procurement described in subparagraph (A) in the application of part 433 of title 42, Code of Federal Regulations, and parts 95, 205, and 307 of title 45, Code of Federal Regulations, the substitution of the State's request for proposal in competitive procurement for advance planning and implementation documents otherwise required.
 
-#### (i) Annual report
-
-#### (1) In general
-
-&emsp;Not later than May 1 of each year the Secretary shall transmit to the Committee on Finance of the Senate, the Committee on Energy and Commerce of the House of Representatives, and the Committees on Aging of the Senate and the House of Representatives a report on the operation of this section in the preceding fiscal year.
-
-#### (2) Details
-
-&emsp;Each report shall include information on—
-
-&emsp;&emsp;(A) ingredient costs paid under this subchapter for single source drugs, multiple source drugs, and nonprescription covered outpatient drugs;
-
-&emsp;&emsp;(B) the total value of rebates received and number of manufacturers providing such rebates;
-
-&emsp;&emsp;(C) how the size of such rebates compare with the size or <sup>6</sup> rebates offered to other purchasers of covered outpatient drugs;
-
-&emsp;&emsp;(D) the effect of inflation on the value of rebates required under this section;
-
-&emsp;&emsp;(E) trends in prices paid under this subchapter for covered outpatient drugs; and
-
-&emsp;&emsp;(F) Federal and State administrative costs associated with compliance with the provisions of this subchapter.
+#### (i) Omitted
 
 #### (j) Exemption of organized health care settings
 
@@ -530,7 +510,7 @@ In this section—
 
 &emsp;&emsp;(A) of those drugs which are treated as prescribed drugs for purposes of section 1396d(a)(12) of this title, a drug which may be dispensed only upon prescription (except as provided in paragraph (5)), and—
 
-&emsp;&emsp;&emsp;(i) which is approved for safety and effectiveness as a prescription drug under section 505 \[21 U.S.C. 355\] or 507 <sup>7</sup> of the Federal Food, Drug, and Cosmetic Act or which is approved under section 505(j) of such Act \[21 U.S.C. 355(j)\];
+&emsp;&emsp;&emsp;(i) which is approved for safety and effectiveness as a prescription drug under section 505 \[21 U.S.C. 355\] or 507 <sup>6</sup> of the Federal Food, Drug, and Cosmetic Act or which is approved under section 505(j) of such Act \[21 U.S.C. 355(j)\];
 
 &emsp;&emsp;&emsp;(ii)(I) which was commercially used or sold in the United States before October 10, 1962, or which is identical, similar, or related (within the meaning of section 310.6(b)(1) of title 21 of the Code of Federal Regulations) to such a drug, and (II) which has not been the subject of a final determination by the Secretary that it is a “new drug” (within the meaning of section 201(p) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 321(p)\]) or an action brought by the Secretary under section 301, 302(a), or 304(a) of such Act \[21 U.S.C. 331, 332(a), 334(a)\] to enforce section 502(f) or 505(a) of such Act \[21 U.S.C. 352(f), 355(a)\]; or
 
@@ -544,7 +524,7 @@ In this section—
 
 &emsp;&emsp;&emsp;(iii) is produced at an establishment licensed under such section to produce such product; and
 
-&emsp;&emsp;(C) insulin certified under section 506 <sup>7</sup> of the Federal Food, Drug, and Cosmetic Act.
+&emsp;&emsp;(C) insulin certified under section 506 <sup>6</sup> of the Federal Food, Drug, and Cosmetic Act.
 
 #### (3) Limiting definition
 
@@ -566,7 +546,7 @@ In this section—
 
 &emsp;&emsp;(H) Renal dialysis.
 
-> &emsp;Such term also does not include any such drug or product for which a National Drug Code number is not required by the Food and Drug Administration or a drug or biological <sup>8</sup> used for a medical indication which is not a medically accepted indication. Any drug, biological product, or insulin excluded from the definition of such term as a result of this paragraphshall be treated as a covered outpatient drug for purposes of determining the best price (as defined in subsection (c)(1)(C) of this section) for such drug, biological product, or insulin.
+> &emsp;Such term also does not include any such drug or product for which a National Drug Code number is not required by the Food and Drug Administration or a drug or biological <sup>7</sup> used for a medical indication which is not a medically accepted indication. Any drug, biological product, or insulin excluded from the definition of such term as a result of this paragraph shall be treated as a covered outpatient drug for purposes of determining the best price (as defined in subsection (c)(1)(C) of this section) for such drug, biological product, or insulin.
 
 #### (4) Nonprescription drugs
 
@@ -628,13 +608,13 @@ In this section—
 
 #### (8) Rebate period
 
-&emsp;The term “rebate period” means, with respect to an agreement under subsection (a) of this section, a calendar quarter or other period specified by the Secretary with respect to the payment of rebates under such agreement.
+&emsp;The term “rebate period” means, with respect to an agreement under subsection (a) ofthis section, a calendar quarter or other period specified by the Secretary with respect to the payment of rebates under such agreement.
 
 #### (9) State agency
 
 &emsp;The term “State agency” means the agency designated under section 1396a(a)(5) of this title to administer or supervise the administration of the State plan for medical assistance.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1927, as added Pub. L. 101–508, title IV, §4401(a)(3), Nov. 5, 1990, 104 Stat. 1388–143; amended Pub. L. 102–585, title VI, §601(a)–(c), Nov. 4, 1992, 106 Stat. 4962–4964; Pub. L. 103–18, §2(a), Apr. 12, 1993, 107 Stat. 54; Pub. L. 103–66, title XIII, §13602(a), Aug. 10, 1993, 107 Stat. 613; Pub. L. 105–33, title IV, §§4701(b)(2)(A)(x), 4756, Aug. 5, 1997, 111 Stat. 493, 527; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI,§§606(a), 608(u)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–396, 1501A–398.)
+(Aug. 14, 1935, ch. 531, title XIX, §1927, as added Pub. L. 101–508, title IV, §4401(a)(3), Nov. 5, 1990, 104 Stat. 1388–143; amended Pub. L. 102–585, title VI, §601(a)–(c), Nov. 4, 1992, 106 Stat. 4962–4964; Pub. L. 103–18, §2(a), Apr. 12, 1993, 107 Stat. 54; Pub. L. 103–66, title XIII, §13602(a), Aug. 10, 1993, 107 Stat. 613; Pub. L. 105–33, title IV, §§4701(b)(2)(A)(x), 4756, Aug. 5, 1997, 111 Stat. 493, 527; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §§606(a), 608(u)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–396, 1501A–398.)
 
 #### References in Text
 
@@ -645,6 +625,10 @@ The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (d)(4)(C) and 
 Section 507 of the Federal Food, Drug, and Cosmetic Act, referred to in subsec. (k)(2)(A)(i), was repealed by Pub. L. 105–115, title I, §125(b)(1), Nov. 21, 1997, 111 Stat. 2325.
 
 Section 506 of the Federal Food, Drug, and Cosmetic Act, referred to in subsec. (k)(2)(C), was repealed and a new section 506 enacted by Pub. L. 105–115, title I, §§112(a), 125(a)(1), Nov. 21, 1997, 111 Stat. 2309, 2325, which no longer relates to insulin.
+
+#### Codification
+
+Subsec. (i) of this section, which required the Secretary to transmit to the Committee on Finance of the Senate, the Committee on Energy and Commerce of the House of Representatives, and the Committees on Aging of the Senate and the House of Representatives an annual report on the operation of this section in the preceding fiscal year, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, item 9 on page 93 of House Document No. 103–7.
 
 #### Prior Provisions
 
@@ -688,7 +672,7 @@ Subsec. (k)(3)(E). Pub. L. 103–66, §13602(a)(2)(B)(ii)(I), struck out “\* 
 
 Subsec. (k)(3)(F). Pub. L. 103–66, §13602(a)(2)(B)(ii)(II), which directed amendment of subpar. (F) by substituting “services and services provided by an intermediate care facility for the mentally retarded” for “services”, was executed by making the substitution for “sevices” to reflect the probable intent of Congress because the word “services” did not appear.
 
-Subsec. (k)(6). Pub. L. 103–66, §13602(a)(2)(B)(iii), substituted “or the use of which is supported by one or more citations included or approved for inclusion in any of the compendia described in subsection (g)(1)(B)(i) of this section.” for “, which appears in peer-reviewed medical literature or which is accepted by one or more of the following compendia: the American Hospital Formulary Service-Drug Information, the American Medical Association Drug Evaluations, and the United States Pharmacopeia-Drug Information.”
+Subsec. (k)(6). Pub. L. 103–66, §13602(a)(2)(B)(iii), substituted “or the use of which is supported by one ormore citations included or approved for inclusion in any of the compendia described in subsection (g)(1)(B)(i) of this section.” for “, which appears in peer-reviewed medical literature or which is accepted by one or more of the following compendia: the American Hospital Formulary Service-Drug Information, the American Medical Association Drug Evaluations, and the United States Pharmacopeia-Drug Information.”
 
 Subsec. (k)(7)(A)(i). Pub. L. 103–66, §13602(a)(2)(B)(iv), substituted “rebate period” for “calendar quarter” in introductory provisions.
 
@@ -700,7 +684,7 @@ Subsec. (a)(5), (6). Pub. L. 102–585, §601(b)(2), added pars. (5) and (6).
 
 Subsec. (b)(3)(D). Pub. L. 102–585, §601(b)(3), substituted “this paragraph or under an agreement with the Secretary of Veterans Affairs described in subsection (a)(6)(A)(ii) of this section” for “this paragraph”, “Secretary or the Secretary of Veterans Affairs” for “Secretary”, and “except—” and cls. (i) to (iii) for “except as the Secretary determines to be necessary to carry out this section and to permit the Comptroller General to review the information provided.”
 
-Subsec. (b)(4)(B)(ii). Pub. L. 102–585, §601(b)(4)(i), (ii), substituted “the calendar quarter beginning at least 60 days” for “such period” and “the manufacturer provides notice to the Secretary.” for “of the notice as theSecretary may provide (but not beyond the term of the agreement).”
+Subsec. (b)(4)(B)(ii). Pub. L. 102–585, §601(b)(4)(i), (ii), substituted “the calendar quarter beginning at least 60 days” for “such period” and “the manufacturer provides notice to the Secretary.” for “of the notice as the Secretary may provide (but not beyond the term of the agreement).”
 
 Subsec. (b)(4)(B)(iv), (v). Pub. L. 102–585, §601(b)(4)(iii), added cls. (iv) and (v).
 
@@ -713,12 +697,6 @@ Subsec. (c)(1)(B)(ii) to (v). Pub. L. 102–585, §601(c)(2), (3), added cls. (i
 &emsp;“(II) the difference between the average manufacturer price for a drug and the best price (as defined in paragraph (2)(B)) for such quarter (or period) for such drug.”
 
 Subsec. (c)(1)(C). Pub. L. 102–585, §601(a), substituted “(excluding any prices charged on or after October 1, 1992, to the Indian Health Service, the Department of Veterans Affairs, a State home receiving funds under section 1741 of title 38, the Department of Defense, the Public Health Service, or a covered entity described in subsection (a)(5)(B) of this section, any prices charged under the Federal Supply Schedule of the General Services Administration, or any prices used under a State pharmaceutical assistance program, and excluding” for “(excluding”.
-
-#### Change of Name
-
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
-Committees on Aging of the Senate and House of Representatives probably mean the Special Committee on Aging of the Senate and the Select Committee on Aging of the House of Representatives which was abolished on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress.
 
 #### Effective Date of 1999 Amendment
 
@@ -754,51 +732,7 @@ Section 4401(c) of title IV of Pub. L. 101–508 directed Secretary of Health an
 
 #### Study of Drug Purchasing and Billing Practices in Health Care Industry; Report
 
-Section 4401(d) of title IV of Pub. L. 101–508, as amended by Pub. L. 104–316, title I, §122(i), Oct. 19, 1996, 110 Stat. 3837, provided that:
-
-“(1)
-
-Study of drug purchasing and billing activities of various health care systems.—
-
-&emsp;“(A) The Comptroller General shall conduct a study of the drug purchasing and billing practices of hospitals, other institutional facilities, and managed care plans which provide covered outpatient drugs in the medicaid program. The study shall compare the ingredient costs of drugs for medicaid prescriptions to these facilities and plans and the charges billed to medical assistance programs by these facilities and plans compared to retail pharmacies.
-
-&emsp;“(B) The study conducted under this subsection shall include an assessment of—
-
-&emsp;&emsp;“(i) the prices paid by these institutions for covered outpatient drugs compared to prices that would be paid under this section \[enacting this section, amending sections 1396a, 1396b, and 1396s of this title, and enacting provisions set out above and under section 1396b of this title\],
-
-&emsp;&emsp;“(ii) the quality of outpatient drug use review provided by these institutions as compared to drug use review required under this section, and
-
-&emsp;&emsp;“(iii) the efficiency of mechanisms used by these institutions for billing and receiving payment forcovered outpatient drugs dispensed under this title \[see Tables for classification\].
-
-&emsp;“(C) By not later than May 1, 1991, the Comptroller General shall report to the Secretary of Health and Human Services (hereafter in this section referred to as the ‘Secretary’), the Committee on Finance of the Senate, the Committee on Energy and Commerce of the House of Representatives, and the Committees on Aging of the Senate and the House of Representatives on the study conducted under subparagraph (A).
-
-“(2)
-
-Report on drug pricing.—The Comptroller General shall submit to the Secretary, the Committee on Finance of the Senate, the Committee on Energy and Commerce \[now Committee on Commerce\] of the House of Representatives, and the Committees on Aging of the Senate and House of Representatives \[see Change of Name note above\] a report on changes in prices charged by manufacturers for prescription drugs to the Department of Veterans Affairs, other Federal programs, hospital pharmacies, and other purchasing groups and managed care plans.
-
-“(3)
-
-Study on prior approval procedures.—
-
-&emsp;“(A) The Secretary, acting in consultation with the Comptroller General, shall study prior approval procedures utilized by State medical assistance programs conducted under title XIX of the Social Security Act \[this subchapter\], including—
-
-&emsp;&emsp;“(i) the appeals provisions under such programs; and
-
-&emsp;&emsp;“(ii) the effects of such procedures on beneficiary and provider access to medications covered under such programs.
-
-&emsp;“(B) By not later than December 31, 1991, the Secretary and the Comptroller General shall report to the Committee on Finance of the Senate, the Committee on Energy and Commerce of the House of Representatives, and the Committees on Aging of the Senate and the House of Representatives on the results of the study conducted under subparagraph (A) and shall make recommendations with respect to which procedures are appropriate or inappropriate to be utilized by State plans for medical assistance.
-
-“(4)
-
-Study on reimbursement rates to pharmacists.—
-
-&emsp;“(A) The Secretary shall conduct a study on (i) the adequacy of current reimbursement rates to pharmacists under each State medical assistance programs conducted under title XIX of the Social Security Act; and (ii) the extent to which reimbursement rates under such programs have an effect on beneficiary access to medications covered and pharmacy services under such programs.
-
-&emsp;“(B) By not later than December 31, 1991, the Secretary shall report to the Committee on Finance of the Senate, the Committee on Energy and Commerce of the House of Representatives, and the Committees on Aging of the Senate and the House of Representatives on the results of the study conducted under subparagraph (A).
-
-“(5)
-
-Study of payments for vaccines.—The Secretary of Health and Human Services shall undertake a study of the relationship between State medical assistance plans and Federal and State acquisition and reimbursement policies for vaccines and the accessibility of vaccinations and immunization to children provided under this title. The Secretary shall report to the Congress on the Study not later than one year after the date of the enactment of this Act \[Nov. 5, 1990\].”
+Section 4401(d) of title IV of Pub. L. 101–508, as amended by Pub. L. 104–316, title I, §122(i), Oct. 19, 1996, 110 Stat. 3837, provided for various studies and reports as follows: (1) directed Comptroller General to conduct study of drug purchasing and billing activities of various health care systems, and to submit report to Secretary of Health and Human Services and to Congress by not later than May 1, 1991; (2) directed Comptroller General to submit to Secretary and Congress report on changes in prices charged by manufacturers for prescription drugs to Department of Veterans Affairs, other Federal programs, hospital pharmacies, and other purchasing groups and managed care plans; (3) directed Secretary, acting in consultation with Comptroller General, to study prior approval procedures utilized by State medical assistance programs conducted under this subchapter, and to submit report to Congress by not later than Dec. 31, 1991; (4) directed Secretary to conduct study on adequacy of current reimbursement rates to pharmacists under each State medical assistance program conducted under this subchapter, and to submit report to Congress by not later than Dec. 31, 1991; and (5) directed Secretary to undertake study of relationship between State medical assistance plans and Federal and State acquisition and reimbursement policies for vaccines and accessibility of vaccinations and immunization to children, and to report to Congress not later than one year after Nov. 5, 1990.
 
 #### Section Referred to in Other Sections
 
@@ -814,9 +748,7 @@ This section is referred to in sections 256b, 1396a, 1396b of this title; title 
 
 <i><sup>5</sup></i><i> So in original. Probably should be “paragraph”.</i>
 
-<i><sup>6</sup></i><i> So in original. Probably should be “of”.</i>
+<i><sup>6</sup></i><i> See References in Text note below.</i>
 
-<i><sup>7</sup></i><i> See References in Text note below.</i>
-
-<i><sup>8</sup></i><i> So in original. Probably should be “biological product”.</i>
+<i><sup>7</sup></i><i> So in original. Probably should be “biological product”.</i>
 

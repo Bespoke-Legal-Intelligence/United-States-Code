@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(ii) are owned separately by two or more owners.
 
-(b)(1)(A) Whenever the interest of the United States in a tract of real property or easement referred to in subsection (a) is available for disposition under this section, the Administrator shall transmit a notice of the availability of the real property or easement to each person described in subsection (a)(2)(D)(i) who owns lands adjacent to that real property or easement.
+(b)(1)(A) Whenever the interest of the United States in a tract of real property or easementreferred to in subsection (a) is available for disposition under this section, the Administrator shall transmit a notice of the availability of the real property or easement to each person described in subsection (a)(2)(D)(i) who owns lands adjacent to that real property or easement.
 
 (B) The Administrator shall convey, for fair market value, the interest of the United States in a tract of land referred to in subsection (a), or in any easement in connection with such a tract of land, to any person or persons described in subsection (a)(2)(D)(i) who, with respect to such land, are ready, willing, and able to purchase such interest for the fair market value of such interest.
 

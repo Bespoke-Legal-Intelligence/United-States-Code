@@ -8,5 +8,5 @@ Section 354, act June 16, 1949, ch. 218, title I, §103, 63 Stat. 176, authorize
 
 #### Savings Provision
 
-Sections repealed except as to their application to any project referred to in section 613 of this title, seesection 17 of Pub. L. 86–249, set out as a note under section 341 of this title.
+Sections repealed except as to their application to any project referred to in section 613 of this title, see section 17 of Pub. L. 86–249, set out as a note under section 341 of this title.
 

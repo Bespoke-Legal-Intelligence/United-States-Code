@@ -44,5 +44,5 @@ Section 401(b) of Pub. L. 97–253 provided that: “Section 3011 \[now 5111\] o
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1806 of this title.
+This section is referred to in section 1822 of this title.
 

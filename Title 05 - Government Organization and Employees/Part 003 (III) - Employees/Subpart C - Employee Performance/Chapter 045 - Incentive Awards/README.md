@@ -11,7 +11,12 @@
 | [4505\.](Subchapter%20001%20%28I%29%20-%20Awards%20for%20Superior%20Accomplishments/%C2%A7%2004505%20-%20Awards%20to%20former%20employees.md) | Awards to former employees. |
 | [4505a.](Subchapter%20001%20%28I%29%20-%20Awards%20for%20Superior%20Accomplishments/%C2%A7%2004505a%20-%20Performance-based%20cash%20awards.md) | Performance-based cash awards. |
 | [4506\.](Subchapter%20001%20%28I%29%20-%20Awards%20for%20Superior%20Accomplishments/%C2%A7%2004506%20-%20Regulations.md) | Regulations. |
-| [4507\.](Subchapter%20001%20%28I%29%20-%20Awards%20for%20Superior%20Accomplishments/%C2%A7%2004507%20-%20Awarding%20of%20ranks%20in%20the%20Senior%20Executive%20Service.md) | Awarding of ranks in the Senior Executive Service. |
+| [4507\.](Subchapter%20001%20%28I%29%20-%20Awards%20for%20Superior%20Accomplishments/%C2%A7%2004507%20-%20Awarding%20of%20ranks%20in%20the%20Senior%20Executive%20Service.md) | Awarding of Ranks <sup>1</sup> in the Senior Executive Service. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
 | [4508\.](Subchapter%20001%20%28I%29%20-%20Awards%20for%20Superior%20Accomplishments/%C2%A7%2004508%20-%20Limitation%20of%20awards%20during%20a%20Presidential%20election%20year.md) | Limitation of awards during a Presidential election year. |
 | [4509\.](Subchapter%20001%20%28I%29%20-%20Awards%20for%20Superior%20Accomplishments/%C2%A7%2004509%20-%20Prohibition%20of%20cash%20award%20to%20Executive%20Schedule%20officers.md) | Prohibition of cash award to Executive Schedule officers. |
 
@@ -28,7 +33,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER III—AWARDS TO LAW ENFORCEMENT OFFICERS FOR FOREIGN LANGUAGE CAPABILITIES <sup>1</sup>
+#### SUBCHAPTER III—AWARDS TO LAW ENFORCEMENT OFFICERS FOR FOREIGN LANGUAGE CAPABILITIES <sup>2</sup>
 
 |  |  |
 | :--- | ---: |
@@ -53,10 +58,6 @@
 1981—Pub. L. 97–35, title XVII, §1703(b)(3), Aug. 13, 1981, 95 Stat. 756, added heading for subchapter I and subchapter II and items 4511 to 4514.
 
 1978—Pub. L. 95–454, title IV, §406(b), Oct. 13, 1978, 92 Stat. 1171, added item 4507.
-
-#### Cross References
-
-Incentive awards program for judicial branch employees, see section 604 of Title 28, Judiciary and Judicial Procedure.
 
 #### Chapter Referred to in Other Sections
 

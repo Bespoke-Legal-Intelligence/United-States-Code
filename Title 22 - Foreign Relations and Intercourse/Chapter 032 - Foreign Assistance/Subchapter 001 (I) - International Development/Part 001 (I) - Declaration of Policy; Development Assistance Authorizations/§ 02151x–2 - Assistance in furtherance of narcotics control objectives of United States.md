@@ -2,7 +2,7 @@
 
 #### (a) Waiver of certain restrictions
 
-For the purpose of reducing dependence upon the production of crops from which narcotic and psychotropic drugs are derived, the President may provide economic assistance for a country which, because of its coca production, is a major illicit drug producing country (as defined in section 481(i)(2) <sup>1</sup> of the Foreign Assistance Act of1961 (22 U.S.C. 2291(i)(2))) to promote the production, processing, or the marketing of products which can be economically produced in such country, notwithstanding the provisions of law described in subsection (b) of this section.
+For the purpose of reducing dependence upon the production of crops from which narcotic and psychotropic drugs are derived, the President may provide economic assistance for a country which, because of its coca production, is a major illicit drug producing country (as defined in section 481(i)(2) <sup>1</sup> of the Foreign Assistance Act of 1961 (22 U.S.C. 2291(i)(2))) to promote the production, processing, or the marketing of products which can be economically produced in such country, notwithstanding the provisions of law described in subsection (b) of this section.
 
 #### (b) Description of restrictions waived
 
@@ -18,7 +18,7 @@ As used in this section, the term “economic assistance” means assistance und
 
 The Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1990, referred to in subsec. (b), is Pub. L. 101–167, Nov. 21, 1989, 103 Stat. 1195. Sections 510, 521, 546, and 547 of that Act are not classified to the Code.
 
-The Foreign Assistance Act of 1961, referred to in subsecs. (a) and (c), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 1 of part I and chapter 4 of part II of the Act are classified generally to part I (§2151 et seq.) of subchapter I and part IV (§2346 et seq.) of subchapter II, respectively, of this chapter. For provisions deeming references to part I of subchapter I to include a reference to section 2293 of this title, see section 2293(d)(1) of this title. Subsec. (i) of section 481 of the Act was redesignated (e) by Pub. L. 102–583, §6(b)(3), Nov. 2, 1992, 106 Stat. 4932. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsecs. (a) and (c), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 1 of part I and chapter 4 of part II of the Act are classified generally to part I (§2151 et seq.) of subchapter I and part IV (§2346 et seq.) of subchapter II, respectively, of this chapter. For provisions deeming references to part I of subchapter I toinclude a reference to section 2293 of this title, see section 2293(d)(1) of this title. Subsec. (i) of section 481 of the Act was redesignated (e) by Pub. L. 102–583, §6(b)(3), Nov. 2, 1992, 106 Stat. 4932. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### Codification
 

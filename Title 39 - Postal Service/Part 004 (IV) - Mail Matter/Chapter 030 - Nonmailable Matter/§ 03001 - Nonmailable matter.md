@@ -1,6 +1,6 @@
 ### §3001. Nonmailable matter
 
-(a) Matter the deposit of which in the mails is punishable under section 1302, 1341, 1342, 1461, 1463, 1715, 1716, 1717, or 1738 of title 18, or section 26 of the Animal Welfare Act is nonmailable.
+(a) Matter the deposit of which in the mails is punishable under section 1302, 1341, 1342, 1461, 1463, 1715, 1716, 1717, or 1738 <sup>1</sup> of title 18, or section 26 of the Animal Welfare Act is nonmailable.
 
 (b) Except as provided in subsection (c) of this section, nonmailable matter which reaches the office of delivery, or which may be seized or detained for violation of law, shall be disposed of as the Postal Service shall direct.
 
@@ -36,7 +36,7 @@
 
 > An advertisement shall not be deemed to be unsolicited for the purposes of this paragraph if it is contained in a publication for which the addressee has paid or promised to pay a consideration or which he has otherwise indicated he desires to receive.
 
-(f) Any matter which is unsolicited by the addressee, which contains a “household substance” (as defined by section 2 of the Poison Prevention Packaging Act of 1970), and which does not comply with the requirements for special child-resistant packaging established for that substance by the Consumer Product Safety Commission, is nonmailable matter, shall not be carried or delivered by mail, and shall be disposed of as the Postal Service directs.
+(f) Any matter which is unsolicited by the addressee, which contains a “household substance” (as defined by section 2 of the Poison Prevention Packaging Act of 1970), and which does not comply with the requirements for special child-resistant packaging established for that substanceby the Consumer Product Safety Commission, is nonmailable matter, shall not be carried or delivered by mail, and shall be disposed of as the Postal Service directs.
 
 (g)(1) Matter otherwise legally acceptable in the mails which contains or includes a fragrance advertising sample is nonmailable matter, shall not be carried or delivered by mail, and shall be disposed of as the Postal Service directs, unless the sample is sealed, wrapped, treated, or otherwise prepared in a manner reasonably designed to prevent individuals from being unknowingly or involuntarily exposed to the sample.
 
@@ -52,7 +52,7 @@
 
 &emsp;(C) such matter does not contain a false representation stating or implying that Federal Government benefits or services will be affected by any purchase or nonpurchase; or
 
-&emsp;(3) such matter is contained in a publication for which the addressee has paid or promisedto pay a consideration or which he has otherwise indicated he desires to receive, except that this paragraph shall not apply if the solicitation is on behalf of the publisher of the publication.
+&emsp;(3) such matter is contained in a publication for which the addressee has paid or promised to pay a consideration or which he has otherwise indicated he desires to receive, except that this paragraph shall not apply if the solicitation is on behalf of the publisher of the publication.
 
 (i) Matter otherwise legally acceptable in the mails which constitutes a solicitation by a nongovernmental entity for information or the contribution of funds or membership fees and which reasonably could be interpreted or construed as implying any Federal Government connection, approval, or endorsement through the use of a seal, insignia, reference to the Postmaster General, citation to a Federal statute, name of a Federal agency, department, commission, or program, trade or brand name, or any other term or symbol; or contains any reference to the Postmaster General or a citation to a Federal statute that misrepresents either the identity of the mailer or the protection or status afforded such matter by the Federal Government is nonmailable matter and shall not be carried or delivered by mail, and shall be disposed of as the Postal Service directs, unless—
 
@@ -76,7 +76,7 @@
 
 &emsp;&emsp;(ii) may be obtained without cost from the Federal Government; and
 
-&emsp;(B) does not contain a clear and conspicuous statement giving notice of the information set forth in clauses (i) and (ii) of subparagraph (A).
+&emsp;(B) does not contain a clear and conspicuous statement giving notice of the information setforth in clauses (i) and (ii) of subparagraph (A).
 
 (k)(1) In this subsection—
 
@@ -166,7 +166,7 @@
 
 (6) In the enforcement of paragraph (3), the Postal Service shall consider all of the materials included in the mailing and the material and language on and visible through the envelope or outside cover or wrapper in which those materials are mailed.
 
-(<i>l</i>)(1) Any person who uses the mails for any matter to which subsection (h), (i), (j), or (k) applies shall adopt reasonable practices and procedures to prevent the mailing of such matter to any person who, personally or through a conservator, guardian, or individual with power of attorney—
+(<i>l</i>)(1) Any person who uses the mails for any matter to which subsection (h), (i), (j), or (k) applies shall adopt reasonable practices and procedures to prevent the mailing of such matter toany person who, personally or through a conservator, guardian, or individual with power of attorney—
 
 &emsp;(A) submits to the mailer of such matter a written request that such matter should not be mailed to such person; or
 
@@ -183,6 +183,8 @@
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 745; Pub. L. 91–662, §6(1), Jan. 8, 1971, 84 Stat. 1974; Pub. L. 92–191, §2, Dec. 15, 1971, 85 Stat. 647; Pub. L. 89–544, §26(h)(2), as added Pub. L. 94–279, §17, Apr. 22, 1976, 90 Stat. 423; Pub. L. 97–398, §5, Dec. 31, 1982, 96 Stat. 2011; Pub. L. 101–493, §2, Oct. 31, 1990, 104 Stat. 1184; Pub. L. 101–524, §2(a), Nov. 6, 1990, 104 Stat. 2301; Pub. L. 102–71, §2(1), July 10, 1991, 105 Stat. 330; Pub. L. 106–168, title I, §§102, 103, 110(a), Dec. 12, 1999, 113 Stat. 1806, 1808, 1817.)
 
 #### References in Text
+
+Section 1738 of title 18, referred to in subsec. (a), was repealed by Pub. L. 106–578, §4, Dec. 28, 2000, 114 Stat. 3076.
 
 Section 26 of the Animal Welfare Act, referred to in subsec. (a), is section 26(a)–(h)(1) of Pub. L. 89–544 as added by Pub. L. 94–279, §17, Apr. 22, 1976, 90 Stat. 421, which is classified to section 2156 of Title 7, Agriculture.
 
@@ -240,7 +242,7 @@ Pub. L. 106–168, title I, §111, Dec. 12, 1999, 113 Stat. 1817, provided that:
 
 #### Effective Date of 1990 Amendments
 
-Section 6 of Pub. L. 101–524 provided that: “The provisions of this Act \[enacting section 413 of this title, amending this section and section 3005 of this title, and enacting provisions set out as notes below\] shall take effect on the date of the enactment of this Act \[Nov. 6, 1990\], except the amendments made by section 2 \[amending this section and section 3005 of this title\] shall apply to matter deposited for mailing and delivery on or after 180 days after the date of the enactment of this Act.”
+Section 6 of Pub. L. 101–524 provided that: “The provisions of this Act \[enacting section 413 of this title, amending this section and section 3005 of this title, and enacting provisions set out as notes below\] shall takeeffect on the date of the enactment of this Act \[Nov. 6, 1990\], except the amendments made by section 2 \[amending this section and section 3005 of this title\] shall apply to matter deposited for mailing and delivery on or after 180 days after the date of the enactment of this Act.”
 
 Section 3 of Pub. L. 101–493 provided that: “The amendments made by this Act \[amending this section\] shall take effect 180 days after the date of enactment of this Act \[Oct. 31, 1990\], and shall apply with respect to any matter mailed on or after that effective date.”
 
@@ -291,4 +293,6 @@ Pub. L. 87–793, §307, Oct. 11, 1962, 76 Stat. 841, provided that: “In order
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 3005, 3012, 3017 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -16,7 +16,7 @@
 
 &emsp;(6) A director of admissions.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 561; Pub. L. 85–600, §1(19), Aug. 6, 1958, 72 Stat. 523; Pub. L. 96–513, title V, §514(10), Dec. 12, 1980, 94 Stat. 2935; Pub. L. 101–189, div. A, title V, §515(a)(1), Nov. 29, 1989, 103 Stat. 1441; Pub. L. 102–484, div. A, title V, §523(b), Oct. 23, 1992, 106 Stat. 2410;Pub. L. 103–160, div. A, title V, §533(b)(3), Nov. 30, 1993, 107 Stat. 1658.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 561; Pub. L. 85–600, §1(19), Aug. 6, 1958, 72 Stat. 523; Pub. L. 96–513, title V, §514(10), Dec. 12, 1980, 94 Stat. 2935; Pub. L. 101–189, div. A, title V, §515(a)(1), Nov. 29, 1989, 103 Stat. 1441; Pub. L. 102–484, div. A, title V, §523(b), Oct. 23, 1992, 106 Stat. 2410; Pub. L. 103–160, div. A, title V, §533(b)(3), Nov. 30, 1993, 107 Stat. 1658.)
 
 Historical and Revision Notes
 
@@ -89,10 +89,4 @@ Act Apr. 1, 1954, ch. 127, 68 Stat. 47, which established the Air Force Academy,
 #### Temporary Buildings and Facilities
 
 Section 4 of act Apr. 1, 1954, ch. 127, 68 Stat. 47, provided that for the purpose of providing temporary facilities and enabling early operation of the Academy, the Secretary of the Air Force was authorized to provide for the erection of the minimum additional number of temporary buildings and the modification of existing structures and facilities at an existing Air Force base and to provide for the proper functioning, equipping, maintaining, and repairing thereof; and to contract with civilian institutions for such operation or instruction as he deemed necessary.
-
-#### Cross References
-
-United States Military Academy, see section 4331 et seq. of this title.
-
-United States Naval Academy, see section 6951 et seq. of this title.
 

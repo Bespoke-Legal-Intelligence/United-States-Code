@@ -16,7 +16,7 @@ In carrying out this subchapter, the Secretary of the Interior and the Secretary
 
 &emsp;(6) provide to the extent possible, that permanent or semipermanent facilities used as Corps camps be made available to local schools, school districts, State junior colleges and universities, and other education institutions for use as environmental/ecological education camps during periods of nonuse by the Corps program.
 
-> Costs for operations maintenance, and staffing of Corps camp facilities during periods of use by non-Corps programs as well as any liability for personal injury or property damage stemming from such use shall be the responsibility of theentity or organization using the facility and shall not be a responsibility of the Secretaries or the Corps.
+> Costs for operations maintenance, and staffing of Corps camp facilities during periods of use by non-Corps programs as well as any liability for personal injury or property damage stemming from such use shall be the responsibility of the entity or organization using the facility and shall not be a responsibility of the Secretaries or the Corps.
 
 #### (b) Use of unoccupied Federal facilities and equipment
 

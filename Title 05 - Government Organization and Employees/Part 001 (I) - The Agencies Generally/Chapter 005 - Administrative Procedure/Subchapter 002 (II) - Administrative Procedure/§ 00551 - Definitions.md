@@ -142,6 +142,36 @@ Section 551 of former Title 5, Executive Departments and Government Officers and
 
 Amendment by Pub. L. 94–409 effective 180 days after Sept. 13, 1976, see section 6 of Pub. L. 94–409, set out as an Effective Date note under section 552b of this title.
 
+#### Study and Reports on Administrative Subpoenas
+
+Pub. L. 106–544, §7, Dec. 19, 2000, 114 Stat. 2719, provided that:
+
+“(a)
+
+Study on Use of Administrative Subpoenas.—Not later than December 31, 2001, the Attorney General, in consultation with the Secretary of the Treasury, shall complete a study on the use of administrative subpoena power by executive branch agencies or entities and shall report the findings to the Committees on the Judiciary of the Senate and the House of Representatives. Such report shall include—
+
+&emsp;“(1) a description of the sources of administrative subpoena power and the scope of such subpoena power within executive branch agencies;
+
+&emsp;“(2) a description of applicable subpoena enforcement mechanisms;
+
+&emsp;“(3) a description of any notification provisions and any other provisions relating to safeguarding privacy interests;
+
+&emsp;“(4) a description of the standards governing the issuance of administrative subpoenas; and
+
+&emsp;“(5) recommendations from the Attorney General regarding necessary steps to ensure that administrative subpoena power is used and enforced consistently and fairly by executive branch agencies.
+
+“(b)
+
+Report on Frequency of Use of Administrative Subpoenas.—
+
+&emsp;“(1)
+
+In general.—The Attorney General and the Secretary of the Treasury shall report in January of each year to the Committees on the Judiciary of the Senate and the House of Representatives on the number of administrative subpoenas issued by them under this section and the identity of the agency or component of the Department of Justice or the Department of the Treasury issuing the subpoena and imposing the charges.
+
+&emsp;“(2)
+
+Expiration.—The reporting requirement of this subsection shall terminate in 3 years after the date of the enactment of this section \[Dec. 19, 2000\].”
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 500, 504, 552, 562, 571, 592, 595, 601, 701, 804, 3344, 3348 of this title; title 2 sections 501, 502, 658, 1602; title 7 section 6997; title 15 sections 78d–1, 78w, 632, 637c, 766, 2053, 3412, 3416, 6501; title 16 section 470w; title 22 sections 3731, 6033, 6741; title 26 sections 6103, 9041; title 30 sections 185, 956; title 31 sections 3901, 6101, 7501; title 41 section 422; title 42 sections 2231, 2992c, 6107, 6241, 6393, 7191, 8259, 8262, 11317, 11504; title 46 sections 7702, 9303; title 47 sections 155, 409; title 49 sections 106, 11324; title 50 App. sections 2159, 2412.

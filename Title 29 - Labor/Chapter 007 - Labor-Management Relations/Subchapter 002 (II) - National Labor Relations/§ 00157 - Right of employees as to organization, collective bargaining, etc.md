@@ -12,10 +12,6 @@ Employees shall have the right to self-organization, to form, join, or assist la
 
 For effective date of amendment by act June 23, 1947, see section 104 of act June 23, 1947, set out as a note under section 151 of this title.
 
-#### Communist Organizations and Members
-
-Prohibitions placed on Communist organizations, and members thereof, with respect to labor, see section 781 et seq. of Title 50, War and National Defense, particularly sections 782(4A), 784, 792a, and 841 to 844 of that title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 158, 158a, 175a, 433 of this title; title 18 section 1951.

@@ -34,6 +34,10 @@ The Social Security Act, referred to in subsec. (a)(2), is act Aug. 14, 1935, ch
 
 The Federal tort claim provisions in title 28, referred to in subsec. (a)(4), are the provisions of the Federal Tort Claims Act, which is classified generally to section 1346(b) and chapter 171 (§2671 et seq.) of Title 28, Judiciary and Judicial Procedure.
 
+#### Prior Provisions
+
+Provisions similar to this section were contained in section 1706 of this title prior to repeal by Pub. L. 105–220.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 2900 of this title.

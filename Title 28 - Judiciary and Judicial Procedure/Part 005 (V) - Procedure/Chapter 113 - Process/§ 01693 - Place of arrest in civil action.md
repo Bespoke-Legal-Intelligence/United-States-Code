@@ -14,9 +14,3 @@ The exception at the beginning of the section was substituted for “Except as p
 
 Changes were made in phraseology.
 
-#### Cross References
-
-Venue generally, see section 1391 of this title.
-
-Waiver of venue, see section 1406 of this title.
-

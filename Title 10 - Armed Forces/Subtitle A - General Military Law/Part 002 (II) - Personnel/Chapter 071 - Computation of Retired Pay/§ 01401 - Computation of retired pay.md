@@ -140,7 +140,7 @@ Pub. L. 98–94, §923(a)(1), (2)(A), in footnote 3 of table, substituted “Bef
 
 1980—Pub. L. 96–513, §113(a), inserted formula 5 in table of formulae set out in the section and added footnote 5.
 
-Pub. L. 96–513, §511(49), in formula 4 table of sections struck out reference to section 1255, in heading for Column 1 substituted reference to Sept. 7, 1980, for reference to date of enactment of Department of DefenseAuthorization Act, 1981, and in footnote 4 substituted reference to master chief petty officer of the Navy, for reference to senior enlisted advisor of the Navy.
+Pub. L. 96–513, §511(49), in formula 4 table of sections struck out reference to section 1255, in heading for Column 1 substituted reference to Sept. 7, 1980, for reference to date of enactment of Department of Defense Authorization Act, 1981, and in footnote 4 substituted reference to master chief petty officer of the Navy, for reference to senior enlisted advisor of the Navy.
 
 Pub. L. 96–342 in heading for column 1 of table inserted provisions respecting applicability to persons becoming members after the date of the enactment of the Department of Defense Authorization Act, 1981.
 
@@ -232,7 +232,7 @@ Repeal of source law.—Section 8054 of the Department of Defense Appropriations
 
 “(5)
 
-Cross reference.—For the effective date of October 1, 1983, for provisions making permanent programmatic changes in law to accomplish the policy provided in such section 8054 (and prior provisions of law), see section 923(h) of the Department of Defense Authorization Act, 1984 (Public Law 98–94) \[probably means section 923(g) of Pub. L. 98–94, set out as an Effective Date of 1983 Amendment note under section 1174 of this title\].”
+Cross reference.—For the effective date of October 1, 1983, for provisions making permanent programmatic changes in law to accomplish the policy provided in such section 8054 (and prior provisions of law), see section 923(h) of the Department of DefenseAuthorization Act, 1984 (Public Law 98–94) \[probably means section 923(g) of Pub. L. 98–94, set out as an Effective Date of 1983 Amendment note under section 1174 of this title\].”
 
 #### Limitation on Payment of Retired or Retainer Pay To Reflect Fractional Year Adjustments
 
@@ -284,29 +284,11 @@ Section 1(b) of Pub. L. 85–855 provided that the amendment of section 4(a) of 
 
 #### Public Health Service
 
-Authority vested by this chapter in “military departments”, “the Secretary concerned”, or “the Secretaryof Defense” to be exercised, with respect to commissioned officers of Public Health Service, by Secretary of Health and Human Services or his designee, see section 213a of Title 42, The Public Health and Welfare.
+Authority vested by this chapter in “military departments”, “the Secretary concerned”, or “the Secretary of Defense” to be exercised, with respect to commissioned officers of Public Health Service, by Secretary of Health and Human Services or his designee, see section 213a of Title 42, The Public Health and Welfare.
 
 #### National Oceanic and Atmospheric Administration
 
 Authority vested by this chapter in “military departments”, “the Secretary concerned”, or “the Secretary of Defense” to be exercised, with respect to commissioned officer corps of National Oceanic and Atmospheric Administration, by Secretary of Commerce or his designee, see section 857a of Title 33, Navigation and Navigable Waters.
-
-#### Cross References
-
-Computation of years of service for purposes of formula 4, see section 1405 of this title.
-
-Injury causing disability, computation of retired pay, see section 1204 of this title.
-
-Permanence of temporary disability, see section 1210 of this title.
-
-Reduction in retired pay, see section 5532 of Title 5, Government Organization and Employees.
-
-Retired pay for nonregular service, see section 12731 et seq. of this title.
-
-Retirement of warrant officers upon second failure of promotion, see section 580 of this title.
-
-Retirement or separation for physical disability, see section 1201 et seq. of this title.
-
-Temporary disability, computation of retired pay, see sections 1202 and 1205 of this title.
 
 #### Section Referred to in Other Sections
 

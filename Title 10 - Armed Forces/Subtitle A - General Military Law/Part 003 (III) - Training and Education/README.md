@@ -13,10 +13,13 @@
 | [<b>109.</b>](Chapter%20109%20-%20Educational%20Loan%20Repayment%20Programs/README.md) | <b>Educational Loan Repayment Programs</b> | <b>2171</b> |
 | [<b>110.</b>](Chapter%20110%20-%20Educational%20Assistance%20for%20Members%20Held%20as%20Captives%20and%20Their%20Dependents/README.md) | <b>Educational Assistance for Members Held as Captives and Their Dependents</b> | <b>2181</b> |
 | [<b>111.</b>](Chapter%20111%20-%20Support%20of%20Science%2C%20Mathematics%2C%20and%20Engineering%20Education/README.md) | <b>Support of Science, Mathematics, and Engineering Education</b> | <b>2191</b> |
+| [<b>112.</b>](Chapter%20112%20-%20Information%20Security%20Scholarship%20Program/README.md) | <b>Information Security Scholarship Program</b> | <b>2200</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2000—Pub. L. 106–398, §1 \[\[div. A\], title IX, §922(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–236, added item for chapter 112.
 
 1991—Pub. L. 102–25, title VII, §701(e)(2), Apr. 6, 1991, 105 Stat. 114, inserted “2161” in item for chapter 108.
 
@@ -60,3 +63,4 @@ Pub. L. 96–342, title IX, §901(b), Sept. 8, 1980, 94 Stat. 1114, added item f
 - [Chapter 109 - Educational Loan Repayment Programs](Chapter%20109%20-%20Educational%20Loan%20Repayment%20Programs/README.md)
 - [Chapter 110 - Educational Assistance for Members Held as Captives and Their Dependents](Chapter%20110%20-%20Educational%20Assistance%20for%20Members%20Held%20as%20Captives%20and%20Their%20Dependents/README.md)
 - [Chapter 111 - Support of Science, Mathematics, and Engineering Education](Chapter%20111%20-%20Support%20of%20Science%2C%20Mathematics%2C%20and%20Engineering%20Education/README.md)
+- [Chapter 112 - Information Security Scholarship Program](Chapter%20112%20-%20Information%20Security%20Scholarship%20Program/README.md)

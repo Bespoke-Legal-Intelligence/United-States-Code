@@ -36,9 +36,3 @@ Sec. 3. Executive Order No. 10347, April 18, 1952, as amended by Executive Order
 
 Richard Nixon.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Cross References
-
-Powers of United States marshals, see section 3053 of this title.
-
-United States marshals generally, see section 561 et seq. of Title 28, Judiciary and Judicial Procedure.
-

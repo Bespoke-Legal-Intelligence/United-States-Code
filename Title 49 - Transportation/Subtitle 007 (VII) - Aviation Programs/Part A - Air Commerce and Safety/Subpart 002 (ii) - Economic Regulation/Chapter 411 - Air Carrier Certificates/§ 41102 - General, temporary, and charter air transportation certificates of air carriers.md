@@ -102,11 +102,11 @@ In subsection (b)(1), the word “comply” is substituted for “conform” for
 
 In subsection (b)(2), the words “foreign air transportation” are added because 49 App.:1551(a)(1)(A) provides that 49 App.:1371(d)(1)–(3) no longer applies to interstate or overseas transportation of persons. After January 1, 1985, other interstate and overseas air transportation and the domestic air transportation of mail do not require a certificate of public convenience and necessity. See H. Rept. 98–793, 98th Cong., 2d Sess., p.10 (1984).
 
-In subsection (c), before clause (1), the words “issue a certificate” are substituted for “grant an application” for consistency in this chapter. The words “for interstate air transportation (except the transportation of passengers) or foreign air transportation” are added for clarity and consistency. The word “only” is omitted as surplus. In clause (1), the word “prices” is substituted for “rates, fares, charges” because of the definition of “price” in section 40102(a) of the revised title. The words “in fact” are omitted as surplus. In clause (2), the words “to assess the impact of the new services on the national air route structure, or otherwise” are omitted as surplus.
+In subsection (c), before clause (1), the words “issue a certificate” are substituted for “grant an application” for consistency in this chapter. The words “for interstate air transportation (except the transportation of passengers) or foreign air transportation” are added for clarity and consistency. The word “only” is omitted as surplus. In clause (1), the word “prices” is substituted for “rates, fares, charges” because of the definition of “price” in section 40102(a) of the revised title. The words “in fact” are omitted as surplus. In clause (2), the words “to assess the impact of the newservices on the national air route structure, or otherwise” are omitted as surplus.
 
 Subsection (d) is added for clarity.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 40109, 40118, 41104, 41105, 41106, 41107, 41108, 41109, 41110, 41111, 41112, 41113, 41307, 41312, 41505, 41709, 41713, 44901, 44915, 46301, 46316, 47102 of this title; title 22 section 3650; title 29 section 1301; title 39 section 5402.
+This section is referred to in sections 40109, 40118, 41104, 41105, 41106, 41107, 41108, 41109, 41110, 41111, 41112, 41113, 41307, 41312, 41505, 41709, 41713, 41762, 44901, 44915, 46301, 46316, 47102 of this title; title 22 section 3650; title 29 section 1301; title 39 section 5402.
 

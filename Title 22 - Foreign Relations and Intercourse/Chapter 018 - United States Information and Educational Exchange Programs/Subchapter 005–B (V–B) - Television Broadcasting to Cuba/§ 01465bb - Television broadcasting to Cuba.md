@@ -10,7 +10,7 @@ Television broadcasting to Cuba under this subchapter shall be in accordance wit
 
 #### (c) Television Marti
 
-Any program of United States Government television broadcasts to Cuba authorized by thissection shall be designated the “Television Marti Program”.
+Any program of United States Government television broadcasts to Cuba authorized by this section shall be designated the “Television Marti Program”.
 
 #### (d) Frequency assignment
 
@@ -63,6 +63,10 @@ Subsec. (c). Pub. L. 105–277, §1325(2), in heading struck out “USIA” befo
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsec. (f) of this section is listed on page 167), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “ ‘Board’ ”.</i>
 

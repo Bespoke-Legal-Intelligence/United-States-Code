@@ -14,11 +14,11 @@
 
 &emsp;(1) accumulates for future use without regard to the limitation in section 6304(b) of this title;
 
-&emsp;(2) may not be made the basis for a lump-sum payment; and
+&emsp;(2) may not be made the basis for a lump-sum payment, except that civil service mariners of the Military Sealift Command on temporary promotion aboard ship may be paid the difference between their temporary and permanent rates of pay for leave accrued under this section and section 6303 and not otherwise used during the temporary promotion upon the expiration or termination of the temporary promotion; and
 
 &emsp;(3) may not be made the basis for terminal leave except under such special or emergency circumstances as may be prescribed under the regulations of the Office.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 520; Pub. L. 89–747, §1(1), (2), Nov. 2, 1966, 80 Stat. 1179; Pub. L. 90–623, §1(16), Oct. 22, 1968, 82 Stat. 1313; Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–54, §2(a)(15), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–465, title II, §§2312(c), 2314(f)(2), Oct. 17, 1980, 94 Stat. 2167, 2168.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 520; Pub. L. 89–747, §1(1), (2), Nov. 2, 1966, 80 Stat. 1179; Pub. L. 90–623, §1(16), Oct. 22, 1968, 82 Stat. 1313; Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–54, §2(a)(15), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–465, title II, §§2312(c), 2314(f)(2), Oct. 17, 1980, 94 Stat. 2167, 2168; Pub. L. 106–398, §1 \[\[div. A\], title XI, §1133\], Oct. 30, 2000, 114 Stat. 1654, 1654A–318.)
 
 Historical and Revision Notes
 
@@ -51,6 +51,8 @@ The words “in his discretion” are omitted as unnecessary in view of the perm
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
 #### Amendments
+
+2000—Subsec. (c)(2). Pub. L. 106–398 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “may not be made the basis for a lump-sum payment; and”.
 
 1980—Subsec. (a). Pub. L. 96–465, §2312(c), inserted “(or after a shorter period of such service if the employee's assignment is terminated for the convenience of the Government)” after “outside the United States”.
 

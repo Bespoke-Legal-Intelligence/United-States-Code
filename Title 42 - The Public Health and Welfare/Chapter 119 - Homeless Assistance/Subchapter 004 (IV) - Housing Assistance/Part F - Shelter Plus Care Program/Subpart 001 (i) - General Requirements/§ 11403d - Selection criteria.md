@@ -28,7 +28,7 @@ No more than 10 percent of the assistance made available under this part for any
 
 #### (c) Participation of homeless individuals
 
-The Secretary shall, by regulation, require each recipient to provide for the consultation and participation of not less than one homeless individual or former homeless individual on the board of directors or other equivalent policymaking entity of the recipient, to the extent that such entity considers and makes policies and decisions regarding any housing assisted under this part or services for such housing. The Secretary may grant waivers to recipients unable to meet the requirement under the preceding sentence if the recipient agrees to otherwise consult with homeless or formerly homeless individuals in considering and making such policies and decisions.
+The Secretary shall, by regulation, require each recipient to provide for the consultation and participation of not less than one homeless individual or former homeless individual on theboard of directors or other equivalent policymaking entity of the recipient, to the extent that such entity considers and makes policies and decisions regarding any housing assisted under this part or services for such housing. The Secretary may grant waivers to recipients unable to meet the requirement under the preceding sentence if the recipient agrees to otherwise consult with homeless or formerly homeless individuals in considering and making such policies and decisions.
 
 (Pub. L. 100–77, title IV, §455, as added Pub. L. 101–625, title VIII, §837(a), Nov. 28, 1990, 104 Stat. 4369; amended Pub. L. 102–550, title XIV, §1406(b), Oct. 28, 1992, 106 Stat. 4030.)
 

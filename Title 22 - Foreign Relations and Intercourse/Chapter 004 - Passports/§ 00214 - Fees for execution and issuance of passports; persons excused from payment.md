@@ -40,10 +40,6 @@ Pub. L. 103–317, title V, Aug. 26, 1994, 108 Stat. 1760, provided in part “T
 
 Pub. L. 101–604, title II, §203(d), Nov. 16, 1990, 104 Stat. 3083, provided that: “Notwithstanding any other provision of law, to the extent provided in appropriation Acts, for each fiscal year not more than $5,000,000 in passport fees collected by the Department of State may be credited to a Department of State account. Amounts credited to such account shall be available only for the costs associated with the acquisition and production of machine-readable United States passports and visas and compatible reading equipment. Amounts credited to such account are authorized to remain available until expended.”
 
-#### Cross References
-
-Red Cross employees cooperating with and assisting armed forces, exemption from payment of fee, see section 2602 of Title 10, Armed Forces.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 214a, 2504 of this title.

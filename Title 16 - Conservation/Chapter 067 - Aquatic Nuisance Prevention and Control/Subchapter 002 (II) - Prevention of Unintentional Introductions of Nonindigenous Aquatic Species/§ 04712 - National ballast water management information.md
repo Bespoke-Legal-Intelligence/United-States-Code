@@ -80,11 +80,11 @@ The Secretary, working through the International Maritime Organization, is encou
 
 Out of amounts appropriated to carry out this subsection for a fiscal year, the Under Secretary may—
 
-&emsp;(1) make available not to exceed $750,000 to fund research on aquatic nuisance species prevention and control in the Chesapeake Bay through grants, to be competitively awardedand subject to peer review, to universities and research institutions;
+&emsp;(1) make available not to exceed $750,000 to fund research on aquatic nuisance species prevention and control in the Chesapeake Bay through grants, to be competitively awarded and subject to peer review, to universities and research institutions;
 
 &emsp;(2) make available not to exceed $500,000 to fund research on aquatic nuisance species prevention and control in the Gulf of Mexico through grants, to be competitively awarded and subject to peer review, to universities and research institutions;
 
-&emsp;(3) make available not to exceed $500,000 to fund research on aquatic nuisance species prevention and control for the Pacific Coast through grants, to be competitively awarded and subject to peer review, to universities and research institutions;
+&emsp;(3) make available not to exceed $500,000 to fund research on aquatic nuisance species prevention and control for the Pacific Coastthrough grants, to be competitively awarded and subject to peer review, to universities and research institutions;
 
 &emsp;(4) make available not to exceed $500,000 to fund research on aquatic nuisance species prevention and control for the Atlantic Coast through grants, to be competitively awarded and subject to peer review, to universities and research institutions; and
 

@@ -38,5 +38,5 @@ Transfer of functions to Secretary of Commerce from Secretary of the Interior by
 
 #### Refund of License Fees Paid Under Subchapter I of This Chapter
 
-Section 16 of act Aug. 9, 1950, provided in part that the Secretary of the Interior is authorized to refundany part of a license fee paid under former section 908 of this title that is in excess of the license fee required under this section.
+Section 16 of act Aug. 9, 1950, provided in part that the Secretary of the Interior is authorized to refund any part of a license fee paid under former section 908 of this title that is in excess of the license fee required under this section.
 

@@ -24,10 +24,6 @@
 
 For extension of time for the award of decorations, or devices in lieu of decorations, for acts or services performed in direct support of military operations in Southeast Asia between July 1, 1958, and Mar. 28, 1973, see Pub. L. 93–469, Oct. 24, 1974, 88 Stat. 1422, set out as a note preceding section 3741 of this title.
 
-#### Cross References
-
-General military law provisions, see section 1121 et seq. of this title.
-
 
 ---
 

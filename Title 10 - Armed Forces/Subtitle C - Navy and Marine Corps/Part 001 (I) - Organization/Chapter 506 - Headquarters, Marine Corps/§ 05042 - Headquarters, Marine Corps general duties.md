@@ -4,7 +4,7 @@
 
 (b) Under the authority, direction, and control of the Secretary of the Navy, the Headquarters, Marine Corps, shall—
 
-&emsp;(1) subject to subsections (c) and (d) of section 5014 of this title, prepare for such employment of the Marine Corps, and for such recruiting, organizing, supplying, equipping (including research and development), training, servicing, mobilizing, demobilizing, administering, and maintaining of the Marine Corps, as will assist in the execution of any power,duty, or function of the Secretary or the Commandant;
+&emsp;(1) subject to subsections (c) and (d) of section 5014 of this title, prepare for such employment of the Marine Corps, and for such recruiting, organizing, supplying, equipping (including research and development), training, servicing, mobilizing, demobilizing, administering, and maintaining of the Marine Corps, as will assist in the execution of any power, duty, or function of the Secretary or the Commandant;
 
 &emsp;(2) investigate and report upon the efficiency of the Marine Corps and its preparation to support military operations by combatant commanders;
 

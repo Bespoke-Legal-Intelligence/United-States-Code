@@ -36,5 +36,5 @@ July 13, 1955, ch. 358, §614, 69 Stat. 317.
 
 5:174e (words within parentheses).
 
-In subsection (a), the words “may be used” are substituted for the words “shall be available”. The words “on account of” are omitted as surplusage. The words “under his jurisdiction” are inserted for clarity, since the Secretary of Defense has no jurisdiction over the Coast Guard when it is not operating as a service in the Navy.
+In subsection (a), the words “may be used” are substituted for the words “shall be available”. The words “on account of” are omitted as surplusage. The words “under his jurisdiction” are inserted for clarity, since the Secretary of Defense has no jurisdiction over theCoast Guard when it is not operating as a service in the Navy.
 

@@ -6,5 +6,5 @@ Nothing in sections 521c to 521i of this title shall authorize conveyance of Fed
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 521c, 521e, 521f, 521g, 521h of this title; title 43 section 1716.
+This section is referred to in sections 521c, 521e, 521f, 521g, 521h, 698v–7 of this title; title 43 section 1716.
 

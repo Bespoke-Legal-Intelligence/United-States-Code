@@ -4,7 +4,7 @@ Any order issued pursuant to this chapter shall contain such terms and condition
 
 #### (a) Establishment; powers
 
-&emsp;for the establishment and appointment by the Secretary of a Wheat Industry Council which shall consist of not more than twenty members and alternates therefor, and for the definition of its powers and duties which shall include only the powers enumerated in this section, and shall specifically include the powers to (1) administer such order in accordance with its terms and provisions, (2) make rules and regulations to effectuate the terms and provisions of such order, (3) receive, investigate, and report to the Secretary complaints of violations of such order, and (4) recommend to the Secretary amendments to such order. The term of an appointment to the Council shall be for two years with no member serving more than three consecutive terms, except that initial appointments shall be proportionately for two-year and three-year terms;
+&emsp;for the establishment and appointment by the Secretary of a Wheat Industry Council which shall consist of not more than twenty members and alternates therefor, and for thedefinition of its powers and duties which shall include only the powers enumerated in this section, and shall specifically include the powers to (1) administer such order in accordance with its terms and provisions, (2) make rules and regulations to effectuate the terms and provisions of such order, (3) receive, investigate, and report to the Secretary complaints of violations of such order, and (4) recommend to the Secretary amendments to such order. The term of an appointment to the Council shall be for two years with no member serving more than three consecutive terms, except that initial appointments shall be proportionately for two-year and three-year terms;
 
 #### (b) Membership
 
@@ -28,7 +28,7 @@ Any order issued pursuant to this chapter shall contain such terms and condition
 
 #### (g) Contracts
 
-&emsp;that the Council, with the approval of the Secretary, may enter into contracts or agreements for the development and conduct of the activities authorized under the order pursuant to terms and conditions specified in clauses (a) and (b) of section of this title and for the payment of the cost thereof with funds collected through the assessments pursuant to the order. Any such contract or agreement shall provide that the contractors shall develop and submit to the Council a plan or project together with a budget or budgets which shall show estimated costs to be incurred for such plan or project, and that any such plan or project shall become effective upon the approval of the Secretary, and further, shall provide that the contracting party shall keep accurate records of all of its transactions and make periodic reports to the Council of activities conducted and an accounting for funds received and expended, and such other reports as the Secretary may require;
+&emsp;that the Council, with the approval of the Secretary, may enter into contracts or agreements for the development and conduct of the activities authorized under the order pursuant to terms and conditions specified in clauses (a) and (b) of section of this title and for the payment of the cost thereof with funds collected through the assessments pursuant to the order. Any such contract or agreement shall provide that the contractors shall develop and submit to the Council a plan or project together with a budget or budgets which shall show estimated costs to be incurred for such plan or project, and that any such plan or project shall become effective upon the approval of the Secretary, and further, shall provide that the contracting party shall keep accurate records of all of its transactions andmake periodic reports to the Council of activities conducted and an accounting for funds received and expended, and such other reports as the Secretary may require;
 
 #### (h) Investment of assessment funds
 
@@ -40,7 +40,7 @@ Any order issued pursuant to this chapter shall contain such terms and condition
 
 #### (j) Reimbursement of expenses
 
-&emsp;that the Council members, and alternates therefor, shall serve without compensation,but shall be reimbursed for their reasonable expenses incurred in performing their duties as members of the Council.
+&emsp;that the Council members, and alternates therefor, shall serve without compensation, but shall be reimbursed for their reasonable expenses incurred in performing their duties as members of the Council.
 
 (Pub. L. 95–113, title XVII, §1706, Sept. 29, 1977, 91 Stat. 1034.)
 

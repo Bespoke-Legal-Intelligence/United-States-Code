@@ -22,7 +22,7 @@ Regular Special Pay.—Each of the following officers is entitled to special pay
 
 (b)
 
-Retention Special Pay.—(1) Under regulations prescribed under section 303a(a) of this title, an officer described in paragraph (2) may be paid retention special pay of not more than $6,000 for any twelve-month period during which the officer is not undergoing an internship or initial residency training.
+Retention Special Pay.—(1) Under regulations prescribed under section 303a(a) of this title, the Secretary concerned may pay an officer described in paragraph (2) a retention special pay of not more than $6,000 for any twelve-month period during which the officer is not undergoing an internship or initial residency training.
 
 (2) An officer referred to in paragraph (1) is an officer of a uniformed service who—
 
@@ -36,9 +36,11 @@ Retention Special Pay.—(1) Under regulations prescribed under section 303a(a) 
 
 (4) The Secretary concerned may terminate at any time the eligibility of an officer to receive retention special pay under paragraph (1). If such eligibility is terminated, the officer concerned shall receive such special pay only for the part of the period of active duty that the officer served and may be required to refund any amount in excess of that amount.
 
-(Added Pub. L. 92–129, title II, §202(a), Sept. 28, 1971, 85 Stat. 357; amended Pub. L. 93–64, title II, §202, July 9, 1973, 87 Stat. 149; Pub. L. 95–114, §2, Sept. 30, 1977, 91 Stat. 1046; Pub. L. 95–485, title VIII, §801(b), Oct. 20, 1978, 92 Stat. 1619; Pub. L. 96–284, §4(a), June 28, 1980, 94 Stat. 591; Pub. L. 100–26, §8(d)(2), Apr. 21, 1987, 101 Stat. 285; Pub. L. 101–510, div. A, title VI, §617(a), Nov. 5, 1990, 104 Stat. 1578; Pub. L. 104–201, div. A, title VI, §614(a), Sept. 23, 1996, 110 Stat. 2544.)
+(Added Pub. L. 92–129, title II, §202(a), Sept. 28, 1971, 85 Stat. 357; amended Pub. L. 93–64, title II, §202, July 9, 1973, 87 Stat. 149; Pub. L. 95–114, §2, Sept. 30, 1977, 91 Stat. 1046; Pub. L. 95–485, title VIII, §801(b), Oct. 20, 1978, 92 Stat. 1619; Pub. L. 96–284, §4(a), June 28, 1980, 94 Stat. 591; Pub. L. 100–26, §8(d)(2), Apr. 21, 1987, 101 Stat. 285; Pub. L. 101–510, div. A, title VI, §617(a), Nov. 5, 1990, 104 Stat. 1578; Pub. L. 104–201, div. A, title VI, §614(a), Sept. 23, 1996, 110 Stat. 2544; Pub. L. 106–398, §1 \[\[div. A\], title VI, §626(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–153.)
 
 #### Amendments
+
+2000—Subsec. (b)(1). Pub. L. 106–398 substituted “the Secretary concerned may pay an officer described in paragraph (2) a” for “an officer described in paragraph (2) may be paid”.
 
 1996—Subsec. (b)(2). Pub. L. 104–201, §614(a)(1)(A), substituted “a uniformed service” for “an armed force” in introductory provisions.
 
@@ -50,7 +52,7 @@ Subsec. (b)(4). Pub. L. 104–201, §614(a)(2), struck out “of the military de
 
 1987—Pub. L. 100–26 substituted “A” for “a” at beginning of pars. (1) to (3), “; or” for “, or” at end of par. (1)(A), period for semicolon at end of par. (1)(B), and period for “; and” at end of par. (2).
 
-1980—Pub. L. 96–284 substituted “Each” for “(a) In addition to any other basic pay, special pay, incentive pay or allowance to which he is entitled, each”, struck out “beginning on or after October 1, 1977” after “active duty”, struck out subsec. (b) which prohibited inclusion of active duty monthly special pay in computation of amount of increase in pay authorized in any other provision of this title or in computation of retired pay or severance pay, now covered in section 303a(b) of this title, and struck out subsec. (c) which provided that no special pay be paid for any month after September 1980.
+1980—Pub. L. 96–284 substituted “Each” for “(a) In addition to any other basic pay, special pay, incentive pay or allowance to which he is entitled, each”, struckout “beginning on or after October 1, 1977” after “active duty”, struck out subsec. (b) which prohibited inclusion of active duty monthly special pay in computation of amount of increase in pay authorized in any other provision of this title or in computation of retired pay or severance pay, and struck out subsec. (c) which provided that no special pay be paid for any month after September 1980.
 
 1978—Subsec. (c). Pub. L. 95–485 substituted “September 1980” for “September 1978”.
 
@@ -74,11 +76,7 @@ Section 209 of title II of Pub. L. 92–129 provided that: “The foregoing prov
 
 #### Implementation of Subsection (b)
 
-Section 617(b) of Pub. L. 101–510 provided that: “The Secretary of Defense may not implement subsection (b) of section 302a of title 37, United States Code (as added by subsection (a)), unless the Secretary submits to the Committees on Armed Services of the Senate and House of Representatives a report—
-
-&emsp;“(1) justifying the need of the military departments for the authority provided in such subsection; and
-
-&emsp;“(2) describing the manner in which that authority will be implemented.”
+Pub. L. 101–510, div. A, title VI, §617(b), Nov. 5, 1990, 104 Stat. 1579, provided that the Secretary of Defense could not implement subsec. (b) of this section, unless the Secretary submitted to the Committees on Armed Services of the Senate and House of Representatives a report justifying the need of the military departments for the authority provided in such subsection and describing the manner in which that authority would be implemented, prior to repeal by Pub. L. 106–398, §1 \[\[div. A\], title VI, §626(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–153.
 
 #### Pay Continuation
 

@@ -20,7 +20,3 @@ Mar. 4, 1911, ch. 285, 36 Stat. 1414.
 
 June 25, 1910, ch. 384, 36 Stat. 738.
 
-#### Cross References
-
-Change in architectural or landscape features of Capitol or grounds without approval of Congress, see section 162 of this title.
-

@@ -22,7 +22,7 @@ Before an adverse action is taken with respect to an applicant for federally ass
 
 #### (e) Fee
 
-A public housing agency may be charged a reasonable fee for taking actions under subsection (b) of this section. In the case of a public housing agency taking actions on behalf of another owner of federally assisted housing pursuant to subsection (c) of this section, the agency maypass such fee on to the owner making the request and may charge an additional reasonable fee for making the request on behalf of the owner.
+A public housing agency may be charged a reasonable fee for taking actions under subsection (b) of this section. In the case of a public housing agency taking actions on behalf of another owner of federally assisted housing pursuant to subsection (c) of this section, the agency may pass such fee on to the owner making the request and may charge an additional reasonable fee for making the request on behalf of the owner.
 
 #### (f) Records management
 

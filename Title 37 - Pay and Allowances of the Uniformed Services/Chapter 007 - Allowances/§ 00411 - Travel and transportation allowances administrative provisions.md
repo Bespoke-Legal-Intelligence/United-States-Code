@@ -76,10 +76,6 @@ Amendment by Pub. L. 96–343 effective with respect to travel and transportatio
 
 Amendment by Pub. L. 89–26 effective Feb. 1, 1965, see section 2 of Pub. L. 89–26, as amended, set out as an Effective Date note under section 405a of this title.
 
-#### Cross References
-
-Assimilation of pay and allowances, see section 1003 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 420, 1003 of this title.

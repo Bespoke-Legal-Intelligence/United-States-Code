@@ -40,24 +40,6 @@ Subsec. (b). Pub. L. 103–322, §320101(a)(2), inserted “or inflicts bodily i
 
 “Whoever, in the commission of any such acts uses a deadly or dangerous weapon, shall be fined not more than $10,000 or imprisoned not more than ten years, or both.”
 
-#### Cross References
-
-Bank robbery, assault in committing, see section 2113 of this title.
-
-Indians—
-
-&emsp;&emsp;Assault by Indian in Indian country, see section 1153 of this title.
-
-&emsp;&emsp;Jurisdiction of offenses by Indians in Indian country, see section 3242 of this title.
-
-Mail clerk or custodian, assault on, see sections 2114 and 2116 of this title.
-
-Persons authorized to serve or execute warrants or to make searches and seizures, assault on, see section 2231 of this title.
-
-Piracy, assault on commander as, see section 1655 of this title.
-
-Process server, assault on, see section 1501 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 115, 3050 of this title; title 7 sections 84, 87c; title 16 section 742<i>l</i>; title 19 section 1629; title 22 section 2709; title 25 section 2804; title 42 sections 2000e–13, 2283.

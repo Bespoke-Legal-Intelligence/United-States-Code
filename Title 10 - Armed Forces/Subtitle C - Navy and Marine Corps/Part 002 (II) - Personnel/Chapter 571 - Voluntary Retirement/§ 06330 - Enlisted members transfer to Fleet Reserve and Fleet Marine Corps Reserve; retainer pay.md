@@ -24,7 +24,7 @@
 
 &emsp;(ii) an enlistment of the member terminated within three months before the end of the term of enlistment is counted as active service for the full term.
 
-(B) In the case of a member who is transferred to the Fleet Reserve or the Fleet Marine CorpsReserve under this section after December 30, 1977, service attributable under subparagraph (A) to time which, after December 31, 1977, is not actually served by the member may not be counted.
+(B) In the case of a member who is transferred to the Fleet Reserve or the Fleet Marine Corps Reserve under this section after December 30, 1977, service attributable under subparagraph (A) to time which, after December 31, 1977, is not actually served by the member may not be counted.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 396; Pub. L. 85–583, §1(2), (3), Aug. 1, 1958, 72 Stat. 480; Pub. L. 90–207, §3(4), Dec. 16, 1967, 81 Stat. 653; Pub. L. 96–342, title VIII, §813(d)(5), Sept. 8, 1980, 94 Stat. 1105; Pub. L. 96–513, title V, §513(17), (19), Dec. 12, 1980, 94 Stat. 2932; Pub. L. 98–94, title IX, §923(c)(3), Sept. 24, 1983, 97 Stat. 643; Pub. L. 99–348, title II, §203(b)(6), title III, §305(a)(1), July 1, 1986, 100 Stat. 696, 704; Pub. L. 101–189, div. A, title VI, §652(a)(5), Nov. 29, 1989, 103 Stat. 1461.)
 
@@ -128,7 +128,7 @@ Act July 24, 1956, ch. 683, 70 Stat. 626, provided: “Upon application by any f
 
 “
 
-Sec. 2. Each person appointed to the Fleet Reserve or Fleet Marine Corps Reserve under the first section of this Act shall be transferred to the appropriate retired list (1) on the first day of the first calendar month beginning after such appointment, if his last discharge occurred ten or more years prior to the date of such appointment, and (2) in the case of individuals appointed under such section before the expiration of ten years from their last discharge, on the first day of the first calendar month, beginning after the expiration of ten years from the date of such discharge.
+Sec. 2. Each person appointed to the Fleet Reserve or Fleet Marine Corps Reserve under the first section of this Act shall be transferred to the appropriate retired list (1) on the first day of the first calendar month beginning after such appointment, if his last discharge occurred ten or more years prior to the date of such appointment, and (2) in the case of individuals appointed under such section before the expiration of ten years from their last discharge, on the first day of the firstcalendar month, beginning after the expiration of ten years from the date of such discharge.
 
 “
 

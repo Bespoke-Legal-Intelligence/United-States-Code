@@ -36,7 +36,7 @@ If an individual dies before any payment due him under this subchapter is comple
 
 &emsp;(3) if there is no person who meets the requirements of paragraph (1) or (2), or if each person who meets such requirements dies before the payment due him under this subchapter is completed, to the parent or parents, if any, of the deceased individual who were, for the month in which the deceased individual died, entitled to monthly benefits on the basis of the same wages and self-employment income as was the deceased individual (and, in case there is more than one such parent, in equal parts to each such parent);
 
-&emsp;(4) if there is no person who meets the requirements of paragraph (1), (2), or (3), or ifeach person who meets such requirements dies before the payment due him under this subchapter is completed, to the person, if any, determined by the Commissioner of Social Security to be the surviving spouse of the deceased individual;
+&emsp;(4) if there is no person who meets the requirements of paragraph (1), (2), or (3), or if each person who meets such requirements dies before the payment due him under this subchapter is completed, to the person, if any, determined by the Commissioner of Social Security to be the surviving spouse of the deceased individual;
 
 &emsp;(5) if there is no person who meets the requirements of paragraph (1), (2), (3), or (4), or if each person who meets such requirements dies before the payment due him under this subchapter is completed, to the person or persons, if any, determined by the Commissioner of Social Security to be the child or children of the deceased individual (and, in case there is more than one such child, in equal parts to each such child);
 

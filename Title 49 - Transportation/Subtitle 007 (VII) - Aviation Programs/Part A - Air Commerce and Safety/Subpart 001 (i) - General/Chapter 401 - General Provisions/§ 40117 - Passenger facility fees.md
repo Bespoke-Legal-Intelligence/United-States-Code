@@ -2,27 +2,39 @@
 
 (a)
 
-Definitions.—In this section—
+Definitions.—In this section, the following definitions apply:
 
-&emsp;(1) “airport”, “commercial service airport”, and “public agency” have the same meanings given those terms in section 47102 of this title.
+&emsp;(1)
 
-&emsp;(2) “eligible agency” means a public agency that controls a commercial service airport.
+Airport, commercial service airport, and public agency.—The terms “airport”, “commercial service airport”, and “public agency” have the meaning those terms have under section 47102.
 
-&emsp;(3) “eligible airport-related project” means a project—
+&emsp;(2)
 
-&emsp;&emsp;(A) for airport development or airport planning under subchapter I of chapter 471 of this title;
+Eligible agency.—The term “eligible agency” means a public agency that controls a commercial service airport.
 
-&emsp;&emsp;(B) for terminal development described in section 47110(d) of this title;
+&emsp;(3)
 
-&emsp;&emsp;(C) for airport noise capability planning under section 47505 of this title;
+Eligible airport-related project.—The term “eligible airport-related project” means any of the following projects:
 
-&emsp;&emsp;(D) to carry out noise compatibility measures eligible for assistance under section 47504 of this title, whether or not a program for those measures has been approved under section 47504; and
+&emsp;&emsp;(A) A project for airport development or airport planning under subchapter I of chapter 471.
 
-&emsp;&emsp;(E) for constructing gates and related areas at which passengers board or exit aircraft.
+&emsp;&emsp;(B) A project for terminal development described in section 47110(d).
 
-&emsp;(4) “passenger facility fee” means a fee imposed under this section.
+&emsp;&emsp;(C) for <sup>1</sup> costs of terminal development referred to in subparagraph (B) incurred after August 1, 1986, at an airport that did not have more than .25 percent of the total annual passenger boardings in the United States in the most recent calendar year for which data is available and at which total passenger boardings declined by at least 16 percent between calendar year 1989 and calendar year 1997; <sup>2</sup>
 
-&emsp;(5) “passenger facility revenue” means revenue derived from a passenger facility fee.
+&emsp;&emsp;(D) A project for airport noise capability planning under section 47505.
+
+&emsp;&emsp;(E) A project to carry out noise compatibility measures eligible for assistance under section 47504, whether or not a program for those measures has been approved under section 47504.
+
+&emsp;&emsp;(F) A project for constructing gates and related areas at which passengers board or exit aircraft. In the case of a project required to enable additional air service by an air carrier with less than 50 percent of the annual passenger boardings at an airport, the project for constructing gates and related areas may include structural foundations and floor systems, exterior building walls and load-bearing interior columns or walls, windows, door and roof systems, building utilities (including heating, air conditioning, ventilation, plumbing, and electrical service), and aircraft fueling facilities adjacent to the gate.
+
+&emsp;(4)
+
+Passenger facility fee.—The term “passenger facility fee” means a fee imposed under this section.
+
+&emsp;(5)
+
+Passenger facility revenue.—The term “passenger facility revenue” means revenue derived from a passenger facility fee.
 
 (b)
 
@@ -31,6 +43,12 @@ General Authority.—(1) The Secretary of Transportation may authorize under thi
 (2) A State, political subdivision of a State, or authority of a State or political subdivision that is not the eligible agency may not regulate or prohibit the imposition or collection of a passenger facility fee or the use of the passenger facility revenue.
 
 (3) A passenger facility fee may be imposed on a passenger of an air carrier or foreign air carrier originating or connecting at the commercial service airport that the agency controls.
+
+(4) In lieu of authorizing a fee under paragraph (1), the Secretary may authorize under this section an eligible agency to impose a passenger facility fee of $4.00 or $4.50 on each paying passenger of an air carrier or foreign air carrier boarding an aircraft at an airport the agency controls to finance an eligible airport-related project, including making payments for debt service on indebtedness incurred to carry out the project, if the Secretary finds—
+
+&emsp;(A) in the case of an airport that has more than .25 percent of the total number of annual boardings in the United States, that the project will make a significant contribution to improving air safety and security, increasing competition among air carriers, reducing current or anticipated congestion, or reducing the impact of aviation noise on people living near the airport; and
+
+&emsp;(B) that the project cannot be paid for from funds reasonably expected to be available for the programs referred to in section 48103.
 
 (c)
 
@@ -60,9 +78,11 @@ Limitations on Approving Applications.—The Secretary may approve an applicatio
 
 &emsp;&emsp;(B) reduce noise resulting from an airport that is part of the system; or
 
-&emsp;&emsp;(C) provide an opportunity for enhanced competition between or among air carriers and foreign air carriers; and
+&emsp;&emsp;(C) provide an opportunity for enhanced competition between or among air carriers and foreign air carriers;
 
-&emsp;(3) the application includes adequate justification for each of the specific projects.
+&emsp;(3) the application includes adequate justification for each of the specific projects; and
+
+&emsp;(4) in the case of an application to impose a fee of more than $3.00 for an eligible surface transportation or terminal project, the agency has made adequate provision for financing the airside needs of the airport, including runways, taxiways, aprons, and aircraft gates.
 
 (e)
 
@@ -76,9 +96,13 @@ Limitations on Imposing Fees.—(1) An eligible agency may impose a passenger fa
 
 &emsp;(A) for more than 2 boardings on a one-way trip or a trip in each direction of a round trip;
 
-&emsp;(B) for the boarding to an eligible place under subchapter II of chapter 417 of this title for which essential air service compensation is paid under subchapter II; and
+&emsp;(B) for the boarding to an eligible place under subchapter II of chapter 417 of this title for which essential air service compensation is paid under subchapter II;
 
-&emsp;(C) enplaning at an airport if the passenger did not pay for the air transportation which resulted in such enplanement, including any case in which the passenger obtained the ticket for the air transportation with a frequent flier award coupon without monetary payment.
+&emsp;(C) enplaning at an airport if the passenger did not pay for the air transportation which resulted in such enplanement, including any case in which the passenger obtained the ticket for the air transportation with a frequent flier award coupon without monetary payment.<sup>3</sup>
+
+&emsp;(D) on flights, including flight segments, between 2 or more points in Hawaii; and
+
+&emsp;(E) in Alaska aboard an aircraft having a seating capacity of less than 60 passengers.
 
 (f)
 
@@ -110,7 +134,7 @@ Compliance.—(1) As necessary to ensure compliance with this section, the Secre
 
 Regulations.—The Secretary shall prescribe regulations necessary to carry out this section. The regulations—
 
-&emsp;(1) may prescribe the time and form by which a passenger facility fee takes effect; and
+&emsp;(1) may prescribe the time and form by which a passenger facility fee takes effect;
 
 &emsp;(2) shall—
 
@@ -120,9 +144,35 @@ Regulations.—The Secretary shall prescribe regulations necessary to carry out 
 
 &emsp;&emsp;(C) ensure that the money, less a uniform amount the Secretary determines reflects the average necessary and reasonable expenses (net of interest accruing to the carrier and agent after collection and before remittance) incurred in collecting and handling the fee, is paid promptly to the eligible agency for which they are collected; and
 
-&emsp;&emsp;(D) require that the amount collected for any air transportation be noted on the ticket for that air transportation.
+&emsp;&emsp;(D) require that the amount collected for any air transportation be noted on the ticket for that air transportation; and
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1113; Pub. L. 103–305, title II, §§203, 204(a)(1), (b), Aug. 23, 1994, 108 Stat. 1582, 1583; Pub. L. 104–264, title I, §142(b)(2), title XII, §1202, Oct. 9, 1996, 110 Stat. 3221, 3280; Pub. L. 104–287, §5(67), Oct. 11, 1996, 110 Stat. 3395.)
+&emsp;(3) may permit an eligible agency to request that collection of a passenger facility fee be waived for—
+
+&emsp;&emsp;(A) passengers enplaned by any class of air carrier or foreign air carrier if the number of passengers enplaned by the carriers in the class constitutes not more than one percent of the total number of passengers enplaned annually at the airport at which the fee is imposed; or
+
+&emsp;&emsp;(B) passengers enplaned on a flight to an airport—
+
+&emsp;&emsp;&emsp;(i) that has fewer than 2,500 passenger boardings each year and receives scheduled passenger service; or
+
+&emsp;&emsp;&emsp;(ii) in a community which has a population of less than 10,000 and is not connected by a land highway or vehicular way to the land-connected National Highway System within a State.
+
+(j)
+
+Limitation on Certain Actions.—A State, political subdivision of a State, or authority of a State or political subdivision that is not the eligible agency may not tax, regulate, or prohibit or otherwise attempt to control in any manner, the imposition or collection of a passenger facility fee or the use of the revenue from the passenger facility fee.
+
+(k)
+
+Competition Plans.—
+
+&emsp;(1)
+
+In general.—Beginning in fiscal year 2001, no eligible agency may impose a passenger facility fee under this section with respect to a covered airport (as such term is defined in section 47106(f)) unless the agency has submitted to the Secretary a written competition plan in accordance with such section. This subsection does not apply to passenger facility fees in effect before the date of the enactment of this subsection.
+
+&emsp;(2)
+
+Secretary shall ensure implementation and compliance.—The Secretary shall review any plan submitted under paragraph (1) to ensure that it meets the requirements of this section, and shall review its implementation from time-to-time to ensure that each covered airport successfully implements its plan.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1113; Pub. L. 103–305, title II, §§203, 204(a)(1), (b), Aug. 23, 1994, 108 Stat. 1582, 1583; Pub. L. 104–264, title I, §142(b)(2), title XII, §1202, Oct. 9, 1996, 110 Stat. 3221, 3280; Pub. L. 104–287, §5(67), Oct. 11, 1996, 110 Stat. 3395; Pub. L. 106–181, title I, §§105(a), (b), 135(a), (b), 151, 152(a), 155(c), Apr. 5, 2000, 114 Stat. 71, 83, 86–88.)
 
 Historical and Revision Notes
 
@@ -248,7 +298,47 @@ In subsection (i), before clause (1), the words “Not later than May 4, 1991”
 
 This repeals 49:40117(e)(2)(C) to eliminate an executed provision and makes conforming amendments.
 
+#### References in Text
+
+The date of the enactment of this subsection, referred to in subsec. (k)(1), is the date of enactment of Pub. L. 106–181, which was approved Apr. 5, 2000.
+
 #### Amendments
+
+2000—Subsec. (a). Pub. L. 106–181, §151, amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “In this section—
+
+&emsp;“(1) ‘airport’, ‘commercial service airport’, and ‘public agency’ have the same meanings given those terms in section 47102 of this title.
+
+&emsp;“(2) ‘eligible agency’ means a public agency that controls a commercial service airport.
+
+&emsp;“(3)‘eligible airport-related project’ means a project—
+
+&emsp;&emsp;“(A) for airport development or airport planning under subchapter I of chapter 471 of this title;
+
+&emsp;&emsp;“(B) for terminal development described in section 47110(d) of this title;
+
+&emsp;&emsp;“(C) for airport noise capability planning under section 47505 of this title;
+
+&emsp;&emsp;“(D) to carry out noise compatibility measures eligible for assistance under section 47504 of this title, whether or not a program for those measures has been approved under section 47504; and
+
+&emsp;&emsp;“(E) for constructing gates and related areas at which passengers board or exit aircraft.
+
+&emsp;“(4) ‘passenger facility fee’ means a fee imposed under this section.
+
+&emsp;“(5) ‘passenger facility revenue’ means revenue derived from a passenger facility fee.”
+
+Subsec. (a)(3)(C) to (F). Pub. L. 106–181, §152(a), added subpar. (C) and redesignated former subpars. (C) to (E) as (D) to (F), respectively.
+
+Subsec. (b)(4). Pub. L. 106–181, §105(a), added par. (4).
+
+Subsec. (d)(4). Pub. L. 106–181, §105(b), added par. (4).
+
+Subsec. (e)(2)(D), (E). Pub. L. 106–181, §135(a), added subpars. (D) and (E).
+
+Subsec. (i)(3). Pub. L. 106–181, §135(b)(1)–(3), added par. (3).
+
+Subsec. (j). Pub. L. 106–181, §135(b)(4), added subsec. (j).
+
+Subsec. (k). Pub. L. 106–181, §155(c), added subsec. (k).
 
 1996—Subsec. (a)(3)(D) to (F). Pub. L. 104–264, §142(b)(2), inserted “and” at end of subpar. (D), substituted a period for “; and” at end of subpar. (E), and struck out subpar. (F) which read as follows: “in addition to projects eligible under subparagraph (A), the construction, reconstruction, repair, or improvement of areas of an airport used for the operation of aircraft or actions to mitigate the environmental effects of such construction, reconstruction, repair, or improvement when the construction, reconstruction, repair, improvement, or action is necessary for compliance with the responsibilities of the operator or owner of the airport under the Americans with Disabilities Act of 1990, the Clean Air Act, or the Federal Water Pollution Control Act with respect to the airport.”
 
@@ -266,9 +356,27 @@ Subsec. (d)(3). Pub. L. 103–305, §204(b), added par. (3).
 
 Subsec. (e)(2)(D). Pub. L. 103–305, §204(a)(1), added subpar. (D).
 
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
+
 #### Effective Date of 1996 Amendment
 
 Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
+
+#### Competition Plans
+
+Pub. L. 106–181, title I, §155(a), Apr. 5, 2000, 114 Stat. 88, provided that: “The Congress makes the following findings:
+
+&emsp;“(1) Major airports must be available on a reasonable basis to all air carriers wishing to serve those airports.
+
+&emsp;“(2) 15 large hub airports today are each dominated by one air carrier, with each such carrier controlling more than 50 percent of the traffic at the hub.
+
+&emsp;“(3) The General Accounting Office has found that such levels of concentration lead to higher air fares.
+
+&emsp;“(4) The United States Government must take every step necessary to reduce those levels of concentration.
+
+&emsp;“(5) Consistent with air safety, spending at these airports must be directed at providing opportunities for carriers wishing to serve such facilities on a commercially viable basis.”
 
 #### Limitation on Statutory Construction of Subsection (e)(2)(D)
 
@@ -276,5 +384,11 @@ Section 204(a)(2) of Pub. L. 103–305 provided that: “The amendment made by p
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 40116, 46301, 46316, 47102, 47111, 47114, 47134, 47524, 47526, 49108 of this title.
+This section is referred to in sections 40116, 46301, 46316, 47102, 47106, 47110, 47111, 47114, 47134, 47524, 47526, 49108 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
+
+<i><sup>2</sup></i><i> So in original. The semicolon probably should be a period.</i>
+
+<i><sup>3</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

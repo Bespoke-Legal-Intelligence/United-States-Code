@@ -16,7 +16,7 @@
 
 (B) A condition under paragraph (1)(C) for a fiscal year is that the State involved will, in accordance with the applicable format under subparagraph (A), collect during such year, and include in the report under paragraph (1), the necessary information for one uniform data item from each of the uniform data sets, which items are selected for the State by the Secretary.
 
-(C) In the case of fiscal year 1995 and each subsequent fiscal year, a condition under paragraph (1) for a State is that the State will, in accordance with the applicable format under subparagraph (A), collect during such year, and include in the report under paragraph (1), the necessary information for each of the uniform data sets appropriate to the year 2000 health objectives that the State has, in the State plan submitted under section 300w–4 of this title for the fiscal year, specified as a purpose for which payments under section 300w–2 of this title are to be expended.
+(C) In the case of fiscal year 1995 and each subsequent fiscal year, a condition under paragraph (1) for a State is that the State will, in accordance with the applicable format under subparagraph (A), collect during such year, and include in the report under paragraph (1), the necessary information for each of the uniform data sets appropriate to the year 2000 health objectives that the State has, in the State plan submitted under section 300w–4 of this title for the fiscal year, specified as a purpose for which paymentsunder section 300w–2 of this title are to be expended.
 
 (3) The Secretary, in consultation with the States, shall establish criteria for the uniform collection and reporting of data on activities authorized in section 300w–3 of this title with respect to which no uniform data items exist.
 
@@ -64,5 +64,5 @@ Subsec. (d). Pub. L. 98–555, §5(c), added subsec. (d).
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 300w–1, 300w–4, 300w–10, 9875 of this title.
+This section is referred to in sections 300w–1, 300w–4, 9875 of this title.
 

@@ -8,7 +8,7 @@ The purpose of this section is to recognize the importance and benefits of coope
 
 The Secretary shall assure that—
 
-&emsp;(1) where the Secretary's written approval is required with respect to an owner's request for rent increase, conversion of residential rental units to any other use (including commercialuse or use as a unit in any condominium or cooperative project), partial release of security, or major physical alterations or where the Secretary proposes to sell a mortgage secured by a multifamily housing project, tenants have adequate notice of, reasonable access to relevant information about, and an opportunity to comment on such actions (and in the case of a project owned by the Secretary, any proposed disposition of the project) and that such comments are taken into consideration by the Secretary;
+&emsp;(1) where the Secretary's written approval is required with respect to an owner's request for rent increase, conversion of residential rental units to any other use (including commercial use or use as a unit in any condominium or cooperative project), partial release of security, or major physical alterations or where the Secretary proposes to sell a mortgage secured by a multifamily housing project, tenants have adequate notice of, reasonable access to relevant information about, and an opportunity to comment on such actions (and in the case of a project owned by the Secretary, any proposed disposition of the project) and that such comments are taken into consideration by the Secretary;
 
 &emsp;(2) project owners not interfere with the efforts of tenants to obtain rent subsidies or other public assistance;
 

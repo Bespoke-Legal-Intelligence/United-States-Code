@@ -22,5 +22,5 @@ The Secretary may enter into agreements with any owner of property with national
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 410cc–21, 410cc–33 of this title.
+This section is referred to in section 410cc–21 of this title.
 

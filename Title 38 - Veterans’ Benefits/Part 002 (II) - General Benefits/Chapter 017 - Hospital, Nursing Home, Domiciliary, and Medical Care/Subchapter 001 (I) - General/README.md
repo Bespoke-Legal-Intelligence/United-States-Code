@@ -12,3 +12,4 @@
 - [&sect; 01705 - Management of health care patient enrollment system](%C2%A7%2001705%20-%20Management%20of%20health%20care%20patient%20enrollment%20system.md)
 - [&sect; 01706 - Management of health care other requirements](%C2%A7%2001706%20-%20Management%20of%20health%20care%20other%20requirements.md)
 - [&sect; 01707 - Restriction on use of funds for assisted suicide, euthanasia, or mercy killing](%C2%A7%2001707%20-%20Restriction%20on%20use%20of%20funds%20for%20assisted%20suicide%2C%20euthanasia%2C%20or%20mercy%20killing.md)
+- [&sect; 01708 - Temporary lodging](%C2%A7%2001708%20-%20Temporary%20lodging.md)

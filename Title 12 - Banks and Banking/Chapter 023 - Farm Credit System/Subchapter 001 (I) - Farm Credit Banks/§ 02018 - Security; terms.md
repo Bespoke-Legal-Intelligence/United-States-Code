@@ -14,7 +14,7 @@
 
 #### (C) Guaranteed loans
 
-&emsp;&emsp;If the loan is guaranteed by Federal, State, or other governmental agencies, the loan may not exceed 97 percent of the appraised value of the real estate security, as may be authorized under regulations of the Farm Credit Administration.
+&emsp;&emsp;If the loan is guaranteed by Federal, State, or other governmental agencies, the loanmay not exceed 97 percent of the appraised value of the real estate security, as may be authorized under regulations of the Farm Credit Administration.
 
 #### (D) Private mortgage insurance
 

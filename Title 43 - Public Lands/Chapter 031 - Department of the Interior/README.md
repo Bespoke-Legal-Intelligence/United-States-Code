@@ -27,6 +27,7 @@
 | [1465\.](%C2%A7%2001465%20-%20Annual%20reports%20of%20department%20and%20its%20bureaus.md) | Annual reports of department and its bureaus. |
 | [1466\.](%C2%A7%2001466%20-%20Administration%20of%20oaths%2C%20affirmations%2C%20etc.%2C%20by%20employees%20of%20Division%20of%20Investigations%3B%20force%20and%20effect.md) | Administration of oaths, affirmations, etc., by employees of Division of Investigations; force and effect. |
 | [1467\.](%C2%A7%2001467%20-%20Working%20capital%20fund%3B%20establishment%3B%20uses%3B%20reimbursement.md) | Working capital fund; establishment; uses; reimbursement. |
+| [1467a.](%C2%A7%2001467a%20-%20Working%20capital%20fund%3B%20credit%20card%20refunds%20or%20rebates.md) | Working capital fund; credit card refunds or rebates. |
 | [1468\.](%C2%A7%2001468%20-%20Working%20capital%20fund%3B%20availability%20for%20uniforms%20or%20allowances%20therefor.md) | Working capital fund; availability for uniforms or allowances therefor. |
 | [1469\.](%C2%A7%2001469%20-%20Employment%20and%20compensation%20of%20personnel%20to%20perform%20work%20occasioned%20by%20emergencies.md) | Employment and compensation of personnel to perform work occasioned by emergencies. |
 | [1470\.](%C2%A7%2001470%20-%20Appropriations%3B%20availability%20for%20certain%20administrative%20expenses.md) | Appropriations; availability for certain administrative expenses. |
@@ -92,6 +93,7 @@
 - [&sect; 01465 - Annual reports of department and its bureaus](%C2%A7%2001465%20-%20Annual%20reports%20of%20department%20and%20its%20bureaus.md)
 - [&sect; 01466 - Administration of oaths, affirmations, etc., by employees of Division of Investigations; force and effect](%C2%A7%2001466%20-%20Administration%20of%20oaths%2C%20affirmations%2C%20etc.%2C%20by%20employees%20of%20Division%20of%20Investigations%3B%20force%20and%20effect.md)
 - [&sect; 01467 - Working capital fund; establishment; uses; reimbursement](%C2%A7%2001467%20-%20Working%20capital%20fund%3B%20establishment%3B%20uses%3B%20reimbursement.md)
+- [&sect; 01467a - Working capital fund; credit card refunds or rebates](%C2%A7%2001467a%20-%20Working%20capital%20fund%3B%20credit%20card%20refunds%20or%20rebates.md)
 - [&sect; 01468 - Working capital fund; availability for uniforms or allowances therefor](%C2%A7%2001468%20-%20Working%20capital%20fund%3B%20availability%20for%20uniforms%20or%20allowances%20therefor.md)
 - [&sect; 01469 - Employment and compensation of personnel to perform work occasioned by emergencies](%C2%A7%2001469%20-%20Employment%20and%20compensation%20of%20personnel%20to%20perform%20work%20occasioned%20by%20emergencies.md)
 - [&sect; 01470 - Appropriations; availability for certain administrative expenses](%C2%A7%2001470%20-%20Appropriations%3B%20availability%20for%20certain%20administrative%20expenses.md)

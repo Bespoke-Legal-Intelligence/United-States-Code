@@ -13,12 +13,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Cross References
-
-Animals, meats, and meat and dairy products, see section 603 et seq. of Title 21, Food and Drugs.
-
-Packers and stockyards, see section 181 et seq. of this title.
-
 
 ---
 

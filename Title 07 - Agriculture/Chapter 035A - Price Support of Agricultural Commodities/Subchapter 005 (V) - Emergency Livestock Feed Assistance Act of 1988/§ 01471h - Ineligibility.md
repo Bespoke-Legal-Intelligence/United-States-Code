@@ -12,7 +12,7 @@
 
 #### Effective Date
 
-Section effective 15 days after Aug. 11, 1988, see section 101(c)(1) of Pub. L. 100–387, set out as an Effectiveand Termination Dates of 1988 Amendment note under section 1427 of this title.
+Section effective 15 days after Aug. 11, 1988, see section 101(c)(1) of Pub. L. 100–387, set out as an Effective and Termination Dates of 1988 Amendment note under section 1427 of this title.
 
 #### Inapplicability of Section
 

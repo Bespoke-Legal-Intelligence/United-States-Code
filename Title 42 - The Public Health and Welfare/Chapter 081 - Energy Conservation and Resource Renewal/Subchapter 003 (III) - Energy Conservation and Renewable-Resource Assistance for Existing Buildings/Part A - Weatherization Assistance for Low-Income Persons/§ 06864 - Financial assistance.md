@@ -20,7 +20,7 @@ The Secretary shall not provide financial assistance under this part unless the 
 
 &emsp;(2) established priorities to govern the provision of weatherization assistance to low-income persons, including methods to provide priority to elderly and handicapped low-income persons, and such priority as the applicant determines is appropriate for single-family or other high-energy-consuming dwelling units;
 
-&emsp;(3) established policies and procedures designed to assure that financial assistance provided under this part will be used to supplement, and not to supplant, State or local funds, and, to the extent practicable, to increase the amounts of such funds that would be made available in the absence of Federal funds for carrying out the purpose of this part, including plans and procedures (A) for securing, to the maximum extent practicable, the services of volunteers and training participants and public service employment workers, pursuant to the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\] or title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\], to work under the supervision of qualified supervisors and foremen, (B) for using Federal financial assistance under this part to increase the portion of low-income weatherization assistance that the State obtains from non-Federal sources, including private sources, and (C) for complying with the limitations set forth in section 6865 of this title; and
+&emsp;(3) established policies and procedures designed to assure that financial assistance provided under this part will be used to supplement, and not to supplant, State or local funds, and, to the extent practicable, to increase the amounts of such funds that would be made available in the absence of Federal funds for carrying out the purpose of this part, including plans and procedures (A) for securing, to the maximum extent practicable, the services of volunteers and training participants and public service employment workers, pursuant to title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\], to work under the supervision of qualified supervisors and foremen, (B) for using Federal financial assistance under this part to increase the portion of low-income weatherization assistance that the State obtains from non-Federal sources, including private sources, and (C) for complying with the limitations set forth in section 6865 of this title; and
 
 &emsp;(4) selected on the basis of public comment received during a public hearing conducted pursuant to section 6865(b)(1) of this title, and other appropriate findings, community action agencies or other public or nonprofit entities to undertake the weatherization activities authorized by this subchapter: <i>Provided</i>, Such selection shall be based on the agency's experience and performance in weatherization or housing renovation activities, experience in assisting low-income persons in the area to be served, and the capacity to undertake a timely and effective weatherization program: <i>Provided further</i>, That in making such selection preference shall be given to any community action agency or other public or nonprofit entity which has, or is currently administering, an effective program under this subchapter or under title II of the Economic Opportunity Act of 1964 \[42 U.S.C. 2781 et seq.\].
 
@@ -30,13 +30,7 @@ Effective with fiscal year 1991, and annually thereafter, the Secretary shall up
 
 (Pub. L. 94–385, title IV, §414, Aug. 14, 1976, 90 Stat. 1154; Pub. L. 96–294, title V, §§573(c), 577(2), June 30, 1980, 94 Stat. 759, 760; Pub. L. 101–440, §7(c), (g), Oct. 18, 1990, 104 Stat. 1012, 1014; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(38), (f)(29)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–427, 2681–434.)
 
-#### Amendment of Subsection (b)(3)
-
-<i>Pub. L. 105–277, §101(f) \[title VIII, §405(f)(29), (g)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–434, 2681–435, provided that, effective July 1, 2000, subsection (b)(3) of this section is amended by striking “the Job Training Partnership Act or”.</i>
-
 #### References in Text
-
-The Job Training Partnership Act, referred to in subsec. (b)(3), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
 
 The Workforce Investment Act of 1998, referred to in subsec. (b)(3), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
@@ -44,7 +38,9 @@ The Economic Opportunity Act of 1964, referred to in subsec. (b)(4), is Pub. L. 
 
 #### Amendments
 
-1998—Subsec. (b)(3). Pub. L. 105–277, §101(f) \[title VIII, §405(d)(38)\], substituted “the Job Training Partnership Act or title I of the Workforce Investment Act of 1998” for “the Comprehensive Employment and Training Act of 1973”.
+1998—Subsec. (b)(3). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(29)\], struck out “the Job Training Partnership Act or” after “pursuant to”.
+
+Pub. L. 105–277, §101(f) \[title VIII, §405(d)(38)\], substituted “the Job Training Partnership Act or title I of the Workforce Investment Act of 1998” for “the Comprehensive Employment and Training Act of 1973”.
 
 1990—Subsec. (a)(D). Pub. L. 101–440, §7(c)(1), inserted “, such as the cost of heating and cooling,” after “necessary”.
 

@@ -4,7 +4,7 @@
 
 The Congress finds that—
 
-&emsp;(1) there are significant scenic, recreational, educational, scientific, natural, archeological, and public health benefits provided by the Santa Monica Mountains and adjacent coastline area;
+&emsp;(1) there are significant scenic, recreational, educational, scientific, natural, archeological, and public health benefits provided by theSanta Monica Mountains and adjacent coastline area;
 
 &emsp;(2) there is a national interest in protecting and preserving these benefits for the residents of and visitors to the area; and
 
@@ -24,7 +24,7 @@ There is hereby established the Santa Monica Mountains National Recreation Area 
 
 (C) The city shall assume full responsibility for the protection of cultural resources and shall develop a cultural resource management program for the public lands to be transferred to the city in the vicinity of the Haiwee Reservoir. The program shall be developed in consultation with the Secretary of the Interior, the California State Historic Preservation Officer, and the Advisory Council on Historic Preservation.
 
-(3) The Administrator of the General Services Administration is hereby authorized and directed to transfer the site generally known as Nike Site 78 to the Secretary for inclusion in the recreation area: <i>Provided</i>, That the county of Los Angeles shall be permitted to continue to use without charge the facilities together with sufficient land as in the determination of the Secretary shall be necessary to continue to maintain and operate a fire suppression and training facility and shall be excused from payment for any use of the land and facilities on the site prior to November 10, 1978. At such time as the county of Los Angeles, California, relinquishes control of such facilities and adjacent land or ceases the operation of the fire suppression and training facility, the land and facilities shall be managed by the Secretary as a part of the recreation area.
+(3) The Administrator of the General Services Administration is hereby authorized and directed to transfer the site generally known as Nike Site 78 to the Secretary for inclusion in the recreation area: <i>Provided</i>, That the county of Los Angeles shall be permitted to continue to use without charge the facilities together with sufficient land as in the determination of the Secretary shall be necessary to continue to maintain and operate a fire suppression and training facility and shall be excused from payment for any use of the land and facilities on the site prior to November 10, 1978. At such time as the county of Los Angeles, California, relinquishes control of such facilities and adjacentland or ceases the operation of the fire suppression and training facility, the land and facilities shall be managed by the Secretary as a part of the recreation area.
 
 #### (d) Identification and revision of areas: public ownership for critical purposes; land and area plan: submission to Congressional committees
 
@@ -48,7 +48,7 @@ With respect to improved properties, as defined in this section, fee title shall
 
 For the purposes of this section, the term “improved property” means—
 
-&emsp;(1) a detached single-family dwelling, the construction of which was begun before January 1, 1978 (hereafter referred to as “dwelling”), together with so much of the land on which the dwelling is situated as is in thesame ownership as the dwelling and as the Secretary designates to be reasonably necessary for the enjoyment of the dwelling for the sole purpose of noncommercial residential use, together with any structures necessary to the dwelling which are situated on the land so designated, and
+&emsp;(1) a detached single-family dwelling, the construction of which was begun before January 1, 1978 (hereafter referred to as “dwelling”), together with so much of the land on which the dwelling is situated as is in the same ownership as the dwelling and as the Secretary designates to be reasonably necessary for the enjoyment of the dwelling for the sole purpose of noncommercial residential use, together with any structures necessary to the dwelling which are situated on the land so designated, and
 
 &emsp;(2) property developed for agricultural uses, together with any structures accessory thereto as were used for agricultural purposes on or before January 1, 1978.
 
@@ -64,7 +64,7 @@ In exercising the authority to acquire property under this section, the Secretar
 
 #### (i) Administration
 
-The Secretary shall administer the recreation area in accordance with this Act and provisions of laws generally applicable to units of the National Park System, including sections 1, 2, 3, and 4 of this title. In the administration of the recreation area, the Secretary may utilize such statutory authority available for the conservation and management of wildlife and natural resources as appropriate to carry out the purpose of this section. The fragile resource areas of the recreation area shall be administered on a low-intensity basis, as determined by the Secretary.
+The Secretary shall administer the recreation area in accordance with this Act and provisions of laws generally applicable to units of the National Park System, including sections 1, 2, 3, and 4 of this title. In the administration of the recreation area, the Secretary may utilize such statutory authority available for the conservation and management of wildlife and natural resources as appropriate to carry out the purposeof this section. The fragile resource areas of the recreation area shall be administered on a low-intensity basis, as determined by the Secretary.
 
 #### (j) Cooperative agreements for rescue, fire prevention and firefighting, and law enforcement services
 
@@ -130,7 +130,7 @@ The Secretary, after giving careful consideration to the recommendations set for
 
 #### (<i>o</i>) Comments on undertakings prior to expenditure of Federal funds or issuance of licenses or permits
 
-The head of any Federal agency having direct or indirect jurisdiction over a proposed Federal or federally assisted undertaking in the lands and waters within the Santa Monica Mountains Zone, generally depicted on the map referred to in subsection (c) of this section, and the head of any Federal agency having authority to license or permit any undertaking in such lands and waters shall, prior to the approval of the expenditure of any Federal funds on such undertaking or prior to the issuance of any license or permit, as the case may be, afford the Secretary a reasonable opportunity to comment with regard to such undertaking and shall give due consideration to any comments made by the Secretaryand to the effect of such undertaking on the “findings” and purposes of this section.
+The head of any Federal agency having direct or indirect jurisdiction over a proposed Federal or federally assisted undertaking in the lands and waters within the Santa Monica Mountains Zone, generally depicted on the map referred to in subsection (c) of this section, and the head of any Federal agency having authority to license or permit any undertaking in such lands and waters shall, prior to the approval of the expenditure of any Federal funds on such undertaking or prior to the issuance of any license or permit, as the case may be, afford the Secretary a reasonable opportunity to comment with regard to such undertaking and shall give due consideration to any comments made by the Secretary and to the effect of such undertaking on the “findings” and purposes of this section.
 
 #### (p) State agency recommendations; consideration
 
@@ -160,7 +160,7 @@ The Secretary shall give full consideration to the recommendations of the Califo
 
 #### (r) Authorization of appropriations for property acquisitions and State grants
 
-There are authorized to be appropriated such sums as may be necessary for acquisition of lands and interests in land within the boundaries of the recreation area established under this section, but not more than $15,000,000 for fiscal year 1979, $40,000,000 for fiscal year 1980, $45,000,000 for fiscal year 1981, $10,000,000 for fiscal year 1982, and $15,000,000 for fiscal year 1983, such sums to remain available until expended. For grants to the State pursuant to subsection (n) of this section there are authorized to be appropriated not more than $10,000,000 for fiscal year 1979, $10,000,000 for fiscal year 1980, $5,000,000 for fiscal year 1981, and $5,000,000 for fiscal year 1982, such sums to remain available until expended. For the authorizations made in this subsection, any amounts authorized but not appropriated in any fiscal year shall remain available for appropriation in succeeding fiscal years.
+There are authorized to be appropriated such sums as may be necessary for acquisition of lands and interests in land within the boundaries of the recreation area established under this section, but not more than $15,000,000 for fiscal year 1979, $40,000,000 for fiscal year 1980, $45,000,000 for fiscal year 1981, $10,000,000 for fiscal year 1982, and $15,000,000 for fiscal year 1983, such sums to remain available until expended. For grants to the State pursuant to subsection (n) of this section there are authorized to be appropriated not more than $10,000,000 for fiscalyear 1979, $10,000,000 for fiscal year 1980, $5,000,000 for fiscal year 1981, and $5,000,000 for fiscal year 1982, such sums to remain available until expended. For the authorizations made in this subsection, any amounts authorized but not appropriated in any fiscal year shall remain available for appropriation in succeeding fiscal years.
 
 #### (s) Authorization of appropriations for public facilities development
 

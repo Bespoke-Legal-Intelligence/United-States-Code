@@ -18,15 +18,3 @@ This section is a consolidation of sections 556a, 587, and 589 of title 18, U.S.
 
 1963—Pub. L. 88–139 substituted “session” for “term” wherever appearing.
 
-#### Federal Rules of Criminal Procedure
-
-Limitation periods not affected by procedure governing pleadings and motions, see rule 12, Appendix to this title.
-
-Motion to dismiss indictment on objections to grand jury, see rule 6.
-
-#### Cross References
-
-Indictment before limitations, see section 3289 of this title.
-
-Limitations for non-capital offenses, see section 3282 of this title.
-

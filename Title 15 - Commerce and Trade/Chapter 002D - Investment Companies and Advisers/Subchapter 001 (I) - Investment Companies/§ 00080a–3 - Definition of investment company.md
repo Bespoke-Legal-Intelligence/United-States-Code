@@ -8,7 +8,7 @@
 
 &emsp;(B) is engaged or proposes to engage in the business of issuing face-amount certificates of the installment type, or has been engaged in such business and has any such certificate outstanding; or
 
-&emsp;(C) is engaged or proposes to engage in the business of investing, reinvesting, owning, holding, or trading in securities, and owns or proposes to acquire investment securities having a value exceeding 40 per centum of the value of such issuer's total assets (exclusive of Government securities and cash items) on an unconsolidated basis.
+&emsp;(C) is engaged or proposes to engage in the business of investing, reinvesting, owning, holding, or trading in securities, and owns or proposes to acquire investment securities having a value exceeding 40 per centum of thevalue of such issuer's total assets (exclusive of Government securities and cash items) on an unconsolidated basis.
 
 (2) As used in this section, “investment securities” includes all securities except (A) Government securities, (B) securities issued by employees’ securities companies, and (C) securities issued by majority-owned subsidiaries of the owner which (i) are not investment companies, and (ii) are not relying on the exception from the definition of investment company in paragraph (1) or (7) of subsection (c) of this section.
 
@@ -46,7 +46,7 @@ Notwithstanding subsection (a) of this section, none of the following persons is
 
 &emsp;&emsp;&emsp;(III) is entered into in response to a request from a counter party for a quotation, or is otherwise entered into and structured to accommodate the objectives of the counter party to such arrangement.
 
-&emsp;(3) Any bank or insurance company; any savings and loan association, building and loan association, cooperative bank, homestead association, or similar institution, or any receiver, conservator, liquidator, liquidating agent, or similar official or person thereof or therefor; or any common trust fund or similar fund maintained by a bank exclusively for the collective investment and reinvestment of moneys contributed thereto by the bank in its capacity as a trustee, executor, administrator, or guardian.
+&emsp;(3) Any bank or insurance company; any savings and loan association, building and loan association, cooperative bank, homestead association, or similar institution, or any receiver, conservator, liquidator, liquidating agent, or similar official or person thereof or therefor; or any common trust fund or similar fund maintained by a bank exclusively for the collective investment and reinvestment ofmoneys contributed thereto by the bank in its capacity as a trustee, executor, administrator, or guardian.
 
 &emsp;(4) Any person substantially all of whose business is confined to making small loans, industrial banking, or similar businesses.
 
@@ -86,7 +86,7 @@ Notwithstanding subsection (a) of this section, none of the following persons is
 
 &emsp;&emsp;(ii) which is or maintains a fund described in subparagraph (B).
 
-&emsp;(B) For the purposes of subparagraph (A)(ii), a fund is described in this subparagraph if such fund is a pooled income fund, collective trust fund, collective investment fund, or similar fund maintained by a charitable organization exclusively for the collective investment and reinvestment of one or more of the following:
+&emsp;(B) For the purposes of subparagraph (A)(ii), a fund is described in this subparagraph if suchfund is a pooled income fund, collective trust fund, collective investment fund, or similar fund maintained by a charitable organization exclusively for the collective investment and reinvestment of one or more of the following:
 
 &emsp;&emsp;(i) assets of the general endowment fund or other funds of one or more charitable organizations;
 
@@ -130,7 +130,7 @@ Notwithstanding subsection (a) of this section, none of the following persons is
 
 &emsp;&emsp;(vi) the term “charitable gift annuity” means an annuity issued by a charitable organization that is described in section 501(m)(5) of title 26.
 
-&emsp;(11) Any employee's stock bonus, pension, or profit-sharing trust which meets the requirements for qualification under section 401 oftitle 26; or any governmental plan described in section 77c(a)(2)(C) of this title; or any collective trust fund maintained by a bank consisting solely of assets of such trusts or governmental plans, or both; or any separate account the assets of which are derived solely from (A) contributions under pension or profit-sharing plans which meet the requirements of section 401 of title 26 or the requirements for deduction of the employer's contribution under section 404(a)(2) of title 26, (B) contributions under governmental plans in connection with which interests, participations, or securities are exempted from the registration provisions of section 77e of this title by section 77c(a)(2)(C) of this title, and (C) advances made by an insurance company in connection with the operation of such separate account.
+&emsp;(11) Any employee's stock bonus, pension, or profit-sharing trust which meets the requirements for qualification under section 401 of title 26; or any governmental plan described in section 77c(a)(2)(C) of this title; or any collective trust fund maintained by a bank consisting solely of assets of such trusts or governmental plans, or both; or any separate account the assets of which are derived solely from (A) contributions under pension or profit-sharing plans which meet the requirements of section 401 of title 26 or the requirements for deduction of the employer's contribution under section 404(a)(2) of title 26, (B) contributions under governmental plans in connection with which interests, participations, or securities are exempted from the registration provisions of section 77e of this title by section 77c(a)(2)(C) of this title, and (C) advances made by an insurance company in connection with the operation of such separate account.
 
 &emsp;(12) Any voting trust the assets of which consist exclusively of securities of a single issuer which is not an investment company.
 
@@ -274,7 +274,7 @@ Section 209(d)(1) of Pub. L. 104–290 provided that: “Not later than 1 year a
 
 Section 209(d)(3) of Pub. L. 104–290 provided that: “Not later than 1 year after the date of enactment of this Act \[Oct. 11, 1996\], the Commission shall prescribe rules pursuant to its authority under section 6 of the Investment Company Act of 1940 \[15 U.S.C. 80a–6\] to permit the ownership of securities by knowledgeable employees of the issuer of the securities or an affiliated person without loss of the exception of the issuer under paragraph (1) or (7) of section 3(c) of that Act \[15 U.S.C. 80a–3(c)\] from treatment as an investment company under that Act \[15 U.S.C. 80a–1 et seq.\].”
 
-Section 209(d)(4) of Pub. L. 104–290 provided that: “Not later than 180 days after the date of enactment of this Act \[Oct. 11, 1996\], the Commission shall prescribe rules defining the term ‘beneficial owner’ for purposes of section 3(c)(7)(B) of the Investment Company Act of 1940 \[15 U.S.C. 80a–3(c)(7)(B)\], as amended by this Act.”
+Section 209(d)(4) of Pub. L. 104–290 provided that: “Not later than 180 days after the date of enactment ofthis Act \[Oct. 11, 1996\], the Commission shall prescribe rules defining the term ‘beneficial owner’ for purposes of section 3(c)(7)(B) of the Investment Company Act of 1940 \[15 U.S.C. 80a–3(c)(7)(B)\], as amended by this Act.”
 
 #### Transfer of Functions
 
@@ -291,12 +291,6 @@ Registration requirements.—Any security issued by or any interest or participa
 “(2)
 
 Treatment of church plans.—No church plan described in section 414(e) of the Internal Revenue Code of 1986 \[26 U.S.C. 414(e)\], no person or entity eligible to establish and maintain such a plan under the Internal Revenue Code of 1986 \[26 U.S.C. 1 et seq.\], no company or account that is excluded from the definition of an investment company under section 3(c)(14) of the Investment Company Act of 1940 \[15 U.S.C. 80a–3(c)(14)\], as added by subsection (a) of this section, and no trustee, director, officer, or employee of or volunteer for any such plan, person, entity, company, or account shall be required to qualify, register, or be subject to regulation as an investment company or as a broker, dealer, investment adviser, or agent under the laws of any State solely because such plan, person, entity, company, or account buys, holds, sells, or trades in securities for its own account or in its capacity as a trustee or administrator of or otherwise on behalf of, or for the account of, or provides investment advice to, for, or on behalf of, any such plan, person, or entity or any company or account that is excluded from the definition of an investment company under section 3(c)(14) of the Investment Company Act of 1940, as added by subsection (a) of this section.”
-
-#### Cross References
-
-Beneficial ownership, determination of, see section 80a–6 of this title.
-
-Value as to assets of registered investment companies, definition of, see section 80a–2 of this title.
 
 #### Section Referred to in Other Sections
 

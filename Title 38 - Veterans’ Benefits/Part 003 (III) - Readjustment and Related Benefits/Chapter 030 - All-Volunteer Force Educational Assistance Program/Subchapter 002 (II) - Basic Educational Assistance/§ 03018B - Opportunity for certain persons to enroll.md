@@ -50,7 +50,7 @@
 
 1998—Subsec. (a)(1)(B), (2)(B). Pub. L. 105–368, §203(a), substituted “successfully completed (or otherwise received academic credit for)” for “successfully completed”.
 
-Subsec. (a)(2)(E). Pub. L. 105–368, §1005(b)(6), which directed the substitution of “before October 23, 1993,” for “before the one-year period beginning on the date of the enactment of this section,”, was executed by making the substitution for text which did not include the word “the” before the word “enactment”, to reflect the probable intent of Congress.
+Subsec. (a)(2)(E). Pub. L. 105–368, §1005(b)(6), which directed the substitution of “before October 23, 1993,” for“before the one-year period beginning on the date of the enactment of this section,”, was executed by making the substitution for text which did not include the word “the” before the word “enactment”, to reflect the probable intent of Congress.
 
 1994—Subsec. (a)(2)(A). Pub. L. 103–446, §1201(f)(3), substituted “October 23, 1992,” for “the date of enactment of this section”.
 

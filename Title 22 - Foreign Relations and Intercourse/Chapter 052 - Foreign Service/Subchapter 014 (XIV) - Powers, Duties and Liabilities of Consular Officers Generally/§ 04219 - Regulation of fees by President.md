@@ -26,12 +26,6 @@ Sec. 3. The rates or tariffs of fees and the regulations prescribed and any othe
 
 Dwight D. Eisenhower.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Cross References
-
-Fees for consular certification of invoices, see section 4201 of this title.
-
-Fees named in tariff of consular fees prescribed by order of the President, see section 4206 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 4191, 4201, 4215 of this title.

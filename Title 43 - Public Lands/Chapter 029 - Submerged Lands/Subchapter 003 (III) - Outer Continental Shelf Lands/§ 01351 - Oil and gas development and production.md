@@ -44,7 +44,7 @@ If approval of a development and production plan is found to be a major Federal 
 
 #### (g) Plans considered nonmajor Federal actions; comments and recommendations from States
 
-If approval of a development and production plan is not found to be a major Federal action, the Governor of any affected State and the executive of any affected local government shall have sixty days from the date of receipt of the plan from the Secretary to submit comments and recommendations. Prior to submitting recommendations to the Secretary, the executive of any affected local government must forward his recommendations to the Governor of his State. Such comments and recommendations shall be made available to the public upon request. In addition, any interested person may submit comments and recommendations.
+If approval of a development and production plan is not found to be a major Federal action,the Governor of any affected State and the executive of any affected local government shall have sixty days from the date of receipt of the plan from the Secretary to submit comments and recommendations. Prior to submitting recommendations to the Secretary, the executive of any affected local government must forward his recommendations to the Governor of his State. Such comments and recommendations shall be made available to the public upon request. In addition, any interested person may submit comments and recommendations.
 
 #### (h) Approval, disapproval or modification of plan; reapplication; periodic review
 
@@ -76,7 +76,7 @@ If approval of a development and production plan is not found to be a major Fede
 
 (C) Upon expiration of the five-year period described in subparagraph (B) of this paragraph, or, in the Secretary's discretion, at an earlier time upon request of a lessee, if the Secretary has not approved a plan, the Secretary shall cancel the lease and the lessee shall be entitled to receive compensation in accordance with section 1334(a)(2)(C) of this title. The Secretary may, at any time within the five-year period described in subparagraph (B) of this paragraph, require the lessee to submit a development and production plan for approval, disapproval, or modification. If the lessee fails to submit a required plan expeditiously and in good faith, the Secretary shall find that the lessee has not been duly diligent in pursuing his obligations under the lease, and shall immediately initiate procedures to cancel such lease, without compensation, under the provisions of section 1334(c) of this title.
 
-(3) The Secretary shall, from time to time, review each plan approved under this section. Such review shall be based upon changes in available information and other onshore or offshore conditions affecting or impacted by development and production pursuant to such plan. If the review indicates that the plan should be revised to meet the requirements of this subsection, the Secretary shall require such revision.
+(3) The Secretary shall, from time to time, review each plan approved under this section. Such review shall be based upon changes inavailable information and other onshore or offshore conditions affecting or impacted by development and production pursuant to such plan. If the review indicates that the plan should be revised to meet the requirements of this subsection, the Secretary shall require such revision.
 
 #### (i) Approval of revision of approved plan
 

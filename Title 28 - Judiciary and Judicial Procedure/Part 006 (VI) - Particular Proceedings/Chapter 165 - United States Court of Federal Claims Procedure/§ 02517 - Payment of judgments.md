@@ -26,15 +26,15 @@ The Contract Disputes Act of 1978, referred to in subsec. (a), is Pub. L. 95–5
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–316 substituted “Secretary of the Treasury” for “General Accounting Office”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–316 substituted “Secretary of the Treasury” for “General Accounting Office”.
 
-1992—Subsec. (a). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-1982—Subsec. (a). Pub. L. 97–164, §139(k)(1), substituted “United States Claims Court” for “Court of Claims”.
+<b>1982</b>—Subsec. (a). Pub. L. 97–164, §139(k)(1), substituted “United States Claims Court” for “Court of Claims”.
 
 Subsec. (b). Pub. L. 97–164, §139(k)(2), struck out the comma after “shall be discharged” thereby correcting a technical error in the directory language in Pub. L. 95–563 which placed both a comma and a period after “shall be discharged”.
 
-1978—Subsec. (a). Pub. L. 95–563, §14(e), inserted Contract Disputes Act of 1978 exception.
+<b>1978</b>—Subsec. (a). Pub. L. 95–563, §14(e), inserted Contract Disputes Act of 1978 exception.
 
 Subsec. (b). Pub. L. 95–563, §14(f), inserted provision relating to discharge of partial judgments.
 
@@ -49,10 +49,6 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–563 effective with respect to contracts entered into 120 days after Nov. 1, 1978, and, at the election of the contractor, with respect to any claim pending at such time before the contracting officer or initiated thereafter, see section 16 of Pub. L. 95–563, set out as an Effective Date note under section 601 of Title 41, Public Contracts.
-
-#### Cross References
-
-Appropriations for payments of judgments against the United States, computation of interest time, see section 1304 of Title 31, Money and Finance.
 
 #### Section Referred to in Other Sections
 

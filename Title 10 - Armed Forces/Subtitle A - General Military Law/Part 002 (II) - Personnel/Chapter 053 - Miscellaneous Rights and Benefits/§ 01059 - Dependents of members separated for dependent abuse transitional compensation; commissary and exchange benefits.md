@@ -30,7 +30,7 @@ Recipients of Payments.—In the case of any individual described in subsection 
 
 &emsp;(1) If the individual was married at the time of the commission of the dependent-abuse offense resulting in the separation, such compensation shall be paid to the spouse or former spouse to whom the individual was married at that time, including an amount (determined under subsection (f)(2)) for each, if any, dependent child of the individual described in subsection (b) who resides in the same household as that spouse or former spouse.
 
-&emsp;(2) If there is a spouse or former spouse who is or, but for subsection (g), would be eligiblefor compensation under this section and if there is a dependent child of the individual described in subsection (b) who does not reside in the same household as that spouse or former spouse, compensation under this section shall be paid to each such dependent child of the individual described in subsection (b) who does not reside in that household.
+&emsp;(2) If there is a spouse or former spouse who is or, but for subsection (g), would be eligible for compensation under this section and if there is a dependent child of the individual described in subsection (b) who does not reside inthe same household as that spouse or former spouse, compensation under this section shall be paid to each such dependent child of the individual described in subsection (b) who does not reside in that household.
 
 &emsp;(3) If there is no spouse or former spouse who is (or but for subsection (g) would be) eligible under paragraph (1), such compensation shall be paid to the dependent children of the individual described in subsection (b).
 

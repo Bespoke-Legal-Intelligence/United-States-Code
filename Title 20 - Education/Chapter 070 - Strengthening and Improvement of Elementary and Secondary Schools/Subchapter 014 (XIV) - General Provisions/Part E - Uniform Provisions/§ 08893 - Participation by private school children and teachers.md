@@ -12,7 +12,7 @@
 
 #### (3) Special rule
 
-&emsp;Educational services and other benefits provided under this section for such private school children, teachers, and other educational personnel shall be equitable in comparison to services and other benefits for public school children, teachers, and other educational personnel participating in such program.
+&emsp;Educational services and other benefits provided under this section for such privateschool children, teachers, and other educational personnel shall be equitable in comparison to services and other benefits for public school children, teachers, and other educational personnel participating in such program.
 
 #### (4) Expenditures
 

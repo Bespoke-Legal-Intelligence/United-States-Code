@@ -18,7 +18,7 @@
 
 (3) The Secretary shall pay, by reimbursement or otherwise, all costs for tuition, books, fees, and living expenses incurred by an agricultural resources intern while attending an approved postsecondary or graduate school in a full-time agricultural study program.
 
-(4) An agricultural resources intern shall be required to enter into an obligated service agreement with the Secretary to serve as an employee in a professional agriculture or naturalresources position with the Department of the Interior or other Federal agency or an Indian tribe for one year for each year of education for which the Secretary pays the intern's educational costs under paragraph (3).
+(4) An agricultural resources intern shall be required to enter into an obligated service agreement with the Secretary to serve as an employee in a professional agriculture or natural resources position with the Department of the Interior or other Federal agency or an Indian tribe for one year for each year of education for which the Secretary pays the intern's educational costs under paragraph (3).
 
 (5) An agricultural resources intern shall be required to report for service with the Bureau of Indian Affairs or other bureau or agency sponsoring his internship, or to a designated work site, during any break in attendance at school of more than 3 weeks duration. Time spent in such service shall be counted toward satisfaction of the intern's obligated service agreement under paragraph (4).
 

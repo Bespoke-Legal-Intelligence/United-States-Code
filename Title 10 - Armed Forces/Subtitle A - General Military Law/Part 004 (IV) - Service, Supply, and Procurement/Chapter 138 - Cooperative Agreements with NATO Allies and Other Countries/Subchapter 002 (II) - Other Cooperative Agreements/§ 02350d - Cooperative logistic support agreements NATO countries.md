@@ -2,7 +2,7 @@
 
 (a)
 
-General Authority.—(1) The Secretary of Defense may enter into bilateral or multilateral agreements known as Weapon System Partnership Agreements with one or more governments of other member countries of the North Atlantic Treaty Organization (NATO) participating in the operation of the NATO Maintenance and Supply Organization. Any such agreement shall be for the purpose of providing cooperative logistics support for the armed forces of the countries which are parties to the agreement. Any such agreement—
+General Authority.—(1) The Secretary of Defense may enter into bilateral or multilateral agreements known as Weapon System Partnership Agreements with one or more governmentsof other member countries of the North Atlantic Treaty Organization (NATO) participating in the operation of the NATO Maintenance and Supply Organization. Any such agreement shall be for the purpose of providing cooperative logistics support for the armed forces of the countries which are parties to the agreement. Any such agreement—
 
 &emsp;(A) shall be entered into pursuant to the terms of the charter of the NATO Maintenance and Supply Organization; and
 

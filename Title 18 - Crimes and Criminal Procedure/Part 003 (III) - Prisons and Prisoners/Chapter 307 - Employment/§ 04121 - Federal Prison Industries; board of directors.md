@@ -58,7 +58,3 @@ Pub. L. 95–624, §10, Nov. 9, 1978, 92 Stat. 3463, provided that:
 
 “(b) The report made under this section shall include a long-range plan for the improvement of meaningful employment training, and the methods which could be undertaken to employ a greater number of United States prisoners in the program. Such report may include recommendations for legislation.”
 
-#### Cross References
-
-Federal Prison Industries, Inc. as wholly owned Government Corporation, see section 9101 of Title 31, Money and Finance.
-

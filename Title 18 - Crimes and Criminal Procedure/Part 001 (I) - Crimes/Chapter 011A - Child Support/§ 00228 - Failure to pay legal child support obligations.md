@@ -6,7 +6,7 @@ Offense.—Any person who—
 
 &emsp;(1) willfully fails to pay a support obligation with respect to a child who resides in another State, if such obligation has remained unpaid for a period longer than 1 year, or is greater than $5,000;
 
-&emsp;(2) travels in interstate or foreign commerce with the intent to evade a support obligation, if such obligation has remained unpaid for aperiod longer than 1 year, or is greater than $5,000; or
+&emsp;(2) travels in interstate or foreign commerce with the intent to evade a support obligation, if such obligation has remained unpaid for a period longer than 1 year, or is greater than $5,000; or
 
 &emsp;(3) willfully fails to pay a support obligation with respect to a child who resides in another State, if such obligation has remained unpaid for a period longer than 2 years, or is greater than $10,000;
 
@@ -62,5 +62,5 @@ Pub. L. 105–187, §1, June 24, 1998, 112 Stat. 618, provided that: “This Act
 
 #### Short Title
 
-Section 1 of Pub. L. 102–521 provided that: “This Act \[enacting this section and sections 3796cc to 3796cc–6 of Title 42, The Public Health and Welfare, amending section 3563 of this title and section 3797 of Title 42, and enacting provisions set out as a note under section 12301 of Title 42\] may be cited as the ‘Child Support Recovery Act of 1992’.”
+Section 1 of Pub. L. 102–521 provided that: “This Act \[enacting this section and sections 3796cc to 3796cc–6 ofTitle 42, The Public Health and Welfare, amending section 3563 of this title and section 3797 of Title 42, and enacting provisions set out as a note under section 12301 of Title 42\] may be cited as the ‘Child Support Recovery Act of 1992’.”
 

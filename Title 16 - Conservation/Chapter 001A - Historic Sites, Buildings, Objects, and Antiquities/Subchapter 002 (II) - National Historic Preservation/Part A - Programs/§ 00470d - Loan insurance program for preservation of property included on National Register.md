@@ -30,7 +30,7 @@ The aggregate unpaid principal balance of loans insured under this section and o
 
 #### (d) Assignability of insurance contracts; contract as obligation of United States; contestability
 
-Any contract of insurance executed by the Secretary under this section may be assignable,shall be an obligation supported by the full faith and credit of the United States, and shall be incontestable except for fraud or misrepresentation of which the holder had actual knowledge at the time it became a holder.
+Any contract of insurance executed by the Secretary under this section may be assignable, shall be an obligation supported by the full faith and credit of the United States, and shall be incontestable except for fraud or misrepresentation of which the holder had actual knowledge at the time it became a holder.
 
 #### (e) Conditions and methods of payment as result of loss
 
@@ -56,7 +56,7 @@ The Secretary may assess appropriate and reasonable fees in connection with insu
 
 #### (i) Treatment of loans as non-Federal funds
 
-Notwithstanding any other provision of law, any loan insured under this section shall be treated as non-Federal funds for the purposes of satisfying any requirement of any other provision of law under which Federal funds to be used for any project or activity are conditioned upon the use of non-Federal funds by the recipient for payment of any portion of the costs of such project or activity.
+Notwithstanding any other provision of law, any loan insured under this section shall be treated as non-Federal funds for the purposes of satisfying any requirement of any other provision of law under which Federal funds to be used for any project or activity are conditioned upon the use of non-Federal funds by the recipient forpayment of any portion of the costs of such project or activity.
 
 #### (j) Authorization of appropriations for payment of losses
 

@@ -14,15 +14,3 @@
 
 1988—Pub. L. 100–525 redesignated subsecs. (b) to (e) as (a) to (d), respectively, and struck out former subsec. (a) which read as follows: “A person who claims to have been naturalized in the United States under section 323 of the Nationality Act of 1940 may make application to the Attorney General for a certificate of naturalization. Upon proof to the satisfaction of the Attorney General that the applicant is a citizen and that he has been naturalized as claimed in the application, such individual shall be furnished a certificate of naturalization by the Attorney General, but only if the applicant is at the time within the United States.”
 
-#### Cross References
-
-Definition of the term—
-
-&emsp;&emsp;Attorney General, see section 1101(a)(5) of this title.
-
-&emsp;&emsp;Foreign state, see section 1101(a)(14) of this title.
-
-&emsp;&emsp;Naturalization, see section 1101(a)(23) of this title.
-
-&emsp;&emsp;Unmarried, see section 1101(a)(39) of this title.
-

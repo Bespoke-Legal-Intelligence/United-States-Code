@@ -26,7 +26,7 @@
 
 &emsp;(3) identifying the employees whose personal efforts have caused their units to be outstanding in efficiency and economy of operations.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 380; Pub. L. 96–54, §2(a)(2), Aug. 14, 1979, 93 Stat. 381; Pub. L.96–70, title III, §3302(e)(1), Sept. 27, 1979, 93 Stat. 498; Pub. L. 97–468, title VI, §615(b)(1)(A), Jan. 14, 1983, 96 Stat. 2578.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 380; Pub. L. 96–54, §2(a)(2), Aug. 14, 1979, 93 Stat. 381; Pub. L. 96–70, title III, §3302(e)(1), Sept. 27, 1979, 93 Stat. 498; Pub. L. 97–468, title VI, §615(b)(1)(A), Jan. 14, 1983, 96 Stat. 2578.)
 
 Historical and Revision Notes
 
@@ -87,10 +87,6 @@ Functions of President under subsec. (b) of this section delegated to Director o
 #### Dissolution of Virgin Islands Corporation
 
 Virgin Islands Corporation established to have succession until June 30, 1969, unless sooner dissolved by Act of Congress, by act June 30, 1949, ch. 285, 63 Stat. 350, as amended (48 U.S.C. 1407 et seq.). Corporation terminated its program June 30, 1965, and dissolved July 1, 1966. Act June 30, 1949, was repealed by Pub. L. 97–357, title III, §308(e), Oct. 19, 1982, 96 Stat. 1710.
-
-#### Cross References
-
-Antidiscrimination in employment in administration of this section, see section 7204 of this title.
 
 #### Section Referred to in Other Sections
 

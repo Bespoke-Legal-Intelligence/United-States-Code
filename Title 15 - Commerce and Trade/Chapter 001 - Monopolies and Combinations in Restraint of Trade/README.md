@@ -66,7 +66,8 @@
 | (g) | Civil penalty; compliance; power of court. |
 | (h) | Disclosure exemption. |
 | (i) | Construction with other laws. |
-| (j) | Report to Congress; legislative recommendations. |
+| (j) | Omitted. |
+| (k) | Extensions of time. |
 | [19\.](%C2%A7%2000019%20-%20Interlocking%20directorates%20and%20officers.md) | Interlocking directorates and officers. |
 | 19a, 20. | Repealed. |
 | [21\.](%C2%A7%2000021%20-%20Enforcement%20provisions.md) | Enforcement provisions. |
@@ -131,63 +132,7 @@ Joint Res. June 16, 1938, ch. 456, 52 Stat. 705, created a Temporary National Ec
 
 #### Executive Order No. 12022
 
-Ex. Ord. No. 12022, Dec. 1, 1977, 42 F.R. 61441, as amended by Ex. Ord. No. 12052, Apr. 7, 1978, 43 F.R. 15133, which related to the National Commission for the Review of Antitrust Laws and Procedures, was revokedby Ex. Ord. No. 12258, Dec. 31, 1980, 46 F.R. 1251, set out as a note under section 14 of the Appendix to Title 5, Government Organization and Employees.
-
-#### Cross References
-
-Arbitration of controversies arising out of maritime contracts or transactions, see section 1 et seq. of Title 9, Arbitration.
-
-Associations engaged in catching and marketing aquatic products, see section 522 of this title.
-
-Associations of producers of agriculture products monopolizing or restraining trade and unduly enhancing prices, see section 292 of Title 7, Agriculture.
-
-Automobile dealer suits against manufacturers, see chapter 27 of this title.
-
-Bids for services and supplies for armed forces violating anti-trust laws, reference to Attorney General, see section 2305 of Title 10, Armed Forces.
-
-Carriers, agreements between as to rates, etc., see section 10706 of Title 49, Transportation.
-
-Department of Commerce, see section 1501 et seq. of this title.
-
-District courts, original jurisdiction of any civil action or proceeding arising under this chapter, see section 1337 of Title 28, Judiciary and Judicial Procedure.
-
-Electrical energy, monopolistic combinations prohibited, see section 803 of Title 16, Conservation.
-
-Exemptions from anti-trust laws—
-
-&emsp;&emsp;Marketing agreements of Secretary of Agriculture with manufacturers and others engaged in handling anti-hog-cholera serum and hog-cholera virus, see section 852 of Title 7, Agriculture.
-
-&emsp;&emsp;Marketing agreements of Secretary of Agriculture with processors, producers, associations of producers, and others engaged in handling any agricultural commodity or product thereof, see section 608b of Title 7.
-
-&emsp;&emsp;Meetings, awards, and agreements concerning marketing of milk or its products, see section 671 of Title 7.
-
-Export trade, applicability of sections 1 to 7 of this title, see section 62 of this title.
-
-Federal Trade Commission—
-
-&emsp;&emsp;Investigation of compliance with anti-trust decrees and violation of anti-trust statutes, and recommendations for readjustment of business of offending corporations, see section 46 of this title.
-
-&emsp;&emsp;Reference of equity suits to commission, see section 47 of this title.
-
-Import trade—
-
-&emsp;&emsp;Sale of imported articles at less than market value or wholesale price prohibited, see section 72 of this title.
-
-&emsp;&emsp;Unfair methods of competition and unfair practices in import trade as unlawful, see section 1337 of Title 19, Customs Duties.
-
-Insurance business as subject to this chapter, see sections 1012 and 1013 of this title.
-
-Packers or live poultry dealers restraining commerce or creating a monopoly, see section 192 of Title 7, Agriculture.
-
-Radio—
-
-&emsp;&emsp;Competition in commerce, see section 314 of Title 47, Telegraphs, Telephones, and Radiotelegraphs.
-
-&emsp;&emsp;Manufacture or sale, see section 313 of Title 47.
-
-Telecasting of professional sports contests, antitrust laws exemption, see section 1291 et seq. of this title.
-
-Tobacco control, compacts between states, see section 515 of Title 7, Agriculture.
+Ex. Ord. No. 12022, Dec. 1, 1977, 42 F.R. 61441, as amended by Ex. Ord. No. 12052, Apr. 7, 1978, 43 F.R. 15133, which related to the National Commission for the Review of Antitrust Laws and Procedures, was revoked by Ex. Ord. No. 12258, Dec. 31, 1980, 46 F.R. 1251, set out as a note under section 14 of the Appendix to Title 5, Government Organization and Employees.
 
 #### Antitrust Acts and Laws Defined in Other Sections
 

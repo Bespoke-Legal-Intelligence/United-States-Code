@@ -20,7 +20,7 @@ As used in this chapter:
 
 &emsp;(5) The term “competitive procedures” means procedures under which an agency enters into a contract pursuant to full and open competition.
 
-&emsp;(6) The term “full and open competition”, when used with respect to a procurement,means that all responsible sources are permitted to submit sealed bids or competitive proposals on the procurement.
+&emsp;(6) The term “full and open competition”, when used with respect to a procurement, means that all responsible sources are permitted to submit sealed bids or competitive proposals on the procurement.
 
 &emsp;(7) The term “responsible source” means a prospective contractor who—
 
@@ -78,7 +78,7 @@ As used in this chapter:
 
 &emsp;&emsp;(G) Any item, combination of items, or service referred to in subparagraphs (A) through (F) notwithstanding the fact that the item, combination of items, or service is transferred between or among separate divisions, subsidiaries, or affiliates of a contractor.
 
-&emsp;&emsp;(H) A nondevelopmental item, if the procuring agency determines, in accordance with conditions set forth in the Federal Acquisition Regulation, that the item was developed exclusively at private expense and has been sold in substantial quantities, on acompetitive basis, to multiple State and local governments.
+&emsp;&emsp;(H) A nondevelopmental item, if the procuring agency determines, in accordance with conditions set forth in the Federal Acquisition Regulation, that the item was developed exclusively at private expense and has been sold in substantial quantities, on a competitive basis, to multiple State and local governments.
 
 &emsp;(13) The term “nondevelopmental item” means any of the following:
 
@@ -160,5 +160,5 @@ Section 2752 of Pub. L. 98–369 provided that: “Not later than March 31, 1985
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 57, 58, 252a, 254b, 259, 264a, 418a, 431, 701 of this title; title 7 section 5909; title 10 sections 2207, 2302, 2302a, 2306a, 2376, 2384, 2393, 2402, 2408, 2410, 2410b, 2410g, 2410i, 2482; title 15 sections205c, 632, 637, 657a; title 20 section 1018a; title 22 section 2679c; title 33 section 1368; title 40 sections 334, 1401; title 49 section 40118.
+This section is referred to in sections 57, 58, 252a, 254b, 259, 264a, 418a, 431, 701 of this title; title 7 section 5909; title 10 sections 2207, 2225, 2226, 2302, 2302a, 2306a, 2376, 2384, 2393, 2402, 2408, 2410, 2410b, 2410g, 2410i, 2482, 2636, 2662; title 15 sections 205c, 632, 637, 657a; title 16 sections 669h, 777h; title 20 section 1018a; title 22 section 2679c; title 33 section 1368; title 40 sections 334, 1401; title 42 section 5403; title 49 section 40118.
 

@@ -6,7 +6,7 @@ The Secretary is required to waive the eligibility criteria of any postsecondary
 
 #### (b) Eligibility
 
-Notwithstanding any other provision of law, an institution of higher education that is located in any of the Freely Associated States, rather than in another State, shall be eligible, if otherwise qualified, for assistance under division 1 of subpart 2 of part A of subchapter IV of this chapter. This subsection shall cease to be effective on September 30, 2004.
+Notwithstanding any other provision of law, an institution of higher education that is located in any of the Freely Associated States, rather than in another State, shall be eligible, ifotherwise qualified, for assistance under division 1 of subpart 2 of part A of subchapter IV of this chapter. This subsection shall cease to be effective on September 30, 2004.
 
 (Pub. L. 89–329, title I, §113, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1591.)
 

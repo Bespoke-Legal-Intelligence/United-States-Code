@@ -78,9 +78,17 @@ Amendment by section 611 of Pub. L. 104–127 effective 90 days after Apr. 4, 19
 
 Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under section 4301 of this title.
 
+#### Farm Operating Loan Eligibility
+
+Pub. L. 106–224, title II, §255, June 20, 2000, 114 Stat. 424, provided that: “During the period beginning on the date of the enactment of this Act \[June 20, 2000\] and ending on December 31, 2002—
+
+&emsp;“(1) sections 311(c) and 319 of the Consolidated Farm and Rural Development Act (7 U.S.C. 1941(c), 1949) shall have no force or effect; and
+
+&emsp;“(2) in making direct loans under subtitle B of that Act (7 U.S.C. 1941 et seq.), the Secretary shall give priority to a qualified beginning farmer or rancher who has not operated a farm or ranch, or who has operated a farm or ranch for not more than 5 years.”
+
 #### Authority of Secretary To Make or Guarantee Certain Loans
 
-Pub. L. 104–134, title II, §2002, Apr. 26, 1996, 110 Stat. 1321–313, provided that: “Notwithstanding any other provision of law, the Secretary of Agriculture is hereby authorized to make or guarantee an operating loan under Subtitle B \[7 U.S.C. 1941 et seq.\] or an emergency loan under Subtitle C \[7 U.S.C. 1961 et seq.\] of the Consolidated Farm and Rural Development Act (7 U.S.C. 1922 et. seq.), as in effect prior to April 4, 1996, to a loan applicant who was less than 90 days delinquent on April 4, 1996, if the loan applicant had submitted an application for the loan prior to April 5, 1996.”
+Pub. L. 104–134, title II, §2002, Apr. 26, 1996, 110 Stat. 1321–313, provided that: “Notwithstanding any other provision of law, the Secretary of Agriculture is hereby authorized to make or guarantee an operating loan under Subtitle B \[7 U.S.C. 1941 et seq.\] or an emergency loan under Subtitle C \[7 U.S.C. 1961 et seq.\] of the Consolidated Farm and Rural Development Act (7 U.S.C.1922 et. seq.), as in effect prior to April 4, 1996, to a loan applicant who was less than 90 days delinquent on April 4, 1996, if the loan applicant had submitted an application for the loan prior to April 5, 1996.”
 
 #### 1989 Farm Operating Loans
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary of the Interior (in this subchapter referred to as the “Secretary”) may carry out in accordance with this subchapter a program to be known as the “Junior Duck Stamp Conservation and Design Program” (in this subchapter referred to as the “Program”) to accomplish the goals of—
+The Secretary of the Interior (in this subchapter referred to as the “Secretary”) maycarry out in accordance with this subchapter a program to be known as the “Junior Duck Stamp Conservation and Design Program” (in this subchapter referred to as the “Program”) to accomplish the goals of—
 
 &emsp;(1) providing to school children environmental education opportunities relating to the conservation and management of migratory birds; and
 
@@ -22,13 +22,17 @@ The Program shall consist of—
 
 #### (1) In general
 
-&emsp;The Secretary shall take appropriate steps to seek to conduct the Program in all of the 50 States.
+&emsp;The Secretary shall take appropriate steps to seek to conduct the Program in all of the States.
 
 #### (2) Annual report
 
-&emsp;The Secretary shall annually submit a report to the Congress on the status of the Program in each of the 50 States.
+&emsp;The Secretary shall annually submit a report to the Congress on the status of the Program in each of the States.
 
-(Pub. L. 103–340, §2, Oct. 6, 1994, 108 Stat. 3119.)
+(Pub. L. 103–340, §2, Oct. 6, 1994, 108 Stat. 3119; Pub. L. 106–316, §2(1), Oct. 19, 2000, 114 Stat. 1276.)
+
+#### Amendments
+
+2000—Subsec. (c). Pub. L. 106–316 struck out “50” before “States” in pars. (1) and (2).
 
 #### Short Title
 

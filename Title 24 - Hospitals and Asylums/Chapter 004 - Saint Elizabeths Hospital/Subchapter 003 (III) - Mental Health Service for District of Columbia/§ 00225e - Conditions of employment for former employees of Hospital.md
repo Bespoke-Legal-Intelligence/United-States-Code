@@ -4,25 +4,25 @@
 
 Each individual accepting employment without a break in service with the District government pursuant to section 225d of this title shall—
 
-&emsp;(1) except as specifically provided in this subchapter, be required to meet all District qualifications other than licensure requirements for appointment required of other candidates, and shall become District employees in the comparable District service subject tothe provisions of the District of Columbia Government Comprehensive Merit Personnel Act of 1978 \[D.C. Code, §1–601.1 et seq.\], and all other statutes and regulations governing District personnel;
+&emsp;(1) except as specifically provided in this subchapter, be required to meet all District qualifications other than licensure requirements for appointment required of other candidates, and shall become District employees in the comparable District service subject to the provisions of the District of Columbia Government Comprehensive Merit Personnel Act of 1978, and all other statutes and regulations governing District personnel;
 
 &emsp;(2) meet all licensure requirements within 18 months of appointment by the District government;
 
-&emsp;(3) notwithstanding chapter 63 of title 5, transfer accrued annual and sick leave balances pursuant to title XII of the District of Columbia Comprehensive Merit Personnel Act of 1978 \[D.C. Code, §1–613.1 et seq.\];
+&emsp;(3) notwithstanding chapter 63 of title 5, transfer accrued annual and sick leave balances pursuant to title XII of the District of Columbia Comprehensive Merit Personnel Act of 1978;
 
-&emsp;(4) have the grade and rate of pay determined in accordance with regulations established pursuant to title XI of the District of Columbia Comprehensive Merit Personnel Act of 1978 \[D.C. Code, §1.612.1 et seq.\], except that no employee shall suffer a loss in the basic rate of pay or in seniority;
+&emsp;(4) have the grade and rate of pay determined in accordance with regulations established pursuant to title XI of the District of Columbia Comprehensive Merit Personnel Act of 1978, except that no employee shall suffer a loss in the basic rate of pay or in seniority;
 
 &emsp;(5) if applicable, retain a rate of pay including the physician's comparability allowance under the provisions of section 5948 of title 5, and continue to receive such allowance under the terms of the then prevailing agreement until its expiration or for a period of 2 years from the date of appointment by the District government, whichever occurs later;
 
 &emsp;(6) be entitled to the same health and life insurance benefits as are available to District employees in the applicable service;
 
-&emsp;(7) if employed by the Federal Government before January 1, 1984, continue to be covered by the United States Civil Service Retirement System, under chapter 83 of title 5, to the same extent that such retirement system covers District Government <sup>1</sup> employees; and
+&emsp;(7) if employed by the Federal Government before January 1, 1984, continue to be coveredby the United States Civil Service Retirement System, under chapter 83 of title 5, to the same extent that such retirement system covers District Government <sup>1</sup> employees; and
 
-&emsp;(8) if employed by the Federal Government on or after January 1, 1984, be subject to the retirement system applicable to District government employees pursuant to title XXVI, Retirement, of the District of Columbia Government Comprehensive Merit Personnel Act of 1978 \[D.C. Code, §1–627.1 et seq.\].
+&emsp;(8) if employed by the Federal Government on or after January 1, 1984, be subject to the retirement system applicable to District government employees pursuant to title XXVI, Retirement, of the District of Columbia Government Comprehensive Merit Personnel Act of 1978.
 
 #### (b) Exemption from residency requirements
 
-An individual appointed to a position in the District government without a break in service, from the retention list, or from the District or Federal agency reemployment priority lists shall be exempt from the residency requirements of title VIII of the District of Columbia Government Comprehensive Merit Personnel Act of 1978 \[D.C. Code, §1–608.1 et seq.\].
+An individual appointed to a position in the District government without a break in service, from the retention list, or from the District or Federal agency reemployment priority lists shall be exempt from the residency requirements of title VIII of the District of Columbia Government Comprehensive Merit Personnel Act of 1978.
 
 #### (c) Compensation; work related injuries
 
@@ -30,7 +30,7 @@ An individual receiving compensation for work injuries pursuant to chapter 81 of
 
 &emsp;(1) continue to have the claims adjudicated and the related costs paid by the Federal Government until such individual recovers and returns to duty;
 
-&emsp;(2) if medically recovered and returned to duty, have any subsequent claim for the recurrence of the disability determined and paid under the provisions of title XXIII of the District of Columbia Comprehensive Merit Personnel Act of 1978 \[D.C. Code, §1–624.1 et seq.\].
+&emsp;(2) if medically recovered and returned to duty, have any subsequent claim for the recurrence of the disability determined and paid under the provisions of title XXIII of the District of Columbia Comprehensive Merit Personnel Act of 1978.
 
 #### (d) Actions by District against individuals accepting employment
 
@@ -48,7 +48,7 @@ For purposes of this section, Hospital employees shall include former patient em
 
 #### References in Text
 
-The District of Columbia Government Comprehensive Merit Personnel Act of 1978, referred to in subsecs. (a)(1), (3), (4), (8), (b), and (c), is D.C. Law 2–139, Mar. 3, 1979, appears in chapter 6 (§1–601.1 et seq.) of Title 1, Administration, of the District of Columbia Code. Titles XII, XI, XXVI, and VIII and XXIII of the District of Columbia Comprehensive Merit Personnel Act of 1978 appear in subchapters XIII (§1–613.1 et seq.), XII (§1–612.1 et seq.), XXVII (§1–627.1 et seq.), VIII (§1–608.1), and XXIV (§1–624.1 et seq.), respectively, of chapter 6 of Title 1.
+The District of Columbia Government Comprehensive Merit Personnel Act of 1978, referred to in subsecs. (a)(1), (3), (4), (8), (b), and (c)(2), is D.C. Law 2–139, Mar. 3, 1979, as amended, which is not classified to the Code.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

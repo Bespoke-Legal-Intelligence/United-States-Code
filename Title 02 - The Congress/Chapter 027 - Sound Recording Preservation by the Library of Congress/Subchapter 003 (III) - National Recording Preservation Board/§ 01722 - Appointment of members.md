@@ -1,0 +1,74 @@
+### §1722. Appointment of members
+
+#### (a) Selections from lists submitted by organizations
+
+#### (1) In general
+
+&emsp;The Librarian shall request each organization described in paragraph (2) to submit a list of three candidates qualified to serve as a member of the Board. The Librarian shall appoint one member from each such list, and shall designate from that list an alternate who may attend at Board expense those meetings which the individual appointed to the Board cannot attend.
+
+#### (2) Organizations described
+
+&emsp;The organizations described in this paragraph are as follows:
+
+&emsp;&emsp;(A) National Academy of Recording Arts and Sciences (NARAS).
+
+&emsp;&emsp;(B) Recording Industry Association of America (RIAA).
+
+&emsp;&emsp;(C) Association for Recorded Sound Collections (ARSC).
+
+&emsp;&emsp;(D) American Society of Composers, Authors and Publishers (ASCAP).
+
+&emsp;&emsp;(E) Broadcast Music, Inc. (BMI).
+
+&emsp;&emsp;(F) Songwriters Association (SESAC).
+
+&emsp;&emsp;(G) American Federation of Musicians (AF of M).
+
+&emsp;&emsp;(H) Music Library Association.
+
+&emsp;&emsp;(I) American Musicological Society.
+
+&emsp;&emsp;(J) National Archives and Record Administration.
+
+&emsp;&emsp;(K) National Association of Recording Merchandisers (NARM).
+
+&emsp;&emsp;(L) Society for Ethnomusicology.
+
+&emsp;&emsp;(M) American Folklore Society.
+
+&emsp;&emsp;(N) Country Music Foundation.
+
+&emsp;&emsp;(O) Audio Engineering Society (AES).
+
+&emsp;&emsp;(P) National Academy of Popular Music.
+
+&emsp;&emsp;(Q) Digital Media Association (DiMA).
+
+#### (b) Other members
+
+In addition to the members appointed under subsection (a) of this section, the Librarian may appoint not more than five members-at-large. The Librarian shall select an alternate for each member-at-large, who may attend at Board expense those meetings that the member-at-large cannot attend.
+
+#### (c) Chair
+
+The Librarian shall appoint one member of the Board to serve as Chair.
+
+#### (d) Term of office
+
+#### (1) Terms
+
+&emsp;The term of each member of the Board shall be 4 years, except that there shall be no limit to the number of terms that any individual member may serve.
+
+#### (2) Removal of member of organization
+
+&emsp;The Librarian shall have the authority to remove any member of the Board (or, in the case of a member appointed under subsection (a)(1) of this section, the organization that such member represents) if the member or organization over any consecutive 2-year period fails to attend at least one regularly scheduled Board meeting.
+
+#### (3) Vacancies
+
+&emsp;A vacancy in the Board shall be filled in the manner in which the original appointment was made under subsection (a) of this section, except that the Librarian may fill the vacancy from a list of candidates previously submitted by the organization or organizations involved. Any member appointed to fill a vacancy shall be appointed for the remainder of the term of the member's predecessor.
+
+(Pub. L. 106–474, title I, §122, Nov. 9, 2000, 114 Stat. 2088.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1721 of this title.
+

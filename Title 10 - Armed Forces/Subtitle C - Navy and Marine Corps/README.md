@@ -77,7 +77,7 @@
 | [<b>643.</b>](Part%20004%20%28IV%29%20-%20General%20Administration/Chapter%20643%20-%20Civilian%20Employees/README.md) | <b>Civilian Employees</b> | <b>7471</b> |
 | [<b>645.</b>](Part%20004%20%28IV%29%20-%20General%20Administration/Chapter%20645%20-%20Procurement%20of%20Supplies%20and%20Services/README.md) | <b>Procurement of Supplies and Services</b> | <b>7521</b> |
 | [<b>647.</b>](Part%20004%20%28IV%29%20-%20General%20Administration/Chapter%20647%20-%20Disposal%20of%20Obsolete%20or%20Surplus%20Material/README.md) | <b>Disposal of Obsolete or Surplus Material</b> | <b>7541</b> |
-| [<b>649.</b>](Part%20004%20%28IV%29%20-%20General%20Administration/Chapter%20649%20-%20Quarters%2C%20Utilities%2C%20and%20Related%20Services/README.md) | <b>Quarters, Utilities, and Related Services</b> | <b>7571</b> |
+| [<b>649.</b>](Part%20004%20%28IV%29%20-%20General%20Administration/Chapter%20649%20-%20Quarters%2C%20Utilities%2C%20and%20Services/README.md) | <b>Quarters, Utilities, and Services</b> | <b>7571</b> |
 | [<b>651.</b>](Part%20004%20%28IV%29%20-%20General%20Administration/Chapter%20651%20-%20Ships%E2%80%99%20Stores%20and%20Commissary%20Stores/README.md) | <b>Ships’ Stores and Commissary Stores</b> | <b>7601</b> |
 | [<b>653.</b>](Part%20004%20%28IV%29%20-%20General%20Administration/Chapter%20653%20-%20Claims/README.md) | <b>Claims</b> | <b>7621</b> |
 | [<b>655.</b>](Part%20004%20%28IV%29%20-%20General%20Administration/Chapter%20655%20-%20Prize/README.md) | <b>Prize</b> | <b>7651</b> |
@@ -90,6 +90,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2000—Pub. L. 106–398, §1 \[\[div. A\], title X, §1085(b)(3)(B)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–289, struck out “Related” after “Quarters, Utilities, and” in item for chapter 649.
 
 1998—Pub. L. 105–261, div. A, title V, §521(b)(2), Oct. 17, 1998, 112 Stat. 2011, added item for chapter 602.
 

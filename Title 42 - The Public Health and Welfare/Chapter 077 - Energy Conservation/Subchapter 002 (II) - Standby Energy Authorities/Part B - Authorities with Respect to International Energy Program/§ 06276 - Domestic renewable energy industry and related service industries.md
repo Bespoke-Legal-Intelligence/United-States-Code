@@ -68,7 +68,7 @@ It is the purpose of this section to implement the responsibilities of the Unite
 
 &emsp;&emsp;(A) provide technical training and education for international development personnel and local users in their own country;
 
-&emsp;&emsp;(B) provide financial and technical assistance to nonprofit institutions that support the marketing and export efforts of domestic companies that provide renewable energy and energy efficiency products and services;
+&emsp;&emsp;(B) provide financial and technical assistance to nonprofit institutions that supportthe marketing and export efforts of domestic companies that provide renewable energy and energy efficiency products and services;
 
 &emsp;&emsp;(C) develop environmentally sustainable renewable energy and energy efficiency projects in foreign countries;
 
@@ -82,9 +82,7 @@ It is the purpose of this section to implement the responsibilities of the Unite
 
 &emsp;The interagency working group shall conduct a study of subsidies, incentives, and policies that foreign countries use to promote exports of their own renewable energy and energy efficiency technologies and products. Such study shall also identify foreign trade barriers to the import of renewable energy and energy efficiency technologies and products produced in the United States. The interagency working group shall report to the appropriate committees of the House of Representatives and the Senate the results of such study within 18 months after October 24, 1992.
 
-#### (e) Annual report to Congress by interagency working group
-
-The interagency working group established under subsection (d) of this section shall annually report to Congress, describing the actions of each agency represented by a member of the working group taken during the previous fiscal year to achieve the purposes of such working group and of this section. Such report shall describe the exports of renewable energy technology that have occurred as a result of such agency actions.
+#### (e) Omitted
 
 #### (f) Functions of interagency working group; plan to increase United States exports of renewable energy and energy efficiency technologies
 
@@ -96,21 +94,29 @@ The interagency working group established under subsection (d) of this section s
 
 &emsp;(C) recommend specific renewable energy and energy efficiency technology markets for primary emphasis by Federal export loan programs, development programs, and private sector assistance programs.
 
-(2) The interagency working group shall include a description of the plan established under paragraph (1)(A) in no later than the second report submitted under subsection (e) of this section, and shall include in subsequent reports a description of any modifications to such plan and of the progress in implementing the plan.
+(2) The interagency working group shall include a description of the plan established under paragraph (1)(A) in no later than the second report submitted under subsection (e) <sup>1</sup> of this section, and shall include in subsequent reports a description of any modifications to such plan and of the progress in implementing the plan.
 
 #### (g) Repealed. Pub. L. 102–486, title XII, §1207(c), Oct. 24, 1992, 106 Stat. 2963
 
 #### (h) Authorization of appropriations
 
-There are authorized to be appropriated to the Secretary for purposes of carrying out the programs under subsections (d) and (e) of this section $10,000,000, to be divided equitably between the interagency working subgroups based on program requirements, for each of the fiscal years 1993 and 1994, and such sums as may be necessary for fiscal year 1995 to carry out the purposes of this subtitle.<sup>1</sup> There are authorized to be appropriated for fiscal year 1997 such sums as may be necessary to carry out this part.
+There are authorized to be appropriated to the Secretary for purposes of carrying out the programs under subsections (d) and (e) <sup>1</sup> of this section $10,000,000, to be divided equitably between the interagency working subgroups based on program requirements, for each of the fiscal years 1993 and 1994, and such sums as may be necessary for fiscal year 1995 to carry out the purposes of this subtitle.<sup>1</sup> There are authorized to be appropriated for fiscal year 1997 such sums as may be necessary to carry out this part. There are authorized to be appropriated for fiscal years 2000 through 2003, such sums as may be necessary.
 
-(Pub. L. 94–163, title II, §256, as added Pub. L. 98–370, §2, July 18, 1984, 98 Stat. 1211; amended Pub. L. 101–218, §7, Dec. 11, 1989, 103 Stat. 1867; Pub. L. 102–486, title XII, §§1207, 1208, Oct. 24, 1992, 106 Stat. 2962, 2964; Pub. L. 104–306, §1(3), Oct. 14, 1996, 110 Stat. 3810.)
+(Pub. L. 94–163, title II, §256, as added Pub. L. 98–370, §2, July 18, 1984, 98 Stat. 1211; amended Pub. L. 101–218, §7, Dec. 11, 1989, 103 Stat. 1867; Pub. L. 102–486, title XII, §§1207, 1208, Oct. 24, 1992, 106 Stat. 2962, 2964; Pub. L. 104–306, §1(3), Oct. 14, 1996, 110 Stat. 3810; Pub. L. 106–469, title I, §104(2), Nov. 9, 2000, 114 Stat. 2033.)
 
 #### References in Text
 
+Subsection (e) of this section, referred to in subsecs. (f)(2) and (h), was omitted from the Code.
+
 This subtitle, referred to in subsec. (h), is unidentifiable in the original because neither title XII of Pub. L. 102–486 which added subsec. (h) of this section, nor title II of Pub. L. 94–163, which enacted this section, contains subtitles.
 
+#### Codification
+
+Subsec. (e) of this section, which required the interagency working group established under subsec. (d) of this section to annually report to Congress, describing the actions of each agency represented by a member of the working group taken during the previous fiscal year to achieve the purposes of such working group and of this section and describing the exports of renewable energy technology that have occurred as a result of such agency actions, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, the 6th item on page 175 of House Document No. 103–7.
+
 #### Amendments
+
+2000—Subsec. (h). Pub. L. 106–469 inserted at end “There are authorized to be appropriated for fiscal years 2000 through 2003, such sums as may be necessary.”
 
 1996—Subsec. (h). Pub. L. 104–306 inserted at end “There are authorized to be appropriated for fiscal year 1997 such sums as may be necessary to carry out this part.”
 

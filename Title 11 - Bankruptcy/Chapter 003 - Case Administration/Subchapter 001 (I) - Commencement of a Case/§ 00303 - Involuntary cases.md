@@ -30,7 +30,7 @@
 
 &emsp;(1) the debtor is generally not paying such debtor's debts as such debts become due unless such debts are the subject of a bona fide dispute; or
 
-&emsp;(2) within 120 days before the date of the filing of the petition, a custodian, other than a trustee, receiver, or agent appointed or authorized to take charge of less than substantially all of the property of the debtor for thepurpose of enforcing a lien against such property, was appointed or took possession.
+&emsp;(2) within 120 days before the date of the filing of the petition, a custodian, other than a trustee, receiver, or agent appointed or authorized to take charge of less than substantially all of the property of the debtor for the purpose of enforcing a lien against such property, was appointed or took possession.
 
 (i) If the court dismisses a petition under this section other than on consent of all petitioners and the debtor, and if the debtor does not waive the right to judgment under this subsection, the court may grant judgment—
 
@@ -82,7 +82,7 @@ Subsection (b) of the section specifies who may file an involuntary petition. As
 
 Subsection (c) permits creditors other than the original petitioning creditors to join in the petition with the same effect as if the joining creditor had been one of the original petitioning creditors. Thus, if the claim of one of the original petitioning creditors is disallowed, the case will not be dismissed for want of three creditors or want of $5,000 in petitioning claims if the joining creditor suffices to fulfill the statutory requirements.
 
-Subsection (d) permits the debtor to file an answer to an involuntary petition. The subsection also permits a general partner in a partnership debtor to answer aninvoluntary petition against the partnership if he did not join in the petition. Thus, a partnership petition by less than all of the general partners is treated as an involuntary, not a voluntary, petition.
+Subsection (d) permits the debtor to file an answer to an involuntary petition. The subsection also permits a general partner in a partnership debtor to answer an involuntary petition against the partnership if he did not join in the petition. Thus, a partnership petition by less than all of the general partners is treated as an involuntary, not a voluntary, petition.
 
 The court may, under subsection (e), require the petitioners to file a bond to indemnify the debtor for such amounts as the court may later allow under subsection (i). Subsection (i) provides for costs, attorneys fees, and damages in certain circumstances. The bonding requirement will discourage frivolous petitions as well as spiteful petitions based on a desire to embarrass the debtor (who may be a competitor of a petitioning creditor) or to put the debtor out of business without good cause. An involuntary petition may put a debtor out of business even if it is without foundation and is later dismissed.
 
@@ -130,7 +130,7 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with 
 
 Effective date and applicability of amendment by section 204 of Pub. L. 99–554 dependent upon the judicial district involved, see section 302(d), (e) of Pub. L. 99–554, set out as a note under section 581 of Title 28, Judiciary and Judicial Procedure.
 
-Amendment by section 254 of Pub. L. 99–554 effective 30 days after Oct. 27, 1986, but not applicable to casescommenced under this title before that date, see section 302(a), (c)(1) of Pub. L. 99–554.
+Amendment by section 254 of Pub. L. 99–554 effective 30 days after Oct. 27, 1986, but not applicable to cases commenced under this title before that date, see section 302(a), (c)(1) of Pub. L. 99–554.
 
 Amendment by section 283 of Pub. L. 99–554 effective 30 days after Oct. 27, 1986, see section 302(a) of Pub. L. 99–554.
 
@@ -140,7 +140,7 @@ Amendment by sections 426(a) and 427 of Pub. L. 98–353 effective with respect 
 
 #### Adjustment of Dollar Amounts
 
-For adjustment of dollar amounts specified in subsec. (b)(1), (2) of this section by the Judicial Conference of the United States, effective Apr. 1, 1998, see note set out under section 104 of this title.
+For adjustment of dollar amounts specified in subsec. (b)(1), (2) of this section by the Judicial Conference ofthe United States, effective Apr. 1, 1998, see note set out under section 104 of this title.
 
 #### Section Referred to in Other Sections
 

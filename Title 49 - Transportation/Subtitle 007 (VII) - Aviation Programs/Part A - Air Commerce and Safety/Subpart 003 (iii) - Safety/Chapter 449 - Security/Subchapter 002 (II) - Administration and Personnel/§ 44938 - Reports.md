@@ -32,7 +32,7 @@ Screening and Foreign Air Carrier and Airport Security.—The Administrator shal
 
 &emsp;(2) that includes a summary of the assessments conducted under section 44907(a)(1) and (2) of this title; and
 
-&emsp;(3) that includes an assessment of the steps being taken, and the progress being made, inensuring compliance with section 44906 of this title for each foreign air carrier security program at airports outside the United States—
+&emsp;(3) that includes an assessment of the steps being taken, and the progress being made, in ensuring compliance with section 44906 of this title for each foreign air carrier security program at airports outside the United States—
 
 &emsp;&emsp;(A) at which the Administrator decides that Foreign Security Liaison Officers are necessary for air transportation security; and
 
@@ -91,6 +91,10 @@ Subsec. (b). Pub. L. 105–362, §1502(b)(2), substituted “biennially” for �
 Subsec. (c). Pub. L. 105–362, §1502(b)(3), struck out heading and text of subsec. (c). Text read as follows: “The Administrator shall submit to Congress an annual report for each of the calendar years 1991 and 1992 on the progress being made, and the problems occurring, in carrying out section 44904 of this title. The report shall include recommendations for improving domestic air transportation security.”
 
 1994—Subsec. (a). Pub. L. 103–305 substituted “March 31” for “December 31”.
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the 8th item on page 132 and the 11th item on page 138 identify reporting provisions which, as subsequently amended, are contained, respectively, in subsecs. (a) and (b)(1), (2) of this section), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 
 #### Section Referred to in Other Sections
 

@@ -16,7 +16,3 @@ The words referring to Hot Springs National Park are taken from a part of the In
 
 Act Sept. 12, 1950, ch. 946, title III, §301(95), 64 Stat. 844, cited as a credit to this section, was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068, 1077.
 
-#### Cross References
-
-Disposition of revenue arising from licenses for occupancy and use of National Parks and Monuments, see section 810 of this title.
-

@@ -12,9 +12,11 @@
 
 &emsp;(D) Providing services to victims of sex offenses and for prevention of sex offenses.
 
-&emsp;(E) With respect to activities described in any of subparagraphs (A) through (D), relatedplanning, administration, and educational activities.
+&emsp;(E) The establishment, operation, and coordination of effective and cost-efficient systems to reduce the prevalence of illness due to asthma and asthma-related illnesses, especially among children, by reducing the level of exposure to cockroach allergen or other known asthma triggers through the use of integrated pest management, as applied to cockroaches or other known allergens. Amounts expended for such systems may include the costs of building maintenance and the costs of programs to promote community participation in the carrying out at such sites of integrated pest management, as applied to cockroaches or other known allergens. For purposes of this subparagraph, the term “integrated pest management” means an approach to the management of pests in public facilities that combines biological, cultural, physical, and chemical tools in a way that minimizes economic, health, and environmental risks.
 
-&emsp;(F) Monitoring and evaluation of activities carried out under any of subparagraphs (A) through (E) <sup>1</sup>
+&emsp;(F) With respect to activities described in any of subparagraphs (A) through (E), related planning, administration, and educational activities.
+
+&emsp;(G) Monitoring and evaluation of activities carried out under any of subparagraphs (A) through (F).
 
 (2) Except as provided in subsection (b) of this section, amounts paid to a State under section 300w–2 of this title from its allotment under section 300w–1(b) of this title may only be used for providing services to rape victims and for rape prevention.
 
@@ -38,19 +40,25 @@ A State may not use amounts paid to it under section 300w–2 of this title to�
 
 #### (c) Transfer of funds
 
-A State may transfer not more than 7 percent of the amount allotted to the State under section 300w–1(a) of this title for any fiscal year for use by the State under part B of this subchapter and title V of the Social Security Act \[42 U.S.C. 701 et seq.\] in such fiscal year as follows: At any time in the first three quarters of the fiscal year a State may transfer not more than 3 percent of the allotment of the State for the fiscal year for such use, and in the last quarter of a fiscal year a State may transfer for such use not more than the remainder of the amount of its allotment which may be transferred.
+A State may transfer not more than 7 percent of the amount allotted to the State under section 300w–1(a) of this title for any fiscal year for use by the State under part B of this subchapter and title V of the Social Security Act \[42 U.S.C. 701 et seq.\] in such fiscal year as follows: At any time in the first three quarters of the fiscal year a State may transfer not more than 3 percent of the allotment of the State for the fiscal year for such use, and in the last quarter of a fiscal yeara State may transfer for such use not more than the remainder of the amount of its allotment which may be transferred.
 
 #### (d) Limitation on administrative costs
 
 Of the amount paid to any State under section 300w–2 of this title, not more than 10 percent paid from each of its allotments under subsections (a) and (b) of section 300w–1 of this title may be used for administering the funds made available under section 300w–2 of this title. The State will pay from non-Federal sources the remaining costs of administering such funds.
 
-(July 1, 1944, ch. 373, title XIX, §1904, as added Pub. L. 97–35, title IX, §901, Aug. 13, 1981, 95 Stat. 537; amended Pub. L. 97–414, §8(s), Jan. 4, 1983, 96 Stat. 2062; Pub. L. 99–646, §87(d)(1)(A), Nov. 10, 1986, 100 Stat. 3623; Pub. L. 99–654, §3(b)(1)(A), Nov. 14, 1986, 100 Stat. 3663; Pub. L. 100–607, title III, §301(b), Nov. 4, 1988, 102 Stat. 3111; Pub. L. 102–531, title I, §102, Oct. 27, 1992, 106 Stat. 3470.)
+(July 1, 1944, ch. 373, title XIX, §1904, as added Pub. L. 97–35, title IX, §901, Aug. 13, 1981, 95 Stat. 537; amended Pub. L. 97–414, §8(s), Jan. 4, 1983, 96 Stat. 2062; Pub. L. 99–646, §87(d)(1)(A), Nov. 10, 1986, 100 Stat. 3623; Pub. L. 99–654, §3(b)(1)(A), Nov. 14, 1986, 100 Stat. 3663; Pub. L. 100–607, title III, §301(b), Nov. 4, 1988, 102 Stat. 3111; Pub. L. 102–531, title I, §102, Oct. 27, 1992, 106 Stat. 3470; Pub. L. 106–310, div. A, title V, §511, Oct. 17, 2000, 114 Stat. 1116.)
 
 #### References in Text
 
 The Social Security Act, referred to in subsec. (c), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title V of the Social Security Act is classified generally to subchapter V (§701 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Amendments
+
+2000—Subsec. (a)(1)(E). Pub. L. 106–310, §511(3), added subpar. (E). Former subpar. (E) redesignated (F).
+
+Subsec. (a)(1)(F). Pub. L. 106–310, §511(1), (4), redesignated subpar. (E) as (F) and substituted “subparagraphs (A) through (E)” for “subparagraphs (A) through (D)”. Former subpar. (F) redesignated (G).
+
+Subsec. (a)(1)(G). Pub. L. 106–310, §511(1), (2), (5), redesignated subpar. (F) as (G) and substituted “subparagraphs (A) through (F).” for “subparagraphs (A) through (E)”.
 
 1992—Subsec. (a)(1). Pub. L. 102–531, §102(a), amended par. (1) generally, substituting present provisions for provisions authorizing, except as provided in subsecs. (b) and (c), use of the amounts paid to a State under section 300w–2 of this title from its allotment under section 300w–1(a) of this title and amounts transferred by the State, for use in preventive health service programs, including hypertension and high cholesterol services, health-risk reduction programs, immunization services, home health agencies, emergency medical services, services to victims of sex offenses, and uterine cancer and breast cancer services.
 
@@ -76,7 +84,5 @@ Amendments by Pub. L. 99–646 and Pub. L. 99–654 effective 30 days after Nov.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 300w–2, 300w–4, 300w–5, 300w–9, 300w–10 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
+This section is referred to in sections 300w–2, 300w–4, 300w–5, 300w–9 of this title.
 

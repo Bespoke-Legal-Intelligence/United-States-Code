@@ -2,7 +2,7 @@
 
 (a) Except as otherwise provided by Act of Congress, the district courts shall have jurisdiction of any civil action to enforce, in whole or in part, any order of the Surface Transportation Board, and to enjoin or suspend, in whole or in part, any order of the Surface Transportation Board for the payment of money or the collection of fines, penalties, and forfeitures.
 
-(b) When a district court or the United States Court of Federal Claims refers a question or issue to the Surface Transportation Board fordetermination, the court which referred the question or issue shall have exclusive jurisdiction of a civil action to enforce, enjoin, set aside, annul, or suspend, in whole or in part, any order of the Surface Transportation Board arising out of such referral.
+(b) When a district court or the United States Court of Federal Claims refers a question or issue to the Surface Transportation Board for determination, the court which referred the question or issue shall have exclusive jurisdiction of a civil action to enforce, enjoin, set aside, annul, or suspend, in whole or in part, any order of the Surface Transportation Board arising out of such referral.
 
 (c) Any action brought under subsection (b) of this section shall be filed within 90 days from the date that the order of the Surface Transportation Board becomes final.
 
@@ -20,15 +20,15 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1995—Pub. L. 104–88 substituted “Surface Transportation Board's” for “Interstate Commerce Commission's” in section catchline and “Surface Transportation Board” for “Interstate Commerce Commission” wherever appearing in text.
+<b>1995</b>—Pub. L. 104–88 substituted “Surface Transportation Board's” for “Interstate Commerce Commission's” in section catchline and “Surface Transportation Board” for “Interstate Commerce Commission” wherever appearing in text.
 
-1992—Subsec. (b). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1992</b>—Subsec. (b). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-1982—Subsec. (b). Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims”.
+<b>1982</b>—Subsec. (b). Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims”.
 
-1975—Subsec. (a). Pub. L. 93–584 substituted provisions that the district courts shall have jurisdiction of civil actions to enforce, in whole or in part, orders of the Interstate Commerce Commission, and to enjoin or suspend, in whole or in part, any order of the Interstate Commerce Commission for the payment of money or the collection of fines, penalties, and forfeitures, for provisions that the district courts shall have jurisdiction of civil actions to enforce, enjoin, set aside, annul or suspend, in whole or in part, any order of the Interstate Commerce Commission.
+<b>1975</b>—Subsec. (a). Pub. L. 93–584 substituted provisions that the district courts shall have jurisdiction of civil actions to enforce, in whole or in part, orders of the Interstate Commerce Commission, and to enjoin or suspend, in whole or in part, any order of the Interstate Commerce Commission for the payment of money or the collection of fines, penalties, and forfeitures, for provisions that the district courts shall have jurisdiction of civil actions to enforce, enjoin, set aside, annul or suspend, in whole or in part, any order of the Interstate Commerce Commission.
 
-1964—Pub. L. 88–513 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
+<b>1964</b>—Pub. L. 88–513 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
 #### Effective Date of 1995 Amendment
 
@@ -45,10 +45,6 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 #### Effective Date of 1975 Amendment
 
 Amendment by Pub. L. 93–584 not applicable to actions commenced on or before last day of first month beginning after Jan. 2, 1975, and actions to enjoin or suspend orders of Interstate Commerce Commission which are pending when this amendment becomes effective shall not be affected thereby, but shall proceed to final disposition under the law existing on the date they were commenced, see section 10 of Pub. L. 93–584, set out as a note under section 2321 of this title.
-
-#### Cross References
-
-Procedure for enforcement and review of Surface Transportation Board orders, see section 2321 et seq. of this title.
 
 #### Section Referred to in Other Sections
 

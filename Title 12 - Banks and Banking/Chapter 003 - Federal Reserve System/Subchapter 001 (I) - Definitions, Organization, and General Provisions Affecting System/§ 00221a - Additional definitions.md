@@ -8,7 +8,7 @@ As used in this chapter—
 
 &emsp;(1) Of which a member bank, directly or indirectly, owns or controls either a majority of the voting shares or more than 50 per centum of the number of shares voted for the election of its directors, trustees, or other persons exercising similar functions at the preceding election, or controls in any manner the election of a majority of its directors, trustees, or other persons exercising similar functions; or
 
-&emsp;(2) Of which control is held, directly or indirectly, through stock ownership or in any other manner, by the shareholders of a member bank who own or control either a majorityof the shares of such bank or more than 50 per centum of the number of shares voted for the election of directors of such bank at the preceding election, or by trustees for the benefit of the shareholders of any such bank; or
+&emsp;(2) Of which control is held, directly or indirectly, through stock ownership or in any other manner, by the shareholders of a member bank who own or control either a majority of the shares of such bank or more than 50 per centum of the number of shares voted for the election of directors of such bank at the preceding election, or by trustees for the benefit of the shareholders of any such bank; or
 
 &emsp;(3) Of which a majority of its directors, trustees, or other persons exercising similar functions are directors of any one member bank; or
 

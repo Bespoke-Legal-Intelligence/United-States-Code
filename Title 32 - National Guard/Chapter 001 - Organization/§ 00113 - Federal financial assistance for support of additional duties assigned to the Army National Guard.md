@@ -12,7 +12,7 @@ Covered Activities.—(1) Except as provided in paragraph (2), financial assista
 
 &emsp;(B) the Army National Guard was selected to perform the activity under competitive procedures that permit all qualified public-sector and private-sector sources to submit offers and be considered for selection to perform the activity on the basis of the offers.
 
-(2) Paragraph (1)(B) does not apply to an activity that, on October 17, 1998, was performed for the Federal Government by employees of the Federal Government or employees of a State.
+(2) Paragraph (1)(B) does not apply to an activity that, on October 17, 1998, was performed forthe Federal Government by employees of the Federal Government or employees of a State.
 
 (c)
 

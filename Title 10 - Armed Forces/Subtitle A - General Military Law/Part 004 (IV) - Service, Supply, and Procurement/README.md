@@ -77,18 +77,6 @@ Pub. L. 97–214, §2(b), July 12, 1982, 96 Stat. 169, added item for chapter 16
 
 1980—Pub. L. 96–323, §2(b), Aug. 4, 1980, 94 Stat. 1019, added item for chapter 138.
 
-#### Cross References
-
-Particular provisions relating to—
-
-&emsp;&emsp;Air Force, see section 9501 et seq. of this title.
-
-&emsp;&emsp;Army, see section 4501 et seq. of this title.
-
-&emsp;&emsp;National Guard, see section 701 et seq. of Title 32, National Guard.
-
-&emsp;&emsp;Navy, see section 7521 et seq. of this title.
-
 
 ---
 

@@ -1,6 +1,6 @@
 ### §608b. Marketing agreements; exemption from anti-trust laws; inspection requirements for handlers not subject to agreements
 
-(a) In order to effectuate the declared policy of this chapter, the Secretary of Agriculture shall have the power, after due notice and opportunity for hearing, to enter into marketing agreements with processors, producers, associations of producers, and others engaged in the handling of any agricultural commodity or product thereof, only with respect to such handling as is in the current of interstate or foreign commerce or which directly burdens, obstructs, or affects, interstate or foreign commerce in suchcommodity or product thereof. The making of any such agreement shall not be held to be in violation of any of the antitrust laws of the United States, and any such agreement shall be deemed to be lawful: <i>Provided</i>, That no such agreement shall remain in force after the termination of this chapter.
+(a) In order to effectuate the declared policy of this chapter, the Secretary of Agriculture shall have the power, after due notice and opportunity for hearing, to enter into marketing agreements with processors, producers, associations of producers, and others engaged in the handling of any agricultural commodity or product thereof, only with respect to such handling as is in the current of interstate or foreign commerce or which directly burdens, obstructs, or affects, interstate or foreign commerce in such commodity or product thereof. The making of any such agreement shall not be held to be inviolation of any of the antitrust laws of the United States, and any such agreement shall be deemed to be lawful: <i>Provided</i>, That no such agreement shall remain in force after the termination of this chapter.
 
 (b)(1) If an agreement with the Secretary is in effect with respect to peanuts pursuant to this section—
 
@@ -47,14 +47,6 @@ Section 4(c) of Pub. L. 101–220 provided that: “The amendment made by this s
 #### Validity of Section Affirmed
 
 Act June 3, 1937, affirmed and validated, and reenacted without change the provisions of this section. See note set out under section 601 of this title.
-
-#### Cross References
-
-Anti-trust laws, see section 1 et seq. of Title 15, Commerce and Trade.
-
-Orders with marketing agreement, see section 608c of this title.
-
-Termination of marketing agreements entered into under this section, see section 608c of this title.
 
 #### Section Referred to in Other Sections
 

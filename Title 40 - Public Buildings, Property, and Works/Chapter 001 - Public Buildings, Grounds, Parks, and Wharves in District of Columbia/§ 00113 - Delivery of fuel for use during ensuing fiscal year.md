@@ -14,7 +14,3 @@ Transfers of functions in respect to Government fuel yards by Executive Orders a
 
 The authority of this section originally, by act June 5, 1920, was vested in Secretary of the Interior.
 
-#### Cross References
-
-Operation of fuel yards by Administrator of General Services or executive agencies, see section 481 of this title.
-

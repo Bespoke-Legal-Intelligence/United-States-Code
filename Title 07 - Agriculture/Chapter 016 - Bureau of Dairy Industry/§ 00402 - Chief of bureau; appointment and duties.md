@@ -12,7 +12,3 @@ Change of name of Bureau and temporary wartime consolidation into Agricultural R
 
 Functions of Bureau of Dairy Industry transferred to Secretary of Agriculture by 1947 Reorg. Plan No. 1, §301, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 952. See note set out under section 391 of this title.
 
-#### Cross References
-
-Filled milk, regulation of, see section 61 et seq. of Title 21, Food and Drugs.
-

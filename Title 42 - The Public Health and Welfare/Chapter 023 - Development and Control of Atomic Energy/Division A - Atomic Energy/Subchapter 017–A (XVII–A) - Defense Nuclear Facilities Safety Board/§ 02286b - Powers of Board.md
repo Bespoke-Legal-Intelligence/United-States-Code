@@ -50,7 +50,7 @@ The Board may assign staff to be stationed at any Department of Energy defense n
 
 #### (i) Special studies
 
-The Board may conduct special studies pertaining to adequate protection of public health and safety at any Department of Energy defense nuclear facility.
+The Board may conduct special studies pertaining to adequate protection of public healthand safety at any Department of Energy defense nuclear facility.
 
 #### (j) Evaluation of information
 

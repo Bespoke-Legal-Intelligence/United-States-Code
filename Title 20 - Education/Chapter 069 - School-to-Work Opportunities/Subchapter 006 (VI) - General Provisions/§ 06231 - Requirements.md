@@ -24,7 +24,7 @@ The following requirements shall apply to programs under this chapter:
 
 #### (5) Effect on other laws
 
-&emsp;Nothing in this chapter shall be construed to modify or affect any Federal or State law prohibiting discrimination on the basis of race, religion, color, ethnicity, national origin, gender, age, or disability, or to modify or affect any right to enforcement of this chapter that may exist under other Federal laws, except as expressly provided by this chapter.
+&emsp;Nothing in this chapter shall be construed to modify or affect any Federal or State law prohibiting discrimination on the basis of race,religion, color, ethnicity, national origin, gender, age, or disability, or to modify or affect any right to enforcement of this chapter that may exist under other Federal laws, except as expressly provided by this chapter.
 
 #### (6) Prohibition concerning wages
 
@@ -32,7 +32,7 @@ The following requirements shall apply to programs under this chapter:
 
 #### (7) Other requirements
 
-&emsp;The Secretaries shall establish such other requirements as the Secretaries may determine to be appropriate, in order to ensure that participants in programs under this chapterare afforded adequate supervision by skilled adult workers, or to otherwise further the purposes of this chapter.
+&emsp;The Secretaries shall establish such other requirements as the Secretaries may determine to be appropriate, in order to ensure that participants in programs under this chapter are afforded adequate supervision by skilled adult workers, or to otherwise further the purposes of this chapter.
 
 (Pub. L. 103–239, title VI, §601, May 4, 1994, 108 Stat. 603.)
 

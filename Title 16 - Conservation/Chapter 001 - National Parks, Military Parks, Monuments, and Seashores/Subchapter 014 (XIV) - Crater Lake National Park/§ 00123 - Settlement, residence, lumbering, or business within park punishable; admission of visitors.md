@@ -12,9 +12,3 @@ It shall be unlawful for any person to establish any settlement or residence wit
 
 Section 3 of Pub. L. 94–429 provided in part that this section was amended as indicated in order to close area to entry and location under the Mining Law of 1872, subject to valid existing rights.
 
-#### Cross References
-
-Mineral deposits other than those legally located prior to Aug. 21, 1916, see section 127 of this title.
-
-Rules and regulations for use and management of national parks generally, see section 3 of this title.
-

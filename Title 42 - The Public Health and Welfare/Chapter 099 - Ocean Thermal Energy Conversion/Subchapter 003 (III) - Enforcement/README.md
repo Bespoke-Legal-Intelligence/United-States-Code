@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—ENFORCEMENT
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 9165 of this title.
-
 
 ---
 

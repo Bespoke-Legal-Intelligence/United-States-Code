@@ -150,3 +150,7 @@ The Uruguay Round Agreements, including the World Trade Organization Agreement a
 
 This section is referred to in sections 1516a, 1675, 1677e, 1677f, 1677m of this title.
 
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
+

@@ -20,7 +20,7 @@ The purpose of a closure-acceleration project shall be, within a fixed period of
 
 &emsp;(A) define a clear, delineated scope of work for completion of the project;
 
-&emsp;(B) demonstrate that, with respect to the site of the proposed project, there is a regulatory agreement between the Department of Energy and other appropriate authorities forthe implementation of environmental remediation requirements that would allow for successful completion of the project;
+&emsp;(B) demonstrate that, with respect to the site of the proposed project, there is a regulatory agreement between the Department of Energy and other appropriate authorities for the implementation of environmental remediation requirements that would allow for successful completion of the project;
 
 &emsp;(C) demonstrate, to the maximum extent possible, the support of State and local elected officials and the public for the project;
 
@@ -91,4 +91,80 @@ Nothing in this section may be construed to affect statutory requirements for an
 #### Codification
 
 Section was enacted as part of the National Defense Authorization Act for Fiscal Year 1997, and not as part of the Department of Energy Organization Act which comprises this chapter.
+
+#### Employee Incentives for Employees at Closure Project Facilities
+
+Pub. L. 106–398, §1 \[div. C, title XXXI, §3136\], Oct. 30, 2000, 114 Stat. 1654, 1654A–458, provided that:
+
+“(a)
+
+Authority to Provide Incentives.—Notwithstanding any other provision of law, the Secretary of Energy may provide to any eligible employee of the Department of Energy one or more of the incentives described in subsection (d).
+
+“(b)
+
+Eligible Employees.—An individual is an eligible employee of the Department of Energy for purposes of this section if the individual—
+
+&emsp;“(1) has worked continuously at a closure facility for at least two years;
+
+&emsp;“(2) is an employee (as that term is defined in section 2105(a) of title 5, United States Code);
+
+&emsp;“(3) has a fully satisfactory or equivalent performance rating during the most recent performance period and is not subject to an adverse notice regarding conduct; and
+
+&emsp;“(4) meets any other requirement or condition under subsection (d) for the incentive which is provided the employee under this section.
+
+“(c)
+
+Closure Facility Defined.—For purposes of this section, the term ‘closure facility’ means a Department of Energy facility at which the Secretary is carrying out a closure project selected under section 3143 of the National Defense Authorization Act for Fiscal Year 1997 (42 U.S.C. 7274n).
+
+“(d)
+
+Incentives.—The incentives that the Secretary may provide under this section are the following:
+
+&emsp;“(1) The right to accumulate annual leave provided by section 6303 of title 5, United States Code, for use in succeeding years until it totals not more than 90 days, or not more than 720 hours based on a standard work week, at the beginning of the first full biweekly pay period, or corresponding period for an employee who is not paid on the basis of biweekly pay periods, occurring in a year, except that—
+
+&emsp;&emsp;“(A) any annual leave that remains unused when an employee transfers to a position in a department or agency of the Federal Government shall be liquidated upon the transfer by payment to the employee of a lump sum for leave in excess of 30 days, or in excess of 240 hours based on a standard work week; and
+
+&emsp;&emsp;“(B) upon separation from service, annual leave accumulated under this paragraph shall be treated as any other accumulated annual leave is treated.
+
+&emsp;“(2) The right to be paid a retention allowance in a lump sum in compliance with paragraphs (1) and (2) of section 5754(b) of title 5, United States Code, if the employee meets the requirements of section 5754(a) of that title, except that the retention allowance may exceed 25 percent, but may not be more than 30 percent, of the employee's rate of basic pay.
+
+“(e)
+
+Agreement.—An eligible employee of the Department of Energy provided an incentive under this section shall enter into an agreement with the Secretary to remain employed at the closure facility at which the employee is employed as of the date of the agreement until a specific date or for a specific period of time.
+
+“(f)
+
+Violation of Agreement.—(1) Except as provided under paragraph (3), an eligible employee of the Department of Energy who violates an agreement under subsection (e), or is dismissed for cause, shall forfeit eligibility for any incentives under this section as of the date of the violation or dismissal, as the case may be.
+
+“(2) Except as provided under paragraph (3), an eligible employee of the Department of Energy who is paid a retention allowance under subsection (d)(2) and who violates an agreement under subsection (e), or is dismissed for cause, before the end of the period or date of employment agreed upon under such agreement shall refund to the United States an amount that bears the same ratio to the aggregate amount so paid to or received by the employee as the unserved part of such employment bears to the total period of employment agreed upon under such agreement.
+
+“(3) The Secretary may waive the applicability of paragraph (1) or (2) to an employee otherwise covered by such paragraph if the Secretary determines that there is good and sufficient reason for the waiver.
+
+“(g)
+
+Report.—The Secretary shall include in each report on a closure project under section 3143(h) of the National Defense Authorization Act for Fiscal Year 1997 \[42 U.S.C. 7274n(h)\] a report on the incentives, if any, provided under this section with respect to the project for the period covered by such report.
+
+“(h)
+
+Authority With Respect to Health Coverage.—\[Amended section 8905a of Title 5, Government Organization and Employees.\]
+
+“(i)
+
+Authority With Respect to Voluntary Separations.—(1) The Secretary may—
+
+&emsp;“(A) separate from service any employee at a Department of Energy facility at which the Secretary is carrying out a closure project selected under section 3143 of the National Defense Authorization Act for Fiscal Year 1997 (42 U.S.C. 7274n) who volunteers to be separated under this subparagraph even though the employee is not otherwise subject to separation due to a reduction in force; and
+
+&emsp;“(B) for each employee voluntarily separated under subparagraph (A), retain an employee in a similar position who would otherwise be separated due to a reduction in force.
+
+“(2) The separation of an employee under paragraph (1)(A) shall be treated as an involuntary separation due to a reduction in force.
+
+“(3) An employee with critical knowledge and skills (as defined by the Secretary) may not participate in a voluntary separation under paragraph (1)(A) if the Secretary determines that such participation would impair the performance of the mission of the Department of Energy.
+
+“(j)
+
+Termination.—The authority to provide incentives under this section terminates on March 31, 2007.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 5 section 8905a.
 

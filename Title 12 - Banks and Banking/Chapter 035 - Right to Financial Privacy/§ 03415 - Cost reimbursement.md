@@ -10,5 +10,5 @@ Section 1115(b) of Pub. L. 95–630 provided that: “This section shall take ef
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3413, 3414 of this title.
+This section is referred to in sections 3413, 3414 of this title; title 42 section 1383.
 

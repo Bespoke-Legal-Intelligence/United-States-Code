@@ -34,7 +34,7 @@ Education and Experience Requirements.—(1) An officer who is nominated for the
 
 (3)(A) In the case of an officer who has completed both a program of education referred to in paragraph (1)(A) and a full tour of duty in a joint duty assignment (as described in section 664(f) of this title (other than in paragraph (2) thereof)) and is subsequently nominated for the joint specialty, the Secretary of Defense may waive the requirement in paragraph (1)(B) that the tour of duty in a joint duty assignment be performed after the officer completes the program of education if the Secretary determines that the waiver is necessary in the interests of sound personnel management.
 
-(B) In the case of an officer who has completed two full tours of duty in a joint duty assignment (as described in section 664(f) of this title) and is subsequently nominated for the joint specialty, the Secretary may waive the requirement that the officer have successfully completed a program of education referred to in paragraph (1)(A) if the Secretary determines that—
+(B) In the case of an officer who has completed two full tours of duty in a joint duty assignment (as described in section 664(f) of this title) and issubsequently nominated for the joint specialty, the Secretary may waive the requirement that the officer have successfully completed a program of education referred to in paragraph (1)(A) if the Secretary determines that—
 
 &emsp;(i) it would be impractical to require the officer to complete such a program at the current stage of the officer's career; and
 
@@ -64,7 +64,7 @@ Number of Joint Duty Assignments.—(1) The Secretary of Defense shall ensure th
 
 (B) Each position designated by the Secretary under subparagraph (A) may (subject to subparagraph (C)) be held only by an officer who has the joint specialty.
 
-(C) The Secretary of Defense may, on a case-by-case basis, waive the requirement in subparagraph (B) with respect to a particular assignment of an officer to a position designated as a critical joint duty assignment position. The authority of the Secretary to make such a waivermay be delegated only to the Chairman of the Joint Chiefs of Staff.
+(C) The Secretary of Defense may, on a case-by-case basis, waive the requirement in subparagraph (B) with respect to a particular assignment of an officer to a position designated as a critical joint duty assignment position. The authority of the Secretary to make such a waiver may be delegated only to the Chairman of the Joint Chiefs of Staff.
 
 (3)(A) The Secretary shall ensure that, of those joint duty assignment positions that are filled by general or flag officers, a substantial portion are among those positions that are designated under paragraph (2) as critical joint duty assignment positions.
 
@@ -100,7 +100,7 @@ Subsec. (c)(3)(E). Pub. L. 104–106, §501(d)(2), added subpar. (E).
 
 Subsec. (d)(2)(A). Pub. L. 104–106, §501(a), substituted “800” for “1,000”.
 
-Subsec. (d)(2)(B). Pub. L. 104–106, §1503(a)(6)(A), substituted “Each position designated by the Secretary under subparagraph (A)” for “Until January 1, 1994, at least 80 percent of the positions designated by the Secretary under subparagraph (A) shall be held at all times by officers who have the joint specialty. On and after January 1, 1994, each position so designated”.
+Subsec. (d)(2)(B). Pub. L. 104–106, §1503(a)(6)(A), substituted “Each position designated by the Secretaryunder subparagraph (A)” for “Until January 1, 1994, at least 80 percent of the positions designated by the Secretary under subparagraph (A) shall be held at all times by officers who have the joint specialty. On and after January 1, 1994, each position so designated”.
 
 Subsec. (d)(2)(C). Pub. L. 104–106, §1503(a)(6)(B), struck out “the second sentence of” after “the requirement in”.
 

@@ -4,7 +4,7 @@
 
 Rule for Retirement in Highest Grade Held Satisfactorily.—(1) Unless entitled to a higher retired grade under some other provision of law, a commissioned officer (other than a commissioned warrant officer) of the Army, Navy, Air Force, or Marine Corps who retires under any provision of law other than chapter 61 or chapter 1223 of this title shall, except as provided in paragraph (2), be retired in the highest grade in which he served on active duty satisfactorily, as determined by the Secretary of the military department concerned, for not less than six months.
 
-(2)(A) In order to be eligible for voluntary retirement under any provision of this title in a grade above major or lieutenant commander, a commissioned officer of the Army, Navy, Air Force, or Marine Corps must have served on active duty in that grade for not less than three years, except that the Secretary of Defense may authorize the Secretary of a military department to reduce such period to a period not less than two years in the case of retirements effective during the period beginning on October 1, 1990, and ending on September 30, 2001.
+(2)(A) In order to be eligible for voluntary retirement under any provision of this title in a grade above major or lieutenant commander, a commissioned officer of the Army, Navy, Air Force, or Marine Corps must have served on active duty in that grade for not less than three years, except that the Secretary of Defense may authorize the Secretary of a military department to reduce such period to a period not less than two years in the case of retirements effective during the period beginning on October 1, 1990, and ending on December 31, 2001.
 
 (B) The President may waive subparagraph (A) in individual cases involving extreme hardship or exceptional or unusual circumstances. The authority of the President under the preceding sentence may not be delegated.
 
@@ -22,7 +22,7 @@ Officers in O–9
 
 and O–10
 
-Grades.—(1) An officer who is serving in or has served in thegrade of general or admiral or lieutenant general or vice admiral may be retired in that grade under subsection (a) only after the Secretary of Defense certifies in writing to the President and Congress that the officer served on active duty satisfactorily in that grade.
+Grades.—(1) An officer who is serving in or has served in the grade of general or admiral or lieutenant general or vice admiral may be retired in that grade under subsection (a) only after the Secretary of Defense certifies in writing to the President and Congress that the officer served on active duty satisfactorily in that grade.
 
 (2) In the case of an officer covered by paragraph (1), the three-year service-in-grade requirement in paragraph (2)(A) of subsection (a) may not be reduced or waived under that subsection—
 
@@ -50,11 +50,13 @@ Reserve Officers.—(1) Unless entitled to a higher grade, or to credit for sati
 
 (4) A person whose length of service in the highest grade held does not meet the service in grade requirements specified in this subsection shall be credited with satisfactory service in the next lower grade in which that person served satisfactorily (as determined by the Secretary of the military department concerned) for not less than six months.
 
-(5) The Secretary of Defense may authorize the Secretary of a military department to reduce the 3-year period required by paragraph (3)(A) to a period not less than 2 years in the case of retirements effective during the period beginning on October 17, 1998, and ending on September 30, 2001. The number of reserve commissioned officers of an armed force in the same grade for whom a reduction is made during any fiscal year in the period of service-in-grade otherwise required under this paragraph may not exceed the number equal to 2 percent of the strength authorized for that fiscal year for reserve commissioned officers of that armed force in an active status in that grade.
+(5) The Secretary of Defense may authorize the Secretary of a military department to reduce the 3-year period required by paragraph (3)(A) to a period not less than 2 years in the case of retirements effective during the period beginning on October 17, 1998, and ending on December 31, 2001. The number of reserve commissioned officers of an armed force in the same grade for whom a reduction is made during any fiscal year in the period of service-in-grade otherwise required under this paragraph may not exceed the number equal to 2 percent of the strength authorized for that fiscal year for reserve commissioned officers of that armed force in an active status in that grade.
 
-(Added Pub. L. 96–513, title I, §112, Dec. 12, 1980, 94 Stat. 2876; amended Pub. L. 101–510, div. A, title V, §522, Nov. 5, 1990, 104 Stat. 1561; Pub. L. 103–160, div. A, title V, §561(d), Nov. 30, 1993, 107 Stat. 1667; Pub. L. 103–337, div. A, title XVI, §§1641, 1671(c)(7)(B), Oct. 5, 1994, 108 Stat. 2968, 3014; Pub. L. 104–106, div. A, title V, §502(a), (b), (f), (g), Feb. 10, 1996, 110 Stat. 292, 293; Pub. L.104–201, div. A, title V, §544(a), Sept. 23, 1996, 110 Stat. 2522; Pub. L. 105–261, div. A, title V, §§512(a), 513(a), 561(d), (<i>o</i>), Oct. 17, 1998, 112 Stat. 2007, 2025, 2026; Pub. L. 106–65, div. A, title X, §1066(a)(9), (b)(3), Oct. 5, 1999, 113 Stat. 770, 772.)
+(Added Pub. L. 96–513, title I, §112, Dec. 12, 1980, 94 Stat. 2876; amended Pub. L. 101–510, div. A, title V, §522, Nov. 5, 1990, 104 Stat. 1561; Pub. L. 103–160, div. A, title V, §561(d), Nov. 30, 1993, 107 Stat. 1667; Pub. L. 103–337, div. A, title XVI, §§1641, 1671(c)(7)(B), Oct. 5, 1994, 108 Stat. 2968, 3014; Pub. L. 104–106, div. A, title V, §502(a), (b), (f), (g), Feb. 10, 1996, 110 Stat. 292, 293; Pub. L. 104–201, div. A, title V, §544(a), Sept. 23, 1996, 110 Stat. 2522; Pub. L. 105–261, div. A, title V, §§512(a), 513(a), 561(d), (<i>o</i>), Oct. 17, 1998, 112 Stat. 2007, 2025, 2026; Pub. L. 106–65, div. A, title X, §1066(a)(9), (b)(3), Oct. 5, 1999, 113 Stat. 770, 772; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134.)
 
 #### Amendments
+
+2000—Subsecs. (a)(2)(A), (d)(5). Pub. L. 106–398 substituted “December 31, 2001” for “September 30, 2001”.
 
 1999—Subsec. (d)(1). Pub. L. 106–65, §1066(a)(9)(A), substituted “chapter 1223” for “chapter 1225”.
 
@@ -126,5 +128,5 @@ For provisions relating to the time-in-grade requirement for voluntary retiremen
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1406, 3961, 6151, 6323, 6325, 6383, 8961, 12771 of this title; title 33 section 857a; title 42 section 213a.
+This section is referred to in sections 1406, 1407, 3961, 6151, 6323, 6325, 6383, 8961, 12771 of this title; title 33 section 857a; title 42 section 213a.
 

@@ -20,55 +20,19 @@ The Secretary shall, during each of the fiscal years 1993 and 1994, develop a pl
 
 Not later than September 30, 1999, the Secretary shall complete the study required in subsection (a) of this section and submit to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, a report describing the findings and recommendations made as a result of the study.
 
-(July 1, 1944, ch. 373, title III, §399K, as added Pub. L. 102–515, §3, Oct. 24, 1992, 106 Stat. 3376.)
+(July 1, 1944, ch. 373, title III, §399E, formerly §399K, as added Pub. L. 102–515, §3, Oct. 24, 1992, 106 Stat. 3376; renumbered §399E and amended Pub. L. 106–310, div. A, title V, §502(2)(A), (C), Oct. 17, 2000, 114 Stat. 1115.)
+
+#### Amendments
+
+2000—Subsec. (c). Pub. L. 106–310, §502(2)(C), made technical amendment to reference in original act which appears in text as reference to section 280e(a) of this title.
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Potential Environmental and Other Risks Contributing to Incidence of Breast Cancer
 
-Pub. L. 103–43, title XIX, §1911, June 10, 1993, 107 Stat. 205, provided that:
-
-“(a)
-
-Requirement of Study.—
-
-&emsp;“(1)
-
-In general.—The Director of the National Cancer Institute (in this section referred to as the ‘Director’), in collaboration with the Director of the National Institute of Environmental Health Sciences, shall conduct a case-control study to assess biological markers of environmental and other potential risk factors contributing to the incidence of breast cancer in—
-
-&emsp;&emsp;“(A) the Counties of Nassau and Suffolk, in the State of New York; and
-
-&emsp;&emsp;“(B) the 2 counties in the northeastern United States that, as identified in the report specified in paragraph (2), had the highest age-adjusted mortality rate of such cancer that reflected not less than 30 deaths during the 5-year period for which findings are made in the report.
-
-&emsp;“(2)
-
-Relevant report.—The report referred to in paragraph (1)(B) is the report of the findings made in the study entitled ‘Survival, Epidemiology, and End Results’, relating to cases of cancer during the years 1983 through 1987.
-
-“(b)
-
-Certain Elements of Study.—Activities of the Director in carrying out the study under subsection (a) shall include the use of a geographic system to evaluate the current and past exposure of individuals, including direct monitoring and cumulative estimates of exposure, to—
-
-&emsp;“(1) contaminated drinking water;
-
-&emsp;“(2) sources of indoor and ambient air pollution, including emissions from aircraft;
-
-&emsp;“(3) electromagnetic fields;
-
-&emsp;“(4) pesticides and other toxic chemicals;
-
-&emsp;“(5) hazardous and municipal waste; and
-
-&emsp;“(6) such other factors as the Director determines to be appropriate.
-
-“(c)
-
-Report.—Not later than 30 months after the date of the enactment of this Act \[June 10, 1993\], the Director shall complete the study required in subsection (a) and submit to the Committee on Energy and Commerce \[now Committee on Commerce\] of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, a report describing the findings made as a result of the study.
-
-“(d)
-
-Funding.—Of the amounts appropriated for fiscal years 1994 and 1995 for the National Institute of Environmental Health Sciences and the National Cancer Institute, the Director of the National Institutes of Health shall make available amounts for carrying out the study required in subsection (a).”
+Pub. L. 103–43, title XIX, §1911, June 10, 1993, 107 Stat. 205, provided that Director of the National Cancer Institute, in collaboration with Director of the National Institute of Environmental Health Sciences, was to conduct case-control study to assess biological markers of environmental and other potential risk factors contributing to incidence of breast cancer in specified counties in State of New York and northeastern United States that had highest age-adjusted mortality rate of such cancer, and to report results of such study to Congress not later than 30 months after June 10, 1993.
 
 #### Section Referred to in Other Sections
 

@@ -16,7 +16,7 @@ The purposes of this section are—
 
 #### (2) General authority
 
-To enhance the ability of the Secretary of the Interior (hereafter in this section referred to as “the Secretary”), acting through the Director of the National Park Service, to effectively manage units of the National Park System, the Secretary is authorized where necessary and justified to make available employee housing, on or off the lands under the administrative jurisdiction of the National Park Service, and to rent or lease such housing to field employees of the National Park Service at rates based on the reasonable value of the housing in accordance with requirements applicable under section 5911 of title 5.
+To enhance the ability of the Secretary of the Interior (hereafter in this section referred to as “the Secretary”), acting through the Director of the National Park Service, to effectively manage units of the National Park System, the Secretary is authorized where necessary and justified to make available employee housing, on oroff the lands under the administrative jurisdiction of the National Park Service, and to rent or lease such housing to field employees of the National Park Service at rates based on the reasonable value of the housing in accordance with requirements applicable under section 5911 of title 5.
 
 #### (3) Review and revision of housing criteria
 
@@ -32,7 +32,7 @@ Using the revised criteria developed under paragraph (3), the Secretary shall un
 
 #### (6) Authorization for housing agreements
 
-For those units of the National Park System for which the review required by paragraphs (3) and (5) has been completed, the Secretary is authorized, pursuant to the authorities contained in this section and subject to the appropriation of necessary funds in advance, to enter into housing agreements with housing entities under which such housing entities may develop, construct, rehabilitate, or manage housing, located on or off public lands, for rent or lease to National Park Service employees who meet the housing eligibility criteria developed by the Secretary pursuant to this Act.
+For those units of the National Park System for which the review required by paragraphs (3) and (5) has been completed, the Secretary is authorized, pursuant to the authorities contained in this section and subject to the appropriation of necessary funds in advance, to enter into housing agreements with housing entities under which such housing entities may develop, construct, rehabilitate, or manage housing, located on or off public lands, for rent or lease to National Park Service employees who meet the housing eligibility criteria developed by the Secretary pursuant to this section.
 
 #### (7) Joint public-private sector housing programs
 
@@ -90,7 +90,7 @@ For those units of the National Park System for which the review required by par
 
 #### (9) Joint development authority
 
-The Secretary may use authorities granted by statue <sup>4</sup> in combination with one another in the furtherance of providing where necessary and justified affordable field employee housing.
+The Secretary may use authorities granted by statute in combination with one another in the furtherance of providing where necessary and justified affordable field employee housing.
 
 #### (10) Contracts for the management of field employee quarters
 
@@ -114,7 +114,7 @@ The Secretary may use authorities granted by statue <sup>4</sup> in combination
 
 &emsp;&emsp;(i) the requirement for such seasonal field employee quarters is temporary; or
 
-&emsp;&emsp;(ii) leasing would be more cost effective than construction of new seasonal field employee quarters.
+&emsp;&emsp;(ii) leasing would be more cost-effective than construction of new seasonal field employee quarters.
 
 #### (C) Unrecovered costs
 
@@ -130,7 +130,7 @@ The Secretary shall—
 
 #### (13) Use of housing-related funds
 
-Expenditure of any funds authorized and appropriated for new construction, repair, or rehabilitation of housing under this section shall follow the housing priority listing established by the agency under paragraph (13), in sequential order, to the maximum extent practicable.
+Expenditure of any funds authorized and appropriated for new construction, repair, or rehabilitation of housing under this section shall follow the housing priority listing established by the agency under paragraph (12), in sequential order, to the maximum extent practicable.
 
 #### (14) Annual budget submittal
 
@@ -160,7 +160,7 @@ Within 18 months of November 12, 1996, the Secretary shall complete a study of t
 
 #### (18) Proceeds
 
-The proceeds from any lease under paragraph (7)(A)(i)(I), any lease under paragraph (11)(B), and any lease of seasonal quarters under subsection (<i>l</i>),<sup>5</sup> shall be retained by the National Park Service. Such proceeds shall be deposited into the special fund established for maintenance and operation of quarters.
+The proceeds from any lease under paragraph (7)(A) and any lease under paragraph (11) shall be retained by the National Park Service. Such proceeds shall be deposited into the special fund established for maintenance and operation of quarters.
 
 #### (19) Definitions
 
@@ -180,21 +180,29 @@ For purposes of this section:
 
 &emsp;(E) The term “seasonal quarters” means quarters typically occupied by field employees who are hired on assignments of 6 months or less.
 
-(Pub. L. 104–333, div. I, title VIII, §814(a), Nov. 12, 1996, 110 Stat. 4190.)
+(Pub. L. 104–333, div. I, title VIII, §814(a), Nov. 12, 1996, 110 Stat. 4190; Pub. L. 106–176, title I, §120(a)(1), Mar. 10, 2000, 114 Stat. 28.)
 
 #### References in Text
 
-This section, referred to in pars. (1), (13), and (17)(A), (C), means section 814 of title VIII of div. I of Pub. L. 104–333 which enacted this section and sections 1f and 346e of this title and made numerous amendments to this title. The reference probably should have been “this subsection” meaning subsec. (a) of section 814 which enacted this section.
+This section, referred to in pars. (1), (6), (13), and (17)(A), (C), means section 814 of title VIII of div. I of Pub. L. 104–333 which enacted this section and sections 1f and 346e of this title and made numerous amendments to this title. The reference probably should have been “this subsection” meaning subsec. (a) of section 814 which enacted this section.
 
-This Act, referred to in par. (6), is Pub. L. 104–333, Nov. 12, 1996, 110 Stat. 4093, known as the Omnibus Parks and Public Lands Management Act of 1996. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under section 1 of this title and Tables.
+#### Amendments
+
+2000—Par. (6). Pub. L. 106–176, §120(a)(1)(A), substituted “this section” for “this Act” before period at end.
+
+Par. (7)(B). Pub. L. 106–176, §120(a)(1)(B), substituted “Competitive leasing” for “Comptetitive leasing” in subpar. heading.
+
+Par. (9). Pub. L. 106–176, §120(a)(1)(C), substituted “granted by statute” for “granted by statue”.
+
+Par. (11)(B)(ii). Pub. L. 106–176, §120(a)(1)(D), substituted “more cost-effective” for “more cost effective”.
+
+Par. (13). Pub. L. 106–176, §120(a)(1)(E), substituted “paragraph (12),” for “paragraph (13),”.
+
+Par. (18). Pub. L. 106–176, §120(a)(1)(F), substituted “under paragraph (7)(A) and any lease under paragraph (11)” for “under paragraph (7)(A)(i)(I), any lease under paragraph (11)(B), and any lease of seasonal quarters under subsection (<i>l</i>),”.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 
 <i><sup>2</sup></i><i> So in original. The comma probably should be a period.</i>
 
 <i><sup>3</sup></i><i> So in original. Probably should be followed by a period.</i>
-
-<i><sup>4</sup></i><i> So in original. Probably should be “statute”.</i>
-
-<i><sup>5</sup></i><i> So in original. Probably should be “paragraph (11),”.</i>
 

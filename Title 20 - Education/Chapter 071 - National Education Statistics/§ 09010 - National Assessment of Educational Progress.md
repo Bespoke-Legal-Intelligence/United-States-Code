@@ -28,7 +28,7 @@ The Commissioner shall, with the advice of the National Assessment Governing Boa
 
 &emsp;(ii) Such agreement shall contain information sufficient to give States full information about the process for consensus decisionmaking on objectives to be tested, and the standards for sampling, test administration, test security, data collection, validation, and reporting.
 
-&emsp;(C) A participating State shall review and give permission for the release of results fromany test of its students administered as a part of a State assessment prior to the release of such data. Refusal by a State to release its data shall not restrict the release of data from other States that have approved the release of such data.
+&emsp;(C) A participating State shall review and give permission for the release of results from any test of its students administered as a part of a State assessment prior to the release of such data. Refusal by a State to release its data shall not restrict the release of data from other States that have approved the release of such data.
 
 #### (3) Prohibited data
 
@@ -118,7 +118,7 @@ The Commissioner shall, with the advice of the National Assessment Governing Boa
 
 #### (3) Use of findings and recommendations
 
-&emsp;The Commissioner shall consider the findings and recommendations of such reviews indesigning the competition to select the organization, or organizations, through which the Commissioner carries out the National Assessment.
+&emsp;The Commissioner shall consider the findings and recommendations of such reviews in designing the competition to select the organization, or organizations, through which the Commissioner carries out the National Assessment.
 
 #### (g) Coverage agreements
 

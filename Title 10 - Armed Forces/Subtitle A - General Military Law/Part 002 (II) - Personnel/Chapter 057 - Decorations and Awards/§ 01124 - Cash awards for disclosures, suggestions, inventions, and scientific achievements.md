@@ -1,6 +1,6 @@
 ### §1124. Cash awards for disclosures, suggestions, inventions, and scientific achievements
 
-(a) The Secretary of Defense, or the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy, may authorize the payment of a cash award to, and incur necessary expense for the honorary recognition of, a member of the armed forces under his jurisdiction who by his disclosure, suggestion, invention, or scientific achievement contributes to the efficiency, economy, or other improvement of operations or programs relating to the armed forces.
+(a) The Secretary of Defense, or the Secretary of Transportation with respect to the CoastGuard when it is not operating as a service in the Navy, may authorize the payment of a cash award to, and incur necessary expense for the honorary recognition of, a member of the armed forces under his jurisdiction who by his disclosure, suggestion, invention, or scientific achievement contributes to the efficiency, economy, or other improvement of operations or programs relating to the armed forces.
 
 (b) Whenever the President considers it desirable, the Secretary of Defense, and the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy, are authorized to pay a cash award to, and incur necessary expense for the honorary recognition of, a member of the armed forces who by his disclosure, suggestion, invention, or scientific achievement contributes to the efficiency, economy, or other improvement of operations of the Government of the United States. Such award is in addition to any other award made to that member under subsection (a).
 
@@ -18,7 +18,7 @@
 
 (g) Awards under this section shall be made under regulations to be prescribed by the Secretary of Defense, or by the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy.
 
-(h) For the purposes of this section, a member of the Commissioned Corps of the National Oceanic and Atmospheric Administration or of the Public Health Service who is serving with anarmed force shall be treated as if he were a member of that armed force.
+(h) For the purposes of this section, a member of the Commissioned Corps of the National Oceanic and Atmospheric Administration or of the Public Health Service who is serving with an armed force shall be treated as if he were a member of that armed force.
 
 (Added Pub. L. 89–198, §1(1), Sept. 22, 1965, 79 Stat. 830; amended Pub. L. 89–718, §10, Nov. 2, 1966, 80 Stat. 1117; Pub. L. 90–623, §2(1), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 96–470, title I, §112(c), Oct. 19, 1980, 94 Stat. 2240; Pub. L. 96–513, title V, §511(40), Dec. 12, 1980, 94 Stat. 2923; Pub. L. 96–527, title VII, §772, Dec. 15, 1980, 94 Stat. 3093; Pub. L. 99–145, title XII, §1225(a)(1), (2)(A), Nov. 8, 1985, 99 Stat. 730.)
 
@@ -69,12 +69,6 @@ Sec. 2. An executive department or agency that adopts or uses the suggestion, in
 Sec. 3. No cash awards hereunder for a single suggestion, invention, or scientific achievement may exceed $25,000 regardless of the number of agencies or departments which may adopt or use the suggestion, invention, or scientific achievement.
 
 Sec. 4. Funds to cover the costs of cash awards to members of the armed forces shall be transferred from the account of any executive department or agency which recommends the award to the appropriate account of the Department of Transportation or the Department of Defense, as the case may be. When several executive departments or agencies benefit from the adoption or use of the suggestion, invention, or scientific achievement, the amount transferred from each such benefiting department or agency to the Department of Transportation or the Department of Defense to cover the proportionate share of the cost of the cash award shall be determined under procedures prescribed by the Office of Personnel Management in accordance with the same guidelines and standards applying to awards to civilian employees.
-
-#### Cross References
-
-Payment of cash awards by agency heads to employees, see section 4503 of Title 5, Government Organization and Employees.
-
-Presidential cash awards to employees, see section 4504 of Title 5.
 
 #### Section Referred to in Other Sections
 

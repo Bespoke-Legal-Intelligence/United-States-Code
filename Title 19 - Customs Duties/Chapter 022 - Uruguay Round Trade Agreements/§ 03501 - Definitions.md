@@ -52,7 +52,7 @@ For purposes of this Act:
 
 #### References in Text
 
-This Act, referred to in text, is Pub. L. 103–465, Dec. 8, 1994, 108 Stat. 4809, known as the Uruguay RoundAgreements Act. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This Act, referred to in text, is Pub. L. 103–465, Dec. 8, 1994, 108 Stat. 4809, known as the Uruguay Round Agreements Act. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 The Harmonized Tariff Schedule of the United States, referred to in par. (2), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
 
@@ -66,5 +66,5 @@ The Uruguay Round Agreements, including the World Trade Organization Agreement a
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1671, 1677, 1677k, 2252, 2462, 2571, 2578b, 2702, 2905, 2906, 3107, 3111, 3202, 3535 of this title; title 7 section 624; title 15 section 1052; title 16 sections 620, 620c; title 17 sections 101, 104A; title 22 sections 262n–2, 286gg, 1978, 5712; title 35 section 104; title 42 sections 2296b, 2296b–6, 6374; title 49, section 50103.
+This section is referred to in sections 1671, 1677, 1677k, 2252, 2462, 2571, 2578b, 2702, 2905, 2906, 3107, 3111, 3202, 3535 of this title; title 7 section 624; title 15 section 1052; title 16 sections 620, 620c; title 17 sections 101, 104A; title 22 sections 262n–2, 286gg, 1978, 5712, 6903; title 35 section 104; title 42 sections 2296b, 2296b–6, 6374; title 49, section 50103.
 

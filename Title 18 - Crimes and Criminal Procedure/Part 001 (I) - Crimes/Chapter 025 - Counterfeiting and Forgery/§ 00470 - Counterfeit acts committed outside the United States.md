@@ -48,7 +48,7 @@ Reports.—
 
 &emsp;“(1)
 
-In general.—The Secretary shall submit a written report to the Committee on Banking and Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate on the results of each evaluation audit conducted pursuant to subsection (b) within 90 days after the completion of the evaluation audit.
+In general.—The Secretary shall submit a written report to the Committee on Banking and Financial Services \[now Committee on Financial Services\] of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate on the results of each evaluation audit conducted pursuant to subsection (b) within 90 days after the completion of the evaluation audit.
 
 &emsp;“(2)
 

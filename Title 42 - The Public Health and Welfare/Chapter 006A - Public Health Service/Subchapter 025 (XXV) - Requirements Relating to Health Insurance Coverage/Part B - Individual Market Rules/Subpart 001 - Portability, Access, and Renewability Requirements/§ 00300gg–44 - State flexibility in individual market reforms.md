@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The requirements of section 300gg–41 of this title shall not apply with respect to health insurance coverage offered in the individual market in the State so long as a State is found to be implementing, in accordance with this section and consistent with section 300gg–62(b) of this title, an alternative mechanism (in this section referred to as an “acceptable alternative mechanism”)—
+&emsp;The requirements of section 300gg–41 of this title shall not apply with respect to health insurance coverage offered in the individual market in the State so long as a State is foundto be implementing, in accordance with this section and consistent with section 300gg–62(b) of this title, an alternative mechanism (in this section referred to as an “acceptable alternative mechanism”)—
 
 &emsp;&emsp;(A) under which all eligible individuals are provided a choice of health insurance coverage;
 
@@ -44,7 +44,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) must notify the Secretary that the State has enacted any necessary legislation to provide for the implementation of a mechanism reasonably designed to be an acceptable alternative mechanism as of July 1, 1998; and
 
-&emsp;&emsp;&emsp;&emsp;(II) must provide the Secretary with such information as the Secretary may require to review the mechanism and itsimplementation (or proposed implementation) under this subsection.
+&emsp;&emsp;&emsp;&emsp;(II) must provide the Secretary with such information as the Secretary may require to review the mechanism and its implementation (or proposed implementation) under this subsection.
 
 #### (ii) States described
 
@@ -72,7 +72,7 @@
 
 #### (4) Limitation on secretarial authority
 
-&emsp;The Secretary shall not make a determination under paragraph (2) or (3) on any basis other than the basis that a mechanism is not an acceptable alternative mechanism or is not being implemented.
+&emsp;The Secretary shall not make a determination under paragraph (2) or (3) on any basisother than the basis that a mechanism is not an acceptable alternative mechanism or is not being implemented.
 
 #### (5) Future adoption of mechanisms
 

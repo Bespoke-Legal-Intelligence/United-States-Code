@@ -17,7 +17,7 @@
 
 #### Amendments
 
-1997—Pub. L. 105–85, div. A, title V, §506(c), Nov. 18, 1997, 111 Stat. 1726, substituted “regular officers in grades above brigadier general and rear admiral (lower half)” for “regular major generals and rear admirals” in item 636.
+1997—Pub. L. 105–85, div. A, title V, §506(c), Nov. 18, 1997, 111 Stat. 1726, substituted “regular officers in grades above brigadier general and rear admiral (lowerhalf)” for “regular major generals and rear admirals” in item 636.
 
 1985—Pub. L. 99–145, title V, §514(b)(5)(B), Nov. 8, 1985, 99 Stat. 628, substituted “rear admirals (lower half)” for “commodores” in item 635.
 

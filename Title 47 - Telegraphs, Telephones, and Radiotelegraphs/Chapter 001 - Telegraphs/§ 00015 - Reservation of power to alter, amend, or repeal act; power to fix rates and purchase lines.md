@@ -14,10 +14,6 @@ The Communications Act of 1934, as amended, referred to in text, is act June 19,
 
 1954—Act Sept. 3, 1954, corrected references and struck out obsolete material.
 
-#### Cross References
-
-Federal Communications Commission, jurisdiction of, see section 601 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 12, 601 of this title.

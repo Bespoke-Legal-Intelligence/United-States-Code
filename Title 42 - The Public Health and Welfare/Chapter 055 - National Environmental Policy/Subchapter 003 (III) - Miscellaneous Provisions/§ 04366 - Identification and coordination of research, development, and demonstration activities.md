@@ -10,7 +10,7 @@ The Administrator of the Environmental Protection Agency, in consultation and co
 
 &emsp;(3) to determine the additional legislative actions which would be needed to assure such coordination to the maximum extent possible.
 
-> The Administrator shall include in each annual revision of the five-year plan provided for by section 4361 <sup>1</sup> of this title a full and complete report on the actions taken and determinations made during the preceding year under this subsection, and may submit interim reports on such actions and determinations at such other times as he deems appropriate.
+> The Administrator shall include in each annual revision of the five-year plan provided for by section 4361 <sup>1</sup> of this title a full and complete report on the actions taken and determinations made during the preceding year under this subsection, and may submit interim reports on suchactions and determinations at such other times as he deems appropriate.
 
 #### (b) Coordination of programs by Administrator
 

@@ -10,7 +10,7 @@
 
 #### (2) Per country levels for family-sponsored and employment-based immigrants
 
-&emsp;Subject to paragraphs (3) and (4), the total number of immigrant visas made available to natives of any single foreign state or dependent area under subsections (a) and (b) of section 1153 of this title in any fiscal year may not exceed 7 percent (in the case of a single foreign state) or 2 percent (in the case of a dependent area) of the total number of such visas made available under such subsections in that fiscal year.
+&emsp;Subject to paragraphs (3), (4), and (5), the total number of immigrant visas made available to natives of any single foreign state or dependent area under subsections (a) and (b) of section 1153 of this title in any fiscal year may not exceed 7 percent (in the case of a single foreign state) or 2 percent (in the case of a dependent area) of the total number of such visas made available under such subsections in that fiscal year.
 
 #### (3) Exception if additional visas available
 
@@ -52,17 +52,27 @@
 
 &emsp;&emsp;In the case of a foreign state or dependent area to which subsection (e) of this section applies, if the total number of visas issued under section 1153(a)(2) of this title exceeds the maximum number of visas that may be made available to immigrants of the state or area under section 1153(a)(2) of this title consistent with subsection (e) of this section (determined without regard to this paragraph), in applying paragraphs (3) and (4) of section 1153(a) of this title under subsection (e)(2) of this section all visas shall be deemed to have been required for the classes specified in paragraphs (1) and (2) of such section.
 
+#### (5) Rules for employment-based immigrants
+
+#### (A) Employment-based immigrants not subject to per country limitation if additional visas available
+
+&emsp;&emsp;If the total number of visas available under paragraph (1), (2), (3), (4), or (5) of section 1153(b) of this title for a calendar quarter exceeds the number of qualified immigrants who may otherwise be issued such visas, the visas made available under that paragraph shall be issued without regard to the numerical limitation under paragraph (2) of this subsection during the remainder of the calendar quarter.
+
+#### (B) Limiting fall across for certain countries subject to subsection (e) of this section
+
+&emsp;&emsp;In the case of a foreign state or dependent area to which subsection (e) of this section applies, if the total number of visas issued under section 1153(b) of this title exceeds the maximum number of visas that may be made available to immigrants of the state or area under section 1153(b) of this title consistent with subsection (e) of this section (determined without regard to this paragraph), in applying subsection (e) of this section all visas shall be deemed to have been required for the classes of aliens specified in section 1153(b) of this title.
+
 #### (b) Rules for chargeability
 
 Each independent country, self-governing dominion, mandated territory, and territory under the international trusteeship system of the United Nations, other than the United States and its outlying possessions, shall be treated as a separate foreign state for the purposes of a numerical level established under subsection (a)(2) of this section when approved by the Secretary of State. All other inhabited lands shall be attributed to a foreign state specified by the Secretary of State. For the purposes of this chapter the foreign state to which an immigrant is chargeable shall be determined by birth within such foreign state except that (1) an alien child, when accompanied by or following to join his alien parent or parents, may be charged to the foreign state of either parent if such parent has received or would be qualified for an immigrant visa, if necessary to prevent the separation of the child from the parent or parents, and if immigration charged to the foreign state to which such parent has been or would be chargeable has not reached a numerical level established under subsection (a)(2) of this section for that fiscal year; (2) if an alien is chargeable to a different foreign state from that of his spouse, the foreign state to which such alien is chargeable may, if necessary to prevent the separation of husband and wife, be determined by the foreign state of the spouse he is accompanying or following to join, if such spouse has received or would be qualified for an immigrant visa and if immigration charged to the foreign state to which such spouse has been or would be chargeable has not reached a numerical level established under subsection (a)(2) of this section for that fiscal year; (3) an alien born in the United States shall be considered as having been born in the country of which he is a citizen or subject, or, if he is not a citizen or subject of any country, in the last foreign country in which he had his residence as determined by the consular officer; and (4) an alien born within any foreign state in which neither of his parents was born and in which neither of his parents had a residence at the time of such alien's birth may be charged to the foreign state of either parent.
 
 #### (c) Chargeability for dependent areas
 
-Any immigrant born in a colony or other component or dependent area of a foreign state overseas from the foreign state, other than an aliendescribed in section 1151(b) of this title, shall be chargeable for the purpose of the limitation set forth in subsection (a) of this section, to the foreign state.
+Any immigrant born in a colony or other component or dependent area of a foreign state overseas from the foreign state, other than an alien described in section 1151(b) of this title, shall be chargeable for the purpose of the limitation set forth in subsection (a) of this section, to the foreign state.
 
 #### (d) Changes in territory
 
-In the case of any change in the territorial limits of foreign states, the Secretary of State shall, upon recognition of such change issue appropriate instructions to all diplomatic and consular offices.
+In the case of any change in the territorial limits of foreign states, the Secretary of Stateshall, upon recognition of such change issue appropriate instructions to all diplomatic and consular offices.
 
 #### (e) Special rules for countries at ceiling
 
@@ -72,13 +82,19 @@ If it is determined that the total number of immigrant visas made available unde
 
 &emsp;(2) except as provided in subsection (a)(4) of this section, the proportion of the visa numbers made available under each of paragraphs (1) through (4) of section 1153(a) of this title is equal to the ratio of the total number of visas made available under the respective paragraph to the total number of visas made available under section 1153(a) of this title, and
 
-&emsp;(3) the proportion of the visa numbers made available under each of paragraphs (1) through (5) of section 1153(b) of this title is equal to the ratio of the total number of visas made available under the respective paragraph to the total number of visas made available under section 1153(b) of this title.
+&emsp;(3) except as provided in subsection (a)(5) of this section, the proportion of the visa numbers made available under each of paragraphs (1) through (5) of section 1153(b) of this title is equal to the ratio of the total number of visas made available under the respective paragraph to the total number of visas made available under section 1153(b) of this title.
 
 > Nothing in this subsection shall be construed as limiting the number of visas that may be issued to natives of a foreign state or dependent area under section 1153(a) or 1153(b) of this title if there is insufficient demand for visas for such natives under section 1153(b) or 1153(a) of this title, respectively, or as limiting the number of visas that may be issued under section 1153(a)(2)(A) of this title pursuant to subsection (a)(4)(A) of this section.
 
-(June 27, 1952, ch. 477, title II, ch. 1, §202, 66 Stat. 176; Pub. L. 87–301, §9, Sept. 26, 1961, 75 Stat. 654; Pub. L. 89–236, §2, Oct. 3, 1965, 79 Stat. 911; Pub. L. 94–571, §3, Oct. 20, 1976, 90 Stat. 2703; Pub. L. 95–412, §2, Oct. 5, 1978, 92 Stat. 907; Pub. L. 96–212, title II, §203(b), Mar. 17, 1980, 94 Stat. 107; Pub. L. 97–116, §§18(c), 20(b), Dec. 29, 1981, 95 Stat. 1620, 1622; Pub. L. 99–603, title III, §311(a), Nov. 6, 1986, 100 Stat. 3434; Pub. L. 99–653, §4, Nov. 14, 1986, 100 Stat. 3655; Pub. L. 100–525, §§8(c), 9(f), Oct. 24, 1988, 102 Stat. 2617, 2620; Pub. L. 101–649, title I, §102, Nov. 29, 1990, 104 Stat. 4982; Pub. L. 102–232, title III, §302(a)(3), Dec. 12, 1991, 105 Stat. 1742; Pub. L. 104–208, div. C, title VI, §633, Sept. 30, 1996, 110 Stat. 3009–701.)
+(June 27, 1952, ch. 477, title II, ch. 1, §202, 66 Stat. 176; Pub. L. 87–301, §9, Sept. 26, 1961, 75 Stat. 654; Pub. L. 89–236, §2, Oct. 3, 1965, 79 Stat. 911; Pub. L. 94–571, §3, Oct. 20, 1976, 90 Stat. 2703; Pub. L. 95–412, §2, Oct. 5, 1978, 92 Stat. 907; Pub. L. 96–212, title II, §203(b), Mar. 17, 1980, 94 Stat. 107; Pub. L. 97–116, §§18(c), 20(b), Dec. 29, 1981, 95 Stat. 1620, 1622; Pub. L. 99–603, title III, §311(a), Nov. 6, 1986, 100 Stat. 3434; Pub. L. 99–653, §4, Nov. 14, 1986, 100 Stat. 3655; Pub. L. 100–525, §§8(c), 9(f), Oct. 24, 1988, 102 Stat. 2617, 2620; Pub. L. 101–649, title I, §102, Nov. 29, 1990, 104 Stat. 4982; Pub. L. 102–232, title III, §302(a)(3), Dec. 12, 1991, 105 Stat. 1742; Pub. L. 104–208, div. C, title VI, §633, Sept. 30, 1996, 110 Stat. 3009–701; Pub. L. 106–313, title I, §104(a), (b), Oct. 17, 2000, 114 Stat. 1252, 1253.)
 
 #### Amendments
+
+2000—Subsec. (a)(2). Pub. L. 106–313, §104(b)(1), substituted “paragraphs (3), (4), and (5)” for “paragraphs (3) and (4)”.
+
+Subsec. (a)(5). Pub. L. 106–313, §104(a), added par. (5).
+
+Subsec. (e)(3). Pub. L. 106–313, §104(b)(2), substituted “except as provided in subsection (a)(5) of this section, the proportion of the visa numbers” for “the proportion of the visa numbers”.
 
 1996—Subsec. (a)(1). Pub. L. 104–208 designated existing provisions as subpar. (A) and added subpar. (B).
 
@@ -185,10 +201,6 @@ For provisions rendering inapplicable the numerical limitations contained in thi
 #### Approval by Secretary of State Treating Taiwan (China) as Separate Foreign State for Purposes of Numerical Limitation on Immigrant Visas
 
 Pub. L. 97–113, title VII, §714, Dec. 29, 1981, 95 Stat. 1548, provided that: “The approval referred to in the first sentence of section 202(b) of the Immigration and Nationality Act \[subsec. (b) of this section\] shall be considered to have been granted with respect to Taiwan (China).”
-
-#### Cross References
-
-Definition of alien, Attorney General, child, consular officer, immigrant, immigrant visa, outlying possessions of the United States, parent, residence, spouse, wife, or husband, and United States, see section 1101 of this title.
 
 #### Section Referred to in Other Sections
 

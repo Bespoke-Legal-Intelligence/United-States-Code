@@ -2,7 +2,7 @@
 
 The Secretary of the Interior is authorized, in his discretion, to acquire, through purchase, relinquishment, gift, exchange, or assignment, any interest in lands, water rights, or surface rights to lands, within or without existing reservations, including trust or otherwise restricted allotments, whether the allottee be living or deceased, for the purpose of providing land for Indians.
 
-For the acquisition of such lands, interests in lands, water rights, and surface rights, and for expenses incident to such acquisition, there is authorized to be appropriated, out of any funds in the Treasury not otherwise appropriated, a sum not to exceed $2,000,000 in any one fiscal year: <i>Provided</i>, That no part of such funds shall be used to acquire additional land outside of the exterior boundaries of Navajo Indian Reservation for the Navajo Indians in Arizona, nor in New Mexico, in the event that legislation to define the exterior boundaries of the Navajo Indian Reservation in New Mexico, and for other purposes, or similar legislation, becomes law.
+For the acquisition of such lands, interests in lands, water rights, and surface rights, and for expenses incident to such acquisition, there is authorized to be appropriated, out of any funds in the Treasury not otherwise appropriated, asum not to exceed $2,000,000 in any one fiscal year: <i>Provided</i>, That no part of such funds shall be used to acquire additional land outside of the exterior boundaries of Navajo Indian Reservation for the Navajo Indians in Arizona, nor in New Mexico, in the event that legislation to define the exterior boundaries of the Navajo Indian Reservation in New Mexico, and for other purposes, or similar legislation, becomes law.
 
 The unexpended balances of any appropriations made pursuant to this section shall remain available until expended.
 
@@ -36,25 +36,13 @@ Act July 20, 1956, ch. 645, 70 Stat. 581, provided: “That the equitable title 
 
 “
 
-Sec. 2. The lands declared to be held in trust for the Seminole Tribe of Indians in the State of Florida under the first section of this Act and all lands which have been acquired by the United States for the Seminole Tribe of Indians in the State of Florida under authority of the Act entitled ‘An Act to conserve and develop Indian lands and resources; to extend to Indians the right to form business and other organizations; to establisha credit system for Indians; to grant certain rights of home rule to Indians; to provide for vocational education for Indians; and for other purposes’ approved June 18, 1934 (48 Stat. 984) \[sections 461, 462, 463, 464, 465, 466 to 470, 471, 472, 473, 474, 475, 476 to 478 and 479 of this title\], are hereby declared to be a reservation for the use and benefit of such Seminole Tribe in Florida.
+Sec. 2. The lands declared to be held in trust for the Seminole Tribe of Indians in the State of Florida under the first section of this Act and all lands which have been acquired by the United States for the Seminole Tribe of Indians in the State of Florida under authority of the Act entitled ‘An Act to conserve and develop Indian lands and resources; to extend to Indians the right to form business and other organizations; to establish a credit system for Indians; to grant certain rights of home rule to Indians; to provide for vocational education for Indians; and for other purposes’ approved June 18, 1934 (48 Stat. 984) \[sections 461, 462, 463, 464, 465, 466 to 470, 471, 472, 473, 474, 475, 476 to 478 and 479 of this title\], are hereby declared to be a reservation for the use and benefit of such Seminole Tribe in Florida.
 
 “
 
 Sec. 3. Nothing in this Act shall deprive any Indian of any individual right, ownership, right of possession, or contract right he may have in any land or interest in land referred to in this Act.”
 
-#### Cross References
-
-Conversion of exchange assignments of tribal lands on certain Sioux reservations into trust titles, see sections 484 to 486 of this title.
-
-Reservations wherein a majority of the adult Indians vote against application of act of which this section is a part, see section 478 of this title.
-
-Right-of-way grant, consent of tribal officials, see section 324 of this title.
-
-Territories, colonies, or insular possessions of United States and certain Indian tribes, application to, see sections 473 and 473a of this title.
-
-Umatilla Indian Reservation lands, application to, see section 463g of this title.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 463b, 473a, 475a, 608, 1300i–1, 1773c, 2202, 2719 of this title.
+This section is referred to in sections 463b, 473a, 475a, 608, 1041e, 1300i–1, 1773c, 2202, 2719 of this title.
 

@@ -8,7 +8,7 @@ As used in sections 7275 to 7276c of this title:
 
 &emsp;(3) The term “least cost option” means an option for providing reliable electric services to electric customers which will, to the extent practicable, minimize life-cycle system costs, including adverse environmental effects, of providing such service. To the extent practicable, energy efficiency and renewable resources may be given priority in any least-cost option.
 
-&emsp;(4) The term “long-term firm power service contract” means any contract for the sale by Western Area Power Administration of firm capacity, with or without energy, which is to be delivered over a period of more than one year.
+&emsp;(4) The term “long-term firm power service contract” means any contract for the sale by Western Area Power Administration of firmcapacity, with or without energy, which is to be delivered over a period of more than one year.
 
 &emsp;(5) The terms “customer” or “customers” means any entity or entities purchasing firm capacity with or without energy, from the Western Area Power Administration under a long-term firm power service contract. Such terms include parent-type entities and their distribution or user members.
 

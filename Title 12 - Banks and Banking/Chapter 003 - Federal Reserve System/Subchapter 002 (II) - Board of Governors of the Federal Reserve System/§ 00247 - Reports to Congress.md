@@ -1,12 +1,16 @@
 ### §247. Reports to Congress
 
-The Board of Governors of the Federal Reserve System shall annually make a full report of its operations to the Speaker of the House of Representatives, who shall cause the same to be printed for the information of the Congress.
+The Board of Governors of the Federal Reserve System shall annually make a full report of its operations to the Speaker of the House of Representatives, who shall cause the same to be printed for the information of the Congress. The report required under this paragraph shall include the reports required under section 1691f of title 15, section 57a(f)(7) of title 15, section 1613 of title 15, and section 247a of this title.
 
-(Dec. 23, 1913, ch. 6, §10 (par.), 38 Stat. 261; June 3, 1922, ch. 205, 42 Stat. 621; Aug. 23, 1935, ch. 614, title II, §203(a), 49 Stat. 704.)
+(Dec. 23, 1913, ch. 6, §10 (par.), 38 Stat. 261; June 3, 1922, ch. 205, 42 Stat. 621; Aug. 23, 1935, ch. 614, title II, §203(a), 49 Stat. 704; Pub. L. 106–569, title XI, §1103(b), Dec. 27, 2000, 114 Stat. 3030.)
 
 #### Codification
 
 Section is comprised of seventh par. of section 10 of act Dec. 23, 1913. For classification to this title of other pars. of section 10, see Codification note set out under section 241 of this title.
+
+#### Amendments
+
+2000—Pub. L. 106–569 inserted at end “The report required under this paragraph shall include the reports required under section 1691f of title 15, section 57a(f)(7) of title 15, section 1613 of title 15, and section 247a of this title.”
 
 #### Change of Name
 

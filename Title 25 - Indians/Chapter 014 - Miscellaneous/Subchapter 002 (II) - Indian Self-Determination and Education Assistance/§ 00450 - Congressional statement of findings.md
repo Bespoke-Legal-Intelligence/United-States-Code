@@ -20,13 +20,21 @@ The Congress further finds that—
 
 (Pub. L. 93–638, §2, Jan. 4, 1975, 88 Stat. 2203.)
 
+#### Short Title of 2000 Amendments
+
+Pub. L. 106–568, title VIII, §801, Dec. 27, 2000, 114 Stat. 2916, provided that: “This title \[amending sections 450<i>l</i>, 458cc, 1407, and 3207 of this title and sections 5604, 5608, and 5609 of Title 20, Education, and repealing section 84 of this title and sections 438 and 439 of Title 18, Crimes and Criminal Procedure\] may be cited as the ‘Native American Laws Technical Corrections Act of 2000’.”
+
+Pub. L. 106–568, title XIII, §1301, Dec. 27, 2000, 114 Stat. 2936, provided that: “This title \[enacting part F (§458bbb et seq.) of this subchapter\] may be cited as the ‘American Indian Education Foundation Act of 2000’.”
+
+Pub. L. 106–260, §1, Aug. 18, 2000, 114 Stat. 711, provided that: “This Act \[enacting part E (§458aaa et seq.) of this subchapter, amending sections 450f, 450j, and 450j–1 of this title, enacting provisions set out as notes under sections 450f and 458aaa of this title, and repealing provisions set out as a note under section 450f of this title\] may be cited as the ‘Tribal Self-Governance Amendments of 2000’.”
+
 #### Short Title of 1994 Amendment
 
 Pub. L. 103–413, §1, Oct. 25, 1994, 108 Stat. 4250, provided that: “This Act \[enacting part D (§458aa et seq.) of this subchapter and section 450<i>l</i> of this title, amending sections 450b, 450c, 450e, 450f, 450j to 450k, 450m, and 450m–1 of this title, and enacting provisions set out as notes under this section and section 458aa of this title\] may be cited as the ‘Indian Self-Determination Act Amendments of 1994’.”
 
 Pub. L. 103–413, title I, §101, Oct. 25, 1994, 108 Stat. 4250, provided that: “This title \[enacting section 450<i>l</i> of this title and amending sections 450b, 450c, 450e, 450f, 450j to 450k, 450m, and 450m–1 of this title\] may be cited as the ‘Indian Self-Determination Contract Reform Act of 1994’.”
 
-Pub. L. 103–413, title II, §201, Oct. 25, 1994, 108 Stat. 4270, provided that: “This title \[enacting part D (§458aa et seq.) of this subchapter and provisions set out asnotes under section 458aa of this title\] may be cited as the ‘Tribal Self-Governance Act of 1994’.”
+Pub. L. 103–413, title II, §201, Oct. 25, 1994, 108 Stat. 4270, provided that: “This title \[enacting part D (§458aa et seq.) of this subchapter and provisions set out as notes under section 458aa of this title\] may be cited as the ‘Tribal Self-Governance Act of 1994’.”
 
 #### Short Title of 1990 Amendment
 
@@ -56,55 +64,103 @@ Pub. L. 100–472, title II, §210, Oct. 5, 1988, 102 Stat. 2298, provided that:
 
 Pub. L. 100–472, title II, §211, Oct. 5, 1988, 102 Stat. 2298, provided that: “If any provision of this Act \[see Short Title of 1988 Amendment note above\] or the application thereof to any Indian tribe, entity, person or circumstance is held invalid, neither the remainder of this Act, nor the application of any provisions herein to other Indian tribes, entities, persons, or circumstances, shall be affected thereby.”
 
-#### Ex. Ord. No. 13084. Consultation and Coordination With Indian Tribal Governments
+#### Executive Order No. 13084
 
-Ex. Ord. No. 13084, May 14, 1998, 63 F.R. 27655, provided:
+Ex. Ord. No. 13084, May 14, 1998, 63 F.R. 27655, which provided for agencies to establish regular and meaningful consultation and collaboration with Indian tribal governments in the development of regulatory practices on Federal matters that significantly or uniquely affect their communities, to reduce the imposition of unfunded mandates upon Indian tribal governments, and to streamline the application process for and increase the availability of waivers to Indian tribal governments, was revoked, effective 60 days after Nov. 6, 2000, by Ex. Ord. No. 13175, §9(c), Nov. 6, 2000, 65 F.R. 67251, set out below.
 
-The United States has a unique legal relationship with Indian tribal governments as set forth in the Constitution of the United States, treaties, statutes, Executive orders, and court decisions. Since the formation of the Union, the United States has recognized Indian tribes as domestic dependent nations under its protection. In treaties, our Nation has guaranteed the right of Indian tribes to self-government. As domestic dependent nations, Indian tribes exercise inherent sovereign powers over their members and territory. The United States continues to work with Indian tribes on a government-to-government basis to address issues concerning Indian tribal self-government, trust resources, and Indian tribal treaty and other rights.
+#### Ex. Ord. No. 13175. Consultation and Coordination With Indian Tribal Governments
 
-Therefore, by the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to establish regular and meaningful consultation and collaboration with Indian tribal governments in the development of regulatory practices on Federal matters that significantly or uniquely affect their communities; to reduce the imposition of unfunded mandates upon Indian tribal governments; and to streamline the application process for and increase the availability of waivers to Indian tribal governments; it is hereby ordered as follows:
+Ex. Ord. No. 13175, Nov. 6, 2000, 65 F.R. 67249, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to establish regular and meaningful consultation and collaboration with tribal officials in the development of Federal policies that have tribal implications, to strengthen the United States government-to-government relationships with Indian tribes, and to reduce the imposition of unfunded mandates upon Indian tribes; it is hereby ordered as follows:
 
 Section 1. <i>Definitions</i>. For purposes of this order:
 
-(a) “State” or “States” refer to the States of the United States of America, individually or collectively, and, where relevant, to State governments, including units of local government and other political subdivisions established by the States.
+(a) “Policies that have tribal implications” refers to regulations, legislative comments or proposed legislation, and other policy statements or actions that have substantial direct effects on one or more Indian tribes, on the relationship between the Federal Government and Indian tribes, or on the distribution of power and responsibilities between the Federal Government and Indian tribes.
 
 (b) “Indian tribe” means an Indian or Alaska Native tribe, band, nation, pueblo, village, or community that the Secretary of the Interior acknowledges to exist as an Indian tribe pursuant to the Federally Recognized Indian Tribe List Act of 1994, 25 U.S.C. 479a.
 
 (c) “Agency” means any authority of the United States that is an “agency” under 44 U.S.C. 3502(1), other than those considered to be independent regulatory agencies, as defined in 44 U.S.C. 3502(5).
 
-Sec. 2. <i>Policymaking Criteria</i>. In formulating policies significantly or uniquely affecting Indian tribal governments, agencies shall be guided, to the extent permitted by law, by principles of respect for Indian tribal self-government and sovereignty, for tribal treaty and other rights, and for responsibilities that arise from the unique legal relationship between the Federal Government and Indian tribal governments.
+(d) “Tribal officials” means elected or duly appointed officials of Indian tribal governments or authorized intertribal organizations.
 
-Sec. 3. <i>Consultation</i>. (a) Each agency shall have an effective process to permit elected officials and other representatives of Indian tribal governments to provide meaningful and timely input in the development of regulatory policies on matters that significantly or uniquely affect their communities.
+Sec. 2. <i>Fundamental Principles</i>. In formulating or implementing policies that have tribal implications, agencies shall be guided by the following fundamental principles:
 
-(b) To the extent practicable and permitted by law, no agency shall promulgate any regulation that is not required by statute, that significantly or uniquely affects the communities of the Indian tribal governments, and that imposes substantial direct compliance costs on such communities, unless:
+(a) The United States has a unique legal relationship with Indian tribal governments as set forth in the Constitution of the United States, treaties, statutes, Executive Orders, and court decisions. Since the formation of the Union, the United States has recognized Indian tribes as domestic dependent nations under its protection. The Federal Government has enacted numerous statutes and promulgated numerous regulations that establish and define a trust relationship with Indian tribes.
 
-&emsp;(1) funds necessary to pay the direct costs incurred by the Indian tribal government in complying with the regulation are provided by the Federal Government; or
+(b) Our Nation, under the law of the United States, in accordance with treaties, statutes, Executive Orders, and judicial decisions, has recognized the right of Indian tribes to self-government. As domestic dependent nations, Indian tribes exercise inherent sovereign powers over their members and territory. The United States continues to work with Indian tribes on a government-to-government basis to address issues concerning Indian tribal self-government, tribal trust resources, and Indian tribal treaty and other rights.
 
-&emsp;(2) the agency, prior to the formal promulgation of the regulation,
+(c) The United States recognizes the right of Indian tribes to self-government and supports tribal sovereignty and self-determination.
 
-&emsp;&emsp;(A) in a separately identified portion of the preamble to the regulation as it is to be issued in the Federal Register, provides to the Director of the Office of Management and Budget a description of the extent of the agency's prior consultation with representatives of affected Indian tribal governments, a summary of the nature of their concerns, and the agency's position supporting the need to issue the regulation; and
+Sec. 3. <i>Policymaking Criteria</i>. In addition to adhering to the fundamental principles set forth in section 2, agencies shall adhere, to the extent permitted by law, to the following criteria when formulating and implementing policies that have tribal implications:
 
-&emsp;&emsp;(B) makes available to the Director of the Office of Management and Budget any written communications submitted to the agency by such Indian tribal governments.
+(a) Agencies shall respect Indian tribal self-government and sovereignty, honor tribal treaty and other rights, and strive to meet the responsibilities that arise from the unique legal relationship between the Federal Government and Indian tribal governments.
 
-Sec. 4. <i>Increasing Flexibility for Indian Tribal Waivers</i>. (a) Agencies shall review the processes under which Indian tribal governments apply for waivers of statutory and regulatory requirements and take appropriate steps to streamline those processes.
+(b) With respect to Federal statutes and regulations administered by Indian tribal governments, the Federal Government shall grant Indian tribal governments the maximum administrative discretion possible.
 
-(b) Each agency shall, to the extent practicable and permitted by law, consider any application by an Indian tribal government for a waiver of statutory or regulatory requirements in connection with any program administered by that agency with a general view toward increasing opportunities for utilizing flexible policy approaches at the Indian tribal level in cases in which the proposed waiver is consistent with the applicable Federal policy objectives and is otherwise appropriate.
+(c) When undertaking to formulate and implement policies that have tribal implications, agencies shall:
 
-(c) Each agency shall, to the extent practicable and permitted by law, render a decision upon a complete application for a waiver within 120 days of receipt of such application by the agency. The agency shall provide the applicant with timely written notice of the decision and, if the application for a waiver is not granted, the reasons for such denial.
+(1) encourage Indian tribes to develop their own policies to achieve program objectives;
+
+(2) where possible, defer to Indian tribes to establish standards; and
+
+(3) in determining whether to establish Federal standards, consult with tribal officials as to the need for Federal standards and any alternatives that would limit the scope of Federal standards or otherwise preserve the prerogatives and authority of Indian tribes.
+
+Sec. 4. <i>Special Requirements for Legislative Proposals</i>. Agencies shall not submit to the Congress legislation that would be inconsistent with the policymaking criteria in Section 3.
+
+Sec. 5. <i>Consultation</i>. (a) Each agency shall have an accountable process to ensure meaningful and timely input by tribal officials in the development of regulatory policies that have tribal implications. Within 30 days after the effective date of this order, the head of each agency shall designate an official with principal responsibility for the agency's implementation of this order. Within 60 days of the effective date of this order, the designated official shall submit to the Office of Management and Budget (OMB) a description of the agency's consultation process.
+
+(b) To the extent practicable and permitted by law, no agency shall promulgate any regulation that has tribal implications, that imposes substantial direct compliance costs on Indian tribal governments, and that is not required by statute, unless:
+
+(1) funds necessary to pay the direct costs incurred by the Indian tribal government or the tribe in complying with the regulation are provided by the Federal Government; or
+
+(2) the agency, prior to the formal promulgation of the regulation,
+
+&emsp;(A) consulted with tribal officials early in the process of developing the proposed regulation;
+
+&emsp;(B) in a separately identified portion of the preamble to the regulation as it is to be issued in the Federal Register, provides to the Director of OMB a tribal summary impact statement, which consists of a description of the extent of the agency's prior consultation with tribal officials, a summary of the nature of their concerns and the agency's position supporting the need to issue the regulation, and a statement of the extent to which the concerns of tribal officials have been met; and
+
+&emsp;(C) makes available to the Director of OMB any written communications submitted to the agency by tribal officials.
+
+(c) To the extent practicable and permitted by law, no agency shall promulgate any regulation that has tribal implications and that preempts tribal law unless the agency, prior to the formal promulgation of the regulation,
+
+(1) consulted with tribal officials early in the process of developing the proposed regulation;
+
+(2) in a separately identified portion of the preamble to the regulation as it is to be issued in the Federal Register, provides to the Director of OMB a tribal summary impact statement, which consists of a description of the extent of the agency's prior consultation with tribal officials, a summary of the nature of their concerns and the agency's position supporting the need to issue the regulation, and a statement of the extent to which the concerns of tribal officials have been met; and
+
+(3) makes available to the Director of OMB any written communications submitted to the agency by tribal officials.
+
+(d) On issues relating to tribal self-government, tribal trust resources, or Indian tribal treaty and other rights, each agency should explore and, where appropriate, use consensual mechanisms for developing regulations, including negotiated rulemaking.
+
+Sec. 6. <i>Increasing Flexibility for Indian Tribal Waivers.</i>
+
+(a) Agencies shall review the processes under which Indian tribes apply for waivers of statutory and regulatory requirements and take appropriate steps to streamline those processes.
+
+(b) Each agency shall, to the extent practicable and permitted by law, consider any application by an Indian tribe for a waiver of statutory or regulatory requirements in connection with any program administered by the agency with a general view toward increasing opportunities for utilizing flexible policy approaches at the Indian tribal level in cases in which the proposed waiver is consistent with the applicable Federal policy objectives and is otherwise appropriate.
+
+(c) Each agency shall, to the extent practicable and permitted by law, render a decision upon a complete application for a waiver within 120 days of receipt of such application by the agency, or as otherwise provided by law or regulation. If the application for waiver is not granted, the agency shall provide the applicant with timely written notice of the decision and the reasons therefor.
 
 (d) This section applies only to statutory or regulatory requirements that are discretionary and subject to waiver by the agency.
 
-Sec. 5. <i>Cooperation in developing regulations</i>. On issues relating to tribal self-government, trust resources, or treaty and other rights, each agency should explore and, where appropriate, use consensual mechanisms for developing regulations, including negotiated rulemaking.
+Sec. 7. <i>Accountability.</i>
 
-Sec. 6. <i>Independent agencies</i>. Independent regulatory agencies are encouraged to comply with the provisions of this order.
+(a) In transmitting any draft final regulation that has tribal implications to OMB pursuant to Executive Order 12866 of September 30, 1993 \[5 U.S.C. 601 note\], each agency shall include a certification from the official designated to ensure compliance with this order stating that the requirements of this order have been met in a meaningful and timely manner.
 
-Sec. 7. <i>General provisions</i>. (a) This order is intended only to improve the internal management of the executive branch and is not intended to, and does not, create any right, benefit, or trust responsibility, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
+(b) In transmitting proposed legislation that has tribal implications to OMB, each agency shall include a certification from the official designated to ensure compliance with this order that all relevant requirements of this order have been met.
 
-(b) This order shall supplement but not supersede the requirements contained in Executive Order 12866 (“Regulatory Planning and Review”) \[5 U.S.C. 601 note\], Executive Order 12988 (“Civil Justice Reform”) \[28 U.S.C. 519 note\], OMB Circular A–19, and the Executive Memorandum of April 29, 1994 \[set out below\], on Government-to-Government Relations with Native American Tribal Governments.
+(c) Within 180 days after the effective date of this order the Director of OMB and the Assistant to the President for Intergovernmental Affairs shall confer with tribal officials to ensure that this order is being properly and effectively implemented.
 
-(c) This order shall complement the consultation and waiver provisions in sections 4 and 5 of the Executive order, entitled “Federalism,” \[Ex. Ord. No. 13083, former 5 U.S.C. 601 note\] being issued on this day.
+Sec. 8. <i>Independent Agencies</i>. Independent regulatory agencies are encouraged to comply with the provisions of this order.
 
-(d) This order shall be effective 90 days after the date of this order.
+Sec. 9. <i>General Provisions</i>. (a) This order shall supplement but not supersede the requirements contained in Executive Order 12866 (Regulatory Planning and Review) \[5 U.S.C. 601 note\], Executive Order 12988 (Civil Justice Reform) \[28 U.S.C. 519 note\], OMB Circular A–19, and the Executive Memorandum of April 29, 1994, on Government-to-Government Relations with Native American Tribal Governments \[set out below\].
+
+(b) This order shall complement the consultation and waiver provisions in sections 6 and 7 of Executive Order 13132 (Federalism) \[5 U.S.C. 601 note\].
+
+(c) Executive Order 13084 (Consultation and Coordination with Indian Tribal Governments) is revoked at the time this order takes effect.
+
+(d) This order shall be effective 60 days after the date of this order.
+
+Sec. 10. <i>Judicial Review</i>. This order is intended only to improve the internal management of the executive branch, and is not intended to create any right, benefit, or trust responsibility, substantive or procedural, enforceable at law by a party against the United States, its agencies, or any person.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

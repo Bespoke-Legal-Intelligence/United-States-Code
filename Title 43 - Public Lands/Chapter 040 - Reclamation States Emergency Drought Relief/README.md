@@ -27,6 +27,9 @@
 | (a) | In general. |
 | (b) | Coordination with BPA. |
 | (c) | Termination of authority. |
+| [2215\.](Subchapter%20001%20%28I%29%20-%20Drought%20Program/%C2%A7%2002215%20-%20Assistance%20for%20drought-related%20planning%20in%20reclamation%20States.md) | Assistance for drought-related planning in reclamation States. |
+| (a) | In general. |
+| (b) | Report. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -39,10 +39,6 @@
 
 1951—Act Oct. 31, 1951, ch. 655, §5, 65 Stat. 711, substituted “Administrator of General Services” for “Secretary of State” in items 6 and 12.
 
-#### Federal Election Campaigns
-
-Disclosure of Federal campaign funds and general provisions, see section 431 et seq. of Title 2, The Congress.
-
 <i><sup>1</sup></i><i> Chapter heading amended by Pub. L. 95–179 without a corresponding amendment of chapter analysis.</i>
 
 <i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>

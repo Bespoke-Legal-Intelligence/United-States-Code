@@ -2,7 +2,7 @@
 
 (a) The Secretary of Labor may pay an employee who has been awarded compensation an additional sum of not more than $1,500 a month, as the Secretary considers necessary, when the Secretary finds that the service of an attendant is necessary constantly because the employee is totally blind, or has lost the use of both hands or both feet, or is paralyzed and unable to walk, or because of other disability resulting from the injury making him so helpless as to require constant attendance.
 
-(b) The Secretary may pay an individual undergoing vocational rehabilitation under section8104 of this title additional compensation necessary for his maintenance, but not to exceed $200 a month.
+(b) The Secretary may pay an individual undergoing vocational rehabilitation under section 8104 of this title additional compensation necessary for his maintenance, but not to exceed $200 a month.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 539; Pub. L. 90–83, §1(54), Sept. 11, 1967, 81 Stat. 210; Pub. L. 93–416, §7, Sept. 7, 1974, 88 Stat. 1145; Pub. L. 101–534, §2, Nov. 7, 1990, 104 Stat. 2352.)
 

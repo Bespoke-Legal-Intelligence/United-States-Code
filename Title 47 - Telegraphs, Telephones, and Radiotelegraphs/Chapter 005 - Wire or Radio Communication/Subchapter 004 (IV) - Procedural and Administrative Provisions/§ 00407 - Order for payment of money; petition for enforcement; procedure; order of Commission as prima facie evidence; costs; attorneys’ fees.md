@@ -4,7 +4,3 @@ If a carrier does not comply with an order for the payment of money within the t
 
 (June 19, 1934, ch. 652, title IV, §407, 48 Stat. 1095.)
 
-#### Federal Rules of Civil Procedure
-
-Complaint in civil action, see rules 3 and 7, Title 28, Appendix, Judiciary and Judicial Procedure.
-

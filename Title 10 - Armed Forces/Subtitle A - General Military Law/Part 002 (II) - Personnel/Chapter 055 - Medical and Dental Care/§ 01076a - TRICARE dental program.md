@@ -74,7 +74,7 @@ Copayments Under Premium Sharing Plans.—A member or dependent who receives den
 
 (f)
 
-Transfer of Members.—If a member whose dependents are enrolled in the plan established under subsection (a)(3) is transferred to a duty station where dental care is provided to the member's eligible dependents under a program other than that plan, the member may discontinue participation under the plan. If the member is later transferred to a duty station where dental care is not provided to such member's eligible dependents except under the plan established under subsection (a)(3), the member may re-enroll the dependents in that plan.
+Transfer of Members.—If a member whose dependents are enrolled in the plan established under subsection (a)(3) is transferred to a duty station where dental care is provided to the member's eligible dependents under a program other than that plan, the member may discontinue participation under the plan. If themember is later transferred to a duty station where dental care is not provided to such member's eligible dependents except under the plan established under subsection (a)(3), the member may re-enroll the dependents in that plan.
 
 (g)
 
@@ -102,13 +102,17 @@ Eligible Dependent Defined.—In this section, the term “eligible dependent”
 
 &emsp;(1) means a dependent described in subparagraph (A), (D), or (I) of section 1072(2) of this title; and
 
-&emsp;(2) includes any such dependent of a member who dies while on active duty for a period of more than 30 days or a member of the Ready Reserve if the dependent is enrolled on the date of the death of the member in a dental benefits plan established under subsection (a), except that the term does not include the dependent after the end of the one-year period beginning on the date of the member's death.
+&emsp;(2) includes any such dependent of a member who dies while on active duty for a period of more than 30 days or a member of the Ready Reserve if the dependent is enrolled on the date of the death of the member in a dental benefits plan established under subsection (a), except that the term does not include the dependent after the end of the three-year period beginning on the date of the member's death.
 
-(Added Pub. L. 106–65, div. A, title VII, §711(a), Oct. 5, 1999, 113 Stat. 685.)
+(Added Pub. L. 106–65, div. A, title VII, §711(a), Oct. 5, 1999, 113 Stat. 685; amended Pub. L. 106–398, §1 \[\[div. A\], title VII, §704(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–174.)
 
 #### Prior Provisions
 
-A prior section 1076a, added Pub. L. 99–145, title VI, §651(a)(1), Nov. 8, 1985, 99 Stat. 655; amended Pub. L. 99–661, div. A, title VII, §707(a), (b), Nov. 14, 1986, 100 Stat. 3905; Pub. L. 102–190, div. A, title VII, §701, Dec. 5, 1991, 105 Stat. 1399; Pub. L. 102–484, div. A, title VII, §701(a)–(e), Oct. 23, 1992, 106 Stat. 2430; Pub. L. 103–337, div. A, title VII, §§702(b), 703(a), 707(b), Oct. 5, 1994, 108 Stat. 2797, 2798, 2800; Pub. L. 105–85, div. A, title VII, §732, Nov. 18, 1997, 111 Stat. 1812; Pub. L. 105–261, div. A, title VII, §701(a)\[(1)\], (b), Oct. 17, 1998, 112 Stat. 2056; Pub. L. 106–65, div. A, title X, §1066(a)(8), Oct. 5, 1999, 113 Stat. 770, related to dependents’ dental program, prior to repeal by Pub. L. 106–65, div. A, title VII, §711(a), Oct. 5, 1999, 113 Stat. 685.
+A prior section 1076a, added Pub. L. 99–145, title VI, §651(a)(1), Nov. 8, 1985, 99 Stat. 655; amended Pub. L. 99–661, div. A, title VII, §707(a), (b), Nov. 14, 1986, 100 Stat. 3905; Pub. L. 102–190, div. A, title VII, §701, Dec. 5, 1991, 105 Stat. 1399; Pub. L. 102–484, div. A, title VII, §701(a)–(e), Oct. 23, 1992, 106 Stat. 2430; Pub. L. 103–337, div. A, title VII, §§702(b), 703(a), 707(b), Oct. 5, 1994, 108 Stat. 2797, 2798, 2800; Pub. L. 105–85, div. A, title VII, §732, Nov. 18, 1997, 111 Stat. 1812; Pub. L. 105–261, div. A, title VII, §701(a)(1), (b), Oct. 17, 1998, 112 Stat. 2056; Pub. L. 106–65, div. A, title X, §1066(a)(8), Oct. 5, 1999, 113 Stat. 770; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(d)(4)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–293, related to dependents’ dental program, prior to repeal by Pub. L. 106–65, div. A, title VII, §711(a), Oct. 5, 1999, 113 Stat. 685.
+
+#### Amendments
+
+2000—Subsec. (k)(2). Pub. L. 106–398 substituted “three-year period” for “one-year period”.
 
 #### Authorization To Expand Enrollment in Dependents’ Dental Program to Certain Members Returning From Overseas Assignments
 

@@ -44,7 +44,7 @@
 
 &emsp;(11) when requested by a Federal or State agency, a private employer, or a service-connected disabled veteran, assist such agency, employer, or veteran in identifying and acquiring prosthetic and sensory aids and devices needed to enhance the employability of disabled veterans; and
 
-&emsp;(12) facilitate the provision of guidance or counseling services, or both, to veterans who, pursuant to section 5(b)(3) of the Veterans’ Job Training Act (29 U.S.C. 1721 note), are certified as eligible for participation under such Act.
+&emsp;(12) facilitate the provision of guidance or counseling services, or both, to veterans who,pursuant to section 5(b)(3) of the Veterans’ Job Training Act (29 U.S.C. 1721 note),<sup>1</sup> are certified as eligible for participation under such Act.
 
 (c) Each local veterans’ employment representative shall be administratively responsible to the manager of the local employment service office and shall provide reports, not less frequently than quarterly, to the manager of such office and to the Director for Veterans’ Employment and Training for the State regarding compliance with Federal law and regulations with respect to special services and priorities for eligible veterans and eligible persons.
 
@@ -54,7 +54,7 @@
 
 The Wagner-Peyser Act, referred to in subsec. (a)(2)(B), is act June 6, 1933, ch. 49, 48 Stat. 113, as amended, which is classified generally to chapter 4B (§49 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 49 of Title 29 and Tables.
 
-The Veterans’ Job Training Act, referred to in subsec. (b)(12), is Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended, which is set out as a note under section 1721 of Title 29. For complete classification of this Act to the Code, see Tables.
+The Veterans’ Job Training Act, referred to in subsec. (b)(12), is Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended, which is set out as a note under section 2913 of Title 29, Labor. For complete classification of this Act to the Code, see Tables.
 
 #### Prior Provisions
 
@@ -147,4 +147,6 @@ Expiration Date.—The authority to carry out the pilot program under this secti
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 4102A, 4103A, 4104A, 4106, 4107 of this title; title 5 section 5948.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

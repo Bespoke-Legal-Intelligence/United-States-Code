@@ -1,6 +1,6 @@
 ### §732. Personnel management system
 
-(a) The Comptroller General shall maintain a personnel management system. The ComptrollerGeneral may prescribe a regulation about the system only after notice and opportunity for public comment. A reprisal or threat of reprisal may not be made against an officer or employee of the General Accounting Office because of comments on a proposed regulation about the system.
+(a) The Comptroller General shall maintain a personnel management system. The Comptroller General may prescribe a regulation about the system only after notice and opportunity for public comment. A reprisal or threat of reprisal may not be made against an officer or employee of the General Accounting Office because of comments on a proposed regulation about the system.
 
 (b) The personnel management system shall—
 
@@ -24,7 +24,7 @@
 
 &emsp;(3) except as provided under section 733(a)(3)(B) of this title or section 5349(a) of title 5, basic pay rates of officers and employees of the Office shall be adjusted at the same time and to the same extent as basic pay rates of the General Schedule are adjusted;
 
-&emsp;(4) the pay schedule for officers and employees of the Office may provide that the basic pay rates for not more than 129 positions may be at rates not more than the rate of basic pay payable for grade GS–18 of the General Schedule, less the number of positions in the General Accounting Office Senior Executive Service under section 733 of this title (except positions included in the Service under section 733(c) of this title); and
+&emsp;(4) the pay schedule for officers and employees of the Office may provide that the basic pay rates for not more than 129 positions (including senior-level positions under section 732a of this title) may be at rates not more than the rate of basic pay payable for grade GS–18 of the General Schedule, less the number of positions in the General Accounting Office Senior Executive Service under section 733 of this title (except positions included in the Service under section 733(c) of this title and senior-level positions described in section 732a(b) of this title); and
 
 &emsp;(5) officers and employees of the Office are entitled to grade and basic pay retention consistent with subchapter VI of chapter 53 of title 5.
 
@@ -62,9 +62,45 @@
 
 (g) An officer or employee of the General Accounting Office completing at least one year of continuous service under a nontemporary appointment under the personnel management system acquires a competitive status for appointment to a position in the competitive service for which the officer or employee is qualified.
 
-(h) Notwithstanding the provisions of subchapter I of chapter 35 of title 5, United States Code, the Comptroller General shall prescribe regulations for the release of officers and employees of the General Accounting Office in a reduction in force which give due effect to tenure of employment, military preference, performance and/or contributions to the agency's goals and objectives, and length of service. The regulations shall, to the extent deemed feasible by the Comptroller General, be designed to minimize disruption to the Office and to assist in promoting the efficiency of the Office.
+(h)(1)(A) Notwithstanding any other provision of law, the Comptroller General shall prescribe regulations, consistent with regulations issued by the Office of Personnel Management under authority of section 3502(a) of title 5 for the separation of employees of the General Accounting Office during a reduction in force or other adjustment in force.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 897; Pub. L. 98–326, §1(b), June 22, 1984, 98 Stat. 269; Pub. L. 100–426, title III, §§302, 303, Sept. 9, 1988, 102 Stat. 1602; Pub. L. 101–509, title V, §529 \[title I, §101(b)(2)(B)\], Nov. 5, 1990, 104 Stat. 1427, 1439; Pub. L. 104–53, title II, §212(a), Nov. 19, 1995, 109 Stat. 535.)
+(B) The regulations must give effect to the following factors in descending order of priority—
+
+&emsp;(i) tenure of employment;
+
+&emsp;(ii) military preference subject to section 3501(a)(3) of title 5;
+
+&emsp;(iii) veterans’ preference under sections 3502(b) and 3502(c) of title 5;
+
+&emsp;(iv) performance ratings;
+
+&emsp;(v) length of service computed in accordance with the second sentence of section 3502(a) of title 5; and
+
+&emsp;(vi) other objective factors such as skills and knowledge that the Comptroller General considers necessary and appropriate to realign the agency's workforce in order to meet current and future mission needs, to correct skill imbalances, or to reduce high-grade, managerial, or supervisory positions.
+
+(C) Notwithstanding subparagraph (B), the regulations relating to removal from the General Accounting Office Senior Executive Service in a reduction in force or other adjustment in force shall be consistent with section 3595(a) of title 5.
+
+(2)(A) The regulations shall provide a right of appeal to the General Accounting Office Personnel Appeals Board regarding a personnel action under the regulations, consistent with section 753 of this title.
+
+(B) The regulations shall provide that final decision by the General Accounting Office Personnel Appeals Board may be reviewed by the United States Court of Appeals for the Federal Circuit consistent with section 755 of this title.
+
+(3)(A) Except as provided in subparagraph (B), an employee may not be released, due to a reduction <sup>1</sup> force, unless such employee is given written notice at least 60 days before such employee is so released. Such notice shall include—
+
+&emsp;(i) the personnel action to be taken with respect to the employee involved;
+
+&emsp;(ii) the effective date of the action;
+
+&emsp;(iii) a description of the procedures applicable in identifying employees for release;
+
+&emsp;(iv) the employee's ranking relative to other competing employees, and how that ranking was determined; and
+
+&emsp;(v) a description of any appeal or other rights which may be available.
+
+(B) The Comptroller General may, in writing, shorten the period of advance notice required under subparagraph (A) with respect to a particular reduction in force, if necessary because of circumstances not reasonably foreseeable, except that such period may not be less than 30 days.
+
+(i) The regulations under subsection (h) shall include provisions under which, at the discretion of the Comptroller General, the opportunity to separate voluntarily (in order to permit the retention of an individual occupying a similar position) shall, with respect to the General Accounting Office, be available to the same extent and in the same manner as described in subsection (f)(1)–(4) of section 3502 of title 5 (with respect to the Department of Defense or a military department).
+
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 897; Pub. L. 98–326, §1(b), June 22, 1984, 98 Stat. 269; Pub. L. 100–426, title III, §§302, 303, Sept. 9, 1988, 102 Stat. 1602; Pub. L. 101–509, title V, §529 \[title I, §101(b)(2)(B)\], Nov. 5, 1990, 104 Stat. 1427, 1439; Pub. L. 104–53, title II, §212(a), Nov. 19, 1995, 109 Stat. 535; Pub. L. 106–303, §§3(a)(1), (b)(1), 4(a)(2), Oct. 13, 2000, 114 Stat. 1066, 1068, 1069.)
 
 Historical and Revision Notes
 
@@ -138,6 +174,12 @@ The General Schedule, referred to in subsec. (c)(3), (4), is set out under secti
 
 #### Amendments
 
+2000—Subsec. (c)(4). Pub. L. 106–303, §4(a)(2), inserted “(including senior-level positions under section 732a of this title)” after “129 positions” and substituted “733(c) of this title and senior-level positions described in section 732a(b) of this title);” for “733(c) of this title);”.
+
+Subsec. (h). Pub. L. 106–303, §3(a)(1), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “Notwithstanding the provisions of subchapter I of chapter 35 of title 5, United States Code, the Comptroller General shall prescribe regulations for the release of officers and employees of the General Accounting Office in a reduction in force which give due effect to tenure of employment, military preference, performance and/or contributions to the agency's goals and objectives, and length of service. The regulations shall, to the extent deemed feasible by the Comptroller General, be designed to minimize disruption to the Office and to assist in promoting the efficiency of the Office.”
+
+Subsec. (i). Pub. L. 106–303, §3(b)(1), added subsec. (i).
+
 1995—Subsec. (h). Pub. L. 104–53 added subsec. (h).
 
 1990—Subsec. (b)(6). Pub. L. 101–509 substituted “5301” for “5301(a)”.
@@ -147,6 +189,24 @@ The General Schedule, referred to in subsec. (c)(3), (4), is set out under secti
 Subsec. (c)(4). Pub. L. 100–426, §302, substituted “129” for “119” and “the rate of basic pay payable for grade GS–18 of the General Schedule” for “the highest rate for GS–18”.
 
 1984—Subsec. (c)(4). Pub. L. 98–326 substituted “119” for “100”.
+
+#### Effective Date of 2000 Amendment; Savings Provision
+
+Pub. L. 106–303, §3(a)(2), (3), Oct. 13, 2000, 114 Stat. 1067, 1068, provided that:
+
+“(2)
+
+Effective date.—Subject to paragraph (3), the amendment made by paragraph (1) \[amending this section\] shall apply with respect to all reduction-in-force actions taking effect on or after—
+
+&emsp;“(A) the 180th day following the date of the enactment of this Act \[Oct. 13, 2000\]; or
+
+&emsp;“(B) if earlier, the date the Comptroller General issues the regulations required under such amendment.
+
+“(3)
+
+Savings provisions.—If, before the effective date determined under paragraph (2), specific notice of a reduction-in-force action is given to an individual in accordance with section 1 of chapter 5 of GAO Order 2351.1 (dated February 28, 1996), then, for purposes of determining such individual's rights in connection with such action, the amendment made by paragraph (1) shall be treated as if it had never been enacted.”
+
+Pub. L. 106–303, §3(b)(2), Oct. 13, 2000, 114 Stat. 1068, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 13, 2000\].”
 
 #### Effective Date of 1990 Amendment
 
@@ -162,5 +222,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 733, 751, 752, 753, 755 of this title.
+This section is referred to in sections 732a, 733, 751, 752, 753, 755 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by “in”.</i>
 

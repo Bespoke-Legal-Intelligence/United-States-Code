@@ -36,7 +36,7 @@ Words “or the United States Court of Appeals for the District of Columbia” i
 
 Words in section 350 of title 28, U.S.C., 1940 ed., “excepting that writs of certiorari to the Supreme Court of the Philippine Islands may be granted where application therefor is made within six months”, were omitted as obsolete, in view of the independence of the Philippines recognized by section 1240 of title 48, U.S.C., 1940 ed., Territories and Insular Possessions.
 
-Subsection (e) relates only to supersedeas or stay of execution of judgments sought to be reviewed in the Supreme Court on writ of certiorari. Supersedeas or stay of proceedings taken to the Supreme Court by appeal from courts of appeals, or direct appeals from a district court or three-judge courts, is governed by Rule 62 of the Federal Rules of Civil Procedure.
+Subsection (e) relates only to supersedeas or stay of execution of judgments sought to be reviewed in theSupreme Court on writ of certiorari. Supersedeas or stay of proceedings taken to the Supreme Court by appeal from courts of appeals, or direct appeals from a district court or three-judge courts, is governed by Rule 62 of the Federal Rules of Civil Procedure.
 
 Changes were made in phraseology.
 
@@ -50,13 +50,13 @@ The other amendment merely renumbers subsections (d) and (e) of such section 210
 
 #### Amendments
 
-1994—Subsec. (g). Pub. L. 103–337 substituted “Court of Appeals for the Armed Forces” for “Court of Military Appeals”.
+<b>1994</b>—Subsec. (g). Pub. L. 103–337 substituted “Court of Appeals for the Armed Forces” for “Court of Military Appeals”.
 
-1988—Subsec. (a). Pub. L. 100–352 substituted “section 1253” for “sections 1252, 1253, and 2282”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–352 substituted “section 1253” for “sections 1252, 1253, and 2282”.
 
-1983—Subsec. (g). Pub. L. 98–209 added subsec. (g).
+<b>1983</b>—Subsec. (g). Pub. L. 98–209 added subsec. (g).
 
-1949—Subsec. (c). Act May 24, 1949, §106(a), clarified the allowance of an additional 60 days in which to apply for a writ of certiorari.
+<b>1949</b>—Subsec. (c). Act May 24, 1949, §106(a), clarified the allowance of an additional 60 days in which to apply for a writ of certiorari.
 
 Subsecs. (d) to (f). Act May 24, 1949, §106(b), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
 
@@ -67,10 +67,6 @@ Amendment by Pub. L. 100–352 effective ninety days after June 27, 1988, except
 #### Effective Date of 1983 Amendment
 
 Amendment by Pub. L. 98–209 effective on first day of eighth calendar month beginning after Dec. 6, 1983, see section 12(a)(1) of Pub. L. 98–209, set out as a note under section 801 of Title 10, Armed Forces.
-
-#### Federal Rules of Appellate Procedure
-
-Criminal cases, time for appeal, see rule 4, Appendix to this title.
 
 #### Section Referred to in Other Sections
 

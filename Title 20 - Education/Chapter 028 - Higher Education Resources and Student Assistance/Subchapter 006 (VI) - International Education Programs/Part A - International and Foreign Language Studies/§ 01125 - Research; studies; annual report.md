@@ -2,7 +2,7 @@
 
 #### (a) Authorized activities
 
-The Secretary may, directly or through grants or contracts, conduct research and studies that contribute to achieving the purposes of this part. Such research and studies may include—
+The Secretary may, directly or through grants or contracts, conduct research and studies thatcontribute to achieving the purposes of this part. Such research and studies may include—
 
 &emsp;(1) studies and surveys to determine needs for increased or improved instruction in foreign language, area studies, or other international fields, including the demand for foreign language, area, and other international specialists in government, education, and the private sector;
 

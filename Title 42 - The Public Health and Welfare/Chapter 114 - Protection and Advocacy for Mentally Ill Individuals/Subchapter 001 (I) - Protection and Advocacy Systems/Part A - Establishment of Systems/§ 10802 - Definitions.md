@@ -12,19 +12,21 @@ For purposes of this subchapter:
 
 &emsp;&emsp;(D) the use of bodily or chemical restraints on a <sup>1</sup> individual with mental illness which is not in compliance with Federal and State laws and regulations.
 
-&emsp;(2) The term “eligible system” means the system established in a State to protect and advocate the rights of persons with developmental disabilities under part C of the Developmental Disabilities Assistance and Bill of Rights Act \[42 U.S.C. 6041 et seq.\].
+&emsp;(2) The term “eligible system” means the system established in a State to protect and advocate the rights of persons with developmental disabilities under subtitle C of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 \[42 U.S.C. 15041 et seq.\].
 
 &emsp;(3) The term “facilities” may include, but need not be limited to, hospitals, nursing homes, community facilities for individuals with mental illness, board and care homes, homeless shelters, and jails and prisons.
 
-&emsp;(4) The term “individual with mental illness” means an individual—
+&emsp;(4) The term “individual with mental illness” means, except as provided in section 10804(d) of this title, an individual—
 
 &emsp;&emsp;(A) who has a significant mental illness or emotional impairment, as determined by a mental health professional qualified under the laws and regulations of the State; and
 
-&emsp;&emsp;(B)(i) who is an inpatient or resident in a facility rendering care or treatment, even if the whereabouts of such inpatient or resident are unknown;
+&emsp;&emsp;(B)(i)(I) who is an inpatient or resident in a facility rendering care or treatment, even if the whereabouts of such inpatient or resident are unknown;
 
-&emsp;&emsp;(ii) who is in the process of being admitted to a facility rendering care or treatment, including persons being transported to such a facility; or”; <sup>2</sup>
+&emsp;&emsp;(II) who is in the process of being admitted to a facility rendering care or treatment, including persons being transported to such a facility; or”; <sup>2</sup>
 
-&emsp;&emsp;(iii) who is involuntarily confined in a municipal detention facility for reasons other than serving a sentence resulting from conviction for a criminal offense.
+&emsp;&emsp;(III) who is involuntarily confined in a municipal detention facility for reasons other than serving a sentence resulting from conviction for a criminal offense; or
+
+&emsp;&emsp;(ii) who satisfies the requirements of subparagraph (A) and lives in a community setting, including their own home.
 
 &emsp;(5) The term “neglect” means a negligent act or omission by any individual responsible for providing services in a facility rendering care or treatment which caused or may have caused injury or death to a <sup>1</sup> individual with mental illness or which placed a <sup>1</sup> individual with mental illness at risk of injury or death, and includes an act or omission such as the failure to establish or carry out an appropriate individual program plan or treatment plan for a <sup>1</sup> individual with mental illness, the failure to provide adequate nutrition, clothing, or health care to a <sup>1</sup> individual with mental illness, or the failure to provide a safe environment for a <sup>1</sup> individual with mental illness, including the failure to maintain adequate numbers of appropriately trained staff.
 
@@ -32,13 +34,25 @@ For purposes of this subchapter:
 
 &emsp;(7) The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Commonwealth of the Northern Mariana Islands, American Samoa, the Virgin Islands, and the Trust Territory of the Pacific Islands.
 
-(Pub. L. 99–319, title I, §102, May 23, 1986, 100 Stat. 478; Pub. L. 100–509, §3, Oct. 20, 1988, 102 Stat. 2543; Pub. L. 102–173, §§4, 10(1), Nov. 27, 1991, 105 Stat. 1217, 1219.)
+&emsp;(8) The term “American Indian consortium” means a consortium established under part C of the Developmental Disabilities Assistance and Bill of Rights Act <sup>3</sup> (42 U.S.C. 6042 et seq.).
+
+(Pub. L. 99–319, title I, §102, May 23, 1986, 100 Stat. 478; Pub. L. 100–509, §3, Oct. 20, 1988, 102 Stat. 2543; Pub. L. 102–173, §§4, 10(1), Nov. 27, 1991, 105 Stat. 1217, 1219; Pub. L. 106–310, div. B, title XXXII, §3206(b), Oct. 17, 2000, 114 Stat. 1194; Pub. L. 106–402, title IV, §401(b)(13)(A), Oct. 30, 2000, 114 Stat. 1739.)
 
 #### References in Text
 
-The Developmental Disabilities Assistance and Bill of Rights Act, referred to in par. (2), is title I of Pub. L. 88–164, as added by Pub. L. 98–527, §2, Oct. 19, 1984, 98 Stat. 2662, as amended. Part C of the Developmental Disabilities Assistance and Bill of Rights Act is classified generally to subchapter III (§6041 et seq.) of chapter 75 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6000 of this title and Tables.
+The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in par. (2), is Pub. L.106–402, Oct. 30, 2000, 114 Stat. 1677. Subtitle C of the Act probably means subtitle C of title I of the Act, which is classified generally to part C (§15041 et seq.) of subchapter I of chapter 144 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of this title and Tables.
+
+The Developmental Disabilities Assistance and Bill of Rights Act, referred to in par. (8), is title I of Pub. L. 88–164, as added by Pub. L. 98–527, §2, Oct. 19, 1984, 98 Stat. 2662, as amended, which was repealed by Pub. L. 106–402, title IV, §401(a), Oct. 30, 2000, 114 Stat. 1737. Part C of the Act was classified generally to subchapter III (§6041 et seq.) of chapter 75 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+
+2000—Par. (2). Pub. L. 106–402 substituted “subtitle C of the Developmental Disabilities Assistance and Bill of Rights Act of 2000” for “part C of the Developmental Disabilities Assistance and Bill of Rights Act”.
+
+Par. (4). Pub. L. 106–310, §3206(b)(1)(A), inserted “, except as provided in section 10804(d) of this title,” after “means” in introductory provisions.
+
+Par. (4)(B). Pub. L. 106–310, §3206(b)(1)(B), designated existing provisions as cl. (i), redesignated former cls. (i) to (iii) as subcls. (I) to (III), respectively, of cl. (i), and added cl. (ii).
+
+Par. (8). Pub. L. 106–310, §3206(b)(2), added par. (8).
 
 1991—Par. (1). Pub. L. 102–173, §10(1), substituted “individual with mental illness” for “mentally ill individual” wherever appearing.
 
@@ -56,9 +70,11 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 10851 of this title; title 29 section 794e.
+This section is referred to in sections 290ii–1, 10804, 10851 of this title; title 29 section 794e.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “an”.</i>
 
 <i><sup>2</sup></i><i> So in original.</i>
+
+<i><sup>3</sup></i><i> See References in Text note below.</i>
 

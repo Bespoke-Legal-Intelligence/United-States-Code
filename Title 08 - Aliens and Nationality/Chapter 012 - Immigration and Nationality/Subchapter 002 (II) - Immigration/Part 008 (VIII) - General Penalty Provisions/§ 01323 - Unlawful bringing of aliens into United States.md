@@ -8,7 +8,7 @@
 
 #### (b) Evidence
 
-If it appears to the satisfaction of the Attorney General that any alien has been so brought, such person, or transportation company, or the master, commanding officer, agent, owner, charterer, or consignee of any such vessel or aircraft, shall pay to the Commissioner a fine of$3,000 for each alien so brought and, except in the case of any such alien who is admitted, or permitted to land temporarily, in addition, an amount equal to that paid by such alien for his transportation from the initial point of departure, indicated in his ticket, to the port of arrival, such latter fine to be delivered by the Commissioner to the alien on whose account the assessment is made. No vessel or aircraft shall be granted clearance pending the determination of the liability to the payment of such fine or while such fine remains unpaid, except that clearance may be granted prior to the determination of such question upon the deposit of an amount sufficient to cover such fine, or of a bond with sufficient surety to secure the payment thereof approved by the Commissioner.
+If it appears to the satisfaction of the Attorney General that any alien has been so brought, such person, or transportation company, or the master, commanding officer, agent, owner, charterer, or consignee of any such vessel or aircraft, shall pay to the Commissioner a fine of $3,000 for each alien so brought and, except in the case of any such alien who is admitted, or permitted to land temporarily, in addition, an amount equal to that paid by such alien for his transportation from the initial point of departure, indicated in his ticket, to the port of arrival, such latter fine to be delivered by the Commissioner to the alien on whose account the assessment is made. No vessel or aircraft shall be granted clearance pending the determination of the liability to the payment of such fine or while such fine remains unpaid, except that clearance may be granted prior to the determination of such question upon the deposit of an amount sufficient to cover such fine, or of a bond with sufficient surety to secure the payment thereof approved by the Commissioner.
 
 #### (c) Remission or refund
 
@@ -62,7 +62,7 @@ Subsec. (b). Pub. L. 101–649, §543(a)(10)(A), substituted “Commissioner the
 
 Subsec. (c). Pub. L. 101–649, §201(b)(2), inserted “valid passport or” before “visa was required”.
 
-Subsec. (d). Pub. L. 101–649, §543(a)(10)(B), substituted “Commissioner the sum of $3,000” for “collector of customs of the customs district in which the port of arrival is located the sum of $1,000” in first sentence and“Commissioner” for “collector of customs” in second sentence.
+Subsec. (d). Pub. L. 101–649, §543(a)(10)(B), substituted “Commissioner the sum of $3,000” for “collector of customs of the customs district in which the port of arrival is located the sum of $1,000” in first sentence and “Commissioner” for “collector of customs” in second sentence.
 
 #### Effective Date of 1996 Amendment
 
@@ -85,16 +85,6 @@ Amendment by Pub. L. 102–232 effective as if included in the enactment of the 
 #### Effective Date of 1990 Amendment
 
 Amendment by section 543(a)(10) of Pub. L. 101–649 applicable to actions taken after Nov. 29, 1990, see section 543(c) of Pub. L. 101–649, set out as a note under section 1221 of this title.
-
-#### Cross References
-
-Definition of alien, attorney general, immigration officer, and United States, see section 1101 of this title.
-
-Funds collected to be held in trust, see section 1321 of Title 31, Money and Finance.
-
-Revocation of visas or documents, notice prior to alien's embarkation as prerequisite to imposition of penalty, see section 1201 of this title.
-
-Stowaways on vessels and aircraft, penalties generally, see section 2199 of Title 18, Crimes and Criminal Procedure.
 
 #### Section Referred to in Other Sections
 

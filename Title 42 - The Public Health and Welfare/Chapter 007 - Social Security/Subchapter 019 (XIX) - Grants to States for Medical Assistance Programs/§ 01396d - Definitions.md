@@ -26,9 +26,11 @@ The term “medical assistance” means payment of part or all of the cost of th
 
 &emsp;(x) individuals described in section 1396a(u)(1) of this title,
 
-&emsp;(xi) individuals described in section 1396a(z)(1) of this title, or
+&emsp;(xi) individuals described in section 1396a(z)(1) of this title,
 
-&emsp;(xii) employed individuals with a medically improved disability (as defined in subsection (v) of this section),
+&emsp;(xii) employed individuals with a medically improved disability (as defined in subsection (v) of this section), or
+
+&emsp;(xiii) individuals described in section 1396a(aa) <sup>2</sup> of this title,
 
 > but whose income and resources are insufficient to meet all of such cost—
 
@@ -48,7 +50,7 @@ The term “medical assistance” means payment of part or all of the cost of th
 
 &emsp;(8) private duty nursing services;
 
-&emsp;(9) clinic services furnished by or under the direction of a physician, without regard to whether the clinic itself is administered by a physician, including such services furnished outside the clinic by clinic personnel to an eligible individual who does not reside in a permanent dwelling or does not have a fixed home or mailing address;
+&emsp;(9) clinic services furnished by or under the direction of a physician, without regard to whether the clinic itself is administered by aphysician, including such services furnished outside the clinic by clinic personnel to an eligible individual who does not reside in a permanent dwelling or does not have a fixed home or mailing address;
 
 &emsp;(10) dental services;
 
@@ -96,7 +98,7 @@ The term “medical assistance” means payment of part or all of the cost of th
 
 #### (b) Federal medical assistance percentage; State percentage; Indian health care percentage
 
-Subject to section 1396u–3(d) of this title, the term “Federal medical assistance percentage” for any State shall be 100 per centum less the State percentage; and the State percentage shall be that percentage which bears the same ratio to 45 per centum as the square of the per capita income of such State bears to the square of the per capita income of the continental United States (including Alaska) and Hawaii; except that (1) the Federal medical assistance percentage shall in no case be less than 50 per centum or more than 83 per centum, (2) the Federal medical assistance percentage for Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, and American Samoa shall be 50 per centum, and (3) for purposes of this subchapter and subchapter XXI of this chapter, the Federal medical assistance percentage for the District of Columbia shall be 70 percent. The Federal medical assistance percentage for any State shall be determined and promulgated in accordance with the provisions of section 1301(a)(8)(B) of this title. Notwithstanding the first sentence of this section, the Federal medical assistance percentage shall be 100 per centum with respect to amounts expended as medical assistance for services which are received through an Indian Health Service facility whether operated by the Indian Health Service or by an Indian tribe or tribal organization (as defined in section 1603 of title 25). Notwithstanding the first sentence of this subsection, in the case of a State plan that meets the condition described in subsection (u)(1) of this section, with respect to expenditures (other than expenditures under section 1396r–4 of this title) described in subsection (u)(2)(A) of this section or subsection (u)(3) of this section for the State for a fiscal year, and that do not exceed the amount of the State's allotment under section 1397dd of this title (not taking into account reductions under section 1397dd(d)(2) of this title) for the fiscal year reduced by the amount of any payments made under section 1397ee of this title to the State from such allotment for such fiscal year, theFederal medical assistance percentage is equal to the enhanced FMAP described in section 1397ee(b) of this title.
+Subject to section 1396u–3(d) of this title, the term “Federal medical assistance percentage” for any State shall be 100 per centum less the State percentage; and the State percentage shall be that percentage which bears the same ratio to 45 per centum as the square of the per capita income of such State bears to the square of the per capita income of the continental United States (including Alaska) and Hawaii; except that (1) the Federal medical assistance percentage shall in no case be less than 50 per centum or more than 83 per centum, (2) the Federal medical assistance percentage for Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, and American Samoa shall be 50 per centum, (3) for purposes of this subchapter and subchapter XXI of this chapter, the Federal medical assistance percentage for the District of Columbia shall be 70 percent, and (4) the Federal medical assistance percentage shall be equal to the enhanced FMAP described in section 1397ee(b) of this title with respect to medical assistance provided to individuals who are eligible for such assistance only on the basis of section 1396a(a)(10)(A)(ii)(XVIII) of this title. The Federal medical assistance percentage for any State shall be determined and promulgated in accordance with the provisions of section 1301(a)(8)(B) of this title. Notwithstanding the first sentence of this section, the Federal medical assistance percentage shall be 100 per centum with respect to amounts expended as medical assistance for services which are received through an Indian Health Service facility whether operated by the Indian Health Service or by an Indian tribe or tribal organization (as defined in section 1603 of title 25). Notwithstanding the first sentence of this subsection, in the case of a State plan that meets the condition described in subsection (u)(1) of this section, with respect to expenditures (other than expenditures under section 1396r–4 of this title) described in subsection (u)(2)(A) of this section or subsection (u)(3) of this section for the State for a fiscal year, and that do not exceed the amount of the State's available allotment under section 1397dd of this title, the Federal medical assistance percentage is equal to the enhanced FMAP described in section 1397ee(b) of this title.
 
 #### (c) Nursing facility
 
@@ -138,7 +140,7 @@ If the State plan includes provision of chiropractors’ services, such services
 
 (1) For purposes of paragraph (16) of subsection (a) of this section, the term “inpatient psychiatric hospital services for individuals under age 21” includes only—
 
-&emsp;(A) inpatient services which are provided in an institution (or distinct part thereof) which is a psychiatric hospital as defined in section 1395x(f) of this title or in another inpatient setting that the Secretary has specified in regulations;
+&emsp;(A) inpatient services which are provided in an institution (or distinct part thereof) which is a psychiatric hospital as defined in section1395x(f) of this title or in another inpatient setting that the Secretary has specified in regulations;
 
 &emsp;(B) inpatient services which, in the case of any individual (i) involve active treatment which meets such standards as may be prescribed in regulations by the Secretary, and (ii) a team, consisting of physicians and other personnel qualified to make determinations with respect to mental health conditions and the treatment thereof, has determined are necessary on an inpatient basis and can reasonably be expected to improve the condition, by reason of which such services are necessary, to the extent that eventually such services will no longer be necessary; and
 
@@ -162,7 +164,7 @@ Increased supplemental security income benefits payable pursuant to section 211 
 
 (1) The terms “rural health clinic services” and “rural health clinic” have the meanings given such terms in section 1395x(aa) of this title, except that (A) clause (ii) of section 1395x(aa)(2) of this title shall not apply to such terms, and (B) the physician arrangement required under section 1395x(aa)(2)(B) of this title shall only apply with respect to rural health clinic services and, with respect to other ambulatory care services, the physician arrangement required shall be only such as may be required under the State plan for those services.
 
-(2)(A) The term “Federally-qualified health center services” means services of the type described in subparagraphs (A) through (C) of section 1395x(aa)(1) of this title when furnished to an individual as an <sup>2</sup> patient of a Federally-qualified health center and, for this purpose, any reference to a rural health clinic or a physician described in section 1395x(aa)(2)(B) of this title is deemed a reference to a Federally-qualified health center or a physician at the center, respectively.
+(2)(A) The term “Federally-qualified health center services” means services of the type described in subparagraphs (A) through (C) of section 1395x(aa)(1) of this title when furnished to an individual as an <sup>3</sup> patient of a Federally-qualified health center and, for this purpose, any reference to a rural health clinic or a physician described in section 1395x(aa)(2)(B) of this title is deemed a reference to a Federally-qualified health center or a physician at the center, respectively.
 
 (B) The term “Federally-qualified health center” means an entity which—
 
@@ -176,11 +178,11 @@ Increased supplemental security income benefits payable pursuant to section 211 
 
 &emsp;(iv) was treated by the Secretary, for purposes of part B of subchapter XVIII of this chapter, as a comprehensive Federally funded health center as of January 1, 1990;
 
-> and includes an outpatient health program or facility operated by a tribe or tribal organization under the Indian Self-Determination Act (Public Law 93–638) \[25 U.S.C. 450f et seq.\] or by an urban Indian organization receiving funds under title V of the Indian Health Care Improvement Act \[25 U.S.C. 1651 et seq.\] for the provision of primary health services. In applying clause (ii),<sup>3</sup> the Secretary may waive any requirement referred to in such clause for up to 2 years for good cause shown.
+> and includes an outpatient health program or facility operated by a tribe or tribal organization under the Indian Self-Determination Act (Public Law 93–638) \[25 U.S.C. 450f et seq.\] or by an urban Indian organization receiving funds under title V of the Indian Health Care Improvement Act \[25 U.S.C. 1651 et seq.\] for the provision of primary health services. In applying clause (ii),<sup>4</sup> the Secretary may waive any requirement referred to in such clause for up to 2 years for good cause shown.
 
 #### (m) Qualified family member
 
-(1) Subject to paragraph (2), the term “qualified family member” means an individual (other than a qualified pregnant woman or child, as defined in subsection (n) of this section) who is a member of a family that would be receiving aid under the State plan under part A of subchapter IV of this chapter pursuant to section 607 <sup>4</sup> of this title if the State had not exercised the option under section 607(b)(2)(B)(i) <sup>4</sup> of this title.
+(1) Subject to paragraph (2), the term “qualified family member” means an individual (other than a qualified pregnant woman or child, as defined in subsection (n) of this section) who is a member of a family that would be receiving aid under the State plan under part A of subchapter IV of this chapter pursuant to section 607 <sup>5</sup> ofthis title if the State had not exercised the option under section 607(b)(2)(B)(i) <sup>5</sup> of this title.
 
 (2) No individual shall be a qualified family member for any period after September 30, 1998.
 
@@ -200,7 +202,7 @@ The term “qualified pregnant woman or child” means—
 
 #### (<i>o</i>) Optional hospice benefits
 
-(1)(A) Subject to subparagraph (B), the term “hospice care” means the care described in section 1395x(dd)(1) of this title furnished by a hospice program (as defined in section 1395x(dd)(2) of this title) to a terminally ill individual who has voluntarily elected (in accordance with paragraph (2)) to have payment made for hospice care instead of having payment made for certain benefits described in section 1395d(d)(2)(A) of this title and for which payment may otherwise be made under subchapter XVIII of this chapterand intermediate care facility services under the plan. For purposes of such election, hospice care may be provided to an individual while such individual is a resident of a skilled nursing facility or intermediate care facility, but the only payment made under the State plan shall be for the hospice care.
+(1)(A) Subject to subparagraph (B), the term “hospice care” means the care described in section 1395x(dd)(1) of this title furnished by a hospice program (as defined in section 1395x(dd)(2) of this title) to a terminally ill individual who has voluntarily elected (in accordance with paragraph (2)) to have payment made for hospice care instead of having payment made for certain benefits described in section 1395d(d)(2)(A) of this title and for which payment may otherwise be made under subchapter XVIII of this chapter and intermediate care facility services under the plan. For purposes of such election, hospice care may be provided to an individual while such individual is a resident of a skilled nursing facility or intermediate care facility, but the only payment made under the State plan shall be for the hospice care.
 
 (B) For purposes of this subchapter, with respect to the definition of hospice program under section 1395x(dd)(2) of this title, the Secretary may allow an agency or organization to make the assurance under subparagraph (A)(iii) of such section without taking into account any individual who is afflicted with acquired immune deficiency syndrome (AIDS).
 
@@ -260,7 +262,7 @@ The term “qualified pregnant woman or child” means—
 
 &emsp;(A)(i) premiums under section 1395i–2 or 1395i–2a of this title, and
 
-&emsp;(ii) premiums under section 1395r of this title,<sup>5</sup>
+&emsp;(ii) premiums under section 1395r of this title,<sup>6</sup>
 
 &emsp;(B) Coinsurance under subchapter XVIII of this chapter (including coinsurance described in section 1395e of this title).
 
@@ -274,9 +276,15 @@ The term “qualified pregnant woman or child” means—
 
 &emsp;(A) the requirement stated in section 1396a(a)(10)(E) of this title shall be optional, and
 
-&emsp;(B) for purposes of paragraph (2), the State may substitute for the percent provided under subparagraph (B) <sup>6</sup> or <sup>7</sup> 1396a(a)(10)(E)(iii) of this title of such paragraph <sup>6</sup> any percent.
+&emsp;(B) for purposes of paragraph (2), the State may substitute for the percent provided under subparagraph (B) <sup>7</sup> or <sup>8</sup> 1396a(a)(10)(E)(iii) of this title of such paragraph <sup>7</sup> any percent.
 
 > In the case of any State which is providing medical assistance to its residents under a waiver granted under section 1315 of this title, the Secretary shall require the State to meet the requirement of section 1396a(a)(10)(E) of this title in the same manner as the State would be required to meet such requirement if the State had in effect a plan approved under this subchapter.
+
+(5)(A) The Secretary shall develop and distribute to States a simplified application form for use by individuals (including both qualified medicare beneficiaries and specified low-income medicare beneficiaries) in applying for medical assistance for medicare cost-sharing under this subchapter in the States which elect to use such form. Such form shall be easily readable by applicants and uniform nationally.
+
+(B) In developing such form, the Secretary shall consult with beneficiary groups and the States.
+
+(6) For provisions relating to outreach efforts to increase awareness of the availability of medicare cost-sharing, see section 1320b–14 of this title.
 
 #### (q) Qualified severely impaired individual
 
@@ -328,7 +336,7 @@ The term “early and periodic screening, diagnostic, and treatment services” 
 
 &emsp;&emsp;(A) which are provided—
 
-&emsp;&emsp;&emsp;(i) at intervals which meet reasonable standards of medical practice, as determined by the State after consultation withrecognized medical organizations involved in child health care, and
+&emsp;&emsp;&emsp;(i) at intervals which meet reasonable standards of medical practice, as determined by the State after consultation with recognized medical organizations involved in child health care, and
 
 &emsp;&emsp;&emsp;(ii) at such other intervals, indicated as medically necessary, to determine the existence of a suspected illness or condition; and
 
@@ -366,7 +374,7 @@ The term “qualified disabled and working individual” means an individual—
 
 &emsp;(2) whose income (as determined under section 1382a of this title for purposes of the supplemental security income program) does not exceed 200 percent of the official poverty line (as defined by the Office of Management and Budget and revised annually in accordance with section 9902(2) of this title) applicable to a family of the size involved;
 
-&emsp;(3) whose resources (as determined under section 1382b of this title for purposes of the supplemental security income program) do not exceed twice the maximum amount of resources that an individual or a couple (in the case of an individual with a spouse) may have and obtain benefits for supplemental security income benefits under subchapter XVI of this chapter; and
+&emsp;(3) whose resources (as determined under section 1382b of this title for purposes of thesupplemental security income program) do not exceed twice the maximum amount of resources that an individual or a couple (in the case of an individual with a spouse) may have and obtain benefits for supplemental security income benefits under subchapter XVI of this chapter; and
 
 &emsp;(4) who is not otherwise eligible for medical assistance under this subchapter.
 
@@ -408,7 +416,7 @@ The term “qualified disabled and working individual” means an individual—
 
 &emsp;(A) The State is complying with the requirement of section 1397ee(d)(1) of this title.
 
-&emsp;(B) The plan provides for such reporting of information about expenditures and payments attributable to the operation of this subsection as the Secretary deems necessary in order to carry out the fourth sentence of subsection (b) of this section and section 1397dd(d) of this title.
+&emsp;(B) The plan provides for such reporting of information about expenditures and payments attributable to the operation of this subsection as the Secretary deems necessary in order to carry out the fourth sentence of subsection (b) of this section.
 
 (2)(A) For purposes of subsection (b) of this section, the expenditures described in this subparagraph are expenditures for medical assistance for optional targeted low-income children described in subparagraph (B).
 
@@ -450,7 +458,7 @@ The term “qualified disabled and working individual” means an individual—
 
 (3) A State may limit the eligibility of independent foster care adolescents under section 1396a(a)(10)(A)(ii)(XVII) of this title to those individuals with respect to whom foster care maintenance payments or independent living services were furnished under a program funded under part E of subchapter IV of this chapter before the date the individuals attained 18 years of age.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1905, as added Pub. L. 89–97, title I, §121(a), July 30, 1965, 79 Stat. 351; amended Pub. L. 90–248, title II, §§230, 233, 241(f)(6), 248(e), title III, §302(a), Jan. 2, 1968, 81 Stat. 905, 917, 919, 929; Pub. L. 92–223, §4(a), Dec. 28, 1971, 85 Stat. 809; Pub. L. 92–603, title II, §§212(a), 247(b), 275(a), 278(a)(21)–(23), 280, 297(a), 299, 299B, 299E(b), 299L, Oct. 30, 1972, 86 Stat. 1384, 1425, 1452–1454, 1459–1462, 1464; Pub. L. 93–233, §§13(a)(13)–(88), 18(w), (x)(7)–(10), (y)(2), Dec. 31, 1973, 87 Stat. 963, 964, 972, 973; Pub. L. 94–437, title IV, §402(e), Sept. 30, 1976, 90 Stat. 1410; Pub. L. 95–210, §2(a), (b), Dec. 13, 1977, 91 Stat. 1488; Pub. L. 95–292, §8(a), (b), June 13, 1978, 92 Stat. 316; Pub. L. 96–473, §6(k), Oct. 19, 1980, 94 Stat. 2266; Pub. L. 96–499, title IX, §965(a), Dec. 5, 1980, 94 Stat. 2651; Pub. L. 97–35, title XXI, §§2162(a)(2), 2172(b), Aug. 13, 1981, 95 Stat. 806, 808; Pub. L. 97–248, title I, §§136(c), 137(b)(17), (18), (f), Sept. 3, 1982, 96 Stat. 376, 379, 381; Pub. L. 98–369, div. B, title III, §§2335(f), 2340(b), 2361(b), 2371(a), 2373(b)(15)–(20), July 18, 1984, 98 Stat. 1091, 1093, 1104, 1110, 1112; Pub. L. 99–272, title IX, §§9501(a), 9505(a), 9511(a), Apr. 7, 1986, 100 Stat. 201, 208, 212; Pub. L. 99–509, title IX, §§9403(b), (d), (g)(3),9404(b), 9408(c)(1), 9435(b)(2), Oct. 21, 1986, 100 Stat. 2053, 2054, 2056, 2061, 2070; Pub. L. 99–514, title XVIII, §1895(c)(3)(A), Oct. 22, 1986, 100 Stat. 2935; Pub. L. 100–203, title IV, §§4073(d), 4101(c)(1), 4103(a), 4105(a), 4114, 4118(p)(8), 4211(e), (f), (h)(6), Dec. 22, 1987, 101 Stat. 1330–119, 1330–141, 1330–146, 1330–147, 1330–152, 1330–159, 1330–204 to 1330–206; Pub. L. 100–360, title III, §301(a)(2)–(d), (g)(2), title IV, §411(h)(4)(E), (k)(4), (8), (14)(A), July 1, 1988, 102 Stat. 748–750, 787, 791, 794, 798; Pub. L. 100–485, title III, §303(b)(2), title IV, §401(d)(2), title VI, §608(d)(14)(A)–(G), (J), (f)(3), Oct. 13, 1988, 102 Stat. 2392, 2396, 2415, 2416, 2424; Pub. L. 100–647, title VIII, §8434(a), (b)(3), (4), Nov. 10, 1988, 102 Stat. 3805; Pub. L. 101–234, title II, §201(b), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–239, title VI, §§6402(c)(1), 6403(a), (c), (d)(2), 6404(a), (b), 6405(a), 6408(d)(2), (4)(A), (B), Dec. 19, 1989, 103 Stat. 2261–2265, 2268, 2269; Pub. L. 101–508, title IV, §§4402(d)(2), 4501(a), (c), (e)(1), 4601(a)(2), 4704(c), (d), (e)(1), 4705(a), 4711(a), 4712(a), 4713(b), 4717, 4719(a), 4721(a), 4722, 4755(a)(1)(A), Nov. 5, 1990, 104 Stat. 1388–163 to 1388–166, 1388–172, 1388–174, 1388–187, 1388–191, 1388–193, 1388–194, 1388–209; Pub. L. 103–66, title XIII, §§13601(a), 13603(e), 13605(a), 13606(a), 13631(f)(2), (g)(1), Aug. 10, 1993, 107 Stat. 612, 620, 621, 644, 645; Pub. L. 103–296, title I, §108(d)(2), (3), Aug. 15, 1994, 108 Stat. 1486; Pub. L. 104–299, §4(b)(2), Oct. 11, 1996, 110 Stat. 3645; Pub. L. 105–33, title IV, §§4702(a), 4711(c)(1), 4712(d)(1), 4714(a)(2), 4725(b)(1), 4732(b), 4802(a)(1), 4911(a), Aug. 5, 1997, 111 Stat. 494, 508–510, 518, 520, 538, 570; Pub. L. 105–100, title I, §162(1), (2), Nov. 19, 1997, 111 Stat. 2188; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §§605(a), 608(<i>l</i>), (m), (aa)(3)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–396 to 1501A–398; Pub. L. 106–169, title I, §121(a)(2), (c)(5), Dec. 14, 1999, 113 Stat. 1829, 1830; Pub. L. 106–170, title II, §201(a)(2)(B), (C), Dec. 17, 1999, 113 Stat. 1892.)
+(Aug. 14, 1935, ch. 531, title XIX, §1905, as added Pub. L. 89–97, title I, §121(a), July 30, 1965, 79 Stat. 351; amended Pub. L. 90–248, title II, §§230, 233, 241(f)(6), 248(e), title III, §302(a), Jan. 2, 1968, 81 Stat. 905, 917, 919, 929; Pub. L. 92–223, §4(a), Dec. 28, 1971, 85 Stat. 809; Pub. L. 92–603, title II, §§212(a), 247(b), 275(a), 278(a)(21)–(23), 280, 297(a), 299, 299B, 299E(b), 299L, Oct. 30, 1972, 86 Stat. 1384, 1425, 1452–1454, 1459–1462, 1464; Pub. L. 93–233, §§13(a)(13)–(88), 18(w), (x)(7)–(10), (y)(2), Dec. 31, 1973, 87 Stat. 963, 964, 972, 973; Pub. L. 94–437, title IV, §402(e), Sept. 30, 1976, 90 Stat. 1410; Pub. L. 95–210, §2(a), (b), Dec. 13, 1977, 91 Stat. 1488; Pub. L. 95–292, §8(a), (b), June 13, 1978, 92 Stat. 316; Pub. L. 96–473, §6(k), Oct. 19, 1980, 94 Stat. 2266; Pub. L. 96–499, title IX, §965(a), Dec. 5, 1980, 94 Stat. 2651; Pub. L. 97–35, title XXI, §§2162(a)(2), 2172(b), Aug. 13, 1981, 95 Stat. 806, 808; Pub. L. 97–248, title I, §§136(c), 137(b)(17), (18), (f), Sept. 3, 1982, 96 Stat. 376, 379, 381; Pub. L. 98–369, div. B, title III, §§2335(f), 2340(b), 2361(b), 2371(a), 2373(b)(15)–(20), July 18, 1984, 98 Stat. 1091, 1093, 1104, 1110, 1112; Pub. L. 99–272, title IX, §§9501(a), 9505(a), 9511(a), Apr. 7, 1986, 100 Stat. 201, 208, 212; Pub. L. 99–509, title IX, §§9403(b), (d), (g)(3), 9404(b), 9408(c)(1), 9435(b)(2), Oct. 21, 1986, 100 Stat. 2053, 2054, 2056, 2061, 2070; Pub. L. 99–514, title XVIII, §1895(c)(3)(A), Oct. 22, 1986, 100 Stat. 2935; Pub. L. 100–203, title IV, §§4073(d), 4101(c)(1), 4103(a), 4105(a), 4114, 4118(p)(8), 4211(e), (f), (h)(6), Dec. 22, 1987, 101 Stat. 1330–119, 1330–141, 1330–146, 1330–147, 1330–152, 1330–159, 1330–204 to 1330–206; Pub. L. 100–360, title III, §301(a)(2)–(d), (g)(2), title IV, §411(h)(4)(E), (k)(4), (8), (14)(A), July 1, 1988, 102 Stat. 748–750, 787, 791, 794, 798; Pub. L. 100–485, title III, §303(b)(2), title IV, §401(d)(2), title VI, §608(d)(14)(A)–(G), (J), (f)(3), Oct. 13, 1988, 102 Stat. 2392, 2396, 2415, 2416, 2424; Pub. L. 100–647, title VIII, §8434(a), (b)(3), (4), Nov. 10, 1988, 102 Stat. 3805; Pub. L. 101–234, title II, §201(b), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–239, title VI, §§6402(c)(1), 6403(a), (c), (d)(2), 6404(a), (b), 6405(a), 6408(d)(2), (4)(A), (B), Dec. 19, 1989, 103 Stat. 2261–2265, 2268, 2269; Pub. L. 101–508, title IV, §§4402(d)(2), 4501(a), (c), (e)(1), 4601(a)(2), 4704(c), (d), (e)(1), 4705(a), 4711(a), 4712(a), 4713(b), 4717, 4719(a), 4721(a), 4722, 4755(a)(1)(A), Nov. 5, 1990, 104 Stat. 1388–163 to 1388–166, 1388–172, 1388–174, 1388–187, 1388–191, 1388–193, 1388–194, 1388–209; Pub. L. 103–66, title XIII, §§13601(a), 13603(e), 13605(a), 13606(a), 13631(f)(2), (g)(1), Aug. 10, 1993, 107 Stat. 612, 620, 621, 644, 645; Pub. L. 103–296, title I, §108(d)(2), (3), Aug. 15, 1994, 108 Stat. 1486; Pub. L. 104–299, §4(b)(2), Oct. 11, 1996, 110 Stat. 3645; Pub. L. 105–33, title IV, §§4702(a), 4711(c)(1), 4712(d)(1), 4714(a)(2), 4725(b)(1), 4732(b), 4802(a)(1), 4911(a), Aug. 5, 1997, 111 Stat. 494, 508–510, 518, 520, 538, 570; Pub. L. 105–100, title I, §162(1), (2), Nov. 19, 1997, 111 Stat. 2188; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §§605(a), 608(<i>l</i>), (m), (aa)(3)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–396 to 1501A–398; Pub. L. 106–169, title I, §121(a)(2), (c)(5), Dec. 14, 1999, 113 Stat. 1829, 1830; Pub. L. 106–170, title II, §201(a)(2)(B), (C), Dec. 17, 1999, 113 Stat. 1892; Pub. L. 106–354, §2(a)(4), (c), Oct. 24, 2000, 114 Stat. 1382, 1384; Pub. L. 106–554, §1(a)(6) \[title VII, §709(a), title VIII, §802(d)(1), (2), title IX, §911(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–578, 2763A–581, 2763A–584.)
 
 #### References in Text
 
@@ -470,9 +478,21 @@ Clause (ii), referred to in subsec. (<i>l</i>)(2)(B), was redesignated as cl. (i
 
 Section 607 of this title, referred to in subsec. (m)(1), was repealed and a new section 607 enacted by Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2112, and, as so enacted, no longer contains a subsec. (b)(2)(B)(i).
 
-Section 212 of Public Law 93–66, referred to in subsec. (q)(1)(A), is section 212 of Pub. L. 93–66, title II, July 9, 1973, 87 Stat. 155, as amended, which is set out as a note under section 1382 of this title.
+Section 212 of Public Law 93–66, referred to in subsec. (q)(1)(A), is section 212 of Pub. L. 93–66, title II, July 9,1973, 87 Stat. 155, as amended, which is set out as a note under section 1382 of this title.
 
 #### Amendments
+
+2000—Subsec. (a)(xiii). Pub. L. 106–354, §2(a)(4), added cl. (xiii).
+
+Subsec. (b). Pub. L. 106–554, §1(a)(6) \[title VIII, §802(d)(1)\], in last sentence, substituted “the State's available allotment under section 1397dd of this title” for “the State's allotment under section 1397dd of this title (not taking into account reductions under section 1397dd(d)(2) of this title) for the fiscal year reduced by the amount of any payments made under section 1397ee of this title to the State from such allotment for such fiscal year”.
+
+Pub. L. 106–354, §2(c), in first sentence, struck out “and” before “(3)” and inserted before period at end “, and (4) the Federal medical assistance percentage shall be equal to the enhanced FMAP described in section 1397ee(b) of this title with respect to medical assistance provided to individuals who are eligible for such assistance only on the basis of section 1396a(a)(10)(A)(ii)(XVIII) of this title”.
+
+Subsec. (p)(5). Pub. L. 106–554, §1(a)(6) \[title VII, §709(a)\], added par. (5).
+
+Subsec. (p)(6). Pub. L. 106–554, §1(a)(6) \[title IX, §911(a)(2)\], added par. (6).
+
+Subsec. (u)(1)(B). Pub. L. 106–554, §1(a)(6) \[title VIII, §802(d)(2)\], struck out “and section 1397dd(d) of this title” before period at end.
 
 1999—Subsec. (a)(xii). Pub. L. 106–170, §201(a)(2)(C), added cl. (xii).
 
@@ -694,7 +714,7 @@ Subsec. (p)(2)(C). Pub. L. 100–360, §301(b)(2), formerly §301(b)(3), as renu
 
 Subsec. (p)(3). Pub. L. 100–360, §301(d)(1), as added by Pub. L. 100–485, §608(d)(14)(G)(ii), inserted “without regard to whether the costs incurred were for items and services for which medical assistance is otherwise available under the plan” after “qualified medicare beneficiary” in introductory provisions.
 
-Subsec. (p)(3)(A). Pub. L. 100–360, §301(d)(2), formerly §301(d)(1), as renumbered by Pub. L. 100–485, §608(d)(14)(G)(i), substituted “under subchapter XVIII of this chapter (including under part B and, if applicable, under section 1395i–2 of this title)” for “under part B and (if applicable) under section 1395i–2 of this title”.
+Subsec. (p)(3)(A). Pub. L. 100–360, §301(d)(2), formerly §301(d)(1), as renumbered by Pub. L. 100–485, §608(d)(14)(G)(i), substituted “under subchapter XVIIIof this chapter (including under part B and, if applicable, under section 1395i–2 of this title)” for “under part B and (if applicable) under section 1395i–2 of this title”.
 
 Subsec. (p)(3)(B). Pub. L. 100–360, §301(d)(3), formerly §301(d)(2), as renumbered by Pub. L. 100–485, §608(d)(14)(G)(i), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “Deductibles and coinsurance described in section 1395e of this title.”
 
@@ -876,6 +896,16 @@ Subsec. (a)(4). Pub. L. 90–248, §302(a), designated existing provisions as cl
 
 Subsec. (b). Pub. L. 90–248, §248(e), substituted in cl. (2) of first sentence “50” for “55”.
 
+#### Effective Date of 2000 Amendments
+
+Pub. L. 106–554, §1(a)(6) \[title VII, §709(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–578, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect 1 year after the date of the enactment of this Act \[Dec. 21, 2000\], regardless of whether regulations have been promulgated to carry out such amendment by such date. The Secretary of Health and Human Services shall develop the uniform application form under such amendment by not later than 9 months after the date of the enactment of this Act.”
+
+Pub. L. 106–554, §1(a)(6) \[title VIII, §802(f)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–582, provided that: “The amendments made by this section \[amending this section and sections 1397dd, 1397ee, and 1397jj of this title\] shall be effective as if included in the enactment of section 4901 of the BBA \[Pub. L. 105–33\] (111 Stat. 552).”
+
+Amendment by section 1(a)(6) \[title IX, §911(a)(2)\] of Pub. L. 106–554 effective one year after Dec. 21, 2000, see section 1(a)(6) \[title IX, §911(c)\] of Pub. L. 106–554, set out as an Effective Date note under section 1320b–14 of this title.
+
+Amendment by Pub. L. 106–354 applicable to medical assistance for items and services furnished on or after Oct. 1, 2000, without regard to whether final regulations to carry out such amendments have been promulgated by such date, see section 2(d) of Pub. L. 106–354, set out as a note under section 1396a of this title.
+
 #### Effective Date of 1999 Amendments
 
 Amendment by Pub. L. 106–170 applicable to medical assistance for items and services furnished on or after Oct. 1, 2000, see section 201(d) of Pub. L. 106–170, set out as a note under section 1396a of this title.
@@ -934,7 +964,7 @@ Section 13631(g)(2) of Pub. L. 103–66 provided that: “The amendments made by
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 4402(d)(2) of Pub. L. 101–508 applicable, except as otherwise provided, to paymentsunder this subchapter for calendar quarters beginning on or after Jan. 1, 1991, without regard to whether or not final regulations to carry out the amendments by section 4402 of Pub. L. 101–508 have been promulgated by such date, see section 4402(e) of Pub. L. 101–508, set out as a note under section 1396a of this title.
+Amendment by section 4402(d)(2) of Pub. L. 101–508 applicable, except as otherwise provided, to payments under this subchapter for calendar quarters beginning on or after Jan. 1, 1991, without regard to whether or not final regulations to carry out the amendments by section 4402 of Pub. L. 101–508 have been promulgated by such date, see section 4402(e) of Pub. L. 101–508, set out as a note under section 1396a of this title.
 
 Amendment by section 4501(a), (c), (e)(1) of Pub. L. 101–508 applicable to calendar quarters beginning on or after Jan. 1, 1991, without regard to whether or not regulations to implement the amendments by section 4501 of Pub. L. 101–508 are promulgated by such date, except that amendment by section 4501(e)(1) of Pub. L. 101–508 is applicable to determinations of income for months beginning with January 1991, see section 4501(f) of Pub. L. 101–508, set out as a note under section 1396a of this title.
 
@@ -942,7 +972,7 @@ Amendment by section 4601(a)(2) of Pub. L. 101–508 applicable, except as other
 
 Amendment by section 4704(c), (d), (e)(1) of Pub. L. 101–508 effective as if included in the enactment of the Omnibus Budget Reconciliation Act of 1989, Pub. L. 101–239, see section 4704(f) of Pub. L. 101–508, set out as a note under section 1396a of this title.
 
-Section 4705(b) of Pub. L. 101–508 provided that: “The amendments made by subsection (a) \[amending this section\] shall be effective as if included in the amendments made by section 6408(c)(1) of the Omnibus Budget Reconciliation Act of 1989 \[Pub. L. 101–239, amending section 1396a of this title\].”
+Section 4705(b) of Pub. L. 101–508 provided that: “The amendments made by subsection (a) \[amending this section\] shall be effective as if included in the amendments made by section 6408(c)(1) of the Omnibus BudgetReconciliation Act of 1989 \[Pub. L. 101–239, amending section 1396a of this title\].”
 
 Amendment by section 4711(a) of Pub. L. 101–508 applicable to home and community care furnished on or after July 1, 1991, without regard to whether or not final regulations to carry out the amendments by section 4711 of Pub. L. 101–508 have been promulgated by such date, see section 4711(e) of Pub. L. 101–508, set out as a note under section 1396a of this title.
 
@@ -984,7 +1014,7 @@ Amendment by section 301(a)(2)–(d) of Pub. L. 100–360 applicable, except as 
 
 Except as specifically provided in section 411 of Pub. L. 100–360, amendment by section 411(h)(4)(E), (k)(4), (8) of Pub. L. 100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
 
-Section 411(k)(14)(B) of Pub. L. 100–360 provided that: “The amendment made by subparagraph (A) \[amendingthis section\] shall take effect on the date of the enactment of this Act \[July 1, 1988\].”
+Section 411(k)(14)(B) of Pub. L. 100–360 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall take effect on the date of the enactment of this Act \[July 1, 1988\].”
 
 #### Effective Date of 1987 Amendment
 
@@ -1084,7 +1114,9 @@ Section 248(e) of Pub. L. 90–248 provided that the amendment made by that sect
 
 Amendment by Pub. L. 106–170 to be executed as if Pub. L. 106–169 had been enacted after the enactment of Pub. L. 106–170, see section 121(c)(1) of Pub. L. 106–169, set out as a note under section 1396a of this title.
 
-#### Increased FMAPs for Alaska
+#### Alaska FMAPs
+
+Pub. L. 106–554, §1(a)(6) \[title VII, §706\], Dec. 21, 2000, 114 Stat. 2763, 2763A–577, provided that: “Notwithstanding the first sentence of section 1905(b) of the Social Security Act (42 U.S.C. 1396d(b)), only with respect to each of fiscal years 2001 through 2005, for purposes of titles XIX and XXI of the Social Security Act \[this subchapter and subchapter XXI of this chapter\], the State percentage used to determine the Federal medical assistance percentage for Alaska shall be that percentage which bears the same ratio to 45 percent as the square of the adjusted per capita income of Alaska (determined by dividing the State's 3-year average per capita income by 1.05) bears to the square of the per capita income of the 50 States.”
 
 Section 4725(a) of Pub. L. 105–33 provided that: “Notwithstanding the first sentence of section 1905(b) of the Social Security Act (42 U.S.C. 1396d(b)), the Federal medical assistance percentage determined under such sentence for Alaska shall be 59.8 percent but only with respect to—
 
@@ -1138,7 +1170,7 @@ Effective Date.—Subsection (a) shall apply to disallowance actions and deferra
 
 #### Intermediate Care Facility; Access and Visitation Rights
 
-Section 411(<i>l</i>)(3)(C)(i), formerly §411(<i>l</i>)(3)(C), of Pub. L. 100–360, as redesignated by Pub. L. 100–485, title VI, §608(d)(27)(E), Oct. 13, 1988, 102 Stat. 2423, provided that: “Effective as of the date of the enactment of this Act \[July 1, 1988\] and until the effective date of section 1919(c) of such Act \[section 1396r(c) of this title, see Effective Date note set out under section 1396r of this title\], section 1905(c) of the Social Security Act \[subsec.\(c) of this section\] is deemed to include the requirement described in section 1919(c)(3)(A) of such Act (as inserted by section 4211(a)(3) of OBRA).”
+Section 411(<i>l</i>)(3)(C)(i), formerly §411(<i>l</i>)(3)(C), of Pub. L. 100–360, as redesignated by Pub. L. 100–485, title VI, §608(d)(27)(E), Oct. 13, 1988, 102 Stat. 2423, provided that: “Effective as of the date of the enactment of this Act \[July 1, 1988\] and until the effective date of section 1919(c) of such Act \[section 1396r(c) of this title, see Effective Date note set out under section 1396r of this title\], section 1905(c) of the Social Security Act \[subsec. (c) of this section\] is deemed to include the requirement described in section 1919(c)(3)(A) of such Act (as inserted by section 4211(a)(3) of OBRA).”
 
 #### Regulations for Intermediate Care Facilities for Mentally Retarded
 
@@ -1146,7 +1178,7 @@ Section 9514 of Pub. L. 99–272 provided that: “The Secretary of Health and H
 
 #### Life Safety Code Recognition
 
-Section 9515 of Pub. L. 99–272 provided that: “For purposes of section 1905(c) of the Social Security Act \[subsec. (c) of this section\], an intermediate care facility for the mentally retarded (as defined in section 1905(d) of such Act) which meets the requirements of the relevant sections of the 1985 edition of the Life Safety Code of the National Fire Protection Association shall be deemed to meet the fire safety requirements for intermediate care facilities for the mentally retarded until such time as the Secretary specifies a later edition of the Life Safety Code for purposes of such section, or the Secretary determines that more stringent standards are necessary to protect the safety of residents of such facilities.”
+Section 9515 of Pub. L. 99–272 provided that: “For purposes of section 1905(c) of the Social Security Act \[subsec. (c) of this section\], an intermediate care facilityfor the mentally retarded (as defined in section 1905(d) of such Act) which meets the requirements of the relevant sections of the 1985 edition of the Life Safety Code of the National Fire Protection Association shall be deemed to meet the fire safety requirements for intermediate care facilities for the mentally retarded until such time as the Secretary specifies a later edition of the Life Safety Code for purposes of such section, or the Secretary determines that more stringent standards are necessary to protect the safety of residents of such facilities.”
 
 #### Study of Federal Medical Assistance Percentage Formula and of Adjustments of Target Amounts for Federal Medicaid Expenditures; Report to Congress
 
@@ -1158,19 +1190,21 @@ Section 8(c), (d)(2) of Pub. L. 95–292 required the Secretary of Health, Educa
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 256b, 280c–6, 290bb–1, 300ff–52, 603, 618, 657, 674, 705, 1318, 1395i–2, 1395v, 1395w–4, 1395w–21, 1395ss, 1396a, 1396b, 1396i, 1396n, 1396<i>o</i>, 1396p, 1396r, 1396r–1, 1396r–6, 1396r–8, 1396s, 1396t, 1396u–2, 1397dd, 1397ee, 1397jj, 3058k, 11398 of this title.
+This section is referred to in sections 256b, 280c–6, 290bb–1, 290jj, 300ff–52, 603, 618, 657, 674, 705, 1318, 1395i–2, 1395s, 1395v, 1395w–4, 1395w–21, 1395ss, 1396a, 1396b, 1396i, 1396n, 1396<i>o</i>, 1396p, 1396r, 1396r–1, 1396r–1b, 1396r–6, 1396r–8, 1396s, 1396t, 1396u–2, 1397ee, 1397jj, 11398 of this title; title 25 section 1645.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “a”.</i>
+<i><sup>2</sup></i><i> Probably means the subsec. (aa) of section 1396a relating to certain breast or cervical cancer patients.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be clause “(iii),”. See References in Text note below.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be “a”.</i>
 
-<i><sup>4</sup></i><i> See References in Text note below.</i>
+<i><sup>4</sup></i><i> So in original. Probably should be clause “(iii),”. See References in Text note below.</i>
 
-<i><sup>5</sup></i><i> So in original. The comma probably should be a period.</i>
+<i><sup>5</sup></i><i> See References in Text note below.</i>
 
-<i><sup>6</sup></i><i> So in original. The words “of such paragraph” probably should follow “subparagraph (B)”.</i>
+<i><sup>6</sup></i><i> So in original. The comma probably should be a period.</i>
 
-<i><sup>7</sup></i><i> So in original. Probably should be “or section”.</i>
+<i><sup>7</sup></i><i> So in original. The words “of such paragraph” probably should follow “subparagraph (B)”.</i>
+
+<i><sup>8</sup></i><i> So in original. Probably should be “or section”.</i>
 

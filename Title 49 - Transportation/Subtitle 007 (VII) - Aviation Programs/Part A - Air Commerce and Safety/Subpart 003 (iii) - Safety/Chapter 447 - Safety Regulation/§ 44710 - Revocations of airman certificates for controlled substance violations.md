@@ -134,5 +134,5 @@ In subsection (e)(2)(B)(ii), the words “judgment of” are omitted as surplus.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 106, 1133, 44701, 44703, 44711, 45302, 46310, 47531 of this title.
+This section is referred to in sections 1133, 44701, 44703, 44711, 44726, 45302, 46310, 47531 of this title.
 

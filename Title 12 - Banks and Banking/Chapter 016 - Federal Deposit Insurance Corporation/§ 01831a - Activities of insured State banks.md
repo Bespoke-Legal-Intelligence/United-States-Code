@@ -66,7 +66,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Corporation shall require any insured State bank to divest any equity investment the retention of which is not permissible under this subsection as quickly as can be prudently done, and in any event before theend of the 5-year period beginning on December 19, 1991.
+&emsp;&emsp;The Corporation shall require any insured State bank to divest any equity investment the retention of which is not permissible under this subsection as quickly as can be prudently done, and in any event before the end of the 5-year period beginning on December 19, 1991.
 
 #### (B) Treatment of noncompliance during divestment
 
@@ -146,7 +146,7 @@
 
 &emsp;Notwithstanding paragraph (1), an insured State bank may, to the extent permitted by the Corporation, acquire and retain ownership of securities described in paragraph (1) to the extent the aggregate amount of such investment does not exceed an amount equal to 100 percent of the bank's capital if such bank—
 
-&emsp;&emsp;(A) is located in a State that permitted, as of September 30, 1991, investment in common or preferred stock listed on a national securities exchange or shares of an investment company registered under the InvestmentCompany Act of 1940 \[15 U.S.C. 80a–1 et seq.\]; and
+&emsp;&emsp;(A) is located in a State that permitted, as of September 30, 1991, investment in common or preferred stock listed on a national securities exchange or shares of an investment company registered under the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\]; and
 
 &emsp;&emsp;(B) made or maintained an investment in such securities during the period beginning on September 30, 1990, and ending on November 26, 1991.
 
@@ -238,10 +238,6 @@ This section shall not be construed as limiting the authority of any appropriate
 
 (Sept. 21, 1950, ch. 967, §2\[24\], as added Pub. L. 102–242, title III, §303(a), Dec. 19, 1991, 105 Stat. 2349; amended Pub. L. 102–550, title XVI, §1605(a)(8), Oct. 28, 1992, 106 Stat. 4086; Pub. L. 103–328, title I, §102(b)(3)(B), Sept. 29, 1994, 108 Stat. 2351; Pub. L. 104–208, div. A, title II, §§2217, 2704(d)(14)(W), Sept. 30, 1996, 110 Stat. 3009–414, 3009–494; Pub. L. 105–24, §2(a), July 3, 1997, 111 Stat. 238.)
 
-#### Amendment of Section
-
-<i>Pub. L. 104–208, div. A, title II, §2704(c), (d)(14)(W), Sept. 30, 1996, 110 Stat. 3009–487, 3009–494, provided that, effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, subsections (a)(1) and (d)(1)(A) of this section are amended by striking “appropriate deposit insurance fund” each place such term appears and inserting “Deposit Insurance Fund”.</i>
-
 #### References in Text
 
 The Investment Company Act of 1940, referred to in subsec. (f)(2)(A), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
@@ -261,6 +257,10 @@ Another prior section 1831a, act Sept. 21, 1950, ch. 967, §2\[24\], as added Oc
 1997—Subsec. (j). Pub. L. 105–24 amended subsec. (j) generally, substituting pars. (1) to (4) for former pars. (1) to (3) relating to general provisions, activities of branches, and definitions, respectively.
 
 1996—Subsec. (a). Pub. L. 104–208, §2217(1), substituted “Permissible activities” for “In general” in heading, designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B) of par. (1), respectively, and realigned margins, and added par. (2).
+
+Subsec. (a)(1)(A). Pub. L. 104–208, §2704(d)(14)(W), which directed substitution of “Deposit Insurance Fund” for “appropriate deposit insurance fund”, was not executed. See Effective Date of 1996 Amendment note below.
+
+Subsec. (d)(1)(A). Pub. L. 104–208, §2704(d)(14)(W), which directed substitution of “Deposit Insurance Fund” for “appropriate deposit insurance fund”, was not executed. See Effective Date of 1996 Amendment note below.
 
 Subsec. (d)(3). Pub. L. 104–208, §2217(2), added par. (3).
 

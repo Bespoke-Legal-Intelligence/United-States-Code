@@ -10,7 +10,7 @@
 
 &emsp;(1) “certificate of registry”, “register”, and “registry” mean a registry endorsement as provided in section 12105 of this title.
 
-&emsp;(2) “license”, “enrollment and license”, “license for the coastwise (or coasting) trade”,and “enrollment and license for the coastwise (or coasting) trade” mean a coastwise endorsement as provided in section 12106 of this title.
+&emsp;(2) “license”, “enrollment and license”, “license for the coastwise (or coasting) trade”, and “enrollment and license for the coastwise (or coasting) trade” mean a coastwise endorsement as provided in section 12106 of this title.
 
 &emsp;\[(3) Repealed. Pub. L. 104–324, title XI, §1115(b)(2), Oct. 19, 1996, 110 Stat. 3972.\]
 

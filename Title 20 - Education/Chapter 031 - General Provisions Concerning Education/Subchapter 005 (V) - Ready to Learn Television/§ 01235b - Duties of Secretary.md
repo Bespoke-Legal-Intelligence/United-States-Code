@@ -22,7 +22,7 @@ The Secretary is authorized—
 
 &emsp;(4) coordinate activities with the Secretary of Health and Human Services in order to—
 
-&emsp;&emsp;(A) maximize the utilization of quality educational programming by preschool and elementary school children, and make such programming widely available to federally funded programs serving such populations; and
+&emsp;&emsp;(A) maximize the utilization of quality educational programming by preschool andelementary school children, and make such programming widely available to federally funded programs serving such populations; and
 
 &emsp;&emsp;(B) provide information to grantees of Federal programs that have major training components for early childhood development, including Head Start, Even Start, and State training activities funded under the Child Care Development Block Grant Act of 1990 \[42 U.S.C. 9858 et seq.\] regarding the availability and utilization of materials developed under paragraph (3) to enhance parent and child care provider skills in early childhood development and education.
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is created as an agency of the United States of America a body corporate to be knownas the Inter-American Foundation (hereinafter in this section referred to as the “Foundation”).
+There is created as an agency of the United States of America a body corporate to be known as the Inter-American Foundation (hereinafter in this section referred to as the “Foundation”).
 
 #### (b) Congressional declaration of purpose
 
@@ -88,7 +88,7 @@ In order to further the purposes of the Foundation there shall be established a 
 
 #### (n) Nonprofit nature of the Foundation; conflict of interests
 
-The Foundation shall be a nonprofit corporation and shall have no capital stock. No part of its revenue earnings, or other income or property shall inure to the benefit of its directors, officers, and employees and such revenue, earnings, or other income, or property shall be used for the carrying out of the corporate purposes set forth in this section. No director, officer, or employee of the corporation shall in any manner directly or indirectly participate in the deliberation upon or the determination of any question affecting his personal interests or the interests of any corporation, partnership, or organization in which he is directly or indirectly interested.
+The Foundation shall be a nonprofit corporation and shall have no capital stock. No part of its revenue earnings, or other income or property shall inure to the benefit of its directors,officers, and employees and such revenue, earnings, or other income, or property shall be used for the carrying out of the corporate purposes set forth in this section. No director, officer, or employee of the corporation shall in any manner directly or indirectly participate in the deliberation upon or the determination of any question affecting his personal interests or the interests of any corporation, partnership, or organization in which he is directly or indirectly interested.
 
 #### (<i>o</i>) Personnel; service in foreign governments or agencies
 
@@ -108,7 +108,7 @@ The Foundation, including its franchise and income, shall be exempt from taxatio
 
 #### (s) Authorization of appropriations
 
-(1) Notwithstanding any other provision of law, not to exceed an aggregate amount of$50,000,000 of the funds made available for the fiscal years 1970 and 1971 to carry out part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\] shall be available to carry out the purposes of this section. Funds made available to carry out the purposes of this section under the preceding sentence are authorized to remain available until expended.
+(1) Notwithstanding any other provision of law, not to exceed an aggregate amount of $50,000,000 of the funds made available for the fiscal years 1970 and 1971 to carry out part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\] shall be available to carry out the purposes of this section. Funds made available to carry out the purposes of this section under the preceding sentence are authorized to remain available until expended.
 
 (2) There are authorized to be appropriated $28,800,000 for fiscal year 1992 and $31,000,000 for fiscal year 1993 to carry out this section. Amounts appropriated under this paragraph are authorized to remain available until expended.
 
@@ -132,7 +132,7 @@ Funds made available to the Foundation may be used for printing and binding with
 
 #### Repeal of Section
 
-<i>For repeal of section by Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §586(c)(2), (j)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–118, 1501A–120, see Abolition of the Inter-American Foundation note set out below.</i>
+<i>For repeal of section by Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §586(c)(2), (j)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–118, 1501A–120, as amended by Pub. L. 106–429, §101(a) \[title V, §591(2)\], Nov. 6, 2000, 114 Stat. 1900, 1900A–59, see Abolition of the Inter-American Foundation note set out below.</i>
 
 #### References in Text
 
@@ -146,7 +146,7 @@ In subsec. (t), “chapter 91 of title 31” substituted for “the Government C
 
 1991—Subsec. (g). Pub. L. 102–138, §173(b)(1), inserted provision at end that all individuals appointed to the Board possess an understanding of and sensitivity to community level development processes and that no more than 5 members of the Board be of any one political party.
 
-Subsec. (q). Pub. L. 102–138, §173(c), amended subsec. (q) generally. Prior to amendment, subsec. (q) read as follows: “The Foundation shall establish a principal office. The Foundation is authorized to establish agencies, branch offices, or other offices in any place or places within the United States or elsewhere in any of which locations the Foundation may carry on all or any of its operations and business.”
+Subsec. (q). Pub. L. 102–138, §173(c), amended subsec. (q) generally. Prior to amendment, subsec. (q) read as follows: “The Foundation shall establish a principal office. The Foundation is authorized to establish agencies, branch offices, or other offices in any place or places within the United States or elsewhere in any ofwhich locations the Foundation may carry on all or any of its operations and business.”
 
 Subsec. (s)(2). Pub. L. 102–138, §173(a), amended first sentence generally, substituting present provisions for provisions authorizing appropriations of $16,932,000 for fiscal year 1990 and $25,000,000 for fiscal year 1991.
 
@@ -180,7 +180,7 @@ Subsec. (<i>l</i>). Pub. L. 92–226, §406(5), designated existing provisions a
 
 #### Effective Date of 1986 Amendment
 
-Section 403(b) of Pub. L. 99–529 provided that: “The amendments made by subsection (a) \[amending thissection\] shall take effect 120 days after the date of enactment of this Act \[Oct. 24, 1986\].”
+Section 403(b) of Pub. L. 99–529 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect 120 days after the date of enactment of this Act \[Oct. 24, 1986\].”
 
 #### Effective Date of 1985 Amendment
 
@@ -192,7 +192,7 @@ Pub. L. 91–175, pt. IV, Dec. 30, 1969, 83 Stat. 821, as amended by Pub. L. 92�
 
 #### Abolition of Inter-American Foundation
 
-Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §586\], Nov. 29, 1999, 113 Stat. 1535, 1501A–117, provided that:
+Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §586\], Nov. 29, 1999, 113 Stat. 1535, 1501A–117,as amended by Pub. L. 106–429, §101(a) \[title V, §591\], Nov. 6, 2000, 114 Stat. 1900, 1900A–59, provided that:
 
 “(a)
 
@@ -212,7 +212,7 @@ Function.—The term ‘function’ means any duty, obligation, power, authority
 
 “(b)
 
-Abolition of Inter-American Foundation.—During fiscal year 2000, the President is authorized to abolish the Inter-American Foundation. The provisions of this section shall only be effective upon the effective date of the abolition of the Inter-American Foundation.
+Abolition of Inter-American Foundation.—During fiscal years 2000 and 2001, the President is authorized to abolish the Inter-American Foundation. The provisions of this section shall only be effective upon the effective date of the abolition of the Inter-American Foundation.
 
 “(c)
 
@@ -222,7 +222,7 @@ Termination of Functions.—
 
 &emsp;“(2)
 
-Repeal.—Section 401 of the Foreign Assistance Act of 1969 (22 U.S.C. 6290f) \[22 U.S.C. 290f\] is repealed upon the effective date specified in subsection (j).
+Repeal.—Section 401 of the Foreign Assistance Act of 1969 (22 U.S.C. 290f) is repealed upon the effective date specified in subsection (j).
 
 &emsp;“(3)
 
@@ -264,7 +264,7 @@ Report to Congress.—The Director of the Office of Management and Budget shall 
 
 “(f)
 
-Transfer and Allocation of Appropriations.—Except as otherwise provided in this section, the assets, liabilities (including contingent liabilities arising from suits continued with a substitution or addition of parties under subsection (g)(3)), contracts, property, records, and unexpended balance of appropriations, authorizations, allocations, and other funds employed, held, used, arising from, available to, or to be made available in connection with the functions, terminated by subsection (c)(1) or transferred by subsection (d)(2) shall be transferred to the Director for purposes of carrying out the responsibilities described in subsection (d)(1).
+Transfer and Allocation of Appropriations.—Except as otherwise provided in this section, the assets,liabilities (including contingent liabilities arising from suits continued with a substitution or addition of parties under subsection (g)(3)), contracts, property, records, and unexpended balance of appropriations, authorizations, allocations, and other funds employed, held, used, arising from, available to, or to be made available in connection with the functions, terminated by subsection (c)(1) or transferred by subsection (d)(2) shall be transferred to the Director for purposes of carrying out the responsibilities described in subsection (d)(1).
 
 “(g)
 
@@ -298,7 +298,7 @@ Continuation of proceeding with substitution of parties.—If, before the date o
 
 &emsp;“(5)
 
-Reviewability of orders and actions under transferred functions.—Orders and actions of the Director in the exercise of functions terminated or transferred under this section shall be subject to judicial review to the same extent and in the same manner as if such orders and actions had been taken bythe Foundation immediately preceding their termination or transfer. Any statutory requirements relating to notice, hearings, action upon the record, or administrative review that apply to any function transferred by this section shall apply to the exercise of such function by the Director.
+Reviewability of orders and actions under transferred functions.—Orders and actions of the Director in the exercise of functions terminated or transferred under this section shall be subject to judicial review to the same extent and in the same manner as if such orders and actions had been taken by the Foundation immediately preceding their termination or transfer. Any statutory requirements relating to notice, hearings, action upon the record, or administrative review that apply to any function transferred by this section shall apply to the exercise of such function by the Director.
 
 “(h)
 

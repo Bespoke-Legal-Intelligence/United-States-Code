@@ -28,7 +28,7 @@
 
 (<i>l</i>) For purposes of this section, the term “tide or submerged lands” means “lands beneath navigable waters” as defined in section 2 of the Submerged Lands Act (43 U.S.C. 1301).
 
-(m) Not less than one hundred and eighty days before bringing any action under this section, a State shall notify the head of the Federal agency with jurisdiction over the lands in question of the State's intention to file suit, the basis therefor, and a description of the lands included in the suit.
+(m) Not less than one hundred and eighty days before bringing any action under this section, a State shall notify the head of the Federal agency with jurisdiction over the lands in question of the State's intention to file suit, the basistherefor, and a description of the lands included in the suit.
 
 (n) Nothing in this section shall be construed to permit suits against the United States based upon adverse possession.
 
@@ -40,7 +40,7 @@ Section 208 of the Act of July 10, 1952, referred to in subsec. (a), is section 
 
 #### Amendments
 
-1986—Subsec. (a). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
 Subsecs. (c) to (n). Pub. L. 99–598 added subsecs. (c) and (h) to (m), redesignated former subsecs. (c), (d), (e), (f), and (g) as (d), (e), (f), (g), and (n), respectively, and inserted “, except for an action brought by a State,” in subsec. (g).
 

@@ -16,7 +16,7 @@ To the extent that Poland continues to evolve toward pluralism and democracy and
 
 #### (1) Stabilization assistance
 
-&emsp;The United States Government, in conjunction with other member governments of theOrganization of Economic Cooperation and Development (OECD) and international financial institutions (including the International Monetary Fund), shall support the implementation of a plan of the Government of Poland to attack hyperinflation and other structural economic problems, address pressing social problems, carry out comprehensive economic reform, and relieve immediate and urgent balance of payments requirements in Poland, through the use of mechanisms such as—
+&emsp;The United States Government, in conjunction with other member governments of the Organization of Economic Cooperation and Development (OECD) and international financial institutions (including the International Monetary Fund), shall support the implementation of a plan of the Government of Poland to attack hyperinflation and other structural economic problems, address pressing social problems, carry out comprehensive economic reform, and relieve immediate and urgent balance of payments requirements in Poland, through the use of mechanisms such as—
 
 &emsp;&emsp;(A) the Exchange Stabilization Fund pursuant to section 5302 of title 31 and in accordance with established Department of the Treasury policies and procedures; and
 

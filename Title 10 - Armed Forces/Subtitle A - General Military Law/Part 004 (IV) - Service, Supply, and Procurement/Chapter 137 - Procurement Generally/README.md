@@ -21,6 +21,7 @@
 | [2306\.](%C2%A7%2002306%20-%20Kinds%20of%20contracts.md) | Kinds of contracts. |
 | [2306a.](%C2%A7%2002306a%20-%20Cost%20or%20pricing%20data%20truth%20in%20negotiations.md) | Cost or pricing data: truth in negotiations. |
 | [2306b.](%C2%A7%2002306b%20-%20Multiyear%20contracts%20acquisition%20of%20property.md) | Multiyear contracts: acquisition of property. |
+| [2306c.](%C2%A7%2002306c%20-%20Multiyear%20contracts%20acquisition%20of%20services.md) | Multiyear contracts: acquisition of services. |
 | [2307\.](%C2%A7%2002307%20-%20Contract%20financing.md) | Contract financing. |
 | \[2308. | Repealed.\] |
 | [2309\.](%C2%A7%2002309%20-%20Allocation%20of%20appropriations.md) | Allocation of appropriations. |
@@ -50,6 +51,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2000—Pub. L. 106–398, §1 \[\[div. A\], title VIII, §802(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–205, added item 2306c.
 
 1998—Pub. L. 105–261, div. A, title X, §1069(a)(3), Oct. 17, 1998, 112 Stat. 2135, substituted “electronic commerce capability” for “FACNET capability” in item 2302c.
 
@@ -93,21 +96,9 @@ Pub. L. 98–369, div. B, title VII, §2727(a), July 18, 1984, 98 Stat. 1194, su
 
 1980—Pub. L. 96–513, title V, §511(75), Dec. 12, 1980, 94 Stat. 2926, inserted “formal” before “advertising” in item 2304.
 
-#### Cross References
-
-American material required for public use, see section 10a of Title 41, Public Contracts.
-
-Cataloging and standardization of supplies, see section 2451 et seq. of this title.
-
-Miscellaneous procurement provisions, see section 2381 et seq. of this title.
-
-Particular provisions relating to Navy procurement, see section 7521 et seq. of this title.
-
 #### Chapter Referred to in Other Sections
 
 This chapter is referred to in sections 167, 2350b, 2350d, 2373, 2809, 2835, 2836, 2837 of this title; title 15 sections 205<i>l</i>, 637; title 22 section 2761; title 40 section 474; title 41 section 421; title 42 sections 13556, 14713, 14715, 14732.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 
 
 ---
@@ -133,6 +124,7 @@ This chapter is referred to in sections 167, 2350b, 2350d, 2373, 2809, 2835, 283
 - [&sect; 02306 - Kinds of contracts](%C2%A7%2002306%20-%20Kinds%20of%20contracts.md)
 - [&sect; 02306a - Cost or pricing data truth in negotiations](%C2%A7%2002306a%20-%20Cost%20or%20pricing%20data%20truth%20in%20negotiations.md)
 - [&sect; 02306b - Multiyear contracts acquisition of property](%C2%A7%2002306b%20-%20Multiyear%20contracts%20acquisition%20of%20property.md)
+- [&sect; 02306c - Multiyear contracts acquisition of services](%C2%A7%2002306c%20-%20Multiyear%20contracts%20acquisition%20of%20services.md)
 - [&sect; 02307 - Contract financing](%C2%A7%2002307%20-%20Contract%20financing.md)
 - [&sect; 02308 - Repealed. Pub. L. 103&#8211;355, title I, &sect;1503(b)(1), Oct. 13, 1994, 108 Stat. 3297](%C2%A7%2002308%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93355%2C%20title%20I%2C%20%C2%A71503%28b%29%281%29%2C%20Oct.%2013%2C%201994%2C%20108%20Stat.%203297.md)
 - [&sect; 02309 - Allocation of appropriations](%C2%A7%2002309%20-%20Allocation%20of%20appropriations.md)

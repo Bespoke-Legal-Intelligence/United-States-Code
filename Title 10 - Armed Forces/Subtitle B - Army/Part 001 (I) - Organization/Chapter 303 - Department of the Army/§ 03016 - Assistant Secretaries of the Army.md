@@ -32,9 +32,3 @@ For order of succession in event of death, disability, or resignation of Secreta
 
 For order of succession in event of death, permanent disability, or resignation of Secretary of the Army, see Ex. Ord. No. 12908, Apr. 22, 1994, 59 F.R. 21907, set out as a note under section 3345 of Title 5.
 
-#### Cross References
-
-Compensation of Assistant Secretaries, see section 5315 of Title 5, Government Organization and Employees.
-
-President's appointing power, see Const. Art. II, §2, cl. 2.
-

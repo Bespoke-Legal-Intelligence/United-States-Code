@@ -38,7 +38,7 @@ The permitting authority shall, upon request of an owner or operator of a unit s
 
 &emsp;(2) a unit subject to subsection (b)(2) of this section cannot meet the applicable rate using the technology on which the Administrator based the applicable emission limitation.
 
-> The permitting authority shall base such determination upon a showing satisfactory to the permitting authority, in accordance with regulations established by the Administrator not later than eighteen months after November 15, 1990, that the owner or operator—
+> The permitting authority shall base such determination upon a showing satisfactory to thepermitting authority, in accordance with regulations established by the Administrator not later than eighteen months after November 15, 1990, that the owner or operator—
 
 &emsp;(1) has properly installed appropriate control equipment designed to meet the applicable emission rate;
 

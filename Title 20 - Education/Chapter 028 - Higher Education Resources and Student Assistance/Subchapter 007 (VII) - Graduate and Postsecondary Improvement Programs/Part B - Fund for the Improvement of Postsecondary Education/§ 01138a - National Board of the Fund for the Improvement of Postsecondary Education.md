@@ -2,13 +2,13 @@
 
 #### (a) Establishment
 
-There is established a National Board of the Fund for the Improvement of PostsecondaryEducation (in this part referred to as the “Board”). The Board shall consist of 15 members appointed by the Secretary for overlapping 3-year terms. A majority of the Board shall constitute a quorum. Any member of the Board who has served for 6 consecutive years shall thereafter be ineligible for appointment to the Board during a 2-year period following the expiration of such sixth year.
+There is established a National Board of the Fund for the Improvement of Postsecondary Education (in this part referred to as the “Board”). The Board shall consist of 15 members appointed by the Secretary for overlapping 3-year terms. A majority of the Board shall constitute a quorum. Any member of the Board who has served for 6 consecutive years shall thereafter be ineligible for appointment to the Board during a 2-year period following the expiration of such sixth year.
 
 #### (b) Membership
 
 #### (1) In general
 
-&emsp;The Secretary shall designate one of the members of the Board as Chairperson of the Board. A majority of the members of the Board shall be public interest representatives, including students, and a minority shall be educational representatives. All members selected shall be individuals able to contribute an important perspective on priorities for improvement in postsecondary education and strategies of educational and institutional change.
+&emsp;The Secretary shall designate one of the members of the Board as Chairperson of the Board. A majority of the members of theBoard shall be public interest representatives, including students, and a minority shall be educational representatives. All members selected shall be individuals able to contribute an important perspective on priorities for improvement in postsecondary education and strategies of educational and institutional change.
 
 #### (2) Appointment of Director
 

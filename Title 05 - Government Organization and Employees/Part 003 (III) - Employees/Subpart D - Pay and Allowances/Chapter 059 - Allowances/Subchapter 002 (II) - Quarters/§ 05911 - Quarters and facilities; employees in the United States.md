@@ -20,7 +20,7 @@
 
 (d) When, as an incidental service in support of a program of the Government, quarters and facilities are provided by appropriate authority of the Government to an individual other than an employee or member of a uniformed service, the rates and charges therefor shall be determined in accordance with this section. The amounts of payment of the rates and charges shall be credited to the Government as provided by law.
 
-(e) The head of an agency may not require an employee or member of a uniformed service tooccupy quarters on a rental basis, unless the agency head determines that necessary service cannot be rendered, or that property of the Government cannot adequately be protected, otherwise.
+(e) The head of an agency may not require an employee or member of a uniformed service to occupy quarters on a rental basis, unless the agency head determines that necessary service cannot be rendered, or that property of the Government cannot adequately be protected, otherwise.
 
 (f) The President may prescribe regulations governing the provision, occupancy, and availability of quarters and facilities, the determination of rates and charges therefor, and other related matters, necessary and appropriate to carry out this section. The head of each agency may prescribe regulations, not inconsistent with the regulations of the President, necessary and appropriate to carry out the functions of the agency head under this section.
 
@@ -109,10 +109,6 @@ Authority of President under subsec. (f) of this section to issue regulations pr
 #### Deposit in Special Fund of Rents and Charges Collected for Use or Occupancy of Quarters
 
 Pub. L. 98–473, title I, §101(c) \[title III, §320\], Oct. 12, 1984, 98 Stat. 1837, 1874, as amended by Pub. L. 100–446, title III, §316, Sept. 27, 1988, 102 Stat. 1826; Pub. L. 101–121, title III, §317, Oct. 23, 1989, 103 Stat. 745, provided that: “Notwithstanding title 5 of the United States Code or any other provision of law, after September 30, 1984, rents and charges collected by payroll deduction or otherwise for the use or occupancy of quarters of agencies funded by this Act \[probably means Department of the Interior and Related Agencies Appropriation Act, 1985, as set forth in section 101(c) of Pub. L. 98–473\] shall thereafter be deposited in a special fund in each agency, to remain available until expended, for the maintenance and operation of the quarters of that agency: <i>Provided</i>, That nothing contained herein shall prohibit an agreement between an Indian tribe or tribal organization and the Secretary of the Interior or the Secretary of Health and Human Services, pursuant to the Indian Self-Determination Act, as amended (25 U.S.C. 450 et seq.) \[25 U.S.C. 450f et seq.\], under which such tribe or tribal organization may retain rents and charges for the operation, maintenance, and repair of such quarters.”
-
-#### Cross References
-
-Deductions from salaries of officers and crews of vessels of the Fish and Wildlife Service for quarters and rations as unauthorized by this section, see section 754 of Title 16, Conservation.
 
 #### Section Referred to in Other Sections
 

@@ -24,14 +24,6 @@ Minor changes were made in phraseology.
 
 Amendment by Pub. L. 92–225 effective Dec. 31, 1971, or sixty days after date of enactment \[Feb. 7, 1972\], whichever is later, see section 408 of Pub. L. 92–225, set out as an Effective Date note under section 431 of Title 2, The Congress.
 
-#### Canal Zone
-
-Applicability of section to Canal Zone, see section 14 of this title.
-
-#### Cross References
-
-Minor offenses tried by United States magistrate judges as excluding offenses punishable under this section, see section 3401 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 14 of this title.

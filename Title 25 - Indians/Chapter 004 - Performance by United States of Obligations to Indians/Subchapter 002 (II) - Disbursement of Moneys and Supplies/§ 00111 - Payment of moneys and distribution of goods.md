@@ -20,9 +20,3 @@ R.S. §2086 derived from acts June 30, 1834, ch. 162, §11, 4 Stat. 737; Mar. 3,
 
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
-#### Cross References
-
-Allowances to Sioux Indians, see section 474 of this title.
-
-Mission schools to receive rations for enrolled children, see section 279 of this title.
-

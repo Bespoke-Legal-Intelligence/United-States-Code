@@ -4,9 +4,3 @@ Any property owned under any contract or by any combination, or pursuant to any 
 
 (July 2, 1890, ch. 647, §6, 26 Stat. 210.)
 
-#### Cross References
-
-Fines, penalties, and forfeitures, see chapter 163 of Title 28, Judiciary and Judicial Procedure.
-
-Forfeiture of property in transit, see, also, section 11 of this title.
-

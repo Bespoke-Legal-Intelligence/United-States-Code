@@ -6,7 +6,7 @@ Except where a specific section of this chapter designates enforcement responsib
 
 #### (b) Enforcement activities of authorized officers
 
-To enforce the provisions of this chapter in or on board any ocean thermal energy conversionfacility or plantship or any vessel subject to the provisions of this chapter, any officer who is authorized by the Administrator or the Secretary of the department in which the Coast Guard is operating may—
+To enforce the provisions of this chapter in or on board any ocean thermal energy conversion facility or plantship or any vessel subject to the provisions of this chapter, any officer who is authorized by the Administrator or the Secretary of the department in which the Coast Guard is operating may—
 
 &emsp;(1) enter or board, and inspect, any ocean thermal energy conversion facility or plantship or any vessel which is subject to the provisions of this chapter;
 
@@ -24,7 +24,7 @@ To enforce the provisions of this chapter in or on board any ocean thermal energ
 
 #### (c) Jurisdiction; venue
 
-Except as otherwise specified in section 9125 of this title, the district courts of the United States shall have exclusive original jurisdiction over any case or controversy arising under the provisions of this chapter. Except as otherwise specified in this chapter, venue shall lie in any district wherein, or nearest to which, the cause of action arose, or wherein any defendant resides, may be found, or has his principal office. In the case of Guam, and any Commonwealth, territory, or possession of the United States in the Pacific Ocean, the appropriate court is the United States District Court for the District of Guam, except that in the case of American Samoa, the appropriate court is the United States District Court for the District of Hawaii. Any such court may, at any time—
+Except as otherwise specified in section 9125 of this title, the district courts of the United States shall have exclusive original jurisdiction over any case or controversy arising under the provisions of this chapter. Except as otherwise specified in this chapter, venue shall lie in any district wherein, or nearest to which, the cause of action arose, or wherein any defendant resides, may be found, or has his principal office. In the case of Guam, and any Commonwealth, territory, or possession of the United States in the Pacific Ocean, the appropriate court is the United States District Court for the District of Guam, except that in the case of American Samoa, the appropriate court is the UnitedStates District Court for the District of Hawaii. Any such court may, at any time—
 
 &emsp;(1) enter restraining orders or prohibitions;
 

@@ -6,7 +6,7 @@ There shall be an Executive Secretary of the Foundation who shall be appointed b
 
 #### (b) Compensation
 
-The Executive Secretary of the Foundation shall be compensated at an annual rate of basicpay not in excess of the amount payable for Executive Level V.
+The Executive Secretary of the Foundation shall be compensated at an annual rate of basic pay not in excess of the amount payable for Executive Level V.
 
 (Pub. L. 102–281, title IV, §428, May 13, 1992, 106 Stat. 144.)
 

@@ -14,10 +14,6 @@ Section was not enacted as part of the Foreign Service Act of 1980 which compris
 
 Section was formerly classified to section 1187 of this title, and prior thereto to section 90 of this title.
 
-#### Cross References
-
-Discharge and return by consular officers of seamen, see sections 10318, 10906, 11106, and 11503 of Title 46, Shipping.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 4191 of this title.

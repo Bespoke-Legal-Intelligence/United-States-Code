@@ -8,7 +8,7 @@ The Secretary of Agriculture may, on the application of the borrower of a loan o
 
 &emsp;(2) the land has been held by the borrower for a period of at least 5 years; and
 
-&emsp;(3) the Secretary of the Interior finds that the borrower has insufficient income to bothrepay the loan or loans and provide normal tribal governmental services.
+&emsp;(3) the Secretary of the Interior finds that the borrower has insufficient income to both repay the loan or loans and provide normal tribal governmental services.
 
 #### (b) Fair market value
 

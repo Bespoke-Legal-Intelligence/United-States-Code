@@ -22,7 +22,7 @@ Definitions.—In this section:
 
 &emsp;(3) The term “mid-term validated biowarfare threat agent” means a validated biowarfare threat agent that is an emerging biowarfare threat, is the object of research by a foreign threat country, and will be ready for weaponization in more than 5 years and less than 10 years, as assessed and determined by the Defense Intelligence Agency.
 
-&emsp;(4) The term “far-term validated biowarfare threat agent” means a validated biowarfare threat agent that is a future biowarfare threat, is the object of research by a foreign threat country, and could be ready for weaponization in more than 10 years and less than 20 years, as assessed and determined by the Defense Intelligence Agency.
+&emsp;(4) The term “far-term validated biowarfare threat agent” means a validated biowarfarethreat agent that is a future biowarfare threat, is the object of research by a foreign threat country, and could be ready for weaponization in more than 10 years and less than 20 years, as assessed and determined by the Defense Intelligence Agency.
 
 &emsp;(5) The term “weaponization” means incorporation into usable ordnance or other militarily useful means of delivery.
 

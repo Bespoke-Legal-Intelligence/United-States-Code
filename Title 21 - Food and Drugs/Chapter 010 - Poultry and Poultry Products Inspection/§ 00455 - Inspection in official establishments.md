@@ -26,6 +26,10 @@ Par. (c). Pub. L. 90–492, §6(c), inserted “other” before “poultry produ
 
 Amendment by Pub. L. 90–492 effective Aug. 18, 1968, see section 20 of Pub. L. 90–492, set out as a note under section 451 of this title.
 
+#### Applicability of Chapter Requirements to Birds of the Order Ratitae
+
+Pub. L. 106–387, §1(a) \[title VII, §752\], Oct. 28, 2000, 114 Stat. 1549, 1549A–41, provided that: “Effective 180 days after the date of the enactment of this Act \[Oct. 28, 2000\] and continuing for the remainder of fiscal year 2001 and each subsequent fiscal year, establishments in the United States that slaughter or process birds of the order Ratitae, such as ostriches, emus and rheas, and squab, for distribution in commerce as human food shall be subject to the ante mortem and post mortem inspection, reinspection, and sanitation requirements of the Poultry Products Inspection Act (21 U.S.C. 451 et seq.) rather than the voluntary poultry inspection program of the Department of Agriculture under section 203 of the Agricultural Marketing Act of 1946 (7 U.S.C. 1622).”
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 454, 467 of this title.

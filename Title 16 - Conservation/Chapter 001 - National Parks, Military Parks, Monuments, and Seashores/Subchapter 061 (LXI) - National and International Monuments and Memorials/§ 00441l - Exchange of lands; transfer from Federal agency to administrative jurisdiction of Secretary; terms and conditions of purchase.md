@@ -18,7 +18,7 @@ Inasmuch as (A) most of the lands added to the Badlands National Park by section
 
 &emsp;(6) No application may be filed by more than five of the former owners of an interest in the tract. If more than one such application is filed for a tract the applicants must agree on not more than five of the former owners who shall make the purchase, and failing such agreement all such applications for the tract shall be rejected by the Secretary.
 
-&emsp;(7) “Former owner” means, for the purposes of subsection (b) of this section, each personfrom whom the United States acquired an interest in the tract, or if such person is deceased, his spouse, or if such spouse is deceased, his children.
+&emsp;(7) “Former owner” means, for the purposes of subsection (b) of this section, each person from whom the United States acquired an interest in the tract, or if such person is deceased, his spouse, or if such spouse is deceased, his children.
 
 (Pub. L. 90–468, §3, Aug. 8, 1968, 82 Stat. 663; Pub. L. 95–625, title VI, §611, Nov. 10, 1978, 92 Stat. 3521.)
 

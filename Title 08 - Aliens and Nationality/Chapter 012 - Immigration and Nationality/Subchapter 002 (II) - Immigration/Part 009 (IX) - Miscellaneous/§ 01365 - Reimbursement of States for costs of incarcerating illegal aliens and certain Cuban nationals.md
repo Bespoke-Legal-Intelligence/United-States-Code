@@ -40,7 +40,7 @@ There are authorized to be appropriated such sums as are necessary to carry out 
 
 #### (e) “State” defined
 
-The term ‘State’ has the meaning given such term in section 1101(a)(36) of this title.
+The term “State” has the meaning given such term in section 1101(a)(36) of this title.
 
 (Pub. L. 99–603, title V, §501, Nov. 6, 1986, 100 Stat. 3443.)
 
@@ -51,8 +51,4 @@ Section was enacted as part of the Immigration Reform and Control Act of 1986, a
 #### Regulations
 
 Pub. L. 103–317, title VIII, Aug. 26, 1994, 108 Stat. 1778, provided in part: “That the Attorney General shall promulgate regulations to (a) prescribe requirements for program participation eligibility for States, (b) require verification by States of the eligible incarcerated population data with the Immigration and Naturalization Service, (c) prescribe a formula for distributing assistance to eligible States, and (d) award assistance to eligible States”.
-
-#### Cross References
-
-Assistance to States and counties for costs of incarcerating certain Cuban nationals, see section 1522(f) of this title.
 

@@ -46,7 +46,7 @@ Section 1. <i>Award of Medal</i>. (a) The President shall award the National Med
 
 (A) is a citizen or other national of the United States; or
 
-(B) is an alien lawfully admitted to the United States for permanent residence who (i) has filed a petition for naturalization in the manner prescribed by Section334(b) of the Immigration and Nationality Act \[8 U.S.C. 1445(b)\], and (ii) is not permanently ineligible to become a citizen of the United States.
+(B) is an alien lawfully admitted to the United States for permanent residence who (i) has filed a petition for naturalization in the manner prescribed by Section 334(b) of the Immigration and Nationality Act \[8 U.S.C. 1445(b)\], and (ii) is not permanently ineligible to become a citizen of the United States.
 
 (3) Notwithstanding the provisions of paragraph (2) of this subsection, the Medal may be awarded posthumously, but only to individuals who, at the time of their death, met the conditions set forth in paragraph (2). The Medal shall not be awarded to any individual after the fifth anniversary of the day of his death.
 

@@ -10,7 +10,3 @@
 
 Subsecs. (a) and (b) of this section constitute sections 1 and 2, respectively, of act June 16, 1938.
 
-#### Cross References
-
-Revenues of national parks covered into Treasury, see section 452 of this title.
-

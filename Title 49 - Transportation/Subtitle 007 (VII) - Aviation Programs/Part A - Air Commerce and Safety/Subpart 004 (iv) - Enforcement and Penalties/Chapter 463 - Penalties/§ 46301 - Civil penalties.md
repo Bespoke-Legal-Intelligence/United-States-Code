@@ -4,7 +4,7 @@
 
 General Penalty.—(1) A person is liable to the United States Government for a civil penalty of not more than $1,000 for violating—
 
-&emsp;(A) chapter 401 (except sections 40103(a) and (d), 40105, 40116, and 40117), chapter 411, chapter 413 (except sections 41307 and 41310(b)–(f)), chapter 415 (except sections 41502, 41505, and 41507–41509), chapter 417 (except sections 41703, 41704, 41710, 41713, and 41714), chapter 419, subchapter II of chapter 421, chapter 441 (except section 44109), section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), chapter 449 (except sections 44902, 44903(d), 44904, 44907(a)–(d)(1)(A) and (d)(1)(C)–(f), and 44908), or section 46302, 46303, or 47107(b) (including any assurance made under such section) of this title;
+&emsp;(A) chapter 401 (except sections 40103(a) and (d), 40105, 40116, and 40117), chapter 411, chapter 413 (except sections 41307 and 41310(b)–(f)), chapter 415 (except sections 41502, 41505, and 41507–41509), chapter 417 (except sections 41703, 41704, 41710, 41713, and 41714), chapter 419, subchapter II or III of chapter 421, chapter 441 (except section 44109), section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), chapter 449 (except sections 44902, 44903(d), 44904, 44907(a)–(d)(1)(A) and (d)(1)(C)–(f), and 44908), or section 47107(b) (including any assurance made under such section) of this title;
 
 &emsp;(B) a regulation prescribed or order issued under any provision to which clause (A) of this paragraph applies;
 
@@ -20,17 +20,29 @@ General Penalty.—(1) A person is liable to the United States Government for a 
 
 (3) A civil penalty of not more than $10,000 may be imposed for each violation under paragraph (1) of this subsection related to—
 
-&emsp;(A) the transportation of hazardous material; or
+&emsp;(A) the transportation of hazardous material;
 
-&emsp;(B) the registration or recordation under chapter 441 of this title of an aircraft not used to provide air transportation.
+&emsp;(B) the registration or recordation under chapter 441 of this title of an aircraft not used to provide air transportation;
 
-(4) A separate violation occurs under this subsection for each day the violation (other than a violation of section 41715) continues or, if applicable, for each flight involving the violation (other than a violation of section 41715).
+&emsp;(C) a violation of section 44718(d), relating to the limitation on construction or establishment of landfills;
+
+&emsp;(D) a violation of section 44725, relating to the safe disposal of life-limited aircraft parts; or
+
+&emsp;(E) a violation of section 41705, relating to discrimination against handicapped individuals.
+
+(4) A separate violation occurs under this subsection for each day the violation (other than a violation of section 41715) <sup>1</sup> continues or, if applicable, for each flight involving the violation (other than a violation of section 41715).<sup>1</sup>
 
 (5)
 
 Penalty for diversion of aviation revenues.—The amount of a civil penalty assessed under this section for a violation of section 47107(b) of this title (or any assurance made under such section) or section 47133 of this title may be increased above the otherwise applicable maximum amount under this section to an amount not to exceed 3 times the amount of revenues that are used in violation of such section.
 
-(6) Notwithstanding paragraph (1), the maximum civil penalty for violating section 41715 shall be $5,000 instead of $1,000.
+(6)
+
+Air service termination notice.—Notwithstanding paragraph (1), the maximum civil penalty for violating section 41715 <sup>1</sup> shall be $5,000 instead of $1,000.
+
+(7)
+
+Consumer protection.—Notwithstanding paragraphs (1) and (4), the maximum civil penalty for violating section 40127 or 41712 (including a regulation prescribed or order issued under such section) or any other regulation prescribed by the Secretary that is intended to afford consumer protection to commercial air transportation passengers, shall be $2,500 for each violation.
 
 (b)
 
@@ -64,7 +76,7 @@ Administrative Imposition of Penalties.—(1) In this subsection—
 
 &emsp;(D) “repairman” means an individual who holds a repairman certificate issued under part 65 of title 14, Code of Federal Regulations.
 
-(2) The Administrator of the Federal Aviation Administration may impose a civil penalty for a violation of chapter 401 (except sections 40103(a) and (d), 40105, 40106(b), 40116, and 40117), chapter 441 (except section 44109), section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), chapter 449 (except sections 44902, 44903(d), 44904, 44907(a)–(d)(1)(A) and (d)(1)(C)–(f), 44908, and 44909), or section 46302, 46303, or 47107(b) (as further defined by the Secretary under section 47107(<i>l</i>) and including any assurance made under section 47107(b)) of this title or a regulation prescribed or order issued under any of those provisions. The Administrator shall give written notice of the finding of a violation and the penalty.
+(2) The Administrator of the Federal Aviation Administration may impose a civil penalty for a violation of chapter 401 (except sections 40103(a) and (d), 40105, 40106(b), 40116, and 40117), chapter 441 (except section 44109), section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), chapter 449 (except sections 44902, 44903(d), 44904, 44907(a)–(d)(1)(A) and (d)(1)(C)–(f), 44908, and 44909), or section 46301(b), 46302, 46303, 46318, or 47107(b) (as further defined by the Secretary under section 47107(<i>l</i>) and including any assurance made under section 47107(b)) of this title or a regulation prescribed or order issued under any of those provisions. The Administrator shall give written notice of the finding of a violation and the penalty.
 
 (3) In a civil action to collect a civil penalty imposed by the Administrator under this subsection, the issues of liability and the amount of the penalty may not be reexamined.
 
@@ -82,13 +94,13 @@ Administrative Imposition of Penalties.—(1) In this subsection—
 
 (B) An individual acting as a pilot, flight engineer, mechanic, or repairman may appeal an order imposing a penalty under this subsection to the National Transportation Safety Board. After notice and an opportunity for a hearing on the record, the Board shall affirm, modify, or reverse the order. The Board may modify a civil penalty imposed to a suspension or revocation of a certificate.
 
-(C) When conducting a hearing under this paragraph, the Board is not bound by findings of fact of the Administrator but is bound by all validly adopted interpretations of laws and regulations the Administrator carries out and of written agency policy guidance available to the public related to sanctions to be imposed under this section unless the Board finds an interpretation is arbitrary, capricious, or otherwise not according to law.
+(C) When conducting a hearing under this paragraph, the Board is not bound by findings of fact of the Administrator but is bound by all validly adopted interpretations of laws and regulations the Administrator carries out and of written agency policy guidance available to thepublic related to sanctions to be imposed under this section unless the Board finds an interpretation is arbitrary, capricious, or otherwise not according to law.
 
 (D) When an individual files an appeal with the Board under this paragraph, the order of the Administrator is stayed.
 
 (6) An individual substantially affected by an order of the Board under paragraph (5) of this subsection, or the Administrator when the Administrator decides that an order of the Board under paragraph (5) will have a significant adverse impact on carrying out this part, may obtain judicial review of the order under section 46110 of this title. The Administrator shall be made a party to the judicial review proceedings. Findings of fact of the Board are conclusive if supported by substantial evidence.
 
-(7)(A) The Administrator may impose a penalty on an individual (except an individual acting as a pilot, flight engineer, mechanic, or repairman) only after notice and an opportunity for a hearing on the record.
+(7)(A) The Administrator may impose a penalty on a person (except an individual acting as a pilot, flight engineer, mechanic, or repairman) only after notice and an opportunity for a hearing on the record.
 
 (B) In an appeal from a decision of an administrative law judge as the result of a hearing under subparagraph (A) of this paragraph, the Administrator shall consider only whether—
 
@@ -136,7 +148,7 @@ Compromise and Setoff.—(1)(A) The Secretary may compromise the amount of a civ
 
 (g)
 
-Judicial Review.—An order of the Secretary imposing a civil penalty may be reviewed judicially only under section 46110 of this title.
+Judicial Review.—An order of the Secretary or the Administrator imposing a civil penalty may be reviewed judicially only under section 46110 of this title.
 
 (h)
 
@@ -148,7 +160,7 @@ Nonapplication.—(1) This section does not apply to the following when performi
 
 (2) The appropriate military authority is responsible for taking necessary disciplinary action and submitting to the Secretary (or the Administrator with respect to aviation safety duties and powers designated to be carried out by the Administrator) a timely report on action taken.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1231; Pub. L. 103–305, title I, §112(c), title II, §207(c), Aug. 23, 1994, 108 Stat. 1575, 1588; Pub. L. 103–429, §6(60), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 104–264, title V, §502(c), title VIII, §804(b), title XII, §1220(b), Oct. 9, 1996, 110 Stat. 3263, 3271, 3286; Pub. L. 104–287, §5(77), Oct. 11, 1996, 110 Stat. 3396; Pub. L. 105–102, §3(c)(4), Nov. 20, 1997, 111 Stat. 2215.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1231; Pub. L. 103–305, title I, §112(c), title II, §207(c), Aug. 23, 1994, 108 Stat. 1575, 1588; Pub. L. 103–429, §6(60), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 104–264, title V, §502(c), title VIII, §804(b), title XII, §1220(b), Oct. 9, 1996, 110 Stat. 3263, 3271, 3286; Pub. L. 104–287, §5(77), Oct. 11, 1996, 110 Stat. 3396; Pub. L. 105–102, §3(c)(4), Nov. 20, 1997, 111 Stat. 2215; Pub. L. 106–181, title II, §222, title V, §§503(c), 504(b), 519(c), title VII, §§707(b), 720, Apr. 5, 2000, 114 Stat. 102, 133, 134, 149, 158, 163; Pub. L. 106–424, §15, Nov. 1, 2000, 114 Stat. 1888.)
 
 Historical and Revision Notes
 
@@ -296,7 +308,7 @@ In subsection (d)(2), the text of section 7214 of the Anti-Drug Abuse Act of 198
 
 In subsection (d)(4)(C), the word “or” is substituted for “and” for clarity.
 
-In subsection (d)(5)(B) and (7)(A), the words “in accordance with section 554 of title 5” are omitted forconsistency in the revised title and because 5:554 applies to a hearing on the record unless otherwise stated.
+In subsection (d)(5)(B) and (7)(A), the words “in accordance with section 554 of title 5” are omitted for consistency in the revised title and because 5:554 applies to a hearing on the record unless otherwise stated.
 
 In subsection (d)(5)(B), the words “consistent with this subsection” are omitted as surplus.
 
@@ -328,7 +340,27 @@ This makes a conforming amendment to 49:46301(a)(3).
 
 These amend 49:46301(c)(1)(A), (d)(2), and (f)(1)(A)(i) to correct errors in the codification enacted by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 1231), to include in the cross-reference sections enacted after the cutoff date for the codification of title 49 as enacted by section 1 of the Act (Public Law 103–272, 108 Stat. 745), and to make it easier to include future sections in the cross-reference by restating it in terms of chapters.
 
+#### References in Text
+
+Section 41715, referred to in subsec. (a)(4), (6), was renumbered section 41719 of this title and a new section 41715 of this title was enacted by Pub. L. 106–181, title II, §231(b), Apr. 5, 2000, 114 Stat. 108.
+
 #### Amendments
+
+2000—Subsec. (a)(1)(A). Pub. L. 106–181, §§519(c), 720(1), substituted “subchapter II or III of chapter 421” for “subchapter II of chapter 421” and struck out “46302, 46303, or” before “47107(b) (including”.
+
+Subsec. (a)(3)(C). Pub. L. 106–181, §503(c), added subpar. (C).
+
+Subsec. (a)(3)(D), (E). Pub. L. 106–181, §§504(b), 707(b), added subpars. (D) and (E).
+
+Subsec. (a)(6). Pub. L. 106–181, §222(b), inserted heading and realigned margins.
+
+Subsec. (a)(7). Pub. L. 106–181, §222(a), added par. (7).
+
+Subsec. (d)(2). Pub. L. 106–424 substituted “46301(b), 46302, 46303, 46318,” for “46302, 46303,”.
+
+Subsec. (d)(7)(A). Pub. L. 106–181, §720(2), substituted “a penalty on a person” for “a penalty on an individual”.
+
+Subsec. (g). Pub. L. 106–181, §720(3), inserted “or the Administrator” after “Secretary”.
 
 1997—Subsecs. (a)(1)(A), (2)(A), (d)(2), (f)(1)(A)(i). Pub. L. 105–102 repealed Pub. L. 104–264, §§502(c), 1220(b). See 1996 Amendment notes below.
 
@@ -390,6 +422,10 @@ Subsec. (d)(7)(D). Pub. L. 103–305, §112(c)(3), added subpar. (D).
 
 Subsec. (f)(1)(A)(i). Pub. L. 103–429, §6(60)(B), substituted “any of sections 44701(a)” for “section 44701(a)”.
 
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
+
 #### Effective Date of 1997 Amendment
 
 Pub. L. 105–102, §3(c), Nov. 20, 1997, 111 Stat. 2215, provided that the amendment made by section 3(c)(4) is effective Oct. 9, 1996.
@@ -408,7 +444,7 @@ Except as otherwise specifically provided, amendment by Pub. L. 104–264 applic
 
 Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under section 321 of this title.
 
-Amendment by section 207(c) of Pub. L. 103–305 effective Feb. 1, 1995, see section 207(d) of Pub. L. 103–305, set out as an Effective Date note under section 41715 of this title.
+Amendment by section 207(c) of Pub. L. 103–305 effective Feb. 1, 1995, see section 207(d) of Pub. L. 103–305, set out as an Effective Date note under section 41719 of this title.
 
 #### Savings Provision
 
@@ -416,5 +452,7 @@ Pub. L. 102–345, §2(c), Aug. 26, 1992, 106 Stat. 925, provided that: “Notwi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 106, 1133, 1153, 40109, 41110, 46304 of this title.
+This section is referred to in sections 106, 1133, 1153, 40109, 41110, 41705, 46304 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

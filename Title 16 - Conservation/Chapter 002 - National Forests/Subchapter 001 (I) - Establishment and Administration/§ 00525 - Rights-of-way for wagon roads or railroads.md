@@ -18,7 +18,3 @@ As originally enacted, this section contained following the word “forest” th
 
 Repeal by Pub. L. 94–579, title VII, §706(a), Oct. 21, 1976, 90 Stat. 2793, insofar as applicable to the issuance of rights-of-way, not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see note set out under section 1701 of Title 43, Public Lands.
 
-#### Cross References
-
-Laws affecting forest lands, except those which affect appropriating, entering, relinquishing, or patenting such lands, to be executed by Secretary of Agriculture, see section 472 of this title.
-

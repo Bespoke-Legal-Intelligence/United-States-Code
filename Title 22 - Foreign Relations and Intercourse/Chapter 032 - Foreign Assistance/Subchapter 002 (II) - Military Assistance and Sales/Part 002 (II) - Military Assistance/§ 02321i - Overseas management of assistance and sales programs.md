@@ -20,7 +20,7 @@ In order to carry out his responsibilities for the management of international s
 
 #### (b) Furnishing of advisory and training assistance
 
-Advisory and training assistance conducted by military personnel assigned under this sectionshall be kept to an absolute minimum. It is the sense of the Congress that advising and training assistance in countries to which military personnel are assigned under this section shall be provided primarily by other personnel who are not assigned under this section and who are detailed for limited periods to perform specific tasks.
+Advisory and training assistance conducted by military personnel assigned under this section shall be kept to an absolute minimum. It is the sense of the Congress that advising and training assistance in countries to which military personnel are assigned under this section shall be provided primarily by other personnel who are not assigned under this section and who are detailed for limited periods to perform specific tasks.
 
 #### (c) Number of personnel assigned; waiver; procedures applicable
 
@@ -120,7 +120,7 @@ Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L.
 
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R.56673, as amended, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -8,7 +8,3 @@ The action of the Secretary in allowing or denying any payment under subchapter 
 
 For transfer of functions to Secretary of Labor, see note set out under section 1711 of this title.
 
-#### Federal Rules of Civil Procedure
-
-Writ of mandamus abolished in United States district courts, but relief available by appropriate action or motion, see rule 81, Title 28, Appendix, Judiciary and Judicial Procedure.
-

@@ -16,7 +16,7 @@ Subsec. (b). Pub. L. 93–559, §45(a)(8)(B), (C), added subsec. (b) and redesig
 
 Subsec. (b). Pub. L. 93–189, §25(8), struck out reference to cash sales pursuant to sections 2761 and 2762 of this title, reference to exclusion of credits covered by guaranties issued under section 2764(b) of this title, and reference to the face amount of contracts of guaranty issued under section 2764(a) and (b) of this title, and inserted reference to the principal amount of loans guaranteed under section 2764(a) of this title.
 
-Subsec. (c). Pub. L. 93–189, §25(9), struck out subsec. (c) which provided for Presidential waiver of limitations on amounts authorized under this section and setforth geographical limitations on the aggregate amounts of military assistance to be made available and percentage deviations from such ceiling amounts.
+Subsec. (c). Pub. L. 93–189, §25(9), struck out subsec. (c) which provided for Presidential waiver of limitations on amounts authorized under this section and set forth geographical limitations on the aggregate amounts of military assistance to be made available and percentage deviations from such ceiling amounts.
 
 1972—Subsec. (a). Pub. L. 92–226, §401(c), substituted “$100,000,000” for “$75,000,000”.
 

@@ -54,7 +54,7 @@ The Secretary may make grants to any eligible coastal state to assist that state
 
 (2) Grants provided under this section may be used to pay a coastal state's share of costs required under any other Federal program that is consistent with the purposes of this section.
 
-(3) The total amount of grants made under this section to any eligible coastal state for any fiscal year may not exceed an amount equal to 10 per centum of the total amount appropriated to carry out this section for such fiscal year.
+(3) The total amount of grants made under this section to any eligible coastal state for anyfiscal year may not exceed an amount equal to 10 per centum of the total amount appropriated to carry out this section for such fiscal year.
 
 #### (e) Allocation of grants to local governments and other agencies
 

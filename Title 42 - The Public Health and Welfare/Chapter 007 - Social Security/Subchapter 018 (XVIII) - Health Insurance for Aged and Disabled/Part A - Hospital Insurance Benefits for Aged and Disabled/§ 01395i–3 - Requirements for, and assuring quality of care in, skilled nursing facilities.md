@@ -136,9 +136,9 @@ In this subchapter, the term “skilled nursing facility” means an institution
 
 &emsp;&emsp;&emsp;&emsp;(III) the facility either has only patients whose physicians have indicated (through physicians’ orders or admission notes) that each such patient does not require the services of a registered nurse or a physician for a 48-hour period, or has made arrangements for a registered professional nurse or a physician to spend such time at such facility as may be indicated as necessary by the physician to provide necessary skilled nursing services on days when the regular full-time registered professional nurse is not on duty,
 
-&emsp;&emsp;&emsp;&emsp;(IV) the Secretary provides notice of the waiver to the State long-term care ombudsman (established under section 307(a)(12) of the Older Americans Act of 1965 \[42 U.S.C. 3027(a)(12)\]) and the protection and advocacy system in the State for the mentally ill and the mentally retarded, and
+&emsp;&emsp;&emsp;&emsp;(IV) the Secretary provides notice of the waiver to the State long-term care ombudsman (established under section 307(a)(12) <sup>2</sup> of the Older Americans Act of 1965) and the protection and advocacy system in the State for the mentally ill and the mentally retarded, and
 
-&emsp;&emsp;&emsp;&emsp;(V) the facility that is granted such a waiver notifies residents of the facility (or, where appropriate, the guardians or legal representatives of such residents) and members of their immediate families of the waiver.
+&emsp;&emsp;&emsp;&emsp;(V) the facility that is granted such a waiver notifies residents of the facility\(or, where appropriate, the guardians or legal representatives of such residents) and members of their immediate families of the waiver.
 
 &emsp;&emsp;&nbsp;A waiver under this subparagraph shall be subject to annual renewal.
 
@@ -148,7 +148,7 @@ In this subchapter, the term “skilled nursing facility” means an institution
 
 &emsp;&emsp;(i) Except as provided in clause (ii), a skilled nursing facility must not use on a full-time basis any individual as a nurse aide in the facility on or after October 1, 1990 for more than 4 months unless the individual—
 
-&emsp;&emsp;&emsp;(I) has completed a training and competency evaluation program, or a competency evaluation program, approved bythe State under subsection (e)(1)(A) of this section, and
+&emsp;&emsp;&emsp;(I) has completed a training and competency evaluation program, or a competency evaluation program, approved by the State under subsection (e)(1)(A) of this section, and
 
 &emsp;&emsp;&emsp;(II) is competent to provide nursing or nursing-related services.
 
@@ -156,7 +156,7 @@ In this subchapter, the term “skilled nursing facility” means an institution
 
 #### (B) Offering competency evaluation programs for current employees
 
-&emsp;&emsp;A skilled nursing facility must provide, for individuals used as a nurse aide <sup>2</sup> by the facility as of January 1, 1990, for a competency evaluation program approved by the State under subsection (e)(1) of this section and such preparation as may be necessary for the individual to complete such a program by October 1, 1990.
+&emsp;&emsp;A skilled nursing facility must provide, for individuals used as a nurse aide <sup>3</sup> by the facility as of January 1, 1990, for a competency evaluation program approved by the State under subsection (e)(1) of this section and such preparation as may be necessary for the individual to complete such a program by October 1, 1990.
 
 #### (C) Competency
 
@@ -286,7 +286,7 @@ In this subchapter, the term “skilled nursing facility” means an institution
 
 #### (A) In general
 
-&emsp;&emsp;A skilled nursing facility must permit each resident to remain in the facility andmust not transfer or discharge the resident from the facility unless—
+&emsp;&emsp;A skilled nursing facility must permit each resident to remain in the facility and must not transfer or discharge the resident from the facility unless—
 
 &emsp;&emsp;&emsp;(i) the transfer or discharge is necessary to meet the resident's welfare and the resident's welfare cannot be met in the facility;
 
@@ -364,7 +364,7 @@ In this subchapter, the term “skilled nursing facility” means an institution
 
 &emsp;&emsp;With respect to admissions practices, a skilled nursing facility must—
 
-&emsp;&emsp;&emsp;(i)(I) not require individuals applying to reside or residing in the facility to waive their rights to benefits under this subchapter or under a State plan under subchapter XIX of this chapter, (II) not require oral or written assurance that such individuals are not eligible for, or will not apply for, benefits under this subchapter or such a State plan, and (III) prominently display in the facility and provide to such individuals written information about how to apply for and use such benefits and howto receive refunds for previous payments covered by such benefits; and
+&emsp;&emsp;&emsp;(i)(I) not require individuals applying to reside or residing in the facility to waive their rights to benefits under this subchapter or under a State plan under subchapter XIX of this chapter, (II) not require oral or written assurance that such individuals are not eligible for, or will not apply for, benefits under this subchapter or such a State plan, and (III) prominently display in the facility and provide to such individuals written information about how to apply for and use such benefits and how to receive refunds for previous payments covered by such benefits; and
 
 &emsp;&emsp;&emsp;(ii) not require a third party guarantee of payment to the facility as a condition of admission (or expedited admission) to, or continued stay in, the facility.
 
@@ -394,7 +394,7 @@ In this subchapter, the term “skilled nursing facility” means an institution
 
 #### (i) Deposit
 
-&emsp;&emsp;&emsp;The facility must deposit any amount of personal funds in excess of $100 with respect to a resident in an interest bearing account (or accounts) that is separate from any of the facility's operating accounts and credits <sup>3</sup> all interest earned on such separate account to such account. With respect to any other personal funds, the facility must maintain such funds in a non-interest bearing account or petty cash fund.
+&emsp;&emsp;&emsp;The facility must deposit any amount of personal funds in excess of $100 with respect to a resident in an interest bearing account (or accounts) that is separate from any of the facility's operating accounts and credits <sup>4</sup> all interest earned on such separate account to such account. With respect to any other personal funds, the facility must maintain such funds in a non-interest bearing account or petty cash fund.
 
 #### (ii) Accounting and records
 
@@ -418,7 +418,7 @@ In this subchapter, the term “skilled nursing facility” means an institution
 
 #### (A) In general
 
-&emsp;&emsp;A skilled nursing facility must be administered in a manner that enables it to use its resources effectively and efficiently to attain or maintain the highest practicable physical <sup>4</sup> mental, and psychosocial well-being of each resident (consistent with requirements established under subsection (f)(5) of this section).
+&emsp;&emsp;A skilled nursing facility must be administered in a manner that enables it to use its resources effectively and efficiently to attain or maintain the highest practicable physical <sup>5</sup> mental, and psychosocial well-being of each resident (consistent with requirements established under subsection (f)(5) of this section).
 
 #### (B) Required notices
 
@@ -432,7 +432,7 @@ In this subchapter, the term “skilled nursing facility” means an institution
 
 &emsp;&emsp;&emsp;(iv) the individual who is the administrator or director of nursing of the facility,
 
-> &emsp;&emsp;the skilled nursing facility must provide notice to the State agency responsible for the licensing of the facility, at the time of the change, of the change and of the identity of each new person, company, or individual described in the respective clause.
+> &emsp;&emsp;the skilled nursing facility must provide notice to the State agency responsible for the licensing of the facility, at the time of the change, of the change and of the identity ofeach new person, company, or individual described in the respective clause.
 
 #### (C) Skilled nursing facility administrator
 
@@ -500,7 +500,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 #### (3) State appeals process for transfers and discharges
 
-&emsp;The State, for transfers and discharges from skilled nursing facilities effected on or after October 1, 1989, must provide for a fair mechanism for hearing appeals on transfers and discharges of residents of such facilities. Such mechanism must meet the guidelines established by the Secretary under subsection (f)(3) of this section; but the failure of the Secretary to establish such guidelines shall not relieve any State of its responsibility to provide for such a fair mechanism.
+&emsp;The State, for transfers and discharges from skilled nursing facilities effected on or afterOctober 1, 1989, must provide for a fair mechanism for hearing appeals on transfers and discharges of residents of such facilities. Such mechanism must meet the guidelines established by the Secretary under subsection (f)(3) of this section; but the failure of the Secretary to establish such guidelines shall not relieve any State of its responsibility to provide for such a fair mechanism.
 
 #### (4) Skilled nursing facility administrator standards
 
@@ -538,7 +538,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 &emsp;&emsp;&emsp;&emsp;(II) prohibit the imposition on a nurse aide who is employed by (or who has received an offer of employment from) a facility on the date on which the aide begins either such program of any charges (including any charges for textbooks and other required course materials and any charges for the competency evaluation) for either such program, and
 
-&emsp;&emsp;&emsp;&emsp;(III) in the case of a nurse aide not described in subclause (II) who is employed by (or who has received an offer of employment from) a facility not later than 12 months after completing either such program, the State shall provide for the reimbursement of costs incurred in completing such program on a prorata <sup>5</sup> basis during the period in which the nurse aide is so employed.
+&emsp;&emsp;&emsp;&emsp;(III) in the case of a nurse aide not described in subclause (II) who is employed by (or who has received an offer of employment from) a facility not later than 12 months after completing either such program, the State shall provide for the reimbursement of costs incurred in completing such program on a prorata <sup>6</sup> basis during the period in which the nurse aide is so employed.
 
 #### (B) Approval of certain programs
 
@@ -556,7 +556,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(b) has been subject to an extended (or partial extended) survey under subsection (g)(2)(B)(i) of this section or section 1396r(g)(2)(B)(i) of this title, unless the survey shows that the facility is in compliance with the requirements of subsections (b), (c), and (d) of this section; or
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(c) has been assessed a civil money penalty described in subsection (h)(2)(B)(ii) of this section or section 1396r(h)(2)(A)(ii) of this title of not less than $5,000, or has been subject to a remedy described in clause (i) or (iii) ofsubsection (h)(2)(B) of this section, subsection (h)(4) of this section, section 1396r(h)(1)(B)(i) of this title, or in clause (i), (iii), or (iv) of section 1396r(h)(2)(A) of this title, or
+&emsp;&emsp;&emsp;&emsp;&emsp;(c) has been assessed a civil money penalty described in subsection (h)(2)(B)(ii) of this section or section 1396r(h)(2)(A)(ii) of this title of not less than $5,000, or has been subject to a remedy described in clause (i) or (iii) of subsection (h)(2)(B) of this section, subsection (h)(4) of this section, section 1396r(h)(1)(B)(i) of this title, or in clause (i), (iii), or (iv) of section 1396r(h)(2)(A) of this title, or
 
 &emsp;&emsp;&emsp;&emsp;(II) offered by or in a skilled nursing facility unless the State makes the determination, upon an individual's completion of the program, that the individual is competent to provide nursing and nursing-related services in skilled nursing facilities.
 
@@ -864,7 +864,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 #### (3) Effective period of denial of payment
 
-&emsp;A finding to deny payment under this subsection shall terminate when the Secretary finds that the facility is in substantial compliance with all the requirements of subsections (b), (c), and (d) of this section.
+&emsp;A finding to deny payment under this subsection shall terminate when the Secretaryfinds that the facility is in substantial compliance with all the requirements of subsections (b), (c), and (d) of this section.
 
 #### (4) Immediate termination of participation for facility where Secretary finds noncompliance and immediate jeopardy
 
@@ -872,7 +872,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 #### (5) Construction
 
-&emsp;The remedies provided under this subsection are in addition to those otherwise available under State or Federal law and shall not be construed as limiting such other remedies, including any remedy available to an individual at common law. The remedies described in clauses (i),<sup>6</sup> and (iii) of paragraph (2)(B) may be imposed during the pendency of any hearing.
+&emsp;The remedies provided under this subsection are in addition to those otherwise available under State or Federal law and shall not be construed as limiting such other remedies, including any remedy available to an individual at common law. The remedies described in clauses (i),<sup>7</sup> and (iii) of paragraph (2)(B) may be imposed during the pendency of any hearing.
 
 #### (6) Sharing of information
 
@@ -882,11 +882,25 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 Where requirements or obligations under this section are identical to those provided under section 1396r of this title, the fulfillment of those requirements or obligations under section 1396r of this title shall be considered to be the fulfillment of the corresponding requirements or obligations under this section.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1819, as added and amended Pub. L. 100–203, title IV, §§4201(a)(3), 4202(a)(2), 4203(a)(2), 4206, Dec. 22, 1987, 101 Stat. 1330–160, 1330–175, 1330–179, 1330–182; Pub. L. 100–360, title IV, §411(<i>l</i>)(1)(A), (2)(A)–(D), (F)–(L)(i), (4), (5), (7), (11), July 1, 1988, 102 Stat. 800–805, as amended Pub. L. 100–485, title VI, §608(d)(27)(A), (C), (D), (I), (L), Oct. 13, 1988, 102 Stat. 2422, 2423; Pub. L. 101–239, title VI, §6901(b)(1), (3), (d)(4), Dec. 19, 1989, 103 Stat. 2298, 2301; Pub. L. 101–508, title IV, §§4008(h)(1)(B)–(F)(i), (G), (2)(B)–(N), (m)(3)(F)\[(E)\], 4206(d)(1), Nov. 5, 1990, 104 Stat. 1388–46 to 1388–50, 1388–54, 1388–116; Pub. L. 102–375, title VII, §708(a)(1)(A), Sept. 30, 1992, 106 Stat. 1291; Pub. L. 103–432, title I, §§106(c)(1)(A), (2)(A), (3)(A), (4)(A), (B), (d)(1)–(5), 110(b), Oct. 31, 1994, 108 Stat. 4406–4408; Pub. L. 105–15, §1, May 15, 1997, 111 Stat. 34; Pub. L. 105–33, title IV, §§4432(b)(5)(A), 4755(a), Aug. 5, 1997, 111 Stat. 421, 526.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1819, as added and amended Pub. L. 100–203, title IV, §§4201(a)(3), 4202(a)(2), 4203(a)(2), 4206, Dec. 22, 1987, 101 Stat. 1330–160, 1330–175, 1330–179, 1330–182; Pub. L. 100–360, title IV, §411(<i>l</i>)(1)(A), (2)(A)–(D), (F)–(L)(i), (4), (5), (7), (11), July 1, 1988, 102 Stat. 800–805, as amended Pub. L. 100–485, title VI, §608(d)(27)(A), (C), (D), (I), (L), Oct. 13, 1988, 102 Stat. 2422, 2423; Pub. L. 101–239, title VI, §6901(b)(1), (3), (d)(4), Dec. 19, 1989, 103 Stat. 2298, 2301; Pub. L. 101–508, title IV, §§4008(h)(1)(B)–(F)(i), (G), (2)(B)–(N), (m)(3)(F)\[(E)\], 4206(d)(1), Nov. 5, 1990, 104 Stat. 1388–46 to 1388–50, 1388–54, 1388–116; Pub. L. 102–375, title VII, §708(a)(1)(A), Sept. 30, 1992, 106 Stat. 1291; Pub. L. 103–432, title I, §§106(c)(1)(A), (2)(A), (3)(A), (4)(A), (B), (d)(1)–(5), 110(b), Oct. 31, 1994, 108 Stat. 4406–4408; Pub. L. 105–15, §1, May 15, 1997, 111 Stat. 34; Pub. L. 105–33, title IV, §§4432(b)(5)(A), 4755(a), Aug. 5, 1997, 111 Stat. 421, 526; Pub. L. 106–554, §1(a)(6) \[title IX, §941(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–585.)
+
+#### Enactment of Subsection (b)(8)
+
+<i>Pub. L. 106–554, §1(a)(6) \[title IX, §941(a), (c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–585, 2763A–586, provided that, effective Jan. 1, 2003, subsec. (b) of this section is amended by adding par. (8) at end to read as follows:</i>
+
+#### <i>(8) Information on nurse staffing</i>
+
+#### <i>(A) In general</i>
+
+&emsp;&emsp;<i>A skilled nursing facility shall post daily for each shift the current number of licensed and unlicensed nursing staff directly responsible for resident care in the facility. The information shall be displayed in a uniform manner (as specified by the Secretary) and in a clearly visible place.</i>
+
+#### <i>(B) Publication of data</i>
+
+&emsp;&emsp;<i>A skilled nursing facility shall, upon request, make available to the public the nursing staff data described in subparagraph (A).</i>
 
 #### References in Text
 
-The Older Americans Act of 1965, referred to in subsecs. (c)(2)(B)(iii)(II) and (g)(5)(B), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, as amended. Titles III and VII of the Act are classified generally to subchapters III (§3021 et seq.) and XI (§3058 et seq.) of chapter 35 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
+The Older Americans Act of 1965, referred to in subsecs. (b)(4)(C)(ii)(IV), (c)(2)(B)(iii)(II), and (g)(5)(B), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, as amended. Section 307(a)(12) of the Act was repealed by Pub. L. 106–501, title III, §306(5), Nov. 13, 2000, 114 Stat. 2244. Similar provisions are now contained in section 307(a)(9) of the Act, which is classified to section 3027(a)(9) of this title. Titles III and VII of the Act are classified generally to subchapters III (§3021 et seq.) and XI (§3058 et seq.) of chapter 35 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
 
 Subparagraphs (B), (C), and (D) of section 6901(b)(4) of the Omnibus Budget Reconciliation Act of 1989 \[Pub. L. 101–239\], referred to in subsec. (e)(2)(A), are set out below.
 
@@ -934,7 +948,7 @@ Subsec. (b)(4)(A)(vii). Pub. L. 101–508, §4008(h)(2)(D), added cl. (vii).
 
 Subsec. (b)(4)(C)(ii)(IV), (V). Pub. L. 101–508, §4008(h)(2)(E), added subcls. (IV) and (V).
 
-Subsec. (b)(5)(A). Pub. L. 101–508, §4008(h)(1)(B), designated existing provisions as cl. (i), in introductory provisions substituted “Except as provided in clause (ii), a skilled nursing facility” for “A skilled nursingfacility” and “on a full-time basis” for “(on a full-time, temporary, per diem, or other basis)”, redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, and added cl. (ii).
+Subsec. (b)(5)(A). Pub. L. 101–508, §4008(h)(1)(B), designated existing provisions as cl. (i), in introductory provisions substituted “Except as provided in clause (ii), a skilled nursing facility” for “A skilled nursing facility” and “on a full-time basis” for “(on a full-time, temporary, per diem, or other basis)”, redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, and added cl. (ii).
 
 Subsec. (b)(5)(C). Pub. L. 101–508, §4008(h)(1)(C), substituted “any State registry established under subsection (e)(2)(A) of this section that the facility believes will include information” for “the State registry established under subsection (e)(2)(A) of this section as to information in the registry”.
 
@@ -1014,7 +1028,7 @@ Subsec. (c)(2)(A)(v). Pub. L. 100–360, §411(<i>l</i>)(2)(F), substituted “f
 
 Subsec. (c)(6). Pub. L. 100–360, §411(<i>l</i>)(2)(G), substituted “upon the written” for “once the facility accepts the written” in subpar. (A)(ii), and “Upon written” for “Upon a facility's acceptance of written” in subpar. (B).
 
-Subsec. (e)(1)(A). Pub. L. 100–360, §411(<i>l</i>)(1)(A)(v), formerly §411(<i>l</i>)(1)(A)(iv), as redesignated by Pub. L.100–485, §608(d)(27)(A), substituted “January” for “March”.
+Subsec. (e)(1)(A). Pub. L. 100–360, §411(<i>l</i>)(1)(A)(v), formerly §411(<i>l</i>)(1)(A)(iv), as redesignated by Pub. L. 100–485, §608(d)(27)(A), substituted “January” for “March”.
 
 Subsec. (e)(1)(B). Pub. L. 100–360, §411(<i>l</i>)(1)(A)(vi), formerly §411(<i>l</i>)(1)(A)(v), as redesignated by Pub. L. 100–485, §608(d)(27)(A), substituted “January” for “March”.
 
@@ -1063,6 +1077,10 @@ Subsec. (h)(5). Pub. L. 100–360, §411(<i>l</i>)(11), as added by Pub. L. 100�
 Subsec. (h)(6). Pub. L. 100–360, §411(<i>l</i>)(7)(B), inserted “by such facilities” after “be made available”.
 
 1987—Subsecs. (g) to (i). Pub. L. 100–203, §§4202(a)(2), 4203(a)(2), 4206, added subsecs. (g), (h), and (i), respectively.
+
+#### Effective Date of 2000 Amendment
+
+Pub. L. 106–554, §1(a)(6) \[title IX, §941(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–586, provided that: “The amendments made by this section \[amending this section and section 1396r of this title\] shall take effect on January 1, 2003.”
 
 #### Effective Date of 1997 Amendment
 
@@ -1140,7 +1158,7 @@ Except as specifically provided in section 411 of Pub. L. 100–360, amendment b
 
 #### Effective Date
 
-Section 4204 of title IV of Pub. L. 100–203, as amended by Pub. L. 100–360, title IV, §411(<i>l</i>)(9), July 1, 1988, 102 Stat. 805; Pub. L. 100–485, title VI, §608(d)(27)(K), Oct. 13, 1988, 102 Stat. 2423, provided that:
+Section 4204 of title IV of Pub. L. 100–203, as amended by Pub. L. 100–360, title IV, §411(<i>l</i>)(9), July 1, 1988, 102Stat. 805; Pub. L. 100–485, title VI, §608(d)(27)(K), Oct. 13, 1988, 102 Stat. 2423, provided that:
 
 “(a)
 
@@ -1172,7 +1190,7 @@ Study.—The Secretary of Health and Human Services shall conduct a study that�
 
 “(b)
 
-Report.—Not later than 18 months after the date of enactment of this Act \[Nov. 29, 1999\], the Secretary of Health and Human Services shall submit to Congress a report on the results of the study conducted under this section, together with any recommendations forlegislation that the Secretary determines to be appropriate as a result of such study.”
+Report.—Not later than 18 months after the date of enactment of this Act \[Nov. 29, 1999\], the Secretary of Health and Human Services shall submit to Congress a report on the results of the study conducted under this section, together with any recommendations for legislation that the Secretary determines to be appropriate as a result of such study.”
 
 #### Retroactive Review
 
@@ -1208,7 +1226,7 @@ Section 6901(b)(4)(B)–(D) of Pub. L. 101–239 provided that:
 
 “(B) A nurse aide shall be considered to satisfy the requirement of sections 1819(b)(5)(A) and 1919(b)(5)(A) of the Social Security Act \[subsec. (b)(5)(A) of this section and section 1396r(b)(5)(A) of this title\] (of having completed a training and competency evaluation program approved by a State under section 1819(e)(1)(A) or 1919(e)(1)(A) of such Act \[subsec. (e)(1)(A) of this section and section 1396r(e)(1)(A) of this title\]), if such aide would have satisfied such requirement as of July 1, 1989, if a number of hours (not less than 60 hours) were substituted for ‘75 hours’ in sections 1819(f)(2) and 1919(f)(2) of such Act \[subsec. (f)(2) of this section and section 1396r(f)(2) of this title\], respectively, and if such aide had received, before July 1, 1989, at least the difference in the number of such hours in supervised practical nurse aide training or in regular in-service nurse aide education.
 
-“(C) A nurse aide shall be considered to satisfy the requirement of sections 1819(b)(5)(A) and 1919(b)(5)(A) of the Social Security Act (of having completed a training and competency evaluation program approved by a State under section 1819(e)(1)(A) or 1919(e)(1)(A) of such Act), if such aide was found competent (whether or not by the State), before July 1, 1989, after the completion of a course of nurse aide training of at least 100 hours duration.
+“(C) A nurse aide shall be considered to satisfy the requirement of sections 1819(b)(5)(A) and 1919(b)(5)(A) of the Social Security Act (of having completed a training and competency evaluation program approved by a State under section 1819(e)(1)(A) or 1919(e)(1)(A) of suchAct), if such aide was found competent (whether or not by the State), before July 1, 1989, after the completion of a course of nurse aide training of at least 100 hours duration.
 
 “(D) With respect to the nurse aide competency evaluation requirements described in sections 1819(b)(5)(A) and 1919(b)(5)(A) of the Social Security Act, a State may waive such requirements with respect to an individual who can demonstrate to the satisfaction of the State that such individual has served as a nurse aide at one or more facilities of the same employer in the State for at least 24 consecutive months before the date of the enactment of this Act \[Dec. 19, 1989\].”
 
@@ -1226,13 +1244,15 @@ This section is referred to in sections 1395x, 1395aa, 1395bb, 1395cc, 1395tt, 1
 
 <i><sup>1</sup></i><i> So in original.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “as nurse aides”.</i>
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “credit”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be “as nurse aides”.</i>
 
-<i><sup>4</sup></i><i> So in original. Probably should be followed by a comma.</i>
+<i><sup>4</sup></i><i> So in original. Probably should be “credit”.</i>
 
-<i><sup>5</sup></i><i> So in original. Probably should be “pro rata”.</i>
+<i><sup>5</sup></i><i> So in original. Probably should be followed by a comma.</i>
 
-<i><sup>6</sup></i><i> So in original. The comma probably should not appear.</i>
+<i><sup>6</sup></i><i> So in original. Probably should be “pro rata”.</i>
+
+<i><sup>7</sup></i><i> So in original. The comma probably should not appear.</i>
 

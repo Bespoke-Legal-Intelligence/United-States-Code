@@ -6,7 +6,7 @@
 
 #### (A) Withdrawal of petition
 
-&emsp;&emsp;Except as provided in paragraphs (2) and (3), an investigation under this part may be terminated by either the administering authority or the Commission, after notice to all parties to the investigation, upon withdrawal of the petition by the petitioner or by the administering authority if the investigation was initiated under section 1673a(a) of this title.
+&emsp;&emsp;Except as provided in paragraphs (2) and (3), an investigation under this part may beterminated by either the administering authority or the Commission, after notice to all parties to the investigation, upon withdrawal of the petition by the petitioner or by the administering authority if the investigation was initiated under section 1673a(a) of this title.
 
 #### (B) Refiling of petition
 
@@ -162,7 +162,7 @@ If the administering authority, within 20 days after the date of publication of 
 
 #### (3) Suspension of liquidation to continue during review period
 
-&emsp;The suspension of liquidation of entries of the subject merchandise shall terminate atthe close of the 20-day period beginning on the day after the date on which notice of suspension of the investigation is published in the Federal Register, or, if a review petition is filed under paragraph (1) with respect to the suspension of the investigation, in the case of an affirmative determination by the Commission under paragraph (2), the date on which notice of an affirmative determination by the Commission is published. If the determination of the Commission under paragraph (2) is affirmative, then the administering authority shall—
+&emsp;The suspension of liquidation of entries of the subject merchandise shall terminate at the close of the 20-day period beginning on the day after the date on which notice of suspension of the investigation is published in the Federal Register, or, if a review petition is filed under paragraph (1) with respect to the suspension of the investigation, in the case of an affirmative determination by the Commission under paragraph (2), the date on which notice of an affirmative determination by the Commission is published. If the determination of the Commission under paragraph (2) is affirmative, then the administering authority shall—
 
 &emsp;&emsp;(A) terminate the suspension of liquidation under section 1673b(d)(2) of this title, and
 
@@ -286,7 +286,7 @@ Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the d
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–418 applicable with respect to investigations initiated after Aug. 23, 1988, and to reviews initiated under section 1673e(c) or 1675 of this title after Aug. 23, 1988, see section 1337(b) of Pub. L. 100–418, set out as a note under section 1671 of this title.
+Amendment by Pub. L. 100–418 applicable with respect to investigations initiated after Aug. 23, 1988, andto reviews initiated under section 1673e(c) or 1675 of this title after Aug. 23, 1988, see section 1337(b) of Pub. L. 100–418, set out as a note under section 1671 of this title.
 
 #### Effective Date of 1984 Amendment
 

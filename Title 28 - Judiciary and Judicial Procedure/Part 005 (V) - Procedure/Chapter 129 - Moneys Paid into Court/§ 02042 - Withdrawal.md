@@ -20,15 +20,7 @@ In U. S. Law Week, Nov. 7, 1939, Rep. Walter Chandler (Author of Chandler Act, B
 
 #### Amendments
 
-1982—Pub. L. 97–258 inserted references to section 2041 in two places.
-
-#### Federal Rules of Civil Procedure
-
-Deposit in court, see rule 67, Appendix to this title.
-
-#### Cross References
-
-Unclaimed moneys, see section 347 of Title 11, Bankruptcy.
+<b>1982</b>—Pub. L. 97–258 inserted references to section 2041 in two places.
 
 #### Section Referred to in Other Sections
 

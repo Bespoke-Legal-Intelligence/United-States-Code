@@ -34,7 +34,7 @@ Section 263a–7 of this title, referred to in subsec. (a), was in the original 
 
 #### Codification
 
-Section was enacted as part of the Fertility Clinic Success Rate and Certification Act of 1992, and not as part of the Public Health Service Act which comprises this chapter.
+Section was enacted as part of the Fertility Clinic Success Rate and Certification Act of 1992, and not aspart of the Public Health Service Act which comprises this chapter.
 
 #### Change of Name
 

@@ -6,7 +6,7 @@ Congress expressly reserves to the United States the minimum amount of water req
 
 #### (b) Effect on existing valid or vested water rights
 
-Nothing in this section shall affect any existing valid or vested water right, or applications for water rights which are pending as of December 31, 1987, and which are subsequently granted:<i>Provided</i>, That nothing in this subsection shall be construed to require the National Park Service to allow the drilling of ground water wells within the boundaries of the national monument.
+Nothing in this section shall affect any existing valid or vested water right, or applications for water rights which are pending as of December 31, 1987, and which are subsequently granted: <i>Provided</i>, That nothing in this subsection shall be construed to require the National Park Service to allow the drilling of ground water wells within the boundaries of the national monument.
 
 #### (c) Construction of section as precedent with regard to future designations
 

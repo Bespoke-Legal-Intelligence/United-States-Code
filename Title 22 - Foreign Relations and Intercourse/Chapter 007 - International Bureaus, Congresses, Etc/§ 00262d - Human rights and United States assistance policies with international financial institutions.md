@@ -28,7 +28,7 @@ Further, the Secretary of the Treasury shall instruct each Executive Director of
 
 #### (c) Reporting requirements
 
-(1) Not later than 30 days after the end of each calendar quarter, the Secretary of the Treasury shall report quarterly on all loans considered by the Boards of Executive Directors of the institutions listed in subsection (a) of this section to the Chairman and ranking minority member of the Committee on Banking, Finance and Urban Affairs of the House of Representatives, or the designees of such Chairman and ranking minority member, and the Chairman and ranking minority member of the Committee on Foreign Relations of the Senate.
+(1) The Secretary of the Treasury shall report annually on all loans considered by the Boards of Executive Directors of the institutions listed in subsection (a) of this section to the Chairman and ranking minority member of the Committee on Banking, Finance and Urban Affairs of the House of Representatives, or the designees of such Chairman and ranking minority member, and the Chairman and ranking minority member of the Committee on Foreign Relations of the Senate.
 
 (2) Each report required by paragraph (1) shall—
 
@@ -68,7 +68,7 @@ Further, the Secretary of the Treasury shall instruct each Executive Director of
 
 #### (d) Requirements of United States assistance through institutions for projects in recipient countries
 
-The United States Government, in connection with its voice and vote in the institutions listed in subsection (a) of this section, shall seek to channel assistance to projects which address basic human needs of the people of the recipient country.
+The United States Government, in connection with its voice and vote in the institutions listedin subsection (a) of this section, shall seek to channel assistance to projects which address basic human needs of the people of the recipient country.
 
 #### (e) Criteria for determination of gross violations of internationally recognized human rights standards
 
@@ -90,9 +90,11 @@ In determining whether the government of a country engages in a pattern of gross
 
 &emsp;(2) has failed to undertake serious and sustained efforts to combat particularly severe violations of religious freedom when such efforts could have been reasonably undertaken.
 
-(Pub. L. 95–118, title VII, §701, Oct. 3, 1977, 91 Stat. 1069; Pub. L. 96–259, title V, §501(a), (b), June 3, 1980, 94 Stat. 431, 432; Pub. L. 97–35, title XIII, §1342(b), Aug. 13, 1981, 95 Stat. 743; Pub. L. 97–375, title II, §211, Dec. 21, 1982, 96 Stat. 1826; Pub. L. 98–181, title X, §1004, Nov. 30, 1983, 97 Stat. 1286; Pub. L. 101–240, title V, §541(c), (d)(4), (e)(8), Dec. 19, 1989, 103 Stat. 2517–2519; Pub. L. 101–513, title V, §562(b)(2), Nov. 5, 1990, 104 Stat. 2034; Pub. L. 102–511, title X, §1008, Oct. 24, 1992, 106 Stat. 3361; Pub. L. 103–236, title VIII, §823(b), Apr. 30, 1994, 108 Stat. 512; Pub. L. 105–292, title IV, §422, Oct. 27, 1998, 112 Stat. 2810.)
+(Pub. L. 95–118, title VII, §701, Oct. 3, 1977, 91 Stat. 1069; Pub. L. 96–259, title V, §501(a), (b), June 3, 1980, 94 Stat. 431, 432; Pub. L. 97–35, title XIII, §1342(b), Aug. 13, 1981, 95 Stat. 743; Pub. L. 97–375, title II, §211, Dec. 21, 1982, 96 Stat. 1826; Pub. L. 98–181, title X, §1004, Nov. 30, 1983, 97 Stat. 1286; Pub. L. 101–240, title V, §541(c), (d)(4), (e)(8), Dec. 19, 1989, 103 Stat. 2517–2519; Pub. L. 101–513, title V, §562(b)(2), Nov. 5, 1990, 104 Stat. 2034; Pub. L. 102–511, title X, §1008, Oct. 24, 1992, 106 Stat. 3361; Pub. L. 103–236, title VIII, §823(b), Apr. 30, 1994, 108 Stat. 512; Pub. L. 105–292, title IV, §422, Oct. 27, 1998, 112 Stat. 2810; Pub. L. 106–569, title XI, §1103(g), Dec. 27, 2000, 114 Stat. 3031.)
 
 #### Amendments
+
+2000—Subsec. (c)(1). Pub. L. 106–569 substituted “The Secretary of the Treasury shall report annually” for “Not later than 30 days after the end of each calendar quarter, the Secretary of the Treasury shall report quarterly”.
 
 1998—Subsec. (g). Pub. L. 105–292 added subsec. (g) relating to violations of religious freedom.
 
@@ -124,11 +126,11 @@ Subsec. (g). Pub. L. 96–259, §501(b), added subsec. (g).
 
 #### Change of Name
 
-Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced byCommittee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–236 effective 60 days after Apr. 30, 1994, see section 831 of Pub. L. 103–236, set outas an Effective Date note under section 6301 of this title.
+Amendment by Pub. L. 103–236 effective 60 days after Apr. 30, 1994, see section 831 of Pub. L. 103–236, set out as an Effective Date note under section 6301 of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -149,12 +151,6 @@ Pub. L. 95–118, title VII, §705, as added by Pub. L. 96–259, title V, §501
 #### Amendment of Articles of Agreement of International Financial Institutions; Establishment of Human Rights Standards To Be Considered in Connection With Assistance Application
 
 Pub. L. 95–481, title VI, §611, Oct. 18, 1978, 92 Stat. 1602, provided that: “The President shall direct the United States Governor of the International Bank for Reconstruction and Development, the United States Governor of the International Finance Corporation, the United States Governor of the International Development Association, the United States Governor of the Inter-American Development Bank, the United States Governor of the Asian Development Bank, and the United States Governor of the African Development Fund, to propose and seek adoption of an amendment to the Articles of Agreement for their respective institutions to establish human rights standards to be considered in connection with each application for assistance.”
-
-#### Cross References
-
-Denial of international development assistance to countries violating human rights, see section 2151n of this title.
-
-Implementation of United States policy opposing the practice of torture by foreign governments, see Pub. L. 98–447, set out as a note under section 2656 of this title.
 
 #### Section Referred to in Other Sections
 

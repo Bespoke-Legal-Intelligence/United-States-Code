@@ -12,14 +12,6 @@ Third. That the association shall not deal in the products of nonmembers to an a
 
 (Feb. 18, 1922, ch. 57, §1, 42 Stat. 388.)
 
-#### Cross References
-
-Agricultural Fair Practices Act of 1967, association of producers as meaning associations referred to in this section, see section 2302 of this title.
-
-“Cooperative association of producers” defined, see section 2 of this title.
-
-Cooperative marketing, see sections 451 to 457 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1a, 457, 608c, 2302, 5623 of this title; title 15 section 57b–5.

@@ -4,10 +4,6 @@ The deputy commissioner may require the appointment by a court of competent juri
 
 (Mar. 4, 1927, ch. 509, §11, 44 Stat. 1431.)
 
-#### Cross References
-
-Additional provisions, see section 908 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 944 of this title.

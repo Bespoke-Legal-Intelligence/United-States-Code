@@ -10,7 +10,7 @@ For the purposes of this chapter—
 
 &emsp;(4) The term “person” means one or more individuals, partnerships, associations, corporations, business trusts, legal representatives, or any organized group of persons.
 
-&emsp;(5) The term “employer” means a person engaged in a business affecting commerce who has employees, but does not include theUnited States (not including the United States Postal Service) or any State or political subdivision of a State.
+&emsp;(5) The term “employer” means a person engaged in a business affecting commerce who has employees, but does not include the United States (not including the United States Postal Service) or any State or political subdivision of a State.
 
 &emsp;(6) The term “employee” means an employee of an employer who is employed in a business of his employer which affects commerce.
 

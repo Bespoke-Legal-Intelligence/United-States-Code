@@ -2,7 +2,7 @@
 
 (a) Each agency shall give the Comptroller General information the Comptroller General requires about the duties, powers, activities, organization, and financial transactions of the agency. The Comptroller General may inspect an agency record to get the information. This subsection does not apply to expenditures made under section 3524 or 3526(e) of this title.
 
-(b)(1) When an agency record is not made available to the Comptroller General within a reasonable time, the Comptroller General may make a written request to the head of the agency. The request shall state the authority for inspecting the records and the reason for the inspection. The head of the agency has 20 days after receiving the request to respond. The response shall describe the record withheld and the reason the record is being withheld. If theComptroller General is not given an opportunity to inspect the record within the 20-day period, the Comptroller General may file a report with the President, the Director of the Office of Management and Budget, the Attorney General, the head of the agency, and Congress.
+(b)(1) When an agency record is not made available to the Comptroller General within a reasonable time, the Comptroller General may make a written request to the head of the agency. The request shall state the authority for inspecting the records and the reason for the inspection. The head of the agency has 20 days after receiving the request to respond. The response shall describe the record withheld and the reason the record is being withheld. If the Comptroller General is not given an opportunity to inspect the record within the 20-day period, the Comptroller General may file a report with the President, the Director of the Office of Management and Budget, the Attorney General, the head of the agency, and Congress.
 
 (2) Through an attorney the Comptroller General designates in writing, the Comptroller General may bring a civil action in the district court of the United States for the District of Columbia to require the head of the agency to produce a record—
 
@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(iii) refers to particular types of records to be withheld from the Comptroller General; or
 
-&emsp;(C) by the 20th day after a report is filed under subsection (b)(1) of this section, the President or the Director certifies to the Comptroller General and Congress that a record could be withheld under section 552(b)(5) or (7) of title 5 and disclosure reasonably could be expected to impair substantially the operations of the Government.
+&emsp;(C) by the 20th day after a report is filed under subsection (b)(1) of this section, thePresident or the Director certifies to the Comptroller General and Congress that a record could be withheld under section 552(b)(5) or (7) of title 5 and disclosure reasonably could be expected to impair substantially the operations of the Government.
 
 (2) The President or the Director may not delegate certification under paragraph (1)(C) of this subsection. A certification shall include a complete explanation of the reasons for the certification.
 

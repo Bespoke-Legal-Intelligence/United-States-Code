@@ -10,7 +10,3 @@ Provisions of R.S. §1822 relating to composition and pay rates of the Capitol p
 
 R.S. §1822 derived from acts Mar. 30, 1867, ch. 20, §1, 15 Stat. 11; Mar. 3, 1871, ch. 113, §1, 16 Stat. 477.
 
-#### Cross References
-
-Pay during suspension, see section 209 of this title.
-

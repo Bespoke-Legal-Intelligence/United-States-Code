@@ -16,7 +16,3 @@ The words “national forests” substituted in text for “forest reservations�
 
 Repeal by Pub. L. 94–579 insofar as applicable to the issuance of rights-of-way not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under section 1701 of this title.
 
-#### Cross References
-
-Right-of-way over public lands for electrical poles and lines, see section 961 of this title.
-

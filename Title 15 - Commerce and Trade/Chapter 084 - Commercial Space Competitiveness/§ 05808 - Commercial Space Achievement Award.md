@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established a Commercial Space Achievement Award. The award shall consist of a medal, which shall be of such design and materials and bear such inscriptions as determined by the Secretary of Commerce. A cash prize may also be awarded if funding for the prize is available under subsection (d) of this section.
+There is established a Commercial Space Achievement Award. The award shall consist ofa medal, which shall be of such design and materials and bear such inscriptions as determined by the Secretary of Commerce. A cash prize may also be awarded if funding for the prize is available under subsection (d) of this section.
 
 #### (b) Criteria for award
 

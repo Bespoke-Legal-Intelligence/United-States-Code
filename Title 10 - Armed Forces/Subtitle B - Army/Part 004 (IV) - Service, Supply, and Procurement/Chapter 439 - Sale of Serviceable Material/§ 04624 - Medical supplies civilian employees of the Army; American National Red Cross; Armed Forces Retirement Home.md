@@ -64,9 +64,3 @@ Amendment by Pub. L. 101–510 effective one year after Nov. 5, 1990, see sectio
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
 
-#### Cross References
-
-Armed Forces Retirement Home, see section 401 et seq. of Title 24, Hospitals and Asylums.
-
-Equipment for instruction and practice, see section 2542 of this title.
-

@@ -2,7 +2,7 @@
 
 Section, act July 1, 1944, ch. 373, title XI, §1106, as added Apr. 22, 1976, Pub. L. 94–278, title IV, §403(a), 90 Stat. 409, related to an annual report to President and Congress on administration of this part.
 
-A prior section 300b–5, act July 1, 1944, ch. 373, title XI, §1106, as added May 16, 1972, Pub. L. 92–294, §3(c), 86 Stat. 139; amended Aug. 29, 1972, Pub. L. 92–414, §4(3), 86 Stat. 652, was identical to this section, prior to the general amendment of this part by Pub. L. 94–278.
+A prior section 300b–5, act July 1, 1944, ch. 373, title XI, §1106, as added May 16, 1972, Pub. L. 92–294, §3(c), 86 Stat. 139; amended Aug. 29, 1972, Pub. L. 92–414, §4(3), 86 Stat. 652, related to an annual report to President and Congress on administration of this part, prior to repeal by Pub. L. 94–278, title IV, §403(a), Apr. 22, 1976, 90 Stat. 407.
 
 #### Effective Date of Repeal, Savings, and Transitional Provisions
 

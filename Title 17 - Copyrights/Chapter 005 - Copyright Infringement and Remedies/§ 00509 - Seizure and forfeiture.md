@@ -10,18 +10,6 @@
 
 1997—Subsec. (b). Pub. L. 105–80 substituted “merchandise, and baggage” for “merchandise; and baggage” before “under the provisions of the customs laws”.
 
-#### Cross References
-
-Acts of infringement subject to this section—
-
-&emsp;&emsp;Making and distributing phonorecords, see section 115 of this title.
-
-&emsp;&emsp;Secondary transmission of primary transmission, see section 111 of this title.
-
-Trafficking in counterfeit labels for phonorecords and copies of motion pictures or other audiovisual works, see section 2318 of Title 18, Crimes and Criminal Procedure.
-
-Works consisting of sounds, images, or both, the first fixation of which is made simultaneously with its transmission, as subject to this section, although not yet registered, see section 411 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 109, 111, 115, 119, 122, 411 of this title; title 18 section 2318; title 19 section 1595a.

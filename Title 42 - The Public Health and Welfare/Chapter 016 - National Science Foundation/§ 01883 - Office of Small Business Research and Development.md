@@ -18,7 +18,7 @@ This Act, referred to in par. (1), is Pub. L. 94–471, Oct. 11, 1976, 90 Stat. 
 
 #### Codification
 
-Section was enacted as part of the National Science Foundation Authorization Act, 1977, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
+Section was enacted as part of the National Science Foundation Authorization Act, 1977, and not as part ofthe National Science Foundation Act of 1950 which comprises this chapter.
 
 #### Amendments
 

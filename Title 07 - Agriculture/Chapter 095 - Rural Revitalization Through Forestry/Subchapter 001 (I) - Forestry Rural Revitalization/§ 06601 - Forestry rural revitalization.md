@@ -28,5 +28,5 @@ The Secretary of Agriculture shall establish specific programs under subsection 
 
 #### Short Title
 
-Section 2372 of Pub. L. 101–624 provided that: “This chapter \[chapter 2 (§§2372–2379) of subtitle G of titleXXIII of Pub. L. 101–624, enacting subchapter II (§6611 et seq.) of this chapter\] may be cited as the ‘National Forest-Dependent Rural Communities Economic Diversification Act of 1990’.”
+Section 2372 of Pub. L. 101–624 provided that: “This chapter \[chapter 2 (§§2372–2379) of subtitle G of title XXIII of Pub. L. 101–624, enacting subchapter II (§6611 et seq.) of this chapter\] may be cited as the ‘National Forest-Dependent Rural Communities Economic Diversification Act of 1990’.”
 

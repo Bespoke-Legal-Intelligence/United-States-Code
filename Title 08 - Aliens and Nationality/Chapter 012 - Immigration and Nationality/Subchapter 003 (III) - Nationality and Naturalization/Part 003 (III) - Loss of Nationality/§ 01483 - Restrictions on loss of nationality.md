@@ -40,13 +40,3 @@ Amendment by Pub. L. 97–116 effective Dec. 29, 1981, see section 21(a) of Pub.
 
 Provisions preserving the right and disavowal of foreign allegiance, see note under section 1481 of this title.
 
-#### Cross References
-
-Definition of the term—
-
-&emsp;&emsp;National of the United States, see section 1101(a)(22) of this title.
-
-&emsp;&emsp;Outlying possessions of the United States, see section 1101(a)(29) of this title.
-
-&emsp;&emsp;United States, see section 1101(a)(38) of this title.
-

@@ -26,6 +26,10 @@ Subsec. (c). Pub. L. 96–464, §10(3), added subsec. (c).
 
 1976—Subsec. (a). Pub. L. 94–370, §13, added cls. (9) to (11) and redesignated former cl. (9) as (12).
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (a) of this section relating to transmittal to Congress of a biennial report summarizing the administration of this chapter, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 53 of House Document No. 103–7.
+
 #### Shellfish Sanitation
 
 Section 16 of Pub. L. 94–370 provided that:

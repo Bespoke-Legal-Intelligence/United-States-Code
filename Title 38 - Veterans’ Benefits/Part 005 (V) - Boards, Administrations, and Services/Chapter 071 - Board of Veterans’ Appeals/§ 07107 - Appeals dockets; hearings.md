@@ -30,7 +30,7 @@
 
 (e)(1) At the request of the Chairman, the Secretary may provide suitable facilities and equipment to the Board or other components of the Department to enable an appellant located at a facility within the area served by a regional office to participate, through voice transmission or through picture and voice transmission, by electronic or other means, in a hearing with a Board member or members sitting at the Board's principal location.
 
-(2) When such facilities and equipment are available, the Chairman may afford the appellant an opportunity to participate in a hearing before the Board through the use of such facilities and equipment in lieu of a hearing held by personally appearing before a Board member or panel as provided in subsection (d). Any suchhearing shall be conducted in the same manner as, and shall be considered the equivalent of, a personal hearing. If the appellant declines to participate in a hearing through the use of such facilities and equipment, the opportunity of the appellant to a hearing as provided in such subsection (d) shall not be affected.
+(2) When such facilities and equipment are available, the Chairman may afford the appellant an opportunity to participate in a hearing before the Board through the use of such facilities and equipment in lieu of a hearing held by personally appearing before a Board member or panel as provided in subsection (d). Any such hearing shall be conducted in the same manner as, and shall be considered the equivalent of, a personal hearing. If the appellant declines to participate in a hearing through the use of such facilities and equipment, the opportunity of the appellant to a hearing as provided in such subsection (d) shall not be affected.
 
 (f) Nothing in this section shall preclude the screening of cases for purposes of—
 
@@ -38,7 +38,7 @@
 
 &emsp;(2) the development, or attempted development, of a record found to be inadequate for decisional purposes.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1242, §4006; renumbered §4007, Pub. L. 87–666, §1, Sept. 19, 1962, 76 Stat. 553; renumbered §7107, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 103–271, §7(a)(1), July 1, 1994, 108 Stat. 742; Pub. L. 103–446, title III, §303, Nov. 2, 1994, 108 Stat. 4658; Pub. L. 105–368, title X, §1003, Nov. 11, 1998, 112 Stat. 3363.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1242, §4006; renumbered §4007, Pub. L. 87–666, §1, Sept. 19,1962, 76 Stat. 553; renumbered §7107, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 103–271, §7(a)(1), July 1, 1994, 108 Stat. 742; Pub. L. 103–446, title III, §303, Nov. 2, 1994, 108 Stat. 4658; Pub. L. 105–368, title X, §1003, Nov. 11, 1998, 112 Stat. 3363.)
 
 #### Amendments
 

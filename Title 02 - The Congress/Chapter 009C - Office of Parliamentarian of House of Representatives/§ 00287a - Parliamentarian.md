@@ -8,7 +8,3 @@ The management, supervision, and administration of the Office shall be vested in
 
 Section is based on section 2 of House Resolution No. 502, Ninety-fifth Congress, Apr. 20, 1977, which was enacted into permanent law by Pub. L. 95–94.
 
-#### Cross References
-
-Parliamentarian to compile precedents of House, see sections 28 and 29 of this title.
-

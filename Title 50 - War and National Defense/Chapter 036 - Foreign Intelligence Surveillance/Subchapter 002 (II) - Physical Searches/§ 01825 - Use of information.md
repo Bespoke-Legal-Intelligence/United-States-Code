@@ -44,7 +44,7 @@ Orders granting motions or requests under subsection (h) of this section, decisi
 
 #### (j) Notification of emergency execution of physical search; contents; postponement, suspension, or elimination
 
-(1) If an emergency execution of a physical search is authorized under section 1824(d) of this title and a subsequent order approving the search is not obtained, the judge shall cause to be served on any United States person named in the application and on such other United States persons subject to the search as the judge may determine in his discretion it is in the interests of justice to serve, notice of—
+(1) If an emergency execution of a physical search is authorized under section 1824(d) <sup>1</sup> of this title and a subsequent order approving the search is not obtained, the judge shall cause to be served on any United States person named in the application and on such other United States persons subject to the search as the judge may determine in his discretion it is in the interests of justice to serve, notice of—
 
 &emsp;(A) the fact of the application;
 
@@ -56,7 +56,13 @@ Orders granting motions or requests under subsection (h) of this section, decisi
 
 (Pub. L. 95–511, title III, §305, as added Pub. L. 103–359, title VIII, §807(a)(3), Oct. 14, 1994, 108 Stat. 3449.)
 
+#### References in Text
+
+Section 1824(d) of this title, referred to in subsec. (j)(1), was redesignated section 1824(e) of this title by Pub. L. 106–567, title VI, §603(b)(1), Dec. 27, 2000, 114 Stat. 2853.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1822, 1826 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

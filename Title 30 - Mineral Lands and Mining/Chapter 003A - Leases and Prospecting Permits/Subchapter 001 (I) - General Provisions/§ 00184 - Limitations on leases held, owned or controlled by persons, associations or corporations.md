@@ -1,26 +1,24 @@
 ### §184. Limitations on leases held, owned or controlled by persons, associations or corporations
 
-#### (a) Coal leases or permits, acreage; regulations
+#### (a) Coal leases
 
-(1) No person, association, or corporation, or any subsidiary, affiliate, or persons controlled by or under common control with such person, association, or corporation shall take, hold, own or control at one time, whether acquired directly from the Secretary under this chapter or otherwise, coal leases, or permits on an aggregate of more than forty-six thousand and eighty acres in any one State and in no case greater than an aggregate of one hundred thousand acres in the United States: <i>Provided</i>, That any person, association, or corporation currently holding, owning, or controlling more than an aggregate of one hundred thousand acres in the United States on the date of enactment of this section shall not be required on account of this section to relinquish said leases or permits: <i>Provided, further</i>, That in no case shall such person, association, or corporation be permitted to take, hold, own, or control any further Federal coal leases or permits until such time as their holdings, ownership, or control of Federal leases or permits has been reduced below an aggregate of one hundred thousand acres within the United States.
-
-(2) Repealed. Pub. L. 94–377, §11(b), Aug. 4, 1976, 90 Stat. 1090.
+No person, association, or corporation, or any subsidiary, affiliate, or persons controlled by or under common control with such person, association, or corporation shall take, hold, own or control at one time, whether acquired directly from the Secretary under this chapter or otherwise, coal leases, or permits on an aggregate of more than 75,000 acres in any one State and in no case greater than an aggregate of 150,000 acres in the United States: <i>Provided</i>, That any person, association, or corporation currently holding, owning, or controlling more than an aggregate of 150,000 acres in the United States on the date of enactment of this section shall not be required on account of this section to relinquish said leases or permits: <i>Provided, further</i>, That in no case shall such person, association, or corporation be permitted to take, hold, own, or control any further Federal coal leases or permits until such time as their holdings, ownership, or control of Federal leases or permits has been reduced below an aggregate of 150,000 acres within the United States.
 
 #### (b) Sodium leases or permits, acreage
 
 (1) No person, association, or corporation, except as otherwise provided in this subsection, shall take, hold, own, or control at one time, whether acquired directly from the Secretary under this chapter, or otherwise, sodium leases or permits on an aggregate of more than five thousand one hundred and twenty acres in any one State.
 
-(2) The Secretary may, in his discretion, where the same is necessary in order to secure the economic mining of sodium compounds leasable under this chapter, permit a person, association, or corporation to take or hold sodium leases or permits on up to fifteen thousand three hundred and sixty acres in any one State.
+(2) The Secretary may, in his discretion, where the same is necessary in order to secure the economic mining of sodium compounds leasable under this chapter, permit a person, association, or corporation to take or hold sodium leases or permits on up to 30,720 acres in any one State.
 
 #### (c) Phosphate leases, acreage
 
-No person, association, or corporation shall take, hold, own, or control at one time, whether acquired directly from the Secretary under this chapter, or otherwise, phosphate leases or permits on an aggregate of more than twenty thousand four hundred and eighty acres in the United States.
+No person, association, or corporation shall take, hold, own, or control at one time, whetheracquired directly from the Secretary under this chapter, or otherwise, phosphate leases or permits on an aggregate of more than twenty thousand four hundred and eighty acres in the United States.
 
 #### (d) Oil or gas leases, acreage, Alaska; options, semi-annual statements
 
 (1) No person, association, or corporation, except as otherwise provided in this chapter, shall take, hold, own or control at one time whether acquired directly from the Secretary under this chapter, or otherwise, oil or gas leases (including options for such leases or interests therein) on land held under the provisions of this chapter exceeding in the aggregate two hundred forty-six thousand and eighty acres in any one State other than Alaska <sup>1</sup> <i>Provided, however</i>, That acreage held in special tar sand areas shall not be chargeable against such State limitations. In the case of the State of Alaska, the limit shall be three hundred thousand acres in the northern leasing district and three hundred thousand sand acres in the southern leasing district, and the boundary between said two districts shall be the left limit of the Tanana River from the border between the United States and Canada to the confluence of the Tanana and Yukon Rivers, and the left limit of the Yukon River from said confluence to its principal southern mouth.
 
-(2) No person, association, or corporation shall take, hold, own, or control at one time options to acquire interests in oil or gas leases under the provisions of this chapter which involve, in the aggregate, more than two hundred thousandacres of land in any one State other than Alaska, or, in the case of Alaska, more than two hundred thousand acres in each of its two leasing districts, as hereinbefore described. No option to acquire any interest in such an oil or gas lease shall be enforcible if entered into for a period of more than three years (which three years shall be inclusive of any renewal period if a right to renew is reserved by any party to the option) without the prior approval of the Secretary. In any case in which an option to acquire the optionor's entire interest in the whole or a part of the acreage under a lease is entered into, the acreage to which the option is applicable shall be charged both to the optionor and to the optionee, but the charge to the optionor shall cease when the option is exercised. In any case in which an option to acquire a part of the optionor's interest in the whole or a part of the acreage under a lease is entered into, the acreage to which the option is applicable shall be fully charged to the optionor and a share thereof shall also be charged to the optionee, as his interest may appear, but after the option is exercised said acreage shall be charged to the parties pro rata as their interests may appear. In any case in which an assignment is made of a part of a lessee's interest in the whole or part of the acreage under a lease or an application for a lease, the acreage shall be charged to the parties pro rata as their interests may appear. No option or renewal thereof shall be enforcible until notice thereof has been filed with the Secretary or an officer or employee of the Department of the Interior designated by him to receive the same. Each such notice shall include, in addition to any other matters prescribed by the Secretary, the names and addresses of the parties thereto, the serial number of the lease or application for a lease to which the option is applicable, and a statement of the number of acres covered thereby and of the interests and obligations of the parties thereto and shall be subscribed by all parties to the option or their duly authorized agents. An option which has not been exercised shall remain charged as hereinbefore provided until notice of its relinquishment or surrender has been filed, by either party, with the Secretary or any officer or employee of the Department of the Interior designated by him to receive the same. In addition, each holder of any such option shall file with the Secretary or an officer or employee of the Department of the Interior as aforesaid within ninety days after the 30th day of June and the 31st day of December in each year a statement showing, in addition to any other matters prescribed by the Secretary, his name, the name and address of each grantor of an option held by him, the serial number of every lease or application for a lease to which such an option is applicable, the number of acres covered by each such option, the total acreage in each State to which such options are applicable, and his interest and obligation under each such option. The failure of the holder of an option so to file shall render the option unenforcible <sup>2</sup> by him. The unenforcibility <sup>3</sup> of any option under the provisions of this paragraph shall not diminish the number of acres deemed to be held under option by any person, association, or corporation in computing the amount chargeable under the first sentence of this paragraph and shall not relieve any party thereto of any liability to cancellation, forfeiture, forced disposition, or other sanction provided by law. The Secretary may prescribe forms on which the notice and statements required by this paragraph shall be made.
+(2) No person, association, or corporation shall take, hold, own, or control at one time options to acquire interests in oil or gas leases under the provisions of this chapter which involve, in the aggregate, more than two hundred thousand acres of land in any one State other than Alaska, or, in the case of Alaska, more than two hundred thousand acres in each of its two leasing districts, as hereinbefore described. No option to acquire any interest in such an oil or gas lease shall be enforcible if entered into for a period of more than three years (which three years shall be inclusive of any renewal period if a right to renew is reserved by any party to the option) without the prior approval of the Secretary. In any case in which an option to acquire the optionor's entire interest in the whole or a part of the acreage under a lease is entered into, the acreage to which the option is applicable shall be charged both to the optionor and to the optionee, but the charge to the optionor shall cease when the option is exercised. In any case in which an option to acquire a part of the optionor's interest in the whole or a part of the acreage under a lease is entered into, the acreage to which the option is applicable shall be fully charged to the optionor and a share thereof shall also be charged to the optionee, as his interest may appear, but after the option is exercised said acreage shall be charged to the parties pro rata as their interests may appear. In any case in which an assignment is made of a part of a lessee's interest in the whole or part of the acreage under a lease or an application for a lease, the acreage shall be charged to the parties pro rata as their interests may appear. No option or renewal thereof shall be enforcible until notice thereof has been filed with the Secretary or an officer or employee of the Department of the Interior designated by him to receive the same. Each such notice shall include, in addition to any other matters prescribed by the Secretary, the names and addresses of the parties thereto, the serial number of the lease or application for a lease to which the option is applicable, and a statement of the number of acres covered thereby and of the interests and obligations of the parties thereto and shall be subscribed by all parties to the option or their duly authorized agents. An option which has not been exercised shall remain charged as hereinbefore provided until notice of its relinquishment or surrender has been filed, by either party, with the Secretary or any officer or employee of the Department of the Interior designated by him to receive the same. In addition, each holder of any such option shall file with the Secretary or an officer or employee of the Department of the Interior as aforesaid within ninety days after the 30th day of June and the 31st day of December in each year a statement showing, in addition to any other matters prescribed by the Secretary, his name, the name and address of each grantor of an option held by him, the serial number of every lease or application for a lease to which such an option is applicable, the number of acres covered by each such option, the total acreage in each State to which such options are applicable, and his interest and obligation under each such option. The failure of the holder of an option so to file shall render the option unenforcible <sup>2</sup> by him. The unenforcibility <sup>3</sup> of any option under the provisions of this paragraph shall not diminish the number of acres deemed to be held under option by any person, association, or corporation in computing the amount chargeable under the first sentence of this paragraph and shall not relieve any party thereto of any liability to cancellation, forfeiture, forced disposition, or other sanction provided by law. The Secretary may prescribe forms on which the notice and statements required by this paragraph shall be made.
 
 #### (e) Association or stockholder interests, conditions; combined interests
 
@@ -50,7 +48,7 @@ Effective September 21, 1959, any person, association, or corporation who is a p
 
 #### (j) Waiver or suspension of rights
 
-If during any such proceeding, a party thereto files with the Secretary a waiver of his rights under his lease (including particularly, where applicable, rights to drill and to assign) or if such rights are suspended by the Secretary pending a decision in the proceeding, whether initiated prior to enactment of this chapter or thereafter, payment of rentals and running of time against the term of the lease or leases involved shall be suspended as of the first day of the month following the filing of the waiver or suspension of the rights until the first day of the month following the final decision in the proceeding or the revocation of the waiver or suspension.
+If during any such proceeding, a party thereto files with the Secretary a waiver of his rights under his lease (including particularly, where applicable, rights to drill and to assign) or if such rights are suspended by the Secretary pending a decision in the proceeding, whether initiated prior to enactment of this chapter orthereafter, payment of rentals and running of time against the term of the lease or leases involved shall be suspended as of the first day of the month following the filing of the waiver or suspension of the rights until the first day of the month following the final decision in the proceeding or the revocation of the waiver or suspension.
 
 #### (k) Unlawful trusts; forfeiture
 
@@ -58,7 +56,7 @@ Except as otherwise provided in this chapter, if any lands or deposits subject t
 
 #### (<i>l</i>) Rules and regulations; notice to and consultation with Attorney General; application of antitrust laws; definitions
 
-(1) At each stage in the formulation and promulgation of rules and regulations concerningcoal leasing pursuant to this chapter, and at each stage in the issuance, renewal, and readjustment of coal leases under this chapter, the Secretary of the Interior shall consult with and give due consideration to the views and advice of the Attorney General of the United States.
+(1) At each stage in the formulation and promulgation of rules and regulations concerning coal leasing pursuant to this chapter, and at each stage in the issuance, renewal, and readjustment of coal leases under this chapter, the Secretary of the Interior shall consult with and give due consideration to the views and advice of the Attorney General of the United States.
 
 (2) No coal lease may be issued, renewed, or readjusted under this chapter until at least thirty days after the Secretary of the Interior notifies the Attorney General of the proposed issuance, renewal, or readjustment. Such notification shall contain such information as the Attorney General may require in order to advise the Secretary of the Interior as to whether such lease would create or maintain a situation inconsistent with the antitrust laws. If the Attorney General advises the Secretary of the Interior that a lease would create or maintain such a situation, the Secretary of the Interior may not issue such lease, nor may he renew or readjust such lease for a period not to exceed one year, as the case may be, unless he thereafter conducts a public hearing on the record in accordance with subchapter II of chapter 5 of title 5 and finds therein that such issuance, renewal, or readjustment is necessary to effectuate the purposes of this chapter, that it is consistent with the public interest, and that there are no reasonable alternatives consistent with this chapter, the antitrust laws, and the public interest.
 
@@ -76,11 +74,11 @@ Except as otherwise provided in this chapter, if any lands or deposits subject t
 
 &emsp;(E) the Act of June 19, 1936, chapter 592 (15 U.S.C. 13, 13a, 13b, and 21a).
 
-(Feb. 25, 1920, ch. 85, §27, 41 Stat. 448; Apr. 30, 1926, ch. 197, 44 Stat. 373; July 3, 1930, ch. 854, §1, 46 Stat. 1007; Mar. 4, 1931, ch. 506, 46 Stat. 1524; Aug. 8, 1946, ch. 916, §6, 60 Stat. 954; June 1, 1948, ch. 365, 62 Stat. 285; June 3, 1948, ch. 379, §6, 62 Stat. 291; Aug. 2, 1954, ch. 650, 68 Stat. 648; Pub. L. 85–122, Aug. 13, 1957, 71 Stat. 341; Pub. L. 85–698, Aug. 21, 1958, 72 Stat. 688; Pub. L. 86–294, §1, Sept. 21, 1959, 73 Stat. 571; Pub. L. 86–391, §1(c), Mar. 18, 1960, 74 Stat. 8; Pub. L. 86–705, §3, Sept. 2, 1960, 74 Stat. 785; Pub. L. 88–526, §1, Aug. 31, 1964, 78 Stat. 710; Pub. L. 88–548, Aug. 31, 1964, 78 Stat. 754; Pub. L. 94–377, §§11, 15, Aug. 4, 1976, 90 Stat. 1090, 1091; Pub. L. 97–78, §1(2), (5), Nov. 16, 1981, 95 Stat. 1070.)
+(Feb. 25, 1920, ch. 85, §27, 41 Stat. 448; Apr. 30, 1926, ch. 197, 44 Stat. 373; July 3, 1930, ch. 854, §1, 46 Stat. 1007; Mar. 4, 1931, ch. 506, 46 Stat. 1524; Aug. 8, 1946, ch. 916, §6, 60 Stat. 954; June 1, 1948, ch. 365, 62 Stat. 285; June 3, 1948, ch. 379, §6, 62 Stat. 291; Aug. 2, 1954, ch. 650, 68 Stat. 648; Pub. L. 85–122, Aug. 13, 1957, 71 Stat. 341; Pub. L. 85–698, Aug. 21, 1958, 72 Stat. 688; Pub. L. 86–294, §1, Sept. 21, 1959, 73 Stat. 571; Pub. L. 86–391, §1(c), Mar. 18, 1960, 74 Stat. 8; Pub. L. 86–705, §3, Sept. 2, 1960, 74 Stat. 785; Pub. L. 88–526, §1, Aug. 31, 1964, 78 Stat. 710; Pub. L. 88–548, Aug. 31, 1964, 78 Stat. 754; Pub. L. 94–377, §§11, 15, Aug. 4, 1976, 90 Stat. 1090, 1091; Pub. L. 97–78, §1(2), (5), Nov. 16, 1981, 95 Stat. 1070; Pub. L. 106–191, §2, Apr. 28, 2000, 114 Stat. 232; Pub. L. 106–463, §3, Nov. 7, 2000, 114 Stat. 2011.)
 
 #### References in Text
 
-The date of enactment of this section, referred to in subsec. (a)(1), probably means the date of enactment of Pub. L. 94–377, which was Aug. 4, 1976.
+The date of enactment of this section, referred to in subsec. (a), probably means the date of enactment of Pub. L. 94–377, which was Aug. 4, 1976.
 
 The Act entitled “An Act to protect trade and commerce against unlawful restraints and monopolies”, approved July 2, 1890, as amended, referred to in subsec. (<i>l</i>)(4)(A), is act July 2, 1890, ch. 647, 26 Stat. 209, as amended, known as the Sherman Act, which is classified to sections 1 to 7 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1 of Title 15 and Tables.
 
@@ -88,13 +86,17 @@ The Act entitled “An Act to supplement existing laws against unlawful restrain
 
 The Federal Trade Commission Act, referred to in subsec. (<i>l</i>)(4)(C), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of Title 15. For complete classification of this Act to the Code, see section 58 of Title 15 and Tables.
 
-Act of June 19, 1936, chapter 592, referred to in subsec. (<i>l</i>)(4)(E), is act June 19, 1936, ch. 592, 49 Stat. 1526, as amended, known as the Robinson-Patman Anti-discrimination Act, which enacted sections 13a, 13b, and 21a of Title 15, and amended section 13 of Title 15. For complete classification of this Act to the Code, see Short Title note set out under section 13 of Title 15 and Tables.
+Act of June 19, 1936, chapter 592, referred to in subsec. (<i>l</i>)(4)(E), is act June 19, 1936, ch. 592, 49 Stat. 1526, as amended, known as the Robinson-Patman Antidiscrimination Act, which enacted sections 13a, 13b, and 21a of Title 15, and amended section 13 of Title 15. For complete classification of this Act to the Code, see Short Title note set out under section 13 of Title 15 and Tables.
 
 #### Codification
 
 In subsec. (<i>l</i>)(2), “subchapter II of chapter 5 of title 5” substituted for “the Administrative Procedure Act” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 #### Amendments
+
+2000—Subsec. (a). Pub. L. 106–463 inserted heading, struck out “(1)” before “No person”, substituted “75,000 acres” for “forty-six thousand and eighty acres”, and substituted “150,000 acres” for “one hundred thousand acres” wherever appearing.
+
+Subsec. (b)(2). Pub. L. 106–191 substituted “30,720 acres” for “fifteen thousand three hundred and sixty acres”.
 
 1981—Subsec. (d)(1). Pub. L. 97–78, §1(5), inserted proviso that acreage held in special tar sand areas not be chargeable against State limitations.
 
@@ -146,19 +148,59 @@ Section 11(b) of Pub. L. 94–377 provided in part that repeal by such section o
 
 #### Transfer of Functions
 
-Functions of Secretary of the Interior, referred to in subsec. (<i>l</i>), to promulgate regulations under this chapter relating to the fostering of competition for Federal leases, the implementation of alternative bidding systems authorized for the award of Federal leases, the establishment of diligence requirements for operations conducted on Federal leases, the setting of rates for production of Federal leases, and the specifying of the procedures, terms, and conditions for the acquisition and disposition of Federal royalty interests taken in kind, transferred to Secretary of Energy by section 7152(b) of Title 42, The Public Health and Welfare. Section 7152(b) of Title 42 was repealed by Pub. L. 97–100, title II, §201, Dec. 23, 1981, 95 Stat. 1407, and functions of Secretary of Energy returned to Secretary of the Interior. See House Report No. 97–315, pp. 25, 26, Nov. 5, 1981.
+Functions of Secretary of the Interior, referred to in subsec. (<i>l</i>), to promulgate regulations under this chapter relating to the fostering of competition for Federal leases, the implementation of alternative bidding systems authorized for the award of Federal leases, the establishment of diligence requirements for operations conducted on Federal leases, the setting of rates for production of Federal leases, and the specifying of the procedures, terms, and conditions for the acquisition and disposition of Federal royalty interests taken inkind, transferred to Secretary of Energy by section 7152(b) of Title 42, The Public Health and Welfare. Section 7152(b) of Title 42 was repealed by Pub. L. 97–100, title II, §201, Dec. 23, 1981, 95 Stat. 1407, and functions of Secretary of Energy returned to Secretary of the Interior. See House Report No. 97–315, pp. 25, 26, Nov. 5, 1981.
+
+#### Findings
+
+Pub. L. 106–463, §2, Nov. 7, 2000, 114 Stat. 2010, provided that: “Congress finds that—
+
+&emsp;“(1) Federal land contains commercial deposits of coal, the Nation's largest deposits of coal being located on Federal land in Utah, Colorado, Montana, and the Powder River Basin of Wyoming;
+
+&emsp;“(2) coal is mined on Federal land through Federal coal leases under the Act of February 25, 1920 (commonly known as the ‘Mineral Leasing Act’) (30 U.S.C. 181 et seq.);
+
+&emsp;“(3) the sub-bituminous coal from these mines is low in sulfur, making it the cleanest burning coal for energy production;
+
+&emsp;“(4) the Mineral Leasing Act sets for each leasable mineral a limitation on the amount of acreage of Federal leases any 1 producer may hold in any 1 State or nationally;
+
+&emsp;“(5)(A) the present acreage limitation for Federal coal leases has been in place since 1976;
+
+&emsp;“(B) currently the coal lease acreage limit of 46,080 acres per State is less than the per-State Federal lease acreage limit for potash (96,000 acres) and oil and gas (246,080 acres);
+
+&emsp;“(6) coal producers in Wyoming and Utah are operating mines on Federal leaseholds that contain total acreage close to the coal lease acreage ceiling;
+
+&emsp;“(7) the same reasons that Congress cited in enacting increases for State lease acreage caps applicable in the case of other minerals—the advent of modern mine technology, changes in industry economics, greater global competition, and the need to conserve Federal resources—apply to coal;
+
+&emsp;“(8) existing coal mines require additional lease acreage to avoid premature closure, but those mines cannot relinquish mined-out areas to lease new acreage because those areas are subject to 10-year reclamation plans, and the reclaimed acreage is counted against the State and national acreage limits;
+
+&emsp;“(9) to enable them to make long-term business decisions affecting the type and amount of additional infrastructure investments, coal producers need certainty that sufficient acreage of leasable coal will be available for mining in the future; and
+
+&emsp;“(10) to maintain the vitality of the domestic coal industry and ensure the continued flow of valuable revenues to the Federal and State governments and of energy to the American public from coal production on Federal land, the Mineral Leasing Act should be amended to increase the acreage limitation for Federal coal leases.”
+
+Pub. L. 106–191, §1, Apr. 28, 2000, 114 Stat. 231, provided that: “The Congress finds and declares that—
+
+&emsp;“(1) The Federal lands contain commercial deposits of trona, with the world's largest body of this mineral located on such lands in southwestern Wyoming.
+
+&emsp;“(2) Trona is mined on Federal lands through Federal sodium leases issued under the Mineral Leasing Act of 1920 \[30 U.S.C. 181 et seq.\].
+
+&emsp;“(3) The primary product of trona mining is soda ash (sodium carbonate), a basic industrial chemical that is used for glass making and a variety of consumer products, including baking soda, detergents, and pharmaceuticals.
+
+&emsp;“(4) The Mineral Leasing Act \[30 U.S.C. 181 et seq.\] sets for each leasable mineral limitations on the amount of acreage of Federal leases any one producer may hold in any one State or nationally.
+
+&emsp;“(5) The present acreage limitation for Federal sodium (trona) leases has been in place for over five decades, since 1948, and is the oldest acreage limitation in the Mineral Leasing Act. Over this time frame Congress and/or the BLM has revised acreage limits for other minerals to meet the needs of the respective industries. Currently, the sodium lease acreage limitation of 15,360 acres per State is approximately one-third of the per State Federal lease acreage cap for coal (46,080 acres) and potassium (51,200 acres) and one-sixteenth that of oil and gas (246,080 acres).
+
+&emsp;“(6) Three of the four trona producers in Wyoming are operating mines on Federal leaseholds that contain total acreage close to the sodium lease acreage ceiling.
+
+&emsp;“(7) The same reasons that Congress cited in enacting increases in other minerals’ per State lease acreage caps apply to trona: the advent of modern mine technology, changes in industry economics, greater global competition, and need to conserve the Federal resource.
+
+&emsp;“(8) Existing trona mines require additional lease acreage to avoid premature closure, and are unable to relinquish mined-out areas to lease new acreage because those areas continue to be used for mine access, ventilation, and tailings disposal and may provide future opportunities for secondary recovery by solution mining.
+
+&emsp;“(9) Existing trona producers are having to make long term business decisions affecting the type and amount of additional infrastructure investments based on the certainty that sufficient acreage of leaseable trona will be available for mining in the future.
+
+&emsp;“(10) To maintain the vitality of the domestic trona industry and ensure the continued flow of valuable revenues to the Federal and State governments and products to the American public from trona production on Federal lands, the Mineral Leasing Act should be amended to increase the acreage limitation for Federal sodium leases.”
 
 #### Admission of Alaska as State
 
 Admission of Alaska into the Union was accomplished Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as notes preceding section 21 of Title 48, Territories and Insular Possessions.
-
-#### Cross References
-
-Laws applicable, see sections 275 and 285 of this title.
-
-States authorized to consent to operation and development of lands acquired from United States under agreements for conservation of oil and gas resources, see section 184a of this title.
-
-Surrender of leases, see section 188a of this title.
 
 #### Section Referred to in Other Sections
 

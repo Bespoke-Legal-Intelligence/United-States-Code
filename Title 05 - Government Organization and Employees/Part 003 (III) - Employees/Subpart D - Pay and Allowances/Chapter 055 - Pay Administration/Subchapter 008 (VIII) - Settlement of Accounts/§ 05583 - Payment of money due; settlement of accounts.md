@@ -42,7 +42,3 @@ Subsec. (b). Pub. L. 104–316, §202(b)(2), substituted “The Director may by 
 
 Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L. 96–70, set out as an Effective Date note under section 3601 of Title 22, Foreign Relations and Intercourse.
 
-#### Cross References
-
-Disposition of unpaid salary and other sums upon death of Representative or Resident Commissioner, see section 38a of Title 2, The Congress.
-

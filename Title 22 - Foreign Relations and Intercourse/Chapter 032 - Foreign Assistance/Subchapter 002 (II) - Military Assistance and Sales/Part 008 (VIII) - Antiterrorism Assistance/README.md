@@ -2,7 +2,7 @@ Part VIII—Antiterrorism Assistance
 
 #### Part Referred to in Other Sections
 
-This part is referred to in sections 2304, 2371, 2375, 2403, 2776, 4802, 4858 of this title; title 46 App. section 1803.
+This part is referred to in sections 2304, 2318, 2371, 2375, 2403, 2776, 4802, 4858, 7102 of this title; title 46 App. section 1803.
 
 
 ---

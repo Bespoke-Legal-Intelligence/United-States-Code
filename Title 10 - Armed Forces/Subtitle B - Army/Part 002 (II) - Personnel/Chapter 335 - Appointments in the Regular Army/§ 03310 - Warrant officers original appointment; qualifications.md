@@ -1,6 +1,6 @@
 ### §3310. Warrant officers: original appointment; qualifications
 
-Original appointments as warrant officers in the Regular Army shall be made from personswho have served on active duty at least one year in the Army.
+Original appointments as warrant officers in the Regular Army shall be made from persons who have served on active duty at least one year in the Army.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 192.)
 
@@ -23,8 +23,4 @@ June 3, 1916, ch. 134, §4a (less 3d and last sentences); added June 4, 1920, ch
 Aug. 21, 1941, ch. 384, §2; restated May 29, 1954, ch. 249, §19(c), 68 Stat. 166.
 
 The first sentence of section 4a of the Act of June 3, 1916, cited above, is omitted as superseded by section 3213 of this title. The second sentence, less first nine words, of section 4a of that act, is omitted as superseded by 10:591.
-
-#### Cross References
-
-Appointments of regular warrant officers, W–1, by warrant, see section 571 of this title.
 

@@ -4,7 +4,3 @@ For the purpose of maintaining and operating the properties now owned by the Uni
 
 (May 18, 1933, ch. 32, §1, 48 Stat. 58.)
 
-#### Cross References
-
-Financial control of Government Corporations, see section 9101 et seq. of Title 31, Money and Finance.
-

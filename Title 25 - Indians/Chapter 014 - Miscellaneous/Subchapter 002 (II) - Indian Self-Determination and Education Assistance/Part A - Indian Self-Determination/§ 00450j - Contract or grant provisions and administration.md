@@ -16,7 +16,7 @@
 
 (B) A list of the Federal requirements that meet the requirements of clauses (i) through (iii) of subparagraph (A) shall be included in an attachment to the contract pursuant to negotiations between the Secretary and the tribal organization.
 
-(C)(i) Except as provided in subparagraph (B), no Federal law listed in clause (ii) or any other provision of Federal law (including an Executiveorder) relating to acquisition by the Federal Government shall apply to a construction contract that a tribe or tribal organization enters into under this subchapter, unless expressly provided in such law.
+(C)(i) Except as provided in subparagraph (B), no Federal law listed in clause (ii) or any other provision of Federal law (including an Executive order) relating to acquisition by the Federal Government shall apply to a construction contract that a tribe or tribal organization enters into under this subchapter, unless expressly provided in such law.
 
 (ii) The laws listed in this paragraph are as follows:
 
@@ -86,7 +86,7 @@ In connection with any self-determination contract or grant made pursuant to sec
 
 &emsp;&emsp;(A) subject to the provisions of subparagraph (B), title to property and equipment furnished by the Federal Government for use in the performance of the contract or purchased with funds under any self-determination contract or grant agreement shall, unless otherwise requested by the tribe or tribal organization, vest in the appropriate tribe or tribal organization;
 
-&emsp;&emsp;(B) if property described in subparagraph (A) has a value in excess of $5,000 at the time of the retrocession, rescission, or termination of the self-determination contract or grant agreement, at the option of the Secretary, upon the retrocession, rescission, ortermination, title to such property and equipment shall revert to the Department of the Interior or the Department of Health and Human Services, as appropriate; and
+&emsp;&emsp;(B) if property described in subparagraph (A) has a value in excess of $5,000 at the time of the retrocession, rescission, or termination of the self-determination contract or grant agreement, at the option of the Secretary, upon the retrocession, rescission, or termination, title to such property and equipment shall revert to the Department of the Interior or the Department of Health and Human Services, as appropriate; and
 
 &emsp;&emsp;(C) all property referred to in subparagraph (A) shall remain eligible for replacement on the same basis as if title to such property were vested in the United States; and
 
@@ -102,7 +102,7 @@ Contracts and grants with tribal organizations pursuant to sections 450f and 450
 
 #### (i) Division of administration of program
 
-(1) If a self-determination contract requires the Secretary to divide the administration of a program that has previously been administered for the benefit of a greater number of tribes than are represented by the tribal organization that is a party to the contract, the Secretary shall take such action as may be necessary to ensure that services are provided to the tribes not served by a self-determination contract, including program redesign in consultation with the tribal organization and all affected tribes.
+(1) If a self-determination contract requires the Secretary to divide the administration of a program that has previously been administered for the benefit of a greater number of tribes than are represented by the tribal organization that is a party to the contract, the Secretary shall take such action as may be necessary toensure that services are provided to the tribes not served by a self-determination contract, including program redesign in consultation with the tribal organization and all affected tribes.
 
 (2) Nothing in this part shall be construed to limit or reduce in any way the funding for any program, project, or activity serving a tribe under this or other applicable Federal law. Any tribe or tribal organization that alleges that a self-determination contract is in violation of this section may apply the provisions of section 450m–1 of this title.
 
@@ -112,7 +112,7 @@ Upon providing notice to the Secretary, a tribal organization that carries out a
 
 #### (k) Access to Federal sources of supply
 
-For purposes of section 201(a) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 481(a)) (relating to Federal sources of supply, including lodging providers, airlines and other transportation providers), a tribal organization carrying out a contract, grant, or cooperative agreement under this subchapter shall be deemed an executive agency when carrying out such contract, grant, or agreement and the employees of the tribal organization shall be eligible to have access to such sources of supply on the same basis as employees of an executive agency have such access.
+For purposes of section 201(a) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 481(a)) (relating to Federal sources of supply, including lodging providers, airlines and other transportation providers), a tribal organization carrying out a contract, grant, or cooperative agreement under this subchapter shall be deemed an executive agency and part of the Indian Health Service when carrying out such contract, grant, or agreement and the employees of the tribal organization shall be eligible to have access to such sources of supply on the same basis as employees of an executive agency have such access. For purposes of carrying out such contract, grant, or agreement, the Secretary shall, at the request of an Indian tribe, enter into an agreement for the acquisition, on behalf of the Indian tribe, of any goods, services, or supplies available to the Secretary from the General Services Administration or other Federal agencies that are not directly available to the Indian tribe under this section or under any other Federal law, including acquisitions from prime vendors. All such acquisitions shall be undertaken through the most efficient and speedy means practicable, including electronic ordering arrangements.
 
 #### (<i>l</i>) Lease of facility used for administration and delivery of services
 
@@ -124,11 +124,11 @@ For purposes of section 201(a) of the Federal Property and Administrative Servic
 
 (1) Each construction contract requested, approved, or awarded under this subchapter, shall be subject to—
 
-&emsp;(A) except as otherwise provided in this subchapter, the provisions of this subchapter, other than sections 450f(a)(2), 450j–1(<i>l</i>),<sup>2</sup> 450<i>l</i> and 450m of this title; and
+&emsp;(A) except as otherwise provided in this subchapter, the provisions of this subchapter, other than sections 450f(a)(2), 450j–1(<i>l</i>), 450<i>l</i> and 450m of this title; and
 
 &emsp;(B) section 314 of the Department of the Interior and Related Agencies Appropriations Act, 1991 (104 Stat. 1959).
 
-(2) In providing technical assistance to tribes and tribal organizations in the development of construction contract proposals, the Secretaryshall provide, not later than 30 days after receiving a request from a tribe or tribal organization, all information available to the Secretary regarding the construction project, including construction drawings, maps, engineering reports, design reports, plans of requirements, cost estimates, environmental assessments or environmental impact reports, and archaeological reports.
+(2) In providing technical assistance to tribes and tribal organizations in the development of construction contract proposals, the Secretary shall provide, not later than 30 days after receiving a request from a tribe or tribal organization, all information available to the Secretary regarding the construction project, including construction drawings, maps, engineering reports, design reports, plans of requirements, cost estimates, environmental assessments or environmental impact reports, and archaeological reports.
 
 (3) Prior to finalizing a construction contract proposal pursuant to section 450f(a) of this title, and upon request of the tribe or tribal organization that submits the proposal, the Secretary shall provide for a precontract negotiation phase in the development of a contract proposal. Such phase shall include, at a minimum, the following elements:
 
@@ -142,7 +142,7 @@ For purposes of section 201(a) of the Federal Property and Administrative Servic
 
 &emsp;(E) Upon the request of the tribe or tribal organization, the use of an alternative dispute resolution mechanism to seek resolution of all remaining areas of disagreement pursuant to the dispute resolution provisions under subchapter IV of chapter 5 of title 5.
 
-&emsp;(F) The submission to the Secretary by the tribe or tribal organization of a final contract proposal pursuant to section 450f(a) of this title.
+&emsp;(F) The submission to the Secretary by the tribe or tribal organization of a final contractproposal pursuant to section 450f(a) of this title.
 
 (4)(A) Subject to subparagraph (B), in funding a fixed-price construction contract pursuant to section 450j–1(a) of this title, the Secretary shall provide for the following:
 
@@ -174,13 +174,23 @@ Notwithstanding any other provision of law, the rental rates for housing provide
 
 > as based on the cost of comparable private rental housing in the nearest established community with a year-round population of 1,500 or more individuals.
 
-(Pub. L. 93–638, title I, §105, formerly §106, Jan. 4, 1975, 88 Stat. 2210; renumbered §105 and amended Pub. L. 100–472, title II, §204, Oct. 5, 1988, 102 Stat. 2291; Pub. L. 101–301, §2(a)(7), May 24, 1990, 104 Stat. 207; Pub. L. 101–644, title II, §203(c)–(e), Nov. 29, 1990, 104 Stat. 4666; Pub. L. 103–413, title I, §§102(10)–(13), 106, Oct. 25, 1994, 108 Stat. 4253–4255, 4270; Pub. L. 104–109, §7, Feb. 12, 1996, 110 Stat. 764.)
+#### (<i>o</i>) Patient records
+
+#### (1) In general
+
+&emsp;At the option of an Indian tribe or tribal organization, patient records may be deemed to be Federal records under those provisions of title 44 that are commonly referred to as the “Federal Records Act of 1950” for the limited purposes of making such records eligible for storage by Federal Records Centers to the same extent and in the same manner as other Department of Health and Human Services patient records.
+
+#### (2) Treatment of records
+
+&emsp;Patient records that are deemed to be Federal records under those provisions of title 44 that are commonly referred to as the “Federal Records Act of 1950” pursuant to this subsection shall not be considered Federal records for the purposes of chapter 5 of title 5.
+
+(Pub. L. 93–638, title I, §105, formerly §106, Jan. 4, 1975, 88 Stat. 2210; renumbered §105 and amended Pub. L. 100–472, title II, §204, Oct. 5, 1988, 102 Stat. 2291; Pub. L. 101–301, §2(a)(7), May 24, 1990, 104 Stat. 207; Pub. L. 101–644, title II, §203(c)–(e), Nov. 29, 1990, 104 Stat. 4666; Pub. L. 103–413, title I, §§102(10)–(13), 106, Oct. 25, 1994, 108 Stat. 4253–4255, 4270; Pub. L. 104–109, §7, Feb. 12, 1996, 110 Stat. 764; Pub. L. 106–260, §§7, 8, Aug. 18, 2000, 114 Stat. 732, 733.)
 
 #### References in Text
 
 The Office of Federal Procurement Policy Act, referred to in subsec. (a)(3)(A), is Pub. L. 93–400, Aug. 30, 1974, 88 Stat. 796, as amended, which is classified principally to chapter 7 (§401 et seq.) of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 401 of Title 41 and Tables.
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (a)(3)(C)(ii)(I), (IV), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Provisions of the Act relating to management and disposal of Government property are classified to chapter 10 (§471 et seq.) of Title 40, Public Buildings, Property, and Works. Title III of the Act is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41. Forcomplete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (a)(3)(C)(ii)(I), (IV), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Provisions of the Act relating to management and disposal of Government property are classified to chapter 10 (§471 et seq.) of Title 40, Public Buildings, Property, and Works. Title III of the Act is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
 
 Section 9(c) of the Act of Aug. 2, 1946, referred to in subsec. (a)(3)(C)(ii)(III), is section 9(c) of act Aug. 2, 1946, ch. 744, 60 Stat. 809, which amended section 5 of Title 41.
 
@@ -188,21 +198,25 @@ The Service Control Act of 1965, referred to in subsec. (a)(3)(C)(ii)(IX), proba
 
 The Small Business Act, referred to in subsec. (a)(3)(C)(ii)(X), is Pub. L. 85–536, July 18, 1958, 72 Stat. 384, as amended, which is classified generally to chapter 14A (§631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
 
-Executive Order Nos. 12138, 11246, 11701 and 11758, referred to in subsec. (a)(3)(C)(ii)(XI), are Ex. Ord. No. 12138, May 18, 1979, 44 F.R. 29637, as amended, which is set out as a note under section 631 of Title 15, Ex. Ord. No. 11246, Sept. 24, 1965, 30 F.R. 12319, as amended, which is set out as a note under section 2000e of Title 42, The Public Health and Welfare, Ex. Ord. No. 11701, Jan. 24, 1973, 38 F.R. 2675, which is set out as a note under section 4212 of Title 38, Veterans’ Benefits, and Ex. Ord. No. 11758, Jan. 15, 1974, 39 F.R. 2075, as amended, which is set out as a note under section 701 of Title 29, Labor.
+Executive Order Nos. 12138, 11246, 11701 and 11758, referred to in subsec. (a)(3)(C)(ii)(XI), are Ex. Ord. No.12138, May 18, 1979, 44 F.R. 29637, as amended, which is set out as a note under section 631 of Title 15, Ex. Ord. No. 11246, Sept. 24, 1965, 30 F.R. 12319, as amended, which is set out as a note under section 2000e of Title 42, The Public Health and Welfare, Ex. Ord. No. 11701, Jan. 24, 1973, 38 F.R. 2675, which is set out as a note under section 4212 of Title 38, Veterans’ Benefits, and Ex. Ord. No. 11758, Jan. 15, 1974, 39 F.R. 2075, as amended, which is set out as a note under section 701 of Title 29, Labor.
 
 This part, referred to in subsecs. (b) and (i)(2), was in the original “this title”, meaning title I of Pub. L. 93–638, known as the Indian Self-Determination Act, which is classified principally to this part (450f et seq.). For complete classification of title I to the Code, see Short Title note set out under section 450 of this title and Tables.
-
-Section 450j–1(<i>l</i>) of this title, referred to in subsec. (m)(1)(A), was redesignated section 450j–1(k) of this title by Pub. L. 105–362, title VIII, §801(g)(2), Nov. 10, 1998, 112 Stat. 3288.
 
 Section 314 of the Department of the Interior and Related Agencies Appropriations Act, 1991, referred to in subsec. (m)(1)(B), is section 314 of Pub. L. 101–512, which is set out as a note under section 450f of this title.
 
 Subsections (a)(2) and (b) of section 450f of this title, referred to in subsec. (m)(4)(C)(v), was in the original “sections 102(a)(2) and 102(b) of section 102”, and was translated as reading “subsections (a)(2) and (b) of section 102”, meaning section 102 of Pub. L. 93–638, to reflect the probable intent of Congress.
+
+The Federal Records Act of 1950, referred to in subsec. (<i>o</i>), was title V of act June 30, 1949, ch. 288, as added Sept. 5, 1950, ch. 849, §6(d), 64 Stat. 583, which was classified generally to sections 392 to 396 and 397 to 401 of former Title 44, Public Printing and Documents. Title V of act June 30, 1949, was repealed by Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1238, the first section of which enacted Title 44, Public Printing and Documents. For disposition of sections of former Title 44, see Table at the beginning of Title 44.
 
 #### Prior Provisions
 
 A prior section 105 of Pub. L. 93–638 was renumbered section 104 by Pub. L. 100–472 and is classified to section 450i of this title.
 
 #### Amendments
+
+2000—Subsec. (k). Pub. L. 106–260, §7, substituted “deemed an executive agency and part of the Indian Health Service” for “deemed an executive agency” and inserted at end “For purposes of carrying out such contract, grant, or agreement, the Secretary shall, at the request of an Indian tribe, enter into an agreement for the acquisition, on behalf of the Indian tribe, of any goods, services, or supplies available to the Secretary from the General Services Administration or other Federal agencies that are not directly available to the Indian tribe under this section or under any other Federal law, including acquisitions from prime vendors. All such acquisitions shall be undertaken through the most efficient and speedy means practicable, including electronic ordering arrangements.”
+
+Subsec. (<i>o</i>). Pub. L. 106–260, §8, added subsec. (<i>o</i>).
 
 1996—Subsec. (e). Pub. L. 104–109 made technical amendment to directory language of Pub. L. 103–413, §102(11). See 1994 Amendment note below.
 
@@ -236,7 +250,7 @@ Subsec. (c). Pub. L. 100–472, §204(e), added subsec. (c) and struck out forme
 
 Subsec. (d). Pub. L. 100–472, §204(e), added subsec. (d) and struck out former subsec. (d) which related to revision or amendment of contracts or grants at request or with consent of tribal organization and effective date for retrocession of contracts.
 
-Subsec. (e). Pub. L. 100–472, §204(e), added subsec. (e) and struck out former subsec. (e) which authorized theSecretary to permit tribal organizations to use existing school buildings, hospitals, and other facilities and equipment therein in carrying out grants or contracts.
+Subsec. (e). Pub. L. 100–472, §204(e), added subsec. (e) and struck out former subsec. (e) which authorized the Secretary to permit tribal organizations to use existingschool buildings, hospitals, and other facilities and equipment therein in carrying out grants or contracts.
 
 Subsec. (f). Pub. L. 100–472, §204(e), added subsec. (f). Former subsec. (f) redesignated (g).
 
@@ -250,7 +264,7 @@ Pub. L. 105–277, div. A, §101(e) \[title I\], Oct. 21, 1998, 105 Stat. 2681�
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 450b, 450j–1, 450k, 450<i>l</i>, 458cc, 458ff, 2008, 2504, 2508, 3307 of this title.
+This section is referred to in sections 450b, 450j–1, 450k, 450<i>l</i>, 458cc, 458ff, 458aaa–5, 458aaa–7, 458aaa–8, 458aaa–15, 458aaa–16, 2008, 2504, 2508, 3307 of this title.
 
 <i><sup>1</sup></i><i> So in original. probably should be “482”.</i>
 

@@ -82,7 +82,7 @@ Publication of IMF Operational Budgets.—The Secretary of the Treasury shall in
 
 “(b)
 
-Report to the Congress Showing Costs of United States Participation in the International Monetary Fund.—The Secretary of the Treasury shall prepare and transmit to the Committees on Banking and Financial Services, on Appropriations, and on International Relations of the House of Representatives and the Committees on Banking, Housing, and Urban Affairs, on Foreign Relations, and on Appropriations of the Senate a quarterly report, which shall be made readily available to the public, on the costs or benefits of United States participation in the International Monetary Fund and which shall detail the costs and benefits to the United States, as well as valuation gains or losses on the United States reserve position in the International Monetary Fund.
+Report to the Congress Showing Costs of United States Participation in the International Monetary Fund.—The Secretary of the Treasury shall prepare and transmit to the Committees on Banking and Financial Services \[now Committee on Financial Services\], on Appropriations, and on International Relations of the House of Representatives and the Committees on Banking, Housing, and Urban Affairs, on Foreign Relations, and on Appropriations of the Senate a quarterly report, which shall be made readily available to the public, on the costs or benefits of UnitedStates participation in the International Monetary Fund and which shall detail the costs and benefits to the United States, as well as valuation gains or losses on the United States reserve position in the International Monetary Fund.
 
 “(c)
 
@@ -92,7 +92,7 @@ Continuation of Forgoing of Reimbursement of IMF for Expenses of Administering E
 
 No Gold Sales by International Monetary Fund Without Prior Authorization by the Congress.—(1) \[Amended section 286c of this title.\]
 
-“(2) Not less than 30 days prior to the entrance by the United States into international negotiations for thepurpose of reaching agreement on the disposition of Fund gold whereby resources of the Fund would be used for the special benefit of a single member, or of a particular segment of the membership of the Fund, the Secretary of the Treasury shall consult with the Committees on Banking and Financial Services, on Appropriations, and on International Relations of the House of Representatives and the Committees on Foreign Relations, on Appropriations, and on Banking, Housing and Urban Affairs of the Senate.
+“(2) Not less than 30 days prior to the entrance by the United States into international negotiations for the purpose of reaching agreement on the disposition of Fund gold whereby resources of the Fund would be used for the special benefit of a single member, or of a particular segment of the membership of the Fund, the Secretary of the Treasury shall consult with the Committees on Banking and Financial Services \[now Committee on Financial Services\], on Appropriations, and on International Relations of the House of Representatives and the Committees on Foreign Relations, on Appropriations, and on Banking, Housing and Urban Affairs of the Senate.
 
 “(e)
 

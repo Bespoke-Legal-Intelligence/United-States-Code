@@ -14,7 +14,7 @@ If any person fails to pay an assessment of a civil penalty after it has become 
 
 #### (d) In rem jurisdiction
 
-A fishing vessel (including its fishing gear, furniture, appurtenances, stores, and cargo) usedin the commission of an act prohibited by section 1857 of this title shall be liable in rem for any civil penalty assessed for such violation under this section and may be proceeded against in any district court of the United States having jurisdiction thereof. Such penalty shall constitute a maritime lien on such vessel which may be recovered in an action in rem in the district court of the United States having jurisdiction over the vessel.
+A fishing vessel (including its fishing gear, furniture, appurtenances, stores, and cargo) used in the commission of an act prohibited by section 1857 of this title shall be liable in rem for any civil penalty assessed for such violation under this section and may be proceeded against in any district court of the United States having jurisdiction thereof. Such penalty shall constitute a maritime lien on such vessel which may be recovered in an action in rem in the district court of the United States having jurisdiction over the vessel.
 
 #### (e) Compromise or other action by Secretary
 
@@ -26,7 +26,7 @@ For the purposes of conducting any hearing under this section, the Secretary may
 
 #### (g) Permit sanctions
 
-(1) In any case in which (A) a vessel has been used in the commission of an act prohibited under section 1857 of this title, (B) the owner or operator of a vessel or any other person who has been issued or has applied for a permit under this chapter has acted in violation of section 1857 of this title, (C) any amount in settlement of a civil forfeiture imposed on a vessel or other property, or any civil penalty or criminal fine imposed on a vessel or owner or operator of a vessel or any other person who has been issued or has applied for a permit under any marine resource law enforced by the Secretary has not been paid and is overdue, or (D) any payment required for observer services provided to or contracted by an owner or operator who has been issued a permit or applied for a permit under any marine resource law administered by the Secretary has not been paid and is overdue, the Secretary may—
+(1) In any case in which (A) a vessel has been used in the commission of an act prohibited under section 1857 of this title, (B) the owner oroperator of a vessel or any other person who has been issued or has applied for a permit under this chapter has acted in violation of section 1857 of this title, (C) any amount in settlement of a civil forfeiture imposed on a vessel or other property, or any civil penalty or criminal fine imposed on a vessel or owner or operator of a vessel or any other person who has been issued or has applied for a permit under any marine resource law enforced by the Secretary has not been paid and is overdue, or (D) any payment required for observer services provided to or contracted by an owner or operator who has been issued a permit or applied for a permit under any marine resource law administered by the Secretary has not been paid and is overdue, the Secretary may—
 
 &emsp;(i) revoke any permit issued with respect to such vessel or person, with or without prejudice to the issuance of subsequent permits;
 
@@ -56,7 +56,7 @@ For the purposes of conducting any hearing under this section, the Secretary may
 
 Subsec. (b). Pub. L. 104–297, §114(b), amended first sentence generally. Prior to amendment, first sentence read as follows: “Any person against whom a civil penalty is assessed under subsection (a) of this section may obtain review thereof in the United States district court for the appropriate district by filing a complaint in such court within 30 days from the date of such order and by simultaneously serving a copy of such complaint by certified mail on the Secretary, the Attorney General and the appropriate United States Attorney.”
 
-Subsec. (g)(1). Pub. L. 104–297, §114(c), substituted “(C) any amount in settlement of a civil forfeiture imposed on a vessel or other property, or any civil penalty or criminal fine imposed on a vessel or owner or operator of a vessel or any other person who has been issued or has applied for a permit under any marine resource law enforced by the Secretary has not been paid and is overdue, or (D) any payment required for observer services provided to or contracted by an owner or operator who has been issued a permit or applied for a permit under any marine resource law administered by the Secretary has not been paid and is overdue,” for “or (C) any civil penalty or criminal fine imposed on a vessel or owner or operator of a vessel or any other personwho has been issued or has applied for a permit under any fishery resource law statute enforced by the Secretary has not been paid and is overdue,”.
+Subsec. (g)(1). Pub. L. 104–297, §114(c), substituted “(C) any amount in settlement of a civil forfeiture imposed on a vessel or other property, or any civil penalty or criminal fine imposed on a vessel or owner or operator of a vessel or any other person who has been issued or has applied for a permit under any marine resource law enforced by the Secretary has not been paid and is overdue, or (D) any payment required for observer services provided to or contracted by an owner or operator who has been issued a permit or applied for a permit under any marine resource law administered by the Secretary has not been paid and is overdue,” for “or (C) any civil penalty or criminal fine imposed on a vessel or owner or operator of a vessel or any other person who has been issued or has applied for a permit under any fishery resource law statute enforced by the Secretary has not been paid and is overdue,”.
 
 1990—Pub. L. 101–627, §114(a)(1), inserted “and permit sanctions” after “penalties” in section catchline.
 
@@ -76,5 +76,5 @@ Section effective Mar. 1, 1977, see section 312 of Pub. L. 94–265, formerly se
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 971e, 1827, 1853, 3606, 3637, 5103, 5106, 5107a, 5606 of this title; title 46 App. section 1273a.
+This section is referred to in sections 971e, 1827, 1853, 3606, 3637, 5103, 5106, 5107a, 5154, 5158, 5606 of this title; title 46 App. section 1273a.
 

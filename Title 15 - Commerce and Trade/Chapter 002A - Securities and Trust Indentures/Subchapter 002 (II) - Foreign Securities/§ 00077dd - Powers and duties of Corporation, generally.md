@@ -4,10 +4,6 @@ The Corporation shall have power to adopt, alter, and use a corporate seal; to m
 
 (May 27, 1933, ch. 38, title II, §203, 48 Stat. 93.)
 
-#### Cross References
-
-Charges on holders of foreign securities, see section 77hh of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 77hh of this title.

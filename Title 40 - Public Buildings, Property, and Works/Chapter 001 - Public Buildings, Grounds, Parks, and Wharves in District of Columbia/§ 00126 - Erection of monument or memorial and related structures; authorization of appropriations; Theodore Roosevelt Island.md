@@ -4,10 +4,6 @@ The Secretary of the Interior shall erect on Theodore Roosevelt Island such monu
 
 (May 21, 1932, ch. 200, §3, 47 Stat. 164; Feb. 11, 1933, ch. 48, §1, 47 Stat. 799; May 21, 1953, ch. 63, §2, 67 Stat. 28; Pub. L. 86–764, Sept. 13, 1960, 74 Stat. 904.)
 
-#### Codification
-
-Section is also set out in D.C. Code, §8–160.
-
 #### Amendments
 
 1960—Pub. L. 86–764 substituted provisions for erection of a monument or memorial to memory of Theodore Roosevelt by the Secretary of the Interior with the approval of the living children of Theodore Roosevelt and authorizing an appropriation therefor for former provision permitting the Roosevelt Memorial Association to undertake such construction.

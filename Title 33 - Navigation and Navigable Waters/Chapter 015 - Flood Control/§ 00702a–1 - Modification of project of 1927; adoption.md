@@ -8,10 +8,6 @@ The project for the control of floods of the Mississippi River and its tributari
 
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
-#### Cross References
-
-Further modifications of project, see sections 702a–11/2 and 702a–13/4 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 701c–1, 702a–11/2, 702a–13/4, 702a–11, 702a–12, 702j–1, 702k–1, 702k–2 of this title.

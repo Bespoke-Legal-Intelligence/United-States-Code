@@ -56,7 +56,7 @@
 
 #### (3) Additional duties
 
-&emsp;The Dissemination Office shall carry out a process for the identification of educationalprograms that work, dissemination through electronic networking and new technologies and the functions and activities performed by the following:
+&emsp;The Dissemination Office shall carry out a process for the identification of educational programs that work, dissemination through electronic networking and new technologies and the functions and activities performed by the following:
 
 &emsp;&emsp;(A) The Educational Resources Information Center Clearinghouses.
 
@@ -112,7 +112,7 @@ The Assistant Secretary shall coordinate a process through which successful educ
 
 &emsp;(C) The Secretary shall establish such panels under paragraph (1) as may be necessary to ensure that each program identified or submitted for evaluation is evaluated.
 
-&emsp;(D) Not less than 2/3 of the membership of a panel established under paragraph (1) shall consist of individuals who are not officers or employees of the United States. Members of panels under paragraph (1) who are not employees of the United States shall receive compensation for each day they are engaged in carrying out the duties of the panel as well as compensation for their expenses.
+&emsp;(D) Not less than 2/3 of the membership of a panel established under paragraph (1) shall consist of individuals who are not officers oremployees of the United States. Members of panels under paragraph (1) who are not employees of the United States shall receive compensation for each day they are engaged in carrying out the duties of the panel as well as compensation for their expenses.
 
 #### (e) Dissemination of exemplary and promising programs
 
@@ -264,7 +264,7 @@ In order to ensure that programs identified as exemplary or promising are availa
 
 &emsp;&emsp;(C) the creation of any such additional laboratory region is announced at the time of the announcement of the competition for contracts for all regional educational laboratories;
 
-&emsp;&emsp;(D) the creation of a regional educational laboratory that involves the combination or subdivision of a region or regions in existence on the day preceding March 31, 1994, in which States in 1 such region are combined with States in another such region does not result in any region in existence on such date permanently becoming part of a larger region, nor result in any such region permanently subsuming another region, nor creates within the continental United States a region that is smaller than 4 contiguous States, nor partitions a region in existence on the day preceding March 31, 1994, to include less than 4 contiguous States included in the region on the day preceding March 31, 1994;
+&emsp;&emsp;(D) the creation of a regional educational laboratory that involves the combination or subdivision of a region or regions in existence on the day preceding March 31, 1994, in which States in 1 such region are combinedwith States in another such region does not result in any region in existence on such date permanently becoming part of a larger region, nor result in any such region permanently subsuming another region, nor creates within the continental United States a region that is smaller than 4 contiguous States, nor partitions a region in existence on the day preceding March 31, 1994, to include less than 4 contiguous States included in the region on the day preceding March 31, 1994;
 
 &emsp;&emsp;(E) the Assistant Secretary has published a notice in the Federal Register inviting the public, for a period of not less than 60 days, to make recommendations with respect to the creation of 1 or 2 additional regional educational laboratories;
 
@@ -482,7 +482,7 @@ In order to ensure that programs identified as exemplary or promising are availa
 
 &emsp;&emsp;(A) supporting innovation, restructuring, and continuous improvement in educational practice by—
 
-&emsp;&emsp;&emsp;(i) disseminating information throughout the community about exemplary andpromising educational programs, practices, products, and policies;
+&emsp;&emsp;&emsp;(i) disseminating information throughout the community about exemplary and promising educational programs, practices, products, and policies;
 
 &emsp;&emsp;&emsp;(ii) evaluating the effectiveness of federally funded educational programs within the community and identifying changes in such programs which are likely to improve student achievement;
 

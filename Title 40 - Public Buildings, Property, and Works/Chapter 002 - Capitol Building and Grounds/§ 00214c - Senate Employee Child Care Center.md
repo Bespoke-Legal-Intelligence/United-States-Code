@@ -2,7 +2,7 @@
 
 #### (a) Applicability of provisions
 
-The provisions of this section shall apply to any individual who is employed by the Senateday care center (known as the “Senate Employee Child Care Center” and hereafter in this section referred to as the “Center”) established pursuant to Senate Resolution 269, Ninety-eighth Congress, and section 214b of this title.
+The provisions of this section shall apply to any individual who is employed by the Senate day care center (known as the “Senate Employee Child Care Center” and hereafter in this section referred to as the “Center”) established pursuant to Senate Resolution 269, Ninety-eighth Congress, and section 214b of this title.
 
 #### (b) Employee election of health care insurance coverage
 
@@ -37,8 +37,4 @@ The Office of Personnel Management may prescribe regulations to carry out the pr
 #### References in Text
 
 For Senate Resolution 269, referred to in subsec. (a), see References in Text note set out under section 214b of this title.
-
-#### Cross References
-
-House of Representatives Child Care Center, see section 184g of this title.
 

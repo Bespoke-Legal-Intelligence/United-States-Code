@@ -82,7 +82,7 @@ The overall trade negotiating objectives of the United States are to obtain—
 
 &emsp;&emsp;&emsp;&emsp;(III) other collateral concessions be made,
 
-&emsp;&emsp;&nbsp;as a condition for the importation of any product or service of the United States into the foreign country or as a condition for carrying on business in the foreign country.
+&emsp;&emsp;&nbsp;as a condition for the importation of any product or service of the United Statesinto the foreign country or as a condition for carrying on business in the foreign country.
 
 #### (9) Trade in services
 
@@ -168,7 +168,7 @@ The overall trade negotiating objectives of the United States are to obtain—
 
 &emsp;&emsp;(A) measures identified in the annual report prepared under section 2241 of this title; and
 
-&emsp;&emsp;(B) foreign tariffs and nontariff barriers on competitive United States exports when like or similar products enter the United States at low rates of duty or are duty-free, and other tariff disparities that impede access to particular export markets.
+&emsp;&emsp;(B) foreign tariffs and nontariff barriers on competitive United States exports when like or similar products enter the United Statesat low rates of duty or are duty-free, and other tariff disparities that impede access to particular export markets.
 
 #### (14) Worker rights
 
@@ -192,7 +192,7 @@ The overall trade negotiating objectives of the United States are to obtain—
 
 &emsp;&emsp;(iv) otherwise denying equitable access by United States persons to foreign-developed technology or contributing to the inequitable flow of technology between the United States and its trading partners.
 
-&emsp;(B) In pursuing the negotiating objective described in subparagraph (A), the United States negotiators shall take into account UnitedStates Government policies in licensing or otherwise making available to foreign persons technology and other information developed by United States laboratories.
+&emsp;(B) In pursuing the negotiating objective described in subparagraph (A), the United States negotiators shall take into account United States Government policies in licensing or otherwise making available to foreign persons technology and other information developed by United States laboratories.
 
 #### (16) Border taxes
 
@@ -262,7 +262,7 @@ Purposes.—The purposes of this title \[see Tables for classification\] are to�
 
 Ex. Ord. No. 12661, Dec. 27, 1988, 54 F.R. 779, as amended by Ex. Ord. No. 12697, Dec. 22, 1989, 54 F.R. 53037; Ex. Ord. No. 12716, May 24, 1990, 55 F.R. 21831; Ex. Ord. No. 12774, Sept. 27, 1991, 56 F.R. 49835, provided:
 
-By virtue of the authority vested in me as President by the Constitution and laws of the United States of America, including the Omnibus Trade and Competitiveness Act of 1988 (P.L. 100–418, 102 Stat. 1107) (“Omnibus Trade Act”) \[see Short Title note above\], the Tariff Act of 1930 (Chapter 497, 46 Stat. 590, June 17, 1930), as amended (“Tariff Act”) \[19 U.S.C. 1202 et seq.\], the National Defense Authorization Act, Fiscal Year 1989 (P.L. 100–456, 102 Stat. 1918) (“Defense Authorization Act”) \[see Tables for classification\], section 301 of Title 3 of the United States Code, and, in general, to ensure that the international trade policy of the United States shall be conducted and administered in a way that achieves the economic, foreign policy, and national security objectives of the United States and in a coordinated manner under the direction of the President, it is hereby ordered as follows:
+By virtue of the authority vested in me as President by the Constitution and laws of the United States of America, including the Omnibus Trade and Competitiveness Act of 1988 (P.L. 100–418, 102 Stat. 1107) (“Omnibus Trade Act”) \[see Short Title note above\], the Tariff Act of 1930 (Chapter 497, 46 Stat. 590, June 17, 1930), as amended (“Tariff Act”) \[19 U.S.C. 1202 et seq.\], the National Defense Authorization Act, Fiscal Year 1989 (P.L. 100–456, 102 Stat. 1918) (“Defense Authorization Act”) \[see Tables for classification\], section 301 of Title3 of the United States Code, and, in general, to ensure that the international trade policy of the United States shall be conducted and administered in a way that achieves the economic, foreign policy, and national security objectives of the United States and in a coordinated manner under the direction of the President, it is hereby ordered as follows:
 
 #### PART I—TRADE, CUSTOMS, AND TARIFF LAWS
 

@@ -1,6 +1,6 @@
 ### §496. Validity of other statutes dealing with same subject
 
-This chapter shall not abrogate nor nullify any other statute, whether State or Federal, dealing with the same subjects as this chapter, but it is intended that all such statutes shall remain in full force and effect, except insofar only as they are inconsistent herewith or repugnant hereto.
+This chapter shall not abrogate nor nullify any other statute, whether State or Federal,dealing with the same subjects as this chapter, but it is intended that all such statutes shall remain in full force and effect, except insofar only as they are inconsistent herewith or repugnant hereto.
 
 (Mar. 3, 1927, ch. 309, §3, 44 Stat. 1355.)
 

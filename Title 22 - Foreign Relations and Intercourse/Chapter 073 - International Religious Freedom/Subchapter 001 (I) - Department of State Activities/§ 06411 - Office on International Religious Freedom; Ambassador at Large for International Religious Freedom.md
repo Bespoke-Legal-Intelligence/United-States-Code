@@ -28,7 +28,7 @@ The Ambassador at Large shall have the following responsibilities:
 
 &emsp;Subject to the direction of the President and the Secretary of State, the Ambassador at Large is authorized to represent the United States in matters and cases relevant to religious freedom abroad in—
 
-&emsp;&emsp;(A) contacts with foreign governments, intergovernmental organizations, and specialized agencies of the United Nations, theOrganization on Security and Cooperation in Europe, and other international organizations of which the United States is a member; and
+&emsp;&emsp;(A) contacts with foreign governments, intergovernmental organizations, and specialized agencies of the United Nations, the Organization on Security and Cooperation in Europe, and other international organizations of which the United States is a member; and
 
 &emsp;&emsp;(B) multilateral conferences and meetings relevant to religious freedom abroad.
 

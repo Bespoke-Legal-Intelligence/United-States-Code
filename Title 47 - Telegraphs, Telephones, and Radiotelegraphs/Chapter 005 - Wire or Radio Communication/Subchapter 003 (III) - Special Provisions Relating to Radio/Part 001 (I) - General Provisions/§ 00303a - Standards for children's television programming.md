@@ -20,7 +20,7 @@ After January 1, 1993, the Commission—
 
 As used in this section, the term “commercial television broadcast licensee” includes a cable operator, as defined in section 522 of this title.
 
-(Pub. L. 101–437, title I, §102, Oct. 18, 1990, 104 Stat. 996.)
+(Pub. L. 101–437, title I, §102, Oct. 17, 1990, 104 Stat. 996.)
 
 #### Codification
 
@@ -40,7 +40,7 @@ Section 101 of title I of Pub. L. 101–437 provided that: “The Congress finds
 
 &emsp;“(5) television station operators and licensees should follow practices in connection with children's television programming and advertising that take into consideration the characteristics of this child audience; and
 
-&emsp;“(6) it is therefore necessary that the Federal Communications Commission (hereinafter referred to asthe ‘Commission’) take the actions required by this title \[enacting sections 303a and 303b of this title\].”
+&emsp;“(6) it is therefore necessary that the Federal Communications Commission (hereinafter referred to as the ‘Commission’) take the actions required by this title \[enacting sections 303a and 303b of this title\].”
 
 #### Section Referred to in Other Sections
 

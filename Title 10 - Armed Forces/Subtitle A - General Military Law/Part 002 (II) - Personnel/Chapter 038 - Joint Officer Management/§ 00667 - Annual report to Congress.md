@@ -4,7 +4,7 @@ The Secretary of Defense shall include in the annual report of the Secretary to 
 
 &emsp;(1) The number of officers selected for the joint specialty and their education and experience.
 
-&emsp;(2) The military occupational specialties within each of the armed forces that have beendesignated as critical occupational specialties under section 661(c)(2) of this title, separately identifying those specialties for which there is a severe shortage of trained officers, together with an explanation of how those specialties meet the criteria for that designation in section 661(c)(2)(B) of this title.
+&emsp;(2) The military occupational specialties within each of the armed forces that have been designated as critical occupational specialties under section 661(c)(2) of this title, separately identifying those specialties for which there is a severe shortage of trained officers, together with an explanation of how those specialties meet the criteria for that designation in section 661(c)(2)(B) of this title.
 
 &emsp;(3) The number of officers on the active-duty list with a military occupational specialty designated under section 661(c)(2) of this title as a critical occupational specialty who—
 
@@ -68,11 +68,11 @@ The Secretary of Defense shall include in the annual report of the Secretary to 
 
 &emsp;&emsp;(B) the identity of each operation for which an officer has been granted credit pursuant to section 664(i) of this title and a brief description of the mission of the operation.
 
-&emsp;(17) With regard to each time the principal course of instruction at the Armed Forces Staff College is offered—
+&emsp;(17) With regard to each time the principal course of instruction at the Joint Forces Staff College is offered—
 
 &emsp;&emsp;(A) the number of officers selected to attend that course who did not first complete while in residence at a professional military education school operated by a military department the principal course of instruction offered at that school;
 
-&emsp;&emsp;(B) the number of those officers as a percentage of all officers who attended that course of instruction at the Armed Forces Staff College;
+&emsp;&emsp;(B) the number of those officers as a percentage of all officers who attended that course of instruction at the Joint Forces Staff College;
 
 &emsp;&emsp;(C) a description of the different reasons why officers were selected to attend that course without first attending the principal course of instruction offered at a professional military education school operated by a military department; and
 
@@ -80,9 +80,11 @@ The Secretary of Defense shall include in the annual report of the Secretary to 
 
 &emsp;(18) Such other information and comparative data as the Secretary of Defense considers appropriate to demonstrate the performance of the Department of Defense and the performance of each military department in carrying out this chapter.
 
-(Added Pub. L. 99–433, title IV, §401(a), Oct. 1, 1986, 100 Stat. 1029; amended Pub. L. 100–180, div. A, title XIII, §1304(a), Dec. 4, 1987, 101 Stat. 1172; Pub. L. 100–456, div. A, title V, §512(b), Sept. 29, 1988, 102 Stat. 1968; Pub. L. 101–189, div. A, title XI, §1123(d), Nov. 29, 1989, 103 Stat. 1557; Pub. L. 104–106, div. A, title V, §501(c), Feb. 10, 1996, 110 Stat. 292.)
+(Added Pub. L. 99–433, title IV, §401(a), Oct. 1, 1986, 100 Stat. 1029; amended Pub. L. 100–180, div. A, title XIII, §1304(a), Dec. 4, 1987, 101 Stat. 1172; Pub. L. 100–456, div. A, title V, §512(b), Sept. 29, 1988, 102 Stat. 1968; Pub. L. 101–189, div. A, title XI, §1123(d), Nov. 29, 1989, 103 Stat. 1557; Pub. L. 104–106, div. A, title V, §501(c), Feb. 10, 1996, 110 Stat. 292; Pub. L. 106–398, §1 \[\[div. A\], title IX, §913(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–230.)
 
 #### Amendments
+
+2000—Par. (17). Pub. L. 106–398 substituted “Joint Forces Staff College” for “Armed Forces Staff College” in introductory provisions and in subpar. (B).
 
 1996—Par. (16). Pub. L. 104–106 added par. (16) and struck out former par. (16) which read as follows: “During the period of the applicability of the first sentence of subparagraph (B) of section 661(d)(2) of this title, information on critical positions not filled by officers with the joint specialty, including—
 

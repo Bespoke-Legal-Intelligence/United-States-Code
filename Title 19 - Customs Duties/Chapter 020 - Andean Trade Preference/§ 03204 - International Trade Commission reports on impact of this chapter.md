@@ -1,14 +1,18 @@
 ### §3204. International Trade Commission reports on impact of this chapter
 
-#### (a) In general
+#### (a) Reporting requirements
 
-The United States International Trade Commission (hereinafter in this section referred to as the “Commission”) shall prepare, and submit to the Congress, a report regarding the economic impact of this chapter on United States industries and consumers, and, in conjunction with other agencies, the effectiveness of this chapter in promoting drug-related crop eradication and crop substitution efforts of the beneficiary countries, during—
+#### (1) In general
 
-&emsp;(1) the 24-month period beginning with December 4, 1991; and
+&emsp;The United States International Trade Commission (in this section referred to as the “Commission”) shall submit to Congress and the President biennial reports regarding the economic impact of this chapter on United States industries and consumers, and, in conjunction with other agencies, the effectiveness of this chapter in promoting drug-related crop eradication and crop substitution efforts of the beneficiary countries.
 
-&emsp;(2) each calendar year occurring thereafter until duty-free treatment under this chapter is terminated under section 3206(b) of this title.
+#### (2) Submission
 
-> For purposes of this section, industries in the Commonwealth of Puerto Rico and the insular possessions of the United States shall be considered to be United States industries.
+&emsp;During the period that this chapter is in effect, the report required by paragraph (1) shall be submitted on December 31 of each year that the report required by section 2704 of this title is not submitted.
+
+#### (3) Treatment of Puerto Rico, etc.
+
+&emsp;For purposes of this section, industries in the Commonwealth of Puerto Rico and the insular possessions of the United States are considered to be United States industries.
 
 #### (b) Report requirements
 
@@ -32,5 +36,15 @@ The United States International Trade Commission (hereinafter in this section re
 
 (2) The Commission shall provide an opportunity for the submission by the public, either orally or in writing, or both, of information relating to matters that will be addressed in the reports.
 
-(Pub. L. 102–182, title II, §206, Dec. 4, 1991, 105 Stat. 1243.)
+(Pub. L. 102–182, title II, §206, Dec. 4, 1991, 105 Stat. 1243; Pub. L. 106–200, title II, §211(d)(2), May 18, 2000, 114 Stat. 287.)
+
+#### Amendments
+
+2000—Subsec. (a). Pub. L. 106–200 amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “The United States International Trade Commission (hereinafter in this section referred to as the ‘Commission’) shall prepare, and submit to the Congress, a report regarding the economic impact of this chapter on United States industries and consumers, and, in conjunction with other agencies, the effectiveness of this chapter in promoting drug-related crop eradication and crop substitution efforts of the beneficiary countries, during—
+
+&emsp;“(1) the 24-month period beginning with December 4, 1991; and
+
+&emsp;“(2) each calendar year occurring thereafter until duty-free treatment under this chapter is terminated under section 3206(b) of this title.
+
+> For purposes of this section, industries in the Commonwealth of Puerto Rico and the insular possessions of the United States shall be considered to be United States industries.”
 

@@ -20,7 +20,7 @@
 
 #### (b) Recall service; return of contributions
 
-Whenever an annuitant becomes separated from the Service following a period of recallservice without becoming eligible for a supplemental or recomputed annuity under section 4063 of this title, the compulsory contributions of the annuitant to the Fund for such service, together with any special contributions the annuitant may have made for other service performed after the date of separation from the Service which forms the basis for annuity, shall be returned to the annuitant (and any former spouse of the annuitant who was married to the participant during the period of recall service, in accordance with subsection (i) of this section).
+Whenever an annuitant becomes separated from the Service following a period of recall service without becoming eligible for a supplemental or recomputed annuity under section 4063 of this title, the compulsory contributions of the annuitant to the Fund for such service, together with any special contributions the annuitant may have made for other service performed after the date of separation from the Service which forms the basis for annuity, shall be returned to the annuitant (and any former spouse of the annuitant who was married to the participant during the period of recall service, in accordance with subsection (i) of this section).
 
 #### (c) Difference between annuity and lump-sum credit
 
@@ -64,7 +64,7 @@ Annuity accrued and unpaid on the death of a survivor annuitant shall be paid in
 
 #### (i) Former spouses
 
-Unless otherwise expressly provided by any spousal agreement or court order under section 4060(b)(1) of this title, the amount of a participant's or former participant's lump-sum credit payable to a former spouse of that participant shall be—
+Unless otherwise expressly provided by any spousal agreement or court order under section4060(b)(1) of this title, the amount of a participant's or former participant's lump-sum credit payable to a former spouse of that participant shall be—
 
 &emsp;(1) if the former spouse was married to the participant throughout the period of creditable service of the participant, 50 percent of the lump-sum credit to which such participant would be entitled in the absence of this subsection, or
 

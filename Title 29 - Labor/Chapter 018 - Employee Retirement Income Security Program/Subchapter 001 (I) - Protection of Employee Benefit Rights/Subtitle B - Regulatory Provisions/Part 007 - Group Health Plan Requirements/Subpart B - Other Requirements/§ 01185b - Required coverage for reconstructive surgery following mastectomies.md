@@ -14,7 +14,7 @@ A group health plan, and a health insurance issuer providing health insurance co
 
 #### (b) Notice
 
-A group health plan, and a health insurance issuer providing health insurance coverage in connection with a group health plan shall provide notice to each participant and beneficiary under such plan regarding the coverage required by this section in accordance with regulations promulgated by the Secretary. Such notice shall bein writing and prominently positioned in any literature or correspondence made available or distributed by the plan or issuer and shall be transmitted—
+A group health plan, and a health insurance issuer providing health insurance coverage in connection with a group health plan shall provide notice to each participant and beneficiary under such plan regarding the coverage required by this section in accordance with regulations promulgated by the Secretary. Such notice shall be in writing and prominently positioned in any literature or correspondence made available or distributed by the plan or issuer and shall be transmitted—
 
 &emsp;(1) in the next mailing made by the plan or issuer to the participant or beneficiary;
 
@@ -54,7 +54,7 @@ Pub. L. 105–277, div. A, §101(f) \[title IX, §902(c)\], Oct. 21, 1998, 112 S
 
 “(1)
 
-In general.—The amendments made by this section \[enacting this section\] shall apply with respect to plan years beginning on or after the date of enactment of this Act \[Oct. 21, 1998\].
+In general.—The amendments made by this section \[enacting this section\] shall apply with respect toplan years beginning on or after the date of enactment of this Act \[Oct. 21, 1998\].
 
 “(2)
 

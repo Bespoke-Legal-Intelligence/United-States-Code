@@ -12,7 +12,7 @@ The other Directors shall be officials of the Government of the United States, i
 
 There shall be a Chairman and a Vice Chairman of the Board, both of whom shall be designated by the President of the United States from among the Directors of the Board other than those appointed under the second sentence of the first paragraph of this subsection.
 
-All Directors who are not officers of the Corporation or officials of the Government of the United States shall be compensated at a rate equivalent to that of level IV of the Executive Schedule when actually engaged in the businessof the Corporation and may be paid per diem in lieu of subsistence at the applicable rate prescribed in the standardized Government travel regulations, as amended from time to time, while away from their homes or usual places of business.
+All Directors who are not officers of the Corporation or officials of the Government of theUnited States shall be compensated at a rate equivalent to that of level IV of the Executive Schedule when actually engaged in the business of the Corporation and may be paid per diem in lieu of subsistence at the applicable rate prescribed in the standardized Government travel regulations, as amended from time to time, while away from their homes or usual places of business.
 
 #### (c) President
 
@@ -22,7 +22,11 @@ The President of the Corporation shall be appointed by the President of the Unit
 
 The Executive Vice President of the Corporation shall be appointed by the President of the United States, by and with the advice and consent of the Senate, and shall serve at the pleasure of the President. Other officers, attorneys, employees, and agents shall be selected and appointed by the Corporation, and shall be vested with such powers and duties as the Corporation may determine. Of such persons employed by the Corporation, not to exceed twenty may be appointed, compensated, or removed without regard to the civil service laws and regulations: <i>Provided</i>, That under such regulations as the President of the United States may prescribe, officers and employees of the United States Government who are appointed to any of the above positions may be entitled, upon removal from such position, except for cause, to reinstatement to the position occupied at the time of appointment or to a position of comparable grade and salary. Such positions shall be in addition to those otherwise authorized by law, including those authorized by section 5108 of title 5.
 
-(Pub. L. 87–195, pt. I, §233, as added Pub. L. 91–175, pt. I, §105, Dec. 30, 1969, 83 Stat. 810; amended Pub. L. 97–65, §3(a), (b), Oct. 16, 1981, 95 Stat. 1021, 1022; Pub. L. 106–158, §4, Dec. 9, 1999, 113 Stat. 1746.)
+#### (e) Investment advisory council
+
+The Board shall take prompt measures to increase the loan, guarantee, and insurance programs, and financial commitments, of the Corporation in sub-Saharan Africa, including through the use of an investment advisory council to assist the Board in developing and implementing policies, programs, and financial instruments with respect to sub-Saharan Africa. In addition, the investment advisory council shall make recommendations to the Board on how the Corporation can facilitate greater support by the United States for trade and investment with and in sub-Saharan Africa. The investment advisory council shall terminate 4 years after May 18, 2000.
+
+(Pub. L. 87–195, pt. I, §233, as added Pub. L. 91–175, pt. I, §105, Dec. 30, 1969, 83 Stat. 810; amended Pub. L. 97–65, §3(a), (b), Oct. 16, 1981, 95 Stat. 1021, 1022; Pub. L. 106–158, §4, Dec. 9, 1999, 113 Stat. 1746; Pub. L. 106–200, title I, §123(c)(1), May 18, 2000, 114 Stat. 269.)
 
 #### References in Text
 
@@ -35,6 +39,8 @@ The civil service laws, referred to in subsec. (d), are set out in Title 5. See,
 A prior section 233 of Pub. L. 87–195, pt. I, Sept. 4, 1961, 75 Stat. 432, contained definitions, prior to the general reorganization of this subpart by Pub. L. 91–175, pt. I, §105, Dec. 30, 1969, 83 Stat. 807.
 
 #### Amendments
+
+2000—Subsec. (e). Pub. L. 106–200 added subsec. (e).
 
 1999—Subsec. (b). Pub. L. 106–158, §4(1), (2), in first par., struck out after first sentence “The Administrator of the Agency for International Development shall be the Chairman of the Board, ex officio. The United States Trade Representative shall be the Vice Chairman of the Board, ex officio, except that the United States Trade Representative may designate the Deputy United States Trade Representative to serve as Vice Chairman of the Board in place of the United States Trade Representative.” and struck out “(other than the President of the Corporation, appointed pursuant to subsection (c) of this section who shall serve as a Director, ex officio)” after “Eight Directors”.
 
@@ -54,5 +60,9 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 #### Members of Board of Directors of Overseas Private Investment Corporation
 
-For provisions directing that the United States Trade Representative serve, ex officio, as an additional voting member of the Board of Directors of the Overseas Private Investment Corporation and to serve as the Vice Chair of that Board and authorizing and directing the appointment of an additional member of the Board of Directors of the Overseas Private Investment Corporation as part of the consolidation of the trade functions of the Federal government, see Reorg. Plan No. 3 of 1979, §4, 44 F.R. 69274, 93 Stat. 1381, eff. Jan. 2, 1980, as provided in section 1–107(a) of Ex. Ord. No. 12188, 45 F.R. 993, set out in the Appendix to Title 5, Government Organization and Employees.
+For provisions directing that the United States Trade Representative serve, ex officio, as an additional voting member of the Board of Directors of the Overseas Private Investment Corporation and to serve as the Vice Chair of that Board and authorizing and directing the appointment of an additional member of the Board ofDirectors of the Overseas Private Investment Corporation as part of the consolidation of the trade functions of the Federal government, see Reorg. Plan No. 3 of 1979, §4, 44 F.R. 69274, 93 Stat. 1381, eff. Jan. 2, 1980, as provided in section 1–107(a) of Ex. Ord. No. 12188, 45 F.R. 993, set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 19 section 3733.
 

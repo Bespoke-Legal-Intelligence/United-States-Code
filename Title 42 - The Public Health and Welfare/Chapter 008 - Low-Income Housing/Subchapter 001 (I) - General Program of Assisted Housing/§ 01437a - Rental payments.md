@@ -174,7 +174,7 @@ Person with disabilities.—The term “person with disabilities” means a pers
 
 &emsp;&emsp;(ii) is determined, pursuant to regulations issued by the Secretary, to have a physical, mental, or emotional impairment which (I) is expected to be of long-continued and indefinite duration, (II) substantially impedes his or her ability to live independently, and (III) is of such a nature that such ability could be improved by more suitable housing conditions, or
 
-&emsp;&emsp;(iii) has a developmental disability as defined in section 6001 of this title.
+&emsp;&emsp;(iii) has a developmental disability as defined in section 15002 of this title.
 
 > &emsp;Such term shall not exclude persons who have the disease of acquired immunodeficiency syndrome or any conditions arising from the etiologic agent for acquired immunodeficiency syndrome. Notwithstanding any other provision of law, no individual shall be considered a person with disabilities, for purposes of eligibility for low-income housing under this subchapter, solely on the basis of any drug or alcohol dependence. The Secretary shall consult with other appropriate Federal agencies to implement the preceding sentence.
 
@@ -388,7 +388,7 @@ When used in reference to public housing:
 
 &emsp;&emsp;(C) for which project-based assistance is provided under section 1437f of this title, section 1437bb <sup>7</sup> of this title, or section 811.<sup>7</sup>
 
-(Sept. 1, 1937, ch. 896, title I, §3, as added Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 654; amended Pub. L. 94–375, §2(f), Aug. 3, 1976, 90 Stat. 1068; Pub. L. 95–557, title II, §206(c), Oct. 31, 1978, 92 Stat. 2091; Pub. L. 96–153, title II, §202(a), Dec. 21, 1979, 93 Stat. 1106; Pub. L. 97–35, title III, §322(a), Aug. 13, 1981, 95 Stat. 400; Pub. L. 98–181, title II, §§202, 206(a)–(c), Nov. 30, 1983, 97 Stat. 1178, 1179; Pub. L. 98–479, title I, §102(b)(1)–(3), Oct. 17, 1984, 98 Stat. 2221; Pub. L. 100–242, title I, §§102(a), 111, 170(c), Feb. 5, 1988, 101 Stat. 1821, 1823, 1867; renumbered title I and amended Pub. L. 100–358, §§4, 5, June 29, 1988, 102 Stat. 680, 681; Pub. L. 101–235, title III, §302, Dec. 15, 1989, 103 Stat. 2043; Pub. L. 101–625, title V, §§515(b), 572, 573(a)–(d), 574, Nov. 28, 1990, 104 Stat. 4199, 4236–4238; Pub. L. 102–550, title I, §§102–103(a)(2), 185(c)(4), title VI, §§621, 622(c), 625(a)(1), Oct. 28, 1992, 106 Stat. 3683, 3748, 3812, 3817, 3820; Pub. L. 103–233, title III, §301, Apr. 11, 1994, 108 Stat. 369;Pub. L. 104–99, title IV, §402(b)(1), (c), Jan. 26, 1996, 110 Stat. 40, 41; Pub. L. 104–330, title V, §501(b)(1), Oct. 26, 1996, 110 Stat. 4041; Pub. L. 105–276, title V, §§506, 507(a), (c), 508(a), (b)(1), (c)(1), (d)(1), 520(a), 523, 524(a), 546, Oct. 21, 1998, 112 Stat. 2523–2529, 2562, 2565–2567, 2604; Pub. L. 106–74, title II, §214(a), Oct. 20, 1999, 113 Stat. 1074.)
+(Sept. 1, 1937, ch. 896, title I, §3, as added Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 654; amended Pub. L. 94–375, §2(f), Aug. 3, 1976, 90 Stat. 1068; Pub. L. 95–557, title II, §206(c), Oct. 31, 1978, 92 Stat. 2091; Pub. L. 96–153, title II, §202(a), Dec. 21, 1979, 93 Stat. 1106; Pub. L. 97–35, title III, §322(a), Aug. 13, 1981, 95 Stat. 400; Pub. L. 98–181, title II, §§202, 206(a)–(c), Nov. 30, 1983, 97 Stat. 1178, 1179; Pub. L. 98–479, title I, §102(b)(1)–(3), Oct. 17, 1984, 98 Stat. 2221; Pub. L. 100–242, title I, §§102(a), 111, 170(c), Feb. 5, 1988, 101 Stat. 1821, 1823, 1867; renumbered title I and amended Pub. L. 100–358, §§4, 5, June 29, 1988, 102 Stat. 680, 681; Pub. L. 101–235, title III, §302, Dec. 15, 1989, 103 Stat. 2043; Pub. L. 101–625, title V, §§515(b), 572, 573(a)–(d), 574, Nov. 28, 1990, 104 Stat. 4199, 4236–4238; Pub. L. 102–550, title I, §§102–103(a)(2), 185(c)(4), title VI, §§621, 622(c), 625(a)(1), Oct. 28, 1992, 106 Stat. 3683, 3748, 3812, 3817, 3820; Pub. L. 103–233, title III, §301, Apr. 11, 1994, 108 Stat. 369;Pub. L. 104–99, title IV, §402(b)(1), (c), Jan. 26, 1996, 110 Stat. 40, 41; Pub. L. 104–330, title V, §501(b)(1), Oct. 26, 1996, 110 Stat. 4041; Pub. L. 105–276, title V, §§506, 507(a), (c), 508(a), (b)(1), (c)(1), (d)(1), 520(a), 523, 524(a), 546, Oct. 21, 1998, 112 Stat. 2523–2529, 2562, 2565–2567, 2604; Pub. L. 106–74, title II, §214(a), Oct. 20, 1999, 113 Stat. 1074; Pub. L. 106–402, title IV, §401(b)(7), Oct. 30, 2000, 114 Stat. 1738.)
 
 #### References in Text
 
@@ -420,6 +420,8 @@ Prior similar provisions were contained in section 2 of act Sept. 1, 1937, ch. 8
 
 #### Amendments
 
+2000—Subsec. (b)(3)(E)(iii). Pub. L. 106–402 substituted “section 15002 of this title” for “section 6001 of this title”.
+
 1999—Subsec. (f)(1). Pub. L. 106–74, §214(a)(1), inserted “, or the owner responsible for determining the participant's eligibility or level of benefits,” after “A public housing agency” and “, or to the owner responsible for determining the participant's eligibility or level of benefits” before period at end.
 
 Subsec. (f)(2)(C). Pub. L. 106–74, §214(a)(2), added subpar. (C).
@@ -448,7 +450,7 @@ Subsec. (b)(6). Pub. L. 105–276, §546, amended par. (6) generally. Prior to a
 
 Subsec. (b)(9) to (13). Pub. L. 105–276, §506(4), added pars. (9) to (13).
 
-Subsec. (c). Pub. L. 105–276, §508(b)(1)(A), which directed the amendment of subsec. (c) by striking out the undesignated par. after par. (3), was executed by striking out concluding provisions after par. (5), to reflect the probable intent of Congress. Concluding provisions read as follows: “The earnings of and benefits to any public housing resident resulting from participation in a program providing employment training and supportive services in accordance with the Family Support Act of 1988, section 1437t of this title, or any comparable Federal, State, or local law shall not be considered as income for the purposes of determining a limitation on the amount of rent paid by the resident during—
+Subsec. (c). Pub. L. 105–276, §508(b)(1)(A), which directed the amendment of subsec. (c) by striking out the undesignated par. after par. (3), was executed by striking out concluding provisions after par. (5), to reflect the probable intent of Congress. Concluding provisions read as follows: “The earnings of and benefits to any public housing resident resulting from participation in a program providing employment training and supportive services in accordance with the Family Support Act of 1988, section 1437t of this title, or any comparable Federal, State, or local law shall not be considered asincome for the purposes of determining a limitation on the amount of rent paid by the resident during—
 
 &emsp;“(1) the period that the resident participates in such program; and
 
@@ -540,7 +542,7 @@ Subsec. (b)(5)(G). Pub. L. 102–550, §103(a)(2)(B)–(D), added subpar. (G).
 
 Subsec. (c)(4), (5). Pub. L. 102–550, §622(c), which directed the amendment of subsec. (c) by inserting pars. (4) and (5) after “project.”, was executed by making the insertion after “project.” at the end of par. (3), to reflect the probable intent of Congress.
 
-1990—Pub. L. 101–625, §515(b), added concluding undesignated par. directing that earnings and benefits to public housing residents resulting from participation in programs providing employment training and supportive services not be considered as income.
+1990—Pub. L. 101–625, §515(b), added concluding undesignated par. directing that earnings and benefits topublic housing residents resulting from participation in programs providing employment training and supportive services not be considered as income.
 
 Subsec. (a)(1). Pub. L. 101–625, §572(1), substituted “low-income families” for “lower income families” in introductory provisions.
 
@@ -610,9 +612,9 @@ Amendment by title V of Pub. L. 105–276 effective and applicable beginning upo
 
 Pub. L. 105–276, title V, §507(d), Oct. 21, 1998, 112 Stat. 2526, provided that: “The amendments under this section \[amending this section\] are made on, and shall apply beginning upon, the date of the enactment of this Act \[Oct. 21, 1998\].”
 
-Pub. L. 105–276, title V, §508(c)(2), Oct. 21, 1998, 112 Stat. 2529, provided that: “The amendments made by this paragraph \[probably means this subsection, amending this section\] are made on, and shall apply beginning upon, the date of the enactment of this Act \[Oct. 21, 1998\].”
+Pub. L. 105–276, title V, §508(c)(2), Oct. 21, 1998, 112 Stat. 2529, provided that: “The amendments made bythis paragraph \[probably means this subsection, amending this section\] are made on, and shall apply beginning upon, the date of the enactment of this Act \[Oct. 21, 1998\].”
 
-Pub. L. 105–276, title V, §524(b), Oct. 21, 1998, 112 Stat. 2568, provided that: “The amendment made by thisparagraph \[probably means this section, amending this section\] is made on, and shall apply beginning upon, the date of the enactment of this Act \[Oct. 21, 1998\].”
+Pub. L. 105–276, title V, §524(b), Oct. 21, 1998, 112 Stat. 2568, provided that: “The amendment made by this paragraph \[probably means this section, amending this section\] is made on, and shall apply beginning upon, the date of the enactment of this Act \[Oct. 21, 1998\].”
 
 #### Effective and Termination Dates of 1996 Amendments
 
@@ -682,7 +684,7 @@ Transition rule.—Prior to the issuance of final regulations under paragraph (1
 
 \[Section 402(b)(2) of Pub. L. 104–99, set out above, effective Jan. 26, 1996, and only for fiscal years 1996, 1997, and 1998, and to cease to be effective Oct. 21, 1998, see Effective and Termination Dates of 1996 Amendments notes above.\]
 
-Section 191 of title I of Pub. L. 102–550 provided that: “The Secretary of Housing and Urban Development shall issue any final regulations necessary to implement the provisions of this title \[see Tables for classification\] and the amendments made by this title not later than the expiration of the 180-day period beginning on the date of the enactment of this Act \[Oct. 28, 1992\], except as expressly provided otherwise in this title and the amendments made by this title. Such regulations shall be issued after notice and opportunity for public comment pursuant to the provisions of section 553 of title 5, United States Code (notwithstanding subsections (a)(2), (b)(B), and (d)(3) of such section).”
+Section 191 of title I of Pub. L. 102–550 provided that: “The Secretary of Housing and Urban Development shall issue any final regulations necessary to implement the provisions of this title \[see Tables for classification\] and the amendments made by this title not later than the expiration of the 180-day period beginning on the date of the enactment of this Act \[Oct. 28, 1992\], except as expressly provided otherwise in this title and the amendments made by this title. Such regulations shall be issued after notice and opportunityfor public comment pursuant to the provisions of section 553 of title 5, United States Code (notwithstanding subsections (a)(2), (b)(B), and (d)(3) of such section).”
 
 #### Savings Provision
 
@@ -812,9 +814,9 @@ Section 206(d) of Pub. L. 98–181 provided that:
 
 “(5) The limitations on increases in rent contained in paragraphs (1)(B), (2), (3), and (4) shall remain in effect and may not be changed or superseded except by another provision of law which amends this subsection.
 
-“(6) As used in this subsection, the term ‘contribution’ means an amount representing 30 per centum of a tenant's monthly adjusted income, 10 per centum of the tenant's monthly income, or the designated amount of welfare assistance, whichever amount is used to determine the monthly assistance payment for the tenant under section 3(a) of the United States Housing Act of 1937 \[subsec. (a) of this section\].
+“(6) As used in this subsection, the term ‘contribution’ means an amount representing 30 per centum of atenant's monthly adjusted income, 10 per centum of the tenant's monthly income, or the designated amount of welfare assistance, whichever amount is used to determine the monthly assistance payment for the tenant under section 3(a) of the United States Housing Act of 1937 \[subsec. (a) of this section\].
 
-“(7) The provisions of subsections (a) through (h) of section 322 of the Housing and Community Development Amendments of 1981 shall be implemented andfully applicable to all affected tenants no later than five years following the date of enactment of such amendments \[Aug. 13, 1981\], except that the Secretary may extend the time for implementation if the Secretary determines that full implementation would result in extraordinary hardship for any class of tenants.”
+“(7) The provisions of subsections (a) through (h) of section 322 of the Housing and Community Development Amendments of 1981 shall be implemented and fully applicable to all affected tenants no later than five years following the date of enactment of such amendments \[Aug. 13, 1981\], except that the Secretary may extend the time for implementation if the Secretary determines that full implementation would result in extraordinary hardship for any class of tenants.”
 
 Prior provisions for determining rent payable by tenants occupying assisted housing under and authorizing delayed application or staged implementation of provisions amended by section 322 of Pub. L. 97–35 were contained in Pub. L. 97–35, title III, §322(i), Aug. 13, 1981, 95 Stat. 404, which was repealed by Pub. L. 98–181, title II, §206(e), Nov. 30, 1983, 97 Stat. 1181.
 
@@ -824,7 +826,7 @@ Section 202 of Pub. L. 93–383 provided that: “To the extent that section 3(1
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 254b, 503, 1436a, 1437f, 1437j, 1437r, 1437s, 1437z–3, 1437z–7, 1437aaa–3, 1437bbb–4, 1471, 1486, 3544, 4851b, 5305, 8011, 8012, 8013, 9907, 11386, 11395, 11403e–2, 11403g, 12704, 12876, 12896, 12899d, 12899f, 12910, 13617, 13641, 13661, 13664 of this title; title 12 sections 1441a, 1701q, 1701u, 1701z–11, 1715z–1a, 1715z–1c, 1715z–9, 1715z–15, 1831q, 4119, 4125; title 20 section 1070a–22.
+This section is referred to in sections 247b–16, 254b, 280g, 503, 1436a, 1437f, 1437j, 1437r, 1437s, 1437z–3, 1437z–7, 1437aaa–3, 1437bbb–4, 1471, 1486, 3544, 4851b, 5305, 8011, 8012, 8013, 9907, 11386, 11395, 11403e–2, 11403g, 12704, 12876, 12896, 12899d, 12899f, 12910, 13617, 13641, 13661, 13664 of this title; title 12 sections 1441a, 1701q, 1701u, 1701z–11, 1715z–1a, 1715z–1c, 1715z–9, 1715z–15, 1831q, 4119, 4125; title 20 section 1070a–22.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

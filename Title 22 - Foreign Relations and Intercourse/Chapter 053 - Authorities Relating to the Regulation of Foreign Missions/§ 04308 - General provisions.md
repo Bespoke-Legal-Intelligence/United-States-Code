@@ -40,15 +40,11 @@ Except as otherwise provided, any determination required under this chapter shal
 
 (1) In order to implement this chapter, the Secretary may transfer to the working capital fund established by section 2684 of this title such amounts available to the Department of State as may be necessary.
 
-(2) All revenues, including proceeds from gifts and donations, received by the Secretary in carrying out this chapter may be credited to theworking capital fund established by section 2684 of this title and shall be available for purposes of this chapter in accordance with that section.
+(2) All revenues, including proceeds from gifts and donations, received by the Secretary in carrying out this chapter may be credited to the working capital fund established by section 2684 of this title and shall be available for purposes of this chapter in accordance with that section.
 
 (3) Only amounts transferred or credited to the working capital fund established by section 2684 of this title may be used in carrying out the functions of the Secretary or the Director under this chapter.
 
 (Aug. 1, 1956, ch. 841, title II, §208, as added Pub. L. 97–241, title II, §202(b), Aug. 24, 1982, 96 Stat. 288; amended Pub. L. 103–236, title I, §162(<i>o</i>)(6), Apr. 30, 1994, 108 Stat. 410.)
-
-#### Codification
-
-Section is also set out in D.C. Code, §5–1208.
 
 #### Amendments
 

@@ -8,12 +8,6 @@ As a means of providing within township 8 south, ranges 7 and 8 east, and townsh
 
 (May 26, 1926, ch. 399, §1, 44 Stat. 655.)
 
-#### Cross References
-
-Conservation of elk in Wyoming, National Elk Refuge in Wyoming, and Wyoming Elk Reserve, see sections 673 to 673c of this title.
-
-Trust funds, donations for National Park Service deposited into Treasury as, see section 1321 of Title 31, Money and Finance.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 38, 39, 40 of this title.

@@ -56,6 +56,10 @@ Section 40 of act Aug. 19, 1937, provided as follows:
 
 “(b) The right to alter, amend, or repeal this Act is hereby expressly reserved.”
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of reporting provisions in par. (3) of this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 166 of House Document No. 103–7.
+
 #### Transfer of Functions
 
 Establishment of Farm Credit Administration as an independent agency, composition of Farm Credit Administration, appointment of Governor of Farm Credit Administration, and duties thereof, including duty to perform functions, etc., of Farm Credit Administration, see section 2241 et seq. of this title.

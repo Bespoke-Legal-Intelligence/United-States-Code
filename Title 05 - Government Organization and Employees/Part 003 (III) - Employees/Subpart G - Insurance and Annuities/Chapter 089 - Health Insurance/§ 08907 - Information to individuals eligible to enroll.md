@@ -10,7 +10,7 @@
 
 &emsp;(3) principal provisions of the plan affecting the enrollee and any eligible family members.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 605; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 98–615, §3(5), Nov. 8, 1984, 98 Stat. 3204; Pub. L. 99–53, §2(d), June 17, 1985, 99 Stat. 94.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 605; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92Stat. 1224; Pub. L. 98–615, §3(5), Nov. 8, 1984, 98 Stat. 3204; Pub. L. 99–53, §2(d), June 17, 1985, 99 Stat. 94.)
 
 Historical and Revision Notes
 

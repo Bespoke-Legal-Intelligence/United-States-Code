@@ -34,9 +34,3 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 1976—Pub. L. 94–213 designated existing provisions as subsec. (a) and added subsec. (b).
 
-#### Cross References
-
-Armed forces personnel, administration of oaths by designated persons on active duty, see section 936 of Title 10, Armed Forces.
-
-Coast Guard, administration of oaths by designated officers, see section 636 of Title 14, Coast Guard.
-

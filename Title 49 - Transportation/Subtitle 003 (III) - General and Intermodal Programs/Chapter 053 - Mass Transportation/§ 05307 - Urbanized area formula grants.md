@@ -12,7 +12,7 @@ Associated capital maintenance items.—The term “associated capital maintenan
 
 Designated recipient.—The term “designated recipient” means—
 
-&emsp;&emsp;(A) a person designated, consistent with the planning process under sections 5303–5306 of this title, by the chief executive officer ofa State, responsible local officials, and publicly owned operators of mass transportation to receive and apportion amounts under section 5336 of this title that are attributable to transportation management areas established under section 5305(a) of this title; or
+&emsp;&emsp;(A) a person designated, consistent with the planning process under sections 5303–5306 of this title, by the chief executive officer of a State, responsible local officials, and publicly owned operators of mass transportation to receive and apportion amounts under section 5336 of this title that are attributable to transportation management areas established under section 5305(a) of this title; or
 
 &emsp;&emsp;(B) a State or regional authority if the authority is responsible under the laws of a State for a capital project and for financing and directly providing mass transportation.
 
@@ -42,7 +42,7 @@ Public Participation Requirements.—Each recipient of a grant shall—
 
 &emsp;(4) provide an opportunity for a public hearing in which to obtain the views of citizens on the proposed program of projects;
 
-&emsp;(5) ensure that the proposed program of projects provides for the coordination of mass transportation services assisted under section 5336 of this title with transportation services assisted from other United States Government sources;
+&emsp;(5) ensure that the proposed program of projects provides for the coordination of masstransportation services assisted under section 5336 of this title with transportation services assisted from other United States Government sources;
 
 &emsp;(6) consider comments and views received, especially those of private transportation providers, in preparing the final program of projects; and
 
@@ -78,7 +78,7 @@ Grant Recipient Requirements.—A recipient may receive a grant in a fiscal year
 
 &emsp;&emsp;(I) has a locally developed process to solicit and consider public comment before raising a fare or carrying out a major reduction of transportation; and
 
-&emsp;&emsp;(J)(i) will expend for each fiscal year for mass transportation security projects, including increased lighting in or adjacent to a mass transportation system (including bus stops, subway stations, parking lots, and garages), increased camera surveillance of anarea in or adjacent to that system, providing an emergency telephone line to contact law enforcement or security personnel in an area in or adjacent to that system, and any other project intended to increase the security and safety of an existing or planned mass transportation system, at least one percent of the amount the recipient receives for each fiscal year under section 5336 of this title; or
+&emsp;&emsp;(J)(i) will expend for each fiscal year for mass transportation security projects, including increased lighting in or adjacent to a mass transportation system (including bus stops, subway stations, parking lots, and garages), increased camera surveillance of an area in or adjacent to that system, providing an emergency telephone line to contact law enforcement or security personnel in an area in or adjacent to that system, and any other project intended to increase the security and safety of an existing or planned mass transportation system, at least one percent of the amount the recipient receives for each fiscal year under section 5336 of this title; or
 
 &emsp;&emsp;(ii) has decided that the expenditure for security projects is not necessary; and
 
@@ -416,7 +416,7 @@ Subsec. (d)(1)(E)(iii). Pub. L. 103–429, §6(7)(B), substituted “Buy America
 
 #### Effective Date of 1998 Amendment
 
-Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of Title 23, Highways.
+Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated asincluded in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of Title 23, Highways.
 
 #### Effective Date of 1996 Amendment
 
@@ -460,7 +460,7 @@ Pub. L. 105–178, title III, §3021, June 9, 1998, 112 Stat. 363; as amended by
 
 “(a)
 
-In General.—The Secretary \[of Transportation\] shall establish a pilot program to determine the benefits of using funds from the Mass Transit Account of the Highway Trust Fund for intercity passenger rail. The funds made available to the State of Oklahoma andthe State of Vermont to carry out sections 5307 and 5311 of title 49, United States Code during fiscal years 1998 through 2003 may be used for capital improvements to, and operating assistance for, intercity passenger rail service.
+In General.—The Secretary \[of Transportation\] shall establish a pilot program to determine the benefits of using funds from the Mass Transit Account of the Highway Trust Fund for intercity passenger rail. The funds made available to the State of Oklahoma and the State of Vermont to carry out sections 5307 and 5311 of title 49, United States Code during fiscal years 1998 through 2003 may be used for capital improvements to, and operating assistance for, intercity passenger rail service.
 
 “(b)
 
@@ -484,7 +484,7 @@ Contents.—The report submitted under paragraph (1) shall include—
 
 #### Continuation of Operating Assistance to Certain Larger Urbanized Areas
 
-Pub. L. 105–178, title III, §3027(c), June 9, 1998, 112 Stat. 366; as amended by Pub. L. 105–206, title IX, §9009(<i>o</i>)(1), July 22, 1998, 112 Stat. 858; Pub. L. 105–277, div. A, §101(g) \[title III, §360\], Oct. 21, 1998, 112 Stat. 2681–439, 2681–477; Pub. L. 106–31, title VI, §6004, May 21, 1999, 113 Stat. 113, provided that:
+Pub. L. 105–178, title III, §3027(c), June 9, 1998, 112 Stat. 366; as amended by Pub. L. 105–206, title IX, §9009(<i>o</i>)(1), July 22, 1998, 112 Stat. 858; Pub. L. 105–277, div. A, §101(g) \[title III, §360\], Oct. 21, 1998, 112 Stat. 2681–439, 2681–477; Pub. L. 106–31, title VI, §6004, May 21, 1999, 113 Stat. 113; Pub. L. 106–346, §101(a) \[title III, §341\], Oct. 23, 2000, 114 Stat. 1356, 1356A–32, provided that:
 
 “(1)
 
@@ -508,9 +508,9 @@ Period described.—For purposes of paragraph (1), the period described in this 
 
 “(3)
 
-Services for elderly and persons with disabilities.—In addition to assistance made available under paragraph (1), the Secretary may provide assistance under section 5307 of title 49, United States Code, to a transit provider that operates 20 or fewer vehicles in an urbanized area with a population of at least 200,000 to finance the operating costs of equipment and facilities used by the transit provider in providing mass transportation services to elderly and persons with disabilities, provided that such assistance to all entities shall not exceed $1,000,000 annually.”
+Services for elderly and persons with disabilities.—In addition to assistance made available under paragraph (1), the Secretary may provide assistance under section 5307 of title 49, United States Code, to a transit provider that operates 20 or fewer vehicles in an urbanized area with a population of at least 200,000 to finance the operating costs of equipment and facilities used by the transit provider in providing mass transportation services to elderly and persons with disabilities, provided that such assistance to all entities shall not exceed $1,444,000 annually.”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5302, 5308, 5315, 5319, 5323, 5326, 5327, 5330, 5331, 5333, 5334, 5335, 5336, 5338, 31138 of this title; title 42 section 3035<i>l.</i>
+This section is referred to in sections 5302, 5308, 5315, 5319, 5323, 5326, 5327, 5330, 5331, 5333, 5334, 5335, 5336, 5338, 31138 of this title.
 

@@ -2,13 +2,13 @@
 
 (a)
 
-Federal Charter.—Fleet Reserve Association (in this chapter, the “corporation”), a nonprofit corporation incorporated in Delaware, is a federally chartered corporation.
+Federal Charter.—Fleet Reserve Association (in this chapter, the “corporation”), a nonprofit corporation incorporated in Pennsylvania, is a federally chartered corporation.
 
 (b)
 
 Expiration of Charter.—If the corporation does not comply with any provision of this chapter, the charter granted by this chapter expires.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1347.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1347; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(g)(4)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–294.)
 
 Historical and Revision Notes
 
@@ -33,4 +33,8 @@ Sept. 23, 1996, Pub. L. 104–201, title XVIII, §§1801, 1814 (related to termi
 36:5614.
 
 This section is substituted for the source provisions for consistency in the revised title and to eliminate unnecessary words.
+
+#### Amendments
+
+2000—Subsec. (a). Pub. L. 106–398 substituted “Pennsylvania” for “Delaware”.
 

@@ -38,7 +38,7 @@ Army, Navy, and Air Force Psychologists.—The Secretary of Defense may provide 
 
 Nonphysician Health Care Providers.—The Secretary concerned may authorize the payment of special pay at the rates specified in subsection (b) to an officer who—
 
-&emsp;(1) is an officer in the Medical Services Corps of the Army or Navy, a biomedical sciences officer in the Air Force, an officer in the Army Medical Specialist Corps, an officer of the Nurse Corps of the Army or Navy, an officer of the Air Force designated as a nurse, or an officer in the Regular or Reserve Corps of the Public Health Service;
+&emsp;(1) is an officer in the Medical Services Corps of the Army or Navy, a biomedical sciences officer in the Air Force, an officer in the Army Medical Specialist Corps, an officer of the Nurse Corps of the Army or Navy, an officer of the Air Force designated as a nurse, an officer of the Coast Guard or Coast Guard Reserve designated as a physician assistant, or an officer in the Regular or Reserve Corps of the Public Health Service;
 
 &emsp;(2) is a health care provider (other than a psychologist);
 
@@ -46,13 +46,15 @@ Nonphysician Health Care Providers.—The Secretary concerned may authorize the 
 
 &emsp;(4) is certified by a professional board in the officer's specialty.
 
-(Added Pub. L. 100–140, §2(a), Oct. 26, 1987, 101 Stat. 830; amended Pub. L. 101–189, div. A, title VII, §704(a), (b)(1), (c), Nov. 29, 1989, 103 Stat. 1471; Pub. L. 101–510, div. A, title VI, §618(a), Nov. 5, 1990, 104 Stat. 1579; Pub. L. 102–25, title VII, §702(a)(2)(A), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §611, Oct. 23, 1992, 106 Stat. 2420; Pub. L. 104–106, div. A, title VI, §617, Feb. 10, 1996, 110 Stat. 362; Pub. L. 104–201, div. A, title VI, §614(b), Sept. 23, 1996, 110 Stat. 2544; Pub. L. 105–85, div. A, title X, §1073(c)(5), Nov. 18, 1997, 111 Stat. 1904.)
+(Added Pub. L. 100–140, §2(a), Oct. 26, 1987, 101 Stat. 830; amended Pub. L. 101–189, div. A, titleVII, §704(a), (b)(1), (c), Nov. 29, 1989, 103 Stat. 1471; Pub. L. 101–510, div. A, title VI, §618(a), Nov. 5, 1990, 104 Stat. 1579; Pub. L. 102–25, title VII, §702(a)(2)(A), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §611, Oct. 23, 1992, 106 Stat. 2420; Pub. L. 104–106, div. A, title VI, §617, Feb. 10, 1996, 110 Stat. 362; Pub. L. 104–201, div. A, title VI, §614(b), Sept. 23, 1996, 110 Stat. 2544; Pub. L. 105–85, div. A, title X, §1073(c)(5), Nov. 18, 1997, 111 Stat. 1904; Pub. L. 106–398, §1 \[\[div. A\], title VI, §627\], Oct. 30, 2000, 114 Stat. 1654, 1654A–153.)
 
 #### Prior Provisions
 
 A prior section 302c, added Pub. L. 96–284, §3(a)(1), June 28, 1980, 94 Stat. 589, related to special pay for medical officers of the Public Health Service, prior to repeal by Pub. L. 96–513, title IV, §414(a), Dec. 12, 1980, 94 Stat. 2906, eff. Sept. 15, 1981.
 
 #### Amendments
+
+2000—Subsec. (d)(1). Pub. L. 106–398 inserted “an officer of the Coast Guard or Coast Guard Reserve designated as a physician assistant,” after “nurse,”.
 
 1997—Subsec. (d)(1). Pub. L. 105–85 made technical correction to directory language of Pub. L. 104–201, §614(b)(2)(B). See 1996 Amendment note below.
 

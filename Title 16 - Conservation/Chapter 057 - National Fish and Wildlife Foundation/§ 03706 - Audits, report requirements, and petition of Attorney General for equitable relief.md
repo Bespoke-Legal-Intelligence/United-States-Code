@@ -6,7 +6,7 @@ For purposes of section 10101 of title 36, the Foundation shall be treated as a 
 
 #### (b) Report
 
-The Foundation shall, as soon as practicable after the end of each fiscal year, transmit to Congress a report of its proceedings and activities during such year, including a full and complete statement of its receipts, expenditures, and investments; and a description of all acquisition and disposal of real property that is subject to section 3703(e) of this title.
+The Foundation shall, as soon as practicable after the end of each fiscal year, transmit to the Committee on Resources of the House of Representatives and the Committee on Environment and Public Works of the Senate a report of its proceedings and activities during such year, including a full and complete statement of its receipts, expenditures, and investments; and a description of all acquisition and disposal of real property that is subject to section 3703(e) of this title. The report shall include a detailed statement of the recipient, amount, and purpose of each grant made by the Foundation in the fiscal year.
 
 #### (c) Relief with respect to certain Foundation acts or failure to act
 
@@ -18,7 +18,7 @@ If the Foundation—
 
 > the Attorney General of the United States may petition in the United States District Court for the District of Columbia for such equitable relief as may be necessary or appropriate.
 
-(Pub. L. 98–244, §7, Mar. 26, 1984, 98 Stat. 110; Pub. L. 100–240, §2(b)(2), Jan. 11, 1988, 101 Stat. 1786.)
+(Pub. L. 98–244, §7, Mar. 26, 1984, 98 Stat. 110; Pub. L. 100–240, §2(b)(2), Jan. 11, 1988, 101 Stat. 1786; Pub. L. 106–408, title II, §205, Nov. 1, 2000, 114 Stat. 1780.)
 
 #### Codification
 
@@ -26,5 +26,11 @@ In subsec. (a), “section 10101 of title 36” substituted for “the Act entit
 
 #### Amendments
 
-1988—Subsec. (b). Pub. L. 100–240 inserted “;  and a description of all acquisition and disposal of real property that is subject to section 3703(e) of this title” before period at end.
+2000—Subsec. (b). Pub. L. 106–408 substituted “the Committee on Resources of the House of Representatives and the Committee on Environment and Public Works of the Senate” for “Congress” and inserted at end “The report shall include a detailed statement of the recipient, amount, and purpose of each grant made by the Foundation in the fiscal year.”
+
+1988—Subsec. (b). Pub. L. 100–240 inserted “; and a description of all acquisition and disposal of real property that is subject to section 3703(e) of this title” before period at end.
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsec. (b) of this section is listed on page 203), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 

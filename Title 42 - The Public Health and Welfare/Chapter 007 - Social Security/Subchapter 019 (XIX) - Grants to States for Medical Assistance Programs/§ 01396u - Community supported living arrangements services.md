@@ -48,7 +48,7 @@ A State selected by the Secretary to provide services under this section shall i
 
 &emsp;(6) the State will provide the services defined in subsection (a) of this section in accordance with an individual support plan (as defined by the Secretary in regulations); and
 
-&emsp;(7) the State plan amendment under this section shall be reviewed by the State Planning Council established under section 6024 of this title, and the Protection and Advocacy System established under section 6042 of this title.
+&emsp;(7) the State plan amendment under this section shall be reviewed by the State Council on Developmental Disabilities established under section 125 of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 \[42 U.S.C. §15025\] and the protection and advocacy system established under subtitle C of that Act \[42 U.S.C. 15041 et seq.\].
 
 > The Secretary shall not approve a quality assurance plan under this subsection and allow a State to continue to receive Federal financial participation under this section unless the State provides for public hearings on the plan prior to adoption and implementation of its plan under this subsection.
 
@@ -82,7 +82,7 @@ The Secretary may waive such provisions of this subchapter as necessary to carry
 
 #### (B) Minimum protections
 
-&emsp;&emsp;Interim and final requirements under subparagraph (A) shall assure, through methods other than reliance on State licensure processes or the State quality assurance programs under subsection (d) of this section, that—
+&emsp;&emsp;Interim and final requirements under subparagraph (A) shall assure, through methodsother than reliance on State licensure processes or the State quality assurance programs under subsection (d) of this section, that—
 
 &emsp;&emsp;&emsp;(i) individuals receiving community supported living arrangements services are protected from neglect, physical and sexual abuse, and financial exploitation;
 
@@ -104,11 +104,19 @@ Any funds expended under this section for medical assistance shall be in additio
 
 The amount of funds that may be expended as medical assistance to carry out the purposes of this section shall be for fiscal year 1991, $5,000,000, for fiscal year 1992, $10,000,000, for fiscal year 1993, $20,000,000, for fiscal year 1994, $30,000,000, for fiscal year 1995, $35,000,000, and for fiscal years thereafter such sums as provided by Congress.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1930, as added Pub. L. 101–508, title IV, §4712(b), Nov. 5, 1990, 104 Stat. 1388–187.)
+(Aug. 14, 1935, ch. 531, title XIX, §1930, as added Pub. L. 101–508, title IV, §4712(b), Nov. 5, 1990, 104 Stat. 1388–187; amended Pub. L. 106–402, title IV, §401(b)(6)(B), Oct. 30, 2000, 114 Stat. 1738.)
+
+#### References in Text
+
+The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsec. (d)(7), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677. Subtitle C of the Act probably means subtitle C of title I of the Act, which is classified generally to part C (§15041 et seq.) of subchapter I of chapter 144 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of this title and Tables.
 
 #### Codification
 
 Pub. L. 101–508, title IV, §4712(b)(1), Nov. 5, 1990, 104 Stat. 1388–187, which directed renumbering of section 1930 of the Social Security Act, act Aug. 14, 1935, as section 1931, could not be executed because there was no section 1930.
+
+#### Amendments
+
+2000—Subsec. (d)(7). Pub. L. 106–402 substituted “State Council on Developmental Disabilities established under section 125 of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 and the protection and advocacy system established under subtitle C of that Act” for “State Planning Council established under section 6024 of this title, and the Protection and Advocacy System established under section 6042 of this title”.
 
 #### Effective Date
 

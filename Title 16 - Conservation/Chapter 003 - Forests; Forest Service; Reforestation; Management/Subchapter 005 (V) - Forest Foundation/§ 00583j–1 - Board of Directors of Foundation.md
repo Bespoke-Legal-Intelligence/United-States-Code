@@ -36,7 +36,7 @@ Officers and employees may not be appointed until the Foundation has sufficient 
 
 #### References in Text
 
-This subchapter, referred to in subsec. (g), was in the original “this subtitle” and was translated as reading “this title”, meaning title IV of Pub. L. 101–593, Nov. 16, 1990, 104 Stat. 2969, known as the National Forest Foundation Act, which does not contain subtitles, and which is classified generally to this subchapter. For complete classification of title IV to the Code, seeShort Title note set out under section 583j of this title and Tables.
+This subchapter, referred to in subsec. (g), was in the original “this subtitle” and was translated as reading “this title”, meaning title IV of Pub. L. 101–593, Nov. 16, 1990, 104 Stat. 2969, known as the National Forest Foundation Act, which does not contain subtitles, and which is classified generally to this subchapter. For complete classification of title IV to the Code, see Short Title note set out under section 583j of this title and Tables.
 
 The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (h), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
 

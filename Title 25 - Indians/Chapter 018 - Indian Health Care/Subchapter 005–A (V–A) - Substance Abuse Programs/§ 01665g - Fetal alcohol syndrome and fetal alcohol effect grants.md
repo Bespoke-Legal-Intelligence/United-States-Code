@@ -48,7 +48,7 @@ The Secretary, acting through the Substance Abuse and Mental Health Services Adm
 
 &emsp;(B) The incidence of FAS and FAE babies born for all births by reservation and urban-based sites.
 
-&emsp;(C) The prevalence of FAS and FAE affected Indian persons in Indian communities, their primary means of support, and recommendations to improve the support system for these individuals and their families or caretakers.
+&emsp;(C) The prevalence of FAS and FAE affected Indian persons in Indian communities, theirprimary means of support, and recommendations to improve the support system for these individuals and their families or caretakers.
 
 &emsp;(D) The level of support received from the entities specified in subsection (c) of this section in the area of FAS and FAE.
 

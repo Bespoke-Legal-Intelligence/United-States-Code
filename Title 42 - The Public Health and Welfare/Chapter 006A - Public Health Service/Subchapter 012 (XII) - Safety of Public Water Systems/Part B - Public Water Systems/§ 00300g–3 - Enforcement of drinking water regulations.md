@@ -2,7 +2,7 @@
 
 #### (a) Notice to State and public water system; issuance of administrative order; civil action
 
-(1)(A) Whenever the Administrator finds during a period during which a State has primary enforcement responsibility for public water systems (within the meaning of section 300g–2(a) of this title) that any public water system—
+(1)(A) Whenever the Administrator finds during a period during which a State has primaryenforcement responsibility for public water systems (within the meaning of section 300g–2(a) of this title) that any public water system—
 
 &emsp;(i) for which a variance under section 300g–4 or an exemption under section 300g–5 of this title is not in effect, does not comply with any applicable requirement, or
 
@@ -142,7 +142,7 @@ The Administrator may bring a civil action in the appropriate United States dist
 
 #### (B) Annual report by Administrator
 
-&emsp;&emsp;Not later than July 1, 1998, and annually thereafter, the Administrator shall prepare and make available to the public an annualreport summarizing and evaluating reports submitted by States pursuant to subparagraph (A) and notices submitted by public water systems serving Indian Tribes provided to the Administrator pursuant to subparagraph (C) or (D) of paragraph (2) and making recommendations concerning the resources needed to improve compliance with this subchapter. The report shall include information about public water system compliance on Indian reservations and about enforcement activities undertaken and financial assistance provided by the Administrator on Indian reservations, and shall make specific recommendations concerning the resources needed to improve compliance with this subchapter on Indian reservations.
+&emsp;&emsp;Not later than July 1, 1998, and annually thereafter, the Administrator shall prepare and make available to the public an annual report summarizing and evaluating reports submitted by States pursuant to subparagraph (A) and notices submitted by public water systems serving Indian Tribes provided to the Administrator pursuant to subparagraph (C) or (D) of paragraph (2) andmaking recommendations concerning the resources needed to improve compliance with this subchapter. The report shall include information about public water system compliance on Indian reservations and about enforcement activities undertaken and financial assistance provided by the Administrator on Indian reservations, and shall make specific recommendations concerning the resources needed to improve compliance with this subchapter on Indian reservations.
 
 #### (4) Consumer confidence reports by community water systems
 

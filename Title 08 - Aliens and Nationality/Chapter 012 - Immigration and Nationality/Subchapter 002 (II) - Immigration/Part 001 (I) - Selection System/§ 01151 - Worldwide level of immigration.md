@@ -26,7 +26,7 @@ Aliens described in this subsection, who are not subject to the worldwide levels
 
 &emsp;(2)(A)(i)
 
-Immediate relatives.—For purposes of this subsection, the term “immediate relatives” means the children, spouses, and parents of a citizen of the United States, except that, in the case of parents, such citizens shall be at least 21 years of age. In the case of an alien who was the spouse of a citizen of the United States for at least 2 years at the time of the citizen's death and was not legally separated from the citizen at the time of the citizen's death, the alien (and each child of the alien) shall be considered, for purposes of this subsection, to remain an immediate relative after the date of the citizen's death but only if the spouse files a petition under section 1154(a)(1)(A)(ii) of this title within 2 years after such date and only until the date the spouse remarries.
+Immediate relatives.—For purposes of this subsection, the term “immediate relatives” means the children, spouses, and parents of a citizen of the United States, except that, in the case of parents, such citizens shall be at least 21 years of age. In the case of an alien who was the spouse of a citizen of the United States for at least 2 years at the time of the citizen's death and was not legally separated from the citizen at the time of the citizen's death, the alien (and each child of the alien) shall be considered, for purposes of this subsection, to remain an immediate relative after the date of the citizen's death but only if the spouse files a petition under section 1154(a)(1)(A)(ii) of this title within 2 years after such date and only until the date the spouse remarries. For purposes of this clause, an alien who has filed a petition under clause (iii) or (iv) of section 1154(a)(1)(A) of this title remains an immediate relative in the event that the United States citizen spouse or parent loses United States citizenship on account of the abuse.
 
 &emsp;(ii) Aliens admitted under section 1181(a) of this title on the basis of a prior issuance of a visa to their accompanying parent who is such an immediate relative.
 
@@ -80,9 +80,11 @@ Immediate relatives.—For purposes of this subsection, the term “immediate re
 
 The worldwide level of diversity immigrants is equal to 55,000 for each fiscal year.
 
-(June 27, 1952, ch. 477, title II, ch. 1, §201, 66 Stat. 175; Pub. L. 89–236, §1, Oct. 3, 1965, 79 Stat. 911; Pub. L. 94–571, §2, Oct. 20, 1976, 90 Stat. 2703; Pub. L. 95–412, §1, Oct. 5, 1978, 92 Stat. 907; Pub. L. 96–212, title II, §203(a), Mar. 17, 1980, 94 Stat. 106; Pub. L. 97–116, §20\[(a)\], Dec. 29, 1981, 95 Stat. 1621; Pub. L. 101–649, title I, §101(a), Nov. 29, 1990, 104 Stat. 4980; Pub. L. 102–232, title III, §302(a)(1), Dec. 12, 1991, 105 Stat. 1742; Pub. L. 103–322, title IV, §40701(b)(2), Sept. 13, 1994, 108 Stat. 1954; Pub. L. 103–416, title II, §219(b)(1), Oct. 25, 1994, 108 Stat. 4316; Pub. L. 104–208, div. C, title III, §308(e)(5), (g)(8)(A)(i), title VI, §§603, 671(d)(1)(A), Sept. 30, 1996, 110 Stat. 3009–620, 3009–624, 3009–690, 3009–723.)
+(June 27, 1952, ch. 477, title II, ch. 1, §201, 66 Stat. 175; Pub. L. 89–236, §1, Oct. 3, 1965, 79 Stat. 911; Pub. L. 94–571, §2, Oct. 20, 1976, 90 Stat. 2703; Pub. L. 95–412, §1, Oct. 5, 1978, 92 Stat. 907; Pub. L. 96–212, title II, §203(a), Mar. 17, 1980, 94 Stat. 106; Pub. L. 97–116, §20\[(a)\], Dec. 29, 1981, 95 Stat. 1621; Pub. L. 101–649, title I, §101(a), Nov. 29, 1990, 104 Stat. 4980; Pub. L. 102–232, title III, §302(a)(1), Dec. 12, 1991, 105 Stat. 1742; Pub. L. 103–322, title IV, §40701(b)(2), Sept. 13, 1994, 108 Stat. 1954; Pub. L. 103–416, title II, §219(b)(1), Oct. 25, 1994, 108 Stat. 4316; Pub. L. 104–208, div. C, title III, §308(e)(5), (g)(8)(A)(i), title VI, §§603, 671(d)(1)(A), Sept. 30, 1996, 110 Stat. 3009–620, 3009–624, 3009–690, 3009–723; Pub. L. 106–386, div. B, title V, §1507(a)(3), Oct. 28, 2000, 114 Stat. 1530.)
 
 #### Amendments
+
+2000—Subsec. (b)(2)(A)(i). Pub. L. 106–386 inserted at end “For purposes of this clause, an alien who has filed a petition under clause (iii) or (iv) of section 1154(a)(1)(A) of this title remains an immediate relative in the event that the United States citizen spouse or parent loses United States citizenship on account of the abuse.”
 
 1996—Subsec. (b)(1)(C). Pub. L. 104–208, §671(d)(1)(A), struck out “, 1161,” after “section 1160”.
 
@@ -172,7 +174,7 @@ Pub. L. 105–100, title II, §203(d), Nov. 19, 1997, 111 Stat. 2199, as amended
 
 #### Transition Relating to Death of Citizen Spouse
 
-Section 101(c) of Pub. L. 101–649, as added by Pub. L. 102–232, title III, §302(a)(2), Dec. 12, 1991, 105 Stat. 1742,provided that: “In applying the second sentence of section 201(b)(2)(A)(i) of the Immigration and Nationality Act \[8 U.S.C. 1151(b)(2)(A)(i)\] (as amended by subsection (a)) in the case of a \[sic\] alien whose citizen spouse died before the date of the enactment of this Act \[Nov. 29, 1990\], notwithstanding the deadline specified in such sentence the alien spouse may file the classification petition referred to in such sentence within 2 years after the date of the enactment of this Act.”
+Section 101(c) of Pub. L. 101–649, as added by Pub. L. 102–232, title III, §302(a)(2), Dec. 12, 1991, 105 Stat. 1742, provided that: “In applying the second sentence of section 201(b)(2)(A)(i) of the Immigration and Nationality Act \[8 U.S.C. 1151(b)(2)(A)(i)\] (as amended by subsection (a)) in the case of a \[sic\] alien whose citizen spouse died before the date of the enactment of this Act \[Nov. 29, 1990\], notwithstanding the deadline specified in such sentence the alien spouse may file the classification petition referred to in such sentence within 2 years after the date of the enactment of this Act.”
 
 #### Inapplicability of Numerical Limitations for Certain Aliens Residing in the United States Virgin Islands
 
@@ -200,11 +202,7 @@ Section 21(a)–(d) and (f)–(h) of Pub. L. 89–236 established a Select Commi
 
 Section 10 of Pub. L. 85–316, Sept. 11, 1957, 71 Stat. 642, provided that the quota deductions required under the provisions of former subsec. (e) of this section, the Displaced Persons Act of 1948, as amended, the act of June 30, 1950, and the act of April 9, 1952 were terminated effective July 1, 1957.
 
-#### Cross References
-
-Definition of immigrant, immigrant visa, and national, see section 1101 of this title.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1101, 1152, 1153, 1154, 1160, 1182, 1186a, 1255, 1255a of this title.
+This section is referred to in sections 1101, 1152, 1153, 1154, 1160, 1182, 1184, 1186a, 1255, 1255a of this title.
 

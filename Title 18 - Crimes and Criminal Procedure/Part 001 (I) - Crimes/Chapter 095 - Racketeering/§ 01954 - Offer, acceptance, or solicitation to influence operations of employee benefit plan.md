@@ -10,7 +10,7 @@ Whoever being—
 
 &emsp;(4) a person who, or an officer, counsel, agent, or employee of an organization which, provides benefit plan services to such plan
 
-> receives or agrees to receive or solicits any fee, kickback, commission, gift, loan, money, or thing of value because of or with intent to be influenced with respect to, any of the actions, decisions, or other duties relating to any question or matter concerning such plan or any person who directly or indirectly gives or offers, or promises to give or offer, any fee, kickback, commission, gift, loan, money, or thing of value prohibited by this section, shall be fined under this title or imprisoned not more than three years, or both: <i>Provided</i>, That this section shall not prohibit the payment to or acceptance by any person of bona fide salary, compensation, or other payments made for goods or facilities actually furnished or for services actually performed in the regular course of his duties as such person, administrator, officer, trustee, custodian, counsel, agent, or employee of such plan, employer, employee organization, or organization providing benefit plan services to such plan.
+> receives or agrees to receive or solicits any fee, kickback, commission, gift, loan, money, or thing of value because of or with intent to be influenced with respect to, any of the actions, decisions, or other duties relating to any question or matter concerning such plan or any person who directly or indirectly gives or offers, or promises to give or offer, any fee, kickback, commission, gift, loan, money, or thing of value prohibited by this section, shall be fined under this title or imprisoned not more than three years, or both: <i>Provided</i>, That this section shall not prohibit the payment to or acceptance by any person of bona fide salary, compensation, or other payments made for goods or facilities actually furnished or for services actually performed in the regular course of his duties as such person, administrator, officer, trustee, custodian, counsel, agent, or employee of such plan,employer, employee organization, or organization providing benefit plan services to such plan.
 
 As used in this section, the term (a) “any employee welfare benefit plan” or “employee pension benefit plan” means any employee welfare benefit plan or employee pension benefit plan, respectively, subject to any provision of title I of the Employee Retirement Income Security Act of 1974, and (b) “employee organization” and “administrator” as defined respectively in sections 3(4) and (3)(16) of the Employee Retirement Income Security Act of 1974.
 
@@ -30,7 +30,7 @@ Section (3)(16) of the Employee Retirement Income Security Act of 1974, referred
 
 1974—Pub. L. 93–406 substituted “any employee welfare benefit plan or employee pension benefit plan, respectively, subject to any provision of title I of the Employee Retirement Income Security Act of 1974” for “any such plan subject to the provisions of the Welfare and Pension Plans Disclosure Act, as amended” and “sections 3(4) and (3)(16) of the Employee Retirement Income Security Act of 1974” for “sections 3(3) and 5(b)(1) and (2) of the Welfare and Pension Plans Disclosure Act, as amended”.
 
-1970—Pub. L. 91–452 struck out letter designation “(a)” preceding first sentence and struck out subsec.\(b) which related to the immunity from prosecution of any witness compelled to testify or produce evidence after claiming his privilege against self-incrimination. See section 6001 et seq. of this title.
+1970—Pub. L. 91–452 struck out letter designation “(a)” preceding first sentence and struck out subsec. (b) which related to the immunity from prosecution of any witness compelled to testify or produce evidence after claiming his privilege against self-incrimination. See section 6001 et seq. of this title.
 
 #### Effective Date of 1974 Amendment
 
@@ -43,10 +43,6 @@ Amendment by Pub. L. 91–452 effective on sixtieth day following Oct. 15, 1970,
 #### Effective Date
 
 Section effective 90 days after Mar. 20, 1962, see section 19 of Pub. L. 87–420, set out as a note under section 664 of this title.
-
-#### Cross References
-
-Wire or oral communications, authorization for interception, to provide evidence of offenses under this section, see section 2516 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -4,7 +4,7 @@
 
 Not later than March 1 of each year, the President shall transmit to the Speaker of the House of Representatives, and to the Committee on Foreign Relations of the Senate, a report containing the following:
 
-&emsp;(1) For each country that received assistance under this part for either of the 2 precedingfiscal years, a report on the extent to which the country has—
+&emsp;(1) For each country that received assistance under this part for either of the 2 preceding fiscal years, a report on the extent to which the country has—
 
 &emsp;&emsp;(A) met the goals and objectives of the United Nations Convention Against Illicit Traffic in Narcotic Drugs and Psychotropic Substances, including action on such issues as illicit cultivation, production, distribution, sale, transport, and financing, and money laundering, asset seizure, extradition, mutual legal assistance, law enforcement and transit cooperation, precursor chemical control, and demand reduction;
 
@@ -108,7 +108,7 @@ Section 2015 of the International Narcotics Act of 1986, referred to in subsec. 
 
 #### Prior Provisions
 
-A prior section 2291h, Pub. L. 87–195, pt. I, §489, as added Pub. L. 100–690, title IV, §4507, Nov. 18, 1988, 102 Stat. 4286, related to permissible uses of aircraft and other equipment, prior to amendment by Pub. L. 102–583, §4(f)(2), Nov. 2, 1992, 106 Stat. 4917, which also transferred subsecs. (a) and (b) to section 2291c(b) and (c) of this title, respectively, and repealed the designation, heading, and subsecs. (c) and (d).
+A prior section 2291h, Pub. L. 87–195, pt. I, §489, as added Pub. L. 100–690, title IV, §4507, Nov. 18, 1988, 102Stat. 4286, related to permissible uses of aircraft and other equipment, prior to amendment by Pub. L. 102–583, §4(f)(2), Nov. 2, 1992, 106 Stat. 4917, which also transferred subsecs. (a) and (b) to section 2291c(b) and (c) of this title, respectively, and repealed the designation, heading, and subsecs. (c) and (d).
 
 #### Amendments
 

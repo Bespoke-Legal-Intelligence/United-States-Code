@@ -8,7 +8,7 @@
 
 (b) The Secretary of Defense shall submit to Congress a report each year, not later than March 1, containing—
 
-&emsp;(1) a list of the developing countries for which expenses have been paid by the United States under this section during the preceding year; and
+&emsp;(1) a list of the developing countries for which expenses have been paid by the UnitedStates under this section during the preceding year; and
 
 &emsp;(2) the amounts expended on behalf of each government.
 

@@ -60,7 +60,7 @@ Every establishment in any State registered with the Secretary pursuant to this 
 
 (1) Every person who registers with the Secretary under subsection (b), (c), or (d) of this section shall, at the time of registration under any such subsection, file with the Secretary a list of all drugs and a list of all devices and a brief statement of the basis for believing that each device included in the list is a device rather than a drug (with each drug and device in each list listed by its established name (as defined in section 352(e) of this title) and by any proprietary name) which are being manufactured, prepared, propagated, compounded, or processed by him for commercial distribution and which he has not included in any list of drugs or devices filed by him with the Secretary under this paragraph or paragraph (2) before such time of registration. Such list shall be prepared in such form and manner as the Secretary may prescribe and shall be accompanied by—
 
-&emsp;(A) in the case of a drug contained in the applicable list and subject to section 355 or 360b of this title, or a device intended for human use contained in the applicable list with respect to which a performance standard has been established under section 360d of this title or which is subject to section 360e of thistitle, a reference to the authority for the marketing of such drug or device and a copy of all labeling for such drug or device;
+&emsp;(A) in the case of a drug contained in the applicable list and subject to section 355 or 360b of this title, or a device intended for human use contained in the applicable list with respect to which a performance standard has been established under section 360d of this title or which is subject to section 360e of this title, a reference to the authority for the marketing of such drug or device and a copy of all labeling for such drug or device;
 
 &emsp;(B) in the case of any other drug or device contained in an applicable list—
 
@@ -184,7 +184,7 @@ Amendment by sections 206(a), 209(a), 213(b), and 417 of Pub. L. 105–115 effec
 
 #### Effective Date of 1972 Amendment
 
-Section 5 of Pub. L. 92–387 provided that: “The amendments made by this Act \[amending this section and sections 331 and 335 of this title and enacting provisions set out below\] shall take effect on the first day of the sixth month beginning after the date of enactment of this Act \[Aug. 16, 1972\].”
+Section 5 of Pub. L. 92–387 provided that: “The amendments made by this Act \[amending this sectionand sections 331 and 335 of this title and enacting provisions set out below\] shall take effect on the first day of the sixth month beginning after the date of enactment of this Act \[Aug. 16, 1972\].”
 
 #### Effective Date of 1970 Amendment
 

@@ -26,7 +26,7 @@
 
 #### (1) In general
 
-&emsp;The Corporation may require each originator and each certified facility to make, orcommit to make, such nonrefundable capital contributions to the Corporation as are reasonable and necessary to meet the administrative expenses of the Corporation.
+&emsp;The Corporation may require each originator and each certified facility to make, or commit to make, such nonrefundable capital contributions to the Corporation as are reasonable and necessary to meet the administrative expenses of the Corporation.
 
 #### (2) Stock issued as consideration for contribution
 
@@ -54,7 +54,7 @@ The Corporation is authorized to issue nonvoting common stock having such par va
 
 #### (1) Authority of Board
 
-&emsp;The Corporation is authorized to issue nonvoting preferred stock having such par value as may be fixed by the Board from time to time. Such preferred stock issued shall be freely transferable, except that, as to the Corporation, such stock shall be transferred only on the books of the Corporation.
+&emsp;The Corporation is authorized to issue nonvoting preferred stock having such par valueas may be fixed by the Board from time to time. Such preferred stock issued shall be freely transferable, except that, as to the Corporation, such stock shall be transferred only on the books of the Corporation.
 
 #### (2) Rights of preferred stock
 

@@ -16,7 +16,7 @@ Whoever takes and carries away, with intent to steal or purloin, any property or
 
 (e) Whoever, in committing any offense defined in this section, or in avoiding or attempting to avoid apprehension for the commission of such offense, or in freeing himself or attempting to free himself from arrest or confinement for such offense, kills any person, or forces any person to accompany him without the consent of such person, shall be imprisoned not less than ten years, or if death results shall be punished by death or life imprisonment.
 
-(f) As used in this section the term “bank” means any member bank of the Federal Reserve System, and any bank, banking association,trust company, savings bank, or other banking institution organized or operating under the laws of the United States, including a branch or agency of a foreign bank (as such terms are defined in paragraphs (1) and (3) of section 1(b) of the International Banking Act of 1978), and any institution the deposits of which are insured by the Federal Deposit Insurance Corporation.
+(f) As used in this section the term “bank” means any member bank of the Federal Reserve System, and any bank, banking association, trust company, savings bank, or other banking institution organized or operating under the laws of the United States, including a branch or agency of a foreign bank (as such terms are defined in paragraphs (1) and (3) of section 1(b) of the International Banking Act of 1978), and any institution the deposits of which are insured by the Federal Deposit Insurance Corporation.
 
 (g) As used in this section the term “credit union” means any Federal credit union and any State-chartered credit union the accounts of which are insured by the National Credit Union Administration Board, and any “Federal credit union” as defined in section 2 of the Federal Credit Union Act. The term “State-chartered credit union” includes a credit union chartered under the laws of a State of the United States, the District of Columbia, or any commonwealth, territory, or possession of the United States.
 
@@ -38,7 +38,7 @@ Words “felony or larceny” in subsection (a) were changed to “felony affect
 
 Use of term “felony” without limitation caused confusion as to whether a common law, State, or Federal felony was intended. Change conforms with <i>Jerome v. U.S</i>. (1943, 63 S. Ct. 483, 318 U.S. 101, 87 L. Ed. 640): “§2(a) \[§588b(a) of title 12, U.S.C., 1940 ed., Banks and Banking\] is not deprived of vitality if it is interpreted to exclude State felonies and to include only those Federal felonies which affect banks protected by the Act.”
 
-Minimum punishment provisions were omitted from subsection (c). (See reviser's note under section 203 of this title.) Also the provisions of subsection (b) measuring the punishment by the amount involved were extended and made applicable to the receiver as well as the thief. There seems no good reason why the thief of less than $100 should be liable to a maximum of imprisonment for one year and the receiver subject to 10 years.
+Minimum punishment provisions were omitted from subsection (c). (See reviser's note under section 203 of this title.) Also the provisions of subsection (b) measuring the punishment by the amount involved were extended and made applicable to the receiver as well as the thief. There seems no good reason why the thief ofless than $100 should be liable to a maximum of imprisonment for one year and the receiver subject to 10 years.
 
 The figures “100” were substituted for “50” in view of the fact that the present worth of $100 is less than the value of $50 when that sum was fixed as the dividing line between petit larceny and grand larceny.
 
@@ -85,10 +85,6 @@ Subsec. (h). Pub. L. 91–468, §8(2), added subsec. (h).
 1952—Subsec. (g). Act Apr. 8, 1952, broadened definition of “savings and loan association” by including any insured institution as defined in section 401 of the National Housing Act, as amended.
 
 1950—Act Aug. 3, 1950, brought within section State-chartered savings and loan associations whose accounts are insured by the Federal Savings and Loan Insurance Corporation.
-
-#### Cross References
-
-Embezzlement by bank officer or employee, see section 656 of this title.
 
 #### Section Referred to in Other Sections
 

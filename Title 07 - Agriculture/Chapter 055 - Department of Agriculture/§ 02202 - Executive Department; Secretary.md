@@ -6,7 +6,7 @@ The Department of Agriculture shall be an executive department, under the superv
 
 #### References in Text
 
-Title 4 of the Revised Statutes, referred to in text, was entitled “Provisions Applicable to All Executive Departments, and consisted of R.S. §§158 to 198. For provisions of the Code derived from such title 4, see sections 101, 301, 303, 304, 503, 2952, 3101, 3106, 3341, 3345 to 3349, 5535, 5536 of Title 5, Government Organization and Employees; section 207 of Title 18, Crimes and Criminal Procedure; sections 514, 520 of Title 28, Judiciary and Judicial Procedure; section 3321 of Title 31, Money and Finance.
+Title 4 of the Revised Statutes, referred to in text, was entitled “Provisions Applicable to All Executive Departments, and consisted of R.S. §§158 to 198. For provisions of the Code derived from such title 4, see sections 101, 301, 303, 304, 503, 2952, 3101, 3106, 3341, 3345 to 3349, 5535, 5536 of Title 5, Government Organization andEmployees; section 207 of Title 18, Crimes and Criminal Procedure; sections 514, 520 of Title 28, Judiciary and Judicial Procedure; section 3321 of Title 31, Money and Finance.
 
 #### Codification
 
@@ -19,8 +19,4 @@ Functions of all officers, agencies, and employees of Department of Agriculture 
 #### Order of Succession
 
 For order of succession in case of absence, sickness, resignation, or death of Secretary, see Ex. Ord. No. 11793, July 10, 1974, 39 F.R. 25631, set out as a note under section 3345 of Title 5, Government Organization and Employees.
-
-#### Cross References
-
-Annual rate of basic compensation of Secretary, see section 5312 of Title 5, Government Organization and Employees.
 

@@ -2,7 +2,7 @@
 
 #### (a) Prime contractors
 
-It is the policy of the Government, and it shall be the responsibility of the contracting agencies and the Administrator of General Services, in accordance with and subject to the provisions of this chapter, to provide war contractors having any termination claim or claims, pending their settlement, with adequate interim financing, within thirty days after proper application therefor.
+It is the policy of the Government, and it shall be the responsibility of the contracting agencies and the Administrator of General Services, in accordance with and subject to the provisions of this chapter, to provide war contractors having any termination claim or claims, pending their settlement, with adequate interim financing,within thirty days after proper application therefor.
 
 #### (b) Method of financing; amounts payable
 
@@ -26,7 +26,7 @@ The Administrator of General Services shall prescribe (1) the types of estimates
 
 #### (d) Penalty for overstatement of claims
 
-In case of an overstatement by any war contractor of the amount due on his termination claim or claims in connection with any interim financing under this chapter, such contractor shall pay to the United States, as a penalty, an amount equal to 6 per centum of the amount of the overstatement, but the Administrator of General Services may suspend or modify any such penalty if in his opinion the imposition thereof would be inequitable. Any penalty may be deducted from any amounts due the war contractor upon such termination claim or claims,or otherwise, or may be collected from the war contractor by suit. The obligation to pay any penalty imposed and to repay any interim financing made or assumed by the United States under this chapter shall constitute a debt due to the United States within the meaning of section 3713(a) of title 31.
+In case of an overstatement by any war contractor of the amount due on his termination claim or claims in connection with any interim financing under this chapter, such contractor shall pay to the United States, as a penalty, an amount equal to 6 per centum of the amount of the overstatement, but the Administrator of General Services may suspend or modify any such penalty if in his opinion the imposition thereof would be inequitable. Any penalty may be deducted from any amounts due the war contractor upon such termination claim or claims, or otherwise, or may be collected from the war contractor by suit. The obligation to pay any penalty imposed and to repay any interim financing made or assumed by the United States under this chapter shall constitute a debt due to the United States within the meaning of section 3713(a) of title 31.
 
 #### (e) Advance payments as part of termination settlement
 
@@ -48,7 +48,7 @@ In subsec. (d), “section 3713(a) of title 31” substituted for “Revised Sta
 
 #### Transfer of Functions
 
-Functions of Secretary of the Treasury transferred to Administrator of General Services by section 102(b) of act June 30, 1949, which is classified to section 752(b) of Title 40, Public Buildings, Property, and Works.
+Functions of Secretary of the Treasury transferred to Administrator of General Services by section 102(b) ofact June 30, 1949, which is classified to section 752(b) of Title 40, Public Buildings, Property, and Works.
 
 “Secretary” substituted for “Director” by section 8 of Ex. Ord. No. 9809 and section 201 of Reorg. Plan No. 1 of 1947, set out in the Appendix to Title 5, Government Organization and Employees.
 

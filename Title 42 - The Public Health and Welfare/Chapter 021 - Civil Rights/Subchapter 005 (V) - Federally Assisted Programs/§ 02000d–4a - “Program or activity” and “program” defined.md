@@ -36,3 +36,7 @@ This section not to be construed to extend application of Civil Rights Act of 19
 
 This section not to be construed to force or require any individual or hospital or any other institution, program, or activity receiving Federal funds to perform or pay for an abortion, see section 8 of Pub. L. 100–259, set out as a note under section 1688 of Title 20, Education.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in section 2000cc–5 of this title.
+

@@ -12,9 +12,9 @@ In carrying out such functions, the Secretary of Commerce—
 
 &emsp;(2) may, with the concurrence of the Secretary, cooperate with the authorized officials of the government of any Party.
 
-(Pub. L. 102–567, title VIII, §807, Oct. 29, 1992, 106 Stat. 4311; Pub. L. 102–587, title VIII, §8007, Nov. 4, 1992, 106 Stat. 5101.)
+(Pub. L. 102–567, title VIII, §807, Oct. 29, 1992, 106 Stat. 4311; Pub. L. 102–587, title VIII, §8007, Nov. 4, 1992, 106 Stat. 5101; Pub. L. 106–562, title III, §304(a), Dec. 23, 2000, 114 Stat. 2806.)
 
 #### Codification
 
-Pub. L. 102–567 and Pub. L. 102–587 enacted identical sections.
+Title VIII of Pub. L. 102–567 and Pub. L. 102–587 enacted identical sections. Title VIII of Pub. L. 102–587 was repealed by Pub. L. 106–562.
 

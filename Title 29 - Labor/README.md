@@ -1,5 +1,5 @@
 
-29 U.S.C.<br>United States Code, 1999 Edition<br>Title 29 - LABOR<br>From the U.S. Government Publishing Office, www.gpo.gov
+29 U.S.C.<br>United States Code, 2000 Edition<br>Title 29 - LABOR<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 29—LABOR
 
@@ -27,7 +27,7 @@
 | [<b>16.</b>](Chapter%20016%20-%20Vocational%20Rehabilitation%20and%20Other%20Rehabilitation%20Services/README.md) | <b>Vocational Rehabilitation and Other Rehabilitation Services</b> | <b>701</b> |
 | [<b>17.</b>](Chapter%20017%20-%20Comprehensive%20Employment%20and%20Training%20Programs/README.md) | <b>Comprehensive Employment and Training Programs \[Repealed\]</b> | <b>801</b> |
 | [<b>18.</b>](Chapter%20018%20-%20Employee%20Retirement%20Income%20Security%20Program/README.md) | <b>Employee Retirement Income Security Program</b> | <b>1001</b> |
-| [<b>19.</b>](Chapter%20019%20-%20Job%20Training%20Partnership/README.md) | <b>Job Training Partnership</b> | <b>1501</b> |
+| [<b>19.</b>](Chapter%20019%20-%20Job%20Training%20Partnership/README.md) | <b>Job Training Partnership \[Repealed, Transferred, or Omitted\]</b> | <b>1501</b> |
 | [<b>20.</b>](Chapter%20020%20-%20Migrant%20and%20Seasonal%20Agricultural%20Worker%20Protection/README.md) | <b>Migrant and Seasonal Agricultural Worker Protection</b> | <b>1801</b> |
 | [<b>21.</b>](Chapter%20021%20-%20Helen%20Keller%20National%20Center%20for%20Youths%20and%20Adults%20Who%20Are%20Deaf-Blind/README.md) | <b>Helen Keller National Center for Youths and Adults Who Are Deaf-Blind</b> | <b>1901</b> |
 | [<b>22.</b>](Chapter%20022%20-%20Employee%20Polygraph%20Protection/README.md) | <b>Employee Polygraph Protection</b> | <b>2001</b> |

@@ -30,7 +30,11 @@ Subsecs. (b)(2)(A), (c). Pub. L. 101–510, §1402(a)(2)(A), substituted “mult
 
 #### Budget Justification Documents for Costs of Armed Forces’ Participation in Contingency Operations
 
-Pub. L. 106–79, title VIII, §8110, Oct. 25, 1999, 113 Stat. 1257, provided that: “The budget of the President for fiscal year 2001 submitted to the Congress pursuant to section 1105 of title 31, United States Code, and each annual budget request thereafter, shall include separate budget justification documents for costs of United States Armed Forces’ participation in contingency operations for the Military Personnel accounts, the Procurement accounts, and the Overseas Contingency Operations Transfer Fund: <i>Provided</i>, That these budget justification documents shall include a description of the funding requested for each anticipated contingency operation, for each military service, to include active duty and Guard and Reserve components, and for each appropriation account: <i>Provided further</i>, That these documents shall include estimated costs for each element of expense or object class, a reconciliation of increases and decreases for ongoing contingency operations, and programmatic data including, but not limited to troop strength for each active duty and Guard and Reserve component, and estimates of the major weapons systems deployed in support of each contingency.”
+Pub. L. 106–259, title VIII, §8097, Aug. 9, 2000, 114 Stat. 695, provided that: “The budget of the President for fiscal year 2002 submitted to the Congress pursuant to section 1105 of title 31, United States Code, and each annual budget request thereafter, shall include separate budget justification documents for costs of United States Armed Forces’ participation in contingency operations for the Military Personnel accounts, the Overseas Contingency Operations Transfer Fund, the Operation and Maintenance accounts, and the Procurement accounts: <i>Provided</i>, That these budget justification documents shall include a description of the funding requested for each anticipated contingency operation, for each military service, to include active duty and Guardand Reserve components, and for each appropriation account: <i>Provided further</i>, That these documents shall include estimated costs for each element of expense or object class, a reconciliation of increases and decreases for ongoing contingency operations, and programmatic data including, but not limited to troop strength for each active duty and Guard and Reserve component, and estimates of the major weapons systems deployed in support of each contingency: <i>Provided further</i>, That these documents shall include budget exhibits OP–5 and OP–32, as defined in the Department of Defense Financial Management Regulation, for the Overseas Contingency Operations Transfer Fund for fiscal years 2000 and 2001.”
+
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 106–79, title VIII, §8110, Oct. 25, 1999, 113 Stat. 1257.
 
 #### Budget Submissions on Active and Reserve Military Personnel Accounts
 
@@ -64,9 +68,11 @@ Pub. L. 104–106, div. A, title II, §251, Feb. 10, 1996, 110 Stat. 233, which 
 
 #### Budget Submissions on Salaries and Expenses Related to Administrative Activities
 
-Pub. L. 106–79, title VIII, §8042, Oct. 25, 1999, 113 Stat. 1240, provided that: “The President shall include with each budget for a fiscal year submitted to the Congressunder section 1105 of title 31, United States Code, materials that shall identify clearly and separately the amounts requested in the budget for appropriation for that fiscal year for salaries and expenses related to administrative activities of the Department of Defense, the military departments, and the defense agencies.”
+Pub. L. 106–259, title VIII, §8039, Aug. 9, 2000, 114 Stat. 683, provided that: “The President shall include with each budget for a fiscal year submitted to the Congress under section 1105 of title 31, United States Code, materials that shall identify clearly and separately the amounts requested in the budget for appropriation for that fiscal year for salaries and expenses related to administrative activities of the Department of Defense, the military departments, and the defense agencies.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 106–79, title VIII, §8042, Oct. 25, 1999, 113 Stat. 1240.
 
 Pub. L. 105–262, title VIII, §8042, Oct. 17, 1998, 112 Stat. 2306.
 
@@ -92,5 +98,5 @@ Section 1404 of Pub. L. 101–510 directed President to submit with budget submi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 113, 222, 2501, 10543 of this title; title 50 section 404b.
+This section is referred to in sections 113, 153, 222, 2461a, 2501, 10543 of this title; title 50 section 404b.
 

@@ -10,7 +10,7 @@ The Congress hereby finds that—
 
 &emsp;(4) the Nation's critical energy problems can be solved only if a national commitment is made to dedicate the necessary financial resources, and enlist the cooperation of the private and public sectors, in developing geothermal resources and other nonconventional sources of energy;
 
-&emsp;(5) the conventional geothermal resources which are presently being used have limited total potential; but geothermal resources which are different from those presently being used, and which have extremely large energy content, are known to exist;
+&emsp;(5) the conventional geothermal resources which are presently being used have limitedtotal potential; but geothermal resources which are different from those presently being used, and which have extremely large energy content, are known to exist;
 
 &emsp;(6) some geothermal resources contain energy in forms other than heat; examples are methane and extremely high pressures available upon release as kinetic energy;
 

@@ -104,6 +104,10 @@ In subsection (e), before clause (1), the words “prepare and” and “compreh
 
 Subsec. (e). Pub. L. 103–311, §108, substituted “Report” for “Annual Report” in heading and substituted first sentence for former first sentence which read as follows: “The Secretary shall submit to the President, for submission to Congress, not later than June 15th of each year, a report about the transportation of hazardous material during the prior calendar year.”
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the 8th item on page 135 identifies a requirement to transmit reports to Congress under a provision which, as subsequently amended, is contained in subsec. (e) of this section), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+
 #### Toll Free Number for Reporting
 
 Section 116 of Pub. L. 103–311 provided that: “The Secretary of Transportation shall designate a toll free telephone number for transporters of hazardous materials and other individuals to report to the Secretary possible violations of chapter 51 of title 49, United States Code, or any order or regulation issued under that chapter.”

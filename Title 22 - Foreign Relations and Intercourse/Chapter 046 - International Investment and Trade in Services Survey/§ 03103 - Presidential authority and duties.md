@@ -88,7 +88,11 @@ Subsecs. (e) to (g). Pub. L. 97–33, §3, added subsec. (e) and redesignated su
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives and Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives and Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (c)(2) of this section relating to submitting an analysis of compiled data to Congress each year, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 30 of House Document No. 103–7.
 
 #### Section Referred to in Other Sections
 

@@ -1,0 +1,6 @@
+### §3666. Authorization of appropriations
+
+For purposes of carrying out the activities under this subchapter, there are authorized to be appropriated such sums as are necessary for fiscal years 2000 through 2004.
+
+(Pub. L. 106–559, title I, §106, Dec. 21, 2000, 114 Stat. 2781.)
+

@@ -8,19 +8,3 @@ No court of the United States, as defined in this chapter, shall have jurisdicti
 
 Act Mar. 23, 1932, ch. 90, 47 Stat. 70, which enacted this chapter, is popularly known as the “Norris-LaGuardia Act”.
 
-#### Federal Rules of Civil Procedure
-
-Injunctions, see rule 65, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-#### Cross References
-
-Civil actions for prevention of unlawful employment practices, provisions of this chapter not applicable to, see section 2000e–5 of Title 42, The Public Health and Welfare.
-
-Labor-Management Relations, see section 141 et seq. of this title.
-
-Orders of National Labor Relations Board, see section 160 of this title.
-
-Public policy, see section 102 of this title.
-
-Strikes subject to injunction, inapplicability of this chapter, see section 178 of this title.
-

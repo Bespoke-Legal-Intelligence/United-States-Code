@@ -24,7 +24,7 @@ Grants under this section shall be awarded to address priorities in United State
 
 &emsp;&emsp;(A) the results of the project, while of particular benefit to a specific agricultural commodity, are likely to be applicable to agricultural commodities generally; or
 
-&emsp;&emsp;(B) the project involves a minor commodity, the project deals with scientifically important research, and the grant recipient is unable to satisfy the matching funds requirement.
+&emsp;&emsp;(B) the project involves a minor commodity, the project deals with scientifically important research, and the grant recipient isunable to satisfy the matching funds requirement.
 
 #### (e) Authorization of appropriations
 

@@ -8,7 +8,7 @@ The Commission shall keep the Harmonized Tariff Schedule under continuous review
 
 &emsp;(2) to promote the uniform application of the Convention and particularly the Annex thereto;
 
-&emsp;(3) to ensure that the Harmonized Tariff Schedule is kept up-to-date in light of changesin technology or in patterns of international trade;
+&emsp;(3) to ensure that the Harmonized Tariff Schedule is kept up-to-date in light of changes in technology or in patterns of international trade;
 
 &emsp;(4) to alleviate unnecessary administrative burdens; and
 

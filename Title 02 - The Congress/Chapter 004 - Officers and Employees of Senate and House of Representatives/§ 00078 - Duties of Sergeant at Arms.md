@@ -8,10 +8,6 @@ It shall be the duty of the Sergeant at Arms of the House of Representatives to 
 
 1996—Pub. L. 104–186 struck out “, keep the accounts for the pay and mileage of Members and Delegates, and pay them as provided by law” after “directed to him by the Speaker”.
 
-#### Transfer of Functions
-
-Certain functions of Sergeant at Arms of House of Representatives transferred to Director of Non-legislative and Financial Services by section 7 of House Resolution No. 423, One Hundred Second Congress, Apr. 9, 1992. Director of Non-legislative and Financial Services replaced by Chief Administrative Officer of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
-
 #### Law Enforcement Authority of Sergeant at Arms
 
 Pub. L. 104–53, title III, §313, Nov. 19, 1995, 109 Stat. 538, provided that:

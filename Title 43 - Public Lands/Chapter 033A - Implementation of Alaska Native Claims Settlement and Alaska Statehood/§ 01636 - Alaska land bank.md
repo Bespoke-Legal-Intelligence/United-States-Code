@@ -14,7 +14,7 @@ Each agreement referred to in subsection (a) of this section shall have an initi
 
 &emsp;(1) The landowner shall not alienate, transfer, assign, mortgage, or pledge the lands subject to the agreement except as provided in section 14(c) of the Alaska Native Claims Settlement Act \[43 U.S.C. 1613(c)\], or permit development or improvement on such lands except as provided in the agreement. For the purposes of this section only, each agreement entered into with a landowner described in subsection (d)(1) of this section shall constitute a restriction against alienation imposed by the United States upon the lands subject to the agreement.
 
-&emsp;(2) Lands subject to the agreement shall be managed by the owner in a manner compatible with the management plan, if any, for the adjoining Federal or State lands, and with the requirements of this subsection. If lands subject to the agreement do not adjoin either Federal or State lands, they shall be managed in a manner compatible with the management plan, if any, of Federal or State lands which would be directly affected by the use of such private lands. If no such plan has been adopted, or if the use of such private lands would not directly affect either Federal or State lands, the owner shall manage such lands in accordance with the provisions in paragraph (1) of this subsection. Except as provided in (3) <sup>1</sup> of this subsection, nothing in this section or the management plan of any Federal or State agency shall be construed to require a private landowner to grant public access on or across his lands.
+&emsp;(2) Lands subject to the agreement shall be managed by the owner in a manner compatible with the management plan, if any, for the adjoining Federal or State lands, and with the requirements of this subsection. If lands subject to the agreement do not adjoin either Federal or State lands, they shall be managedin a manner compatible with the management plan, if any, of Federal or State lands which would be directly affected by the use of such private lands. If no such plan has been adopted, or if the use of such private lands would not directly affect either Federal or State lands, the owner shall manage such lands in accordance with the provisions in paragraph (1) of this subsection. Except as provided in (3) <sup>1</sup> of this subsection, nothing in this section or the management plan of any Federal or State agency shall be construed to require a private landowner to grant public access on or across his lands.
 
 &emsp;(3) If the surface landowner so consents, such lands may be made available for local or other recreational use: <i>Provided</i>, That the refusal of a private landowner to permit the uses referred to in this subsection shall not be grounds for the refusal of the Secretary or the State to enter into an agreement with the landowner under this section.
 
@@ -170,7 +170,7 @@ This Act, referred to in subsec. (e), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat
 
 #### Amendments
 
-1998—Subsec. (d)(1)(A). Pub. L. 105–333, §1(a), in introductory provisions, inserted “or conveyed to a Native Corporation pursuant to an exchange authorized by section 22(f) of the Alaska Native Claims SettlementAct or section 3192(h) of title 16 or other applicable law” after “Settlement Trust”.
+1998—Subsec. (d)(1)(A). Pub. L. 105–333, §1(a), in introductory provisions, inserted “or conveyed to a Native Corporation pursuant to an exchange authorized by section 22(f) of the Alaska Native Claims Settlement Act or section 3192(h) of title 16 or other applicable law” after “Settlement Trust”.
 
 Subsec. (d)(2)(A)(i). Pub. L. 105–333, §2(3), which directed the amendment of cl. (i) by adding “Any lands previously developed by third-party trespassers shall not be considered to have been developed.” without specifying where the language was to be added, was executed by adding the language before the semicolon at the end to reflect the probable intent of Congress.
 
@@ -192,7 +192,7 @@ Subsec. (d). Pub. L. 100–241, §11(3), amended subsec. (d) generally. Prior to
 
 Pub. L. 100–241, §11(1), substituted “subsection (d)(1) of this section” for “subsection (c)(2) of this section”.
 
-Subsec. (e). Pub. L. 100–241, §11(3), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “The provisions of section 21(e) of the Alaska Native Claims Settlement Act \[43 U.S.C. 1620(e)\] shall apply to all lands which are subject to an agreement under this section so long as the parties to the agreement are in compliance therewith.”
+Subsec. (e). Pub. L. 100–241, §11(3), amended subsec. (e) generally. Prior to amendment, subsec. (e) read asfollows: “The provisions of section 21(e) of the Alaska Native Claims Settlement Act \[43 U.S.C. 1620(e)\] shall apply to all lands which are subject to an agreement under this section so long as the parties to the agreement are in compliance therewith.”
 
 Subsec. (g). Pub. L. 100–241, §11(4), added subsec. (g).
 

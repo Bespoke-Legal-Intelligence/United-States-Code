@@ -22,7 +22,7 @@ Each application under this section shall require the approval of the Attorney G
 
 &emsp;(2) a certification by the applicant that the information likely to be obtained is relevant to an ongoing foreign intelligence or international terrorism investigation being conducted by the Federal Bureau of Investigation under guidelines approved by the Attorney General; and
 
-&emsp;(3) information which demonstrates that there is reason to believe that the telephone line to which the pen register or trap and trace device is to be attached, or the communication instrument or device to be covered by the pen register or trap and trace device, has been or is about to be used in communication with—
+&emsp;(3) information which demonstrates that there is reason to believe that the telephoneline to which the pen register or trap and trace device is to be attached, or the communication instrument or device to be covered by the pen register or trap and trace device, has been or is about to be used in communication with—
 
 &emsp;&emsp;(A) an individual who is engaging or has engaged in international terrorism or clandestine intelligence activities that involve or may involve a violation of the criminal laws of the United States; or
 
@@ -58,7 +58,7 @@ Each application under this section shall require the approval of the Attorney G
 
 &emsp;&emsp;&emsp;(I) shall not disclose the existence of the investigation or of the pen register or trap and trace device to any person unless or until ordered by the court; and
 
-&emsp;&emsp;&emsp;(II) shall maintain, under security procedures approved by the Attorney General and the Director of Central Intelligence pursuant to section 1805(b)(2)(C) of this title, any records concerning the pen register or trap and trace device or the aid furnished; and
+&emsp;&emsp;&emsp;(II) shall maintain, under security procedures approved by the Attorney General and the Director of Central Intelligence pursuant to section 1805(b)(2)(C) <sup>1</sup> of this title, any records concerning the pen register or trap and trace device or the aid furnished; and
 
 &emsp;&emsp;(iii) the applicant shall compensate such provider, landlord, custodian, or other person for reasonable expenses incurred by such provider, landlord, custodian, or other person in providing such information, facilities, or technical assistance.
 
@@ -80,9 +80,13 @@ Unless otherwise ordered by the judge, the results of a pen register or trap and
 
 Executive Order No. 12333, referred to in subsec. (a)(1), is set out as a note under section 401 of this title.
 
+Section 1805(b)(2)(C) of this title, referred to in subsec. (d)(2)(B)(ii)(II), was redesignated section 1805(c)(2)(C) of this title by Pub. L. 106–567, title VI, §602(b)(1), Dec. 27, 2000, 114 Stat. 2851.
+
 The criminal laws of the United States, referred to in subsec. (c)(3), are classified generally to Title 18, Crimes and Criminal Procedure.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1843 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

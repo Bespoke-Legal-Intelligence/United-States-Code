@@ -4,7 +4,7 @@
 
 #### (1) Board
 
-&emsp;In order for a private, nonprofit entity to be considered to be an eligible entity for purposes of section 9902(1) of this title, the entity shalladminister the community services block grant program through a tripartite board described in paragraph (2) that fully participates in the development, planning, implementation, and evaluation of the program to serve low-income communities.
+&emsp;In order for a private, nonprofit entity to be considered to be an eligible entity for purposes of section 9902(1) of this title, the entity shall administer the community services block grant program through a tripartite board described in paragraph (2) that fully participates in the development, planning, implementation, and evaluation of the program to serve low-income communities.
 
 #### (2) Selection and composition of board
 

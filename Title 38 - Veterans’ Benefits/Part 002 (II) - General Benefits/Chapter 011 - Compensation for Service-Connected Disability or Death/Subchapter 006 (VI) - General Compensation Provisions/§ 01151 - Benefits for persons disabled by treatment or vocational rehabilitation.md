@@ -8,13 +8,15 @@
 
 &emsp;&emsp;(B) an event not reasonably foreseeable; or
 
-&emsp;(2) the disability or death was proximately caused by the provision of training and rehabilitation services by the Secretary (including by a service-provider used by the Secretary for such purpose under section 3115 of this title) as part of an approved rehabilitation program under chapter 31 of this title.
+&emsp;(2) the disability or death was proximately caused (A) by the provision of training and rehabilitation services by the Secretary (including by a service-provider used by the Secretary for such purpose under section 3115 of this title) as part of an approved rehabilitation program under chapter 31 of this title, or (B) by participation in a program (known as a “compensated work therapy program”) under section 1718 of this title.
 
 (b) Where an individual is, on or after December 1, 1962, awarded a judgment against the United States in a civil action brought pursuant to section 1346(b) of title 28 or, on or after December 1, 1962, enters into a settlement or compromise under section 2672 or 2677 of title 28 by reason of a disability or death treated pursuant to this section as if it were service-connected, then no benefits shall be paid to such individual for any month beginning after the date such judgment, settlement, or compromise on account of such disability or death becomes final until the aggregate amount of benefits which would be paid but for this subsection equals the total amount included in such judgment, settlement, or compromise.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1124, §351; Pub. L. 87–825, §3, Oct. 15, 1962, 76 Stat. 950; Pub. L. 91–24, §3, June 11, 1969, 83 Stat. 33; Pub. L. 94–433, title IV, §404(19), Sept. 30, 1976, 90 Stat. 1379; Pub. L. 98–223, title II, §213(1), Mar. 2, 1984, 98 Stat. 46; renumbered §1151 and amended Pub. L. 102–83, §§4(a)(1), 5(a), Aug. 6, 1991, 105 Stat. 403, 406; Pub. L. 104–204, title IV, §422(a), Sept. 26, 1996, 110 Stat. 2926.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1124, §351; Pub. L. 87–825, §3, Oct. 15, 1962, 76 Stat. 950; Pub. L. 91–24, §3, June 11, 1969, 83 Stat. 33; Pub. L. 94–433, title IV, §404(19), Sept. 30, 1976, 90 Stat. 1379; Pub. L. 98–223, title II, §213(1), Mar. 2, 1984, 98 Stat. 46; renumbered §1151 and amended Pub. L. 102–83, §§4(a)(1), 5(a), Aug. 6, 1991, 105 Stat. 403, 406; Pub. L. 104–204, title IV, §422(a), Sept. 26, 1996, 110 Stat. 2926; Pub. L. 106–419, title III, §303, Nov. 1, 2000, 114 Stat. 1853.)
 
 #### Amendments
+
+2000—Subsec. (a)(2). Pub. L. 106–419 inserted “(A)” after “proximately caused” and added cl. (B).
 
 1996—Subsec. (a). Pub. L. 104–204, §422(a)(1), added subsec. (a) and struck out former first sentence of section which read as follows: “Where any veteran shall have suffered an injury, or an aggravation of an injury, as the result of hospitalization, medical or surgical treatment, or the pursuit of a course of vocational rehabilitation under chapter 31 of this title, awarded under any of the laws administered by the Secretary, or as a result of having submitted to an examination under any such law, and not the result of such veteran's own willful misconduct, and such injury or aggravation results in additional disability to or the death of such veteran, disability or death compensation under this chapter and dependency and indemnity compensation under chapter 13 of this title shall be awarded in the same manner as if such disability, aggravation, or death were service-connected.”
 
@@ -40,7 +42,7 @@ Section 422(b), (c) of Pub. L. 104–204 provided that:
 
 “(2) Section 1151 of title 38, United States Code (as amended by subsection (a)), shall govern all administrative and judicial determinations of eligibility for benefits under such section that are made with respect to claims filed on or after the effective date set forth in paragraph (1) \[Oct. 1, 1996\], including those based on original applications and applications seeking to reopen, revise, reconsider, or otherwise readjudicate on any basis claims for benefits under such section 1151 or any provision of law that is a predecessor of such section.
 
-“(c) Nothwithstanding \[sic\] subsection (b)(1), section 421(d) \[set out as a note under section 1801 of this title\], or any other provision of this Act \[see Tables for classification\], section 421 \[enacting sections 1801 to 1806 of this title, amending section 5312 of this title, and enacting provisions set out as notes under section 1801 ofthis title\] and this section \[amending this section\] shall not take effect until October 1, 1997, unless legislation other than this Act is enacted to provide for an earlier effective date.”
+“(c) Nothwithstanding \[sic\] subsection (b)(1), section 421(d) \[set out as a note under section 1801 of this title\], or any other provision of this Act \[see Tables for classification\], section 421 \[enacting sections 1801 to 1806 of this title, amending section 5312 of this title, and enacting provisions set out as notes under section 1801 of this title\] and this section \[amending this section\] shall not take effect until October 1, 1997, unless legislation other than this Act is enacted to provide for an earlier effective date.”
 
 #### Effective Date of 1976 Amendment
 

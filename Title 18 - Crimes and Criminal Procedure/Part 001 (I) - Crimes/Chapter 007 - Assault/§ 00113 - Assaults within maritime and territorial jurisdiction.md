@@ -62,14 +62,6 @@ Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of P
 
 Amendments by Pub. L. 99–646 and Pub. L. 99–654 effective respectively 30 days after Nov. 10, 1986, and 30 days after Nov. 14, 1986, see section 87(e) of Pub. L. 99–646 and section 4 of Pub. L. 99–654, set out as an Effective Date note under section 2241 of this title.
 
-#### Cross References
-
-Actions aboard aircraft in special aircraft jurisdiction of United States in violation of this section punishable as provided herein, see section 46506 of Title 49, Transportation.
-
-Attempt to commit murder or manslaughter, see section 1113 of this title.
-
-Wire or oral communications authorization for interception, to provide evidence of murder, see section 2516 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1113, 3559, 5032 of this title; title 49 section 46506.

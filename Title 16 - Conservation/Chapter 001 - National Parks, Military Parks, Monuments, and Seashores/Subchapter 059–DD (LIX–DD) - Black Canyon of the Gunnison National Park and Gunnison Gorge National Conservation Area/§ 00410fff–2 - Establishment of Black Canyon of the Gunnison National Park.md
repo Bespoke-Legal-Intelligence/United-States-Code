@@ -20,7 +20,7 @@ Subject to valid existing rights, all Federal lands within the park are hereby w
 
 (1)(A) Consistent with the requirements of this subsection, including the limitation in paragraph (3), the Secretary shall allow the grazing of livestock within the park to continue where authorized under permits or leases in existence as of October 21, 1999. Grazing shall be at no more than the current level, and subject to applicable laws and National Park Service regulations.
 
-(B) Nothing in this subsection shall be construed as extending grazing privileges for any party or their assignee in any area of the parkwhere, prior to October 21, 1999, such use was scheduled to expire according to the terms of a settlement by the United States Claims Court affecting property incorporated into the boundary of the Black Canyon of the Gunnison National Monument.
+(B) Nothing in this subsection shall be construed as extending grazing privileges for any party or their assignee in any area of the park where, prior to October 21, 1999, such use was scheduled to expire according to the terms of a settlement by the United States Claims Court affecting property incorporated into the boundary of the Black Canyon of the Gunnison National Monument.
 
 (C) Nothing in this subsection shall prohibit the Secretary from accepting the voluntary termination of leases or permits for grazing within the park.
 
@@ -40,9 +40,7 @@ Upon enactment of this subchapter, referred to in subsec. (b), was in the origin
 
 The public land laws, referred to in subsec. (d), are classified generally to Title 43, Public Lands.
 
-The mining laws, referred to in subsec. (d), are classified generally to Title 30, Mineral Lands and Mining.
-
-Mineral leasing laws, referred to in subsec. (d), have been defined in sections 351, 505, 530, and 541e of Title 30, Mineral Lands and Mining, to mean acts Oct. 20, 1914, ch. 330, 38 Stat. 741; Feb. 25, 1920, ch. 85, 41 Stat. 437; Apr. 17, 1926, ch. 158, 44 Stat. 301; and Feb. 7, 1927, ch. 66, 44 Stat. 1057. The act of Oct. 20, 1914, was repealed by Pub. L. 86–252, §1, Sept. 9, 1959, 73 Stat. 490. The act of Feb. 25, 1920, is known as the Mineral Leasing Act and is classified generally to chapter 3A (§181 et seq.) of Title 30. The act of Apr. 17, 1926, is classified generally to subchapter VIII (§271 et seq.) of chapter 3A of Title 30. The act of Feb. 7, 1927, is classified principally to subchapter IX (§281 et seq.) of chapter 3A of Title 30. For complete classification of these Acts to the Code, see Tables.
+The mining laws and the mineral leasing laws, referred to in subsec. (d), are classified generally to Title 30, Mineral Lands and Mining.
 
 Geothermal leasing laws, referred to in subsec. (d), are classified principally to chapter 23 (§1001 et seq.) of Title 30, Mineral Lands and Mining.
 

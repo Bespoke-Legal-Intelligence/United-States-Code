@@ -32,7 +32,7 @@ Not later than 180 days after November 28, 1990, the Secretary and the Secretary
 
 &emsp;(C) take actions necessary to protect the exercise of such right;
 
-&emsp;(5) delineate the responsibilities of the Bureau of Indian Affairs and the Service, including mental health identification, prevention, education, referral, and treatment services (including services through multidisciplinary resource teams), at the central, area, and agency and service unit levels to address the problems identified in paragraph (1);
+&emsp;(5) delineate the responsibilities of the Bureau of Indian Affairs and the Service, including mental health identification, prevention, education, referral, and treatment services (including services through multidisciplinaryresource teams), at the central, area, and agency and service unit levels to address the problems identified in paragraph (1);
 
 &emsp;(6) provide a strategy for the comprehensive coordination of the mental health services provided by the Bureau of Indian Affairs and the Service to meet the needs identified pursuant to paragraph (1), including—
 
@@ -94,7 +94,7 @@ Not later than 180 days after November 28, 1990, the Secretary and the Secretary
 
 (2) In carrying out paragraph (1), the Secretary shall develop a program providing for—
 
-&emsp;(A) the payment of bonuses (which shall not be more favorable than those provided forunder sections 1616i and 1616j of this title) for service in hardship posts;
+&emsp;(A) the payment of bonuses (which shall not be more favorable than those provided for under sections 1616i and 1616j of this title) for service in hardship posts;
 
 &emsp;(B) the repayment of loans (for which the provisions of repayment contracts shall not be more favorable than the repayment contracts under section 1616a of this title) for health professions education as a recruitment incentive; and
 
@@ -204,7 +204,7 @@ Any person employed as a psychologist, social worker, or marriage and family the
 
 #### References in Text
 
-The Indian Alcohol and Substance Abuse Prevention and Treatment Act of 1986, referred to in subsec. (b)(6)(A), is subtitle C of title IV of Pub. L. 99–570, Oct. 27, 1986, 100 Stat. 3207–137, which is classified generally to chapter 26 (§2401 et seq.) of this title. For complete classification of subtitle C to the Code, see Short Title note set out under section 2401 of this title and Tables.
+The Indian Alcohol and Substance Abuse Prevention and Treatment Act of 1986, referred to in subsec. (b)(6)(A), is subtitle C of title IV of Pub. L. 99–570, Oct. 27, 1986, 100 Stat. 3207–137, as amended, which is classified generally to chapter 26 (§2401 et seq.) of this title. For complete classification of subtitle C to the Code, see Short Title note set out under section 2401 of this title and Tables.
 
 The Indian Self-Determination Act, referred to in subsecs. (d)(2)(C), (3)(A), (k)(3), and (<i>l</i>), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 

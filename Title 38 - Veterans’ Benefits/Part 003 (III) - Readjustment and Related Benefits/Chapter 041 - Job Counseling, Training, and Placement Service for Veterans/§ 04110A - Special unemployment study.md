@@ -32,3 +32,7 @@ Subsec. (b). Pub. L. 105–368 redesignated subsec. (a)(3) as (b), substituted �
 
 Section effective on 60th day after May 20, 1988, see section 16(b)(2) of Pub. L. 100–323, set out as an Effective Date of 1988 Amendment note under section 3104 of this title.
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of reporting provisions in subsec. (b) of this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 125 of House Document No. 103–7.
+

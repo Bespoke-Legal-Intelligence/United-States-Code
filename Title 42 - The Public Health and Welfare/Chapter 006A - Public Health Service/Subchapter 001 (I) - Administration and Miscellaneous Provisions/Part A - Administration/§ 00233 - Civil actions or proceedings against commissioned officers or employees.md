@@ -42,7 +42,7 @@ The Secretary or his designee may, to the extent that he deems appropriate, hold
 
 &emsp;(iii) are otherwise required under an employment contract (or similar arrangement) between the entity and an officer, governing board member, employee, or contractor of the entity.
 
-(D) The Secretary may not under subparagraph (A) deem an entity or an officer, governing board member, employee, or contractor of the entity to be an employee of the Public Health Service for purposes of this section, and may not apply such deeming to services described in subparagraph (B)(ii), unless the entity has submitted an application for such deeming to the Secretary in such form and such manner as the Secretary shall prescribe. The application shall contain detailed information, along with supporting documentation, to verify that the entity, and the officer, governing board member, employee, or contractor of the entity, as thecase may be, meets the requirements of subparagraphs (B) and (C) of this paragraph and that the entity meets the requirements of paragraphs (1) through (4) of subsection (h) of this section.
+(D) The Secretary may not under subparagraph (A) deem an entity or an officer, governing board member, employee, or contractor of the entity to be an employee of the Public Health Service for purposes of this section, and may not apply such deeming to services described in subparagraph (B)(ii), unless the entity has submitted an application for such deeming to the Secretary in such form and such manner as the Secretary shall prescribe. The application shall contain detailed information, along with supporting documentation, to verify that the entity, and the officer, governing board member, employee, or contractor of the entity, as the case may be, meets the requirements of subparagraphs (B) and (C) of this paragraph and that the entity meets the requirements of paragraphs (1) through (4) of subsection (h) of this section.
 
 (E) The Secretary shall make a determination of whether an entity or an officer, governing board member, employee, or contractor of the entity is deemed to be an employee of the Public Health Service for purposes of this section within 30 days after the receipt of an application under subparagraph (D). The determination of the Secretary that an entity or an officer, governing board member, employee, or contractor of the entity is deemed to be an employee of the Public Health Service for purposes of this section shall apply for the period specified by the Secretary under subparagraph (A).
 
@@ -64,7 +64,7 @@ The Secretary or his designee may, to the extent that he deems appropriate, hold
 
 &emsp;(iv) If after making the election the entity submits an application under subparagraph (D), the election does not preclude the Secretary from approving the application ( <sup>2</sup> and thereby restoring the applicability of this subsection to the entity and each officer, governing board member, employee, and contractor of the entity, subject to the provisions of this subsection and the subsequent provisions of this section.
 
-(2) If, with respect to an entity or person deemed to be an employee for purposes of paragraph (1), a cause of action is instituted against the United States pursuant to this section, any claim of the entity or person for benefits under an insurance policy with respect to medical malpractice relating to such cause of action shall be subrogated to the United States.
+(2) If, with respect to an entity or person deemed to be an employee for purposes of paragraph (1), a cause of action is instituted against the United States pursuant to this section, anyclaim of the entity or person for benefits under an insurance policy with respect to medical malpractice relating to such cause of action shall be subrogated to the United States.
 
 (3) This subsection shall apply with respect to a cause of action arising from an act or omission which occurs on or after January 1, 1993.
 
@@ -114,7 +114,7 @@ In the case of a health care provider who is an officer, employee, or contractor
 
 (B) The estimate under subparagraph (A) shall take into account—
 
-&emsp;(i) the value and frequency of all claims for damage for personal injury, including death, resulting from the performance of medical, surgical, dental, or related functions by entities described in subsection (g)(4) of this section or by officers, employees, or contractors (subject to subsection (g)(5) of this section) of such entities who are deemed to be employees of the Public Health Service under subsection (g)(1) of this section that, during the preceding 5-year period, are filed under this section or, with respect to years occurring before this subsection takes effect, are filed against persons other than the United States,
+&emsp;(i) the value and frequency of all claims for damage for personal injury, including death, resulting from the performance of medical, surgical, dental, or related functions by entities described in subsection (g)(4) of this section or by officers, employees, or contractors (subject to subsection (g)(5) of this section) of such entities who are deemed to be employees of the Public Health Service under subsection (g)(1) of this section that, during the preceding 5-year period, are filed under this section or, with respect to years occurring before thissubsection takes effect, are filed against persons other than the United States,
 
 &emsp;(ii) the amounts paid during that 5-year period on all claims described in clause (i), regardless of when such claims were filed, adjusted to reflect payments which would not be permitted under section 1346 and chapter 171 of title 28, and
 
@@ -150,7 +150,7 @@ In the case of a health care provider who is an officer, employee, or contractor
 
 &emsp;(D) A comparison of the costs and the benefits to taxpayers of maintaining medical malpractice liability coverage for such entities pursuant to this section, taking into account—
 
-&emsp;&emsp;(i) a comparison of the costs of premiums paid by such entities for private medical malpractice liability insurance with the cost of coverage pursuant to this section; and
+&emsp;&emsp;(i) a comparison of the costs of premiums paid by such entities for private medicalmalpractice liability insurance with the cost of coverage pursuant to this section; and
 
 &emsp;&emsp;(ii) an analysis of whether the cost of premiums for private medical malpractice liability insurance coverage is consistent with the liability claims experience of such entities.
 
@@ -174,7 +174,7 @@ In the case of a health care provider who is an officer, employee, or contractor
 
 &emsp;&emsp;(ii) Claims that have been paid and that are estimated to be paid, and legal expenses to handle such claims that have been paid and that are estimated to be paid, by private medical malpractice liability insurance.
 
-&emsp;(D) An analysis of whether the cost of premiums for private medical malpractice liability insurance coverage is consistent with the liability claims experience of entities thathave been deemed as employees for purposes of this section.
+&emsp;(D) An analysis of whether the cost of premiums for private medical malpractice liability insurance coverage is consistent with the liability claims experience of entities that have been deemed as employees for purposes of this section.
 
 (3) In preparing the report under paragraph (1), the Comptroller General of the United States shall consult with public and private entities with expertise on the matters with which the report is concerned.
 
@@ -224,7 +224,7 @@ In the case of a health care provider who is an officer, employee, or contractor
 
 &emsp;&emsp;(ii) the Secretary, pursuant to subsection (g)(1)(E) of this section, determines that the health care practitioner is deemed to be an employee of the Public Health Service.
 
-&emsp;(D) In the case of a health care practitioner who is determined by the Secretary pursuant to subsection (g)(1)(E) of this section to be a free clinic health professional, this subsection applies to the health care practitioner (with respect to the free clinic sponsoring the health care practitioner pursuant to subparagraph\(C)) for any cause of action arising from an act or omission of the health care practitioner occurring on or after the date on which the Secretary makes such determination.
+&emsp;(D) In the case of a health care practitioner who is determined by the Secretary pursuant to subsection (g)(1)(E) of this section to be a free clinic health professional, this subsection applies to the health care practitioner (with respect to the free clinic sponsoring the health care practitioner pursuant to subparagraph (C)) for any cause of action arising from an act or omission of the health care practitioner occurring on or after the date on which the Secretary makes such determination.
 
 &emsp;(E) Subsection (g)(1)(F) of this section applies to a health care practitioner for purposes of this subsection only to the extent that, in providing health services to an individual, each of the conditions specified in paragraph (2) is met.
 
@@ -250,7 +250,7 @@ In the case of a health care provider who is an officer, employee, or contractor
 
 #### References in Text
 
-Sections 254b and 254c of this title, referred to in subsecs. (g)(1)(G), (k)(2), and (n)(1)(C), were in the original references to sections 329 and 330, meaning sections 329 and 330 of act July 1, 1944, which were omitted in the general amendment of subpart I (§254b et seq.) of part D of subchapter II of this chapter by Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626. Sections 2 and 3(a) of Pub. L. 104–299 enacted new sections 330 and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of this title.
+Sections 254b and 254c of this title, referred to in subsecs. (g)(1)(G), (k)(2), and (n)(1)(C), were in the original references to sections 329 and 330, meaning sections 329 and 330 of act July 1, 1944, which were omitted in the general amendment of subpart I (§254b et seq.) of part D of subchapter II of this chapter by Pub. L. 104–299, §2,Oct. 11, 1996, 110 Stat. 3626. Sections 2 and 3(a) of Pub. L. 104–299 enacted new sections 330 and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of this title.
 
 Sections 256 and 256a of this title, referred to in subsecs. (g)(1)(G), (k)(2), and (n)(1)(C), were repealed by Pub. L. 104–299, §4(a)(3), Oct. 11, 1996, 110 Stat. 3645.
 
@@ -274,7 +274,7 @@ Subsec. (<i>o</i>). Pub. L. 104–191 added subsec. (<i>o</i>).
 
 Subsec. (g)(3). Pub. L. 104–73, §2(a), struck out at end “This subsection shall not apply with respect to a cause of action arising from an act or omission which occurs on or after January 1, 1996.”
 
-Subsec. (g)(5)(B). Pub. L. 104–73, §8, amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “in the case of an individual who normally performs on average less than 321/2 hours of services perweek for the entity for the period of the contract and is a licensed or certified provider of obstetrical services—
+Subsec. (g)(5)(B). Pub. L. 104–73, §8, amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “in the case of an individual who normally performs on average less than 321/2 hours of services per week for the entity for the period of the contract and is a licensed or certified provider of obstetrical services—
 
 &emsp;“(i) the individual's medical malpractice liability insurance coverage does not extend to services performed by the individual for the entity under the contract, or
 
@@ -334,7 +334,7 @@ Effect of Liability Protections on Costs Incurred by Covered Entities.—The Att
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 218a, 254h–1 of this title; title 25 section 450f.
+This section is referred to in sections 218a, 238q, 254h–1 of this title; title 25 section 450f.
 
 <i><sup>1</sup></i><i> See References in Text notes below.</i>
 

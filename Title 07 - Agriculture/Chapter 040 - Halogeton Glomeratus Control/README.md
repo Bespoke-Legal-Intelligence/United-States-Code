@@ -1,16 +1,5 @@
 ### <b>CHAPTER 40—HALOGETON GLOMERATUS CONTROL</b>
 
-| Sec. |  |
-| :--- | ---: |
-| [1651\.](%C2%A7%2001651%20-%20Government%20policy%20for%20control%20of%20Halogeton%20glomeratus.md) | Government policy for control of Halogeton glomeratus. |
-| [1652\.](%C2%A7%2001652%20-%20Authority%20of%20Secretaries%20of%20Agriculture%20and%20Interior%3B%20surveys%3B%20control%20measures%3B%20consent%20of%20other%20departments.md) | Authority of Secretaries of Agriculture and Interior; surveys; control measures; consent of other departments. |
-| [1653\.](%C2%A7%2001653%20-%20Expenditure%20of%20funds%3B%20discretion%20of%20Secretaries%3B%20utilization%20of%20available%20services.md) | Expenditure of funds; discretion of Secretaries; utilization of available services. |
-| [1654\.](%C2%A7%2001654%20-%20Contributions%20by%20States.md) | Contributions by States. |
-| [1655\.](%C2%A7%2001655%20-%20Authorization%20of%20appropriations%3B%20use.md) | Authorization of appropriations; use. |
-| [1656\.](%C2%A7%2001656%20-%20Extent%20of%20authority.md) | Extent of authority. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
 
@@ -18,9 +7,4 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 01651 - Government policy for control of Halogeton glomeratus](%C2%A7%2001651%20-%20Government%20policy%20for%20control%20of%20Halogeton%20glomeratus.md)
-- [&sect; 01652 - Authority of Secretaries of Agriculture and Interior; surveys; control measures; consent of other departments](%C2%A7%2001652%20-%20Authority%20of%20Secretaries%20of%20Agriculture%20and%20Interior%3B%20surveys%3B%20control%20measures%3B%20consent%20of%20other%20departments.md)
-- [&sect; 01653 - Expenditure of funds; discretion of Secretaries; utilization of available services](%C2%A7%2001653%20-%20Expenditure%20of%20funds%3B%20discretion%20of%20Secretaries%3B%20utilization%20of%20available%20services.md)
-- [&sect; 01654 - Contributions by States](%C2%A7%2001654%20-%20Contributions%20by%20States.md)
-- [&sect; 01655 - Authorization of appropriations; use](%C2%A7%2001655%20-%20Authorization%20of%20appropriations%3B%20use.md)
-- [&sect; 01656 - Extent of authority](%C2%A7%2001656%20-%20Extent%20of%20authority.md)
+- [&sect; 01651 to 1656 - Repealed. Pub. L. 106&#8211;224, title IV, &sect;438(a)(7), June 20, 2000, 114 Stat. 454](%C2%A7%2001651%20to%201656%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93224%2C%20title%20IV%2C%20%C2%A7438%28a%29%287%29%2C%20June%2020%2C%202000%2C%20114%20Stat.%20454.md)

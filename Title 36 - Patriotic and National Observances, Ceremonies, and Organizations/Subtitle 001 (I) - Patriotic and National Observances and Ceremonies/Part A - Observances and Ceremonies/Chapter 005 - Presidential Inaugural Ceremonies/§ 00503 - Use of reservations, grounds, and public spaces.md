@@ -58,5 +58,5 @@ In subsection (a), the words “restrictions, terms, and” are omitted as unnec
 
 In subsection (b), the words “With respect to public space”, “goods, wares”, “sidewalk, street, park, reservation, or other”, and “depending on the location of such stand or structure” are omitted as unnecessary.
 
-In subsection (d), the words “department, agency, or instrumentality” are substituted for “agency” for consistency in the revised title and with other titles of the United States Code. The words “or agencies” are omitted because of 1:1.
+In subsection (d), the words “department, agency, or instrumentality” are substituted for “agency” for consistency in the revised title and with other titles of theUnited States Code. The words “or agencies” are omitted because of 1:1.
 

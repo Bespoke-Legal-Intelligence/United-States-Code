@@ -1,6 +1,0 @@
-### §150f. Expenses; employment of personnel; printing and binding; purchase of passenger-carrying vehicles
-
-To carry out the purposes of this chapter the Secretary of Agriculture is authorized to incur all necessary expenses, including the employment of persons in the District of Columbia and elsewhere, printing and binding, and the purchase of passenger-carrying vehicles.
-
-(June 15, 1948, ch. 471, §7, 62 Stat. 443.)
-

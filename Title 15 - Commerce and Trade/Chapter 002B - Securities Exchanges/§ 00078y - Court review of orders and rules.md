@@ -4,13 +4,13 @@
 
 (1) A person aggrieved by a final order of the Commission entered pursuant to this chapter may obtain review of the order in the United States Court of Appeals for the circuit in which he resides or has his principal place of business, or for the District of Columbia Circuit, by filing in such court, within sixty days after the entry of the order, a written petition requesting that the order be modified or set aside in whole or in part.
 
-(2) A copy of the petition shall be transmitted forthwith by the clerk of the court to a memberof the Commission or an officer designated by the Commission for that purpose. Thereupon the Commission shall file in the court the record on which the order complained of is entered, as provided in section 2112 of title 28 and the Federal Rules of Appellate Procedure.
+(2) A copy of the petition shall be transmitted forthwith by the clerk of the court to a member of the Commission or an officer designated by the Commission for that purpose. Thereupon the Commission shall file in the court the record on which the order complained of is entered, as provided in section 2112 of title 28 and the Federal Rules of Appellate Procedure.
 
 (3) On the filing of the petition, the court has jurisdiction, which becomes exclusive on the filing of the record, to affirm or modify and enforce or to set aside the order in whole or in part.
 
 (4) The findings of the Commission as to the facts, if supported by substantial evidence, are conclusive.
 
-(5) If either party applies to the court for leave to adduce additional evidence and shows to the satisfaction of the court that the additional evidence is material and that there was reasonable ground for failure to adduce it before the Commission, the court may remand the case to the Commission for further proceedings, in whatever manner and on whatever conditions the court considers appropriate. If the case is remanded to the Commission, it shall file in the court a supplemental record containing any new evidence, any further or modified findings, and any new order.
+(5) If either party applies to the court for leave to adduce additional evidence and shows to thesatisfaction of the court that the additional evidence is material and that there was reasonable ground for failure to adduce it before the Commission, the court may remand the case to the Commission for further proceedings, in whatever manner and on whatever conditions the court considers appropriate. If the case is remanded to the Commission, it shall file in the court a supplemental record containing any new evidence, any further or modified findings, and any new order.
 
 #### (b) Commission rules; persons adversely affected; petition; record; affirmance, enforcement, or setting aside of rules; findings; transfer of proceedings
 
@@ -34,9 +34,9 @@
 
 #### (d) Other appropriate regulatory agencies
 
-(1) For purposes of the preceding subsections of this section, the term “Commission” includesthe agencies enumerated in section 78c(a)(34) of this title insofar as such agencies are acting pursuant to this chapter and the Secretary of the Treasury insofar as he is acting pursuant to section 78<i>o</i>–5 of this title.
+(1) For purposes of the preceding subsections of this section, the term “Commission” includes the agencies enumerated in section 78c(a)(34) of this title insofar as such agencies are acting pursuant to this chapter and the Secretary of the Treasury insofar as he is acting pursuant to section 78<i>o</i>–5 of this title.
 
-(2) For purposes of subsection (a)(4) of this section and section 706 of title 5, an order of the Commission pursuant to section 78s(a) of this title denying registration to a clearing agency for which the Commission is not the appropriate regulatory agency or pursuant to section 78s(b) of this title disapproving a proposed rule change by such a clearing agency shall be deemed to be an order of the appropriate regulatory agency for such clearing agency insofar as such order was entered by reason of a determination by such appropriate regulatory agency pursuant to section 78s(a)(2)(C) or 78s(b)(4)(C) of this title that such registration or proposed rule change would be inconsistent with the safeguarding of securities or funds.
+(2) For purposes of subsection (a)(4) of this section and section 706 of title 5, an order of the Commission pursuant to section 78s(a) of this title denying registration to a clearing agency for which the Commission is not the appropriate regulatory agency or pursuant to section 78s(b) of this title disapproving a proposed rule change by such a clearing agency shall be deemed to be an order of the appropriate regulatory agency for such clearing agency insofar as such orderwas entered by reason of a determination by such appropriate regulatory agency pursuant to section 78s(a)(2)(C) or 78s(b)(4)(C) of this title that such registration or proposed rule change would be inconsistent with the safeguarding of securities or funds.
 
 (June 6, 1934, ch. 404, title I, §25, 48 Stat. 901; June 7, 1934, ch. 426, 48 Stat. 926; June 25, 1948, ch. 646, §32(a), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Pub. L. 85–791, §10, Aug. 28, 1958, 72 Stat. 945; Pub. L. 94–29, §20, June 4, 1975, 89 Stat. 158; Pub. L. 99–571, title I, §102(k), Oct. 28, 1986, 100 Stat. 3220; Pub. L. 101–432, §6(b), Oct. 16, 1990, 104 Stat. 975.)
 
@@ -77,22 +77,6 @@ Amendment by Pub. L. 94–29 effective June 4, 1975, see section 31(a) of Pub. L
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
-#### Cross References
-
-Proceeding or order of Board of Governors of Federal Reserve System, section as applicable to, see section 78h of this title.
-
-Review of orders under—
-
-&emsp;&emsp;Investment Advisers Act of 1940, see section 80b–13 of this title.
-
-&emsp;&emsp;Investment Company Act of 1940, see section 80a–42 of this title.
-
-&emsp;&emsp;Public Utility Holding Company Act of 1935, see section 79x of this title.
-
-&emsp;&emsp;Securities Act of 1933, see section 77i of this title.
-
-&emsp;&emsp;Trust Indenture Act of 1939, see section 77vvv of this title.
 
 #### Section Referred to in Other Sections
 

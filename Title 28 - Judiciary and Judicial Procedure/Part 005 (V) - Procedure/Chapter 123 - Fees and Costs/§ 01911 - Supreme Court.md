@@ -14,11 +14,3 @@ The second paragraph was inserted to give statutory sanction to existing practic
 
 Changes were made in phraseology.
 
-#### Rules of the Supreme Court
-
-Fees to be charged pursuant to this section, see rule 38, Appendix to this title.
-
-#### Cross References
-
-Payment by clerk into Treasury of all fees, costs, and emoluments, see section 671 of this title.
-

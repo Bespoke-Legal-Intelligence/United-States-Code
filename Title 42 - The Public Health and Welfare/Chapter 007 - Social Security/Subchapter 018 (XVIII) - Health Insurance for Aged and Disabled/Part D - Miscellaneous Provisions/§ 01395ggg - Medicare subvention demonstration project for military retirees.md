@@ -20,7 +20,7 @@ In this section:
 
 &emsp;The term “medicare-eligible military retiree or dependent” means an individual described in section 1074(b) or 1076(b) of title 10 who—
 
-&emsp;&emsp;(A) would be eligible for health benefits under section 1086 of such title by reason of subsection (c)(1) of such section 1086 but for the operation of subsection (d) of such section 1086;
+&emsp;&emsp;(A) is eligible for health benefits under section 1086 of such title by reason of subsection (c)(1) of such section;
 
 &emsp;&emsp;(B)(i) is entitled to benefits under part A of this subchapter; and
 
@@ -88,7 +88,7 @@ In this section:
 
 #### (4) Duration
 
-&emsp;The administering Secretaries shall conduct the demonstration project during the 3-year period beginning on January 1, 1998.
+&emsp;The administering Secretaries shall conduct the demonstration project during the 4-year period beginning on January 1, 1998, except that the administering Secretaries may negotiate and (subject to section 701(f) of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001) <sup>1</sup> enter into a new or revised agreement under paragraph (1)(A) to continue the project after the end of such period. If the project is so continued, the administering Secretaries may terminate the agreement under which the program operates after providing notice to Congress in accordance with subsection (k)(2)(B)(v) of this section.
 
 #### (5) Report
 
@@ -192,9 +192,11 @@ Notwithstanding any provisions of title 10, the administering Secretaries may ag
 
 &emsp;&emsp;(A) $50,000,000 for calendar year 1998;
 
-&emsp;&emsp;(B) $60,000,000 for calendar year 1999; and
+&emsp;&emsp;(B) $60,000,000 for calendar year 1999;
 
-&emsp;&emsp;(C) $65,000,000 for calendar year 2000.
+&emsp;&emsp;(C) $65,000,000 for calendar year 2000; and
+
+&emsp;&emsp;(D) $70,000,000 for calendar year 2001.
 
 #### (j) Maintenance of effort
 
@@ -202,7 +204,7 @@ Notwithstanding any provisions of title 10, the administering Secretaries may ag
 
 #### (A) In general
 
-&emsp;&emsp;The administering Secretaries, in consultation with the Comptroller General, shall closely monitor the expenditures made under the medicare program for medicare-eligible military retirees or dependents during the period of the demonstration project compared to the expenditures that would have been made for such medicare-eligible military retirees or dependents during that period if the demonstration project had not been conducted. The agreement entered into by the administering Secretaries under subsection (b) of this section shall require any participating military treatment facility to maintain the level of effort for space available care to medicare-eligible military retirees or dependents.
+&emsp;&emsp;The administering Secretaries, in consultation with the Comptroller General, shall closely monitor the expenditures made under the medicare program for medicare-eligible military retirees or dependents duringthe period of the demonstration project compared to the expenditures that would have been made for such medicare-eligible military retirees or dependents during that period if the demonstration project had not been conducted. The agreement entered into by the administering Secretaries under subsection (b) of this section shall require any participating military treatment facility to maintain the level of effort for space available care to medicare-eligible military retirees or dependents.
 
 #### (B) Annual report by the Comptroller General
 
@@ -272,7 +274,81 @@ Notwithstanding any provisions of title 10, the administering Secretaries may ag
 
 &emsp;&emsp;(C) whether the terms and conditions of the project should be continued (or modified) if the project is extended or expanded.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1896, as added Pub. L. 105–33, title IV, §4015(a), Aug. 5, 1997, 111 Stat. 337.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1896, as added Pub. L. 105–33, title IV, §4015(a), Aug. 5, 1997, 111 Stat. 337; amended Pub. L. 106–398, §1 \[\[div. A\], title VII, §712(a)(2), (b)–(e)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–177, 1654A–178.)
+
+#### Amendment of Section
+
+<i>Pub. L. 106–398, §1 \[\[div. A\], title VII, §712(c)(2), (3), (d)–(f)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–177 to 1654A–179, provided that, effective on the date as is provided for in the agreement proposed under the amendment made by section 1 \[\[div. A\], title VII, §712(c)(1)\] of Pub. L. 106–398 to subsection (b)(4) of this section and as is provided for in an Act enacted after Oct. 30, 2000, this section is amended as follows:</i>
+
+<i>(1) in the section catchline, by striking “demonstration project” and inserting “program”;</i>
+
+<i>(2) wherever appearing in text, by substituting “program” for “demonstration project” and for “project”;</i>
+
+<i>(3) by amending subsection (a)(2) to read as follows:</i>
+
+#### <i>“(2) Program</i>
+
+&emsp;<i>“The term ‘program’ means the program carried out under this section.”;</i>
+
+<i>(4) in subsection (b) heading, by substituting “Program” for “Demonstration project”;</i>
+
+<i>(5) by amending subsection (b)(2) to read as follows:</i>
+
+#### <i>“(2) Location of sites</i>
+
+&emsp;<i>“Subject to subsection (k)(2)(B) of this section, the program shall be conducted in any site that is designated jointly by the administering Secretaries.”;</i>
+
+<i>(6) in subsection (d)(2), by inserting “, or (subject to subsection (k)(2)(B) of this section) such comparable requirements as are included in the agreement under subsection (b)(1)(A) of this section” after “the following areas”;</i>
+
+<i>(7) in subsection (i)(2), by inserting “subject to paragraph (4),” after “paragraph (1)”;</i>
+
+<i>(8) by amending subsection (i)(4) to read as follows:</i>
+
+#### <i>“(4) Cap on amount</i>
+
+&emsp;<i>“The maximum aggregate expenditures from the trust funds under this subsection pursuant to the agreement entered into between the administering Secretaries under subsection (b) of this section for a fiscal year (before fiscal year 2006) shall not exceed the amount agreed by the Secretaries to be the amount that would have been expended from the trust funds on beneficiaries who enroll in the program, had the program not been established, plus the following:</i>
+
+&emsp;&emsp;<i>“(A) $35,000,000 for fiscal year 2002.</i>
+
+&emsp;&emsp;<i>“(B) $55,000,000 for fiscal year 2003.</i>
+
+&emsp;&emsp;<i>“(C) $75,000,000 for fiscal year 2004.</i>
+
+&emsp;&emsp;<i>“(D) $100,000,000 for fiscal year 2005.”;</i>
+
+<i>(9) by striking subsection (i)(4) and inserting the following:</i>
+
+#### <i>“(4) Modification of payment methodology</i>
+
+&emsp;<i>“The administering Secretaries may, subject to subsection (k)(2)(B) of this section, modify the payment methodology provided under paragraphs (1) and (2) so long as the amount of the reimbursement provided to the Secretary of Defense fully reimburses the Department of Defense for its cost of providing services under the program but does not exceed an amount that is estimated to be equivalent to the amount that otherwise would have been expended under this subchapter for such services if provided other than under the program (not including amounts described in paragraph (2)). Such limiting amount may be based for any site on the amount that would be payable to Medicare+Choice organizations under part C of this subchapter for the area of the site or the amounts that would be payable under parts A and B of this subchapter.”;</i>
+
+<i>(10) in subsection (j)(1) heading, by striking “demonstration”; and</i>
+
+<i>(11) by amending subsection (k)(2) to read as follows:</i>
+
+#### <i>“(2) Reports on program operation and changes</i>
+
+#### <i>“(A) Annual report</i>
+
+&emsp;&emsp;<i>“The administering Secretaries shall submit to the Committees on Armed Services and Finance of the Senate and the Committees on Armed Services and Ways and Means of the House of Representatives an annual report on the program and its impact on costs and the provision of health services under this subchapter and title 10.</i>
+
+#### <i>“(B) Before making certain program changes</i>
+
+&emsp;&emsp;<i>“The administering Secretaries shall submit to such Committees a report at least 60 days before—</i>
+
+&emsp;&emsp;&emsp;<i>“(i) changing the designation of a site under subsection (b)(2) of this section;</i>
+
+&emsp;&emsp;&emsp;<i>“(ii) applying comparable requirements under subsection (d)(2) of this section;</i>
+
+&emsp;&emsp;&emsp;<i>“(iii) making significant changes in payment methodology or amounts under subsection (i)(4) of this section;</i>
+
+&emsp;&emsp;&emsp;<i>“(iv) making other significant changes in the operation of the program; or</i>
+
+&emsp;&emsp;&emsp;<i>“(v) terminating the agreement under the second sentence of subsection (b)(4) of this section.</i>
+
+#### <i>“(C) Explanation</i>
+
+&emsp;&emsp;<i>“Each report under subparagraph (B) shall include justifications for the changes or termination to which the report refers.”</i>
 
 #### References in Text
 
@@ -280,7 +356,29 @@ Parts A and B of this subchapter, referred to in subsec. (a)(4), (5), are classi
 
 Section 711 of the National Defense Authorization Act for Fiscal Year 1996, referred to in subsec. (a)(7), is section 711 of Pub. L. 104–106, div. A, title VII, Feb. 10, 1996, 110 Stat. 374, which is set out as a note under section 1073 of Title 10, Armed Forces.
 
+Section 701(f) of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001, referred to in subsec. (b)(4), probably means section 712(f) of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001, which is section 1 \[\[div. A\], title VII, §712(f)\] of Pub. L. 106–398, and is set out as an Effective Date of 2000 Amendment note below. Section 701 of that Act does not contain a subsec. (f).
+
 Part C of this subchapter, referred to in subsecs. (d), (g)(1), and (i)(1), is classified to section 1395w–21 et seq. of this title.
+
+#### Amendments
+
+2000—Subsec. (a)(4)(A). Pub. L. 106–398, §1 \[\[div. A\], title VII, §712(a)(2)\], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “would be eligible for health benefits under section 1086 of such title by reason of subsection (c)(1) of such section 1086 but for the operation of subsection (d) of such section 1086;”.
+
+Subsec. (b)(4). Pub. L. 106–398, §1 \[\[div. A\], title VII, §712(c)(1)\], inserted before period at end “, except that the administering Secretaries may negotiate and (subject to section 701(f) of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001) enter into a new or revised agreement under paragraph (1)(A) to continue the project after the end of such period. If the project is so continued, the administering Secretaries may terminate the agreement under which the program operates after providing notice to Congress in accordance with subsection (k)(2)(B)(v) of this section”.
+
+Pub. L. 106–398, §1 \[\[div. A\], title VII, §712(b)(1)\], substituted “4-year period” for “3-year period”.
+
+Subsec. (i)(4)(D). Pub. L. 106–398, §1 \[\[div. A\], title VII, §712(b)(2)\], added subpar. (D).
+
+#### Effective Date of 2000 Amendment
+
+Amendment by section 1 \[\[div. A\], title VII, §712(a)(2)\] of Pub. L. 106–398 effective Oct. 1, 2001, see section 1 \[\[div. A\], title VII, §712(a)(3)\] of Pub. L. 106–398, set out as a note under section 1086 of Title 10, Armed Forces.
+
+Pub. L. 106–398, §1 \[\[div. A\], title VII, §712(f)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–179, provided that:
+
+“(1) Upon negotiating an agreement under the amendment made by subsection (c)(1) \[amending this section\], the Secretary of Defense and the Secretary of Health and Human Services shall jointly transmit a notification of the proposed agreement to the Committee on Armed Services and the Committee on Finance of the Senate and the Committee on Armed Services and the Committee on Ways and Means of the House of Representatives, and shall include with the transmittal a copy of the proposed agreement and all related agreements and supporting documents.
+
+“(2) Such proposed agreement shall take effect, and the amendments made by subsections (c)(2), (c)(3), (d), and (e) \[amending this section\] shall take effect, on such date as is provided for in such agreement and in an Act enacted after the date of the enactment of this Act \[Oct. 30, 2000\].”
 
 #### Implementation Plan for Veterans Subvention
 

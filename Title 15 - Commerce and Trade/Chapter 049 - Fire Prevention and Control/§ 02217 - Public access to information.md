@@ -1,6 +1,6 @@
 ### §2217. Public access to information
 
-Copies of any document, report, statement, or information received or sent by the Secretary or the Administrator shall be made available to the public pursuant to the provisions of section 552 of title 5: <i>Provided</i>, That, notwithstanding the provisions of subsection (b) of such section and of section 1905 of title 18, the Secretary may disclose information which concerns or relates to a trade secret—
+Copies of any document, report, statement, or information received or sent by the Director or the Administrator shall be made available to the public pursuant to the provisions of section 552 of title 5: <i>Provided</i>, That, notwithstanding the provisions of subsection (b) of such section and of section 1905 of title 18, the Director may disclose information which concerns or relates to a trade secret—
 
 &emsp;(1) upon request, to other Federal Government departments and agencies for official use;
 
@@ -10,7 +10,11 @@ Copies of any document, report, statement, or information received or sent by th
 
 &emsp;(4) to the public when he determines such disclosure to be necessary in order to protect health and safety after notice and opportunity for comment in writing or for discussion in closed session within fifteen days by the party to which the information pertains (if the delay resulting from such notice and opportunity for comment would not be detrimental to health and safety).
 
-(Pub. L. 93–498, §20, Oct. 29, 1974, 88 Stat. 1547.)
+(Pub. L. 93–498, §20, Oct. 29, 1974, 88 Stat. 1547; Pub. L. 106–503, title I, §110(a)(2)(B)(viii), Nov. 13, 2000, 114 Stat. 2302.)
+
+#### Amendments
+
+2000—Pub. L. 106–503 substituted “Director” for “Secretary” in two places in introductory provisions.
 
 #### Transfer of Functions
 

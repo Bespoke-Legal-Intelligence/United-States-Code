@@ -8,15 +8,61 @@ Whenever the Attorney General of the United States has reasonable cause to belie
 
 #### (1) Managers, promoters, matchmakers, and licensees
 
-&emsp;Any manager, promoter, matchmaker, and licensee who knowingly violates, or coerces or causes any other person to violate, any provision of this chapter shall, upon conviction, be imprisoned for not more than 1 year or fined not more than $20,000, or both.
+&emsp;Any manager, promoter, matchmaker, and licensee who knowingly violates, or coerces or causes any other person to violate, any provision of this chapter, other than section 6307a(b),<sup>1</sup> 6307b, 6307c, 6307d, 6307e, 6307f, or 6307h of this title, shall, upon conviction, be imprisoned for not more than 1 year or fined not more than $20,000, or both.
 
-#### (2) Conflict of interest
+#### (2) Violation of antiexploitation, sanctioning organization, or disclosure provisions
 
-&emsp;Any member or employee of a boxing commission, any person who administers or enforces State boxing laws, and any member of the Association of Boxing Commissions who knowingly violates section 6308 of this title shall, upon conviction, be imprisoned for not more than 1 year or fined not more than $20,000, or both.
+&emsp;Any person who knowingly violates any provision of section 6307a(b),<sup>1</sup> 6307b, 6307c, 6307d, 6307e, 6307f, or 6307h of this title shall, upon conviction, be imprisoned for not more than 1 year or fined not more than—
 
-#### (3) Boxers
+&emsp;&emsp;(A) $100,000; and
+
+&emsp;&emsp;(B) if a violation occurs in connection with a professional boxing match the gross revenues for which exceed $2,000,000, an additional amount which bears the same ratio to $100,000 as the amount of such revenues compared to $2,000,000, or both.
+
+#### (3) Conflict of interest
+
+&emsp;Any member or employee of a boxing commission, any person who administers or enforces State boxing laws, and any member of the Association of Boxing Commissions who knowingly violates section 6308(a) of this title shall, upon conviction, be imprisoned for not more than 1 year or fined not more than $20,000, or both.
+
+#### (4) Boxers
 
 &emsp;Any boxer who knowingly violates any provision of this chapter shall, upon conviction, be fined not more than $1,000.
 
-(Pub. L. 104–272, §10, Oct. 9, 1996, 110 Stat. 3312.)
+#### (c) Actions by States
+
+Whenever the chief law enforcement officer of any State has reason to believe that a person or organization is engaging in practices which violate any requirement of this chapter, the State, as parens patriae, may bring a civil action on behalf of its residents in an appropriate district court of the United States—
+
+&emsp;(1) to enjoin the holding of any professional boxing match which the practice involves;
+
+&emsp;(2) to enforce compliance with this chapter;
+
+&emsp;(3) to obtain the fines provided under subsection (b) of this section or appropriate restitution; or
+
+&emsp;(4) to obtain such other relief as the court may deem appropriate.
+
+#### (d) Private right of action
+
+Any boxer who suffers economic injury as a result of a violation of any provision of this chapter may bring an action in the appropriate Federal or State court and recover the damages suffered, court costs, and reasonable attorneys fees and expenses.
+
+#### (e) Enforcement against Federal Trade Commission, State Attorneys General, etc.
+
+Nothing in this chapter authorizes the enforcement of—
+
+&emsp;(1) any provision of this chapter against the Federal Trade Commission, the United States Attorney General, or the chief legal officer of any State for acting or failing to act in an official capacity;
+
+&emsp;(2) subsection (d) of this section against a State or political subdivision of a State, or any agency or instrumentality thereof; or
+
+&emsp;(3) section 6307b of this title against a boxer acting in his capacity as a boxer.
+
+(Pub. L. 104–272, §18, formerly §10, Oct. 9, 1996, 110 Stat. 3312; renumbered §18 and amended Pub. L. 106–210, §§4(1), 6, May 26, 2000, 114 Stat. 322, 326.)
+
+#### Amendments
+
+2000—Subsec. (b)(1). Pub. L. 106–210, §6(1), inserted “, other than section 6307a(b), 6307b, 6307c, 6307d, 6307e, 6307f, or 6307h of this title,” after “this chapter”.
+
+Subsec. (b)(2). Pub. L. 106–210, §6(3), added par. (2). Former par. (2) redesignated (3).
+
+Subsec. (b)(3), (4). Pub. L. 106–210, §6(2), (4), redesignated pars. (2) and (3) as (3) and (4), respectively, and in par. (3) substituted “section 6308(a)” for “section 6308”.
+
+Subsecs. (c) to (e). Pub. L. 106–210, §6(5), added subsecs. (c) to (e).
+
+<i><sup>1</sup></i><i> So in original. Section 6307a does not contain a subsec. (b).</i>
 

@@ -10,7 +10,7 @@ The Secretary of the Interior is authorized subject to the following conditions 
 
 (d) Any Federal properties situated within the areas selected for the park, upon agreement by the particular agency administering such properties that such properties should be made available for the park, may be transferred without further authorization to the Secretary by such agency for purposes of this section and section 398 of this title;
 
-(e) Establishment of the Virgin Islands National Park, in its initial phase, shall be and isdeclared to be accomplished and effective for purposes of administration when a minimum acreage of not less than five thousand acres in Federal ownership for purposes of this section and section 398 of this title shall have been acquired by the United States in specific areas containing such acquired lands to be designated by the Secretary; and
+(e) Establishment of the Virgin Islands National Park, in its initial phase, shall be and is declared to be accomplished and effective for purposes of administration when a minimum acreage of not less than five thousand acres in Federal ownership for purposes of this section and section 398 of this title shall have been acquired by the United States in specific areas containing such acquired lands to be designated by the Secretary; and
 
 (f) Notice of the establishment of the park as authorized and prescribed by this section and section 398 of this title shall be published in the Federal Register.
 

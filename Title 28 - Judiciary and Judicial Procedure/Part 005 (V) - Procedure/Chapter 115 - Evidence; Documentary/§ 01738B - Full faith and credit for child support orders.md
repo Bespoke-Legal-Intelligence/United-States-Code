@@ -120,11 +120,11 @@ Registration for Modification.—If there is no individual contestant or child r
 
 #### Amendments
 
-1997—Subsec. (f)(4). Pub. L. 105–33, §5554(1), substituted “a court having jurisdiction over the parties shall issue a child support order, which must be recognized.” for “a court may issue a child support order, which must be recognized.”
+<b>1997</b>—Subsec. (f)(4). Pub. L. 105–33, §5554(1), substituted “a court having jurisdiction over the parties shall issue a child support order, which must be recognized.” for “a court may issue a child support order, which must be recognized.”
 
 Subsec. (f)(5). Pub. L. 105–33, §5554(2), inserted “under subsection (d)” after “jurisdiction”.
 
-1996—Subsec. (a)(2). Pub. L. 104–193, §322(1), substituted “subsections (e), (f), and (i)” for “subsection (e)”.
+<b>1996</b>—Subsec. (a)(2). Pub. L. 104–193, §322(1), substituted “subsections (e), (f), and (i)” for “subsection (e)”.
 
 Subsec. (b). Pub. L. 104–193, §322(2), inserted par. defining “child's home State”.
 

@@ -112,7 +112,7 @@ All rights and remedies of the Corporation, including without limitation on the 
 
 (2) The Affordable Housing Advisory Council shall consist of 15 individuals, who shall include representatives of community-based and other nonprofit and for-profit organizations and State and local government agencies actively engaged in the promotion, development, or financing of housing for low- and moderate-income families.
 
-(Pub. L. 91–351, title III, §307, July 24, 1970, 84 Stat. 456; Pub. L. 101–73, title VII, §731(j)(1), Aug.9, 1989, 103 Stat. 435; Pub. L. 102–550, title XIII, §1382(<i>o</i>)–(t), Oct. 28, 1992, 106 Stat. 4005–4008.)
+(Pub. L. 91–351, title III, §307, July 24, 1970, 84 Stat. 456; Pub. L. 101–73, title VII, §731(j)(1), Aug. 9, 1989, 103 Stat. 435; Pub. L. 102–550, title XIII, §1382(<i>o</i>)–(t), Oct. 28, 1992, 106 Stat. 4005–4008.)
 
 #### References in Text
 
@@ -128,7 +128,7 @@ Subsecs. (c) to (g). Pub. L. 102–550, §1382(p)–(t), added subsecs. (c) to (
 
 #### Change of Name
 
-Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Effective Date of 1989 Amendment
 

@@ -14,7 +14,3 @@ Mandatory punishment provision was rephrased in the alternative.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000”.
 
-#### Cross References
-
-Destruction of property moving in commerce, see section 80501 of Title 49, Transportation.
-

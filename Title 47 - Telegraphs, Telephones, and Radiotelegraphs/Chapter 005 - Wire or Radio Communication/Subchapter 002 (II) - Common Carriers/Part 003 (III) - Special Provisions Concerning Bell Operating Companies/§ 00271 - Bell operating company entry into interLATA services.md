@@ -30,7 +30,7 @@ Neither a Bell operating company, nor any affiliate of a Bell operating company,
 
 #### (A) Presence of a facilities-based competitor
 
-&emsp;&emsp;A Bell operating company meets the requirements of this subparagraph if it has entered into one or more binding agreements that have been approved under section 252 of this title specifying the terms and conditions under which the Bell operating company is providing access and interconnection to its network facilities for the network facilities of one or more unaffiliated competing providers of telephone exchange service (as defined in section 153(47)(A) of this title, but excluding exchange access) to residential and business subscribers. For the purpose of this subparagraph, such telephone exchange service may be offered by such competing providers either exclusively over their own telephone exchange service facilities or predominantly over their own telephone exchange service facilities in combination with the resale of the telecommunications services of another carrier. For the purpose of this subparagraph, services provided pursuant to subpart K of part 22 of the Commission's regulations (47 C.F.R. 22.901 et seq.) shall not be considered to be telephone exchange services.
+&emsp;&emsp;A Bell operating company meets the requirements of this subparagraph if it has entered into one or more binding agreementsthat have been approved under section 252 of this title specifying the terms and conditions under which the Bell operating company is providing access and interconnection to its network facilities for the network facilities of one or more unaffiliated competing providers of telephone exchange service (as defined in section 153(47)(A) of this title, but excluding exchange access) to residential and business subscribers. For the purpose of this subparagraph, such telephone exchange service may be offered by such competing providers either exclusively over their own telephone exchange service facilities or predominantly over their own telephone exchange service facilities in combination with the resale of the telecommunications services of another carrier. For the purpose of this subparagraph, services provided pursuant to subpart K of part 22 of the Commission's regulations (47 C.F.R. 22.901 et seq.) shall not be considered to be telephone exchange services.
 
 #### (B) Failure to request access
 
@@ -156,7 +156,7 @@ Neither a Bell operating company, nor any affiliate of a Bell operating company,
 
 #### (B) Limitation
 
-&emsp;&emsp;Except for single-LATA States and States that have issued an order by December 19,1995, requiring a Bell operating company to implement intraLATA toll dialing parity, a State may not require a Bell operating company to implement intraLATA toll dialing parity in that State before a Bell operating company has been granted authority under this section to provide interLATA services originating in that State or before 3 years after February 8, 1996, whichever is earlier. Nothing in this subparagraph precludes a State from issuing an order requiring intraLATA toll dialing parity in that State prior to either such date so long as such order does not take effect until after the earlier of either such dates.
+&emsp;&emsp;Except for single-LATA States and States that have issued an order by December 19, 1995, requiring a Bell operating company to implement intraLATA toll dialing parity, a State may not require a Bell operating company to implement intraLATA toll dialing parity in that State before a Bell operating company has been granted authority under this section to provide interLATA servicesoriginating in that State or before 3 years after February 8, 1996, whichever is earlier. Nothing in this subparagraph precludes a State from issuing an order requiring intraLATA toll dialing parity in that State prior to either such date so long as such order does not take effect until after the earlier of either such dates.
 
 #### (f) Exception for previously authorized activities
 
@@ -174,7 +174,7 @@ For purposes of this section, the term “incidental interLATA services” means
 
 &emsp;(D) of alarm monitoring services;
 
-&emsp;(2) of two-way interactive video services or Internet services over dedicated facilities to or for elementary and secondary schools as defined in section 254(h)(5) of this title;
+&emsp;(2) of two-way interactive video services or Internet services over dedicated facilities to or for elementary and secondary schools as defined in section 254(h)(5) <sup>1</sup> of this title;
 
 &emsp;(3) of commercial mobile services in accordance with section 332(c) of this title and with the regulations prescribed by the Commission pursuant to paragraph (8) of such section;
 
@@ -216,7 +216,13 @@ For purposes of this section, a Bell operating company application to provide 80
 
 (June 19, 1934, ch. 652, title II, §271, as added Pub. L. 104–104, title I, §151(a), Feb. 8, 1996, 110 Stat. 86.)
 
+#### References in Text
+
+Section 254(h)(5) of this title, referred to in subsec. (g)(2), was redesignated section 254(h)(7) of this title by Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1721(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–343.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 160, 272, 273, 402 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

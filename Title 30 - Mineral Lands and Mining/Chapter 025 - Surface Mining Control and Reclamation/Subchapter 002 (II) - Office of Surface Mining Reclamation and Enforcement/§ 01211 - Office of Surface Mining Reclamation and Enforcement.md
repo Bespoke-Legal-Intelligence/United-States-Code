@@ -40,13 +40,13 @@ The Secretary, acting through the Office, shall—
 
 #### (d) Restriction on use of Federal coal mine health and safety inspectors
 
-The Director shall not use either permanently or temporarily any person charged with responsibility of inspecting coal mines under the Federal Coal Mine Health and Safety Act of 1969 \[30 U.S.C. 801 et seq.\], unless he finds and publishes such finding in the Federal Register, that such activities would not interfere with such inspections under the 1969 Act.
+The Director shall not use either permanently or temporarily any person charged with responsibility of inspecting coal mines under the Federal Coal Mine Health and Safety Act of 1969 \[30U.S.C. 801 et seq.\], unless he finds and publishes such finding in the Federal Register, that such activities would not interfere with such inspections under the 1969 Act.
 
 #### (e) Repealed. Pub. L. 96–511, §4(b), Dec. 11, 1980, 94 Stat. 2826
 
 #### (f) Conflict of interest; penalties; rules and regulations; report to Congress
 
-No employee of the Office or any other Federal employee performing any function or duty under this chapter shall have a direct or indirect financial interest in underground or surface coal mining operations. Whoever knowingly violates the provisions of the above sentence shall, upon conviction, be punished by a fine of not more than $2,500, or by imprisonment for not more than one year, or both. The Director shall (1) within sixty days after August 3, 1977, publish regulations, in accordance with section 553 oftitle 5, to establish the methods by which the provisions of this subsection will be monitored and enforced, including appropriate provisions for the filing by such employees and the review of statements and supplements thereto concerning their financial interests which may be affected by this subsection, and (2) report to the Congress as part of the annual report (section 1296 of this title) on the actions taken and not taken during the preceding calendar year under this subsection.
+No employee of the Office or any other Federal employee performing any function or duty under this chapter shall have a direct or indirect financial interest in underground or surface coal mining operations. Whoever knowingly violates the provisions of the above sentence shall, upon conviction, be punished by a fine of not more than $2,500, or by imprisonment for not more than one year, or both. The Director shall (1) within sixty days after August 3, 1977, publish regulations, in accordance with section 553 of title 5, to establish the methods by which the provisions of this subsection will be monitored and enforced, including appropriate provisions for the filing by such employees and the review of statements and supplements thereto concerning their financial interests which may be affected by this subsection, and (2) report to the Congress as part of the annual report (section 1296 of this title) on the actions taken and not taken during the preceding calendar year under this subsection.
 
 #### (g) Petition for issuance, amendment, or repeal of rule; filing; hearing or investigation; notice of denial
 
@@ -74,6 +74,10 @@ The Federal Coal Mine Health and Safety Act of 1969, referred to in subsecs. (b)
 
 Amendment by Pub. L. 96–511 effective Apr. 1, 1981, see section 5 of Pub. L. 96–511, set out as a note under section 2904 of Title 44, Public Printing and Documents.
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (f) of this section relating to requirement to report to Congress on actions taken and not taken under subsec. (f), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 109 of House Document No. 103–7.
+
 #### Transfer of Functions
 
 “The Director of the Office of Personnel Management” substituted for “a majority of members of the Civil Service Commission” in subsec. (b) pursuant to Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred all functions vested by statute in the United States Civil Service Commission to the Director of the Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
@@ -87,6 +91,8 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 Pub. L. 100–446, title I, Sept. 27, 1988, 102 Stat. 1793, provided: “That notwithstanding any other provisions of law, appropriations for the Office of Surface Mining Reclamation and Enforcement may, hereafter, provide for the travel and per diem expenses of State and tribal personnel attending OSMRE sponsored training”.
 
 Similar provisions were contained in the following appropriations acts:
+
+Pub. L. 106–291, title I, Oct. 11, 2000, 114 Stat. 933.
 
 Pub. L. 106–113, div. B, §1000(a)(3) \[title I\], Nov. 29, 1999, 113 Stat. 1535, 1501A–147.
 

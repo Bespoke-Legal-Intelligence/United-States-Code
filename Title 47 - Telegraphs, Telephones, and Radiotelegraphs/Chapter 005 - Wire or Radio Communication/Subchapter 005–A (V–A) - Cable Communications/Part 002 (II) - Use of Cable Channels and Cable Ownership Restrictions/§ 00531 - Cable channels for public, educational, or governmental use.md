@@ -26,7 +26,7 @@ Subject to section 544(d) of this title, a cable operator shall not exercise any
 
 #### (f) “Institutional network” defined
 
-For purposes of this section, the term “institutional network” means a communication network which is constructed or operated by the cable operator and which is generally availableonly to subscribers who are not residential subscribers.
+For purposes of this section, the term “institutional network” means a communication network which is constructed or operated by the cable operator and which is generally available only to subscribers who are not residential subscribers.
 
 (June 19, 1934, ch. 652, title VI, §611, as added Pub. L. 98–549, §2, Oct. 30, 1984, 98 Stat. 2782; Pub. L. 104–104, title V, §506(a), Feb. 8, 1996, 110 Stat. 136.)
 

@@ -14,7 +14,3 @@ Before the end of the 180-day period beginning on the date the first allocation 
 
 This Act, referred to in subsec. (a), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079, known as the Cranston-Gonzalez National Affordable Housing Act. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of this title and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 12834 of this title.
-

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-There is authorized to be appropriated $490,000,000 to carry out this part. The aggregateamount authorized in the preceding sentence shall be increased annually as provided in section 2296a of this title, based upon an inflation index to be determined by the Secretary.
+There is authorized to be appropriated $490,000,000 to carry out this part. The aggregate amount authorized in the preceding sentence shall be increased annually as provided in section 2296a of this title, based upon an inflation index to be determined by the Secretary.
 
 #### (b) Source
 

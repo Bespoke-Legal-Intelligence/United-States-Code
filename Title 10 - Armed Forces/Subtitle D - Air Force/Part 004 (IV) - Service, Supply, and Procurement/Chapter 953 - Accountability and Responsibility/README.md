@@ -24,18 +24,6 @@
 
 1962—Pub. L. 87–480, §1(5), June 8, 1962, 76 Stat. 94, struck out item 9833 “Accountability for public money; disbursing officers; agent officers”.
 
-#### Cross References
-
-Audit and settlement of accounts, see section 3521 et seq. of Title 31, Money and Finance.
-
-Federal records, maintenance of, see section 2101 et seq. of Title 44, Public Printing and Documents.
-
-General Accounting Office, see section 701 et seq. of Title 31, Money and Finance.
-
-General military law provisions, see sections 2771, 2773 of this title.
-
-Property records, see section 2721 of this title.
-
 
 ---
 

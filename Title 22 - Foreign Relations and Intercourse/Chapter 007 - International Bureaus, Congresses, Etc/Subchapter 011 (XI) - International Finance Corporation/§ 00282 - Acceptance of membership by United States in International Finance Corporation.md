@@ -8,7 +8,3 @@ The President is hereby authorized to accept membership for the United States in
 
 Section 1 of act Aug. 11, 1955, provided that: “This Act \[enacting this subchapter\] may be cited as the ‘International Finance Corporation Act’.”
 
-#### Cross References
-
-Advancement of human rights through United States assistance policies with international financial institutions, see section 262d of this title.
-

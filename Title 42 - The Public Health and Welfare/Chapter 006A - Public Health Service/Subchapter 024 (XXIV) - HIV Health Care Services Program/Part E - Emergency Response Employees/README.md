@@ -1,5 +1,9 @@
 Part E—Emergency Response Employees
 
+#### Part Referred to in Other Sections
+
+This part is referred to in section 300ff–12 of this title.
+
 
 ---
 

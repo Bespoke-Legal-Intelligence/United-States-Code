@@ -4,7 +4,7 @@
 
 (b) After the Judicial Conference has approved the time, place, participants, agenda, and other arrangements for such institutes and joint councils, the chief judge of each circuit is authorized to invite the attendance of district judges under conditions which he thinks proper and which will not unduly delay the work of the courts.
 
-(c) The Attorney General is authorized to select and direct the attendance at such institutes and meetings of United States attorneys and other officials of the Department of Justice and may invite the participation of other interested Federal officers. He may also invite specialists in sentencing methods, criminologists, psychiatrists, penologists, and others to participate in the proceedings.
+(c) The Attorney General is authorized to select and direct the attendance at such institutes and meetings of United States attorneys and other officials of the Department of Justice andmay invite the participation of other interested Federal officers. He may also invite specialists in sentencing methods, criminologists, psychiatrists, penologists, and others to participate in the proceedings.
 
 (d) The expenses of attendance of judges shall be paid from applicable appropriations for the judiciary of the United States. The expenses connected with the preparation of the plans and agenda for the conference and for the travel and other expenses incident to the attendance of officials and other participants invited by the Attorney General shall be paid from applicable appropriations of the Department of Justice.
 

@@ -6,7 +6,7 @@ The Secretary shall allocate assistance under this part to metropolitan cities, 
 
 #### (b) Minimum allocation requirement
 
-If, under the allocation provisions applicable under this part, any metropolitan city or urbancounty would receive a grant of less than 0.05 percent of the amounts appropriated to carry out this part for any fiscal year, such amount shall instead be reallocated to the State, except that any city that is located in a State that does not have counties as local governments, that has a population greater than 40,000 but less than 50,000 as used in determining the fiscal year 1987 community development block grant program allocation, and that was allocated in excess of $1,000,000 in community development block grant funds in fiscal year 1987, shall receive directly the amount allocated to such city under subsection (a) of this section.
+If, under the allocation provisions applicable under this part, any metropolitan city or urban county would receive a grant of less than 0.05 percent of the amounts appropriated to carry out this part for any fiscal year, such amount shall instead be reallocated to the State, except that any city that is located in a State that does not have counties as local governments, that has a population greater than 40,000 but less than 50,000 as used in determining the fiscal year 1987 community development block grant program allocation, and that was allocated in excess of $1,000,000 in community development block grant funds in fiscal year 1987, shall receive directly the amount allocated to such city under subsection (a) of this section.
 
 #### (c) Distributions to nonprofit organizations
 
@@ -22,7 +22,7 @@ Any local government receiving assistance under this part may distribute all or 
 
 #### (e) Allocations to territories
 
-In addition to the other allocations required in this section, the Secretary shall (for amounts appropriated after July 22, 1987) allocate assistance under this part to the Virgin Islands, Guam, American Samoa, the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and any other territory or possession of the United States, in accordance with an allocation formula established by the Secretary.
+In addition to the other allocations required in this section, the Secretary shall (for amounts appropriated after July 22, 1987) allocate assistance under this part to the Virgin Islands, Guam, American Samoa, the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and any other territory or possession ofthe United States, in accordance with an allocation formula established by the Secretary.
 
 (Pub. L. 100–77, title IV, §413, July 22, 1987, 101 Stat. 496; Pub. L. 100–628, title IV, §421, Nov. 7, 1988, 102 Stat. 3231; Pub. L. 101–625, title VIII, §832(f)(3)–(5), Nov. 28, 1990, 104 Stat. 4361; Pub. L. 104–330, title V, §506(a)(3), Oct. 26, 1996, 110 Stat. 4044.)
 

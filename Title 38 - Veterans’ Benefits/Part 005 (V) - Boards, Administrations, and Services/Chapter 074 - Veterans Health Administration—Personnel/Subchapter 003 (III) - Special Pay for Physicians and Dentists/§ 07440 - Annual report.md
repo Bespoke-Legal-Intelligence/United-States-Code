@@ -1,6 +1,6 @@
 ### §7440. Annual report
 
-The Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives an annual report on the use of the authorities provided in this subchapter. The report shall be submitted each year as part of the budget justification documents submitted by the Secretary in support of the budget of the President submitted pursuant to section 1105 oftitle 31 that year. Each such report shall include the following:
+The Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives an annual report on the use of the authorities provided in this subchapter. The report shall be submitted each year as part of the budget justification documents submitted by the Secretary in support of the budget of the President submitted pursuant to section 1105 of title 31 that year. Each such report shall include the following:
 
 &emsp;(1) A review of the use of the authorities provided in this subchapter (including the Secretary's and Under Secretary for Health's actions, findings, recommendations, and other activities under this subchapter) during the preceding fiscal year and the fiscal year during which the report is submitted.
 

@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in section 103 of this title.
+This subchapter is referred to in sections 103, 783 of this title.
 
 
 ---

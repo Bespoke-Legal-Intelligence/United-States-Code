@@ -32,54 +32,6 @@
 
 1958—Pub. L. 85–861, §2(4), Sept. 2, 1958, 72 Stat. 1543, added item 111.
 
-#### Cross References
-
-Army National Guard of United States and Air National Guard of United States—
-
-&emsp;&emsp;Active Federal service, see section 12401 of Title 10, Armed Forces.
-
-&emsp;&emsp;Component of Army and Air Force, see sections 10106 and 10112 of Title 10.
-
-&emsp;&emsp;Composition, see sections 10105 and 10111 of Title 10.
-
-&emsp;&emsp;Enlistment, see sections 12102 and 12107 of Title 10.
-
-&emsp;&emsp;Inactive status of reserves assigned to inactive Army National Guard or inactive Air National Guard, see section 10141 of Title 10.
-
-&emsp;&emsp;Officers, discharge, see section 14907 of Title 10.
-
-&emsp;&emsp;Ready Reserve as including units and members of, see section 10145 of Title 10.
-
-&emsp;&emsp;Reserve components, see section 10101 et seq. of Title 10.
-
-&emsp;&emsp;Reserve Forces Policy Board membership to include two members each from, see section 10301 of Title 10.
-
-&emsp;&emsp;Status when not in Federal service, see sections 10107 and 10113 of Title 10.
-
-&emsp;&emsp;Strength, see section 12001 of Title 10.
-
-&emsp;&emsp;Transfer of members from Ready Reserve to Standby Reserve, see section 10146 of Title 10.
-
-&emsp;&emsp;Transfer of members to Army Reserve or Air Force Reserve, see sections 12105, 12213, and 12214 of Title 10.
-
-Insurrection, see section 331 et seq. of Title 10.
-
-Militia of District of Columbia, see D.C. Code, §39–101 et seq.
-
-National Guard Bureau—
-
-&emsp;&emsp;Assignment of regular or reserve officers of Army or Air Force, see section 10507 of Title 10, Armed Forces.
-
-&emsp;&emsp;Chief, appointment, see section 10502 of Title 10.
-
-&emsp;&emsp;Commissioned officers of Army National Guard of United States and Air National Guard of United States, duty in Bureau, see section 12402 of Title 10.
-
-Organized militia as including the National Guard, see section 311 of Title 10.
-
-Policies and regulations for government of Army National Guard of United States and Army Reserve, Air National Guard of United States and Air Force Reserve, see sections 10302 and 10305 of Title 10.
-
-Reserve components, standards and procedures for retention and promotion, see section 12641 et seq. of Title 10.
-
 
 ---
 

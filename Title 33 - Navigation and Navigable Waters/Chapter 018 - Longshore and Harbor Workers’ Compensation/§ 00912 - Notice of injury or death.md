@@ -10,7 +10,7 @@ Such notice shall be in writing, shall contain the name and address of the emplo
 
 #### (c) Delivery requirements
 
-Notice shall be given to the deputy commissioner by delivering it to him or sending it by mail addressed to his office, and to the employer by delivering it to him or by sending it by mail addressed to him at his last known place of business. If the employer is a partnership, such notice may be given to any partner, or if a corporation, such notice may be given to any agent or officer thereof upon whom legal process may be served or who is in charge of the business in the place where the injury occurred. Each employer shall designate those agents or other responsible officials to receive such notice, except that the employer shall designate as its representatives individuals among first line supervisors, local plant management, and personnel office officials. Such designations shall be made in accordance with regulations prescribed by the Secretary and the employer shall notify his employees and the Secretary of such designation in a manner prescribed by the Secretary in regulations.
+Notice shall be given to the deputy commissioner by delivering it to him or sending it by mail addressed to his office, and to the employerby delivering it to him or by sending it by mail addressed to him at his last known place of business. If the employer is a partnership, such notice may be given to any partner, or if a corporation, such notice may be given to any agent or officer thereof upon whom legal process may be served or who is in charge of the business in the place where the injury occurred. Each employer shall designate those agents or other responsible officials to receive such notice, except that the employer shall designate as its representatives individuals among first line supervisors, local plant management, and personnel office officials. Such designations shall be made in accordance with regulations prescribed by the Secretary and the employer shall notify his employees and the Secretary of such designation in a manner prescribed by the Secretary in regulations.
 
 #### (d) Failure to give notice
 
@@ -26,7 +26,7 @@ Subsec. (c). Pub. L. 98–426, §11(b), inserted at end “Each employer shall d
 
 Subsec. (d)(1). Pub. L. 98–426, §11(c), substituted “(or his agent or agents or other responsible official or officials designated by the employer pursuant to subsection (c) of this section)” for “(or his agent in charge of the business in the place where the injury occurred)”, substituted “injury or death, (2)” for “injury or death and”, and substituted “or (3)” for “or (2)”.
 
-Pub. L. 98–426, §11(c)(4), inserted “(i) notice, while not given to a responsible official designated by the employer pursuant to subsection (c) of this section, wasgiven to an official of the employer or the employer's insurance carrier, and that the employer or carrier was not prejudiced due to the failure to provide notice to a responsible official designated by the employer pursuant to subsection (c) of this title, or (ii)”.
+Pub. L. 98–426, §11(c)(4), inserted “(i) notice, while not given to a responsible official designated by the employer pursuant to subsection (c) of this section, was given to an official of the employer or the employer's insurance carrier, and that the employer or carrier was not prejudiced due to the failure to provide notice to a responsible official designated by the employer pursuant to subsection (c) of this title, or (ii)”.
 
 1972—Subsec. (a). Pub. L. 92–576 provided for notice of an injury or death within thirty days after the employee or beneficiary is aware or in the exercise of reasonable diligence should have been aware of a relationship between the injury or death and the employment.
 
@@ -37,12 +37,6 @@ Amendment by section 11(a) of Pub. L. 98–426 effective Sept. 28, 1984, and app
 #### Effective Date of 1972 Amendment
 
 Amendment by Pub. L. 92–576 effective 30 days after Oct. 27, 1972, see section 22 of Pub. L. 92–576, set out as a note under section 902 of this title.
-
-#### Cross References
-
-Cancellation of contract or policy of insurance, notice in accordance with subsec. (c), see section 936 of this title.
-
-Report of injury or death to Secretary, see section 930 of this title.
 
 #### Section Referred to in Other Sections
 

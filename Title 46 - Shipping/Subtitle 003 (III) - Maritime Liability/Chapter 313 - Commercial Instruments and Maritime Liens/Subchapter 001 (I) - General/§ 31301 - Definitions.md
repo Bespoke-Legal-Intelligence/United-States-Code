@@ -48,7 +48,7 @@ In this chapter—
 
 &emsp;&emsp;(A) means a mortgage that is a preferred mortgage under section 31322 of this title; and
 
-&emsp;&emsp;(B) also means in sections 31325 and 31326 of this title, a mortgage, hypothecation, orsimilar charge that is established as a security on a foreign vessel if the mortgage, hypothecation, or similar charge was executed under the laws of the foreign country under whose laws the ownership of the vessel is documented and has been registered under those laws in a public register at the port of registry of the vessel or at a central office.
+&emsp;&emsp;(B) also means in sections 31325 and 31326 of this title, a mortgage, hypothecation, or similar charge that is established as a security on a foreign vessel if the mortgage, hypothecation, or similar charge was executed under the laws of the foreign country under whose laws the ownership of the vessel is documented and has been registered under those laws in a public register at the port of registry of the vessel or at a central office.
 
 (Pub. L. 100–710, title I, §102(c), Nov. 23, 1988, 102 Stat. 4739.)
 

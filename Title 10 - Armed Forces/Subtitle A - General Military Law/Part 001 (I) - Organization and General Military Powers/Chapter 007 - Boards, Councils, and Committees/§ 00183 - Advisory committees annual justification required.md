@@ -4,7 +4,7 @@
 
 Annual Report.—The Secretary of Defense shall include in the annual report of the Secretary under section 113(c) of this title a report on advisory committees of the Department of Defense. In each such report, the Secretary shall—
 
-&emsp;(1) identify each advisory committee that the Secretary proposes to support, or that theSecretary is required by law or direction from the President to support, during the next fiscal year; and
+&emsp;(1) identify each advisory committee that the Secretary proposes to support, or that the Secretary is required by law or direction from the President to support, during the next fiscal year; and
 
 &emsp;(2) for each committee identified under paragraph (1), set forth—
 

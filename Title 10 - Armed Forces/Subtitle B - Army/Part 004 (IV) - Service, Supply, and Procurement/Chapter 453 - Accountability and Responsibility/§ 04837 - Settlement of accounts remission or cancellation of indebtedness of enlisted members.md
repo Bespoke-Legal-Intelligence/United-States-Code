@@ -2,7 +2,7 @@
 
 If he considers it in the best interest of the United States, the Secretary may have remitted or cancelled any part of an enlisted member's indebtedness to the United States or any of its instrumentalities remaining unpaid before, or at the time of, that member's honorable discharge.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 273; Pub. L. 85–861, §33(a)(27), Sept. 2, 1958, 72 Stat. 1566; Pub. L. 87–649, §14c(10), Sept. 7, 1962, 76 Stat. 501; Pub. L. 96–513, title V, §512(24)(A), (B), Dec. 12, 1980, 94 Stat. 2930.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 273; Pub. L. 85–861, §33(a)(27), Sept. 2, 1958, 72 Stat. 1566; Pub.L. 87–649, §14c(10), Sept. 7, 1962, 76 Stat. 501; Pub. L. 96–513, title V, §512(24)(A), (B), Dec. 12, 1980, 94 Stat. 2930.)
 
 Historical and Revision Notes<br>1956
 
@@ -70,7 +70,7 @@ In subsection (d), the words “If he considers it in the best interest of the U
 
 In subsection (e), the words “member” and “his” are substituted for the words “officer or soldier”. The words “or implement” are omitted as surplusage.
 
-In subsection (f), the words “or if an article of military supply with whose issue a commissioned officer ischarged is damaged” are substituted for 10:872 (last sentence). The words “that he was not at fault” are substituted for the words “that said deficiency \[such damage\] was not occasioned by any fault on his part”.
+In subsection (f), the words “or if an article of military supply with whose issue a commissioned officer is charged is damaged” are substituted for 10:872 (last sentence). The words “that he was not at fault” are substituted for the words “that said deficiency \[such damage\] was not occasioned by any fault on his part”.
 
 In subsection (g), the words “bought on credit under section 4621(a)(1) of this title” are substituted for the words “designated by the officers of the Inspector-General's Department of the Army and purchased on credit from commissaries of subsistence”.
 
@@ -101,14 +101,6 @@ Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 
 #### Effective Date of 1958 Amendment
 
 Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub. L. 85–861, set out as a note under section 101 of this title.
-
-#### Cross References
-
-Military property of United States—loss, damage, destruction or wrongful disposition; punishment, see section 908 of this title.
-
-Property returns by officers, see section 3531 of Title 31, Money and Finance.
-
-Public accounts to be submitted to Comptroller General; rendition of current accounts, see section 3522 of Title 31.
 
 #### Section Referred to in Other Sections
 

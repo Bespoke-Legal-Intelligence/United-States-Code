@@ -62,3 +62,7 @@ The Social Security Act, referred to in subsec. (b), is act Aug. 14, 1935, ch. 5
 
 December 6, 1999, referred to in subsec. (b)(2)(A), was in the original “the date of the enactment of this title”, which was translated as meaning the date of enactment of Pub. L. 106–129, which amended this subchapter generally, to reflect the probable intent of Congress.
 
+#### Change of Name
+
+Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+

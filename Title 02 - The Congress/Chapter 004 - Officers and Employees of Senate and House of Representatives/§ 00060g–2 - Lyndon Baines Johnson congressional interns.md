@@ -40,5 +40,5 @@ Committee on House Oversight of House of Representatives changed to Committee on
 
 #### Effective Date
 
-Section 3 of House Resolution No. 420, Ninety-third Congress, as enacted into permanent law by Pub. L. 93–245, provided that: “The provisions of this resolution \[enacting this section and repealing House Resolution No. 416, Eighty-ninth Congress, formerly classified to this section\] shall become effective on January 1, 1974.”
+Section 3 of House Resolution No. 420, Ninety-third Congress, as enacted into permanent law by Pub. L.93–245, provided that: “The provisions of this resolution \[enacting this section and repealing House Resolution No. 416, Eighty-ninth Congress, formerly classified to this section\] shall become effective on January 1, 1974.”
 

@@ -12,9 +12,3 @@ R.S. §5190 derived from act June 3, 1864, ch. 106, §8, 13 Stat. 101, which was
 
 1927—Act Feb. 25, 1927, among other changes, inserted “and in the branch or branches, if any, established or maintained by it in accordance with the provisions of section 36 of this title”.
 
-#### Cross References
-
-Change of location of business, see section 30 of this title.
-
-Place of business, specification in organization certificate, see section 22 of this title.
-

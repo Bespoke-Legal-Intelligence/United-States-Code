@@ -18,7 +18,7 @@
 
 #### Effective Date of 1989 Amendment
 
-Section 10401(b) of Pub. L. 101–239 provided that: “The amendments made by subsection (a) \[amending this section and sections 627 and 674 of this title\] shall take effect on October 1, 1989.”
+Section 10401(b) of Pub. L. 101–239 provided that: “The amendments made by subsection (a) \[amending thissection and sections 627 and 674 of this title\] shall take effect on October 1, 1989.”
 
 #### Effective Date of 1984 Amendment
 

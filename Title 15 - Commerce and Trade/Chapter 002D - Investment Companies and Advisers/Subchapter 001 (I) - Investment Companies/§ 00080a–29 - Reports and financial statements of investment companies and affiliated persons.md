@@ -88,7 +88,7 @@ The Securities Exchange Act of 1934, referred to in subsec. (i)(1), is act June 
 
 Subsec. (e). Pub. L. 105–353, §301(c)(5)(B), substituted “semiannually” for “semi-annually” in introductory provisions.
 
-Subsecs. (g) to (j). Pub. L. 105–353, §301(c)(5)(C), redesignated subsecs. (g) and (h), relating to disclosure tochurch plan participants and notice to Commission, respectively, as (i) and (j), respectively.
+Subsecs. (g) to (j). Pub. L. 105–353, §301(c)(5)(C), redesignated subsecs. (g) and (h), relating to disclosure to church plan participants and notice to Commission, respectively, as (i) and (j), respectively.
 
 1996—Subsec. (b)(1). Pub. L. 104–290, §206(1), added par. (1) and struck out former par. (1) which read as follows: “such information and documents (other than financial statements) as the Commission may require, on a semi-annual or quarterly basis, to keep reasonably current the information and documents contained in the registration statement of such company filed under this subchapter; and”.
 
@@ -107,16 +107,6 @@ Pub. L. 104–290, §206(2), redesignated subsec. (f), relating to duties and li
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
-#### Cross References
-
-Authority of commission as to reports, etc., to be filed or accounting policies, see section 80a–2 of this title.
-
-Notice of opportunity to file or correct report after failure to file or defective filing, see section 80a–8 of this title.
-
-Preservation of accounts and records for financial statements, see section 80a–30 of this title.
-
-Reports by registered investment company in lieu of registration statement, see section 80a–24 of this title.
 
 #### Section Referred to in Other Sections
 

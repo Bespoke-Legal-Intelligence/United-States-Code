@@ -30,7 +30,7 @@ Section 285, formerly section 284, of Pub. L. 93–618, title II, Jan. 3, 1975, 
 
 #### Part Referred to in Other Sections
 
-This part is referred to in sections 1339, 2252, 2253, 2318, 2391, 2396, 2397 of this title; title 20 section 9271; title 29 sections 1605, 1661, 1732, 2822, 2841.
+This part is referred to in sections 1339, 2252, 2253, 2318, 2391, 2396, 2397 of this title; title 20 section 9271; title 29 sections 2822, 2841.
 
 
 ---

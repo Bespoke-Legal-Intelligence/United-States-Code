@@ -10,7 +10,7 @@ The Congress consents to the acceptance by employees of the Institute of fellows
 
 #### (c) Prohibition on use of appropriations inapplicable
 
-Provisions of law prohibiting the use of any part of any appropriation for the payment of compensation to any employee or officer of the Government of the United States who is not a citizen of the United States shall not apply to the payment of compensation to scientific or engineering personnel of the Institute.
+Provisions of law prohibiting the use of any part of any appropriation for the payment ofcompensation to any employee or officer of the Government of the United States who is not a citizen of the United States shall not apply to the payment of compensation to scientific or engineering personnel of the Institute.
 
 #### (d) Recruitment and employment of resident aliens
 
@@ -26,7 +26,7 @@ The provisions of title 5 governing employment in the competitive service, refer
 
 #### Prior Provisions
 
-A prior section 278g, act Mar. 3, 1901, ch. 872, §17, as added Mar. 1, 1968, Pub. L. 90–259, title I, §102, 82 Stat. 35, related to grants to States, local governments, other non-Federal public agencies, and non-profit institutions, reimbursement of Federal agencies, delegationof powers, advance of public moneys, cooperation of Federal agencies, and issuance of rules and regulations, prior to repeal by Pub. L. 93–498, §18, Oct. 29, 1974, 88 Stat. 1545.
+A prior section 278g, act Mar. 3, 1901, ch. 872, §17, as added Mar. 1, 1968, Pub. L. 90–259, title I, §102, 82 Stat. 35, related to grants to States, local governments, other non-Federal public agencies, and non-profit institutions, reimbursement of Federal agencies, delegation of powers, advance of public moneys, cooperation of Federal agencies, and issuance of rules and regulations, prior to repeal by Pub. L. 93–498, §18, Oct. 29, 1974, 88 Stat. 1545.
 
 #### Amendments
 

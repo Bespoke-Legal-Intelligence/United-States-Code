@@ -16,10 +16,6 @@
 
 1980—Pub. L. 96–513, title V, §514(20)(C), Dec. 12, 1980, 94 Stat. 2936, substituted “Soldiers’ and Airmen's Home” for “Soldiers’ Home” in item 9713.
 
-#### Cross References
-
-General military law provisions respecting death benefits, see section 1475 et seq. of this title.
-
 
 ---
 

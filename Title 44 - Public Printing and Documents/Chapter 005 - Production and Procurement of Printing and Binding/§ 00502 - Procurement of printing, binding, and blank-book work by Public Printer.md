@@ -26,7 +26,7 @@ Enforcement.—Any person who, for the purpose of securing a contract under subs
 
 “(d)
 
-Department of Defense Goals.—For the purpose of determining whether the Department of Defense has attained the goals set forth in section 2323 of title 10, United States Code, the Secretary of Defense may count any procurements by the Public Printer in the program established under subsection (a).
+Department of Defense Goals.—For the purpose of determining whether the Department of Defense has attained the goals set forth in section 2323 of title10, United States Code, the Secretary of Defense may count any procurements by the Public Printer in the program established under subsection (a).
 
 “(e)
 

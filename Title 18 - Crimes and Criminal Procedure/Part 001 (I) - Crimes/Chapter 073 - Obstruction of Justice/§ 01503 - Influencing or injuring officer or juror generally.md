@@ -1,6 +1,6 @@
 ### §1503. Influencing or injuring officer or juror generally
 
-(a) Whoever corruptly, or by threats or force, or by any threatening letter or communication, endeavors to influence, intimidate, or impede any grand or petit juror, or officer in or of any court of the United States, or officer who may be serving at any examination or other proceeding before any United States magistrate judge or other committing magistrate, in the discharge of his duty, or injures any such grand or petit juror in his person or property on account of any verdict or indictment assented to by him, or on account of his being or having been such juror, or injures any such officer, magistrate judge, or other committing magistrate in his person or property on account of the performance of his official duties, or corruptly or by threats or force, or by any threatening letter or communication, influences, obstructs, or impedes, or endeavors to influence, obstruct, or impede, the due administration of justice, shall be punished as provided in subsection (b). If the offense under this section occurs in connection with a trial of a criminal case, and the act in violation of this section involves the threat of physical force or physical force, the maximum term of imprisonment which may be imposed for the offense shall be the higher of that otherwise provided by law or the maximum term that could have been imposed for any offense charged in such case.
+(a) Whoever corruptly, or by threats or force, or by any threatening letter or communication, endeavors to influence, intimidate, or impede any grand or petit juror, or officer in or of any court of the United States, or officer who may be serving at any examination or other proceeding before any United States magistrate judge or other committing magistrate, in the discharge of his duty, or injures any such grand or petit juror in his person or property on accountof any verdict or indictment assented to by him, or on account of his being or having been such juror, or injures any such officer, magistrate judge, or other committing magistrate in his person or property on account of the performance of his official duties, or corruptly or by threats or force, or by any threatening letter or communication, influences, obstructs, or impedes, or endeavors to influence, obstruct, or impede, the due administration of justice, shall be punished as provided in subsection (b). If the offense under this section occurs in connection with a trial of a criminal case, and the act in violation of this section involves the threat of physical force or physical force, the maximum term of imprisonment which may be imposed for the offense shall be the higher of that otherwise provided by law or the maximum term that could have been imposed for any offense charged in such case.
 
 (b) The punishment for an offense under this section is—
 
@@ -35,14 +35,6 @@ Pub. L. 97–291, §4(c)(2), (3), substituted in text “grand” for “witness
 #### Effective Date of 1982 Amendment
 
 Amendment by Pub. L. 97–291 effective Oct. 12, 1982, see section 9(a) of Pub. L. 97–291, set out as an Effective Date note under section 1512 of this title.
-
-#### Cross References
-
-Bribery of officers, jurors, or witnesses, see section 201 et seq. of this title.
-
-Influencing juror or witness as criminal contempt, see section 401 of this title.
-
-Wire or oral communications, authorization for interception, to provide evidence of offenses under this section, see section 2516 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -14,10 +14,6 @@ The unexpended balances of appropriations authorized by section 1912(d) <sup>1<
 
 (Pub. L. 93–618, title II, §256, Jan. 3, 1975, 88 Stat. 2032; Pub. L. 97–35, title XXV, §2524, Aug. 13, 1981, 95 Stat. 892; Pub. L. 99–272, title XIII, §13008(b), Apr. 7, 1986, 100 Stat. 305; Pub. L. 100–418, title I, §1426(b)(2), Aug. 23, 1988, 102 Stat. 1251; Pub. L. 103–66, title XIII, §13803(a)(2), Aug. 10, 1993, 107 Stat. 668; Pub. L. 105–277, div. J, title I, §1012(c), Oct. 21, 1998, 112 Stat. 2681–901; Pub. L. 106–113, div. B, §1000(a)(5) \[title VII, §702(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–319.)
 
-#### Termination of Section
-
-<i>For termination of section by section 285 of Pub. L. 93–618, see Termination Date note set out preceding section 2271 of this title.</i>
-
 #### References in Text
 
 The Small Business Act, referred to in subsec. (a), is Pub. L. 85–536, July 18, 1958, 72 Stat. 384, as amended,which is classified generally to chapter 14A (§631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
@@ -51,6 +47,10 @@ Parts 2 and 3 of this subchapter applicable as if the amendment of this section 
 #### Effective Date of 1981 Amendment
 
 Amendment by Pub. L. 97–35 effective Aug. 13, 1981, except as otherwise provided with respect to applications for adjustment assistance, see section 2529 of Pub. L. 97–35, set out as a note under section 2343 of this title.
+
+#### Termination Date
+
+No technical assistance to be provided under this part after Sept. 30, 2001, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

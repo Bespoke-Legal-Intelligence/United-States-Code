@@ -8,7 +8,7 @@
 
 (b) Notwithstanding the provisions of this chapter or any other law, no fee shall be charged or collected for an application for declaration of intention or a certificate of naturalization in lieu of a declaration or a certificate alleged to have been lost, mutilated, or destroyed, submitted by a person who was a member of the military or naval forces of the United States at any time after April 20, 1898, and before July 5, 1902; or at any time after April 5, 1917, and before November 12, 1918; or who served on the Mexican border as a member of the Regular Army or National Guard between June 1916 and April 1917; or who has served or hereafter serves in the military, air, or naval forces of the United States after September 16, 1940, and who was not at any time during such period or thereafter separated from such forces under other than honorable conditions, who was not a conscientious objector who performed no military duty whatever or refused to wear the uniform, or who was not at any time during such period or thereafter discharged from such military, air, or naval forces on account of alienage.
 
-(c) All fees collected by the Attorney General shall be deposited by the Attorney General in the Treasury of the United States except that all such fees collected or paid over on or after October 1, 1988, shall be deposited in the Immigration Examinations Fee Account established under section 1356(m) of this title: <i>Provided, however</i>, That all fees received by the Attorney General from applicants residing in the Virgin Islands of the United States, and in Guam, under this subchapter, shall be paid over to the treasury of the Virgin Islands and to the treasury of Guam, respectively.
+(c) All fees collected by the Attorney General shall be deposited by the Attorney General in the Treasury of the United States except that all such fees collected or paid over on or after October 1, 1988, shall be deposited in the Immigration Examinations Fee Account established under section 1356(m) of this title: <i>Provided, however</i>, That all fees received by the Attorney General from applicants residing in the Virgin Islands of the United States, and in Guam, underthis subchapter, shall be paid over to the treasury of the Virgin Islands and to the treasury of Guam, respectively.
 
 (d) During the time when the United States is at war the Attorney General may not charge or collect a naturalization fee from an alien in the military, air, or naval service of the United States for filing an application for naturalization or issuing a certificate of naturalization upon admission to citizenship.
 
@@ -73,22 +73,4 @@ Amendment by Pub. L. 97–116 applicable to fiscal years beginning on or after O
 #### Admission of Alaska as State
 
 Effectiveness of amendment of this section by Pub. L. 85–508 was dependent on admission of Alaska into the Union under section 8(b) of Pub. L. 85–508. Admission was accomplished Jan. 3, 1959 on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508. See notes preceding former section 21 of Title 48, Territories and Insular Possessions.
-
-#### Cross References
-
-Audit of vouchers and accounts of the courts and their clerical and administrative personnel by Director of Administrative Office of the United States Courts, see section 604 of Title 28, Judiciary and Judicial Procedure.
-
-Clerk of each district court to pay into the Treasury all fees, costs and other moneys collected by him except certain naturalization fees, see section 751 of Title 28.
-
-Definition of the term—
-
-&emsp;&emsp;Alien, see section 1101(a)(3) of this title.
-
-&emsp;&emsp;Attorney General, see section 1101(a)(5) of this title.
-
-&emsp;&emsp;Naturalization, see section 1101(a)(23) of this title.
-
-&emsp;&emsp;Service, see section 1101(a)(34) of this title.
-
-&emsp;&emsp;United States, see section 1101(a)(38) of this title.
 

@@ -46,9 +46,33 @@ Considerations and Classification of Regulations and Standards.—When prescribi
 
 (e)
 
+Bilateral Exchanges of Safety Oversight Responsibilities.—
+
+&emsp;(1)
+
+In general.—Notwithstanding the provisions of this chapter, the Administrator, pursuant to Article 83 bis of the Convention on International Civil Aviation and by a bilateral agreement with the aeronautical authorities of another country, may exchange with that country all or part of their respective functions and duties with respect to registered aircraft under the following articles of the Convention: Article 12 (Rules of the Air); Article 31 (Certificates of Airworthiness); or Article 32a (Licenses of Personnel).
+
+&emsp;(2)
+
+Relinquishment and acceptance of responsibility.—The Administrator relinquishes responsibility with respect to the functions and duties transferred by the Administrator as specified in the bilateral agreement, under the Articles listed in paragraph (1) for United States-registered aircraft described in paragraph (4)(A) transferred abroad and accepts responsibility with respect to the functions and duties under those Articles for aircraft registered abroad and described in paragraph (4)(B) that are transferred to the United States.
+
+&emsp;(3)
+
+Conditions.—The Administrator may predicate, in the agreement, the transfer of functions and duties under this subsection on any conditions the Administrator deems necessary and prudent, except that the Administrator may not transfer responsibilities for United States registered aircraft described in paragraph (4)(A) to a country that the Administrator determines is not in compliance with its obligations under international law for the safety oversight of civil aviation.
+
+&emsp;(4)
+
+Registered aircraft defined.—In this subsection, the term “registered aircraft” means—
+
+&emsp;&emsp;(A) aircraft registered in the United States and operated pursuant to an agreement for the lease, charter, or interchange of the aircraft or any similar arrangement by an operator that has its principal place of business or, if it has no such place of business, its permanent residence in another country; and
+
+&emsp;&emsp;(B) aircraft registered in a foreign country and operated under an agreement for the lease, charter, or interchange of the aircraft or any similar arrangement by an operator that has its principal place of business or, if it has no such place of business, its permanent residence in the United States.
+
+(f)
+
 Exemptions.—The Administrator may grant an exemption from a requirement of a regulation prescribed under subsection (a) or (b) of this section or any of sections 44702–44716 of this title if the Administrator finds the exemption is in the public interest.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1185; Pub. L. 103–429, §6(55), Oct. 31, 1994, 108 Stat. 4385.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1185; Pub. L. 103–429, §6(55), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 106–181, title VII, §714, Apr. 5, 2000, 114 Stat. 161.)
 
 Historical and Revision Notes
 
@@ -132,11 +156,95 @@ This amends 49:44701(d) and (e) to correct erroneous cross-references.
 
 #### Amendments
 
+2000—Subsecs. (e), (f). Pub. L. 106–181 added subsec. (e) and redesignated former subsec. (e) as (f).
+
 1994—Subsecs. (d), (e). Pub. L. 103–429 substituted “any of sections 44702–44716” for “section 44702–44716”.
+
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
 
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under section 321 of this title.
+
+#### Air Transportation Oversight System
+
+Pub. L. 106–181, title V, §513, Apr. 5, 2000, 114 Stat. 144, provided that:
+
+“(a)
+
+Report.—Not later than August 1, 2000, the Administrator \[of the Federal Aviation Administration\] shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the progress of the Federal Aviation Administration in implementing the air transportation oversight system, including in detail the training of inspectors under the system, the number of inspectors using the system, air carriers subject to the system, and the budget for the system.
+
+“(b)
+
+Required Contents.—At a minimum, the report shall indicate—
+
+&emsp;“(1) any funding or staffing constraints that would adversely impact the Administration's ability to continue to develop and implement the air transportation oversight system;
+
+&emsp;“(2) progress in integrating the aviation safety data derived from such system's inspections with existing aviation data of the Administration in the safety performance analysis system of the Administration; and
+
+&emsp;“(3) the Administration's efforts in collaboration with the aviation industry to develop and validate safety performance measures and appropriate risk weightings for such system.
+
+“(c)
+
+Update.—Not later than August 1, 2002, the Administrator shall update the report submitted under this section and transmit the updated report to the committees referred to in subsection (a).”
+
+#### Regulation of Alaska Guide Pilots
+
+Pub. L. 106–181, title VII, §732, Apr. 5, 2000, 114 Stat. 168, provided that:
+
+“(a)
+
+In General.—Beginning on the date of the enactment of this Act \[Apr. 5, 2000\], flight operations conducted by Alaska guide pilots shall be regulated under the general operating and flight rules contained in part 91 of title 14, Code of Federal Regulations.
+
+“(b)
+
+Rulemaking Proceeding.—
+
+&emsp;“(1)
+
+In general.—The Administrator \[of the Federal Aviation Administration\] shall conduct a rulemaking proceeding and issue a final rule to modify the general operating and flight rules referred to in subsection (a) by establishing special rules applicableto the flight operations conducted by Alaska guide pilots.
+
+&emsp;“(2)
+
+Contents of rules.—A final rule issued by the Administrator under paragraph (1) shall require Alaska guide pilots—
+
+&emsp;&emsp;“(A) to operate aircraft inspected no less often than after 125 hours of flight time;
+
+&emsp;&emsp;“(B) to participate in an annual flight review, as described in section 61.56 of title 14, Code of Federal Regulations;
+
+&emsp;&emsp;“(C) to have at least 500 hours of flight time as a pilot;
+
+&emsp;&emsp;“(D) to have a commercial rating, as described in subpart F of part 61 of such title;
+
+&emsp;&emsp;“(E) to hold at least a second-class medical certificate, as described in subpart C of part 67 of such title;
+
+&emsp;&emsp;“(F) to hold a current letter of authorization issued by the Administrator; and
+
+&emsp;&emsp;“(G) to take such other actions as the Administrator determines necessary for safety.
+
+&emsp;“(3)
+
+Consideration.—In making a determination to impose a requirement under paragraph (2)(G), the Administrator shall take into account the unique conditions associated with air travel in the State of Alaska to ensure that such requirements are not unduly burdensome.
+
+“(c)
+
+Definitions.—In this section, the following definitions apply:
+
+&emsp;“(1)
+
+Letter of authorization.—The term ‘letter of authorization’ means a letter issued by the Administrator once every 5 years to an Alaska guide pilot certifying that the pilot is in compliance with general operating and flight rules applicable to the pilot. In the case of a multi-pilot operation, at the election of the operating entity, a letter of authorization may be issued by the Administrator to the entity or to each Alaska guide pilot employed by the entity.
+
+&emsp;“(2)
+
+Alaska guide pilot.—The term ‘Alaska guide pilot’ means a pilot who—
+
+&emsp;&emsp;“(A) conducts aircraft operations over or within the State of Alaska;
+
+&emsp;&emsp;“(B) operates single engine, fixed-wing aircraft on floats, wheels, or skis, providing commercial hunting, fishing, or other guide services and related accommodations in the form of camps or lodges; and
+
+&emsp;&emsp;“(C) transports clients by such aircraft incidental to hunting, fishing, or other guide services.”
 
 #### Aviation Medical Assistance
 
@@ -214,7 +322,7 @@ Special Rule.—If the Administrator decides that automatic external defibrillat
 
 “(a)
 
-Liability of Air Carriers.—An air carrier shall not be liable for damages in any action brought in a Federal or State court arising out of the performance of the air carrier in obtaining or attempting to obtain the assistance of a passenger in an in-flight medical emergency, or out of the acts or omissions of the passenger rendering the assistance, if the passenger is not an employee or agent of the carrier and the carrier in good faith believes that the passenger is a medically qualified individual.
+Liability of Air Carriers.—An air carrier shall not be liable for damages in any action brought in a Federal or State court arising out of the performance of the air carrier in obtaining or attempting to obtain the assistance of a passenger in an in-flight medical emergency, or out of the acts or omissions of the passenger rendering the assistance, if the passenger is notan employee or agent of the carrier and the carrier in good faith believes that the passenger is a medically qualified individual.
 
 “(b)
 
@@ -232,5 +340,5 @@ Liability of Individuals.—An individual shall not be liable for damages in any
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 106, 44704, 44711, 44717, 45302, 46310, 47531 of this title.
+This section is referred to in sections 44704, 44711, 44717, 45302, 46310, 47531 of this title.
 

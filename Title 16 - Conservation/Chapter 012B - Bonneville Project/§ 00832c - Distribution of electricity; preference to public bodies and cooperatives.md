@@ -2,7 +2,7 @@
 
 #### (a) General provisions
 
-In order to insure that the facilities for the generation of electric energy at the Bonneville project shall be operated for the benefit of the general public, and particularly of domestic and rural consumers, the administrator shall at all times, in disposing of electric energy generated at said project, give preference and priority to public bodies and cooperatives.
+In order to insure that the facilities for the generation of electric energy at the Bonneville project shall be operated for the benefit of the general public, and particularly of domestic and rural consumers, the administrator shall at all times, in disposing of electric energy generatedat said project, give preference and priority to public bodies and cooperatives.
 
 #### (b) Prior to January 1, 1942; subsequent thereto
 
@@ -10,7 +10,7 @@ To preserve and protect the preferential rights and priorities of public bodies 
 
 #### (c) Allowance of time for financing
 
-An application by any public body or cooperative for an allocation of electric energy shall notbe denied, or another application competing or in conflict therewith be granted, to any private corporation, company, agency, or person, on the ground that any proposed bond or other security issue of any such public body or cooperative, the sale of which is necessary to enable such prospective purchaser to enter into the public business of selling and distributing the electric energy proposed to be purchased, has not been authorized or marketed, until after a reasonable time, to be determined by the administrator, has been afforded such public body or cooperative to have such bond or other security issue authorized or marketed.
+An application by any public body or cooperative for an allocation of electric energy shall not be denied, or another application competing or in conflict therewith be granted, to any private corporation, company, agency, or person, on the ground that any proposed bond or other security issue of any such public body or cooperative, the sale of which is necessary to enable such prospective purchaser to enter into the public business of selling and distributing the electric energy proposed to be purchased, has not been authorized or marketed, until after a reasonable time, to be determined by the administrator, has been afforded such public body or cooperative to have such bond or other security issue authorized or marketed.
 
 #### (d) Congressional declaration of policy; allowance of time for creation and organization
 

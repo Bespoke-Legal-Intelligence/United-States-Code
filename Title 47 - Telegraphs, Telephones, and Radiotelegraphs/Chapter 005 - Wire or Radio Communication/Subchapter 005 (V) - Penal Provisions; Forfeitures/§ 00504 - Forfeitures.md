@@ -2,7 +2,7 @@
 
 #### (a) Recovery
 
-The forfeitures provided for in this chapter shall be payable into the Treasury of the United States, and shall be recoverable, except as otherwise provided with respect to a forfeiture penalty determined under section 503(b)(3) of this title, in a civil suit in the name of the United States brought in the district where the person or carrier has its principal operating office or in any district through which the line or system of the carrier runs: <i>Provided</i>, That any suit for the recovery of a forfeiture imposed pursuant to the provisions of this chapter shall be a trial de novo: <i>Provided further</i>, That in the case of forfeiture by a ship, said forfeiture may also be recoverable by way of libel in any district in which such ship shall arrive or depart. Such forfeitures shall be in addition to any other general or specific penalties provided in this chapter. It shall be the duty of the various United States attorneys, under the direction of the Attorney General of the United States, to prosecute for the recovery of forfeitures under this chapter. The costs and expenses of such prosecutions shall be paid from the appropriation for the expenses of the courts of the United States.
+The forfeitures provided for in this chapter shall be payable into the Treasury of the United States, and shall be recoverable, except as otherwise provided with respect to a forfeiture penalty determined under section 503(b)(3) of this title, in a civil suit in the name of the United States brought in the district where the person or carrier has its principal operating office or in any district through which the line or system of the carrier runs: <i>Provided</i>, That any suit for the recovery of a forfeiture imposed pursuant to the provisions of this chapter shall be a trial de novo: <i>Provided further</i>, That in the case of forfeiture by a ship, said forfeiture may also be recoverable by way of libel in any district in which such ship shall arrive or depart. Such forfeitures shall be in addition to any other general or specific penalties provided in this chapter. It shall be the duty of the various United States attorneys, under the direction of the Attorney General of the United States, to prosecute for the recovery of forfeitures under this chapter. The costs and expenses of such prosecutionsshall be paid from the appropriation for the expenses of the courts of the United States.
 
 #### (b) Remission and mitigation
 
@@ -59,18 +59,6 @@ Amendment by act Aug. 6, 1956, effective Mar. 1, 1957, see section 4 of act Aug.
 #### Effective Date of 1954 Amendment
 
 Amendment by act Aug. 13, 1954, effective Nov. 13, 1954, see section 6 of act Aug. 13, 1954, set out as an Effective Date note under section 507 of this title.
-
-#### Federal Rules of Civil Procedure
-
-Admiralty and maritime rules of practice (which included libel procedures) were superseded, and civil and admiralty procedures in United States district courts were unified, effective July 1, 1966, see rule 1 and Supplemental Rules for Certain Admiralty and Maritime Claims, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-#### Cross References
-
-Exclusive jurisdiction of district courts of the United States for recovery of forfeitures, see section 1355 of Title 28, Judiciary and Judicial Procedure.
-
-Mode of recovery for forfeitures generally, see section 2461 of Title 28.
-
-Venue of proceeding for recovery for forfeiture, see section 1395 of Title 28.
 
 #### Section Referred to in Other Sections
 

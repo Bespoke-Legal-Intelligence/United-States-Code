@@ -6,7 +6,7 @@ A reduction, based on a ratio between the total cropland acreage on the farm and
 
 #### (b) Basis for participation in other Federal programs
 
-Notwithstanding sections 3811 and 3821 of this title, the Secretary, by appropriate regulation, may provide for preservation of cropland base and allotment history applicable to acreage converted from the production of agricultural commodities under this section, for the purpose of any Federal program under which the history is used as a basis for participation in the program or for an allotment or other limitation in the program, unless the owner and operator agree under the contract to retire permanently that cropland base and allotment history.
+Notwithstanding sections 3811 and 3821 of this title, the Secretary, by appropriate regulation, may provide for preservation of cropland base and allotment history applicable to acreage converted from the production of agricultural commodities under this section, for the purpose ofany Federal program under which the history is used as a basis for participation in the program or for an allotment or other limitation in the program, unless the owner and operator agree under the contract to retire permanently that cropland base and allotment history.
 
 #### (c) Extension of preservation of cropland base and allotment history
 

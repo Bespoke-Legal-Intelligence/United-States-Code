@@ -8,7 +8,7 @@ The Congress hereby finds and declares that—
 
 &emsp;(3) the Congress shares with the Commonwealth of Massachusetts and the parties to the lawsuit a desire to remove all clouds on titles resulting from such Indian land claim; <sup>1</sup>
 
-&emsp;(4) the parties to the lawsuit and others interested in settlement of Indian land claims within the Commonwealth of Massachusetts executed a Settlement Agreement which, to become effective, requires implementing legislation by the Congress of the United States and the General Court of the Commonwealth of Massachusetts;
+&emsp;(4) the parties to the lawsuit and others interested in settlement of Indian land claimswithin the Commonwealth of Massachusetts executed a Settlement Agreement which, to become effective, requires implementing legislation by the Congress of the United States and the General Court of the Commonwealth of Massachusetts;
 
 &emsp;(5) the town of Gay Head has agreed to contribute approximately 50 percent of the land involved in this settlement;
 

@@ -26,7 +26,7 @@
 
 (5) Any person or local government may appeal to the Secretary a nomination of any historic property for inclusion on the National Register and may appeal to the Secretary the failure or refusal of a nominating authority to nominate a property in accordance with this subsection.
 
-(6) The Secretary shall promulgate regulations requiring that before any property or district may be included on the National Register or designated as a National Historic Landmark, the owner or owners of such property, or a majority of the owners of the properties within the district in the case of an historic district, shall be given the opportunity (including a reasonable period of time) to concur in, or object to, the nomination of the property or district for such inclusion or designation. If the owner or owners of any privately owned property, or a majority of the owners of such properties within the district in the case of an historic district, object to such inclusion or designation, such property shall not be included on the National Register or designated as a National Historic Landmark until such objection is withdrawn. The Secretary shall review the nomination of the property or district where any such objection has been made and shall determine whether or not the property or district is eligible for such inclusion or designation, and if the Secretary determines that such property or district is eligible for such inclusion or designation, he shall inform the Advisory Council on Historic Preservation, the appropriate State Historic Preservation Officer, the appropriate chief elected local official and the owner or owners of such property, of his determination. The regulations under this paragraph shall include provisions to carry out the purposes of this paragraph in the case of multiple ownership of a single property.
+(6) The Secretary shall promulgate regulations requiring that before any property or district may be included on the National Register or designated as a National Historic Landmark, the owner or owners of such property, or a majority of the owners of the properties within the district in the case of an historic district, shall be given the opportunity (including a reasonable period of time) to concur in, or object to, thenomination of the property or district for such inclusion or designation. If the owner or owners of any privately owned property, or a majority of the owners of such properties within the district in the case of an historic district, object to such inclusion or designation, such property shall not be included on the National Register or designated as a National Historic Landmark until such objection is withdrawn. The Secretary shall review the nomination of the property or district where any such objection has been made and shall determine whether or not the property or district is eligible for such inclusion or designation, and if the Secretary determines that such property or district is eligible for such inclusion or designation, he shall inform the Advisory Council on Historic Preservation, the appropriate State Historic Preservation Officer, the appropriate chief elected local official and the owner or owners of such property, of his determination. The regulations under this paragraph shall include provisions to carry out the purposes of this paragraph in the case of multiple ownership of a single property.
 
 (7) The Secretary shall promulgate, or revise, regulations—
 
@@ -180,7 +180,7 @@
 
 &emsp;&emsp;(i) that the tribal preservation program is fully capable of carrying out the functions specified in the plan provided under subparagraph (C);
 
-&emsp;&emsp;(ii) that the plan defines the remaining responsibilities of the Secretary and the State Historic Preservation Officer;
+&emsp;&emsp;(ii) that the plan defines the remaining responsibilities of the Secretary and the State Historic Preservation Officer; and
 
 &emsp;&emsp;(iii) that the plan provides, with respect to properties neither owned by a member of the tribe nor held in trust by the Secretary for the benefit of the tribe, at the request of the owner thereof, the State Historic Preservation Officer, in addition to the tribal preservation official, may exercise the historic preservation responsibilities in accordance with subsections (b)(2) and (b)(3) of this section; and
 
@@ -202,7 +202,7 @@
 
 &emsp;&emsp;(iii) the interested public.
 
-(5) The Council may enter into an agreement with an Indian tribe to permit undertakings on tribal land to be reviewed under tribal historic preservation regulations in place of review under regulations promulgated by the Council to govern compliance with section 470f of this title, if the Council, after consultation with thetribe and appropriate State Historic Preservation Officers, determines that the tribal preservation regulations will afford historic properties consideration equivalent to those afforded by the Council's regulations.
+(5) The Council may enter into an agreement with an Indian tribe to permit undertakings on tribal land to be reviewed under tribal historic preservation regulations in place of review under regulations promulgated by the Council to govern compliance with section 470f of this title, if the Council, after consultation with the tribe and appropriate State Historic Preservation Officers, determines that the tribal preservation regulations will afford historic properties consideration equivalent to those afforded by the Council's regulations.
 
 (6)(A) Properties of traditional religious and cultural importance to an Indian tribe or Native Hawaiian organization may be determined to be eligible for inclusion on the National Register.
 
@@ -216,11 +216,11 @@
 
 &emsp;(iii) enter into a memorandum of understanding or agreement with Native Hawaiian organizations for the assessment of the cultural significance of a property in determining whether to nominate such property to the National Register and to carry out the cultural component of such preservation program or plan.
 
-#### (e) Matching grants to States; matching grant-in-aid to National Trust for Historic Preservation in the United States; program of direct grants for preservation of properties included on National Register; grants or loans to Indian tribes and ethnic or minority groups for preservation of cultural heritage; grants for religious properties; direct grants to Indian tribes, Native Hawaiian organizations, and Micronesian States
+#### (e) Matching grants to States; grants to National Trust for Historic Preservation in the United States; program of direct grants for preservation of properties included on National Register; grants or loans to Indian tribes and ethnic or minority groups for preservation of cultural heritage; grants for religious properties; direct grants to Indian tribes, Native Hawaiian organizations, and Micronesian States
 
 (1) The Secretary shall administer a program of matching grants to the States for the purposes of carrying out this subchapter.
 
-(2) The Secretary shall administer a program of matching grant-in-aid to the National Trust for Historic Preservation in the United States, chartered by sections 468 to 468e <sup>1</sup> of this title, for the purposes of carrying out the responsibilities of the National Trust.
+(2) The Secretary may administer grants to the National Trust for Historic Preservation in the United States, chartered by sections 468 to 468d of this title consistent with the purposes of its charter and this subchapter.
 
 (3)(A) In addition to the programs under paragraphs (1) and (2), the Secretary shall administer a program of direct grants for the preservation of properties included on the National Register. Funds to support such program annually shall not exceed 10 per centum of the amount appropriated annually for the fund established under section 470h of this title. These grants may be made by the Secretary, in consultation with the appropriate State Historic Preservation Officer—
 
@@ -228,7 +228,7 @@
 
 &emsp;(ii) for demonstration projects which will provide information concerning professional methods and techniques having application to historic properties,
 
-&emsp;(iii) for the training and development of skilled labor in trades and crafts, and in analysis and curation, relating to historic preservation; <sup>2</sup> and
+&emsp;(iii) for the training and development of skilled labor in trades and crafts, and in analysis and curation, relating to historic preservation, and
 
 &emsp;(iv) to assist persons or small businesses within any historic district included in the National Register to remain within the district.
 
@@ -236,11 +236,11 @@
 
 (C) Grants may be made under subparagraph (A)(i) and (iv) only to the extent that the project cannot be carried out in as effective a manner through the use of an insured loan under section 470d of this title.
 
-(4) Grants may be made under this subsection for the preservation, stabilization, restoration, or rehabilitation of religious properties listed in the National Register of Historic Places, provided that the purpose of the grant is secular, does not promote religion, and seeks to protect those qualities that are historically significant. Nothing in this paragraph shall be construed to authorize the use of any funds made available under this section for the acquisition of any property referred to in the preceding sentence.
+(4) Grants may be made under this subsection for the preservation, stabilization, restoration, or rehabilitation of religious properties listed in the National Register of Historic Places, provided that the purpose of the grant is secular, does not promote religion, and seeks to protect those qualities that are historically significant.Nothing in this paragraph shall be construed to authorize the use of any funds made available under this section for the acquisition of any property referred to in the preceding sentence.
 
 (5) The Secretary shall administer a program of direct grants to Indian tribes and Native Hawaiian organizations for the purpose of carrying out this subchapter as it pertains to Indian tribes and Native Hawaiian organizations. Matching fund requirements may be modified. Federal funds available to a tribe or Native Hawaiian organization may be used as matching funds for the purposes of the tribe's or organization's conducting its responsibilities pursuant to this section.
 
-(6)(A) As part of the program of matching grant assistance from the Historic Preservation Fund to States, the Secretary shall administer a program of direct grants to the Federated States of Micronesia, the Republic of the Marshall Islands, the Trust Territory of the Pacific Islands, and upon termination of the Trusteeship Agreement for the Trust Territory of the Pacific Islands, the Republic of Palau (referred to as the Micronesian States) in furtherance of the Compact of Free Association between the United States and the Federated States of Micronesia and the Marshall Islands, approved by the Compact of Free Association Act of 1985 \[48 U.S.C. 1901 et seq., 2001 et seq.\], the Trusteeship Agreement for the Trust Territory of the Pacific Islands, and the Compact of Free Association between the United States and Palau, approved by the Joint Resolution entitled “Joint Resolution to approve the ‘Compact of Free Association’ between the United States and Government ofPalau, and for other purposes” \[48 U.S.C. 1931 et seq.\]. The goal of the program shall be to establish historic and cultural preservation programs that meet the unique needs of each Micronesian State so that at the termination of the compacts the programs shall be firmly established. The Secretary may waive or modify the requirements of this section to conform to the cultural setting of those nations.
+(6)(A) As part of the program of matching grant assistance from the Historic Preservation Fund to States, the Secretary shall administer a program of direct grants to the Federated States of Micronesia, the Republic of the Marshall Islands, the Trust Territory of the Pacific Islands, and upon termination of the Trusteeship Agreement for the Trust Territory of the Pacific Islands, the Republic of Palau (referred to as the Micronesian States) in furtherance of the Compact of Free Association between the United States and the Federated States of Micronesia and the Marshall Islands, approved by the Compact of Free Association Act of 1985 \[48 U.S.C. 1901 et seq., 2001 et seq.\], the Trusteeship Agreement for the Trust Territory of the Pacific Islands, and the Compact of Free Association between the United States and Palau, approved by the Joint Resolution entitled “Joint Resolution to approve the ‘Compact of Free Association’ between the United States and Government of Palau, and for other purposes” \[48 U.S.C. 1931 et seq.\]. The goal of the program shall be to establish historic and cultural preservation programs that meet the unique needs of each Micronesian State so that at the termination of the compacts the programs shall be firmly established. The Secretary may waive or modify the requirements of this section to conform to the cultural setting of those nations.
 
 (B) The amounts to be made available to the Micronesian States shall be allocated by the Secretary on the basis of needs as determined by the Secretary. Matching funds may be waived or modified.
 
@@ -270,7 +270,7 @@ The Secretary shall develop and make available to Federal agencies, State and lo
 
 &emsp;(B) increased preservation training opportunities for other Federal, State, tribal and local government workers, and students;
 
-&emsp;(C) technical or financial assistance, or both, to historically black colleges and universities, to tribal colleges, and to colleges with a high enrollment of Native Americans or Native Hawaiians, to establish preservation training and degree programs;
+&emsp;(C) technical or financial assistance, or both, to historically black colleges and universities, to tribal colleges, and to colleges with a high enrollment of Native Americans or Native Hawaiians, to establish preservation training and degree programs; and
 
 &emsp;(D) coordination of the following activities, where appropriate, with the National Center for Preservation Technology and Training—
 
@@ -280,7 +280,7 @@ The Secretary shall develop and make available to Federal agencies, State and lo
 
 &emsp;&emsp;(iii) support for research, analysis, conservation, curation, interpretation, and display related to preservation.
 
-(Pub. L. 89–665, title I, §101, Oct. 15, 1966, 80 Stat. 915; Pub. L. 93–54, §1(d), July 1, 1973, 87 Stat. 139; Pub. L. 91–383, §11, as added Pub. L. 94–458, §2, Oct. 7, 1976, 90 Stat. 1942; amended Pub. L. 96–205, title VI, §608(a)(1), (2), Mar. 12, 1980, 94 Stat. 92; Pub. L. 96–515, title II, §201(a), Dec. 12, 1980, 94 Stat. 2988; Pub. L. 102–575, title XL, §§4003–4006(a), 4007, 4008, Oct. 30, 1992, 106 Stat. 4753–4755, 4758; Pub. L. 103–437, §6(d)(29), Nov. 2, 1994, 108 Stat. 4584; Pub. L. 104–333, div. I, title VIII, §814(d)(2)(F), Nov. 12, 1996, 110 Stat. 4196; Pub. L. 106–113, div. B, §1000(a)(9) \[title III, §3007\], Nov. 29, 1999, 113 Stat. 1536, 1501A–551.)
+(Pub. L. 89–665, title I, §101, Oct. 15, 1966, 80 Stat. 915; Pub. L. 93–54, §1(d), July 1, 1973, 87 Stat. 139; Pub. L. 91–383, §11, as added Pub. L. 94–458, §2, Oct. 7, 1976, 90 Stat. 1942; amended Pub. L. 96–205, title VI, §608(a)(1), (2), Mar. 12, 1980, 94 Stat. 92; Pub. L. 96–515, title II, §201(a), Dec. 12, 1980, 94 Stat. 2988; Pub. L. 102–575, title XL, §§4003–4006(a), 4007, 4008, Oct. 30, 1992, 106 Stat. 4753–4755, 4758; Pub. L. 103–437, §6(d)(29), Nov. 2, 1994, 108 Stat. 4584; Pub. L. 104–333, div. I, title VIII, §814(d)(2)(F), Nov. 12, 1996, 110 Stat. 4196; Pub. L. 106–113, div. B, §1000(a)(9) \[title III, §3007\], Nov. 29, 1999, 113 Stat. 1536, 1501A–551; Pub. L. 106–208, §5(a)(1)–(4), May 26, 2000, 114 Stat. 318.)
 
 #### References in Text
 
@@ -290,7 +290,7 @@ Act of June 27, 1960 (16 U.S.C. 469c), referred to in subsec. (a)(7)(A), is Pub.
 
 The Archaeological Resources Protection Act of 1979 (16 U.S.C. 470aa and following), referred to in subsec. (a)(7)(A), is Pub. L. 96–95, Oct. 31, 1979, 93 Stat. 721, as amended, which is classified generally to chapter 1B (§470aa et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 470aa of this title and Tables.
 
-Section 468e of this title, referred to in subsec. (e)(2), was repealed by Pub. L. 86–533, §1(19), June 29, 1960, 74 Stat. 248.
+Sections 468 to 468d of this title, referred to in subsec. (e)(2), was in the original “an Act of Congress approved October 26, 1949 (63 Stat. 947)”, probably meaning Act Oct. 26, 1949, ch. 755, 63 Stat. 927, which is classified to sections 468 to 468d of this title. For complete classification of this Act to the Code, see Tables.
 
 The Compact of Free Association Act of 1985, referred to in subsec. (e)(6)(A), is Pub. L. 99–239, Jan. 14, 1986, 99 Stat. 1770, as amended, which is classified principally to subchapter I (§1901 et seq.) of chapter 18 and chapter 19 (§2001 et seq.) of Title 48, Territories and Insular Possession. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of Title 48 and Tables.
 
@@ -298,7 +298,15 @@ The Joint Resolution entitled “Joint Resolution to approve the ‘Compact of F
 
 #### Amendments
 
-1999—Subsec. (a)(1)(A). Pub. L. 106–113 inserted at end “Notwithstanding section 1125(c) of title 15, buildings and structures on or eligible for inclusion on the National Register of Historic Places (either individually or as part of a historic district), or designated as an individual landmark or as a contributing building in ahistoric district by a unit of State or local government, may retain the name historically associated with the building or structure.”
+2000—Subsec. (d)(2)(D)(ii). Pub. L. 106–208, §5(a)(1), inserted “and” after semicolon.
+
+Subsec. (e)(2). Pub. L. 106–208, §5(a)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary shall administer a program of matching grant-in-aid to the National Trust for Historic Preservation in the United States, chartered by sections 468 to 468e of this title, for the purposes of carrying out the responsibilities of the National Trust.”
+
+Subsec. (e)(3)(A)(iii). Pub. L. 106–208, §5(a)(3), substituted comma for semicolon after “preservation”.
+
+Subsec. (j)(2)(C). Pub. L. 106–208, §5(a)(4), inserted “and” after semicolon at end.
+
+1999—Subsec. (a)(1)(A). Pub. L. 106–113 inserted at end “Notwithstanding section 1125(c) of title 15, buildings and structures on or eligible for inclusion on the National Register of Historic Places (either individually or as part of a historic district), or designated as an individual landmark or as a contributing building in a historic district by a unit of State or local government, may retain the name historically associated with the building or structure.”
 
 1996—Subsec. (a)(1)(B). Pub. L. 104–333 inserted period after “published in the Federal Register” and struck out at end “and submitted to the Committee on Energy and Natural Resources of the United States Senate and to the Committee on Natural Resources of the United States House of Representatives.”
 
@@ -462,7 +470,7 @@ Information From Federal Agencies.—The Commission may secure directly from any
 
 “(a)
 
-Compensation of Members.—A member of the Commission who is not otherwise an officer or employee of the Federal Government shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for a position at level IV of the Executive Schedule under section 5315 of title 5, United States Code, for each day (including travel time) during which the member is engaged in the performance of the duties of the Commission. A member of the Commission who is otherwise an officer or employee of the United States shall serve without compensation in addition to that received for services as an officer or employee of the United States.
+Compensation of Members.—A member of the Commission who is not otherwise an officer or employee of the Federal Government shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for a position at level IV of the Executive Schedule under section 5315 of title 5, United States Code, for each day (includingtravel time) during which the member is engaged in the performance of the duties of the Commission. A member of the Commission who is otherwise an officer or employee of the United States shall serve without compensation in addition to that received for services as an officer or employee of the United States.
 
 “(b)
 
@@ -500,7 +508,7 @@ Donations.—The Commission may accept donations from non-Federal sources to def
 
 #### “SEC. 8. TERMINATION.
 
-“The Commission shall terminate on the date that is 30 days after the date on which the Commission submits to the Secretary of the Interior the report under section 4(b).
+“The Commission shall terminate on the date that is 30 days after the date on which the Commission submits to the Secretary of the Interior the report under section 4(b) \[sic\].
 
 #### “SEC. 9. REPORTS TO CONGRESS.
 
@@ -554,7 +562,7 @@ Section 4021 of Pub. L. 102–575 provided that: “The Secretary of the Interio
 
 #### Secretarial Report
 
-Section 4025 of Pub. L. 102–575 directed Secretary of the Interior, not later than one year after Oct. 30, 1992, to prepare and submit to Congress a report on the manner in which properties are listed or determined to be eligible for listing on the National Register, including but not limited to, the appropriateness of the criteria used in determining such eligibility, and the effect, if any, of such listing or finding of eligibility.
+Section 4025 of Pub. L. 102–575 directed Secretary of the Interior, not later than one year after Oct. 30, 1992, to prepare and submit to Congress a report on the manner in which properties are listed or determined to be eligible for listing on the National Register, includingbut not limited to, the appropriateness of the criteria used in determining such eligibility, and the effect, if any, of such listing or finding of eligibility.
 
 #### Preservation and Conservation of Intangible Aspects of American Cultural Heritage; Report to President and Congress
 
@@ -570,9 +578,5 @@ Section 507 of Pub. L. 96–515 directed Secretary, in cooperation with Secretar
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 398f, 410cc–22, 410cc–32, 430g–7, 470b, 470c, 470h–1, 470h–2, 470w, 698u, 5406 of this title; title 10 section 2684; title 40 section 612a; title 43 section 2102.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original. The semicolon probably should be a comma.</i>
+This section is referred to in sections 410cc–22, 410cc–32, 430g–7, 470b, 470c, 470h–1, 470h–2, 470w, 698u, 5406 of this title; title 10 section 2684; title 24 section 423; title 40 section 612a; title 43 section 2102.
 

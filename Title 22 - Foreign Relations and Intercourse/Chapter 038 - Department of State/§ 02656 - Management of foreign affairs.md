@@ -18,13 +18,189 @@ Functions of President respecting certain facilities constructed and maintained 
 
 National Intelligence Authority and Central Intelligence Group, established by Presidential Directive, Feb. 1, 1946, 11 F.R. 1337, to coordinate Federal foreign intelligence activities, ceased to exist upon creation of Central Intelligence Agency; personnel, property and records of the group were transferred to the Agency; and unexpended funds of the group were made available to the Agency, by act July 26, 1947, ch. 343, title I, §102, 61 Stat. 497, set out as section 403 of Title 50, War and National Defense.
 
-#### Record of War Criminals and Sanctioned Countries, Entities, and Municipalities; Role of Human Rights Organizations and Government Agencies
+#### Pacific Charter Commission
 
-Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §566(e), (g), (j), (k)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–107 to 1501A–109, provided that:
+Pub. L. 106–570, title IV, Dec. 27, 2000, 114 Stat. 3047, provided that:
+
+#### “SEC. 401. SHORT TITLE.
+
+“This title may be cited as the ‘Pacific Charter Commission Act of 2000’.
+
+#### “SEC. 402. PURPOSES.
+
+“The purposes of this title are—
+
+&emsp;“(1) to promote a consistent and coordinated foreign policy of the United States to ensure economic and military security in the Asia-Pacific region;
+
+&emsp;“(2) to support democratization, the rule of law, and human rights in the Asia-Pacific region;
+
+&emsp;“(3) to promote United States exports to the Asia-Pacific region by advancing economic cooperation;
+
+&emsp;“(4) to assist in combating terrorism and the spread of illicit narcotics in the Asia-Pacific region; and
+
+&emsp;“(5) to advocate an active role for the United States Government in diplomacy, security, and the furtherance of good governance and the rule of law in the Asia-Pacific region.
+
+#### “SEC. 403. ESTABLISHMENT OF COMMISSION.
+
+“(a)
+
+In General.—The President is authorized to establish a commission to be known as the Pacific Charter Commission (hereafter in this title referred to as the ‘Commission’).
+
+“(b)
+
+Expiration of Authority.—The authority to establish the Commission under this section shall expire at the close of December 31, 2002.
+
+#### “SEC. 404. DUTIES OF COMMISSION.
+
+“(a)
+
+Duties.—The Commission should establish and carry out, either directly or through nongovernmental organizations, programs, projects, and activities to achieve the purposes described in section 402, including research and educational or legislative exchanges between the United States and countries in the Asia-Pacific region.
+
+“(b)
+
+Monitoring of Developments.—The Commission should monitor developments in countries of the Asia-Pacific region with respect to United States foreign policy toward such countries, the status of democratization, the rule of law and human rights in the region, economic relations among the United States and such countries, and activities related to terrorism and the illicit narcotics trade.
+
+“(c)
+
+Policy Review and Recommendations.—In carrying out this section, the Commission should evaluate United States Government policies toward countries of the Asia-Pacific region and recommend options for policies of the United States Government with respect to such countries, with a particular emphasis on countries that are of importance to the foreign policy, economic, and military interests of the United States.
+
+“(d)
+
+Contacts With Other Entities.—In performing the functions described in subsections (a) through (c), the Commission should, as appropriate, seek out and maintain contacts with nongovernmental organizations, international organizations, and representatives of industry, including receiving reports and updates from such organizations and evaluating such reports.
 
 “(e)
 
-Sanctioned Country, Entity, or Municipality.—A sanctioned country, entity, or municipality described in this section \[113 Stat. 1501A–106\] is one whose competent authorities have failed, as determined by the Secretary of State, to take necessary and significant steps to apprehend and transfer to the Tribunal all persons who have been publicly indicted by the Tribunal.
+Annual Report.—Not later than 18 months after the date of the establishment of the Commission, and not later than the end of each 12-month period thereafter, the Commission shall prepare and submit to the President and Congress a report that contains the findings of the Commission, in the case of the initial report, during the period since the date of establishment of the Commission, or, in the case of each subsequent report, during the preceding 12-month period. Each such report shall contain—
+
+&emsp;“(1) recommendations for legislative, executive, or other actions resulting from the evaluation of policies described in subsection (c);
+
+&emsp;“(2) a description of programs, projects, and activities of the Commission for the prior year or, in the case of the initial report, since the date of establishment of the Commission; and
+
+&emsp;“(3) a complete accounting of the expenditures made by the Commission during the prior year or, in the case of the initial report, since the date of establishment of the Commission.
+
+#### “SEC. 405. MEMBERSHIP OF COMMISSION.
+
+“(a)
+
+Composition.—If established pursuant to section 403, the Commission shall be composed of seven members all of whom—
+
+&emsp;“(1) shall be citizens of the United States who are not officers or employees of any government, except to the extent they are considered such officers or employees by virtue of their membership on the Commission; and
+
+&emsp;“(2) shall have interest and expertise in issues relating to the Asia-Pacific region.
+
+“(b)
+
+Appointment.—
+
+&emsp;“(1)
+
+In general.—The individuals referred to in subsection (a) shall be appointed—
+
+&emsp;&emsp;“(A) by the President, after consultation with the Speaker and Minority Leader of the House of Representatives, the Chairman and ranking member of the Committee on International Relations of the House of Representatives, the Majority Leader and Minority Leader of the Senate, and the Chairman and ranking member of the Committee on Foreign Relations of the Senate; and
+
+&emsp;&emsp;“(B) by and with the advice and consent of the Senate.
+
+&emsp;“(2)
+
+Political affiliation.—Not more than four of the individuals appointed under paragraph (1) may be affiliated with the same political party.
+
+“(c)
+
+Term.—Each member of the Commission shall be appointed for a term of 6 years.
+
+“(d)
+
+Vacancies.—A vacancy in the Commission shall be filled in the same manner in which the original appointment was made.
+
+“(e)
+
+Chairperson; Vice Chairperson.—The President shall designate a Chairperson and Vice Chairperson of the Commission from among the members of the Commission.
+
+“(f)
+
+Compensation.—
+
+&emsp;“(1)
+
+Rates of pay.—Except as provided in paragraph (2), members of the Commission shall serve without pay.
+
+&emsp;“(2)
+
+Travel expenses.—Each member of the Commission may receive travel expenses, including per diem in lieu of subsistence, in accordance with sections 5702 and 5703 of title 5, United States Code.
+
+“(g)
+
+Meetings.—The Commission shall meet at the call of the Chairperson.
+
+“(h)
+
+Quorum.—A majority of the members of the Commission shall constitute a quorum, but a lesser number of members may hold hearings.
+
+“(i)
+
+Affirmative Determinations.—An affirmative vote by a majority of the members of the Commission shall be required for any affirmative determination by the Commission under section 404.
+
+#### “SEC. 406. POWERS OF COMMISSION.
+
+“(a)
+
+Hearings and Investigations.—The Commission may hold such hearings, sit and act at such times and places, take such testimony and receive such evidence, and conduct such investigations as the Commission considers advisable to carry out this title.
+
+“(b)
+
+Information From Federal Agencies.—The Commission may secure directly from any Federal department or agency such information as the Commission considers necessary to carry out this title. Upon request of the Chairperson of the Commission, the head of any such department or agency shall furnish such information to the Commission as expeditiously as possible.
+
+“(c)
+
+Contributions.—The Commission may accept, use, and dispose of gifts, bequests, or devises of services or property, both real and personal, for the purpose of assisting or facilitating the work of the Commission. Gifts, bequests, or devises of money and proceeds from sales of other property received as gifts, bequests, or devises shall be deposited in the Treasury and shall be available for disbursement upon order of the Commission.
+
+“(d)
+
+Mails.—The Commission may use the United States mails in the same manner and under the same conditions as other departments and agencies of the United States.
+
+#### “SEC. 407. STAFF AND SUPPORT SERVICES OF COMMISSION.
+
+“(a)
+
+Executive Director.—The Commission shall have an executive director appointed by the Commission who shall serve the Commission under such terms and conditions as the Commission determines to be appropriate.
+
+“(b)
+
+Staff.—The Commission may appoint and fix the pay of such additional personnel, not to exceed 10 individuals, as it considers appropriate.
+
+“(c)
+
+Staff of Federal Agencies.—Upon request of the chairperson of the Commission, the head of any Federal agency may detail, on a nonreimbursable basis, any of the personnel of the agency to the Commission to assist the Commission in carrying out its duties under this title.
+
+“(d)
+
+Experts and Consultants.—The chairperson of the Commission may procure temporary and intermittent services under section 3109(b) of title 5, United States Code.
+
+#### “SEC. 408. TERMINATION.
+
+“The Commission shall terminate not later than 6 years after the date of the establishment of the Commission.
+
+#### “SEC. 409. AUTHORIZATION OF APPROPRIATIONS.
+
+“(a)
+
+In General.—In the event the Commission is established, there are authorized to be appropriated to carry out this title $2,500,000 for the initial 24-month period of the existence of the Commission.
+
+“(b)
+
+Availability.—Amounts appropriated pursuant to the authorization of appropriations under subsection (a) are authorized to remain available until expended.
+
+#### “SEC. 410. EFFECTIVE DATE.
+
+“This title shall take effect on February 1, 2001.”
+
+#### Record of War Criminals and Sanctioned Countries, Entities, and Municipalities; Role of Human Rights Organizations and Government Agencies
+
+Pub. L. 106–429, §101(a) \[title V, §564(e), (g), (j), (k)\], Nov. 6, 2000, 114 Stat. 1900, 1900A–48 to 1900A–50, provided that:
+
+“(e)
+
+Sanctioned Country, Entity, or Municipality.—A sanctioned country, entity, or municipality described in this section \[114 Stat. 1900A–46\] is one whose competent authorities have failed, as determined by the Secretary of State, to take necessary and significant steps to apprehend and transfer to the Tribunal all persons who have been publicly indicted by the Tribunal.
 
 “(g)
 
@@ -36,7 +212,7 @@ In general.—The Secretary of State shall establish and maintain a current reco
 
 &emsp;“(2)
 
-Information of the dci and the secretary of defense.—The Director of Central Intelligence and the Secretary of Defense should collect and provideto the Secretary of State information concerning the location, including the municipality, of publicly indicted war criminals.
+Information of the dci and the secretary of defense.—The Director of Central Intelligence and the Secretary of Defense should collect and provide to the Secretary of State information concerning the location, including the municipality, of publicly indicted war criminals.
 
 &emsp;“(3)
 
@@ -44,7 +220,7 @@ Information of the tribunal.—The Secretary of State shall request that the Tri
 
 &emsp;“(4)
 
-Report.—Beginning 30 days after the date of the enactment of this Act \[Nov. 29, 1999\], and not later than September 1 each year thereafter, the Secretary of State shall submit a report in classified and unclassified form to the appropriate congressional committees on the location, including the municipality, if known, of publicly indicted war criminals, on country, entity and municipality authorities known to have obstructed the work of the Tribunal, and on sanctioned countries, entities, and municipalities.
+Report.—Beginning 30 days after the date of the enactment of this Act \[Nov. 6, 2000\], and not later than September 1 each year thereafter, the Secretary of State shall submit a report in classified and unclassified form to the appropriate congressional committees on the location, including the municipality,if known, of publicly indicted war criminals, on country, entity and municipality authorities known to have obstructed the work of the Tribunal, and on sanctioned countries, entities, and municipalities.
 
 &emsp;“(5)
 
@@ -73,6 +249,10 @@ Tribunal.—The term ‘Tribunal’ means the International Criminal Tribunal fo
 “(k)
 
 Role of Human Rights Organizations and Government Agencies.—In carrying out this section, the Secretary of State, the Administrator of the Agency for International Development, and the executive directors of the international financial institutions shall consult with representatives of human rights organizations and all government agencies with relevant information to help prevent publicly indicted war criminals from benefiting from any financial or technical assistance or grants provided to any country or entity described in subsection (e).”
+
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §566(e), (g), (j), (k)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–107 to 1501A–109.
 
 #### Report Concerning Financial Disadvantages for Administrative and Technical Personnel
 
@@ -118,7 +298,9 @@ Pub. L. 104–208, div. A, title I, §101(c) \[title V, §585\], Sept. 30, 1996,
 
 Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §552\], Nov. 29, 1999, 113 Stat. 1535, 1501A–99, provided in part: “That 60 days after the date of the enactment of this Act \[Nov. 29, 1999\], and every 180 days thereafter, the Secretary of State shall submit a report to the Committees on Appropriations describing the steps the United States Government is taking to collect information regarding allegations of genocide or other violations of international law in the former Yugoslavia and to furnish that information to the United Nations War Crimes Tribunal for the former Yugoslavia”.
 
-Similar provisions were contained in the following prior appropriation acts:
+Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 106–429, §101(a) \[title V, §552\], Nov. 6, 2000, 114 Stat. 1900, 1900A–41.
 
 Pub. L. 105–277, div. A, §101(d) \[title V, §554\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–188.
 
@@ -272,7 +454,7 @@ Pub. L. 100–202, §101(a) \[title III, §305\], Dec. 22, 1987, 101 Stat. 1329,
 
 #### Report to Congress on Soviet Breach of Duties Obligations to United States Diplomats or Missions
 
-Pub. L. 99–500, §101(b) \[title III, §300\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–58, and Pub. L. 99–591, §101(b) \[title III, §300\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–58, provided: “That beginning on February 1, 1987, the Secretary of State shall report every six months to the Speaker of the House of Representatives and the President of the Senate on any failures during the past six months by Soviet agencies to perform obligations to United States diplomats or United States missions to the Soviet Union and the actions undertaken by the Department of State to redress these failures.”
+Pub. L. 99–500, §101(b) \[title III, §300\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–58, and Pub. L. 99–591, §101(b) \[title III, §300\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–58, which required the Secretary of State to report every six months to the Speaker of the House of Representatives and the President of the Senate on failures by Soviet agencies to perform obligations to United States diplomats or United States missions to the Soviet Union and on actions undertaken by the Department of State to redress these failures, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 127 of House Document No. 103–7.
 
 #### Responsibility of United States Missions To Promote Freedom of Press Abroad
 
@@ -366,5 +548,5 @@ Pub. L. 95–426, title VI, §603, Oct. 7, 1978, 92 Stat. 985, as amended by Pub
 
 #### Diplomatic Relations With Foreign Government Not Indication of Approval of Such Government
 
-Pub. L. 95–426, title VI, §607, Oct. 7, 1978, 92 Stat. 988, provided that: “The Congress finds that the conduct ofdiplomatic relations with a foreign government has as its principal purpose the discussion and negotiation with that government of outstanding issues and, like the recognition of a foreign government, does not in itself imply approval of that government or of the political-economic system it represents.”
+Pub. L. 95–426, title VI, §607, Oct. 7, 1978, 92 Stat. 988, provided that: “The Congress finds that the conduct of diplomatic relations with a foreign government has as its principal purpose the discussion and negotiation with that government of outstanding issues and, like the recognition of a foreign government, does not in itself imply approval of that government or of the political-economic system it represents.”
 

@@ -1,14 +1,8 @@
 Part A—Employment and Training Programs for Native Americans and Migrant and Seasonal Farmworkers
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 1502, 1516 of this title.
-
 
 ---
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 01671 - Native American programs](%C2%A7%2001671%20-%20Native%20American%20programs.md)
-- [&sect; 01672 - Migrant and seasonal farmworker programs](%C2%A7%2001672%20-%20Migrant%20and%20seasonal%20farmworker%20programs.md)
-- [&sect; 01673 - Grant procedures](%C2%A7%2001673%20-%20Grant%20procedures.md)
+- [&sect; 01671 to 1673 - Repealed. Pub. L. 105&#8211;220, title I, &sect;199(b)(2), Aug. 7, 1998, 112 Stat. 1059](%C2%A7%2001671%20to%201673%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93220%2C%20title%20I%2C%20%C2%A7199%28b%29%282%29%2C%20Aug.%207%2C%201998%2C%20112%20Stat.%201059.md)

@@ -80,7 +80,7 @@ Report.—Not later than 18 months after the date of enactment of this Act \[Oct
 
 &emsp;“(5)
 
-Rulemaking.—If the Secretary of Transportation determines, based on the results of the study under this subsection, that there are significant risks to public health or the environment resulting from the actual or threatened discharge of group-5 fuel oil from a vessel or facility that cannot be technologically or economically addressed by existing or anticipated cleanup efforts, the Secretary may initiate a rulemaking to take such action as is necessary to abate the threat.
+Rulemaking.—If the Secretary of Transportation determines, based on the results of the study under this subsection, that there are significant risks to public health or the environment resulting from the actual or threatened discharge of group-5 fuel oil from a vessel or facility that cannot be technologically or economically addressed by existing or anticipated cleanup efforts, the Secretary may initiatea rulemaking to take such action as is necessary to abate the threat.
 
 “(b)
 
@@ -162,7 +162,7 @@ Use.—Not later than 1 year after the date of the enactment of this Act \[Aug. 
 
 #### Tanker Navigation Safety Standards Study
 
-Pub. L. 101–380, title IV, §4111, Aug. 18, 1990, 104 Stat. 515, directed Secretary, not later than 2 years after Aug. 18, 1990, to conduct a study and report to Congress on whether existing laws and regulations are adequate to ensure safe navigation of vessels transporting oil or hazardous substances in bulk on navigable waters and waters of the exclusive economic zone.
+Pub. L. 101–380, title IV, §4111, Aug. 18, 1990, 104 Stat. 515, directed Secretary, not later than 2 years afterAug. 18, 1990, to conduct a study and report to Congress on whether existing laws and regulations are adequate to ensure safe navigation of vessels transporting oil or hazardous substances in bulk on navigable waters and waters of the exclusive economic zone.
 
 #### Rules Governing Operation of Vessels on Auto-Pilot or With Unattended Engine Room
 

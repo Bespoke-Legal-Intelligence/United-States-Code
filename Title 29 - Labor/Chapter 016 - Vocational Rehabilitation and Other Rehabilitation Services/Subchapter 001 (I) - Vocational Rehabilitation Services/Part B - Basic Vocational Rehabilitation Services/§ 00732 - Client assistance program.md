@@ -20,13 +20,13 @@ No State may receive payments from its allotment under this chapter in any fisca
 
 &emsp;(I) the Governor has given the agency 30 days notice of the intention to make such redesignation, including specification of the good cause for such redesignation and an opportunity to respond to the assertion that good cause has been shown;
 
-&emsp;(II) individuals with disabilities or the individuals’ representatives have timely notice ofthe redesignation and opportunity for public comment; and
+&emsp;(II) individuals with disabilities or the individuals’ representatives have timely notice of the redesignation and opportunity for public comment; and
 
 &emsp;(III) the agency has the opportunity to appeal to the Commissioner on the basis that the redesignation was not for good cause.
 
 (ii) If, after August 7, 1998—
 
-&emsp;(I) a designated State agency undergoes any change in the organizational structure of the agency that results in the creation of one or more new State agencies or departments or results in the merger of the designated State agency with one or more other State agencies or departments; and
+&emsp;(I) a designated State agency undergoes any change in the organizational structure of theagency that results in the creation of one or more new State agencies or departments or results in the merger of the designated State agency with one or more other State agencies or departments; and
 
 &emsp;(II) an agency (including an office or other unit) within the designated State agency was conducting a client assistance program before the change under the last sentence of subparagraph (A),
 
@@ -78,7 +78,7 @@ The Secretary shall prescribe regulations applicable to the client assistance pr
 
 There are authorized to be appropriated such sums as may be necessary for fiscal years 1999 through 2003 to carry out the provisions of this section.
 
-(Pub. L. 93–112, title I, §112, as added Pub. L. 105–220, title IV, §404, Aug. 7, 1998, 112 Stat. 1163; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §402(b)(9)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–413.)
+(Pub. L. 93–112, title I, §112, as added Pub. L. 105–220, title IV, §404, Aug. 7, 1998, 112 Stat. 1163;amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §402(b)(9)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–413.)
 
 #### References in Text
 
@@ -100,5 +100,5 @@ Another prior section 740, Pub. L. 93–112, title I, §120, Sept. 26, 1973, 87 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 717, 720, 721, 722, 725, 794e, 796, 796c, 2841 of this title; title 20 section 9271.
+This section is referred to in sections 717, 720, 721, 722, 725, 794e, 796, 796c, 2841 of this title; title 20 section 9271; title 42 section 1320b–20.
 

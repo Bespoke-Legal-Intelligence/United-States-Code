@@ -14,9 +14,3 @@ Minor changes of phraseology were made.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
 
-#### Cross References
-
-Classified information, disclosure by Government official, penalty for, see section 783 of Title 50, War and National Defense.
-
-Classified information, disclosure of, see section 798 of this title.
-

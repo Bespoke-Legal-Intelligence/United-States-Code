@@ -2,7 +2,7 @@
 
 #### (a) Widening of public highways, streets, or alleys; determination by executive agency head
 
-Whenever a State or political subdivision of a State makes application therefor in connection with an authorized widening of a public highway, street, or alley, the head of the executive agency having control over the affected real property of the United States may convey or otherwise transfer, with or without consideration, to such State or political subdivision for such highway, street, or alley widening purposes, such interest in such real property as he determines will not be adverse to the interests of the United States, subject to such terms and conditions as he deems necessary to protect the interests of the United States.
+Whenever a State or political subdivision of a State makes application therefor in connection with an authorized widening of a public highway, street, or alley, the head of the executive agency having control over the affected real property of the United States may convey orotherwise transfer, with or without consideration, to such State or political subdivision for such highway, street, or alley widening purposes, such interest in such real property as he determines will not be adverse to the interests of the United States, subject to such terms and conditions as he deems necessary to protect the interests of the United States.
 
 #### (b) “Executive agency” defined
 

@@ -122,11 +122,11 @@ The term “insect” means any of the numerous small invertebrate animals gener
 
 &emsp;&emsp;(D) its label does not bear the registration number assigned under section 136e of this title to each establishment in which it was produced;
 
-&emsp;&emsp;(E) any word, statement, or other information required by or under authority of this subchapter to appear on the label or labeling is not prominently placed thereon with such conspicuousness (as compared with other words, statements, designs, or graphic matter in the labeling) and in such terms as to render it likely to be read and understood by the ordinary individual under customary conditions of purchase and use;
+&emsp;&emsp;(E) any word, statement, or other information required by or under authority of thissubchapter to appear on the label or labeling is not prominently placed thereon with such conspicuousness (as compared with other words, statements, designs, or graphic matter in the labeling) and in such terms as to render it likely to be read and understood by the ordinary individual under customary conditions of purchase and use;
 
 &emsp;&emsp;(F) the labeling accompanying it does not contain directions for use which are necessary for effecting the purpose for which the product is intended and if complied with, together with any requirements imposed under section 136a(d) of this title, are adequate to protect health and the environment;
 
-&emsp;&emsp;(G) the label does not contain a warning or caution statement which may be necessary and if complied with, together with any requirements imposed under section 136a(d) ofthis title, is adequate to protect health and the environment; or
+&emsp;&emsp;(G) the label does not contain a warning or caution statement which may be necessary and if complied with, together with any requirements imposed under section 136a(d) of this title, is adequate to protect health and the environment; or
 
 &emsp;&emsp;(H) in the case of a pesticide not registered in accordance with section 136a of this title and intended for export, the label does not contain, in words prominently placed thereon with such conspicuousness (as compared with other words, statements, designs, or graphic matter in the labeling) as to render it likely to be noted by the ordinary individual under customary conditions of purchase and use, the following: “Not Registered for Use in the United States of America”.
 
@@ -176,7 +176,7 @@ The term “pesticide” means (1) any substance or mixture of substances intend
 
 #### (v) Plant regulator
 
-The term “plant regulator” means any substance or mixture of substances intended, through physiological action, for accelerating or retarding the rate of growth or rate of maturation, or for otherwise altering the behavior of plants or the produce thereof, but shall not include substances to the extent that they are intended as plant nutrients, trace elements, nutritional chemicals, plant inoculants, and soil amendments. Also, the term “plant regulator” shall not be required to include any of such of those nutrient mixtures or soil amendments as are commonly known as vitamin-hormone horticultural products, intended for improvement, maintenance, survival, health, and propagationof plants, and as are not for pest destruction and are nontoxic, nonpoisonous in the undiluted packaged concentration.
+The term “plant regulator” means any substance or mixture of substances intended, through physiological action, for accelerating or retarding the rate of growth or rate of maturation, or for otherwise altering the behavior of plants or the produce thereof, but shall not include substances to the extent that they are intended as plant nutrients, trace elements, nutritional chemicals, plant inoculants, and soil amendments. Also, the term “plant regulator” shall not be required to include any of such of those nutrient mixtures or soil amendments as are commonly known as vitamin-hormone horticultural products, intended for improvement, maintenance, survival, health, and propagation of plants, and as are not for pest destruction and are nontoxic, nonpoisonous in the undiluted packaged concentration.
 
 #### (w) Producer and produce
 
@@ -222,7 +222,7 @@ The term “to use any registered pesticide in a manner inconsistent with its la
 
 &emsp;&emsp;(A) has not been submitted to the Administrator; or
 
-&emsp;&emsp;(B) if submitted to the Administrator, the Administrator has determined must be resubmitted because it is not valid, complete, or adequate to make a determination under section 136a(c)(5) of this title and the regulations and guidelines issued under such section.
+&emsp;&emsp;(B) if submitted to the Administrator, the Administrator has determined must be resubmitted because it is not valid, complete, or adequate to make a determination undersection 136a(c)(5) of this title and the regulations and guidelines issued under such section.
 
 #### (2) Factors
 
@@ -300,7 +300,7 @@ The term “minor use” means the use of a pesticide on an animal, on a commerc
 
 #### (3) Included products
 
-&emsp;The term “antimicrobial pesticide” does include any other chemical sterilant product (other than liquid chemical sterilant products exempt under subsection (u) of this section), any other disinfectant product, any other industrial microbiocide product, and any otherpreservative product that is not excluded by paragraph (2).
+&emsp;The term “antimicrobial pesticide” does include any other chemical sterilant product (other than liquid chemical sterilant products exempt under subsection (u) of this section), any other disinfectant product, any other industrial microbiocide product, and any other preservative product that is not excluded by paragraph (2).
 
 #### (nn) Public health pesticide
 
@@ -318,7 +318,7 @@ The Endangered Species Act of 1973, referred to in subsec. (<i>l</i>), is Pub. L
 
 Section 321 of title 21, referred to in subsec. (u), was subsequently amended, and subsecs. (w) and (x) of section 321 no longer define the terms “new animal drug” and “animal feed”, respectively. However, such terms are defined elsewhere in that section.
 
-Section 27(b) of Federal Pesticide Act of 1978, referred to in subsec. (ee), is section 27(b) of Pub. L. 95–396, Sept. 30, 1978, 92 Stat. 841, which is set out as a note under section 136w–4 of this title.
+Section 27(b) of Federal Pesticide Act of 1978, referred to in subsec. (ee), is section 27(b) of Pub. L. 95–396, Sept. 30, 1978, 92 Stat. 841, which was formerly set out as a note under section 136w–4 of this title.
 
 #### Prior Provisions
 

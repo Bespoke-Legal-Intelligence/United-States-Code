@@ -18,7 +18,3 @@ Changes were made in phraseology.
 
 1994—Pub. L. 103–322 substituted “shall be fined under this title or not more than the amount so embezzled, whichever is greater, or imprisoned” for “shall be fined not more than the amount so embezzled or imprisoned”.
 
-#### Cross References
-
-Depositaries of public moneys and financial agents of Government, see section 90 of Title 12, Banks and Banking.
-

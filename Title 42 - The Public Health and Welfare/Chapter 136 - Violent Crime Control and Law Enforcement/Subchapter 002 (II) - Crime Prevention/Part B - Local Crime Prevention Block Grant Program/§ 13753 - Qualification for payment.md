@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Attorney General shall issue regulations establishing procedures under which eligibleunits of general local government are required to provide notice to the Attorney General of the units’ proposed use of assistance under this part.
+The Attorney General shall issue regulations establishing procedures under which eligible units of general local government are required to provide notice to the Attorney General of the units’ proposed use of assistance under this part.
 
 #### (b) General requirements for qualification
 

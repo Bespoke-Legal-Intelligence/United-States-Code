@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) use all grant funds received under this part for the second 3-year grant period to provide expanded services by—
 
-&emsp;&emsp;&emsp;(i) increasing the number of students, schools or school districts served by the courses of instruction assisted under this part in the previous fiscal year;
+&emsp;&emsp;&emsp;(i) increasing the number of students, schools or school districts served by thecourses of instruction assisted under this part in the previous fiscal year;
 
 &emsp;&emsp;&emsp;(ii) providing new courses of instruction; and
 

@@ -18,7 +18,3 @@ Administration of program of Federal Crop Insurance Corporation transferred to S
 
 Wartime consolidation of Federal Crop Insurance Corporation into Agricultural Conservation and Adjustment Administration, see note set out under section 1503 of this title.
 
-#### Federal Rules of Civil Procedure
-
-Attachment and garnishment, see rules 64 and 70, Title 28, Appendix, Judiciary and Judicial Procedure.
-

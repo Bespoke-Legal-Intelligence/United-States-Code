@@ -2,7 +2,7 @@
 
 (a) The Secretary of the Treasury designates depositaries of money as provided in this section and under other law.
 
-(b) When necessary to carry out the business of the United States Government and under conditions the Secretary decides are necessary, theSecretary may designate depositaries in foreign countries and in territories and possessions of the United States to receive deposits of public money. The Secretary shall give preference to United States financial institutions the Secretary decides are safe and able to give the service required.
+(b) When necessary to carry out the business of the United States Government and under conditions the Secretary decides are necessary, the Secretary may designate depositaries in foreign countries and in territories and possessions of the United States to receive deposits of public money. The Secretary shall give preference to United States financial institutions the Secretary decides are safe and able to give the service required.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 949.)
 

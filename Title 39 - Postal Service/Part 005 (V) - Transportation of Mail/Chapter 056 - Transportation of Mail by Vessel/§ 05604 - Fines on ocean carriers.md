@@ -1,6 +1,6 @@
 ### §5604. Fines on ocean carriers
 
-The Postal Service may impose or remit fines on carriers transporting mail by vessel on routes extending beyond the borders of the United States for—
+The Postal Service may impose or remit fines on carriers transporting mail by vessel on routesextending beyond the borders of the United States for—
 
 &emsp;(1) unreasonable or unnecessary delay to the mails; and
 

@@ -1,6 +1,6 @@
 ### §1404. Change of venue
 
-(a) For the convenience of parties and witnesses, in the interest of justice, a district court may transfer any civil action to any other district or division where it might have been brought.
+(a) For the convenience of parties and witnesses, in the interest of justice, a district courtmay transfer any civil action to any other district or division where it might have been brought.
 
 (b) Upon motion, consent or stipulation of all parties, any action, suit or proceeding of a civil nature or any motion or hearing thereof, may be transferred, in the discretion of the court, from the division in which pending to any other division in the same district. Transfer of proceedings in rem brought by or on behalf of the United States may be transferred under this section without the consent of the United States where all other parties request transfer.
 
@@ -26,9 +26,9 @@ Subsection (b) is based upon section 163 of title 28, U.S.C., 1940 ed., which ap
 
 #### Amendments
 
-1996—Subsec. (d). Pub. L. 104–317 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “As used in this section, ‘district court’ includes the United States District Court for the District of the Canal Zone; and ‘district’ includes the territorial jurisdiction of that court.”
+<b>1996</b>—Subsec. (d). Pub. L. 104–317 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “As used in this section, ‘district court’ includes the United States District Court for the District of the Canal Zone; and ‘district’ includes the territorial jurisdiction of that court.”
 
-1962—Subsec. (d). Pub. L. 87–845 added subsec. (d).
+<b>1962</b>—Subsec. (d). Pub. L. 87–845 added subsec. (d).
 
 #### Effective Date of 1996 Amendment
 
@@ -38,15 +38,7 @@ Section 610(c) of Pub. L. 104–317 provided that: “The amendments made by thi
 
 Amendment by Pub. L. 87–845 effective Jan. 2, 1963, see section 25 of Pub. L. 87–845, set out as a note under section 14 of Title 18, Crimes and Criminal Procedure.
 
-#### Federal Rules of Criminal Procedure
-
-Venue and transfer of criminal prosecutions, see rule 18 et seq., Title 18, Appendix, Crimes and Criminal Procedure.
-
-#### Cross References
-
-Equal employment opportunity provisions, judicial district of principal office as district in which action might have been brought, see section 2000e–5 of Title 42, The Public Health and Welfare.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1407 of this title; title 42 section 2000e–5.
+This section is referred to in section 1407 of this title; title 42 section 2000e–5; title 47 section 325.
 

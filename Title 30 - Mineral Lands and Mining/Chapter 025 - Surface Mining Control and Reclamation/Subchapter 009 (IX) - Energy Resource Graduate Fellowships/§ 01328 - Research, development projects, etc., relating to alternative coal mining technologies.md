@@ -30,6 +30,10 @@ Subject to the patent provisions of section 306(d) of this Act,<sup>1</sup> all 
 
 Section 306(d) of this Act, referred to in subsec. (e), was classified to section 1226(d) of this title and was omitted from the Code pursuant to the replacement of subchapter III (§1221 et seq.) of this chapter by Pub. L. 98–409. See section 1226(c) of this title.
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (d) of this section relating to requirement that on December 31 of each calendar year, the Secretary report to Congress on research studies, surveys, experiments or demonstration projects, conducted or financed under this chapter, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 109 of House Document No. 103–7.
+
 #### Transfer of Functions
 
 “Secretary of the Interior” substituted for “Secretary of Energy” in subsecs. (a) to (d) pursuant to section 100 of Pub. L. 97–257, which is set out as a note under section 7152 of Title 42, The Public Health and Welfare, and which transferred to, and vested in, Secretary of the Interior all functions vested in, or delegated to, Secretary of Energy and Department of Energy under this section.

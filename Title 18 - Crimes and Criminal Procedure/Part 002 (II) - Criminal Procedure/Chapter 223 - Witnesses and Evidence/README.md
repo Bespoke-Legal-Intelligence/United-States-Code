@@ -7,8 +7,8 @@
 | [3483\.](%C2%A7%2003483%20-%20Indigent%20defendants%2C%20process%20to%20produce%20evidence%E2%80%94%28Rule%29.md) | Indigent defendants, process to produce evidence—Rule. |
 | [3484\.](%C2%A7%2003484%20-%20Subpoenas%E2%80%94%28Rule%29.md) | Subpoenas—Rule. |
 | [3485\.](%C2%A7%2003485%20-%20Expert%20witnesses%E2%80%94%28Rule%29.md) | Expert witnesses—Rule. |
-| [3486\.](%C2%A7%2003486%20-%20Administrative%20subpoenas%20in%20Federal%20health%20care%20investigations.md) | Administrative subpoenas in Federal health care investigations. |
-| [3486A.](%C2%A7%2003486A%20-%20Administrative%20subpoenas%20in%20cases%20involving%20child%20abuse%20and%20child%20sexual%20exploitation.md) | Administrative subpoenas in cases involving child abuse and child sexual exploitation. |
+| [3486\.](%C2%A7%2003486%20-%20Administrative%20subpoenas.md) | Administrative subpoenas. |
+| \[3486A. | Repealed.\] |
 | [3487\.](%C2%A7%2003487%20-%20Refusal%20to%20pay%20as%20evidence%20of%20embezzlement.md) | Refusal to pay as evidence of embezzlement. |
 | [3488\.](%C2%A7%2003488%20-%20Intoxicating%20liquor%20in%20Indian%20country%20as%20evidence%20of%20unlawful%20introduction.md) | Intoxicating liquor in Indian country as evidence of unlawful introduction. |
 | [3489\.](%C2%A7%2003489%20-%20Discovery%20and%20inspection%E2%80%94%28Rule%29.md) | Discovery and inspection—Rule. |
@@ -37,6 +37,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2000—Pub. L. 106–544, §5(b)(2), (3), Dec. 19, 2000, 114 Stat. 2718, struck out “in Federal health care investigations” after “subpoenas” in item 3486 and struck out item 3486A “Administrative subpoenas in cases involving child abuse and child sexual exploitation”.
 
 1998—Pub. L. 105–314, title VI, §606(b), Oct. 30, 1998, 112 Stat. 2985, added items 3486 and 3486A and struck out former item 3486 “Authorized investigative demand procedures”.
 
@@ -74,8 +76,8 @@ Pub. L. 91–452, title V, §§501–504, Oct. 15, 1970, 84 Stat. 933, which aut
 - [&sect; 03483 - Indigent defendants, process to produce evidence&#8212;(Rule)](%C2%A7%2003483%20-%20Indigent%20defendants%2C%20process%20to%20produce%20evidence%E2%80%94%28Rule%29.md)
 - [&sect; 03484 - Subpoenas&#8212;(Rule)](%C2%A7%2003484%20-%20Subpoenas%E2%80%94%28Rule%29.md)
 - [&sect; 03485 - Expert witnesses&#8212;(Rule)](%C2%A7%2003485%20-%20Expert%20witnesses%E2%80%94%28Rule%29.md)
-- [&sect; 03486 - Administrative subpoenas in Federal health care investigations](%C2%A7%2003486%20-%20Administrative%20subpoenas%20in%20Federal%20health%20care%20investigations.md)
-- [&sect; 03486A - Administrative subpoenas in cases involving child abuse and child sexual exploitation](%C2%A7%2003486A%20-%20Administrative%20subpoenas%20in%20cases%20involving%20child%20abuse%20and%20child%20sexual%20exploitation.md)
+- [&sect; 03486 - Administrative subpoenas](%C2%A7%2003486%20-%20Administrative%20subpoenas.md)
+- [&sect; 03486A - Repealed. Pub. L. 106&#8211;544, &sect;5(b)(3), Dec. 19, 2000, 114 Stat. 2718](%C2%A7%2003486A%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93544%2C%20%C2%A75%28b%29%283%29%2C%20Dec.%2019%2C%202000%2C%20114%20Stat.%202718.md)
 - [&sect; 03487 - Refusal to pay as evidence of embezzlement](%C2%A7%2003487%20-%20Refusal%20to%20pay%20as%20evidence%20of%20embezzlement.md)
 - [&sect; 03488 - Intoxicating liquor in Indian country as evidence of unlawful introduction](%C2%A7%2003488%20-%20Intoxicating%20liquor%20in%20Indian%20country%20as%20evidence%20of%20unlawful%20introduction.md)
 - [&sect; 03489 - Discovery and inspection&#8212;(Rule)](%C2%A7%2003489%20-%20Discovery%20and%20inspection%E2%80%94%28Rule%29.md)

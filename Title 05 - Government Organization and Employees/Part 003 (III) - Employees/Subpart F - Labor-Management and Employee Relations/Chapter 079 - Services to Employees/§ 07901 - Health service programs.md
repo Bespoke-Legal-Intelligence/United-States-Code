@@ -1,6 +1,6 @@
 ### §7901. Health service programs
 
-(a) The head of each agency of the Government of the United States may establish, within the limits of appropriations available, a health service program to promote and maintain the physical and mental fitness of employees under his jurisdiction.
+(a) The head of each agency of the Government of the United States may establish, withinthe limits of appropriations available, a health service program to promote and maintain the physical and mental fitness of employees under his jurisdiction.
 
 (b) A health service program may be established by contract or otherwise, but only—
 

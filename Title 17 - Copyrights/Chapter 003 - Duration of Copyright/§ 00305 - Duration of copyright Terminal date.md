@@ -16,9 +16,3 @@ The terminal date section would change the duration of subsisting copyrights und
 
 A special situation arises with respect to subsisting copyrights whose first 28-year term expires during the first year after the act comes into effect. As already explained in connection with section 304(b), if a renewal registration for a copyright of this sort is made before the effective date \[Jan. 1, 1978\], the total term is extended to 75 years without the need for a further renewal registration. But, if renewal has not yet been made when the act becomes effective \[Jan. 1, 1978\], the period for renewal registration may in some cases be extended. If, as the bill provides, the act becomes effective on January 1, 1978, a copyright that was originally secured on September 1, 1950, could have been renewed by virtue of the present statute between September 1, 1977, and December 31, 1977; if not, it can still be renewed under section 304(a) of the new act between January 1, 1978, and December 31, 1978.
 
-#### Cross References
-
-Duration and renewal of registration of trademarks, see sections 1058 and 1059 of Title 15, Commerce and Trade.
-
-Duration of term of patents, see section 154 of Title 35, Patents.
-

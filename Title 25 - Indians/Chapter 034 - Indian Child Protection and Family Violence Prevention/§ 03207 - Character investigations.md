@@ -12,7 +12,7 @@ The Secretary and the Secretary of Health and Human Services shall—
 
 #### (b) Criminal records
 
-The minimum standards of character that are to be prescribed under this section shall ensure that none of the individuals appointed to positions described in subsection (a) of this section have been found guilty of, or entered a plea ofnolo contendere or guilty to, any offense under Federal, State, or tribal law involving crimes of violence; sexual assault, molestation, exploitation, contact or prostitution; or crimes against persons.
+The minimum standards of character that are to be prescribed under this section shall ensure that none of the individuals appointed to positions described in subsection (a) of this section have been found guilty of, or entered a plea of nolo contendere or guilty to, any felonious offense, or any of two or more misdemeanor offenses, under Federal, State, or tribal law involving crimes of violence; sexual assault, molestation, exploitation, contact or prostitution; crimes against persons; or offenses committed against children.
 
 #### (c) Investigations by Indian tribes and tribal organizations
 
@@ -22,11 +22,15 @@ Each Indian tribe or tribal organization that receives funds under the Indian Se
 
 &emsp;(2) employ individuals in those positions only if the individuals meet standards of character, no less stringent than those prescribed under subsection (a) of this section, as the Indian tribe or tribal organization shall establish.
 
-(Pub. L. 101–630, title IV, §408, Nov. 28, 1990, 104 Stat. 4551.)
+(Pub. L. 101–630, title IV, §408, Nov. 28, 1990, 104 Stat. 4551; Pub. L. 106–568, title VIII, §814, Dec. 27, 2000, 114 Stat. 2918.)
 
 #### References in Text
 
 The Indian Self-Determination and Education Assistance Act, referred to in subsec. (c), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
 The Tribally Controlled Schools Act of 1988, referred to in subsec. (c), is part B (§§5201–5212) of title V of Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 385, which is classified generally to chapter 27 (§2501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
+
+#### Amendments
+
+2000—Subsec. (b). Pub. L. 106–568 substituted “any felonious offense, or any of two or more misdemeanor offenses,” for “any offense” and “crimes against persons; or offenses committed against children” for “or crimes against persons”.
 

@@ -10,7 +10,3 @@ Based on title 14, U.S.C., 1946 ed., §352 (Feb. 19, 1941, ch. 8, title III, §3
 
 Said section has been divided. The last sentence is placed in this section. The first two sentences are placed in section 891 of this title. 81st Congress, House Report No. 557.
 
-#### Cross References
-
-Penalty for unauthorized wearing of uniform of armed forces or auxiliary, see section 702 of Title 18, Crimes and Criminal Procedure.
-

@@ -1,6 +1,6 @@
 ### §715. Audit of accounts and operations of the District of Columbia government
 
-(a) In addition to the audit carried out under section 455 of the District of Columbia Home Rule Act (Public Law 93–198, 87 Stat. 803; D.C.Code, §47–117), the Comptroller General each year shall audit the accounts and operations of the District of Columbia government. An audit shall be carried out according to principles, under regulations, and in a way the Comptroller General prescribes. When prescribing the procedures to follow and the extent of the inspection of records, the Comptroller General shall consider generally accepted principles of auditing, including the effectiveness of accounting organizations and systems, internal audit and control, and related administrative practices.
+(a) In addition to the audit carried out under section 455 of the District of Columbia Home Rule Act (Public Law 93–198, 87 Stat. 803; D.C. Code, §47–117), the Comptroller General each year shall audit the accounts and operations of the District of Columbia government. An audit shall be carried out according to principles, under regulations, and in a way the Comptroller General prescribes. When prescribing the procedures to follow and the extent of the inspection of records, the Comptroller General shall consider generally accepted principles of auditing, including the effectiveness of accounting organizations and systems, internal audit and control, and related administrative practices.
 
 (b) The Comptroller General shall submit each audit report to Congress and (other than the audit reports of the District of Columbia Courts) the Mayor and Council of the District of Columbia. The report shall include the scope of an audit, information the Comptroller General considers necessary to keep Congress, the Mayor, and the Council informed of operations audited, and recommendations the Comptroller General considers advisable.
 
@@ -50,11 +50,7 @@ In subsection (b), the words “of the District of Columbia” are added for cla
 
 In subsection (c)(2), the words “After the Council receives the statement of the Mayor” are substituted for “After the Mayor has had an opportunity to be heard”, and the words “of the Comptroller General” are added, for clarity. The word “thereto” is omitted as surplus.
 
-In subsection (d), the words “To carry out this section” are added for clarity. The words “records and property of or used by . . . shall be made available to the Comptroller General” are substituted for 31:61(a)(last sentence 1st–30th words) for consistency in the revised title and with other titles of the United States Code and to eliminate unnecessary words. The words “of Columbia government” are added for consistency. The words “The Mayor shall provide facilities to carry out an audit” are substituted for 31:61(a)(last sentence words after last comma) for clarity.
-
-#### Codification
-
-Section is also set out in D.C. Code, §47–118.1.
+In subsection (d), the words “To carry out this section” are added for clarity. The words “records and property of or used by . . . shall be made available to the Comptroller General” are substituted for 31:61(a)(last sentence 1st–30th words) for consistency in the revised title and with other titles of the UnitedStates Code and to eliminate unnecessary words. The words “of Columbia government” are added for consistency. The words “The Mayor shall provide facilities to carry out an audit” are substituted for 31:61(a)(last sentence words after last comma) for clarity.
 
 #### Amendments
 
@@ -71,4 +67,12 @@ Amendment by Pub. L. 105–33 effective Oct. 1, 1997, except as otherwise provid
 #### Effective Date of 1991 Amendment
 
 Section 2(e) of Pub. L. 102–102 provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 17, 1991\].”
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the requirement to submit annual audit reports to Congress under subsec. (b) of this section is listed on page 4), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set out as notes under section 1113 of this title.
+
+#### Abolition of House Committee on the District of Columbia
+
+Committee on the District of Columbia of House of Representatives abolished by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. References to Committee on the District of Columbia treated as referring to Committee on Government Reform and Oversight of House of Representatives, see section 1(b) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 

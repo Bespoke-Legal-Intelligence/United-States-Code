@@ -26,13 +26,13 @@ The provisions of subsection (a) of section 78t of this title shall not apply to
 
 #### (g) SEC study of unsafe or unsound practices
 
-Not later than twelve months after December 30, 1970, the Commission shall compile a list ofunsafe or unsound practices by members of SIPC in conducting their business and report to the Congress (1) the steps being taken under the authority of existing law to eliminate those practices and (2) recommendations concerning additional legislation which may be needed to eliminate those unsafe or unsound practices.
+Not later than twelve months after December 30, 1970, the Commission shall compile a list of unsafe or unsound practices by members of SIPC in conducting their business and report to the Congress (1) the steps being taken under the authority of existing law to eliminate those practices and (2) recommendations concerning additional legislation which may be needed to eliminate those unsafe or unsound practices.
 
 (Pub. L. 91–598, §15, formerly §11, Dec. 30, 1970, 84 Stat. 1655; renumbered §15 and amended Pub. L. 95–283, §§9, 14, May 21, 1978, 92 Stat. 260, 270; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) to (f), was in the original “this Act”, meaning Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636. For complete classification of this Act to the Code, see Tables.
+This chapter, referred to in subsecs. (a) to (f), was in the original “this Act”, meaning Pub. L. 91–598, Dec. 30,1970, 84 Stat. 1636. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 

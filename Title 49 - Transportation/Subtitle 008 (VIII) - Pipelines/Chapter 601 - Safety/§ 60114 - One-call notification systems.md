@@ -28,7 +28,7 @@ Marking Facilities.—On notification by an operator of a damage prevention prog
 
 (d) <sup>1</sup>
 
-Relationship to Other Laws.—This section and regulations prescribed under this section do not affect the liability established under a law of the United States or a State for damage caused by an activity described in subsection (a)(2) of this section.
+Relationship to Other Laws.—This section and regulations prescribed under this section do not affect the liability established under a law of the United States or a State for damagecaused by an activity described in subsection (a)(2) of this section.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1318; Pub. L. 104–287, §5(91), Oct. 11, 1996, 110 Stat. 3398; Pub. L. 104–304, §20(d), Oct. 12, 1996, 110 Stat. 3804.)
 

@@ -12,7 +12,3 @@ This section was enlarged to provide that the Coast Guard, as well as personnel 
 
 Changes were made in phraseology. 81st Congress, House Report No. 557.
 
-#### Cross References
-
-Authorization to furnish clothing, see section 88 of this title.
-

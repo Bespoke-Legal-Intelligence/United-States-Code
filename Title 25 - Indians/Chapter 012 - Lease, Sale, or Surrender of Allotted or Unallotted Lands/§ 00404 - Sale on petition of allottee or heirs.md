@@ -12,7 +12,3 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 Special provisions for sale of interests of Indian minors in lands of the Yakima Indian reservation, in the State of Washington, whether by direct allotment or by inheritance, were made by act Mar. 27, 1908, ch. 107, 35 Stat. 49.
 
-#### Cross References
-
-Sale of land of deceased allottee, see section 372 of this title.
-

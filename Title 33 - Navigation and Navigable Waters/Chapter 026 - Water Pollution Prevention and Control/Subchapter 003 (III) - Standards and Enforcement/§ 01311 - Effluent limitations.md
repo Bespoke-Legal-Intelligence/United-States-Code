@@ -32,7 +32,7 @@ In order to carry out the objective of this chapter there shall be achieved—
 
 #### (c) Modification of timetable
 
-The Administrator may modify the requirements of subsection (b)(2)(A) of this section withrespect to any point source for which a permit application is filed after July 1, 1977, upon a showing by the owner or operator of such point source satisfactory to the Administrator that such modified requirements (1) will represent the maximum use of technology within the economic capability of the owner or operator; and (2) will result in reasonable further progress toward the elimination of the discharge of pollutants.
+The Administrator may modify the requirements of subsection (b)(2)(A) of this section with respect to any point source for which a permit application is filed after July 1, 1977, upon a showing by the owner or operator of such point source satisfactory to the Administrator that such modified requirements (1) will represent the maximum use of technology within the economic capability of the owner or operator; and (2) will result in reasonable further progress toward the elimination of the discharge of pollutants.
 
 #### (d) Review and revision of effluent limitations
 
@@ -102,7 +102,7 @@ Notwithstanding any other provisions of this chapter it shall be unlawful to dis
 
 #### (D) Deadline for approval of petition
 
-&emsp;&emsp;A decision to add a pollutant to the list of pollutants for which modifications under this subsection are authorized must be made within 270 days after the date of promulgation of an applicable effluent guideline under section 1314 of this title.
+&emsp;&emsp;A decision to add a pollutant to the list of pollutants for which modifications underthis subsection are authorized must be made within 270 days after the date of promulgation of an applicable effluent guideline under section 1314 of this title.
 
 #### (E) Burden of proof
 
@@ -134,7 +134,7 @@ The Administrator, with the concurrence of the State, may issue a permit under s
 
 &emsp;(9) the applicant at the time such modification becomes effective will be discharging effluent which has received at least primary or equivalent treatment and which meets the criteria established under section 1314(a)(1) of this title after initial mixing in the waters surrounding or adjacent to the point at which such effluent is discharged.
 
-> For the purposes of this subsection the phrase “the discharge of any pollutant into marine waters” refers to a discharge into deep waters of the territorial sea or the waters of the contiguous zone, or into saline estuarine waters where there is strong tidal movement and other hydrological and geological characteristics which the Administrator determines necessary to allow compliance with paragraph (2) of this subsection, and section 1251(a)(2) of this title. For the purposes of paragraph (9), “primary or equivalent treatment” means treatment by screening, sedimentation, and skimming adequate to remove at least 30 percent of the biological oxygen demanding material and of the suspended solids in the treatment works influent, and disinfection, where appropriate. A municipality which applies secondary treatment shall be eligible to receive a permit pursuant to this subsection which modifies the requirements of subsection (b)(1)(B) of this section with respect to the discharge of any pollutant from any treatment works owned by such municipality into marine waters. No permit issued under this subsection shall authorize the discharge of sewage sludge into marine waters. In order for a permit to be issued under this subsection for the discharge of a pollutant into marine waters, such marine waters must exhibit characteristics assuring that water providing dilution does not contain significant amounts of previously discharged effluent from such treatment works. No permit issued under this subsection shall authorize the discharge of any pollutant into saline estuarine waters which at the time of application do not support a balanced indigenous population of shellfish, fish and wildlife, or allow recreation in and on the waters or which exhibit ambient water quality below applicable water quality standards adopted for the protection of public water supplies, shellfish, fish andwildlife or recreational activities or such other standards necessary to assure support and protection of such uses. The prohibition contained in the preceding sentence shall apply without regard to the presence or absence of a causal relationship between such characteristics and the applicant's current or proposed discharge. Notwithstanding any other provisions of this subsection, no permit may be issued under this subsection for discharge of a pollutant into the New York Bight Apex consisting of the ocean waters of the Atlantic Ocean westward of 73 degrees 30 minutes west longitude and northward of 40 degrees 10 minutes north latitude.
+> For the purposes of this subsection the phrase “the discharge of any pollutant into marine waters” refers to a discharge into deep waters of the territorial sea or the waters of the contiguous zone, or into saline estuarine waters where there is strong tidal movement and other hydrological and geological characteristics which the Administrator determines necessary to allow compliance with paragraph (2) of this subsection, and section 1251(a)(2) of this title. For the purposes of paragraph (9), “primary or equivalent treatment” means treatment by screening, sedimentation, and skimming adequate to remove at least 30 percent of the biological oxygen demanding material and of the suspended solids in the treatment works influent, and disinfection, where appropriate. A municipality which applies secondary treatment shall be eligible to receive a permit pursuant to this subsection which modifies the requirements of subsection (b)(1)(B) of this section with respect to the discharge of any pollutant from any treatment works owned by such municipality into marine waters. No permit issued under this subsection shall authorize the discharge of sewage sludge into marine waters. In order for a permit to be issued under this subsection for the discharge of a pollutant into marine waters, such marine waters must exhibit characteristics assuring that water providing dilution does not contain significant amounts of previously discharged effluent from such treatment works. No permit issued under this subsection shall authorize the discharge of any pollutant into saline estuarine waters which at the time of application do not support a balanced indigenous population of shellfish, fish and wildlife, or allow recreation in and on the waters or which exhibit ambient water quality below applicable water quality standards adopted for the protection of public water supplies, shellfish, fish and wildlife or recreational activities or such other standards necessary to assure support and protection of such uses. The prohibition contained in the preceding sentence shall apply without regard to the presence or absence of a causal relationship between such characteristics and the applicant's current or proposed discharge. Notwithstanding any other provisions of this subsection, no permit may be issued under this subsection for discharge of a pollutant into the New York Bight Apex consisting of the ocean waters of the Atlantic Ocean westward of 73 degrees 30 minutes west longitude and northward of 40 degrees 10 minutes north latitude.
 
 #### (i) Municipal time extensions
 
@@ -214,9 +214,9 @@ Other than as provided in subsection (n) of this section, the Administrator may 
 
 #### (m) Modification of effluent limitation requirements for point sources
 
-(1) The Administrator, with the concurrence of the State, may issue a permit under section 1342of this title which modifies the requirements of subsections (b)(1)(A) and (b)(2)(E) of this section, and of section 1343 of this title, with respect to effluent limitations to the extent such limitations relate to biochemical oxygen demand and pH from discharges by an industrial discharger in such State into deep waters of the territorial seas, if the applicant demonstrates and the Administrator finds that—
+(1) The Administrator, with the concurrence of the State, may issue a permit under section 1342 of this title which modifies the requirements of subsections (b)(1)(A) and (b)(2)(E) of this section, and of section 1343 of this title, with respect to effluent limitations to the extent such limitations relate to biochemical oxygen demand and pH from discharges by an industrial discharger in such State into deep waters of the territorial seas, if the applicant demonstrates and the Administrator finds that—
 
-&emsp;(A) the facility for which modification is sought is covered at the time of the enactment of this subsection by National Pollutant Discharge Elimination System permit number CA0005894 or CA0005282;
+&emsp;(A) the facility for which modification is sought is covered at the time of the enactmentof this subsection by National Pollutant Discharge Elimination System permit number CA0005894 or CA0005282;
 
 &emsp;(B) the energy and environmental costs of meeting such requirements of subsections (b)(1)(A) and (b)(2)(E) of this section and section 1343 of this title exceed by an unreasonable amount the benefits to be obtained, including the objectives of this chapter;
 
@@ -260,7 +260,7 @@ Other than as provided in subsection (n) of this section, the Administrator may 
 
 #### (2) Time limit for applications
 
-&emsp;An application for an alternative requirement which modifies the requirements of aneffluent limitation or pretreatment standard under this subsection must be submitted to the Administrator within 180 days after the date on which such limitation or standard is established or revised, as the case may be.
+&emsp;An application for an alternative requirement which modifies the requirements of an effluent limitation or pretreatment standard under this subsection must be submitted to the Administrator within 180 days after the date on which such limitation or standard is established or revised, as the case may be.
 
 #### (3) Time limit for decision
 
@@ -455,15 +455,11 @@ Pub. L. 98–67, title II, §214(g), Aug. 5, 1983, 97 Stat. 393, as amended by P
 
 #### Certain Municipal Compliance Deadlines Unaffected; Exception
 
-Section 21(a) of Pub. L. 97–117 provided in part that: “The amendment made by this subsection \[amending this section\] shall not be interpreted or applied to extend the date for compliance with section 301(b)(1)(B) or (C) of the Federal Water Pollution Control Act \[33 U.S.C. 1311(b)(1)(B), (C)\] beyond schedules for compliance in effect as of the date of enactment of this Act \[Dec. 29, 1981\], except in cases where reductions in the amount of financial assistance under this Act \[Pub. L. 97–117, see Short Title of 1981 Amendment note set out under section 1251 of this title\] or changed conditions affecting the rate of construction beyond the control of the owner or operator will make it impossible to complete construction by July 1, 1983.”
+Section 21(a) of Pub. L. 97–117 provided in part that: “The amendment made by this subsection \[amending this section\] shall not be interpreted or applied to extend the date for compliance with section 301(b)(1)(B) or (C) of the Federal Water Pollution Control Act \[33 U.S.C. 1311(b)(1)(B), (C)\] beyond schedules for compliance in effect as of the date of enactment of this Act \[Dec. 29, 1981\], except in cases where reductions in the amount of financial assistance under this Act \[Pub. L. 97–117, see Short Title of 1981 Amendment note set outunder section 1251 of this title\] or changed conditions affecting the rate of construction beyond the control of the owner or operator will make it impossible to complete construction by July 1, 1983.”
 
-#### Territorial Sea of United States
+#### Territorial Sea and Contiguous Zone of United States
 
-For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
-
-#### Contiguous Zone of United States
-
-For extension of contiguous zone of United States, see Proc. No. 7219, Sept. 2, 1999, 64 F.R. 48701, set out as a note under section 1331 of Title 43, Public Lands.
+For extension of territorial sea and contiguous zone of United States, see Proc. No. 5928 and Proc. No. 7219, respectively, set out as notes under section 1331 of Title 43, Public Lands.
 
 #### Section Referred to in Other Sections
 

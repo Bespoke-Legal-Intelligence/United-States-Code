@@ -38,7 +38,7 @@ Subject to subsection (f) of this section, the Federal Fund may only be used by 
 
 #### (e) Ownership of Federal Fund
 
-The Federal Fund, and any nonliquid asset (such as a building or equipment) developed or purchased by the guaranty agency in whole or in part with Federal reserve funds, regardless of who holds or controls the Federal reserve funds or such asset, shall be considered to be the property of the United States, prorated based on the percentage of such asset developed or purchased with Federal reserve funds, which property shall be used in the operation of the program authorized by this part, as provided in subsection (d) of this section. The Secretary may restrict or regulate the use of such asset only to the extent necessary to reasonably protect the Secretary's prorated share of the value of such asset. The Secretary may direct a guaranty agency, or such agency's officers or directors, to cease any activity involving expenditures, use, or transfer of the Federal Fund administered by the guaranty agency that the Secretary determines is a misapplication, misuse, or improper expenditure of the Federal Fund or the Secretary's share of such asset.
+The Federal Fund, and any nonliquid asset (such as a building or equipment) developed or purchased by the guaranty agency in whole or in part with Federal reserve funds, regardless of who holds or controls the Federal reserve funds or such asset, shall be considered to be the property of the United States, prorated based on the percentage of such asset developed or purchasedwith Federal reserve funds, which property shall be used in the operation of the program authorized by this part, as provided in subsection (d) of this section. The Secretary may restrict or regulate the use of such asset only to the extent necessary to reasonably protect the Secretary's prorated share of the value of such asset. The Secretary may direct a guaranty agency, or such agency's officers or directors, to cease any activity involving expenditures, use, or transfer of the Federal Fund administered by the guaranty agency that the Secretary determines is a misapplication, misuse, or improper expenditure of the Federal Fund or the Secretary's share of such asset.
 
 #### (f) Transition
 
@@ -90,7 +90,7 @@ The Federal Fund, and any nonliquid asset (such as a building or equipment) deve
 
 #### (B) Repayment of income on transferred funds
 
-&emsp;&emsp;All repayments made to the Federal Fund during the 6th, 7th, and 8th years following the establishment of the Operating Fund of interest that was transferred shall includethe sums transferred plus any income earned from the investment of the sums transferred after the 5th year.
+&emsp;&emsp;All repayments made to the Federal Fund during the 6th, 7th, and 8th years following the establishment of the Operating Fund of interest that was transferred shall include the sums transferred plus any income earned from the investment of the sums transferred after the 5th year.
 
 #### (7) Investment of Federal funds
 
@@ -98,7 +98,7 @@ The Federal Fund, and any nonliquid asset (such as a building or equipment) deve
 
 #### (8) Special rule
 
-&emsp;In calculating the minimum reserve level required by section 1078(c)(9)(A) of this title, the Secretary shall include all amounts owed to the Federal Fund by the guaranty agency in the calculation.
+&emsp;In calculating the minimum reserve level required by section 1078(c)(9)(A) of this title, theSecretary shall include all amounts owed to the Federal Fund by the guaranty agency in the calculation.
 
 (Pub. L. 89–329, title IV, §422A, as added Pub. L. 105–244, title IV, §413(a), Oct. 7, 1998, 112 Stat. 1674.)
 

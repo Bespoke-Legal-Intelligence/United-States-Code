@@ -8,7 +8,7 @@ The purposes of this chapter are—
 
 &emsp;&emsp;(A) the strengthening of community capabilities for planning and coordinating the use of a broad range of Federal, State, local, and other assistance (including private resources) related to the elimination of poverty, so that this assistance can be used in a manner responsive to local needs and conditions;
 
-&emsp;&emsp;(B) the organization of a range of services related to the needs of low-income families and individuals, so that these services mayhave a measurable and potentially major impact on the causes of poverty in the community and may help the families and individuals to achieve self-sufficiency;
+&emsp;&emsp;(B) the organization of a range of services related to the needs of low-income families and individuals, so that these services may have a measurable and potentially major impact on the causes of poverty in the community and may help the families and individuals to achieve self-sufficiency;
 
 &emsp;&emsp;(C) the greater use of innovative and effective community-based approaches to attacking the causes and effects of poverty and of community breakdown;
 

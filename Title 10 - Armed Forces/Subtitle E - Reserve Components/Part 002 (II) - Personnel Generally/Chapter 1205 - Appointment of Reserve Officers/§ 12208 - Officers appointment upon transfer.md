@@ -54,7 +54,3 @@ The Military Selective Service Act, referred to in subsec. (a), is act June 24, 
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
 
-#### Cross References
-
-Active duty agreements, see sections 12311, 12312 of this title.
-

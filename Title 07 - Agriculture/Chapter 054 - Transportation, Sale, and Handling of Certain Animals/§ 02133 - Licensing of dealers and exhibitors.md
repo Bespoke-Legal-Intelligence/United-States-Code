@@ -14,5 +14,5 @@ Amendment by Pub. L. 91–579 effective one year after Dec. 24, 1970, see sectio
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2136, 2137, 2138, 2139, 2155 of this title.
+This section is referred to in sections 2136, 2137, 2138, 2139 of this title.
 

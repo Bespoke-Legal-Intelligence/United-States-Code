@@ -2,7 +2,7 @@
 
 (a)
 
-General.—Information obtained by the Secretary of Transportation under this chapterrelated to a confidential matter referred to in section 1905 of title 18 may be disclosed only—
+General.—Information obtained by the Secretary of Transportation under this chapter related to a confidential matter referred to in section 1905 of title 18 may be disclosed only—
 
 &emsp;(1) to another officer or employee of the United States Government for use in carrying out this chapter; or
 

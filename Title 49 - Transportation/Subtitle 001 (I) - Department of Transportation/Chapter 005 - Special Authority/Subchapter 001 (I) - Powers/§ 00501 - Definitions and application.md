@@ -66,7 +66,7 @@ Section 4(j)(11) makes conforming amendments to 49:ch. 5 to reflect the restatem
 
 Subsec. (a)(3). Pub. L. 103–272, §5(m)(9)(B), substituted “section 31502(c)” for “section 3102(c)”.
 
-Subsec. (a)(4) to (9). Pub. L. 103–272, §4(j)(11)(A), struck out pars. (4) to (9) which defined “beneficial owner”, “carrier”, “container”, “initial carrier”, “intermodal transportation”, and “trailer”, respectively.
+Subsec. (a)(4) to (9). Pub. L. 103–272, §4(j)(11)(A), struck out pars. (4) to (9) which defined “beneficialowner”, “carrier”, “container”, “initial carrier”, “intermodal transportation”, and “trailer”, respectively.
 
 Subsec. (b). Pub. L. 103–272, §5(m)(9)(C), added subsec. (b) and struck out former subsec. (b) which read as follows: “This chapter only applies in carrying out—
 

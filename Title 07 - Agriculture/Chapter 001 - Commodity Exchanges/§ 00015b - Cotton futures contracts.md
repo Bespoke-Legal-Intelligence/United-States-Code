@@ -40,7 +40,7 @@ For purposes of this section—
 
 #### (2) Determination
 
-&emsp;In determining, pursuant to the provisions of this section, what markets are bona fide spot markets, the Secretary is directed to consider only markets in which spot cotton is sold in such volume and under such conditions as customarily to reflect accurately the value of middling cotton and the differences between the prices or values of middling cotton and of other grades of cotton for which standards shall have been established by the Secretary; except that if there are not sufficient places, in the markets of which are made bona fide sales of spot cotton of grades for which standards are established by the Secretary, to enable him to designate at least five spot markets in accordance with subsection (f)(3) of this section, he shall, from data as to spot sales collected by him, make rules and regulations for determining the actual commercial differences in the value of spot cotton of the grades established by him as reflected by bona fide sales of spot cotton, of the same or different grades, in the market selected and designated by him, from time to time, for that purpose, and in that event differences in value of cotton of various grades involved in contracts made pursuant to subsection (f)(1) and (2) of this section shall be determined in compliance with such rules and regulations. It shall be the duty of any person engaged in the business of dealing in cotton, when requested by the Secretary or any agent acting under his instructions, to answer correctly to the best of his knowledge, under oath or otherwise, all questions touching his knowledge of the number of bales, the classification, the price or bona fide price offered, and other terms of purchase or sale, of any cotton involved in any transaction participated in by him, or to produce all books, letters, papers, or documents in his possession or under his control relating to such matter.
+&emsp;In determining, pursuant to the provisions of this section, what markets are bona fide spot markets, the Secretary is directed to consider only markets in which spot cotton is sold in such volume and under such conditions as customarily to reflect accurately the value of middling cotton and the differences between the prices or values of middling cotton and of other grades of cotton for which standards shall have been established by the Secretary; except that if there are not sufficient places, in the markets of which are made bona fide sales of spot cotton of grades for which standards are established by the Secretary, to enable him to designate at least five spot markets in accordance with subsection (f)(3) of this section, he shall, from data as to spot sales collected by him, make rules and regulations for determining the actual commercial differences in the value of spot cotton of the grades established by him as reflected by bona fide sales of spot cotton, of the same or different grades, in the market selected and designated by him, from time to time, for that purpose, and in that event differences in value of cotton of various grades involved in contracts made pursuant to subsection (f)(1) and (2) of this section shall be determined in compliance with such rules and regulations. It shall be the duty of any person engaged in the business of dealing in cotton, when requested by the Secretary or any agent acting under his instructions, to answer correctly to the best of his knowledge, under oath or otherwise, all questions touching his knowledge of the number of bales, the classification, the price or bona fide price offered, and other terms of purchase or sale, of any cotton involved in any transaction participated in by him, or to produce all books, letters, papers, or documents in his possession or under his control relating to such matter. A person complying with the preceding sentence shall not be liable for any loss or damage arising or resulting from such compliance.
 
 #### (3) Withholding information
 
@@ -82,7 +82,7 @@ Each cotton futures contract shall be a basis grade contract, or a tendered grad
 
 #### (G) Provision for tender and settlement in accordance with Government classification
 
-&emsp;&emsp;Provide that all tenders of cotton and settlements therefor under such contract shall be in accordance with the classification thereof made under the regulations of the Secretary by such officer or officers of the Government as shall be designated for the purpose, and the costs of such classification shall be fixed, assessed, collected, and paid as provided in such regulations and shall be credited to the account referred to in section 55 of this title. The Secretary may provide by regulation conditions under which cotton samples submitted or used in the performance of services authorized by this act shall become the property of the United States and may be sold and the proceeds credited to the foregoing account: <i>Provided</i>, That such cotton samples shall not be subject to the provisions of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.). The Secretary is authorized to prescribe regulations for carrying out the purposes of this subparagraph and the certificates of the officers of the Government as to the classification of any cotton for the purposes of this subparagraph shall be accepted in the courts of the United States in all suits between the parties to such contract, or their privies, as prima facie evidence of the true classification of the cotton involved.
+&emsp;&emsp;Provide that all tenders of cotton and settlements therefor under such contract shall be in accordance with the classification thereof made under the regulations of the Secretary by such officer or officers of the Government as shall be designated for the purpose, and the costs of such classification shall be fixed, assessed, collected, and paid as provided in such regulations and shall be credited to the account referred to in section 55 of this title. The Secretary may provide by regulation conditions under which cotton samples submitted or used in the performance of services authorized by this act shall become the property of the United States and may be sold and the proceeds credited to the foregoing account: <i>Provided</i>, That such cotton samples shall not be subject to the provisions of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.). The Secretary is authorized toprescribe regulations for carrying out the purposes of this subparagraph and the certificates of the officers of the Government as to the classification of any cotton for the purposes of this subparagraph shall be accepted in the courts of the United States in all suits between the parties to such contract, or their privies, as prima facie evidence of the true classification of the cotton involved.
 
 #### (2) Incorporation of conditions in contracts
 
@@ -138,7 +138,7 @@ Each cotton futures contract shall be a basis grade contract, or a tendered grad
 
 #### (2) Incorporation of conditions in contract
 
-&emsp;The provisions of paragraphs (1)(A), (C), and (D) shall be deemed fully incorporated into any such contract if there be written or printed thereon, or on the document or memorandum evidencing the same, at or prior to the time the same is entered into, the words “Subject to United States Cotton Futures Act, subsection (h)”.
+&emsp;The provisions of paragraphs (1)(A), (C), and (D) shall be deemed fully incorporated into any such contract if there be written or printed thereon, or on the document or memorandum evidencing the same, at or prior to thetime the same is entered into, the words “Subject to United States Cotton Futures Act, subsection (h)”.
 
 #### (3) Application of subsection
 
@@ -146,7 +146,7 @@ Each cotton futures contract shall be a basis grade contract, or a tendered grad
 
 #### (i) Liability of principal for acts of agent
 
-When construing and enforcing the provisions of this section, the act, omission, or failure ofany official, agent, or other person acting for or employed by any association, partnership, or corporation within the scope of his employment or office shall, in every case, also be deemed the act, omission, or failure of such association, partnership, or corporation, as well as that of the person.
+When construing and enforcing the provisions of this section, the act, omission, or failure of any official, agent, or other person acting for or employed by any association, partnership, or corporation within the scope of his employment or office shall, in every case, also be deemed the act, omission, or failure of such association, partnership, or corporation, as well as that of the person.
 
 #### (j) Regulations
 
@@ -164,7 +164,7 @@ The provisions of this section shall not apply to any cotton futures contract en
 
 There are authorized to be appropriated such sums as may be necessary to carry out this section.
 
-(Pub. L. 94–455, title XIX, §1952(a)–(m), Oct. 4, 1976, 90 Stat. 1841–1846; Pub. L. 97–35, title I, §156(c), Aug. 13, 1981, 95 Stat. 374; Pub. L. 102–237, title I, §123, Dec. 13, 1991, 105 Stat. 1844.)
+(Pub. L. 94–455, title XIX, §1952(a)–(m), Oct. 4, 1976, 90 Stat. 1841–1846; Pub. L. 97–35, title I, §156(c), Aug. 13, 1981, 95 Stat. 374; Pub. L. 102–237, title I, §123, Dec. 13, 1991, 105 Stat. 1844; Pub. L. 106–472, title III, §311, Nov. 9, 2000, 114 Stat. 2076.)
 
 #### References in Text
 
@@ -183,6 +183,8 @@ Section was enacted as part of the Tax Reform Act of 1976, and not as part of th
 This section, referred to in subsec. (c)(1), was in the original a reference to this “Act”, meaning the United States Cotton Futures Act, which comprises this section.
 
 #### Amendments
+
+2000—Subsec. (d)(2). Pub. L. 106–472 inserted at end “A person complying with the preceding sentence shall not be liable for any loss or damage arising or resulting from such compliance.”
 
 1991—Subsec. (c)(1). Pub. L. 102–237 inserted before period at end “, except that any cotton futures contract that, by its terms, is settled in cash is excluded from the coverage of this paragraph and section”.
 

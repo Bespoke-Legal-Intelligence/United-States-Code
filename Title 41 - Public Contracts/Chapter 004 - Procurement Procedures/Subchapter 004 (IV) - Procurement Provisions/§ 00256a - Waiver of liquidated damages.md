@@ -12,7 +12,3 @@ Section was not enacted as part of title III of act June 30, 1949, ch. 288, 63 S
 
 1996—Pub. L. 104–316 substituted “Secretary of the Treasury” for “Comptroller General”.
 
-#### Cross References
-
-Armed services contracts, remission of liquidated damages, see section 2312 of Title 10, Armed Forces.
-

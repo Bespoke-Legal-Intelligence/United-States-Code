@@ -74,7 +74,7 @@ Amendment by Pub. L. 100–654 applicable with respect to any calendar year begi
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–615 effective May 7, 1985, with enumerated exceptions, and applicable to any individual who is married to an employee or annuitant on or after that date, see section 4(a)(2) of Pub. L. 98–615, as amended, set out as a note under section 8341 of this title.
+Amendment by Pub. L. 98–615 effective May 7, 1985, with enumerated exceptions, and applicable to any individual who is married to an employee or annuitant on or after that date, see section 4(a)(2) of Pub. L. 98–615,as amended, set out as a note under section 8341 of this title.
 
 #### Effective Date of 1978 Amendment
 

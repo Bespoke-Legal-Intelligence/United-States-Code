@@ -22,16 +22,6 @@ The revised section was so written as to limit the authority of the Secretary of
 
 Changes in phraseology were also made.
 
-#### Canal Zone
-
-Applicability of section to Canal Zone, see section 14 of this title.
-
-#### Cross References
-
-Philatelic reproductions permitted, see section 504 of this title.
-
-Vessels, vehicles, and aircrafts used in counterfeiting forfeited, see section 80301 et seq. of Title 49, Transportation.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 14 of this title.

@@ -4,10 +4,6 @@ In case any common carrier shall do, or cause or permit to be done, any act, mat
 
 (June 19, 1934, ch. 652, title II, §206, 48 Stat. 1072.)
 
-#### Federal Rules of Civil Procedure
-
-Judgment and costs, see rule 54, Title 28, Appendix, Judiciary and Judicial Procedure.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 274 of this title.

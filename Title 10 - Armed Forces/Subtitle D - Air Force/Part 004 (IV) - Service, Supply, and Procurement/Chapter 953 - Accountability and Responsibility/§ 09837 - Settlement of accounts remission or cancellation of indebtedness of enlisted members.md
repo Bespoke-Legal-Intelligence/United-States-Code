@@ -76,7 +76,7 @@ In subsection (g), the words “bought on credit under section 9621(a)(1) of thi
 
 #### 1958 Act
 
-The change \[in subsec. (b)\] reflects the opinion of the Judge Advocate General of the Air Force (June 10, 1957)that the term “rate of pay”, as used in the source law for section 9837(b) (Act of May 22, 1928, ch. 676 (45 Stat. 698), as amended), included special pay and incentive pay.
+The change \[in subsec. (b)\] reflects the opinion of the Judge Advocate General of the Air Force (June 10, 1957) that the term “rate of pay”, as used in the source law for section 9837(b) (Act of May 22, 1928, ch. 676 (45 Stat. 698), as amended), included special pay and incentive pay.
 
 The change \[in subsec. (f)\] reflects the opinion of the Assistant General Counsel (Fiscal Matters), Department of Defense (July 19, 1957), that section 1304, Revised Statutes (formerly 10 U.S.C. 872), the source law for this section, applied to warrant officers as well as to commissioned officers.
 
@@ -101,14 +101,6 @@ Amendment by Pub. L. 87–649 effective on Nov. 1, 1962, see section 15 of Pub. 
 #### Effective Date of 1958 Amendment
 
 Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub. L. 85–861, set out as a note under section 101 of this title.
-
-#### Cross References
-
-Military property of United States; loss, damage, destruction, or wrongful disposition, punishment, see section 908 of this title.
-
-Property returns by officers, see section 3531 of Title 31, Money and Finance.
-
-Public Accounts to be submitted to Comptroller General; rendition of current accounts, see section 3522 of Title 31.
 
 #### Section Referred to in Other Sections
 

@@ -2,7 +2,7 @@
 
 #### (a) Federal regulations; exceptions
 
-Contracts with urban Indian organizations entered into pursuant to this subchapter shall bein accordance with all Federal contracting laws and regulations except that, in the discretion of the Secretary, such contracts may be negotiated without advertising and need not conform to the provisions of sections 270a to 270d–1 of title 40.
+Contracts with urban Indian organizations entered into pursuant to this subchapter shall be in accordance with all Federal contracting laws and regulations except that, in the discretion of the Secretary, such contracts may be negotiated without advertising and need not conform to the provisions of sections 270a to 270d–1 of title 40.
 
 #### (b) Payment
 

@@ -12,7 +12,7 @@ Subject to subsection (g) of this section, the State plan shall provide that in 
 
 &emsp;&emsp;(B) services furnished to pregnant women, if such services relate to the pregnancy or to any other medical condition which may complicate the pregnancy (or, at the option of the State, any services furnished to pregnant women),
 
-&emsp;&emsp;(C) services furnished to any individual who is an inpatient in a hospital, nursing facility, intermediate care facility for the mentally retarded, or other medical institution, if such individual is required, as a condition of receiving services in such institution under the State plan, to spend for costsof medical care all but a minimal amount of his income required for personal needs,
+&emsp;&emsp;(C) services furnished to any individual who is an inpatient in a hospital, nursing facility, intermediate care facility for the mentally retarded, or other medical institution, if such individual is required, as a condition of receiving services in such institution under the State plan, to spend for costs of medical care all but a minimal amount of his income required for personal needs,
 
 &emsp;&emsp;(D) emergency services (as defined by the Secretary), family planning services and supplies described in section 1396d(a)(4)(C) of this title, or
 
@@ -48,11 +48,11 @@ The State plan shall provide that in the case of individuals other than those de
 
 (3) A State shall not require prepayment of a premium imposed pursuant to paragraph (1) and shall not terminate eligibility of an individual for medical assistance under this subchapter on the basis of failure to pay any such premium until such failure continues for a period of not less than 60 days. The State may waive payment of any such premium in any case where the State determines that requiring such payment would create an undue hardship.
 
-(4) A State may permit State or local funds available under other programs to be used for payment of a premium imposed under paragraph (1). Payment of a premium with such funds shall not be counted as income to the individual with respect to whom such payment is made.
+(4) A State may permit State or local funds available under other programs to be used forpayment of a premium imposed under paragraph (1). Payment of a premium with such funds shall not be counted as income to the individual with respect to whom such payment is made.
 
 #### (d) Premiums for qualified disabled and working individuals described in section 1396d(s)
 
-With respect to a qualified disabled and working individual described in section 1396d(s) ofthis title whose income (as determined under paragraph (3) of that section) exceeds 150 percent of the official poverty line referred to in that paragraph, the State plan of a State may provide for the charging of a premium (expressed as a percentage of the medicare cost-sharing described in section 1396d(p)(3)(A)(i) of this title provided with respect to the individual) according to a sliding scale under which such percentage increases from 0 percent to 100 percent, in reasonable increments (as determined by the Secretary), as the individual's income increases from 150 percent of such poverty line to 200 percent of such poverty line.
+With respect to a qualified disabled and working individual described in section 1396d(s) of this title whose income (as determined under paragraph (3) of that section) exceeds 150 percent of the official poverty line referred to in that paragraph, the State plan of a State may provide for the charging of a premium (expressed as a percentage of the medicare cost-sharing described in section 1396d(p)(3)(A)(i) of this title provided with respect to the individual) according to a sliding scale under which such percentage increases from 0 percent to 100 percent, in reasonable increments (as determined by the Secretary), as the individual's income increases from 150 percent of such poverty line to 200 percent of such poverty line.
 
 #### (e) Prohibition of denial of services on basis of individual's inability to pay certain charges
 

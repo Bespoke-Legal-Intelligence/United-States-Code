@@ -24,5 +24,5 @@ Subsec. (b)(2). Pub. L. 105–85, §603(d)(2)(C)(ii), substituted “basic allow
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–85 effective Jan. 1, 1998, see section 603(e) of Pub. L. 105–85, set out as a noteunder section 5561 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 105–85 effective Jan. 1, 1998, see section 603(e) of Pub. L. 105–85, set out as a note under section 5561 of Title 5, Government Organization and Employees.
 

@@ -74,7 +74,7 @@ Evidence on hearings.—For purposes of applying section 3190 of title 18, Unite
 
 &emsp;“(3)
 
-Payment of fees and costs.—(A) The provisions of the Agreement Between the United States and the International Tribunal for Yugoslavia and of the Agreement Between the United States and the International Tribunal for Rwanda shall apply in lieu of the provisions of section 3195 of title 18, United States Code, with respect to the payment of expenses arising from the surrender by the United States of a person to the International Tribunal for Yugoslavia or the International Tribunal for Rwanda, respectively, or from any proceedings in the United States relating to such surrender.
+Payment of fees and costs.—(A) The provisions of the Agreement Between the United Statesand the International Tribunal for Yugoslavia and of the Agreement Between the United States and the International Tribunal for Rwanda shall apply in lieu of the provisions of section 3195 of title 18, United States Code, with respect to the payment of expenses arising from the surrender by the United States of a person to the International Tribunal for Yugoslavia or the International Tribunal for Rwanda, respectively, or from any proceedings in the United States relating to such surrender.
 
 &emsp;“(B) The authority of subparagraph (A) may be exercised only to the extent and in the amounts provided in advance in appropriations Acts.
 
@@ -134,9 +134,9 @@ The United States currently has bilateral extradition treaties with the followin
 | Austria DJan. 8, 1998 DJan. 1, 2000 D&nbsp; |  |  |  |
 | &nbsp; | May 19, 1934 | Sept. 5, 1934 | 49 Stat. 2710. |
 | Bahamas | Mar. 9, 1990 | Sept. 22, 1994 | TIAS. |
-| Barbados | Dec. 22, 1931 | June 24, 1935 | 47 Stat. 2122. |
+| Barbados | Feb. 28, 1996 | Mar. 3, 2000 | &nbsp; |
 | Belgium | Apr. 27, 1987 | Sept. 1, 1997 | &nbsp; |
-| Belize | June 8, 1972 | Jan. 21, 1977 | 28 UST 227. |
+| Belize | Mar. 30, 2000 | Mar. 27, 2001 | &nbsp; |
 | Bolivia | June 27, 1995 | Nov. 21, 1996 | &nbsp; |
 | Brazil DJan. 13, 1961 DDec. 17, 1964 D15 UST 2093. |  |  |  |
 | &nbsp; | June 18, 1962 | Dec. 17, 1964 | 15 UST 2112. |
@@ -227,7 +227,7 @@ The United States currently has bilateral extradition treaties with the followin
 | Pakistan | Dec. 22, 1931 | Mar. 9, 1942 | 47 Stat. 2122. |
 | Panama | May 25, 1904 | May 8, 1905 | 34 Stat. 2851. |
 | Papua New Guinea | Dec. 22, 1931 | Aug. 30, 1935 | 47 Stat. 2122. |
-| Paraguay | May 24, 1973 | May 7, 1974 | 25 UST 967. |
+| Paraguay | Nov. 9, 1998 | Mar. 9, 2001 | &nbsp; |
 | Peru | Nov. 28, 1899 | Feb. 22, 1901 | 31 Stat. 1921. |
 | Philippines | Nov. 13, 1994 | Nov. 22, 1996 | &nbsp; |
 | Poland DJuly 10, 1996 DSept. 17, 1999 D&nbsp; |  |  |  |
@@ -235,7 +235,7 @@ The United States currently has bilateral extradition treaties with the followin
 | Portugal | May 7, 1908 | Nov. 14, 1908 | 35 Stat. 2071. |
 | Romania DJuly 23, 1924 DApr. 7, 1925 D44 Stat. 2020. |  |  |  |
 | &nbsp; | Nov. 10, 1936 | July 27, 1937 | 50 Stat. 1349. |
-| Saint Christopher and Nevis | June 8, 1972 | Jan. 21, 1977 | 28 UST 227. |
+| Saint Christopher and Nevis | Sept. 18, 1996 | Feb. 23, 2000 | &nbsp; |
 | Saint Lucia | Apr. 18, 1996 | Feb. 2, 2000 | &nbsp; |
 | Saint Vincent and the Grenadines | Aug. 15, 1996 | Sept. 8, 1999 | &nbsp; |
 | San Marino DJan. 10, 1906 DJuly 8, 1908 D35 Stat. 1971. |  |  |  |
@@ -246,12 +246,12 @@ The United States currently has bilateral extradition treaties with the followin
 | &nbsp; |  | June 10, 1969 | 20 UST 2764. |
 | Slovac Republic DJuly 2, 1925Apr. 29, 1935 DMar. 29, 1926Aug. 28, 1935 D44 Stat. 236749 Stat. 3253. |  |  |  |
 | Solomon Islands | June 8, 1972 | Jan. 21, 1977 | 28 UST 277. |
-| South Africa | Dec. 18, 1947 | Apr. 30, 1951 | 2 UST 884. |
+| South Africa | Sept. 16, 1999 | June 25, 2001 | &nbsp; |
 | Spain DMay 29, 1970 DJune 16, 1971 D22 UST 737. |  |  |  |
 | &nbsp; | Jan. 25, 1975 | June 2, 1978 | 29 UST 2283. |
 | &nbsp; | Feb. 9, 1988 | July 2, 1993 | &nbsp; |
 | &nbsp; | Mar. 12, 1996 | July 25, 1999 | &nbsp; |
-| Sri Lanka | Dec. 22, 1931 | June 24, 1935 | 47 Stat. 2122. |
+| Sri Lanka | Sept. 30, 1999 | Jan. 12, 2001 | &nbsp; |
 | Suriname DJune 2, 1887 DJuly 11, 1889 D26 Stat. 1481. |  |  |  |
 | &nbsp; | Jan. 18, 1904 | Aug. 28, 1904 | 33 Stat. 2257. |
 | Swaziland DDec. 22, 1931 DJune 24, 1935 D47 Stat. 2122. |  |  |  |

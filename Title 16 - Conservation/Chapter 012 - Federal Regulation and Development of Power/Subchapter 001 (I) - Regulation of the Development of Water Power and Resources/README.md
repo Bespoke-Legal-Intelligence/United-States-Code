@@ -53,3 +53,4 @@ This subchapter is referred to in sections 797b, 797c, 797d, 824a–3, 825<i>o</
 - [&sect; 00823 - Repeal of inconsistent laws](%C2%A7%2000823%20-%20Repeal%20of%20inconsistent%20laws.md)
 - [&sect; 00823a - Conduit hydroelectric facilities](%C2%A7%2000823a%20-%20Conduit%20hydroelectric%20facilities.md)
 - [&sect; 00823b - Enforcement](%C2%A7%2000823b%20-%20Enforcement.md)
+- [&sect; 00823c - Alaska State jurisdiction over small hydroelectric projects](%C2%A7%2000823c%20-%20Alaska%20State%20jurisdiction%20over%20small%20hydroelectric%20projects.md)

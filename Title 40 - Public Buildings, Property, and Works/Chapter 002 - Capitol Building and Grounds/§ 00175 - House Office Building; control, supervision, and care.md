@@ -28,9 +28,9 @@ capitol buildings’ to the appropriation for salaries and expenses of the House
 
 salaries, officers and employees’.
 
-“(b) For purposes of section 8339(m) of title 5, United States Code, the days of unused sick leave to the creditof any such employee as of the date such employee is transferred under subsection (a) shall be included in the total service of such employee in connection with the computation of any annuity under subsections (a) through (e) and (<i>o</i>) of such section.
+“(b) For purposes of section 8339(m) of title 5, United States Code, the days of unused sick leave to the credit of any such employee as of the date such employee is transferred under subsection (a) shall be included in the total service of such employee in connection with the computation of any annuity under subsections (a) through (e) and (<i>o</i>) of such section.
 
-“(c) In the case of days of annual leave to the credit of any such employee as of the date such employee is transferred under subsection (a), the Architect of the Capitol is authorized to make a lump sum payment to each such employee for that annual leave. No such payment shall be considered a payment or compensation within the meaning of any law relating to dual compensation.”
+“(c) In the case of days of annual leave to the credit of any such employee as of the date such employee is transferred under subsection (a), the Architect of the Capitol is authorized to make a lump sum payment toeach such employee for that annual leave. No such payment shall be considered a payment or compensation within the meaning of any law relating to dual compensation.”
 
 #### 501 First Street SE., District of Columbia; Disposal of Real Property
 
@@ -186,7 +186,7 @@ Pub. L. 95–577, Nov. 2, 1978, 92 Stat. 2470, directed Architect of the Capitol
 
 #### Additional Parking Space for House Employees
 
-House Resolution No. 208, Ninety-fourth Congress, Feb. 24, 1975, as enacted into permanent law by Pub. L.94–59, title II, §201, July 25, 1975, 89 Stat. 282, and amended by Pub. L. 104–186, title II, §221(4)(B), Aug. 20, 1996, 110 Stat. 1749, provided: “That the chairman, Committee on House Oversight \[now Committee on House Administration\] of the House of Representatives is authorized:
+House Resolution No. 208, Ninety-fourth Congress, Feb. 24, 1975, as enacted into permanent law by Pub. L. 94–59, title II, §201, July 25, 1975, 89 Stat. 282, and amended by Pub. L. 104–186, title II, §221(4)(B), Aug. 20, 1996, 110 Stat. 1749, provided: “That the chairman, Committee on House Oversight \[now Committee on House Administration\] of the House of Representatives is authorized:
 
 &emsp;“(1) to lease or to otherwise provide additional indoor and outdoor parking facilities for employees of the House of Representatives in an area or areas in the District of Columbia outside but adjacent to the limits of the United States Capitol Grounds;
 
@@ -215,14 +215,6 @@ Pub. L. 90–367, §4, June 29, 1968, 82 Stat. 278, provided that the per annum 
 #### Compensation of Personnel Assigned to House Garages in Connection With Parking Activities
 
 Pub. L. 93–245, ch. VI, Jan. 3, 1974, 87 Stat. 1079, provided that: “Effective on the first day of the first applicable pay period which begins on or after the date of enactment of this Act \[Jan. 3, 1974\], the compensation of personnel assigned to the House garages in connection with parking activities and paid from the appropriation ‘House Office Building’ under the Architect of the Capitol, shall be fixed by the Architect of the Capitol without regard to chapter 51 and subchapters III and IV of chapter 53 of title 5, United States Code, and shall thereafter be adjusted in accordance with 5 U.S.C. 5307.”
-
-#### Appropriations
-
-Appropriations for maintenance have been carried under the heading “House Office Buildings” in Legislature Branch Appropriation Acts since 1933.
-
-#### Cross References
-
-Remodeling caucus rooms and restaurant, see note under section 166 of this title.
 
 #### Section Referred to in Other Sections
 

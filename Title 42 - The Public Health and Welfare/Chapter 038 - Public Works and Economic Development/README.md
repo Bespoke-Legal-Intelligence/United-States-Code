@@ -169,7 +169,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 3123, 5153 of this title; title 15 section 636; title 16 section 3345; title 19 section 2373; title 33 section 2220; title 40 App. sections 225, 302; title 43 section 1601.
+This chapter is referred to in sections 3123, 5153 of this title; title 15 section 636; title 16 section 3345; title 33 section 2220; title 40 App. sections 225, 302; title 43 section 1601.
 
 
 ---

@@ -36,3 +36,7 @@ Subsec. (b). Pub. L. 93–345, §2, substituted provisions limiting to $1,000,00
 
 Subsec. (b). Pub. L. 91–629, §1, substituted provisions which authorized to be appropriated such sums as necessary to carry out the purposes of this section, with no more than $1,000,000 to be appropriated annually through fiscal year 1974, of which $300,000, annually, to be allocated in the enumerated manner, for provisions which authorized to be appropriated to carry out this section, not to exceed $200,000 for the fiscal year ending June 30, 1968, $250,000 for the fiscal years ending June 30, 1969, and June 30, 1970, and $300,000 for the fiscal year ending June 30, 1971, and in each subsequent fiscal year, only such sums as the Congress hereafter authorizes by law.
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of reporting provisions in subsec. (a)(6) of this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 192 of House Document No. 103–7.
+

@@ -4,7 +4,7 @@
 
 (b) It may require the removing party to file with its clerk copies of all records and proceedings in such State court or may cause the same to be brought before it by writ of certiorari issued to such State court.
 
-(c) A motion to remand the case on the basis of any defect other than lack of subject matter jurisdiction must be made within 30 days after the filing of the notice of removal under section 1446(a). If at any time before final judgment it appears that the district court lacks subject matter jurisdiction, the case shall be remanded. An order remanding the case may require payment of just costs and any actual expenses, including attorney fees, incurred as a result of the removal. A certified copy of the order of remand shall be mailed by the clerk to the clerk of the State court. The State court may thereupon proceed with such case.
+(c) A motion to remand the case on the basis of any defect other than lack of subject matter jurisdiction must be made within 30 days after the filing of the notice of removal under section 1446(a). If at any time before final judgment it appears that the district court lacks subject matter jurisdiction, the case shall be remanded. An order remanding the case may require payment of just costs and any actual expenses, including attorney fees, incurred as a result of the removal. A certified copy of the order of remand shall be mailed by the clerk to the clerk of theState court. The State court may thereupon proceed with such case.
 
 (d) An order remanding a case to the State court from which it was removed is not reviewable on appeal or otherwise, except that an order remanding a case to the State court from which it was removed pursuant to section 1443 of this title shall be reviewable by appeal or otherwise.
 
@@ -44,33 +44,21 @@ This section strikes out subsections (c) and (d) of section 1447 of title 28, U.
 
 #### Amendments
 
-1996—Subsec. (c). Pub. L. 104–219 substituted “any defect other than lack of subject matter jurisdiction” for “any defect in removal procedure” in first sentence.
+<b>1996</b>—Subsec. (c). Pub. L. 104–219 substituted “any defect other than lack of subject matter jurisdiction” for “any defect in removal procedure” in first sentence.
 
-1991—Subsec. (b). Pub. L. 102–198 substituted “removing party” for “petitioner”.
+<b>1991</b>—Subsec. (b). Pub. L. 102–198 substituted “removing party” for “petitioner”.
 
-1988—Subsec. (c). Pub. L. 100–702, §1016(c)(1), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “If at any time before final judgment it appears that the case was removed improvidently and without jurisdiction, the district court shall remand the case, and may order the payment of just costs. A certified copy of the order of remand shall be mailed by its clerk to the clerk of the State court. The State court may thereupon proceed with such case.”
+<b>1988</b>—Subsec. (c). Pub. L. 100–702, §1016(c)(1), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “If at any time before final judgment it appears that the case was removed improvidently and without jurisdiction, the district court shall remand the case, and may order the payment of just costs. A certified copy of the order of remand shall be mailed by its clerk to the clerk of the State court. The State court may thereupon proceed with such case.”
 
 Subsec. (e). Pub. L. 100–702, §1016(c)(2), added subsec. (e).
 
-1964—Subsec. (d). Pub. L. 88–352, inserted exception provision.
+<b>1964</b>—Subsec. (d). Pub. L. 88–352, inserted exception provision.
 
-1949—Subsec. (c). Act May 24, 1949, §84(a), struck out former subsecs. (c) and (d), renumbered former subsec. (e) to be subsec. (c) and inserted at end of first sentence of new subsec. (c) “and may order the payment of just costs”.
+<b>1949</b>—Subsec. (c). Act May 24, 1949, §84(a), struck out former subsecs. (c) and (d), renumbered former subsec. (e) to be subsec. (c) and inserted at end of first sentence of new subsec. (c) “and may order the payment of just costs”.
 
 Subsec. (d). Act May 24, 1949, §84(b), added subsec. (d).
 
 #### Exception to Subsection (d)
 
 Act Aug. 4, 1947, ch. 458, §3(c), 61 Stat. 732, provides in part that the United States shall have the right to appeal from any order of remand entered in any case removed to a United States district court pursuant to the provisions of act Apr. 12, 1926, ch. 115, 44 Stat. 239. These acts referred to herein relate to restrictions on land of the Five Civilized Tribes of Oklahoma and are set out as notes under section 355 of Title 25, Indians.
-
-#### Federal Rules of Civil Procedure
-
-Application of Rules, see rule 81, Appendix to this title.
-
-#### Cross References
-
-Amendment of pleadings to show jurisdiction, see section 1653 of this title.
-
-Parties collusively joined or made, see section 1359 of this title.
-
-Stay of State court proceedings, see section 2283 of this title.
 

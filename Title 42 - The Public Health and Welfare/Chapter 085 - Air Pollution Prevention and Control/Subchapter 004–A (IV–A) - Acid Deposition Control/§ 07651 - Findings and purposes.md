@@ -48,6 +48,8 @@ Million Ton Cap.—Whenever the inventory required by this section indicates tha
 
 Election.—Regulations promulgated under section 405(b) of the Clean Air Act \[42 U.S.C. 7651d(b)\] shall not prohibit a source from electing to become an affected unit under section 410 of the Clean Air Act \[42 U.S.C. 7651i\].”
 
+\[For termination, effective May 15, 2000, of reporting provisions in section 406(a) of Pub. L. 101–549, set out above, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 10th item on page 162 of House Document No. 103–7.\]
+
 #### Sense of Congress on Emission Reductions Costs
 
 Section 407 of Pub. L. 101–549 provided that: “It is the sense of the Congress that the Clean Air Act Amendments of 1990 \[Pub. L. 101–549, see Tables for classification\], through the allowance program, allocates the costs of achieving the required reductions in emissions of sulfur dioxide and oxides of nitrogen among sources in the United States. Broad based taxes and emissions fees that would provide for payment of the costs of achieving required emissions reductions by any party or parties other than the sources required to achieve the reductions are undesirable.”
@@ -62,7 +64,7 @@ Reports to Congress.—The Administrator of the Environmental Protection Agency,
 
 “(b)
 
-Contents.—The report to Congress shall analyze the current emission levels of sulfur dioxide and nitrogen oxides in each of the provinces participating in Canada's acid rain control program, the amount of emission reductions of sulfur dioxide and oxides of nitrogen achieved by each province, the methods utilized by each province in making those reductions, the costs to each province and the employment impacts in each province of making and maintaining those reductions.
+Contents.—The report to Congress shall analyze the current emission levels of sulfur dioxide and nitrogen oxides in each of the provinces participating in Canada's acid rain control program, the amount of emission reductions of sulfur dioxide and oxides of nitrogen achieved by each province, the methods utilized by each province in making those reductions, the coststo each province and the employment impacts in each province of making and maintaining those reductions.
 
 “(c)
 

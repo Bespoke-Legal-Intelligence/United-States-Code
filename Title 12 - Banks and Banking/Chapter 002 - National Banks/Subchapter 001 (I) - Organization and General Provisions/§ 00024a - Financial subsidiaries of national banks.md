@@ -42,7 +42,7 @@
 
 &emsp;&emsp;A national bank meets the requirements of this paragraph if—
 
-&emsp;&emsp;&emsp;(i) the bank is 1 of the 50 largest insured banks and has not fewer than 1 issue of outstanding eligible debt that is currentlyrated within the 3 highest investment grade rating categories by a nationally recognized statistical rating organization; or
+&emsp;&emsp;&emsp;(i) the bank is 1 of the 50 largest insured banks and has not fewer than 1 issue of outstanding eligible debt that is currently rated within the 3 highest investment grade rating categories by a nationally recognized statistical rating organization; or
 
 &emsp;&emsp;&emsp;(ii) the bank is 1 of the second 50 largest insured banks and meets the criteria set forth in clause (i) or such other criteria as the Secretary of the Treasury and the Board of Governors of the Federal Reserve System may jointly establish by regulation and determine to be comparable to and consistent with the purposes of the rating required in clause (i).
 
@@ -52,7 +52,7 @@
 
 #### (4) Financial agency subsidiary
 
-&emsp;The requirement in paragraph (2)(E) shall not apply with respect to the ownership or control of a financial subsidiary that engages in activities described in subsection (b)(1) of this section solely as agent and not directly or indirectly as principal.
+&emsp;The requirement in paragraph (2)(E) shall not apply with respect to the ownership orcontrol of a financial subsidiary that engages in activities described in subsection (b)(1) of this section solely as agent and not directly or indirectly as principal.
 
 #### (5) Regulations required
 
@@ -114,7 +114,7 @@
 
 &emsp;&emsp;&emsp;(i) compete effectively with any company seeking to provide financial services in the United States;
 
-&emsp;&emsp;&emsp;(ii) efficiently deliver information and services that are financial in nature through the use of technological means, including any application necessary toprotect the security or efficacy of systems for the transmission of data or financial transactions; and
+&emsp;&emsp;&emsp;(ii) efficiently deliver information and services that are financial in nature through the use of technological means, including any application necessary to protect the security or efficacy of systems for the transmission of data or financial transactions; and
 
 &emsp;&emsp;&emsp;(iii) offer customers any available or emerging technological means for using financial services or for the document imaging of data.
 
@@ -186,7 +186,7 @@ A national bank that establishes or maintains a financial subsidiary shall assur
 
 #### (2) Equity capital
 
-&emsp;For purposes of this subsection, the term “equity capital” includes, in addition to anyequity instrument, any debt instrument issued by a financial subsidiary, if the instrument qualifies as capital of the subsidiary under any Federal or State law, regulation, or interpretation applicable to the subsidiary.
+&emsp;For purposes of this subsection, the term “equity capital” includes, in addition to any equity instrument, any debt instrument issued by a financial subsidiary, if the instrument qualifies as capital of the subsidiary under any Federal or State law, regulation, or interpretation applicable to the subsidiary.
 
 #### (g) Definitions
 
@@ -236,7 +236,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### References in Text
 
-The Gramm-Leach-Bliley Act, referred to in subsecs. (a)(2)(B)(iii), (b)(2)(A), (3), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338. Section 122 of the Act is set out as a note under section 1843 of this title. For complete classification of this Act to the Code, see Short title of 1999 Amendment note set out under section 1811 of this title and Tables.
+The Gramm-Leach-Bliley Act, referred to in subsecs. (a)(2)(B)(iii), (b)(2)(A), (3), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338. Section 122 of the Act is set out as a note under section 1843 of this title. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of this title and Tables.
 
 Section 25 of the Federal Reserve Act, referred to in subsec. (g)(3)(B), is classified to subchapter I (§601 et seq.) of chapter 6 of this title. Section 25A of the Federal Reserve Act is classified to subchapter II (§611 et seq.) of chapter 6 of this title.
 

@@ -20,7 +20,7 @@ Section 1749hh, act June 27, 1934, ch. 847, title X, §1009, formerly §1008, as
 
 Section 1749ii, act June 27, 1934, ch. 847, title X, §1010, formerly §1009, as added Aug. 10, 1965, Pub. L. 89–117, title II, §201(a), 79 Stat. 464; renumbered §1010, Nov. 3, 1966, Pub. L. 89–754, title IV, §401(a), 80 Stat. 1271; amended May 25, 1967, Pub. L. 90–19, §1(a)(3), 81 Stat. 17, provided that insurance contract under this subchapter was conclusive evidence of eligibility for insurance and that the validity of such contract was incontestable.
 
-Section 1749jj, act June 27, 1934, ch. 847, title X, §1011, formerly §1010, as added Aug. 10, 1965, Pub. L. 89–117,title II, §201(a), 79 Stat. 464; renumbered §1011, Nov. 3, 1966, Pub. L. 89–754, title IV, §401(a), 80 Stat. 1271; amended May 25, 1967, Pub. L. 90–19, §1(a)(3), 81 Stat. 17, authorized making rules and regulations to carry out provisions of subchapter.
+Section 1749jj, act June 27, 1934, ch. 847, title X, §1011, formerly §1010, as added Aug. 10, 1965, Pub. L. 89–117, title II, §201(a), 79 Stat. 464; renumbered §1011, Nov. 3, 1966, Pub. L. 89–754, title IV, §401(a), 80 Stat. 1271; amended May 25, 1967, Pub. L. 90–19, §1(a)(3), 81 Stat. 17, authorized making rules and regulations to carry out provisions of subchapter.
 
 Section 1749kk, act June 27, 1934, ch. 847, title X, §1012, formerly §1011, as added Aug. 10, 1965, Pub. L. 89–117, title II, §201(a), 79 Stat. 464; renumbered §1012, Nov. 3, 1966, Pub. L. 89–754, title IV, §401(a), 80 Stat. 1271; amended May 25, 1967, Pub. L. 90–19, §1(a)(3), 81 Stat. 17, related to taxation of real property acquired by Secretary.
 
@@ -28,7 +28,7 @@ Section 1749<i>ll</i>, act June 27, 1934, ch. 847, title X, §1013, formerly §1
 
 #### Savings Provision
 
-Section 133(c) of Pub. L. 101–235 provided that: “Any contract of insurance entered into under title X \[this subchapter, §§1749aa to 1749<i>ll</i>\] before the date of enactment of this Act \[Dec. 15, 1989\] shall be governed by the provisions of such title as such title existed immediately before such date.”
+Section 133(c) of Pub. L. 101–235 provided that: “Any contract of insurance entered into under title X \[thissubchapter, §§1749aa to 1749<i>ll</i>\] before the date of enactment of this Act \[Dec. 15, 1989\] shall be governed by the provisions of such title as such title existed immediately before such date.”
 
 #### Applicability of Repeal
 

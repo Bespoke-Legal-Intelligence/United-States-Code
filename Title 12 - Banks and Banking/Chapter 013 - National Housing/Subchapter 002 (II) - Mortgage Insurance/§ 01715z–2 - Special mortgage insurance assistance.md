@@ -32,7 +32,7 @@ The Secretary shall give preference in approving mortgage insurance applications
 
 #### (e) Budget, debt management, and related counseling services
 
-The Secretary is authorized to provide, or contract with community development financial institutions under section 4702(5) of this title to provide, such budget, debt management, and related counseling services to mortgagors whose mortgages are insured under this section as he determines to be necessary to meet the objectives of this section. The Secretary may also provide such counseling to otherwise eligible families who lack sufficient funds to supply adown payment to help them to save an amount necessary for that purpose.
+The Secretary is authorized to provide, or contract with community development financial institutions under section 4702(5) of this title to provide, such budget, debt management, and related counseling services to mortgagors whose mortgages are insured under this section as he determines to be necessary to meet the objectives of this section. The Secretary may also provide such counseling to otherwise eligible families who lack sufficient funds to supply a down payment to help them to save an amount necessary for that purpose.
 
 #### (f) Aggregate principal balance of mortgages insured
 

@@ -28,15 +28,13 @@ In presenting the Budget of the United States, the President shall classify expe
 
 #### (d) Value of commodities
 
-Notwithstanding any other provision of law, in determining the reimbursement due the Commodity Credit Corporation for all expenses incurred under this chapter, commodities from the inventory of the Commodity Credit Corporation that were acquired under title I of the Agricultural Act of 1949 \[7 U.S.C. 1441 et seq.\] shall be valued at a price not greater than the export market price for such commodities, as determined by the Secretary, as of the time such commodity is made available under this chapter.
+Notwithstanding any other provision of law, in determining the reimbursement due the Commodity Credit Corporation for all expenses incurred under this chapter, commodities from the inventory of the Commodity Credit Corporation that were acquired under dairy price support operations shall be valued at a price not greater than the export market price for such commodities, as determined by the Secretary, as of the time such commodity is made available under this chapter.
 
-(July 10, 1954, ch. 469, title IV, §412, as added Pub. L. 94–161, title II, §212, Dec. 20, 1975, 89 Stat. 855; amended Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3655; Pub. L. 104–127, title II, §220, Apr. 4, 1996, 110 Stat. 958.)
-
-#### References in Text
-
-The Agricultural Act of 1949, referred to in subsec. (d), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended. Title I of the Act is classified generally to subchapter II (§1441 et seq.) of chapter 35A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+(July 10, 1954, ch. 469, title IV, §412, as added Pub. L. 94–161, title II, §212, Dec. 20, 1975, 89 Stat. 855; amended Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3655; Pub. L. 104–127, title II, §220, Apr. 4, 1996, 110 Stat. 958; Pub. L. 106–387, §1(a) \[title VII, §768\], Oct. 28, 2000, 114 Stat. 1549, 1549A–45.)
 
 #### Amendments
+
+2000—Subsec. (d). Pub. L. 106–387 substituted “dairy price support operations” for “title I of the Agricultural Act of 1949 (7 U.S.C. 1421 et seq.)”.
 
 1996—Subsec. (b). Pub. L. 104–127, §220(1), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “Of the amounts made available in each fiscal year to carry out subchapters II and III–A of this chapter, not less than—
 

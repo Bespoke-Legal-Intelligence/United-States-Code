@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment, Designation, and Stationing.—The Administrator of the FederalAviation Administration shall establish the position of Federal Security Manager at each airport in the United States at which the Administrator decides a Manager is necessary for air transportation security. The Administrator shall designate individuals as Managers for, and station those Managers at, those airports. The Administrator may designate a current field employee of the Administration as a Manager. A Manager reports directly to the Assistant Administrator for Civil Aviation Security. The Administrator shall station an individual as Manager at each airport in the United States that the Secretary of Transportation designates as a category X airport.
+Establishment, Designation, and Stationing.—The Administrator of the Federal Aviation Administration shall establish the position of Federal Security Manager at each airport in the United States at which the Administrator decides a Manager is necessary for air transportation security. The Administrator shall designate individuals as Managers for, and station those Managers at, those airports. The Administrator may designate a current field employee of the Administration as a Manager. A Manager reports directly to the Assistant Administrator for Civil Aviation Security. The Administrator shall station an individual as Manager at each airport in the United States that the Secretary of Transportation designates as a category X airport.
 
 (b)
 
@@ -64,5 +64,5 @@ In subsection (c), the words “duties and powers” are substituted for “resp
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 44932, 44934 of this title.
+This section is referred to in sections 106, 44932, 44934 of this title.
 

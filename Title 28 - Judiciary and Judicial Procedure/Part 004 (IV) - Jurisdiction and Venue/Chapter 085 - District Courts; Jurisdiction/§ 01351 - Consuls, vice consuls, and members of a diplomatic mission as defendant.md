@@ -22,19 +22,11 @@ Section 2 of the Diplomatic Relations Act, referred to in par. (2), is classifie
 
 #### Amendments
 
-1978—Pub. L. 95–393 substituted “Consuls, vice consuls, and members of a diplomatic mission as defendant” for “Consuls and vice consuls as defendants” in section catchline, designated existing provisions as introductory provision preceding par. (1), and in such introductory provision as so designated, substituted “civil actions and proceedings against—” for “actions and proceedings against consuls or vice consuls of foreign states”, and added pars. (1) and (2).
+<b>1978</b>—Pub. L. 95–393 substituted “Consuls, vice consuls, and members of a diplomatic mission as defendant” for “Consuls and vice consuls as defendants” in section catchline, designated existing provisions as introductory provision preceding par. (1), and in such introductory provision as so designated, substituted “civil actions and proceedings against—” for “actions and proceedings against consuls or vice consuls of foreign states”, and added pars. (1) and (2).
 
-1949—Act May 24, 1949, substituted “of all actions and proceedings” for “of any civil action”.
+<b>1949</b>—Act May 24, 1949, substituted “of all actions and proceedings” for “of any civil action”.
 
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–393 effective at end of ninety-day period beginning on Sept. 30, 1978, see section 9 of Pub. L. 95–393, set out as an Effective Date note under section 254a of Title 22, Foreign Relations and Intercourse.
-
-#### Cross References
-
-Amount in controversy immaterial in action under this section, see Historical and Revision Notes under section 1331 of this title.
-
-Diversity of citizenship immaterial in action under this section, see Historical and Revision Notes under section 1332 of this title.
-
-Judicial power extended in cases affecting consuls, see Const. Art. 3, §2, cl. 1.
 

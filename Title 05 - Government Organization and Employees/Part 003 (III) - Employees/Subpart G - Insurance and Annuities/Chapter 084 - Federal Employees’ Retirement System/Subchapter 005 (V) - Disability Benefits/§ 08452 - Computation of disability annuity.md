@@ -70,11 +70,11 @@ Sections 223 and 224 of the Social Security Act, referred to in subsec. (a)(2), 
 
 Subsec. (a)(2)(B)(i). Pub. L. 100–238, §122(a), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “For purposes of this paragraph, the assumed disability insurance benefit of an annuitant for any month shall be equal to—
 
-&emsp;“(I) the amount of the disability insurance benefit to which the annuitant would have been entitled under section 223 of the Social Security Act for the month in which the annuity under this subchapter commenced, or was restored, determined as if such annuitant had then satisfied all requirements for entitlement to a benefit under such section, adjusted by
+&emsp;“(I) the amount of the disability insurance benefit to which the annuitant would have been entitled under section 223 of the Social Security Act for the month in which the annuity under this subchapter commenced, or was restored, determined as if suchannuitant had then satisfied all requirements for entitlement to a benefit under such section, adjusted by
 
 &emsp;“(II) all adjustments made under section 8462(b) between the date on which the annuity commenced, or was restored, and the start of the month involved (without regard to whether the annuitant's annuity was affected by any of those adjustments).
 
-> For purposes of computing the assumed disability insurance benefit, the month in which the annuitant'sdisability began (as determined under section 216(i)(2)(C) of the Social Security Act) shall be the month in which the annuity commenced or, if earlier (and if a determination was actually made) the month determined under such section.”
+> For purposes of computing the assumed disability insurance benefit, the month in which the annuitant's disability began (as determined under section 216(i)(2)(C) of the Social Security Act) shall be the month in which the annuity commenced or, if earlier (and if a determination was actually made) the month determined under such section.”
 
 Subsec. (a)(3). Pub. L. 100–238, §122(c)(2)(B), added par. (3).
 
@@ -92,5 +92,5 @@ Section 122(d) of Pub. L. 100–238 provided that: “The amendments made by thi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 8418, 8419, 8442, 8451, 8455, 8462 of this title; title 22 section 4071d.
+This section is referred to in sections 8415, 8418, 8419, 8442, 8451, 8455, 8462 of this title; title 22 section 4071d.
 

@@ -1,0 +1,30 @@
+### §14943. Authorization of appropriations; collection of fees
+
+#### (a) Authorization of appropriations
+
+#### (1) In general
+
+&emsp;There are authorized to be appropriated such sums as may be necessary to agencies of the Federal Government implementing the Convention and the provisions of this chapter.
+
+#### (2) Availability of funds
+
+&emsp;Amounts appropriated pursuant to paragraph (1) are authorized to remain available until expended.
+
+#### (b) Assessment of fees
+
+(1) The Secretary may charge a fee for new or enhanced services that will be undertaken by the Department of State to meet the requirements of this chapter with respect to intercountry adoptions under the Convention and comparable services with respect to other intercountry adoptions. Such fee shall be prescribed by regulation and shall not exceed the cost of such services.
+
+(2) Fees collected under paragraph (1) shall be retained and deposited as an offsetting collection to any Department of State appropriation to recover the costs of providing such services.
+
+(3) Fees authorized under this section shall be available for obligation only to the extent and in the amount provided in advance in appropriations Acts.
+
+#### (c) Restriction
+
+No funds collected under the authority of this section may be made available to an accrediting entity to carry out the purposes of this chapter.
+
+(Pub. L. 106–279, title IV, §403, Oct. 6, 2000, 114 Stat. 841.)
+
+#### Effective Date
+
+Section effective Oct. 6, 2000, with transition rule, see section 505(a)(1), (b) of Pub. L. 106–279, set out as an Effective Dates; Transition Rule note under section 14901 of this title.
+

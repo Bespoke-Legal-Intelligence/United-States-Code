@@ -20,13 +20,13 @@ Section 2026c, Pub. L. 92–513, title VI, §609, as added Pub. L. 102–519, ti
 
 Section 2027, Pub. L. 92–513, title VI, §610, formerly §607, as added Pub. L. 98–547, title I, §101(a), Oct. 25, 1984, 98 Stat. 2761; renumbered §610 and amended Pub. L. 102–519, title III, §§305, 306(a), Oct. 25, 1992, 106 Stat. 3396, 3397, related to prohibited acts under this subchapter, persons exempt from such prohibitions, and chop shops. See sections 33114 and 33115 of Title 49.
 
-Section 2028, Pub. L. 92–513, title VI, §611, formerly §608, as added Pub. L. 98–547, title I, §101(a), Oct. 25, 1984, 98 Stat. 2762; renumbered §611, Pub. L. 102–519, title III, §306(a), Oct. 25, 1992, 106 Stat. 3397, related to enforcement of this subchapter. See section 33115 of Title 49.
+Section 2028, Pub. L. 92–513, title VI, §611, formerly §608, as added Pub. L. 98–547, title I, §101(a), Oct. 25, 1984, 98 Stat. 2762; renumbered §611, Pub. L. 102–519, title III, §306(a), Oct. 25, 1992, 106 Stat. 3397, related toenforcement of this subchapter. See section 33115 of Title 49.
 
 Section 2029, Pub. L. 92–513, title VI, §612, formerly §609, as added Pub. L. 98–547, title I, §101(a), Oct. 25, 1984, 98 Stat. 2763; renumbered §612, Pub. L. 102–519, title III, §306(a), Oct. 25, 1992, 106 Stat. 3397, related to confidentiality of information obtained by Secretary under this subchapter. See section 33116 of Title 49.
 
 Section 2030, Pub. L. 92–513, title VI, §613, formerly §610, as added Pub. L. 98–547, title I, §101(a), Oct. 25, 1984, 98 Stat. 2763; renumbered §613, Pub. L. 102–519, title III, §306(a), Oct. 25, 1992, 106 Stat. 3397, related to judicial review for persons adversely affected by standards or other rules under this subchapter. See section 33117 of Title 49.
 
-Section 2031, Pub. L. 92–513, title VI, §614, formerly §611, as added Pub. L. 98–547, title I, §101(a), Oct. 25,1984, 98 Stat. 2763; renumbered §614, Pub. L. 102–519, title III, §306(a), Oct. 25, 1992, 106 Stat. 3397, prohibited State and local governments from establishing or continuing in effect a vehicle theft prevention standard not identical to that established under section 2022 of this title. See section 33118 of Title 49.
+Section 2031, Pub. L. 92–513, title VI, §614, formerly §611, as added Pub. L. 98–547, title I, §101(a), Oct. 25, 1984, 98 Stat. 2763; renumbered §614, Pub. L. 102–519, title III, §306(a), Oct. 25, 1992, 106 Stat. 3397, prohibited State and local governments from establishing or continuing in effect a vehicle theft prevention standard not identical to that established under section 2022 of this title. See section 33118 of Title 49.
 
 Section 2032, Pub. L. 92–513, title VI, §615, formerly §612, as added Pub. L. 98–547, title I, §101(a), Oct. 25, 1984, 98 Stat. 2763; renumbered §615, Pub. L. 102–519, title III, §306(a), Oct. 25, 1992, 106 Stat. 3397, related to insurance reports and information on theft of motor vehicles. See section 33112 of Title 49.
 

@@ -14,7 +14,7 @@ For the purpose of any investigation or any other proceeding under this chapter,
 
 #### (d) Jurisdiction of courts of United States
 
-In case of contumacy by, or refusal to obey a subpena issued to, any person, the Commission may invoke the aid of any court of the United States within the jurisdiction of which such investigation or proceeding is carried on, or where such person resides or carries on business, in requiring the attendance and testimony of witnesses and the production of books, papers, correspondence, memoranda, contracts, agreements, and other records. Such court may issuean order requiring such person to appear before the Commission or member or officer designated by the Commission, there to produce records, if so ordered, or to give testimony touching the matter under investigation or in question; and any failure to obey such order of the court may be punished by such court as a contempt thereof. All process in any such case may be served in the judicial district whereof such person is an inhabitant or wherever he may be found or may be doing business. Any person who willfully shall fail or refuse to attend and testify or to answer any lawful inquiry or to produce books, papers, correspondence, memoranda, contracts, agreements, or other records, if in his or its power so to do, in obedience to the subpena of the Commission, shall be guilty of a misdemeanor and upon conviction shall be subject to a fine of not more than $1,000 or to imprisonment for a term of not more than one year, or both.
+In case of contumacy by, or refusal to obey a subpena issued to, any person, the Commission may invoke the aid of any court of the United States within the jurisdiction of which such investigation or proceeding is carried on, or where such person resides or carries on business, in requiring the attendance and testimony of witnesses and the production of books, papers, correspondence, memoranda, contracts, agreements, and other records. Such court may issue an order requiring such person to appear before the Commission or member or officer designated by the Commission, there to produce records, if so ordered, or to give testimony touching the matter under investigation or in question; and any failure to obey such order of the court may be punished by such court as a contempt thereof. All process in any such case may be served in the judicial district whereof such person is an inhabitant or wherever he may be found or may be doing business. Any person who willfully shall fail or refuse to attend and testify or to answer any lawful inquiry or to produce books, papers, correspondence, memoranda, contracts, agreements, or other records, if in his or its power so to do, in obedience to the subpena of the Commission, shall be guilty of a misdemeanor and upon conviction shall be subject to a fine of not more than $1,000 or to imprisonment for a term of not more than one year, or both.
 
 #### (e) Testimony of witnesses
 
@@ -43,22 +43,6 @@ Amendment by Pub. L. 91–452 effective on sixtieth day following Oct. 15, 1970,
 Federal Power Commission terminated and functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42, The Public Health and Welfare.
 
 For transfer of functions of Federal Power Commission, with certain reservations, to Chairman of such Commission, see Reorg. Plan No. 9 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Federal Rules of Civil Procedure
-
-Process, see rule 4, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-#### Federal Rules of Criminal Procedure
-
-Criminal contempt, see rule 42 and Notes of Advisory Committee on Rules set out under the rule, Title 18, Appendix, Crimes and Criminal Procedure.
-
-#### Cross References
-
-Contempt proceedings, see sections 401, 402, 3285, and 3691 of Title 18, Crimes and Criminal Procedure.
-
-Fees and mileage of witnesses, see chapter 119 of Title 28, Judiciary and Judicial Procedure.
-
-Immunity of witnesses, see section 6001 et seq. of Title 18, Crimes and Criminal Procedure.
 
 #### Section Referred to in Other Sections
 

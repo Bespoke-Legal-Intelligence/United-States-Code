@@ -1,0 +1,28 @@
+### §430f–8. Establishment of Unit
+
+#### (a) In general
+
+There is established in the States of Mississippi and Tennessee the Corinth Unit of the Shiloh National Military Park.
+
+#### (b) Composition of Unit
+
+The Unit shall be comprised of—
+
+&emsp;(1) the tract consisting of approximately 20 acres generally depicted as “Battery Robinett Boundary” on the Map; and
+
+&emsp;(2) any additional land that the Secretary determines to be suitable for inclusion in the Unit that—
+
+&emsp;&emsp;(A) is under the ownership of a public entity or nonprofit organization; and
+
+&emsp;&emsp;(B) has been identified by the Siege and Battle of Corinth National Historic Landmark Study, dated January 8, 1991.
+
+#### (c) Availability of Map
+
+The Map shall be on file and available for public inspection in the office of the Director of the National Park Service.
+
+(Pub. L. 106–271, §4, Sept. 22, 2000, 114 Stat. 793.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 430f–6, 430f–7, 430f–10, 430f–11, 430f–12 of this title.
+

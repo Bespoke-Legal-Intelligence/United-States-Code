@@ -62,17 +62,23 @@
 
 &emsp;(3) either—
 
-&emsp;&emsp;(A) the production, transfer, possession, or use prohibited by this section is in or affects interstate or foreign commerce; or
+&emsp;&emsp;(A) the production, transfer, possession, or use prohibited by this section is in or affects interstate or foreign commerce, including the transfer of a document by electronic means; or
 
 &emsp;&emsp;(B) the means of identification, identification document, false identification document, or document-making implement is transported in the mail in the course of the production, transfer, possession, or use prohibited by this section.
 
 (d) In this section—
 
-&emsp;(1) the term “document-making implement” means any implement, impression, electronic device, or computer hardware or software, that is specifically configured or primarily used for making an identification document, a false identification document, or another document-making implement;
+&emsp;(1) the term “document-making implement” means any implement, impression, template, computer file, computer disc, electronic device, or computer hardware or software, that is specifically configured or primarily used for making an identification document, a false identification document, or another document-making implement;
 
 &emsp;(2) the term “identification document” means a document made or issued by or under the authority of the United States Government, a State, political subdivision of a State, a foreign government, political subdivision of a foreign government, an international governmental or an international quasi-governmental organization which, when completed with information concerning a particular individual, is of a type intended or commonly accepted for the purpose of identification of individuals;
 
-&emsp;(3) the term “means of identification” means any name or number that may be used, alone or in conjunction with any other information, to identify a specific individual, including any—
+&emsp;(3) the term “false identification document” means a document of a type intended or commonly accepted for the purposes of identification of individuals that—
+
+&emsp;&emsp;(A) is not issued by or under the authority of a governmental entity; and
+
+&emsp;&emsp;(B) appears to be issued by or under the authority of the United States Government, a State, a political subdivision of a State, a foreign government, a political subdivision of a foreign government, or an international governmental or quasi-governmental organization;
+
+&emsp;(4) the term “means of identification” means any name or number that may be used, alone or in conjunction with any other information, to identify a specific individual, including any—
 
 &emsp;&emsp;(A) name, social security number, date of birth, official State or government issued driver's license or identification number, alien registration number, government passport number, employer or taxpayer identification number;
 
@@ -82,11 +88,13 @@
 
 &emsp;&emsp;(D) telecommunication identifying information or access device (as defined in section 1029(e));
 
-&emsp;(4) the term “personal identification card” means an identification document issued by a State or local government solely for the purpose of identification;
+&emsp;(5) the term “personal identification card” means an identification document issued by a State or local government solely for the purpose of identification;
 
-&emsp;(5) the term “produce” includes alter, authenticate, or assemble; and
+&emsp;(6) the term “produce” includes alter, authenticate, or assemble;
 
-&emsp;(6) the term “State” includes any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and any other commonwealth, possession, or territory of the United States.
+&emsp;(7) the term “transfer” includes selecting an identification document, false identification document, or document-making implement and placing or directing the placement of such identification document, false identification document, or document-making implement on an online location where it is available to others; and
+
+&emsp;(8) the term “State” includes any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and any other commonwealth, possession, or territory of the United States.
 
 (e) This section does not prohibit any lawfully authorized investigative, protective, or intelligence activity of a law enforcement agency of the United States, a State, or a political subdivision of a State, or of an intelligence agency of the United States, or any activity authorized under chapter 224 of this title.
 
@@ -102,9 +110,15 @@ Forfeiture Procedures.—The forfeiture of property under this section, includin
 
 Rule of Construction.—For purpose of subsection (a)(7), a single identification document or false identification document that contains 1 or more means of identification shall be construed to be 1 means of identification.
 
-(Added Pub. L. 97–398, §2, Dec. 31, 1982, 96 Stat. 2009; amended Pub. L. 99–646, §44(a), Nov. 10, 1986, 100 Stat. 3601; Pub. L. 100–690, title VII, §7023, Nov. 18, 1988, 102 Stat. 4397; Pub. L. 101–647, title XII, §1205(e), Nov. 29, 1990, 104 Stat. 4831; Pub. L. 103–322, title XXXIII, §330016(1)(K), (M), (O), Sept. 13, 1994, 108 Stat. 2147, 2148; Pub. L. 104–208, div. C, title II, §211(a)(1), Sept. 30, 1996, 110 Stat. 3009–569; Pub. L. 104–294, title VI, §601(a)(3), (p), Oct. 11, 1996, 110 Stat. 3498, 3502; Pub. L. 105–318, §3(a)–(h)(1), Oct. 30, 1998, 112 Stat. 3007–3009.)
+(Added Pub. L. 97–398, §2, Dec. 31, 1982, 96 Stat. 2009; amended Pub. L. 99–646, §44(a), Nov. 10, 1986, 100 Stat. 3601; Pub. L. 100–690, title VII, §7023, Nov. 18, 1988, 102 Stat. 4397; Pub. L. 101–647, title XII, §1205(e), Nov. 29, 1990, 104 Stat. 4831; Pub. L. 103–322, title XXXIII, §330016(1)(K), (M), (O), Sept. 13, 1994, 108 Stat. 2147, 2148; Pub. L. 104–208, div. C, title II, §211(a)(1), Sept. 30, 1996, 110 Stat. 3009–569; Pub. L. 104–294, title VI, §601(a)(3), (p), Oct. 11, 1996, 110 Stat. 3498, 3502; Pub. L. 105–318, §3(a)–(h)(1), Oct. 30, 1998, 112 Stat. 3007–3009; Pub. L. 106–578, §3, Dec. 28, 2000, 114 Stat. 3076.)
 
 #### Amendments
+
+2000—Subsec. (c)(3)(A). Pub. L. 106–578, §3(1), inserted “, including the transfer of a document by electronic means” after “commerce”.
+
+Subsec. (d)(1). Pub. L. 106–578, §3(2)(A), inserted “template, computer file, computer disc,” after “impression,”.
+
+Subsec. (d)(3) to (8). Pub. L. 106–578, §3(2)(B)–(F), added pars. (3) and (7) and redesignated former pars. (3), (4), (5), and (6) as (4), (5), (6), and (8), respectively.
 
 1998—Pub. L. 105–318, §3(h)(1), inserted “and information” at end of section catchline.
 
@@ -154,13 +168,57 @@ Subsec. (b)(3). Pub. L. 103–322, §330016(1)(K), substituted “under this tit
 
 1986—Subsec. (e). Pub. L. 99–646 substituted “chapter 224 of this title” for “title V of the Organized Crime Control Act of 1970 (18 U.S.C. note prec. 3481)”.
 
+#### Effective Date of 2000 Amendment
+
+Pub. L. 106–578, §5, Dec. 28, 2000, 114 Stat. 3077, provided that: “This Act \[amending this section, repealingsection 1738 of this title, and enacting provisions set out as a note below\] and the amendments made by this Act shall take effect 90 days after the date of enactment of this Act \[Dec. 28, 2000\].”
+
 #### Effective Date of 1996 Amendment
 
 Section 211(c) of div. C of Pub. L. 104–208 provided that: “This section \[amending this section and sections 1425 to 1427, 1541 to 1544, and 1546 of this title and enacting provisions set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] and the amendments made by this section shall apply with respect to offenses occurring on or after the date of the enactment of this Act \[Sept. 30, 1996\].”
 
+#### Coordinating Committee on False Identification
+
+Pub. L. 106–578, §2, Dec. 28, 2000, 114 Stat. 3075, provided that:
+
+“(a)
+
+In General.—The Attorney General and the Secretary of the Treasury shall establish a coordinating committee to ensure, through existing interagency task forces or other means, that the creation and distribution of false identification documents (as defined in section 1028(d)(3) of title 18, United States Code, as added by section 3(2) of this Act) is vigorously investigated and prosecuted.
+
+“(b)
+
+Membership.—The coordinating committee shall consist of the Director of the United States Secret Service, the Director of the Federal Bureau of Investigation, the Attorney General, the Commissioner of Social Security, and the Commissioner of Immigration and Naturalization, or their respective designees.
+
+“(c)
+
+Term.—The coordinating committee shall terminate 2 years after the effective date of this Act \[see Effective Date of 2000 Amendment note above\].
+
+“(d)
+
+Report.—
+
+&emsp;“(1)
+
+In general.—The Attorney General and the Secretary of the Treasury, at the end of each year of the existence of the committee, shall report to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives on the activities of the committee.
+
+&emsp;“(2)
+
+Contents.—The report referred to in paragraph (1) shall include—
+
+&emsp;&emsp;“(A) the total number of indictments and informations, guilty pleas, convictions, and acquittals resulting from the investigation and prosecution of the creation and distribution of false identification documents during the preceding year;
+
+&emsp;&emsp;“(B) identification of the Federal judicial districts in which the indictments and informations were filed, and in which the subsequent guilty pleas, convictions, and acquittals occurred;
+
+&emsp;&emsp;“(C) specification of the Federal statutes utilized for prosecution;
+
+&emsp;&emsp;“(D) a brief factual description of significant investigations and prosecutions;
+
+&emsp;&emsp;“(E) specification of the sentence imposed as a result of each guilty plea and conviction; and
+
+&emsp;&emsp;“(F) recommendations, if any, for legislative changes that could facilitate more effective investigation and prosecution of the creation and distribution of false identification documents.”
+
 #### Constitutional Authority
 
-Pub. L. 105–318, §2, Oct. 30, 1998, 112 Stat. 3007, provided that: “The constitutional authority upon which this Act \[see Short Title of 1998 Amendments note set out under section 1001 of this title\] rests is the power of Congress to regulate commerce with foreign nations and among the several States, and the authority to make all laws which shall be necessary and proper forcarrying into execution the powers vested by the Constitution in the Government of the United States or in any department or officer thereof, as set forth in article I, section 8 of the United States Constitution.”
+Pub. L. 105–318, §2, Oct. 30, 1998, 112 Stat. 3007, provided that: “The constitutional authority upon which this Act \[see Short Title of 1998 Amendments note set out under section 1001 of this title\] rests is the power of Congress to regulate commerce with foreign nations and among the several States, and the authority to make all laws which shall be necessary and proper for carrying into execution the powers vested by the Constitution in the Government of the United States or in any department or officer thereof, as set forth in article I, section 8 of the United States Constitution.”
 
 #### Centralized Complaint and Consumer Education Service for Victims of Identity Theft
 

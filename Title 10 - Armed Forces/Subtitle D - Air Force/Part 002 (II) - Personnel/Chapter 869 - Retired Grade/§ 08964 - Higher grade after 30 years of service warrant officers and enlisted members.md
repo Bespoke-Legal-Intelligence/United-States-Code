@@ -34,7 +34,7 @@ Aug. 21, 1941, ch. 384, §5 (1st proviso, less last 39 words; and last proviso);
 
 June 29, 1948, ch. 708, §203(e) (less 30 words before proviso), 62 Stat. 1086.
 
-The words “when his active service plus his service on the retired list totals 30 years” are substituted for the words “upon the completion of thirty years’ \[years of\] service, to include the sum of his active service and his service on the retired list”, in 10:594 and 1004. The words “under any provision of law”, in 10:594 and 1004; “officer, flight officer, or warrant officer”, in 10:594; and “commissioned, warrant, or enlisted”, in 10:1004; are omitted as surplusage. 10:594 (last proviso) and 1004 (proviso) are omitted as superseded by section 1372 of this title.
+The words “when his active service plus his service on the retired list totals 30 years” are substituted for the words “upon the completion of thirty years’ \[years of\] service, to include the sum of his active service andhis service on the retired list”, in 10:594 and 1004. The words “under any provision of law”, in 10:594 and 1004; “officer, flight officer, or warrant officer”, in 10:594; and “commissioned, warrant, or enlisted”, in 10:1004; are omitted as surplusage. 10:594 (last proviso) and 1004 (proviso) are omitted as superseded by section 1372 of this title.
 
 1958
 
@@ -63,12 +63,6 @@ May 31, 1956, ch. 348, §1, 70 Stat. 222.
 #### Effective Date of 1987 Amendment
 
 Amendment by Pub. L. 100–180 applicable to any reserve enlisted member who completes 30 years of service in Armed Forces before, on, or after Dec. 4, 1987, and no person to be paid retired pay at higher rate by reason of enactment of Pub. L. 100–180 for any period before Dec. 4, 1987, see section 512(f) of Pub. L. 100–180, set out as a note under section 3964 of this title.
-
-#### Cross References
-
-Recomputation of retired pay to reflect advancement on retired list, see section 8992 of this title.
-
-Restoration to former grade, see section 8965 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -12,15 +12,15 @@ This section was included to make clear that the provisions of this chapter are 
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-1982—Pub. L. 97–164 substituted “Application to other courts” for “Application to Canal Zone, Guam and Virgin Islands” in section catchline, designated existing provisions as subsec. (a), substituted “Sections 452 through 459 and section 462 of this chapter shall also apply to the United States Claims Court, to each court created by Act of Congress in a territory which is invested with any jurisdiction of a district court of the United States, and to the judges thereof” for “Sections 452–459 of this chapter shall also apply to the United States District Court for the District of the Canal Zone, the District Court of Guam and the District Court of the Virgin Islands and the judges thereof”, and added subsec. (b).
+<b>1982</b>—Pub. L. 97–164 substituted “Application to other courts” for “Application to Canal Zone, Guam and Virgin Islands” in section catchline, designated existing provisions as subsec. (a), substituted “Sections 452 through 459 and section 462 of this chapter shall also apply to the United States Claims Court, to each court created by Act of Congress in a territory which is invested with any jurisdiction of a district court of the United States, and to the judges thereof” for “Sections 452–459 of this chapter shall also apply to the United States District Court for the District of the Canal Zone, the District Court of Guam and the District Court of the Virgin Islands and the judges thereof”, and added subsec. (b).
 
-1978—Pub. L. 95–598 struck out “Alaska,” after “Application to” in section catchline.
+<b>1978</b>—Pub. L. 95–598 struck out “Alaska,” after “Application to” in section catchline.
 
-1958—Pub. L. 85–508 struck out provisions which made sections 452 to 459 applicable to the District Court for the Territory of Alaska. See section 81A of this title which establishes a United States District Court for the State of Alaska.
+<b>1958</b>—Pub. L. 85–508 struck out provisions which made sections 452 to 459 applicable to the District Court for the Territory of Alaska. See section 81A of this title which establishes a United States District Court for the State of Alaska.
 
-1951—Act Oct. 31, 1951, inserted “, Guam” in section catchline, and inserted reference to the District Court of Guam in text.
+<b>1951</b>—Act Oct. 31, 1951, inserted “, Guam” in section catchline, and inserted reference to the District Court of Guam in text.
 
 #### Effective Date of 1992 Amendment
 
@@ -38,11 +38,7 @@ Amendment by Pub. L. 95–598 effective Nov. 6, 1978, see section 402(d) of Pub.
 
 Amendment by Pub. L. 85–508 effective Jan. 3, 1959, upon admission of Alaska into the Union pursuant to Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, see notes set out under section 81A of this title and preceding section 21 of Title 48, Territories and Insular Possessions.
 
-#### Cross References
-
-Convention on the Settlement of Investment Disputes, exclusive jurisdiction of district courts of the United States, including the courts enumerated in this section, over actions and proceedings for enforcement of arbitration awards under the Convention, regardless of amount in controversy, see section 1650a of Title 22, Foreign Relations and Intercourse.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in title 9 section 203; title 16 sections 1540, 3375, 4912; title 19 section 3473; title 20 section 290i–7; title 22 sections 283gg, 285f, 290g–6, 290k–9, 290k–11, 290m, 1650a; title 33 section 1479.
+This section is referred to in title 9 section 203; title 16 sections 1540, 3375, 4912; title 19 section 3473; title 20section 290i–7; title 22 sections 283gg, 285f, 290g–6, 290k–9, 290k–11, 290m, 1650a; title 33 section 1479.
 

@@ -62,12 +62,6 @@ Pub. L. 104–106, §561(a), designated existing provisions as subsec. (a), inse
 
 Section 561(e) of Pub. L. 104–106 provided that: “The amendments made by this section \[enacting section 6328 of this title and amending this section and sections 1405, 3925, 3926, 8925, and 8926 of this title\] shall take effect on the date of the enactment of this Act \[Feb. 10, 1996\] and shall apply to any period of time covered by section 972 of title 10, United States Code, that occurs after that date.”
 
-#### Cross References
-
-Absence without leave, punishment, see section 886 of this title.
-
-Retirement, years of service to exclude time made up under this section, see sections 3925 and 8925 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 507, 1405, 3925, 3926, 6328, 8925, 8926 of this title.

@@ -54,6 +54,10 @@ Not later than one year after November 28, 1990, the Director shall transmit to 
 
 1991—Subsec. (a). Pub. L. 102–237 substituted “Resources Program” for “Resources program”.
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (d) of this section relating to biennial reports to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 49 of House Document No. 103–7.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 5843 of this title.

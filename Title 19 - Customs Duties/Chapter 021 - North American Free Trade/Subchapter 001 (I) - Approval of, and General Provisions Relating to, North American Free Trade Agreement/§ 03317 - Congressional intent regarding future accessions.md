@@ -28,7 +28,7 @@ Section 3311(a) of this title may not be construed as conferring Congressional a
 
 &emsp;&emsp;&emsp;(ii) have made significant progress in opening their markets to United States exports of goods and services and export-related investment by United States persons; and
 
-&emsp;&emsp;(B) the further opening of whose markets has the greatest potential to increase United States exports of goods and services and export-related investment by United States persons, either directly or through the establishment of a beneficial precedent.
+&emsp;&emsp;(B) the further opening of whose markets has the greatest potential to increase UnitedStates exports of goods and services and export-related investment by United States persons, either directly or through the establishment of a beneficial precedent.
 
 #### (3) Presidential determination
 
@@ -74,5 +74,5 @@ Section 3311(a) of this title may not be construed as conferring Congressional a
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 22 section 6062.
+This section is referred to in section 2703 of this title; title 22 section 6062.
 

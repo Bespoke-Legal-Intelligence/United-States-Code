@@ -4,7 +4,7 @@ In this chapter:
 
 &emsp;(1) The term “Foundation” means the Barry Goldwater Scholarship and Excellence in Education Foundation established under section 4703(a) of this title.
 
-&emsp;(2) The term “Board” means the Board of Trustees of the Barry Goldwater Scholarshipand Excellence in Education Foundation established under section 4703(b) of this title.
+&emsp;(2) The term “Board” means the Board of Trustees of the Barry Goldwater Scholarship and Excellence in Education Foundation established under section 4703(b) of this title.
 
 &emsp;(3) The term “fund” means the Barry Goldwater Scholarship and Excellence in Education Fund provided for under section 4707 of this title.
 

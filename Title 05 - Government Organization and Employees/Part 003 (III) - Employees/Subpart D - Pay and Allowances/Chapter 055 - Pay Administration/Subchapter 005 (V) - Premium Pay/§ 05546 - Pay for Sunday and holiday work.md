@@ -46,7 +46,7 @@ July 18, 1958, Pub. L. 85–533, §1, 72 Stat. 377.
 
 In subsections (a) and (b), the word “officer” is omitted as included in “employee”.
 
-In subsections (b) and (c), the word “designated” is substituted for “such a” and “such” in former section 922(b) and (c) to identify the holiday as one designated by statute, Executive order, or the Board of Commissioners of the District of Columbia.
+In subsections (b) and (c), the word “designated” is substituted for “such a” and “such” in former section922(b) and (c) to identify the holiday as one designated by statute, Executive order, or the Board of Commissioners of the District of Columbia.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -82,7 +82,7 @@ Amendment by Pub. L. 90–623 intended to restate without substantive change the
 
 #### Transfer of Functions
 
-District of Columbia Council, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by Pub. L. 93–198, title VII, §711, Dec. 24, 1973, 87 Stat. 818, classified to section 1–211 of the District of Columbia Code, and replaced by Council of District of Columbia, as provided by Pub. L. 93–198, title IV, §401, Dec. 24, 1973, 87 Stat. 785, classified to section 1–221 of the District of Columbia Code.
+District of Columbia Council, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by Pub. L. 93–198, title VII, §711, Dec. 24, 1973, 87 Stat. 818, and replaced by Council of District of Columbia, as provided by section 401 of Pub. L. 93–198.
 
 #### Condition of Performance
 
@@ -91,10 +91,6 @@ Pub. L. 105–277, div. A, §101(h) \[title VI, §624\], Oct. 21, 1998, 112 Stat
 Similar provisions were contained in the following prior appropriations act:
 
 Pub. L. 105–61, title VI, §636, Oct. 10, 1997, 111 Stat. 1316.
-
-#### Cross References
-
-Legal public holidays, see section 6103 of this title.
 
 #### Section Referred to in Other Sections
 

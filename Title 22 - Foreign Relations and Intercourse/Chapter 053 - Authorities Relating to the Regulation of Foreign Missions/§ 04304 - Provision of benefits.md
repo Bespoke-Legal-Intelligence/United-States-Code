@@ -18,7 +18,7 @@ If the Secretary determines that such action is reasonably necessary on the basi
 
 &emsp;(5) subject to subsection (f) of this section, to implement an exchange of property between the Government of the United States and the government of a foreign country, such property to be used by each government in the respective receiving state for, or in connection with, diplomatic or consular establishments,
 
-> then the Secretary may require a foreign mission (A) to obtain benefits from or through the Secretary on such terms and conditions as the Secretary may approve, or (B) to forego the acceptance, use, or relation of any benefit or to comply with such terms and conditions as the Secretary may determine as a condition to the execution or performance in the United States of any contract or other agreement, the acquisition, retention, or use of any real property, or the application for or acceptance of any benefit (including any benefit from or authorized by any Federal, State, or municipal governmental authority, or any entity providing public services).
+> then the Secretary may require a foreign mission (A) to obtain benefits from or through theSecretary on such terms and conditions as the Secretary may approve, or (B) to forego the acceptance, use, or relation of any benefit or to comply with such terms and conditions as the Secretary may determine as a condition to the execution or performance in the United States of any contract or other agreement, the acquisition, retention, or use of any real property, or the application for or acceptance of any benefit (including any benefit from or authorized by any Federal, State, or municipal governmental authority, or any entity providing public services).
 
 #### (c) Surcharge or fee; waiver of recourse
 
@@ -56,10 +56,6 @@ Nothing in this chapter shall be deemed to preclude or limit in any way the auth
 
 The Foreign Service Buildings Act, 1926, referred to in subsec. (f)(1), is act May 7, 1926, ch. 250, 44 Stat. 403, as amended, which is classified generally to chapter 8 (§292 et seq.) of this title. For complete classification of this Act to the Code, see section 299 of this title and Tables.
 
-#### Codification
-
-Section is also set out in D.C. Code, §5–1204.
-
 #### Amendments
 
 1994—Subsecs. (a) to (c)(1). Pub. L. 103–236, §162(<i>o</i>)(3)(A), substituted “Secretary on such terms” for “Director on such terms” in subsecs. (a) and (b) and “Secretary” for “Director” in subsec. (c)(1).
@@ -76,7 +72,7 @@ Subsec. (e). Pub. L. 99–93, §126(b), substituted “chapter” for “section
 
 #### Change of Name
 
-Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives and Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives and Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, setout as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1994 Amendment
 

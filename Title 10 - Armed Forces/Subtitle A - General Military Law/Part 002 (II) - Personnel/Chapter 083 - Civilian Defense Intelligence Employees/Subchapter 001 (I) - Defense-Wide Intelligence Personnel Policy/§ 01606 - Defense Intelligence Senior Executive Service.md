@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment.—The Secretary of Defense may establish a Defense Intelligence Senior Executive Service for defense intelligence positions established pursuant to section 1601(a) of this title that are equivalent to Senior Executive Service positions. The number of positions in the Defense Intelligence Senior Executive Service may not exceed 492.
+Establishment.—The Secretary of Defense may establish a Defense Intelligence Senior Executive Service for defense intelligence positions established pursuant to section 1601(a) of this title that are equivalent to Senior Executive Service positions. The number of positions in the Defense Intelligence Senior Executive Service may not exceed 517.
 
 (b)
 
@@ -12,15 +12,19 @@ Provisions.—The Secretary of Defense shall prescribe regulations for the Defen
 
 (c)
 
-Award of Rank to Members of the Defense Intelligence Senior Executive Service.—The President, based on the recommendations of the Secretary of Defense, may award a rank referred to in section 4507 of title 5 tomembers of the Defense Intelligence Senior Executive Service. The award of such rank shall be made in a manner consistent with the provisions of that section.
+Award of Rank to Members of the Defense Intelligence Senior Executive Service.—The President, based on the recommendations of the Secretary of Defense, may award a rank referred to in section 4507 of title 5 to members of the Defense Intelligence Senior Executive Service. The award of such rank shall be made in a manner consistent with the provisions of that section.
 
-(Added Pub. L. 104–201, div. A, title XVI, §1632(b), Sept. 23, 1996, 110 Stat. 2747.)
+(Added Pub. L. 104–201, div. A, title XVI, §1632(b), Sept. 23, 1996, 110 Stat. 2747; amended Pub. L. 106–398, §1 \[\[div. A\], title XI, §1142\], Oct. 30, 2000, 114 Stat. 1654, 1654A–319.)
 
 #### Prior Provisions
 
 A prior section 1606 was renumbered section 1622 of this title.
 
 Provisions similar to those in this section were contained in sections 1590(f), (g) and 1601(a)–(c) of this title prior to repeal by Pub. L. 104–201, §§1632(a)(3), 1633(a).
+
+#### Amendments
+
+2000—Subsec. (a). Pub. L. 106–398 substituted “517” for “492”.
 
 #### Effective Date
 

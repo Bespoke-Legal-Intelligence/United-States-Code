@@ -194,6 +194,16 @@
 
 &emsp;&emsp;&emsp;The filing of a motion to reopen an order entered pursuant to subsection (b)(5) of this section is subject to the deadline specified in subparagraph (C) of such subsection.
 
+#### (iv) Special rule for battered spouses and children
+
+&emsp;&emsp;&emsp;The deadline specified in subsection (b)(5)(C) of this section for filing a motion to reopen does not apply—
+
+&emsp;&emsp;&emsp;&emsp;(I) if the basis for the motion is to apply for relief under clause (iii) or (iv) of section 1154(a)(1)(A) of this title, clause (ii) or (iii) of section 1154(a)(1)(B) of this title, or section 1229b(b)(2) of this title;
+
+&emsp;&emsp;&emsp;&emsp;(II) if the motion is accompanied by a cancellation of removal application to be filed with the Attorney General or by a copy of the self-petition that has been or will be filed with the Immigration and Naturalization Service upon the granting of the motion to reopen; and
+
+&emsp;&emsp;&emsp;&emsp;(III) if the motion to reopen is filed within 1 year of the entry of the final order of removal, except that the Attorney General may, in the Attorney General's discretion, waive this time limitation in the case of an alien who demonstrates extraordinary circumstances or extreme hardship to the alien's child.
+
 #### (d) Stipulated removal
 
 The Attorney General shall provide by regulation for the entry by an immigration judge of an order of removal stipulated to by the alien (or the alien's representative) and the Service. A stipulated order shall constitute a conclusive determination of the alien's removability from the United States.
@@ -214,13 +224,45 @@ In this section and section 1229b of this title:
 
 &emsp;&emsp;(B) in the case of an alien admitted to the United States, that the alien is deportable under section 1227 of this title.
 
-(June 27, 1952, ch. 477, title II, ch. 4, §240, as added Pub. L. 104–208, div. C, title III, §304(a)(3), Sept. 30, 1996, 110 Stat. 3009–589.)
+(June 27, 1952, ch. 477, title II, ch. 4, §240, as added Pub. L. 104–208, div. C, title III, §304(a)(3), Sept. 30, 1996, 110 Stat. 3009–589; amended Pub. L. 106–386, div. B, title V, §1506(c)(1)(A), Oct. 28, 2000, 114 Stat. 1528.)
+
+#### Amendments
+
+2000—Subsec. (c)(6)(C)(iv). Pub. L. 106–386 added cl. (iv).
+
+#### Effective Date of 2000 Amendment
+
+Pub. L. 106–386, div. B, title V, §1506(c)(1)(B), Oct. 28, 2000, 114 Stat. 1528, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall take effect as if included in the enactment of section 304 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (8 U.S.C. 1229–1229c) \[Pub. L. 104–208\].”
 
 #### Effective Date
 
 Section effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
 
-Subsec. (c)(3)(B), (C) of this section applicable to proving convictions entered before, on, or after Sept. 30, 1996, see section 322(c) of Pub. L. 104–208, set out asan Effective Date of 1996 Amendments note under section 1101 of this title.
+Subsec. (c)(3)(B), (C) of this section applicable to proving convictions entered before, on, or after Sept. 30, 1996, see section 322(c) of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
+
+#### Elimination of Time Limitations on Motions To Reopen Deportation Proceedings for Victims of Domestic Violence
+
+Pub. L. 106–386, div. B, title V, §1506(c)(2), Oct. 28, 2000, 114 Stat. 1528, provided that:
+
+“(A)
+
+In general.—Notwithstanding any limitation imposed by law on motions to reopen or rescind deportation proceedings under the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\] (as in effect before the title III–A effective date in section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 \[Pub. L. 104–208\] (8 U.S.C. 1101 note)), there is no time limit on the filing of a motion to reopen such proceedings, and the deadline specified in section 242B(c)(3) of the Immigration and Nationality Act (as so in effect) (8 U.S.C. 1252b(c)(3)) does not apply—
+
+&emsp;“(i) if the basis of the motion is to apply for relief under clause (iii) or (iv) of section 204(a)(1)(A) of the Immigration and Nationality Act (8 U.S.C. 1154(a)(1)(A)), clause (ii) or (iii) of section 204(a)(1)(B) of such Act (8 U.S.C. 1154(a)(1)(B)), or section 244(a)(3) of such Act (as so in effect) (8 U.S.C. 1254(a)(3)); and
+
+&emsp;“(ii) if the motion is accompanied by a suspension of deportation application to be filed with the Attorney General or by a copy of the self-petition that will be filed with the Immigration and Naturalization Service upon the granting of the motion to reopen.
+
+“(B)
+
+Applicability.—Subparagraph (A) shall apply to motions filed by aliens who—
+
+&emsp;“(i) are, or were, in deportation proceedings under the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\](as in effect before the title III–A effective date in section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (8 U.S.C. 1101 note)); and
+
+&emsp;“(ii) have become eligible to apply for relief under clause (iii) or (iv) of section 204(a)(1)(A) of the Immigration and Nationality Act (8 U.S.C. 1154(a)(1)(A)), clause (ii) or (iii) of section 204(a)(1)(B) of such Act (8 U.S.C. 1154(a)(1)(B)), or section 244(a)(3) of such Act (as in effect before the title III–A effective date in section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (8 U.S.C. 1101 note)) as a result of the amendments made by—
+
+&emsp;&emsp;“(I) subtitle G \[§40701 et seq.\] of title IV of the Violent Crime Control and Law Enforcement Act of 1994 (Public Law 103–322; 108 Stat. 1953 et seq.) \[see Tables for classification\]; or
+
+&emsp;&emsp;“(II) this title \[see Short Title of 2000 Amendment note set out under section 1101 of this title\].”
 
 #### References to Order of Removal Deemed To Include Order of Exclusion and Deportation
 

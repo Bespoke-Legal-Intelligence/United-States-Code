@@ -12,24 +12,6 @@ This Act, referred to in text, is act Oct. 15, 1914, ch. 323, 38 Stat. 730, as a
 
 Act June 25, 1948, eff. Sept. 1, 1948, substituted “United States attorneys” for “district attorneys of the United States”. See section 541 et seq. of Title 28, Judiciary and Judicial Procedure.
 
-#### Federal Rules of Appellate Procedure
-
-Stay or injunction pending appeal, see rule 8, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-#### Federal Rules of Civil Procedure
-
-One form of action, see rule 2.
-
-Process and injunctions, see rules 4 and 65.
-
-Rules as governing the procedure in all suits of a civil nature whether cognizable as cases at law or in equity, see rule 1.
-
-#### Cross References
-
-Restraining violations of trusts in restraint of import trade, see section 9 of this title.
-
-Restraining violations of unlawful combinations and monopolies, see section 4 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 4016 of this title.

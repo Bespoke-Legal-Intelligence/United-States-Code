@@ -140,11 +140,11 @@ In subsections (c) and (d), the words “other armed forces” are substituted f
 
 In subsection (d), the words “other than subsistence supplies” are inserted, since the sale of subsistence supplies is covered by subsection (c).
 
-In subsection (e), the words “a person who has been discharged” are substituted for the words “discharged officers and enlisted men”. The words “Navy \* \* \* or Marine Corps”, omitted from the 1952 edition of the United States Code, are inserted to conform to the source statute. The words “may buy” are substituted for the words “shall \* \* \* be permitted to purchase”. The words “at the prices at which like property is sold” are substituted for the words “at the same price as charged”. The word “member” is substituted for the words “officers and enlisted men”. The words “while undergoing such care and treatment” are omitted as surplusage.
+In subsection (e), the words “a person who has been discharged” are substituted for the words “discharged officers and enlisted men”. The words “Navy \* \* \* or Marine Corps”, omitted from the 1952 edition of the United States Code, are inserted to conform to the source statute. The words “may buy” are substituted for the words “shall \* \* \* be permitted to purchase”. The words “at the prices at which like property is sold” are substituted for the words “at the same priceas charged”. The word “member” is substituted for the words “officers and enlisted men”. The words “while undergoing such care and treatment” are omitted as surplusage.
 
 In subsection (f), the words “person who has been discharged” are substituted for the words “former members \* \* \* who have been separated therefrom”. The words “at the prices at which like articles are sold to members” are inserted to conform to the last sentence of subsection (a) and subsection (e).
 
-In subsection (g), the words “regulations to be prescribed by the Secretary” are substituted for the words “Army Regulations”. The words “of the Government”are omitted as surplusage. 10:1253 (last 22 words of 1st sentence) is omitted as surplusage. The words “or to another executive department of the Government” are omitted as superseded by section 7 of the act of May 21, 1920, ch. 194, as amended (31 U.S.C. 686). The provisions of 10:1253 relating to the computation of cost are omitted to reflect Title IV of the National Security Act of 1947, as amended (63 Stat. 585), which authorized the Secretary of Defense to prescribe regulations governing the use and sale of certain inventories at cost, including applicable administrative expenses. (See opinion of the Assistant General Counsel (Fiscal Matters) of the Office of the Secretary of Defense, January 4, 1955.)
+In subsection (g), the words “regulations to be prescribed by the Secretary” are substituted for the words “Army Regulations”. The words “of the Government” are omitted as surplusage. 10:1253 (last 22 words of 1st sentence) is omitted as surplusage. The words “or to another executive department of the Government” are omitted as superseded by section 7 of the act of May 21, 1920, ch. 194, as amended (31 U.S.C. 686). The provisions of 10:1253 relating to the computation of cost are omitted to reflect Title IV of the National Security Act of 1947, as amended (63 Stat. 585), which authorized the Secretary of Defense to prescribe regulations governing the use and sale of certain inventories at cost, including applicable administrative expenses. (See opinion of the Assistant General Counsel (Fiscal Matters) of the Office of the Secretary of Defense, January 4, 1955.)
 
 In subsection (h), the word “outside” is substituted for the words “beyond the continental limitations”. The words “or in Alaska” are omitted, since, under section 101(1) of this title, the words “United States” are defined to include only the States and the District of Columbia. The word “continental”, after the words “within the”, is omitted for the same reason. The last sentence is substituted for 10:1241 (proviso).
 
@@ -173,10 +173,6 @@ Subsec. (f). Pub. L. 104–106, §375(b)(2)(B), inserted “or by commercial cre
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
-
-#### Cross References
-
-Settlement of accounts, deductions from pay, see section 9837 of this title.
 
 #### Section Referred to in Other Sections
 

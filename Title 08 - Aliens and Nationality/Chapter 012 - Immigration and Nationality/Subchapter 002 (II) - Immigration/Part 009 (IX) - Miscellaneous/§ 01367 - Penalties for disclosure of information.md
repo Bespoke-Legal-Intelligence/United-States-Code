@@ -10,13 +10,15 @@ Except as provided in subsection (b) of this section, in no case may the Attorne
 
 &emsp;&emsp;(B) a member of the spouse's or parent's family residing in the same household as the alien who has battered the alien or subjected the alien to extreme cruelty when the spouse or parent consented to or acquiesced in such battery or cruelty,
 
-&emsp;&emsp;(C) a spouse or parent who has battered the alien's child or subjected the alien's child to extreme cruelty (without the active participation of the alien in the battery or extreme cruelty), or
+&emsp;&emsp;(C) a spouse or parent who has battered the alien's child or subjected the alien's child to extreme cruelty (without the active participation of the alien in the battery or extreme cruelty),
 
-&emsp;&emsp;(D) a member of the spouse's or parent's family residing in the same household as the alien who has battered the alien's child or subjected the alien's child to extreme cruelty when the spouse or parent consented to or acquiesced in such battery or cruelty and the alien did not actively participate in such battery or cruelty,
+&emsp;&emsp;(D) a member of the spouse's or parent's family residing in the same household as the alien who has battered the alien's child or subjected the alien's child to extreme cruelty when the spouse or parent consented to or acquiesced in such battery or cruelty and the alien did not actively participate in such battery or cruelty, or
+
+&emsp;&emsp;(E) in the case of an alien applying for status under section 101(a)(15)(U) of the Immigration and Nationality Act \[8 U.S.C. 1101(a)(15)(U)\], the perpetrator of the substantial physical or mental abuse and the criminal activity,
 
 > &emsp;unless the alien has been convicted of a crime or crimes listed in section 241(a)(2) of the Immigration and Nationality Act \[8 U.S.C. 1227(a)(2)\]; or
 
-&emsp;(2) permit use by or disclosure to anyone (other than a sworn officer or employee of the Department, or bureau or agency thereof, for legitimate Department, bureau, or agency purposes) of any information which relates to an alien who is the beneficiary of an application for relief under clause (iii) or (iv) of section 204(a)(1)(A), clause (ii) or (iii) of section 204(a)(1)(B), section 216(c)(4)(C), or section 240A(a)(3) <sup>1</sup> of such Act \[8 U.S.C. 1154(a)(1)(A)(iii), (iv), (B)(ii), (iii), 1186a(c)(4)(C), 1229b(b)(2)\] as an alien (or the parent of a child) who has been battered or subjected to extreme cruelty.
+&emsp;(2) permit use by or disclosure to anyone (other than a sworn officer or employee of the Department, or bureau or agency thereof, for legitimate Department, bureau, or agency purposes) of any information which relates to an alien who is the beneficiary of an application for relief under clause (iii) or (iv) of section 204(a)(1)(A), clause (ii) or (iii) of section 204(a)(1)(B), section 216(c)(4)(C), section 101(a)(15)(U), or section 240A(a)(3) <sup>1</sup> of such Act \[8 U.S.C. 1154(a)(1)(A)(iii), (iv), (B)(ii), (iii), 1186a(c)(4)(C), 1101(a)(15)(U), 1229b(b)(2)\] as an alien (or the parent of a child) who has been battered or subjected to extreme cruelty.
 
 > The limitation under paragraph (2) ends when the application for relief is denied and all opportunities for appeal of the denial have been exhausted.
 
@@ -36,7 +38,7 @@ Except as provided in subsection (b) of this section, in no case may the Attorne
 
 Anyone who willfully uses, publishes, or permits information to be disclosed in violation of this section shall be subject to appropriate disciplinary action and subject to a civil money penalty of not more than $5,000 for each such violation.
 
-(Pub. L. 104–208, div. C, title III, §§308(g)(8)(D), 384, Sept. 30, 1996, 110 Stat. 3009–624, 3009–652; Pub. L. 105–33, title V, §5572(b), Aug. 5, 1997, 111 Stat. 641.)
+(Pub. L. 104–208, div. C, title III, §§308(g)(8)(D), 384, Sept. 30, 1996, 110 Stat. 3009–624, 3009–652; Pub. L. 105–33, title V, §5572(b), Aug. 5, 1997, 111 Stat. 641; Pub. L. 106–386, div. B, title V, §1513(d), Oct. 28, 2000, 114 Stat. 1536.)
 
 #### References in Text
 
@@ -50,13 +52,17 @@ Section is comprised of section 384 of div. C of Pub. L. 104–208. Subsec. (d) 
 
 #### Amendments
 
+2000—Subsec. (a)(1)(E). Pub. L. 106–386, §1513(d)(1)–(3), added subpar. (E).
+
+Subsec. (a)(2). Pub. L. 106–386, §1513(d)(4), inserted “section 101(a)(15)(U),” after “section 216(c)(4)(C),”.
+
 1997—Subsec. (b)(5). Pub. L. 105–33 added par. (5).
 
 1996—Subsec. (a)(2). Pub. L. 104–208, §308(g)(8)(D), which directed amendment of section 364(a)(2) of div. C of Pub. L. 104–208 by substituting “240A(a)(3)” for “244(a)(3)”, was executed by making the substitution in subsec. (a)(2) of this section to reflect the probable intent of Congress. Div. C of Pub. L. 104–208 does not contain a section 364.
 
 #### Effective Date of 1997 Amendment
 
-Section 5582 of title V of Pub. L. 105–33 provided that: “Except as otherwise provided, the amendments madeby this chapter \[chapter 4 (§§5561–5582) of subtitle F of title V of Pub. L. 105–33, amending this section, sections 1611 to 1613, 1621, 1622, 1631, 1632, 1641 to 1643, and 1645 of this title, and sections 608, 1383, and 1437y of Title 42, The Public Health and Welfare\] shall be effective as if included in the enactment of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[Pub. L. 104–193\].”
+Section 5582 of title V of Pub. L. 105–33 provided that: “Except as otherwise provided, the amendments made by this chapter \[chapter 4 (§§5561–5582) of subtitle F of title V of Pub. L. 105–33, amending this section, sections 1611 to 1613, 1621, 1622, 1631, 1632, 1641 to 1643, and 1645 of this title, and sections 608, 1383, and 1437y of Title 42, The Public Health and Welfare\] shall be effective as if included in the enactment of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[Pub. L. 104–193\].”
 
 #### Effective Date of 1996 Amendment
 

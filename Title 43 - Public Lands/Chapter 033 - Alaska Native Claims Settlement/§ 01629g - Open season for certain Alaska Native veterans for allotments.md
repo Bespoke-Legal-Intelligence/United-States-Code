@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(3) Trade and Manufacturing sites.
 
-&emsp;&emsp;(4) Reindeer sites and Reindeer headquarters sites.
+&emsp;&emsp;(4) Reindeer sites or headquarters sites.
 
 &emsp;&emsp;(5) Cemetery sites.
 
@@ -40,7 +40,7 @@
 
 &emsp;(A) lands withdrawn pursuant to section 1610(a)(1) of this title which were not selected, or were relinquished after selection;
 
-&emsp;(B) lands contiguous to the outer boundary of lands withdrawn pursuant to section 1610(a)(1)(C) of this title, except lands excluded from selection by a provision of subsection (a)(3) of this section and lands within a National Park; and
+&emsp;(B) lands contiguous to the outer boundary of lands withdrawn pursuant to section 1610(a)(1)(C) of this title, except lands excluded from selection by a provision of subsection (a)(3) of this section and lands within a National Park; or
 
 &emsp;(C) vacant, unappropriated and unreserved lands.
 
@@ -60,11 +60,11 @@
 
 &emsp;(B) is a veteran who served during the period between January 1, 1969 and December 31, 1971 and—
 
-&emsp;&emsp;(i) served at least 6 months between January 1, 1969 and June 2, 1971; or
+&emsp;&emsp;(i) served at least 6 months between January 1, 1969 and December 31, 1971; or
 
 &emsp;&emsp;(ii) enlisted or was drafted into military service after June 2, 1971 but before December 3, 1971.
 
-(2) The personal representative of the estate of a decedent who was eligible under subsection (b)(1) of this section may, for the benefit of the heirs, select an allotment if, during the period specified in subsection (b)(1)(B) of this section, the decedent—
+(2) The personal representative or special administrator, appointed in an Alaska State court proceeding of the estate of a decedent who was eligible under subsection (b)(1)(A) of this section may, for the benefit of the heirs, select an allotment if the decedent was a veteran who served in South East Asia at any time during the period beginning August 5, 1964, and ending December 31, 1971, and during that period the decedent—
 
 &emsp;(A) was killed in action;
 
@@ -94,7 +94,7 @@ For the purposes of this section, the terms “veteran” and “Vietnam era” 
 
 No later than 18 months after October 21, 1998, the Secretary of the Interior shall promulgate, after consultation with Alaska Natives groups, rules to carry out this section.
 
-(Pub. L. 92–203, §41, as added Pub. L. 105–276, title IV, §432, Oct. 21, 1998, 112 Stat. 2516.)
+(Pub. L. 92–203, §41, as added Pub. L. 105–276, title IV, §432, Oct. 21, 1998, 112 Stat. 2516; amended Pub. L. 106–559, title III, §301, Dec. 21, 2000, 114 Stat. 2782.)
 
 #### References in Text
 
@@ -103,4 +103,16 @@ Act of May 17, 1906, referred to in subsecs. (a)(1), (b)(1)(A), (3) and (c)(1)(B
 The Alaska Statehood Act, referred to in subsec. (a)(3)(B), is Pub. L. 85–508, July 7, 1958, 72 Stat. 339, as amended, which is set out as a note preceding section 21 of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
 
 Public land law, referred to in subsec. (a)(3)(I), is classified generally to this title.
+
+#### Amendments
+
+2000—Subsec. (a)(3)(I)(4). Pub. L. 106–559, §301(1), substituted “or” for “and Reindeer”.
+
+Subsec. (a)(4)(B). Pub. L. 106–559, §301(2), substituted “; or” for “; and” at end.
+
+Subsec. (b)(1)(B)(i). Pub. L. 106–559, §301(3), substituted “December 31” for “June 2”.
+
+Subsec. (b)(2). Pub. L. 106–559, §301(4), inserted introductory provisions and struck out former introductory provisions which read as follows: “The personal representative of the estate of a decedent who was eligible under subsection (b)(1) of this section may, for the benefit of the heirs, select an allotment if, during the period specified in subsection (b)(1)(B) of this section, the decedent—”.
+
+<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

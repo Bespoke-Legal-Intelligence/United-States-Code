@@ -36,13 +36,15 @@ The Program shall include—
 
 &emsp;(4) the authority to make awards of grants or contracts to public or nonprofit private entities for the conduct of basic and applied research regarding traumatic brain injury, which research may include—
 
-&emsp;&emsp;(A) the development of new methods and modalities for the more effective diagnosis, measurement of degree of injury, post-injury monitoring and prognostic assessment of head injury for acute, subacute and later phases of care;
+&emsp;&emsp;(A) the development of new methods and modalities for the more effective diagnosis, measurement of degree of brain injury, post-injury monitoring and prognostic assessment of head injury for acute, subacute and later phases of care;
 
 &emsp;&emsp;(B) the development, modification and evaluation of therapies that retard, prevent or reverse brain damage after acute head injury, that arrest further deterioration following injury and that provide the restitution of function for individuals with long-term injuries;
 
-&emsp;&emsp;(C) the development of research on a continuum of care from acute care through rehabilitation, designed, to the extent practicable, to integrate rehabilitation and long-term outcome evaluation with acute care research; and
+&emsp;&emsp;(C) the development of research on a continuum of care from acute care through rehabilitation, designed, to the extent practicable, to integrate rehabilitation and long-term outcome evaluation with acute care research;
 
-&emsp;&emsp;(D) the development of programs that increase the participation of academic centers of excellence in head injury treatment and rehabilitation research and training.
+&emsp;&emsp;(D) the development of programs that increase the participation of academic centers of excellence in head brain <sup>1</sup> injury treatment and rehabilitation research and training; and
+
+&emsp;&emsp;(E) carrying out subparagraphs (A) through (D) with respect to cognitive disorders and neurobehavioral consequences arising from traumatic brain injury, including the development, modification, and evaluation of therapies and programs of rehabilitation toward reaching or restoring normal capabilities in areas such as reading, comprehension, speech, reasoning, and deduction.
 
 #### (e) Mechanisms of support
 
@@ -80,11 +82,29 @@ For purposes of this section:
 
 &emsp;(3) The term “trauma” means any serious injury that could result in loss of life or in significant disability and that would meet pre-hospital triage criteria for transport to a designated trauma center.
 
-&emsp;(4) The term “traumatic brain injury” means an acquired injury to the brain. Such term does not include brain dysfunction caused by congenital or degenerative disorders, nor birth trauma, but may include brain injuries caused by anoxia due to near drowning. The Secretary may revise the definition of such term as the Secretary determines necessary.
+&emsp;(4) The term “traumatic brain injury” means an acquired injury to the brain. Such term does not include brain dysfunction caused by congenital or degenerative disorders, nor birth trauma, but may include brain injuries caused by anoxia due to trauma. The Secretary may revise the definition of such term as the Secretary determines necessary, after consultation with States and other appropriate public or nonprofit private entities.
 
-(July 1, 1944, ch. 373, title XII, §1261, as added Pub. L. 103–43, title III, §303(a), June 10, 1993, 107 Stat. 151; amended Pub. L. 104–166, §2, July 29, 1996, 110 Stat. 1445.)
+#### (i) Authorization of appropriations
+
+For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005.
+
+(July 1, 1944, ch. 373, title XII, §1261, as added Pub. L. 103–43, title III, §303(a), June 10, 1993, 107 Stat. 151; amended Pub. L. 104–166, §2, July 29, 1996, 110 Stat. 1445; Pub. L. 106–310, div. A, title XIII, §1303, Oct. 17, 2000, 114 Stat. 1138.)
 
 #### Amendments
+
+2000—Subsec. (d)(4)(A). Pub. L. 106–310, §1303(a)(1), substituted “degree of brain injury” for “degree of injury”.
+
+Subsec. (d)(4)(B). Pub. L. 106–310, §1303(a)(2), which directed amendment of subpar. (B) by substituting “acute brain injury” for “acute injury”, could not be executed because the phrase “acute injury” does not appear in text.
+
+Subsec. (d)(4)(C). Pub. L. 106–310, §1303(c)(1), struck out “and” after semicolon at end.
+
+Subsec. (d)(4)(D). Pub. L. 106–310, §1303(a)(3), (c)(2), substituted “brain injury treatment” for “injury treatment” and “; and” for period at end.
+
+Subsec. (d)(4)(E). Pub. L. 106–310, §1303(c)(3), added subpar. (E).
+
+Subsec. (h)(4). Pub. L. 106–310, §1303(b), substituted “anoxia due to trauma” for “anoxia due to near drowning” in second sentence and inserted before period at end “, after consultation with States and other appropriate public or nonprofit private entities”.
+
+Subsec. (i). Pub. L. 106–310, §1303(d), added subsec. (i).
 
 1996—Subsec. (d)(4). Pub. L. 104–166, §2(1), added par. (4).
 
@@ -92,11 +112,11 @@ Subsec. (h)(4). Pub. L. 104–166, §2(2), added par. (4).
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Traumatic Brain Injury Study; Consensus Conference
 
-Section 4 of Pub. L. 104–166 provided that:
+Pub. L. 104–166, §4, July 29, 1996, 110 Stat. 1448, as amended by Pub. L. 106–310, div. A, title XIII, §1302, Oct. 17, 2000, 114 Stat. 1138, provided that:
 
 “(a)
 
@@ -108,13 +128,15 @@ In general.—The Secretary of Health and Human Services (in this section referr
 
 &emsp;&emsp;“(A) In collaboration with appropriate State and local health-related agencies—
 
-&emsp;&emsp;&emsp;“(i) determine the incidence and prevalence of traumatic brain injury; and
+&emsp;&emsp;&emsp;“(i)(I) determine the incidence and prevalence of traumatic brain injury in all age groups in the general population of the United States, including institutional settings; and
 
-&emsp;&emsp;&emsp;“(ii) develop a uniform reporting system under which States report incidents of traumatic brain injury, if the Secretary determines that such a system is appropriate.
+&emsp;&emsp;&emsp;“(II) determine appropriate methodological strategies to obtain data on the incidence and prevalence of mild traumatic brain injury and report to Congress concerning such within 18 months of the date of the enactment of the Children's Health Act of 2000 \[Oct. 17, 2000\]; and
+
+&emsp;&emsp;&emsp;“(ii) develop a uniform reporting system under which States report incidents of traumatic brain injury.
 
 &emsp;&emsp;“(B) Identify common therapeutic interventions which are used for the rehabilitation of individuals with such injuries, and shall, subject to the availability of information, include an analysis of—
 
-&emsp;&emsp;&emsp;“(i) the effectiveness of each such intervention in improving the functioning of individuals with brain injuries;
+&emsp;&emsp;&emsp;“(i) the effectiveness of each such intervention in improving the functioning, including return to work or school and community participation, of individuals with brain injuries;
 
 &emsp;&emsp;&emsp;“(ii) the comparative effectiveness of interventions employed in the course of rehabilitation of individuals with brain injuries to achieve the same or similar clinical outcome; and
 
@@ -140,5 +162,5 @@ Definition.—For purposes of this section, the term ‘traumatic brain injury�
 
 “(d)
 
-Authorizations of Appropriations.—For the purpose of carrying out subsection (a)(1)(A), there is authorized to be appropriated $3,000,000 for each of the fiscal years 1997 through 1999. For the purpose of carrying out the other provisions of this section, there is authorized to be appropriated an aggregate $500,000 for the fiscal years 1997 through 1999. Amounts appropriated for such other provisions remain available until expended.”
+Authorization of Appropriations.—There are authorized to be appropriated to carry out this section such sums as may be necessary for each of the fiscal years 2001 through 2005.”
 

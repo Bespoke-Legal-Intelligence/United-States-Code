@@ -40,7 +40,3 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 
-#### Cross References
-
-Compensation of Director, Deputy Director, and Associate Directors, see sections 5313, 5314, and 5316 of this title.
-

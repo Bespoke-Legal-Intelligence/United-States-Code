@@ -16,7 +16,7 @@ Amendment by Pub. L. 101–520 and 101–562 effective on date \[Nov. 6, 1991\] 
 
 #### Acquisition of Real Property for Library of Congress
 
-Pub. L. 105–144, Dec. 15, 1997, 111 Stat. 2667, provided that:
+Pub. L. 105–144, Dec. 15, 1997, 111 Stat. 2667, as amended by Pub. L. 106–554, §1(a)(2) \[title II, §207\], Dec. 21, 2000, 114 Stat. 2763, 2763A–114, provided that:
 
 #### “SECTION 1. ACQUISITION OF FACILITY IN CULPEPER, VIRGINIA.
 
@@ -31,6 +31,10 @@ Acquisition.—The Architect of the Capitol may acquire on behalf of the United 
 “(b)
 
 Uses.—Effective on the date on which the Architect of the Capitol acquires the property under subsection (a), such property shall be available to the Librarian of Congress for use as a national audiovisual conservation center.
+
+“(c)
+
+Transfer Payment by Architect.—Notwithstanding the limitation on reimbursement or transfer of funds under subsection (a) of this section, the Architect of the Capitol may, not later than 90 days after acquisition of the property under this section, transfer funds to the entity from which the property was acquired by the Architect of the Capitol. Such transfers may not exceed a total of $16,500,000.
 
 #### “SEC. 2. LIBRARY BUILDINGS AND GROUNDS.
 
@@ -58,7 +62,7 @@ Special Rule for Inclusion of Property Within Library Buildings and Grounds.—T
 
 Pub. L. 103–110, §122, Oct. 21, 1993, 107 Stat. 1043, provided that:
 
-“(a) Notwithstanding any other provision of law, the Secretary of the Army shall transfer, no later than September 30, 1994, without reimbursement or transfer of funds, to the Architect of the Capitol, a portion of the real property, including improvements thereon,consisting of not more than 100 acres located at Fort George G. Meade in Anne Arundel County, Maryland, as determined under subsection (c).
+“(a) Notwithstanding any other provision of law, the Secretary of the Army shall transfer, no later thanSeptember 30, 1994, without reimbursement or transfer of funds, to the Architect of the Capitol, a portion of the real property, including improvements thereon, consisting of not more than 100 acres located at Fort George G. Meade in Anne Arundel County, Maryland, as determined under subsection (c).
 
 “(b) The Architect of the Capitol shall, upon completion of the survey performed pursuant to subsection (c) and the transfer effected pursuant to subsection (a), utilize the transferred property to provide facilities to accommodate the varied long-term storage and service needs of the Library of Congress and other Legislative Branch agencies.
 
@@ -128,7 +132,7 @@ Pub. L. 86–469, May 14, 1960, 74 Stat. 132, authorized Architect of the Capito
 
 Pub. L. 104–208, div. A, title V, §5402, Sept. 30, 1996, 110 Stat. 3009–511, provided that: “The Founders Hall instructional area in the House of Representatives Page School, located in the Thomas Jefferson Building of the Library of Congress, shall be known and designated as ‘Bill Emerson Hall’.”
 
-Pub. L. 96–269, §1, June 13, 1980, 94 Stat. 486, provided: “That the building in the block bounded by East Capitol Street, Second Street Southeast, Independence Avenue Southeast, and First Street Southeast, in the District of Columbia (commonly known as the Library of Congress Building or the Library of Congress Main Building), shall hereafter be known and designated as the ‘Library of Congress Thomas Jefferson Building’. Any reference in any law, map, regulation, document, record, or other paper of the United States to such building shall be held to be a reference to the Library of Congress Thomas Jefferson Building.”
+Pub. L. 96–269, §1, June 13, 1980, 94 Stat. 486, provided: “That the building in the block bounded by East Capitol Street, Second Street Southeast, Independence Avenue Southeast, and First Street Southeast, in the District of Columbia (commonly known as the Library of Congress Building or the Library of Congress Main Building), shall hereafter be known and designated as the ‘Library of Congress Thomas Jefferson Building’.Any reference in any law, map, regulation, document, record, or other paper of the United States to such building shall be held to be a reference to the Library of Congress Thomas Jefferson Building.”
 
 Pub. L. 94–264, Apr. 13, 1976, 90 Stat. 329, which had designated the Library of Congress Annex as the Library of Congress Thomas Jefferson Building, was repealed by Pub. L. 96–269, §3, June 13, 1980, 94 Stat. 486, as part of the redesignation of that building as the Library of Congress John Adams Building and the designation of the main building of the Library of Congress as the Library of Congress Thomas Jefferson Building.
 

@@ -24,7 +24,7 @@ The effect of section 105 is intended to place all works of the United States Go
 
 At the House hearings in 1975 the U.S. Department of Commerce called attention to its National Technical Information Service (NTIS), which has a statutory mandate, under Chapter 23 \[§1151 et seq.\] of Title 15 of the U.S. Code, to operate a clearinghouse for the collection and dissemination of scientific, technical and engineering information. Under its statute, NTIS is required to be as self-sustaining as possible, and not to force the general public to bear publishing costs that are for private benefit. The Department urged an amendment to section 105 that would allow it to secure copyright in NTIS publications both in the United States and abroad, noting that a precedent exists in the Standard Reference Data Act (15 U.S.C. §290(e) \[§290e\]).
 
-In response to this request the Committee adopted a limited exception to the general prohibition in section 105, permitting the Secretary of Commerce to “secure copyright for a limited term not to exceed five years, on behalf of the United States as author or copyright owner” in any NTIS publication disseminated pursuant to 15 U.S.C. Chapter 23 \[§1151 et seq.\]. In order to “secure copyright” in a work under this amendment the Secretary would be required to publish the work with a copyright notice, and the five-year term would begin upon the date of first publication.
+In response to this request the Committee adopted a limited exception to the general prohibition in section 105, permitting the Secretary of Commerce to “secure copyright for a limited term not to exceed five years, on behalf of the United States as author or copyrightowner” in any NTIS publication disseminated pursuant to 15 U.S.C. Chapter 23 \[§1151 et seq.\]. In order to “secure copyright” in a work under this amendment the Secretary would be required to publish the work with a copyright notice, and the five-year term would begin upon the date of first publication.
 
 <b>Proposed Saving Clause.</b> Section 8 of the statute now in effect \[section 8 of former title 17\] includes a saving clause intended to make clear that the copyright protection of a private work is not affected if the work is published by the Government. This provision serves a real purpose in the present law because of the ambiguity of the undefined term “any publication of the United States Government.” Section 105 of the bill, however, uses the operative term “work of the United States Government” and defines it in such a way that privately written works are clearly excluded from the prohibition; accordingly, a saving clause becomes superfluous.
 
@@ -34,5 +34,5 @@ Retention of a saving clause has been urged on the ground that the present statu
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 15 section 290e.
+This section is referred to in title 15 section 290e; title 36 section 2114.
 

@@ -2,7 +2,11 @@
 
 #### (a) Availability of loan deficiency payments
 
-Except as provided in subsection (d) of this section, the Secretary may make loan deficiency payments available to producers who, although eligible to obtain a marketing assistance loan under section 7231 of this title with respect to a loan commodity, agree to forgo obtaining the loan for the commodity in return for payments under this section.
+Except as provided in subsection (d) of this section, the Secretary may make loan deficiency payments available to—
+
+&emsp;(1) producers who, although eligible to obtain a marketing assistance loan under section 7231 of this title with respect to a loan commodity, agree to forgo obtaining the loan for the commodity in return for payments under this section; and
+
+&emsp;(2) effective only for the 2000 crop year, producers that, although not eligible to obtain such a marketing assistance loan under section 7231 of this title, produce a contract commodity.
 
 #### (b) Computation
 
@@ -10,7 +14,7 @@ A loan deficiency payment under this section shall be computed by multiplying—
 
 &emsp;(1) the loan payment rate determined under subsection (c) of this section for the loan commodity; by
 
-&emsp;(2) the quantity of the loan commodity that the producers on a farm are eligible to place under loan but for which the producers forgo obtaining the loan in return for payments under this section.
+&emsp;(2) the quantity of the loan commodity produced by the eligible producers, excluding any quantity for which the producers obtain a loan under section 7231 of this title.
 
 #### (c) Loan payment rate
 
@@ -24,7 +28,23 @@ For purposes of this section, the loan payment rate shall be the amount by which
 
 This section shall not apply with respect to extra long staple cotton.
 
-(Pub. L. 104–127, title I, §135, Apr. 4, 1996, 110 Stat. 909.)
+#### (e) Transition
+
+A payment to a producer eligible for a payment under subsection (a)(2) of this section that harvested a commodity on or before the date that is 30 days after the promulgation of the regulations implementing subsection (a)(2) of this section shall be determined as the date the producer lost beneficial interest in the commodity, as determined by the Secretary.
+
+#### (f) Beneficial interest
+
+Subject to subsection (e) of this section, a producer shall be eligible for a payment under this section only if the producer has a beneficial interest in the commodity, as determined by the Secretary.
+
+(Pub. L. 104–127, title I, §135, Apr. 4, 1996, 110 Stat. 909; Pub. L. 106–224, title II, §206, June 20, 2000, 114 Stat. 405.)
+
+#### Amendments
+
+2000—Subsec. (a). Pub. L. 106–224, §206(a), designated existing provisions as par. (1) and added par. (2).
+
+Subsec. (b)(2). Pub. L. 106–224, §206(b), substituted “produced by the eligible producers, excluding any quantity for which the producers obtain a loan under section 7231 of this title.” for “that the producers on a farm are eligible to place under loan but for which the producers forgo obtaining the loan in return for payments under this section.”
+
+Subsecs. (e), (f). Pub. L. 106–224, §206(c), added subsecs. (e) and (f).
 
 #### Section Referred to in Other Sections
 

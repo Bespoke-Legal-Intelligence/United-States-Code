@@ -6,7 +6,7 @@
 
 &emsp;(2) was not physically or mentally handicapped before the injury;
 
-> the Secretary of Labor, on review under section 8128 of this title after the time the wage-earning capacity of the individual would probably have increased but for the injury, shall recomputeprospectively the monetary compensation payable for disability on the basis of an assumed monthly pay corresponding to the probable increased wage-earning capacity.
+> the Secretary of Labor, on review under section 8128 of this title after the time the wage-earning capacity of the individual would probably have increased but for the injury, shall recompute prospectively the monetary compensation payable for disability on the basis of an assumed monthly pay corresponding to the probable increased wage-earning capacity.
 
 (b) If an individual without good cause fails to apply for and undergo vocational rehabilitation when so directed under section 8104 of this title, the Secretary, on review under section 8128 of this title and after finding that in the absence of the failure the wage-earning capacity of the individual would probably have substantially increased, may reduce prospectively the monetary compensation of the individual in accordance with what would probably have been his wage-earning capacity in the absence of the failure, until the individual in good faith complies with the direction of the Secretary.
 
@@ -50,5 +50,5 @@ Amendment by Pub. L. 90–83 effective as of Sept. 6, 1966, for all purposes, se
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 8101, 8143 of this title; title 18 section 1921; title 29 section 1706; title 42 section 5055.
+This section is referred to in sections 8101, 8143 of this title; title 18 section 1921; title 42 section 5055.
 

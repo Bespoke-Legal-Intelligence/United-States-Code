@@ -30,7 +30,7 @@ In general.—Except as otherwise provided in sections 620 to 620j of this title
 
 &emsp;&emsp;&emsp;&emsp;(I) would be exported in violation of sections 620 to 620j of this title; or
 
-&emsp;&emsp;&emsp;&emsp;(II) if the unprocessed timber originated from Federal lands, would be substituted for unprocessed timber originating from private lands west of the 100th Meridian in the contiguous 48 States inviolation of sections 620 to 620j of this title.
+&emsp;&emsp;&emsp;&emsp;(II) if the unprocessed timber originated from Federal lands, would be substituted for unprocessed timber originating from private lands west of the 100th Meridian in the contiguous 48 States in violation of sections 620 to 620j of this title.
 
 #### (B) Minimum size
 

@@ -14,10 +14,6 @@ A prior section 506 of act June 19, 1934, ch. 652, was classified to section 506
 
 Section 6 of act Aug. 13, 1954, provided that: “This Act \[enacting this section and amending sections 153, 154, and 504 of this title\] shall take effect on November 13, 1954.”
 
-#### Federal Rules of Civil Procedure
-
-Admiralty and maritime rules of practice (which included libel procedures) were superseded, and civil and admiralty procedures in United States district courts were unified, effective July 1, 1966, see rule 1 and Supplemental Rules for Certain Admiralty and Maritime Claims, Title 28, Appendix, Judiciary and Judicial Procedure.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 503, 504 of this title.

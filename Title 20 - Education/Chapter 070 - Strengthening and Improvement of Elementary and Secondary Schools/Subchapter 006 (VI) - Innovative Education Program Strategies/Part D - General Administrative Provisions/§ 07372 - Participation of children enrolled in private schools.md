@@ -22,7 +22,7 @@ Expenditures for programs pursuant to subsection (a) of this section shall be eq
 
 #### (1) Administration of funds and property
 
-&emsp;The control of funds provided under this subchapter, and title to materials, equipment, and property repaired, remodeled, or constructed with such funds, shall be in a public agency for the uses and purposes provided in this subchapter, and a public agency shall administer such funds and property.
+&emsp;The control of funds provided under this subchapter, and title to materials, equipment,and property repaired, remodeled, or constructed with such funds, shall be in a public agency for the uses and purposes provided in this subchapter, and a public agency shall administer such funds and property.
 
 #### (2) Provision of services
 

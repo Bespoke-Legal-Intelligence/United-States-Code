@@ -270,7 +270,7 @@ The order shall define the powers and duties that the Board may assign to the Co
 
 #### (C) Reimbursement of organization
 
-&emsp;&emsp;If the staff of national, nonprofit, producer-governed organizations that represent producers of soybeans are used by the Board, the staff of such organizations shall not receive compensation directly from the Board, but such organizations shall be reimbursed for the reasonable expenses of their staffs, including salaries, incurred in performing staff duties on behalf of, and authorized by, the Board.
+&emsp;&emsp;If the staff of national, nonprofit, producer-governed organizations that representproducers of soybeans are used by the Board, the staff of such organizations shall not receive compensation directly from the Board, but such organizations shall be reimbursed for the reasonable expenses of their staffs, including salaries, incurred in performing staff duties on behalf of, and authorized by, the Board.
 
 #### (3) Limitation on administrative costs
 
@@ -284,7 +284,7 @@ The order shall define the powers and duties that the Board may assign to the Co
 
 #### (2) Coordination
 
-&emsp;To enhance coordination, the Board, when entering into contracts or agreements for theimplementation and carrying out of activities authorized by this chapter, shall ensure that all plans or projects implemented for consumer information, industry information, promotion, or research are each implemented by a single entity. There shall not be in force, at any one time, more than one contract or agreement for implementation of plans or projects for consumer information, for industry information, for promotion, or for research, except that, upon approval of the Secretary, the Board may contract with qualified State soybean boards to implement plans or projects within their respective States.
+&emsp;To enhance coordination, the Board, when entering into contracts or agreements for the implementation and carrying out of activities authorized by this chapter, shall ensure that all plans or projects implemented for consumer information, industry information, promotion, or research are each implemented by a single entity. There shall not be in force, at any one time, more than one contract or agreement for implementation of plans or projects for consumer information, for industry information, for promotion, or for research, except that, upon approval of the Secretary, the Board may contract with qualified State soybean boards to implement plans or projects within their respective States.
 
 #### (3) Terms
 
@@ -328,7 +328,7 @@ The order shall require the Board to—
 
 &emsp;(3) account for the receipt and disbursement of all funds entrusted to the Board.
 
-> The Board shall cause its books and records to be audited by an independent auditor at the end of each fiscal year and a report of such audit to be submitted to the Secretary. The Secretary shall make such report available to the public upon request.
+> The Board shall cause its books and records to be audited by an independent auditor at the end of each fiscal year and a report of such audit to be submitted to the Secretary. The Secretaryshall make such report available to the public upon request.
 
 #### (<i>l</i>) Assessments
 
@@ -466,7 +466,7 @@ The order shall require the Board to—
 
 #### (m) Credit for certain costs to States
 
-The order shall provide that the Board may provide a credit to each qualified State soybean board of an amount not to exceed one-half of any fees paid to State governmental agencies or first purchasers for collection of the assessments if the payment of such fees by the qualified State soybean board is required by State law enacted prior to November 28, 1990, except that the Board may not provide a credit to any qualified State soybean board of an amount that exceeds 2.5 percent of the amount of assessmentscollected and remitted to the Board under subsection (<i>l</i>) of this section.
+The order shall provide that the Board may provide a credit to each qualified State soybean board of an amount not to exceed one-half of any fees paid to State governmental agencies or first purchasers for collection of the assessments if the payment of such fees by the qualified State soybean board is required by State law enacted prior to November 28, 1990, except that the Board may not provide a credit to any qualified State soybean board of an amount that exceeds 2.5 percent of the amount of assessments collected and remitted to the Board under subsection (<i>l</i>) of this section.
 
 #### (n) Minimum level of assessments to States
 

@@ -9,6 +9,10 @@
 | (b) | Establishment; Director of United States Fish and Wildlife Service; appointment; qualifications. |
 | (c) | Succession to United States Fish and Wildlife Service and Bureau of Sport Fisheries and Wildlife. |
 | (d) | Functions and responsibilities of Secretary of the Interior. |
+| 742b–1. | Assistant Director for Wildlife and Sport Fish Restoration Programs. |
+| (a) | Establishment. |
+| (b) | Superior. |
+| (c) | Responsibilities. |
 | [742c.](%C2%A7%2000742c%20-%20Loans%20for%20financing%20or%20refinancing%20of%20cost%20of%20purchasing%2C%20constructing%2C%20equipping%2C%20maintaining%2C%20repairing%2C%20or%20operating%20commercial%E2%80%A6.md) | Loans for financing or refinancing of cost of purchasing, constructing, equipping, maintaining, repairing, or operating commercial fishing vessels or gear. |
 | (a) | Authorization. |
 | (b) | Conditions. |
@@ -76,12 +80,9 @@
 | [754a.](%C2%A7%2000754a%20-%20Appropriations%20for%20United%20States%20Fish%20and%20Wildlife%20Service%3B%20purchases%20from.md) | Appropriations for United States Fish and Wildlife Service; purchases from. |
 | [754b.](%C2%A7%2000754b%20-%20Funds%20from%20private%20entities%20credited%20to%20Resource%20Management%20account.md) | Funds from private entities credited to Resource Management account. |
 | [754c.](%C2%A7%2000754c%20-%20Work%20under%20reimbursable%20agreements%3B%20recording%20obligations%20and%20crediting%20amounts%20received.md) | Work under reimbursable agreements; recording obligations and crediting amounts received. |
+| [754d.](%C2%A7%2000754d%20-%20Fee%20schedule%20for%20forensic%20laboratory%20services.md) | Fee schedule for forensic laboratory services. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Cross References
-
-National Fish and Wildlife Foundation, activities relating to gifts of property in connection with the Fish and Wildlife Service, see section 3701 et seq. of this title.
 
 
 ---
@@ -92,6 +93,7 @@ National Fish and Wildlife Foundation, activities relating to gifts of property 
 - [&sect; 00742 - Omitted](%C2%A7%2000742%20-%20Omitted.md)
 - [&sect; 00742a - Declaration of policy](%C2%A7%2000742a%20-%20Declaration%20of%20policy.md)
 - [&sect; 00742b - United States Fish and Wildlife Service](%C2%A7%2000742b%20-%20United%20States%20Fish%20and%20Wildlife%20Service.md)
+- [&sect; 00742b&#8211;1 - Assistant Director for Wildlife and Sport Fish Restoration Programs](%C2%A7%2000742b%E2%80%931%20-%20Assistant%20Director%20for%20Wildlife%20and%20Sport%20Fish%20Restoration%20Programs.md)
 - [&sect; 00742c - Loans for financing or refinancing of cost of purchasing, constructing, equipping, maintaining, repairing, or operating commercial&#8230;](%C2%A7%2000742c%20-%20Loans%20for%20financing%20or%20refinancing%20of%20cost%20of%20purchasing%2C%20constructing%2C%20equipping%2C%20maintaining%2C%20repairing%2C%20or%20operating%20commercial%E2%80%A6.md)
 - [&sect; 00742c&#8211;1 - Investment in obligations of the United States; proceeds to be used for fisheries](%C2%A7%2000742c%E2%80%931%20-%20Investment%20in%20obligations%20of%20the%20United%20States%3B%20proceeds%20to%20be%20used%20for%20fisheries.md)
 - [&sect; 00742d - Investigations; preparation and dissemination of information; reports](%C2%A7%2000742d%20-%20Investigations%3B%20preparation%20and%20dissemination%20of%20information%3B%20reports.md)
@@ -126,3 +128,4 @@ National Fish and Wildlife Foundation, activities relating to gifts of property 
 - [&sect; 00754a - Appropriations for United States Fish and Wildlife Service; purchases from](%C2%A7%2000754a%20-%20Appropriations%20for%20United%20States%20Fish%20and%20Wildlife%20Service%3B%20purchases%20from.md)
 - [&sect; 00754b - Funds from private entities credited to Resource Management account](%C2%A7%2000754b%20-%20Funds%20from%20private%20entities%20credited%20to%20Resource%20Management%20account.md)
 - [&sect; 00754c - Work under reimbursable agreements; recording obligations and crediting amounts received](%C2%A7%2000754c%20-%20Work%20under%20reimbursable%20agreements%3B%20recording%20obligations%20and%20crediting%20amounts%20received.md)
+- [&sect; 00754d - Fee schedule for forensic laboratory services](%C2%A7%2000754d%20-%20Fee%20schedule%20for%20forensic%20laboratory%20services.md)

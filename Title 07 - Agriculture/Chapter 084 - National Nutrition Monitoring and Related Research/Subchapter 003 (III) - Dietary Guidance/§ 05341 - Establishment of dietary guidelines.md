@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;At least every five years the Secretaries shall publish a report entitled “Dietary Guidelines for Americans”. Each such report shall contain nutritional and dietary information and guidelines for the general public, and shall be promoted by each Federal agency in carrying out any Federal food, nutrition, or health program.
+&emsp;At least every five years the Secretaries shall publish a report entitled “Dietary Guidelines for Americans”. Each such report shall contain nutritional and dietary information and guidelines for the general public, and shallbe promoted by each Federal agency in carrying out any Federal food, nutrition, or health program.
 
 #### (2) Basis of guidelines
 

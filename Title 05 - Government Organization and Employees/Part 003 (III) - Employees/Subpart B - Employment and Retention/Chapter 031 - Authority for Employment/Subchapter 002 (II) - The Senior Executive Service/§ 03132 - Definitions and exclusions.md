@@ -6,7 +6,7 @@
 
 &emsp;&emsp;(A) any agency or unit thereof excluded from coverage by the President under subsection (c) of this section; or
 
-&emsp;&emsp;(B) the Federal Bureau of Investigation, the Drug Enforcement Administration, the Central Intelligence Agency, the Defense Intelligence Agency, the National Imagery andMapping Agency, the National Security Agency, Department of Defense intelligence activities the civilian employees of which are subject to section 1590 of title 10,,<sup>1</sup> and, as determined by the President, an Executive agency, or unit thereof, whose principal function is the conduct of foreign intelligence or counterintelligence activities;
+&emsp;&emsp;(B) the Federal Bureau of Investigation, the Drug Enforcement Administration, the Central Intelligence Agency, the Defense Intelligence Agency, the National Imagery and Mapping Agency, the National Security Agency, Department of Defense intelligence activities the civilian employees of which are subject to section 1590 of title 10,,<sup>1</sup> and, as determined by the President, an Executive agency, or unit thereof, whose principal function is the conduct of foreign intelligence or counterintelligence activities;
 
 &emsp;&emsp;(C) the Federal Election Commission; or
 
@@ -34,7 +34,7 @@
 
 &emsp;(4) “career appointee” means an individual in a Senior Executive Service position whose appointment to the position or previous appointment to another Senior Executive Service position was based on approval by the Office of Personnel Management of the executive qualifications of such individual;
 
-&emsp;(5) “limited term appointee” means an individual appointed under a nonrenewable appointment for a term of 3 years or less to a Senior Executive Service position the duties of which will expire at the end of such term;
+&emsp;(5) “limited term appointee” means an individual appointed under a nonrenewable appointment for a term of 3 years or less to aSenior Executive Service position the duties of which will expire at the end of such term;
 
 &emsp;(6) “limited emergency appointee” means an individual appointed under a nonrenewable appointment, not to exceed 18 months, to a Senior Executive Service position established to meet a bona fide, unanticipated, urgent need;
 

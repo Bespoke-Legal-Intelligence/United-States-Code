@@ -16,7 +16,7 @@ The Secretary may award grants or contracts to State or local governments, healt
 
 &emsp;(2) research on high priority workforce questions;
 
-&emsp;(3) the development of a non-Federal analytic and research infrastructure related tothe purposes described in subsection (a) of this section; and
+&emsp;(3) the development of a non-Federal analytic and research infrastructure related to the purposes described in subsection (a) of this section; and
 
 &emsp;(4) the conduct of program evaluation and assessment.
 

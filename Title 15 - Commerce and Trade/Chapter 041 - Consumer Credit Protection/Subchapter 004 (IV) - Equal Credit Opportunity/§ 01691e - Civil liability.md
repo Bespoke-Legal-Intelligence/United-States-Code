@@ -2,7 +2,7 @@
 
 #### (a) Individual or class action for actual damages
 
-Any creditor who fails to comply with any requirement imposed under this subchapter shall be liable to the aggrieved applicant for any actual damages sustained by such applicant acting either in an individual capacity or as a member of a class.
+Any creditor who fails to comply with any requirement imposed under this subchapter shallbe liable to the aggrieved applicant for any actual damages sustained by such applicant acting either in an individual capacity or as a member of a class.
 
 #### (b) Recovery of punitive damages in individual and class action for actual damages; exemptions; maximum amount of punitive damages in individual actions; limitation on total recovery in class actions; factors determining amount of award
 
@@ -68,7 +68,7 @@ The Fair Housing Act, referred to in subsec. (k), is title VIII of Pub. L. 90–
 
 #### Amendments
 
-1991—Subsec. (g). Pub. L. 102–242, §223(a), inserted at end “Each agency referred to in paragraphs (1), (2), and (3) of section 1691c(a) of this title shall refer the matter to the Attorney General whenever the agency has reason to believe that 1 or more creditors has engaged in a pattern or practice of discouraging or denying applications for credit in violation of section 1691(a) of thistitle. Each such agency may refer the matter to the Attorney General whenever the agency has reason to believe that 1 or more creditors has violated section 1691(a) of this title.”
+1991—Subsec. (g). Pub. L. 102–242, §223(a), inserted at end “Each agency referred to in paragraphs (1), (2), and (3) of section 1691c(a) of this title shall refer the matter to the Attorney General whenever the agency has reason to believe that 1 or more creditors has engaged in a pattern or practice of discouraging or denying applications for credit in violation of section 1691(a) of this title. Each such agency may refer the matter to the Attorney General whenever the agency has reason to believe that 1 or more creditors has violated section 1691(a) of this title.”
 
 Subsec. (h). Pub. L. 102–242, §223(b), inserted “actual and punitive damages and” after “be appropriate, including”.
 

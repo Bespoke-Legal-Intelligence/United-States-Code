@@ -4,17 +4,23 @@ Whoever, lawfully or unlawfully, having possession of, access to, control over, 
 
 &emsp;(a) communicates, transmits, or discloses the same to any individual or person, or attempts or conspires to do any of the foregoing, with intent to injure the United States or with intent to secure an advantage to any foreign nation, upon conviction thereof, shall be punished by imprisonment for life, or by imprisonment for any term of years or a fine of not more than $100,000 or both;
 
-&emsp;(b) communicates, transmits, or discloses the same to any individual or person, or attempts or conspires to do any of the foregoing, with reason to believe such data will be utilized to injure the United States or to secure an advantage to any foreign nation, shall, upon conviction, be punished by a fine of not more than $500,000 or imprisonment for not more than ten years, or both.
+&emsp;(b) communicates, transmits, or discloses the same to any individual or person, or attempts or conspires to do any of the foregoing, with reason to believe such data will be utilized to injure the United States or to secure an advantage to any foreign nation, shall, upon conviction, be punished by a fine of not more than $50,000 or imprisonment for not more than ten years, or both.
 
-(Aug. 1, 1946, ch. 724, title I, §224, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 958; amended Pub. L. 91–161, §3(b), Dec. 24, 1969, 83 Stat. 444; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 106–65, div. C, title XXXI, §3148(a), Oct. 5, 1999, 113 Stat. 938.)
+(Aug. 1, 1946, ch. 724, title I, §224, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 958; amended Pub. L. 91–161, §3(b), Dec. 24, 1969, 83 Stat. 444; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 106–65, div. C, title XXXI, §3148(a), Oct. 5, 1999, 113 Stat. 938; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(g)(9)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–294.)
 
 #### Amendments
+
+2000—Cl. (b). Pub. L. 106–398 substituted “$50,000” for “$500,000”.
 
 1999—Cl. (a). Pub. L. 106–65, §3148(a)(1), substituted “$100,000” for “$20,000”.
 
 Cl. (b). Pub. L. 106–65, §3148(a)(2), substituted “$500,000” for “$10,000”.
 
 1969—Pub. L. 91–161 made death penalty inapplicable for willful violation, or attempted violation of this section with intent to injure the United States, or secure an advantage for any foreign nation.
+
+#### Effective Date of 2000 Amendment
+
+Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(g)(9)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–294, provided that the amendment made by that section is effective as of Oct. 5, 1999.
 
 #### Effective Date of 1969 Amendment
 
@@ -23,16 +29,6 @@ Amendment by Pub. L. 91–161 applicable to offenses committed on or after Dec. 
 #### Transfer of Functions
 
 Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
-
-#### Cross References
-
-Conspiracy to commit offense, see section 371 of Title 18, Crimes and Criminal Procedure.
-
-Federal retirement benefits, forfeiture upon conviction of offense described hereunder, see section 8312 of Title 5, Government Organization and Employees.
-
-Forfeiture of veterans’ benefits upon conviction under this section, see section 6105 of Title 38, Veterans’ Benefits.
-
-Wire or oral communications, authorization for interception, to provide evidence of offenses punishable by death or by imprisonment for more than one year under sections 2274 to 2277 of this title, see section 2516 of Title 18, Crimes and Criminal Procedure.
 
 #### Section Referred to in Other Sections
 

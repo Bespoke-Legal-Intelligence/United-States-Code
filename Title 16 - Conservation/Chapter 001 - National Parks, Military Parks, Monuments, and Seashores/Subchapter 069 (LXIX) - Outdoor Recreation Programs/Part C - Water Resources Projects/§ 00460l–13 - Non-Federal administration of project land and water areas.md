@@ -2,7 +2,7 @@
 
 #### (a) Allocation of costs
 
-If, before authorization of a project, non-Federal public bodies indicate their intent in writing to agree to administer project land and water areas for recreation or fish and wildlife enhancement or for both of these purposes pursuant to the plan for the development of the project approved by the head of the agency having administrative jurisdiction over it and to bear not less than one-half the separable costs of the project allocated to recreation, and to bear one-quarter of such costs allocated to fish and wildlife enhancement and not less than one-half the costs of operation, maintenance, and replacement incurred therefor—
+If, before authorization of a project, non-Federal public bodies indicate their intent in writing to agree to administer project land and water areas for recreation or fish and wildlife enhancement or for both of these purposes pursuant to the plan for the development of theproject approved by the head of the agency having administrative jurisdiction over it and to bear not less than one-half the separable costs of the project allocated to recreation, and to bear one-quarter of such costs allocated to fish and wildlife enhancement and not less than one-half the costs of operation, maintenance, and replacement incurred therefor—
 
 &emsp;(1) the benefits of the project to said purpose or purposes shall be taken into account in determining the economic benefits of the project;
 

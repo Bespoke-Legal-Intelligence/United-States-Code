@@ -10,7 +10,3 @@ Waiver of error, Rules 12(b)(2) and 30.
 
 (June 25, 1948, ch. 645, 62 Stat. 846.)
 
-#### Cross References
-
-Harmless error, see section 2111 of Title 28, Judiciary and Judicial Procedure.
-

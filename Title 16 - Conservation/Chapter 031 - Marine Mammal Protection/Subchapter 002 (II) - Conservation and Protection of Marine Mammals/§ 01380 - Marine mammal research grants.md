@@ -2,7 +2,7 @@
 
 #### (a) Authorization; research concerning yellowfin tuna; annual report
 
-The Secretary is authorized to make grants, or to provide financial assistance in such other form as he deems appropriate, to any Federal or State agency, public or private institution, or other person for the purpose of assisting such agency, institution, or person to undertake research in subjects which are relevant to the protection and conservation of marine mammals. In carrying out this subsection, the Secretary shallundertake a program of, and shall provide financial assistance for, research into new methods of locating and catching yellowfin tuna without the incidental taking of marine mammals. The Secretary shall include a description of the annual results of research carried out under this section in the report required under section 1373(f) of this title.
+The Secretary is authorized to make grants, or to provide financial assistance in such other form as he deems appropriate, to any Federal or State agency, public or private institution, or other person for the purpose of assisting such agency, institution, or person to undertake research in subjects which are relevant to the protection and conservation of marine mammals. In carrying out this subsection, the Secretary shall undertake a program of, and shall provide financial assistance for, research into new methods of locating and catching yellowfin tuna without the incidental taking of marine mammals. The Secretary shall include a description of the annual results of research carried out under this section in the report required under section 1373(f) of this title.
 
 #### (b) Terms and conditions
 
@@ -28,9 +28,15 @@ Any grant or other financial assistance provided by the Secretary pursuant to th
 
 (2) To the maximum extent practicable, the research program undertaken pursuant to paragraph (1) shall be conducted in Alaska. The Secretary of Commerce shall utilize, where appropriate, traditional local knowledge and may contract with a qualified Alaska Native organization to conduct such research.
 
-(3) The Secretary of Commerce, the Secretary of the Interior, and the Commission shall address the status and findings of the research program in their annual reports to Congress required by sections 1373(f) and 1404 of this title.
+(3) The Secretary of Commerce, the Secretary of the Interior, and the Commission shall address the status and findings of the research program in their annual reports to Congress required by sections 1373(f) and 1404 of this title.<sup>1</sup>
 
 (Pub. L. 92–522, title I, §110, Oct. 21, 1972, 86 Stat. 1041; Pub. L. 95–136, §1, Oct. 18, 1977, 91 Stat. 1167; Pub. L. 95–316, §2, July 10, 1978, 92 Stat. 380; Pub. L. 97–58, §5, Oct. 9, 1981, 95 Stat. 986; Pub. L. 100–711, §4(e), Nov. 23, 1988, 102 Stat. 4768; Pub. L. 103–238, §20, Apr. 30, 1994, 108 Stat. 560; Pub. L. 105–42, §4(f), Aug. 15, 1997, 111 Stat. 1125.)
+
+#### References in Text
+
+Provisions of section 1373(f) of this title requiring annual reports to Congress, referred to in subsec. (d)(3), terminated, effective May 15, 2000. See Termination of Reporting Requirements note set out under section 1373 of this title.
+
+Section 1404 of this title, referred to in subsec. (d)(3), was omitted from the Code.
 
 #### Amendments
 
@@ -53,4 +59,6 @@ For effective date of amendment by Pub. L. 105–42, see section 8 of Pub. L. 10
 #### Abolition of House Committee on Merchant Marine and Fisheries
 
 Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. For treatment of references to Committee on Merchant Marine and Fisheries, see section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

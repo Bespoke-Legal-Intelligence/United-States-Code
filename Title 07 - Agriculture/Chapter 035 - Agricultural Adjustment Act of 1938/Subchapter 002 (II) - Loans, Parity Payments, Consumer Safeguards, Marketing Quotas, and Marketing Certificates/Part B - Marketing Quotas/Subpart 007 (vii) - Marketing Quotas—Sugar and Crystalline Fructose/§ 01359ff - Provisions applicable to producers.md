@@ -32,7 +32,7 @@ Whenever allotments for a fiscal year are allocated to processors under section 
 
 &emsp;&emsp;(D) The Secretary shall establish a uniform reduction percentage for the crop by dividing the State acreage allotment, as determined for the crop under subparagraph (C), by the sum of all adjusted acreage bases in the State, as determined by the Secretary.
 
-&emsp;&emsp;(E) The uniform reduction percentage for the crop, as determined under subparagraph (D), shall be applied to the acreage base for each sugarcane-producing farm in the State to determine the farm's proportionate share of sugarcane acreage that may be harvested for sugar or seed.
+&emsp;&emsp;(E) The uniform reduction percentage for the crop, as determined under subparagraph (D), shall be applied to the acreage base foreach sugarcane-producing farm in the State to determine the farm's proportionate share of sugarcane acreage that may be harvested for sugar or seed.
 
 #### (4) Acreage base
 
@@ -88,7 +88,7 @@ Subsec. (b)(3). Pub. L. 102–237, §111(h)(3), added par. (3) and struck out fo
 
 &emsp;“(B) The Secretary shall convert the State allotment for the fiscal year involved into a State acreage allotment for the crop by dividing the State allotment by the per-acre yield goal for the State, as established under subparagraph (A).
 
-&emsp;“(C) The Secretary shall establish a uniform reduction percentage for the crop by dividing the State acreage allotment, as determined for the crop under subparagraph (B), by the sum of all acreage bases in the State, as determined by the Secretary, that the Secretary estimates would otherwise be harvested for the production of the crop of sugarcane.
+&emsp;“(C) The Secretary shall establish a uniform reduction percentage for the crop by dividing the Stateacreage allotment, as determined for the crop under subparagraph (B), by the sum of all acreage bases in the State, as determined by the Secretary, that the Secretary estimates would otherwise be harvested for the production of the crop of sugarcane.
 
 &emsp;“(D) The uniform reduction percentage for the crop, as determined under subparagraph (C), shall be applied to the acreage base for each farm covered by the State allotment to determine the farm's proportionate share for the crop.”
 

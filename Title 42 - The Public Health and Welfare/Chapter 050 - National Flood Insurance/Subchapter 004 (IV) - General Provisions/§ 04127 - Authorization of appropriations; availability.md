@@ -14,11 +14,13 @@
 
 (b) All such funds shall be available without fiscal year limitation.
 
-(c) There are authorized to be appropriated such sums as may be necessary through September 30, 2000, for studies under this chapter. Any amount appropriated under this subsection shall remain available until expended.
+(c) There are authorized to be appropriated such sums as may be necessary through December 31, 2001, for studies under this chapter. Any amount appropriated under this subsection shall remain available until expended.
 
-(Pub. L. 90–448, title XIII, §1376, Aug. 1, 1968, 82 Stat. 589; Pub. L. 94–375, §14(c), Aug. 3, 1976, 90 Stat. 1075; Pub. L. 95–128, title VII, §702, Oct. 12, 1977, 91 Stat. 1144; Pub. L. 95–557, title III, §309, Oct. 31, 1978, 92 Stat. 2098; Pub. L. 96–153, title VI, §602(c), Dec. 21, 1979, 93 Stat. 1137; Pub. L. 96–399, title III, §304, Oct. 8, 1980, 94 Stat. 1639; Pub. L. 97–35, title III, §341(a), Aug. 13, 1981, 95 Stat. 418; Pub. L. 98–181, title IV, §451(c), Nov. 30, 1983, 97 Stat. 1229; Pub. L. 100–242, title V, §543, Feb. 5, 1988, 101 Stat. 1940; Pub. L. 101–137, §4, Nov. 3, 1989, 103 Stat. 825; Pub. L. 104–204, title III, Sept. 26, 1996, 110 Stat. 2915; Pub. L. 105–65, title III, Oct. 27, 1997, 111 Stat. 1377; Pub. L. 105–276, title III, Oct. 21, 1998, 112 Stat. 2503; Pub. L. 106–74, title III, Oct. 20, 1999, 113 Stat. 1088.)
+(Pub. L. 90–448, title XIII, §1376, Aug. 1, 1968, 82 Stat. 589; Pub. L. 94–375, §14(c), Aug. 3, 1976, 90 Stat. 1075; Pub. L. 95–128, title VII, §702, Oct. 12, 1977, 91 Stat. 1144; Pub. L. 95–557, title III, §309, Oct. 31, 1978, 92 Stat. 2098; Pub. L. 96–153, title VI, §602(c), Dec. 21, 1979, 93 Stat. 1137; Pub. L. 96–399, title III, §304, Oct. 8, 1980, 94 Stat. 1639; Pub. L. 97–35, title III, §341(a), Aug. 13, 1981, 95 Stat. 418; Pub. L. 98–181, title IV, §451(c), Nov. 30, 1983, 97 Stat. 1229; Pub. L. 100–242, title V, §543, Feb. 5, 1988, 101 Stat. 1940; Pub. L. 101–137, §4, Nov. 3, 1989, 103 Stat. 825; Pub. L. 104–204, title III, Sept. 26, 1996, 110 Stat. 2915; Pub. L. 105–65, title III, Oct. 27, 1997, 111 Stat. 1377; Pub. L. 105–276, title III, Oct. 21, 1998, 112 Stat. 2503; Pub. L. 106–74, title III, Oct. 20, 1999, 113 Stat. 1088; Pub. L. 106–377, §1(a)(1) \[title III\], Oct. 27, 2000, 114 Stat. 1441, 1441A–47.)
 
 #### Amendments
+
+2000—Subsec. (c). Pub. L. 106–377 substituted “December 31, 2001” for “September 30, 2000”.
 
 1999—Subsec. (c). Pub. L. 106–74 substituted “2000” for “1999”.
 

@@ -26,11 +26,19 @@ Included in the activities authorized to the corporation for accomplishment of t
 
 #### (c) Usual powers of stock corporation
 
-To carry out the foregoing purposes, the corporation shall have the usual powers conferred upon a stock corporation by the District of Columbia Business Corporation Act \[D.C. Code, §29–301 et seq.\].
+To carry out the foregoing purposes, the corporation shall have the usual powers conferred upon a stock corporation by the District of Columbia Business Corporation Act.
 
 (Pub. L. 87–624, title III, §305, Aug. 31, 1962, 76 Stat. 425.)
 
+#### Termination of Section
+
+<i>Section to cease to be effective upon the transfer of assets to a successor entity and receipt by signatories or former signatories (including COMSAT) of ownership shares in the successor entity of INTELSAT in accordance with appropriate arrangements determined by INTELSAT to implement privatization, see section 765d(2) of this title.</i>
+
 #### References in Text
 
-The District of Columbia Business Corporation Act, referred to in subsec. (c), is act June 8, 1954, ch. 269, 68 Stat. 179, as amended, which appears in chapter 3 (§29–301 et seq.) of Title 29, Corporations, of the District of Columbia Code.
+The District of Columbia Business Corporation Act, referred to in subsec. (c), is act June 8, 1954, ch. 269, 68Stat. 179, as amended, which is not classified to the Code.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 765d of this title.
 

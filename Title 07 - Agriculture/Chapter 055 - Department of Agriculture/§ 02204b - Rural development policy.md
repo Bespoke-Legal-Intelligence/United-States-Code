@@ -54,7 +54,7 @@ Cooperators.—Each cooperator, including each Federal agency, to the extent tha
 
 (5) The rural development strategy and the annual updates to the strategy shall be transmitted to the House Committee on Agriculture and the Senate Committee on Agriculture, Nutrition, and Forestry by January 31 of the calendar year immediately preceding the beginning of the appropriate fiscal year.
 
-(6) The rural development strategy and each annual update of the strategy shall contain an analysis of the budget recommendations of the President for the fiscal year following the transmittal of the strategy or update of the strategy and of all the available budget projections of the President for subsequent fiscal years, and projections regarding the budget that are relevant or essential to the rural development policy and the rural development strategy developed under this subsection. Each annual update shall also contain a detailed statement of the findings and conclusions of the Secretary regarding the implementation during the preceding fiscal year of the rural development strategy, including any revisions of the strategy, any recommended legislation to improve the rural development effort of the Federal Government, and an evaluation of and recommendations regarding the rural development information system required under section 1926(a)(12) of this title.
+(6) The rural development strategy and each annual update of the strategy shall contain an analysis of the budget recommendations of the President for the fiscal year following the transmittal of the strategy or update of the strategy and of all the available budget projections of the President for subsequent fiscal years, and projections regarding the budget that are relevant or essential to the rural development policy and the rural development strategy developed under this subsection. Each annual update shall also contain a detailed statement of the findings and conclusions of the Secretary regarding the implementation during the preceding fiscal year ofthe rural development strategy, including any revisions of the strategy, any recommended legislation to improve the rural development effort of the Federal Government, and an evaluation of and recommendations regarding the rural development information system required under section 1926(a)(12) of this title.
 
 #### (d) Strategy implementation; goals
 
@@ -88,6 +88,10 @@ The Federal Advisory Committee Act, referred to in subsec. (b)(3), is Pub. L. 92
 
 Section 10 of Pub. L. 96–355 provided that: “The provisions of this Act \[enacting this section and section 2211b of this title, amending sections 1926, 2204, 2204a, 2204b–1, 2663, and 2667 of this title and section 5314 of Title 5, Government Organization and Employees, and enacting provisions set out as a note under section 2201 of this title\] shall become effective October 1, 1980.”
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (c)(5) of this section relating to transmittal of rural development strategy annual updates to certain committees of Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 44 of House Document No. 103–7.
+
 #### Transfer of Functions
 
 Powers, duties, and assets of agencies, offices, and other entities within Department of Agriculture relating to rural development functions transferred to Rural Development Administration by section 2302(b) of Pub. L. 101–624.
@@ -110,7 +114,7 @@ Section 762 of Pub. L. 104–127 provided that: “Not later than 1 year after t
 
 #### Executive Order No. 12720
 
-Ex. Ord. No. 12720, July 16, 1990, 55 F.R. 29337, as amended by Ex. Ord. No. 12783, Dec. 17, 1991, 56 F.R.65977, which established the President's Council on Rural America, was revoked by Ex. Ord. No. 12869, §4(c), Sept. 30, 1993, 58 F.R. 51751, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 12720, July 16, 1990, 55 F.R. 29337, as amended by Ex. Ord. No. 12783, Dec. 17, 1991, 56 F.R. 65977, which established the President's Council on Rural America, was revoked by Ex. Ord. No. 12869, §4(c), Sept. 30, 1993, 58 F.R. 51751, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 #### Section Referred to in Other Sections
 

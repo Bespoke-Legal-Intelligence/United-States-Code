@@ -74,7 +74,7 @@ Pub. L. 106–129, §2(b), Dec. 6, 1999, 113 Stat. 1670, provided that:
 
 “(1)
 
-In general.—Section 901(a) of the Public Health Service Act \[subsec. (a) of this section\] (as added by subsection (a) of this section) applies as a redesignation of the agency that carried out title IX of such Act \[this subchapter\] on the day before the date of the enactment of this Act \[Dec. 6, 1999\], and not as the termination of such agency and the establishment of a different agency. The amendment made by subsection (a) of this section \[enacting this subchapter\] does not affect appointments of the personnel of such agency who were employed at the agency on the day before such date, including the appointments of members of advisory councils or study sections of the agency who were serving on the day before such date of enactment.
+In general.—Section 901(a) of the Public Health Service Act \[subsec. (a) of this section\] (as added bysubsection (a) of this section) applies as a redesignation of the agency that carried out title IX of such Act \[this subchapter\] on the day before the date of the enactment of this Act \[Dec. 6, 1999\], and not as the termination of such agency and the establishment of a different agency. The amendment made by subsection (a) of this section \[enacting this subchapter\] does not affect appointments of the personnel of such agency who were employed at the agency on the day before such date, including the appointments of members of advisory councils or study sections of the agency who were serving on the day before such date of enactment.
 
 “(2)
 

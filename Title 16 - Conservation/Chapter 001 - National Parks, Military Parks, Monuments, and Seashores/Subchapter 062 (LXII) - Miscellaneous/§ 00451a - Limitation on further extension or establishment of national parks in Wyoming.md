@@ -12,12 +12,6 @@ Section comprises only part of the last sentence of section 1 of act Sept. 14, 1
 
 Repeal of laws inconsistent with act Sept. 14, 1950, see note set out under section 406d–1 of this title.
 
-#### Cross References
-
-Grand Teton National Park in Wyoming, see section 406d–1 et seq. of this title.
-
-National monuments of Wyoming, limitation on further extension or establishment, see section 431a of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 406d–1, 406d–2, 406d–5 of this title.

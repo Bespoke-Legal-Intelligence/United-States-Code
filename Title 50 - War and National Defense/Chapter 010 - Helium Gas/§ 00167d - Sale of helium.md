@@ -10,7 +10,7 @@ The Secretary is authorized to sell crude helium for Federal, medical, scientifi
 
 #### (c) Prices and determinations; repayable amounts
 
-Sales of crude helium by the Secretary shall be at prices established by him which shall be adequate to cover all costs incurred in carrying out the provisions of this chapter and to repay to the United States by deposit in the Treasury, all funds required to be repaid to the United States as of October 1, 1995 under this section (referred to in this subsection as “repayable amounts”). The price at which crude helium is sold by the Secretary shall not be less than the amount determined by the Secretary by—
+Sales of crude helium by the Secretary shall be at prices established by him which shall be adequate to cover all costs incurred in carrying out the provisions of this chapter and to repay to the United States by deposit in the Treasury, all funds required to be repaid to the United States as of October 1, 1995 under this section (referred to in this subsection as “repayable amounts”). The price at which crude helium issold by the Secretary shall not be less than the amount determined by the Secretary by—
 
 &emsp;(1) dividing the outstanding amount of such repayable amounts by the volume (in million cubic feet) of crude helium owned by the United States and stored in the Bureau of Mines Cliffside Field at the time of the sale concerned, and
 

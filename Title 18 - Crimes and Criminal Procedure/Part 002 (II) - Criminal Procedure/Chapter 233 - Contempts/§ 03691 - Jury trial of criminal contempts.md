@@ -16,22 +16,6 @@ The second paragraph of this section is derived from section 389 of title 28, U.
 
 Minor changes were made in phraseology.
 
-#### Federal Rules of Criminal Procedure
-
-Jury trial for criminal contempt where statutes so provide, see rule 42, Appendix to this title.
-
-Statutory provisions defining criminal contempt, see Advisory Committee Notes under rule 42.
-
-#### Cross References
-
-Criminal contempts constituting offenses, see section 402 of this title.
-
-Jury trial discretionary in cases of criminal contempt arising under civil rights laws, see section 1995 of Title 42, The Public Health and Welfare.
-
-Limitations, see section 3285 of this title.
-
-Power to punish for contempt generally, see section 401 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 402 of this title.

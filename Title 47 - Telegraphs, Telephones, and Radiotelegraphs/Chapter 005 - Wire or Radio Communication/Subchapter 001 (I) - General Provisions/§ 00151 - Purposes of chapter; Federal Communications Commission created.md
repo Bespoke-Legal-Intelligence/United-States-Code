@@ -1,6 +1,6 @@
 ### §151. Purposes of chapter; Federal Communications Commission created
 
-For the purpose of regulating interstate and foreign commerce in communication by wire and radio so as to make available, so far as possible, to all the people of the United States, without discrimination on the basis of race, color, religion, national origin, or sex, a rapid, efficient, Nation-wide, and world-wide wire and radio communication service with adequate facilities at reasonable charges, for the purpose of the national defense, for the purpose of promoting safety of life and property through the use of wire and radio communications, and for the purpose of securing a more effective execution of this policy by centralizing authority heretofore granted by law to several agencies and by granting additional authority with respect to interstate and foreign commerce in wire and radio communication, there is created a commission to be known as the “Federal Communications Commission”, which shall be constituted as hereinafter provided, and which shall execute and enforce the provisions of this chapter.
+For the purpose of regulating interstate and foreign commerce in communication by wire and radio so as to make available, so far as possible, to all the people of the United States, without discrimination on the basis of race, color, religion, national origin, or sex, a rapid, efficient, Nation-wide, and world-wide wire and radio communication service with adequate facilities at reasonable charges, for the purpose ofthe national defense, for the purpose of promoting safety of life and property through the use of wire and radio communications, and for the purpose of securing a more effective execution of this policy by centralizing authority heretofore granted by law to several agencies and by granting additional authority with respect to interstate and foreign commerce in wire and radio communication, there is created a commission to be known as the “Federal Communications Commission”, which shall be constituted as hereinafter provided, and which shall execute and enforce the provisions of this chapter.
 
 (June 19, 1934, ch. 652, title I, §1, 48 Stat. 1064; May 20, 1937, ch. 229, §1, 50 Stat. 189; Pub. L. 104–104, title I, §104, Feb. 8, 1996, 110 Stat. 86.)
 
@@ -100,7 +100,7 @@ Internet.—The term ‘Internet’ means collectively the myriad of computer an
 
 &emsp;&emsp;“(D)
 
-Internet access service.—The term ‘Internet access service’ means a service that enables users to access content, information, electronic mail, or other services offered over the Internet and may also include access to proprietary content, information, and other services as part of a package of services offered to consumers. Such term does not include telecommunications services.
+Internet access service.—The term ‘Internet access service’ means a service that enablesusers to access content, information, electronic mail, or other services offered over the Internet and may also include access to proprietary content, information, and other services as part of a package of services offered to consumers. Such term does not include telecommunications services.
 
 &emsp;&emsp;“(E)
 
@@ -292,7 +292,7 @@ Discriminatory tax.—The term ‘discriminatory tax’ means—
 
 &emsp;&emsp;&emsp;“(iii) imposes an obligation to collect or pay the tax on a different person or entity than in the case of transactions involving similar property, goods, services, or information accomplished through other means;
 
-&emsp;&emsp;&emsp;“(iv) establishes a classification of Internet access service providers or online service providersfor purposes of establishing a higher tax rate to be imposed on such providers than the tax rate generally applied to providers of similar information services delivered through other means; or
+&emsp;&emsp;&emsp;“(iv) establishes a classification of Internet access service providers or online service providers for purposes of establishing a higher tax rate to be imposed on such providers than the tax rate generally applied to providers of similar information services delivered through other means; or
 
 &emsp;&emsp;“(B) any tax imposed by a State or political subdivision thereof, if—
 
@@ -322,7 +322,7 @@ Multiple tax.—
 
 &emsp;&emsp;“(A)
 
-In general.—The term ‘multiple tax’ means any tax that is imposed by one State or political subdivision thereof on the same or essentially the same electronic commerce that is also subject to another tax imposed by another State or political subdivision thereof (whether or not at the same rate or on the same basis), without a credit (for example, a resale exemption certificate) for taxes paid in other jurisdictions.
+In general.—The term ‘multiple tax’ means any tax that is imposed by one State or political subdivision thereof on the same or essentially the same electronic commerce that is also subject to another tax imposed by another State or political subdivision thereof (whether or not at the samerate or on the same basis), without a credit (for example, a resale exemption certificate) for taxes paid in other jurisdictions.
 
 &emsp;&emsp;“(B)
 

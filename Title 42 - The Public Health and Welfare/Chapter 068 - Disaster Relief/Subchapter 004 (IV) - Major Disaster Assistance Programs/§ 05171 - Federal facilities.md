@@ -6,7 +6,7 @@ The President may authorize any Federal agency to repair, reconstruct, restore, 
 
 #### (b) Availability of funds appropriated to agency for repair, reconstruction, restoration, or replacement of agency facilities
 
-In order to carry out the provisions of this section, such repair, reconstruction, restoration, or replacement may be begun notwithstanding alack or an insufficiency of funds appropriated for such purpose, where such lack or insufficiency can be remedied by the transfer, in accordance with law, of funds appropriated to that agency for another purpose.
+In order to carry out the provisions of this section, such repair, reconstruction, restoration, or replacement may be begun notwithstanding a lack or an insufficiency of funds appropriated for such purpose, where such lack or insufficiency can be remedied by the transfer, in accordance with law, of funds appropriated to that agency for another purpose.
 
 #### (c) Steps for mitigation of hazards
 

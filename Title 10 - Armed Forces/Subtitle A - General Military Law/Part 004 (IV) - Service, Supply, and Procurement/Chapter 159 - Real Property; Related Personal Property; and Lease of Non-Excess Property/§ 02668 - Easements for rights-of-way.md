@@ -40,7 +40,9 @@
 
 (d) Copies of instruments granting easements over public lands under this section shall be furnished to the Secretary of the Interior.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 150; Pub. L. 98–525, title XIV, §1405(38), Oct. 19, 1984, 98 Stat. 2624; Pub. L. 104–201, div. B, title XXVIII, §2861, Sept. 23, 1996, 110 Stat. 2804.)
+(e) Subsection (d) of section 2667 of this title shall apply with respect to proceeds received by the Secretary of a military department in connection with an easement granted under this section in the same manner as such subsection applies to money rentals received pursuant to leases entered into by that Secretary under such section.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 150; Pub. L. 98–525, title XIV, §1405(38), Oct. 19, 1984, 98 Stat. 2624; Pub. L. 104–201, div. B, title XXVIII, §2861, Sept. 23, 1996, 110 Stat. 2804; Pub. L. 106–398, §1 \[div. B, title XXVIII, §2812(f)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–418.)
 
 Historical and Revision Notes
 
@@ -84,6 +86,8 @@ In subsection (c), the word “terminate” is substituted for the words “annu
 
 #### Amendments
 
+2000—Subsec. (e). Pub. L. 106–398 added subsec. (e).
+
 1996—Subsec. (a)(3). Pub. L. 104–201, §2861(b)(1), struck out “, telephone lines, and telegraph lines,” after “transmission lines”.
 
 Subsec. (a)(9). Pub. L. 104–201, §2861(a)(1), struck out “and” at end.
@@ -94,9 +98,7 @@ Subsec. (a)(13). Pub. L. 104–201, §2861(a)(2), (b)(2), redesignated par. (10)
 
 1984—Subsec. (a)(10). Pub. L. 98–525 substituted “the Act of March 4, 1911 (43 U.S.C. 961)” for “section 961 of title 43”.
 
-#### Cross References
+#### Section Referred to in Other Sections
 
-Easements for rights-of-way across lands purchased for river, harbor, and flood control improvements granted by Secretary of the Army, see section 558c of Title 33, Navigation and Navigable Waters.
-
-Rights of way and other easements in public lands, see section 931 et seq. of Title 43, Public Lands.
+This section is referred to in section 2667 of this title.
 

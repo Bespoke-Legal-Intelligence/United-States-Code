@@ -54,10 +54,6 @@ Subsecs. (j), (k). Pub. L. 97–285, §3(d), added subsecs. (j) and (k).
 
 Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of Pub. L. 104–294, set out as a note under section 13 of this title.
 
-#### Cross References
-
-Wire or oral communications, authorization for interception, to provide evidence of offenses under this section, see section 2516 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 209, 1956, 2332b, 2339A, 2516, 3286, 4247 of this title; title 5 section 8112.

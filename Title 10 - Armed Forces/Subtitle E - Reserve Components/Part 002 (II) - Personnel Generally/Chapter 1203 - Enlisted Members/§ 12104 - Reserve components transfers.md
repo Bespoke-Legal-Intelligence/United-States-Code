@@ -1,6 +1,6 @@
 ### §12104. Reserve components: transfers
 
-(a) A person who would otherwise be required to be transferred to a reserve component under section 651 of this title or under the Military Selective Service Act (50 U.S.C. App. 451 et seq.), is entitled, if he is qualified and accepted, to be enlisted in any armed force that he chooses and toparticipate in the programs authorized for that armed force. However, unless the two Secretaries concerned consent, he may not be enlisted as a Reserve of an armed force other than that from which he is transferred. All periods of his participation shall be credited against the total period of service required of him under section 651 of this title or under the Military Selective Service Act (50 U.S.C. App. 451 et seq.). However, no period may be credited more than once.
+(a) A person who would otherwise be required to be transferred to a reserve component under section 651 of this title or under the Military Selective Service Act (50 U.S.C. App. 451 et seq.), is entitled, if he is qualified and accepted, to be enlisted in any armed force that he chooses and to participate in the programs authorized for that armed force. However, unless the two Secretaries concerned consent, he may not be enlisted asa Reserve of an armed force other than that from which he is transferred. All periods of his participation shall be credited against the total period of service required of him under section 651 of this title or under the Military Selective Service Act (50 U.S.C. App. 451 et seq.). However, no period may be credited more than once.
 
 (b) A person covered by subsection (a) shall perform the rest of his required term of service in the armed force in which he is so enlisted or in any other armed force in which he is later enlisted or appointed.
 
@@ -53,8 +53,4 @@ The Military Selective Service Act, referred to in subsec. (a), is act June 24, 
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
-
-#### Cross References
-
-Active duty agreements, see sections 12311, 12312 of this title.
 

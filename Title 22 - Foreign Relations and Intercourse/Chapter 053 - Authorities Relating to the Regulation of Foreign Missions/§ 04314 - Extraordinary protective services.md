@@ -38,10 +38,6 @@ Amounts used to carry out this section shall not be subject to section 4308(h) o
 
 Section 202(7) of title 3, referred to in subsec. (a), was redesignated section 202(8) of title 3 by Pub. L. 99–500 and Pub. L. 99–591.
 
-#### Codification
-
-Section is also set out in D.C. Code, §5–1213.
-
 #### Amendments
 
 1994—Subsec. (c). Pub. L. 103–236 struck out subsec. (c) which read as follows: “Funds may be obligated under this section only after regulations to implement this section have been issued by the Secretary after consultation with appropriate committees of the Congress.”

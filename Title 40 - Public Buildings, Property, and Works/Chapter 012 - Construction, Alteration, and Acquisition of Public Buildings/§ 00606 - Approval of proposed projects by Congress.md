@@ -50,7 +50,7 @@ Nothing in this section shall be construed to prevent the Administrator from ent
 
 Any dollar amount referred to in this section and section 603(b) of this title may be adjusted by the Administrator annually to reflect a percentage increase or decrease in construction costs during the preceding calendar year, as determined by the composite index of construction costs of the Department of Commerce. Any such adjustment shall be expeditiously reported to the Committee on Environment and Public Works of the Senate and the Committee on Public Works and Transportation of the House of Representatives.
 
-(Pub. L. 86–249, §7, Sept. 9, 1959, 73 Stat. 480; Pub. L. 92–313, §2(4), June 16, 1972, 86 Stat. 217; Pub. L. 94–541, title I, §103(1), (2), Oct. 18, 1976, 90 Stat.2505; Pub. L. 100–678, §§2–4, Nov. 17, 1988, 102 Stat. 4049, 4050; Pub. L. 103–437, §14(b)(1), Nov. 2, 1994, 108 Stat. 4590.)
+(Pub. L. 86–249, §7, Sept. 9, 1959, 73 Stat. 480; Pub. L. 92–313, §2(4), June 16, 1972, 86 Stat. 217; Pub. L. 94–541, title I, §103(1), (2), Oct. 18, 1976, 90 Stat. 2505; Pub. L. 100–678, §§2–4, Nov. 17, 1988, 102 Stat. 4049, 4050; Pub. L. 103–437, §14(b)(1), Nov. 2, 1994, 108 Stat. 4590.)
 
 #### Amendments
 

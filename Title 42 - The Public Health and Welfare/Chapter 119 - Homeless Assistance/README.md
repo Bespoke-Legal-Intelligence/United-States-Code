@@ -324,6 +324,7 @@ Publication.
 |  |  |
 | :--- | ---: |
 | [11361\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20A%20-%20Comprehensive%20Homeless%20Assistance%20Plan/%C2%A7%2011361%20-%20Housing%20affordability%20strategy.md) | Housing affordability strategy. |
+| [11362\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20A%20-%20Comprehensive%20Homeless%20Assistance%20Plan/%C2%A7%2011362%20-%20Discharge%20coordination%20policy.md) | Discharge coordination policy. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -688,7 +689,7 @@ Definitions.
 
 |  |  |
 | :--- | ---: |
-| [11402\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2011402%20-%20Administrative%20provisions.md) | Administrative provisions. |
+| [11402\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2011402%20-%20Environmental%20review.md) | Environmental review. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1193,7 +1194,7 @@ Authorization of appropriations.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1437bbb–5, 12705, 12706 of this title; title 14 section 685; title 26 section 42; title 29 sections 1533, 1605, 1645; title 35 section 2.
+This chapter is referred to in sections 1437bbb–5, 12705, 12706 of this title; title 14 section 685; title 16 section 470w–7; title 26 section 42; title 35 section 2.
 
 
 ---

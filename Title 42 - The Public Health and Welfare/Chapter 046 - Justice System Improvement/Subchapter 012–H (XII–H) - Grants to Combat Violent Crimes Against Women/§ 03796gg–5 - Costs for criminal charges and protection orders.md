@@ -1,0 +1,38 @@
+### §3796gg–5. Costs for criminal charges and protection orders
+
+#### (a) In general
+
+A State, Indian tribal government, or unit of local government, shall not be entitled to funds under this subchapter unless the State, Indian tribal government, or unit of local government—
+
+&emsp;(1) certifies that its laws, policies, and practices do not require, in connection with the prosecution of any misdemeanor or felony domestic violence offense, or in connection with the filing, issuance, registration, or service of a protection order, or a petition for a protection order, to protect a victim of domestic violence, stalking, or sexual assault, that the victim bear the costs associated with the filing of criminal charges against the offender, or the costs associated with the filing, issuance, registration, or service of a warrant, protection order, petition for a protection order, or witness subpoena, whether issued inside or outside the State, tribal, or local jurisdiction; or
+
+&emsp;(2) gives the Attorney General assurances that its laws, policies and practices will be in compliance with the requirements of paragraph (1) within the later of—
+
+&emsp;&emsp;(A) the period ending on the date on which the next session of the State legislature ends; or
+
+&emsp;&emsp;(B) 2 years after October 28, 2000.
+
+#### (b) Redistribution
+
+Funds withheld from a State, unit of local government, or Indian tribal government under subsection (a) of this section shall be distributed to other States, units of local government, and Indian tribal government, respectively, pro rata.
+
+#### (c) Definition
+
+In this section, the term “protection order” has the meaning given the term in section 2266 of title 18.
+
+(Pub. L. 90–351, title I, §2006, as added Pub. L. 103–322, title IV, §40121(a)(3), Sept. 13, 1994, 108 Stat. 1915; amended Pub. L. 106–386, div. B, title I, §1101(b)(1), Oct. 28, 2000, 114 Stat. 1492.)
+
+#### Amendments
+
+2000—Pub. L. 106–386, §1101(b)(1)(A), in section catchline, substituted “Costs” for “Filing costs” and inserted “and protection orders” after “charges”.
+
+Subsec. (a)(1). Pub. L. 106–386, §1101(b)(1)(B)(i), added par. (1) and struck out former par. (1) which read as follows: “certifies that its laws, policies, and practices do not require, in connection with the prosecution of any misdemeanor or felony domestic violence offense, that the abused bear the costs associated with the filing of criminal charges against the domestic violence offender, or the costs associated with the issuance or service of a warrant, protection order, or witness subpoena; or”.
+
+Subsec. (a)(2)(B). Pub. L. 106–386, §1101(b)(1)(B)(ii), substituted “2 years after October 28, 2000” for “2 years”.
+
+Subsec. (c). Pub. L. 106–386, §1101(b)(1)(C), added subsec. (c).
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 3796gg–1 of this title.
+

@@ -4,9 +4,3 @@ The copies of schedules of charges, classifications, and of all contracts, agree
 
 (June 19, 1934, ch. 652, title IV, §412, 48 Stat. 1099.)
 
-#### Federal Rules of Civil Procedure
-
-Effect of rule 44 on this section, see note by Advisory Committee under rule 44, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-Proof of official records, see rule 44.
-

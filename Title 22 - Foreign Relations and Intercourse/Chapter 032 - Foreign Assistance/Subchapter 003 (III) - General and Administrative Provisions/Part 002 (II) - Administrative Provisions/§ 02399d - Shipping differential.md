@@ -12,5 +12,3 @@ References to part I of subchapter I of this chapter are deemed to include a ref
 
 1980—Pub. L. 96–533 substituted “part IV of subchapter II of this chapter” for “subchapter IV of this chapter”.
 
-start
-

@@ -6,13 +6,13 @@ There is authorized to be appropriated to the Secretary not more than $15,000,00
 
 &emsp;(1) specific mineral research and demonstration projects of broad application, which could not otherwise be undertaken, including the expenses of planning and coordinating regional mining and mineral resources research projects by two or more institutes; and
 
-&emsp;(2) research into any aspects of mining and mineral resources problems related to the mission of the Department of the Interior, which are deemed by the Committee to be desirable and are not otherwise being studied.
+&emsp;(2) research into any aspects of mining and mineral resources problems related to the mission of the Department of the Interior, whichare deemed by the Committee to be desirable and are not otherwise being studied.
 
 > There is authorized to be appropriated to the Secretary not more than $1,800,000 for each of the fiscal years after fiscal year 1996 to be made available by the Secretary to an institute or institutes experienced in investigating the continental shelf regions of the United States, the deep seabed and near shore environments of islands, and the Arctic and cold water regions as a source for nonfuel minerals. Such funds are to be used by the institute or institutes to assist in developing domestic technological capabilities required for the location of, and the efficient and environmentally sound recovery of, minerals (other than oil and gas) from the Nation's shallow and deep seabed.
 
 #### (b) Application for funds; contents
 
-Each application for funds under subsection (a) of this section shall state, among other things, the nature of the project to be undertaken; the period during which it will be pursued; the qualifications of the personnel who will direct and conduct it; the estimated costs; the importance of the project to the Nation, region, or State concerned; its relation to other known research projects theretofore pursued or being pursued; the extent to which the proposed project will provide opportunity for the trainingof mining and mineral engineers and scientists; and the extent of participation by nongovernmental sources in the project.
+Each application for funds under subsection (a) of this section shall state, among other things, the nature of the project to be undertaken; the period during which it will be pursued; the qualifications of the personnel who will direct and conduct it; the estimated costs; the importance of the project to the Nation, region, or State concerned; its relation to other known research projects theretofore pursued or being pursued; the extent to which the proposed project will provide opportunity for the training of mining and mineral engineers and scientists; and the extent of participation by nongovernmental sources in the project.
 
 #### (c) Research facilities; selection of institutes; designation of funds for scholarships and fellowships
 

@@ -20,7 +20,7 @@ As used in this chapter—
 
 #### (5) First handler
 
-&emsp;The term “first handler” means any person, as described in an order issued under this chapter, who receives or otherwise acquires mushrooms from a producer and prepares for marketing or markets such mushrooms, or who prepares for marketing or markets mushrooms of that person's own production.
+&emsp;The term “first handler” means any person, as described in an order issued under this chapter, who receives or otherwise acquires mushrooms from a producer and prepares formarketing or markets such mushrooms, or who prepares for marketing or markets mushrooms of that person's own production.
 
 #### (6) Importer
 
@@ -48,7 +48,7 @@ As used in this chapter—
 
 #### (12) Promotion
 
-&emsp;The term “promotion” means any action determined by the Secretary to enhance theimage or desirability of mushrooms, including paid advertising.
+&emsp;The term “promotion” means any action determined by the Secretary to enhance the image or desirability of mushrooms, including paid advertising.
 
 #### (13) Research
 

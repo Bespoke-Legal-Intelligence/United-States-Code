@@ -20,10 +20,6 @@
 
 1988—Pub. L. 100–690, title VII, §7093(b), Nov. 18, 1988, 102 Stat. 4412, added item 4129.
 
-#### Cross References
-
-No postal equipment or supplies to be manufactured by convict labor except as provided in this chapter, see section 2201 of Title 39, Postal Service.
-
 #### Chapter Referred to in Other Sections
 
 This chapter is referred to in title 39 section 2201; title 41 sections 42, 48.

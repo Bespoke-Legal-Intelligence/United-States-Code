@@ -1,6 +1,8 @@
 ### §414. Personal money allowance
 
-(a) In addition to other pay or allowances authorized by this title, an officer who is entitled to basic pay is entitled to a personal money allowance of—
+(a)
+
+Allowance for Officers Serving in Certain Ranks or Positions.—In addition to other pay or allowances authorized by this title, an officer who is entitled to basic pay is entitled to a personal money allowance of—
 
 &emsp;(1) $500 a year, while serving in the grade of lieutenant general or vice admiral, or in an equivalent grade or rank;
 
@@ -12,7 +14,9 @@
 
 &emsp;(5) $4,000 a year, in place of any other personal money allowance authorized by this section, while serving as Chief of Staff of the Army, Chief of Naval Operations, Chief of Staff of the Air Force, Commandant of the Marine Corps, or Commandant of the Coast Guard.
 
-(b) In addition to other pay or allowances authorized by law, an officer who is serving in one of the following positions is entitled to the amount set forth for that position, to be paid annually out of naval appropriations for pay, and to be spent in his discretion for the contingencies of his position—
+(b)
+
+Allowance for Certain Naval Officers.—In addition to other pay or allowances authorized by law, an officer who is serving in one of the following positions is entitled to the amount set forth for that position, to be paid annually out of naval appropriations for pay, and to be spent in his discretion for the contingencies of his position—
 
 &emsp;(1) Superintendent of the Naval Postgraduate School—$400;
 
@@ -24,7 +28,11 @@
 
 &emsp;(5) Director of Naval Intelligence—$5,200.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 476; Pub. L. 89–718, §49(a)(2), Nov. 2, 1966, 80 Stat. 1121; Pub. L. 102–25, title VII, §702(b)(2), Apr. 6, 1991, 105 Stat. 117.)
+(c)
+
+Allowance for Senior Enlisted Members.—In addition to other pay or allowances authorized by this title, a noncommissioned officer is entitled to a personal money allowance of $2,000 a year while serving as the Sergeant Major of the Army, the Master Chief Petty Officer of the Navy, the Chief Master Sergeant of the Air Force, the Sergeant Major of the Marine Corps, or the Master Chief Petty Officer of the Coast Guard.
+
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 476; Pub. L. 89–718, §49(a)(2), Nov. 2, 1966, 80 Stat. 1121; Pub. L. 102–25, title VII, §702(b)(2), Apr. 6, 1991, 105 Stat. 117; Pub. L. 106–398, §1 \[\[div. A\], title VI, §609(a), (b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–149.)
 
 Historical and Revision Notes
 
@@ -50,17 +58,23 @@ In subsection (b), the words “pay or” are inserted to conform to subsection 
 
 #### Amendments
 
+2000—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title VI, §609(b)(1)\], inserted heading.
+
+Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title VI, §609(b)(2)\], inserted heading.
+
+Subsec. (c). Pub. L. 106–398, §1 \[\[div. A\], title VI, §609(a)\], added subsec. (c).
+
 1991—Subsec. (a)(3). Pub. L. 102–25 struck out “of this subsection” after “clause (1)”.
 
 1966—Subsec. (a)(2). Pub. L. 89–718 struck out reference to service as the Director of the Coast and Geodetic Survey.
 
+#### Effective Date of 2000 Amendment
+
+Pub. L. 106–398, §1 \[\[div. A\], title VI, §609(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–149, provided that: “The amendments made by this section \[amending this section\] shall take effect on October 1, 2000.”
+
 #### Transfer of Functions
 
 Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service, transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out in the Appendix to Title 5, Government Organization and Employees. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 3508(b) of Title 20, Education.
-
-#### Cross References
-
-Assimilation of pay and allowances, see section 1003 of this title.
 
 #### Section Referred to in Other Sections
 

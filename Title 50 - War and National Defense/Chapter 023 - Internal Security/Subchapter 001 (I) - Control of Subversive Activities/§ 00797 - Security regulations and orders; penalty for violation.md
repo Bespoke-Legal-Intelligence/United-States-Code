@@ -10,9 +10,3 @@
 
 The National Advisory Committee for Aeronautics, as established by act Mar. 3, 1915, ch. 83, 38 Stat. 930, was terminated pursuant to section 301(a) of Pub. L. 85–568, title III, July 29, 1958, 72 Stat. 432, set out as a note under section 2472 of Title 42, The Public Health and Welfare, which transferred all its functions, powers, duties, and obligations to the National Aeronautics and Space Administration. See section 2451 et seq. of Title 42.
 
-#### Cross References
-
-Espionage and censorship, penalties for violation of laws relating to, see section 792 et seq. of Title 18, Crimes and Criminal Procedure.
-
-Sabotage, penalties for, see section 2151 et seq. of Title 18.
-

@@ -2,7 +2,7 @@
 
 #### (a) Investigations, studies, and experiments
 
-The Secretary may conduct investigations, studies, and experiments, on his own initiative or in cooperation with others, involving the management, protection, development, acquisition, and conveying of the public lands.
+The Secretary may conduct investigations, studies, and experiments, on his own initiativeor in cooperation with others, involving the management, protection, development, acquisition, and conveying of the public lands.
 
 #### (b) Contracts and cooperative agreements
 
@@ -54,7 +54,7 @@ The tort claims provisions of title 28, referred to in subsec. (f)(1), is the Fe
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1732 of this title; title 16 sections 460xx–2, 460ddd.
+This section is referred to in section 1732 of this title; title 16 sections 460xx–2, 460ddd, 460<i>ooo</i>–5.
 
 <i><sup>1</sup></i><i> So in original. Probably should be subchapter “I”.</i>
 

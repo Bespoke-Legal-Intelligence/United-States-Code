@@ -46,10 +46,6 @@
 
 This chapter, referred to in subsec. (a), was in the original “this title”, meaning title II of act Aug. 1, 1956, ch. 841, as added Aug. 24, 1982, Pub. L. 97–241, title II, §202(b), 96 Stat. 283, known as the Foreign Missions Act, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under section 4301 of this title and Tables.
 
-#### Codification
-
-Section is also set out in D.C. Code, §5–1202.
-
 #### Amendments
 
 1994—Subsec. (a)(3) to (8). Pub. L. 103–236 struck out par. (3) and redesignated former pars. (4) to (8) as (3) to (7), respectively. Prior to amendment, par. (3) read as follows: “ ‘Director’ means the Director of the Office of Foreign Missions established pursuant to section 4303(a) of this title;”.
@@ -58,7 +54,7 @@ Section is also set out in D.C. Code, §5–1202.
 
 1986—Subsec. (a)(4). Pub. L. 99–569 amended par. (4) generally, substituting “which is involved in the diplomatic, consular, or other activities of, or which is substantially owned or effectively controlled by” for “involving diplomatic, consular, or other governmental activities of”.
 
-1985—Subsec. (a)(4). Pub. L. 99–93 substituted “mission to or agency in” for “official mission to” in introductory provisions, and inserted “or which engages in some aspect of the conduct of the international affairsof such territory or political entity” before the comma at end of subpar. (B).
+1985—Subsec. (a)(4). Pub. L. 99–93 substituted “mission to or agency in” for “official mission to” in introductory provisions, and inserted “or which engages in some aspect of the conduct of the international affairs of such territory or political entity” before the comma at end of subpar. (B).
 
 #### Effective Date of 1994 Amendment
 

@@ -40,6 +40,7 @@
 | (s) | River Study Centers. |
 | (t) | Thermal discharges. |
 | (u) | Authorization of appropriations. |
+| (v) | Studies concerning pathogen indicators in coastal recreation waters. |
 | [1254a.](Subchapter%20001%20%28I%29%20-%20Research%20and%20Related%20Programs/%C2%A7%2001254a%20-%20Research%20on%20effects%20of%20pollutants.md) | Research on effects of pollutants. |
 | [1255\.](Subchapter%20001%20%28I%29%20-%20Research%20and%20Related%20Programs/%C2%A7%2001255%20-%20Grants%20for%20research%20and%20development.md) | Grants for research and development. |
 | (a) | Demonstration projects covering storm waters, advanced waste treatment and water purification methods, and joint treatment systems for municipal and industrial wastes. |
@@ -95,10 +96,16 @@
 | [1265\.](Subchapter%20001%20%28I%29%20-%20Research%20and%20Related%20Programs/%C2%A7%2001265%20-%20In-place%20toxic%20pollutants.md) | In-place toxic pollutants. |
 | [1266\.](Subchapter%20001%20%28I%29%20-%20Research%20and%20Related%20Programs/%C2%A7%2001266%20-%20Hudson%20River%20reclamation%20demonstration%20project.md) | Hudson River reclamation demonstration project. |
 | [1267\.](Subchapter%20001%20%28I%29%20-%20Research%20and%20Related%20Programs/%C2%A7%2001267%20-%20Chesapeake%20Bay.md) | Chesapeake Bay. |
-| (a) | Office. |
-| (b) | Interstate development plan grants. |
-| (c) | Reports. |
-| (d) | Authorization of appropriations. |
+| (a) | Definitions. |
+| (b) | Continuation of Chesapeake Bay Program. |
+| (c) | Interagency agreements. |
+| (d) | Technical assistance and assistance grants. |
+| (e) | Implementation and monitoring grants. |
+| (f) | Federal facilities and budget coordination. |
+| (g) | Chesapeake Bay Program. |
+| (h) | Study of Chesapeake Bay Program. |
+| (i) | Special study of living resource response. |
+| (j) | Authorization of appropriations. |
 | [1268\.](Subchapter%20001%20%28I%29%20-%20Research%20and%20Related%20Programs/%C2%A7%2001268%20-%20Great%20Lakes.md) | Great Lakes. |
 | (a) | Findings, purpose, and definitions. |
 | (b) | Great Lakes National Program Office. |
@@ -113,7 +120,8 @@
 | (b) | Administration and staffing of Office. |
 | (c) | Duties of Office. |
 | (d) | Grants. |
-| (e) | Authorizations. |
+| (e) | Assistance to distressed communities. |
+| (f) | Authorizations. |
 | [1270\.](Subchapter%20001%20%28I%29%20-%20Research%20and%20Related%20Programs/%C2%A7%2001270%20-%20Lake%20Champlain%20Management%20Conference.md) | Lake Champlain Management Conference. |
 | (a) | Establishment. |
 | (b) | Membership. |
@@ -134,6 +142,19 @@
 | (d) | Disposal costs. |
 | (e) | Limitation on statutory construction. |
 | (f) | Priority work. |
+| (g) | Nonprofit entities. |
+| [1273\.](Subchapter%20001%20%28I%29%20-%20Research%20and%20Related%20Programs/%C2%A7%2001273%20-%20Lake%20Pontchartrain%20Basin.md) | Lake Pontchartrain Basin. |
+| (a) | Establishment of restoration program. |
+| (b) | Purpose. |
+| (c) | Duties. |
+| (d) | Grants. |
+| (e) | Definitions. |
+| (f) | Authorization of appropriations. |
+| [1274\.](Subchapter%20001%20%28I%29%20-%20Research%20and%20Related%20Programs/%C2%A7%2001274%20-%20Wet%20weather%20watershed%20pilot%20projects.md) | Wet weather watershed pilot projects. |
+| (a) | In general. |
+| (b) | Administration. |
+| (c) | Funding. |
+| (d) | Report to Congress. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -211,7 +232,7 @@
 | (j) | Agricultural cost sharing. |
 | [1289\.](Subchapter%20002%20%28II%29%20-%20Grants%20for%20Construction%20of%20Treatment%20Works/%C2%A7%2001289%20-%20Basin%20planning.md) | Basin planning. |
 | (a) | Preparation of Level B plans. |
-| (b) | Reporting requirements. |
+| (b) | Omitted. |
 | (c) | Authorization of appropriations. |
 | [1290\.](Subchapter%20002%20%28II%29%20-%20Grants%20for%20Construction%20of%20Treatment%20Works/%C2%A7%2001290%20-%20Annual%20survey.md) | Annual survey. |
 | [1291\.](Subchapter%20002%20%28II%29%20-%20Grants%20for%20Construction%20of%20Treatment%20Works/%C2%A7%2001291%20-%20Sewage%20collection%20systems.md) | Sewage collection systems. |
@@ -246,6 +267,27 @@
 | (c) | Value engineering review. |
 | (d) | Projects affected. |
 | [1299\.](Subchapter%20002%20%28II%29%20-%20Grants%20for%20Construction%20of%20Treatment%20Works/%C2%A7%2001299%20-%20State%20certification%20of%20projects.md) | State certification of projects. |
+| [1300\.](Subchapter%20002%20%28II%29%20-%20Grants%20for%20Construction%20of%20Treatment%20Works/%C2%A7%2001300%20-%20Pilot%20program%20for%20alternative%20water%20source%20projects.md) | Pilot program for alternative water source projects. |
+| (a) | Policy. |
+| (b) | In general. |
+| (c) | Eligible entity. |
+| (d) | Selection of projects. |
+| (e) | Committee resolution procedure. |
+| (f) | Uses of grants. |
+| (g) | Cost sharing. |
+| (h) | Reports. |
+| (i) | Definitions. |
+| (j) | Authorization of appropriations. |
+| [1301\.](Subchapter%20002%20%28II%29%20-%20Grants%20for%20Construction%20of%20Treatment%20Works/%C2%A7%2001301%20-%20Sewer%20overflow%20control%20grants.md) | Sewer overflow control grants. |
+| (a) | In general. |
+| (b) | Prioritization. |
+| (c) | Financially distressed community. |
+| (d) | Cost-sharing. |
+| (e) | Administrative reporting requirements. |
+| (f) | Authorization of appropriations. |
+| (g) | Allocation of funds. |
+| (h) | Administrative expenses. |
+| (i) | Reports. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -283,6 +325,7 @@
 | (f) | Earlier compliance. |
 | (g) | Heat standards. |
 | (h) | Thermal water quality standards. |
+| (i) | Coastal recreation water quality criteria. |
 | [1313a.](Subchapter%20003%20%28III%29%20-%20Standards%20and%20Enforcement/%C2%A7%2001313a%20-%20Revised%20water%20quality%20standards.md) | Revised water quality standards. |
 | [1314\.](Subchapter%20003%20%28III%29%20-%20Standards%20and%20Enforcement/%C2%A7%2001314%20-%20Information%20and%20guidelines.md) | Information and guidelines |
 | (a) | Criteria development and publication. |
@@ -298,7 +341,7 @@
 | (k) | Agreements with Secretaries of Agriculture, Army, and the Interior to provide maximum utilization of programs to achieve and maintain water quality; transfer of funds; authorization of appropriations. |
 | (<i>l</i>) | Individual control strategies for toxic pollutants. |
 | (m) | Schedule for review of guidelines. |
-| [1315\.](Subchapter%20003%20%28III%29%20-%20Standards%20and%20Enforcement/%C2%A7%2001315%20-%20State%20reports%20on%20water%20quality%3B%20transmittal%20to%20Congress.md) | State reports on water quality; transmittal to Congress. |
+| [1315\.](Subchapter%20003%20%28III%29%20-%20Standards%20and%20Enforcement/%C2%A7%2001315%20-%20State%20reports%20on%20water%20quality.md) | State reports on water quality. |
 | [1316\.](Subchapter%20003%20%28III%29%20-%20Standards%20and%20Enforcement/%C2%A7%2001316%20-%20National%20standards%20of%20performance.md) | National standards of performance. |
 | (a) | Definitions. |
 | (b) | Categories of sources; Federal standards of performance for new sources. |
@@ -445,6 +488,7 @@
 | (n) | Partial permit program. |
 | (<i>o</i>) | Anti-backsliding. |
 | (p) | Municipal and industrial stormwater discharges. |
+| (q) | Combined sewer overflows. |
 | [1343\.](Subchapter%20004%20%28IV%29%20-%20Permits%20and%20Licenses/%C2%A7%2001343%20-%20Ocean%20discharge%20criteria.md) | Ocean discharge criteria. |
 | (a) | Issuance of permits. |
 | (b) | Waiver. |
@@ -478,6 +522,16 @@
 | (e) | Manner of sludge disposal. |
 | (f) | Implementation of regulations. |
 | (g) | Studies and projects. |
+| [1346\.](Subchapter%20004%20%28IV%29%20-%20Permits%20and%20Licenses/%C2%A7%2001346%20-%20Coastal%20recreation%20water%20quality%20monitoring%20and%20notification.md) | Coastal recreation water quality monitoring and notification. |
+| (a) | Monitoring and notification. |
+| (b) | Program development and implementation grants. |
+| (c) | Content of State and local government programs. |
+| (d) | Federal agency programs. |
+| (e) | Database. |
+| (f) | Technical assistance for monitoring floatable material. |
+| (g) | List of waters. |
+| (h) | EPA implementation. |
+| (i) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -521,7 +575,7 @@
 | (b) | Notification of agencies. |
 | (c) | Omitted. |
 | (d) | Exemptions. |
-| (e) | Annual report to Congress. |
+| (e) | Omitted. |
 | (f) | Contractor certification or contract clause in acquisition of commercial items. |
 | [1369\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2001369%20-%20Administrative%20procedure%20and%20judicial%20review.md) | Administrative procedure and judicial review. |
 | (a) | Subpenas. |
@@ -542,6 +596,9 @@
 | (d) | Quorum; special panel. |
 | (e) | Rules. |
 | [1375\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2001375%20-%20Reports%20to%20Congress%3B%20detailed%20estimates%20and%20comprehensive%20study%20on%20costs%3B%20State%20estimates.md) | Reports to Congress; detailed estimates and comprehensive study on costs; State estimates. |
+| [1375a.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2001375a%20-%20Report%20on%20coastal%20recreation%20waters.md) | Report on coastal recreation waters. |
+| (a) | In general. |
+| (b) | Coordination. |
 | [1376\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2001376%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [1377\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2001377%20-%20Indian%20tribes.md) | Indian tribes. |
 | (a) | Policy. |
@@ -595,7 +652,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 59n–1, 1272, 1293a, 1402, 1414b, 1502, 1503, 2317, 2601, 2602, 2801 of this title; title 7 section 1926a; title 10 section 2704; title 16 sections 460zz–2, 460<i>lll</i>, 471i, 1456, 3830, 4711; title 18 section 1956; title 26 section 169; title 30 sections 201, 1242, 1251, 1253, 1292, 1303, 1419; title 40 App. section 214; title 42 sections 300h–6, 300h–7, 300j–13, 300j–14, 2022, 4363a, 4365, 4370c, 4905, 5153, 6901, 6905, 6907, 6949, 7412, 8302, 9603, 9621, 10341; title 43 sections 421h, 1474b–1, 1577, 1595, 1597; title 49 section 47102.
+This chapter is referred to in sections 59n–1, 1272, 1293a, 1375a, 1402, 1414b, 1502, 1503, 2317, 2601, 2602, 2801 of this title; title 7 section 1926a; title 10 section 2704; title 16 sections 460zz–2, 460<i>lll</i>, 471i, 1456, 3830, 4711; title 18 section 1956; title 22 section 277d–43; title 26 section 169; title 30 sections 201, 1242, 1251, 1253, 1292, 1303, 1419; title 40 App. section 214; title 42 sections 300h–6, 300h–7, 300j–13, 300j–14, 2022, 4363a, 4365, 4370c, 4905, 5153, 6901, 6905, 6907, 6949, 7412, 8302, 9603, 9621, 10341; title 43 sections 421h, 1474b–1, 1577, 1595, 1597; title 49 section 47102.
 
 
 ---

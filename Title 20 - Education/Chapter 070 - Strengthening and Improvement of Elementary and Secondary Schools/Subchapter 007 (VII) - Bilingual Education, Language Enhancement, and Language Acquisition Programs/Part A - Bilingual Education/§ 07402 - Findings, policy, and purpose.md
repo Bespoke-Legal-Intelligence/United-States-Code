@@ -46,7 +46,7 @@ The Congress finds that—
 
 &emsp;&emsp;(C) develop our Nation's national language resources, thus promoting our Nation's competitiveness in the global economy;
 
-&emsp;(15) the Federal Government, as exemplified by title VI of the Civil Rights Act of 1964 \[42 U.S.C. 2000d et seq.\] and section 1703(f) of this title, has a special and continuing obligation to ensure that States and local school districts take appropriate action to provide equal educational opportunities to children and youth of limited English proficiency; and
+&emsp;(15) the Federal Government, as exemplified by title VI of the Civil Rights Act of 1964 \[42 U.S.C. 2000d et seq.\] and section 1703(f) of this title, has a special and continuing obligation to ensure that States and local school districtstake appropriate action to provide equal educational opportunities to children and youth of limited English proficiency; and
 
 &emsp;(16) the Federal Government also, as exemplified by the Federal Government's efforts under this subchapter, has a special and continuing obligation to assist States and local school districts in developing the capacity to provide programs of instruction that offer limited English proficient children and youth an equal educational opportunity.
 

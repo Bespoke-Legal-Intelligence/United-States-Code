@@ -78,14 +78,6 @@ Section 511 of act Oct. 12, 1949, ch. 681, title V, 63 Stat. 829, as amended May
 
 \[Section 2 of act Apr. 23, 1956, provided that: “The amendment made by this Act shall be effective as of October 1, 1949.”\]
 
-#### Cross References
-
-Active service, definition, see section 101 of this title.
-
-Coast Guard warrant officers, retirement in cases where higher grade has been held, see section 334 of Title 14, Coast Guard.
-
-Reenlistment after discharge, see section 515 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 573, 1174, 1401, 1406 of this title; title 14 sections 286a, 334.

@@ -28,7 +28,7 @@
 
 &emsp;(B) To permit individuals who have served at least two and one-half years of such an appointment or assignment in the United States to serve abroad thereafter.
 
-&emsp;(C) To permit individuals who have served at least two and one-half years of such an appointment or assignment in a recruitment, selection, or training activity to be reassigned to an activity other than the one in which they have most recently so served.
+&emsp;(C) To permit individuals who have served at least two and one-half years of such an appointment or assignment in a recruitment, selection, or training activity to be reassignedto an activity other than the one in which they have most recently so served.
 
 &emsp;(D) To promote the continuity of functions in administering the Peace Corps.
 
@@ -58,7 +58,7 @@ Amendment by Pub. L. 98–473 is based on section 703 of H.R. 5119, Ninety-eight
 
 #### Amendments
 
-1985—Subsec. (a)(2)(A). Pub. L. 99–83, §1103(a)(1), substituted “seven and one-half” for “five”, substituted “, subject to paragraph (5) and except as provided in paragraph (6)” for “unless the Director of the PeaceCorps, under special circumstances, personally approves an extension of not more than one year on an individual basis”, and inserted reference to section 309 of the Foreign Service Act of 1980.
+1985—Subsec. (a)(2)(A). Pub. L. 99–83, §1103(a)(1), substituted “seven and one-half” for “five”, substituted “, subject to paragraph (5) and except as provided in paragraph (6)” for “unless the Director of the Peace Corps, under special circumstances, personally approves an extension of not more than one year on an individual basis”, and inserted reference to section 309 of the Foreign Service Act of 1980.
 
 Subsec. (a)(5), (6). Pub. L. 99–83, §1103(a)(2), added pars. (5) and (6).
 
@@ -118,11 +118,7 @@ Any substantial changes in policies in effect on May 16, 1979, for the utilizati
 
 #### Reports to Congress
 
-Section 1103(b) of Pub. L. 99–83 provided that: “The Director of the Peace Corps shall, not later than January 1, 1986, submit to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs \[now Committee on International Relations\] of the House of Representatives a report describing the criteria to be applied by the Director in exercising the authority provided by the amendments made by subsection (a) \[amending subsec. (a) of this section\] to make appointments or assignments of individuals for periods of more than five years. Not later than each January 1 thereafter, the Director shall submit to the Committees referred to in the preceding sentence a report on—
-
-&emsp;“(1) the exercise of such authority during the preceding fiscal year for each of the purposes specified in paragraph (5) of section 7(a) of the Peace Corps Act, as added by subsection (a) of this section \[22 U.S.C. 2506(a)(5)\]; and
-
-&emsp;“(2) the exercise during that fiscal year of the authority under paragraph (6) of such section 7(a), as added by subsection (a) of this section \[22 U.S.C. 2506(a)(6)\].”
+Section 1103(b) of Pub. L. 99–83, which required the Director of the Peace Corps to submit to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives reports on the exercise of certain appointment authority granted under section 1103(a) of Pub. L. 99–83 (amending subsec. (a) of this section), terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 189 of House Document No. 103–7.
 
 #### Benefits for Persons Appointed or Assigned Under Subsec. (a)
 

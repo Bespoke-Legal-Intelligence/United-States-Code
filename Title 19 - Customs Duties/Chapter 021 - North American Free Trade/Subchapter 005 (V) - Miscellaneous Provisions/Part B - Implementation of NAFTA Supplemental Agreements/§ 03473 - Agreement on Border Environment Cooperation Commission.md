@@ -8,7 +8,7 @@
 
 #### (2) Contributions to the Commission budget
 
-&emsp;There are authorized to be appropriated to the President (or such agency as the President may designate) $5,000,000 for fiscal year 1994 and each fiscal year thereafter for United States contributions to the budget of the Border Environment Cooperation Commission pursuant to section 7 of Article III of ChapterI of the Border Environment Cooperation Agreement. Funds authorized to be appropriated for such contributions by this paragraph are in addition to any funds otherwise available for such contributions. Funds authorized to be appropriated by this paragraph are authorized to be made available until expended.
+&emsp;There are authorized to be appropriated to the President (or such agency as the President may designate) $5,000,000 for fiscal year 1994 and each fiscal year thereafter for United States contributions to the budget of the Border Environment Cooperation Commission pursuant to section 7 of Article III of Chapter I of the Border Environment Cooperation Agreement. Funds authorized to be appropriated for such contributions by this paragraph are in addition to any funds otherwise available for such contributions. Funds authorized to be appropriated by this paragraph are authorized to be made available until expended.
 
 #### (b) Civil actions involving Commission
 

@@ -26,6 +26,17 @@
 | (a) | In general. |
 | (b) | Direct and indirect watershed agreements. |
 | (c) | Terms and conditions. |
+| [1012\.](%C2%A7%2001012%20-%20Rehabilitation%20of%20structural%20measures%20near%2C%20at%2C%20or%20past%20their%20evaluated%20life%20expectancy.md) | Rehabilitation of structural measures near, at, or past their evaluated life expectancy. |
+| (a) | Definitions. |
+| (b) | Cost share assistance for rehabilitation. |
+| (c) | Technical assistance for watershed project rehabilitation. |
+| (d) | Prohibited use. |
+| (e) | Application for rehabilitation assistance. |
+| (f) | Ranking of requests for rehabilitation assistance. |
+| (g) | Prohibition on certain rehabilitation assistance. |
+| (h) | Authorization of appropriations. |
+| (i) | Assessment of rehabilitation needs. |
+| (j) | Recordkeeping and reports. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -52,3 +63,4 @@ This chapter is referred to section 460<i>l–</i>17 of this title; title 22 sec
 - [&sect; 01009 - Joint investigations and surveys by Secretary of the Army and Secretary of Agriculture; reports to Congress](%C2%A7%2001009%20-%20Joint%20investigations%20and%20surveys%20by%20Secretary%20of%20the%20Army%20and%20Secretary%20of%20Agriculture%3B%20reports%20to%20Congress.md)
 - [&sect; 01010 - Data](%C2%A7%2001010%20-%20Data.md)
 - [&sect; 01011 - Watershed restoration and enhancement agreements](%C2%A7%2001011%20-%20Watershed%20restoration%20and%20enhancement%20agreements.md)
+- [&sect; 01012 - Rehabilitation of structural measures near, at, or past their evaluated life expectancy](%C2%A7%2001012%20-%20Rehabilitation%20of%20structural%20measures%20near%2C%20at%2C%20or%20past%20their%20evaluated%20life%20expectancy.md)

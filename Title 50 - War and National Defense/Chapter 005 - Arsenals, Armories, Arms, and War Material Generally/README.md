@@ -91,10 +91,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Cross References
-
-Acquisition of sites for armories, nitrate plants, and so forth, see section 2663 of Title 10, Armed Forces.
-
 
 ---
 

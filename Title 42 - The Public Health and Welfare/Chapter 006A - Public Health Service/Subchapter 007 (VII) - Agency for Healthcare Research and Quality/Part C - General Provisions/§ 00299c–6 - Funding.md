@@ -12,9 +12,17 @@ For the purpose of carrying out this subchapter, there are authorized to be appr
 
 In addition to amounts available pursuant to subsection (b) of this section for carrying out this subchapter, there shall be made available for such purpose, from the amounts made available pursuant to section 238j of this title (relating to evaluations), an amount equal to 40 percent of the maximum amount authorized in such section 238j of this title to be made available for a fiscal year.
 
-(July 1, 1944, ch. 373, title IX, §927, as added Pub. L. 106–129, §2(a), Dec. 6, 1999, 113 Stat. 1670.)
+#### (d) Health disparities research
+
+For the purpose of carrying out the activities under section 299a–1 of this title, there are authorized to be appropriated $50,000,000 for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 through 2005.
+
+(July 1, 1944, ch. 373, title IX, §927, as added Pub. L. 106–129, §2(a), Dec. 6, 1999, 113 Stat. 1670; amended Pub. L. 106–525, title II, §201(b), Nov. 22, 2000, 114 Stat. 2507.)
 
 #### Prior Provisions
 
 A prior section 299c–6, act July 1, 1944, ch. 373, title IX, §927, as added Pub. L. 101–239, title VI, §6103(c), Dec. 19, 1989, 103 Stat. 2204, set out definitions, prior to the general amendment of this subchapter by Pub. L. 106–129. See section 299c–7 of this title.
+
+#### Amendments
+
+2000—Subsec. (d). Pub. L. 106–525 added subsec. (d).
 

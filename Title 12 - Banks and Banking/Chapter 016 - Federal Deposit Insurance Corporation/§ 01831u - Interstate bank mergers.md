@@ -72,7 +72,7 @@
 
 &emsp;&emsp;Any bank which files an application for an interstate merger transaction shall—
 
-&emsp;&emsp;&emsp;(i) comply with the filing requirements of any host State of the bank which willresult from such transaction to the extent that the requirement—
+&emsp;&emsp;&emsp;(i) comply with the filing requirements of any host State of the bank which will result from such transaction to the extent that the requirement—
 
 &emsp;&emsp;&emsp;&emsp;(I) does not have the effect of discriminating against out-of-State banks or out-of-State bank holding companies or subsidiaries of such banks or bank holding companies; and
 
@@ -96,7 +96,7 @@
 
 &emsp;&emsp;&emsp;(i) any bank involved in the transaction (including all insured depository institutions which are affiliates of any such bank) has a branch in any State in which any other bank involved in the transaction has a branch; and
 
-&emsp;&emsp;&emsp;(ii) the resulting bank (including all insured depository institutions which would be affiliates of the resulting bank), upon consummation of the transaction, would control 30 percent or more of the total amount of deposits of insured depository institutions in any such State.
+&emsp;&emsp;&emsp;(ii) the resulting bank (including all insured depository institutions which wouldbe affiliates of the resulting bank), upon consummation of the transaction, would control 30 percent or more of the total amount of deposits of insured depository institutions in any such State.
 
 #### (C) Effectiveness of State deposit caps
 

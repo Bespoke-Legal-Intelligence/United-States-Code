@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(A) any offense against the United States committed in such officer's presence; or
 
-&emsp;&emsp;(B) any felony offense against the United States if such officer has probable cause tobelieve that the person to be arrested has committed or is committing that felony offense.
+&emsp;&emsp;(B) any felony offense against the United States if such officer has probable cause to believe that the person to be arrested has committed or is committing that felony offense.
 
 (b) The powers granted under subsection (a) of this section shall be exercised in accordance with guidelines approved by the Attorney General.
 

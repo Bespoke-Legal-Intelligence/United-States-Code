@@ -6,7 +6,7 @@ The Administrator of General Services, the Secretary of Defense, and the Directo
 
 #### (b) Identification program
 
-The Administrator of General Services, the Secretary of Defense, and the Director of the Defense Logistics Agency, in consultation with the Secretary of Energy, each shall implement, in conjunction with carrying out their procurement and supply functions, a program to identify and designate those energy efficient products that offer significant potential savings, using, to the extent practicable, the life cycle cost methods and procedures developed under section 8254 of this title. The Secretary of Energy shall, to the extent necessary to carry outthis section and after consultation with the aforementioned agency heads, provide estimates of the degree of relative energy efficiency of products.
+The Administrator of General Services, the Secretary of Defense, and the Director of the Defense Logistics Agency, in consultation with the Secretary of Energy, each shall implement, in conjunction with carrying out their procurement and supply functions, a program to identify and designate those energy efficient products that offer significant potential savings, using, to the extent practicable, the life cycle cost methods and procedures developed under section 8254 of this title. The Secretary of Energy shall, to the extent necessary to carry out this section and after consultation with the aforementioned agency heads, provide estimates of the degree of relative energy efficiency of products.
 
 #### (c) Guidelines
 
@@ -37,6 +37,10 @@ Section was enacted as part of the Energy Policy Act of 1992, and not as part of
 #### Amendments
 
 1995—Subsec. (d). Pub. L. 104–66 substituted “thereafter as part of the report required under section 8258(b) of this title,” for “of each year thereafter,” in introductory provisions.
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the 12th item on page 85 identifies a reporting provision which, as subsequently amended, is contained in subsec. (d) of this section), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 
 #### Executive Order No. 12845
 

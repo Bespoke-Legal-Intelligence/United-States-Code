@@ -46,7 +46,7 @@ There shall be in the Administration a Chief Financial Officer appointed by the 
 
 There shall be in the Administration an Inspector General appointed by the President, by and with the advice and consent of the Senate, in accordance with section 3(a) of the Inspector General Act of 1978.
 
-(Aug. 14, 1935, ch. 531, title VII, §702, 49 Stat. 636; Aug. 28, 1950, ch. 809, title III, pt. 6, §361(c), (d), 64 Stat. 558; Pub. L. 98–369, div. B, title VI, §2663(j)(2)(C)(i), (<i>l</i>)(1), July 18, 1984, 98 Stat. 1170, 1171; Pub. L. 103–296, title I, §102, Aug. 15, 1994, 108 Stat. 1465; Pub. L. 104–121, title I, §103(e)(1), Mar. 29, 1996, 110 Stat. 851.)
+(Aug. 14, 1935, ch. 531, title VII, §702, 49 Stat. 636; Aug. 28, 1950, ch. 809, title III, pt. 6, §361(c), (d), 64 Stat. 558; Pub. L. 98–369, div. B, title VI, §2663(j)(2)(C)(i), (<i>l</i>)(1), July 18, 1984, 98 Stat. 1170, 1171; Pub. L. 103–296, title I, §102, Aug. 15, 1994,108 Stat. 1465; Pub. L. 104–121, title I, §103(e)(1), Mar. 29, 1996, 110 Stat. 851.)
 
 #### References in Text
 
@@ -118,11 +118,11 @@ Pub. L. 101–239, title X, §10306(b), Dec. 19, 1989, 103 Stat. 2484, directed 
 
 #### Study Concerning Establishment of Social Security Administration as an Independent Agency
 
-Pub. L. 98–21, title III, §338, Apr. 20, 1983, 97 Stat. 132, as amended by Pub. L. 98–369, div. B, title VI, §2662(h)(1), July 18, 1984, 98 Stat. 1160, established, under authority of Committee on Ways and Means of the House of Representatives and Committee on Finance of the Senate, a Joint Study Panel on the Social Security Administration to undertake a study of removing Social Security Administration from Department of Health and Human Services and establishing it as an independent agency in the executive branch with its own independent administrative structure, including possibility of such a structure headed by a board appointed by the President, by and with the advice and consent of the Senate, and to submit, not later than Apr. 1, 1984, a report of the findings of the study, and provided that the Panel would expire 30 days after the date of the submission of the report.
+Pub. L. 98–21, title III, §338, Apr. 20, 1983, 97 Stat. 132, as amended by Pub. L. 98–369, div. B, title VI, §2662(h)(1), July 18, 1984, 98 Stat. 1160, established, under authority of Committee on Ways and Means of the House of Representatives and Committee on Finance of the Senate, a Joint Study Panel on the Social Security Administration to undertake a study of removing Social Security Administration from Department of Health and Human Services and establishing it as an independent agency in the executive branch with its own independent administrative structure, including possibility of such a structure headed by a board appointed by the President, by and with the advice andconsent of the Senate, and to submit, not later than Apr. 1, 1984, a report of the findings of the study, and provided that the Panel would expire 30 days after the date of the submission of the report.
 
 #### Earnings Sharing Implementation Report
 
-Pub. L. 98–21, title III, §343, Apr. 20, 1983, 97 Stat. 136, directed Secretary of Health and Human Services to develop, in consultation with Committee on Finance of the Senate and Committee on Ways and Means of the House of Representatives, proposals for earnings sharing legislation (i.e., proposals that combined earnings of a husband and wife during period of their marriagebe divided equally and shared between them for social security benefit purposes) and report such proposals to such committees not later than July 1, 1984.
+Pub. L. 98–21, title III, §343, Apr. 20, 1983, 97 Stat. 136, directed Secretary of Health and Human Services to develop, in consultation with Committee on Finance of the Senate and Committee on Ways and Means of the House of Representatives, proposals for earnings sharing legislation (i.e., proposals that combined earnings of a husband and wife during period of their marriage be divided equally and shared between them for social security benefit purposes) and report such proposals to such committees not later than July 1, 1984.
 
 #### Universal Coverage of Social Security Programs; Study and Report to President and Congress Respecting Scope, Alternatives, etc.; Consultation by Secretary
 

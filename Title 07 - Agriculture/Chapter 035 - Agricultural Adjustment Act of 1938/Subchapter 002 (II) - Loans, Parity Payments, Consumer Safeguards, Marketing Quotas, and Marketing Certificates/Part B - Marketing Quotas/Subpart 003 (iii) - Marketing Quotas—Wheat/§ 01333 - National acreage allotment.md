@@ -24,7 +24,7 @@ Section 303 of Pub. L. 99–198 provided that the amendment made by that section
 
 #### Effective Date of 1965 Amendment
 
-Amendment by Pub. 89–321 effective beginning with crop planted for harvest in calendar year 1966, see section 501 of Pub. L. 89–321, set out as a note under section 1332 of this title.
+Amendment by Pub. L. 89–321 effective beginning with crop planted for harvest in calendar year 1966, see section 501 of Pub. L. 89–321, set out as a note under section 1332 of this title.
 
 #### Effective Date of 1962 Amendment
 
@@ -50,9 +50,5 @@ Pub. L. 91–524, title IV, §404(2), Nov. 30, 1970, 84 Stat. 1366, as amended b
 
 #### 1965 Crop Acreage Allotment
 
-Proclamation of a national acreage allotment for 1965 crop of wheat that will make available an adequate supply of wheat but shall not be less than forty-ninemillion five hundred thousand acres, see section 201 of Pub. L. 88–297, set out as a note under section 1332 of this title.
-
-#### Cross References
-
-Delegation of regulatory functions of Secretary of Agriculture, see section 450c et seq. of this title.
+Proclamation of a national acreage allotment for 1965 crop of wheat that will make available an adequate supply of wheat but shall not be less than forty-nine million five hundred thousand acres, see section 201 of Pub. L. 88–297, set out as a note under section 1332 of this title.
 

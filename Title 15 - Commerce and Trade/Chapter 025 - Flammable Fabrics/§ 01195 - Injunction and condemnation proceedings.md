@@ -20,7 +20,7 @@ If such products, fabrics, or related materials are condemned by the court they 
 
 #### References in Text
 
-The Federal Trade Commission Act, referred to in subsec. (a), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Federal Trade Commission Act, referred to in subsec. (a), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, asamended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
 #### Amendments
 
@@ -35,14 +35,6 @@ Subsec. (d). Pub. L. 90–189, §5(b), substituted “products, fabrics, or rela
 #### Transfer of Functions
 
 Functions of Secretary of Health, Education, and Welfare, Secretary of Commerce, and Federal Trade Commission under this chapter transferred to Consumer Product Safety Commission, along with functions of Federal Trade Commission under Federal Trade Commission Act, to extent such functions relate to administration and enforcement of this chapter, see section 2079 of this title.
-
-#### Federal Rules of Civil Procedure
-
-Admiralty and maritime rules of practice (which included libel procedures) were superseded, and civil and admiralty procedures in United States district courts were unified, effective July 1, 1966, see rule 1 and Supplemental Rules for Certain Admiralty and Maritime Claims, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-#### Cross References
-
-Enforcement by Commission, see section 1194 of this title.
 
 #### Section Referred to in Other Sections
 

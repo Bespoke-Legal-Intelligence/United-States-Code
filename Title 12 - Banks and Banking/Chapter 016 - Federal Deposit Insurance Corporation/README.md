@@ -151,7 +151,6 @@
 | (e) | Audit of Corporation. |
 | (f) | Report of audit. |
 | (g) | Assistance in audit; costs. |
-| (h) | Additional reports. |
 | [1828\.](%C2%A7%2001828%20-%20Regulations%20governing%20insured%20depository%20institutions.md) | Regulations governing insured depository institutions. |
 | (a) | Insurance logo. |
 | (b) | Payment of dividends by defaulting depository institutions. |
@@ -172,7 +171,9 @@
 | (q) | Sovereign risk. |
 | (r) | Subsidiary depository institutions as agents for certain affiliates. |
 | (s) | Prohibition on certain affiliations. |
-| (t) | Limitation on claims. |
+| (t) | Recordkeeping requirements. |
+| (u) | Limitation on claims. |
+| (v) | Loans by insured institutions on their own stock. |
 | [1828a.](%C2%A7%2001828a%20-%20Prudential%20safeguards.md) | Prudential safeguards. |
 | (a) | Comptroller of the Currency. |
 | (b) | Board of Governors of the Federal Reserve System. |
@@ -239,10 +240,7 @@
 | (f) | Additional restrictions. |
 | (g) | Definitions relating to deposit broker. |
 | (h) | Deposit solicitation restricted. |
-| 1831f–1. | Deposit broker notification and recordkeeping. |
-| (a) | Notification. |
-| (b) | Records. |
-| (c) | Periodic reports. |
+| 1831f–1. | Repealed. |
 | [1831g.](%C2%A7%2001831g%20-%20Contracts%20between%20depository%20institutions%20and%20persons%20providing%20goods%2C%20products%2C%20or%20services.md) | Contracts between depository institutions and persons providing goods, products, or services. |
 | (a) | In general. |
 | (b) | Rulemaking. |
@@ -504,7 +502,7 @@ This chapter is referred to in sections 161, 203, 205, 211, 222, 329, 461, 1422,
 - [&sect; 01831d - State-chartered insured depository institutions and insured branches of foreign banks](%C2%A7%2001831d%20-%20State-chartered%20insured%20depository%20institutions%20and%20insured%20branches%20of%20foreign%20banks.md)
 - [&sect; 01831e - Activities of savings associations](%C2%A7%2001831e%20-%20Activities%20of%20savings%20associations.md)
 - [&sect; 01831f - Brokered deposits](%C2%A7%2001831f%20-%20Brokered%20deposits.md)
-- [&sect; 01831f&#8211;1 - Deposit broker notification and recordkeeping](%C2%A7%2001831f%E2%80%931%20-%20Deposit%20broker%20notification%20and%20recordkeeping.md)
+- [&sect; 01831f&#8211;1 - Repealed. Pub. L. 106&#8211;569, title XII, &sect;1203, Dec. 27, 2000, 114 Stat. 3032](%C2%A7%2001831f%E2%80%931%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93569%2C%20title%20XII%2C%20%C2%A71203%2C%20Dec.%2027%2C%202000%2C%20114%20Stat.%203032.md)
 - [&sect; 01831g - Contracts between depository institutions and persons providing goods, products, or services](%C2%A7%2001831g%20-%20Contracts%20between%20depository%20institutions%20and%20persons%20providing%20goods%2C%20products%2C%20or%20services.md)
 - [&sect; 01831h - Savings Association Insurance Fund Industry Advisory Committee](%C2%A7%2001831h%20-%20Savings%20Association%20Insurance%20Fund%20Industry%20Advisory%20Committee.md)
 - [&sect; 01831i - Agency disapproval of directors and senior executive officers of insured depository institutions or depository institution holding&#8230;](%C2%A7%2001831i%20-%20Agency%20disapproval%20of%20directors%20and%20senior%20executive%20officers%20of%20insured%20depository%20institutions%20or%20depository%20institution%20holding%E2%80%A6.md)

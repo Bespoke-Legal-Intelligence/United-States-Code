@@ -16,13 +16,17 @@
 
 (b) Under such regulations as the Secretary of Defense may prescribe, the Secretary may spend, from appropriations available for operation and maintenance, amounts necessary to carry out any project authorized under section 18233(a) of this title costing not more than—
 
-&emsp;(1) the amount specified in section 2805(c)(1) <sup>1</sup> of this title, in the case of a project intended solely to correct a deficiency that is life-threatening, health-threatening, or safety-threatening; or
+&emsp;(1) the amount specified in section 2805(c)(1)(A) of this title, in the case of a project intended solely to correct a deficiency that is life-threatening, health-threatening, or safety-threatening; or
 
-&emsp;(2) the amount specified in section 2805(c)(2) <sup>2</sup> of this title, in the case of any other project.
+&emsp;(2) the amount specified in section 2805(c)(1)(B) of this title, in the case of any other project.
 
-(Added Pub. L. 85–685, title VI, §601(3), Aug. 20, 1958, 72 Stat. 665, §2233a; amended Pub. L. 87–554, title VII, §701, July 27, 1962, 76 Stat. 243; Pub. L. 93–552, title VII, §703, Dec. 27, 1974, 88 Stat. 1770; Pub. L. 94–107, title VII, §703, Oct. 7, 1975, 89 Stat. 569; Pub. L. 96–125, title VII, §704, Nov. 26, 1979, 93 Stat. 947; Pub. L. 97–214, §3(c)(1), July 12, 1982, 96 Stat. 169; Pub. L. 98–115, title VII, §702, Oct. 11, 1983, 97 Stat. 782; Pub. L. 98–407, title VII, §702, Aug. 28, 1984, 98 Stat. 1517; Pub. L. 100–26, §7(f)(1), Apr. 21, 1987, 101 Stat. 281; Pub. L. 100–180, div. B, subdiv. 3, title I, §2304(a), Dec. 4, 1987, 101 Stat. 1215; Pub. L. 102–190, div. B, title XXVIII, §2804, Dec. 5, 1991, 105 Stat. 1537; renumbered §18233a and amended Pub. L. 103–337, div. A, title XVI, §1664(b)(2), (5), Oct. 5, 1994, 108 Stat. 3010; Pub. L. 104–106, div. A, title XV, §1502(a)(10), Feb. 10, 1996, 110 Stat. 503; Pub. L. 104–201, div. B, title XXVIII, §2801(b), (c), Sept. 23, 1996, 110 Stat. 2787; Pub. L. 106–65, div. A, title X, §1067(1), div. B, title XXVIII, §2806, Oct. 5, 1999, 113 Stat. 774, 850.)
+(Added Pub. L. 85–685, title VI, §601(3), Aug. 20, 1958, 72 Stat. 665, §2233a; amended Pub. L. 87–554, title VII, §701, July 27, 1962, 76 Stat. 243; Pub. L. 93–552, title VII, §703, Dec. 27, 1974, 88 Stat. 1770; Pub. L. 94–107, title VII, §703, Oct. 7, 1975, 89 Stat. 569; Pub. L. 96–125, title VII, §704, Nov. 26, 1979, 93 Stat. 947; Pub. L. 97–214, §3(c)(1), July 12, 1982, 96 Stat. 169; Pub. L. 98–115, title VII, §702, Oct. 11, 1983, 97 Stat. 782; Pub. L. 98–407, title VII, §702, Aug. 28, 1984, 98 Stat. 1517; Pub. L. 100–26, §7(f)(1), Apr. 21, 1987, 101 Stat. 281; Pub. L. 100–180, div. B, subdiv. 3, title I, §2304(a), Dec. 4, 1987, 101 Stat. 1215; Pub. L. 102–190, div. B, title XXVIII, §2804, Dec. 5, 1991, 105 Stat. 1537; renumbered §18233a and amended Pub. L. 103–337, div. A, title XVI, §1664(b)(2), (5), Oct. 5, 1994, 108 Stat. 3010; Pub. L. 104–106, div. A, title XV, §1502(a)(10), Feb. 10, 1996, 110 Stat. 503; Pub. L. 104–201, div. B, title XXVIII, §2801(b), (c), Sept. 23, 1996, 110 Stat. 2787; Pub. L. 106–65, div. A, title X, §1067(1), div. B, title XXVIII, §2806, Oct. 5, 1999, 113 Stat. 774, 850; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(22)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–291.)
 
 #### Amendments
+
+2000—Subsec. (b)(1). Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(22)(A)\], substituted “section 2805(c)(1)(A)” for “section 2805(c)(1)”.
+
+Subsec. (b)(2). Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(22)(B)\], substituted “section 2805(c)(1)(B)” for “section 2805(c)(2)”.
 
 1999—Subsec. (a)(1). Pub. L. 106–65, §1067(1), substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 
@@ -85,8 +89,4 @@ Amendment by Pub. L. 97–214 effective Oct. 1, 1982, and applicable to military
 #### Section Referred to in Other Sections
 
 This section is referred to in section 18233 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “section 2805(c)(1)(A)”.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be “section 2805(c)(1)(B)”.</i>
 

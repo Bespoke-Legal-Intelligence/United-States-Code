@@ -60,7 +60,7 @@
 
 &emsp;Such report shall include information on—
 
-&emsp;&emsp;(A) the demonstrated successes of the funded activities in improving interagencycoordination relating to assistive technology, streamlining access to funding for assistive technology, and producing beneficial outcomes for users of assistive technology;
+&emsp;&emsp;(A) the demonstrated successes of the funded activities in improving interagency coordination relating to assistive technology, streamlining access to funding for assistive technology, and producing beneficial outcomes for users of assistive technology;
 
 &emsp;&emsp;(B) the demonstration activities carried out through the funded activities to—
 

@@ -6,7 +6,7 @@
 
 &emsp;(A) rules adopted by the Commission under this chapter provide protection from deceptive and abusive telemarketing by persons described under paragraph (1) substantially similar to that provided by rules promulgated by the Federal Trade Commission under section 6102(a) of title 15; or
 
-&emsp;(B) such a rule promulgated by the Commission is not necessary or appropriate in the public interest, or for the protection of customers in the futures and options markets, or would be inconsistent with the maintenance of fair and orderly markets.
+&emsp;(B) such a rule promulgated by the Commission is not necessary or appropriate in thepublic interest, or for the protection of customers in the futures and options markets, or would be inconsistent with the maintenance of fair and orderly markets.
 
 > If the Commission determines that an exception described in subparagraph (A) or (B) applies, the Commission shall publish in the Federal Register its determination with the reasons for it.
 
@@ -14,9 +14,9 @@
 
 #### Codification
 
-Section is comprised of subsec. (f) of section 6 of act Sept. 21, 1922. Subsecs. (a) and (b) of section 6 are classified to section 8 of this title. Subsec. (c) of section 6 is classified to sections 9 and 15 of this title. Subsecs. (d) and (e) of section 6 are classified to sections 13b and 9a of this title, respectively.
+Section is comprised of subsec. (f) of section 6 of act Sept. 21, 1922. Subsecs. (a) and (b) of section 6 are classified to section 8 of this title. Subsec. (c) of section 6 is classified to sections 9 and 15 of this title. Subsecs. (d), (e), and (g) of section 6 are classified to sections 13b, 9a, and 9c of this title, respectively.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 15 section 6102.
+This section is referred to in section 12 of this title; title 15 section 6102.
 

@@ -10,7 +10,7 @@ The Secretary shall expedite the award of grants, contracts, and cooperative agr
 
 &emsp;(A) may not be approved if the application is submitted after the expiration of the 3-month period beginning on the date on which the solicitation is issued; and
 
-&emsp;(B) shall be awarded, or otherwise finally acted upon, not later than the expiration of the 6-month period beginning on the expiration of the period described in subparagraph (A).
+&emsp;(B) shall be awarded, or otherwise finally acted upon, not later than the expiration ofthe 6-month period beginning on the expiration of the period described in subparagraph (A).
 
 (2) If the Secretary makes a determination that it is not practicable to administer a program referred to in paragraph (1) in accordance with the time limitations described in such paragraph, the Secretary may adjust the time limitations accordingly.
 
@@ -46,5 +46,5 @@ A prior section 300cc–1, act July 1, 1944, §2302, was successively renumbered
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 

@@ -8,12 +8,6 @@ Lassen Volcanic National Park shall be under the exclusive control of the Secret
 
 A provision for the making of necessary rules and regulations by the Secretary of the Interior has been omitted by reason of the reference to section 3 of this title, derived from act Aug. 25, 1916, ch. 408, §3, 39 Stat. 535, authorizing the Secretary of the Interior to make and publish rules and regulations applicable to National Parks.
 
-#### Cross References
-
-Secretary of the Interior to make and publish such general rules and regulations as he may deem necessary and proper for management and care of the park, see section 204c of this title.
-
-Summer homes or cottages not to be built in Lassen Volcanic National Park after Jan. 26, 1931, see section 202a of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 201, 201b, 203, 205a of this title.

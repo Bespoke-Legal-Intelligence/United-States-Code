@@ -8,7 +8,7 @@
 
 #### (b) Reallotment
 
-The amount of any State's allotment under subsection (a) of this section for any fiscal year which the Secretary determines will not be required for such fiscal year for the leveraging educational assistance partnership program of that State shall be available for reallotment from time to time, on such dates during such year as the Secretary may fix, to other States in proportion to the original allotments to such States under such part for such year, but with such proportionate amount for any of such States being reduced to the extent it exceeds the sum the Secretary estimates such State needs and will be able to use for such year for carrying out the State plan. The total of such reductions shall be similarly reallotted among the States whose proportionate amounts were not so reduced. Any amount reallotted to a State under this part during a year from funds appropriated pursuant to section 1070c(b)(1) of this title shall be deemed part of its allotment under subsection (a) of this section for such year.
+The amount of any State's allotment under subsection (a) of this section for any fiscal year which the Secretary determines will not be required for such fiscal year for the leveraging educational assistance partnership program of that State shall be available for reallotment from time to time, on such dates during such year as the Secretary may fix, to other States in proportion to the original allotments to such States under such part for such year, but with such proportionate amount for any of such States being reduced to the extent it exceeds the sum the Secretary estimates such State needs and will be able to use for such year for carrying out the State plan. The total of such reductions shall be similarly reallotted among the States whose proportionate amounts were not so reduced. Any amount reallotted to a State under this part during a year from funds appropriated pursuant to section 1070c(b)(1) of this title shallbe deemed part of its allotment under subsection (a) of this section for such year.
 
 #### (c) Allotments subject to continuing compliance
 
@@ -29,8 +29,4 @@ Subsec. (b). Pub. L. 105–244, §407(a)(2)(A), substituted “leveraging educat
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1070c–3a of this title.
 

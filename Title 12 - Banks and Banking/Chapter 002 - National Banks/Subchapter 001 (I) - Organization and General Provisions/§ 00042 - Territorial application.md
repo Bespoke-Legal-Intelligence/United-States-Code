@@ -4,7 +4,3 @@ The provisions of all Acts of Congress relating to national banks shall apply in
 
 (Pub. L. 86–230, §14, Sept. 8, 1959, 73 Stat. 458.)
 
-#### Codification
-
-Section is also set out in D.C. Code, §47–2508.
-

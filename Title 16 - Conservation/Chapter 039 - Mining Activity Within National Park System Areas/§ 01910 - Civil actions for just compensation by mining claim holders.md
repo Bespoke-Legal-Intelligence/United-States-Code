@@ -16,11 +16,3 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, see section 403 of Pub. L. 98–620, set out as an Effective Date note under section 1657 of Title 28, Judiciary and Judicial Procedure.
 
-#### Cross References
-
-Mineral lands and regulations—
-
-&emsp;&emsp;Procurement procedure for patents for any land claimed and located for valuable deposits, see section 29 of Title 30, Mineral Lands and Mining.
-
-&emsp;&emsp;Procurement procedure for patents for any nonmineral lands, see section 42 of Title 30.
-

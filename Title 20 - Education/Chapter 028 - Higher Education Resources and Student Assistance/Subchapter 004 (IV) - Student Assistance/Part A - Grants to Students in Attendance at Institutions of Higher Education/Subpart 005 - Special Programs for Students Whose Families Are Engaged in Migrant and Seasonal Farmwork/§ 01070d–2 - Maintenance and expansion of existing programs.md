@@ -16,7 +16,7 @@ The services authorized by this subpart for the high school equivalency program 
 
 &emsp;&emsp;(B)(i) who themselves, or whose parents, have spent a minimum of 75 days during the past 24 months in migrant and seasonal farmwork; or
 
-&emsp;&emsp;(ii) who are eligible to participate, or have participated within the preceding 2 years, in programs under part C of title I of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6391 et seq.\] or section 1672 of title 29 or section 2912 of title 29; and
+&emsp;&emsp;(ii) who are eligible to participate, or have participated within the preceding 2 years, in programs under part C of title I of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6391 et seq.\] or section 2912 of title 29; and
 
 &emsp;&emsp;(C) who lack a high school diploma or its equivalent;
 
@@ -44,7 +44,7 @@ The services authorized by this subpart for the high school equivalency program 
 
 (1) Services authorized by this subpart for the college assistance migrant program include—
 
-&emsp;(A) outreach and recruitment services to reach persons who themselves or whose parents have spent a minimum of 75 days during the past 24 months in migrant and seasonal farmwork or who have participated or are eligible to participate, in programs under part C of title I of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6391 et seq.\] (or such part's predecessor authority) or section 1672 of title 29 or section 2912 of title 29, and who meet the minimum qualifications for attendance at a college or university;
+&emsp;(A) outreach and recruitment services to reach persons who themselves or whose parents have spent a minimum of 75 days during the past 24 months in migrant and seasonal farmwork or who have participated or are eligible to participate, in programs under part C of title I of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6391 et seq.\] (or such part's predecessor authority) or section 2912 of title 29, and who meet the minimum qualifications for attendance at a college or university;
 
 &emsp;(B) supportive and instructional services which include:
 
@@ -128,10 +128,6 @@ The National Center for Education Statistics shall collect postsecondary educati
 
 (Pub. L. 89–329, title IV, §418A, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat. 1341; amended Pub. L. 100–50, §7, June 3, 1987, 101 Stat. 340; Pub. L. 102–325, title IV, §405, July 23, 1992, 106 Stat. 507; Pub. L. 103–382, title III, §391(e)(1), (2), Oct. 20, 1994, 108 Stat. 4022; Pub. L. 105–244, title IV, §408, Oct. 7, 1998, 112 Stat. 1667; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(15)(A), (f)(12)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–421, 2681–431.)
 
-#### Amendment of Section
-
-<i>Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(f)(12)(A), (g)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–431, 2681–435, provided that, effective July 1, 2000, subsections (b)(1)(B)(ii) and (c)(1)(A) are amended by striking “section 1672 of title 29 or”.</i>
-
 #### References in Text
 
 The Elementary and Secondary Education Act of 1965, referred to in subsecs. (b)(1)(B)(ii) and (c)(1)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Part C of title I of the Act is classified generally to part C (§6391 et seq.) of subchapter I of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
@@ -146,7 +142,9 @@ A prior section 1070d–3, Pub. L. 89–329, title IV, §418B, as added Pub. L. 
 
 #### Amendments
 
-1998—Subsecs. (b)(1)(B)(ii), (c)(1)(A). Pub. L. 105–277, §101(f) \[title VIII, §405(d)(15)(A)\], substituted “section 1672 of title 29 or section 2912 of title 29” for “section 1672 of title 29”.
+1998—Subsecs. (b)(1)(B)(ii), (c)(1)(A). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(12)(A)\], struck out “section 1672 of title 29 or” before “section 2912 of title 29”.
+
+Pub. L. 105–277, §101(f) \[title VIII, §405(d)(15)(A)\], substituted “section 1672 of title 29 or section 2912 of title 29” for “section 1672 of title 29”.
 
 Subsec. (d). Pub. L. 105–244, §408(a), inserted “that the grant recipient will coordinate the project, to the extent feasible, with other local, State, and Federal programs to maximize the resources available for migrant students, and” after “contains assurances” in introductory provisions.
 

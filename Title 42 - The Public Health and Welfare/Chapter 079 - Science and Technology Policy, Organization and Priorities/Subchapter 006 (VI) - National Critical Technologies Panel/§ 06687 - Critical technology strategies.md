@@ -2,7 +2,7 @@
 
 #### (a) Requirement for critical technology strategies
 
-(1) The President shall develop and revise as needed a multiyear strategy for federally supported research and development for each critical technology designated by the President. In designating critical technologies for the purpose of this section, the President shall begin with the national critical technologies listed in a biennial report on national critical technologies submitted to Congress by the President pursuant to section 6683(d) of this title. A critical technology strategy may cover more than one critical technology.
+(1) The President shall develop and revise as needed a multiyear strategy for federally supported research and development for each critical technology designated by the President. In designating critical technologies for the purpose of this section, the President shall begin with the national critical technologies listed in a biennial report on national critical technologies submitted to Congress by the President pursuant to section 6683(d) <sup>1</sup> of this title. A critical technology strategy may cover more than one critical technology.
 
 (2) The President shall assign responsibilities and develop procedures for conducting executive branch activities to carry out this section.
 
@@ -29,6 +29,10 @@ Not later than February 15 of each year, beginning in 1993, the President shall 
 &emsp;(3) A copy of each strategy, if any, completed or revised pursuant to subsection (a) of this section during the fiscal year covered by the report.
 
 (Pub. L. 102–190, div. A, title VIII, §822(a), (b), Dec. 5, 1991, 105 Stat. 1432, 1433.)
+
+#### References in Text
+
+Section 6683 of this title, referred to in subsec. (a)(1), was omitted from the Code.
 
 #### Codification
 

@@ -40,7 +40,7 @@ The Commission shall be composed of twenty members as follows:
 
 &emsp;(15) Three individuals appointed by the Secretary of the Interior from a list of individuals nominated by the mayor of Saint Louis, Missouri, and the Governor of the State of Missouri.
 
-> Individuals nominated for appointment under paragraphs (14) and (15) shall be individuals who have knowledge and experience in one or more of the fields of parks and recreation, environmental protection, historic preservation, cultural affairs, tourism, economic development, city planning and management, finance, or public administration. A vacancy in the Commission shall be filled in the manner in which the original appointment was made.
+> Individuals nominated for appointment under paragraphs (14) and (15) shall be individuals who have knowledge and experience in one or more of the fields of parks and recreation, environmental protection, historic preservation, cultural affairs, tourism, economic development,city planning and management, finance, or public administration. A vacancy in the Commission shall be filled in the manner in which the original appointment was made.
 
 #### (c) Term of office of members
 

@@ -1,11 +1,5 @@
 ### SUBCHAPTER XIII—KLAMATH TRIBE: TERMINATION OF FEDERAL SUPERVISION
 
-#### Cross References
-
-Klamath Tribe and its members, inapplicability of this subchapter to, see section 566 of this title.
-
-Modoc Tribe and its members, inapplicability of this subchapter to, see section 861a of this title.
-
 #### Subchapter Referred to in Other Sections
 
 This subchapter is referred to in sections 566, 861a of this title.

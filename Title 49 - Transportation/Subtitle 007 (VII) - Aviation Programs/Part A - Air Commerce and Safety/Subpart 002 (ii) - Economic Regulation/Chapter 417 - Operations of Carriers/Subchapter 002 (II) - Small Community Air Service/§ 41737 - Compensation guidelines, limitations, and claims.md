@@ -8,7 +8,7 @@ Compensation Guidelines.—(1) The Secretary of Transportation shall prescribe g
 
 &emsp;(B) consider amounts needed by an air carrier to promote public use of the service or transportation for which compensation is being paid; and
 
-&emsp;(C) include expense elements based on representative costs of air carriers providing scheduled air transportation of passengers,property, and mail on aircraft of the type the Secretary decides is appropriate for providing the service or transportation for which compensation is being provided.
+&emsp;(C) include expense elements based on representative costs of air carriers providing scheduled air transportation of passengers, property, and mail on aircraft of the type the Secretary decides is appropriate for providing the service or transportation for which compensation is being provided.
 
 (2) Promotional amounts described in paragraph (1)(B) of this subsection shall be a special, segregated element of the compensation provided to a carrier under this subchapter.
 
@@ -26,7 +26,7 @@ Claims.—Not later than 15 days after receiving a written claim from an air car
 
 (d)
 
-Authority To Make Agreements and Incur Obligations.—(1) The Secretary may make agreements and incur obligations from the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 (26 U.S.C. 9502) to pay compensation under this subchapter. An agreement by the Secretary under this subsection is a contractual obligation of the Government to pay the Government's share of the compensation.
+Authority To Make Agreements and Incur Obligations.—(1) The Secretary maymake agreements and incur obligations from the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 (26 U.S.C. 9502) to pay compensation under this subchapter. An agreement by the Secretary under this subsection is a contractual obligation of the Government to pay the Government's share of the compensation.
 
 (2) Not more than $38,600,000 is available to the Secretary out of the Fund for each of the fiscal years ending September 30, 1993–1998, to incur obligations under this section. Amounts made available under this section remain available until expended.
 

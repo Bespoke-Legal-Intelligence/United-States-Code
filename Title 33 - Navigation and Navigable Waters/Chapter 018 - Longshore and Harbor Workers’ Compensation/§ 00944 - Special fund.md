@@ -32,7 +32,7 @@ Payments into such fund shall be made as follows:
 
 (2) Each carrier and self-insurer shall make, keep, and preserve such records, and make such reports and provide such additional information, as prescribed by regulation or order of the Secretary, as the Secretary deems necessary or appropriate to carry out his responsibilities under this section.
 
-(3) For the purpose of any hearing or investigation related to determinations or the enforcement of the provisions of this section, the provisions of sections 49 and 50 of title 15 (relating to the attendance of witnesses and the production of books, papers, and documents) arehereby made applicable to the jurisdiction, powers, and duties of the Secretary of Labor.
+(3) For the purpose of any hearing or investigation related to determinations or the enforcement of the provisions of this section, the provisions of sections 49 and 50 of title 15 (relating to the attendance of witnesses and the production of books, papers, and documents) are hereby made applicable to the jurisdiction, powers, and duties of the Secretary of Labor.
 
 #### (e) Depositories; investments
 
@@ -100,7 +100,7 @@ Subsec. (i)(4). Pub. L. 98–426, §24(d)(2), inserted “(e)” after “sectio
 
 Subsec. (j). Pub. L. 98–426, §24(b), redesignated (k) as (j). Former subsec. (j) redesignated (i).
 
-Pub. L. 98–426, §24(e), substituted “The fund shall be audited annually and the results of such audit shall be included in the annual report required by section 942 ofthis title” for “At the close of each fiscal year the Secretary shall submit to the Congress a complete audit of the fund”.
+Pub. L. 98–426, §24(e), substituted “The fund shall be audited annually and the results of such audit shall be included in the annual report required by section 942 of this title” for “At the close of each fiscal year the Secretary shall submit to the Congress a complete audit of the fund”.
 
 Subsec. (k). Pub. L. 98–426, §24(b), redesignated subsec. (k) as (j).
 
@@ -122,7 +122,7 @@ Subsec. (k). Pub. L. 92–576, §8(d), incorporated former provisions of subsec.
 
 1956—Subsec. (a). Act July 26, 1956, §8(a), substituted “, of subsection (b) of section 918 of this title, and of subsection (c) of section 939 of this title” for “of this title.”
 
-Subsec. (c)(1). Act July 26, 1956, §8(b), substituted provisions relating to availability of fund for payments under sections 908(f) and (g), 918(b), and 939(c) of this title, proviso that subsec. (f) payments have priority, and further proviso requiring annual audit, for former provision that fifty per centum of each payment shall be available for the payments under section 908(f) and (g) of this title.
+Subsec. (c)(1). Act July 26, 1956, §8(b), substituted provisions relating to availability of fund for payments under sections 908(f) and (g), 918(b), and 939(c) of this title, proviso that subsec. (f) payments have priority, and further proviso requiring annual audit, for former provision that fifty per centum of each payment shallbe available for the payments under section 908(f) and (g) of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -135,12 +135,6 @@ Amendment by Pub. L. 92–576 effective 30 days after Oct. 27, 1972, see section
 #### Transfer of Functions
 
 For transfer of functions of other officers, employees, and agencies of Department of the Treasury, with certain exceptions, to Secretary of the Treasury with power to delegate, see Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. Functions of Coast Guard, and Commandant of Coast Guard, were excepted from transfer when Coast Guard is operating as part of Navy under sections 1 and 3 of Title 14, Coast Guard.
-
-#### Cross References
-
-Civil penalty for failure or refusal of employer to send report, see section 930 of this title.
-
-Classification as trust funds, appropriation and disbursement of fund for “Relief and rehabilitation, Longshoremen's and Harbor Workers’ Compensation Act,” see section 1321 of Title 31, Money and Finance.
 
 #### Section Referred to in Other Sections
 

@@ -168,7 +168,7 @@ Technical determinations, the development of restoration and mitigation plans, a
 
 Using authorities available to the Secretary, the Secretary may operate a pilot program for mitigation banking of wetlands to assist persons to increase the efficiency of agricultural operations while protecting wetland functions and values. Subsection (f)(2)(C) of this section shall not apply to this subsection.
 
-(Pub. L. 99–198, title XII, §1222, Dec. 23, 1985, 99 Stat. 1508; Pub. L. 101–624, title XIV, §1422, Nov.28, 1990, 104 Stat. 3573; Pub. L. 104–127, title III, §322, Apr. 4, 1996, 110 Stat. 987.)
+(Pub. L. 99–198, title XII, §1222, Dec. 23, 1985, 99 Stat. 1508; Pub. L. 101–624, title XIV, §1422, Nov. 28, 1990, 104 Stat. 3573; Pub. L. 104–127, title III, §322, Apr. 4, 1996, 110 Stat. 987.)
 
 #### References in Text
 
@@ -202,7 +202,7 @@ Amendment by Pub. L. 104–127 effective 90 days after Apr. 4, 1996, see section
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 3821 of this title.
+This section is referred to in sections 3821, 3831 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

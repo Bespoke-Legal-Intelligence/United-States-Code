@@ -2,7 +2,7 @@ Part A—Emergency Relief for Areas With Substantial Need for Services
 
 #### Part Referred to in Other Sections
 
-This part is referred to in sections 300ff–28, 300ff–41, 300ff–51, 300ff–77, 300ff–101 of this title.
+This part is referred to in sections 300ff–28, 300ff–30, 300ff–51, 300ff–75, 300ff–75b, 300ff–77, 300ff–101 of this title.
 
 
 ---

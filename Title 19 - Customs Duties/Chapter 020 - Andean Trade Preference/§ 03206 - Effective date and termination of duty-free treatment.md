@@ -10,7 +10,3 @@ No duty-free treatment extended to beneficiary countries under this chapter shal
 
 (Pub. L. 102–182, title II, §208, Dec. 4, 1991, 105 Stat. 1244.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3204 of this title.
-

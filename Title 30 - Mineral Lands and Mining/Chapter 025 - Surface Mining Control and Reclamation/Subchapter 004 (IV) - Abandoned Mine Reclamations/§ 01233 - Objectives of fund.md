@@ -8,7 +8,7 @@ Expenditure of moneys from the fund on lands and water eligible pursuant to sect
 
 &emsp;(2) the protection of public health, safety, and general welfare from adverse effects of coal mining practices;
 
-&emsp;(3) the restoration of land and water resources and the environment previously degraded by adverse effects of coal mining practices including measures for the conservationand development of soil, water (excluding channelization), woodland, fish and wildlife, recreation resources, and agricultural productivity.<sup>1</sup>
+&emsp;(3) the restoration of land and water resources and the environment previously degraded by adverse effects of coal mining practices including measures for the conservation and development of soil, water (excluding channelization), woodland, fish and wildlife, recreation resources, and agricultural productivity.<sup>1</sup>
 
 &emsp;(4) the protection, repair, replacement, construction, or enhancement of public facilities such as utilities, roads, recreation, and conservation facilities adversely affected by coal mining practices;
 

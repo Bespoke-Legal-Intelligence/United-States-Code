@@ -24,9 +24,9 @@ Fees.—(1) Training at the Institute for safety personnel (except employees of 
 
 (d)
 
-Training of board employees and others.—The Board may conduct training of its employees in those subjects necessary for the proper performance of accident investigation. The Board may also authorize attendance at courses given under this subsection by other government personnel, personnel of foreign governments, and personnel from industry or otherwise who have a requirement for accident investigation training. The Board may require non-Board personnel to reimburse some or all of the training costs, and amounts so reimbursed shall be credited to the appropriation of the “National Transportation Safety Board, Salaries and Expenses” as offsetting collections.
+Training of board employees and others.—The Board may conduct training of its employees in those subjects necessary for the proper performance of accident investigation. The Board may also authorize attendance at courses given under this subsection by other government personnel, personnel of foreign governments, and personnel from industry or otherwise who have a requirement for accident investigation training. The Board may require non-Board personnel to reimburse some or all of the training costs, and amounts so reimbursed shall be credited to the appropriation of the Board as offsetting collections.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 750; Pub. L. 104–291, title I, §104, Oct. 11, 1996, 110 Stat. 3453.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 750; Pub. L. 104–291, title I, §104, Oct. 11, 1996, 110 Stat. 3453; Pub. L. 106–424, §3(b)(3), Nov. 1, 2000, 114 Stat. 1884.)
 
 Historical and Revision Notes
 
@@ -59,6 +59,8 @@ In subsection (b), before clause (1), the words “(established for the purpose 
 In subsection (c)(1), before clause (A), the words “the Secretary shall deposit the fee in the Treasury” are added for clarity. In clause (B), the words “direct and indirect” are omitted as surplus. The word “administration” is omitted as being included in “operating”. The text of 49 App.:1903(b)(10) (last sentence) is omitted because 5:ch. 41 applies to the National Transportation Safety Board by its own terms.
 
 #### Amendments
+
+2000—Subsec. (d). Pub. L. 106–424 substituted “of the Board” for “of the ‘National Transportation Safety Board, Salaries and Expenses’ ”.
 
 1996—Subsec. (d). Pub. L. 104–291 added subsec. (d).
 

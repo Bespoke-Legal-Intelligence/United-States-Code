@@ -14,10 +14,6 @@ The time for holding an election under this section was extended to June 18, 193
 
 Act June 15, 1935, ch. 260, §3, 49 Stat. 378, provided that the periods of trust or the restrictions on alienation of Indian lands should be extended to Dec. 31, 1936, in case of a vote against the application of sections 461, 462, 463, 464, 465, 466 to 470, 471, 472, 473, 474, 475, 476 to 478, and 479 of this title.
 
-#### Cross References
-
-Right-of-way grant, consent of tribal officials, see section 324 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 473, 478–1, 566b, 2202 of this title.

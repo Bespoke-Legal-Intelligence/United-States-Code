@@ -20,7 +20,7 @@ Matters To Be Included in Report.—Each presentation under subsection (a) shall
 
 &emsp;(4) The number of officers who were commissioned as distinguished Reserve Officers’ Training Corps graduates and were released from active duty before the completion of their active-duty service obligation and, of those officers—
 
-&emsp;&emsp;(A) the number who are serving the remaining period of their active-duty service obligation as a member of the Selected Reserve pursuant to section 1112(a)(1) of ANGCRRA; and
+&emsp;&emsp;(A) the number who are serving the remaining period of their active-duty serviceobligation as a member of the Selected Reserve pursuant to section 1112(a)(1) of ANGCRRA; and
 
 &emsp;&emsp;(B) the number for whom waivers were granted by the Secretary under section 1112(a)(2) of ANGCRRA, together with the reason for each waiver.
 
@@ -68,7 +68,7 @@ Matters To Be Included in Report.—Each presentation under subsection (a) shall
 
 &emsp;&emsp;(C) the number of units inspected; and
 
-&emsp;&emsp;(D) the overall results of such inspections, including the inspector's determination for each inspected unit of whether the unit met deployability standards and, for those units not meeting deployability standards, the reasons for such failure and the status of corrective actions.
+&emsp;&emsp;(D) the overall results of such inspections, including the inspector's determination for each inspected unit of whether the unit met deployability standards and, for those units not meeting deployability standards, thereasons for such failure and the status of corrective actions.
 
 &emsp;(20) A listing, for each Army National Guard combat unit, of the active-duty combat unit associated with that Army National Guard unit in accordance with section 1131(a) of ANGCRRA, shown by State and to be accompanied, for each such National Guard unit, by—
 
@@ -92,7 +92,7 @@ Subsec. (d). Pub. L. 104–106 struck out subsec. (d) which read as follows: “
 
 Definition.—In this section, the term ‘State’ includes the District of Columbia, Puerto Rico, Guam, and the Virgin Islands.”
 
-1994—Pub. L. 103–337 renumbered section 3082 of this title as this section, struck out “reform” after “readiness” in section catchline, and struck out heading and text of subsec. (c). Text read as follows: “The requirement to include in a presentation required by subsection (a) information under any paragraph of subsection (b) shall take effect with respect to the yearfollowing the year in which the provision of ANGCRRA to which that paragraph pertains has taken effect. Before then, in the case of any such paragraph, the Secretary shall include any information that may be available concerning the topic covered by that paragraph.”
+1994—Pub. L. 103–337 renumbered section 3082 of this title as this section, struck out “reform” after “readiness” in section catchline, and struck out heading and text of subsec. (c). Text read as follows: “The requirement to include in a presentation required by subsection (a) information under any paragraph of subsection (b) shall take effect with respect to the year following the year in which the provision of ANGCRRA to which that paragraph pertains has taken effect. Before then, in the case of any such paragraph, the Secretary shall include any information that may be available concerning the topic covered by that paragraph.”
 
 #### Effective Date of 1996 Amendment
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Authority.—The President shall be entitled, by regulation, subpoena, or otherwise, to obtain such information from, require such reports and the keeping of such records by, makesuch inspection of the books, records, and other writings, premises or property of, and take the sworn testimony of, and administer oaths and affirmations to, any person as may be necessary or appropriate, in the President's discretion, to the enforcement or the administration of this chapter and the regulations issued under this chapter.
+Authority.—The President shall be entitled, by regulation, subpoena, or otherwise, to obtain such information from, require such reports and the keeping of such records by, make such inspection of the books, records, and other writings, premises or property of, and take the sworn testimony of, and administer oaths and affirmations to, any person as may be necessary or appropriate, in the President's discretion, to the enforcement or the administration of this chapter and the regulations issued under this chapter.
 
 (b)
 
@@ -14,7 +14,7 @@ Penalty for Noncompliance.—Any person who willfully performs any act prohibite
 
 (d)
 
-Limitations on Disclosure of Information.—Information obtained under section (a) which the President deems confidential or with reference to which a request for confidential treatment is made by the person furnishing such information shall not be published or disclosed unless the President determines that the withholding thereof is contrary to the interest of the national defense. Any person who willfully violates this subsection shall be fined under title 18 or imprisoned not more than one year, or both.
+Limitations on Disclosure of Information.—Information obtained under section (a) which the President deems confidential or with reference to which a request for confidential treatment is made by the person furnishing suchinformation shall not be published or disclosed unless the President determines that the withholding thereof is contrary to the interest of the national defense. Any person who willfully violates this subsection shall be fined under title 18 or imprisoned not more than one year, or both.
 
 (e)
 

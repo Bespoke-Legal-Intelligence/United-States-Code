@@ -1,9 +1,5 @@
 ### SUBCHAPTER V—ASBESTOS SCHOOL HAZARD ABATEMENT
 
-#### Cross References
-
-Detection and control of asbestos hazards in schools, see section 3601 et seq. of this title.
-
 #### Subchapter Referred to in Other Sections
 
 This subchapter is referred to in title 15 section 2646.

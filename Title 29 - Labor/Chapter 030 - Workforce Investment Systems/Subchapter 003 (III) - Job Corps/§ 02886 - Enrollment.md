@@ -18,3 +18,7 @@ No individual may be enrolled in the Job Corps for more than 2 years, except—
 
 The Military Selective Service Act, referred to in subsec. (a), is act June 24, 1948, ch. 625, 62 Stat. 604, as amended, which is classified principally to section 451 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see References in Text note set out under section 451 of Title 50, Appendix, and Tables.
 
+#### Prior Provisions
+
+Provisions similar to this section were contained in section 1696 of this title prior to repeal by Pub. L. 105–220.
+

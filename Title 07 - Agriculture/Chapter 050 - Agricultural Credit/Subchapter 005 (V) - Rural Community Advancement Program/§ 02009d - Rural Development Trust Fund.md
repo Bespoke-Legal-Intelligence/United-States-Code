@@ -38,7 +38,7 @@ The function categories described in this subsection are the following:
 
 &emsp;&emsp;(A) community facility direct and guaranteed loans under section 1926(a)(1) of this title; or
 
-&emsp;&emsp;(B) community facility grants under section 1926(a)(19) of this title.
+&emsp;&emsp;(B) community facility grants under paragraph (19), (20), or (21) of section 1926(a) of this title.
 
 #### (2) Rural utilities
 
@@ -126,9 +126,13 @@ The Secretary shall allocate the amounts in each account specified in subsection
 
 The Secretary shall make available to each State the total amount allocated for the State under subsection (g) of this section that remains after applying section 2009f of this title.
 
-(Pub. L. 87–128, title III, §381E, as added Pub. L. 104–127, title VII, §761, Apr. 4, 1996, 110 Stat. 1140; amended Pub. L. 105–86, title III, Nov. 18, 1997, 111 Stat. 2094.)
+(Pub. L. 87–128, title III, §381E, as added Pub. L. 104–127, title VII, §761, Apr. 4, 1996, 110 Stat. 1140; amended Pub. L. 105–86, title III, Nov. 18, 1997, 111 Stat. 2094; Pub. L. 106–472, title III, §§304(b), 305(b), Nov. 9, 2000, 114 Stat. 2071.)
 
 #### Amendments
+
+2000—Subsec. (d)(1)(B). Pub. L. 106–472, §305(b), substituted “paragraph (19), (20), or (21)” for “paragraph (19) or (20)”.
+
+Pub. L. 106–472, §304(b), substituted “paragraph (19) or (20) of section 1926(a)” for “section 1926(a)(19)”.
 
 1997—Subsec. (d)(3)(B). Pub. L. 105–86 inserted “direct and” after “business and industry”.
 

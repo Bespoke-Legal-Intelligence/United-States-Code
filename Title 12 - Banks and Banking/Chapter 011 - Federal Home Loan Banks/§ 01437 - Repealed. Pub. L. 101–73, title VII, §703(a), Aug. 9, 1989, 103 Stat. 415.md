@@ -98,7 +98,7 @@ Reimbursement.—The reimbursement required under paragraph (1) with respect to 
 
 &emsp;“(3)
 
-Agency services.—Any agency, department, or other instrumentality of the United States (includingany Federal home loan bank), and any successor to any such agency, department, or instrumentality, which was providing supporting services to the Federal Home Loan Bank Board or the Federal Savings and Loan Insurance Corporation before the enactment of this Act \[Aug. 9, 1989\] in connection with functions that are transferred to the Office of Thrift Supervision, the Resolution Trust Corporation, the Federal Deposit Insurance Corporation, or the Federal Housing Finance Board shall—
+Agency services.—Any agency, department, or other instrumentality of the United States (including any Federal home loan bank), and any successor to any such agency, department, or instrumentality, which was providing supporting services to the Federal Home Loan Bank Board or the Federal Savings and Loan Insurance Corporation before the enactment of this Act \[Aug. 9, 1989\] in connection with functions that are transferred to the Office of Thrift Supervision, the Resolution Trust Corporation, the Federal Deposit Insurance Corporation, or the Federal Housing Finance Board shall—
 
 &emsp;&emsp;“(A) continue to provide such services, on a reimbursable basis, until the transfer of such functions is complete; and
 
@@ -188,7 +188,7 @@ Transition rule.—Until the effective date of regulations prescribed under para
 
 &emsp;“(2)
 
-Limitation on extent of coverage.—During the period beginning on the date of the enactment of this Act and ending on the effective date of regulations prescribed under paragraph (3)(B), the amount of any insured account which is required to be treated as an insured deposit pursuant to paragraph (1)shall not exceed the amount of insurance to which such insured account would otherwise have been entitled pursuant to the regulations and interpretations of the Federal Savings and Loan Insurance Corporation which were in effect on the day before the date of the enactment of this Act.
+Limitation on extent of coverage.—During the period beginning on the date of the enactment of this Act and ending on the effective date of regulations prescribed under paragraph (3)(B), the amount of any insured account which is required to be treated as an insured deposit pursuant to paragraph (1) shall not exceed the amount of insurance to which such insured account would otherwise have been entitled pursuant to the regulations and interpretations of the Federal Savings and Loan Insurance Corporation which were in effect on the day before the date of the enactment of this Act.
 
 &emsp;“(3)
 
@@ -196,7 +196,7 @@ Uniform treatment of insured deposits.—The Federal Deposit Insurance Corporati
 
 &emsp;&emsp;“(A) review its regulations, principles, and interpretations for deposit insurance coverage and those established by the Federal Savings and Loan Insurance Corporation; and
 
-&emsp;&emsp;“(B) on or before the end of the 270-day period beginning on the date of the enactment of this Act, prescribe a uniform set of regulations which shall be applicable to all insured deposits in insured depository institutions (except to the extent any provision of this Act, any amendment made by this Act to the Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\], or any other provision of law requires or explicitly permits the Federal Deposit Insurance Corporation to treat insured deposits of Savings Association Insurance Fund members differently than insured deposits of Bank Insurance Fund members).
+&emsp;&emsp;“(B) on or before the end of the 270-day period beginning on the date of the enactment of this Act, prescribe a uniform set of regulations which shall be applicable to all insured deposits in insured depository institutions (except to the extent any provision of this Act, any amendment made by this Act to the Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\], or any other provision of law requiresor explicitly permits the Federal Deposit Insurance Corporation to treat insured deposits of Savings Association Insurance Fund members differently than insured deposits of Bank Insurance Fund members).
 
 &emsp;“(4)
 
@@ -280,7 +280,7 @@ Functions and Employees Transferred.—
 
 &emsp;“(1)
 
-In general.—The Director of the Office of Thrift Supervision, the Chairperson of the Oversight Board of the Resolution Trust Corporation, the Chairperson of the Federal Deposit Insurance Corporation, the Chairperson of the Federal Housing Finance Board, and the Chairman of the Federal Home Loan Bank Board (as of the day before the date of the enactment of this Act \[Aug. 9, 1989\]) shall jointly determine the functions or activities of the Federal Home Loan Bank Board and the Federal Savings and Loan Insurance Corporation, and the number of employees of such Board and Corporation necessary toperform or support such functions or activities, which are transferred from the Federal Home Loan Bank Board and the Federal Savings and Loan Insurance Corporation to the Office of Thrift Supervision, the Resolution Trust Corporation, the Federal Deposit Insurance Corporation, or the Federal Housing Finance Board, as the case may be.
+In general.—The Director of the Office of Thrift Supervision, the Chairperson of the Oversight Board of the Resolution Trust Corporation, the Chairperson of the Federal Deposit Insurance Corporation, the Chairperson of the Federal Housing Finance Board, and the Chairman of the Federal Home Loan Bank Board (as of the day before the date of the enactment of this Act \[Aug. 9, 1989\]) shall jointly determine the functions or activities of the Federal Home Loan Bank Board and the Federal Savings and Loan Insurance Corporation, and the number of employees of such Board and Corporation necessary to perform or support such functions or activities, which are transferred from the Federal Home Loan Bank Board and the Federal Savings and Loan Insurance Corporation to the Office of Thrift Supervision, the Resolution Trust Corporation, the Federal Deposit Insurance Corporation, or the Federal Housing Finance Board, as the case may be.
 
 &emsp;“(2)
 
@@ -330,7 +330,7 @@ FSLIC Employees Engaged in Conservatorship or Receivership Functions.—Individu
 
 #### “SEC. 406. REPORT.
 
-“Before the end of the 60-day period beginning on the date of the enactment of this Act \[Aug. 9, 1989\], the Chairman of the Federal Home Loan Bank Board shall provide by written report to the Secretary of the Treasury, the Director of the Office of Management and Budget, and the Congress, a final accounting of the finances and operations of the Federal Savings and Loan Insurance Corporation.”
+“Before the end of the 60-day period beginning on the date of the enactment of this Act \[Aug. 9, 1989\], the Chairman of the Federal Home Loan Bank Board shallprovide by written report to the Secretary of the Treasury, the Director of the Office of Management and Budget, and the Congress, a final accounting of the finances and operations of the Federal Savings and Loan Insurance Corporation.”
 
 #### Transferred Employees of Federal Home Loan Banks and Joint Offices
 
@@ -468,13 +468,7 @@ Effective Date.—The guidelines required to be promulgated under subsection (a)
 
 #### Guidelines for Asset Disposition
 
-Pub. L. 100–86, title IV, §411, Aug. 10, 1987, 101 Stat. 620, provided that: “Not later than 6 months after the date of the enactment of this Act \[Aug. 10, 1987\], the Federal Home Loan Bank Board shall submit to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report containing appropriate new guidelines which—
-
-&emsp;“(1) prevent the dumping of assets over which it has direct or indirect control; and
-
-&emsp;“(2) the Board shall promulgate at the end of such period.”
-
-\[Section 411 of Pub. L. 100–86 ceases to be effective on date that notice of completion of all net new borrowing by Financing Corporation is published in Federal Register \[Mar. 30, 1992, 57 F.R. 10763\], with such termination not to be construed to affect or limit any authority of Federal Home Loan Bank Board or Federal Savings and Loan Insurance Corporation to prescribe any regulation or engage in any activity with respect to any association or insured institution under any other provision of law, see section 416 of Pub. L. 100–86, set out as a Sunset and Savings Provision note under section 1441 of this title.\]
+Pub. L. 100–86, title IV, §411, Aug. 10, 1987, 101 Stat. 620, which directed Federal Home Loan Bank Board to submit, not later than 6 months after Aug. 10, 1987, to congressional committees a report containing appropriate new guidelines to prevent dumping of assets over which it had direct or indirect control and which the Board was to promulgate at end of such period, ceased to be effective on date that notice of completion of all net new borrowing by Financing Corporation is published in Federal Register (Mar. 30, 1992). See section 416 of Pub. L. 100–86, set out as a Sunset and Savings Provision note under section 1441 of this title.
 
 #### Expansion of Use of Underutilized Minority Thrift Institutions
 
@@ -502,11 +496,11 @@ Pub. L. 100–86, title IV, §415, Aug. 10, 1987, 101 Stat. 622, provided that:
 
 “(a)
 
-Banking Committee Review of Panel Actions.—The Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate shall monitor and review the actions taken by each review panel established pursuant to the amendment made by section 407(d) of this Act \[enacting section 1442a of this title\].
+Banking Committee Review of Panel Actions.—The Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee onBanking, Housing, and Urban Affairs of the Senate shall monitor and review the actions taken by each review panel established pursuant to the amendment made by section 407(d) of this Act \[enacting former section 1442a of this title\].
 
 “(b)
 
-Other Congressional Oversight.—The Federal Home Loan Bank Board shall submit a report to the Committee on Banking, Finance and Urban Affairs of the House of Representatives, at the end of the 6-month period beginning on the date of the enactment of this title \[Aug. 10, 1987\], at the end of the 1-year period beginning on such date, and on an annual basis after the end of such 1-year period, containing—
+Other Congressional Oversight.—The Federal Home Loan Bank Board shall submit a report to the Committee on Banking, Finance and Urban Affairs \[now Committee on Financial Services\] of the House of Representatives, at the end of the 6-month period beginning on the date of the enactment of this title \[Aug. 10, 1987\], at the end of the 1-year period beginning on such date, and on an annual basis after the end of such 1-year period, containing—
 
 &emsp;“(1) a description of the Board's existing manpower and talent;
 
@@ -520,7 +514,7 @@ Other Congressional Oversight.—The Federal Home Loan Bank Board shall submit a
 
 “(c)
 
-Appearance.—The Federal Home Loan Bank Board and the Federal Savings and Loan Insurance Corporation shall, before the beginning of each fiscal year, appear before the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate to describe and explain each such agency's plans and proposals with respect to administrative expenses for such fiscal year.
+Appearance.—The Federal Home Loan Bank Board and the Federal Savings and Loan Insurance Corporation shall, before the beginning of each fiscal year, appear before the Committee on Banking, Finance and Urban Affairs \[now Committee on Financial Services\] of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate to describe and explain each such agency's plans and proposals with respect to administrative expenses for such fiscal year.
 
 “(d)
 
@@ -556,7 +550,7 @@ Prior Reports to Congress on Changes To Direct Investment Regulations.—
 
 &emsp;“(1)
 
-In general.—Not less than 90 days before final approval is given by the Federal Home Loan Bank Board to any regulation which repeals or modifies (or has the effect of repealing or modifying) any regulation limiting direct investment activities, the Board shall submit to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report describing the proposed regulation and the reasons for the proposed regulation, including the effect of such regulation on the insurance fund.
+In general.—Not less than 90 days before final approval is given by the Federal Home Loan Bank Board to any regulation which repeals or modifies (or has the effect of repealing or modifying) any regulation limiting direct investment activities, the Board shall submit to the Committee on Banking, Finance and Urban Affairs \[now Committee on Financial Services\] of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report describing the proposed regulation and the reasons for the proposed regulation, including the effect of such regulation on the insurance fund.
 
 &emsp;“(2)
 

@@ -22,11 +22,11 @@ It shall be unlawful for any principal underwriter for a registered open-end com
 
 #### (c) Approval of contract to undertake service as investment adviser or principal underwriter by majority of noninterested directors
 
-In addition to the requirements of subsections (a) and (b) of this section, it shall be unlawful for any registered investment company having a board of directors to enter into, renew, or perform any contract or agreement, written or oral, whereby a person undertakes regularly to serve or act as investment adviser of or principal underwriter for such company, unless the terms of such contract or agreement and any renewal thereof have been approved by the vote of a majority of directors, who are not parties to such contract or agreement or interested persons of any such party, cast in person at a meeting called for the purpose of voting on such approval. It shall be the duty of the directors of a registered investment company to request and evaluate, and the duty of an investment adviser to such company to furnish, such information as may reasonably be necessary to evaluate the terms of any contract whereby a person undertakes regularly to serve or act as investment adviser of such company. It shall be unlawful for the directors of a registered investment company, in connection with their evaluation of the terms of any contract whereby a person undertakes regularly to serve or act as investment adviser of such company, to take into account the purchase price or other consideration any person may have paid in connection with a transaction of the type referred to in paragraph (1), (3), or (4) of subsection (f) of this section.
+In addition to the requirements of subsections (a) and (b) of this section, it shall be unlawful for any registered investment company having a board of directors to enter into, renew, or perform any contract or agreement, written or oral,whereby a person undertakes regularly to serve or act as investment adviser of or principal underwriter for such company, unless the terms of such contract or agreement and any renewal thereof have been approved by the vote of a majority of directors, who are not parties to such contract or agreement or interested persons of any such party, cast in person at a meeting called for the purpose of voting on such approval. It shall be the duty of the directors of a registered investment company to request and evaluate, and the duty of an investment adviser to such company to furnish, such information as may reasonably be necessary to evaluate the terms of any contract whereby a person undertakes regularly to serve or act as investment adviser of such company. It shall be unlawful for the directors of a registered investment company, in connection with their evaluation of the terms of any contract whereby a person undertakes regularly to serve or act as investment adviser of such company, to take into account the purchase price or other consideration any person may have paid in connection with a transaction of the type referred to in paragraph (1), (3), or (4) of subsection (f) of this section.
 
 #### (d) Equivalent of vote of majority of outstanding voting securities in case of common-law trust
 
-In the case of a common-law trust of the character described in section 80a–16(c) of this title,either written approval by holders of a majority of the outstanding shares of beneficial interest or the vote of a majority of such outstanding shares cast in person or by proxy at a meeting called for the purpose shall for the purposes of this section be deemed the equivalent of the vote of a majority of the outstanding voting securities, and the provisions of paragraph (42) of section 80a–2(a) of this title as to a majority shall be applicable to the vote cast at such a meeting.
+In the case of a common-law trust of the character described in section 80a–16(c) of this title, either written approval by holders of a majority of the outstanding shares of beneficial interest or the vote of a majority of such outstanding shares cast in person or by proxy at a meeting called for the purpose shall for the purposes of this section be deemed the equivalent of the vote of a majority of the outstanding voting securities, and the provisions of paragraph (42) of section 80a–2(a) of this title as to a majority shall be applicable to the vote cast at such a meeting.
 
 #### (e) Exemption of advisory boards or members from provisions of this section
 
@@ -87,10 +87,6 @@ Amendment by Pub. L. 94–29 effective June 4, 1975, see section 31(a) of Pub. L
 #### Effective Date of 1970 Amendment
 
 Amendment by Pub. L. 91–547 effective on expiration of one year after Dec. 14, 1970, see section 30(1) of Pub. L. 91–547, set out as a note under section 80a–52 of this title.
-
-#### Cross References
-
-Contracts of investment advisers generally, see section 80b–5 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -32,7 +32,7 @@ All entries made and patents issued under the provisions of this subchapter shal
 
 #### (3) Notice to surface owner
 
-&emsp;Any person who has filed a notice of intention to locate a mining claim under paragraph (2) for any lands subject to this subchapter shall provide written notice of such filing, byregistered or certified mail with return receipt, to the surface owner (as evidenced by local tax records) of the lands covered by the notice under paragraph (2). The notice shall be provided at least 30 days before entering such lands and shall contain each of the following:
+&emsp;Any person who has filed a notice of intention to locate a mining claim under paragraph (2) for any lands subject to this subchapter shall provide written notice of such filing, by registered or certified mail with return receipt, to the surface owner (as evidenced by local tax records) of the lands covered by the notice under paragraph (2). The notice shall be provided at least 30 days before entering such lands and shall contain each of the following:
 
 &emsp;&emsp;(A) A brief description of the proposed mineral activities.
 
@@ -80,7 +80,7 @@ The Secretary shall authorize a person to conduct mineral activities (other than
 
 &emsp;(i) The proposed plan of operations is complete and accurate.
 
-&emsp;(ii) The person submitting the proposed plan of operations has demonstrated that all other applicable Federal and State requirements have been met.
+&emsp;(ii) The person submitting the proposed plan of operations has demonstrated that all otherapplicable Federal and State requirements have been met.
 
 (B) The Secretary shall notify the person submitting a plan of operations of any modifications to such plan required to bring it into compliance with the requirements of this subchapter. If the person submitting the plan agrees to modify such plan in a manner acceptable to the Secretary, the Secretary shall approve the plan as modified. In the event no agreement can be reached on the modifications to the plan which, in the opinion of the Secretary, will bring such plan into compliance with the requirements of this subchapter, then the Secretary shall disapprove the plan and notify both the surface owner and the person submitting the plan of the decision.
 
@@ -138,7 +138,7 @@ The Secretary shall release the bond or other financial guarantee required under
 
 #### (n) Conveyance to surface owner
 
-The Secretary shall take such actions as may be necessary to simplify the procedures whichmust be complied with by surface owners of lands subject to this subchapter who apply to the Secretary to obtain title to interests in such lands owned by the United States.
+The Secretary shall take such actions as may be necessary to simplify the procedures which must be complied with by surface owners of lands subject to this subchapter who apply to the Secretary to obtain title to interests in such lands owned by the United States.
 
 #### (<i>o</i>) Definitions
 

@@ -2,7 +2,7 @@
 
 #### (a) Criminal penalties
 
-(1) Whoever willfully violates the provisions of this chapter, or any license rule, or regulationissued pursuant to this chapter, or willfully neglects or refuses to comply with any order of the President issued under this chapter shall be—
+(1) Whoever willfully violates the provisions of this chapter, or any license rule, or regulation issued pursuant to this chapter, or willfully neglects or refuses to comply with any order of the President issued under this chapter shall be—
 
 &emsp;(A) imprisoned for not more than 10 years,
 

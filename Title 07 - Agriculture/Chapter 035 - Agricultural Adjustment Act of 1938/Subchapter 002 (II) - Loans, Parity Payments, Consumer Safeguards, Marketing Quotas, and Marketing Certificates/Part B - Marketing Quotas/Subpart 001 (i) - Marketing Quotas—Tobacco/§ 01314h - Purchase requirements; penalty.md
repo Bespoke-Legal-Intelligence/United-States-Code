@@ -2,7 +2,7 @@
 
 #### (a) Statement of quantity purchased during marketing year
 
-(1) At the conclusion of each marketing year, on or before a date prescribed by the Secretary,each domestic manufacturer of cigarettes shall submit to the Secretary a statement, by kind, of the quantity of Flue-cured and Burley quota tobacco purchased, directly or indirectly, by such manufacturer during such marketing year.
+(1) At the conclusion of each marketing year, on or before a date prescribed by the Secretary, each domestic manufacturer of cigarettes shall submit to the Secretary a statement, by kind, of the quantity of Flue-cured and Burley quota tobacco purchased, directly or indirectly, by such manufacturer during such marketing year.
 
 (2) The statement shall include, but not be limited to, the quantity of each such kind of tobacco purchased by the manufacturer on the United States auction markets, from producers, and from the inventories of tobacco from the 1985 and subsequent crops of the producer-owned cooperative marketing associations that have entered into loan agreements with the Commodity Credit Corporation to make price support available to producers of Flue-cured or Burley tobacco.
 

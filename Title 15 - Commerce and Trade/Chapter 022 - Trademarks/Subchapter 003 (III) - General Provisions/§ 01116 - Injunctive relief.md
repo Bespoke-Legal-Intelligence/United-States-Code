@@ -10,7 +10,7 @@ The said courts shall have jurisdiction to enforce said injunction, as provided 
 
 #### (c) Notice to Director
 
-It shall be the duty of the clerks of such courts within one month after the filing of anyaction, suit, or proceeding involving a mark registered under the provisions of this chapter to give notice thereof in writing to the Director setting forth in order so far as known the names and addresses of the litigants and the designating number or numbers of the registration or registrations upon which the action, suit, or proceeding has been brought, and in the event any other registration be subsequently included in the action, suit, or proceeding by amendment, answer, or other pleading, the clerk shall give like notice thereof to the Director, and within one month after the judgment is entered or an appeal is taken the clerk of the court shall give notice thereof to the Director, and it shall be the duty of the Director on receipt of such notice forthwith to endorse the same upon the file wrapper of the said registration or registrations and to incorporate the same as a part of the contents of said file wrapper.
+It shall be the duty of the clerks of such courts within one month after the filing of any action, suit, or proceeding involving a mark registered under the provisions of this chapter to give notice thereof in writing to the Director setting forth in order so far as known the names and addresses of the litigants and the designating number or numbers of the registration or registrations upon which the action, suit, or proceeding has been brought, and in the event any other registration be subsequently included in the action, suit, or proceeding by amendment, answer, or other pleading, the clerk shall givelike notice thereof to the Director, and within one month after the judgment is entered or an appeal is taken the clerk of the court shall give notice thereof to the Director, and it shall be the duty of the Director on receipt of such notice forthwith to endorse the same upon the file wrapper of the said registration or registrations and to incorporate the same as a part of the contents of said file wrapper.
 
 #### (d) Civil actions arising out of use of counterfeit marks
 
@@ -66,7 +66,7 @@ It shall be the duty of the clerks of such courts within one month after the fil
 
 (6) The court shall take appropriate action to protect the person against whom an order under this subsection is directed from publicity, by or at the behest of the plaintiff, about such order and any seizure under such order.
 
-(7) Any materials seized under this subsection shall be taken into the custody of the court. The court shall enter an appropriate protective order with respect to discovery by the applicant of any records that have been seized. The protective order shall provide for appropriate procedures to assure that confidential informationcontained in such records is not improperly disclosed to the applicant.
+(7) Any materials seized under this subsection shall be taken into the custody of the court. The court shall enter an appropriate protective order with respect to discovery by the applicant of any records that have been seized. The protective order shall provide for appropriate procedures to assure that confidential information contained in such records is not improperly disclosed to the applicant.
 
 (8) An order under this subsection, together with the supporting documents, shall be sealed until the person against whom the order is directed has an opportunity to contest such order, except that any person against whom such order is issued shall have access to such order and supporting documents after the seizure has been carried out.
 
@@ -135,22 +135,6 @@ Repeal of inconsistent provisions, effect of this chapter on pending proceedings
 #### Transfer of Functions
 
 For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Federal Rules of Civil Procedure
-
-Injunctions, see rule 65, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-Judgment, costs, see rule 54.
-
-#### Federal Rules of Criminal Procedure
-
-Criminal contempt, see rule 42, Title 18, Appendix, Crimes and Criminal Procedure.
-
-#### Cross References
-
-Contempt proceedings, see sections 401, 402, 3285, and 3691 of Title 18, Crimes and Criminal Procedure.
-
-Innocent infringement by publishers, injunction not to issue in certain cases, see section 1114 of this title.
 
 #### Section Referred to in Other Sections
 

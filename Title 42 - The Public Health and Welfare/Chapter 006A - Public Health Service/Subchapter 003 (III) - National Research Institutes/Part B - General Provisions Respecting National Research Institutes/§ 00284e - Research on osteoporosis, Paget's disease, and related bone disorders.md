@@ -20,7 +20,7 @@ The Directors referred to in subsection (a) of this section shall jointly coordi
 
 #### (d) Authorization of appropriations
 
-For the purpose of carrying out this section, there are authorized to be appropriated $40,000,000 for fiscal year 1994, and such sums asmay be necessary for each of the fiscal years 1995 through 2003.
+For the purpose of carrying out this section, there are authorized to be appropriated $40,000,000 for fiscal year 1994, and such sums as may be necessary for each of the fiscal years 1995 through 2003.
 
 (July 1, 1944, ch. 373, title IV, §409A, as added Pub. L. 103–43, title III, §302, June 10, 1993, 107 Stat. 151; amended Pub. L. 105–340, title I, §102, Oct. 31, 1998, 112 Stat. 3192.)
 

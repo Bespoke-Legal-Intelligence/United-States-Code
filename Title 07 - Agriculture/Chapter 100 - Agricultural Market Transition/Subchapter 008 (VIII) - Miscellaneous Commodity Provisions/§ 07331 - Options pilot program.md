@@ -6,7 +6,7 @@ Until December 31, 2002, the Secretary of Agriculture may conduct a pilot progra
 
 #### (b) Distribution of pilot program
 
-For each agricultural commodity included in the pilot program, the Secretary may operate the pilot program in not more than 100 counties, except that not more than 6 of the counties may be located in any 1 State. The pilot program for a commodity shall not be operated in any county for more than 3 of the 1996 through 2002 calendar years.
+For each agricultural commodity included in the pilot program, the Secretary may operate the pilot program in not more than 300 counties, except that not more than 25 of the counties may be located in any 1 State. The pilot program for a commodity shall not be operated in any county for more than 3 of the 1996 through 2002 calendar years.
 
 #### (c) Eligible participants
 
@@ -14,7 +14,7 @@ In operating the pilot program, the Secretary may enter into contract with a pro
 
 &emsp;(1) is eligible for a production flexibility contract, a marketing assistance loan, or other assistance under this chapter;
 
-&emsp;(2) volunteers to participate in the pilot program;
+&emsp;(2) volunteers to participate in the pilot program during any calendar year in which a county in which the farm of the producer is located is included in the pilot program;
 
 &emsp;(3) operates a farm located in a county selected for the pilot program; and
 
@@ -42,9 +42,9 @@ A producer participating in the pilot program shall compile, maintain, and submi
 
 #### (h) Use of Commodity Credit Corporation
 
-The Secretary shall fund and operate the pilot program through the Commodity Credit Corporation. To the maximum extent practicable, the Secretary shall operate the pilot program in a budget neutral manner.
+The Secretary shall fund and operate the pilot program through the Commodity Credit Corporation, except that the amount of Commodity Credit Corporation funds used to carry out this section shall not exceed, to the maximum extent practicable, $9,000,000 for fiscal year 2001, $15,000,000 for fiscal year 2002, and $2,000,000 for fiscal year 2003. To the maximum extent practicable, the Secretary shall operate the pilot program in a budget neutral manner.
 
-(Pub. L. 104–127, title I, §191, Apr. 4, 1996, 110 Stat. 941.)
+(Pub. L. 104–127, title I, §191, Apr. 4, 1996, 110 Stat. 941; Pub. L. 106–224, title I, §134, June 20, 2000, 114 Stat. 388.)
 
 #### References in Text
 
@@ -55,4 +55,16 @@ The Commodity Exchange Act, referred to in subsec. (f), is act Sept. 21, 1922, c
 #### Codification
 
 Section is comprised of section 191 of Pub. L. 104–127. Subsec. (i) of section 191 of Pub. L. 104–127 repealed provisions set out as a note under section 1421 of this title.
+
+#### Amendments
+
+2000—Subsec. (b). Pub. L. 106–224, §134(1), substituted “300 counties, except that not more than 25” for “100 counties, except that not more than 6” in first sentence.
+
+Subsec. (c)(2). Pub. L. 106–224, §134(2), inserted before semicolon at end “during any calendar year in which a county in which the farm of the producer is located is included in the pilot program”.
+
+Subsec. (h). Pub. L. 106–224, §134(3), inserted before period at end of first sentence “, except that the amount of Commodity Credit Corporation funds used to carry out this section shall not exceed, to the maximum extent practicable, $9,000,000 for fiscal year 2001, $15,000,000 for fiscal year 2002, and $2,000,000 for fiscal year 2003”.
+
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–224 effective Oct. 1, 2000, see section 171(b)(1)(A) of Pub. L. 106–224, set out as a note under section 1501 of this title.
 

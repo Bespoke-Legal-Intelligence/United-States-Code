@@ -6,7 +6,7 @@ The Commission shall have authority from time to time to make, issue, amend, and
 
 #### (b) Rules and regulations effective upon publication
 
-Subject to the provisions of chapter 15 of title 44 and regulations prescribed under the authority thereof, the rules and regulations of the Commission under this subchapter shall be effective upon publication in the manner which the Commission shall prescribe, or upon such later date as may be provided in such rules and regulations.
+Subject to the provisions of chapter 15 of title 44 and regulations prescribed under the authority thereof, the rules and regulations of theCommission under this subchapter shall be effective upon publication in the manner which the Commission shall prescribe, or upon such later date as may be provided in such rules and regulations.
 
 #### (c) Exemption from liability for any acts taken in good faith in conformity with rules, etc.
 
@@ -21,40 +21,4 @@ No provision of this subchapter imposing any liability shall apply to any act do
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
-#### Cross References
-
-Rules and regulations—
-
-&emsp;&emsp;Contrary stipulations void, see section 77aaaa of this title.
-
-&emsp;&emsp;Information and documents to be included in registration statement, see section 77eee of this title.
-
-&emsp;&emsp;Integration of procedure with Securities Act and other acts, see section 77hhh of this title.
-
-&emsp;&emsp;Liability of trustee for noncompliance of indenture, see section 77iii of this title.
-
-&emsp;&emsp;Penalties for violation of, see section 77yyy of this title.
-
-&emsp;&emsp;Qualification, form, or interpretation of indenture unaffected by subsequent making, amendment, or rescission of rule or regulation, see section 77iii of this title.
-
-&emsp;&emsp;Qualification of indentures covering securities not required to be registered, see section 77ggg of this title.
-
-&emsp;&emsp;Reports by obligor, see section 77nnn of this title.
-
-&emsp;&emsp;Transactions involving issue or sale of securities by registered holding company to indenture trustee of company, see section 77kkk of this title.
-
-&emsp;&emsp;Unlawful representations, see section 77xxx of this title.
-
-Rules and regulations under—
-
-&emsp;&emsp;Investment Advisers Act of 1940, see section 80b–11 of this title.
-
-&emsp;&emsp;Investment Company Act of 1940, see section 80a–37 of this title.
-
-&emsp;&emsp;Public Utility Holding Company Act of 1935, see section 79t of this title.
-
-&emsp;&emsp;Securities Act of 1933, see section 77s of this title.
-
-&emsp;&emsp;Securities Exchange Act of 1934, see sections 78c and 78w of this title.
 

@@ -4,7 +4,7 @@
 
 #### (1) Authorization
 
-&emsp;There is authorized to be appropriated to carry out this subchapter (other than part E ofthis subchapter) such sums as may be necessary for fiscal years 2000, 2001, 2002, and 2003.
+&emsp;There is authorized to be appropriated to carry out this subchapter (other than part E of this subchapter) such sums as may be necessary for fiscal years 2000, 2001, 2002, and 2003.
 
 #### (2) Allocation
 
@@ -32,7 +32,7 @@ No funds appropriated to carry out this subchapter may be combined with funds ap
 
 #### Amendments
 
-1999—Pub. L. 106–71, §3(m), amended section catchline and text generally, substituting provisions relating to appropriations for fiscal years 2000 to 2003 for provisions relating to appropriations for fiscal years 1993 to 1996.
+1999—Pub. L. 106–71, §3(m), amended section catchline and text generally, substituting provisions relating toappropriations for fiscal years 2000 to 2003 for provisions relating to appropriations for fiscal years 1993 to 1996.
 
 Subsec. (a)(4). Pub. L. 106–71, §3(n)(2), added par. (4).
 

@@ -34,7 +34,7 @@ The Secretary of Commerce, acting through the Administrator of the National Ocea
 
 #### References in Text
 
-The Marine Protection, Research, and Sanctuaries Act of 1972, referred to in subsec. (d), is Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052, as amended. Title V of the Act, popularly known as the National Coastal Monitoring Act, is classified generally to chapter 41 (§2801 et seq.) of this title. For complete classification of title V to the Code, see Short Title note set out under section 2801 of this title and Tables.
+The Marine Protection, Research, and Sanctuaries Act of 1972, referred to in subsec. (d), is Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052, as amended. Title V of the Act, popularly known as the National Coastal Monitoring Act, is classified generally to chapter 41 (§2801 etseq.) of this title. For complete classification of title V to the Code, see Short Title note set out under section 2801 of this title and Tables.
 
 This Act, referred to in subsec. (d)(2), probably should be “this title” meaning title II of Pub. L. 100–220, Dec. 29, 1987, 101 Stat. 1460, as amended, known as the Marine Plastic Pollution Research and Control Act of 1987. For complete classification of title II to the Code, see Short Title of 1987 Amendment note set out under section 1901 of this title and Tables.
 

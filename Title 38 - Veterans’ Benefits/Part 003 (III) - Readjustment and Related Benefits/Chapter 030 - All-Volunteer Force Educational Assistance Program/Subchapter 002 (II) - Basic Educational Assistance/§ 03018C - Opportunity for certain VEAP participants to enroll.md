@@ -14,7 +14,7 @@
 
 > may elect to become entitled to basic educational assistance under this chapter.
 
-(b) With respect to an individual who makes an election under subsection (a) to become entitled to basic education assistance under this chapter—
+(b) With respect to an individual who makes an election under subsection (a) or (e) to become entitled to basic education assistance under this chapter—
 
 &emsp;(1) the basic pay of the individual shall be reduced (in a manner determined by the Secretary of Defense) until the total amount by which such basic pay is reduced is $1,200; or
 
@@ -32,9 +32,61 @@
 
 (d) The procedures provided in regulations referred to in subsection (a) shall provide for notice of the requirements of subparagraphs (B), (C), and (D) of section 3011(a)(3) and of subparagraph (A) of section 3012(a)(3) of this title. Receipt of such notice shall be acknowledged in writing.
 
-(Added Pub. L. 104–275, title I, §106(a), Oct. 9, 1996, 110 Stat. 3327; amended Pub. L. 105–114, titleIV, §401(c), Nov. 21, 1997, 111 Stat. 2293; Pub. L. 105–368, title II, §203(a), Nov. 11, 1998, 112 Stat. 3326.)
+(e)(1) A qualified individual (described in paragraph (2)) may make an irrevocable election under this subsection, during the one-year period beginning on the date of the enactment of this subsection, to become entitled to basic educational assistance under this chapter. Such an election shall be made in the same manner as elections made under subsection (a)(5).
+
+(2) A qualified individual referred to in paragraph (1) is an individual who meets each of the following requirements:
+
+&emsp;(A) The individual was a participant in the educational benefits program under chapter 32 of this title on or before October 9, 1996.
+
+&emsp;(B) The individual has continuously served on active duty since October 9, 1996 (excluding the periods referred to in section 3202(1)(C) of this title), through at least April,<sup>1</sup> 1, 2000.
+
+&emsp;(C) The individual meets the requirements of subsection (a)(3).
+
+&emsp;(D) The individual, when discharged or released from active duty, is discharged or released therefrom with an honorable discharge.
+
+(3)(A) Subject to the succeeding provisions of this paragraph, with respect to a qualified individual who makes an election under paragraph (1) to become entitled to basic education assistance under this chapter—
+
+&emsp;(i) the basic pay of the qualified individual shall be reduced (in a manner determined by the Secretary concerned) until the total amount by which such basic pay is reduced is $2,700; and
+
+&emsp;(ii) to the extent that basic pay is not so reduced before the qualified individual's discharge or release from active duty as specified in subsection (a)(4), at the election of the qualified individual—
+
+&emsp;&emsp;(I) the Secretary concerned shall collect from the qualified individual; or
+
+&emsp;&emsp;(II) the Secretary concerned shall reduce the retired or retainer pay of the qualified individual by,
+
+> &emsp;an amount equal to the difference between $2,700 and the total amount of reductions under clause (i), which shall be paid into the Treasury of the United States as miscellaneous receipts.
+
+(B)(i) The Secretary concerned shall provide for an 18-month period, beginning on the date the qualified individual makes an election under paragraph (1), for the qualified individual to pay that Secretary the amount due under subparagraph (A).
+
+(ii) Nothing in clause (i) shall be construed as modifying the period of eligibility for and entitlement to basic education assistance under this chapter applicable under section 3031 of this title.
+
+(C) The provisions of subsection (c) shall apply to qualified individuals making elections under this subsection in the same manner as they applied to individuals making elections under subsection (a)(5).
+
+(4) With respect to qualified individuals referred to in paragraph (3)(A)(ii), no amount of educational assistance allowance under this chapter shall be paid to the qualified individual until the earlier of the date on which—
+
+&emsp;(A) the Secretary concerned collects the applicable amount under subclause (I) of such paragraph; or
+
+&emsp;(B) the retired or retainer pay of the qualified individual is first reduced under subclause (II) of such paragraph.
+
+(5) The Secretary, in conjunction with the Secretary of Defense, shall provide for notice to participants in the educational benefits program under chapter 32 of this title of the opportunity under this subsection to elect to become entitled to basic educational assistance under this chapter.
+
+(Added Pub. L. 104–275, title I, §106(a), Oct. 9, 1996, 110 Stat. 3327; amended Pub. L. 105–114, title IV, §401(c), Nov. 21, 1997, 111 Stat. 2293; Pub. L. 105–368, title II, §203(a), Nov. 11, 1998, 112 Stat. 3326; Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1601\], Oct. 30, 2000, 114 Stat. 1654, 1654A–357; Pub. L. 106–419, title I, §104(a)–(c)(1), Nov. 1, 2000, 114 Stat. 1827, 1828.)
+
+#### References in Text
+
+The date of the enactment of this subsection, referred to in subsec. (e)(1), is the date of enactment of Pub. L. 106–419, which was approved Nov. 1, 2000.
 
 #### Amendments
+
+2000—Pub. L. 106–419, §104(c)(1), provided that as of the enactment of Pub. L. 106–419, the amendments made by Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1601\], were deemed for all purposes not to have taken effect and that Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1601\], ceased to be in effect. See Amendment notes below.
+
+Subsec. (b). Pub. L. 106–419, §104(b), substituted “subsection (a) or (e)” for “subsection (a)” in introductory provisions.
+
+Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1601(b)\], which substituted “subsection (a) or (e)” for “subsection (a)” in introductory provisions, was terminated by Pub. L. 106–419, §104(c)(1). See Amendment note above.
+
+Subsec. (e). Pub. L. 106–419, §104(a), added subsec. (e).
+
+Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1601(a)\], which added a subsec. (e) substantially identical to the subsec. (e) added by Pub. L. 106–419, §104(a), was terminated by Pub. L. 106–419, §104(c)(1). See Amendment notes above.
 
 1998—Subsec. (a)(3). Pub. L. 105–368 substituted “successfully completed (or otherwise received academic credit for)” for “successfully completed”.
 
@@ -51,4 +103,6 @@ Amendment by Pub. L. 105–368 effective Oct. 1, 1998, see section 203(b) of Pub
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 3013, 3015 of this title.
+
+<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(B) payment of an annuity to the employee or Member for life, with a survivor annuity payable for the life of a surviving spouse.
 
-(c) Each alternative provided for under subsection (b) shall, to the extent practicable, be designed such that the present value of the benefits provided under such alternative (including any lump-sum credit) is actuarially equivalent to the present value of the annuity which would otherwise be provided the employee or Member under this subchapter, as computed under subsections (a)–(i), (n), (q), and (r) of section 8339.
+(c) Each alternative provided for under subsection (b) shall, to the extent practicable, be designed such that the present value of the benefits provided under such alternative (including any lump-sum credit) is actuarially equivalent to the present value of the annuity which would otherwise be provided the employee or Member under this subchapter, as computed under subsections (a)–(i), (n), (q), (r), and (s) of section 8339.
 
 (d) An employee or Member who, at the time of retiring under this subchapter—
 
@@ -26,9 +26,11 @@
 
 (e) An employee or Member who is married at the time of retiring under this subchapter and who makes an election under this section may, during the 18-month period beginning on the date of retirement, make the election provided for under section 8339(<i>o</i>) of this title, subject to the deposit requirement thereunder.
 
-(Added Pub. L. 99–335, title II, §204(a), June 6, 1986, 100 Stat. 591; amended Pub. L. 101–428, §2(d)(5), Oct. 15, 1990, 104 Stat. 929; Pub. L. 101–508, title VII, §7001(a)(1), Nov. 5, 1990, 104 Stat. 1388–327; Pub. L. 103–66, title XI, §11002(a), Aug. 10, 1993, 107 Stat. 409; Pub. L. 105–61, title V, §516(a)(5), Oct. 10, 1997, 111 Stat. 1306.)
+(Added Pub. L. 99–335, title II, §204(a), June 6, 1986, 100 Stat. 591; amended Pub. L. 101–428, §2(d)(5), Oct. 15, 1990, 104 Stat. 929; Pub. L. 101–508, title VII, §7001(a)(1), Nov. 5, 1990, 104 Stat. 1388–327; Pub. L. 103–66, title XI, §11002(a), Aug. 10, 1993, 107 Stat. 409; Pub. L. 105–61, title V, §516(a)(5), Oct. 10, 1997, 111 Stat. 1306; Pub. L. 106–553, §1(a)(2) \[title III, §308(h)(5)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–89.)
 
 #### Amendments
+
+2000—Subsec. (c). Pub. L. 106–553 substituted “(a)–(i), (n), (q), (r), and (s)” for “(a)–(i), (n), (q), and (r)”.
 
 1997—Subsec. (c). Pub. L. 105–61, which directed the substitution of “(q), and (r) of section 8339” for “and (q) of section 8339 of this title” in section 8334a(c), was executed by making the substitution in subsec. (c) of this section to reflect the probable intent of Congress, because there is no section 8334a in this title.
 
@@ -39,6 +41,10 @@ Subsec. (f). Pub. L. 103–66, §11002(a)(2), struck out subsec. (f) which prohi
 1990—Subsec. (c). Pub. L. 101–428 substituted “(a)–(i), (n), and (q)” for “(a)–(i) and (n)”.
 
 Subsec. (f). Pub. L. 101–508 added subsec. (f).
+
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–553 effective on the first day of the first applicable pay period that begins on Dec. 21, 2000, and applicable only to an individual who is employed as a member of the Supreme Court Police after Dec. 21, 2000, see section 1(a)(2) \[title III, §308(i), (j)\] of Pub. L. 106–553, set out in a Supreme Court Police Retirement note under section 8331 of this title.
 
 #### Effective Date of 1997 Amendment
 

@@ -112,7 +112,3 @@ Section 5(c) of Pub. L. 88–276 provided that: “The amendments made by this s
 
 Section 512(d) of Pub. L. 99–145 provided that: “The Secretary of each military department shall prescribe the regulations required by section 4348(c), 6959(c), or 9348(c), as appropriate, of title 10, United States Code (as added by the amendments made by subsections (a), (b), and (c)) not later than the end of the 90-day period beginning on the date of the enactment of this Act \[Nov. 8, 1985\].”
 
-#### Cross References
-
-Effect upon enlisted status of acceptance of appointment as cadet, see section 516 of this title.
-

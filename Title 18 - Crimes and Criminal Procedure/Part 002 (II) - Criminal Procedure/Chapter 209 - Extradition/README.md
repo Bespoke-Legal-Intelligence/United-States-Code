@@ -27,18 +27,6 @@
 
 1990—Pub. L. 101–623, §11(b), Nov. 21, 1990, 104 Stat. 3356, added item 3196.
 
-#### Federal Rules of Criminal Procedure
-
-Applicable to removed proceedings, see rule 54, Appendix to this title.
-
-Inapplicable to extradition or rendition of fugitives, see rule 54.
-
-Removal proceedings, see rule 40.
-
-#### Cross References
-
-Removal of offenders against the United States, from district of arrest to district of commission of crime, see section 3042 of this title.
-
 
 ---
 

@@ -36,7 +36,7 @@
 
 (3) In carrying out any study under subsection (a)(3), the Board shall make such inquiries as may be necessary and, unless otherwise prohibited by law, shall have access to personnel records or information collected by the Office of Personnel Management and may require additional reports from other agencies as needed.
 
-(f)(1) At any time after the effective date of any rule or regulation issued by the Director of the Office of Personnel Management in carrying out functions under section 1103, the Board shall review any provision of such rule or regulation—
+(f)(1) At any time after the effective date of any rule or regulation issued by the Director ofthe Office of Personnel Management in carrying out functions under section 1103, the Board shall review any provision of such rule or regulation—
 
 &emsp;(A) on its own motion;
 
@@ -64,7 +64,7 @@
 
 (i) Except as provided in section 518 of title 28, relating to litigation before the Supreme Court, attorneys designated by the Chairman of the Board may appear for the Board, and represent the Board, in any civil action brought in connection with any function carried out by the Board pursuant to this title or as otherwise authorized by law.
 
-(j) The Chairman of the Board may appoint such personnel as may be necessary to perform the functions of the Board. Any appointmentmade under this subsection shall comply with the provisions of this title, except that such appointment shall not be subject to the approval or supervision of the Office of Personnel Management or the Executive Office of the President (other than approval required under section 3324 or subchapter VIII of chapter 33).
+(j) The Chairman of the Board may appoint such personnel as may be necessary to perform the functions of the Board. Any appointment made under this subsection shall comply with the provisions of this title, except that such appointment shall not be subject to the approval or supervision of the Office of Personnel Management or the Executive Office of the President (other than approval required under section 3324 or subchapter VIII of chapter 33).
 
 (k) The Board shall prepare and submit to the President, and, at the same time, to the appropriate committees of Congress, an annual budget of the expenses and other items relating to the Board which shall, as revised, be included as a separate item in the budget required to be transmitted to the Congress under section 1105 of title 31.
 

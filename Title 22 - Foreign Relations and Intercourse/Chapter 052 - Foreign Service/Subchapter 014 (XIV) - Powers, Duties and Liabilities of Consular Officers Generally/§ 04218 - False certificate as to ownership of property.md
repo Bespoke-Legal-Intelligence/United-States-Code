@@ -14,10 +14,6 @@ Section was not enacted as part of the Foreign Service Act of 1980 which compris
 
 Section was formerly classified to section 1200 of this title, and prior thereto to section 104 of this title.
 
-#### Cross References
-
-False certification of invoice, or other paper, by a consular officer, made punishable, see section 1019 of Title 18, Crimes and Criminal Procedure.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 4191 of this title.

@@ -10,16 +10,6 @@ It shall be unlawful for any person without just cause to hinder, delay, or obst
 
 (Aug. 22, 1940, ch. 686, title I, §48, 54 Stat. 846.)
 
-#### Cross References
-
-Liability of controlling persons under—
-
-&emsp;&emsp;Public Utility Holding Company Act of 1935, see section 79z–1 of this title.
-
-&emsp;&emsp;Securities Act of 1933, see section 77<i>o</i> of this title.
-
-&emsp;&emsp;Securities Exchange Act of 1934, see section 78t of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 80a–6, 80a–64 of this title.

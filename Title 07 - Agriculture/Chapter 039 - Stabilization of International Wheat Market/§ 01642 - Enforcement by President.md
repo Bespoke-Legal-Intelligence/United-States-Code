@@ -66,23 +66,3 @@ Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (sub
 
 Ex. Ord. No. 11108, May 22, 1963, 28 F.R. 5185, which delegated to Secretary of Agriculture authority of President under this chapter, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
 
-#### Federal Rules of Civil Procedure
-
-One form of action, see rule 2, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-#### Federal Rules of Criminal Procedure
-
-Proceedings to be in district and division in which offense committed, see rule 18, Title 18, Appendix, Crimes and Criminal Procedure.
-
-#### Cross References
-
-Fines, penalties and forfeitures, see section 2461 et seq. of Title 28, Judiciary and Judicial Procedure.
-
-Jurisdiction of district courts of actions for recovery of fine, penalty or forfeiture, see section 1355 of Title 28.
-
-United States as party generally, see section 2401 et seq. of Title 28.
-
-United States as plaintiff, jurisdiction of district courts, see section 1345 of Title 28.
-
-Words denoting number, gender, etc., see section 1 of Title 1, General Provisions.
-

@@ -28,18 +28,6 @@ Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4507(4), 4508\], Nov. 29
 
 1972—Pub. L. 92–310, title II, §208(b), June 6, 1972, 86 Stat. 203, struck out item 5 “Bond of Commissioner and other officers”.
 
-#### Cross References
-
-Access to facilities for study, research and illustration in the Patent and Trademark Office, see section 91 of Title 20, Education.
-
-Audit of accounts, see section 3523 of Title 31, Money and Finance.
-
-Constitutional provisions, see Const. Art. 1, §8, cl. 8.
-
-Department of Commerce, jurisdiction and supervision of the Patent and Trademark Office, see section 1511 of Title 15, Commerce and Trade.
-
-Records, books, etc., of Patent and Trademark Office, admissibility of copies as evidence, see section 1744 of Title 28, Judiciary and Judicial Procedure.
-
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 
 

@@ -6,13 +6,13 @@ For the purposes of this chapter—
 
 &emsp;(2) The term “Assistant Secretary” means the Assistant Secretary for Aging.
 
-&emsp;(3) The term “State” means any of the several States, the District of Columbia, the Virgin Islands of the United States, the Commonwealth of Puerto Rico, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and the Trust Territory of the Pacific Islands.
+&emsp;(3) The term “State” means any of the several States, the District of Columbia, the Virgin Islands of the United States, the Commonwealth of Puerto Rico, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
 &emsp;(4) The term “nonprofit” as applied to any agency, institution, or organization means an agency, institution, or organization which is, or is owned and operated by, one or more corporations or associations no part of the net earnings of which inures, or may lawfully inure, to the benefit of any private shareholder or individual.
 
 &emsp;(5) The term “Indian” means a person who is a member of an Indian tribe.
 
-&emsp;(6) Except for the purposes of subchapter X of this chapter, the term “Indian tribe” means any tribe, band, nation, or other organized group or community of Indians (including any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act (Public Law 92–203; 85 Stat. 688) \[43 U.S.C. 1601 et seq.\]) which (A) is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians; or (B) is located on, or in proximity to, a Federal or State reservation or rancheria.
+&emsp;(6) Except for the purposes of subchapter X of this chapter, the term “Indian tribe” means any tribe, band, nation, or other organized group or community of Indians (including any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims SettlementAct (Public Law 92–203; 85 Stat. 688) \[43 U.S.C. 1601 et seq.\]) which (A) is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians; or (B) is located on, or in proximity to, a Federal or State reservation or rancheria.
 
 &emsp;(7) Except for the purposes of subchapter X of this chapter, the term “tribal organization” means the recognized governing body of any Indian tribe, or any legally established organization of Indians which is controlled, sanctioned, or chartered by such governing body. In any case in which a contract is let or grant made to an organization to perform services benefiting more than one Indian tribe, the approval of each such Indian tribe shall be a prerequisite to the letting or making of such contract or grant.
 
@@ -28,7 +28,39 @@ For the purposes of this chapter—
 
 &emsp;(11) The term “information and referral” includes information relating to assistive technology.
 
-&emsp;(12) The term “Trust Territory of the Pacific Islands” includes the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau.
+&emsp;(12) The term “disease prevention and health promotion services” means—
+
+&emsp;&emsp;(A) health risk assessments;
+
+&emsp;&emsp;(B) routine health screening, which may include hypertension, glaucoma, cholesterol, cancer, vision, hearing, diabetes, bone density, and nutrition screening;
+
+&emsp;&emsp;(C) nutritional counseling and educational services for individuals and their primary caregivers;
+
+&emsp;&emsp;(D) health promotion programs, including but not limited to programs relating to prevention and reduction of effects of chronic disabling conditions (including osteoporosis and cardiovascular disease), alcohol and substance abuse reduction, smoking cessation, weight loss and control, and stress management;
+
+&emsp;&emsp;(E) programs regarding physical fitness, group exercise, and music therapy, art therapy, and dance-movement therapy, including programs for multigenerational participation that are provided by—
+
+&emsp;&emsp;&emsp;(i) an institution of higher education;
+
+&emsp;&emsp;&emsp;(ii) a local educational agency, as defined in section 8801 of title 20; or
+
+&emsp;&emsp;&emsp;(iii) a community-based organization;
+
+&emsp;&emsp;(F) home injury control services, including screening of high-risk home environments and provision of educational programs on injury prevention (including fall and fracture prevention) in the home environment;
+
+&emsp;&emsp;(G) screening for the prevention of depression, coordination of community mental health services, provision of educational activities, and referral to psychiatric and psychological services;
+
+&emsp;&emsp;(H) educational programs on the availability, benefits, and appropriate use of preventive health services covered under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.);
+
+&emsp;&emsp;(I) medication management screening and education to prevent incorrect medication and adverse drug reactions;
+
+&emsp;&emsp;(J) information concerning diagnosis, prevention, treatment, and rehabilitation concerning age-related diseases and chronic disabling conditions, including osteoporosis, cardiovascular diseases, diabetes, and Alzheimer's disease and related disorders with neurological and organic brain dysfunction;
+
+&emsp;&emsp;(K) gerontological counseling; and
+
+&emsp;&emsp;(L) counseling regarding social services and followup health services based on any of the services described in subparagraphs (A) through (K).
+
+> &emsp;The term shall not include services for which payment may be made under titles XVIII and XIX of the Social Security Act (42 U.S.C. 1395 et seq., 1396 et seq.).
 
 &emsp;(13) The term “abuse” means the willful—
 
@@ -60,15 +92,35 @@ For the purposes of this chapter—
 
 &emsp;(17) The term “area agency on aging” means an area agency on aging designated under section 3025(a)(2)(A) of this title or a State agency performing the functions of an area agency on aging under section 3025(b)(5) of this title.
 
-&emsp;(18) The term “art therapy” means the use of art and artistic processes specifically selected and administered by an art therapist, to accomplish the restoration, maintenance, or improvement of the mental, emotional, or social functioning of an older individual.
+&emsp;(18) The term “board and care facility” means an institution regulated by a State pursuant to section 1382e(e) of this title.
 
-&emsp;(19) The term “board and care facility” means an institution regulated by a State pursuant to section 1382e(e) of this title.
+&emsp;(19) The term “in-home services” includes—
 
-&emsp;(20) The term “caregiver” means an individual who has the responsibility for the care of an older individual, either voluntarily, by contract, by receipt of payment for care, or as a result of the operation of law.
+&emsp;&emsp;(A) services of homemakers and home health aides;
 
-&emsp;(21) The term “caretaker” means a family member or other individual who provides (on behalf of such individual or of a public or private agency, organization, or institution) uncompensated care to an older individual who needs supportive services.
+&emsp;&emsp;(B) visiting and telephone reassurance;
 
-&emsp;(22) The term “case management service”—
+&emsp;&emsp;(C) chore maintenance;
+
+&emsp;&emsp;(D) in-home respite care for families, and adult day care as a respite service for families;
+
+&emsp;&emsp;(E) minor modification of homes that is necessary to facilitate the ability of older individuals to remain at home and that is not available under another program (other than a program carried out under this chapter);
+
+&emsp;&emsp;(F) personal care services; and
+
+&emsp;&emsp;(G) other in-home services as defined—
+
+&emsp;&emsp;&emsp;(i) by the State agency in the State plan submitted in accordance with section 3027 of this title; and
+
+&emsp;&emsp;&emsp;(ii) by the area agency on aging in the area plan submitted in accordance with section 3026 of this title.
+
+&emsp;(20) The term “Native American” means—
+
+&emsp;&emsp;(A) an Indian as defined in paragraph (5); and
+
+&emsp;&emsp;(B) a Native Hawaiian, as defined in section 3057k of this title.
+
+&emsp;(21) The term “case management service”—
 
 &emsp;&emsp;(A) means a service provided to an older individual, at the direction of the older individual or a family member of the individual—
 
@@ -96,17 +148,15 @@ For the purposes of this chapter—
 
 &emsp;&emsp;&emsp;(v) in accordance with the wishes of the older individual, advocacy on behalf of the older individual for needed services or resources.
 
-&emsp;(23) The term “dance-movement therapy” means the use of psychotherapeutic movement as a process facilitated by a dance-movement therapist, to further the emotional, cognitive, or physical health of an older individual.
+&emsp;(22) The term “elder abuse” means abuse of an older individual.
 
-&emsp;(24) The term “elder abuse” means abuse of an older individual.
+&emsp;(23) The term “elder abuse, neglect, and exploitation” means abuse, neglect, and exploitation, of an older individual.
 
-&emsp;(25) The term “elder abuse, neglect, and exploitation” means abuse, neglect, and exploitation, of an older individual.
+&emsp;(24) The term “exploitation” means the illegal or improper act or process of an individual, including a caregiver, using the resources of an older individual for monetary or personal benefit, profit, or gain.
 
-&emsp;(26) The term “exploitation” means the illegal or improper act or process of an individual, including a caregiver, using the resources of an older individual for monetary or personal benefit, profit, or gain.
+&emsp;(25) The term “focal point” means a facility established to encourage the maximum collocation and coordination of services for older individuals.
 
-&emsp;(27) The term “focal point” means a facility established to encourage the maximum collocation and coordination of services for older individuals.
-
-&emsp;(28) The term “frail” means, with respect to an older individual in a State, that the older individual is determined to be functionally impaired because the individual—
+&emsp;(26) The term “frail” means, with respect to an older individual in a State, that the older individual is determined to be functionally impaired because the individual—
 
 &emsp;&emsp;(A)(i) is unable to perform at least two activities of daily living without substantial human assistance, including verbal reminding, physical cueing, or supervision; or
 
@@ -114,9 +164,9 @@ For the purposes of this chapter—
 
 &emsp;&emsp;(B) due to a cognitive or other mental impairment, requires substantial supervision because the individual behaves in a manner that poses a serious health or safety hazard to the individual or to another individual.
 
-&emsp;(29) The term “greatest economic need” means the need resulting from an income level at or below the poverty line.
+&emsp;(27) The term “greatest economic need” means the need resulting from an income level at or below the poverty line.
 
-&emsp;(30) The term “greatest social need” means the need caused by noneconomic factors, which include—
+&emsp;(28) The term “greatest social need” means the need caused by noneconomic factors, which include—
 
 &emsp;&emsp;(A) physical and mental disabilities;
 
@@ -128,7 +178,7 @@ For the purposes of this chapter—
 
 &emsp;&emsp;&emsp;(ii) threatens the capacity of the individual to live independently.
 
-&emsp;(31) The term “information and assistance service” means a service for older individuals that—
+&emsp;(29) The term “information and assistance service” means a service for older individuals that—
 
 &emsp;&emsp;(A) provides the individuals with current information on opportunities and services available to the individuals within their communities, including information relating to assistive technology;
 
@@ -144,9 +194,9 @@ For the purposes of this chapter—
 
 &emsp;&emsp;&emsp;(ii) older individuals with greatest economic need.
 
-&emsp;(32) The term “institution of higher education” has the meaning given the term in section 1001 of title 20.
+&emsp;(30) The term “institution of higher education” has the meaning given the term in section 1001 of title 20.
 
-&emsp;(33) The term “legal assistance”—
+&emsp;(31) The term “legal assistance”—
 
 &emsp;&emsp;(A) means legal advice and representation provided by an attorney to older individuals with economic or social needs; and
 
@@ -156,47 +206,91 @@ For the purposes of this chapter—
 
 &emsp;&emsp;&emsp;(ii) counseling or representation by a nonlawyer where permitted by law.
 
-&emsp;(34) The term “long-term care facility” means—
+&emsp;(32) The term “long-term care facility” means—
 
 &emsp;&emsp;(A) any skilled nursing facility, as defined in section 1395i–3(a) of this title;
 
 &emsp;&emsp;(B) any nursing facility, as defined in section 1396r(a) of this title;
 
-&emsp;&emsp;(C) for purposes of sections 3027(a)(12) and 3058g of this title, a board and care facility; and
+&emsp;&emsp;(C) for purposes of sections 3027(a)(9) and 3058g of this title, a board and care facility; and
 
 &emsp;&emsp;(D) any other adult care home similar to a facility or institution described in subparagraphs (A) through (C).
 
-&emsp;(35) The term “multipurpose senior center” means a community facility for the organization and provision of a broad spectrum of services, which shall include provision of health (including mental health), social, nutritional, and educational services and the provision of facilities for recreational activities for older individuals.
+&emsp;(33) The term “multipurpose senior center” means a community facility for the organization and provision of a broad spectrum of services, which shall include provision of health (including mental health), social, nutritional, and educational services and the provision of facilities for recreational activities for older individuals.
 
-&emsp;(36) The term “music therapy” means the use of musical or rhythmic interventions specifically selected by a music therapist to accomplish the restoration, maintenance, or improvement of social or emotional functioning, mental processing, or physical health of an older individual.
-
-&emsp;(37) The term “neglect” means—
+&emsp;(34) The term “neglect” means—
 
 &emsp;&emsp;(A) the failure to provide for oneself the goods or services that are necessary to avoid physical harm, mental anguish, or mental illness; or
 
 &emsp;&emsp;(B) the failure of a caregiver to provide the goods or services.
 
-&emsp;(38) The term “older individual” means an individual who is 60 years of age or older.
+&emsp;(35) The term “older individual” means an individual who is 60 years of age or older.
 
-&emsp;(39) The term “physical harm” means bodily injury, impairment, or disease.
+&emsp;(36) The term “physical harm” means bodily injury, impairment, or disease.
 
-&emsp;(40) The term “planning and service area” means an area designated by a State agency under section 3025(a)(1)(E) of this title, including a single planning and service area described in section 3025(b)(5)(A) of this title.
+&emsp;(37) The term “planning and service area” means an area designated by a State agency under section 3025(a)(1)(E) of this title, including a single planning and service area described in section 3025(b)(5)(A) of this title.
 
-&emsp;(41) The term “poverty line” means the official poverty line (as defined by the Office of Management and Budget, and adjusted by the Secretary in accordance with section 9902(2) of this title.
+&emsp;(38) The term “poverty line” means the official poverty line (as defined by the Office of Management and Budget, and adjusted by the Secretary in accordance with section 9902(2) of this title.
 
-&emsp;(42) The term “representative payee” means a person who is appointed by a governmental entity to receive, on behalf of an older individual who is unable to manage funds by reason of a physical or mental incapacity, any funds owed to such individual by such entity.
+&emsp;(39) The term “representative payee” means a person who is appointed by a governmental entity to receive, on behalf of an older individual who is unable to manage funds by reason of a physical or mental incapacity, any funds owed to such individual by such entity.
 
-&emsp;(43) The term “State agency” means the agency designated under section 3025(a)(1) of this title.
+&emsp;(40) The term “State agency” means the agency designated under section 3025(a)(1) of this title.
 
-&emsp;(44) The term “supportive service” means a service described in section 3030d(a) of this title.
+&emsp;(41) The term “supportive service” means a service described in section 3030d(a) of this title.
 
-(Pub. L. 89–73, title I, §102, July 14, 1965, 79 Stat. 219; Pub. L. 90–42, §5(a), July 1, 1967, 81 Stat. 107; Pub. L. 91–69, §10(a), Sept. 17, 1969, 83 Stat. 114; Pub. L. 94–135, title I, §§104(b), 114(a), Nov. 28, 1975, 89 Stat. 714, 725; Pub. L. 95–478, title V, §503(a), Oct. 18, 1978, 92 Stat. 1559; Pub. L. 97–115, §2(a)(2), (3), Dec. 29, 1981, 95 Stat. 1595; Pub. L. 100–175, title I, §§136(a)(1), 146(a), 182(a), (b)(1), Nov. 29, 1987, 101 Stat. 942, 950, 964; Pub. L. 100–628, title VII, §705(1), Nov. 7, 1988, 102 Stat. 3247; Pub. L. 102–375, title I, §102(a), (b)(1)(A), title IX, §904(a)(2), Sept. 30, 1992, 106 Stat. 1197, 1200, 1306; Pub. L. 103–171, §§2(1), 3(a)(1), Dec. 2, 1993, 107 Stat. 1988, 1989; Pub. L. 105–244, title I, §102(a)(13)(C), Oct. 7, 1998, 112 Stat. 1620.)
+&emsp;(42) The term “family violence” has the same meaning given the term in the Family Violence Prevention and Services Act (42 U.S.C. 10408) of this title.
+
+&emsp;(43) The term “sexual assault” has the meaning given the term in section 3796gg–2 of this title.
+
+(Pub. L. 89–73, title I, §102, July 14, 1965, 79 Stat. 219; Pub. L. 90–42, §5(a), July 1, 1967, 81 Stat. 107; Pub. L. 91–69, §10(a), Sept. 17, 1969, 83 Stat. 114; Pub. L. 94–135, title I, §§104(b), 114(a), Nov. 28, 1975, 89 Stat. 714, 725; Pub. L. 95–478, title V, §503(a), Oct. 18, 1978, 92 Stat. 1559; Pub. L. 97–115, §2(a)(2), (3), Dec. 29, 1981, 95 Stat. 1595; Pub. L. 100–175, title I, §§136(a)(1), 146(a), 182(a), (b)(1), Nov. 29, 1987, 101 Stat. 942, 950, 964; Pub. L. 100–628, title VII, §705(1), Nov. 7, 1988, 102 Stat. 3247; Pub. L. 102–375, title I, §102(a), (b)(1)(A), title IX, §904(a)(2), Sept. 30, 1992, 106 Stat. 1197, 1200, 1306; Pub. L. 103–171, §§2(1), 3(a)(1), Dec. 2, 1993, 107 Stat. 1988, 1989; Pub. L. 105–244, title I, §102(a)(13)(C), Oct. 7, 1998, 112 Stat. 1620; Pub. L. 106–501, title I, §101, title VIII, §801(a), Nov. 13, 2000, 114 Stat. 2227, 2291.)
 
 #### References in Text
 
 The Alaska Native Claims Settlement Act, referred to in par. (6), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act of the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
+The Social Security Act, referred to in par. (12), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+
+The Family Violence Prevention and Services Act, referred to in par. (42), is title III of Pub. L. 98–457, Oct. 9, 1984, 98 Stat. 1757, as amended, which is classified generally to chapter 110 (§10401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 10401 of this title and Tables.
+
 #### Amendments
+
+2000—Par. (3). Pub. L. 106–501, §101(1), substituted “and the Commonwealth of the Northern Mariana Islands” for “the Commonwealth of the Northern Mariana Islands, and the Trust Territory of the Pacific Islands”.
+
+Par. (12). Pub. L. 106–501, §101(2), added par. (12) and struck out former par. (12) which read as follows: “The term ‘Trust Territory of the Pacific Islands’ includes the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau.”
+
+Par. (18). Pub. L. 106–501, §101(3), redesignated par. (19) as (18) and struck out former par. (18) which read as follows: “The term ‘art therapy’ means the use of art and artistic processes specifically selected and administered by an art therapist, to accomplish the restoration, maintenance, or improvement of the mental, emotional, or social functioning of an older individual.”
+
+Par. (19). Pub. L. 106–501, §101(4), added par. (19) and struck out former par. (19) which read as follows: “The term ‘caregiver’ means an individual who has the responsibility for the care of an older individual, either voluntarily, by contract, by receipt of payment for care, or as a result of the operation of law.”
+
+Pub. L. 106–501, §101(3), redesignated par. (20) as (19). Former par. (19) redesignated (18).
+
+Par. (20). Pub. L. 106–501, §101(4), added par. (20) and struck out former par. (20) which read as follows: “The term ‘caretaker’ means a family member or other individual who provides (on behalf of such individual or of a public or private agency, organization, or institution) uncompensated care to an older individual who needs supportive services.”
+
+Pub. L. 106–501, §101(3), redesignated par. (21) as (20). Former par. (20) redesignated (19).
+
+Par. (21). Pub. L. 106–501, §101(3), redesignated par. (22) as (21). Former par. (21) redesignated (20).
+
+Par. (22). Pub. L. 106–501, §101(5), redesignated par. (24) as (22). Former par. (22) redesignated (21).
+
+Par. (23). Pub. L. 106–501, §101(5), redesignated par. (25) as (23) and struck out former par. (23) which read as follows: “The term ‘dance-movement therapy’ means the use of psychotherapeutic movement as a process facilitated by a dance-movement therapist, to further the emotional, cognitive, or physical health of an older individual.”
+
+Pars. (24) to (31). Pub. L. 106–501, §101(5), redesignated pars. (26) to (33) as (24) to (31), respectively. Former pars. (24) and (25) redesignated (22) and (23), respectively.
+
+Par. (32). Pub. L. 106–501, §101(5), redesignated par. (34) as (32). Former par. (32) redesignated (30).
+
+Par. (32)(C). Pub. L. 106–501, §801(a), which directed that par. (34)(C) be amended by substituting “3027(a)(9)” for “3027(a)(12)”, was executed by making the substitution in par. (32)(C), to reflect the probable intent of Congress and the redesignation of par. (34) as (32) by Pub. L. 106–501, §101(5). See above.
+
+Par. (33). Pub. L. 106–501, §101(5), redesignated par. (35) as (33). Former par. (33) redesignated (31).
+
+Pars. (34), (35). Pub. L. 106–501, §101(6), redesignated pars. (37) and (38) as (34) and (35), respectively. Former pars. (34) and (35) redesignated (32) and (33), respectively.
+
+Par. (36). Pub. L. 106–501, §101(6), redesignated par. (39) as (36) and struck out former par.(36) which read as follows: “The term ‘music therapy’ means the use of musical or rhythmic interventions specifically selected by a music therapist to accomplish the restoration, maintenance, or improvement of social or emotional functioning, mental processing, or physical health of an older individual.”
+
+Pars. (37) to (41). Pub. L. 106–501, §101(6), redesignated pars. (40) to (44) as (37) to (41), respectively. Former pars. (37) to (39) redesignated (34) to (36), respectively.
+
+Pars. (42), (43). Pub. L. 106–501, §101(7), added pars. (42) and (43). Former pars. (42) and (43) redesignated (39) and (40), respectively.
+
+Par. (44). Pub. L. 106–501, §101(6), redesignated par. (44) as (41).
 
 1998—Par. (32). Pub. L. 105–244 substituted “section 1001” for “section 1141(a)”.
 
@@ -262,11 +356,7 @@ Amendment by Pub. L. 100–175 effective Oct. 1, 1987, except not applicable wit
 
 Amendment by Pub. L. 95–478 effective at close of Sept. 30, 1978, see section 504 of Pub. L. 95–478, set out as a note under section 3001 of this title.
 
-#### Termination of Trust Territory of the Pacific Islands
-
-For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in section 6862 of this title.
+This section is referred to in sections 3030s–1, 3796hh, 6862, 14041 of this title.
 

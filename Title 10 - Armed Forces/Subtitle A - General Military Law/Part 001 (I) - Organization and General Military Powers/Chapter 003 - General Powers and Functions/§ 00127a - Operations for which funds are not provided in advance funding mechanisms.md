@@ -28,7 +28,7 @@ Waiver of Requirement To Reimburse Support Units.—(1) The Secretary of Defense
 
 (c)
 
-Transfer Authority.—(1) Whenever there is an operation of the Department of Defense described in subsection (a), the Secretary of Defense may transfer amounts described in paragraph (3) to accounts from which incremental expenses for that operation were incurred in order to reimburse those accounts for those incremental expenses. Amounts so transferred shall be merged with and be available for the same purposes as the accounts to which transferred.
+Transfer Authority.—(1) Whenever there is an operation of the Department of Defense described in subsection (a), the Secretary of Defense may transfer amounts described in paragraph (3) to accounts from which incremental expenses for that operation were incurred in order to reimburse those accounts for those incremental expenses. Amounts so transferredshall be merged with and be available for the same purposes as the accounts to which transferred.
 
 (2) The total amount that the Secretary of Defense may transfer under the authority of this section in any fiscal year is $200,000,000.
 
@@ -90,7 +90,7 @@ The War Powers Resolution, referred to in subsec. (h), is Pub. L. 93–148, Nov.
 
 #### Amendments
 
-1996—Pub. L. 104–106 substituted “Operations for which funds are not provided in advance: funding mechanisms” for “Expenses for contingency operations” as section catchline and amended text generally. Prior to amendment, text consisted of subsecs. (a) to (h) relating to funding procedures for operations designated by the Secretary of Defense as National Contingency Operations.
+1996—Pub. L. 104–106 substituted “Operations for which funds are not provided in advance: funding mechanisms” for “Expenses for contingency operations” as section catchline and amended text generally. Prior to amendment, text consisted of subsecs. (a) to (h) relating to funding procedures for operations designated bythe Secretary of Defense as National Contingency Operations.
 
 #### Effective Date of 1996 Amendment
 

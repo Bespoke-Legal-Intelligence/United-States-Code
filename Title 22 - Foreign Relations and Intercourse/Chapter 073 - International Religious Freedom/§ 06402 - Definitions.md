@@ -28,7 +28,7 @@ In this chapter:
 
 #### (6) Country Reports on Human Rights Practices
 
-&emsp;The term “Country Reports on Human Rights Practices” means the annual reportsrequired to be submitted by the Department of State to Congress under sections 2151n(d) and 2304(b) of this title.
+&emsp;The term “Country Reports on Human Rights Practices” means the annual reports required to be submitted by the Department of State to Congress under sections 2151n(d) and 2304(b) of this title.
 
 #### (7) Executive Summary
 
@@ -85,6 +85,10 @@ In this chapter:
 #### References in Text
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 105–292, Oct. 27, 1998, 112 Stat. 2787, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6401 of this title and Tables.
+
+#### Change of Name
+
+Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Section Referred to in Other Sections
 

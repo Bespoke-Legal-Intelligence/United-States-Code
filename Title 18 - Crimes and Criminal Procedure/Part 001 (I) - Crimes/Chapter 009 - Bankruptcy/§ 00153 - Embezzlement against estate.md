@@ -6,13 +6,13 @@ Offense.—A person described in subsection (b) who knowingly and fraudulently a
 
 (b)
 
-Person to Whom Section Applies.—A person described in this subsection is one who has access to property or documents belonging to an estate by virtue of the person's participation in the administration of the estate as a trustee,custodian, marshal, attorney, or other officer of the court or as an agent, employee, or other person engaged by such an officer to perform a service with respect to the estate.
+Person to Whom Section Applies.—A person described in this subsection is one who has access to property or documents belonging to an estate by virtue of the person's participation in the administration of the estate as a trustee, custodian, marshal, attorney, or other officer of the court or as an agent, employee, or other person engaged by such an officer to perform a service with respect to the estate.
 
 (June 25, 1948, ch. 645, 62 Stat. 690; Pub. L. 95–598, title III, §314(a)(1), (d)(1), (2), Nov. 6, 1978, 92 Stat. 2676, 2677; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 103–394, title III, §312(a)(1)(A), Oct. 22, 1994, 108 Stat. 4139; Pub. L. 104–294, title VI, §601(a)(1), Oct. 11, 1996, 110 Stat. 3497.)
 
 #### Historical and Revision Notes
 
-Based on section 52(a) of title 11, U.S.C., 1940 ed., Bankruptcy (July 1, 1898, ch. 541, §29a, 30 Stat. 554; May 27, 1926, ch. 406, §11 (part), 44 Stat. 665; June 22, 1938, ch. 575, §1 (part), 52 Stat. 855).
+Based on section 52(a) of title 11, U.S.C., 1940 ed., Bankruptcy (July 1, 1898, ch. 541, §29a, 30 Stat. 554; May27, 1926, ch. 406, §11 (part), 44 Stat. 665; June 22, 1938, ch. 575, §1 (part), 52 Stat. 855).
 
 Minor changes were made in phraseology.
 
@@ -37,10 +37,4 @@ Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub.
 #### Savings Provision
 
 Amendment by section 314 of Pub. L. 95–598 not to affect the application of chapter 9 (§151 et seq.), chapter 96 (§1961 et seq.), or section 2516, 3057, or 3284 of this title to any act of any person (1) committed before Oct. 1, 1979, or (2) committed after Oct. 1, 1979, in connection with a case commenced before such date, see section 403(d) of Pub. L. 95–598, set out as a note preceding section 101 of Title 11, Bankruptcy.
-
-#### Cross References
-
-Certain debts of bankrupt as not affected by a discharge, see section 727 of Title 11, Bankruptcy.
-
-Embezzlement by court officers, generally, see section 645 of this title.
 

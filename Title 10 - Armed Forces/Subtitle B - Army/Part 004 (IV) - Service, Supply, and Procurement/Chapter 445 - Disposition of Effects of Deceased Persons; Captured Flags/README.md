@@ -17,10 +17,6 @@
 
 1980—Pub. L. 96–513, title V, §512(21)(C), Dec. 12, 1980, 94 Stat. 2930, inserted “and Airmen's” after “Soldiers’ ” in item 4713.
 
-#### Cross References
-
-General military law provisions respecting death benefits, see section 1475 et seq. of this title.
-
 
 ---
 

@@ -1,0 +1,22 @@
+### §254c–12. Definitions
+
+For purposes of sections 254c–9 to 254c–13 of this title:
+
+#### (1) Official poverty line
+
+&emsp;The term “official poverty line” means the poverty line established by the Director of the Office of Management and Budget and revised by the Secretary in accordance with section 9902(2) of this title.
+
+#### (2) Secretary
+
+&emsp;The term “Secretary” means the Secretary of Health and Human Services.
+
+(Pub. L. 106–505, title V, §524, Nov. 13, 2000, 114 Stat. 2344.)
+
+#### Codification
+
+Section was enacted as part of the Lupus Research and Care Amendments of 2000, and also as part of the Public Health Improvement Act, and not as part of the Public Health Service Act which comprises this chapter.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 254c–9, 254c–11, 254c–13 of this title.
+

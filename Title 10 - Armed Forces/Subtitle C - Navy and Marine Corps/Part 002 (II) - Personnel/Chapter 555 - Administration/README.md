@@ -21,10 +21,13 @@
 | [6031\.](%C2%A7%2006031%20-%20Chaplains%20divine%20services.md) | Chaplains: divine services. |
 | [6032\.](%C2%A7%2006032%20-%20Indebtedness%20to%20Marine%20Corps%20Exchanges%20payment%20from%20appropriated%20funds%20in%20certain%20cases.md) | Indebtedness to Marine Corps Exchanges: payment from appropriated funds in certain cases. |
 | \[6033, 6034. Repealed.\] |  |
+| [6035\.](%C2%A7%2006035%20-%20Female%20members%20congressional%20review%20period%20for%20assignment%20to%20duty%20on%20submarines%20or%20for%20reconfiguration%20of%20submarines.md) | Female members: congressional review period for assignment to duty on submarines or for reconfiguration of submarines. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2000—Pub. L. 106–398, §1 \[\[div. A\], title V, §573(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–136, added item 6035.
 
 1994—Pub. L. 103–337, div. A, title XVI, §1673(b)(3), Oct. 5, 1994, 108 Stat. 3016, struck out items 6017 “Retired list for Reserve members entitled to retired pay” and 6034 “Regulations for retired pay based on service in the Reserve”.
 
@@ -75,3 +78,4 @@
 - [&sect; 06032 - Indebtedness to Marine Corps Exchanges payment from appropriated funds in certain cases](%C2%A7%2006032%20-%20Indebtedness%20to%20Marine%20Corps%20Exchanges%20payment%20from%20appropriated%20funds%20in%20certain%20cases.md)
 - [&sect; 06033 - Repealed Pub. L. 90&#8211;235, &sect;7(a)(3), Jan. 2, 1968, 81 Stat. 763](%C2%A7%2006033%20-%20Repealed%20Pub.%20L.%2090%E2%80%93235%2C%20%C2%A77%28a%29%283%29%2C%20Jan.%202%2C%201968%2C%2081%20Stat.%20763.md)
 - [&sect; 06034 - Repealed. Pub. L. 103&#8211;337, div. A, title XVI, &sect;1662(j)(8), Oct. 5, 1994, 108 Stat. 3005](%C2%A7%2006034%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93337%2C%20div.%20A%2C%20title%20XVI%2C%20%C2%A71662%28j%29%288%29%2C%20Oct.%205%2C%201994%2C%20108%20Stat.%203005.md)
+- [&sect; 06035 - Female members congressional review period for assignment to duty on submarines or for reconfiguration of submarines](%C2%A7%2006035%20-%20Female%20members%20congressional%20review%20period%20for%20assignment%20to%20duty%20on%20submarines%20or%20for%20reconfiguration%20of%20submarines.md)

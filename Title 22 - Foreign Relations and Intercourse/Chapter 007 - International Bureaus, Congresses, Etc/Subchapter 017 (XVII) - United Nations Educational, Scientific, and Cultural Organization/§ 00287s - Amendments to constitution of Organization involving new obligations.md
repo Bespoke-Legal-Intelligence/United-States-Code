@@ -6,5 +6,5 @@ Unless Congress by law authorizes such action, neither the President nor any per
 
 #### References in Text
 
-Article XIII of the constitution of the Organization, referred to in text, is article XIII of the constitution of the United Nations Educational, Scientific, and Cultural Organization, which is set out as a note under section 287m of this title.
+Article XIII of the constitution of the Organization, referred to in text, is article XIII of the constitution ofthe United Nations Educational, Scientific, and Cultural Organization, which is set out as a note under section 287m of this title.
 

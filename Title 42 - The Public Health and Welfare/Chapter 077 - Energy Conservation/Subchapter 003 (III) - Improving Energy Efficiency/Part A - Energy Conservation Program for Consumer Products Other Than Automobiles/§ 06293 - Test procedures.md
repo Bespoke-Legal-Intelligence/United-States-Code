@@ -6,7 +6,7 @@ All test procedures and related determinations prescribed or made by the Secreta
 
 #### (b) Amended and new procedures
 
-(1)(A) The Secretary may amend test procedures with respect to any covered product if theSecretary determines that amended test procedures would more accurately or fully comply with the requirements of paragraph (3).
+(1)(A) The Secretary may amend test procedures with respect to any covered product if the Secretary determines that amended test procedures would more accurately or fully comply with the requirements of paragraph (3).
 
 (B) The Secretary may, in accordance with the requirements of this subsection, prescribe test procedures for any consumer product classified as a covered product under section 6292(b) of this title.
 

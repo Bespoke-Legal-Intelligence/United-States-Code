@@ -10,7 +10,7 @@ The Department of Defense shall reimburse the Commission for amounts expended by
 
 #### (c) Designation of funds of Department of Defense or any other department or agency of United States to carry out purposes of this subsection
 
-Notwithstanding any other provision of law, funds appropriated (for any fiscal year beginningafter September 30, 1979) to or for the use of the Department of Defense, or to any other department or agency of the United States as may be designated by the President to carry out the purposes of this subsection, shall be available for—
+Notwithstanding any other provision of law, funds appropriated (for any fiscal year beginning after September 30, 1979) to or for the use of the Department of Defense, or to any other department or agency of the United States as may be designated by the President to carry out thepurposes of this subsection, shall be available for—
 
 &emsp;(1) conducting the educational and health care activities, including kindergartens and college, carried out by the Canal Zone Government and the Panama Canal Company before October 1, 1979, and
 
@@ -72,7 +72,7 @@ Subsec. (e). Pub. L. 104–201 inserted concluding provisions “Notwithstanding
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–261, div. C, title XXXV, §3507(a), Oct. 17, 1998, 112 Stat. 2269, provided that the amendment made by section 3507(a) striking out subsec. (e) of this section is effective 11:59 p.m. (Eastern Standard Time), Dec. 30, 1999, and any right or condition of employment provided for in, or arising from, subsec. (e) of this section is terminated.
+Pub. L. 105–261, div. C, title XXXV, §3507(a), Oct. 17, 1998, 112 Stat. 2269, provided that the amendment madeby section 3507(a) striking out subsec. (e) of this section is effective 11:59 p.m. (Eastern Standard Time), Dec. 30, 1999, and any right or condition of employment provided for in, or arising from, subsec. (e) of this section is terminated.
 
 #### Effective Date of 1988 Amendment
 

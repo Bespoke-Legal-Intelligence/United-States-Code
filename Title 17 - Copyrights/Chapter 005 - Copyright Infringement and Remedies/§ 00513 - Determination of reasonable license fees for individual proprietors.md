@@ -8,11 +8,11 @@ In the case of any performing rights society subject to a consent decree which p
 
 &emsp;(3) Such proceeding shall be held before the judge of the court with jurisdiction over the consent decree governing the performing rights society. At the discretion of the court, the proceeding shall be held before a special master or magistrate judge appointed by such judge. Should that consent decree provide for the appointment of an advisor or advisors to the court for any purpose, any such advisor shall be the special master so named by the court.
 
-&emsp;(4) In any such proceeding, the industry rate shall be presumed to have been reasonable at the time it was agreed to or determined by the court. Such presumption shall in no way affect a determination of whether the rate is being correctly applied to the individual proprietor.
+&emsp;(4) In any such proceeding, the industry rate shall be presumed to have been reasonable atthe time it was agreed to or determined by the court. Such presumption shall in no way affect a determination of whether the rate is being correctly applied to the individual proprietor.
 
 &emsp;(5) Pending the completion of such proceeding, the individual proprietor shall have the right to perform publicly the copyrighted musical compositions in the repertoire of the performing rights society by paying an interim license rate or fee into an interest bearing escrow account with the clerk of the court, subject to retroactive adjustment when a final rate or fee has been determined, in an amount equal to the industry rate, or, in the absence of an industry rate, the amount of the most recent license rate or fee agreed to by the parties.
 
-&emsp;(6) Any decision rendered in such proceeding by a special master or magistrate judge named under paragraph (3) shall be reviewed by thejudge of the court with jurisdiction over the consent decree governing the performing rights society. Such proceeding, including such review, shall be concluded within 6 months after its commencement.
+&emsp;(6) Any decision rendered in such proceeding by a special master or magistrate judge named under paragraph (3) shall be reviewed by the judge of the court with jurisdiction over the consent decree governing the performing rights society. Such proceeding, including such review, shall be concluded within 6 months after its commencement.
 
 &emsp;(7) Any such final determination shall be binding only as to the individual proprietor commencing the proceeding, and shall not be applicable to any other proprietor or any other performing rights society, and the performing rights society shall be relieved of any obligation of nondiscrimination among similarly situated music users that may be imposed by the consent decree governing its operations.
 

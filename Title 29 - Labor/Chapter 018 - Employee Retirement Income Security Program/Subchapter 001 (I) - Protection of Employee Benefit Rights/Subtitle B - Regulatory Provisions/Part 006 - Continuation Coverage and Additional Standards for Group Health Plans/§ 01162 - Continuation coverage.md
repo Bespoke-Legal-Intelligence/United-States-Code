@@ -4,7 +4,7 @@ For purposes of section 1161 of this title, the term “continuation coverage”
 
 #### (1) Type of benefit coverage
 
-&emsp;The coverage must consist of coverage which, as of the time the coverage is beingprovided, is identical to the coverage provided under the plan to similarly situated beneficiaries under the plan with respect to whom a qualifying event has not occurred. If coverage is modified under the plan for any group of similarly situated beneficiaries, such coverage shall also be modified in the same manner for all individuals who are qualified beneficiaries under the plan pursuant to this part in connection with such group.
+&emsp;The coverage must consist of coverage which, as of the time the coverage is being provided, is identical to the coverage provided under the plan to similarly situated beneficiaries under the plan with respect to whom a qualifying event has not occurred. If coverage is modified under the plan for any group of similarly situated beneficiaries, such coverage shall also be modified in the same manner for all individuals who are qualified beneficiaries under the plan pursuant to this part in connection with such group.
 
 #### (2) Period of coverage
 

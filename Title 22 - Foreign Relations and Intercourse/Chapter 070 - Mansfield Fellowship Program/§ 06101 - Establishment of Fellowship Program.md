@@ -24,7 +24,7 @@ The Center is authorized to accept, use, and dispose of gifts or donations of se
 
 #### (e) Use of Federal facilities
 
-The National Foreign Affairs Training Center is authorized and encouraged to assist, on a reimbursable basis, in carrying out Japaneselanguage training by the Center through the provision of teachers, classroom space, teaching materials, and facilities, to the extent that such provision is not detrimental to the Institute's carrying out its other responsibilities under law.
+The National Foreign Affairs Training Center is authorized and encouraged to assist, on a reimbursable basis, in carrying out Japanese language training by the Center through the provision of teachers, classroom space, teaching materials, and facilities, to the extent that such provision is not detrimental to the Institute's carrying out its other responsibilities under law.
 
 (Pub. L. 103–236, title II, §252, Apr. 30, 1994, 108 Stat. 428.)
 

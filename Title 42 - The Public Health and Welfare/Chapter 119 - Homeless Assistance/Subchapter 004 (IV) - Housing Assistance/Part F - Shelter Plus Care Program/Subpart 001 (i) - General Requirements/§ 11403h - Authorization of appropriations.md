@@ -30,7 +30,7 @@ Subsecs. (b) to (d). Pub. L. 102–550, §1406(a)(2), (3), redesignated subsec. 
 
 #### Transitional Provisions; Availability of Appropriations
 
-Section 837(c) of Pub. L. 101–625, as amended by Pub. L. 102–27, title II, Apr. 10, 1991, 105 Stat. 151, provided that: “Amounts appropriated for use under subtitle D of title IV of the Stewart B. McKinney Homeless Assistance Act \[part D of this subchapter\], as it existed immediately before the date of enactment \[Nov. 28, 1990\] made by this section, that are or become available for obligation shall be available for use under subtitle F of title IV of the McKinney Act \[this part\], as amended by this section. Any such amounts that shall not have been obligated by March 20, 1991, shall be made available in accordance with the terms of the appropriation under the head ‘Supplemental Assistance for Facilities to Assist the Homeless’ in Public Law 101–507 (104 Stat. 1351, 1364).”
+Section 837(c) of Pub. L. 101–625, as amended by Pub. L. 102–27, title II, Apr. 10, 1991, 105 Stat. 151, provided that amounts appropriated for use under part D of this subchapter as it existed before Nov. 28, 1990, were to be available for use under this part.
 
 #### Section Referred to in Other Sections
 

@@ -20,5 +20,5 @@ Committee on Education and Labor of House of Representatives treated as referrin
 
 Committee on Human Resources of Senate changed to Committee on Labor and Human Resources of Senate, effective Mar. 7, 1979, by Senate Resolution No. 30, 96th Congress. See, also, Rule XXV of Standing Rules of Senate adopted Nov. 14, 1979.
 
-Committee on Labor and Public Welfare of Senate abolished and replaced by Committee on Human Resources of Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of Senate, as amended by Senate Resolution No. 4 (popularly cited as the “Committee System Reorganization Amendments of 1977”), approved Feb. 4, 1977.
+Committee on Labor and Public Welfare of Senate abolished and replaced by Committee on Human Resources of Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of Senate, as amended by SenateResolution No. 4 (popularly cited as the “Committee System Reorganization Amendments of 1977”), approved Feb. 4, 1977.
 

@@ -4,7 +4,3 @@ Every Indian woman, member of any such tribe of Indians, who may be married afte
 
 (Aug. 9, 1888, ch. 818, §2, 25 Stat. 392.)
 
-#### Cross References
-
-Indians born within territorial limits of United States declared citizens but grant of citizenship does not affect right to tribal property, see section 1401 of Title 8, Aliens and Nationality.
-

@@ -10,7 +10,7 @@ Section 14, acts Feb. 23, 1917, ch. 114, §4, 39 Stat. 931; June 25, 1959, Pub. 
 
 #### Short Title
 
-Section 2 of act June 8, 1936, ch. 541, 49 Stat. 1488, as amended by act Aug. 1, 1946, ch. 725, title I, §101, 60 Stat. 775, provided that the act of Feb. 23, 1917, ch. 114, 39 Stat. 929 (enacting sections 11 to 15 and 16 to 28 of this title), was to be known as the Smith-Hughes Vocational Education Act. The 1917 act was also known as the Vocational Education Act of 1917.
+Section 2 of act June 8, 1936, ch. 541, 49 Stat. 1488, as amended by act Aug. 1, 1946, ch. 725, title I, §101, 60Stat. 775, provided that the act of Feb. 23, 1917, ch. 114, 39 Stat. 929 (enacting sections 11 to 15 and 16 to 28 of this title), was to be known as the Smith-Hughes Vocational Education Act. The 1917 act was also known as the Vocational Education Act of 1917.
 
 The act of June 8, 1936, ch. 541, 49 Stat. 1488 (enacting sections 15i to 15ggg of this title), which was repealed by Pub. L. 90–576, title I, §103, Oct. 16, 1968, 82 Stat. 1091, was known as the Vocational Education Act of 1946.
 

@@ -10,7 +10,7 @@ The Congress finds and declares that—
 
 &emsp;(4) in order to fulfill the policies and purposes of the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\] and as a matter of equity, it is necessary for the Congress to invoke its constitutional authority over Native affairs and its constitutional authority under the property clause and the commerce clause to protect and provide the opportunity for continued subsistence uses on the public lands by Native and non-Native rural residents; and
 
-&emsp;(5) the national interest in the proper regulation, protection, and conservation of fishand wildlife on the public lands in Alaska and the continuation of the opportunity for a subsistence way of life by residents of rural Alaska require that an administrative structure be established for the purpose of enabling rural residents who have personal knowledge of local conditions and requirements to have a meaningful role in the management of fish and wildlife and of subsistence uses on the public lands in Alaska.
+&emsp;(5) the national interest in the proper regulation, protection, and conservation of fish and wildlife on the public lands in Alaska and the continuation of the opportunity for a subsistence way of life by residents of rural Alaska require that an administrative structure be established for the purpose of enabling rural residents who have personal knowledge of local conditions and requirements to have a meaningful role in the management of fish and wildlife and of subsistence uses on the public lands in Alaska.
 
 (Pub. L. 96–487, title VIII, §801, Dec. 2, 1980, 94 Stat. 2422; Pub. L. 105–83, title III, §316(b)(3), (d), Nov. 14, 1997, 111 Stat. 1592, 1595.)
 

@@ -18,10 +18,6 @@ Reference in section 208 of title 13, U.S.C., 1952 ed., to the offense, herein d
 
 Changes were made in phraseology.
 
-#### Cross References
-
-Collection and publication of foreign commerce and trade statistics, applicability of section to, see section 307 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 307 of this title.

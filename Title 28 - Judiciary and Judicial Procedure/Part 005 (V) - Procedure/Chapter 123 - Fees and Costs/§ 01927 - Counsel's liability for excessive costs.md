@@ -16,11 +16,7 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1980—Pub. L. 96–349 substituted judicial authorization to require attorneys to satisfy excess costs, expenses, and attorneys’ fees reasonably incurred because of multiplication of proceedings for such prior authority to impose liability for increased costs based on multiplication of proceedings.
-
-#### Federal Rules of Civil Procedure
-
-Costs, see rules 11 and 54, Appendix to this title.
+<b>1980</b>—Pub. L. 96–349 substituted judicial authorization to require attorneys to satisfy excess costs, expenses, and attorneys’ fees reasonably incurred because of multiplication of proceedings for such prior authority to impose liability for increased costs based on multiplication of proceedings.
 
 #### Section Referred to in Other Sections
 

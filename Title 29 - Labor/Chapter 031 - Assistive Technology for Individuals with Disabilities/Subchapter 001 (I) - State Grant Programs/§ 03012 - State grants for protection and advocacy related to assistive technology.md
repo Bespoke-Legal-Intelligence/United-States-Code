@@ -4,11 +4,11 @@
 
 #### (1) In general
 
-&emsp;On the appropriation of funds under section 3015 of this title, the Secretary shall make a grant to an entity in each State to support protection and advocacy services through the systems established to provide protection and advocacy services under the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6000 et seq.) for the purposes of assisting in the acquisition, utilization, or maintenance of assistive technology or assistive technology services for individuals with disabilities.
+&emsp;On the appropriation of funds under section 3015 of this title, the Secretary shall make a grant to an entity in each State to support protection and advocacy services through the systems established to provide protection and advocacy services under the Developmental Disabilities Assistance and Bill of Rights Act of 2000 \[42 U.S.C. 15001 et seq.\] for the purposes of assisting in the acquisition, utilization, or maintenance of assistive technology or assistive technology services for individuals with disabilities.
 
 #### (2) Certain States
 
-&emsp;Notwithstanding paragraph (1), for a State that, on the day before November 13, 1998, was described in section 102(f)(1) of the Technology-Related Assistance for Individuals With Disabilities Act of 1988, the Secretary shall make the grant to the lead agency designated under section 3011(d) of this title. The lead agency shall determine how the funds made available under this section shall be divided among the entities that were providing protection and advocacy services in that State on that day, and distribute the funds to the entities. In distributing the funds, the lead agency shall not establish any further eligibility or procedural requirements for an entity in that State that supports protection and advocacy services through the systems established to provide protection and advocacy services under the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6000 et seq.). Such an entity shall comply with the same requirements (including reporting and enforcement requirements) as any other entity that receives funding under paragraph (1).
+&emsp;Notwithstanding paragraph (1), for a State that, on the day before November 13, 1998, was described in section 102(f)(1) of the Technology-Related Assistance for Individuals With Disabilities Act of 1988, the Secretary shall make the grant to the lead agency designated under section 3011(d) of this title. The lead agency shall determine how the funds made available under this section shall be divided among the entities that were providing protection and advocacy services in that State on that day, and distribute the funds to the entities. In distributing the funds, the lead agency shall not establish any further eligibility or procedural requirements for an entity in that State that supports protection and advocacy services through the systems established to provide protection and advocacy services under the Developmental Disabilities Assistance and Bill of Rights Act of 2000 \[42 U.S.C. 15001 et seq.\]. Such an entity shall comply with the same requirements (including reporting and enforcement requirements) as any other entity that receives funding under paragraph (1).
 
 #### (3) Periods
 
@@ -54,19 +54,23 @@ An entity that receives a grant under this section shall annually prepare and su
 
 #### (d) Reports and updates to State agencies
 
-An entity that receives a grant under this section shall prepare and submit to the lead agencythe report described in subsection (c) of this section and quarterly updates concerning the activities described in subsection (c) of this section.
+An entity that receives a grant under this section shall prepare and submit to the lead agency the report described in subsection (c) of this section and quarterly updates concerning the activities described in subsection (c) of this section.
 
 #### (e) Coordination
 
 On making a grant under this section to an entity in a State, the Secretary shall solicit and consider the opinions of the lead agency of the State designated under section 3011(d) of this title with respect to efforts at coordination, collaboration, and promoting outcomes between the lead agency and the entity that receives the grant under this section.
 
-(Pub. L. 105–394, title I, §102, Nov. 13, 1998, 112 Stat. 3644.)
+(Pub. L. 105–394, title I, §102, Nov. 13, 1998, 112 Stat. 3644; Pub. L. 106–402, title IV, §401(b)(4)(B), Oct. 30, 2000, 114 Stat. 1738.)
 
 #### References in Text
 
-The Developmental Disabilities Assistance and Bill of Rights Act, referred to in subsec. (a)(1), (2), is title I of Pub. L. 88–164, as added by Pub. L. 98–527, §2, Oct. 19, 1984, 98 Stat. 2662, and amended, which is classified generally to chapter 75 (§6000 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6000 of Title 42 and Tables.
+The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsec. (a)(1), (2), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677, which is classified principally to chapter 144 (§15001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of Title 42 and Tables.
 
 Section 102(f)(1) of the Technology-Related Assistance for Individuals With Disabilities Act of 1988, referred to in subsec. (a)(2), was classified to section 2212(f)(1) of this title prior to repeal by Pub. L. 105–394, title IV, §401, Nov. 13, 1998, 112 Stat. 3661. In this chapter, references to provisions of this Act are considered references to such provisions as in effect on the day before Nov. 13, 1998, see section 3002(b) of this title.
+
+#### Amendments
+
+2000—Subsec. (a)(1), (2). Pub. L. 106–402 substituted “Developmental Disabilities Assistance and Bill of Rights Act of 2000” for “Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6000 et seq.)”.
 
 #### Section Referred to in Other Sections
 

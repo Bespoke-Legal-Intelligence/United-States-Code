@@ -26,7 +26,7 @@ Covered Positions.—Subsection (a) applies to the following positions:
 
 Expiration.—This section shall cease to be effective at the end of September 30, 2003.
 
-(Added Pub. L. 103–337, div. A, title IV, §405(c)(1), Oct. 5, 1994, 108 Stat. 2745; amended Pub. L.104–201, div. A, title IV, §404(a), Sept. 23, 1996, 110 Stat. 2506; Pub. L. 106–65, div. A, title V, §509(a), Oct. 5, 1999, 113 Stat. 592.)
+(Added Pub. L. 103–337, div. A, title IV, §405(c)(1), Oct. 5, 1994, 108 Stat. 2745; amended Pub. L. 104–201, div. A, title IV, §404(a), Sept. 23, 1996, 110 Stat. 2506; Pub. L. 106–65, div. A, title V, §509(a), Oct. 5, 1999, 113 Stat. 592.)
 
 #### Amendments
 

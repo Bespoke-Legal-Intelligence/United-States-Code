@@ -14,7 +14,7 @@
 
 &emsp;(4) Encourage <sup>1</sup> the development of programs which, in addition to helping youth take responsibility for their behavior, take into consideration life experiences which may have contributed to their delinquency when developing intervention and treatment programs;
 
-&emsp;(5) <sup>2</sup> encourage the development and establishment of programs to enhance the States’ ability to identify chronic serious and violentjuvenile offenders who commit crimes such as rape, murder, firearms offenses, gang-related crimes, violent felonies, and serious drug offenses;
+&emsp;(5) <sup>2</sup> encourage the development and establishment of programs to enhance the States’ ability to identify chronic serious and violent juvenile offenders who commit crimes such as rape, murder, firearms offenses, gang-related crimes, violent felonies, and serious drug offenses;
 
 &emsp;(5) <sup>2</sup> provide for the evaluation of all juvenile delinquency programs assisted under this subchapter in order to determine the results and the effectiveness of such programs;
 
@@ -86,7 +86,7 @@ Subsec. (b). Pub. L. 102–586, §2(g)(3)(H), added subsec. (b).
 
 Par. (4). Pub. L. 100–690, §7261(2), struck out “, upon the request of the Deputy Administrator” after “program”.
 
-Par. (5). Pub. L. 100–690, §7261(3), substituted in introductory provisions “the improvement of the juvenilejustice system” for “related matters”, struck out “and” at end of subpar. (A), substituted “effectiveness of family-centered treatment programs” for “possible ameliorating roles of familial relationships” in subpar. (B), and substituted semicolon for period in subpar. (D).
+Par. (5). Pub. L. 100–690, §7261(3), substituted in introductory provisions “the improvement of the juvenile justice system” for “related matters”, struck out “and” at end of subpar. (A), substituted “effectiveness of family-centered treatment programs” for “possible ameliorating roles of familial relationships” in subpar. (B), and substituted semicolon for period in subpar. (D).
 
 Pars. (8), (9). Pub. L. 100–690, §7261(4)–(6), added pars. (8) and (9).
 

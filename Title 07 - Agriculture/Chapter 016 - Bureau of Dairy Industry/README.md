@@ -9,10 +9,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Cross References
-
-Filled milk, regulation of, see section 61 et seq. of Title 21, Food and Drugs.
-
 
 ---
 

@@ -10,7 +10,7 @@ For the purposes of this chapter, the term—
 
 &emsp;&emsp;&emsp;(i) classroom or other instruction or the supervision or direction of classroom or other instruction; or
 
-&emsp;&emsp;&emsp;(ii) any activity (other than teaching) which requires academic credits in educational theory and practice equal to the academic credits in educational theory and practice required for a bachelor's degree in education from an accredited institution of higher education; or
+&emsp;&emsp;&emsp;(ii) any activity (other than teaching) which requires academic credits in educational theory and practice equal to the academic credits in educational theoryand practice required for a bachelor's degree in education from an accredited institution of higher education; or
 
 &emsp;&emsp;&emsp;(iii) any activity in or related to the field of education notwithstanding that academic credits in educational theory and practice are not a formal requirement for the conduct of such activity.
 

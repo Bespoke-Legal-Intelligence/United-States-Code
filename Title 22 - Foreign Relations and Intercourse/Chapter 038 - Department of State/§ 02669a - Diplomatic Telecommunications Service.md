@@ -76,37 +76,3 @@ Not later than January 15, 1995, the Secretary of State and the Director of the 
 
 Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.
 
-#### Reform of the Diplomatic Telecommunications Service Program Office
-
-Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §305\], Nov. 29, 1999, 113 Stat. 1536, 1501A–435, provided that:
-
-“(a)
-
-Additional Resources.—In addition to other amounts authorized to be appropriated for the purposes of the Diplomatic Telecommunications Service Program Office (DTS-PO), of the amounts made available to the Department of State under section 101(2) \[113 Stat. 1501A–410\], $18,000,000 shall be made available only to the DTS-PO for enhancement of Diplomatic Telecommunications Service capabilities.
-
-“(b)
-
-Improvement of DTS-PO.—In order for the DTS-PO to better manage a fully integrated telecommunications network to service all agencies at diplomatic missions and consular posts, the DTS-PO shall—
-
-&emsp;“(1) ensure that those enhancements of, and the provision of service for, telecommunication capabilities that involve the national security interests of the United States receive the highest prioritization;
-
-&emsp;“(2) not later than December 31, 1999, terminate all leases for satellite systems located at posts in criteria countries, unless all maintenance and servicing of the satellite system is undertaken by United States citizens who have received appropriate security clearances;
-
-&emsp;“(3) institute a system of charges for utilization of bandwidth by each agency beginning October 1, 2000, and institute a comprehensive chargeback system to recover all, or substantially all, of the other costs of telecommunications services provided through the Diplomatic Telecommunications Service to each agency beginning October 1, 2001;
-
-&emsp;“(4) ensure that all DTS-PO policies and procedures comply with applicable policies established by the Overseas Security Policy Board; and
-
-&emsp;“(5) maintain the allocation of the positions of Director and Deputy Director of DTS-PO as those positions were assigned as of June 1, 1999, which assignments shall pertain through fiscal year 2001, at which time such assignments shall be adjusted in the customary manner.
-
-“(c)
-
-Report on Improving Management.—Not later than March 31, 2000, the Director and Deputy Director of DTS-PO shall jointly submit to the Committee on International Relations and the Permanent Select Committee on Intelligence of the House of Representatives and the Committee on Foreign Relations and the Select Committee on Intelligence of the Senate the Director's plan for improving network architecture, engineering, operations monitoring and control, service metrics reporting, and service provisioning, so as to achieve highly secure, reliable, and robust communications capabilities that meet the needs of both national security agencies and other United States agencies with overseas personnel.
-
-“(d)
-
-Funding of DTS-PO.—Funds appropriated for allocation to DTS-PO shall be made available only for DTS-PO until a comprehensive chargeback system is in place.
-
-“(e)
-
-Appropriate Committees of Congress Defined.—In this section, the term ‘appropriate committees of Congress’ means the Committee on International Relations and the Permanent Select Committee on Intelligence of the House of Representatives and the Committee on Foreign Relations and the Select Committee on Intelligence of the Senate.”
-

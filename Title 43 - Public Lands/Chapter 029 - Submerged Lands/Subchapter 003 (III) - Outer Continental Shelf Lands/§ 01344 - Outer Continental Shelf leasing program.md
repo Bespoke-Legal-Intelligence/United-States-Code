@@ -54,11 +54,11 @@ The leasing program shall include estimates of the appropriations and staff requ
 
 (2) At least sixty days prior to approving a proposed leasing program, the Secretary shall submit it to the President and the Congress, together with any comments received. Such submission shall indicate why any specific recommendation of the Attorney General or a State or local government was not accepted.
 
-(3) After the leasing program has been approved by the Secretary, or after eighteen months following September 18, 1978, whichever first occurs, no lease shall be issued unless it is for an area included in the approved leasing program and unless it contains provisions consistent with the approved leasing program, except that leasing shall be permitted to continue until such program is approved and for so long thereafter as such program is under judicial or administrative review pursuant to the provisions of this subchapter.
+(3) After the leasing program has been approved by the Secretary, or after eighteen months following September 18, 1978, whichever first occurs, no lease shall be issued unless it is for an area included in the approved leasing program and unless it contains provisions consistent with the approved leasing program, except that leasing shall be permitted to continue untilsuch program is approved and for so long thereafter as such program is under judicial or administrative review pursuant to the provisions of this subchapter.
 
 #### (e) Review, revision, and reapproval of program
 
-The Secretary shall review the leasing program approved under this section at least onceeach year. He may revise and reapprove such program, at any time, and such revision and reapproval, except in the case of a revision which is not significant, shall be in the same manner as originally developed.
+The Secretary shall review the leasing program approved under this section at least once each year. He may revise and reapprove such program, at any time, and such revision and reapproval, except in the case of a revision which is not significant, shall be in the same manner as originally developed.
 
 #### (f) Procedural regulations for management of program
 

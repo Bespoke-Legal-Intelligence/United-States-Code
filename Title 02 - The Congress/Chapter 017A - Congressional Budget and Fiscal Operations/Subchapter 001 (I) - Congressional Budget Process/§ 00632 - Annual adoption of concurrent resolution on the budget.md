@@ -110,7 +110,7 @@ The Committee on the Budget of the House of Representatives shall consult with t
 
 It shall not be in order in the Senate to consider any concurrent resolution on the budget (or amendment, motion, or conference report on the resolution) that would decrease the excess of social security revenues over social security outlays in any of the fiscal years covered by the concurrent resolution. No change in chapter 1 of the Internal Revenue Code of 1986 \[26 U.S.C. 1 et seq.\] shall be treated as affecting the amount of social security revenues unless such provision changes the income tax treatment of social security benefits.
 
-(Pub. L. 93–344, title III, §301, July 12, 1974, 88 Stat. 306; Pub. L. 95–523, title III, §§303(a), 304, Oct. 27, 1978, 92 Stat. 1905, 1906; Pub. L. 99–177, title II, §201(b), Dec. 12, 1985, 99 Stat. 1040; Pub. L. 100–119, title I, §106(d), title II, §208(a), Sept. 29, 1987, 101 Stat. 781, 786; Pub. L. 100–418, title V, §5302, Aug. 23, 1988, 102 Stat. 1462; Pub. L. 101–508, title XIII, §§13112(a)(5), 13203, 13204, 13301(b), 13303(a), (b), Nov. 5, 1990, 104 Stat. 1388–608, 1388–615, 1388–616, 1388–623, 1388–625; Pub. L. 104–4, title I, §102(2), Mar. 22, 1995, 109 Stat. 62; Pub. L. 105–33, title X, §10105(a)–(f)(1), Aug. 5, 1997, 111 Stat. 679, 680.)
+(Pub. L. 93–344, title III, §301, July 12, 1974, 88 Stat. 306; Pub. L. 95–523, title III, §§303(a), 304, Oct. 27, 1978, 92 Stat. 1905, 1906; Pub. L. 99–177, title II, §201(b), Dec. 12, 1985, 99 Stat. 1040; Pub.L. 100–119, title I, §106(d), title II, §208(a), Sept. 29, 1987, 101 Stat. 781, 786; Pub. L. 100–418, title V, §5302, Aug. 23, 1988, 102 Stat. 1462; Pub. L. 101–508, title XIII, §§13112(a)(5), 13203, 13204, 13301(b), 13303(a), (b), Nov. 5, 1990, 104 Stat. 1388–608, 1388–615, 1388–616, 1388–623, 1388–625; Pub. L. 104–4, title I, §102(2), Mar. 22, 1995, 109 Stat. 62; Pub. L. 105–33, title X, §10105(a)–(f)(1), Aug. 5, 1997, 111 Stat. 679, 680.)
 
 #### References in Text
 
@@ -172,7 +172,7 @@ Subsec. (b). Pub. L. 99–177 amended subsec. (b) generally, inserting provision
 
 Subsec. (c). Pub. L. 99–177 amended subsec. (c) generally, substituting provisions relating to consideration of procedures or matters which have the effect of changing any rule of the House of Representatives, for provisions relating to submission on or before March 15 of each year of the views and estimates of other committees.
 
-Subsec. (d). Pub. L. 99–177 amended subsec. (d) generally, substituting provisions relating to views and estimates of other committees, for provisions relating to hearings and report in developing the first concurrent resolution on the budget.
+Subsec. (d). Pub. L. 99–177 amended subsec. (d) generally, substituting provisions relating to views and estimates of other committees, for provisions relating tohearings and report in developing the first concurrent resolution on the budget.
 
 Subsec. (e). Pub. L. 99–177 amended subsec. (e) generally, substituting provisions relating to hearings and report in developing the concurrent resolution on the budget, for provisions relating to achievement of goals for reducing unemployment.
 
@@ -190,7 +190,7 @@ Amendment by Pub. L. 104–4 effective Jan. 1, 1996, or on the date 90 days afte
 
 #### Effective Date of 1990 Amendment
 
-Section 13306 of Pub. L. 101–508 provided that: “Sections 13301, 13302, and 13303 and any amendments made by such sections \[amending this section and sections 633 and 642 of this title and enacting provisions set out as notes under this section\] shall apply with respect tofiscal years beginning on or after October 1, 1990. Section 13304 \[amending section 401 of Title 42, The Public Health and Welfare\] shall be effective for annual reports of the Board of Trustees issued in or after calendar year 1991.”
+Section 13306 of Pub. L. 101–508 provided that: “Sections 13301, 13302, and 13303 and any amendments made by such sections \[amending this section and sections 633 and 642 of this title and enacting provisions set out as notes under this section\] shall apply with respect to fiscal years beginning on or after October 1, 1990. Section 13304 \[amending section 401 of Title 42, The Public Health and Welfare\] shall be effective for annual reports of the Board of Trustees issued in or after calendar year 1991.”
 
 #### Effective and Termination Dates of 1988 Amendment
 
@@ -257,10 +257,6 @@ Pub. L. 96–5, §5, Apr. 2, 1979, 93 Stat. 8, which provided that Congress shal
 #### Application of Congressional Budget Process to Fiscal Year Beginning July 1, 1975
 
 Section 906 of Pub. L. 93–344 provided for application of provisions of this subchapter and sections 602(f), 651, and 652 of this title with respect to the fiscal year beginning July 1, 1975, to the extent agreed to by the Committees on the Budget of the House of Representatives and the Senate, prior to repeal by Pub. L. 105–33, title X, §10120(a), Aug. 5, 1997, 111 Stat. 696.
-
-#### Cross References
-
-Budget to include separate statement on each of items referred to in subsec. (a)(1) to (5) of this section, see section 1105 of Title 31, Money and Finance.
 
 #### Section Referred to in Other Sections
 

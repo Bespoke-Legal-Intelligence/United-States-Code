@@ -6,7 +6,7 @@ On all public lands where the taking of fish and wildlife is permitted in accord
 
 #### (b) Denial of proposed use or establishment
 
-Notwithstanding the foregoing provisions, the Secretary may determine, after adequate notice, that the establishment and use of such new facilities or equipment would constitute a significant expansion of existing facilities or uses which would be detrimental to the purposes for which the affected conservation system unit was established, including the wilderness character of any wilderness area within such unit, and may thereupon deny such proposed use or establishment.
+Notwithstanding the foregoing provisions, the Secretary may determine, after adequate notice,that the establishment and use of such new facilities or equipment would constitute a significant expansion of existing facilities or uses which would be detrimental to the purposes for which the affected conservation system unit was established, including the wilderness character of any wilderness area within such unit, and may thereupon deny such proposed use or establishment.
 
 (Pub. L. 96–487, title XIII, §1316, Dec. 2, 1980, 94 Stat. 2485.)
 

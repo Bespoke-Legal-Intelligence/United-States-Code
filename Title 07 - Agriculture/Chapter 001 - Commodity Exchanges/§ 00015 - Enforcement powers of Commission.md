@@ -12,7 +12,7 @@ The Federal Rules of Civil Procedure, referred to in text, are set out in the Ap
 
 #### Codification
 
-Section is comprised of part of subsec. (c) of section 6 of act Sept. 21, 1922. A further provision of subsec. (c) is contained in section 9 of this title. This subsec. (c) \[former par. (a)\] prior to its incorporation into the Code contained a provision as to finality of judgments and review by the Supreme Court and is covered by section 1254 of Title 28, Judiciary and Judicial Procedure. Subsecs. (a) and (b) of section 6 are classified to section 8 of this title. Subsecs. (d), (e), and (f) of section 6 are classified to sections 13b, 9a, and 9b of this title, respectively.
+Section is comprised of part of subsec. (c) of section 6 of act Sept. 21, 1922. A further provision of subsec. (c) is contained in section 9 of this title. This subsec. (c) \[former par. (a)\] prior to its incorporation into the Code contained a provision as to finality of judgments and review by the Supreme Court and is covered by section 1254 of Title 28, Judiciary and Judicial Procedure. Subsecs. (a) and (b) of section 6 are classified to section 8 of this title. Subsecs. (d), (e), (f), and (g) of section 6 are classified to sections 13b, 9a, 9b, and 9c of this title, respectively.
 
 #### Amendments
 
@@ -48,11 +48,7 @@ Amendment by Pub. L. 91–452 effective on sixtieth day following Oct. 15, 1970,
 
 Amendment by act June 15, 1936, effective 90 days after June 15, 1936, see section 13 of that act, set out as a note under section 1 of this title.
 
-#### Cross References
-
-Immunity of witnesses, see section 6001 et seq. of Title 18, Crimes and Criminal Procedure.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in section 12 of this title.
+This section is referred to in sections 7a–13, 9a, 9c, 12, 12a, 13b, 18, 21, 27d of this title.
 

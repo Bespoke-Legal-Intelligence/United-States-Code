@@ -2,7 +2,7 @@
 
 #### (a) Child health assistance
 
-For purposes of this subchapter, the term “child health assistance” means payment for part or all of the cost of health benefits coverage for targeted low-income children that includes any of the following (and includes, in the case described in section 1397ee(a)(2)(A) of this title, payment for part or all of the cost of providing any of the following), as specified under the State plan:
+For purposes of this subchapter, the term “child health assistance” means payment for part or all of the cost of health benefits coverage for targeted low-income children that includes any of the following (and includes, in thecase described in section 1397ee(a)(1)(D)(i) of this title, payment for part or all of the cost of providing any of the following), as specified under the State plan:
 
 &emsp;(1) Inpatient hospital services.
 
@@ -140,15 +140,21 @@ For purposes of this subchapter:
 
 &emsp;The term “uncovered child” means a child that does not have creditable health coverage.
 
-(Aug. 14, 1935, ch. 531, title XXI, §2110, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 567; amended Pub. L. 105–100, title I, §162(3), (9), Nov. 19, 1997, 111 Stat. 2189, 2190.)
+(Aug. 14, 1935, ch. 531, title XXI, §2110, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 567; amended Pub. L. 105–100, title I, §162(3), (9), Nov. 19, 1997, 111 Stat. 2189, 2190; Pub. L. 106–554, §1(a)(6) \[title VIII, §802(d)(5)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–582.)
 
 #### Amendments
+
+2000—Subsec. (a). Pub. L. 106–554 substituted “section 1397ee(a)(1)(D)(i)” for “section 1397ee(a)(2)(A)” in introductory provisions.
 
 1997—Subsec. (b)(1)(B)(ii). Pub. L. 105–100, §162(3)(A), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “is a child whose family income (as determined under the State child health plan) exceeds the medicaid applicable income level (as defined in paragraph (4)), but does not exceed 50 percentage points above the medicaid applicable income level; and”.
 
 Subsec. (b)(4). Pub. L. 105–100, §162(3)(B), substituted “March 31, 1997” for “June 1, 1997” and “1396a(<i>l</i>)(2) or 1396d(n)(2) of this title (as selected by a State)” for “1396a(<i>l</i>)(2) of this title”.
 
 Subsec. (c)(3). Pub. L. 105–100, §162(9), made technical amendment to reference in original act which appears in text as reference to section 300gg–91 of this title.
+
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–554 effective as if included in the enactment of section 4901 of Pub. L. 105–33, see section 1(a)(6) \[title VIII, §802(f)\] of Pub. L. 106–554, set out as a note under section 1396d of this title.
 
 #### Effective Date of 1997 Amendment
 

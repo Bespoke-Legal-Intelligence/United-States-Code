@@ -24,7 +24,7 @@ The Secretary is further authorized to cause official weighing or supervision of
 
 #### (f) Demonstrated willingness of operators of grain elevators, warehouses, or other storage or handling facilities to meet equipment and personnel requirements
 
-No official weighing or supervision of weighing shall be provided for the purposes of this chapter at any grain elevator, warehouse, or other storage or handling facility until such time as the operator of the facility has demonstrated to the satisfaction of the Secretary that the operator (1) has and will maintain, in good order, suitable grain-handling equipment and accurate scales for all weighing of grain at the facility, in accordance with the regulations of the Secretary; (2) will permit only competent persons with a reputation for honesty and integrity and who are approved by the Secretary to operate the scales and to handle grain in connection with weighing of the grain, in accordance with this chapter; (3) when weighing is to be done by persons other than official inspection personnel, will require such persons to operate the scales inaccordance with the regulations of the Secretary and to require that each lot of grain for delivery from any railroad car, truck, barge, vessel, or other means of conveyance at the facility is entirely removed from such means of conveyance and delivered to the scales without avoidable waste or loss, and each lot of grain weighed at the elevator for shipment from the facility is entirely delivered to the means of conveyance for which intended, and without avoidable waste or loss, in accordance with the regulations of the Secretary; (4) will provide all assistance needed by the Secretary for making any inspection or examination and carrying out other functions at the facility pursuant to this chapter; and (5) will comply with all other requirements of this chapter and the regulations hereunder.
+No official weighing or supervision of weighing shall be provided for the purposes of this chapter at any grain elevator, warehouse, or other storage or handling facility until such time as the operator of the facility has demonstrated to the satisfaction of the Secretary that the operator (1) has and will maintain, in good order, suitable grain-handling equipment and accurate scales for all weighing of grain at the facility, in accordance with the regulations of the Secretary; (2) will permit only competent persons with a reputation for honesty and integrity and who are approved by the Secretary to operate the scales and to handle grain in connection with weighing of the grain, in accordance with this chapter; (3) when weighing is to be done by persons other than official inspection personnel, will require such persons to operate the scales in accordance with the regulations of the Secretary and to require that each lot of grain for delivery from any railroad car, truck, barge, vessel, or other means of conveyance at the facility is entirely removed from such means of conveyance and delivered to the scales without avoidable waste or loss, and each lot of grain weighed at the elevator for shipment from the facility is entirely delivered to the means of conveyance for which intended, and without avoidable waste or loss, in accordance with theregulations of the Secretary; (4) will provide all assistance needed by the Secretary for making any inspection or examination and carrying out other functions at the facility pursuant to this chapter; and (5) will comply with all other requirements of this chapter and the regulations hereunder.
 
 #### (g) Official certificates as evidence
 
@@ -36,7 +36,21 @@ No State or local governmental agency or person shall weigh or state in any docu
 
 #### (i) Unauthorized weighing prohibited
 
-No State or local governmental agency or person other than an authorized employee of the Secretary shall perform official weighing or supervision of weighing for the purposes of this chapter except in accordance with the provisions of an unsuspended and unrevoked delegation of authority or designation by the Secretary as provided in this section or as otherwise provided in section 79(i) of this title and subsection (d) of this section. Not more than one official agency or State delegated authority pursuant to subsection (c)(2) of this section for carrying out the weighing provisions of this chapter shall be operative at one time for any geographic area as determined by the Secretary to effectuate the objectives stated in section 74 of this title, except that the Secretary may conduct pilot programs to allow more than 1 official agency to carry out the weighing provisions within a single geographic area without undermining the policy stated in section 74 of this title.
+#### (1) In general
+
+&emsp;No State or local governmental agency or person other than an authorized employee of the Secretary shall perform official weighing or supervision of weighing for the purposes of this chapter except in accordance with the provisions of an unsuspended and unrevoked delegation of authority or designation by the Secretary as provided in this section or as otherwise provided in section 79(i) of this title and subsection (d) of this section.
+
+#### (2) Geographic boundaries for official agencies
+
+&emsp;Not more than one designated official agency referred to in paragraph (1) or State agency delegated authority pursuant to subsection (c)(2) of this section to carry out the weighing provisions of this chapter shall be operative at the same time in any geographic area defined by the Secretary, except that, if the Secretary determines that the presence of more than one designated official agency in the same geographic area will not undermine the policy stated in section 74 of this title, the Secretary may—
+
+&emsp;&emsp;(A) allow more than one designated official agency to carry out the weighing provisions within the same geographical area as part of a pilot program; and
+
+&emsp;&emsp;(B) allow a designated official agency to cross boundary lines to carry out the weighing provisions in another geographic area if the Secretary also determines that—
+
+&emsp;&emsp;&emsp;(i) the current designated official agency for that geographic area is unable to provide the weighing services in a timely manner; or
+
+&emsp;&emsp;&emsp;(ii) a person requesting weighing services in that geographic area has not been receiving official weighing services from the current designated official agency for that geographic area.
 
 #### (j) Authority under United States Warehouse Act not limited
 
@@ -52,15 +66,19 @@ The representatives of the Secretary shall be afforded access to any elevator, w
 
 (2) Each agency to which authority has been delegated under this section and each agency or other person which has been designated to perform functions related to weighing under this section shall pay to the Secretary fees in such amount as the Secretary determines fair and reasonable and as will cover the costs incurred by the Secretary relating to supervision of the agency personnel and supervision by the Secretary of the Secretary's field office personnel incurred as a result of the functions performed by such agencies, except costs incurred under sections 79(g)(3), 85, 86, and 87c of this title. The fees shall be payable after the services are performed at such times as specified by the Secretary and shall be deposited in the fund created in section 79(j) of this title. Failure to pay the fee within thirty days after it is due shall result in automatic termination of the delegation or designation, which shall be reinstated upon payment, within such period as specified by the Secretary, of the fee currently due plus interest and any further expenses incurred by the Secretary because of such termination. The interest rate on overdue fees shall be as prescribed by the Secretary, but not less than the current average market yield on outstanding marketable obligations of the United States of comparable maturity, plus an additional charge of not to exceed 1 per centum per annum as determined by the Secretary, and adjusted to the nearest one-eighth of 1 per centum.
 
-(3) The authority provided to the Secretary by paragraph (1) and the duties imposed by paragraph (2) on agencies and other persons described in such paragraph shall expire on September 30, 2000. After that date, the Secretary shall, under such regulations as the Secretary may prescribe, charge and collect reasonable fees to cover the estimated costs of official weighing and supervision of weighing except when the official weighing or supervision of weighing is performed by a designated official agency or by a State under a delegation of authority. The fees authorized by this paragraph shall, as nearly as practicable, cover the costs of the Secretary incident to its <sup>1</sup> performance of official weighing and supervision of weighing services in the United States and on United States grain in Canadian ports, excluding administrative and supervisory costs. The fees authorized by this paragraph shall be deposited into a fund which shall be available without fiscal year limitation for the expenses of the Secretary incident to providing services under this chapter.
+(3) The authority provided to the Secretary by paragraph (1) and the duties imposed by paragraph (2) on agencies and other persons described in such paragraph shall expire on September 30, 2005. After that date, the Secretary shall, under such regulations as the Secretary may prescribe, charge and collect reasonable fees to cover the estimated costs of official weighing and supervision of weighing exceptwhen the official weighing or supervision of weighing is performed by a designated official agency or by a State under a delegation of authority. The fees authorized by this paragraph shall, as nearly as practicable, cover the costs of the Secretary incident to its <sup>1</sup> performance of official weighing and supervision of weighing services in the United States and on United States grain in Canadian ports, excluding administrative and supervisory costs. The fees authorized by this paragraph shall be deposited into a fund which shall be available without fiscal year limitation for the expenses of the Secretary incident to providing services under this chapter.
 
-(Aug. 11, 1916, ch. 313, pt. B, §7A, as added Pub. L. 94–582, §9, Oct. 21, 1976, 90 Stat. 2875; amended Pub. L. 95–113, title XVI, §§1602(b), 1604(e), 1606(e), Sept. 29, 1977, 91 Stat. 1025, 1027, 1030; Pub. L. 97–35, title I, §155(2), Aug. 13, 1981, 95 Stat. 371; Pub. L. 100–518, §2(2), Oct. 24, 1988, 102 Stat. 2585; Pub. L. 103–156, §§4(b), 5(b), 12(e), 14(b), Nov. 24, 1993, 107 Stat. 1526, 1528, 1530; Pub. L. 103–354, title II, §293(a)(4), (7), (8), Oct. 13, 1994, 108 Stat. 3237.)
+(Aug. 11, 1916, ch. 313, pt. B, §7A, as added Pub. L. 94–582, §9, Oct. 21, 1976, 90 Stat. 2875; amended Pub. L. 95–113, title XVI, §§1602(b), 1604(e), 1606(e), Sept. 29, 1977, 91 Stat. 1025, 1027, 1030; Pub. L. 97–35, title I, §155(2), Aug. 13, 1981, 95 Stat. 371; Pub. L. 100–518, §2(2), Oct. 24, 1988, 102 Stat. 2585; Pub. L. 103–156, §§4(b), 5(b), 12(e), 14(b), Nov. 24, 1993, 107 Stat. 1526, 1528, 1530; Pub. L. 103–354, title II, §293(a)(4), (7), (8), Oct. 13, 1994, 108 Stat. 3237; Pub. L. 106–472, title I, §§102(b), 103(b), Nov. 9, 2000, 114 Stat. 2059, 2060.)
 
 #### References in Text
 
-The United States Warehouse Act, referred to in subsec. (j), is part C of act Aug. 11, 1916, ch. 313, 39 Stat. 486, as amended, which is classified generally to chapter 10 (§241 et seq.) of this title. For complete classification of this Act to the Code, see section 241 of this title and Tables.
+The United States Warehouse Act, referred to in subsec. (j), is part C of act Aug. 11, 1916, ch. 313, 39 Stat. 486, as amended, which is classified generally to chapter 10 (§241 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 241 of this title and Tables.
 
 #### Amendments
+
+2000—Subsec. (i). Pub. L. 106–472, §102(b), inserted subsec. heading, designated existing provisions as par. (1), inserted par. heading, struck out second sentence, which prohibited more than one official agency or State delegated authority from operating at one time in any geographic area except as permitted in pilot programs, and added par. (2).
+
+Subsec. (<i>l</i>)(3). Pub. L. 106–472, §103(b), substituted “2005” for “2000” in first sentence.
 
 1994—Pub. L. 103–354 substituted “supervision by the Secretary of the Secretary's field office personnel” for “supervision by Service personnel of its field office personnel” in first sentence of subsec. (<i>l</i>)(2) and substituted “Secretary” for “Administrator” and “Service” wherever appearing in subsecs. (a) to (f) and (i) to (<i>l</i>).
 
@@ -98,13 +116,17 @@ Subsec. (i). Pub. L. 95–113, §1604(e)(7), (8), substituted “No State or loc
 
 Subsec. (<i>l</i>). Pub. L. 95–113, §1602(b), revised provisions relating to fees so as to remove requirement that field supervision of weighing be supported by fees.
 
+#### Effective Date of 2000 Amendment
+
+Amendment by section 103(b) of Pub. L. 106–472 effective as if enacted Sept. 30, 2000, see section 111 of Pub. L. 106–472, set out as a note under section 79 of this title.
+
 #### Effective and Termination Dates of 1988 Amendment
 
 That part of section 2 of Pub. L. 100–518 which provided that the amendment made by Pub. L. 100–518 was effective for period Oct. 1, 1988, through Sept. 30, 1993, inclusive, was repealed by Pub. L. 103–156, §§13(a), 16(b), Nov. 24, 1993, 107 Stat. 1529, 1530, eff. Sept. 30, 1993.
 
 #### Effective and Termination Dates of 1981 Amendment
 
-Section 155 of Pub. L. 97–35, as amended by Pub. L. 98–469, §1, Oct. 11, 1984, 98 Stat. 1831, provided that the amendment made by Pub. L. 97–35 is effective for period beginning Oct. 1, 1981, and ending Sept. 30, 1988.
+Section 155 of Pub. L. 97–35, as amended by Pub. L. 98–469, §1, Oct. 11, 1984, 98 Stat. 1831, provided that theamendment made by Pub. L. 97–35 is effective for period beginning Oct. 1, 1981, and ending Sept. 30, 1988.
 
 #### Effective Date of 1977 Amendment
 
@@ -112,7 +134,7 @@ Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L
 
 #### Effective Date
 
-For effective date of section, see Effective Date of 1976 Amendment note set out under section 74 of this title.
+Section effective 30 days after Oct. 21, 1976, see section 27 of Pub. L. 94–582, as amended, set out as an Effective Date of 1976 Amendment note under section 74 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -1,0 +1,24 @@
+### §1571. Purposes
+
+#### (a) Purposes
+
+The purposes of this subchapter are to—
+
+&emsp;(1) provide the Immigration and Naturalization Service with the mechanisms it needs to eliminate the current backlog in the processing of immigration benefit applications within 1 year after October 17, 2000, and to maintain the elimination of the backlog in future years; and
+
+&emsp;(2) provide for regular congressional oversight of the performance of the Immigration and Naturalization Service in eliminating the backlog and processing delays in immigration benefits adjudications.
+
+#### (b) Policy
+
+It is the sense of Congress that the processing of an immigration benefit application should be completed not later than 180 days after the initial filing of the application, except that a petition for a nonimmigrant visa under section 1184(c) of this title should be processed not later than 30 days after the filing of the petition.
+
+(Pub. L. 106–313, title II, §202, Oct. 17, 2000, 114 Stat. 1262.)
+
+#### Short Title
+
+For short title of title II of Pub. L. 106–313, which enacted this subchapter, as the “Immigration Services and Infrastructure Improvements Act of 2000”, see section 201 of Pub. L. 106–313, set out as a Short Title of 2000 Amendment note under section 1551 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1574 of this title.
+

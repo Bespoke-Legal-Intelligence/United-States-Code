@@ -4,7 +4,9 @@
 
 (b) Whenever the number of members serving in pay grade E–9 is less than the number authorized for that grade under subsection (a), the difference between the two numbers may be applied to increase the number authorized under such subsection for pay grade E–8.
 
-(Added Pub. L. 87–649, §2(1), Sept. 7, 1962, 76 Stat. 492; amended Pub. L. 96–584, §4, Dec. 23, 1980, 94 Stat. 3377; Pub. L. 97–86, title V, §503(1), (2), Dec. 1, 1981, 95 Stat. 1107, 1108; Pub. L. 97–252, title V, §503(a), Sept. 8, 1982, 96 Stat. 727; Pub. L. 98–94, title V, §503(a), Sept. 24, 1983, 97 Stat. 631; Pub. L. 98–525, title IV, §§413(a), 414(a)(2), Oct. 19, 1984, 98 Stat. 2517, 2518; Pub. L. 99–145, title IV, §413(a), Nov. 8, 1985, 99 Stat. 619; Pub. L. 100–180, div. A, title IV, §413(a), Dec. 4, 1987, 101 Stat. 1083; Pub. L. 101–189, div. A, title IV, §413(a), Nov. 29, 1989, 103 Stat. 1433; Pub. L. 102–190, div. A, title IV, §413(a), Dec. 5, 1991, 105 Stat. 1352; Pub. L. 103–160, div. A, title IV, §413(a), Nov. 30, 1993, 107 Stat. 1642; Pub. L. 103–337, div. A, title V, §552(a), title XVI, §1662(a)(4), Oct. 5, 1994, 108 Stat. 2772, 2988; Pub. L. 105–261, div. A, title IV, §407(a), title X, §1069(a)(2), Oct. 17, 1998, 112 Stat. 1996, 2135.)
+(c) Whenever under section 527 of this title the President may suspend the operation of any provision of section 523, 525, or 526 of this title, the Secretary of Defense may suspend the operation of any provision of this section. Any such suspension shall, if not sooner ended, end in the manner specified in section 527 for a suspension under that section.
+
+(Added Pub. L. 87–649, §2(1), Sept. 7, 1962, 76 Stat. 492; amended Pub. L. 96–584, §4, Dec. 23, 1980, 94 Stat. 3377; Pub. L. 97–86, title V, §503(1), (2), Dec. 1, 1981, 95 Stat. 1107, 1108; Pub. L. 97–252, title V, §503(a), Sept. 8, 1982, 96 Stat. 727; Pub. L. 98–94, title V, §503(a), Sept. 24, 1983, 97 Stat. 631; Pub. L. 98–525, title IV, §§413(a), 414(a)(2), Oct. 19, 1984, 98 Stat. 2517, 2518; Pub. L. 99–145, title IV, §413(a), Nov. 8, 1985, 99 Stat. 619; Pub. L. 100–180, div. A, title IV, §413(a), Dec. 4, 1987, 101 Stat. 1083; Pub. L. 101–189, div. A, title IV, §413(a), Nov. 29, 1989, 103 Stat. 1433; Pub. L. 102–190, div. A, title IV, §413(a), Dec. 5, 1991, 105 Stat. 1352; Pub. L. 103–160, div. A, title IV, §413(a), Nov. 30, 1993, 107 Stat. 1642; Pub. L. 103–337, div. A, title V, §552(a), title XVI, §1662(a)(4), Oct. 5, 1994, 108 Stat. 2772, 2988; Pub. L. 105–261, div. A, title IV, §407(a), title X, §1069(a)(2), Oct. 17, 1998, 112 Stat. 1996, 2135; Pub. L. 106–398, §1 \[\[div. A\], title IV, §421(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–95.)
 
 Historical and Revision Notes
 
@@ -21,6 +23,8 @@ Historical and Revision Notes
 Oct. 12, 1949, ch. 681, §201(c) (last sentence); added May 20, 1958, Pub. L. 85–422, §1(3) (last sentence), 72 Stat. 124.
 
 #### Amendments
+
+2000—Subsec. (c). Pub. L. 106–398 added subsec. (c).
 
 1998—Subsec. (a). Pub. L. 105–261, §1069(a)(2), substituted “The authorized” for “Except as provided in section 307 of title 37, the authorized”.
 
@@ -40,7 +44,7 @@ Subsec. (c). Pub. L. 103–337, §1662(a)(4)(B), redesignated subsec. (c) as (b)
 
 1989—Subsec. (b). Pub. L. 101–189, §413(a)(2), in table, increased fiscal year limitation on number of enlisted men in pay grades E–8 and E–9 on active duty affecting reserve components of the armed forces: Army, to 557 and 2,585 from 542 and 2,504, respectively; Navy, to 202 and 429 from 200 and 425, respectively; Air Force, to 231 and 670 from 224 and 637, respectively. Marine Corps figures remained unchanged.
 
-Pub. L. 101–189, §413(a)(1), in table, increased fiscal year limitation on number of enlisted men in pay grades E–8 and E–9 on active duty affecting reserve components of the armed forces: Army, to 542 and 2,504 from 529 and 2,350, respectively; Navy, to 200 and 425 from 180 and 400, respectively; Air Force, to 224 and 637 from 150 and 425, respectively. Marine Corps figures remained unchanged.
+Pub. L. 101–189, §413(a)(1), in table, increased fiscal year limitation on number of enlisted men in pay grades E–8 and E–9 on active duty affecting reserve components of the armed forces: Army, to 542 and 2,504 from 529 and 2,350, respectively; Navy, to 200 and 425from 180 and 400, respectively; Air Force, to 224 and 637 from 150 and 425, respectively. Marine Corps figures remained unchanged.
 
 1987—Subsec. (b). Pub. L. 100–180, §413(a)(2), in table, increased fiscal year limitation on number of enlisted men in pay grades E–8 and E–9 on active duty affecting reserve components of the armed forces: Army, to 529 and 2,350 from 517 and 2,295, respectively; Navy, to 180 and 400 from 175 and 390, respectively; Air Force, to 150 and 425 from 125 and 425, respectively. Marine Corps figures remained unchanged.
 
@@ -50,7 +54,7 @@ Pub. L. 100–180, §413(a)(1), in table, increased fiscal year limitation on nu
 
 1984—Subsec. (b). Pub. L. 98–525, §414(a)(2), inserted “(other than for training) or on full-time National Guard duty under the authority of section 502(f) of title 32 (other than for training)” and substituted “or the National Guard” for “of the armed forces” and “for that grade and armed force” for “prescribed for the grade and the armed force”.
 
-Pub. L. 98–525, §413(a), in table, increased fiscal year limitation on number of enlisted men in pay grades E–8and E–9 on active duty affecting reserve components of the armed forces: Army, to 2,295 and 517 from 1,494 and 314; Air Force, to 455 and 87 from 617 and 143; Marine Corps, to 74 and 9 from 56 and 6. Navy figures remained unchanged.
+Pub. L. 98–525, §413(a), in table, increased fiscal year limitation on number of enlisted men in pay grades E–8 and E–9 on active duty affecting reserve components of the armed forces: Army, to 2,295 and 517 from 1,494 and 314; Air Force, to 455 and 87 from 617 and 143; Marine Corps, to 74 and 9 from 56 and 6. Navy figures remained unchanged.
 
 1983—Subsec. (b). Pub. L. 98–94 increased fiscal year limitation on number of enlisted men in pay grades E–8 and E–9 on active duty affecting reserve components of the armed forces: Army, to 1,494 and 314 from 1,244 and 265; Navy, to 381 and 156 from 329 and 156; Air Force, to 617 and 143 from 441 and 132; Marine Corps figures remained unchanged.
 

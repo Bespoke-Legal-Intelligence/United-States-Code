@@ -20,9 +20,3 @@ R.S. 225 (1st sentence).
 
 The words “and other military supplies” are substituted for the words “camp and garrison equipage, quartermaster's stores, and ordnance” to conform to section 9838 of this title. The words “person to whom administered” are substituted for the words “parties taking them.” The words “for the purpose of” are omitted as surplusage.
 
-#### Cross References
-
-Administration of oaths by employee of Executive department, see section 303 of Title 5, Government Organization and Employees.
-
-Authority to administer oaths, see section 936 of this title.
-

@@ -6,17 +6,13 @@
 
 (2) Except as provided in paragraph (1) and in section 707 of this title, a member may not accrue or receive pay or allowances during a period of leave required to be taken under section 876a of this title.
 
-(c)(1) A member required to take leave under section 876a of this title is not entitled to any right or benefit under chapter 43 of title 38 solely because of employment during the period of such leave.
+(c) A member required to take leave under section 876a of this title is not entitled to any right or benefit under chapter 43 of title 38 solely because of employment during the period of such leave.
 
-(2) Section 974 <sup>1</sup> of this title does not apply to a member required to take leave under section 876a of this title during the period of such leave.
-
-(Added Pub. L. 97–81, §2(b)(1), Nov. 20, 1981, 95 Stat. 1085; amended Pub. L. 102–568, title V,§506(c)(5), Oct. 29, 1992, 106 Stat. 4341; Pub. L. 103–337, div. A, title X, §1070(e)(1), Oct. 5, 1994, 108 Stat. 2859; Pub. L. 103–353, §2(b)(3), Oct. 13, 1994, 108 Stat. 3169; Pub. L. 104–106, div. A, title XV, §1503(a)(7), Feb. 10, 1996, 110 Stat. 511.)
-
-#### References in Text
-
-Section 974 of this title, referred to in subsec. (c)(2), was repealed by Pub. L. 105–261, div. A, title V, §569(a), Oct. 17, 1998, 112 Stat. 2032.
+(Added Pub. L. 97–81, §2(b)(1), Nov. 20, 1981, 95 Stat. 1085; amended Pub. L. 102–568, title V, §506(c)(5), Oct. 29, 1992, 106 Stat. 4341; Pub. L. 103–337, div. A, title X, §1070(e)(1), Oct. 5, 1994, 108 Stat. 2859; Pub. L. 103–353, §2(b)(3), Oct. 13, 1994, 108 Stat. 3169; Pub. L. 104–106, div. A, title XV, §1503(a)(7), Feb. 10, 1996, 110 Stat. 511; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(4)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–290.)
 
 #### Amendments
+
+2000—Subsec. (c). Pub. L. 106–398 struck out “(1)” before “A member required” and struck out par. (2) which read as follows: “Section 974 of this title does not apply to a member required to take leave under section 876a of this title during the period of such leave.”
 
 1996—Subsec. (c)(1). Pub. L. 104–106 substituted “chapter 43 of title 38” for “section 4301 of title 38”.
 
@@ -38,7 +34,7 @@ Section 7 of Pub. L. 97–81, as amended by Pub. L. 98–209, §12(b), Dec. 6, 1
 
 “(b)(1) The amendments made by section 2 \[enacting this section and sections 707 and 876a of this title and amending section 701 of this title\] shall apply to each member whose sentence by court-martial is approved on or after January 20, 1982—
 
-&emsp;“(A) under section 864 or 865 (article 64 or 65) of title 10, United States Code, by the officer exercising general court-martial jurisdiction under the provisions of such section as it existed on the day before the effective date of the Military Justice Act of 1983 \[see Effective Date of 1983 Amendment note set out under section 801 of this title\]; or
+&emsp;“(A) under section 864 or 865 (article 64 or 65) of title 10, United States Code, by the officer exercisinggeneral court-martial jurisdiction under the provisions of such section as it existed on the day before the effective date of the Military Justice Act of 1983 \[see Effective Date of 1983 Amendment note set out under section 801 of this title\]; or
 
 &emsp;“(B) under section 860 (article 60) of title 10, United States Code, by the officer empowered to act on the sentence on or after the effective date of the Military Justice Act of 1983.
 
@@ -53,6 +49,4 @@ Section 7 of Pub. L. 97–81, as amended by Pub. L. 98–209, §12(b), Dec. 6, 1
 #### Section Referred to in Other Sections
 
 This section is referred to in section 707 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

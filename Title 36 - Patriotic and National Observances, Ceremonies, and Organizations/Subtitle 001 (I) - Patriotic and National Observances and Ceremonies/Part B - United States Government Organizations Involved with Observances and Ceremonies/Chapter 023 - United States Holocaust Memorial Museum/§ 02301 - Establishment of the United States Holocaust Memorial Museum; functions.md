@@ -1,0 +1,28 @@
+### §2301. Establishment of the United States Holocaust Memorial Museum; functions
+
+The United States Holocaust Memorial Museum (hereafter in this chapter referred to as the “Museum”) is an independent establishment of the United State <sup>1</sup> Government. The Museum shall—
+
+&emsp;(1) provide for appropriate ways for the Nation to commemorate the Days of Remembrance, as an annual, national, civic commemoration of the Holocaust, and encourage and sponsor appropriate observances of such Days of Remembrance throughout the United States;
+
+&emsp;(2) operate and maintain a permanent living memorial museum to the victims of the Holocaust, in cooperation with the Secretary of the Interior and other Federal agencies as provided in section 2306 of this title; and
+
+&emsp;(3) carry out the recommendations of the President's Commission on the Holocaust in its report to the President of September 27, 1979, to the extent such recommendations are not otherwise provided for in this chapter.
+
+(Added Pub. L. 106–292, §1, Oct. 12, 2000, 114 Stat. 1030.)
+
+#### Prior Provisions
+
+A prior section 2301, Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1277, related to the establishment and purposes of the Holocaust Memorial Council, prior to the general amendment of this chapter by Pub. L. 106–292.
+
+#### Transfer of Auditors West Building (Annex 3); Responsibility for Repairs and Alterations
+
+Pub. L. 101–45, title II, June 30, 1989, 103 Stat. 125, provided that:
+
+“Notwithstanding any other provision of law, the Administrator of General Services (Administrator) shall transfer to the administrative jurisdiction of the Holocaust Memorial Council (Council), without consideration, the Auditors West Building (Annex 3) located at Raoul Wallenberg Place and Independence Avenue Southwest, Washington, District of Columbia.
+
+“Prior to such transfer of jurisdiction to the Council, the Council shall agree to perform all necessary repairs and alterations to the Auditors West Building so as to renovate the exterior of the Auditors West Building in a manner consistent with preservation of the historic architecture of the building, and to preserve the structural integrity of the building. The Council, prior to such transfer, shall furnish to the Administrator, for his approval, a plan detailing the repairs and alterations proposed, dates for completion of the work, and funding availability.
+
+“In the event the Council ceases to exist, administrative jurisdiction of the Auditors West Building (Annex 3) shall revert to the General Services Administration.”
+
+<i><sup>1</sup></i><i> So in original.</i>
+

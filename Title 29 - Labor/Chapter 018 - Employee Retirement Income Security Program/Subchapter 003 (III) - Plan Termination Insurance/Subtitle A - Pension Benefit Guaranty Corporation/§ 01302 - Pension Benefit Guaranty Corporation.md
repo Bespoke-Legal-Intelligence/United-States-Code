@@ -12,7 +12,7 @@ There is established within the Department of Labor a body corporate to be known
 
 #### (b) Powers of corporation
 
-To carry out the purposes of this subchapter, the corporation has the powers conferred on a nonprofit corporation under the District of Columbia Nonprofit Corporation Act \[D.C. Code, §29–501 et seq.\] and, in addition to any specificpower granted to the corporation elsewhere in this subchapter or under that Act, the corporation has the power—
+To carry out the purposes of this subchapter, the corporation has the powers conferred on a nonprofit corporation under the District of Columbia Nonprofit Corporation Act and, in addition to any specific power granted to the corporation elsewhere in this subchapter or under that Act, the corporation has the power—
 
 &emsp;(1) to sue and be sued, complain and defend, in its corporate name and through its own counsel, in any court, State or Federal;
 
@@ -74,7 +74,7 @@ As soon as practicable, but not later than 180 days after September 2, 1974, the
 
 #### References in Text
 
-The District of Columbia Nonprofit Corporation Act, referred to in subsec. (b), is Pub. L. 87–569, Aug. 6, 1962, 76 Stat. 265, as amended, which appears in chapter 5 (§29–501 et seq.) of Title 29, Corporations, of the District of Columbia Code.
+The District of Columbia Nonprofit Corporation Act, referred to in subsec. (b), is Pub. L. 87–569, Aug. 6, 1962, 76 Stat. 265, as amended, which is not classified to the Code.
 
 This chapter, referred to in subsec. (b)(3), (4), and (8), was in original “this Act”, meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 

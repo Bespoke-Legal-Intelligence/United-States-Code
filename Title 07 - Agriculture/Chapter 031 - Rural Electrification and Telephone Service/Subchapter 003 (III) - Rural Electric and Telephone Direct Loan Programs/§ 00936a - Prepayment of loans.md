@@ -56,7 +56,7 @@ Eligibility to Prepay.—Notwithstanding subsections (c), (d), and (e) of sectio
 
 Priority for Approval.—In determining which borrowers shall be permitted to prepay loans under subsection (a):
 
-&emsp;“(1) The Administrator of the Rural Electrification Administration shall give priority to those 8 borrowers that were determined by the Administrator, prior to the date of the enactment of this Act \[Dec. 22, 1987\], to be eligible to prepay, or that prepaid, an advance under section 306A of such Act \[7 U.S.C. 936a\] (as in effect prior to the date of the enactment of this Act), except that to retain such priority a borrower shall—
+&emsp;“(1) The Administrator of the Rural Electrification Administration shall give priority to those 8 borrowers that were determined by the Administrator, prior to the date of the enactment of this Act \[Dec. 22,1987\], to be eligible to prepay, or that prepaid, an advance under section 306A of such Act \[7 U.S.C. 936a\] (as in effect prior to the date of the enactment of this Act), except that to retain such priority a borrower shall—
 
 &emsp;&emsp;“(A) notify the Administrator in writing, within 30 days after the issuance of regulations to carry out this section, of the intent of the borrower to prepay; and
 

@@ -8,10 +8,6 @@ Nothing in this Act shall be construed to impair or prejudice any claim or suit 
 
 This Act, referred to in text, is act June 18, 1934, which is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 461 of this title and Tables.
 
-#### Cross References
-
-Right-of-way grant, consent of tribal officials, see section 324 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 473a of this title.

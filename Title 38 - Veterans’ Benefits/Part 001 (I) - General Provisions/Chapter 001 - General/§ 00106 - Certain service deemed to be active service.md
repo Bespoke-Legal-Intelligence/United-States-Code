@@ -16,19 +16,41 @@
 
 (c) For the purposes of this title, an individual discharged or released from a period of active duty shall be deemed to have continued on active duty during the period of time immediately following the date of such discharge or release from such duty determined by the Secretary concerned to have been required for that individual to proceed to that individual's home by the most direct route, and in any event that individual shall be deemed to have continued on active duty until midnight of the date of such discharge or release.
 
-(d) For the purposes of this title, any individual—
+(d)(1) For the purposes of this title, any individual—
 
-&emsp;(1) who, when authorized or required by competent authority, assumes an obligation to perform active duty for training or inactive duty training; and
+&emsp;(A) who, when authorized or required by competent authority, assumes an obligation to perform active duty for training or inactive duty training; and
 
-&emsp;(2) who is disabled or dies from an injury incurred while proceeding directly to or returning directly from such active duty for training or inactive duty training, as the case may be;
+&emsp;(B) who is disabled or dies from an injury or covered disease incurred while proceeding directly to or returning directly from such active duty for training or inactive duty training, as the case may be;
 
-> shall be deemed to have been on active duty for training or inactive duty training, as the case may be, at the time such injury was incurred. In determining whether or not such individual was so authorized or required to perform such duty, and whether or not such individual was disabled or died from injury so incurred, the Secretary shall take into account the hour on which such individual began so to proceed or to return; the hour on which such individual was scheduled to arrive for, or on which such individual ceased to perform, such duty; the method of travel employed; the itinerary; the manner in which the travel was performed; and the immediate cause of disability or death. Whenever any claim is filed alleging that the claimant is entitled to benefits by reason of this subsection, the burden of proof shall be on the claimant.
+> shall be deemed to have been on active duty for training or inactive duty training, as the case may be, at the time such injury or covered disease was incurred.
+
+(2) In determining whether or not such individual was so authorized or required to perform such duty, and whether or not such individual was disabled or died from injury or covered disease so incurred, the Secretary shall take into account the hour on which such individual began so to proceed or to return; the hour on which such individual was scheduled to arrive for, or on which such individual ceased to perform, such duty; the method of travel employed; the itinerary; the manner in which the travel was performed; and the immediate cause of disability or death.
+
+(3) Whenever any claim is filed alleging that the claimant is entitled to benefits by reason of this subsection, the burden of proof shall be on the claimant.
+
+(4) For purposes of this subsection, the term “covered disease” means any of the following:
+
+&emsp;(A) Acute myocardial infarction.
+
+&emsp;(B) A cardiac arrest.
+
+&emsp;(C) A cerebrovascular accident.
 
 (e) Each person who has incurred a disability as a result of an injury or disease described in subsection (b) shall be entitled to the same rights, privileges, and benefits under title 5 as a preference eligible described in section 2108(3)(C) of title 5.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1110; Pub. L. 87–102, §1, July 21, 1961, 75 Stat. 219; Pub. L. 88–616, Oct. 2, 1964, 78 Stat. 994; Pub. L. 89–311, §5, Oct. 31, 1965, 79 Stat. 1156; Pub. L. 97–295, §4(3), Oct. 12, 1982, 96 Stat. 1305; Pub. L. 99–576, title VII, §701(5), Oct. 28, 1986, 100 Stat. 3291; Pub. L. 102–83, §4(a)(1), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405.)
+(f) Service as a member of the Alaska Territorial Guard during World War II of any individual who was honorably discharged therefrom under section 8147 of the Department of Defense Appropriations Act, 2001, shall be considered active duty for purposes of all laws administered by the Secretary.
+
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1110; Pub. L. 87–102, §1, July 21, 1961, 75 Stat. 219; Pub. L. 88–616, Oct. 2, 1964, 78 Stat. 994; Pub. L. 89–311, §5, Oct. 31, 1965, 79 Stat. 1156; Pub. L. 97–295, §4(3), Oct. 12, 1982, 96 Stat. 1305; Pub. L. 99–576, title VII, §701(5), Oct. 28, 1986, 100 Stat. 3291; Pub. L. 102–83, §4(a)(1), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405; Pub. L. 106–259, title VIII, §8147(a), Aug. 9, 2000, 114 Stat. 705; Pub. L. 106–419, title III, §301(b), Nov. 1, 2000, 114 Stat. 1852.)
+
+#### References in Text
+
+Section 8147 of the Department of Defense Appropriations Act, 2001, referred to in subsec. (f), is section 8147 of Pub. L. 106–259, which amended this section and enacted provisions set out as a note below.
 
 #### Amendments
+
+2000—Subsec. (d). Pub. L. 106–419 designated first sentence as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and inserted “or covered disease” after “injury” in subpar. (B) and in concluding provisions, designated second sentence as par. (2) and inserted “or covered disease” after “injury”, designated third sentence as par. (3), and added par. (4).
+
+Subsec. (f). Pub. L. 106–259 added subsec. (f).
 
 1991—Subsec. (a)(1). Pub. L. 102–83, §4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
 
@@ -54,6 +76,20 @@ Subsec. (e). Pub. L. 97–295, §4(3)(B), substituted “title 5 as a preference
 
 Section 2 of Pub. L. 87–102 provided that: “No monetary benefits shall accrue by reason of the amendments made by this Act \[amending this section\] for any period prior to the date of enactment \[July 21, 1961\].”
 
+#### Service in Alaska Territorial Guard
+
+Pub. L. 106–259, title VIII, §8147(b), (c), Aug. 9, 2000, 114 Stat. 705, provided that:
+
+“(b)
+
+Discharge.—(1) The Secretary of Defense shall issue to each individual who served as a member of the Alaska Territorial Guard during World War II a discharge from such service under honorable conditions if the Secretary determines that the nature and duration of the service of the individual so warrants.
+
+“(2) A discharge under paragraph (1) shall designate the date of discharge. The date of discharge shall be the date, as determined by the Secretary, of the termination of service of the individual concerned as described in that paragraph.
+
+“(c)
+
+Prohibition on Retroactive Benefits.—No benefits shall be paid to any individual for any period before the date of the enactment of this Act \[Aug. 9, 2000\] by reason of the enactment of this section \[amending this section and enacting this note\].”
+
 #### Women's Air Forces Service Pilots
 
 Pub. L. 95–202, title IV, §401, Nov. 23, 1977, 91 Stat. 1449, as amended by Pub. L. 96–466, title VIII, §801(m)(3), Oct. 17, 1980, 94 Stat. 2217; Pub. L. 98–94, title XII, §1263(a), Sept. 24, 1983, 97 Stat. 703; Pub. L. 102–83, §6(b), Aug. 6, 1991, 105 Stat. 407, provided that:
@@ -68,7 +104,7 @@ Pub. L. 95–202, title IV, §401, Nov. 23, 1977, 91 Stat. 1449, as amended by P
 
 “(2) In making a determination under clause (A) of paragraph (1) of this subsection with respect to any group described in such paragraph, the Secretary of Defense may take into consideration the extent to which—
 
-&emsp;“(A) such group received military training and acquired a military capability or the service performed by such group was critical to the success of a military mission,
+&emsp;“(A) such group received military training and acquired a military capability or the service performedby such group was critical to the success of a military mission,
 
 &emsp;“(B) the members of such group were subject to military justice, discipline, and control,
 

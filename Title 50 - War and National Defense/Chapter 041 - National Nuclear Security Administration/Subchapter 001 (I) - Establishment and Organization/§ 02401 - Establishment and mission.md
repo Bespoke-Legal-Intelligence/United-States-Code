@@ -28,7 +28,7 @@ In carrying out the mission of the Administration, the Administrator shall ensur
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original “this title”, meaning title XXXII of div. C of Pub. L. 106–65, Oct. 5, 1999, 113 Stat. 953, which is classified principally to this chapter. For complete classification of title XXXII to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in subsec. (a), was in the original “this title”, meaning title XXXII of div. C of Pub. L. 106–65, Oct. 5, 1999, 113 Stat. 953, as amended, which is classified principally to this chapter. For complete classification of title XXXII to the Code, see Short Title note set out below and Tables.
 
 #### Effective Date
 
@@ -47,6 +47,46 @@ Exceptions.—(1) Sections 3202, 3204, 3251, 3295, and 3297 \[enacting sections 
 #### Short Title
 
 Pub. L. 106–65, div. C, title XXXII, §3201, Oct. 5, 1999, 113 Stat. 953, provided that: “This title \[enacting this chapter and sections 7144 to 7144c of Title 42, The Public Health and Welfare, amending sections 5314, 5315, 5595, and 8905a of Title 5, Government Organization and Employees, and sections 7132, 7133, and 7158 of Title 42, repealing sections 2122a, 7143, and 7271b of Title 42, enacting provisions set out as notes under this section, and amending provisions set out as a note under section 435 of this title\] may be cited as the ‘National Nuclear Security Administration Act’.”
+
+#### Study and Report Related to Improving Mission Effectiveness, Partnerships, and Technology Transfer at National Security Laboratories and Nuclear Weapons Production Facilities
+
+Pub. L. 106–398, §1 \[div. C, title XXXI, §3163\], Oct. 30, 2000, 114 Stat. 1654, 1654A–473, provided that:
+
+“(a)
+
+Study and Report Required.—The Secretary of Energy shall direct the Secretary of Energy Advisory Board to study and to submit to the Secretary not later than one year after the date of the enactment of this Act \[Oct. 30, 2000\] a report regarding the following topics:
+
+&emsp;“(1) The advantages and disadvantages of providing the Administrator for Nuclear Security with authority, notwithstanding the limitations otherwise imposed by the Federal Acquisition Regulation, to enter into transactions with public agencies, private organizations, or individuals on terms the Administrator considers appropriate to the furtherance of basic, applied, and advanced research functions. The Advisory Board shall consider, in its assessment of this authority, the management history of the Department of Energy and the effect of this authority on the National Nuclear Security Administration's use of contractors to operate the national security laboratories.
+
+&emsp;“(2) The advantages and disadvantages of establishing and implementing policies and procedures to facilitate the transfer of scientific, technical, and professional personnel among national security laboratories and nuclear weapons production facilities.
+
+&emsp;“(3) The advantages and disadvantages of making changes in—
+
+&emsp;&emsp;“(A) the indemnification requirements for patents or other intellectual property licensed from a national security laboratory or nuclear weapons production facility;
+
+&emsp;&emsp;“(B) the royalty and fee schedules and types of compensation that may be used for patents or other intellectual property licensed to a small business concern from a national security laboratory or nuclear weapons production facility;
+
+&emsp;&emsp;“(C) the licensing procedures and requirements for patents and other intellectual property;
+
+&emsp;&emsp;“(D) the rights given to a small business concern that has licensed a patent or other intellectual property from a national security laboratory or nuclear weapons production facility to bring suit against third parties infringing such intellectual property;
+
+&emsp;&emsp;“(E) the advance funding requirements for a small business concern funding a project at a national security laboratory or nuclear weapons production facility through a funds-in agreement;
+
+&emsp;&emsp;“(F) the intellectual property rights allocated to a business when it is funding a project at a national security laboratory or nuclear weapons production facility through a funds-in agreement; and
+
+&emsp;&emsp;“(G) policies on royalty payments to inventors employed by a contractor operating a national security laboratory or nuclear weapons production facility, including those for inventions made under a funds-in agreement.
+
+“(b)
+
+Definition of Funds-In Agreement.—For the purposes of this section, the term ‘funds-in agreement’ means a contract between the Department and a non-Federal organization under which that organization pays the Department to provide a service or material not otherwise available in the domestic private sector.
+
+“(c)
+
+Submission to Congress.—Not later than one month after receiving the report under subsection (a), the Secretary shall submit to Congress that report, along with the Secretary's recommendations for action and proposals for legislation to implement the recommendations.”
+
+#### Definitions for Purposes of Pub. L. 106–398
+
+Pub. L. 106–398, §1 \[div. C, title XXXI, §3165\], Oct. 30, 2000, 114 Stat. 1654, 1654A–475, provided that: “For purposes of this subtitle \[subtitle E (§§3161–3165) of title XXXI of div. C of H.R. 5408, as enacted by section 1 of Pub. L. 106–398, enacting provisions set out as notes under this section and section 2402 of this title\], the terms ‘national security laboratory’ and ‘nuclear weapons production facility’ have the meanings given such terms in section 3281 of the National Nuclear Security Administration Act (title XXXII of Public Law 106–65; 113 Stat. 968; 50 U.S.C. 2471).”
 
 #### Report Containing Implementation Plan of Secretary of Energy
 

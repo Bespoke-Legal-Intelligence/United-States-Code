@@ -44,7 +44,7 @@ The Commission shall have power—
 
 #### (h) Cooperation with other departments and agencies in performance of educational or promotional activities; outreach activities
 
-(1) The Commission shall, in any of its educational or promotional activities, cooperatewith other departments and agencies in the performance of such educational and promotional activities.
+(1) The Commission shall, in any of its educational or promotional activities, cooperate with other departments and agencies in the performance of such educational and promotional activities.
 
 (2) In exercising its powers under this subchapter, the Commission shall carry out educational and outreach activities (including dissemination of information in languages other than English) targeted to—
 
@@ -92,7 +92,7 @@ All officers, agents, attorneys, and employees of the Commission shall be subjec
 
 (4) There is hereby transferred to the Fund $1,000,000 from the Salaries and Expenses appropriation of the Commission.
 
-(Pub. L. 88–352, title VII, §705, July 2, 1964, 78 Stat. 258; Pub. L. 92–261, §8(d)–(f), Mar. 24, 1972, 86 Stat. 109, 110; Pub. L. 93–608, §3(1), Jan. 2, 1975, 88 Stat. 1972; Pub. L. 95–251, §2(a)(11), Mar. 27, 1978, 92 Stat. 183; Pub. L. 102–166, title I, §§110(a), 111, Nov. 21, 1991, 105 Stat. 1078; Pub. L. 102–411, §2, Oct. 14, 1992, 106 Stat. 2102; Pub. L. 104–66, title II, §2031, Dec. 21, 1995, 109 Stat. 728.)
+(Pub. L. 88–352, title VII, §705, July 2, 1964, 78 Stat. 258; Pub. L. 92–261, §8(d)–(f), Mar. 24, 1972, 86 Stat. 109, 110; Pub. L. 93–608, §3(1), Jan. 2, 1975, 88 Stat. 1972; Pub. L. 95–251, §2(a)(11), Mar. 27,1978, 92 Stat. 183; Pub. L. 102–166, title I, §§110(a), 111, Nov. 21, 1991, 105 Stat. 1078; Pub. L. 102–411, §2, Oct. 14, 1992, 106 Stat. 2102; Pub. L. 104–66, title II, §2031, Dec. 21, 1995, 109 Stat. 728.)
 
 #### References in Text
 
@@ -138,6 +138,10 @@ Section 110(b) of Pub. L. 102–166 provided that: “The amendment made by this
 
 Amendment by section 111 of Pub. L. 102–166 effective Nov. 21, 1991, except as otherwise provided, see section 402 of Pub. L. 102–166, set out as a note under section 1981 of this title.
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsec. (e) of this section is listed in item 20 on page 165), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set out as notes under section 1113 of Title 31, Money and Finance.
+
 #### Reorganization Plan No. 1 of 1978 Superseded by Civil Service Reform Act of 1978
 
 Section 905 of Pub. L. 95–454, Oct. 13, 1978, 92 Stat. 1224, provided in part that any provision in Reorganization Plan No. 1 of 1978 \[set out below\] inconsistent with any provision of that Act \[see Tables for classification\] was superseded thereby.
@@ -156,7 +160,7 @@ All functions related to enforcing or administering Section 6(d) of the Fair Lab
 
 #### Sec. 2. Transfer of Age Discrimination Enforcement Functions
 
-All functions vested in the Secretary of Labor or in the Civil Service Commission pursuant to Sections 2, 4, 7, 8, 9, 10, 11, 12, 13, 14, and 15 of the Age Discrimination in Employment Act of 1967, as amended, (29 U.S.C. 621, 623, 626, 627, 628, 629, 630, 631, 632, 633, and 633a) are hereby transferred to the Equal Employment Opportunity Commission. All functions related to age discrimination administration and enforcement pursuant to Sections 6 and 16 of the Age Discrimination in Employment Act of 1967, as amended, (29 U.S.C. 625 and 634) are hereby transferred to the Equal Employment Opportunity Commission.
+All functions vested in the Secretary of Labor or in the Civil Service Commission pursuant to Sections 2, 4, 7, 8, 9, 10, 11, 12, 13, 14, and 15 of the Age Discrimination in Employment Act of 1967, as amended, (29 U.S.C. 621,623, 626, 627, 628, 629, 630, 631, 632, 633, and 633a) are hereby transferred to the Equal Employment Opportunity Commission. All functions related to age discrimination administration and enforcement pursuant to Sections 6 and 16 of the Age Discrimination in Employment Act of 1967, as amended, (29 U.S.C. 625 and 634) are hereby transferred to the Equal Employment Opportunity Commission.
 
 #### Sec. 3. Transfer of Equal Opportunity in Federal Employment Enforcement Functions
 
@@ -170,7 +174,7 @@ All Federal employment of handicapped individuals enforcement functions and rela
 
 #### Sec. 5. Transfer of Public Sector 707 Functions
 
-Any function of the Equal Employment Opportunity Commission concerning initiation of litigation with respect to State or local government, or political subdivisions under Section 707 of Title VII of the Civil Rights Act of 1964, as amended, (42 U.S.C. 2000e–6) and all necessary functions related thereto, including investigation, findings, notice and an opportunity to resolve the matter without contested litigation, are hereby transferred to the Attorney General, to be exercised by himin accordance with procedures consistent with said Title VII. The Attorney General is authorized to delegate any function under Section 707 of said Title VII to any officer or employee of the Department of Justice.
+Any function of the Equal Employment Opportunity Commission concerning initiation of litigation with respect to State or local government, or political subdivisions under Section 707 of Title VII of the Civil Rights Act of 1964, as amended, (42 U.S.C. 2000e–6) and all necessary functions related thereto, including investigation, findings, notice and an opportunity to resolve the matter without contested litigation, are hereby transferred to the Attorney General, to be exercised by him in accordance with procedures consistent with said Title VII. The Attorney General is authorized to delegate any function under Section 707 of said Title VII to any officer or employee of the Department of Justice.
 
 #### Sec. 6. Transfer of Functions and Abolition of the Equal Employment Opportunity Coordinating Council
 
@@ -262,7 +266,7 @@ It should be stressed, however, that affected agencies will be consulted before 
 
 Transfer of the Civil Service Commission's equal employment opportunity responsibilities to EEOC is needed to ensure that: (1) Federal employees have the same rights and remedies as those in the private sector and in State and local government; (2) Federal agencies meet the same standards as are required of other employers; and (3) potential conflicts between an agency's equal employment opportunity and personnel management functions are minimized. The Federal government must not fall below the standard of performance it expects of private employers.
 
-The Civil Service Commission has in the past been lethargic in enforcing fair employment requirements within the Federal government. While the Chairman and other Commissioners I have appointed have already demonstrated their personal commitment to expanding equal employment opportunity, responsibility for ensuring fair employment for Federal employees should rest ultimately with the EEOC.
+The Civil Service Commission has in the past been lethargic in enforcing fair employment requirementswithin the Federal government. While the Chairman and other Commissioners I have appointed have already demonstrated their personal commitment to expanding equal employment opportunity, responsibility for ensuring fair employment for Federal employees should rest ultimately with the EEOC.
 
 We must ensure that the transfer in no way undermines the important objectives of the comprehensive civil service reorganization which will be submitted to Congress in the near future. When the two plans take effect; I will direct the EEOC and the CSC to coordinate their procedures to prevent any duplication and overlap.
 
@@ -346,7 +350,7 @@ Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 12144, June 22, 1979, 44 F.R. 37193, provided:
 
-By the authority vested in me as President of the United States of America by the Constitution and lawsof the United States, including Section 9 of Reorganization Plan No. 1 of 1978 (43 FR 19807) \[set out above\], in order to effectuate the transfer of certain functions relating to the enforcement of equal pay and age discrimination in employment programs from the Department of Labor to the Equal Employment Opportunity Commission, it is hereby ordered as follows:
+By the authority vested in me as President of the United States of America by the Constitution and laws of the United States, including Section 9 of Reorganization Plan No. 1 of 1978 (43 FR 19807) \[set out above\], in order to effectuate the transfer of certain functions relating to the enforcement of equal pay and age discrimination in employment programs from the Department of Labor to the Equal Employment Opportunity Commission, it is hereby ordered as follows:
 
 1–101. Sections 1 and 2 of Reorganization Plan No. 1 of 1978 (43 FR 19807) \[set out as a note above\] shall become effective on July 1, 1979, with the exception of the transfer of functions from the Civil Service Commission, already effective January 1, 1979 (Executive Order No. 12106 \[set out above\]).
 
@@ -357,10 +361,6 @@ By the authority vested in me as President of the United States of America by th
 1–104. This Order shall be effective July 1, 1979.
 
 Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Cross References
-
-Per diem and mileage of witnesses, see section 1821 et seq. of Title 28, Judiciary and Judicial Procedure.
 
 #### Section Referred to in Other Sections
 

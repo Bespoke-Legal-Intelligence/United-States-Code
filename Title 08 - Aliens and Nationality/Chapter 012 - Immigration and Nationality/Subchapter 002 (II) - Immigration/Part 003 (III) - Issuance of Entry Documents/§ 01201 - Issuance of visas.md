@@ -40,7 +40,7 @@ After the issuance of a visa or other documentation to any alien, the consular o
 
 #### Amendments
 
-1996—Subsec. (c). Pub. L. 104–208, §631, substituted “six months” for “four months” and inserted “; exceptthat in the case of aliens who are nationals of a foreign country and who either are granted refugee status and firmly resettled in another foreign country or are granted permanent residence and residing in another foreign country, the Secretary of State may prescribe the period of validity of such a visa based upon the treatment granted by that other foreign country to alien refugees and permanent residents, respectively, in the United States” after “within a similar class”.
+1996—Subsec. (c). Pub. L. 104–208, §631, substituted “six months” for “four months” and inserted “; except that in the case of aliens who are nationals of a foreign country and who either are granted refugee status and firmly resettled in another foreign country or are granted permanent residence and residing in another foreign country, the Secretary of State may prescribe the period of validity of such a visa based upon the treatment granted by that other foreign country to alien refugees and permanent residents, respectively, in the United States” after “within a similar class”.
 
 Subsec. (f). Pub. L. 104–208, §308(d)(4)(G), substituted “deny admission to” for “exclude”.
 
@@ -64,7 +64,7 @@ Subsec. (c). Pub. L. 99–653, §5(a)(3), formerly §5(a)(c), as redesignated by
 
 Subsec. (c). Pub. L. 89–236, §11(b), struck out references to “quota” wherever appearing.
 
-Subsec. (g). Pub. L. 89–236, §17, inserted proviso permitting issuance of student or visitors visas in cases where the alien gives a bond so as to allow resolution of doubts in borderline cases in which the consular officer is uncertain as to the bona fides of the nonimmigrant's intention to remain in the United States temporarily.
+Subsec. (g). Pub. L. 89–236, §17, inserted proviso permitting issuance of student or visitors visas in caseswhere the alien gives a bond so as to allow resolution of doubts in borderline cases in which the consular officer is uncertain as to the bona fides of the nonimmigrant's intention to remain in the United States temporarily.
 
 1961—Subsec. (c). Pub. L. 87–301 provided that an immigrant visa issued to a child adopted by a United States citizen and spouse while such citizen is serving abroad in the United States Armed Forces or employed abroad by our Government, or temporarily abroad on business, shall remain valid to such time, but not exceeding three years, as the adoptive parent returns to the United States in due course of service, employment or business.
 
@@ -102,7 +102,7 @@ Policy.—It shall be the policy of the Department of State to process immigrant
 
 “(b)
 
-Reports.—Not later than 180 days after the date of enactment of this Act \[Nov. 29, 1999\], and not later than 1 year thereafter, the Secretary of State shall submit to the appropriate congressional committees a report on the extent to which the Department of State is meeting the policy standards under subsection (a). Each report shall be based on a survey of the 22 consular posts which account for approximately 72 percent of immigrant visas issued and, in addition, the consular posts in Guatemala City, Nicosia, Caracas, Naples, and Jakarta. Each report should include data on the average time for processing each category of visa application under subsection (a), a list of the embassies and consular posts which do not meet the policy standards under subsection (a), the amount of funds collected worldwide for processing of visa applications during the most recent fiscal year, the estimated costs of processing such visa applications (based on the Department of State's most recent fee study), the steps being taken by the Department of State to achieve such policy standards, and results achieved by the interagency working group charged with the goal of reducing the overall processing time for visa applications.”
+Reports.—Not later than 180 days after the date of enactment of this Act \[Nov. 29, 1999\], and not later than 1 year thereafter, the Secretary of State shall submit to the appropriate congressional committees \[Committee on International Relations of the House of Representatives and Committee on Foreign Relations of the Senate\] a report on the extent to which the Department of State is meeting the policy standards under subsection (a). Each report shall be based on a survey of the 22 consular posts which account for approximately 72 percent of immigrant visas issued and, in addition, the consular posts in Guatemala City, Nicosia, Caracas, Naples, and Jakarta. Each report should include data on the average time for processing each category of visa application under subsection (a), a list of the embassies and consular posts which do not meet the policy standards under subsection (a), the amount of funds collected worldwide for processing of visa applications during the most recent fiscal year, the estimated costs of processing such visa applications (based on the Department of State's most recent fee study), the steps being taken by the Department of State to achieve such policy standards, and results achieved by the interagency working group charged with the goal of reducing the overall processing time for visa applications.”
 
 #### Permitting Extension of Period of Validity of Immigrant Visas for Certain Residents of Hong Kong
 
@@ -114,7 +114,7 @@ Extending Period of Validity.—
 
 &emsp;“(1)
 
-In general.—Subject to paragraph (2), the limitation on the period of validity of an immigrant visa under section 221(c) of the Immigration and Nationality Act \[8 U.S.C. 1201(c)\] shall not apply in the case of an immigrant visa issued, on or after the date ofthe enactment of this Act \[Nov. 29, 1990\] and before September 1, 2001, to an alien described in subsection (b), but only if—
+In general.—Subject to paragraph (2), the limitation on the period of validity of an immigrant visa under section 221(c) of the Immigration and Nationality Act \[8 U.S.C. 1201(c)\] shall not apply in the case of an immigrant visa issued, on or after the date of the enactment of this Act \[Nov. 29, 1990\] and before September 1, 2001, to an alien described in subsection (b), but only if—
 
 &emsp;&emsp;“(A) the alien elects, within the period of validity of the immigrant visa under such section, to have this section apply, and
 
@@ -205,52 +205,6 @@ Definitions.—For purposes of this section:
 &emsp;“(1) The term ‘process’ means the acceptance and review of applications and the preparation of necessary documents and the making of appropriate determinations with respect to such applications.
 
 &emsp;“(2) The term ‘refugee’ has the meaning given such term in section 101(a)(42) of the Immigration and Nationality Act \[8 U.S.C. 1101(a)(42)\].”
-
-#### Cross References
-
-Bonds—
-
-&emsp;&emsp;Bond from nonimmigrant alien as prerequisite to admission to the United States, see section 1184 of this title.
-
-&emsp;&emsp;Bond or undertaking as prerequisite to admission of aliens likely to become public charges or with certain physical disabilities, see section 1183 of this title.
-
-&emsp;&emsp;Exaction from excludable aliens applying for temporary admission, see section 1182 of this title.
-
-&emsp;&emsp;Forms to be prescribed by Attorney General, see section 1103 of this title.
-
-Definition of the term—
-
-&emsp;&emsp;Alien, see section 1101(a)(3) of this title.
-
-&emsp;&emsp;Attorney General, see section 1101(a)(5) of this title.
-
-&emsp;&emsp;Consular officer, see section 1101(a)(9) of this title.
-
-&emsp;&emsp;Crewman, see section 1101(a)(10) of this title.
-
-&emsp;&emsp;Diplomatic visa, see section 1101(a)(11) of this title.
-
-&emsp;&emsp;Entry, see section 1101(a)(13) of this title.
-
-&emsp;&emsp;Immigrant, see section 1101(a)(15) of this title.
-
-&emsp;&emsp;Immigrant visa, see section 1101(a)(16) of this title.
-
-&emsp;&emsp;Immigration officer, see section 1101(a)(18) of this title.
-
-&emsp;&emsp;National, see section 1101(a)(21) of this title.
-
-&emsp;&emsp;National of the United States, see section 1101(a)(22) of this title.
-
-&emsp;&emsp;Nonimmigrant alien, see section 1101(a)(15) of this title.
-
-&emsp;&emsp;Nonimmigrant visa, see section 1101(a)(26) of this title.
-
-&emsp;&emsp;Passport, see section 1101(a)(30) of this title.
-
-&emsp;&emsp;United States, see section 1101(a)(38) of this title.
-
-Passports, see section 211a et seq. of Title 22, Foreign Relations and Intercourse.
 
 #### Section Referred to in Other Sections
 

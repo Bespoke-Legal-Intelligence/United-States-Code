@@ -80,5 +80,5 @@ Subchapter effective 120 days after Nov. 1, 1978, see section 1261 of Pub. L. 95
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1234d of this title.
+This section is referred to in sections 1234d, 8071h of this title.
 

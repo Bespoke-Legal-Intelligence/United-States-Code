@@ -182,7 +182,7 @@ Nothing in this section shall be construed to prohibit a State from designating 
 
 #### (E) Use of funds
 
-&emsp;&emsp;A hospital receiving a grant under this paragraph may use the funds for the purchase of computer software and hardware, the education and training of hospital staffon computer information systems, and to offset costs related to the implementation of prospective payment systems.
+&emsp;&emsp;A hospital receiving a grant under this paragraph may use the funds for the purchase of computer software and hardware, the education and training of hospital staff on computer information systems, and to offset costs related to the implementation of prospective payment systems.
 
 #### (F) Reports
 
@@ -222,7 +222,7 @@ There are authorized to be appropriated from the Federal Hospital Insurance Trus
 
 #### References in Text
 
-The Balanced Budget Act of 1997, referred to in subsec. (g)(3)(A), is Pub. L. 105–33, Aug. 5, 1997, 111 Stat. 251. For complete classification of this Act to the Code, see Tables.
+The Balanced Budget Act of 1997, referred to in subsec. (g)(3)(A), is Pub. L. 105–33, Aug. 5, 1997, 111 Stat. 251.For complete classification of this Act to the Code, see Tables.
 
 Part D of this subchapter, referred to in subsec. (i), is classified to section 1395x et seq. of this title.
 
@@ -254,7 +254,7 @@ Subsec. (e)(1)(A). Pub. L. 103–432, §102(b)(1)(A)(ii), substituted “except 
 
 Subsec. (e)(2) to (6). Pub. L. 103–432, §102(b)(1)(A)(i), redesignated pars. (2) to (6) as (1) to (5), respectively.
 
-Subsec. (f)(1)(F). Pub. L. 103–432, §102(a)(1), amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “provides not more than 6 inpatientbeds (meeting such conditions as the Secretary may establish) for providing inpatient care for a period not to exceed 72 hours (unless a longer period is required because transfer to a hospital is precluded because of inclement weather or other emergency conditions) to patients requiring stabilization before discharge or transfer to a hospital;”.
+Subsec. (f)(1)(F). Pub. L. 103–432, §102(a)(1), amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “provides not more than 6 inpatient beds (meeting such conditions as the Secretary may establish) for providing inpatient care for a period not to exceed 72 hours (unless a longer period is required because transfer to a hospital is precluded because of inclement weather or other emergency conditions) to patients requiring stabilization before discharge or transfer to a hospital;”.
 
 Subsec. (f)(1)(H). Pub. L. 103–432, §102(f), inserted before period at end “, except that in determining whether a facility meets the requirements of this subparagraph, subparagraphs (E) and (F) of that paragraph shall be applied as if any reference to a ‘physician’ is a reference to a physician as defined in section 1395x(r)(1) of this title”.
 
@@ -290,7 +290,7 @@ Subsec. (j). Pub. L. 101–508, §4008(m)(2)(B)(iii), inserted “and part C of 
 
 Amendment by section 1000(a)(6) \[title III, §321(a)\] of Pub. L. 106–113 effective as if included in the enactment of the Balanced Budget Act of 1997, Pub. L. 105–33, except as otherwise provided, see section 1000(a)(6) \[title III, §321(m)\] of Pub. L. 106–113, set out as a note under section 1395d of this title.
 
-Pub. L. 106–113, div. B, §1000(a)(6) \[title IV, §401(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–369, provided that: “The amendments made by this section \[amending this section and sections 1395<i>l</i> and 1395ww of this title\] shall become effective on January 1, 2000.”
+Pub. L. 106–113, div. B, §1000(a)(6) \[title IV, §401(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–369, provided that:“The amendments made by this section \[amending this section and sections 1395<i>l</i> and 1395ww of this title\] shall become effective on January 1, 2000.”
 
 Pub. L. 106–113, div. B, §1000(a)(6) \[title IV, §403(a)(2)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–370, provided that: “The amendment made by paragraph (1) \[amending this section\] takes effect on the date of the enactment of this Act \[Nov. 29, 1999\].”
 
@@ -301,6 +301,30 @@ Amendment by section 4201(a) of Pub. L. 105–33 applicable to services furnishe
 #### Effective Date of 1990 Amendment
 
 Section 4008(d)(4) of Pub. L. 101–508 provided that: “The amendments made by paragraphs (1), (2), and (3) \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 5, 1990\].”
+
+#### GAO Study on Certain Eligibility Requirements for Critical Access Hospitals
+
+Pub. L. 106–554, §1(a)(6) \[title II, §206\], Dec. 21, 2000, 114 Stat. 2763, 2763A–483, provided that:
+
+“(a)
+
+Study.—The Comptroller General of the United States shall conduct a study on the eligibility requirements for critical access hospitals under section 1820(c) of the Social Security Act (42 U.S.C. 1395i–4(c)) with respect to limitations on average length of stay and number of beds in such a hospital, including an analysis of—
+
+&emsp;“(1) the feasibility of having a distinct part unit as part of a critical access hospital for purposes of the medicare program under title XVIII of such Act \[this subchapter\]; and
+
+&emsp;“(2) the effect of seasonal variations in patient admissions on critical access hospital eligibility requirements with respect to limitations on average annual length of stay and number of beds.
+
+“(b)
+
+Report.—Not later than 1 year after the date of the enactment of this Act \[Dec. 21, 2000\], the Comptroller General shall submit to Congress a report on the study conducted under subsection (a) together with recommendations regarding—
+
+&emsp;“(1) whether distinct part units should be permitted as part of a critical access hospital under the medicare program;
+
+&emsp;“(2) if so permitted, the payment methodologies that should apply with respect to services provided by such units;
+
+&emsp;“(3) whether, and to what extent, such units should be included in or excluded from the bed limits applicable to critical access hospitals under the medicare program; and
+
+&emsp;“(4) any adjustments to such eligibility requirements to account for seasonal variations in patient admissions.”
 
 #### Transition for MAF
 

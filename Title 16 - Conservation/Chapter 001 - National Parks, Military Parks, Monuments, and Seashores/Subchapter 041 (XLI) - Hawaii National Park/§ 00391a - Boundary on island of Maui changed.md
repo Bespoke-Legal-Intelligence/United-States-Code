@@ -22,7 +22,7 @@ Beginning at a triangle on set stone, said mark being the Government survey tria
 
 9\. One hundred and thirty-eight degrees forty-two minutes thirty seconds nine thousand five hundred and seventy-four and two-tenths feet along the remaining portion of said land of Nuu to a cross on rock, the true azimuth and distance to Government survey triangulation station Haleakala 2 being one hundred and seventy-nine degrees thirteen minutes fifteen seconds nine hundred and forty-three and two-tenths feet.
 
-10\. Ninety-one degrees thirty-four minutes forty-five seconds nine thousand nine hundred and sixty and four-tenths feet along same to a concrete monument marked Number 14, the true azimuth and distance from said monument to anarrow on rock called Kumuiliahi, marking the northeast corner of the land of Nakula, being one hundred and sixty-seven degrees twenty-eight minutes nine hundred and twenty-eight and seven-tenths feet
+10\. Ninety-one degrees thirty-four minutes forty-five seconds nine thousand nine hundred and sixty and four-tenths feet along same to a concrete monument marked Number 14, the true azimuth and distance from said monument to an arrow on rock called Kumuiliahi, marking the northeast corner of the land of Nakula, being one hundred and sixty-seven degrees twenty-eight minutes nine hundred and twenty-eight and seven-tenths feet
 
 11\. Ninety degrees twenty-three minutes thirty seconds twelve thousand two hundred and forty-nine and three-tenths feet along the remaining portion of the lands of Nakula and Kahikinui to a concrete monument marked Number 15.
 
@@ -38,9 +38,9 @@ Beginning at a triangle on set stone, said mark being the Government survey tria
 
 (Feb. 12, 1927, ch. 111, §1, 44 Stat. 1087.)
 
-#### Haleakala National Park
+#### Haleakala�AE8 National Park
 
-Establishment of detached portion of Hawaii National Park lying on island of Maui as Haleakala National Park, effective July 1, 1961, see section 396b of this title.
+Establishment of detached portion of Hawaii National Park lying on island of Maui as Haleakala�AE8 National Park, effective July 1, 1961, see section 396b of this title.
 
 #### Section Referred to in Other Sections
 

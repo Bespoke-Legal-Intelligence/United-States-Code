@@ -24,7 +24,7 @@ The Secretary may not, through policy letters or other statements, establish a r
 
 #### (e) Issues of national significance
 
-If the Secretary receives a written request regarding a policy, question, or interpretation under subchapter II of this chapter, and determines that it raises an issue of general interest or applicability of national significance to the implementation of subchapter II of this chapter, the Secretary shall—
+If the Secretary receives a written request regarding a policy, question, or interpretationunder subchapter II of this chapter, and determines that it raises an issue of general interest or applicability of national significance to the implementation of subchapter II of this chapter, the Secretary shall—
 
 &emsp;(1) include a statement to that effect in any written response;
 

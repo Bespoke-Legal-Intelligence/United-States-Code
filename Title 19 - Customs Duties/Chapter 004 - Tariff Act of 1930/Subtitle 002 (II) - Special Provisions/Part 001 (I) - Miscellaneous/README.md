@@ -17,7 +17,7 @@ This part is referred to in section 1401 of this title.
 - [&sect; 01305 - Immoral articles; importation prohibited](%C2%A7%2001305%20-%20Immoral%20articles%3B%20importation%20prohibited.md)
 - [&sect; 01306 - Cattle, sheep, swine, and meats; importation prohibited in certain cases](%C2%A7%2001306%20-%20Cattle%2C%20sheep%2C%20swine%2C%20and%20meats%3B%20importation%20prohibited%20in%20certain%20cases.md)
 - [&sect; 01307 - Convict-made goods; importation prohibited](%C2%A7%2001307%20-%20Convict-made%20goods%3B%20importation%20prohibited.md)
-- [&sect; 01308 - Repealed. Pub. L. 87&#8211;456, title III, &sect;301(a), May 24, 1962, 76 Stat. 75](%C2%A7%2001308%20-%20Repealed.%20Pub.%20L.%2087%E2%80%93456%2C%20title%20III%2C%20%C2%A7301%28a%29%2C%20May%2024%2C%201962%2C%2076%20Stat.%2075.md)
+- [&sect; 01308 - Prohibition on importation of dog and cat fur products](%C2%A7%2001308%20-%20Prohibition%20on%20importation%20of%20dog%20and%20cat%20fur%20products.md)
 - [&sect; 01309 - Supplies for certain vessels and aircraft](%C2%A7%2001309%20-%20Supplies%20for%20certain%20vessels%20and%20aircraft.md)
 - [&sect; 01310 - Free importation of merchandise recovered from sunken and abandoned vessels](%C2%A7%2001310%20-%20Free%20importation%20of%20merchandise%20recovered%20from%20sunken%20and%20abandoned%20vessels.md)
 - [&sect; 01311 - Bonded manufacturing warehouses](%C2%A7%2001311%20-%20Bonded%20manufacturing%20warehouses.md)

@@ -1,34 +1,44 @@
 ### §1168. Rolling stock equipment
 
-(a)(1) The right of a secured party with a security interest in or of a lessor or conditional vendor of equipment described in paragraph (2) to take possession of such equipment in compliance with an equipment security agreement, lease, or conditional sale contract is not affected by section 362, 363, or 1129 or by any power of the court to enjoin the taking of possession, unless—
+(a)(1) The right of a secured party with a security interest in or of a lessor or conditional vendor of equipment described in paragraph (2) to take possession of such equipment in compliance with an equipment security agreement, lease, or conditional sale contract, and to enforce any of its other rights or remedies under such security agreement, lease, or conditional sale contract, to sell, lease, or otherwise retain or dispose of such equipment, is not limited or otherwise affected by any other provision of this title or by any power of the court, except that right to take possession and enforce those other rights and remedies shall be subject to section 362, if—
 
-&emsp;(A) before the date that is 60 days after the date of commencement of a case under this chapter, the trustee, subject to the court's approval, agrees to perform all obligations of the debtor that become due on or after the date of commencement of the case under such security agreement, lease, or conditional sale contract; and
+&emsp;(A) before the date that is 60 days after the date of commencement of a case under this chapter, the trustee, subject to the court's approval, agrees to perform all obligations of the debtor under such security agreement, lease, or conditional sale contract; and
 
 &emsp;(B) any default, other than a default of a kind described in section 365(b)(2), under such security agreement, lease, or conditional sale contract—
 
-&emsp;&emsp;(i) that occurs before the date of commencement of the case and is an event of default therewith is cured before the expiration of such 60-day period; and
+&emsp;&emsp;(i) that occurs before the date of commencement of the case and is an event of default therewith is cured before the expiration of such 60-day period;
 
-&emsp;&emsp;(ii) that occurs or becomes an event of default after the date of commencement of the case is cured before the later of—
+&emsp;&emsp;(ii) that occurs or becomes an event of default after the date of commencement of the case and before the expiration of such 60-day period is cured before the later of—
 
-&emsp;&emsp;&emsp;(I) the date that is 30 days after the date of the default or event of default; or
+&emsp;&emsp;&emsp;(I) the date that is 30 days after the date of the default or event of the default; or
 
-&emsp;&emsp;&emsp;(II) the expiration of such 60-day period.
+&emsp;&emsp;&emsp;(II) the expiration of such 60-day period; and
 
-(2) Equipment is described in this paragraph if it is rolling stock equipment or accessories used on such equipment, including superstructures and racks, that is subject to a security interest granted by, leased to, or conditionally sold to the debtor.
+&emsp;&emsp;(iii) that occurs on or after the expiration of such 60-day period is cured in accordance with the terms of such security agreement, lease, or conditional sale contract, if cure is permitted under that agreement, lease, or conditional sale contract.
+
+(2) The equipment described in this paragraph—
+
+&emsp;(A) is rolling stock equipment or accessories used on rolling stock equipment, including superstructures or racks, that is subject to a security interest granted by, leased to, or conditionally sold to a debtor; and
+
+&emsp;(B) includes all records and documents relating to such equipment that are required, under the terms of the security agreement, lease, or conditional sale contract, that is to be surrendered or returned by the debtor in connection with the surrender or return of such equipment.
 
 (3) Paragraph (1) applies to a secured party, lessor, or conditional vendor acting in its own behalf or acting as trustee or otherwise in behalf of another party.
 
 (b) The trustee and the secured party, lessor, or conditional vendor whose right to take possession is protected under subsection (a) may agree, subject to the court's approval, to extend the 60-day period specified in subsection (a)(1).
 
-(c) With respect to equipment first placed in service on or prior to the date of enactment of this subsection, for purposes of this section—
+(c)(1) In any case under this chapter, the trustee shall immediately surrender and return to a secured party, lessor, or conditional vendor, described in subsection (a)(1), equipment described in subsection (a)(2), if at any time after the date of commencement of the case under this chapter such secured party, lessor, or conditional vendor is entitled pursuant to subsection (a)(1) to take possession of such equipment and makes a written demand for such possession of the trustee.
+
+(2) At such time as the trustee is required under paragraph (1) to surrender and return equipment described in subsection (a)(2), any lease of such equipment, and any security agreement or conditional sale contract relating to such equipment, if such security agreement or conditional sale contract is an executory contract, shall be deemed rejected.
+
+(d) With respect to equipment first placed in service on or prior to October 22, 1994, for purposes of this section—
 
 &emsp;(1) the term “lease” includes any written agreement with respect to which the lessor and the debtor, as lessee, have expressed in the agreement or in a substantially contemporaneous writing that the agreement is to be treated as a lease for Federal income tax purposes; and
 
 &emsp;(2) the term “security interest” means a purchase-money equipment security interest.
 
-(d) With respect to equipment first placed in service after the date of enactment of this subsection, for purposes of this section, the term “rolling stock equipment” includes rolling stock equipment that is substantially rebuilt and accessories used on such equipment.
+(e) With respect to equipment first placed in service after October 22, 1994, for purposes of this section, the term “rolling stock equipment” includes rolling stock equipment that is substantially rebuilt and accessories used on such equipment.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2642; Pub. L. 98–353, title III, §519, July 10, 1984, 98 Stat. 388; Pub. L. 103–394, title II, §201(b), Oct. 22, 1994, 108 Stat. 4120.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2642; Pub. L. 98–353, title III, §519, July 10, 1984, 98 Stat. 388; Pub. L. 103–394, title II, §201(b), Oct. 22, 1994, 108 Stat. 4120; Pub. L. 106–181, title VII, §744(a), Apr. 5, 2000, 114 Stat. 175.)
 
 #### Historical and Revision Notes
 
@@ -44,11 +54,9 @@ Section 1175 \[enacted as section 1168\] continues the protection accorded in pr
 
 \[Section 1166\] This section \[enacted as section 1168\], derived with changes from the last sentence of present section 77(j) \[section 205(j) of former title 11\], protects the interests of rolling stock equipment financers, while providing the trustee with some opportunity to cure defaults, agree to make payments, and retain and use the equipment. The provision is parallel to section 1110, concerning aircraft equipment and vessels.
 
-#### References in Text
-
-The date of enactment of this subsection, referred to in subsecs. (c) and (d), is the date of enactment of Pub. L. 103–394, which added subsecs. (c) and (d) and was approved Oct. 22, 1994.
-
 #### Amendments
+
+2000—Pub. L. 106–181 amended section catchline and text generally, substituting present provisions consisting of subsecs. (a) to (e) for former subsecs. (a) to (d) which contained somewhat similar provisions.
 
 1994—Pub. L. 103–394 amended section generally. Prior to amendment, section read as follows:
 
@@ -69,6 +77,10 @@ The date of enactment of this subsection, referred to in subsecs. (c) and (d), i
 “(b) The trustee and the secured party, lessor, or conditional vendor, as the case may be, whose right to take possession is protected under subsection (a) of this section, may agree, subject to the court's approval, to extend the 60-day period specified in subsection (a)(1) of this section.”
 
 1984—Subsec. (b). Pub. L. 98–353 inserted a comma after “approval”.
+
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of Title 49, Transportation.
 
 #### Effective Date of 1994 Amendment
 

@@ -2,7 +2,7 @@
 
 #### (a) Civil remedies
 
-(1) The Attorney General may bring an action in an appropriate United States district court for appropriate declaratory and injunctive relief against any person who violates this chapter or any regulation under this chapter.
+(1) The Attorney General may bring an action in an appropriate United States district courtfor appropriate declaratory and injunctive relief against any person who violates this chapter or any regulation under this chapter.
 
 (2) An action under paragraph (1) may not be brought more than 10 years after the date on which the cause of action accrues.
 
@@ -32,7 +32,7 @@
 
 (1) The Secretary may designate officers or employees of the Department of Commerce to conduct investigations pursuant to this chapter. In conducting such investigations, those officers or employees may, to the extent necessary or appropriate to the enforcement of this chapter, exercise such authorities as are conferred upon them by other laws of the United States, subject to policies and procedures approved by the Attorney General.
 
-(2) The Secretary shall establish and maintain a hotline system to facilitate the reporting ofalleged violations of this chapter, and the Secretary shall evaluate allegations reported through that system and report any credible allegations to the Attorney General.
+(2) The Secretary shall establish and maintain a hotline system to facilitate the reporting of alleged violations of this chapter, and the Secretary shall evaluate allegations reported through that system and report any credible allegations to the Attorney General.
 
 (Pub. L. 101–592, §6, formerly §9, Nov. 16, 1990, 104 Stat. 2950; Pub. L. 104–113, §11(g), Mar. 7, 1996, 110 Stat. 782; renumbered §6 and amended Pub. L. 106–34, §6, June 8, 1999, 113 Stat. 122.)
 

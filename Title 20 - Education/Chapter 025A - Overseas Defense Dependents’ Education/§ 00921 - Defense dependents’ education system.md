@@ -24,7 +24,7 @@ The Secretary of Defense shall establish and operate a program (hereinafter in t
 
 #### (c) Consultation requirements
 
-The Secretary of Defense shall consult with the Secretary of Education on the educationalprograms and practices of the defense dependents’ education system.
+The Secretary of Defense shall consult with the Secretary of Education on the educational programs and practices of the defense dependents’ education system.
 
 #### (d) Optional summer school programs
 

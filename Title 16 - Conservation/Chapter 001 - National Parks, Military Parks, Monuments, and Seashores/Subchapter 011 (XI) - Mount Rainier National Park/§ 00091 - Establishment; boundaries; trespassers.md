@@ -4,10 +4,6 @@ All those certain tracts, pieces, or parcels of land lying and being in the Stat
 
 (Mar. 2, 1899, ch. 377, §1, 30 Stat. 993.)
 
-#### Cross References
-
-Boundary changes and addition of lands to Mount Rainier National Park, see sections 107 to 109 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 92, 108, 110c of this title.

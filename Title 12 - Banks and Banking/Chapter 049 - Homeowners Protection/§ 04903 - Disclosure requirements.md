@@ -4,7 +4,7 @@
 
 #### (1) Disclosures for non-exempted transactions
 
-&emsp;In any case in which private mortgage insurance is required in connection with a residential mortgage or mortgage transaction (other than a mortgage or mortgage transaction described in section 4902(f)(1) of this title), at the time at which the transaction is consummated, the mortgagee shall provide to the mortgagor—
+&emsp;In any case in which private mortgage insurance is required in connection with a residential mortgage transaction (other than a residential mortgage transaction described in section 4902(g)(1) of this title), at the time at which the transaction is consummated, the mortgagee shall provide to the mortgagor—
 
 &emsp;&emsp;(A) if the transaction relates to a fixed rate mortgage—
 
@@ -12,13 +12,13 @@
 
 &emsp;&emsp;&emsp;(ii) written notice—
 
-&emsp;&emsp;&emsp;&emsp;(I) that the mortgagor may cancel the requirement in accordance with section 4902(a) of this title indicating the date on which the mortgagor may request cancellation, based solely on the initial amortization schedule;
+&emsp;&emsp;&emsp;&emsp;(I) that the mortgagor may cancel the requirement in accordance with section 4902(a) of this title indicating the date onwhich the mortgagor may request cancellation, based solely on the initial amortization schedule;
 
 &emsp;&emsp;&emsp;&emsp;(II) that the mortgagor may request cancellation in accordance with section 4902(a) of this title earlier than provided for in the initial amortization schedule, based on actual payments;
 
 &emsp;&emsp;&emsp;&emsp;(III) that the requirement for private mortgage insurance will automatically terminate on the termination date in accordance with section 4902(b) of this title, and what that termination date is with respect to that mortgage; and
 
-&emsp;&emsp;&emsp;&emsp;(IV) that there are exemptions to the right to cancellation and automatic termination of a requirement for private mortgage insurance in accordance with section 4902(f) of this title, and whether such an exemption applies at that time to that transaction; and
+&emsp;&emsp;&emsp;&emsp;(IV) that there are exemptions to the right to cancellation and automatic termination of a requirement for private mortgage insurance in accordance with section 4902(g) of this title, and whether such an exemption applies at that time to that transaction; and
 
 &emsp;&emsp;(B) if the transaction relates to an adjustable rate mortgage, a written notice that—
 
@@ -26,11 +26,11 @@
 
 &emsp;&emsp;&emsp;(ii) the requirement for private mortgage insurance will automatically terminate on the termination date, and that on the termination date, the mortgagor will be notified of the termination or that the requirement will be terminated as soon as the mortgagor is current on loan payments; and
 
-&emsp;&emsp;&emsp;(iii) there are exemptions to the right of cancellation and automatic termination of a requirement for private mortgage insurance in accordance with section 4902(f) of this title, and whether such an exemption applies at that time to that transaction.
+&emsp;&emsp;&emsp;(iii) there are exemptions to the right of cancellation and automatic termination of a requirement for private mortgage insurance in accordance with section 4902(g) of this title, and whether such an exemption applies at that time to that transaction.
 
 #### (2) Disclosures for excepted transactions
 
-&emsp;In the case of a mortgage or mortgage transaction described in section 4902(f)(1) of this title, at the time at which the transaction is consummated, the mortgagee shall provide written notice to the mortgagor that in no case may private mortgage insurance be required beyond the date that is the midpoint of the amortization period of the loan, if the mortgagor is current on payments required by the terms of the residential mortgage.
+&emsp;In the case of a residential mortgage transaction described in section 4902(g)(1) of this title, at the time at which the transaction is consummated, the mortgagee shall provide written notice to the mortgagor that in no case may private mortgage insurance be required beyond the date that is the midpoint of the amortization period of the loan, if the mortgagor is current on payments required by the terms of the residential mortgage.
 
 #### (3) Annual disclosures
 
@@ -54,19 +54,31 @@ If private mortgage insurance was required in connection with a residential mort
 
 #### (c) Inclusion in other annual notices
 
-The information and disclosures required under subsection (b) of this section and paragraphs (1)(B) and (3) of subsection (a) of this section may be provided on the annual disclosure relating to the escrow account made as required under the Real Estate Settlement Procedures Act of 1974 \[12 U.S.C. 2601 et seq.\], or as part of the annual disclosure of interest payments made pursuant to Internal Revenue Service regulations, and on a form promulgated by the Internal Revenue Service for that purpose.
+The information and disclosures required under subsection (b) of this section and subsection (a)(3) of this section may be provided on the annual disclosure relating to the escrow account made as required under the Real Estate Settlement Procedures Act of 1974 \[12 U.S.C. 2601 et seq.\], or as part of the annual disclosure of interest payments made pursuant to Internal Revenue Service regulations, and on a form promulgated by the Internal Revenue Service for that purpose.
 
 #### (d) Standardized forms
 
-The mortgagee or servicer may use standardized forms for the provision of disclosures required under this section.
+The mortgagee or servicer may use standardized forms for the provision of disclosures required under this section, which disclosures shall relate to the mortgagor's rights under this chapter.
 
-(Pub. L. 105–216, §4, July 29, 1998, 112 Stat. 902.)
+(Pub. L. 105–216, §4, July 29, 1998, 112 Stat. 902; Pub. L. 106–569, title IV, §§402(c)(2), 403(b), Dec. 27, 2000, 114 Stat. 2957.)
 
 #### References in Text
 
 The effective date of this chapter, referred to in subsec. (b), is 1 year after July 29, 1998, see section 13 of Pub. L. 105–216, set out as an Effective Date note under section 4901 of this title.
 
 The Real Estate Settlement Procedures Act of 1974, referred to in subsec. (c), is Pub. L. 93–533, Dec. 22, 1974, 88 Stat. 1724, as amended, which is classified principally to chapter 27 (§2601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of this title and Tables.
+
+#### Amendments
+
+2000—Subsec. (a)(1). Pub. L. 106–569, §§402(c)(2)(A)(i), 403(b)(1)(A), substituted “residential mortgage transaction (other than a residential mortgage transaction described in section 4902(g)(1) of this title)” for “residential mortgage or mortgage transaction (other than a mortgage or mortgage transaction described in section 4902(f)(1) of this title)” in introductory provisions.
+
+Subsec. (a)(1)(A)(ii)(IV), (B)(iii). Pub. L. 106–569, §402(c)(2)(A)(ii), (iii), substituted “section 4902(g) of this title” for “section 4902(f) of this title”.
+
+Subsec. (a)(2). Pub. L. 106–569, §§402(c)(2)(B), 403(b)(1)(B), substituted “residential mortgage transaction” for “mortgage or mortgage transaction” and “section 4902(g)(1) of this title” for “section 4902(f)(1) of this title”.
+
+Subsec. (c). Pub. L. 106–569, §403(b)(2), substituted “subsection (a)(3) of this section” for “paragraphs (1)(B) and (3) of subsection (a) of this section”.
+
+Subsec. (d). Pub. L. 106–569, §403(b)(3), inserted before period at end “, which disclosures shall relate to the mortgagor's rights under this chapter”.
 
 #### Section Referred to in Other Sections
 

@@ -70,7 +70,7 @@ Regulations.—The Secretary of Defense shall prescribe regulations to carry out
 
 1993—Pub. L. 103–160, §1105(b)(2), inserted “; Defense Cooperation Account” in section catchline.
 
-Subsec. (i). Pub. L. 103–160, §1105(b)(1), substituted “Periodic Audits” for “Annual Audit” in heading and amended text generally. Prior to amendment, text read as follows: “The Comptroller General of the United States shall conduct an annual audit of money and property accepted by the Secretary of Defense under this section and shall submit a copy of the results of each such audit to Congress.”
+Subsec. (i). Pub. L. 103–160, §1105(b)(1), substituted “Periodic Audits” for “Annual Audit” in heading and amended text generally. Prior to amendment, text readas follows: “The Comptroller General of the United States shall conduct an annual audit of money and property accepted by the Secretary of Defense under this section and shall submit a copy of the results of each such audit to Congress.”
 
 1991—Subsec. (g)(1). Pub. L. 102–190 inserted “(1)” before “Upon request”.
 

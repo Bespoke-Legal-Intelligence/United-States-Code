@@ -26,4 +26,4 @@
 - [&sect; 00234 to 236 - Repealed. June 22, 1948, ch. 605, &sect;3, 62 Stat. 576](%C2%A7%2000234%20to%20236%20-%20Repealed.%20June%2022%2C%201948%2C%20ch.%20605%2C%20%C2%A73%2C%2062%20Stat.%20576.md)
 - [&sect; 00236a - Lands in naval petroleum reserves and naval oil-shale reserves; effect of other laws](%C2%A7%2000236a%20-%20Lands%20in%20naval%20petroleum%20reserves%20and%20naval%20oil-shale%20reserves%3B%20effect%20of%20other%20laws.md)
 - [&sect; 00236b - Existing leases within naval petroleum reserves not affected](%C2%A7%2000236b%20-%20Existing%20leases%20within%20naval%20petroleum%20reserves%20not%20affected.md)
-- [&sect; 00237 - Delinquent royalty accounts under leases regulating development of oil and gas on Federal lands; recommendations for corrective action](%C2%A7%2000237%20-%20Delinquent%20royalty%20accounts%20under%20leases%20regulating%20development%20of%20oil%20and%20gas%20on%20Federal%20lands%3B%20recommendations%20for%20corrective%20action.md)
+- [&sect; 00237 - Omitted](%C2%A7%2000237%20-%20Omitted.md)

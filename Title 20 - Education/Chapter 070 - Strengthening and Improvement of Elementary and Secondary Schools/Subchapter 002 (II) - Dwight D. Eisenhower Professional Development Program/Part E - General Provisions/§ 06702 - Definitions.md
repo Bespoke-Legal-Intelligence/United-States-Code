@@ -4,7 +4,7 @@ As used in this subchapter (other than part C)—
 
 &emsp;(1) the term “core academic subjects” means those subjects listed in the State plan under title III <sup>1</sup> of the Goals 2000: Educate America Act or under the third National Education Goal as set forth in section 102(3) of such Act \[20 U.S.C. 5812(3)\];
 
-&emsp;(2) the term “performance indicators” means measures of specific outcomes that the State or local educational agency identifies as assessing progress toward the goal of ensuring that all teachers have the knowledge and skills necessary to assist their students tomeet challenging State content standards and challenging State student performance standards in the core academic subjects, such as—
+&emsp;(2) the term “performance indicators” means measures of specific outcomes that the State or local educational agency identifies as assessing progress toward the goal of ensuring that all teachers have the knowledge and skills necessary to assist their students to meet challenging State content standards and challenging State student performance standards in the core academic subjects, such as—
 
 &emsp;&emsp;(A) the degree to which licensure requirements are tied to challenging State content standards and challenging State student performance standards;
 

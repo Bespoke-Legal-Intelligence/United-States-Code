@@ -30,5 +30,5 @@ Section effective 180 days after Apr. 28, 1988, but not applicable to recipients
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1234c of this title.
+This section is referred to in sections 1234c, 7001 of this title.
 

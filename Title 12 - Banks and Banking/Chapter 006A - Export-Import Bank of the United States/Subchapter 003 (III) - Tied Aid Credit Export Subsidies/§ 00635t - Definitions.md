@@ -12,7 +12,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;(D) which has a grant element, as defined by the Development Assistance Committee of the Organization for Economic Cooperation and Development, greater than zero percent;
 
-&emsp;(2) the term “government-mixed credits” means the combined use of credits, insurance,and guarantees offered by the Export-Import Bank of the United States with concessional financing or grants offered by the Agency for International Development to finance exports;
+&emsp;(2) the term “government-mixed credits” means the combined use of credits, insurance, and guarantees offered by the Export-Import Bank of the United States with concessional financing or grants offered by the Agency for International Development to finance exports;
 
 &emsp;(3) the term “public-private cofinancing” means the combined use of either official development assistance or official export credit with private commercial credit to finance exports;
 

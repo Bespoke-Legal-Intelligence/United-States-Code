@@ -80,7 +80,7 @@ Limitation.—The amendment made by section 2(b)(2) \[amending section 6903 of t
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 6903, 6904 of this title.
+This section is referred to in sections 6903, 6904 of this title; title 16 sections 546a, 698v–3.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

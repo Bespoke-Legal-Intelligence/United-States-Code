@@ -58,9 +58,11 @@ Grants under this section may be used for programs to establish, develop, update
 
 &emsp;(14) programs for fingerprint-supported background checks capability for noncriminal justice purposes, including youth service employees and volunteers and other individuals in positions of responsibility, if authorized by Federal or State law and administered by a government agency;
 
-&emsp;(15) criminal justice information systems with a capacity to provide statistical and research products including incident-based reporting systems that are compatible with the National Incident-Based Reporting System (NIBRS) and uniform crime reports; and
+&emsp;(15) criminal justice information systems with a capacity to provide statistical and research products including incident-based reporting systems that are compatible with the National Incident-Based Reporting System (NIBRS) and uniform crime reports;
 
-&emsp;(16) multiagency, multijurisdictional communications systems among the States to share routine and emergency information among Federal, State, and local law enforcement agencies.
+&emsp;(16) multiagency, multijurisdictional communications systems among the States to share routine and emergency information among Federal, State, and local law enforcement agencies; and
+
+&emsp;(17) the capability of the criminal justice system to deliver timely, accurate, and complete criminal history record information to child welfare agencies, organizations, and programs that are engaged in the assessment of risk and other activities related to the protection of children, including protection against child sexual abuse, and placement of children in foster care.
 
 #### (c) Assurances
 
@@ -102,17 +104,15 @@ The Federal share of a grant received under this subchapter may not exceed 90 pe
 
 &emsp;&emsp;(A) not more than 3 percent may be used by the Attorney General for salaries and administrative expenses;
 
-&emsp;&emsp;(B) not more than 5 percent may be used for technical assistance, training and evaluations, and studies commissioned by Bureau of Justice Statistics of the Department of Justice (through discretionary grants or otherwise) in furtherance of the purposes of this section;
+&emsp;&emsp;(B) not more than 5 percent may be used for technical assistance, training and evaluations, and studies commissioned by Bureau of Justice Statistics of the Department of Justice (through discretionary grants or otherwise) in furtherance of the purposes of this section; and
 
-&emsp;&emsp;(C) not less than 20 percent shall be used by the Attorney General for the purposes described in paragraph (11) of subsection (b) of this section; and
-
-&emsp;&emsp;(D) the Attorney General shall ensure the amounts are distributed on an equitable geographic basis.
+&emsp;&emsp;(C) the Attorney General shall ensure the amounts are distributed on an equitable geographic basis.
 
 #### (f) Grants to Indian tribes
 
 Notwithstanding any other provision of this section, the Attorney General may use amounts made available under this section to make grants to Indian tribes for use in accordance with this section.
 
-(Pub. L. 105–251, title I, §102, Oct. 9, 1998, 112 Stat. 1871.)
+(Pub. L. 105–251, title I, §102, Oct. 9, 1998, 112 Stat. 1871; Pub. L. 106–177, title I, §102, Mar. 10, 2000, 114 Stat. 35; Pub. L. 106–561, §2(c)(4), Dec. 21, 2000, 114 Stat. 2791.)
 
 #### References in Text
 
@@ -121,6 +121,12 @@ Section 103(b) of the Brady Handgun Violence Prevention Act, referred to in subs
 The Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1998, referred to in subsec. (c)(2)(G), is Pub. L. 105–119, Nov. 26, 1997, 111 Stat. 2440. Provisions described under the heading “Violent Crime Reduction Programs, State and Local Law Enforcement Assistance” appear at 111 Stat. 2452, and are not classified to the Code.
 
 The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (c)(2)(G), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197, as amended. Part Q of title I of the Act is classified generally to subchapter XII–E (§3796dd et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3711 of this title and Tables.
+
+#### Amendments
+
+2000—Subsec. (b)(17). Pub. L. 106–177 added par. (17).
+
+Subsec. (e)(2)(B) to (D). Pub. L. 106–561 inserted “and” after semicolon in subpar. (B), redesignated subpar. (D) as (C), and struck out former subpar. (C) which read as follows: “not less than 20 percent shall be used by the Attorney General for the purposes described in paragraph (11) of subsection (b) of this section; and”.
 
 #### Short Title
 

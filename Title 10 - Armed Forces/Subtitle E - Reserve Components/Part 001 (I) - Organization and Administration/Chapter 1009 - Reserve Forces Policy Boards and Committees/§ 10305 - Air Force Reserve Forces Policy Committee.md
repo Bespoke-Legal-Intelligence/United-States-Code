@@ -112,10 +112,6 @@ For effective date of amendment by Pub. L. 90–168, see section 7 of Pub. L. 90
 
 Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub. L. 85–861, set out as a note under section 101 of this title.
 
-#### Cross References
-
-Air National Guard, see section 101 et seq. of Title 32, National Guard.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 523, 641, 8021, 10301 of this title; title 37 section 204.

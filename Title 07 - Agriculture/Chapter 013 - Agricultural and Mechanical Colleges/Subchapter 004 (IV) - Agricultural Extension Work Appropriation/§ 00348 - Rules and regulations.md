@@ -8,7 +8,3 @@ The Secretary of Agriculture is authorized to make such rules and regulations as
 
 1953—Act June 26, 1953, substituted provisions for rules and regulations for provisions empowering Congress to alter, amend, or repeal sections 341 to 343 and 344 to 348 of this title at any time.
 
-#### Cross References
-
-Penalty mail, authorization to use, see section 3202 of Title 39, Postal Service.
-

@@ -1,6 +1,6 @@
 ### §164. Assistance of Department of Agriculture
 
-The President may by Executive order direct the Secretary of Agriculture, in accordance with the requests of the Director, for the purpose of carrying into effect the provisions of this title with respect to plants (1) to furnish available information of the Department of Agriculture, (2) to conduct through the appropriate bureau or division of the Department research upon specialproblems, or (3) to detail to the Director officers and employees of the Department.
+The President may by Executive order direct the Secretary of Agriculture, in accordance with the requests of the Director, for the purpose of carrying into effect the provisions of this title with respect to plants (1) to furnish available information of the Department of Agriculture, (2) to conduct through the appropriate bureau or division of the Department research upon special problems, or (3) to detail to the Director officers and employees of the Department.
 
 (July 19, 1952, ch. 950, 66 Stat. 804; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582.)
 
@@ -21,10 +21,4 @@ Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see secti
 #### Transfer of Functions
 
 For transfer of functions of other officers, employees, and agencies of Department of Agriculture, with certain exceptions, to Secretary of Agriculture, with power to delegate, see Reorg. Plan No. 2 of 1953, §1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Cross References
-
-Agricultural research on plants, see section 427 of Title 7, Agriculture.
-
-Plant Variety Protection, see chapter 57 of Title 7.
 

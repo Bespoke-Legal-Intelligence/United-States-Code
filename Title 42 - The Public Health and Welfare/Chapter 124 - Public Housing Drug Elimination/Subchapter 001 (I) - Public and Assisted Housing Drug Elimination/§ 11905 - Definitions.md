@@ -36,7 +36,7 @@ For the purposes of this subchapter:
 
 #### References in Text
 
-The Native American Housing Assistance and Self-Determination Act of 1996, referred to in par. (5), is Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, which is classified principally to chapter 43 (§4101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of Title 25 and Tables.
+The Native American Housing Assistance and Self-Determination Act of 1996, referred to in par. (5), is Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, as amended, which is classified principally to chapter 43 (§4101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of Title 25 and Tables.
 
 #### Amendments
 
@@ -54,7 +54,7 @@ Par. (5). Pub. L. 104–330, §704(4)(B), added par. (5).
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–74, title II, §227(b), as added by Pub. L. 106–113, div. A, title I, §175(d), Nov. 29, 1999, 113 Stat. 1534, provided that: “The amendments made by subsection (a) \[amending this section\] shall be construed to have taken effect on October 21, 1998.”
+Pub. L. 106–74, title II, §227(b), as added by Pub. L. 106–113, div. A, title I, §175(d), Nov. 29, 1999, 113 Stat.1534, provided that: “The amendments made by subsection (a) \[amending this section\] shall be construed to have taken effect on October 21, 1998.”
 
 #### Effective Date of 1998 Amendment
 

@@ -12,10 +12,6 @@ Section is comprised of subsec. (c) \[formerly third undesignated par.\] of sect
 
 1993—Pub. L. 103–66 inserted section catchline.
 
-#### Cross References
-
-United States obligations and evidences of ownership as subject to Federal taxation, see section 3124 of Title 31, Money and Finance.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in title 26 section 139.

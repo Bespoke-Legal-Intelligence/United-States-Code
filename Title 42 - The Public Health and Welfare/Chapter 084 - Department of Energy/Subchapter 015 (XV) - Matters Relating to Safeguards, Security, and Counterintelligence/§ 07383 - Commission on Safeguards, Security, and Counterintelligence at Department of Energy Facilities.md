@@ -8,7 +8,7 @@ There is hereby established a commission to be known as the Commission on Safegu
 
 (1) The Commission shall be composed of nine members appointed from among individuals in the public and private sectors who have significant experience in matters related to the security of nuclear weapons and materials, the classification of information, or counterintelligence matters, as follows:
 
-&emsp;(A) Two shall be appointed by the chairman of the Committee on Armed Services of theSenate, in consultation with the ranking member of that Committee.
+&emsp;(A) Two shall be appointed by the chairman of the Committee on Armed Services of the Senate, in consultation with the ranking member of that Committee.
 
 &emsp;(B) One shall be appointed by the ranking member of the Committee on Armed Services of the Senate, in consultation with the chairman of that Committee.
 

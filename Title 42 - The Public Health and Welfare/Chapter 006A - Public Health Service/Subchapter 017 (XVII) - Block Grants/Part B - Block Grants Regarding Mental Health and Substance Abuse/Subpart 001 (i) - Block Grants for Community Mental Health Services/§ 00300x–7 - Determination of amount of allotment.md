@@ -102,7 +102,7 @@
 
 #### (b) Minimum allotments for States
 
-With respect to fiscal year 2000, the amount of the allotment of a State under section 300x of this title shall not be less than the amount the State received under section 300x of this title for fiscal year 1998.
+With respect to fiscal year 2000, and subsequent fiscal years, the amount of the allotment of a State under section 300x of this title shall not be less than the amount the State received under such section for fiscal year 1998.
 
 #### (c) Territories
 
@@ -140,15 +140,17 @@ With respect to fiscal year 2000, the amount of the allotment of a State under s
 
 &emsp;For purposes of subsection (a) of this section, the term “State” does not include the territories of the United States.
 
-(July 1, 1944, ch. 373, title XIX, §1918, as added Pub. L. 102–321, title II, §201(2), July 10, 1992, 106 Stat. 385; amended Pub. L. 102–352, §2(a)(8), (9), Aug. 26, 1992, 106 Stat. 938; Pub. L. 105–277, div. A, §101(f) \[title II, §218(a)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–362; Pub. L. 106–113, div. B, §1000(a)(4) \[title II, §212(a)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–239.)
+(July 1, 1944, ch. 373, title XIX, §1918, as added Pub. L. 102–321, title II, §201(2), July 10, 1992, 106 Stat. 385; amended Pub. L. 102–352, §2(a)(8), (9), Aug. 26, 1992, 106 Stat. 938; Pub. L. 105–277, div. A, §101(f) \[title II, §218(a)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–362; Pub. L. 106–113, div. B, §1000(a)(4) \[title II, §212(a)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–239; Pub. L. 106–310, div. B, title XXXII, §3205, Oct. 17, 2000, 114 Stat. 1193.)
 
 #### Prior Provisions
 
-A prior section 300x–7, act July 1, 1944, ch. 373, title XIX, §1919, formerly §1918, as added Aug. 13, 1981, Pub. L. 97–35, title IX, §901, 95 Stat. 551; renumbered §1919 and amended Oct. 19, 1984, Pub. L. 98–509, title I, §106(a), (g), 98 Stat. 2358, 2359, related to nondiscrimination provisions with respect to alcohol, drug abuse, and mentalhealth programs, prior to repeal by Pub. L. 102–321, §201(2).
+A prior section 300x–7, act July 1, 1944, ch. 373, title XIX, §1919, formerly §1918, as added Aug. 13, 1981, Pub. L. 97–35, title IX, §901, 95 Stat. 551; renumbered §1919 and amended Oct. 19, 1984, Pub. L. 98–509, title I, §106(a), (g), 98 Stat. 2358, 2359, related to nondiscrimination provisions with respect to alcohol, drug abuse, and mental health programs, prior to repeal by Pub. L. 102–321, §201(2).
 
 A prior section 1918 of act July 1, 1944, was classified to section 300x–6 of this title prior to repeal by Pub. L. 102–321.
 
 #### Amendments
+
+2000—Subsec. (b). Pub. L. 106–310 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “With respect to fiscal year 2000, the amount of the allotment of a State under section 300x of this title shall not be less than the amount the State received under section 300x of this title for fiscal year 1998.”
 
 1999—Subsec. (b). Pub. L. 106–113 amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “For each of the fiscal years 1993 and 1994, the amount of the allotment required in section 300x of this title for a State for the fiscal year involved shall be the greater of—
 
@@ -188,5 +190,5 @@ Amendment by Pub. L. 102–352 effective immediately upon effectuation of amendm
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 300x, 300x–1, 300x–6, 300x–33, 300x–64 of this title.
+This section is referred to in sections 300x, 300x–1, 300x–33, 300x–64 of this title.
 

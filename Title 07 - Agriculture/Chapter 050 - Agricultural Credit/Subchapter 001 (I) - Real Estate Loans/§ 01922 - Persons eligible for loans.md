@@ -46,7 +46,7 @@ The Secretary is authorized to make and insure loans under this subchapter to fa
 
 Subsec. (b)(3)(D). Pub. L. 105–277, §101(a) \[title VIII, §804\], added subpar. (D).
 
-1996—Subsec. (b). Pub. L. 104–127 added subsec. (b) and struck out former subsec. (b) which read as follows:“The Secretary may not restrict eligibility for loans made or insured under this subchapter for purposes set forth in section 1923 of this title solely to borrowers of loans that are outstanding on December 23, 1985.”
+1996—Subsec. (b). Pub. L. 104–127 added subsec. (b) and struck out former subsec. (b) which read as follows: “The Secretary may not restrict eligibility for loans made or insured under this subchapter for purposes set forth in section 1923 of this title solely to borrowers of loans that are outstanding on December 23, 1985.”
 
 1985—Subsec. (a). Pub. L. 99–198, §§1301(a), 1302(a)(1), designated existing provisions as subsec. (a) and substituted—
 

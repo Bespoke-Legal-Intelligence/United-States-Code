@@ -26,7 +26,3 @@ The Legislative Branch Appropriation Act, 1966, referred to in subsec. (a), is P
 
 Section effective immediately prior to noon on Jan. 3, 1971, see section 601(1) of Pub. L. 91–510, set out as an Effective Date of 1970 Amendment note under section 72a of this title.
 
-#### Cross References
-
-Establishment of Office of Parliamentarian of House of Representatives, see section 287 et seq. of this title.
-

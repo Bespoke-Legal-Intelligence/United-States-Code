@@ -128,7 +128,7 @@ Pub. L. 102–567, title II, §205, Oct. 29, 1992, 106 Stat. 4282, provided that
 
 “(a)
 
-Treatment of Amounts Received as Reimbursement of Expenses.—Notwithstanding any other provision of law, amounts received by the United States as reimbursement of expenses related to oil or hazardous substance spill response activities, or natural resource damage assessment, restoration, rehabilitation, replacement, or acquisition activities, conducted (or to be conducted) by the National Oceanic and Atmospheric Administration—
+Treatment of Amounts Received as Reimbursement of Expenses.—Notwithstanding any otherprovision of law, amounts received by the United States as reimbursement of expenses related to oil or hazardous substance spill response activities, or natural resource damage assessment, restoration, rehabilitation, replacement, or acquisition activities, conducted (or to be conducted) by the National Oceanic and Atmospheric Administration—
 
 &emsp;“(1) shall be deposited into the Fund;
 

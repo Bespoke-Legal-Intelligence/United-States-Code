@@ -34,7 +34,7 @@ The Attorney General, on his own motion or at the request of the Secretary, may 
 
 #### (f) Program to curtail diversion of precursor and essential chemicals
 
-The Attorney General shall maintain an active program, both domestic and international,to curtail the diversion of precursor chemicals and essential chemicals used in the illicit manufacture of controlled substances.
+The Attorney General shall maintain an active program, both domestic and international, to curtail the diversion of precursor chemicals and essential chemicals used in the illicit manufacture of controlled substances.
 
 (Pub. L. 91–513, title II, §502, Oct. 27, 1970, 84 Stat. 1271; Pub. L. 95–633, title I, §108(a), Nov. 10, 1978, 92 Stat. 3773; Pub. L. 100–690, title VI, §6060, Nov. 18, 1988, 102 Stat. 4320.)
 
@@ -51,6 +51,52 @@ Amendment by Pub. L. 100–690 effective 120 days after Nov. 18, 1988, see secti
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–633 effective on date the Convention on Psychotropic Substances enters into force in the United States \[July 15, 1980\], see section 112 of Pub. L. 95–633, set out as an Effective Date note under section 801a of this title.
+
+#### Training for Drug Enforcement Administration and State and Local Law Enforcement Personnel Relating to Clandestine Laboratories
+
+Pub. L. 106–310, div. B, title XXXVI, §3623, Oct. 17, 2000, 114 Stat. 1231, provided that:
+
+“(a)
+
+In General.—
+
+&emsp;“(1)
+
+Requirement.—The Administrator of the Drug Enforcement Administration shall carry out the programs described in subsection (b) with respect to the law enforcement personnel of States and localities determined by the Administrator to have significant levels of methamphetamine-related or amphetamine-related crime or projected by the Administrator to have the potential for such levels of crime in the future.
+
+&emsp;“(2)
+
+Duration.—The duration of any program under that subsection may not exceed 3 years.
+
+“(b)
+
+Covered Programs.—The programs described in this subsection are as follows:
+
+&emsp;“(1)
+
+Advanced mobile clandestine laboratory training teams.—A program of advanced mobile clandestine laboratory training teams, which shallprovide information and training to State and local law enforcement personnel in techniques utilized in conducting undercover investigations and conspiracy cases, and other information designed to assist in the investigation of the illegal manufacturing and trafficking of amphetamine and methamphetamine.
+
+&emsp;“(2)
+
+Basic clandestine laboratory certification training.—A program of basic clandestine laboratory certification training, which shall provide information and training—
+
+&emsp;&emsp;“(A) to Drug Enforcement Administration personnel and State and local law enforcement personnel for purposes of enabling such personnel to meet any certification requirements under law with respect to the handling of wastes created by illegal amphetamine and methamphetamine laboratories; and
+
+&emsp;&emsp;“(B) to State and local law enforcement personnel for purposes of enabling such personnel to provide the information and training covered by subparagraph (A) to other State and local law enforcement personnel.
+
+&emsp;“(3)
+
+Clandestine laboratory recertification and awareness training.—A program of clandestine laboratory recertification and awareness training, which shall provide information and training to State and local law enforcement personnel for purposes of enabling such personnel to provide recertification and awareness training relating to clandestine laboratories to additional State and local law enforcement personnel.
+
+“(c)
+
+Authorization of Appropriations.—There are authorized to be appropriated for each of fiscal years 2000, 2001, and 2002 amounts as follows:
+
+&emsp;“(1) $1,500,000 to carry out the program described in subsection (b)(1).
+
+&emsp;“(2) $3,000,000 to carry out the program described in subsection (b)(2).
+
+&emsp;“(3) $1,000,000 to carry out the program described in subsection (b)(3).”
 
 #### Educational Program for Police Departments
 

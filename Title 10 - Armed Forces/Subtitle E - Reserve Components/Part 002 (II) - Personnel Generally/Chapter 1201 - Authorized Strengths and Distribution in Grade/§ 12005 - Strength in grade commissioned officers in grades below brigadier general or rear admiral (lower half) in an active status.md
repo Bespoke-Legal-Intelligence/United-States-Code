@@ -14,6 +14,8 @@
 | Captain | 35 | 32\.0 |
 | First lieutenant and second lieutenant (when combined with the number authorized for general officer grades under section 12004 of this title) | 44 | 47\.6 |
 
+(3) Medical officers and dental officers shall not be counted for the purposes of this subsection.
+
 (b)(1) The authorized strengths of the Naval Reserve in line officers in an active status in the grades of captain, commander, lieutenant commander, and lieutenant, and in the grades of lieutenant (junior grade) and ensign combined, are the following percentages of the total authorized number of those officers:
 
 &nbsp;
@@ -26,7 +28,7 @@
 | Lieutenant | 37   percent&nbsp;&nbsp; |
 | Lieutenant (junior grade) and ensign (when combined with the number authorized for flag officer grades under section 12004 of this title) | 32\.5 percent. |
 
-(2) When the actual number of line officers in an active status in any grade is less than the number authorized by paragraph (1) for that grade, the difference may be applied to increasethe number authorized by that paragraph for any lower grade or grades.
+(2) When the actual number of line officers in an active status in any grade is less than the number authorized by paragraph (1) for that grade, the difference may be applied to increase the number authorized by that paragraph for any lower grade or grades.
 
 (c)(1) The authorized strengths of the Marine Corps Reserve in officers in an active status in the grades of colonel, lieutenant colonel, major, and captain, and in the grades of first lieutenant and second lieutenant combined, are the following percentages of the total authorized number of those officers:
 
@@ -46,11 +48,15 @@
 
 (2) An officer of the Naval Reserve or the Marine Corps Reserve may not be reduced in permanent grade because of a reduction in the number authorized by this section for his grade.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1662(a)(1), Oct. 5, 1994, 108 Stat. 2985.)
+(Added Pub. L. 103–337, div. A, title XVI, §1662(a)(1), Oct. 5, 1994, 108 Stat. 2985; amended Pub. L. 106–398, §1 \[\[div. A\], title IV, §423\], Oct. 30, 2000, 114 Stat. 1654, 1654A–96.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in sections 3219, 5457(b)–(d), 5458(b)–(d), and 8219 of this title, prior to repeal by Pub. L. 103–337, §1662(a)(3).
+
+#### Amendments
+
+2000—Subsec. (a)(3). Pub. L. 106–398 added par. (3).
 
 #### Section Referred to in Other Sections
 

@@ -30,7 +30,7 @@ In awarding contracts and grants for the development of curricula or instruction
 
 The Secretary's annual report shall contain a statement of the Secretary's activities under this section.
 
-(Pub. L. 90–247, title IV, §433, formerly §414, as added Pub. L. 91–230, title IV, §401(a)(10), Apr. 13, 1970, 84 Stat. 167; renumbered §424, Pub. L. 92–318, title III, §301(a)(1), June 23, 1972, 86 Stat. 326; renumbered §426, Pub. L. 93–380, title V, §508(a), Aug. 21, 1974, 88 Stat. 565; amended Pub. L. 95–561, title XII, §1248, Nov. 1, 1978, 92 Stat. 2354; Pub. L. 96–88, title III, §301(a)(1), title V, §507, Oct. 17, 1979, 93 Stat. 677, 692; renumbered §433, Pub. L. 103–382, title II, §212(b)(1), Oct. 20, 1994, 108 Stat. 3913.)
+(Pub. L. 90–247, title IV, §433, formerly §414, as added Pub. L. 91–230, title IV, §401(a)(10), Apr. 13, 1970, 84 Stat. 167; renumbered §424, Pub. L. 92–318, title III, §301(a)(1), June 23, 1972, 86 Stat. 326; renumbered §426, Pub. L. 93–380, title V, §508(a), Aug. 21, 1974, 88 Stat. 565; amended Pub. L. 95–561, title XII, §1248, Nov. 1, 1978, 92 Stat.2354; Pub. L. 96–88, title III, §301(a)(1), title V, §507, Oct. 17, 1979, 93 Stat. 677, 692; renumbered §433, Pub. L. 103–382, title II, §212(b)(1), Oct. 20, 1994, 108 Stat. 3913.)
 
 #### Prior Provisions
 
@@ -52,5 +52,5 @@ Amendment by Pub. L. 95–561 effective Oct. 1, 1978, see section 1530(a) of Pub
 
 #### National Institute of Education
 
-The National Institute of Education consisting of a National Council on Educational Research and a Director of the Institute was established by section 1221e of this title which, as amended generally by Pub. L. 99–498, title XIV, §1401(a), Oct. 17, 1986, 100 Stat. 1589, provided objectives and duties for the Office of Educational Research and Improvement and established the National Advisory Council on Educational Research and Improvement, and section 1401(b) of Pub. L.99–498 transferred the property and records of the National Institute of Education to the Office of Educational Research and Improvement.
+The National Institute of Education consisting of a National Council on Educational Research and a Director of the Institute was established by section 1221e of this title which, as amended generally by Pub. L. 99–498, title XIV, §1401(a), Oct. 17, 1986, 100 Stat. 1589, provided objectives and duties for the Office of Educational Research and Improvement and established the National Advisory Council on Educational Research and Improvement, and section 1401(b) of Pub. L. 99–498 transferred the property and records of the National Institute of Education to the Office of Educational Research and Improvement.
 

@@ -18,7 +18,7 @@ Congress makes the following findings:
 
 &emsp;(7) Congress has recognized and denounced acts of religious persecution through the adoption of the following resolutions:
 
-&emsp;&emsp;(A) House Resolution 515 of the One Hundred Fourth Congress, expressing the sense of the House of Representatives with respect to the persecution of Christians worldwide.
+&emsp;&emsp;(A) House Resolution 515 of the One Hundred Fourth Congress, expressing the senseof the House of Representatives with respect to the persecution of Christians worldwide.
 
 &emsp;&emsp;(B) Senate Concurrent Resolution 71 of the One Hundred Fourth Congress, expressing the sense of the Senate regarding persecution of Christians worldwide.
 

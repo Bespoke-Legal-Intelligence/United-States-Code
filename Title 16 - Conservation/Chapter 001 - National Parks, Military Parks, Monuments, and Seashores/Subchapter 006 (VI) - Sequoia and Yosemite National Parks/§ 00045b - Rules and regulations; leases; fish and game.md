@@ -8,10 +8,6 @@ The said park shall be under the exclusive control of the Secretary of the Inter
 
 This Act, referred to in text, is act July 3, 1926, which is classified to sections 45a, 45b to 45e, and 688 of this title. For complete classification of this Act to the Code, see Tables.
 
-#### Cross References
-
-Rules and regulations for Sequoia National Park, leases, timber, etc., see sections 3 and 43 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 45e of this title.

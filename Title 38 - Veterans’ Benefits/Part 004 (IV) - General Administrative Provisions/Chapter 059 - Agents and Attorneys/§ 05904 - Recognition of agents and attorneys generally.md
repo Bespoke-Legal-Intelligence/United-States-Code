@@ -28,7 +28,7 @@
 
 &emsp;(ii) is contingent on whether or not the matter is resolved in a manner favorable to the claimant.
 
-(B) For purposes of subparagraph (A) of this paragraph, a claim shall be considered to have been resolved in a manner favorable to the claimant if all or any part of the relief sought is granted.
+(B) For purposes of subparagraph (A) of this paragraph, a claim shall be considered to havebeen resolved in a manner favorable to the claimant if all or any part of the relief sought is granted.
 
 (3) To the extent that past-due benefits are awarded in any proceeding before the Secretary, the Board of Veterans’ Appeals, or the United States Court of Appeals for Veterans Claims, the Secretary may direct that payment of any attorneys’ fee under a fee arrangement described in paragraph (1) of this subsection be made out of such past-due benefits. In no event may the Secretary withhold for the purpose of such payment any portion of benefits payable for a period after the date of the final decision of the Secretary, the Board of Veterans’ Appeals, or Court of Appeals for Veterans Claims making (or ordering the making of) the award.
 
@@ -98,7 +98,7 @@ Subsec. (d) of this section not to prevent award of fees and expenses under sect
 
 #### Applicability to Attorneys Fees
 
-Section 403 of Pub. L. 100–687 provided that: “The amendment to section 3404(c) \[now 5904(c)\] of title 38, United States Code, made by section 104(a) shall apply only with respect to services of agents and attorneys in cases in which a notice of disagreement is filed withthe Veterans’ Administration \[now Department of Veterans Affairs\] on or after the date of the enactment of this division \[Nov. 18, 1988\].”
+Section 403 of Pub. L. 100–687 provided that: “The amendment to section 3404(c) \[now 5904(c)\] of title 38, United States Code, made by section 104(a) shall apply only with respect to services of agents and attorneys in cases in which a notice of disagreement is filed with the Veterans’ Administration \[now Department of Veterans Affairs\] on or after the date of the enactment of this division \[Nov. 18, 1988\].”
 
 #### Section Referred to in Other Sections
 

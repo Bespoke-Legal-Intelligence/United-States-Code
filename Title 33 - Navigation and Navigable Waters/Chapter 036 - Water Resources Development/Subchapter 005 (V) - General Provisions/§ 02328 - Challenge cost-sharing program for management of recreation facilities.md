@@ -6,7 +6,7 @@ The Secretary is authorized to develop and implement a program to share the cost
 
 #### (b) Cooperative agreements
 
-To implement the program under this section, the Secretary is authorized to enter into cooperative agreements with non-Federal public andprivate entities to provide for operation and management of recreation facilities and natural resources at civil works projects under the Secretary's jurisdiction where such facilities and resources are being maintained at complete Federal expense.
+To implement the program under this section, the Secretary is authorized to enter into cooperative agreements with non-Federal public and private entities to provide for operation and management of recreation facilities and natural resources at civil works projects under the Secretary's jurisdiction where such facilities and resources are being maintained at complete Federal expense.
 
 #### (c) Contributions
 

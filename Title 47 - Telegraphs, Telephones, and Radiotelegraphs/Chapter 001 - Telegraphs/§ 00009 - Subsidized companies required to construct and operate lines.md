@@ -4,10 +4,6 @@ All railroad and telegraph companies to which the United States has granted any 
 
 (Aug. 7, 1888, ch. 772, §1, 25 Stat. 382.)
 
-#### Cross References
-
-Federal Communications Commission, jurisdiction of, see section 601 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 10, 11, 12, 15, 601 of this title.

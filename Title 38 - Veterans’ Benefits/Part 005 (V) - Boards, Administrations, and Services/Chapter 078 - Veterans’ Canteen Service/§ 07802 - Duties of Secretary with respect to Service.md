@@ -44,7 +44,7 @@ Pub. L. 102–83, §4(a)(3), (4), substituted “Department” for “Veterans�
 
 Pars. (4), (5). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-Par. (6). Pub. L. 102–54 amended par. (6) as in effect immediately before the enactment of Pub. L. 102–40 by substituting “section 3709 of the Revised Statutes (41 U.S.C. 5)” for “section 5 of title 41”.
+Par. (6). Pub. L. 102–54 amended par. (6) as in effect immediately before the enactment of Pub. L. 102–40 bysubstituting “section 3709 of the Revised Statutes (41 U.S.C. 5)” for “section 5 of title 41”.
 
 Pars. (9), (10). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 

@@ -16,9 +16,3 @@ For order of succession in event of death, permanent disability, or resignation 
 
 For order of succession in event of death, permanent disability, or resignation of Secretary of the Navy, see Ex. Ord. No. 12879, Nov. 8, 1993, 58 F.R. 59929, set out as a note under section 3345 of Title 5.
 
-#### Cross References
-
-Compensation of Under Secretary, see section 5315 of Title 5, Government Organization and Employees.
-
-Succession to duties of Secretary, see section 5017 of this title.
-

@@ -12,7 +12,7 @@ Any State desiring to participate in this part may submit a State plan. Such pla
 
 &emsp;(4) set forth, in accordance with criteria established in regulations prescribed under section 291c of this title and on the basis of a statewide inventory of existing facilities, a survey of need, and (except to the extent provided by or pursuant to such regulations) community, area, or regional plans—
 
-&emsp;&emsp;(A) the number of general hospital beds and long-term care beds, and the number andtypes of hospital facilities and facilities for long-term care, needed to provide adequate facilities for inpatient care of people residing in the State, and a plan for the distribution of such beds and facilities in service areas throughout the State;
+&emsp;&emsp;(A) the number of general hospital beds and long-term care beds, and the number and types of hospital facilities and facilities for long-term care, needed to provide adequate facilities for inpatient care of people residing in the State, and a plan for the distribution of such beds and facilities in service areas throughout the State;
 
 &emsp;&emsp;(B) the public health centers needed to provide adequate public health services for people residing in the State, and a plan for the distribution of such centers throughout the State;
 
@@ -50,7 +50,7 @@ The Surgeon General shall approve any State plan and any modification thereof wh
 
 A prior section 291d, act July 1, 1944, ch. 373, title VI, §621, as added Aug. 13, 1946, ch. 958, §2, 60 Stat. 1041; amended Oct. 25, 1949, ch. 722, §2(a), 63 Stat. 898; July 27, 1953, ch. 243, 67 Stat. 196; Aug. 2, 1956, ch. 871, title IV, §401, 70 Stat. 929; Aug. 14, 1958, Pub. L. 85–664, §1(a), 72 Stat. 616, authorized appropriations for construction of hospitals and related facilities, prior to the general amendment of this subchapter by Pub. L. 88–443. See section 291a of this title.
 
-Provisions similar to those comprising this section were contained in a prior section 291f(a), (b), act July 1, 1944, ch. 373, title VI, §623, as added Aug. 13, 1946, ch.958, §2, 60 Stat. 1041, prior to the general amendment of this subchapter by Pub. L. 88–443.
+Provisions similar to those comprising this section were contained in a prior section 291f(a), (b), act July 1, 1944, ch. 373, title VI, §623, as added Aug. 13, 1946, ch. 958, §2, 60 Stat. 1041, prior to the general amendment of this subchapter by Pub. L. 88–443.
 
 #### Amendments
 
@@ -70,7 +70,7 @@ Section 115 of Pub. L. 91–296 provided that the amendment made by that section
 
 Functions, powers, and duties of Secretary of Health and Human Services under subsec. (a)(8) of this section, insofar as relates to the prescription of personnel standards on a merit basis, transferred to Office of Personnel Management, see section 4728(a)(3)(C) of this title.
 
-Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855,80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
 #### Funds for Modernization Projects; Conditions To Be Met Before Approval
 

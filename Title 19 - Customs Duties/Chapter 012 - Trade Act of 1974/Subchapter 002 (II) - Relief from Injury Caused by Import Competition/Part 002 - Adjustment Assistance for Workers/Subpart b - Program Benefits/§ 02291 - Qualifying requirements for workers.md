@@ -12,7 +12,7 @@ Payment of a trade readjustment allowance shall be made to an adversely affected
 
 &emsp;&emsp;(C) before the termination date (if any) determined pursuant to section 2273(d) of this title.
 
-&emsp;(2) Such worker had, in the 52-week period ending with the week in which such total orpartial separation occurred, at least 26 weeks of employment at wages of $30 or more a week in adversely affected employment with a single firm or subdivision of a firm, or, if data with respect to weeks of employment with a firm are not available, equivalent amounts of employment computed under regulations prescribed by the Secretary. For the purposes of this paragraph, any week in which such worker—
+&emsp;(2) Such worker had, in the 52-week period ending with the week in which such total or partial separation occurred, at least 26 weeks of employment at wages of $30 or more a week in adversely affected employment with a single firm or subdivision of a firm, or, if data with respect to weeks of employment with a firm are not available, equivalent amounts of employment computed under regulations prescribed by the Secretary. For the purposes of this paragraph, any week in which such worker—
 
 &emsp;&emsp;(A) is on employer-authorized leave for purposes of vacation, sickness, injury, maternity, or inactive duty or active duty military service for training,
 
@@ -84,10 +84,6 @@ Payment of a trade readjustment allowance shall be made to an adversely affected
 
 (Pub. L. 93–618, title II, §231, Jan. 3, 1975, 88 Stat. 2020; Pub. L. 97–35, title XXV, §2503, Aug. 13, 1981, 95 Stat. 881; Pub. L. 99–272, title XIII, §13003(a)(1), (2), (b), Apr. 7, 1986, 100 Stat. 300, 301; Pub. L. 100–418, title I, §1423(a)(1)–(3), Aug. 23, 1988, 102 Stat. 1244, 1245; Pub. L. 102–318, title I, §106(a), July 3, 1992, 106 Stat. 294.)
 
-#### Termination of Section
-
-<i>For termination of section by section 285 of Pub. L. 93–618, see Termination Date note set out preceding section 2271 of this title.</i>
-
 #### References in Text
 
 The Federal-State Extended Unemployment Compensation Act of 1970, referred to in subsec. (a)(4), is title II of Pub. L. 91–373, Aug. 10, 1970, 84 Stat. 708, as amended, which is classified generally as a note under section 3304 of Title 26, Internal Revenue Code. Section 202(a)(3) of such Act, referred to in subsec. (a)(4), is set out in the note under section 3304 of Title 26. For complete classification of this Act to the Code, see Tables.
@@ -146,7 +142,7 @@ Application of Gramm-Rudman.—Trade readjustment allowances payable under part 
 
 Section 2514 of Pub. L. 97–35, as amended by Pub. L. 97–362, title II, §204, Oct. 24, 1982, 96 Stat. 1733, provided that:
 
-“(a)(1) Except as provided in paragraph (2), this subtitle \[enacting section 2275 of this title, amending this section and sections 2272, 2274, 2292, 2293, 2296, 2297, 2298, 2311, 2313, 2315, 2317, and 2319 of this title, repealing section 2318 of this title, enacting provisions set out as a note under section 2292 of this title, and amending provisions set out as a note preceding section 2271 of thistitle and under section 3304 of Title 26, Internal Revenue Code\] shall take effect on the date of the enactment of this Act \[Aug. 13, 1981\].
+“(a)(1) Except as provided in paragraph (2), this subtitle \[enacting section 2275 of this title, amending this section and sections 2272, 2274, 2292, 2293, 2296, 2297, 2298, 2311, 2313, 2315, 2317, and 2319 of this title, repealing section 2318 of this title, enacting provisions set out as a note under section 2292 of this title, and amending provisions set out as a note preceding section 2271 of this title and under section 3304 of Title 26, Internal Revenue Code\] shall take effect on the date of the enactment of this Act \[Aug. 13, 1981\].
 
 “(2)(A) The amendments made by section 2501 \[amending section 2272 of this title\] shall apply with respect to all petitions for certification filed under section 221 of the Trade Act of 1974 \[section 2271 of this title\] on or after October 1, 1983.
 
@@ -175,6 +171,10 @@ Section 2514 of Pub. L. 97–35, as amended by Pub. L. 97–362, title II, §204
 &emsp;&emsp;“(B) the number of weeks preceding such first week that are deductible under section 232(d) (as in effect before the amendments made by section 2504) \[section 2392(d) of this title\];
 
 > &emsp;except that the amount of trade readjustment allowances payable to an adversely affected worker under this paragraph shall be subject to adjustment on a week-to-week basis as may be required by section 232(b) \[section 2392(b) of this title\].”
+
+#### Termination Date
+
+No assistance, vouchers, allowances, or other payments may be provided under subparts A to C of this part after Sept. 30, 2001, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
 
 #### Section Referred to in Other Sections
 

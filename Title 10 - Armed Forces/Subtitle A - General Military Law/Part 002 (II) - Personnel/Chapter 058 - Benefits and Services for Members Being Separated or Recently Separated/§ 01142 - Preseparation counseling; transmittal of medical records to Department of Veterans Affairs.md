@@ -2,7 +2,7 @@
 
 (a)
 
-Requirement.—(1) As soon as possible before, but in no event later than 90 days before, the date of the discharge or release from active duty of a member of the armed forces, the Secretary concerned shall provide for individual preseparation counseling of the member. A notation of the provision of such counseling with respect to each matter specified in subsection (b), signed by the member, shall be placed in the service record of each member receiving such counseling.
+Requirement.—(1) As soon as possible before, but in no event later than 90 days before, the date of the discharge or release from active duty of a member of the armed forces, the Secretary concerned shall provide for individual preseparation counseling of the member. A notation of the provision of such counseling with respect to each matter specified in subsection (b),signed by the member, shall be placed in the service record of each member receiving such counseling.
 
 (2) In carrying out this section, the Secretary concerned may use the services available under section 1144 of this title.
 
@@ -16,7 +16,7 @@ Matters To Be Covered By Counseling.—Counseling under this section shall inclu
 
 &emsp;(3) An explanation of the procedures for and advantages of affiliating with the Selected Reserve.
 
-&emsp;(4) Information concerning Government and private-sector programs for job search and job placement assistance, including the public and community service jobs program carried out under section 1143a of this title, and information regarding the placement programs established under sections 1151,<sup>1</sup> 1152, and 1153 of this title.
+&emsp;(4) Information concerning Government and private-sector programs for job search and job placement assistance, including the public and community service jobs program carried out under section 1143a of this title, and information regarding the placement programs established under sections 1152 and 1153 of this title and the Troops-to-Teachers Program Act of 1999 (20 U.S.C. 9301 et seq.).
 
 &emsp;(5) If the member has a spouse, job placement counseling for the spouse.
 
@@ -34,15 +34,17 @@ Matters To Be Covered By Counseling.—Counseling under this section shall inclu
 
 Transmittal of Medical Information to Department of Veterans Affairs.—In the case of a member being medically separated or being retired under chapter 61 of this title, the Secretary concerned shall ensure (subject to the consent of the member) that a copy of the member's service medical record (including any results of a Physical Evaluation Board) is transmitted to the Secretary of Veterans Affairs within 60 days of the separation or retirement.
 
-(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1552; amended Pub. L. 102–190, div. A, title X, §1061(a)(5), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 102–484, div. D, title XLIV, §§4401, 4441(b), 4462(b), Oct. 23, 1992, 106 Stat. 2701, 2730, 2740; Pub. L. 103–35, title II, §201(i)(1), May 31, 1993, 107 Stat. 100; Pub. L. 103–160, div. A, title XIII, §1332(c), Nov. 30, 1993, 107 Stat. 1797.)
+(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1552; amended Pub. L. 102–190, div. A, title X, §1061(a)(5), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 102–484, div. D, title XLIV, §§4401, 4441(b), 4462(b), Oct. 23, 1992, 106 Stat. 2701, 2730, 2740; Pub. L. 103–35, title II, §201(i)(1), May 31, 1993, 107 Stat. 100; Pub. L. 103–160, div. A, title XIII, §1332(c), Nov. 30, 1993, 107 Stat. 1797; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(9)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–290.)
 
 #### References in Text
 
-Section 1151 of this title, referred to in subsec. (b)(4), was repealed by Pub. L. 106–65, div. A, title XVII, §1707(a)(1), Oct. 5, 1999, 113 Stat. 823.
+The Troops-to-Teachers Program Act of 1999, referred to in subsec. (b)(4), is title XVII of div. A of Pub. L. 106–65, Oct. 5, 1999, 113 Stat. 817, which is classified principally to chapter 74 (§9301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see section 9301(a) of Title 20 and Tables.
 
 #### Amendments
 
-1993—Subsec. (b)(4). Pub. L. 103–160 substituted “programs established under sections 1151, 1152, and 1153 ofthis title” for “program established under section 1151 of this title to assist members to obtain employment as elementary or secondary school teachers or teachers’ aides”.
+2000—Subsec. (b)(4). Pub. L. 106–398 substituted “sections 1152 and 1153 of this title and the Troops-to-Teachers Program Act of 1999 (20 U.S.C. 9301 et seq.)” for “sections 1151, 1152, and 1153 of this title”.
+
+1993—Subsec. (b)(4). Pub. L. 103–160 substituted “programs established under sections 1151, 1152, and 1153 of this title” for “program established under section 1151 of this title to assist members to obtain employment as elementary or secondary school teachers or teachers’ aides”.
 
 Pub. L. 103–35 substituted “job placement assistance, including the public and community service jobs program carried out under section 1143a of this title, and information regarding the placement program established under section 1151 of this title to assist members to obtain employment as elementary or secondary school teachers or teachers’ aides” for “job placement assistance and information regarding the placement program established under section 1151 of this title to assist members obtain employment as elementary or secondary school teachers or teachers’ aides., including the public and community service jobs program carried out under section 1143a of this title”.
 
@@ -67,6 +69,4 @@ Pub. L. 103–337, div. A, title V, §543(h), Oct. 5, 1994, 108 Stat. 2772, prov
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1078a, 1144 of this title; title 20 section 9303.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

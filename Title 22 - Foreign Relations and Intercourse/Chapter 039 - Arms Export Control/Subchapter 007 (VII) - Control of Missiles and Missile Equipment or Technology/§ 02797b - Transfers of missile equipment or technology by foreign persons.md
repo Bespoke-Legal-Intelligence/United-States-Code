@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(ii) licenses for the transfer to such foreign person of all items on the United States Munitions List.
 
-&emsp;(C) If, in addition to actions taken under subparagraphs (A) and (B), the President determines that the export, transfer, or trade has substantially contributed to the design, development, or production of missiles in a country that is not an MTCR adherent, then the President shall prohibit, for a period of not less than 2 years, the importation into the United States of products produced by that foreign person.
+&emsp;(C) If, in addition to actions taken under subparagraphs (A) and (B), the President determines that the export, transfer, or tradehas substantially contributed to the design, development, or production of missiles in a country that is not an MTCR adherent, then the President shall prohibit, for a period of not less than 2 years, the importation into the United States of products produced by that foreign person.
 
 #### (b) Inapplicability with respect to MTCR adherents
 
@@ -141,6 +141,70 @@ Amendment by Pub. L. 105–277 effective Apr. 1, 1999, see section 1201 of Pub. 
 #### Delegation of Functions
 
 For delegation of certain functions of the President under this section, see Ex. Ord. No. 12851, §2(a), June 11, 1993, 58 F.R. 33181, set out as a note under section 2797 of this title.
+
+#### Space Cooperation With Russian Persons
+
+Pub. L. 106–280, title VII, §708, Oct. 6, 2000, 114 Stat. 862, provided that:
+
+“(a)
+
+Annual Certification.—
+
+&emsp;“(1)
+
+Requirement.—The President shall submit each year to the appropriate committees of Congress \[Committee on Foreign Relations of the Senate and Committee on International Relations of the House of Representatives\], with respect to each Russian person described in paragraph (2), a certification that the reports required to be submitted to Congress during the preceding calendar year under section 2 of the Iran Nonproliferation Act of 2000 (Public Law 106–178) \[50 U.S.C. 1701 note\] do not identify that person on account of a transfer to Iran of goods, services, or technology described in section 2(a)(1)(B) of such Act.
+
+&emsp;“(2)
+
+Applicability.—The certification requirement under paragraph (1) applies with respect to each Russian person that, as of the date of the certification, is a party to an agreement relating to commercial cooperation on MTCR equipment or technology with a United States person pursuant to an arms export license that was issued at any time since January 1, 2000.
+
+&emsp;“(3)
+
+Exemption.—No activity or transfer which specifically has been the subject of a Presidential determination pursuant to section 5(a)(1), (2), or (3) of the Iran Nonproliferation Act of 2000 (Public Law 106–178) \[50 U.S.C. 1701 note\] shall cause a Russian person to be considered as having been identified in the reports submitted during the preceding calendar year under section 2 of that Act for the purposes of the certification required under paragraph (1).
+
+&emsp;“(4)
+
+Commencement and termination of requirement.—
+
+&emsp;&emsp;“(A)
+
+Times for submission.—The President shall submit—
+
+&emsp;&emsp;&emsp;“(i) the first certification under paragraph (1) not later than 60 days after the date of the enactment of this Act \[Oct. 6, 2000\]; and
+
+&emsp;&emsp;&emsp;“(ii) each annual certification thereafter on the anniversary of the first submission.
+
+&emsp;&emsp;“(B)
+
+Termination of requirement.—No certification is required under paragraph (1) after termination of cooperation under the specific license, or 5 years after the date on which the first certification is submitted, whichever is the earlier date.
+
+“(b)
+
+Termination of Existing Licenses.—If, at any time after the issuance of a license under section 36(c) of the Arms Export Control Act \[22 U.S.C. 2776(c)\] relating to the use, development, or co-production of commercial rocket engine technology with a foreign person, the President determines that the foreign person has engaged in any action described in section 73(a)(1) of the Arms Export Control Act (22 U.S.C. 2797b(a)(1)) since the date the license was issued, the President may terminate the license.
+
+“(c)
+
+Report on Export Licensing of MTCR Items Under $50,000,000.—\[Amended section 2797 of this title.\]
+
+“(d)
+
+Definitions.—In this section:
+
+&emsp;“(1)
+
+Foreign person.—The term ‘foreign person’ has the meaning given the term in section 74(7) of the Arms Export Control Act (22 U.S.C. 2797c(7)).
+
+&emsp;“(2) MTCR
+
+equipment or technology.—The term ‘MTCR equipment or technology’ has the meaning given the term in section 74(5) of the Arms Export Control Act (22 U.S.C. 2797c(5)).
+
+&emsp;“(3)
+
+Person.—The term ‘person’ has the meaning given the term in section 74(8) of the Arms Export Control Act (22 U.S.C. 2797c(8)).
+
+&emsp;“(4)
+
+United states person.—The term ‘United States person’ has the meaning given the term in section 74(6) of the Arms Export Control Act (22 U.S.C. 2797c(6)).”
 
 #### Section Referred to in Other Sections
 

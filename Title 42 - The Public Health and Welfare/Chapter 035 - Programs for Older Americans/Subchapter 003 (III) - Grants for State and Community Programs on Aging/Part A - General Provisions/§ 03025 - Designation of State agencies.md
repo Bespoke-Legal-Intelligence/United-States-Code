@@ -14,11 +14,11 @@ In order for a State to be eligible to participate in programs of grants to Stat
 
 &emsp;&emsp;(D) serve as an effective and visible advocate for older individuals by reviewing and commenting upon all State plans, budgets, and policies which affect older individuals and providing technical assistance to any agency, organization, association, or individual representing the needs of older individuals; and
 
-&emsp;&emsp;(E) divide the State into distinct planning and service areas (or in the case of a State specified in subsection (b)(5)(A) of this section, designate the entire State as a single planning and service area), in accordance with guidelines issued by the Assistant Secretary, after considering the geographical distribution of older individuals in the State, the incidence of the need for supportive services, nutrition services, multipurpose senior centers, and legal assistance, the distribution of older individuals who have greatest economic need (with particular attention to low-income minority individuals) residing in such areas, the distribution of older individuals who have greatest social need (with particular attention to low-income minority individuals) residing in such areas, the distribution of older individuals who are Indians residing in such areas, the distribution of resources available to provide such services or centers, the boundaries of existing areas within the State which were drawn for the planning or administration of supportive services programs, the location of units of general purpose local government within the State, and any other relevant factors; and
+&emsp;&emsp;(E) divide the State into distinct planning and service areas (or in the case of a State specified in subsection (b)(5)(A) of this section, designate the entire State as a single planning and service area), in accordance with guidelines issued by the Assistant Secretary, after considering the geographical distribution of older individuals in the State, the incidence of the need for supportive services, nutrition services, multipurpose senior centers, and legal assistance, the distribution of older individuals who have greatest economic need (with particular attention to low-income minority individuals and older individuals residing in rural areas) residing in such areas, the distribution of older individuals who have greatest social need (with particular attention to low-income minority individuals and older individuals residing in rural areas) residing in such areas, the distribution of older individuals who are Indians residing in such areas, the distribution of resources available to provide such services or centers, the boundaries of existing areas within the State which were drawn for the planning or administration of supportive services programs, the location of units of general purpose local government within the State, and any other relevant factors; and
 
 &emsp;(2) the State agency shall—
 
-&emsp;&emsp;(A) except as provided in subsection (b)(5) of this section, designate for each such area after consideration of the views offered by the unit or units of general purpose local government in such area, a public or private nonprofit agency or organization as the area agency on aging for such area;
+&emsp;&emsp;(A) except as provided in subsection (b)(5) of this section, designate for each such area after consideration of the views offered by the unit or units of general purpose localgovernment in such area, a public or private nonprofit agency or organization as the area agency on aging for such area;
 
 &emsp;&emsp;(B) provide assurances, satisfactory to the Assistant Secretary, that the State agency will take into account, in connection with matters of general policy arising in the development and administration of the State plan for any fiscal year, the views of recipients of supportive services or nutrition services, or individuals using multipurpose senior centers provided under such plan;
 
@@ -30,13 +30,13 @@ In order for a State to be eligible to participate in programs of grants to Stat
 
 &emsp;&emsp;(D) submit its formula developed under subparagraph (C) to the Assistant Secretary for approval;
 
-&emsp;&emsp;(E) provide assurances that preference will be given to providing services to older individuals with greatest economic need and older individuals with greatest social need, with particular attention to low-income minority individuals, and include proposed methods of carrying out the preference in the State plan;
+&emsp;&emsp;(E) provide assurances that preference will be given to providing services to older individuals with greatest economic need and older individuals with greatest social need, with particular attention to low-income minority individuals and older individuals residing in rural areas, and include proposed methods of carrying out the preference in the State plan;
 
-&emsp;&emsp;(F) provide assurances that the State agency will require use of outreach efforts described in section 3027(a)(24) of this title; and
+&emsp;&emsp;(F) provide assurances that the State agency will require use of outreach efforts described in section 3027(a)(16) of this title; and
 
-&emsp;&emsp;(G)(i) set specific objectives, in consultation with area agencies on aging, for each planning and service area for providing services funded under this subchapter to low-income minority older individuals;
+&emsp;&emsp;(G)(i) set specific objectives, in consultation with area agencies on aging, for each planning and service area for providing services funded under this subchapter to low-income minority older individuals and older individuals residing in rural areas;
 
-&emsp;&emsp;(ii) provide an assurance that the State agency will undertake specific program development, advocacy, and outreach efforts focused on the needs of low-income minority older individuals; and
+&emsp;&emsp;(ii) provide an assurance that the State agency will undertake specific program development, advocacy, and outreach efforts focused on the needs of low-income minority older individuals and older individuals residing in rural areas; and
 
 &emsp;&emsp;(iii) provide a description of the efforts described in clause (ii) that will be undertaken by the State agency.
 
@@ -82,7 +82,7 @@ In order for a State to be eligible to participate in programs of grants to Stat
 
 &emsp;(II) procedural grounds.
 
-(iv) In deciding an appeal described in clause (ii)(V), the Assistant Secretary may affirm or set aside the decision of the State agency. If the Assistant Secretary sets aside the decision, andthe State agency has taken an action described in subclauses (I) through (III) of clause (i), the State agency shall nullify the action.
+(iv) In deciding an appeal described in clause (ii)(V), the Assistant Secretary may affirm or set aside the decision of the State agency. If the Assistant Secretary sets aside the decision, and the State agency has taken an action described in subclauses (I) through (III) of clause (i), the State agency shall nullify the action.
 
 #### (c) Eligible State area agencies; development of area; preferred area agency on aging designees
 
@@ -112,17 +112,27 @@ The publication for review and comment required by paragraph (2)(C) of subsectio
 
 &emsp;(4) a demonstration of the allocation of funds, pursuant to the funding formula, to each planning and service area in the State.
 
-(Pub. L. 89–73, title III, §305, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1520; amended Pub. L. 97–115, §§3(d), 5, Dec. 29, 1981, 95 Stat. 1597; Pub. L. 98–459, title III, §305, Oct. 9, 1984, 98 Stat. 1773; Pub. L. 100–175, title I, §§124, 132(a), 134(a)(1), 182(e)(2), (g), (h), Nov. 29, 1987, 101 Stat. 933, 939, 940, 965; Pub. L. 100–628, title VII, §705(4), Nov. 7, 1988, 102 Stat. 3247; Pub. L. 102–375, title I, §102(b)(9)(B), (10)(B)–(D), title III, §305, title IX, §904(a)(11), Sept. 30, 1992, 106 Stat. 1201, 1202, 1222, 1306; Pub. L. 103–171, §§2(8), 3(a)(13), Dec. 2, 1993, 107 Stat. 1988, 1990.)
+(Pub. L. 89–73, title III, §305, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1520; amended Pub. L. 97–115, §§3(d), 5, Dec. 29, 1981, 95 Stat. 1597; Pub. L. 98–459, title III, §305, Oct. 9, 1984, 98 Stat. 1773; Pub. L. 100–175, title I, §§124, 132(a), 134(a)(1), 182(e)(2), (g), (h), Nov. 29, 1987, 101 Stat. 933, 939, 940, 965; Pub. L. 100–628, title VII, §705(4), Nov. 7, 1988, 102 Stat. 3247; Pub. L. 102–375, title I, §102(b)(9)(B), (10)(B)–(D), title III, §305, title IX, §904(a)(11), Sept. 30, 1992, 106 Stat. 1201, 1202, 1222, 1306; Pub. L. 103–171, §§2(8), 3(a)(13), Dec. 2, 1993, 107 Stat. 1988, 1990; Pub. L. 106–501, title III, §304, title VIII, §801(c)(3), Nov. 13, 2000, 114 Stat. 2239, 2292.)
 
 #### Prior Provisions
 
-A prior section 3025, Pub. L. 89–73, title III, §305, as added Pub. L. 93–29, title III, §301, May 3, 1973, 87 Stat. 41; Pub. L. 94–135, title I, §§106(a), (b), 114(e), Nov. 28, 1975, 89 Stat. 715, 725, related to State plans, prior to the general amendment of this subchapter by Pub. L. 95–478. See section 3027 of this title.
+A prior section 3025, Pub. L. 89–73, title III, §305, as added Pub. L. 93–29, title III, §301, May 3, 1973, 87 Stat.41; Pub. L. 94–135, title I, §§106(a), (b), 114(e), Nov. 28, 1975, 89 Stat. 715, 725, related to State plans, prior to the general amendment of this subchapter by Pub. L. 95–478. See section 3027 of this title.
 
 Another prior section 3025, Pub. L. 89–73, title III, §306, formerly §305, July 14, 1965, 79 Stat. 224; renumbered §306, Pub. L. 91–69, §5, Sept. 17, 1969, 83 Stat. 110, related to payments of grants for State and community programs on aging, adjustments, advances or reimbursement, and installments, prior to repeal by Pub. L. 93–29, title III, §301, May 3, 1973, 87 Stat. 36.
 
 Provisions similar to those comprising this section were contained in Pub. L. 89–73, title III, §304, as added Pub. L. 93–29, title III, §301, May 3, 1973, 87 Stat. 38; Pub. L. 94–135, title I, §§105, 106(c), Nov. 28, 1975, 89 Stat. 715, 716, which was classified to section 3024 of this title prior to repeal by Pub. L. 95–478.
 
 #### Amendments
+
+2000—Subsec. (a)(1)(E). Pub. L. 106–501, §304(1), inserted “and older individuals residing in rural areas” after “low-income minority individuals” in two places.
+
+Subsec. (a)(2)(E). Pub. L. 106–501, §304(2)(A), struck out comma and inserted “and older individuals residing in rural areas,” after “low-income minority individuals”.
+
+Subsec. (a)(2)(F). Pub. L. 106–501, §801(c)(3), substituted “3027(a)(16)” for “3027(a)(24)”.
+
+Subsec. (a)(2)(G)(i). Pub. L. 106–501, §304(2)(B), inserted “and older individuals residing in rural areas” after “low-income minority older individuals”.
+
+Subsec. (a)(2)(G)(ii). Pub. L. 106–501, §304(2)(C), which directed the insertion of “and older individuals residing in rural areas” after “low-income minority individuals”, was executed by making the insertion after “low-income minority older individuals”, to reflect the probable intent of Congress.
 
 1993—Subsec. (a). Pub. L. 103–171, §3(a)(13), substituted “Assistant Secretary” for “Commissioner” wherever appearing.
 
@@ -188,7 +198,7 @@ Subsec. (c)(3). Pub. L. 100–175, §124(2), inserted “only” after “to act
 
 Subsec. (c)(4). Pub. L. 100–175, §124(3), inserted “, or any separate organizational unit within such agency,” after first reference to “area” and substituted “and will engage only” for “engage”.
 
-Subsec. (d). Pub. L. 100–175, §182(e)(2), struck out par. (1) designation before “The publication for review” and struck out par. (2) which read as follows: “For purposes of clause (2)(E) of subsection (a) of this section and paragraph (1) of this subsection, the term ‘greatest economic need’ means the need resulting from an income level at or below the poverty threshold established by the Bureau of the Census, and the term ‘greatest social need’ means the need caused by noneconomic factors which include physical and mental disabilities, language barriers, and cultural or social isolation including that caused by racial or ethnic status which restricts an individual's ability to perform normal daily tasks or which threatens his or her capacity to live independently.”
+Subsec. (d). Pub. L. 100–175, §182(e)(2), struck out par. (1) designation before “The publication for review” and struck out par. (2) which read as follows: “For purposesof clause (2)(E) of subsection (a) of this section and paragraph (1) of this subsection, the term ‘greatest economic need’ means the need resulting from an income level at or below the poverty threshold established by the Bureau of the Census, and the term ‘greatest social need’ means the need caused by noneconomic factors which include physical and mental disabilities, language barriers, and cultural or social isolation including that caused by racial or ethnic status which restricts an individual's ability to perform normal daily tasks or which threatens his or her capacity to live independently.”
 
 1984—Subsec. (a)(1)(E). Pub. L. 98–459, §305(a)(1), substituted “subsection (b)(5)(A) of this section” for “subsection (b)(5) of this section”.
 
@@ -228,7 +238,7 @@ Amendment by Pub. L. 98–459 effective Oct. 9, 1984, see section 803(a) of Pub.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3002, 3012, 3023, 3024, 3026, 3027, 3028, 3058c, 5001, 11261, 11292 of this title.
+This section is referred to in sections 3002, 3012, 3023, 3024, 3026, 3027, 3028, 3030c–3, 3058c, 5001, 11261, 11292 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “service”.</i>
 

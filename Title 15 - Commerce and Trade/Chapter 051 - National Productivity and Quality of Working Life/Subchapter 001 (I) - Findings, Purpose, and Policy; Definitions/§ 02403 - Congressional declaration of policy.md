@@ -2,7 +2,7 @@
 
 #### (a) Stimulation of high rate of productivity growth
 
-The Congress, recognizing the profound impact of productivity on the interrelations of all components of the national economy, declares that it is the continuing policy of the Federal Government, in cooperation with State and local governments, to use all practicable means and measures, including financial and technicalassistance, to stimulate a high rate of productivity growth.
+The Congress, recognizing the profound impact of productivity on the interrelations of all components of the national economy, declares that it is the continuing policy of the Federal Government, in cooperation with State and local governments, to use all practicable means and measures, including financial and technical assistance, to stimulate a high rate of productivity growth.
 
 #### (b) Improvement and coordination of Federal plans to carry out policy
 

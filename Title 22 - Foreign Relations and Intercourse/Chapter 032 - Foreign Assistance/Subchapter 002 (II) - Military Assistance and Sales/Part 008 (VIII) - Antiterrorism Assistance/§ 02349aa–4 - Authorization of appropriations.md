@@ -1,16 +1,18 @@
 ### §2349aa–4. Authorization of appropriations
 
-(a) There are authorized to be appropriated to the President to carry out this part $9,840,000 for fiscal year 1986 and $14,680,000 for fiscal year 1987.
+(a) There are authorized to be appropriated to the President to carry out this part $72,000,000 for fiscal year 2001 and $73,000,000 for fiscal year 2002.
 
 (b) Amounts appropriated under this section are authorized to remain available until expended.
 
-(Pub. L. 87–195, pt. II, §574, formerly §575, as added Pub. L. 98–151, §101(b)(2), Nov. 14, 1983, 97 Stat. 972; amended Pub. L. 99–83, title V, §501(a), Aug. 8, 1985, 99 Stat. 219; Pub. L. 99–399, title IV, §401(a)(2), Aug. 27, 1986, 100 Stat. 862; renumbered §574, Pub. L. 104–164, title I, §121(d), July 21, 1996, 110 Stat. 1428.)
+(Pub. L. 87–195, pt. II, §574, formerly §575, as added Pub. L. 98–151, §101(b)(2), Nov. 14, 1983, 97 Stat. 972; amended Pub. L. 99–83, title V, §501(a), Aug. 8, 1985, 99 Stat. 219; Pub. L. 99–399, title IV, §401(a)(2), Aug. 27, 1986, 100 Stat. 862; renumbered §574, Pub. L. 104–164, title I, §121(d), July 21, 1996, 110 Stat. 1428; Pub. L. 106–280, title IV, §401, Oct. 6, 2000, 114 Stat. 854.)
 
 #### Prior Provisions
 
 A prior section 574 of Pub. L. 87–195 was classified to section 2349aa–3 of this title prior to repeal by Pub. L. 104–164.
 
 #### Amendments
+
+2000—Subsec. (a). Pub. L. 106–280 substituted “$72,000,000 for fiscal year 2001 and $73,000,000 for fiscal year 2002” for “$9,840,000 for fiscal year 1986 and $14,680,000 for fiscal year 1987”.
 
 1986—Subsec. (a). Pub. L. 99–399 substituted “$14,680,000 for the fiscal year 1987” for “$9,840,000 for the fiscal year 1987”.
 

@@ -14,13 +14,5 @@ Section was formerly classified to section 377 of this title. See section 361g o
 
 #### Transfer of Functions
 
-“United States Postal Service” substituted in text for “Postmaster General” pursuant to Pub. L. 91–375,§4(a), Aug. 12, 1970, 84 Stat. 773, set out as a note under section 201 of Title 39, Postal Service, which abolished office of Postmaster General of Post Office Department and transferred its functions to United States Postal Service.
-
-#### Cross References
-
-Penalty mail, authorization to use, see section 3202 of Title 39, Postal Service.
-
-Preparation and printing of annual report of experiment stations, see section 418 of this title.
-
-Sale of card index of literature prepared in connection with the administration of sections 361a to 361i of this title, see section 384 of this title.
+“United States Postal Service” substituted in text for “Postmaster General” pursuant to Pub. L. 91–375, §4(a), Aug. 12, 1970, 84 Stat. 773, set out as a note under section 201 of Title 39, Postal Service, which abolished office of Postmaster General of Post Office Department and transferred its functions to United States Postal Service.
 

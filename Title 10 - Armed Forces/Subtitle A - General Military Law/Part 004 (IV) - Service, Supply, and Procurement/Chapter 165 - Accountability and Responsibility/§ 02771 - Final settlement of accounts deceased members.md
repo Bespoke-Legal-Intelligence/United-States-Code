@@ -114,7 +114,7 @@ In subsection (c), the word “Under” is substituted for the words “Subject 
 
 1993—Subsec. (a). Pub. L. 103–160, §1182(a)(11)(A), struck out “who dies after December 31, 1955” after “armed forces” in introductory provisions.
 
-Subsec. (b). Pub. L. 103–160, §1182(a)(11)(B), substituted “for the uniformed services” for “for thearmed forces, the National Oceanic and Atmospheric Administration, and the Public Health Service”.
+Subsec. (b). Pub. L. 103–160, §1182(a)(11)(B), substituted “for the uniformed services” for “for the armed forces, the National Oceanic and Atmospheric Administration, and the Public Health Service”.
 
 1980—Subsec. (b). Pub. L. 96–513, §511(97)(A), substituted “National Oceanic and Atmospheric Administration” for “Environmental Science Services Administration”.
 
@@ -161,10 +161,6 @@ Section 29 of Pub. L. 85–861 provided that:
 #### Designation of Beneficiary Made Before January 1, 1956
 
 Section 31 of Pub. L. 85–861 provided that: “The designation of a beneficiary made for the purposes of any six months’ death gratuity, including the designation of a person whose right to the gratuity does not depend upon that designation, and received in the military department concerned, the Department of the Treasury, the Department of Commerce, or the Department of Health, Education, and Welfare, as the case may be, before January 1, 1956, is considered as the designation of a beneficiary for the purposes of section 2771 of title 10, United States Code \[this section\], section 714 of title 32, United States Code, and sections 3 and 4 of this Act \[amending section 857a of Title 33, and section 213a of Title 42\], in the absence of a designation under one of those sections, unless the member making the designation was missing, missing in action, in the hands of a hostile force, or interned in a foreign country any time after July 11, 1955, and before January 1, 1956.”
-
-#### Cross References
-
-Payment of claims incident to correction of military records, see section 1552 of this title.
 
 #### Section Referred to in Other Sections
 

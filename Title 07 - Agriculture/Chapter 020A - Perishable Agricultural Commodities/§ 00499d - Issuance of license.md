@@ -14,7 +14,7 @@ The Secretary shall refuse to issue a license to an applicant if he finds that t
 
 &emsp;(C) within two years prior to the date of the application, has been found guilty in a Federal court of having violated the provisions of sections 491, 493 to 497 of this title, relating to the prevention of destruction and dumping of farm produce; or
 
-&emsp;(D) has failed, except in the case of bankruptcy and subject to his right of appeal undersection 499g(c) of this title, to pay any reparation order issued against him within two years prior to the date of the application.
+&emsp;(D) has failed, except in the case of bankruptcy and subject to his right of appeal under section 499g(c) of this title, to pay any reparation order issued against him within two years prior to the date of the application.
 
 #### (c) Issuance of license upon furnishing bond; issuance after three years without bond; effect of termination of bond; increase or decrease in amount; payment of increase
 
@@ -77,10 +77,6 @@ Subsecs. (c) to (e). Act Apr. 13, 1934, §§5–7, added subsecs. (c) to (e).
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub. L. 95–598, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
-
-#### Cross References
-
-Delegation of regulatory functions of Secretary of Agriculture, see section 450c of this title.
 
 #### Section Referred to in Other Sections
 

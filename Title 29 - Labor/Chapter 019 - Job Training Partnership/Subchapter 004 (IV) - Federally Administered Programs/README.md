@@ -1,9 +1,5 @@
 ### SUBCHAPTER IV—FEDERALLY ADMINISTERED PROGRAMS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in title 31 section 6703; title 42 section 4368a.
-
 
 ---
 

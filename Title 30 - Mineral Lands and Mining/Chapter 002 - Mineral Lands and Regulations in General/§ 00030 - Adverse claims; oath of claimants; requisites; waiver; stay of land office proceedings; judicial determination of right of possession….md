@@ -20,14 +20,6 @@ Director of the Bureau of Land Management substituted for United States Supervis
 
 Office of register of district land office abolished and all functions of register transferred to Secretary of the Interior, or to officers and agencies of Department of the Interior as Secretary may designate, by Reorg. Plan No. 3 of 1946, §403, set out in the Appendix to Title 5.
 
-#### Cross References
-
-Civil actions for just compensation by holders of mining claims within National Park System mining areas, see section 1910 of Title 16, Conservation.
-
-Michigan, Minnesota and Wisconsin mineral lands, see section 48 of this title.
-
-Recordation of mining claims within National Park System areas, see section 1907 of Title 16, Conservation.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 24, 29, 33, 37, 38, 39, 40, 42, 46, 47, 48, 49, 102, 541b of this title; title 16 section 460mm–1; title 25 section 640d–10; title 43 sections 1712, 1714, 1732.

@@ -2,7 +2,7 @@
 
 #### (a) Required cost or pricing data and certification
 
-(1) The head of an executive agency shall require offerors, contractors, and subcontractorsto make cost or pricing data available as follows:
+(1) The head of an executive agency shall require offerors, contractors, and subcontractors to make cost or pricing data available as follows:
 
 &emsp;(A) An offeror for a prime contract under this subchapter to be entered into using procedures other than sealed-bid procedures shall be required to submit cost or pricing data before the award of a contract if—
 
@@ -62,7 +62,7 @@
 
 &emsp;&emsp;(B) for the acquisition of a commercial item; or
 
-&emsp;&emsp;(C) in an exceptional case when the head of the procuring activity, without delegation,determines that the requirements of this section may be waived and justifies in writing the reasons for such determination.
+&emsp;&emsp;(C) in an exceptional case when the head of the procuring activity, without delegation, determines that the requirements of this section may be waived and justifies in writing the reasons for such determination.
 
 #### (2) Modifications of contracts and subcontracts for commercial items
 
@@ -90,7 +90,7 @@
 
 #### (1) Authority to require submission
 
-&emsp;When certified cost or pricing data are not required to be submitted under this section for a contract, subcontract, or modification of a contract or subcontract, the contracting officer shall require submission of data other than certified cost or pricing data to the extent necessary to determine the reasonableness of the price of the contract, subcontract, or modification of the contract or subcontract. Except in the case of a contract or subcontract covered by the exceptions in subsection (b)(1)(A) of this section, the contracting officer shall require that the data submitted include, at a minimum, appropriate information on the prices at which the same item or similar items have previously been sold that is adequate for evaluating the reasonableness of the price for the procurement.
+&emsp;When certified cost or pricing data are not required to be submitted under this section fora contract, subcontract, or modification of a contract or subcontract, the contracting officer shall require submission of data other than certified cost or pricing data to the extent necessary to determine the reasonableness of the price of the contract, subcontract, or modification of the contract or subcontract. Except in the case of a contract or subcontract covered by the exceptions in subsection (b)(1)(A) of this section, the contracting officer shall require that the data submitted include, at a minimum, appropriate information on the prices at which the same item or similar items have previously been sold that is adequate for evaluating the reasonableness of the price for the procurement.
 
 #### (2) Limitations on authority
 
@@ -180,7 +180,7 @@ Subsec. (d)(1). Pub. L. 105–261, §808(b), substituted “the contracting offi
 
 1996—Subsec. (b). Pub. L. 104–106, §4201(b)(1), amended subsec. (b) generally, substituting pars. (1) and (2) relating to submission of certified cost or pricing data for former pars. (1) and (2) relating to submission of cost or pricing data and striking out par. (3) relating to FAR standards.
 
-Subsec. (c). Pub. L. 104–106, §4201(b)(1), amended subsec. (c) generally, substituting pars. (1) to (3) relating to authority to require submission of certified cost or pricing data for former par. (1) relating to authority torequire submission of cost or pricing data and striking out former par. (2) relating to authority to require information other than certified cost or pricing data.
+Subsec. (c). Pub. L. 104–106, §4201(b)(1), amended subsec. (c) generally, substituting pars. (1) to (3) relating to authority to require submission of certified cost or pricing data for former par. (1) relating to authority to require submission of cost or pricing data and striking out former par. (2) relating to authority to require information other than certified cost or pricing data.
 
 Subsec. (c)(1). Pub. L. 104–106, §4321(e)(3), which directed amendment of heading of par. (1) by changing each letter that is capitalized (other than the first letter of the first word) to lowercase, could not be executed because of the general amendment of subsec. (c) by Pub. L. 104–106, §4201(b)(1). See above.
 
@@ -204,7 +204,7 @@ Section 1251(b) of Pub. L. 103–355, as amended by Pub. L. 104–106, div. D, t
 
 #### Eligibility for Contracts and Subcontracts To Be Conditioned on Compliance
 
-Pub. L. 105–261, div. A, title VIII, §808(c), Oct. 17, 1998, 112 Stat. 2085, provided that: “Not later than 180 days after the date of the enactment of this Act \[Oct. 17, 1998\], the Federal Acquisition Regulation shall be amended to provide that an offeror's compliance with a requirement to submit data for a contract or subcontract in accordance with section 2306a(d)(1) of title 10, United States Code, or section 304A(d)(1) of the Federal Property and Administrative Services Act of 1949 \[41 U.S.C. 254b(d)(1)\] shall be a condition for the offeror to be eligible to enter into the contract or subcontract, subject to such exceptions as the Federal Acquisition Regulatory Council determines appropriate.”
+Pub. L. 105–261, div. A, title VIII, §808(c), Oct. 17, 1998, 112 Stat. 2085, provided that: “Not later than 180 daysafter the date of the enactment of this Act \[Oct. 17, 1998\], the Federal Acquisition Regulation shall be amended to provide that an offeror's compliance with a requirement to submit data for a contract or subcontract in accordance with section 2306a(d)(1) of title 10, United States Code, or section 304A(d)(1) of the Federal Property and Administrative Services Act of 1949 \[41 U.S.C. 254b(d)(1)\] shall be a condition for the offeror to be eligible to enter into the contract or subcontract, subject to such exceptions as the Federal Acquisition Regulatory Council determines appropriate.”
 
 #### Criteria for Determining Specific Price Information Required
 

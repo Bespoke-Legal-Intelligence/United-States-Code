@@ -32,7 +32,7 @@ Required Cost or Pricing Data and Certification.—(1) The head of an agency sha
 
 &emsp;&emsp;(ii) in the case of a change or modification to a subcontract referred to in subparagraph (C)(iii), the price adjustment is expected to exceed $100,000.
 
-(2) A person required, as an offeror, contractor, or subcontractor, to submit cost or pricing data under paragraph (1) (or required by the head of the agency concerned to submit such data under subsection (c)) shall be required to certify that, to the best of the person's knowledge and belief, the cost or pricing data submitted are accurate, complete, and current.
+(2) A person required, as an offeror, contractor, or subcontractor, to submit cost or pricingdata under paragraph (1) (or required by the head of the agency concerned to submit such data under subsection (c)) shall be required to certify that, to the best of the person's knowledge and belief, the cost or pricing data submitted are accurate, complete, and current.
 
 (3) Cost or pricing data required to be submitted under paragraph (1) (or under subsection (c)), and a certification required to be submitted under paragraph (2), shall be submitted—
 
@@ -134,7 +134,7 @@ Price Reductions for Defective Cost or Pricing Data.—(1)(A) A prime contract (
 
 &emsp;(i) the contractor certifies to the contracting officer (or to a designated representative of the contracting officer) that, to the best of the contractor's knowledge and belief, the contractor is entitled to the offset; and
 
-&emsp;(ii) the contractor proves that the cost or pricing data were available before the date ofagreement on the price of the contract (or price of the modification) or, if applicable consistent with paragraph (1)(B), another date agreed upon between the parties, and that the data were not submitted as specified in subsection (a)(3) before such date.
+&emsp;(ii) the contractor proves that the cost or pricing data were available before the date of agreement on the price of the contract (or price of the modification) or, if applicable consistent with paragraph (1)(B), another date agreed upon between the parties, and that the data were not submitted as specified in subsection (a)(3) before such date.
 
 (B) A contractor shall not be allowed to offset an amount otherwise authorized to be offset under subparagraph (A) if—
 
@@ -204,7 +204,7 @@ Subsec. (c). Pub. L. 104–106, §4201(a)(1), amended subsec. (c) generally, rev
 
 Subsec. (d). Pub. L. 104–106, §4321(b)(7)(A), which directed amendment of subsec. (d)(2)(A)(ii), by inserting “to” after “The information referred”, could not be executed because subsec. (d)(2)(A) did not contain a cl. (ii) or the language “The information referred” subsequent to amendment by Pub. L. 104–106, §4201(a)(1). See below.
 
-Pub. L. 104–106, §4201(a)(1), amended subsec. (d) generally, revising and restating as pars. (1) and (2) provisions of former subsecs. (c)(2) and (d)(2), (4) and striking out provisions of former subsec. (d)(1), (3) relating toprocurements based on adequate price competition and authority to audit.
+Pub. L. 104–106, §4201(a)(1), amended subsec. (d) generally, revising and restating as pars. (1) and (2) provisions of former subsecs. (c)(2) and (d)(2), (4) and striking out provisions of former subsec. (d)(1), (3) relating to procurements based on adequate price competition and authority to audit.
 
 Subsec. (e)(4)(B)(ii). Pub. L. 104–106, §4321(b)(7)(B), struck out second comma after “parties”.
 
@@ -388,7 +388,7 @@ Commercial Price Trend Analysis.—(1) The Secretary of Defense shall develop an
 
 &emsp;“(A) that are in a single Federal Supply Group or Federal Supply Class, are provided by a single contractor, or are otherwise logically grouped for the purpose of analyzing information on price trends; and
 
-&emsp;“(B) for which there is a potential for the price paid to be significantly higher (on a percentage basis) than the prices previously paid in procurements of the same or similar items for the Department of Defense, as determined by the head of the procuring Department of Defense agency or the Secretary of the procuring military department on the basis of criteria prescribed by the Secretary of Defense.
+&emsp;“(B) for which there is a potential for the price paid to be significantly higher (on a percentage basis)than the prices previously paid in procurements of the same or similar items for the Department of Defense, as determined by the head of the procuring Department of Defense agency or the Secretary of the procuring military department on the basis of criteria prescribed by the Secretary of Defense.
 
 “(3) The head of a Department of Defense agency or the Secretary of a military department shall take appropriate action to address any unreasonable escalation in prices being paid for items procured by that agency or military department as identified in an analysis conducted pursuant to paragraph (1).
 

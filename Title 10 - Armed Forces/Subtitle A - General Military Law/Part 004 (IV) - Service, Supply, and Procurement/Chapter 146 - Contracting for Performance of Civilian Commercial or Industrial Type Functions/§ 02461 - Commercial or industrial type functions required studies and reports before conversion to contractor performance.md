@@ -14,7 +14,7 @@ Notification and Elements of Analysis.—(1) Before commencing to analyze a comm
 
 &emsp;(C) The number of civilian employee positions potentially affected.
 
-&emsp;(D) The anticipated length and cost of the analysis.
+&emsp;(D) The anticipated length and cost of the analysis, and a specific identification of the budgetary line item from which funds will be used to cover the cost of the analysis.
 
 &emsp;(E) A certification that a proposed performance of the commercial or industrial type function by persons who are not civilian employees of the Department of Defense is not a result of a decision by an official of a military department or Defense Agency to impose predetermined constraints or limitations on such employees in terms of man years, end strengths, full-time equivalent positions, or maximum number of employees.
 
@@ -50,17 +50,31 @@ Notification and Elements of Analysis.—(1) Before commencing to analyze a comm
 
 Notification of Decision.—(1) If, as a result of the completion of the examinations under subsection (b)(3), a decision is made to change the commercial or industrial type function that was the subject of the analysis to performance by the private sector, the Secretary of Defense shall submit to Congress a report describing that decision. The report shall contain the following:
 
-&emsp;(A) An indication that the examinations required under subsection (b)(3) have been completed.
+&emsp;(A) The date when the analysis of that commercial or industrial type function for possible change to performance by the private sector was commenced.
 
-&emsp;(B) The Secretary's certification that the Government calculation of the cost of performance of the function by Department of Defense civilian employees is based on an estimate of the most cost effective manner for performance of the function by Department of Defense civilian employees.
+&emsp;(B) An indication that the examinations required under subsection (b)(3) have been completed.
 
-&emsp;(C) The Secretary's certification that the examination required by subsection (b)(3)(A) as part of the analysis demonstrates that the performance of the function by the private sector will result in savings to the Government over the life of the contract.
+&emsp;(C) The Secretary's certification that the Government calculation of the cost of performance of the function by Department of Defense civilian employees is based on an estimate of the most cost effective manner for performance of the function by Department of Defense civilian employees.
 
-&emsp;(D) The Secretary's certification that the entire analysis is available for examination.
+&emsp;(D) The number of Department of Defense civilian employees who were performing the function when the analysis was commenced, the number of such employees whose employment was terminated or otherwise affected in implementing the most efficient organization of the function, and the number of such employees whose employment would be terminated or otherwise affected by changing to performance of the function by the private sector.
 
-&emsp;(E) A schedule for completing the change to performance of the function by the private sector.
+&emsp;(E) The Secretary's certification that the factors considered in the examinations performed under subsection (b)(3), and in the making of the decision to change performance, did not include any predetermined personnel constraint or limitation in terms of man years, end strength, full-time equivalent positions, or maximum number of employees.
 
-(2) The change of the function to contractor performance may not begin until after the submission of the report required by this subsection.
+&emsp;(F) The Secretary's certification that the examination required by subsection (b)(3)(A) as part of the analysis demonstrates that the performance of the function by the private sector will result in savings to the Government over the life of the contract.
+
+&emsp;(G) A statement of the potential economic effect of the change on each affected local community, as determined in the examination under subsection (b)(3)(B)(ii).
+
+&emsp;(H) The Secretary's certification that the entire analysis is available for examination.
+
+&emsp;(I) A schedule for completing the change to performance of the function by the private sector.
+
+(2) If the commercial or industrial type function to be changed to performance by the private sector is performed at a Center of Industrial and Technical Excellence designated under section 2474(a) of this title or an Army ammunition plant—
+
+&emsp;(A) the report required by this subsection shall also include a description of the effect that the performance and administration of the resulting contract will have on the overhead costs of the center or ammunition plant, as the case may be; and
+
+&emsp;(B) notwithstanding paragraph (3), the change of the function to contractor performance may not begin until at least 60 days after the submission of the report.
+
+(3) The change of the function to contractor performance may not begin until after the submission of the report required by this subsection.
 
 (d)
 
@@ -88,7 +102,7 @@ Annual Reports.—Not later than February 1 of each fiscal year, the Secretary o
 
 Inapplicability During War or Emergency.—The provisions of this section shall not apply during war or during a period of national emergency declared by the President or Congress.
 
-(Added Pub. L. 100–370, §2(a)(1), July 19, 1988, 102 Stat. 851; amended Pub. L. 101–189, div. A, title XI, §1132, Nov. 29, 1989, 103 Stat. 1561; Pub. L. 104–106, div. D, title XLIII, §4321(b)(19), Feb. 10, 1996, 110 Stat. 673; Pub. L. 105–85, div. A, title III, §384, Nov. 18, 1997, 111 Stat. 1711; Pub. L. 105–261, div. A, title III, §342(a)–(c), Oct. 17, 1998, 112 Stat. 1974–1976; Pub. L. 106–65, div. A, title III, §341, Oct. 5, 1999, 113 Stat. 568.)
+(Added Pub. L. 100–370, §2(a)(1), July 19, 1988, 102 Stat. 851; amended Pub. L. 101–189, div. A, title XI, §1132, Nov. 29, 1989, 103 Stat. 1561; Pub. L. 104–106, div. D, title XLIII, §4321(b)(19), Feb. 10, 1996, 110 Stat. 673; Pub. L. 105–85, div. A, title III, §384, Nov. 18, 1997, 111 Stat. 1711; Pub. L. 105–261, div. A, title III, §342(a)–(c), Oct. 17, 1998, 112 Stat. 1974–1976; Pub. L. 106–65, div. A, title III, §341, Oct. 5, 1999, 113 Stat. 568; Pub. L. 106–398, §1 \[\[div. A\], title III, §§351, 352\], Oct. 30, 2000, 114 Stat. 1654, 1654A–71, 1654A–72.)
 
 #### Historical and Revision Notes
 
@@ -99,6 +113,12 @@ Section is based on Pub. L. 96–342, title V, §502, Sept. 8, 1980, 94 Stat. 10
 The Javits-Wagner-O'Day Act, referred to in subsec. (e), is act June 25, 1938, ch. 697, 52 Stat. 1196, as amended, which is classified to sections 46 to 48c of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 46 of Title 41 and Tables.
 
 #### Amendments
+
+2000—Subsec. (b)(1)(D). Pub. L. 106–398, §1 \[\[div. A\], title III, §351(a)\], inserted before period “, and a specific identification of the budgetary line item from which funds will be used to cover the cost of the analysis”.
+
+Subsec. (c)(1). Pub. L. 106–398, §1 \[\[div. A\], title III, §351(b)\], added subpars. (A), (D), (E), and (G) and redesignated former subpars. (A), (B), (C), (D), and (E) as (B), (C), (F), (H), and (I), respectively.
+
+Subsec. (c)(2), (3). Pub. L. 106–398, §1 \[\[div. A\], title III, §352\], added par. (2) and redesignated former par. (2) as (3).
 
 1999—Subsec. (b)(3)(B)(ii). Pub. L. 106–65 substituted “50 employees” for “75 employees”.
 

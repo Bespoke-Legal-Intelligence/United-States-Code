@@ -14,7 +14,7 @@ Enforcement.—This chapter and chapter 301 of this title do not affect the auth
 
 (c)
 
-Additional and Higher Standards of Performance.—The United States Government,a State, or a political subdivision of a State may prescribe a bumper standard for a passenger motor vehicle or passenger motor vehicle equipment obtained for its own use that imposes additional or higher standards of performance than a standard prescribed under section 32502 of this title.
+Additional and Higher Standards of Performance.—The United States Government, a State, or a political subdivision of a State may prescribe a bumper standard for a passenger motor vehicle or passenger motor vehicle equipment obtained for its own use that imposes additional or higher standards of performance than a standard prescribed under section 32502 of this title.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1047.)
 

@@ -60,7 +60,7 @@ The Secretaries may not provide an implementation grant under section 6142 of th
 
 &emsp;&emsp;(F) establishing, in schools participating in the School-to-Work Opportunities program, a graduation assistance program to assist at-risk students, low-achieving students, and students with disabilities, in graduating from high school, enrolling in postsecondary education or training, and finding or advancing in jobs;
 
-&emsp;&emsp;(G) providing career exploration and awareness services, counseling and mentoring services, college awareness and preparation services, and other services (beginning at the earliest possible age, but not laterthan the 7th grade) to prepare students for the transition from school to work;
+&emsp;&emsp;(G) providing career exploration and awareness services, counseling and mentoring services, college awareness and preparation services, and other services (beginning at the earliest possible age, but not later than the 7th grade) to prepare students for the transition from school to work;
 
 &emsp;&emsp;(H) providing supplementary and support services, including child care and transportation, when such services are necessary for participation in a local School-to-Work Opportunities program;
 

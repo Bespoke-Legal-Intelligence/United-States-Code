@@ -66,7 +66,7 @@ A prior section 2151d, Pub. L. 87–195, pt. I, §106, as added Pub. L. 93–189
 
 1985—Subsec. (b)(1). Pub. L. 99–83, §1211(a)(2), struck out par. (A) designation, and struck out par. (B) which related to use of funds in fiscal year 1981 for geological and geophysical survey work.
 
-Subsec. (e)(1). Pub. L. 99–83, §307(a), amended par. (1) generally, substituting provisions authorizing appropriations of $207,000,000 for fiscal years 1986 and 1987 forprovisions authorizing appropriations of $147,200,000 for fiscal years 1982 and 1983.
+Subsec. (e)(1). Pub. L. 99–83, §307(a), amended par. (1) generally, substituting provisions authorizing appropriations of $207,000,000 for fiscal years 1986 and 1987 for provisions authorizing appropriations of $147,200,000 for fiscal years 1982 and 1983.
 
 Subsec. (f). Pub. L. 99–83, §307(b), added subsec. (f).
 
@@ -108,5 +108,5 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2151f, 2151u, 2293, 3262 of this title.
+This section is referred to in sections 2151u, 2293, 3262 of this title.
 

@@ -62,7 +62,3 @@ Pub. L. 103–57, Aug. 2, 1993, 107 Stat. 279, provided that:
 
 Section 11 of Pub. L. 89–509 provided that: “Payments of compensation heretofore made to the head of the National Air Museum at rates fixed by the Secretary of the Smithsonian Institution without regard to the Classification Act of 1949, as amended \[chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees\] are hereby ratified and affirmed.”
 
-#### Cross References
-
-National Armed Forces Museum Advisory Board establishment provisions as not rescinding National Air Museum provisions, see section 80a of this title.
-

@@ -18,9 +18,15 @@ The property transfer document described in subsection (a) of this section shall
 
 &emsp;(5) an identification of all Federal property to be retained by the Federal Government on the Pribilof Islands to meet its responsibilities as described in this chapter and under the Convention.
 
-#### (c) Report to Congress of fair market value of transferred property
+#### (c) Report to Congress on conveyed and retained properties
 
-Within 60 days of the transfer of real or personal property specified in the document described in subsection (a) of this section, the Committee on Merchant Marine and Fisheries of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate shall be given a report prepared by the Secretary stating the fair market value at the time of the transfer of all real and personal property conveyed.
+Not later than 3 months after December 23, 2000, the Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Resources of the House of Representatives a report that includes—
+
+&emsp;(1) a description of all property specified in the document referred to in subsection (a) of this section that has been conveyed under that subsection;
+
+&emsp;(2) a description of all Federal property specified in the document referred to in subsection (a) of this section that is going to be conveyed under that subsection; and
+
+&emsp;(3) an identification of all Federal property on the Pribilof Islands that will be retained by the Federal Government to meet its responsibilities under this chapter, the Convention, and any other applicable law.
 
 #### (d) Memorandum of Understanding
 
@@ -36,7 +42,7 @@ A Memorandum of Understanding shall be entered into by the Secretary, a represen
 
 &emsp;(5) continued activities relating to the implementation of the Convention;
 
-&emsp;(6) oversight of the operation of the Trust established by section 1166(a) of this title to further progress toward creation of a stable, diversified, and enduring economy not dependent up commercial fur sealing;
+&emsp;(6) oversight of the operation of the Trust established by section 1166(a) <sup>1</sup> of this title to further progress toward creation of a stable, diversified, and enduring economy not dependent up commercial fur sealing;
 
 &emsp;(7) the cooperation of government agencies, rendered through existing programs, in assisting with an orderly transition from Federal management and the creation of a private enterprise economy on the Pribilof Islands as described in this chapter; and
 
@@ -52,23 +58,31 @@ The grant, sale, transfer or conveyance of any real or personal property pursuan
 
 In carrying out the purposes of this chapter, the Secretary is authorized to enter into agreements, including but not limited to land exchange agreements with other Departments and Agencies of both the State and Federal Governments, and with third parties, notwithstanding any provision of law relating to the transfer and disposal of Federal property to the contrary; except that the authority of the Secretary of the Interior regarding exchanges involving lands in the National Wildlife Refuge System on October 14, 1983, is not affected by this section.
 
-#### (g) Report to Congress on status of negotiations
+(Pub. L. 89–702, title II, §205, Nov. 2, 1966, 80 Stat. 1094; Pub. L. 98–129, §2, Oct. 14, 1983, 97 Stat. 839; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(e)(4)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–245; Pub. L. 106–562, title I, §104, Dec. 23, 2000, 114 Stat. 2796.)
 
-The Secretary shall submit to Congress a report, no later than October 1, 1983, providing information on the status of the negotiations for concluding the documents described in subsections (a) and (d) of this section.
+#### Repeal of Section
 
-(Pub. L. 89–702, title II, §205, Nov. 2, 1966, 80 Stat. 1094; Pub. L. 98–129, §2, Oct. 14, 1983, 97 Stat. 839.)
+<i>Pub. L. 106–562, title I, §105(c), Dec. 23, 2000, 114 Stat. 2798, provided that, effective on the date on which the Secretary of Commerce makes the certification described in Pub. L. 106–562, §105(b)(2), set out in a Termination of Responsibilities note under section 1161 of this title, this section is repealed.</i>
+
+<i>Substantially identical provisions repealing this section were contained in Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(e)(5)(C)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–247.</i>
+
+#### References in Text
+
+December 23, 2000, referred to in subsec. (c), was in the original “the date of the enactment of the Pribilof Islands Transition Act” which was translated as referring to the date of enactment of title I of Pub. L. 106–562. Section 1(a)(4) \[div. B, title I, §144(e)\] of Pub. L. 106–554, which was approved Dec. 21, 2000, is also known as the “Pribilof Islands Transition Act”. See Short Title of 2000 Amendments notes under section 1151 of this title.
+
+Section 1166(a) of this title, referred to in subsec. (d)(6), was amended generally by Pub. L. 106–554 and Pub. L. 106–562, and, as so amended, no longer contains provisions relating to establishment of a Trust.
 
 #### Amendments
 
+2000—Subsec. (c). Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(e)(4)(A)\], and Pub. L. 106–562, §104(1), generally amended subsec. (c) identically, substituting present provisions for provisions which read as follows: “Within 60 days of the transfer of real or personal property specified in the document described in subsection (a) of this section, the Committee on Merchant Marine and Fisheries of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate shall be given a report prepared by the Secretary stating the fair market value at the time of the transfer of all real and personal property conveyed.”
+
+Subsec. (g). Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(e)(4)(B)\], and Pub. L. 106–562, §104(2), struck out subsec. (g) which read as follows: “The Secretary shall submit to Congress a report, no later than October 1,1983, providing information on the status of the negotiations for concluding the documents described in subsections (a) and (d) of this section.”
+
 1983—Pub. L. 98–129 amended section generally, substituting provisions relating to the disposal of Federal property on the Pribilof Islands for provisions relating to the medical and dental care of Pribilof Islands natives. See section 1164 of this title.
-
-#### Abolition of House Committee on Merchant Marine and Fisheries
-
-Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Pribilof Islands Environmental Cleanup
 
-Pub. L. 104–91, §3, Jan. 6, 1996, 110 Stat. 8, provided that:
+Pub. L. 104–91, §3, Jan. 6, 1996, 110 Stat. 8, as amended by Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(e)(5)(A)(iv), (6)(A), (7)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–246, 2763A–248; Pub. L. 106–562, title I, §§105(a)(4), 106(a), 107, Dec. 23, 2000, 114 Stat. 2797, 2799, provided that:
 
 “(a)
 
@@ -92,19 +106,15 @@ Obligations of Secretary.—In carrying out cleanup activities under subsection 
 
 Resolution of Federal Responsibilities.—(1) Within 9 months after the date of enactment of this section \[Jan. 6, 1996\], and after consultation with the Secretary of the Interior, the State of Alaska, and local entities and residents of the Pribilof Islands, the Secretary of Commerce shall submit to the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Resources of the House of Representatives, a report proposing necessary actions by the Secretary of Commerce and Congress to resolve all claims with respect to, and permit the final implementation, fulfillment and completion of—
 
-&emsp;“(A) title II of the Fur Seal Act Amendments of 1983 \[probably means Fur Seal Act of 1996\] (16 U.S.C. 1161 et seq.);
+&emsp;“(A) the land conveyance entitlements of local entities and residents of the Pribilof Islands under the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.);
 
-&emsp;“(B) the land conveyance entitlements of local entities and residents of the Pribilof Islands under the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.);
+&emsp;“(B) the provisions of this section; and
 
-&emsp;“(C) the provisions of this section; and
-
-&emsp;“(D) any other matters which the Secretary deems appropriate.
+&emsp;“(C) any other matters which the Secretary deems appropriate.
 
 “(2) The report required under paragraph (1) shall include the estimated costs of all actions, and shall contain the statements of the Secretary of Commerce, the Secretary of the Interior, any statement submitted by the State of Alaska, and any statements of claims or recommendations submitted by local entities and residents of the Pribilof Islands.
 
-“(d)
-
-Use of Local Entities.—Notwithstanding any other law to the contrary, the Secretary of Commerce shall, to the maximum extent practicable, carry out activities under subsection (a) and fulfill other obligations under Federal and State law relating to the Pribilof Islands, through grants or other agreements with local entities and residents of the Pribilof Islands, unless specialized skills are needed for an activity, and the Secretary specifies in writing that such skills are not available through local entities and residents of the Pribilof Islands.
+“\[(d) Redesignated as section 212 of Pub. L. 89–702, and transferred to section 1169b of this title.\]
 
 “(e)
 
@@ -112,9 +122,43 @@ Definition.—For the purposes of this section, the term ‘clean up’ means th
 
 “(f)
 
-Authorization of Appropriations.—There are authorized to be appropriated not to exceed $10,000,000 in each of fiscal years 1996, 1997, and 1998 for the purposes of carrying out this section.”
+Authorization of Appropriations.—
+
+&emsp;“(1)
+
+In general.—There are authorized to be appropriated $10,000,000 for each of fiscal years 2001, 2002, 2003, 2004, and 2005 for the purposes of carrying out this section.
+
+&emsp;“(2)
+
+Limitation.—None of the funds authorized by this subsection may be expended for the purpose of cleaning up or remediating any landfills, wastes, dumps, debris, storage tanks, property, hazardous or unsafe conditions, or contaminants, including petroleum products and their derivatives, left by the Department of Defense or any of its components on lands on the Pribilof Islands, Alaska.
+
+“(g)
+
+Low-Interest Loan Program.—
+
+&emsp;“(1)
+
+Capitalization of revolving fund.—Of amounts authorized under subsection (f) for each of fiscal years 2001, 2002, 2003, 2004, and 2005, the Secretary may provide to the State of Alaska up to $2,000,000 per fiscal year to capitalize a revolving fund to be used by the State for loans under this subsection.
+
+&emsp;“(2)
+
+Low-interest loans.—The Secretary shall require that any revolving fund established with amounts provided under this subsection shall be used only to provide low-interest loans to Natives of the Pribilof Islands to assess, respond to, remediate, and monitor contamination from lead paint, asbestos, and petroleum from underground storage tanks.
+
+&emsp;“(3)
+
+Natives of the pribilof islands defined.—The definitions set forth in section 101 of the Fur Seal Act of 1966 (16 U.S.C. 1151) shall apply to this section, except that the term ‘Natives of the Pribilof Islands’ includes the Tanadgusix and Tanaq Corporations.
+
+&emsp;“(4)
+
+Reversion of funds.—Before the Secretary may provide any funds to the State of Alaska under this section, the State of Alaska and the Secretary must agree in writing that, on the last day of fiscal year 2011, and of each fiscal year thereafter until the full amount provided to the State of Alaska by the Secretary under this section has been repaid to the United States, the State of Alaska shall transfer to the Treasury of the United States monies remaining in the revolving fund, including principal and interest paid into the revolving fund as repayment of loans.”
+
+\[Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(e)(5)(A)(iv), (6)(A), (7)\], and Pub. L. 106–562, §§105(a)(4), 106(a), 107, made substantially identical amendments to section 3 of Pub. L. 104–91, set out above. The text of subsecs. (f) and (g) of section 3 is based on amendments by Pub. L. 106–562.\]
+
+\[Pub. L. 106–562, title I, §105(c), Dec. 23, 2000, 114 Stat. 2798, provided that, effective on the date on which the Secretary of Commerce makes the certification described in Pub. L. 106–562, §105(b)(2), set out in a Termination of Responsibilities note under section 1161 of this title, section 3 of Pub. L. 104–91, set out above, is repealed. Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(e)(5)(C)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–247, enacted a provision substantially identical to Pub. L. 106–562, §105(c).\]
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1166, 1175 of this title.
+This section is referred to in section 1175 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Each audit required pursuant to this chapter of the financial statements of an issuer by anindependent public accountant shall include, in accordance with generally accepted auditing standards, as may be modified or supplemented from time to time by the Commission—
+Each audit required pursuant to this chapter of the financial statements of an issuer by an independent public accountant shall include, inaccordance with generally accepted auditing standards, as may be modified or supplemented from time to time by the Commission—
 
 &emsp;(1) procedures designed to provide reasonable assurance of detecting illegal acts that would have a direct and material effect on the determination of financial statement amounts;
 

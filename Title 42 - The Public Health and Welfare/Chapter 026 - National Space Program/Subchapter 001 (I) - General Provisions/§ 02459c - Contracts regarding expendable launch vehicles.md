@@ -4,7 +4,11 @@
 
 (b) If funds are not available to continue any such contract, the contract shall be terminated for the convenience of the Government, and the costs of such contract shall be paid from appropriations originally available for performance of the contract, from other, unobligated appropriations currently available for the procurement of launch services, or from funds appropriated for such payments.
 
-(Pub. L. 85–568, title III, §311, as added Pub. L. 100–147, title I, §117, Oct. 30, 1987, 101 Stat. 867.)
+(Pub. L. 85–568, title III, §312, formerly §311, as added Pub. L. 100–147, title I, §117, Oct. 30, 1987, 101 Stat. 867; renumbered §312, Pub. L. 106–391, title III, §324(a)(1), Oct. 30, 2000, 114 Stat. 1599.)
+
+#### Codification
+
+Another section 312 of Pub. L. 85–568 is classified to section 2459f of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “expendable”.</i>
 

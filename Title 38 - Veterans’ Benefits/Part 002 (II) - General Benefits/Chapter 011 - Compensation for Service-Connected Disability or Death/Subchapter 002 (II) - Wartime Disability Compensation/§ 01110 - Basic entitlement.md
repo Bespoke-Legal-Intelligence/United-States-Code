@@ -22,7 +22,7 @@ Amendment by Pub. L. 101–508 effective with respect to claims filed after Oct.
 
 #### Construction of 1998 Amendment
 
-Pub. L. 105–206, title IX, §9014(a), July 22, 1998, 112 Stat. 865, provided that section 8202 of Pub. L. 105–178 is amended generally and that the amendments made by that section as originally enacted shall be treated for all purposes as not having been made.
+Pub. L. 105–206, title IX, §9014(a), July 22, 1998, 112 Stat. 865, provided that section 8202 of Pub. L. 105–178is amended generally and that the amendments made by that section as originally enacted shall be treated for all purposes as not having been made.
 
 #### Section Referred to in Other Sections
 

@@ -280,7 +280,7 @@ Section effective July 1, 1997, with transition rules relating to State options 
 
 #### Assets for Independence
 
-Pub. L. 105–285, title IV, Oct. 27, 1998, 112 Stat. 2759, provided that:
+Pub. L. 105–285, title IV, Oct. 27, 1998, 112 Stat. 2759, as amended by Pub. L. 106–554, §1(a)(1) \[title VI, §§602–607(a), 608(a), 609, 610\], Dec. 21, 2000, 114 Stat. 2763, 2763A–74 to 2763A–76, provided that:
 
 #### “SEC. 401. SHORT TITLE.
 
@@ -356,7 +356,7 @@ In general.—The term ‘individual development account’ means a trust create
 
 &emsp;&emsp;&emsp;“(iv) The assets of the trust will not be commingled with other property except in a common trust fund or common investment fund.
 
-&emsp;&emsp;&emsp;“(v) Except as provided in clause (vi), any amount in the trust that is attributable to a deposit provided under section 410 may be paid or distributed out of the trust only for the purpose of paying the qualified expenses of the eligible individual, or enabling the eligible individual to make an emergency withdrawal.
+&emsp;&emsp;&emsp;“(v) Except as provided in clause (vi), any amount in the trust that is attributable to a deposit provided under section 410 may be paid or distributed out of the trust only for the purpose of paying the qualified expenses of the eligible individual.
 
 &emsp;&emsp;&emsp;“(vi) Any balance in the trust on the day after the date on which the individual for whose benefit the trust is established dies shall be distributed within 30 days of that date as directed by that individual to another individual development account established for the benefit of an eligible individual.
 
@@ -376,9 +376,19 @@ Qualified entity.—
 
 In general.—The term ‘qualified entity’ means—
 
-&emsp;&emsp;&emsp;“(i) one or more not-for-profit organizations described in section 501(c)(3) of the Internal Revenue Code of 1986 \[26 U.S.C. 501(c)(3)\] and exempt from taxation under section 501(a) of such Code; or
+&emsp;&emsp;&emsp;“(i) one or more not-for-profit organizations described in section 501(c)(3) of the Internal Revenue Code of 1986 \[26 U.S.C. 501(c)(3)\] and exempt from taxation under section 501(a) of such Code;
 
-&emsp;&emsp;&emsp;“(ii) a State or local government agency, or a tribal government, submitting an application under section 405 jointly with an organization described in clause (i).
+&emsp;&emsp;&emsp;“(ii) a State or local government agency, or a tribal government, submitting an application under section 405 jointly with an organization described in clause (i); or
+
+&emsp;&emsp;&emsp;(iii) an entity that—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(I) is—
+
+&emsp;&emsp;&emsp;(aa) a credit union designated as a low-income credit union by the National Credit Union Administration (NCUA); or
+
+&emsp;&emsp;&emsp;(bb) an organization designated as a community development financial institution by the Secretary of the Treasury (or the Community Development Financial Institutions Fund); and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(II) can demonstrate a collaborative relationship with a local community-based organization whose activities are designed to address poverty in the community and the needs of community members for economic independence and stability.
 
 &emsp;&emsp;“(B)
 
@@ -402,7 +412,7 @@ Tuition and fees.—Tuition and fees required for the enrollment or attendance o
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II)
 
-Fees, books, supplies, and equipment.—Fees, books, supplies, and equipment required for courses of instruction at an eligible educational institution.
+Fees, books, supplies, and equipment.—Fees, books, supplies, and equipment requiredfor courses of instruction at an eligible educational institution.
 
 &emsp;&emsp;&emsp;“(ii)
 
@@ -422,7 +432,7 @@ First-home purchase.—Qualified acquisition costs with respect to a principal r
 
 &emsp;&emsp;&emsp;“(i)
 
-Principal residence.—The term ‘principal residence’ means a main residence, the qualified acquisition costs of which do not exceed 100 percent of the average area purchase price applicable to such residence.
+Principal residence.—The term ‘principal residence’ means a main residence, the qualified acquisition costs of which do not exceed 120 percent of the average area purchase price applicable to such residence.
 
 &emsp;&emsp;&emsp;“(ii)
 
@@ -616,7 +626,7 @@ Investment.—A qualified entity shall invest the amounts in its Reserve Fund th
 
 &emsp;“(3)
 
-Limitation on uses.—Not more than 9.5 percent of the amounts provided to a qualified entity under section 406(b) shall be used by the qualified entity for the purposes described in subparagraphs (A), (C), and (D) of paragraph (1), of which not less than 2 percent of the amounts shall be used by the qualified entity for the purposes described in paragraph (1)(D). If two or more qualified entities are jointly administering a project, no qualified entity shall use more than its proportional share for the purposes described in subparagraphs (A), (C), and (D) of paragraph (1).
+Limitation on uses.—Not more than 15 percent of the amounts provided to a qualified entity under section 406(b) shall be used by the qualified entity for the purposes described in subparagraphs (A), (C), and (D) of paragraph (1), of which not less than 2 percent of the amounts shall be used by the qualified entity for the purposes described in paragraph (1)(D). Of the total amount specified in this paragraph, not more than 7.5 percent shall be used for administrative functions under paragraph (1)(C), including program management, reporting requirements, recruitment and enrollment of individuals, and monitoring. The remainder of the total amount specified in this paragraph (not including the amount specified for use for the purposes described in paragraph (1)(D)) shall be used for nonadministrative functions described in paragraph (1)(A), including case management, budgeting, economic literacy, and credit counseling. If the cost of nonadministrative functions described in paragraph (1)(A) is less than 5.5 percent of the total amount specified in this paragraph, such excess funds may be used for administrative functions. If two or more qualified entities are jointly administering a project, no qualified entity shall use more than its proportional share for the purposes described in subparagraphs (A), (C), and (D) of paragraph (1).
 
 “(d)
 
@@ -634,11 +644,11 @@ Unused Federal Grant Funds Transferred to the Secretary When Project Terminates.
 
 “(a)
 
-In General.—Any individual who is a member of a household that is eligible for assistance under the State temporary assistance for needy families program established under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.), or that meets each of the following requirements shall be eligible to participate in a demonstration project conducted under this title:
+In General.—Any individual who is a member of a household that is eligible for assistance under the State temporary assistance for needy families program established under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.), or that meets each of thefollowing requirements shall be eligible to participate in a demonstration project conducted under this title:
 
 &emsp;“(1)
 
-Income test.—The adjusted gross income of the household does not exceed the earned income amount described in section 32 of the Internal Revenue Code of 1986 \[26 U.S.C. 32\] (taking into account the size of the household).
+Income test.—The adjusted gross income of the household is equal to or less than 200 percent of the poverty line (as determined by the Office of Management and Budget) or the earned income amount described in section 32 of the Internal Revenue Code of 1986 \[26 U.S.C. 32\] (taking into account the size of the household).
 
 &emsp;“(2)
 
@@ -736,13 +746,13 @@ Submission of Reports.—The qualified entity shall submit each report required 
 
 “(c)
 
-Timing.—The first report required by subsection (a) shall be submitted not later than 60 days after the end of the calendar year in which the Secretary authorized the qualified entity to conduct the demonstration project, and subsequent reports shall be submitted every 12 months thereafter, until the conclusion of the project.
+Timing.—The first report required by subsection (a) shall be submitted not later than 60 days after the end of the project year in which the Secretary authorized the qualified entity to conduct the demonstration project, and subsequent reports shall be submitted every 12 months thereafter, until the conclusion of the project.
 
 #### “SEC. 413. SANCTIONS.
 
 “(a)
 
-Authority To Terminate Demonstration Project.—If the Secretary determines that a qualified entity under this title is not operating a demonstration project in accordance with the entity's approved application under section 405 or the requirements of this title (and has not implemented any corrective recommendations directed by the Secretary), the Secretary shall terminate such entity's authority to conduct the demonstration project.
+Authority To Terminate Demonstration Project.—If the Secretary determines that a qualifiedentity under this title is not operating a demonstration project in accordance with the entity's approved application under section 405 or the requirements of this title (and has not implemented any corrective recommendations directed by the Secretary), the Secretary shall terminate such entity's authority to conduct the demonstration project.
 
 “(b)
 
@@ -812,7 +822,7 @@ Reports by the Secretary.—
 
 &emsp;“(1)
 
-Interim reports.—Not later than 90 days after the end of the calendar year in which the Secretary first authorizes a qualified entity to conduct a demonstration project under this title, and every 12 months thereafter until all demonstration projects conducted under this title are completed, the Secretary shall submit to Congress an interim report setting forth the results of the reports submitted pursuant to section 412(b).
+Interim reports.—Not later than 90 days after the end of the project year in which the Secretary first authorizes a qualified entity to conduct a demonstration project under this title, and every 12 months thereafter until all demonstration projects conducted under this title are completed, the Secretary shall submit to Congress an interim report setting forth the results of the reports submitted pursuant to section 412(b).
 
 &emsp;“(2)
 
@@ -820,15 +830,19 @@ Final reports.—Not later than 12 months after the conclusion of all demonstrat
 
 “(e)
 
-Evaluation Expenses.—The Secretary shall expend 2 percent of the amount appropriated under section 416 for a fiscal year, to carry out the objectives of this section.
+Evaluation Expenses.—Of the amount appropriated under section 416 for a fiscal year, the Secretary may expend not more than $500,000 for such fiscal year to carry out the objectives of this section.
 
-#### “SEC. 415. TREATMENT OF FUNDS.
+#### “SEC. 415. NO REDUCTION IN BENEFITS.
 
-“Of the funds deposited in individual development accounts for eligible individuals, only the funds deposited by the individuals (including interest accruing on those funds) may be considered to be the income, assets, or resources of the individuals, for purposes of determining eligibility for, or the amount of assistance furnished under, any Federal or federally assisted program based on need.
+“Notwithstanding any other provision of Federal law (other than the Internal Revenue Code of 1986 \[26 U.S.C. 1 et seq.\]) that requires consideration of one or more financial circumstances of an individual, for the purpose of determining eligibility to receive, or the amount of, any assistance or benefit authorized by such law to be provided to or for the benefit of such individual, funds (including interest accruing) in an individual development account under this Act \[see Short Title of 1998 Amendment note set out under section 9801 of this title\] shall be disregarded for such purpose with respect to any period during which such individual maintains or makes contributions into such an account.
 
 #### “SEC. 416. AUTHORIZATION OF APPROPRIATIONS.
 
 “There is authorized to be appropriated to carry out this title, $25,000,000 for each of fiscal years 1999, 2000, 2001, 2002, and 2003, to remain available until expended.”
+
+\[Pub. L. 106–554, §1(a)(1) \[title VI, §607(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–76, provided that: “Notwithstanding the amendment made by subsection (a) \[amending section 412(c) of Pub. L. 105–285, set out above\], the submission of the initial report of a qualified entity under section 412(c) \[section 412(c) of Pub. L. 105–285, set out above\] shall not be required prior to the date that is 90 days after the date of enactment of this title \[Dec. 21, 2000\].”\]
+
+\[Pub. L. 106–554, §1(a)(1) \[title VI, §608(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–76, provided that: “Notwithstanding the amendment made by subsection (a) \[amending section 414(d)(1) of Pub. L. 105–285, set out above\], the submission of the initial interim report of the Secretary under section 412(c) \[section 412(c) of Pub. L. 105–285, set out above\] shall not be required prior to the date that is 90 days after the date of enactment of this title \[Dec. 21, 2000\].”\]
 
 #### Section Referred to in Other Sections
 

@@ -2,7 +2,7 @@ Part B—Miscellaneous Provisions
 
 #### Codification
 
-This part was classified to subchapter XXV (§300aaa et seq.) of this chapter prior to its renumbering by Pub.L. 103–43, title XX, §2010(a)(1)–(3), June 10, 1993, 107 Stat. 213.
+This part was classified to subchapter XXV (§300aaa et seq.) of this chapter prior to its renumbering by Pub. L. 103–43, title XX, §2010(a)(1)–(3), June 10, 1993, 107 Stat. 213.
 
 
 ---
@@ -25,3 +25,5 @@ This part was classified to subchapter XXV (§300aaa et seq.) of this chapter pr
 - [&sect; 00238m - Use of fiscal agents](%C2%A7%2000238m%20-%20Use%20of%20fiscal%20agents.md)
 - [&sect; 00238n - Abortion-related discrimination in governmental activities regarding training and licensing of physicians](%C2%A7%2000238n%20-%20Abortion-related%20discrimination%20in%20governmental%20activities%20regarding%20training%20and%20licensing%20of%20physicians.md)
 - [&sect; 00238o - Restriction on use of funds for assisted suicide, euthanasia, and mercy killing](%C2%A7%2000238o%20-%20Restriction%20on%20use%20of%20funds%20for%20assisted%20suicide%2C%20euthanasia%2C%20and%20mercy%20killing.md)
+- [&sect; 00238p - Recommendations and guidelines regarding automated external defibrillators for Federal buildings](%C2%A7%2000238p%20-%20Recommendations%20and%20guidelines%20regarding%20automated%20external%20defibrillators%20for%20Federal%20buildings.md)
+- [&sect; 00238q - Liability regarding emergency use of automated external defibrillators](%C2%A7%2000238q%20-%20Liability%20regarding%20emergency%20use%20of%20automated%20external%20defibrillators.md)

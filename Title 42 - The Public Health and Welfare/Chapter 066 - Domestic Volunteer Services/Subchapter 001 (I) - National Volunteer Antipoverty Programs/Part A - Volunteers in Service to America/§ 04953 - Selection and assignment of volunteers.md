@@ -30,11 +30,11 @@ The Director, on the receipt of applications by public or nonprofit private orga
 
 &emsp;(ii) to approved projects or programs, with respect to the availability of individuals whose applications for service as a volunteer have been approved and who are awaiting an assignment with a specific project or program.
 
-(C) The Director shall assign or hire as necessary, such additional national, regional, and State personnel to carry out the functions described in this subsection and subsection (c) of this section as may be necessary to ensure that such functions are carried out in a timely and effective manner. The Director shall give priority in the hiring of such additional personnel to individuals who have formerly served as volunteers under this part and to individuals who have specialized experience in the recruitment of volunteers.
+(C) The Director shall assign or hire as necessary, such additional national, regional, and State personnel to carry out the functions described in this subsection and subsection (c) of this section as may be necessary to ensure that such functions are carried out in a timely and effective manner. The Director shall give priority in the hiring of such additional personnel toindividuals who have formerly served as volunteers under this part and to individuals who have specialized experience in the recruitment of volunteers.
 
 (3) Volunteers shall be selected from among qualified individuals submitting an application for such service at such time, in such form, and containing such information as may be necessary to evaluate the suitability of each individual for such service and to determine, in accordance with paragraph (7),<sup>1</sup> the most appropriate assignment for each such volunteer. The Director shall approve the application of each individual who applies in conformance with this subsection and who, on the basis of the information provided in the application, is determined by the Director to be qualified to serve as a volunteer under this part.
 
-(4) The Director shall ensure that applications for service as a volunteer under this part areavailable to the public on request to the Corporation (including any State or regional offices of the Agency) <sup>2</sup> and that an individual making such request is informed of the manner in which such application is required to be submitted. A completed application may be submitted by any interested individual to, and shall be accepted by, any office of the Corporation.
+(4) The Director shall ensure that applications for service as a volunteer under this part are available to the public on request to the Corporation (including any State or regional offices of the Agency) <sup>2</sup> and that an individual making such request is informed of the manner in which such application is required to be submitted. A completed application may be submitted by any interested individual to, and shall be accepted by, any office of the Corporation.
 
 (5)(A) The Director shall provide for the assignment of each applicant approved as a volunteer under this part to a project or program that is, to the maximum extent practicable, consistent with the abilities, experiences, and preferences of such applicant that are set forth in the application described in paragraph (4) and the needs and preferences of projects or programs approved for the assignment of such volunteers.
 
@@ -70,13 +70,13 @@ The Director, on the receipt of applications by public or nonprofit private orga
 
 (2) In designing and implementing the activities authorized under this section, the Director shall seek to involve individuals who have formerly served as volunteers under this part to assist in the dissemination of information concerning the program established under this part. The Director may reimburse the costs incurred by such former volunteers for such participation, including expenses incurred for travel.
 
-(3) The Director shall consult with the Director of the Peace Corps to coordinate the recruitment and public awareness activities carried out under this subsection with those of the Peace Corps and to develop joint procedures and activities for the recruitment of volunteers to serve under this part.
+(3) The Director shall consult with the Director of the Peace Corps to coordinate the recruitment and public awareness activities carried out under this subsection with those of the PeaceCorps and to develop joint procedures and activities for the recruitment of volunteers to serve under this part.
 
 (4) Beginning in fiscal year 1991 and for each fiscal year thereafter, for the purpose of carrying out this subsection, the Director shall obligate not less than 1.5 percent of the amounts appropriated for each fiscal year under section 5081(a) of this title.
 
 #### (d) Provision of plans to volunteers for job advancement; coordination with private industry councils or local workforce investment boards
 
-The Director shall provide each low-income community volunteer with an individual plan for job advancement or for transition to a situation leading to gainful employment. Whenever feasible, such efforts shall be coordinated with an appropriate private industry council established under the Job Training Partnership Act\[29 U.S.C. 1501 et seq.\] or local workforce investment board established under section 2832 of title 29.
+The Director shall provide each low-income community volunteer with an individual plan for job advancement or for transition to a situation leading to gainful employment. Whenever feasible, such efforts shall be coordinated with an appropriate local workforce investment board established under section 2832 of title 29.<sup>3</sup>
 
 #### (e) Educational and vocational counseling for volunteers; Director to provide
 
@@ -96,10 +96,6 @@ The Director is encouraged to enter into agreements with other Federal agencies 
 
 (Pub. L. 93–113, title I, §103, Oct. 1, 1973, 87 Stat. 396; Pub. L. 96–143, §2, Dec. 13, 1979, 93 Stat. 1074; Pub. L. 98–288, §4(a)–(c)(1), (d), May 21, 1984, 98 Stat. 189, 190; Pub. L. 99–551, §3(a), Oct. 27, 1986, 100 Stat. 3071; Pub. L. 101–204, title I, §101(a), (b), (d)(2), title VII, §701, Dec. 7, 1989, 103 Stat. 1807, 1809, 1811, 1820; Pub. L. 103–82, title III, §323, title IV, §405(a)(2)–(4), Sept. 21, 1993, 107 Stat. 899, 920; Pub. L. 103–304, §3(b)(7), (8), Aug. 23, 1994, 108 Stat. 1568; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(36)(A), (f)(28)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–427, 2681–434.)
 
-#### Amendment of Subsection (d)
-
-<i>Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(f)(28)(A), (g)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–434, 2681–435, provided that, effective July 1, 2000, the second sentence of subsection (d) of this section is amended to read as follows: “private industry council established under the Job Training Partnership Act or”.</i>
-
 #### References in Text
 
 The Community Service Block Grant Act, referred to in subsec. (a)(6), probably means the Community Services Block Grant Act, which is subtitle B (§671 et seq.) of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 511, as amended, which is classified generally to chapter 106 (§9901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9901 of this title and Tables.
@@ -114,11 +110,11 @@ The National and Community Service Trust Act of 1993, referred to in subsecs. (b
 
 The Higher Education Act of 1965, referred to in subsec. (c)(1)(E), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Parts B and E of title IV of the Higher Education Act of 1965 are classified to parts B (§1071 et seq.) and D (§1087aa et seq.), respectively, of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
-The Job Training Partnership Act, referred to in subsec. (d), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
-
 #### Amendments
 
-1998—Subsec. (d). Pub. L. 105–277, §101(f) \[title VIII, §405(d)(36)(A)\], substituted “Whenever feasible, such efforts shall be coordinated with an appropriate private industry council established under the Job Training Partnership Act or local workforce investment board established under section 2832 of title 29.” for “Whenever feasible, such efforts shall be coordinated with an appropriate private industry council under the Job Training Partnership Act.”
+1998—Subsec. (d). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(28)(A)\], which directed the amendment of the second sentence of subsec. (d) to read as follows: “private industry council established under the Job Training Partnership Act or”, was executed by amending the second sentence by striking “private industry councilestablished under the Job Training Partnership Act or” after “coordinated with an appropriate” to reflect the probable intent of Congress.
+
+Pub. L. 105–277, §101(f) \[title VIII, §405(d)(36)(A)\], substituted “Whenever feasible, such efforts shall be coordinated with an appropriate private industry council established under the Job Training Partnership Act or local workforce investment board established under section 2832 of title 29.” for “Whenever feasible, such efforts shall be coordinated with an appropriate private industry council under the Job Training Partnership Act.”
 
 1994—Subsec. (b)(5), (6). Pub. L. 103–304, §3(b)(7), redesignated par. (6) as (5).
 
@@ -184,7 +180,7 @@ Subsec. (f). Pub. L. 101–204, §101(b)(1), (d)(2)(C), redesignated subsec. (e)
 
 Subsec. (g). Pub. L. 101–204, §101(b)(1), redesignated former subsec. (f) as (g).
 
-1986—Subsec. (b). Pub. L. 99–551 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Director, wherever feasible and appropriate, shall assign low-income community volunteers to serve in their home communities in teams with nationally recruited specialist volunteers. The Director shall make efforts to assign volunteers to serve in their home communities or in nearby communities and shall make national efforts to attract other volunteers to serve in the VISTA program.”
+1986—Subsec. (b). Pub. L. 99–551 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Director, wherever feasible and appropriate, shall assign low-income community volunteers to serve in their home communities in teams with nationally recruited specialist volunteers. The Director shallmake efforts to assign volunteers to serve in their home communities or in nearby communities and shall make national efforts to attract other volunteers to serve in the VISTA program.”
 
 1984—Subsec. (a). Pub. L. 98–288, §4(a)(1), inserted “in the local communities in which the volunteers were recruited” and inserted “, including work” in provisions before par. (1).
 
@@ -239,4 +235,6 @@ This section is referred to in sections 4954, 4972 of this title.
 <i><sup>1</sup></i><i> So in original. Probably should be paragraph “(5)”.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be “the Corporation)”.</i>
+
+<i><sup>3</sup></i><i> See 1998 Amendment note below.</i>
 

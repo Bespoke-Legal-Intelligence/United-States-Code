@@ -78,7 +78,7 @@ A national bank resulting from an interstate merger transaction (as defined in s
 
 #### (2) Treatment of branch as bank
 
-&emsp;All laws of a host State, other than the laws regarding community reinvestment, consumerprotection, fair lending, establishment of intrastate branches, and the application or administration of any tax or method of taxation, shall apply to a branch (in such State) of an out-of-State national bank to the same extent as such laws would apply if the branch were a national bank the main office of which is in such State.
+&emsp;All laws of a host State, other than the laws regarding community reinvestment, consumer protection, fair lending, establishment of intrastate branches, and the application or administration of any tax or method of taxation, shall apply to a branch (in such State) of an out-of-State national bank to the same extent as such laws would apply if the branch were a national bank the main office of which is in such State.
 
 #### (3) Rule of construction
 
@@ -106,7 +106,7 @@ A national bank resulting from an interstate merger transaction (as defined in s
 
 #### (B) Operation
 
-&emsp;&emsp;Subsections (c) and (d)(2) of section 1831u of this title shall apply with respect to each branch of a national bank which is established and operated pursuant to an application approved under this subsection in the same manner and to the same extent such provisions of such section 1831u of this title apply to a branch of a national bank which resulted from an interstate merger transaction approved pursuant to such section 1831u of this title.
+&emsp;&emsp;Subsections (c) and (d)(2) of section 1831u of this title shall apply with respect to each branch of a national bank which is established and operated pursuant to an application approved under this subsection in the same manner and to the same extent suchprovisions of such section 1831u of this title apply to a branch of a national bank which resulted from an interstate merger transaction approved pursuant to such section 1831u of this title.
 
 #### (3) Definitions
 
@@ -199,12 +199,6 @@ Nothing in Pub. L. 105–24 to alter right of States under section 525 of Pub. L
 #### Applicability of McFadden Act to Present Financial Environment; Report and Recommendations by President to Congress
 
 Pub. L. 95–369, §14, Sept. 17, 1978, 92 Stat. 625, provided for a report to Congress by the President, not later than one year after Sept. 17, 1978, containing recommendations concerning the applicability of the McFadden Act \[Feb. 25, 1927, ch. 191, 44 Stat. 1224\] to the then current financial, banking, and economic environment.
-
-#### Cross References
-
-Conversion of national banks into State banks, see sections 214 to 214c of this title.
-
-Place of business, see section 81 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -164,7 +164,7 @@ In determining under this subtitle whether subject merchandise is being, or is l
 
 &emsp;&emsp;(B) the administering authority finds that available information does not permit the normal value of the subject merchandise to be determined under subsection (a) of this section,
 
-> &emsp;the administering authority shall determine the normal value of the subject merchandise on the basis of the value of the factors of production utilized in producing the merchandise and to which shall be added an amount for general expenses and profit plus the cost of containers, coverings, and other expenses. Except as provided in paragraph (2), the valuation of the factors of production shall be based on the best available information regarding the values of such factors in a market economy country or countries considered to be appropriate by the administering authority.
+> &emsp;the administering authority shall determine the normal value of the subject merchandise on the basis of the value of the factors of production utilized in producing the merchandise and to which shall be added an amount forgeneral expenses and profit plus the cost of containers, coverings, and other expenses. Except as provided in paragraph (2), the valuation of the factors of production shall be based on the best available information regarding the values of such factors in a market economy country or countries considered to be appropriate by the administering authority.
 
 #### (2) Exception
 
@@ -222,7 +222,7 @@ For purposes of this subtitle, the constructed value of imported merchandise sha
 
 &emsp;&emsp;(ii) the weighted average of the actual amounts incurred and realized by exporters or producers that are subject to the investigation or review (other than the exporter or producer described in clause (i)) for selling, general, and administrative expenses, and for profits, in connection with the production and sale of a foreign like product, in the ordinary course of trade, for consumption in the foreign country, or
 
-&emsp;&emsp;(iii) the amounts incurred and realized for selling, general, and administrative expenses, and for profits, based on any other reasonable method, except that the amount allowed for profit may not exceed the amount normally realized by exporters or producers (other than the exporter or producer described in clause (i)) in connection with the sale, for consumption in the foreign country, of merchandise that is in the same general category of products as the subject merchandise; and
+&emsp;&emsp;(iii) the amounts incurred and realized for selling, general, and administrative expenses, and for profits, based on any other reasonable method, except that the amount allowed for profit may not exceed theamount normally realized by exporters or producers (other than the exporter or producer described in clause (i)) in connection with the sale, for consumption in the foreign country, of merchandise that is in the same general category of products as the subject merchandise; and
 
 &emsp;(3) the cost of all containers and coverings of whatever nature, and all other expenses incidental to placing the subject merchandise in condition packed ready for shipment to the United States.
 
@@ -274,7 +274,7 @@ For purposes of subsections (b) and (e) of this section.—
 
 #### Amendments
 
-1994—Pub. L. 103–465 amended section generally, substituting present provisions for provisions relating to foreign market value, which provided for determination of value in subsec. (a), sales at less than cost of production in subsec. (b), treatment of merchandise from nonmarket economy countries in subsec. (c), special rule for certain multinational corporations in subsec. (d), determination of constructed value in subsec. (e), and exportation from an intermediate country in subsec. (f).
+1994—Pub. L. 103–465 amended section generally, substituting present provisions for provisions relating to foreign market value, which provided for determination of value in subsec. (a), sales at less than cost ofproduction in subsec. (b), treatment of merchandise from nonmarket economy countries in subsec. (c), special rule for certain multinational corporations in subsec. (d), determination of constructed value in subsec. (e), and exportation from an intermediate country in subsec. (f).
 
 1988—Subsec. (a)(5). Pub. L. 100–418, §1319, added par. (5).
 

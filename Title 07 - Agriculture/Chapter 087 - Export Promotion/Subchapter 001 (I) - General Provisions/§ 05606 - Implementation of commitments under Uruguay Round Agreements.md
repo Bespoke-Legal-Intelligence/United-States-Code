@@ -8,7 +8,3 @@ Not later than September 30 of each year, the Secretary shall evaluate whether t
 
 (Pub. L. 95–501, title I, §106, as added Pub. L. 104–127, title II, §242(a), Apr. 4, 1996, 110 Stat. 964.)
 
-#### Cross References
-
-Uruguay Round Agreements Act, see section 3501 et seq. of Title 19, Customs Duties.
-

@@ -10,10 +10,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Cross References
-
-Property records, see section 2721 of this title.
-
 
 ---
 

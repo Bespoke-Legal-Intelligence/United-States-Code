@@ -58,7 +58,7 @@ In subsection (c)(1), the words “claims for . . . deposits” are substitute
 
 #### References in Text
 
-Subsection (a) of the first section of the Act of August 13, 1971 (Public Law 92–117; 85 Stat. 337), referred toin subsec. (c)(1), was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1081.
+Subsection (a) of the first section of the Act of August 13, 1971 (Public Law 92–117; 85 Stat. 337), referred to in subsec. (c)(1), was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1081.
 
 The date of the enactment of the Postal Savings System Statute of Limitations Act, referred to in subsec. (c)(3) and (4), is the date of enactment of Pub. L. 98–359, which was approved July 13, 1984.
 
@@ -69,10 +69,6 @@ The date of the enactment of the Postal Savings System Statute of Limitations Ac
 Subsec. (c)(2). Pub. L. 98–359 substituted reference to par. (3) of this subsection for reference to par. (1) of this subsection.
 
 Subsec. (c)(3), (4). Pub. L. 98–359 added pars. (3) and (4).
-
-#### Cross References
-
-Deposit in trust fund of unclaimed money, etc., of deceased seaman, see section 10710 of Title 46, Shipping.
 
 #### Section Referred to in Other Sections
 

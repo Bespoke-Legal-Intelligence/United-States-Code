@@ -14,9 +14,9 @@ Except as provided in subsection (b) of this section, the costs of decontaminati
 
 &emsp;&emsp;(B) either—
 
-&emsp;&emsp;&emsp;(i) incurred by such licensee not later than December 31, 2002; or
+&emsp;&emsp;&emsp;(i) incurred by such licensee not later than December 31, 2007; or
 
-&emsp;&emsp;&emsp;(ii) placed in escrow not later than December 31, 2002, in accordance with a plan for subsequent decontamination, decommissioning, reclamation, and other remedial action approved by the Secretary.
+&emsp;&emsp;&emsp;(ii) incurred by a licensee after December 31, 2007, in accordance with a plan for subsequent decontamination, decommissioning, reclamation, and other remedial action approved by the Secretary.
 
 #### (2) Amount
 
@@ -40,23 +40,29 @@ Except as provided in subsection (b) of this section, the costs of decontaminati
 
 #### (i) Determination of excess
 
-&emsp;&emsp;&emsp;The Secretary shall determine as of July 31, 2005, whether the amount authorized to be appropriated pursuant to section 2296a–2 of this title, when considered with the $6.25 per dry short ton limit on reimbursement, exceeds the amount reimbursable to the licensees under subsection (b)(2) of this section.
+&emsp;&emsp;&emsp;The Secretary shall determine as of December 31, 2008, whether the amount authorized to be appropriated pursuant to section 2296a–2 of this title, when considered with the $6.25 per dry short ton limit on reimbursement, exceeds the amount reimbursable to the licensees under subsection (b)(2) of this section.
 
 #### (ii) In the event of excess
 
-&emsp;&emsp;&emsp;If the Secretary determines under clause (i) that there is an excess, the Secretary may allow reimbursement in excess of $6.25 per dry short ton on a prorated basis at such sites where the costs reimbursable under subsection (b)(1) of this section exceed the $6.25 per dry short ton limitation described in paragraph (2) of such subsection.
+&emsp;&emsp;&emsp;If the Secretary determines under clause (i) that there is an excess, the Secretarymay allow reimbursement in excess of $6.25 per dry short ton on a prorated basis at such sites where the costs reimbursable under subsection (b)(1) of this section exceed the $6.25 per dry short ton limitation described in paragraph (2) of such subsection.
 
 #### (3) Byproduct location
 
 &emsp;Notwithstanding the requirement of paragraph (2)(A) that byproduct material be located at the site on October 24, 1992, byproduct material moved from the site of the Edgemont Mill to a disposal site as the result of the decontamination, decommissioning, reclamation, and other remedial action of such mill shall be eligible for reimbursement to the extent eligible under paragraph (1).
 
-(Pub. L. 102–486, title X, §1001, Oct. 24, 1992, 106 Stat. 2946; Pub. L. 104–259, §3(a), Oct. 9, 1996, 110 Stat. 3173; Pub. L. 105–388, §11(a), Nov. 13, 1998, 112 Stat. 3484.)
+(Pub. L. 102–486, title X, §1001, Oct. 24, 1992, 106 Stat. 2946; Pub. L. 104–259, §3(a), Oct. 9, 1996, 110 Stat. 3173; Pub. L. 105–388, §11(a), Nov. 13, 1998, 112 Stat. 3484; Pub. L. 106–317, §1, Oct. 19, 2000, 114 Stat. 1277.)
 
 #### Codification
 
 Section was enacted as part of the Energy Policy Act of 1992, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
 
 #### Amendments
+
+2000—Subsec. (b)(1)(B)(i). Pub. L. 106–317, §1(1), substituted “2007” for “2002”.
+
+Subsec. (b)(1)(B)(ii). Pub. L. 106–317, §1(2), substituted “incurred by a licensee after December 31, 2007,” for “placed in escrow not later than December 31, 2002,”.
+
+Subsec. (b)(2)(E)(i). Pub. L. 106–317, §1(3), substituted “December 31, 2008” for “July 31, 2005”.
 
 1998—Subsec. (b)(2)(C). Pub. L. 105–388 substituted “$140,000,000” for “$65,000,000”.
 

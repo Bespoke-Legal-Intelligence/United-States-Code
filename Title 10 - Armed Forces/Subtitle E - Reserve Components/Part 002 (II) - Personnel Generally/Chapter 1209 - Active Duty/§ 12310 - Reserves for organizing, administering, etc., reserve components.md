@@ -2,7 +2,7 @@
 
 (a)
 
-Grade When Ordered to Active Duty.— A Reserve ordered to active duty under section12301(d) of this title in connection with organizing, administering, recruiting, instructing, or training the reserve components shall be ordered in his reserve grade. While so serving he continues to be eligible for promotion as a Reserve, if he is otherwise qualified.
+Grade When Ordered to Active Duty.— A Reserve ordered to active duty under section 12301(d) of this title in connection with organizing, administering, recruiting, instructing, or training the reserve components shall be ordered in his reserve grade. While so serving he continues to be eligible for promotion as a Reserve, if he is otherwise qualified.
 
 (b)
 

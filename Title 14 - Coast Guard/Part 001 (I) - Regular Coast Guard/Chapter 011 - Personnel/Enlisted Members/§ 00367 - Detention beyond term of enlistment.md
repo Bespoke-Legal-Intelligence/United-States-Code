@@ -4,7 +4,7 @@ Under regulations prescribed by the Secretary, an enlisted member may be detaine
 
 &emsp;(1) until the first arrival of the vessel on which he is serving at its permanent station, or at a port in a State of the United States or in the District of Columbia; or
 
-&emsp;(2) if attached to a shore station beyond the continental limits of the United States or inAlaska, until his first arrival at a port in any State of the United States or in the District of Columbia where his reenlistment or discharge may be effected, or until he can be discharged or reenlisted at his station beyond the continental limits of the United States or in Alaska, whichever is earlier, but in no event to exceed three months; or
+&emsp;(2) if attached to a shore station beyond the continental limits of the United States or in Alaska, until his first arrival at a port in any State of the United States or in the District of Columbia where his reenlistment or discharge may be effected, or until he can be discharged or reenlisted at his station beyond the continental limits of the United States or in Alaska, whichever is earlier, but in no event to exceed three months; or
 
 &emsp;(3) during a period of war or national emergency as proclaimed by the President, and, in the interest of national defense, for a period not to exceed six months after the end of the war or the termination of the emergency; or
 
@@ -31,10 +31,6 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 Subsecs. (b), (c). Act July 24, 1956, §2(4), repealed subsecs. (b) and (c) which required enlisted members to make good time lost by unauthorized absence from duty, or by confinement under sentence or pending trial, or by reason of sickness resulting from misconduct. See section 972(a) of Title 10.
 
 1950—Subsec. (c). Act Aug. 3, 1950, added subsec. (c).
-
-#### Cross References
-
-Inclusion of conditions in enlistment contract, see section 369 of this title.
 
 #### Section Referred to in Other Sections
 

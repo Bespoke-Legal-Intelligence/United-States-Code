@@ -10,7 +10,7 @@ Section 2688<i>l</i>, Pub. L. 88–164, title II, §252, as added Pub. L. 90–5
 
 Section 2688<i>l</i>–1, Pub. L. 88–164, title II, §253, as added Pub. L. 91–513, title I, §1(c), Oct. 27, 1970, 84 Stat. 1238; amended Pub. L. 93–45, title II, §205(b), June 18, 1973, 87 Stat. 94; Pub. L. 94–63, title VII, §701(e)(6)(B), July 29, 1975, 89 Stat. 353, authorized grants and contracts and set out appropriations for programs in drug abuse education.
 
-Section 2688m, Pub. L. 88–164, title II, §254, formerly §253, as added Pub. L. 90–574, title III, §302, Oct. 15, 1968, 82 Stat. 1010; and renumbered §254 and amended Pub. L. 91–513, title I, §1(a)(1), (c), Oct. 27, 1970, 84 Stat. 1238, setforth eligibility of projects for grants for construction or initial staffing of facilities for the prevention and rehabilitation of narcotic addition, etc.
+Section 2688m, Pub. L. 88–164, title II, §254, formerly §253, as added Pub. L. 90–574, title III, §302, Oct. 15, 1968, 82 Stat. 1010; and renumbered §254 and amended Pub. L. 91–513, title I, §1(a)(1), (c), Oct. 27, 1970, 84 Stat. 1238, set forth eligibility of projects for grants for construction or initial staffing of facilities for the prevention and rehabilitation of narcotic addition, etc.
 
 Section 2688n, Pub. L. 88–164, title II, §255, formerly §254, as added Pub. L. 90–574, title III, §302, Oct. 15, 1968, 82 Stat. 1010; and renumbered §255, Pub. L. 91–513, title I, §1(c), Oct. 27, 1970, 84 Stat. 1238, set forth manner, terms and conditions for grants for narcotic addiction; etc., prevention and rehabilitation.
 

@@ -16,7 +16,7 @@ Enactment of subchapter XVI of the Social Security Act \[this subchapter\] by se
 
 &emsp;(2) any such payments to or care in behalf of any individual who has not attained 65 years of age and who is a patient in an institution for tuberculosis or mental diseases.
 
-> Such term also includes payments which are not included within the meaning of such term under the preceding sentence, but which would be so included exceptthat they are made on behalf of such a needy individual to another individual who (as determined in accordance with standards prescribed by the Commissioner of Social Security) is interested in or concerned with the welfare of such needy individual, but only with respect to a State whose State plan approved under section 1382 of this title includes provision for—
+> Such term also includes payments which are not included within the meaning of such term under the preceding sentence, but which would be so included except that they are made on behalf of such a needy individual to another individual who (as determined in accordance with standards prescribed by the Commissioner of Social Security) is interested in or concerned with the welfare of such needy individual, but only with respect to a State whose State plan approved under section 1382 of this title includes provision for—
 
 &emsp;(A) determination by the State agency that such needy individual has, by reason of his physical or mental condition, such inability to manage funds that making payments to him would be contrary to his welfare and, therefore, it is necessary to provide such aid through payments described in this sentence;
 

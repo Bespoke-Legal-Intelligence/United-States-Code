@@ -4,7 +4,3 @@ In all cases where a seal is necessary by law to any commission, process, or oth
 
 (July 30, 1947, ch. 388, 61 Stat. 636.)
 
-#### Federal Rules of Civil Procedure
-
-Proof of official record, see rule 44, Title 28, Appendix, Judiciary and Judicial Procedure.
-

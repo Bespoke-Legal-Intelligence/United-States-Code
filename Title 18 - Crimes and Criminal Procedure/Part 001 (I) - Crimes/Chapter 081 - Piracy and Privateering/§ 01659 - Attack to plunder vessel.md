@@ -14,7 +14,3 @@ Mandatory punishment provisions were rephrased in the alternative.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
 
-#### Cross References
-
-Conspiracy to destroy vessels, see section 2271 of this title.
-

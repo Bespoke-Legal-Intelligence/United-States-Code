@@ -12,19 +12,21 @@ Except as authorized in subsections (c) and (d) of this section, the remainder s
 
 #### (c) Waterfowl Production Areas
 
-The Secretary of the Interior is authorized to utilize funds made available under subsection (b) of this section for the purposes of such subsection, and such other funds as may be appropriated for the purposes of such subsection, or of this subsection, to acquire, or defray the expense incident to the acquisition by gift, devise, lease, purchase, or exchange of, small wetland and pothole areas, interests therein, and rights-of-way to provide access thereto. Such small areas, to be designated as “Waterfowl Production Areas”, may be acquired without regard to the limitations and requirements of the Migratory Bird Conservation Act \[16 U.S.C. 715 et seq.\], but all of the provisions of such Act which govern the administration and protection of lands acquired thereunder, except the inviolate sanctuary provisions of such Act, shall be applicable to areas acquired pursuant to this subsection.
+The Secretary of the Interior is authorized to utilize funds made available under subsection (b) of this section for the purposes of such subsection, and such other funds as may be appropriated for the purposes of such subsection, or of this subsection, to acquire, or defray the expense incident to the acquisition by gift, devise, lease, purchase, or exchange of, small wetland and pothole areas, interests therein, and rights-of-way to provide access thereto. Such small areas, to be designated as “Waterfowl Production Areas”, may be acquired without regard to the limitations and requirements of the Migratory Bird Conservation Act \[16 U.S.C. 715 etseq.\], but all of the provisions of such Act which govern the administration and protection of lands acquired thereunder, except the inviolate sanctuary provisions of such Act, shall be applicable to areas acquired pursuant to this subsection.
 
 #### (d) Promotion of stamp sales
 
 (1) The Secretary of the Interior may utilize funds from the sale of migratory bird hunting and conservation stamps, not to exceed $1,000,000 in each of fiscal years 1999, 2000, 2001, 2002, and 2003, for the promotion of additional sales of those stamps, in accordance with a Migratory Bird Conservation Commission approved annual marketing plan. Such promotion shall include the preparation of reports, brochures, or other appropriate materials to be made available to the public that describe the benefits to wildlife derived from stamp sales.
 
-(2) The Secretary of the Interior shall include in each annual report of the Commission under section 715b of this title a description of activities conducted under this subsection in the year covered by the report.
+(2) The Secretary of the Interior shall include in each annual report of the Commission under section 715b <sup>1</sup> of this title a description of activities conducted under this subsection in the year covered by the report.
 
 (Mar. 16, 1934, ch. 71, §4, 48 Stat. 451; June 15, 1935, ch. 261, title I, §§3, 4, 49 Stat. 379, 380; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Aug. 12, 1949, ch. 421, §2, 63 Stat. 600; Oct. 20, 1951, ch. 520, 65 Stat. 451; Pub. L. 85–585, §§2, 3, Aug. 1, 1958, 72 Stat. 486, 487; Pub. L. 89–669, §6, Oct. 15, 1966, 80 Stat. 929; Pub. L. 92–214, §2, Dec. 22, 1971, 85 Stat. 777; Pub. L. 94–215, §3(d), Feb. 17, 1976, 90 Stat. 190; Pub. L. 105–269, §2, Oct. 19, 1998, 112 Stat. 2381.)
 
 #### References in Text
 
 The Migratory Bird Conservation Act, referred to in subsecs. (b) and (c), is act Feb. 18, 1929, ch. 257, 45 Stat. 1222, as amended, which is classified generally to subchapter III (§715 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 715 of this title and Tables.
+
+Section 715b of this title, referred to in subsec. (d)(2), was omitted from the Code.
 
 #### Amendments
 
@@ -56,13 +58,9 @@ For effective date of amendment by Pub. L. 85–585, see section 4 of Pub. L. 85
 
 Transfer of functions of Secretary of Agriculture to Secretary of the Interior by Reorg. Plan No. II of 1939, see Transfer of Functions note set out under section 718a of this title.
 
-#### Cross References
-
-Funds appropriated pursuant to sections 715k–3 to 715k–5 of this title, to be added to, accounted and used for purposes of the migratory bird conservation fund established under this section, see section 715k–4 of this title.
-
-Repayment of funds treated as an advance without interest to the migratory bird conservation fund, see section 715k–5 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 715k–4, 718b, 718e, 3911, 3912 of this title; title 25 section 564w–1.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

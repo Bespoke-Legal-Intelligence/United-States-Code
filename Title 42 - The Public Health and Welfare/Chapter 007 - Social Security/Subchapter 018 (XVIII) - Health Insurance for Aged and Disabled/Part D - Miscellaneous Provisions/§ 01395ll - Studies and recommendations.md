@@ -56,6 +56,64 @@ Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed a
 
 Amendment by section 226(d) of Pub. L. 92–603 effective with respect to services provided on or after July 1, 1973, see section 226(f) of Pub. L. 92–603, set out as an Effective Date note under section 1395mm of this title.
 
+#### Study on Enrollment Procedures for Groups That Retain Independent Contractor Physicians
+
+Pub. L. 106–554, §1(a)(6) \[title IV, §413\], Dec. 21, 2000, 114 Stat. 2763, 2763A–515, provided that:
+
+“(a)
+
+In General.—The Comptroller General of the United States shall conduct a study of the current medicare enrollment process for groups that retain independent contractor physicians with particular emphasis on hospital-based physicians, such as emergency department staffing groups. In conducting the evaluation, the Comptroller General shall consult with groups that retain independent contractor physicians and shall—
+
+&emsp;“(1) review the issuance of individual medicare provider numbers and the possible medicare program integrity vulnerabilities of the current process;
+
+&emsp;“(2) review direct and indirect costs associated with the current process incurred by the medicare program and groups that retain independent contractor physicians;
+
+&emsp;“(3) assess the effect on program integrity by the enrollment of groups that retain independent contractor hospital-based physicians; and
+
+&emsp;“(4) develop suggested procedures for the enrollment of these groups.
+
+“(b)
+
+Report.—Not later than 1 year after the date of the enactment of this Act \[Dec. 21, 2000\], the Comptroller General shall submit to Congress a report on the study conducted under subsection (a).”
+
+#### GAO Studies and Reports on Medicare Payments
+
+Pub. L. 106–554, §1(a)(6) \[title IV, §437\], Dec. 21, 2000, 114 Stat. 2763, 2763A–527, provided that:
+
+“(a) GAO
+
+Study on HCFA Post-Payment Audit Process.—
+
+&emsp;“(1)
+
+Study.—The Comptroller General of the United States shall conduct a study on the post-payment audit process under the medicare program under title XVIII of the Social Security Act \[this subchapter\] as such process applies to physicians, including the proper level of resources that the Health Care Financing Administration should devote to educating physicians regarding—
+
+&emsp;&emsp;“(A) coding and billing;
+
+&emsp;&emsp;“(B) documentation requirements; and
+
+&emsp;&emsp;“(C) the calculation of overpayments.
+
+&emsp;“(2)
+
+Report.—Not later than 18 months after the date of the enactment of this Act \[Dec. 21, 2000\], the Comptroller General shall submit to Congress a report on the study conducted under paragraph (1) together with specific recommendations for changes or improvements in the post-payment audit process described in such paragraph.
+
+“(b) GAO
+
+Study on Administration and Oversight.—
+
+&emsp;“(1)
+
+Study.—The Comptroller General of the United States shall conduct a study on the aggregate effectsof regulatory, audit, oversight, and paperwork burdens on physicians and other health care providers participating in the medicare program under title XVIII of the Social Security Act \[this subchapter\].
+
+&emsp;“(2)
+
+Report.—Not later than 18 months after the date of the enactment of this Act \[Dec. 21, 2000\], the Comptroller General shall submit to Congress a report on the study conducted under paragraph (1) together with recommendations regarding any area in which—
+
+&emsp;&emsp;“(A) a reduction in paperwork, an ease of administration, or an appropriate change in oversight and review may be accomplished; or
+
+&emsp;&emsp;“(B) additional payments or education are needed to assist physicians and other health care providers in understanding and complying with any legal or regulatory requirements.”
+
 #### Study and Report Regarding Utilization of Physicians’ Services by Medicare Beneficiaries
 
 Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §211(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–349, provided that:
@@ -116,7 +174,7 @@ Pub. L. 96–499, title IX, §937(b), Dec. 5, 1980, 94 Stat. 2640, provided that
 
 #### Demonstration Projects, Studies, and Reports: Nutritional Therapy, Second Opinion Cost-Sharing, Services of Registered Dietitians, Services of Clinical Social Workers, Orthopedic Shoes, Respiratory Therapy Services, and Foot Conditions; Grants, Payments, and Expenditures
 
-Pub. L. 96–499, title IX, §958, Dec. 5, 1980, 94 Stat. 2648, directed Secretary of Health and Human Services to carry out certain demonstration projects and conduct certain studies as follows: (a) a demonstration project to determine extent to which nutritional therapy in early renal failure could retard the disease with resultant substantive deferment of dialysis, and aspects of making such therapy available under this subchapter, report to Congress to be submitted within twenty-four months of Dec. 5, 1980; (b) demonstration projects with respect to waiving the applicable cost sharing amounts which beneficiaries under this subchapter had to pay for obtaining a second opinion on having surgery, report to be submitted within one year after Dec. 5, 1980; (c) a study of conditions under which services of registered dietitians could be covered as a home health benefit under this subchapter, report to be submitted within twenty-four months of Dec. 5, 1980; (d) demonstration projects to determine aspects of making services of clinical social workers more generally available under this subchapter, report to be submitted within twenty-four months of Dec. 5, 1980; (e) a study of methods for providing coverage under part B of thissubchapter for orthopedic shoes for individuals with disabling or deforming conditions requiring special fitting considerations, or requiring special shoes in conjunction with the use of an orthosis or foot support, report to be submitted no later than July 1, 1981; (f) a study of conditions under which services with respect to respiratory therapy could be covered as a home health benefit under this subchapter, report to be submitted within twenty-four months of Dec. 5, 1980; and (g) a study analyzing cost effects of alternative approaches to improving coverage under this subchapter for treatment of various types of foot conditions, report to be submitted within twenty-four months of Dec. 5, 1980. Payments and expenditures for such studies and projects were to be made in appropriate part from the Federal Hospital Insurance Trust Fund established by section 1395i of this title, and the Federal Supplemental Medical Insurance Trust Fund established by section 1395t of this title.
+Pub. L. 96–499, title IX, §958, Dec. 5, 1980, 94 Stat. 2648, directed Secretary of Health and Human Services to carry out certain demonstration projects and conduct certain studies as follows: (a) a demonstration project to determine extent to which nutritional therapy in early renal failure could retard the disease with resultant substantive deferment of dialysis, and aspects of making such therapy available under this subchapter, report to Congress to be submitted within twenty-four months of Dec. 5, 1980; (b) demonstration projects with respect to waiving the applicable cost sharing amounts which beneficiaries under this subchapter had to pay for obtaining a second opinion on having surgery, report to be submitted within one year after Dec. 5, 1980; (c) a study of conditions under which services of registered dietitians could be covered as a home health benefit under this subchapter, report to be submitted within twenty-four months of Dec. 5, 1980; (d) demonstration projects to determine aspects of making services of clinical social workers more generally available under this subchapter, report to be submitted within twenty-four months of Dec. 5, 1980; (e) a study of methods for providing coverage under part B of this subchapter for orthopedic shoes for individuals with disabling or deforming conditions requiring special fitting considerations, or requiring special shoes in conjunction with the use of an orthosis or foot support, report to be submitted no later than July 1, 1981; (f) a study of conditions under which services with respectto respiratory therapy could be covered as a home health benefit under this subchapter, report to be submitted within twenty-four months of Dec. 5, 1980; and (g) a study analyzing cost effects of alternative approaches to improving coverage under this subchapter for treatment of various types of foot conditions, report to be submitted within twenty-four months of Dec. 5, 1980. Payments and expenditures for such studies and projects were to be made in appropriate part from the Federal Hospital Insurance Trust Fund established by section 1395i of this title, and the Federal Supplemental Medical Insurance Trust Fund established by section 1395t of this title.
 
 #### Demonstration Project Relating to the Terminally Ill
 

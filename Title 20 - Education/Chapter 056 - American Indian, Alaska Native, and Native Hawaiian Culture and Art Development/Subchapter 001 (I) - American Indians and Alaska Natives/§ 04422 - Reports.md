@@ -30,3 +30,7 @@ Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 
 
 For effective date and applicability of amendment by Pub. L. 100–297, see section 6303 of Pub. L. 100–297, set out as a note under section 1071 of this title.
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsec. (a) of this section relating to submitting an annual report to Congress, and provisions in subsec. (b) of this section relating to submitting annual budget proposal to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 201 of House Document No. 103–7.
+

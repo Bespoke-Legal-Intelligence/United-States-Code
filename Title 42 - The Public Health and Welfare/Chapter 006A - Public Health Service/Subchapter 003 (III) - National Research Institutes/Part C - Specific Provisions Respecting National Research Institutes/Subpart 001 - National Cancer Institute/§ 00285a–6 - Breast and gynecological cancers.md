@@ -42,7 +42,7 @@ In carrying out subsection (a) of this section, the Director of the Institute sh
 
 &emsp;(1) basic research concerning the etiology and causes of ovarian cancer and other cancers of the reproductive system of women;
 
-&emsp;(2) clinical research and related activities into the causes, prevention, detection andtreatment of ovarian cancer and other cancers of the reproductive system of women;
+&emsp;(2) clinical research and related activities into the causes, prevention, detection and treatment of ovarian cancer and other cancers of the reproductive system of women;
 
 &emsp;(3) control programs with respect to ovarian cancer and other cancers of the reproductive system of women in accordance with section 285a–1 of this title;
 
@@ -68,7 +68,7 @@ The Director of the Institute shall prepare, for inclusion in the biennial repor
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Section Referred to in Other Sections
 

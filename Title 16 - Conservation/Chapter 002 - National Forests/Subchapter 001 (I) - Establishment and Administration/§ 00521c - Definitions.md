@@ -12,5 +12,5 @@ For purposes of sections 521c to 521i of this title—
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 521e, 521f, 521g, 521h, 521i of this title; title 43 section 1716.
+This section is referred to in sections 521e, 521f, 521g, 521h, 521i, 698v–7, of this title; title 43 section 1716.
 

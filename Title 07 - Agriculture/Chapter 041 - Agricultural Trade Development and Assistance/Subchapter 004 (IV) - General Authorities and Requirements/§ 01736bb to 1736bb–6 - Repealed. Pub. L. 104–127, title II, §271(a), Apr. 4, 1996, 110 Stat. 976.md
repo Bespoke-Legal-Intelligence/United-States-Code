@@ -1,6 +1,6 @@
 ### §§1736bb to 1736bb–6. Repealed. Pub. L. 104–127, title II, §271(a), Apr. 4, 1996, 110 Stat. 976
 
-Section 1736bb, Pub. L. 100–202, §1, Dec. 22, 1987, 101 Stat. 1329–445; Pub. L. 100–418, title IV, §4610(b), Aug. 23,1988, 102 Stat. 1411, related to establishment of agricultural aid and trade missions.
+Section 1736bb, Pub. L. 100–202, §1, Dec. 22, 1987, 101 Stat. 1329–445; Pub. L. 100–418, title IV, §4610(b), Aug. 23, 1988, 102 Stat. 1411, related to establishment of agricultural aid and trade missions.
 
 Section 1736bb–1, Pub. L. 100–202, §2, Dec. 22, 1987, 101 Stat. 1329–445, related to required and additional missions and eligible countries.
 

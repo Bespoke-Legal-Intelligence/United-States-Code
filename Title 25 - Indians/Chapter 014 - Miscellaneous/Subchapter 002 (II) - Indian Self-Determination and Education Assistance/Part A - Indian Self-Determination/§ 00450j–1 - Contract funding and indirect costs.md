@@ -60,37 +60,53 @@ The amount of funds required by subsection (a) of this section—
 
 > Notwithstanding any other provision in this subchapter, the provision of funds under this subchapter is subject to the availability of appropriations and the Secretary is not required to reduce funding for programs, projects, or activities serving a tribe to make funds available to another tribe or tribal organization under this subchapter.
 
-#### (c) Treatment of shortfalls in indirect cost recoveries
+#### (c) Annual reports
+
+Not later than May 15 of each year, the Secretary shall prepare and submit to Congress an annual report on the implementation of this subchapter. Such report shall include—
+
+&emsp;(1) an accounting of the total amounts of funds provided for each program and the budget activity for direct program costs and contract support costs of tribal organizations under self-determination;
+
+&emsp;(2) an accounting of any deficiency in funds needed to provide required contract support costs to all contractors for the fiscal year for which the report is being submitted;
+
+&emsp;(3) the indirect cost rate and type of rate for each tribal organization that has been negotiated with the appropriate Secretary;
+
+&emsp;(4) the direct cost base and type of base from which the indirect cost rate is determined for each tribal organization;
+
+&emsp;(5) the indirect cost pool amounts and the types of costs included in the indirect cost pool; and
+
+&emsp;(6) an accounting of any deficiency in funds needed to maintain the preexisting level of services to any Indian tribes affected by contracting activities under this subchapter, and a statement of the amount of funds needed for transitional purposes to enable contractors to convert from a Federal fiscal year accounting cycle, as authorized by section 450j(d) of this title.
+
+#### (d) Treatment of shortfalls in indirect cost recoveries
 
 (1) Where a tribal organization's allowable indirect cost recoveries are below the level of indirect costs that the tribal organizations should have received for any given year pursuant to its approved indirect cost rate, and such shortfall is the result of lack of full indirect cost funding by any Federal, State, or other agency, such shortfall in recoveries shall not form the basis for any theoretical over-recovery or other adverse adjustment to any future years’ indirect cost rate or amount for such tribal organization, nor shall any agency seek to collect such shortfall from the tribal organization.
 
 (2) Nothing in this subsection shall be construed to authorize the Secretary to fund less than the full amount of need for indirect costs associated with a self-determination contract.
 
-#### (d) Liability for indebtedness incurred before fiscal year 1992
+#### (e) Liability for indebtedness incurred before fiscal year 1992
 
 Indian tribes and tribal organizations shall not be held liable for amounts of indebtedness attributable to theoretical or actual under-recoveries or theoretical over-recoveries of indirect costs, as defined in Office of Management and Budget Circular A–87, incurred for fiscal years prior to fiscal year 1992.
 
-#### (e) Limitation on remedies relating to cost disallowances
+#### (f) Limitation on remedies relating to cost disallowances
 
 Any right of action or other remedy (other than those relating to a criminal offense) relating to any disallowance of costs shall be barred unless the Secretary has given notice of any such disallowance within three hundred and sixty-five days of receiving any required annual single agency audit report or, for any period covered by law or regulation in force prior to October 19, 1984, any other required final audit report. Such notice shall set forth the right of appeal and hearing to the board of contract appeals pursuant to section 450m–1 of this title. For the purpose of determining the 365-day period specified in this paragraph, an audit report shall be deemed to have been received on the date of actual receipt by the Secretary, if, within 60 days after receiving the report, the Secretary does not give notice of a determination by the Secretary to reject the single-agency report as insufficient due to noncompliance with chapter 75 of title 31 or noncompliance with any other applicable law. Nothing in this subsection shall be deemed to enlarge the rights of the Secretary with respect to section 476 of this title.
 
-#### (f) Addition to contract of full amount contractor entitled; adjustment
+#### (g) Addition to contract of full amount contractor entitled; adjustment
 
 Upon the approval of a self-determination contract, the Secretary shall add to the contract the full amount of funds to which the contractor is entitled under subsection (a) of this section, subject to adjustments for each subsequent year that such tribe or tribal organization administers a Federal program, function, service, or activity under such contract.
 
-#### (g) Indirect costs for contracts for construction programs
+#### (h) Indirect costs for contracts for construction programs
 
 In calculating the indirect costs associated with a self-determination contract for a construction program, the Secretary shall take into consideration only those costs associated with the administration of the contract and shall not take into consideration those moneys actually passed on by the tribal organization to construction contractors and subcontractors.
 
-#### (h) Indian Health Service and Bureau of Indian Affairs budget consultations
+#### (i) Indian Health Service and Bureau of Indian Affairs budget consultations
 
 On an annual basis, the Secretary shall consult with, and solicit the participation of, Indian tribes and tribal organizations in the development of the budget for the Indian Health Service and the Bureau of Indian Affairs (including participation of Indian tribes and tribal organizations in formulating annual budget requests that the Secretary submits to the President for submission to Congress pursuant to section 1105 of title 31).
 
-#### (i) Use of funds for matching or cost participation requirements
+#### (j) Use of funds for matching or cost participation requirements
 
-Notwithstanding any other provision of law, a tribal organization may use funds provided under a self-determination contract to meet matching or cost participation requirements under other Federal and non-Federal programs.
+Notwithstanding any other provision of law, a tribal organization may use funds provided under a self-determination contract to meetmatching or cost participation requirements under other Federal and non-Federal programs.
 
-#### (j) Allowable uses of funds without approval of Secretary
+#### (k) Allowable uses of funds without approval of Secretary
 
 Without intending any limitation, a tribal organization may, without the approval of the Secretary, expend funds provided under a self-determination contract for the following purposes, to the extent that the expenditure of the funds is supportive of a contracted program:
 
@@ -110,7 +126,7 @@ Without intending any limitation, a tribal organization may, without the approva
 
 &emsp;(8) Insurance and indemnification, including insurance covering the risk of loss of or damage to property used in connection with the contract without regard to the ownership of such property.
 
-&emsp;(9) Costs incurred to raise funds or contributions from non-Federal sources for the purposeof furthering the goals and objectives of the self-determination contract.
+&emsp;(9) Costs incurred to raise funds or contributions from non-Federal sources for the purpose of furthering the goals and objectives of the self-determination contract.
 
 &emsp;(10) Interest expenses paid on capital expenditures such as buildings, building renovation, or acquisition or fabrication of capital equipment, and interest expenses on loans necessitated due to delays by the Secretary in providing funds under a contract.
 
@@ -118,13 +134,13 @@ Without intending any limitation, a tribal organization may, without the approva
 
 &emsp;(12) Costs associated with the management of pension funds, self-insurance funds, and other funds of the tribal organization that provide for participation by the Federal Government.
 
-#### (k) Suspension, withholding, or delay in payment of funds
+#### (<i>l</i>) Suspension, withholding, or delay in payment of funds
 
 (1) The Secretary may only suspend, withhold, or delay the payment of funds for a period of 30 days beginning on the date the Secretary makes a determination under this paragraph to a tribal organization under a self-determination contract, if the Secretary determines that the tribal organization has failed to substantially carry out the contract without good cause. In any such case, the Secretary shall provide the tribal organization with reasonable advance written notice, technical assistance (subject to available resources) to assist the tribal organization, a hearing on the record not later than 10 days after the date of such determination or such later date as the tribal organization shall approve, and promptly release any funds withheld upon subsequent compliance.
 
 (2) With respect to any hearing or appeal conducted pursuant to this subsection, the Secretary shall have the burden of proof to establish by clearly demonstrating the validity of the grounds for suspending, withholding, or delaying payment of funds.
 
-#### (<i>l</i>) Use of program income earned
+#### (m) Use of program income earned
 
 The program income earned by a tribal organization in the course of carrying out a self-determination contract—
 
@@ -132,21 +148,23 @@ The program income earned by a tribal organization in the course of carrying out
 
 &emsp;(2) shall not be a basis for reducing the amount of funds otherwise obligated to the contract.
 
-#### (m) Reduction of administrative or other responsibilities of Secretary; use of savings
+#### (n) Reduction of administrative or other responsibilities of Secretary; use of savings
 
 To the extent that programs, functions, services, or activities carried out by tribal organizations pursuant to contracts entered into under this subchapter reduce the administrative or other responsibilities of the Secretary with respect to the operation of Indian programs and result in savings that have not otherwise been included in the amount of contract funds determined under subsection (a) of this section, the Secretary shall make such savings available for the provision of additional services to program beneficiaries, either directly or through contractors, in a manner equitable to both direct and contracted programs.
 
-#### (n) Rebudgeting by tribal organization
+#### (<i>o</i>) Rebudgeting by tribal organization
 
 Notwithstanding any other provision of law (including any regulation), a tribal organization that carries out a self-determination contract may, with respect to allocations within the approved budget of the contract, rebudget to meet contract requirements, if such rebudgeting would not have an adverse effect on the performance of the contract.
 
-(Pub. L. 93–638, title I, §106, as added Pub. L. 100–472, title II, §205, Oct. 5, 1988, 102 Stat. 2292; amended Pub. L. 101–301, §2(a)(8), (9), May 24, 1990, 104 Stat. 207; Pub. L. 101–644, title II, §203(a), Nov. 29, 1990, 104 Stat. 4666; Pub. L. 103–413, title I, §102(14)–(19), Oct. 25, 1994, 108 Stat. 4257–4259; Pub. L. 105–362, title VIII, §801(g), Nov. 10, 1998, 112 Stat. 3288.)
+(Pub. L. 93–638, title I, §106, as added Pub. L. 100–472, title II, §205, Oct. 5, 1988, 102 Stat. 2292; amended Pub. L. 101–301, §2(a)(8), (9), May 24, 1990, 104 Stat. 207; Pub. L. 101–644, title II, §203(a), Nov. 29, 1990, 104 Stat. 4666; Pub. L. 103–413, title I, §102(14)–(19), Oct. 25, 1994, 108 Stat. 4257–4259; Pub. L. 105–362, title VIII, §801(g), Nov. 10, 1998, 112 Stat. 3288; Pub. L. 106–260, §9, Aug. 18, 2000, 114 Stat. 733.)
 
 #### Prior Provisions
 
 A prior section 106 of Pub. L. 93–638 was renumbered section 105 by Pub. L. 100–472 and is classified to section 450j of this title.
 
 #### Amendments
+
+2000—Subsecs. (c) to (<i>o</i>). Pub. L. 106–260 added subsec. (c) and redesignated former subsecs. (c) to (n) as (d) to (<i>o</i>), respectively.
 
 1998—Subsecs. (c) to (<i>o</i>). Pub. L. 105–362 redesignated subsecs. (d) to (<i>o</i>) as (c) to (n), respectively, and struck out former subsec. (c) which related to Secretary's annual report to Congress on implementation of this subchapter.
 
@@ -168,7 +186,7 @@ Subsec. (f). Pub. L. 103–413, §102(16), inserted after second sentence “For
 
 Subsec. (g). Pub. L. 103–413, §102(17), added subsec. (g) and struck out former subsec. (g) which read as follows: “Upon the approval of a self-determination contract and at the request of an Indian tribe or tribal organization, the Secretary shall add the indirect cost funding amount awarded for a self-determination contract to the amount awarded for direct program funding for the first year and, subject to adjustments in the amount of direct program costs for the contract, for each subsequent year that the program remains continuously under contract.”
 
-Subsec. (i). Pub. L. 103–413, §102(18), added subsec. (i) and struck out former subsec. (i) which read as follows:“Within one month after October 5, 1988, the Secretary is mandated to establish a team in each area of the Bureau of Indian Affairs which consists of agency personnel (area personnel in the Navajo Area and in the case of Indian tribes not served by an agency) and tribal representatives for the purpose of analyzing the ‘Indian Priority System’ and other aspects of the budgeting and funding allocation process of the Bureau of Indian Affairs for the purpose of making a report to Congress with appropriate recommendations for changes and legislative actions to achieve greater tribal decision-making authority over the use of funds appropriated for the benefit of the tribes and their members. The report along with the analysis, findings and recommendations of the area teams shall be submitted to Congress within six months of October 5, 1988. The Secretary may submit to Congress separate comments on the information and recommendations on the report.”
+Subsec. (i). Pub. L. 103–413, §102(18), added subsec. (i) and struck out former subsec. (i) which read as follows: “Within one month after October 5, 1988, the Secretary is mandated to establish a team in each area of the Bureau of Indian Affairs which consists of agency personnel (area personnel in the Navajo Area and in the case of Indian tribes not served by an agency) and tribal representatives for the purpose of analyzing the ‘Indian Priority System’ and other aspects of the budgeting and funding allocation process of the Bureau of Indian Affairs for the purpose of making a report to Congress with appropriate recommendations for changes and legislative actions to achieve greater tribal decision-making authority over the use of funds appropriated for the benefit of the tribes and their members. The report along with the analysis, findings and recommendations of the area teams shall be submitted to Congress within six months of October 5, 1988. The Secretary may submit to Congress separate comments on the information and recommendations on the report.”
 
 Subsecs. (j) to (<i>o</i>). Pub. L. 103–413, §102(19), added subsecs. (j) to (<i>o</i>).
 
@@ -180,5 +198,5 @@ Subsec. (i). Pub. L. 101–301, §2(a)(9), substituted “agency personnel (area
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 13a, 450c, 450f, 450j, 450<i>l</i>, 2508 of this title.
+This section is referred to in sections 13a, 450c, 450f, 450j, 450<i>l</i>, 458aaa–4, 458aaa–5, 458aaa–7, 458aaa–15, 2508 of this title.
 

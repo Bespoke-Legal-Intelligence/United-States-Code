@@ -16,10 +16,6 @@ An Act to amend the charter of the Columbia Institution for the Deaf, change its
 
 This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 99–371, Aug. 4, 1986, 100 Stat. 781, known as the Education of the Deaf Act of 1986, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
-#### Codification
-
-Section is also set out in D.C. Code, §31–1841.1.
-
 #### Prior Provisions
 
 Provisions similar to this section were contained in sections 691 and 691a of this title prior to repeal by Pub. L. 99–371.

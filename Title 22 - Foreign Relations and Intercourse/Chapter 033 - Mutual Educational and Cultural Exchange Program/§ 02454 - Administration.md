@@ -2,7 +2,7 @@
 
 #### (a) Delegation of powers; submission of proposal for delegation to Congress
 
-The President may delegate, to such officers of the Government as he determines to be appropriate, any of the powers conferred upon him by this chapter to the extent that he finds such delegation to be in the interest of the purposes expressed in this chapter and the efficient administration of the programs undertaken pursuant to this chapter: <i>Provided</i>, That where the President has delegated any of such powers to any officer, before the President implements any proposal for the delegation of any of such powers to another officer, that proposal shall be submitted to the Speaker of the House of Representatives and to the Committee on Foreign Relations of the Senate, and thereafter a period of not less than sixty days shall have elapsed while Congress is in session. In computing such sixty days, there shall be excluded the days on which either House is not in session because of an adjournment of more than three days.
+The President may delegate, to such officers of the Government as he determines to be appropriate, any of the powers conferred upon him by this chapter to the extent that he finds suchdelegation to be in the interest of the purposes expressed in this chapter and the efficient administration of the programs undertaken pursuant to this chapter: <i>Provided</i>, That where the President has delegated any of such powers to any officer, before the President implements any proposal for the delegation of any of such powers to another officer, that proposal shall be submitted to the Speaker of the House of Representatives and to the Committee on Foreign Relations of the Senate, and thereafter a period of not less than sixty days shall have elapsed while Congress is in session. In computing such sixty days, there shall be excluded the days on which either House is not in session because of an adjournment of more than three days.
 
 #### (b) Employment of personnel
 
@@ -20,7 +20,7 @@ For the purpose of performing functions under this chapter outside the United St
 
 (2) Funds available for programs under this chapter may be used (i) to provide for orientation courses, language training, or other appropriate services and materials for persons traveling out of the countries of their residence for educational and cultural purposes which further the purposes of this chapter, whether or not they are receiving other financial support from the Government, and (ii) to provide or continue services to increase the effectiveness of such programs following the return of such persons to the countries of their residence.
 
-(3) For the purpose of assisting foreign students in making the best use of their opportunities while attending colleges and universities in the United States, and assisting such students in directing their talents and initiative into channels which will make them more effective leaders upon return to their native lands, theDirector of the United States Information Agency may make suitable arrangements, by contract or otherwise, for the establishment and maintenance at colleges and universities in the United States attended by foreign students of an adequate counseling service.
+(3) For the purpose of assisting foreign students in making the best use of their opportunities while attending colleges and universities in the United States, and assisting such students in directing their talents and initiative into channels which will make them more effective leaders upon return to their native lands, the Director of the United States Information Agency may make suitable arrangements, by contract or otherwise, for the establishment and maintenance at colleges and universities in the United States attended by foreign students of an adequate counseling service.
 
 (4) The Director of the United States Information Agency is authorized to provide for publicity and promotion (including representation) abroad of activities of the type provided for in this chapter, and of similar services and opportunities for interchange not supported by the United States Government.
 
@@ -34,7 +34,7 @@ For the purpose of performing functions under this chapter outside the United St
 
 (3) The total amount of United States dollars acquired by any individual through currency exchanges under the authority of section 2452(b)(10) of this title shall in no event exceed $3,000 during any academic year.
 
-(4) An individual shall be eligible to exchange foreign currency for United States dollars at United States embassies under section 2452(b)(10) of this title only if he gives satisfactory assurances that (A) he will devote essentially full time to his proposed educational activity in the United States and will maintain good standing in relation to such program; (B) he will return to the country of his citizenship or nationality prior to coming to the United States and will render such public service as is determined acceptable for a period of time determined reasonable and necessary by the government of such country; and (C) he will not apply for an immigrant visa or for permanent residence or for a nonimmigrant visa under the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\] after having received any benefits under such section for a period of time equal to the period of study, research, instruction, or other educational activity he performed pursuant to such section.
+(4) An individual shall be eligible to exchange foreign currency for United States dollars at United States embassies under section 2452(b)(10) of this title only if he gives satisfactory assurances that (A) he will devote essentially full time to his proposed educational activity in the United States and will maintain good standing in relation to such program; (B) he will return to the country of his citizenship or nationality prior to coming to the United States and will render such public service as isdetermined acceptable for a period of time determined reasonable and necessary by the government of such country; and (C) he will not apply for an immigrant visa or for permanent residence or for a nonimmigrant visa under the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\] after having received any benefits under such section for a period of time equal to the period of study, research, instruction, or other educational activity he performed pursuant to such section.
 
 (5) As used in section 2452(b)(10) of this title, the term “excess foreign currencies” means foreign currencies, which if acquired by the United States (A) would be in excess of the normal requirements of departments, agencies, and embassies of the United States for such currencies, as determined by the President, and (B) would be available for the use of the United States Government under applicable agreements with the foreign country concerned.
 
@@ -86,7 +86,7 @@ For transfer of functions and offices (relating to education) of Secretary and D
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\]of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 #### Ex. Ord. No. 11034. Administration of Programs
 
@@ -120,7 +120,7 @@ Sec. 2. <i>United States Information Agency</i>. (a) Subject to the provisions o
 
 (4) The functions so conferred by Sections 104(d) and 108(c) and (d) of the Act \[subsec. (d) of this section and section 2458(c), (d) of this title\] to the extent that they pertain to the functions delegated by the foregoing provisions of this section.
 
-(b) The Director of the United States Information Agency shall prepare and transmit to the President thereports which the President is required to submit to the Congress by section 108(b) of the Act \[section 2458(b) of this title\] to the extent that they are with respect to activities carried out by the United States Information Agency pursuant to section 102(a)(2)(iii) and section 102(a)(3) of the Act \[section 2452(a)(2)(iii) and (a)(3) of this title\].
+(b) The Director of the United States Information Agency shall prepare and transmit to the President the reports which the President is required to submit to the Congress by section 108(b) of the Act \[section 2458(b) of this title\] to the extent that they are with respect to activities carried out by the United States Information Agency pursuant to section 102(a)(2)(iii) and section 102(a)(3) of the Act \[section 2452(a)(2)(iii) and (a)(3) of this title\].
 
 (c) The functions so conferred by Section 102(a)(3) of the Act \[section 2452(a)(3) of this title\] to the extent that they are in respect of fairs, expositions, and demonstrations held outside of the United States, but exclusive of the functions delegated by the provisions of Section 1(a)(3) of this order.
 
@@ -248,7 +248,7 @@ Lyndon B. Johnson.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 11770, Feb. 21, 1974, 39 F.R. 7127, provided:
 
-By virtue of the authority vested in me by section 104 of the Mutual Educational and Cultural Exchange Act of 1961 (22 U.S.C. 2454; hereinafter referred to as theact), and section 301 of Title 3 of the United States Code, and as President of the United States, it is hereby ordered as follows:
+By virtue of the authority vested in me by section 104 of the Mutual Educational and Cultural Exchange Act of 1961 (22 U.S.C. 2454; hereinafter referred to as the act), and section 301 of Title 3 of the United States Code, and as President of the United States, it is hereby ordered as follows:
 
 Section 1. The Secretary of the Interior is authorized, with respect to the International Symposium on Geothermal Energy to be held in San Francisco, California, in May 1975, to perform the functions conferred by section 102(b)(5), (7), and (8) of the act \[section 2452(b)(5), (7) and (8) of this title\].
 

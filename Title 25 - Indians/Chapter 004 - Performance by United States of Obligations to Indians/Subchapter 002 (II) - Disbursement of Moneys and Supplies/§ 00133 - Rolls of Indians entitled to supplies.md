@@ -4,7 +4,7 @@ For the purpose of properly distributing the supplies appropriated for the India
 
 (Mar. 3, 1875, ch. 132, §4, 18 Stat. 449.)
 
-#### Cross References
+#### Indian Agents
 
-Indian agents abolished, see note under section 64 of this title.
+The services of Indian agents have been dispensed with. See note set out under section 64 of this title.
 

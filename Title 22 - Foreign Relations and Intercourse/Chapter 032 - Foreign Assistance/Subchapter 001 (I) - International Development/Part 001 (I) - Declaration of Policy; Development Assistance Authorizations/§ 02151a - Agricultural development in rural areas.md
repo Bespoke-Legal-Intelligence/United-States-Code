@@ -10,7 +10,7 @@
 
 &emsp;(C) to help create productive farm and off-farm employment in rural areas to provide a more viable economic base and enhance opportunities for improved incomes, living standards, and contributions by rural poor people to the economic and social development of their countries.
 
-(2) There are authorized to be appropriated to the President for purposes of this section, in addition to funds otherwise available for such purposes, $760,000,000 for fiscal year 1986 and $760,000,000 for fiscal year 1987. Of these amounts, the President may use such amounts as he deems appropriate to carry out the provisions of section 316 of the International Security and Development Cooperation Act of 1980. Amounts appropriated under this section are authorized to remain available until expended.
+(2) There are authorized to be appropriated to the President for purposes of this section, in addition to funds otherwise available for such purposes, $760,000,000 for fiscal year 1986 and $760,000,000 for fiscal year 1987. Of these amounts, the President may use such amountsas he deems appropriate to carry out the provisions of section 316 of the International Security and Development Cooperation Act of 1980. Amounts appropriated under this section are authorized to remain available until expended.
 
 (3) Of the amounts authorized to be appropriated in paragraph (2) for the fiscal year 1987, not less than $2,000,000 shall be available only for the purpose of controlling and eradicating amblyomma variegatum (heartwater) in bovine animals in the Caribbean.
 
@@ -40,7 +40,7 @@ Local currency proceeds from sales of commodities provided under the Agricultura
 
 #### (f) National food security policies and programs; bilateral and multilateral assistance
 
-The Congress finds that the efforts of developing countries to enhance their national food security deserves encouragement as a matter of United States development assistance policy. Measures complementary to assistance for expanding food production in developing countries are needed to help assure that food becomes increasingly available on a regular basis to thepoor in such countries. Therefore, United States bilateral assistance under this chapter and the Agricultural Trade Development and Assistance Act of 1954 \[7 U.S.C. 1691 et seq.\], and United States participation in multilateral institutions, shall emphasize policies and programs which assist developing countries to increase their national food security by improving their food policies and management and by strengthening national food reserves, with particular concern for the needs of the poor, through measures encouraging domestic production, building national food reserves, expanding available storage facilities, reducing postharvest food losses, and improving food distribution.
+The Congress finds that the efforts of developing countries to enhance their national food security deserves encouragement as a matter of United States development assistance policy. Measures complementary to assistance for expanding food production in developing countries are needed to help assure that food becomes increasingly available on a regular basis to the poor in such countries. Therefore, United States bilateral assistance under this chapter and the Agricultural Trade Development and Assistance Act of 1954 \[7 U.S.C. 1691 et seq.\], and United States participation in multilateral institutions, shall emphasize policies and programs which assist developing countries to increase their national food security by improving their food policies and management and by strengthening national food reserves, with particular concern for the needs of the poor, through measures encouraging domestic production, building national food reserves, expanding available storage facilities, reducing postharvest food losses, and improving food distribution.
 
 #### (g) International Fund for Agricultural Development; participation and contributions; availability of appropriations
 
@@ -63,6 +63,10 @@ This chapter, referred to in subsec. (f), was in the original “this Act”, me
 References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
 
 #### Amendments
+
+2000—Subsec. (b)(4)(G). Pub. L. 106–309, §203(b)(1), added subpar. (G).
+
+Subsec. (b)(17). Pub. L. 106–309, §203(b)(2), added par. (17).
 
 1986—Subsec. (a)(3). Pub. L. 99–399 added par. (3).
 
@@ -132,5 +136,5 @@ Section 317 of Pub. L. 96–533 provided: “It is the sense of the Congress tha
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2151b, 2151d, 2151f, 2151h, 2151p–1, 2151u, 2220a, 2220d, 2293, 3262 of this title.
+This section is referred to in sections 2151b, 2151d, 2151h, 2151p–1, 2151u, 2220a, 2220d, 2293, 3262 of this title.
 

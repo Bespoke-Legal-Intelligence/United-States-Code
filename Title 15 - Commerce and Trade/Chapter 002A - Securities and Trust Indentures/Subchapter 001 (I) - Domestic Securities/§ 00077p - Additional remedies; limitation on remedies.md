@@ -40,7 +40,7 @@ Any covered class action brought in any State court involving a covered security
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding any other provision of this section, nothing in this section may beconstrued to preclude a State or political subdivision thereof or a State pension plan from bringing an action involving a covered security on its own behalf, or as a member of a class comprised solely of other States, political subdivisions, or State pension plans that are named plaintiffs, and that have authorized participation, in such action.
+&emsp;&emsp;Notwithstanding any other provision of this section, nothing in this section may be construed to preclude a State or political subdivision thereof or a State pension plan from bringing an action involving a covered security on its own behalf, or as a member of a class comprised solely of other States, political subdivisions, or State pension plans that are named plaintiffs, and that have authorized participation, in such action.
 
 #### (B) “State pension plan” defined
 
@@ -109,10 +109,6 @@ For purposes of this section, the following definitions shall apply:
 #### Effective Date of 1998 Amendment
 
 Pub. L. 105–353, title I, §101(c), Nov. 3, 1998, 112 Stat. 3233, provided that: “The amendments made by this section \[amending this section and sections 77v, 77z–1, 78u–4, and 78bb of this title\] shall not affect or apply to any action commenced before and pending on the date of enactment of this Act \[Nov. 3, 1998\].”
-
-#### Cross References
-
-Securities Exchange Act of 1934 as providing additional remedies, see section 78bb of this title.
 
 #### Section Referred to in Other Sections
 

@@ -1,12 +1,12 @@
 ### §612. Composition of selection boards
 
-(a)(1) Members of selection boards shall be appointed by the Secretary of the military department concerned in accordance with this section. A selection board shall consist of five or more officers who are on the active-duty list of the same armed force as the officers under consideration by the board. Each member of a selection board must be serving in a grade higher than the grade of the officers under consideration by the board, except that no member of a board may be serving in a grade below major or lieutenant commander.
+(a)(1) Members of selection boards shall be appointed by the Secretary of the military department concerned in accordance with this section. A selection board shall consist of five or more officers of the same armed force as the officers under consideration by the board. Each member of a selection board (except as provided in paragraphs (2), (3), and (4)) shall be an officer on the active-duty list. Each member of a selection board must be serving in a grade higher than the grade of the officers under consideration by the board, except that no member of a board may be serving in a grade below major or lieutenant commander.
 
 (2)(A) Except as provided in subparagraph (B), a selection board shall include at least one officer from each competitive category of officers to be considered by the board.
 
 (B) A selection board need not include an officer from a competitive category to be considered by the board when there are no officers of that competitive category on the active-duty list in a grade higher than the grade of the officers to be considered by the board and eligible to serve on the board. However, in such a case the Secretary of the military department concerned, in his discretion, may appoint as a member of the board an officer of that competitive category who is not on the active-duty list from among officers of the same armed force as the officers under consideration by the board who hold a higher grade than the grade of the officers under consideration and who are retired officers, reserve officers serving on active duty but not on the active-duty list, or members of the Ready Reserve.
 
-(3) When reserve officers of an armed force are to be considered by a selection board, the membership of the board shall include at least one reserve officer of that armed force, with the exact number of reserve officers to be determined by the Secretary of the military department concerned, in his discretion, except that in the case of a board which is considering officers in the grade of colonel or brigadier general or, in the case of officers of the Navy, captain or rear admiral (lower half), no reserve officer need be included if there are no reserve officers of that armed force on active duty in the next higher grade who are eligible to serve on the board.
+(3) When reserve officers of an armed force are to be considered by a selection board, the membership of the board shall include at least one reserve officer of that armed force on active duty (whether or not on the active-duty list). The actual number of reserve officers shall be determined by the Secretary of the military department concerned, in the Secretary's discretion. Notwithstanding the first sentence of this paragraph, in the case of a board which is considering officers in the grade of colonel or brigadier general or, in the case of officers of theNavy, captain or rear admiral (lower half), no reserve officer need be included if there are no reserve officers of that armed force on active duty in the next higher grade who are eligible to serve on the board.
 
 (4) Except as provided in paragraphs (2) and (3), if qualified officers on the active-duty list are not available in sufficient number to comprise a selection board, the Secretary of the military department concerned shall complete the membership of the board by appointing as members of the board officers who are members of the same armed force and hold a grade higher than the grade of the officers under consideration by the board and who are retired officers, reserve officers serving on active duty but not on the active-duty list, or members of the Ready Reserve.
 
@@ -16,9 +16,13 @@
 
 (c) Each selection board convened under section 611(a) of this title that will consider officers who are serving in, or have served in, joint duty assignments shall include at least one officer designated by the Chairman of the Joint Chiefs of Staff who is currently serving in a joint duty assignment. The Secretary of Defense may waive the preceding sentence in the case of any selection board of the Marine Corps.
 
-(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2851; amended Pub. L. 97–22, §4(a), July 10, 1981, 95 Stat. 125; Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 99–433, title IV, §402(a), Oct. 1, 1986, 100 Stat. 1030.)
+(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2851; amended Pub. L. 97–22, §4(a), July 10, 1981, 95 Stat. 125; Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 99–433, title IV, §402(a), Oct. 1, 1986, 100 Stat. 1030; Pub. L. 106–398, §1 \[\[div. A\], title V, §504(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–101.)
 
 #### Amendments
+
+2000—Subsec. (a)(1). Pub. L. 106–398, §1 \[\[div. A\], title V, §504(a)(1)\], struck out “who are on the active-duty list” after “five or more officers” in second sentence and inserted after second sentence “Each member of a selection board (except as provided in paragraphs (2), (3), and (4)) shall be an officer on the active-duty list.”
+
+Subsec. (a)(3). Pub. L. 106–398, §1 \[\[div. A\], title V, §504(a)(2)\], substituted “of that armed force on active duty (whether or not on the active-duty list). The actual number of reserve officers shall be” for “of that armed force, with the exact number of reserve officers to be” and “the Secretary's discretion. Notwithstanding the first sentence of this paragraph,” for “his discretion, except that”.
 
 1986—Subsec. (c). Pub. L. 99–433 added subsec. (c).
 
@@ -35,6 +39,10 @@ Subsec. (a)(4). Pub. L. 97–22, §4(a)(3), substituted “Except as provided in
 Subsec. (a)(5). Pub. L. 97–22, §4(a)(3), added par. (5) consisting of provisions, formerly contained in par. (4).
 
 Subsec. (b). Pub. L. 97–22, §4(a)(4), inserted “convened under section 611(a) of this title” after “selection boards”.
+
+#### Effective Date of 2000 Amendment
+
+Pub. L. 106–398, §1 \[\[div. A\], title V, §504(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–102, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to any selection board convened under section 611(a) of title 10, United States Code, on or after August 1, 1981.”
 
 #### Effective Date of 1986 Amendment
 

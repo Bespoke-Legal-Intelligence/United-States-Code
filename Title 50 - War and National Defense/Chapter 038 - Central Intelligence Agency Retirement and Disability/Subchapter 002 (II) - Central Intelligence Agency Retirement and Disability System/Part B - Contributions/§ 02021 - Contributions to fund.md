@@ -22,7 +22,7 @@ Each participant shall be deemed to consent and agree to such deductions from ba
 
 #### (1) Accrual of interest
 
-&emsp;Amounts deducted and withheld from the basic pay of a participant under this section for pay periods after the first day of the first pay period beginning after the day on which the participant completes 35 years of creditable service computed under sections 2081 and 2082 of this title (excluding service credit for unused sick leave under section 2031(a)(2) of this title) shall accrue interest. Such interest shall accrue at the rate of 3 percent a year through December 31, 1984, and thereafter at the rate computed under section 8334(e) of title 5, and shall be compounded annuallyfrom the date on which the amount is so deducted and withheld until the date of the participant's retirement or death.
+&emsp;Amounts deducted and withheld from the basic pay of a participant under this section for pay periods after the first day of the first pay period beginning after the day on which the participant completes 35 years of creditable service computed under sections 2081 and 2082 of this title (excluding service credit for unused sick leave under section 2031(a)(2) of this title) shall accrue interest. Such interest shall accrue at the rate of 3 percent a year through December 31, 1984, and thereafter at the rate computed under section 8334(e) of title 5, and shall be compounded annually from the date on which the amount is so deducted and withheld until the date of the participant's retirement or death.
 
 #### (2) Use of amounts withheld after 35 years of service
 
@@ -82,7 +82,9 @@ Amendment by Pub. L. 103–178 effective Feb. 1, 1993, see section 202(b) of Pub
 
 #### Temporary Adjustment of Contribution Levels
 
-Pub. L. 105–33, title VII, §7001(c)(1), (2), Aug. 5, 1997, 111 Stat. 658, provided that:
+Pub. L. 106–346, §101(a) \[title V, §505(g)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–54, provided that: “Notwithstanding section 211(a)(2) of the Central Intelligence Agency Retirement Act (50 U.S.C. 2021(a)(2)), during the period beginning on October 1, 2002, through December 31, 2002, the Central Intelligence Agency shall contribute 7.5 percent of the basic pay of an employee participating in the Central Intelligence Agency Retirement and Disability System in lieu of the agency contribution otherwise required under section 211(a)(2) of such Act.”
+
+Pub. L. 105–33, title VII, §7001(c)(1), (2), Aug. 5, 1997, 111 Stat. 658, as amended by Pub. L. 106–346, §101(a) \[title V, §505(c)(1)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–53, provided that:
 
 “(1)
 
@@ -90,15 +92,14 @@ Agency contributions.—Notwithstanding section 211(a)(2) of the Central Intelli
 
 “(2)
 
-Individual deductions, withholdings, and deposits.—Notwithstanding section 211(a)(1) of the Central Intelligence Agency Retirement Act (50 U.S.C. 2021(a)(1)) beginning on January 1, 1999, through December 31, 2002, the percentage deducted and withheld from the basic pay of an employee participating in the Central Intelligence Agency Retirement and Disability System shall be as follows:
+Individual deductions, withholdings, and deposits.—Notwithstanding section 211(a)(1) of the Central Intelligence Agency Retirement Act (50 U.S.C. 2021(a)(1)) beginning on January 1, 1999, through December 31, 2000, the percentage deducted and withheld from the basic pay of an employee participating in the Central Intelligence Agency Retirement and Disability System shall be as follows:
 
 &nbsp;
 
 | &nbsp; | &nbsp; | &nbsp; |
 | :--- | :---: | ---: |
 | &nbsp; | 7\.25 | January 1, 1999, to December 31, 1999. |
-| &nbsp; | 7\.4 | January 1, 2000, to December 31, 2000. |
-| &nbsp; | 7\.5 | January 1, 2001, to December 31, 2002.” |
+| &nbsp; | 7\.4 | January 1, 2000, to December 31, 2000.” |
 
 #### Section Referred to in Other Sections
 

@@ -14,7 +14,7 @@ Upon request of the Governor of any State, the Secretary shall provide, subject 
 
 (2) In determining whether to approve a State energy conservation plan submitted under section 6322(b) or (e) of this title, the Secretary—
 
-&emsp;(A) shall take into account the impact of local economic, climatic, geographic, and other unique conditions and requirements of such State on the opportunity to conserve and to improve efficiency in the use of energy in such State; and
+&emsp;(A) shall take into account the impact of local economic, climatic, geographic, andother unique conditions and requirements of such State on the opportunity to conserve and to improve efficiency in the use of energy in such State; and
 
 &emsp;(B) may extend the period of time during which a State energy conservation feasibility report or State energy conservation plan may be submitted if the Secretary determines that participation by the State submitting such report or plan is likely to result in significant progress toward achieving the purposes of this chapter.
 
@@ -30,7 +30,7 @@ Upon request of the Governor of any State, the Secretary shall provide, subject 
 
 #### (c) Records
 
-Each recipient of Federal financial assistance under subsection (b) of this section shall keep such records as the Secretary shall require, including records which fully disclose the amount and disposition by each recipient of the proceeds of such assistance, the total cost of the plan, program, projects, measures, or systems for which such assistance was given or used, the source and amount of funds for such plan, program, projects, measures, or systems not supplied by the Secretary, and such other records as the Secretary determines necessary to facilitate an effective audit and performance evaluation. The Secretary and Comptroller General of the United States, or any of their duly authorized representatives, shall have access for the purpose of audit and examination, at reasonable times and under reasonable conditions, to any pertinent books, documents, papers, and recordsof any recipient of Federal assistance under this part.
+Each recipient of Federal financial assistance under subsection (b) of this section shall keep such records as the Secretary shall require, including records which fully disclose the amount and disposition by each recipient of the proceeds of such assistance, the total cost of the plan, program, projects, measures, or systems for which such assistance was given or used, the source and amount of funds for such plan, program, projects, measures, or systems not supplied by the Secretary, and such other records as the Secretary determines necessary to facilitate an effective audit and performance evaluation. The Secretary and Comptroller General of the United States, or any of their duly authorized representatives, shall have access for the purpose of audit and examination, at reasonable times and under reasonable conditions, to any pertinent books, documents, papers, and records of any recipient of Federal assistance under this part.
 
 #### (d) Assistance as supplementing and not supplanting State and local funds
 

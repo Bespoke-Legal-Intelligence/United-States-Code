@@ -35,18 +35,6 @@
 
 1996—Pub. L. 104–106, div. A, title XV, §1501(b)(16), Feb. 10, 1996, 110 Stat. 496, substituted a semicolon for a colon in item 12304 and struck out “on active duty” after “Retention” in item 12308.
 
-#### Cross References
-
-Non-regular service, recall to active status of member on inactive status list, see section 12735 of this title.
-
-Particular provisions relating to active duty—
-
-&emsp;&emsp;Air Force, see section 8491 et seq. of this title.
-
-&emsp;&emsp;Army, see section 3491 et seq. of this title.
-
-Retired pay for non-regular service, limitation on active duty, see section 12737 of this title.
-
 #### Chapter Referred to in Other Sections
 
 This chapter is referred to in section 672 of this title; title 37 section 205.

@@ -46,7 +46,7 @@ Grants under this section shall be used—
 
 &emsp;(A) Subject to subparagraph (B), if the amount allotted to the State educational agency for any fiscal year under this part exceeds the amount such agency received for fiscal year 1990 under this part, such agency shall provide grants to local educational agencies for purposes of section 11433 of this title.
 
-&emsp;(B) The State educational agency may reserve not more than the greater of 5 percent ofthe amount such agency receives under this part for any fiscal year, or the amount such agency received under this part for fiscal year 1990, to conduct activities under subsection (f) of this section directly or through grants or contracts.
+&emsp;(B) The State educational agency may reserve not more than the greater of 5 percent of the amount such agency receives under this part for any fiscal year, or the amount such agency received under this part for fiscal year 1990, to conduct activities under subsection (f) of this section directly or through grants or contracts.
 
 #### (2) Special rule
 
@@ -56,7 +56,7 @@ Grants under this section shall be used—
 
 The Coordinator of Education of Homeless Children and Youth established in each State shall—
 
-&emsp;(1) estimate the number of homeless children and youth in the State and the number of such children and youth served with assistance provided under the grants or contracts under this part;
+&emsp;(1) estimate the number of homeless children and youth in the State and the number of suchchildren and youth served with assistance provided under the grants or contracts under this part;
 
 &emsp;(2) gather, to the extent possible, reliable, valid, and comprehensive information on the nature and extent of the problems homeless children and youth have in gaining access to public preschool programs and to public elementary and secondary schools, the difficulties in identifying the special needs of such children and youth, any progress made by the State educational agency and local educational agencies in the State in addressing such problems and difficulties, and the success of the program under this part in allowing homeless children and youth to enroll in, attend, and succeed in, school;
 
@@ -124,7 +124,7 @@ The Coordinator of Education of Homeless Children and Youth established in each 
 
 &emsp;(B) In determining the best interests of the child or youth under subparagraph (A), the local educational agency shall comply, to the extent feasible, with the request made by a parent or guardian regarding school selection.
 
-&emsp;(C) For purposes of this paragraph, the term “school of origin” means the school that the child or youth attended when permanently housed, or the school in which the child or youth was last enrolled.
+&emsp;(C) For purposes of this paragraph, the term “school of origin” means the school that thechild or youth attended when permanently housed, or the school in which the child or youth was last enrolled.
 
 &emsp;(D) The choice regarding placement shall be made regardless of whether the child or youth lives with the homeless parents or has been temporarily placed elsewhere by the parents.
 
@@ -180,7 +180,7 @@ For Oct. 1, 1994, as the effective date the Compact of Free Association with the
 
 The Indian Self-Determination and Education Assistance Act, referred to in subsec. (c)(2)(B)(i), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
 
-This chapter, referred to in subsec. (c)(2)(B)(i), was in the original “this Act”, meaning Pub. L. 100–77, July 22, 1987, 101 Stat. 482, known as the Stewart B. McKinney Homeless Assistance Act. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of this title and Tables.
+This chapter, referred to in subsec. (c)(2)(B)(i), was in the original “this Act”, meaning Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended, known as the McKinney-Vento Homeless Assistance Act. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of this title and Tables.
 
 This part, referred to in subsec. (c)(2)(B)(ii), is unidentifiable in the original because subtitle B (§§721–726) of title VII of Pub. L. 100–77 does not contain any parts.
 
@@ -190,7 +190,7 @@ The Runaway and Homeless Youth Act, referred to in subsec. (g)(6), is title III 
 
 #### Prior Provisions
 
-A prior section 11432, Pub. L. 100–77, title VII, §722, July 22, 1987, 101 Stat. 525; Pub. L. 100–628, title VII, §702(a), Nov. 7, 1988, 102 Stat. 3245; Pub. L. 101–645, title VI, §612(b), Nov. 29, 1990, 104 Stat. 4735, related to grants for State and local activities for education of homeless children and youth, prior to the general amendment of this part by Pub. L. 103–382.
+A prior section 11432, Pub. L. 100–77, title VII, §722, July 22, 1987, 101 Stat. 525; Pub. L. 100–628, title VII, §702(a), Nov. 7, 1988, 102 Stat. 3245; Pub. L. 101–645, title VI, §612(b), Nov. 29, 1990, 104 Stat. 4735, related to grants for State and local activities for education of homelesschildren and youth, prior to the general amendment of this part by Pub. L. 103–382.
 
 #### Section Referred to in Other Sections
 

@@ -12,7 +12,7 @@
 
 &emsp;(4) encourage and assist in establishing and maintaining cooperation by and between contractors and between them and other research organizations, the Department of Transportation, and other departments, agencies, and instrumentalities of the United States Government.
 
-(c) The Secretary may distribute publications containing information the Secretary considers relevant to research carried out under this section.
+(c) The Secretary may distribute publications containing information the Secretary considersrelevant to research carried out under this section.
 
 (Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2427.)
 
@@ -68,7 +68,7 @@ In general.—The Secretary shall conduct a study to determine whether or not co
 
 &emsp;“(B)
 
-Consultation.—In conducting the study under this paragraph, the Secretary shall consult, as appropriate, with the Inspector General of the Departmentof Transportation, the Comptroller General, the heads of other Federal agencies, research organizations, industry representatives, employee organizations, safety organizations, and other entities.
+Consultation.—In conducting the study under this paragraph, the Secretary shall consult, as appropriate, with the Inspector General of the Department of Transportation, the Comptroller General, the heads of other Federal agencies, research organizations, industry representatives, employee organizations, safety organizations, and other entities.
 
 &emsp;“(C)
 

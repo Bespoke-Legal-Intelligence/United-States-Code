@@ -24,9 +24,3 @@ The second paragraph is new and provides for the disclaiming or dedication of an
 
 Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 93–596, set out as a note under section 1111 of Title 15, Commerce and Trade.
 
-#### Cross References
-
-Costs when disclaimer not entered before suit, see section 288 of this title.
-
-Fee for filing disclaimer, see section 41 of this title.
-

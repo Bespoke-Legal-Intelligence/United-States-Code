@@ -76,7 +76,7 @@ Subsec. (e). Pub. L. 102–586, §1502(b), struck out before end of second sente
 
 #### Effective Date of 1992 Amendment
 
-Amendment by section 1501(c)(3) of Pub. L. 102–486 effective at the end of the one-year period beginning Oct. 24, 1992, see section 1501(d)(1) of Pub. L. 102–486, set out as a note under section 2821 of this title.
+Amendment by section 1501(c)(3) of Pub. L. 102–486 effective at the end of the one-year period beginning Oct.24, 1992, see section 1501(d)(1) of Pub. L. 102–486, set out as a note under section 2821 of this title.
 
 #### Effective Date
 

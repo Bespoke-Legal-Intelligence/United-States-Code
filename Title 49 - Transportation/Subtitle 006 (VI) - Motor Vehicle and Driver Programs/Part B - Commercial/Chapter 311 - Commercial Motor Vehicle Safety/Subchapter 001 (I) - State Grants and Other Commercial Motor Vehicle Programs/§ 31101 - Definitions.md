@@ -64,3 +64,7 @@ Par. (1)(C). Pub. L. 105–178, §4003(a)(2), inserted “and transported in a q
 
 Pub. L. 105–178, title IV, §4003(h), June 9, 1998, 112 Stat. 398, provided that: “Amendments made by this section \[amending this section and sections 31102 to 31104 of this title\] shall not affect any funds made available before the date of enactment of this Act \[June 9, 1998\].”
 
+#### Section Referred to in Other Sections
+
+This section is referred to in title 47 section 302a.
+

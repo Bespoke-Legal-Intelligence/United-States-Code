@@ -60,7 +60,7 @@
 
 (1) The period during which a student may receive Federal Pell Grants shall be the period required for the completion of the first undergraduate baccalaureate course of study being pursued by that student at the institution at which the student is in attendance except that any period during which the student is enrolled in a noncredit or remedial course of study as defined in paragraph (2) shall not be counted for the purpose of this paragraph.
 
-(2) Nothing in this section shall exclude from eligibility courses of study which are noncredit or remedial in nature (including courses in English language instruction) which are determined by the institution to be necessary to help the student be prepared for the pursuit of a first undergraduate baccalaureate degree or certificate or, in the case of courses in English language instruction, to be necessary to enable the student to utilize already existing knowledge, training, or skills. Nothing in this section shall exclude from eligibility programs of studyabroad that are approved for credit by the home institution at which the student is enrolled.
+(2) Nothing in this section shall exclude from eligibility courses of study which are noncredit or remedial in nature (including courses in English language instruction) which are determined by the institution to be necessary to help the student be prepared for the pursuit of a first undergraduate baccalaureate degree or certificate or, in the case of courses in English language instruction, to be necessary to enable thestudent to utilize already existing knowledge, training, or skills. Nothing in this section shall exclude from eligibility programs of study abroad that are approved for credit by the home institution at which the student is enrolled.
 
 (3) No student is entitled to receive Pell Grant payments concurrently from more than one institution or from the Secretary and an institution.
 
@@ -110,7 +110,7 @@ If, for any fiscal year, the funds appropriated for payments under this subpart 
 
 #### (i) Treatment of institutions and students under other laws
 
-Any institution of higher education which enters into an agreement with the Secretary to disburse to students attending that institution the amounts those students are eligible to receive under this subpart shall not be deemed, byvirtue of such agreement, a contractor maintaining a system of records to accomplish a function of the Secretary. Recipients of Pell Grants shall not be considered to be individual grantees for purposes of subtitle D of title V of Public Law 100–690 \[41 U.S.C. 701 et seq.\].
+Any institution of higher education which enters into an agreement with the Secretary to disburse to students attending that institutionthe amounts those students are eligible to receive under this subpart shall not be deemed, by virtue of such agreement, a contractor maintaining a system of records to accomplish a function of the Secretary. Recipients of Pell Grants shall not be considered to be individual grantees for purposes of subtitle D of title V of Public Law 100–690 \[41 U.S.C. 701 et seq.\].
 
 #### (j) Institutional ineligibility based on default rates
 
@@ -278,7 +278,7 @@ Subsec. (g). Pub. L. 102–325, §401(g), struck out “Adjustments for” befor
 
 “(2) Any schedule established by the Secretary for the purpose of paragraph (1)(B) of this subsection shall contain a single linear reduction formula in which the percentage reduction increases uniformly as the entitlement decreases, and shall provide that if an entitlement is reduced to less than $100, no payment shall be made.”
 
-Subsec. (i). Pub. L. 102–325, §401(h), substituted “Treatment of institutions and students under other laws” for “Noncontractor status of institutions” inheading and inserted at end of text “Recipients of Pell Grants shall not be considered to be individual grantees for purposes of part D of title V of Public Law 100–690.”
+Subsec. (i). Pub. L. 102–325, §401(h), substituted “Treatment of institutions and students under other laws” for “Noncontractor status of institutions” in heading and inserted at end of text “Recipients of Pell Grants shall not be considered to be individual grantees for purposes of part D of title V of Public Law 100–690.”
 
 1987—Subsec. (g)(2). Pub. L. 100–50 substituted “paragraph (1)(B)” for “paragraph (1)”.
 
@@ -325,6 +325,8 @@ Section 1306 of Pub. L. 99–498 directed Secretary to conduct a study and repor
 #### Maximum Pell Grants
 
 Provisions limiting the maximum Pell grant that a student may receive were contained in the following appropriation acts:
+
+Pub. L. 106–554, §1(a)(1) \[title III\], Dec. 21, 2000, 114 Stat. 2763, 2763A–37.
 
 Pub. L. 106–113, div. B, §1000(a)(4) \[title III\], Nov. 29, 1999, 113 Stat. 1535, 1501A–251.
 

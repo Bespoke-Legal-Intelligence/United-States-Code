@@ -60,54 +60,6 @@ Amendment by Pub. L. 94–210 effective on 60th day after Feb. 5, 1976, but not 
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
-#### Cross References
-
-Administration of oaths, etc., under—
-
-&emsp;&emsp;Investment Advisers Act of 1940, see section 80b–9 of this title.
-
-&emsp;&emsp;Investment Company Act of 1940, see section 80a–41 of this title.
-
-&emsp;&emsp;Public Utility Holding Company Act of 1935, see section 79r of this title.
-
-&emsp;&emsp;Securities Exchange Act of 1934, see section 78u of this title.
-
-&emsp;&emsp;Trust Indenture Act of 1939, see section 77uuu of this title.
-
-Attendance of witnesses, and production of documents, judicial enforcement of orders for, see section 77v of this title.
-
-Authority of Commission comparable to subsec. (a) of this section under—
-
-&emsp;&emsp;Investment Advisers Act of 1940, see section 80b–11 of this title.
-
-&emsp;&emsp;Investment Company Act of 1940, see sections 80a–29 and 80a–37 of this title.
-
-&emsp;&emsp;Public Utility Holding Company Act of 1935, see section 79t of this title.
-
-&emsp;&emsp;Securities Exchange Act of 1934, see section 78c and 78m of this title.
-
-&emsp;&emsp;Trust Indenture Act of 1939, see section 77sss of this title.
-
-Rules and regulations—
-
-&emsp;&emsp;Action to enjoin acts or practices constituting violation of, see section 77t of this title.
-
-&emsp;&emsp;Availability of information contained in or filed with any registration statement, see section 77f of this title.
-
-&emsp;&emsp;Classes of securities exempt from this subchapter by reason of small amount involved or limited character of public offering, see section 77c of this title.
-
-&emsp;&emsp;Information required in prospectus, see section 77j of this title.
-
-&emsp;&emsp;Information required in registration statement, see section 77g of this title.
-
-&emsp;&emsp;Integration of procedure with other Acts, see section 77hhh of this title.
-
-&emsp;&emsp;Investigation to determine violation of, see section 77t of this title.
-
-&emsp;&emsp;Jurisdiction of offenses and violations under, see section 77v of this title.
-
-&emsp;&emsp;Penalty for violation of, see section 77x of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 78u of this title.

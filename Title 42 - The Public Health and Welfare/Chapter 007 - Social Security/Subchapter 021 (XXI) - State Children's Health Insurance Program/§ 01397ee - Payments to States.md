@@ -1,20 +1,38 @@
 ### §1397ee. Payments to States
 
-#### (a) In general
+#### (a) Payments
 
-Subject to the succeeding provisions of this section, the Secretary shall pay to each State with a plan approved under this subchapter, from its allotment under section 1397dd of this title (taking into account any adjustment under section 1397dd(d) of this title), an amount for each quarter equal to the enhanced FMAP of expenditures in the quarter—
+#### (1) In general
 
-&emsp;(1) for child health assistance under the plan for targeted low-income children in the form of providing health benefits coverage that meets the requirements of section 1397cc of this title; and
+&emsp;Subject to the succeeding provisions of this section, the Secretary shall pay to each State with a plan approved under this subchapter, from its allotment under section 1397dd of this title, an amount for each quarter equal to the enhanced FMAP (or, in the case of expenditures described in subparagraph (B), the Federal medical assistance percentage (as defined in the first sentence of section 1396d(b) of this title)) of expenditures in the quarter—
 
-&emsp;(2) only to the extent permitted consistent with subsection (c) of this section—
+&emsp;&emsp;(A) for child health assistance under the plan for targeted low-income children in the form of providing medical assistance for which payment is made on the basis of an enhanced FMAP under the fourth sentence of section 1396d(b) of this title;
 
-&emsp;&emsp;(A) for payment for other child health assistance for targeted low-income children;
+&emsp;&emsp;(B) for the provision of medical assistance on behalf of a child during a presumptive eligibility period under section 1396r–1a of this title;
 
-&emsp;&emsp;(B) for expenditures for health services initiatives under the plan for improving the health of children (including targeted low-income children and other low-income children);
+&emsp;&emsp;(C) for child health assistance under the plan for targeted low-income children in the form of providing health benefits coverage that meets the requirements of section 1397cc of this title; and
 
-&emsp;&emsp;(C) for expenditures for outreach activities as provided in section 1397bb(c)(1) of this title under the plan; and
+&emsp;&emsp;(D) only to the extent permitted consistent with subsection (c) of this section—
 
-&emsp;&emsp;(D) for other reasonable costs incurred by the State to administer the plan.
+&emsp;&emsp;&emsp;(i) for payment for other child health assistance for targeted low-income children;
+
+&emsp;&emsp;&emsp;(ii) for expenditures for health services initiatives under the plan for improving the health of children (including targeted low-income children and other low-income children);
+
+&emsp;&emsp;&emsp;(iii) for expenditures for outreach activities as provided in section 1397bb(c)(1) of this title under the plan; and
+
+&emsp;&emsp;&emsp;(iv) for other reasonable costs incurred by the State to administer the plan.
+
+#### (2) Order of payments
+
+&emsp;Payments under paragraph (1) from a State's allotment shall be made in the following order:
+
+&emsp;&emsp;(A) First, for expenditures for items described in paragraph (1)(A).
+
+&emsp;&emsp;(B) Second, for expenditures for items described in paragraph (1)(B).
+
+&emsp;&emsp;(C) Third, for expenditures for items described in paragraph (1)(C).
+
+&emsp;&emsp;(D) Fourth, for expenditures for items described in paragraph (1)(D).
 
 #### (b) Enhanced FMAP
 
@@ -30,19 +48,15 @@ For purposes of subsection (a) of this section, the “enhanced FMAP”, for a S
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in this paragraph, payment shall not be made under subsection (a) of this section for expenditures for items described in subsection (a) of this section (other than paragraph (1)) for a fiscal year to the extent the total of such expenditures (for which payment is made under such subsection) exceeds 10 percent of the sum of—
-
-&emsp;&emsp;&emsp;(i) the total of such expenditures for such fiscal year, and
-
-&emsp;&emsp;&emsp;(ii) the total expenditures for medical assistance by the State under subchapter XIX of this chapter for which Federal payments made under section 1396b(a)(1) of this title are based on an enhanced FMAP described in subsection (b) of this section for such fiscal year.
+&emsp;&emsp;Except as provided in this paragraph, the amount of payment that may be made under subsection (a) of this section for a fiscal year for expenditures for items described in paragraph (1)(D) of such subsection shall not exceed 10 percent of the total amount of expenditures for which payment is made under subparagraphs (A), (C), and (D) of paragraph (1) of such subsection.
 
 #### (B) Waiver authorized for cost-effective alternative
 
-&emsp;&emsp;The limitation under subparagraph (A) on expenditures for items described in subsection (a)(2) of this section shall not apply to the extent that a State establishes to the satisfaction of the Secretary that—
+&emsp;&emsp;The limitation under subparagraph (A) on expenditures for items described in subsection (a)(1)(D) of this section shall not apply to the extent that a State establishes to the satisfaction of the Secretary that—
 
 &emsp;&emsp;&emsp;(i) coverage provided to targeted low-income children through such expenditures meets the requirements of section 1397cc of this title;
 
-&emsp;&emsp;&emsp;(ii) the cost of such coverage is not greater, on an average per child basis, than the cost of coverage that would otherwisebe provided under section 1397cc of this title; and
+&emsp;&emsp;&emsp;(ii) the cost of such coverage is not greater, on an average per child basis, than the cost of coverage that would otherwise be provided under section 1397cc of this title; and
 
 &emsp;&emsp;&emsp;(iii) such coverage is provided through the use of a community-based health delivery system, such as through contracts with health centers receiving funds under section 254b of this title or with hospitals such as those that receive disproportionate share payment adjustments under section 1395ww(d)(5)(F) or 1396r–4 of this title.
 
@@ -70,13 +84,13 @@ For purposes of subsection (a) of this section, the “enhanced FMAP”, for a S
 
 #### (B) Other Federal governmental programs
 
-&emsp;&emsp;Except as otherwise provided by law, no payment shall be made to a State under this section for expenditures for child health assistance provided for a targeted low-income child under its plan to the extent that payment has been made or can reasonably be expected to be made promptly (as determined in accordance with regulations) under any other federally operated or financed health care insurance program, other than an insurance program operated or financed by the Indian Health Service, as identified by the Secretary. For purposes of this paragraph, rules similar to the rules for overpayments under section 1396b(d)(2) of this title shall apply.
+&emsp;&emsp;Except as provided in subparagraph (A) or (B) of subsection (a)(1) of this section or any other provision of law, no payment shall be made to a State under this section for expenditures for child health assistance provided for a targeted low-income child under its plan to the extent that payment has been made or can reasonably be expected to be made promptly (as determined in accordance with regulations) under any other federally operated or financed health care insurance program, other than an insurance program operated or financed by the Indian Health Service, as identified by the Secretary. For purposes of this paragraph, rules similar to the rules for overpayments under section 1396b(d)(2) of this title shall apply.
 
 #### (7) Limitation on payment for abortions
 
 #### (A) In general
 
-&emsp;&emsp;Payment shall not be made to a State under this section for any amount expended under the State plan to pay for any abortion or to assist in the purchase, in whole or in part, of health benefit coverage that includes coverage of abortion.
+&emsp;&emsp;Payment shall not be made to a State under this section for any amount expendedunder the State plan to pay for any abortion or to assist in the purchase, in whole or in part, of health benefit coverage that includes coverage of abortion.
 
 #### (B) Exception
 
@@ -108,7 +122,7 @@ For purposes of subsection (a) of this section, the “enhanced FMAP”, for a S
 
 &emsp;&emsp;&emsp;(i) The State share of expenditures under this subchapter.
 
-&emsp;&emsp;&emsp;(ii) The State share of expenditures under subchapter XIX of this chapter that are attributable to an enhanced FMAP under section 1396d(u) of this title.
+&emsp;&emsp;&emsp;(ii) The State share of expenditures under subchapter XIX of this chapter that are attributable to an enhanced FMAP under the fourth sentence of section 1396d(b) of this title.
 
 &emsp;&emsp;&emsp;(iii) State expenditures under health benefits coverage under an existing comprehensive State-based program, described in section 1397cc(d) of this title.
 
@@ -120,9 +134,23 @@ The Secretary may make payments under this section for each quarter on the basis
 
 Nothing in this section or subsections (e) and (f) of section 1397dd of this title shall be construed as preventing a State from claiming as expenditures in the quarter expenditures that were incurred in a previous quarter.
 
-(Aug. 14, 1935, ch. 531, title XXI, §2105, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 560; amended Pub. L. 105–100, title I, §162(5), (7), Nov. 19, 1997, 111 Stat. 2189, 2190; Pub. L. 106–113, div. B, §1000(a)(6) \[title VII, §705(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–402.)
+(Aug. 14, 1935, ch. 531, title XXI, §2105, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 560; amended Pub. L. 105–100, title I, §162(5), (7), Nov. 19, 1997, 111 Stat. 2189, 2190; Pub. L. 106–113, div. B, §1000(a)(6) \[title VII, §705(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–402; Pub. L. 106–554, §1(a)(6) \[title VIII, §802(a), (d)(4), (e)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–580 to 2763A–582.)
 
 #### Amendments
+
+2000—Subsec. (a). Pub. L. 106–554, §1(a)(6) \[title VIII, §802(a)\], added subsec. heading, par. (1) heading, introductory provisions, and subpars. (A) and (B), struck out former subsec. heading and introductory provisions, redesignated former pars. (1) and (2) as subpars. (C) and (D), respectively, of par. (1) and realigned margins, redesignated subpars. (A) to (D) of former par. (2) as cls. (i) to (iv), respectively, of subpar. (D) of par. (1) and realigned margins, and added par. (2). Prior to amendment, introductory provisions read as follows: “Subject to the succeeding provisions of this section, the Secretary shall pay to each State with a plan approved under this subchapter, from its allotment under section 1397dd of this title (taking into account any adjustment under section 1397dd(d) of this title), an amount for each quarter equal to the enhanced FMAP of expenditures in the quarter—”.
+
+Subsec. (c)(2)(A). Pub. L. 106–554, §1(a)(6) \[title VIII, §802(d)(4)(A)\], substituted “the amount of payment that may be made under subsection (a) of this section for a fiscal year for expenditures for items described in paragraph (1)(D) of such subsection shall not exceed 10 percent of the total amount of expenditures for which payment is made under subparagraphs (A), (C), and (D) of paragraph (1) of such subsection.” for “payment shall not be made under subsection (a) of this section for expenditures for items described in subsection (a) of this section (other than paragraph (1)) for a fiscal year to the extent the total of such expenditures (for which payment is made under such subsection) exceeds 10 percent of the sum of—
+
+&emsp;“(i) the total of such expenditures for such fiscal year, and
+
+&emsp;“(ii) the total expenditures for medical assistance by the State under subchapter XIX of this chapter for which Federal payments made under section 1396b(a)(1) of this title are based on an enhanced FMAP described in subsection (b) of this section for such fiscal year.”
+
+Subsec. (c)(2)(B). Pub. L. 106–554, §1(a)(6) \[title VIII, §802(d)(4)(B)\], substituted “described in subsection (a)(1)(D)” for “described in subsection (a)(2)” in introductory provisions.
+
+Subsec. (c)(6)(B). Pub. L. 106–554, §1(a)(6) \[title VIII, §802(d)(4)(C)\], substituted “Except as provided in subparagraph (A) or (B) of subsection (a)(1) of this section or any other provision of law,” for “Except as otherwise provided by law,”.
+
+Subsec. (d)(2)(B)(ii). Pub. L. 106–554, §1(a)(6) \[title VIII, §802(e)\], substituted “enhanced FMAP under the fourth sentence of section 1396d(b) of this title” for “enhanced FMAP under section 1396d(u) of this title”.
 
 1999—Subsec. (d)(2)(B)(iii). Pub. L. 106–113 inserted “in” after “described”.
 
@@ -134,11 +162,15 @@ Nothing in this section or subsections (e) and (f) of section 1397dd of this tit
 
 Subsec. (f). Pub. L. 105–100, §162(7), added subsec. (f).
 
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–554 effective as if included in the enactment of section 4901 of Pub. L. 105–33, see section 1(a)(6) \[title VIII, §802(f)\] of Pub. L. 106–554, set out as a note under section 1396d of this title.
+
 #### Effective Date of 1997 Amendment
 
 Section 162 of Pub. L. 105–100 provided in part that the amendment made by that section is effective as if included in the enactment of subtitle J (§§4901–4923) of title IV of the Balanced Budget Act of 1997, Pub. L. 105–33.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1396d, 1397aa, 1397ff, 1397ii, 1397jj of this title.
+This section is referred to in sections 1396d, 1397aa, 1397dd, 1397ff, 1397ii, 1397jj of this title.
 

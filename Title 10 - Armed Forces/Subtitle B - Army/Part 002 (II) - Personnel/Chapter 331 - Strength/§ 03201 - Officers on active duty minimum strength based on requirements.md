@@ -8,7 +8,7 @@
 
 &emsp;(1) The term “programmed manpower structure” means the aggregation of billets describing the full manpower requirements for units and organizations in the programmed force structure.
 
-&emsp;(2) The term “programmed force structure” means the set of units and organizations thatexist in the current year and that is planned to exist in each future year under the then-current Future-Years Defense Program.
+&emsp;(2) The term “programmed force structure” means the set of units and organizations that exist in the current year and that is planned to exist in each future year under the then-current Future-Years Defense Program.
 
 (Added Pub. L. 104–106, div. A, title V, §505(a)(1), Feb. 10, 1996, 110 Stat. 295.)
 

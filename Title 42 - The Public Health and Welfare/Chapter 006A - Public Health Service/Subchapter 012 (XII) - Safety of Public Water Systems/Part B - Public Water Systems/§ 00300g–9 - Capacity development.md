@@ -134,7 +134,7 @@ Based on information obtained under subsection (c)(3) of this section, the Admin
 
 #### (1) In general
 
-&emsp;The Administrator shall provide initial funding for one or more university-based environmental finance centers for activities thatprovide technical assistance to State and local officials in developing the capacity of public water systems. Any such funds shall be used only for activities that are directly related to this subchapter.
+&emsp;The Administrator shall provide initial funding for one or more university-based environmental finance centers for activities that provide technical assistance to State and local officials in developing the capacity of public water systems. Any such funds shall be used only for activities that are directly related to this subchapter.
 
 #### (2) National capacity development clearinghouse
 

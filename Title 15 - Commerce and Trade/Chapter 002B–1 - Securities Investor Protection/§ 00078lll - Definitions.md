@@ -36,7 +36,7 @@ For purposes of this chapter, including the application of the Bankruptcy Act to
 
 #### (6) Examining authority
 
-&emsp;The term “examining authority” means, with respect to any member of SIPC (A) the self-regulatory organization which inspects or examines such member of SIPC, or (B) the Commission if such member of SIPC is not a member of or participant in any self-regulatory organization or if the Commission hasdesignated itself examining authority for such member pursuant to section 78iii(c) of this title.
+&emsp;The term “examining authority” means, with respect to any member of SIPC (A) the self-regulatory organization which inspects or examines such member of SIPC, or (B) the Commission if such member of SIPC is not a member of or participant in any self-regulatory organization or if the Commission has designated itself examining authority for such member pursuant to section 78iii(c) of this title.
 
 #### (7) Filing date
 
@@ -44,7 +44,7 @@ For purposes of this chapter, including the application of the Bankruptcy Act to
 
 &emsp;&emsp;(A) if a petition under title 11 concerning the debtor was filed before such date, the term “filing date” means the date on which such petition was filed;
 
-&emsp;&emsp;(B) if the debtor is the subject of a proceeding pending in any court or before any agency of the United States or any State in which a receiver, trustee, or liquidator for such debtor has been appointed and such proceeding was commenced before the date on which such application was filed, the term “filing date” means the date on which such proceeding was commenced; or
+&emsp;&emsp;(B) if the debtor is the subject of a proceeding pending in any court or before anyagency of the United States or any State in which a receiver, trustee, or liquidator for such debtor has been appointed and such proceeding was commenced before the date on which such application was filed, the term “filing date” means the date on which such proceeding was commenced; or
 
 &emsp;&emsp;(C) if the debtor is the subject of a direct payment procedure or was the subject of a direct payment procedure discontinued by SIPC pursuant to section 78fff–4(f) of this title, the term “filing date” means the date on which notice of such direct payment procedure was published under section 78fff–4(b) of this title.
 
@@ -104,13 +104,13 @@ For purposes of this chapter, including the application of the Bankruptcy Act to
 
 #### (13) Protective decree
 
-&emsp;The term “protective decree” means a decree, issued by a court upon application ofSIPC under section 78eee(a)(3) of this title, that the customers of a member of SIPC are in need of the protection provided under this chapter.
+&emsp;The term “protective decree” means a decree, issued by a court upon application of SIPC under section 78eee(a)(3) of this title, that the customers of a member of SIPC are in need of the protection provided under this chapter.
 
 #### (14) Security
 
-&emsp;The term “Security” means any note, stock, treasury stock, bond, debenture, evidence of indebtedness, any collateral trust certificate, preorganization certificate or subscription, transferable share, voting trust certificate, certificate of deposit, certificate of deposit for a security, any investment contract or certificate of interest or participation in any profit-sharing agreement or in any oil, gas, or mineral royalty or lease (if such investment contract or interest is the subject of a registration statement with the Commission pursuant to the provisions of the Securities Act of 1933 \[15 U.S.C. 77a et seq.\]), any put, call, straddle, option, or privilege on any security, or group or index of securities (including any interest therein or based on the value thereof), or any put, call, straddle, option, or privilege entered into on a national securities exchange relating to foreign currency, any certificate of interest or participation in, temporary or interim certificate for, receipt for, guarantee of, or warrant or right to subscribe to or purchase or sell any of the foregoing, and any other instrument commonly known as a security. Except as specifically provided above, the term “security” does not include any currency, or any commodity or related contract or futures contract, or any warrant or right to subscribe to or purchase or sell any of the foregoing.
+&emsp;The term “Security” means any note, stock, treasury stock, bond, debenture, evidence of indebtedness, any collateral trust certificate, preorganization certificate or subscription, transferable share, voting trust certificate, certificate of deposit, certificate of deposit for a security, or any security future as that term is defined in section 78c(a)(55)(A) of this title, any investment contract or certificate of interest or participation in any profit-sharingagreement or in any oil, gas, or mineral royalty or lease (if such investment contract or interest is the subject of a registration statement with the Commission pursuant to the provisions of the Securities Act of 1933 \[15 U.S.C. 77a et seq.\]), any put, call, straddle, option, or privilege on any security, or group or index of securities (including any interest therein or based on the value thereof), or any put, call, straddle, option, or privilege entered into on a national securities exchange relating to foreign currency, any certificate of interest or participation in, temporary or interim certificate for, receipt for, guarantee of, or warrant or right to subscribe to or purchase or sell any of the foregoing, and any other instrument commonly known as a security. Except as specifically provided above, the term “security” does not include any currency, or any commodity or related contract or futures contract, or any warrant or right to subscribe to or purchase or sell any of the foregoing.
 
-(Pub. L. 91–598, §16, formerly §12, Dec. 30, 1970, 84 Stat. 1656; renumbered §16 and amended Pub. L. 95–283, §§9, 15, May 21, 1978, 92 Stat. 260, 271; Pub. L. 95–598, title III, §308(<i>o</i>), Nov. 6, 1978, 92 Stat. 2676; Pub. L. 97–303, §7, Oct. 13, 1982, 96 Stat. 1410; Pub. L. 100–181, title VIII, §802, Dec. 4, 1987, 101 Stat. 1265.)
+(Pub. L. 91–598, §16, formerly §12, Dec. 30, 1970, 84 Stat. 1656; renumbered §16 and amended Pub. L. 95–283, §§9, 15, May 21, 1978, 92 Stat. 260, 271; Pub. L. 95–598, title III, §308(<i>o</i>), Nov. 6, 1978, 92 Stat. 2676; Pub. L. 97–303, §7, Oct. 13, 1982, 96 Stat. 1410; Pub. L. 100–181, title VIII, §802, Dec. 4, 1987, 101 Stat. 1265; Pub. L. 106–554, §1(a)(5) \[title II, §203(d)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–424.)
 
 #### References in Text
 
@@ -121,6 +121,8 @@ The Bankruptcy Act, referred to in provision preceding par. (1), is act July 1, 
 The Securities Act of 1933, referred to in par. (14), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
 
 #### Amendments
+
+2000—Par. (14). Pub. L. 106–554 inserted “or any security future as that term is defined in section 78c(a)(55)(A) of this title,” after “certificate of deposit for a security,”.
 
 1987—Par. (12). Pub. L. 100–181 inserted “other than a government securities broker or government securities dealer registered under section 78<i>o</i>–5(a)(1)(A) of this title”.
 

@@ -46,7 +46,7 @@
 
 &emsp;The examiners shall—
 
-&emsp;&emsp;(A) have access to all books, accounts, financial records, reports, files, and all other papers, things, or property belonging to or inuse by the Corporation and necessary to facilitate the audit; and
+&emsp;&emsp;(A) have access to all books, accounts, financial records, reports, files, and all other papers, things, or property belonging to or in use by the Corporation and necessary to facilitate the audit; and
 
 &emsp;&emsp;(B) be afforded full access for verifying transactions with certified facilities and other entities with whom the Corporation conducts transactions.
 

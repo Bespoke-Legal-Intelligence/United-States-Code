@@ -4,7 +4,7 @@
 
 The Association shall have the authority to—
 
-&emsp;(1) issue uniform insurance producer applications and renewal applications that may be used to apply for the issuance or removal of State licenses, while preserving the ability of each State to impose such conditions on theissuance or renewal of a license as are consistent with section 6763 of this title;
+&emsp;(1) issue uniform insurance producer applications and renewal applications that may be used to apply for the issuance or removal of State licenses, while preserving the ability of each State to impose such conditions on the issuance or renewal of a license as are consistent with section 6763 of this title;
 
 &emsp;(2) establish a central clearinghouse through which members of the Association may apply for the issuance or renewal of licenses in multiple States; and
 

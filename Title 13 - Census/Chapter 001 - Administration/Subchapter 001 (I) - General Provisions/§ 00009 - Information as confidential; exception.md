@@ -12,7 +12,7 @@
 
 (b) The provisions of subsection (a) of this section relating to the confidential treatment of data for particular individuals and establishments, shall not apply to the censuses of governments provided for by subchapter III of chapter 5 of this title, nor to interim current data provided for by subchapter IV of chapter 5 of this title as to the subjects covered by censuses of governments, with respect to any information obtained therefor that is compiled from, or customarily provided in, public records.
 
-(Aug. 31, 1954, ch. 1158, 68 Stat. 1013; Pub. L. 87–813, Oct. 15, 1962, 76 Stat. 922; Pub. L. 101–533,§5(b)(2), Nov. 7, 1990, 104 Stat. 2348; Pub. L. 103–430, §2(b), Oct. 31, 1994, 108 Stat. 4394; Pub. L. 105–113, §4(a)(1), Nov. 21, 1997, 111 Stat. 2276; Pub. L. 105–119, title II, §210(k), Nov. 26, 1997, 111 Stat. 2487.)
+(Aug. 31, 1954, ch. 1158, 68 Stat. 1013; Pub. L. 87–813, Oct. 15, 1962, 76 Stat. 922; Pub. L. 101–533, §5(b)(2), Nov. 7, 1990, 104 Stat. 2348; Pub. L. 103–430, §2(b), Oct. 31, 1994, 108 Stat. 4394; Pub. L. 105–113, §4(a)(1), Nov. 21, 1997, 111 Stat. 2276; Pub. L. 105–119, title II, §210(k), Nov. 26, 1997, 111 Stat. 2487.)
 
 #### Historical and Revision Notes
 
@@ -47,10 +47,6 @@ Pub. L. 105–113 inserted “or section 2(f) of the Census of Agriculture Act o
 1990—Subsec. (a). Pub. L. 101–533 inserted “or chapter 10” after “section 8”.
 
 1962—Subsec. (a). Pub. L. 87–813 inserted sentences stating that no department, bureau, agency, officer, or employee of the Government, except the Secretary in carrying out the purposes of this title, shall require, for any reason, copies of census reports which have been retained by any such establishment or individual, and providing that copies of census reports which have been so retained shall be immune from legal process, and shall not, without the consent of the individual or establishment, be admitted as evidence or used for any purpose in any action, suit or other judicial or administrative proceeding.
-
-#### Cross References
-
-Punishment for wrongfully publishing or communicating information, see section 1905 of Title 18, Crimes and Criminal Procedure.
 
 #### Section Referred to in Other Sections
 

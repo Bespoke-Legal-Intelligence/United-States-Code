@@ -40,7 +40,7 @@ The Mining and Minerals Policy Act of 1970 (30 U.S.C. 21a), referred to in subse
 
 The National Environmental Policy Act of 1969 (42 U.S.C. 4321–47), referred to in subsec. (a), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
-The Federal Metal and Nonmetallic Mine Safety Act (30 U.S.C. 721–740), referred to in subsec. (a)(1), is Pub. L. 89–577, Sept. 16, 1966, 80 Stat. 772, which was classified generally to chapter 21 (§721 et seq.) of this title and was repealed by Pub. L. 95–164, title III, §306(a), Nov. 9, 1977, 91 Stat. 1322.
+The Federal Metal and Nonmetallic Mine Safety Act (30 U.S.C. 721–740), referred to in subsec. (a)(1), is Pub.L. 89–577, Sept. 16, 1966, 80 Stat. 772, which was classified generally to chapter 21 (§721 et seq.) of this title and was repealed by Pub. L. 95–164, title III, §306(a), Nov. 9, 1977, 91 Stat. 1322.
 
 The Federal Coal Mine Health and Safety Act of 1969 (83 Stat. 742), referred to in subsec. (a)(2), is Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, as amended, which was redesignated the Federal Mine Safety and Health Act of 1977 by Pub. L. 95–164, title I, §101, Nov. 9, 1977, 91 Stat. 1290, and is classified principally to chapter 22 (§801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
 

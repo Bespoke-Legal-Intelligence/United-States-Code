@@ -70,7 +70,7 @@ Committees established under subsection (c) of this section shall meet at the ca
 
 #### (e) Meeting of advisory committees at conclusion of negotiations
 
-(1) The Advisory Committee for Trade Policy and Negotiations, each appropriate policy advisory committee, and each sectoral or functional advisory committee, if the sector or area whichsuch committee represents is affected, shall meet at the conclusion of negotiations for each trade agreement entered into under section 2902 of this title, to provide to the President, to Congress, and to the United States Trade Representative a report on such agreement. Each report that applies to a trade agreement entered into under section 2902 of this title shall be provided under the preceding sentence not later than the date on which the President notifies the Congress under section 2903(a)(1)(A) of this title of his intention to enter into that agreement.
+(1) The Advisory Committee for Trade Policy and Negotiations, each appropriate policy advisory committee, and each sectoral or functional advisory committee, if the sector or area which such committee represents is affected, shall meet at the conclusion of negotiations for each trade agreement entered into under section 2902 of this title, to provide to the President, to Congress, and to the United States Trade Representative a report on such agreement. Each report that applies to a trade agreement entered into under section 2902 of this title shall be provided under the preceding sentence not later than the date on which the President notifies the Congress under section 2903(a)(1)(A) of this title of his intention to enter into that agreement.
 
 (2) The report of the Advisory Committee for Trade Policy and Negotiations and each appropriate policy advisory committee shall include an advisory opinion as to whether and to what extent the agreement promotes the economic interests of the United States and achieves the applicable overall and principal negotiating objectives set forth in section 2901 of this title, as appropriate.
 
@@ -82,7 +82,7 @@ The provisions of the Federal Advisory Committee Act apply—
 
 &emsp;(1) to the Advisory Committee for Trade Policy and Negotiations established under subsection (b) of this section; and
 
-&emsp;(2) to all other advisory committees which may be established under subsection (c) of this section; except that the meetings of advisory committees established under subsections (b) and (c) of this section shall be exempt from the requirements of subsections (a) and (b) of sections 10 and 11 of the Federal Advisory Committee Act (relating to open meetings, public notice, public participation, and public availability of documents), whenever and to the extent it is determined by the President or his designee that such meetings will be concerned with matters the disclosure of which would seriously compromise the development by the United States Government of trade policy, priorities, negotiating objectives or bargaining positions with respect to matters referred to in subsection (a) of this section, and that meetings may be called of such special task forces, plenary meetings of chairmen, or other such groups made up of members of the committees established under subsections (b) and (c) of this section.
+&emsp;(2) to all other advisory committees which may be established under subsection (c) of this section; except that the meetings of advisorycommittees established under subsections (b) and (c) of this section shall be exempt from the requirements of subsections (a) and (b) of sections 10 and 11 of the Federal Advisory Committee Act (relating to open meetings, public notice, public participation, and public availability of documents), whenever and to the extent it is determined by the President or his designee that such meetings will be concerned with matters the disclosure of which would seriously compromise the development by the United States Government of trade policy, priorities, negotiating objectives or bargaining positions with respect to matters referred to in subsection (a) of this section, and that meetings may be called of such special task forces, plenary meetings of chairmen, or other such groups made up of members of the committees established under subsections (b) and (c) of this section.
 
 #### (g) Trade secrets and confidential information
 
@@ -120,7 +120,7 @@ It shall be the responsibility of the United States Trade Representative, in con
 
 #### (j) Private organizations or groups
 
-In addition to any advisory committee established under this section, the President shall provide adequate, timely and continuing opportunity for the submission on an informal basis (and, if such information is submitted under the provisions of subsection (g) of this section, on a confidential basis) by private organizations or groups, representing government, labor, industry, agriculture, small business, service industries, consumer interests, and others, of statistics, data and other trade information, as well as policy recommendations, pertinent to any matter referred to in subsection (a) of this section.
+In addition to any advisory committee established under this section, the President shall provide adequate, timely and continuing opportunity for the submission on an informal basis (and, if such information is submitted under the provisions of subsection (g) of this section, on a confidential basis) by private organizations orgroups, representing government, labor, industry, agriculture, small business, service industries, consumer interests, and others, of statistics, data and other trade information, as well as policy recommendations, pertinent to any matter referred to in subsection (a) of this section.
 
 #### (k) Scope of participation by members of advisory committees
 
@@ -254,5 +254,5 @@ Term of Trade and Environment Policy Committee extended until Sept. 30, 2001, by
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2114, 2154, 2213, 2241, 2242, 2412, 2413, 2414, 2512, 2514, 2547, 2902, 2903, 3108, 3313, 3437, 3524, 3533, 3537 of this title; title 7 section 1748; title 8 section 1184; title 22 section 6062; title 50 App. section 2405.
+This section is referred to in sections 2114, 2154, 2213, 2241, 2242, 2412, 2413, 2414, 2512, 2514, 2547, 2703, 2902, 2903, 3108, 3313, 3437, 3524, 3533, 3537, 3721 of this title; title 7 section 1748; title 8 section 1184; title 22 section 6062; title 50 App. section 2405.
 

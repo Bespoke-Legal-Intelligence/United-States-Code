@@ -6,7 +6,7 @@ In addition to meeting the standards of eligibility prescribed in section 2014 o
 
 #### (b) Fraud and misrepresentation; disqualification penalties; ineligibility period; applicable procedures
 
-(1) Any person who has been found by any State or Federal court or administrative agencyto have intentionally (A) made a false or misleading statement, or misrepresented, concealed or withheld facts, or (B) committed any act that constitutes a violation of this chapter, the regulations issued thereunder, or any State statute, for the purpose of using, presenting, transferring, acquiring, receiving, or possessing coupons or authorization cards shall, immediately upon the rendering of such determination, become ineligible for further participation in the program—
+(1) Any person who has been found by any State or Federal court or administrative agency to have intentionally (A) made a false or misleading statement, or misrepresented, concealed or withheld facts, or (B) committed any act that constitutes a violation of this chapter, the regulations issued thereunder, or any State statute, for the purpose of using, presenting, transferring, acquiring, receiving, or possessing coupons or authorization cards shall, immediately upon the rendering of such determination, become ineligible for further participation in the program—
 
 &emsp;(i) for a period of 1 year upon the first occasion of any such determination;
 
@@ -58,7 +58,7 @@ No household shall be eligible to participate in the food stamp program if it re
 
 &emsp;&emsp;(iv) the certification period for households residing on a reservation that are required to file periodic reports on a monthly basis is 2 years, unless the State demonstrates just cause to the Secretary for a shorter certification period.
 
-&emsp;(2) Any household required to file a periodic report under paragraph (1) of this subsection shall, (A) if it is eligible to participate and has filed a timely and complete report, receive its allotment, based on the reported information for a given month, within thirty days of the end of that month unless the Secretary determines that a longer period of time is necessary, (B) have available special procedures that permit the filing of the required information in the event all adult members of the household are mentally or physically handicapped or lacking in reading or writing skills to such a degree as to be unable to fill out the required forms, (C) have a reasonable period of time after the close of the month in which to file their reports on State agency designed forms, (D) be afforded prompt notice of failure to file any report timely or completely, and given a reasonable opportunity to cure that failure (with any applicable time requirements extended accordingly) and to exercise itsrights under section 2020(e)(10) of this title, and (E) be provided each month (or other applicable period) with an appropriate, simple form for making the required reports of the household together with clear instructions explaining how to complete the form and the rights and responsibilities of the household under any periodic reporting system.
+&emsp;(2) Any household required to file a periodic report under paragraph (1) of this subsection shall, (A) if it is eligible to participate and has filed a timely and complete report, receive its allotment, based on the reported information for a given month, within thirty days of the end of that month unless the Secretary determines that a longer period of time is necessary, (B) have available special procedures that permit the filing of the required information in the event all adult members of the household are mentally or physically handicapped or lacking in reading or writing skills to such a degree as to be unable to fill out the required forms, (C) have a reasonable period of time after the close of the month in which to file their reports on State agency designed forms, (D) be afforded prompt notice of failure to file any report timely or completely, and given a reasonable opportunity to cure that failure (with any applicable time requirements extended accordingly) and to exercise its rights under section 2020(e)(10) of this title, and (E) be provided each month (or other applicable period) with an appropriate, simple form for making the required reports of the household together with clear instructions explaining how to complete the form and the rights and responsibilities of the household under any periodic reporting system.
 
 &emsp;(3) Reports required to be filed under paragraph (1) of this subsection shall be considered complete if they contain the information relevant to eligibility and benefit determinations that is specified by the State agency. All report forms, including those related to periodic reports of circumstances, shall contain a description, in understandable terms in prominent and bold face lettering, of the appropriate civil and criminal provisions dealing with violations of this chapter including the prescribed penalties. Reports required to be filed monthly under paragraph (1) shall be the sole reporting requirement for subject matter included in such reports. In promulgating regulations implementing these reporting requirements, the Secretary shall consult with the Commissioner of Social Security and the Secretary of Health and Human Services, and, wherever feasible, households that receive assistance under title IV–A of the Social Security Act \[42 U.S.C. 601 et seq.\] and that are required to file comparable reports under that Act \[42 U.S.C. 301 et seq.\] shall be provided the opportunity to file reports at the same time for purposes of this chapter and the Social Security Act.
 
@@ -188,7 +188,7 @@ Time for making designation.—A household may designate the head of the househo
 
 &emsp;&emsp;(vi)
 
-Change in head of household.—If the head of a household leaves the household during a period in which the household is ineligible to participate in the food stamp program under subparagraph (B)—
+Change in head of household.—If the head of a household leaves the householdduring a period in which the household is ineligible to participate in the food stamp program under subparagraph (B)—
 
 &emsp;&emsp;&emsp;(I) the household shall, if otherwise eligible, become eligible to participate in the food stamp program; and
 
@@ -274,7 +274,7 @@ Limitation on funding.—Notwithstanding any other provision of this paragraph, 
 
 &emsp;(L) The Secretary shall ensure that State agencies comply with the requirements of this paragraph and section 2020(e)(22) <sup>1</sup> of this title.
 
-&emsp;(M) The facilities of the State public employment offices and agencies operating programs under the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\] or of the State public employment offices and other State agencies and providers carrying out activities under title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\] may be used to find employment and training opportunities for household members under the programs under this paragraph.
+&emsp;(M) The facilities of the State public employment offices and other State agencies and providers carrying out activities under title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\] may be used to find employment and training opportunities for household members under the programs under this paragraph.
 
 #### (e) Students
 
@@ -286,7 +286,7 @@ No individual who is a member of a household otherwise eligible to participate i
 
 &emsp;(3) is assigned to or placed in an institution of higher education through or in compliance with the requirements of—
 
-&emsp;&emsp;(A) a program under the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\] or title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\];
+&emsp;&emsp;(A) a program under title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\];
 
 &emsp;&emsp;(B) an employment and training program under this section;
 
@@ -310,7 +310,7 @@ No individual who is a member of a household otherwise eligible to participate i
 
 #### (f) Aliens
 
-No individual who is a member of a household otherwise eligible to participate in the food stamp program under this section shall be eligible to participate in the food stamp program as a member of that or any other household unless he or she is (1) a resident of the United States and (2) either (A) a citizen or (B) an alien lawfully admitted for permanent residence as an immigrant as defined by sections 1101(a)(15) and 1101(a)(20) of title 8, excluding, among others, alien visitors, tourists, diplomats, and studentswho enter the United States temporarily with no intention of abandoning their residence in a foreign country; or (C) an alien who entered the United States prior to June 30, 1948, or such subsequent date as is enacted by law, has continuously maintained his or her residence in the United States since then, and is not ineligible for citizenship, but who is deemed to be lawfully admitted for permanent residence as a result of an exercise of discretion by the Attorney General pursuant to section 1259 of title 8; or (D) an alien who has qualified for conditional entry pursuant to sections 1157 and 1158 of title 8; or (E) an alien who is lawfully present in the United States as a result of an exercise of discretion by the Attorney General for emergent reasons or reasons deemed strictly in the public interest pursuant to section 1182(d)(5) of title 8; or (F) an alien within the United States as to whom the Attorney General has withheld deportation pursuant to section 1231(b)(3) of title 8. No aliens other than the ones specifically described in clauses (B) through (F) of this subsection shall be eligible to participate in the food stamp program as a member of any household. The income (less, at State option, a pro rata share) and financial resources of the individual rendered ineligible to participate in the food stamp program under this subsection shall be considered in determining the eligibility and the value of the allotment of the household of which such individual is a member.
+No individual who is a member of a household otherwise eligible to participate in the food stamp program under this section shall be eligible to participate in the food stamp program as a member of that or any other household unless he or she is (1) a resident of the United States and (2) either (A) a citizen or (B) an alien lawfully admitted for permanent residence as an immigrant as defined by sections 1101(a)(15) and 1101(a)(20) of title 8, excluding, among others, alien visitors, tourists, diplomats, and students who enter the United States temporarily with no intention of abandoning their residence in a foreign country; or (C) an alien who entered the United States prior to June 30, 1948, or such subsequent date as is enacted by law, has continuously maintained his or her residence in the United States since then, and is not ineligible for citizenship, but who is deemed to be lawfully admitted for permanent residence as a result of an exercise of discretion by the Attorney General pursuant to section 1259 of title 8; or (D) an alien who has qualified for conditional entry pursuant to sections 1157 and 1158 of title 8; or (E) an alien who is lawfully present in the United States as a result of an exercise of discretion by the Attorney General for emergent reasons or reasons deemed strictly in the public interest pursuant to section 1182(d)(5) of title 8; or (F) an alien within the United States as to whom the Attorney General has withheld deportation pursuant to section 1231(b)(3) of title 8. No aliens other than the ones specifically described in clauses (B) through (F) of this subsection shall be eligible to participate in the food stamp program as a member of any household. The income (less, at State option, a pro rata share) and financial resources of the individual rendered ineligible to participate in the food stamp program under this subsection shall be considered in determining the eligibility and the value of the allotment of the household of which such individual is a member.
 
 #### (g) Residents of States which provide State supplementary payments
 
@@ -416,7 +416,7 @@ No member of a household who is otherwise eligible to participate in the food st
 
 &emsp;In this subsection, the term “work program” means—
 
-&emsp;&emsp;(A) a program under the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\] or title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\];
+&emsp;&emsp;(A) a program under the <sup>2</sup> title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\];
 
 &emsp;&emsp;(B) a program under section 2296 of title 19; and
 
@@ -542,18 +542,6 @@ No member of a household who is otherwise eligible to participate in the food st
 
 (Pub. L. 88–525, §6, Aug. 31, 1964, 78 Stat. 704; Pub. L. 94–339, §3, July 5, 1976, 90 Stat. 800; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 964; Pub. L. 96–58, §§5, 9, Aug. 14, 1979, 93 Stat. 391, 392; Pub. L. 96–249, title I, §§109, 110, 114, 115, 139, 140, May 26, 1980, 94 Stat. 359, 361, 370; Pub. L. 97–35, title I, §§108(b), (c), 109, 112, Aug. 13, 1981, 95 Stat. 361, 362; Pub. L. 97–98, title XIII, §§1310, 1311, Dec. 22, 1981, 95 Stat. 1284, 1285; Pub. L. 97–253, title I, §§145(e), 154–161, 189(b)(1), 190(a), (b), Sept. 8, 1982, 96 Stat. 774, 777, 778, 787; Pub. L. 98–204, §§5, 6, Dec. 2, 1983, 97 Stat. 1385, 1386; Pub. L. 99–198, title XV, §§1513(b), 1516, 1517(a), Dec. 23, 1985, 99 Stat. 1571–1573; Pub. L. 100–435, title II, §202(b), (c), title IV, §404(a)–(d), Sept. 19, 1988, 102 Stat. 1656, 1665–1667; Pub. L. 101–624, title XVII, §§1723–1726(b)(1), (c), (d), 1727, Nov. 28, 1990, 104 Stat. 3786–3788; Pub. L. 102–237, title IX, §§907, 941(3), Dec. 13, 1991, 105 Stat. 1885, 1892; Pub. L. 103–66, title XIII, §§13922(b), 13942, Aug. 10, 1993, 107 Stat. 675, 677; Pub. L. 103–225, title I, §§101(a), 104(b), Mar. 25, 1994, 108 Stat. 106, 107; Pub. L. 103–296, title I, §108(f)(1), (2), Aug. 15, 1994, 108 Stat. 1486, 1487; Pub. L. 104–193, title I, §109(b), title VIII, §§813–815(a), 816, 817(a), 818, 819(a), (c), 820–824(a), Aug. 22, 1996, 110 Stat. 2169, 2314, 2315, 2318, 2320–2323; Pub. L. 104–208, div. C, title III, §308(g)(7)(D)(i), Sept. 30, 1996, 110 Stat. 3009–624; Pub. L. 105–33, title I, §1001, Aug. 5, 1997, 111 Stat. 251; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(2)(B), (f)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–418, 2681–429.)
 
-#### Amendment of Section
-
-<i>Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(f)(2)(B), (g)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–429, 2681–435, provided that, effective July 1, 2000, this section is amended as follows:</i>
-
-<i>(i) in subsection (d)(4)(M), by striking “the State public employment offices and agencies operating programs under the Job Training Partnership Act or of”;</i>
-
-<i>(ii) in subsection (e)(3), by striking subparagraph (A) and inserting the following:</i>
-
-(A) a program under title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\];
-
-<i>(iii) in subsection (o)(1)(A), by striking “Job Training Partnership Act or”.</i>
-
 #### References in Text
 
 The Social Security Act, referred to in subsecs. (c)(3), (5), (d)(1)(D)(iii)(II), (2), (4)(I)(i)(II), (K), (e)(6), (7), (g), (i)(2), (<i>l</i>)(1), (3), (m), and (n)(2)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Part D of title IV of the Act is classified generally to part D (§651 et seq.) of subchapter IV of chapter 7 of Title 42. Title IV–A of the Act (part A of title IV) is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42. Titles IV and XVI of the Social Security Act are classified generally to subchapters IV (§601 et seq.) and XVI (§1381 et seq.), respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
@@ -562,19 +550,23 @@ The Fair Labor Standards Act of 1938, as amended, referred to in subsec. (d)(2),
 
 Section 2020(e)(22) of this title, referred to in subsec. (d)(4)(L), was redesignated section 2020(e)(21) of this title by Pub. L. 104–193, title VIII, §835(1)(D)(i), Aug. 22, 1996, 110 Stat. 2330.
 
-The Job Training Partnership Act, referred to in subsecs. (d)(4)(M), (e)(3)(A), and (<i>o</i>)(1)(A), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
-
 The Workforce Investment Act of 1998, referred to in subsecs. (d)(4)(M), (e)(3)(A), and (<i>o</i>)(1)(A), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
-Section 212(a) of Pub. L. 93–66, referred to in subsec. (g), is Pub. L. 93–66, title II, §212(a), July 9, 1973, 87 Stat. 155, which is set out as a note under section 1382 of Title 42, The Public Health and Welfare.
+Section 212(a) of Pub. L. 93–66, referred to in subsec. (g), is Pub. L. 93–66, title II, §212(a), July 9, 1973, 87Stat. 155, which is set out as a note under section 1382 of Title 42, The Public Health and Welfare.
 
 #### Amendments
 
-1998—Subsec. (d)(4)(M). Pub. L. 105–277, §101(f) \[title VIII, §405(d)(2)(B)(i)\], substituted “the State public employment offices and agencies operating programs under the Job Training Partnership Act or of the State public employment offices and other State agencies and providers carrying out activities under title I of the Workforce Investment Act of 1998” for “the State public employment offices and agencies operating programs under the Job Training Partnership Act”.
+1998—Subsec. (d)(4)(M). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(2)(B)(i)\], struck out “the State public employment offices and agencies operating programs under the Job Training Partnership Act or of” after “The facilities of”.
 
-Subsec. (e)(3)(A). Pub. L. 105–277, §101(f) \[title VIII, §405(d)(2)(B)(ii)\], added subpar. (A) and struck out former subpar. (A) which read as follows: “a program under the Job Training Partnership Act (29 U.S.C. 1501 et seq.);”.
+Pub. L. 105–277, §101(f) \[title VIII, §405(d)(2)(B)(i)\], substituted “the State public employment offices and agencies operating programs under the Job Training Partnership Act or of the State public employment offices and other State agencies and providers carrying out activities under title I of the Workforce Investment Act of 1998” for “the State public employment offices and agencies operating programs under the Job Training Partnership Act”.
 
-Subsec. (<i>o</i>)(1)(A). Pub. L. 105–277, §101(f) \[title VIII, §405(d)(2)(B)(iii)\], substituted “Job Training Partnership Act or title I of the Workforce Investment Act of 1998” for “Job Training Partnership Act (29 U.S.C. 1501 et seq.)”
+Subsec. (e)(3)(A). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(2)(B)(ii)\], added subpar. (A) and struck out former subpar. (A) which read as follows: “a program under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998;”.
+
+Pub. L. 105–277, §101(f) \[title VIII, §405(d)(2)(B)(ii)\], added subpar. (A) and struck out former subpar. (A) which read as follows: “a program under the Job Training Partnership Act (29 U.S.C. 1501 et seq.);”.
+
+Subsec. (<i>o</i>)(1)(A). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(2)(B)(iii)\], struck out “Job Training Partnership Act or” before “title I”.
+
+Pub. L. 105–277, §101(f) \[title VIII, §405(d)(2)(B)(iii)\], substituted “Job Training Partnership Act or title I of the Workforce Investment Act of 1998” for “Job Training Partnership Act (29 U.S.C. 1501 et seq.)”
 
 1997—Subsec. (<i>o</i>)(2)(D). Pub. L. 105–33, §1001(1), substituted “(5), or (6)” for “or (5)”.
 
@@ -596,7 +588,7 @@ Subsec. (d)(2). Pub. L. 104–193, §§816, 819(c), struck out “that is compar
 
 Subsec. (d)(4). Pub. L. 104–193, §817(a)(1), inserted par. heading.
 
-Subsec. (d)(4)(A). Pub. L. 104–193, §817(a)(1), (2), inserted subpar. heading, designated existing provisions as cl. (i), inserted heading, substituted “Each State”for “Not later than April 1, 1987, each State”, inserted “work,” after “skills, training,”, and added cl. (ii).
+Subsec. (d)(4)(A). Pub. L. 104–193, §817(a)(1), (2), inserted subpar. heading, designated existing provisions as cl. (i), inserted heading, substituted “Each State” for “Not later than April 1, 1987, each State”, inserted “work,” after “skills, training,”, and added cl. (ii).
 
 Subsec. (d)(4)(B). Pub. L. 104–193, §817(a)(3), in introductory provisions, inserted before colon “, except that the State agency shall retain the option to apply employment requirements prescribed under this subparagraph to a program applicant at the time of application”, in cl. (i), struck out “with terms and conditions comparable to those prescribed in subparagraphs (A) and (B) of section 402(a)(35) of part A of title IV of the Social Security Act, except that the State agency shall retain the option to apply employment requirements prescribed under this clause to program applicants at the time of application” after “search programs”, and in cl. (iv), redesignated subcls. (III) and (IV) as (I) and (II), respectively, and struck out former subcls. (I) and (II) which read as follows:
 
@@ -730,7 +722,7 @@ Subsec. (d)(4). Pub. L. 99–198, §1517(a)(2), added par. (4).
 
 Subsec. (e)(2). Pub. L. 99–198, §1516(4), inserted “or is an individual who is not assigned to or placed in an institution of higher learning through a program under the Job Training Partnership Act,”.
 
-Subsec. (f)(2)(D). Pub. L. 99–198, §1516(5)(A), (B), substituted “sections 1157 and 1158 of title 8” for “section 1153(a)(7) of title 8 because of persecution or fear of persecution on account of race, religion, or political opinion or because of being uprooted by catastrophic natural calamity”.
+Subsec. (f)(2)(D). Pub. L. 99–198, §1516(5)(A), (B), substituted “sections 1157 and 1158 of title 8” for “section1153(a)(7) of title 8 because of persecution or fear of persecution on account of race, religion, or political opinion or because of being uprooted by catastrophic natural calamity”.
 
 Subsec. (f)(2)(F). Pub. L. 99–198, §1516(5)(C), struck out “because of the judgment of the Attorney General that the alien would otherwise be subject to persecution on account of race, religion, or political opinion” after “section 1253(h) of title 8”.
 
@@ -748,7 +740,7 @@ Subsec. (d)(2)(C). Pub. L. 97–253, §§159, 190(a), redesignated subpar. (D) a
 
 Subsec. (d)(2)(D) to (F). Pub. L. 97–253, §190(a), redesignated subpars. (D) to (F) as (C) to (E), respectively. Former subpar. (D) redesignated (C).
 
-Subsec. (d)(3), (4). Pub. L. 97–253, §§160, 190(b), redesignated par. (4) as (3), and struck out former par. (3)which provided that to the extent that a State employment service was assigned responsibility for administering the provisions of this subsection, it had to comply with regulations issued jointly by the Secretary and the Secretary of Labor, which regulations had to be patterned to the maximum extent practicable on the work incentive program requirements set forth in title IV of the Social Security Act and had to take into account the diversity of the needs of the food stamp work registration population.
+Subsec. (d)(3), (4). Pub. L. 97–253, §§160, 190(b), redesignated par. (4) as (3), and struck out former par. (3) which provided that to the extent that a State employment service was assigned responsibility for administering the provisions of this subsection, it had to comply with regulations issued jointly by the Secretary and the Secretary of Labor, which regulations had to be patterned to the maximum extent practicable on the work incentive program requirements set forth in title IV of the Social Security Act and had to take into account the diversity of the needs of the food stamp work registration population.
 
 Subsec. (e)(3)(B). Pub. L. 97–253, §161, substituted “; (B) is not a parent with responsibility for the care of a dependent child under age six;” for “or (B) is not the head of a household (or spouse of such head) containing one or more other persons who are dependents of that individual because he or she supplies more than half of their support, or”.
 
@@ -802,7 +794,7 @@ Section 1005(b) of Pub. L. 105–33 provided that: “The amendments made by sec
 
 Amendment by Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of Title 8, Aliens and Nationality.
 
-Amendment by section 109(b) of Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs andcontinuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of Title 42, The Public Health and Welfare.
+Amendment by section 109(b) of Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1994 Amendment
 
@@ -870,7 +862,9 @@ Pub. L. 98–107, §101(b), Oct. 1, 1983, 97 Stat. 735, provided in part: “Tha
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2014, 2016, 2020, 2022, 2024, 2025, 2026, 2029, 2030, 2031 of this title; title 20 section 9271; title 26 section 51; title 29 sections 1605, 1792, 2822, 2841; title 42 section 654.
+This section is referred to in sections 2014, 2016, 2020, 2022, 2024, 2025, 2026, 2029, 2030, 2031 of this title; title 20 section 9271; title 26 section 51; title 29 sections 2822, 2841; title 42 section 654.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. The word “the” probably should not appear.</i>
 

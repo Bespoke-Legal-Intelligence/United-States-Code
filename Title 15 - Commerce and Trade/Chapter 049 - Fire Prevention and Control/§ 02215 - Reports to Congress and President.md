@@ -1,6 +1,6 @@
 ### §2215. Reports to Congress and President
 
-The Secretary shall report to the Congress and the President not later than ninety calendar days following the year ending September 30, 1980 and similarly each year thereafter on all activities relating to fire prevention and control, and all measures taken to implement and carry out this chapter during the preceding calendar year. Such report shall include, but need not be limited to—
+The Director shall report to the Congress and the President not later than ninety calendar days following the year ending September 30, 1980 and similarly each year thereafter on all activities relating to fire prevention and control, and all measures taken to implement and carry out this chapter during the preceding calendar year. Such report shall include, but need not be limited to—
 
 &emsp;(a) a thorough appraisal, including statistical analysis, estimates, and long-term projections of the human and economic losses due to fire;
 
@@ -26,15 +26,21 @@ The Secretary shall report to the Congress and the President not later than nine
 
 &emsp;(h) such recommendations for additional legislation as are deemed necessary or appropriate; and
 
-&emsp;(i) a summary of reviews, evaluations, and suggested improvements in State and local fire prevention and building codes, fire services, and any relevant Federal or private codes, regulations, and fire services.
+&emsp;(i) a summary of reviews, evaluations, and suggested improvements in State and localfire prevention and building codes, fire services, and any relevant Federal or private codes, regulations, and fire services.
 
-(Pub. L. 93–498, §16, Oct. 29, 1974, 88 Stat. 1545; Pub. L. 96–472, title II, §202, Oct. 19, 1980, 94 Stat. 2260.)
+(Pub. L. 93–498, §16, Oct. 29, 1974, 88 Stat. 1545; Pub. L. 96–472, title II, §202, Oct. 19, 1980, 94 Stat. 2260; Pub. L. 106–503, title I, §110(a)(2)(B)(vi), Nov. 13, 2000, 114 Stat. 2302.)
 
 #### Amendments
+
+2000—Pub. L. 106–503 substituted “Director” for “Secretary” in introductory provisions.
 
 1980—Pub. L. 96–472 substituted “ninety calendar days following the year ending September 30, 1980 and similarly each year thereafter” for “June 30 of the year following October 29, 1974, and each year thereafter”.
 
 #### Transfer of Functions
 
 Functions of National Fire Prevention and Control Administration \[now United States Fire Administration\] and National Academy for Fire Prevention and Control generally transferred to Federal Emergency Management Agency. For further details see Transfer of Functions note set out under section 2202 of this title.
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in this section relating to reporting annually to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 168 of House Document No. 103–7.
 

@@ -124,6 +124,11 @@
 | (a) | Area to be declared nonnavigable; public interest. |
 | (b) | Limits on applicability; regulatory requirements. |
 | (c) | Expiration date. |
+| 59bb–1. | Declaration of nonnavigability for Lake Erie, New York. |
+| (a) | Area to be declared nonnavigable; public interest. |
+| (b) | Boundaries. |
+| (c) | Limits on applicability; regulatory requirements. |
+| (d) | Expiration date. |
 | [59cc.](Subchapter%20002%20%28II%29%20-%20Waters%20Declared%20Nonnavigable%20Change%20of%20Name/%C2%A7%2000059cc%20-%20Declaration%20of%20nonnavigability%20of%20portion%20of%20Hudson%20River%2C%20New%20York.md) | Declaration of nonnavigability of portion of Hudson River, New York. |
 | (a) | Declaration of nonnavigability. |
 | (b) | Area subject to declaration. |
@@ -137,6 +142,7 @@
 | (e) | Limits on applicability; regulatory requirements. |
 | (f) | Expiration date. |
 | [59ee.](Subchapter%20002%20%28II%29%20-%20Waters%20Declared%20Nonnavigable%20Change%20of%20Name/%C2%A7%2000059ee%20-%20Portion%20of%20Sacramento%20River%20Barge%20Canal%20declared%20to%20not%20be%20navigable%20waters%20of%20United%20States.md) | Portion of Sacramento River Barge Canal declared to not be navigable waters of United States. |
+| 59ee–1. | Declaration of nonnavigability for portion of Sacramento Deep Water Ship Channel. |
 | [59ff.](Subchapter%20002%20%28II%29%20-%20Waters%20Declared%20Nonnavigable%20Change%20of%20Name/%C2%A7%2000059ff%20-%20Declaration%20of%20nonnavigability%20for%20portions%20of%20Pelican%20Island%2C%20Texas.md) | Declaration of nonnavigability for portions of Pelican Island, Texas. |
 | (a) | Descriptions of nonnavigable areas. |
 | (b) | Exceptions. |

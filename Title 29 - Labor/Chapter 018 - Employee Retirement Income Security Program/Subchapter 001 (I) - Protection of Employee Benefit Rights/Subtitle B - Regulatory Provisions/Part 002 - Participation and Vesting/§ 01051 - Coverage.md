@@ -6,11 +6,11 @@ This part shall apply to any employee benefit plan described in section 1003(a) 
 
 &emsp;(2) a plan which is unfunded and is maintained by an employer primarily for the purpose of providing deferred compensation for a select group of management or highly compensated employees;
 
-&emsp;(3)(A) a plan established and maintained by a society, order, or association described in section 501(c)(8) or (9) of title 26, if no part of the contributions to or under such plan aremade by employers of participants in such plan, or
+&emsp;(3)(A) a plan established and maintained by a society, order, or association described in section 501(c)(8) or (9) of title 26, if no part of the contributions to or under such plan are made by employers of participants in such plan, or
 
 &emsp;(B) a trust described in section 501(c)(18) of title 26;
 
-&emsp;(4) a plan which is established and maintained by a labor organization described in section 501(c)(5) of title 26 and which does not at any time after September 2, 1974, provide for employer contributions;
+&emsp;(4) a plan which is established and maintained by a labor organization described insection 501(c)(5) of title 26 and which does not at any time after September 2, 1974, provide for employer contributions;
 
 &emsp;(5) any agreement providing payments to a retired partner or a deceased partner's successor in interest, as described in section 736 of title 26;
 

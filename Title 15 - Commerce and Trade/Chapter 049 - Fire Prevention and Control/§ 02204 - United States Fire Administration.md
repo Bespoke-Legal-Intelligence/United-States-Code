@@ -6,15 +6,17 @@ There is hereby established in the Department of Commerce an agency which shall 
 
 #### (b) Administrator
 
-There shall be at the head of the Administration the Administrator of the United States Fire Administration. The Administrator shall be appointed by the President, by and with the advice and consent of the Senate, and shall be compensated at the rate now or hereafter provided for level IV of the Executive Schedule pay rates (5 U.S.C. 5315). The Administrator shall report and be responsible to the Secretary.
+There shall be at the head of the Administration the Administrator of the United States Fire Administration. The Administrator shall be appointed by the President, by and with the advice and consent of the Senate, and shall be compensated at the rate now or hereafter provided for level IV of the Executive Schedule pay rates (5 U.S.C. 5315). The Administrator shall report and be responsible to the Director.
 
 #### (c) Deputy Administrator
 
-There shall be in the Administration a Deputy Administrator of the United States Fire Administration who shall be appointed by the President, by and with the advice and consent of the Senate, and who shall be compensated at the rate now or hereafter provided for level V of the Executive Schedule pay rates (5 U.S.C. 5316). The Deputy Administrator shall perform such functions as the Administrator shall from time to time assign or delegate, and shall act as Administrator during the absence or disability of the Administrator or in the event of a vacancy in the office of Administrator.
+There shall be in the Administration a Deputy Administrator of the United States Fire Administration who shall be appointed by the President, by and with the advice and consent of the Senate, and who shall be compensated at the rate now or hereafter provided for level V of theExecutive Schedule pay rates (5 U.S.C. 5316). The Deputy Administrator shall perform such functions as the Administrator shall from time to time assign or delegate, and shall act as Administrator during the absence or disability of the Administrator or in the event of a vacancy in the office of Administrator.
 
-(Pub. L. 93–498, §5, Oct. 29, 1974, 88 Stat. 1536; Pub. L. 95–422, §2(a)(1), Oct. 5, 1978, 92 Stat. 932.)
+(Pub. L. 93–498, §5, Oct. 29, 1974, 88 Stat. 1536; Pub. L. 95–422, §2(a)(1), Oct. 5, 1978, 92 Stat. 932; Pub. L. 106–503, title I, §110(a)(2)(B)(i), Nov. 13, 2000, 114 Stat. 2302.)
 
 #### Amendments
+
+2000—Subsec. (b). Pub. L. 106–503 substituted “Director” for “Secretary”.
 
 1978—Subsecs. (a) to (c). Pub. L. 95–422 substituted “United States Fire Administration” for “National Fire Prevention and Control Administration”.
 
@@ -56,7 +58,7 @@ Notice of Reorganization.—Not later than 15 days before any major reorganizati
 
 #### Abolition of Position of Deputy Administrator
 
-Position of Deputy Administrator of National Fire Prevention and Control Administration abolished by section 301 of Reorganization Plan No. 3 of 1978, §301, 43F.R. 41944, 92 Stat. 3789, set out as a note under section 2201 of this title.
+Position of Deputy Administrator of National Fire Prevention and Control Administration abolished by section 301 of Reorganization Plan No. 3 of 1978, §301, 43 F.R. 41944, 92 Stat. 3789, set out as a note under section 2201 of this title.
 
 #### Section Referred to in Other Sections
 

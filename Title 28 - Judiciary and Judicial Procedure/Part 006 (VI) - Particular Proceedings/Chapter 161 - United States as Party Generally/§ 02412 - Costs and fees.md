@@ -1,10 +1,10 @@
 ### §2412. Costs and fees
 
-(a)(1) Except as otherwise specifically provided by statute, a judgment for costs, as enumeratedin section 1920 of this title, but not including the fees and expenses of attorneys, may be awarded to the prevailing party in any civil action brought by or against the United States or any agency or any official of the United States acting in his or her official capacity in any court having jurisdiction of such action. A judgment for costs when taxed against the United States shall, in an amount established by statute, court rule, or order, be limited to reimbursing in whole or in part the prevailing party for the costs incurred by such party in the litigation.
+(a)(1) Except as otherwise specifically provided by statute, a judgment for costs, as enumerated in section 1920 of this title, but not including the fees and expenses of attorneys, may be awarded to the prevailing party in any civil action brought by or against the United States or any agency or any official of the United States acting in his or her official capacity in any court having jurisdiction of such action. A judgment for costs when taxed against the United States shall, in an amount established by statute, court rule, or order, be limited to reimbursing in whole or in part the prevailing party for the costs incurred by such party in the litigation.
 
 (2) A judgment for costs, when awarded in favor of the United States in an action brought by the United States, may include an amount equal to the filing fee prescribed under section 1914(a) of this title. The preceding sentence shall not be construed as requiring the United States to pay any filing fee.
 
-(b) Unless expressly prohibited by statute, a court may award reasonable fees and expenses of attorneys, in addition to the costs which may be awarded pursuant to subsection (a), to the prevailing party in any civil action brought by or against the United States or any agency or any official of the United States acting in his or her official capacity in any court having jurisdiction of such action. The United States shall be liable for such fees and expenses to the same extent that any other party would be liable under the common law or under the terms of any statute which specifically provides for such an award.
+(b) Unless expressly prohibited by statute, a court may award reasonable fees and expenses of attorneys, in addition to the costs which may be awarded pursuant to subsection (a), to the prevailing party in any civil action brought by or against the United States or any agency or any official of the United States acting in his or her official capacity in any court having jurisdiction of such action. The United States shall beliable for such fees and expenses to the same extent that any other party would be liable under the common law or under the terms of any statute which specifically provides for such an award.
 
 (c)(1) Any judgment against the United States or any agency and any official of the United States acting in his or her official capacity for costs pursuant to subsection (a) shall be paid as provided in sections 2414 and 2517 of this title and shall be in addition to any relief provided in the judgment.
 
@@ -22,7 +22,7 @@
 
 &emsp;(A) “fees and other expenses” includes the reasonable expenses of expert witnesses, the reasonable cost of any study, analysis, engineering report, test, or project which is found by the court to be necessary for the preparation of the party's case, and reasonable attorney fees (The amount of fees awarded under this subsection shall be based upon prevailing market rates for the kind and quality of the services furnished, except that (i) no expert witness shall be compensated at a rate in excess of the highest rate of compensation for expert witnesses paid by the United States; and (ii) attorney fees shall not be awarded in excess of $125 per hour unless the court determines that an increase in the cost of living or a special factor, such as the limited availability of qualified attorneys for the proceedings involved, justifies a higher fee.);
 
-&emsp;(B) “party” means (i) an individual whose net worth did not exceed $2,000,000 at the time the civil action was filed, or (ii) any owner of an unincorporated business, or any partnership, corporation, association, unit of local government, or organization, the net worth of which did not exceed $7,000,000 at the time the civil action was filed, and which had not more than 500 employees at the time the civil action was filed; except that an organization described in section 501(c)(3) of the Internal Revenue Code of 1986 (26 U.S.C. 501(c)(3)) exempt from taxation under section 501(a) of such Code, or a cooperative association as definedin section 15(a) of the Agricultural Marketing Act (12 U.S.C. 1141j(a)), may be a party regardless of the net worth of such organization or cooperative association or for purposes of subsection (d)(1)(D), a small entity as defined in section 601 of title 5;
+&emsp;(B) “party” means (i) an individual whose net worth did not exceed $2,000,000 at the time the civil action was filed, or (ii) any owner of an unincorporated business, or any partnership, corporation, association, unit of local government, or organization, the net worth of which did not exceed $7,000,000 at the time the civil action was filed, and which had not more than 500 employees at the time the civil action was filed; except that an organization described in section 501(c)(3) of the Internal Revenue Code of 1986 (26 U.S.C. 501(c)(3)) exempt from taxation under section 501(a) of such Code, or a cooperative association as defined in section 15(a) of the Agricultural Marketing Act (12 U.S.C. 1141j(a)), may be a party regardless of the net worth of such organization or cooperative association or for purposes of subsection (d)(1)(D), a small entity as defined in section 601 of title 5;
 
 &emsp;(C) “United States” includes any agency and any official of the United States acting in his or her official capacity;
 
@@ -74,9 +74,9 @@ Section 7430 of the Internal Revenue Code of 1986, referred to in subsec. (e), i
 
 #### Amendments
 
-1998—Subsec. (d)(2)(F). Pub. L. 105–368 substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals”.
+<b>1998</b>—Subsec. (d)(2)(F). Pub. L. 105–368 substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals”.
 
-1996—Subsec. (d)(1)(D). Pub. L. 104–121, §232(a), added subpar. (D).
+<b>1996</b>—Subsec. (d)(1)(D). Pub. L. 104–121, §232(a), added subpar. (D).
 
 Subsec. (d)(2)(A)(ii). Pub. L. 104–121, §232(b)(1), substituted “$125” for “$75”.
 
@@ -84,9 +84,9 @@ Subsec. (d)(2)(B). Pub. L. 104–121, §232(b)(2), inserted before semicolon at 
 
 Subsec. (d)(2)(I). Pub. L. 104–121, §232(b)(3)–(5), added subpar. (I).
 
-1995—Subsec. (d)(5). Pub. L. 104–66 struck out par. (5) which read as follows: “The Attorney General shall report annually to the Congress on the amount of fees and other expenses awarded during the preceding fiscal year pursuant to this subsection. The report shall describe the number, nature, and amount of the awards, the claims involved in the controversy, and any other relevant information which may aid the Congress in evaluating the scope and impact of such awards.”
+<b>1995</b>—Subsec. (d)(5). Pub. L. 104–66 struck out par. (5) which read as follows: “The Attorney General shall report annually to the Congress on the amount of fees and other expenses awarded during the preceding fiscal year pursuant to this subsection. The report shall describe the number, nature, and amount of the awards, the claims involved in the controversy, and any other relevant information which may aid the Congress in evaluating the scope and impact of such awards.”
 
-1992—Subsec. (a). Pub. L. 102–572, §301(a), designated existing provisions as par. (1) and added par. (2).
+<b>1992</b>—Subsec. (a). Pub. L. 102–572, §301(a), designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (d)(2)(F). Pub. L. 102–572, §902(b)(1), substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
@@ -94,9 +94,9 @@ Pub. L. 102–573, §506(a), inserted before semicolon at end “and the United 
 
 Subsec. (d)(5). Pub. L. 102–572, §502(b), substituted “The Attorney General shall report annually to the Congress on” for “The Director of the Administrative Office of the United States Courts shall include in the annual report prepared pursuant to section 604 of this title,”.
 
-1986—Subsecs. (d)(2)(B), (e). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+<b>1986</b>—Subsecs. (d)(2)(B), (e). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-1985—Subsecs. (a), (b). Pub. L. 99–80, §2(a)(1), substituted “or any agency or any official of the United States” for “or any agency and any official of the United States”.
+<b>1985</b>—Subsecs. (a), (b). Pub. L. 99–80, §2(a)(1), substituted “or any agency or any official of the United States” for “or any agency and any official of the United States”.
 
 Subsec. (d). Pub. L. 99–80, §6, repealed amendment made by Pub. L. 96–481, §204(c), and provided that subsec. (d) was effective on or after Aug. 5, 1985, as if it had not been repealed by section 204(c). See 1980 Amendment note and Revival of Previously Repealed Provisions note below.
 
@@ -116,11 +116,11 @@ Subsec. (d)(4). Pub. L. 99–80, §2(d), amended par. (4) generally. Prior to am
 
 Subsec. (f). Pub. L. 99–80, §2(e), added subsec. (f).
 
-1982—Subsec. (e). Pub. L. 97–248 added subsec. (e).
+<b>1982</b>—Subsec. (e). Pub. L. 97–248 added subsec. (e).
 
-1980—Pub. L. 96–481, §204(a), designated existing provisions as subsec. (a), struck out provision that payment of a judgment for costs shall be as provided in section 2414 and section 2517 of this title for the payment of judgments against the United States, and added subsecs. (b) to (d). Pub. L. 96–481, §204(c), repealed subsec. (d) eff. Oct. 1, 1984. See Effective Date of 1980 Amendment note below.
+<b>1980</b>—Pub. L. 96–481, §204(a), designated existing provisions as subsec. (a), struck out provision that payment of a judgment for costs shall be as provided in section 2414 and section 2517 of this title for the payment of judgments against the United States, and added subsecs. (b) to (d). Pub. L. 96–481, §204(c), repealed subsec. (d) eff. Oct. 1, 1984. See Effective Date of 1980 Amendment note below.
 
-1966—Pub. L. 89–507 empowered a court having jurisdiction to award judgment for costs, except as otherwise specifically provided by statute, to the prevailing party in any action brought by or against the United States or any agency or official of the United States acting in his official capacity, limited the judgment for costs when taxed against the Government to reimbursing in whole or in part the prevailing party for costs incurred by him in the litigation, required the payment of a judgment for costs to be as provided in section 2414 and section 2517 of this title for the payment of judgments against the United States and eliminated provisions which limited the liability of the United States for fees and costs to those cases in which liability was expressed provided for by Act of Congress, permitted the district court or the Court of Claims, in an action under section 1346(a) or 1491 of this title if the United States put in issue plaintiff's right to recover, to allow costs to the prevailing party from the time of joining such issue, and which authorized the allowance of costs to the successful claimant in an action under section 1346(b) of this title.
+<b>1966</b>—Pub. L. 89–507 empowered a court having jurisdiction to award judgment for costs, except as otherwise specifically provided by statute, to the prevailing party in any action brought by or against the United States or any agency or official of the United States acting in his official capacity, limited the judgment for costs when taxed against the Government to reimbursing in whole or in part the prevailing party for costs incurred by him in the litigation, required the payment of a judgment for costs to be as provided in section 2414 and section 2517 of this title for the payment of judgments against the United States and eliminated provisions which limited the liability of the United States for fees and costs to those cases in which liability was expressed provided for by Act of Congress, permitted the district court or the Court of Claims, in an action under section 1346(a) or 1491 of this title if the United States put in issue plaintiff's right to recover, to allow costs to the prevailing party from the time of joining such issue, and which authorized the allowance of costs to the successful claimant in an action under section 1346(b) of this title.
 
 #### Effective Date of 1998 Amendment
 
@@ -134,7 +134,7 @@ Amendment by Pub. L. 104–121 applicable to civil actions and adversary adjudic
 
 Section 506(b) of Pub. L. 102–572 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to any case pending before the United States Court of Veterans Appeals \[now United States Court of Appeals for Veterans Claims\] on the date of the enactment of this Act \[Oct. 29, 1992\], to any appeal filed in that court on or after such date, and to any appeal from that court that is pending on such date in the United States Court of Appeals for the Federal Circuit.”
 
-Section 506(d) of Pub. L. 102–572 provided that: “This section \[amending this section and enacting provisionsset out under this section\], and the amendment made by this section, shall take effect on the date of the enactment of this Act \[Oct. 29, 1992\].”
+Section 506(d) of Pub. L. 102–572 provided that: “This section \[amending this section and enacting provisions set out under this section\], and the amendment made by this section, shall take effect on the date of the enactment of this Act \[Oct. 29, 1992\].”
 
 Amendment by section 902(b)(1) of Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a note under section 171 of this title.
 
@@ -177,10 +177,6 @@ Pub. L. 104–317, title III, §309(a), Oct. 19, 1996, 110 Stat. 3853, provided 
 #### Fee Agreements
 
 Section 506(c) of Pub. L. 102–572 provided that: “Section 5904(d) of title 38, United States Code, shall not prevent an award of fees and other expenses under section 2412(d) of title 28, United States Code. Section 5904(d) of title 38, United States Code, shall not apply with respect to any such award but only if, where the claimant's attorney receives fees for the same work under both section 5904 of title 38, United States Code, and section 2412(d) of title 28, United States Code, the claimant's attorney refunds to the claimant the amount of the smaller fee.”
-
-#### Federal Rules of Civil Procedure
-
-Liability of United States for costs, see rule 54, Appendix to this title.
 
 #### Section Referred to in Other Sections
 

@@ -20,7 +20,7 @@ The rules prescribed pursuant to subsection (a) of this section shall include ru
 
 #### (c) Commission review of compliance
 
-The Commission shall review the policies and procedures submitted under subsection (b)(3) of this section and shall order a common carrier to modify any such policy or procedure that the Commission determines does not comply with Commission regulations. The Commission shall conduct such investigations as may be necessary to insure compliance by common carriers with the requirements of the regulations prescribed under this section.
+The Commission shall review the policies and procedures submitted under subsection (b)(3) of this section and shall order a common carrier to modify any such policy or procedure that the Commission determines does not comply with Commission regulations. The Commission shallconduct such investigations as may be necessary to insure compliance by common carriers with the requirements of the regulations prescribed under this section.
 
 #### (d) Penalties
 

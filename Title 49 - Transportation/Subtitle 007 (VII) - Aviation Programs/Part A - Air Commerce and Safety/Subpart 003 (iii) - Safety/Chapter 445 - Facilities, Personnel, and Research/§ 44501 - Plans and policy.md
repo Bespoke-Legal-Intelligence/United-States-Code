@@ -44,17 +44,21 @@ National Aviation Research Plan.—(1) The Administrator of the Federal Aviation
 
 (B) The plan shall—
 
-&emsp;(i) provide estimates by year of the schedule, cost, and work force levels for each active and planned major research and development project under sections 40119, 44504, 44505, 44507, 44509, 44511–44513, and 44912 of this title, including activities carried out under cooperative agreements with other Federal departments and agencies;
+&emsp;(i) provide estimates by year of the schedule, cost, and work force levels for each active and planned major research and development project under sections 40119, 44504, 44505, 44507, 44509, 44511–44513, and 44912 of this title, including activities carried out under cooperativeagreements with other Federal departments and agencies;
 
 &emsp;(ii) specify the goals and the priorities for allocation of resources among the major categories of research and development activities, including the rationale for the priorities identified;
 
-&emsp;(iii) identify the allocation of resources among long-term research, near-term research, and development activities; and
+&emsp;(iii) identify the allocation of resources among long-term research, near-term research, and development activities;
 
-&emsp;(iv) highlight the research and development activities that address specific recommendations of the research advisory committee established under section 44508 of this title, and document the recommendations of the committee that are not accepted, specifying the reasons for nonacceptance.
+&emsp;(iv) identify the individual research and development projects in each funding category that are described in the annual budget request;
 
-(3) Subject to section 40119(b) of this title and regulations prescribed under section 40119(b), the Administrator of the Federal Aviation Administration shall submit to the committees named in paragraph (1) of this subsection an annual report on the accomplishments of the research completed during the prior fiscal year, including a description of the dissemination to the private sector of research results and a description of any new technologies developed. The report shall be submitted with the plan required under paragraph (1) and be organized to allow comparison with the plan in effect for the prior fiscal year.
+&emsp;(v) highlight the research and development activities that address specific recommendations of the research advisory committee established under section 44508 of this title, and document the recommendations of the committee that are not accepted, specifying the reasons for nonacceptance; and
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1173; Pub. L. 104–264, title XI, §1105, Oct. 9, 1996, 110 Stat. 3279; Pub. L. 104–287, §5(74), Oct. 11, 1996, 110 Stat. 3396.)
+&emsp;(vi) highlight the research and development technology transfer activities that promote technology sharing among government, industry, and academia through the Stevenson-Wydler Technology Innovation Act of 1980.
+
+(3) Subject to section 40119(b) of this title and regulations prescribed under section 40119(b), the Administrator of the Federal Aviation Administration shall submit to the committees named in paragraph (1) of this subsection an annual report on the accomplishments of the research completed during the prior fiscal year, including a description of the dissemination to the private sector of research results and a description of any new technologies developed. The report shall be submitted with the plan required under paragraph (1) and be organized to allow comparison with the plan in effect for the prior fiscal year. The report shall be prepared in accordance with requirements of section 1116 of title 31.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1173; Pub. L. 104–264, title XI, §1105, Oct. 9, 1996, 110 Stat. 3279; Pub. L. 104–287, §5(74), Oct. 11, 1996, 110 Stat. 3396; Pub. L. 106–181, title IX, §902(a), Apr. 5, 2000, 114 Stat. 195.)
 
 Historical and Revision Notes
 
@@ -102,7 +106,15 @@ In subsection (d)(2)(B), before clause (i), the words “an appropriation” are
 
 In subsection (d)(3), the words “beginning with the date of transmission of the first aviation research plan as required by paragraph (1)” are omitted as obsolete.
 
+#### References in Text
+
+The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (c)(2)(B)(vi), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, as amended, which is classified generally to chapter 63 (§3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 3701 of Title 15 and Tables.
+
 #### Amendments
+
+2000—Subsec. (c)(2)(B)(iv) to (vi). Pub. L. 106–181, §902(a)(1), added cls. (iv) and (vi) and redesignated former cl. (iv) as (v).
+
+Subsec. (c)(3). Pub. L. 106–181, §902(a)(2), inserted at end “The report shall be prepared in accordance with requirements of section 1116 of title 31.”
 
 1996—Subsec. (c)(1). Pub. L. 104–287 substituted “Committee on Science” for “Committee on Science, Space, and Technology”.
 
@@ -111,6 +123,10 @@ Subsec. (c)(2)(A). Pub. L. 104–264, §1105(1), substituted “5-year period”
 Subsec. (c)(2)(B). Pub. L. 104–264, §1105(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) set out the requirements for research plans including specific requirements for the first two years of the plan, for the 3rd, 4th, and 5th years, and for the 6th and subsequent years.
 
 Subsec. (c)(3). Pub. L. 104–264, §1105(3), inserted “, including a description of the dissemination to the private sector of research results and a description of any new technologies developed” after “during the prior fiscal year”.
+
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
 
 #### Effective Date of 1996 Amendment
 

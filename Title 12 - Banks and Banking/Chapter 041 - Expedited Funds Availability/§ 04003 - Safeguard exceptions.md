@@ -138,7 +138,7 @@ Subject to such regulations as the Board may prescribe, subsections (a)(2), (b),
 
 #### (3) Subsequent determinations
 
-&emsp;If the facts upon which the determination of the applicability of an exception contained in subsection (b) or (c) of this section to any deposit only become known to the receiving depository institution after the time notice is required under paragraph (2) with respect to such deposit, the depository institution shall mail such notice to the depositor as soon as practicable, but not later than the first business day following the day such facts become known to the depository institution.
+&emsp;If the facts upon which the determination of the applicability of an exception contained insubsection (b) or (c) of this section to any deposit only become known to the receiving depository institution after the time notice is required under paragraph (2) with respect to such deposit, the depository institution shall mail such notice to the depositor as soon as practicable, but not later than the first business day following the day such facts become known to the depository institution.
 
 (Pub. L. 100–86, title VI, §604, Aug. 10, 1987, 101 Stat. 642; Pub. L. 102–242, title II, §§225, 227(b)(2), Dec. 19, 1991, 105 Stat. 2307, 2308.)
 
@@ -158,7 +158,7 @@ Subsec. (f)(2)(D), (E). Pub. L. 102–242, §225(5), added subpars. (D) and (E).
 
 #### Change of Name
 
-Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Effective Date
 

@@ -28,7 +28,7 @@ See explanation of section 111(b) \[set out as 1962 Amendment in Historical and 
 
 1986—Pub. L. 99–661, div. A, title VI, §604(f)(1)(B)(iii), Nov. 14, 1986, 100 Stat. 3877, struck out item 6148 “Disability and death benefits: Naval Reserve and Marine Corps Reserve”.
 
-1980—Pub. L. 96–513, title V, §513(13), Dec. 12, 1980, 94 Stat. 2932, struck out items 6141 “Pay: officers; date ofcommencement”, 6142 “Pay: assignments”, 6143 “Pay: sale to be discouraged by commanding officer”, 6144 “Pay accounts: settlement when lost with vessel”, 6145 “Pay accounts: settlement; fixing date of loss of vessel”, 6146 “Allotments: officers”, and 6147 “Allowances: prisoners”.
+1980—Pub. L. 96–513, title V, §513(13), Dec. 12, 1980, 94 Stat. 2932, struck out items 6141 “Pay: officers; date of commencement”, 6142 “Pay: assignments”, 6143 “Pay: sale to be discouraged by commanding officer”, 6144 “Pay accounts: settlement when lost with vessel”, 6145 “Pay accounts: settlement; fixing date of loss of vessel”, 6146 “Allotments: officers”, and 6147 “Allowances: prisoners”.
 
 1970—Pub. L. 91–482, §2D, Oct. 21, 1970, 84 Stat. 1082, struck out item 6159 “Half rating to disabled naval enlisted personnel serving twenty years”.
 
@@ -45,10 +45,6 @@ See explanation of section 111(b) \[set out as 1962 Amendment in Historical and 
 1958—Pub. L. 85–861, §1(139)(B), Sept. 2, 1958, 72 Stat. 1508, substituted “who serve satisfactorily under temporary appointments” for “temporarily appointed or promoted during World War II” in item 6151.
 
 1957—Pub. L. 85–56, title XXII, §2201(31)(D), June 17, 1957, 71 Stat. 162, eff. Jan. 1, 1958, added items 6159 and 6160.
-
-#### Cross References
-
-General military law provisions, see section 1031 et seq. of this title.
 
 
 ---

@@ -16,17 +16,11 @@ Prior provisions for an additional Assistant Secretary of Commerce were containe
 
 #### Transfer of Functions
 
-Pursuant to powers transferred to Secretary of Commerce under Reorg. Plan No. 5 of 1950, §§1, 2, eff. May24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out as a note under section 1501 of this title, Secretary has reassigned functions of Bureau of Foreign and Domestic Commerce to other officers of Department.
+Pursuant to powers transferred to Secretary of Commerce under Reorg. Plan No. 5 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out as a note under section 1501 of this title, Secretary has reassigned functions of Bureau of Foreign and Domestic Commerce to other officers of Department.
 
 #### Order of Succession
 
 For order of succession in case of absence, disability, or vacancy in office of both Secretary and Deputy Secretary of Commerce, see Ex. Ord. No. 11880, Oct. 2, 1975, 40 F.R. 46089, as amended, set out as a note under section 3345 of Title 5, Government Organization and Employees.
-
-#### Cross References
-
-Compensation of Assistant Secretaries, see section 5315 of Title 5, Government Organization and Employees.
-
-Appointment of additional Assistant Secretary of Commerce, and applicability of this section, see section 1506 of this title.
 
 #### Section Referred to in Other Sections
 

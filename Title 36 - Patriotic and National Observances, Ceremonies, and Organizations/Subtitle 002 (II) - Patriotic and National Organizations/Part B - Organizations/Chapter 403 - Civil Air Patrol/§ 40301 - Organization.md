@@ -34,3 +34,7 @@ July 1, 1946, ch. 527, §§1, 5 (related to perpetual succession), 60 Stat. 346,
 
 This section is substituted for the source provisions for consistency in the revised title and to eliminate executed and unnecessary words.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in title 10 section 9441.
+

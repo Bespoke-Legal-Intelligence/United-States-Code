@@ -16,7 +16,7 @@ If any person takes any adverse action with respect to any consumer that is base
 
 &emsp;&emsp;(A) to obtain, under section 1681j of this title, a free copy of a consumer report on the consumer from the consumer reporting agency referred to in paragraph (2), which notice shall include an indication of the 60-day period under that section for obtaining such a copy; and
 
-&emsp;&emsp;(B) to dispute, under section 1681i of this title, with a consumer reporting agency theaccuracy or completeness of any information in a consumer report furnished by the agency.
+&emsp;&emsp;(B) to dispute, under section 1681i of this title, with a consumer reporting agency the accuracy or completeness of any information in a consumer report furnished by the agency.
 
 #### (b) Adverse action based on information obtained from third parties other than consumer reporting agencies
 
@@ -66,7 +66,7 @@ No person shall be held liable for any violation of this section if he shows by 
 
 &emsp;&emsp;(A) information contained in the consumer's consumer report was used in connection with the transaction;
 
-&emsp;&emsp;(B) the consumer received the offer of credit or insurance because the consumer satisfied the criteria for credit worthiness <sup>2</sup> or insurability under which the consumer was selected for the offer;
+&emsp;&emsp;(B) the consumer received the offer of credit or insurance because the consumer satisfied the criteria for credit worthiness <sup>2</sup>or insurability under which the consumer was selected for the offer;
 
 &emsp;&emsp;(C) if applicable, the credit or insurance may not be extended if, after the consumer responds to the offer, the consumer does not meet the criteria used to select the consumer for the offer or any applicable criteria bearing on credit worthiness <sup>2</sup> or insurability or does not furnish any required collateral;
 

@@ -6,11 +6,11 @@ Definitions.—In this section, the following definitions apply:
 
 &emsp;(1)
 
-Automobile transporter.—The term “automobile transporter” means any vehicle combination designed and used specifically for the transport of assembled highway vehicles, including truck camper units.
+Automobile transporter.—The term “automobile transporter” means any vehicle combination designed and used specifically forthe transport of assembled highway vehicles, including truck camper units.
 
 &emsp;(2)
 
-Maxi-cube vehicle.—The term “maxi-cube vehicle” means a truck tractor combined with a semitrailer and a separable property-carrying unit designed to be loaded and unloaded through the semitrailer, with the length of the separable property-carrying unit being not more than 34 feet and the length ofthe vehicle combination being not more than 65 feet.
+Maxi-cube vehicle.—The term “maxi-cube vehicle” means a truck tractor combined with a semitrailer and a separable property-carrying unit designed to be loaded and unloaded through the semitrailer, with the length of the separable property-carrying unit being not more than 34 feet and the length of the vehicle combination being not more than 65 feet.
 
 &emsp;(3)
 
@@ -58,9 +58,9 @@ Exemptions.—(1) If the chief executive officer of a State, after consulting un
 
 (4)(A) If the Secretary decides, on request of a chief executive officer or on the Secretary's own initiative, a segment of the Dwight D. Eisenhower System of Interstate and Defense Highways is not capable of safely accommodating a commercial motor vehicle having a length described in subsection (b)(1)(A) of this section or the motor vehicle combination described in subsection (c) of this section, the Secretary shall exempt the segment from either or both of those provisions. Before making a decision under this paragraph, the Secretary shall consider any possible alternative route that serves the area in which the segment is located.
 
-(B) The Secretary shall make a decision about a specific segment not later than 120 days after the date of receipt of notification from a chief executive officer under paragraph (1) of this subsection or the date on which the Secretary initiates action under subparagraph (A) of this paragraph, whichever is applicable. If the Secretary finds the decision will not be made in time, the Secretary immediately shall notify Congress, giving the reasons for the delay, information about the resources assigned, and the projected date for the decision.
+(B) The Secretary shall make a decision about a specific segment not later than 120 days after the date of receipt of notification from a chief executive officer under paragraph (1) of this subsection or the date on which the Secretary initiates action under subparagraph (A) of this paragraph, whichever is applicable. If the Secretary finds the decision will not be made in time, theSecretary immediately shall notify Congress, giving the reasons for the delay, information about the resources assigned, and the projected date for the decision.
 
-(C) Before making a decision, the Secretary shall give an interested person notice and an opportunity for comment. If the Secretary exempts a segment under this subsection beforethe final regulations under subsection (e) of this section are prescribed, the Secretary shall include the exemption as part of the final regulations. If the Secretary exempts the segment after the final regulations are prescribed, the Secretary shall publish the exemption as an amendment to the final regulations.
+(C) Before making a decision, the Secretary shall give an interested person notice and an opportunity for comment. If the Secretary exempts a segment under this subsection before the final regulations under subsection (e) of this section are prescribed, the Secretary shall include the exemption as part of the final regulations. If the Secretary exempts the segment after the final regulations are prescribed, the Secretary shall publish the exemption as an amendment to the final regulations.
 
 (g)
 

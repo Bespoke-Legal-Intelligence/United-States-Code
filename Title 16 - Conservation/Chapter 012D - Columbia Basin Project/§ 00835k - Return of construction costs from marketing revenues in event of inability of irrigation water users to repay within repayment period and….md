@@ -12,7 +12,7 @@ Act of June 17, 1902, referred to in text, is act June 17, 1902, ch. 1093, 32 St
 
 #### Codification
 
-Section is comprised of second par. of section 2(a) of Pub. L. 89–448, as so designated by Pub. L. 89–561. First sentence of first par. of such section 2(a) is classified to section 835j of this title; second sentence of such first par. repealed section 832h(c) of this title; subsecs. (b) and (c) of section 2 are classified to sections 835<i>l</i> and 835m of this title, respectively.
+Section is comprised of second par. of section 2(a) of Pub. L. 89–448, as so designated by Pub. L. 89–561. Firstsentence of first par. of such section 2(a) is classified to section 835j of this title; second sentence of such first par. repealed section 832h(c) of this title; subsecs. (b) and (c) of section 2 are classified to sections 835<i>l</i> and 835m of this title, respectively.
 
 #### Amendments
 

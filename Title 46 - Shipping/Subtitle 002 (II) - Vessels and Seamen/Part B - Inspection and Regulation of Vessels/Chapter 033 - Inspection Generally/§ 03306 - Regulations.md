@@ -32,7 +32,7 @@
 
 &emsp;(2) include requirements for notice to sailing school instructors and sailing school students about the specialized nature of sailing school vessels and applicable safety regulations.
 
-(d) In prescribing regulations for nautical school vessels operated by the United States Merchant Marine Academy or by a State maritime academy (as defined in section 1302(3) of the Merchant Marine Act, 1936 (46 App. U.S.C. 1295a(3))), the Secretary shall consider the function, purpose, and operation of the vessels, theirroutes, and the number of individuals who may be carried on the vessels.
+(d) In prescribing regulations for nautical school vessels operated by the United States Merchant Marine Academy or by a State maritime academy (as defined in section 1302(3) of the Merchant Marine Act, 1936 (46 App. U.S.C. 1295a(3))), the Secretary shall consider the function, purpose, and operation of the vessels, their routes, and the number of individuals who may be carried on the vessels.
 
 (e) When the Secretary finds it in the public interest, the Secretary may suspend or grant exemptions from the requirements of a regulation prescribed under this section related to lifesaving and firefighting equipment, muster lists, ground tackle and hawsers, and bilge systems.
 
@@ -42,7 +42,7 @@
 
 (h) The Secretary shall establish appropriate structural fire protection, manning, operating, and equipment requirements for vessels of at least 100 gross tons but less than 300 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title carrying not more than 150 passengers on domestic voyages, which meet the eligibility criteria of section 2113(4) of this title.
 
-(i) The Secretary shall establish appropriate structural fire protection, manning, operating, and equipment requirements for former public vessels of the United States of at least 100 gross tons but less that 500 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title carrying not more than 150 passengers on domestic voyages, which meet the eligibility criteria of section 2113(5) of this title.
+(i) The Secretary shall establish appropriate structural fire protection, manning, operating,and equipment requirements for former public vessels of the United States of at least 100 gross tons but less that 500 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title carrying not more than 150 passengers on domestic voyages, which meet the eligibility criteria of section 2113(5) of this title.
 
 (Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 513; Pub. L. 98–364, title IV, §402(5), July 17, 1984, 98 Stat. 446; Pub. L. 103–206, title V, §512(a), Dec. 20, 1993, 107 Stat. 2442; Pub. L. 104–324, title VI, §604(a), (c), title VII, §712, Oct. 19, 1996, 110 Stat. 3930, 3931, 3936.)
 

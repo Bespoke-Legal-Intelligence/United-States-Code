@@ -18,7 +18,7 @@ The Secretary may provide any project with one or more of the following types of
 
 #### (4) Operating costs
 
-&emsp;Annual payments for operating costs of housing assisted under this part, not to exceed 75 percent of the annual operating costs of such housing. Grant recipients may reapply for such assistance as needed to continue the use of the housing for purposes of this part.
+&emsp;Annual payments for operating costs of housing assisted under this part, not to exceed75 percent of the annual operating costs of such housing. Grant recipients may reapply for such assistance as needed to continue the use of the housing for purposes of this part.
 
 #### (5) Supportive services
 
@@ -27,6 +27,10 @@ The Secretary may provide any project with one or more of the following types of
 #### (6) Technical assistance
 
 &emsp;Technical assistance in carrying out the purposes of this part.
+
+#### (7) Management information system
+
+&emsp;A grant for the costs of implementing and operating management information systems for purposes of collecting unduplicated counts of homeless people and analyzing patterns of use of assistance funded under this chapter.
 
 #### (b) Use restrictions
 
@@ -56,11 +60,19 @@ The Secretary may provide any project with one or more of the following types of
 
 &emsp;A recipient shall not be required to comply with the terms and conditions prescribed under paragraphs (1) and (2) if the sale or disposition of the project results in the use of the project for the direct benefit of very low-income persons or if all of the proceeds are used to provide supportive housing meeting the requirements of this part.
 
-(Pub. L. 100–77, title IV, §423, as added Pub. L. 102–550, title XIV, §1403(a), Oct. 28, 1992, 106 Stat. 4015.)
+(Pub. L. 100–77, title IV, §423, as added Pub. L. 102–550, title XIV, §1403(a), Oct. 28, 1992, 106 Stat. 4015; amended Pub. L. 106–377, §1(a)(1) \[title II, §226\], Oct. 27, 2000, 114 Stat. 1441, 1441A–30.)
+
+#### References in Text
+
+This chapter, referred to in subsec. (a)(7), was in the original “this Act”, meaning Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended, known as the McKinney-Vento Homeless Assistance Act. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of this title and Tables.
 
 #### Prior Provisions
 
 A prior section 11383, Pub. L. 100–77, title IV, §423, July 22, 1987, 101 Stat. 501; Pub. L. 100–628, title IV, §§441(b), (c), 445(a), 446–448(a), 449, Nov. 7, 1988, 102 Stat. 3233, 3234; Pub. L. 101–625, title VIII, §833(c)–(e), (g), Nov. 28, 1990, 104 Stat. 4362, 4363, outlined types of assistance provided under the supportive housing demonstration program, prior to repeal by Pub. L. 102–550, §1403(a).
+
+#### Amendments
+
+2000—Subsec. (a)(7). Pub. L. 106–377 added par. (7).
 
 #### Section Referred to in Other Sections
 

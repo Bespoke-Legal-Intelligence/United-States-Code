@@ -90,7 +90,7 @@ Application Requirement.—An entity described in subsection (d) desiring to rec
 
 &emsp;“(3) plans, specifications, and the schedule for implementation of such project in accordance with requirements prescribed by the Secretary under subsection (b); and
 
-&emsp;“(4) reasonable assurance that upon completion of the work for which assistance is sought, the program will become operational and the facilities will be used principally to provide to veterans the services forwhich the project was designed, and that not more than 25 percent of the services provided will serve clients who are not receiving such services as veterans.
+&emsp;“(4) reasonable assurance that upon completion of the work for which assistance is sought, the program will become operational and the facilities will be used principally to provide to veterans the services for which the project was designed, and that not more than 25 percent of the services provided will serve clients who are not receiving such services as veterans.
 
 “(f)
 
@@ -122,7 +122,7 @@ Service Center Requirements.—In addition to criteria established under subsect
 
 “(a)
 
-Per Diem Payments for Furnishing Services To Homeless Veterans.—Subject to the availability of appropriations provided for under section 12 \[set out below\], the Secretary of Veterans Affairs, pursuant to such criteria as the Secretary shall prescribe, shall provide to a recipient of a grant under section 3 (or an entity eligible to receive a grant under section 3 which after the date of enactment of this Act \[Nov. 10, 1992\] establishes a program which the Secretary determines carries out the purposes described in section 3) per diem payments at such rates as the Secretary shall prescribe by regulation for services furnished to any homeless veteran—
+Per Diem Payments for Furnishing Services To Homeless Veterans.—Subject to the availability of appropriations provided for under section 12 \[set out below\], the Secretary of Veterans Affairs, pursuant tosuch criteria as the Secretary shall prescribe, shall provide to a recipient of a grant under section 3 (or an entity eligible to receive a grant under section 3 which after the date of enactment of this Act \[Nov. 10, 1992\] establishes a program which the Secretary determines carries out the purposes described in section 3) per diem payments at such rates as the Secretary shall prescribe by regulation for services furnished to any homeless veteran—
 
 &emsp;“(1) whom the Secretary has referred to the grant recipient (or entity eligible for such a grant); or
 

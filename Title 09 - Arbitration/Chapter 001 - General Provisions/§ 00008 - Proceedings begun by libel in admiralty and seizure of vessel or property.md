@@ -8,11 +8,3 @@ If the basis of jurisdiction be a cause of action otherwise justiciable in admir
 
 Act Feb. 12, 1925, ch. 213, §8, 43 Stat 884.
 
-#### Federal Rules of Civil Procedure
-
-Admiralty and maritime rules of practice (which included libel procedures) were superseded, and civil and admiralty procedures in United States district courts were unified, effective July 1, 1966, see rule 1 and Supplemental Rules for Certain Admiralty and Maritime Claims, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-#### Cross References
-
-Power of Supreme Court to prescribe rules of practice and procedure and rules of evidence for cases in United States district courts and courts of appeals, see section 2072 of Title 28, Judiciary and Judicial Procedure.
-

@@ -46,7 +46,7 @@ Subsec. (d). Pub. L. 101–508, §2302(e)(2)(B), added subsec. (d) and struck ou
 
 &emsp;“(1) is a rate which is not less than the applicable estimated risk premium rate under section 4014(a)(1) of this title, and
 
-&emsp;“(2) includes any amount for administrative expenses of carrying out the flood insurance program which have been estimated under clause (ii) of section 4014(a)(1)(B) of this title,
+&emsp;“(2) includes any amount for administrative expenses of carrying out the flood insurance programwhich have been estimated under clause (ii) of section 4014(a)(1)(B) of this title,
 
 > a sum equal to such amount shall be paid to the Director, and he shall deposit such sum in the National Flood Insurance Fund established under section 4017 of this title.”
 

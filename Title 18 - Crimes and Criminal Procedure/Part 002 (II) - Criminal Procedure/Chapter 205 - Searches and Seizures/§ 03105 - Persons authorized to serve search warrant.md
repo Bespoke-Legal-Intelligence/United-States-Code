@@ -10,14 +10,6 @@ Based on title 18, U.S.C., 1940 ed., §617 (June 15, 1917, ch. 30, title XI, §7
 
 Minor change was made in phraseology.
 
-#### Canal Zone
-
-Applicability of section to Canal Zone, see section 14 of this title.
-
-#### Federal Rules of Criminal Procedure
-
-Search warrants and seizures, see rule 41, Appendix to this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 14 of this title.

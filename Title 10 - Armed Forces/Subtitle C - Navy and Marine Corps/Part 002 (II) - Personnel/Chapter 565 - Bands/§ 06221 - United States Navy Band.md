@@ -36,7 +36,3 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 87–649, set out as an Effective Date note preceding section 101 of Title 37, Pay and Allowances of the Uniformed Services.
 
-#### Cross References
-
-Pay and allowances, see sections 207 and 424 of Title 37, Pay and Allowances of the Uniformed Services.
-

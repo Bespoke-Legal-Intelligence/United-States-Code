@@ -48,7 +48,7 @@
 
 &emsp;(21) hold hearings and call witnesses that might assist the Commission in the exercise of its powers or duties;
 
-&emsp;(22) perform such other functions as are required to permit Federal courts to meet their responsibilities under section 3553(a) of title 18, United States Code, and to permit others involved in the Federal criminal justice system to meet their related responsibilities;
+&emsp;(22) perform such other functions as are required to permit Federal courts to meet theirresponsibilities under section 3553(a) of title 18, United States Code, and to permit others involved in the Federal criminal justice system to meet their related responsibilities;
 
 &emsp;(23) retain private attorneys to provide legal advice to the Commission in the conduct of its work, or to appear for or represent the Commission in any case in which the Commission is authorized by law to represent itself, or in which the Commission is representing itself with the consent of the Department of Justice; and the Commission may in its discretion pay reasonable attorney's fees to private attorneys employed by it out of its appropriated funds. When serving as officers or employees of the United States, such private attorneys shall be considered special government employees as defined in section 202(a) of title 18; and
 
@@ -70,11 +70,11 @@ The provisions of title 28, United States Code, with respect to tort claims, ref
 
 #### Amendments
 
-1994—Subsec. (a)(3). Pub. L. 103–322 substituted “Chair” for “Chairman”.
+<b>1994</b>—Subsec. (a)(3). Pub. L. 103–322 substituted “Chair” for “Chairman”.
 
-1990—Subsec. (a)(22). Pub. L. 101–650 struck out “and” after semicolon at end.
+<b>1990</b>—Subsec. (a)(22). Pub. L. 101–650 struck out “and” after semicolon at end.
 
-1988—Subsec. (a)(2). Pub. L. 100–690, §7105, substituted “Level 6 of the Senior Executive Service Schedule (5 U.S.C. 5382)” for “grade 18 of the General Schedule pay rates (5 U.S.C. 5332)”.
+<b>1988</b>—Subsec. (a)(2). Pub. L. 100–690, §7105, substituted “Level 6 of the Senior Executive Service Schedule (5 U.S.C. 5382)” for “grade 18 of the General Schedule pay rates (5 U.S.C. 5332)”.
 
 Subsec. (a)(23). Pub. L. 100–690, §7104, added par. (23).
 

@@ -2,7 +2,7 @@
 
 (a) Each candidate for admission to the Naval Academy—
 
-&emsp;(1) must be at least 17 years of age and must not have passed his twenty-third birthday on July 1 of the calendar year in which he enters the Academy; and
+&emsp;(1) must be at least 17 years of age and must not have passed his twenty-third birthday onJuly 1 of the calendar year in which he enters the Academy; and
 
 &emsp;(2) shall be examined according to such regulations as the Secretary of the Navy prescribes, and if rejected at one examination may not be examined again for admission to the same class unless recommended by the Academic Board.
 
@@ -83,10 +83,6 @@ For effective date of amendment by Pub. L. 93–171, see section 4 of Pub. L. 93
 #### Authority To Waive Maximum Age Limitation on Admission to Service Academies for Certain Enlisted Members Who Served During Persian Gulf War
 
 For authority to waive maximum age limitation in subsec. (a)(1) of this section on basis of service on active duty in connection with Operation Desert Storm, see section 514 of Pub. L. 102–190, set out as a note under section 4346 of this title.
-
-#### Cross References
-
-Effect upon enlisted status of acceptance of appointment as midshipman, see section 516 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -14,9 +14,3 @@ Section was rewritten without change of substance.
 
 Pub. L. 105–6, §1, Mar. 19, 1997, 111 Stat. 12, provided that: “This Act \[enacting section 3510 of this title, amending section 3593 of this title, and enacting provisions set out as a note under section 3510 of this title\] may be cited as the ‘Victim Rights Clarification Act of 1997’.”
 
-#### Federal Rules of Criminal Procedure
-
-Harmless and plain error, see rule 52, Appendix to this title.
-
-Instructions, see rule 30.
-

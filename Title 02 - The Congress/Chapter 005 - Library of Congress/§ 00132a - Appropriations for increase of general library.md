@@ -16,7 +16,3 @@ R.S. §82 derived from acts Apr. 24, 1800, ch. 37, §5, 2 Stat. 56, and Jan. 26,
 
 Amendment by act Aug. 2, 1946, effective Jan. 3, 1947, see section 245 of that act, set out as a note under section 72a of this title.
 
-#### Cross References
-
-Librarian of Congress to make rules and regulations for government of library, see section 136 of this title.
-

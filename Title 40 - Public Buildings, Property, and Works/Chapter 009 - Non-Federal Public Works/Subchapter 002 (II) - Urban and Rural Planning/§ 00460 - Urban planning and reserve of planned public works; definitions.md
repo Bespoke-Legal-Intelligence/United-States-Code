@@ -2,7 +2,7 @@
 
 As used in this subchapter, (1) the term “State” shall mean any State, the District of Columbia, the Commonwealth of Puerto Rico, any territory or possession of the United States, and the Trust Territory of the Pacific Islands; (2) the term “Secretary” shall mean the Secretary of Housing and Urban Development; (3) the term “public works” shall include any public works other than housing; and (4) the term “public agency” or “public agencies” shall mean any State, as herein defined, or any public agency or political subdivision therein.
 
-(Aug. 2, 1954, ch. 649, title VII, §703, 68 Stat. 641; Pub. L. 90–19, §10(d), May 25, 1967, 81 Stat. 22;Pub. L. 93–383, title IV, §401(c), Aug. 22, 1974, 88 Stat. 691.)
+(Aug. 2, 1954, ch. 649, title VII, §703, 68 Stat. 641; Pub. L. 90–19, §10(d), May 25, 1967, 81 Stat. 22; Pub. L. 93–383, title IV, §401(c), Aug. 22, 1974, 88 Stat. 691.)
 
 #### Amendments
 

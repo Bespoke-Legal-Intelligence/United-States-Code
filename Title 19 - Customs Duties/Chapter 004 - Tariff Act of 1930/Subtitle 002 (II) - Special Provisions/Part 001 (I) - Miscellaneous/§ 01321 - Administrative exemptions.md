@@ -50,7 +50,7 @@ Subsec. (b). Pub. L. 103–182, §651(4), struck out “to diminish any dollar a
 
 1978—Subsec. (a)(1). Pub. L. 95–410, §205(a), substituted “$10” for “$3” and “duties and taxes” for “duties or taxes” in three places.
 
-Subsec. (a)(2). Pub. L. 95–410, §205(b)(1)–(3), substituted in: subpar. (A), “$25” and “$40” for “$10” and “$20”; subpar. (B), “$25” for “$10”; and subpar. (C), “$5” for “$1”.
+Subsec. (a)(2). Pub. L. 95–410, §205(b)(1)–(3), substituted in: subpar. (A), “$25” and “$40” for “$10” and“$20”; subpar. (B), “$25” for “$10”; and subpar. (C), “$5” for “$1”.
 
 1975—Subsec. (a)(2)(A). Pub. L. 93–618 inserted “($20, in the case of articles sent as bona fide gifts from persons in the Virgin Islands, Guam, and American Samoa)” after “United States”.
 

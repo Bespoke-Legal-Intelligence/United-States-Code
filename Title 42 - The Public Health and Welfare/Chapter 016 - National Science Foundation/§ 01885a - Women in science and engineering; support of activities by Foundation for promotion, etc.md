@@ -20,7 +20,7 @@ The Foundation is authorized to—
 
 > &emsp;to acquire new knowledge, techniques, and skills in scientific and engineering fields;
 
-&emsp;(4) undertake a comprehensive research program designed to increase public understanding of (A) the potential contribution of women in science and engineering and (B) the means to facilitate the participation and advancement of women in scientific and engineering careers;
+&emsp;(4) undertake a comprehensive research program designed to increase public understanding of (A) the potential contribution of womenin science and engineering and (B) the means to facilitate the participation and advancement of women in scientific and engineering careers;
 
 &emsp;(5) establish a visiting women scientists and engineers program;
 
@@ -110,7 +110,7 @@ Pub. L. 105–255, Oct. 14, 1998, 112 Stat. 1889, provided that:
 
 &emsp;&emsp;“(C) to sensitize employers to the need to recruit and retain women and minority scientists, engineers, and computer specialists; and
 
-&emsp;&emsp;“(D) to encourage the replication of successful recruitment and retention programs by universities, corporations, and Federal agencies having difficulties in employing women or minorities in the fields of science, engineering, and technology.
+&emsp;&emsp;“(D) to encourage the replication of successful recruitment and retention programs by universities,corporations, and Federal agencies having difficulties in employing women or minorities in the fields of science, engineering, and technology.
 
 #### “SEC. 3. ESTABLISHMENT.
 
@@ -226,7 +226,7 @@ Staff.—The Commission may appoint and fix the pay of additional personnel as t
 
 “(c)
 
-Applicability of Certain Civil Service Laws.—The Director and staff of the Commission may be appointed without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of that title relating to classification and General Schedule pay rates, except that an individual so appointed may not receive pay in excess of the maximum annual rate of basic pay payable under section 5376 of title 5, United States Code.
+Applicability of Certain Civil Service Laws.—The Director and staff of the Commission may be appointed without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and may be paid without regard tothe provisions of chapter 51 and subchapter III of chapter 53 of that title relating to classification and General Schedule pay rates, except that an individual so appointed may not receive pay in excess of the maximum annual rate of basic pay payable under section 5376 of title 5, United States Code.
 
 “(d)
 
@@ -264,7 +264,7 @@ Contract Authority.—To the extent provided in advance in appropriations Acts, 
 
 #### “SEC. 8. REPORT.
 
-“Not later than 1 year after the date on which the initial appointments under section 5(a) are completed,the Commission shall submit to the President, the Congress, and the highest executive official of each State, a written report containing the findings, conclusions, and recommendations of the Commission resulting from the study conducted under section 4.
+“Not later than 1 year after the date on which the initial appointments under section 5(a) are completed, the Commission shall submit to the President, the Congress, and the highest executive official of each State, a written report containing the findings, conclusions, and recommendations of the Commission resulting from the study conducted under section 4.
 
 #### “SEC. 9. CONSTRUCTION; USE OF INFORMATION OBTAINED.
 
@@ -366,7 +366,7 @@ Pub. L. 99–383, §8, Aug. 21, 1986, 100 Stat. 815, provided that:
 
 “(f)(1) Members of the task force not otherwise employed by the Federal Government shall be reimbursed for travel, subsistence, and other necessary expenses incurred by them in carrying out the duties of the task force.
 
-“(2) The Director of the National Science Foundation shall make provision for administrative support of the task force, and may enter into agreements with theheads of other participating agencies to facilitate the work of the task force.
+“(2) The Director of the National Science Foundation shall make provision for administrative support of the task force, and may enter into agreements with the heads of other participating agencies to facilitate the work of the task force.
 
 “(g) The task force shall terminate on January 31, 1990.”
 

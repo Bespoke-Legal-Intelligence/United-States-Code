@@ -30,7 +30,7 @@ Nothing in this section shall be interpreted as—
 
 &emsp;(1) limiting the authority of the Smithsonian Institution to return or repatriate Indian human remains or Indian funerary objects to Indian tribes or individuals; or
 
-&emsp;(2) delaying actions on pending repatriation requests, denying or otherwise affecting access to the courts, or limiting any procedural or substantive rights which may otherwise be secured to Indian tribes or individuals.
+&emsp;(2) delaying actions on pending repatriation requests, denying or otherwise affecting accessto the courts, or limiting any procedural or substantive rights which may otherwise be secured to Indian tribes or individuals.
 
 #### (f) Authorization of appropriations
 

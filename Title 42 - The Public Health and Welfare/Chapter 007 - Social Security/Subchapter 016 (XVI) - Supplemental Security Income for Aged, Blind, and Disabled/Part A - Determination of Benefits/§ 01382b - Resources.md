@@ -200,7 +200,7 @@ Subsec. (c)(2)(A). Pub. L. 106–169, §206(a)(4), redesignated par. (1) as (2)(
 
 Subsec. (c)(2)(A)(i). Pub. L. 106–169, §206(a)(2)(A), (C), redesignated par. (1)(A) as (2)(A)(i), inserted “paragraph (1) and” after “provisions of”, and substituted “benefits under this subchapter and subchapter XIX of this chapter, respectively,” for “benefits under subchapter XIX of this chapter”, “clause (ii)” for “subparagraph (B)”, and “subparagraph (B)” for “paragraph (2)”.
 
-Subsec. (c)(2)(A)(ii). Pub. L. 106–169, §206(a)(2)(B), (C), redesignated par. (1)(B) as (2)(A)(ii), struck out “by theState agency” after “which may be used”, and substituted “paragraph (1) or section 1396p(c) of this title.” for “section 1396p(c) of this title if such individual (or such spouse, if any) enters a medical institution or nursing facility.”
+Subsec. (c)(2)(A)(ii). Pub. L. 106–169, §206(a)(2)(B), (C), redesignated par. (1)(B) as (2)(A)(ii), struck out “by the State agency” after “which may be used”, and substituted “paragraph (1) or section 1396p(c) of this title.” for “section 1396p(c) of this title if such individual (or such spouse, if any) enters a medical institution or nursing facility.”
 
 Subsec. (c)(2)(B). Pub. L. 106–169, §206(a)(3), redesignated par. (2) as (2)(B) and substituted “subparagraph (A)(ii)” for “paragraph (1)(B)”.
 
@@ -292,7 +292,7 @@ Section 8014(b) of Pub. L. 101–239 provided that: “The amendment made by sub
 
 #### Effective Date of 1988 Amendments
 
-Amendment by Pub. L. 100–647 effective as though included in section 162 of Housing and Community Development Act of 1987, Pub. L. 100–242, at the time of its enactment, on Feb. 5, 1988, see section 8103(c) of Pub. L.100–647, set out as a note under section 1382a of this title.
+Amendment by Pub. L. 100–647 effective as though included in section 162 of Housing and Community Development Act of 1987, Pub. L. 100–242, at the time of its enactment, on Feb. 5, 1988, see section 8103(c) of Pub. L. 100–647, set out as a note under section 1382a of this title.
 
 Amendment by Pub. L. 100–360 applicable to transfers occurring on or after July 1, 1988, without regard to whether or not final regulations to carry out such amendment have been promulgated by such date, see section 303(g)(3) of Pub. L. 100–360, set out as a note under section 1396r–5 of this title.
 

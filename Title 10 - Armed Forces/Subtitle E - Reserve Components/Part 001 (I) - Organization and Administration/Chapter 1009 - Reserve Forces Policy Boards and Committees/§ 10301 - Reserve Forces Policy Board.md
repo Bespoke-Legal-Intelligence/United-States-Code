@@ -24,7 +24,7 @@
 
 (b) Whenever the Coast Guard is not operating as a service in the Navy, the Secretary of Transportation may designate two officers of the Coast Guard, Regular or Reserve, to serve as voting members of the Board.
 
-(c) The Board, acting through the Assistant Secretary of Defense for Reserve Affairs, is the principal policy adviser to the Secretary of Defense on matters relating to the reserve components.
+(c) The Board, acting through the Assistant Secretary of Defense for Reserve Affairs, is theprincipal policy adviser to the Secretary of Defense on matters relating to the reserve components.
 
 (d) This section does not affect the committees on reserve policies prescribed within the military departments by sections 10302 through 10305 of this title.
 

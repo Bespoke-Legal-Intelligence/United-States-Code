@@ -12,7 +12,7 @@ Not later than 180 days after the end of each fiscal year for which grants are m
 
 &emsp;(2) a summary of the purposes for which those grants were provided and an evaluation of their progress;
 
-&emsp;(3) a statistical summary of persons served, detailing the nature of victimization, and providing data on age, sex, relationship of victim to offender, geographic distribution, race, ethnicity, language, and disability; and
+&emsp;(3) a statistical summary of persons served, detailing the nature of victimization, and providing data on age, sex, relationship of victim to offender, geographic distribution, race, ethnicity, language, and disability, and the membership of persons served in any underserved population; and
 
 &emsp;(4) an evaluation of the effectiveness of programs funded under this subchapter.
 
@@ -20,5 +20,9 @@ Not later than 180 days after the end of each fiscal year for which grants are m
 
 Not later than 120 days after September 13, 1994, the Attorney General shall publish proposed regulations or guidelines implementing this subchapter. Not later than 180 days after September 13, 1994, the Attorney General shall publish final regulations or guidelines implementing this subchapter.
 
-(Pub. L. 90–351, title I, §2004, as added Pub. L. 103–322, title IV, §40121(a)(3), Sept. 13, 1994, 108 Stat. 1914.)
+(Pub. L. 90–351, title I, §2004, as added Pub. L. 103–322, title IV, §40121(a)(3), Sept. 13, 1994, 108 Stat. 1914; amended Pub. L. 106–386, div. B, title I, §1103(b)(4), Oct. 28, 2000, 114 Stat. 1497.)
+
+#### Amendments
+
+2000—Subsec. (b)(3). Pub. L. 106–386 inserted “, and the membership of persons served in any underserved population” before the semicolon.
 

@@ -32,7 +32,7 @@ States eligible to receive a grant under this section may conduct a variety of a
 
 #### (2) Elements of plan
 
-&emsp;State plans prepared under paragraph (1) shall provide details of the proposed program to be implemented using funds provided under this section for fiscal years 1991 through 1995, or any 5-year period thereafter, and shall identify the sources of matching State funds for the same fiscal year.
+&emsp;State plans prepared under paragraph (1) shall provide details of the proposed program to be implemented using funds provided under this section for fiscal years 1991 through 1995,or any 5-year period thereafter, and shall identify the sources of matching State funds for the same fiscal year.
 
 #### (3) Participation of farmers
 
@@ -46,7 +46,7 @@ States eligible to receive a grant under this section may conduct a variety of a
 
 #### (2) State contribution
 
-&emsp;To be eligible to receive a grant under this section, a State shall agree to pay, from Stateappropriated funds, other State revenue, or from private contributions received by the State, not less than 50 percent of the cost of the establishment or enhancement of the sustainable agriculture program under an approved plan under subsection (c) of this section.
+&emsp;To be eligible to receive a grant under this section, a State shall agree to pay, from State appropriated funds, other State revenue, or from private contributions received by the State, not less than 50 percent of the cost of the establishment or enhancement of the sustainable agriculture program under an approved plan under subsection (c) of this section.
 
 (Pub. L. 101–624, title XVI, §1623, Nov. 28, 1990, 104 Stat. 3738.)
 

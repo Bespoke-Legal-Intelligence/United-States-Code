@@ -12,7 +12,7 @@ The Congress hereby finds and declares that—
 
 &emsp;(4) the encouragement and support of public telecommunications, while matters of importance for private and local development, are also of appropriate and important concern to the Federal Government;
 
-&emsp;(5) it furthers the general welfare to encourage public telecommunications services which will be responsive to the interests of people both in particular localities and throughoutthe United States, which will constitute an expression of diversity and excellence, and which will constitute a source of alternative telecommunications services for all the citizens of the Nation;
+&emsp;(5) it furthers the general welfare to encourage public telecommunications services which will be responsive to the interests of people both in particular localities and throughout the United States, which will constitute an expression of diversity and excellence, and which will constitute a source of alternative telecommunications services for all the citizens of the Nation;
 
 &emsp;(6) it is in the public interest to encourage the development of programming that involves creative risks and that addresses the needs of unserved and underserved audiences, particularly children and minorities;
 
@@ -26,7 +26,7 @@ The Congress hereby finds and declares that—
 
 #### (b) Establishment of Corporation; application of District of Columbia Nonprofit Corporation Act
 
-There is authorized to be established a nonprofit corporation, to be known as the “Corporation for Public Broadcasting”, which will not be an agency or establishment of the United States Government. The Corporation shall be subject to the provisions of this section, and, to the extent consistent with this section, to the District of Columbia Nonprofit Corporation Act \[D.C. Code, §29–501 et seq.\].
+There is authorized to be established a nonprofit corporation, to be known as the “Corporation for Public Broadcasting”, which will not be an agency or establishment of the United States Government. The Corporation shall be subject to the provisions of this section, and, to the extent consistent with this section, to the District of Columbia Nonprofit Corporation Act.
 
 #### (c) Board of Directors; functions, duties, etc.
 
@@ -36,7 +36,7 @@ There is authorized to be established a nonprofit corporation, to be known as th
 
 (3) Of the members of the Board appointed by the President under paragraph (1), one member shall be selected from among individuals who represent the licensees and permittees of public television stations, and one member shall be selected from among individuals who represent the licensees and permittees of public radio stations.
 
-(4) The members of the initial Board of Directors shall serve as incorporators and shall take whatever actions are necessary to establish the Corporation under the District of Columbia Nonprofit Corporation Act \[D.C. Code, §29–501 et seq.\].
+(4) The members of the initial Board of Directors shall serve as incorporators and shall take whatever actions are necessary to establish the Corporation under the District of Columbia Nonprofit Corporation Act.
 
 (5) The term of office of each member of the Board appointed by the President shall be 6 years, except as provided in section 5(c) of the Public Telecommunications Act of 1992. Any member whose term has expired may serve until such member's successor has taken office, or until the end of the calendar year in which such member's term has expired, whichever is earlier. Any member appointed to fill a vacancy occurring prior to the expiration of the term for which such member's predecessor was appointed shall be appointed for the remainder of such term. No member of the Board shall be eligible to serve in excess of 2 consecutive full terms.
 
@@ -52,7 +52,7 @@ There is authorized to be established a nonprofit corporation, to be known as th
 
 #### (e) Officers and employees; term of office, compensation, qualifications, and removal; political party affiliation, political test or qualification when taking personnel actions
 
-(1) The Corporation shall have a President, and such other officers as may be named and appointed by the Board for terms and at rates of compensation fixed by the Board. No officer or employee of the Corporation may be compensated by the Corporation at an annual rate of pay which exceeds the rate of basic pay in effect from time to time for level I of the Executive Schedule under section 5312 of title 5. No individual other than a citizen of the United States may be an officer of the Corporation. No officer of the Corporation, other than the Chairman ora Vice Chairman, may receive any salary or other compensation (except for compensation for services on boards of directors of other organizations that do not receive funds from the Corporation, on committees of such boards, and in similar activities for such organizations) from any sources other than the Corporation for services rendered during the period of his or her employment by the Corporation. Service by any officer on boards of directors of other organizations, on committees of such boards, and in similar activities for such organizations shall be subject to annual advance approval by the Board and subject to the provisions of the Corporation's Statement of Ethical Conduct. All officers shall serve at the pleasure of the Board.
+(1) The Corporation shall have a President, and such other officers as may be named and appointed by the Board for terms and at rates of compensation fixed by the Board. No officer or employee of the Corporation may be compensated by the Corporation at an annual rate of pay which exceeds the rate of basic pay in effect from time to time for level I of the Executive Schedule under section 5312 of title 5. No individual other than a citizen of the United States may be an officer of the Corporation. No officer of the Corporation, other than the Chairman or a Vice Chairman, may receive any salary or other compensation (except for compensation for services on boards of directors of other organizations that do not receive funds from the Corporation, on committees of such boards, and in similar activities for such organizations) from any sources other than the Corporation for services rendered during the period of his or her employment by the Corporation. Service by any officer on boards of directors of other organizations, on committees of such boards, and in similar activities for such organizations shall be subject to annual advance approval by the Board and subject to the provisions of the Corporation's Statement of Ethical Conduct. All officers shall serve at the pleasure of the Board.
 
 (2) Except as provided in the second sentence of subsection (c)(1) of this section, no political test or qualification shall be used in selecting, appointing, promoting, or taking other personnel actions with respect to officers, agents, and employees of the Corporation.
 
@@ -102,9 +102,9 @@ There is authorized to be established a nonprofit corporation, to be known as th
 
 > Nothing contained in this paragraph shall be construed to commit the Federal Government to provide any sums for the payment of any obligation of the Corporation which exceeds amounts provided in advance in appropriation Acts.
 
-(3) To carry out the foregoing purposes and engage in the foregoing activities, the Corporation shall have the usual powers conferred upon a nonprofit corporation by the District of Columbia Nonprofit Corporation Act \[D.C. Code, §29–501 et seq.\], except that the Corporation is prohibited from—
+(3) To carry out the foregoing purposes and engage in the foregoing activities, the Corporation shall have the usual powers conferred upon a nonprofit corporation by the District of Columbia Nonprofit Corporation Act, except that the Corporation is prohibited from—
 
-&emsp;(A) owning or operating any television or radio broadcast station, system, or network, community antenna television system, interconnection system or facility, program production facility, or any public telecommunications entity, system, or network; and
+&emsp;(A) owning or operating any television or radio broadcast station, system, or network,community antenna television system, interconnection system or facility, program production facility, or any public telecommunications entity, system, or network; and
 
 &emsp;(B) producing programs, scheduling programs for dissemination, or disseminating programs to the public.
 
@@ -188,7 +188,7 @@ The right to repeal, alter, or amend this section at any time is expressly reser
 
 (B)(i) The Corporation shall utilize the funds allocated pursuant to subparagraph (A)(ii)(II) and subparagraph (A)(iii)(II) to make grants for production of public television or radio programs by independent producers and production entities and public telecommunications entities, producers of national children's educational programming, and producers of programs addressing the needs and interests of minorities, and for acquisition of such programs by public telecommunications entities. The Corporation may make grants to public telecommunications entities and producers for the production of programs in languages other than English. Of the funds utilized pursuant to this clause, a substantial amount shall be distributed to independent producers and production entities, producers of national children's educational programming, and producers of programming addressing the needs and interests of minorities for the production of programs.
 
-(ii) All funds available for distribution under clause (i) shall be distributed to entities outside the Corporation and shall not be used for the general administrative costs of the Corporation, the salaries or related expenses of Corporation personnel and members of the Board, or for expenses of consultants and advisers to the Corporation.
+(ii) All funds available for distribution under clause (i) shall be distributed to entities outside the Corporation and shall not be used for thegeneral administrative costs of the Corporation, the salaries or related expenses of Corporation personnel and members of the Board, or for expenses of consultants and advisers to the Corporation.
 
 (iii)(I) For fiscal year 1990 and succeeding fiscal years, the Corporation shall, in carrying out its obligations under clause (i) with respect to public television programming, provide adequate funds for an independent production service.
 
@@ -216,7 +216,7 @@ The right to repeal, alter, or amend this section at any time is expressly reser
 
 &emsp;(iii) assure that each eligible licensee and permittee of a public radio station receives a basic grant.
 
-(7) The funds distributed pursuant to paragraph (3)(A)(ii)(I) and (iii)(I) may be used at the discretion of the recipient for purposes related primarily to the production or acquisition of programming.
+(7) The funds distributed pursuant to paragraph (3)(A)(ii)(I) and (iii)(I) may be used at thediscretion of the recipient for purposes related primarily to the production or acquisition of programming.
 
 (8)(A) Funds may not be distributed pursuant to this subpart to any public broadcast station (other than any station which is owned and operated by a State, a political or special purpose subdivision of a State, or a public agency) unless such station establishes a community advisory board. Any such station shall undertake good faith efforts to assure that (i) its advisory board meets at regular intervals; (ii) the members of its advisory board regularly attend the meetings of the advisory board; and (iii) the composition of its advisory board are <sup>2</sup> reasonably representative of the diverse needs and interests of the communities served by such station.
 
@@ -290,7 +290,7 @@ The right to repeal, alter, or amend this section at any time is expressly reser
 
 (B) A report of each such audit shall be made by the Comptroller General to the Congress. The report to the Congress shall contain such comments and information as the Comptroller General may deem necessary to inform Congress of the financial operations and condition of the Corporation, together with such recommendations with respect thereto as he may deem advisable. The report shall also show specifically any program, expenditure, or other financial transaction or undertaking observed in the course of the audit, which, in the opinion of the Comptroller General, has been carried on or made without authority of law. A copy of each report shall be furnished to the President, to the Secretary, and to the Corporation at the time submitted to the Congress.
 
-(3)(A) Not later than 1 year after November 2, 1978, the Corporation, in consultation with the Comptroller General, and as appropriate with others, shall develop accounting principles which shall be used uniformly by all public telecommunications entities receiving funds under this subpart, taking into account organizationaldifferences among various categories of such entities. Such principles shall be designed to account fully for all funds received and expended for public telecommunications purposes by such entities.
+(3)(A) Not later than 1 year after November 2, 1978, the Corporation, in consultation with the Comptroller General, and as appropriate with others, shall develop accounting principles which shall be used uniformly by all public telecommunications entities receiving funds under this subpart, taking into account organizational differences among various categories of such entities. Such principles shall be designed to account fully for all funds received and expended for public telecommunications purposes by such entities.
 
 (B) Each public telecommunications entity receiving funds under this subpart shall be required—
 
@@ -332,11 +332,11 @@ The right to repeal, alter, or amend this section at any time is expressly reser
 
 (3) As soon as they have been prepared, each assessment and annual report required under paragraphs (1) and (2) shall be submitted to Congress.
 
-(June 19, 1934, ch. 652, title III, §396, as added Pub. L. 90–129, title II, §201(9), Nov. 7, 1967, 81 Stat. 368; amended Pub. L. 90–294, Apr. 26, 1968, 82 Stat. 108; Pub. L. 91–97, §3, Oct. 27, 1969, 83 Stat. 146; Pub. L. 91–437, §2, Oct. 7, 1970, 84 Stat. 888; Pub. L. 92–411, §1, Aug. 29, 1972, 86 Stat. 643; Pub. L. 93–84, §1(a), (b), Aug. 6, 1973, 87 Stat. 219; Pub. L. 94–192, §§2–4, Dec. 31, 1975, 89 Stat. 1099, 1100; Pub. L. 95–567, title III, §§301–303(a), 304–307(a), 308, Nov. 2, 1978, 92 Stat. 2411, 2412, 2414, 2415, 2419; Pub. L. 97–35, title XII, §§1224, 1225(a)(1), (b), (c), 1226, 1227(a)–(c)(3), (d)(1), (2), (e)–(g), 1228, 1234(a), Aug. 13, 1981, 95 Stat. 725–730, 736; Pub. L. 98–214, §§3, 5, 6, Dec. 8, 1983, 97 Stat. 1467–1469; Pub. L. 99–272, title V, §5001(c), Apr. 7, 1986, 100 Stat. 117; Pub. L. 100–626, §§3, 4(a), 5–9(a), Nov. 7, 1988, 102 Stat. 3207–3211; Pub. L. 102–356, §§4, 5(a), (b), 6–14, Aug. 26, 1992, 106 Stat. 949–953; Pub. L. 105–277, div. A, §101(f) \[title VII, §701\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–389; Pub. L. 106–113, div. B, §1000(a)(9) \[title V, §5002(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–592.)
+(June 19, 1934, ch. 652, title III, §396, as added Pub. L. 90–129, title II, §201(9), Nov. 7, 1967, 81 Stat. 368; amended Pub. L. 90–294, Apr. 26, 1968, 82 Stat. 108; Pub. L. 91–97, §3, Oct. 27, 1969, 83Stat. 146; Pub. L. 91–437, §2, Oct. 7, 1970, 84 Stat. 888; Pub. L. 92–411, §1, Aug. 29, 1972, 86 Stat. 643; Pub. L. 93–84, §1(a), (b), Aug. 6, 1973, 87 Stat. 219; Pub. L. 94–192, §§2–4, Dec. 31, 1975, 89 Stat. 1099, 1100; Pub. L. 95–567, title III, §§301–303(a), 304–307(a), 308, Nov. 2, 1978, 92 Stat. 2411, 2412, 2414, 2415, 2419; Pub. L. 97–35, title XII, §§1224, 1225(a)(1), (b), (c), 1226, 1227(a)–(c)(3), (d)(1), (2), (e)–(g), 1228, 1234(a), Aug. 13, 1981, 95 Stat. 725–730, 736; Pub. L. 98–214, §§3, 5, 6, Dec. 8, 1983, 97 Stat. 1467–1469; Pub. L. 99–272, title V, §5001(c), Apr. 7, 1986, 100 Stat. 117; Pub. L. 100–626, §§3, 4(a), 5–9(a), Nov. 7, 1988, 102 Stat. 3207–3211; Pub. L. 102–356, §§4, 5(a), (b), 6–14, Aug. 26, 1992, 106 Stat. 949–953; Pub. L. 105–277, div. A, §101(f) \[title VII, §701\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–389; Pub. L. 106–113, div. B, §1000(a)(9) \[title V, §5002(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–592.)
 
 #### References in Text
 
-The District of Columbia Nonprofit Corporation Act, referred to in subsecs. (b), (c)(4), and (g)(3), is Pub. L. 87–569, Aug. 6, 1962, 76 Stat. 265, as amended, which appears in chapter 5 (§29–501 et seq.) of Title 29, Corporations, of the District of Columbia Code.
+The District of Columbia Nonprofit Corporation Act, referred to in subsecs. (b), (c)(4), and (g)(3), is Pub. L. 87–569, Aug. 6, 1962, 76 Stat. 265, as amended, which is not classified to the Code.
 
 Section 5(c) of the Public Telecommunications Act of 1992, referred to in subsec. (c)(5), is section 5(c) of Pub. L. 102–356, which is set out below.
 
@@ -470,7 +470,7 @@ Subsec. (k)(1)(C). Pub. L. 97–35, §1227(a), extended authorization of appropr
 
 Subsec. (k)(2)(B). Pub. L. 97–35, §1227(b), substituted fiscal year basis for disbursement for quarterly basis.
 
-Subsec. (k)(3)(A). Pub. L. 97–35, §1227(c)(1), amended subpar. (A) generally, substituting provisions mandating the establishment by the Corporation of an annual budget for use in allocating amounts from the Fund, setting out the allocation and distribution formulae, and providing for interconnecting facilities and operations costs for making public television and radio programs available to public broadcast stations for former provisions which had directed the Corporation to reserve for distribution among the licensees and permittees of public television and radio stations an amount equal to (i) not less than 40 percent of the funds disbursed by the Corporation from the Fund under this section in each fiscal year in which the amount disbursed was $88,000,000 or more, but less than $121,000,000; (ii) not less than 45 percent of such funds in each fiscal year in which the amount disbursed was $121,000,000 or more, but less than $160,000,000; and (iii) not less than 50 percent of such funds in each fiscal year in which the amount disbursed was $160,000,000 or more.
+Subsec. (k)(3)(A). Pub. L. 97–35, §1227(c)(1), amended subpar. (A) generally, substituting provisions mandating the establishment by the Corporation of an annual budget for use in allocating amounts from the Fund, setting out the allocation and distribution formulae, and providing for interconnecting facilities and operations costs for making public television and radio programs available to public broadcast stations for former provisions which had directed the Corporation to reserve for distribution among the licensees and permittees of public television and radio stations an amount equal to (i) not less than 40 percent of the funds disbursed by the Corporation from the Fund under thissection in each fiscal year in which the amount disbursed was $88,000,000 or more, but less than $121,000,000; (ii) not less than 45 percent of such funds in each fiscal year in which the amount disbursed was $121,000,000 or more, but less than $160,000,000; and (iii) not less than 50 percent of such funds in each fiscal year in which the amount disbursed was $160,000,000 or more.
 
 Subsec. (k)(3)(B)(i). Pub. L. 97–35, §1227(c)(2), amended cl. (i) generally, substituting “The Corporation shall utilize the funds allocated pursuant to subparagraph (A)(ii)(II) and subparagraph (A)(iii)(II), and a significant portion of such other funds as may be available to the Corporation, to make grants and contracts for production of public television or radio programs by independent producers and production entities and public telecommunications entities, and for acquisition of such programs by public telecommunications entities. Of the funds utilized pursuant to this clause, a substantial amount shall be reserved for distribution to independent producers and production entities for the production of programs” for “The Corporation shall establish an annual budget according to which it shall made grants and contracts for production of public television or radio programs by independent producers and production entities and public telecommunications entities, for acquisition of such programs by public telecommunications entities, for interconnection facilities and operations, for distribution of funds among public telecommunications entities, and for engineering and program-related research. A significant portion of funds available under the budget established by the Corporation under this subparagraph shall be used for funding the production of television and radio programs. Of such portion, a substantial amount shall be reserved for distribution to independent producers and production entities for the production of programs”.
 
@@ -512,7 +512,7 @@ Subsec. (i). Pub. L. 94–192, §4, directed that officers and directors be avai
 
 Subsec. (k)(3) to (7). Pub. L. 94–192, §2, added pars. (3) to (7).
 
-1973—Subsec. (k)(1). Pub. L. 93–84, §1(a), substituted authorization of appropriation of $50,000,000 and $60,000,000 for the fiscal years ending June 30, 1974 and June 30, 1975, respectively, for authorization of appropriation of $40,000,000 for the fiscal year ending June 30, 1973.
+1973—Subsec. (k)(1). Pub. L. 93–84, §1(a), substituted authorization of appropriation of $50,000,000 and $60,000,000 for the fiscal years ending June 30, 1974 andJune 30, 1975, respectively, for authorization of appropriation of $40,000,000 for the fiscal year ending June 30, 1973.
 
 Subsec. (k)(2). Pub. L. 93–84, §1(b), substituted “1975” for “1973”.
 
@@ -550,6 +550,10 @@ Section 1227(d)(3) of Pub. L. 97–35 provided that: “The amendments made in t
 
 Amendment by Pub. L. 95–567 effective Nov. 2, 1978, see section 403 of Pub. L. 95–567, set out as a note under section 390 of this title.
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which reports required under subsecs. (i), (k)(3)(B)(iii)(V)(1st sentence), and (m) of this section are listed as the 10th through 13th items on page 199), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+
 #### Transition Rules Relating to Term of Office of Board of Directors of Corporation for Public Broadcasting
 
 Section 5(c) of Pub. L. 102–356 provided that:
@@ -584,7 +588,7 @@ Section 19 of Pub. L. 102–356 provided that: “Pursuant to the existing respo
 
 &emsp;&emsp;“(D) disseminate among public broadcasting entities information about its efforts to address concerns about objectivity and balance relating to programming of a controversial nature so that such entities can utilize the Corporation's experience in addressing such concerns within their own operations; and
 
-&emsp;“(3) starting in 1993, by January 31 of each year, prepare and submit to the President for transmittalto the Congress a report summarizing its efforts pursuant to paragraphs (1) and (2).”
+&emsp;“(3) starting in 1993, by January 31 of each year, prepare and submit to the President for transmittal to the Congress a report summarizing its efforts pursuant to paragraphs (1) and (2).”
 
 #### Consumer Information; Disclosure of Funding
 

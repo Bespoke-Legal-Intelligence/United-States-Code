@@ -20,7 +20,7 @@ Each State educational agency receiving an allotment under this part shall—
 
 #### (2) Capital improvements
 
-&emsp;Grant funds under this part may not be used for capital improvements. Not more than 50 percent of any matching funds provided by the local educational agency may be used for capital improvements of classroom science facilities to support the hands-on instruction that this part is intended to support, such as theinstallation of electrical outlets, plumbing, lab tables or counters, or ventilation mechanisms.
+&emsp;Grant funds under this part may not be used for capital improvements. Not more than 50 percent of any matching funds provided by the local educational agency may be used for capital improvements of classroom science facilities to support the hands-on instruction that this part is intended to support, such as the installation of electrical outlets, plumbing, lab tables or counters, or ventilation mechanisms.
 
 (Pub. L. 89–10, title III, §3507, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3670.)
 

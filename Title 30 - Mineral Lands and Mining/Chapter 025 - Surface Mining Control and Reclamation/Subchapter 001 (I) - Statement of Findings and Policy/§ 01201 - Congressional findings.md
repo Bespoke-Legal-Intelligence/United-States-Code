@@ -18,7 +18,7 @@ The Congress finds and declares that—
 
 &emsp;(h) there are a substantial number of acres of land throughout major regions of the United States disturbed by surface and underground coal on which little or no reclamation was conducted, and the impacts from these unreclaimed lands impose social and economic costs on residents in nearby and adjoining areas as well as continuing to impair environmental quality;
 
-&emsp;(i) while there is a need to regulate surface mining operations for minerals other than coal, more data and analyses are needed toserve as a basis for effective and reasonable regulation of such operations;
+&emsp;(i) while there is a need to regulate surface mining operations for minerals other than coal, more data and analyses are needed to serve as a basis for effective and reasonable regulation of such operations;
 
 &emsp;(j) surface and underground coal mining operations affect interstate commerce, contribute to the economic well-being, security, and general welfare of the Nation and should be conducted in an environmentally sound manner; and
 

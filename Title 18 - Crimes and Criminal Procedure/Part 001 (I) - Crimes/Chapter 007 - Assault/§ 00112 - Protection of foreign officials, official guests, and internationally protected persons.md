@@ -6,7 +6,7 @@
 
 &emsp;(1) intimidates, coerces, threatens, or harasses a foreign official or an official guest or obstructs a foreign official in the performance of his duties;
 
-&emsp;(2) attempts to intimidate, coerce, threaten, or harass a foreign official or an official guestor obstruct a foreign official in the performance of his duties; or
+&emsp;(2) attempts to intimidate, coerce, threaten, or harass a foreign official or an official guest or obstruct a foreign official in the performance of his duties; or
 
 &emsp;(3) within the United States and within one hundred feet of any building or premises in whole or in part owned, used, or occupied for official business or for diplomatic, consular, or residential purposes by—
 
@@ -68,7 +68,7 @@ Subsec. (a). Pub. L. 94–467 substituted “official guest, or internationally 
 
 Subsec. (b). Pub. L. 94–467 restructured subsec. (b) and added pars. (2) and (3).
 
-Subsec. (c). Pub. L. 94–467 redesignated subsec. (d) as (c), inserted “internationally protected persons”, and struck out reference to section 1116(c) of this title. Former subsec. (c), which related to punishment for intimidating or harassing demonstrations against foreign officials or any combination of two or more persons for such purposes, within one hundred feet of any buildings or premises owned by a foreign government located within the United States but outside the District of Columbia, was struck out.
+Subsec. (c). Pub. L. 94–467 redesignated subsec. (d) as (c), inserted “internationally protected persons”, andstruck out reference to section 1116(c) of this title. Former subsec. (c), which related to punishment for intimidating or harassing demonstrations against foreign officials or any combination of two or more persons for such purposes, within one hundred feet of any buildings or premises owned by a foreign government located within the United States but outside the District of Columbia, was struck out.
 
 Subsecs. (d) to (f). Pub. L. 94–467 added subsecs. (e) and (f) and redesignated former subsecs. (d) and (e) as (c) and (d), respectively.
 
@@ -111,12 +111,6 @@ Section 3 of Pub. L. 92–539 provided that: “Nothing contained in this Act \[
 #### Immunity From Criminal Prosecution
 
 Section 5 of Pub. L. 88–493 provided that: “Nothing contained in this Act \[amending this section and section 1114 of this title, and enacting section 170e–1 of former Title 5, Executive Departments and Government Officers and Employees\] shall create immunity from criminal prosecution under any laws in any State, Commonwealth of Puerto Rico, territory, possession, or the District of Columbia.”
-
-#### Cross References
-
-Actions or proceedings by ambassadors or other public ministers, jurisdiction of Supreme Court, see section 1251 of Title 28, Judiciary and Judicial Procedure.
-
-Alien's action for tort, jurisdiction of district courts, see section 1350 of Title 28.
 
 #### Section Referred to in Other Sections
 

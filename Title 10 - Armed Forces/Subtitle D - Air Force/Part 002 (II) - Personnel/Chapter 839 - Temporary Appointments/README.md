@@ -4,7 +4,7 @@
 | :--- | ---: |
 | \[8441 to 8445. Repealed.\] |  |
 | [8446\.](%C2%A7%2008446%20-%20Retention%20on%20active%20duty.md) | Retention on active duty. |
-| \[8447 to 8352. Repealed.\] |  |
+| \[8447 to 8452. Repealed.\] |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

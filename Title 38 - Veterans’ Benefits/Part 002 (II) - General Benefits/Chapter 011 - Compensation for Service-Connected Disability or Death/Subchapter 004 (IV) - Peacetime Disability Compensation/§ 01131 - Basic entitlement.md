@@ -24,10 +24,6 @@ Amendment by Pub. L. 101–508 effective with respect to claims filed after Oct.
 
 Pub. L. 105–206, title IX, §9014(a), July 22, 1998, 112 Stat. 865, provided that section 8202 of Pub. L. 105–178 is amended generally and that the amendments made by that section as originally enacted shall be treated for all purposes as not having been made.
 
-#### Cross References
-
-Naval Reserves and Marine Corps Reserve, disability and death benefits, see section 6148 of Title 10, Armed Forces.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1132, 1133, 1134 of this title.

@@ -16,7 +16,7 @@ There is hereby established the Medicare Payment Advisory Commission (in this se
 
 &emsp;&emsp;(C) by not later than March 1 of each year (beginning with 1998), submit a report to Congress containing the results of such reviews and its recommendations concerning such policies; and
 
-&emsp;&emsp;(D) by not later than June 1 of each year (beginning with 1998), submit a report to Congress containing an examination of issues affecting the medicare program, including the implications of changes in health care delivery in the United States and in the market for health care services on the medicare program and including a review of the estimate of the conversion factor submitted under section 1395w–4(d)(1)(E)(ii) of this title.
+&emsp;&emsp;(D) by not later than June 15 of each year, submit a report to Congress containing an examination of issues affecting the medicare program, including the implications of changes in health care delivery in the United States and in the market for health care services on the medicare program and including a review of the estimate of the conversion factor submitted under section 1395w–4(d)(1)(E)(ii) of this title.
 
 #### (2) Specific topics to be reviewed
 
@@ -30,7 +30,7 @@ There is hereby established the Medicare Payment Advisory Commission (in this se
 
 &emsp;&emsp;&emsp;(iii) The implications of risk selection both among Medicare+Choice organizations and between the Medicare+Choice option and the original medicare fee-for-service option.
 
-&emsp;&emsp;&emsp;(iv) The development and implementation of mechanisms to assure the qualityof care for those enrolled with Medicare+�Choice organizations.
+&emsp;&emsp;&emsp;(iv) The development and implementation of mechanisms to assure the quality of care for those enrolled with Medicare+�Choice organizations.
 
 &emsp;&emsp;&emsp;(v) The impact of the Medicare+Choice program on access to care for medicare beneficiaries.
 
@@ -60,11 +60,15 @@ There is hereby established the Medicare Payment Advisory Commission (in this se
 
 #### (5) Availability of reports
 
-&emsp;The Commission shall transmit to the Secretary a copy of each report submitted under this subsection and shall make such reports available to the public.
+&emsp;The Commission shall transmit to the Secretary a copy of each report submitted underthis subsection and shall make such reports available to the public.
 
 #### (6) Appropriate committees of Congress
 
 &emsp;For purposes of this section, the term “appropriate committees of Congress” means the Committees on Ways and Means and Commerce of the House of Representatives and the Committee on Finance of the Senate.
+
+#### (7) Voting and reporting requirements
+
+&emsp;With respect to each recommendation contained in a report submitted under paragraph (1), each member of the Commission shall vote on the recommendation, and the Commission shall include, by member, the results of that vote in the report containing the recommendation.
 
 #### (c) Membership
 
@@ -102,7 +106,7 @@ There is hereby established the Medicare Payment Advisory Commission (in this se
 
 #### (4) Compensation
 
-&emsp;While serving on the business of the Commission (including traveltime), a member of the Commission shall be entitled to compensation at the per diem equivalent of the rateprovided for level IV of the Executive Schedule under section 5315 of title 5; and while so serving away from home and the member's regular place of business, a member may be allowed travel expenses, as authorized by the Chairman of the Commission. Physicians serving as personnel of the Commission may be provided a physician comparability allowance by the Commission in the same manner as Government physicians may be provided such an allowance by an agency under section 5948 of title 5, and for such purpose subsection (i) of such section shall apply to the Commission in the same manner as it applies to the Tennessee Valley Authority. For purposes of pay (other than pay of members of the Commission) and employment benefits, rights, and privileges, all personnel of the Commission shall be treated as if they were employees of the United States Senate.
+&emsp;While serving on the business of the Commission (including traveltime), a member of the Commission shall be entitled to compensation at the per diem equivalent of the rate provided for level IV of the Executive Schedule under section 5315 of title 5; and while so serving away from home and the member's regular place of business, a member may be allowed travel expenses, as authorized by the Chairman of the Commission. Physicians serving as personnel of the Commission may be provided a physician comparability allowance by the Commission in the same manner as Government physicians may be provided such an allowance by an agency under section 5948 of title 5, and for such purpose subsection (i) of such section shall apply to the Commission in the same manner as it applies to the Tennessee Valley Authority. For purposes of pay (other than pay of members of the Commission) and employment benefits, rights, and privileges, all personnel of the Commission shall be treated as if they were employees of the United States Senate.
 
 #### (5) Chairman; Vice Chairman
 
@@ -162,7 +166,7 @@ Subject to such review as the Comptroller General deems necessary to assure the 
 
 &emsp;There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section. Sixty percent of such appropriation shall be payable from the Federal Hospital Insurance Trust Fund, and 40 percent of such appropriation shall be payable from the Federal Supplementary Medical Insurance Trust Fund.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1805, as added Pub. L. 105–33, title IV, §4022(a), Aug. 5, 1997, 111 Stat. 350; amended Pub. L. 105–277, div. J, title V, §5202(a), Oct. 21, 1998, 112 Stat. 2681–917; Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §211(a)(2)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–347.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1805, as added Pub. L. 105–33, title IV, §4022(a), Aug. 5, 1997, 111 Stat. 350; amended Pub. L. 105–277, div. J, title V, §5202(a), Oct. 21, 1998, 112 Stat. 2681–917; Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §211(a)(2)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–347; Pub. L. 106–554, §1(a)(6) \[title V, §544(a)(1), (b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–551.)
 
 #### References in Text
 
@@ -172,9 +176,17 @@ The provisions of title 5 governing appointments in the competitive service, ref
 
 #### Amendments
 
+2000—Subsec. (b)(1)(D). Pub. L. 106–554, §1(a)(6) \[title V, §544(a)(1)\], substituted “June 15 of each year,” for “June 1 of each year (beginning with 1998),”.
+
+Subsec. (b)(7). Pub. L. 106–554, §1(a)(6) \[title V, §544(b)\], added par. (7).
+
 1999—Subsec. (b)(1)(D). Pub. L. 106–113 inserted “and including a review of the estimate of the conversion factor submitted under section 1395w–4(d)(1)(E)(ii) of this title” before period at end.
 
 1998—Subsec. (c)(1). Pub. L. 105–277 substituted “17” for “15”.
+
+#### Effective Date of 2000 Amendment
+
+Pub. L. 106–554, §1(a)(6) \[title V, §544(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–551, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply beginning with 2001.”
 
 #### Effective Date of 1999 Amendment
 
@@ -195,6 +207,14 @@ Transition.—As quickly as possible after the date a majority of members of Med
 “(3)
 
 Continuing responsibility for reports.—The MedPAC shall be responsible for the preparation and submission of reports required by law to be submitted (and which have not been submitted by the date of establishment of the MedPAC) by the ProPAC and the PPRC, and, for this purpose, any reference in law to either such Commission is deemed, after the appointment of the MedPAC, to refer to the MedPAC.”
+
+#### MedPAC Analysis of Impact of Volume on Per Unit Cost of Rural Hospitals With Psychiatric Units
+
+Pub. L. 106–554, §1(a)(6) \[title II, §214\], Dec. 21, 2000, 114 Stat. 2763, 2763A–486, provided that: “The MedicarePayment Advisory Commission, in its study conducted pursuant to subsection (a) of section 411 of BBRA \[Pub. L. 106–113, §1000(a)(6) \[title IV, §411\], set out as a note below\] (113 Stat. 1501A–377), shall include—
+
+&emsp;“(1) in such study an analysis of the impact of volume on the per unit cost of rural hospitals with psychiatric units; and
+
+&emsp;“(2) in its report under subsection (b) of such section a recommendation on whether special treatment for such hospitals may be warranted.”
 
 #### MedPAC Study on Complexity of Medicare Program and Levels of Burdens Placed on Providers Through Federal Regulations
 

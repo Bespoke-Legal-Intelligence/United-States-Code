@@ -2,7 +2,7 @@
 
 (a) Any submission of legislation by the Judicial or Executive branch which could increase or decrease the number of persons incarcerated in Federal penal institutions shall be accompanied by a prison impact statement (as defined in subsection (b)).
 
-(b) The Attorney General shall, in consultation with the Sentencing Commission and the Administrative Office of the United States Courts, prepare and furnish prison impact assessments under subsection (c) of this section, and in response to requests from Congress for information relating to a pending measure or matter that might affect the number of defendants processed through the Federal criminal justice system. A prison impact assessment on pending legislation must be supplied within 21 days of any request. A prison impact assessment shall include—
+(b) The Attorney General shall, in consultation with the Sentencing Commission and the Administrative Office of the United States Courts, prepare and furnish prison impact assessments under subsection (c) of this section, and in response to requests from Congress for information relating to a pending measure or matter that might affect the number of defendants processed through the Federal criminal justicesystem. A prison impact assessment on pending legislation must be supplied within 21 days of any request. A prison impact assessment shall include—
 
 &emsp;(1) projections of the impact on prison, probation, and post prison supervision populations;
 

@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(ii) serve in a reserve component of that armed force until the eighth anniversary of the receipt of such appointment, unless otherwise extended by subsection (d) of section 2108 of this title, under such terms and conditions as shall be prescribed by the Secretary of the military department concerned; or
 
-&emsp;&emsp;(C)(i) accept an appointment, if offered, as a commissioned officer in the Army, Navy,Air Force, or Marine Corps, as the case may be; and
+&emsp;&emsp;(C)(i) accept an appointment, if offered, as a commissioned officer in the Army, Navy, Air Force, or Marine Corps, as the case may be; and
 
 &emsp;&emsp;(ii) serve in a reserve component of that armed force until at least the sixth anniversary and, at the discretion of the Secretary of Defense, up to the eighth anniversary of the receipt of such appointment, unless such appointment is otherwise extended by subsection (d) of section 2108 of this title, under such terms and conditions as may be prescribed by the Secretary of the military department concerned.
 
@@ -78,7 +78,7 @@ Subsec. (b)(5)(C)(ii). Pub. L. 98–525, §542(a)(2), substituted “at least th
 
 1983—Subsec. (b)(5). Pub. L. 98–94, §1003(c)(1), struck out “either” after “he will” in provisions preceding subpar. (A)(i), and added subpar. (C).
 
-Pub. L. 98–94, §1003(c)(2), inserted in provisions following subpar. (C) “or (5)(C)” after “(5)(B)” and “, except that performance of service under clause (5)(C) shall include not less than two years of active duty”.
+Pub. L. 98–94, §1003(c)(2), inserted in provisions following subpar. (C) “or (5)(C)” after “(5)(B)” and“, except that performance of service under clause (5)(C) shall include not less than two years of active duty”.
 
 Subsec. (c). Pub. L. 98–94, §1003(a)(3), inserted provision relating to a student enrolled in an approved academic program which requires more than four academic years for completion of the baccalaureate degree requirements.
 
@@ -162,7 +162,7 @@ No increase in pay or retired or retainer pay to accrue for periods before Sept.
 
 #### Report to Congress on Test Program for Graduate Student Participation in Financial Assistance Program
 
-Section 553(c) of Pub. L. 104–201 provided that: “Not later than December 31, 1998, the Secretary of Defense shall submit to Congress a report on the experience to that date under the test program authorized under the amendment made by subsection (a)(2) \[amending this section\]. The report shall include the Secretary's assessment of the effect of the test program on the Senior ROTC program and the Secretary's recommendation as to whether the authority under the test program should be made permanent.”
+Section 553(c) of Pub. L. 104–201 provided that: “Not later than December 31, 1998, the Secretary of Defense shall submit to Congress a report on the experience tothat date under the test program authorized under the amendment made by subsection (a)(2) \[amending this section\]. The report shall include the Secretary's assessment of the effect of the test program on the Senior ROTC program and the Secretary's recommendation as to whether the authority under the test program should be made permanent.”
 
 #### Application of ROTC Vitalization Act of 1964 to Appointees in Naval Reserve Before October 13, 1964
 

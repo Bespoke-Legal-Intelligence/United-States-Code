@@ -24,7 +24,7 @@ Copyrights in Their First Term on January 1, 1978.—(1)(A) Any copyright, the f
 
 > shall be entitled to a renewal and extension of the copyright in such work for a further term of 67 years.
 
-(2)(A) At the expiration of the original term of copyright in a work specified in paragraph (1)(B)of this subsection, the copyright shall endure for a renewed and extended further term of 67 years, which—
+(2)(A) At the expiration of the original term of copyright in a work specified in paragraph (1)(B) of this subsection, the copyright shall endure for a renewed and extended further term of 67 years, which—
 
 &emsp;(i) if an application to register a claim to such further term has been made to the Copyright Office within 1 year before the expiration of the original term of copyright, and the claim is registered, shall vest, upon the beginning of such further term, in the proprietor of the copyright who is entitled to claim the renewal of copyright at the time the application is made; or
 
@@ -46,7 +46,7 @@ Copyrights in Their First Term on January 1, 1978.—(1)(A) Any copyright, the f
 
 (4)(A) If an application to register a claim to the renewed and extended term of copyright in a work is not made within 1 year before the expiration of the original term of copyright in a work, or if the claim pursuant to such application is not registered, then a derivative work prepared under authority of a grant of a transfer or license of the copyright that is made before the expiration of the original term of copyright may continue to be used under the terms of the grant during the renewed and extended term of copyright without infringing the copyright, except that such use does not extend to the preparation during such renewed and extended term of other derivative works based upon the copyrighted work covered by such grant.
 
-(B) If an application to register a claim to the renewed and extended term of copyright in a work is made within 1 year before its expiration, and the claim is registered, the certificate of such registration shall constitute prima facie evidence as to the validity of the copyright during its renewed and extended term and of the facts stated in the certificate. The evidentiary weight to be accorded the certificates of a registration of a renewed and extended term of copyright made after the end of that 1-year period shall be within the discretion of the court.
+(B) If an application to register a claim to the renewed and extended term of copyright in a work is made within 1 year before its expiration, and the claim is registered, the certificate ofsuch registration shall constitute prima facie evidence as to the validity of the copyright during its renewed and extended term and of the facts stated in the certificate. The evidentiary weight to be accorded the certificates of a registration of a renewed and extended term of copyright made after the end of that 1-year period shall be within the discretion of the court.
 
 (b)
 
@@ -96,7 +96,7 @@ Termination of Transfers and Licenses Covering Extended Renewal Term.—In the c
 
 Termination Rights Provided in Subsection (c)
 
-Which Have Expired on or Before the Effective Date of the Sonny Bono Copyright Term Extension Act.—In the case of any copyright other than a work made for hire, subsisting in its renewal term on the effective date of the Sonny Bono Copyright Term Extension Act for which the termination right provided in subsection (c) has expired by such date, where the author or owner of the termination right has not previously exercised such termination right, the exclusive or nonexclusive grant of a transfer or license of the renewal copyright or any right under it, executed before January 1, 1978, by anyof the persons designated in subsection (a)(1)(C) of this section, other than by will, is subject to termination under the following conditions:
+Which Have Expired on or Before the Effective Date of the Sonny Bono Copyright Term Extension Act.—In the case of any copyright other than a work made for hire, subsisting in its renewal term on the effective date of the Sonny Bono Copyright Term Extension Act for which the termination right provided in subsection (c) has expired by such date, where the author or owner of the termination right has not previously exercised such termination right, the exclusive or nonexclusive grant of a transfer or license of the renewal copyright or any right under it, executed before January 1, 1978, by any of the persons designated in subsection (a)(1)(C) of this section, other than by will, is subject to termination under the following conditions:
 
 &emsp;(1) The conditions specified in subsections (c)(1), (2), (4), (5), and (6) of this section apply to terminations of the last 20 years of copyright term as provided by the amendments made by the Sonny Bono Copyright Term Extension Act.
 
@@ -118,7 +118,7 @@ Although the bill preserves the language of the present renewal provision withou
 
 Subsection (b) also covers the special situation of a subsisting first-term copyright that becomes eligible for renewal registration during the year before the act comes into effect. If a renewal registration is not made before the effective date \[Jan. 1, 1978\], the case is governed by the provisions of section 304(a) \[subsec. (a) of this section\]. If a renewal registration is made during the year before the new law takes effect, however, the copyright would be treated as if it were already subsisting in its second term and would be extended to the full period of 75 years without the need for further renewal.
 
-<b>Termination of Grants Covering Extended Term.</b> An issue underlying the 19-year extension of renewal terms under both subsections (a) and (b) of section 304 \[subsecs. (a) and (b) of this section\] is whether, in a case where their rights have already been transferred, the author or the dependents of the author should be given a chance to benefit from the extended term. The arguments for granting rights of termination are even more persuasive under section 304 than they are under section 203; the extended term represents a completely new property right, and there are strong reasons for giving the author, who is the fundamental beneficiary of copyright under the Constitution, an opportunity to share in it.
+<b>Termination of Grants Covering Extended Term.</b> An issue underlying the 19-year extension of renewal terms under both subsections (a) and (b) of section 304 \[subsecs. (a) and (b) of this section\] is whether, in a case where their rights have already been transferred, theauthor or the dependents of the author should be given a chance to benefit from the extended term. The arguments for granting rights of termination are even more persuasive under section 304 than they are under section 203; the extended term represents a completely new property right, and there are strong reasons for giving the author, who is the fundamental beneficiary of copyright under the Constitution, an opportunity to share in it.
 
 Subsection (c) of section 304 is a close but not exact counterpart of section 203. In the case of either a first-term or renewal copyright already subsisting when the new statute becomes effective \[Jan. 1, 1978\], any grant of rights covering the renewal copyright in the work, executed before the effective date \[Jan. 1, 1978\], may be terminated under conditions and limitations similar to those provided in section 203. Except for transfers and licenses covering renewal copyrights already extended under Public Laws 87–668, 89–142, 90–141, 90–416, 91–147, 91–555, 92–170, 92–566, and 93–573, which would become subject to termination immediately upon the coming into effect of the revised law, the 5-year period during which termination could be made effective would start 56 years after copyright was originally secured.
 
@@ -128,7 +128,7 @@ There is good reason for this difference. Under section 203, an author's widow o
 
 As explained above in connection with section 203, the bill adopts the principle that, where a transfer or license by the author is involved, termination may be effected by a per stirpes majority of those entitled to terminate, and this principle also applies to the ownership of rights under a termination and to the making of further grants of reverted rights. In general, this principle has also been adopted with respect to the termination of rights under an extended renewal copyright in section 304, but with several differences made necessary by the differences between the legal status of transfers and licenses made after the effective date of the new law \[Jan. 1, 1978\] (governed by section 203) and that of grants of renewal rights made earlier and governed by section 304(c). The following are the most important distinctions between the termination rights under the two sections:
 
-&emsp;<i>1. Joint Authorship</i>.—Under section 304, a grant of renewal rights executed by joint authors during the first term of copyright would be effective only as to those who were living at the time of renewal; where any of them are dead, their statutory beneficiaries are entitled to claim the renewal independently as anew estate. It would therefore be inappropriate to impose a requirement of majority action with respect to transfers executed by two or more joint authors.
+&emsp;<i>1. Joint Authorship</i>.—Under section 304, a grant of renewal rights executed by joint authors during the first term of copyright would be effective only as to those who were living at the time of renewal; where any of them are dead, their statutory beneficiaries are entitled to claim the renewal independently as a new estate. It would therefore be inappropriate to impose a requirement of majority action with respect to transfers executed by two or more joint authors.
 
 &emsp;<i>2. Grants Not Executed by Author</i>.—Section 304(c) adopts the majority principle underlying the amendments of section 203 \[section 203 of this title\] with respect to the termination rights of a dead author's widow or widower and children. There is much less reason, as a matter of policy, to apply this principle in the case of transfers and licenses of renewal rights executed under the present law by the author's widow, widower, children, executors, or next of kin, and the practical arguments against doing so are conclusive. It is not clear how the shares of a class of renewal beneficiaries are to be divided under the existing law, and greater difficulties would be presented if any attempt were made to apply the majority principle to further beneficiaries in cases where one or more of the renewal beneficiaries are dead. Therefore, where the grant was executed by a person or persons other than the author, termination can be effected only by the unanimous action of the survivors of those who executed it.
 
@@ -207,16 +207,6 @@ Pub. L. 90–141, Nov. 16, 1967, 81 Stat. 464, provided that in any case in whic
 Pub. L. 89–142, Aug. 28, 1965, 79 Stat. 581, provided that in any case in which the renewal term of a copyright subsisting in any work on Aug. 28, 1965, or the term thereof as extended by Public Law 87–668 \[set out below\], would expire prior to Dec. 31, 1967, such term was continued until Dec. 31, 1967.
 
 Pub. L. 87–668, Sept. 19, 1962, 76 Stat. 555, provided that in any case in which the renewal term of a copyright subsisting in any work on Sept. 19, 1962, would expire prior to Dec. 31, 1965, such term was continued until Dec. 31, 1965.
-
-#### Cross References
-
-Alternative to separate renewal registrations for group works by single author, see section 408 of this title.
-
-Duration and renewal of registration of trademarks, see sections 1058 and 1059 of Title 15, Commerce and Trade.
-
-Duration of term of patents, see section 154 of Title 35, Patents.
-
-Fee for registration of claim to renewal of subsisting copyright in first term, see section 708 of this title.
 
 #### Section Referred to in Other Sections
 

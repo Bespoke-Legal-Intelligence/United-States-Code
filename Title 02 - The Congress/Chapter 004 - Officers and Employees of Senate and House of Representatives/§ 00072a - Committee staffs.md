@@ -70,7 +70,7 @@ Staff members appointed pursuant to a request by minority members of a committee
 
 #### Codification
 
-A former subsec. (k) authorized additional professional staff members and clerical employees for specific House committees. Committee staffs are now covered by the Rules of the House of Representatives. Former subsec. (k) was based on the following House resolutions which were enacted into permanent law:
+A former subsec. (k) authorized additional professional staff members and clerical employees for specificHouse committees. Committee staffs are now covered by the Rules of the House of Representatives. Former subsec. (k) was based on the following House resolutions which were enacted into permanent law:
 
 Subsec. (k)(1) was based on House Resolution No. 172 of the Eighty-first Congress, which was enacted into permanent law by act June 22, 1949, ch. 235, §105, 63 Stat. 230, and House Resolution No. 464 of the Eighty-first Congress, which was enacted into permanent law by act Oct. 11, 1951, ch. 485, §105, 65 Stat. 403.
 
@@ -92,7 +92,7 @@ Subsec. (i)(1). Pub. L. 104–186, §204(10), substituted “House Oversight” 
 
 Subsec. (i)(3). Pub. L. 104–186, §204(10)(A), substituted “House Oversight” for “House Administration”.
 
-Subsec. (j)(1). Pub. L. 104–186, §204(11), as amended by Pub. L. 105–55, §105(a), substituted “committee involved in the case of standing committees of the House of Representatives, and within the limits of funds made available from the contingent fund of the Senate or the applicable accounts of the House of Representatives pursuant to resolutions, which, in the case of the Senate, shall specify the maximum amounts which may be used for such purpose, approved by the appropriate House” for “Committee on House Administration in the case of standing committees of the House of Representatives, and within the limits of funds made available from the contingent funds of the respective Houses pursuant toresolutions, which shall specify the maximum amounts which may be used for such purpose, approved by such respective Houses” and “Chief Administrative Officer of the House of Representatives” for “Clerk of the House”.
+Subsec. (j)(1). Pub. L. 104–186, §204(11), as amended by Pub. L. 105–55, §105(a), substituted “committee involved in the case of standing committees of the House of Representatives, and within the limits of funds made available from the contingent fund of the Senate or the applicable accounts of the House of Representatives pursuant to resolutions, which, in the case of the Senate, shall specify the maximum amounts which may be used for such purpose, approved by the appropriate House” for “Committee on House Administration in the case of standing committees of the House of Representatives, and within the limits of funds made available from the contingent funds of the respective Houses pursuant to resolutions, which shall specify the maximum amounts which may be used for such purpose, approved by such respective Houses” and “Chief Administrative Officer of the House of Representatives” for “Clerk of the House”.
 
 1988—Subsec. (i)(1). Pub. L. 100–458 inserted “or with respect to the administration of the affairs of the committee” before period at end.
 
@@ -214,7 +214,7 @@ Sections 102 and 121 of act Aug. 2, 1946, in amending Rule XXV of the Standing R
 
 #### Office of Senate Security
 
-S. Res. 243, One Hundredth Congress, July 1, 1987, provided: “That (a) there is established, within the Office of the Secretary of the Senate (hereinafter referred toas the ‘Secretary’), the Office of Senate Security (hereinafter referred to as the ‘Office’), which shall be headed by a Director of Senate Security (hereinafter referred to as the ‘Director’). The Office shall be under the policy direction of the Majority and Minority Leaders of the Senate, and shall be under the administrative direction and supervision of the Secretary.
+S. Res. 243, One Hundredth Congress, July 1, 1987, provided: “That (a) there is established, within the Office of the Secretary of the Senate (hereinafter referred to as the ‘Secretary’), the Office of Senate Security (hereinafter referred to as the ‘Office’), which shall be headed by a Director of Senate Security (hereinafter referred to as the ‘Director’). The Office shall be under the policy direction of the Majority and Minority Leaders of the Senate, and shall be under the administrative direction and supervision of the Secretary.
 
 “(b)(1) The Director shall be appointed by the Secretary after consultation with the Majority and Minority Leaders. The Secretary shall fix the compensation of the Director. Any appointment under this subsection shall be made solely on the basis of fitness to perform the duties of the position and without regard to political affiliation.
 
@@ -244,7 +244,7 @@ Sec. 3. (a) The Office is authorized, and shall have the responsibility, to deve
 
 “(b) Within 180 days after the Director takes office, he shall develop, after consultation with the Secretary, a Senate Security Manual, to be printed and distributed to all Senate offices. The Senate Security Manual will prescribe the policies and procedures of the Office, and set forth regulations for all other Senate offices for the handling of classified information.
 
-“(c) Within 90 days after taking office, the Director shall conduct a survey to determine the number of officers and employees of the Senate that have security clearances and report the findings of the survey to the Majority and Minority Leaders and Secretary of the Senate together with recommendations regarding the feasibility of reducing the number of employees with such clearances.
+“(c) Within 90 days after taking office, the Director shall conduct a survey to determine the number of officers and employees of the Senate that have security clearances and report the findings of the survey to theMajority and Minority Leaders and Secretary of the Senate together with recommendations regarding the feasibility of reducing the number of employees with such clearances.
 
 “(d) The Office shall have authority—
 

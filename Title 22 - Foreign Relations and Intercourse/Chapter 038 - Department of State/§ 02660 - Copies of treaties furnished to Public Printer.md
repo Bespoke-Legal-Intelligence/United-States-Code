@@ -18,7 +18,3 @@ Reorg. Plan No. 20 of 1950, set out in the Appendix to Title 5, Government Organ
 
 “United States Postal Service” substituted in text for “Postmaster General” pursuant to section 4(a) of Pub. L. 91–375, set out as a note under section 201 of Title 39, Postal Service, which abolished office of Postmaster General of Post Office Department and transferred its functions to United States Postal Service.
 
-#### Cross References
-
-Duty of the Postal Service to transmit copies of postal conventions to Secretary of State, see section 407 of Title 39, Postal Service.
-

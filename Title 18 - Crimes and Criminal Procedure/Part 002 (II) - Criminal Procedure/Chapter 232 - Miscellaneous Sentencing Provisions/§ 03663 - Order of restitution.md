@@ -46,7 +46,7 @@
 
 (2)(A) An order of restitution under this subsection shall be based on the amount of public harm caused by the offense, as determined by the court in accordance with guidelines promulgated by the United States Sentencing Commission.
 
-(B) In no case shall the amount of restitution ordered under this subsection exceed the amount of the fine ordered for the offense charged in the case.
+(B) In no case shall the amount of restitution ordered under this subsection exceed the amount of the fine which may be ordered for the offense charged in the case.
 
 (3) Restitution under this subsection shall be distributed as follows:
 
@@ -66,13 +66,15 @@
 
 (d) An order of restitution made pursuant to this section shall be issued and enforced in accordance with section 3664.
 
-(Added Pub. L. 97–291, §5(a), Oct. 12, 1982, 96 Stat. 1253, §3579; renumbered §3663 and amended Pub. L. 98–473, title II, §212(a)(1), (3), Oct. 12, 1984, 98 Stat. 1987, 2010; Pub. L. 98–596, §9, Oct. 30, 1984, 98 Stat. 3138; Pub. L. 99–646, §§8(b), 20(a), 77(a), 78(a), 79(a), Nov. 10, 1986, 100 Stat. 3593, 3596, 3618, 3619; Pub. L. 100–182, §13, Dec. 7, 1987, 101 Stat. 1268; Pub. L. 100–185, §12, Dec. 11, 1987, 101 Stat. 1285; Pub. L. 100–690, title VII, §7042, Nov. 18, 1988, 102 Stat. 4399; Pub. L. 101–647, title XXV, §2509, title XXXV, §3595, Nov. 29, 1990, 104 Stat. 4863, 4931; Pub. L. 103–272, §5(e)(12), July 5, 1994, 108 Stat. 1374; Pub. L. 103–322, title IV, §§40504, 40505, Sept. 13, 1994, 108 Stat. 1947; Pub. L. 104–132, title II, §205(a), Apr. 24, 1996, 110 Stat. 1229; Pub. L. 104–294, title VI, §§601(r)(1), (2), 605(<i>l</i>), Oct. 11, 1996, 110 Stat. 3502, 3510.)
+(Added Pub. L. 97–291, §5(a), Oct. 12, 1982, 96 Stat. 1253, §3579; renumbered §3663 and amended Pub. L. 98–473, title II, §212(a)(1), (3), Oct. 12, 1984, 98 Stat. 1987, 2010; Pub. L. 98–596, §9, Oct. 30, 1984, 98 Stat. 3138; Pub. L. 99–646, §§8(b), 20(a), 77(a), 78(a), 79(a), Nov. 10, 1986, 100 Stat. 3593, 3596, 3618, 3619; Pub. L. 100–182, §13, Dec. 7, 1987, 101 Stat. 1268; Pub. L. 100–185, §12, Dec. 11, 1987, 101 Stat. 1285; Pub. L. 100–690, title VII, §7042, Nov. 18, 1988, 102 Stat. 4399; Pub. L. 101–647, title XXV, §2509, title XXXV, §3595, Nov. 29, 1990, 104 Stat. 4863, 4931; Pub. L. 103–272, §5(e)(12), July 5, 1994, 108 Stat. 1374; Pub. L. 103–322, title IV, §§40504, 40505, Sept. 13, 1994, 108 Stat. 1947; Pub. L. 104–132, title II, §205(a), Apr. 24, 1996, 110 Stat. 1229; Pub. L. 104–294, title VI, §§601(r)(1), (2), 605(<i>l</i>), Oct. 11, 1996, 110 Stat. 3502, 3510; Pub. L. 106–310, div. B, title XXXVI, §3613(c), Oct. 17, 2000, 114 Stat. 1230.)
 
 #### References in Text
 
 The Controlled Substances Act, referred to in subsec. (c)(4), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
 
 #### Amendments
+
+2000—Subsec. (c)(2)(B). Pub. L. 106–310 inserted “which may be” after “fine”.
 
 1996—Subsec. (a)(1). Pub. L. 104–132, §205(a)(1)(A)–(E), substituted “(a)(1)(A) The court” for “(a)(1) The court”, inserted “, section 401, 408(a), 409, 416, 420, or 422(a) of the Controlled Substances Act (21 U.S.C. 841, 848(a), 849, 856, 861, 863) (but in no case shall a participant in an offense under such sections be considered a victim of such offense under this section),” before “or section 46312,”, “other than an offense described in section 3663A(c),” after “title 49”, and “, or if the victim is deceased, to the victim's estate” before period at end, and added subpar. (B).
 
@@ -162,7 +164,7 @@ Section 7 of Pub. L. 97–291 required the Attorney General to report, by Oct. 1
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 43, 2248, 2259, 2264, 2327, 3525, 3556, 3563, 3613, 3664 of this title; title 12 section 1831k; title 21 section 853.
+This section is referred to in sections 43, 1593, 2248, 2259, 2264, 2327, 3525, 3556, 3563, 3613, 3664, 4048 of this title; title 12 section 1831k.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “(ii)),”.</i>
 

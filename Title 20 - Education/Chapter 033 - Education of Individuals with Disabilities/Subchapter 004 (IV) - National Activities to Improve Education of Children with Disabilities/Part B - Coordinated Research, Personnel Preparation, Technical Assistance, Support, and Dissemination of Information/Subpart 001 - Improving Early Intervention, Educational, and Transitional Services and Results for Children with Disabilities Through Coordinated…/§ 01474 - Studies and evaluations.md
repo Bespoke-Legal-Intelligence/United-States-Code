@@ -28,7 +28,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(III) the number of minority children who graduated from secondary and postsecondary education programs; and
 
-&emsp;&emsp;&emsp;(ii) the performance of children with disabilities from minority backgrounds onState assessments and other performance indicators established for all students;
+&emsp;&emsp;&emsp;(ii) the performance of children with disabilities from minority backgrounds on State assessments and other performance indicators established for all students;
 
 &emsp;&emsp;(D) measure educational and transitional services and results of children with disabilities under this chapter, including longitudinal studies that—
 
@@ -112,7 +112,7 @@ The Secretary shall provide directly, or through grants, contracts, or cooperati
 
 #### (2) Maximum amount
 
-&emsp;For the first fiscal year in which the amount described in paragraph (1) is at least $20,000,000, the maximum amount the Secretary may reserve under paragraph (1) is $20,000,000. For each subsequent fiscal year, the maximum amount the Secretary may reserve under paragraph (1) is $20,000,000, increased by the cumulative rate of inflationsince the fiscal year described in the previous sentence.
+&emsp;For the first fiscal year in which the amount described in paragraph (1) is at least $20,000,000, the maximum amount the Secretary may reserve under paragraph (1) is $20,000,000. For each subsequent fiscal year, the maximum amount the Secretary may reserve under paragraph (1) is $20,000,000, increased by the cumulative rate of inflation since the fiscal year described in the previous sentence.
 
 #### (3) Use of maximum amount
 

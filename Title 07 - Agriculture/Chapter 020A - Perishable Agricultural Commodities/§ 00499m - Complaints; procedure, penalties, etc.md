@@ -6,7 +6,7 @@ The Secretary or his duly authorized agents shall have the right to inspect such
 
 #### (b) Inspection of records; surety bond; suspension of license
 
-The Secretary or the Secretary's duly authorized agents, in order to insure that the prompt payment provision of section 499b(4) of this title is being complied with, shall from time to time inspect the accounts, records, and memoranda of any commission merchant, dealer, or broker determined in a formal disciplinary proceeding under section 499f(b) of this title to have violated such provision. The Secretary may also require that any such commission merchant, dealer, or broker furnish, maintain, and from time to time adjust a surety bond in form and amount satisfactory to the Secretary as assurance that such commission merchant's, dealer's, or broker's business will be conducted in accordance with this chapter and that such commission merchant, dealer, or broker will pay all reparation awards, subject to its right of appealunder section 499g(c) of this title: <i>Provided</i>, That if such surety bond is furnished, maintained, and adjusted as required by the Secretary, the Secretary shall not thereafter inspect the accounts, records, and memoranda of such commission merchant, dealer, or broker under this subsection more than once a year. If any such commission merchant, dealer, or broker refuses to permit such inspection or fails or refuses to furnish, maintain, or adjust such surety bond, the Secretary may publish the facts and circumstances and, by order, suspend the license of the offender until permission to make such inspection is given or such surety bond is furnished, maintained, or adjusted.
+The Secretary or the Secretary's duly authorized agents, in order to insure that the prompt payment provision of section 499b(4) of this title is being complied with, shall from time to time inspect the accounts, records, and memoranda of any commission merchant, dealer, or broker determined in a formal disciplinary proceeding under section 499f(b) of this title to have violated such provision. The Secretary may also require that any such commission merchant, dealer, or broker furnish, maintain, and from time to time adjust a surety bond in form and amount satisfactory to the Secretary as assurance that such commission merchant's, dealer's, or broker's business will be conducted in accordance with this chapter and that such commission merchant, dealer, or broker will pay all reparation awards, subject to its right of appeal under section 499g(c) of this title: <i>Provided</i>, That if such surety bond is furnished, maintained, and adjusted as required by the Secretary, the Secretary shall not thereafter inspect the accounts, records, and memoranda of such commission merchant, dealer, or broker under this subsection more than once a year. If any such commission merchant, dealer, or broker refuses to permit such inspection or fails or refuses to furnish, maintain, or adjust such surety bond, the Secretary may publish the facts and circumstances and, by order, suspend the license of the offender until permission to make such inspection is given or such surety bond is furnished, maintained, or adjusted.
 
 #### (c) Hearings; subpoenas; oaths; witnesses; evidence
 
@@ -41,20 +41,6 @@ Section was formerly classified to section 563 of this title.
 #### Effective Date of 1970 Amendment
 
 Amendment by Pub. L. 91–452 effective on sixtieth day following Oct. 15, 1970, and not to affect any immunity to which any individual is entitled under this section by reason of any testimony given before sixtieth day following Oct. 15, 1970, see section 260 of Pub. L. 91–452, set out as an Effective Date; Savings Provision note under section 6001 of Title 18, Crimes and Criminal Procedure.
-
-#### Federal Rules of Civil Procedure
-
-Subpoenas, see rule 45, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-#### Federal Rules of Criminal Procedure
-
-Criminal contempt, see rule 42, Title 18, Appendix, Crimes and Criminal Procedure.
-
-#### Cross References
-
-Fees of witnesses, see section 1821 of Title 28, Judiciary and Judicial Procedure.
-
-Immunity of witnesses, see section 6001 et seq. of Title 18, Crimes and Criminal Procedure.
 
 #### Section Referred to in Other Sections
 

@@ -28,7 +28,7 @@ No action may be brought by a mortgagor under subsection (a) of this section lat
 
 #### (1) In general
 
-&emsp;With respect to a residential mortgage transaction, the failure of a servicer to comply with the requirements of this chapter due tothe failure of a mortgage insurer or a mortgagee to comply with the requirements of this chapter, shall not be construed to be a violation of this chapter by the servicer.
+&emsp;With respect to a residential mortgage transaction, the failure of a servicer to comply with the requirements of this chapter due to the failure of a mortgage insurer or a mortgagee to comply with the requirements of this chapter, shall not be construed to be a violation of this chapter by the servicer.
 
 #### (2) Rule of construction
 

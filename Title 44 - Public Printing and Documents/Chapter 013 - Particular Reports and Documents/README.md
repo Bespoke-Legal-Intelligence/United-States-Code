@@ -8,7 +8,7 @@
 | [1304\.](%C2%A7%2001304%20-%20Army%20and%20Navy%20registers.md) | Army and Navy registers. |
 | [1305\.](%C2%A7%2001305%20-%20Attorney%20General%20opinions.md) | Attorney General: opinions. |
 | [1306\.](%C2%A7%2001306%20-%20Civil%20Service%20Commission%20report.md) | Civil Service Commission: report. |
-| [1307\.](%C2%A7%2001307%20-%20National%20Oceanic%20and%20Atmospheric%20Administration%20nautical%20and%20aeronautical%20products%2C%20sale%20and%20distribution.md) | National Oceanic and Atmospheric Administration: nautical and aeronautical products, sale and distribution. |
+| [1307\.](%C2%A7%2001307%20-%20National%20Oceanic%20and%20Atmospheric%20Administration%20nautical%20products%2C%20sale%20and%20distribution.md) | National Oceanic and Atmospheric Administration: nautical products, sale and distribution. |
 | [1308\.](%C2%A7%2001308%20-%20Coast%20Guard%20annual%20report%20of%20the%20Commandant.md) | Coast Guard: annual report of the Commandant. |
 | [1309\.](%C2%A7%2001309%20-%20Coast%20Guard%20notices%20to%20mariners%20and%20other%20special%20publications.md) | Coast Guard: notices to mariners and other special publications. |
 | [1310\.](%C2%A7%2001310%20-%20Commerce%20Department%20navigation%20and%20weather%20information.md) | Commerce Department: navigation and weather information. |
@@ -56,6 +56,8 @@
 
 #### Amendments
 
+2000—Pub. L. 106–181, title VI, §606(d), Apr. 5, 2000, 114 Stat. 154, struck out “and aeronautical” after “nautical” in item 1307.
+
 1999—Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(25)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–585, struck out items 1337 “Patent Office: publications authorized to be printed” and 1338 “Patent Office: limitations and conditions concerning printing and lithographing”.
 
 1996—Pub. L. 104–316, title I, §123(b)(2), Oct. 19, 1996, 110 Stat. 3839, struck out item 1311 “Comptroller General: decisions”.
@@ -70,64 +72,6 @@ Pub. L. 104–201, div. A, title XI, §1123(b)(2), Sept. 23, 1996, 110 Stat. 268
 
 Authority and responsibilities under chapter not limited or repealed by Federal Records Management Amendments of 1976, see section 5(b) of Pub. L. 94–575, set out as a note under section 2901 of this title.
 
-#### Cross References
-
-Admiralty suits—
-
-&emsp;&emsp;United States public vessels; damages, towage, or salvage; reports as to settlements, see section 790 of Title 46, Appendix, Shipping.
-
-&emsp;&emsp;United States vessels or cargoes; reports as to awards and settlements, see section 752 of Title 46, Appendix.
-
-Armed Forces Retirement Home: report of Retirement Home Board respecting financial and other affairs of Home, see section 416 of Title 24, Hospitals and Asylums.
-
-Atomic Energy Act, reports to Congress, see section 2016 of Title 42, The Public Health and Welfare.
-
-Board of Governors of Federal Reserve System, annual report, see section 247 of Title 12, Banks and Banking.
-
-Census printing, bulletins, and reports; publication and distribution, see section 7 of Title 13, Census.
-
-Censuses, see section 131 et seq. of Title 13.
-
-Department of Housing and Urban Development, annual reports, see section 3536 of Title 42, The Public Health and Welfare.
-
-Economic Indicators, monthly publication of Joint Economic Committee, see section 1025 of Title 15, Commerce and Trade.
-
-Federal Communications Commission's reports, see section 154 of Title 47, Telegraphs, Telephones, and Radiotelegraphs.
-
-Federal Hospital Insurance Trust Fund, reports of Board of Trustees, see section 1395i of Title 42, The Public Health and Welfare.
-
-Federal Supplementary Medical Insurance Trust Fund, reports of Board of Trustees, see section 1395t of Title 42.
-
-Gorgas Memorial Institute, annual report, see section 278a of Title 22, Foreign Relations and Intercourse.
-
-Helium gas, annual reports by Secretary of the Interior, see section 167n of Title 50, War and National Defense.
-
-Housing renovation and modernization, statistical and economic surveys, see section 1715 of Title 12, Banks and Banking.
-
-Indian affairs: printing and republication of Senate document on “Indian Affairs, Laws and Treaties”, treaties on “Federal Indian Laws”, and compilation of opinions of Solicitor of Department of the Interior, see section 1341 of Title 25, Indians.
-
-Interior Department, annual reports of department and its bureaus; page limitation, see section 1465 of Title 43, Public Lands.
-
-Locomotive inspection and railroad accident reports, see sections 20702, 20703, and 20901 of Title 49, Transportation.
-
-Marine resources and engineering development, reports to Congress, see section 1106 of Title 33, Navigation and Navigable Waters.
-
-National Science Foundation, reports of, see section 1862 of Title 42, The Public Health and Welfare.
-
-Official territorial papers, collection, etc., by Administrator of General Services, see section 141 et seq., of Title 4, Flag and Seal, Seat of Government, and the States.
-
-Public Health Service: annual report, see section 238h of Title 42, The Public Health and Welfare.
-
-Rural electrification and telephone service, annual report, see section 910 of Title 7, Agriculture.
-
-Saint Lawrence Seaway, annual and special reports, see section 989 of Title 33, Navigation and Navigable Waters.
-
-Technical, scientific, and engineering information; dissemination, see section 1151 et seq. of Title 15, Commerce and Trade.
-
-Traffic and motor vehicle safety, annual report, see section 30169 of Title 49, Transportation.
-
-United Nations Organization, reports to Congress by President, see section 287b of Title 22, Foreign Relations and Intercourse.
-
 <i><sup>1</sup></i><i> Section repealed by Pub. L. 104–127 without corresponding amendment of chapter analysis.</i>
 
 
@@ -141,7 +85,7 @@ United Nations Organization, reports to Congress by President, see section 287b 
 - [&sect; 01304 - Army and Navy registers](%C2%A7%2001304%20-%20Army%20and%20Navy%20registers.md)
 - [&sect; 01305 - Attorney General opinions](%C2%A7%2001305%20-%20Attorney%20General%20opinions.md)
 - [&sect; 01306 - Civil Service Commission report](%C2%A7%2001306%20-%20Civil%20Service%20Commission%20report.md)
-- [&sect; 01307 - National Oceanic and Atmospheric Administration nautical and aeronautical products, sale and distribution](%C2%A7%2001307%20-%20National%20Oceanic%20and%20Atmospheric%20Administration%20nautical%20and%20aeronautical%20products%2C%20sale%20and%20distribution.md)
+- [&sect; 01307 - National Oceanic and Atmospheric Administration nautical products, sale and distribution](%C2%A7%2001307%20-%20National%20Oceanic%20and%20Atmospheric%20Administration%20nautical%20products%2C%20sale%20and%20distribution.md)
 - [&sect; 01308 - Coast Guard annual report of the Commandant](%C2%A7%2001308%20-%20Coast%20Guard%20annual%20report%20of%20the%20Commandant.md)
 - [&sect; 01309 - Coast Guard notices to mariners and other special publications](%C2%A7%2001309%20-%20Coast%20Guard%20notices%20to%20mariners%20and%20other%20special%20publications.md)
 - [&sect; 01310 - Commerce Department navigation and weather information](%C2%A7%2001310%20-%20Commerce%20Department%20navigation%20and%20weather%20information.md)

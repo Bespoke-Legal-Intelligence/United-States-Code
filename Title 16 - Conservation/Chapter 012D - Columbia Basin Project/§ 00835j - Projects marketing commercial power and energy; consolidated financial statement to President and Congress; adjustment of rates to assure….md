@@ -6,7 +6,7 @@ The Secretary of the Interior shall prepare, maintain, and present annually to t
 
 #### Codification
 
-Section is comprised of first sentence of first par. of section 2(a) of Pub. L. 89–448, as so designated by Pub. L. 89–561. Second sentence of the first par. repealed section 832h(c) of this title; second par. of such section 2(a) is classified to section 835k of this title; subsecs. (b) and (c) of section 2 are classified to sections 835<i>l</i> and 835m of this title, respectively.
+Section is comprised of first sentence of first par. of section 2(a) of Pub. L. 89–448, as so designated by Pub. L. 89–561. Second sentence of the first par. repealed section 832h(c) of this title; second par. of such section 2(a) is classified to section 835k of this title; subsecs. (b) and\(c) of section 2 are classified to sections 835<i>l</i> and 835m of this title, respectively.
 
 #### Transfer of Functions
 
@@ -22,7 +22,7 @@ WHEREAS the Bonneville Power Administrator is now disposing of power and energy 
 
 WHEREAS integration and coordination of the electrical facilities of the two projects will be facilitated by a mutual exchange of the electrical power and energy generated at the Bonneville Project and the Grand Coulee Dam Project and by marketing the power and energy from both projects through a single agency:
 
-NOW, THEREFORE, by virtue of the authority vested in me as President of the United States by section 2 ofthe act of August 30, 1935, <i>supra</i>, and supplementing my letter of January 29, 1936, to the Secretary of the Interior, it is hereby ordered as follows:
+NOW, THEREFORE, by virtue of the authority vested in me as President of the United States by section 2 of the act of August 30, 1935, <i>supra</i>, and supplementing my letter of January 29, 1936, to the Secretary of the Interior, it is hereby ordered as follows:
 
 1\. The Bonneville Power Administrator is hereby designated, under the supervision and direction of the Secretary of Energy, as agent for the sale and distribution of electrical power and energy generated at the Grand Coulee Dam Project and not required for operation of that Project, including its irrigation features.
 

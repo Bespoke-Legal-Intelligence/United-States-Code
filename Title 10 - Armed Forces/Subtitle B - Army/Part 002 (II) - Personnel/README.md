@@ -42,10 +42,6 @@ Pub. L. 90–235, §8(5), Jan. 2, 1968, 81 Stat. 764, struck out item for chapte
 
 1958—Pub. L. 85–861, §1(95), Sept. 2, 1958, 72 Stat. 1487, substituted “3841” for “\[No present sections\]” in item for chapter 363.
 
-#### Cross References
-
-General military law provisions, see section 501 et seq. of this title.
-
 
 ---
 

@@ -22,10 +22,6 @@ Minor changes were made in phraseology.
 
 1954—Act Sept. 3, 1954, inserted conspiracy provisions.
 
-#### Canal Zone
-
-Applicability of section to Canal Zone, see section 14 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 14, 2332b, 2339A of this title.

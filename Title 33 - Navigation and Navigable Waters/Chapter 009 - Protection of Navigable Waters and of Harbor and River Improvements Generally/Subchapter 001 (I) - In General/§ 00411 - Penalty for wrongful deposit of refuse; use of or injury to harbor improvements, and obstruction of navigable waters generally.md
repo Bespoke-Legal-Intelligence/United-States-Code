@@ -12,10 +12,6 @@ Section is from part of section 16 of act Mar. 3, 1899, popularly known as the �
 
 1996—Pub. L. 104–303 substituted “407, 408, 409, 414, and 415” for “407, 408, and 409” and “of up to $25,000 per day” for “not exceeding twenty-five hundred dollars nor less than five hundred dollars”.
 
-#### Cross References
-
-Flood control of the Mississippi River, section as applicable, see section 702i of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 409, 412, 413, 418, 419, 702i of this title.

@@ -254,7 +254,7 @@ Repealed.
 
 (j)
 
-Attainment of age seventy.
+Attainment of retirement age.
 
 (k)
 
@@ -1076,11 +1076,15 @@ Information regarding eligibility of Federal employees.
 
 (h)
 
-Certain uninsured individuals.
+Waiver of waiting period for individuals with ALS.
 
 (i)
 
 Continuing eligibility of certain terminated individuals.
+
+(j)
+
+Certain uninsured individuals.
 
 |  |  |
 | :--- | ---: |
@@ -3451,6 +3455,24 @@ Suspension and termination of benefits.
 
 |  |  |
 | :--- | ---: |
+| [1010a.](Subchapter%20008%20%28VIII%29%20-%20Special%20Benefits%20for%20Certain%20World%20War%20II%20Veterans/%C2%A7%2001010a%20-%20Optional%20Federal%20administration%20of%20State%20recognition%20payments.md) | Optional Federal administration of State recognition payments. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Agreement terms.
+
+(c)
+
+Special disposition of administration fees.
+
+|  |  |
+| :--- | ---: |
 | [1011\.](Subchapter%20008%20%28VIII%29%20-%20Special%20Benefits%20for%20Certain%20World%20War%20II%20Veterans/%C2%A7%2001011%20-%20Penalties%20for%20fraud.md) | Penalties for fraud. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -3838,6 +3860,10 @@ Compensation and travel expenses.
 
 Exemption from conflict of interest laws of members of Council or advisory committees; exceptions.
 
+(i)
+
+Nonvoting members and experts.
+
 |  |  |
 | :--- | ---: |
 | [1314a.](Subchapter%20011%20%28XI%29%20-%20General%20Provisions%2C%20Peer%20Review%2C%20and%20Administrative%20Simplification/Part%20A%20-%20General%20Provisions/%C2%A7%2001314a%20-%20Measurement%20and%20reporting%20of%20welfare%20receipt.md) | Measurement and reporting of welfare receipt. |
@@ -3885,6 +3911,10 @@ Demonstration projects to test alternative definitions of unemployment.
 (e)
 
 Extensions of State-wide comprehensive demonstration projects for which waivers granted.
+
+(f)
+
+Application for extension of waiver project; submission; approval.
 
 |  |  |
 | :--- | ---: |
@@ -4643,7 +4673,7 @@ Research with respect to dissemination.
 
 (h)
 
-Report to Congress.
+Omitted.
 
 (i)
 
@@ -4669,7 +4699,20 @@ Mandatory provision of statements.
 
 |  |  |
 | :--- | ---: |
-| 1320b–14. | Repealed. |
+| 1320b–14. | Outreach efforts to increase awareness of the availability of medicare cost-sharing. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Outreach.
+
+(b)
+
+Coordination with States.
+
+|  |  |
+| :--- | ---: |
 | 1320b–15. | Protection of social security and medicare trust funds. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -4845,6 +4888,12 @@ Appropriation.
 (f)
 
 Recommendation.
+
+|  |  |
+| :--- | ---: |
+| 1320b–23. | Repealed. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Part B—Peer Review of Utilization and Quality of Health Care Services
 
@@ -6236,7 +6285,7 @@ Annual report.
 |  |  |
 | :--- | ---: |
 | [1395j.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20B%20-%20Supplementary%20Medical%20Insurance%20Benefits%20for%20Aged%20and%20Disabled/%C2%A7%2001395j%20-%20Establishment%20of%20supplementary%20medical%20insurance%20program%20for%20aged%20and%20disabled.md) | Establishment of supplementary medical insurance program for aged and disabled. |
-| [1395k.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20B%20-%20Supplementary%20Medical%20Insurance%20Benefits%20for%20Aged%20and%20Disabled/%C2%A7%2001395k%20-%20Scope%20of%20benefits%3B%20extension%20of%20coverage%20of%20immunosuppressive%20drugs%3B%20definitions.md) | Scope of benefits; extension of coverage of immunosuppressive drugs; definitions. |
+| [1395k.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20B%20-%20Supplementary%20Medical%20Insurance%20Benefits%20for%20Aged%20and%20Disabled/%C2%A7%2001395k%20-%20Scope%20of%20benefits%3B%20definitions.md) | Scope of benefits; definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -6245,10 +6294,6 @@ Annual report.
 Scope of benefits.
 
 (b)
-
-Extension of coverage of immunosuppressive drugs.
-
-(c)
 
 Definitions.
 
@@ -6392,6 +6437,10 @@ Payment for outpatient therapy services and comprehensive outpatient rehabilitat
 
 Establishment of fee schedule for ambulance services.
 
+(m)
+
+Payment for telehealth services.
+
 |  |  |
 | :--- | ---: |
 | [1395n.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20B%20-%20Supplementary%20Medical%20Insurance%20Benefits%20for%20Aged%20and%20Disabled/%C2%A7%2001395n%20-%20Procedure%20for%20payment%20of%20claims%20of%20providers%20of%20services.md) | Procedure for payment of claims of providers of services. |
@@ -6460,6 +6509,10 @@ Waiver of enrollment period requirements where individual's rights were prejudic
 (i)
 
 Special enrollment periods.
+
+(j)
+
+Special rules for individuals with ALS.
 
 |  |  |
 | :--- | ---: |
@@ -6558,6 +6611,10 @@ Premium payability period.
 (h)
 
 Exempted monthly benefits.
+
+(i)
+
+Adjustments for individuals enrolled in Medicare+Choice plans.
 
 |  |  |
 | :--- | ---: |
@@ -6686,7 +6743,7 @@ Application of fee schedule.
 
 (t)
 
-Facility provider number required on claims submitted by physicians.
+Facility provider number required on claims.
 
 |  |  |
 | :--- | ---: |
@@ -6733,6 +6790,23 @@ Enrollment of qualified medicare beneficiaries.
 |  |  |
 | :--- | ---: |
 | [1395w.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20B%20-%20Supplementary%20Medical%20Insurance%20Benefits%20for%20Aged%20and%20Disabled/%C2%A7%2001395w%20-%20Appropriations%20to%20cover%20Government%20contributions%20and%20contingency%20reserve.md) | Appropriations to cover Government contributions and contingency reserve. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Contingency reserve.
+
+(c)
+
+Election under section 1395w–24.
+
+|  |  |
+| :--- | ---: |
 | 1395w–1. | Repealed. |
 | 1395w–2. | Intermediate sanctions for providers or suppliers of clinical diagnostic laboratory tests. |
 | 1395w–3. | Demonstration projects for competitive acquisition of items and services. |
@@ -6899,6 +6973,10 @@ Rules regarding provider participation.
 
 Treatment of services furnished by certain providers.
 
+(<i>l</i>)
+
+Return to home skilled nursing facilities for covered post-hospital extended care services.
+
 |  |  |
 | :--- | ---: |
 | 1395w–23. | Payments to Medicare+Choice organizations. |
@@ -7052,6 +7130,10 @@ Intermediate sanctions.
 (h)
 
 Procedures for termination.
+
+(i)
+
+Medicare+Choice program compatibility with employer or union group health plans.
 
 |  |  |
 | :--- | ---: |
@@ -7271,6 +7353,14 @@ Religious nonmedical health care institution.
 
 Post-institutional home health services; home health spell of illness.
 
+(uu)
+
+Screening for glaucoma.
+
+(vv)
+
+Medical nutrition therapy services; registered dietitian or nutrition professional.
+
 |  |  |
 | :--- | ---: |
 | [1395y.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20D%20-%20Miscellaneous%20Provisions/%C2%A7%2001395y%20-%20Exclusions%20from%20coverage%20and%20medicare%20as%20secondary%20payer.md) | Exclusions from coverage and medicare as secondary payer. |
@@ -7410,6 +7500,58 @@ Intermediate sanctions for psychiatric hospitals.
 
 |  |  |
 | :--- | ---: |
+| 1395cc–1. | Demonstration of application of physician volume increases to group practices. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Demonstration program authorized.
+
+(b)
+
+Eligibility criteria.
+
+(c)
+
+Patients within scope of demonstration.
+
+(d)
+
+Incentives.
+
+|  |  |
+| :--- | ---: |
+| 1395cc–2. | Provisions for administration of demonstration program. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+General administrative authority.
+
+(b)
+
+Contracts for program administration.
+
+(c)
+
+Rules applicable to both program agreements and program administration contracts.
+
+(d)
+
+Limitations on judicial review.
+
+(e)
+
+Application limited to parts A and B.
+
+(f)
+
+Reports to Congress.
+
+|  |  |
+| :--- | ---: |
 | [1395dd.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20D%20-%20Miscellaneous%20Provisions/%C2%A7%2001395dd%20-%20Examination%20and%20treatment%20for%20emergency%20medical%20conditions%20and%20women%20in%20labor.md) | Examination and treatment for emergency medical conditions and women in labor. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -7470,17 +7612,33 @@ Reimbursement of expenses.
 
 |  |  |
 | :--- | ---: |
-| [1395ff.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20D%20-%20Miscellaneous%20Provisions/%C2%A7%2001395ff%20-%20Determinations%20of%20Secretary.md) | Determinations of Secretary. |
+| [1395ff.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20D%20-%20Miscellaneous%20Provisions/%C2%A7%2001395ff%20-%20Determinations%3B%20appeals.md) | Determinations; appeals. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 (a)
 
-Entitlement to and amount of benefits.
+Initial determinations.
 
 (b)
 
-Appeal by individuals; provider representation of beneficiaries.
+Appeal rights.
+
+(c)
+
+Conduct of reconsiderations by independent contractors.
+
+(d)
+
+Deadlines for hearings by the Secretary.
+
+(e)
+
+Administrative provisions.
+
+(f)
+
+Review of coverage determinations.
 
 |  |  |
 | :--- | ---: |
@@ -7761,6 +7919,14 @@ Payments into special fund for improvements to achieve compliance with condition
 (d)
 
 Report by Secretary; status of facilities in complying with conditions and requirements.
+
+(e)
+
+Services provided by Indian Health Service, Indian tribe, or tribal organization.
+
+(f)
+
+Cross reference.
 
 |  |  |
 | :--- | ---: |
@@ -8205,6 +8371,10 @@ Requirements for payment information.
 
 Limitation on review.
 
+(e)
+
+Construction related to home health services.
+
 |  |  |
 | :--- | ---: |
 | [1395ggg.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20D%20-%20Miscellaneous%20Provisions/%C2%A7%2001395ggg%20-%20Medicare%20subvention%20demonstration%20project%20for%20military%20retirees.md) | Medicare subvention demonstration project for military retirees. |
@@ -8367,6 +8537,14 @@ Intermediate sanctions for psychiatric hospitals.
 (z)
 
 Optional coverage of TB-related services.
+
+(aa)
+
+Certain breast or cervical cancer patients.
+
+(aa)
+
+Payment for services provided by Federally-qualified health centers and rural health clinics.
 
 |  |  |
 | :--- | ---: |
@@ -8652,6 +8830,10 @@ Facilities deemed to meet requirements upon submission of acceptable plan for ac
 
 Agreement to reimburse State agency for providing care and services.
 
+(d)
+
+Cross reference.
+
 |  |  |
 | :--- | ---: |
 | [1396k.](Subchapter%20019%20%28XIX%29%20-%20Grants%20to%20States%20for%20Medical%20Assistance%20Programs/%C2%A7%2001396k%20-%20Assignment%2C%20enforcement%2C%20and%20collection%20of%20rights%20of%20payments%20for%20medical%20care%3B%20establishment%20of%20procedures%20pursuant%20to%20State%20plan%E2%80%A6.md) | Assignment, enforcement, and collection of rights of payments for medical care; establishment of procedures pursuant to State plan; amounts retained by State. |
@@ -8871,6 +9053,28 @@ Treatment of medical assistance.
 
 |  |  |
 | :--- | ---: |
+| §1396r–1b. | Presumptive eligibility for certain breast or cervical cancer patients. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+State option.
+
+(b)
+
+Definitions.
+
+(c)
+
+Administration.
+
+(d)
+
+Payment.
+
+|  |  |
+| :--- | ---: |
 | 1396r–2. | Information concerning sanctions taken by State licensing authorities against health care practitioners and providers. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -9072,7 +9276,7 @@ Electronic claims management.
 
 (i)
 
-Annual report.
+Omitted.
 
 (j)
 
@@ -9295,6 +9499,10 @@ Sanctions for noncompliance.
 (f)
 
 Timeliness of payment.
+
+(g)
+
+Identification of patients for purposes of making DSH payments.
 
 |  |  |
 | :--- | ---: |
@@ -9583,7 +9791,7 @@ Allotments to territories.
 
 (d)
 
-Certain medicaid expenditures counted against individual State allotments.
+Repealed.
 
 (e)
 
@@ -9592,6 +9800,10 @@ Certain medicaid expenditures counted against individual State allotments.
 (f)
 
 Procedure for redistribution of unused allotments.
+
+(g)
+
+Rule for redistribution and extended availability of fiscal years 1998 and 1999 allotments.
 
 |  |  |
 | :--- | ---: |
@@ -9731,7 +9943,7 @@ Additional definitions.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 256b, 299a, 907a, 1437f, 4636, 11606, 12637, 13021 of this title; title 2 section 651; title 5 sections 8403, 8442; title 7 sections 2012, 2015; title 8 section 1324a; title 12 section 1701z–11; title 22 sections 3968, 4071i; title 25 sections 13d, 459e, 609c–1, 640d–21, 1264, 1300d–25, 1407, 1408, 2307, 3304; title 26 sections 86, 162, 401, 412, 415, 1402, 6103; title 29 sections 716, 728, 1082, 1552, 2931; title 31 sections 1516, 3701, 3716; title 38 sections 5303A, 8126; title 40 App. section 202; title 43 section 1626; title 45 sections 231, 231a, 231b, 231c, 231d, 231e, 231f, 231q, 231r, 231u; title 50 App. section 1291.
+This chapter is referred to in sections 256b, 299a, 907a, 1437f, 4636, 11606, 12637, 13021 of this title; title 2 section 651; title 5 sections 8403, 8442; title 7 sections 2012, 2015; title 8 section 1324a; title 12 section 1701z–11; title 22 sections 3968, 4071i; title 25 sections 13d, 459e, 609c–1, 640d–21, 1264, 1300d–25, 1407, 1408, 2307, 3304; title 26 sections 86, 162, 401, 412, 415, 1402, 6103; title 29 sections 716, 728, 1082, 2931; title 31 sections 1516, 3701, 3716; title 38 sections 5303A, 8126; title 40 App. section 202; title 43 section 1626; title 45 sections 231, 231a, 231b, 231c, 231d, 231e, 231f, 231q, 231r, 231u; title 50 App. section 1291.
 
 
 ---

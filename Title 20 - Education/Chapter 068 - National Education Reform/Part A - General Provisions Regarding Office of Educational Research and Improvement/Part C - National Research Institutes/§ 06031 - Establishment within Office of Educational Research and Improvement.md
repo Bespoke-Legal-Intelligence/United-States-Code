@@ -224,7 +224,7 @@ In order to fulfill the research and development purposes of the Office, and to 
 
 &emsp;&emsp;&emsp;&emsp;(V) standards of performance, quality, and validity for various methods of assessment and the means by which such standards should be developed;
 
-&emsp;&emsp;&emsp;&emsp;(VI) current and emerging testing practices of State and local educationagencies within the United States, as well as other nations;
+&emsp;&emsp;&emsp;&emsp;(VI) current and emerging testing practices of State and local education agencies within the United States, as well as other nations;
 
 &emsp;&emsp;&emsp;&emsp;(VII) the diverse effects, both intended and unintended, of assessments as actually used in the schools, including effects on curriculum and instruction, effects on equity in the allocation of resources and opportunities, effects on equity of outcomes, effects on other procedures and standards for judging students and practitioners and possible inflation of test scores;
 
@@ -262,7 +262,7 @@ In order to fulfill the research and development purposes of the Office, and to 
 
 #### (2) Purpose
 
-&emsp;It shall be the purpose of the Institute on the Education of At-Risk Students to carry out a coordinated and comprehensive program of research and development to provide nonpartisan, research-based leadership to the United States as it seeks to improve educational opportunities for at-risk students. Such program shall—
+&emsp;It shall be the purpose of the Institute on the Education of At-Risk Students to carryout a coordinated and comprehensive program of research and development to provide nonpartisan, research-based leadership to the United States as it seeks to improve educational opportunities for at-risk students. Such program shall—
 
 &emsp;&emsp;(A) undertake research necessary to provide a sound basis from which to identify, develop, evaluate, and assist others to replicate and adapt interventions, programs, and models which promote greater achievement and educational success by at-risk students, such as—
 
@@ -316,7 +316,7 @@ In order to fulfill the research and development purposes of the Office, and to 
 
 &emsp;&emsp;(B) Early intervention for disadvantaged children from birth to age five has been shown to be a highly cost-effective strategy for reducing later expenditures on a wide variety of health, developmental, and educational problems that often interfere with learning. Long-term studies of the benefits of preschool education have a demonstrated return on investment ranging from three to six dollars for every one dollar spent.
 
-&emsp;&emsp;(C) The Federal Government should play a central role in providing research-based information on early childhood education models which enhance children's development and ultimately their success in school.
+&emsp;&emsp;(C) The Federal Government should play a central role in providing research-based information on early childhood educationmodels which enhance children's development and ultimately their success in school.
 
 #### (2) Purpose
 
@@ -554,7 +554,7 @@ The National Institute on the Education of At-Risk Students, the National Instit
 
 Section 102 of the Education Council Act of 1991, referred to in subsec. (g)(2)(B), is section 102 of Pub. L. 102–62, which is set out as a note under section 1221–1 of this title.
 
-The Higher Education Act of 1965, referred to in subsec. (h)(2)(B)(xvii)(I), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28of this title and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+The Higher Education Act of 1965, referred to in subsec. (h)(2)(B)(xvii)(I), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of this title and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 #### Section Referred to in Other Sections
 

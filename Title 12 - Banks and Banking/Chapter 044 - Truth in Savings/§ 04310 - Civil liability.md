@@ -54,7 +54,7 @@ Any action under this section may be brought in any United States district court
 
 #### (f) Reliance on Board rulings
 
-No provision of this section imposing any liability shall apply to any act done or omitted in good faith in conformity with any regulation or order, or any interpretation of any regulation or order, of the Board, or in conformity with any interpretation or approval by an official or employee of the Board duly authorized by theBoard to issue such interpretation or approval under procedures prescribed by the Board, notwithstanding, the fact that after such act or omission has occurred, such regulation, order, interpretation, or approval is amended, rescinded, or determined by judicial or other authority to be invalid for any reason.
+No provision of this section imposing any liability shall apply to any act done or omitted in good faith in conformity with any regulation or order, or any interpretation of any regulation or order, of the Board, or in conformity with any interpretation or approval by an official or employee of the Board duly authorized by the Board to issue such interpretation or approval under procedures prescribed by the Board, notwithstanding, the fact that after such act or omission has occurred, such regulation, order, interpretation, or approval is amended, rescinded, or determined by judicial or other authority to be invalid for any reason.
 
 #### (g) Notification of and adjustment for errors
 
@@ -64,7 +64,7 @@ A depository institution shall not be liable under this section or section 4309 
 
 &emsp;&emsp;(A) the end of the 60-day period beginning on the date on which the depository institution discovered the failure to comply;
 
-&emsp;&emsp;(B) any action is instituted against the depository institution by the account holder under this section with respect to such failure to comply; and
+&emsp;&emsp;(B) any action is instituted against the depository institution by the account holderunder this section with respect to such failure to comply; and
 
 &emsp;&emsp;(C) any written notice of such failure to comply is received by the depository institution from the account holder,
 

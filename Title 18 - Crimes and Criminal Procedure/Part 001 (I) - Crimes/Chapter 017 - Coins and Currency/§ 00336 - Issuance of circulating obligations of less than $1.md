@@ -8,7 +8,7 @@ Whoever makes, issues, circulates, or pays out any note, check, memorandum, toke
 
 Based on title 18, U.S.C., 1940 ed., §293 (Mar. 4, 1909, ch. 321, §178, 35 Stat. 1122).
 
-Numerous suggestions, of which that of Mr. E. M. Million, of Arlington, Va., is typical, recommend that this section be omitted as obsolete or revised to except commercial obligations. However, since the decisions make it plain that only obligations intended to circulate as money are within the provisions of this section and that commercial checks of less than $1 are not affected, there seems no reason so to rewrite the section. (See <i>U.S. v. Monongahela Bridge Co</i>., Fed. Cas. No. 15,796; <i>Stettinius v. U.S</i>., Fed. Cas. No. 13,387.)
+Numerous suggestions, of which that of Mr. E. M. Million, of Arlington, Va., is typical, recommend that this section be omitted as obsolete or revised to exceptcommercial obligations. However, since the decisions make it plain that only obligations intended to circulate as money are within the provisions of this section and that commercial checks of less than $1 are not affected, there seems no reason so to rewrite the section. (See <i>U.S. v. Monongahela Bridge Co</i>., Fed. Cas. No. 15,796; <i>Stettinius v. U.S</i>., Fed. Cas. No. 13,387.)
 
 Minor changes were made in phraseology.
 

@@ -78,7 +78,7 @@ The Harmonized Tariff Schedule of the United States, referred to in subsec. (d)(
 
 #### Prior Provisions
 
-R.S. §§2806, 2807 (as amended by act June 3, 1902, ch. 86, §1, 27 Stat. 41), and 2808, requiring manifests, andprescribing their contents, were superseded by act Sept. 21, 1922, ch. 356, title IV, §431, 42 Stat. 950, and repealed by section 642 thereof. Section 431 of the 1922 act was superseded by section 431 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+R.S. §§2806, 2807 (as amended by act June 3, 1902, ch. 86, §1, 27 Stat. 41), and 2808, requiring manifests, and prescribing their contents, were superseded by act Sept. 21, 1922, ch. 356, title IV, §431, 42 Stat. 950, and repealed by section 642 thereof. Section 431 of the 1922 act was superseded by section 431 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 R.S. §2805, relative to the administration of oaths required by that chapter, was superseded to a great extent by the Customs Administrative Act of June 10, 1890, ch. 407, §22, 26 Stat. 140, amended by the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 102, and by the Underwood Tariff Act of Oct. 3, 1913, ch. 16, §IV, S., 38 Stat. 201, which abolished all oaths administered by officers of the customs, except as provided in those acts and repealed by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 

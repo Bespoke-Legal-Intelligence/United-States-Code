@@ -124,7 +124,7 @@
 
 #### (3) Challenge of decision
 
-&emsp;The decision of the examining immigration officer, if favorable to the admission of any alien, shall be subject to challenge by any other immigration officer and such challenge shall operate to take the alien whose privilege to be admitted is so challenged, before an immigration judge for a proceeding under section 1229a of this title.
+&emsp;The decision of the examining immigration officer, if favorable to the admission of any alien, shall be subject to challenge by anyother immigration officer and such challenge shall operate to take the alien whose privilege to be admitted is so challenged, before an immigration judge for a proceeding under section 1229a of this title.
 
 #### (c) Removal of aliens inadmissible on security and related grounds
 
@@ -164,7 +164,7 @@
 
 #### (2) Authority to order detention and delivery of arriving aliens
 
-&emsp;Immigration officers are authorized to order an owner, agent, master, commanding officer,person in charge, purser, or consignee of a vessel or aircraft bringing an alien (except an alien crewmember) to the United States—
+&emsp;Immigration officers are authorized to order an owner, agent, master, commanding officer, person in charge, purser, or consignee of a vessel or aircraft bringing an alien (except an alien crewmember) to the United States—
 
 &emsp;&emsp;(A) to detain the alien on the vessel or at the airport of arrival, and
 
@@ -232,41 +232,13 @@ Study.—The Comptroller General shall conduct a study on the implementation of 
 
 “(2)
 
-Report.—By not later than 18 months after the date of the enactment of this Act \[Sept. 30, 1996\], the Comptroller General shall submit to the Committeeson the Judiciary of the House of Representatives and the Senate a report on the study conducted under paragraph (1).”
+Report.—By not later than 18 months after the date of the enactment of this Act \[Sept. 30, 1996\], the Comptroller General shall submit to the Committees on the Judiciary of the House of Representatives and the Senate a report on the study conducted under paragraph (1).”
 
 #### References to Order of Removal Deemed To Include Order of Exclusion and Deportation
 
 For purposes of this chapter, any reference in law to an order of removal is deemed to include a reference to an order of exclusion and deportation or an order of deportation, see section 309(d)(2) of Pub. L. 104–208, set out in an Effective Date of 1996 Amendments note under section 1101 of this title.
 
-#### Federal Rules of Criminal Procedure
-
-Criminal contempt, see rule 42, Title 18, Appendix, Crimes and Criminal Procedure.
-
-#### Cross References
-
-Contempts, see section 401 et seq. of Title 18, Crimes and Criminal Procedure.
-
-Definition of the term—
-
-&emsp;&emsp;Alien, see section 1101(a)(3) of this title.
-
-&emsp;&emsp;Attorney General, see section 1101(a)(5) of this title.
-
-&emsp;&emsp;Crewman, see section 1101(a)(10) of this title.
-
-&emsp;&emsp;Entry, see section 1101(a)(13) of this title.
-
-&emsp;&emsp;Immigration officer, see section 1101(a)(18) of this title.
-
-&emsp;&emsp;National of the United States, see section 1101(a)(22) of this title.
-
-&emsp;&emsp;Service, see section 1101(a)(34) of this title.
-
-&emsp;&emsp;Special inquiry officer, see section 1101(b)(4) of this title.
-
-&emsp;&emsp;United States, see section 1101(a)(38) of this title.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1155, 1158, 1159, 1182, 1227, 1229a, 1229c, 1231, 1252, 1326, 1368 of this title; title 22 sections 6473, 6474.
+This section is referred to in sections 1155, 1158, 1159, 1182, 1187, 1227, 1229a, 1229c, 1231, 1252, 1326, 1368 of this title; title 22 sections 6473, 6474.
 

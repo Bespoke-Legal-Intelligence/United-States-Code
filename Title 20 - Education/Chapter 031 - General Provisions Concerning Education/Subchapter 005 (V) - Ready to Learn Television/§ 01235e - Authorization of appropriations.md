@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-There are authorized to be appropriated to carry out this subchapter, $30,000,000 for fiscal year 1995, and such sums as may be necessary for each of fiscal years 1996 and 1998. Not less than 60 percent of the amounts appropriated under this subsection for each fiscal year shall be used to carry out section 1235a <sup>1</sup> of this title.
+There are authorized to be appropriated to carry out this subchapter, $30,000,000 for fiscalyear 1995, and such sums as may be necessary for each of fiscal years 1996 and 1998. Not less than 60 percent of the amounts appropriated under this subsection for each fiscal year shall be used to carry out section 1235a <sup>1</sup> of this title.
 
 #### (b) Special projects
 

@@ -26,7 +26,3 @@ Changes in phraseology were made.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $500” in fourth par.
 
-#### Cross References
-
-False statements or entries, generally, see section 1001 of this title.
-

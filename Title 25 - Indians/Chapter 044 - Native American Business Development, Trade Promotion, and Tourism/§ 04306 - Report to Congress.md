@@ -1,0 +1,16 @@
+### §4306. Report to Congress
+
+#### (a) In general
+
+Not later than 1 year after November 7, 2000, and annually thereafter, the Secretary, in consultation with the Director, shall prepare and submit to the Committee on Indian Affairs of the Senate and the Committee on Resources of the House of Representatives a report on the operation of the Office.
+
+#### (b) Contents of report
+
+Each report prepared under subsection (a) of this section shall include—
+
+&emsp;(1) for the period covered by the report, a summary of the activities conducted by the Secretary, acting through the Director, in carrying out sections 4303 through 4305 of this title; and
+
+&emsp;(2) any recommendations for legislation that the Secretary, in consultation with the Director, determines to be necessary to carry out sections 4303 through 4305 of this title.
+
+(Pub. L. 106–464, §7, Nov. 7, 2000, 114 Stat. 2018.)
+

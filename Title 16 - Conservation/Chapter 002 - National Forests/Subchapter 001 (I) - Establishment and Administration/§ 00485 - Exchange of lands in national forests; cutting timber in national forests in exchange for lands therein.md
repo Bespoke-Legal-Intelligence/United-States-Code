@@ -10,10 +10,6 @@ Functions of Secretary of the Interior under this section and section 486 of thi
 
 “Secretary of Agriculture is authorized”, “in his opinion”, “he may authorize” and “the values in each case to be determined by him” substituted in text for “Secretary of the Interior is authorized”, “in the opinion of the Secretary of Agriculture”, “the Secretary of Agriculture may authorize” and “the values in each case to be determined by the Secretary of Agriculture”, respectively, in view of transfer of functions under this section to Secretary of Agriculture from Secretary of the Interior by section 1(a) of Pub. L. 86–509, set out as a note under section 2201 of Title 7.
 
-#### Cross References
-
-College-aid land grant, exchange of forest lands in Missouri to be made in accordance with this section, see note set out under section 301 of Title 7, Agriculture.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 21c, 192b–9, 251a, 482i, 484a, 577f, 689d of this title.

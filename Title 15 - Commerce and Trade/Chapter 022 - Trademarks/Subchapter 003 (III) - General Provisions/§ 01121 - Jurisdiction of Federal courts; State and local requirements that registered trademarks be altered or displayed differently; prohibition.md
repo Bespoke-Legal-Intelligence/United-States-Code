@@ -42,15 +42,3 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 Repeal of inconsistent provisions, effect of this chapter on pending proceedings and existing registrations and rights under prior acts, see notes set out under section 1051 of this title.
 
-#### Cross References
-
-District courts vested with jurisdiction of—
-
-&emsp;&emsp;Civil actions arising under any Act of Congress relating to trademarks, see section 1338 of Title 28, Judiciary and Judicial Procedure.
-
-&emsp;&emsp;Civil actions asserting a claim of unfair competition when joined with a substantial and related claim under the trademark laws, see section 1338 of Title 28.
-
-&emsp;&emsp;Civil actions for injunction against infringement of registered trademark, see section 1116 of this title.
-
-District in which trademark infringement action to be brought, see section 1391 of Title 28, Judiciary and Judicial Procedure.
-

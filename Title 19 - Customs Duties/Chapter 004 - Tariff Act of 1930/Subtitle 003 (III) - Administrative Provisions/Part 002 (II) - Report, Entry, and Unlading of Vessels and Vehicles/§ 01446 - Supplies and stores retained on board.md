@@ -6,7 +6,7 @@ Vessels arriving in the United States from foreign ports may retain on board, wi
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §446, 42 Stat. 953. That section was superseded by section 446 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §446, 42 Stat. 953. That section was superseded by section 446 ofact June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 Provisions similar to those in the last sentence of this section concerning sea stores and equipment, were contained in R.S. §2797, as amended by act Mar. 3, 1897, ch. 389, §17, 29 Stat. 691. A provision that steam vessels might retain coal on board without being required to land it or pay duty was contained in R.S. §2798. Provision for collection of duty on excessive quantities of sea stores was made by R.S. §2796. All of these sections were repealed by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 

@@ -18,7 +18,7 @@ Inspection, Testing, Preservation, and Moving of Aircraft and Parts.—(1) In in
 
 Avoiding Unnecessary Interference and Preserving Evidence.—In carrying out subsection (a)(1) of this section, an officer or employee may examine or test any vehicle, vessel, rolling stock, track, or pipeline component. The examination or test shall be conducted in a way that—
 
-&emsp;(1) does not interfere unnecessarily with transportation services provided by the owneror operator of the vehicle, vessel, rolling stock, track, or pipeline component; and
+&emsp;(1) does not interfere unnecessarily with transportation services provided by the owner or operator of the vehicle, vessel, rolling stock, track, or pipeline component; and
 
 &emsp;(2) to the maximum extent feasible, preserves evidence related to the accident, consistent with the needs of the investigation and with the cooperation of that owner or operator.
 
@@ -102,7 +102,7 @@ In subsection (b)(1), the words “investigating an aircraft accident” are sub
 
 In subsection (c), before clause (1), the words “In carrying out subsection (a)(1) of this section, an officer or employee” are added because of the restatement. The words “or any part of any such item” are omitted as surplus. The words “when such examination or testing is determined to be required for purposes of such investigation” are omitted as unnecessary because of the words “do anything necessary to conduct an investigation” in subsection (a)(1) of this section. In clause (1), the word “obstruct” is omitted as being included in “interfere”.
 
-In subsection (d), the word “individuals” is substituted for “persons” the 2d time that word is used for clarity. The words “The Board shall make any of those decisions” are substituted for “and shall be made” because of the restatement.
+In subsection (d), the word “individuals” is substituted for “persons” the 2d time that word is used for clarity. The words “The Board shall make any of thosedecisions” are substituted for “and shall be made” because of the restatement.
 
 In subsection (e), the word “promptly” is substituted for “with reasonable promptness” to eliminate unnecessary words.
 

@@ -68,10 +68,6 @@ Section 109(b)(4) of Pub. L. 95–105 provided that: “The individual holding t
 
 Section 109(b)(5) of Pub. L. 95–105 provided that: “Any reference in any law to the Bureau of Security and Consular Affairs or to the administrator of such Bureau shall be deemed to be a reference to the Bureau of Consular Affairs or to the Assistant Secretary of State for Consular Affairs, respectively.”
 
-#### Cross References
-
-Definition of administrator, consular officer, immigrant visa, immigration laws, national, nonimmigrant visa, passport, and Service, see section 1101 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1101 of this title.

@@ -8,3 +8,7 @@ The Special Counsel shall submit an annual report to the Congress on the activit
 
 1994—Pub. L. 103–424 inserted “cases in which it did not make a determination whether there are reasonable grounds to believe that a prohibited personnel practice has occurred, exists, or is to be taken within the 240-day period specified in section 1214(b)(2)(A)(i),” after “investigations conducted by it,”.
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of reporting provisions in this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 188 of House Document No. 103–7.
+

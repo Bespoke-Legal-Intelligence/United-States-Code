@@ -47,6 +47,7 @@
 - [&sect; 00403s - Special rules for disability retirement and death-in-service benefits with respect to certain employees](%C2%A7%2000403s%20-%20Special%20rules%20for%20disability%20retirement%20and%20death-in-service%20benefits%20with%20respect%20to%20certain%20employees.md)
 - [&sect; 00403t - General Counsel of Central Intelligence Agency](%C2%A7%2000403t%20-%20General%20Counsel%20of%20Central%20Intelligence%20Agency.md)
 - [&sect; 00403u - Central services program](%C2%A7%2000403u%20-%20Central%20services%20program.md)
+- [&sect; 00403v - Detail of employees](%C2%A7%2000403v%20-%20Detail%20of%20employees.md)
 - [&sect; 00404 - Emergency preparedness](%C2%A7%2000404%20-%20Emergency%20preparedness.md)
 - [&sect; 00404a - Annual national security strategy report](%C2%A7%2000404a%20-%20Annual%20national%20security%20strategy%20report.md)
 - [&sect; 00404b - Multiyear national foreign intelligence program](%C2%A7%2000404b%20-%20Multiyear%20national%20foreign%20intelligence%20program.md)
@@ -59,3 +60,5 @@
 - [&sect; 00404h - Detail of intelligence community personnel&#8212;Intelligence Community Assignment Program](%C2%A7%2000404h%20-%20Detail%20of%20intelligence%20community%20personnel%E2%80%94Intelligence%20Community%20Assignment%20Program.md)
 - [&sect; 00404i - Additional annual reports from the Director of Central Intelligence](%C2%A7%2000404i%20-%20Additional%20annual%20reports%20from%20the%20Director%20of%20Central%20Intelligence.md)
 - [&sect; 00404j - Limitation on establishment or operation of diplomatic intelligence support centers](%C2%A7%2000404j%20-%20Limitation%20on%20establishment%20or%20operation%20of%20diplomatic%20intelligence%20support%20centers.md)
+- [&sect; 00404k - Travel on any common carrier for certain intelligence collection personnel](%C2%A7%2000404k%20-%20Travel%20on%20any%20common%20carrier%20for%20certain%20intelligence%20collection%20personnel.md)
+- [&sect; 00404l - POW-MIA analytic capability](%C2%A7%2000404l%20-%20POW-MIA%20analytic%20capability.md)

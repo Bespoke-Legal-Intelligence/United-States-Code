@@ -4,10 +4,6 @@ The Secretary of Agriculture may, upon presentation of satisfactory evidence of 
 
 (Mar. 4, 1923, ch. 288, §3, 42 Stat. 1517.)
 
-#### Cross References
-
-Charges for licenses issued to classifiers of cotton under this section, see section 55 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 55 of this title.

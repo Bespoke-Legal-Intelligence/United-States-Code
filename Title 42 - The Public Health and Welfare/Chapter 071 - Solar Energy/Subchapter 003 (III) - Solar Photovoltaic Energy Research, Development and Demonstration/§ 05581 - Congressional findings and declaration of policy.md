@@ -34,7 +34,7 @@
 
 &emsp;(16) evaluation of the performance and reliability of solar photovoltaic energy technologies can be expedited by testing of prototypes under carefully controlled conditions;
 
-&emsp;(17) commercial application of solar photovoltaic energy technologies can be expeditedby early commercial demonstration under practical conditions;
+&emsp;(17) commercial application of solar photovoltaic energy technologies can be expedited by early commercial demonstration under practical conditions;
 
 &emsp;(18) photovoltaic energy systems are currently adaptable on a life cycle, cost-justified basis for certain of the energy needs of the Federal Government, and will find additional applications as continued refinements improve performance and reduce unit costs;
 

@@ -27,7 +27,7 @@
 | (b) | Compensation. |
 | [1108\.](%C2%A7%2001108%20-%20Administrative%20provisions.md) | Administrative provisions. |
 | (a) | In general. |
-| (b) | Annual report. |
+| (b) | Omitted. |
 | [1109\.](%C2%A7%2001109%20-%20Authorization%20for%20appropriations.md) | Authorization for appropriations. |
 | [1110\.](%C2%A7%2001110%20-%20Appropriations.md) | Appropriations. |
 

@@ -4,7 +4,7 @@
 
 A power-driven vessel when towing astern shall exhibit:
 
-&emsp;(i) instead of the light prescribed either in Rule 23(a)(i) or 23(a)(ii), two masthead lightsin a vertical line. When the length of the tow, measuring from the stern of the towing vessel to the after end of the tow exceeds 200 meters, three such lights in a vertical line;
+&emsp;(i) instead of the light prescribed either in Rule 23(a)(i) or 23(a)(ii), two masthead lights in a vertical line. When the length of the tow, measuring from the stern of the towing vessel to the after end of the tow exceeds 200 meters, three such lights in a vertical line;
 
 &emsp;(ii) sidelights;
 

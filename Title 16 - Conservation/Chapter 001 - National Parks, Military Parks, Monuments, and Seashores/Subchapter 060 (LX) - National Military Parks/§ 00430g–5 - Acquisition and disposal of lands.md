@@ -10,7 +10,7 @@ The Secretary may convey lands and interests in lands within the park authorized
 
 #### (c) Conveyance of lands excluded from park
 
-(1) The Secretary is authorized, in accordance with applicable existing law, to exchange Federal lands and interests excluded from the park pursuant to section 430g–4(b) of this title for the purpose of acquiring lands within the park boundary.
+(1) The Secretary is authorized, in accordance with applicable existing law, to exchange Federal lands and interests excluded from the park pursuant to section 430g–4(c) of this title for the purpose of acquiring lands within the park boundary.
 
 (2) If any such Federal lands or interests are not exchanged within five years after August 17, 1990, the Secretary may sell any or all such lands or interests to the highest bidder, in accordance with such regulations as the Secretary may prescribe, but any such conveyance shall be at not less than the fair market value of the land or interest, as determined by the Secretary.
 
@@ -18,13 +18,17 @@ The Secretary may convey lands and interests in lands within the park authorized
 
 #### (d) Relinquishment of legislative jurisdiction to Pennsylvania
 
-With respect to any lands over which the United States exercises exclusive or concurrent legislative jurisdiction and which are excluded from the park pursuant to section 430g–4(b) of this title, the Secretary may relinquish to the State of Pennsylvania such exclusive or concurrent legislative jurisdiction by filing with the Governor a notice of relinquishment to take effect upon acceptance thereof, unless otherwise provided by the laws of the State.
+With respect to any lands over which the United States exercises exclusive or concurrent legislative jurisdiction and which are excluded from the park pursuant to section 430g–4(c) of this title, the Secretary may relinquish to the State of Pennsylvania such exclusive or concurrent legislative jurisdiction by filing with the Governor a notice of relinquishment to take effect upon acceptance thereof, unless otherwise provided by the laws of the State.
 
-(Pub. L. 101–377, §2, Aug. 17, 1990, 104 Stat. 464.)
+(Pub. L. 101–377, §2, Aug. 17, 1990, 104 Stat. 464; Pub. L. 106–290, §2, Oct. 10, 2000, 114 Stat. 921.)
 
 #### References in Text
 
 Section 460<i>l</i>–22 of this title, referred to in subsec. (b), was in the original “subsection (a) of the Act of July 15, 1968 (16 U.S.C. 460<i>l</i>–22)” and was translated as reading subsection (a) of section 5 of the Act of July 15, 1968 (16 U.S.C. 460<i>l</i>–22) to reflect the probable intent of Congress.
+
+#### Amendments
+
+2000—Subsecs. (c)(1), (d). Pub. L. 106–290 substituted “430g–4(c)” for “430g–4(b)”.
 
 #### Section Referred to in Other Sections
 

@@ -52,5 +52,5 @@ Section 1364(a) of Pub. L. 99–570 provided that: “The amendment made by sect
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5317, 5321, 5322 of this title; title 12 sections 93, 1464, 1772d, 1786, 1818, 1821, 3420; title 18 sections 981, 982, 984, 986, 1956; title 28 section 524.
+This section is referred to in sections 5317, 5321, 5322 of this title; title 12 sections 93, 1464, 1772d, 1786, 1818, 1821, 3420; title 18 sections 981, 982, 986, 1956; title 28 section 524.
 

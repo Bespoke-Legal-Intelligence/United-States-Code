@@ -74,7 +74,7 @@ The State plan shall include information that—
 
 &emsp;(10) provides assurances that the eligible agency will comply with the requirements of this subchapter and the provisions of the State plan, including the provision of a financial audit of funds received under this subchapter which may be included as part of an audit of other Federal or State programs;
 
-&emsp;(11) provides assurances that none of the funds expended under this subchapter will be used to acquire equipment (including computer software) in any instance in which such acquisition results in a direct financial benefit to any organization representing the interests of the purchasing entity, the employees of the purchasing entity, or any affiliate of such an organization;
+&emsp;(11) provides assurances that none of the funds expended under this subchapter will be used to acquire equipment (including computer software) in any instance in which such acquisition results in a direct financial benefit to any organization representing the interestsof the purchasing entity, the employees of the purchasing entity, or any affiliate of such an organization;
 
 &emsp;(12) describes how the eligible agency will report data relating to students participating in vocational and technical education in order to adequately measure the progress of the students, including special populations;
 

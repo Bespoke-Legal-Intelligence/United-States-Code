@@ -20,7 +20,3 @@ Aug. 21, 1941, ch. 384, §4 (less 1st sentence), 55 Stat. 653; May 29, 1954, ch.
 
 10:593 (2d sentence) is omitted as executed. The words “within each warrant officer grade” are inserted for clarity, since section 745 of this title covers rank between warrant officers in different warrant officer grades. The words “they shall take precedence” are omitted as surplusage.
 
-#### Cross References
-
-Rank of warrant officers, general military law provisions, see section 742 of this title.
-

@@ -24,7 +24,7 @@ The applicant shall comply with the requirements of section 1427(a) of this titl
 
 #### (e) Moral character
 
-Any such period or periods of service under honorable conditions, and good moral character, attachment to the principles of the Constitution of the United States, and favorable disposition toward the good order and happiness of the United States, during such service, shall be proved by duly authenticated copies of the records of the executive departments having custody of the records of such service, and such authenticated copies of records shall be accepted in lieu of compliance with the provisions of section 1427(a) of this title.
+Any such period or periods of service under honorable conditions, and good moral character, attachment to the principles of the Constitution of the United States, and favorable disposition toward the good order and happiness of theUnited States, during such service, shall be proved by duly authenticated copies of the records of the executive departments having custody of the records of such service, and such authenticated copies of records shall be accepted in lieu of compliance with the provisions of section 1427(a) of this title.
 
 (June 27, 1952, ch. 477, title III, ch. 2, §328, 66 Stat. 249; Pub. L. 90–633, §5, Oct. 24, 1968, 82 Stat. 1344; Pub. L. 97–116, §15(e), Dec. 29, 1981, 95 Stat. 1619; Pub. L. 101–649, title IV, §407(b)(4), (c)(10), (d)(8), Nov. 29, 1990, 104 Stat. 5040–5042; Pub. L. 102–232, title III, §305(c), Dec. 12, 1991, 105 Stat. 1750.)
 
@@ -46,27 +46,11 @@ Subsec. (d). Pub. L. 101–649, §407(c)(10), substituted references to applican
 
 #### Effective Date of 1991 Amendment
 
-Amendment by Pub. L. 102–232 effective as if included in the enactment of the Immigration Act of 1990, Pub.L. 101–649, see section 310(1) of Pub. L. 102–232, set out as a note under section 1101 of this title.
+Amendment by Pub. L. 102–232 effective as if included in the enactment of the Immigration Act of 1990, Pub. L. 101–649, see section 310(1) of Pub. L. 102–232, set out as a note under section 1101 of this title.
 
 #### Effective Date of 1981 Amendment
 
 Amendment by Pub. L. 97–116 effective Dec. 29, 1981, see section 21(a) of Pub. L. 97–116, set out as a note under section 1101 of this title.
-
-#### Cross References
-
-Definition of the term—
-
-&emsp;&emsp;Attorney General, see section 1101(a)(5) of this title.
-
-&emsp;&emsp;Naturalization, see section 1101(a)(23) of this title.
-
-&emsp;&emsp;Person of good moral character, see section 1101(f) of this title.
-
-&emsp;&emsp;Residence, see section 1101(a)(33) of this title.
-
-&emsp;&emsp;Service, see section 1101(a)(34) of this title.
-
-&emsp;&emsp;United States, see section 1101(a)(38) of this title.
 
 #### Section Referred to in Other Sections
 

@@ -2,7 +2,7 @@
 
 #### (a) Reports
 
-Not later than October 1 of each year, the Secretary of the Treasury shall submit to the Committee on Banking and Financial Services of the House of Representatives and the Committee on Foreign Relations of the Senate a written report on the progress (if any) made by the United States Executive Director at the International Monetary Fund in influencing the International Monetary Fund to adopt the policies and reform its internal procedures in the manner described in section 262<i>o</i>–2 of this title.
+Not later than October 1 of each year, the Secretary of the Treasury shall submit to the Committees on Banking and Financial Services and on Ways and Means of the House of Representatives and the Committees on Finance and on Foreign Relations of the Senate a written report on (1) the progress (if any) made by the United States Executive Director at the International Monetary Fund in influencing the International Monetary Fund to adopt the policies and reform its internal procedures in the manner described in section 262<i>o</i>–2 of this title, and (2) the progress made by the International Monetary Fund in adopting and implementing the policies described in section 801(c)(1)(B) of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 2001.
 
 #### (b) Testimony
 
@@ -14,7 +14,21 @@ After submitting the report required by subsection (a) of this section but not l
 
 &emsp;(3) the compliance of countries which have received assistance from the International Monetary Fund with agreements made as a condition of receiving the assistance.
 
-(Pub. L. 95–118, title XVII, §1705, as added Pub. L. 105–277, div. A, §101(d) \[title VI, §613\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–230.)
+(Pub. L. 95–118, title XVII, §1705, as added Pub. L. 105–277, div. A, §101(d) \[title VI, §613\], Oct. 21,1998, 112 Stat. 2681–150, 2681–230; amended Pub. L. 106–200, title IV, §404(c), May 18, 2000, 114 Stat. 292; Pub. L. 106–429, §101(a) \[title VIII, §803(c)\], Nov. 6, 2000, 114 Stat. 1900, 1900A–67.)
+
+#### References in Text
+
+Section 801(c)(1)(B) of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 2001, referred to in subsec. (a)(2), is section 801(c)(1)(B) of Pub. L. 106–429, §101(a) \[title VIII\], Nov. 6, 2000, 114 Stat. 1900, 1900A–65, which is not classified to the Code.
+
+#### Amendments
+
+2000—Subsec. (a). Pub. L. 106–429 inserted “(1)” after “a written report on” and inserted before period at end “, and (2) the progress made by the International Monetary Fund in adopting and implementing the policies described in section 801(c)(1)(B) of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 2001”.
+
+Pub. L. 106–200 substituted “Committees on Banking and Financial Services and on Ways and Means of the House of Representatives and the Committees on Finance and on Foreign Relations of the Senate” for “Committee on Banking and Financial Services of the House of Representatives and the Committee on Foreign Relations of the Senate”.
+
+#### Change of Name
+
+Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Definitions
 

@@ -30,6 +30,10 @@
 
 &emsp;&emsp;(E) financial law enforcement to protect the integrity of financial systems, financial institutions, and government programs.
 
+#### (3) Emphasis on anti-corruption
+
+&emsp;Such technical assistance shall include elements designed to combat anti-competitive, unethical, and corrupt activities, including protection against actions that may distort or inhibit transparency in market mechanisms and, to the extent applicable, privatization procedures.
+
 #### (c) Administrative requirements
 
 In carrying out the program established under subsection (a) of this section, the Secretary—
@@ -54,7 +58,7 @@ In carrying out the program established under subsection (a) of this section, th
 
 &emsp;(B) Such funds shall be available for obligation and expenditure for the purposes for which such funds were authorized, in accordance with authority granted in this section or under authority governing the activities of the agency of the United States Government to which such funds are allocated or transferred.
 
-&emsp;(3) Appropriations for the purposes of or pursuant to this section, and allocations to anyagency of the United States Government from other appropriations for functions directly related to the purposes of this section, shall be available for—
+&emsp;(3) Appropriations for the purposes of or pursuant to this section, and allocations to any agency of the United States Government from other appropriations for functions directly related to the purposes of this section, shall be available for—
 
 &emsp;&emsp;(A) contracting with individuals for personal services abroad, except that such individuals shall not be regarded as employees of the United States Government for the purpose of any law administered by the Office of Personnel Management;
 
@@ -152,7 +156,7 @@ In this section:
 
 &emsp;Amounts authorized to be appropriated under paragraph (1) are authorized to remain available until expended.
 
-(Pub. L. 87–195, pt. I, §129, as added Pub. L. 105–277, div. A, §101(d) \[title V, §589(a)\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–205.)
+(Pub. L. 87–195, pt. I, §129, as added Pub. L. 105–277, div. A, §101(d) \[title V, §589(a)\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–205; amended Pub. L. 106–309, title II, §204, Oct. 17, 2000, 114 Stat. 1092.)
 
 #### References in Text
 
@@ -163,4 +167,8 @@ This chapter, referred to in subsec. (d)(4), was in the original “this Act”,
 #### Codification
 
 Another section 129 of Pub. L. 87–195 was renumbered section 130 and is classified to section 2152 of this title.
+
+#### Amendments
+
+2000—Subsec. (b)(3). Pub. L. 106–309 added par. (3).
 

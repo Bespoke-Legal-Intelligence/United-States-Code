@@ -6,7 +6,11 @@ The purpose of this chapter is to provide the Secretary of Agriculture with the 
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this title”, meaning title II of Pub. L. 103–354, Oct. 13, 1994, 108 Stat. 3209, known as the Department of Agriculture Reorganization Act of 1994. For complete classification of title II to the Code, see Short Title note below and Tables.
+This chapter, referred to in text, was in the original “this title”, meaning title II of Pub. L. 103–354, Oct. 13,1994, 108 Stat. 3209, known as the Department of Agriculture Reorganization Act of 1994. For complete classification of title II to the Code, see Short Title note below and Tables.
+
+#### Short Title of 2000 Amendment
+
+Pub. L. 106–222, §1, June 20, 2000, 114 Stat. 353, provided that: “This Act \[enacting subchapter X of this chapter\] may be cited as the ‘Freedom to E-File Act’.”
 
 #### Short Title
 

@@ -16,10 +16,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 10101 of this title; title 16 sections 583j–5, 3706; title 20 section 5509.
-
 
 ---
 

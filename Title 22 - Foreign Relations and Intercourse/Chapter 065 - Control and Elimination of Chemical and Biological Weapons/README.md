@@ -17,7 +17,7 @@
 | (d) | Waiver. |
 | (e) | Contract sanctity. |
 | [5606\.](%C2%A7%2005606%20-%20Presidential%20reporting%20requirements.md) | Presidential reporting requirements. |
-| (a) | Reports to Congress. |
+| (a) | Omitted. |
 | (b) | Protection of classified information. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

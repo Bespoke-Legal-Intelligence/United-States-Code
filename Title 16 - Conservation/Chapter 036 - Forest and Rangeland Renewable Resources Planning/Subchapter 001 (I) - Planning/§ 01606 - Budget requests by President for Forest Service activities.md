@@ -2,7 +2,7 @@
 
 #### (a) Transmittal to Speaker of House and President of Senate of Assessment, Program and Statement of Policy used in framing requests; time for transmittal; implementation by President of programs established under Statement of Policy unless Statement subsequently disapproved by Congress; time for disapproval
 
-On the date Congress first convenes in 1976 and thereafter following each updating of the Assessment and the Program, the President shall transmit to the Speaker of the House of Representatives and the President of the Senate,when Congress convenes, the Assessment as set forth in section 1601 of this title and the Program as set forth in section 1602 of this title, together with a detailed Statement of Policy intended to be used in framing budget requests by that Administration for Forest Service activities for the five- or ten-year program period beginning during the term of such Congress for such further action deemed appropriate by the Congress. Following the transmission of such Assessment, Program, and Statement of Policy, the President shall, subject to other actions of the Congress, carry out programs already established by law in accordance with such Statement of Policy or any subsequent amendment or modification thereof approved by the Congress, unless, before the end of the first period of ninety calendar days of continuous session of Congress after the date on which the President of the Senate and the Speaker of the House are recipients of the transmission of such Assessment, Program, and Statement of Policy, either House adopts a resolution reported by the appropriate committee of jurisdiction disapproving the Statement of Policy. For the purpose of this subsection, the continuity of a session shall be deemed to be broken only by an adjournment sine die, and the days on which either House is not in session because of an adjournment of more than three days to a day certain shall be excluded in the computation of the ninety-day period. Notwithstanding any other provision of this subchapter, Congress may revise or modify the Statement of Policy transmitted by the President, and the revised or modified Statement of Policy shall be used in framing budget requests.
+On the date Congress first convenes in 1976 and thereafter following each updating of the Assessment and the Program, the President shall transmit to the Speaker of the House of Representatives and the President of the Senate, when Congress convenes, the Assessment as set forth in section 1601 of this title and the Program as set forth in section 1602 of this title, together with a detailed Statement of Policy intended to be used in framing budget requests by that Administration for Forest Service activities for the five- or ten-year program period beginning during the term of such Congress for such further action deemed appropriate by the Congress. Following the transmission of such Assessment, Program, and Statement of Policy, the President shall, subject to other actions of the Congress, carry out programs already established by law in accordance with such Statement of Policy or any subsequent amendment or modification thereof approved by the Congress, unless, before the end of the first period of ninety calendar days of continuous session of Congress after the date on which the President of the Senate and the Speaker of the House are recipients of the transmission of such Assessment, Program, and Statement of Policy, either House adopts a resolution reported by the appropriate committee of jurisdiction disapproving the Statement of Policy. For the purpose of this subsection, the continuity of a session shall be deemed to be broken only by an adjournment sine die, and the days on which either House is not in session because of an adjournment of more than three days to a day certain shall be excluded in the computation of the ninety-day period. Notwithstanding any other provision of this subchapter, Congress may revise or modify the Statement of Policy transmitted by the President, and the revised or modified Statement of Policy shall be used in framing budget requests.
 
 #### (b) Contents of requests to show extent of compliance of projected programs and policies with policies approved by Congress; requests not conforming to approved policies; expenditure of appropriations
 
@@ -14,7 +14,7 @@ For the purpose of providing information that will aid Congress in its oversight
 
 #### (d) Required contents of annual evaluation report
 
-These annual evaluation reports shall set forth progress in implementing the Program required to be prepared by section 1602 of this title, together with accomplishments of the Program as they relate to the objectives of the Assessment. Objectives should be set forth in qualitative and quantitative terms and accomplishments should be reported accordingly. The report shall contain appropriate measurements of pertinent costs and benefits. The evaluation shall assess the balance between economic factors and environmental quality factors. Program benefits shall include, but not be limited to, environmental quality factors such as esthetics, public access, wildlife habitat, recreational and wilderness use, and economic factors such as the excess of cost savings over the value of foregoing benefits and the rate of return on renewable resources.
+These annual evaluation reports shall set forth progress in implementing the Program required to be prepared by section 1602 of this title, together with accomplishments of the Program as they relate to the objectives of the Assessment. Objectives should be set forth in qualitative and quantitative terms and accomplishments should be reported accordingly. The report shall contain appropriate measurements of pertinent costs and benefits. The evaluation shall assess the balance between economic factors and environmental quality factors. Program benefits shall include, but not be limitedto, environmental quality factors such as esthetics, public access, wildlife habitat, recreational and wilderness use, and economic factors such as the excess of cost savings over the value of foregoing benefits and the rate of return on renewable resources.
 
 #### (e) Additional required contents of annual evaluation report
 
@@ -30,7 +30,7 @@ The reports shall be structured for Congress in concise summary form with necess
 
 The Congressional Budget and Impoundment Control Act of 1974, referred to in subsec. (b), is Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2, The Congress, and Tables.
 
-The Cooperative Forestry Assistance Act of 1978, referred to in subsec. (c), is Pub. L. 95–313, July 1, 1978, 92 Stat. 365, which is classified principally to chapter 41 (§2101 et seq.) of this title. For complete classificationof this Act to the Code, see Short Title note set out under section 2101 of this title and Tables.
+The Cooperative Forestry Assistance Act of 1978, referred to in subsec. (c), is Pub. L. 95–313, July 1, 1978, 92 Stat. 365, which is classified principally to chapter 41 (§2101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2101 of this title and Tables.
 
 #### Amendments
 
@@ -45,6 +45,10 @@ Subsec. (d). Pub. L. 94–588, §12(b)(3), substituted “section 4” for “se
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–313 effective Oct. 1, 1978, see section 17 of Pub. L. 95–313, set out as an Effective Date note under section 2101 of this title.
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions in subsecs. (a) and (c) of this section relating to transmitting an updated Assessment, Program, and Statement of Policy to the Speaker of the House of Representatives and the President of the Senate and furnishing an annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and pages 45 and 48 of House Document No. 103–7.
 
 #### Statement of Policy
 
@@ -72,7 +76,7 @@ I74“basic principles
 
 #### “range land data base and its improvement
 
-“The data on and understanding of the cover and condition of range lands is less refined than the data on and understanding of commercial forest land. Range lands have significant value in the production of water and protection of watersheds; the production of fish and wildlife food and habitat; recreation; and the production of livestock forage. An adequate data base on the cover and condition of range lands should be developed by the year 1990. Currently, cattle production from these lands is annually estimated at 213 million animal unit months of livestock forage. These lands should be maintained and enhanced, including their water and other resource values, so that they can annually provide 310 million animal units months of forage by the year 2030, along with other benefits.
+“The data on and understanding of the cover and condition of range lands is less refined than the data on and understanding of commercial forest land. Range lands have significant value in the production of water and protection of watersheds; the production of fish and wildlife food and habitat; recreation; and the production of livestock forage. An adequate data base on the cover and condition of range lands should be developed by the year 1990. Currently, cattle production from these lands is annually estimated at 213 millionanimal unit months of livestock forage. These lands should be maintained and enhanced, including their water and other resource values, so that they can annually provide 310 million animal units months of forage by the year 2030, along with other benefits.
 
 #### “general acceptance of high bound program
 
@@ -92,5 +96,5 @@ Section 15, formerly section 12 of Pub. L. 95–313, renumbered §15, Pub. L. 10
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1601, 1604, 1684, 2106b, 4503c of this title.
+This section is referred to in sections 1601, 1604, 1684, 2106b of this title.
 

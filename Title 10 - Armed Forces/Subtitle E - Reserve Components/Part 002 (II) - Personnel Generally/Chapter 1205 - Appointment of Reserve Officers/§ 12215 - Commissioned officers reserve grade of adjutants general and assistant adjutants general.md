@@ -14,10 +14,6 @@ Provisions similar to those in this section were contained in sections 3392 and 
 
 Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-#### Cross References
-
-Adjutants general and assistant adjutants general, reference as applicable to other officers of National Guard, see section 10214 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 10214 of this title.

@@ -108,7 +108,7 @@ Subsec. (a)(3). Pub. L. 102–550, §210(a)(3), struck out par. (3) which read a
 
 Subsec. (b)(2). Pub. L. 102–550, §207(c)(1), substituted “may not be recognized for purposes of subsection (a) of this section” for “shall be recognized only up to an amount equal to 7 percent of funds provided for investment under this subchapter”.
 
-Subsec. (c)(2). Pub. L. 102–550, §207(c)(2), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “payment of administrative expenses, as defined by the Secretary, from non-Federal resources, which may include funds from a grant made under section 5306(b) or section 5306(d) of this title;”.
+Subsec. (c)(2). Pub. L. 102–550, §207(c)(2), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “payment of administrative expenses, as defined by the Secretary, from non-Federal resources,which may include funds from a grant made under section 5306(b) or section 5306(d) of this title;”.
 
 Subsec. (c)(3). Pub. L. 102–550, §210(b)(1), which directed the striking of “and” at end of par. (4), was executed by striking “and” at end of par. (3) to reflect the probable intent of Congress and the redesignation of par. (4) as (3). See below.
 

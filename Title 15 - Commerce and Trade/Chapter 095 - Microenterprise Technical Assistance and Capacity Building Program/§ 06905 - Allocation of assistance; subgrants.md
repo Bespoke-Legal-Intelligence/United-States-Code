@@ -16,7 +16,7 @@
 
 #### (b) Targeted assistance
 
-The Administrator shall ensure that not less than 50 percent of the grants made under this chapter are used to benefit very low-income persons, including those residing on Indian reservations.
+The Administrator shall ensure that not less than 50 percent of the grants made under thischapter are used to benefit very low-income persons, including those residing on Indian reservations.
 
 #### (c) Subgrants authorized
 

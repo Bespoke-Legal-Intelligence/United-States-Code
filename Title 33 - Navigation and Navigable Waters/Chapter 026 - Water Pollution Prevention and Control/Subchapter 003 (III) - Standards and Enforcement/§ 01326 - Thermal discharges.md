@@ -6,7 +6,7 @@ With respect to any point source otherwise subject to the provisions of section 
 
 #### (b) Cooling water intake structures
 
-Any standard established pursuant to section 1311 of this title or section 1316 of this title and applicable to a point source shall require that the location, design, construction, and capacity of cooling water intake structures reflect the best technology available for minimizing adverse environmental impact.
+Any standard established pursuant to section 1311 of this title or section 1316 of this title and applicable to a point source shall require that the location, design, construction, and capacityof cooling water intake structures reflect the best technology available for minimizing adverse environmental impact.
 
 #### (c) Period of protection from more stringent effluent limitations following discharge point source modification commenced after October 18, 1972
 

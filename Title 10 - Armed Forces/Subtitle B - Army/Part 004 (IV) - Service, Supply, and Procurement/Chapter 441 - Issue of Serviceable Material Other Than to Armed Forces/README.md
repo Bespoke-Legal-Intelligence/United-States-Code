@@ -16,12 +16,6 @@
 
 1984—Pub. L. 98–525, title XV, §1538(a)(2), Oct. 19, 1984, 98 Stat. 2636, added item 4657.
 
-#### Cross References
-
-General military law provisions, see sections 2541 et seq. of this title.
-
-Property records, see section 2721 of this title.
-
 
 ---
 

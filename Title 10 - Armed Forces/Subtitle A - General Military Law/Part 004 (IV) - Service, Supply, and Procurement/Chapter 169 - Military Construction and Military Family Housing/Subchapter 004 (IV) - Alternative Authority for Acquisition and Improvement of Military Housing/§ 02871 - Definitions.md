@@ -24,7 +24,7 @@ In this subchapter:
 
 &emsp;(8) The term “United States” includes the Commonwealth of Puerto Rico.
 
-(Added Pub. L. 104–106, div. B, title XXVIII, §2801(a)(1), Feb. 10, 1996, 110 Stat. 544; amendedPub. L. 105–261, div. B, title XXVIII, §2803, Oct. 17, 1998, 112 Stat. 2202; Pub. L. 106–65, div. B, title XXVIII, §2803(a), Oct. 5, 1999, 113 Stat. 848.)
+(Added Pub. L. 104–106, div. B, title XXVIII, §2801(a)(1), Feb. 10, 1996, 110 Stat. 544; amended Pub. L. 105–261, div. B, title XXVIII, §2803, Oct. 17, 1998, 112 Stat. 2202; Pub. L. 106–65, div. B, title XXVIII, §2803(a), Oct. 5, 1999, 113 Stat. 848.)
 
 #### Amendments
 

@@ -16,10 +16,6 @@ Section was formerly classified to section 1176 of this title, and prior thereto
 
 1940—Act July 12, 1940, substituted “the consular officer, or, if no consular officer is present, a diplomatic officer,” for “the consul or vice-consul,”.
 
-#### Cross References
-
-Inventory directed to be taken, see paragraph “Second” of section 4195 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 4191 of this title.

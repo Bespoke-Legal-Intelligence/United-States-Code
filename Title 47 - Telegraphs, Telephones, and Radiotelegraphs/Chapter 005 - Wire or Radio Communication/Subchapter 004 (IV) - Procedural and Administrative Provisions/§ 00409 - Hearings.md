@@ -6,7 +6,7 @@ In every case of adjudication (as defined in section 551 of title 5) which has b
 
 #### (b) Exceptions to initial decisions; memoranda; determination of Commission or authority within Commission; prohibition against consideration of own decision
 
-In every case of adjudication (as defined in section 551 of title 5) which has been designated by the Commission for hearing, any party to the proceeding shall be permitted to file exceptions and memoranda in support thereof to the initial, tentative, or recommended decision, which shall be passed upon by the Commission or by the authority within the Commission, if any, to whom the function of passing upon the exceptions is delegated under section 155(d)(1) <sup>1</sup> of this title: <i>Provided, however</i>, That such authority shall not be the same authority which made the decision to which the exception is taken.
+In every case of adjudication (as defined in section 551 of title 5) which has been designated by the Commission for hearing, any party to the proceeding shall be permitted to file exceptions and memoranda in support thereof to the initial, tentative, or recommended decision, which shall be passed upon by the Commission or by the authority within the Commission, if any, to whom the function of passing upon the exceptions is delegated under section 155(d)(1) <sup>1</sup> of this title:<i>Provided, however</i>, That such authority shall not be the same authority which made the decision to which the exception is taken.
 
 #### (c) Notice and opportunity for participation by parties; applicability of administrative procedure provisions
 
@@ -32,7 +32,7 @@ Any of the district courts of the United States within the jurisdiction of which
 
 #### (h) Depositions
 
-The testimony of any witness may be taken, at the instance of a party, in any proceeding or investigation pending before the Commission, by deposition, at any time after a cause or proceeding is at issue on petition and answer. The Commission may also order testimony to be taken by deposition in any proceeding or investigation pending before it, at any stage of such proceeding or investigation. Such depositions may be taken before any judge of any court of the United States, or any United States commissioner, or any clerk of a district court, or any chancellor, justice, or judge of a supreme or superior court, mayor, or chief magistrate of a city, judge of a county court, or court of common pleas of any of the United States, or any notary public, not being of counsel or attorney to either of the parties, nor interested in the event of the proceeding or investigation. Reasonable notice must first be given in writing by the party or his attorney proposing to take such deposition to the opposite party or his attorney of record, as either may be nearest, which notice shall state the name of the witness and the time and place of the taking of his deposition. Any person may be compelled to appear and depose, and to produce documentary evidence, in the same manner as witnesses may be compelled to appear and testify and produce documentary evidence before the Commission, as hereinbefore provided.
+The testimony of any witness may be taken, at the instance of a party, in any proceeding or investigation pending before the Commission, by deposition, at any time after a cause or proceeding is at issue on petition and answer. The Commission may also order testimony to be taken by deposition in any proceeding or investigation pending before it, at any stage of such proceeding or investigation. Such depositions may be taken before any judge of any court of the United States, or any United States magistrate judge, or any clerk of a district court, or any chancellor, justice, or judge of a supreme or superior court, mayor, or chief magistrate of a city, judge of a county court, or court of common pleas of any of the United States, or any notary public, not being of counsel or attorney to either of the parties, nor interested in the event of the proceeding or investigation. Reasonable notice must first be given in writing by the party or his attorney proposing to take such deposition to the opposite party or his attorney of record, as either may be nearest, which notice shall state the name of the witness and the time and place of the taking of his deposition. Any person may be compelled to appear and depose, and to produce documentary evidence, in the same manner as witnesses may be compelled to appear and testify and produce documentary evidence before the Commission, as hereinbefore provided.
 
 #### (i) Oaths; testimony in writing
 
@@ -40,7 +40,7 @@ Every person deposing as herein provided shall be cautioned and sworn (or affirm
 
 #### (j) Foreign depositions
 
-If a witness whose testimony may be desired to be taken by deposition be in a foreign country, the deposition may be taken before an officer or person designated by the Commission, oragreed upon by the parties by stipulation in writing to be filed with the Commission. All depositions must be promptly filed with the Commission.
+If a witness whose testimony may be desired to be taken by deposition be in a foreign country, the deposition may be taken before an officer or person designated by the Commission, or agreed upon by the parties by stipulation in writing to be filed with the Commission. All depositions must be promptly filed with the Commission.
 
 #### (k) Deposition fees
 
@@ -52,7 +52,7 @@ Witnesses whose depositions are taken as authorized in this chapter, and the mag
 
 Any person who shall neglect or refuse to attend and testify, or to answer any lawful inquiry, or to produce books, papers, schedules of charges, contracts, agreements, and documents, if in his power to do so, in obedience to the subpena or lawful requirement of the Commission, shall be guilty of a misdemeanor and upon conviction thereof by a court of competent jurisdiction shall be punished by a fine of not less than $100 nor more than $5,000, or by imprisonment for not more than one year, or by both such fine and imprisonment.
 
-(June 19, 1934, ch. 652, title IV, §409, 48 Stat. 1096; July 16, 1952, ch. 879, §16, 66 Stat. 721; Pub. L. 87–192, §4, Aug. 31, 1961, 75 Stat. 422; Pub. L. 91–452, title II, §242, Oct. 15, 1970, 84 Stat. 930.)
+(June 19, 1934, ch. 652, title IV, §409, 48 Stat. 1096; July 16, 1952, ch. 879, §16, 66 Stat. 721; Pub. L. 87–192, §4, Aug. 31, 1961, 75 Stat. 422; Pub. L. 90–578, title IV, §402(b)(2), Oct. 17, 1968, 82 Stat. 1118; Pub. L. 91–452, title II, §242, Oct. 15, 1970, 84 Stat. 930; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
 
 #### References in Text
 
@@ -76,6 +76,10 @@ Subsec. (d). Pub. L. 87–192 inserted references to section 155(d) of this titl
 
 1952—Act July 16, 1952, amended section generally, inserting subsecs. (a) to (d) and redesignating former subsecs. (b) to (j) as (e) to (m), respectively.
 
+#### Change of Name
+
+“United States magistrate judge” substituted for “United States magistrate” in subsec. (h) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure. Previously, “United States magistrate” substituted for “United States commissioner” pursuant to Pub. L. 90–578. See chapter 43 (§631 et seq.) of Title 28.
+
 #### Effective Date of 1970 Amendment
 
 Amendment by Pub. L. 91–452 effective on sixtieth day following Oct. 15, 1970, and not to affect any immunity to which any individual is entitled under this section by reason of any testimony given before sixtieth day following Oct. 15, 1970, see section 260 of Pub. L. 91–452, set out as an Effective Date; Savings Provisions note under section 6001 of Title 18, Crimes and Criminal Procedure.
@@ -83,14 +87,6 @@ Amendment by Pub. L. 91–452 effective on sixtieth day following Oct. 15, 1970,
 #### Savings Provision
 
 Section 5 of Pub. L. 87–192 provided that: “Notwithstanding the foregoing provisions of this Act \[amending this section and sections 155 and 405 of this title\], the second sentence of subsection (b) of section 409 of the Communications Act of 1934 \[subsec. (b) of this section\] (which relates to the filing of exceptions and the presentation of oral argument), as in force at the time of the enactment of this Act \[Aug. 31, 1961\], shall continue to be applicable with respect to any case of adjudication (as defined in the Administrative Procedure Act) \[see sections 551 et seq. and 701 et seq. of Title 5, Government Organization and Employees\] designated by the Federal Communications Commission for hearing by a notice of hearing issued prior to the date of the enactment of this Act.”
-
-#### Federal Rules of Civil Procedure
-
-Subpoena, see rule 45, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-#### Cross References
-
-Immunity of witnesses, see section 6001 et seq. of Title 18, Crimes and Criminal Procedure.
 
 #### Section Referred to in Other Sections
 

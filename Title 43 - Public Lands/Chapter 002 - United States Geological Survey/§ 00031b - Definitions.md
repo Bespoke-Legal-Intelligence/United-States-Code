@@ -16,7 +16,7 @@ In sections 31a to 31h of this title:
 
 #### (4) Education component
 
-&emsp;The term “education component” means the education component of the geologic mapping program described in section 31e(d)(3) <sup>1</sup> of this title.
+&emsp;The term “education component” means the education component of the geologic mappingprogram described in section 31e(d)(3) <sup>1</sup> of this title.
 
 #### (5) Federal component
 

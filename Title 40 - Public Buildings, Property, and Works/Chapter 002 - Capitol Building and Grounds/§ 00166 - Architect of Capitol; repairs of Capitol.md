@@ -78,7 +78,7 @@ Utility incentive programs.—In carrying out this section, the Architect is aut
 
 &emsp;&emsp;&emsp;“(iii) provides for the adoption of energy efficiency technologies or practices that the Architect determines are cost-effective for the buildings described in subsection (a); and
 
-&emsp;&emsp;“(B) enter into negotiations with electric and natural gas utilities to design a special demand management and conservation incentive program to address the unique needs of the buildings described in subsection (a).
+&emsp;&emsp;“(B) enter into negotiations with electric and natural gas utilities to design a special demandmanagement and conservation incentive program to address the unique needs of the buildings described in subsection (a).
 
 &emsp;“(5)
 
@@ -110,7 +110,7 @@ Pub. L. 100–458, title III, §307B, Oct. 1, 1988, 102 Stat. 2183.
 
 Pub. L. 102–392, title III, §305, Oct. 6, 1992, 106 Stat. 1721, provided that:
 
-“(a) The Architect of the Capitol, in consultation with the heads of the agencies of the legislative branch, shall develop an overall plan for satisfying the telecommunications requirements of such agencies, using a common system architecture for maximum interconnection capability and engineering compatibility.The plan shall be subject to joint approval by the Committee on House Administration of the House of Representatives and the Committee on Rules and Administration of the Senate, and, upon approval, shall be communicated to the Committee on Appropriations of the House of Representatives and the Committee on Appropriations of the Senate. No part of any appropriation in this Act or any other Act shall be used for acquisition of any new or expanded telecommunications system for an agency of the legislative branch, unless, as determined by the Architect of the Capitol, the acquisition is in conformance with the plan, as approved.
+“(a) The Architect of the Capitol, in consultation with the heads of the agencies of the legislative branch, shall develop an overall plan for satisfying the telecommunications requirements of such agencies, using a common system architecture for maximum interconnection capability and engineering compatibility. The plan shall be subject to joint approval by the Committee on House Administration of the House of Representatives and the Committee on Rules and Administration of the Senate, and, upon approval, shall be communicated to the Committee on Appropriations of the House of Representatives and the Committee on Appropriations of the Senate. No part of any appropriation in this Act or any other Act shall be used for acquisition of any new or expanded telecommunications system for an agency of the legislative branch, unless, as determined by the Architect of the Capitol, the acquisition is in conformance with the plan, as approved.
 
 “(b) As used in this section—
 
@@ -178,7 +178,7 @@ Act Aug. 5, 1955, ch. 568, §101, 69 Stat. 515, as amended by Pub. L. 91–77, S
 
 Pub. L. 91–510, title IV, §499, Oct. 26, 1970, 84 Stat. 1200, provided that:
 
-“(a) The Speaker of the House of Representatives shall appoint a special commission of the House, to be designated the ‘Special Commission on Modernization of House Gallery Facilities’, composed of five Members of the House, three from the majority party and two from the minority party. The Speaker shall designate as chairman of the commission one of the Members so appointed. A vacancy in the membership of the commission shall be filled in the same manner as the original appointment. The commission shall conduct a study of the structure and uses of the gallery facilities in the Chamber of the House of Representatives and shall formulate and develop a program for the modernization and improvement of the House gallery facilities in order to improve the physical conditions under which the proceedings on the floor of the House are conducted and to provide for spectators in the House galleries modernized and improved accommodations for their enlightenment, information, and understanding with respect to the proceedings on the floor of the House and the role of the House generally in the legislative branch of the Government. Any such program formulated and developed by the commission shall provide for—
+“(a) The Speaker of the House of Representatives shall appoint a special commission of the House, to be designated the ‘Special Commission on Modernization of House Gallery Facilities’, composed of five Members of the House, three from the majority party and two from the minority party. The Speaker shall designate as chairman of the commission one of the Members so appointed. A vacancy in the membership of the commission shall be filled in the same manner as the original appointment. The commission shall conduct a study of the structure and uses of the gallery facilities in the Chamber of the House of Representatives and shall formulate and develop a program for the modernization and improvement of the House gallery facilities in order to improve the physical conditions under which the proceedings on the floor of the House are conducted and to provide for spectators in the House galleries modernized and improved accommodations for their enlightenment, information, and understanding with respect to the proceedings on the floor of the House and the role of the House generally in the legislative branch of the Government. Any such programformulated and developed by the commission shall provide for—
 
 &emsp;“(1) the enclosure of the galleries with soundproof and transparent coverage in such manner as to preserve the visibility from the galleries of proceedings on the House floor and eliminate the audibility on the House floor of noise in the galleries;
 
@@ -197,8 +197,4 @@ Pub. L. 91–510, title IV, §499, Oct. 26, 1970, 84 Stat. 1200, provided that:
 “(f) There are hereby authorized to be appropriated, to remain available until expended, such sums as may be necessary to carry out the provisions of this section.”
 
 Section 499 of Pub. L. 91–510 effective immediately prior to noon on Jan. 3, 1971, see section 601(1) of Pub. L. 91–510, set out as an Effective Date of 1970 Amendment note under section 72a of Title 2, The Congress.
-
-#### Cross References
-
-Changes in architectural features of the Capitol Building or in landscape features of Capitol grounds, see section 162 of this title.
 

@@ -44,7 +44,7 @@
 
 &emsp;(B) the law of a State is not approvable under section 3304 of the Federal Unemployment Tax Act \[26 U.S.C. 3304\],
 
-> then the amount available for transfer to such State's account shall, in lieu of being so transferred, be transferred to the Federal unemployment account as of the beginning of such October 1. If, during the fiscal year beginning on such October 1, the Secretary of Labor finds and certifies to the Secretary of the Treasury that such State is eligible for certification under section 503 of this title, that the law of such State is approvable under such section 3304, or both, the Secretary of the Treasury shall transfer such amount from the Federal unemployment account to the account of such State. If the Secretary of Labor does not so find and certify to the Secretary of the Treasury before the close of such fiscal year then the amount which was available for transfer to such State's account as of October 1 of such fiscal year shall (as of the close of such fiscal year) become unrestricted as to use as part of the Federal unemployment account.
+> then the amount available for transfer to such State's account shall, in lieu of being so transferred, be transferred to the Federal unemployment account as of the beginning of such October 1. If, during the fiscal year beginning on such October 1, the Secretary of Labor finds and certifies to the Secretary of the Treasury that such State is eligible for certification under section 503 of this title, that the law of such State is approvable under such section 3304, or both, the Secretary of the Treasury shall transfer such amount from the Federal unemployment account to the account of such State. If the Secretary of Labor does not so find and certify to the Secretary of the Treasury before the close of such fiscal year then the amount which wasavailable for transfer to such State's account as of October 1 of such fiscal year shall (as of the close of such fiscal year) become unrestricted as to use as part of the Federal unemployment account.
 
 (2) The amount which, but for this paragraph, would be transferred to the account of a State under subsection (a) of this section or paragraph (1) of this subsection shall be reduced (but not below zero) by the balance of advances made to the State under section 1321 of this title. The sum by which such amount is reduced shall—
 
@@ -78,7 +78,7 @@
 
 &emsp;(E) the use of the money is accounted for in accordance with standards established by the Secretary of Labor.
 
-> Any amount allocated to a State under this section for fiscal year 2000, 2001, or 2002 may be usedby such State only to pay expenses incurred by it for the administration of its unemployment compensation law, and may be so used by it without regard to any of the conditions prescribed in any of the preceding provisions of this paragraph.
+> Any amount allocated to a State under this section for fiscal year 2000, 2001, or 2002 may be used by such State only to pay expenses incurred by it for the administration of its unemployment compensation law, and may be so used by it without regard to any of the conditions prescribed in any of the preceding provisions of this paragraph.
 
 (3)(A) If—
 
@@ -110,7 +110,7 @@ A prior section 1103, act Aug. 14, 1935, ch. 531, title IX, §903, 49 Stat. 640,
 
 Subsec. (c)(2). Pub. L. 105–33, §5403(b), inserted concluding provisions.
 
-1990—Subsec. (a)(2). Pub. L. 101–508, §5021(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Each State's share of the funds to be transferred under this subsection as of any October 1—
+1990—Subsec. (a)(2). Pub. L. 101–508, §5021(a), amended par. (2) generally. Prior to amendment, par. (2) read asfollows: “Each State's share of the funds to be transferred under this subsection as of any October 1—
 
 &emsp;“(A) shall be determined by the Secretary of Labor and certified by him to the Secretary of the Treasury before that date on the basis of reports furnished by the States to the Secretary of Labor before September 1, and
 
@@ -148,7 +148,7 @@ Subsec. (c)(2). Pub. L. 92–224, §1, substituted “twenty-four preceding fisc
 
 1963—Subsec. (c)(2). Pub. L. 88–31 substituted “nine preceding fiscal years” for “four preceding fiscal years”, “ten fiscal years” for “five fiscal years” in cl. (D), and “ninth preceding fiscal year” for “fourth preceding fiscal year” in last sentence.
 
-1960—Subsec. (a). Pub. L. 86–778 substituted provisions of par. (1) for first sentence of the section whichread “So much of any amount transferred to the Unemployment Trust Fund at the close of any fiscal year under section 1101(a) of this title as is not credited to the Federal unemployment account under section 1102 of this title shall be credited (as of the beginning of the succeeding fiscal year) to the accounts of the States in the Unemployment Trust Fund” and designated existing provisions of second sentence as part (2), substituting “transferred” for “credited”, and striking out “on or” before “before” in subpar. (A).
+1960—Subsec. (a). Pub. L. 86–778 substituted provisions of par. (1) for first sentence of the section which read “So much of any amount transferred to the Unemployment Trust Fund at the close of any fiscal year under section 1101(a) of this title as is not credited to the Federal unemployment account under section 1102 of this title shall be credited (as of the beginning of the succeeding fiscal year) to the accounts of the States in the Unemployment Trust Fund” and designated existing provisions of second sentence as part (2), substituting “transferred” for “credited”, and striking out “on or” before “before” in subpar. (A).
 
 Subsec. (b). Pub. L. 86–778 redesignated existing provisions as par. (1) and cls. (1) and (2) thereof as subpars. (A) and (B), substituted “section 3304 of title 26” for “section 1603 of title 26”, in two places, and “transfer to such States’ account”, “transferred”, and “transfer” for “crediting to such States’ account”, “credited” and “credit”, respectively, except where already reading “shall transfer”, and added par. (2).
 

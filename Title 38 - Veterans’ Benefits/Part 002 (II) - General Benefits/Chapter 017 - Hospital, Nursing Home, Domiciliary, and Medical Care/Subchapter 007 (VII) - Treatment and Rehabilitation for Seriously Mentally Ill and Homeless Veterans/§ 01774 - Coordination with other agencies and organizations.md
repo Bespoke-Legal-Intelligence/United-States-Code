@@ -24,7 +24,7 @@
 
 (5) Each assessment shall be carried out in accordance with uniform procedures and guidelines prescribed by the Secretary.
 
-(c) In furtherance of subsection (a), the Secretary shall require the director of each medicalcenter and the director of each regional benefits office, in coordination with representatives of State and local governments, other Federal officials, and nongovernmental organizations that have experience working with homeless persons in the areas served by such facility or office, to—
+(c) In furtherance of subsection (a), the Secretary shall require the director of each medical center and the director of each regional benefits office, in coordination with representatives of State and local governments, other Federal officials, and nongovernmental organizations that have experience working with homeless persons in the areas served by such facility or office, to—
 
 &emsp;(1) develop a list of all public and private programs that provide assistance to homeless persons or homeless veterans in the area concerned, together with a description of the services offered by those programs;
 

@@ -43,7 +43,7 @@
 | (c) | Services or responsibilities performed by General Accounting Office for Congress not altered or modified. |
 | (d) | Reimbursement for services and assistance. |
 | [479\.](%C2%A7%2000479%20-%20Coordination%20of%20activities%20with%20National%20Science%20Foundation.md) | Coordination of activities with National Science Foundation. |
-| [480\.](%C2%A7%2000480%20-%20Annual%20report%20to%20Congress.md) | Annual report to Congress. |
+| [480\.](%C2%A7%2000480%20-%20Omitted.md) | Omitted. |
 | [481\.](%C2%A7%2000481%20-%20Authorization%20of%20appropriations%3B%20availability%20of%20appropriations.md) | Authorization of appropriations; availability of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -62,5 +62,5 @@
 - [&sect; 00477 - Utilization of services of Library of Congress](%C2%A7%2000477%20-%20Utilization%20of%20services%20of%20Library%20of%20Congress.md)
 - [&sect; 00478 - Utilization of services of General Accounting Office](%C2%A7%2000478%20-%20Utilization%20of%20services%20of%20General%20Accounting%20Office.md)
 - [&sect; 00479 - Coordination of activities with National Science Foundation](%C2%A7%2000479%20-%20Coordination%20of%20activities%20with%20National%20Science%20Foundation.md)
-- [&sect; 00480 - Annual report to Congress](%C2%A7%2000480%20-%20Annual%20report%20to%20Congress.md)
+- [&sect; 00480 - Omitted](%C2%A7%2000480%20-%20Omitted.md)
 - [&sect; 00481 - Authorization of appropriations; availability of appropriations](%C2%A7%2000481%20-%20Authorization%20of%20appropriations%3B%20availability%20of%20appropriations.md)

@@ -12,7 +12,3 @@ Provisions similar to those in this section were contained in section 715 of thi
 
 Chapter effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-#### Cross References
-
-Detail of regular members of Army and Air Force to duty with National Guard, see section 315 of Title 32, National Guard.
-

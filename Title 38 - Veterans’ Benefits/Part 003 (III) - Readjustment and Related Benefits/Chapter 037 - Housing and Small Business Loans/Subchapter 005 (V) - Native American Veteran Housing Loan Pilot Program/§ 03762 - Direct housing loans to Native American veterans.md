@@ -36,7 +36,7 @@
 
 (B) The Secretary may make loans exceeding the amount specified in subparagraph (A) in a geographic area if the Secretary determines that housing costs in the area are significantly higher than average housing costs nationwide. The amount of such increase shall be the amount that the Secretary determines is necessary in order to carry out the pilot program under this subchapter in a manner that demonstrates the advisability of making direct housing loans to Native American veterans who are located in a variety of geographic areas and in geographic areas experiencing a variety of economic conditions.
 
-(2) Loans made under this section shall bear interest at a rate determined by the Secretary, which rate may not exceed the appropriate rate authorized for guaranteed loans under section 3703(c)(1) or section 3712(f) of this title, and shall be subject to such requirements or limitationsprescribed for loans guaranteed under this title as the Secretary may prescribe.
+(2) Loans made under this section shall bear interest at a rate determined by the Secretary, which rate may not exceed the appropriate rate authorized for guaranteed loans under section 3703(c)(1) or section 3712(f) of this title, and shall be subject to such requirements or limitations prescribed for loans guaranteed under this title as the Secretary may prescribe.
 
 (3) Notwithstanding section 3704(a) of this title, the Secretary shall establish minimum requirements for planning, construction, improvement, and general acceptability relating to any direct loan made under this section.
 

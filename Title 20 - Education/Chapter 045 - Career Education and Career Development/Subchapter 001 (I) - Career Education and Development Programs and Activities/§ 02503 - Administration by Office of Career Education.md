@@ -1,6 +1,6 @@
 ### §2503. Administration by Office of Career Education
 
-The provisions of this subchapter shall be carried out by the Secretary of Education throughthe Office of Career Education established pursuant to section 2612a(c) of this title.
+The provisions of this subchapter shall be carried out by the Secretary of Education through the Office of Career Education established pursuant to section 2612a(c) of this title.
 
 (Pub. L. 94–482, title III, §333, Oct. 12, 1976, 90 Stat. 2222; Pub. L. 96–88, title III, §301(a)(1), title V, §507, Oct. 17, 1979, 93 Stat. 677, 692.)
 

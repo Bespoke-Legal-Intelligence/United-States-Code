@@ -1,6 +1,6 @@
 ### §102. Surveillance by Congress
 
-(a) To assist the Congress in appraising the administration of this chapter and in developing such amendments or related legislation as may further be necessary to accomplish the objectives of this chapter, the appropriate committees of the Senate and the House of Representatives shall study each report submitted to the Congress under this chapter and shall otherwise maintain continuous surveillance of the operations of the Government agencies under this chapter.
+(a) To assist the Congress in appraising the administration of this chapter and in developingsuch amendments or related legislation as may further be necessary to accomplish the objectives of this chapter, the appropriate committees of the Senate and the House of Representatives shall study each report submitted to the Congress under this chapter and shall otherwise maintain continuous surveillance of the operations of the Government agencies under this chapter.
 
 (b) Repealed. Oct. 31, 1951, ch. 654, §1(110), 65 Stat. 705.
 
@@ -9,8 +9,4 @@
 #### Amendments
 
 1951—Subsec. (b). Act Oct. 31, 1949, repealed subsec. (b) which related to reports to Congress.
-
-#### Cross References
-
-Reports to Congress by Administrator of General Services, in connection with procurement, contracts, property management, etc., see section 492 of Title 40, Public Buildings, Property, and Works.
 

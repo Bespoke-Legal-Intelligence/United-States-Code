@@ -8,7 +8,7 @@ The Secretary shall—
 
 &emsp;(2) make available to participating jurisdictions alternative model programs, which shall include suggested guidelines, procedures, forms, legal documents and such other elements as the Secretary determines to be appropriate;
 
-&emsp;(3) assure, insofar as is feasible, the availability of an appropriate variety of model programs designed for local market conditions,housing problems, project characteristics, and managerial capacities as they differ among participating jurisdictions;
+&emsp;(3) assure, insofar as is feasible, the availability of an appropriate variety of model programs designed for local market conditions, housing problems, project characteristics, and managerial capacities as they differ among participating jurisdictions;
 
 &emsp;(4) negotiate and enter into agreements with agencies of the Federal Government, participating jurisdictions, private financial institutions, government-sponsored mortgage finance corporations, nonprofit organizations, and other entities to provide such services, products, or financing as may be required for the implementation of a model program;
 

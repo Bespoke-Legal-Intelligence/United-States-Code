@@ -44,7 +44,7 @@ A governmental entity that is affected by legal process served for the enforceme
 
 #### (f) Relief from liability
 
-(1) Neither the United States, nor the government of the District of Columbia, nor any disbursing officer shall be liable with respect to any payment made from moneys due or payable from the United States to any individual pursuant to legal process regular on its face, if thepayment is made in accordance with this section and the regulations issued to carry out this section.
+(1) Neither the United States, nor the government of the District of Columbia, nor any disbursing officer shall be liable with respect to any payment made from moneys due or payable from the United States to any individual pursuant to legal process regular on its face, if the payment is made in accordance with this section and the regulations issued to carry out this section.
 
 (2) No Federal employee whose duties include taking actions necessary to comply with the requirements of subsection (a) of this section with regard to any individual shall be subject under any law to any disciplinary action or civil or criminal liability or penalty for, or on account of, any disclosure of information made by the employee in connection with the carrying out of such actions.
 
@@ -78,7 +78,7 @@ Authority to promulgate regulations for the implementation of this section shall
 
 &emsp;&emsp;&emsp;&emsp;(IV) under any Federal program established to provide “black lung” benefits; or
 
-&emsp;&emsp;&emsp;&emsp;(V) by the Secretary of Veterans Affairs as compensation for a service-connected disability paid by the Secretary to a former member of the Armed Forces who is in receipt of retired or retainer pay if the former member has waived a portion of the retired or retainer pay in order to receive such compensation;
+&emsp;&emsp;&emsp;&emsp;(V) by the Secretary of Veterans Affairs as compensation for a service-connected disability paid by the Secretary to a former member of the Armed Forces who is in receipt of retired or retainerpay if the former member has waived a portion of the retired or retainer pay in order to receive such compensation;
 
 &emsp;&emsp;&emsp;(iii) worker's compensation benefits paid or payable under Federal or State law;
 
@@ -116,7 +116,7 @@ For purposes of this section—
 
 #### (1) United States
 
-&emsp;The term “United States” includes any department, agency, or instrumentality of the legislative, judicial, or executive branch of the Federal Government, the United States Postal Service, the Postal Rate Commission, anyFederal corporation created by an Act of Congress that is wholly owned by the Federal Government, and the governments of the territories and possessions of the United States.
+&emsp;The term “United States” includes any department, agency, or instrumentality of the legislative, judicial, or executive branch of the Federal Government, the United States Postal Service, the Postal Rate Commission, any Federal corporation created by an Act of Congress that is wholly owned by the Federal Government, and the governments of the territories and possessions of the United States.
 
 #### (2) Child support
 

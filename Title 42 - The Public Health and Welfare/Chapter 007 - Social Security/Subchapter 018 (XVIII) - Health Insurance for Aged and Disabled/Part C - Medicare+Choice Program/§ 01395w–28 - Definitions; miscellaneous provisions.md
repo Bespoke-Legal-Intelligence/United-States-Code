@@ -36,9 +36,9 @@ In this part—
 
 &emsp;&emsp;&emsp;(i) provides reimbursement for at least the items and services described in section 1395w–22(a)(1) of this title in a year but only after the enrollee incurs countable expenses (as specified under the plan) equal to the amount of an annual deductible (described in subparagraph (B));
 
-&emsp;&emsp;&emsp;(ii) counts as such expenses (for purposes of such deductible) at least all amounts that would have been payable under parts A and B of this subchapter, and that would have been payable by the enrollee as deductibles, coinsurance, or copayments, if the enrollee had elected to receive benefits through the provisions of such parts; and
+&emsp;&emsp;&emsp;(ii) counts as such expenses (for purposes of such deductible) at least all amountsthat would have been payable under parts A and B of this subchapter, and that would have been payable by the enrollee as deductibles, coinsurance, or copayments, if the enrollee had elected to receive benefits through the provisions of such parts; and
 
-&emsp;&emsp;&emsp;(iii) provides, after such deductible is met for a year and for all subsequent expenses for items and services referred to inclause (i) in the year, for a level of reimbursement that is not less than—
+&emsp;&emsp;&emsp;(iii) provides, after such deductible is met for a year and for all subsequent expenses for items and services referred to in clause (i) in the year, for a level of reimbursement that is not less than—
 
 &emsp;&emsp;&emsp;&emsp;(I) 100 percent of such expenses, or
 
@@ -120,7 +120,7 @@ The Internal Revenue Code of 1986, referred to in subsec. (e)(3)(A), is classifi
 
 #### Amendments
 
-1999—Subsec. (e)(2). Pub. L. 106–113 substituted “section 1395w–21(a)(2) of this title” for “section1395w–21(a)(2)(A) of this title” in introductory provisions.
+1999—Subsec. (e)(2). Pub. L. 106–113 substituted “section 1395w–21(a)(2) of this title” for “section 1395w–21(a)(2)(A) of this title” in introductory provisions.
 
 #### Section Referred to in Other Sections
 

@@ -4,7 +4,7 @@
 
 &emsp;(1) who is a citizen of the United States; and
 
-&emsp;(2) whose rate of basic pay is fixed by statute or, without taking into consideration the allowances and differentials provided by this subchapter, is fixed by administrative action pursuant to law or is fixed administratively in conformity with rates paid by the Government for work of a comparable level of difficultyand responsibility in the continental United States.
+&emsp;(2) whose rate of basic pay is fixed by statute or, without taking into consideration the allowances and differentials provided by this subchapter, is fixed by administrative action pursuant to law or is fixed administratively in conformity with rates paid by the Government for work of a comparable level of difficulty and responsibility in the continental United States.
 
 > To the extent authorized by a provision of statute other than this subchapter, the allowances and differentials provided by this subchapter may be paid to an employee officially stationed in a foreign area who is not a citizen of the United States.
 

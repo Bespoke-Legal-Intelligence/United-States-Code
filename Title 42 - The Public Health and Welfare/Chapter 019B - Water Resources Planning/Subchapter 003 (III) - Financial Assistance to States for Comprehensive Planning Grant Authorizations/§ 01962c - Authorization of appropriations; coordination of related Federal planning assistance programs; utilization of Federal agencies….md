@@ -18,7 +18,7 @@ Section 461 of title 40, referred to in subsec. (b), was repealed by Pub. L. 97�
 
 #### Increases in Salary, Pay, Retirement, or Other Benefits for Federal Employees
 
-For authority for payment of increases in salary and other Federal employee benefits, see section 1(e) ofPub. L. 95–404, set out as a note under section 1962d of this title.
+For authority for payment of increases in salary and other Federal employee benefits, see section 1(e) of Pub. L. 95–404, set out as a note under section 1962d of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -14,7 +14,7 @@ Distribution of Income or Assets.—The income or assets of the corporation may 
 
 (d)
 
-Loans.—The corporation may not make a loan or advance to an officer or member of theboard of representatives. Officers and members of the board who vote for or assent to making a loan or advance to an officer or member of the board, and officers or members of the board who participate in making the loan or advance, are jointly and severally liable to the corporation for the amount of the loan or advance until it is repaid.
+Loans.—The corporation may not make a loan or advance to an officer or member of the board of representatives. Officers and members of the board who vote for or assent to making a loan or advance to an officer or member of the board, and officers or members of the board who participate in making the loan or advance, are jointly and severally liable to the corporation for the amount of the loan or advance until it is repaid.
 
 (Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1390.)
 

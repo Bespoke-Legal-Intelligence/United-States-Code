@@ -4,7 +4,3 @@ The President of the United States may from year to year in his discretion under
 
 (Feb. 16, 1889, ch. 172, 25 Stat. 673.)
 
-#### Cross References
-
-Mature living and dead and down timber on unallotted Indian lands to be sold under regulations prescribed by Secretary of the Interior, see section 407 of this title.
-

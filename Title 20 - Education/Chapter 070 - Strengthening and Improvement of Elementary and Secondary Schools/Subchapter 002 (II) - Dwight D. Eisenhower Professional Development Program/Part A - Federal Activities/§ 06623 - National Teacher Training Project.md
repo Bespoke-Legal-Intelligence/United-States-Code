@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(I) each State should support a nationally based teacher training program, that is modeled after the National Writing Project, for teachers of early childhood education, and for teachers of core academic subjects including teachers of mathematics, science, English, civics and government, foreign languages, and arts;
 
-&emsp;&emsp;(J) the National Writing Project is a nationally recognized and honored nonprofit organization that recognizes there areteachers in every region of the United States who have developed successful methods for teaching writing and that such teachers can be trained and encouraged to train other teachers;
+&emsp;&emsp;(J) the National Writing Project is a nationally recognized and honored nonprofit organization that recognizes there are teachers in every region of the United States who have developed successful methods for teaching writing and that such teachers can be trained and encouraged to train other teachers;
 
 &emsp;&emsp;(K) the National Writing Project is a collaborative university-school program which offers summer and school year inservice teacher training programs and a dissemination network to inform and teach teachers regarding developments in the field of writing;
 

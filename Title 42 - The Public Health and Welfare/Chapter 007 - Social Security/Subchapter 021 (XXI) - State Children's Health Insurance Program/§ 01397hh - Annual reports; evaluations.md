@@ -84,7 +84,7 @@ The State shall—
 
 #### (1) Audit
 
-&emsp;Beginning with fiscal year 2000, and every third fiscal year thereafter, the Secretary, through the Inspector General of the Department of Health and Human Services, shall audit a sample from among the States described in paragraph (2) in order to—
+&emsp;Beginning with fiscal year 2000, and every third fiscal year thereafter, the Secretary, through the Inspector General of the Department of Health and Human Services, shallaudit a sample from among the States described in paragraph (2) in order to—
 
 &emsp;&emsp;(A) determine the number, if any, of enrollees under the plan under this subchapter who are eligible for medical assistance under subchapter XIX of this chapter (other than as optional targeted low-income children under section 1396a(a)(10)(A)(ii)(XIV) of this title); and
 

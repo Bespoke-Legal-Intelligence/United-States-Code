@@ -20,7 +20,7 @@ Except as provided in subsection (b) of this section, gaming regulated by this c
 
 (1) Subsection (a) of this section will not apply when—
 
-&emsp;(A) the Secretary, after consultation with the Indian tribe and appropriate State and local officials, including officials of other nearby Indian tribes, determines that a gaming establishment on newly acquired lands would be in the best interest of the Indian tribe and its members, and would not be detrimental to the surrounding community, but only if the Governor of the State in which the gaming activity is to be conducted concurs in the Secretary's determination; or
+&emsp;(A) the Secretary, after consultation with the Indian tribe and appropriate State andlocal officials, including officials of other nearby Indian tribes, determines that a gaming establishment on newly acquired lands would be in the best interest of the Indian tribe and its members, and would not be detrimental to the surrounding community, but only if the Governor of the State in which the gaming activity is to be conducted concurs in the Secretary's determination; or
 
 &emsp;(B) lands are taken into trust as part of—
 
@@ -44,7 +44,7 @@ Nothing in this section shall affect or diminish the authority and responsibilit
 
 #### (d) Application of title 26
 
-(1) The provisions of title 26 (including sections 1441, 3402(q), 6041, and 6050I, and chapter 35of such title) concerning the reporting and withholding of taxes with respect to the winnings from gaming or wagering operations shall apply to Indian gaming operations conducted pursuant to this chapter, or under a Tribal-State compact entered into under section 2710(d)(3) of this title that is in effect, in the same manner as such provisions apply to State gaming and wagering operations.
+(1) The provisions of title 26 (including sections 1441, 3402(q), 6041, and 6050I, and chapter 35 of such title) concerning the reporting and withholding of taxes with respect to the winnings from gaming or wagering operations shall apply to Indian gaming operations conducted pursuant to this chapter, or under a Tribal-State compact entered into under section 2710(d)(3) of this title that is in effect, in the same manner as such provisions apply to State gaming and wagering operations.
 
 (2) The provisions of this subsection shall apply notwithstanding any other provision of law enacted before, on, or after October 17, 1988, unless such other provision of law specifically cites this subsection.
 

@@ -168,7 +168,7 @@ Changes may be made in the regulations promulgated under this section only by ru
 
 #### (k) Changes in guidance document
 
-Any change made in the “Guidance for Controlling Asbestos-Containing Material in Buildings” shall be made only by rule in accordance with section 553 of title 5, unless a regulation described in this section dealing with the same subject matter is in effect. Any such change must protect human health and the environment.
+Any change made in the “Guidance for Controlling Asbestos-Containing Material in Buildings” shall be made only by rule in accordance with section 553 of title 5, unless a regulation described in this section dealing with the same subject matter is in effect. Any such changemust protect human health and the environment.
 
 #### (<i>l</i>) Treatment of Department of Defense schools
 

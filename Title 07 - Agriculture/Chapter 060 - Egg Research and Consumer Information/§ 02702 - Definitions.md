@@ -18,7 +18,7 @@ As used in this chapter—
 
 (h) The term “United States” means the forty-eight contiguous States of the United States of America and the District of Columbia.
 
-(i) The term “promotion” means any action, including paid advertising, to advance the imageor desirability of eggs, egg products, spent fowl, or products of spent fowl.
+(i) The term “promotion” means any action, including paid advertising, to advance the image or desirability of eggs, egg products, spent fowl, or products of spent fowl.
 
 (j) The term “research” means any type of research to advance the image, desirability, marketability, production, or quality of eggs, egg products, spent fowl, or products of spent fowl.
 

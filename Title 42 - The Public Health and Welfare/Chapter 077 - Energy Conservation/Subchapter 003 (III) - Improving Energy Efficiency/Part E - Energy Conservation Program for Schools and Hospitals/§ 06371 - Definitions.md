@@ -80,7 +80,7 @@ For the purposes of this part—
 
 (11) The term “State school facilities agency” means an existing agency which is broadly representative of public institutions of higher education, nonprofit institutions of higher education, public elementary and secondary schools, nonprofit elementary and secondary schools, public vocational education institutions, nonprofit vocational education institutions, and the interests of handicapped persons, in a State or, if no such agency exists, an agency which is designated by the Governor of such State which conforms to the requirements of this paragraph.
 
-(12) The term “State hospital facilities agency” means an existing agency which is broadly representative of the public hospitals and the nonprofit hospitals, or, if no such agency exists, an agency designated by the Governor of such State which conforms to the requirements of this paragraph.
+(12) The term “State hospital facilities agency” means an existing agency which is broadlyrepresentative of the public hospitals and the nonprofit hospitals, or, if no such agency exists, an agency designated by the Governor of such State which conforms to the requirements of this paragraph.
 
 (13) The term “energy audit” means a determination of the energy consumption characteristics of a building which—
 

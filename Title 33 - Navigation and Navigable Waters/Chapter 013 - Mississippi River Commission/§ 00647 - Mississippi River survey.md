@@ -22,13 +22,7 @@ Functions of all officers of Department of Commerce and functions of all officer
 
 #### Tributaries
 
-Act Mar. 3, 1881, ch. 136, 21 Stat. 474, provided in part as follows: “It shall be the duty of said commission totake into consideration, and of the Secretary of War \[now Secretary of the Army\] to extend operations, under their supervision, to tributaries of the Mississippi River to the extent, and not further, that may be necessary in the judgment of said commission to the perfection of the general and permanent improvement of said Mississippi River.”
-
-#### Cross References
-
-Flood control work for Mississippi River, see section 702 of this title.
-
-Printing reports of the Mississippi River Commission, see section 556 of this title.
+Act Mar. 3, 1881, ch. 136, 21 Stat. 474, provided in part as follows: “It shall be the duty of said commission to take into consideration, and of the Secretary of War \[now Secretary of the Army\] to extend operations, under their supervision, to tributaries of the Mississippi River to the extent, and not further, that may be necessary in the judgment of said commission to the perfection of the general and permanent improvement of said Mississippi River.”
 
 #### Section Referred to in Other Sections
 

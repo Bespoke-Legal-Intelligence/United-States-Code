@@ -2,7 +2,7 @@
 
 Section 14, act May 24, 1924, ch. 182, §20, formerly §13, 43 Stat. 143; renumbered §20 and amended Feb. 23, 1931, ch. 276, §7, 46 Stat. 1209, related to private secretaries to ambassadors.
 
-Section 15, act May 24, 1924, ch. 182, §21, formerly §14, 43 Stat. 143; renumbered §21 and amended Feb. 23, 1931,ch. 276, §7, 46 Stat. 1209; May 3, 1945, ch. 105, §9, 59 Stat. 104, related to assignment of officers for duty in Department of State or any other department or agency of the Government.
+Section 15, act May 24, 1924, ch. 182, §21, formerly §14, 43 Stat. 143; renumbered §21 and amended Feb. 23, 1931, ch. 276, §7, 46 Stat. 1209; May 3, 1945, ch. 105, §9, 59 Stat. 104, related to assignment of officers for duty in Department of State or any other department or agency of the Government.
 
 Section 16, act May 24, 1924, ch. 182, §21, formerly §14, 43 Stat. 143; renumbered §21 and amended Feb. 23, 1931, ch. 276, §7, 46 Stat. 1209; May 3, 1945, ch. 105, §9, 59 Stat. 104, related to assignment to special details.
 

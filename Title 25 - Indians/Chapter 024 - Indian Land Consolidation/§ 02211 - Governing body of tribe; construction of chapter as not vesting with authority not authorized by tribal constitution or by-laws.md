@@ -6,5 +6,5 @@ Nothing in this chapter shall be construed as vesting the governing body of an I
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 97–459, Jan. 12, 1983, 96 Stat. 2515, as amended, title II of which is classified to this chapter. For complete classification of this Act to the Code, see Tables.
+This chapter, referred to in text, was in the original “this Act”, which was translated as reading “this title”, meaning title II of Pub. L. 97–459, to reflect the probable intent of Congress.
 

@@ -1,6 +1,6 @@
 ### §1644. Import duties on articles entering United States or possessions from Virgin Islands
 
-All articles coming into the United States from the Virgin Islands shall be subject to or exempt from duty as provided for in section 1301a <sup>1</sup>of title 19 and subject to internal-revenue taxes as provided for in section 7652(b) of title 26.
+All articles coming into the United States from the Virgin Islands shall be subject to or exempt from duty as provided for in section 1301a <sup>1</sup> of title 19 and subject to internal-revenue taxes as provided for in section 7652(b) of title 26.
 
 (July 22, 1954, ch. 558, §28(d), 68 Stat. 509; Sept. 1, 1954, ch. 1213, title IV, §402(a), 68 Stat. 1140; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
 

@@ -10,7 +10,7 @@
 | (b) | Additional Congressional findings. |
 | (c) | Congressional declaration of purposes. |
 | [1441b.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001441b%20-%20Plan%20for%20elimination%20of%20all%20substandard%20housing%20and%20realization%20of%20national%20housing%20goal%3B%20report%20by%20President%20to%20Congress.md) | Plan for elimination of all substandard housing and realization of national housing goal; report by President to Congress. |
-| [1441c.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001441c%20-%20Annual%20report%20by%20President%20to%20Congress%3B%20contents.md) | Annual report by President to Congress; contents. |
+| [1441c.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001441c%20-%20Omitted.md) | Omitted. |
 | [1442\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001442%20-%20Repealed.%20Aug.%2031%2C%201954%2C%20ch.%201158%2C%20%C2%A77%2C%2068%20Stat.%201026.md) | Repealed. |
 | [1443\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001443%20-%20Provisions%20as%20controlling%20over%20other%20laws.md) | Provisions as controlling over other laws. |
 | [1444\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001444%20-%20Separability.md) | Separability. |
@@ -125,7 +125,6 @@
 | (g) | Waiver of interest rate limitations. |
 | (h) | Determination of need for assistance. |
 | (i) | Domestic farm labor housing available for other families. |
-| (j) | Equity skimming penalty. |
 | [1485\.](Subchapter%20003%20%28III%29%20-%20Farm%20Housing/%C2%A7%2001485%20-%20Housing%20and%20related%20facilities%20for%20elderly%20persons%20and%20families%20or%20other%20persons%20and%20families%20of%20low%20income.md) | Housing and related facilities for elderly persons and families or other persons and families of low income. |
 | (a) | Direct loans; authorization; terms and conditions; revolving fund; appropriation. |
 | (b) | Insurance of loans; authorization; terms and conditions; utilization of Agricultural Credit Insurance Fund. |
@@ -152,7 +151,8 @@
 | (w) | Set-aside of rural rental housing funds. |
 | (x) | Uniform project costs; coordination of housing resources and tax benefits. |
 | (y) | Service coordinators. |
-| (z) | Equity skimming penalty. |
+| (z) | Accounting and recordkeeping requirements. |
+| (aa) | Double damages for unauthorized use of housing projects assets and income. |
 | [1486\.](Subchapter%20003%20%28III%29%20-%20Farm%20Housing/%C2%A7%2001486%20-%20Financial%20assistance%20to%20provide%20low-rent%20housing%20for%20domestic%20farm%20labor.md) | Financial assistance to provide low-rent housing for domestic farm labor. |
 | (a) | Application; considerations. |
 | (b) | Maximum amount of assistance. |
@@ -185,7 +185,7 @@
 | [1489\.](Subchapter%20003%20%28III%29%20-%20Farm%20Housing/%C2%A7%2001489%20-%20Transfer%20of%20excess%20funds%20out%20of%20Rural%20Housing%20Insurance%20Fund.md) | Transfer of excess funds out of Rural Housing Insurance Fund. |
 | [1490\.](Subchapter%20003%20%28III%29%20-%20Farm%20Housing/%C2%A7%2001490%20-%20%E2%80%9CRural%E2%80%9D%20and%20%E2%80%9Crural%20area%E2%80%9D%20defined.md) | “Rural” and “rural area” defined. |
 | [1490a.](Subchapter%20003%20%28III%29%20-%20Farm%20Housing/%C2%A7%2001490a%20-%20Loans%20to%20provide%20occupant%20owned%2C%20rental%2C%20and%20cooperative%20housing%20for%20low%20and%20moderate%20income%2C%20elderly%20or%20handicapped%20persons%20or%20families.md) | Loans to provide occupant owned, rental, and cooperative housing for low and moderate income, elderly or handicapped persons or families. |
-| (a) | Interest rates; credits; determination of eligibility; recoupment; multi-family housing projects; assistance payments to owners; amount limitations; recordkeeping and payment requirements for owners; shared housing for elderly and handicapped; rental assistance tenant contribution. |
+| (a) | Interest rates; additional assistance; payments to owners; rent limitations. |
 | (b) | Location in rural areas; inclusion of qualified nonrural residents who will become rural residents. |
 | (c) | Reimbursement of Rural Housing Insurance Fund. |
 | (d) | Rental assistance contract authority; preconditions, limitations, etc. |
@@ -275,16 +275,17 @@
 | (i) | Payment under guarantee. |
 | (j) | Violation of guarantee requirements by lenders issuing guarantees. |
 | (k) | Refinancing. |
-| (<i>l</i>) | Nonassumption. |
-| (m) | Geographical targeting. |
-| (n) | Inapplicability of credit-elsewhere test. |
-| (<i>o</i>) | Tenant protections. |
-| (p) | Housing standards. |
-| (q) | Limitation on commitments to guarantee loans. |
-| (r) | Report. |
-| (s) | Definitions. |
-| (t) | Authorization of appropriations. |
-| (u) | Tax-exempt financing. |
+| (<i>l</i>) | Geographical targeting. |
+| (m) | Inapplicability of credit-elsewhere test. |
+| (n) | Tenant protections. |
+| (<i>o</i>) | Housing standards. |
+| (p) | Limitation on commitments to guarantee loans. |
+| (q) | Report. |
+| (r) | Definitions. |
+| (s) | Authorization of appropriations. |
+| (t) | Tax-exempt financing. |
+| (u) | Fee authority. |
+| (v) | Defaults of loans secured by reservation lands. |
 | [1490q.](Subchapter%20003%20%28III%29%20-%20Farm%20Housing/%C2%A7%2001490q%20-%20Disaster%20assistance.md) | Disaster assistance. |
 | (a) | Authority. |
 | (b) | Use. |
@@ -294,12 +295,15 @@
 | [1490r.](Subchapter%20003%20%28III%29%20-%20Farm%20Housing/%C2%A7%2001490r%20-%20Rural%20housing%20voucher%20program.md) | Rural housing voucher program. |
 | (a) | In general. |
 | (b) | Coordination and limitation. |
+| [1490s.](Subchapter%20003%20%28III%29%20-%20Farm%20Housing/%C2%A7%2001490s%20-%20Enforcement%20provisions.md) | Enforcement provisions. |
+| (a) | Equity skimming. |
+| (b) | Civil monetary penalties. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1434, 1441a, 9817, 12721, of this title; title 7 sections 1981, 2204f; title 12 section 1715z–13a; title 20 section 80g; title 48 sections 1408, 1408c.
+This chapter is referred to in sections 1434, 1441a, 9817, 12721, of this title; title 7 sections 1981, 2204f; title 12 sections 1715z–13a, 1715z–13b; title 20 section 80g; title 48 sections 1408, 1408c.
 
 
 ---

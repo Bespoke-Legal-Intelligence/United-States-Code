@@ -6,7 +6,7 @@ Notwithstanding any other provision of this subchapter, the Secretary, by lease 
 
 #### (b) Protection of facilities
 
-All agreements entered into pursuant to subsection (a) of this section shall contain provisions providing for fees to fully compensate the United States for all related costs of storage and removals of petroleum products (including theproportionate cost of replacement facilities necessitated as a result of any withdrawals) incurred by the United States on behalf of the foreign government or its representative.
+All agreements entered into pursuant to subsection (a) of this section shall contain provisions providing for fees to fully compensate the United States for all related costs of storage and removals of petroleum products (including the proportionate cost of replacement facilities necessitated as a result of any withdrawals) incurred by the United States on behalf of the foreign government or its representative.
 
 #### (c) Access to stored oil
 
@@ -17,4 +17,6 @@ The Secretary shall ensure that agreements to store petroleum products for forei
 Funds collected through the leasing of Strategic Petroleum Reserve facilities authorized by subsection (a) of this section after September 30, 2007, shall be used by the Secretary of Energy without further appropriation for the purchase of petroleum products for the Strategic Petroleum Reserve.
 
 (Pub. L. 94–163, title I, §168, as added Pub. L. 105–33, title IX, §9303(a), Aug. 5, 1997, 111 Stat. 676.)
+
+<i><sup>1</sup></i><i> So in original. Probably should be “products”.</i>
 

@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—THE SUPPLEMENTAL REGISTER
 
-#### Cross References
-
-Application of other sections of chapter to marks on supplemental register, see section 1094 of this title.
-
 
 ---
 

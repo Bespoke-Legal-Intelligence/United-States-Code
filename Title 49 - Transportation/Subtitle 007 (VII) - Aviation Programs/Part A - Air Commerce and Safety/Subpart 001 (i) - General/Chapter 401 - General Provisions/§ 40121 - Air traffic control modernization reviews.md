@@ -30,27 +30,33 @@ Continuance of program, etc.—Notwithstanding subsection (a), the Administrator
 
 &emsp;(2)
 
-Department of defense.—The Department of Defense shall have the same exemptions from acquisition laws as are waived by the Administrator under section 348(b) of Public Law 104–50 when engaged in joint actions to improve or replenish the national air traffic control system. The Administration may acquire real property, goods, and services through the Department of Defense, or other appropriate agencies, but is bound by the acquisition laws and regulations governing those cases.
+Department of defense.—The Department of Defense shall have the same exemptions from acquisition laws as are waived by the Administrator under section 40110(d)(2) of this title when engaged in joint actions to improve or replenish the national air traffic control system. The Administration may acquire real property, goods, and services through the Department of Defense, or other appropriate agencies, but is bound by the acquisition laws and regulations governing those cases.
 
 &emsp;(3)
 
 Report.—If the Administrator makes a determination under paragraph (1), the Administrator shall transmit a copy of the determination, together with a statement of the basis for the determination, to the Committees on Appropriations of the Senate and the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Transportation and Infrastructure of the House of Representatives.
 
-(Added Pub. L. 104–264, title II, §252, Oct. 9, 1996, 110 Stat. 3236.)
+(Added Pub. L. 104–264, title II, §252, Oct. 9, 1996, 110 Stat. 3236; amended Pub. L. 106–181, title III, §307(c)(2), Apr. 5, 2000, 114 Stat. 126.)
 
 #### References in Text
 
 The date of the enactment of the Air Traffic Management System Performance Improvement Act of 1996, referred to in subsec. (a), is the date of enactment of Pub. L. 104–264, which was approved Oct. 9, 1996.
 
-Section 348(b) of Public Law 104–50, referred to in subsec. (c)(2), is set out as a note under section 40110 of this title.
-
 #### Codification
 
 Another section 40121 was renumbered section 40124 of this title.
+
+#### Amendments
+
+2000—Subsec. (c)(2). Pub. L. 106–181 substituted “section 40110(d)(2) of this title” for “section 348(b) of Public Law 104–50”.
+
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
 
 #### Effective Date
 
 Section effective on date that is 30 days after Oct. 9, 1996, see section 203 of Pub. L. 104–264, set out as an Effective Date of 1996 Amendment note under section 106 of this title.
 
-Except as otherwise specifically provided, section applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as an Effective Date of 1996 Amendment note under section 106 of this title.
+Except as otherwise specifically provided, section applicable only to fiscal years beginning after Sept. 30,1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as an Effective Date of 1996 Amendment note under section 106 of this title.
 

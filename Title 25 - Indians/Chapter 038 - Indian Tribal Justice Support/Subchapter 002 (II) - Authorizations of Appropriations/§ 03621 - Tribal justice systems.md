@@ -2,19 +2,19 @@
 
 #### (a) Office
 
-There is authorized to be appropriated to carry out the provisions of sections 3611 and 3612 of this title, $7,000,000 for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000. None of the funds provided under this subsection may be used for the administrative expenses of the Office.
+There is authorized to be appropriated to carry out the provisions of sections 3611 and 3612 of this title, $7,000,000 for each of the fiscal years 2000 through 2007. None of the funds provided under this subsection may be used for the administrative expenses of the Office.
 
 #### (b) Base support funding for tribal justice systems
 
-There is authorized to be appropriated to carry out the provisions of section 3613 of this title, $50,000,000 for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000.
+There is authorized to be appropriated to carry out the provisions of section 3613 of this title, $50,000,000 for each of the fiscal years 2000 through 2007.
 
 #### (c) Administrative expenses for Office
 
-There is authorized to be appropriated, for the administrative expenses of the Office, $500,000 for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000.
+There is authorized to be appropriated, for the administrative expenses of the Office, $500,000 for each of the fiscal years 2000 through 2007.
 
 #### (d) Administrative expenses for tribal judicial conferences
 
-There is authorized to be appropriated, for the administrative expenses of tribal judicial conferences, $500,000 for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000.
+There is authorized to be appropriated, for the administrative expenses of tribal judicial conferences, $500,000 for each of the fiscal years 2000 through 2007.
 
 #### (e) Survey
 
@@ -32,5 +32,9 @@ In allocating funds appropriated pursuant to the authorization contained in subs
 
 No Federal agency shall offset funds made available pursuant to this chapter for tribal justice systems against other funds otherwise available for use in connection with tribal justice systems.
 
-(Pub. L. 103–176, title II, §201, Dec. 3, 1993, 107 Stat. 2009.)
+(Pub. L. 103–176, title II, §201, Dec. 3, 1993, 107 Stat. 2009; Pub. L. 106–559, title II, §202, Dec. 21, 2000, 114 Stat. 2782.)
+
+#### Amendments
+
+2000—Subsecs. (a) to (d). Pub. L. 106–559 substituted “2000 through 2007” for “1994, 1995, 1996, 1997, 1998, 1999, and 2000”.
 

@@ -16,15 +16,11 @@
 
 #### Amendments
 
-1983—Pub. L. 97–409, §2(b)(2), Jan. 3, 1983, 96 Stat. 2039, substituted “independent counsels” for “special prosecutors” in item 49.
+<b>1983</b>—Pub. L. 97–409, §2(b)(2), Jan. 3, 1983, 96 Stat. 2039, substituted “independent counsels” for “special prosecutors” in item 49.
 
-1978—Pub. L. 95–521, title VI, §602(b), Oct. 26, 1978, 92 Stat. 1874, added item 49.
+<b>1978</b>—Pub. L. 95–521, title VI, §602(b), Oct. 26, 1978, 92 Stat. 1874, added item 49.
 
 Pub. L. 95–486, §5(c), Oct. 20, 1978, 92 Stat. 1633, substituted “panels” for “divisions” in item 46.
-
-#### Cross References
-
-Jurisdiction of courts of appeals, see section 1291 et seq. of this title.
 
 
 ---

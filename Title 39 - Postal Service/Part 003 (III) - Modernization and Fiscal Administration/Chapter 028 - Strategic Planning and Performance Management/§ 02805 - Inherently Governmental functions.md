@@ -4,3 +4,7 @@ The functions and activities of this chapter shall be considered to be inherentl
 
 (Added Pub. L. 103–62, §7, Aug. 3, 1993, 107 Stat. 294.)
 
+#### Section Referred to in Other Sections
+
+This section is referred to in title 44 section 3534.
+

@@ -4,7 +4,3 @@ The action of the Commission in allowing or denying any claim under this subchap
 
 (Mar. 10, 1950, ch. 54, title III, §314, as added Aug. 9, 1955, ch. 645, §3, 69 Stat. 574.)
 
-#### Federal Rules of Civil Procedure
-
-Relief by action or motion instead of relief by mandamus, see rule 81, Title 28, Appendix, Judiciary and Judicial Procedure.
-

@@ -6,7 +6,7 @@ The President may enroll in the Peace Corps for service abroad qualified citizen
 
 #### (b) Living allowances, travel, leave and related items; transfers of supplies and equipment
 
-Volunteers shall be provided with such living, travel, and leave allowances, and such housing, transportation, supplies, equipment, subsistence, and clothing as the President may determine to be necessary for their maintenance and to insure their health and their capacity to serve effectively. Supplies or equipment provided volunteers to insure their capacity to serve effectively may be transferred to the government or to other entities of the country or area with which they have been serving, when no longer necessary for such purpose, and when such transfers would further the purposes of this chapter. Transportation and travel allowances may also be provided, in such circumstances as the President may determine, for applicants for enrollment to or from places of training and places of enrollment, and for former volunteers from places of termination to their homes in the United States.
+Volunteers shall be provided with such living, travel, and leave allowances, and such housing, transportation, supplies, equipment, subsistence, and clothing as the President may determine to be necessary for their maintenance and to insure their health and their capacity to serve effectively. Supplies or equipment provided volunteers to insure their capacity to serve effectively may be transferred to the government or to other entities of the country or area with which they have been serving, when no longer necessary for such purpose, and when such transfers would further the purposes of thischapter. Transportation and travel allowances may also be provided, in such circumstances as the President may determine, for applicants for enrollment to or from places of training and places of enrollment, and for former volunteers from places of termination to their homes in the United States.
 
 #### (c) Readjustment allowances
 
@@ -198,7 +198,7 @@ Definitions.—For purposes of this section—
 
 #### Legal Expenses Incurred Prior to Sept. 13, 1966
 
-Section 2(b) of Pub. L. 89–572 provided that: “The authority contained in subsection (a) \[adding subsec. (<i>l</i>) to this section\] shall extend to counsels fees, costs, and other expenses of the types specified therein that were incurred prior to the date of enactment of this Act \[Sept. 13, 1966\].”
+Section 2(b) of Pub. L. 89–572 provided that: “The authority contained in subsection (a) \[adding subsec. (<i>l</i>)to this section\] shall extend to counsels fees, costs, and other expenses of the types specified therein that were incurred prior to the date of enactment of this Act \[Sept. 13, 1966\].”
 
 #### Ex. Ord. No. 11103. Appointment of Former Volunteers to Civilian Career Services
 

@@ -18,7 +18,7 @@
 
 #### (2) Competition
 
-&emsp;An organization that desires to be selected as a host institution for a Regional Center shall submit an application to the Corporate Board. The Corporate Board shall determine the location of the Regional Centers based on a competitive review of the contents of such applications and shall consider the ability of the applicant to carry out the activities specified in this section.
+&emsp;An organization that desires to be selected as a host institution for a Regional Center shall submit an application to the Corporate Board. The Corporate Board shall determine the location of the Regional Centers based ona competitive review of the contents of such applications and shall consider the ability of the applicant to carry out the activities specified in this section.
 
 #### (c) Matching of funds
 

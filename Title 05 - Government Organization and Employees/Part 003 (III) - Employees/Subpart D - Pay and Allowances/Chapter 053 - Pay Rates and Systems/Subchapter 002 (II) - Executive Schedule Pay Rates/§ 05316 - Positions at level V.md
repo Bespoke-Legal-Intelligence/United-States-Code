@@ -1,6 +1,6 @@
 ### §5316. Positions at level V
 
-Level V of the Executive Schedule applies to the following positions, for which the annual rate of basic pay shall be the rate determined with respect to such level under chapter 11 of title 2, as adjusted by section 5318 of this title:
+Level V of the Executive Schedule applies to the following positions, for which the annual rate of basic pay shall be the rate determinedwith respect to such level under chapter 11 of title 2, as adjusted by section 5318 of this title:
 
 &emsp;Administrator, Bonneville Power Administration, Department of the Interior.
 
@@ -192,7 +192,7 @@ Aug. 14, 1964, Pub. L. 88–426, §303(e), 78 Stat. 419.
 
 Aug. 14, 1964, Pub. L. 88–426, §303(g), 78 Stat. 422.
 
-Paragraphs (100)–(116) are added on authority of former section 2211(g) which authorized the President to place, from Aug. 15, 1964, to Feb. 1, 1965, not more than 30 positions in Levels IV and V of the Federal Executive Salary Schedule. Pursuant to this authority, the President by Executive Order No. 11189, Nov. 23, 1964, as amended by Executive Order No. 11195, Jan. 30, 1965, placed the positions listed in paragraphs (100)–(116) in Level V.
+Paragraphs (100)–(116) are added on authority of former section 2211(g) which authorized the President to place, from Aug. 15, 1964, to Feb. 1, 1965, not more than 30 positions in Levels IV and V of the Federal Executive Salary Schedule. Pursuant to this authority, the President by Executive Order No. 11189, Nov. 23,1964, as amended by Executive Order No. 11195, Jan. 30, 1965, placed the positions listed in paragraphs (100)–(116) in Level V.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -324,7 +324,7 @@ Pub. L. 100–527 struck out items relating to Associate Deputy Administrator of
 
 Pub. L. 100–504 struck out items relating to Inspectors General for Departments of Commerce and Interior and for Agency for International Development, Community Services Administration, Environmental Protection Agency, General Services Administration, National Aeronautics and Space Administration, and Small Business Administration and relating to Deputy Inspectors General for Departments of Energy and Health and Human Services.
 
-1987—Pub. L. 100–180 substituted “Assistant to the Secretary of Defense for Atomic Energy, Department ofDefense” for “Chairman of the Military Liaison Committee to the Atomic Energy Commission, Department of Defense”.
+1987—Pub. L. 100–180 substituted “Assistant to the Secretary of Defense for Atomic Energy, Department of Defense” for “Chairman of the Military Liaison Committee to the Atomic Energy Commission, Department of Defense”.
 
 1986—Pub. L. 99–659 inserted item relating to Chief Scientist, National Oceanic and Atmospheric Administration.
 
@@ -578,11 +578,15 @@ Amendment by Pub. L. 95–452 effective Oct. 1, 1978, see section 12 of Pub. L. 
 
 Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub. L. 93–415, as added by Pub. L. 95–115, set out as a note under section 5601 of Title 42, The Public Health and Welfare.
 
+#### Effective Date of 1976 Amendment
+
+Amendment by Pub. L. 94–582 effective 30 days after Oct. 21, 1976, see section 27 of Pub. L. 94–582, as amended, set out as a note under section 74 of Title 7, Agriculture.
+
 #### Effective Date of 1974 Amendments
 
 Amendment by Pub. L. 93–463 effective Oct. 23, 1974, see section 418 of Pub. L. 93–463, set out as a note under section 2 of Title 7, Agriculture.
 
-Amendment by Pub. L. 93–438 effective 120 days after Oct. 11, 1974, or on such earlier date as President may prescribe and publish in Federal Register, except that officers provided for in sections 5811–5820 of Title 42, The Public Health and Welfare, may be nominated and appointed at any time after Oct. 11, 1974, see section 312(a) of Pub. L. 93–438, set out as an Effective Date; Interim Appointments note under section 5801 of Title 42.
+Amendment by Pub. L. 93–438 effective 120 days after Oct. 11, 1974, or on such earlier date as President may prescribe and publish in Federal Register, except that officers provided for in sections 5811–5820 of Title 42, The Public Health and Welfare, may be nominated andappointed at any time after Oct. 11, 1974, see section 312(a) of Pub. L. 93–438, set out as an Effective Date; Interim Appointments note under section 5801 of Title 42.
 
 Amendment by Pub. L. 93–271 effective July 1, 1974, see section 3 of Pub. L. 93–271, set out as a note under section 742b of Title 16, Conservation.
 
@@ -594,7 +598,7 @@ Amendment by Pub. L. 93–43 effective June 18, 1973, see section 10(a) of Pub. 
 
 #### Effective Date of 1972 Amendments
 
-Amendment by Pub. L. 92–603 effective on first day of first pay period of Commissioner of Social Security,Department of Health, Education, and Welfare, which commences on or after first day of month which follows month in which Pub. L. 92–603 was enacted, see section 404(c) of Pub. L. 92–603, set out as a note under section 5315 of this title.
+Amendment by Pub. L. 92–603 effective on first day of first pay period of Commissioner of Social Security, Department of Health, Education, and Welfare, which commences on or after first day of month which follows month in which Pub. L. 92–603 was enacted, see section 404(c) of Pub. L. 92–603, set out as a note under section 5315 of this title.
 
 Amendment by Pub. L. 92–302, abolishing offices of Assistant Secretary of the Treasury for Administration and Deputy Under Secretary for Monetary Affairs, Department of the Treasury, effective on confirmation by Senate of Presidential appointees to fill the successor positions created by Pub. L. 92–302, see, section 3(b) of Pub. L. 92–302, May 18, 1972, 86 Stat. 149.
 
@@ -654,7 +658,9 @@ Subversive Activities Control Board, Chairman and Members of which were compensa
 
 #### Salary Increases
 
-2000—Salaries of positions at level V increased to $114,500 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 2000, as provided by Ex. Ord. No. 13144, Dec. 21, 1999, 64 F.R. 72237, set out as a note under section 5332 of this title.
+2001—Salaries of positions at level V increased to $117,600 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 2001, as provided by Ex. Ord. No. 13182, Dec. 23, 2000, 65 F.R. 82879, 66 F.R. 10057, set out as a note under section 5332 of this title.
+
+2000—Salaries of positions at level V increased to $114,500 per annum, effective on the first day of the firstpay period beginning on or after Jan. 1, 2000, as provided by Ex. Ord. No. 13144, Dec. 21, 1999, 64 F.R. 72237.
 
 1999—Salaries of positions at level V continued at $110,700 per annum by Ex. Ord. No. 13106, Dec. 7, 1998, 63 F.R. 68151.
 
@@ -668,7 +674,7 @@ Subversive Activities Control Board, Chairman and Members of which were compensa
 
 1993—Salaries of positions at level V increased to $108,200 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 1993, as provided by Ex. Ord. No. 12826, Dec. 30, 1992, 57 F.R. 62909.
 
-1992—Salaries of positions at level V increased to $104,800 per annum, effective on the first day of the firstpay period beginning on or after Jan. 1, 1992, as provided by Ex. Ord. No. 12786, Dec. 26, 1991, 56 F.R. 67453.
+1992—Salaries of positions at level V increased to $104,800 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 1992, as provided by Ex. Ord. No. 12786, Dec. 26, 1991, 56 F.R. 67453.
 
 1991—Salaries of positions at level V increased to $101,300 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 1991, as provided by Ex. Ord. No. 12736, Dec. 12, 1990, 55 F.R. 51385.
 
@@ -714,9 +720,9 @@ Limitations on use of funds for fiscal year ending Sept. 30, 1979, appropriated 
 
 1975—Salaries of positions at level V increased to $37,800 per annum, effective on the first day of the first pay period beginning on or after Oct. 1, 1975, by Ex. Ord. No. 11883, Oct. 6, 1975, 40 F.R. 47091.
 
-1969—Salaries of positions at level V increased from $28,000 to $36,000 per annum, commencing on the first day of the pay period which begins after February 14, 1969, on recommendation of the President of the United States, see note set out under section 358 of Title 2, The Congress.
+1969—Salaries of positions at level V increased from $28,000 to $36,000 per annum, commencing on the firstday of the pay period which begins after February 14, 1969, on recommendation of the President of the United States, see note set out under section 358 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5317, 5377, 5380, 8432 of this title; title 2 sections 60a–2, 74a–3, 282b, 288, 353, 437c, 1381, 1382; title 3 section 113; title 10 section 973; title 12 sections 1723a, 4703; title 15 section 2204; title 18 section 207; title 20 sections 1221e, 3501, 3503, 5826, 5848, 5933, 6021; title 21 section 1305; title 22 sections 286a, 1465c, 1622c, 3506, 3612, 3961, 4106, 5510; title 25 section 3505; title 26 sections 3121, 6103; title 28 sections 537, 548, 625; title 31 section 731; title 38 sections 7404, 7451; title 39 section 206; title 41 section 422; title 42 sections 300aa–12, 410, 907a, 1108, 1320b–9, 2996d, 3015, 5871, 5872, 7211, 7232, 7291, 7293, 10704, 11314; title 44 sections 303, 3319; title 47 section 155; title 49 section 106.
+This section is referred to in sections 5317, 5377, 5380, 8432 of this title; title 2 sections 60a–2, 74a–3, 282b, 288, 353, 437c, 1381, 1382; title 3 section 113; title 10 section 973; title 12 sections 1723a, 4703; title 15 section 2204; title 18 section 207; title 20 sections 1221e, 3501, 3503, 5826, 5848, 5933, 6021; title 21 sections 1305, 1908; title 22 sections 286a, 1465c, 1622c, 3506, 3612, 3961, 4106, 5510, 6432b; title 25 section 3505; title 26 sections 3121, 6103; title 28 sections 537, 548, 625; title 31 section 731; title 38 sections 7404, 7451; title 39 section 206; title 41 section 422; title 42 sections 300aa–12, 410, 907a, 1108, 1320b–9, 2996d, 3015, 5871, 5872, 7211, 7232, 7291, 7293, 7383, 10704, 11314; title 44 sections 303, 3319; title 47 section 155; title 49 section 106.
 

@@ -8,39 +8,51 @@
 
 #### (2) Mandatory expenses
 
-&emsp;There are authorized to be appropriated such sums as are necessary to cover for each of the 1999 and subsequent reinsurance years—
+&emsp;There are authorized to be appropriated such sums as are necessary to cover for each of the 1999 and subsequent reinsurance years the following:
 
-&emsp;&emsp;(A) the administrative and operating expenses of the Corporation for the sales commissions of agents; and
+&emsp;&emsp;(A) The administrative and operating expenses of the Corporation for the sales commissions of agents.
 
-&emsp;&emsp;(B) premium subsidies, including the administrative and operating expenses of an approved insurance provider for the delivery of policies with additional coverage.
+&emsp;&emsp;(B) Premium subsidies, including the administrative and operating expenses of an approved insurance provider for the delivery of policies with additional coverage.
+
+&emsp;&emsp;(C) Costs associated with the conduct of livestock and wild salmon pilot programs carried out under section 1523 of this title, subject to the limitations in subsections (a)(3)(E)(ii) and (b)(10) of section 1523 of this title.
+
+&emsp;&emsp;(D) Costs associated with the reimbursement, contracting, and partnerships for research and development under section 1522 of this title.
 
 #### (b) Payment of Corporation expenses from insurance fund
 
 #### (1) Expenses generally
 
-&emsp;For each of the 1999 and subsequent reinsurance years, the Corporation may pay from the insurance fund established under subsection (c) of this section all expenses of the Corporation (other than expenses covered by subsection (a)(1) of this section and expenses covered by paragraph (2)(A)), including—
+&emsp;For each of the 1999 and subsequent reinsurance years, the Corporation may pay from the insurance fund established under subsection (c) of this section all expenses of the Corporation (other than expenses covered by subsection (a)(1) of this section and expenses covered by paragraph (2)(A)), including the following:
 
-&emsp;&emsp;(A) premium subsidies and indemnities;
+&emsp;&emsp;(A) Premium subsidies and indemnities.
 
-&emsp;&emsp;(B) administrative and operating expenses of the Corporation necessary to pay the sales commissions of agents; and
+&emsp;&emsp;(B) Administrative and operating expenses of the Corporation necessary to pay the sales commissions of agents.
 
-&emsp;&emsp;(C) all administrative and operating expense reimbursements due under a reinsurance agreement with an approved insurance provider.
+&emsp;&emsp;(C) All administrative and operating expense reimbursements due under a reinsurance agreement with an approved insurance provider.
 
-#### (2) Research and development expenses
+&emsp;&emsp;(D) Costs associated with the conduct of livestock and wild salmon pilot programs carried out under section 1523 of this title, subject to the limitations in subsections (a)(3)(E)(ii) and (b)(10) of section 1523 of this title.
+
+&emsp;&emsp;(E) Costs associated with the reimbursement, contracting, and partnerships for research and development under section 1522 of this title.
+
+#### (2) Policy consideration and implementation
 
 #### (A) In general
 
-&emsp;&emsp;For each of the 1999 and subsequent reinsurance years, the Corporation may payfrom the insurance fund established under subsection (c) of this section research and development expenses of the Corporation, but not to exceed $3,500,000 for each fiscal year.
+&emsp;&emsp;For each of the 1999 and subsequent reinsurance years, the Corporation may use the insurance fund established under subsection (c) of this section, but not to exceed $3,500,000 for each fiscal year, to pay the following:
+
+&emsp;&emsp;&emsp;(i) Costs associated with the consideration and implementation of policies, plans of insurance, and related materials submitted under section 1508(h) of this title or developed under section 1522 or 1523 of this title.
+
+&emsp;&emsp;&emsp;(ii) Costs to contract for the review of policies, plans of insurance, and related materials under section 1505(e) of this title and to contract for other assistance in considering policies, plans of insurance, and related materials.
 
 #### (B) Dairy options pilot program
 
-&emsp;&emsp;Amounts necessary to carry out the dairy options pilot program shall not be counted toward the limitation on research and development expenses specified in subparagraph (A).
+&emsp;&emsp;Amounts necessary to carry out the dairy options pilot program shall not be counted toward the limitation on expenses specified in subparagraph (A).
 
 #### (c) Insurance fund
 
 #### (1) In general
 
-&emsp;There is established an insurance fund, for the deposit of premium income and amounts made available under subsection (a)(2) of this section, to be available without fiscal year limitation.
+&emsp;There is established an insurance fund, for the deposit of premium income, amounts made available under subsection (a)(2) of this section, and civil fines collected under section 1515(h) of this title, to be available without fiscal year limitation.
 
 #### (2) Commodity Credit Corporation funds
 
@@ -50,9 +62,21 @@
 
 &emsp;&emsp;(B) the Secretary may use the funds of the Commodity Credit Corporation to carry out subsection (b) of this section.
 
-(Feb. 16, 1938, ch. 30, title V, §516, 52 Stat. 77; June 21, 1941, ch. 214, §§6, 8, 55 Stat. 255, 256; Aug. 3, 1956, ch. 950, §10, 70 Stat. 1034; Pub. L. 96–365, title I, §§109, 110, Sept. 26, 1980, 94 Stat. 1317, 1318; Pub. L. 97–11, May 22, 1981, 95 Stat. 13; Pub. L. 99–198, title X, §1021, Dec. 23, 1985, 99 Stat. 1459; Pub. L. 103–354, title I, §110, Oct. 13, 1994, 108 Stat. 3198; Pub. L. 104–127, title I, §193(e), Apr. 4, 1996, 110 Stat. 945; Pub. L. 105–185, title V, §531, June 23, 1998, 112 Stat. 580.)
+(Feb. 16, 1938, ch. 30, title V, §516, 52 Stat. 77; June 21, 1941, ch. 214, §§6, 8, 55 Stat. 255, 256; Aug. 3, 1956, ch. 950, §10, 70 Stat. 1034; Pub. L. 96–365, title I, §§109, 110, Sept. 26, 1980, 94 Stat. 1317, 1318; Pub. L. 97–11, May 22, 1981, 95 Stat. 13; Pub. L. 99–198, title X, §1021, Dec. 23, 1985, 99 Stat. 1459; Pub. L. 103–354, title I, §110, Oct. 13, 1994, 108 Stat. 3198; Pub. L. 104–127, title I, §193(e), Apr. 4, 1996, 110 Stat. 945; Pub. L. 105–185, title V, §531, June 23, 1998, 112 Stat. 580; Pub. L. 106–224, title I, §147, June 20, 2000, 114 Stat. 393.)
 
 #### Amendments
+
+2000—Subsec. (a)(2). Pub. L. 106–224, §147(a), in introductory provisions, substituted “years the following:”for “years—”, in subpar. (A), substituted “The” for “the” and a period for “; and” at end, in subpar. (B), substituted “Premium” for “premium”, and added subpars. (C) and (D).
+
+Subsec. (b)(1). Pub. L. 106–224, §147(b), in introductory provisions, substituted “including the following:” for “including—”, in subpar. (A), substituted “Premium” for “premium” and a period for the semicolon at end, in subpar. (B), substituted “Administrative” for “administrative” and a period for “; and” at end, in subpar. (C), substituted “All” for “all”, and added subpars. (D) and (E).
+
+Subsec. (b)(2). Pub. L. 106–224, §147(c)(1), substituted “Policy consideration and implementation” for “Research and development expenses” in heading.
+
+Subsec. (b)(2)(A). Pub. L. 106–224, §147(c)(2), substituted “may use” for “may pay from”, struck out “research and development expenses of the Corporation” before “, but not to exceed”, substituted “, to pay the following:” for period at end, and added cls. (i) and (ii).
+
+Subsec. (b)(2)(B). Pub. L. 106–224, §147(c)(3), struck out “research and development” after “the limitation on”.
+
+Subsec. (c)(1). Pub. L. 106–224, §147(d), substituted “income,” for “income and” and inserted “, and civil fines collected under section 1515(h) of this title” before “, to be available”.
 
 1998—Subsec. (a)(1). Pub. L. 105–185, §531(1)(A), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “There are authorized to be appropriated for each of fiscal years 1995 through 2001 such sums as are necessary to cover—
 
@@ -128,5 +152,5 @@ Act Dec. 23, 1944, ch. 713, §6, 58 Stat. 920, provided an additional appropriat
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1507, 1508 of this title.
+This section is referred to in sections 1505, 1507, 1508, 1515, 1522 of this title.
 

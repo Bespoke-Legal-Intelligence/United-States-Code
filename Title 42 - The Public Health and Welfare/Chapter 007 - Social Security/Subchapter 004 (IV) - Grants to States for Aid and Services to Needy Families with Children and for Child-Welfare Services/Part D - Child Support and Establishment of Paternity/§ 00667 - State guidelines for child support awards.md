@@ -32,7 +32,7 @@ Section 18(b) of Pub. L. 98–378 provided that: “The amendment made by subsec
 
 #### Study of Child-Rearing Costs
 
-Section 128 of Pub. L. 100–485 directed Secretary of Health and Human Services, by grant or contract, to conduct a study of patterns of expenditures on children in 2-parent families, in single-parent families following divorce or separation, and in single-parent families in which parents were never married, giving particular attention to the relative standards of living in households in which both parents and all of the children do not live together, and submit to Congress no later than 2 years after Oct. 13, 1988, a full and complete report of results of such study, including recommendations for legislative, administrative, and other actions.
+Section 128 of Pub. L. 100–485 directed Secretary of Health and Human Services, by grant or contract, toconduct a study of patterns of expenditures on children in 2-parent families, in single-parent families following divorce or separation, and in single-parent families in which parents were never married, giving particular attention to the relative standards of living in households in which both parents and all of the children do not live together, and submit to Congress no later than 2 years after Oct. 13, 1988, a full and complete report of results of such study, including recommendations for legislative, administrative, and other actions.
 
 #### Section Referred to in Other Sections
 

@@ -30,25 +30,31 @@ The non-Federal share of the cost of any modifications or measures carried out o
 
 The Secretary shall coordinate any actions taken pursuant to this section with appropriate Federal, State, and local agencies.
 
-#### (f) Biennial report
+#### (f) Omitted
 
-Beginning in 1992 and every 2 years thereafter, the Secretary shall transmit to Congress a report on the results of reviews conducted under subsection (a) of this section and on the programs conducted under subsections (b) and (c) of this section.
+#### (g) Nonprofit entities
 
-#### (g) Authorization of appropriations
+Notwithstanding section 1962d–5b of title 42, a non-Federal sponsor for any project carried out under this section may include a nonprofit entity, with the consent of the affected local government.
+
+#### (h) Authorization of appropriations
 
 There is authorized to be appropriated not to exceed $25,000,000 annually to carry out this section.
 
-#### (h) Definition
+#### (i) Definition
 
 In this section, the term “water resources project constructed by the Secretary” includes a water resources project constructed or funded jointly by the Secretary and the head of any other Federal agency (including the Natural Resources Conservation Service).
 
-(Pub. L. 99–662, title XI, §1135, Nov. 17, 1986, 100 Stat. 4251; Pub. L. 100–676, §41, Nov. 17, 1988, 102 Stat. 4040; Pub. L. 101–640, title III, §304, Nov. 28, 1990, 104 Stat. 4634; Pub. L. 102–580, title II, §202, Oct. 31, 1992, 106 Stat. 4826; Pub. L. 104–303, title II, §204, Oct. 12, 1996, 110 Stat. 3678; Pub. L. 106–53, title V, §506, Aug. 17, 1999, 113 Stat. 338.)
+(Pub. L. 99–662, title XI, §1135, Nov. 17, 1986, 100 Stat. 4251; Pub. L. 100–676, §41, Nov. 17, 1988, 102 Stat. 4040; Pub. L. 101–640, title III, §304, Nov. 28, 1990, 104 Stat. 4634; Pub. L. 102–580, title II, §202, Oct. 31, 1992, 106 Stat. 4826; Pub. L. 104–303, title II, §204, Oct. 12, 1996, 110 Stat. 3678; Pub. L. 106–53, title V, §506, Aug. 17, 1999, 113 Stat. 338; Pub. L. 106–541, title II, §210(c), Dec. 11, 2000, 114 Stat. 2592.)
 
 #### Codification
+
+Subsec. (f) of this section, which required the Secretary to transmit biennial reports to Congress on the results of reviews conducted under subsec. (a) of this section and on the programs conducted under subsecs. (b) and (c) of this section, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 72 of House Document No. 103–7.
 
 Section was formerly set out as a note under section 2294 of this title.
 
 #### Amendments
+
+2000—Subsecs. (g) to (i). Pub. L. 106–541 added subsec. (g) and redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
 
 1999—Subsec. (c). Pub. L. 106–53 designated existing provisions as par. (1), inserted heading, and added par. (2).
 

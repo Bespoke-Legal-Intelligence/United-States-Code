@@ -36,7 +36,31 @@ Deadline for Development and Certification.—(1) The Administrator shall comple
 
 Installing and Using Transponders.—The Administrator shall prescribe regulations requiring that, not later than December 30, 1990, operating transponders with automatic altitude reporting capability be installed and used for aircraft operating in designated terminal airspace where radar service is provided for separation of aircraft. The Administrator may provide for access to that airspace (except terminal control areas and airport radar service areas) by nonequipped aircraft if the Administrator finds the access will not interfere with the normal traffic flow.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1198.)
+(g)
+
+Cargo Collision Avoidance Systems.—
+
+&emsp;(1)
+
+In general.—The Administrator shall require by regulation that, no later than December 31, 2002, collision avoidance equipment be installed on each cargo aircraft with a maximum certificated takeoff weight in excess of 15,000 kilograms.
+
+&emsp;(2)
+
+Extension of deadline.—The Administrator may extend the deadline established by paragraph (1) by not more than 2 years if the Administrator finds that the extension is needed to promote—
+
+&emsp;&emsp;(A) a safe and orderly transition to the operation of a fleet of cargo aircraft equipped with collision avoidance equipment; or
+
+&emsp;&emsp;(B) other safety or public interest objectives.
+
+&emsp;(3)
+
+Collision avoidance equipment defined.—In this subsection, the term “collision avoidance equipment” means equipment that provides protection from mid-air collisions using technology that provides—
+
+&emsp;&emsp;(A) cockpit-based collision detection and conflict resolution guidance, including display of traffic; and
+
+&emsp;&emsp;(B) a margin of safety of at least the same level as provided by the collision avoidance system known as TCAS–II.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1198; Pub. L. 106–181, title V, §502, Apr. 5, 2000, 114 Stat. 132.)
 
 Historical and Revision Notes
 
@@ -84,7 +108,19 @@ In subsection (e)(2), the words “established under section 9502 of the Interna
 
 In subsection (f), the words “Not later than 6 months after December 30, 1987, the Administrator shall promulgate a final rule” and “Such final rule” are omitted as executed.
 
+#### Amendments
+
+2000—Subsec. (g). Pub. L. 106–181 added subsec. (g).
+
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of reporting provisions in subsec. (a)(3) of this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 8th item on page 138 of House Document No. 103–7.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 106, 44701, 44711, 45302, 46310, 47531 of this title.
+This section is referred to in sections 44701, 44711, 45302, 46310, 47531 of this title.
 

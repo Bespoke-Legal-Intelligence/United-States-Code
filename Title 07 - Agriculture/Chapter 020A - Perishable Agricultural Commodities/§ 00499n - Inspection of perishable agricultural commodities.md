@@ -30,16 +30,6 @@ Section was formerly classified to section 564 of this title.
 
 Pub. L. 99–198, title XVII, §1704, Dec. 23, 1985, 99 Stat. 1635, as amended by Pub. L. 104–66, title I, §1011(g), Dec. 21, 1995, 109 Stat. 710, provided that: “The Secretary of Agriculture shall perform random spot checks of potatoes entering through ports of entry in the northeastern United States.”
 
-#### Federal Rules of Civil Procedure
-
-Subpoenas, see rule 45, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-#### Cross References
-
-Fees of witnesses, see section 1821 of Title 28, Judiciary and Judicial Procedure.
-
-Investigation and certification of condition of agricultural products shipped in interstate commerce, see section 1622 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 499h of this title; title 42 section 418.

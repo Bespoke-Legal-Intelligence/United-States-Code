@@ -16,3 +16,7 @@ Amendment by Pub. L. 96–221 effective on expiration of two years and six month
 
 Section effective Mar. 23, 1976, see section 708 of Pub. L. 90–321, set out as a note under section 1691 of this title.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in title 12 section 247.
+

@@ -1,6 +1,6 @@
 ### §965. Verified statements as prerequisite to vessel's departure
 
-(a) During a war in which the United States is a neutral nation, every master or person having charge or command of any vessel, domestic or foreign, whether requiring clearance or not, before departure of such vessel from port shall, in addition to the facts required by section 431 of the Tariff Act of 1930 (19 U.S.C. 1431) and section 4197 of the Revised Statutes of the United States (46 U.S.C. App. 91), to be set out in the masters’ and shippers’ manifests before clearance will be issued to vessels bound to foreign ports, deliverto the Customs Service a statement, duly verified by oath, that the cargo or any part of the cargo is or is not to be delivered to other vessels in port or to be transshipped on the high seas, and, if it is to be so delivered or transshipped, stating the kind and quantities and the value of the total quantity of each kind of article so to be delivered or transshipped, and the name of the person, corporation, vessel, or government to whom the delivery or transshipment is to be made; and the owners, shippers, or consignors of the cargo of such vessel shall in the same manner and under the same conditions deliver to the Customs Service like statements under oath as to the cargo or the parts thereof laden or shipped by them, respectively.
+(a) During a war in which the United States is a neutral nation, every master or person having charge or command of any vessel, domestic or foreign, whether requiring clearance or not, before departure of such vessel from port shall, in addition to the facts required by section 431 of the Tariff Act of 1930 (19 U.S.C. 1431) and section 4197 of the Revised Statutes of the United States (46 U.S.C. App. 91), to be set out in the masters’ and shippers’ manifests before clearance will be issued to vessels bound to foreign ports, deliver to the Customs Service a statement, duly verified by oath, that the cargo or any part of the cargo is or is not to be delivered to other vessels in port or to be transshipped on the high seas, and, if it is to be so delivered or transshipped, stating the kind and quantities and the value of the total quantity of each kind of article so to be delivered or transshipped, and the name of the person, corporation, vessel, or government to whom the delivery or transshipment is to be made; and the owners, shippers, or consignors of the cargo of such vessel shall in the same manner and under the same conditions deliver to theCustoms Service like statements under oath as to the cargo or the parts thereof laden or shipped by them, respectively.
 
 (b) Whoever, in violation of this section, takes or attempts to take, or authorizes the taking of any such vessel, out of port or from the United States, shall be fined under this title or imprisoned not more than ten years, or both.
 
@@ -37,16 +37,6 @@ Minor changes of phraseology were made.
 #### Transfer of Functions
 
 All offices of collector of customs, comptroller of customs, surveyor of customs, and appraiser of merchandise in Bureau of Customs of Department of the Treasury to which appointments were required to be made by President with advice and consent of Senate ordered abolished, with such offices to be terminated not later than Dec. 31, 1966, by Reorg. Plan No. 1 of 1965, eff. May 25, 1965, 30 F.R. 7035, 79 Stat. 1317, set out in the Appendix to Title 5, Government Organization and Employees. All functions of offices eliminated were already vested in Secretary of the Treasury by Reorg. Plan No. 26 of 1950. eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5.
-
-#### Canal Zone
-
-Applicability of section to Canal Zone, see section 14 of this title.
-
-#### Cross References
-
-Jurisdiction of offenses, see section 3241 of this title.
-
-Refusal of clearance for false statements, see section 966 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -1,6 +1,6 @@
 ### §7267. Annual report
 
-The Secretary shall, as soon as practicable after the end of each fiscal year, commencing with the first complete fiscal year following October 1, 1977, make a report to the President for submission to the Congress on the activities of the Department during the preceding fiscal year. Such report shall include a statement of the Secretary's goals, priorities, and plans for the Department, together with an assessment of the progress made toward the attainment of those goals, the effective and efficient management of the Department and progress made in coordination of its functions with other departments and agencies of the Federal Government. In addition, such report shall include the information required by section 774 of title 15, section 6325(c) of this title, section 10224(c) of this title, section 5877 of this title, and section 5914 of this title, and shall include:
+The Secretary shall, as soon as practicable after the end of each fiscal year, commencing with the first complete fiscal year following October 1, 1977, make a report to the President for submission to the Congress on the activities of the Department during the preceding fiscal year. Such report shall include a statement of the Secretary's goals, priorities, and plans for the Department, together with an assessment of the progress made toward the attainment of those goals, the effective and efficient management of the Department and progress made in coordination of its functions with other departments and agencies of the Federal Government. In addition, such report shall include the information required by section 774 of title 15, section 6325(c) of this title, section 10224(c) of this title, section 5877 of this title, and section 5914 <sup>1</sup> of this title, and shall include:
 
 &emsp;(1) projected energy needs of the United States to meet the requirements of the general welfare of the people of the United States and the commercial and industrial life of the Nation, including a comprehensive summary of data pertaining to all fuel and energy needs of residents of the United States residing in—
 
@@ -24,11 +24,21 @@ The Secretary shall, as soon as practicable after the end of each fiscal year, c
 
 (Pub. L. 95–91, title VI, §657, Aug. 4, 1977, 91 Stat. 603; Pub. L. 104–66, title I, §1052(g), Dec. 21, 1995, 109 Stat. 718.)
 
+#### References in Text
+
+Section 5914 of this title, referred to in text, was omitted from the Code.
+
 #### Amendments
 
 1995—Pub. L. 104–66 inserted “section 6325(c) of this title, section 10224(c) of this title,” after “section 774 of title 15,” in introductory provisions.
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the 3rd item on page 88 identifies a reporting provision which, as subsequently amended, is contained in this section), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 5562, 6806, 7135, 8235g of this title; title 15 section 780; title 22 section 3142.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -30,9 +30,9 @@
 
 &emsp;&emsp;(A) such State (i) is the home State of the child on the date of the commencement of the proceeding, or (ii) had been the child's home State within six months before the date of the commencement of the proceeding and the child is absent from such State because of his removal or retention by a contestant or for other reasons, and a contestant continues to live in such State;
 
-&emsp;&emsp;(B)(i) it appears that no other State would have jurisdiction under subparagraph (A), and (ii) it is in the best interest of the child that a court of such State assume jurisdiction because (I) the child and his parents, or the child and at least one contestant, have a significant connection with such State other than mere physical presence in such State, and (II) there is available in such State substantial evidence concerning the child's present or future care, protection, training, and personal relationships;
+&emsp;&emsp;(B)(i) it appears that no other State would have jurisdiction under subparagraph (A), and (ii) it is in the best interest of the child that a court of such State assume jurisdiction because (I) the child and his parents, or the child and at least one contestant, have a significant connection with such State other than mere physical presence in such State,and (II) there is available in such State substantial evidence concerning the child's present or future care, protection, training, and personal relationships;
 
-&emsp;&emsp;(C) the child is physically present in such State and (i) the child has been abandoned, or (ii) it is necessary in an emergency to protect the child because he has been subjected to or threatened with mistreatment or abuse;
+&emsp;&emsp;(C) the child is physically present in such State and (i) the child has been abandoned, or (ii) it is necessary in an emergency to protect the child because the child, a sibling, or parent of the child has been subjected to or threatened with mistreatment or abuse;
 
 &emsp;&emsp;(D)(i) it appears that no other State would have jurisdiction under subparagraph (A), (B), (C), or (E), or another State has declined to exercise jurisdiction on the ground that the State whose jurisdiction is in issue is the more appropriate forum to determine the custody or visitation of the child, and (ii) it is in the best interest of the child that such court assume jurisdiction; or
 
@@ -52,11 +52,13 @@
 
 (h) A court of a State may not modify a visitation determination made by a court of another State unless the court of the other State no longer has jurisdiction to modify such determination or has declined to exercise jurisdiction to modify such determination.
 
-(Added Pub. L. 96–611, §8(a), Dec. 28, 1980, 94 Stat. 3569; amended Pub. L. 105–374, §1, Nov. 12, 1998, 112 Stat. 3383.)
+(Added Pub. L. 96–611, §8(a), Dec. 28, 1980, 94 Stat. 3569; amended Pub. L. 105–374, §1, Nov. 12, 1998, 112 Stat. 3383; Pub. L. 106–386, div. B, title III, §1303(d), Oct. 28, 2000, 114 Stat. 1512.)
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–374, §1(a), substituted “subsections (f), (g), and (h) of this section, any custody determination or visitation determination” for “subsection (f) of this section, any child custody determination”.
+<b>2000</b>—Subsec. (c)(2)(C)(ii). Pub. L. 106–386 substituted “the child, a sibling, or parent of the child” for “he”.
+
+<b>1998</b>—Subsec. (a). Pub. L. 105–374, §1(a), substituted “subsections (f), (g), and (h) of this section, any custody determination or visitation determination” for “subsection (f) of this section, any child custody determination”.
 
 Subsec. (b)(2). Pub. L. 105–374, §1(b), inserted “or grandparent” after “parent”.
 
@@ -75,6 +77,28 @@ Subsecs. (d), (e). Pub. L. 105–374, §1(h), (i), substituted “custody or vis
 Subsec. (g). Pub. L. 105–374, §1(j), which directed substitution of “custody or visitation determination” for “custody determination”, was executed by making the substitution in two places to reflect the probable intent of Congress.
 
 Subsec. (h). Pub. L. 105–374, §1(k), added subsec. (h).
+
+#### Report on Effects of Parental Kidnaping Laws in Domestic Violence Cases
+
+Pub. L. 106–386, div. B, title III, §1303(a)–(c), Oct. 28, 2000, 114 Stat. 1512, provided that:
+
+“(a)
+
+In General.—The Attorney General shall—
+
+&emsp;“(1) conduct a study of Federal and State laws relating to child custody, including custody provisions in protection orders, the Uniform Child Custody Jurisdiction and Enforcement Act adopted by the National Conference of Commissioners on Uniform State Laws in July 1997, the Parental Kidnaping Prevention Act of 1980 \[see Short Title of 1980 Amendments note set out under section 1305 of Title 42, The Public Health and Welfare\] and the amendments made by that Act, and the effect of those laws on child custody cases in which domestic violence is a factor; and
+
+&emsp;“(2) submit to Congress a report describing the results of that study, including the effects of implementing or applying model State laws, and the recommendations of the Attorney General to reduce the incidence or pattern of violence against women or of sexual assault of the child.
+
+“(b)
+
+Sufficiency of Defenses.—In carrying out subsection (a) with respect to the Parental Kidnaping Prevention Act of 1980 and the amendments made by that Act, the Attorney General shall examine the sufficiency of defenses to parental abduction charges available in cases involving domestic violence, and the burdens and risks encountered by victims of domestic violence arising from jurisdictional requirements of that Act and the amendments made by that Act.
+
+“(c)
+
+Authorization of Appropriations.—There is authorized to be appropriated to carry out this section $200,000 for fiscal year 2001.”
+
+\[For definitions of “domestic violence” and “sexual assault” as used in section 1303(a)–(c) of Pub. L. 106–386, set out above, see section 1002 of Pub. L. 106–386, set out as a note under section 3796gg–2 of Title 42.\]
 
 #### Congressional Findings and Declaration of Purpose
 

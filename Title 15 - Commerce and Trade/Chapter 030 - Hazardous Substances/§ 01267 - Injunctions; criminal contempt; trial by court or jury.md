@@ -14,14 +14,6 @@ In any proceeding for criminal contempt for violation of an injunction or restra
 
 Functions of Secretary of Health, Education, and Welfare under this chapter transferred to Consumer Product Safety Commission, see section 2079 of this title.
 
-#### Federal Rules of Civil Procedure
-
-Generally, see Title 28, Appendix, Judiciary and Judicial Procedure.
-
-#### Federal Rules of Criminal Procedure
-
-Generally, see Title 18, Appendix, Crimes and Criminal Procedure.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1277 of this title.

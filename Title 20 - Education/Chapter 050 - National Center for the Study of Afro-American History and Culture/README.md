@@ -20,7 +20,7 @@
 | (k) | Temporary services. |
 | (<i>l</i>) | Personnel details. |
 | (m) | Administrative support services. |
-| [3703\.](%C2%A7%2003703%20-%20Report%20to%20Congress.md) | Report to Congress. |
+| [3703\.](%C2%A7%2003703%20-%20Omitted.md) | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -33,4 +33,4 @@
 
 - [&sect; 03701 - National Afro-American History and Culture Commission](%C2%A7%2003701%20-%20National%20Afro-American%20History%20and%20Culture%20Commission.md)
 - [&sect; 03702 - Organization of Commission](%C2%A7%2003702%20-%20Organization%20of%20Commission.md)
-- [&sect; 03703 - Report to Congress](%C2%A7%2003703%20-%20Report%20to%20Congress.md)
+- [&sect; 03703 - Omitted](%C2%A7%2003703%20-%20Omitted.md)

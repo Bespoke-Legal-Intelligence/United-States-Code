@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 8116, 8351, 8402, 8424, 8461, 8471, 8472, 8473, 8474, 8477 of this title; title 10 sections 945, 2467; title 22 sections 4069, 4071h; title 26 sections 3121, 7701; title 28 sections 178, 377, 611, 627; title 31 section 9503; title 39 section 1005; title 40 section 214d; title 50 section 2154.
+This subchapter is referred to in sections 8116, 8351, 8402, 8424, 8461, 8471, 8472, 8473, 8474, 8477 of this title; title 2 section 162b; title 10 sections 945, 2467; title 22 sections 4069, 4071h; title 26 sections 3121, 7701; title 28 sections 178, 377, 611, 627; title 31 section 9503; title 37 section 211; title 39 section 1005; title 40 section 214d; title 50 section 2154.
 
 
 ---
@@ -23,7 +23,8 @@ This subchapter is referred to in sections 8116, 8351, 8402, 8424, 8461, 8471, 8
 - [&sect; 08439 - Accounting and information](%C2%A7%2008439%20-%20Accounting%20and%20information.md)
 - [&sect; 08440 - Tax treatment of the Thrift Savings Fund](%C2%A7%2008440%20-%20Tax%20treatment%20of%20the%20Thrift%20Savings%20Fund.md)
 - [&sect; 08440a - Justices and judges](%C2%A7%2008440a%20-%20Justices%20and%20judges.md)
-- [&sect; 08440b - Bankruptcy judges and magistrates](%C2%A7%2008440b%20-%20Bankruptcy%20judges%20and%20magistrates.md)
+- [&sect; 08440b - Bankruptcy judges and magistrate judges](%C2%A7%2008440b%20-%20Bankruptcy%20judges%20and%20magistrate%20judges.md)
 - [&sect; 08440c - Court of Federal Claims judges](%C2%A7%2008440c%20-%20Court%20of%20Federal%20Claims%20judges.md)
 - [&sect; 08440d - Judges of the United States Court of Appeals for Veterans Claims](%C2%A7%2008440d%20-%20Judges%20of%20the%20United%20States%20Court%20of%20Appeals%20for%20Veterans%20Claims.md)
 - [&sect; 08440e - Members of the uniformed services](%C2%A7%2008440e%20-%20Members%20of%20the%20uniformed%20services.md)
+- [&sect; 08440f - Maximum percentage allowable for certain participants](%C2%A7%2008440f%20-%20Maximum%20percentage%20allowable%20for%20certain%20participants.md)

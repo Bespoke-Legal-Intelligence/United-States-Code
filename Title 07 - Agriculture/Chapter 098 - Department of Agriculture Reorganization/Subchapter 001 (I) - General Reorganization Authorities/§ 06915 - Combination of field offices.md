@@ -2,11 +2,15 @@
 
 #### (a) Combination of offices required
 
-Where practicable and to the extent consistent with efficient, effective, and improved service, the Secretary shall combine field offices of agencies within the Department to reduce personnel and duplicative overhead expenses.
+Where practicable and to the extent consistent with efficient, effective, and improved service, the Secretary shall combine field offices ofagencies within the Department to reduce personnel and duplicative overhead expenses.
 
 #### (b) Joint use of resources and offices required
 
 When two or more agencies of the Department share a common field office, the Secretary shall require the agencies to jointly use office space, equipment, office supplies, administrative personnel, and clerical personnel associated with that field office.
 
 (Pub. L. 103–354, title II, §215, Oct. 13, 1994, 108 Stat. 3211.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 7031 of this title.
 

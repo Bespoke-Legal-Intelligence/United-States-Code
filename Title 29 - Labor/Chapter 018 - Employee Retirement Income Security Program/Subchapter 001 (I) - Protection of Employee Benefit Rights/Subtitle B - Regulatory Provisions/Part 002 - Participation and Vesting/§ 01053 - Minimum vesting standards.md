@@ -148,7 +148,7 @@ percentage is:
 
 (iii) The hours described in clause (ii) shall be treated as hours of service as provided in this subparagraph—
 
-&emsp;(I) only in the year in which the absence from work begins, if a participant would be prevented from incurring a 1-year break in service in such year solely because the periodof absence is treated as hours of service as provided in clause (i); or
+&emsp;(I) only in the year in which the absence from work begins, if a participant would be prevented from incurring a 1-year break in service in such year solely because the period of absence is treated as hours of service as provided in clause (i); or
 
 &emsp;(II) in any other case, in the immediately following year.
 
@@ -290,7 +290,7 @@ Amendment by section 7894(c)(3) of Pub. L. 101–239 effective, except as otherw
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 1113(e)(1), (2), (4)(A) of Pub. L. 99–514 applicable to plan years beginning after Dec. 31, 1988, with special rule for plans maintained pursuant to collective bargaining agreements ratified before Mar. 1,1986, and not applicable to employees who do not have 1 hour of service in any plan year to which the amendment applies, see section 1113(f) of Pub. L. 99–514, as amended, set out as a note under section 411 of Title 26, Internal Revenue Code.
+Amendment by section 1113(e)(1), (2), (4)(A) of Pub. L. 99–514 applicable to plan years beginning after Dec. 31, 1988, with special rule for plans maintained pursuant to collective bargaining agreements ratified before Mar. 1, 1986, and not applicable to employees who do not have 1 hour of service in any plan year to which the amendment applies, see section 1113(f) of Pub. L. 99–514, as amended, set out as a note under section 411 of Title 26, Internal Revenue Code.
 
 Amendment by section 1139(c)(1) of Pub. L. 99–514 applicable to distributions in plan years beginning after Dec. 31, 1984, except that such amendments shall not apply to any distributions in plan years beginning after Dec. 31, 1984, and before Jan. 1, 1987, if such distributions were made in accordance with the requirements of the regulations issued under the Retirement Equity Act of 1984, Pub. L. 98–397, with additional provisions relating to reductions in accrued benefits, see section 1139(d) of Pub. L. 99–514, set out as a note under section 411 of Title 26.
 

@@ -1,9 +1,5 @@
 ### SUBCHAPTER LIX–CC—ADAMS NATIONAL HISTORICAL PARK
 
-<i><sup>1</sup></i><i> So in original. Two subsecs. (e) have been enacted.</i>
-
-<i><sup>2</sup></i><i> So in original. There is no section “3(D)”.</i>
-
 
 ---
 

@@ -98,6 +98,8 @@
 | (j) | “Executive agency” defined. |
 | (k) | Notices of subcontracting opportunities. |
 | (<i>l</i>) | Management assistance for small businesses affected by military operations. |
+| (m) | Procurement program for women-owned small business concerns. |
+| (n) | Business grants and cooperative agreements. |
 | [637a.](%C2%A7%2000637a%20-%20Repealed.%20Pub.%20L.%2089%E2%80%93409%2C%20%C2%A73%28b%29%2C%20May%202%2C%201966%2C%2080%20Stat.%20133.md) | Repealed. |
 | [637b.](%C2%A7%2000637b%20-%20Availability%20of%20information.md) | Availability of information. |
 | (a) | Requests for information. |
@@ -112,9 +114,9 @@
 | (f) | Federal agency expenditures for SBIR program. |
 | (g) | Administration of small business innovation research programs by Federal agencies required to establish such programs. |
 | (h) | Establishment of goals for funding agreements for research or research and development to small business concerns by agencies having budgets for research and development. |
-| (i) | Annual report to Small Business Administration of awards over $10,000 in amount. |
+| (i) | Annual reporting. |
 | (j) | Small Business Administration policy directives for the general conduct of small business innovation research programs. |
-| (k) | \[Reserved\]. |
+| (k) | Database. |
 | (<i>l</i>) | Reporting of awards made from single proposal, to multiple award winners, or to critical technology topics. |
 | (m) | Termination. |
 | (n) | Required expenditures for STTR by Federal agencies. |
@@ -124,6 +126,8 @@
 | (r) | Third phase agreements. |
 | (s) | Outreach. |
 | (t) | Inclusion in strategic plans. |
+| (u) | Coordination of technology development programs. |
+| (v) | Simplified reporting requirements. |
 | [639\.](%C2%A7%2000639%20-%20Reporting%20requirements%20and%20agency%20cooperation.md) | Reporting requirements and agency cooperation. |
 | (a) | Annual reports to President and Congressional officers and committees. |
 | (b) | Report of expenditures in conduct of activities; contents; information to Congressional committees. |
@@ -158,6 +162,7 @@
 | (m) | Relationship to other procurement programs. |
 | (n) | Determination of labor surplus areas. |
 | (<i>o</i>) | Requirements for performance of contracts by employees of small business concerns. |
+| (p) | Database, analysis, and annual report with respect to bundled contracts. |
 | [645\.](%C2%A7%2000645%20-%20Offenses%20and%20penalties.md) | Offenses and penalties. |
 | (a) | False statements; overvaluation of securities. |
 | (b) | Embezzlement, etc. |
@@ -228,7 +233,7 @@
 | (a) | Establishment. |
 | (b) | Appointment of director. |
 | (c) | Functions. |
-| [654\.](%C2%A7%2000654%20-%20Drug-free%20workplace%20demonstration%20program.md) | Drug-free workplace demonstration program. |
+| [654\.](%C2%A7%2000654%20-%20Paul%20D.%20Coverdell%20drug-free%20workplace%20program.md) | Paul D. Coverdell drug-free workplace program. |
 | (a) | Definitions. |
 | (b) | Establishment. |
 | (c) | Privacy protection for employees participating in drug-free workplace program. |
@@ -268,6 +273,7 @@
 | (a) | In general. |
 | (b) | Eligible contracts. |
 | (c) | Enforcement; penalties. |
+| (d) | Authorization of appropriations. |
 | [657b.](%C2%A7%2000657b%20-%20Veterans%20programs.md) | Veterans programs. |
 | (a) | Office of Veterans Business Development. |
 | (b) | Associate Administrator for Veterans Business Development. |
@@ -283,6 +289,21 @@
 | (i) | Use of mails. |
 | (j) | Professional Certification Advisory Board. |
 | (k) | Authorization of appropriations. |
+| [657d.](%C2%A7%2000657d%20-%20Federal%20and%20State%20Technology%20Partnership%20Program.md) | Federal and State Technology Partnership Program. |
+| (a) | Definitions. |
+| (b) | Establishment of Program. |
+| (c) | Grants and cooperative agreements. |
+| (d) | Cooperation and coordination. |
+| (e) | Administrative requirements. |
+| (f) | Reports. |
+| (g) | Reviews by Inspector General. |
+| (h) | Program levels. |
+| (i) | Termination. |
+| [657e.](%C2%A7%2000657e%20-%20Mentoring%20Networks.md) | Mentoring Networks. |
+| (a) | Findings. |
+| (b) | Authorization for Mentoring Networks. |
+| (c) | Criteria for Mentoring Networks. |
+| (d) | Mentoring database. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -340,10 +361,12 @@ This chapter is referred to in sections 662, 687 of this title; title 7 section 
 - [&sect; 00651 - National small business tree planting program](%C2%A7%2000651%20-%20National%20small%20business%20tree%20planting%20program.md)
 - [&sect; 00652 - Central European Enterprise Development Commission](%C2%A7%2000652%20-%20Central%20European%20Enterprise%20Development%20Commission.md)
 - [&sect; 00653 - Office of Rural Affairs](%C2%A7%2000653%20-%20Office%20of%20Rural%20Affairs.md)
-- [&sect; 00654 - Drug-free workplace demonstration program](%C2%A7%2000654%20-%20Drug-free%20workplace%20demonstration%20program.md)
+- [&sect; 00654 - Paul D. Coverdell drug-free workplace program](%C2%A7%2000654%20-%20Paul%20D.%20Coverdell%20drug-free%20workplace%20program.md)
 - [&sect; 00655 - Pilot Technology Access Program](%C2%A7%2000655%20-%20Pilot%20Technology%20Access%20Program.md)
 - [&sect; 00656 - Women's business center program](%C2%A7%2000656%20-%20Women%27s%20business%20center%20program.md)
 - [&sect; 00657 - Oversight of regulatory enforcement](%C2%A7%2000657%20-%20Oversight%20of%20regulatory%20enforcement.md)
 - [&sect; 00657a - HUBZone program](%C2%A7%2000657a%20-%20HUBZone%20program.md)
 - [&sect; 00657b - Veterans programs](%C2%A7%2000657b%20-%20Veterans%20programs.md)
 - [&sect; 00657c - National Veterans Business Development Corporation](%C2%A7%2000657c%20-%20National%20Veterans%20Business%20Development%20Corporation.md)
+- [&sect; 00657d - Federal and State Technology Partnership Program](%C2%A7%2000657d%20-%20Federal%20and%20State%20Technology%20Partnership%20Program.md)
+- [&sect; 00657e - Mentoring Networks](%C2%A7%2000657e%20-%20Mentoring%20Networks.md)

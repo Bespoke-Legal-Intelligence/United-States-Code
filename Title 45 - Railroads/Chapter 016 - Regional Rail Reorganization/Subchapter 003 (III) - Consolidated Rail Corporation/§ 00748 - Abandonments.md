@@ -34,7 +34,7 @@ Any application for abandonment that is filed by the Corporation under this sect
 
 #### (f) Employee protection
 
-The provisions of section 10903(b)(3) <sup>1</sup> of title 49 shall not apply to any abandonment granted under this section. Any employee who was protected by the compensatory provisions of subchapter V <sup>2</sup> of this chapter immediately prior toAugust 13, 1981, who is deprived of employment by such an abandonment shall be eligible for employee protection under section 797 <sup>2</sup> of this title.
+The provisions of section 10903(b)(3) <sup>1</sup> of title 49 shall not apply to any abandonment granted under this section. Any employee who was protected by the compensatory provisions of subchapter V <sup>2</sup> of this chapter immediately prior to August 13, 1981, who is deprived of employmentby such an abandonment shall be eligible for employee protection under section 797 <sup>2</sup> of this title.
 
 (Pub. L. 93–236, title III, §308, as added Pub. L. 97–35, title XI, §1156(a), Aug. 13, 1981, 95 Stat. 679; amended Pub. L. 98–181, title II, §2003(c)(2), Nov. 30, 1983, 97 Stat. 1298; Pub. L. 104–88, title III, §327(4), Dec. 29, 1995, 109 Stat. 952.)
 

@@ -1,6 +1,6 @@
 ### §1070c–4. “Community service” defined
 
-For the purpose of this subpart, the term “community service” means services, including direct service, planning, and applied research which are identified by an institution of higher education, through formal or informal consultation with local nonprofit, governmental, and community-based organizations, and which—
+For the purpose of this subpart, the term “community service” means services, includingdirect service, planning, and applied research which are identified by an institution of higher education, through formal or informal consultation with local nonprofit, governmental, and community-based organizations, and which—
 
 &emsp;(1) are designed to improve the quality of life for community residents, particularly low-income individuals, or to solve particular problems related to the needs of such residents, including but not limited to, such fields as health care, child care, education, literacy training, welfare, social services, public safety, crime prevention and control, transportation, recreation, housing and neighborhood improvement, rural development, and community improvement; and
 
@@ -19,8 +19,4 @@ A prior section 1070c–4, Pub. L. 89–329, title IV, §415E, as added Pub. L. 
 #### Effective Date of 1987 Amendment
 
 Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1070c of this title.
 

@@ -32,7 +32,7 @@ The application for copyright registration shall be made on a form prescribed by
 
 I74house report no. 94–1476
 
-The various clauses of section 409, which specify the information to be included in an application for copyright registration, are intended to give the Register of Copyrights authority to elicit all of the information needed to examine the application and to make a meaningful record of registration. The list of enumerated items was not exhaustive; under the last clause of the section the application may also include “any other information regarded by the Register of Copyrights as bearing upon the preparation or identification of the work or the existence, ownership, or duration of the copyright.”
+The various clauses of section 409, which specify the information to be included in an application for copyright registration, are intended to give the Register of Copyrights authority to elicit all of the information needed to examine the application and to make ameaningful record of registration. The list of enumerated items was not exhaustive; under the last clause of the section the application may also include “any other information regarded by the Register of Copyrights as bearing upon the preparation or identification of the work or the existence, ownership, or duration of the copyright.”
 
 Among the enumerated items there are several that are not now included in the Copyright Office's application forms, but will become significant under the life-plus-50 term and other provisions of the bill. Clause (5), reflecting the increased importance of the interrelationship between registration of copyright claims and recordation of transfers of ownership, requires a statement of how a claimant who is not the author acquired ownership of the copyright. Clause (9) requires that, “in the case of a compilation or derivative work” the application include “an identification of any preexisting work or works that it is based on or incorporates, and a brief, general statement of the additional material covered by the copyright claim being registered.” It is intended that, under this requirement, the application covering a collection such as a song-book or hymnal would clearly reveal any works in the collection that are in the public domain, and the copyright status of all other previously-published compositions. This information will be readily available in the Copyright Office.
 
@@ -45,10 +45,6 @@ The catch-all clause at the end of the section will enable the Register to obtai
 #### Effective Date of 1992 Amendment
 
 Amendment by Pub. L. 102–307 effective June 26, 1992, but applicable only to copyrights secured between January 1, 1964, and December 31, 1977, and not affecting court proceedings pending on June 26, 1992, with copyrights secured before January 1, 1964, governed by section 304(a) of this title as in effect on the day before June 26, 1992, except each reference to forty-seven years in such provisions deemed to be 67 years, see section 102(g) of Pub. L. 102–307, as amended, set out as a note under section 101 of this title.
-
-#### Cross References
-
-Penalty for false representation of material fact, see section 506 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -4,7 +4,3 @@ Notwithstanding any other law, no act of any Federal agency shall be effective t
 
 (Aug. 1, 1956, ch. 841, title II, §207, as added Pub. L. 97–241, title II, §202(b), Aug. 24, 1982, 96 Stat. 288.)
 
-#### Codification
-
-Section is also set out in D.C. Code, §5–1207.
-

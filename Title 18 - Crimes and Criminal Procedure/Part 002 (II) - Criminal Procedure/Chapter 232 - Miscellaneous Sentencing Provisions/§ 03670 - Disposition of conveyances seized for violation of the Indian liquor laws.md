@@ -12,7 +12,3 @@ The provisions of section 3668 of this title shall apply to any conveyances seiz
 
 Amendment by section 223(k) of Pub. L. 98–473 effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such amendment, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of this title.
 
-#### Federal Rules of Civil Procedure
-
-Admiralty and maritime rules of practice (which included libel procedures) were superseded, and civil and admiralty procedures in United States district courts were unified, effective July 1, 1966, see rule 1 and Supplemental Rules for Certain Admiralty and Maritime Claims, Title 28, Appendix, Judiciary and Judicial Procedure.
-

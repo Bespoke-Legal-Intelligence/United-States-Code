@@ -74,7 +74,7 @@
 
 #### (B) Protective order
 
-&emsp;&emsp;The protective order under which information is made available shall contain such requirements as the administering authority or the Commission may determine by regulation to be appropriate. The administeringauthority and the Commission shall provide by regulation for such sanctions as the administering authority and the Commission determine to be appropriate, including disbarment from practice before the agency.
+&emsp;&emsp;The protective order under which information is made available shall contain such requirements as the administering authority or the Commission may determine by regulation to be appropriate. The administering authority and the Commission shall provide by regulation for such sanctions as the administering authority and the Commission determine to be appropriate, including disbarment from practice before the agency.
 
 #### (C) Time limitation on determinations
 
@@ -160,7 +160,7 @@ Any party submitting written information, including business proprietary informa
 
 #### (6) Enforcement of sanctions
 
-&emsp;If any person fails to pay an assessment of a civil penalty or to comply with other administrative sanctions after the order imposing such sanctions becomes a final and unappealable order, or after the United States Court of International Trade has entered final judgment in favor of the administering authority or the Commission, an action may be filed in such court to enforce the sanctions. Insuch action, the validity and appropriateness of the final order imposing the sanctions shall not be subject to review.
+&emsp;If any person fails to pay an assessment of a civil penalty or to comply with other administrative sanctions after the order imposing such sanctions becomes a final and unappealable order, or after the United States Court of International Trade has entered final judgment in favor of the administering authority or the Commission, an action may be filed in such court to enforce the sanctions. In such action, the validity and appropriateness of the final order imposing the sanctions shall not be subject to review.
 
 #### (7) Testimony and production of papers
 
@@ -168,7 +168,7 @@ Any party submitting written information, including business proprietary informa
 
 &emsp;&emsp;For the purpose of conducting any hearing and carrying out other functions and duties under this subsection, the administering authority and the Commission, or their duly authorized agents—
 
-&emsp;&emsp;&emsp;(i) shall have access to and the right to copy any pertinent document, paper, or record in the possession of any individual, partnership, corporation, association, organization, or other entity,
+&emsp;&emsp;&emsp;(i) shall have access to and the right to copy any pertinent document, paper, orrecord in the possession of any individual, partnership, corporation, association, organization, or other entity,
 
 &emsp;&emsp;&emsp;(ii) may summon witnesses, take testimony, and administer oaths,
 
@@ -216,7 +216,7 @@ The administering authority and the Commission shall provide an opportunity for 
 
 &emsp;&emsp;&emsp;(ii) a description of the subject merchandise that is sufficient to identify the subject merchandise for customs purposes,
 
-&emsp;&emsp;&emsp;(iii)(I) with respect to a determination in an investigation under part I of this subtitle or section 1675b of this title or in a review of a countervailing duty order, the amount of the countervailable subsidy established and a full explanation of the methodology used in establishing the amount, and
+&emsp;&emsp;&emsp;(iii)(I) with respect to a determination in an investigation under part I of this subtitle or section 1675b of this title or in a review of a countervailing duty order, theamount of the countervailable subsidy established and a full explanation of the methodology used in establishing the amount, and
 
 &emsp;&emsp;&emsp;(II) with respect to a determination in an investigation under part II of this subtitle or in a review of an antidumping duty order, the weighted average dumping margins established and a full explanation of the methodology used in establishing such margins, and
 
@@ -340,7 +340,7 @@ For provisions relating to effect of termination of NAFTA country status on the 
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 #### Section Referred to in Other Sections
 

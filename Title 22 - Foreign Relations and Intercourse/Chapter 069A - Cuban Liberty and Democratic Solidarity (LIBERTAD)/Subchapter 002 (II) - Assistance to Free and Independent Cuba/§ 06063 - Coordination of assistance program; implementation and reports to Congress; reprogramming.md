@@ -26,13 +26,13 @@ Upon making a determination under subsection (c)(3) of this section that a democ
 
 #### (2) Reports to Congress
 
-&emsp;(A) The President shall transmit to the appropriate congressional committees a report setting forth the strategy for providing assistance described in section 6062(b)(2)(A) and (C) of this title to the transition government in Cuba under the plan of assistance developed under section 6062(b) of this title, the types ofsuch assistance, and the extent to which such assistance has been distributed in accordance with the plan.
+&emsp;(A) The President shall transmit to the appropriate congressional committees a report setting forth the strategy for providing assistance described in section 6062(b)(2)(A) and (C) of this title to the transition government in Cuba under the plan of assistance developed under section 6062(b) of this title, the types of such assistance, and the extent to which such assistance has been distributed in accordance with the plan.
 
 &emsp;(B) The President shall transmit the report not later than 90 days after making the determination referred to in paragraph (1), except that the President shall transmit the report in preliminary form not later than 15 days after making that determination.
 
 #### (3) Implementation with respect to democratically elected government
 
-&emsp;The President shall, upon determining that a democratically elected government in Cuba is in power, submit that determination to the appropriate congressional committees and shall, subject to an authorization of appropriations and subject to the availability of appropriations, commence the delivery and distribution of assistance to such democratically elected government under the plan developed under section 6062(b) of this title.
+&emsp;The President shall, upon determining that a democratically elected government in Cuba is in power, submit that determination to theappropriate congressional committees and shall, subject to an authorization of appropriations and subject to the availability of appropriations, commence the delivery and distribution of assistance to such democratically elected government under the plan developed under section 6062(b) of this title.
 
 #### (4) Annual reports to Congress
 

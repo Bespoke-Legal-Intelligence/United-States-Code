@@ -20,7 +20,7 @@ This part, referred to in subsecs. (a) and (b), commences with section 1379a of 
 
 #### Inapplicability of Section
 
-Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable tomilk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(a)(1)(H) of this title.
+Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(a)(1)(H) of this title.
 
 Section inapplicable to wheat processors or exporters during period June 1, 1991, through May 31, 1996, see section 302 of Pub. L. 101–624, set out as a note under section 1379d of this title.
 

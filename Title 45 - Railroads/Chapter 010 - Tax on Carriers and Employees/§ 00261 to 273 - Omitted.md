@@ -30,7 +30,7 @@ Section 272, act June 29, 1937, ch. 405, §12, 50 Stat. 440, related to rules an
 
 Section 273, act June 29, 1937, ch. 405, §13, 50 Stat. 440, related to short title of this subchapter.
 
-For provisions formerly set out in this subchapter which were covered by sections of the Internal Revenue Code of 1939, see the sections of the Internal Revenue Code of 1986, Title 26, Internal Revenue Code, indicated in the following table:
+For provisions formerly set out in this subchapter which were covered by sections of the Internal Revenue Code of 1939, see the sections of the Internal RevenueCode of 1986, Title 26, Internal Revenue Code, indicated in the following table:
 
 &nbsp;
 

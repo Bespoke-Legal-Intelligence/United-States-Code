@@ -48,7 +48,7 @@
 
 #### (4) Waiver of fees
 
-&emsp;(A) The Administrator shall waive all fees under this subsection, other than the portionof fees required to be paid to the Administrator under paragraph (2)(B) for agency activities, for any person who has entered into a compliance agreement which meets the requirements of subsection (c)(2) of this section.
+&emsp;(A) The Administrator shall waive all fees under this subsection, other than the portion of fees required to be paid to the Administrator under paragraph (2)(B) for agency activities, for any person who has entered into a compliance agreement which meets the requirements of subsection (c)(2) of this section.
 
 &emsp;(B) The Administrator shall reimpose fees under this subsection for a person for whom such fees are waived under subparagraph (A) if the Administrator determines that—
 
@@ -242,7 +242,7 @@
 
 &emsp;&emsp;(A) not to exceed one-third of such total amount shall be used by the Administrator for—
 
-&emsp;&emsp;&emsp;(i) costs incurred or expected to be incurred in undertaking activities directly associated with the issuance under this Act of permits for the transportation or dumping of sewage sludge and industrial waste, including the costs of any environmental assessment of the direct effects of dumping under the permits;
+&emsp;&emsp;&emsp;(i) costs incurred or expected to be incurred in undertaking activities directly associated with the issuance under this Act of permits for the transportation ordumping of sewage sludge and industrial waste, including the costs of any environmental assessment of the direct effects of dumping under the permits;
 
 &emsp;&emsp;&emsp;(ii) preparation of reports under subsection (i) of this section; and
 
@@ -258,7 +258,7 @@
 
 &emsp;&emsp;&emsp;(i) monitoring, research, and related activities consistent with the program developed pursuant to subsection (j)(1) of this section; and
 
-&emsp;&emsp;&emsp;(ii) preparing annual reports to the Congress pursuant to subsection (j)(4) of thissection which describe the results of such monitoring, research, and activities.
+&emsp;&emsp;&emsp;(ii) preparing annual reports to the Congress pursuant to subsection (j)(4) <sup>1</sup> of this section which describe the results of such monitoring, research, and activities.
 
 #### (2) Deposits into State water pollution control revolving fund
 
@@ -316,7 +316,7 @@
 
 &emsp;&emsp;(B) shall state with reasonable specificity the nature of the violation for which the order is issued; and
 
-&emsp;&emsp;(C) shall require that the person named in the order, as a condition of dumping into ocean waters, or transporting for the purpose of dumping into ocean waters, sewage sludge or industrial waste—
+&emsp;&emsp;(C) shall require that the person named in the order, as a condition of dumping intoocean waters, or transporting for the purpose of dumping into ocean waters, sewage sludge or industrial waste—
 
 &emsp;&emsp;&emsp;(i) shall enter into a compliance agreement or an enforcement agreement under subsection (c) of this section; and
 
@@ -330,7 +330,7 @@
 
 #### (1) In general
 
-&emsp;The Governor of each State that is a party to a compliance agreement or an enforcement agreement under subsection (c) of this section shall submit to the Administrator on September 30 of 1989 and of every year thereafter until the Administrator determines that oceandumping of sewage sludge and industrial waste by persons located in that State has terminated, a report which describes—
+&emsp;The Governor of each State that is a party to a compliance agreement or an enforcement agreement under subsection (c) of this section shall submit to the Administrator on September 30 of 1989 and of every year thereafter until the Administrator determines that ocean dumping of sewage sludge and industrial waste by persons located in that State has terminated, a report which describes—
 
 &emsp;&emsp;(A) the efforts of each person located in the State to comply with a compliance agreement or enforcement agreement entered into by the person pursuant to subsection (c) of this section, including the extent to which such person has complied with deadlines established by the schedule included in such agreement;
 
@@ -386,11 +386,7 @@
 
 &emsp;The Administrator and the Under Secretary of Commerce for Oceans and Atmosphere shall each conduct monitoring activities consistent with the program designed under paragraph (1).
 
-#### (4) Reports
-
-&emsp;(A) Not later than 1 year after November 18, 1988, the Administrator, in cooperation with the Under Secretary of Commerce for Oceans and Atmosphere, shall submit to the Congress a report describing the program designed pursuant to paragraph (1).
-
-&emsp;(B) Not later than December 31 of each year after the submission of a report under subparagraph (A), the Administrator and the Under Secretary of Commerce for Oceans and Atmosphere shall report to the Congress the results of monitoring activities conducted during the previous year under the program designed pursuant to paragraph (1).
+#### (4) Omitted
 
 #### (k) Definitions
 
@@ -424,9 +420,19 @@ This Act, referred to in subsecs. (a)(2), (d)(1), (e)(3)(A), (f)(1)(A)(i), (B), 
 
 The Federal Water Pollution Control Act, referred to in subsecs. (b)(2)(D), (5)(A), (d)(2)(C)(ii), (4), (e)(2)(C), (3)(A), (B), (f)(2)(A), (B)(ii), (iii), and (3)(B), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of this title. Title VI of that Act is classified to subchapter VI (§1381 et seq.) of chapter 26 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
 
+Subsection (j)(4) of this section, referred to in subsec. (f)(1)(C)(ii), was omitted from the Code. See Codification note below.
+
 Section 2301 of the Marine Plastic Pollution Research and Control Act of 1987, referred to in subsec. (f)(3)(A)(i)(III), is section 2301 of Pub. L. 100–220 which is set out as a note under section 2267 of this title.
+
+#### Codification
+
+Subsec. (j)(4)(A) of this section directed the Administrator, in cooperation with the Under Secretary of Commerce for Oceans and Atmosphere, to submit to Congress a report describing the program designed pursuant to subsec. (j)(1) of this section not later than one year after Nov. 18, 1988.
+
+Subsec. (j)(4)(B) of this section, which required the Administrator and the Under Secretary of Commerce for Oceans and Atmosphere to report annually to Congress on monitoring activities conducted under the program designed pursuant to subsec. (j)(1) of this section, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 148 of House Document No. 103–7.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1412a, 1414c, 1415 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

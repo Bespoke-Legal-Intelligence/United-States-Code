@@ -14,7 +14,7 @@ The Congress finds that—
 
 &emsp;(5) as a result of such incentives, many small business concerns with economically sound financing needs are unable to obtain access to needed debt capital;
 
-&emsp;(6) the small business capital access programs implemented by certain States are a flexible and efficient tool to assist financial institutions in providing access to needed debt capital for many small business concerns in a manner consistent with safety and soundness regulations;
+&emsp;(6) the small business capital access programs implemented by certain States are a flexible and efficient tool to assist financial institutions in providing access to needed debt capital for many small business concerns in amanner consistent with safety and soundness regulations;
 
 &emsp;(7) a small business capital access program would complement other programs which assist small business concerns in obtaining access to capital; and
 

@@ -30,9 +30,23 @@ Major Headquarters Activities Personnel.—In this section, the term “major he
 
 Limitation on Reassignment of Functions.—In carrying out reductions in the number of personnel assigned to, or employed in, major headquarters activities in order to comply with this section, the Secretary of Defense and the Secretaries of the military departments may not reassign functions in order to evade the requirements of this section.
 
-(Added Pub. L. 105–85, div. A, title IX, §911(a)(1), Nov. 18, 1997, 111 Stat. 1857; amended Pub. L. 106–65, div. A, title IX, §921(a)(1), Oct. 5, 1999, 113 Stat. 722.)
+(g)
+
+Flexibility.—(1) If during fiscal year 2001 or fiscal year 2002 the Secretary of Defense determines, and certifies to Congress, that the limitation under subsection (a), or a limitation under subsection (b), would adversely affect United States national security, the Secretary may take any of the following actions:
+
+&emsp;(A) Increase the percentage specified in subsection (b)(1) by such amount as the Secretary determines necessary or waive the limitation under that subsection.
+
+&emsp;(B) Increase the percentage specified in subsection (b)(2) by such amount as the Secretary determines necessary, not to exceed a cumulative increase of 7.5 percentage points.
+
+&emsp;(C) Increase the percentage specified in subsection (a) by such amount as the Secretary determines necessary, not to exceed a cumulative increase of 7.5 percentage points.
+
+(2) Any certification under paragraph (1) shall include notice of the specific waiver or increases made pursuant to the authority provided in that paragraph.
+
+(Added Pub. L. 105–85, div. A, title IX, §911(a)(1), Nov. 18, 1997, 111 Stat. 1857; amended Pub. L. 106–65, div. A, title IX, §921(a)(1), Oct. 5, 1999, 113 Stat. 722; Pub. L. 106–398, §1 \[\[div. A\], title IX, §941\], Oct. 30, 2000, 114 Stat. 1654, 1654A–241.)
 
 #### Amendments
+
+2000—Subsec. (g). Pub. L. 106–398 added subsec. (g).
 
 1999—Pub. L. 106–65 amended section catchline and text generally. Prior to amendment, section consisted of subsecs. (a) to (g) limiting and requiring phased reductions in management headquarters and headquarters support activities personnel.
 

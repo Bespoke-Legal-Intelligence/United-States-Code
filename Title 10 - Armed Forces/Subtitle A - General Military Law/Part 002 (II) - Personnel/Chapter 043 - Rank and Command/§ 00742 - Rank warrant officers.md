@@ -14,13 +14,3 @@ A prior section 742, act Aug. 10, 1956, ch. 1041, 70A Stat. 34, related to rank 
 
 Section effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out as an Effective Date of 1991 Amendment note under section 521 of this title.
 
-#### Cross References
-
-Grades of warrant officers, see section 571 of this title.
-
-Rank of warrant officers—
-
-&emsp;&emsp;Air Force, see section 8575 of this title.
-
-&emsp;&emsp;Army, see section 3575 of this title.
-

@@ -60,9 +60,9 @@ Eligible Countries.—A country that is performing satisfactorily under an econo
 
 &emsp;“(3)(A) the country has outstanding public and publicly guaranteed debt, the net present value of which on December 31, 1996, was at least 150 percent of the average annual value of the exports of the country for the period 1994 through 1996; or
 
-&emsp;“(B)(i) the country has outstanding public and publicly guaranteed debt, the net present value of which,as of the date the President determines that the country is eligible for debt relief under this section, is at least 150 percent of the annual value of the exports of the country; or
+&emsp;“(B)(i) the country has outstanding public and publicly guaranteed debt, the net present value of which, as of the date the President determines that the country is eligible for debt relief under this section, is at least 150 percent of the annual value of the exports of the country; or
 
-&emsp;“(ii) the country has outstanding public and publicly guaranteed debt, the net present value of which, as of the date the President determines that the country is eligible for debt relief under this section, is at least 250 percent of the annual fiscal revenues of the country, and has minimum ratios of exports to Gross Domestic Product of 30 percent, and of fiscal revenues to Gross Domestic Product of 15 percent.
+&emsp;“(ii) the country has outstanding public and publicly guaranteed debt, the net present value of which,as of the date the President determines that the country is eligible for debt relief under this section, is at least 250 percent of the annual fiscal revenues of the country, and has minimum ratios of exports to Gross Domestic Product of 30 percent, and of fiscal revenues to Gross Domestic Product of 15 percent.
 
 “(e)
 
@@ -108,7 +108,7 @@ Authorization of Appropriations.—For the cost (as defined in section 502(5) of
 
 “(j)
 
-Annual Reports to the Congress.—Not later than December 31 of each year, the President shall prepare and transmit to the Committees on Banking and Financial Services, Appropriations, and International Relations of the House of Representatives, and the Committees on Banking, Housing, and Urban Affairs, Foreign Relations, and Appropriations of the Senate a report, which shall be made available to the public, concerning the cancellation of debt under subsection (a), and a detailed description of debt relief provided by the United States as a member of the Paris Club of Official Creditors for the prior fiscal year.”
+Annual Reports to the Congress.—Not later than December 31 of each year, the President shall prepare and transmit to the Committees on Banking and Financial Services \[now Committee on Financial Services\], Appropriations, and International Relations of the House of Representatives, and the Committees on Banking, Housing, and Urban Affairs, Foreign Relations, and Appropriations of the Senate a report, which shall be made available to the public, concerning the cancellation of debt under subsection (a), and a detailed description of debt relief provided by the United States as a member of the Paris Club of Official Creditors for the prior fiscal year.”
 
 #### Notification to Congress on Debt Relief Agreements
 

@@ -4,7 +4,7 @@
 
 (1) The Director of the National Imagery and Mapping Agency, with the coordination of the Director of Central Intelligence, may exempt operational files of the National Imagery and Mapping Agency from the provisions of section 552 of title 5 which require publication, disclosure, search, or review in connection therewith.
 
-(2)(A) Subject to subparagraph (B), for the purposes of this section, the term “operational files” means files of the National Imagery and Mapping Agency (hereafter in this section referred to as “NIMA”) concerning the activities of NIMA that before the establishment of NIMA were performed by the National Photographic Interpretation Center of the Central Intelligence Agency (NPIC), that document the means by which foreign intelligence or counterintelligence is collected through scientific and technical systems.
+(2)(A) Subject to subparagraph (B), for the purposes of this section, the term “operational files” means files of the National Imagery and Mapping Agency (hereafter in this section referred to as “NIMA”) concerning the activities of NIMA that before the establishment of NIMAwere performed by the National Photographic Interpretation Center of the Central Intelligence Agency (NPIC), that document the means by which foreign intelligence or counterintelligence is collected through scientific and technical systems.
 
 (B) Files which are the sole repository of disseminated intelligence are not operational files.
 
@@ -62,7 +62,7 @@
 
 (1) Not less than once every 10 years, the Director of the National Imagery and Mapping Agency and the Director of Central Intelligence shall review the exemptions in force under subsection (a)(1) of this section to determine whether such exemptions may be removed from the category of exempted files or any portion thereof. The Director of Central Intelligence must approve any determination to remove such exemptions.
 
-(2) The review required by paragraph (1) shall include consideration of the historical value or other public interest in the subject matter of the particular category of files or portions thereof and the potential for declassifying a significant part of the information contained therein.
+(2) The review required by paragraph (1) shall include consideration of the historical value or other public interest in the subject matter of the particular category of files or portionsthereof and the potential for declassifying a significant part of the information contained therein.
 
 (3) A complainant that alleges that NIMA has improperly withheld records because of failure to comply with this subsection may seek judicial review in the district court of the United States of the district in which any of the parties reside, or in the District of Columbia. In such a proceeding, the court's review shall be limited to determining the following:
 

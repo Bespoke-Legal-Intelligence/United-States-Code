@@ -206,7 +206,7 @@ Payment.—The Secretary shall make a payment in the amount specified in subsect
 
 #### “SEC. 11. EFFECT OF THIS ACT ON CASES INVOLVING THE NAVAJO NATION AND THE HOPI TRIBE.
 
-“Nothing in this Act or the amendments made by this Act shall be interpreted or deemed to preclude,limit, or endorse, in any manner, actions by the Navajo Nation that seek, in court, an offset from judgments for payments received by the Hopi Tribe under the Settlement Agreement.
+“Nothing in this Act or the amendments made by this Act shall be interpreted or deemed to preclude, limit, or endorse, in any manner, actions by the Navajo Nation that seek, in court, an offset from judgments for payments received by the Hopi Tribe under the Settlement Agreement.
 
 #### “SEC. 12. WATER RIGHTS.
 

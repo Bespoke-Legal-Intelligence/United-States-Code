@@ -20,9 +20,9 @@ A State may use amounts provided under a grant awarded under this part to provid
 
 &emsp;To receive assistance from a State under subsection (a) of this section, an applicant consortium shall provide the State with assurances that—
 
-&emsp;&emsp;(A) within any locality in which such consortium is to operate, the populations and subpopulations of individuals and families with HIV disease have been identified by the consortium;
+&emsp;&emsp;(A) within any locality in which such consortium is to operate, the populations andsubpopulations of individuals and families with HIV disease have been identified by the consortium, particularly those experiencing disparities in access and services and those who reside in historically underserved communities;
 
-&emsp;&emsp;(B) the service plan established under subsection (c)(2) of this section by such consortium addresses the special care and service needs of the populations and subpopulations identified under subparagraph (A); and
+&emsp;&emsp;(B) the service plan established under subsection (c)(2) of this section by such consortium is consistent with the comprehensive plan under section 300ff–27(b)(4) of this title and addresses the special care and service needs of the populations and subpopulations identified under subparagraph (A); and
 
 &emsp;&emsp;(C) except as provided in paragraph (2), the consortium will be a single coordinating entity that will integrate the delivery of services among the populations and subpopulations identified under subparagraph (A).
 
@@ -62,9 +62,11 @@ A State may use amounts provided under a grant awarded under this part to provid
 
 &emsp;&emsp;&emsp;(i) the success of the consortium in responding to identified needs; and
 
-&emsp;&emsp;&emsp;(ii) the cost-effectiveness of the mechanisms employed by the consortium to deliver comprehensive care; and
+&emsp;&emsp;&emsp;(ii) the cost-effectiveness of the mechanisms employed by the consortium to deliver comprehensive care;
 
-&emsp;&emsp;(E) demonstrates that the consortium will report to the State the results of the evaluations described in subparagraph (D) and shall make available to the State or the Secretary, on request, such data and information on the program methodology that may be required to perform an independent evaluation.
+&emsp;&emsp;(E) demonstrates that the consortium will report to the State the results of the evaluations described in subparagraph (D) and shall make available to the State or the Secretary, on request, such data and information on the program methodology that may be required to perform an independent evaluation; and
+
+&emsp;&emsp;(F) demonstrates that adequate planning occurred to address disparities in access and services and historically underserved communities.
 
 #### (2) Consultation
 
@@ -74,9 +76,11 @@ A State may use amounts provided under a grant awarded under this part to provid
 
 &emsp;&emsp;(ii) in the case of a public health agency that does not directly provide such HIV-related health care services such agency shall consult with an entity or entities that directly provide ambulatory and outpatient HIV-related health care services within the geographic area to be served;
 
-&emsp;&emsp;(B) not less than one community-based organization that is organized solely for the purpose of providing HIV-related support services to individuals with HIV disease; and
+&emsp;&emsp;(B) not less than one community-based organization that is organized solely for the purpose of providing HIV-related support services to individuals with HIV disease;
 
-&emsp;&emsp;(C) grantees under section 300ff–71 of this title, or, if none are operating in the area, representatives in the area of organizations with a history of serving children, youth, women, and families living with HIV.
+&emsp;&emsp;(C) grantees under section 300ff–71 of this title, or, if none are operating in the area, representatives in the area of organizations with a history of serving children, youth, women, and families living with HIV; and
+
+&emsp;&emsp;(D) the types of entities described in section 300ff–12(b)(2) of this title.
 
 > &emsp;The organization to be consulted under subparagraph (B) shall be at the discretion of the applicant consortium.
 
@@ -92,11 +96,11 @@ In providing assistance under subsection (a) of this section, the State shall, a
 
 &emsp;(2) to any other existing HIV care consortia.
 
-(July 1, 1944, ch. 373, title XXVI, §2613, as added Pub. L. 101–381, title II, §201, Aug. 18, 1990, 104 Stat. 586; amended Pub. L. 104–146, §3(c)(2), May 20, 1996, 110 Stat. 1354.)
+(July 1, 1944, ch. 373, title XXVI, §2613, as added Pub. L. 101–381, title II, §201, Aug. 18, 1990, 104 Stat. 586; amended Pub. L. 104–146, §3(c)(2), May 20, 1996, 110 Stat. 1354; Pub. L. 106–345, title II, §203, Oct. 20, 2000, 114 Stat. 1331.)
 
 #### References in Text
 
-Section 300ff–22 of this title, referred to in subsec. (a), was amended by Pub. L. 104–146, §3(c)(2)(A)(i), May 20, 1996, 110 Stat. 1354, and, as so amended, no longer contains a subsec. (a).
+Section 300ff–22 of this title, referred to in subsec. (a), was amended by Pub. L. 104–146, §3(c)(2)(A)(i), (ii), May 20, 1996, 110 Stat. 1354, and Pub. L. 106–345, title II, §202(1), Oct. 20, 2000, 114 Stat. 1330, and as so amended, provisions formerly contained in section 300ff–22(a)(1) are now contained in section 300ff–22(a)(2).
 
 #### Codification
 
@@ -107,6 +111,14 @@ Another section 3(c)(2) of Pub. L. 104–146 amended section 300ff–22 of this 
 A prior section 2613 of act July 1, 1944, was successively renumbered by subsequent acts and transferred, see section 238<i>l</i> of this title.
 
 #### Amendments
+
+2000—Subsec. (b)(1)(A). Pub. L. 106–345, §203(1)(A), inserted “, particularly those experiencing disparities in access and services and those who reside in historically underserved communities” before semicolon.
+
+Subsec. (b)(1)(B). Pub. L. 106–345, §203(1)(B), inserted “is consistent with the comprehensive plan under section 300ff–27(b)(4) of this title and” after “by such consortium”.
+
+Subsec. (c)(1)(F). Pub. L. 106–345, §203(2), added subpar. (F).
+
+Subsec. (c)(2)(D). Pub. L. 106–345, §203(3), added subpar. (D).
 
 1996—Subsec. (a)(1). Pub. L. 104–146, §3(c)(2)(A)(i), inserted “(or private for-profit providers or organizations if such entities are the only available providers of quality HIV care in the area)” after “nonprofit private,”.
 

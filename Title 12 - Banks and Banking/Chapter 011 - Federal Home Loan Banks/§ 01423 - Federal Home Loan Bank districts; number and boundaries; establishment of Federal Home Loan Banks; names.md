@@ -18,7 +18,3 @@ c16, and Hawaii was admitted into the Union on Aug. 21, 1959, on issuance of Pro
 
 c74. For Alaska Statehood Law, see Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as a note preceding section 21 of Title 48, Territories and Insular Possessions. For Hawaii Statehood Law, see Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as a note preceding section 491 of Title 48.
 
-#### Cross References
-
-Financial control of Federal Home Loan Banks, see section 9101 et seq. of Title 31, Money and Finance.
-

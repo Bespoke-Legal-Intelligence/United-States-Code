@@ -4,7 +4,7 @@ For purposes of this part:
 
 #### (1) Compensation
 
-&emsp;The term “compensation” means any payment of money or the provision of any otherthing of current or potential value in connection with employment.
+&emsp;The term “compensation” means any payment of money or the provision of any other thing of current or potential value in connection with employment.
 
 #### (2) Core capital
 

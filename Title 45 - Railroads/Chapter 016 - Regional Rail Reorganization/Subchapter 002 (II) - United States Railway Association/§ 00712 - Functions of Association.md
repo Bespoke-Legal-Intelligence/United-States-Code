@@ -58,7 +58,7 @@ No later than March 1, 1980, the Association and the Secretary of Transportation
 
 The Board of Directors of the Association shall adopt procedures to insure (1) that contractors, including law firms, provide reports containing written verification of tasks assigned, work performed, time worked, and costs incurred, including periodic status reports on work performed, (2) that such reports are audited by the Association, (3) that no funds are paid to contractors without written reports complying with the requirements of this subsection, and (4) that the Association applies such procedures uniformly to all contractors.
 
-(Pub. L. 93–236, title II, §202, Jan. 2, 1974, 87 Stat. 990; Pub. L. 94–5, §2(a), Feb. 28, 1975, 89 Stat. 7; Pub. L. 94–210, title VI, §§601(c), 607(b), (c), Feb.5, 1976, 90 Stat. 84, 96; Pub. L. 95–199, §2, Nov. 23, 1977, 91 Stat. 1423; Pub. L. 96–73, title II, §§202, 203, Sept. 29, 1979, 93 Stat. 555; Pub. L. 97–35, title XI, §1148(a), (b), Aug. 13, 1981, 95 Stat. 674; Pub. L. 97–468, title VI, §605(e), Jan. 14, 1983, 96 Stat. 2564.)
+(Pub. L. 93–236, title II, §202, Jan. 2, 1974, 87 Stat. 990; Pub. L. 94–5, §2(a), Feb. 28, 1975, 89 Stat. 7; Pub. L. 94–210, title VI, §§601(c), 607(b), (c), Feb. 5, 1976, 90 Stat. 84, 96; Pub. L. 95–199, §2, Nov. 23, 1977, 91 Stat. 1423; Pub. L. 96–73, title II, §§202, 203, Sept. 29, 1979, 93 Stat. 555; Pub. L. 97–35, title XI, §1148(a), (b), Aug. 13, 1981, 95 Stat. 674; Pub. L. 97–468, title VI, §605(e), Jan. 14, 1983, 96 Stat. 2564.)
 
 #### Codification
 
@@ -97,6 +97,10 @@ Amendment by Pub. L. 97–35 effective Aug. 13, 1981, see section 1169 of Pub. L
 #### Effective Date of 1979 Amendment
 
 Amendment by Pub. L. 96–73 effective Oct. 1, 1979, see section 501(a) of Pub. L. 96–73.
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which reports required under subsecs. (d)(1), (3), (e), and (f) of this section are listed as the 3rd through 6th items on page 195), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set out as notes under section 1113 of Title 31, Money and Finance.
 
 #### Abolition of Special Court, Regional Rail Reorganization Act of 1973, and Transfer of Functions
 

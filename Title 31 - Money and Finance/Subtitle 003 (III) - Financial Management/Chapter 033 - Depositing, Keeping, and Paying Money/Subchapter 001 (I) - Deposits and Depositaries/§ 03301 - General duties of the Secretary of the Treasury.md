@@ -42,6 +42,10 @@ In subsection (a), the words “public money” are substituted for “the money
 
 In subsection (b), the words “Except as provided in section 3326 of this title” are added for clarity. The words “endorse . . . as required by subsection (a)(4) of this section” are substituted for “so signed” for clarity and consistency.
 
+#### Short Title of 2000 Amendment
+
+Pub. L. 106–433, §1, Nov. 6, 2000, 114 Stat. 1910, provided that: “This Act \[amending section 3327 of this title and enacting provisions set out as a note under section 3327 of this title\] may be cited as the ‘Social Security Number Confidentiality Act of 2000’.”
+
 #### Short Title of 1994 Amendment
 
 Pub. L. 103–356, §1(a), Oct. 13, 1994, 108 Stat. 3410, provided that: “This Act \[amending sections 331, 3332, 3515, and 3521 of this title, section 31 of Title 2, The Congress, section 104 of Title 3, The President, sections 5318 and 6304 of Title 5, Government Organization and Employees, and section 461 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under this section, sections 501 and 1113 of this title, section 31 of Title 2, and section 6304 of Title 5\] may be cited as the ‘Government Management Reform Act of 1994’.”

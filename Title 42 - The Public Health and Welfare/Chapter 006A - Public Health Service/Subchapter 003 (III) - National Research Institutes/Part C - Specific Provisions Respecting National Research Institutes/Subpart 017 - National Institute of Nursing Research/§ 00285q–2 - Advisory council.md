@@ -30,7 +30,7 @@
 
 (3) The members of the advisory council who are not ex officio members shall be appointed as follows:
 
-&emsp;(A) Two-thirds of the members shall be appointed by the Secretary from among the leading representatives of the health and scientific disciplines (including public health and the behavioral or social sciences) relevant to the activities of the Institute. Of the members appointed pursuant to this subparagraph, at least seven shall be professional nurses who are recognized experts in the area of clinical practice, education, or research.
+&emsp;(A) Two-thirds of the members shall be appointed by the Secretary from among the leading representatives of the health and scientificdisciplines (including public health and the behavioral or social sciences) relevant to the activities of the Institute. Of the members appointed pursuant to this subparagraph, at least seven shall be professional nurses who are recognized experts in the area of clinical practice, education, or research.
 
 &emsp;(B) One-third of the members shall be appointed by the Secretary from the general public and shall include leaders in fields of public policy, law, health policy, economics, and management.
 
@@ -50,7 +50,7 @@ The advisory council shall meet at the call of the chairman or upon the request 
 
 #### (f) Executive secretary; staff; orientation and training for new members
 
-The Director of the Institute shall designate a member of the staff of the Institute to serve as the executive secretary of the advisory council. The Director of the Institute shall make available to the advisory council such staff, information, and other assistance as it may require to carry out its functions. The Director of the Institute shall provide orientation and trainingfor new members of the advisory council to provide them with such information and training as may be appropriate for their effective participation in the functions of the advisory council.
+The Director of the Institute shall designate a member of the staff of the Institute to serve as the executive secretary of the advisory council. The Director of the Institute shall make available to the advisory council such staff, information, and other assistance as it may require to carry out its functions. The Director of the Institute shall provide orientation and training for new members of the advisory council to provide them with such information and training as may be appropriate for their effective participation in the functions of the advisory council.
 
 #### (g) Material for inclusion in biennial report; additional reports
 

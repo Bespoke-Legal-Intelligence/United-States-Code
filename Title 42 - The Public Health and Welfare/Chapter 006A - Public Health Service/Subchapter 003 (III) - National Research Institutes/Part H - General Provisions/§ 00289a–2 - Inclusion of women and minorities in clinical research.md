@@ -44,7 +44,7 @@ In the case of any clinical trial in which women or members of minority groups w
 
 &emsp;With respect to the circumstances under which the inclusion of women or members of minority groups (as the case may be) as subjects in a project of clinical research is inappropriate for purposes of subsection (b) of this section, the following applies to guidelines under paragraph (1):
 
-&emsp;&emsp;(A)(i) In the case of a clinical trial, the guidelines shall provide that the costs of such inclusion in the trial is not a permissible consideration in determining whether such inclusion is inappropriate.
+&emsp;&emsp;(A)(i) In the case of a clinical trial, the guidelines shall provide that the costs ofsuch inclusion in the trial is not a permissible consideration in determining whether such inclusion is inappropriate.
 
 &emsp;&emsp;(ii) In the case of other projects of clinical research, the guidelines shall provide that the costs of such inclusion in the project is not a permissible consideration in determining whether such inclusion is inappropriate unless the data regarding women or members of minority groups, respectively, that would be obtained in such project (in the event that such inclusion were required) have been or are being obtained through other means that provide data of comparable quality.
 
@@ -84,5 +84,5 @@ Section 133 of Pub. L. 103–43 provided that: “Section 492B of the Public Hea
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 283b, 287d, 289a of this title; title 38 sections 317, 318.
+This section is referred to in sections 287c–31, 287d, 289a of this title; title 38 sections 317, 318.
 

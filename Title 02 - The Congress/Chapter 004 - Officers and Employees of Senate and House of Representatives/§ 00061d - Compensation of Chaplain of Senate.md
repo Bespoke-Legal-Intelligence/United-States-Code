@@ -16,5 +16,5 @@ Another prior section 61d, acts Aug. 5, 1955, ch. 568, §1, 69 Stat. 499; July 1
 
 #### Increases in Compensation
 
-Increases in compensation for Senate officers and employees under authority of Federal Pay Comparability Act of 1970 (Pub. L. 91–656), see Salary Directives ofPresident pro tempore of the Senate, set out as notes under section 60a–1 of this title.
+Increases in compensation for Senate officers and employees under authority of Federal Pay Comparability Act of 1970 (Pub. L. 91–656), see Salary Directives of President pro tempore of the Senate, set out as notes under section 60a–1 of this title.
 

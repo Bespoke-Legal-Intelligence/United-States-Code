@@ -68,7 +68,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in section 103 of this title; title 15 section 78fff.
+This chapter is referred to in sections 103, 782 of this title; title 15 section 78fff.
 
 
 ---

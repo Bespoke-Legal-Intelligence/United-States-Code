@@ -6,7 +6,7 @@
 
 If the case stated by the initial pleading is not removable, a notice of removal may be filed within thirty days after receipt by the defendant, through service or otherwise, of a copy of an amended pleading, motion, order or other paper from which it may first be ascertained that the case is one which is or has become removable, except that a case may not be removed on the basis of jurisdiction conferred by section 1332 of this title more than 1 year after commencement of the action.
 
-(c)(1) A notice of removal of a criminal prosecution shall be filed not later than thirty days after the arraignment in the State court, or at any time before trial, whichever is earlier, except that for good cause shown the UnitedStates district court may enter an order granting the defendant or defendants leave to file the notice at a later time.
+(c)(1) A notice of removal of a criminal prosecution shall be filed not later than thirty days after the arraignment in the State court, or at any time before trial, whichever is earlier, except that for good cause shown the United States district court may enter an order granting the defendant or defendants leave to file the notice at a later time.
 
 (2) A notice of removal of a criminal prosecution shall include all grounds for such removal. A failure to state grounds which exist at the time of the filing of the notice shall constitute a waiver of such grounds, and a second notice may be filed only on grounds not existing at the time of the original notice. For good cause shown, the United States district court may grant relief from the limitations of this paragraph.
 
@@ -14,7 +14,7 @@ If the case stated by the initial pleading is not removable, a notice of removal
 
 (4) The United States district court in which such notice is filed shall examine the notice promptly. If it clearly appears on the face of the notice and any exhibits annexed thereto that removal should not be permitted, the court shall make an order for summary remand.
 
-(5) If the United States district court does not order the summary remand of such prosecution, it shall order an evidentiary hearing to be held promptly and after such hearing shall make such disposition of the prosecution as justice shall require. If the United States district court determines that removal shall be permitted, it shall so notify the State court in which prosecution is pending, which shall proceed no further.
+(5) If the United States district court does not order the summary remand of such prosecution, it shall order an evidentiary hearing to be held promptly and after such hearing shall make such disposition of the prosecution as justiceshall require. If the United States district court determines that removal shall be permitted, it shall so notify the State court in which prosecution is pending, which shall proceed no further.
 
 (d) Promptly after the filing of such notice of removal of a civil action the defendant or defendants shall give written notice thereof to all adverse parties and shall file a copy of the notice with the clerk of such State court, which shall effect the removal and the State court shall proceed no further unless and until the case is remanded.
 
@@ -64,7 +64,7 @@ The first paragraph of the amendment to subsection (b) corrects this situation b
 
 This provision, however, without more, would create further difficulty in those States, such as Kentucky, where suit is commenced by the filing of the plaintiff's initial pleading and the issuance and service of a summons without any requirement that a copy of the pleading be served upon or otherwise furnished to the defendant. Accordingly the first paragraph of the amendment provides that in such cases the petition for removal shall be filed within 20 days after the service of the summons.
 
-The first paragraph of the amendment conforms to the amendment of rule 81(c) of the Federal Rules of Civil Procedure, relating to removed actions, adopted by the Supreme Court on December 29, 1948, and reported by the Court to the present session of Congress.
+The first paragraph of the amendment conforms to the amendment of rule 81(c) of the Federal Rules ofCivil Procedure, relating to removed actions, adopted by the Supreme Court on December 29, 1948, and reported by the Court to the present session of Congress.
 
 The second paragraph of the amendment to subsection (b) is intended to make clear that the right of removal may be exercised at a later stage of the case if the initial pleading does not state a removable case but its removability is subsequently disclosed. This is declaratory of the existing rule laid down by the decisions. (See for example, <i>Powers v. Chesapeake etc., Ry. Co</i>., 169 U.S. 92.)
 
@@ -78,11 +78,11 @@ Section 337 of the Tariff Act of 1930, referred to in subsec. (f), is classified
 
 #### Amendments
 
-1996—Subsec. (c)(1). Pub. L. 104–317 substituted “defendant or defendants” for “petitioner”.
+<b>1996</b>—Subsec. (c)(1). Pub. L. 104–317 substituted “defendant or defendants” for “petitioner”.
 
-1994—Subsec. (f). Pub. L. 103–465 added subsec. (f).
+<b>1994</b>—Subsec. (f). Pub. L. 103–465 added subsec. (f).
 
-1991—Subsec. (c)(1). Pub. L. 102–198, §10(a)(1), (4), substituted “notice of” for “petition for” and “the notice” for “the petition”.
+<b>1991</b>—Subsec. (c)(1). Pub. L. 102–198, §10(a)(1), (4), substituted “notice of” for “petition for” and “the notice” for “the petition”.
 
 Subsec. (c)(2). Pub. L. 102–198, §10(a)(1), (4), substituted “notice of” for “petition for” and substituted “notice” for “petition” in three places.
 
@@ -96,19 +96,19 @@ Subsec. (c)(4), (5). Pub. L. 102–198, §10(a)(3), added pars. (4) and (5) and 
 
 Subsec. (d). Pub. L. 102–198, §10(a)(1), (4), (5), substituted “notice of removal” for “petition for the removal”, struck out “and bond” after “civil action”, and substituted “notice with” for “petition with”.
 
-1988—Subsec. (a). Pub. L. 100–702, §1016(b)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “A defendant or defendants desiring to remove any civil action or criminal prosecution from a State court shall file in the district court of the United States for the district and division within which such action is pending a verified petition containing a short and plain statement of the facts which entitle him or them to removal together with a copy of all process, pleadings and orders served upon him or them in such action.”
+<b>1988</b>—Subsec. (a). Pub. L. 100–702, §1016(b)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “A defendant or defendants desiring to remove any civil action or criminal prosecution from a State court shall file in the district court of the United States for the district and division within which such action is pending a verified petition containing a short and plain statement of the facts which entitle him or them to removal together with a copy of all process, pleadings and orders served upon him or them in such action.”
 
 Subsec. (b). Pub. L. 100–702, §1016(b)(2), substituted “notice of removal” for “petition for removal” in two places and inserted before period at end of second par. “, except that a case may not be removed on the basis of jurisdiction conferred by section 1332 of this title more than 1 year after commencement of the action”.
 
 Subsecs. (d) to (f). Pub. L. 100–702, §1016(b)(3), redesignated subsecs. (e) and (f) as (d) and (e), respectively, and struck out former subsec. (d) which read as follows: “Each petition for removal of a civil action or proceeding, except a petition in behalf of the United States, shall be accompanied by a bond with good and sufficient surety conditioned that the defendant or defendants will pay all costs and disbursements incurred by reason of the removal proceedings should it be determined that the case was not removable or was improperly removed.”
 
-1977—Subsec. (c). Pub. L. 95–78, §3(a), designated existing provisions as par. (1), set a period of 30 days as the maximum allowable time prior to commencement of trial and following arraignment during which time a petition for removal can be filed, provided for the grant of additional time for good cause shown, and added pars. (2) to (5).
+<b>1977</b>—Subsec. (c). Pub. L. 95–78, §3(a), designated existing provisions as par. (1), set a period of 30 days as the maximum allowable time prior to commencement of trial and following arraignment during which time a petition for removal can be filed, provided for the grant of additional time for good cause shown, and added pars. (2) to (5).
 
 Subsec. (e). Pub. L. 95–78, §3(b), inserted “for the removal of a civil action” after “filing of such petition”.
 
-1965—Subsec. (b). Pub. L. 89–215 substituted “thirty days” for “twenty days” wherever appearing.
+<b>1965</b>—Subsec. (b). Pub. L. 89–215 substituted “thirty days” for “twenty days” wherever appearing.
 
-1949—Subsec. (b). Act May 24, 1949, §83(a), provided that the petition for removal need not be filed until 20 days after the defendant has received a copy of the plaintiff's initial pleading, and provided that the petition for removal shall be filed within 20 days after the service of summons.
+<b>1949</b>—Subsec. (b). Act May 24, 1949, §83(a), provided that the petition for removal need not be filed until 20 days after the defendant has received a copy of the plaintiff's initial pleading, and provided that the petition for removal shall be filed within 20 days after the service of summons.
 
 Subsec. (e). Act May 24, 1949, §83(b), indicated that notice need not be given simultaneously with the filing, but may be made promptly thereafter.
 
@@ -118,17 +118,7 @@ Amendment by Pub. L. 103–465 applicable with respect to complaints filed under
 
 #### Effective Date of 1977 Amendment
 
-Amendment by Pub. L. 95–78 effective Oct. 1, 1977, see section 4 of Pub. L. 95–78, set out as an Effective Dateof Pub. L. 95–78 note under section 3771 of Title 18, Crimes and Criminal Procedure.
-
-#### Federal Rules of Civil Procedure
-
-Application of Rules of Civil Procedure, see rule 81, Appendix to this title.
-
-Continuation of section under rule 81, see note by Advisory Committee under rule 81.
-
-#### Cross References
-
-Stay of State court proceedings, see section 2283 of this title.
+Amendment by Pub. L. 95–78 effective Oct. 1, 1977, see section 4 of Pub. L. 95–78, set out as an Effective Date of Pub. L. 95–78 note under section 3771 of Title 18, Crimes and Criminal Procedure.
 
 #### Section Referred to in Other Sections
 

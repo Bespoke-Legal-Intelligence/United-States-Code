@@ -20,3 +20,25 @@
 
 1987—Pub. L. 100–180 inserted “or security-guard” before “functions” in section catchline and subsec. (a), and substituted “a function” for “the function” in subsec. (b)(1).
 
+#### Performance of Emergency Response Functions at Chemical Weapons Storage Installations
+
+Pub. L. 106–398, §1 \[\[div. A\], title III, §355\], Oct. 30, 2000, 114 Stat. 1654, 1654A–75, provided that:
+
+“(a)
+
+Restriction on Conversion.—The Secretary of the Army may not convert to contractor performance the emergency response functions of any chemical weapons storage installation that, as of the date of the enactment of this Act \[Oct. 30, 2000\], are performed for that installation by employees of the United States until the certification required by subsection (c) has been submitted in accordance with that subsection.
+
+“(b)
+
+Covered Installations.—For the purposes of this section, a chemical weapons storage installation is any installation of the Department of Defense on which lethal chemical agents or munitions are stored.
+
+“(c)
+
+Certification Requirement.—The Secretary of the Army shall certify in writing to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives that, to ensure that there will be no lapse of capability to perform the chemical weapon emergency response mission at a chemical weapons storage installation during any transition to contractor performance of those functions at the installation, the plan for conversion of the performance of those functions—
+
+&emsp;“(1) is consistent with the recommendation contained in General Accounting Office Report NSIAD–00–88, entitled ‘DoD Competitive Sourcing’, dated March 2000;
+
+&emsp;“(2) provides for a transition to contractor performance of emergency response functions which ensures an adequate transfer of the relevant knowledge and expertise regarding chemical weapon emergency response to the contractor personnel; and
+
+&emsp;“(3) complies with section 2465 of title 10, United States Code.”
+

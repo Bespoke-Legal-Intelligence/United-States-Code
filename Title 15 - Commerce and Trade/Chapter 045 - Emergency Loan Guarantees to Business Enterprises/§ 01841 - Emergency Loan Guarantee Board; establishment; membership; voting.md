@@ -292,7 +292,7 @@ Terms and Conditions of Loan Guarantees.—
 
 &emsp;“(1)
 
-Loan duration.—All loans guaranteed under this section shall be repayable in full not later than December 31, 2010, and the terms and conditions of each such loan shall provide that the loan agreement may not be amended, or any provision of the loan agreement waived, without the consent of the Board.
+Loan duration.—All loans guaranteed under this section shall be repayable in full not later thanDecember 31, 2010, and the terms and conditions of each such loan shall provide that the loan agreement may not be amended, or any provision of the loan agreement waived, without the consent of the Board.
 
 &emsp;“(2)
 

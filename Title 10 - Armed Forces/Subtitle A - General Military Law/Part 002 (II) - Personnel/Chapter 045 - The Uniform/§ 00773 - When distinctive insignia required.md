@@ -48,10 +48,6 @@ In subsection (a)(2), the words “persons discharged honorably or under honorab
 
 1958—Subsec. (c). Pub. L. 85–355 added subsec. (c).
 
-#### Cross References
-
-Provisions respecting sale of exterior articles of uniform to person discharged honorably from Army or Air Force as not modifying this section, see sections 4621, 9621 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 4621, 6156, 7606, 9621 of this title.

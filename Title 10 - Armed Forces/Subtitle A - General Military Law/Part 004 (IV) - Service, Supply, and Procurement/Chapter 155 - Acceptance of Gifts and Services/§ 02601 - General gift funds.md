@@ -62,19 +62,7 @@ In subsection (d), the words “or any part thereof deposited in the Treasury pu
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
 
-#### Cross References
-
-Estate tax deductions of transfers for public, charitable, and religious uses, see section 2055 of Title 26, Internal Revenue Code.
-
-Gift tax deductions of charitable and similar gifts, see section 2522 of Title 26.
-
-Income tax deductions of charitable, etc., contributions and gifts, see section 170 of Title 26.
-
-United States Naval Academy General Gift Fund, see section 6973 of this title.
-
-United States Naval Academy Museum Fund, see section 6974 of this title.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2605, 2607, 4356 of this title.
+This section is referred to in sections 2605, 2607, 4356, 7222 of this title.
 

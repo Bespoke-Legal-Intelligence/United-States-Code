@@ -14,7 +14,7 @@ Lease, Sale, or Other Transfer of Additional Copy or Adaptation.—Any exact cop
 
 (c)
 
-Machine Maintenance or Repair.—Notwithstanding the provisions of section 106, it is not an infringement for the owner or lessee of a machine to make or authorize the making of a copy of a computer program if such copy is made solely by virtue of the activation of a machine that lawfully contains an authorized copy of the computer program, for purposes only of maintenance or repair of that machine, if—
+Machine Maintenance or Repair.—Notwithstanding the provisions of section 106, it isnot an infringement for the owner or lessee of a machine to make or authorize the making of a copy of a computer program if such copy is made solely by virtue of the activation of a machine that lawfully contains an authorized copy of the computer program, for purposes only of maintenance or repair of that machine, if—
 
 &emsp;(1) such new copy is used in no other manner and is destroyed immediately after the maintenance or repair is completed; and
 
@@ -47,10 +47,6 @@ Under section 117, an action for infringement of a copyrighted work by means of 
 1998—Pub. L. 105–304 designated existing provisions as subsecs. (a) and (b), inserted headings, and added subsecs. (c) and (d).
 
 1980—Pub. L. 96–517 substituted provision respecting limitations on exclusive rights in connection with computer programs for prior provision enunciating scope of exclusive rights and use of the work in conjunction with computers and similar information systems and declaring owner of copyright in a work without any greater or lesser rights with respect to the use of the work in conjunction with automatic systems capable of storing, processing, retrieving, or transferring information, or in conjunction with any similar device, machine, or process, than those afforded to works under the law, whether this title or the common law or statutes of a State, in effect on Dec. 31, 1977, as held applicable and construed by the court in an action brought under this title.
-
-#### Cross References
-
-Exclusive rights in copyrighted work, see section 106 of this title.
 
 #### Section Referred to in Other Sections
 

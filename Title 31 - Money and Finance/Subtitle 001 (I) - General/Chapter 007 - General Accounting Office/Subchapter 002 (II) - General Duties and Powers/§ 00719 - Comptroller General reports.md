@@ -198,6 +198,48 @@ Subsections (g) and (h) of this section, referred to in subsec. (b)(1)(B), were 
 
 Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which certain reporting requirements under subsecs. (a) and (g)(2) (1st sentence) of this section are listed on pages 9 and 7, respectively), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set out as notes under section 1113 of this title.
+
+#### General Accounting Office Voluntary Early Retirement and Separation Incentives: Reporting Requirements
+
+Pub. L. 106–303, §6, Oct. 13, 2000, 114 Stat. 1069, provided that:
+
+“(a)
+
+Annual Reports.—The Comptroller General shall include in each report submitted to Congress under section 719(a) of title 31, United States Code, during the 5-year period beginning on the date of the enactment of this Act \[Oct. 13, 2000\]—
+
+&emsp;“(1) a review of all actions taken pursuant to sections 1 through 3 of this Act \[amending section 732 of this title and enacting provisions set out as notes under section 732 of this title and sections 5597 and 8336 of Title 5, Government Organization and Employees\] during the period covered by the report, including—
+
+&emsp;&emsp;“(A) the number of officers or employees who separated from service pursuant to section 1 or 2 \[enacting provisions set out as notes under sections 5597 and 8336 of Title 5\], or who were released pursuant to a reduction in force conducted under the amendment made by section 3 \[amending section 732 of this title\], during such period;
+
+&emsp;&emsp;“(B) an assessment of the effectiveness and usefulness of those sections in contributing to the agency's ability to carry out its mission, meet its performance goals, and fulfill its strategic plan; and
+
+&emsp;&emsp;“(C) with respect to the amendment made by section 3, an assessment of the impact such amendment has had with respect to preference eligibles, including—
+
+&emsp;&emsp;&emsp;“(i) whether a disproportionate number or percentage of preference eligibles were included among those who became subject to reduction-in-force actions as a result of such amendment;
+
+&emsp;&emsp;&emsp;“(ii) whether a disproportionate number or percentage of preference eligibles were in fact released pursuant to reductions in force under such amendment; and
+
+&emsp;&emsp;&emsp;“(iii) to the extent that either of the foregoing is answered in the affirmative, the reasons for the disproportionate impact involved (particularly, whether such amendment caused or contributed to the disproportionate impact involved); and
+
+&emsp;“(2) recommendations for any legislation which the Comptroller General considers appropriate with respect to any of those sections.
+
+“(b)
+
+Three-Year Assessment.—Not later than 3 years after the date of the enactment of this Act \[Oct. 13, 2000\], the Comptroller General shall submit to the Congress a report concerning the implementation and effectiveness of this Act \[enacting section 732a of this title, amending sections 731, 732, and 733 of this title, and enacting provisions set out as notes under section 732 of this title and sections 5597 and 8336 of Title 5\]. Such report shall include—
+
+&emsp;“(1) a summary of the portions of the annual reports required under subsection (a);
+
+&emsp;“(2) recommendations for continuation of section 1 or 2 or any legislative changes to section 1 or 2 or the amendment made by section 3; and
+
+&emsp;“(3) any assessment or recommendations of the General Accounting Office Personnel Appeals Board or of any interested groups or associations representing officers or employees of the General Accounting Office.
+
+“(c)
+
+Preference Eligible Defined.—For purposes of this section, the term ‘preference eligible’ has the meaning given such term under section 2108(3) of title 5, United States Code.”
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 731 of this title.

@@ -260,19 +260,9 @@ Pub. L. 103–409, §3(b), Oct. 25, 1994, 108 Stat. 4232, provided that:
 
 For provisions relating to treatment of certain Federal employees of Saint Elizabeths Hospital under certain Federal employee benefit programs, see section 207(<i>o</i>) of Pub. L. 99–335, set out as a note under section 8331 of this title.
 
-#### Cross References
-
-Annual report to Congress by Office of Personnel Management on the operation of this chapter, see section 1308 of this title.
-
-International organizations, coverage of employees transferring to, see section 3582 of this title.
-
-Secretary of Agriculture to prescribe regulations for this chapter covering county committee employees, see section 8716 of this title.
-
-United States magistrate judges and necessary clerical and secretarial assistants employed in the offices of such fulltime magistrate judges deemed officers and employees in the Federal judicial branch within meaning of this chapter, see section 634 of Title 28, Judiciary and Judicial Procedure.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 8706, 8714a, 8714b, 8714c, 8716 of this title; title 40 section 214d.
+This section is referred to in sections 8706, 8714a, 8714b, 8714c, 8716 of this title; title 2 section 162b; title 40 section 214d.
 
 <i><sup>1</sup></i><i> See Change of Name note below.</i>
 

@@ -70,14 +70,6 @@ Notwithstanding the provisions of section 9105(a)(1)(B) <sup>2</sup> of title 3
 
 (July 22, 1932, ch. 522, §11, 47 Stat. 733; June 27, 1934, ch. 847, §503, 48 Stat. 1261; June 27, 1950, ch. 369, §§3, 4, 64 Stat. 257; Aug. 2, 1954, ch. 649, title II, §204(a), 68 Stat. 622; Pub. L. 88–560, title VII, §701(d)(1), Sept. 2, 1964, 78 Stat. 800; Pub. L. 90–448, title VIII, §807(k), Aug. 1, 1968, 82 Stat. 545; Pub. L. 91–151, title I, §3, Dec. 23, 1969, 83 Stat. 374; Pub. L. 91–609, title IX, §914, Dec. 31, 1970, 84 Stat. 1815; Pub. L. 93–383, title VIII, §805(c)(2), Aug. 22, 1974, 88 Stat. 727; Pub. L. 93–495, title I, §112, Oct. 28, 1974, 88 Stat. 1506; Pub. L. 96–153, title III, §324, Dec. 21, 1979, 93 Stat. 1121; Pub. L. 96–221, title III, §311, Mar. 31, 1980, 94 Stat. 149; Pub. L. 97–320, title I, §125(c), Oct. 15, 1982, 96 Stat. 1485; Pub. L. 101–73, title VII, §§701(b)(1)–(3)(A), (c), 709, 710(b)(6), Aug. 9, 1989, 103 Stat. 412, 418; Pub. L. 104–208, div. A, title II, §2704(d)(11)(A), div. D, title II, §208(h)(2), Sept. 30, 1996, 110 Stat. 3009–489, 3009–747.)
 
-#### Amendment of Subsection (k)
-
-<i>Pub. L. 104–208, div. A, title II, §2704(c), (d)(11)(A), Sept. 30, 1996, 110 Stat. 3009–487, 3009–489, provided that, effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, subsection (k) of this section is amended as follows:</i>
-
-<i>(1) in the subsection heading, by striking “SAIF” and inserting “the Deposit Insurance Fund”; and</i>
-
-<i>(2) by striking “Savings Association Insurance Fund” each place such term appears and inserting “Deposit Insurance Fund”.</i>
-
 #### References in Text
 
 Section 9105 of title 31, referred to in subsec. (j), was amended generally by Pub. L. 101–576, title III, §305, Nov. 15, 1990, 104 Stat. 2853, and, as so amended, subsec. (a) does not contain a par. (1)(B). Prior to the general amendment, subsec. (a)(1)(B) related to audits of mixed-ownership Government corporations during periods in which capital of the United States Government was invested therein.
@@ -89,6 +81,8 @@ In subsecs. (i) (first par.) and (j), “chapter 31 of title 31” substituted f
 #### Amendments
 
 1996—Subsec. (h). Pub. L. 104–208, §208(h)(2), substituted “section 681 of title 15” for “section 681(d) of title 15”.
+
+Subsec. (k). Pub. L. 104–208, §2704(d)(11)(A), which directed the amendment of subsec. (k) by substituting “the Deposit Insurance Fund” for “SAIF” in heading and “Deposit Insurance Fund” for “Savings Association Insurance Fund” in pars. (1) and (2), was not executed. See Effective Date of 1996 Amendment note below.
 
 1989—Subsecs. (a) to (d). Pub. L. 101–73, §701(b)(1), (3)(A), substituted “Board” for “board” wherever appearing.
 
@@ -126,7 +120,7 @@ Subsec. (i). Pub. L. 93–495 substituted “obligations under this paragraph”
 
 1970—Subsec. (g). Pub. L. 91–609 substituted “five years” for “one year” in items (3) and (4).
 
-1969—Subsec. (i). Pub. L. 91–151 increased the borrowing limit to $4,000,000,000 and made it a requirement that the rate charged on such borrowing be set at the current market yield on Treasury obligations and added a new paragraph which allows the Secretary to permit members of the Home Loan Bank System to continue to supply funds to the mortgage market during tight market conditions.
+1969—Subsec. (i). Pub. L. 91–151 increased the borrowing limit to $4,000,000,000 and made it a requirement that the rate charged on such borrowing be set at the current market yield on Treasury obligations and added a new paragraph which allows the Secretary to permit members of the Home Loan Bank System tocontinue to supply funds to the mortgage market during tight market conditions.
 
 1968—Subsec. (h). Pub. L. 90–448 inserted “or the Government National Mortgage Association, in the stock of the Federal National Mortgage Association”.
 

@@ -12,7 +12,7 @@ Not later than January 31 of each year, the President shall submit to the Congre
 
 &emsp;(5) with respect to the countries of the South Caucasus and Central Asia—
 
-&emsp;&emsp;(A) an identification of the progress made by the United States in accomplishing the policy described in section 3 of the Silk Road Strategy Act of 1999;
+&emsp;&emsp;(A) an identification of the progress made by the United States in accomplishing thepolicy described in section 3 of the Silk Road Strategy Act of 1999;
 
 &emsp;&emsp;(B) an evaluation of the degree to which the assistance authorized by chapter 12 of part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2296 et seq.\] has accomplished the purposes identified in that chapter;
 
@@ -42,7 +42,7 @@ For delegation of certain functions of President under this section, see section
 
 #### Presidential Report on Funding for New Independent States of Former Soviet Union
 
-Pub. L. 103–306, title II, Aug. 23, 1994, 108 Stat. 1617, provided in part that: “(<i>o</i>) The report required by subsection (d) under the heading ‘Assistance for the New Independent States of the Former Soviet Union’, contained in Public Law 102–391 \[set out below\], shall beupdated at least annually and shall also contain a listing of all grants and contracts issued from funds appropriated annually for the new independent states of the former Soviet Union, to include for each grant and contract (1) a description of its purpose, (2) its amount, and (3) the country where the grant or contract funds are to be expended.”
+Pub. L. 103–306, title II, Aug. 23, 1994, 108 Stat. 1617, provided in part that: “(<i>o</i>) The report required by subsection (d) under the heading ‘Assistance for the New Independent States of the Former Soviet Union’, contained in Public Law 102–391 \[set out below\], shall be updated at least annually and shall also contain a listing of all grants and contracts issued from funds appropriated annually for the new independent states of the former Soviet Union, to include for each grant and contract (1) a description of its purpose, (2) its amount, and (3) the country where the grant or contract funds are to be expended.”
 
 Pub. L. 102–391, title III, Oct. 6, 1992, 106 Stat. 1650, provided in part that: “(d)
 
@@ -53,6 +53,8 @@ Reports.—The President shall submit a report to the Committees on Appropriatio
 Pub. L. 103–87, title V, §560(g), Sept. 30, 1993, 107 Stat. 967, provided that: “None of the funds appropriated by this Act \[see Tables for classification\] shall be made available to any government of the New Independent States of the former Soviet Union if that government directs any action in violation of the territorial integrity or national sovereignty of any other New Independent State, such as those violations included in Principle Six of the Helsinki Final Act: <i>Provided</i>, That such funds may be made available without regard to the restriction in this subsection if the President determines that to do so is in the national interest of the United States: <i>Provided further</i>, That the restriction of this subsection shall not apply to the use of such funds for the provision of assistance for purposes of humanitarian, disaster and refugee relief: <i>Provided further</i>, That thirty days after the date of enactment of this Act \[Sept. 30, 1993\], and then annually thereafter, the Secretary of State shall report to the Committees on Appropriations on steps taken by the governments of the New Independent States concerning violations referred to in this subsection: <i>Provided further</i>, That in preparing this report the Secretary shall consult with the United States Representative to the Conference on Security and Cooperation in Europe \[now the Organization for Security and Cooperation in Europe\].”
 
 Similar provisions relating to nonavailability of funds to any government of the new independent states of the former Soviet Union if that government directs any action in violation of the territorial integrity or national sovereignty of any other new independent state, were contained in the following appropriation acts:
+
+Pub. L. 106–429, §101(a) \[title V, §517(b)\], Nov. 6, 2000, 114 Stat. 1900, 1900A–27.
 
 Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §517(b)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–86.
 
@@ -72,7 +74,7 @@ Memorandum of President of the United States, Jan. 29, 1993, 58 F.R. 8201, provi
 
 Memorandum for the Secretary of State
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including the FREEDOM Support Act (Public Law 102–511) (the “Act”) \[see Short Title note set out under section 5801 of this title\] and section 301 of Title 3 of the United States Code, I hereby delegate the functions and authorities relating to the report required to be submitted not later than January 31, 1993, under section 104 of the Act \[22 U.S.C. 5814\] to the Secretary of State, who is authorized to redelegate these functions and authorities consistent with applicable law.
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the FREEDOM Support Act (Public Law 102–511) (the “Act”) \[see Short Title note set out under section 5801 of this title\] and section 301 of Title3 of the United States Code, I hereby delegate the functions and authorities relating to the report required to be submitted not later than January 31, 1993, under section 104 of the Act \[22 U.S.C. 5814\] to the Secretary of State, who is authorized to redelegate these functions and authorities consistent with applicable law.
 
 You are authorized and directed to publish this memorandum in the Federal Register.
 

@@ -14,7 +14,7 @@
 
 &emsp;(2) allowed sixty days from the date on which counsel is provided under paragraph (3) to submit any matters in rebuttal;
 
-&emsp;(3) provided counsel, certified under section 827(b) of title 10, to help prepare the rebuttalsubmitted under paragraph (2) and to represent the member before the Board under paragraph (5);
+&emsp;(3) provided counsel, certified under section 827(b) of title 10, to help prepare the rebuttal submitted under paragraph (2) and to represent the member before the Board under paragraph (5);
 
 &emsp;(4) allowed full access to and be furnished with copies of records relevant to the consideration for involuntary retirement prior to submission of the rebuttal submitted under paragraph (2); and
 
@@ -66,7 +66,7 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 #### Amendments
 
-1991—Pub. L. 102–241 substituted “Involuntary retirement of enlisted members” for “Enlisted Personnel Board” in section catchline and amended text generally. Prior to amendment, text provided that the Commandant assemble annually a Coast Guard Enlisted Personnel Board to recommend enlisted members for retirement, that the recommendations be transmitted to the Commandant for approval, in which event the enlisted members concerned would be notified and given opportunity to file a written protest, which would require a subsequent annual Board determination and approval by the Commandant to effect the involuntary retirement of that member, and further provided that an enlisted member with twenty years’ service retired from active duty by the Commandant pursuant to this section was to receive retired pay, and that an enlisted member voluntarily or involuntarily retired by reason of twenty years’ service who had been cited for extraordinary heroism was entitled to an increase in retired pay.
+1991—Pub. L. 102–241 substituted “Involuntary retirement of enlisted members” for “Enlisted Personnel Board” in section catchline and amended text generally. Prior to amendment, text provided that the Commandant assemble annually a Coast Guard EnlistedPersonnel Board to recommend enlisted members for retirement, that the recommendations be transmitted to the Commandant for approval, in which event the enlisted members concerned would be notified and given opportunity to file a written protest, which would require a subsequent annual Board determination and approval by the Commandant to effect the involuntary retirement of that member, and further provided that an enlisted member with twenty years’ service retired from active duty by the Commandant pursuant to this section was to receive retired pay, and that an enlisted member voluntarily or involuntarily retired by reason of twenty years’ service who had been cited for extraordinary heroism was entitled to an increase in retired pay.
 
 1986—Subsec. (b). Pub. L. 99–348, §205(b)(9)(A), substituted “retired pay” for “the retired pay of the grade or rating with which retired”.
 
@@ -87,10 +87,6 @@ Act June 3, 1948, ch. 394, 62 Stat. 302, provided: “That those enlisted men of
 #### Enlisted Men in Service on September 6, 1963
 
 Section 2 of Pub. L. 88–114 provided that: “The amendment made by subsection (1) of section 1 of this Act \[amending this section\] does not apply to any enlisted man in service on the effective date of this Act \[Sept. 6, 1963\].”
-
-#### Cross References
-
-Retirement where higher grade has been held, see section 362 of this title.
 
 #### Section Referred to in Other Sections
 

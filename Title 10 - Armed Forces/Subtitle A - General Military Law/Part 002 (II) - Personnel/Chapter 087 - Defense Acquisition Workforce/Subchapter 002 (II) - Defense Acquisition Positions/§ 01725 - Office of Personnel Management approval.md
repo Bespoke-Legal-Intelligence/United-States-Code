@@ -2,7 +2,7 @@
 
 (a)
 
-Qualification Requirements.—The Secretary of Defense shall submit any requirement with respect to civilian employees that is established under section 1723 or under section 1724(a)(4) of this title to the Director of the Office of Personnel Management for approval. Ifthe Director does not disapprove the requirement within 30 days after the date on which the Director receives the requirement, the requirement is deemed to be approved by the Director.
+Qualification Requirements.—The Secretary of Defense shall submit any requirement with respect to civilian employees that is established under section 1723 or under section 1724(a)(4) of this title to the Director of the Office of Personnel Management for approval. If the Director does not disapprove the requirement within 30 days after the date on which the Director receives the requirement, the requirement is deemed to be approved by the Director.
 
 (b)
 

@@ -8,7 +8,7 @@ The President shall direct the Trade Representative to enter into consultations 
 
 (1) the <sup>1</sup> President shall notify each of the Committees regarding the extent and effect of the efforts undertaken since the submission of the report required under section 854(a) of the Trade Agreements Act of 1979 \[19 U.S.C. 2135 note\], and during the 12-month period beginning on October 30, 1984, to expand opportunities in each major wine trading country for exports of United States wine. Such notification, which shall be in the form of a separate written report (that must be submitted within 30 days after the close of that 12-month period) for each major wine trading country, shall include—
 
-&emsp;(A) a description of each act, policy, and practice (and of its legal basis and operation) in that country that constitutes a tariff barrier or nontariff barrier to (or other distortionof) trade in United States wine (and that description shall be based upon an updating of the report that was submitted to the Congress under section 854(a) of the Trade Agreements Act of 1979);
+&emsp;(A) a description of each act, policy, and practice (and of its legal basis and operation) in that country that constitutes a tariff barrier or nontariff barrier to (or other distortion of) trade in United States wine (and that description shall be based upon an updating of the report that was submitted to the Congress under section 854(a) of the Trade Agreements Act of 1979);
 
 &emsp;(B) an assessment of the extent to which each such act, policy, or practice is subject to international agreements to which the United States is a party;
 
@@ -50,7 +50,7 @@ Pub. L. 100–418, title I, §1125, Aug. 23, 1988, 102 Stat. 1147, provided that
 
 &emsp;“(2) the status of the consultations described under paragraph (1); and
 
-&emsp;“(3) information, explanations, and recommendations of the kind referred to in paragraph (1)(C), (D), and (E) of such section 905(b) that are based on developments (including the taking of relevant actions, if any, of a kind not contemplated at the time of the enactment of such 1984 Act \[Oct. 30, 1984\]) since the submission of the report required under such section.”
+&emsp;“(3) information, explanations, and recommendations of the kind referred to in paragraph (1)(C), (D),and (E) of such section 905(b) that are based on developments (including the taking of relevant actions, if any, of a kind not contemplated at the time of the enactment of such 1984 Act \[Oct. 30, 1984\]) since the submission of the report required under such section.”
 
 \[Functions of the President under section 1125 of Pub. L. 100–418 delegated to the United States Trade Representative, see section 1–201 of Ex. Ord. No. 12661, Dec. 27, 1988, 54 F.R. 779, set out as a note under section 2901 of this title.\]
 

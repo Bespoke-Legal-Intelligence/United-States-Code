@@ -14,7 +14,7 @@ In the case of any commodity, service, or facility procured from any agency of t
 
 #### (d) Reimbursement for military assistance
 
-Except as otherwise provided in section 2318 of this title, reimbursement shall be made to any United States Government agency, from funds available for use under subchapter II of this chapter, for any assistance furnished under subchapter II of this chapter, from, by, or through such agency. Such reimbursement shall be in an amount equal to the value (as defined in section2403(m) of this title) of the defense articles or of the defense services (other than salaries of members of the Armed Forces of the United States), or other assistance furnished, plus expenses arising from or incident to operations under subchapter II of this chapter (other than salaries of the Armed Forces of the United States and unfunded estimated costs of civilian retirement and other benefits). The amount of such reimbursement shall be credited to the current applicable appropriations, funds, or accounts of such agency.
+Except as otherwise provided in section 2318 of this title, reimbursement shall be made to any United States Government agency, from funds available for use under subchapter II of this chapter, for any assistance furnished under subchapter II of this chapter, from, by, or through such agency. Such reimbursement shall be in an amount equal to the value (as defined in section 2403(m) of this title) of the defense articles or of the defense services (other than salaries of members of the Armed Forces of the United States), or other assistance furnished, plus expenses arising from or incident to operations under subchapter II of this chapter (other than salaries of the Armed Forces of the United States and unfunded estimated costs of civilian retirement and other benefits). The amount of such reimbursement shall be credited to the current applicable appropriations, funds, or accounts of such agency.
 
 #### (e) Establishment of accounts
 
@@ -73,10 +73,6 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 #### Accounting Adjustments Between Appropriations
 
 Charge of expenses to appropriation or account not affected by provisions for accounting adjustments between appropriations, see section 3 of Pub. L. 89–473, June 29, 1966, 80 Stat. 221, set out as a note under section 628a of Title 31, Money and Finance.
-
-#### Cross References
-
-Reimbursement for equipment, material, or services furnished members of the United Nations, see section 2211 of Title 10, Armed Forces.
 
 #### Section Referred to in Other Sections
 

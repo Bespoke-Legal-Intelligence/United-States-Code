@@ -24,7 +24,3 @@ The words “In the National Guard not in Federal service \* \* \* its courts-
 
 1988—Pub. L. 100–456 struck out “the Canal Zone,” after “Puerto Rico,”.
 
-#### Cross References
-
-Apprehension and restraint of persons subject to Uniform Code of Military Justice, see sections 807 to 814 of Title 10, Armed Forces.
-

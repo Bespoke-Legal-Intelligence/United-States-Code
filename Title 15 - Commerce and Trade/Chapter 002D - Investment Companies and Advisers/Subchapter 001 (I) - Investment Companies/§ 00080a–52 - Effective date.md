@@ -20,20 +20,6 @@ Section 30 of Pub. L. 91–547 provided that: “This Act \[see Short Title note
 
 &emsp;“(4) that part of section 20 which adds a subsection (b) to section 36 of the Investment Company Act of 1940 \[section 80a–35 of this title\] shall take effect upon the expiration of eighteen months after the date of enactment of this Act \[Dec. 14, 1970\].”
 
-#### Cross References
-
-Corporation of Foreign Bondholders Act, 1933, see section 77mm of this title.
-
-Investment Advisers Act of 1940, see section 80b–20 of this title.
-
-Public Utility Holding Company Act of 1935, see section 79 of this title.
-
-Securities Act of 1933, see section 77a of this title.
-
-Securities Exchange Act of 1934, see section 78a of this title.
-
-Trust Indenture Act of 1939, see section 77aaa of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 80a–6, 80a–58 of this title.

@@ -4,7 +4,7 @@ Section 3051, Pub. L. 89–73, title VIII, §801, formerly title VI, §601, July
 
 Section 3052, Pub. L. 89–73, title VIII, §802, formerly title VI, §602, July 14, 1965, 79 Stat. 226; Pub. L. 90–42, §5(e), (f), July 1, 1967, 81 Stat. 107, 108; renumbered title VII, §702, Pub. L. 91–69, §9, Sept. 17, 1969, 83 Stat. 111; renumbered title VIII, §802, Pub. L. 92–258, §1, Mar. 22, 1972, 86 Stat. 88, related to administration. See section 3016(a), (b) of this title.
 
-Section 3053, Pub. L. 89–73, title VIII, §803, formerly title VI, §603, July 14, 1965, 79 Stat. 226; Pub. L. 90–42, §4, July 1, 1967, 81 Stat. 107; renumbered title VII, §703 and amended Pub. L. 91–69, §§2(b), 9, Sept. 17, 1969, 83 Stat. 108, 111; renumbered title VIII, §803, Pub. L. 92–258, §1, Mar. 22, 1972, 86 Stat. 88, related to authorization of appropriations. See section 3037 of this title.
+Section 3053, Pub. L. 89–73, title VIII, §803, formerly title VI, §603, July 14, 1965, 79 Stat. 226; Pub. L. 90–42, §4, July 1, 1967, 81 Stat. 107; renumbered title VII, §703 and amended Pub. L. 91–69, §§2(b), 9, Sept. 17, 1969, 83 Stat. 108, 111; renumbered title VIII, §803, Pub. L. 92–258, §1, Mar. 22, 1972, 86 Stat. 88, related to authorization of appropriations.
 
 Section 3054, Pub. L. 89–73, title VIII, §804, formerly title VII, §704, as added Pub. L. 91–69, §12, Sept. 17, 1969, 83 Stat. 114; renumbered title VIII, §804, Pub. L. 92–258, §1, Mar. 22, 1972, 86 Stat. 88, related to evaluation of programs. See section 3017 of this title.
 

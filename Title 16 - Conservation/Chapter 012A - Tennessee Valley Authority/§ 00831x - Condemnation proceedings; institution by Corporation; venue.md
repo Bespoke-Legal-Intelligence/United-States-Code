@@ -14,7 +14,3 @@ The Corporation may cause proceedings to be instituted for the acquisition by co
 
 Section 2 of Pub. L. 90–536 provided that: “The amendment made by this Act \[amending this section\] shall be effective only with respect to condemnation proceedings initiated after thirty days following the date of enactment of this Act \[Sept. 28, 1968\].”
 
-#### Federal Rules of Civil Procedure
-
-Procedure in condemnation proceedings, see rule 71A, Title 28, Appendix, Judiciary and Judicial Procedure. Effect of this rule upon this section, see Advisory Committee note under such rule.
-

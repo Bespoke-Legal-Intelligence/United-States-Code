@@ -6,7 +6,7 @@ The provisions of this part shall not apply to—
 
 &emsp;(1) A ship of war;
 
-&emsp;(2) A ship of the United States belonging to and operated by the Government, except a shipof the Maritime Administration of the Department of Transportation, the Inland and Coastwise Waterways Service, or the Panama Canal Company;
+&emsp;(2) A ship of the United States belonging to and operated by the Government, except a ship of the Maritime Administration of the Department of Transportation, the Inland and Coastwise Waterways Service, or the Panama Canal Company;
 
 &emsp;(3) A foreign ship belonging to a country which is a party to any Safety Convention in force between the United States and that country which ship carries a valid certificate exempting said ship from the radio provisions of that Convention, or which ship conforms to the radio requirements of such Convention or Regulations and has on board a valid certificate to that effect, or which ship is not subject to the radio provisions of any such Convention;
 
@@ -56,7 +56,7 @@ Subsec. (b). Pub. L. 89–121, §3(b), excepted nuclear ships and substituted �
 
 Subsec. (d). Pub. L. 89–121, §3(c), added subsec. (d).
 
-1954—Subsec. (a)(3). Act Aug. 13, 1954, §1(b), substituted “any Safety Convention in force between the United States and that country” for “the Safety Convention and” and inserted at end “or which ship is not subject to the radio provisions of any such Convention”.
+1954—Subsec. (a)(3). Act Aug. 13, 1954, §1(b), substituted “any Safety Convention in force between theUnited States and that country” for “the Safety Convention and” and inserted at end “or which ship is not subject to the radio provisions of any such Convention”.
 
 Subsec. (c). Act Aug. 13, 1954, §1(c), added subsec. (c).
 
@@ -68,7 +68,7 @@ Section effective May 20, 1937, unless deferred by the Commission, see section 1
 
 #### Transfer of Functions
 
-For transfer of functions of United States Maritime Commission, see Reorg. Plan No. 21 of 1950 and Reorg.Plan No. 7 of 1961, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of United States Maritime Commission, see Reorg. Plan No. 21 of 1950 and Reorg. Plan No. 7 of 1961, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Section Referred to in Other Sections
 

@@ -10,35 +10,3 @@ Based on section 419 of title 28, U.S.C., 1940 ed., Judicial Code and Judiciary 
 
 The provisions of the first sentence are embodied in rule 6(a) of the Federal Rules of Criminal Procedure, but it has been retained because of its relation to the remainder of the text which is not covered by said rule.
 
-#### Federal Rules of Criminal Procedure
-
-Challenges of grand jurors, see rule 6, Appendix to this title.
-
-Discharge and excuse of grand jurors, see rule 6.
-
-Summoning grand jurors, see rule 6.
-
-#### Cross References
-
-Apportionment of grand jurors within district, see section 1865 of Title 28, Judiciary and Judicial Procedure.
-
-Attendance fees of grand jurors, see section 1871 of Title 28.
-
-Drawing grand jurors, see section 1864 of Title 28.
-
-Exclusion on account of race or color, penalty for, see section 243 of this title.
-
-Fee of marshal for serving venire, see section 1921 of Title 28, Judiciary and Judicial Procedure.
-
-Fees of grand jurors, see section 1871 of Title 28.
-
-Intimidating or influencing grand jurors, see sections 1503 and 1504 of this title.
-
-Ohio grand jurors; place of service; authority of judge to change; see sections 115 and 1865 of Title 28, Judiciary and Judicial Procedure.
-
-Qualifications and exemptions of jurors, see section 1861 of Title 28.
-
-Summons; service and return, see section 1867 of Title 28.
-
-Traveling expenses, see section 1871 of Title 28.
-

@@ -4,7 +4,3 @@ In all public documents, records, and maps of the United States in which Rooseve
 
 (Feb. 11, 1933, ch. 48, §2, 47 Stat. 799.)
 
-#### Codification
-
-Section is also set out in D.C. Code, §8–161.
-

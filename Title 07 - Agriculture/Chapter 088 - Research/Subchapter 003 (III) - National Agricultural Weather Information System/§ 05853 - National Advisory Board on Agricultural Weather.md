@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary of Agriculture shall establish the Advisory Board on Agricultural Weather (hereinafter referred to in this section as the “Board”) to advise the Director of the Agricultural Weather Office with respect to carrying out this subchapter.
+The Secretary of Agriculture shall establish the Advisory Board on Agricultural Weather\(hereinafter referred to in this section as the “Board”) to advise the Director of the Agricultural Weather Office with respect to carrying out this subchapter.
 
 #### (b) Composition
 

@@ -8,7 +8,7 @@
 | [182\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000182%20-%20Lands%20disposed%20of%20with%20reservation%20of%20deposits%20of%20coal%2C%20etc.md) | Lands disposed of with reservation of deposits of coal, etc. |
 | [183\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000183%20-%20Cancellation%20of%20prospecting%20permits.md) | Cancellation of prospecting permits. |
 | [184\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000184%20-%20Limitations%20on%20leases%20held%2C%20owned%20or%20controlled%20by%20persons%2C%20associations%20or%20corporations.md) | Limitations on leases held, owned or controlled by persons, associations or corporations. |
-| (a) | Coal leases or permits, acreage; regulations. |
+| (a) | Coal leases. |
 | (b) | Sodium leases or permits, acreage. |
 | (c) | Phosphate leases, acreage. |
 | (d) | Oil or gas leases, acreage, Alaska; options, semiannual statements. |
@@ -194,7 +194,7 @@
 | 234 to 236. Repealed. |  |
 | [236a.](Subchapter%20004%20%28IV%29%20-%20Oil%20and%20Gas/%C2%A7%2000236a%20-%20Lands%20in%20naval%20petroleum%20reserves%20and%20naval%20oil-shale%20reserves%3B%20effect%20of%20other%20laws.md) | Lands in naval petroleum reserves and naval oil-shale reserves; effect of other laws. |
 | [236b.](Subchapter%20004%20%28IV%29%20-%20Oil%20and%20Gas/%C2%A7%2000236b%20-%20Existing%20leases%20within%20naval%20petroleum%20reserves%20not%20affected.md) | Existing leases within naval petroleum reserves not affected. |
-| [237\.](Subchapter%20004%20%28IV%29%20-%20Oil%20and%20Gas/%C2%A7%2000237%20-%20Delinquent%20royalty%20accounts%20under%20leases%20regulating%20development%20of%20oil%20and%20gas%20on%20Federal%20lands%3B%20recommendations%20for%20corrective%20action.md) | Delinquent royalty accounts under leases regulating development of oil and gas on Federal lands; recommendations for corrective action. |
+| [237\.](Subchapter%20004%20%28IV%29%20-%20Oil%20and%20Gas/%C2%A7%2000237%20-%20Omitted.md) | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -22,10 +22,6 @@ Changes were made in phraseology.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
 
-#### Cross References
-
-Claims generally, see section 3721 et seq. of Title 31, Money and Finance.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in title 22 section 3622.

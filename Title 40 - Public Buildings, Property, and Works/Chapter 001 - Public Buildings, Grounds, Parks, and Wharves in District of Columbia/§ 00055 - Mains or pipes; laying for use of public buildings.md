@@ -8,5 +8,3 @@ No greater number of main pipes of the Washington Aqueduct shall be laid at the 
 
 R.S. §1805 derived from act Mar. 3, 1859, ch. 84, §6, 11 Stat. 436.
 
-Section is also set out in D.C. Code, §43–1549.
-

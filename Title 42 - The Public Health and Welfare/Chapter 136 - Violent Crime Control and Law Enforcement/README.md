@@ -48,6 +48,17 @@
 | (a) | In general. |
 | (b) | Authorization of appropriations. |
 | [13712\.](Subchapter%20001%20%28I%29%20-%20Prisons/Part%20A%20-%20Violent%20Offender%20Incarceration%20and%20Truth-in-Sentencing%20Incentive%20Grants/%C2%A7%2013712%20-%20Report%20by%20Attorney%20General.md) | Report by Attorney General. |
+| [13713\.](Subchapter%20001%20%28I%29%20-%20Prisons/Part%20A%20-%20Violent%20Offender%20Incarceration%20and%20Truth-in-Sentencing%20Incentive%20Grants/%C2%A7%2013713%20-%20Aimee%27s%20Law.md) | Aimee's Law. |
+| (a) | Short title. |
+| (b) | Definitions. |
+| (c) | Penalty. |
+| (d) | State applications. |
+| (e) | Source of funds. |
+| (f) | Construction. |
+| (g) | Exception. |
+| (h) | Report. |
+| (i) | Collection of recidivism data. |
+| (j) | Effective date. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -79,6 +90,13 @@
 | (b) | Definitions. |
 | (c) | Establishment of Office. |
 | (d) | Functions of Office. |
+| [13726\.](Subchapter%20001%20%28I%29%20-%20Prisons/Part%20B%20-%20Miscellaneous%20Provisions/%C2%A7%2013726%20-%20Findings.md) | Findings. |
+| [13726a.](Subchapter%20001%20%28I%29%20-%20Prisons/Part%20B%20-%20Miscellaneous%20Provisions/%C2%A7%2013726a%20-%20Definitions.md) | Definitions. |
+| [13726b.](Subchapter%20001%20%28I%29%20-%20Prisons/Part%20B%20-%20Miscellaneous%20Provisions/%C2%A7%2013726b%20-%20Federal%20regulation%20of%20prisoner%20transport%20companies.md) | Federal regulation of prisoner transport companies. |
+| (a) | In general. |
+| (b) | Standards and requirements. |
+| (c) | Federal standards. |
+| [13726c.](Subchapter%20001%20%28I%29%20-%20Prisons/Part%20B%20-%20Miscellaneous%20Provisions/%C2%A7%2013726c%20-%20Enforcement.md) | Enforcement. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -458,6 +476,7 @@ I74subpart 1—education and training for judges and court personnel in state co
 | [13994\.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20D%20-%20Equal%20Justice%20for%20Women%20in%20Courts/Subpart%20001%20-%20Education%20and%20Training%20for%20Judges%20and%20Court%20Personnel%20in%20State%20Courts/%C2%A7%2013994%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | (a) | In general. |
 | (b) | Model programs. |
+| (c) | State Justice Institute. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -469,7 +488,7 @@ I74subpart 1—education and training for judges and court personnel in state co
 | (a) | Studies. |
 | (b) | Matters for examination. |
 | (c) | Clearinghouse. |
-| (d) | Model programs. |
+| (d) | Continuing education and training programs. |
 | [14002\.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20D%20-%20Equal%20Justice%20for%20Women%20in%20Courts/Subpart%20002%20-%20Education%20and%20Training%20for%20Judges%20and%20Court%20Personnel%20in%20Federal%20Courts/%C2%A7%2014002%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -518,6 +537,29 @@ I74subpart 1—education and training for judges and court personnel in state co
 | [14038\.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20F%20-%20National%20Stalker%20and%20Domestic%20Violence%20Reduction/%C2%A7%2014038%20-%20Inclusion%20in%20National%20Incident-Based%20Reporting%20System.md) | Inclusion in National Incident-Based Reporting System. |
 | [14039\.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20F%20-%20National%20Stalker%20and%20Domestic%20Violence%20Reduction/%C2%A7%2014039%20-%20Report%20to%20Congress.md) | Report to Congress. |
 | [14040\.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20F%20-%20National%20Stalker%20and%20Domestic%20Violence%20Reduction/%C2%A7%2014040%20-%20Definitions.md) | Definitions. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part G—Elder Abuse, Neglect, and Exploitation, Including Domestic Violence and Sexual Assault Against Older or Disabled Individuals
+
+|  |  |
+| :--- | ---: |
+| [14041\.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20G%20-%20Elder%20Abuse%2C%20Neglect%2C%20and%20Exploitation%2C%20Including%20Domestic%20Violence%20and%20Sexual%20Assault%20Against%20Older%20or%20Disabled%20Individuals/%C2%A7%2014041%20-%20Definitions.md) | Definitions. |
+| [14041a.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20G%20-%20Elder%20Abuse%2C%20Neglect%2C%20and%20Exploitation%2C%20Including%20Domestic%20Violence%20and%20Sexual%20Assault%20Against%20Older%20or%20Disabled%20Individuals/%C2%A7%2014041a%20-%20Training%20programs%20for%20law%20enforcement%20officers.md) | Training programs for law enforcement officers. |
+| [14041b.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20G%20-%20Elder%20Abuse%2C%20Neglect%2C%20and%20Exploitation%2C%20Including%20Domestic%20Violence%20and%20Sexual%20Assault%20Against%20Older%20or%20Disabled%20Individuals/%C2%A7%2014041b%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part H—Domestic Violence Task Force
+
+|  |  |
+| :--- | ---: |
+| [14042\.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20H%20-%20Domestic%20Violence%20Task%20Force/%C2%A7%2014042%20-%20Task%20force.md) | Task force. |
+| (a) | Establish. |
+| (b) | Uses of funds. |
+| (c) | Report. |
+| (d) | Definition. |
+| (e) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -571,6 +613,7 @@ I74subpart 1—education and training for judges and court personnel in state co
 | (g) | Compliance. |
 | (h) | Fingerprints. |
 | (i) | Grants to States for costs of compliance. |
+| (j) | Notice of enrollment at or employment by institutions of higher education. |
 | [14072\.](Subchapter%20006%20%28VI%29%20-%20Crimes%20Against%20Children/%C2%A7%2014072%20-%20FBI%20database.md) | FBI database. |
 | (a) | Definitions. |
 | (b) | Establishment. |
@@ -698,11 +741,43 @@ I74subpart 1—education and training for judges and court personnel in state co
 | (a) | Establishment of index. |
 | (b) | Information. |
 | (c) | Failure to comply. |
+| (d) | Expungement of records. |
 | [14133\.](Subchapter%20009%20%28IX%29%20-%20State%20and%20Local%20Law%20Enforcement/Part%20A%20-%20DNA%20Identification/%C2%A7%2014133%20-%20Federal%20Bureau%20of%20Investigation.md) | Federal Bureau of Investigation. |
 | (a) | Proficiency testing requirements. |
 | (b) | Privacy protection standards. |
 | (c) | Criminal penalty. |
 | [14134\.](Subchapter%20009%20%28IX%29%20-%20State%20and%20Local%20Law%20Enforcement/Part%20A%20-%20DNA%20Identification/%C2%A7%2014134%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [14135\.](Subchapter%20009%20%28IX%29%20-%20State%20and%20Local%20Law%20Enforcement/Part%20A%20-%20DNA%20Identification/%C2%A7%2014135%20-%20Authorization%20of%20grants.md) | Authorization of grants. |
+| (a) | Authorization of grants. |
+| (b) | Eligibility. |
+| (c) | Crimes without suspects. |
+| (d) | Analysis of samples. |
+| (e) | Restrictions on use of funds. |
+| (f) | Reports to the Attorney General. |
+| (g) | Reports to Congress. |
+| (h) | Expenditure records. |
+| (i) | Definition. |
+| (j) | Authorization of appropriations. |
+| [14135a.](Subchapter%20009%20%28IX%29%20-%20State%20and%20Local%20Law%20Enforcement/Part%20A%20-%20DNA%20Identification/%C2%A7%2014135a%20-%20Collection%20and%20use%20of%20DNA%20identification%20information%20from%20certain%20Federal%20offenders.md) | Collection and use of DNA identification information from certain Federal offenders. |
+| (a) | Collection of DNA samples. |
+| (b) | Analysis and use of samples. |
+| (c) | Definitions. |
+| (d) | Qualifying Federal offenses. |
+| (e) | Regulations. |
+| (f) | Commencement of collection. |
+| [14135b.](Subchapter%20009%20%28IX%29%20-%20State%20and%20Local%20Law%20Enforcement/Part%20A%20-%20DNA%20Identification/%C2%A7%2014135b%20-%20Collection%20and%20use%20of%20DNA%20identification%20information%20from%20certain%20District%20of%20Columbia%20offenders.md) | Collection and use of DNA identification information from certain District of Columbia offenders. |
+| (a) | Collection of DNA samples. |
+| (b) | Analysis and use of samples. |
+| (c) | Definitions. |
+| (d) | Qualifying District of Columbia offenses. |
+| (e) | Commencement of collection. |
+| (f) | Authorization of appropriations. |
+| [14135c.](Subchapter%20009%20%28IX%29%20-%20State%20and%20Local%20Law%20Enforcement/Part%20A%20-%20DNA%20Identification/%C2%A7%2014135c%20-%20Conditions%20of%20release%20generally.md) | Conditions of release generally. |
+| [14135d.](Subchapter%20009%20%28IX%29%20-%20State%20and%20Local%20Law%20Enforcement/Part%20A%20-%20DNA%20Identification/%C2%A7%2014135d%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [14135e.](Subchapter%20009%20%28IX%29%20-%20State%20and%20Local%20Law%20Enforcement/Part%20A%20-%20DNA%20Identification/%C2%A7%2014135e%20-%20Privacy%20protection%20standards.md) | Privacy protection standards. |
+| (a) | In general. |
+| (b) | Permissive uses. |
+| (c) | Criminal penalty. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

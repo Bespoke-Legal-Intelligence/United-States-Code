@@ -46,7 +46,7 @@
 
 (iv) To the extent not otherwise prohibited by law, the Secretary shall disclose to all appropriate credit reporting agencies information relating to damages of more than $100 that are entitled to be recovered by the United States under this subsection and that are delinquent by more than 60 days or such longer period as is determined by the Secretary.
 
-(2) If an individual is released under section 254n <sup>1</sup> of this title from a service obligation under section 234 <sup>1</sup> of this title (as in effect on September 30, 1977) and if the individual does not meet the service obligation incurred undersection 254n <sup>1</sup> of this title, subsection (f) of such section 234 <sup>1</sup> of this title shall apply to such individual in lieu of paragraph (1) of this subsection.
+(2) If an individual is released under section 254n <sup>1</sup> of this title from a service obligation under section 234 <sup>1</sup> of this title (as in effect on September 30, 1977) and if the individual does not meet the service obligation incurred under section 254n <sup>1</sup> of this title, subsection (f) of such section 234 <sup>1</sup> of this title shall apply to such individual in lieu of paragraph (1) of this subsection.
 
 #### (c) Failure to commence or complete service obligations for other reasons; determination of liability; payment to United States; waiver of recovery for extreme hardship or good cause shown
 
@@ -88,7 +88,7 @@
 
 (ii) The provision of law referred to in clause (i) is subsection (f) of section 234 <sup>2</sup> of this title, as in effect prior to the repeal of such section by section 408(b)(1) of Public Law 94–484.
 
-(July 1, 1944, ch. 373, title III, §338E, formerly title VII, §754, as added Pub. L. 94–484, title IV, §408(b)(1), Oct. 12, 1976, 90 Stat. 2286; amended Pub. L. 95–83, title III, §307(g), Aug. 1, 1977, 91 Stat. 391; renumbered §338D and amended Pub. L. 97–35, title XXVII, §2709(a), (e)(1)–(4)(A), Aug. 13, 1981, 95 Stat. 908, 911; Pub. L. 97–414, §8(g)(2), Jan. 4, 1983, 96 Stat. 2061; renumbered §338E and amended Pub. L. 100–177, title II, §§201(2), 202(e), title III, §308(a), Dec. 1, 1987, 101 Stat. 992, 997, 1006; Pub. L. 100–203, title IV, §4052(b), Dec. 22, 1987, 101 Stat. 1330–97; Pub. L. 100–360, title IV, §411(f)(10)(B), July 1, 1988, 102 Stat. 780; Pub. L. 101–597, title II, §203(a), Nov. 16, 1990, 104 Stat. 3027.)
+(July 1, 1944, ch. 373, title III, §338E, formerly title VII, §754, as added Pub. L. 94–484, title IV,§408(b)(1), Oct. 12, 1976, 90 Stat. 2286; amended Pub. L. 95–83, title III, §307(g), Aug. 1, 1977, 91 Stat. 391; renumbered §338D and amended Pub. L. 97–35, title XXVII, §2709(a), (e)(1)–(4)(A), Aug. 13, 1981, 95 Stat. 908, 911; Pub. L. 97–414, §8(g)(2), Jan. 4, 1983, 96 Stat. 2061; renumbered §338E and amended Pub. L. 100–177, title II, §§201(2), 202(e), title III, §308(a), Dec. 1, 1987, 101 Stat. 992, 997, 1006; Pub. L. 100–203, title IV, §4052(b), Dec. 22, 1987, 101 Stat. 1330–97; Pub. L. 100–360, title IV, §411(f)(10)(B), July 1, 1988, 102 Stat. 780; Pub. L. 101–597, title II, §203(a), Nov. 16, 1990, 104 Stat. 3027.)
 
 #### References in Text
 
@@ -160,7 +160,7 @@ Section 308(b) of Pub. L. 100–177 provided that: “The amendment made by subs
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 254<i>l</i>, 254<i>l</i>–1, 254<i>o</i>–1, 254p, 288–2, 288–4, 288–5, 1395ccc of this title.
+This section is referred to in sections 254<i>l</i>, 254<i>l</i>–1, 254<i>o</i>–1, 254p, 287c–33, 288–2, 288–4, 288–5, 288–5a, 288–6, 1395ccc of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

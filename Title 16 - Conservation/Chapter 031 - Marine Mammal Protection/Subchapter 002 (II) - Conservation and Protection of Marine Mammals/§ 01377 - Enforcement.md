@@ -6,11 +6,11 @@ Except as otherwise provided in this subchapter, the Secretary shall enforce the
 
 #### (b) State officers and employees
 
-The Secretary may also designate officers and employees of any State or of any possession of the United States to enforce the provisions of this subchapter. When so designated, such officers and employees are authorized to function as Federal law enforcement agents for these purposes, but they shall not be held and considered as employees of the United States for the purposes of any laws administered by the Director of the Office of Personnel Management.
+The Secretary may also designate officers and employees of any State or of any possession of the United States to enforce the provisions ofthis subchapter. When so designated, such officers and employees are authorized to function as Federal law enforcement agents for these purposes, but they shall not be held and considered as employees of the United States for the purposes of any laws administered by the Director of the Office of Personnel Management.
 
 #### (c) Warrants and other process for enforcement
 
-The judges of the district courts of the United States and the United States magistrate judgesmay, within their respective jurisdictions, upon proper oath or affirmation showing probable cause, issue such warrants or other process, including warrants or other process issued in admiralty proceedings in United States district courts, as may be required for enforcement of this subchapter and any regulations issued thereunder.
+The judges of the district courts of the United States and the United States magistrate judges may, within their respective jurisdictions, upon proper oath or affirmation showing probable cause, issue such warrants or other process, including warrants or other process issued in admiralty proceedings in United States district courts, as may be required for enforcement of this subchapter and any regulations issued thereunder.
 
 #### (d) Execution of process; arrest; search; seizure
 

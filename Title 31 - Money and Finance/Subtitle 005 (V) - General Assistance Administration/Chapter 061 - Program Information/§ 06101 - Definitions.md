@@ -154,7 +154,7 @@ Federal agency.—The term ‘Federal agency’ means any agency as defined unde
 
 &emsp;“(3)
 
-Federal financial assistance.—The term ‘Federal financial assistance’ has the same meaning as defined in section 7501(a)(5) of title 31, UnitedStates Code, under which Federal financial assistance is provided, directly or indirectly, to a non-Federal entity.
+Federal financial assistance.—The term ‘Federal financial assistance’ has the same meaning as defined in section 7501(a)(5) of title 31, United States Code, under which Federal financial assistance is provided, directly or indirectly, to a non-Federal entity.
 
 &emsp;“(4)
 
@@ -346,7 +346,7 @@ Sec. 2. To the extent permitted by law, Executive departments and agencies shall
 
 (c) Not allow a party to participate in any affected program if any Executive department or agency has debarred, suspended, or otherwise excluded (to the extent specified in the exclusion agreement) that party from participation in an affected program. An agency may grant an exception permitting a debarred, suspended, or excluded party to participate in a particular transaction upon a written determination by the agency head or authorized designee stating the reason(s) for deviating from this Presidential policy. However, I intend that exceptions to this policy should be granted only infrequently.
 
-Sec. 3. Executive departments and agencies shall issue regulations governing their implementation ofthis Order that shall be consistent with the guidelines issued under Section 6. Proposed regulations shall be submitted to the Office of Management and Budget for review within four months of the date of the guidelines issued under Section 6. The Director of the Office of Management and Budget may return for reconsideration proposed regulations that the Director believes are inconsistent with the guidelines. Final regulations shall be published within twelve months of the date of the guidelines.
+Sec. 3. Executive departments and agencies shall issue regulations governing their implementation of this Order that shall be consistent with the guidelines issued under Section 6. Proposed regulations shall be submitted to the Office of Management and Budget for review within four months of the date of the guidelines issued under Section 6. The Director of the Office of Management and Budget may return for reconsideration proposed regulations that the Director believes are inconsistent with the guidelines. Final regulations shall be published within twelve months of the date of the guidelines.
 
 Sec. 4. There is hereby constituted the Interagency Committee on Debarment and Suspension, which shall monitor implementation of this Order. The Committee shall consist of representatives of agencies designated by the Director of the Office of Management and Budget.
 
@@ -362,7 +362,7 @@ Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 12689, Aug. 16, 1989, 54 F.R. 34131, provided:
 
-By the authority vested in me as President by the Constitution and laws of the United States of America, and in order to protect the interest of the Federal Government, to deal only with responsible persons, and to insure proper management and integrity in Federal activities, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and laws of the United States of America, and in order to protect the interest of the Federal Government, to deal only with responsible persons, and toinsure proper management and integrity in Federal activities, it is hereby ordered as follows:
 
 Section 1. <i>Definitions</i>. For purposes of this order:
 

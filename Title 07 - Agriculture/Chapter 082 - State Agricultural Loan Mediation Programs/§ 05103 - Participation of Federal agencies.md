@@ -52,3 +52,7 @@ Subsec. (a)(2). Pub. L. 100–399, §502(b), substituted “section 5101 of this
 
 Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, which was approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of Title 12, Banks and Banking.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in section 5101 of this title.
+

@@ -24,7 +24,7 @@ The Congress finds that—
 
 &emsp;(10) even if such negotiations are completed promptly, much time will elapse before such an international regime is established and in operation;
 
-&emsp;(11) development of technology required for the exploration and recovery of hard mineralresources of the deep seabed will require substantial investment for many years before commercial production can occur, and must proceed at this time if deep seabed minerals are to be available when needed;
+&emsp;(11) development of technology required for the exploration and recovery of hard mineral resources of the deep seabed will require substantial investment for many years before commercial production can occur, and must proceed at this time if deep seabed minerals are to be available when needed;
 
 &emsp;(12) it is the legal opinion of the United States that exploration for and commercial recovery of hard mineral resources of the deep seabed are freedoms of the high seas subject to a duty of reasonable regard to the interests of other states in their exercise of those and other freedoms recognized by general principles of international law;
 
@@ -42,7 +42,7 @@ The Congress declares that the purposes of this chapter are—
 
 &emsp;(1) to encourage the successful conclusion of a comprehensive Law of the Sea Treaty, which will give legal definition to the principle that the hard mineral resources of the deep seabed are the common heritage of mankind and which will assure, among other things, nondiscriminatory access to such resources for all nations;
 
-&emsp;(2) pending the ratification by, and entering into force with respect to, the United States of such a Treaty, to provide for the establishment of an international revenue-sharing fund the proceeds of which shall be used for sharing with the international community pursuant to such Treaty;
+&emsp;(2) pending the ratification by, and entering into force with respect to, the United States ofsuch a Treaty, to provide for the establishment of an international revenue-sharing fund the proceeds of which shall be used for sharing with the international community pursuant to such Treaty;
 
 &emsp;(3) to establish, pending the ratification by, and entering into force with respect to, the United States of such a Treaty, an interim program to regulate the exploration for and commercial recovery of hard mineral resources of the deep seabed by United States citizens;
 

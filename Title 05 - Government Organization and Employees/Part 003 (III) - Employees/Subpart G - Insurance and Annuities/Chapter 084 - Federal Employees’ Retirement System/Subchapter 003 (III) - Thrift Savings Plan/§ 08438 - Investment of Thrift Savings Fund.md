@@ -10,7 +10,7 @@
 
 &emsp;(4) the term “Government Securities Investment Fund” means the Government Securities Investment Fund established under subsection (b)(1)(A);
 
-&emsp;(5) the term “International Stock Index Investment Fund” means the InternationalStock Index Investment Fund established under subsection (b)(1)(E);
+&emsp;(5) the term “International Stock Index Investment Fund” means the International Stock Index Investment Fund established under subsection (b)(1)(E);
 
 &emsp;(6) the term “net worth” means capital, paid-in and contributed surplus, unassigned surplus, contingency reserves, group contingency reserves, and special reserves;
 
@@ -50,7 +50,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(III) a broker or dealer registered under section 15 of the Securities Exchange Act of 1934 (15 U.S.C. 78<i>o</i>) that has, on the last day of the broker's or dealer's latest fiscal year ending before the date of a determination for the purpose of this clause, net worth in excess of $750,000;
 
-&emsp;(9) the term “shareholder's or partner's equity”, as used in paragraph (8)(D) with respect to an investment adviser or a person (as defined in section 8471(4) of this title) who is affiliated with the investment adviser in a manner described in clause (ii)(I) of such paragraph (8)(D), means the equity shown in the most recent balance sheet prepared for such investment adviser or affiliated person, in accordance with generally accepted accounting principles, within 2 years before the date on which the investment adviser's status as a qualified professional asset manager is determined for the purposes of this section; and
+&emsp;(9) the term “shareholder's or partner's equity”, as used in paragraph (8)(D) with respect to an investment adviser or a person (as defined in section 8471(4) of this title) who is affiliated with the investment adviser in a manner described in clause (ii)(I) of such paragraph (8)(D), means the equity shown in themost recent balance sheet prepared for such investment adviser or affiliated person, in accordance with generally accepted accounting principles, within 2 years before the date on which the investment adviser's status as a qualified professional asset manager is determined for the purposes of this section; and
 
 &emsp;(10) the term “Small Capitalization Stock Index Investment Fund” means the Small Capitalization Stock Index Investment Fund established under subsection (b)(1)(D).
 
@@ -76,7 +76,7 @@
 
 (2)(A) The Board shall select an index which is a commonly recognized index comprised of common stock the aggregate market value of which is a reasonably complete representation of the United States equity markets.
 
-(B) The Common Stock Index Investment Fund shall be invested in a portfolio designed to replicate the performance of the index selected under subparagraph (A). The portfolio shall be designed such that, to the extent practicable,the percentage of the Common Stock Index Investment Fund that is invested in each stock is the same as the percentage determined by dividing the aggregate market value of all shares of that stock by the aggregate market value of all shares of all stocks included in such index.
+(B) The Common Stock Index Investment Fund shall be invested in a portfolio designed to replicate the performance of the index selected under subparagraph (A). The portfolio shall be designed such that, to the extent practicable, the percentage of the Common Stock Index Investment Fund that is invested in each stock is the same as the percentage determined by dividing the aggregate market value of all shares of that stock by the aggregate market value of all shares of all stocks included in such index.
 
 (3)(A) The Board shall select an index which is a commonly recognized index comprised of common stock the aggregate market value of which represents the United States equity markets excluding the common stocks included in the Common Stock Index Investment Fund.
 
@@ -104,7 +104,7 @@
 
 (g)(1) Notwithstanding subsection (e) of this section, the Secretary of the Treasury may suspend the issuance of additional amounts of obligations of the United States, if such issuances could not be made without causing the public debt of the United States to exceed the public debt limit, as determined by the Secretary of the Treasury.
 
-(2) Any issuances of obligations to the Government Securities Investment Fund which, solely by reason of the public debt limit are not issued, shall be issued under subsection (e) by the Secretary of the Treasury as soon as such issuances can be issued without exceeding the public debt limit.
+(2) Any issuances of obligations to the Government Securities Investment Fund which, solelyby reason of the public debt limit are not issued, shall be issued under subsection (e) by the Secretary of the Treasury as soon as such issuances can be issued without exceeding the public debt limit.
 
 (3) Upon expiration of the debt issuance suspension period, the Secretary of the Treasury shall immediately issue to the Government Securities Investment Fund obligations under chapter 31 of title 31 that (notwithstanding subsection (e)(2) of this section) bear such interest rates and maturity dates as are necessary to ensure that, after such obligations are issued, the holdings of obligations of the United States by the Government Securities Investment Fund will replicate the obligations that would then be held by the Government Securities Investment Fund under the procedure set forth in paragraph (5), if the suspension of issuances under paragraph (1) of this subsection had not occurred.
 
@@ -114,7 +114,7 @@
 
 &emsp;(B) the net amount of interest actually earned by the Government Securities Investment Fund from obligations of the United States during such debt issuance suspension period.
 
-(5) On each business day during the debt limit suspension period, the Executive Director shallnotify the Secretary of the Treasury of the amounts, by maturity, that would have been invested or redeemed each day had the debt issuance suspension period not occurred.
+(5) On each business day during the debt limit suspension period, the Executive Director shall notify the Secretary of the Treasury of the amounts, by maturity, that would have been invested or redeemed each day had the debt issuance suspension period not occurred.
 
 (6) For purposes of this subsection and subsection (h) of this section—
 
@@ -158,7 +158,7 @@ Subsecs. (h), (i). Pub. L. 101–335, §3(a)(1), (7), redesignated subsec. (i) a
 
 #### Effective Date of 1996 Amendment
 
-Section 101(f) \[title VI, §659 \[title I, §104\]\] provided that: “This title \[title I (§§101–104) of section 659 of section 101(f) of Pub. L. 104–208, amending this section and section 8439 of this title and enacting provisions set out as a note under section 8401 of this title\] shall take effect on the date of enactment of this Act \[Sept. 30, 1996\], and the Funds established under this title shall be offered for investment at the earliest practicable election period (described in section 8432(b) of title 5, United States Code) as determined by the Executive Director in regulations.”
+Section 101(f) \[title VI, §659 \[title I, §104\]\] provided that: “This title \[title I (§§101–104) of section 659 of section 101(f) of Pub. L. 104–208, amending this section and section 8439 of this title and enacting provisions set out as a note under section 8401 of this title\] shall take effect on the date of enactment of this Act \[Sept. 30, 1996\], and the Funds established under this title shall be offered for investment at the earliest practicableelection period (described in section 8432(b) of title 5, United States Code) as determined by the Executive Director in regulations.”
 
 #### Effective Date of 1990 Amendment
 

@@ -2,15 +2,15 @@
 
 #### (a) Limitations concerning easements
 
-With respect to lands conveyed to Native Corporations or Native Groups the Secretary shall reserve only those easements which are described in section 17(b)(1) of the Alaska Native Claims Settlement Act \[43 U.S.C. 1616(b)(1)\] and shall be guided by the following principles:
+With respect to lands conveyed to Native Corporations or Native Groups the Secretary shall reserve only those easements which are described in section 17(b)(1) of the Alaska Native Claims Settlement Act and shall be guided by the following principles:
 
 &emsp;(1) all easements should be designed so as to minimize their impact on Native life styles, and on subsistence uses; and
 
-&emsp;(2) each easement should be specifically located and described and should include onlysuch areas as are necessary for the purpose or purposes for which the easement is reserved.
+&emsp;(2) each easement should be specifically located and described and should include only such areas as are necessary for the purpose or purposes for which the easement is reserved.
 
 #### (b) Acquisition of future easements
 
-Whenever, after a conveyance has been made by this Act or under the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], the Secretary determines that an easement not reserved at the time of conveyance or by operation of subsection (a) of this section is required for any purpose specified in section 17(b)(1) of the Alaska Native Claims Settlement Act \[43 U.S.C. 1616(b)(1)\], he is authorized to acquire such easement by purchase or otherwise. The acquisition of such an easement shall be deemed a public purpose for which the Secretary may exercise his exchange authority pursuant to section 22(f) of the Alaska Native Claims Settlement Act \[43 U.S.C. 1621(f)\].
+Whenever, after a conveyance has been made by this Act or under the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], the Secretary determines that an easement not reserved at the time of conveyance or by operation of subsection (a) of this section is required for any purpose specified in section 17(b)(1) of the Alaska Native Claims Settlement Act, he is authorized to acquire such easement by purchase or otherwise. The acquisition of such an easement shall be deemed a public purpose for which the Secretary may exercise his exchange authority pursuant to section 22(f) of the Alaska Native Claims Settlement Act \[43 U.S.C. 1621(f)\].
 
 #### (c) Status of certain lease offers
 
@@ -26,7 +26,7 @@ This Act is not intended to modify, repeal, or otherwise affect any provision of
 
 This Act, referred to in subsecs. (b) to (d), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 16, Conservation, and Tables.
 
-The Alaska Native Claims Settlement Act, referred to in subsecs. (b) and (c), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
+The Alaska Native Claims Settlement Act, referred to in subsecs. (b) and (c), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of this title. Section 17(b) of the Act was classified to section 1616(b) of this title and was omitted from the Code. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
 
 The Mineral Leasing Act of 1920, referred to in subsec. (c), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§181 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 181 of Title 30 and Tables.
 

@@ -18,7 +18,7 @@
 
 &emsp;(2) any investigation or review, conducted pursuant to the authority of any committee, subcommittee, commission or office of the Congress, consistent with applicable rules of the House or Senate.
 
-(June 25, 1948, ch. 645, 62 Stat. 749; Pub. L. 103–322, title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–292, §2, Oct. 11, 1996, 110 Stat. 3459.)
+(June 25, 1948, ch. 645, 62 Stat. 749; Pub. L. 103–322, title XXXIII, §330016(1)(L), Sept. 13, 1994,108 Stat. 2147; Pub. L. 104–292, §2, Oct. 11, 1996, 110 Stat. 3459.)
 
 #### Historical and Revision Notes
 
@@ -40,6 +40,14 @@ In addition to minor changes of phraseology, the maximum term of imprisonment wa
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
 
+#### Change of Name
+
+Reference to United States magistrate or to magistrate deemed to refer to United States magistrate judge pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+
+#### Short Title of 2000 Amendment
+
+Pub. L. 106–578, §1, Dec. 28, 2000, 114 Stat. 3075, provided that: “This Act \[amending section 1028 of this title, repealing section 1738 of this title, and enacting provisions set out as notes under section 1028 of this title\] may be cited as the ‘Internet False Identification Prevention Act of 2000’.”
+
 #### Short Title of 1998 Amendments
 
 Pub. L. 105–318, §1, Oct. 30, 1998, 112 Stat. 3007, provided that: “This Act \[amending sections 982, 1028, and 2516 of this title and section 105 of the Ethics in Government Act of 1978, Pub. L. 95–521, set out in the Appendix to Title 5, Government Organization and Employees, and enacting provisions set out as notes under section 1028 of this title and section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Identity Theft and Assumption Deterrence Act of 1998’.”
@@ -52,7 +60,7 @@ Section 1 of Pub. L. 104–292 provided that: “This Act \[amending this sectio
 
 #### Short Title of 1994 Amendment
 
-Section 290001(a) of Pub. L. 103–322, as amended by Pub. L. 104–294, title VI, §604(b)(34), Oct. 11, 1996, 110Stat. 3508, provided that: “This section \[amending section 1030 of this title\] may be cited as the ‘Computer Abuse Amendments Act of 1994’.”
+Section 290001(a) of Pub. L. 103–322, as amended by Pub. L. 104–294, title VI, §604(b)(34), Oct. 11, 1996, 110 Stat. 3508, provided that: “This section \[amending section 1030 of this title\] may be cited as the ‘Computer Abuse Amendments Act of 1994’.”
 
 #### Short Title of 1990 Amendment
 
@@ -80,35 +88,7 @@ Pub. L. 98–473, title II, §2101, Oct. 12, 1984, 98 Stat. 2190, provided that:
 
 Section 1 of Pub. L. 97–398 provided: “That this Act \[enacting sections 1028 and 1738 of this title and amending section 3001 of Title 39, Postal Service\] may be cited as the ‘False Identification Crime Control Act of 1982’.”
 
-#### Canal Zone
-
-Applicability of section to Canal Zone, see section 14 of this title.
-
-#### Cross References
-
-Conspiracy to defraud Government in regard to false claims, see section 286 of this title.
-
-Conspiracy to defraud United States, see section 371 of this title.
-
-False claims for pensions, see section 289 of this title.
-
-False claims for postal losses, see section 288 of this title.
-
-False entry or certificate by revenue officer or agent, see section 7214 of Title 26, Internal Revenue Code.
-
-Falsification of postal returns to increase compensation, see section 1712 of this title.
-
-Fraudulent claims, generally, see section 287 of this title.
-
-National Science Foundation scholarships or fellowships, applicability of section to loyalty affidavits, see section 1874 of Title 42, The Public Health and Welfare.
-
-Passports, false statements in application, see section 1542 of this title.
-
-Patent declaration in lieu of oath; warning in document of punishment for willful false statements and the like under this section, see section 25 of Title 35, Patents.
-
-Public buildings, section as applicable to statements by contractors, see section 276c of Title 40, Public Buildings, Property, and Works.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 14, 24, 981, 982, 1345, 3059A of this title; title 2 section 437g; title 7 sections 12a, 136h, 511r, 1314i, 5662, 6519; title 8 section 1324a; title 12 section 1833a; title 15 sections 657a, 6003; title 17 section 1312; title 19 sections 2515, 3391, 3432; title 22 sections 1623, 3622; title 35 section 25; title 40 section 276c; title 42 sections 2000b–3, 2000c–6, 3426, 3795a; title 43 section 1212; title 49 section 5307.
+This section is referred to in sections 14, 24, 981, 982, 1345, 3059A of this title; title 2 section 437g; title 7 sections 12a, 136h, 511r, 1314i, 5662, 6519; title 8 section 1324a; title 12 section 1833a; title 15 sections 637, 657a, 6003; title 17 section 1312; title 19 sections 2515, 3391, 3432; title 22 sections 1623, 3622; title 35 section 25; title 40 section 276c; title 42 sections 2000b–3, 2000c–6, 3426, 3795a; title 43 section 1212; title 49 section 5307.
 

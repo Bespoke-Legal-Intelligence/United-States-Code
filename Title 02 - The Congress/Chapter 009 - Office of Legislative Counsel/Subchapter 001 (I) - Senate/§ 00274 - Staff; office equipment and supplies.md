@@ -30,7 +30,7 @@ Pub. L. 88–248, Dec. 30, 1963, 77 Stat. 804, provided in part: “That effecti
 
 Pub. L. 94–59, title I, §105, July 25, 1975, 89 Stat. 275, eff. July 1, 1975, provided in part that the four Senior Counsels in the Office of the Legislative Counsel of the Senate shall each be paid at an annual rate of compensation of $39,000.
 
-Pub. L. 93–371, §4, Aug. 13, 1974, 88 Stat. 429, eff. July 1, 1974, provided in part that the four Senior Counsels in the Office of the Legislative Counsel of the Senate shall each be paid at an annual rate of compensation of $37,620.
+Pub. L. 93–371, §4, Aug. 13, 1974, 88 Stat. 429, eff. July 1, 1974, provided in part that the four Senior Counsels in the Office of the Legislative Counsel of the Senateshall each be paid at an annual rate of compensation of $37,620.
 
 #### 1974 Adjustment in Compensation Not To Supersede Adjustments in Compensation or Limitations by President Pro Tempore of the Senate
 

@@ -80,7 +80,7 @@ Any amounts received from a grant under this section may be used only as follows
 
 #### (A) Service agreement
 
-&emsp;&emsp;That the jurisdiction has entered into a written agreement with service providers qualified to deliver any services included in the proposal under subsection (c) of this section to provide such services to eligible persons assisted by the community residence.
+&emsp;&emsp;That the jurisdiction has entered into a written agreement with service providersqualified to deliver any services included in the proposal under subsection (c) of this section to provide such services to eligible persons assisted by the community residence.
 
 #### (B) Funding and capability
 

@@ -32,7 +32,7 @@ It is the policy of the United States to foster the export of United States envi
 
 &emsp;&emsp;(C) ensure that the members of the Working Group coordinate their environmental trade promotion programs, including feasibility studies, technical assistance, training programs, business information services, and export financing; and
 
-&emsp;&emsp;(D) assess, jointly with the Working Group representative of the Environmental Protection Agency, the extent to which the environmental trade promotion programs of the Working Group advance the environmentalgoals established in “Agenda 21” by the United Nations Conference on Environment and Development held at Rio de Janeiro, and in other international environmental agreements.
+&emsp;&emsp;(D) assess, jointly with the Working Group representative of the Environmental Protection Agency, the extent to which the environmental trade promotion programs of the Working Group advance the environmental goals established in “Agenda 21” by the United Nations Conference on Environment and Development held at Rio de Janeiro, and in other international environmental agreements.
 
 #### (4) Report to Congress
 
@@ -64,7 +64,7 @@ It is the policy of the United States to foster the export of United States envi
 
 #### (1) Priority country identification
 
-&emsp;The Working Group, in consultation with the Committee, shall annually assess which foreign countries have markets with the greatest potential for the export of United States environmental technologies, goods, and services. Of these countries the Working Group shall select as priority countries 5 with the greatest potential for the application of United States Government export promotion resources related to environmental exports.
+&emsp;The Working Group, in consultation with the Committee, shall annually assess which foreign countries have markets with thegreatest potential for the export of United States environmental technologies, goods, and services. Of these countries the Working Group shall select as priority countries 5 with the greatest potential for the application of United States Government export promotion resources related to environmental exports.
 
 #### (2) Export plans
 
@@ -96,7 +96,7 @@ In support of the work of the Working Group, the Secretary shall, as part of the
 
 &emsp;&emsp;(A) identifying factors in the country to which the specialist is assigned that affect the United States share of the domestic market for environmental technologies, goods, and services, including market barriers, standards-setting activities, and financing issues;
 
-&emsp;&emsp;(B) providing assessments of assistance by foreign governments that is provided to producers of environmental technologies, goods, and services in such countries in order to enhance exports to the country to which the specialist is assigned, the effectiveness of such assistance on the competitiveness ofUnited States products, and whether comparable United States assistance exists;
+&emsp;&emsp;(B) providing assessments of assistance by foreign governments that is provided to producers of environmental technologies, goods, and services in such countries in order to enhance exports to the country to which the specialist is assigned, the effectiveness of such assistance on the competitiveness of United States products, and whether comparable United States assistance exists;
 
 &emsp;&emsp;(C) training Foreign Commercial Service Officers in the country to which the specialist is assigned, other countries in the region, and United States and Foreign Commercial Service offices in the United States, in environmental technologies and the international environmental market;
 
@@ -124,7 +124,7 @@ In addition to the training provided under subsection (f)(2)(C) of this section,
 
 #### (1) Establishment of initiatives
 
-&emsp;The TPCC may establish one or more international regional environmental initiatives the purpose of which shall be to coordinate the activities of Federal departments and agencies in order to build environmental partnerships between the United States and the geographic region outside the United States for which such initiative is established. Such partnerships shall enhance environmental protection and promote sustainable development by using in the region technical expertise and financial resources of United States departments and agencies that provide foreign assistance and by expanding United States exports of environmental technologies, goods, and services to that region.
+&emsp;The TPCC may establish one or more international regional environmental initiativesthe purpose of which shall be to coordinate the activities of Federal departments and agencies in order to build environmental partnerships between the United States and the geographic region outside the United States for which such initiative is established. Such partnerships shall enhance environmental protection and promote sustainable development by using in the region technical expertise and financial resources of United States departments and agencies that provide foreign assistance and by expanding United States exports of environmental technologies, goods, and services to that region.
 
 #### (2) Activities
 
@@ -156,7 +156,7 @@ The Working Group shall—
 
 #### (j) Environmental technology export alliances
 
-Subject to the availability of appropriations for such purpose, the Secretary is authorized to use the Market Development Cooperator Program to support the creation on a regional basis of alliances of private sector entities, nonprofit organizations, and universities, that support the export of environmental technologies, goods,and services and promote the export of products complying with United States environmental, safety, and related requirements.
+Subject to the availability of appropriations for such purpose, the Secretary is authorized to use the Market Development Cooperator Program to support the creation on a regional basis of alliances of private sector entities, nonprofit organizations, and universities, that support the export of environmental technologies, goods, and services and promote the export of products complying with United States environmental, safety, and related requirements.
 
 #### (k) “Environmental business” defined
 

@@ -120,11 +120,11 @@ In determining whether to designate any country a beneficiary country under this
 
 &emsp;&emsp;(II) the time and place at which such written comments will be accepted.
 
-#### (f) Triennial report
+#### (f) Report
 
-On or before the 3rd, 6th, and 9th anniversaries of December 4, 1991, the President shall submit to the Congress a complete report regarding the operation of this chapter, including the results of a general review of beneficiary countries based on the considerations described in subsections (c) and (d) of this section. In reporting on the considerations described in subsection (d)(11) of this section, the President shall report any evidence that the crop eradication and crop substitution efforts of the beneficiary are directly related to the effects of this chapter.
+Not later than January 31, 2001, the President shall submit to the Congress a complete report regarding the operation of this chapter, including the results of a general review of beneficiary countries based on the considerations described in subsections (c) and (d) of this section. In reporting on the considerations described in subsection (d)(11) of this section, the President shall report any evidence that the crop eradication and crop substitution efforts of the beneficiary are directly related to the effects of this chapter.
 
-(Pub. L. 102–182, title II, §203, Dec. 4, 1991, 105 Stat. 1236; Pub. L. 103–465, title VI, §621(a)(3), Dec. 8, 1994, 108 Stat. 4992; Pub. L. 104–188, title I, §1954(a)(2), Aug. 20, 1996, 110 Stat. 1927.)
+(Pub. L. 102–182, title II, §203, Dec. 4, 1991, 105 Stat. 1236; Pub. L. 103–465, title VI, §621(a)(3), Dec. 8, 1994, 108 Stat. 4992; Pub. L. 104–188, title I, §1954(a)(2), Aug. 20, 1996, 110 Stat. 1927; Pub. L. 106–200, title II, §211(c)(2), May 18, 2000, 114 Stat. 287.)
 
 #### References in Text
 
@@ -135,6 +135,8 @@ Subsec. (h) of section 2291 of title 22, referred to in subsec. (d)(11), was rep
 This chapter, referred to in subsec. (d)(12), was in the original “this Act” and was translated as reading “this title”, meaning title II of Pub. L. 102–182 which enacted this chapter, to reflect the probable intent of Congress.
 
 #### Amendments
+
+2000—Subsec. (f). Pub. L. 106–200 substituted “Report” for “Triennial report” in heading and “Not later than January 31, 2001” for “On or before the 3rd, 6th, and 9th anniversaries of December 4, 1991” in text.
 
 1996—Subsec. (c)(7). Pub. L. 104–188 substituted “2467(4) of this title” for “2462(a)(4) of this title”.
 

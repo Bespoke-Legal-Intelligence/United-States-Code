@@ -54,7 +54,7 @@ The period of required service after graduation is increased from 3 to 4 years, 
 
 #### Amendments
 
-1988—Subsec. (a). Pub. L. 100–448, §12(1), struck out before last sentence “Previous to his admission each cadet shall obligate himself, in such manner as the Secretary shall prescribe, to complete the course of instruction at the Coast Guard Academy and to serve at least five years as an officer in the Coast Guard after graduation, if his service be so long required.”
+1988—Subsec. (a). Pub. L. 100–448, §12(1), struck out before last sentence “Previous to his admission eachcadet shall obligate himself, in such manner as the Secretary shall prescribe, to complete the course of instruction at the Coast Guard Academy and to serve at least five years as an officer in the Coast Guard after graduation, if his service be so long required.”
 
 Subsecs. (b) to (f). Pub. L. 100–448, §12(2), added subsecs. (b) to (f) and struck out former subsec. (b) which read as follows: “A cadet who does not fulfill his obligation to complete the course of instruction or refuses to accept an appointment as an officer in the Coast Guard may be transferred by the Secretary to the Coast Guard Reserve in an appropriate enlisted grade or rating, and, notwithstanding section 651 of title 10, may be ordered to active duty to serve in that grade or rating for such period of time as the Secretary prescribes, but not for more than four years.”
 
@@ -71,22 +71,6 @@ Subsecs. (b) to (f). Pub. L. 100–448, §12(2), added subsecs. (b) to (f) and s
 #### Effective Date of 1964 Amendment; Obligated Period of Service
 
 Amendment by Pub. L. 88–276 effective only with respect to cadets and midshipmen appointed to the service academies and the Coast Guard Academy after Mar. 3, 1964, see section 5(c) of Pub. L. 88–276, set out as a note under section 4348 of Title 10, Armed Forces.
-
-#### Cross References
-
-Conduct unbecoming an officer and gentleman as offense, see section 933 of Title 10, Armed Forces.
-
-Dismissal by court-martial, review by board of review, see section 866 of Title 10.
-
-Expenses when absent from vessel or assigned to shore patrol duty, see section 510 of this title.
-
-Military Justice Code, cadets subject to, see section 802 of Title 10, Armed Forces.
-
-Pay and allowances, see sections 201, 422 of Title 37, Pay and Allowances of the Uniformed Services.
-
-Summary courts-martial, jurisdiction to try, see section 820 of Title 10, Armed Forces.
-
-Travel and transportation allowances, see section 410 of Title 37, Pay and Allowances of the Uniformed Services.
 
 #### Section Referred to in Other Sections
 

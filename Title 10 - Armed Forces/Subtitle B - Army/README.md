@@ -58,6 +58,7 @@
 | :--- | :---: | ---: |
 | <b>\[431.</b> | <b>Repealed.\]</b> |  |
 | [<b>433.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20433%20-%20Procurement/README.md) | <b>Procurement</b> | <b>4531</b> |
+| [<b>434.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20434%20-%20Armaments%20Industrial%20Base/README.md) | <b>Armaments Industrial Base</b> | <b>4551</b> |
 | [<b>435.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20435%20-%20Issue%20of%20Serviceable%20Material%20to%20Armed%20Forces/README.md) | <b>Issue of Serviceable Material to Armed Forces</b> | <b>4561</b> |
 | [<b>437.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20437%20-%20Utilities%20and%20Services/README.md) | <b>Utilities and Services</b> | <b>4591</b> |
 | [<b>439.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20439%20-%20Sale%20of%20Serviceable%20Material/README.md) | <b>Sale of Serviceable Material</b> | <b>4621</b> |
@@ -72,6 +73,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2000—Pub. L. 106–398, §1 \[\[div. A\], title III, §344(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–71, added item for chapter 434.
 
 1999—Pub. L. 106–65, div. A, title VII, §721(c)(7), Oct. 5, 1999, 113 Stat. 695, substituted “Disposition” for “Inquests; Disposition” and “4712” for “4711” in item for chapter 445.
 

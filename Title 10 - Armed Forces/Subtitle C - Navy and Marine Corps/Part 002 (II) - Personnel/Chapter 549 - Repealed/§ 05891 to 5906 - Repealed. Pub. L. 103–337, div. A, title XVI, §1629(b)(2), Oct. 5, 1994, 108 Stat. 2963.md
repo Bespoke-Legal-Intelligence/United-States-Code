@@ -28,9 +28,9 @@ A prior section 5899, added Pub. L. 85–861, §1(133), Sept. 2, 1958, 72 Stat. 
 
 Section 5900, added Pub. L. 85–861, §1(133), Sept. 2, 1958, 72 Stat. 1504, related to right of officer eligible for consideration for promotion to send communication to selection board. See section 14106 of this title.
 
-Section 5901, added Pub. L. 85–861, §1(133), Sept. 2, 1958, 72 Stat. 1504; amended Pub. L. 96–513, title V, §503(36), Dec. 12, 1980, 94 Stat. 2914, related to numbersof officers that a selection board may recommend for promotion. See section 14307 of this title.
+Section 5901, added Pub. L. 85–861, §1(133), Sept. 2, 1958, 72 Stat. 1504; amended Pub. L. 96–513, title V, §503(36), Dec. 12, 1980, 94 Stat. 2914, related to numbers of officers that a selection board may recommend for promotion. See section 14307 of this title.
 
-Section 5902, added Pub. L. 85–861, §1(133), Sept. 2, 1958, 72 Stat. 1504; amended Pub. L. 86–559, §1(43), June 30, 1960, 74 Stat. 274; Pub. L. 89–731, §§3–5, Nov. 2, 1966, 80 Stat. 1160; Pub. L. 96–513, title V, §503(37), Dec. 12, 1980, 94 Stat. 2914, related to promotion lists, eligibility of officers of Naval Reserve and Marine Corps Reserve for promotion, and date of rank. See sections 14308(a), (d) and 14311(a) of this title.
+Section 5902, added Pub. L. 85–861, §1(133), Sept. 2, 1958, 72 Stat. 1504; amended Pub. L. 86–559, §1(43), June30, 1960, 74 Stat. 274; Pub. L. 89–731, §§3–5, Nov. 2, 1966, 80 Stat. 1160; Pub. L. 96–513, title V, §503(37), Dec. 12, 1980, 94 Stat. 2914, related to promotion lists, eligibility of officers of Naval Reserve and Marine Corps Reserve for promotion, and date of rank. See sections 14308(a), (d) and 14311(a) of this title.
 
 Section 5903, added Pub. L. 85–861, §1(133), Sept. 2, 1958, 72 Stat. 1505; amended Pub. L. 90–130, §1(20)(D), Nov. 8, 1967, 81 Stat. 380; Pub. L. 99–661, div. A, title V, §507(b)(2), Nov. 14, 1986, 100 Stat. 3866, related to failure of officers of Naval Reserve and Marine Corps Reserve of selection for promotion. See section 14501 et seq. of this title.
 

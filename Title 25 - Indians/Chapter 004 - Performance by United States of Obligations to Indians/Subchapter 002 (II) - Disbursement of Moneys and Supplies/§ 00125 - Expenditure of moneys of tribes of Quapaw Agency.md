@@ -4,7 +4,3 @@ No moneys shall be expended from tribal or individual funds belonging to the Qua
 
 (June 30, 1919, ch. 4, §17, 41 Stat. 20.)
 
-#### Cross References
-
-Insurance for protection of tribal property authorized to be paid for out of tribal funds, see section 123a of this title.
-

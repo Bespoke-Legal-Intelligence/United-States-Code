@@ -20,3 +20,7 @@ Historical and Revision Notes
 
 Apr. 17, 1916, ch. 77, §4 (related to report), 39 Stat. 51.
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of reporting provisions in this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 196 of House Document No. 103–7.
+

@@ -23,7 +23,7 @@
 | (b) | Assistance to States. |
 | [1828\.](%C2%A7%2001828%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
 | [1829\.](%C2%A7%2001829%20-%20Preemption%20of%20State%20laws%3B%20concurrent%20jurisdiction%3B%20prohibition%20on%20certain%20State%20action.md) | Preemption of State laws; concurrent jurisdiction; prohibition on certain State action. |
-| [1830\.](%C2%A7%2001830%20-%20Report%20to%20the%20Congress.md) | Report to the Congress. |
+| [1830\.](%C2%A7%2001830%20-%20Omitted.md) | Omitted. |
 | [1831\.](%C2%A7%2001831%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -44,5 +44,5 @@
 - [&sect; 01827 - Utilization of personnel of Department of Agriculture and officers and employees of consenting States; technical and other nonfinancial&#8230;](%C2%A7%2001827%20-%20Utilization%20of%20personnel%20of%20Department%20of%20Agriculture%20and%20officers%20and%20employees%20of%20consenting%20States%3B%20technical%20and%20other%20nonfinancial%E2%80%A6.md)
 - [&sect; 01828 - Rules and regulations](%C2%A7%2001828%20-%20Rules%20and%20regulations.md)
 - [&sect; 01829 - Preemption of State laws; concurrent jurisdiction; prohibition on certain State action](%C2%A7%2001829%20-%20Preemption%20of%20State%20laws%3B%20concurrent%20jurisdiction%3B%20prohibition%20on%20certain%20State%20action.md)
-- [&sect; 01830 - Report to the Congress](%C2%A7%2001830%20-%20Report%20to%20the%20Congress.md)
+- [&sect; 01830 - Omitted](%C2%A7%2001830%20-%20Omitted.md)
 - [&sect; 01831 - Authorization of appropriations](%C2%A7%2001831%20-%20Authorization%20of%20appropriations.md)

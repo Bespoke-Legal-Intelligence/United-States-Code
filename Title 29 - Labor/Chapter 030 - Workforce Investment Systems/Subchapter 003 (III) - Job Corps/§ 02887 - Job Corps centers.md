@@ -62,6 +62,10 @@ Job Corps centers may be residential or nonresidential in character, and shall b
 
 (Pub. L. 105–220, title I, §147, Aug. 7, 1998, 112 Stat. 1010.)
 
+#### Prior Provisions
+
+Provisions similar to this section were contained in section 1697 of this title prior to repeal by Pub. L. 105–220.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 2882, 2898 of this title.

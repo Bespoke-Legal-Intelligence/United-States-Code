@@ -34,11 +34,11 @@
 
 #### (2) Actions by government of jurisdiction
 
-&emsp;In order to pursue such consultations with that government, the President may delay imposition of the sanction pursuant to this section for up to 90 days. Following these consultations, the President shall impose the sanction unless the President determines and certifies in writing to the Congress that that government has taken specific and effective actions, including appropriate penalties, to terminate the involvement of the foreign person in the activities described in subsection (a)(1) of this section. The President may delay the imposition of the sanction for up to an additional 90 days if the President determinesand certifies in writing to the Congress that that government is in the process of taking the actions described in the preceding sentence.
+&emsp;In order to pursue such consultations with that government, the President may delay imposition of the sanction pursuant to this section for up to 90 days. Following these consultations, the President shall impose the sanction unless the President determines and certifies in writing to the Congress that that government has taken specific and effective actions, including appropriate penalties, to terminate the involvement of the foreign person in the activities described in subsection (a)(1) of this section. The President may delay the imposition of the sanction for up to an additional 90 days if the President determines and certifies in writing to the Congress that that government is in the process of taking the actions described in the preceding sentence.
 
 #### (3) Report to Congress
 
-&emsp;Not later than 90 days after making a determination under subsection (a)(1) of this section, the President shall submit to the Committee on Foreign Relations and the Committee on Governmental Affairs of the Senate and the Committee on Foreign Affairs of the House of Representatives a report on the status of consultations with the appropriate government under this subsection, and the basis for any determination under paragraph (2) of this subsection that such government has taken specific corrective actions.
+&emsp;Not later than 90 days after making a determination under subsection (a)(1) of this section, the President shall submit to the Committee on Foreign Relations and the Committee on Governmental Affairs of the Senate and the Committee on Foreign Affairs of the House of Representatives a report on the status of consultations with the appropriategovernment under this subsection, and the basis for any determination under paragraph (2) of this subsection that such government has taken specific corrective actions.
 
 #### (c) Sanction
 
@@ -106,7 +106,7 @@ Committee on Foreign Affairs of House of Representatives treated as referring to
 
 #### Effective Date
 
-Section 831 of Pub. L. 103–236 provided that: “The provisions of this part \[part B (§§821–831) of title VIII of Pub. L. 103–236, enacting this subchapter and sections 2799aa to 2799aa–2 of this title, amending sections 262d, 2295a, 2295b, 2375, 2429a–1, 2593a, 2708, 2753, and 2780 of this title, section 635 of Title 12, Banks and Banking, and section 2160c of Title 42, The Public Health and Welfare, repealing sections 2429 and 2429a of this title, and enacting provisions set out as a note under section 2799aa of this title\], and the amendments made by this part, shall take effect 60 days after the date of the enactment of this Act \[Apr. 30, 1994\].”
+Section 831 of Pub. L. 103–236 provided that: “The provisions of this part \[part B (§§821–831) of title VIII of Pub. L. 103–236, enacting this subchapter and sections 2799aa to 2799aa–2 of this title, amending sections 262d, 2295a, 2295b, 2375, 2429a–1, 2593a, 2708, 2753, and 2780 of this title, section 635 of Title 12, Banks and Banking, and section 2160c of Title 42, The Public Health and Welfare, repealing sections 2429 and 2429a of this title,and enacting provisions set out as a note under section 2799aa of this title\], and the amendments made by this part, shall take effect 60 days after the date of the enactment of this Act \[Apr. 30, 1994\].”
 
 #### Short Title
 

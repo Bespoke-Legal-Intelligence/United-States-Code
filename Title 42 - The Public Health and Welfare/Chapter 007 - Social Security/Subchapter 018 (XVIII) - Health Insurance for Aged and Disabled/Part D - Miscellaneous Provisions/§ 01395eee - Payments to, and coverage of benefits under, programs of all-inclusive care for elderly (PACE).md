@@ -146,7 +146,7 @@
 
 #### (4) Continuation of eligibility
 
-&emsp;An individual who is a PACE program eligible individual may be deemed to continue tobe such an individual notwithstanding a determination that the individual no longer meets the requirement of subsection (a)(5)(B) of this section if, in accordance with regulations, in the absence of continued coverage under a PACE program the individual reasonably would be expected to meet such requirement within the succeeding 6-month period.
+&emsp;An individual who is a PACE program eligible individual may be deemed to continue to be such an individual notwithstanding a determination that the individual no longer meets the requirement of subsection (a)(5)(B) of this section if, in accordance with regulations, in the absence of continued coverage under a PACE program the individual reasonably would be expected to meet such requirement within the succeeding 6-month period.
 
 #### (5) Enrollment; disenrollment
 
@@ -250,7 +250,7 @@
 
 #### (B) Development of outcome measures
 
-&emsp;&emsp;Under a PACE program agreement, the PACE provider, the Secretary, and the State administering agency shall jointly cooperate in the development and implementation of health status and quality of life outcome measures with respect to PACE program eligible individuals.
+&emsp;&emsp;Under a PACE program agreement, the PACE provider, the Secretary, and the State administering agency shall jointly cooperate in the development and implementation of health status and quality of life outcomemeasures with respect to PACE program eligible individuals.
 
 #### (4) Oversight
 
@@ -324,7 +324,7 @@
 
 #### (8) Timely consideration of applications for PACE program provider status
 
-&emsp;In considering an application for PACE provider program status, the application shall be deemed approved unless the Secretary, within 90 days after the date of the submission of the application to the Secretary, either denies such request in writing or informs the applicant in writing with respect to any additional information that is needed in order to make a final determination with respect to the application. After the date the Secretary receives such additional information, the application shall be deemed approved unless the Secretary, within 90 days of such date, denies such request.
+&emsp;In considering an application for PACE provider program status, the application shall bedeemed approved unless the Secretary, within 90 days after the date of the submission of the application to the Secretary, either denies such request in writing or informs the applicant in writing with respect to any additional information that is needed in order to make a final determination with respect to the application. After the date the Secretary receives such additional information, the application shall be deemed approved unless the Secretary, within 90 days of such date, denies such request.
 
 #### (f) Regulations
 
@@ -352,11 +352,15 @@
 
 &emsp;&emsp;&emsp;(v) The assumption by the provider of full financial risk.
 
+#### (C) Continuation of modifications or waivers of operational requirements under demonstration status
+
+&emsp;&emsp;If a PACE program operating under demonstration authority has contractual or other operating arrangements which are not otherwise recognized in regulation and which were in effect on July 1, 2000, the Secretary (in close consultation with, and with the concurrence of, the State administering agency) shall permit any such program to continue such arrangements so long as such arrangements are found by the Secretary and the State to be reasonably consistent with the objectives of the PACE program.
+
 #### (3) Application of certain additional beneficiary and program protections
 
 #### (A) In general
 
-&emsp;&emsp;In issuing such regulations and subject to subparagraph (B), the Secretary may apply with respect to PACE programs, providers, and agreements such requirements of part C of this subchapter (or, for periods before January 1, 1999, section 1395mm of this title) and sections 1396b(m) and 1396u–2 of this title relating to protection of beneficiaries and program integrity as would apply to Medicare+Choice organizations under part Cof this subchapter (or for such periods eligible organizations under risk-sharing contracts under section 1395mm of this title) and to medicaid managed care organizations under prepaid capitation agreements under section 1396b(m) of this title.
+&emsp;&emsp;In issuing such regulations and subject to subparagraph (B), the Secretary may apply with respect to PACE programs, providers, and agreements such requirements of part C of this subchapter (or, for periods before January 1, 1999, section 1395mm of this title) and sections 1396b(m) and 1396u–2 of this title relating to protection of beneficiaries and program integrity as would apply to Medicare+Choice organizations under part C of this subchapter (or for such periods eligible organizations under risk-sharing contracts under section 1395mm of this title) and to medicaid managed care organizations under prepaid capitation agreements under section 1396b(m) of this title.
 
 #### (B) Considerations
 
@@ -390,7 +394,7 @@ With respect to carrying out a PACE program under this section, the following re
 
 #### (1) In general
 
-&emsp;In order to demonstrate the operation of a PACE program by a private, for-profit entity, the Secretary (in close consultation with State administering agencies) shall grant waivers from the requirement under subsection (a)(3) of this section that a PACE provider may not be a for-profit, private entity.
+&emsp;In order to demonstrate the operation of a PACE program by a private, for-profit entity,the Secretary (in close consultation with State administering agencies) shall grant waivers from the requirement under subsection (a)(3) of this section that a PACE provider may not be a for-profit, private entity.
 
 #### (2) Similar terms and conditions
 
@@ -406,7 +410,7 @@ With respect to carrying out a PACE program under this section, the following re
 
 Nothing in this section or section 1396u–4 of this title shall be construed as preventing a PACE provider from entering into contracts with other governmental or nongovernmental payers for the care of PACE program eligible individuals who are not eligible for benefits under part A of this subchapter, or enrolled under part B of this subchapter, or eligible for medical assistance under subchapter XIX of this title.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1894, as added Pub. L. 105–33, title IV, §4801, Aug. 5, 1997, 111 Stat. 528.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1894, as added Pub. L. 105–33, title IV, §4801, Aug. 5, 1997, 111 Stat. 528; amended Pub. L. 106–554, §1(a)(6) \[title IX, §902(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–582.)
 
 #### References in Text
 
@@ -424,9 +428,25 @@ Section 9412(b) of the Omnibus Budget Reconciliation Act of 1986, referred to in
 
 For the effective date of this section, referred to in subsec. (a)(9)(B), see section 4803 of Pub. L. 105–33, set out below.
 
+#### Amendments
+
+2000—Subsec. (f)(2)(C). Pub. L. 106–554 added subpar. (C).
+
+#### Effective Date of 2000 Amendment
+
+Pub. L. 106–554, §1(a)(6) \[title IX, §902(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–583, provided that: “The amendments made by this section \[amending this section and section 1396u–4 of this title\] shall be effective as \[if\] included in the enactment of BBA \[Pub. L. 105–33\].”
+
+#### Flexibility in Exercising Waiver Authority
+
+Pub. L. 106–554, §1(a)(6) \[title IX, §903\], Dec. 21, 2000, 114 Stat. 2763, 2763A–583, provided that: “In applying sections 1894(f)(2)(B) and 1934(f)(2)(B) of the Social Security Act (42 U.S.C. 1395eee(f)(2)(B), 1396u–4(f)(2)(B)), the Secretary of Health and Human Services—
+
+&emsp;“(1) shall approve or deny a request for a modification or a waiver of provisions of the PACE protocol not later than 90 days after the date the Secretary receives the request; and
+
+&emsp;“(2) may exercise authority to modify or waive such provisions in a manner that responds promptly to the needs of PACE programs relating to areas of employment and the use of community-based primary care physicians.”
+
 #### Transition; Regulations
 
-Section 4803 of title IV of Pub. L. 105–33 provided that:
+Section 4803 of title IV of Pub. L. 105–33, as amended by Pub. L. 106–554, §1(a)(6) \[title IX, §901\], Dec. 21, 2000, 114 Stat. 2763, 2763A–582, provided that:
 
 “(a)
 
@@ -500,11 +520,11 @@ Delay in application to current waivers.—
 
 &emsp;&emsp;“(A)
 
-In general.—Subject to subparagraph (B), in the case of waivers granted with respect to a PACE program before the initial effective date of regulations described in subsection (a), the repeals made by paragraph (1) shall not apply until the end of a transition period (of up to 24 months) that begins on the initial effective date of such regulations, and that allows sufficient time for an orderly transition from demonstration project authority to general authority provided under the amendments made by this subtitle \[subtitle I (§§4801–4804) of title IV of Pub. L. 105–33, enacting this section and section 1396u–4 of this title and amending sections 1396b, 1396d, 1396r–5, and 1396v of this title\].
+In general.—Subject to subparagraph (B), in the case of waivers granted with respect to a PACE program before July 1, 2000, the repeals made by paragraph (1) shall not apply until the end of a transition period (of up to 36 months) that begins on the initial effective date of such regulations, and that allows sufficient time for an orderly transition from demonstration project authority to general authority provided under the amendments made by this subtitle \[subtitle I (§§4801–4804) of title IV of Pub. L. 105–33, enacting this section and section 1396u–4 of this title and amending sections 1396b, 1396d, 1396r–5, and 1396v of this title\].
 
 &emsp;&emsp;“(B)
 
-State option to seek extension of current period.—A State may elect to maintain the PACE programs which (as of the date of the enactment of this Act \[Aug. 5, 1997\]) were operating in the State under the authority described in paragraph (1) until a date (specified by the State) that is not later than 3 years after the initial effective date of regulations described in subsection (a). If a State makes such an election, the repeals made by paragraph (1) shall not apply to the programs until the date so specified, but only so long as such programs continue to operate under the same terms and conditions as apply to such programs as of the date of the enactment of this Act, and subparagraph (A) shall not apply to such programs.”
+State option to seek extension of current period.—A State may elect to maintain the PACE programs which (as of the date of the enactment of this Act \[Aug. 5, 1997\]) were operating in the State under the authority described in paragraph (1) until a date (specified by the State) that is not later than 4 years after the initial effective date of regulations described in subsection (a). If a State makes such an election, the repeals made by paragraph (1) shall not apply to the programs until the date so specified, but only so long as such programs continue to operate under the same terms and conditions as apply to such programs as of the date of the enactment of this Act, and subparagraph (A) shall not apply to such programs.”
 
 #### PACE Programs; Study and Reports
 
@@ -544,5 +564,5 @@ Treatment of private, for-profit providers.—The report shall include specific 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1395ss, 1396r–5, 1396u–4 of this title.
+This section is referred to in sections 1395cc–2, 1395ss, 1396r–5, 1396u–4 of this title.
 

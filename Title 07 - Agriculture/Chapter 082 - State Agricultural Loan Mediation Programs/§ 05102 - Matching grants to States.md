@@ -16,15 +16,43 @@ Within 60 days after the Secretary certifies the State as a qualifying State und
 
 #### (c) Use of grant
 
-Each State that receives an amount paid under subsection (a) of this section shall usethat amount only for the operation and administration of the mediation program of the State with respect to which the amount was paid.
+#### (1) In general
+
+&emsp;Each State that receives an amount paid under subsection (a) of this section shall use that amount only for the operation and administration of the mediation program of the State with respect to which the amount was paid.
+
+#### (2) Operation and administration expenses
+
+&emsp;For purposes of paragraph (1), operation and administration expenses for which a grant may be used include—
+
+&emsp;&emsp;(A) salaries;
+
+&emsp;&emsp;(B) reasonable fees and costs of mediators;
+
+&emsp;&emsp;(C) office rent and expenses, such as utilities and equipment rental;
+
+&emsp;&emsp;(D) office supplies;
+
+&emsp;&emsp;(E) administrative costs, such as workers’ compensation, liability insurance, the employer's share of Social Security, and necessary travel;
+
+&emsp;&emsp;(F) education and training;
+
+&emsp;&emsp;(G) security systems necessary to ensure the confidentiality of mediation sessions and records of mediation sessions;
+
+&emsp;&emsp;(H) costs associated with publicity and promotion of the mediation program;
+
+&emsp;&emsp;(I) preparation of the parties for mediation; and
+
+&emsp;&emsp;(J) financial advisory and counseling services for parties requesting mediation.
 
 #### (d) Penalty
 
 If the Secretary determines that a State has not complied with subsection (c) of this section, such State shall not be eligible for additional financial assistance under this chapter.
 
-(Pub. L. 100–233, title V, §502, Jan. 6, 1988, 101 Stat. 1663; Pub. L. 102–554, §22, Oct. 28, 1992, 106 Stat. 4161; Pub. L. 103–354, title II, §282(f)(1)(A), Oct. 13, 1994, 108 Stat. 3235.)
+(Pub. L. 100–233, title V, §502, Jan. 6, 1988, 101 Stat. 1663; Pub. L. 102–554, §22, Oct. 28, 1992, 106 Stat. 4161; Pub. L. 103–354, title II, §282(f)(1)(A), Oct. 13, 1994, 108 Stat. 3235; Pub. L. 106–472, title III, §306(b), Nov. 9, 2000, 114 Stat. 2072.)
 
 #### Amendments
+
+2000—Subsec. (c). Pub. L. 106–472 designated existing provisions as par. (1), inserted heading, and added par. (2).
 
 1994—Subsecs. (a), (b)(1), (c). Pub. L. 103–354 struck out “agricultural loan” before “mediation program”.
 

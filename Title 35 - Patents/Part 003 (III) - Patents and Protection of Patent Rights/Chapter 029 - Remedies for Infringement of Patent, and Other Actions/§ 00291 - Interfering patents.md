@@ -10,14 +10,6 @@ Based on Title 35, U.S.C., 1946 ed., §66 (R.S. 4918, amended Mar. 2, 1927, ch. 
 
 Language is changed.
 
-#### Cross References
-
-Appeals in interference cases, see section 141 of this title.
-
-Civil action in case of interference, see section 146 of this title.
-
-Proceedings in Patent and Trademark Office on interfering patents, see section 135 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 102 of this title.

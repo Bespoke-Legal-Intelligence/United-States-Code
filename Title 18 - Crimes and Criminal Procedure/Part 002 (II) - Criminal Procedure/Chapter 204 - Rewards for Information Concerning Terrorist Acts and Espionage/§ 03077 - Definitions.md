@@ -4,7 +4,7 @@ As used in this chapter, the term—
 
 &emsp;(1) “act of terrorism” means an activity that—
 
-&emsp;&emsp;(A) involves a violent act or an act dangerous to human life that is a violation of the criminal laws of the United States or of any State, or that would be a criminal violation if committed within the jurisdiction of the United States or of any State; and
+&emsp;&emsp;(A) involves a violent act or an act dangerous to human life that is a violation of the criminal laws of the United States or ofany State, or that would be a criminal violation if committed within the jurisdiction of the United States or of any State; and
 
 &emsp;&emsp;(B) appears to be intended—
 

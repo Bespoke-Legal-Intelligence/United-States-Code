@@ -106,7 +106,7 @@ A parent who wishes to borrow funds under this section shall be subject to verif
 
 #### Codification
 
-October 17, 1986, referred to in subsec. (e)(5), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 99–498 which enacted this section in the general revision of this part, to reflect the probable intent of Congress.
+October 17, 1986, referred to in subsec. (e)(5), was in the original “the date of enactment of this Act”, whichwas translated as meaning the date of enactment of Pub. L. 99–498 which enacted this section in the general revision of this part, to reflect the probable intent of Congress.
 
 #### Prior Provisions
 
@@ -172,11 +172,11 @@ Section 4109(c) of Pub. L. 103–66 provided that: “The amendments made by thi
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–325 effective July 23, 1992, except that changes made in subsec. (b), relating to annual and aggregate loan limits, are applicable with respect to loans for which first disbursement is made on or after July 1, 1993, changes made in subsec. (a) with respect to use of credit histories are applicable with respect to loans for which first disbursement is made on or after July 1, 1993, and subsec. (c), as added by Pub. L. 102–325, relating to disbursement of Federal PLUS Loans, is applicable with respect to loans for which first disbursement is made on or after Oct. 1, 1992, see section 432 of Pub. L. 102–325, set out as a note under section 1078 of this title.
+Amendment by Pub. L. 102–325 effective July 23, 1992, except that changes made in subsec. (b), relating to annual and aggregate loan limits, are applicable with respect to loans for which first disbursement is made on or after July 1, 1993, changes made in subsec. (a) withrespect to use of credit histories are applicable with respect to loans for which first disbursement is made on or after July 1, 1993, and subsec. (c), as added by Pub. L. 102–325, relating to disbursement of Federal PLUS Loans, is applicable with respect to loans for which first disbursement is made on or after Oct. 1, 1992, see section 432 of Pub. L. 102–325, set out as a note under section 1078 of this title.
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986,Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
 
 #### Amendment of Note or Other Written Evidence of Loan by Eligible Lender at Request of Borrower; Circumstances; Denial of Request
 

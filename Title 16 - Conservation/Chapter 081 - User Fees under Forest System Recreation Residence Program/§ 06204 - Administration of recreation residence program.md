@@ -1,0 +1,10 @@
+### §6204. Administration of recreation residence program
+
+The Secretary shall ensure, to the maximum extent practicable, that the basis and procedure for calculating cabin user fees results in a fee for an authorization that reflects, in accordance with this chapter—
+
+&emsp;(1) the market value of a lot; and
+
+&emsp;(2) regional and local economic influences.
+
+(Pub. L. 106–291, title VI, §605, Oct. 11, 2000, 114 Stat. 1015.)
+

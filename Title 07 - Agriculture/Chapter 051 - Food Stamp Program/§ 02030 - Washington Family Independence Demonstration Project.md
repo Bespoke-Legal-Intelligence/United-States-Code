@@ -12,7 +12,7 @@ In an application submitted under subsection (a) of this section, the State shal
 
 &emsp;(2) All of the following terms and conditions shall be in effect under the Project:
 
-&emsp;&emsp;(A)(i) Except as provided in clause (ii), individuals with respect to whom benefits may be paid under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\], and such other individuals as are included in the Project pursuant to chapter 434 of the 1987 Washington Laws, as enacted in May 1987,shall be eligible to participate in the Project in lieu of receiving benefits under the food stamp program and cash assistance under any other Federal program covered by the Project.
+&emsp;&emsp;(A)(i) Except as provided in clause (ii), individuals with respect to whom benefits may be paid under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\], and such other individuals as are included in the Project pursuant to chapter 434 of the 1987 Washington Laws, as enacted in May 1987, shall be eligible to participate in the Project in lieu of receiving benefits under the food stamp program and cash assistance under any other Federal program covered by the Project.
 
 &emsp;&emsp;(ii) Individuals who receive only child care or medical benefits under the Project shall not be eligible to receive food assistance under the Project. Such individuals may receive coupons under the food stamp program if eligible.
 
@@ -64,7 +64,7 @@ In an application submitted under subsection (a) of this section, the State shal
 
 &emsp;&emsp;(B) the portion of the administrative costs for which the State would have received reimbursement under—
 
-&emsp;&emsp;&emsp;(i) subsections (a) and (g) of section 2025 of this title (without regard to the firstproviso to such subsection (g)) if the individuals who participated in the Project had participated instead in the food stamp program; and
+&emsp;&emsp;&emsp;(i) subsections (a) and (g) of section 2025 of this title (without regard to the first proviso to such subsection (g)) if the individuals who participated in the Project had participated instead in the food stamp program; and
 
 &emsp;&emsp;&emsp;(ii) section 2025(h) of this title if the individuals who participated in the Project had participated in an employment and training program under section 2015(d)(4) of this title;
 
@@ -142,7 +142,7 @@ With funds appropriated under section 2027(a)(1) of this title, the Secretary sh
 
 #### References in Text
 
-Paragraph (19) of section 2020(e) of this title, referred to in subsec. (b)(2)(G)(i), was redesignated paragraph\(18) of section 2020(e) of this title by Pub. L. 104–193, title VIII, §835(1)(D)(i), Aug. 22, 1996, 110 Stat. 2330.
+Paragraph (19) of section 2020(e) of this title, referred to in subsec. (b)(2)(G)(i), was redesignated paragraph (18) of section 2020(e) of this title by Pub. L. 104–193, title VIII, §835(1)(D)(i), Aug. 22, 1996, 110 Stat. 2330.
 
 The Social Security Act, referred to in subsec. (b)(2)(A)(i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Social Security Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 

@@ -19,7 +19,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1028, 1029, 3076, 4042 of this title; title 8 section 1324c.
+This chapter is referred to in sections 1028, 1029, 1594, 3076, 4042 of this title; title 8 section 1324c.
 
 
 ---

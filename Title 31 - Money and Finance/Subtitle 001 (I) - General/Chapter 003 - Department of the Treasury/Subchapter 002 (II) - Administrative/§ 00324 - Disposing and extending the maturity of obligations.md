@@ -10,7 +10,7 @@
 
 &emsp;(2) make arrangements to extend the maturity of those obligations.
 
-(b) The Secretary may dispose or extend the maturity of obligations under subsection (a) of this section in the way, in amounts, at prices\(for cash, obligations, property, or a combination of cash, obligations, or property), and on conditions the Secretary considers advisable and in the public interest.
+(b) The Secretary may dispose or extend the maturity of obligations under subsection (a) ofthis section in the way, in amounts, at prices (for cash, obligations, property, or a combination of cash, obligations, or property), and on conditions the Secretary considers advisable and in the public interest.
 
 (c) The authority under this section is in addition to authority under another law.
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment and Contents.—The Secretary of Transportation shall establish as soon as practicable and maintain a National Driver Register to assist chief driver licensing officials of participating States in exchanging information about the motor vehicle driving records of individuals. The Register shall contain an index of the information reported to the Secretary under section 30304 of this title. The Register shall enable the Secretary (electronically or, until all States can participate electronically, by United States mail)—
+Establishment and Contents.—The Secretary of Transportation shall establish as soon as practicable and maintain a National Driver Register to assist chief driver licensing officials of participating States in exchanging information about the motor vehicle driving records of individuals. The Register shall contain an index of the information reported to the Secretaryunder section 30304 of this title. The Register shall enable the Secretary (electronically or, until all States can participate electronically, by United States mail)—
 
 &emsp;(1) to receive information submitted under section 30304 of this title by the chief driver licensing official of a State of record;
 
@@ -94,7 +94,7 @@ Act of July 14, 1960, referred to in subsec. (c)(1), (2)(A), is set out below.
 
 #### Register of Revocations of Motor Vehicle Operator's Licenses
 
-Pub. L. 86–660, July 14, 1960, 74 Stat. 526, as amended by Pub. L. 87–359, Oct. 4, 1961, 75 Stat. 779; Pub. L. 89–563, title IV, §401, Sept. 9, 1966, 80 Stat. 730, provided: “That the Secretary of Commerce shall establish and maintain a register identifying each individual reported to him by a State, or political subdivision thereof, as an individual with respect to whom such State or political subdivision has denied, terminated, or temporarily withdrawn (except a withdrawal for less than sixmonths based on a series of nonmoving violations) an individual's license or privilege to operate a motor vehicle.
+Pub. L. 86–660, July 14, 1960, 74 Stat. 526, as amended by Pub. L. 87–359, Oct. 4, 1961, 75 Stat. 779; Pub. L. 89–563, title IV, §401, Sept. 9, 1966, 80 Stat. 730, provided:“That the Secretary of Commerce shall establish and maintain a register identifying each individual reported to him by a State, or political subdivision thereof, as an individual with respect to whom such State or political subdivision has denied, terminated, or temporarily withdrawn (except a withdrawal for less than six months based on a series of nonmoving violations) an individual's license or privilege to operate a motor vehicle.
 
 “
 

@@ -26,7 +26,7 @@
 
 &emsp;&emsp;&emsp;(i) programs providing independent living services and independent living centers; and
 
-&emsp;&emsp;&emsp;(ii) the vocational rehabilitation program established under subchapter I ofthis chapter, and other programs providing services for individuals with disabilities.
+&emsp;&emsp;&emsp;(ii) the vocational rehabilitation program established under subchapter I of this chapter, and other programs providing services for individuals with disabilities.
 
 #### (4) Date of submission
 

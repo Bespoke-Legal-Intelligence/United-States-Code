@@ -100,7 +100,7 @@ The Secretary shall consult with an informal working group representative of eli
 
 (3) The Secretary shall pay not more than $50,000 under this section to any participating neighborhood development organization during a single program year, except that, if appropriations for this section exceed $3,000,000, the Secretary may pay not more than $75,000 to any participating neighborhood development organization.
 
-(4) For purposes of paragraph (2), the Secretary shall, for each participating organization, determine an appropriate ratio by which monetary contributions made to participating neighborhood development organizations will bematched by Federal funds. The highest such ratios shall be established for neighborhoods having the smallest number of households or the greatest degree of economic distress.
+(4) For purposes of paragraph (2), the Secretary shall, for each participating organization, determine an appropriate ratio by which monetary contributions made to participating neighborhood development organizations will be matched by Federal funds. The highest such ratios shall be established for neighborhoods having the smallest number of households or the greatest degree of economic distress.
 
 (5) The Secretary shall insure that—
 

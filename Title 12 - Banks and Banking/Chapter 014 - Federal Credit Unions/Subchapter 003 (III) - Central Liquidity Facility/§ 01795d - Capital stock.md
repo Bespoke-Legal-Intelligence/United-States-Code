@@ -2,7 +2,7 @@
 
 #### (a) Opening of books; minimum subscription
 
-As soon as practicable, the Board shall open books for subscriptions to the capital stock of the Facility. The minimum subscription shall be $50.
+As soon as practicable, the Board shall open books for subscriptions to the capital stock ofthe Facility. The minimum subscription shall be $50.
 
 #### (b) Requirements
 

@@ -12,7 +12,7 @@
 
 (b) The Chief of Staff, while so serving, has the grade of general without vacating his permanent grade.
 
-(c) Except as otherwise prescribed by law and subject to section 3013(f) of this title, the Chief of Staff performs his duties under the authority, direction, and control of the Secretary of theArmy and is directly responsible to the Secretary.
+(c) Except as otherwise prescribed by law and subject to section 3013(f) of this title, the Chief of Staff performs his duties under the authority, direction, and control of the Secretary of the Army and is directly responsible to the Secretary.
 
 (d) Subject to the authority, direction, and control of the Secretary of the Army, the Chief of Staff shall—
 
@@ -157,20 +157,4 @@ Section 532(c) of Pub. L. 99–433, as amended by Pub. L. 100–26, §11(b), Apr
 “(3) A waiver under paragraph (2) may not be made in the case of any officer more than four years after the date of the enactment of this Act \[Oct. 1, 1986\].
 
 “(4) A waiver under this subsection may be made only on a case-by-case basis.”
-
-#### Cross References
-
-Armed Forces Policy Council, member of, see section 171 of this title.
-
-Army National Guard division in Federal service, detail as chief and assistant chief of staff, see section 12502 of this title.
-
-Army Staff as including Chief of Staff, see section 3031 of this title.
-
-Higher retired grade for service in special positions, see section 3962 of this title.
-
-Personal money allowance, see section 414 of Title 37, Pay and Allowances of the Uniformed Services.
-
-President's appointing power, see Const. Art. II, §2, cl. 2.
-
-Rank, see section 743 of this title.
 

@@ -24,9 +24,7 @@
 | (a) | Federal action. |
 | (b) | State and local action. |
 | (c) | Effect on liability law. |
-| [4407\.](%C2%A7%2004407%20-%20Reports.md) | Reports. |
-| (a) | Secretary's report. |
-| (b) | FTC report. |
+| [4407\.](%C2%A7%2004407%20-%20Omitted.md) | Omitted. |
 | [4408\.](%C2%A7%2004408%20-%20Definitions.md) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -42,5 +40,5 @@
 - [&sect; 04404 - Enforcement, regulations, and construction](%C2%A7%2004404%20-%20Enforcement%2C%20regulations%2C%20and%20construction.md)
 - [&sect; 04405 - Injunctions](%C2%A7%2004405%20-%20Injunctions.md)
 - [&sect; 04406 - Preemption](%C2%A7%2004406%20-%20Preemption.md)
-- [&sect; 04407 - Reports](%C2%A7%2004407%20-%20Reports.md)
+- [&sect; 04407 - Omitted](%C2%A7%2004407%20-%20Omitted.md)
 - [&sect; 04408 - Definitions](%C2%A7%2004408%20-%20Definitions.md)

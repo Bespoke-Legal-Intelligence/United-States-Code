@@ -50,7 +50,3 @@ June 3, 1916, ch. 134, §47d (47 words after 1st semicolon, and 72 words before 
 
 The word “supplies” is substituted for the words “such arms, ammunition, accoutrements, equipments, tentage, field equipage”, since, under the definition of the word “supplies”, in section 101(26) of this title, those words are covered by the word “supplies”. The words “belonging to the United States”, “and imparting military instruction and training thereat”, “during the period of their attendance”, “theoretical and practical instruction”, “persons attending the camps authorized by this section”, and “as he may deem” are omitted as surplusage. The word “detail” is substituted for the word “employ”. The word “members” is substituted for the words “officers, warrant officers, and enlisted men”.
 
-#### Cross References
-
-General military law provisions respecting uniform, see section 771 et seq. of this title.
-

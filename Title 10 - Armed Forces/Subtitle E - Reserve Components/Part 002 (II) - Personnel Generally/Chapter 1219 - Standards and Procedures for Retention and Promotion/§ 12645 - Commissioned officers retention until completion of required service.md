@@ -54,7 +54,7 @@ Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer P
 
 #### Effective Date of 1994 Amendment
 
-Amendment by sections 1627 and 1675(d)(2) of Pub. L. 103–337 effective Oct. 1, 1996, see section 1691(b)(1) ofPub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
+Amendment by sections 1627 and 1675(d)(2) of Pub. L. 103–337 effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -38,7 +38,7 @@
 
 1989—Pub. L. 101–194, title I, §101(b), title IV, §407(b), Nov. 30, 1989, 103 Stat. 1724, 1753, substituted “Restrictions on former officers, employees, and elected officials of the executive and legislative branches” for “Disqualification of former officers and employees; disqualification of partners of current officers and employees” in item 207 and added item 216.
 
-1984—Pub. L. 98–473, title II, §1107(b), Oct. 12, 1984, 98 Stat. 2146, substituted “Repealed” for “Receipt or charge of commissions or gifts for farm loan, land bank, or small business transactions” in item 216.
+1984—Pub. L. 98–473, title II, §1107(b), Oct. 12, 1984, 98 Stat. 2146, substituted “Repealed” for “Receipt orcharge of commissions or gifts for farm loan, land bank, or small business transactions” in item 216.
 
 1978—Pub. L. 95–521, title V, §501(b), Oct. 26, 1978, 92 Stat. 1867, struck out “in matters connected with former duties or official responsibilities” after “officers and employees” and inserted “of current officers and employees” after “partners of” in item 207.
 
@@ -52,7 +52,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in title 10 section 1588; title 15 section 2625; title 16 section 450ss–3; title 22 section 3622; title 26 section 7802; title 42 sections 280d–11, 9843a, 12651b, 12651g; title 48 section 1907; title 49 section 32306.
+This chapter is referred to in title 5 section 3161; title 10 section 1588; title 15 section 2625; title 16 sections 450ss–3, 698v–5; title 22 section 3622; title 26 section 7802; title 36 section 2113; title 42 sections 280d–11, 9843a, 12651b, 12651g; title 48 section 1907; title 49 section 32306.
 
 
 ---

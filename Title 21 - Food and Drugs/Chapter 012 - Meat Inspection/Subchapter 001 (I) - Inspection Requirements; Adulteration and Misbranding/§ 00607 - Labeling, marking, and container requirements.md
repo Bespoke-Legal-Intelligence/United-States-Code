@@ -10,7 +10,7 @@ All carcasses, parts of carcasses, meat and meat food products inspected at any 
 
 #### (c) Labeling: type styles and sizes; definitions and standards of identity or composition; standards of fill of container; consistency of Federal and Federal-State standards
 
-The Secretary, whenever he determines such action is necessary for the protection of the public, may prescribe: (1) the styles and sizes of type to be used with respect to material required to be incorporated in labeling to avoid false or misleading labeling in marketing andlabeling any articles or animals subject to this subchapter or subchapter II of this chapter; (2) definitions and standards of identity or composition for articles subject to this subchapter and standards of fill of container for such articles not inconsistent with any such standards established under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], and there shall be consultation between the Secretary and the Secretary of Health and Human Services prior to the issuance of such standards under either Act relating to articles subject to this chapter to avoid inconsistency in such standards and possible impairment of the coordinated effective administration of these Acts. There shall also be consultation between the Secretary and an appropriate advisory committee provided for in section 661 of this title, prior to the issuance of such standards under this chapter, to avoid, insofar as feasible, inconsistency between Federal and State standards.
+The Secretary, whenever he determines such action is necessary for the protection of the public, may prescribe: (1) the styles and sizes of type to be used with respect to material required to be incorporated in labeling to avoid false or misleading labeling in marketing and labeling any articles or animals subject to this subchapter or subchapter II of this chapter; (2) definitions and standards of identity or composition for articles subject to this subchapter and standards of fill of container for such articles not inconsistent with any such standards established under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], and there shall be consultation between the Secretary and the Secretary of Health and Human Services prior to the issuance of such standards under either Act relating to articles subject to this chapter to avoid inconsistency in such standards and possible impairment of the coordinated effective administration of these Acts. There shall also be consultation between the Secretary and an appropriate advisory committee provided for in section 661 of this title, prior to the issuance of such standards under this chapter, to avoid, insofar as feasible, inconsistency between Federal and State standards.
 
 #### (d) Sales under false or misleading name, other marking or labeling or in containers of misleading form or size; trade names, and other marking, labeling, and containers approved by Secretary
 
@@ -51,10 +51,6 @@ Subsecs. (b) to (e). Pub. L. 90–201, §6(c), added subsecs. (b) to (e).
 #### Effective Date of 1967 Amendment
 
 Amendment by Pub. L. 90–201 effective Dec. 15, 1967, except that with respect to equines (other than horses) and their carcasses and parts thereof, meat, and meat food products thereof, amendment effective upon expiration of sixty days after Dec. 15, 1967, see section 20(b) of Pub. L. 90–201, set out as an Effective Date note under section 601 of this title.
-
-#### Cross References
-
-Federal Food, Drug, and Cosmetic Act defined, see section 601 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -4,7 +4,3 @@ The salaries of the members on the part of the United States, of the Internation
 
 (Mar. 4, 1911, ch. 285, 36 Stat. 1364.)
 
-#### Federal Rules of Civil Procedure
-
-Subpoena, see rule 45, Title 28, Appendix, Judiciary and Judicial Procedure.
-

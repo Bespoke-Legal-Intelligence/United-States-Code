@@ -2,7 +2,7 @@
 
 #### (a) Permanent copy of statement; inspection; withdrawal
 
-The Attorney General shall retain in permanent form one copy of all registration statements furnished under this subchapter, and the same shall be public records and open to public examination and inspection at such reasonable hours, under such regulations, as the Attorney General may prescribe, and copies of the same shall be furnished to every applicant at such reasonable fee as the Attorney General may prescribe. The Attorney General may withdraw from public examination the registration statement and other statements of any agent of a foreign principal whose activities have ceased to be of a character which requires registration under the provisions of this subchapter.
+The Attorney General shall retain in permanent form one copy of all registration statements furnished under this subchapter, and the same shall be public records and open to public examination and inspection at such reasonablehours, under such regulations, as the Attorney General may prescribe, and copies of the same shall be furnished to every applicant at such reasonable fee as the Attorney General may prescribe. The Attorney General may withdraw from public examination the registration statement and other statements of any agent of a foreign principal whose activities have ceased to be of a character which requires registration under the provisions of this subchapter.
 
 #### (b) Secretary of State
 
@@ -40,9 +40,9 @@ Amendment by Pub. L. 104–65 effective Jan. 1, 1996, except as otherwise provid
 
 Amendment by Pub. L. 89–486 effective ninety days after July 4, 1966, see section 9 of Pub. L. 89–486, set out as a note under section 611 of this title.
 
-#### Cross References
+#### Effective Date of 1942 Amendment
 
-Registration functions of the Secretary of State transferred to the Attorney General, see Ex. Ord. No. 9176, set out preceding section 611 of this title.
+Amendment by act Apr. 29, 1942, effective on the sixtieth day after Apr. 29, 1942, except that prior to such sixtieth day the Attorney General may make, prescribe, amend, and rescind such rules, regulations, and forms as may be necessary to carry out act Apr. 29, 1942, see section 3 of act Apr. 29, 1942, set out as a note under section 611 of this title.
 
 #### Section Referred to in Other Sections
 

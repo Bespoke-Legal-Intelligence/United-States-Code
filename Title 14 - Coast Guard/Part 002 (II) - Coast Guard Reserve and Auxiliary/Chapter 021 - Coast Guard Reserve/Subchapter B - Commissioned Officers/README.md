@@ -18,7 +18,7 @@ commissioned officers
 - [&sect; 00728 - Promotion of Reserve officers on active duty](%C2%A7%2000728%20-%20Promotion%20of%20Reserve%20officers%20on%20active%20duty.md)
 - [&sect; 00729 - Promotion; recommendations of selection boards](%C2%A7%2000729%20-%20Promotion%3B%20recommendations%20of%20selection%20boards.md)
 - [&sect; 00730 - Selection boards; appointment](%C2%A7%2000730%20-%20Selection%20boards%3B%20appointment.md)
-- [&sect; 00731 - Placement in promotion zone; consideration for promotion](%C2%A7%2000731%20-%20Placement%20in%20promotion%20zone%3B%20consideration%20for%20promotion.md)
+- [&sect; 00731 - Establishment of promotion zones under running mate system](%C2%A7%2000731%20-%20Establishment%20of%20promotion%20zones%20under%20running%20mate%20system.md)
 - [&sect; 00732 - Eligibility for promotion](%C2%A7%2000732%20-%20Eligibility%20for%20promotion.md)
 - [&sect; 00733 - Recommendation for promotion of an officer previously removed from an active status](%C2%A7%2000733%20-%20Recommendation%20for%20promotion%20of%20an%20officer%20previously%20removed%20from%20an%20active%20status.md)
 - [&sect; 00734 - Qualifications for promotion](%C2%A7%2000734%20-%20Qualifications%20for%20promotion.md)

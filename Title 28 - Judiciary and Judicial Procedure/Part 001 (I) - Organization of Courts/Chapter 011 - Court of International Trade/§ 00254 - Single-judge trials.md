@@ -20,7 +20,7 @@ The phrase “petitions for remission of additional duties” was added to the f
 
 Reappraisement appeals are heard by a single judge and reviewed by a division. (See sections 2631 and 2636 of this title.)
 
-The provision of section 296 of title 28, U.S.C., 1940 ed., that the presiding judge shall designate one of the three judges of a division to preside over such division was omitted as in conflict with section 253 of this title (also taken from section 296 of title 28 U.S.C., 1940 ed.), which provides that judges shall preside according to the seniority of their commissions. The latter provision is in accord with present practice.
+The provision of section 296 of title 28, U.S.C., 1940 ed., that the presiding judge shall designate one of the three judges of a division to preside over such division was omitted as in conflict with section 253 of this title (also taken from section 296 of title 28 U.S.C., 1940 ed.),which provides that judges shall preside according to the seniority of their commissions. The latter provision is in accord with present practice.
 
 Changes were made in arrangement and phraseology.
 
@@ -34,11 +34,11 @@ Provisions similar to those relating to the assignment of judges to hear and det
 
 #### Amendments
 
-1980—Pub. L. 96–417 redesignated the Customs Court as the Court of International Trade.
+<b>1980</b>—Pub. L. 96–417 redesignated the Customs Court as the Court of International Trade.
 
-1970—Pub. L. 91–271 substituted in section catchline “Single-judge trials” for “Divisions; powers and assignments” and substituted provisions in text requiring the judicial power of the Customs Court with respect to any action, suit, or proceeding to be exercised by a single judge, for provisions setting forth the powers of the chief judge of the Customs Court with respect to the organization of such Court into divisions, and the assignment of judges to hear and determine pending cases.
+<b>1970</b>—Pub. L. 91–271 substituted in section catchline “Single-judge trials” for “Divisions; powers and assignments” and substituted provisions in text requiring the judicial power of the Customs Court with respect to any action, suit, or proceeding to be exercised by a single judge, for provisions setting forth the powers of the chief judge of the Customs Court with respect to the organization of such Court into divisions, and the assignment of judges to hear and determine pending cases.
 
-1949—Act May 24, 1949, inserted “to hear or” before “to hear and determine” in third par.
+<b>1949</b>—Act May 24, 1949, inserted “to hear or” before “to hear and determine” in third par.
 
 #### Effective Date of 1980 Amendment
 

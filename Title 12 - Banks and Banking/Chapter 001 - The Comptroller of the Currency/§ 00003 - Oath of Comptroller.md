@@ -14,7 +14,3 @@ R.S. §326 derived from act June 3, 1864, ch. 106, §1, 13 Stat. 99, which was t
 
 1959—Pub. L. 86–251 increased the surety bond requirement from $100,000 to $250,000.
 
-#### Cross References
-
-Oath of office, see Const. Art. VI, cl. 3; section 3331 of Title 5, Government Organization and Employees.
-

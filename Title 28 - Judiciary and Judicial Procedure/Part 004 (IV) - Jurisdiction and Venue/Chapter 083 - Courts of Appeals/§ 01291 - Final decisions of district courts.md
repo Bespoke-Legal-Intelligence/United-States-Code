@@ -64,11 +64,11 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1982—Pub. L. 97–164, §124, inserted “(other than the United States Court of Appeals for the Federal Circuit)” after “The court of appeals” and inserted provision that the jurisdiction of the United States Court of Appeals for the Federal Circuit shall be limited to the jurisdiction described in sections 1292(c) and (d) and 1295 of this title.
+<b>1982</b>—Pub. L. 97–164, §124, inserted “(other than the United States Court of Appeals for the Federal Circuit)” after “The court of appeals” and inserted provision that the jurisdiction of the United States Court of Appeals for the Federal Circuit shall be limited to the jurisdiction described in sections 1292(c) and (d) and 1295 of this title.
 
-1958—Pub. L. 85–508 struck out provisions which gave courts of appeals jurisdiction of appeals from District Court for Territory of Alaska. See section 81A of this title which establishes a United States District Court for the State of Alaska.
+<b>1958</b>—Pub. L. 85–508 struck out provisions which gave courts of appeals jurisdiction of appeals from District Court for Territory of Alaska. See section 81A of this title which establishes a United States District Court for the State of Alaska.
 
-1951—Act Oct. 31, 1951, inserted reference to District Court of Guam.
+<b>1951</b>—Act Oct. 31, 1951, inserted reference to District Court of Guam.
 
 #### Effective Date of 1982 Amendment
 
@@ -82,29 +82,7 @@ Amendment by Pub. L. 85–508 effective Jan. 3, 1959, on admission of Alaska int
 
 For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of Pub. L. 96–70, title II, Sept. 27, 1979, 93 Stat. 493, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
 
-#### Federal Rules of Appellate Procedure
-
-Procedure on appeal, see rule 1 et seq., Appendix to this title.
-
-#### Federal Rules of Criminal Procedure
-
-Procedure on appeal, see rules 38 and 46(a)(2), Title 18, Appendix, Crimes and Criminal Procedure.
-
-#### Cross References
-
-Antitrust Civil Process Act judicial proceedings subject to appeal pursuant to this section, see section 1314 of Title 15, Commerce and Trade.
-
-Criminal cases, direct appeals to Supreme Court, and appeals to courts of appeals, see section 3731 of Title 18, Crimes and Criminal Procedure.
-
-Direct appeals to Supreme Court, see section 1253 of this title.
-
-Prize cases, allowance of appeal, see section 7680 of Title 10, Armed Forces.
-
-Time for appeal, see section 2107 of this title.
-
-Trademark actions, appellate jurisdiction, see section 1121 of Title 15, Commerce and Trade.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1295, 1334, 1452, 2072 of this title; title 11 section 305; title 15 sections 29, 57b–1, 78aa, 79y, 80a–43, 80b–14, 1314, 1719; title 16 sections 825p, 1456; title 18 section 3145; title 31 section 3733; title 42 sections 2000e–5, 3414; title 45 sections 153, 719, 743, 1105; title 50 App. section 17.
+This section is referred to in sections 1295, 1334, 1452, 2072 of this title; title 11 section 305; title 15 sections 29, 57b–1, 78aa, 79y, 80a–43, 80b–14, 1314, 1719; title 16 sections 825p, 1456; title 18 section 3145; title 31 section 3733; title 39 section 3016; title 42 sections 2000e–5, 3414; title 45 sections 153, 719, 743, 1105; title 50 App. section 17.
 

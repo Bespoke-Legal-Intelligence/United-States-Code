@@ -2,7 +2,7 @@
 
 (a)
 
-Limitations.—When air transportation is provided between the United States and a foreign country both by aircraft owned or operated by an air carrier holding a certificate under chapter 411 of this title and by aircraft owned or operated by a foreign air carrier, the United States Postal Service may not pay to or for the account of the foreign air carrier a price for transporting mail by aircraft between the United States and the foreign country that the Postal Service believes will result (over a reasonable period determined by the Postal Service considering exchange fluctuations and other factors) in the foreign air carrier receiving a price for transporting the mail that is higher than the price—
+Limitations.—When air transportation is provided between the United States and a foreign country both by aircraft owned or operatedby an air carrier holding a certificate under chapter 411 of this title and by aircraft owned or operated by a foreign air carrier, the United States Postal Service may not pay to or for the account of the foreign air carrier a price for transporting mail by aircraft between the United States and the foreign country that the Postal Service believes will result (over a reasonable period determined by the Postal Service considering exchange fluctuations and other factors) in the foreign air carrier receiving a price for transporting the mail that is higher than the price—
 
 &emsp;(1) the government of a foreign country or foreign postal administration pays to air carriers for transporting mail of the foreign country by aircraft between the foreign country and the United States; or
 

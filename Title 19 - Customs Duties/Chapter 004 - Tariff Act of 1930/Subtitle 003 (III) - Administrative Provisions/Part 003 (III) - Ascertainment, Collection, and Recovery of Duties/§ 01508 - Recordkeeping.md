@@ -8,7 +8,7 @@ Any—
 
 &emsp;&emsp;(A) imports merchandise into the customs territory of the United States, files a drawback claim, or transports or stores merchandise carried or held under bond, or
 
-&emsp;&emsp;(B) knowingly causes the importation or transportation or storage of merchandise carried or held under bond into or from the customs territory of the United States;
+&emsp;&emsp;(B) knowingly causes the importation or transportation or storage of merchandisecarried or held under bond into or from the customs territory of the United States;
 
 &emsp;(2) agent of any party described in paragraph (1); or
 
@@ -78,7 +78,7 @@ Any—
 
 #### (c) Period of time
 
-The records required by subsections (a) and (b) of this section shall be kept for such periods oftime as the Secretary shall prescribe; except that—
+The records required by subsections (a) and (b) of this section shall be kept for such periods of time as the Secretary shall prescribe; except that—
 
 &emsp;(1) no period of time for the retention of the records required under subsection (a) or (b)(3) of this section may exceed 5 years from the date of entry, filing of a reconciliation, or exportation, as appropriate;
 

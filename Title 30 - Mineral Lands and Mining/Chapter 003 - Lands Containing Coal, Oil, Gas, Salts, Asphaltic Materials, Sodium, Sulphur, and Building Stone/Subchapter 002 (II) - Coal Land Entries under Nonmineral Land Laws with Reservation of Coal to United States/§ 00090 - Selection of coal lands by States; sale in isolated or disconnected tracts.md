@@ -8,9 +8,3 @@ Unreserved public lands of the United States, exclusive of Alaska, which have be
 
 Act Apr. 30, 1912, is supplemental to sections 83 to 85 of this title.
 
-#### Cross References
-
-Leasing and prospecting permits for coal deposits reserved in United States, see section 182 of this title.
-
-New or supplemental patents in case of lands subsequently classified as noncoal, see section 82 of this title.
-

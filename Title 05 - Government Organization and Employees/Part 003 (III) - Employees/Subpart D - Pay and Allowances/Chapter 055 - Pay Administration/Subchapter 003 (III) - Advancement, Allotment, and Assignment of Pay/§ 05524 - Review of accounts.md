@@ -6,7 +6,7 @@ The head of each agency shall provide for—
 
 &emsp;(2) the adjustment of the amounts of the payments on the basis of—
 
-&emsp;&emsp;(A) the rates of pay, allowances, and differentials to which the employee would have been entitled under applicable statute other than this subchapter for the respective periods covered by the payments, if he had performed active service under the terms of his appointment during each period in the position he held immediately before the issuance of the applicable evacuation order; and
+&emsp;&emsp;(A) the rates of pay, allowances, and differentials to which the employee would have been entitled under applicable statute other than this subchapter for the respective periods covered by the payments, if he had performed active service under the terms of hisappointment during each period in the position he held immediately before the issuance of the applicable evacuation order; and
 
 &emsp;&emsp;(B) such additional amounts as the employee is authorized to receive in accordance with a determination of the President under section 5523(b) of this title.
 

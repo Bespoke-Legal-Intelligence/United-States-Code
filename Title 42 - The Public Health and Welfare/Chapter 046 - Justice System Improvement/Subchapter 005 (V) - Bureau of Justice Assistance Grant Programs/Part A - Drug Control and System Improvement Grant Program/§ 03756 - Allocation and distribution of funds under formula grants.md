@@ -38,7 +38,7 @@ Any funds allocated under subsection (a) or (f) of this section that are not dis
 
 &emsp;(B) 10 percent of such funds shall be allocated equally among States that are not affected by the operation of subparagraph (A).
 
-(2) Paragraph (1)(A) refers to a State that does not have in effect, and does not enforce, in such fiscal year, a law that requires the State at the request of the victim of a sexual act—
+(2) Paragraph (1)(A) refers to a State that does not have in effect, and does not enforce, in suchfiscal year, a law that requires the State at the request of the victim of a sexual act—
 
 &emsp;(A) to administer, to the defendant convicted under State law of such sexual act, a test to detect in such defendant the presence of the etiologic agent for acquired immune deficiency syndrome;
 

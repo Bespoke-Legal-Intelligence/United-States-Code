@@ -6,7 +6,7 @@ Each fair operator designated by the Secretary of Commerce pursuant to section 1
 
 #### (b) Reimbursement of customs charges and expenses
 
-The actual and necessary customs charges for labor, services, and other expenses in connection with the entry, examination, appraisement, custody, abandonment, destruction, or release of articles entered under section 1752 of this title, together with the necessary charges for salaries of customs officers and employees in connection with the accounting for, custody of, and supervision over, such articles, shall be reimbursed to the United States by the operator of the fair for which they are entered. Receipts from such reimbursements shall be deposited as refunds to the appropriation from which paid, in the manner provided for in section 1524 of this title.
+The actual and necessary customs charges for labor, services, and other expenses in connection with the entry, examination, appraisement, custody, abandonment, destruction, or release of articles entered under section 1752 of this title, together with the necessary charges for salaries of customs officers and employees in connection with the accounting for, custody of, and supervision over, such articles, shall be reimbursed tothe United States by the operator of the fair for which they are entered. Receipts from such reimbursements shall be deposited as refunds to the appropriation from which paid, in the manner provided for in section 1524 of this title.
 
 (Pub. L. 86–14, §6, Apr. 22, 1959, 73 Stat. 19.)
 

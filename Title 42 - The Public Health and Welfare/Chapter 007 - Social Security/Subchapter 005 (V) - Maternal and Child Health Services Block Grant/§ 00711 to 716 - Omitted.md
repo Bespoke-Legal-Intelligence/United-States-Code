@@ -36,5 +36,5 @@ Another prior section 716, act Aug. 14, 1935, ch. 531, title V, §516, as added 
 
 #### Supplemental Allotments for Fiscal Year Ending June 30, 1974
 
-Section 4(c) of Pub. L. 93–53 authorized a State, for fiscal year ending June 30, 1974, to receive an additional supplemental allotment to match excess of amount of allotments which such State would have received under sections 703 and 704 of this title for such year if section 4(a) of Pub. L. 93–53 had not been enacted over aggregate of allotments which such State actually received under such sections plus aggregate of grants received under sections 708, 709, and 710 of this title for fiscal year ending June 30, 1973, and authorized appropriations necessary for supplemental allotments.
+Section 4(c) of Pub. L. 93–53 authorized a State, for fiscal year ending June 30, 1974, to receive an additional supplemental allotment to match excess of amount of allotments which such State would have received undersections 703 and 704 of this title for such year if section 4(a) of Pub. L. 93–53 had not been enacted over aggregate of allotments which such State actually received under such sections plus aggregate of grants received under sections 708, 709, and 710 of this title for fiscal year ending June 30, 1973, and authorized appropriations necessary for supplemental allotments.
 

@@ -22,7 +22,7 @@ Investment-grade rating.—The term “investment-grade rating” means a rating
 
 &emsp;(4)
 
-Lender.—The term “lender” means any non-Federal qualified institutional buyer (as defined in section 230.144A(a) of title 17, Code of Federal Regulations (or any successor regulation), known as Rule 144A(a) of the Securities and Exchange Commission and issued under the Securities Act of 1933 (15 U.S.C. 77a et seq.)), including—
+Lender.—The term “lender” means any non-Federal qualified institutional buyer (asdefined in section 230.144A(a) of title 17, Code of Federal Regulations (or any successor regulation), known as Rule 144A(a) of the Securities and Exchange Commission and issued under the Securities Act of 1933 (15 U.S.C. 77a et seq.)), including—
 
 &emsp;&emsp;(A) a qualified retirement plan (as defined in section 4974(c) of the Internal Revenue Code of 1986) that is a qualified institutional buyer; and
 
@@ -204,7 +204,7 @@ Qualifying Projects.—
 
 &emsp;“(1)
 
-In general.—Subject to paragraph (2), funds in an infrastructure bank established under this section may be used only to provide assistance with respect to projects eligible for assistance under title 23, United States Code, for capital projects (as defined insection 5302 of title 49, United States Code), or for any other project related to surface transportation that the Secretary determines to be appropriate.
+In general.—Subject to paragraph (2), funds in an infrastructure bank established under this section may be used only to provide assistance with respect to projects eligible for assistance under title 23, United States Code, for capital projects (as defined in section 5302 of title 49, United States Code), or for any other project related to surface transportation that the Secretary determines to be appropriate.
 
 &emsp;“(2)
 
@@ -356,7 +356,7 @@ Forms of Assistance From Infrastructure Banks.—An infrastructure bank establis
 
 “(d)
 
-Qualifying Projects.—Federal funds in the highway account of an infrastructure bank established under this section may be used only to provide assistance with respect to construction of Federal-aid highways. Federal funds in the transit account of such bank may be used only to provide assistance with respect to capital projects.
+Qualifying Projects.—Federal funds in the highway account of an infrastructure bank establishedunder this section may be used only to provide assistance with respect to construction of Federal-aid highways. Federal funds in the transit account of such bank may be used only to provide assistance with respect to capital projects.
 
 “(e)
 

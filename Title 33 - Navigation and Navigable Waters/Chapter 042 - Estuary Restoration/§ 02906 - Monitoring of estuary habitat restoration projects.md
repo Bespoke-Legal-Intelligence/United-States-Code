@@ -1,0 +1,32 @@
+### §2906. Monitoring of estuary habitat restoration projects
+
+#### (a) Under Secretary
+
+In this section, the term “Under Secretary” means the Under Secretary for Oceans and Atmosphere of the Department of Commerce.
+
+#### (b) Database of restoration project information
+
+The Under Secretary, in consultation with the Council, shall develop and maintain an appropriate database of information concerning estuary habitat restoration projects carried out under this chapter, including information on project techniques, project completion, monitoring data, and other relevant information.
+
+#### (c) Monitoring data standards
+
+The Under Secretary, in consultation with the Council, shall develop standard data formats for monitoring projects, along with requirements for types of data collected and frequency of monitoring.
+
+#### (d) Coordination of data
+
+The Under Secretary shall compile information that pertains to estuary habitat restoration projects from other Federal, State, and local sources and that meets the quality control requirements and data standards established under this section.
+
+#### (e) Use of existing programs
+
+The Under Secretary shall use existing programs within the National Oceanic and Atmospheric Administration to create and maintain the database required under this section.
+
+#### (f) Public availability
+
+The Under Secretary shall make the information collected and maintained under this section available to the public.
+
+(Pub. L. 106–457, title I, §107, Nov. 7, 2000, 114 Stat. 1964.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 2903, 2904, 2907 of this title.
+

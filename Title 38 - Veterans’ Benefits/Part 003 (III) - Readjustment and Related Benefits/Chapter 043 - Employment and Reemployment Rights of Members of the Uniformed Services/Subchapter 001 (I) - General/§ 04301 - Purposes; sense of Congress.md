@@ -14,7 +14,7 @@
 
 #### Prior Provisions
 
-A prior section 4301, applicable to reemployments initiated before the end of the 60-day period beginning Oct. 13, 1994, is contained in chapter 43 set out as a note preceding this subchapter.
+A prior section 4301, added Pub. L. 93–508, title IV, §404(a), Dec. 3, 1974, 88 Stat. 1594, §2021; amended Pub. L. 94–502, title VI, §608(1), (2), Oct. 15, 1976, 90 Stat. 2405; Pub. L. 99–576, title III, §331, Oct. 28, 1986, 100 Stat. 3279; Pub. L. 102–12, §5(a), Mar. 18, 1991, 105 Stat. 36; Pub. L. 102–25, title III, §340(a), Apr. 6, 1991, 105 Stat. 92; renumbered §4301, Pub. L. 102–568, title V, §506(a), Oct. 29, 1992, 106 Stat. 4340, related to reemployment rights of persons inducted into the Armed Forces of the United States and benefits protected, prior to the general amendment of this chapter by Pub. L. 103–353. This section, as in effect on the day before Oct. 13, 1994, continues to apply to reemployments initiated before the end of the 60-day period beginning Oct. 13, 1994, see section 8 of Pub. L. 103–353, as amended, set out as an Effective Date note below.
 
 Another prior section 4301 was renumbered section 7601 of this title.
 
@@ -44,11 +44,11 @@ Section 8 of Pub. L. 103–353, as amended by Pub. L. 104–275, title III, §31
 
 Reemployment.—(1) Except as otherwise provided in this Act \[see Short Title of 1994 Amendment note set out under section 101 of this title\], the amendments made by this Act shall be effective with respect to reemployments initiated on or after the first day after the 60-day period beginning on the date of enactment of this Act \[Oct. 13, 1994\].
 
-“(2) The provisions of chapter 43 of title 38, United States Code, in effect on the day before such date of enactment \[set out as a note preceding this subchapter\], shall continue to apply to reemployments initiated before the end of such 60-day period.
+“(2) The provisions of chapter 43 of title 38, United States Code, in effect on the day before such date of enactment, shall continue to apply to reemployments initiated before the end of such 60-day period.
 
 “(3) In determining the number of years of service that may not be exceeded in an employee-employer relationship with respect to which a person seeks reemployment under chapter 43 of title 38, United States Code, as in effect before or after the date of enactment of this Act, there shall be included all years of service without regard to whether the periods of service occurred before or after such date of enactment unless the period of service is exempted by the chapter 43 that is applicable, as provided in paragraphs (1) and (2), to the reemployment concerned. Any service begun up to 60 days after the date of the enactment of this Act, which is served up to 60 days after the date of the enactment of this Act pursuant to orders issued under section 502(f) of title 32, United States Code, shall be considered under chapter 43 of title 38, United States Code, as in effect on the day before such date of enactment. Any service pursuant to orders issued under such section 502(f) served after 60 days after the date of the enactment of this Act, regardless of when begun, shall be considered under the amendments made by this Act.
 
-“(4) A person who initiates reemployment under chapter 43 of title 38, United States Code, during or after the 60-day period beginning on the date of enactment of this Act and whose reemployment is made in connection with a period of service in the uniformed services that was initiated before the end of such 60-day period shall be deemed to have satisfied the notification requirement of section 4312(a)(1) of title 38, United States Code, as provided in the amendments made by this Act, if the person complied with any applicable notice requirement under chapter 43, United States Code, as in effect on the day before the date of enactment of this Act \[Oct. 13, 1994\].
+“(4) A person who initiates reemployment under chapter 43 of title 38, United States Code, during or after the 60-day period beginning on the date of enactment of this Act and whose reemployment is made in connection with a period of service in the uniformed services that was initiated before the end of such 60-day period shall be deemed to have satisfied the notification requirement of section 4312(a)(1) of title 38, United States Code, as provided in the amendments made bythis Act, if the person complied with any applicable notice requirement under chapter 43, United States Code, as in effect on the day before the date of enactment of this Act \[Oct. 13, 1994\].
 
 “(b)
 
@@ -68,7 +68,7 @@ Disability.—(1) Section 4313(a)(3) of chapter 43 of title 38, United States Co
 
 “(e)
 
-Investigations and Subpoenas.—The provisions of section 4326 of title 38, United States Code, as provided in the amendments made by this Act, shall become effective on the date of the enactment of this Act \[Oct. 13, 1994\] and apply to any matter pending with the Secretary of Labor under section 4305 of title 38, United States Code \[set out in a note preceding this subchapter\], as of that date.
+Investigations and Subpoenas.—The provisions of section 4326 of title 38, United States Code, as provided in the amendments made by this Act, shall become effective on the date of the enactment of this Act \[Oct. 13, 1994\] and apply to any matter pending with the Secretary of Labor under section 4305 of title 38, United States Code, as of that date.
 
 “(f)
 

@@ -28,7 +28,7 @@ The Secretary shall promulgate appropriate standards for safety and health train
 
 #### (e) Proposed regulations
 
-Within 180 days after the effective date of the Federal Mine Safety and Health AmendmentsAct of 1977, the Secretary shall publish proposed regulations which shall provide that mine rescue teams shall be available for rescue and recovery work to each underground coal or other mine in the event of an emergency. The costs of making advance arrangements for such teams shall be borne by the operator of each such mine.
+Within 180 days after the effective date of the Federal Mine Safety and Health Amendments Act of 1977, the Secretary shall publish proposed regulations which shall provide that mine rescue teams shall be available for rescue and recovery work to each underground coal or other mine in the event of an emergency. The costs of making advance arrangements for such teams shall be borne by the operator of each such mine.
 
 (Pub. L. 91–173, title I, §115, as added Pub. L. 95–164, title II, §201, Nov. 9, 1977, 91 Stat. 1315.)
 

@@ -16,18 +16,6 @@ Section was formerly classified to section 100 of this title.
 
 1994—Pub. L. 103–416 inserted at end “Approval by the Secretary of State of a certificate under this section shall constitute a final administrative determination of loss of United States nationality under this chapter, subject to such procedures for administrative appeal as the Secretary may prescribe by regulation, and also shall constitute a denial of a right or privilege of United States nationality for purposes of section 1503 of this title.”
 
-#### Cross References
-
-Definition of the term—
-
-&emsp;&emsp;Attorney General, see section 1101(a)(5) of this title.
-
-&emsp;&emsp;Consular officer, see section 1101(a)(9) of this title.
-
-&emsp;&emsp;Foreign state, see section 1101(a)(14) of this title.
-
-&emsp;&emsp;National of the United States, see section 1101(a)(22) of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in title 26 section 6039G.

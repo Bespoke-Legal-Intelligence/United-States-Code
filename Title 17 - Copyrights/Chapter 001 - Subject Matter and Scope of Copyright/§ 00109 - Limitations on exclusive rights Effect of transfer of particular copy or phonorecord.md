@@ -8,7 +8,7 @@
 
 > whichever occurs first.
 
-(b)(1)(A) Notwithstanding the provisions of subsection (a), unless authorized by the owners of copyright in the sound recording or the owner of copyright in a computer program (including any tape, disk, or other medium embodying such program), and in the case of a sound recording in the musical works embodied therein, neither the owner of a particular phonorecord nor any person in possession of a particular copy of a computer program (including any tape, disk, or other medium embodying such program), may, for the purposes of direct or indirect commercial advantage, dispose of, or authorize the disposal of, the possession of that phonorecord or computer program (including any tape, disk, or other medium embodying such program) by rental, lease, or lending, or by any other act or practice in the nature of rental, lease, or lending. Nothing in the preceding sentence shall apply to the rental, lease, or lending of a phonorecord for nonprofit purposes by a nonprofit library or nonprofit educational institution. The transfer of possession of a lawfully made copy of a computer program by a nonprofit educational institution to another nonprofit educational institution or to faculty, staff, and students does not constitute rental, lease, or lending for direct or indirect commercial purposes under this subsection.
+(b)(1)(A) Notwithstanding the provisions of subsection (a), unless authorized by the owners of copyright in the sound recording or the owner of copyright in a computer program (including any tape, disk, or other medium embodying such program), and in the case of a sound recordingin the musical works embodied therein, neither the owner of a particular phonorecord nor any person in possession of a particular copy of a computer program (including any tape, disk, or other medium embodying such program), may, for the purposes of direct or indirect commercial advantage, dispose of, or authorize the disposal of, the possession of that phonorecord or computer program (including any tape, disk, or other medium embodying such program) by rental, lease, or lending, or by any other act or practice in the nature of rental, lease, or lending. Nothing in the preceding sentence shall apply to the rental, lease, or lending of a phonorecord for nonprofit purposes by a nonprofit library or nonprofit educational institution. The transfer of possession of a lawfully made copy of a computer program by a nonprofit educational institution to another nonprofit educational institution or to faculty, staff, and students does not constitute rental, lease, or lending for direct or indirect commercial purposes under this subsection.
 
 (B) This subsection does not apply to—
 
@@ -135,12 +135,6 @@ Evaluation by the Register of Copyrights and the Assistant Secretary for Communi
 “(b)
 
 Report to Congress.—The Register of Copyrights and the Assistant Secretary for Communications and Information of the Department of Commerce shall, not later than 24 months after the date of the enactment of this Act \[Oct. 28, 1998\], submit to the Congress a joint report on the evaluation conducted under subsection (a), including any legislative recommendations the Register and the Assistant Secretary may have.”
-
-#### Cross References
-
-Action for infringement of copyright, see section 501 of this title.
-
-Exclusive rights in copyrighted works, see section 106 of this title.
 
 #### Section Referred to in Other Sections
 

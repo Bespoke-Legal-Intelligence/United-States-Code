@@ -2,7 +2,7 @@
 
 #### (a) Office personnel
 
-The Director may appoint and fix the compensation of such officers and employees of the Office as the Director considers necessary to carry out the functions of the Director and the Office. Officers and employees may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5 relating to classification and General Schedule pay rates.
+The Director may appoint and fix the compensation of such officers and employees of the Office as the Director considers necessary to carry out the functions of the Director and theOffice. Officers and employees may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5 relating to classification and General Schedule pay rates.
 
 #### (b) Comparability of compensation with Federal banking agencies
 
@@ -32,5 +32,5 @@ Not later than the expiration of the 180-day period beginning upon the appointme
 
 #### Change of Name
 
-Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 

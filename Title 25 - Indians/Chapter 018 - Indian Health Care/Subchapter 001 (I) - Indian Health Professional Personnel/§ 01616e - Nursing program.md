@@ -66,7 +66,7 @@ Beginning with fiscal year 1993, of the amounts appropriated under the authority
 
 #### References in Text
 
-Section 2397h of title 20, referred to in subsec. (a)(2), was omitted in the general amendment of chapter 44 (§2301 et seq.) of Title 20, Education, by Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3076.
+Section 2397h of title 20, referred to in subsec. (a)(2), was omitted in the general amendment of chapter 44\(§2301 et seq.) of Title 20, Education, by Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3076.
 
 Section 2624 of this title, referred to in subsec. (d)(4), was repealed by Pub. L. 103–382, title III, §367, Oct. 20, 1994, 108 Stat. 3976. See section 7834 of Title 20, Education.
 

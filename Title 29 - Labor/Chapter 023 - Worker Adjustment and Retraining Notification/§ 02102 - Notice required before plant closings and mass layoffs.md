@@ -6,7 +6,7 @@ An employer shall not order a plant closing or mass layoff until the end of a 60
 
 &emsp;(1) to each representative of the affected employees as of the time of the notice or, if there is no such representative at that time, to each affected employee; and
 
-&emsp;(2) to the State dislocated worker unit or office (referred to in section 1661(b)(2) of this title), or the State or entity designated by the State to carry out rapid response activities under section 2864(a)(2)(A) of this title, and the chief elected official of the unit of local government within which such closing or layoff is to occur.
+&emsp;(2) to the State or entity designated by the State to carry out rapid response activities under section 2864(a)(2)(A) of this title, and the chief elected official of the unit of local government within which such closing or layoff is to occur.
 
 > If there is more than one such unit, the unit of local government which the employer shall notify is the unit of local government to which the employer pays the highest taxes for the year preceding the year for which the determination is made.
 
@@ -34,13 +34,11 @@ For purposes of this section, in determining whether a plant closing or mass lay
 
 (Pub. L. 100–379, §3, Aug. 4, 1988, 102 Stat. 891; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(26), (f)(18)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–424, 2681–432.)
 
-#### Amendment of Subsection (a)(2)
-
-<i>Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(f)(18), (g)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–432, 2681–435, provided that, effective July 1, 2000, subsection (a)(2) of this section is amended by striking “the State dislocated worker unit or office (referred to in section 1661(b)(2) of this title), or”.</i>
-
 #### Amendments
 
-1998—Subsec. (a)(2). Pub. L. 105–277, §101(f) \[title VIII, §405(d)(26)\], substituted “to the State dislocated worker unit or office (referred to in section 1661(b)(2) of this title), or the State or entity designated by the State to carry out rapid response activities under section 2864(a)(2)(A) of this title, and the chief” for “to the State dislocated worker unit (designated or created under title III of the Job Training Partnership Act) and the chief”.
+1998—Subsec. (a)(2). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(18)\], struck out “the State dislocated worker unit or office (referred to in section 1661(b)(2) of this title), or” before “the State or entity”.
+
+Pub. L. 105–277, §101(f) \[title VIII, §405(d)(26)\], substituted “to the State dislocated worker unit or office (referred to in section 1661(b)(2) of this title), or the State or entity designated by the State to carry out rapid response activities under section 2864(a)(2)(A) of this title, and the chief” for “to the State dislocated worker unit (designated or created under title III of the Job Training Partnership Act) and the chief”.
 
 #### Effective Date of 1998 Amendment
 

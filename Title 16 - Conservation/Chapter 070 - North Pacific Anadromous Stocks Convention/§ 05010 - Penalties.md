@@ -4,9 +4,9 @@
 
 (1) Any person who is found by the Secretary of Commerce, after notice and opportunity for a hearing in accordance with section 554 of title 5, to have committed an act prohibited by section 5009 of this title shall be liable to the United States for a civil penalty. The amount of the civil penalty shall not exceed $100,000 for each violation. Each day of a continuing violation shall constitute a separate offense. The amount of such civil penalty shall be assessed by the Secretary of Commerce, or the Secretary's designee, by written notice. In determining the amount of such penalty, the Secretary of Commerce shall take into account the nature, circumstances, extent, and gravity of the prohibited acts committed and, with respect to the violation, the degree of culpability, any history of prior offenses, ability to pay, and such other matters as justice may require.
 
-(2) Any person against whom a civil penalty is assessed under paragraph (1) may obtain review thereof in the appropriate court of the United States by filing a complaint in such court within thirty days from the date of such order and by simultaneously serving a copy of such complaint by certified mail on the Secretary of Commerce, the Attorney General, and the appropriate United States Attorney. The Secretary of Commerce shall promptly file in such court a certified copy of the record upon which such violation was found or such penalty imposed, as provided in section 2112 of title 28. The findings and order of the Secretary of Commerce shall be set aside by such court if they are not found to be supported by substantial evidence, as provided in section 706(2) of title 5.
+(2) Any person against whom a civil penalty is assessed under paragraph (1) may obtain review thereof in the appropriate court of the United States by filing a complaint in such court within 30 days from the date of such order and by simultaneously serving a copy of such complaint by certified mail on the Secretary of Commerce, the Attorney General, and the appropriate United States Attorney. The Secretary of Commerce shall promptly file in such court a certified copy of the record upon which such violation was found or such penalty imposed, as provided in section 2112 of title 28. The findings and order of the Secretary of Commerce shall be set aside by such court if they are not found to be supported by substantial evidence, as provided in section 706(2) of title 5.
 
-(3) If any person fails to pay an assessment of a civil penalty after it has become a final and unappealable order, or after the appropriate court has entered final judgment in favor of the Secretary of Commerce, the matter shall be referred to the Attorney General, who shall recover the amount assessed in any appropriate district court of the United States. In such action, the validity and appropriateness of the final order imposing the civil penalty shall not be subject to review.
+(3) If any person fails to pay an assessment of a civil penalty after it has become a final and unappealable order, or after the appropriate court has entered final judgment in favor of theSecretary of Commerce, the matter shall be referred to the Attorney General, who shall recover the amount assessed in any appropriate district court of the United States. In such action, the validity and appropriateness of the final order imposing the civil penalty shall not be subject to review.
 
 (4) A fishing vessel (including its fishing gear, furniture, appurtenances, stores, and cargo) used in the commission of an act prohibited by section 5009 of this title shall be liable in rem for any civil penalty assessed for such violation under paragraph (1) and may be proceeded against in any district court of the United States having jurisdiction thereof. Such penalty shall constitute a maritime lien on such vessel that may be recovered in an action in rem in the district court of the United States having jurisdiction over the vessel.
 
@@ -16,7 +16,7 @@
 
 #### (b) Offenses
 
-(1) A person is guilty of an offense if that person commits any act prohibited by section 5009(5), (6), (7), or (8) of this title.
+(1) A person is guilty of an offense if the person commits any act prohibited by section 5009(5), (6), (7), or (8) of this title.
 
 (2) Any offense described in paragraph (1) is a class A misdemeanor punishable by a fine under title 18 or imprisonment for not more than 6 months, or both; except that if in the commission of any offense the person uses a dangerous weapon, engages in conduct that causes bodily injury to any enforcement officer, or places any such officer in fear of imminent bodily injury, the offense is a felony punishable by a fine under title 18 or imprisonment for not more than 10 years, or both.
 
@@ -48,15 +48,13 @@
 
 (5) For purposes of this section, it shall be a rebuttable presumption that all fish found on board a fishing vessel and which is seized in connection with an act prohibited by section 5009 of this title were taken or retained in violation of the Convention and this chapter.
 
-(Pub. L. 102–567, title VIII, §811, Oct. 29, 1992, 106 Stat. 4314; Pub. L. 102–587, title VIII, §8011, Nov. 4, 1992, 106 Stat. 5103.)
+(Pub. L. 102–567, title VIII, §811, Oct. 29, 1992, 106 Stat. 4314; Pub. L. 102–587, title VIII, §8011, Nov. 4, 1992, 106 Stat. 5103; Pub. L. 106–562, title III, §304(a), Dec. 23, 2000, 114 Stat. 2806.)
 
 #### References in Text
-
-Section 5009 of this title, referred to in subsec. (c)(1), was in the original “section 1810”, which was translated as meaning section 8010 of Pub. L. 102–587 to reflect the probable intent of Congress. The reference in the original of Pub. L. 102–567 was to section 810, meaning section 810 of Pub. L. 102–567, which is classified to section 5009 of this title.
 
 The customs laws, referred to in subsec. (c)(3), are classified generally to Title 19, Customs Duties.
 
 #### Codification
 
-Pub. L. 102–567 and Pub. L. 102–587 enacted substantially identical sections. This section is based on the text of Pub. L. 102–587.
+Title VIII of Pub. L. 102–567 and Pub. L. 102–587 enacted substantially identical sections. Title VIII of Pub. L. 102–587 was repealed by Pub. L. 106–562.
 

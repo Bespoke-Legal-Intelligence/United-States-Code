@@ -38,7 +38,7 @@ For the purpose of this section:
 
 (E) The Administrator shall receive and evaluate written comments and documents from interested persons in support of, or in opposition to, certification of the class or model of product under consideration.
 
-(F) Within ninety days after the receipt of a properly filed certification application the Administrator shall determine whether such product is a low-noise-emission product for purposes of this section. If the Administrator determines that such product is a low-noise-emission product, then within one hundred and eighty days of such determination the Administrator shallreach a decision as to whether such product is a suitable substitute for any class or classes of products presently being purchased by the Federal Government for use by its agencies.
+(F) Within ninety days after the receipt of a properly filed certification application the Administrator shall determine whether such product is a low-noise-emission product for purposes of this section. If the Administrator determines that such product is a low-noise-emission product, then within one hundred and eighty days of such determination the Administrator shall reach a decision as to whether such product is a suitable substitute for any class or classes of products presently being purchased by the Federal Government for use by its agencies.
 
 (G) Immediately upon making any determination or decision under subparagraph (F), the Administrator shall publish in the Federal Register notice of such determination or decision, including reasons therefor.
 

@@ -22,13 +22,21 @@ The Administrator shall consult with the State of Alaska on a method of prioriti
 
 #### (e) Authorization of appropriations
 
-There are authorized to be appropriated $15,000,000 for each of the fiscal years 1997 through 2000 to carry out this section.
+There are authorized to be appropriated to carry out this section $40,000,000 for each of fiscal years 2001 through 2005.
 
-(Pub. L. 104–182, title III, §303, Aug. 6, 1996, 110 Stat. 1683.)
+(Pub. L. 104–182, title III, §303, Aug. 6, 1996, 110 Stat. 1683; Pub. L. 106–457, title IX, §903, Nov. 7, 2000, 114 Stat. 1982.)
 
 #### Codification
 
 Section was enacted as part of the Safe Drinking Water Act Amendments of 1996, and not as part of the Federal Water Pollution Control Act which comprises this chapter.
+
+#### Amendments
+
+2000—Subsec. (e). Pub. L. 106–457 substituted “to carry out this section $40,000,000 for each of fiscal years 2001 through 2005” for “$15,000,000 for each of the fiscal years 1997 through 2000 to carry out this section”.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 16 section 1166.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary, in consultation with the Director of the National Institute of Child Health and Human Development, shall establish a program of entering into contracts with qualified health professionals (including graduate students) under which such health professionals agree to conduct research with respect to contraception, or with respect to infertility, in consideration of the Federal Government agreeing to repay, for each year of such service, not more than $35,000 of the principal and interest of the educational loans of such health professionals.
+The Secretary, in consultation with the Director of the National Institute of Child Health and Human Development, shall establish a program of entering into contracts with qualified health professionals (including graduate students) under which such health professionals agree to conduct research with respect to contraception, or with respect to infertility, in consideration ofthe Federal Government agreeing to repay, for each year of such service, not more than $35,000 of the principal and interest of the educational loans of such health professionals.
 
 #### (b) Contracts, obligated service, breach of contract
 

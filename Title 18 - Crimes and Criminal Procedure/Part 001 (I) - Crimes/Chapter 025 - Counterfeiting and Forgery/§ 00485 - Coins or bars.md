@@ -26,14 +26,6 @@ Changes were made in phraseology.
 
 1965—Pub. L. 89–81 struck out “Gold or silver” before “Coins or bars” in section catchline, changed the description of the United States coins covered in first par. from gold or silver coins to any coin of a denomination higher than 5 cents, and made minor structural changes in second par.
 
-#### Canal Zone
-
-Applicability of section to Canal Zone, see section 14 of this title.
-
-#### Cross References
-
-Coins and currency generally, see sections 331 to 336 of this title and sections 5111 et seq. and 5131 et seq. of Title 31, Money and Finance.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 14, 981, 982 of this title.

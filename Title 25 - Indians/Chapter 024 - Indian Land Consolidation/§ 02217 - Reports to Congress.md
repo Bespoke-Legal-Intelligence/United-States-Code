@@ -1,0 +1,24 @@
+### §2217. Reports to Congress
+
+#### (a) In general
+
+Prior to expiration of the authority provided for in section 2212(a)(2)(A) of this title, the Secretary, after consultation with Indian tribes and other interested parties, shall submit to the Committee on Indian Affairs and the Committee on Energy and Natural Resources of the Senate and the Committee on Resources of the House of Representatives a report that indicates, for the period covered by the report—
+
+&emsp;(1) the number of fractional interests in trust or restricted lands acquired; and
+
+&emsp;(2) the impact of the resulting reduction in the number of such fractional interests on the financial and realty recordkeeping systems of the Bureau of Indian Affairs.
+
+#### (b) Report
+
+The reports described in subsection (a) of this section and section 2212(a) of this title shall contain findings as to whether the program under this chapter to acquire fractional interests in trust or restricted lands should be extended and whether such program should be altered to make resources available to Indian tribes and individual Indian landowners.
+
+(Pub. L. 97–459, title II, §218, as added Pub. L. 106–462, title I, §103(6), Nov. 7, 2000, 114 Stat. 2004.)
+
+#### References in Text
+
+This chapter, referred to in subsec. (b), was in the original “this Act”, which was translated as reading “this title”, meaning title II of Pub. L. 97–459, to reflect the probable intent of Congress.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 2212 of this title.
+

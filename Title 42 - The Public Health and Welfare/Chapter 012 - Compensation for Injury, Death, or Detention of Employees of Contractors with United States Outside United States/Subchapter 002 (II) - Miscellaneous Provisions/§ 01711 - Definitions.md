@@ -16,7 +16,7 @@ When used in this chapter—
 
 &emsp;(5) the operation of vessels or aircraft in a zone of hostilities or engaged in war activities.
 
-(c) The term “hostile force or person” means any nation, any subject of a foreign nation, orany other person serving a foreign nation (1) engaged in a war against the United States or any of its allies, (2) engaged in armed conflict, whether or not war has been declared, against the United States or any of its allies, or (3) engaged in a war or armed conflict between military forces of any origin in any country in which a person covered by this chapter is serving.
+(c) The term “hostile force or person” means any nation, any subject of a foreign nation, or any other person serving a foreign nation (1) engaged in a war against the United States or any of its allies, (2) engaged in armed conflict, whether or not war has been declared, against the United States or any of its allies, or (3) engaged in a war or armed conflict between military forces of any origin in any country in which a person covered by this chapter is serving.
 
 (d) The term “allies” means any nation with which the United States is engaged in a common military effort or with which the United States has entered into a common defensive military alliance.
 
@@ -74,7 +74,7 @@ Amendment by Pub. L. 85–608 effective June 30, 1958, see section 402 of Pub. L
 
 “ ‘Secretary’ means the Secretary of Labor” substituted for “ ‘Administrator’ means the Federal Security Administrator” in subsec. (a), pursuant to Reorg. Plan No. 19 of 1950, §1, eff. May 24, 1950, 15 F.R. 2178, 64 Stat. 1271, which transferred functions of Federal Security Administrator to Secretary of Labor.
 
-Previously, “ ‘Administrator’ means the Federal Security Administrator” substituted for “ ‘Commission’ means the United States Employees’ Compensation Commission” pursuant to Reorg. Plan No. 2 of 1946, §3, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095, which abolished United States Employees’ Compensation Commission and transferred its functions to Federal Security Administrator.
+Previously, “ ‘Administrator’ means the Federal Security Administrator” substituted for “ ‘Commission’means the United States Employees’ Compensation Commission” pursuant to Reorg. Plan No. 2 of 1946, §3, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095, which abolished United States Employees’ Compensation Commission and transferred its functions to Federal Security Administrator.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

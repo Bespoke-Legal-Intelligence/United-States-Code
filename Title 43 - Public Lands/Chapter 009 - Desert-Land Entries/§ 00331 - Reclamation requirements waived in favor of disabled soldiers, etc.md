@@ -4,7 +4,3 @@ Any entryman under the desert-land laws, or any person entitled to preference ri
 
 (Mar. 1, 1921, ch. 102, §2, as added Dec. 15, 1921, ch. 3, 42 Stat. 348.)
 
-#### Cross References
-
-Disabled veterans excused from fulfilling residence and cultivation requirements, see section 238 of this title.
-

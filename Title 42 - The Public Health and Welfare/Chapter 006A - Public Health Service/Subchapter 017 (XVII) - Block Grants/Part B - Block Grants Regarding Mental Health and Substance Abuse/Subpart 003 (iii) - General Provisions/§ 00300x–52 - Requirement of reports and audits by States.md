@@ -28,5 +28,5 @@ A funding agreement for a grant under section 300x or 300x–21 of this title is
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 300x–6, 300x–32 of this title.
+This section is referred to in sections 300x–4, 300x–6, 300x–32 of this title.
 

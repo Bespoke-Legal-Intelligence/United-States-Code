@@ -2,7 +2,7 @@
 
 (a)
 
-Special Pay Authorized.—(1) An officer described in subsection (b)(1) who, during the period beginning on November 29, 1989, and ending on December 31, 2000, executes a written agreement to remain on active duty for a period of one year or more may, upon the acceptance of the agreement by the Secretary concerned, be paid incentive special pay in an amount not to exceed $15,000 for any 12-month period.
+Special Pay Authorized.—(1) An officer described in subsection (b)(1) who, during the period beginning on November 29, 1989, and ending on December 31, 2001, executes a written agreement to remain on active duty for a period of one year or more may, upon the acceptance of the agreement by the Secretary concerned, be paid incentive special pay in an amount not to exceed $15,000 for any 12-month period.
 
 (2) The Secretary concerned shall determine the amount of incentive special pay to be paid to an officer under paragraph (1). In determining that amount, the Secretary concerned shall consider the period of obligated service provided for in the agreement under that paragraph.
 
@@ -18,7 +18,7 @@ Covered Officers.—(1) An officer referred to in subsection (a) is an officer o
 
 (2) The Secretary of Defense may extend the special pay authorized under subsection (a) to officers of the armed forces who serve in a nursing specialty (other than as nurse anesthetists) that—
 
-&emsp;(A) is designated by the Secretary as critical to meet requirements (whether such specialty is designated as critical to meet wartime or peacetime requirements); and
+&emsp;(A) is designated by the Secretary of the military department concerned as critical to meet requirements (whether such specialty is designated as critical to meet wartime or peacetime requirements); and
 
 &emsp;(B) requires postbaccalaureate education and training.
 
@@ -38,9 +38,13 @@ Repayment.—(1) An officer who voluntarily terminates service on active duty be
 
 (3) A discharge in bankruptcy under title 11 that is entered less than five years after the termination of an agreement under this section does not discharge the person signing such agreement from a debt arising under such agreement or this subsection. This paragraph applies to any case commenced under title 11 after November 29, 1989.
 
-(Added Pub. L. 101–189, div. A, title VII, §706(a)(1), Nov. 29, 1989, 103 Stat. 1472; amended Pub. L. 101–510, div. A, title VI, §§613(b), 614(a), (b), 618(c)(1), title XIV, §1484(d)(3), Nov. 5, 1990, 104 Stat. 1577, 1578, 1579, 1716; Pub. L. 102–25, title VII, §702(a)(2)(B), (b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §612(i), Oct. 23, 1992, 106 Stat. 2421; Pub. L. 103–160, div. A, title VI, §611(c), Nov. 30, 1993, 107 Stat. 1679; Pub. L. 103–337, div. A, title VI, §612(c), Oct. 5, 1994, 108 Stat. 2783; Pub. L. 104–106, div. A, title VI, §612(c), Feb. 10, 1996, 110 Stat. 359; Pub. L. 104–201, div. A, title VI, §612(c), Sept. 23, 1996, 110 Stat. 2543; Pub. L. 105–85, div. A, title VI, §612(c), Nov. 18, 1997, 111 Stat. 1786; Pub. L. 105–261, div. A, title VI, §612(c), Oct. 17, 1998, 112 Stat. 2039; Pub. L. 106–65, div. A, title VI, §612(c), Oct. 5, 1999, 113 Stat. 650.)
+(Added Pub. L. 101–189, div. A, title VII, §706(a)(1), Nov. 29, 1989, 103 Stat. 1472; amended Pub. L. 101–510, div. A, title VI, §§613(b), 614(a), (b), 618(c)(1), title XIV, §1484(d)(3), Nov. 5, 1990, 104 Stat. 1577, 1578, 1579, 1716; Pub. L. 102–25, title VII, §702(a)(2)(B), (b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §612(i), Oct. 23, 1992, 106 Stat. 2421; Pub. L. 103–160, div. A, title VI, §611(c), Nov. 30, 1993, 107 Stat. 1679; Pub. L. 103–337, div. A, title VI, §612(c), Oct. 5, 1994, 108 Stat. 2783; Pub. L. 104–106, div. A, title VI, §612(c), Feb. 10, 1996, 110 Stat. 359; Pub. L. 104–201, div. A, title VI, §612(c), Sept. 23, 1996, 110 Stat. 2543; Pub. L. 105–85, div. A, title VI, §612(c), Nov. 18, 1997, 111 Stat. 1786; Pub. L. 105–261, div. A, title VI, §612(c), Oct. 17, 1998, 112 Stat. 2039; Pub. L. 106–65, div. A, title VI, §612(c), Oct. 5, 1999, 113 Stat. 650; Pub. L. 106–398, §1 \[\[div. A\], title VI, §§622(c), 626(b)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–151, 1654A–153.)
 
 #### Amendments
+
+2000—Subsec. (a)(1). Pub. L. 106–398, §1 \[\[div. A\], title VI, §622(c)\], substituted “December 31, 2001” for “December 31, 2000”.
+
+Subsec. (b)(2)(A). Pub. L. 106–398, §1 \[\[div. A\], title VI, §626(b)(1)\], substituted “the Secretary of the military department concerned” for “the Secretary”.
 
 1999—Subsec. (a)(1). Pub. L. 106–65 substituted “December 31, 2000” for “December 31, 1999”.
 
@@ -82,11 +86,7 @@ For provisions relating to coverage of period of lapsed authority from Oct. 1, 1
 
 #### Implementation of Subsection (b)(2)
 
-Section 614(c) of Pub. L. 101–510 provided that: “The Secretary of Defense may not implement subsection (b)(2) of section 302e of title 37, United States Code (as added by subsection (a)), unless the Secretary submits to the Committees on Armed Services of the Senate and House of Representatives a report—
-
-&emsp;“(1) justifying the need of the departments for the authority provided in such subsection; and
-
-&emsp;“(2) describing the manner in which that authority will be implemented.”
+Pub. L. 101–510, div. A, title VI, §614(c), Nov. 5, 1990, 104 Stat. 1578, provided that the Secretary of Defense could not implement subsec. (b)(2) of this section, unless the Secretary submitted to the Committees on Armed Services of the Senate and House of Representatives a report justifying the need of the departments for the authority provided in such subsection and describing the manner in which that authority would be implemented, prior to repeal by Pub. L. 106–398, §1 \[\[div. A\], title VI, §626(b)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–153.
 
 #### Section Referred to in Other Sections
 

@@ -29,10 +29,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Cross References
-
-For provisions relating to the construction, alteration, and acquisition of public buildings of the Federal Government, see the Public Buildings Act of 1959, which is classified to section 601 et seq. of this title.
-
 
 ---
 

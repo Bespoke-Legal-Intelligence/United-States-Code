@@ -108,15 +108,7 @@ Amendment by Pub. L. 100–456 applicable with respect to persons who, after Sep
 
 Amendment by Pub. L. 98–525 effective Oct. 1, 1985, see section 1404 of Pub. L. 98–525, set out as a note under section 520b of Title 10, Armed Forces.
 
-#### Cross References
-
-Inactive-duty training defined, see section 101 of this title and section 101 of Title 10, Armed Forces.
-
-Incentive pay for hazardous duty, see section 301 of this title.
-
-Rations in kind when instruction or duty periods total at least 8 hours in calendar day, see section 402 of this title.
-
 Section Referred to in Other Sections
 
-This section is referred to in sections 101, 204, 301, 301a, 301c, 304, 308d, 316, 320, 402, 433, 707, 1012 of this title; title 5 section 8440e; title 10 sections 101, 1076a, 1465, 1466, 12319; title 26 section 3121; title 31 section 698a; title 32 section 715; title 38 section 101; title 42 section 409.
+This section is referred to in sections 101, 204, 301, 301a, 301c, 304, 307, 308d, 316, 320, 402, 433, 707, 1012 of this title; title 5 section 8440e; title 10 sections 101, 1076a, 1465, 1466, 12319, 12503; title 26 section 3121; title 31 section 698a; title 32 sections 115, 715; title 38 section 101; title 42 section 409.
 

@@ -16,25 +16,25 @@ Chapter effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 
 #### End Strengths for Selected Reserve and for Reserves on Active Duty in Support of Reserves
 
-Pub. L. 106–65, div. A, title IV, §§411, 412, Oct. 5, 1999, 113 Stat. 585, 586, provided that:
+Pub. L. 106–398, §1 \[\[div. A\], title IV, §§411, 412\], Oct. 30, 2000, 114 Stat. 1654, 1654A–93, provided that:
 
 #### “SEC. 411. End Strengths for Selected Reserve
 
 “(a)
 
-In General.—The Armed Forces are authorized strengths for Selected Reserve personnel of the reserve components as of September 30, 2000, as follows:
+In General.—The Armed Forces are authorized strengths for Selected Reserve personnel of the reserve components as of September 30, 2001, as follows:
 
-&emsp;“(1) The Army National Guard of the United States, 350,000.
+&emsp;“(1) The Army National Guard of the United States, 350,526.
 
-&emsp;“(2) The Army Reserve, 205,000.
+&emsp;“(2) The Army Reserve, 205,300.
 
-&emsp;“(3) The Naval Reserve, 90,288.
+&emsp;“(3) The Naval Reserve, 88,900.
 
-&emsp;“(4) The Marine Corps Reserve, 39,624.
+&emsp;“(4) The Marine Corps Reserve, 39,558.
 
-&emsp;“(5) The Air National Guard of the United States, 106,678.
+&emsp;“(5) The Air National Guard of the United States, 108,022.
 
-&emsp;“(6) The Air Force Reserve, 73,708.
+&emsp;“(6) The Air Force Reserve, 74,358.
 
 &emsp;“(7) The Coast Guard Reserve, 8,000.
 
@@ -46,25 +46,27 @@ Adjustments.—The end strengths prescribed by subsection (a) for the Selected R
 
 &emsp;“(2) the total number of individual members not in units organized to serve as units of the Selected Reserve of such component who are on active duty (other than for training or for unsatisfactory participation in training) without their consent at the end of the fiscal year.
 
-> Whenever such units or such individual members are released from active duty during any fiscal year, the end strength prescribed for such fiscal year for the Selected Reserve of such reserve component shall be proportionately increased by the total authorized strengths of such units and by the total number of such individual members.”
+> Whenever such units or such individual members are released from active duty during any fiscal year, the end strength prescribed for such fiscal year for the Selected Reserve of such reserve component shall be proportionately increased by the total authorized strengths of such units and by the total number of such individual members.
 
 #### “SEC. 412. End Strengths for Reserves on Active Duty in Support of the Reserves
 
-“Within the end strengths prescribed in section 411(a), the reserve components of the Armed Forces are authorized, as of September 30, 2000, the following number of Reserves to be serving on full-time active duty or full-time duty, in the case of members of the National Guard, for the purpose of organizing, administering, recruiting, instructing, or training the reserve components:
+“Within the end strengths prescribed in section 411(a), the reserve components of the Armed Forces are authorized, as of September 30, 2001, the following number of Reserves to be serving on full-time active duty or full-time duty, in the case of members of the National Guard, for the purpose of organizing, administering, recruiting, instructing, or training the reserve components:
 
-&emsp;“(1) The Army National Guard of the United States, 22,430.
+&emsp;“(1) The Army National Guard of the United States, 22,974.
 
-&emsp;“(2) The Army Reserve, 12,804.
+&emsp;“(2) The Army Reserve, 13,106.
 
-&emsp;“(3) The Naval Reserve, 15,010.
+&emsp;“(3) The Naval Reserve, 14,649.
 
-&emsp;“(4) The Marine Corps Reserve, 2,272.
+&emsp;“(4) The Marine Corps Reserve, 2,261.
 
-&emsp;“(5) The Air National Guard of the United States, 11,157.
+&emsp;“(5) The Air National Guard of the United States, 11,170.
 
-&emsp;“(6) The Air Force Reserve, 1,134.”
+&emsp;“(6) The Air Force Reserve, 1,336.”
 
 Similar provisions were contained in the following prior authorization acts:
+
+Pub. L. 106–65, div. A, title IV, §§411, 412, Oct. 5, 1999, 113 Stat. 585, 586.
 
 Pub. L. 105–261, div. A, title IV, §§411, 412, Oct. 17, 1998, 112 Stat. 1997.
 
@@ -211,8 +213,4 @@ Pub. L. 98–525, title V, §552(a)–(e), (g), Oct. 19, 1984, 98 Stat. 2530, as
 “(e) \[Repealed. Pub. L. 103–337, div. A, title XVI, §1661(a)(3)(B), Oct. 5, 1994, 108 Stat. 2980.\]
 
 “(g) This section does not apply to the Coast Guard.”
-
-#### Cross References
-
-Authorization of end strength of Selected Reserve of each reserve component of the armed forces, prerequisite to appropriation of funds to or for use of Selected Reserve, see section 115 of this title.
 

@@ -8,17 +8,3 @@ Nothing in this subchapter shall be applied in contravention of the provisions o
 
 1988—Pub. L. 100–525 substituted “before December 25, 1952” for “upon the effective date of this subchapter”.
 
-#### Cross References
-
-Definition of the term—
-
-&emsp;&emsp;Alien, see section 1101(a)(3) of this title.
-
-&emsp;&emsp;Ineligible to citizenship, see section 1101(a)(19) of this title.
-
-&emsp;&emsp;National of the United States, see section 1101(a)(22) of this title.
-
-&emsp;&emsp;Residence, see section 1101(a)(33) of this title.
-
-&emsp;&emsp;United States, see section 1101(a)(38) of this title.
-

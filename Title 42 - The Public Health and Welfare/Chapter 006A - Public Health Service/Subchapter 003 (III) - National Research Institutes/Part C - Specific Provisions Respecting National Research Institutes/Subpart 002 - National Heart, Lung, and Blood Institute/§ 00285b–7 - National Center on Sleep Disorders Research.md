@@ -62,7 +62,7 @@ The Director of the Center, in cooperation with the Centers for Disease Control 
 
 #### Change of Name
 
-Reference to Chief Medical Director of Department of Veterans Affairs deemed to refer to Under Secretary for Health of Department of Veterans Affairs pursuant to section 302(e) of Pub. L. 102–405, set out as a note under section 305 of Title 38, Veterans’ Benefits.
+Reference to Chief Medical Director of Department of Veterans Affairs deemed to refer to Under Secretary forHealth of Department of Veterans Affairs pursuant to section 302(e) of Pub. L. 102–405, set out as a note under section 305 of Title 38, Veterans’ Benefits.
 
 Reference to Chief Medical Director of Veterans’ Administration deemed to refer to Chief Medical Director of Department of Veterans Affairs pursuant to section 10 of Pub. L. 100–527, set out as a Department of Veterans Affairs Act note under section 201 of Title 38.
 

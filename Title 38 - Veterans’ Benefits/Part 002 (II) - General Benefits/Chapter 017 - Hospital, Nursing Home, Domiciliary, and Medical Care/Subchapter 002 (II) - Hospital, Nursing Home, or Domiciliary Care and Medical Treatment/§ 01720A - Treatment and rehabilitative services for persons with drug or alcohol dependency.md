@@ -8,17 +8,19 @@
 
 &emsp;(2) if pertinent, advise such individual of such individual's rights to apply to the appropriate military, naval, or air service and the Department for review of such individual's discharge or release from such service.
 
-(c)(1) Any person serving in the active military, naval, or air service who is determined by the Secretary concerned to have an alcohol or drug dependence or abuse disability may be transferred to any facility in order for the Secretary to furnish care or treatment and rehabilitative services for such disability, in which case such care and services provided to such member shall be provided as if such member were a veteran. Any transfer of any such member for such care and services shall be made pursuant to such terms as may be agreed upon by the Secretary concerned and the Secretary, subject to the provisions of sections 1535 and 1536 of title 31.
+(c)(1) Any person serving in the active military, naval, or air service who is determined by the Secretary concerned to have an alcohol or drug dependence or abuse disability may be transferred to any facility in order for the Secretary to furnish care or treatment and rehabilitative services for such disability. Care and services provided to a member so transferred shall be provided as if such member were a veteran. Any transfer of any such member for such care and services shall be made pursuant to such terms as may be agreed upon by the Secretary concerned and the Secretary, subject to the provisions of sections 1535 and 1536 of title 31.
 
 (2) No person serving in the active military, naval, or air service may be transferred pursuant to an agreement made under paragraph (1) of this subsection unless such person requests such transfer in writing for a specified period of time. No such person transferred pursuant to such a request may be furnished such care and services by the Secretary beyond the period of time specified in such request unless such person requests in writing an extension for a further specified period of time and such request is approved by the Secretary.
 
-(Added Pub. L. 96–22, title I, §104(a), June 13, 1979, 93 Stat. 50, §620A; amended Pub. L. 96–128, title V, §501(c), Nov. 28, 1979, 93 Stat. 987; Pub. L. 97–251, §6, Sept. 8, 1982, 96 Stat. 716; Pub. L. 97–258, §3(k)(1), Sept. 13, 1982, 96 Stat. 1065; Pub. L. 99–108, §3, Sept. 30, 1985, 99 Stat. 481; Pub. L. 99–166, title I, §101(a), (b)(1), Dec. 3, 1985, 99 Stat. 942, 943; Pub. L. 100–687, div. B, title XV, §1509, Nov. 18, 1988, 102 Stat. 4137; Pub. L. 100–689, title V, §502(a)(1), (b), Nov. 18, 1988, 102 Stat. 4179;Pub. L. 102–54, §14(b)(13), June 13, 1991, 105 Stat. 284; renumbered §1720A and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–86, title III, §303, Aug. 14, 1991, 105 Stat. 416; Pub. L. 103–452, title I, §103(b), Nov. 2, 1994, 108 Stat. 4786; Pub. L. 104–110, title I, §101(b), Feb. 13, 1996, 110 Stat. 768; Pub. L. 105–114, title II, §202(b), Nov. 21, 1997, 111 Stat. 2287; Pub. L. 106–117, title I, §114, Nov. 30, 1999, 113 Stat. 1558.)
+(Added Pub. L. 96–22, title I, §104(a), June 13, 1979, 93 Stat. 50, §620A; amended Pub. L. 96–128, title V, §501(c), Nov. 28, 1979, 93 Stat. 987; Pub. L. 97–251, §6, Sept. 8, 1982, 96 Stat. 716; Pub. L. 97–258, §3(k)(1), Sept. 13, 1982, 96 Stat. 1065; Pub. L. 99–108, §3, Sept. 30, 1985, 99 Stat. 481; Pub. L. 99–166, title I, §101(a), (b)(1), Dec. 3, 1985, 99 Stat. 942, 943; Pub. L. 100–687, div. B, title XV, §1509, Nov. 18, 1988, 102 Stat. 4137; Pub. L. 100–689, title V, §502(a)(1), (b), Nov. 18, 1988, 102 Stat. 4179; Pub. L. 102–54, §14(b)(13), June 13, 1991, 105 Stat. 284; renumbered §1720A and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–86, title III, §303, Aug. 14, 1991, 105 Stat. 416; Pub. L. 103–452, title I, §103(b), Nov. 2, 1994, 108 Stat. 4786; Pub. L. 104–110, title I, §101(b), Feb. 13, 1996, 110 Stat. 768; Pub. L. 105–114, title II, §202(b), Nov. 21, 1997, 111 Stat. 2287; Pub. L. 106–117, title I, §114, Nov. 30, 1999, 113 Stat. 1558; Pub. L. 106–419, title IV, §404(a)(4), Nov. 1, 2000, 114 Stat. 1864.)
 
 #### Amendments
 
+2000—Subsec. (c)(1). Pub. L. 106–419 substituted “for such disability. Care and services provided to a member so transferred” for “for such disability unless such transfer is during the last thirty days of such member's enlistment period or tour of duty, in which case such care and services provided to such member”.
+
 1999—Subsec. (c)(1). Pub. L. 106–117, §114(a), substituted “may be transferred” for “may not be transferred” in first sentence.
 
-Pub. L. 106–117, §114(a)(2), which directed the amendment of first sentence of par. (1) by striking out “unless such transfer is during the last thirty days of such member's enlistment or tour of duty”, was executed by striking out “unless such transfer is during the last thirty days of such member's enlistment period or tour of duty” after “services for such disability” to reflect the probable intent of Congress.
+Pub. L. 106–117, §114(a)(2), which directed the amendment of first sentence of par. (1) by striking out “unless such transfer is during the last thirty days of such member's enlistment or tour of duty”, could not be executed because that phrase did not appear.
 
 Subsec. (c)(2). Pub. L. 106–117, §114(b), struck out “during the last thirty days of such person's enlistment period or tour of duty” before period at end of first sentence.
 
@@ -226,5 +228,5 @@ Section 502(a)(2) of Pub. L. 100–689 ratified actions by the Administrator of 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1703 of this title; title 29 sections 1721, 2913.
+This section is referred to in section 1703 of this title; title 29 section 2913.
 

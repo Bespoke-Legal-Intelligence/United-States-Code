@@ -34,16 +34,6 @@ The first proviso under the heading “
 
 medical department” in act June 12, 1906, ch. 3078, 34 Stat. 255, cited as a credit to this section, was repealed by Pub. L. 98–557, §17(e)(3), Oct. 30, 1984, 98 Stat. 2868.
 
-#### Cross References
-
-Contracts for Indian supplies in advance of appropriations, see section 99 of Title 25, Indians.
-
-Expenditure by any department in excess of appropriations prohibited, see section 1341 of Title 31, Money and Finance.
-
-Printing appropriations not to be exceeded, see section 1102 of Title 44, Public Printing and Documents.
-
-Projects under Mexican treaties, authority to enter into contracts beyond amount appropriated, notwithstanding this section, see section 277d–3 of Title 22, Foreign Relations and Intercourse.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in title 8 section 1363a; title 10 section 2201; title 19 section 2081; title 22 section 277d–3; title 26 section 7608; title 33 section 891d; title 42 section 9619.

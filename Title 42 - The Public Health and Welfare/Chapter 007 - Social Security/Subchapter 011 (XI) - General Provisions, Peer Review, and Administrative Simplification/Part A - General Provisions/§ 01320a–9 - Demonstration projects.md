@@ -14,7 +14,7 @@
 
 &emsp;(A) If an appropriate application therefor is submitted, the Secretary shall consider authorizing a demonstration project which is designed to identify and address barriers that result in delays to adoptive placements for children in foster care.
 
-&emsp;(B) If an appropriate application therefor is submitted, the Secretary shall consider authorizing a demonstration project which is designed to identify and address parental substance abuse problems that endanger children and result in the placement of children in foster care, including through the placement of children with their parents in residential treatment facilities (including residential treatment facilities for post-partum depression) that are specifically designed to serve parents and children together in order to promote family reunification and that can ensure the health and safety of the children in such placements.
+&emsp;(B) If an appropriate application therefor is submitted, the Secretary shall consider authorizing a demonstration project which is designed to identify and address parental substance abuse problems that endanger childrenand result in the placement of children in foster care, including through the placement of children with their parents in residential treatment facilities (including residential treatment facilities for post-partum depression) that are specifically designed to serve parents and children together in order to promote family reunification and that can ensure the health and safety of the children in such placements.
 
 &emsp;(C) If an appropriate application therefor is submitted, the Secretary shall consider authorizing a demonstration project which is designed to address kinship care.
 

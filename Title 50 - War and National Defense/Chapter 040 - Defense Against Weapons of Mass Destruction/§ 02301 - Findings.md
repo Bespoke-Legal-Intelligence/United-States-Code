@@ -6,7 +6,7 @@ Congress makes the following findings:
 
 &emsp;(2) The former Soviet Union produced and maintained a vast array of nuclear, biological, and chemical weapons of mass destruction.
 
-&emsp;(3) Many of the states of the former Soviet Union retain the facilities, materials, andtechnologies capable of producing additional quantities of weapons of mass destruction.
+&emsp;(3) Many of the states of the former Soviet Union retain the facilities, materials, and technologies capable of producing additional quantities of weapons of mass destruction.
 
 &emsp;(4) The disintegration of the former Soviet Union was accompanied by disruptions of command and control systems, deficiencies in accountability for weapons, weapons-related materials and technologies, economic hardships, and significant gaps in border control among the states of the former Soviet Union. The problems of organized crime and corruption in the states of the former Soviet Union increase the potential for proliferation of nuclear, radiological, biological, and chemical weapons and related materials.
 
@@ -64,9 +64,155 @@ Pub. L. 104–293, title VII, §701, Oct. 11, 1996, 110 Stat. 3470, provided tha
 
 Section 1401 of title XIV of div. A of Pub. L. 104–201 provided that: “This title \[enacting this chapter, section 382 of Title 10, Armed Forces, and sections 175a and 2332d of Title 18, Crimes and Criminal Procedure, amending section 1705 of this title, section 372 of Title 10, and provisions set out as a note under section 5955 of Title 22, Foreign Relations and Intercourse\] may be cited as the ‘Defense Against Weapons of Mass Destruction Act of 1996’.”
 
+#### Commission to Assess the Threat to the United States From Electromagnetic Pulse (EMP) Attack
+
+Pub. L. 106–398, §1 \[\[div. A\], title XIV\], Oct. 30, 2000, 114 Stat. 1654, 1654A–345, provided that:
+
+#### “SEC. 1401. ESTABLISHMENT OF COMMISSION.
+
+“(a)
+
+Establishment.—There is hereby established a commission to be known as the ‘Commission to Assess the Threat to the United States from Electromagnetic Pulse Attack’ (hereafter in this title referred to as the ‘Commission’).
+
+“(b)
+
+Composition.—The Commission shall be composed of nine members. Seven of the members shall be appointed by the Secretary of Defense and two of the members shall be appointed by the Director of the Federal Emergency Management Agency. In selecting individuals for appointment to the Commission, the Secretary of Defense shall consult with the chairmen and ranking minority members of the Committees on Armed Services of the Senate and House of Representatives.
+
+“(c)
+
+Qualifications.—Members of the Commission shall be appointed from among private United States citizens with knowledge and expertise in the scientific, technical, and military aspects of electromagnetic pulse (hereafter in this title referred to as ‘EMP’) effects resulting from the detonation of a nuclear weapon or weapons at high altitude, sometimes referred to as high-altitude electromagnetic pulse effects (HEMP).
+
+“(d)
+
+Chairman of Commission.—The Secretary of Defense shall designate one of the members of the Commission to serve as chairman of the Commission.
+
+“(e)
+
+Period of Appointment; Vacancies.—Members shall be appointed for the life of the Commission. Any vacancy in the Commission shall be filled in the same manner as the original appointment.
+
+“(f)
+
+Security Clearances.—All members of the Commission shall hold appropriate security clearances.
+
+“(g)
+
+Initial Organization Requirements.—All appointments to the Commission shall be made not later than 90 days after the date of the enactment of this Act \[Oct. 30, 2000\]. The Commission shall convene its first meeting not later than 60 days after the date as of which all members of the Commission have been appointed.
+
+#### “SEC. 1402. DUTIES OF COMMISSION.
+
+“(a)
+
+Review of EMP Threat.—The Commission shall assess—
+
+&emsp;“(1) the nature and magnitude of potential high-altitude EMP threats to the United States from all potentially hostile states or non-state actors that have or could acquire nuclear weapons and ballistic missiles enabling them to perform a high-altitude EMP attack against the United States within the next 15 years;
+
+&emsp;“(2) the vulnerability of United States military and especially civilian systems to an EMP attack, giving special attention to vulnerability of the civilian infrastructure as a matter of emergency preparedness;
+
+&emsp;“(3) the capability of the United States to repair and recover from damage inflicted on United States military and civilian systems by an EMP attack; and
+
+&emsp;“(4) the feasibility and cost of hardening select military and civilian systems against EMP attack.
+
+“(b)
+
+Recommendation.—The Commission shall recommend any steps it believes should be taken by the United States to better protect its military and civilian systems from EMP attack.
+
+“(c)
+
+Cooperation From Government Officials.—In carrying out its duties, the Commission should receive the full and timely cooperation of the Secretary of Defense, the Director of the Federal Emergency Management Agency, and any other United States Government official serving in the Department of Defense or Armed Forces in providing the Commission with analyses, briefings, and other information necessary for the fulfillment of its responsibilities.
+
+#### “SEC. 1403. REPORTS.
+
+“(a)
+
+Commission Report.—The Commission shall, not later than one year after the date of its first meeting, submit to Congress, the Secretary of Defense, and the Director of the Federal Emergency Management Agency a report on the Commission's findings and conclusions.
+
+“(b)
+
+Secretary of Defense Report.—Not later than one year after the date of the Commission's report under subsection (a), the Secretary of Defense shall submit to Congress a report—
+
+&emsp;“(1) commenting on the Commission's findings and conclusions;
+
+&emsp;“(2) describing political-military scenarios that could possibly lead to an EMP attack against the United States;
+
+&emsp;“(3) evaluating the relative likelihood of an EMP attack against the United States compared to other threats involving nuclear weapons; and
+
+&emsp;“(4) explaining what actions, if any, the Secretary intends to take to implement the recommendations of the Commission and the Secretary's reasons for doing so.
+
+#### “SEC. 1404. POWERS.
+
+“(a)
+
+Hearings.—The Commission or, at its direction, any panel or member of the Commission, may, for the purpose of carrying out the provisions of this title, hold hearings, take testimony, receive evidence, and administer oaths to the extent that the Commission or any panel or member considers advisable.
+
+“(b)
+
+Information.—The Commission may secure directly from the Department of Defense, the Central Intelligence Agency, and any other Federal department or agency information that the Commission considers necessary to enable the Commission to carry out its responsibilities under this title.
+
+#### “SEC. 1405. COMMISSION PROCEDURES.
+
+“(a)
+
+Meetings.—The Commission shall meet at the call of the Chairman.
+
+“(b)
+
+Quorum.—(1) Five members of the Commission shall constitute a quorum other than for the purpose of holding hearings.
+
+“(2) The Commission shall act by resolution agreed to by a majority of the members of the Commission.
+
+“(c)
+
+Commission.—The Commission may establish panels composed of less than full membership of the Commission for the purpose of carrying out the Commission's duties. The actions of each such panel shall be subject to the review and control of the Commission. Any findings and determinations made by such a panel shall not be considered the findings and determinations of the Commission unless approved by the Commission.
+
+“(d)
+
+Authority of Individuals To Act for Commission.—Any agent or member of the Commission may, if authorized by the Commission, take any action which the Commission is authorized to take under this title.
+
+#### “SEC. 1406. PERSONNEL MATTERS.
+
+“(a)
+
+Pay of Members.—Members of the Commission shall serve without pay by reason of their work on the Commission.
+
+“(b)
+
+Travel Expenses.—The members of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, while away from their homes or regular places of business in the performance of services for the Commission.
+
+“(c)
+
+Staff.—(1) The chairman of the Commission may, without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, appoint a staff director and such additional personnel as may be necessary to enable the Commission to perform its duties. The appointment of a staff director shall be subject to the approval of the Commission.
+
+“(2) The chairman of the Commission may fix the pay of the staff director and other personnel without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code, relating to classification of positions and General Schedule pay rates, except that the rate of pay fixed under this paragraph for the staff director may not exceed the rate payable for level V of the Executive Schedule under section 5316 of such title and the rate of pay for other personnel may not exceed the maximum rate payable for grade GS–15 of the General Schedule.
+
+“(d)
+
+Detail of Government Employees.—Upon request of the chairman of the Commission, the head of any Federal department or agency may detail, on a nonreimbursable basis, any personnel of that department or agency to the Commission to assist it in carrying out its duties.
+
+“(e)
+
+Procurement of Temporary and Intermittent Services.—The chairman of the Commission may procure temporary and intermittent services under section 3109(b) of title 5, United States Code, at rates for individuals which do not exceed the daily equivalent of the annual rate of basic pay payable for level V of the Executive Schedule under section 5316 of such title.
+
+#### “SEC. 1407. MISCELLANEOUS ADMINISTRATIVE PROVISIONS.
+
+“(a)
+
+Postal and Printing Services.—The Commission may use the United States mails and obtain printing and binding services in the same manner and under the same conditions as other departments and agencies of the Federal Government.
+
+“(b)
+
+Miscellaneous Administrative and Support Services.—The Secretary of Defense shall furnish the Commission, on a reimbursable basis, any administrative and support services requested by the Commission.
+
+#### “SEC. 1408. FUNDING.
+
+“Funds for activities of the Commission shall be provided from amounts appropriated for the Department of Defense for operation and maintenance for Defense-wide activities for fiscal year 2001. Upon receipt of a written certification from the Chairman of the Commission specifying the funds required for the activities of the Commission, the Secretary of Defense shall promptly disburse to the Commission, from such amounts, the funds required by the Commission as stated in such certification.
+
+#### “SEC. 1409. TERMINATION OF THE COMMISSION.
+
+“The Commission shall terminate 60 days after the date of the submission of its report under section 1403(a).”
+
 #### Domestic Preparedness for Defense Against Weapons of Mass Destruction
 
-Pub. L. 105–261, div. A, title XIV, Oct. 17, 1998, 112 Stat. 2167, as amended by Pub. L. 106–65, div. A, title X, §1064, Oct. 5, 1999, 113 Stat. 769, provided that:
+Pub. L. 105–261, div. A, title XIV, Oct. 17, 1998, 112 Stat. 2167, as amended by Pub. L. 106–65, div. A, title X, §1064, Oct. 5, 1999, 113 Stat. 769, Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(d)(7)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–293, provided that:
 
 #### “SEC. 1401. SHORT TITLE.
 
@@ -90,7 +236,7 @@ Report.—Not later than January 31, 1999, the President shall submit to Congres
 
 “(a)
 
-Threat and Risk Assessments.—Assistance to Federal, State, and local agencies provided under the program under section 1402 shall include the performance of assessments of the threat and risk of terrorist employment of weapons of mass destruction against cities and other local areas. Such assessments shall be used by Federal, State, and local agencies to determine the training and equipment requirements under this program and shall be performed as a collaborative effort with State and local agencies.
+Threat and Risk Assessments.—Assistance to Federal, State, and local agencies provided under the program under section 1402 shall include the performance of assessments of the threat and risk of terrorist employment of weapons of mass destruction againstcities and other local areas. Such assessments shall be used by Federal, State, and local agencies to determine the training and equipment requirements under this program and shall be performed as a collaborative effort with State and local agencies.
 
 “(b)
 
@@ -162,7 +308,7 @@ Funding.—The Secretary of Defense shall provide the funds necessary for the pa
 
 Compensation of Panel Members.—(1) Members of the panel shall serve without pay by reason of their work on the panel.
 
-“(2) Members of the panel shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter \[chapter\] 57 of title 5, United States Code, while away from their homes or regular place of business in performance of services for the panel.
+“(2) Members of the panel shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under chapter 57 of title 5, United States Code, while away from their homes or regular place of business in performance of services for the panel.
 
 “(<i>l</i>)
 

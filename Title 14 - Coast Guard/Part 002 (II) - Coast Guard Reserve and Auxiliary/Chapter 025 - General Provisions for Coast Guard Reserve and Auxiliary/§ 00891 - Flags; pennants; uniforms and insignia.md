@@ -12,7 +12,3 @@ Said section has been divided. The first two sentences are placed in this sectio
 
 Changes were made in phraseology. 81st Congress, House Report No. 557.
 
-#### Cross References
-
-Coast Guard ensigns and pennants, see section 638 of this title.
-

@@ -28,7 +28,7 @@ As used in this subchapter:
 
 &emsp;&emsp;&emsp;(A) knowingly engages in clandestine intelligence gathering activities for or on behalf of a foreign power, which activities involve or may involve a violation of the criminal statutes of the United States;
 
-&emsp;&emsp;&emsp;(B) pursuant to the direction of an intelligence service or network of a foreign power, knowingly engages in any other clandestine intelligence activities for oron behalf of such foreign power, which activities involve or are about to involve a violation of the criminal statutes of the United States;
+&emsp;&emsp;&emsp;(B) pursuant to the direction of an intelligence service or network of a foreign power, knowingly engages in any other clandestine intelligence activities for or on behalf of such foreign power, which activities involve or are about to involve a violation of the criminal statutes of the United States;
 
 &emsp;&emsp;&emsp;(C) knowingly engages in sabotage or international terrorism, or activities that are in preparation therefor, for or on behalf of a foreign power;
 
@@ -88,7 +88,7 @@ As used in this subchapter:
 
 &emsp;&emsp;(3) notwithstanding paragraphs (1) and (2), procedures that allow for the retention and dissemination of information that is evidence of a crime which has been, is being, or is about to be committed and that is to be retained or disseminated for law enforcement purposes; and
 
-&emsp;&emsp;(4) notwithstanding paragraphs (1), (2), and (3), with respect to any electronic surveillance approved pursuant to section 1802(a) of this title, procedures that require that nocontents of any communication to which a United States person is a party shall be disclosed, disseminated, or used for any purpose or retained for longer than twenty-four hours unless a court order under section 1805 of this title is obtained or unless the Attorney General determines that the information indicates a threat of death or serious bodily harm to any person.
+&emsp;&emsp;(4) notwithstanding paragraphs (1), (2), and (3), with respect to any electronic surveillance approved pursuant to section 1802(a) of this title, procedures that require that no contents of any communication to which a United States person is a party shall be disclosed, disseminated, or used for any purpose or retained for longer than twenty-four hours unless a court order under section 1805 of this title is obtained or unless the Attorney General determines that the information indicates a threat of death or serious bodily harm to any person.
 
 &emsp;(i) “United States person” means a citizen of the United States, an alien lawfully admitted for permanent residence (as defined in section 1101(a)(20) of title 8), an unincorporated association a substantial number of members of which are citizens of the United States or aliens lawfully admitted for permanent residence, or a corporation which is incorporated in the United States, but does not include a corporation or an association which is a foreign power, as defined in subsection (a)(1), (2), or (3) of this section.
 
@@ -112,11 +112,19 @@ As used in this subchapter:
 
 #### Effective Date; Exception
 
-Pub. L. 95–511, title VI, §601, formerly title III, §301, Oct. 25, 1978, 92 Stat. 1798, as renumbered title IV, §401, and amended by Pub. L. 103–359, title VIII, §807(a)(1), (2), Oct. 14, 1994, 108 Stat. 3443; renumbered title VI, §601, and amended Pub. L. 105–272, title VI, §§601(1), 603(a), Oct. 20, 1998, 112 Stat. 2404, 2412, provided that: “The provisions of this Act \[enacting this chapter, amending sections 2511, 2518, and 2519 of Title 18, Crimes and Criminal Procedure, and enacting provision set out as a note below\] (other than titles III, IV, and V \[enacting subchapters II, III, and IV, respectively, of this chapter\]) and the amendments made hereby shall become effective upon the date of enactment of this Act \[Oct. 25, 1978\], except that any electronic surveillance approved by the Attorney General to gather foreign intelligence information shall not be deemed unlawful for failure to follow the procedures of this Act, if that surveillance is terminated or an order approving that surveillance is obtained under title I of this Act \[enacting this subchapter\] within ninety days following the designation of the first judge pursuant to section 103 of this Act \[section 1803 of this title\].”
+Pub. L. 95–511, title VI, §601, formerly title III, §301, Oct. 25, 1978, 92 Stat. 1798, as renumbered title IV, §401,and amended by Pub. L. 103–359, title VIII, §807(a)(1), (2), Oct. 14, 1994, 108 Stat. 3443; renumbered title VI, §601, and amended Pub. L. 105–272, title VI, §§601(1), 603(a), Oct. 20, 1998, 112 Stat. 2404, 2412, provided that: “The provisions of this Act \[enacting this chapter, amending sections 2511, 2518, and 2519 of Title 18, Crimes and Criminal Procedure, and enacting provision set out as a note below\] (other than titles III, IV, and V \[enacting subchapters II, III, and IV, respectively, of this chapter\]) and the amendments made hereby shall become effective upon the date of enactment of this Act \[Oct. 25, 1978\], except that any electronic surveillance approved by the Attorney General to gather foreign intelligence information shall not be deemed unlawful for failure to follow the procedures of this Act, if that surveillance is terminated or an order approving that surveillance is obtained under title I of this Act \[enacting this subchapter\] within ninety days following the designation of the first judge pursuant to section 103 of this Act \[section 1803 of this title\].”
+
+#### Short Title of 2000 Amendment
+
+Pub. L. 106–567, title VI, §601, Dec. 27, 2000, 114 Stat. 2850, provided that: “This title \[enacting section 9A of the Classified Information Procedures Act, set out in the Appendix to Title 18, Crimes and Criminal Procedure, amending sections 402a, 1804, 1805, 1808, 1823, and 1824 of this title, and enacting provisions set out as notes under this section and section 1806 of this title\] may be cited as the ‘Counterintelligence Reform Act of 2000’.”
 
 #### Short Title
 
-Section 1 of Pub. L. 95–511 provided: “That this Act \[enacting this chapter, amending sections 2511, 2518, and 2519 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as a note above\] may be cited as the ‘Foreign Intelligence Surveillance Act of 1978’.”
+Section 1 of Pub. L. 95–511 provided in part: “That this Act \[enacting this chapter, amending sections 2511, 2518, and 2519 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as a note above\] may be cited as the ‘Foreign Intelligence Surveillance Act of 1978’.”
+
+#### Severability
+
+Pub. L. 106–567, title VI, §608, Dec. 27, 2000, 114 Stat. 2856, provided that: “If any provision of this title \[see Short Title of 2000 Amendment note above\] (including an amendment made by this title), or the application thereof, to any person or circumstance, is held invalid, the remainder of this title (including the amendments made by this title), and the application thereof, to other persons or circumstances shall not be affected thereby.”
 
 #### Termination of Trust Territory of the Pacific Islands
 
@@ -124,5 +132,5 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 402a, 438, 1802, 1804, 1805, 1810, 1821, 1822, 1823, 1824, 1828, 1841, 1861 of this title; title 12 section 3414; title 15 section 1681u; title 18 sections 794, 2511, 2709; title 22 section 1442a.
+This section is referred to in sections 402a, 438, 1802, 1804, 1805, 1810, 1821, 1822, 1823, 1824, 1828, 1841, 1861 of this title; title 12 section 3414; title 15 section 1681u; title 18 sections 794, 2511, 2709; title 22 section 1442a; title 42 section 10603b.
 

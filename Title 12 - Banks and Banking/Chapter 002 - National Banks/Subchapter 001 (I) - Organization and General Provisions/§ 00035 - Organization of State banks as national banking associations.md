@@ -28,7 +28,3 @@ R.S. §5154 derived from act June 3, 1864, ch. 106, §44, 13 Stat. 112, which wa
 
 Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
 
-#### Cross References
-
-Conversion of national banks into State banks, see sections 214 to 214c of this title.
-

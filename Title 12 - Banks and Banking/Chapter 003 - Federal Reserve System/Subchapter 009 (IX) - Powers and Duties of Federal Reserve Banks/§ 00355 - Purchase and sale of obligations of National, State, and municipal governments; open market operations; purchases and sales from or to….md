@@ -20,9 +20,9 @@ Section is comprised of subsec. (b) of section 14 of act Dec. 23, 1913. For clas
 
 1980—Par. (1). Pub. L. 96–221 inserted provisions relating to obligations of a foreign government or agency thereof.
 
-1979—Par. (1). Pub. L. 96–18, §1(a), struck out proviso under which Federal Reserve banks had been allowed, until May 1, 1979, to buy and sell either in the open market or directly from or to the United States bonds, notes, or other obligations which were direct obligations of the United States or which were fully guaranteed by the United States and, after Apr. 30, 1979, had allowed such obligations to be purchased but only in the open market.
+1979—Par. (1). Pub. L. 96–18, §1(a), struck out proviso under which Federal Reserve banks had been allowed, until May 1, 1979, to buy and sell either in the open market or directly from or to the United States bonds, notes, or other obligations which were direct obligations of the United States or which were fully guaranteed by the United States and, after Apr. 30, 1979, hadallowed such obligations to be purchased but only in the open market.
 
-Pub. L. 96–18, §3(b), inserted provision that notwithstanding any other provision of this chapter, any bonds, notes, or other obligations which are direct obligations of the United States or which are fully guaranteed by the United States as to principal and interestmay be bought and sold without regard to maturities but only in the open market.
+Pub. L. 96–18, §3(b), inserted provision that notwithstanding any other provision of this chapter, any bonds, notes, or other obligations which are direct obligations of the United States or which are fully guaranteed by the United States as to principal and interest may be bought and sold without regard to maturities but only in the open market.
 
 Par. (2). Pub. L. 96–18, §§1(b), 3(a), temporarily substituted “the United States or any agency of the United States, and to lend, under the direction and regulations of the Federal Open Market Committee, any such obligation to the Secretary of the Treasury” for “any agency of the United States”. See Effective and Termination Dates of 1979 Amendment note set out below.
 

@@ -1,14 +1,16 @@
 ### §2302. Utilization of defense articles and defense services
 
-Defense articles and defense services to any country shall be furnished solely for internal security, for legitimate self-defense, to permit the recipient country to participate in regional or collective arrangements or measures consistent with the Charter of the United Nations, or otherwise to permit the recipient country to participate in collective measures requested by the United Nations for the purpose of maintaining or restoring international peace and security, or for the purpose of assisting foreign military forces in less developed friendly countries (or the voluntary efforts of personnel of the Armed Forces of the United States in such countries) to construct public works and to engage in other activities helpful to the economic and social development of such friendly countries. It is the sense of the Congress that such foreign military forces should not be maintained or established solely for civic action activities and that such civic action activities not significantly detract from the capability of the military forces to perform their military missions and be coordinated with and form part of the total economic and social development effort.
+Defense articles and defense services to any country shall be furnished solely for internal security (including for antiterrorism and nonproliferation purposes), for legitimate self-defense, to permit the recipient country to participate in regional or collective arrangements or measures consistent with the Charter of the United Nations, or otherwise to permit the recipient country to participate in collective measures requested by the United Nations for the purpose of maintaining or restoring international peace and security, or for the purpose of assisting foreign military forces in less developed friendly countries (or the voluntary efforts of personnel of the Armed Forces of the United States in such countries) to construct public works and to engage in other activities helpful to the economic and social development of such friendly countries. It is the sense of the Congress that such foreign military forces should not be maintained or established solely for civic action activities and that such civic action activities not significantly detract from the capability of the military forces to perform their military missions and be coordinated with and form part of the total economic and social development effort.
 
-(Pub. L. 87–195, pt. II, §502, formerly §505(a), Sept. 4, 1961, 75 Stat. 436; Pub. L. 88–205, pt. II, §202(b), Dec. 16, 1963, 77 Stat. 384; Pub. L. 89–171, pt. II, §201(c), Sept. 6, 1965, 79 Stat. 656; renumbered and amended Pub. L. 90–137, pt. II, §201(d), Nov. 14, 1967, 81 Stat. 456.)
+(Pub. L. 87–195, pt. II, §502, formerly §505(a), Sept. 4, 1961, 75 Stat. 436; Pub. L. 88–205, pt. II, §202(b), Dec. 16, 1963, 77 Stat. 384; Pub. L. 89–171, pt. II, §201(c), Sept. 6, 1965, 79 Stat. 656; renumbered and amended Pub. L. 90–137, pt. II, §201(d), Nov. 14, 1967, 81 Stat. 456; Pub. L. 106–280, title VII, §701, Oct. 6, 2000, 114 Stat. 861.)
 
 #### Codification
 
 Section was formerly classified to section 2313 of this title.
 
 #### Amendments
+
+2000—Pub. L. 106–280 inserted “(including for antiterrorism and nonproliferation purposes)” after “internal security” in first sentence.
 
 1967—Pub. L. 90–137 substituted “Defense articles and defense services” for “Military assistance”.
 

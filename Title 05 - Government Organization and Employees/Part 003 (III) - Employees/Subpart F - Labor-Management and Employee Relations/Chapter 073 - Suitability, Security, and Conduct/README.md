@@ -60,7 +60,17 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER VII—MANDATORY REMOVAL FROM EMPLOYMENT OF CONVICTED LAW ENFORCEMENT OFFICERS
+
+|  |  |
+| :--- | ---: |
+| [7371\.](Subchapter%20007%20%28VII%29%20-%20Mandatory%20Removal%20from%20Employment%20of%20Convicted%20Law%20Enforcement%20Officers/%C2%A7%2007371%20-%20Mandatory%20removal%20from%20employment%20of%20law%20enforcement%20officers%20convicted%20of%20felonies.md) | Mandatory removal from employment of law enforcement officers convicted of felonies. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Amendments
+
+2000—Pub. L. 106–554, §1(a)(3) \[title VI, §639(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–168, added subchapter VII heading and item 7371.
 
 1993—Pub. L. 103–94, §2(b)(2), Oct. 6, 1993, 107 Stat. 1004, amended analysis for subchapter III generally, reenacting subchapter III heading without change, substituting “participation” for “contributions and services” in item 7321, “Definitions” for “Political use of authority or influence; prohibition” in item 7322, “activity authorized; prohibitions” for “contributions; prohibition” in item 7323, “Political activities on duty; prohibition” for “Influencing elections; taking part in political campaigns; prohibitions; exceptions” in item 7324, “Political activity permitted; employees residing in certain municipalities” for “Penalties” in item 7325, and “Penalties” for “Nonpartisan political activity permitted” in item 7326, and striking out item 7327 “Political activity permitted; employees residing in certain municipalities” and item 7328 “General Accounting Office employees”.
 
@@ -89,3 +99,4 @@ This chapter is referred to in section 3374 of this title; title 39 section 410;
 - [Subchapter 004 (IV) - Foreign Gifts and Decorations](Subchapter%20004%20%28IV%29%20-%20Foreign%20Gifts%20and%20Decorations/README.md)
 - [Subchapter 005 (V) - Misconduct](Subchapter%20005%20%28V%29%20-%20Misconduct/README.md)
 - [Subchapter 006 (VI) - Drug Abuse, Alcohol Abuse, and Alcoholism](Subchapter%20006%20%28VI%29%20-%20Drug%20Abuse%2C%20Alcohol%20Abuse%2C%20and%20Alcoholism/README.md)
+- [Subchapter 007 (VII) - Mandatory Removal from Employment of Convicted Law Enforcement Officers](Subchapter%20007%20%28VII%29%20-%20Mandatory%20Removal%20from%20Employment%20of%20Convicted%20Law%20Enforcement%20Officers/README.md)

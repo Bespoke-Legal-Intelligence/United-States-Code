@@ -60,7 +60,7 @@
 
 #### (d) Waiver, reduction, and deferment
 
-The Commission may waive, reduce, or defer payment of a fee in any specific instance for good cause shown, where such action would promote the public interest.
+The Commission may waive, reduce, or defer payment of a fee in any specific instance forgood cause shown, where such action would promote the public interest.
 
 #### (e) Deposit of collections
 
@@ -306,7 +306,7 @@ The charges established under this section shall not be applicable to (1) govern
 
 The Commission shall develop accounting systems necessary to making the adjustments authorized by subsection (b)(3) of this section. In the Commission's annual report, the Commission shall prepare an analysis of its progress in developing such systems and shall afford interested persons the opportunity to submit comments concerning the allocation of the costs of performing the functions described in subsection (a) of this section among the services in the Schedule.
 
-(June 19, 1934, ch. 652, title I, §9, as added Pub. L. 103–66, title VI, §6003(a)(1), Aug. 10, 1993, 107 Stat. 397; amended Pub. L. 103–121, title I, Oct. 27, 1993, 107 Stat. 1167; Pub. L. 103–414, title III, §303(a)(5), (6), Oct. 25, 1994, 108 Stat. 4294.)
+(June 19, 1934, ch. 652, title I, §9, as added Pub. L. 103–66, title VI, §6003(a)(1), Aug. 10, 1993, 107 Stat. 397; amended Pub. L. 103–121, title I, Oct.27, 1993, 107 Stat. 1167; Pub. L. 103–414, title III, §303(a)(5), (6), Oct. 25, 1994, 108 Stat. 4294.)
 
 #### Amendments
 

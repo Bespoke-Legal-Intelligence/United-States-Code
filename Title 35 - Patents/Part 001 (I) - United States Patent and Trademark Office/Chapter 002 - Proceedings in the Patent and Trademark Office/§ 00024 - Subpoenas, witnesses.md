@@ -4,7 +4,7 @@ The clerk of any United States court for the district wherein testimony is to be
 
 Every witness subpoenaed and in attendance shall be allowed the fees and traveling expenses allowed to witnesses attending the United States district courts.
 
-A judge of a court whose clerk issued a subpoena may enforce obedience to the process or punish disobedience as in other like cases, on proof that a witness, served with such subpoena, neglected or refused to appear or to testify. No witness shall be deemed guilty of contempt for disobeying such subpoena unless his fees and traveling expenses in going to, and returning from, and one day's attendance at the place of examination, are paid or tendered him at the time of the service of the subpoena; nor for refusing to disclose any secret matter except upon appropriate order of the court which issued the subpoena.
+A judge of a court whose clerk issued a subpoena may enforce obedience to the process or punish disobedience as in other like cases, on proof that a witness, served with such subpoena, neglected or refused to appear or to testify. No witness shall be deemed guilty of contempt fordisobeying such subpoena unless his fees and traveling expenses in going to, and returning from, and one day's attendance at the place of examination, are paid or tendered him at the time of the service of the subpoena; nor for refusing to disclose any secret matter except upon appropriate order of the court which issued the subpoena.
 
 (July 19, 1952, ch. 950, 66 Stat. 795; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949.)
 
@@ -25,14 +25,6 @@ The Federal Rules of Civil Procedure, referred to in text, are set out in the Ap
 #### Effective Date of 1975 Amendment
 
 Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 93–596, set out as a note under section 1111 of Title 15, Commerce and Trade.
-
-#### Federal Rules of Civil Procedure
-
-Subpoena, see rule 45, Title 28, Appendix, Judiciary and Judicial Procedure.
-
-#### Cross References
-
-Fees of witnesses, see sections 1821 and 1825 of Title 28, Judiciary and Judicial Procedure.
 
 #### Section Referred to in Other Sections
 

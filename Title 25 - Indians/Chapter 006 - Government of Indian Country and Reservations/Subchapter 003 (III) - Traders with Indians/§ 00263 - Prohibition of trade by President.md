@@ -8,9 +8,3 @@ The President is authorized, whenever in his opinion the public interest may req
 
 R.S. §2132 derived from act June 30, 1834, ch. 161, §3, 4 Stat. 729.
 
-#### Cross References
-
-Persons permitted to trade with Indians, see section 262 of this title.
-
-Regulations by President, see section 9 of this title.
-

@@ -34,7 +34,7 @@ Term of Office.—The members of the Council shall be appointed for a term of of
 
 (c)
 
-Election and Duties of Officers.—The Council Chairman and Vice Chairman and otherappropriate officers of the Council shall be elected by and from the voting members of the Council. The Council Chairman shall serve as the Council's executive officer and shall direct the administration of the Council, assign officer and committee duties, and shall be responsible for issuing and communicating the reports, policy positions and statements of the Council. In the event that the Council Chairman is unable to serve, the Vice Chairman shall act as Council Chairman.
+Election and Duties of Officers.—The Council Chairman and Vice Chairman and other appropriate officers of the Council shall be elected by and from the voting members of the Council. The Council Chairman shall serve as the Council's executive officer and shall direct the administration of the Council, assign officer and committee duties, and shall be responsible for issuing and communicating the reports, policy positions and statements of the Council. In the event that the Council Chairman is unable to serve, the Vice Chairman shall act as Council Chairman.
 
 (d)
 
@@ -60,7 +60,7 @@ Meetings.—The Council shall meet at least semi-annually and shall hold other m
 
 (f)
 
-Functions and Duties; Annual Report.—(1) The Council shall advise the Secretary, the Chairman, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Transportation and Infrastructure of the House of Representatives with respect to rail transportation policy issues it considers significant, with particular attention to issues of importance to small shippers and small railroads, including car supply, rates, competition, and effective procedures for addressing legitimate shipper and other claims.
+Functions and Duties; Annual Report.—(1) The Council shall advise the Secretary, the Chairman, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Transportation and Infrastructure of the House of Representatives with respect to rail transportation policy issues itconsiders significant, with particular attention to issues of importance to small shippers and small railroads, including car supply, rates, competition, and effective procedures for addressing legitimate shipper and other claims.
 
 (2) To the extent the Council addresses specific grain car issues, it shall coordinate such activities with the National Grain Car Council. The Secretary and Chairman shall cooperate with the Council to provide research, technical and other reasonable support in developing any reports and policy statements required or authorized by this subsection.
 

@@ -48,10 +48,6 @@ In subsection (b), former sections 69 (1st 34 words) and 72 are combined and res
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
-#### Cross References
-
-Time limitation on claims against Government employees who received dual compensation in violation of the dual compensation laws, see section 3712 of Title 31, Money and Finance.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in title 22 sections 3664, 3971; title 39 section 1001.

@@ -8,10 +8,6 @@ On and after May 11, 1938, unallotted lands within any Indian reservation or lan
 
 Section 7 of act May 11, 1938, provided that: “All Act \[Acts\] or parts of Acts inconsistent herewith are hereby repealed.”
 
-#### Cross References
-
-Wind River Indian Reservation, administration and leasing of minerals, see note set out under section 611 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 396d, 396f, 396g, 459c, 1724, 2105 of this title.
